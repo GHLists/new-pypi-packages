@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T17:09:02Z,blockchain-visualizer,0.1.1,Saumya Kanti Sarma,MIT,9250,A simple Python blockchain implementation and visualization-oriented library
+2026-09-23T17:09:49Z,my-latex-document,1.0.0,,,1852462,PDF document installation package
+2026-09-23T17:11:14Z,magicdispel,0.1.1,VincentC,MIT,165955,Clean common photo metadata locally while preserving image quality
+2026-09-23T17:11:59Z,typical-ai,0.1.0,Guy Nachshon <Guy@ozlabs.ai>,Apache-2.0,36653,"Typed, direct decisions from a pretrained language model. State + question + runtime label set in, a probability distribution over those labels (plus abstain) out, in one forward pass with nothing ge…"
+2026-09-23T17:12:13Z,py2-rotor,1.0.1,Lance Ellinghouse,,7434,The Python 2 Rotor Module
+2026-09-23T17:15:09Z,kalir-python,0.1.0,,MIT,191547,Official Python SDK for the Kalir Public API — digital risk intelligence and signed webhooks.
+2026-09-23T17:16:25Z,inventree-bulk-freezer,1.5.2.post2,Harley King,MIT,1373800,Freezer-box workflows extending InvenTree Bulk Plugin 1.5.2
+2026-09-23T17:16:55Z,causality-ai,0.1.0a1,,MIT,6982,"Plain-text character, word, and line counts"
+2026-09-23T17:16:57Z,trajectorylearning,0.1.0a1,,MIT,7616,Streaming JSON Lines reader and record counter
+2026-09-23T17:17:16Z,easylink-mavlink,0.1.1,EASYLink Contributors,,1578465,"Lightweight, zero-friction Python library for MAVLink drone control (ArduPilot & PX4)"
+2026-09-23T17:18:29Z,adafruit-circuitpython-usb-host-camera,1.0.0,Adafruit Industries <circuitpython@adafruit.com>,MIT,41839,CircuitPython USB host driver for cameras
+2026-09-23T17:19:23Z,haloviewer,0.2.0,Clemens Drüe <druee@uni-trier.de>,EUPL-1.2,129779,"Viewer, plotting and synchronisation tools for Halo Photonics wind lidar data"
+2026-09-23T17:21:32Z,causalcore,0.1.0a1,,MIT,6646,Streaming SHA-256 file checksums
+2026-09-23T17:21:34Z,causality-protocol,0.1.0a1,,MIT,7627,Streaming JSON Lines reader and record counter
+2026-09-23T17:22:17Z,derive-py,0.1.3,8baller,MIT,445060,Python client for the Derive v3 API
+2026-09-23T17:23:42Z,hookly,0.1.1,Safaraliyev Xushnud <xushnudbackend@gmail.com>,MIT,13232,"Batteries-included backend toolkit for Python — API, DB and CRM, ready to call."
+2026-09-23T17:23:44Z,rengo-cli,0.1.0,,,86539,Public Rengo developer authentication and package credential helper
+2026-09-23T17:26:13Z,ranwhat,0.1.1,Matija Mikulinec,MIT,115711,"Flight recorder and authority scanner for AI agents. Reads locally, transmits nothing."
+2026-09-23T17:26:18Z,tacet,0.1.0,CodePawl <hello@codepawl.com>,MIT,33702,Official Python client for the Tacet API
+2026-09-23T17:27:44Z,torch-tensorrt-executorch-runtime,0.1.0,,,74655376,Torch-TensorRT delegate for the ExecuTorch Python runtime
+2026-09-23T17:27:57Z,paydeck,1.0.1,"""Vikas Budde (codecraker)"" <vikas.budde@hotmail.com>",MIT,11922,Official Python SDK for PayDeck billing microservice
+2026-09-23T17:28:07Z,factory-sim,0.1.1,Divyansh Agrawal,Apache-2.0,2100244,"A fast, tick-exact simulator of an early-game factory, checked against recorded traces of the real game."
+2026-09-23T17:30:59Z,genome-comparator,0.4.6,Marc-Olivier Duceppe <marc-olivier.duceppe@inspection.gc.ca>,MIT,59369,"Fast genome comparison with Mash: distance matrix, UPGMA/NJ/ME trees with bootstrap support, and interactive PCoA"
+2026-09-23T17:33:32Z,openaxis,1.0.0rc1,Icebound Flame LLC <david@rotatrix.com>,Elastic-2.0 OR GPL-3.0-only,134417,Python client SDK for the OpenAxis input protocol
+2026-09-23T17:34:52Z,tlf-geo-profiler,0.1.0,,Apache-2.0,53707301,Coordinate -> Nepal administrative unit + demographic profile
+2026-09-23T17:36:41Z,geodesic-sdk,0.0.1,SeerAI <rfletcher@seerai.space>,,1760,Placeholder for the Geodesic SDK.
+2026-09-23T17:36:45Z,incident-io,1.0.0,"""incident.io"" <support@incident.io>",MIT,3604676,Python SDK for the incident.io API
+2026-09-23T17:38:01Z,keyhound,0.2.0,Felipe Convento,Apache-2.0,33388,"Find exposed credentials in your code, with rules for Brazilian payment gateways and services"
+2026-09-23T17:40:02Z,vasanth-love,2.0.0,Made with a lot of thought,"MIT License Copyright (c) 2026 Someone who cares Permission is hereby granted, free of charge, to a…",50988,"A small, quiet terminal experience."
+2026-09-23T17:40:03Z,omegakit,0.1.0,Patrick Lindemann,MIT,25699,Composable YAML configuration and Python object construction.
+2026-09-23T17:42:14Z,unlimitedpipe,0.1.0,UnlimitedPipe contributors,Apache-2.0,177922,"Pipe the public internet: collect, transform, diff and publish public web data as JSONL events."
+2026-09-23T17:42:45Z,bober-cli,0.2.0,Bober Systems <contact@bober-systems.ru>,MIT,7211,"Bober Systems Yandex ops CLI (Webmaster, Metrika, Direct, Business) — Go TUI, pip launcher"
+2026-09-23T17:44:55Z,cuiflow,0.0.1,synixbio <synixbio@gmail.com>,Apache-2.0,12415,"Clinical concept extraction and UMLS terminology mapping, combining mmlite and umlsmatch (under development)"
+2026-09-23T17:47:50Z,bitspark-archon-sdk,0.8.1,Bitspark,Apache-2.0,27263,"archon sdk: proof of possession and the signed envelope, one layer above the identity floor. Deterministic given its inputs; no RNG, no clock, no socket."
+2026-09-23T17:47:55Z,firstrate-data,0.1.0,,,87789,Download FirstRate Data market data into a partitioned DuckDB-backed Parquet store.
+2026-09-23T17:55:26Z,tiny-bclibc-wasm,0.0.1,o-murphy <thehelixpg@gmail.com>,,198490,"micropython-bclibc's tiny_bclibc API for CPython, PyPy and Pythonista, backed by tiny_bclibc compiled to WebAssembly"
+2026-09-23T17:57:50Z,jevbrief,0.0.1,Parth Komalwad,MIT,2180,"Clean, traceable state briefings for TypeSafe's Jev model. Early placeholder, v0.1.0 coming soon."
+2026-09-23T17:59:47Z,rocm-bindings-compiler,10.0.0.0.1.0,"""Advanced Micro Devices, Inc."" <hip-python.maintainer@amd.com>",MIT,146387237,"Python bindings for ROCm compiler infrastructure (LLVM, Comgr, Clang)"
+2026-09-23T17:59:57Z,rocm-bindings-core,10.0.0.0.1.0,"""Advanced Micro Devices, Inc."" <hip-python.maintainer@amd.com>",MIT,853230,Utility types and loaders for ROCm Python bindings
+2026-09-23T18:00:01Z,rocm-bindings-hip,10.0.0.0.1.0,"""Advanced Micro Devices, Inc."" <hip-python.maintainer@amd.com>",MIT,9433177,HIP and HIPRTC Python bindings for ROCm
+2026-09-23T18:00:06Z,rocm-bindings-libraries,10.0.0.0.1.0,"""Advanced Micro Devices, Inc."" <hip-python.maintainer@amd.com>",MIT,18963969,"ROCm library Python bindings (hipBLAS, hipSOLVER, RCCL, hipRAND, hipFFT, hipSPARSE, ROCTX)"
+2026-09-23T18:00:10Z,icloud-mcp-server,0.2.0,epinethrone,MIT,327709,"MCP server for iCloud Mail, Calendar, Contacts, Reminders, Notes and iCloud Drive. Self-hosted or local, approval-first."
+2026-09-23T18:01:54Z,claimtruth,0.0.1,"Vignesh Sathiyamurthy <vignesh.satya4@gmail.com>, Ashwini Srinivasan <ashwiniradha248@gmail.com>, R…",Apache-2.0,14897,Open-source engine for verifying claims against evidence.
+2026-09-23T18:03:35Z,voltnir-grpc-py-sdk,1.1.0,Voltnir,Apache-2.0,318542,"Python SDK for the Voltnir gateway: trade the EPEX SPOT M7 intraday market (the EPEX SPOT API) over gRPC, sync and async, with typed errors."
+2026-09-23T18:03:55Z,django-mvp-charts,0.1.0,Samuel Jennings,MIT,31868,"Charts for django-mvp projects: build them in Python with pyecharts, place them with one Cotton component"
+2026-09-23T18:04:31Z,smartbills,2.0.0,Smartbills <dev@smartbills.io>,MIT,598131,"Official Python SDK for the Smartbills API — digital receipts, expense management, invoicing, payments, and more."
+2026-09-23T18:04:46Z,meshcode,0.0.1.dev0,,Proprietary,2197,Name reserved by the owner. MeshCode is not distributed via PyPI.
+2026-09-23T18:07:55Z,cuacd,0.1.0,,LGPL-2.1-or-later,113935725,GPU-accelerated approximate convex decomposition
