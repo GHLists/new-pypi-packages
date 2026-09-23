@@ -1,0 +1,10 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T16:58:05Z,matmul-cloud,0.1.0,MatMul,Apache-2.0,53978,MatMul CLI and Python SDK: rent GPUs and run jobs on the cheapest live capacity across neoclouds
+2026-09-23T16:58:12Z,vexpay,0.1.0,VEXPay,MIT,67698,"Official Python SDK for the VEXPay API — Venezuelan payments (Pago Móvil C2P, cards, débito inmediato), payouts, checkout sessions, and signed webhooks."
+2026-09-23T17:01:20Z,matmul-mcp,0.0.1,MatMul,Apache-2.0,53390,"MCP server for MatMul: find and launch GPU compute from Claude, Cursor or any MCP client"
+2026-09-23T17:01:34Z,ChatLabel,0.0.1,ChatArch <1073853456@qq.com>,MIT,9972,ChatLabel: local workbook task system for Indonesia product classification
+2026-09-23T17:02:13Z,waix-python,0.2.0,WAIX,MIT,33854,"WAIX WhatsApp API v1: messages, templates, OTP and signed webhooks"
+2026-09-23T17:02:30Z,kadmos-risk,0.2.0,Rafael Viegas / BRAVENDI,MIT,15994,"Deterministic pre-trade risk gate: ATR sizing, fail-closed counters, atomic state, operator lock"
+2026-09-23T17:04:03Z,zett-agent,0.1.0,Chang-LeHung,MIT,352368,A small readable model and tool loop
+2026-09-23T17:05:30Z,cevell-tunnel,0.2.0,Cevell,Apache-2.0,86941,Agnostic Confidential Translation Layer and Transport Tunnel for Hardware-Attested CVMs
+2026-09-23T17:07:09Z,kardinal-ai,0.0.1,Kardinal,,2273,Official Python SDK for the Kardinal route optimization API (coming soon).
