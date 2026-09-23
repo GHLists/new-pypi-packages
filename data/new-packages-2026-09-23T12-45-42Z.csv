@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T11:56:07Z,argwitness,0.2.0,GenRamzi,MIT,51019,"Concrete counterexamples for breaking AI tool contracts. Offline, cross-provider, evidence-first."
+2026-09-23T11:56:23Z,fleet-search,1.0.0,Oleksii Streltsov <streltsov2609@gmail.com>,MIT,31478,Fleet🚀 is an algorithm for distributed test-time scaling of LLM workflows
+2026-09-23T11:57:59Z,model-router-python,0.1.0,thecoder30ec4,MIT,35688,"Pick the right LLM for every task: filter by context, output and cost limits, then let Jev choose the most efficient model."
+2026-09-23T11:59:20Z,arcaeon-receipt,0.2.0,Arcaeon,MIT,536916,"One receipt, five buyers: hash-chained, witnessed, timestamp-anchored receipts for what an AI checked, called, was approved to do, watched being typed, or graded."
+2026-09-23T12:00:04Z,embedded-nats,2.15.0.0,Valeriy V. Pushkar,Apache-2.0,38978998,NATS server and JetStream Object Store as a platform wheel
+2026-09-23T12:01:43Z,buildium-mcp,0.2.0,Jared Cure,MIT,548344,MCP gateway for the Buildium Open API — 462 operations via a small tool surface
+2026-09-23T12:03:17Z,odoo-addon-webservice-core,18.0.1.0.0.2,"Creu Blanca, Camptocamp, Odoo Community Association (OCA)",AGPL-3,38374,"Webservice backend: auth & call features, no extra dependencies"
+2026-09-23T12:03:29Z,agentweave-router,0.7.0,Saurav Singla,Apache-2.0,279469,"Pre-inference routing for tool-rich LLMs and multi-agent systems with MCP, A2A, LangGraph, AutoGen, policy-aware routing, recovery, and reproducible evaluation."
+2026-09-23T12:08:36Z,windfall,0.0.0,windfall Contributors <windfall.pub@gmail.com>,MIT,4177,A template that bootstraps adoption of the AI-Native SDLC playbook.
+2026-09-23T12:09:05Z,odlinux,1.0.0,,,2133,Modern Linux Odin GUI
+2026-09-23T12:10:19Z,extract-speech,0.9.1,Yehor Smoliakov,MIT AND Apache-2.0,63061165,Voice activity detection inference backed by Rust
+2026-09-23T12:10:50Z,cbct-bone,0.2.0,GGN_2015 <neko@jlulug.org>,MIT,152264,Device-specific CBCT bone segmentation with automatic model delivery
+2026-09-23T12:11:25Z,flet-billing,0.1.0,Nwokike,MIT,40023,Flet extension for in-app purchases and subscriptions - a thin 1:1 wrapper over the Flutter in_app_purchase package (Google Play Billing / Apple StoreKit).
+2026-09-23T12:11:27Z,dataset-doctor-audit,0.1.0,冯硕,Apache-2.0,558385,Detect data leakage before it corrupts your ML experiment. Local-first ML dataset reliability and leakage auditing CLI.
+2026-09-23T12:13:46Z,jevper,0.1.1,Zhu Lin <zhulin@czl.my>,Apache-2.0,83385,"The Jev (System One) interface over any OpenAI-compatible model: noul, choice and score questions in one call"
+2026-09-23T12:15:31Z,libmagic-wheel,0.1.0,SSH-MITM Dev-Team <support@ssh-mitm.at>,Apache-2.0,1682373,"A specific, pinned libmagic version bundled as a wheel, for our own applications where the distro's version is too old to read newer .mgc databases"
+2026-09-23T12:16:17Z,defair-ai-demo,0.4.0,Dusan Figala,Apache-2.0,48174,Cloud masking CNN demo for DEFAIR - standalone AI use case
+2026-09-23T12:16:34Z,zambo-openai-agents,0.1.0,Brennan Zambo,,16197,Zambo's 100+ tools as OpenAI Agents SDK tools. Every call mints a verifiable AER-1 execution receipt.
+2026-09-23T12:18:24Z,agent-engine-sdk-memory,0.0.0,,Apache-2.0,2390,Name placeholder for agent-engine-sdk-memory — not yet released
+2026-09-23T12:18:48Z,ascii2svg,1.2.0,Satyadip Paul,MIT,68935,"Render ASCII/Unicode box diagrams as SVG, 1:1 - colour, dark mode and animation, with a built-in self-check"
+2026-09-23T12:20:24Z,selfheal-sdk,0.3.2,Sahil Deol,MIT,23355,AI self-healing data plane — TypeSafe JEV + runbook-driven recovery for any Python ETL pipeline
+2026-09-23T12:21:57Z,neruva-kernel-board,1.0.0,Kyle Clouthier <kyleclouthier83@gmail.com>,Apache-2.0,9406,"Submit a software kernel to a public board that checks your work by running it against held-out inputs on real hardware. matmul is checked inline, free. exact_int8_gemm is queued and checked on a rea…"
+2026-09-23T12:25:52Z,rote-bench,0.1.0,Xinye Chen,MIT,506065,Rollout testing of exact symbolic memorization
+2026-09-23T12:25:53Z,rote-benchmark,0.1.0,Xinye Chen,MIT,40065,Rollout testing of exact symbolic memorization
+2026-09-23T12:25:54Z,zambo-smolagents,0.1.0,Brennan Zambo,,14288,Zambo's 100+ tools as smolagents Tools. Every call mints a verifiable AER-1 execution receipt.
+2026-09-23T12:28:00Z,flet-ima,0.1.0,Nwokike,MIT,42542,Flet extension for video ads (Google IMA client-side) - a thin 1:1 wrapper over the Flutter interactive_media_ads package. The ad SDK Android TV uses.
+2026-09-23T12:33:22Z,artespy,0.2.0,Leonardo Hossokawa de Oliveira <estagiario.seguros04@artesp.sp.gov.br>,,45677,Add your description here
+2026-09-23T12:34:43Z,sf-m3,0.2.0,M3 contributors,Apache-2.0,608440,Python SDK for testing MCP servers and agent harnesses
+2026-09-23T12:35:17Z,EC-comparator,0.1.2,Madalina Giurgiu-Kraljic,,3242916,Compare ecDNA structures and amplicon sets across technologies and tools.
+2026-09-23T12:35:42Z,codex-deepseek-team,0.8.0,kirill31337,MIT,378738,Delegate bounded coding tasks from Codex and/or Claude Code to isolated DeepSeek workers.
+2026-09-23T12:35:48Z,lastlight,0.1.0,Eduardo J. Barrios,Mozilla Public License Version 2.0 ================================== 1. Definitions --------------…,138938,"Low-power, offline retrieval for disaster and infrastructure-failure guidance."
+2026-09-23T12:38:11Z,readystack-accessibility-statement-lint,1.0.4,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,34792,Checks the accessibility statement you already published against the EU model statement and its two dates (bundled Node.js runtime)
+2026-09-23T12:38:27Z,readystack-action-runtime-sunset-lint,1.0.2,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,33128,"Finds the GitHub Actions steps that stop running on 2026-09-23, with the version to move to (bundled Node.js runtime)"
+2026-09-23T12:38:45Z,readystack-actions-deprecation-lint-2026,0.1.6,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,30520,Node 20 is removed from GitHub-hosted runners on 2026-09-23 and ubuntu-22.04 deprecation opens 2026-09-17. This checks a workflow file against 25 dated GitHub shutdowns and names the date each line s…
+2026-09-23T12:39:03Z,readystack-age-gate-lint,1.0.3,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,33196,"8 rules for Ofcom's highly effective age assurance duty, in force since 25 July 2025, where the penalty ceiling is £18m (£18 million) or 10% of qualifying worldwide revenue. One sample vape storefron…"
+2026-09-23T12:39:19Z,papper,0.6.6,cesaryuan,"MIT License Copyright (c) 2025 cesaryuan Permission is hereby granted, free of charge, to any perso…",68889152,Papper: a Markdown-first academic manuscript workflow with DOCX-focused post-processing
+2026-09-23T12:39:58Z,lites,0.1.0,,,8196,Official SDK and CLI for Lites - The lightning-fast AI proxy
+2026-09-23T12:40:00Z,lites-sdk,0.1.0,,,8262,Official SDK and CLI for Lites - The lightning-fast AI proxy
+2026-09-23T12:40:30Z,passk-inference,0.3.1,,MIT,299966,Paired pass@k inference and grid-based response kernels
+2026-09-23T12:40:49Z,eminidatabase-sdk,0.1.0,eminilabs <eminilabsteam@gmail.com>,MIT,26927,Official Python SDK and CLI for the eminidatabase Cloud Database Platform
+2026-09-23T12:41:18Z,modelproof,1.0.0,ModelProof Contributors,MIT,68125,"Zero-persistence client-side and CLI forensic scanner to detect LLM model spoofing, masking, and downgrading."
+2026-09-23T12:42:31Z,gridshell,1.0.0b1,,MIT,95123,"Self-hosted terminal-server + MCP relay + Python client for driving a live, open Google Sheets spreadsheet from an AI CLI agent or a script."
+2026-09-23T12:44:07Z,shell-exec-wrapper,1.0.0,,,3191,Loads environment variables with basic encryption support
+2026-09-23T12:45:00Z,bfox-build-utils,1.999.0,,,1273,Build utilities
+2026-09-23T12:45:23Z,sketch-spgemm,0.10.0,,MIT,880822,Python bindings for adaptive sketch-based sparse matrix multiplication
+2026-09-23T12:45:41Z,sf-m3-app,0.2.0,,Apache-2.0,64272,Local web application for viewing M3 test runs
