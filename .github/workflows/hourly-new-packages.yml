@@ -1,8 +1,6 @@
 name: Hourly new PyPI packages
 
 on:
-  schedule:
-    - cron: "34 * * * *"
   workflow_dispatch:
     inputs:
       since:
