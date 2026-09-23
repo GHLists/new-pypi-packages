@@ -1,0 +1,6 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T16:43:28Z,duplicator-pro-update,1.5.12,,,3227,
+2026-09-23T16:47:37Z,zelkit,1.0.0,,,15027,My SQL practicals viewer
+2026-09-23T16:52:09Z,ceridwen,1.0.9,Amanda Stoffers <aas208@cam.ac.uk>,MIT,7536195,"JAX-native, GPU-capable Bayesian SED fitting with nested sampling and VI-preconditioned HMC"
+2026-09-23T16:56:01Z,gwas-sumstats-parser,0.5.0,Chris Finan <c.finan@ucl.ac.uk>,GPL-3.0-or-later,203425,"Vocabulary, parsing and standardisation for GWAS summary-statistics files"
+2026-09-23T16:56:30Z,keepup-admin,0.1.0,Fedor Sergeev <fksergeev@gmail.com>,Apache-2.0,974744,"An admin framework over FastAPI: plugins, panel, users, replicas"
