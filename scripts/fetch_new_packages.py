@@ -4,14 +4,16 @@
 New packages are detected with the PyPI changelog API at pypi.org/pypi: every
 ``create`` journal entry is inspected through the JSON API and kept when its
 timestamp falls inside the requested window. The journal serial of the last
-processed entry is stored in the manifest so the next run can resume exactly
-where the previous one stopped.
+processed entry and unresolved package names are stored in the manifest so
+the next run can resume without losing records.
 """
 
 import argparse
 import csv
 import datetime as dt
 import json
+import os
+import re
 import sys
 import time
 import urllib.error
@@ -28,6 +30,7 @@ DEFAULT_USER_AGENT = (
 )
 
 CHANGELOG_LIMIT = 50000
+MAX_PENDING_ATTEMPTS = 5
 SUMMARY_LIMIT = 200
 CSV_HEADER = ("created_at", "package", "version", "author", "license", "size", "summary")
 
@@ -47,7 +50,11 @@ class Transport(xmlrpc.client.Transport):
 
 
 def iso(moment):
-    return moment.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    moment = moment.astimezone(dt.timezone.utc)
+    if moment.microsecond:
+        fraction = f"{moment.microsecond:06d}".rstrip("0")
+        return moment.strftime("%Y-%m-%dT%H:%M:%S") + f".{fraction}Z"
+    return moment.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 def parse_timestamp(value):
@@ -57,11 +64,15 @@ def parse_timestamp(value):
     moment = dt.datetime.fromisoformat(text)
     if moment.tzinfo is None:
         moment = moment.replace(tzinfo=dt.timezone.utc)
-    return moment.astimezone(dt.timezone.utc).replace(microsecond=0)
+    return moment.astimezone(dt.timezone.utc)
 
 
 def timestamp_filename(moment):
-    return moment.astimezone(dt.timezone.utc).strftime("%Y-%m-%dT%H-%M-%SZ")
+    moment = moment.astimezone(dt.timezone.utc)
+    stamp = moment.strftime("%Y-%m-%dT%H-%M-%S")
+    if moment.microsecond:
+        stamp += "-" + f"{moment.microsecond:06d}".rstrip("0")
+    return stamp + "Z"
 
 
 def fetch_json(url, user_agent, retries=3, backoff=5.0):
@@ -110,21 +121,47 @@ def fetch_changelog(proxy, start_serial):
     serial = start_serial
     for _ in range(1000):
         batch = call_changelog(proxy, serial)
+        if not isinstance(batch, list):
+            raise RuntimeError("PyPI changelog response is not a list")
         if not batch:
-            break
+            return entries, serial, True
+        try:
+            batch_serial = max(int(entry[4]) for entry in batch)
+        except (IndexError, TypeError, ValueError) as error:
+            raise RuntimeError("PyPI changelog contains an invalid serial") from error
+        if batch_serial <= serial:
+            raise RuntimeError("PyPI changelog serial did not advance")
         entries.extend(batch)
-        serial = max(int(entry[4]) for entry in batch)
+        serial = batch_serial
         if len(batch) < CHANGELOG_LIMIT:
-            break
-    return entries, serial
+            return entries, serial, True
+    return entries, serial, False
+
+
+def normalized_name(value):
+    return re.sub(r"[-_.]+", "-", str(value or "")).lower()
 
 
 def fetch_package(name, user_agent, retries):
     url = PACKAGE_URL.format(name=urllib.parse.quote(name))
     try:
-        return fetch_json(url, user_agent, retries=retries)
+        document = fetch_json(url, user_agent, retries=retries)
     except NotFound:
         return None
+    if not isinstance(document, dict):
+        return None
+    info = document.get("info")
+    if not isinstance(info, dict) or normalized_name(info.get("name")) != normalized_name(
+        name
+    ):
+        return None
+    version = info.get("version")
+    releases = document.get("releases")
+    if not isinstance(version, str) or not version:
+        return None
+    if not isinstance(releases, dict) or version not in releases:
+        return None
+    return document
 
 
 def release_size(files):
@@ -169,24 +206,79 @@ def build_row(name, doc, created):
 
 
 def write_csv(path, rows):
+    path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", newline="", encoding="utf-8") as handle:
+    temporary = path.with_name(f".{path.name}.tmp")
+    with temporary.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=CSV_HEADER)
         writer.writeheader()
         writer.writerows(rows)
+    os.replace(temporary, path)
 
 
 def load_manifest(path):
+    manifest_path = Path(path)
     try:
-        data = json.loads(Path(path).read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
+        text = manifest_path.read_text(encoding="utf-8")
+    except FileNotFoundError:
         return {}
-    return data if isinstance(data, dict) else {}
+    except OSError as error:
+        raise RuntimeError(f"could not read manifest {manifest_path}: {error}") from error
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError as error:
+        raise RuntimeError(f"manifest {manifest_path} is not valid JSON") from error
+    if not isinstance(data, dict):
+        raise RuntimeError(f"manifest {manifest_path} must contain a JSON object")
+    version = data.get("state_version", 1)
+    if version != 1:
+        raise RuntimeError(f"manifest {manifest_path} has an unsupported state version")
+    return data
 
 
 def save_manifest(path, manifest):
+    manifest_path = Path(path)
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = manifest_path.with_name(f".{manifest_path.name}.tmp")
     text = json.dumps(manifest, indent=2, sort_keys=True, ensure_ascii=False) + "\n"
-    Path(path).write_text(text, encoding="utf-8")
+    temporary.write_text(text, encoding="utf-8")
+    os.replace(temporary, manifest_path)
+
+
+def load_pending(manifest):
+    pending = {}
+    raw_pending = manifest.get("pending", [])
+    if not isinstance(raw_pending, list):
+        raise RuntimeError("manifest pending must be a list")
+    for item in raw_pending:
+        if not isinstance(item, dict):
+            raise RuntimeError("manifest pending entries must be objects")
+        name = item.get("package")
+        if not isinstance(name, str) or not name:
+            raise RuntimeError("manifest pending entry has an invalid package")
+        if name in pending:
+            raise RuntimeError(f"manifest contains duplicate pending package {name}")
+        try:
+            created = parse_timestamp(item.get("created_at"))
+            candidate_since = parse_timestamp(item.get("since"))
+        except (TypeError, ValueError) as error:
+            raise RuntimeError(
+                f"manifest pending entry for {name} is invalid"
+            ) from error
+        attempts = item.get("attempts", 0)
+        if not isinstance(attempts, int) or attempts < 0:
+            raise RuntimeError(
+                f"manifest pending entry for {name} has an invalid attempts count"
+            )
+        if created <= candidate_since:
+            raise RuntimeError(f"manifest pending entry for {name} is inconsistent")
+        pending[name] = {
+            "package": name,
+            "created": created,
+            "since": candidate_since,
+            "attempts": attempts,
+        }
+    return pending
 
 
 def parse_args(argv=None):
@@ -202,7 +294,7 @@ def parse_args(argv=None):
     parser.add_argument(
         "--since-serial",
         type=int,
-        help="changelog serial to resume from (default: stored in the manifest)",
+        help="changelog serial to resume from; requires --since",
     )
     parser.add_argument(
         "--workers",
@@ -225,72 +317,148 @@ def parse_args(argv=None):
 
 def main(argv=None):
     args = parse_args(argv)
-    now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0)
+    now = dt.datetime.now(dt.timezone.utc)
     until = parse_timestamp(args.until) if args.until else now
     manifest = load_manifest(args.manifest)
 
+    if args.since_serial is not None and args.since is None:
+        raise RuntimeError("--since-serial requires an explicit --since timestamp")
     if args.since:
         since = parse_timestamp(args.since)
+        if "window" in manifest and args.since_serial is None:
+            stored_window = parse_timestamp(manifest["window"])
+            if since < stored_window:
+                raise RuntimeError(
+                    "timestamp-only backfill cannot move the changelog cursor; "
+                    "provide --since-serial"
+                )
+    elif "window" in manifest:
+        since = parse_timestamp(manifest["window"])
     else:
-        try:
-            since = parse_timestamp(manifest["window"])
-        except (KeyError, TypeError, ValueError):
-            since = until - dt.timedelta(hours=args.lookback_hours)
+        since = until - dt.timedelta(hours=args.lookback_hours)
+
+    if args.since_serial is not None:
+        cursor = args.since_serial
+    elif "serial" in manifest:
+        cursor = manifest["serial"]
+    else:
+        raise RuntimeError("no stored changelog serial; provide --since-serial")
+    try:
+        cursor = int(cursor)
+    except (TypeError, ValueError) as error:
+        raise RuntimeError("manifest contains an invalid changelog serial") from error
+    if cursor < 0:
+        raise RuntimeError("changelog serial cannot be negative")
+
+    pending = load_pending(manifest)
     if since >= until:
         print(f"nothing to do ({iso(since)} >= {iso(until)})", file=sys.stderr)
         return 0
 
     proxy = connect(args.user_agent)
-    cursor = (
-        args.since_serial if args.since_serial is not None else manifest.get("serial")
-    )
-    try:
-        cursor = int(cursor)
-    except (TypeError, ValueError):
-        cursor = None
-    if cursor is None:
-        cursor = proxy.changelog_last_serial()
-        print(f"no stored serial; starting at changelog serial {cursor}")
-
-    entries, end_serial = fetch_changelog(proxy, cursor)
+    entries, end_serial, exhausted = fetch_changelog(proxy, cursor)
     created = {}
-    for name, _version, timestamp, action, _serial in entries:
-        if action != "create" or not name:
+    for entry in entries:
+        try:
+            name, _version, timestamp, action, _serial = entry
+            name = str(name or "")
+            moment = dt.datetime.fromtimestamp(int(timestamp), dt.timezone.utc)
+        except (TypeError, ValueError) as error:
+            raise RuntimeError("PyPI changelog contains an invalid entry") from error
+        if action == "create" and not name:
+            raise RuntimeError("PyPI create entry is missing its package name")
+        if action != "create" or moment <= since:
             continue
-        moment = dt.datetime.fromtimestamp(int(timestamp), dt.timezone.utc)
-        if name not in created or moment < created[name]:
-            created[name] = moment
+        candidate = {
+            "package": name,
+            "created": moment,
+            "since": since,
+            "attempts": 0,
+        }
+        current = created.get(name)
+        if current is None or candidate["created"] < current["created"]:
+            created[name] = candidate
+    for name, candidate in created.items():
+        pending.setdefault(name, candidate)
     print(
         f"scanned {len(entries)} changelog entries in serial {cursor}..{end_serial}; "
-        f"{len(created)} packages created"
+        f"{len(created)} new candidates and {len(pending)} pending candidates"
     )
 
-    candidates = [
-        (name, moment)
-        for name, moment in created.items()
-        if moment > since and (not args.until or moment <= until)
-    ]
+    manifest["serial"] = end_serial
+    manifest["source_truncated"] = not exhausted
+    if not exhausted:
+        manifest["window"] = iso(since)
+        manifest["pending"] = [
+            {
+                "package": name,
+                "created_at": iso(pending[name]["created"]),
+                "since": iso(pending[name]["since"]),
+                "attempts": pending[name]["attempts"],
+            }
+            for name in sorted(pending)
+        ]
+        save_manifest(args.manifest, manifest)
+        print(
+            "PyPI changelog reached its page limit; candidates were persisted "
+            "for the next run",
+            file=sys.stderr,
+        )
+        return 0
+
+    candidates = sorted(pending)
+    eligible = [name for name in candidates if pending[name]["created"] <= until]
     with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
         documents = list(
             executor.map(
-                lambda item: fetch_package(item[0], args.user_agent, args.retries),
-                candidates,
+                lambda name: fetch_package(name, args.user_agent, args.retries),
+                eligible,
             )
         )
 
     rows = []
+    next_pending = {
+        name: pending[name] for name in candidates if pending[name]["created"] > until
+    }
     missing = 0
-    for (name, moment), doc in zip(candidates, documents):
+    dropped = 0
+    for name, doc in zip(eligible, documents):
         if doc is None:
             missing += 1
+            candidate = pending[name]
+            candidate["attempts"] += 1
+            if candidate["attempts"] < MAX_PENDING_ATTEMPTS:
+                next_pending[name] = candidate
+            else:
+                dropped += 1
             continue
-        rows.append(build_row(name, doc, moment))
+        rows.append(build_row(name, doc, pending[name]["created"]))
     rows.sort(key=lambda row: row["created_at"])
     if missing:
-        print(f"skipped {missing} packages without metadata", file=sys.stderr)
+        print(
+            f"kept {missing} packages pending without PyPI metadata",
+            file=sys.stderr,
+        )
+    if dropped:
+        print(
+            f"dropped {dropped} packages unresolved after {MAX_PENDING_ATTEMPTS} "
+            "attempts",
+            file=sys.stderr,
+        )
+    if next_pending:
+        print(f"kept {len(next_pending)} packages pending for a later run")
 
-    manifest["serial"] = end_serial
     manifest["window"] = iso(until)
+    manifest["source_truncated"] = False
+    manifest["pending"] = [
+        {
+            "package": name,
+            "created_at": iso(next_pending[name]["created"]),
+            "since": iso(next_pending[name]["since"]),
+            "attempts": next_pending[name]["attempts"],
+        }
+        for name in sorted(next_pending)
+    ]
     if rows:
         output = Path(args.output_dir) / f"new-packages-{timestamp_filename(until)}.csv"
         write_csv(output, rows)
