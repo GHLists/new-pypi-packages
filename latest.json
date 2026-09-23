@@ -1,37 +1,37 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-09-23T21:18:53.705765Z",
-    "path": "data/new-packages-2026-09-23T22-18-52-354146Z.csv",
-    "to": "2026-09-23T22:18:52.354146Z"
+    "count": 23,
+    "from": "2026-09-23T22:18:52.354146Z",
+    "path": "data/new-packages-2026-09-23T23-19-19-584817Z.csv",
+    "to": "2026-09-23T23:19:19.584817Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-23T18:10:10Z",
       "package": "corobots",
       "since": "2026-09-23T18:08:03Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-23T19:11:49Z",
       "package": "harmony-casper",
       "since": "2026-09-23T18:08:03Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-23T20:09:21Z",
       "package": "knav",
       "since": "2026-09-23T18:08:03Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-23T18:40:51Z",
       "package": "my-joke-mcp-server",
       "since": "2026-09-23T18:08:03Z"
     }
   ],
-  "serial": 41387659,
+  "serial": 41389077,
   "source_truncated": false,
-  "window": "2026-09-23T22:18:52.354146Z"
+  "window": "2026-09-23T23:19:19.584817Z"
 }

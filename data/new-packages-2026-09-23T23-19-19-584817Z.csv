@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T22:23:50Z,bloom-gateway-sdk,1.0.1,lib-py@bloomfactory.ai,MIT,15467,Typed helpers for Bloom Gateway request controls and response metadata
+2026-09-23T22:27:09Z,statsjunk,0.1.0,Gustavo Furtado,MIT,121528,A collection of statistical odds and ends.
+2026-09-23T22:27:16Z,pyblanket,0.0.1,Andrew Jaffe <adjaffeb@gmail.com>,MIT,25031048,A Rust-backed image library with a Pillow-shaped Python API
+2026-09-23T22:31:57Z,skarve-engine,0.1.1a4,,Apache-2.0,1037286,Skarve Linux x86-64 raster query engine
+2026-09-23T22:33:34Z,anarcism,1.0.0,Moritz Onken <mo@revanta.bio>,Apache-2.0,4076235,"ANARCI-compatible IMGT numbering for antibody and TCR variable domains, with no external dependencies."
+2026-09-23T22:36:19Z,dadosimob,0.1.0,Rafael Willians Pereira Ferreira,MIT,37431,"Dados públicos do mercado imobiliário brasileiro (ITBI e mais), prontos para análise em pandas."
+2026-09-23T22:43:27Z,longpath,0.1.0,S-Curve Labs,MIT,145041,"MCP server for project schedules (P6 .xer, MS Project .mpp / XML, P6 XML): CPM, float, DCMA 14-point, logic checks, update comparison, S-curves"
+2026-09-23T22:43:39Z,fxray,0.1.0,S-Curve Labs,MIT,126644,"MCP server wrapping the Power Platform CLI (pac): environments, solutions, canvas app source, Dataverse metadata and FetchXML reads, solution diffs, gated pack/import/publish"
+2026-09-23T22:45:45Z,ak5,1.0.0,AK5 Team,MIT,79484,"AK5: Agent-Orchestrated Kanban System Gateway, MCP Server & CLI"
+2026-09-23T22:47:13Z,turbojev,0.28.2,TurboJev contributors,Apache-2.0,1558974,TurboJev native semantic decision engine
+2026-09-23T22:49:43Z,edc-lab-results-import,1.0.0,Erik van Widenfelt,,128607,Imports lab results from a folder of PDF reports
+2026-09-23T22:59:09Z,pyrig-codeql,1.0.0,Winipedia,MIT,15165,A pyrig plugin that integrates GitHub CodeQL.
+2026-09-23T22:59:37Z,acn-preflight,0.2.0,Abacore,Apache-2.0,34715,Deterministic preflight checks for AI agents before external execution
+2026-09-23T23:00:01Z,motionmcp-client-sdk,0.1.0,Animatica,MIT,32739,"A client for the MMCP protocol: request a motion, read back a glTF. Standard library for the wire, numpy for the parse."
+2026-09-23T23:01:19Z,velites,0.0.0a0,"""mesotron.dev"" <mail@mesotron.dev>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",20412,"Minimal, local-first AI workbench and RAG platform."
+2026-09-23T23:01:28Z,mukimov,0.1.0,mukimov,MIT,10495,Tiny cross-platform password prompt that echoes * for each character
+2026-09-23T23:03:30Z,pyobfus-runtime,0.1.0,Rong Zhu,LicenseRef-pyobfus-Runtime-1.0,51720,Redistributable runtime support for artifacts produced by pyobfus Pro.
+2026-09-23T23:05:34Z,agentposture,1.0.0,Amit Gupta,Apache-2.0,1121659,Find every AI agent in your organization and know how risky each one is.
+2026-09-23T23:06:20Z,cotwatcher,0.1.0a1,Cyrill Glockner,MIT,99058,Watch the chain of thought of open-weight reasoning models and flag what you worry about.
+2026-09-23T23:09:39Z,riggermortis-core,0.0.1,Riggermortis contributors,MIT,319428,"Local, rig-agnostic posing & animation engine: canonical skeleton, bone-role mapping, presets, content policy. No cloud, no telemetry."
+2026-09-23T23:12:11Z,model-shunt,1.1.0,yasmanycastillo,"MIT License Copyright (c) 2026 yasmanycastillo Permission is hereby granted, free of charge, to any…",44137,"Model routing for AI coding agents - delegate bulk file reading and boilerplate generation to fast, economical worker models via MCP. Zero dependencies."
+2026-09-23T23:12:58Z,pynol-xzp,0.1.0,"Long-Fei Li, Peng Zhao, Yan-Feng Xie, Lijun Zhang, Zhi-Hua Zhou",MIT License,62528,Python Package for Non-Stationary Online Learning
+2026-09-23T23:15:27Z,jev-judge-mcp,0.1.0,Mohamed Elkholy,MIT,1119239,Behavior-compatible Python MCP server exposing TypeSafe's Jev judgment tools.
