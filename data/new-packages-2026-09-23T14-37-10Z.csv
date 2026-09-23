@@ -1,0 +1,102 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T12:48:13Z,pocketsynth,0.1.0,Pocketsynth contributors,Apache-2.0,180019,UtterPlan-aware Python synthesis runtime for Pocket TTS ONNX bundles
+2026-09-23T12:49:36Z,bhanuj-governance-plugin-api,1.0.0,BHANUJ AI,Apache-2.0,12810,"Public, provider-neutral plugin contracts for BHANUJ AI Governance."
+2026-09-23T12:50:45Z,sys1-decision-guard,0.1.1,Ashish Patil <ashishtp2005@gmail.com>,,34159,"Calibration, threshold management, and safety guardrails for System 1 decision models."
+2026-09-23T12:51:39Z,arc56-generated-tripleight-spm,1.2.2026072010,TriplEight,,15429,Generated ARC-56 Algorand smart-contract clients for TriplEight/SPM.
+2026-09-23T12:52:35Z,deepseek-team,0.8.1,kirill31337,MIT,388094,Delegate bounded coding tasks from Codex and/or Claude Code to isolated DeepSeek workers.
+2026-09-23T12:52:43Z,arc56-generated-compx-ec407638,1.1.2026092312,compx-labs,,4574,Generated ARC-56 Algorand smart-contract clients for compx-labs/canix402.
+2026-09-23T12:54:38Z,scrapy-proxlane,0.1.0,Sam Öjling,Apache-2.0,173632,"Scrapy downloader middleware for Proxlane: one gateway in front of your scraping APIs, with failover and honest outcomes."
+2026-09-23T12:56:34Z,station-profit-mcp,0.1.1,,,10692,场站收益查询 MCP 服务（固德威 WE 平台场站搜索 + 收益组成接口封装）
+2026-09-23T12:56:54Z,arc56-generated-ciott-4da7bb25,1.2.2026072010,CiottiGiorgio,,75725,Generated ARC-56 Algorand smart-contract clients for CiottiGiorgio/lib-pcg-avm.
+2026-09-23T12:57:03Z,rlmness,0.2.1,,MIT,193919,"A Recursive Language Model runtime: the model works on your input through code, and hands pieces to sub-agents of itself."
+2026-09-23T12:57:59Z,arc56-generated-ciott-0b0129e0,1.2.2026072010,CiottiGiorgio,,29929,Generated ARC-56 Algorand smart-contract clients for CiottiGiorgio/verifiable-shuffle.
+2026-09-23T12:59:02Z,hydrust,0.5.0,Matthew Lyon,MIT,40450386,Language server and CLI checker for Hydra configuration files
+2026-09-23T12:59:26Z,sentinella-monitor,1.0.0,Salvatore Corvaglia,MIT,357853,"Cross-platform system monitor with TUI, web dashboard, and remote monitoring"
+2026-09-23T12:59:57Z,tiendat-baitappyi,0.1.0,Pham Tien Dat <your_email@example.com>,,3417,Thu vien tinh toan va hinh hoc
+2026-09-23T13:01:54Z,modelproof,1.0.1,ModelProof Contributors,MIT,75451,"Zero-persistence client-side and CLI forensic scanner to detect LLM model spoofing, masking, and downgrading."
+2026-09-23T13:02:46Z,skmake,0.0.1,,,1809,"SKMake - a build system for agent skills. Compiles SKILL.md packages into dependency-aware, reusable artifacts. Placeholder registration; code coming soon."
+2026-09-23T13:05:48Z,pdf-html,0.1.1,Omar Warraich,MIT,1333008,"Early-stage geometry-first PDF-to-HTML converter for text-based PDFs — verbatim text, source typography, zero images."
+2026-09-23T13:06:25Z,rippletide-python,0.1.0,,UNLICENSED,32737,Monitor-first Python SDK for Rippletide-connected agents
+2026-09-23T13:07:10Z,descriptron-core,2.0.1,Alex R. Van Dam,Apache-2.0,5926439,"Evidence-tiered species descriptions, keys and audits from phenomic matrices"
+2026-09-23T13:07:11Z,odoo-addon-rma-sale-stock-restocking-fee-invoicing,18.0.1.0.0.2,"ACSONE SA/NV,Odoo Community Association (OCA)",AGPL-3,36715,Extends the RMA flow to automatically apply fixed or percentage restocking fees.
+2026-09-23T13:07:52Z,descriptron-vision,2.0.1,Alex R. Van Dam,Apache-2.0,314938,"Mask and landmark prediction for Descriptron: torchvision detectors, SAM2-PAL propagation, DINOv3 landmark transfer"
+2026-09-23T13:08:05Z,yefees-recorder,0.1.0,yefee8,GPL-3.0-or-later,131564,Cross-platform screen recorder CLI built on mpv
+2026-09-23T13:08:39Z,descriptron-gui,2.0.1,Alex R. Van Dam,Apache-2.0,480992,"The Descriptron annotation GUI: SAM2-assisted segmentation, keypoints and COCO export"
+2026-09-23T13:08:47Z,spykit,1.2.8,kya dekh rha hai luvday,MIT,20454,Teri Maa ne bhoot ke sath suhagrat rachai thi woh bhoot huh mein
+2026-09-23T13:09:04Z,descriptron,2.0.1,Alex R. Van Dam,Apache-2.0,13939,"Descriptron: image annotation, phenomics and evidence-tiered species descriptions"
+2026-09-23T13:12:26Z,aisolusoft-ai,0.1.1,Bhargav Dakwala,MIT,15885,AI-powered document analysis and business automation SDK
+2026-09-23T13:15:08Z,registro-db,1.0.0,Salvatore Corvaglia,MIT,364034,A terminal-first database workspace for modern engineers
+2026-09-23T13:15:30Z,forgeintel-sdk,0.1.0b2,,MIT,57650,"Forge telemetry, agent context and feedback for Python x402 APIs"
+2026-09-23T13:18:52Z,nt-fiji-imagej-plugin,1.0.0,Andreas Brilka,MIT,15362,This plugin provides an integration of Fiji/ImageJ for Neurotorch
+2026-09-23T13:20:19Z,amiibo-reader,0.1.2,Pascal Béger,MIT,17622,Python library for reading amiibo tags using an MFRC522 NFC reader on Raspberry Pi
+2026-09-23T13:24:04Z,obi-energy-tracker,0.1.0,OBI Smart Technologies GmbH,Apache-2.0,46888,Async client for the OBI ENERGY TRACKER cloud API
+2026-09-23T13:25:15Z,torq-runtime,2.2.1,synaptics-astra,Apache-2.0 WITH LLVM-exception,15858311,Torq runtime python bindings
+2026-09-23T13:25:22Z,torq-compiler,2.2.1,synaptics-astra,Apache-2.0 WITH LLVM-exception,87117354,Torq compiler python bindings
+2026-09-23T13:25:53Z,creating-intelligence,0.1.0a1,Peter Overmann <mail@creatingintelligence.org>,MIT,28331,"A computational foundation for AGI, based on hyperdimensional sparse data and framed in set theory."
+2026-09-23T13:26:34Z,purejks,1.0.0,"Kurt Rose, Jeroen De Ridder",MIT,58447,"Pure-Python Java KeyStore (JKS, JCEKS, BKS, UBER) library, with no compiled dependencies. Fork of pyjks."
+2026-09-23T13:26:47Z,flywire-coding-cortex,0.1.1,FlyWire Coding Cortex contributors,MIT,257818,Run FlyWire-derived LIF neurons and map rates to coding-agent drives
+2026-09-23T13:27:39Z,malight,0.1.0,malight contributors,MIT,2575178,"malight - SVG drawing toolkit ported and enhanced from Shenbi Maliang, with PS/AI-style filters and a plugin extension mechanism"
+2026-09-23T13:28:04Z,yandex-yc-sales-crm-data-api,66.0.3,Yandex,,1192,A package to prevent Dependency Confusion attacks against Yandex.
+2026-09-23T13:28:38Z,jev-col,0.5.1,Khaled Eltokhy,MIT,1965220,"Apply natural-language codebooks to tables, with resumable annotation and label evaluation."
+2026-09-23T13:29:04Z,scribe-eval,0.1.1,Kavya Manohar,Apache-2.0,140036,Diagnostic ASR evaluation with sandhi-tolerant alignment and categorical error decomposition for Indic and domain-specific speech recognition.
+2026-09-23T13:29:08Z,yandex-tsypa,66.0.3,Yandex,,1147,A package to prevent Dependency Confusion attacks against Yandex.
+2026-09-23T13:29:19Z,yandex-helpy-staff-client,66.0.3,Yandex,,1169,A package to prevent Dependency Confusion attacks against Yandex.
+2026-09-23T13:29:30Z,yandex-helpy-bot-client,66.0.3,Yandex,,1170,A package to prevent Dependency Confusion attacks against Yandex.
+2026-09-23T13:30:31Z,zc-mailhub,0.1.0,,,274919,A local personal-operations hub for AI assistants
+2026-09-23T13:31:00Z,julee-hcd,0.1.0,Pyx Industries <chris@pyx.io>,GPL-3.0-or-later,243085,Human-centred design models for julee solutions
+2026-09-23T13:31:56Z,pySigma-backend-varpulis,0.1.0,Cyril Poder,MIT,34794,pySigma backend for Varpulis VPL: Sigma rules and correlation rules as detection streams
+2026-09-23T13:32:35Z,performance-decorator,0.2.1,Leonardo Bartolelli,MIT,10029,A small decorator that measures and reports function execution time.
+2026-09-23T13:35:59Z,ijuka-mcp,1.2.0,Ijuka,AGPL-3.0,6274,Ijuka MCP server — Python shim for uvx. Launches the bundled Ijuka helper.
+2026-09-23T13:36:01Z,dalicc,2.0.0rc1,DALICC - Verein zur Foerderung der Rechtssicherheit in der Datenbewirtschaftung <giray.havur@ustp.a…,Apache-2.0,98645,Python client and command line interface for the DALICC API
+2026-09-23T13:38:51Z,proximal-ladder,0.9.0,Rishi Yildiz,MIT,159874,"Render any sound at any simulated distance: image-source room, rigid-sphere near-ear correction, gradient-microphone proximity, BS.1770 loudness clamp."
+2026-09-23T13:39:10Z,data-raft,0.2.0,Pietro Berkes,BSD-3-Clause,65697,Experiment-first research catalog for scientists
+2026-09-23T13:40:45Z,scalellm-ai,0.1.0,Your Name,,9226,"A lightweight, high-level framework for training scalable Transformer LLMs."
+2026-09-23T13:41:02Z,collective.responsivetables,1.0.0b1,Mikel Larreategi <mlarreategi@codesyntax.com>,GPL-2.0-only,51894,An addon to convert tables inserted in TinyMCE responsive!
+2026-09-23T13:43:42Z,corax-cli,1.0.0,Trifork Corax AI Team <corax-ai@trifork.com>,MIT,121906,CLI for Corax AI backend
+2026-09-23T13:43:46Z,sorbent,0.1.0,Yassir Boulaamane <yassirxmail@gmail.com>,MIT,158965,"A compound triage service: submit a SMILES library, get back a ranked, deduplicated, liability-flagged shortlist."
+2026-09-23T13:45:17Z,laya-apple,1.0.2,oliver,Apache-2.0,307722,Correctness-validated heterogeneous Laya runtime for Apple Silicon (MLX GPU + Apple Neural Engine)
+2026-09-23T13:46:07Z,deduplicate-it,1.2.0,"David Purkarthofer, Sebastian Labenbacher",Apache-2.0,54464,"Free, auditable removal of duplicate records from literature search exports for systematic reviews, scoping reviews and meta-analyses."
+2026-09-23T13:49:25Z,crypto-sentiment-x402-mcp,0.1.0,whatevercat-creator,MIT,16632,MCP server exposing real-time crypto sentiment (8 crypto news RSS feeds + the Fear & Greed Index) as a pay-per-call x402 tool on Base.
+2026-09-23T13:49:43Z,prompt-command-center,1.0.0,Amitai Assayag <amitai@assayag.ai>,GPL-3.0-or-later,255294,Prompt Command Center — a keyboard-first prompt template palette for Windows
+2026-09-23T13:50:44Z,netemb,0.4.0,Massimiliano Zanin <massimiliano.zanin@gmail.com>,AGPL-3.0-only,89369,A package for the topological embedding of complex networks
+2026-09-23T13:52:24Z,colloq,0.3.0,Aleksandr Kalashnikov,MIT,11206427,"Colloq — a shared workspace for teaching: one link, one live notebook, one assistant"
+2026-09-23T13:52:25Z,mekiki,0.2.0,Atsushi Matsumoto,MIT,968287,A scikit-learn-compatible library that turns unstructured columns into typed features and puts an LLM on top of statistical models
+2026-09-23T13:52:52Z,fastmm-engine,0.2.0,,MIT,13001767,Ultra-low-latency multi-asset market-making engine (research bindings)
+2026-09-23T13:53:00Z,fastmm-engine-live,0.2.0,,MIT,24852509,"Live trading runtime for fastmm: network stack, venue connectors, OpenSSL"
+2026-09-23T13:56:03Z,limina-sdk,0.1.0,Limina <dev@limina.fi>,MIT,6484,The Liminal Layer for Agentic Strategies on Robinhood Chain
+2026-09-23T13:57:35Z,bcp6,0.1,,,4139,
+2026-09-23T14:04:19Z,langchain-skill-router,0.3.0,deyna256,,50283,"Per-turn skill routing for LangChain deepagents: a pluggable judge (Jev included, or your own) loads only the SKILL.md skills each turn needs, keeping a catalog of hundreds out of the prompt."
+2026-09-23T14:06:17Z,htmlarc,0.1.0,,AGPL-3.0-only,6558413,Query pre-parsed HTML document archives (.htmlarc) with CSS selectors
+2026-09-23T14:06:59Z,mymllibrary,0.1.2,Ayush Kumar Gour,MIT,21336,A beginner-friendly Python machine learning library implemented from scratch.
+2026-09-23T14:07:21Z,strikethrough-ocr,0.3.3,Frank Eickhoff <info@frankeickhoff.de>,,4176466,"OCR for scanned pages that preserves styling: bold, colour, underline and strike-through."
+2026-09-23T14:07:49Z,georag,0.1.2,Developer <makindeadedeji500@gmail.com>,,11580,Spatial-Semantic Retrieval Augmented Generation framework
+2026-09-23T14:11:12Z,heatmatch,1.0.0,Xingyu Long,MIT,26519,Orientation-aware visualization and comparison of very dense saccade patterns (scanpath comparison for long free viewing)
+2026-09-23T14:12:10Z,duplexjev,0.2.0,Adventists.ai,Apache-2.0,46987,Jev-style typed decisions about speech with zero decode steps: one forward pass answers many option groups about many clips.
+2026-09-23T14:13:52Z,dracolix,0.2.0,Draconis Engineering,GPL-3.0-or-later,3959912,DracoLIX - native C++ scientific computing core (Python binding outgoing-only)
+2026-09-23T14:18:29Z,bcp8,0.1,,,3928,
+2026-09-23T14:18:57Z,pkdb,0.11.0,Matthias König,MIT,169901,"Prepare, validate, query, and upload PK-DB studies"
+2026-09-23T14:19:04Z,sme-dataprep,0.1.0,Aimar Barrena Pol,MIT,37441,Educational data preprocessing utilities for SME coursework.
+2026-09-23T14:19:25Z,gapreel,0.0.0,Nia D Pham <xinchao@nghia-pham.com>,,4287,Reserved for Gapreel: action-gated screen recording for AI agents. Coming soon.
+2026-09-23T14:19:30Z,acttape,0.0.0,Nia D Pham <xinchao@nghia-pham.com>,,4282,Reserved for Acttape: action-gated screen recording for AI agents. Coming soon.
+2026-09-23T14:20:19Z,cyomtlib,0.1.0,,MIT,21807321,Python bindings for Open Media Transport (OMT)
+2026-09-23T14:20:40Z,niadra,0.1.0,Niadra,Apache-2.0,223572,"Python SDK for Niadra, the shared customer memory for every AI agent in a company: context before the model call, history, tools and MCP."
+2026-09-23T14:22:24Z,bcp9,0.1,,,4070,
+2026-09-23T14:24:34Z,dataweave-native,2.12.2,MuleSoft,BSD-3-Clause,122607787,Python bindings for the DataWeave native library
+2026-09-23T14:25:12Z,safepaw-gen,0.0.1,Omar El Rifai,MIT,101074965,Data generation tool for for casemix planning optimization
+2026-09-23T14:26:34Z,jevlint,1.1.0,Fox Islam <foxislam@outlook.com>,MIT,310959,"A linting tool combining static analysis and Jev queries, to improve Jev queries"
+2026-09-23T14:27:16Z,ani2xcurtk,0.1.0,mizma <omoikane@path-works.net>,LICENSE,47384,.ani to xcursor conversion toolkit
+2026-09-23T14:27:51Z,bcp7,0.1,,,4455,
+2026-09-23T14:28:10Z,friday-memory,1.2.0,Shobhit Singh <itskie7910@gmail.com>,MIT,2457354,Official Python SDK and self-hosted persistent cognitive memory layer for AI coding agents
+2026-09-23T14:28:38Z,pixano-inference-client,0.1.0,,CeCILL-C FREE SOFTWARE LICENSE AGREEMENT Notice This Agreement is a Free Software license agreement…,59520,Lightweight client and wire schemas for the Pixano Inference /v1 API (no server deps).
+2026-09-23T14:28:50Z,moruna,0.1.0,,Apache-2.0,10671179,A memory-aware runtime for data and tensor pipelines
+2026-09-23T14:29:19Z,Ravengram,2.2.26,Dan <dan@pyrogram.org>,LGPL-3.0-or-later,6962927,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots"
+2026-09-23T14:29:56Z,fastslides,0.0.2,Pol Alvarez <pol@answer.ai>,Apache-2.0,10976,"Turn notebooks, md or Solveit dialogs into a slide deck with one command."
+2026-09-23T14:30:09Z,minerva-author,1.24.0,John Hoffer,,1276931,Minerva Author back-end web server interface
+2026-09-23T14:31:10Z,PyFix-debugger,2.0.0,PyFix,MIT,116533,"Python errors, explained and fixed."
+2026-09-23T14:33:33Z,recrystal,1.0.0,Mudit Choudhary,AGPL-3.0-or-later,63430,"A layout parser for research papers: fine-tuned YOLO11 layout detection over PDFs, assembled into ordered, typed blocks."
+2026-09-23T14:34:00Z,hostanagent-client,0.2.4,,MIT,15904,Thin async client for the HostAnAgent public protocol
+2026-09-23T14:34:20Z,partest-gen,1.0.0,dec01,MIT,150053,"Scaffold a runnable pytest suite from OpenAPI: endpoints, payloads, validations and the priority-one test matrix partest's methodology asks for."
+2026-09-23T14:34:40Z,opake,0.16.0,Opake Contributors,Apache-2.0,10655,Functional Differential Privacy for PyTorch
+2026-09-23T14:34:41Z,opake-optimizers,0.16.0,Opake Contributors,Apache-2.0,55743,"Opake functional optimizers (torchopt-based, DP-aware update surface)"
+2026-09-23T14:34:44Z,opake-base,0.16.0,Opake Contributors,Apache-2.0,15428,Opake foundation: pure-Python serialization registry and dispatcher (the seam used by every other opake wheel)
+2026-09-23T14:35:22Z,nobetci-eczane-api,1.0.0,Mehmet Erdoğan <contact@eczaneler.org>,MIT,9291,Türkiye ve KKTC güncel nöbetçi eczane verilerine REST API üzerinden erişim sağlayan resmi Python SDK.
