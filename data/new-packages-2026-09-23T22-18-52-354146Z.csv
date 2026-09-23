@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T21:17:50Z,pydantic-ai-atomicmail,0.3.29,Atomic Mail,MIT,119462,Pydantic AI toolset and capability giving agents a real email inbox with Atomic Mail
+2026-09-23T21:19:22Z,banzami-python,0.1.0,,MIT,68574,Official Python SDK for the Banzami payments platform
+2026-09-23T21:21:29Z,dutchmate-core,0.1.0,Nahit Pawar,Apache-2.0,213124,"Core hardware interface, protocol parsing, session storage, and workflows for DUTchMate."
+2026-09-23T21:22:14Z,whobrain-bench,0.3.0,Prejaas Tewarie,MIT,4069681,A community benchmark for whole-brain dynamical inference frameworks from M/EEG
+2026-09-23T21:22:23Z,chat-export-insights,0.1.1,,,84963,See what you actually use ChatGPT and Claude for. Runs on your computer; your conversations never leave it.
+2026-09-23T21:23:22Z,dutchmate-cli,0.1.0,Nahit Pawar,Apache-2.0,45362,DUTchMate command-line interface.
+2026-09-23T21:24:19Z,voyd,0.1.0,Fabian Valle,MIT,794506,"Ranking is not permission. A MongoDB wire proxy that cannot serve a fact it has forgotten -- admission control for what may reach a prompt, in one policy file and one connection string."
+2026-09-23T21:24:28Z,astral-dev-toolchain-rumdl,0.2.71,Astral <hey@astral.sh>,MIT,41752331,A fast Markdown linter and formatter written in Rust
+2026-09-23T21:24:52Z,spoligotyper,0.2.0,Marc-Olivier Duceppe <marc-olivier.duceppe@inspection.gc.ca>,MIT,78014,In silico spoligotyping of Mycobacterium tuberculosis complex genomes from reads or assemblies
+2026-09-23T21:24:57Z,dutchmate-service,0.1.0,Nahit Pawar,Apache-2.0,52945,DUTchMate Device Core Service.
+2026-09-23T21:26:12Z,domainsteer,0.2.0,,MIT,4448010,DomainSteer: Contrastive Activation Addition for scientific domains
+2026-09-23T21:26:30Z,dutchmate-mcp-server,0.1.0,Nahit Pawar,Apache-2.0,22311,DUTchMate MCP server adapter.
+2026-09-23T21:27:26Z,dutchmate,0.1.0,Nahit Pawar,Apache-2.0,10616,DUTchMate host tools and coding-agent integration.
+2026-09-23T21:27:28Z,comodino,0.1.0a1,"Ana Sanz Matias <asanzmatias@lbl.gov>, Fabrice Roncoroni <roncoroni@lbl.gov>, David Prendergast <dg…",MIT,1064192,Continuum model package
+2026-09-23T21:29:54Z,agentic-terminal99,0.1.0,krishna0tak <takkrishna95@gmail.com>,,2950,an MCP which adds terminal capabilities to an agent
+2026-09-23T21:35:36Z,osint-toolbox-mcp,1.0.1,renkagod,MIT,75838,"MCP server that lets AI agents run OSINT tools locally: Sherlock, Maigret, Holehe, GHunt, theHarvester, SpiderFoot, Blackbird, PhoneInfoga, ExifTool."
+2026-09-23T21:35:36Z,qdrant-operator,0.2.1,Mohamed Tahrioui,MIT,55017,Kubernetes operator for Qdrant vector database
+2026-09-23T21:44:48Z,pyprojx,0.0.1,Jake Van Slyke,MIT,3858,Placeholder release reserving the pyprojx name.
+2026-09-23T21:45:33Z,embraion,0.1.0,,MIT,496823,Portable AI-First Engineering System
+2026-09-23T21:46:24Z,gorget,0.4.0,Perruer,The MIT License (MIT) Copyright (c) Protect AI. All rights reserved. Copyright (c) 2026 Perruer (Go…,421587,"Security scanners for LLM prompts and responses: prompt injection, PII, secrets, toxicity and more. A maintained continuation of LLM Guard."
+2026-09-23T21:50:17Z,chainopt,0.1.0,Jude Caldwell <jcaldwell@wm.edu>,MIT,182960,Analyze LLM pipelines for cost and latency — SDK and CLI
+2026-09-23T21:51:02Z,laya-cuda,0.1.1,Alexw1111,Apache-2.0,516979,"Fast local CUDA inference for Laya decision models, without Torch."
+2026-09-23T21:54:22Z,scrapingisnotacrime,0.1.0,,MIT,64636,"Official Python SDK for the ScrapingIsNotACrime public data API — Instagram, TikTok, YouTube, GitHub, Hacker News, Bluesky, Twitch, App Store and Linktree."
+2026-09-23T22:02:52Z,m4bmaker-filter,1.1.1,sageframe-no-kaji,GPL-3.0-or-later,613573,"Convert a directory of audio files into a single .m4b audiobook with chapters, cover art, and metadata — plus a fully offline language filter. A fork of m4Bookmaker (sageframe-no-kaji/m4bmaker)."
+2026-09-23T22:03:09Z,8-mcp-youtube,0.1.0,fRNRT8,MIT,28373,YouTube Data API v3 MCP server for the 8th stack.
+2026-09-23T22:03:11Z,8-mcp-wordpress,0.1.1,fRNRT8,MIT,7648,WordPress (WPGraphQL) MCP server for the 8th stack.
+2026-09-23T22:05:50Z,tachys,0.1.0,"Riccardo Rende, Luciano Loris Viteritti",Apache-2.0,252971,Neural quantum states in JAX: variational Monte Carlo for quantum lattice models
+2026-09-23T22:07:38Z,kestrel-kernels-bundle-e,0.7.2,,,174389266,Precompiled data shard for kestrel-kernels 0.7.2
+2026-09-23T22:08:58Z,kestrel-kernels-bundle-f,0.7.2,,,83963309,Precompiled data shard for kestrel-kernels 0.7.2
+2026-09-23T22:09:33Z,kestrel-kernels-bundle-g,0.7.2,,,83977244,Precompiled data shard for kestrel-kernels 0.7.2
+2026-09-23T22:10:07Z,kestrel-kernels-bundle-h,0.7.2,,,83959642,Precompiled data shard for kestrel-kernels 0.7.2
+2026-09-23T22:11:01Z,phenofhy,1.0.1,Vincent Straub <vincent.straub@ndph.ox.ac.uk>,"BSD 3-Clause License Copyright (c) 2026, Vincent Straub Redistribution and use in source and binary…",170390,Tools for processing and analysing phenotype data in the Our Future Health TRE
+2026-09-23T22:13:17Z,dhizuku-cli,1.0.0,nsyhykui,GPL-3.0,48111,Dhizuku Device Owner command-line client over TCP with TOTP authentication
+2026-09-23T22:16:21Z,bangladesh-geo-data,0.1.0,Sayad Md Bayezid Hosan,MIT,1661736,"Offline Bangladesh administrative geography with bilingual records, postal codes, and district GeoJSON boundaries."
+2026-09-23T22:18:37Z,vestrix,0.3.1,Tejas Sinroja,PolyForm-Noncommercial-1.0.0,116222,Interactive call-graph and data-flow explorer for Python codebases
