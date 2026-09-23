@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T19:28:09Z,fprime-fpp-query,3.3.23,Andrei Tumbar <andrei.tumbar@jpl.nasa.gov>,Apache-2.0,2836639,Query the FPP syntactic model and list the files an autocoder would generate
+2026-09-23T20:24:36Z,types-boto3-network-security-manager,1.43.101,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,69345,Type annotations for boto3 NetworkSecurityManagerCustomerAPI 1.43.101 service generated with mypy-boto3-builder 8.12.0
+2026-09-23T20:24:37Z,mypy-boto3-network-security-manager,1.43.101,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,69251,Type annotations for boto3 NetworkSecurityManagerCustomerAPI 1.43.101 service generated with mypy-boto3-builder 8.12.0
+2026-09-23T20:26:00Z,cdmctl,1.5.4,,,25337,cdmctl - command-line control for CDM Server
+2026-09-23T20:34:50Z,bqsqlparse,0.1.1,Vamsi Kapa,"MIT License Copyright (c) 2026 Vamsi Kapa Permission is hereby granted, free of charge, to any pers…",101604,"A pure-Python BigQuery (GoogleSQL) parser with column-level lineage extraction: structs, arrays, UNNEST, PIVOT, QUALIFY, windows, MERGE and more."
+2026-09-23T20:34:51Z,shpz,0.2.0,,Apache-2.0,224612,A lightweight static shape checker for NumPy tensors.
+2026-09-23T20:36:31Z,kronos-finance,0.1.1,lordxmen2k <lordxmen2k@users.noreply.github.com>,MIT,137474,Pythonic wrapper around the Kronos foundation model for OHLCV forecasting across any market
+2026-09-23T20:43:10Z,oev,0.1.0,Divyanshu Dhruv <71079602+divyanshudhruv@users.noreply.github.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",84095,"System One decision model: typed questions in, calibrated probability distributions out, one forward pass."
+2026-09-23T20:47:01Z,aiogram-dialog-i18n,0.1.0,m-xim,MIT,9555,i18n text widget for aiogram-dialog powered by aiogram-i18n
+2026-09-23T20:50:18Z,impossibl,0.0.1,,,6033,A minimal Python client for the Impossibl AI API.
+2026-09-23T20:52:00Z,nuverse,0.1.0,Gor Arakelyan <gorarkln@gmail.com>,AGPL-3.0-or-later,10605,nuspace extensions: the apps and snippets a space offers out of the box.
+2026-09-23T20:52:46Z,drift-or-shift,0.1.0a1,Diogo Ribeiro <hansolo.dj@gmail.com>,MIT,111399,"Label shift vs. concept drift: Bayes-optimal offset correction, calibration, and drift diagnostics."
+2026-09-23T20:52:50Z,mq-bridge-meilisearch,0.1.1,,MIT OR Apache-2.0,15833080,Meilisearch endpoint for mq-bridge
+2026-09-23T21:11:44Z,cob-mds,1.0.0rc1,,CC-BY-4.0,16783,City of Boston MDS Implementation — validator for delivery provider trip payloads
+2026-09-23T21:12:01Z,adva,0.1.0,Adva contributors,LicenseRef-Unknown-0.3,1369065,A typed Lisp engine and interoperable IR for program geometry
+2026-09-23T21:14:52Z,wherewasi-cli,0.1.0,Laween Al-Sulaivany <laweenhamza@gmail.com>,MIT,7925,A tiny CLI tool that remembers where you left off.
+2026-09-23T21:16:17Z,hannah-logging,0.1.0,,,26240,Ships the logs of a Hannah component to the Hannah log collector
+2026-09-23T21:17:01Z,slim-m,0.1.0,,LicenseRef-PolyForm-Noncommercial-1.0.0,20629,"Shared plumbing for slim-m bots: auth, REST, retries, websocket reconnect, seq cursors"
+2026-09-23T21:17:35Z,telead,0.1.0,Eli Meshi,MIT,75415,A Python library for the Telegram Ads API

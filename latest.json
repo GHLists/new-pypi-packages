@@ -1,43 +1,43 @@
 {
   "list": {
-    "count": 87,
-    "from": "2026-09-23T18:08:03Z",
-    "path": "data/new-packages-2026-09-23T20-18-50-634115Z.csv",
-    "to": "2026-09-23T20:18:50.634115Z"
+    "count": 19,
+    "from": "2026-09-23T20:18:50.634115Z",
+    "path": "data/new-packages-2026-09-23T21-18-53-705765Z.csv",
+    "to": "2026-09-23T21:18:53.705765Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-23T18:10:10Z",
       "package": "corobots",
       "since": "2026-09-23T18:08:03Z"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-09-23T19:28:09Z",
-      "package": "fprime-fpp-query",
-      "since": "2026-09-23T18:08:03Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-23T19:11:49Z",
       "package": "harmony-casper",
       "since": "2026-09-23T18:08:03Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-23T20:09:21Z",
       "package": "knav",
       "since": "2026-09-23T18:08:03Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-23T18:40:51Z",
       "package": "my-joke-mcp-server",
       "since": "2026-09-23T18:08:03Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-23T21:17:50Z",
+      "package": "pydantic-ai-atomicmail",
+      "since": "2026-09-23T20:18:50.634115Z"
     }
   ],
-  "serial": 41384310,
+  "serial": 41386098,
   "source_truncated": false,
-  "window": "2026-09-23T20:18:50.634115Z"
+  "window": "2026-09-23T21:18:53.705765Z"
 }
