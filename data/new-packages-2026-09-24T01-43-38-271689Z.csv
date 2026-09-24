@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T00:20:07Z,eaqsp,0.2.1,Kamran Ansari,MIT,142743,Error-aware quantum signal processing: search the phase fiber of a target polynomial for robust or low-T-count phase sequences
+2026-09-24T00:20:29Z,lengxufan-engine,0.1.0,陆银,Apache-2.0,24851,AI NPC 引擎 SDK：加载 character.json 即可对话的角色引擎
+2026-09-24T00:27:38Z,pydevices-audiodsp,0.6.0,PyDevices contributors,MIT,3647536,CircuitPython-compatible audio synthesis and effects for PyDevices
+2026-09-24T00:28:02Z,Chromite,0.6.0,NastyaNoTamashii,MIT,14558,Chromite is a framework for text and ASCI formatting in Python.
+2026-09-24T00:28:19Z,jevcompat,0.1.0,Youngmin Ko,MIT,115505,A testable spec and conformance suite for Jev-compatible (TypeSafe System One) API servers.
+2026-09-24T00:31:33Z,netconf-yang-tools,0.1.0,Mahesh Jethanandani <mjethanandani@gmail.com>,MIT,11505,Tools for a NETCONF client to interact with a NETCONF server
+2026-09-24T00:38:58Z,spens-acp,1.0.1,spens contributors,MIT,9668190,ACP shim for spens agents
+2026-09-24T00:40:28Z,pylips-mcp,0.2.1,amineutron,MIT,41482,MCP server for Philips TV control (JointSpace API + ADB)
+2026-09-24T00:40:57Z,denon-mcp,0.2.1,amineutron <amine.neutroncore@gmail.com>,MIT,17915,MCP server for Denon AVR home cinema control via telnet
+2026-09-24T00:41:29Z,lyra-assistant,1.3.1,amineutron,AGPL-3.0-or-later,1171351,Local voice-controlled DevOps assistant (French) with RAG pipeline
+2026-09-24T00:45:47Z,spens-ai,1.2.5,,MIT,22458233,Toolchain for running and orchestrating agents in a safe environment with full audit control
+2026-09-24T00:46:38Z,catt-mcp,0.2.1,amineutron <amine.neutroncore@gmail.com>,MIT,34693,MCP server for casting YouTube/media to Chromecast/DLNA via catt
+2026-09-24T00:47:00Z,mcp-tracking,0.2.1,amineutron,MIT,543513,"MCP server, HTTP API and Textual TUI dashboard to track long-running tasks in real time"
+2026-09-24T00:53:14Z,hyze-cloud,0.1.1,Hyze Cloud,MIT,46746,Official Python SDK for the Hyze Cloud API
+2026-09-24T00:56:08Z,quail-engine,0.1.0,,MIT,598646,Quail: a declarative query engine for AI.IF and AI_JOIN
+2026-09-24T01:01:46Z,bomiot-build,0.1.0,GreaterWMS,Apache-2.0,5675054,Bomiot Builder - Nuitka-powered build script
+2026-09-24T01:06:44Z,merchantops-sdk,0.1,,Apache-2.0,1680737,A client library for accessing MerchantOps Admin API
+2026-09-24T01:08:28Z,zettcode,0.1.0,Chang-LeHung,MIT,59332,A focused terminal coding agent powered by zett-agent
+2026-09-24T01:09:28Z,merchantops-cli,0.1.0,,Apache-2.0,471009,MerchantOps operator CLI — a thin Typer layer over the generated MerchantOps SDK.
+2026-09-24T01:11:41Z,vibecheck-py,0.1.1,Jeremiah Lowin <153965+jlowin@users.noreply.github.com>,,79588,The easiest way to use decision models in Python.
+2026-09-24T01:13:34Z,reflex-perspective,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,Apache-2.0,72458,"Perspective for Reflex: a WebAssembly analytics viewer (datagrid + WebGL charts) for large and streaming datasets, with client-only, server-only and replicated modes."
+2026-09-24T01:18:33Z,sagadeck,1.0.0,Narumi Abe,MIT,4692269,"Apresentações a partir de YAML: HTML animado, PowerPoint editável, PDF e roteiro — com temas, pictogramas e gráficos gerados na hora."
+2026-09-24T01:18:48Z,graphs-bbaaset,0.1.0,Abdalbaset Taher <ataher@msudenver.edu>,,25890,A Python library implementing Dijkstra's shortest path algorithm
+2026-09-24T01:19:17Z,ns-l6,0.0.0,Jan Zdráhal <jan@zdrahal.eu>,Apache-2.0,11123,NS-L6 - Human-LLM Responsibility Framework. Name reservation; functionality to follow.
+2026-09-24T01:21:18Z,dirr,0.0.0,Jan Zdráhal <jan@zdrahal.eu>,Apache-2.0,10971,DIRR. Name reservation; functionality to follow.
+2026-09-24T01:22:02Z,matrixcore,0.0.0,Jan Zdráhal <jan@zdrahal.eu>,Apache-2.0,11248,MatrixCore™. Name reservation; functionality to follow.
+2026-09-24T01:22:03Z,daothetoan-baitappyi,0.1.1,Dao The Toan <toan12a4thptnhanam@gmail.com>,,3473,Thu vien tinh toan va hinh hoc
+2026-09-24T01:24:19Z,fontpkg-barlow-semi-condensed,1.408,,OFL-1.1,989031,"Barlow Semi Condensed font family, packaged for Python by fontpkg"
+2026-09-24T01:24:21Z,fontpkg-lilita-one,1.2,,OFL-1.1,22189,"Lilita One font family, packaged for Python by fontpkg"
+2026-09-24T01:24:22Z,fontpkg-lobster,2.100,,OFL-1.1,154445,"Lobster font family, packaged for Python by fontpkg"
+2026-09-24T01:24:25Z,fontpkg-merriweather-sans,2.1,,OFL-1.1,242733,"Merriweather Sans font family, packaged for Python by fontpkg"
+2026-09-24T01:27:43Z,rag-connector,0.2.0a1,Stacey Farias,MIT,935624,A product-neutral contract and conformance kit for treating RAG pipelines as black boxes.
+2026-09-24T01:28:11Z,aegis-devops,0.1.0,,Apache-2.0,474031,"Provenance-backed, authority-aware policy verifier for agentic DevOps actions."
+2026-09-24T01:33:31Z,qi-coding-agent,0.1.0,,MIT,1799256,编码 agent 框架:单 agent core + 扩展(MCP / 多 agent / web)
+2026-09-24T01:35:14Z,ordered-btree,0.1.0,Riccardo Gabellone,MIT,154545,A typed generic ordered-key B-tree with encapsulated mutation and fail-fast iterators
+2026-09-24T01:37:20Z,pyquantdata,0.1.0,openbot-coder,MIT,180174,quantdata: 单目录自包含的量化数据中台 CLI（A股/美股/港股），init 建库回填，serve 常驻更新 + FastAPI 对外服务
+2026-09-24T01:39:07Z,wboone,0.1.0,Willie D. Boone,,3044,"My first Python package, built while learning packaging."
+2026-09-24T01:40:44Z,cspan,0.3.0,Hanif Sajid <hanifwrites@gmail.com>,MIT,44560,A Python client for the C-SPAN Archives API.
