@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T03:44:37Z,specfun,1.0.8,,,224128,
+2026-09-24T04:19:09Z,kalshi-degen-mcp,0.1.2,Nigel Norris,MIT,120468,Open-source MCP server for Kalshi Trade API v2 market research and trading
+2026-09-24T04:21:27Z,dexverse-updater,0.1.0,,,22681,Stable supervised test-channel installer for DexVerse uploader
+2026-09-24T04:23:54Z,bpmn-io,0.1.0,Fabien Antoine,MIT,794201,"Pure-Python port of bpmn.io bpmn-moddle and bpmn-auto-layout: read, check, build, lay out and write BPMN 2.0 XML"
+2026-09-24T04:25:23Z,cot-assert,0.1.0,Ronny Pfannschmidt <opensource@ronnypfannschmidt.de>,MPL-2.0,73352,"assertion rewriting with a structured AssertionError, for Python 2.7, 3.x and RPython"
+2026-09-24T04:25:47Z,ml-benchmark-toolkit,0.1.0,Your Name <you@example.com>,MIT,23190,"Lightweight toolkit to benchmark, compare and visually report on classification models."
+2026-09-24T04:28:01Z,lantern-harness,0.1.0,Pranav Deshmukh,MIT,54486,"A domain-agnostic execution harness for AI agents: crash-resume, typed contracts, tracing, governance, and dynamic routing for any agent you already built."
+2026-09-24T04:28:06Z,lembra,0.0.1,,Apache-2.0,10804,Lembra: an open memory system for AI agents. Pre-alpha; this release reserves the name and installs nothing usable yet.
+2026-09-24T04:28:20Z,liametahi,0.1.0,4piu,MIT,394105,"A local, cron-friendly IMAP mailbox cleanup CLI using an LLM as a constrained classifier."
+2026-09-24T04:33:33Z,local-bigquery,0.3.1,,MIT,483762,A BigQuery emulator for local development and tests
+2026-09-24T04:39:49Z,textflowkit-fonts,0.1.5,,OFL-1.1,23367464,Optional offline Unicode PDF fonts for TextFlowKit
+2026-09-24T04:43:55Z,ledgr,0.0.1,jonathan343,,1894,Placeholder release. Nothing to see here yet.
+2026-09-24T04:44:33Z,tcframe,0.1.2,,,510503,Python abstraction layer for the tcframe test case generation framework
+2026-09-24T04:47:10Z,bomiot-cmd,0.1.0,,,6711743,Bomiot CMD library
+2026-09-24T04:48:57Z,agrijax,0.0.1,Juk-Sen TANG <juksen.tang@mail.mcgill.ca>,Apache-2.0,333056,"Differentiable, batch-parallel field-scale crop-soil process models in JAX (CERES-Maize + RZWQM-style soil water and PET)."
+2026-09-24T04:53:31Z,ballstreet-mcp,1.0.0,Ball Street League,MIT,28665,MCP server for the BallStreet fantasy-football market API
+2026-09-24T04:58:35Z,jellyfin-media-organizer,0.3.1,,MIT,473695,"Plan-first Jellyfin media organizer, currently focused on TV shows."
+2026-09-24T04:59:04Z,graphs-haidangnguyenle,0.1.0,,,26941,A Python library implementing Dijkstra's shortest path algorithm.
+2026-09-24T04:59:45Z,git-whoami,0.1.1,Prapatsorn Sangrod,MIT,35242,See which GitHub account each repo commits as and pushes to — and stop the two from drifting apart
+2026-09-24T05:04:52Z,hepyy-workflows,0.1.0,,,130187,"Explicit, portable HEP data workflows"
+2026-09-24T05:06:40Z,cirrusnetworks-forge,0.0.1,,,3575,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-24T05:06:53Z,cirrusnetworks-cache,0.0.1,,,3561,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-24T05:07:02Z,cirrusnetworks-canopy,0.0.1,,,3577,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-24T05:07:09Z,cirrusnetworks-atlas,0.0.1,,,3564,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-24T05:11:45Z,quadriceps,0.1.0,Joris Pinkse <pinkse@gmail.com>,MIT,5889974,"Positive-weight cubature rules for the Gaussian weight and the cube (ghpos, lepos)"
+2026-09-24T05:12:22Z,agentquay-sdk,0.3.0,AgentQuay,Apache-2.0,30000067,AgentQuay Python SDK — 让 AI Agent 通过 MCP 发现并调用你的桌面应用方法
+2026-09-24T05:14:26Z,taintgate,0.1.0,Rudratosh Shastri,MIT,25303,"A policy gate for AI agent tool calls, with provenance tracking. Blocks what prompt-injection classifiers miss."
+2026-09-24T05:14:45Z,amazing-binance-mcp,0.1.0,Alejandro Latorre,Apache-2.0,485094,"MCP server for the Binance Spot + Wallet REST API (API-key auth, stdio)."
+2026-09-24T05:17:45Z,otiio,0.1.0,Andy Shinn <andy.shinn@gmail.com>,MIT,94189,"Read Otii 3 project files (.otii3) with numpy. Unofficial, not affiliated with Qoitech."

@@ -8,33 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 04:18 UTC
+## Latest list — 2026-09-24 05:18 UTC
 
-New packages created between 2026-09-24 03:18 UTC and 2026-09-24 04:18 UTC.
+New packages created between 2026-09-24 04:18 UTC and 2026-09-24 05:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-24T04-18-54-700824Z.csv)
+[Full CSV](data/new-packages-2026-09-24T05-18-54-098662Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-24 03:20:12 | [korova-mcp](https://pypi.org/project/korova-mcp/) | 0.1.0 | Phil Wheatley | 57.1 kB | MCP server for The Korova Milk Bar, an agent-only collaboration space: knock at… |
-| 2026-09-24 03:22:40 | [lavs-sdk](https://pypi.org/project/lavs-sdk/) | 0.2.0 |  | 94.6 kB | Python SDK for LAVS (Local Agent View Service) protocol |
-| 2026-09-24 03:24:35 | [gathervis](https://pypi.org/project/gathervis/) | 0.16.0 | zzzzswh | 329.3 kB | Web viewer for pre-stack seismic data: lazy loading of huge files, SEG-Y import… |
-| 2026-09-24 03:29:45 | [deepseek-harness-patent-services](https://pypi.org/project/deepseek-harness-patent-services/) | 0.1.0 |  | 717.0 kB | MCP stdio server exposing patent disclosure parsing and export to the dsh paten… |
-| 2026-09-24 03:30:30 | [baiducloud-python-sdk-nlp](https://pypi.org/project/baiducloud-python-sdk-nlp/) | 0.0.1 | Baidu Cloud SDK | 88.2 kB | Baidu Cloud nlpApi SDK Library for Python |
-| 2026-09-24 03:33:43 | [llmbash](https://pypi.org/project/llmbash/) | 0.1.0 |  | 44.9 MB | An embeddable bash-compatible shell that minimizes its own output, for LLM agen… |
-| 2026-09-24 03:36:51 | [svg2text](https://pypi.org/project/svg2text/) | 1.0.0 |  | 8.4 kB | Lossless SVG compression and encryption for the command line |
-| 2026-09-24 03:42:46 | [ascent-science-adam](https://pypi.org/project/ascent-science-adam/) | 0.1.0 | Ascent Science | 2.4 kB | Ascent Science SDK plugin for Adam |
-| 2026-09-24 03:42:48 | [ascent-science-alns](https://pypi.org/project/ascent-science-alns/) | 0.1.0 | Ascent Science | 2.4 kB | Ascent Science SDK plugin for ALNS |
-| 2026-09-24 03:42:50 | [ascent-science-arima](https://pypi.org/project/ascent-science-arima/) | 0.1.0 | Ascent Science | 2.4 kB | Ascent Science SDK plugin for ARIMA |
-| 2026-09-24 03:42:53 | [ascent-science-bayesianoptimization](https://pypi.org/project/ascent-science-bayesianoptimization/) | 0.1.0 | Ascent Science | 2.7 kB | Ascent Science SDK plugin for BayesianOptimization |
-| 2026-09-24 03:43:29 | [llm-babel](https://pypi.org/project/llm-babel/) | 0.1.0 |  | 854.4 kB | One transform spec, compiled to Python/Rust/TypeScript, translating LLM request… |
-| 2026-09-24 03:43:55 | [verl-speco](https://pypi.org/project/verl-speco/) | 0.1.0 | verl-SpeCo contributors | 663.0 kB | Speculative decoding co-training extensions for verl |
-| 2026-09-24 03:44:54 | [wftune](https://pypi.org/project/wftune/) | 0.1.0 | WfTune contributors | 112.4 kB | Offline audit, summary, and plotting tools for WfTune workflow-deployment bench… |
-| 2026-09-24 03:52:53 | [dbsc](https://pypi.org/project/dbsc/) | 0.1.0 | Report URI | 87.3 kB | A small, framework-agnostic, async Python server library for Device Bound Sessi… |
-| 2026-09-24 03:54:59 | [schemaingest](https://pypi.org/project/schemaingest/) | 0.1.0 | Jineth Bosilu | 45.7 kB | Introspect your PostgreSQL or MySQL/MariaDB schema through a web UI, without cr… |
-| 2026-09-24 03:55:50 | [diros](https://pypi.org/project/diros/) | 0.0.1 | Sudhakar Sinha | 2.7 kB | DIROS - DataOps, Intelligence, Routing, Orchestration, Services. |
-| 2026-09-24 04:06:00 | [item-extractor](https://pypi.org/project/item-extractor/) | 1.0.0 | UnknwnDev | 9.0 kB | Extract todos, tasks, reminders, and events from natural language |
-| 2026-09-24 04:06:21 | [ucdinfo](https://pypi.org/project/ucdinfo/) | 0.2 | SIL WSTech <fonts@sil.org> | 299.6 kB | Unicode UCD wrapper module |
-| 2026-09-24 04:10:20 | [jev-heuristic-adapter](https://pypi.org/project/jev-heuristic-adapter/) | 0.1.0 |  | 20.9 kB | Compile fixed decision tasks into reusable heuristic programs. |
-| 2026-09-24 04:12:01 | [flyloft](https://pypi.org/project/flyloft/) | 0.1.0 |  | 269.9 kB | Agent swarms for empirical research on Slurm clusters |
-| 2026-09-24 04:14:22 | [mkdocs-nested-tabs](https://pypi.org/project/mkdocs-nested-tabs/) | 0.1.0 | Luka Sherman <lukawritecode@g… | 16.1 kB | Display two levels of navigation.tabs instead of Material's hover-only dropdown. |
+| 2026-09-24 03:44:37 | [specfun](https://pypi.org/project/specfun/) | 1.0.8 |  | 224.1 kB |  |
+| 2026-09-24 04:19:09 | [kalshi-degen-mcp](https://pypi.org/project/kalshi-degen-mcp/) | 0.1.2 | Nigel Norris | 120.5 kB | Open-source MCP server for Kalshi Trade API v2 market research and trading |
+| 2026-09-24 04:21:27 | [dexverse-updater](https://pypi.org/project/dexverse-updater/) | 0.1.0 |  | 22.7 kB | Stable supervised test-channel installer for DexVerse uploader |
+| 2026-09-24 04:23:54 | [bpmn-io](https://pypi.org/project/bpmn-io/) | 0.1.0 | Fabien Antoine | 794.2 kB | Pure-Python port of bpmn.io bpmn-moddle and bpmn-auto-layout: read, check, buil… |
+| 2026-09-24 04:25:23 | [cot-assert](https://pypi.org/project/cot-assert/) | 0.1.0 | Ronny Pfannschmidt <opensourc… | 73.4 kB | assertion rewriting with a structured AssertionError, for Python 2.7, 3.x and R… |
+| 2026-09-24 04:25:47 | [ml-benchmark-toolkit](https://pypi.org/project/ml-benchmark-toolkit/) | 0.1.0 | Your Name <you@example.com> | 23.2 kB | Lightweight toolkit to benchmark, compare and visually report on classification… |
+| 2026-09-24 04:28:01 | [lantern-harness](https://pypi.org/project/lantern-harness/) | 0.1.0 | Pranav Deshmukh | 54.5 kB | A domain-agnostic execution harness for AI agents: crash-resume, typed contract… |
+| 2026-09-24 04:28:06 | [lembra](https://pypi.org/project/lembra/) | 0.0.1 |  | 10.8 kB | Lembra: an open memory system for AI agents. Pre-alpha; this release reserves t… |
+| 2026-09-24 04:28:20 | [liametahi](https://pypi.org/project/liametahi/) | 0.1.0 | 4piu | 394.1 kB | A local, cron-friendly IMAP mailbox cleanup CLI using an LLM as a constrained c… |
+| 2026-09-24 04:33:33 | [local-bigquery](https://pypi.org/project/local-bigquery/) | 0.3.1 |  | 483.8 kB | A BigQuery emulator for local development and tests |
+| 2026-09-24 04:39:49 | [textflowkit-fonts](https://pypi.org/project/textflowkit-fonts/) | 0.1.5 |  | 23.4 MB | Optional offline Unicode PDF fonts for TextFlowKit |
+| 2026-09-24 04:43:55 | [ledgr](https://pypi.org/project/ledgr/) | 0.0.1 | jonathan343 | 1.9 kB | Placeholder release. Nothing to see here yet. |
+| 2026-09-24 04:44:33 | [tcframe](https://pypi.org/project/tcframe/) | 0.1.2 |  | 510.5 kB | Python abstraction layer for the tcframe test case generation framework |
+| 2026-09-24 04:47:10 | [bomiot-cmd](https://pypi.org/project/bomiot-cmd/) | 0.1.0 |  | 6.7 MB | Bomiot CMD library |
+| 2026-09-24 04:48:57 | [agrijax](https://pypi.org/project/agrijax/) | 0.0.1 | Juk-Sen TANG <juksen.tang@mai… | 333.1 kB | Differentiable, batch-parallel field-scale crop-soil process models in JAX (CER… |
+| 2026-09-24 04:53:31 | [ballstreet-mcp](https://pypi.org/project/ballstreet-mcp/) | 1.0.0 | Ball Street League | 28.7 kB | MCP server for the BallStreet fantasy-football market API |
+| 2026-09-24 04:58:35 | [jellyfin-media-organizer](https://pypi.org/project/jellyfin-media-organizer/) | 0.3.1 |  | 473.7 kB | Plan-first Jellyfin media organizer, currently focused on TV shows. |
+| 2026-09-24 04:59:04 | [graphs-haidangnguyenle](https://pypi.org/project/graphs-haidangnguyenle/) | 0.1.0 |  | 26.9 kB | A Python library implementing Dijkstra's shortest path algorithm. |
+| 2026-09-24 04:59:45 | [git-whoami](https://pypi.org/project/git-whoami/) | 0.1.1 | Prapatsorn Sangrod | 35.2 kB | See which GitHub account each repo commits as and pushes to — and stop the two… |
+| 2026-09-24 05:04:52 | [hepyy-workflows](https://pypi.org/project/hepyy-workflows/) | 0.1.0 |  | 130.2 kB | Explicit, portable HEP data workflows |
+| 2026-09-24 05:06:40 | [cirrusnetworks-forge](https://pypi.org/project/cirrusnetworks-forge/) | 0.0.1 |  | 3.6 kB | Reserved name. Cirrus Networks internal package — not distributed on PyPI. |
+| 2026-09-24 05:06:53 | [cirrusnetworks-cache](https://pypi.org/project/cirrusnetworks-cache/) | 0.0.1 |  | 3.6 kB | Reserved name. Cirrus Networks internal package — not distributed on PyPI. |
+| 2026-09-24 05:07:02 | [cirrusnetworks-canopy](https://pypi.org/project/cirrusnetworks-canopy/) | 0.0.1 |  | 3.6 kB | Reserved name. Cirrus Networks internal package — not distributed on PyPI. |
+| 2026-09-24 05:07:09 | [cirrusnetworks-atlas](https://pypi.org/project/cirrusnetworks-atlas/) | 0.0.1 |  | 3.6 kB | Reserved name. Cirrus Networks internal package — not distributed on PyPI. |
+| 2026-09-24 05:11:45 | [quadriceps](https://pypi.org/project/quadriceps/) | 0.1.0 | Joris Pinkse <pinkse@gmail.co… | 5.9 MB | Positive-weight cubature rules for the Gaussian weight and the cube (ghpos, lep… |
+| 2026-09-24 05:12:22 | [agentquay-sdk](https://pypi.org/project/agentquay-sdk/) | 0.3.0 | AgentQuay | 30.0 MB | AgentQuay Python SDK — 让 AI Agent 通过 MCP 发现并调用你的桌面应用方法 |
+| 2026-09-24 05:14:26 | [taintgate](https://pypi.org/project/taintgate/) | 0.1.0 | Rudratosh Shastri | 25.3 kB | A policy gate for AI agent tool calls, with provenance tracking. Blocks what pr… |
+| 2026-09-24 05:14:45 | [amazing-binance-mcp](https://pypi.org/project/amazing-binance-mcp/) | 0.1.0 | Alejandro Latorre | 485.1 kB | MCP server for the Binance Spot + Wallet REST API (API-key auth, stdio). |
+| 2026-09-24 05:17:45 | [otiio](https://pypi.org/project/otiio/) | 0.1.0 | Andy Shinn <andy.shinn@gmail.… | 94.2 kB | Read Otii 3 project files (.otii3) with numpy. Unofficial, not affiliated with… |
