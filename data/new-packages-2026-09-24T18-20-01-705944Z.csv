@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T17:20:23Z,efezgame,0.1.0,xuwyx,MIT,6776,Official EfezGame Python library
+2026-09-24T17:20:55Z,pulsepigeon,0.1.0b1,,MIT,25473,Official PulsePigeon API client for Python.
+2026-09-24T17:21:14Z,acd.py,1.0.0,Philipp Kosarev <philipp.kosarev@gmail.com>,GPL-2.0,28723,Python module for reading and writing Assetto Corsa Data (.acd) files.
+2026-09-24T17:21:39Z,vultr-model-catalog,0.0.1,Matt Harris,MIT,16075,Fetch and normalize a Model Document 2.4 catalog (Vultr Inference /v1/models)
+2026-09-24T17:27:40Z,claude-code-statusline-designer,0.1.0,Aleš Langer,MIT,102687,"Design, preview and install a themed statusline for Claude Code"
+2026-09-24T17:29:43Z,contextsage,0.1.0,S MUNI HARISH <samamuniharish@gmail.com>,Apache-2.0,379207,"Intelligent, production-grade context summarization for LangGraph/LangChain agents."
+2026-09-24T17:34:41Z,behaviorweave,0.1.0,S Muni Harish,Apache-2.0,124459,Behavioral policy and intervention framework for LangGraph and LangChain agents.
+2026-09-24T17:36:10Z,olcabasic,0.1.0,Below280 <info@below280.com>,MPL-2.0,67091,A BASIC-like language for controlling openLCA
+2026-09-24T17:37:03Z,delegus-core,0.1.0,,Apache-2.0,71032,"Python port of the Delegus v0.2 protocol layer (delegus-base-v1): Grant/Proof parsing, checks P1-P20, receipt assembly, signing and offline re-verification. No I/O; snapshots and clock are injected.…"
+2026-09-24T17:37:49Z,delegus-mcp,0.1.0,,Apache-2.0,26292,"Delegus for Python MCP servers: ASGI middleware that checks every MCP tools/call against the caller's delegated authority before it runs (MCPServer streamable HTTP, Starlette, FastAPI)."
+2026-09-24T17:38:45Z,yahooweather-cli,0.0.10,tomok14 <nolamiller1203@gmail.com>,MIT,247612,yahooweather command line tool
+2026-09-24T17:40:08Z,hakodesh-iudex,0.0.1,Shelleyguitar,LicenseRef-Proprietary,4370,שם שמור: לקוח jev של hakodesh נשלח בתוך hakodesh עצמו כ-hakodesh.iudex
+2026-09-24T17:46:57Z,tablelint,0.1.0,coocoomaomao,"MIT License Copyright (c) 2026 coocoomaomao Permission is hereby granted, free of charge, to any pe…",36961,Lint academic tables before submission.
+2026-09-24T17:48:47Z,edgegrid-gate,0.0.1,,MIT,2922,Reserved package name. No functional release published yet.
+2026-09-24T17:50:12Z,mcp-laya,0.1.1,dockndevai <ankitcs17071993@gmail.com>,MIT,28733,"Safe-by-default MCP server for Laya — fast, local, non-autoregressive typed decisions (classify / score / yes-no) for AI agents, in 100+ languages."
+2026-09-24T17:50:46Z,markdown-to-slack-blocks,1.0.0,Nikita Nefedov,MIT,53121,"Convert Markdown (including GFM tables, mentions, and LLM output) into Slack Block Kit JSON, and back."
+2026-09-24T17:51:19Z,arcascope-senpy,4.0.1,Eric Canton and Franco Tavella,,6246854,Fast sensor processing with FFT-based signal analysis
+2026-09-24T17:52:04Z,cronopy,0.1.1,Aron Radics,,15869,Unofficial cli for cronometer
+2026-09-24T17:52:31Z,gpc-codec,1.0.0,Ranveer <kr715ranveer@gmail.com>,MIT,24400,Generalized Patha Codes (GPC): Specialized linear-time synchronization inner code for order-sensitive channels
+2026-09-24T17:52:32Z,arma-veto,0.1.0,ARMA Contributors,MIT,33614,Sub-50ms deterministic test-tampering and evasion linter for AI coding agents.
+2026-09-24T17:53:07Z,thinkthen,0.0.1,,MIT,3267,ThinkThen. This release reserves the name while the first version is finished. See https://thinkthen.dev
+2026-09-24T17:55:01Z,caligrama,0.1.0,Mao Suarez <maosuarezbarrer@gmail.com>,MIT,5181183,"Escribe mensajes y poemas dentro de la silueta de cualquier imagen, como texto. Núcleo en Rust, cero dependencias."
+2026-09-24T17:55:34Z,lmfn,0.1.0,Maxime Rivest,Apache-2.0,60353,"Typed Python functions whose body is a language model call, on lmcc and lm15"
+2026-09-24T17:56:19Z,assay-evals,0.1.0,tap222,MIT,17840,"Record what your AI system does, and how it went, in Assay: runs, agent steps, feedback and test results"
+2026-09-24T17:57:21Z,tidal-dl-ultra,0.1.1,,GPL-3.0-or-later,297037,"Downloader de terminal para o Tidal (Lossless/Hi-Res), irmão do qobuz-dl-ultra. Funciona no a-Shell (iOS/iPadOS)."
+2026-09-24T17:57:38Z,edgegrid-mcp-gate,0.0.1,,MIT,2989,Reserved package name. No functional release published yet.
+2026-09-24T18:01:57Z,dsh-cua,0.3.0,Hutusion,MIT,95000,"Windows computer-use MCP server: accessibility-first element actions, skyshot text trees, guarded raw input, and a cross-session arbiter that yields to the human"
+2026-09-24T18:02:12Z,opymapper,0.1.0b1,Msnehulak <pypi@snehulak.dev>,,2476,A Python tool to create osu! beatmaps programmatically.
+2026-09-24T18:02:44Z,gevva,1.0.0,Gevva Team & Contributors,Apache-2.0,151644,Gevva: State-of-the-Art Multimodal 128K System 1 Decision Engine & NLI Cross-Encoder (#1 on JevBench)
+2026-09-24T18:04:33Z,genkit-a2ui,0.12.0,Google,Apache-2.0,49905,A2UI (Agent-to-UI) middleware for Genkit.
+2026-09-24T18:05:37Z,vedanshshetti-python-utils,1.0.0,Vedansh Shetti,,2759,Add your description here
+2026-09-24T18:05:49Z,ltc-tracts,0.1.0,Kristin Li,,113381272,Add your description here
+2026-09-24T18:05:57Z,retrogrid,0.1.0,jampick,MIT,2771157,"RETRO//GRID — a cyberpunk NFL gameday console: every live game, the plays that matter as neon tactical diagrams, with an opt-in fantasy layer"
+2026-09-24T18:06:10Z,riser,1.1.0,,"MIT License Copyright (c) 2025 rzinke Permission is hereby granted, free of charge, to any person o…",180778,
+2026-09-24T18:08:33Z,manu-index,0.1.1,TSR,"MIT License Copyright (c) TSR. Permission is hereby granted, free of charge, to any person obtainin…",25161,GRAG document retrieval and searching framework.
+2026-09-24T18:10:08Z,pysmart-lib,1.0.0b2,Elijah J.,,12128,An elegant Python string extension library featuring SmartStr with robust validation and parsing.
+2026-09-24T18:11:37Z,tarja-presidio,0.1.0,Maria Alice Maia <tarja@micah6ai.com>,Apache-2.0,8220,"Brazilian identifiers for Microsoft/Data Privacy Stack Presidio, powered by tarja. / Identificadores brasileiros p/ o Presidio, via tarja."
+2026-09-24T18:13:49Z,pccpy,0.4.3,LeoSanta15 <angelsanta1@gmail.com>,MIT,112294,"Control Estadístico de Procesos (SPC) en Python: cartas de control, capacidad y pruebas al estilo Minitab"
+2026-09-24T18:14:11Z,lowlevel,1.0.0,Natanael Rodrigues,GPL-3.0,32052,Low-level memory management library for Python using C
+2026-09-24T18:15:16Z,kwore-db,0.0.1,,,2095,Reserved name. The real package is internal to Kwore and is not published on PyPI.
