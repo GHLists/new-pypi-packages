@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T21:19:27Z,pamoja-gateway,0.2.0,molexxxx,MIT,12865,"What a LoRaWAN gateway speaks: the Semtech packet forwarder protocol and the Basics Station protocol on both sides, the network side of a single site, and a bridge from the radio to the link that lea…"
+2026-09-24T21:19:30Z,pamoja-hal,0.2.0,molexxxx,MIT,23243,"The embedded-hal traits every driver takes, a bit-banged 1-Wire bus, simulated parts and scripted buses that stand in for hardware, the Linux backends over i2c-dev, spidev, and the GPIO character dev…"
+2026-09-24T21:19:33Z,pamoja-radios,0.2.0,molexxxx,MIT,27801,"The Semtech SX126x and SX127x LoRa radios and the SX1302 and SX1303 gateway concentrators: their commands, registers, and decoders, the amplifier setting a regional EIRP ceiling allows, a duty-cycle…"
+2026-09-24T21:19:35Z,farmwise-api,0.1.0,"""Kamil Smolak, Dominik Teodorczyk, Jakub Misiewicz, Marc Laurencelle, Wiesław Fiałkiewicz, Arkadius…",Apache-2.0,2537272,European agricultural and environmental data aggregation API
+2026-09-24T21:23:33Z,heldfast,0.2.0,Rufat Mahmudov,Apache-2.0,6417117,"Zero-dependency tool-integrity pin for MCP servers and agent skills: approve once, refuse what changed"
+2026-09-24T21:25:01Z,woobe-sdk,0.1.0,,MIT,44382,Python SDK for the Woobe Runtime API
+2026-09-24T21:27:16Z,langgraph-acp,0.1.0,,Apache-2.0,217221,Use ACP-compatible agents as first-class LangGraph nodes.
+2026-09-24T21:33:29Z,devflow-tools,0.1.0,Alex,,19349,"Un couteau suisse pour créer des CLI stylisées, du réseau TCP et intégrer l'IA."
+2026-09-24T21:36:58Z,kijito-tools,0.2.2,Arcada Labs <jason@arcadalabs.com>,Apache-2.0,1390170,"Installer for kijito-tools: context tracking, session catch-up, and self-clear scripts plus the Kijito skills, deployed into ~/.claude."
+2026-09-24T21:39:28Z,lsdetect,0.1.0,Patrick Zwerschke,MIT OR Apache-2.0,12805290,"Line segment detector (LSD) in pure Rust, with Python bindings"
+2026-09-24T21:44:40Z,snake-eyes-analyzer,0.1.0,,Apache-2.0,649779,Python side-effect analyzer backend for Gaze (JSON-RPC 2.0 external analyzer protocol)
+2026-09-24T21:45:14Z,chatwalaau-computer-use,0.1.0,Jingun Jung,Apache-2.0,1106781,ChatWalaau Computer Use desktop provider: a native stdio MCP server (chatwalaau.computer-use/1)
+2026-09-24T22:06:20Z,pykmall,1.1.1,Val Schmidt; Lynette Davis; Eric Younkin,BSD-2-Clause,110077,Library and apps for reading Kongsberg sonar KMALL data files.
+2026-09-24T22:08:41Z,ukvocab,0.3.0,Jake Lawrence,CC-BY-NC-SA-4.0,1288546,"The published Ukrainian vocabulary data from jakelawrence.xyz/research/ukrainian-frequency, offline: the top-12,000 lemma frequency list, the validated PULS CEFR overlay, the Borodin A1 and A2 lexica…"
+2026-09-24T22:10:18Z,openml-audit,1.0.0,OpenML Audit Team,MIT,91001,"Open-source ML audit engine for bias, drift, reproducibility, explainability, and regulatory reporting"
+2026-09-24T22:13:19Z,lineworks-ainote-mcp,0.1.0,Iwao Higashimoto,MIT,23348,"Unofficial read-only MCP server for LINE WORKS AiNote (AI meeting notes): list, search, and read summaries and transcripts from Claude."
+2026-09-24T22:17:28Z,irpf-exterior,0.1.0,Gustavo Rizzo S M de Albuquerque,MIT,82863,Núcleo de domínio da apuração de IRPF sobre investimentos no exterior (Lei 14.754/2023).
+2026-09-24T22:17:49Z,kodji-terminal,0.1.0,cmguinan <cmguinan@yahoo.fr>,MIT,279295,"Lightweight market terminal for the BRVM (Bourse Régionale des Valeurs Mobilières, WAEMU)."

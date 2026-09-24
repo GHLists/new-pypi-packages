@@ -1,43 +1,43 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-09-24T20:20:06.134693Z",
-    "path": "data/new-packages-2026-09-24T21-19-20-705332Z.csv",
-    "to": "2026-09-24T21:19:20.705332Z"
+    "count": 18,
+    "from": "2026-09-24T21:19:20.705332Z",
+    "path": "data/new-packages-2026-09-24T22-19-02-122672Z.csv",
+    "to": "2026-09-24T22:19:02.122672Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-24T19:54:46Z",
       "package": "dcc-mcp-cli",
       "since": "2026-09-24T19:20:01.363867Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-24T20:39:46Z",
       "package": "peterdemartini-mtgdata-p01",
       "since": "2026-09-24T20:20:06.134693Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-24T18:36:10Z",
       "package": "rag-aio-cache",
       "since": "2026-09-24T18:20:01.705944Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-24T18:36:11Z",
       "package": "rag-aio-context",
       "since": "2026-09-24T18:20:01.705944Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-24T18:36:13Z",
       "package": "rag-aio-core",
       "since": "2026-09-24T18:20:01.705944Z"
     }
   ],
-  "serial": 41428364,
+  "serial": 41429986,
   "source_truncated": false,
-  "window": "2026-09-24T21:19:20.705332Z"
+  "window": "2026-09-24T22:19:02.122672Z"
 }
