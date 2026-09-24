@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T20:39:46Z,peterdemartini-mtgdata-p01,2026.9.24,,MIT,102169462,"Encrypted MTGJSON card-data snapshot, with the code to verify and unpack it, for the mtg-skills Cowork bundle"
+2026-09-24T22:19:48Z,conduit-debugger,0.1.0,Alyhnte,MIT,322694,"MCP debugger for radare2, x64dbg, cdb, and Frida."
+2026-09-24T22:26:04Z,physmap,0.2.1,Vishnu Vettrivel,MIT,619009,"Physics-aware credibility checks for AI surrogates in multiphysics simulation: closure validity, surrogate observability, and causal materiality."
+2026-09-24T22:28:49Z,zapis,1.0.0,ShadowStrike <r@strategos.au>,MIT,6084,CTF writeup templating and export tool. by ShadowStrike.
+2026-09-24T22:29:35Z,trofej,1.0.0,ShadowStrike <r@strategos.au>,MIT,6097,Namespace secured for the Megdan CTF Line. by ShadowStrike.
+2026-09-24T22:30:22Z,spisok,1.0.0,ShadowStrike <r@strategos.au>,MIT,6096,Namespace secured for the Megdan CTF Line. by ShadowStrike.
+2026-09-24T22:31:05Z,spis,1.0.0,ShadowStrike <r@strategos.au>,MIT,6070,Namespace secured for the Megdan CTF Line. by ShadowStrike.
+2026-09-24T22:33:27Z,mcp-eval-gate,0.3.0,Umer Karachiwala,MIT,25357,"CI regression gate for MCP servers: run a golden set of tool calls, diff against a baseline, fail the build on regression"
+2026-09-24T22:33:46Z,SocioVerse2,0.2.0,The SocioVerse2 Authors,Apache-2.0,108755,"SocioVerse2: a longitudinal, LLM-native social-simulation runtime with interventions, counterfactual branches and panel data."
+2026-09-24T22:34:01Z,wagtail-image-directories,0.1.0,Vladimir Tarasov,,58973,Directory-based storage (year/slug) and visual Image Navigator for Wagtail CMS.
+2026-09-24T22:38:00Z,runboard,0.2.0,Mohammad Zbeeb <mhmdzbyb829@gmail.com>,MIT,115028,"Self-hosted, W&B-style live training dashboards for any cluster or VM, viewable in your browser without SSH."
+2026-09-24T22:39:12Z,libre-devops-helpers,0.4.1,Craig Thacker,MIT,699006,"Libre DevOps Helpers: a fast, read-only CLI and importable helpers for Entra ID, Defender XDR, Intune, Azure, Graph, PIM, Logic Apps and ServiceNow, also shipped as a container image."
+2026-09-24T22:42:05Z,fetta-langchain,0.1.0,Sergei,MIT,9342,LangChain document loader that uses fetta - tool that fetches web pages for assistants
+2026-09-24T22:42:42Z,rwpytools,0.1.0,Robot Wealth <support@robotwealth.com>,MIT,183063,Official Python client for the Robot Wealth research data API. Serves history from cached bulk exports and tops it up in real time from the live API.
+2026-09-24T22:43:54Z,pygeog510,0.1.0,Lloyd Weber <lweber89@gmail.com>,MIT License,14694,Python package to demonstrate concepts taught in Geog510.
+2026-09-24T22:46:25Z,jevimage,0.1.1,the jevimage authors,MIT,280692,"A probability-first image classifier you can self-host: one encode, many typed questions, calibrated answers."
+2026-09-24T22:47:45Z,azure-ai-finetuningsessions,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3261,This package will be released in the near future. Stay tuned!
+2026-09-24T22:51:04Z,cerbsim-ngapp-style,0.1,,,17201,"CerbSIM design system (themes, tokens, component classes) for ngapp apps"
+2026-09-24T23:05:57Z,vercel-runtime-python,100.99.99,lapin,,3690,Python utility package
+2026-09-24T23:11:11Z,damira,0.0.1,Terrence Battlehunt <terrence@damiraai.com>,LicenseRef-Proprietary,4406,Damira — network engineering agent for your terminal (placeholder release)
+2026-09-24T23:11:12Z,damira-cli,0.0.1,Terrence Battlehunt <terrence@damiraai.com>,LicenseRef-Proprietary,2312,Reserved name. The Damira CLI is published as 'damira'.
+2026-09-24T23:11:13Z,damira-mcp,0.0.1,Terrence Battlehunt <terrence@damiraai.com>,MIT,2319,Damira MCP server for network engineering tools (placeholder release)
+2026-09-24T23:11:25Z,spohnbook,0.0.1,Corey Spohn <corey.a.spohn@nasa.gov>,"MIT License Copyright (c) 2026 Corey Spohn Permission is hereby granted, free of charge, to any per…",4197860,"The map, shared conventions and assembled examples of a suite of JAX libraries for exoplanet direct imaging"
+2026-09-24T23:16:10Z,house-party-protocol,2.6.5,Rushar Labs <325975192+rushar-labs@users.noreply.github.com>,MIT,266067,A local-first reliability harness for coding agents.
+2026-09-24T23:16:27Z,acs-toolbox,0.1.0,Alberto de Campos e Silva,Apache-2.0,47322,"Utilitários de uso geral: PostgreSQL, Selenium/Chrome, downloads, barra de progresso e segredos."
+2026-09-24T23:18:59Z,mathema,0.6.0,Tetrion Ltd <contact@tetrion.co>,BUSL-1.1,2140294,A Python verification engine for Claim-Driven Development: state explicit mathematical claims about code and adjudicate them against symbolic and empirical evidence.
