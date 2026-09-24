@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-09-23T23:20:59Z,cleatapi,0.1.0,Hyppe Tech LLC,MIT,46019,Python client for the Cleat API: read SMS/2FA codes from ID-verified US mobile numbers.
+2026-09-23T23:23:09Z,windy-drops-spec,0.1.0,Windy Drops contributors,MIT,15054,Python bindings (Pydantic v2) for the windy.drop.v1 manifest format. Generated from schemas/windy.drop.v1.json — WD-2 of DNA_STRAND_MASTER_PLAN.md.
+2026-09-23T23:24:02Z,windy-drops,0.1.0,Windy Drops contributors,MIT,28964,Python SDK + CLI for publishing drops to the Windy Drops registry. WD-4..WD-10 of DNA_STRAND_MASTER_PLAN.md.
+2026-09-23T23:24:45Z,sage-messaging,0.1.0,Le Sage Code <angezanou00@gmail.com>,MIT,28835,SDK officiel de l'API Sage Messaging (WhatsApp & SMS).
+2026-09-23T23:24:56Z,company-investigator-mcp,1.0.0,Calebe Prates,MIT,119114,"Company Investigator MCP - MCP server for public company intelligence, corporate relationships and evidence-based investigation"
+2026-09-23T23:39:32Z,centralized-log-viewer,3.0.0,Centralized Log Viewer Maintainers,,1363317,Centralized Log Viewer Textual TUI
+2026-09-23T23:40:59Z,chrome-time-clock,0.1.0,Maurice Frank <maurice.frank@posteo.de>,MIT,33032,"Infer workday start and end from Chrome, Chromium or Brave history, then plot or merge the hours."
+2026-09-23T23:41:46Z,ornotto,0.1.1,FontLab Ltd.,Apache-2.0,19478095,Local typed decisions: one Python API over the dohnuts and pcdServer inference engines
+2026-09-23T23:42:14Z,view-as-ai,1.0.0,Serbyte Development,GPL-3.0-or-later,89145,"Preview website content as AI web browsers and LLM agents see it, calibrated against ChatGPT web browsing"
+2026-09-23T23:42:50Z,ineedtosendafax,1.0.0,INeedToSendAFax,"MIT License Copyright (c) 2026 INeedToSendAFax Permission is hereby granted, free of charge, to any…",26544,Official Python client for the INeedToSendAFax API
+2026-09-23T23:45:41Z,fastbase91,0.1.0,,,1375814,
+2026-09-23T23:46:51Z,carro,0.1.0,,,5526,"Um carro, literalmente"
+2026-09-23T23:48:28Z,clayspace,0.1.1,ClaySpace contributors,MIT,45020,Standalone local spatial modeling toolkit for building portable Cells and worlds on your own computer.
+2026-09-23T23:48:39Z,nudge-runtime,1.0.0,,MIT,21671,"Runtime for the Nudge language — typed LLM calls, traces, replay, budgets"
+2026-09-23T23:50:12Z,pyphysica,0.2.0,Rohan Hariharan,MIT,37536,"A symbolic + numeric physics DSL: decorator-based forces, time-varying vectors, and sympy-derived equations of motion."
+2026-09-23T23:53:42Z,copilotkit-intelligence-runtime,0.1.0,,MIT,190677,Native ASGI runtime for CopilotKit Intelligence
+2026-09-23T23:55:39Z,copilotkit-intelligence-langgraph,0.1.0,,MIT,25124,Automatic learned skill delivery for native LangGraph agents
+2026-09-23T23:56:58Z,copilotkit-intelligence-adk,0.1.0,,MIT,24083,Automatic learned skill delivery for native ADK agents
+2026-09-24T00:01:54Z,propathworks,0.0.1,ProPathWorks,,2941,Official ProPathWorks API client — field service management for home-service and commercial businesses. Placeholder release.
+2026-09-24T00:08:41Z,cuusd,0.1.0,Jason Jordan,MIT,2518,A minimal Python package
+2026-09-24T00:14:37Z,openpaso,1.2.0,openPASO Contributors,MIT,5958527,"openPASO — open Platform for Agentic Simulation and Optimization. An MCP server that lets an AI model operate nine finite-element and multiphysics codes: simulation, cross-code coupling, verification…"
