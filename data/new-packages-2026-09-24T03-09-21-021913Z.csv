@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T01:43:51Z,jitterbug-inference,2.1.1,Esteban Carisimo,MIT,84448,Framework for jitter-based network congestion inference
+2026-09-24T01:46:52Z,prosocks,1.0.5,,,7196,SOCKS5 Proxy Agent
+2026-09-24T01:48:37Z,undolith,0.3.0,Nulfied,MIT,190556,"Simulate, commit and undo AI agent tool calls, with a signed, hash-chained action ledger."
+2026-09-24T01:50:17Z,model-routers,0.1.0,Model Router contributors,MIT,62776,Provider-independent routing of user requests to model capability tiers
+2026-09-24T01:50:23Z,omniplc,0.31.4,云落,MIT,715878,omniplc —— 多品牌多协议 PLC 统一通信库(Modbus / 三菱 MC 3E/4E/1E 与串口 3C/4C / MX Component / 欧姆龙 FINS / NJ/NX CIP / 基恩士 KV Host Link / KV MC 兼容 / 汇川 H3U/H5U / 松下 MC 兼容与 MEWTOCOL / 丰田 TOYOPUC / AB EtherNet/IP / 倍福…
+2026-09-24T01:50:57Z,lakun,0.1.1,AI Discussion Room,Apache-2.0,91976,Typed decisions from text or one image with LaKun
+2026-09-24T01:51:23Z,reflexmesh,0.1.0,Felipe Santibanez-Leal,Apache-2.0,5915216,Typed event-driven software control and learned metacontrol
+2026-09-24T01:51:32Z,keystrokeAuth,0.1.0,Clarence <clarenceeuphoric@gmail.com>,MIT,7090,Keystroke dynamics authentication — dwell time and flight time analysis for Python.
+2026-09-24T01:53:49Z,Library-book-managementSystem-devika,0.0.2,Devika,MIT,6136,A library book management system built with Python
+2026-09-24T01:58:49Z,overwing,0.1.0,Overwing <support@overwing.ai>,MIT,205108,Overwing SDK: guardrails for LLM output. Typed client for the Overwing API plus OpenAI Agents SDK guardrails and LangChain runnables/callbacks that check every message before it ships.
+2026-09-24T02:01:07Z,ocel,0.0.0.dev0,,Apache-2.0,139611,Declare the infrastructure a Python app needs from the app itself
+2026-09-24T02:03:31Z,graphs-yfekadu,0.0.1,Yasemin Fekadu,,950251,A Python library that implements Dijkstra's shortest path algorithm.
+2026-09-24T02:16:01Z,logleaf,1.0.0,Allen-zjx,MIT,161989,Bounded background logging with configurable outputs and loss accounting
+2026-09-24T02:20:01Z,rundb-ai,0.1.1,Ashish Sharda,Apache-2.0,67606,"Local-first, single-file database for AI agents: runs, retries, traces, memory. SDK + CLI + MCP server."
+2026-09-24T02:21:15Z,prefixnets,0.1.0,,MIT,2257,Hello World from PrefixNets!
+2026-09-24T02:28:22Z,zikaron,0.1.0,,MIT,1780338,Memory and searchable project knowledge for coding agents
+2026-09-24T02:34:43Z,textflowkit,0.1.4,,Apache-2.0,23596713,"Cross-platform media transcription toolkit: URL or file in, timestamped transcripts and subtitle files out."
+2026-09-24T02:39:06Z,laya-thalamus,0.1.0,Laya Thalamus Contributors,Apache-2.0,133844,Thalamus: Laya-powered System-1 decision router for AI Agents
+2026-09-24T02:46:58Z,ulpwise,0.1.0,区梓灏 (Nicholas022400701),MIT OR Apache-2.0,1234517,"Numerical conformance testing for ML code: float edge values, exact rounding oracles, knife-edge finders and a pytest plugin"
+2026-09-24T02:49:52Z,pydantic-ai-cosmosdb-memory,0.1.0,Kamal <skamalj@gmail.com>,,8063,Azure Cosmos DB MemoryStore for the PydanticAI harness Memory capability — CAS versions via ETags and idempotent operation receipts
+2026-09-24T02:49:56Z,pydantic-ai-firestore-memory,0.1.0,Kamal <skamalj@gmail.com>,,7414,Google Firestore MemoryStore for the PydanticAI harness Memory capability — CAS versions via transactions and idempotent operation receipts
+2026-09-24T02:50:01Z,pydantic-ai-postgres-memory,0.1.0,Kamal <skamalj@gmail.com>,,7470,"PostgreSQL MemoryStore for the PydanticAI harness Memory capability — the upstream transactional store, built from a connection URL with an owned asyncpg pool"
+2026-09-24T02:55:41Z,christie-mseries,1.0.0,imsatasia <imsatasia@yahoo.com>,MIT,70117,Python client for Christie M Series projectors' serial API over TCP
+2026-09-24T02:56:54Z,nonebot-plugin-scheduled-message,0.1.0,TonyLiangP2010405,MIT,15045,超级用户私聊管理：向指定群聊定时发送自定义消息
+2026-09-24T03:00:21Z,cinematlas,0.1.0,Fabian Valle <fabian.valle-simmons@mongodb.com>,MIT,931847,Multimodal video search engine: PySceneDetect + Whisper + Voyage AI embeddings + MongoDB Atlas Vector Search (incl. autoEmbed).
+2026-09-24T03:01:52Z,vvanduy-math-2026,0.1.0,vvanduy,,3778,Thu vien phep tinh co ban va hinh chu nhat
+2026-09-24T03:03:29Z,flakydetect,0.1.0,Zachary Cherney <zacharyrcherney@gmail.com>,MIT,109436,A CLI tool to detect flaky tests by running your test suite multiple times.
+2026-09-24T03:06:57Z,holo-ui-mcp,0.0.1,HoloNova,MIT,553796,Agent-First Model Context Protocol (MCP) Server for Holo UI Vault
+2026-09-24T03:07:53Z,viame,0.23.2,,BSD-3-Clause,76306221,VIAME: Video and Image Analytics for Marine Environments
+2026-09-24T03:08:08Z,osimager,1.9.0,Steve Shoecraft,MIT,263119,Multi-platform OS image builder using HashiCorp Packer
