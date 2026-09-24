@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T14:27:45Z,plexgraph,0.2.0,Ridwan Amure (Instabaines),MIT,315469,"Interactive graph visualization for multilayer, temporal and hypergraph networks, in notebooks and the browser."
+2026-09-24T14:27:59Z,privllm,0.1.0,"""Shanghai Spade-Tech Information Technology Co., Ltd."" <zhang@spade-tec.com>",MIT,101550,A reversible redaction layer for any LLM connection
+2026-09-24T14:30:32Z,clinical-calc-mcp,0.1.0,Clinical Calc MCP Contributors,MIT,1076180,"Validated, local-only clinical calculation tools over MCP, with explicit units and safety notes."
+2026-09-24T14:31:55Z,ghost-toru,1.0.2,technicalsuraj2,MIT,17841,Ghost Toru — personal terminal AI powered by FreeLLMAPI gateway
+2026-09-24T14:32:09Z,odoo-addon-membership-account-invoice-start-end-dates,18.0.1.0.0.2,"Akretion, Odoo Community Association (OCA)",AGPL-3,26546,Membership Account Start End Dates
+2026-09-24T14:33:04Z,keos-microsoft365-mcp,0.1.0,Vijayaraghavan C P <cpvijayaraghavan@kaartech.com>,MIT,37324,"Stateless Microsoft 365 (Graph) MCP server: SharePoint, OneDrive, Mail, Calendar, Users, Groups, plus Office/PDF text extraction."
+2026-09-24T14:33:55Z,comate-relay,0.1.0,Andy <andy.dev@aliyun.com>,,183071,"Relay for remote sandbox agents: accounts, tokens and forwarding over comate_rpc"
+2026-09-24T14:35:51Z,blurkey,0.1.0,blurkey,MIT,104490,"Free, offline CLI that redacts API keys, tokens, emails and IPs in screenshots and GIFs"
+2026-09-24T14:37:02Z,swisstip-quickstart,0.3.1,Alexander Bobrovsky,Apache-2.0,27798,"Swiss TIP quickstart: fetch a published knowledge pack, verify it against its readiness record and run the first tests"
+2026-09-24T14:38:41Z,atlogger,0.0.2,Guilherme Toledo <toledo@guilherme.zip>,CC0-1.0,12085,"Python decorator to log artifacts with mlflow, wandb"
+2026-09-24T14:39:26Z,openobserve-python-sdk,0.2.0,OpenObserve <info@openobserve.ai>,MIT,299122,"Python SDK for OpenObserve telemetry, prompts, and evaluations"
+2026-09-24T14:40:09Z,cxone-async-api,1.1.8rc79,,,65635,CheckmarxOne Async API
+2026-09-24T14:43:33Z,vespper,0.1.1,Vespper <dudu@vespper.com>,"MIT License Copyright (c) 2026 Vespper Permission is hereby granted, free of charge, to any person…",92976,Official Python SDK for Vespper document sessions and MCP tools.
+2026-09-24T14:45:09Z,jev-why,0.1.0,,"MIT License Copyright (c) 2026 jev-why contributors Permission is hereby granted, free of charge, t…",708218,Causal attribution and calibration for TypeSafe Jev decisions
+2026-09-24T14:52:56Z,aeon-agent,0.0.1,Aeon Inc,MIT,1991,Official Aeon brand name - the open-source autonomous AI agent framework. See https://www.aeon.fun
+2026-09-24T14:52:58Z,aeonfun,0.0.1,Aeon Inc,MIT,1959,Official Aeon brand name - the open-source autonomous AI agent framework. See https://www.aeon.fun
+2026-09-24T14:52:59Z,aeon-framework,0.0.1,Aeon Inc,MIT,2032,Official Aeon brand name - the open-source autonomous AI agent framework. See https://www.aeon.fun
+2026-09-24T14:53:36Z,smoek,2.0.1,,BSD-3-Clause,114044,A lightweight optimization modeling library for fast model transformation
+2026-09-24T14:56:15Z,livedocs,0.1.1,,MIT,100306,"Notes that know when the code moved on: hash-anchored live docs with a git commit gate, over Fiberplane drift."
+2026-09-24T14:57:08Z,oss-research-web,0.3.0a1,,,57582,Independent SearXNG search and bounded page extraction for research agents
+2026-09-24T14:58:23Z,paralox3d,0.1.0,N0one123,MIT,2328273,A performance-first Python 3D engine with a native C++ core.
+2026-09-24T14:59:56Z,gdexws,0.1.0,GDEX Team,MIT,22891,GDEX web service tools for data processing and management
+2026-09-24T14:59:58Z,asrielnetworks-sdk,0.1.1,AsrielNetworks,Apache-2.0,199961,"AsrielNetworks AI XDR SDK - monitor, replay, detect and benchmark any LLM-powered agent."
+2026-09-24T15:01:42Z,micromailer,0.1.0,BazilSuhail,MIT,14271,"Ultra-fast, modular, zero-dependency async email engine for Python, FastAPI, and Django."
+2026-09-24T15:07:42Z,parloa,0.0.61,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",35324097,
+2026-09-24T15:07:55Z,mailsocket,0.1.0,mailsocket,MIT,17584,Official Python client for the mailsocket REST API — one line to wait for an OTP.
+2026-09-24T15:08:03Z,mailsocket-mcp,0.1.0,mailsocket,MIT,17011,MCP server exposing mailsocket inboxes + wait-for-OTP to AI agents.
+2026-09-24T15:09:21Z,dominhhieu-toanhoc,0.1.0,MINH HIEU,,2190,Thư viện toán học cơ bản
+2026-09-24T15:09:39Z,terp-cap-mfa,0.27.0,,Apache-2.0,38593,"Terp MFA capability — a TOTP second factor with recovery codes, sealed at rest and recorded in the token that results."
+2026-09-24T15:10:52Z,smorphila,0.1.0,"Sergio Castellano <sergio.castellano@unito.it>, Olivier Friard <olivier.friard@unito.it>",GPL-3.0-only,139687,Software for MORPHometric Image Landmark Acquisition
+2026-09-24T15:12:28Z,cogext-primitive,0.1.0,Yamin / THRYVIX <hello@cogextai.com>,MIT,40098,"Local, offline commitment extraction and tracking for AI agent output. No API key, no cloud, no signup."
+2026-09-24T15:15:14Z,rotadel,0.1.0,Lauriane Jacot-Descombes,MIT,90109,Rotamer-dependent Amino acid Descriptors Library
+2026-09-24T15:17:23Z,aerial-danger,0.1.0,Denys Dovhan,MIT,30864,Match Ukrainian aerial danger messages
