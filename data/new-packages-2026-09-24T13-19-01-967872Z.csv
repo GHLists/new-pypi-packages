@@ -1,0 +1,191 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T08:21:37Z,pehloo-shell,0.1.0,Ribhu,MIT,34165,"Natural language in, shell command out — review it, then press y to run. A Pehloo tool."
+2026-09-24T08:22:08Z,rule-auto-label,0.1.0,Pranay Mahendrakar,MIT,71075,"Generate labels for text or tabular data from rules, then extend them with a lightweight ML model and an optional LLM hook"
+2026-09-24T08:23:05Z,timeseries-anomaly,0.1.0,Pranay Mahendrakar,MIT,71022,"Find anomalies in any time series or IoT signal with one call, no model training required"
+2026-09-24T08:24:04Z,wood-block-puzzle,1.0.0,,,10845,A simple Wood Block Puzzle game made with Python and Pygame
+2026-09-24T08:24:49Z,monadomics,0.2.3,MonadOmics,Apache-2.0,146237,Local R-backed bioinformatics workflows for WorkBuddy
+2026-09-24T08:25:25Z,spoor-sdk,0.0.1,,,50750,Send agent and LLM traces to Spoor
+2026-09-24T08:27:42Z,llm-api-adapter-zai,0.1.0,Sergey Inozemtsev,"MIT License Copyright (c) 2026 Sergey Inozemtsev Permission is hereby granted, free of charge, to a…",40322,Official Z.ai GLM API package for llm-api-adapter
+2026-09-24T08:27:54Z,porter-workflow,0.2.5,RoL1n_SrP,MIT,579219,"Automated video localization, multi-engine ASR, subtitle translation, and dual-version FFmpeg hardsub pipeline for AI agents, CLI, and MCP hosts."
+2026-09-24T08:30:57Z,JEYAPI,0.1.0,Developer,,6200,Auto-rotating multi-key and multi-model failover client for Google Gemini
+2026-09-24T08:31:41Z,fluid-workflow-engine-sdk,0.4.1,"""Coredge.io"" <ashok@coredge.io>",Apache-2.0,95928,"Python SDK for the Coredgeio Fluid workflow engine — worker registration, step execution, and workflow management"
+2026-09-24T08:31:57Z,ddmo,0.0.1,"""Ahmed H. Bayoumy"" <ahmed.bayoumy@mail.mcgill.ca>",GPL-3.0-or-later,27556,DDMO: Data-Driven Models for Optimization
+2026-09-24T08:32:01Z,corobots-sdk,2.0.0,"""Coredge.io"" <ashok@coredge.io>",Apache-2.0,120676,"Python SDK for CoRobots — worker registration, step execution, and workflow management"
+2026-09-24T08:32:58Z,qlib-joshuaxql,0.1.0,Qlib contributors,MIT,172266,"Local Qlib-format data, expressions, historical filters and daily backtesting"
+2026-09-24T08:34:38Z,krino,0.0.0a999,Oaklight <oaklight@gmx.com>,MIT,3420,"Krino (κρίνω) — probing, analysis, and replication toolkit for JEV-class decision models"
+2026-09-24T08:36:29Z,peslite,0.1.0,,AGPL-3.0,265778,"Power-electronics simulation with an internal port-Hamiltonian solver kernel (peslite.phs): connected subsystem models, energy accounting, fixed/adaptive/multirate integration and converter control."
+2026-09-24T08:38:15Z,flash-resume,0.2.2,,,195492,"Fast, ATS-focused resume tailoring and PDF generation."
+2026-09-24T08:39:09Z,octop-harness,1.0.0,octop contributors,MIT,2065678,Production-grade Harness Agent built on top of LangChain Deep Agents.
+2026-09-24T08:39:14Z,tenbis-credit,0.2.0,Netanel Barel,MIT,39272,"Move your unused 10bis budget into 10bis Credit automatically, every work day."
+2026-09-24T08:39:34Z,superindex,0.1.2,lin han <mn2895566@gmail.com>,MIT,1227810,"Vectorless, page-cited question answering over long financial reports (Azure DI Markdown → tree index → LLM agent)"
+2026-09-24T08:39:45Z,syntycode,2.0.1,SyntyCode Engine Foundation <admin@syntycode.org>,,72436,A universal Raw Tree-Sitter Architect Engine for autonomous AI and polyglot dependency mapping.
+2026-09-24T08:42:42Z,tcaf-model,1.0.0,,Apache-2.0,18000470,"True Cost Accounting of Food (TCAF) build of the Transition Compass model: food, diet, land use and true cost modules"
+2026-09-24T08:43:04Z,ai4cps,0.1.42,Nemanja Hranisavljevic,MIT,105195,A Python framework for building apps for AI for CPS.Developed by AI4CPS.
+2026-09-24T08:44:05Z,apprc-gui,0.26.0,,MIT,13079,Toga configuration view for AppRC applications.
+2026-09-24T08:44:21Z,odoo-addon-business-requirement-sale,18.0.1.0.0.1,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,39386,Convert Business Requirement into Sales Orders
+2026-09-24T08:44:28Z,typed-evals,0.1.0,Aaryan Verma,MIT,148233,"Evaluation for LLM and Agents using System One Models, with opt-in isotonic calibration."
+2026-09-24T08:46:16Z,octop-gateway,1.0.0,octop contributors,MIT,768503,Multi-platform IM channel bridge with unified message abstraction for AI agents and bots
+2026-09-24T08:47:32Z,fuzzy-jev,0.3.1,,MIT,11784219,"A client for TypeSafe's Jev on OpenRouter's decisions endpoint: typed Choice, Score and Noul answers about a state, fuzzy rules over them, and drawings of those rules."
+2026-09-24T08:47:55Z,httpcrabber,1.4.0,web3daemon,GPL-3.0-or-later,181020,Network-level HTTP/HTTPS/WebSocket interceptor for reverse-engineering and debugging web APIs — records whole sessions to disk.
+2026-09-24T08:50:42Z,swisstip-calendar-connector,0.3.0,Alexander Bobrovsky,Apache-2.0,18774,"Swiss TIP calendar connector: dataset bundles of dated events by postal code, served to the MCP server over HTTP"
+2026-09-24T08:50:52Z,qriskit,0.2.0,The qriskit contributors,MIT,78498,"Parse, validate, build and convert QRIS (Indonesian QR payment) payloads. Zero dependencies."
+2026-09-24T08:51:07Z,lanp2p,0.1.0,Cajetan <cajetandsouza02@gmail.com>,MIT,45218,A terminal-based peer-to-peer file transfer tool for local networks using TCP and UDP
+2026-09-24T08:51:46Z,ArisuFxPy,1.25.3,,,26116965,A Unity extraction and patching package
+2026-09-24T08:52:21Z,pyvideotools,0.2.0,Noam Hache,MIT,5934,Video metric and encoding tools
+2026-09-24T08:56:51Z,napari-align-annotator,0.1.0,Sacha Psalmon <sacha.psalmon@unibe.ch>,BSD-3-Clause,166194,An annotator plugin to use with align_pipeline
+2026-09-24T08:58:24Z,implicant-engine-client,0.1.0,The Implicant team,Proprietary - all rights reserved,26723,"IMPLICANT FHE engine contract, deployment profile, wire codec and engine registry (client side)"
+2026-09-24T08:58:51Z,windows-apple-remote,0.1.1,Arya Kavian <aryakvn@gmail.com>,MIT,31601,Control your PC's media with the iOS Apple TV Remote app (powered by pyatv).
+2026-09-24T09:01:03Z,exots,0.2.0,sunteya <sunteya@gmail.com>,ISC,9747,A Python server for exposing functions via the Exots IPC bridge.
+2026-09-24T09:02:27Z,mass-pii-finder,2.2.1,kanishk-dadhich,MIT,98223,"Recon tool that mines JavaScript for secrets, API keys, and PII, then validates and triages the findings."
+2026-09-24T09:03:16Z,tradedata-client,0.1.1,Trade Data Pte. Ltd.,,13846,TradeData Api | Import Export Data Source — Official Developer Client for Global Customs Records
+2026-09-24T09:04:03Z,StaticRoute,0.1.1,Omena0 <omena0mc@gmail.com>,PolyForm-Noncommercial-1.0.0,19877,User-configured route creation to interact with json5 data stores.
+2026-09-24T09:04:44Z,servo-us-tcp-client,1.0.0,"""Pablo M. Tarrio Guirao"" <pablo.tarrio@uie.edu>",MIT,15020,Python TCP client library for servo and ultrasonic sensor on Raspberry Pi
+2026-09-24T09:07:54Z,glucotrace,0.2.1,GlucoTrace contributors,MIT,143904,"A small, readable Transformer encoder for research with continuous glucose monitor time series."
+2026-09-24T09:08:21Z,flapjax-model-gen,0.1.4,Ben Preston <b.preston23@imperial.ac.uk>,MIT,136803,Match strip-wise aerodynamic corrections (cl0/cla/cm0/cma) to a NASTRAN-ready twist distribution using flapjax.
+2026-09-24T09:10:43Z,memory-as-history,1.3.1,memory-as-history contributors,MIT,1090613,"Agent memory as history: traceable claims, evidence, revisions, scoped narratives and accountable forgetting. SQLite-backed MCP server inspired by history and memory studies."
+2026-09-24T09:11:29Z,requirements-agent,0.0.12,CLI-Agents,MIT,193852,Self-contained Spec Circuit Requirements Agent (CLI + Textual TUI)
+2026-09-24T09:19:05Z,aegis-sdlc,0.1.2,Nishant Tamilselvan,MIT,108136,"CLI for AEGIS: scaffold, validate and track requirements, architecture artifacts, ADRs and implementation work packages."
+2026-09-24T09:19:28Z,verdictml,0.1.0,Verdict contributors,Apache-2.0,157890,"Verdict: small, fast, calibrated decision models. Replace LLM calls for routing, guardrails and policy checks with typed answers in milliseconds."
+2026-09-24T09:20:15Z,adaptive-graph-engine,0.1.0,Yass Chaachaa,MIT,6445,"A lightweight Python graph engine for nodes, edges, relationships and graph traversal."
+2026-09-24T09:20:32Z,metabintools,0.2.0,Jim Downie,MIT,72139,A toolkit for collating and manipulating metagenome bins.
+2026-09-24T09:23:03Z,topview-3d-cli,0.1.2,,Apache-2.0 AND CC-BY-4.0,5884239,Build and render 3D director scenes locally with the topview-3d-cli command.
+2026-09-24T09:23:26Z,clockify-timesheet,0.5.1,Giorgio Borelli,MIT,61104,Export time entries from Clockify to an Excel file (.xlsx) with a full detail sheet and aggregated summary sheets
+2026-09-24T09:24:16Z,haps-runtime-remotessh,0.4.1,"Logica Team, Universite de Rennes / IRISA",MIT,22607,Give a HAPS RuntimeJob the tools to talk to an HPC centre over SSH
+2026-09-24T09:24:51Z,oddshawk-sdk,0.1.0,OddsHawk,Proprietary,18432,Python SDK for the OddsHawk REST API (odds catalog plus matching helpers)
+2026-09-24T09:24:52Z,epay,0.1.1,,MIT,72660,Official ePay Business API client for Python.
+2026-09-24T09:28:54Z,nodeview-slurm,0.1.0,Daniel Rossi <daniel.rossi@unimore.it>,,82477,"GPU status of a Slurm cluster, from the user's point of view."
+2026-09-24T09:30:11Z,octavo-kit,0.1.0,Takahiro Yoshida,"MIT License Copyright (c) 2026 Takahiro Yoshida Permission is hereby granted, free of charge, to an…",586766,"Build papers, handouts, slides and Word files from one Markdown source, with unified citations and no hand-typed results."
+2026-09-24T09:32:33Z,recordation,1.0.2,DraxonV1,MIT,39238,A browser extension that records your actions to export them to executable browser automation (Python / Extension)
+2026-09-24T09:32:59Z,fullFold,0.1.0,,Apache-2.0,93356,AlphaFold 3 at full throughput
+2026-09-24T09:34:54Z,pygovernor,0.2.0,,Apache-2.0,44968,"Privacy-first AI infrastructure — PII detection, redaction, agent audit trails, and compliance reports for teams building AI on sensitive data."
+2026-09-24T09:37:12Z,pyrailworks,0.1.1,Irishsmurf,MIT,20148,Python client library for the Public RO Railworks Irish Rail Engineering Works API
+2026-09-24T09:37:35Z,flyball,0.0.0,,,499,Reserved for flyball (lab-rig control); no release yet
+2026-09-24T09:37:36Z,flyball-sim,0.0.0,,,509,Reserved for flyball (lab-rig control); no release yet
+2026-09-24T09:37:38Z,flyball-linux,0.0.0,,,510,Reserved for flyball (lab-rig control); no release yet
+2026-09-24T09:37:39Z,flyball-chips,0.0.0,,,508,Reserved for flyball (lab-rig control); no release yet
+2026-09-24T09:40:24Z,tally-write-mcp,0.1.0,Harsh <singhdevgani@gmail.com>,MIT,71173,"Confirmation-gated, auditable write access to TallyPrime over MCP — draft, confirm, verify, with a full audit log."
+2026-09-24T09:41:42Z,kdev-cli,0.1.4,,MIT,197176,"A Kaggle notebook as your remote dev box: SSH and VS Code in, files that persist across sessions, accounts and machines."
+2026-09-24T09:42:20Z,simple-servicenow-mcp,0.2.0,Kostya Kozachuk <kostya.kozachuk@outlook.com>,"MIT License Copyright (c) 2026 Kostya Kozachuk Permission is hereby granted, free of charge, to any…",196575,"ServiceNow MCP Server — analytical intelligence over ServiceNow instances (audits, schema discovery, catalog UX, instance health)"
+2026-09-24T09:44:21Z,nb-langchain-agentskills,0.4.0,,MIT,49025,"Agent Skills (SKILL.md) management for LangChain: middleware, progressive-disclosure tools, and composable loaders"
+2026-09-24T09:49:14Z,clarrel,0.0.0,,,1001,Name reservation — see https://github.com/avophile/clarrel
+2026-09-24T09:52:17Z,parallel-pandapower-solver,1.1.0,Mike Vogt <mike.vogt@iee.fraunhofer.de>,,256503,CPU / GPU based AC/DC Powerflow solver
+2026-09-24T09:53:05Z,flybrainer,0.1.1,OpenFly contributors,"MIT License Copyright (c) 2026 OpenFly contributors Permission is hereby granted, free of charge, t…",116639,"A reusable, Numba-JIT accelerated fruit-fly connectome (MaleCNS v1.0) extracted from OpenFly"
+2026-09-24T09:53:22Z,spec-probe,0.1.5,taikt,MIT,491981,Verify C/C++ modules implement functional requirements from spec (LangGraph + LLM)
+2026-09-24T09:54:18Z,napari-relax,0.1.0,"Giannis Liaskas, Jules Vanaret","Copyright (c) 2025, Léo Guignard All rights reserved. Redistribution and use in source and binary f…",6844554,A plugin to visualise and manipulate cell lineage trees
+2026-09-24T09:56:21Z,inaVAMOS,0.1.0,Valentin Pelloin <vpelloin@ina.fr>,LicenseRef-Pantagruel-Research-License,49823,"Voice And Music Open Segmenter: speech (voice activity) and music detection in audio and video files, based on SSL models from INA"
+2026-09-24T09:57:50Z,clarrel-app,0.0.0,,,1005,Name reservation
+2026-09-24T09:59:04Z,kodishomk,0.1.0,Kodishomk <your-email@example.com>,,8439,"A lightweight utility package for calculating, filtering, and evaluating expenses against budget limits."
+2026-09-24T10:02:45Z,opensms,0.1.0,OpenSMS,MIT,70851,"Official Python client for OpenSMS, the prepaid SMS API: send messages, OTPs, batches and lookups across Africa."
+2026-09-24T10:07:29Z,lythosbearing,0.1.0,Hasan Deniz Altuntaş <lythosfea@gmail.com>,MIT,251310,"Bearing capacity of shallow foundations: the general bearing capacity equation with the factors of Terzaghi, Meyerhof, Hansen, Vesić, EN 1997-1 and Skempton, eccentric and inclined loading, layered a…"
+2026-09-24T10:07:46Z,feedmyagent,0.1.1,Akash Mahajan <akash@appsecco.com>,MIT,14698,Python client for FeedMyAgent — the technology intelligence feed for AI agents
+2026-09-24T10:08:28Z,langchain-feedmyagent,0.1.0,Akash Mahajan <akash@appsecco.com>,MIT,14581,LangChain tools and toolkit for FeedMyAgent — the technology intelligence feed for AI agents
+2026-09-24T10:08:48Z,llama-index-tools-feedmyagent,0.1.0,makash,MIT,8902,llama-index tools feedmyagent integration
+2026-09-24T10:09:27Z,sphinx-llm-friendly,0.3.0,Scrapy developers <opensource@zyte.com>,MIT,90418,Sphinx extension to make documentation LLM-friendly
+2026-09-24T10:10:58Z,predecimal,0.1.0,,MIT,34477,"Exact arithmetic for pre-decimal British currency (pounds, shillings and pence)"
+2026-09-24T10:12:21Z,biosim_schema,1.0.1,Jas Kalayan <jas.kalayan@stfc.ac.uk>,,103680,Schema for biomolecular simulation metadata created with LinkML
+2026-09-24T10:12:27Z,django-baseshift-brancher,0.3.0,Baseshift,LicenseRef-Proprietary,15140275,Run Django and pytest against a Baseshift clone of an already-migrated PostgreSQL database.
+2026-09-24T10:13:11Z,penzene,0.5.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",133349313,ChemDraw-style 2D chemical structures from Python: the Penzene drawing engine
+2026-09-24T10:14:43Z,bush-maths,0.1.0,,MIT,94299,Exact fixed-point reference maths for Bush Protocol pools. Ported from balancer-maths (MIT).
+2026-09-24T10:18:10Z,mac-ical,0.2.1,Misha Lubich <michaelle.lubich@gmail.com>,MIT,12575,"macOS Calendar.app CLI and MCP server — list calendars, schedule events, invite attendees"
+2026-09-24T10:21:26Z,twig-cli,0.2.0,ml-lubich <ml-lubich@users.noreply.github.com>,,724498,"Fast Git worktree CLI — create, jump, prune. Built for humans and agents."
+2026-09-24T10:24:39Z,optivision-rag,0.1.1,"T. Rithik Krishna, Amgovath Navanitha, Badavath Akhila",MIT,167454,OptiVision RAG: Extreme Token Compression for Vision-Language Models
+2026-09-24T10:26:25Z,repodx,0.3.2,,MIT,39404,"Check your AI-built project for leaked secrets, unsafe Supabase/Firebase config and committed junk before you push."
+2026-09-24T10:26:51Z,korea-intelligence,0.1.1,JKyung Agent Bazaar,,15910,Official Python SDK & AI Agent Tool for Korea High-Value Industrial Intelligence & B2A Data Bazaar (14M+ Records)
+2026-09-24T10:28:44Z,packbin,0.1.9,,MIT,29408,Pack and unpack a caller-owned field list
+2026-09-24T10:29:08Z,commitscope,2.4.1,Andrey Karazhev,MIT,884995,Evidence-driven security review for Git repositories
+2026-09-24T10:32:41Z,pushback,0.1.0,Intikhab Azam,MIT,51738,"How often do you correct your coding agent, and at what kind of work? Measured from your own Claude Code transcripts."
+2026-09-24T10:34:46Z,robottraderslab-dukascopy,0.0.1,,,2438,Placeholder: the RobotTradersLab Dukascopy data provider is distributed from robottraders.io
+2026-09-24T10:43:47Z,pcd-rlcd,0.1.4,"Harsha Gundala, Mahdi Bandegani",,33408,Parallel Constrained Decoding for RLCD - Reinforcement Learning for Calibrated Decisions
+2026-09-24T10:44:13Z,health-data-connect,0.2.0,,MIT,92937,Connect your Fitbit/Google Health data to a local MCP client in one command — no OAuth client id/secret of your own.
+2026-09-24T10:47:27Z,terp-cap-mail,0.27.0,,Apache-2.0,32281,"Terp mail capability — outbound e-mail through one declared relay: TLS required, a fixed sender, bounded messages, delivered by the jobs seam so a send commits with the write that caused it."
+2026-09-24T10:48:10Z,paperextract,0.1.0,"""John C. Travers"" <jtravs@gmail.com>",Apache-2.0,1027849,"Local-first, auditable extraction of scientific papers for durable knowledge corpora"
+2026-09-24T10:49:27Z,augments-adk,0.3.0,Augments Labs <support@augmentslabs.com>,MIT,3303259,"Augments ADK — orchestrate a complex system of agents that performs real-world actions, provider-agnostic across 100+ LLMs"
+2026-09-24T10:50:13Z,arjuna-ocr,1.2.2,Chethan (anandkaman),Apache-2.0,107780,"Arjuna-OCR [Kn&En]: layout-aware Kannada + English document OCR (ONNX Runtime, optional TensorRT)"
+2026-09-24T10:50:36Z,shpe,0.2.0,,Apache-2.0,225895,A lightweight static shape checker for NumPy tensors.
+2026-09-24T10:52:26Z,software-license-estimator,1.0.0,CDRBSoftwares Engineering <contact@cdrbsoftwares.com>,MIT,11702,A Python utility and CLI tool for software licensing Total Cost of Ownership (TCO) estimation and key format validation.
+2026-09-24T10:53:22Z,activeledger,1.3.1,Activeledger,MIT,86481,"Python SDK for Activeledger, with post-quantum identity support"
+2026-09-24T10:56:02Z,tnc-provenance,0.1.1,SolarPluto,MIT,478319,"Trace claims in saved news articles back to source text, with gated historical replay."
+2026-09-24T10:57:37Z,loom-continuity,0.1.0,,,29256,"Runtime for durable derived knowledge: versioned results with evidence, staleness, safe recomputation across processes, and crash-safe notification."
+2026-09-24T11:03:42Z,livekit-plugins-rumik,0.2.3,Rumik AI <hello@rumik.ai>,Apache-2.0,52617,LiveKit Agents plugin for text-to-speech with Rumik AI (muga & mulberry).
+2026-09-24T11:03:56Z,mdmovie,0.2.0,dmighty007 <dibyendumaity1999@bose.res.in>,MIT,222497,Compose multi-panel movies of molecular dynamics simulations
+2026-09-24T11:06:35Z,healthcare-mcp,0.2.1,,Apache-2.0,310333,Local-first personal health management with evidence-linked records and scoped MCP tools
+2026-09-24T11:07:24Z,rubricloop,0.1.4,RubricLoop,MIT,98084,"Bounded, auditable verification loops for AI agent output."
+2026-09-24T11:10:54Z,laya-decision-api,1.0.2,laya-decision-api contributors,Apache-2.0,1754051,Laya 本地决策模型的服务化接口：意图分类 / 工单分派 / LLM 路由 / 内容审核，离线零 token（契约 + HTTP 服务 + 客户端 + 阈值路由）
+2026-09-24T11:11:13Z,flask-payloadshield,1.0.0,Ganesh Kandu <kanduganesh@gmail.com>,Apache-2.0,45871,Pluggable Flask decorators for encrypting/decrypting request and response payloads
+2026-09-24T11:13:14Z,samtale,0.1.0,Joshua Croft,MIT,48901,"A modern, minimal messaging framework for agents."
+2026-09-24T11:13:50Z,gotenberg-haystack,0.1.0,Max Swain,Apache-2.0,43018,Gotenberg document to PDF converter integration for Haystack
+2026-09-24T11:14:41Z,age-and-gender,2.0.0,Mowshon,MIT,34930122,"Age and gender estimation from face images, with no compiler required."
+2026-09-24T11:14:43Z,mco,0.1.0,DoTaeIn,"MARCO Engine License, Version 1.0 (2026-09-24) Copyright 2026 DoTaeIn This software is licensed und…",104599,Stable Python API and CLI for MARCO-compatible (.mco) reasoning models
+2026-09-24T11:16:55Z,debrisframe,0.1a6,DebrisFrame Contributors <felix@avaframe.org>,EUPL-1.2,240087,The Open Debris flow Framework
+2026-09-24T11:17:13Z,holonomy,0.1.1,,,14360643,Python SDK bridge for Holonomy
+2026-09-24T11:25:55Z,agent-runtime-py,0.1.0,,MIT,102889,Reconnectable native agent workers with durable input receipts and events
+2026-09-24T11:30:39Z,fr-docs,0.1.0,,# PolyForm Noncommercial License 1.0.0 <https://polyformproject.org/licenses/noncommercial/1.0.0> #…,37058,"Fast static documentation generator with search, versioning, and zero-config setup"
+2026-09-24T11:32:40Z,retrieval-eval,0.1.1,retrieval-eval contributors,Apache-2.0,128850,"Your RAG test suite decays every time you re-chunk. Drift detection that tells you which relevance labels are still true after a chunker or corpus change and re-anchors the ones it can, plus determin…"
+2026-09-24T11:35:07Z,clalit-evals,0.1.0,Ofir Arbili <ofir.arbili@gmail.com>,MIT,6526,"A minimal Python package with a single function that prints Hello, World!"
+2026-09-24T11:37:57Z,tachyroute,0.1.0,Dhanush Nehru <dhanushnehru@example.com>,Apache 2.0,21108,"Multimodal, Explainable, Early-Exit Decision Engine"
+2026-09-24T11:38:51Z,biyoves,2.0.1,Mehmet Aytuğ Yürük <myuruk1@ogr.iu.edu.tr>,MIT,61484,Local CLI for white-background biometric photo generation.
+2026-09-24T11:39:37Z,rag-ingestion,0.1.0,satyampandya,,8350,A lightweight document ingestion component for RAG pipelines.
+2026-09-24T11:43:41Z,brain-framework,9.1.0,Médéric Hurier,MIT,120236,Plain-file brains for people and their agents
+2026-09-24T11:45:49Z,hybit,0.0.1,HyBit Technologies,,2499,Official Python SDK for the HyBit Vector Database
+2026-09-24T11:45:54Z,langchain-hybit,0.0.1,HyBit Technologies,,2664,Official Python SDK for the HyBit Vector Database
+2026-09-24T11:45:59Z,llamaindex-hybit,0.0.1,HyBit Technologies,,2690,Official Python SDK for the HyBit Vector Database
+2026-09-24T11:47:47Z,hybit-python,0.0.1,HyBit Technologies,,2661,Official namespace reservation for hybit-python
+2026-09-24T11:52:20Z,machina-somniatrix,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,58238,Dreamer machine.
+2026-09-24T11:53:19Z,stemma-graph,0.3.0,,MIT,17491,Portable question-scoped genealogy graphs: a stemma for your own writing
+2026-09-24T11:53:23Z,stemma-studio,0.4.1,,MIT,2676486,"Writing that descends from earlier writing: a local desk, a genealogy of versions, and a bilingual static blog"
+2026-09-24T11:54:06Z,llmgrid-rag,0.1.0a1,Sanket Naik <sanketn@gmail.com>,MIT,4551,Retrieval-augmented generation for llmgrid
+2026-09-24T11:54:36Z,argus-app-testing,0.1.3,Varun S V,MIT,891245,"Argus — universal application testing driven by multimodal LLMs. Tests any software: desktop GUI, CLI, web, TUI."
+2026-09-24T11:59:39Z,apache-skywalking-asz-langchain,0.5.0,Apache SkyWalking,Apache-2.0,28272,"Records what a LangChain agent's tool calls changed on disk, for Apache SkyWalking AI Sessionizer"
+2026-09-24T12:03:12Z,llmgrid-loops,0.1.0a1,Sanket Naik <sanketn@gmail.com>,MIT,9232,Composition runtime and agent recipes for llmgrid
+2026-09-24T12:03:23Z,ciftopdb,1.0.0,Matsvei Tsishyn <matsvei.tsishyn@protonmail.com>,MIT,15898,Convert an mmCIF ('.cif') 3D structure file to PDB ('.pdb') format.
+2026-09-24T12:04:01Z,orchvia,0.1.2,,MIT,146619,Python SDK for Orchvia: run Claude Code and Codex agents as a team
+2026-09-24T12:05:00Z,chartremotely,0.2.0,Lonnie VanZandt,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",128965,Remote control of desktop charting applications on macOS
+2026-09-24T12:05:41Z,pytest-resources,0.1.0,damvolkov <damvolkovv@gmail.com>,MIT,33638,"Lazy, typed, attribute-navigable fixtures for test resource files, with pluggable canonical loaders (e-serde by default)."
+2026-09-24T12:10:38Z,my-calculator-pkg-ptd,0.1.0,Pham Tien Dat,,3420,Thư viện tính toán cơ bản tự tạo
+2026-09-24T12:13:18Z,llmgrid,0.1.0a1,Sanket Naik <sanketn@gmail.com>,MIT,4289,"Typed, composable agent building blocks with explicit budgets and outcomes"
+2026-09-24T12:13:45Z,refresh-engine,0.1.0,S. Muni Harish,Apache-2.0,130768,Production-grade generic refresh infrastructure
+2026-09-24T12:15:44Z,ankka,0.4.0,Trevor Burton-McCreadie,Apache-2.0,248043,"The ankka SDK for Python: components in Python, hosted by the ankka sidecar"
+2026-09-24T12:16:20Z,keygen-sdk,1.0.0,,MIT,105344,Unofficial Python SDK for licensing and remotely updating programs with keygen.sh
+2026-09-24T12:18:26Z,odoo-addon-l10n-br-qr-code-emv,18.0.1.0.0.3,"KMEE,Odoo Community Association (OCA)",AGPL-3,27946,"Pix BR Code on invoices, over the EMV merchant-presented QR standard."
+2026-09-24T12:21:33Z,simpnmr-x,1.19.0,Suturina Group (original),GPL-3.0-or-later,580475,"Prediction, fitting, and analysis of paramagnetic NMR spectra."
+2026-09-24T12:21:44Z,neuland-hub-sdk,1.0.4,neuland.ai,Copyright (c) 2026 neuland AI AG. All rights reserved. LICENSE PENDING. The open-source license for…,932863,Neuland AI Hub API
+2026-09-24T12:23:25Z,sinica,0.1.3,sarvamm <srvmrtr@gmail.com>,,10819,A pandas DataFrame profiling tool for statistical summaries and quality alerts.
+2026-09-24T12:23:38Z,Huynh-toanhoc,0.1.0,Hoang Thuy,,3400,Thư viện toán học cơ bản
+2026-09-24T12:25:14Z,rag-search-kit,0.1.0,satyampandya,,10368,A hybrid retrieval component for RAG pipelines.
+2026-09-24T12:26:09Z,humanized-autotyper,1.0.0,,,78158,模拟真人打字节奏的自动输入器：对数正态延迟、突发快打、错字回删、长暂停与恢复仪式
+2026-09-24T12:27:33Z,gardbuild,0.1.0,GardBuild contributors,MIT,26104,"Deterministic safety guardrails for autonomous AI agents: budgets, rate limits, tool access and PII redaction."
+2026-09-24T12:29:53Z,dralvia-sdk,0.1.0,Dralvia,MIT,23160,Official lightweight Python client for the Dralvia security API.
+2026-09-24T12:31:06Z,strings-lint,0.1.0,,MIT,48350,"Lint app localization files: placeholders, plural forms, empty strings and App Store / Google Play limits."
+2026-09-24T12:32:27Z,wolfpine,2.1,Nick Brown,BSD-3-Clause,37431,"A framework for simulating AI accelerators, with Tenstorrent Wormhole and Blackhole backends"
+2026-09-24T12:32:46Z,ad-data-pf,0.1.0,AskerNC <hms467@econ.ku.dk>,MIT,755402,"Tables and figures for a job-ad amenities project, run on Statistics Denmark microdata"
+2026-09-24T12:37:02Z,independent,0.0.0.1,Carmelo Calafiore <dr.carmelo.calafiore@gmail.com>,MIT,6859,A basic Python package with no dependencies.
+2026-09-24T12:39:04Z,zeroruntime-teleops,0.1.0,VideoSDK,Apache-2.0,24925087,"Robot teleoperation over WebRTC: frame-accurate observation/action correlation, a non-bypassable safety envelope, and recording that exports to any dataset format"
+2026-09-24T12:40:00Z,veltro-ai,0.1.0,Veltro Security,Apache-2.0,62434,"Veltro bring-your-own AI provider contract: config validation, redaction, structured output, audit digests."
+2026-09-24T12:41:27Z,afly,0.1.0,selishchev,MIT,298186,Idempotent AppsFlyer aggregate Pull API → ClickHouse extractor with a dbt-style CLI
+2026-09-24T12:43:43Z,pyproject-fmt-py,0.0.0,eggplants <w10776e8w@yahoo.co.jp>,MIT,180138,pyproject.toml formatter
+2026-09-24T12:51:49Z,reproof-qa,0.1.0,ictechgy,MIT,3019509,"Self-hosted mobile QA platform: record issues, replay deterministically on Android/iOS, verify AI repairs against approved evidence"
+2026-09-24T12:53:21Z,jul,0.1.0,,Apache-2.0,303508,Juste Un LLM - local typed decisions with the interface of the TypeSafe (Jev) SDK
+2026-09-24T12:53:26Z,nexus-agents-io,0.2.0,Nexus,MIT,68082,"Client, command line and MCP server for Nexus, the network reserved for AI agents: verifiable identity, reputation, other agents to work with."
+2026-09-24T12:54:09Z,arc56-generated-code-4ae0f558,1.2.2026072010,code-alexander,,14100,Generated ARC-56 Algorand smart-contract clients for code-alexander/algoku.
+2026-09-24T12:55:13Z,arc56-generated-codew-dce47d3b,1.2.2026072010,codewithyuvi,,14634,Generated ARC-56 Algorand smart-contract clients for codewithyuvi/VAttend-Blockchain.
+2026-09-24T12:56:11Z,powerbi-orchestrator-mcp,1.9.0,Bastian Berrios,MIT,192604,High-level orchestration MCP server for Power BI and Microsoft Fabric
+2026-09-24T12:57:13Z,bonsai-rs,0.1.0,Gregor Lueg <gregorlueg@me.com>,MIT,3915107,"Tree representations of single-cell data under Brownian motion, in Rust."
+2026-09-24T12:57:38Z,dbt-kinetica,1.0.1,Rosetta Labs,Apache-2.0,82172,The Kinetica adapter plugin for dbt
+2026-09-24T13:00:05Z,xyran-lpd,1.0.0rc1,MingSafeR,,21330,Local-first prompt injection and jailbreak detection with Llama Prompt Guard 2 86M INT8 ONNX.
+2026-09-24T13:00:41Z,gams-gdxgmd,54.4.0,,,7691251,
+2026-09-24T13:00:58Z,codecompass-context,1.0.0,Cormac O' Sullivan,GPL-3.0-or-later,344405,"Grounded, version-pinned dependency reference docs for AI coding agents."
+2026-09-24T13:01:20Z,cursor-core,0.1.0,,MIT,122927,"Unofficial Cursor AgentService/Run HTTP/2 client (Connect-RPC, agent.v1)"
+2026-09-24T13:04:11Z,anyconvert,0.1.0,anyconvert contributors,,362633,Document conversion engine
+2026-09-24T13:05:18Z,formicx,0.1.0,Formicx Contributors,MIT,162622,Linux-based operating environment designed for persistent autonomous AI agents.
+2026-09-24T13:07:19Z,r3-cli,0.5.1,R3Neer,MIT,55342,A shared visual language for R3Neer's command-line tools
+2026-09-24T13:07:26Z,mia-libreria-super-cool,0.1.0,Il Tuo Nome <tua.email@esempio.com>,,2642,Una calcolatrice d'esempio molto semplice
+2026-09-24T13:08:42Z,tsed,0.1.0,,,8257,Tree Similarity of Edit Distance (TSED): AST-based structural similarity for source code
+2026-09-24T13:09:16Z,zambo-llamaindex,0.1.0,Brennan Zambo,,13740,Zambo's 100+ live tools as LlamaIndex FunctionTools. Every call mints a verifiable AER-1 execution receipt.
+2026-09-24T13:09:30Z,zambo-haystack,0.1.0,Brennan Zambo,,13358,Zambo's 100+ tools as Haystack tools. Every call mints a verifiable AER-1 execution receipt.
+2026-09-24T13:09:55Z,rlcd-gateway,0.1.0,,Apache-2.0,17767333,"Self-hosted gateway for LLMs and decision models: Claude Code, Codex, OpenCode and any OpenAI/Anthropic SDK app, plus Jev-compatible System One decisions. Routing, context pruning, audit and a live d…"
+2026-09-24T13:10:14Z,auray-client,0.1.1,,MIT,29521,"The Auray API from Python: run a model at its address, follow the request, download what it made."
+2026-09-24T13:10:44Z,flashloop,0.1.0,,MIT,226878,FlashLoop: inference optimization for Ouro looped Transformers
+2026-09-24T13:10:47Z,ohlcvault,0.1.0,,MIT,76068,"Reproducible, checksummed daily OHLCV data for A-share, HK and US markets — static files, content-addressed snapshots, zero API keys."
+2026-09-24T13:16:20Z,engressionts,0.1.0,"Anusha Tomar, Rajdeep Pathak, Tanujit Chakraborty",MIT,199627,A probabilistic time-series forecasting package combining Darts and Engression.
+2026-09-24T13:17:10Z,citolab-qti-convert,0.1.0,Marcel Hoekstra,GPL-3.0-only,428299,"Convert QTI 2.x to QTI 3.0 and QTI 3.0 to QTI 2.1: items, tests, stimuli and content packages"
+2026-09-24T13:18:57Z,capmesh,1.0.0,,Apache-2.0,181265,"Service discovery for the agentic world: dynamically discover and bind Agents, Skills and Tools by capability."
