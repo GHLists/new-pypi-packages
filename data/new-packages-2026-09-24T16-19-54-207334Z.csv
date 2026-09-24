@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T15:14:00Z,scTap,0.0.6,Kenny Pavan <pavan@ohsu.edu>,LicenseRef-Proprietary,16879069,A Python tool for feature selection of multiplex single-cell tropism experiments.
+2026-09-24T15:19:17Z,odoo-addon-l10n-jp-kana-partner-name,19.0.1.0.0.2,"Quartile, Odoo Community Association (OCA)",LGPL-3,26374,Add a normalized kana reading of the name to contacts
+2026-09-24T15:19:53Z,testuniverse,0.0.0,,,1323,Name reservation
+2026-09-24T15:22:20Z,testisolation,0.0.0,,,1331,Name reservation
+2026-09-24T15:22:50Z,testscan,0.1.0,Nikita527,MIT,4781252,Static analysis for AI-generated Python tests — thin launcher for the Go testscan CLI
+2026-09-24T15:27:50Z,wagtail-prose-editor-images,0.1.1,Vladimir Tarasov,,7745,Wagtail Image Chooser integration for django-prose-editor.
+2026-09-24T15:30:02Z,bizpack,0.1.1,BizPack Contributors,MIT,87100,The Python toolkit for business & data analysts: zero-friction spreadsheet cleaning + intuitive business formulas.
+2026-09-24T15:30:26Z,llm-apimaster,0.1.0,,"MIT License Copyright (c) 2026 APIMaster.ai Permission is hereby granted, free of charge, to any pe…",21363,"llm plugin for APIMaster and other OpenAI-compatible gateways, including image and video generation"
+2026-09-24T15:32:32Z,sunitha-agentic-terminal,0.1.0,,,5272,An MCP which adds terminal capabilities to an agent.
+2026-09-24T15:32:38Z,dohieu06-toanhoc,0.1.0,MINH HIEU,,3091,Thư viện toán học cơ bản
+2026-09-24T15:36:38Z,gpt-oss-azure-opencode-shim,0.4.0,Gabriel,MIT,114668,Compatibility shim that fixes silent API failures when using Azure-hosted GPT-OSS models with OpenCode.
+2026-09-24T15:38:02Z,lamparo-lantern,0.1.0,lamp <bonjour@lamparo.app>,MIT,16366,"lamparo's lantern for Python: a signed, read-only view that tells lamparo what the site knows about itself."
+2026-09-24T15:39:42Z,schematizer,0.1.0,Dave Vandenbout <dave@vdb.name>,MIT,302052,Turn a generic hierarchical netlist (JSON) into a KiCad schematic.
+2026-09-24T15:41:56Z,ragas-jev,0.1.0,ady95,Apache-2.0,163826,RAGAS-style RAG evaluation with JEV as the primary judge
+2026-09-24T15:41:59Z,cache-database,0.1.0,moon <lianjiao20@gmail.com>,MIT,5148,cache database
+2026-09-24T15:42:26Z,ts-obom,0.4.0,EACG GmbH,Apache-2.0,747709,TrustSource OBOM scanner: extracts a CycloneDX Operations Bill of Materials from infrastructure-as-code
+2026-09-24T15:42:27Z,quadkit-http,0.0.1,,,1375,QuadKit quadkit-http — reserved namespace
+2026-09-24T15:42:31Z,quadkit-resilience,0.0.1,,,1439,QuadKit quadkit-resilience — reserved namespace
+2026-09-24T15:42:34Z,quadkit-workflow,0.0.1,,,1423,QuadKit quadkit-workflow — reserved namespace
+2026-09-24T15:42:37Z,quadkit-graphql,0.0.1,,,1408,QuadKit quadkit-graphql — reserved namespace
+2026-09-24T15:42:48Z,indexcase,0.0.1,Warmhop,Apache-2.0,12841,"Privacy-preserving threat intelligence for AI agents: trace prompt-injection propagation across an agent fleet, share attack fingerprints instead of prompts, and ship eval-validated patches."
+2026-09-24T15:44:26Z,mispick,0.1.0,,MIT,290723,"Find out which of your MCP tools the model mixes up - measured, not guessed."
+2026-09-24T15:46:43Z,sherlock-api,0.1.0,Kirill Meisser,Apache-2.0,45136,Python client for the Sherlock REST API
+2026-09-24T15:54:00Z,primo-optimizer,0.4.9,PRIMO team <primo@netl.doe.gov>,"License ======= PRIMO - The P&A Project Optimizer Toolkit Copyright (c) 2023---2026, by the softwar…",469984,PRIMO - The P&A Project Optimizer
+2026-09-24T15:54:36Z,pmwallets,0.1.0,,MIT,28118,"Official PMWallets SDK: Polymarket smart-money leaderboard, real-time wallet fills over WebSocket with gap replay, webhooks and exports."
+2026-09-24T15:55:41Z,vraven,0.9.0a1,Daniel Jeremiah and VRAVEN contributors,Apache-2.0,899057,Compiler-assisted causal decompilation and scientific visual explanation of PyTorch models
+2026-09-24T15:56:34Z,tiendat-baitappy,0.1.0,Le Van Tu,,3418,Thu vien tinh toan va hinh hoc
+2026-09-24T15:58:43Z,pmwallets-copytrade,0.1.0,,MIT,85329,"Ready-to-run Polymarket copy-trading bot: follows the wallets you subscribe to on PMWallets and mirrors their trades on the Polymarket CLOB, with dry-run, risk caps and exactly-once fill handling."
+2026-09-24T15:59:30Z,vantu-baitappy,0.1.0,Le Van Tu,,3375,Thu vien tinh toan va hinh hoc
+2026-09-24T15:59:55Z,krun-ai,0.1.0,Krun,Apache-2.0,58250,Official Python SDK for the Krun API.
+2026-09-24T16:01:27Z,slet-sdk,0.2.0,Walter Kerrigan <esolment@gmail.com>,Copyright (C) 2026 Slet Corporation All rights reserved. This software is proprietary. Unauthorized…,275689,
+2026-09-24T16:05:26Z,llm-tokenomics,0.1.0,James Barney,MIT,137559,"Tag LLM spend the way cloud spend is tagged, with calibrated decision models, and export it as FOCUS 1.4"
+2026-09-24T16:08:05Z,khipumaq,0.1.2,Tony,MIT,55744,An episodic store of every prior Claude Code and Codex session — the user's words and the assistant's responses — searchable by the instances that come after.
+2026-09-24T16:16:15Z,xschedy,0.1.0,zxpshadow,MIT,188255,内部系统的异步任务调度器
+2026-09-24T16:17:09Z,exochain,0.2.7,EXOCHAIN Foundation <engineering@exochain.io>,Apache-2.0,55474,EXOCHAIN SDK — constitutional governance fabric for AI and data sovereignty
+2026-09-24T16:17:43Z,orblet,0.1.0,Sahar Shahaf <sahar.shahaf@gmail.com>,MIT,502707,"Atoms for Keplerian orbit analysis: forward models, likelihoods, design matrices and linear solves, period search, element conversion. Arrays in, results out."

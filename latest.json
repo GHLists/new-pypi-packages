@@ -1,49 +1,49 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-09-24T14:20:31.195875Z",
-    "path": "data/new-packages-2026-09-24T15-19-01-500653Z.csv",
-    "to": "2026-09-24T15:19:01.500653Z"
+    "count": 36,
+    "from": "2026-09-24T15:19:01.500653Z",
+    "path": "data/new-packages-2026-09-24T16-19-54-207334Z.csv",
+    "to": "2026-09-24T16:19:54.207334Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-24T12:49:25Z",
       "package": "beadboard",
       "since": "2026-09-24T08:18:48.588557Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-24T11:11:11Z",
       "package": "capo-ebs",
       "since": "2026-09-24T08:18:48.588557Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-09-24T15:21:04Z",
+      "package": "dominhhieu-toanhoc",
+      "since": "2026-09-24T15:19:01.500653Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-24T15:37:37Z",
+      "package": "jl-automation-sdk",
+      "since": "2026-09-24T15:19:01.500653Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-09-24T10:01:36Z",
       "package": "node-wire-http",
       "since": "2026-09-24T08:18:48.588557Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-24T09:44:20Z",
       "package": "open-perception-kit",
       "since": "2026-09-24T08:18:48.588557Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-09-24T15:14:00Z",
-      "package": "scTap",
-      "since": "2026-09-24T14:20:31.195875Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-24T07:01:27Z",
-      "package": "steerable",
-      "since": "2026-09-24T06:19:22.018465Z"
     }
   ],
-  "serial": 41415205,
+  "serial": 41417397,
   "source_truncated": false,
-  "window": "2026-09-24T15:19:01.500653Z"
+  "window": "2026-09-24T16:19:54.207334Z"
 }
