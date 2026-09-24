@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T20:20:26Z,tickertape-client,0.1.0,Sudhanwa <sudhanwa.kaveeshwar@gmail.com>,Apache-2.0,277539,Unofficial asynchronous typed Python client and scraper for TickerTape with persistent caching and ISIN lookup
+2026-09-24T20:22:09Z,core-sg-mustache,0.4.4,Midas Core-SG Team <gmcorlando@estudante.ufscar.br>,BSD-3-Clause,5966249,Core-SG graph construction and MST extraction utilities for HDBSCAN-style clustering.
+2026-09-24T20:26:31Z,lingotweaker-data-br,0.1.3,,LGPL-2.1-or-later,2280033,LingoTweaker runtime data for language 'br'
+2026-09-24T20:26:36Z,lingotweaker-data-ca,0.1.3,,LGPL-2.1-or-later,11756707,LingoTweaker runtime data for language 'ca'
+2026-09-24T20:26:42Z,lingotweaker-data-crh,0.1.3,,LGPL-2.1-or-later,2840582,LingoTweaker runtime data for language 'crh'
+2026-09-24T20:26:48Z,lingotweaker-data-da,0.1.3,,LGPL-2.1-or-later,2706451,LingoTweaker runtime data for language 'da'
+2026-09-24T20:30:22Z,dbreduce,0.1.2,,Apache-2.0,79317,Reduce PostgreSQL bug reproducers using delta debugging
+2026-09-24T20:31:04Z,side-hustle-scripts,1.0.0,James Verlander,MIT,8042,"True hourly-rate math for gig work in the terminal: platform fees, fuel, wear, and unpaid wait time priced in, with an exit code when a gig lands below your target"
+2026-09-24T20:31:54Z,rtl-tty,0.2.0,komeilsedaghat-dev,MIT,17217,Fix Persian/Arabic/Hebrew (RTL) text in the terminal for AI CLIs like Claude Code
+2026-09-24T20:37:50Z,mailx-sdk,0.1.0,,MIT,9271,Official Python client for the MailX API
+2026-09-24T20:38:49Z,biopb-napari-widget,0.1.0rc1,Ji Yu <jyu@uchc.edu>,"The MIT License (MIT) Copyright (c) 2025 Ji Yu Permission is hereby granted, free of charge, to any…",205965,napari widgets for biopb: the Tensor Browser and OME-Zarr writers
+2026-09-24T20:44:35Z,mypy-boto3-eventbridgev2,1.43.102,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,57266,Type annotations for boto3 EventBridgeV2 1.43.102 service generated with mypy-boto3-builder 8.12.0
+2026-09-24T20:44:42Z,types-boto3-eventbridgev2,1.43.102,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,57334,Type annotations for boto3 EventBridgeV2 1.43.102 service generated with mypy-boto3-builder 8.12.0
+2026-09-24T20:48:04Z,semantic-operators,0.1.0,Jason Duncan,MIT,92949,"One small, provider-neutral interface for System One models (Jev, Laya, and compatibles)."
+2026-09-24T20:48:15Z,openfin,0.1.0,Michael Karotsieris,,142712,Filesystem-based agent definition and runtime system
+2026-09-24T20:48:43Z,cleolob,0.3.0,,,404909,Reproducible limit-order-book execution research laboratory
+2026-09-24T20:51:37Z,wasmhost,0.0.1b1,o-murphy <thehelixpg@gmail.com>,MIT,90819,"WebAssembly for CPython, PyPy and Pythonista, run in JavaScriptCore or Node, with the JavaScript WebAssembly API"
+2026-09-24T20:51:39Z,deixic-sdk,0.1.6,,BUSL-1.1,100431,"Python SDK for submitting Deixic tasks, following progress, and resolving approvals"
+2026-09-24T20:53:55Z,code-sce,0.1.0,,,11944,Structural Cross Entropy (SCE) and JSD-based AST similarity metrics for source code
+2026-09-24T20:56:51Z,quickfix-tls,1.16.0.1rc1,Oren Miller and QuickFIX contributors,"The QuickFIX Software License, Version 1.0 Copyright (c) 2001-2020 Oren Miller Redistribution and u…",397328448,"QuickFIX with TLS/SSL transports, as prebuilt wheels (unofficial fork)"
+2026-09-24T20:57:19Z,vision-synth,0.14.0.dev0,Jiri Borovec <6035284+Borda@users.noreply.github.com>,Apache-2.0,788493,Synthetic computer vision datasets in COCO/YOLO formats and fused image augmentation for PyTorch.
+2026-09-24T20:57:42Z,varde,0.0.1,,Apache-2.0,11254,Varde is in development.
+2026-09-24T20:58:16Z,socio,0.1.0,José Suárez <jisumov@gmail.com>,MIT,6511328,SOC I/O: cybersecurity tools for accelerating triage based on OSINT APIs
+2026-09-24T21:00:03Z,aioteleco,0.1.0,trois-six,MIT,104731,"Async Python SDK and CLI for Teleco Automation boxes of every brand app (Daisy, Biossun, Gibus…): cloud and local control"
+2026-09-24T21:00:13Z,pisces-lite,3.0.0,Arcascope Inc <support@arcascope.com>,MIT,111546,"ML-backend-agnostic core supporting data set discovery, loading, common spectrogram/PSD-based processing, and CV scoring."
+2026-09-24T21:00:57Z,zotero-command-line,2.8.12,Fábio Chicout,MIT,639331,"Manage your Zotero library from the command line: scripting, automation and LLM-assisted workflows."
+2026-09-24T21:04:08Z,pykatai,1.0.0,,,2267043,"Katai is an ultra-fast, non-autoregressive AI browser agent powered by local System-1 decision models for instant, deterministic web automation."
+2026-09-24T21:04:47Z,periph,1.2.1,,MIT,481849,"Peripheral chip drivers for MicroPython, CircuitPython, and Linux"
+2026-09-24T21:06:46Z,jev-fuse,0.1.0,JEV-Fuse Contributors,Apache-2.0,307893,"Governed decision runtime, policy control plane, and MCP supervisor for TypeSafe Jev and local typed-decision models."
+2026-09-24T21:07:40Z,open-nami,1.0.0,OpenSelena <igect@vk.com>,MIT,741580,"Fast terminal social media profile downloader and TUI for Instagram, TikTok, Facebook, and X."
+2026-09-24T21:07:49Z,lfx-loopgrid,0.1.0,LoopGrid <hello@loopgrid.io>,Apache-2.0,27952,LoopGrid evidence components for Langflow/LFX
+2026-09-24T21:08:38Z,dendra-solvers,0.3.1,,,4089175,"Fast implicit solvers (CPU) for cable models, written in C++."
+2026-09-24T21:10:51Z,priorityclip-geo,0.1.1,Alena Nikitina,Apache-2.0,21569,Deterministic priority-based partitioning of overlapping polygons
+2026-09-24T21:11:34Z,coding-router,0.1.0,Inder Sharma,MIT,62550,A lightweight LLM router that classifies coding requests and routes them to the best-fit model using semantic similarity and cost-aware scoring.
+2026-09-24T21:12:36Z,contrastive-lm,0.1.0,Jacky Kwok <jackykwok@berkeley.edu>,Apache-2.0,116785,CLM: contrastive language model serving engine and System One API (typed noul / choice / score questions over state)
+2026-09-24T21:15:32Z,agentevo-core,0.1.0,Agentevo,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",67165,"Agentevo core domain contracts: classification, canonical events, learned objects, trust states, errors. No I/O."
+2026-09-24T21:15:42Z,agentevo-local,0.1.0,Agentevo,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",234707,"Agentevo local runtime (TZ-2): capture, DLP, encrypted vault, recall, guards, execution."
+2026-09-24T21:15:54Z,agentevo-cloud,0.1.0,Agentevo,Business Source License 1.1 Parameters Licensor: Agentevo Licensed Work: agentevo-cloud 0.1.0 Copyr…,261595,"Agentevo SaaS (TZ-3 control plane, TZ-4 managed intelligence): auth, metering, C2 APIs, workers."
+2026-09-24T21:16:08Z,agentevo-sdk,0.1.0,Agentevo,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",84956,"Agentevo client SDK, CLI, and agent adapters with conformance fixtures."
