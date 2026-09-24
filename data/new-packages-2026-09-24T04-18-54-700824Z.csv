@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T03:20:12Z,korova-mcp,0.1.0,Phil Wheatley,MIT,57141,"MCP server for The Korova Milk Bar, an agent-only collaboration space: knock at the door, join rooms, post, DM, verify hash chains."
+2026-09-24T03:22:40Z,lavs-sdk,0.2.0,,,94561,Python SDK for LAVS (Local Agent View Service) protocol
+2026-09-24T03:24:35Z,gathervis,0.16.0,zzzzswh,MIT,329277,"Web viewer for pre-stack seismic data: lazy loading of huge files, SEG-Y import, geometry-linked shot browsing, 3-D volume slicing, filters/AGC, spectra and f-k, first-break picking."
+2026-09-24T03:29:45Z,deepseek-harness-patent-services,0.1.0,,,716952,MCP stdio server exposing patent disclosure parsing and export to the dsh patent profile
+2026-09-24T03:30:30Z,baiducloud-python-sdk-nlp,0.0.1,Baidu Cloud SDK,Apache License 2.0,88189,Baidu Cloud nlpApi SDK Library for Python
+2026-09-24T03:33:43Z,llmbash,0.1.0,,MIT,44922016,"An embeddable bash-compatible shell that minimizes its own output, for LLM agents"
+2026-09-24T03:36:51Z,svg2text,1.0.0,,,8396,Lossless SVG compression and encryption for the command line
+2026-09-24T03:42:46Z,ascent-science-adam,0.1.0,Ascent Science,LicenseRef-Proprietary,2421,Ascent Science SDK plugin for Adam
+2026-09-24T03:42:48Z,ascent-science-alns,0.1.0,Ascent Science,LicenseRef-Proprietary,2428,Ascent Science SDK plugin for ALNS
+2026-09-24T03:42:50Z,ascent-science-arima,0.1.0,Ascent Science,LicenseRef-Proprietary,2439,Ascent Science SDK plugin for ARIMA
+2026-09-24T03:42:53Z,ascent-science-bayesianoptimization,0.1.0,Ascent Science,LicenseRef-Proprietary,2699,Ascent Science SDK plugin for BayesianOptimization
+2026-09-24T03:43:29Z,llm-babel,0.1.0,,MIT,854425,"One transform spec, compiled to Python/Rust/TypeScript, translating LLM requests between provider formats."
+2026-09-24T03:43:55Z,verl-speco,0.1.0,verl-SpeCo contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",663017,Speculative decoding co-training extensions for verl
+2026-09-24T03:44:54Z,wftune,0.1.0,WfTune contributors,MIT,112392,"Offline audit, summary, and plotting tools for WfTune workflow-deployment benchmarks on Slurm"
+2026-09-24T03:52:53Z,dbsc,0.1.0,Report URI,MIT,87319,"A small, framework-agnostic, async Python server library for Device Bound Session Credentials (DBSC)"
+2026-09-24T03:54:59Z,schemaingest,0.1.0,Jineth Bosilu,MIT,45660,"Introspect your PostgreSQL or MySQL/MariaDB schema through a web UI, without credentials leaving your machine."
+2026-09-24T03:55:50Z,diros,0.0.1,Sudhakar Sinha,Proprietary,2702,"DIROS - DataOps, Intelligence, Routing, Orchestration, Services."
+2026-09-24T04:06:00Z,item-extractor,1.0.0,UnknwnDev,MIT,9014,"Extract todos, tasks, reminders, and events from natural language"
+2026-09-24T04:06:21Z,ucdinfo,0.2,SIL WSTech <fonts@sil.org>,MIT,299626,Unicode UCD wrapper module
+2026-09-24T04:10:20Z,jev-heuristic-adapter,0.1.0,,,20906,Compile fixed decision tasks into reusable heuristic programs.
+2026-09-24T04:12:01Z,flyloft,0.1.0,,,269852,Agent swarms for empirical research on Slurm clusters
+2026-09-24T04:14:22Z,mkdocs-nested-tabs,0.1.0,Luka Sherman <lukawritecode@gmail.com>,MIT,16055,Display two levels of navigation.tabs instead of Material's hover-only dropdown.
