@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T16:21:09Z,schedls,0.0.1,Marco D'Aleo,GPL-3.0-or-later,26343,Inspect and manage Linux scheduled jobs
+2026-09-24T16:21:16Z,jfinance,0.3.1,Sugawara,Apache-2.0,175626,Japanese EDINET disclosure data API
+2026-09-24T16:21:52Z,mcp-review-board,2.4.1,ly8427,"MIT License Copyright (c) 2026 ly8427 Permission is hereby granted, free of charge, to any person o…",81874,MCP review board that lets different coding agents review each other
+2026-09-24T16:22:09Z,typed-aster,0.1.0,Marcel Claramunt <marcel@tribulnation.com>,MIT,483628,"A fully typed, validated async client for the Aster API."
+2026-09-24T16:22:39Z,de-twin,0.1.0,Carter Francis <cartsfrancis@gmail.com>,MIT,581633,"Digital twin of a Direct Electron camera on a TEM: column, specimen, in-situ holder and detector, for developing automated microscope control."
+2026-09-24T16:24:48Z,jevapi,0.1.0,,MIT,50466,"Decide, field by field, whether an extracted value is safe to auto-fill or needs a human. Calibrated on your own examples. Zero dependencies."
+2026-09-24T16:25:20Z,blurbox,0.1.2,Raffaele Mancuso,MIT,67696,"Cover areas of a video with a black box, blur or pixelation: a desktop GUI around ffmpeg"
+2026-09-24T16:30:26Z,rsmetacheck-bot,0.6.0,Tom François <tom.francois@lapp.in2p3.fr>,MIT,143751,"Metadata quality bot for software repositories, leveraging metacheck for analysis and GitHub/GitLab APIs for issue management."
+2026-09-24T16:33:03Z,poppy-ai,0.1.0,dbmrq,"MIT License Copyright (c) 2026 dbmrq Permission is hereby granted, free of charge, to any person ob…",175803,"Turn coding-agent session history into reviewed skills, memories, and rules."
+2026-09-24T16:34:07Z,ovito-auto-viz,0.4.2,Erik Bitzek <e.bitzek@mpi-susmat.de>,BSD-3-Clause,125646,"Declarative, reproducible OVITO visualization of LAMMPS files: YAML viz-cards -> images, movies, or ready-to-open OVITO sessions."
+2026-09-24T16:35:06Z,nexora-py,1.0.1,NEXORA Contributors,MIT,175952,"A modular, local-first Python runtime: events, plugins, state, adaptive interfaces, memory, timeline rewind, observability, screen perception, procedural worlds, and sandboxed agents."
+2026-09-24T16:37:01Z,django-device-cookies,0.1.0,Tom Carrick <tom@carrick.eu>,MIT,52338,Login throttling with device cookies
+2026-09-24T16:37:59Z,owlpane,0.1.1,,,6145,Thin OpenTelemetry bootstrap for Owlpane ingest
+2026-09-24T16:38:11Z,qudenoise,0.1.0,QuDenoise contributors,MIT,101035,Pure-Python MPS quantum circuit simulator with Kraus-channel noise trajectories and a quantum-autoencoder denoiser
+2026-09-24T16:40:00Z,aifinpay-gate,0.1.0,"""CoinSecurities (SECCO)"" <contact@aifinpay.io>",MIT,50801,"Accept AIFP-1 payments from AI agents in a Python API — ASGI (FastAPI, Starlette) and WSGI (Flask, Django) middleware. Port of @aifinpay/gate."
+2026-09-24T16:40:27Z,simplibs-types,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,121447,"Named, reusable validated types — ready-made presets built on simplibs-rules."
+2026-09-24T16:41:24Z,vme-py,0.1.1,Oskar Jarczyk,MIT,114825,Turn a list of budget expenses into a Sankey diagram you can share as a PNG.
+2026-09-24T16:43:25Z,vnstock-pipeline,0.0.1,Vnstock <support@vnstocks.com>,LicenseRef-Proprietary,4349,Name placeholder for vnstock-pipeline (automated data pipelines for Vnstock sponsors). Setup guide: https://vnstocks.com/files/vibe-onboarding.md
+2026-09-24T16:43:29Z,vnstock-quant,0.0.1,Vnstock <support@vnstocks.com>,LicenseRef-Proprietary,4300,Reserved for an upcoming official Vnstock package (quantitative research and backtesting toolkit for Vnstock). Setup guide: https://vnstocks.com/files/vibe-onboarding.md
+2026-09-24T16:43:34Z,vnstock-ta,0.0.1,Vnstock <support@vnstocks.com>,LicenseRef-Proprietary,4255,Name placeholder for vnstock-ta (technical analysis toolkit for Vnstock sponsors). Setup guide: https://vnstocks.com/files/vibe-onboarding.md
+2026-09-24T16:50:02Z,indogram,2.2.26,Indogram Developers,LGPL-3.0-or-later,6964559,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots"
+2026-09-24T16:51:18Z,tanilo-receipt-verify,0.1.0,Joe Krausz <joe@tanilo.io>,MIT,48352,Verifier for composed verification-state envelopes (RFC 8785 JCS + EdDSA/ES256 JWS). Canonicalization is byte-identical to the production Node canonicalizer. Supersedes agentoracle-receipt-verify 0.1…
+2026-09-24T16:53:20Z,agentdynamics,0.4.0,,Apache-2.0,292240,"Application performance monitoring for AI agents: flows, cost, reliability and process quality"
+2026-09-24T16:55:03Z,gtfs-analyzer,0.14.0,GTFS Analyzer contributors,MIT,7289451,GTFS validation and quality analysis powered by the Rust GTFS Analyzer engine.
+2026-09-24T16:56:51Z,btclib-wallet,2026.9.24,The btclib developers,MIT,3376664,Bitcoin wallet functionality built on btclib
+2026-09-24T16:58:00Z,RandomInts,0.0.5,wawa2016-here <lemver2016@gmail.com>,,2130,A custom random number generator built from scratch. Function #1 Rand() function #2 RandSeed(45).
+2026-09-24T17:03:01Z,codrop,1.0.0rc1,Front Terrain Inc.,MIT OR Apache-2.0,1047384,Universal Adaptive Compression System Python Bindings
+2026-09-24T17:08:19Z,learning-factory,0.1.0,Noodle,MIT,148605,GLM 多智能体协作研究系统：主 Agent 调度 docs/repo/web/file_writer 四个子 Agent 完成工具学习、研究与长文档写入
+2026-09-24T17:11:08Z,pycosmicsdk,0.1.1,Binho LLC,LicenseRef-Binho-Proprietary AND LGPL-2.1-or-later AND BSD-3-Clause,19532443,Python SDK built on top of the C/C++ CosmicSDK.
+2026-09-24T17:11:59Z,mcp-capability-router,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ Licensed under the Apache…",560717,"Async capability routing runtime for LangChain, LangGraph, and MCP adapters."
+2026-09-24T17:12:22Z,orca-rfic,1.5.0,"David Lurz <david.lurz@fau.de>, Gianluca Simone <gianluca.simone@fau.de>",Apache-2.0,268756,"ORCA - Open RF Integrated Circuit Automation: an open-source EDA tool for AI-assisted RFIC design that builds neural network surrogate models of RFIC components (gdsfactory GDS generation, Palace EM…"
+2026-09-24T17:14:48Z,langchain-mljunction,0.1.0,ML Junction <mail@mljunction.com>,MIT,482096,Native LangChain integration for the ML Junction gateway
+2026-09-24T17:16:36Z,chessapi,0.1.0,Harshit Pawar,,14343,Python client for Chess.com and Lichess APIs
+2026-09-24T17:16:36Z,refproof,0.1.0,refproof contributors,MIT,86452,"Catch fake, wrong and retracted references in your paper's bibliography."
