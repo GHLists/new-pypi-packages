@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T05:42:55Z,o11y-one-api-agentic,0.1.0,O11y One,Apache-2.0,540487,Generated Python protobuf messages and Connect clients for the O11y One AGENTIC domain (agentic + common only). A per-domain subset of o11y-one-api so agentic-only consumers do not carry the other do…
+2026-09-24T06:20:06Z,o11y-one,0.1.0,O11y One,Apache-2.0,48189,"Hand-written Python client for the O11y One API: transport construction, credential injection, and the O11y One error taxonomy."
+2026-09-24T06:20:38Z,dominhhieu,0.1.0,MINH HIEU,,2994,Thư viện toán học cơ bản
+2026-09-24T06:21:19Z,taskseam,0.1.1,Sai Sandeep Kantareddy,Apache-2.0,47440,Local-first task continuity across AI coding agents
+2026-09-24T06:22:45Z,cohesix,1.1.0b1,,Apache-2.0,243141,"Python client for Cohesix REST, TCP console, Secure9P, and mock workflows"
+2026-09-24T06:24:51Z,avrotia,0.1.0,Li lingyi,,6600,An DAG-based encrypted message channel protocol
+2026-09-24T06:25:19Z,equilibrator-pathway-core,0.1.0,Elad Noor <elad.noor@weizmann.ac.il>,MIT,81878,"MDF and enzyme cost minimization for fully specified pathway models, with no compound database"
+2026-09-24T06:32:36Z,physena,0.0.1,Ben Churchill <benjamin.churchill.uk@gmail.com>,,12640,Computational Physics Library for Python
+2026-09-24T06:38:48Z,comate-rpc,0.1.1,Andy <andy.dev@aliyun.com>,,265844,Generic RPC framework and protocol v4 exposing comate-agent-sdk to non-Python frontends
+2026-09-24T06:39:01Z,wallflowers,0.0.1,WallFlowers,AGPL-3.0-or-later,49916,"Key management for a WallFlowers Node: the OS secure store, fail-closed."
+2026-09-24T06:41:42Z,colint,0.1.0,Colin Kennedy <colinvfx@gmail.com>,,2015529,Opinionated static analysis for Python
+2026-09-24T06:42:51Z,groundwork-research,0.1.1,Guo Cheng,MIT,378224,"The research pipeline for coding agents that spends its first ten minutes trying to kill your project: a gate that returns NO-GO, a pre-registration version control can date, and an archive of how di…"
+2026-09-24T06:43:57Z,dumptales,0.1.2,Miguel Jacq,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",530122,"Read-only, explanatory diff for MySQL, PostgreSQL and SQLite snapshots"
+2026-09-24T06:44:21Z,kayya-api,0.1.0,Kayya API,Apache-2.0,130765,"Integrasi server tenant dengan marketplace Kayya API: verifikasi panggilan gateway, webhook, dan sinkronisasi entitlement."
+2026-09-24T06:48:30Z,credlock,1.0.0,Your Name,,45143,🔐 Prevent accidental credential commits to Git
+2026-09-24T06:51:33Z,galleykit,0.1.1,Takahiro Yoshida,"MIT License Copyright (c) 2026 Takahiro Yoshida Permission is hereby granted, free of charge, to an…",564878,"Build papers, handouts, slides and Word files from one Markdown source, with unified citations and no hand-typed results."
+2026-09-24T06:52:34Z,atlas-lattice,0.1.0,ooteki-teo <ooteki94@gmail.com>,MIT,38602,ATLAS: ASCII Terminal LAttice and Structure viewer — a mini-VESTA in your terminal
+2026-09-24T06:53:29Z,blink-api-client,1.0.11,,,527375,A client library for accessing Blink API
+2026-09-24T06:53:52Z,delma,0.1.0,,,1988,Add your description here
+2026-09-24T06:57:10Z,jupyterlab-scilab,0.1.0,Stéphane Mottelet <stephane.mottelet@utc.fr>,"Copyright (c) 2026 Scilab Kernel Developers Permission is hereby granted, free of charge, to any pe…",99462,Scilab syntax highlighting for the JupyterLab CodeMirror editor
+2026-09-24T06:58:06Z,rhythmtyperapi,0.1.5,bobthaboy,MIT,15269,Library for python to interact with RhythmTyper's endpoints.
+2026-09-24T07:00:01Z,existential-crisis,0.1.2,Skefie <skefie@void-labs.net>,,7461,A quick diagnostic CLI for capturing and releasing existential dread.
+2026-09-24T07:00:12Z,sureband,0.1.1,sureband contributors,Apache-2.0,35239,"Distribution-free coverage guarantees for System One decision models (Jev, Laya, Von, typical, decider, or your own)."
+2026-09-24T07:00:38Z,picsort-cli,0.1.1,,MIT,41033,"Sort your entire photo, video & document library by date, automatically."
+2026-09-24T07:03:35Z,tacular-omics,0.1.0,Patrick Garrett <pgarrett@scripps.edu>,MIT,226515,Install the tacular-omics proteomics packages together.
+2026-09-24T07:05:48Z,hypermarrow,2.9.19,千视科技,,6557,HyperMarrow（智商藏不住）— AI 智能体的长期记忆与学习系统
+2026-09-24T07:09:46Z,decishift,0.1.0,Saurav Singla,Apache-2.0,61277,Explain why decisions changed between ML system versions.
+2026-09-24T07:10:29Z,hf-model-explorer-mcp,0.1.1,Pradhumay Gaur <gaurpradhumay@gmail.com>,MIT,18102,"MCP server for searching, comparing, and hardware-sizing Hugging Face models"
+2026-09-24T07:13:27Z,dagr-cli,2026.9.0,Maxim Zaks,Apache-2.0,2945387,"Dagr — data-graph binary serialization: schema DSL, code generators for Swift, Rust, TypeScript, Go, Mojo, Odin and Python, and receipt/compatibility tooling"
+2026-09-24T07:17:20Z,foxess-modbus,0.1.0,Jarek Iwanus,MIT,56086,"Read and control FoxESS hybrid inverters over Modbus, as typed Python objects."
+2026-09-24T07:22:54Z,pyrfc-mcp,0.2.0,Yassin Bahri,MIT,163034,A policy-controlled MCP server for discovering and calling SAP RFC functions
+2026-09-24T07:23:44Z,hastejev,1.1.0,hastejev Team,Apache-2.0,57758,Ultra-Low-Latency System-1 AI Decision Engine
+2026-09-24T07:24:39Z,pryxor,0.1.0,Pryxor Contributors,Apache-2.0,49290,"Runtime security for AI agents — client, framework adapters, and MCP"
+2026-09-24T07:32:32Z,pathly,0.1.0,Simon Raynaud / keyral,Apache-2.0,22428,Official Python SDK for the Pathly public /v1 API
+2026-09-24T07:37:13Z,praxis-guardrail,0.1.0,Praxis Guardrails,MIT,315124,"The on-device guardrail for agentic AI. Let AI agents (Claude, Codex/ChatGPT, Cursor, any MCP client) touch your files — without the risk. Blocks dangerous actions, refuses your secrets, and keeps a…"
+2026-09-24T07:39:59Z,octop-memory,0.9.9,orcakit,MIT,929964,"Pluggable memory system with hierarchical recall, FTS search, and multiple backend support."
+2026-09-24T07:44:02Z,starling-ml,0.3.0,Alex-zcl,MIT,250451,Readable shared-context orchestration for modular ML experiments
+2026-09-24T07:46:08Z,aletheia-nexus,0.6.1,,Apache-2.0,285270,A local-first scientific knowledge acquisition infrastructure.
+2026-09-24T07:47:06Z,apache-airflow-providers-duckdb,0.1.0rc1,Apache Software Foundation <dev@airflow.apache.org>,Apache-2.0,51619,Provider package apache-airflow-providers-duckdb for Apache Airflow
+2026-09-24T07:48:36Z,rsgi-wsrpc,0.1.0,Alex Titoff <a.tit.off@gmail.com>,MIT,131703,High-performance reactive fullstack Python framework on Rust RSGI (Granian) with symmetric WSRPC (JSON-RPC 2.0) and Tabular Data Compression.
+2026-09-24T07:50:36Z,course-harness,0.1.0,,MIT,1556630,A local-first workspace for authoring source-grounded courses
+2026-09-24T07:55:42Z,synqt,0.0.1,The SynQt Authors,Apache-2.0,2542864,"The SynQt CLI: scaffold, build, check, serve, and run a SynQt project."
+2026-09-24T07:55:44Z,hugpy-fleet,0.2.0a0,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,614811,"Hugpy fleet: central worker registry, enrollment, heartbeats, evictions, doctrine and placement, plus the full, GGUF and phone worker agents"
+2026-09-24T07:55:44Z,m2mcent-crewai,1.0.0,M2MCent,,7501,Herramientas oficiales de M2MCent (x402) nativas para CrewAI.
+2026-09-24T07:55:46Z,hugpy-media,0.2.0a0,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,140839,"Hugpy media: engine task plugins for speech recognition, TTS, embeddings, keywords, summaries, vision, image generation, ComfyUI and document/URL extraction"
+2026-09-24T07:55:48Z,hugpy-ops,0.2.0a0,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,179117,"Hugpy operations: sentinel, chaos runner, keeper REPL, todo keeper and provisioner for declared-but-missing model weights"
+2026-09-24T07:55:50Z,hugpy-oracle,0.2.0a0,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,618011,"Hugpy oracle: creative planning, model selection, screenplay and storyboard generation, DAG runtime, repair, evaluation and ledgers over the video pipeline"
+2026-09-24T08:00:37Z,octop-browser,0.9.9,orcakit,MIT,560713,AI-friendly browser automation via CDP with profile-based login persistence
+2026-09-24T08:01:15Z,renpy-distiller,0.1.0,,GPL-3.0-or-later,33948,A tool for replacing engine files in an exported Ren'Py game
+2026-09-24T08:03:36Z,doubleblind-audit,0.1.0,Guo Cheng,MIT,88581,"Three layers that cannot see each other's mistakes: re-derive every number in prose from a committed file, brief a reviewer that was told nothing, and audit the figure a reader will actually see."
+2026-09-24T08:03:41Z,nazeyatta,0.2.0a1,Catfood Lab,Apache-2.0,99958,Preflight hazard analysis for AI and software workers
+2026-09-24T08:05:40Z,django-api-starter,0.1.0,Huzaifa Nasir <huzaifanasirbutt08@gmail.com>,MIT,82618,"Generate a production-ready Django REST API project with a custom user, JWT auth and optional OTP 2FA."
+2026-09-24T08:06:51Z,memvanta,0.8.3,Saurav Singla,Apache-2.0,699835,Low-memory C++20 LLM inference runtime for quantized GGUF models on CPU
+2026-09-24T08:08:51Z,artefacts-route-recorder,0.1.0,TN <tomo@artefacts.com>,,63414,"Record navigation routes (a start pose and waypoints) by clicking in RViz, and save them as YAML for tests to drive."
+2026-09-24T08:09:19Z,audiocore,1.0.0,Marc Rivero <mriverolopez@gmail.com>,MIT,298890,Python audio/video transcription engine with dual backend support
+2026-09-24T08:09:33Z,py-beacon-kit,0.1.0,Karan Bhanot <karan.bhanot@outlook.com>,MIT,2275614,"End-to-end tool kit for index, ETF & Delta-1 derivatives development"
