@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T18:21:21Z,fontbom,0.1.0,Ioannis Alexiou,Apache-2.0,175533,Scan mobile app binaries and codebases for bundled fonts and report their license status.
+2026-09-24T18:21:42Z,python-moshion,0.1,Robert Moggach,MIT,90132,Datamoshing Motion
+2026-09-24T18:21:54Z,odoo-erp-mcp,0.1.0,EBMURHA,Apache-2.0,422849,Workflow-native MCP server for Odoo Enterprise.
+2026-09-24T18:23:02Z,stuga-mcp,0.0.1,,MIT,4489,"Stuga's MCP server runs on your Stuga node, not from PyPI. Running this prints how to connect."
+2026-09-24T18:25:29Z,probityai,0.0.1,,MIT,2095,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
+2026-09-24T18:26:20Z,probityai-pro,0.0.1,,MIT,2143,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
+2026-09-24T18:26:22Z,probity-pro,0.0.1,,MIT,2126,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
+2026-09-24T18:26:28Z,pytest-probity,0.0.1,,MIT,2157,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
+2026-09-24T18:29:10Z,quilt-fable,0.1.0,,,2583,Brewed by quilt-brewer.
+2026-09-24T18:29:20Z,quilt-orchestrator,0.1.0,,,2648,Brewed by quilt-brewer.
+2026-09-24T18:29:23Z,quilt-linker,0.1.0,,,2571,Brewed by quilt-brewer.
+2026-09-24T18:29:26Z,quilt-perception,0.1.0,,,2671,Brewed by quilt-brewer.
+2026-09-24T18:29:27Z,jigor,0.1.0,Iurii Zatsepin <support@zatsepin.dev>,,76334,System One decision gateway — local von/laya ONNX backends plus the remote jev Decisions API (OpenRouter); one wire protocol across models.
+2026-09-24T18:30:11Z,enviscale,0.1.0,EnviScale Team <dev@enviscale.com>,MIT,31744,Official Python SDK & CLI for the EnviScale Robotics Physics & SimReady Pipeline.
+2026-09-24T18:37:08Z,detection-rules-esql-py,0.1.0,Elastic,Elastic-2.0,861519,Offline ES|QL parser and AST for Elastic Security detection-rules
+2026-09-24T18:39:01Z,epson-usb,0.1.0,"Onur Kesim, Ircama",MIT,180829,"USB (IEEE 1284.4 / D4) access to Epson printers: D4 session, EPSON-CTRL frames, EEPROM, status. Not affiliated with Seiko Epson."
+2026-09-24T18:39:07Z,kkrmind,1.1.1,Kaustav Kanti Ray,,25180,Unified AI interface - one private AI engine with memory and streaming behind one simple API. No model names exposed.
+2026-09-24T18:40:15Z,vungocson-math-2026,0.1.0,Vu Ngoc Truong Son,,3844,Thu vien phep tinh co ban va cong thuc hinh chu nhat
+2026-09-24T18:41:05Z,one-agent,0.1.46,picon,MIT,696205,one — autonomous terminal agent (CLI + TUI + JSON-RPC); optional human cooperation mode
+2026-09-24T18:42:20Z,oralyzer,2.0.0,r0075h3ll <r0075h3ll@twitter.com>,GPL-3.0,60159,Open redirect and CRLF injection scanner
+2026-09-24T18:42:24Z,redisext-ng,3.0.0,Andrey Gubarev <mylokin@me.com>,MIT,18650,Data models for Redis
+2026-09-24T18:49:28Z,rocm-bindings-systems,10.0.0.0.1.1,"""Advanced Micro Devices, Inc."" <hip-python.maintainer@amd.com>",MIT,7920464,"ROCm system-level Python bindings (RCCL collective communication, ROCTX tracing)"
+2026-09-24T18:51:07Z,ai-evidence,0.1.0,"""Dominion Labs, Inc."" <info@dmnlabs.org>",LicenseRef-Elastic-2.0,67873,Reference tooling for the AI Evidence Manifest: a static /ai.json file linking website claims to the first-party evidence supporting them.
+2026-09-24T18:52:43Z,mock-edi,0.1.0,,MIT,197850,"A mock EDI trading partner: X12 and EDIFACT over AS2, with the whole order-to-cash choreography, over SQLite, with zero dependencies."
+2026-09-24T18:52:49Z,prismcrawl,0.1.0,PrismCrawl <support@prismcrawl.com>,MIT,144887,"Official Python client for the PrismCrawl API: search results, places, app stores, products, and reviews as structured JSON."
+2026-09-24T18:53:35Z,py-neoom-connect,0.1.0,Beam Integration Contributors,MIT,29221,Async Python client for neoom CONNECT cloud and local BEAAM APIs.
+2026-09-24T18:55:27Z,netops-core,0.2.4,,MIT,92660,"Shared access layer of the netops family: inventory, credential store, host key trust, SSH transport, audit records"
+2026-09-24T18:58:05Z,systemonemodels,0.1.0,Biplov Gautam,Apache-2.0,52811,Command line and Python client for System One — the registry for decision models
+2026-09-24T18:59:48Z,uxuxxvnc,0.2.0,uxuxs82,MIT,11161,VNC in your browser
+2026-09-24T19:00:00Z,jg-agente-sdk,1.0.0,Javier Gálvez,AGPL-3.0-or-later,104213,SDK desacoplado y contratos públicos para el ecosistema de plugins y clientes de jg_agente
+2026-09-24T19:04:07Z,ormaos,0.0.1,Levi Braga <hello@ormaos.com>,Apache-2.0,10505,Runtime context for Python. Records what happened inside a Python execution. Not released yet.
+2026-09-24T19:04:12Z,netops-auditor,0.2.7,,MIT,197027,"Configuration audit for network devices, with the collection path inside the tool"
+2026-09-24T19:04:23Z,ormaos-cli,0.0.1,Levi Braga <hello@ormaos.com>,Apache-2.0,10538,"The Ormaos command line, to query recordings of Python executions. Not released yet."
+2026-09-24T19:04:40Z,ormaos-server,0.0.1,Levi Braga <hello@ormaos.com>,Apache-2.0,10553,"The Ormaos server, which stores and indexes recordings. Not released yet."
+2026-09-24T19:04:47Z,burin-core,0.2.0,Cameron Sajedi <cameronsajedi@gmail.com>,Apache-2.0,3206792,"Deterministic, equal-area coverage commitments: polygon → rHEALPix cells → 32-byte root, with openings and set algebra."
+2026-09-24T19:09:11Z,rhylthyme-galago,0.1.0a0,Rhylthyme,Apache-2.0,150929,Drive galago-tools lab instruments from Rhylthyme programs
+2026-09-24T19:09:53Z,xdggs-burin,0.1.0,Cameron Sajedi <cameronsajedi@gmail.com>,Apache-2.0,28302,"The rHEALPix DGGS for xdggs, computed by burin-core: cell centres, point lookup, boundaries, zooming, and a 32-byte fingerprint of any set of cells."
+2026-09-24T19:10:07Z,netops-admin,0.2.2,,MIT,139178,"Bounded, reversible network device changes behind an on-device rollback safeguard"
+2026-09-24T19:11:09Z,fileroute,0.1.2,,,158433,Convenient connectors to make interoperating and collaborating across multiple content management systems easier
+2026-09-24T19:12:34Z,meshright,0.1.0,MeshRight contributors,GPL-3.0-or-later,1821348,"Free, open source, browser-based 3D mesh checking and repair for 3D printing."
+2026-09-24T19:13:22Z,certvas,0.1.0,Certvas <mandase@certvas.com>,MIT,42130,"Python SDK for Certvas — point-in-time, license-clean African & EM data and signals."
+2026-09-24T19:14:07Z,warpswarm,0.1.1,,MIT,41741,Python SDK for Warpswarm: on-demand human judgment for AI evaluation and labeling.
+2026-09-24T19:18:50Z,luongminhtuananh-math-2026,0.1.0,Lương Minh Tuấn Anh,,4902,Thư viện phép tính cơ bản và công thức hình chữ nhật

@@ -1,49 +1,73 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-09-24T17:19:55.627339Z",
-    "path": "data/new-packages-2026-09-24T18-20-01-705944Z.csv",
-    "to": "2026-09-24T18:20:01.705944Z"
+    "count": 43,
+    "from": "2026-09-24T18:20:01.705944Z",
+    "path": "data/new-packages-2026-09-24T19-20-01-363867Z.csv",
+    "to": "2026-09-24T19:20:01.363867Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-24T15:21:04Z",
       "package": "dominhhieu-toanhoc",
       "since": "2026-09-24T15:19:01.500653Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-24T15:37:37Z",
       "package": "jl-automation-sdk",
       "since": "2026-09-24T15:19:01.500653Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-24T16:43:38Z",
       "package": "mcp-win-stdio-tsc",
       "since": "2026-09-24T16:19:54.207334Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-24T16:48:22Z",
       "package": "mcp-win-stdio-word",
       "since": "2026-09-24T16:19:54.207334Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-24T16:33:30Z",
       "package": "pyqt5-xp",
       "since": "2026-09-24T16:19:54.207334Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-09-24T18:36:09Z",
+      "package": "rag-aio",
+      "since": "2026-09-24T18:20:01.705944Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-24T18:36:10Z",
+      "package": "rag-aio-cache",
+      "since": "2026-09-24T18:20:01.705944Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-24T18:36:11Z",
+      "package": "rag-aio-context",
+      "since": "2026-09-24T18:20:01.705944Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-24T18:36:13Z",
+      "package": "rag-aio-core",
+      "since": "2026-09-24T18:20:01.705944Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-09-24T16:44:27Z",
       "package": "tool-guard-core",
       "since": "2026-09-24T16:19:54.207334Z"
     }
   ],
-  "serial": 41421253,
+  "serial": 41424440,
   "source_truncated": false,
-  "window": "2026-09-24T18:20:01.705944Z"
+  "window": "2026-09-24T19:20:01.363867Z"
 }
