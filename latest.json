@@ -1,19 +1,43 @@
 {
   "list": {
-    "count": 7,
-    "from": "2026-09-24T08:10:02.044733Z",
-    "path": "data/new-packages-2026-09-24T08-18-48-588557Z.csv",
-    "to": "2026-09-24T08:18:48.588557Z"
+    "count": 238,
+    "from": "2026-09-24T08:18:48.588557Z",
+    "path": "data/new-packages-2026-09-24T14-20-31-195875Z.csv",
+    "to": "2026-09-24T14:20:31.195875Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-09-24T12:49:25Z",
+      "package": "beadboard",
+      "since": "2026-09-24T08:18:48.588557Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-24T11:11:11Z",
+      "package": "capo-ebs",
+      "since": "2026-09-24T08:18:48.588557Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-24T10:01:36Z",
+      "package": "node-wire-http",
+      "since": "2026-09-24T08:18:48.588557Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-24T09:44:20Z",
+      "package": "open-perception-kit",
+      "since": "2026-09-24T08:18:48.588557Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-09-24T07:01:27Z",
       "package": "steerable",
       "since": "2026-09-24T06:19:22.018465Z"
     }
   ],
-  "serial": 41401234,
+  "serial": 41413152,
   "source_truncated": false,
-  "window": "2026-09-24T08:18:48.588557Z"
+  "window": "2026-09-24T14:20:31.195875Z"
 }
