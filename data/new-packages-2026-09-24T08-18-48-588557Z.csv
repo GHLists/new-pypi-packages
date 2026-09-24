@@ -1,0 +1,8 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T07:28:38Z,marketing-toolbox,0.1.0,,MIT,295302,Command-line tools for Google Analytics 4 and Google Tag Manager.
+2026-09-24T08:10:07Z,dirforge-cli,0.1.0,,,14495,Create project directory scaffolds from visual tree text files.
+2026-09-24T08:11:03Z,bump-py-version,2.1.2,Dennis Iversen <dennis.iversen@gmail.com>,MIT,12502,Bump a python version in python files. Create a new tag and push it to git repository.
+2026-09-24T08:11:12Z,avada-eval,0.1.0,lin han <mn2895566@gmail.com>,MIT,132016,"Safe, Decimal-exact expression evaluator for LLM tools, derived from simpleeval."
+2026-09-24T08:13:03Z,debug202609230-yl202609210,0.0.1,Example Author <author@example.com>,MIT,4018,A small example package
+2026-09-24T08:14:21Z,stabtab,0.1.0,,,4393,Add your description here
+2026-09-24T08:17:48Z,tabulaflow,0.1.0,Megagon Labs,LicenseRef-Megagon-BSD-3-Clause-Attribution,9375572,"An interactive data agent, Python library, and text-to-query research toolkit"
