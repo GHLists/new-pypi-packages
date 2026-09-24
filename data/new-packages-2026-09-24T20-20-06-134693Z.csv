@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T18:36:09Z,rag-aio,0.1.1,,MIT,235173,"rag-aio: asynchronous, modular RAG platform — facade, CLI, and all rag-aio packages in one distribution"
+2026-09-24T19:20:02Z,jazzsamba,0.1.0,Phillip Long,"MIT License Copyright (c) 2026 Phillip Long Permission is hereby granted, free of charge, to any pe…",33839,Python helper for the JazzSAMBA jazz-standards multitrack dataset
+2026-09-24T19:26:18Z,repolens-audit,0.1.0a1,RepoLens contributors,"MIT License Copyright (c) 2026 RepoLens contributors Permission is hereby granted, free of charge,…",422732,Structured security and architecture reviews for any repository
+2026-09-24T19:27:12Z,diag3d,0.2.0,Diag3D contributors,MIT,1710336,"DIAG3D: general machine-learning diagnostics — held-out failure regions, lifecycle findings, frozen-prediction analysis and 3D evidence"
+2026-09-24T19:29:55Z,telekinesis-applications,0.0.1rc5,Telekinesis <support@telekinesis.ai>,LicenseRef-Proprietary,232893,Official applications package for the Telekinesis SDK and APIs.
+2026-09-24T19:30:17Z,oldiron,0.1.0,Paul,MIT,86859,Run local LLMs on the hardware you already have: compatibility doctor and memory planner for llama.cpp on old NVIDIA GPUs and Apple Silicon.
+2026-09-24T19:30:33Z,actshield,0.9.2,ActShield Security Team,Apache-2.0,3226507,Enterprise Security Control Plane SDK for Autonomous and Multi-Agent AI Systems
+2026-09-24T19:31:26Z,polyergalio,0.1.0,"David Graey <graeyband@gmail.com>, Dr Charles Anderson <Chuck.Anderson@colostate.edu>",MIT,377188,"From-scratch machine learning methods -- encoding, supervised learning, and clustering -- built on NumPy and SciPy"
+2026-09-24T19:37:53Z,mq-bridge-connect,0.1.0,,MIT OR Apache-2.0,280426048,Unofficial Redpanda Connect compatibility plugin for mq-bridge
+2026-09-24T19:42:50Z,urlprobe-cli,1.0.0,James Verlander,MIT,8317,Tiny zero-dependency URL health checker: one line per URL with status code and latency
+2026-09-24T19:42:54Z,specimux-cloud,0.1.0,Josh Walker <joshowalker@yahoo.com>,BSD-3-Clause,231227,"Hosted specimux-suite: the uploader, run API, console and compute jobs for sequencing runs in the cloud"
+2026-09-24T19:46:39Z,simpleaudit-studio,0.1.0,,MIT,681147,Production AI model audit platform — one-liner demo mode via uvx
+2026-09-24T19:49:05Z,neurosush,0.3.1,sush <soroushdeimi@gmail.com>,MIT,250661,"Brain-inspired computing on PyTorch: spiking neural networks, Thousand Brains and HTM models, and predictive coding, validated against their mathematics."
+2026-09-24T19:52:10Z,fava-nl2bql,0.1.0,Patrick Ruckstuhl <patrick@ch.tario.org>,MIT,137079,"Fava extension: ask questions about your ledger in plain English, get BQL results"
+2026-09-24T19:56:15Z,log-depth-recurrent-modeling,0.0.1,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",10933,Log Depth Recurrent Modeling
+2026-09-24T19:57:41Z,costperdecade-cli,1.0.0,James Verlander,MIT,10749,"Buy-it-for-life math in the terminal: cost per decade, cost per use, break-even year and a durable-vs-cheap verdict"
+2026-09-24T19:58:45Z,argox,0.2.1,,MIT,9247,"Argox SDK: policy checks + telemetry for any Python agent, via the generic /v1/tool-call API."
+2026-09-24T19:58:51Z,brook-cu12,0.1.0,Giorgio Angelotti <76100950+giorgioangel@users.noreply.github.com>,GPL-3.0-only,71638650,TEASAR skeletonization of 3D label volumes on NVIDIA GPUs
+2026-09-24T20:00:31Z,torch-type-nn,0.1.0.dev0,torch-type-nn contributors,MIT,160420,"type-nn for PyTorch: networks of partition functions (And of Ors) that grow and prune their own width, degree and depth"
+2026-09-24T20:05:18Z,mongomig,0.1.0.dev0,aurosmruti,MIT,67956,Alembic-style schema evolution and migrations for MongoDB.
+2026-09-24T20:05:57Z,goldilocks-core,0.1.0,,BSD-3-Clause,473769,Materials machine learning tools for recommending DFT calculation inputs.
+2026-09-24T20:07:24Z,amzn-agi-verifiers,0.0.0,,,1454,
+2026-09-24T20:07:57Z,visionstyle,0.1.0,Basel Mather <baselmathar@gmail.com>,MIT,8609818,"Beautiful, fully configurable bounding boxes, labels and tracking trails for object detection."
+2026-09-24T20:09:56Z,pulse-viewers,0.1.0,"Magrino Bini <operations@inventzia.com>, Paola Apruzzese <operations@inventzia.com>",AGPL-3.0-or-later OR LicenseRef-Inventzia-Commercial,118726,Desktop viewers over the runs a Pulse application records: browse runs by health and follow a live one as it is written.
+2026-09-24T20:10:16Z,recovery-lab-math,1.0.0,James Verlander,MIT,10058,"Home recovery purchase vs gym drop-in, in the terminal: true heater draw, per-session supplies, amortized hardware, and the break-even frequency"
+2026-09-24T20:10:48Z,proton-camoufox,0.1.0,,,41718,Proton Mail browser automation with Camoufox
+2026-09-24T20:11:02Z,gha-cache-auditor,0.1.3,,Apache-2.0,69029,Conservative static analysis of GitHub Actions cache invalidation
+2026-09-24T20:16:23Z,dualmesh-multiphysics,0.1.0,dualmesh developers,LGPL-2.1-or-later,19270786,"A multiphysics framework for heat transfer, solid mechanics and fluid dynamics, by finite elements, finite volumes and the dual mesh control domain method"
+2026-09-24T20:18:52Z,sortnest,0.1.0,,MIT,9263,"Tidy a folder by file type, with preview and undo."
