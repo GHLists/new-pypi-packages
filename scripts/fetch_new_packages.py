@@ -11,6 +11,7 @@ the next run can resume without losing records.
 import argparse
 import csv
 import datetime as dt
+import http.client
 import json
 import os
 import re
@@ -75,6 +76,15 @@ def timestamp_filename(moment):
     return stamp + "Z"
 
 
+TRANSIENT_ERRORS = (
+    urllib.error.URLError,
+    TimeoutError,
+    json.JSONDecodeError,
+    http.client.HTTPException,
+    OSError,
+)
+
+
 def fetch_json(url, user_agent, retries=3, backoff=5.0):
     last_error = None
     for attempt in range(1, retries + 1):
@@ -89,7 +99,7 @@ def fetch_json(url, user_agent, retries=3, backoff=5.0):
             if error.code == 404:
                 raise NotFound(url) from error
             last_error = error
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as error:
+        except TRANSIENT_ERRORS as error:
             last_error = error
         if attempt < retries:
             print(f"attempt {attempt} failed ({last_error}), retrying", file=sys.stderr)
@@ -108,7 +118,12 @@ def call_changelog(proxy, serial, retries=3, backoff=5.0):
     for attempt in range(1, retries + 1):
         try:
             return proxy.changelog_since_serial(serial)
-        except (xmlrpc.client.Error, OSError, TimeoutError) as error:
+        except (
+            xmlrpc.client.Error,
+            OSError,
+            TimeoutError,
+            http.client.HTTPException,
+        ) as error:
             last_error = error
         if attempt < retries:
             print(f"attempt {attempt} failed ({last_error}), retrying", file=sys.stderr)
@@ -243,6 +258,18 @@ def save_manifest(path, manifest):
     text = json.dumps(manifest, indent=2, sort_keys=True, ensure_ascii=False) + "\n"
     temporary.write_text(text, encoding="utf-8")
     os.replace(temporary, manifest_path)
+
+
+def serialize_pending(pending):
+    return [
+        {
+            "package": name,
+            "created_at": iso(pending[name]["created"]),
+            "since": iso(pending[name]["since"]),
+            "attempts": pending[name]["attempts"],
+        }
+        for name in sorted(pending)
+    ]
 
 
 def load_pending(manifest):
@@ -387,17 +414,9 @@ def main(argv=None):
 
     manifest["serial"] = end_serial
     manifest["source_truncated"] = not exhausted
+    manifest["pending"] = serialize_pending(pending)
     if not exhausted:
         manifest["window"] = iso(since)
-        manifest["pending"] = [
-            {
-                "package": name,
-                "created_at": iso(pending[name]["created"]),
-                "since": iso(pending[name]["since"]),
-                "attempts": pending[name]["attempts"],
-            }
-            for name in sorted(pending)
-        ]
         save_manifest(args.manifest, manifest)
         print(
             "PyPI changelog reached its page limit; candidates were persisted "
@@ -405,6 +424,8 @@ def main(argv=None):
             file=sys.stderr,
         )
         return 0
+
+    save_manifest(args.manifest, manifest)
 
     candidates = sorted(pending)
     eligible = [name for name in candidates if pending[name]["created"] <= until]
@@ -450,15 +471,7 @@ def main(argv=None):
 
     manifest["window"] = iso(until)
     manifest["source_truncated"] = False
-    manifest["pending"] = [
-        {
-            "package": name,
-            "created_at": iso(next_pending[name]["created"]),
-            "since": iso(next_pending[name]["since"]),
-            "attempts": next_pending[name]["attempts"],
-        }
-        for name in sorted(next_pending)
-    ]
+    manifest["pending"] = serialize_pending(next_pending)
     if rows:
         output = Path(args.output_dir) / f"new-packages-{timestamp_filename(until)}.csv"
         write_csv(output, rows)
