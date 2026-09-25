@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T04:19:53Z,pafer,0.9.7,werson <werson.tech@gmail.com>,MIT,20843,Regex-based HTML parsing.
+2026-09-25T04:20:57Z,fengtang,0.1.0,FengTang Contributors,GPL-3.0-or-later,181520,"Pure-Python command-line mail client: SMTP/IMAP/POP3, all mainstream auth (incl. Thunderbird-style OAuth2 for Gmail/Outlook), built-in mail server, agent tool API"
+2026-09-25T04:28:53Z,multicloud-py-docstore,0.1.6,,Apache-2.0,32776,Cloud-agnostic document store client for the python-multicloud SDK. Pair with a provider package (multicloud-docstore-aws) for actual cloud calls.
+2026-09-25T04:28:53Z,multicloud-py-docstore-aws,0.1.6,,Apache-2.0,31098,AWS DynamoDB provider for multicloud-docstore.
+2026-09-25T04:28:55Z,multicloud-py-blob-alibaba,0.1.6,,Apache-2.0,12400,Alibaba Cloud OSS provider for multicloud-blob (placeholder; implementation pending).
+2026-09-25T04:32:49Z,jev-gc,0.1.0,Adi Gulalkari <adigulalkari825@gmail.com>,MIT,184948,"Real-time OpenTelemetry-based context garbage collection for LLM agents, powered by Jev (TypeSafe AI's System One model)."
+2026-09-25T04:32:59Z,specpro-cli,0.1.0,Wu Wantong,MIT,1024179,"Install specpro's distributed assets into a host project, for one of the supported AI coding agents."
+2026-09-25T04:35:34Z,datasette-otel-prometheus,0.1.0a1,Alex Garcia,Apache-2.0,21978,Serve Datasette's OpenTelemetry metrics on a dedicated port for Prometheus scraping
+2026-09-25T04:37:01Z,breat,0.1.0,Arda,MIT,5522,"Modern, minimalist ve sıfırdan yazılmış Python GUI kütüphanesi"
+2026-09-25T04:37:24Z,spore-net,1.2.0,SPORE,MIT,34405,Живая сеть: конвейер + грибница + дыхание
+2026-09-25T04:37:51Z,ordigovernance-api,0.1.0,,SUL-1.0,31144,"Public protocols, contracts and policy vocabulary of the ordigovernance governance stack"
+2026-09-25T04:41:22Z,akceo,0.1.0,Chris Colinsky <chris@lunarcommand.xyz>,MIT AND Apache-2.0 AND BSD-3-Clause AND ISC AND EPL-2.0 AND (MPL-2.0 OR Apache-2.0) AND Unlicense,3403674,Build self-contained HTML slide decks from Markdown.
+2026-09-25T04:43:04Z,creforge,0.1.0,creforge contributors,Apache-2.0,79447,PII-safe synthetic credit bureau data from explicit behavioural rules.
+2026-09-25T04:43:36Z,openmalaria-tools,0.2.0,,GPL-2.0-or-later,9532,Helpers for analysing OpenMalaria output from Python
+2026-09-25T04:44:25Z,ordigovernance-bridges-deepagents,0.1.0,,SUL-1.0,6888,DeepAgents bridge: thin shells over ordigovernance tracked atoms
+2026-09-25T04:44:55Z,summa-client-python,2.0.0,izihawa,MIT,49885,Async Python client for Summa search server
+2026-09-25T04:45:01Z,summa-mal,2.0.0,izihawa,MIT,78519,"Python bindings for the Summa MAL parser (single source of truth, backed by Rust)"
+2026-09-25T04:46:13Z,ordigovernance-bridges-direct,0.1.0,,SUL-1.0,9934,Direct bridge: governed runs without an orchestration framework
+2026-09-25T04:47:51Z,pdf-mint,1.0.1,,MIT,53651,"Local command-line toolkit to inspect, split, extract, delete, reorder, rotate, merge, and compress PDF files"
+2026-09-25T04:47:56Z,ordigovernance-bridges-langgraph,0.1.0,,SUL-1.0,19592,LangChain/LangGraph bridge: thin format-translation shells over ordigovernance tracked atoms
+2026-09-25T04:49:33Z,ordigovernance-gateway,0.1.0,,SUL-1.0,80069,HTTP execution front (write path) of the ordigovernance hot path for remote orchestrators
+2026-09-25T04:50:32Z,ordigovernance-runtime,0.1.0,,SUL-1.0,125460,Mechanism-direct runtime for ordigovernance governance
+2026-09-25T04:51:37Z,ordigovernance-testing,0.1.0,,SUL-1.0,41308,"Golden trace normalization, conformance kit and deterministic mocks for ordigovernance"
+2026-09-25T04:52:15Z,rahul-example-package,0.0.1,Rahul <rahulpoojary2003@gmail.com>,,2658,Package example
+2026-09-25T04:52:22Z,ordigovernance-viewer,0.1.0,,SUL-1.0,2044571,Cold-path viewer: FastAPI routers and dashboard UI for ordigovernance trace evidence
+2026-09-25T04:52:53Z,payloaded,0.0.1,svr-s,MIT,6327,"Transform flat tabular data into nested, hierarchical API payloads with grouping and reconciliation."
+2026-09-25T04:55:26Z,AnlordAbliterator,1.2.0.post1,Anlord Abliterator Development Team,AGPL-3.0-or-later,361469,Anlord Abliterator — automated LLM abliteration and evaluation
+2026-09-25T04:56:20Z,gdcutils,1.0.0,Gustavo Diniz da Corte <gustavodacorte@gmail.com>,,38020,Simple package with utility functions for everyday projects in Python
+2026-09-25T04:57:53Z,kodeus,0.3.0rc1,Kodeus,Apache-2.0,1123279,Declarative SDK for authoring AI agents that run on the Kodeus Runtime
+2026-09-25T04:59:56Z,sim-bridge,0.1.0,grbl-multi contributors,MIT,52422,Bridge G-code firmware simulation to VCD waveform analysis (AVR + STM32)
+2026-09-25T05:00:45Z,nlp-lab-experiments,0.0,,MIT,19912,Notebook-ready NLP lab experiments for Jupyter and Google Colab
+2026-09-25T05:04:54Z,neuralyzer,0.1.0,Sandeep Sirodia,MIT,21265,Make your AI agent forget the secrets it saw. Finds and redacts API keys in Claude Code / Codex transcripts.
+2026-09-25T05:06:11Z,readme-lies,0.1.0,Sandeep Sirodia,MIT,26472,"Your README is lying. Catches docs that reference scripts, files, anchors and symbols that no longer exist."
+2026-09-25T05:06:48Z,homefield,0.2.0,Sandeep Sirodia,MIT,53148,Benchmarks are away games. Rank coding agents on your own repo's git history.
+2026-09-25T05:07:10Z,openbot-mcp,0.1.0.dev0,"""OpenBot.ai"" <hello@openbot.ai>",MIT,13967,"MCP server for OpenBot: robot data audit, training readiness and Catalog tools for AI agents."
+2026-09-25T05:07:31Z,multicloud-py-docstore-gcp-firestore,0.1.6,,Apache-2.0,34960,GCP Firestore provider for multicloud-docstore.
+2026-09-25T05:07:34Z,multicloud-py-iam,0.1.6,,Apache-2.0,24644,Cloud-agnostic IAM identity management client for the python-multicloud SDK. Pair with a provider package (multicloud-iam-aws / -gcp) for actual cloud calls.
+2026-09-25T05:07:36Z,multicloud-py-iam-aws,0.1.6,,Apache-2.0,22182,AWS IAM provider for multicloud-iam.
+2026-09-25T05:07:53Z,auxiscaffold,1.0.1,"Navdeep Singh <navdeep.singh@auxiliobits.com>, Sanya Sachdeva <sanya.sachdeva@auxiliobits.com>",MIT,117673,Generate production-ready MCP server scaffolds from plain-English descriptions using AI
+2026-09-25T05:08:34Z,parallels-pro-mcp-server,0.2.0,Jarod Wong,MIT,137818,"A Model Context Protocol (MCP) server for Parallels Desktop VM automation, lifecycle, execution, snapshots, and screenshots on macOS."
+2026-09-25T05:13:02Z,passrate,0.1.0,Sandeep Sirodia,MIT,21099,"lucky: hyperfine, but for pass rates. Is it better, or did you get lucky?"
+2026-09-25T05:13:25Z,teeth,0.1.0,Sandeep Sirodia,MIT,33239,Your tests are green. Do they bite? Diff-scoped mutation testing for agent-written code.
+2026-09-25T05:13:41Z,shelf-life,0.1.0,Sandeep Sirodia,MIT,39109,How long does your agent code actually survive? Survival analysis on your git history.
+2026-09-25T05:15:11Z,zigotrace-partner,1.2.0,ZigoTrace,MIT,13692,"Client for the ZigoTrace Partner API: send your customers' records, read findings, propose fixes."
+2026-09-25T05:17:00Z,commandertui,1.0.0,Humberto Barchini,MIT,64894,"Dual-pane retro terminal file manager: compare, sync, copy and move folders"
+2026-09-25T05:17:39Z,z-omni-logger,1.3.0,Mhd Zeid Mahfouz <mhd.zeid.mahfouz@gmail.com>,MIT,61237,A pre-configured Python logging package with customizable handlers and configuration.
+2026-09-25T05:18:36Z,miras,0.1.0,Aslan Satary Dizaji,Apache-2.0,155006,"Cultural inheritance, simulated and interrogated: agent-based models of cultural evolution and a check of whether your study design can recover their parameters."
