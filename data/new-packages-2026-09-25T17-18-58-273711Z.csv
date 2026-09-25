@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T16:20:07Z,crownx-decoder,1.0.0,CrownX,,14203,Protobuf raw and AES decoder CLI tool
+2026-09-25T16:21:31Z,fiducial-check,0.1.0,,MIT,242679,"The reference mark a measurement is aligned against. Static checks for numbers that claim to be measured: bare literals with no provenance, names that contradict their contents, declared keys nothing…"
+2026-09-25T16:23:23Z,stokes,0.2.0,yvliet,MIT,16622,Autonomous cross-boundary systems invariant verification engine built on IBM Bob 2.0
+2026-09-25T16:26:34Z,plat-harness,0.1.0,paintbrush,Apache-2.0,857203,Agent-agnostic control plane for multifamily underwriting and ops. The model is rented.
+2026-09-25T16:26:58Z,nievah-edge,1.43.109,Magma Moose <support@magmamoose.com>,LicenseRef-Proprietary,56935,"Nievah's webhook front door: verify a GitHub delivery, park it durably, answer inside GitHub's budget."
+2026-09-25T16:29:36Z,plat-costmodel,0.1.0,paintbrush,Apache-2.0,239326,"Multifamily renovation cost estimation engine: line-item estimates, SOW generation, contractor bid evaluation, and ROI gating"
+2026-09-25T16:30:18Z,plat-multifamily-underwriting,0.1.0,paintbrush,Apache-2.0,706677,"Deterministic multifamily underwriting engine: rent roll and T12 ingestion, schema-validated deals, monthly cashflow and waterfall math, and statute-cited property tax regimes"
+2026-09-25T16:34:54Z,databricks-agentbricks,0.2.0,Databricks <agent-feedback@databricks.com>,,720989,Agent Bricks CLI and AgentKit SDK for custom agents on Databricks
+2026-09-25T16:35:52Z,notesmgr,0.1.0,Tom Björkholm,MIT,177009,Manager for small notes and AI prompts.
+2026-09-25T16:35:55Z,ko-tasks-sdk,1.0.0,"""Komus.ai"" <codir@komus.ai>",MIT,414559,"Python SDK for Komus Tasks — define, test, and deploy task workflows"
+2026-09-25T16:37:57Z,ko-tasks-server,1.0.1,"""Komus.ai"" <codir@komus.ai>",MIT,1319478,"Komus Tasks server — deploy, schedule, and manage task workflows with a web UI, webhooks, and REST API"
+2026-09-25T16:37:58Z,monarch-money-mcp-cli,0.1.0,simplemind,MIT,63102,"Read-only Monarch Money MCP server and CLI. Pull accounts, transactions, cash flow, spending and income into Claude or your terminal. Zero dependencies, token in the macOS Keychain."
+2026-09-25T16:38:03Z,deepagents-sbx,0.1.0,restuhaqza,MIT,46451,Docker Sandboxes (sbx) microVM sandbox backend for Deep Agents
+2026-09-25T16:44:53Z,boota-api,1.0.1,Boota Team,,6099,Official Python SDK and Latency Benchmarking Client for Boota Platform
+2026-09-25T16:45:13Z,minizinc-mcp,0.1.0,carban,MIT,21238,MCP server that exposes MiniZinc constraint solving to LLM clients
+2026-09-25T16:47:22Z,pyzapp-sdk,0.1.0,,MIT,10384,Elegant Python client for the PyZapp WhatsApp API. No Node.js required.
+2026-09-25T16:49:00Z,inwards,0.0.0,,MIT,4222,"Inwards, an architecture linter for Python that keeps AI coding agents inside your layers. Early placeholder: the linter is not released yet."
+2026-09-25T16:50:16Z,sycm,0.1.1,trassert,,4841,Simple YAML Config Manager
+2026-09-25T16:50:32Z,liteql,0.1.0,James <git@jamesisboredcoding.com>,MIT,28163,Lightweight SQL wrapper for SQLite and MySQL
+2026-09-25T16:50:51Z,invisible-selenium,0.1.0,feder-cr <85809106+feder-cr@users.noreply.github.com>,MIT AND Apache-2.0,601280,Selenium's API for a patched Firefox with a deterministic stealth profile.
+2026-09-25T16:51:06Z,invisible-puppeteer,0.1.0,feder-cr <85809106+feder-cr@users.noreply.github.com>,MIT AND Apache-2.0,568023,pyppeteer's API for a patched Firefox with a deterministic stealth profile.
+2026-09-25T16:52:07Z,gait-sdk,0.5.0,Anthony Narine,MIT,122158,"Official Python SDK for Gait: verify Gait identities (local JWKS or introspection) in Django and FastAPI, with live session checks, application identity, and security signals."
+2026-09-25T16:52:56Z,castor-client,0.7.0a1,Substratum Labs,Apache-2.0,21783,Typed client for Castor OS AISA v0.1 Unix-domain socket IPC
+2026-09-25T16:53:28Z,plone.recipe.vinylcache,9.0.3.0,"Wichert Akkerman, et al",BSD,112486,Build and/or configure Vinyl Cache (formerly Varnish Cache) with zc.buildout
+2026-09-25T16:54:04Z,tranchepay,0.1.0,tranchepay contributors,MIT,88355,"Payment composition for Razorpay: exact, with-charges, and split-tranche orders around your own client instance."
+2026-09-25T16:56:44Z,fpl-context-mcp,0.4.0,Shubham Banthia <sbanthia92@gmail.com>,MIT,90049,"MCP server that gives Claude Fantasy Premier League stats and press/injury news search, with ingestion jobs that keep PostgreSQL and Pinecone up to date."
+2026-09-25T16:56:49Z,autonima,0.1.0,Alejandro de la Vega,MIT,399241,LLM-powered automated systematic review and meta-analysis
+2026-09-25T16:58:41Z,ezfast,0.1.0,hhglory,,2027,Add your description here
+2026-09-25T16:59:47Z,iantirta-audio,0.1.0,"""Iantirta.com"" <ian@iantirta.com>",Apache-2.0,17575,Reusable media downloading and metadata utilities for Python
+2026-09-25T17:00:40Z,ezstd,0.1.0,hhglory,,2011,Add your description here
+2026-09-25T17:00:46Z,xiapl,0.1.0,Xiang,MIT,5799913,Fast Texas Hold'em / PLO equity and hand-evaluation library (C++ core)
+2026-09-25T17:03:14Z,langchain-withruntime,0.1.0,Runtime LLC,Apache-2.0,25607,Runtime sandbox integration for Deep Agents
+2026-09-25T17:05:04Z,erc20-balance,0.1.0,ustas-eth,MIT,259668,Interactive ERC-20 and native balances with explicit RPC selection
+2026-09-25T17:05:33Z,hugpy-platform,0.2.0a0,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,55613,"Hugpy platform: stdlib-first foundation shared by every Hugpy package (env-backed configuration, app dirs, hardware and process probes, central URL, pydantic compatibility shim)"
+2026-09-25T17:05:40Z,hugpy-server,0.2.0a0,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,1684020,"Hugpy server: the Flask composition root with routes, auth, SSE, API keys and the built web console; wires fleet placement, task plugins and oracle hooks"
+2026-09-25T17:05:42Z,hugpy-storage,0.2.0a0,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,177019,"Hugpy storage: model download queue and daemon, Hugging Face transport and token, resumable transfers, model sync, physical inventory and on-disk model layout"
+2026-09-25T17:05:49Z,hugpy-tools,0.2.0a0,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,32911,"Hugpy tools: a slim, stdlib-only capability suite for autonomous agents (safe file/path ops, text chunking and diffing, hashing, structured-data read/write, and urllib+html.parser webpage assessment)"
+2026-09-25T17:07:00Z,leakgate,0.1.0,,MIT,67475,"Pre-publish gate for secrets, Korean PII, local paths and private project terms in repos and AI-agent transcripts."
+2026-09-25T17:08:12Z,pyrrho,0.2.1,Marcos Morris,MIT,181281,"Adversarial review of Terraform plans: what the plan really does, and what it newly exposes"
+2026-09-25T17:08:28Z,strayform,0.1.0,Marck Morris,Apache-2.0,38944,Find Google Cloud resources created outside Terraform (ClickOps) and generate import blocks to adopt them.
+2026-09-25T17:08:47Z,tfminder,0.1.0,Marck Morris,Apache-2.0,73921,"Let AI agents plan and apply Terraform safely: risk review, policy gates, human approval and a tamper-evident audit log, exposed as an MCP server."
+2026-09-25T17:09:31Z,apisense,0.1.0,APISense Team <info@apisense.co.in>,"MIT License Copyright (c) 2026 APISense Permission is hereby granted, free of charge, to any person…",37993,"Lightweight, privacy-first API observability Python SDK"
+2026-09-25T17:12:05Z,clasp-link,0.0.1,Paul Gurney <paul.gurney@gmail.com>,MIT,2678,CLASP: privacy-preserving record linkage through independent custodians. Placeholder release; the client library is coming.
+2026-09-25T17:14:19Z,simple-logger-RI,0.0.1,Reactor Interactive <reactor645zakelijk@gmail.com>,MIT,5459,Small package that can help with logging files to the terminal or .txt files.
+2026-09-25T17:14:59Z,bpp-format,0.3.0,Furkan,MIT,78229,"A token-efficient text format for feeding structured data and plans to LLMs, with a lossless JSON/YAML/CSV converter."
+2026-09-25T17:15:47Z,robo-html,0.1.0,,,3779,Reusable HTML report rendering utilities for automation projects
+2026-09-25T17:15:57Z,pyramid-deferred-sqla,0.0.0,Your Name <you@example.com>,,2680,Dummy pyramid-deferred-sqla package for PyPI
+2026-09-25T17:16:04Z,halter,0.0.1,Eliza H,AGPL-3.0-or-later,26176,"Halt, there are problems with this. An audit gate for code changes. Placeholder release."
+2026-09-25T17:17:03Z,nommo-fingerprint,0.1.0,,,14673,"Create, register, and verify Nommo fingerprints"
+2026-09-25T17:18:25Z,streepjescode,1.0.0,Philipp Hagemeister,MIT,20038,Generate nicely formatted barcodes (UPC-A and EAN)
