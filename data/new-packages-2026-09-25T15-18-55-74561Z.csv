@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T13:14:52Z,multimodal-uncertainty,0.1.0a1,Multimodal UQ Contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",159463,End-to-End Uncertainty Quantification for Multimodal Agent & Structured Extraction Pipelines
+2026-09-25T14:19:46Z,sparkdb,1.1.0,Bommireddy Venkata Dheeraj Reddy <bommireddyvenkatadheerajreddy@gmail.com>,BSD-3-Clause,113257,Fast GraphBLAS Sparse Linear Algebra Graph Database (Clean-Room / Zero-SSPL)
+2026-09-25T14:21:06Z,user-registration-fastapi,0.1.1,,,4883,FastAPI adapter for user-registration.
+2026-09-25T14:21:33Z,open-ace-server,2.0.1,Open ACE Team,Apache-2.0,4258102,Self-hosted enterprise AI workspace and governance platform
+2026-09-25T14:22:24Z,papers2zim,1.0.0,openZIM <dev@openzim.org>,GPL-3.0-or-later,18488820,Build offline ZIM libraries from supported book sources
+2026-09-25T14:23:50Z,user-registration-sqlalchemy,0.1.1,,,5369,SQLAlchemy adapter for user-registration.
+2026-09-25T14:24:25Z,arc56-generated-compx-e5c743b4,1.2.2026072010,compx-labs,,26025,Generated ARC-56 Algorand smart-contract clients for compx-labs/governance-contracts.
+2026-09-25T14:25:29Z,arc56-generated-compx-4c9e51ed,1.2.2026072010,compx-labs,,75220,Generated ARC-56 Algorand smart-contract clients for compx-labs/staking-contracts.
+2026-09-25T14:25:35Z,loki-guardrails,0.1.2,Bryan,MIT,279166,Deterministic guardrails for AI coding agents: blocks unsafe edits before they land
+2026-09-25T14:26:33Z,arc56-generated-compx-b9939942,1.2.2026072010,compx-labs,,24192,Generated ARC-56 Algorand smart-contract clients for compx-labs/staking-contracts-typescript.
+2026-09-25T14:26:57Z,vibey-engine,2.0.0,,MIT,14891447,"A queue-based, six-phase conductor with optional visual design and Azure deployment."
+2026-09-25T14:27:38Z,arc56-generated-compx-021f310a,1.2.2026072010,compx-labs,,54412,Generated ARC-56 Algorand smart-contract clients for compx-labs/waypoint.
+2026-09-25T14:31:24Z,awp-python,0.1.0a1,Hyperduality,Apache-2.0,273516,Agent World Protocol client protocol layer and reference world for Python.
+2026-09-25T14:31:32Z,awp-conformance,0.1.0a1,Hyperduality,Apache-2.0,295062,Conformance suite for the Agent World Protocol: tests any world or agent against the requirement matrix.
+2026-09-25T14:32:17Z,audiveris-py,0.1.1,,AGPL-3.0-or-later,130218,Python wrapper around the Audiveris CLI for converting PDF/image scores to MusicXML
+2026-09-25T14:33:41Z,imswitch2,0.2.0,Xavier Casas Moreno,,51646292,Microscopy control
+2026-09-25T14:37:30Z,settingspec,0.1.0,,,28510,
+2026-09-25T14:37:52Z,initium-deeplearning,0.1.0,samueleternity,GPL-3.0,417947,"Differentiable Neural Computer research framework with pluggable LSTM/Mamba/CfC controllers, MoE, split-graph and stochastic write heads."
+2026-09-25T14:39:18Z,openaiot-mcp,0.0.1,,Apache-2.0,3655,Open AIoT (开放AIoT) MCP Server — the open standard interface between AI and physical devices. Namespace placeholder; source at github.com/Open-AIoT/mcp.
+2026-09-25T14:39:35Z,tokmd,1.0.0,Fabián Ferdgelis,Apache-2.0,21791,"Count tokens per section of a Markdown file, with the right tokenizer for your target platform (Claude, OpenAI, and more)."
+2026-09-25T14:39:41Z,memtether,0.1.0a7,MemTether Contributors,Apache-2.0,895608,"Cross-client memory hub for AI agents — one physical memory, many clients"
+2026-09-25T14:40:24Z,mozgeckoprofiler,1.0.0,Mozilla Automation and Tools team,MPL,15998,Library to generate and view performance data in the Firefox Profiler
+2026-09-25T14:41:00Z,mozserve,0.1,,MPL,8249,Python test server launcher intended for use with Mozilla testing
+2026-09-25T14:41:34Z,mozscreenshot,1.0.0,Mozilla Automation and Tools team,MPL,6651,Library for taking screenshots in tests harness
+2026-09-25T14:41:36Z,baoanh-toanhoc,0.1.0,Nghiem bao anh,,3256,Thư viện toán học cơ bản
+2026-09-25T14:45:04Z,readystack-vsix-publish-lint,1.0.6,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,36266,Find the package.json lines that stop vsce before you run the release build (bundled Node.js runtime)
+2026-09-25T14:45:22Z,readystack-maven-central-publish-gate,1.0.3,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,32625,"Read a pom.xml the way the Central Portal reads it, before you burn a release tag (bundled Node.js runtime)"
+2026-09-25T14:45:39Z,readystack-einvoice-mandate-lint,1.0.6,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,42331,Lints UBL and CII invoice XML against EN 16931 and the national e-invoicing mandates that are live in 2026 (bundled Node.js runtime)
+2026-09-25T14:45:56Z,readystack-hex-image-audit,1.0.7,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,39929,"Recomputes every checksum in a .hex or .srec image and maps every address it writes, before the image reaches the programmer. (bundled Node.js runtime)"
+2026-09-25T14:49:59Z,seren-hippocampus,0.5.0,Chad Roesler,GPL-3.0-only,87621,"The sleep cycle for SerenMemory: drafts the docket, resubmits on critique, purges what was flagged. The consolidator, split out."
+2026-09-25T14:50:27Z,py-atmos-wg1000,2026.9.0b1,MarPi82 <marpi82.dev@google.com>,MIT,157710,Async client for the ATMOS WG1000 local WebSocket protocol
+2026-09-25T14:51:04Z,ube-foundation,0.1.0,NTI Team,,566158,Neutral Trust Infrastructure (NTI) Python SDK for Post-Quantum Agent Security and Cryptographic Evaluation
+2026-09-25T14:51:22Z,checkedflow,0.1.0,K. Takahashi,Apache-2.0,483945,"Evidence-preserving execution, verification and reuse across independent operators"
+2026-09-25T14:52:05Z,aihub-mcp-client,0.0.1,,Proprietary,2892,"Placeholder. The real package ships from your own AI Projects Hub, not from PyPI."
+2026-09-25T14:52:29Z,queryapigate,0.5.0,Anantha Raju C <arcswdev@gmail.com>,MIT,5319493,"Turn SQL into a REST API: run queries against MySQL, PostgreSQL, ClickHouse, SQLite or H2 over HTTP and get JSON, CSV, XML, YAML or XLSX back."
+2026-09-25T14:52:52Z,antsnormflows,1.0.0,ntustison,Apache-2.0 AND MIT,80011,"PyTorch implementation of normalizing flows (Glow 2D/3D, coupling layers, utilities)"
+2026-09-25T14:53:52Z,vaultsplit,0.1.0,Yakup Delil,"MIT License Copyright (c) 2026 Yakup Delil Permission is hereby granted, free of charge, to any per…",18846,Threshold secret storage with Shamir Secret Sharing and AES-256-GCM
+2026-09-25T14:55:36Z,jevstiller,0.2.0,Tomer Glick,MIT,270155,"Distill a repeated Jev classification task into a local model, on the fly — same answers, your hardware."
+2026-09-25T14:56:32Z,metralectl,0.1.1,,AGPL-3.0-only,27111353,Launch Metrale Engine inference recipes on NVIDIA DGX Spark and other local accelerators.
+2026-09-25T14:58:20Z,rawtree-datahub,0.1.0a1,RawTree,Apache-2.0,254572,Official RawTree metadata source for DataHub
+2026-09-25T15:04:32Z,logsayer,0.6.0,Emilio Javier Aquino <aquinoemiliojavier@gmail.com>,MIT,78977,"CLI que extiende el patron spec-driven con estado, bitacora y verificacion continua de que lo construido sigue siendo lo especificado."
+2026-09-25T15:04:46Z,cavecode,1.0.0,CaveCode,GNU Affero General Public License v3,97813,CaveCode: AST-Aware High-Density Source-Code Compressor for AI Coding Agents
+2026-09-25T15:05:49Z,biorazer,0.9.3,Fanlin Wang,MIT,4258753,A platform for analyzing various biological information
+2026-09-25T15:06:55Z,flahax,0.1.0,Flaha,LicenseRef-Flaha-Free-Use,30455,Choose fertilizer salts and weights that minimize crop-formula percentage error.
+2026-09-25T15:07:55Z,deontic,0.1.0,Mikko Ahonen,MIT,47324,"A constraint language for obligation, permission and prohibition"
+2026-09-25T15:10:50Z,refractal,0.1.0a1,Nalin Raut,Apache-2.0,570037,Scene-coherent placement and paired comparison for policy evaluation
+2026-09-25T15:12:26Z,pyknf,0.3.0,,MIT,3150151,Merge layered JSON and TOML configuration files into a dict
+2026-09-25T15:15:26Z,incy-crypto-link,1.2.0,INCY <main@incy.cc>,MIT,27969,Encode subscription URLs into incy://crypt1/<payload> deep links (Python port of @incy/link-encoder). AES-256-GCM with a key shared with the INCY iOS/Android/Desktop clients.
+2026-09-25T15:18:42Z,seowebchecker-seoaudit-sdk,1.0.0,SEOWebChecker Team <support@seowebchecker.com>,MIT,68323,"Lightweight open-source client SDK and CLI tool for full website SEO audits, Core Web Vitals checks, and on-page optimization by SEOWebChecker."
