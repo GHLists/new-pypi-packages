@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T07:20:49Z,pyheimdall-grist,0.3.0,Régis Witz <regis.witz@cnrs.fr>,aGPL,35233,Grist connector for pyHeimdall
+2026-09-25T07:21:33Z,titanrag,0.1.0,,,42946,Official Python SDK & CLI for TitanRAG Enterprise Platform
+2026-09-25T07:23:44Z,rjdevelopers-test-forevery-authentication-with-love-for-jyoshna,0.1.1,rahul,,29644,
+2026-09-25T07:26:00Z,openai-agents-zambo,0.1.0,Brennan Zambo,,11695,"Zambo's 100+ tools for the OpenAI Agents SDK, with a verifiable receipt on every call."
+2026-09-25T07:29:27Z,elliprof,0.1.0,"""Ehsan Kourkchi (Edwin Kay)"" <ekourkchi@gmail.com>",MIT,16066469,Fit elliptical isophotes to astronomical FITS images (ELLIPROF)
+2026-09-25T07:33:51Z,rabbit-fem,2026.9.2,scepticalrabbit (Lloyd Fletcher),LGPL-2.1,78691517,A lightweight MOOSE distribution packaging thermal and solid mechanics
+2026-09-25T07:36:02Z,odoo-addon-l10n-jp-kana,19.0.1.0.0.2,"Quartile, Odoo Community Association (OCA)",LGPL-3,40527,"Normalized kana readings for any model, and their format setting"
+2026-09-25T07:38:07Z,ucci-router,0.1.0,Varun Kotte,MIT,693434,"UCCI: calibrated uncertainty for cost-optimal LLM cascade routing (token-margin signal, isotonic calibration, constrained threshold selection)"
+2026-09-25T07:49:02Z,lazaret,0.0.1,,Apache-2.0,326090,"Static security, supply-chain and quality analysis for Python, JavaScript and SQL"
+2026-09-25T07:49:03Z,company-common,1.0.0,,,2636,Shared python components
+2026-09-25T07:56:32Z,templexl,0.1.0,Bryson Xue,MIT,192554,An Excel template reporting engine built on openpyxl — use an Excel file as the template and render your data into a report.
+2026-09-25T07:57:05Z,textrieve,1.2.1,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",59154,"Free, fully-open image & PDF-to-text (OCR). CLI, REST API, and a clean web UI."
+2026-09-25T08:00:06Z,nova-data-ai-skylab,0.1.1,,ISC,10683,Fetch and render SkyLab prompts at runtime
+2026-09-25T08:06:55Z,gst-plugin-iceoryx2,0.0.3,Nathan Michlo <nathanjmichlo@gmail.com>,MIT,4403612,GStreamer iceoryx2sink/iceoryx2src: move video frames zero-copy through iceoryx2 shared memory
+2026-09-25T08:09:10Z,driftfdr,0.1.0,Artem Deviatov,Apache-2.0,155699,Calibrated p-values and multiplicity control on top of practical drift detectors for monitoring fleets of ML models
+2026-09-25T08:14:40Z,vit-xray,0.1.0,Mike Degany <mike.degany@unt.edu>,MIT,56368,Look inside any vision transformer backbone in one command.
+2026-09-25T08:15:13Z,timu,0.2.0,Shakeeb Alireza,MIT,161742,A team of specialised LLM agents with role-scoped tools
+2026-09-25T08:16:20Z,joblogic-automation-services,0.1.0,,MIT,92219,Reusable SDK for Joblogic automation projects
+2026-09-25T08:17:03Z,quangdat,0.1.0,Quang Dat,MIT,4340,"Thu vien Python cho phep cong, tru, nhan, chia"
+2026-09-25T08:18:30Z,rightsize,0.0.1,Anup Das,Apache-2.0,30290,"Quantize and fit any model to your hardware: pick a model, pick your hardware, get a runnable quantized plan."
