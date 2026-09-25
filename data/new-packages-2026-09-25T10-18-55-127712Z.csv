@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T08:52:36Z,mistralai-otel-observability,0.2.0rc1,Mistral AI <support@mistral.ai>,Apache-2.0,154044,OTLP-first Mistral AI observability SDK
+2026-09-25T09:22:03Z,fly-instinct,0.1.0,roblitz,MIT,16725,"Instinct Engine: a frozen, non-learning 'instinct' signal source driven by a real fruit-fly (MaleCNS) connectome"
+2026-09-25T09:24:44Z,qldpc-certificate-benchmark,0.1.0,Michele Banfi <michi.banfi01@gmail.com>,MIT,149358,"Certified maximum-likelihood benchmarking of quantum error-correction decoders: prove, shot by shot, whether ML decoding succeeds."
+2026-09-25T09:25:11Z,natlas,0.1.0,OneDev Studioo,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",71333,"Python SDK for N-ATLaS, Nigeria's sovereign multilingual LLM (Hausa, Igbo, Yoruba, Nigerian English) and its ASR models."
+2026-09-25T09:29:21Z,srift,4.0.0.post1,SRIFT,MIT License Copyright (c) 2024-2026 SRIFT (Sripto Corporation Private Limited) https://srift.app Pe…,1779749,"Zero-config, end-to-end encrypted peer-to-peer file transfer CLI and MCP server for AI agents (Claude, Cursor, Windsurf, Continue, Zed) — runs the official Node.js CLI via a bundled Node.js runtime,…"
+2026-09-25T09:31:22Z,tracelite,0.1.9,Nikhil Pandey <nikhilpandey759@gmail.com>,MIT,14586,Lightweight LLM observability SDK with vector semantic caching using pgvector & Redis.
+2026-09-25T09:32:42Z,cybersecurity-browser-extension-agent,1.1.1,Yap Zheng Xian,MIT,81827,Local phishing-detection agent for the Cybersecurity Browser Extension (Chrome)
+2026-09-25T09:32:49Z,django-no,1.0.0,Basil Shubin <basil.shubin@gmail.com>,MIT,61377,Reusable Django app that gives you a reason to say no
+2026-09-25T09:32:55Z,django-tolap,0.1.0,Sharukh Hasan,Apache-2.0,71528,TOLAP policies managed in Django admin and enforced on your QuerySets
+2026-09-25T09:32:57Z,sqlalchemy-tolap,0.1.0,Sharukh Hasan,Apache-2.0,31785,TOLAP policies enforced on SQLAlchemy Select statements with ORM-native pushdown
+2026-09-25T09:33:12Z,webcam-push-service,0.1.0,Ales Adamek <alda78@seznam.cz>,GPL-3.0-or-later,56546,
+2026-09-25T09:33:59Z,free-claude-code,6.2.64,,AGPL-3.0-only,5207280,Local proxy connecting coding agents to OpenAI-compatible AI providers
+2026-09-25T09:34:18Z,PyMSDump,0.1.1,YujieLiu,,2019547,A parser for Materials Studio .trj format
+2026-09-25T09:35:16Z,protom,0.0.1,Protomolecular,MIT,4394,Early-stage Protom package. No stable API yet.
+2026-09-25T09:35:44Z,sqlodin,0.6.0,"Vikrant Rathore, Ronak Rathore",MIT,62724,"A small, explicit Python client for SQLodin's durable multi-master SQL service"
+2026-09-25T09:36:37Z,code-painter,1.0.0,weigang,# 免责声明 * 本项目的代码和资料来源于多方面的信息和知识，作者已尽力确保其准确性和完整性。然而，由于人为因素或其他不可抗力因素，本项目无法保证其内容的完全准确性和及时性。 使用者应该自行验证和核…,2626903,神笔码靓，意如其神笔般神奇，融合代码与艺术魅力，呈现靓丽精彩绘图效果。如神笔马良般，能使虚拟创作成实体物件，让作品跃然纸上，生动呈现世人眼前。
+2026-09-25T09:37:22Z,nano-jev,0.1.0,Subham,Apache-2.0,47870,"Tiny calibrated typed-decision model for RAG pipelines: relevance, sufficiency, groundedness"
+2026-09-25T09:41:29Z,hyperscale-trust,0.1.0,Andy Caine,MIT,43067,"Trust center for Hyperscale Django apps: public policy claims, a questionnaire CSV and a private evidence pack"
+2026-09-25T09:44:12Z,westquant-core,0.2.0a1,WestQuant Open / David Vesterlund,Apache-2.0,30168,"Core representation contracts, WQIR and RepGraph for WestQuant Open"
+2026-09-25T09:45:28Z,westquant-pytket,0.1.0a1,,Apache-2.0,19064,Sequential representation search for pytket compiler passes and mappings
+2026-09-25T09:45:31Z,westquant-qiskit,0.1.0a3,WestQuant Open / David Vesterlund,Apache-2.0,70768,"Deterministic representation search, RepGraph tracing, and WQT-ready data generation for Qiskit"
+2026-09-25T09:46:07Z,open61850-rt,0.3.0,Florent Carli,Apache-2.0,566298,Real-time Sampled Values engine of open61850 (Linux)
+2026-09-25T09:50:58Z,pylinslus-starlette-static,0.1.1,Eunie,MIT,5868,
+2026-09-25T09:52:15Z,simple-chatbot-imaging,0.0.1,,,2200,
+2026-09-25T09:52:25Z,sooth,0.2.1,Naufal Hilmiaji <nhilmiaji@gmail.com>,MIT,40695,Verify AI-generated text against source material. Claim-by-claim trust reports powered by Jev (TypeSafe System One).
+2026-09-25T09:59:12Z,lytk,0.1.0,Matteo Spanio <spanio@dei.unipd.it>,MIT,23300546,"Fast music-notation conversion and augmentation: LilyPond, MusicXML/MXL, MIDI, and ABC through a shared IR, with ML representations."
+2026-09-25T09:59:23Z,melody-flwr,0.0.1,James Friel <jfriel001@dundee.ac.uk>,,11877,A CLI wrapper for the Flower (flwr) framework
+2026-09-25T09:59:24Z,neurones3d,0.0.1,Florent Poux <howto@learngeodata.eu>,LicenseRef-Proprietary,5086,Neurones 3D (N3D): the Python package of the Neurones 3D point cloud engine. This first release reserves the name and points to the SDK.
+2026-09-25T10:00:07Z,griot,0.0.3,Thor Whalen,MIT,181880,Research a subject and write a spoken commentary script for it — reusable writers for braidio productions
+2026-09-25T10:02:09Z,irispie-re,0.0.0,Jaromir Benes <jaromir.benes@gmail.com>,OGResearch Registered License 1.0,2381,IrisPie Registered Edition — not distributed through PyPI (reserved name)
+2026-09-25T10:02:10Z,irispie-pe,0.0.0,Jaromir Benes <jaromir.benes@gmail.com>,OGResearch Private License 1.0,2474,IrisPie Private Edition — not distributed through PyPI (reserved name)
+2026-09-25T10:04:54Z,westquant-pennylane,0.1.0a1,,Apache-2.0,22033,Sequential transform and operator representation search for PennyLane
+2026-09-25T10:04:58Z,westquant-pulser,0.1.0a1,,Apache-2.0,19747,Neutral-atom layout and control representation search for Pulser
+2026-09-25T10:05:02Z,westquant-orchestrator,0.1.0a1,,Apache-2.0,21499,"Cross-framework orchestration, trace normalization, and evaluation for WestQuant Open"
+2026-09-25T10:08:57Z,westquant-bridges,0.1.0a1,,Apache-2.0,29685,Experimental framework and IR bridges for WestQuant Open
+2026-09-25T10:09:04Z,westquant,0.1.0a1,WestQuant Open / David Vesterlund,Apache-2.0,12189,"WestQuant Open — Search the representation, not just the parameters"
+2026-09-25T10:09:20Z,attaviz,0.1.0,,MPL-2.0,67942,Publication-ready World Bank Group charts and maps for Altair
+2026-09-25T10:10:18Z,aicorpusx,0.1.0,FENG YIFAN <yifan.f.academic@icloud.com>,MIT,33991,"Resumable, multi-key translation for CSV and XLSX corpora."
+2026-09-25T10:15:50Z,unsiload-apimatic-sdk,0.0.1,Muhammad Rafay,MIT,403292,Sample SDKs for Unsiload by APIMatic
+2026-09-25T10:18:37Z,llm-analyzer,0.1.0,Pabolu Venkata Subrahmanya Dheeraj,MIT,40595,"Universal, provider-agnostic local LLM response analyzer with SQLite storage and a local dashboard."
