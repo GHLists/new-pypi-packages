@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T00:20:37Z,arispec,0.0.1,"""Matthew C. Tedder"" <matthewct@gmail.com>",Apache-2.0,13275,Anchor-relative identification: declarative extraction from irregular text and grids
+2026-09-25T00:20:38Z,finio,0.0.1,"""Matthew C. Tedder"" <matthewct@gmail.com>",Apache-2.0,13015,"A financial adapter framework: payment and statement formats, with provenance"
+2026-09-25T00:25:00Z,openglass-sdk,0.1.0,OpenGlass,MIT,41387,"Official Python client for OpenGlass — register agents, run witnessed sessions, and independently verify signed records."
+2026-09-25T00:25:23Z,altheris,0.1.0,Altheris,MIT,370498,"Runtime security for AI agents — scope enforcement, prompt-injection screening, output redaction, human approvals, cost circuit breakers, honeypots."
+2026-09-25T00:28:29Z,intangiblecapital,2026.9.24,Michael Ewens,MIT,16014,"Load the Ewens, Peters and Wang knowledge and organization capital stocks for Compustat firms."
+2026-09-25T00:29:34Z,pluot_core,0.0.1,Mark Keller,Apache-2.0,14648,Shared utilities used by the pluot and pluot_widget packages
+2026-09-25T00:29:41Z,pluot_widget,0.0.1,Mark Keller,Apache-2.0,14597990,AnyWidget for rendering Pluot visualizations client-side via WebAssembly
+2026-09-25T00:34:11Z,asi-evolve,0.1.1,lordxmen2k <lordxmen2k@users.noreply.github.com>,MIT,444040,"Pythonic wrapper around the ASI_Evolve (arXiv:2603.29640) autonomous evolutionary-search framework. Give it a problem and an evaluator; it runs until it finds a solution. CLI + --serve dashboard, cro…"
+2026-09-25T00:34:23Z,decguard,0.1.1,DecGuard contributors,Apache-2.0,243194,"Test, verify and gate probabilistic AI decision models across interchangeable backends."
+2026-09-25T00:39:14Z,graupel,0.1.0,,GPL-3.0-or-later AND MPL-2.0,5877872,Build customizable meteograms from Open-Meteo forecast data
+2026-09-25T00:48:29Z,user-registration,0.1.0,Md Shamimur Rahman Shuvo,MIT,46610,"Framework-agnostic, extensible user registration for Python applications."
+2026-09-25T00:50:15Z,agentsfence,0.2.0a3,AgentsFence contributors,Apache-2.0,207570,Task-scoped authorization for AI agents: compile user intent into a least-authority policy and enforce it at every tool call. Hermes Agent plugin.
+2026-09-25T00:53:56Z,modpdf,0.1.0,ModPDF contributors,Apache-2.0,726512,"Split, merge, reorder and compress PDFs entirely on your own machine."
+2026-09-25T00:55:33Z,django-formification,1.2.1,Formification Contributors,MIT,872177,A Django app for building custom web forms and collecting submissions.
+2026-09-25T00:58:15Z,oeg-sw-class,0.1.0,,,7922,RDF and RDFS validation for the OEG Semantic Web class assignments
+2026-09-25T00:59:54Z,dichotomise,2.0.0,DIChOtoMise contributors,MIT,110652,"Audit, sort, rectify, and archive DICOM exports from Siemens XA60+ systems."
+2026-09-25T01:08:39Z,aiw-ru,2.0.0rc1,Ilya Lubenets <lubenets.ilya.igorevich@gmail.com>,MIT,252448,"Приметы ИИ-стиля в русском тексте: канцелярит, кальки, шаблонная структура; оценка по фрагментам в духе «Антиплагиата»"
+2026-09-25T01:13:45Z,vt-agent-firewall,0.1.0,Valentín Torassa Colombero,Apache-2.0,64451,"A fail-closed gateway between an AI agent and its tools: normalize, default-deny policy, human approval, append-only audit."
+2026-09-25T01:14:57Z,seccart2,1.0.0,Scott Peterman <scottpeterman@gmail.com>,GPL-3.0-only,7127006,Secure Cartography 2 - SNMP/SSH network discovery and topology mapping
+2026-09-25T01:15:55Z,simforge-oss-gpu,0.0.0,SimForge,Apache-2.0,5580,Name reservation for the SimForge gpu package. The real package starts at 0.2.0.
+2026-09-25T01:15:56Z,simforge-oss-gym,0.0.0,SimForge,Apache-2.0,5586,Name reservation for the SimForge Gymnasium client. The real package starts at 0.2.0.
+2026-09-25T01:15:57Z,simforge-oss-physics,0.0.0,SimForge,Apache-2.0,5628,Name reservation for the SimForge physics package. The real package starts at 0.2.0.
+2026-09-25T01:15:58Z,simforge-oss-render,0.0.0,SimForge,Apache-2.0,5615,Name reservation for the SimForge render package. The real package starts at 0.2.0.

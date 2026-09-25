@@ -8,33 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 00:18 UTC
+## Latest list — 2026-09-25 01:18 UTC
 
-New packages created between 2026-09-24 23:19 UTC and 2026-09-25 00:18 UTC.
+New packages created between 2026-09-25 00:18 UTC and 2026-09-25 01:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-25T00-18-58-557095Z.csv)
+[Full CSV](data/new-packages-2026-09-25T01-18-58-586737Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-24 23:19:51 | [PairMatch](https://pypi.org/project/PairMatch/) | 0.1.1 | Bob Wilson <bob.wilson@convex… | 148.8 kB | Randomization inference for matched pairs with binary outcomes |
-| 2026-09-24 23:20:53 | [strtoolz](https://pypi.org/project/strtoolz/) | 0.0.1 | Alex Willmer | 3.8 kB | Extra string search and manipulation functions |
-| 2026-09-24 23:21:07 | [ga-parallel](https://pypi.org/project/ga-parallel/) | 0.1.1 | Andrea Gemma | 36.2 kB | Pluggable parallel task execution helpers (threading, joblib, dask, ray). |
-| 2026-09-24 23:22:18 | [context-engineering-cli](https://pypi.org/project/context-engineering-cli/) | 2.6.0 |  | 122.3 kB | Portable CLI for Context Engineering analyzers. |
-| 2026-09-24 23:22:27 | [aegis-stack-crawl4ai](https://pypi.org/project/aegis-stack-crawl4ai/) | 0.1.0 | Aegis Stack | 154.1 kB | Web crawling and scraping for Aegis Stack projects, via Crawl4AI |
-| 2026-09-24 23:23:38 | [rayito](https://pypi.org/project/rayito/) | 0.3.0 |  | 710.9 kB | Sandboxes de ejecución para agentes de IA sobre AWS Lambda MicroVMs, en tu prop… |
-| 2026-09-24 23:24:00 | [actrone-memory](https://pypi.org/project/actrone-memory/) | 0.2.0 | Apocalypse Technologies <hell… | 244.7 kB | Production-grade two-tier persistent memory for AI agents: local-first by defau… |
-| 2026-09-24 23:25:00 | [writing-check-cli](https://pypi.org/project/writing-check-cli/) | 1.0.0 | Safurrier | 50.7 kB | Portable source-bound advisory Writing Check with bundled Vale policy. |
-| 2026-09-24 23:25:50 | [newmeasure-cli](https://pypi.org/project/newmeasure-cli/) | 0.1.0 |  | 18.7 kB | NewMeasure eval CLI |
-| 2026-09-24 23:26:20 | [pyflowstep](https://pypi.org/project/pyflowstep/) | 0.1.0 | aaltatan | 44.0 kB | A lightweight, typed Python library for composing functions into readable, reus… |
-| 2026-09-24 23:31:53 | [akasa](https://pypi.org/project/akasa/) | 0.1.1 |  | 71.9 kB | Agnostic Volume Router and Event Bus Substrate. |
-| 2026-09-24 23:34:50 | [walopy](https://pypi.org/project/walopy/) | 0.2.1 | LeoSanta15 <angelsanta1@gmail… | 89.2 kB | Queuing theory, operations analysis, OEE, bottleneck analysis and KPI trees for… |
-| 2026-09-24 23:38:16 | [contractor-lead-scraper](https://pypi.org/project/contractor-lead-scraper/) | 1.0.0 | Abdul Rehman Zubairi (WebSmit… | 19.4 kB | High-speed Google Maps local business scraper with async email crawling and con… |
-| 2026-09-24 23:48:45 | [streak-crm](https://pypi.org/project/streak-crm/) | 0.8.1 |  | 249.4 kB |  |
-| 2026-09-24 23:48:56 | [serigy-jev](https://pypi.org/project/serigy-jev/) | 0.1.0 | Wendell Barreto <wendellbarre… | 99.5 kB | Inference-only PT-BR fake-news classifier (load Hub weights + predict) |
-| 2026-09-24 23:50:17 | [immunis](https://pypi.org/project/immunis/) | 0.1.0 | Mikko Ahonen | 39.2 kB | Find a Python repository's dependency-confusion exposure |
-| 2026-09-25 00:00:39 | [my-private-pkg](https://pypi.org/project/my-private-pkg/) | 99.1.1 | victam | 5.1 kB | A private Python package |
-| 2026-09-25 00:11:09 | [alienplatform](https://pypi.org/project/alienplatform/) | 3.3.24 | "Alien Software, Inc." <hi@al… | 87.4 MB | Typed Python resource bindings for Alien workloads |
-| 2026-09-25 00:11:39 | [mini-tars](https://pypi.org/project/mini-tars/) | 0.0.1 | Breno Henrique Bortoloti Sant… | 97.8 kB | Servidor de memória (MCP) auto-hospedado para assistentes de IA. |
-| 2026-09-25 00:13:54 | [jiayang](https://pypi.org/project/jiayang/) | 0.1.0 | The Jiayang Cloud Authors | 233.6 kB | Verify who is calling your Jiayang Cloud app. |
-| 2026-09-25 00:15:21 | [aiyou-instructor](https://pypi.org/project/aiyou-instructor/) | 1.17.0 | Jason Liu, Ivan Leo | 70.8 MB | structured outputs for llm |
-| 2026-09-25 00:16:38 | [metacheck](https://pypi.org/project/metacheck/) | 0.0.1 | Scienceverse <jakub@jakubwern… | 26.0 kB | Check research outputs for best practices. Placeholder release; the Python pack… |
+| 2026-09-25 00:20:37 | [arispec](https://pypi.org/project/arispec/) | 0.0.1 | "Matthew C. Tedder" <matthewc… | 13.3 kB | Anchor-relative identification: declarative extraction from irregular text and… |
+| 2026-09-25 00:20:38 | [finio](https://pypi.org/project/finio/) | 0.0.1 | "Matthew C. Tedder" <matthewc… | 13.0 kB | A financial adapter framework: payment and statement formats, with provenance |
+| 2026-09-25 00:25:00 | [openglass-sdk](https://pypi.org/project/openglass-sdk/) | 0.1.0 | OpenGlass | 41.4 kB | Official Python client for OpenGlass — register agents, run witnessed sessions,… |
+| 2026-09-25 00:25:23 | [altheris](https://pypi.org/project/altheris/) | 0.1.0 | Altheris | 370.5 kB | Runtime security for AI agents — scope enforcement, prompt-injection screening,… |
+| 2026-09-25 00:28:29 | [intangiblecapital](https://pypi.org/project/intangiblecapital/) | 2026.9.24 | Michael Ewens | 16.0 kB | Load the Ewens, Peters and Wang knowledge and organization capital stocks for C… |
+| 2026-09-25 00:29:34 | [pluot_core](https://pypi.org/project/pluot_core/) | 0.0.1 | Mark Keller | 14.6 kB | Shared utilities used by the pluot and pluot_widget packages |
+| 2026-09-25 00:29:41 | [pluot_widget](https://pypi.org/project/pluot_widget/) | 0.0.1 | Mark Keller | 14.6 MB | AnyWidget for rendering Pluot visualizations client-side via WebAssembly |
+| 2026-09-25 00:34:11 | [asi-evolve](https://pypi.org/project/asi-evolve/) | 0.1.1 | lordxmen2k <lordxmen2k@users.… | 444.0 kB | Pythonic wrapper around the ASI_Evolve (arXiv:2603.29640) autonomous evolutiona… |
+| 2026-09-25 00:34:23 | [decguard](https://pypi.org/project/decguard/) | 0.1.1 | DecGuard contributors | 243.2 kB | Test, verify and gate probabilistic AI decision models across interchangeable b… |
+| 2026-09-25 00:39:14 | [graupel](https://pypi.org/project/graupel/) | 0.1.0 |  | 5.9 MB | Build customizable meteograms from Open-Meteo forecast data |
+| 2026-09-25 00:48:29 | [user-registration](https://pypi.org/project/user-registration/) | 0.1.0 | Md Shamimur Rahman Shuvo | 46.6 kB | Framework-agnostic, extensible user registration for Python applications. |
+| 2026-09-25 00:50:15 | [agentsfence](https://pypi.org/project/agentsfence/) | 0.2.0a3 | AgentsFence contributors | 207.6 kB | Task-scoped authorization for AI agents: compile user intent into a least-autho… |
+| 2026-09-25 00:53:56 | [modpdf](https://pypi.org/project/modpdf/) | 0.1.0 | ModPDF contributors | 726.5 kB | Split, merge, reorder and compress PDFs entirely on your own machine. |
+| 2026-09-25 00:55:33 | [django-formification](https://pypi.org/project/django-formification/) | 1.2.1 | Formification Contributors | 872.2 kB | A Django app for building custom web forms and collecting submissions. |
+| 2026-09-25 00:58:15 | [oeg-sw-class](https://pypi.org/project/oeg-sw-class/) | 0.1.0 |  | 7.9 kB | RDF and RDFS validation for the OEG Semantic Web class assignments |
+| 2026-09-25 00:59:54 | [dichotomise](https://pypi.org/project/dichotomise/) | 2.0.0 | DIChOtoMise contributors | 110.7 kB | Audit, sort, rectify, and archive DICOM exports from Siemens XA60+ systems. |
+| 2026-09-25 01:08:39 | [aiw-ru](https://pypi.org/project/aiw-ru/) | 2.0.0rc1 | Ilya Lubenets <lubenets.ilya.… | 252.4 kB | Приметы ИИ-стиля в русском тексте: канцелярит, кальки, шаблонная структура; оце… |
+| 2026-09-25 01:13:45 | [vt-agent-firewall](https://pypi.org/project/vt-agent-firewall/) | 0.1.0 | Valentín Torassa Colombero | 64.5 kB | A fail-closed gateway between an AI agent and its tools: normalize, default-den… |
+| 2026-09-25 01:14:57 | [seccart2](https://pypi.org/project/seccart2/) | 1.0.0 | Scott Peterman <scottpeterman… | 7.1 MB | Secure Cartography 2 - SNMP/SSH network discovery and topology mapping |
+| 2026-09-25 01:15:55 | [simforge-oss-gpu](https://pypi.org/project/simforge-oss-gpu/) | 0.0.0 | SimForge | 5.6 kB | Name reservation for the SimForge gpu package. The real package starts at 0.2.0. |
+| 2026-09-25 01:15:56 | [simforge-oss-gym](https://pypi.org/project/simforge-oss-gym/) | 0.0.0 | SimForge | 5.6 kB | Name reservation for the SimForge Gymnasium client. The real package starts at… |
+| 2026-09-25 01:15:57 | [simforge-oss-physics](https://pypi.org/project/simforge-oss-physics/) | 0.0.0 | SimForge | 5.6 kB | Name reservation for the SimForge physics package. The real package starts at 0… |
+| 2026-09-25 01:15:58 | [simforge-oss-render](https://pypi.org/project/simforge-oss-render/) | 0.0.0 | SimForge | 5.6 kB | Name reservation for the SimForge render package. The real package starts at 0.… |
