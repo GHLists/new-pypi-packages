@@ -8,55 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 21:19 UTC
+## Latest list — 2026-09-25 22:20 UTC
 
-New packages created between 2026-09-25 20:20 UTC and 2026-09-25 21:19 UTC.
+New packages created between 2026-09-25 21:19 UTC and 2026-09-25 22:20 UTC.
 
-[Full CSV](data/new-packages-2026-09-25T21-19-05-163267Z.csv)
+[Full CSV](data/new-packages-2026-09-25T22-20-03-566079Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-25 20:23:15 | [hush-codexray](https://pypi.org/project/hush-codexray/) | 0.1.2 | Adebayo Ayomide <adebayo2001a… | 21.0 kB | Understand a Python codebase in seconds |
-| 2026-09-25 20:23:21 | [lovepack](https://pypi.org/project/lovepack/) | 0.1.0 | OmgRod | 8.0 kB | Universal LÖVE (Love2D) build engine and binary distribution manager. |
-| 2026-09-25 20:23:52 | [cascade-bot](https://pypi.org/project/cascade-bot/) | 0.1.0 | Himesh Jain | 123.0 kB | An agent that turns a breaking schema PR into a coordinated migration |
-| 2026-09-25 20:26:02 | [reactor-mindstormpro3](https://pypi.org/project/reactor-mindstormpro3/) | 0.0.1 | "Elio A." <elioanon20@Proton.… | 10.1 MB | A local runner for bots built for https://defector.hackclub.com |
-| 2026-09-25 20:27:46 | [serc](https://pypi.org/project/serc/) | 0.1.0 | "Astral Software Inc." <hey@a… | 80.8 MB | An experimental CPython bytecode compiler, written in Rust. |
-| 2026-09-25 20:28:00 | [lingotweaker-data-fr](https://pypi.org/project/lingotweaker-data-fr/) | 0.1.5 |  | 3.5 MB | LingoTweaker runtime data for language 'fr' |
-| 2026-09-25 20:28:06 | [lingotweaker-data-gl](https://pypi.org/project/lingotweaker-data-gl/) | 0.1.5 |  | 4.8 MB | LingoTweaker runtime data for language 'gl' |
-| 2026-09-25 20:28:12 | [lingotweaker-data-gn](https://pypi.org/project/lingotweaker-data-gn/) | 0.1.5 |  | 504.3 kB | LingoTweaker runtime data for language 'gn' |
-| 2026-09-25 20:28:12 | [powerclock](https://pypi.org/project/powerclock/) | 0.1.0 |  | 2.2 MB | Shutdown, wake-up and task scheduler: schedule shutdown, wake-up and your tasks… |
-| 2026-09-25 20:28:18 | [lingotweaker-data-is](https://pypi.org/project/lingotweaker-data-is/) | 0.1.5 |  | 1.1 MB | LingoTweaker runtime data for language 'is' |
-| 2026-09-25 20:31:36 | [bluesurf-mcp](https://pypi.org/project/bluesurf-mcp/) | 0.1.0 | BluePeople | 31.5 kB | Servidor MCP local de solo lectura para leer tickets de BlueSurf |
-| 2026-09-25 20:32:16 | [honemsg](https://pypi.org/project/honemsg/) | 0.1.1 | Nelson Urrutia <nelurrutia15@… | 19.7 kB | Hone your message before you send it: a terminal UI that improves, shortens, su… |
-| 2026-09-25 20:33:01 | [flex-api](https://pypi.org/project/flex-api/) | 1.0.0b35 |  | 16.5 kB | Client for the Flex on the Job tenant API (/api/v1): inventory, jobs, invoices,… |
-| 2026-09-25 20:35:18 | [pytest-shm](https://pypi.org/project/pytest-shm/) | 0.1.0 | Bas Nijholt <bas@nijho.lt> | 20.1 kB | Put pytest's temporary files on the /dev/shm tmpfs so fsync-heavy suites stop w… |
-| 2026-09-25 20:38:20 | [benethos-mailbox-service](https://pypi.org/project/benethos-mailbox-service/) | 0.1.0 | Benedikt Oswald | 574.2 kB | Self-hosted mail service: one REST API and a web UI for IMAP and Microsoft 365… |
-| 2026-09-25 20:38:21 | [benethos-mailbox-mcp](https://pypi.org/project/benethos-mailbox-mcp/) | 0.1.0 | Benedikt Oswald | 63.0 kB | MCP server that gives AI assistants such as Claude your mailboxes through the M… |
-| 2026-09-25 20:38:53 | [cheeto](https://pypi.org/project/cheeto/) | 2.6.1 | Camille Scott | 1.1 MB | Utilities for the UC Davis HPC Core Facility. |
-| 2026-09-25 20:43:57 | [tuananhth2920](https://pypi.org/project/tuananhth2920/) | 0.1.0 | Tuan Anh | 2.6 kB | Thu vien Python cua Tuan Anh |
-| 2026-09-25 20:45:01 | [autoforge-engine](https://pypi.org/project/autoforge-engine/) | 0.1.1 | Aditya Kumar Singh <adityasin… | 146.9 kB | A transparent, local-first AutoML framework for automated ML pipeline discovery. |
-| 2026-09-25 20:45:30 | [hush-scaffold](https://pypi.org/project/hush-scaffold/) | 0.2.0 | Ayomide | 13.4 kB | Generate Python project structures with proven patterns |
-| 2026-09-25 20:48:22 | [labmcp](https://pypi.org/project/labmcp/) | 0.1.0 | K-Dense and LabMCP contributo… | 114.1 kB | Shared foundations for MCP servers that control laboratory instruments: transpo… |
-| 2026-09-25 20:49:09 | [netforensicai](https://pypi.org/project/netforensicai/) | 0.3.0 | Sh3n0bi | 646.4 kB | Local-first DFIR investigation and evidence correlation platform |
-| 2026-09-25 20:52:13 | [cogext-compliance](https://pypi.org/project/cogext-compliance/) | 0.1.0 | Yamin / THRYVIX <hello@cogext… | 14.5 kB | Compliance checker for the COGEXT Commitment Standard v0.1 |
-| 2026-09-25 20:53:37 | [labmcp-atlas-ezo](https://pypi.org/project/labmcp-atlas-ezo/) | 0.1.0 | K-Dense and LabMCP contributo… | 44.7 kB | MCP server for Atlas Scientific EZO sensor circuits (pH, ORP, DO, EC, RTD, HUM,… |
-| 2026-09-25 20:54:12 | [simplibs-actions](https://pypi.org/project/simplibs-actions/) | 0.1.0 | "Dalibor Sova (Sudip2708)" <d… | 173.6 kB | A composable Action pipeline system — chainable via >>, &, and if_matches, buil… |
-| 2026-09-25 20:55:17 | [django-tasks-sqs](https://pypi.org/project/django-tasks-sqs/) | 0.1.0 | Miguel Ángel García Gandía <m… | 36.9 kB | Amazon SQS backend and worker for Django's built-in tasks framework (django.tas… |
-| 2026-09-25 20:58:58 | [open-meridian](https://pypi.org/project/open-meridian/) | 0.1.0 |  | 21.7 kB | Build Meridian plugins |
-| 2026-09-25 20:59:15 | [labmcp-micro-manager](https://pypi.org/project/labmcp-micro-manager/) | 0.1.0 | K-Dense and LabMCP contributo… | 54.0 kB | MCP server for microscopes controlled by Micro-Manager (pymmcore-plus): snap im… |
-| 2026-09-25 21:00:10 | [labmcp-new-era](https://pypi.org/project/labmcp-new-era/) | 0.1.0 | K-Dense and LabMCP contributo… | 36.5 kB | MCP server for New Era Pump Systems syringe pumps (NE-1000 family, RS-232): set… |
-| 2026-09-25 21:01:07 | [labmcp-opentrons](https://pypi.org/project/labmcp-opentrons/) | 0.1.0 | K-Dense and LabMCP contributo… | 69.9 kB | MCP server for Opentrons OT-2 and Flex liquid-handling robots (HTTP API): uploa… |
-| 2026-09-25 21:02:14 | [labmcp-cavro](https://pypi.org/project/labmcp-cavro/) | 0.1.0 | K-Dense and LabMCP contributo… | 35.4 kB | MCP server for Tecan Cavro syringe pumps (XLP 6000, XMP 6000, XCalibur) over th… |
-| 2026-09-25 21:02:44 | [tt-dal](https://pypi.org/project/tt-dal/) | 0.1.0 |  | 417.4 kB | Tenstorrent Device Access Library |
-| 2026-09-25 21:03:25 | [chord-metric](https://pypi.org/project/chord-metric/) | 0.1.0 | Jinnuo Liu, Junhao Zhu, Weife… | 129.1 kB | CHORD: a coherence-aware corpus-level distance for open-ended text generation |
-| 2026-09-25 21:04:42 | [xarray-bitpacker](https://pypi.org/project/xarray-bitpacker/) | 0.0.1 | Lander Ver Hoef <Lander.Ver_H… | 18.3 kB | Xarray extension that leverages xarray's metadata to automate and enhance numpy… |
-| 2026-09-25 21:05:23 | [gramix-api](https://pypi.org/project/gramix-api/) | 1.0.0 | Gramix.io | 34.7 kB | Python client for the Gramix reseller API |
-| 2026-09-25 21:08:32 | [danceflow-stemlab](https://pypi.org/project/danceflow-stemlab/) | 1.0.0 | Kieran Simkin | 1.7 MB | StemLab audio analysis for DanceFlow BPM and motion-response workflows, includi… |
-| 2026-09-25 21:11:07 | [pga-tour-unofficial-api](https://pypi.org/project/pga-tour-unofficial-api/) | 0.3.7 | Ruben Violinha | 141.1 kB | Unofficial raw and DataFrame clients for PGA TOUR browser-facing data APIs |
-| 2026-09-25 21:13:07 | [rdfdiff](https://pypi.org/project/rdfdiff/) | 0.1.0 |  | 62.1 kB | Read an RDF file's Git history as semantic change rather than text |
-| 2026-09-25 21:13:20 | [ruleblade-sdk](https://pypi.org/project/ruleblade-sdk/) | 0.0.0 |  | 1.4 kB | Name reserved for the RuleBlade open-core edition. |
-| 2026-09-25 21:13:22 | [ruleblade-core](https://pypi.org/project/ruleblade-core/) | 0.0.0 |  | 1.4 kB | Name reserved for the RuleBlade open-core edition. |
-| 2026-09-25 21:13:25 | [ruleblade-api](https://pypi.org/project/ruleblade-api/) | 0.0.0 |  | 1.4 kB | Name reserved for the RuleBlade open-core edition. |
-| 2026-09-25 21:14:42 | [rusty-desktop-icons](https://pypi.org/project/rusty-desktop-icons/) | 0.2.29 | s0d3s | 6.6 MB | Rust-powered Windows desktop icon controller and animator. |
-| 2026-09-25 21:16:57 | [caseload](https://pypi.org/project/caseload/) | 0.1.0 | Jayesh Suryavanshi <jayeshksu… | 923.5 kB | Reinforcement learning environments for budgeted fraud investigation under sele… |
-| 2026-09-25 21:18:11 | [fraudtwin](https://pypi.org/project/fraudtwin/) | 0.34.6 |  | 604.5 kB | Fraud emulator for real-world ML and data pipelines |
+| 2026-09-25 21:08:02 | [fizzbuzz-tdd-kata](https://pypi.org/project/fizzbuzz-tdd-kata/) | 0.1.1 | Your Name <you@example.com> | 54.0 kB | A TDD kata: FizzBuzz, from notebook exploration to a tested, published package |
+| 2026-09-25 21:22:35 | [flmkr](https://pypi.org/project/flmkr/) | 0.1.0 | Dream Pixels Forge | 145.5 kB | AI Filmmaking Harness — an autonomous, terminal-native agent for planning, gene… |
+| 2026-09-25 21:23:48 | [pointclick](https://pypi.org/project/pointclick/) | 0.1.0 | Dashgin <dashgin@praxis.az> | 90.5 kB | A browser MCP server with a small footprint: a numbered list of what you can cl… |
+| 2026-09-25 21:24:57 | [linecite](https://pypi.org/project/linecite/) | 0.1.1 | gotoUSA | 95.4 kB | Code citations in docs that re-derive their line numbers from the source. |
+| 2026-09-25 21:25:28 | [giamip](https://pypi.org/project/giamip/) | 0.1.0 | Siavash Ghelichkhan <siavash.… | 595.9 kB | Case definitions, reference data and output conventions for the Spada (2011) an… |
+| 2026-09-25 21:26:26 | [pio-agent-platformio](https://pypi.org/project/pio-agent-platformio/) | 3.1.0 |  | 272.2 MB | PlatformIO MCP and CLI with a bundled Node runtime |
+| 2026-09-25 21:27:39 | [syncmoments](https://pypi.org/project/syncmoments/) | 0.3.0 |  | 950.1 kB | Differentiable synchrotron kernels and explicitly scoped statistical approximat… |
+| 2026-09-25 21:30:36 | [nxsearch](https://pypi.org/project/nxsearch/) | 0.0.1 |  | 323.8 MB | nxsearch - a full-text search engine library |
+| 2026-09-25 21:30:45 | [pio-agent](https://pypi.org/project/pio-agent/) | 3.1.0 |  | 2.9 kB | Compatibility launcher for the canonical PlatformIO MCP engine |
+| 2026-09-25 21:30:47 | [pio-mcp](https://pypi.org/project/pio-mcp/) | 3.1.0 |  | 2.9 kB | Compatibility launcher for the canonical PlatformIO MCP engine |
+| 2026-09-25 21:31:56 | [beamgrad](https://pypi.org/project/beamgrad/) | 2.0.0 | Maged Amr | 111.1 kB | Differentiable beam search for PyTorch: exact beam search forward, surrogate gr… |
+| 2026-09-25 21:39:21 | [rf-18](https://pypi.org/project/rf-18/) | 1.0.0 |  | 2.0 kB | Add your description here |
+| 2026-09-25 21:40:20 | [mlflow-mongodb](https://pypi.org/project/mlflow-mongodb/) | 0.1.0.dev0 |  | 56.9 kB | MongoDB model registry store plugin for MLflow |
+| 2026-09-25 21:41:11 | [asyncapi-viewer](https://pypi.org/project/asyncapi-viewer/) | 1.2.0 | Weesho Lapara <support@weesho… | 40.4 kB | Render AsyncAPI documents in Markdown: an <asyncapi-viewer> element or an async… |
+| 2026-09-25 21:42:37 | [opentrade-backtest](https://pypi.org/project/opentrade-backtest/) | 0.1.0 |  | 33.0 kB | Open Trade backtest sessions from Python: the live API against a simulated clock |
+| 2026-09-25 21:50:53 | [cf-regions-gui](https://pypi.org/project/cf-regions-gui/) | 0.1.0 | Yves Sorge | 86.3 kB | Offline native desktop map for CF standardized regions |
+| 2026-09-25 21:53:31 | [fastplace](https://pypi.org/project/fastplace/) | 0.1.0 | Firoz Anam | 625.8 kB | Fastplace — an opinionated, full-stack, AI-native web framework built on Python… |
+| 2026-09-25 21:53:57 | [ngci-dhn](https://pypi.org/project/ngci-dhn/) | 0.1.0 | Abolfazl Rezaei <abolfazl.rez… | 118.6 kB | District heating network analysis and CLI workflows |
+| 2026-09-25 21:54:03 | [ebookerr-sdk](https://pypi.org/project/ebookerr-sdk/) | 2.30.0 |  | 499.2 kB | The ebookerr plugin SDK: SPI types, wire codec, Python plugin host, EPUB librar… |
+| 2026-09-25 21:54:07 | [fastplace-tenancy](https://pypi.org/project/fastplace-tenancy/) | 0.1.0 | Firoz Anam | 41.6 kB | First-party, opt-in multi-tenancy for Fastplace — company-scoped models, defens… |
+| 2026-09-25 21:57:14 | [wavin-sentio-connect](https://pypi.org/project/wavin-sentio-connect/) | 0.2.0rc1 | HairingX | 43.5 kB | Wavin Sentio over Modbus TCP, built on modbus_event_connect. |
+| 2026-09-25 21:57:46 | [the-ment](https://pypi.org/project/the-ment/) | 0.1.0 | The Environment Contributors | 24.9 kB | A multi-agent environment with identities and simple usage |
+| 2026-09-25 21:59:46 | [mcdonald](https://pypi.org/project/mcdonald/) | 0.2.5 | Jacob Haqq Misra <jacob@bmsis… | 1.1 MB | Measurement tools for single-sensor video of unidentified objects: background l… |
+| 2026-09-25 21:59:48 | [lebrel-encrypted](https://pypi.org/project/lebrel-encrypted/) | 0.2.0 | Lebrel | 80.0 kB | Verified encrypted Python client for Lebrel DeepSeek V4 Flash Uncensored |
+| 2026-09-25 22:04:28 | [pytermwm](https://pypi.org/project/pytermwm/) | 1.0.1 |  | 598.3 kB | A modern terminal window manager in pure Python: tiled/floating windows, deskto… |
+| 2026-09-25 22:07:04 | [railhead](https://pypi.org/project/railhead/) | 0.4.0 |  | 212.2 kB | Python SDK + CLI for Railhead — find, rank and hire agent capabilities over x40… |
+| 2026-09-25 22:11:33 | [awp-sim](https://pypi.org/project/awp-sim/) | 0.1.0a4 | Hyperduality | 201.3 kB | Agent World Protocol reference world: a simulated arm in lockstep and streaming. |
+| 2026-09-25 22:11:54 | [api-drift-detector](https://pypi.org/project/api-drift-detector/) | 0.1.0 | API Sentinel Team | 181.9 kB | Asynchronous FastAPI/ASGI middleware for real-time OpenAPI schema drift detecti… |
+| 2026-09-25 22:12:14 | [agentseatbelt](https://pypi.org/project/agentseatbelt/) | 0.1.0 | gmahar82-stack | 36.4 kB | A seatbelt for AI agents: budget caps, rate limits, time limits, loop detection… |
+| 2026-09-25 22:15:49 | [trainutil](https://pypi.org/project/trainutil/) | 0.1.0 | Howon Lee <hwlee7771@gmail.co… | 75.3 kB | Simple, composable PyTorch training utilities |
+| 2026-09-25 22:18:14 | [pl-e2e-test](https://pypi.org/project/pl-e2e-test/) | 0.1.0 |  | 94.5 kB | Fuzz PrairieLearn question lifecycles against the real Python element runtime |

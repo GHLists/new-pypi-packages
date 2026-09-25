@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-09-25T20:20:03.299147Z",
-    "path": "data/new-packages-2026-09-25T21-19-05-163267Z.csv",
-    "to": "2026-09-25T21:19:05.163267Z"
+    "count": 31,
+    "from": "2026-09-25T21:19:05.163267Z",
+    "path": "data/new-packages-2026-09-25T22-20-03-566079Z.csv",
+    "to": "2026-09-25T22:20:03.566079Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-09-25T21:08:02Z",
-      "package": "fizzbuzz-tdd-kata",
-      "since": "2026-09-25T20:20:03.299147Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-25T20:07:41Z",
       "package": "flmkr-agent",
       "since": "2026-09-25T19:19:11.720829Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-09-25T17:26:44Z",
-      "package": "varshan_memory",
-      "since": "2026-09-25T17:18:58.273711Z"
+      "attempts": 1,
+      "created_at": "2026-09-25T21:43:47Z",
+      "package": "openai-mcp-extensions",
+      "since": "2026-09-25T21:19:05.163267Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-25T22:19:59Z",
+      "package": "slabnirt",
+      "since": "2026-09-25T21:19:05.163267Z"
     }
   ],
-  "serial": 41468700,
+  "serial": 41470439,
   "source_truncated": false,
-  "window": "2026-09-25T21:19:05.163267Z"
+  "window": "2026-09-25T22:20:03.566079Z"
 }

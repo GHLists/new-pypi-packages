@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T21:08:02Z,fizzbuzz-tdd-kata,0.1.1,Your Name <you@example.com>,MIT,54021,"A TDD kata: FizzBuzz, from notebook exploration to a tested, published package"
+2026-09-25T21:22:35Z,flmkr,0.1.0,Dream Pixels Forge,MIT,145539,"AI Filmmaking Harness — an autonomous, terminal-native agent for planning, generating, validating, editing, and completing films."
+2026-09-25T21:23:48Z,pointclick,0.1.0,Dashgin <dashgin@praxis.az>,MIT,90481,"A browser MCP server with a small footprint: a numbered list of what you can click, and eight tools."
+2026-09-25T21:24:57Z,linecite,0.1.1,gotoUSA,MIT,95443,Code citations in docs that re-derive their line numbers from the source.
+2026-09-25T21:25:28Z,giamip,0.1.0,Siavash Ghelichkhan <siavash.ghelichkhan@anu.edu.au>,MIT,595898,"Case definitions, reference data and output conventions for the Spada (2011) and Martinec (2018) GIA benchmarks and for GIAMIP."
+2026-09-25T21:26:26Z,pio-agent-platformio,3.1.0,,MIT,272156294,PlatformIO MCP and CLI with a bundled Node runtime
+2026-09-25T21:27:39Z,syncmoments,0.3.0,,MIT,950080,Differentiable synchrotron kernels and explicitly scoped statistical approximations
+2026-09-25T21:30:36Z,nxsearch,0.0.1,,BSD-2-Clause,323834301,nxsearch - a full-text search engine library
+2026-09-25T21:30:45Z,pio-agent,3.1.0,,MIT,2927,Compatibility launcher for the canonical PlatformIO MCP engine
+2026-09-25T21:30:47Z,pio-mcp,3.1.0,,MIT,2890,Compatibility launcher for the canonical PlatformIO MCP engine
+2026-09-25T21:31:56Z,beamgrad,2.0.0,Maged Amr,MIT,111112,"Differentiable beam search for PyTorch: exact beam search forward, surrogate gradients backward, native on CPU and CUDA."
+2026-09-25T21:39:21Z,rf-18,1.0.0,,,1995,Add your description here
+2026-09-25T21:40:20Z,mlflow-mongodb,0.1.0.dev0,,,56927,MongoDB model registry store plugin for MLflow
+2026-09-25T21:41:11Z,asyncapi-viewer,1.2.0,Weesho Lapara <support@weesholapara.com>,MIT,40398,Render AsyncAPI documents in Markdown: an <asyncapi-viewer> element or an asyncapi fence. Python-Markdown extension with a MkDocs plugin.
+2026-09-25T21:42:37Z,opentrade-backtest,0.1.0,,Proprietary,32987,Open Trade backtest sessions from Python: the live API against a simulated clock
+2026-09-25T21:50:53Z,cf-regions-gui,0.1.0,Yves Sorge,GPL-3.0-or-later,86321,Offline native desktop map for CF standardized regions
+2026-09-25T21:53:31Z,fastplace,0.1.0,Firoz Anam,MIT,625810,"Fastplace — an opinionated, full-stack, AI-native web framework built on Python and React, focused on a productive developer experience."
+2026-09-25T21:53:57Z,ngci-dhn,0.1.0,Abolfazl Rezaei <abolfazl.rezaei@mail.concordia.ca>,LGPL-3.0-or-later,118577,District heating network analysis and CLI workflows
+2026-09-25T21:54:03Z,ebookerr-sdk,2.30.0,,,499245,"The ebookerr plugin SDK: SPI types, wire codec, Python plugin host, EPUB library and shared helpers."
+2026-09-25T21:54:07Z,fastplace-tenancy,0.1.0,Firoz Anam,MIT,41619,"First-party, opt-in multi-tenancy for Fastplace — company-scoped models, defense-in-depth isolation."
+2026-09-25T21:57:14Z,wavin-sentio-connect,0.2.0rc1,HairingX,MIT,43481,"Wavin Sentio over Modbus TCP, built on modbus_event_connect."
+2026-09-25T21:57:46Z,the-ment,0.1.0,The Environment Contributors,MIT,24920,A multi-agent environment with identities and simple usage
+2026-09-25T21:59:46Z,mcdonald,0.2.5,Jacob Haqq Misra <jacob@bmsis.org>,BSD-3-Clause,1131133,"Measurement tools for single-sensor video of unidentified objects: background layers, clip integrity, symbology, angular scale, kinematics, co-motion"
+2026-09-25T21:59:48Z,lebrel-encrypted,0.2.0,Lebrel,MIT,79993,Verified encrypted Python client for Lebrel DeepSeek V4 Flash Uncensored
+2026-09-25T22:04:28Z,pytermwm,1.0.1,,LGPL-2.1-or-later,598282,"A modern terminal window manager in pure Python: tiled/floating windows, desktops, themes, CLI, web UI and MCP control"
+2026-09-25T22:07:04Z,railhead,0.4.0,,MIT,212246,"Python SDK + CLI for Railhead — find, rank and hire agent capabilities over x402 (USDC on Base)"
+2026-09-25T22:11:33Z,awp-sim,0.1.0a4,Hyperduality,Apache-2.0,201279,Agent World Protocol reference world: a simulated arm in lockstep and streaming.
+2026-09-25T22:11:54Z,api-drift-detector,0.1.0,API Sentinel Team,MIT,181949,"Asynchronous FastAPI/ASGI middleware for real-time OpenAPI schema drift detection, dynamic schema inference, and interactive telemetry dashboard"
+2026-09-25T22:12:14Z,agentseatbelt,0.1.0,gmahar82-stack,MIT,36373,"A seatbelt for AI agents: budget caps, rate limits, time limits, loop detection and endpoint filters for any Python agent."
+2026-09-25T22:15:49Z,trainutil,0.1.0,Howon Lee <hwlee7771@gmail.com>,MIT,75302,"Simple, composable PyTorch training utilities"
+2026-09-25T22:18:14Z,pl-e2e-test,0.1.0,,MIT,94498,Fuzz PrairieLearn question lifecycles against the real Python element runtime
