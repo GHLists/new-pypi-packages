@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T15:20:09Z,robo-automation,0.1.1,,,35697,Reusable Playwright and pytest automation framework utilities
+2026-09-25T15:22:05Z,enbc,1.0.1,,"MIT License Copyright (c) 2026 errorpriority Permission is hereby granted, free of charge, to any p…",5937,Easy number base conversion
+2026-09-25T15:22:41Z,fuju-trace-sql,0.1.10,Fuju Trace,MIT,21351,"SQLite, DuckDB and PostgreSQL storage adapters for Fuju Trace"
+2026-09-25T15:23:31Z,ml-pipes-ultralytics,0.1.2rc1,,Apache-2.0,25817,Ultralytics YOLO operators for ml-pipes
+2026-09-25T15:27:35Z,lab-compiler,0.1.0,,Apache-2.0,186356,A small Python compiler for inspectable laboratory protocols
+2026-09-25T15:30:05Z,odoo-driver-plugin-scale-toledo-8217,2.1.0,Sylvain LE GAL,AGPLv3+,143225,Plugin for odoo-driver. Support Scale terminal devices.
+2026-09-25T15:30:42Z,dothat,1.0.0,PivLab Dev,MIT,34443,framework for python tasks and actions management
+2026-09-25T15:30:54Z,ml-pipes-supervision,0.1.2rc2,,Apache-2.0,39674,Roboflow Supervision and Inference compatibility wrappers for ml-pipes
+2026-09-25T15:35:12Z,rustoku,0.15.1,Samuel Huang <samhuang91@gmail.com>,MIT,366451,High-performance Sudoku solver and generator in Rust with Python bindings
+2026-09-25T15:36:40Z,qall,0.1.0,,,27613,A python tool for modern hybrid and quantum workflows.
+2026-09-25T15:36:50Z,jwt-guest-login,1.0.0,Your Name,,20579,Garena Guest Major Login CLI Tool
+2026-09-25T15:37:45Z,ctao-lst-dl0-converter,0.1.0,"Maximilian Linhoff <maximilian.linhoff@cta-observatory.org>, Bastien Lacave <bastien.lacave@unige.c…",BSD-3-Clause,43846,Convert LST-1 R0V data to DL0 format
+2026-09-25T15:37:51Z,albis,0.1.1,"Jan Matthias, Jianing Yao, Stephanie Hicks",MIT,63951,Albis: simulation of multi-resolution and multi-dimensional spatial transcriptomics data
+2026-09-25T15:40:23Z,precheck,0.1.1,Simin Yuan,MIT,33208,"Make an agent prove its claims with checks it was not allowed to write. The check is frozen before the run, and audited for the ability to fail at all."
+2026-09-25T15:41:43Z,truvyx,0.4.0,,MIT,17267,Truvyx evaluation SDK — embed evaluation into any agent pipeline
+2026-09-25T15:42:41Z,platworks,0.1.0,,Apache-2.0,92202,Umbrella package and MCP server for the plat commercial-real-estate ecosystem.
+2026-09-25T15:42:47Z,henergyqueai,0.1.0,,MIT,22838,"Bibliothèque officielle de l’API HenergyqueAI : Velys, Oryne et Aelyr depuis Python."
+2026-09-25T15:45:45Z,apay,0.1.1,A-Pay Protocol Core Swarm <core@apay.network>,MIT,37049,Universal HTTP 402 Micropayment Protocol & CLI for Autonomous AI Agents
+2026-09-25T15:45:56Z,pysif,0.1.0,Luca Palmieri <luca.palmieri16@studio.unibo.it>,GPL-3.0-or-later,63776768,Python bindings for the sif library
+2026-09-25T15:46:40Z,py-atmos-serial,2026.9.0a1,MarPi82 <marpi82.dev@google.com>,MIT,124066,Async passive listener for an ATMOS boiler RS485 bus (codec not yet known)
+2026-09-25T15:49:59Z,transportable-causal-bootstrapping,0.1.0,,,1152090,"Transport formula analysis, transportable causal weights, and bootstrap sampling"
+2026-09-25T15:50:21Z,poe-edge,1.0.0,POE Project Maintainers,Apache-2.0,29772,Official Python client SDK for the POE edge intelligence daemon
+2026-09-25T15:50:29Z,jita,0.1.0,,MIT,163226,Runtime x64 and aarch64 code generation at the abstraction level of DynASM
+2026-09-25T15:51:37Z,outie,0.1.1,Aidan Newsome <aidan.newsome@me.com>,MPL-2.0,48685,"Turn every face of a mesh to face out, like an outie, even when the mesh is not closed. A port of libigl's reorient_facets_raycast."
+2026-09-25T15:53:13Z,odoo-addon-l10n-ro-pos-refund,19.0.1.4.0,"NextERP Romania,Odoo Community Association (OCA)",AGPL-3,38679,Credit note and payment disposal for Point of Sale refunds
+2026-09-25T15:56:17Z,spoff,0.1.0,vrdq,MIT,999095,"Fast, minimalist, dark-monochrome Spotify & YouTube streaming music TUI"
+2026-09-25T15:57:03Z,threadfox-lite,0.1.1,"""AMF Indiana (ThreadFox)"" <support@threadfox.vip>",MIT,320108,"Read a subreddit's rules and check whether a Reddit post is still up, from Claude Code, Codex or any MCP client. Free tools from ThreadFox."
+2026-09-25T15:57:05Z,sqlalchemy-audit-trail,0.1.0a1,WiktorB2004,MIT,76364,Audit trail for SQLAlchemy on PostgreSQL: entity change diffs and domain events in one partitioned log
+2026-09-25T15:59:27Z,quadkit-ui,0.0.1,,,1351,QuadKit quadkit-ui — reserved namespace
+2026-09-25T15:59:36Z,quadkit-ai-relay,0.0.1,,,1468,QuadKit quadkit-ai-relay — reserved namespace
+2026-09-25T15:59:45Z,quadkit-ai-relay-gateway,0.0.1,,,1551,QuadKit quadkit-ai-relay-gateway — reserved namespace
+2026-09-25T15:59:54Z,quadkit-ai-observability,0.0.1,,,1551,QuadKit quadkit-ai-observability — reserved namespace
+2026-09-25T16:00:44Z,omega-coding-agent,0.1.0,,MIT,678103,"A terminal coding agent, built from scratch in layers."
+2026-09-25T16:01:08Z,lr-fleet,0.1.0,Jonas Estberger <jonas.estberger@lumenradio.com>,MIT License,105041,CLI client for the LumenRadio fleet management REST API.
+2026-09-25T16:01:38Z,django-massactions,0.1.0,Michal Šoltys @ MS Code,GPLv2,92386,"Mass (bulk) actions for Django list views: selection, confirmation modals, delete and field update."
+2026-09-25T16:05:11Z,iantirta-text,0.1.0,"""Iantirta.com"" <ian@iantirta.com>",Apache-2.0,29670,Text processing and sequence utilities for Python
+2026-09-25T16:05:13Z,nishinoya-2.0,0.1,Tanjiro Kamado,,5483,A package for speech recognition created by Tanjiro Kamado
+2026-09-25T16:08:09Z,aetherx-reprocert,0.2.2a1,AETHER X GLOBAL,Apache-2.0,87997,"Claim-to-evidence reproducibility certificates for software, AI and research workflows."
+2026-09-25T16:11:13Z,guest-jwt,1.0.0,Your Name,,20469,Garena Guest Major Login CLI Tool
+2026-09-25T16:11:33Z,codemem-mcp,0.1.0,Jeff Angelcyk,Apache-2.0,166528,"One MCP memory for every coding project on every machine: projects, reusable assets, sessions, commits, search"
+2026-09-25T16:13:51Z,onvif-mcp-core,0.2.7,,,37273,Shared camera operations for the ONVIF MCP servers
+2026-09-25T16:13:52Z,onvif-mcp-http,0.1.8,,,13439,ONVIF MCP server using the streamable-http transport
+2026-09-25T16:13:53Z,onvif-mcp-stdio,0.1.8,,,29472,MCP server for ONVIF camera using stdio transport
+2026-09-25T16:14:34Z,cse-logger,1.0.0,@ryze.xzy | @ryugabalwani,,5826,"A nonchalant, aesthetic logger, made by CSE development."
+2026-09-25T16:16:14Z,llm-benchmark-manager,0.3.0,,MIT,96756,"Provider-agnostic LLM discovery, stability testing and AIPerf benchmarking"
+2026-09-25T16:17:22Z,usebridger,0.1.0,,Apache-2.0,3091165,Repository intelligence and knowledge system for AI coding agents
+2026-09-25T16:17:37Z,elmopi,0.5.0,Gael Molina,,4223,Una biblioteca para consultar cursos de hack4u.
+2026-09-25T16:19:08Z,ds-proj-cc,0.1.3,Chirantan Chakraborty <cchirantan1@gmail.com>,MIT,10593,A lightweight dataset profiling toolkit

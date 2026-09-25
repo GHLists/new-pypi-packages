@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 49,
-    "from": "2026-09-25T14:19:40.738269Z",
-    "path": "data/new-packages-2026-09-25T15-18-55-74561Z.csv",
-    "to": "2026-09-25T15:18:55.74561Z"
+    "count": 48,
+    "from": "2026-09-25T15:18:55.74561Z",
+    "path": "data/new-packages-2026-09-25T16-19-25-631653Z.csv",
+    "to": "2026-09-25T16:19:25.631653Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-25T14:20:37Z",
       "package": "peryx",
       "since": "2026-09-25T14:19:40.738269Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-25T13:50:12Z",
       "package": "telos-lm",
       "since": "2026-09-25T13:19:05.286952Z"
     }
   ],
-  "serial": 41456659,
+  "serial": 41459019,
   "source_truncated": false,
-  "window": "2026-09-25T15:18:55.74561Z"
+  "window": "2026-09-25T16:19:25.631653Z"
 }
