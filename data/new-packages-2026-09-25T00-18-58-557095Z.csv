@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-09-24T23:19:51Z,PairMatch,0.1.1,Bob Wilson <bob.wilson@convexanalytics.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",148757,Randomization inference for matched pairs with binary outcomes
+2026-09-24T23:20:53Z,strtoolz,0.0.1,Alex Willmer,MIT,3810,Extra string search and manipulation functions
+2026-09-24T23:21:07Z,ga-parallel,0.1.1,Andrea Gemma,MIT,36248,"Pluggable parallel task execution helpers (threading, joblib, dask, ray)."
+2026-09-24T23:22:18Z,context-engineering-cli,2.6.0,,"MIT License Copyright (c) 2026 safurrier Permission is hereby granted, free of charge, to any perso…",122332,Portable CLI for Context Engineering analyzers.
+2026-09-24T23:22:27Z,aegis-stack-crawl4ai,0.1.0,Aegis Stack,Apache-2.0,154072,"Web crawling and scraping for Aegis Stack projects, via Crawl4AI"
+2026-09-24T23:23:38Z,rayito,0.3.0,,Apache-2.0,710858,"Sandboxes de ejecución para agentes de IA sobre AWS Lambda MicroVMs, en tu propia cuenta."
+2026-09-24T23:24:00Z,actrone-memory,0.2.0,Apocalypse Technologies <hello@actrone.com>,MIT,244676,"Production-grade two-tier persistent memory for AI agents: local-first by default, Redis + Qdrant for scale"
+2026-09-24T23:25:00Z,writing-check-cli,1.0.0,Safurrier,"MIT License Copyright (c) 2026 safurrier Permission is hereby granted, free of charge, to any perso…",50665,Portable source-bound advisory Writing Check with bundled Vale policy.
+2026-09-24T23:25:50Z,newmeasure-cli,0.1.0,,,18723,NewMeasure eval CLI
+2026-09-24T23:26:20Z,pyflowstep,0.1.0,aaltatan,GPL-3.0-only,44038,"A lightweight, typed Python library for composing functions into readable, reusable flows that can be defined as JSON."
+2026-09-24T23:31:53Z,akasa,0.1.1,,,71891,Agnostic Volume Router and Event Bus Substrate.
+2026-09-24T23:34:50Z,walopy,0.2.1,LeoSanta15 <angelsanta1@gmail.com>,MIT,89249,"Queuing theory, operations analysis, OEE, bottleneck analysis and KPI trees for Python"
+2026-09-24T23:38:16Z,contractor-lead-scraper,1.0.0,Abdul Rehman Zubairi (WebSmitherz),,19360,High-speed Google Maps local business scraper with async email crawling and contractor data enrichment.
+2026-09-24T23:48:45Z,streak-crm,0.8.1,,,249360,
+2026-09-24T23:48:56Z,serigy-jev,0.1.0,Wendell Barreto <wendellbarreto@gmail.com>,MIT,99498,Inference-only PT-BR fake-news classifier (load Hub weights + predict)
+2026-09-24T23:50:17Z,immunis,0.1.0,Mikko Ahonen,MIT,39198,Find a Python repository's dependency-confusion exposure
+2026-09-25T00:00:39Z,my-private-pkg,99.1.1,victam,,5131,A private Python package
+2026-09-25T00:11:09Z,alienplatform,3.3.24,"""Alien Software, Inc."" <hi@alien.dev>",,87448698,Typed Python resource bindings for Alien workloads
+2026-09-25T00:11:39Z,mini-tars,0.0.1,Breno Henrique Bortoloti Santos,MIT,97775,Servidor de memória (MCP) auto-hospedado para assistentes de IA.
+2026-09-25T00:13:54Z,jiayang,0.1.0,The Jiayang Cloud Authors,Apache-2.0,233615,Verify who is calling your Jiayang Cloud app.
+2026-09-25T00:15:21Z,aiyou-instructor,1.17.0,"Jason Liu, Ivan Leo",MIT,70778500,structured outputs for llm
+2026-09-25T00:16:38Z,metacheck,0.0.1,Scienceverse <jakub@jakubwerner.com>,AGPL-3.0-or-later,26025,Check research outputs for best practices. Placeholder release; the Python package is coming soon.

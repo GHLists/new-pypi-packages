@@ -8,37 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 23:19 UTC
+## Latest list — 2026-09-25 00:18 UTC
 
-New packages created between 2026-09-24 22:19 UTC and 2026-09-24 23:19 UTC.
+New packages created between 2026-09-24 23:19 UTC and 2026-09-25 00:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-24T23-19-36-396693Z.csv)
+[Full CSV](data/new-packages-2026-09-25T00-18-58-557095Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-24 20:39:46 | [peterdemartini-mtgdata-p01](https://pypi.org/project/peterdemartini-mtgdata-p01/) | 2026.9.24 |  | 102.2 MB | Encrypted MTGJSON card-data snapshot, with the code to verify and unpack it, fo… |
-| 2026-09-24 22:19:48 | [conduit-debugger](https://pypi.org/project/conduit-debugger/) | 0.1.0 | Alyhnte | 322.7 kB | MCP debugger for radare2, x64dbg, cdb, and Frida. |
-| 2026-09-24 22:26:04 | [physmap](https://pypi.org/project/physmap/) | 0.2.1 | Vishnu Vettrivel | 619.0 kB | Physics-aware credibility checks for AI surrogates in multiphysics simulation:… |
-| 2026-09-24 22:28:49 | [zapis](https://pypi.org/project/zapis/) | 1.0.0 | ShadowStrike <r@strategos.au> | 6.1 kB | CTF writeup templating and export tool. by ShadowStrike. |
-| 2026-09-24 22:29:35 | [trofej](https://pypi.org/project/trofej/) | 1.0.0 | ShadowStrike <r@strategos.au> | 6.1 kB | Namespace secured for the Megdan CTF Line. by ShadowStrike. |
-| 2026-09-24 22:30:22 | [spisok](https://pypi.org/project/spisok/) | 1.0.0 | ShadowStrike <r@strategos.au> | 6.1 kB | Namespace secured for the Megdan CTF Line. by ShadowStrike. |
-| 2026-09-24 22:31:05 | [spis](https://pypi.org/project/spis/) | 1.0.0 | ShadowStrike <r@strategos.au> | 6.1 kB | Namespace secured for the Megdan CTF Line. by ShadowStrike. |
-| 2026-09-24 22:33:27 | [mcp-eval-gate](https://pypi.org/project/mcp-eval-gate/) | 0.3.0 | Umer Karachiwala | 25.4 kB | CI regression gate for MCP servers: run a golden set of tool calls, diff agains… |
-| 2026-09-24 22:33:46 | [SocioVerse2](https://pypi.org/project/SocioVerse2/) | 0.2.0 | The SocioVerse2 Authors | 108.8 kB | SocioVerse2: a longitudinal, LLM-native social-simulation runtime with interven… |
-| 2026-09-24 22:34:01 | [wagtail-image-directories](https://pypi.org/project/wagtail-image-directories/) | 0.1.0 | Vladimir Tarasov | 59.0 kB | Directory-based storage (year/slug) and visual Image Navigator for Wagtail CMS. |
-| 2026-09-24 22:38:00 | [runboard](https://pypi.org/project/runboard/) | 0.2.0 | Mohammad Zbeeb <mhmdzbyb829@g… | 115.0 kB | Self-hosted, W&B-style live training dashboards for any cluster or VM, viewable… |
-| 2026-09-24 22:39:12 | [libre-devops-helpers](https://pypi.org/project/libre-devops-helpers/) | 0.4.1 | Craig Thacker | 699.0 kB | Libre DevOps Helpers: a fast, read-only CLI and importable helpers for Entra ID… |
-| 2026-09-24 22:42:05 | [fetta-langchain](https://pypi.org/project/fetta-langchain/) | 0.1.0 | Sergei | 9.3 kB | LangChain document loader that uses fetta - tool that fetches web pages for ass… |
-| 2026-09-24 22:42:42 | [rwpytools](https://pypi.org/project/rwpytools/) | 0.1.0 | Robot Wealth <support@robotwe… | 183.1 kB | Official Python client for the Robot Wealth research data API. Serves history f… |
-| 2026-09-24 22:43:54 | [pygeog510](https://pypi.org/project/pygeog510/) | 0.1.0 | Lloyd Weber <lweber89@gmail.c… | 14.7 kB | Python package to demonstrate concepts taught in Geog510. |
-| 2026-09-24 22:46:25 | [jevimage](https://pypi.org/project/jevimage/) | 0.1.1 | the jevimage authors | 280.7 kB | A probability-first image classifier you can self-host: one encode, many typed… |
-| 2026-09-24 22:47:45 | [azure-ai-finetuningsessions](https://pypi.org/project/azure-ai-finetuningsessions/) | 0.0.0b1 | Microsoft Corporation <azures… | 3.3 kB | This package will be released in the near future. Stay tuned! |
-| 2026-09-24 22:51:04 | [cerbsim-ngapp-style](https://pypi.org/project/cerbsim-ngapp-style/) | 0.1 |  | 17.2 kB | CerbSIM design system (themes, tokens, component classes) for ngapp apps |
-| 2026-09-24 23:05:57 | [vercel-runtime-python](https://pypi.org/project/vercel-runtime-python/) | 100.99.99 | lapin | 3.7 kB | Python utility package |
-| 2026-09-24 23:11:11 | [damira](https://pypi.org/project/damira/) | 0.0.1 | Terrence Battlehunt <terrence… | 4.4 kB | Damira — network engineering agent for your terminal (placeholder release) |
-| 2026-09-24 23:11:12 | [damira-cli](https://pypi.org/project/damira-cli/) | 0.0.1 | Terrence Battlehunt <terrence… | 2.3 kB | Reserved name. The Damira CLI is published as 'damira'. |
-| 2026-09-24 23:11:13 | [damira-mcp](https://pypi.org/project/damira-mcp/) | 0.0.1 | Terrence Battlehunt <terrence… | 2.3 kB | Damira MCP server for network engineering tools (placeholder release) |
-| 2026-09-24 23:11:25 | [spohnbook](https://pypi.org/project/spohnbook/) | 0.0.1 | Corey Spohn <corey.a.spohn@na… | 4.2 MB | The map, shared conventions and assembled examples of a suite of JAX libraries… |
-| 2026-09-24 23:16:10 | [house-party-protocol](https://pypi.org/project/house-party-protocol/) | 2.6.5 | Rushar Labs <325975192+rushar… | 266.1 kB | A local-first reliability harness for coding agents. |
-| 2026-09-24 23:16:27 | [acs-toolbox](https://pypi.org/project/acs-toolbox/) | 0.1.0 | Alberto de Campos e Silva | 47.3 kB | Utilitários de uso geral: PostgreSQL, Selenium/Chrome, downloads, barra de prog… |
-| 2026-09-24 23:18:59 | [mathema](https://pypi.org/project/mathema/) | 0.6.0 | Tetrion Ltd <contact@tetrion.… | 2.1 MB | A Python verification engine for Claim-Driven Development: state explicit mathe… |
+| 2026-09-24 23:19:51 | [PairMatch](https://pypi.org/project/PairMatch/) | 0.1.1 | Bob Wilson <bob.wilson@convex… | 148.8 kB | Randomization inference for matched pairs with binary outcomes |
+| 2026-09-24 23:20:53 | [strtoolz](https://pypi.org/project/strtoolz/) | 0.0.1 | Alex Willmer | 3.8 kB | Extra string search and manipulation functions |
+| 2026-09-24 23:21:07 | [ga-parallel](https://pypi.org/project/ga-parallel/) | 0.1.1 | Andrea Gemma | 36.2 kB | Pluggable parallel task execution helpers (threading, joblib, dask, ray). |
+| 2026-09-24 23:22:18 | [context-engineering-cli](https://pypi.org/project/context-engineering-cli/) | 2.6.0 |  | 122.3 kB | Portable CLI for Context Engineering analyzers. |
+| 2026-09-24 23:22:27 | [aegis-stack-crawl4ai](https://pypi.org/project/aegis-stack-crawl4ai/) | 0.1.0 | Aegis Stack | 154.1 kB | Web crawling and scraping for Aegis Stack projects, via Crawl4AI |
+| 2026-09-24 23:23:38 | [rayito](https://pypi.org/project/rayito/) | 0.3.0 |  | 710.9 kB | Sandboxes de ejecución para agentes de IA sobre AWS Lambda MicroVMs, en tu prop… |
+| 2026-09-24 23:24:00 | [actrone-memory](https://pypi.org/project/actrone-memory/) | 0.2.0 | Apocalypse Technologies <hell… | 244.7 kB | Production-grade two-tier persistent memory for AI agents: local-first by defau… |
+| 2026-09-24 23:25:00 | [writing-check-cli](https://pypi.org/project/writing-check-cli/) | 1.0.0 | Safurrier | 50.7 kB | Portable source-bound advisory Writing Check with bundled Vale policy. |
+| 2026-09-24 23:25:50 | [newmeasure-cli](https://pypi.org/project/newmeasure-cli/) | 0.1.0 |  | 18.7 kB | NewMeasure eval CLI |
+| 2026-09-24 23:26:20 | [pyflowstep](https://pypi.org/project/pyflowstep/) | 0.1.0 | aaltatan | 44.0 kB | A lightweight, typed Python library for composing functions into readable, reus… |
+| 2026-09-24 23:31:53 | [akasa](https://pypi.org/project/akasa/) | 0.1.1 |  | 71.9 kB | Agnostic Volume Router and Event Bus Substrate. |
+| 2026-09-24 23:34:50 | [walopy](https://pypi.org/project/walopy/) | 0.2.1 | LeoSanta15 <angelsanta1@gmail… | 89.2 kB | Queuing theory, operations analysis, OEE, bottleneck analysis and KPI trees for… |
+| 2026-09-24 23:38:16 | [contractor-lead-scraper](https://pypi.org/project/contractor-lead-scraper/) | 1.0.0 | Abdul Rehman Zubairi (WebSmit… | 19.4 kB | High-speed Google Maps local business scraper with async email crawling and con… |
+| 2026-09-24 23:48:45 | [streak-crm](https://pypi.org/project/streak-crm/) | 0.8.1 |  | 249.4 kB |  |
+| 2026-09-24 23:48:56 | [serigy-jev](https://pypi.org/project/serigy-jev/) | 0.1.0 | Wendell Barreto <wendellbarre… | 99.5 kB | Inference-only PT-BR fake-news classifier (load Hub weights + predict) |
+| 2026-09-24 23:50:17 | [immunis](https://pypi.org/project/immunis/) | 0.1.0 | Mikko Ahonen | 39.2 kB | Find a Python repository's dependency-confusion exposure |
+| 2026-09-25 00:00:39 | [my-private-pkg](https://pypi.org/project/my-private-pkg/) | 99.1.1 | victam | 5.1 kB | A private Python package |
+| 2026-09-25 00:11:09 | [alienplatform](https://pypi.org/project/alienplatform/) | 3.3.24 | "Alien Software, Inc." <hi@al… | 87.4 MB | Typed Python resource bindings for Alien workloads |
+| 2026-09-25 00:11:39 | [mini-tars](https://pypi.org/project/mini-tars/) | 0.0.1 | Breno Henrique Bortoloti Sant… | 97.8 kB | Servidor de memória (MCP) auto-hospedado para assistentes de IA. |
+| 2026-09-25 00:13:54 | [jiayang](https://pypi.org/project/jiayang/) | 0.1.0 | The Jiayang Cloud Authors | 233.6 kB | Verify who is calling your Jiayang Cloud app. |
+| 2026-09-25 00:15:21 | [aiyou-instructor](https://pypi.org/project/aiyou-instructor/) | 1.17.0 | Jason Liu, Ivan Leo | 70.8 MB | structured outputs for llm |
+| 2026-09-25 00:16:38 | [metacheck](https://pypi.org/project/metacheck/) | 0.0.1 | Scienceverse <jakub@jakubwern… | 26.0 kB | Check research outputs for best practices. Placeholder release; the Python pack… |
