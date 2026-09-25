@@ -1,0 +1,88 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T17:19:57Z,capo-connectparticipant,0.1.0,,,217068,Python SDK for Connectparticipant.
+2026-09-25T17:20:19Z,capo-controlcatalog,0.1.0,,,181186,Python SDK for Controlcatalog.
+2026-09-25T17:20:59Z,t2pmhc,1.1.3,Mark Polster,MIT,1616379,A structure-informed graph neural network for predicting TCR-pMHC binding
+2026-09-25T17:21:04Z,capo-controltower,0.1.0,,,310977,Python SDK for Controltower.
+2026-09-25T17:21:11Z,capo-cost-and-usage-report-service,0.1.0,,,147006,Python SDK for Cost And Usage Report Service.
+2026-09-25T17:22:24Z,vault2okf,0.1.0,Abhishek Acharya,MIT,94049,Validate Open Knowledge Format (OKF) bundles and convert Obsidian vaults to OKF.
+2026-09-25T17:23:06Z,capo-cost-explorer,0.1.0,,,702571,Python SDK for Cost Explorer.
+2026-09-25T17:23:11Z,livery-cbor,0.0.0,Willem Kokke,MIT,18429,"Deterministic CBOR: one value, one encoding, one name."
+2026-09-25T17:24:16Z,capo-cost-optimization-hub,0.1.0,,,258467,Python SDK for Cost Optimization Hub.
+2026-09-25T17:24:39Z,health-tree,0.1.0,Michael Cumming <mjcumming@users.noreply.github.com>,MIT,235048,"Platform-agnostic health across a dependency graph: checks, dependency-aware episodes, and an attention policy"
+2026-09-25T17:25:04Z,capo-customer-profiles,0.1.0,,,1048454,Python SDK for Customer Profiles.
+2026-09-25T17:25:15Z,capo-data-pipeline,0.1.0,,,252617,Python SDK for Data Pipeline.
+2026-09-25T17:25:32Z,banyan-ai,0.1.0a1,Z-JaDe,"MIT License Copyright (c) 2026 Z-JaDe Permission is hereby granted, free of charge, to any person o…",98858,"Banyan — a trellis for your agents: recursive task-tree orchestration with a dumb deterministic kernel, conversational main agent, and a knowledge loop"
+2026-09-25T17:25:45Z,capo-database-migration-service,0.1.0,,,1271332,Python SDK for Database Migration Service.
+2026-09-25T17:26:11Z,capo-databrew,0.1.0,,,452872,Python SDK for Databrew.
+2026-09-25T17:26:37Z,capo-dataexchange,0.1.0,,,402216,Python SDK for Dataexchange.
+2026-09-25T17:27:02Z,capo-datasync,0.1.0,,,596105,Python SDK for Datasync.
+2026-09-25T17:27:12Z,charter-ai,0.1.0,"""R28 AI, Inc."" <oss@r28.ai>",Apache-2.0,1808430,"Agent tools you declare instead of implement. Define a Pydantic schema; the runtime handles the request, the auth and the wire format."
+2026-09-25T17:27:34Z,opsiom-kairo,0.1.0,,,35448,"Mesure, fiabilité et reprise pour l'entraînement PyTorch (d'abord Opsiom Kaïro)."
+2026-09-25T17:28:38Z,pluot_bound,0.1.22,Mark Keller,,7792458,Rust bindings for rendering Pluot visualizations. Most users should install pluot[bindings] instead.
+2026-09-25T17:29:30Z,robo-email,0.1.1,,,13592,Reusable HTML email report rendering and local delivery utilities
+2026-09-25T17:31:32Z,alberta-buck,0.2.0,Perry Kundert <perry@dominionrnd.com>,GPL-3.0-or-later,2904231,"Alberta Buck reference implementation (protocol v2): identity credentials and accumulator, Notes, payment receipts, and agent simulations over the contracts"
+2026-09-25T17:32:15Z,notanda-mcp,0.1.0b1,,MIT,25871,Beta local MCP server for provenance-aware Notanda literature retrieval.
+2026-09-25T17:32:38Z,coord-server,0.13.0,,AGPL-3.0-only,408188,"coord server and certificate management: claims, messages, tasks for concurrent agent sessions (clients: clients/ts)"
+2026-09-25T17:37:13Z,credoxa-audit-sdk,1.0.0,OpenAPI Generator community,LicenseRef-Proprietary,102432,Credoxa Audit API
+2026-09-25T17:37:17Z,runtimeverify,0.1.0,Google DeepMind Agentic Coding Team <runtimeverify@deepmind.google.com>,MIT,639597,"Vendor-neutral statistical runtime verification, deterministic policy governance, and behavioral security platform for autonomous AI agents."
+2026-09-25T17:37:31Z,nya-json-type,0.1.1,,,16200,"Provide a Json type that is defined as follows: type Json = dict[str, Json] | list[Json] | str | int | float | bool | None"
+2026-09-25T17:37:58Z,snip-cli,1.0,,,5033,A tiny terminal snippet manager
+2026-09-25T17:39:36Z,logalert,0.1.0,Aiko Sora <altairteam@bk.ru>,MIT,281410,"Capture Python errors and deliver them to Telegram or Matrix, with an optional Redis-backed durable queue"
+2026-09-25T17:40:59Z,castlearq,0.1.0,Nicolás Bruna <brunafuentealba@gmail.com>,Apache-2.0,492771,CastleArq — Local AI Runtime Architecture
+2026-09-25T17:41:01Z,capo-dax,0.1.0,,,276598,Python SDK for DAX.
+2026-09-25T17:42:14Z,belfort-ml-experimental,0.1.0,,,52388,Belfort ML client for the Belfort CaaS gateway
+2026-09-25T17:42:58Z,camelai-agent-runtime,0.1.0,,MIT,20806,Python SDK for the camelAI hosted agent runtime
+2026-09-25T17:42:59Z,jevotron,0.1.0,Chris Mungall,BSD-3-Clause,53885,"Independent, field-level anomaly detection for structured files with Jev"
+2026-09-25T17:44:37Z,capo-deadline,0.1.0,,,1077826,Python SDK for Deadline.
+2026-09-25T17:45:31Z,capo-detective,0.1.0,,,301077,Python SDK for Detective.
+2026-09-25T17:45:58Z,belfort-ml-client-experimental,0.1.0,,,66912,"The Belfort ML client, which holds the secret key, and the bucket layout and native link step both Belfort packages share"
+2026-09-25T17:46:12Z,capo-device-farm,0.1.0,,,657766,Python SDK for Device Farm.
+2026-09-25T17:46:56Z,capo-devops-agent,0.1.0,,,593827,Python SDK for Devops Agent.
+2026-09-25T17:47:24Z,subreddit-lens,0.1.0,Alessandro Rubin,MIT,105616,"Explore and analyse user interactions in a subreddit: posting habits, interaction networks, and conversation thread export."
+2026-09-25T17:47:42Z,getratchet,0.1.0,,MIT,15573,Python producer and worker SDK for GetRatchet
+2026-09-25T17:48:20Z,capo-devops-guru,0.1.0,,,481371,Python SDK for Devops Guru.
+2026-09-25T17:48:56Z,capo-direct-connect,0.1.0,,,524619,Python SDK for Direct Connect.
+2026-09-25T17:49:31Z,capo-directory-service,0.1.0,,,756608,Python SDK for Directory Service.
+2026-09-25T17:50:05Z,capo-directory-service-data,0.1.0,,,233513,Python SDK for Directory Service Data.
+2026-09-25T17:50:08Z,telekinesis-iris,0.0.3,Telekinesis <support@telekinesis.ai>,LicenseRef-Proprietary,465671,Model training and inference repository
+2026-09-25T17:50:52Z,conventional-release,0.1.0,Georg Kasper,Apache-2.0,96092,"standard-version-style CHANGELOG and release PRs from Conventional Commits, tagged by CI after the merge. No Node."
+2026-09-25T17:50:55Z,capo-dlm,0.1.0,,,221028,Python SDK for DLM.
+2026-09-25T17:51:37Z,capo-docdb,0.1.0,,,674472,Python SDK for Docdb.
+2026-09-25T17:52:21Z,capo-docdb-elastic,0.1.0,,,227032,Python SDK for Docdb Elastic.
+2026-09-25T17:52:45Z,runnerx,0.1.0,,Proprietary,28465877,Bundled Python runtimes per platform with an architecture-aware selector
+2026-09-25T17:53:01Z,capo-drs,0.1.0,,,490389,Python SDK for DRS.
+2026-09-25T17:53:44Z,capo-dsql,0.1.0,,,208324,Python SDK for Dsql.
+2026-09-25T17:54:14Z,capo-dynamodb-streams,0.1.0,,,153545,Python SDK for Dynamodb Streams.
+2026-09-25T17:54:33Z,neo-agnt,0.1.0,,MIT,350885,"neo — a lightweight, autonomous terminal coding agent"
+2026-09-25T17:54:48Z,capo-ec2-instance-connect,0.1.0,,,117752,Python SDK for EC2 Instance Connect.
+2026-09-25T17:55:11Z,bakeria,0.1.0,,,1091,
+2026-09-25T17:55:19Z,capo-ecr-public,0.1.0,,,297147,Python SDK for ECR Public.
+2026-09-25T17:56:54Z,capo-efs,0.1.0,,,371190,Python SDK for EFS.
+2026-09-25T17:57:30Z,capo-eks,0.1.0,,,769907,Python SDK for Amazon EKS.
+2026-09-25T17:57:47Z,metapet,0.1.0,Javad Razi,MIT,148170,A small command-line tool for keeping your side-project ideas in one place.
+2026-09-25T17:58:04Z,capo-eks-auth,0.1.0,,,105994,Python SDK for EKS Auth.
+2026-09-25T17:58:40Z,capo-elastic-beanstalk,0.1.0,,,588993,Python SDK for Elastic Beanstalk.
+2026-09-25T17:59:48Z,capo-elastic-load-balancing-v2,0.1.0,,,719308,Python SDK for Elastic Load Balancing V2.
+2026-09-25T18:00:25Z,capo-elastic-transcoder,0.1.0,,,347844,Python SDK for Elastic Transcoder.
+2026-09-25T18:01:02Z,capo-elasticache,0.1.0,,,1026681,Python SDK for Elasticache.
+2026-09-25T18:01:42Z,capo-elasticsearch-service,0.1.0,,,586814,Python SDK for Elasticsearch Service.
+2026-09-25T18:01:52Z,soundtouch-zonemaster,0.4.8,Robert Nowotny,MIT,1089738,"A software zone master for Bose SoundTouch speakers, and the protocol research behind it"
+2026-09-25T18:03:07Z,capo-elementalinference,0.1.0,,,206107,Python SDK for Elementalinference.
+2026-09-25T18:03:46Z,capo-emr,0.1.0,,,722679,Python SDK for EMR.
+2026-09-25T18:04:24Z,capo-emr-containers,0.1.0,,,287906,Python SDK for EMR Containers.
+2026-09-25T18:09:44Z,web-picker,0.2.0,RinKokawa <rin@rinco.cc>,MIT,31385,A native GUI tool for AI agents to ask humans to visually pick one of N HTML variants
+2026-09-25T18:11:08Z,capo-emr-serverless,0.1.0,,,308860,Python SDK for EMR Serverless.
+2026-09-25T18:11:50Z,capo-entityresolution,0.1.0,,,426766,Python SDK for Entityresolution.
+2026-09-25T18:12:24Z,capo-evs,0.1.0,,,290796,Python SDK for EVS.
+2026-09-25T18:13:09Z,capo-finspace,0.1.0,,,540206,Python SDK for Finspace.
+2026-09-25T18:13:46Z,capo-finspace-data,0.1.0,,,343502,Python SDK for Finspace Data.
+2026-09-25T18:14:20Z,capo-firehose,0.1.0,,,459730,Python SDK for Firehose.
+2026-09-25T18:14:22Z,uskladjenost-cijena,1.0.1,"""Info Media d.o.o."" <support@info-media.it>",MIT,20951,Python SDK for the Usklađenost cijena API (uskladjenost-cijena.com): anchor prices and public price lists under NN 101/2026.
+2026-09-25T18:15:02Z,capo-fis,0.1.0,,,356375,Python SDK for FIS.
+2026-09-25T18:15:11Z,convinterp,0.1.0,Nikolaj Maack Bielefeld,MIT,20762406,"High-order convolution interpolation and derivatives on uniform grids in any dimension, with a Rust core"
+2026-09-25T18:15:44Z,capo-fms,0.1.0,,,511840,Python SDK for FMS.
+2026-09-25T18:16:22Z,capo-forecast,0.1.0,,,615249,Python SDK for Forecast.
+2026-09-25T18:17:04Z,capo-forecastquery,0.1.0,,,111954,Python SDK for Forecastquery.
+2026-09-25T18:17:37Z,capo-frauddetector,0.1.0,,,625368,Python SDK for Frauddetector.
+2026-09-25T18:18:17Z,capo-freetier,0.1.0,,,139293,Python SDK for Freetier.
+2026-09-25T18:19:00Z,capo-fsx,0.1.0,,,850517,Python SDK for FSX.

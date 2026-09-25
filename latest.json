@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-09-25T16:19:25.631653Z",
-    "path": "data/new-packages-2026-09-25T17-18-58-273711Z.csv",
-    "to": "2026-09-25T17:18:58.273711Z"
+    "count": 87,
+    "from": "2026-09-25T17:18:58.273711Z",
+    "path": "data/new-packages-2026-09-25T18-19-28-03066Z.csv",
+    "to": "2026-09-25T18:19:28.03066Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-25T16:36:48Z",
       "package": "opymaper",
       "since": "2026-09-25T16:19:25.631653Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-25T14:20:37Z",
       "package": "peryx",
       "since": "2026-09-25T14:19:40.738269Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-09-25T13:50:12Z",
-      "package": "telos-lm",
-      "since": "2026-09-25T13:19:05.286952Z"
+      "attempts": 1,
+      "created_at": "2026-09-25T17:26:44Z",
+      "package": "varshan_memory",
+      "since": "2026-09-25T17:18:58.273711Z"
     }
   ],
-  "serial": 41460992,
+  "serial": 41463063,
   "source_truncated": false,
-  "window": "2026-09-25T17:18:58.273711Z"
+  "window": "2026-09-25T18:19:28.03066Z"
 }

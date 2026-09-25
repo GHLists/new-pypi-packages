@@ -8,61 +8,98 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 17:18 UTC
+## Latest list — 2026-09-25 18:19 UTC
 
-New packages created between 2026-09-25 16:19 UTC and 2026-09-25 17:18 UTC.
+New packages created between 2026-09-25 17:18 UTC and 2026-09-25 18:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-25T17-18-58-273711Z.csv)
+[Full CSV](data/new-packages-2026-09-25T18-19-28-03066Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-25 16:20:07 | [crownx-decoder](https://pypi.org/project/crownx-decoder/) | 1.0.0 | CrownX | 14.2 kB | Protobuf raw and AES decoder CLI tool |
-| 2026-09-25 16:21:31 | [fiducial-check](https://pypi.org/project/fiducial-check/) | 0.1.0 |  | 242.7 kB | The reference mark a measurement is aligned against. Static checks for numbers… |
-| 2026-09-25 16:23:23 | [stokes](https://pypi.org/project/stokes/) | 0.2.0 | yvliet | 16.6 kB | Autonomous cross-boundary systems invariant verification engine built on IBM Bo… |
-| 2026-09-25 16:26:34 | [plat-harness](https://pypi.org/project/plat-harness/) | 0.1.0 | paintbrush | 857.2 kB | Agent-agnostic control plane for multifamily underwriting and ops. The model is… |
-| 2026-09-25 16:26:58 | [nievah-edge](https://pypi.org/project/nievah-edge/) | 1.43.109 | Magma Moose <support@magmamoo… | 56.9 kB | Nievah's webhook front door: verify a GitHub delivery, park it durably, answer… |
-| 2026-09-25 16:29:36 | [plat-costmodel](https://pypi.org/project/plat-costmodel/) | 0.1.0 | paintbrush | 239.3 kB | Multifamily renovation cost estimation engine: line-item estimates, SOW generat… |
-| 2026-09-25 16:30:18 | [plat-multifamily-underwriting](https://pypi.org/project/plat-multifamily-underwriting/) | 0.1.0 | paintbrush | 706.7 kB | Deterministic multifamily underwriting engine: rent roll and T12 ingestion, sch… |
-| 2026-09-25 16:34:54 | [databricks-agentbricks](https://pypi.org/project/databricks-agentbricks/) | 0.2.0 | Databricks <agent-feedback@da… | 721.0 kB | Agent Bricks CLI and AgentKit SDK for custom agents on Databricks |
-| 2026-09-25 16:35:52 | [notesmgr](https://pypi.org/project/notesmgr/) | 0.1.0 | Tom Björkholm | 177.0 kB | Manager for small notes and AI prompts. |
-| 2026-09-25 16:35:55 | [ko-tasks-sdk](https://pypi.org/project/ko-tasks-sdk/) | 1.0.0 | "Komus.ai" <codir@komus.ai> | 414.6 kB | Python SDK for Komus Tasks — define, test, and deploy task workflows |
-| 2026-09-25 16:37:57 | [ko-tasks-server](https://pypi.org/project/ko-tasks-server/) | 1.0.1 | "Komus.ai" <codir@komus.ai> | 1.3 MB | Komus Tasks server — deploy, schedule, and manage task workflows with a web UI,… |
-| 2026-09-25 16:37:58 | [monarch-money-mcp-cli](https://pypi.org/project/monarch-money-mcp-cli/) | 0.1.0 | simplemind | 63.1 kB | Read-only Monarch Money MCP server and CLI. Pull accounts, transactions, cash f… |
-| 2026-09-25 16:38:03 | [deepagents-sbx](https://pypi.org/project/deepagents-sbx/) | 0.1.0 | restuhaqza | 46.5 kB | Docker Sandboxes (sbx) microVM sandbox backend for Deep Agents |
-| 2026-09-25 16:44:53 | [boota-api](https://pypi.org/project/boota-api/) | 1.0.1 | Boota Team | 6.1 kB | Official Python SDK and Latency Benchmarking Client for Boota Platform |
-| 2026-09-25 16:45:13 | [minizinc-mcp](https://pypi.org/project/minizinc-mcp/) | 0.1.0 | carban | 21.2 kB | MCP server that exposes MiniZinc constraint solving to LLM clients |
-| 2026-09-25 16:47:22 | [pyzapp-sdk](https://pypi.org/project/pyzapp-sdk/) | 0.1.0 |  | 10.4 kB | Elegant Python client for the PyZapp WhatsApp API. No Node.js required. |
-| 2026-09-25 16:49:00 | [inwards](https://pypi.org/project/inwards/) | 0.0.0 |  | 4.2 kB | Inwards, an architecture linter for Python that keeps AI coding agents inside y… |
-| 2026-09-25 16:50:16 | [sycm](https://pypi.org/project/sycm/) | 0.1.1 | trassert | 4.8 kB | Simple YAML Config Manager |
-| 2026-09-25 16:50:32 | [liteql](https://pypi.org/project/liteql/) | 0.1.0 | James <git@jamesisboredcoding… | 28.2 kB | Lightweight SQL wrapper for SQLite and MySQL |
-| 2026-09-25 16:50:51 | [invisible-selenium](https://pypi.org/project/invisible-selenium/) | 0.1.0 | feder-cr <85809106+feder-cr@u… | 601.3 kB | Selenium's API for a patched Firefox with a deterministic stealth profile. |
-| 2026-09-25 16:51:06 | [invisible-puppeteer](https://pypi.org/project/invisible-puppeteer/) | 0.1.0 | feder-cr <85809106+feder-cr@u… | 568.0 kB | pyppeteer's API for a patched Firefox with a deterministic stealth profile. |
-| 2026-09-25 16:52:07 | [gait-sdk](https://pypi.org/project/gait-sdk/) | 0.5.0 | Anthony Narine | 122.2 kB | Official Python SDK for Gait: verify Gait identities (local JWKS or introspecti… |
-| 2026-09-25 16:52:56 | [castor-client](https://pypi.org/project/castor-client/) | 0.7.0a1 | Substratum Labs | 21.8 kB | Typed client for Castor OS AISA v0.1 Unix-domain socket IPC |
-| 2026-09-25 16:53:28 | [plone.recipe.vinylcache](https://pypi.org/project/plone.recipe.vinylcache/) | 9.0.3.0 | Wichert Akkerman, et al | 112.5 kB | Build and/or configure Vinyl Cache (formerly Varnish Cache) with zc.buildout |
-| 2026-09-25 16:54:04 | [tranchepay](https://pypi.org/project/tranchepay/) | 0.1.0 | tranchepay contributors | 88.4 kB | Payment composition for Razorpay: exact, with-charges, and split-tranche orders… |
-| 2026-09-25 16:56:44 | [fpl-context-mcp](https://pypi.org/project/fpl-context-mcp/) | 0.4.0 | Shubham Banthia <sbanthia92@g… | 90.0 kB | MCP server that gives Claude Fantasy Premier League stats and press/injury news… |
-| 2026-09-25 16:56:49 | [autonima](https://pypi.org/project/autonima/) | 0.1.0 | Alejandro de la Vega | 399.2 kB | LLM-powered automated systematic review and meta-analysis |
-| 2026-09-25 16:58:41 | [ezfast](https://pypi.org/project/ezfast/) | 0.1.0 | hhglory | 2.0 kB | Add your description here |
-| 2026-09-25 16:59:47 | [iantirta-audio](https://pypi.org/project/iantirta-audio/) | 0.1.0 | "Iantirta.com" <ian@iantirta.… | 17.6 kB | Reusable media downloading and metadata utilities for Python |
-| 2026-09-25 17:00:40 | [ezstd](https://pypi.org/project/ezstd/) | 0.1.0 | hhglory | 2.0 kB | Add your description here |
-| 2026-09-25 17:00:46 | [xiapl](https://pypi.org/project/xiapl/) | 0.1.0 | Xiang | 5.8 MB | Fast Texas Hold'em / PLO equity and hand-evaluation library (C++ core) |
-| 2026-09-25 17:03:14 | [langchain-withruntime](https://pypi.org/project/langchain-withruntime/) | 0.1.0 | Runtime LLC | 25.6 kB | Runtime sandbox integration for Deep Agents |
-| 2026-09-25 17:05:04 | [erc20-balance](https://pypi.org/project/erc20-balance/) | 0.1.0 | ustas-eth | 259.7 kB | Interactive ERC-20 and native balances with explicit RPC selection |
-| 2026-09-25 17:05:33 | [hugpy-platform](https://pypi.org/project/hugpy-platform/) | 0.2.0a0 | putkoff <support@hugpy.ai> | 55.6 kB | Hugpy platform: stdlib-first foundation shared by every Hugpy package (env-back… |
-| 2026-09-25 17:05:40 | [hugpy-server](https://pypi.org/project/hugpy-server/) | 0.2.0a0 | putkoff <support@hugpy.ai> | 1.7 MB | Hugpy server: the Flask composition root with routes, auth, SSE, API keys and t… |
-| 2026-09-25 17:05:42 | [hugpy-storage](https://pypi.org/project/hugpy-storage/) | 0.2.0a0 | putkoff <support@hugpy.ai> | 177.0 kB | Hugpy storage: model download queue and daemon, Hugging Face transport and toke… |
-| 2026-09-25 17:05:49 | [hugpy-tools](https://pypi.org/project/hugpy-tools/) | 0.2.0a0 | putkoff <support@hugpy.ai> | 32.9 kB | Hugpy tools: a slim, stdlib-only capability suite for autonomous agents (safe f… |
-| 2026-09-25 17:07:00 | [leakgate](https://pypi.org/project/leakgate/) | 0.1.0 |  | 67.5 kB | Pre-publish gate for secrets, Korean PII, local paths and private project terms… |
-| 2026-09-25 17:08:12 | [pyrrho](https://pypi.org/project/pyrrho/) | 0.2.1 | Marcos Morris | 181.3 kB | Adversarial review of Terraform plans: what the plan really does, and what it n… |
-| 2026-09-25 17:08:28 | [strayform](https://pypi.org/project/strayform/) | 0.1.0 | Marck Morris | 38.9 kB | Find Google Cloud resources created outside Terraform (ClickOps) and generate i… |
-| 2026-09-25 17:08:47 | [tfminder](https://pypi.org/project/tfminder/) | 0.1.0 | Marck Morris | 73.9 kB | Let AI agents plan and apply Terraform safely: risk review, policy gates, human… |
-| 2026-09-25 17:09:31 | [apisense](https://pypi.org/project/apisense/) | 0.1.0 | APISense Team <info@apisense.… | 38.0 kB | Lightweight, privacy-first API observability Python SDK |
-| 2026-09-25 17:12:05 | [clasp-link](https://pypi.org/project/clasp-link/) | 0.0.1 | Paul Gurney <paul.gurney@gmai… | 2.7 kB | CLASP: privacy-preserving record linkage through independent custodians. Placeh… |
-| 2026-09-25 17:14:19 | [simple-logger-RI](https://pypi.org/project/simple-logger-RI/) | 0.0.1 | Reactor Interactive <reactor6… | 5.5 kB | Small package that can help with logging files to the terminal or .txt files. |
-| 2026-09-25 17:14:59 | [bpp-format](https://pypi.org/project/bpp-format/) | 0.3.0 | Furkan | 78.2 kB | A token-efficient text format for feeding structured data and plans to LLMs, wi… |
-| 2026-09-25 17:15:47 | [robo-html](https://pypi.org/project/robo-html/) | 0.1.0 |  | 3.8 kB | Reusable HTML report rendering utilities for automation projects |
-| 2026-09-25 17:15:57 | [pyramid-deferred-sqla](https://pypi.org/project/pyramid-deferred-sqla/) | 0.0.0 | Your Name <you@example.com> | 2.7 kB | Dummy pyramid-deferred-sqla package for PyPI |
-| 2026-09-25 17:16:04 | [halter](https://pypi.org/project/halter/) | 0.0.1 | Eliza H | 26.2 kB | Halt, there are problems with this. An audit gate for code changes. Placeholder… |
-| 2026-09-25 17:17:03 | [nommo-fingerprint](https://pypi.org/project/nommo-fingerprint/) | 0.1.0 |  | 14.7 kB | Create, register, and verify Nommo fingerprints |
-| 2026-09-25 17:18:25 | [streepjescode](https://pypi.org/project/streepjescode/) | 1.0.0 | Philipp Hagemeister | 20.0 kB | Generate nicely formatted barcodes (UPC-A and EAN) |
+| 2026-09-25 17:19:57 | [capo-connectparticipant](https://pypi.org/project/capo-connectparticipant/) | 0.1.0 |  | 217.1 kB | Python SDK for Connectparticipant. |
+| 2026-09-25 17:20:19 | [capo-controlcatalog](https://pypi.org/project/capo-controlcatalog/) | 0.1.0 |  | 181.2 kB | Python SDK for Controlcatalog. |
+| 2026-09-25 17:20:59 | [t2pmhc](https://pypi.org/project/t2pmhc/) | 1.1.3 | Mark Polster | 1.6 MB | A structure-informed graph neural network for predicting TCR-pMHC binding |
+| 2026-09-25 17:21:04 | [capo-controltower](https://pypi.org/project/capo-controltower/) | 0.1.0 |  | 311.0 kB | Python SDK for Controltower. |
+| 2026-09-25 17:21:11 | [capo-cost-and-usage-report-service](https://pypi.org/project/capo-cost-and-usage-report-service/) | 0.1.0 |  | 147.0 kB | Python SDK for Cost And Usage Report Service. |
+| 2026-09-25 17:22:24 | [vault2okf](https://pypi.org/project/vault2okf/) | 0.1.0 | Abhishek Acharya | 94.0 kB | Validate Open Knowledge Format (OKF) bundles and convert Obsidian vaults to OKF. |
+| 2026-09-25 17:23:06 | [capo-cost-explorer](https://pypi.org/project/capo-cost-explorer/) | 0.1.0 |  | 702.6 kB | Python SDK for Cost Explorer. |
+| 2026-09-25 17:23:11 | [livery-cbor](https://pypi.org/project/livery-cbor/) | 0.0.0 | Willem Kokke | 18.4 kB | Deterministic CBOR: one value, one encoding, one name. |
+| 2026-09-25 17:24:16 | [capo-cost-optimization-hub](https://pypi.org/project/capo-cost-optimization-hub/) | 0.1.0 |  | 258.5 kB | Python SDK for Cost Optimization Hub. |
+| 2026-09-25 17:24:39 | [health-tree](https://pypi.org/project/health-tree/) | 0.1.0 | Michael Cumming <mjcumming@us… | 235.0 kB | Platform-agnostic health across a dependency graph: checks, dependency-aware ep… |
+| 2026-09-25 17:25:04 | [capo-customer-profiles](https://pypi.org/project/capo-customer-profiles/) | 0.1.0 |  | 1.0 MB | Python SDK for Customer Profiles. |
+| 2026-09-25 17:25:15 | [capo-data-pipeline](https://pypi.org/project/capo-data-pipeline/) | 0.1.0 |  | 252.6 kB | Python SDK for Data Pipeline. |
+| 2026-09-25 17:25:32 | [banyan-ai](https://pypi.org/project/banyan-ai/) | 0.1.0a1 | Z-JaDe | 98.9 kB | Banyan — a trellis for your agents: recursive task-tree orchestration with a du… |
+| 2026-09-25 17:25:45 | [capo-database-migration-service](https://pypi.org/project/capo-database-migration-service/) | 0.1.0 |  | 1.3 MB | Python SDK for Database Migration Service. |
+| 2026-09-25 17:26:11 | [capo-databrew](https://pypi.org/project/capo-databrew/) | 0.1.0 |  | 452.9 kB | Python SDK for Databrew. |
+| 2026-09-25 17:26:37 | [capo-dataexchange](https://pypi.org/project/capo-dataexchange/) | 0.1.0 |  | 402.2 kB | Python SDK for Dataexchange. |
+| 2026-09-25 17:27:02 | [capo-datasync](https://pypi.org/project/capo-datasync/) | 0.1.0 |  | 596.1 kB | Python SDK for Datasync. |
+| 2026-09-25 17:27:12 | [charter-ai](https://pypi.org/project/charter-ai/) | 0.1.0 | "R28 AI, Inc." <oss@r28.ai> | 1.8 MB | Agent tools you declare instead of implement. Define a Pydantic schema; the run… |
+| 2026-09-25 17:27:34 | [opsiom-kairo](https://pypi.org/project/opsiom-kairo/) | 0.1.0 |  | 35.4 kB | Mesure, fiabilité et reprise pour l'entraînement PyTorch (d'abord Opsiom Kaïro). |
+| 2026-09-25 17:28:38 | [pluot_bound](https://pypi.org/project/pluot_bound/) | 0.1.22 | Mark Keller | 7.8 MB | Rust bindings for rendering Pluot visualizations. Most users should install plu… |
+| 2026-09-25 17:29:30 | [robo-email](https://pypi.org/project/robo-email/) | 0.1.1 |  | 13.6 kB | Reusable HTML email report rendering and local delivery utilities |
+| 2026-09-25 17:31:32 | [alberta-buck](https://pypi.org/project/alberta-buck/) | 0.2.0 | Perry Kundert <perry@dominion… | 2.9 MB | Alberta Buck reference implementation (protocol v2): identity credentials and a… |
+| 2026-09-25 17:32:15 | [notanda-mcp](https://pypi.org/project/notanda-mcp/) | 0.1.0b1 |  | 25.9 kB | Beta local MCP server for provenance-aware Notanda literature retrieval. |
+| 2026-09-25 17:32:38 | [coord-server](https://pypi.org/project/coord-server/) | 0.13.0 |  | 408.2 kB | coord server and certificate management: claims, messages, tasks for concurrent… |
+| 2026-09-25 17:37:13 | [credoxa-audit-sdk](https://pypi.org/project/credoxa-audit-sdk/) | 1.0.0 | OpenAPI Generator community | 102.4 kB | Credoxa Audit API |
+| 2026-09-25 17:37:17 | [runtimeverify](https://pypi.org/project/runtimeverify/) | 0.1.0 | Google DeepMind Agentic Codin… | 639.6 kB | Vendor-neutral statistical runtime verification, deterministic policy governanc… |
+| 2026-09-25 17:37:31 | [nya-json-type](https://pypi.org/project/nya-json-type/) | 0.1.1 |  | 16.2 kB | Provide a Json type that is defined as follows: type Json = dict[str, Json] \| l… |
+| 2026-09-25 17:37:58 | [snip-cli](https://pypi.org/project/snip-cli/) | 1.0 |  | 5.0 kB | A tiny terminal snippet manager |
+| 2026-09-25 17:39:36 | [logalert](https://pypi.org/project/logalert/) | 0.1.0 | Aiko Sora <altairteam@bk.ru> | 281.4 kB | Capture Python errors and deliver them to Telegram or Matrix, with an optional… |
+| 2026-09-25 17:40:59 | [castlearq](https://pypi.org/project/castlearq/) | 0.1.0 | Nicolás Bruna <brunafuentealb… | 492.8 kB | CastleArq — Local AI Runtime Architecture |
+| 2026-09-25 17:41:01 | [capo-dax](https://pypi.org/project/capo-dax/) | 0.1.0 |  | 276.6 kB | Python SDK for DAX. |
+| 2026-09-25 17:42:14 | [belfort-ml-experimental](https://pypi.org/project/belfort-ml-experimental/) | 0.1.0 |  | 52.4 kB | Belfort ML client for the Belfort CaaS gateway |
+| 2026-09-25 17:42:58 | [camelai-agent-runtime](https://pypi.org/project/camelai-agent-runtime/) | 0.1.0 |  | 20.8 kB | Python SDK for the camelAI hosted agent runtime |
+| 2026-09-25 17:42:59 | [jevotron](https://pypi.org/project/jevotron/) | 0.1.0 | Chris Mungall | 53.9 kB | Independent, field-level anomaly detection for structured files with Jev |
+| 2026-09-25 17:44:37 | [capo-deadline](https://pypi.org/project/capo-deadline/) | 0.1.0 |  | 1.1 MB | Python SDK for Deadline. |
+| 2026-09-25 17:45:31 | [capo-detective](https://pypi.org/project/capo-detective/) | 0.1.0 |  | 301.1 kB | Python SDK for Detective. |
+| 2026-09-25 17:45:58 | [belfort-ml-client-experimental](https://pypi.org/project/belfort-ml-client-experimental/) | 0.1.0 |  | 66.9 kB | The Belfort ML client, which holds the secret key, and the bucket layout and na… |
+| 2026-09-25 17:46:12 | [capo-device-farm](https://pypi.org/project/capo-device-farm/) | 0.1.0 |  | 657.8 kB | Python SDK for Device Farm. |
+| 2026-09-25 17:46:56 | [capo-devops-agent](https://pypi.org/project/capo-devops-agent/) | 0.1.0 |  | 593.8 kB | Python SDK for Devops Agent. |
+| 2026-09-25 17:47:24 | [subreddit-lens](https://pypi.org/project/subreddit-lens/) | 0.1.0 | Alessandro Rubin | 105.6 kB | Explore and analyse user interactions in a subreddit: posting habits, interacti… |
+| 2026-09-25 17:47:42 | [getratchet](https://pypi.org/project/getratchet/) | 0.1.0 |  | 15.6 kB | Python producer and worker SDK for GetRatchet |
+| 2026-09-25 17:48:20 | [capo-devops-guru](https://pypi.org/project/capo-devops-guru/) | 0.1.0 |  | 481.4 kB | Python SDK for Devops Guru. |
+| 2026-09-25 17:48:56 | [capo-direct-connect](https://pypi.org/project/capo-direct-connect/) | 0.1.0 |  | 524.6 kB | Python SDK for Direct Connect. |
+| 2026-09-25 17:49:31 | [capo-directory-service](https://pypi.org/project/capo-directory-service/) | 0.1.0 |  | 756.6 kB | Python SDK for Directory Service. |
+| 2026-09-25 17:50:05 | [capo-directory-service-data](https://pypi.org/project/capo-directory-service-data/) | 0.1.0 |  | 233.5 kB | Python SDK for Directory Service Data. |
+| 2026-09-25 17:50:08 | [telekinesis-iris](https://pypi.org/project/telekinesis-iris/) | 0.0.3 | Telekinesis <support@telekine… | 465.7 kB | Model training and inference repository |
+| 2026-09-25 17:50:52 | [conventional-release](https://pypi.org/project/conventional-release/) | 0.1.0 | Georg Kasper | 96.1 kB | standard-version-style CHANGELOG and release PRs from Conventional Commits, tag… |
+| 2026-09-25 17:50:55 | [capo-dlm](https://pypi.org/project/capo-dlm/) | 0.1.0 |  | 221.0 kB | Python SDK for DLM. |
+| 2026-09-25 17:51:37 | [capo-docdb](https://pypi.org/project/capo-docdb/) | 0.1.0 |  | 674.5 kB | Python SDK for Docdb. |
+| 2026-09-25 17:52:21 | [capo-docdb-elastic](https://pypi.org/project/capo-docdb-elastic/) | 0.1.0 |  | 227.0 kB | Python SDK for Docdb Elastic. |
+| 2026-09-25 17:52:45 | [runnerx](https://pypi.org/project/runnerx/) | 0.1.0 |  | 28.5 MB | Bundled Python runtimes per platform with an architecture-aware selector |
+| 2026-09-25 17:53:01 | [capo-drs](https://pypi.org/project/capo-drs/) | 0.1.0 |  | 490.4 kB | Python SDK for DRS. |
+| 2026-09-25 17:53:44 | [capo-dsql](https://pypi.org/project/capo-dsql/) | 0.1.0 |  | 208.3 kB | Python SDK for Dsql. |
+| 2026-09-25 17:54:14 | [capo-dynamodb-streams](https://pypi.org/project/capo-dynamodb-streams/) | 0.1.0 |  | 153.5 kB | Python SDK for Dynamodb Streams. |
+| 2026-09-25 17:54:33 | [neo-agnt](https://pypi.org/project/neo-agnt/) | 0.1.0 |  | 350.9 kB | neo — a lightweight, autonomous terminal coding agent |
+| 2026-09-25 17:54:48 | [capo-ec2-instance-connect](https://pypi.org/project/capo-ec2-instance-connect/) | 0.1.0 |  | 117.8 kB | Python SDK for EC2 Instance Connect. |
+| 2026-09-25 17:55:11 | [bakeria](https://pypi.org/project/bakeria/) | 0.1.0 |  | 1.1 kB |  |
+| 2026-09-25 17:55:19 | [capo-ecr-public](https://pypi.org/project/capo-ecr-public/) | 0.1.0 |  | 297.1 kB | Python SDK for ECR Public. |
+| 2026-09-25 17:56:54 | [capo-efs](https://pypi.org/project/capo-efs/) | 0.1.0 |  | 371.2 kB | Python SDK for EFS. |
+| 2026-09-25 17:57:30 | [capo-eks](https://pypi.org/project/capo-eks/) | 0.1.0 |  | 769.9 kB | Python SDK for Amazon EKS. |
+| 2026-09-25 17:57:47 | [metapet](https://pypi.org/project/metapet/) | 0.1.0 | Javad Razi | 148.2 kB | A small command-line tool for keeping your side-project ideas in one place. |
+| 2026-09-25 17:58:04 | [capo-eks-auth](https://pypi.org/project/capo-eks-auth/) | 0.1.0 |  | 106.0 kB | Python SDK for EKS Auth. |
+| 2026-09-25 17:58:40 | [capo-elastic-beanstalk](https://pypi.org/project/capo-elastic-beanstalk/) | 0.1.0 |  | 589.0 kB | Python SDK for Elastic Beanstalk. |
+| 2026-09-25 17:59:48 | [capo-elastic-load-balancing-v2](https://pypi.org/project/capo-elastic-load-balancing-v2/) | 0.1.0 |  | 719.3 kB | Python SDK for Elastic Load Balancing V2. |
+| 2026-09-25 18:00:25 | [capo-elastic-transcoder](https://pypi.org/project/capo-elastic-transcoder/) | 0.1.0 |  | 347.8 kB | Python SDK for Elastic Transcoder. |
+| 2026-09-25 18:01:02 | [capo-elasticache](https://pypi.org/project/capo-elasticache/) | 0.1.0 |  | 1.0 MB | Python SDK for Elasticache. |
+| 2026-09-25 18:01:42 | [capo-elasticsearch-service](https://pypi.org/project/capo-elasticsearch-service/) | 0.1.0 |  | 586.8 kB | Python SDK for Elasticsearch Service. |
+| 2026-09-25 18:01:52 | [soundtouch-zonemaster](https://pypi.org/project/soundtouch-zonemaster/) | 0.4.8 | Robert Nowotny | 1.1 MB | A software zone master for Bose SoundTouch speakers, and the protocol research… |
+| 2026-09-25 18:03:07 | [capo-elementalinference](https://pypi.org/project/capo-elementalinference/) | 0.1.0 |  | 206.1 kB | Python SDK for Elementalinference. |
+| 2026-09-25 18:03:46 | [capo-emr](https://pypi.org/project/capo-emr/) | 0.1.0 |  | 722.7 kB | Python SDK for EMR. |
+| 2026-09-25 18:04:24 | [capo-emr-containers](https://pypi.org/project/capo-emr-containers/) | 0.1.0 |  | 287.9 kB | Python SDK for EMR Containers. |
+| 2026-09-25 18:09:44 | [web-picker](https://pypi.org/project/web-picker/) | 0.2.0 | RinKokawa <rin@rinco.cc> | 31.4 kB | A native GUI tool for AI agents to ask humans to visually pick one of N HTML va… |
+| 2026-09-25 18:11:08 | [capo-emr-serverless](https://pypi.org/project/capo-emr-serverless/) | 0.1.0 |  | 308.9 kB | Python SDK for EMR Serverless. |
+| 2026-09-25 18:11:50 | [capo-entityresolution](https://pypi.org/project/capo-entityresolution/) | 0.1.0 |  | 426.8 kB | Python SDK for Entityresolution. |
+| 2026-09-25 18:12:24 | [capo-evs](https://pypi.org/project/capo-evs/) | 0.1.0 |  | 290.8 kB | Python SDK for EVS. |
+| 2026-09-25 18:13:09 | [capo-finspace](https://pypi.org/project/capo-finspace/) | 0.1.0 |  | 540.2 kB | Python SDK for Finspace. |
+| 2026-09-25 18:13:46 | [capo-finspace-data](https://pypi.org/project/capo-finspace-data/) | 0.1.0 |  | 343.5 kB | Python SDK for Finspace Data. |
+| 2026-09-25 18:14:20 | [capo-firehose](https://pypi.org/project/capo-firehose/) | 0.1.0 |  | 459.7 kB | Python SDK for Firehose. |
+| 2026-09-25 18:14:22 | [uskladjenost-cijena](https://pypi.org/project/uskladjenost-cijena/) | 1.0.1 | "Info Media d.o.o." <support@… | 21.0 kB | Python SDK for the Usklađenost cijena API (uskladjenost-cijena.com): anchor pri… |
+| 2026-09-25 18:15:02 | [capo-fis](https://pypi.org/project/capo-fis/) | 0.1.0 |  | 356.4 kB | Python SDK for FIS. |
+| 2026-09-25 18:15:11 | [convinterp](https://pypi.org/project/convinterp/) | 0.1.0 | Nikolaj Maack Bielefeld | 20.8 MB | High-order convolution interpolation and derivatives on uniform grids in any di… |
+| 2026-09-25 18:15:44 | [capo-fms](https://pypi.org/project/capo-fms/) | 0.1.0 |  | 511.8 kB | Python SDK for FMS. |
+| 2026-09-25 18:16:22 | [capo-forecast](https://pypi.org/project/capo-forecast/) | 0.1.0 |  | 615.2 kB | Python SDK for Forecast. |
+| 2026-09-25 18:17:04 | [capo-forecastquery](https://pypi.org/project/capo-forecastquery/) | 0.1.0 |  | 112.0 kB | Python SDK for Forecastquery. |
+| 2026-09-25 18:17:37 | [capo-frauddetector](https://pypi.org/project/capo-frauddetector/) | 0.1.0 |  | 625.4 kB | Python SDK for Frauddetector. |
+| 2026-09-25 18:18:17 | [capo-freetier](https://pypi.org/project/capo-freetier/) | 0.1.0 |  | 139.3 kB | Python SDK for Freetier. |
+| 2026-09-25 18:19:00 | [capo-fsx](https://pypi.org/project/capo-fsx/) | 0.1.0 |  | 850.5 kB | Python SDK for FSX. |
