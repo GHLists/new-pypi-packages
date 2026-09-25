@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T10:19:32Z,ml-std,2.0.0,,MIT,14470,The standard library for Brunost ML and RL tasks: one pinned set of packages that the Judge runs and contestants install.
+2026-09-25T10:20:06Z,didww-verification,1.0.0,DIDWW <support@didww.com>,MIT,81272,Python SDK for the DIDWW Verification API
+2026-09-25T10:20:07Z,indexscout,0.2.0,James Pow,MIT,111580,"Agent-first, read-only Google Search Console MCP server for evidence-backed search investigations."
+2026-09-25T10:22:01Z,solidworks-mcp,0.2.1,Henk Jan Baard,MIT,123217,MCP server that drives a local SolidWorks instance over COM for parametric part modelling.
+2026-09-25T10:39:53Z,ad_data_pf_1,0.2.2,AskerNC <hms467@econ.ku.dk>,MIT,74422,"Tables and figures for a job-ad amenities project, run on Statistics Denmark microdata"
+2026-09-25T10:41:08Z,mathspec,0.1.0,"Felix Bumann <117816358+FBumann@users.noreply.github.com>, Bryn Pickering <17178478+brynpickering@u…",MIT,308930,"Write an optimisation model as a YAML file. Check it and print it as math, with no data and no solver."
+2026-09-25T10:41:52Z,ontheloop,0.0.0,On The Loop Labs,BUSL-1.1,6976,Reserved namespace placeholder for the On The Loop platform distribution (see @onthelooplabs/ontheloop and https://github.com/benjamin-blake/theseus).
+2026-09-25T10:45:59Z,qcmr.levelplot,0.3,Mariusz Radon <mariusz.radon@uj.edu.pl>,MIT,5858,"Plots using horizontal lines and points, possibly joined"
+2026-09-25T10:51:55Z,qcmr.energylevels,0.1,Mariusz Radon <mariusz.radon@uj.edu.pl>,MIT,7961,Plot energy levels
+2026-09-25T10:53:19Z,mailcheer,0.2.0,Mailcheer <contact@mailcheer.com>,MIT,49611,"The official Python SDK for the Mailcheer email API: transactional emails, subscribers, campaigns and signed webhooks."
+2026-09-25T10:53:29Z,haetae,0.0.1,,Apache-2.0,12422,Robot safety & security stack for physical AI: a policy gate between untrusted models and actuators (pre-alpha)
+2026-09-25T10:54:31Z,Taihoctoan,0.1.0,Duc Tai,,3060,Thu vien toan hoc co ban
+2026-09-25T10:56:04Z,datacritic,1.0.0,Krish Gupta,MIT,26078,Dataset quality analysis and evidence-based cleaning recommendations.
+2026-09-25T10:56:35Z,wintergram-userbot,0.1.0,femboychik <your.email@example.com>,MIT,587427,Асинхронный MTProto-клиент для приватных Telegram-серверов (layers 167-228)
+2026-09-25T10:57:03Z,fuju-trace-vexdb,0.1.9,Fuju Trace,MIT,39794,VexDB storage and native BM25/vector search adapter for Fuju Trace
+2026-09-25T10:57:14Z,fuju-trace,0.1.9,Fuju Trace,MIT,41117,"Fuju Trace instrumentation SDK — emit trace events with deterministic, engine-matching event_id"
+2026-09-25T10:57:25Z,az-ai-core,0.0.1,,,1564,Reserved name. This project contains no code.
+2026-09-25T10:57:26Z,az-dust-admin,0.0.1,,,1589,Reserved name. This project contains no code.
+2026-09-25T10:58:22Z,pytest-threadlanes,0.1.0,Heknon,MIT,208062,"Run pytest-xdist schedulers on thread lanes: in one process, or many processes x many lanes"
+2026-09-25T10:59:38Z,telegram-premium-emojis,1.0.0,Abbos <abbos@osonpdf.uz>,MIT,38087,"A modern toolkit & AI Agent Skill for Telegram Bot Premium Custom Emojis, Aiogram 3 UI cards, inline keyboard custom emoji icons, and pack scanning."
+2026-09-25T11:04:02Z,jaraco-website-mcp-server,1.0.0,Jaraco GmbH <info@jaraco.de>,MIT,15257,"MCP Server for Jaraco GmbH website - provides programmatic access to blog posts, services, and categories"
+2026-09-25T11:04:20Z,varun-lib,1.0.0,,,2295,A simple calculator library
+2026-09-25T11:07:35Z,sidell-c5,1.0.0,,MIT,16541101,"Sidell C5 — corporate dossier infrastructure (validation, memory, deterministic report rendering)."
+2026-09-25T11:14:59Z,Genosixs-pyhelpers,0.2.2,Genosix <genosixgd@gmail.com>,AGPL-3.0-or-later,28277,A collection of small helping tasks to not clutter code
