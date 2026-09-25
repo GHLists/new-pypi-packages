@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T13:19:42Z,clearscribe-sdk,0.1.0,ClearScribe,Apache-2.0,18742,Python client for the ClearScribe API
+2026-09-25T13:20:34Z,BorleLib,0.1.8,Il Tuo Nome <tua.email@esempio.com>,,8450,"Libreria matematica, grafica e geometrica"
+2026-09-25T13:20:57Z,pandas-arango,0.1.2,Alexandru Petenchea <alex.petenchea@gmail.com>,"MIT License Copyright (c) 2026 Alex Petenchea Permission is hereby granted, free of charge, to any…",36251,A connector between ArangoDB and pandas DataFrames
+2026-09-25T13:22:03Z,jev-model-router,0.1.0,Himanshu Kumar,MIT,76863,"Per-turn model routing for Claude Code, decided by TypeSafe's Jev."
+2026-09-25T13:23:13Z,feedback-manager,0.1.0,S MUNI HARISH,Apache-2.0,79137,"Production-grade feedback infrastructure for LangChain/LangGraph applications: capture, correlate, persist, route, and resolve feedback as a first-class domain concern."
+2026-09-25T13:23:48Z,svg-picker,1.0.1,RinKokawa <rin@rinco.cc>,MIT,27753,A native GUI tool to search and pick SVG icons from Iconify
+2026-09-25T13:25:24Z,unsiloed-apimatic-sdk,0.0.2,Muhammad Rafay,MIT,403276,Sample SDKs for Unsiloed by APIMatic
+2026-09-25T13:29:03Z,roomie,0.1.0,SQLRooms Contributors,MIT,2807403,Local DuckDB documents with external AI through MCP
+2026-09-25T13:29:46Z,googlewifiapi,0.1.0,Eddie Reasoner <eddie.reasoner@gmail.com>,MIT,12275,Asynchronous Python wrapper for the local Google Wifi JSON API
+2026-09-25T13:30:44Z,fastapi-contractguard,0.1.0,Prathamesh Pai,MIT,13441,Detect breaking changes in FastAPI API contracts
+2026-09-25T13:35:01Z,ainize,0.1.0,,MIT,9111,Call an Ainize node with ordinary OpenAI code; pay for throughput by staking AIN
+2026-09-25T13:35:01Z,polars-intervals,0.1.0,,MIT,77415455,"Fast interval algorithms for Polars, implemented in Rust"
+2026-09-25T13:36:30Z,sam-mesh,0.1.0rc4,,Apache-2.0,143094,Native SDK for joining a SAM agent mesh from inside a Python agent process
+2026-09-25T13:38:11Z,tq-query,0.1.0,,Apache-2.0,26441,Query arrays of structured data
+2026-09-25T13:38:35Z,lorem-jax,0.1.0,,BSD-3-Clause,445919,LOREM: an equivariant long-range machine learning interatomic potential in JAX
+2026-09-25T13:39:16Z,pennylane-client,0.1.0,Lenstra <tech@lenstra.co>,MIT,151775,Async Python client for the Pennylane API
+2026-09-25T13:39:58Z,rugbe-client,0.1.0,,,29516,Typed HTTP + SSE client (sync and async) for rugbe-agent-runtime
+2026-09-25T13:39:59Z,gzl,1.0.0,"""Andreas A. Buchheit"" <andreas.buchheit@uni-saarland.de>",AGPL-3.0-or-later,2495652,"Efficient and precise evaluation of the lattice sums in high-order linked-cluster expansions of quantum lattice models, based on graph zeta functions"
+2026-09-25T13:41:50Z,wellmanifest-priority,0.1.0.dev0,Wellmanifest,Apache-2.0,51022,"Propose-only priority documents, deterministic ranking, and conformance contracts"
+2026-09-25T13:43:56Z,odoo-addon-base-url,18.0.1.0.0.8,"Akretion, ACSONE SA/NV, Odoo Community Association (OCA)",AGPL-3,31940,Abstract module/mixin to manage clean url on odoo record
+2026-09-25T13:50:11Z,bedrock-migrate,0.0.2,,Apache-2.0,54223,One-shot migration of inference from supported providers to Amazon Bedrock for Python repositories
+2026-09-25T13:52:35Z,dj-bucket,0.1.2,Benjamin Hirschfield <me@bennybarry.com>,MIT,11513,Use your database as a S3 storage
+2026-09-25T13:52:40Z,langchain-darkmoon,0.1.0,ASC-IT (Darkmoon),MIT,28761,"LangChain tools for Darkmoon, the local privacy-first autonomous AI penetration testing engine."
+2026-09-25T13:53:13Z,telos-ml,1.0.0,Ivan Samuel,Apache-2.0,445423,"Discrete diffusion and autoregressive language modeling: data preparation, training on MLX/CUDA/TPU, evaluation, and Python access to Apple's on-device Foundation Models."
+2026-09-25T13:55:34Z,mondash,1.0.0,leitel,MIT,1580207,"Lego-style terminal dashboard for Linux: cpu, gpu, memory, network, disks, processes, temps, power, downloads and jobs as independent monitors"
+2026-09-25T13:55:49Z,qiu-python-encore,0.1.0,Siavash Davani,MIT,7930,"Small enhancements of the Python standard library, e.g. enums comparing equal to their values."
+2026-09-25T13:55:54Z,prosediff,0.1.0,Raffaele Mancuso,MIT,123113,"Side-by-side diff for prose, not code: optimised for Word .docx documents, Markdown included, from two files or from git"
+2026-09-25T13:56:35Z,qiu-signals,0.1.0,Siavash Davani,MIT,27062,"Uniformly sampled axes and signals on them, sampled or algebraic, for classical and quantum numerics."
+2026-09-25T13:57:17Z,qiu-qiskit-encore,0.1.0,Siavash Davani,MIT,10037,Improvements of the native types of Qiskit: validated statevectors and the synthesis methods of circuit building blocks.
+2026-09-25T13:57:22Z,quellenkontor,0.1.0,,MIT,74184,Offizielles SDK für die Quellenkontor-API: geprüfte HR-Daten für Deutschland mit Quelle und Gültigkeit. German HR reference data API client.
+2026-09-25T13:58:36Z,qiu-qiskit-aer-encore,0.1.0,Siavash Davani,MIT,8873,"Qiskit Aer simulators configured for the available hardware, CPU or GPU."
+2026-09-25T13:58:37Z,speedtronic,0.1.0,BenchLabs,Apache-2.0,108620,"A fast, efficient, architecture-neutral training engine with DumbDiLoCo"
+2026-09-25T13:59:01Z,qiu-classical-simulation,0.1.0,Siavash Davani,MIT,38360,"Tools for classical simulations: paraxial wave optics of Gaussian beams through sliced lenses, with a simulation loop for any backend and classical references."
+2026-09-25T13:59:37Z,testorim,0.1.0,Testorim <info@fulgic.com>,MIT,34430,"Run Testorim AI browser tests from Python and pytest: plain-English tests, real browsers, verdicts with evidence."
+2026-09-25T13:59:47Z,verdog-runtime,0.1.0,,AGPL-3.0-only,334400,"The Verdog workflow runtime, shared by every generated project."
+2026-09-25T14:00:32Z,qiu-mps-initializer,0.3.0,Siavash Davani,MIT,15760,Approximate state preparation for Qiskit with layers of one- and two-qubit gates from matrix product states (MPS).
+2026-09-25T14:00:55Z,qiu-quantum-computing,0.1.0,Siavash Davani,MIT,37198,"Generic computations on the amplitudes of a quantum computer, as Qiskit circuits: state preparation, QFT, uniformly controlled rotations and diagonal phase operators of sampled signals."
+2026-09-25T14:01:47Z,qiu-hamiltonian-simulation,0.1.0,Siavash Davani,MIT,14677,Qiskit circuits of the time evolution under potentials and kinetic energies given as sampled signals.
+2026-09-25T14:08:02Z,genimg,0.1.0,,MIT,2197256,Multi-provider image generation CLI (Gemini + OpenAI)
+2026-09-25T14:08:59Z,featherweb,1.0.0,lucas-lmoura <mouradev1997@gmail.com>,MIT,367580,Lightweight async web framework with class-based controllers and zero required dependencies
+2026-09-25T14:16:05Z,mcp-server-bwt,0.2.0,Kuba Serafinowski,MIT,39382,MCP server for Bing Webmaster Tools
+2026-09-25T14:16:33Z,rclone-crypt-python,0.2.0,rclone-crypt-python contributors,"MIT License Copyright (c) 2026 rclone-crypt-python contributors Permission is hereby granted, free…",58017,Pure-Python reader/writer for rclone crypt files
+2026-09-25T14:19:01Z,decisionsmith,0.1.0,Izam Mohammed,Apache-2.0,219126,"Use and fine-tune System One models (Jev, Laya) on your data, with an LLM as the teacher."
