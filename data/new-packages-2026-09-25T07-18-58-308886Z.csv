@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T06:21:35Z,feynlag,0.1.0,Moises Zeleny <moiseszeleny@gmail.com>,MIT,339337,Tree-level Feynman rules from BSM Lagrangians in pure SymPy
+2026-09-25T06:21:55Z,decibri-mcp,0.0.0,Decibri <hello@decibri.com>,,3242,"The official Decibri MCP server. Local microphone and speaker access for AI agents, powered by Decibri."
+2026-09-25T06:30:00Z,flakelens,0.1.1,VitaPilot AI LLC <dev@vitapilotai.com>,MIT,20861,"Separate real LLM failures from flaky ones, with confidence intervals."
+2026-09-25T06:31:45Z,functualize-substrate-sqlite,0.4.0,Mohammad Hakim Adiprasetya <viltohmyst@gmail.com>,Apache-2.0,34131,SQLite-backed state persistence and execution tracking plugin for functualize
+2026-09-25T06:34:21Z,codegment,1.0.0,Nikita Denissov,LGPL-2.1-or-later,33405,A code editor with syntax highlighting and auto-completion built with Kivy and Pygments
+2026-09-25T06:35:17Z,notas-musicais-rks,0.1.0,Your Name,,14196,"Notas musicais é um CLI para ajudar na formação de escalas, acordes e campos harmônicos"
+2026-09-25T06:35:33Z,qram-simulator,0.2.1,Agony <chenzhaoyun@iai.ustc.edu.cn>,Apache-2.0,9369210,QRAM 电路模拟核心：qubit/qutrit 两种架构的噪声稀疏分支仿真（pybind11 薄绑定）
+2026-09-25T06:38:17Z,compyps,1.0.0,Ganesh Kandu <kanduganesh@gmail.com>,Apache-2.0,34393,Framework-neutral pluggable encryption handlers for PayloadShield
+2026-09-25T06:38:29Z,stepcap,0.1.7,kajisho5,MIT,771934,"Record once: a step-by-step guide for people (Markdown / single-file HTML / checklist) and an Agent Skill (SKILL.md) for any agent. Fully local, works offline, no account."
+2026-09-25T06:39:26Z,rigyard,1.0.0,zz990099,MIT,283436,A configuration-driven CLI for containerized development workflows
+2026-09-25T06:39:51Z,lythosmsew,0.1.0,Hasan Deniz Altuntaş <lythosfea@gmail.com>,MIT,232204,"Mechanically stabilised earth walls: external stability (sliding, overturning, eccentricity, bearing capacity by Terzaghi, Meyerhof, Hansen, Vesić and EN 1997-1), internal stability of steel strip an…"
+2026-09-25T06:41:13Z,genoxide,0.6.0,,MIT OR Apache-2.0,16120028,"Evolutionary computation in Rust, for Python: genetic algorithms, CMA-ES, differential evolution, NSGA-II and more"
+2026-09-25T06:44:14Z,lythospile,0.1.0,Hasan Deniz Altuntaş <lythosfea@gmail.com>,MIT,252378,"Axial capacity of piles in layered ground: shaft friction by the α, β and λ methods and K·σ'v·tan δ, base resistance by Meyerhof, Vesić and Janbu, the pile's weight, the water table, group efficiency…"
+2026-09-25T06:44:55Z,flexposit,0.2.0,Yimin Gao <yg9bq@virginia.edu>,MIT,2532690,"FlexPosit: mixed-precision Posit quantization for LLMs, with matching accelerator RTL."
+2026-09-25T06:46:07Z,mcp_dataset_pulse,0.1.0,,,5411,"An Mcp which provides AI agents with secure, real-time access to profile and analyze local CSV datasets."
+2026-09-25T06:47:03Z,lillardhaz,0.1.0,Nobutaka Fukuda <nobutaka.fukuda@tohoku.ac.jp>,MIT,19737,Simultaneous-equations hazard/probit models with a Gaussian-copula correlation (Lillard 1993)
+2026-09-25T06:54:03Z,multicloud-py-sts-aws,0.1.8,,Apache-2.0,24211,AWS STS provider for multicloud-sts.
+2026-09-25T06:54:10Z,multicloud-py-sts-gcp,0.1.8,,Apache-2.0,24057,Google Cloud IAM provider for multicloud-sts.
+2026-09-25T06:54:35Z,multicloud-py-sts-alibaba,0.1.8,,Apache-2.0,12362,Alibaba Cloud RAM provider for multicloud-sts (placeholder; implementation pending).
+2026-09-25T06:56:58Z,hyperscale-crypto,0.1.0,Andy Caine,MIT,72689,Application-tier encrypted Django fields backed by Tink keysets and AWS KMS
+2026-09-25T06:57:09Z,crawl4tools,1.0.0b1,xhighhongo41,Apache-2.0,550553,"Web crawler server for Open WebUI and MCP, plus a local download CLI, built on crawl4ai"
+2026-09-25T06:57:23Z,xiangxin-sdk,0.1.0,象信AI <wanglei@xiangxinai.cn>,Apache-2.0,87564,象信 AI 官方 Python SDK —— 调用象信一号系统一模型（System One API）
+2026-09-25T07:12:12Z,mini-atlas-simulator,0.2.0,,Apache-2.0,231930,"UTC simulation clock, result catalog, writer, and ResultReader for Mini Atlas."
+2026-09-25T07:12:15Z,sightradar-rekognition-shim,0.2.0,SightRadar,MIT,29665,Drop-in shim that lets boto3 AWS Rekognition face-recognition code run against SightRadar with a ~2-line change.
+2026-09-25T07:13:07Z,mini-atlas-monitor,0.2.0,,Apache-2.0,1435364,Read-only Mini Atlas monitor. One Waitress process serves the Flask API and the compiled React application.
+2026-09-25T07:13:39Z,coderecoverage,0.1.0,Recoverage,MIT,174734,"Project-agnostic agentic code coverage: measure, score, explain gaps, draft tests."
+2026-09-25T07:17:05Z,donkey-kit,0.1.0,See README for maintainer + support statement,Apache-2.0,548251,An SDK for consuming Agent Fabric capabilities (governed model and tool access) from your own agent framework.
+2026-09-25T07:18:28Z,dailycode,1.0.0,JustVallxyz <rhevaldyoctavianharis@gmail.com>,MIT,17677,"Encode, decode, wrap, and run Python source with reversible codecs."
