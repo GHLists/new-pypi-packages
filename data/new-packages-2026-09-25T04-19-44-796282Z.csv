@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T03:32:42Z,astblock,0.1.0,Troy Teodoro <troyteodoro00@gmail.com>,MIT,30329,"Block individual Python statements from running, using an AST-fingerprint blocklist."
+2026-09-25T03:36:22Z,math-ai-agent,0.0.1,Rubens Gomes,MIT,56344,Math AI Agent that uses LLM + Rubens calculator-mcp.
+2026-09-25T03:37:01Z,vertical-weather,0.0.1,Stephen Filios,,2382,Python client for the Vertical Weather API (placeholder; coming soon)
+2026-09-25T03:37:30Z,adaptive-concurrency,0.1.0,Aaraj <aarajh@users.noreply.github.com>,Apache-2.0,67999,"Latency-aware adaptive concurrency and batch sizing for bulk calls to slow, rate-limited APIs."
+2026-09-25T03:45:36Z,regimelib,0.1.0,Peter Cotton <peter.cotton@microprediction.com>,MIT,150294,"QuantLib's models with a hidden Markov regime, priced by the fast-switching expansion"
+2026-09-25T03:52:31Z,mdcat-date,1.0.2,"Uyen Mai, Siavash Mirarab","GNU General Public License, version 3",90206,Phylogenetic dating under a flexible categorical model using Expectation-Maximization
+2026-09-25T03:54:41Z,aivana,0.2.0,,Apache-2.0,73233,Aivana Intelligence API — Python SDK
+2026-09-25T03:55:32Z,hallpass-client,0.4.0,,Apache-2.0,24849,Check with hallpass whether a user may do something before your AI agent does it for them.
+2026-09-25T03:57:38Z,pulumi-osano,0.1.0,,MIT,68904,"Unofficial Pulumi provider for managing Osano Cookie Consent and Unified Consent resources. Not affiliated with Pulumi Corporation or Osano, Inc."
+2026-09-25T04:00:05Z,svarupa,0.2.0,,MIT,1267640,"Verified architecture diagrams and a queryable knowledge graph, derived from your codebase. Every box points at a line of code."
+2026-09-25T04:02:08Z,chatlore,0.1.0,cl0ver012,MIT,826775,"All your AI conversations, one graph, one chat. A local-first graph knowledge base built from ChatGPT, Claude, and Gemini exports."
+2026-09-25T04:02:17Z,datasette-otel-file-exporter,0.1.0a1,Alex Garcia,Apache-2.0,60326,"Export Datasette's OpenTelemetry spans to files - gzipped NDJSON or Parquet, a local directory or object storage. No collector, no backend"
+2026-09-25T04:03:00Z,foxess-modern,0.2.0,Home Assistant Community,Apache-2.0,2363891,"Modern, standalone Python library for FoxESS inverters using modbus-connection."
+2026-09-25T04:09:15Z,talkium,0.1.0,твоё имя или ник,MIT,16110,Python-библиотека для ботов Talksy в стиле aiogram
+2026-09-25T04:10:49Z,pressit,1.0.0,Ryan Wesley Hitchcock,MIT,46768,Structured adversarial interrogation of contradictory or uncertain fields (IFS: Iterative Field Synthesis)
+2026-09-25T04:10:51Z,meminqu,1.0.0,Ryan Wesley Hitchcock,MIT,25163,"Guided capture interviews for a memory store: seven question registers, rotating across domains, answers captured verbatim through memdate's pure CAPTURE rules"
+2026-09-25T04:11:00Z,objoke,0.0.1,oiiaio-web,Apache 2.0,15451,一个正经的玩笑库 | A serious joke library for programmers
+2026-09-25T04:11:04Z,memdate,1.0.0,Ryan Wesley Hitchcock,MIT,46895,"File-based memory system with a hard CAPTURE/DISTILL split: raw records are append-only evidence, distilled files are derived synthesis, and a cross-domain index keeps the connective tissue current"
+2026-09-25T04:11:38Z,multicloud-py-blob,0.1.6,,Apache-2.0,114276,Cloud-agnostic blob storage client for the python-multicloud SDK. Pair with a provider package (multicloud-blob-aws / -gcp / -alibaba) for actual cloud calls.
+2026-09-25T04:11:42Z,multicloud-py-blob-aws,0.1.6,,Apache-2.0,62179,AWS S3 provider for multicloud-blob.
+2026-09-25T04:11:44Z,multicloud-py-blob-gcp,0.1.6,,Apache-2.0,83506,Google Cloud Storage provider for multicloud-blob.
+2026-09-25T04:16:13Z,agent-vault-mcp,0.2.0,,,25043,DSA-Optimized AI Knowledge Bank MCP Server

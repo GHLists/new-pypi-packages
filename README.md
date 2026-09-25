@@ -8,39 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 03:19 UTC
+## Latest list — 2026-09-25 04:19 UTC
 
-New packages created between 2026-09-25 02:19 UTC and 2026-09-25 03:19 UTC.
+New packages created between 2026-09-25 03:19 UTC and 2026-09-25 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-25T03-19-33-911703Z.csv)
+[Full CSV](data/new-packages-2026-09-25T04-19-44-796282Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-25 02:19:54 | [gai-harness-asm](https://pypi.org/project/gai-harness-asm/) | 0.0.1 | kakkoii1337 <kakkoii1337@gmai… | 295.1 kB |  |
-| 2026-09-25 02:19:55 | [catraca](https://pypi.org/project/catraca/) | 0.1.0 | Maria Alice Maia | 217.7 kB | Provenance-aware authorisation for agent tool calls. |
-| 2026-09-25 02:21:33 | [reqparser](https://pypi.org/project/reqparser/) | 1.0.1 |  | 15.9 kB | Lightweight HTTP request parser |
-| 2026-09-25 02:24:23 | [multicloud-py-common](https://pypi.org/project/multicloud-py-common/) | 0.1.6 |  | 24.8 kB | Shared base for the python-multicloud SDK: exception hierarchy, provider regist… |
-| 2026-09-25 02:24:23 | [multicloud-py-gcp-common](https://pypi.org/project/multicloud-py-gcp-common/) | 0.1.6 |  | 16.7 kB | Shared GCP credential resolution utilities for multicloud-* providers. |
-| 2026-09-25 02:24:28 | [multicloud-py-aws-common](https://pypi.org/project/multicloud-py-aws-common/) | 0.1.6 |  | 23.9 kB | Shared AWS credential resolution utilities for multicloud-* providers. |
-| 2026-09-25 02:25:08 | [ppidest](https://pypi.org/project/ppidest/) | 0.8.0 | Takuya Kawanishi | 26.7 kB | Plotting Position-Information Divergence framework for parameter estimation of… |
-| 2026-09-25 02:25:10 | [git-bug-broker](https://pypi.org/project/git-bug-broker/) | 0.1.0 |  | 31.8 kB | MCP server that lets several agents share one git-bug store while the web UI is… |
-| 2026-09-25 02:28:16 | [manimol](https://pypi.org/project/manimol/) | 0.2.0 | MANIMOL developers | 457.7 kB | MANIMOL ensemble-relational conformer generation and compact-library constructi… |
-| 2026-09-25 02:28:35 | [DD-iraqi](https://pypi.org/project/DD-iraqi/) | 1.0.0 | DD_iraqi | 4.9 kB | A Python library to automatically fetch and rotate OpenVPN configs for scraping. |
-| 2026-09-25 02:29:57 | [openbot-sdk](https://pypi.org/project/openbot-sdk/) | 0.3.0 | "OpenBot.ai" <hello@openbot.a… | 20.2 kB | Thin Python client for the OpenBot.ai platform API. |
-| 2026-09-25 02:31:30 | [balanceproof](https://pypi.org/project/balanceproof/) | 0.1.0 |  | 10.0 kB | SEC fundamentals that prove they add up: checked balance sheets, income stateme… |
-| 2026-09-25 02:33:02 | [exp-mitmproxy-rs](https://pypi.org/project/exp-mitmproxy-rs/) | 0.12.11.post1 |  | 18.2 MB |  |
-| 2026-09-25 02:33:32 | [cycleuser-mailpilot](https://pypi.org/project/cycleuser-mailpilot/) | 0.0.4 | MailPilot Contributors | 137.1 kB | Pure-Python command-line mail client: send/receive via SMTP/IMAP/POP3, all main… |
-| 2026-09-25 02:38:39 | [fzi-aura](https://pypi.org/project/fzi-aura/) | 1.0.1 | Rupert Polley <polley@fzi.de> | 4.1 MB | Python SDK for the FZI-AURA dataset. |
-| 2026-09-25 02:40:31 | [exp-mitmproxy](https://pypi.org/project/exp-mitmproxy/) | 12.2.3.post1 | Experiential Labs | 3.2 MB | An interactive, SSL/TLS-capable intercepting proxy for HTTP/1, HTTP/2, and WebS… |
-| 2026-09-25 02:40:37 | [snowflake-cortex-agent-sdk](https://pypi.org/project/snowflake-cortex-agent-sdk/) | 0.0.1 | "Snowflake, Inc." <support@sn… | 314.6 kB | Python SDK for the Snowflake Cortex Agent REST API (agent:run streaming, thread… |
-| 2026-09-25 02:42:39 | [hallsim](https://pypi.org/project/hallsim/) | 0.1.0 | Baba Jaguska | 4.9 MB | Differentiable, composable multi-scale modelling framework for aging biology |
-| 2026-09-25 02:42:50 | [altero](https://pypi.org/project/altero/) | 0.1.0 | Full Context Labs | 2.2 MB | Altero for Claude Code: switch Claude Code accounts when usage limits run out |
-| 2026-09-25 02:49:12 | [viva-catalog](https://pypi.org/project/viva-catalog/) | 0.1.0 | Vivarium Collective | 128.9 kB | Ecosystem ledger for the vivarium / process-bigraph workbench: the registry of… |
-| 2026-09-25 02:50:33 | [zeroscan](https://pypi.org/project/zeroscan/) | 2.1.0 | Chau Vu / CPF-FAMILY <chauvuu… | 57.1 kB | The Zero-Scan, Git-Aware Context Engine for AI Coding Agents (Hermes, Claude Co… |
-| 2026-09-25 02:58:07 | [termigma](https://pypi.org/project/termigma/) | 1.0.0 | Rex Ackermann | 30.4 kB | An interactive terminal (TUI) Enigma machine simulator |
-| 2026-09-25 03:01:00 | [hiveplane](https://pypi.org/project/hiveplane/) | 0.1.0 | HivePlane Contributors | 322.7 kB | Control plane for production agent fleets: registry, certification, run lifecyc… |
-| 2026-09-25 03:01:45 | [broadcaster-studio](https://pypi.org/project/broadcaster-studio/) | 0.1.2 | KwonPop | 7.4 kB | FFmpeg & Pillow based Ultra-fast Broadcast Studio Overlay Tool |
-| 2026-09-25 03:03:20 | [django-swr-memoize](https://pypi.org/project/django-swr-memoize/) | 0.1.0 | Jimmy Engelbrecht | 21.6 kB | Stale-while-revalidate memoization for Django: API-compatible with django-memoi… |
-| 2026-09-25 03:12:42 | [kitten-text-processing](https://pypi.org/project/kitten-text-processing/) | 0.1.0 |  | 18.8 MB | Standalone, standard-library-only multilingual text normalization for TTS |
-| 2026-09-25 03:16:29 | [eudr-compliance-agent](https://pypi.org/project/eudr-compliance-agent/) | 1.3.0 | EUDRAgent Core Team <admin@eu… | 1.8 MB | Autonomous AI Agent compliance engine for EU Deforestation Regulation (EU 2023/… |
-| 2026-09-25 03:16:32 | [mini-agent-cli](https://pypi.org/project/mini-agent-cli/) | 0.2.0 | zhaomo08 | 61.1 kB | 终端里的编码 Agent：配置驱动，支持 OpenAI Chat / Responses 与 Anthropic 协议、MCP、Agent Skills |
+| 2026-09-25 03:32:42 | [astblock](https://pypi.org/project/astblock/) | 0.1.0 | Troy Teodoro <troyteodoro00@g… | 30.3 kB | Block individual Python statements from running, using an AST-fingerprint block… |
+| 2026-09-25 03:36:22 | [math-ai-agent](https://pypi.org/project/math-ai-agent/) | 0.0.1 | Rubens Gomes | 56.3 kB | Math AI Agent that uses LLM + Rubens calculator-mcp. |
+| 2026-09-25 03:37:01 | [vertical-weather](https://pypi.org/project/vertical-weather/) | 0.0.1 | Stephen Filios | 2.4 kB | Python client for the Vertical Weather API (placeholder; coming soon) |
+| 2026-09-25 03:37:30 | [adaptive-concurrency](https://pypi.org/project/adaptive-concurrency/) | 0.1.0 | Aaraj <aarajh@users.noreply.g… | 68.0 kB | Latency-aware adaptive concurrency and batch sizing for bulk calls to slow, rat… |
+| 2026-09-25 03:45:36 | [regimelib](https://pypi.org/project/regimelib/) | 0.1.0 | Peter Cotton <peter.cotton@mi… | 150.3 kB | QuantLib's models with a hidden Markov regime, priced by the fast-switching exp… |
+| 2026-09-25 03:52:31 | [mdcat-date](https://pypi.org/project/mdcat-date/) | 1.0.2 | Uyen Mai, Siavash Mirarab | 90.2 kB | Phylogenetic dating under a flexible categorical model using Expectation-Maximi… |
+| 2026-09-25 03:54:41 | [aivana](https://pypi.org/project/aivana/) | 0.2.0 |  | 73.2 kB | Aivana Intelligence API — Python SDK |
+| 2026-09-25 03:55:32 | [hallpass-client](https://pypi.org/project/hallpass-client/) | 0.4.0 |  | 24.8 kB | Check with hallpass whether a user may do something before your AI agent does i… |
+| 2026-09-25 03:57:38 | [pulumi-osano](https://pypi.org/project/pulumi-osano/) | 0.1.0 |  | 68.9 kB | Unofficial Pulumi provider for managing Osano Cookie Consent and Unified Consen… |
+| 2026-09-25 04:00:05 | [svarupa](https://pypi.org/project/svarupa/) | 0.2.0 |  | 1.3 MB | Verified architecture diagrams and a queryable knowledge graph, derived from yo… |
+| 2026-09-25 04:02:08 | [chatlore](https://pypi.org/project/chatlore/) | 0.1.0 | cl0ver012 | 826.8 kB | All your AI conversations, one graph, one chat. A local-first graph knowledge b… |
+| 2026-09-25 04:02:17 | [datasette-otel-file-exporter](https://pypi.org/project/datasette-otel-file-exporter/) | 0.1.0a1 | Alex Garcia | 60.3 kB | Export Datasette's OpenTelemetry spans to files - gzipped NDJSON or Parquet, a… |
+| 2026-09-25 04:03:00 | [foxess-modern](https://pypi.org/project/foxess-modern/) | 0.2.0 | Home Assistant Community | 2.4 MB | Modern, standalone Python library for FoxESS inverters using modbus-connection. |
+| 2026-09-25 04:09:15 | [talkium](https://pypi.org/project/talkium/) | 0.1.0 | твоё имя или ник | 16.1 kB | Python-библиотека для ботов Talksy в стиле aiogram |
+| 2026-09-25 04:10:49 | [pressit](https://pypi.org/project/pressit/) | 1.0.0 | Ryan Wesley Hitchcock | 46.8 kB | Structured adversarial interrogation of contradictory or uncertain fields (IFS:… |
+| 2026-09-25 04:10:51 | [meminqu](https://pypi.org/project/meminqu/) | 1.0.0 | Ryan Wesley Hitchcock | 25.2 kB | Guided capture interviews for a memory store: seven question registers, rotatin… |
+| 2026-09-25 04:11:00 | [objoke](https://pypi.org/project/objoke/) | 0.0.1 | oiiaio-web | 15.5 kB | 一个正经的玩笑库 \| A serious joke library for programmers |
+| 2026-09-25 04:11:04 | [memdate](https://pypi.org/project/memdate/) | 1.0.0 | Ryan Wesley Hitchcock | 46.9 kB | File-based memory system with a hard CAPTURE/DISTILL split: raw records are app… |
+| 2026-09-25 04:11:38 | [multicloud-py-blob](https://pypi.org/project/multicloud-py-blob/) | 0.1.6 |  | 114.3 kB | Cloud-agnostic blob storage client for the python-multicloud SDK. Pair with a p… |
+| 2026-09-25 04:11:42 | [multicloud-py-blob-aws](https://pypi.org/project/multicloud-py-blob-aws/) | 0.1.6 |  | 62.2 kB | AWS S3 provider for multicloud-blob. |
+| 2026-09-25 04:11:44 | [multicloud-py-blob-gcp](https://pypi.org/project/multicloud-py-blob-gcp/) | 0.1.6 |  | 83.5 kB | Google Cloud Storage provider for multicloud-blob. |
+| 2026-09-25 04:16:13 | [agent-vault-mcp](https://pypi.org/project/agent-vault-mcp/) | 0.2.0 |  | 25.0 kB | DSA-Optimized AI Knowledge Bank MCP Server |

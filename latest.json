@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-09-25T02:19:25.439407Z",
-    "path": "data/new-packages-2026-09-25T03-19-33-911703Z.csv",
-    "to": "2026-09-25T03:19:33.911703Z"
+    "count": 22,
+    "from": "2026-09-25T03:19:33.911703Z",
+    "path": "data/new-packages-2026-09-25T04-19-44-796282Z.csv",
+    "to": "2026-09-25T04:19:44.796282Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-25T01:10:18Z",
       "package": "goodmem-dspy",
       "since": "2026-09-25T00:18:58.557095Z"
     }
   ],
-  "serial": 41436888,
+  "serial": 41438112,
   "source_truncated": false,
-  "window": "2026-09-25T03:19:33.911703Z"
+  "window": "2026-09-25T04:19:44.796282Z"
 }
