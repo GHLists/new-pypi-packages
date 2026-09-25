@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T18:19:38Z,capo-gamelift,0.1.0,,,1377188,Python SDK for Gamelift.
+2026-09-25T18:19:53Z,xtr-clock,1.0.1,Razvan Ceana,MIT,59421,"Decouples an application from the system clock: an injectable clock, a timezone-aware instant, and a frozen clock for tests."
+2026-09-25T18:19:53Z,xtr-logging,1.0.1,Razvan Ceana,MIT,190423,"Channels, handlers, processors and formatters for Python, behind one logger interface."
+2026-09-25T18:19:55Z,xtr-console,1.0.1,Razvan Ceana,MIT,106677,"Async-native console applications for Python: commands as functions or classes, declared once and wired by a container."
+2026-09-25T18:20:14Z,capo-gameliftstreams,0.1.0,,,363509,Python SDK for Gameliftstreams.
+2026-09-25T18:20:58Z,capo-geo-maps,0.1.0,,,152850,Python SDK for Geo Maps.
+2026-09-25T18:21:36Z,capo-geo-places,0.1.0,,,296779,Python SDK for Geo Places.
+2026-09-25T18:22:19Z,capo-geo-routes,0.1.0,,,647356,Python SDK for Geo Routes.
+2026-09-25T18:23:08Z,capo-glacier,0.1.0,,,338770,Python SDK for Glacier.
+2026-09-25T18:23:20Z,xtr-logging-contracts,1.0.1,Razvan Ceana,MIT,23706,"The logging contract: one interface, eight severities, and a logger that discards everything."
+2026-09-25T18:23:22Z,xtr-messenger,1.0.1,,MIT,214946,"A message bus for Python: envelopes, stamps, a middleware chain, and pluggable transports."
+2026-09-25T18:23:24Z,xtr-service-contracts,1.0.1,Razvan Ceana,MIT,10006,"Contracts for the lifecycle of a service: what a container drives, not what a service does."
+2026-09-25T18:23:47Z,capo-global-accelerator,0.1.0,,,505035,Python SDK for Global Accelerator.
+2026-09-25T18:24:25Z,capo-glue,0.1.0,,,2699773,Python SDK for Glue.
+2026-09-25T18:24:26Z,kalja,0.1.0,jburn,GPL-3.0-or-later,48115,Finnish-focused text mutation and human-input fuzzing
+2026-09-25T18:25:00Z,xtr-dependency-injection,1.0.1,Razvan Ceana,MIT,166509,"A Symfony-style bundle and kernel layer for the xtr libraries, compiled to a wireup container."
+2026-09-25T18:25:06Z,capo-grafana,0.1.0,,,301939,Python SDK for Grafana.
+2026-09-25T18:25:49Z,capo-greengrass,0.1.0,,,546798,Python SDK for Greengrass.
+2026-09-25T18:26:04Z,ostia,0.0.1,Alireza Shateri,Apache-2.0,11963,"Topology-aware GPU data infrastructure: fabric, columnar exchange, distributed runtime and query engine. Early development."
+2026-09-25T18:26:13Z,etalon,0.0.1,Coyos d.o.o.,Apache-2.0,345725,Qualification evidence for private AI deployments
+2026-09-25T18:26:23Z,credonlabs,0.1.0,Credon Labs Engineering,LicenseRef-Proprietary,244723,"Credon Labs Model Risk Management SDK — validation, drift, explainability, fairness and RBI FREE-AI reporting for credit models."
+2026-09-25T18:27:20Z,glosa,0.1.0,credetus,MIT,6849,Glosa.
+2026-09-25T18:28:44Z,yrec,2026.2.dev1,,,1854786,A Python wrapper for the Yale Rotating Evolution Code (YREC)
+2026-09-25T18:28:55Z,zipstrain-rust-profiler,0.1.0,,MIT,10724633,Optional native profiling backend for ZipStrain
+2026-09-25T18:30:31Z,ostia-exchange,0.0.1,Alireza Shateri,Apache-2.0,11799,"Columnar shuffle, broadcast and gather with flow control and a topology-aware planner. Early development."
+2026-09-25T18:30:33Z,ostia-fabric,0.0.1,Alireza Shateri,Apache-2.0,11783,"Topology discovery, transports, memory registration and byte transfers between GPUs. Early development."
+2026-09-25T18:30:35Z,ostia-query,0.0.1,Alireza Shateri,Apache-2.0,11691,Distributed SQL and dataframe query engine on GPUs. Early development.
+2026-09-25T18:36:02Z,smathlib,0.1.1,Sonari,,76322,"High-performance C++20 SIMD Mathematics, Non-Euclidean Geometry & Physics Foundation"
+2026-09-25T18:36:25Z,socu,0.1.0,Roland Schwan <roland.schwan@epfl.ch>,BSD-2-Clause,41593,GPU-accelerated solver for block tridiagonal linear systems
+2026-09-25T18:37:29Z,observe-kit,0.1.1,Georg Kasper,Apache-2.0,86821,"@observed: one decorator that times a call, classifies how it ended, logs it and emits an event."
+2026-09-25T18:38:10Z,not-jwt,1.1.0,Ibrahim Rafi,MIT,9539,"Tiny HMAC-SHA256 message signer, token-compatible with the not-jwt npm package."
+2026-09-25T18:38:11Z,easycontract,0.1.0,Román Ramírez <roman@easycontract.online>,LicenseRef-easycontract-proprietary,31349,SDK oficial de Python para el API de easycontract (firma electrónica eIDAS)
+2026-09-25T18:38:43Z,idatoms,0.1.0,thesignumt,MIT,5779,An atom-based idle game.
+2026-09-25T18:40:27Z,overscore-cli,0.1.1,,,70194,"ovs: the Overscore command line, and the helper a Python model imports"
+2026-09-25T18:43:08Z,tengrade-client,0.1.0,Fibtec Limited,Apache-2.0,63368,Python SDK for TenGrade's Examiner API
+2026-09-25T18:49:54Z,mlx-beam-vision,0.1.0a5,the mlx-beam contributors,Apache-2.0,110080,"Vision towers for mlx-beam: images in the prompt, served by the checkpoint's own tower."
+2026-09-25T18:50:03Z,mechaharness,0.1.0,Richard Lee <rlee@tokyo3.com>,MIT,126053,Agentic harness that abstracts inference backends and model-family harness architectures
+2026-09-25T18:51:49Z,pyramid-niteo,0.1.0,Niteo <info@niteo.co>,MIT,88133,Opt-in Pyramid tweens for Niteo applications on Fly.io
+2026-09-25T18:54:41Z,xtr-lock,1.0.1,Razvan Ceana,MIT,5672,"Locks around shared resources, after Symfony's Lock component. Not implemented yet."
+2026-09-25T18:55:03Z,mahabodi,0.1.0,MahaBodi contributors,MIT,7033930,MahaBodi: a System-1 engine for AI agents (fastmemory topology memory + Laya decisions)
+2026-09-25T18:56:38Z,wagtail-multiple-chooser-block,0.1.0,Joey Jurjens <joeyjurjens@gmail.com>,MIT,4035942,"A StreamField block to choose multiple images, documents, pages or snippets at once, like MultipleChooserPanel"
+2026-09-25T18:57:44Z,xtr-scheduler,1.0.1,Razvan Ceana,MIT,5784,"Recurring messages on xtr-messenger, after Symfony's Scheduler component. Not implemented yet."
+2026-09-25T18:58:54Z,sigrix-launcher,0.1.0,Sigrix,Apache-2.0,120105,"Start a Sigrix-delivered MCP server you bought from the MCP client you already use: checks the purchase, fetches and verifies the package, installs it and hands over stdio."
+2026-09-25T19:05:45Z,marin-shellbox,0.2.127.dev36173526241,,,93133,Shell execution machines with local and remote backends
+2026-09-25T19:06:28Z,python-qis,1.0.1,Vedansh Shetti,,5925,QIS Library for Python. (QIS is Quantum Information Science)
+2026-09-25T19:06:45Z,loadforge,0.2.0,Ahmad,MIT,626399,Forge realistic load tests as Python code
+2026-09-25T19:09:04Z,tcolorize,0.1.0,grayphi,,4978,Very simple cross-platform colored terminal text in Python
+2026-09-25T19:09:49Z,outlook-cdp,0.1.0,,MIT,59296,"Drive Outlook on the web through Chrome DevTools, with composable pre-send guards"
+2026-09-25T19:09:59Z,allen-python,0.1.0,Aristóbulo Meneses,,18368,"A modern, type-safe Python library for modeling, normalizing, and manipulating time periods using Allen's Interval Algebra."
+2026-09-25T19:10:26Z,invariantone,1.0.1,"Tanmay Sah, Dolly Sah",Apache-2.0,19949913,InvariantOne: High-Assurance Permutation-Equivariant Natural-Language Decision Model
+2026-09-25T19:11:21Z,sqlakit-debugserver,0.1.0,Anton Ruhlov,MIT,482043,"A page of the queries a SQLAKit application runs, as it runs them."
+2026-09-25T19:13:24Z,evie-kf,0.1.0,Anonymous,MIT,26442,EvieKF: AdamW with a Kronecker-factored gradient-noise preconditioner (PyTorch)
+2026-09-25T19:14:30Z,marb,0.1.0,,,2042,Add your description here
+2026-09-25T19:16:38Z,catalog-bot-os,0.1.0,Tu Nombre / Comunidad,,19893,Un Agente de IA local para catálogos SQL con Búsqueda Semántica 100% Inhackeable
+2026-09-25T19:18:01Z,gymcraft,1.2.0,,,161758,Python RPC client for GymCraft - Gymnasium-style RL environments in Minecraft
