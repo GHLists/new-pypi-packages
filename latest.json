@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-09-25T21:19:05.163267Z",
-    "path": "data/new-packages-2026-09-25T22-20-03-566079Z.csv",
-    "to": "2026-09-25T22:20:03.566079Z"
+    "count": 33,
+    "from": "2026-09-25T22:20:03.566079Z",
+    "path": "data/new-packages-2026-09-25T23-19-22-457684Z.csv",
+    "to": "2026-09-25T23:19:22.457684Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-25T20:07:41Z",
       "package": "flmkr-agent",
       "since": "2026-09-25T19:19:11.720829Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-25T21:43:47Z",
       "package": "openai-mcp-extensions",
       "since": "2026-09-25T21:19:05.163267Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-09-25T22:19:59Z",
-      "package": "slabnirt",
-      "since": "2026-09-25T21:19:05.163267Z"
+      "created_at": "2026-09-25T22:24:34Z",
+      "package": "tacit-qda",
+      "since": "2026-09-25T22:20:03.566079Z"
     }
   ],
-  "serial": 41470439,
+  "serial": 41471751,
   "source_truncated": false,
-  "window": "2026-09-25T22:20:03.566079Z"
+  "window": "2026-09-25T23:19:22.457684Z"
 }

@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T22:19:59Z,slabnirt,0.7.0,Ilya Lozovsky <i.n.lozovsky@gmail.com>,BSD-3-Clause,3472256,Processing and analysis tools for Normalized Impulse Response Testing of concrete slabs and other plate-like structures
+2026-09-25T22:25:07Z,control-assurance,0.1.0,Bestman Ezekwu Enock,Apache-2.0,54481,Prove that a registered safety control can actually fail
+2026-09-25T22:25:31Z,proof-of-edition,0.2.0,Lebrel,Apache-2.0,272625,"Proof of Edition: verify that an inference API serves the model edition it claims (fingerprints, signed manifests and receipts, re-execution audits)."
+2026-09-25T22:27:50Z,ib-gateway-mcp,0.1.1,Alex Iordanescu,MIT,869665,"MCP server and Python library with broad coverage of the Interactive Brokers TWS API, companion to ib-gateway-docker"
+2026-09-25T22:28:11Z,usageflow-vibe,0.1.0,UsageFlow,MIT,45982,(Beta) UsageFlow Vibe - meter and govern Anthropic and OpenAI calls per customer
+2026-09-25T22:28:25Z,ps-python-pptx,1.1.0,Steve Canny <stcanny@gmail.com>,MIT,10239103,"Python-pptx fork with public APIs for themes, backgrounds, lists, and rich text."
+2026-09-25T22:43:36Z,datavir,0.0.0,Development Team,MIT,3016,This name has been reserved using Reserver
+2026-09-25T22:43:56Z,jev-secrets,1.0.0,Fox Islam <foxislam@outlook.com>,MIT,100003,Reversible PII redaction for Jev requests
+2026-09-25T22:44:13Z,mcp-score-server,0.1.0,Thomas Skovlund Hansen,MIT,251752,MCP server for AI-driven music score generation and manipulation
+2026-09-25T22:45:18Z,forge-asteria,0.0.1,,MIT,2003,Name held by the Forge fleet. Not a public package; installs nothing.
+2026-09-25T22:45:19Z,forge-chaos,0.0.1,,MIT,1987,Name held by the Forge fleet. Not a public package; installs nothing.
+2026-09-25T22:45:21Z,forge-testkit,0.0.1,,MIT,2004,Name held by the Forge fleet. Not a public package; installs nothing.
+2026-09-25T22:45:23Z,loutron,0.0.1,,MIT,1950,Name held by the Forge fleet. Not a public package; installs nothing.
+2026-09-25T22:45:30Z,zerochannel,0.1.0,,MIT,577318,Lock-free single-writer multi-reader shared-memory channel for inter-process communication
+2026-09-25T22:51:27Z,cjm-sentence-segmentation-adapter-interface,0.0.1,"""Christian J. Mills"" <9126128+cj-mills@users.noreply.github.com>",Apache-2.0,17900,Typed sentence-segmentation task-adapter interface — SentenceSegmentationAdapter ABC + GenericSentenceSegmentationAdapter (thin pass-through around a pure-compute segmenter tool) and the SentenceSegm…
+2026-09-25T22:51:29Z,cjm-speaker-diarization-adapter-interface,0.0.1,"""Christian J. Mills"" <9126128+cj-mills@users.noreply.github.com>",Apache-2.0,26648,Typed speaker-diarization task-adapter interface — SpeakerDiarizationAdapter ABC + GenericSpeakerDiarizationAdapter (thin pass-through around a diarization tool) and the SpeakerDiarizationToolProtoco…
+2026-09-25T22:51:31Z,cjm-capability-monitor-nvidia,0.0.25,"""Christian J. Mills"" <9126128+cj-mills@users.noreply.github.com>",Apache-2.0,19510,An NVIDIA GPU monitoring capability for the cjm-substrate runtime that provides real-time hardware telemetry via nvitop.
+2026-09-25T22:51:56Z,global-directory,3.0.1,,MIT,18589,Share any local folder publicly via Cloudflare Tunnel with a beautiful file browser UI
+2026-09-25T22:54:07Z,cjm-capability-pysbd,0.0.1,"""Christian J. Mills"" <9126128+cj-mills@users.noreply.github.com>",Apache-2.0,19376,A pySBD-based sentence-segmentation capability for the cjm-substrate runtime — rule-based Golden-Rules sentence boundaries as character spans over the original text.
+2026-09-25T22:56:23Z,whatdo,0.1.0,Drew Bednar,Apache-2.0,263607,A Typesafe-compatible Jev API server backed by the Laya decision engine
+2026-09-25T22:57:04Z,tracepad,0.0.1,,Apache-2.0,1977,Tracepad SDK for Python: the first release is on its way.
+2026-09-25T22:57:11Z,phi4-finance,0.5.4,Saul Ochoa,MIT,93360,"phi^4 quantum field theory for financial time series - implementation of Bachtis et al., Physica A 701 (2026)"
+2026-09-25T22:57:56Z,solera,0.0.1,,Apache-2.0,778159,"Asset-first orchestration on object storage: SDK, worker, and control plane"
+2026-09-25T22:59:48Z,astrarecon,0.1.0,LavSarkari,MIT,1358326,"Linux-first, DAG-based recon orchestration engine with persistent sessions and Content-Addressed Storage."
+2026-09-25T23:00:40Z,dock-timelapse,0.2.0,David Boclé,MIT,64176,Record your macOS Dock over time and render Apple-style timelapse videos of its evolution (CLI + MCP server).
+2026-09-25T23:02:59Z,scanmate-ink,0.24.1,Eduardo Russo,MIT,196310,"The pixel and geometry kernel behind ScanMate: raster codec, ink separation, warps, homographies, FFT and the pipeline contracts."
+2026-09-25T23:03:04Z,scanmate-align,0.24.1,Eduardo Russo,MIT,108834,"Put a scanned or photographed page back onto the original it came from: deskew, rescale and register, trying transform models until one is good enough."
+2026-09-25T23:04:47Z,enzomotive,0.1.0,,MIT,210388,Terminal-based agent harness for the AI Engineering Lab
+2026-09-25T23:05:38Z,ailsa,0.0.1,Christoph Steinbeck,MIT,2628,AILSA — AI + LSD + Agents: agentic Computer-Assisted Structure Elucidation of natural products from NMR data (name reservation)
+2026-09-25T23:06:47Z,touchstone-bench,0.1.1,Sam Larson <sam@pebbleml.com>,MIT,614795,"Turn a company's running AI agent into a Harbor benchmark of its own work — capture, survey, review, train."
+2026-09-25T23:12:50Z,ftcheck,0.1.0,Latchwright,MIT OR Apache-2.0,13187918,Free-threaded correctness harness for Rust/PyO3 extensions
+2026-09-25T23:15:35Z,pi-sdk,0.0.1,Physical Intelligence,,1387,Reserved by Physical Intelligence. pi-sdk is distributed through PI's private package registry.
+2026-09-25T23:16:43Z,fastapi-stream-lease,0.1.0,Agustin Saiz <agustinsaiz02@gmail.com>,MIT,90767,Distributed stream and SSE concurrency lease manager for FastAPI and Starlette backed by atomic Redis Lua scripts.
