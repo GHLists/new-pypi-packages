@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T07:53:48Z,py-tbparse,0.1.1a0,DDSNA,MIT,1261417,Native Python port of the twbparser R package: parse Tableau .twb/.twbx workbooks into pandas DataFrames.
+2026-09-25T08:19:31Z,graphplug,0.2.2,Vikram Balaji <vikram.x.balaji@gmail.com>,MIT,126243,"Plug-and-play Graph API for Python: mail, calendar, files, teams, users and generic requests."
+2026-09-25T08:22:08Z,jsrecon,0.2.0,web3daemon,MIT,50012,"Map a web app's JavaScript to its API — endpoints, GraphQL, routes, source maps."
+2026-09-25T08:24:26Z,aac-aeg,0.1.0,CascadeAuth,Apache-2.0,143966,Reconstruct and explore Agent Execution Graphs from local and authorized central evidence.
+2026-09-25T08:24:34Z,rapier3d,0.36.0,Sébastien Crozet <sebcrozet@dimforge.com>,Apache-2.0,33296847,"Python bindings for Rapier (3D, f32) — a fast, deterministic physics engine."
+2026-09-25T08:25:55Z,autonomous-devops-agent,0.1.0,"Fatma Abdulfattah <fatmaabdulfattah22@gmail.com>, Huda Mawood <hudamawood@gmail.com>, Zainab Ehab <…",MIT,512239,"Multi-agent DevOps CLI: scaffolds Docker/CI/k8s, runs GitHub Actions, monitors and self-heals — with human approval gates."
+2026-09-25T08:26:45Z,tapehead,0.0.1,rainzee wang,,12604,Agent harness built on an append-only tape
+2026-09-25T08:28:24Z,jqpm,0.1.1,Miguel Ceriani,MIT,30312,A minimal package manager for jq
+2026-09-25T08:33:23Z,folioman-client,0.1.1,sid-146 <sudhanwa.kaveeshwar@gmail.com>,MIT,137288,Typed asynchronous Python SDK for Folioman REST API.
+2026-09-25T08:35:34Z,gpt-images-25,0.1.0,"""GPT images 2.5 Team"" <ryanellis42675@gmail.com>",MIT,6810,Official client SDK and utilities for GPT images 2.5 - Free AI Image Generator & Editor (https://images25.art)
+2026-09-25T08:35:46Z,minigrad-framework,1.0.0,Tanishq Mangal,MIT,267831,A deep learning framework built from scratch in NumPy
+2026-09-25T08:36:24Z,django-agesci-campania-coreui-theme,0.1.0,AGESCI Campania,MIT,35523,Tema CoreUI 5 per applicazioni Django dell'AGESCI Campania: estende django-agesci-campania-theme con il layout nativo CoreUI (sidebar + header) e i componenti free di CoreUI.
+2026-09-25T08:38:42Z,jevcompass,0.1.15,,Apache-2.0,75105,"Privacy-first tool and skill recommendations for Codex Desktop and CLI, powered by Jev"
+2026-09-25T08:40:13Z,no-nepali-profanity,0.1.0,PG-Momik,MIT,30491,"Profanity matcher for English, Romanized Nepali and Devanagari Nepali: leetspeak, stretched and spelled-out letters, Nepali postpositions, with care not to block real names."
+2026-09-25T08:42:49Z,swiss-outdoor-verdict-core,0.3.0,,,58197,"Pure-Python shared core for the verdict-app family (ski, dip). Strict admission — no ORM, no weights/seeds/policy. See README."
+2026-09-25T08:47:34Z,relepy,0.1.0,Reza Asadi <RezaAsadiProgrammer@Gmail.com>,MIT,77273,"ReLePy: a modular, well-tested reinforcement learning library with a simple fit/predict API."
+2026-09-25T08:50:08Z,dash-prometheus,2026.9.1,Maurice Frank <mfrank@hb-dx.com>,MIT,12741,Prometheus metrics for Plotly Dash callbacks
+2026-09-25T08:52:37Z,tvpulse-mcp,1.0.0,InfiniMind <support@infinimind.io>,Proprietary,93543,Local (stdio) MCP server exposing the TVPulse customer API to MCP clients such as Claude Code.
+2026-09-25T08:54:28Z,sensor-anomaly,0.1.0,Pranay Mahendrakar,MIT,79690,"Spot abnormal behaviour across many industrial sensor channels at once, including faults only visible between channels"
+2026-09-25T08:55:24Z,model-benchmark,0.1.0,Pranay Mahendrakar,MIT,63561,"Benchmark several models on the same task and compare latency, memory and accuracy side by side"
+2026-09-25T08:55:49Z,templify-cli,0.1.0,aaltatan,GPL-3.0-or-later,83584,"Fill Word, text, Markdown, HTML and JSON templates with Excel or JSON data, from the command line."
+2026-09-25T08:56:53Z,memcore-kernel,0.1.0,,AGPL-3.0-only OR LicenseRef-Commercial,845938,"Domain-agnostic layered memory core with unified timelines, layered compaction, and deterministic hybrid retrieval."
+2026-09-25T08:57:16Z,imfusion-webappkit,0.3.1,ImFusion GmbH <info@imfusion.com>,MIT,39302985,Toolkit for building browser-based ImFusion applications in Python
+2026-09-25T08:58:32Z,pyvasplot,0.4.0,Marek Kopciuszynski <Marek.Kopciuszynski@umcs.pl>,MIT,16294485,Python toolkit for VASP electronic-structure analysis and visualization.
+2026-09-25T09:00:21Z,mdcov,0.0.0,Sergey Yolkin,MIT,3415,Name reservation for mdcov — measure how Claude Code actually uses your CLAUDE.md
+2026-09-25T09:00:23Z,model2data-studio,0.1.0,JB Analytica,MIT,129589,"Generate a model2data studio project's data from the command line, so CI can rebuild fixtures instead of committing them."
+2026-09-25T09:04:27Z,myteamtest,0.1.0,Your Name <you@example.com>,MIT,16698,一个可通过 pip install 安装的 Python 工具包示例工程
+2026-09-25T09:05:05Z,tego-managed-agents-test,0.1.0,Tego AI <hello@tego.ai>,,1478,A package that sends a test on install
+2026-09-25T09:05:51Z,dsbxml,1.1.0,Bartlomiej Tokarzewski <bartlomiej.tokarzewski@gmail.com>,,35668,Python package for DesignBuilder XML files with read / edit / write functionality.
+2026-09-25T09:07:09Z,polygonal-path-image,0.1.0,"Paula Agregán Reboredo, Vincent Bismuth, Laurent Najman",BSD-3-Clause,4994331,Polygonal path images and path voting for curvilinear structure enhancement
+2026-09-25T09:07:20Z,ffram,1.0.0,ffram authors <author@example.com>,MIT,86197,ffram - 102 High-Performance Media Operations across 18 Categories
+2026-09-25T09:07:24Z,django-payloadshield,1.0.0,Ganesh Kandu <kanduganesh@gmail.com>,Apache-2.0,26806,Pluggable Django decorators for encrypting/decrypting request and response payloads
+2026-09-25T09:10:17Z,robot-reel,0.15.0,,Apache-2.0,589371,Inspect real VLA rollouts and direct recorded physics into editable Blender/OpenUSD films.
+2026-09-25T09:11:14Z,evalarc,0.14.0,EvalArc contributors,MIT,28919373,"Find agent regressions behind better scores: compare changed checks, review recorded tool actions and verify evidence offline."
+2026-09-25T09:11:50Z,microcubed,1.0.0,Pascal Muster <Pascal.Muster@infineon.com>,,2222128,Calculate 3D stray fields of cuboid micro magnet arrangements.
+2026-09-25T09:15:04Z,nonebot-plugin-wuwa-emoji,0.1.0,lyqgzbl,,9725,鸣潮表情包插件
+2026-09-25T09:15:05Z,repo-memory-mcp-ai,0.1.0,repo-memory contributors,"MIT License Copyright (c) 2026 repo-memory contributors Permission is hereby granted, free of charg…",24420,Persistent local memory for AI coding agents via MCP.
+2026-09-25T09:15:16Z,thinkless,0.2.0,Praveen Kumar,Apache-2.0,249013,"The decision plane for AI agents. Rules and small calibrated models make the routine decisions, the LLM is reserved for the steps that need thought, and every step is traced."
+2026-09-25T09:16:12Z,open61850,0.1.1,Florent Carli,Apache-2.0,132911,"IEC 61850 in pure Python: MMS client, GOOSE, Sampled Values, SCL, BER."
+2026-09-25T09:16:55Z,subterranean,1.5.0,"Chetbrathna Sam (jame) - Subterranean, Neo Reid",MIT,127628125,Give your AI Agent eyes to see the entire internet. Search + Read 10+ platforms.
