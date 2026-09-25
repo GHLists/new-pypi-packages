@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T20:23:15Z,hush-codexray,0.1.2,Adebayo Ayomide <adebayo2001ayomide@gmail.com>,MIT,20960,Understand a Python codebase in seconds
+2026-09-25T20:23:21Z,lovepack,0.1.0,OmgRod,MIT,7952,Universal LÖVE (Love2D) build engine and binary distribution manager.
+2026-09-25T20:23:52Z,cascade-bot,0.1.0,Himesh Jain,Apache-2.0,122974,An agent that turns a breaking schema PR into a coordinated migration
+2026-09-25T20:26:02Z,reactor-mindstormpro3,0.0.1,"""Elio A."" <elioanon20@Proton.me>",MIT,10126870,A local runner for bots built for https://defector.hackclub.com
+2026-09-25T20:27:46Z,serc,0.1.0,"""Astral Software Inc."" <hey@astral.sh>",MIT OR Apache-2.0,80810467,"An experimental CPython bytecode compiler, written in Rust."
+2026-09-25T20:28:00Z,lingotweaker-data-fr,0.1.5,,LGPL-2.1-or-later,3533871,LingoTweaker runtime data for language 'fr'
+2026-09-25T20:28:06Z,lingotweaker-data-gl,0.1.5,,LGPL-2.1-or-later,4846336,LingoTweaker runtime data for language 'gl'
+2026-09-25T20:28:12Z,lingotweaker-data-gn,0.1.5,,LGPL-2.1-or-later,504349,LingoTweaker runtime data for language 'gn'
+2026-09-25T20:28:12Z,powerclock,0.1.0,,GPL-3.0-or-later,2158953,"Shutdown, wake-up and task scheduler: schedule shutdown, wake-up and your tasks, at an exact time or when the conditions you choose are met."
+2026-09-25T20:28:18Z,lingotweaker-data-is,0.1.5,,LGPL-2.1-or-later,1139432,LingoTweaker runtime data for language 'is'
+2026-09-25T20:31:36Z,bluesurf-mcp,0.1.0,BluePeople,"MIT License Copyright (c) 2026 BluePeople Permission is hereby granted, free of charge, to any pers…",31536,Servidor MCP local de solo lectura para leer tickets de BlueSurf
+2026-09-25T20:32:16Z,honemsg,0.1.1,Nelson Urrutia <nelurrutia15@gmail.com>,"MIT License Copyright (c) 2026 Nelson Urrutia Permission is hereby granted, free of charge, to any…",19738,"Hone your message before you send it: a terminal UI that improves, shortens, summarizes and translates your messages with a local AI model via Ollama."
+2026-09-25T20:33:01Z,flex-api,1.0.0b35,,Proprietary. See LICENSE file.,16526,"Client for the Flex on the Job tenant API (/api/v1): inventory, jobs, invoices, purchasing."
+2026-09-25T20:35:18Z,pytest-shm,0.1.0,Bas Nijholt <bas@nijho.lt>,MIT,20131,Put pytest's temporary files on the /dev/shm tmpfs so fsync-heavy suites stop waiting on the disk
+2026-09-25T20:38:20Z,benethos-mailbox-service,0.1.0,Benedikt Oswald,MIT,574245,"Self-hosted mail service: one REST API and a web UI for IMAP and Microsoft 365 / Outlook.com accounts, with users, rights and encrypted credentials."
+2026-09-25T20:38:21Z,benethos-mailbox-mcp,0.1.0,Benedikt Oswald,MIT,63006,"MCP server that gives AI assistants such as Claude your mailboxes through the Mailbox Service, limited to what its token may do. Over stdio or HTTP."
+2026-09-25T20:38:53Z,cheeto,2.6.1,Camille Scott,Proprietary,1117457,Utilities for the UC Davis HPC Core Facility.
+2026-09-25T20:43:57Z,tuananhth2920,0.1.0,Tuan Anh,,2610,Thu vien Python cua Tuan Anh
+2026-09-25T20:45:01Z,autoforge-engine,0.1.1,Aditya Kumar Singh <adityasingh45245@gmail.com>,,146881,"A transparent, local-first AutoML framework for automated ML pipeline discovery."
+2026-09-25T20:45:30Z,hush-scaffold,0.2.0,Ayomide,MIT,13425,Generate Python project structures with proven patterns
+2026-09-25T20:48:22Z,labmcp,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,114133,"Shared foundations for MCP servers that control laboratory instruments: transports, simulators, safety limits, audit logging."
+2026-09-25T20:49:09Z,netforensicai,0.3.0,Sh3n0bi,"MIT License Copyright (c) 2025-2026 Sh3n0bi Permission is hereby granted, free of charge, to any pe…",646436,Local-first DFIR investigation and evidence correlation platform
+2026-09-25T20:52:13Z,cogext-compliance,0.1.0,Yamin / THRYVIX <hello@cogextai.com>,MIT,14528,Compliance checker for the COGEXT Commitment Standard v0.1
+2026-09-25T20:53:37Z,labmcp-atlas-ezo,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,44693,"MCP server for Atlas Scientific EZO sensor circuits (pH, ORP, DO, EC, RTD, HUM, CO2, PRS) over UART: read, calibrate, compensate, log."
+2026-09-25T20:54:12Z,simplibs-actions,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,173557,"A composable Action pipeline system — chainable via >>, &, and if_matches, built on simplibs-rules."
+2026-09-25T20:55:17Z,django-tasks-sqs,0.1.0,Miguel Ángel García Gandía <mgarcia0094@gmail.com>,MIT,36889,Amazon SQS backend and worker for Django's built-in tasks framework (django.tasks)
+2026-09-25T20:58:58Z,open-meridian,0.1.0,,Apache-2.0,21672,Build Meridian plugins
+2026-09-25T20:59:15Z,labmcp-micro-manager,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,53982,"MCP server for microscopes controlled by Micro-Manager (pymmcore-plus): snap images, z-stacks and time-lapses, move stages safely, switch channels and objectives, autofocus."
+2026-09-25T21:00:10Z,labmcp-new-era,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,36533,"MCP server for New Era Pump Systems syringe pumps (NE-1000 family, RS-232): set syringe, infuse/withdraw volumes, monitor, stop."
+2026-09-25T21:01:07Z,labmcp-opentrons,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,69928,"MCP server for Opentrons OT-2 and Flex liquid-handling robots (HTTP API): upload and analyze protocols, start, pause and stop runs, monitor progress, modules and pipettes."
+2026-09-25T21:02:14Z,labmcp-cavro,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,35443,"MCP server for Tecan Cavro syringe pumps (XLP 6000, XMP 6000, XCalibur) over the DT protocol: initialize, aspirate/dispense µL, switch valve ports, terminate."
+2026-09-25T21:02:44Z,tt-dal,0.1.0,,Apache-2.0,417410,Tenstorrent Device Access Library
+2026-09-25T21:03:25Z,chord-metric,0.1.0,"Jinnuo Liu, Junhao Zhu, Weifeng Jiang, Haoming Liu, Hongyi Wen",Apache-2.0,129134,CHORD: a coherence-aware corpus-level distance for open-ended text generation
+2026-09-25T21:04:42Z,xarray-bitpacker,0.0.1,Lander Ver Hoef <Lander.Ver_Hoef@colostate.edu>,Apache-2.0,18312,Xarray extension that leverages xarray's metadata to automate and enhance numpy's bitpacking functionality.
+2026-09-25T21:05:23Z,gramix-api,1.0.0,Gramix.io,MIT,34740,Python client for the Gramix reseller API
+2026-09-25T21:08:32Z,danceflow-stemlab,1.0.0,Kieran Simkin,MIT,1733319,"StemLab audio analysis for DanceFlow BPM and motion-response workflows, including WordPress DanceMoves"
+2026-09-25T21:11:07Z,pga-tour-unofficial-api,0.3.7,Ruben Violinha,MIT,141067,Unofficial raw and DataFrame clients for PGA TOUR browser-facing data APIs
+2026-09-25T21:13:07Z,rdfdiff,0.1.0,,"MIT License Copyright (c) 2024 gbelbe Permission is hereby granted, free of charge, to any person o…",62064,Read an RDF file's Git history as semantic change rather than text
+2026-09-25T21:13:20Z,ruleblade-sdk,0.0.0,,,1434,Name reserved for the RuleBlade open-core edition.
+2026-09-25T21:13:22Z,ruleblade-core,0.0.0,,,1438,Name reserved for the RuleBlade open-core edition.
+2026-09-25T21:13:25Z,ruleblade-api,0.0.0,,,1430,Name reserved for the RuleBlade open-core edition.
+2026-09-25T21:14:42Z,rusty-desktop-icons,0.2.29,s0d3s,Apache-2.0,6569620,Rust-powered Windows desktop icon controller and animator.
+2026-09-25T21:16:57Z,caseload,0.1.0,Jayesh Suryavanshi <jayeshksuryavanshi@gmail.com>,BSD-3-Clause,923472,Reinforcement learning environments for budgeted fraud investigation under selective labels and regime drift
+2026-09-25T21:18:11Z,fraudtwin,0.34.6,,Apache-2.0,604450,Fraud emulator for real-world ML and data pipelines
