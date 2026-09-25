@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T12:20:14Z,claudewatch-usage,0.1.0,Yevhen Chernenko,GPL-2.0-or-later,103463,Live Claude Code rate-limit view for the ClaudeWatch GNOME Shell extension
+2026-09-25T12:23:29Z,vllixn,0.2.0,,MIT,80927,"Read-only Linux host security checkup: audit accounts, SSH, permissions, network and kernel"
+2026-09-25T12:23:31Z,elfpeek,0.2.0,,MIT,48478,"Parse ELF/PE binaries and render them as a structural map: section layout, entry point, dependencies, symbols, hardening features, entropy and strings."
+2026-09-25T12:25:18Z,agentcontainment,0.1.0,Daniel Kissel,Apache-2.0,140414,Controller-owned authorization and independently verifiable containment for AI agents
+2026-09-25T12:25:39Z,vermink,0.1.0,,MIT,41163,Zero-dependency terminal theme engine: compile text themes into Zsh/Bash/PowerShell prompts
+2026-09-25T12:29:28Z,pydftlj,1.0.1,Elvis Soares,,76649,A DFT package for Lennard-Jones fluids in Python
+2026-09-25T12:29:37Z,litt,0.1.0,,,31104378,Display lyrics of playing song in terminal
+2026-09-25T12:29:49Z,guardtrellis,0.1.0a1,Sahil Mathur,Apache-2.0,204882,"Composable local checks around model inputs, outputs, retrieval, and tools"
+2026-09-25T12:30:32Z,uniqtoken-core,1.0.0,UniqToken Authors,,4221632,"Research tokenizer toolkit with Unigram, BPE, SuperBPE, byte fallback, and offset tracking."
+2026-09-25T12:31:23Z,peekin,0.1.0,Suman Michael,MIT,89994,Lightweight read-only file browser and previewer in your web browser
+2026-09-25T12:31:38Z,vacppmp,0.1.0,,MIT,45324,Zero-dependency PCAP visualizer: parse captures and draw host/protocol maps
+2026-09-25T12:31:40Z,tfa-decode,0.1.0,TSVMV,MIT,13454,2FA 一键解码：自动识别 TOTP/HOTP/otpauth URI/Base32/URL 编码/HTML 实体/Base64/明文。
+2026-09-25T12:32:11Z,opentelemetry-exporter-otlp-json-http,0.66b0,OpenTelemetry Authors <cncf-opentelemetry-contributors@lists.cncf.io>,Apache-2.0,32108,OpenTelemetry OTLP JSON Exporter
+2026-09-25T12:34:10Z,agentccx,0.5.0,TSVMV,MIT,128071,AgentScan —— AI Agent 安全检测平台：真实探测区分 AGENT 与裸模型，托管沙箱工具做注入/泄露/越权/外带（DNS+HTTP 金丝雀）/MCP 投毒多维检测，输出带真实证据的报告（支持本地与 docker 目标）
+2026-09-25T12:36:30Z,sifthound,0.1.0,Sarvar,MIT,42380,"Open-source, self-hosted Tavily alternative: a web search, extract and crawl API for AI agents."
+2026-09-25T12:37:01Z,pokemontcgapi,0.1.0,pokemontcgapi.com,MIT,72986,"Python client for the pokemontcgapi.com Pokémon TCG API: cards, sets, artists, images and prices with stated provenance."
+2026-09-25T12:38:25Z,isynth-ai-data-config,0.8.0,Markus Herrmann <markus.herrmann@itopia.ch>,LicenseRef-Proprietary,144043,"Generate iSynth data_config test-data definitions from a plain-language request, using an LLM that reads the environment's own metadata."
+2026-09-25T12:38:38Z,sqlmapx,0.1.0,sqlmapx,GPL-2.0-or-later,56091,Three-mode launcher (GUI / TUI / CLI) around an unmodified sqlmap.
+2026-09-25T12:43:10Z,activipyinfo,0.1.0,pvernier,MIT,176432,"Python client for the ActivityInfo API: databases, users, forms, records and queries"
+2026-09-25T12:44:28Z,cinema-projector,0.1.0,cinema contributors,MIT,1293089,Replay projector: record a binary's execution frame by frame and seek back to any frame.
+2026-09-25T12:44:42Z,dirsearchx,0.1.0,dirsearchx,GPL-2.0-or-later,44160,Three-surface (GUI / CLI) launcher around an unmodified dirsearch.
+2026-09-25T12:46:07Z,manimlib-stubs,0.1.0,brickmasterhunt,,142103,Typing stubs for manimlib (ManimGL)
+2026-09-25T12:46:44Z,fairaman,1.5,"Davide Piccapietra, Mahin Vazifehdan","Copyright (c) 2026 Davide Piccapietra Permission is hereby granted, free of charge, to any person o…",130888,A MIABIS-compliant HDF5/NeXus generator for Raman spectroscopy data
+2026-09-25T12:46:56Z,domainspyder,1.0.0,Amaan Khan,MIT,277762,"Domain Intelligence Framework: subdomains, DNS, ports, tech detection and WHOIS from one CLI"
+2026-09-25T12:47:23Z,lumalou-gld09,0.2.0,Emanuele Strazzullo,MIT,72081,"Fork of stramanu/lumalou: local BLE control for the Fisher-Price Lumalou (gld09), with strict reads and device-key binding (imports as lumalou)"
+2026-09-25T12:49:05Z,aslmp,0.1.0,Acaysia <dev@acaysia.com>,Apache-2.0,1556150,An async SLMP client for Mitsubishi MELSEC PLCs
+2026-09-25T12:49:13Z,jev-browse,0.2.0,jev-browse contributors,MIT,207697,"Typed, fast browser sub-tasks for Claude Code on browser-harness, decided by TypeSafe Jev"
+2026-09-25T12:49:40Z,any-bench,0.4.0,,MIT,200934,Build private repository coding benchmarks and run them in Docker
+2026-09-25T12:49:51Z,corral-herdr,0.1.1,John Foland <john@johnfoland.net>,MIT,71006,"Round up your projects into herdr workspaces: a utility tab plus model/effort agent tabs, from a CLI or a TUI."
+2026-09-25T12:50:25Z,flowing-agent,0.1.0,Nyanifold,MIT,1619559,"A lightweight, extensible, descriptive agent runtime framework"
+2026-09-25T12:50:54Z,jumpstarter-driver-adb,0.9.0,Kirk Brauer <kbrauer@hatci.com>,Apache-2.0,16070,ADB tunneling driver for Jumpstarter - enables remote Android device access via standard ADB tools
+2026-09-25T12:50:56Z,jumpstarter-driver-androidemulator,0.9.0,Kirk Brauer <kbrauer@hatci.com>,Apache-2.0,13817,Android emulator driver for Jumpstarter - manages emulator lifecycle with ADB tunneling
+2026-09-25T12:51:07Z,jumpstarter-driver-dut-network,0.9.0,Miguel Angel Ajo Pelayo <miguelangel@ajo.es>,Apache-2.0,92971,"DUT network isolation driver with NAT, DHCP, and nftables management"
+2026-09-25T12:51:22Z,jumpstarter-driver-mitmproxy,0.9.0,Kirk Brauer <kbrauer@hatci.com>,Apache-2.0,139571,"Jumpstarter driver for mitmproxy HTTP(S) interception, mocking, and traffic recording"
+2026-09-25T12:55:42Z,harsha-agentic-terminal,0.1.1,Harsha Vardhan Reddy <harsha.email@gmail.com>,,5915,An mcp which can which adds terminal capabilities to an agent
+2026-09-25T12:56:40Z,astli,0.1.1,,MIT OR Apache-2.0,7501600,"SystemVerilog formatter, and a preprocessor and lossless syntax tree in Rust"
+2026-09-25T12:58:53Z,uxuxxai,0.4.0,uxuxs82,MIT,8757,"бесплатный гпт, без ключа и тд, без ограничений"
+2026-09-25T13:03:03Z,aight,0.1.0,,Apache-2.0,72175,"Attribute LLM spend to the exact source line, and push it to the AIght Workspace at aight.studio."
+2026-09-25T13:04:14Z,certbot-dns-dnsmgr,1.0.0,Dmitry Sergeev <everestmx@gmail.com>,Apache-2.0,22839,DNSmanager (ISPsystem) DNS Authenticator plugin for Certbot
+2026-09-25T13:06:29Z,xxeripper,1.0.0,Kamal Khalilov <kamalx06github@gmail.com>,GPL-3.0-or-later,410520,"Advanced XXE scanner with manual out-of-band confirmation, statistical baselining, CWE mapping, and SARIF output"
+2026-09-25T13:11:13Z,xactflow-sv,0.1.0,Maxime Travaillard,LGPL-3.0-only,45733,XactFlow importer plugin that reads a SystemVerilog module and a metadata file into an ipxact.Component.
+2026-09-25T13:13:26Z,lirts,0.7.0,Kepposmetsä,Apache-2.0,737442,"A btop-style terminal dashboard for ports, processes, Docker containers and the services behind them."
+2026-09-25T13:18:29Z,tokenguard-sdk,0.1.0,TokenGuard,MIT,17013,"Monitor AI agents, track LLM costs, debug failures — TokenGuard Python SDK"

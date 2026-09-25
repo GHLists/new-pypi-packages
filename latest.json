@@ -1,31 +1,37 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-09-25T11:20:08.028283Z",
-    "path": "data/new-packages-2026-09-25T12-19-32-728464Z.csv",
-    "to": "2026-09-25T12:19:32.728464Z"
+    "count": 43,
+    "from": "2026-09-25T12:19:32.728464Z",
+    "path": "data/new-packages-2026-09-25T13-19-05-286952Z.csv",
+    "to": "2026-09-25T13:19:05.286952Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-25T09:25:14Z",
       "package": "MS_Trajdump",
       "since": "2026-09-25T09:21:31.257676Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-25T09:58:27Z",
       "package": "melody-jrf3000",
       "since": "2026-09-25T09:21:31.257676Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-09-25T13:14:52Z",
+      "package": "multimodal-uncertainty",
+      "since": "2026-09-25T12:19:32.728464Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-09-25T10:40:54Z",
       "package": "terraform-jev",
       "since": "2026-09-25T10:18:55.127712Z"
     }
   ],
-  "serial": 41450112,
+  "serial": 41452242,
   "source_truncated": false,
-  "window": "2026-09-25T12:19:32.728464Z"
+  "window": "2026-09-25T13:19:05.286952Z"
 }
