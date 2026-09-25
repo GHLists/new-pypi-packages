@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T05:16:31Z,stdf-convert,0.1.0,David Mathers,MIT,2916344,"Read STDF V4 and V4-2007 semiconductor test data files, and convert them to JSON Lines"
+2026-09-25T05:20:03Z,jmp-convert,0.1.0,David Mathers,MIT,10520438,"Read JMP data tables (.jmp) without JMP, and convert them to CSV or Parquet"
+2026-09-25T05:20:57Z,chat-context-index,0.1.0,,Apache-2.0,142518,"cci: persistent, retrievable conversation memory for AI applications"
+2026-09-25T05:21:24Z,repogates-checkup,0.0.1,RepoGates,MIT,3308,RepoGates is not distributed on PyPI. This package only prints where to get it.
+2026-09-25T05:21:25Z,repogates,0.0.1,RepoGates,MIT,3224,RepoGates is not distributed on PyPI. This package only prints where to get it.
+2026-09-25T05:24:09Z,cutoff,0.1.0,Sandeep Sirodia,MIT,31742,"Does the model know your library, or the version from 2024? Stale-API probes for library maintainers."
+2026-09-25T05:30:31Z,hermes-jr-companion,0.17.0,,MIT,159806,Connect the Hermes Jr. iPhone app to your Hermes agent.
+2026-09-25T05:30:54Z,iri26py,0.0.1,"""Sunip K. Mukherjee"" <sunipkmukherjee@gmail.com>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",2117161,Python bindings for IRI-2026 model
+2026-09-25T05:36:51Z,myexample-rahul,0.0.1,Rahul <rahulpoojary2003@gmail.com>,,27096,Package example
+2026-09-25T05:43:32Z,espalier-harness,0.8.0b1,Mike Byrne <mbbyrne.byrne@gmail.com>,MIT,5654851,"A Claude Code workflow harness for solo founders and small teams — keeps your coding agent on the rails with plan-gated changes, cross-session memory, per-step proof, and seatbelt hooks"
+2026-09-25T05:45:26Z,bioai-evidence-validator,0.4.1,Ningyu Sun,Apache-2.0,254221,Standards-aligned evidence policy validation for AI-assisted biological curation
+2026-09-25T05:48:34Z,multicloud-py-iam-gcp,0.1.6,,Apache-2.0,20841,Google Cloud IAM provider for multicloud-iam.
+2026-09-25T05:48:37Z,multicloud-py-pubsub-aws,0.1.6,,Apache-2.0,35600,AWS SNS/SQS provider for multicloud-pubsub.
+2026-09-25T05:49:06Z,multicloud-py-pubsub,0.1.6,,Apache-2.0,38845,Cloud-agnostic pub/sub client for the python-multicloud SDK. Pair with a provider package (multicloud-pubsub-aws / -gcp / -alibaba) for actual cloud calls.
+2026-09-25T05:49:57Z,dash-loading-components,0.1.0,Phyla Technologies,MIT,831274,Dash loading indicators umbrella (dlc). Requires Dash >=4.5 / React 19.
+2026-09-25T05:50:08Z,quality-predictor,0.1.0,Pranay Mahendrakar,MIT,66924,"Predict product quality from manufacturing parameters before final inspection, and see which settings drive it"
+2026-09-25T05:50:58Z,energy-analyzer-ai,0.1.0,Pranay Mahendrakar,MIT,78284,"Find unusual energy consumption, explain what changed, and estimate what it is costing"
+2026-09-25T05:53:15Z,openresponses-py,0.1.0,OpenResponses Python contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",112923,Typed Python SDK for the OpenResponses protocol
+2026-09-25T05:55:14Z,apulodi,0.1.0,APULODI,MIT,36925,"Official Python SDK for the APULODI file storage API — direct-to-storage uploads, multipart, transformations and signed delivery."
+2026-09-25T05:55:30Z,datasette-otel-otlp-exporter,0.1.0a1,Alex Garcia,Apache-2.0,31067,Export Datasette's OpenTelemetry spans to any OTLP backend
+2026-09-25T05:56:21Z,datasette-otel-viewer,0.1.0a1,Alex Garcia,Apache-2.0,465440,"Browse the OpenTelemetry traces and metrics a Datasette instance emits, from inside that instance"
+2026-09-25T05:57:19Z,asyncapi-tag,1.0.0,Weesho Lapara <support@weesholapara.com>,MIT,32123,Render AsyncAPI documents in Markdown with an <asyncapi-tag> element. Python-Markdown extension with a MkDocs plugin.
+2026-09-25T05:59:57Z,llama-index-tools-csoai,0.1.0,CSOAI Ltd <nicholas@csoai.org>,Apache-2.0,15292,LlamaIndex tool spec for the Council of AI GSPC measurement board (wraps csoai-gspc).
+2026-09-25T05:59:58Z,langchain-csoai,0.1.0,CSOAI Ltd <nicholas@csoai.org>,Apache-2.0,15233,LangChain tool for the Council of AI GSPC measurement board (wraps csoai-gspc).
+2026-09-25T06:00:04Z,cirrusnetworks-sentinel,0.0.1,,,3614,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-25T06:00:20Z,cirrusnetworks-prism,0.0.1,,,3558,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-25T06:00:51Z,cirrusnetworks-siege-agent,0.0.1,,,3639,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-25T06:01:32Z,cirrusnetworks-switchboard-agent,0.0.1,,,3776,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-25T06:03:44Z,crewai-csoai,0.1.0,CSOAI Ltd <nicholas@csoai.org>,Apache-2.0,15116,CrewAI tool for the Council of AI GSPC measurement board (wraps csoai-gspc).
+2026-09-25T06:05:34Z,multicloud-py-pubsub-alibaba,0.1.6,,Apache-2.0,12583,Alibaba Cloud MNS provider for multicloud-pubsub (placeholder; implementation pending).
+2026-09-25T06:05:36Z,multicloud-py-sts,0.1.6,,Apache-2.0,27379,Cloud-agnostic Security Token Service client for the python-multicloud SDK. Pair with a provider package (multicloud-sts-aws / -gcp / -alibaba) for actual cloud calls.
+2026-09-25T06:05:37Z,multicloud-py-pubsub-gcp,0.1.6,,Apache-2.0,27452,Google Cloud Pub/Sub provider for multicloud-pubsub.
+2026-09-25T06:09:44Z,spore-bridge,1.0.0,,,3800,Мост между InevioLibs и spore-net
+2026-09-25T06:10:19Z,supernode,1.1.0,,,5496,Collective learning for mesh networks: trained nodes teach the network
+2026-09-25T06:11:15Z,sporerecon,1.1.0,,,5087,Real network reconnaissance via system utilities (nslookup/tracert/arp)
+2026-09-25T06:14:34Z,jodit-python,0.1.0,Timur Seiidov,MIT,211387,Jodit FileBrowser and Uploader connector for Python
