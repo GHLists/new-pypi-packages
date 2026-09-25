@@ -8,34 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 01:18 UTC
+## Latest list — 2026-09-25 02:19 UTC
 
-New packages created between 2026-09-25 00:18 UTC and 2026-09-25 01:18 UTC.
+New packages created between 2026-09-25 01:18 UTC and 2026-09-25 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-25T01-18-58-586737Z.csv)
+[Full CSV](data/new-packages-2026-09-25T02-19-25-439407Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-25 00:20:37 | [arispec](https://pypi.org/project/arispec/) | 0.0.1 | "Matthew C. Tedder" <matthewc… | 13.3 kB | Anchor-relative identification: declarative extraction from irregular text and… |
-| 2026-09-25 00:20:38 | [finio](https://pypi.org/project/finio/) | 0.0.1 | "Matthew C. Tedder" <matthewc… | 13.0 kB | A financial adapter framework: payment and statement formats, with provenance |
-| 2026-09-25 00:25:00 | [openglass-sdk](https://pypi.org/project/openglass-sdk/) | 0.1.0 | OpenGlass | 41.4 kB | Official Python client for OpenGlass — register agents, run witnessed sessions,… |
-| 2026-09-25 00:25:23 | [altheris](https://pypi.org/project/altheris/) | 0.1.0 | Altheris | 370.5 kB | Runtime security for AI agents — scope enforcement, prompt-injection screening,… |
-| 2026-09-25 00:28:29 | [intangiblecapital](https://pypi.org/project/intangiblecapital/) | 2026.9.24 | Michael Ewens | 16.0 kB | Load the Ewens, Peters and Wang knowledge and organization capital stocks for C… |
-| 2026-09-25 00:29:34 | [pluot_core](https://pypi.org/project/pluot_core/) | 0.0.1 | Mark Keller | 14.6 kB | Shared utilities used by the pluot and pluot_widget packages |
-| 2026-09-25 00:29:41 | [pluot_widget](https://pypi.org/project/pluot_widget/) | 0.0.1 | Mark Keller | 14.6 MB | AnyWidget for rendering Pluot visualizations client-side via WebAssembly |
-| 2026-09-25 00:34:11 | [asi-evolve](https://pypi.org/project/asi-evolve/) | 0.1.1 | lordxmen2k <lordxmen2k@users.… | 444.0 kB | Pythonic wrapper around the ASI_Evolve (arXiv:2603.29640) autonomous evolutiona… |
-| 2026-09-25 00:34:23 | [decguard](https://pypi.org/project/decguard/) | 0.1.1 | DecGuard contributors | 243.2 kB | Test, verify and gate probabilistic AI decision models across interchangeable b… |
-| 2026-09-25 00:39:14 | [graupel](https://pypi.org/project/graupel/) | 0.1.0 |  | 5.9 MB | Build customizable meteograms from Open-Meteo forecast data |
-| 2026-09-25 00:48:29 | [user-registration](https://pypi.org/project/user-registration/) | 0.1.0 | Md Shamimur Rahman Shuvo | 46.6 kB | Framework-agnostic, extensible user registration for Python applications. |
-| 2026-09-25 00:50:15 | [agentsfence](https://pypi.org/project/agentsfence/) | 0.2.0a3 | AgentsFence contributors | 207.6 kB | Task-scoped authorization for AI agents: compile user intent into a least-autho… |
-| 2026-09-25 00:53:56 | [modpdf](https://pypi.org/project/modpdf/) | 0.1.0 | ModPDF contributors | 726.5 kB | Split, merge, reorder and compress PDFs entirely on your own machine. |
-| 2026-09-25 00:55:33 | [django-formification](https://pypi.org/project/django-formification/) | 1.2.1 | Formification Contributors | 872.2 kB | A Django app for building custom web forms and collecting submissions. |
-| 2026-09-25 00:58:15 | [oeg-sw-class](https://pypi.org/project/oeg-sw-class/) | 0.1.0 |  | 7.9 kB | RDF and RDFS validation for the OEG Semantic Web class assignments |
-| 2026-09-25 00:59:54 | [dichotomise](https://pypi.org/project/dichotomise/) | 2.0.0 | DIChOtoMise contributors | 110.7 kB | Audit, sort, rectify, and archive DICOM exports from Siemens XA60+ systems. |
-| 2026-09-25 01:08:39 | [aiw-ru](https://pypi.org/project/aiw-ru/) | 2.0.0rc1 | Ilya Lubenets <lubenets.ilya.… | 252.4 kB | Приметы ИИ-стиля в русском тексте: канцелярит, кальки, шаблонная структура; оце… |
-| 2026-09-25 01:13:45 | [vt-agent-firewall](https://pypi.org/project/vt-agent-firewall/) | 0.1.0 | Valentín Torassa Colombero | 64.5 kB | A fail-closed gateway between an AI agent and its tools: normalize, default-den… |
-| 2026-09-25 01:14:57 | [seccart2](https://pypi.org/project/seccart2/) | 1.0.0 | Scott Peterman <scottpeterman… | 7.1 MB | Secure Cartography 2 - SNMP/SSH network discovery and topology mapping |
-| 2026-09-25 01:15:55 | [simforge-oss-gpu](https://pypi.org/project/simforge-oss-gpu/) | 0.0.0 | SimForge | 5.6 kB | Name reservation for the SimForge gpu package. The real package starts at 0.2.0. |
-| 2026-09-25 01:15:56 | [simforge-oss-gym](https://pypi.org/project/simforge-oss-gym/) | 0.0.0 | SimForge | 5.6 kB | Name reservation for the SimForge Gymnasium client. The real package starts at… |
-| 2026-09-25 01:15:57 | [simforge-oss-physics](https://pypi.org/project/simforge-oss-physics/) | 0.0.0 | SimForge | 5.6 kB | Name reservation for the SimForge physics package. The real package starts at 0… |
-| 2026-09-25 01:15:58 | [simforge-oss-render](https://pypi.org/project/simforge-oss-render/) | 0.0.0 | SimForge | 5.6 kB | Name reservation for the SimForge render package. The real package starts at 0.… |
+| 2026-09-25 01:00:19 | [palimpsest-client](https://pypi.org/project/palimpsest-client/) | 0.2.3 | Afterglow | 4.6 MB | Verified local OCI artifacts, KVM lifecycle, and Kolla-Ansible role data for Af… |
+| 2026-09-25 01:30:09 | [fontpkg-arvo](https://pypi.org/project/fontpkg-arvo/) | 1.6 |  | 95.7 kB | Arvo font family, packaged for Python by fontpkg |
+| 2026-09-25 01:30:11 | [fontpkg-domine](https://pypi.org/project/fontpkg-domine/) | 2.0 |  | 57.7 kB | Domine font family, packaged for Python by fontpkg |
+| 2026-09-25 01:30:13 | [fontpkg-gravitas-one](https://pypi.org/project/fontpkg-gravitas-one/) | 1.1 |  | 26.8 kB | Gravitas One font family, packaged for Python by fontpkg |
+| 2026-09-25 01:30:15 | [fontpkg-comfortaa](https://pypi.org/project/fontpkg-comfortaa/) | 3.105 |  | 107.0 kB | Comfortaa font family, packaged for Python by fontpkg |
+| 2026-09-25 01:36:43 | [beam-network-sdk](https://pypi.org/project/beam-network-sdk/) | 0.7.5 | Beam Network | 122.0 kB | Client SDK for the BEAM decentralized data pipeline |
+| 2026-09-25 01:40:48 | [benostreamdb](https://pypi.org/project/benostreamdb/) | 0.10.0 | Beno Labs Artificial Intellig… | 203.6 MB | BenoStreamDB - Serverless Index-Streaming Database with Overlay Indexing |
+| 2026-09-25 01:43:20 | [dv-ferm-analytics](https://pypi.org/project/dv-ferm-analytics/) | 0.1.0 | dv-analytics | 154.5 kB | Reusable Python tools for data analysis, visualization, and automated technical… |
+| 2026-09-25 01:44:02 | [paradox2](https://pypi.org/project/paradox2/) | 0.1.0 | CreAI <feliperodriguez@creai.… | 418.7 kB | Fast, simple document extraction — from-scratch rewrite of paradox_pdf |
+| 2026-09-25 01:45:27 | [milpa-sdk](https://pypi.org/project/milpa-sdk/) | 0.1.0a1 | Kasai Labs | 102.8 kB | SDK del ecosistema Milpa: manifests, perfiles de estructura, roles y fronteras… |
+| 2026-09-25 01:46:01 | [asilo-core](https://pypi.org/project/asilo-core/) | 0.1.0a1 | Kasai Labs | 102.5 kB | SDK de gobernanza para sistemas multi-agente: guardrails, validación de esquema… |
+| 2026-09-25 01:46:21 | [horcon](https://pypi.org/project/horcon/) | 0.8.2a1 | Kasai Labs | 621.2 kB | Horcón: framework que genera y valida sistemas multiagente deterministas. Perfi… |
+| 2026-09-25 01:47:32 | [dpmp](https://pypi.org/project/dpmp/) | 0.1.1 | DPMP | 108.8 kB | DPMP - Dual-Punch Multi-Path Protocol: P2P connectivity & transport library |
+| 2026-09-25 01:49:27 | [rosetta-build](https://pypi.org/project/rosetta-build/) | 0.1.1 | ralian <wbowers314@gmail.com> | 47.5 kB | Flat (non-meta) multilanguage build tool with a Python planner |
+| 2026-09-25 01:51:52 | [bugsradar](https://pypi.org/project/bugsradar/) | 3.0.0 | Bistriy Sp. z o.o. | 31.8 kB | Errors of your Python application in Telegram, Discord or Pushover: logging, un… |
+| 2026-09-25 01:54:28 | [BinSentry](https://pypi.org/project/BinSentry/) | 1.0.0 | lyshark | 40.0 kB |  |
+| 2026-09-25 01:59:47 | [assay-server](https://pypi.org/project/assay-server/) | 0.1.0 | tap222 | 502.0 kB | Assay server: evaluation and observability for AI pipelines and agents, with a… |
+| 2026-09-25 01:59:48 | [softprobe](https://pypi.org/project/softprobe/) | 0.1.0 | Softprobe | 66.4 kB | Softprobe LLM observability SDK for Python |
+| 2026-09-25 02:00:18 | [ipasign](https://pypi.org/project/ipasign/) | 1.0 | Senophyx <contact@senophyx.id> | 73.9 kB | iOS code signing in Python |
+| 2026-09-25 02:03:50 | [earthdaily-agriculture](https://pypi.org/project/earthdaily-agriculture/) | 2.6.0 | EarthDaily Analytics | 1.1 MB | Utilities for bulk analytics extraction from the EarthDaily Agriculture APIs |
+| 2026-09-25 02:04:41 | [fintfm](https://pypi.org/project/fintfm/) | 0.5.5 | Mukharbek Organokov | 366.3 kB | A tabular foundation model for financial risk — pretrained on synthetic company… |
+| 2026-09-25 02:05:59 | [ovos-kid-friendly-dialog-transformer](https://pypi.org/project/ovos-kid-friendly-dialog-transformer/) | 1.1.0 | Mike Gray/Oscillate Labs <mik… | 17.0 kB | Dialog transformer for OVOS, designed to return kid-friendly responses from Oll… |
+| 2026-09-25 02:06:06 | [acp-classifier](https://pypi.org/project/acp-classifier/) | 1.0.0 | Brayan Arturo Navarro Sinuco,… | 46.1 kB | Clasificación de péptidos anticancerígenos (ACPs) mediante modelos de lenguaje… |
+| 2026-09-25 02:06:16 | [ovos-ollama-dialog-transformer-plugin](https://pypi.org/project/ovos-ollama-dialog-transformer-plugin/) | 1.1.0 | Mike Gray/Oscillate Labs <mik… | 16.8 kB | Dialog transformer for OVOS, designed to return responses from Ollama |
+| 2026-09-25 02:07:30 | [bad-checker](https://pypi.org/project/bad-checker/) | 0.1.0 | coder5330 <hello@jldev.com> | 5.5 kB | A typo-tolerant blocklist checker. |
+| 2026-09-25 02:08:34 | [ovos-tts-plugin-pocket-tts](https://pypi.org/project/ovos-tts-plugin-pocket-tts/) | 0.2.0 | Mike Gray/Oscillate Labs <mik… | 32.0 kB | OVOS TTS plugin for Pocket TTS — lightweight CPU-only TTS by Kyutai |
+| 2026-09-25 02:09:20 | [cxbom](https://pypi.org/project/cxbom/) | 0.0.1 | ATACE Working Group | 2.5 kB | Name reservation for CxBOM, the Context Bill of Materials tool. See https://cxb… |
+| 2026-09-25 02:11:19 | [vhamster](https://pypi.org/project/vhamster/) | 1.3.1 |  | 106.3 kB | VHAMSTeR ensemble inference CLI |
+| 2026-09-25 02:16:06 | [vivarium-workbench](https://pypi.org/project/vivarium-workbench/) | 0.3.88 | Vivarium Collective <team@viv… | 17.7 MB | Web-based workbench for Vivarium / process-bigraph workspaces |

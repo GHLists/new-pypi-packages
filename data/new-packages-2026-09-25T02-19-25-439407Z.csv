@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T01:00:19Z,palimpsest-client,0.2.3,Afterglow,MIT,4602644,"Verified local OCI artifacts, KVM lifecycle, and Kolla-Ansible role data for Afterglow Palimpsest"
+2026-09-25T01:30:09Z,fontpkg-arvo,1.6,,OFL-1.1,95748,"Arvo font family, packaged for Python by fontpkg"
+2026-09-25T01:30:11Z,fontpkg-domine,2.0,,OFL-1.1,57691,"Domine font family, packaged for Python by fontpkg"
+2026-09-25T01:30:13Z,fontpkg-gravitas-one,1.1,,OFL-1.1,26778,"Gravitas One font family, packaged for Python by fontpkg"
+2026-09-25T01:30:15Z,fontpkg-comfortaa,3.105,,OFL-1.1,106975,"Comfortaa font family, packaged for Python by fontpkg"
+2026-09-25T01:36:43Z,beam-network-sdk,0.7.5,Beam Network,MIT,122041,Client SDK for the BEAM decentralized data pipeline
+2026-09-25T01:40:48Z,benostreamdb,0.10.0,Beno Labs Artificial Intelligence LLC,MIT AND Apache-2.0,203609837,BenoStreamDB - Serverless Index-Streaming Database with Overlay Indexing
+2026-09-25T01:43:20Z,dv-ferm-analytics,0.1.0,dv-analytics,LicenseRef-Proprietary,154517,"Reusable Python tools for data analysis, visualization, and automated technical report generation."
+2026-09-25T01:44:02Z,paradox2,0.1.0,CreAI <feliperodriguez@creai.mx>,Proprietary,418722,"Fast, simple document extraction — from-scratch rewrite of paradox_pdf"
+2026-09-25T01:45:27Z,milpa-sdk,0.1.0a1,Kasai Labs,Apache-2.0,102755,"SDK del ecosistema Milpa: manifests, perfiles de estructura, roles y fronteras de dominio"
+2026-09-25T01:46:01Z,asilo-core,0.1.0a1,Kasai Labs,Apache-2.0,102536,"SDK de gobernanza para sistemas multi-agente: guardrails, validación de esquemas y Agente Cero"
+2026-09-25T01:46:21Z,horcon,0.8.2a1,Kasai Labs,Apache-2.0,621207,Horcón: framework que genera y valida sistemas multiagente deterministas. Perfil MILPA: library.
+2026-09-25T01:47:32Z,dpmp,0.1.1,DPMP,Apache-2.0,108849,DPMP - Dual-Punch Multi-Path Protocol: P2P connectivity & transport library
+2026-09-25T01:49:27Z,rosetta-build,0.1.1,ralian <wbowers314@gmail.com>,MIT,47470,Flat (non-meta) multilanguage build tool with a Python planner
+2026-09-25T01:51:52Z,bugsradar,3.0.0,Bistriy Sp. z o.o.,MIT,31848,"Errors of your Python application in Telegram, Discord or Pushover: logging, uncaught exceptions and direct calls in one package."
+2026-09-25T01:54:28Z,BinSentry,1.0.0,lyshark,MIT Licence,39988,
+2026-09-25T01:59:47Z,assay-server,0.1.0,tap222,MIT,502033,"Assay server: evaluation and observability for AI pipelines and agents, with a dashboard and demo data"
+2026-09-25T01:59:48Z,softprobe,0.1.0,Softprobe,Apache-2.0,66392,Softprobe LLM observability SDK for Python
+2026-09-25T02:00:18Z,ipasign,1.0,Senophyx <contact@senophyx.id>,MIT,73928,iOS code signing in Python
+2026-09-25T02:03:50Z,earthdaily-agriculture,2.6.0,EarthDaily Analytics,MIT,1114719,Utilities for bulk analytics extraction from the EarthDaily Agriculture APIs
+2026-09-25T02:04:41Z,fintfm,0.5.5,Mukharbek Organokov,Apache-2.0,366317,"A tabular foundation model for financial risk — pretrained on synthetic company financials, so it predicts credit default with no training on your data"
+2026-09-25T02:05:59Z,ovos-kid-friendly-dialog-transformer,1.1.0,Mike Gray/Oscillate Labs <mike@oscillatelabs.net>,,17041,"Dialog transformer for OVOS, designed to return kid-friendly responses from Ollama"
+2026-09-25T02:06:06Z,acp-classifier,1.0.0,"Brayan Arturo Navarro Sinuco, Ivan Andres Mendoza Oñate",MIT,46074,Clasificación de péptidos anticancerígenos (ACPs) mediante modelos de lenguaje proteico
+2026-09-25T02:06:16Z,ovos-ollama-dialog-transformer-plugin,1.1.0,Mike Gray/Oscillate Labs <mike@oscillatelabs.net>,,16839,"Dialog transformer for OVOS, designed to return responses from Ollama"
+2026-09-25T02:07:30Z,bad-checker,0.1.0,coder5330 <hello@jldev.com>,,5496,A typo-tolerant blocklist checker.
+2026-09-25T02:08:34Z,ovos-tts-plugin-pocket-tts,0.2.0,Mike Gray/Oscillate Labs <mike@oscillatelabs.net>,Apache-2.0,31966,OVOS TTS plugin for Pocket TTS — lightweight CPU-only TTS by Kyutai
+2026-09-25T02:09:20Z,cxbom,0.0.1,ATACE Working Group,Apache-2.0,2508,"Name reservation for CxBOM, the Context Bill of Materials tool. See https://cxbom.org"
+2026-09-25T02:11:19Z,vhamster,1.3.1,,,106312,VHAMSTeR ensemble inference CLI
+2026-09-25T02:16:06Z,vivarium-workbench,0.3.88,Vivarium Collective <team@vivarium-collective.org>,,17675062,Web-based workbench for Vivarium / process-bigraph workspaces
