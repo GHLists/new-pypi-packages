@@ -8,35 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 11:20 UTC
+## Latest list — 2026-09-25 12:19 UTC
 
-New packages created between 2026-09-25 10:18 UTC and 2026-09-25 11:20 UTC.
+New packages created between 2026-09-25 11:20 UTC and 2026-09-25 12:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-25T11-20-08-028283Z.csv)
+[Full CSV](data/new-packages-2026-09-25T12-19-32-728464Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-25 10:19:32 | [ml-std](https://pypi.org/project/ml-std/) | 2.0.0 |  | 14.5 kB | The standard library for Brunost ML and RL tasks: one pinned set of packages th… |
-| 2026-09-25 10:20:06 | [didww-verification](https://pypi.org/project/didww-verification/) | 1.0.0 | DIDWW <support@didww.com> | 81.3 kB | Python SDK for the DIDWW Verification API |
-| 2026-09-25 10:20:07 | [indexscout](https://pypi.org/project/indexscout/) | 0.2.0 | James Pow | 111.6 kB | Agent-first, read-only Google Search Console MCP server for evidence-backed sea… |
-| 2026-09-25 10:22:01 | [solidworks-mcp](https://pypi.org/project/solidworks-mcp/) | 0.2.1 | Henk Jan Baard | 123.2 kB | MCP server that drives a local SolidWorks instance over COM for parametric part… |
-| 2026-09-25 10:39:53 | [ad_data_pf_1](https://pypi.org/project/ad_data_pf_1/) | 0.2.2 | AskerNC <hms467@econ.ku.dk> | 74.4 kB | Tables and figures for a job-ad amenities project, run on Statistics Denmark mi… |
-| 2026-09-25 10:41:08 | [mathspec](https://pypi.org/project/mathspec/) | 0.1.0 | Felix Bumann <117816358+FBuma… | 308.9 kB | Write an optimisation model as a YAML file. Check it and print it as math, with… |
-| 2026-09-25 10:41:52 | [ontheloop](https://pypi.org/project/ontheloop/) | 0.0.0 | On The Loop Labs | 7.0 kB | Reserved namespace placeholder for the On The Loop platform distribution (see @… |
-| 2026-09-25 10:45:59 | [qcmr.levelplot](https://pypi.org/project/qcmr.levelplot/) | 0.3 | Mariusz Radon <mariusz.radon@… | 5.9 kB | Plots using horizontal lines and points, possibly joined |
-| 2026-09-25 10:51:55 | [qcmr.energylevels](https://pypi.org/project/qcmr.energylevels/) | 0.1 | Mariusz Radon <mariusz.radon@… | 8.0 kB | Plot energy levels |
-| 2026-09-25 10:53:19 | [mailcheer](https://pypi.org/project/mailcheer/) | 0.2.0 | Mailcheer <contact@mailcheer.… | 49.6 kB | The official Python SDK for the Mailcheer email API: transactional emails, subs… |
-| 2026-09-25 10:53:29 | [haetae](https://pypi.org/project/haetae/) | 0.0.1 |  | 12.4 kB | Robot safety & security stack for physical AI: a policy gate between untrusted… |
-| 2026-09-25 10:54:31 | [Taihoctoan](https://pypi.org/project/Taihoctoan/) | 0.1.0 | Duc Tai | 3.1 kB | Thu vien toan hoc co ban |
-| 2026-09-25 10:56:04 | [datacritic](https://pypi.org/project/datacritic/) | 1.0.0 | Krish Gupta | 26.1 kB | Dataset quality analysis and evidence-based cleaning recommendations. |
-| 2026-09-25 10:56:35 | [wintergram-userbot](https://pypi.org/project/wintergram-userbot/) | 0.1.0 | femboychik <your.email@exampl… | 587.4 kB | Асинхронный MTProto-клиент для приватных Telegram-серверов (layers 167-228) |
-| 2026-09-25 10:57:03 | [fuju-trace-vexdb](https://pypi.org/project/fuju-trace-vexdb/) | 0.1.9 | Fuju Trace | 39.8 kB | VexDB storage and native BM25/vector search adapter for Fuju Trace |
-| 2026-09-25 10:57:14 | [fuju-trace](https://pypi.org/project/fuju-trace/) | 0.1.9 | Fuju Trace | 41.1 kB | Fuju Trace instrumentation SDK — emit trace events with deterministic, engine-m… |
-| 2026-09-25 10:57:25 | [az-ai-core](https://pypi.org/project/az-ai-core/) | 0.0.1 |  | 1.6 kB | Reserved name. This project contains no code. |
-| 2026-09-25 10:57:26 | [az-dust-admin](https://pypi.org/project/az-dust-admin/) | 0.0.1 |  | 1.6 kB | Reserved name. This project contains no code. |
-| 2026-09-25 10:58:22 | [pytest-threadlanes](https://pypi.org/project/pytest-threadlanes/) | 0.1.0 | Heknon | 208.1 kB | Run pytest-xdist schedulers on thread lanes: in one process, or many processes… |
-| 2026-09-25 10:59:38 | [telegram-premium-emojis](https://pypi.org/project/telegram-premium-emojis/) | 1.0.0 | Abbos <abbos@osonpdf.uz> | 38.1 kB | A modern toolkit & AI Agent Skill for Telegram Bot Premium Custom Emojis, Aiogr… |
-| 2026-09-25 11:04:02 | [jaraco-website-mcp-server](https://pypi.org/project/jaraco-website-mcp-server/) | 1.0.0 | Jaraco GmbH <info@jaraco.de> | 15.3 kB | MCP Server for Jaraco GmbH website - provides programmatic access to blog posts… |
-| 2026-09-25 11:04:20 | [varun-lib](https://pypi.org/project/varun-lib/) | 1.0.0 |  | 2.3 kB | A simple calculator library |
-| 2026-09-25 11:07:35 | [sidell-c5](https://pypi.org/project/sidell-c5/) | 1.0.0 |  | 16.5 MB | Sidell C5 — corporate dossier infrastructure (validation, memory, deterministic… |
-| 2026-09-25 11:14:59 | [Genosixs-pyhelpers](https://pypi.org/project/Genosixs-pyhelpers/) | 0.2.2 | Genosix <genosixgd@gmail.com> | 28.3 kB | A collection of small helping tasks to not clutter code |
+| 2026-09-25 07:34:23 | [odoo-addon-website-sale-product-document-type](https://pypi.org/project/odoo-addon-website-sale-product-document-type/) | 19.0.1.0.0.2 | Camptocamp, Odoo Community As… | 24.6 kB | Group published product documents by type on the product page |
+| 2026-09-25 11:25:40 | [typed-lighter](https://pypi.org/project/typed-lighter/) | 0.1.0 | Marcel Claramunt <marcel@trib… | 454.6 kB | A fully typed, validated async client for the Lighter API. |
+| 2026-09-25 11:29:00 | [odoo-addon-website-sale-product-document-type-variant](https://pypi.org/project/odoo-addon-website-sale-product-document-type-variant/) | 19.0.1.0.0.2 | Camptocamp, Odoo Community As… | 25.1 kB | Keep variant documents grouped by type after an AJAX refresh |
+| 2026-09-25 11:32:59 | [uxuxx](https://pypi.org/project/uxuxx/) | 2.0.0 | uxuxs82 | 20.1 kB | Zadachi informatiki 8 klass + free AI |
+| 2026-09-25 11:34:15 | [ccherd](https://pypi.org/project/ccherd/) | 0.3.0 | bocode labs | 117.0 kB | Claude Code sessions and subagents across several Claude accounts |
+| 2026-09-25 11:35:01 | [subbridge](https://pypi.org/project/subbridge/) | 0.1.0a1 |  | 25.1 kB | Python wrappers for locally authenticated coding assistant CLIs |
+| 2026-09-25 11:41:22 | [permdiff](https://pypi.org/project/permdiff/) | 0.1.0 | Sharukh Hasan | 268.4 kB | terraform plan for AI agent permission changes: replay recorded tool calls agai… |
+| 2026-09-25 11:45:34 | [conda-rattler-solver](https://pypi.org/project/conda-rattler-solver/) | 0.2.0 |  | 634.8 kB | The fast pixi solver, now in conda |
+| 2026-09-25 11:46:40 | [aied-unplugged](https://pypi.org/project/aied-unplugged/) | 0.2.0 |  | 309.8 kB | Loaders, graders and baselines for the AIED-Unplugged preview competition |
+| 2026-09-25 11:54:48 | [cf-regions](https://pypi.org/project/cf-regions/) | 0.1.0 | Yves Sorge | 103.7 MB | Version-aware lookup and geometry for CF standardized regions |
+| 2026-09-25 11:56:13 | [lilla-core](https://pypi.org/project/lilla-core/) | 0.5.0 | tettekai | 630.1 kB | Core runtime of the Lilla agent |
+| 2026-09-25 11:57:00 | [modelroom](https://pypi.org/project/modelroom/) | 0.1.0 | VISCONSULT | 1.0 MB | Which local model packages exist for your model families, and which of them fit… |
+| 2026-09-25 12:05:04 | [priorwork](https://pypi.org/project/priorwork/) | 0.1.0 | yoshida-kd | 255.5 kB | Build literature reviews for the social sciences in conversation with an AI age… |
+| 2026-09-25 12:05:35 | [specsolve](https://pypi.org/project/specsolve/) | 0.1.0rc1 |  | 390.1 kB | Self-documenting optimisation models: declarative LP/MILP, built relationally a… |
+| 2026-09-25 12:05:55 | [auratrace-sdk](https://pypi.org/project/auratrace-sdk/) | 2.0.0 | Sunil Singh <sunilsinghrajput… | 16.9 kB | Official Python Telemetry & AI Diagnostic SDK for AuraTrace Autonomous Backend… |
+| 2026-09-25 12:06:35 | [ome-zarr-io](https://pypi.org/project/ome-zarr-io/) | 0.7.0 | "Junel Solis, Turku BioImagin… | 109.7 kB | Write, read, and validate OME-Zarr 0.5 multiscale images |
+| 2026-09-25 12:07:12 | [gene-viewer](https://pypi.org/project/gene-viewer/) | 0.1.0 | Simon Ament | 31.7 kB | A lightweight and embeddable per-gene visualization of genomic regions, probes,… |
+| 2026-09-25 12:07:29 | [lumma-fev](https://pypi.org/project/lumma-fev/) | 0.1.0 | FrontiersMind <support@fronti… | 25.5 kB | Typed decisions with probabilities from FrontiersMind Lumma-Fev models: local i… |
+| 2026-09-25 12:08:55 | [qcmr.vbcas](https://pypi.org/project/qcmr.vbcas/) | 0.5.1 | Mariusz Radon <mariusz.radon@… | 247.7 kB | VB-analysis of CAS-CI expansion |
+| 2026-09-25 12:10:50 | [sherpy](https://pypi.org/project/sherpy/) | 0.1.0 |  | 12.9 MB | Python CLI backed by a Rust engine |
+| 2026-09-25 12:11:27 | [microgridspy](https://pypi.org/project/microgridspy/) | 0.4.0 | Alessandro Onori, MicroGridsP… | 9.6 MB | Bottom-up, open-source optimization tool for planning mini-grids in remote area… |
+| 2026-09-25 12:12:40 | [trackmod](https://pypi.org/project/trackmod/) | 0.2.0 | "Jakim (Stage Magician)" <jak… | 623.4 kB | Read, write and convert tracker music modules: Impulse Tracker, FastTracker 2,… |
+| 2026-09-25 12:13:44 | [ikc-video-sdk](https://pypi.org/project/ikc-video-sdk/) | 0.1.0 | SITECH-iKM | 24.1 kB | IKC 视频引擎（ikc-video-service）客户端 SDK：typed 视频资源方法 + 统一壳解包 + 身份信任头/traceId/幂等重试装配 |
+| 2026-09-25 12:13:49 | [muvue](https://pypi.org/project/muvue/) | 0.1.0 | Eugene Kim | 276.8 kB | Run an AI coding agent's work as an auditable, gated state machine instead of a… |
+| 2026-09-25 12:14:51 | [saad-crypto](https://pypi.org/project/saad-crypto/) | 0.1.0 | Saad | 12.1 kB | Authenticated encryption and password-protected secret storage for Python |
+| 2026-09-25 12:15:02 | [focusweave](https://pypi.org/project/focusweave/) | 2.0.0 |  | 15.3 MB | Focus stacking via Laplacian pyramid fusion |
+| 2026-09-25 12:15:24 | [football-tournament](https://pypi.org/project/football-tournament/) | 0.2.0 |  | 66.9 kB | A clean, reusable Python package for managing football tournaments |
+| 2026-09-25 12:16:27 | [delma2-0](https://pypi.org/project/delma2-0/) | 0.1.1 |  | 2.1 kB | Add your description here |
+| 2026-09-25 12:19:16 | [alkemy](https://pypi.org/project/alkemy/) | 0.1.8.dev284 | Devin Moore | 27.0 kB | Install and maintain Alkemy; explicit commands download its separate commercial… |

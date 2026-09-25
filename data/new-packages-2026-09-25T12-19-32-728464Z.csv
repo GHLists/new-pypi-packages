@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T07:34:23Z,odoo-addon-website-sale-product-document-type,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,24617,Group published product documents by type on the product page
+2026-09-25T11:25:40Z,typed-lighter,0.1.0,Marcel Claramunt <marcel@tribulnation.com>,MIT,454598,"A fully typed, validated async client for the Lighter API."
+2026-09-25T11:29:00Z,odoo-addon-website-sale-product-document-type-variant,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,25113,Keep variant documents grouped by type after an AJAX refresh
+2026-09-25T11:32:59Z,uxuxx,2.0.0,uxuxs82,MIT,20150,Zadachi informatiki 8 klass + free AI
+2026-09-25T11:34:15Z,ccherd,0.3.0,bocode labs,MIT,117018,Claude Code sessions and subagents across several Claude accounts
+2026-09-25T11:35:01Z,subbridge,0.1.0a1,,MIT,25080,Python wrappers for locally authenticated coding assistant CLIs
+2026-09-25T11:41:22Z,permdiff,0.1.0,Sharukh Hasan,Apache-2.0,268372,terraform plan for AI agent permission changes: replay recorded tool calls against a policy at two git refs and report what changes
+2026-09-25T11:45:34Z,conda-rattler-solver,0.2.0,,BSD-3-Clause,634782,"The fast pixi solver, now in conda"
+2026-09-25T11:46:40Z,aied-unplugged,0.2.0,,MIT,309781,"Loaders, graders and baselines for the AIED-Unplugged preview competition"
+2026-09-25T11:54:48Z,cf-regions,0.1.0,Yves Sorge,Apache-2.0 AND CC0-1.0 AND CC-BY-4.0 AND CC-BY-3.0 AND BSD-3-Clause AND LicenseRef-NASA-Open-Data A…,103741068,Version-aware lookup and geometry for CF standardized regions
+2026-09-25T11:56:13Z,lilla-core,0.5.0,tettekai,MIT,630121,Core runtime of the Lilla agent
+2026-09-25T11:57:00Z,modelroom,0.1.0,VISCONSULT,MIT,1033859,"Which local model packages exist for your model families, and which of them fit your machine."
+2026-09-25T12:05:04Z,priorwork,0.1.0,yoshida-kd,MIT,255542,Build literature reviews for the social sciences in conversation with an AI agent (Semantic Scholar + OpenAlex + SSCI)
+2026-09-25T12:05:35Z,specsolve,0.1.0rc1,,MIT,390114,"Self-documenting optimisation models: declarative LP/MILP, built relationally and handed straight to the solver"
+2026-09-25T12:05:55Z,auratrace-sdk,2.0.0,Sunil Singh <sunilsinghrajput192@gmail.com>,,16868,Official Python Telemetry & AI Diagnostic SDK for AuraTrace Autonomous Backend Diagnostics
+2026-09-25T12:06:35Z,ome-zarr-io,0.7.0,"""Junel Solis, Turku BioImaging"" <junel.solis@abo.fi>, ""Linda Srbova, Turku BioImaging"" <linda.srbov…",MIT,109709,"Write, read, and validate OME-Zarr 0.5 multiscale images"
+2026-09-25T12:07:12Z,gene-viewer,0.1.0,Simon Ament,,31662,"A lightweight and embeddable per-gene visualization of genomic regions, probes, and custom tracks."
+2026-09-25T12:07:29Z,lumma-fev,0.1.0,FrontiersMind <support@frontiersmind.ai>,Apache-2.0,25454,"Typed decisions with probabilities from FrontiersMind Lumma-Fev models: local inference, a TypeSafe-compatible API server and a client."
+2026-09-25T12:08:55Z,qcmr.vbcas,0.5.1,Mariusz Radon <mariusz.radon@uj.edu.pl>,MIT,247679,VB-analysis of CAS-CI expansion
+2026-09-25T12:10:50Z,sherpy,0.1.0,,,12881211,Python CLI backed by a Rust engine
+2026-09-25T12:11:27Z,microgridspy,0.4.0,"Alessandro Onori, MicroGridsPy contributors","EUROPEAN UNION PUBLIC LICENCE v. 1.2 EUPL © the European Union 2007, 2016 This European Union Publi…",9574940,"Bottom-up, open-source optimization tool for planning mini-grids in remote areas."
+2026-09-25T12:12:40Z,trackmod,0.2.0,"""Jakim (Stage Magician)"" <jakimpl@gmail.com>",MIT,623397,"Read, write and convert tracker music modules: Impulse Tracker, FastTracker 2, ProTracker, Scream Tracker 3 and Soundtracker"
+2026-09-25T12:13:44Z,ikc-video-sdk,0.1.0,SITECH-iKM,,24086,IKC 视频引擎（ikc-video-service）客户端 SDK：typed 视频资源方法 + 统一壳解包 + 身份信任头/traceId/幂等重试装配
+2026-09-25T12:13:49Z,muvue,0.1.0,Eugene Kim,MIT,276814,"Run an AI coding agent's work as an auditable, gated state machine instead of a chat transcript"
+2026-09-25T12:14:51Z,saad-crypto,0.1.0,Saad,MIT,12114,Authenticated encryption and password-protected secret storage for Python
+2026-09-25T12:15:02Z,focusweave,2.0.0,,,15266142,Focus stacking via Laplacian pyramid fusion
+2026-09-25T12:15:24Z,football-tournament,0.2.0,,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",66911,"A clean, reusable Python package for managing football tournaments"
+2026-09-25T12:16:27Z,delma2-0,0.1.1,,,2138,Add your description here
+2026-09-25T12:19:16Z,alkemy,0.1.8.dev284,Devin Moore,,26968,Install and maintain Alkemy; explicit commands download its separate commercial runtime
