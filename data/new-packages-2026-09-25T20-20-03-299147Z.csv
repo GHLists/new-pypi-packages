@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T19:23:00Z,playwright-limelight,0.2.2,Brayden Carlson,MIT,171767,Narrated Playwright demos that double as silent end-to-end tests
+2026-09-25T19:27:43Z,trainjudge,0.2.1,Himanshu Kurrey <himanshu98kurrey@gmail.com>,Apache-2.0,568266,"Decide whether fine-tuning is the right fix, then verify it actually worked — on task metrics, not training loss."
+2026-09-25T19:29:16Z,kea-cyberbully,0.1.0,KEA MINDZ,MIT,30778,Production-grade cyberbullying detection powered by transformer classifiers and nuance-aware multi-task learning.
+2026-09-25T19:34:32Z,hunch-ai,0.1.0,,Apache-2.0,142537,"Write the questions your code asks a model as specs, then test, diff and review the answers like code"
+2026-09-25T19:37:55Z,frp-jump,0.1.1,Alexander Degtyarev,MIT,84944,"P2P-with-relay-fallback ssh/http/tcp tunnels between Linux boxes, built on frp"
+2026-09-25T19:38:55Z,kistn,0.1.1,Kangonaut,,52167,A lightweight backup solution using BorgBackup and a Hetzner storage box.
+2026-09-25T19:39:03Z,callsy-cdk-secure-parameter,1.0.0,Laimonas Sutkus,ISC,16824,AWS CDK construct that creates an encrypted SSM parameter a deploy never overwrites.
+2026-09-25T19:39:29Z,callsy-cdk-db-readonly-role,1.0.0,Laimonas Sutkus,ISC,28314,AWS CDK construct that creates a Postgres role which reads every table and writes nothing.
+2026-09-25T19:39:50Z,unicode-smuggling-guard,1.0.1,Raul Kivi <raulkivi@users.noreply.github.com>,MIT,30651,"Detects invisible Unicode (tags, variation selectors, bidi, zero-width) used to smuggle prompt-injection payloads into code, docs and AI agent instructions"
+2026-09-25T19:40:37Z,antron-model-router,0.1.0,"Antron, Inc.",MIT,6583031,"A single interface for routing text, vision, image, audio, and video queries across model providers (Anthropic, OpenAI, Gemini, Together, Runware, ElevenLabs, Tripo) and local models."
+2026-09-25T19:41:25Z,hython-cli,0.1.1,Hython Labs,MIT,1352871,Zero-Interruption Python Automation Engine
+2026-09-25T19:46:10Z,custom-domain-sdk,0.1.0,Sireto <info@sireto.com>,Apache-2.0,33961,"Client, assertion verification and middleware for the Custom Domain API."
+2026-09-25T19:46:14Z,pgfsm-proto-codegen,0.1.0,,Apache-2.0,20871,Generated protobuf + gRPC stubs for the pgfsm Activity Gateway and Sidecar Gateway contracts.
+2026-09-25T19:52:48Z,appmem,0.1.0,Damian Pala,MIT,199202,"Live terminal view of RAM and swap usage per application, not per process"
+2026-09-25T19:54:03Z,shapeaudit,1.0.0,Riviane Maria Albuquerque Donha <riviane.donha@ufpr.br>,MIT,240533,"Descubra se o modelo novo aprendeu a mesma coisa que o antigo — auditoria entre duas versões, com laudo em HTML"
+2026-09-25T19:55:37Z,ezscript,0.2.1,zatr554 & Gemini,,3272,"A custom English-like shorthand transpiler for Python. (yes, its vibe coded. please dont put me in a shooting range)"
+2026-09-25T19:56:59Z,nieve,1.0.0,enemigos,MIT,17932,Lean Chilean RUT validation and formatting for Python
+2026-09-25T19:59:11Z,wintergrab,0.2.0,wintergrab contributors,MIT,382744,"Friendly web scraping that scales from one page to big crawls: browser-like fetching, adaptive selectors, resumable async spiders."
+2026-09-25T20:00:46Z,Lab-nas-v1,0.1.0,Suebpong Pruttipattanapong <feyhong44@gmail.com>,MIT,22727,Access a Synology NAS from Google Colab (or any Linux box) through a NetBird mesh network.
+2026-09-25T20:06:43Z,pydanticai-zambo,0.1.0,Brennan Zambo,,10161,PydanticAI function tools for Zambo with automatic verifiable receipt capture
+2026-09-25T20:07:04Z,timoshenko-engine,2.0.1,Ayberk Korkmaz,Apache-2.0,154789,Composable structural engineering calculations and analysis primitives for Python applications.
+2026-09-25T20:09:25Z,lossline,0.1.0,,MIT,71608,Experiment tracking with no server: runs are plain files in your own Hugging Face bucket.
+2026-09-25T20:10:21Z,gordonguard,0.1.0,,Apache-2.0,230330,Adversarial testing and runtime guarding for AI agents that spend money.
+2026-09-25T20:11:37Z,floorplan-api,0.5.0,Floor Plan API <admin@auctas.ai>,MIT,65982,Official Python client for the Floor Plan API — wall-segmentation masks from floor plan images and PDFs.
+2026-09-25T20:11:42Z,tribulnation-lighter,0.1.0,Marcel Claramunt <marcel@tribulnation.com>,MIT,41895,Tribulnation SDK implementation for Lighter.
+2026-09-25T20:16:00Z,handcron,0.1.0,Tomas Karabela <tkarabela@seznam.cz>,MIT,35239,Python task queue with manual ticks
+2026-09-25T20:17:17Z,just-more-python,1.0.0,,,3556,Just More Python
+2026-09-25T20:18:35Z,unwedge,0.1.0,umithavare,Apache-2.0,178873,"A circuit breaker for AI coding agents: catches doom loops in Claude Code, Codex CLI and custom agent loops, with optional judgments from TypeSafe jev or a local Laya model."
+2026-09-25T20:19:37Z,pyhoc,0.1.0,Nguyen Ba Hoc,,1751,Thu vien Python chua cac ham tien ich
+2026-09-25T20:19:50Z,q-alchemy-visualization,0.1.0,data cybernetics ssc GmbH,Apache-2.0,32463,Renderer-neutral experiment diagrams and text and Matplotlib renderers for Q-Alchemy
