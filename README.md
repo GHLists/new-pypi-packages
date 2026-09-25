@@ -8,40 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 02:19 UTC
+## Latest list — 2026-09-25 03:19 UTC
 
-New packages created between 2026-09-25 01:18 UTC and 2026-09-25 02:19 UTC.
+New packages created between 2026-09-25 02:19 UTC and 2026-09-25 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-25T02-19-25-439407Z.csv)
+[Full CSV](data/new-packages-2026-09-25T03-19-33-911703Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-25 01:00:19 | [palimpsest-client](https://pypi.org/project/palimpsest-client/) | 0.2.3 | Afterglow | 4.6 MB | Verified local OCI artifacts, KVM lifecycle, and Kolla-Ansible role data for Af… |
-| 2026-09-25 01:30:09 | [fontpkg-arvo](https://pypi.org/project/fontpkg-arvo/) | 1.6 |  | 95.7 kB | Arvo font family, packaged for Python by fontpkg |
-| 2026-09-25 01:30:11 | [fontpkg-domine](https://pypi.org/project/fontpkg-domine/) | 2.0 |  | 57.7 kB | Domine font family, packaged for Python by fontpkg |
-| 2026-09-25 01:30:13 | [fontpkg-gravitas-one](https://pypi.org/project/fontpkg-gravitas-one/) | 1.1 |  | 26.8 kB | Gravitas One font family, packaged for Python by fontpkg |
-| 2026-09-25 01:30:15 | [fontpkg-comfortaa](https://pypi.org/project/fontpkg-comfortaa/) | 3.105 |  | 107.0 kB | Comfortaa font family, packaged for Python by fontpkg |
-| 2026-09-25 01:36:43 | [beam-network-sdk](https://pypi.org/project/beam-network-sdk/) | 0.7.5 | Beam Network | 122.0 kB | Client SDK for the BEAM decentralized data pipeline |
-| 2026-09-25 01:40:48 | [benostreamdb](https://pypi.org/project/benostreamdb/) | 0.10.0 | Beno Labs Artificial Intellig… | 203.6 MB | BenoStreamDB - Serverless Index-Streaming Database with Overlay Indexing |
-| 2026-09-25 01:43:20 | [dv-ferm-analytics](https://pypi.org/project/dv-ferm-analytics/) | 0.1.0 | dv-analytics | 154.5 kB | Reusable Python tools for data analysis, visualization, and automated technical… |
-| 2026-09-25 01:44:02 | [paradox2](https://pypi.org/project/paradox2/) | 0.1.0 | CreAI <feliperodriguez@creai.… | 418.7 kB | Fast, simple document extraction — from-scratch rewrite of paradox_pdf |
-| 2026-09-25 01:45:27 | [milpa-sdk](https://pypi.org/project/milpa-sdk/) | 0.1.0a1 | Kasai Labs | 102.8 kB | SDK del ecosistema Milpa: manifests, perfiles de estructura, roles y fronteras… |
-| 2026-09-25 01:46:01 | [asilo-core](https://pypi.org/project/asilo-core/) | 0.1.0a1 | Kasai Labs | 102.5 kB | SDK de gobernanza para sistemas multi-agente: guardrails, validación de esquema… |
-| 2026-09-25 01:46:21 | [horcon](https://pypi.org/project/horcon/) | 0.8.2a1 | Kasai Labs | 621.2 kB | Horcón: framework que genera y valida sistemas multiagente deterministas. Perfi… |
-| 2026-09-25 01:47:32 | [dpmp](https://pypi.org/project/dpmp/) | 0.1.1 | DPMP | 108.8 kB | DPMP - Dual-Punch Multi-Path Protocol: P2P connectivity & transport library |
-| 2026-09-25 01:49:27 | [rosetta-build](https://pypi.org/project/rosetta-build/) | 0.1.1 | ralian <wbowers314@gmail.com> | 47.5 kB | Flat (non-meta) multilanguage build tool with a Python planner |
-| 2026-09-25 01:51:52 | [bugsradar](https://pypi.org/project/bugsradar/) | 3.0.0 | Bistriy Sp. z o.o. | 31.8 kB | Errors of your Python application in Telegram, Discord or Pushover: logging, un… |
-| 2026-09-25 01:54:28 | [BinSentry](https://pypi.org/project/BinSentry/) | 1.0.0 | lyshark | 40.0 kB |  |
-| 2026-09-25 01:59:47 | [assay-server](https://pypi.org/project/assay-server/) | 0.1.0 | tap222 | 502.0 kB | Assay server: evaluation and observability for AI pipelines and agents, with a… |
-| 2026-09-25 01:59:48 | [softprobe](https://pypi.org/project/softprobe/) | 0.1.0 | Softprobe | 66.4 kB | Softprobe LLM observability SDK for Python |
-| 2026-09-25 02:00:18 | [ipasign](https://pypi.org/project/ipasign/) | 1.0 | Senophyx <contact@senophyx.id> | 73.9 kB | iOS code signing in Python |
-| 2026-09-25 02:03:50 | [earthdaily-agriculture](https://pypi.org/project/earthdaily-agriculture/) | 2.6.0 | EarthDaily Analytics | 1.1 MB | Utilities for bulk analytics extraction from the EarthDaily Agriculture APIs |
-| 2026-09-25 02:04:41 | [fintfm](https://pypi.org/project/fintfm/) | 0.5.5 | Mukharbek Organokov | 366.3 kB | A tabular foundation model for financial risk — pretrained on synthetic company… |
-| 2026-09-25 02:05:59 | [ovos-kid-friendly-dialog-transformer](https://pypi.org/project/ovos-kid-friendly-dialog-transformer/) | 1.1.0 | Mike Gray/Oscillate Labs <mik… | 17.0 kB | Dialog transformer for OVOS, designed to return kid-friendly responses from Oll… |
-| 2026-09-25 02:06:06 | [acp-classifier](https://pypi.org/project/acp-classifier/) | 1.0.0 | Brayan Arturo Navarro Sinuco,… | 46.1 kB | Clasificación de péptidos anticancerígenos (ACPs) mediante modelos de lenguaje… |
-| 2026-09-25 02:06:16 | [ovos-ollama-dialog-transformer-plugin](https://pypi.org/project/ovos-ollama-dialog-transformer-plugin/) | 1.1.0 | Mike Gray/Oscillate Labs <mik… | 16.8 kB | Dialog transformer for OVOS, designed to return responses from Ollama |
-| 2026-09-25 02:07:30 | [bad-checker](https://pypi.org/project/bad-checker/) | 0.1.0 | coder5330 <hello@jldev.com> | 5.5 kB | A typo-tolerant blocklist checker. |
-| 2026-09-25 02:08:34 | [ovos-tts-plugin-pocket-tts](https://pypi.org/project/ovos-tts-plugin-pocket-tts/) | 0.2.0 | Mike Gray/Oscillate Labs <mik… | 32.0 kB | OVOS TTS plugin for Pocket TTS — lightweight CPU-only TTS by Kyutai |
-| 2026-09-25 02:09:20 | [cxbom](https://pypi.org/project/cxbom/) | 0.0.1 | ATACE Working Group | 2.5 kB | Name reservation for CxBOM, the Context Bill of Materials tool. See https://cxb… |
-| 2026-09-25 02:11:19 | [vhamster](https://pypi.org/project/vhamster/) | 1.3.1 |  | 106.3 kB | VHAMSTeR ensemble inference CLI |
-| 2026-09-25 02:16:06 | [vivarium-workbench](https://pypi.org/project/vivarium-workbench/) | 0.3.88 | Vivarium Collective <team@viv… | 17.7 MB | Web-based workbench for Vivarium / process-bigraph workspaces |
+| 2026-09-25 02:19:54 | [gai-harness-asm](https://pypi.org/project/gai-harness-asm/) | 0.0.1 | kakkoii1337 <kakkoii1337@gmai… | 295.1 kB |  |
+| 2026-09-25 02:19:55 | [catraca](https://pypi.org/project/catraca/) | 0.1.0 | Maria Alice Maia | 217.7 kB | Provenance-aware authorisation for agent tool calls. |
+| 2026-09-25 02:21:33 | [reqparser](https://pypi.org/project/reqparser/) | 1.0.1 |  | 15.9 kB | Lightweight HTTP request parser |
+| 2026-09-25 02:24:23 | [multicloud-py-common](https://pypi.org/project/multicloud-py-common/) | 0.1.6 |  | 24.8 kB | Shared base for the python-multicloud SDK: exception hierarchy, provider regist… |
+| 2026-09-25 02:24:23 | [multicloud-py-gcp-common](https://pypi.org/project/multicloud-py-gcp-common/) | 0.1.6 |  | 16.7 kB | Shared GCP credential resolution utilities for multicloud-* providers. |
+| 2026-09-25 02:24:28 | [multicloud-py-aws-common](https://pypi.org/project/multicloud-py-aws-common/) | 0.1.6 |  | 23.9 kB | Shared AWS credential resolution utilities for multicloud-* providers. |
+| 2026-09-25 02:25:08 | [ppidest](https://pypi.org/project/ppidest/) | 0.8.0 | Takuya Kawanishi | 26.7 kB | Plotting Position-Information Divergence framework for parameter estimation of… |
+| 2026-09-25 02:25:10 | [git-bug-broker](https://pypi.org/project/git-bug-broker/) | 0.1.0 |  | 31.8 kB | MCP server that lets several agents share one git-bug store while the web UI is… |
+| 2026-09-25 02:28:16 | [manimol](https://pypi.org/project/manimol/) | 0.2.0 | MANIMOL developers | 457.7 kB | MANIMOL ensemble-relational conformer generation and compact-library constructi… |
+| 2026-09-25 02:28:35 | [DD-iraqi](https://pypi.org/project/DD-iraqi/) | 1.0.0 | DD_iraqi | 4.9 kB | A Python library to automatically fetch and rotate OpenVPN configs for scraping. |
+| 2026-09-25 02:29:57 | [openbot-sdk](https://pypi.org/project/openbot-sdk/) | 0.3.0 | "OpenBot.ai" <hello@openbot.a… | 20.2 kB | Thin Python client for the OpenBot.ai platform API. |
+| 2026-09-25 02:31:30 | [balanceproof](https://pypi.org/project/balanceproof/) | 0.1.0 |  | 10.0 kB | SEC fundamentals that prove they add up: checked balance sheets, income stateme… |
+| 2026-09-25 02:33:02 | [exp-mitmproxy-rs](https://pypi.org/project/exp-mitmproxy-rs/) | 0.12.11.post1 |  | 18.2 MB |  |
+| 2026-09-25 02:33:32 | [cycleuser-mailpilot](https://pypi.org/project/cycleuser-mailpilot/) | 0.0.4 | MailPilot Contributors | 137.1 kB | Pure-Python command-line mail client: send/receive via SMTP/IMAP/POP3, all main… |
+| 2026-09-25 02:38:39 | [fzi-aura](https://pypi.org/project/fzi-aura/) | 1.0.1 | Rupert Polley <polley@fzi.de> | 4.1 MB | Python SDK for the FZI-AURA dataset. |
+| 2026-09-25 02:40:31 | [exp-mitmproxy](https://pypi.org/project/exp-mitmproxy/) | 12.2.3.post1 | Experiential Labs | 3.2 MB | An interactive, SSL/TLS-capable intercepting proxy for HTTP/1, HTTP/2, and WebS… |
+| 2026-09-25 02:40:37 | [snowflake-cortex-agent-sdk](https://pypi.org/project/snowflake-cortex-agent-sdk/) | 0.0.1 | "Snowflake, Inc." <support@sn… | 314.6 kB | Python SDK for the Snowflake Cortex Agent REST API (agent:run streaming, thread… |
+| 2026-09-25 02:42:39 | [hallsim](https://pypi.org/project/hallsim/) | 0.1.0 | Baba Jaguska | 4.9 MB | Differentiable, composable multi-scale modelling framework for aging biology |
+| 2026-09-25 02:42:50 | [altero](https://pypi.org/project/altero/) | 0.1.0 | Full Context Labs | 2.2 MB | Altero for Claude Code: switch Claude Code accounts when usage limits run out |
+| 2026-09-25 02:49:12 | [viva-catalog](https://pypi.org/project/viva-catalog/) | 0.1.0 | Vivarium Collective | 128.9 kB | Ecosystem ledger for the vivarium / process-bigraph workbench: the registry of… |
+| 2026-09-25 02:50:33 | [zeroscan](https://pypi.org/project/zeroscan/) | 2.1.0 | Chau Vu / CPF-FAMILY <chauvuu… | 57.1 kB | The Zero-Scan, Git-Aware Context Engine for AI Coding Agents (Hermes, Claude Co… |
+| 2026-09-25 02:58:07 | [termigma](https://pypi.org/project/termigma/) | 1.0.0 | Rex Ackermann | 30.4 kB | An interactive terminal (TUI) Enigma machine simulator |
+| 2026-09-25 03:01:00 | [hiveplane](https://pypi.org/project/hiveplane/) | 0.1.0 | HivePlane Contributors | 322.7 kB | Control plane for production agent fleets: registry, certification, run lifecyc… |
+| 2026-09-25 03:01:45 | [broadcaster-studio](https://pypi.org/project/broadcaster-studio/) | 0.1.2 | KwonPop | 7.4 kB | FFmpeg & Pillow based Ultra-fast Broadcast Studio Overlay Tool |
+| 2026-09-25 03:03:20 | [django-swr-memoize](https://pypi.org/project/django-swr-memoize/) | 0.1.0 | Jimmy Engelbrecht | 21.6 kB | Stale-while-revalidate memoization for Django: API-compatible with django-memoi… |
+| 2026-09-25 03:12:42 | [kitten-text-processing](https://pypi.org/project/kitten-text-processing/) | 0.1.0 |  | 18.8 MB | Standalone, standard-library-only multilingual text normalization for TTS |
+| 2026-09-25 03:16:29 | [eudr-compliance-agent](https://pypi.org/project/eudr-compliance-agent/) | 1.3.0 | EUDRAgent Core Team <admin@eu… | 1.8 MB | Autonomous AI Agent compliance engine for EU Deforestation Regulation (EU 2023/… |
+| 2026-09-25 03:16:32 | [mini-agent-cli](https://pypi.org/project/mini-agent-cli/) | 0.2.0 | zhaomo08 | 61.1 kB | 终端里的编码 Agent：配置驱动，支持 OpenAI Chat / Responses 与 Anthropic 协议、MCP、Agent Skills |

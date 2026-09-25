@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-09-25T01:18:58.586737Z",
-    "path": "data/new-packages-2026-09-25T02-19-25-439407Z.csv",
-    "to": "2026-09-25T02:19:25.439407Z"
+    "count": 28,
+    "from": "2026-09-25T02:19:25.439407Z",
+    "path": "data/new-packages-2026-09-25T03-19-33-911703Z.csv",
+    "to": "2026-09-25T03:19:33.911703Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-24T22:48:09Z",
-      "package": "chatlog",
-      "since": "2026-09-24T22:19:02.122672Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-25T01:10:18Z",
       "package": "goodmem-dspy",
       "since": "2026-09-25T00:18:58.557095Z"
     }
   ],
-  "serial": 41435762,
+  "serial": 41436888,
   "source_truncated": false,
-  "window": "2026-09-25T02:19:25.439407Z"
+  "window": "2026-09-25T03:19:33.911703Z"
 }

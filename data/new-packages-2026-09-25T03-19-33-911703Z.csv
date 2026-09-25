@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T02:19:54Z,gai-harness-asm,0.0.1,kakkoii1337 <kakkoii1337@gmail.com>,,295096,
+2026-09-25T02:19:55Z,catraca,0.1.0,Maria Alice Maia,Apache-2.0,217719,Provenance-aware authorisation for agent tool calls.
+2026-09-25T02:21:33Z,reqparser,1.0.1,,MIT,15941,Lightweight HTTP request parser
+2026-09-25T02:24:23Z,multicloud-py-common,0.1.6,,Apache-2.0,24835,"Shared base for the python-multicloud SDK: exception hierarchy, provider registry, entry-point discovery."
+2026-09-25T02:24:23Z,multicloud-py-gcp-common,0.1.6,,Apache-2.0,16654,Shared GCP credential resolution utilities for multicloud-* providers.
+2026-09-25T02:24:28Z,multicloud-py-aws-common,0.1.6,,Apache-2.0,23864,Shared AWS credential resolution utilities for multicloud-* providers.
+2026-09-25T02:25:08Z,ppidest,0.8.0,Takuya Kawanishi,MIT,26713,Plotting Position-Information Divergence framework for parameter estimation of univariate distributions
+2026-09-25T02:25:10Z,git-bug-broker,0.1.0,,MIT,31782,MCP server that lets several agents share one git-bug store while the web UI is open
+2026-09-25T02:28:16Z,manimol,0.2.0,MANIMOL developers,"MIT License Copyright (c) 2026 MANIMOL developers Permission is hereby granted, free of charge, to…",457720,MANIMOL ensemble-relational conformer generation and compact-library construction
+2026-09-25T02:28:35Z,DD-iraqi,1.0.0,DD_iraqi,,4911,A Python library to automatically fetch and rotate OpenVPN configs for scraping.
+2026-09-25T02:29:57Z,openbot-sdk,0.3.0,"""OpenBot.ai"" <hello@openbot.ai>",MIT,20151,Thin Python client for the OpenBot.ai platform API.
+2026-09-25T02:31:30Z,balanceproof,0.1.0,,MIT,10014,"SEC fundamentals that prove they add up: checked balance sheets, income statements and cash flow, point-in-time."
+2026-09-25T02:33:02Z,exp-mitmproxy-rs,0.12.11.post1,,,18153637,
+2026-09-25T02:33:32Z,cycleuser-mailpilot,0.0.4,MailPilot Contributors,GPL-3.0-or-later,137149,"Pure-Python command-line mail client: send/receive via SMTP/IMAP/POP3, all mainstream auth methods, built-in mail server, and full agent tool API"
+2026-09-25T02:38:39Z,fzi-aura,1.0.1,Rupert Polley <polley@fzi.de>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",4108431,Python SDK for the FZI-AURA dataset.
+2026-09-25T02:40:31Z,exp-mitmproxy,12.2.3.post1,Experiential Labs,"Copyright (c) 2013, Aldo Cortesi. All rights reserved. Permission is hereby granted, free of charge…",3208188,"An interactive, SSL/TLS-capable intercepting proxy for HTTP/1, HTTP/2, and WebSockets."
+2026-09-25T02:40:37Z,snowflake-cortex-agent-sdk,0.0.1,"""Snowflake, Inc."" <support@snowflake.com>",See LICENSE,314579,"Python SDK for the Snowflake Cortex Agent REST API (agent:run streaming, threads, feedback)"
+2026-09-25T02:42:39Z,hallsim,0.1.0,Baba Jaguska,MIT,4897702,"Differentiable, composable multi-scale modelling framework for aging biology"
+2026-09-25T02:42:50Z,altero,0.1.0,Full Context Labs,MIT,2188916,Altero for Claude Code: switch Claude Code accounts when usage limits run out
+2026-09-25T02:49:12Z,viva-catalog,0.1.0,Vivarium Collective,MIT,128920,Ecosystem ledger for the vivarium / process-bigraph workbench: the registry of repos + an aggregated artifact index.
+2026-09-25T02:50:33Z,zeroscan,2.1.0,Chau Vu / CPF-FAMILY <chauvuusvn@users.noreply.github.com>,MIT,57056,"The Zero-Scan, Git-Aware Context Engine for AI Coding Agents (Hermes, Claude Code, Codex, OpenCode)"
+2026-09-25T02:58:07Z,termigma,1.0.0,Rex Ackermann,MIT,30448,An interactive terminal (TUI) Enigma machine simulator
+2026-09-25T03:01:00Z,hiveplane,0.1.0,HivePlane Contributors,MIT,322726,"Control plane for production agent fleets: registry, certification, run lifecycle, policy, budget, and observability."
+2026-09-25T03:01:45Z,broadcaster-studio,0.1.2,KwonPop,,7386,FFmpeg & Pillow based Ultra-fast Broadcast Studio Overlay Tool
+2026-09-25T03:03:20Z,django-swr-memoize,0.1.0,Jimmy Engelbrecht,BSD-3-Clause,21582,"Stale-while-revalidate memoization for Django: API-compatible with django-memoize, but only the first call ever waits."
+2026-09-25T03:12:42Z,kitten-text-processing,0.1.0,,Apache-2.0 AND MIT,18757467,"Standalone, standard-library-only multilingual text normalization for TTS"
+2026-09-25T03:16:29Z,eudr-compliance-agent,1.3.0,EUDRAgent Core Team <admin@eudragent.com>,MIT,1848870,Autonomous AI Agent compliance engine for EU Deforestation Regulation (EU 2023/1115)
+2026-09-25T03:16:32Z,mini-agent-cli,0.2.0,zhaomo08,,61064,终端里的编码 Agent：配置驱动，支持 OpenAI Chat / Responses 与 Anthropic 协议、MCP、Agent Skills
