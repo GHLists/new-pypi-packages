@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T02:21:33Z,graphs-shaddad,0.0.1,Sam Haddad <samhaddad@gmail.com>,MIT,7612,A graphing algorithm package
+2026-09-26T02:23:38Z,telegram-channel-scraper,2.0.0,specialteam,"MIT License Copyright (c) 2024 Seyed Amir Hossein Permission is hereby granted, free of charge, to…",80056,"Scrape public Telegram channels without API keys or login — Python library, CLI, MCP server for AI agents, and dashboard."
+2026-09-26T02:27:15Z,rootline,0.1.0,Pablo Domínguez,Apache-2.0,121045,Trace the change. Find the cause.
+2026-09-26T02:29:57Z,rejox,0.1.0,Ashraf,FSL-1.1-ALv2,3358331,Rejox — AI migration engineer: React → React Native. CLI + pipeline.
+2026-09-26T02:32:23Z,plane-mcp-oss,0.1.1,Abel Santillan Rodriguez <abelsantillanrdz@gmail.com>,MIT,165464,"MCP server that exposes the Plane project management API to AI clients, built with FastMCP."
+2026-09-26T02:32:31Z,zhao-dbt-plan,0.2.1,,AGPL-3.0-or-later,3208920,Static microbatch cascading time-window planner for dbt -- a zhao-cli Addon.
+2026-09-26T02:34:45Z,trame-reveal,1.0.2,Kitware Inc.,Apache 2.0 License,4525192,Reveal.js widget and helper application
+2026-09-26T02:34:57Z,systempulse-monitor,0.1.0.dev1,,Apache-2.0,168305,Open-source real-time system monitoring and diagnostics for your terminal.
+2026-09-26T02:35:45Z,zhao-cli,0.5.6,,Apache-2.0,26190385,"Deterministic, offline change-review and CI gate for data transformation projects."
+2026-09-26T02:36:56Z,argbuilder,0.1.0,Tomas Perez Alvarez,MIT,82008,Typed command-line parsing where definition bugs fail at once and user mistakes return values. No dependencies.
+2026-09-26T02:39:26Z,dat-toanhoc,0.1.0,,,2599,
+2026-09-26T02:40:39Z,sentinel-codegraph,0.3.0,Sentinel,,101875,Sentinel code graph CLI: tree-sitter nodes/edges into SQL
+2026-09-26T02:40:46Z,iotsploit-fuzzer,0.0.9,IoTSploit Team,,165186,"IoTSploit fuzzer library (ports + core + adapters), extracted from zeekr_sat_main"
+2026-09-26T02:40:50Z,iotsploit-priv,0.0.9,IoTSploit Team,GPL-3.0-or-later,17617,Bounded privileged-operation client for IoTSploit
+2026-09-26T02:40:51Z,iotsploit-protocols,0.0.9,IoTSploit Team,GPL-3.0-or-later,127686,Automotive protocol clients and description parsers for IoTSploit
+2026-09-26T02:41:46Z,artificer-agent,0.1.0a1,Scott Russell <scrussell24@gmail.com>,MIT,1247185,An AI assistant on Athanore: a chat that manages agent workflows
+2026-09-26T02:49:14Z,hakowan-mcp,0.1.0,Qingnan Zhou <qnzhou@gmail.com>,,90971,Model Context Protocol integration for external agent harnesses.
+2026-09-26T02:50:29Z,mediary,0.1.0,codeonym-oss,MIT,55454,"Typed, decorator-driven mediator + CQRS for Python — handlers, pipelines and notifications discovered by package scan."
+2026-09-26T02:51:06Z,siwon-pokemon-package-2026,1.0.0,Siwon Song,MIT,52680,Pokemon classification package by region and custom type groups
+2026-09-26T02:51:55Z,je-file-tree,0.1.1,JE-Chen <jechenmailman@gmail.com>,MIT,229548,"See where your disk space goes: a fast folder-size scanner with a tree, a treemap and a list of the largest files."
+2026-09-26T02:55:53Z,cedikit,1.0.0,Francis Kusi,MIT,205516,"A Python toolkit for Ghanaian phone numbers, cedi amounts, and Mobile Money transactions"
+2026-09-26T02:57:57Z,sec-scan,0.1.1,,,17413,A from-scratch CLI security scanner
+2026-09-26T03:01:13Z,open-dpc-jp,0.1.0,,MIT,321743,"DPC FF1/EF readers, versioned schemas, and research algorithms for Japan"
+2026-09-26T03:05:40Z,agentic-terminal-dk,0.1.0,Dhananjay Kumar <dhkumar560@gmail.com>,,5354,An MCP server that adds terminal capabilities to an agent.
+2026-09-26T03:11:03Z,sako,0.5.0,Kasra Aminiyeganeh,MIT,168182,A task ledger and finish gate for coding agents
+2026-09-26T03:11:59Z,orchiddb,0.1.0,,GPL-3.0-only,17160748,OrchidDB graph-to-SQL compiler and caller-owned Arrow execution
+2026-09-26T03:12:46Z,molgfx,0.1.0,,MIT,35081154,
+2026-09-26T03:18:20Z,knoxcall,0.0.1,KnoxCall,Apache-2.0,1976,Placeholder for the official KnoxCall Python SDK.
