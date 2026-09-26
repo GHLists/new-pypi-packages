@@ -8,53 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 09:19 UTC
+## Latest list — 2026-09-26 10:19 UTC
 
-New packages created between 2026-09-26 08:19 UTC and 2026-09-26 09:19 UTC.
+New packages created between 2026-09-26 09:19 UTC and 2026-09-26 10:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T09-19-37-656075Z.csv)
+[Full CSV](data/new-packages-2026-09-26T10-19-39-302602Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 08:19:23 | [capo-ivs](https://pypi.org/project/capo-ivs/) | 0.1.0 |  | 406.0 kB | Python SDK for IVS. |
-| 2026-09-26 08:20:05 | [capo-ivs-realtime](https://pypi.org/project/capo-ivs-realtime/) | 0.1.0 |  | 423.4 kB | Python SDK for IVS Realtime. |
-| 2026-09-26 08:20:43 | [capo-ivschat](https://pypi.org/project/capo-ivschat/) | 0.1.0 |  | 224.3 kB | Python SDK for Ivschat. |
-| 2026-09-26 08:21:16 | [capo-kafka](https://pypi.org/project/capo-kafka/) | 0.1.0 |  | 545.4 kB | Python SDK for Kafka. |
-| 2026-09-26 08:21:40 | [eunhwa-biolabkit](https://pypi.org/project/eunhwa-biolabkit/) | 0.1.0 | Jeong Eunhwa | 7.2 kB | Educational biosensor data processing package by Jeong Eunhwa |
-| 2026-09-26 08:22:07 | [capo-kafkaconnect](https://pypi.org/project/capo-kafkaconnect/) | 0.1.0 |  | 267.5 kB | Python SDK for Kafkaconnect. |
-| 2026-09-26 08:22:41 | [capo-kendra](https://pypi.org/project/capo-kendra/) | 0.1.0 |  | 935.6 kB | Python SDK for Kendra. |
-| 2026-09-26 08:23:16 | [capo-kendra-ranking](https://pypi.org/project/capo-kendra-ranking/) | 0.1.0 |  | 164.8 kB | Python SDK for Kendra Ranking. |
-| 2026-09-26 08:23:34 | [bugdna](https://pypi.org/project/bugdna/) | 1.2.0 | Arnab Nandy | 52.8 kB | Deterministic exception fingerprinting, similarity comparison, and failure trac… |
-| 2026-09-26 08:25:01 | [humanoid-robot](https://pypi.org/project/humanoid-robot/) | 0.1.0 | odhobj <odhobj@gmail.com> | 6.0 kB | Humanoid robot package example (sensor / actuator / controller) |
-| 2026-09-26 08:25:51 | [ajgar](https://pypi.org/project/ajgar/) | 0.1.0 | Aarsh Garg <aarshg.13@gmail.c… | 14.1 kB | Write Python in pure Devanagari Hindi! शुद्ध देवनागरी हिंदी में पायथन लिखें! |
-| 2026-09-26 08:26:17 | [terrajev](https://pypi.org/project/terrajev/) | 0.1.0 | Midhun Krishna | 28.1 kB | AI-assisted Terraform plan risk and security analyzer |
-| 2026-09-26 08:29:12 | [superpositions-router-client](https://pypi.org/project/superpositions-router-client/) | 0.0.0 | Superpositions Studio <suppor… | 14.9 kB | Client for Superpositions Router: run superpositions-kit circuits on real quant… |
-| 2026-09-26 08:30:30 | [action0-celery-sched](https://pypi.org/project/action0-celery-sched/) | 0.1.0 | Simon Lachinger | 157.6 kB | Celery beat schedules defined in YAML or TOML files |
-| 2026-09-26 08:31:10 | [paulikit](https://pypi.org/project/paulikit/) | 0.1.0 | Mohammadreza Khellat, Mohamma… | 2.6 MB | Pauli-basis decomposition of large operators: fast Walsh-Hadamard transform in… |
-| 2026-09-26 08:33:50 | [aureus-enhancer](https://pypi.org/project/aureus-enhancer/) | 1.0.0 | AUREUS Project | 139.0 kB | AUREUS — Video Enhancer, Upscaler & RAW Lossless Converter with modern TUI, CLI… |
-| 2026-09-26 08:36:18 | [action0-django-acache](https://pypi.org/project/action0-django-acache/) | 0.1.0 | Simon Lachinger | 124.0 kB | Django's Redis cache backend with native async methods on redis.asyncio |
-| 2026-09-26 08:36:26 | [the-simulator](https://pypi.org/project/the-simulator/) | 0.0.0 | Pu Fanyi | 2.3 kB | Add your description here |
-| 2026-09-26 08:44:38 | [gtec-unicorn](https://pypi.org/project/gtec-unicorn/) | 0.1.0 | "g.tec medical engineering Gm… | 5.9 MB | A Unicorn API. To be used only as part of g.Pype. |
-| 2026-09-26 08:48:00 | [dsh-mol](https://pypi.org/project/dsh-mol/) | 0.0.1 |  | 94.2 kB | Local-first chemistry toolkit for AI agents (RDKit, no network): SMILES validat… |
-| 2026-09-26 08:48:19 | [rustforge-rl](https://pypi.org/project/rustforge-rl/) | 0.1.0 | Teo Jun Jie | 2.8 MB | Reinforcement learning environments and agents implemented in Rust, with Gymnas… |
-| 2026-09-26 08:48:24 | [boldcurator](https://pypi.org/project/boldcurator/) | 3.5.0 | BGE barcoding | 647.7 kB | Offline curation of BOLD specimen records against a local data-package snapshot |
-| 2026-09-26 08:49:04 | [machinome-viewer](https://pypi.org/project/machinome-viewer/) | 0.7.0 | Luis Henrique Cassis Fagundes… | 1.8 MB | The browser viewer for machinome models: the embeddable widget, the development… |
-| 2026-09-26 08:51:16 | [race-ai](https://pypi.org/project/race-ai/) | 0.1.0 |  | 24.0 kB | Race Engineering GPU cloud CLI |
-| 2026-09-26 08:55:23 | [bensz-router](https://pypi.org/project/bensz-router/) | 1.0.0 | bensz-router contributors | 98.1 kB | Public CLI and Harness adapters for the bensz-router Agent Workflow API |
-| 2026-09-26 08:56:05 | [my-math-geom-student-2026](https://pypi.org/project/my-math-geom-student-2026/) | 0.1.0 | nguyen duy manh | 3.7 kB | Thư viện tính toán và hình học chữ nhật cơ bản |
-| 2026-09-26 08:56:23 | [pyaccesskit](https://pypi.org/project/pyaccesskit/) | 0.1.0 | Arie Joe | 422.3 kB | A modern, typed, Pythonic toolkit for building and modifying Microsoft Access d… |
-| 2026-09-26 08:57:16 | [twylt](https://pypi.org/project/twylt/) | 1.0.0 |  | 12.2 kB | Python reference implementation of TWYLT, a contract for self-describing execut… |
-| 2026-09-26 08:58:49 | [vikky](https://pypi.org/project/vikky/) | 0.1.0 | VSP AI & Robotics | 13.3 kB | Python SDK for Vikky Platform: chat, vision, speech, embeddings, images and mor… |
-| 2026-09-26 09:00:57 | [intentproof-guard](https://pypi.org/project/intentproof-guard/) | 0.1.0 |  | 39.8 kB | Ask IntentProof before an AI agent is allowed to pay |
-| 2026-09-26 09:00:58 | [aitmeral-enhancer](https://pypi.org/project/aitmeral-enhancer/) | 1.0.0 | AITMERAL Project | 139.4 kB | AITMERAL — Video Enhancer, Upscaler & RAW Lossless Converter with modern TUI, C… |
-| 2026-09-26 09:01:09 | [seedgraph](https://pypi.org/project/seedgraph/) | 0.1.1 | Rachid Jeffali | 105.6 kB | Seed your SQLAlchemy models as a referentially-consistent graph — one call, sha… |
-| 2026-09-26 09:02:49 | [hls-converter-cli](https://pypi.org/project/hls-converter-cli/) | 0.9.0 | devdasher | 64.8 kB | General-purpose HLS media converter built on FFmpeg. |
-| 2026-09-26 09:03:50 | [hls-converter-gui](https://pypi.org/project/hls-converter-gui/) | 0.7.0 | devdasher | 70.8 kB | PySide6 desktop GUI for the hls-converter-cli package. |
-| 2026-09-26 09:04:58 | [sfs-v2](https://pypi.org/project/sfs-v2/) | 0.0.1.dev1 |  | 10.1 MB | Python-first SDK for SqlFileSystem v2 |
-| 2026-09-26 09:05:19 | [token-saver-engine](https://pypi.org/project/token-saver-engine/) | 1.0.0 | Ömer Faruk Eskitürk <omereski… | 159.3 kB | MCP server that saves 70-95% tokens for AI coding assistants without losing fun… |
-| 2026-09-26 09:08:00 | [verinoda](https://pypi.org/project/verinoda/) | 0.1.0 | Verinoda contributors | 5.9 MB | Evidence-first codebase analysis for coding agents: knowledge graph, architectu… |
-| 2026-09-26 09:15:54 | [cloudg](https://pypi.org/project/cloudg/) | 0.3.0 | morpheuslord <chiranjeevi.nai… | 581.3 kB | cloudg (cloud graphing) — multi-cloud infrastructure mapping, knowledge graphs… |
-| 2026-09-26 09:16:22 | [langchain-fairseal](https://pypi.org/project/langchain-fairseal/) | 0.1.0 | FairSeal <hello@fairseal.io> | 31.8 kB | LangChain callback handler that notarizes every tool call on FairSeal (on-chain… |
-| 2026-09-26 09:18:31 | [probity-mcp](https://pypi.org/project/probity-mcp/) | 0.0.1 |  | 2.1 kB | Reserved for Probity, open-source testing and evaluation for MCP servers, A2A a… |
-| 2026-09-26 09:18:35 | [probity-a2a](https://pypi.org/project/probity-a2a/) | 0.0.1 |  | 2.1 kB | Reserved for Probity, open-source testing and evaluation for MCP servers, A2A a… |
-| 2026-09-26 09:18:40 | [probity-skills](https://pypi.org/project/probity-skills/) | 0.0.1 |  | 2.2 kB | Reserved for Probity, open-source testing and evaluation for MCP servers, A2A a… |
+| 2026-09-26 09:18:43 | [probity-evals](https://pypi.org/project/probity-evals/) | 0.0.1 |  | 2.1 kB | Reserved for Probity, open-source testing and evaluation for MCP servers, A2A a… |
+| 2026-09-26 09:21:27 | [sqlakit-lsp](https://pypi.org/project/sqlakit-lsp/) | 0.1.2 | Anton Ruhlov | 56.0 kB | The language server for SQLAKit templates. |
+| 2026-09-26 09:23:11 | [infradrift](https://pypi.org/project/infradrift/) | 1.1.0 | Serber1990 <serber1990@pm.me> | 41.7 kB | Detect drift between a known-good baseline and the current state of a Linux ser… |
+| 2026-09-26 09:23:23 | [machinome-mechanics](https://pypi.org/project/machinome-mechanics/) | 0.1.0 | Luis Henrique Cassis Fagundes… | 211.5 kB | Mechanical formula helpers for machinome projects |
+| 2026-09-26 09:23:24 | [hurdle-gate](https://pypi.org/project/hurdle-gate/) | 0.3.1 |  | 44.6 kB | Static-analysis gate for source↔test file existence mapping |
+| 2026-09-26 09:25:16 | [envlock-cli](https://pypi.org/project/envlock-cli/) | 1.1.0 | Serber1990 <serber1990@pm.me> | 35.7 kB | Freeze and compare Python, Node, and system environments — detect dependency dr… |
+| 2026-09-26 09:26:06 | [pg-schema-diff](https://pypi.org/project/pg-schema-diff/) | 0.2.0 | Asad Shah <asadshah7950@gmail… | 31.0 kB | CLI tool to detect schema drift between PostgreSQL databases and generate safe… |
+| 2026-09-26 09:26:43 | [cyberwave-geometry](https://pypi.org/project/cyberwave-geometry/) | 0.2.0 |  | 2.7 MB | Python binding for the Cyberwave shared geometry core (quaternions, transforms,… |
+| 2026-09-26 09:30:03 | [django-amatopay](https://pypi.org/project/django-amatopay/) | 0.1.0 | AmatoPay | 33.6 kB | Django app that plugs the AmatoPay payment gateway into your project: local mod… |
+| 2026-09-26 09:31:24 | [csvguard](https://pypi.org/project/csvguard/) | 0.1.0 | Sumit | 19.9 kB | The Fast, Terminal-First Data Quality & Cleaning CLI |
+| 2026-09-26 09:33:51 | [cinebox](https://pypi.org/project/cinebox/) | 0.1.0 | Hossam Gamal | 106.1 kB | Terminal tool to search, stream, and download movies & TV shows |
+| 2026-09-26 09:35:12 | [mersennet-sdk](https://pypi.org/project/mersennet-sdk/) | 0.1.1 | Mersennet Foundation <dev@mer… | 50.6 kB | Python SDK for Mersennet: JSON-RPC, the on-chain order book (MersennetOrders pr… |
+| 2026-09-26 09:35:21 | [Thuy-toanhoc-vqh](https://pypi.org/project/Thuy-toanhoc-vqh/) | 0.1.0 | Hoang Thuy | 3.3 kB | Thư viện toán học cơ bản |
+| 2026-09-26 09:37:53 | [highhxpack](https://pypi.org/project/highhxpack/) | 0.1.0 | HighHXPack contributors | 285.5 kB | Local-first memory and context engine for AI applications, agents, and develope… |
+| 2026-09-26 09:38:17 | [zenn-topic-suggester](https://pypi.org/project/zenn-topic-suggester/) | 0.1.0 | northward | 2.7 MB | Zennの記事に設定する最適なトピックを自動で検索するCLIツール |
+| 2026-09-26 09:42:17 | [datapush-sdk](https://pypi.org/project/datapush-sdk/) | 0.1.1 | datapush <support@datapush.vi… | 123.0 kB | datapush A 股行情 SDK：实时推送 + 历史 K 线 + 复权因子 + 本地按需缓存（CLI 与 Python 两种用法） |
+| 2026-09-26 09:45:00 | [fromargs](https://pypi.org/project/fromargs/) | 0.1.0 | Paul Sorensen <paulnsorensen@… | 52.1 kB | Self-healing Cyclopts CLI helpers for agent-friendly command lines. |
+| 2026-09-26 09:47:33 | [verdog-cli](https://pypi.org/project/verdog-cli/) | 0.1.0 |  | 164.0 kB | The Verdog command-line client. |
+| 2026-09-26 09:47:58 | [causari](https://pypi.org/project/causari/) | 0.3.0 | Crovia Trust <info@croviatrus… | 22.3 kB | AI-written code has no author. It has causes. Causari measures how many lines f… |
+| 2026-09-26 09:48:23 | [tazuna](https://pypi.org/project/tazuna/) | 0.3.0 | tazuna contributors | 156.9 kB | Define project policy once, render it into every agent harness, route work acro… |
+| 2026-09-26 09:52:37 | [relaya](https://pypi.org/project/relaya/) | 0.1.0 |  | 26.2 kB | Verify webhooks forwarded by Relaya and call the Relaya API. |
+| 2026-09-26 09:53:01 | [tppis](https://pypi.org/project/tppis/) | 0.1.0 | Mohammed Aswath M <mohammed.a… | 57.3 kB | Truncated Preconditioned Profiled Independence Screening for high-dimensional d… |
+| 2026-09-26 09:54:27 | [cafe-ahhyeon-2026-2](https://pypi.org/project/cafe-ahhyeon-2026-2/) | 0.1.0 | Ahyeon | 4.1 kB | Cafe package example |
+| 2026-09-26 09:55:04 | [zxtd](https://pypi.org/project/zxtd/) | 0.1.1 | Quadrium | 374.3 kB | High-performance Zstandard compression/decompression with dictionary support -… |
+| 2026-09-26 09:56:59 | [cdpbrowser](https://pypi.org/project/cdpbrowser/) | 0.1.1 |  | 229.1 kB | Framework-independent pure-CDP browser automation core for Python, with an opti… |
+| 2026-09-26 09:59:02 | [since-cutoff](https://pypi.org/project/since-cutoff/) | 0.1.0 | Mohammad Hijjawi <mohammad.hi… | 186.3 kB | Find which of your exact dependency versions your coding agent writes wrong, an… |
+| 2026-09-26 10:04:01 | [heygen](https://pypi.org/project/heygen/) | 0.0.0 | Ali Tavallaie | 2.1 kB | Add your description here |
+| 2026-09-26 10:06:45 | [lshlhom](https://pypi.org/project/lshlhom/) | 1.0.0 | shlhom | 27.0 kB | Protect Python files with 6-layer encryption |
+| 2026-09-26 10:09:00 | [fibonacci-kata](https://pypi.org/project/fibonacci-kata/) | 0.1.0 | Rina Ralijaona <rinaralijaona… | 50.5 kB | A TDD kata: Fibonacci, from notebook exploration to a tested, published package |
+| 2026-09-26 10:12:53 | [pgfsm-async-worker-sdk](https://pypi.org/project/pgfsm-async-worker-sdk/) | 0.1.0 | Niraj Kashyap | 25.4 kB | Python worker SDK for the pgfsm Activity Gateway: registers actors and serves i… |
+| 2026-09-26 10:18:18 | [gtx-broker](https://pypi.org/project/gtx-broker/) | 0.1.0 |  | 124.2 kB | Deterministic task scoping, routing, and escalation controller |
+| 2026-09-26 10:18:44 | [music-dsl](https://pypi.org/project/music-dsl/) | 2.1.0 | Enginestein <117010357+engine… | 184.5 kB | A text-based music programming language: write songs in plain text and play or… |

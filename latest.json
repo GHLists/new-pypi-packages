@@ -1,43 +1,37 @@
 {
   "list": {
-    "count": 42,
-    "from": "2026-09-26T08:19:15.7551Z",
-    "path": "data/new-packages-2026-09-26T09-19-37-656075Z.csv",
-    "to": "2026-09-26T09:19:37.656075Z"
+    "count": 32,
+    "from": "2026-09-26T09:19:37.656075Z",
+    "path": "data/new-packages-2026-09-26T10-19-39-302602Z.csv",
+    "to": "2026-09-26T10:19:39.302602Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-26T05:37:09Z",
-      "package": "Dryv",
-      "since": "2026-09-26T05:20:14.24058Z"
+      "attempts": 1,
+      "created_at": "2026-09-26T09:59:08Z",
+      "package": "4top",
+      "since": "2026-09-26T09:19:37.656075Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-09-26T09:18:43Z",
-      "package": "probity-evals",
-      "since": "2026-09-26T08:19:15.7551Z"
+      "created_at": "2026-09-26T09:50:10Z",
+      "package": "adaptive-card-tools",
+      "since": "2026-09-26T09:19:37.656075Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-09-26T09:51:11Z",
+      "package": "dcc-mcp-marvelous-designer",
+      "since": "2026-09-26T09:19:37.656075Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-09-26T07:58:46Z",
       "package": "read-token-saver-for-AI",
       "since": "2026-09-26T07:18:53.201262Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-26T06:07:03Z",
-      "package": "recflarelogin",
-      "since": "2026-09-26T05:20:14.24058Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-26T06:07:04Z",
-      "package": "recflarepy",
-      "since": "2026-09-26T05:20:14.24058Z"
     }
   ],
-  "serial": 41482037,
+  "serial": 41483358,
   "source_truncated": false,
-  "window": "2026-09-26T09:19:37.656075Z"
+  "window": "2026-09-26T10:19:39.302602Z"
 }

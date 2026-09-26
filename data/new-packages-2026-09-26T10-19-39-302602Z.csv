@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T09:18:43Z,probity-evals,0.0.1,,MIT,2144,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
+2026-09-26T09:21:27Z,sqlakit-lsp,0.1.2,Anton Ruhlov,MIT,55967,The language server for SQLAKit templates.
+2026-09-26T09:23:11Z,infradrift,1.1.0,Serber1990 <serber1990@pm.me>,MIT,41667,"Detect drift between a known-good baseline and the current state of a Linux server — packages, ports, users, groups, crons and services."
+2026-09-26T09:23:23Z,machinome-mechanics,0.1.0,Luis Henrique Cassis Fagundes <lhfagundes@gmail.com>,Apache-2.0,211480,Mechanical formula helpers for machinome projects
+2026-09-26T09:23:24Z,hurdle-gate,0.3.1,,Apache-2.0,44581,Static-analysis gate for source↔test file existence mapping
+2026-09-26T09:25:16Z,envlock-cli,1.1.0,Serber1990 <serber1990@pm.me>,MIT,35729,"Freeze and compare Python, Node, and system environments — detect dependency drift before it breaks your builds."
+2026-09-26T09:26:06Z,pg-schema-diff,0.2.0,Asad Shah <asadshah7950@gmail.com>,MIT,30984,CLI tool to detect schema drift between PostgreSQL databases and generate safe migration SQL
+2026-09-26T09:26:43Z,cyberwave-geometry,0.2.0,,Apache-2.0,2668129,"Python binding for the Cyberwave shared geometry core (quaternions, transforms, forward kinematics)"
+2026-09-26T09:30:03Z,django-amatopay,0.1.0,AmatoPay,MIT,33609,"Django app that plugs the AmatoPay payment gateway into your project: local models, admin UI, webhook receiver and Django signals, built on the amatopay client library"
+2026-09-26T09:31:24Z,csvguard,0.1.0,Sumit,,19912,"The Fast, Terminal-First Data Quality & Cleaning CLI"
+2026-09-26T09:33:51Z,cinebox,0.1.0,Hossam Gamal,MIT,106065,"Terminal tool to search, stream, and download movies & TV shows"
+2026-09-26T09:35:12Z,mersennet-sdk,0.1.1,Mersennet Foundation <dev@mersennet.com>,MIT,50585,"Python SDK for Mersennet: JSON-RPC, the on-chain order book (MersennetOrders precompile), shielded notes and viewing keys"
+2026-09-26T09:35:21Z,Thuy-toanhoc-vqh,0.1.0,Hoang Thuy,,3330,Thư viện toán học cơ bản
+2026-09-26T09:37:53Z,highhxpack,0.1.0,HighHXPack contributors,MIT,285463,"Local-first memory and context engine for AI applications, agents, and developer tools."
+2026-09-26T09:38:17Z,zenn-topic-suggester,0.1.0,northward,"MIT License Copyright (c) 2026 Northward Permission is hereby granted, free of charge, to any perso…",2703373,Zennの記事に設定する最適なトピックを自動で検索するCLIツール
+2026-09-26T09:42:17Z,datapush-sdk,0.1.1,datapush <support@datapush.vip>,MIT,122999,datapush A 股行情 SDK：实时推送 + 历史 K 线 + 复权因子 + 本地按需缓存（CLI 与 Python 两种用法）
+2026-09-26T09:45:00Z,fromargs,0.1.0,Paul Sorensen <paulnsorensen@gmail.com>,MIT,52078,Self-healing Cyclopts CLI helpers for agent-friendly command lines.
+2026-09-26T09:47:33Z,verdog-cli,0.1.0,,AGPL-3.0-only,164032,The Verdog command-line client.
+2026-09-26T09:47:58Z,causari,0.3.0,Crovia Trust <info@croviatrust.com>,Apache-2.0,22323,"AI-written code has no author. It has causes. Causari measures how many lines from AI-tagged commits are still alive in any git repo and records the prompt, model and files behind every agent edit."
+2026-09-26T09:48:23Z,tazuna,0.3.0,tazuna contributors,MIT,156857,"Define project policy once, render it into every agent harness, route work across providers, and get auditable results."
+2026-09-26T09:52:37Z,relaya,0.1.0,,MIT,26227,Verify webhooks forwarded by Relaya and call the Relaya API.
+2026-09-26T09:53:01Z,tppis,0.1.0,Mohammed Aswath M <mohammed.aswath07@gmail.com>,"MIT License Copyright (c) 2026 Mohammed Aswath M Permission is hereby granted, free of charge, to a…",57299,Truncated Preconditioned Profiled Independence Screening for high-dimensional data with multicollinearity.
+2026-09-26T09:54:27Z,cafe-ahhyeon-2026-2,0.1.0,Ahyeon,MIT,4124,Cafe package example
+2026-09-26T09:55:04Z,zxtd,0.1.1,Quadrium,MIT,374333,High-performance Zstandard compression/decompression with dictionary support - zxtd
+2026-09-26T09:56:59Z,cdpbrowser,0.1.1,,Apache-2.0,229068,"Framework-independent pure-CDP browser automation core for Python, with an optional Robot Framework adapter"
+2026-09-26T09:59:02Z,since-cutoff,0.1.0,Mohammad Hijjawi <mohammad.hijjawi1997@gmail.com>,MIT,186274,"Find which of your exact dependency versions your coding agent writes wrong, and fix it with a small, verified AGENTS.md note."
+2026-09-26T10:04:01Z,heygen,0.0.0,Ali Tavallaie,,2097,Add your description here
+2026-09-26T10:06:45Z,lshlhom,1.0.0,shlhom,,27044,Protect Python files with 6-layer encryption
+2026-09-26T10:09:00Z,fibonacci-kata,0.1.0,Rina Ralijaona <rinaralijaona4@gmail.com>,MIT,50464,"A TDD kata: Fibonacci, from notebook exploration to a tested, published package"
+2026-09-26T10:12:53Z,pgfsm-async-worker-sdk,0.1.0,Niraj Kashyap,Apache-2.0,25373,Python worker SDK for the pgfsm Activity Gateway: registers actors and serves invocations over the sidecar gRPC stream.
+2026-09-26T10:18:18Z,gtx-broker,0.1.0,,,124168,"Deterministic task scoping, routing, and escalation controller"
+2026-09-26T10:18:44Z,music-dsl,2.1.0,Enginestein <117010357+enginestein@users.noreply.github.com>,MIT,184542,A text-based music programming language: write songs in plain text and play or export them.
