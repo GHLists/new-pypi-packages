@@ -1,0 +1,65 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T16:19:41Z,labmcp-palmsens,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,55338,"MCP server for PalmSens potentiostats running MethodSCRIPT (EmStat Pico, EmStat4, Sensit, Nexus): CV, LSV, DPV, chronoamperometry, raw scripts."
+2026-09-26T16:20:49Z,labmcp-sartorius,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,32370,"MCP server for Sartorius laboratory balances (SBI protocol): weigh, tare, zero, log drift, internal adjustment."
+2026-09-26T16:21:04Z,sendora,0.2.0,,MIT,72216,The Python client for Sendora's email API.
+2026-09-26T16:21:47Z,sknm,0.1.1,Henrik Finsberg <henriknf@simula.no>,MIT,569633,The Simplified Kirchhoff Network Model for cell-based cardiac and islet electrophysiology
+2026-09-26T16:22:11Z,labmcp-alicat,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,52154,"MCP server for Alicat mass flow and pressure meters/controllers: read flow, set setpoints, select gas, tare, hold/close valves."
+2026-09-26T16:23:08Z,labmcp-bench-psu,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,47474,"MCP server for programmable DC bench power supplies (Rigol DP700/DP800/DP900, Siglent SPD3303X/SPD1000X, Aim-TTi CPX/MX/QL/PL-P): set, measure, switch outputs, OVP/OCP."
+2026-09-26T16:24:02Z,labmcp-labjack,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,57750,"MCP server for LabJack T4, T7/T7-Pro and T8 DAQ devices (LJM): analog inputs, streaming, thermocouples, DACs and digital I/O with safety limits."
+2026-09-26T16:24:58Z,labmcp-ni-daqmx,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,46663,"MCP server for National Instruments DAQ devices (NI-DAQmx): analog/thermocouple acquisition, digital I/O and analog outputs with safety limits."
+2026-09-26T16:26:01Z,labmcp-rigol-scope,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,51237,"MCP server for Rigol digital oscilloscopes (DS1000Z/MSO1000Z, DS1000Z-E, MSO5000, DHO800/900/1000/4000): settings, triggering, measurements, waveform capture and screenshots over SCPI."
+2026-09-26T16:27:29Z,dbt-polars-catalog-s3,0.2.0,Jonas Crevecoeur <jonas.crevecoeur@dataminded.com>,Apache-2.0,11754,AWS S3 catalog for dbt-polars
+2026-09-26T16:27:33Z,labmcp-astm-lis,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,58937,"MCP server that receives results from clinical/lab analyzers over ASTM E1381/E1394 (CLSI LIS1/LIS2): serial, TCP client or TCP listener."
+2026-09-26T16:27:54Z,dbt-polars-catalog-local,0.2.0,Jonas Crevecoeur <jonas.crevecoeur@dataminded.com>,Apache-2.0,9832,Local filesystem catalog for dbt-polars
+2026-09-26T16:27:56Z,senbonzakura-check,0.4.0,Daniel Iwugo <ops@themalwarefiles.com>,AGPL-3.0-or-later,163779,Read an evaluation result file and report how the number could be wrong.
+2026-09-26T16:28:54Z,labmcp-ble-health,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,65704,"MCP server for Bluetooth LE health sensors (standard GATT profiles): heart rate + HRV, SpO2, blood pressure, temperature, weight."
+2026-09-26T16:30:55Z,labmcp-brainflow,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,58645,"MCP server for EEG/EMG/ECG/PPG biosensing boards via BrainFlow (OpenBCI, Muse, Neurosity, g.tec Unicorn, BrainBit, ...): stream, record, band powers, markers, signal quality."
+2026-09-26T16:31:44Z,cartomize,0.8.1a1,ONDON NKOUA Cédrick Belmich,GPL-3.0-only,669969,"Cartographic layouts, raster analysis and automated geospatial workflows"
+2026-09-26T16:32:01Z,labmcp-keithley-smu,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,52157,"MCP server for Keithley SourceMeter SMUs (2400 series SCPI, 2450 family SCPI, 2600B TSP): source V or I with compliance, measure, bounded IV sweeps that always end with the output off."
+2026-09-26T16:34:01Z,okapi-ctl,0.0.2,Okapi contributors,Apache-2.0,82710,The Okapi installation and demo command-line controller
+2026-09-26T16:34:15Z,labmcp-lakeshore,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,39433,"MCP server for Lake Shore Cryotronics 335/336/350 temperature controllers: read sensors, setpoints, ramps, heater ranges, PID, wait for stability, all heaters off."
+2026-09-26T16:34:23Z,repodb,0.1.0,Shakeeb Alireza,MIT,25976,"Keep a SQLite database of git project clone URLs, and clone from it"
+2026-09-26T16:35:02Z,skillmeld,0.4.0,Hossein Zargar,Apache-2.0,253795,"Discover existing community skills and merge the best into one tailored, security-scanned skill set."
+2026-09-26T16:35:20Z,labmcp-pfeiffer-tpg,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,35125,"MCP server for Pfeiffer Vacuum TPG 361/362/366 and TPG 261/262 gauge controllers: read and log pressures, gauge types, units, ionisation-gauge power."
+2026-09-26T16:36:10Z,mmas,2.5.6,,,28575,
+2026-09-26T16:36:18Z,labmcp-srs-lockin,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,47565,"MCP server for Stanford Research Systems lock-in amplifiers (SR810/SR830, SR860/SR865A): read X/Y/R/θ, set reference, sensitivity and time constant, frequency sweeps."
+2026-09-26T16:36:45Z,daysofcover,0.0.1,Nathan Taylor,MIT,63731,"Supply chain stress test: how long can you keep shipping if a supplier, port or route goes down, and what is the cheapest fix."
+2026-09-26T16:37:20Z,labmcp-thorlabs-pm,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,35862,"MCP server for Thorlabs optical power meters (PM100D/PM100A/PM100USB/PM400/PM101/PM5020, SCPI over USBTMC/VISA): read power, log stability, set wavelength, averaging, range, zero."
+2026-09-26T16:38:13Z,lib-nn-python3,0.0.1,RDLEND <rdlendalt@gmail.com>,,9099,Neural Network Basics
+2026-09-26T16:38:46Z,labmcp-epics,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,46012,"MCP server for EPICS Channel Access (accelerators, synchrotrons, neutron sources, telescopes, physics labs): read, monitor and (guarded) write process variables via caproto."
+2026-09-26T16:39:44Z,labmcp-modbus,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,60600,"MCP server for Modbus TCP and Modbus RTU devices (temperature controllers, chillers, PLCs, sensors, VFDs) with typed, scaled register maps, per-point limits and a safe state."
+2026-09-26T16:41:00Z,labmcp-scpi,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,61514,"Generic MCP server for any IEEE 488.2 / SCPI instrument (DMMs, scopes, SMUs, PSUs, generators, analyzers) over VISA, TCP socket or serial, with command allow/deny lists."
+2026-09-26T16:41:16Z,blinkered,0.0.1,Louis Antonini,MIT,30132,Work on one node of a repository while the working tree shows only its dependency closure.
+2026-09-26T16:42:08Z,nctab,0.1.0,0ndrec,MIT,189707,Terminal NC/G-code editor and toolkit
+2026-09-26T16:43:19Z,keepout,0.2.0,Sahasra Ranjan,MIT,32971,"File rules for AI agents, enforced by the OS kernel (no-read, read-only, append-only). macOS + Linux."
+2026-09-26T16:44:08Z,labmcp-sila2,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,72386,"MCP bridge to any SiLA 2 server (lab-automation standard): discover servers, read features from their FDL, read/subscribe properties, run validated commands, track and cancel observable commands."
+2026-09-26T16:45:47Z,kaliumlabs,0.1.0,Hiro Dev,MIT,5110,Unofficial compatibility import alias for the Kalium Python client.
+2026-09-26T16:46:04Z,telegram-bot-calendar,2.1.0,,MIT,44637,Inline calendar and date-range keyboards for Telegram bots.
+2026-09-26T16:46:38Z,quilt-brewer,0.1.0,SuperInstance,MIT,9568,Recipe-driven walker factory — grow substrate walkers from JSON recipes.
+2026-09-26T16:46:40Z,quilt-bootstrap,0.2.0,SuperInstance,MIT,6832,Clone and bootstrap the entire 13-repo Quilt fleet from a single command.
+2026-09-26T16:48:52Z,treaty,0.0.1,,MIT,181444,"Zero-dependency Python CLI framework implementing the CLI Agent Spec: manifests, envelopes, typed exit codes"
+2026-09-26T16:50:39Z,teamusers-sdk,0.1.0,,AGPL-3.0-only,51604,"Python SDK for teamusers: token verification, permission caching, ABAC, and middleware"
+2026-09-26T16:50:57Z,kaliumlab,0.1.0,Hiro Dev,MIT,5110,Unofficial compatibility import alias for the Kalium Python client.
+2026-09-26T16:51:06Z,das-student-lab,0.1.0,David Lee <davidtimberwolvesfan@gmail.com>,MIT,42820,Starter scaffold for beginner-facing Distributed Acoustic Sensing education
+2026-09-26T16:51:25Z,etchv-sdk,1.0.0,Etchv Labs <hello@etchv.com>,MIT,28577,"Official Python client for the Etchv forensic watermarking API for images, PDFs and videos"
+2026-09-26T16:51:54Z,pdfschema,0.1.1,Kush Rawal <kushrawal00@gmail.com>,"MIT License Copyright (c) 2026 Kush Rawal Permission is hereby granted, free of charge, to any pers…",101770,Extract named columns from PDF tables as structured rows — built for feeding LLMs data instead of whole documents.
+2026-09-26T16:52:29Z,potd-trader,0.3.1,0xinsider,MIT,54340,Buy the 0xinsider Pick of the Day on your own Polymarket account. Your keys stay on your machine.
+2026-09-26T16:53:49Z,voxmarkers,0.1.0,Marek Svidersky,MIT,49092,Interpretable acoustic biomarkers of speech for neurodegenerative-disease research
+2026-09-26T16:54:09Z,acophen-fusion,0.1.0,Marek Svidersky,MIT,40355,Late/early fusion scorer for acoustic phenotyping streams (research use)
+2026-09-26T16:54:32Z,acophen-streams,0.1.0,Marek Svidersky,MIT,35571,"Deep acoustic feature streams (SSL embeddings, vision, emotion) for acoustic phenotyping"
+2026-09-26T16:55:49Z,neural-network-digits,1.2.0,Luigi Tanzillo,MIT,307776,"A neural network written from scratch in NumPy that learns handwritten digits (MNIST), with an educational interface to watch it learn and look inside it"
+2026-09-26T16:57:40Z,acophenotype,0.1.0,Marek Svidersky,MIT,69007,End-to-end acoustic phenotyping: denoise -> streams -> fuse -> profile & HTML report
+2026-09-26T16:58:22Z,sopuli-dba,0.0.1,Ville Rönkkö <320240774+villebase@users.noreply.github.com>,Apache-2.0,10761,Placeholder: a CLI for DBAs that manages database account credentials with a vault as the master record
+2026-09-26T16:58:24Z,recurrent-transformer-pytorch,0.0.1,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",10070,Recurrent Transformer
+2026-09-26T16:59:18Z,sopuli,0.0.1,Ville Rönkkö <320240774+villebase@users.noreply.github.com>,Apache-2.0,10235,Placeholder: the sopuli project is distributed as sopuli-dba
+2026-09-26T16:59:51Z,eai-supcore,0.5.0,Michel Gillet <michel.gillet@libesys.org>,MIT,18828,Shared steady-state bootstrap APIs for the eai-sup* CLI family
+2026-09-26T16:59:52Z,eai-supinit,0.5.0,Michel Gillet <michel.gillet@libesys.org>,MIT,28878,Greenfield multi-repo / superbuild init assistant
+2026-09-26T17:01:41Z,fracpta,0.1.1,Felipe Santibanez-Leal,MIT,170029,"GeoType catalogues of fractured-reservoir pressure transients: analytic ensembles, GeoDFN networks and descriptors, open-DARTS discrete-fracture simulation, the clustering ladder, conformal assignmen…"
+2026-09-26T17:09:13Z,ibx-nios-sdk,1.0.0,Infoblox,Apache-2.0,1206048,Async Python client for the Infoblox NIOS WAPI
+2026-09-26T17:10:13Z,invoq-acp,0.2.3,invoq.me,MIT,169731,Python SDK for invoq.me Agent Capability Protocol (ACP)
+2026-09-26T17:12:00Z,fintech-hub,0.1.0,Royal Fintech,,6528,Call your Royal Fintech Hub functions and classes from any Python.
+2026-09-26T17:13:20Z,scip-atlas,1.0.0,Ariel Flesler,MIT,133652,Git metadata and search overlay for scip-cli indexes
+2026-09-26T17:15:35Z,lesiontrack,0.1.0,Cedric Conday,MIT,71823,Longitudinal multiple sclerosis lesion evolution: lesion tracking and slowly expanding lesion (SEL) detection with a synthetic backtest gate.
+2026-09-26T17:15:38Z,motif-balance,0.6.0,Eric J. South,MIT,7672745,Design compact DNA that balances supplied motif sequence preferences
+2026-09-26T17:17:18Z,musubi-harness,1.0.0,Eric Mey <ericmey@gmail.com>,Apache-2.0,74090,"Host-neutral Musubi memory runtime — the shared core that Claude Code, Codex, LiveKit, Hermes, and OpenClaw seat adapters depend on."
+2026-09-26T17:19:00Z,dz-speedtest-cli,2.2.0,DownloaderZone,Apache-2.0,49954,Command line interface for testing internet bandwidth using speedtest.net
