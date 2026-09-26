@@ -1,25 +1,31 @@
 {
   "list": {
-    "count": 64,
-    "from": "2026-09-26T16:19:28.52999Z",
-    "path": "data/new-packages-2026-09-26T17-19-02-298074Z.csv",
-    "to": "2026-09-26T17:19:02.298074Z"
+    "count": 25,
+    "from": "2026-09-26T17:19:02.298074Z",
+    "path": "data/new-packages-2026-09-26T18-19-40-203051Z.csv",
+    "to": "2026-09-26T18:19:40.203051Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-26T15:06:47Z",
       "package": "cloudflare-access-client",
       "since": "2026-09-26T14:19:48.677991Z"
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-09-26T17:38:05Z",
+      "package": "memtrace-ai",
+      "since": "2026-09-26T17:19:02.298074Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-09-26T14:57:38Z",
       "package": "pythoncloudflared",
       "since": "2026-09-26T14:19:48.677991Z"
     }
   ],
-  "serial": 41492702,
+  "serial": 41493967,
   "source_truncated": false,
-  "window": "2026-09-26T17:19:02.298074Z"
+  "window": "2026-09-26T18:19:40.203051Z"
 }

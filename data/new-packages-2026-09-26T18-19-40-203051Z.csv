@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T17:20:12Z,ascii-synth,0.1.2,,,7303,A tiny terminal piano powered by pygame-ce.
+2026-09-26T17:20:39Z,q0-jobs,0.1.0,Aziz Berkay Yesilyurt <abyesilyurt@gmail.com>,,161993,Add your description here
+2026-09-26T17:22:02Z,dikgames,1.0.1,DikGames Official Network <admin@dikgames.online>,MIT,13706,Official Python SDK and CLI client for DikGames Online adult visual novels and game metadata.
+2026-09-26T17:24:12Z,magic-protocol,0.1.1,wxd123 <wxd123@users.noreply.github.com>,MIT,8947,Magic 系列项目的跨项目契约：类型与 Protocol
+2026-09-26T17:31:12Z,pythonizeyaml,0.4.0,PythonizeYAML contributors,,1530622,"A YAML library with a PyYAML-compatible API that preserves comments, indentation, and scalar styles across a load/dump round trip."
+2026-09-26T17:32:16Z,dtypeflow,1.0.0,Pedro José Mora Gallegos,MIT,55077,"Terminal UI to infer CSV column dtypes and convert CSV to Parquet, locally."
+2026-09-26T17:35:24Z,nimbus-exo,2.0.0,Sven Kiefer,,89623,Light weight microphysical cloud model for exoplanets
+2026-09-26T17:37:40Z,harsh-ids,0.1.0,wulu007 <dabaobeix@gmail.com>,MIT,10215999,"Python bindings for harsh, a Hashids implementation in Rust"
+2026-09-26T17:38:31Z,ghpy,0.2.99,callmetango,AGPL-3.0-only,50893,A lightweight GitHub release command-line tool
+2026-09-26T17:47:04Z,ibcli,1.0.1,Infoblox Inc.,GPL-3.0-or-later,476919,Python port of the Infoblox CLI (ibcli) using the ibx-nios-sdk
+2026-09-26T17:48:47Z,theme-park-2024313654,0.1.0,Jeon Eunsol <ensol9199@skku.edu>,MIT,3843,Eunsol theme park package for Everland and Lotte World
+2026-09-26T17:49:38Z,worklog-for-claude-code,0.1.0,Urvin,MIT,106905,"Daily work log and token report across Claude Code accounts and devices, synced through your own private git repo"
+2026-09-26T17:55:05Z,hyper-rig,0.53.0,Alex Mextner,MIT,2739771,"rig — the dev-environment umbrella driver: set up a repo from a committed rig.yaml by applying agent-tools content (skills, hooks, CI gates, MCP)."
+2026-09-26T17:55:36Z,hyper-task,0.20.0,Alex Mextner,MIT,1165267,"task — the enforced ticket interface: every request becomes a well-formed ticket (GitHub Issues / Linear), with quality enforced by the tool."
+2026-09-26T17:56:10Z,verify-atom-mcp,0.1.0,Asher AI Studios,MIT,12039,MCP server giving AI agents cryptographically signed proof of web observations (Ed25519-signed proof packets)
+2026-09-26T17:56:14Z,hyper-review,0.38.0,,,2834986,Multi-model read-only code review + AI panels.
+2026-09-26T17:56:35Z,hyper-harness,0.7.0,Alex Mextner,MIT,189299,"Real rate-limit proximity (percent used, reset, pace) for Claude Code, Codex, z.ai, x.ai, and kimi accounts on this machine."
+2026-09-26T18:00:54Z,agentdocsbench,0.1.0,Souhaieb Saidi,MIT,289245,Test whether coding agents can use product documentation to complete programming tasks.
+2026-09-26T18:01:38Z,ordal,0.11.0,,MIT,305691,Domain-agnostic adaptive experimentation framework: experiment → measure → learn → challenge.
+2026-09-26T18:01:48Z,pcrsaits,1.0.0,Sawet Somnugpong,MIT,42892,PCR-SAITS lightweight residual correction for SAITS and BRITS imputation
+2026-09-26T18:07:25Z,virgofash,0.2.0,,MIT,25580,Local-first deterministic asynchronous search and answer engine
+2026-09-26T18:10:30Z,indextool,0.1.0,Marc Cats,"MIT License Copyright (c) 2026 Marc Cats Permission is hereby granted, free of charge, to any perso…",123392,"Derive a deterministic architecture map from a Python repository, commit it, and fail CI when it is stale."
+2026-09-26T18:11:19Z,encrypt87,1.0.0,Bogpolt <bogpolt@gmail.com>,"MIT License Copyright (c) 2026 Your Name Permission is hereby granted, free of charge, to any perso…",11014,Base64-подобная кодировка encrypt87 (swap D <-> u)
+2026-09-26T18:12:48Z,spoofy,1.1.0,Matt Keeley,CC-BY-NC-4.0,44719,"Checks whether domains can be spoofed, using manually tested SPF and DMARC results"
+2026-09-26T18:13:44Z,dbt-polars-catalog-databricks,0.3.0,Jonas Crevecoeur <jonas.crevecoeur@dataminded.com>,Apache-2.0,25522,Databricks Unity Catalog catalog for dbt-polars
