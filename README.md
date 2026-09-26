@@ -8,39 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 22:18 UTC
+## Latest list — 2026-09-26 23:19 UTC
 
-New packages created between 2026-09-26 21:19 UTC and 2026-09-26 22:18 UTC.
+New packages created between 2026-09-26 22:18 UTC and 2026-09-26 23:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T22-18-57-752835Z.csv)
+[Full CSV](data/new-packages-2026-09-26T23-19-11-867258Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 21:19:51 | [bslfmt](https://pypi.org/project/bslfmt/) | 0.20.1 | AzeevAN | 85.9 kB | Детерминированный форматтер кода 1С (BSL): отступы и пробелы по стандартам 1С |
-| 2026-09-26 21:23:00 | [puffdeploy](https://pypi.org/project/puffdeploy/) | 0.2.0 | Pedro Águas Marques | 1.1 MB | Deploy open-source LLMs to production in one command. Open-source engine that p… |
-| 2026-09-26 21:24:53 | [abstract-extract](https://pypi.org/project/abstract-extract/) | 0.1.0 | Diogo Ribeiro | 14.0 kB | Typed Python utilities for retrieving and normalizing scholarly abstracts from… |
-| 2026-09-26 21:27:22 | [cage-assurance](https://pypi.org/project/cage-assurance/) | 0.7.1 | Roopam Sure | 147.1 kB | Assurance SDK for consequential actions by AI agents and automated systems |
-| 2026-09-26 21:30:18 | [onetrace-verify](https://pypi.org/project/onetrace-verify/) | 0.1.0 | Shamik Saha <shamik.saha.rcci… | 18.0 kB | Reference verifier for stage-receipt records -- standard library only, no depen… |
-| 2026-09-26 21:30:36 | [onetrace](https://pypi.org/project/onetrace/) | 0.1.0 | Shamik Saha <shamik.saha.rcci… | 4.9 MB | onetrace SDK: stage-receipt records and the verbs diff, localize, reproduce |
-| 2026-09-26 21:33:00 | [aifordable-runner-mcp](https://pypi.org/project/aifordable-runner-mcp/) | 0.1.1 | Blacksp1d3r | 290.2 kB | Security-first self-hosted MCP for controlled AI development and staging operat… |
-| 2026-09-26 21:41:57 | [nhi-scan](https://pypi.org/project/nhi-scan/) | 0.3.1 | Raj Penchala | 59.3 kB | Inventory and risk-tier non-human & agent identities against the OWASP NHI Top… |
-| 2026-09-26 21:43:29 | [nldisco](https://pypi.org/project/nldisco/) | 1.0.0 | Jai Bhagat <jkbhagatio@gmail.… | 595.2 kB | Neural latent discovery with sparse encoder-decoder models |
-| 2026-09-26 21:44:57 | [fermix](https://pypi.org/project/fermix/) | 0.1.0 | Ao Chen <aochen@caltech.edu> | 125.0 kB | Fast batched real and complex determinants and Pfaffians on GPU with JAX/Pallas… |
-| 2026-09-26 21:48:45 | [pycodecad](https://pypi.org/project/pycodecad/) | 1.0.0 |  | 1.0 MB | Code-CAD with build123d: a desktop window that shows and exports what your Pyth… |
-| 2026-09-26 21:52:28 | [moiryx-code](https://pypi.org/project/moiryx-code/) | 0.1.0a1 | Moiryx contributors | 57.5 kB | Interactive session host for applications built with Moiryx. |
-| 2026-09-26 21:53:44 | [lasto](https://pypi.org/project/lasto/) | 0.0.1 | Chris Johnson | 30.1 kB | Passive, read-only CAN bus logger for Toyota and Lexus trucks. |
-| 2026-09-26 21:54:04 | [experimently](https://pypi.org/project/experimently/) | 0.0.0 |  | 3.1 kB | Placeholder: this package is not released yet. Install from source until it is. |
-| 2026-09-26 21:54:05 | [experimently-openfeature](https://pypi.org/project/experimently-openfeature/) | 0.0.0 |  | 3.4 kB | Placeholder: this package is not released yet. Install from source until it is. |
-| 2026-09-26 21:56:27 | [hunch-engine-ollama](https://pypi.org/project/hunch-engine-ollama/) | 0.1.0 |  | 17.9 kB | A hunch engine plugin: local models served by Ollama, read through their token… |
-| 2026-09-26 22:02:23 | [safety-harness](https://pypi.org/project/safety-harness/) | 0.2.1 | Kaoru Naganuma <kaoru.naganum… | 67.4 kB | Default-deny precondition gate for physical AI actuators: permission, not detec… |
-| 2026-09-26 22:04:11 | [mopac-py](https://pypi.org/project/mopac-py/) | 0.1.1 | "zeph.sys" <zeph.systems@gmai… | 2.8 MB | Modern High-Performance Semi-Empirical Quantum Chemistry Engine in Rust (PyO3 B… |
-| 2026-09-26 22:05:19 | [easydc](https://pypi.org/project/easydc/) | 1.0.0 | DetektywSeba(DSC) | 12.8 kB | A simplified library for creating Discord bots. |
-| 2026-09-26 22:08:27 | [taskmq-py](https://pypi.org/project/taskmq-py/) | 0.1.0 | liuhuo | 340.3 kB | 零外部服务、投递语义可预测、配置显式的 Python 分布式任务队列 |
-| 2026-09-26 22:09:29 | [csa-google-gmail-calendar](https://pypi.org/project/csa-google-gmail-calendar/) | 0.1.0 | Cloud Security Alliance | 455.9 kB | Read, compose and send Gmail, and manage Google Calendar events |
-| 2026-09-26 22:10:51 | [flycns](https://pypi.org/project/flycns/) | 0.6.0 | Felipe Santibanez-Leal <fsant… | 437.4 kB | Compile fly connectome releases (MaleCNS v1.0) into simulation-ready graphs wit… |
-| 2026-09-26 22:13:10 | [labmcp-ms-data](https://pypi.org/project/labmcp-ms-data/) | 0.1.0 | K-Dense and LabMCP contributo… | 105.4 kB | MCP server for mass-spectrometry data files (mzML, mzMLb, Bruker timsTOF TDF; v… |
-| 2026-09-26 22:13:33 | [lighthouse-ble](https://pypi.org/project/lighthouse-ble/) | 0.1.0 | g4bri3lDev <admin@g4bri3l.de> | 85.3 kB | Async Bluetooth LE control of SteamVR Lighthouse base stations (Valve Index V2,… |
-| 2026-09-26 22:14:53 | [labmcp-ms-worklist](https://pypi.org/project/labmcp-ms-worklist/) | 0.1.0 | K-Dense and LabMCP contributo… | 80.5 kB | MCP server that builds, validates and exports LC-MS worklist import files for M… |
-| 2026-09-26 22:15:16 | [wagtail-mptt-comments](https://pypi.org/project/wagtail-mptt-comments/) | 0.1.0 | Vladimir Tarasov | 96.4 kB | Nested MPTT comments with spam protection and AJAX admin moderation for Wagtail… |
-| 2026-09-26 22:16:24 | [labmcp-srs-rga](https://pypi.org/project/labmcp-srs-rga/) | 0.1.0 | K-Dense and LabMCP contributo… | 78.0 kB | MCP server for SRS RGA100/200/300 residual gas analyzers: spectra, partial pres… |
-| 2026-09-26 22:17:45 | [labmcp-thermo-iapi](https://pypi.org/project/labmcp-thermo-iapi/) | 0.1.0 | K-Dense and LabMCP contributo… | 89.0 kB | MCP server adapter for Thermo Fisher Orbitrap mass spectrometers via the licens… |
+| 2026-09-26 22:12:51 | [lab-me-nas](https://pypi.org/project/lab-me-nas/) | 0.2.4 | Suebpong Pruttipattanapong <f… | 50.6 kB | Access a Synology NAS from Google Colab, Linux or Windows through a NetBird mes… |
+| 2026-09-26 22:20:46 | [django-query-sentinel](https://pypi.org/project/django-query-sentinel/) | 0.1.1 | QueryWatch contributors | 47.0 kB | Automated database-performance analysis for Django. |
+| 2026-09-26 22:22:05 | [lazarillo](https://pypi.org/project/lazarillo/) | 0.1.2 | Guillermo Vizcaíno Román <hi@… | 107.9 kB | A data harness that guides AI agents through your lakehouse: context, guardrail… |
+| 2026-09-26 22:26:21 | [scdns](https://pypi.org/project/scdns/) | 1.0.0 | Silent Cobra | 7.9 kB | Advanced DNS Lookup Tool |
+| 2026-09-26 22:32:09 | [edc-ds](https://pypi.org/project/edc-ds/) | 1.0.7 | DetektywSeba | 12.9 kB | A simplified library for creating Discord bots. (Polish Creation) |
+| 2026-09-26 22:38:30 | [flexreportfinance](https://pypi.org/project/flexreportfinance/) | 0.1.0 | Curt Beck <curt@flexreportfin… | 10.5 kB | A Python client for Flexreport Finance's REST API, dedicated to the streaming o… |
+| 2026-09-26 22:43:53 | [mcts-agent](https://pypi.org/project/mcts-agent/) | 0.1.0 | MCTS-Agent Contributors | 193.7 kB | Discriminative Monte Carlo Tree Search using TypeSafe Jev System One Primitives… |
+| 2026-09-26 22:44:50 | [logicroot](https://pypi.org/project/logicroot/) | 0.2.0 | LOGICROOT Contributors | 604.0 kB | LOGICROOT - a hardware-aware, capability-driven, local-first Linux Command Cent… |
+| 2026-09-26 22:46:10 | [pycrestron-cip](https://pypi.org/project/pycrestron-cip/) | 0.1.0 | Antonio112009 | 51.6 kB | asyncio client for the Crestron CIP (Crestron-over-IP) panel protocol |
+| 2026-09-26 22:46:31 | [ai-vibecheck](https://pypi.org/project/ai-vibecheck/) | 0.1.3 | Daniyar N | 199.9 kB | Audit how much of a GitHub repo was written by AI and check vibe-coding risk. |
+| 2026-09-26 22:50:16 | [jsonpit](https://pypi.org/project/jsonpit/) | 0.1.2 | Dr. Rainer Burkhardt | 74.6 kB | Daemon-free distributed storage over Cloud Drives for developers and AI agents… |
+| 2026-09-26 22:50:25 | [jpit](https://pypi.org/project/jpit/) | 0.1.2 | Dr. Rainer Burkhardt | 3.7 kB | CLI companion and alias for jsonpit — daemon-free distributed storage over Clou… |
+| 2026-09-26 22:53:06 | [long-tamp](https://pypi.org/project/long-tamp/) | 0.1.0 | Thanh Nguyen <dvtnguyen@laas.… | 535.0 kB | Long-TAMP - Manipulation Planning Framework |
+| 2026-09-26 22:59:14 | [simple-annealing](https://pypi.org/project/simple-annealing/) | 0.1.0 | k3 <buoren@vaguely.nl> | 40.5 kB | Simulated annealing that is safe to run inside a server: deterministic, deadlin… |
+| 2026-09-26 23:04:17 | [puragram](https://pypi.org/project/puragram/) | 1.0.0 | Maxim Zhovner <zovnercukmaksi… | 42.8 kB | Fast, dependency-light Telegram Bot API framework built on urllib3 |
+| 2026-09-26 23:06:52 | [occfg](https://pypi.org/project/occfg/) | 0.1.0 |  | 157.2 kB | Sync Lemonade Server models into opencode.json |
+| 2026-09-26 23:07:51 | [decis](https://pypi.org/project/decis/) | 0.0.0 |  | 2.5 kB | A8 Decis. Decisions made simple. (Name reservation placeholder.) |
+| 2026-09-26 23:08:28 | [atproto-oauth](https://pypi.org/project/atproto-oauth/) | 0.1.0 | zzstoatzz | 171.7 kB | OAuth 2.1 client for the AT Protocol: PAR, PKCE, DPoP, and scope parsing. |
+| 2026-09-26 23:09:31 | [repo-health-scanner](https://pypi.org/project/repo-health-scanner/) | 0.1.0 | Pranav Raj | 47.7 kB | Check Python repo health and open safe draft PRs for docstrings and patch deps |
+| 2026-09-26 23:10:22 | [magibumizan](https://pypi.org/project/magibumizan/) | 0.1.0 | Magibu AI Research Lab | 22.6 kB | Typed probabilistic decisions from open language models |
+| 2026-09-26 23:13:22 | [gaeb](https://pypi.org/project/gaeb/) | 0.5.2 | Attackwave | 87.4 kB | Python library for reading, writing, converting and diffing GAEB files (AVA dat… |
+| 2026-09-26 23:13:31 | [gaeb-cli](https://pypi.org/project/gaeb-cli/) | 0.5.2 | Attackwave | 13.9 kB | Command-line tool for reading, writing, converting and diffing GAEB files (AVA… |
+| 2026-09-26 23:13:35 | [donutautosellsrc](https://pypi.org/project/donutautosellsrc/) | 0.3.7 | donut autosell team | 4.4 kB | Automated source-distribution and build utilities for donut payload packaging |
+| 2026-09-26 23:17:19 | [biopb-image-base](https://pypi.org/project/biopb-image-base/) | 0.11.0rc4 | Ji Yu <jyu@uchc.edu> | 33.6 kB | Serve functions over the biopb.image Ops protocol |
+| 2026-09-26 23:17:43 | [hallpass](https://pypi.org/project/hallpass/) | 0.6.0 |  | 1.2 MB | Permission checks for AI agents and bots, answered live by the system they act… |

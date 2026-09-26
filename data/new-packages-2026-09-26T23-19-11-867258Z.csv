@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T22:12:51Z,lab-me-nas,0.2.4,Suebpong Pruttipattanapong <feyhong44@gmail.com>,MIT,50591,"Access a Synology NAS from Google Colab, Linux or Windows through a NetBird mesh network."
+2026-09-26T22:20:46Z,django-query-sentinel,0.1.1,QueryWatch contributors,MIT,46984,Automated database-performance analysis for Django.
+2026-09-26T22:22:05Z,lazarillo,0.1.2,Guillermo Vizcaíno Román <hi@guille.me>,MIT,107945,"A data harness that guides AI agents through your lakehouse: context, guardrails and verification."
+2026-09-26T22:26:21Z,scdns,1.0.0,Silent Cobra,,7858,Advanced DNS Lookup Tool
+2026-09-26T22:32:09Z,edc-ds,1.0.7,DetektywSeba,,12858,A simplified library for creating Discord bots. (Polish Creation)
+2026-09-26T22:38:30Z,flexreportfinance,0.1.0,Curt Beck <curt@flexreportfinapi.com>,MIT,10524,"A Python client for Flexreport Finance's REST API, dedicated to the streaming of real-time stock updates and full-research reports."
+2026-09-26T22:43:53Z,mcts-agent,0.1.0,MCTS-Agent Contributors,MIT,193668,Discriminative Monte Carlo Tree Search using TypeSafe Jev System One Primitives and Gemini
+2026-09-26T22:44:50Z,logicroot,0.2.0,LOGICROOT Contributors,"MIT License Copyright (c) 2026 Madhav Manchanda Permission is hereby granted, free of charge, to an…",603993,"LOGICROOT - a hardware-aware, capability-driven, local-first Linux Command Center"
+2026-09-26T22:46:10Z,pycrestron-cip,0.1.0,Antonio112009,MIT,51634,asyncio client for the Crestron CIP (Crestron-over-IP) panel protocol
+2026-09-26T22:46:31Z,ai-vibecheck,0.1.3,Daniyar N,MIT,199882,Audit how much of a GitHub repo was written by AI and check vibe-coding risk.
+2026-09-26T22:50:16Z,jsonpit,0.1.2,Dr. Rainer Burkhardt,Apache-2.0,74558,"Daemon-free distributed storage over Cloud Drives for developers and AI agents — multi-process, immutable history, zero dependencies."
+2026-09-26T22:50:25Z,jpit,0.1.2,Dr. Rainer Burkhardt,Apache-2.0,3713,CLI companion and alias for jsonpit — daemon-free distributed storage over Cloud Drives.
+2026-09-26T22:53:06Z,long-tamp,0.1.0,Thanh Nguyen <dvtnguyen@laas.fr>,MIT,534998,Long-TAMP - Manipulation Planning Framework
+2026-09-26T22:59:14Z,simple-annealing,0.1.0,k3 <buoren@vaguely.nl>,"MIT License Copyright (c) 2026 k3 Permission is hereby granted, free of charge, to any person obtai…",40527,"Simulated annealing that is safe to run inside a server: deterministic, deadline-bounded, thread-safe, silent."
+2026-09-26T23:04:17Z,puragram,1.0.0,Maxim Zhovner <zovnercukmaksim197@gmail.com>,MIT,42829,"Fast, dependency-light Telegram Bot API framework built on urllib3"
+2026-09-26T23:06:52Z,occfg,0.1.0,,,157232,Sync Lemonade Server models into opencode.json
+2026-09-26T23:07:51Z,decis,0.0.0,,,2458,A8 Decis. Decisions made simple. (Name reservation placeholder.)
+2026-09-26T23:08:28Z,atproto-oauth,0.1.0,zzstoatzz,MIT,171694,"OAuth 2.1 client for the AT Protocol: PAR, PKCE, DPoP, and scope parsing."
+2026-09-26T23:09:31Z,repo-health-scanner,0.1.0,Pranav Raj,MIT,47675,Check Python repo health and open safe draft PRs for docstrings and patch deps
+2026-09-26T23:10:22Z,magibumizan,0.1.0,Magibu AI Research Lab,MIT,22626,Typed probabilistic decisions from open language models
+2026-09-26T23:13:22Z,gaeb,0.5.2,Attackwave,MIT,87429,"Python library for reading, writing, converting and diffing GAEB files (AVA data exchange format, DA XML 2.0–3.3, GAEB 90, GAEB 2000)"
+2026-09-26T23:13:31Z,gaeb-cli,0.5.2,Attackwave,MIT,13878,"Command-line tool for reading, writing, converting and diffing GAEB files (AVA data exchange format)"
+2026-09-26T23:13:35Z,donutautosellsrc,0.3.7,donut autosell team,MIT,4360,Automated source-distribution and build utilities for donut payload packaging
+2026-09-26T23:17:19Z,biopb-image-base,0.11.0rc4,Ji Yu <jyu@uchc.edu>,MIT,33604,Serve functions over the biopb.image Ops protocol
+2026-09-26T23:17:43Z,hallpass,0.6.0,,Apache-2.0,1213899,"Permission checks for AI agents and bots, answered live by the system they act in. In-process or as a server."

@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-09-26T21:19:50.142845Z",
-    "path": "data/new-packages-2026-09-26T22-18-57-752835Z.csv",
-    "to": "2026-09-26T22:18:57.752835Z"
+    "count": 25,
+    "from": "2026-09-26T22:18:57.752835Z",
+    "path": "data/new-packages-2026-09-26T23-19-11-867258Z.csv",
+    "to": "2026-09-26T23:19:11.867258Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-09-26T22:12:51Z",
-      "package": "lab_me_nas",
-      "since": "2026-09-26T21:19:50.142845Z"
+      "created_at": "2026-09-26T23:09:53Z",
+      "package": "aegis-gateway-pack-content",
+      "since": "2026-09-26T22:18:57.752835Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-26T22:42:15Z",
+      "package": "requests-cache-utils",
+      "since": "2026-09-26T22:18:57.752835Z"
     }
   ],
-  "serial": 41499530,
+  "serial": 41500815,
   "source_truncated": false,
-  "window": "2026-09-26T22:18:57.752835Z"
+  "window": "2026-09-26T23:19:11.867258Z"
 }
