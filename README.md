@@ -8,43 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 12:18 UTC
+## Latest list — 2026-09-26 13:19 UTC
 
-New packages created between 2026-09-26 11:18 UTC and 2026-09-26 12:18 UTC.
+New packages created between 2026-09-26 12:18 UTC and 2026-09-26 13:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T12-18-56-809515Z.csv)
+[Full CSV](data/new-packages-2026-09-26T13-19-15-448908Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 11:19:08 | [geektime-cli](https://pypi.org/project/geektime-cli/) | 1.1.0 |  | 73.1 kB | 极客时间课程下载器 CLI |
-| 2026-09-26 11:20:08 | [agentfox](https://pypi.org/project/agentfox/) | 0.3.1 |  | 20.8 MB | Agent-native, vendor-neutral governance, security and compliance control plane… |
-| 2026-09-26 11:21:07 | [vads-publisher-sdk](https://pypi.org/project/vads-publisher-sdk/) | 0.1.0 | Apdak Pty Ltd <support@vads.a… | 124.8 kB | VADS publisher SDK: attach disclosed, sponsored ad objects to MCP tool results… |
-| 2026-09-26 11:21:15 | [zygo-sdk](https://pypi.org/project/zygo-sdk/) | 0.1.3 | Zygo contributors | 89.2 kB | Python client for Zygo — warm, isolated sandboxes for function-shaped code |
-| 2026-09-26 11:21:45 | [AquaMind](https://pypi.org/project/AquaMind/) | 0.0.2 | iamqingyun <iamhuchenyu@163.c… | 4.5 kB | AquaMind - LLM application quantitative quality testing platform (PyPI placehol… |
-| 2026-09-26 11:32:16 | [dataleak-guard](https://pypi.org/project/dataleak-guard/) | 0.1.0 | Sumit <sumitkeshri.1237373@gm… | 30.1 kB | Automated Machine Learning Data Leakage & Train-Test Audit Toolkit |
-| 2026-09-26 11:34:35 | [picview](https://pypi.org/project/picview/) | 0.0.2 |  | 1.6 MB | A lightweight Windows image folder viewer |
-| 2026-09-26 11:36:52 | [solverforge-pretix](https://pypi.org/project/solverforge-pretix/) | 1.0.1 | SolverForge contributors | 109.7 kB | Native SolverForge seat planning for pretix |
-| 2026-09-26 11:39:29 | [mcp-write-gate](https://pypi.org/project/mcp-write-gate/) | 0.2.0 | goran-revops | 137.6 kB | Sits between an AI agent and its MCP servers. Reads pass, writes are checked ag… |
-| 2026-09-26 11:39:50 | [remembra-mcp](https://pypi.org/project/remembra-mcp/) | 0.16.0 | DolphyTech <admin@dolphytech.… | 5.1 kB | Remembra MCP server (stdio): session handoffs between coding agents. Installs r… |
-| 2026-09-26 11:41:56 | [tokentoken](https://pypi.org/project/tokentoken/) | 1.0.0 | Sumit Banik <thesumitbanik02@… | 52.1 kB | Compile human prompts into dense LLM machine language to save 70% on token cost… |
-| 2026-09-26 11:43:03 | [pynortecgo](https://pypi.org/project/pynortecgo/) | 0.1.0 |  | 36.9 kB | Unofficial async client for the Monta API used by the Nortec Go app |
-| 2026-09-26 11:44:15 | [buggly](https://pypi.org/project/buggly/) | 0.1.0 |  | 43.8 kB | Run your app with its errors sent to buggly, which opens an incident and a fix… |
-| 2026-09-26 11:44:51 | [smartroute-ai](https://pypi.org/project/smartroute-ai/) | 0.1.0 | Pushkar Prabhath and SmartRou… | 147.1 kB | Local-first, embeddable LLM prompt router with per-project adaptive learning. |
-| 2026-09-26 11:45:59 | [relayt](https://pypi.org/project/relayt/) | 0.3.0 | Relayt Studio | 69.4 kB | Connect a running app to its Relayt control plane: self-registration, heartbeat… |
-| 2026-09-26 11:46:01 | [geocond](https://pypi.org/project/geocond/) | 0.1.1 |  | 28.5 kB | Support-aware spatial conditioning, covariance estimation and sequential simula… |
-| 2026-09-26 11:46:09 | [money-tracker](https://pypi.org/project/money-tracker/) | 0.1.0 | robeth | 46.4 kB | A reliable command-line money tracker |
-| 2026-09-26 11:46:11 | [jev-style](https://pypi.org/project/jev-style/) | 0.2.0 | chaoliangUNSW | 440.5 kB | Small, calibrated decision models you run on your own machine, with a systemone… |
-| 2026-09-26 11:46:11 | [llm-safety-mcp](https://pypi.org/project/llm-safety-mcp/) | 0.1.0 |  | 45.3 kB | MCP server for LLM safety checks (prompt injection, PII detection, sanitization) |
-| 2026-09-26 11:50:53 | [blastfrag](https://pypi.org/project/blastfrag/) | 0.2.2 | Felipe Santibanez-Leal | 138.6 kB | Blast-fragmentation prediction from a bench pattern: the published ladder from… |
-| 2026-09-26 11:52:27 | [Duong-tvtoanhoc](https://pypi.org/project/Duong-tvtoanhoc/) | 0.1.0 | TungDuong | 3.1 kB | Thư viện toán học đơn giản |
-| 2026-09-26 11:52:36 | [legwork-mcp](https://pypi.org/project/legwork-mcp/) | 0.1.0 |  | 160.0 kB | Point it at a GitHub repo, get a working MCP tool back. |
-| 2026-09-26 11:52:45 | [trajence](https://pypi.org/project/trajence/) | 0.1.0 |  | 27.3 kB | Trajectory testing, invariant assertions, and deterministic replay for AI agent… |
-| 2026-09-26 11:53:32 | [mergendb](https://pypi.org/project/mergendb/) | 0.2.1 | Uğur Türker Kebeci | 74.8 kB | Ultra-compact, columnar, embedded database engine and custom query language (Me… |
-| 2026-09-26 11:54:05 | [kdeconnect-mcp](https://pypi.org/project/kdeconnect-mcp/) | 0.1.0 |  | 360.3 kB | MCP server que expone llamadas, SMS y notificaciones de un movil via KDE Connec… |
-| 2026-09-26 11:54:37 | [theoryminer](https://pypi.org/project/theoryminer/) | 0.1.0 | Rasoul Norouzi | 6.2 MB | Assemble theories from text: extract cause-effect claims and harmonise their co… |
-| 2026-09-26 11:57:45 | [pdfmd-cli](https://pypi.org/project/pdfmd-cli/) | 3.11.1 | Ali Perdekhan | 187.0 kB | One command from Markdown to a good-looking PDF: a Pandoc wrapper with smart de… |
-| 2026-09-26 12:02:24 | [delphi-code](https://pypi.org/project/delphi-code/) | 0.1.0 | Mark Dorofeev | 54.2 kB | Offline local code search for agents |
-| 2026-09-26 12:14:50 | [persian-stopwords](https://pypi.org/project/persian-stopwords/) | 1.0.0 | Masoud Kaviani <kavianimd@gma… | 34.0 kB | A comprehensive, curated list of Persian (Farsi) stopwords for text processing… |
-| 2026-09-26 12:15:36 | [crawlweave](https://pypi.org/project/crawlweave/) | 0.1.0 |  | 339.5 kB | Scrapy + curl_cffi crawler toolkit with Redis, scored proxies, Kafka and media… |
-| 2026-09-26 12:16:10 | [db-graphql-gateway](https://pypi.org/project/db-graphql-gateway/) | 0.1.0 | Mukesh M Lohar <mukesh1lohar@… | 249.3 kB | Automatically generate a secure, production-ready GraphQL API from a database c… |
-| 2026-09-26 12:18:27 | [cairndb](https://pypi.org/project/cairndb/) | 0.4.1 | CairnDB Contributors | 142.2 kB | Serverless database engine on blob storage: commit logs, coordination primitive… |
+| 2026-09-26 12:19:51 | [aiorehom](https://pypi.org/project/aiorehom/) | 0.2.0 | Fabio Rapposelli | 298.6 kB | Unofficial async client for the local API of Rehom Radiax (RadiaxWeb) controlle… |
+| 2026-09-26 12:20:49 | [agent-lense](https://pypi.org/project/agent-lense/) | 0.1.1 | The AgentLens contributors | 443.5 kB | See what your AI agents are actually doing. Local-first tracing and debugging f… |
+| 2026-09-26 12:21:20 | [devin-agi](https://pypi.org/project/devin-agi/) | 4.0.0 | Kevin Hamza <kevin.x.hamza@gm… | 3.8 MB | The most capable open-source autonomous AI agent — fully controls your OS, work… |
+| 2026-09-26 12:32:36 | [triepick](https://pypi.org/project/triepick/) | 0.1.0 | Son The Nguyen | 55.4 kB | Fast trie-planned candidate scoring for user-managed vLLM instances. |
+| 2026-09-26 12:35:07 | [seamm-manager](https://pypi.org/project/seamm-manager/) | 2026.9.26 | Paul Saxe | 753.9 kB | The manager for SEAMM (Simulation Environment for Atomistic and Molecular Simul… |
+| 2026-09-26 12:35:25 | [napari-track-edit](https://pypi.org/project/napari-track-edit/) | 1.0.0a2 | Caroline Malin-Mayor <malinma… | 15.8 MB | Napari plugin for interactive tracks and segmentation annotation |
+| 2026-09-26 12:35:28 | [devopsiq](https://pypi.org/project/devopsiq/) | 0.1.0 | DevOpsAbhii | 165.7 kB | A from-scratch, read-only AI agent that investigates real DevOps problems — Kub… |
+| 2026-09-26 12:35:40 | [startlive](https://pypi.org/project/startlive/) | 1.2.1 |  | 1.6 MB | A desktop application for starting Bilibili live streams |
+| 2026-09-26 12:39:49 | [hugegraph-mcp](https://pypi.org/project/hugegraph-mcp/) | 1.7.1 | Apache HugeGraph Contributors… | 388.9 kB | FastMCP server that exposes HugeGraph schema & Gremlin tools over MCP/STDIO |
+| 2026-09-26 12:48:49 | [hintauc](https://pypi.org/project/hintauc/) | 0.2.0 | Koki Madono | 54.5 kB | Deterministic region-based hint generation (DHT) and Hint-AUC evaluation for li… |
+| 2026-09-26 12:56:01 | [memex-plugin](https://pypi.org/project/memex-plugin/) | 0.20.1 | Xule Lin | 519.1 kB | Collaborative memory CLI for human-AI work: local vaults, memos, and hybrid sea… |
+| 2026-09-26 12:57:44 | [jev-route](https://pypi.org/project/jev-route/) | 0.2.0 | JevRoute Contributors | 76.2 kB | Typed, confidence-gated intent and tool routing for Python agents, powered by t… |
+| 2026-09-26 13:00:41 | [kura-rs](https://pypi.org/project/kura-rs/) | 0.1.0 | Hinata Kurashina <h.kurashina… | 1.3 MB | Small, verified Rust parts for AI data processing and security, for Python. |
+| 2026-09-26 13:04:18 | [mmth](https://pypi.org/project/mmth/) | 0.1.0 | Ronan Lamy <ronan.lamy@gmail.… | 29.6 kB | A simple multiple-dispatch library for Python |
+| 2026-09-26 13:05:47 | [wbactl](https://pypi.org/project/wbactl/) | 0.1.0 | Duke - Duc Dinh <dtduc.contac… | 103.1 kB | Static/CI toolkit for Web Bot Auth (IETF draft-00): agent-side doctor for signe… |
+| 2026-09-26 13:08:36 | [tickerinside](https://pypi.org/project/tickerinside/) | 0.1.0 | TickerInside <contact@tickeri… | 47.6 kB | Python client for the free TickerInside API: the full holdings of US ETFs, whic… |
+| 2026-09-26 13:08:38 | [typedlib](https://pypi.org/project/typedlib/) | 0.3.1 | Your Name <you@example.com> | 82.6 kB | Parallel type-safe decoding for autoregressive LLMs (string, number, bool, enum… |
+| 2026-09-26 13:11:28 | [keyrings.efile.cli](https://pypi.org/project/keyrings.efile.cli/) | 1.0 | Gerard <gweatherby@uchc.edu> | 5.8 kB | Command line tool to manage keyrings.efile passwords |
+| 2026-09-26 13:15:31 | [cadkit-py](https://pypi.org/project/cadkit-py/) | 0.6.1 |  | 338.4 kB | Inspectable CadQuery projects: model, validate, preview, render, and slice |
+| 2026-09-26 13:16:50 | [streammachine](https://pypi.org/project/streammachine/) | 0.1.0 | trbck <btorbicki@gmail.com> | 182.5 kB | Async stream processing on Redis Streams: decorator-based agents, timers and sh… |

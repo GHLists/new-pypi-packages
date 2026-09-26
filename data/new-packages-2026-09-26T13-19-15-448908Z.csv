@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T12:19:51Z,aiorehom,0.2.0,Fabio Rapposelli,MIT,298637,Unofficial async client for the local API of Rehom Radiax (RadiaxWeb) controllers
+2026-09-26T12:20:49Z,agent-lense,0.1.1,The AgentLens contributors,MIT,443482,See what your AI agents are actually doing. Local-first tracing and debugging for AI agents.
+2026-09-26T12:21:20Z,devin-agi,4.0.0,Kevin Hamza <kevin.x.hamza@gmail.com>,MIT,3776095,"The most capable open-source autonomous AI agent — fully controls your OS, works with zero API keys"
+2026-09-26T12:32:36Z,triepick,0.1.0,Son The Nguyen,MIT,55418,Fast trie-planned candidate scoring for user-managed vLLM instances.
+2026-09-26T12:35:07Z,seamm-manager,2026.9.26,Paul Saxe,GNU Lesser General Public License v3+,753869,"The manager for SEAMM (Simulation Environment for Atomistic and Molecular Simulations): installs, updates and configures SEAMM in a uv-managed environment."
+2026-09-26T12:35:25Z,napari-track-edit,1.0.0a2,Caroline Malin-Mayor <malinmayorc@janelia.hhmi.org>,BSD 3-Clause License,15800627,Napari plugin for interactive tracks and segmentation annotation
+2026-09-26T12:35:28Z,devopsiq,0.1.0,DevOpsAbhii,MIT,165677,"A from-scratch, read-only AI agent that investigates real DevOps problems — Kubernetes, Docker, Helm, Argo CD, Istio, Terraform, GitHub Actions, cloud, New Relic and more."
+2026-09-26T12:35:40Z,startlive,1.2.1,,GPL-3.0-only AND LicenseRef-StartLive-Artwork,1648931,A desktop application for starting Bilibili live streams
+2026-09-26T12:39:49Z,hugegraph-mcp,1.7.1,Apache HugeGraph Contributors <dev@hugegraph.apache.org>,Apache-2.0,388912,FastMCP server that exposes HugeGraph schema & Gremlin tools over MCP/STDIO
+2026-09-26T12:48:49Z,hintauc,0.2.0,Koki Madono,MIT,54499,Deterministic region-based hint generation (DHT) and Hint-AUC evaluation for line-art colorization
+2026-09-26T12:56:01Z,memex-plugin,0.20.1,Xule Lin,MIT,519116,"Collaborative memory CLI for human-AI work: local vaults, memos, and hybrid search"
+2026-09-26T12:57:44Z,jev-route,0.2.0,JevRoute Contributors,MIT,76220,"Typed, confidence-gated intent and tool routing for Python agents, powered by the Jev decision model."
+2026-09-26T13:00:41Z,kura-rs,0.1.0,Hinata Kurashina <h.kurashina49@gmail.com>,MIT OR Apache-2.0,1304328,"Small, verified Rust parts for AI data processing and security, for Python."
+2026-09-26T13:04:18Z,mmth,0.1.0,Ronan Lamy <ronan.lamy@gmail.com>,MIT,29586,A simple multiple-dispatch library for Python
+2026-09-26T13:05:47Z,wbactl,0.1.0,Duke - Duc Dinh <dtduc.contact@gmail.com>,Apache-2.0,103091,Static/CI toolkit for Web Bot Auth (IETF draft-00): agent-side doctor for signed agent traffic.
+2026-09-26T13:08:36Z,tickerinside,0.1.0,TickerInside <contact@tickerinside.com>,MIT,47648,"Python client for the free TickerInside API: the full holdings of US ETFs, which funds hold a stock, fund overlap and portfolio look-through."
+2026-09-26T13:08:38Z,typedlib,0.3.1,Your Name <you@example.com>,MIT,82608,"Parallel type-safe decoding for autoregressive LLMs (string, number, bool, enum) on top of Hugging Face Transformers"
+2026-09-26T13:11:28Z,keyrings.efile.cli,1.0,Gerard <gweatherby@uchc.edu>,MIT license,5760,Command line tool to manage keyrings.efile passwords
+2026-09-26T13:15:31Z,cadkit-py,0.6.1,,Apache-2.0,338447,"Inspectable CadQuery projects: model, validate, preview, render, and slice"
+2026-09-26T13:16:50Z,streammachine,0.1.0,trbck <btorbicki@gmail.com>,Apache-2.0,182469,"Async stream processing on Redis Streams: decorator-based agents, timers and shared state"
