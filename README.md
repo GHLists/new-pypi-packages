@@ -8,29 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 01:19 UTC
+## Latest list — 2026-09-26 02:19 UTC
 
-New packages created between 2026-09-26 00:19 UTC and 2026-09-26 01:19 UTC.
+New packages created between 2026-09-26 01:19 UTC and 2026-09-26 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T01-19-32-211426Z.csv)
+[Full CSV](data/new-packages-2026-09-26T02-19-12-313802Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 00:19:24 | [qsarkit-learn](https://pypi.org/project/qsarkit-learn/) | 0.5.0 | Frederico Schmitt Kremer | 955.2 kB | A focused Python library for QSAR modeling: structure curation, molecular repre… |
-| 2026-09-26 00:30:57 | [pump-gcp-radar](https://pypi.org/project/pump-gcp-radar/) | 0.1.0 | Mor Michaeli | 7.5 kB | Extra commands for gcp-radar, added through its plugin hook |
-| 2026-09-26 00:31:10 | [ipython-freshrun](https://pypi.org/project/ipython-freshrun/) | 0.1.0b0 | Yann Ziegler | 37.7 kB | Run Python scripts in genuinely fresh interactive IPython sessions |
-| 2026-09-26 00:32:28 | [taken-gh](https://pypi.org/project/taken-gh/) | 0.4.0 | RogueAlg0 | 50.7 kB | Check whether a GitHub issue is already taken before you volunteer for it. |
-| 2026-09-26 00:34:35 | [promptdispatch](https://pypi.org/project/promptdispatch/) | 0.0.1 | Hruthik Kommuru | 4.4 kB | A framework-agnostic Python library for classifying LLM prompts and routing req… |
-| 2026-09-26 00:34:37 | [gateshield](https://pypi.org/project/gateshield/) | 0.0.1 | Matheus Gasperazzo | 70.3 kB | Policy-driven security orchestration for hardened CI/CD pipelines |
-| 2026-09-26 00:34:57 | [tugyt](https://pypi.org/project/tugyt/) | 0.2.3 | ftnick | 15.3 kB | A focused YouTube downloader powered by yt-dlp. |
-| 2026-09-26 00:39:29 | [reflex-silverpoint-react](https://pypi.org/project/reflex-silverpoint-react/) | 0.1.0 | Ernesto Crespo <ecrespo@gmail… | 58.2 kB | The 33 silverpoint charts (Renaissance silverpoint drawing style) for Reflex, w… |
-| 2026-09-26 00:46:43 | [humanauthn](https://pypi.org/project/humanauthn/) | 0.1.0 | Zelf / Verifik | 239.1 kB | Official Python SDK for HumanAuthn (by Verifik) |
-| 2026-09-26 00:46:53 | [scanmate-merge](https://pypi.org/project/scanmate-merge/) | 0.0.2 | Eduardo Russo | 57.4 kB | Many files in, one PDF out: PDFs, images and rasters, in the order given, mixed… |
-| 2026-09-26 00:54:21 | [swe-scraper-icims](https://pypi.org/project/swe-scraper-icims/) | 0.1.0 | Furkan Candar | 12.2 kB | Experimental public iCIMS provider for swe-internship-scraper. |
-| 2026-09-26 00:54:27 | [swe-internship-scraper](https://pypi.org/project/swe-internship-scraper/) | 1.0.0rc2 | Furkan Candar | 116.3 kB | Scrape official ATS job boards for software engineering internships. |
-| 2026-09-26 00:55:12 | [mdq](https://pypi.org/project/mdq/) | 0.1.0 | Fábio Macêdo Mendes | 271.5 kB | Reference schemas and validation CLI for the MDQ question file format. |
-| 2026-09-26 00:55:40 | [stochast](https://pypi.org/project/stochast/) | 0.1.0 |  | 65.6 kB | A testing tool for LLM agents that reports statistics instead of verdicts. |
-| 2026-09-26 00:59:52 | [nexus-sphere-mcp](https://pypi.org/project/nexus-sphere-mcp/) | 0.2.0 | Nexus Sphere | 133.1 kB | Nexus Sphere AI Meeting for coding agents: a multi-AI second opinion inside Cla… |
-| 2026-09-26 01:03:38 | [osmimage](https://pypi.org/project/osmimage/) | 0.1.0 | AngLaboratory <anglaboratory@… | 26.9 kB | Render an OpenStreetMap tile image from latitude, longitude and zoom, returning… |
-| 2026-09-26 01:08:26 | [composable-jev](https://pypi.org/project/composable-jev/) | 1.0.0 | Fox Islam <foxislam@outlook.c… | 62.4 kB | A library to chain Jev calls, for the deranged and enlightened |
-| 2026-09-26 01:12:52 | [fuju-trace-sqlite](https://pypi.org/project/fuju-trace-sqlite/) | 0.1.11 | Fuju Trace | 3.3 kB | SQLite storage adapter for Fuju Trace |
+| 2026-09-26 01:19:52 | [pymolt](https://pypi.org/project/pymolt/) | 0.1.0 | Leo Vaychik <pymolt@zeelex.me> | 553.1 kB | Prove your Python migration didn't change what your code does. |
+| 2026-09-26 01:22:34 | [scholarmend](https://pypi.org/project/scholarmend/) | 0.1.2 |  | 98.4 kB | Fills in the real venue, year, and track for Google Scholar RIS exports, which… |
+| 2026-09-26 01:23:27 | [kymo](https://pypi.org/project/kymo/) | 0.1.1 |  | 199.8 kB | Experiment tracker for machine learning |
+| 2026-09-26 01:23:31 | [kymo-local-runtime](https://pypi.org/project/kymo-local-runtime/) | 0.1.1 |  | 26.8 MB | Native local runtime for kymo |
+| 2026-09-26 01:24:36 | [fishbaseball](https://pypi.org/project/fishbaseball/) | 0.0.1 | Robbie | 5.8 kB | Baseball data for Python: Lahman, Retrosheet, and Statcast. |
+| 2026-09-26 01:24:44 | [xcf-git-sync](https://pypi.org/project/xcf-git-sync/) | 0.1.0 | xcf-git-sync contributors | 51.5 kB | Watch GIMP XCF files, export layers to PNG, and auto-commit/push to git. |
+| 2026-09-26 01:25:20 | [silentfail-sdk](https://pypi.org/project/silentfail-sdk/) | 0.1.1 |  | 58.0 kB | Verify that your automation actually did the work, inside your own process. |
+| 2026-09-26 01:27:38 | [codehs-utils](https://pypi.org/project/codehs-utils/) | 1.0.1 | Kundaliel <kundaliel.official… | 55.5 kB | A small terminal toolkit: colors, gradients, banners, keyboard/mouse input, and… |
+| 2026-09-26 01:30:20 | [linura](https://pypi.org/project/linura/) | 0.0.1 | Linura contributors | 7.3 kB | Official Python entry point for Linura, the intelligent system layer for Linux. |
+| 2026-09-26 01:33:24 | [fontpkg-noto-sans-thai](https://pypi.org/project/fontpkg-noto-sans-thai/) | 2.2 |  | 138.8 kB | Noto Sans Thai font family, packaged for Python by fontpkg |
+| 2026-09-26 01:33:27 | [fontpkg-hanken-grotesk](https://pypi.org/project/fontpkg-hanken-grotesk/) | 3.13 |  | 153.8 kB | Hanken Grotesk font family, packaged for Python by fontpkg |
+| 2026-09-26 01:33:29 | [fontpkg-oxygen](https://pypi.org/project/fontpkg-oxygen/) | 0.201 |  | 89.6 kB | Oxygen font family, packaged for Python by fontpkg |
+| 2026-09-26 01:33:31 | [fontpkg-teko](https://pypi.org/project/fontpkg-teko/) | 2.0 |  | 125.1 kB | Teko font family, packaged for Python by fontpkg |
+| 2026-09-26 01:33:49 | [dungtiendao](https://pypi.org/project/dungtiendao/) | 0.0.1 | Tên Của Bạn | 2.7 kB | Thu vien toan hoc don gian gom cong tru nhan chia |
+| 2026-09-26 01:37:05 | [mobilevalidate-sdk](https://pypi.org/project/mobilevalidate-sdk/) | 1.0.0 | MobileValidate (BroadNet Tech… | 53.2 kB | MobileValidate API client: check phone numbers on WhatsApp, Telegram, Viber and… |
+| 2026-09-26 01:38:58 | [embeint-htf-station](https://pypi.org/project/embeint-htf-station/) | 0.2.0 | Karl Von Richter | 120.8 kB | Extensible Python runtime for Embeint hardware test stations |
+| 2026-09-26 01:40:39 | [venv-cmds](https://pypi.org/project/venv-cmds/) | 2026.9.26.1 | Paul McGowan <paul.mcgowan@op… | 17.5 kB | List available console commands in the active Python environment, check for pac… |
+| 2026-09-26 01:42:02 | [qivo](https://pypi.org/project/qivo/) | 0.1.1 |  | 30.3 kB | A small Flask layer for dependency injection, authorization, and response seria… |
+| 2026-09-26 01:45:21 | [narrapy](https://pypi.org/project/narrapy/) | 0.1.0 | Rakesh Sharma | 30.1 kB | Turn PDFs into audiobooks with chapters, using local neural text-to-speech (Kok… |
+| 2026-09-26 01:45:22 | [animaflow](https://pypi.org/project/animaflow/) | 0.1.0 | Oséias Farias <oseias.farias@… | 1.3 MB | Declarative, animated architecture flowcharts & diagrams for Python (Manim, Web… |
+| 2026-09-26 01:48:15 | [elanous](https://pypi.org/project/elanous/) | 0.0.1 | Elanvital AI | 2.1 kB | Elanous — self-observing autonomous agent runtime by Elanvital AI (formerly mon… |
+| 2026-09-26 01:51:43 | [fastapi-repl](https://pypi.org/project/fastapi-repl/) | 0.1.0 | Huzzy | 155.9 kB | A Django shell_plus style interactive shell for FastAPI, Starlette and Litestar… |
+| 2026-09-26 01:59:54 | [blink-camera-mcp](https://pypi.org/project/blink-camera-mcp/) | 0.1.0 | Abhijat Saxena | 60.9 kB | MCP server for Amazon Blink cameras: see, aim (pan/tilt) and capture, including… |
+| 2026-09-26 02:01:55 | [shadowbox](https://pypi.org/project/shadowbox/) | 0.3.0 |  | 103.5 kB | Executable architectural model for safe what-if experimentation (M0: contracts… |
+| 2026-09-26 02:05:14 | [aik](https://pypi.org/project/aik/) | 0.1.0 | Astrozoomzinho | 193.8 kB | AIK - Astro Imagine Kinter |
+| 2026-09-26 02:08:49 | [molframe](https://pypi.org/project/molframe/) | 0.1.1 |  | 13.5 MB |  |
+| 2026-09-26 02:11:14 | [aioayla-lan](https://pypi.org/project/aioayla-lan/) | 0.1.0 | Dr-Blank <64108942+Dr-Blank@u… | 50.4 kB | Async local control of Ayla Networks IoT modules over Ayla LAN mode |
+| 2026-09-26 02:11:44 | [observed-knowledge-ledger](https://pypi.org/project/observed-knowledge-ledger/) | 0.6.0 | Joshua Dell | 825.4 kB | Observed Knowledge Ledger — lessons your coding agents can trust: proven by che… |
+| 2026-09-26 02:13:49 | [decryptune](https://pypi.org/project/decryptune/) | 1.0.0 | Arsham <su@arsham.app> | 2.2 MB | Fast native M4A/fMP4 CENC decryptor, MP4 sanitizer and iTunes tagger, sync & as… |

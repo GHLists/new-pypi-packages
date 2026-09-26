@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T01:19:52Z,pymolt,0.1.0,Leo Vaychik <pymolt@zeelex.me>,Apache-2.0,553143,Prove your Python migration didn't change what your code does.
+2026-09-26T01:22:34Z,scholarmend,0.1.2,,MIT,98370,"Fills in the real venue, year, and track for Google Scholar RIS exports, which often come back truncated."
+2026-09-26T01:23:27Z,kymo,0.1.1,,Apache-2.0,199850,Experiment tracker for machine learning
+2026-09-26T01:23:31Z,kymo-local-runtime,0.1.1,,Apache-2.0,26756467,Native local runtime for kymo
+2026-09-26T01:24:36Z,fishbaseball,0.0.1,Robbie,MIT,5781,"Baseball data for Python: Lahman, Retrosheet, and Statcast."
+2026-09-26T01:24:44Z,xcf-git-sync,0.1.0,xcf-git-sync contributors,MIT,51462,"Watch GIMP XCF files, export layers to PNG, and auto-commit/push to git."
+2026-09-26T01:25:20Z,silentfail-sdk,0.1.1,,MIT,58010,"Verify that your automation actually did the work, inside your own process."
+2026-09-26T01:27:38Z,codehs-utils,1.0.1,Kundaliel <kundaliel.official@gmail.com>,MIT,55513,"A small terminal toolkit: colors, gradients, banners, keyboard/mouse input, and drawing for CodeHS-style Python environments."
+2026-09-26T01:30:20Z,linura,0.0.1,Linura contributors,Apache-2.0,7339,"Official Python entry point for Linura, the intelligent system layer for Linux."
+2026-09-26T01:33:24Z,fontpkg-noto-sans-thai,2.2,,OFL-1.1,138799,"Noto Sans Thai font family, packaged for Python by fontpkg"
+2026-09-26T01:33:27Z,fontpkg-hanken-grotesk,3.13,,OFL-1.1,153847,"Hanken Grotesk font family, packaged for Python by fontpkg"
+2026-09-26T01:33:29Z,fontpkg-oxygen,0.201,,OFL-1.1,89582,"Oxygen font family, packaged for Python by fontpkg"
+2026-09-26T01:33:31Z,fontpkg-teko,2.0,,OFL-1.1,125140,"Teko font family, packaged for Python by fontpkg"
+2026-09-26T01:33:49Z,dungtiendao,0.0.1,Tên Của Bạn,,2714,Thu vien toan hoc don gian gom cong tru nhan chia
+2026-09-26T01:37:05Z,mobilevalidate-sdk,1.0.0,MobileValidate (BroadNet Technologies Inc.),MIT,53236,"MobileValidate API client: check phone numbers on WhatsApp, Telegram, Viber and more, carrier lookup, spam reputation and e-mail verification. Sync + async, typed."
+2026-09-26T01:38:58Z,embeint-htf-station,0.2.0,Karl Von Richter,LicenseRef-FSL-1.1-ALv2,120803,Extensible Python runtime for Embeint hardware test stations
+2026-09-26T01:40:39Z,venv-cmds,2026.9.26.1,Paul McGowan <paul.mcgowan@ophix.io>,MIT,17549,"List available console commands in the active Python environment, check for package updates"
+2026-09-26T01:42:02Z,qivo,0.1.1,,,30312,"A small Flask layer for dependency injection, authorization, and response serialization."
+2026-09-26T01:45:21Z,narrapy,0.1.0,Rakesh Sharma,MIT,30068,"Turn PDFs into audiobooks with chapters, using local neural text-to-speech (Kokoro or Piper)."
+2026-09-26T01:45:22Z,animaflow,0.1.0,Oséias Farias <oseias.farias@gmail.com>,MIT,1285889,"Declarative, animated architecture flowcharts & diagrams for Python (Manim, Web/Canvas, Remotion)."
+2026-09-26T01:48:15Z,elanous,0.0.1,Elanvital AI,Apache-2.0,2062,Elanous — self-observing autonomous agent runtime by Elanvital AI (formerly monad). Placeholder; the first real release follows the rename.
+2026-09-26T01:51:43Z,fastapi-repl,0.1.0,Huzzy,MIT,155871,"A Django shell_plus style interactive shell for FastAPI, Starlette and Litestar projects, with models, engine and session preloaded and top-level await."
+2026-09-26T01:59:54Z,blink-camera-mcp,0.1.0,Abhijat Saxena,MIT,60885,"MCP server for Amazon Blink cameras: see, aim (pan/tilt) and capture, including the undocumented pan/tilt accessory protocol."
+2026-09-26T02:01:55Z,shadowbox,0.3.0,,Apache-2.0,103462,Executable architectural model for safe what-if experimentation (M0: contracts + validate)
+2026-09-26T02:05:14Z,aik,0.1.0,Astrozoomzinho,,193847,AIK - Astro Imagine Kinter
+2026-09-26T02:08:49Z,molframe,0.1.1,,MIT,13485337,
+2026-09-26T02:11:14Z,aioayla-lan,0.1.0,Dr-Blank <64108942+Dr-Blank@users.noreply.github.com>,Apache-2.0,50390,Async local control of Ayla Networks IoT modules over Ayla LAN mode
+2026-09-26T02:11:44Z,observed-knowledge-ledger,0.6.0,Joshua Dell,MIT,825386,"Observed Knowledge Ledger — lessons your coding agents can trust: proven by checks, flagged when the code changes, shared across repos when you want."
+2026-09-26T02:13:49Z,decryptune,1.0.0,Arsham <su@arsham.app>,MIT,2175550,"Fast native M4A/fMP4 CENC decryptor, MP4 sanitizer and iTunes tagger, sync & async Python"
