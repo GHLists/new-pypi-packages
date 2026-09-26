@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T09:59:08Z,4top,0.2.0a1,4ier,MIT,129098,"Your coding agents, one terminal. Find, search and resume native sessions, locally or over SSH."
+2026-09-26T10:19:46Z,aiolibresync,0.3.0,Alessandro Zarrilli,MIT,144674,"Async client for Libre Wireless LibreSync audio hubs, such as the Platin Stereo Hub"
+2026-09-26T10:23:00Z,vizreel,0.1.0,Efe Dalbay,MIT,2190996,"Animated charts for video, from a YAML file."
+2026-09-26T10:23:03Z,solvi,0.2.0,mxkuzn,Apache-2.0,68154,"Decision systems from a catalog of Python functions and checks: a strategist plans the flow, every answer comes with a quote or formula and a verifiable trace"
+2026-09-26T10:23:17Z,security-knowledge-os,0.1.0,,Apache-2.0,616957,Deterministic security assessment engine + knowledge retrieval + optional LLM assistance
+2026-09-26T10:26:10Z,detangle,0.1.0,louistarwars and the detangle contributors,MIT,175162,"Deterministic simulation testing for Python asyncio: find race conditions, deadlocks and cancellation bugs, then replay them exactly."
+2026-09-26T10:28:25Z,pyfixit-cli,0.1.0,Dhanunjay,MIT,26195,Diagnose common Python import and dependency problems
+2026-09-26T10:32:11Z,featune,1.0.0,,MIT,706419,"Semantic, controlled and reproducible feature engineering search"
+2026-09-26T10:33:14Z,pyfofem-fire-effects,0.1.1,"""Gregory A. Greene"" <map.n.trowel@gmail.com>",MIT,283540,A Python implementation of the FOFEM fire-effects model
+2026-09-26T10:36:23Z,testmatrix-hub,0.0.1,iamqingyun <iamhuchenyu@163.com>,MIT,6119,TestMatrix Hub - Test management and efficiency platform (PyPI placeholder)
+2026-09-26T10:36:41Z,mcp-gemini-google-search,0.1.0,,Apache-2.0,98854,MCP server that provides Google Search via Gemini's built-in Grounding with Google Search feature.
+2026-09-26T10:37:13Z,tauon-optimizer,0.1.2,,,16085,Fast Muon-like optimizer with AdamW speed
+2026-09-26T10:46:50Z,rs-rich,0.0.1,,MIT,48145999,"Rich-compatible terminal rendering, backed by the rs-rich Rust port"
+2026-09-26T10:53:17Z,oneapii,0.1.0,,,19676,Python SDK for the OneAPIi AI gateway
+2026-09-26T10:55:01Z,deqio,0.1.0,,MIT,302312,Unified runtime for fast typed AI decisions across multiple decision engines
+2026-09-26T10:55:46Z,field2pt,0.1.0,Satoshi Tanaka,GPL-2.0-or-later,36617,Two-point statistics of gridded fields with FFTW and OpenMP
+2026-09-26T10:56:34Z,TestOpsHub,0.0.2,iamqingyun <iamhuchenyu@163.com>,MIT,6136,TestOpsHub - General-purpose automation testing efficiency platform (PyPI placeholder)
+2026-09-26T11:02:23Z,biotapy,0.0.1,Pedro Ribeiro,"BSD 3-Clause License Copyright (c) 2026, Pedro Ribeiro All rights reserved. Redistribution and use…",85951,mia-style microbiome toolkit for Python on AnnData/TreeData
+2026-09-26T11:04:11Z,closecode-ai,0.1.0,Om Gite,MIT,70437,CloseCode — an agentic terminal coding assistant (LangGraph + OpenRouter + MCP)
+2026-09-26T11:05:44Z,arrix,0.0.0,,MIT OR Apache-2.0,1840,"Name reserved for ArriX, a free pure-Rust parametric CAD on the Arris kernel. Nothing usable yet."
+2026-09-26T11:06:16Z,noodlelab,0.1.0,Nicolas Kalis,MIT,4667925,"Verifiable science for humans and AI agents: units, GUM uncertainty, requirements with margins, checks and provenance, as a Python library, a CLI, an MCP server and a node editor."
+2026-09-26T11:07:12Z,bildock-connect,0.1.0,Denis Mishchenko,Proprietary,11477,Bildock Connect CLI - connector agent: Docker metrics + error logs heartbeat to Bildock
+2026-09-26T11:08:46Z,lookahead-mcp,0.1.0,The Lookahead <info@thelookahead.app>,,85042,Connect Claude (or another MCP-compatible AI assistant) to your wardrobe in The Lookahead
+2026-09-26T11:09:51Z,boilpayment-core,0.1.0,boilpayment contributors,MIT,57034,"boilpayment — core types, policy, interfaces, in-memory stores"
+2026-09-26T11:10:05Z,boilpayment-credits,0.1.0,boilpayment contributors,MIT,32769,boilpayment — credits
+2026-09-26T11:10:06Z,boilpayment-notify,0.1.0,boilpayment contributors,MIT,9301,boilpayment — notify
+2026-09-26T11:10:07Z,boilpayment-polar,0.1.0,boilpayment contributors,MIT,8853,boilpayment — polar
+2026-09-26T11:12:18Z,vllm-ascend-split-batch,0.1.0,,Apache-2.0,1392067,"vLLM-HUST plugin carriers for vllm-ascend: cascade two-stage decode, decode FIA de-mask, RoPE variant fixes, zero-cost wiring, MLP chunking (all default-off)"
+2026-09-26T11:14:03Z,soba-reference-repo,0.1.0,,MIT,94109,"SOBA co-aligned / TEST dataset report generator: figures, LaTeX PDF and TEST parquet"
+2026-09-26T11:16:25Z,stingy-ci,0.0.1,,,1671,Name reservation. Cost review for SQL data-project pull requests; a real release is coming.
+2026-09-26T11:16:38Z,nguyen-the-anh-toanhocc,0.1.0,Nguyen The Anh,,3833,Thư viện toán học cơ bản
