@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T20:22:55Z,linkedin-pulse-search-posts,0.1.1,LinkedIn Pulse Reader,Proprietary,47987,LinkedIn post search built on linkedin-search-core.
+2026-09-26T20:23:29Z,pixelazer-tl,1.0.3,gardenyab,MIT,1226795,This library is built for the Pixelazer Userbot and is based on Telethon.
+2026-09-26T20:23:37Z,jevtest,0.6.0,Bret Hagen,MIT,179064,"Plain-English end-to-end tests for Android and iOS apps, driven by TypeSafe's Jev model"
+2026-09-26T20:27:18Z,pdn-aprs,0.1.0,"""Tom Fanning, M0LTE"" <tom@fann.ing>",AGPL-3.0-or-later,213716,"APRS (Automatic Packet Reporting System) decoder and encoder, checked against language-neutral conformance vectors"
+2026-09-26T20:28:29Z,mdbindery,0.1.0,Taras Baranyuk,MIT,320213,Turn a folder or GitHub repository of Markdown chapters into a validated EPUB 3 ebook.
+2026-09-26T20:28:36Z,hugpy-video,0.2.3,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,1267388,"Hugpy video: media library and job bus, ffmpeg, synthetic and studio runners, reservations and studio sessions for video intelligence"
+2026-09-26T20:29:38Z,xtr-cache-contracts,1.2.0,Razvan Ceana,MIT,34265,"The caching contract: compute-once reads, item pools, tags and namespaces, with no backend attached."
+2026-09-26T20:29:43Z,xtr-cache,1.2.0,Razvan Ceana,MIT,110144,"Cache pools in memory, in files, in Redis, chained or tag-aware, with stampede protection."
+2026-09-26T20:29:43Z,xtr-dotenv,1.2.0,Razvan Ceana,MIT,42615,"Layered .env files loaded into the environment, and the same layers behind a typed settings model."
+2026-09-26T20:31:41Z,scoutwyze-compute,0.1.0,ScoutWyze <scoutwyze@gmail.com>,MIT,16526,Client + LangChain/Haystack Tool wrappers for the ScoutWyze Compute GPU-placement ranking API (dual-rail: prepaid key or x402/USDC on Base)
+2026-09-26T20:33:15Z,xtr-event-dispatcher-contracts,1.2.0,Razvan Ceana,MIT,17436,"The event dispatching contract alone: an event, a dispatcher and listener introspection, for code that emits events without choosing who hears them."
+2026-09-26T20:33:20Z,rcswx,0.5.2,,,10398287,Reference-faithful genotype alignment and crossover with a Rust core
+2026-09-26T20:33:56Z,xtr-event-dispatcher,1.2.0,Razvan Ceana,MIT,91998,"Let the parts of an application talk through events: listeners and subscribers run by priority, any of them able to stop the rest."
+2026-09-26T20:34:21Z,croniter-mojo,0.1.5,Algenta,Apache-2.0,1968250,"Drop-in faster get_next/get_prev for 5-field cron expressions, powered by a Mojo kernel (pure-Python fallback included)."
+2026-09-26T20:34:24Z,jsonpath-mojo,0.1.5,Algenta,Apache-2.0,2018014,"Fast JSONPath queries (jsonpath-ng ext dialect), powered by a Mojo kernel (pure-Python fallback included)."
+2026-09-26T20:34:28Z,jsonschema-mojo,0.1.5,Algenta,Apache-2.0,2045788,"Drop-in faster replacement for the jsonschema package (draft 2020-12 subset), powered by a Mojo kernel (pure-Python fallback included)."
+2026-09-26T20:34:32Z,sacrebleu-mojo,0.1.5,Algenta,Apache-2.0,1964774,"Drop-in faster replacement for sacrebleu's BLEU and chrF corpus metrics, powered by a Mojo kernel (pure-Python fallback included)."
+2026-09-26T20:37:09Z,codeui-python,0.1.0,Akram Alsubari,MIT,149023,"Universal static analysis code intelligence library, defect detector, graph visualizer, and agent context builder"
+2026-09-26T20:38:11Z,vega-sdd,0.3.1,Vega SDD contributors,Apache-2.0,205796,Repository-owned project lifecycle framework for AI coding agents.
+2026-09-26T20:40:39Z,mt-trainer,0.3.0,Asger Svenning,MIT,377022,An as minimal as possible fully extendable DL image classification training and inference package
+2026-09-26T20:40:55Z,biqu-td1s,1.0.0,Jozef Mak,MIT,16646,Python interface for BIQU TD1S filament measurements
+2026-09-26T20:42:06Z,netbox-mcp,0.1.0,Mateusz Hajder,"MIT License Copyright (c) 2026 Mateusz Hajder Permission is hereby granted, free of charge, to any…",219578,MCP server for NetBox DCIM/IPAM management
+2026-09-26T20:46:46Z,pankhllm,0.1.1,,MIT,10169,"Client for pankhllm, the LLM gateway that learns to skip the LLM."
+2026-09-26T20:46:49Z,pankhllm-server,0.1.1,,MIT,31533097,"The LLM gateway that learns to skip the LLM: trains its own tiny decision model on your agent's traffic and answers repeat decisions in 0.2 ms with no LLM call. OpenAI-compatible, one Rust binary. Th…"
+2026-09-26T20:48:15Z,voxrun,0.1.0,,MIT,1619385,High-performance speech-to-text inference library derived from faster-whisper
+2026-09-26T20:50:08Z,loopgrid-strands,0.1.0,LoopGrid,Apache-2.0,33971,"Signed, independently verifiable decision evidence for Strands Agents using LoopGrid"
+2026-09-26T20:53:01Z,fou,0.0.0,Mohammad Mehdi Masoumi,,2313,A small Python package.
+2026-09-26T20:53:11Z,astralix-tl,1.0.0,LowSense,MIT,1219458,This library is built for the astralix Userbot and is based on Telethon.
+2026-09-26T20:53:43Z,quaza,0.0.0,,Apache-2.0,1730,A literature database managed by AI agents (name reservation; not yet functional)
+2026-09-26T20:56:45Z,mambo-v3,0.3.0,Asger Svenning,MIT,517620,Portable local inference for MAMBO model bundles
+2026-09-26T21:03:47Z,wede-sdk,2.0.0,,MIT,22859,Official Python client for the wede API
+2026-09-26T21:05:39Z,urna,0.5.0,hoff research <brenner@hoffresearch.com>,MIT,117775870,"sovereign embedded vector database: single-file .urna container with content-addressable citations, offline-first"
+2026-09-26T21:06:04Z,oxidized-mcp,0.1.0,Mateusz Hajder,"MIT License Copyright (c) 2026 Mateusz Hajder Permission is hereby granted, free of charge, to any…",205048,MCP server for Oxidized network device configuration backups
+2026-09-26T21:06:49Z,wedetech-sdk,2.0.0,,MIT,22919,Official Python client for the wede API
+2026-09-26T21:11:05Z,snapjudge,0.0.1,Omer Bar-Ness <omer@zsquared.io>,Apache-2.0,2321,"Fast typed decisions (choice, score, yes/no) across Jev-style engines, plus a guard for coding agents. Early development."
+2026-09-26T21:12:21Z,shardflux,0.1.0,Shardflux,Apache-2.0,58915,"Python client for Shardflux: cloud computers for AI agents. Persistent workspaces you open by key, run commands in, suspend, resume and fork."
+2026-09-26T21:15:54Z,hmmpy-ai,0.3.3,Pouriya Khalilian,MIT,34527,Typed probabilistic decisions for OpenAI-compatible language models.
+2026-09-26T21:15:55Z,eeg2edf,0.1.0,BellaNes Systems,Apache-2.0 AND BSD-3-Clause,162517,"Read Nihon Kohden, Nicolet/Nervus and Micromed EEG recordings: lossless EDF+ conversion and MNE-Python readers"
+2026-09-26T21:17:33Z,subitosms-sdk,0.1.0,SubitoSMS <support@subitosms.it>,MIT,11273,Client Python leggero e senza dipendenze per le API HTTP di SubitoSMS.it.
+2026-09-26T21:18:31Z,buinamhuy-math-2026,0.1.0,Bùi Nam Huy,,4951,Thư viện phép tính cơ bản và công thức hình chữ nhật
+2026-09-26T21:19:23Z,mujoco-mac-metal,0.3.0,,Apache-2.0,2070075,Experimental generalized MuJoCo Metal contact-free stepping profile
