@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T06:18:42Z,sdk-catalyst,0.1.0,Catalyst,MIT,59148,"Zero-latency, in-memory feature flag client for the Catalyst platform"
+2026-09-26T06:25:38Z,orbyt-ai,0.0.2,,Apache-2.0,1515,Alias of orbyt-sh. Install: pip install orbyt-sh — https://orbyt.sh
+2026-09-26T06:25:40Z,orbyt-sh,0.0.2,,Apache-2.0,1711,Orbyt — a decision engine. Coming soon: https://orbyt.sh
+2026-09-26T06:34:18Z,whistlr,0.0.1,,,2086,Durable agent runs and cross-provider workflows for herdr
+2026-09-26T06:35:52Z,westquant-qcsc,0.1.0,WestQuant Open,MIT,110967,WestQuant QCSC Optimizer — Semantic QPU Minimization for hybrid quantum-classical workflows
+2026-09-26T06:43:32Z,lineartization,1.7.0,DVS,MIT,54160,Convert color illustrations and posters into clean black-and-white line art.
+2026-09-26T06:48:20Z,er2,0.7.0,Enrique Pérez Herrero,MIT,206364,"ER2 — mathematical Python: symbolic syntax, exact arithmetic and PARI/GP number theory on top of Python."
+2026-09-26T06:49:15Z,tabulixml,1.0.0,TabulixML contributors,MIT,152260,Automated Tabular Machine Learning Toolkit
+2026-09-26T06:52:34Z,subcanopy-guard,0.3.1,Victor,AGPL-3.0-or-later,40213,Context-aware indirect prompt injection scanner for AI agent tool outputs
+2026-09-26T06:55:18Z,canitoolcall,0.1.0,CanIToolCall contributors,Apache-2.0,896506,caniuse.com for tool calling: a neutral conformance suite for tool-call and reasoning parsers across open-weight model families and inference engines.
+2026-09-26T07:00:06Z,lagi-sdk,0.1.0,Liumi Corporation <dev@liumicorporation.com>,,132502,Developer SDK for Liumi Autonomous General Intelligence (LAGI) runtime.
+2026-09-26T07:02:21Z,hikkaritl,1.0.0,Wers1xx,CCBYNCND V4,1435335,Telegram MTProto library for Hikkari userbot (Telethon-based).
+2026-09-26T07:02:58Z,cocoonet,0.0.1,Siwei Luo <siwei1102@outlook.de>,,6630,Scientific evaluation of machine learning models with local and distributed workers.
+2026-09-26T07:03:28Z,art30-emit,0.1.0,Cordata <contact@cordata.tech>,Apache-2.0,38755,Emit the OpenLineage Art. 30 processing facet from code that emits nothing today
+2026-09-26T07:05:26Z,craic-msa,0.5.10,James McInerney,MIT,2994311,CRAIC: a multiple sequence alignment workbench built for ambiguous regions
+2026-09-26T07:08:51Z,lagi-cli,0.1.0,Liumi Corporation,,129164,"Terminal agent runner, desktop watch mode, and OS/Browser controller for LAGI."
+2026-09-26T07:10:10Z,offline-ml,0.1.0,Pranay Mahendrakar,MIT,58195,Detect the machine you are on and pick a model configuration that will actually fit and run
+2026-09-26T07:11:07Z,lagi-mdn,0.1.0,Liumi Corporation,,159704,Hardware profiler & Model Delivery Network engine for LAGI.
+2026-09-26T07:11:07Z,model-watchdog,0.1.0,Pranay Mahendrakar,MIT,87359,"Lightweight production monitoring for any ML model: log predictions, catch drift and silent failure"
+2026-09-26T07:11:33Z,decionis-langchain,0.1.0,Decionis <sdk@decionis.ai>,MIT,22091,Gate LangChain tool calls and LangGraph nodes on a signed Decionis Decision Dossier.
+2026-09-26T07:15:46Z,godot-mcp-uvx,1.0.1,"Jxlee007, godot-mcp contributors",MIT,58543,Pure-Python FastMCP server for Godot 4 — headless scene ops + animation/cinematic text pipeline. Zero Node.js.

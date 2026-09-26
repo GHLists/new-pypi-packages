@@ -8,32 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 06:19 UTC
+## Latest list — 2026-09-26 07:18 UTC
 
-New packages created between 2026-09-26 05:20 UTC and 2026-09-26 06:19 UTC.
+New packages created between 2026-09-26 06:19 UTC and 2026-09-26 07:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T06-19-05-06069Z.csv)
+[Full CSV](data/new-packages-2026-09-26T07-18-53-201262Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 05:20:11 | [jev-factory](https://pypi.org/project/jev-factory/) | 0.9.0 | AgentCulture | 259.7 kB | Jev factory: turns nvsh's Tool-Jev fine-tune process into a reusable pipeline f… |
-| 2026-09-26 05:26:16 | [alpineagents](https://pypi.org/project/alpineagents/) | 0.1.0 | JAEGYUN JUNG | 376.9 kB | An agent framework that keeps configuration (Agent) and history (State) apart,… |
-| 2026-09-26 05:26:21 | [tpmslab](https://pypi.org/project/tpmslab/) | 0.3.0 |  | 684.4 kB | Direct conforming volume meshes for graded implicit TPMS lattices |
-| 2026-09-26 05:29:07 | [nicegui-autoform](https://pypi.org/project/nicegui-autoform/) | 0.1.1 | Owen Solberg <nicegui-autofor… | 156.6 kB | Render a NiceGUI web form from a command line interface. |
-| 2026-09-26 05:29:36 | [nicegui-treebrowser](https://pypi.org/project/nicegui-treebrowser/) | 0.1.1 | Owen Solberg <pypi@odoublewen… | 138.3 kB | A NiceGUI element that browses, previews and downloads a server-side directory… |
-| 2026-09-26 05:30:27 | [relaycheck](https://pypi.org/project/relaycheck/) | 0.1.0 | relaycheck contributors | 291.3 kB | Audit OpenAI-compatible LLM relay/proxy endpoints for model substitution, billi… |
-| 2026-09-26 05:33:19 | [okfsmith](https://pypi.org/project/okfsmith/) | 0.1.0 |  | 163.4 kB |  |
-| 2026-09-26 05:37:16 | [dryv-author](https://pypi.org/project/dryv-author/) | 0.0.1 |  | 97.8 kB | Lightweight typed Python authoring SDK for Dryv |
-| 2026-09-26 05:37:16 | [dryv-compiler](https://pypi.org/project/dryv-compiler/) | 0.0.1 |  | 96.3 kB | Runnable Python authoring compiler/provider for Dryv |
-| 2026-09-26 05:39:41 | [pycoh](https://pypi.org/project/pycoh/) | 0.1.2 | Franklin Moisés Ramírez Azofe… | 69.0 kB | CoH adapter for transformers: a directional correction in the residual stream w… |
-| 2026-09-26 05:43:20 | [jinwu-ep](https://pypi.org/project/jinwu-ep/) | 0.2.1 | Xinxiang Sun <sunxx@nao.cas.c… | 72.1 kB | Einstein Probe (WXT) instrument support for the jinwu analysis toolkit. |
-| 2026-09-26 05:43:34 | [jinwu-fermi](https://pypi.org/project/jinwu-fermi/) | 0.2.1 | Xinxiang Sun <sunxx@nao.cas.c… | 273.4 kB | Fermi/GBM instrument support for the jinwu analysis toolkit. |
-| 2026-09-26 05:43:34 | [nikasha](https://pypi.org/project/nikasha/) | 0.1.0 | Rakshit Rameshbabu <rakshitof… | 1.6 MB | Proof, not prose. Fact-check vulnerability reports against the real code at the… |
-| 2026-09-26 05:43:35 | [jinwu-gw](https://pypi.org/project/jinwu-gw/) | 0.2.1 |  | 72.9 kB | Gravitational-wave sky localization and high-energy coverage plots for jinwu. |
-| 2026-09-26 05:43:37 | [jinwu-swift](https://pypi.org/project/jinwu-swift/) | 0.2.1 | Xinxiang Sun <sunxx@nao.cas.c… | 249.5 kB | Swift/BAT instrument support for the jinwu analysis toolkit. |
-| 2026-09-26 05:46:17 | [pinmok-content](https://pypi.org/project/pinmok-content/) | 1.0.0 | 惠达浪 <crazys@126.com> | 59.4 kB | Pinmok content module |
-| 2026-09-26 05:48:32 | [pysstorytime](https://pypi.org/project/pysstorytime/) | 0.0.2 | Christophe Beauce <chris@chrp… | 19.1 kB |  |
-| 2026-09-26 05:52:56 | [korvoice](https://pypi.org/project/korvoice/) | 0.2.1 | Ivan Cherniy | 127.4 kB | Push-to-talk / toggle Russian voice input for Linux, powered by the local GigaA… |
-| 2026-09-26 06:06:00 | [judgly](https://pypi.org/project/judgly/) | 0.0.1 | Timo Lassmann | 14.0 kB | Calibrated, deterministic judgments from open language models (early developmen… |
-| 2026-09-26 06:07:48 | [continuous-cellular-engine](https://pypi.org/project/continuous-cellular-engine/) | 0.1.0 |  | 18.9 kB | Interactive Taichi engine for continuous cellular automata and Lenia-style gene… |
-| 2026-09-26 06:09:53 | [django-jalali-recurrence](https://pypi.org/project/django-jalali-recurrence/) | 2.0.0 | sanouri <s.a.nouri2004@gmail.… | 241.3 kB | Django utility for Jalali (Persian calendar) recurrence rules |
+| 2026-09-26 06:18:42 | [sdk-catalyst](https://pypi.org/project/sdk-catalyst/) | 0.1.0 | Catalyst | 59.1 kB | Zero-latency, in-memory feature flag client for the Catalyst platform |
+| 2026-09-26 06:25:38 | [orbyt-ai](https://pypi.org/project/orbyt-ai/) | 0.0.2 |  | 1.5 kB | Alias of orbyt-sh. Install: pip install orbyt-sh — https://orbyt.sh |
+| 2026-09-26 06:25:40 | [orbyt-sh](https://pypi.org/project/orbyt-sh/) | 0.0.2 |  | 1.7 kB | Orbyt — a decision engine. Coming soon: https://orbyt.sh |
+| 2026-09-26 06:34:18 | [whistlr](https://pypi.org/project/whistlr/) | 0.0.1 |  | 2.1 kB | Durable agent runs and cross-provider workflows for herdr |
+| 2026-09-26 06:35:52 | [westquant-qcsc](https://pypi.org/project/westquant-qcsc/) | 0.1.0 | WestQuant Open | 111.0 kB | WestQuant QCSC Optimizer — Semantic QPU Minimization for hybrid quantum-classic… |
+| 2026-09-26 06:43:32 | [lineartization](https://pypi.org/project/lineartization/) | 1.7.0 | DVS | 54.2 kB | Convert color illustrations and posters into clean black-and-white line art. |
+| 2026-09-26 06:48:20 | [er2](https://pypi.org/project/er2/) | 0.7.0 | Enrique Pérez Herrero | 206.4 kB | ER2 — mathematical Python: symbolic syntax, exact arithmetic and PARI/GP number… |
+| 2026-09-26 06:49:15 | [tabulixml](https://pypi.org/project/tabulixml/) | 1.0.0 | TabulixML contributors | 152.3 kB | Automated Tabular Machine Learning Toolkit |
+| 2026-09-26 06:52:34 | [subcanopy-guard](https://pypi.org/project/subcanopy-guard/) | 0.3.1 | Victor | 40.2 kB | Context-aware indirect prompt injection scanner for AI agent tool outputs |
+| 2026-09-26 06:55:18 | [canitoolcall](https://pypi.org/project/canitoolcall/) | 0.1.0 | CanIToolCall contributors | 896.5 kB | caniuse.com for tool calling: a neutral conformance suite for tool-call and rea… |
+| 2026-09-26 07:00:06 | [lagi-sdk](https://pypi.org/project/lagi-sdk/) | 0.1.0 | Liumi Corporation <dev@liumic… | 132.5 kB | Developer SDK for Liumi Autonomous General Intelligence (LAGI) runtime. |
+| 2026-09-26 07:02:21 | [hikkaritl](https://pypi.org/project/hikkaritl/) | 1.0.0 | Wers1xx | 1.4 MB | Telegram MTProto library for Hikkari userbot (Telethon-based). |
+| 2026-09-26 07:02:58 | [cocoonet](https://pypi.org/project/cocoonet/) | 0.0.1 | Siwei Luo <siwei1102@outlook.… | 6.6 kB | Scientific evaluation of machine learning models with local and distributed wor… |
+| 2026-09-26 07:03:28 | [art30-emit](https://pypi.org/project/art30-emit/) | 0.1.0 | Cordata <contact@cordata.tech> | 38.8 kB | Emit the OpenLineage Art. 30 processing facet from code that emits nothing today |
+| 2026-09-26 07:05:26 | [craic-msa](https://pypi.org/project/craic-msa/) | 0.5.10 | James McInerney | 3.0 MB | CRAIC: a multiple sequence alignment workbench built for ambiguous regions |
+| 2026-09-26 07:08:51 | [lagi-cli](https://pypi.org/project/lagi-cli/) | 0.1.0 | Liumi Corporation | 129.2 kB | Terminal agent runner, desktop watch mode, and OS/Browser controller for LAGI. |
+| 2026-09-26 07:10:10 | [offline-ml](https://pypi.org/project/offline-ml/) | 0.1.0 | Pranay Mahendrakar | 58.2 kB | Detect the machine you are on and pick a model configuration that will actually… |
+| 2026-09-26 07:11:07 | [lagi-mdn](https://pypi.org/project/lagi-mdn/) | 0.1.0 | Liumi Corporation | 159.7 kB | Hardware profiler & Model Delivery Network engine for LAGI. |
+| 2026-09-26 07:11:07 | [model-watchdog](https://pypi.org/project/model-watchdog/) | 0.1.0 | Pranay Mahendrakar | 87.4 kB | Lightweight production monitoring for any ML model: log predictions, catch drif… |
+| 2026-09-26 07:11:33 | [decionis-langchain](https://pypi.org/project/decionis-langchain/) | 0.1.0 | Decionis <sdk@decionis.ai> | 22.1 kB | Gate LangChain tool calls and LangGraph nodes on a signed Decionis Decision Dos… |
+| 2026-09-26 07:15:46 | [godot-mcp-uvx](https://pypi.org/project/godot-mcp-uvx/) | 1.0.1 | Jxlee007, godot-mcp contribut… | 58.5 kB | Pure-Python FastMCP server for Godot 4 — headless scene ops + animation/cinemat… |
