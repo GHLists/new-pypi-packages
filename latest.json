@@ -1,25 +1,43 @@
 {
   "list": {
-    "count": 20,
-    "from": "2026-09-26T04:18:56.688584Z",
-    "path": "data/new-packages-2026-09-26T05-20-14-24058Z.csv",
-    "to": "2026-09-26T05:20:14.24058Z"
+    "count": 21,
+    "from": "2026-09-26T05:20:14.24058Z",
+    "path": "data/new-packages-2026-09-26T06-19-05-06069Z.csv",
+    "to": "2026-09-26T06:19:05.06069Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-09-26T05:37:09Z",
+      "package": "Dryv",
+      "since": "2026-09-26T05:20:14.24058Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-09-26T03:02:35Z",
       "package": "dhkumar560-agentic-test-2026",
       "since": "2026-09-26T02:19:12.313802Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-09-26T05:20:11Z",
-      "package": "jev-factory",
-      "since": "2026-09-26T04:18:56.688584Z"
+      "created_at": "2026-09-26T06:07:03Z",
+      "package": "recflarelogin",
+      "since": "2026-09-26T05:20:14.24058Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-26T06:07:04Z",
+      "package": "recflarepy",
+      "since": "2026-09-26T05:20:14.24058Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-26T06:18:42Z",
+      "package": "sdk-catalyst",
+      "since": "2026-09-26T05:20:14.24058Z"
     }
   ],
-  "serial": 41477709,
+  "serial": 41478621,
   "source_truncated": false,
-  "window": "2026-09-26T05:20:14.24058Z"
+  "window": "2026-09-26T06:19:05.06069Z"
 }

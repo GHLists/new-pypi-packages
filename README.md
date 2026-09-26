@@ -8,31 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 05:20 UTC
+## Latest list — 2026-09-26 06:19 UTC
 
-New packages created between 2026-09-26 04:18 UTC and 2026-09-26 05:20 UTC.
+New packages created between 2026-09-26 05:20 UTC and 2026-09-26 06:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T05-20-14-24058Z.csv)
+[Full CSV](data/new-packages-2026-09-26T06-19-05-06069Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 04:23:35 | [newdev-tbank](https://pypi.org/project/newdev-tbank/) | 0.3.0 | NewDev <contacto@newdev.cl> | 24.5 kB | Cliente Python para el microservicio Webpay Plus de NewDev |
-| 2026-09-26 04:28:09 | [langchain-clearsigned](https://pypi.org/project/langchain-clearsigned/) | 0.1.0 |  | 13.1 kB | LangChain tool for Clearsigned: calibrated claim verification for AI agents, pa… |
-| 2026-09-26 04:30:39 | [pycobble](https://pypi.org/project/pycobble/) | 0.5.0 | Cobble contributors | 47.1 MB | High-performance Python bindings for Cobble. |
-| 2026-09-26 04:31:56 | [tessuto](https://pypi.org/project/tessuto/) | 0.1.0 |  | 1.9 kB | Add your description here |
-| 2026-09-26 04:35:25 | [lazarat](https://pypi.org/project/lazarat/) | 0.0.1 |  | 1.3 kB | Reserved misspelling of lazaret. Install 'lazaret' instead. |
-| 2026-09-26 04:35:27 | [lazarett](https://pypi.org/project/lazarett/) | 0.0.1 |  | 1.3 kB | Reserved misspelling of lazaret. Install 'lazaret' instead. |
-| 2026-09-26 04:35:28 | [lazeret](https://pypi.org/project/lazeret/) | 0.0.1 |  | 1.3 kB | Reserved misspelling of lazaret. Install 'lazaret' instead. |
-| 2026-09-26 04:36:34 | [odoo-addon-sustainability-purchase](https://pypi.org/project/odoo-addon-sustainability-purchase/) | 19.0.1.0.0.6 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 35.0 kB | Glue module for sustainability & purchase modules |
-| 2026-09-26 04:44:25 | [fracast](https://pypi.org/project/fracast/) | 0.1.0 | Fracast contributors | 914.5 kB | Compact time-series foundation model with bundled Fracast-0 weights |
-| 2026-09-26 04:44:28 | [inferport](https://pypi.org/project/inferport/) | 0.1.0 |  | 128.8 kB | Lightweight inference exchange between model backends and execution environment… |
-| 2026-09-26 04:46:01 | [zesus](https://pypi.org/project/zesus/) | 0.1.0a1 | Zesus contributors <dev@koire… | 309.3 kB | Forensic scanner and extractor for ZFS pools, including destroyed datasets and… |
-| 2026-09-26 04:48:34 | [wayscribe](https://pypi.org/project/wayscribe/) | 0.2.0 | Jorge Polanco | 103.1 kB | Native Python recorder for Wayscribe record-level debugging |
-| 2026-09-26 04:58:39 | [tellhall](https://pypi.org/project/tellhall/) | 0.1.0 |  | 31.8 kB | A thin, dependency-free client for Tellhall, a public messaging site for AI age… |
-| 2026-09-26 05:02:02 | [PyQt5-winxp](https://pypi.org/project/PyQt5-winxp/) | 5.15.2 | HIllya51 | 29.6 MB | PyQt5 5.15.2 bindings (bundling Qt 5.15.17) rebuilt for 32-bit Windows XP - VC-… |
-| 2026-09-26 05:04:50 | [axowl-sdk](https://pypi.org/project/axowl-sdk/) | 0.1.0 | Axowl Inc. | 23.9 kB | Axowl backend SDK for Python — verify Axowl end-user JWTs against the org JWKS,… |
-| 2026-09-26 05:06:53 | [fdu](https://pypi.org/project/fdu/) | 0.1.0 | Joshua Levy | 10.6 MB | Fast, incremental file roll-up engine: hierarchical tallies over large director… |
-| 2026-09-26 05:09:42 | [ecotrace-ai](https://pypi.org/project/ecotrace-ai/) | 0.1.0 | DC | 130.5 kB | Production-oriented AI workload observability and optimization SDK |
-| 2026-09-26 05:15:57 | [bianque](https://pypi.org/project/bianque/) | 0.0.1 | BianQue Contributors | 116.0 kB | BianQue(扁鹊) - cross-platform hardware inspection & burn-in workflow: screen, ca… |
-| 2026-09-26 05:16:31 | [prefect-unirate](https://pypi.org/project/prefect-unirate/) | 0.1.0 | Unirate Team | 20.4 kB | Prefect 3 integration for the UniRate currency-exchange API — a credentials blo… |
-| 2026-09-26 05:16:32 | [dagster-unirate](https://pypi.org/project/dagster-unirate/) | 0.1.0 | Unirate Team | 19.2 kB | Dagster integration for the UniRate currency-exchange API — a ConfigurableResou… |
+| 2026-09-26 05:20:11 | [jev-factory](https://pypi.org/project/jev-factory/) | 0.9.0 | AgentCulture | 259.7 kB | Jev factory: turns nvsh's Tool-Jev fine-tune process into a reusable pipeline f… |
+| 2026-09-26 05:26:16 | [alpineagents](https://pypi.org/project/alpineagents/) | 0.1.0 | JAEGYUN JUNG | 376.9 kB | An agent framework that keeps configuration (Agent) and history (State) apart,… |
+| 2026-09-26 05:26:21 | [tpmslab](https://pypi.org/project/tpmslab/) | 0.3.0 |  | 684.4 kB | Direct conforming volume meshes for graded implicit TPMS lattices |
+| 2026-09-26 05:29:07 | [nicegui-autoform](https://pypi.org/project/nicegui-autoform/) | 0.1.1 | Owen Solberg <nicegui-autofor… | 156.6 kB | Render a NiceGUI web form from a command line interface. |
+| 2026-09-26 05:29:36 | [nicegui-treebrowser](https://pypi.org/project/nicegui-treebrowser/) | 0.1.1 | Owen Solberg <pypi@odoublewen… | 138.3 kB | A NiceGUI element that browses, previews and downloads a server-side directory… |
+| 2026-09-26 05:30:27 | [relaycheck](https://pypi.org/project/relaycheck/) | 0.1.0 | relaycheck contributors | 291.3 kB | Audit OpenAI-compatible LLM relay/proxy endpoints for model substitution, billi… |
+| 2026-09-26 05:33:19 | [okfsmith](https://pypi.org/project/okfsmith/) | 0.1.0 |  | 163.4 kB |  |
+| 2026-09-26 05:37:16 | [dryv-author](https://pypi.org/project/dryv-author/) | 0.0.1 |  | 97.8 kB | Lightweight typed Python authoring SDK for Dryv |
+| 2026-09-26 05:37:16 | [dryv-compiler](https://pypi.org/project/dryv-compiler/) | 0.0.1 |  | 96.3 kB | Runnable Python authoring compiler/provider for Dryv |
+| 2026-09-26 05:39:41 | [pycoh](https://pypi.org/project/pycoh/) | 0.1.2 | Franklin Moisés Ramírez Azofe… | 69.0 kB | CoH adapter for transformers: a directional correction in the residual stream w… |
+| 2026-09-26 05:43:20 | [jinwu-ep](https://pypi.org/project/jinwu-ep/) | 0.2.1 | Xinxiang Sun <sunxx@nao.cas.c… | 72.1 kB | Einstein Probe (WXT) instrument support for the jinwu analysis toolkit. |
+| 2026-09-26 05:43:34 | [jinwu-fermi](https://pypi.org/project/jinwu-fermi/) | 0.2.1 | Xinxiang Sun <sunxx@nao.cas.c… | 273.4 kB | Fermi/GBM instrument support for the jinwu analysis toolkit. |
+| 2026-09-26 05:43:34 | [nikasha](https://pypi.org/project/nikasha/) | 0.1.0 | Rakshit Rameshbabu <rakshitof… | 1.6 MB | Proof, not prose. Fact-check vulnerability reports against the real code at the… |
+| 2026-09-26 05:43:35 | [jinwu-gw](https://pypi.org/project/jinwu-gw/) | 0.2.1 |  | 72.9 kB | Gravitational-wave sky localization and high-energy coverage plots for jinwu. |
+| 2026-09-26 05:43:37 | [jinwu-swift](https://pypi.org/project/jinwu-swift/) | 0.2.1 | Xinxiang Sun <sunxx@nao.cas.c… | 249.5 kB | Swift/BAT instrument support for the jinwu analysis toolkit. |
+| 2026-09-26 05:46:17 | [pinmok-content](https://pypi.org/project/pinmok-content/) | 1.0.0 | 惠达浪 <crazys@126.com> | 59.4 kB | Pinmok content module |
+| 2026-09-26 05:48:32 | [pysstorytime](https://pypi.org/project/pysstorytime/) | 0.0.2 | Christophe Beauce <chris@chrp… | 19.1 kB |  |
+| 2026-09-26 05:52:56 | [korvoice](https://pypi.org/project/korvoice/) | 0.2.1 | Ivan Cherniy | 127.4 kB | Push-to-talk / toggle Russian voice input for Linux, powered by the local GigaA… |
+| 2026-09-26 06:06:00 | [judgly](https://pypi.org/project/judgly/) | 0.0.1 | Timo Lassmann | 14.0 kB | Calibrated, deterministic judgments from open language models (early developmen… |
+| 2026-09-26 06:07:48 | [continuous-cellular-engine](https://pypi.org/project/continuous-cellular-engine/) | 0.1.0 |  | 18.9 kB | Interactive Taichi engine for continuous cellular automata and Lenia-style gene… |
+| 2026-09-26 06:09:53 | [django-jalali-recurrence](https://pypi.org/project/django-jalali-recurrence/) | 2.0.0 | sanouri <s.a.nouri2004@gmail.… | 241.3 kB | Django utility for Jalali (Persian calendar) recurrence rules |

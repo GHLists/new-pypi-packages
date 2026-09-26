@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T05:20:11Z,jev-factory,0.9.0,AgentCulture,Apache-2.0,259657,"Jev factory: turns nvsh's Tool-Jev fine-tune process into a reusable pipeline for building jev-like models, with knobs and per-run decision tools, then fine-tunes its own model to drive those decisio…"
+2026-09-26T05:26:16Z,alpineagents,0.1.0,JAEGYUN JUNG,MIT,376930,"An agent framework that keeps configuration (Agent) and history (State) apart, with a plain Python function as the loop"
+2026-09-26T05:26:21Z,tpmslab,0.3.0,,MIT,684368,Direct conforming volume meshes for graded implicit TPMS lattices
+2026-09-26T05:29:07Z,nicegui-autoform,0.1.1,Owen Solberg <nicegui-autoform@odoublewen.anonaddy.com>,MIT,156648,Render a NiceGUI web form from a command line interface.
+2026-09-26T05:29:36Z,nicegui-treebrowser,0.1.1,Owen Solberg <pypi@odoublewen.anonaddy.com>,MIT,138304,"A NiceGUI element that browses, previews and downloads a server-side directory tree"
+2026-09-26T05:30:27Z,relaycheck,0.1.0,relaycheck contributors,MIT,291266,"Audit OpenAI-compatible LLM relay/proxy endpoints for model substitution, billing fraud, and capability degradation."
+2026-09-26T05:33:19Z,okfsmith,0.1.0,,,163415,
+2026-09-26T05:37:16Z,dryv-author,0.0.1,,Apache-2.0,97786,Lightweight typed Python authoring SDK for Dryv
+2026-09-26T05:37:16Z,dryv-compiler,0.0.1,,Apache-2.0,96288,Runnable Python authoring compiler/provider for Dryv
+2026-09-26T05:39:41Z,pycoh,0.1.2,Franklin Moisés Ramírez Azofeifa,Apache-2.0,69004,CoH adapter for transformers: a directional correction in the residual stream with the base model frozen
+2026-09-26T05:43:20Z,jinwu-ep,0.2.1,Xinxiang Sun <sunxx@nao.cas.cn>,GPL-3.0-or-later,72058,Einstein Probe (WXT) instrument support for the jinwu analysis toolkit.
+2026-09-26T05:43:34Z,jinwu-fermi,0.2.1,Xinxiang Sun <sunxx@nao.cas.cn>,GPL-3.0-or-later,273353,Fermi/GBM instrument support for the jinwu analysis toolkit.
+2026-09-26T05:43:34Z,nikasha,0.1.0,Rakshit Rameshbabu <rakshitoffl@gmail.com>,Apache-2.0,1577687,"Proof, not prose. Fact-check vulnerability reports against the real code at the exact version they name."
+2026-09-26T05:43:35Z,jinwu-gw,0.2.1,,GPL-3.0-or-later,72942,Gravitational-wave sky localization and high-energy coverage plots for jinwu.
+2026-09-26T05:43:37Z,jinwu-swift,0.2.1,Xinxiang Sun <sunxx@nao.cas.cn>,GPL-3.0-or-later,249530,Swift/BAT instrument support for the jinwu analysis toolkit.
+2026-09-26T05:46:17Z,pinmok-content,1.0.0,惠达浪 <crazys@126.com>,MIT,59448,Pinmok content module
+2026-09-26T05:48:32Z,pysstorytime,0.0.2,Christophe Beauce <chris@chrphb.com>,Apache-2.0,19060,
+2026-09-26T05:52:56Z,korvoice,0.2.1,Ivan Cherniy,GPL-3.0-or-later,127371,"Push-to-talk / toggle Russian voice input for Linux, powered by the local GigaAM speech model — tray, Nord GUI, no cloud."
+2026-09-26T06:06:00Z,judgly,0.0.1,Timo Lassmann,Apache-2.0,13995,"Calibrated, deterministic judgments from open language models (early development)"
+2026-09-26T06:07:48Z,continuous-cellular-engine,0.1.0,,Apache-2.0,18947,Interactive Taichi engine for continuous cellular automata and Lenia-style generative art
+2026-09-26T06:09:53Z,django-jalali-recurrence,2.0.0,sanouri <s.a.nouri2004@gmail.com>,BSD,241268,Django utility for Jalali (Persian calendar) recurrence rules
