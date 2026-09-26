@@ -8,51 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 08:19 UTC
+## Latest list — 2026-09-26 09:19 UTC
 
-New packages created between 2026-09-26 07:18 UTC and 2026-09-26 08:19 UTC.
+New packages created between 2026-09-26 08:19 UTC and 2026-09-26 09:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T08-19-15-7551Z.csv)
+[Full CSV](data/new-packages-2026-09-26T09-19-37-656075Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 07:20:10 | [tq-json](https://pypi.org/project/tq-json/) | 0.1.0 |  | 27.8 kB | Query JSON records with expressive filters |
-| 2026-09-26 07:22:30 | [pixelmap-multiview-python](https://pypi.org/project/pixelmap-multiview-python/) | 0.1.0 | Per Brendelökken <per@brendel… | 4.3 MB | 3D reconstruction from three or more photos: camera registration, dense depth,… |
-| 2026-09-26 07:26:43 | [ComDAS](https://pypi.org/project/ComDAS/) | 0.1.0 | Byron-Selvage <bselvage@mines… | 61.7 kB | DASCORE companion package that adds support for compressed DAS data |
-| 2026-09-26 07:29:11 | [srtc](https://pypi.org/project/srtc/) | 0.1.1 | Seastart <dev@seastart.cn> | 18.2 MB | SRTC Python SDK - 面向服务端 AI 场景（ASR/LLM/TTS）的实时音视频 SDK |
-| 2026-09-26 07:35:08 | [sanityops-cli](https://pypi.org/project/sanityops-cli/) | 0.1.3 | Sanityops Team | 270.6 kB | CLI tool for static defect inspection of AI logical artifacts |
-| 2026-09-26 07:36:42 | [media-optimization-engine](https://pypi.org/project/media-optimization-engine/) | 1.4.1 | Achille Kabasele <pepexykabas… | 123.5 kB | Media Optimization Engineer for Django/Python: automatic model-field optimizati… |
-| 2026-09-26 07:40:35 | [gptkeeper](https://pypi.org/project/gptkeeper/) | 0.1.1 |  | 5.8 kB | Python client for GATEKEEPER |
-| 2026-09-26 07:42:53 | [pycallm](https://pypi.org/project/pycallm/) | 0.1.0 |  | 69.3 kB | A minimal, type-safe Python library for LLM chat completions with OpenAI, Azure… |
-| 2026-09-26 07:48:49 | [reckon-py](https://pypi.org/project/reckon-py/) | 0.2.0 |  | 106.5 kB | Python client for ReckonDB |
-| 2026-09-26 07:55:36 | [living-architecture](https://pypi.org/project/living-architecture/) | 0.1.1 | MotleyAI | 97.8 kB | Spec-driven development with an enforced living architecture, as a Claude Code… |
-| 2026-09-26 07:59:11 | [puild](https://pypi.org/project/puild/) | 0.1.0 |  | 13.9 kB | A lightweight, modern build tool and command runner for Python. |
-| 2026-09-26 07:59:24 | [osint-mcp-server](https://pypi.org/project/osint-mcp-server/) | 0.2.0 | robyroro | 39.6 kB | MCP server for passive OSINT recon: whois, DNS, CT logs, email security, TLS, A… |
-| 2026-09-26 08:03:26 | [capo-greengrassv2](https://pypi.org/project/capo-greengrassv2/) | 0.1.0 |  | 381.6 kB | Python SDK for Greengrassv2. |
-| 2026-09-26 08:04:03 | [capo-groundstation](https://pypi.org/project/capo-groundstation/) | 0.1.0 |  | 444.8 kB | Python SDK for Groundstation. |
-| 2026-09-26 08:04:45 | [capo-guardduty](https://pypi.org/project/capo-guardduty/) | 0.1.0 |  | 1.1 MB | Python SDK for Guardduty. |
-| 2026-09-26 08:05:30 | [capo-health](https://pypi.org/project/capo-health/) | 0.1.0 |  | 250.2 kB | Python SDK for Health. |
-| 2026-09-26 08:06:08 | [capo-healthlake](https://pypi.org/project/capo-healthlake/) | 0.1.0 |  | 210.0 kB | Python SDK for Healthlake. |
-| 2026-09-26 08:06:41 | [capo-identitystore](https://pypi.org/project/capo-identitystore/) | 0.1.0 |  | 253.4 kB | Python SDK for Identitystore. |
-| 2026-09-26 08:07:21 | [capo-imagebuilder](https://pypi.org/project/capo-imagebuilder/) | 0.1.0 |  | 844.8 kB | Python SDK for Imagebuilder. |
-| 2026-09-26 08:07:53 | [capo-inspector](https://pypi.org/project/capo-inspector/) | 0.1.0 |  | 391.3 kB | Python SDK for Inspector. |
-| 2026-09-26 08:08:30 | [capo-inspector-scan](https://pypi.org/project/capo-inspector-scan/) | 0.1.0 |  | 100.5 kB | Python SDK for Inspector Scan. |
-| 2026-09-26 08:09:14 | [capo-inspector2](https://pypi.org/project/capo-inspector2/) | 0.1.0 |  | 896.3 kB | Python SDK for Inspector2. |
-| 2026-09-26 08:09:48 | [capo-interconnect](https://pypi.org/project/capo-interconnect/) | 0.1.0 |  | 189.8 kB | Python SDK for Interconnect. |
-| 2026-09-26 08:10:19 | [capo-internetmonitor](https://pypi.org/project/capo-internetmonitor/) | 0.1.0 |  | 245.0 kB | Python SDK for Internetmonitor. |
-| 2026-09-26 08:10:59 | [capo-invoicing](https://pypi.org/project/capo-invoicing/) | 0.1.0 |  | 289.8 kB | Python SDK for Invoicing. |
-| 2026-09-26 08:11:36 | [capo-iot](https://pypi.org/project/capo-iot/) | 0.1.0 |  | 2.2 MB | Python SDK for IOT. |
-| 2026-09-26 08:12:08 | [capo-iot-data-plane](https://pypi.org/project/capo-iot-data-plane/) | 0.1.0 |  | 193.5 kB | Python SDK for IOT Data Plane. |
-| 2026-09-26 08:12:51 | [capo-iot-events](https://pypi.org/project/capo-iot-events/) | 0.1.0 |  | 345.6 kB | Python SDK for IOT Events. |
-| 2026-09-26 08:13:22 | [capo-iot-events-data](https://pypi.org/project/capo-iot-events-data/) | 0.1.0 |  | 215.8 kB | Python SDK for IOT Events Data. |
-| 2026-09-26 08:13:51 | [capo-iot-jobs-data-plane](https://pypi.org/project/capo-iot-jobs-data-plane/) | 0.1.0 |  | 157.7 kB | Python SDK for IOT Jobs Data Plane. |
-| 2026-09-26 08:14:07 | [epokio](https://pypi.org/project/epokio/) | 0.3.0 | 8rulerstar | 408.5 kB | Watch, compare, queue and report ML training runs (Ultralytics, Hugging Face, L… |
-| 2026-09-26 08:14:31 | [capo-iot-managed-integrations](https://pypi.org/project/capo-iot-managed-integrations/) | 0.1.0 |  | 757.7 kB | Python SDK for IOT Managed Integrations. |
-| 2026-09-26 08:14:32 | [envbisect](https://pypi.org/project/envbisect/) | 0.1.0 | EnvBisect contributors | 52.9 kB | Find minimal failure-inducing environment variable changes |
-| 2026-09-26 08:15:08 | [capo-iot-wireless](https://pypi.org/project/capo-iot-wireless/) | 0.1.0 |  | 955.1 kB | Python SDK for IOT Wireless. |
-| 2026-09-26 08:15:47 | [capo-iotdeviceadvisor](https://pypi.org/project/capo-iotdeviceadvisor/) | 0.1.0 |  | 191.6 kB | Python SDK for Iotdeviceadvisor. |
-| 2026-09-26 08:16:30 | [capo-iotfleetwise](https://pypi.org/project/capo-iotfleetwise/) | 0.1.0 |  | 599.7 kB | Python SDK for Iotfleetwise. |
-| 2026-09-26 08:16:57 | [capo-iotsecuretunneling](https://pypi.org/project/capo-iotsecuretunneling/) | 0.1.0 |  | 145.5 kB | Python SDK for Iotsecuretunneling. |
-| 2026-09-26 08:17:32 | [capo-iotsitewise](https://pypi.org/project/capo-iotsitewise/) | 0.1.0 |  | 1.1 MB | Python SDK for Iotsitewise. |
-| 2026-09-26 08:18:15 | [capo-iotthingsgraph](https://pypi.org/project/capo-iotthingsgraph/) | 0.1.0 |  | 331.6 kB | Python SDK for Iotthingsgraph. |
-| 2026-09-26 08:18:50 | [capo-iottwinmaker](https://pypi.org/project/capo-iottwinmaker/) | 0.1.0 |  | 463.5 kB | Python SDK for Iottwinmaker. |
+| 2026-09-26 08:19:23 | [capo-ivs](https://pypi.org/project/capo-ivs/) | 0.1.0 |  | 406.0 kB | Python SDK for IVS. |
+| 2026-09-26 08:20:05 | [capo-ivs-realtime](https://pypi.org/project/capo-ivs-realtime/) | 0.1.0 |  | 423.4 kB | Python SDK for IVS Realtime. |
+| 2026-09-26 08:20:43 | [capo-ivschat](https://pypi.org/project/capo-ivschat/) | 0.1.0 |  | 224.3 kB | Python SDK for Ivschat. |
+| 2026-09-26 08:21:16 | [capo-kafka](https://pypi.org/project/capo-kafka/) | 0.1.0 |  | 545.4 kB | Python SDK for Kafka. |
+| 2026-09-26 08:21:40 | [eunhwa-biolabkit](https://pypi.org/project/eunhwa-biolabkit/) | 0.1.0 | Jeong Eunhwa | 7.2 kB | Educational biosensor data processing package by Jeong Eunhwa |
+| 2026-09-26 08:22:07 | [capo-kafkaconnect](https://pypi.org/project/capo-kafkaconnect/) | 0.1.0 |  | 267.5 kB | Python SDK for Kafkaconnect. |
+| 2026-09-26 08:22:41 | [capo-kendra](https://pypi.org/project/capo-kendra/) | 0.1.0 |  | 935.6 kB | Python SDK for Kendra. |
+| 2026-09-26 08:23:16 | [capo-kendra-ranking](https://pypi.org/project/capo-kendra-ranking/) | 0.1.0 |  | 164.8 kB | Python SDK for Kendra Ranking. |
+| 2026-09-26 08:23:34 | [bugdna](https://pypi.org/project/bugdna/) | 1.2.0 | Arnab Nandy | 52.8 kB | Deterministic exception fingerprinting, similarity comparison, and failure trac… |
+| 2026-09-26 08:25:01 | [humanoid-robot](https://pypi.org/project/humanoid-robot/) | 0.1.0 | odhobj <odhobj@gmail.com> | 6.0 kB | Humanoid robot package example (sensor / actuator / controller) |
+| 2026-09-26 08:25:51 | [ajgar](https://pypi.org/project/ajgar/) | 0.1.0 | Aarsh Garg <aarshg.13@gmail.c… | 14.1 kB | Write Python in pure Devanagari Hindi! शुद्ध देवनागरी हिंदी में पायथन लिखें! |
+| 2026-09-26 08:26:17 | [terrajev](https://pypi.org/project/terrajev/) | 0.1.0 | Midhun Krishna | 28.1 kB | AI-assisted Terraform plan risk and security analyzer |
+| 2026-09-26 08:29:12 | [superpositions-router-client](https://pypi.org/project/superpositions-router-client/) | 0.0.0 | Superpositions Studio <suppor… | 14.9 kB | Client for Superpositions Router: run superpositions-kit circuits on real quant… |
+| 2026-09-26 08:30:30 | [action0-celery-sched](https://pypi.org/project/action0-celery-sched/) | 0.1.0 | Simon Lachinger | 157.6 kB | Celery beat schedules defined in YAML or TOML files |
+| 2026-09-26 08:31:10 | [paulikit](https://pypi.org/project/paulikit/) | 0.1.0 | Mohammadreza Khellat, Mohamma… | 2.6 MB | Pauli-basis decomposition of large operators: fast Walsh-Hadamard transform in… |
+| 2026-09-26 08:33:50 | [aureus-enhancer](https://pypi.org/project/aureus-enhancer/) | 1.0.0 | AUREUS Project | 139.0 kB | AUREUS — Video Enhancer, Upscaler & RAW Lossless Converter with modern TUI, CLI… |
+| 2026-09-26 08:36:18 | [action0-django-acache](https://pypi.org/project/action0-django-acache/) | 0.1.0 | Simon Lachinger | 124.0 kB | Django's Redis cache backend with native async methods on redis.asyncio |
+| 2026-09-26 08:36:26 | [the-simulator](https://pypi.org/project/the-simulator/) | 0.0.0 | Pu Fanyi | 2.3 kB | Add your description here |
+| 2026-09-26 08:44:38 | [gtec-unicorn](https://pypi.org/project/gtec-unicorn/) | 0.1.0 | "g.tec medical engineering Gm… | 5.9 MB | A Unicorn API. To be used only as part of g.Pype. |
+| 2026-09-26 08:48:00 | [dsh-mol](https://pypi.org/project/dsh-mol/) | 0.0.1 |  | 94.2 kB | Local-first chemistry toolkit for AI agents (RDKit, no network): SMILES validat… |
+| 2026-09-26 08:48:19 | [rustforge-rl](https://pypi.org/project/rustforge-rl/) | 0.1.0 | Teo Jun Jie | 2.8 MB | Reinforcement learning environments and agents implemented in Rust, with Gymnas… |
+| 2026-09-26 08:48:24 | [boldcurator](https://pypi.org/project/boldcurator/) | 3.5.0 | BGE barcoding | 647.7 kB | Offline curation of BOLD specimen records against a local data-package snapshot |
+| 2026-09-26 08:49:04 | [machinome-viewer](https://pypi.org/project/machinome-viewer/) | 0.7.0 | Luis Henrique Cassis Fagundes… | 1.8 MB | The browser viewer for machinome models: the embeddable widget, the development… |
+| 2026-09-26 08:51:16 | [race-ai](https://pypi.org/project/race-ai/) | 0.1.0 |  | 24.0 kB | Race Engineering GPU cloud CLI |
+| 2026-09-26 08:55:23 | [bensz-router](https://pypi.org/project/bensz-router/) | 1.0.0 | bensz-router contributors | 98.1 kB | Public CLI and Harness adapters for the bensz-router Agent Workflow API |
+| 2026-09-26 08:56:05 | [my-math-geom-student-2026](https://pypi.org/project/my-math-geom-student-2026/) | 0.1.0 | nguyen duy manh | 3.7 kB | Thư viện tính toán và hình học chữ nhật cơ bản |
+| 2026-09-26 08:56:23 | [pyaccesskit](https://pypi.org/project/pyaccesskit/) | 0.1.0 | Arie Joe | 422.3 kB | A modern, typed, Pythonic toolkit for building and modifying Microsoft Access d… |
+| 2026-09-26 08:57:16 | [twylt](https://pypi.org/project/twylt/) | 1.0.0 |  | 12.2 kB | Python reference implementation of TWYLT, a contract for self-describing execut… |
+| 2026-09-26 08:58:49 | [vikky](https://pypi.org/project/vikky/) | 0.1.0 | VSP AI & Robotics | 13.3 kB | Python SDK for Vikky Platform: chat, vision, speech, embeddings, images and mor… |
+| 2026-09-26 09:00:57 | [intentproof-guard](https://pypi.org/project/intentproof-guard/) | 0.1.0 |  | 39.8 kB | Ask IntentProof before an AI agent is allowed to pay |
+| 2026-09-26 09:00:58 | [aitmeral-enhancer](https://pypi.org/project/aitmeral-enhancer/) | 1.0.0 | AITMERAL Project | 139.4 kB | AITMERAL — Video Enhancer, Upscaler & RAW Lossless Converter with modern TUI, C… |
+| 2026-09-26 09:01:09 | [seedgraph](https://pypi.org/project/seedgraph/) | 0.1.1 | Rachid Jeffali | 105.6 kB | Seed your SQLAlchemy models as a referentially-consistent graph — one call, sha… |
+| 2026-09-26 09:02:49 | [hls-converter-cli](https://pypi.org/project/hls-converter-cli/) | 0.9.0 | devdasher | 64.8 kB | General-purpose HLS media converter built on FFmpeg. |
+| 2026-09-26 09:03:50 | [hls-converter-gui](https://pypi.org/project/hls-converter-gui/) | 0.7.0 | devdasher | 70.8 kB | PySide6 desktop GUI for the hls-converter-cli package. |
+| 2026-09-26 09:04:58 | [sfs-v2](https://pypi.org/project/sfs-v2/) | 0.0.1.dev1 |  | 10.1 MB | Python-first SDK for SqlFileSystem v2 |
+| 2026-09-26 09:05:19 | [token-saver-engine](https://pypi.org/project/token-saver-engine/) | 1.0.0 | Ömer Faruk Eskitürk <omereski… | 159.3 kB | MCP server that saves 70-95% tokens for AI coding assistants without losing fun… |
+| 2026-09-26 09:08:00 | [verinoda](https://pypi.org/project/verinoda/) | 0.1.0 | Verinoda contributors | 5.9 MB | Evidence-first codebase analysis for coding agents: knowledge graph, architectu… |
+| 2026-09-26 09:15:54 | [cloudg](https://pypi.org/project/cloudg/) | 0.3.0 | morpheuslord <chiranjeevi.nai… | 581.3 kB | cloudg (cloud graphing) — multi-cloud infrastructure mapping, knowledge graphs… |
+| 2026-09-26 09:16:22 | [langchain-fairseal](https://pypi.org/project/langchain-fairseal/) | 0.1.0 | FairSeal <hello@fairseal.io> | 31.8 kB | LangChain callback handler that notarizes every tool call on FairSeal (on-chain… |
+| 2026-09-26 09:18:31 | [probity-mcp](https://pypi.org/project/probity-mcp/) | 0.0.1 |  | 2.1 kB | Reserved for Probity, open-source testing and evaluation for MCP servers, A2A a… |
+| 2026-09-26 09:18:35 | [probity-a2a](https://pypi.org/project/probity-a2a/) | 0.0.1 |  | 2.1 kB | Reserved for Probity, open-source testing and evaluation for MCP servers, A2A a… |
+| 2026-09-26 09:18:40 | [probity-skills](https://pypi.org/project/probity-skills/) | 0.0.1 |  | 2.2 kB | Reserved for Probity, open-source testing and evaluation for MCP servers, A2A a… |

@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T08:19:23Z,capo-ivs,0.1.0,,,405967,Python SDK for IVS.
+2026-09-26T08:20:05Z,capo-ivs-realtime,0.1.0,,,423382,Python SDK for IVS Realtime.
+2026-09-26T08:20:43Z,capo-ivschat,0.1.0,,,224268,Python SDK for Ivschat.
+2026-09-26T08:21:16Z,capo-kafka,0.1.0,,,545430,Python SDK for Kafka.
+2026-09-26T08:21:40Z,eunhwa-biolabkit,0.1.0,Jeong Eunhwa,,7211,Educational biosensor data processing package by Jeong Eunhwa
+2026-09-26T08:22:07Z,capo-kafkaconnect,0.1.0,,,267511,Python SDK for Kafkaconnect.
+2026-09-26T08:22:41Z,capo-kendra,0.1.0,,,935606,Python SDK for Kendra.
+2026-09-26T08:23:16Z,capo-kendra-ranking,0.1.0,,,164836,Python SDK for Kendra Ranking.
+2026-09-26T08:23:34Z,bugdna,1.2.0,Arnab Nandy,"MIT License Copyright (c) 2026 Arnab Nandy Permission is hereby granted, free of charge, to any per…",52815,"Deterministic exception fingerprinting, similarity comparison, and failure tracking for Python"
+2026-09-26T08:25:01Z,humanoid-robot,0.1.0,odhobj <odhobj@gmail.com>,MIT,6017,Humanoid robot package example (sensor / actuator / controller)
+2026-09-26T08:25:51Z,ajgar,0.1.0,Aarsh Garg <aarshg.13@gmail.com>,,14055,Write Python in pure Devanagari Hindi! शुद्ध देवनागरी हिंदी में पायथन लिखें!
+2026-09-26T08:26:17Z,terrajev,0.1.0,Midhun Krishna,Apache-2.0,28110,AI-assisted Terraform plan risk and security analyzer
+2026-09-26T08:29:12Z,superpositions-router-client,0.0.0,Superpositions Studio <support@superpositions.studio>,Apache-2.0,14934,Client for Superpositions Router: run superpositions-kit circuits on real quantum hardware with one Superpositions API key.
+2026-09-26T08:30:30Z,action0-celery-sched,0.1.0,Simon Lachinger,MIT,157573,Celery beat schedules defined in YAML or TOML files
+2026-09-26T08:31:10Z,paulikit,0.1.0,"Mohammadreza Khellat, Mohammad Masoumi, Saman Nasouri, Soroush Nasouri",GPL-3.0-or-later,2618294,"Pauli-basis decomposition of large operators: fast Walsh-Hadamard transform in C, bounded memory, multi-core"
+2026-09-26T08:33:50Z,aureus-enhancer,1.0.0,AUREUS Project,MIT,139028,"AUREUS — Video Enhancer, Upscaler & RAW Lossless Converter with modern TUI, CLI and local Web UI"
+2026-09-26T08:36:18Z,action0-django-acache,0.1.0,Simon Lachinger,MIT,124035,Django's Redis cache backend with native async methods on redis.asyncio
+2026-09-26T08:36:26Z,the-simulator,0.0.0,Pu Fanyi,,2269,Add your description here
+2026-09-26T08:44:38Z,gtec-unicorn,0.1.0,"""g.tec medical engineering GmbH"" <support@gtec.at>",LicenseRef-GNCL,5878206,A Unicorn API. To be used only as part of g.Pype.
+2026-09-26T08:48:00Z,dsh-mol,0.0.1,,MIT,94221,"Local-first chemistry toolkit for AI agents (RDKit, no network): SMILES validation, drawing, properties, drug-likeness, conversion, standardisation, batch clean-up | 本地优先的化学工具台"
+2026-09-26T08:48:19Z,rustforge-rl,0.1.0,Teo Jun Jie,MIT OR Apache-2.0,2772582,"Reinforcement learning environments and agents implemented in Rust, with Gymnasium-compatible Python bindings"
+2026-09-26T08:48:24Z,boldcurator,3.5.0,BGE barcoding,MIT,647719,Offline curation of BOLD specimen records against a local data-package snapshot
+2026-09-26T08:49:04Z,machinome-viewer,0.7.0,Luis Henrique Cassis Fagundes <lhfagundes@gmail.com>,AGPL-3.0-or-later,1832242,"The browser viewer for machinome models: the embeddable widget, the development server and the headless snapshot capture"
+2026-09-26T08:51:16Z,race-ai,0.1.0,,MIT,24031,Race Engineering GPU cloud CLI
+2026-09-26T08:55:23Z,bensz-router,1.0.0,bensz-router contributors,MIT,98099,Public CLI and Harness adapters for the bensz-router Agent Workflow API
+2026-09-26T08:56:05Z,my-math-geom-student-2026,0.1.0,nguyen duy manh,,3687,Thư viện tính toán và hình học chữ nhật cơ bản
+2026-09-26T08:56:23Z,pyaccesskit,0.1.0,Arie Joe,MIT,422305,"A modern, typed, Pythonic toolkit for building and modifying Microsoft Access databases and applications."
+2026-09-26T08:57:16Z,twylt,1.0.0,,"MIT License Copyright (c) 2026 TWYLT contributors Permission is hereby granted, free of charge, to…",12228,"Python reference implementation of TWYLT, a contract for self-describing executable tools."
+2026-09-26T08:58:49Z,vikky,0.1.0,VSP AI & Robotics,MIT,13337,"Python SDK for Vikky Platform: chat, vision, speech, embeddings, images and more with one key."
+2026-09-26T09:00:57Z,intentproof-guard,0.1.0,,,39786,Ask IntentProof before an AI agent is allowed to pay
+2026-09-26T09:00:58Z,aitmeral-enhancer,1.0.0,AITMERAL Project,MIT,139415,"AITMERAL — Video Enhancer, Upscaler & RAW Lossless Converter with modern TUI, CLI and local Web UI"
+2026-09-26T09:01:09Z,seedgraph,0.1.1,Rachid Jeffali,MIT,105581,"Seed your SQLAlchemy models as a referentially-consistent graph — one call, shared parents, real PKs."
+2026-09-26T09:02:49Z,hls-converter-cli,0.9.0,devdasher,MIT,64810,General-purpose HLS media converter built on FFmpeg.
+2026-09-26T09:03:50Z,hls-converter-gui,0.7.0,devdasher,MIT,70844,PySide6 desktop GUI for the hls-converter-cli package.
+2026-09-26T09:04:58Z,sfs-v2,0.0.1.dev1,,MIT,10088105,Python-first SDK for SqlFileSystem v2
+2026-09-26T09:05:19Z,token-saver-engine,1.0.0,Ömer Faruk Eskitürk <omereskiturk2@gmail.com>,BSL-1.1,159322,MCP server that saves 70-95% tokens for AI coding assistants without losing functionality
+2026-09-26T09:08:00Z,verinoda,0.1.0,Verinoda contributors,Apache-2.0,5886208,"Evidence-first codebase analysis for coding agents: knowledge graph, architecture map, claims with evidence, critique and experiments. Derived from Graphify."
+2026-09-26T09:15:54Z,cloudg,0.3.0,morpheuslord <chiranjeevi.naidu@proton.me>,MIT,581348,"cloudg (cloud graphing) — multi-cloud infrastructure mapping, knowledge graphs and security intelligence for AWS, Azure and GCP"
+2026-09-26T09:16:22Z,langchain-fairseal,0.1.0,FairSeal <hello@fairseal.io>,MIT,31785,LangChain callback handler that notarizes every tool call on FairSeal (on-chain non-repudiation)
+2026-09-26T09:18:31Z,probity-mcp,0.0.1,,MIT,2127,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
+2026-09-26T09:18:35Z,probity-a2a,0.0.1,,MIT,2127,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
+2026-09-26T09:18:40Z,probity-skills,0.0.1,,MIT,2157,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
