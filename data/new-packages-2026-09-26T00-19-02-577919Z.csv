@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-09-25T23:22:46Z,china-context-mcp,0.1.4,,MIT,58530,把中文世界的数据源桥接成 AI 工具：今日诗词、中国节假日/调休工作日判断（零凭证、免交付）
+2026-09-25T23:23:37Z,codex-aws-helper,0.3.1,mccartnick,MIT,16843033,"A CLI and local Codex plugin for AWS connections, Bedrock models, and configuration"
+2026-09-25T23:25:36Z,python-data-toolkit,1.0.0,Juan Esteban Cabral Bautista <juanescb30@outlook.com>,MIT,43241,"A reusable Python library for data cleaning, anomaly detection, report generation, and SQL query analysis."
+2026-09-25T23:26:10Z,CERM,1.0.0a1,Taishi Kawahara,Apache-2.0,1442205,Compiler-oriented finite-state models for tabular classification and regression
+2026-09-25T23:34:02Z,riverank,0.0.1,,,1758,Initial development release of the riverank Python package.
+2026-09-25T23:38:20Z,claudeglass,0.9.0,Paul Morris,MIT,4812170,"Are you using Claude Code well? Finds the habits and settings that waste tokens, from the transcripts on your machine."
+2026-09-25T23:38:38Z,agenttrafficlab,0.1.0,,"MIT License Copyright (c) 2026 Agent Traffic Lab contributors Permission is hereby granted, free of…",8382,Minimal zero-dependency client for Agent Traffic Lab
+2026-09-25T23:41:12Z,multinodal,0.1.0,Multinodal AI,Apache-2.0,100139,"Python client for the Multinodal API: collections, documents, knowledge graphs, exports and events."
+2026-09-25T23:42:30Z,spektr-audio,0.6.0,zemo <zemo@tuta.com>,MIT,1057441,"A terminal spectrum analyser for system audio: sixty render modes and fifty-five themes, drawn with braille."
+2026-09-25T23:46:20Z,docpipe-core,0.1.0,Zayn,MIT,12588,Local-first document parsing to Markdown and structured JSON.
+2026-09-25T23:52:52Z,hypergumbo-lang-scip-python,8.1.0,Hypergumbo contributors,AGPL-3.0-or-later,35749,SCIP-backed Python analyzer for hypergumbo (scip-python / pyright integration)
+2026-09-25T23:57:26Z,nicegui-bootstrap-components,0.1.0,raffieeey,MIT,10304498,"Bootstrap 5 components for NiceGUI, matching the dash-bootstrap-components API, docs, and examples"
+2026-09-26T00:00:45Z,nautobot-schedule,1.0.0a0,Eric Jacob,MIT,35102,A Scheduleing/Scheduling App for Nautobot.
+2026-09-26T00:07:33Z,xlgit,0.1.0,Michael Fowler,Apache-2.0,125452,"Cell-level diff and merge for Excel workbooks in git, keeping charts, tables and pivots"
+2026-09-26T00:07:49Z,ikc-converter-sdk,0.1.0,SITECH-iKM,,25848,IKC 转换引擎（ikc-converter-service）客户端 SDK：typed 转换资源方法 + 统一壳解包 + 身份信任头/traceId/幂等重试装配
+2026-09-26T00:09:02Z,rangemap-tayra,0.0.1,Tayra Sakurai <tayra_sakurai@icloud.com>,AGPL-3.0-or-later,37050,
+2026-09-26T00:11:40Z,effit,0.1.0,yoelAshkenazi,MIT,23122,"Custom augmented-assignment syntax for Python — write `x scale= 2` instead of `x = scale(x, 2)`."
+2026-09-26T00:13:31Z,scanmate-seal,0.0.2,Eduardo Russo,MIT,44977,Is a signed PDF still the document that was signed? Reads signature dictionaries from a PDF's own bytes and checks them.
+2026-09-26T00:14:33Z,interviewplayground,0.0.1,Jonathan Ivey <jonathan8ivey@gmail.com>,MIT,4267,Placeholder release reserving the interviewplayground name on PyPI.
+2026-09-26T00:14:44Z,whatyouship,0.1.0b1,Nikolay Larin <nikolay.larin@gmail.com>,MIT,92797,Know what you ship. Know what you install.
