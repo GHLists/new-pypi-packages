@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T11:19:08Z,geektime-cli,1.1.0,,BSD-3-Clause,73129,极客时间课程下载器 CLI
+2026-09-26T11:20:08Z,agentfox,0.3.1,,Apache-2.0,20816120,"Agent-native, vendor-neutral governance, security and compliance control plane for AI agents in production."
+2026-09-26T11:21:07Z,vads-publisher-sdk,0.1.0,Apdak Pty Ltd <support@vads.au>,MIT,124752,"VADS publisher SDK: attach disclosed, sponsored ad objects to MCP tool results (fail-open)."
+2026-09-26T11:21:15Z,zygo-sdk,0.1.3,Zygo contributors,Apache-2.0,89237,"Python client for Zygo — warm, isolated sandboxes for function-shaped code"
+2026-09-26T11:21:45Z,AquaMind,0.0.2,iamqingyun <iamhuchenyu@163.com>,MIT,4472,AquaMind - LLM application quantitative quality testing platform (PyPI placeholder)
+2026-09-26T11:32:16Z,dataleak-guard,0.1.0,Sumit <sumitkeshri.1237373@gmail.com>,,30126,Automated Machine Learning Data Leakage & Train-Test Audit Toolkit
+2026-09-26T11:34:35Z,picview,0.0.2,,,1609876,A lightweight Windows image folder viewer
+2026-09-26T11:36:52Z,solverforge-pretix,1.0.1,SolverForge contributors,AGPL-3.0-or-later,109706,Native SolverForge seat planning for pretix
+2026-09-26T11:39:29Z,mcp-write-gate,0.2.0,goran-revops,MIT,137643,"Sits between an AI agent and its MCP servers. Reads pass, writes are checked against your lists, and a read-only server refuses every write."
+2026-09-26T11:39:50Z,remembra-mcp,0.16.0,DolphyTech <admin@dolphytech.com>,MIT,5060,Remembra MCP server (stdio): session handoffs between coding agents. Installs remembra[mcp].
+2026-09-26T11:41:56Z,tokentoken,1.0.0,Sumit Banik <thesumitbanik02@gmail.com>,MIT,52095,Compile human prompts into dense LLM machine language to save 70% on token costs.
+2026-09-26T11:43:03Z,pynortecgo,0.1.0,,MIT,36872,Unofficial async client for the Monta API used by the Nortec Go app
+2026-09-26T11:44:15Z,buggly,0.1.0,,,43753,"Run your app with its errors sent to buggly, which opens an incident and a fix PR."
+2026-09-26T11:44:51Z,smartroute-ai,0.1.0,Pushkar Prabhath and SmartRoute contributors,MIT License Copyright (c) 2026 Pushkar Prabhath and SmartRoute contributors Permission is hereby gr…,147111,"Local-first, embeddable LLM prompt router with per-project adaptive learning."
+2026-09-26T11:45:59Z,relayt,0.3.0,Relayt Studio,MIT,69354,"Connect a running app to its Relayt control plane: self-registration, heartbeat, per-deployment config, entitlements/licensing, signed named commands, and error reports that become issues. Standard l…"
+2026-09-26T11:46:01Z,geocond,0.1.1,,Apache-2.0,28456,"Support-aware spatial conditioning, covariance estimation and sequential simulation"
+2026-09-26T11:46:09Z,money-tracker,0.1.0,robeth,,46368,A reliable command-line money tracker
+2026-09-26T11:46:11Z,jev-style,0.2.0,chaoliangUNSW,Apache-2.0,440493,"Small, calibrated decision models you run on your own machine, with a systemone-compatible API, a Claude Code guard, an MCP server and agent skills."
+2026-09-26T11:46:11Z,llm-safety-mcp,0.1.0,,,45327,"MCP server for LLM safety checks (prompt injection, PII detection, sanitization)"
+2026-09-26T11:50:53Z,blastfrag,0.2.2,Felipe Santibanez-Leal,MIT,138610,"Blast-fragmentation prediction from a bench pattern: the published ladder from Kuz-Ram to stacking ensembles, scored on real measured blasts under three split protocols, with the statistic named (var…"
+2026-09-26T11:52:27Z,Duong-tvtoanhoc,0.1.0,TungDuong,,3127,Thư viện toán học đơn giản
+2026-09-26T11:52:36Z,legwork-mcp,0.1.0,,MIT,159956,"Point it at a GitHub repo, get a working MCP tool back."
+2026-09-26T11:52:45Z,trajence,0.1.0,,Apache-2.0,27287,"Trajectory testing, invariant assertions, and deterministic replay for AI agents in CI/CD."
+2026-09-26T11:53:32Z,mergendb,0.2.1,Uğur Türker Kebeci,MIT,74799,"Ultra-compact, columnar, embedded database engine and custom query language (MergenQL) designed to run large workloads on small hardware."
+2026-09-26T11:54:05Z,kdeconnect-mcp,0.1.0,,MIT,360281,"MCP server que expone llamadas, SMS y notificaciones de un movil via KDE Connect, con redaccion de PII (OTP, tarjetas, IBAN, telefonos)."
+2026-09-26T11:54:37Z,theoryminer,0.1.0,Rasoul Norouzi,MIT,6225564,Assemble theories from text: extract cause-effect claims and harmonise their constructs.
+2026-09-26T11:57:45Z,pdfmd-cli,3.11.1,Ali Perdekhan,MIT,187017,"One command from Markdown to a good-looking PDF: a Pandoc wrapper with smart defaults, project-file discovery and a multi-engine fallback chain"
+2026-09-26T12:02:24Z,delphi-code,0.1.0,Mark Dorofeev,Apache-2.0,54228,Offline local code search for agents
+2026-09-26T12:14:50Z,persian-stopwords,1.0.0,Masoud Kaviani <kavianimd@gmail.com>,MIT,34040,"A comprehensive, curated list of Persian (Farsi) stopwords for text processing and NLP."
+2026-09-26T12:15:36Z,crawlweave,0.1.0,,,339542,"Scrapy + curl_cffi crawler toolkit with Redis, scored proxies, Kafka and media pipelines"
+2026-09-26T12:16:10Z,db-graphql-gateway,0.1.0,Mukesh M Lohar <mukesh1lohar@gmail.com>,MIT,249270,"Automatically generate a secure, production-ready GraphQL API from a database connection."
+2026-09-26T12:18:27Z,cairndb,0.4.1,CairnDB Contributors,MIT,142202,"Serverless database engine on blob storage: commit logs, coordination primitives, multi-key transactions, and SQLite projections — no servers anywhere"
