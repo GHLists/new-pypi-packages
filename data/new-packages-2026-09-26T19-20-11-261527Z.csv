@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T18:20:13Z,voice-agent-kit,0.1.0,Sandidas <sandidas@example.com>,Apache-2.0,503267,"An open-source, provider-agnostic realtime voice agent framework in Python"
+2026-09-26T18:20:56Z,myworld,0.2.1,,,860519,"Simulated replicas of real tools (Gmail, Calendar, Slack, GitHub, ...) for testing and training AI agents"
+2026-09-26T18:21:23Z,hydromem,0.0.2,Soundarya R,MIT,62102,Hydraulic-Inspired Hierarchical Memory for LLMs with Local-First Privacy
+2026-09-26T18:21:48Z,highhxcli,0.1.0,HighhX contributors,MIT,703781,"HighhX — a local-first, offline-first developer operations command center."
+2026-09-26T18:24:48Z,prspace,0.1.0,Ivan Gutierrez <gutierrezi0222@gmail.com>,MIT,9954,Probability spaces with the same syntax in Python and R: Pr[X == 0] = 0.25
+2026-09-26T18:26:08Z,everscribe,0.1.0,Everscribe,MIT,96358,Python SDK for the Everscribe audit-log API
+2026-09-26T18:30:17Z,dark-req,0.1.1,dark-req contributors,MIT,36171,"A requests-compatible HTTP client that fixes requests' flaws: sane default timeouts, auto-retry with backoff, rate limiting, hooks, base_url sessions, downloads with progress, and async support."
+2026-09-26T18:30:26Z,btclib-ecc,2026.9.26,The btclib developers,MIT,1962173,"Elliptic-curve arithmetic and the schemes built on it, multi-curve, accelerated by libsecp256k1 on secp256k1"
+2026-09-26T18:31:55Z,secenvvault,1.0.1,SecEnvVault Team,MIT,10337,Zero-Knowledge .env & secret orchestration CLI and SDK for developers and teams.
+2026-09-26T18:32:07Z,cachemiss,0.1.0,Cedric Conday,MIT,35958,"Explain why your Claude Code quota drained: every prompt-cache rebuild, its reason, its cost, and which sub-agent did it. Reads local transcripts only."
+2026-09-26T18:32:12Z,pyflowred,0.2.0,Melvin Neffle,Apache-2.0,23531027,"A Python port of Node-RED: the same editor, the same flow semantics, a Python runtime."
+2026-09-26T18:33:02Z,mousecat-client,0.0.1,MouseCat AI,,1740,Placeholder package for MouseCat AI.
+2026-09-26T18:36:44Z,spectraccess,0.1.2,SpectraWorks B.V.,Apache-2.0,199431,"Download satellite calibration and validation reference data in Python: RadCalNet, GSICS, AERONET, CAMS, Landsat, Sentinel-2 and EMIT, as pandas tables with per-value uncertainty records."
+2026-09-26T18:37:26Z,mojolearn-nvidia,0.8.22,Andrew Hendel,Apache-2.0,64898029,"NVIDIA (CUDA) GPU binaries for mojolearn 0.8.22 (sm_89, sm_90a); installed by pip install mojolearn"
+2026-09-26T18:41:20Z,termdle,1.1.0,,,85154,A terminal word-guessing game
+2026-09-26T18:43:56Z,nojuf07djs,0.1.0,,,79944,Python SDK for the Demo API
+2026-09-26T18:50:15Z,sphncs,0.3.1,Shawn Davis,Apache-2.0,52091,Similarity-Preserving Hierarchical Nonparametric Clustering System
+2026-09-26T18:51:30Z,nl-compiler,0.1.0,,,6905,NLC - an experimental natural language compiler for demonstrating compiler concepts
+2026-09-26T18:52:59Z,integraledger-terms,0.1.0,,Apache-2.0,598118,"Buyer gate: compare the ATR hash with the served bytes, and build the payment with that hash, before signing."
+2026-09-26T18:53:24Z,tracewash,0.0.1,Hazel Granados,Apache-2.0,15415,Opt out of people-search sites and prove it: local-first removal with rescans and evidence.
+2026-09-26T18:53:37Z,nguyentaquang-math-2026,0.1.0,Nguyễn Tá Quảng,MIT,6550,Thư viện phép tính cơ bản và công thức hình chữ nhật
+2026-09-26T18:53:58Z,tg-use,0.1.0,axisrow,MIT,39458,Руки для агент-харнеса: тестирование Telegram-ботов через web.telegram.org (CLI без LLM)
+2026-09-26T18:55:09Z,nonebot-plugin-group-rename,0.1.0,Felis <3397152010@qq.com>,MIT,28288,适用于 PJSK、BanG Dream! 等五位房间号固车群的 NoneBot2 改群名插件，按群启用后通过群消息自动更新或清空群名车牌
+2026-09-26T18:56:35Z,biolabcalc,0.2.0,BioLabCalc Contributors,"MIT License Copyright (c) 2026 BioLabCalc Contributors Permission is hereby granted, free of charge…",334785,"A multifaceted Python library and Excel extension for daily molecular biology research, PCR stoichiometry, IVT yields, protein quantification, and primer design."
+2026-09-26T18:57:34Z,jobradar-cv,1.4.1,JobRadar contributors,MIT,710320,"Self-hosted job radar: searches job boards, scores openings against your CV, and tailors an honest one-page CV for each one."
+2026-09-26T18:57:57Z,mojolearn-amd,0.8.22,Andrew Hendel,Apache-2.0,23534621,AMD (ROCm/HIP) GPU binaries for mojolearn 0.8.22 (gfx942); installed by pip install mojolearn
+2026-09-26T19:02:33Z,flowli,0.1.0,Thomas Zamojski,MIT,199385,Workflow engine: a journaled coroutine execution stack on CairnDB
+2026-09-26T19:03:54Z,tranmanhcuong-math-2026,0.1.0,Trần Mạnh Cường,MIT,6764,Thư viện phép tính cơ bản và công thức hình chữ nhật
+2026-09-26T19:07:29Z,fomite,0.1.0,The Fomite,CC0-1.0,15126,"Client for The Fomite, a field station for AI agents: durable memory, a relay to the next agent, a message board, a knowledge commons, a peer oracle, and a way to tell a human. One MCP endpoint, zero…"
+2026-09-26T19:08:00Z,pyextrusion,0.17.0,Enrique Calvo Ordonez,Apache-2.0,269495,Engineering calculation toolkit for aluminium extrusion
+2026-09-26T19:09:34Z,sqljev,0.1.0,,Apache-2.0,308460,"Ask your SQL rows questions in plain English: jev(), jev_prob(), jev_choice(), jev_score() for SQL Server, PostgreSQL, MySQL, Snowflake, Databricks, BigQuery, Redshift and DuckDB, answered by Laya (o…"
+2026-09-26T19:11:26Z,jevq,0.1.0,who <githubwho@gmail.com>,MIT,21240,jq-compatible System One noul filter
+2026-09-26T19:11:29Z,pyconnectedness,0.1.0,"Zoran Stoiljkovic, Miljana Cvetkovic",GPL-3.0-or-later,2181937,"Python library for connectedness, spillover, extreme-event, and causal risk analysis"
+2026-09-26T19:12:26Z,task-checkpoint-mcp,0.1.3,,MIT,153983,"MCP server adding checkpoint and resume to long agent tasks: roll back to any step, resume in a new session, hand off to another machine. Pure Python stdlib, zero dependencies."
+2026-09-26T19:12:54Z,epsiloneridani,0.1.0,,,751466,Autonomous worker for the eic/EpsilonEridani Lean library
+2026-09-26T19:14:23Z,modelume,0.0.1,,Apache-2.0,2442,SS1/23 model validation report generator for PRA-regulated banks
+2026-09-26T19:18:14Z,portrayal,0.0.0,Jason Patterson <jpatterson@portrayal.dev>,Apache-2.0,3204,Placeholder for Portrayal: hardware devices as declarative SVG. The first real release follows the source going public.
+2026-09-26T19:19:40Z,besselian2shape,0.1.0,Tony Rice,MIT,53628,Generate ESRI Shapefiles and Google Earth KML/KMZ files describing a solar eclipse's path from NASA Besselian elements

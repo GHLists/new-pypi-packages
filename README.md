@@ -8,36 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 18:19 UTC
+## Latest list — 2026-09-26 19:20 UTC
 
-New packages created between 2026-09-26 17:19 UTC and 2026-09-26 18:19 UTC.
+New packages created between 2026-09-26 18:19 UTC and 2026-09-26 19:20 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T18-19-40-203051Z.csv)
+[Full CSV](data/new-packages-2026-09-26T19-20-11-261527Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 17:20:12 | [ascii-synth](https://pypi.org/project/ascii-synth/) | 0.1.2 |  | 7.3 kB | A tiny terminal piano powered by pygame-ce. |
-| 2026-09-26 17:20:39 | [q0-jobs](https://pypi.org/project/q0-jobs/) | 0.1.0 | Aziz Berkay Yesilyurt <abyesi… | 162.0 kB | Add your description here |
-| 2026-09-26 17:22:02 | [dikgames](https://pypi.org/project/dikgames/) | 1.0.1 | DikGames Official Network <ad… | 13.7 kB | Official Python SDK and CLI client for DikGames Online adult visual novels and… |
-| 2026-09-26 17:24:12 | [magic-protocol](https://pypi.org/project/magic-protocol/) | 0.1.1 | wxd123 <wxd123@users.noreply.… | 8.9 kB | Magic 系列项目的跨项目契约：类型与 Protocol |
-| 2026-09-26 17:31:12 | [pythonizeyaml](https://pypi.org/project/pythonizeyaml/) | 0.4.0 | PythonizeYAML contributors | 1.5 MB | A YAML library with a PyYAML-compatible API that preserves comments, indentatio… |
-| 2026-09-26 17:32:16 | [dtypeflow](https://pypi.org/project/dtypeflow/) | 1.0.0 | Pedro José Mora Gallegos | 55.1 kB | Terminal UI to infer CSV column dtypes and convert CSV to Parquet, locally. |
-| 2026-09-26 17:35:24 | [nimbus-exo](https://pypi.org/project/nimbus-exo/) | 2.0.0 | Sven Kiefer | 89.6 kB | Light weight microphysical cloud model for exoplanets |
-| 2026-09-26 17:37:40 | [harsh-ids](https://pypi.org/project/harsh-ids/) | 0.1.0 | wulu007 <dabaobeix@gmail.com> | 10.2 MB | Python bindings for harsh, a Hashids implementation in Rust |
-| 2026-09-26 17:38:31 | [ghpy](https://pypi.org/project/ghpy/) | 0.2.99 | callmetango | 50.9 kB | A lightweight GitHub release command-line tool |
-| 2026-09-26 17:47:04 | [ibcli](https://pypi.org/project/ibcli/) | 1.0.1 | Infoblox Inc. | 476.9 kB | Python port of the Infoblox CLI (ibcli) using the ibx-nios-sdk |
-| 2026-09-26 17:48:47 | [theme-park-2024313654](https://pypi.org/project/theme-park-2024313654/) | 0.1.0 | Jeon Eunsol <ensol9199@skku.e… | 3.8 kB | Eunsol theme park package for Everland and Lotte World |
-| 2026-09-26 17:49:38 | [worklog-for-claude-code](https://pypi.org/project/worklog-for-claude-code/) | 0.1.0 | Urvin | 106.9 kB | Daily work log and token report across Claude Code accounts and devices, synced… |
-| 2026-09-26 17:55:05 | [hyper-rig](https://pypi.org/project/hyper-rig/) | 0.53.0 | Alex Mextner | 2.7 MB | rig — the dev-environment umbrella driver: set up a repo from a committed rig.y… |
-| 2026-09-26 17:55:36 | [hyper-task](https://pypi.org/project/hyper-task/) | 0.20.0 | Alex Mextner | 1.2 MB | task — the enforced ticket interface: every request becomes a well-formed ticke… |
-| 2026-09-26 17:56:10 | [verify-atom-mcp](https://pypi.org/project/verify-atom-mcp/) | 0.1.0 | Asher AI Studios | 12.0 kB | MCP server giving AI agents cryptographically signed proof of web observations… |
-| 2026-09-26 17:56:14 | [hyper-review](https://pypi.org/project/hyper-review/) | 0.38.0 |  | 2.8 MB | Multi-model read-only code review + AI panels. |
-| 2026-09-26 17:56:35 | [hyper-harness](https://pypi.org/project/hyper-harness/) | 0.7.0 | Alex Mextner | 189.3 kB | Real rate-limit proximity (percent used, reset, pace) for Claude Code, Codex, z… |
-| 2026-09-26 18:00:54 | [agentdocsbench](https://pypi.org/project/agentdocsbench/) | 0.1.0 | Souhaieb Saidi | 289.2 kB | Test whether coding agents can use product documentation to complete programmin… |
-| 2026-09-26 18:01:38 | [ordal](https://pypi.org/project/ordal/) | 0.11.0 |  | 305.7 kB | Domain-agnostic adaptive experimentation framework: experiment → measure → lear… |
-| 2026-09-26 18:01:48 | [pcrsaits](https://pypi.org/project/pcrsaits/) | 1.0.0 | Sawet Somnugpong | 42.9 kB | PCR-SAITS lightweight residual correction for SAITS and BRITS imputation |
-| 2026-09-26 18:07:25 | [virgofash](https://pypi.org/project/virgofash/) | 0.2.0 |  | 25.6 kB | Local-first deterministic asynchronous search and answer engine |
-| 2026-09-26 18:10:30 | [indextool](https://pypi.org/project/indextool/) | 0.1.0 | Marc Cats | 123.4 kB | Derive a deterministic architecture map from a Python repository, commit it, an… |
-| 2026-09-26 18:11:19 | [encrypt87](https://pypi.org/project/encrypt87/) | 1.0.0 | Bogpolt <bogpolt@gmail.com> | 11.0 kB | Base64-подобная кодировка encrypt87 (swap D <-> u) |
-| 2026-09-26 18:12:48 | [spoofy](https://pypi.org/project/spoofy/) | 1.1.0 | Matt Keeley | 44.7 kB | Checks whether domains can be spoofed, using manually tested SPF and DMARC resu… |
-| 2026-09-26 18:13:44 | [dbt-polars-catalog-databricks](https://pypi.org/project/dbt-polars-catalog-databricks/) | 0.3.0 | Jonas Crevecoeur <jonas.creve… | 25.5 kB | Databricks Unity Catalog catalog for dbt-polars |
+| 2026-09-26 18:20:13 | [voice-agent-kit](https://pypi.org/project/voice-agent-kit/) | 0.1.0 | Sandidas <sandidas@example.co… | 503.3 kB | An open-source, provider-agnostic realtime voice agent framework in Python |
+| 2026-09-26 18:20:56 | [myworld](https://pypi.org/project/myworld/) | 0.2.1 |  | 860.5 kB | Simulated replicas of real tools (Gmail, Calendar, Slack, GitHub, ...) for test… |
+| 2026-09-26 18:21:23 | [hydromem](https://pypi.org/project/hydromem/) | 0.0.2 | Soundarya R | 62.1 kB | Hydraulic-Inspired Hierarchical Memory for LLMs with Local-First Privacy |
+| 2026-09-26 18:21:48 | [highhxcli](https://pypi.org/project/highhxcli/) | 0.1.0 | HighhX contributors | 703.8 kB | HighhX — a local-first, offline-first developer operations command center. |
+| 2026-09-26 18:24:48 | [prspace](https://pypi.org/project/prspace/) | 0.1.0 | Ivan Gutierrez <gutierrezi022… | 10.0 kB | Probability spaces with the same syntax in Python and R: Pr[X == 0] = 0.25 |
+| 2026-09-26 18:26:08 | [everscribe](https://pypi.org/project/everscribe/) | 0.1.0 | Everscribe | 96.4 kB | Python SDK for the Everscribe audit-log API |
+| 2026-09-26 18:30:17 | [dark-req](https://pypi.org/project/dark-req/) | 0.1.1 | dark-req contributors | 36.2 kB | A requests-compatible HTTP client that fixes requests' flaws: sane default time… |
+| 2026-09-26 18:30:26 | [btclib-ecc](https://pypi.org/project/btclib-ecc/) | 2026.9.26 | The btclib developers | 2.0 MB | Elliptic-curve arithmetic and the schemes built on it, multi-curve, accelerated… |
+| 2026-09-26 18:31:55 | [secenvvault](https://pypi.org/project/secenvvault/) | 1.0.1 | SecEnvVault Team | 10.3 kB | Zero-Knowledge .env & secret orchestration CLI and SDK for developers and teams. |
+| 2026-09-26 18:32:07 | [cachemiss](https://pypi.org/project/cachemiss/) | 0.1.0 | Cedric Conday | 36.0 kB | Explain why your Claude Code quota drained: every prompt-cache rebuild, its rea… |
+| 2026-09-26 18:32:12 | [pyflowred](https://pypi.org/project/pyflowred/) | 0.2.0 | Melvin Neffle | 23.5 MB | A Python port of Node-RED: the same editor, the same flow semantics, a Python r… |
+| 2026-09-26 18:33:02 | [mousecat-client](https://pypi.org/project/mousecat-client/) | 0.0.1 | MouseCat AI | 1.7 kB | Placeholder package for MouseCat AI. |
+| 2026-09-26 18:36:44 | [spectraccess](https://pypi.org/project/spectraccess/) | 0.1.2 | SpectraWorks B.V. | 199.4 kB | Download satellite calibration and validation reference data in Python: RadCalN… |
+| 2026-09-26 18:37:26 | [mojolearn-nvidia](https://pypi.org/project/mojolearn-nvidia/) | 0.8.22 | Andrew Hendel | 64.9 MB | NVIDIA (CUDA) GPU binaries for mojolearn 0.8.22 (sm_89, sm_90a); installed by p… |
+| 2026-09-26 18:41:20 | [termdle](https://pypi.org/project/termdle/) | 1.1.0 |  | 85.2 kB | A terminal word-guessing game |
+| 2026-09-26 18:43:56 | [nojuf07djs](https://pypi.org/project/nojuf07djs/) | 0.1.0 |  | 79.9 kB | Python SDK for the Demo API |
+| 2026-09-26 18:50:15 | [sphncs](https://pypi.org/project/sphncs/) | 0.3.1 | Shawn Davis | 52.1 kB | Similarity-Preserving Hierarchical Nonparametric Clustering System |
+| 2026-09-26 18:51:30 | [nl-compiler](https://pypi.org/project/nl-compiler/) | 0.1.0 |  | 6.9 kB | NLC - an experimental natural language compiler for demonstrating compiler conc… |
+| 2026-09-26 18:52:59 | [integraledger-terms](https://pypi.org/project/integraledger-terms/) | 0.1.0 |  | 598.1 kB | Buyer gate: compare the ATR hash with the served bytes, and build the payment w… |
+| 2026-09-26 18:53:24 | [tracewash](https://pypi.org/project/tracewash/) | 0.0.1 | Hazel Granados | 15.4 kB | Opt out of people-search sites and prove it: local-first removal with rescans a… |
+| 2026-09-26 18:53:37 | [nguyentaquang-math-2026](https://pypi.org/project/nguyentaquang-math-2026/) | 0.1.0 | Nguyễn Tá Quảng | 6.5 kB | Thư viện phép tính cơ bản và công thức hình chữ nhật |
+| 2026-09-26 18:53:58 | [tg-use](https://pypi.org/project/tg-use/) | 0.1.0 | axisrow | 39.5 kB | Руки для агент-харнеса: тестирование Telegram-ботов через web.telegram.org (CLI… |
+| 2026-09-26 18:55:09 | [nonebot-plugin-group-rename](https://pypi.org/project/nonebot-plugin-group-rename/) | 0.1.0 | Felis <3397152010@qq.com> | 28.3 kB | 适用于 PJSK、BanG Dream! 等五位房间号固车群的 NoneBot2 改群名插件，按群启用后通过群消息自动更新或清空群名车牌 |
+| 2026-09-26 18:56:35 | [biolabcalc](https://pypi.org/project/biolabcalc/) | 0.2.0 | BioLabCalc Contributors | 334.8 kB | A multifaceted Python library and Excel extension for daily molecular biology r… |
+| 2026-09-26 18:57:34 | [jobradar-cv](https://pypi.org/project/jobradar-cv/) | 1.4.1 | JobRadar contributors | 710.3 kB | Self-hosted job radar: searches job boards, scores openings against your CV, an… |
+| 2026-09-26 18:57:57 | [mojolearn-amd](https://pypi.org/project/mojolearn-amd/) | 0.8.22 | Andrew Hendel | 23.5 MB | AMD (ROCm/HIP) GPU binaries for mojolearn 0.8.22 (gfx942); installed by pip ins… |
+| 2026-09-26 19:02:33 | [flowli](https://pypi.org/project/flowli/) | 0.1.0 | Thomas Zamojski | 199.4 kB | Workflow engine: a journaled coroutine execution stack on CairnDB |
+| 2026-09-26 19:03:54 | [tranmanhcuong-math-2026](https://pypi.org/project/tranmanhcuong-math-2026/) | 0.1.0 | Trần Mạnh Cường | 6.8 kB | Thư viện phép tính cơ bản và công thức hình chữ nhật |
+| 2026-09-26 19:07:29 | [fomite](https://pypi.org/project/fomite/) | 0.1.0 | The Fomite | 15.1 kB | Client for The Fomite, a field station for AI agents: durable memory, a relay t… |
+| 2026-09-26 19:08:00 | [pyextrusion](https://pypi.org/project/pyextrusion/) | 0.17.0 | Enrique Calvo Ordonez | 269.5 kB | Engineering calculation toolkit for aluminium extrusion |
+| 2026-09-26 19:09:34 | [sqljev](https://pypi.org/project/sqljev/) | 0.1.0 |  | 308.5 kB | Ask your SQL rows questions in plain English: jev(), jev_prob(), jev_choice(),… |
+| 2026-09-26 19:11:26 | [jevq](https://pypi.org/project/jevq/) | 0.1.0 | who <githubwho@gmail.com> | 21.2 kB | jq-compatible System One noul filter |
+| 2026-09-26 19:11:29 | [pyconnectedness](https://pypi.org/project/pyconnectedness/) | 0.1.0 | Zoran Stoiljkovic, Miljana Cv… | 2.2 MB | Python library for connectedness, spillover, extreme-event, and causal risk ana… |
+| 2026-09-26 19:12:26 | [task-checkpoint-mcp](https://pypi.org/project/task-checkpoint-mcp/) | 0.1.3 |  | 154.0 kB | MCP server adding checkpoint and resume to long agent tasks: roll back to any s… |
+| 2026-09-26 19:12:54 | [epsiloneridani](https://pypi.org/project/epsiloneridani/) | 0.1.0 |  | 751.5 kB | Autonomous worker for the eic/EpsilonEridani Lean library |
+| 2026-09-26 19:14:23 | [modelume](https://pypi.org/project/modelume/) | 0.0.1 |  | 2.4 kB | SS1/23 model validation report generator for PRA-regulated banks |
+| 2026-09-26 19:18:14 | [portrayal](https://pypi.org/project/portrayal/) | 0.0.0 | Jason Patterson <jpatterson@p… | 3.2 kB | Placeholder for Portrayal: hardware devices as declarative SVG. The first real… |
+| 2026-09-26 19:19:40 | [besselian2shape](https://pypi.org/project/besselian2shape/) | 0.1.0 | Tony Rice | 53.6 kB | Generate ESRI Shapefiles and Google Earth KML/KMZ files describing a solar ecli… |
