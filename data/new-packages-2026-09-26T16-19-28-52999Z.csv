@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T15:19:47Z,passvault-cli,0.1.2,passvault contributors,"MIT License Copyright (c) 2026 passvault contributors Permission is hereby granted, free of charge,…",25972,"A local, encrypted, offline password manager CLI."
+2026-09-26T15:21:55Z,anvilbook,0.1.2,Mart Traagel,MIT,85774,Auction house price history and crafting profit for WoW Forever (Classic beta)
+2026-09-26T15:22:57Z,cringe-filter,0.1.0,Sterling Baird,MIT,296511,"Strip AI tells from prose: a linter, scorer and prompt builder measured on 1.9M words of human vs. Claude writing"
+2026-09-26T15:27:35Z,c2ai,1.2.13,Italo Dariff <itsdariff@gmail.com>,,13388,CLI tool to convert code into a formatted AI prompt with built-in DLP
+2026-09-26T15:37:54Z,code-oracle,0.1.0,Wahyu Febri Tamtomo <wahyuzero@users.noreply.github.com>,Apache-2.0,3828878,Sub-50ms Neuro-Symbolic Verification Oracle for AI Coding Agents
+2026-09-26T15:38:59Z,tokenjar,1.0.1,Ömer Faruk Eskitürk <omereskiturk2@gmail.com>,BSL-1.1,176168,MCP server that saves 70-95% tokens for AI coding assistants without losing functionality
+2026-09-26T15:39:24Z,svpc-ai,1.0.0,,MIT,18830,A client for the SVPC AI HTTP API.
+2026-09-26T15:44:55Z,soigia-agent,0.1.2,Soi Gia <sojgja@gmail.com>,BSD-3-Clause,114367,"Soi Gia agent package — scaffolding + publish workflow, published to PyPI"
+2026-09-26T15:45:05Z,readystack-model-card-lint-gpai,1.0.5,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,38923,"Lints a Hugging Face model card against the Hub metadata spec and the EU AI Act general-purpose AI documentation duties, line by line. (bundled Node.js runtime)"
+2026-09-26T15:45:24Z,readystack-view-in-browser-leak-audit,1.0.2,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,35962,"24 rules read the .html file you are about to open in the browser and flag every line that behaves differently once the page has a public URL: live API keys, localhost and file:// paths, http:// reso…"
+2026-09-26T15:45:41Z,readystack-ai-model-license-lint,1.0.5,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,37225,"Reads the open-weight model IDs in your code and names the licence clause that binds you - 22 rules, 17 findings on a 33-line fixture (bundled Node.js runtime)"
+2026-09-26T15:45:58Z,readystack-bulk-sender-lint,1.0.5,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,36542,"21 dated checks over SPF, DKIM, DMARC, RFC 8058 one-click unsubscribe and TLS, in VS Code and in the browser (bundled Node.js runtime)"
+2026-09-26T15:47:39Z,hypothex,0.0.1,Shreyas Vinaya Sathyanarayana <shreyas.college@gmail.com>,Apache-2.0,2011,Experiment tracker and control panel for AI researchers and their agents. (Name reserved; first release coming soon.)
+2026-09-26T15:48:12Z,latent-anything,1.0.0,latent-anything contributors,MIT,1521492,"Latent Understanding, Manipulation & Execution Network — a Python framework that treats latent space as a first-class object"
+2026-09-26T15:53:49Z,terrestream-local,0.1.0,Aerodyne Inc.,Apache-2.0,70849,Local authenticated Terrestream device client
+2026-09-26T15:56:18Z,kiss-agent-sdk,0.0.19,kiss contributors,MIT,64595601,Embed the kiss coding agent in a Python program
+2026-09-26T15:56:25Z,downshift,0.1.0.dev0,Anagha,MIT,7386840,"Cut LLM costs per PR: find every LLM call, prove which can use cheaper models, and show the cost impact of every change."
+2026-09-26T15:56:34Z,memory-boost,0.1.0,Arnau González,MIT,510200,"Memory that reviews itself: a markdown wiki for coding agents over MCP, plus drift reports on the wiki and digests of your own sessions."
+2026-09-26T15:56:51Z,nashbench,0.1.0,Eason Yu,Apache-2.0,56268,JAX two-player zero-sum imperfect-information games for benchmarking Nash equilibrium solvers.
+2026-09-26T15:57:08Z,brivio,0.1.0,Brivio <dev@brivio.ro>,MIT,459435,"Official Brivio SDK — invoicing, e-Factura, contacts and more for the Romanian market"
+2026-09-26T15:58:30Z,goodreads-mcp-ai,2026.9.0,Danathar,GPL-3.0-only,72853,"Read-only MCP server for Goodreads (no API required): search, books, shelves, ratings"
+2026-09-26T15:59:36Z,onlineafspraken-slots-mcp,0.1.0,Richard van den Berg,MIT,15909,Read available slots from a public OnlineAfspraken widget URL without an account.
+2026-09-26T16:00:18Z,gmssl-fast,0.1.0,,Apache-2.0,3027003,基于 GmSSL 的国密算法（SM2/SM3/SM4）Python 扩展，静态链接、零系统依赖
+2026-09-26T16:01:18Z,dsh-rlm,0.1.0,,,152837,"Python-native agents on DeepSeek Harness, launched with uvx"
+2026-09-26T16:01:18Z,remote-jobs-digest,0.1.1,Arnau González del Molino,MIT,319922,"A daily digest of remote jobs you are actually eligible for: company career boards (Greenhouse, Ashby, Lever…) and remote job APIs, filtered by a declarative profile."
+2026-09-26T16:03:15Z,labmcp-ika,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,36143,"MCP server for IKA hotplate stirrers and overhead stirrers (NAMUR commands): heat, stir, watchdog, wait for temperature."
+2026-09-26T16:03:26Z,pycasso-ascii,1.0.2,,AGPL-3.0-or-later,54453,A terminal ASCII art generator for converting images into monochrome and true-color ASCII artwork.
+2026-09-26T16:04:19Z,labmcp-julabo,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,34021,"MCP server for JULABO heating and refrigerated circulators (CORIO, MAGIO, DYNEO): read temperatures, set setpoint, start/stop, alarms."
+2026-09-26T16:06:28Z,sphinx-rtl,0.1.0,Leonard HEYWANG,,52954,"Automated RTL (VHDL, Verilog, SystemVerilog) documentation generator."
+2026-09-26T16:07:18Z,skimtube,0.1.0,Arnau González,MIT,890038,Turn the YouTube channels you never have time to watch into a searchable Markdown knowledge base for you and your agents.
+2026-09-26T16:08:39Z,codexray-sdk,0.1.1,CodeXRay authors,MIT,43465,CodeXRay telemetry SDK — watch your software think
+2026-09-26T16:10:11Z,bpatch,0.1.0,rus07tam <rus07tam+contact@ruject.fun>,Unlicense,78597,A library for runtime Python bytecode patching.
+2026-09-26T16:10:23Z,ada-nexus,0.0.0,STRITZ,Proprietary,713,Name reserved for an internal STRITZ package. Not installable.
+2026-09-26T16:10:24Z,ada-pip-blog,0.0.0,STRITZ,Proprietary,722,Name reserved for an internal STRITZ package. Not installable.
+2026-09-26T16:10:25Z,ada-pip-cadence,0.0.0,STRITZ,Proprietary,726,Name reserved for an internal STRITZ package. Not installable.
+2026-09-26T16:10:26Z,ada-pip-common,0.0.0,STRITZ,Proprietary,726,Name reserved for an internal STRITZ package. Not installable.
+2026-09-26T16:12:00Z,privyx,0.1.1rc1,Privyx Contributors,MIT,525720,AI data privacy gateway: privacy engine + proxy for LLM providers
+2026-09-26T16:14:23Z,efir-bot,1.0.0,Red_Artem39,MIT,25487,Библиотека для ботов Эфира: HTTP API и шлюз событий
+2026-09-26T16:15:06Z,graphweave,0.1.0,,,833961,Local GitHub repository tracing with a bundled interactive graph viewer.
+2026-09-26T16:17:05Z,cn-llm-router,0.1.0,,MIT,111057,国内大模型选择器/路由器：自然语言任务分类 × 评分矩阵推荐 × OpenAI 兼容网关路由
+2026-09-26T16:17:39Z,labmcp-mettler-toledo,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,21775,"MCP server for Mettler Toledo laboratory balances (MT-SICS): weigh, tare, zero, log drift, adjust."
+2026-09-26T16:18:42Z,labmcp-ocean-spectrometer,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,54472,"MCP server for Ocean Insight / Ocean Optics spectrometers (python-seabreeze): acquire spectra, auto integration time, dark/reference, absorbance and transmittance, peak finding."
+2026-09-26T16:18:54Z,kalium,0.1.0,Hiro Dev,MIT,17084,Unofficial independent Python client for the KaliumLabs API.
+2026-09-26T16:19:07Z,dbt-polars-catalog-azure,0.2.0,Jonas Crevecoeur <jonas.crevecoeur@dataminded.com>,Apache-2.0,11863,Azure Blob Storage / ADLS Gen2 catalog for dbt-polars
