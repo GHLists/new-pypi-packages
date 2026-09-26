@@ -1,0 +1,12 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T03:22:16Z,griddyn,0.12.0,Philip Top <top1@llnl.gov>,BSD-3-Clause,93967374,Python bindings for GridDyn
+2026-09-26T03:22:46Z,datalayer-decks,1.0.4,,,45425491,"Datalayer Decks: presentations described as data, served with their Reactor interface by one command"
+2026-09-26T03:23:44Z,standstill,0.2.0,,Mozilla Public License Version 2.0 ================================== 1. Definitions --------------…,341686,AWS Control Tower management CLI
+2026-09-26T03:34:48Z,better-cheaper-llm,0.1.0,davidzna,Apache-2.0,69785,"Use Jev instead of an LLM for RAG decisions: relevance grading, query routing, hallucination checks and LLM-as-a-judge evals. Faster, cheaper, measured first."
+2026-09-26T03:41:11Z,jevfilter,0.1.0,Damien Smith,MIT,107194,Judge content against plain-English topic definitions with TypeSafe's Jev.
+2026-09-26T03:57:12Z,clearsigned-mcp,0.1.0,,MIT,17195,"MCP server for Clearsigned: calibrated claim verification for AI agents, paid per call over x402, receipts verified offline."
+2026-09-26T04:11:35Z,plnlab,0.1.1,,MIT,20595,Notebook-ready NLP lab experiments for Jupyter and Google Colab
+2026-09-26T04:17:37Z,code-transpiler-python,0.2.0,Tarek Wasfy,MIT,37168867,Python package facade and Tkinter GUI for Tarek Wasfy's Code Transpiler
+2026-09-26T04:18:00Z,musebank,1.6.0,,MIT,64258,"Client for musebank, the bank for muses: signed requests (musebank-v1), payout registry, runway, webhooks."
+2026-09-26T04:18:13Z,iantirta-media,0.1.0,"""Iantirta.com"" <ian@iantirta.com>",Apache-2.0,30402,Reusable media downloading and metadata utilities for Python
+2026-09-26T04:18:46Z,alethech,0.1.0,AliceLabs,MIT,40214,"Verifiable agent continuity protocol — local-first, zero-LLM, zero-blockchain"
