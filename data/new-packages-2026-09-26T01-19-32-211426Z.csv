@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T00:19:24Z,qsarkit-learn,0.5.0,Frederico Schmitt Kremer,MIT,955239,"A focused Python library for QSAR modeling: structure curation, molecular representation, model building and selection, OECD-aligned validation, applicability domain, uncertainty and SAR interpretati…"
+2026-09-26T00:30:57Z,pump-gcp-radar,0.1.0,Mor Michaeli,MIT,7499,"Extra commands for gcp-radar, added through its plugin hook"
+2026-09-26T00:31:10Z,ipython-freshrun,0.1.0b0,Yann Ziegler,EUPL-1.2,37651,Run Python scripts in genuinely fresh interactive IPython sessions
+2026-09-26T00:32:28Z,taken-gh,0.4.0,RogueAlg0,MIT,50742,Check whether a GitHub issue is already taken before you volunteer for it.
+2026-09-26T00:34:35Z,promptdispatch,0.0.1,Hruthik Kommuru,MIT,4390,A framework-agnostic Python library for classifying LLM prompts and routing requests to the best-fit model and provider.
+2026-09-26T00:34:37Z,gateshield,0.0.1,Matheus Gasperazzo,MIT,70268,Policy-driven security orchestration for hardened CI/CD pipelines
+2026-09-26T00:34:57Z,tugyt,0.2.3,ftnick,MIT,15299,A focused YouTube downloader powered by yt-dlp.
+2026-09-26T00:39:29Z,reflex-silverpoint-react,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,MIT,58248,"The 33 silverpoint charts (Renaissance silverpoint drawing style) for Reflex, wrapping @silverpoint/react"
+2026-09-26T00:46:43Z,humanauthn,0.1.0,Zelf / Verifik,MIT,239126,Official Python SDK for HumanAuthn (by Verifik)
+2026-09-26T00:46:53Z,scanmate-merge,0.0.2,Eduardo Russo,MIT,57399,"Many files in, one PDF out: PDFs, images and rasters, in the order given, mixed freely."
+2026-09-26T00:54:21Z,swe-scraper-icims,0.1.0,Furkan Candar,MIT,12182,Experimental public iCIMS provider for swe-internship-scraper.
+2026-09-26T00:54:27Z,swe-internship-scraper,1.0.0rc2,Furkan Candar,MIT,116341,Scrape official ATS job boards for software engineering internships.
+2026-09-26T00:55:12Z,mdq,0.1.0,Fábio Macêdo Mendes,MIT,271463,Reference schemas and validation CLI for the MDQ question file format.
+2026-09-26T00:55:40Z,stochast,0.1.0,,MIT,65634,A testing tool for LLM agents that reports statistics instead of verdicts.
+2026-09-26T00:59:52Z,nexus-sphere-mcp,0.2.0,Nexus Sphere,Proprietary,133116,"Nexus Sphere AI Meeting for coding agents: a multi-AI second opinion inside Claude Code, Codex and Cursor (MCP server + CLI)."
+2026-09-26T01:03:38Z,osmimage,0.1.0,AngLaboratory <anglaboratory@gmail.com>,MIT,26886,"Render an OpenStreetMap tile image from latitude, longitude and zoom, returning a Pillow image ready for further drawing."
+2026-09-26T01:08:26Z,composable-jev,1.0.0,Fox Islam <foxislam@outlook.com>,MIT,62426,"A library to chain Jev calls, for the deranged and enlightened"
+2026-09-26T01:12:52Z,fuju-trace-sqlite,0.1.11,Fuju Trace,MIT,3291,SQLite storage adapter for Fuju Trace

@@ -8,31 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 00:19 UTC
+## Latest list — 2026-09-26 01:19 UTC
 
-New packages created between 2026-09-25 23:19 UTC and 2026-09-26 00:19 UTC.
+New packages created between 2026-09-26 00:19 UTC and 2026-09-26 01:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T00-19-02-577919Z.csv)
+[Full CSV](data/new-packages-2026-09-26T01-19-32-211426Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-25 23:22:46 | [china-context-mcp](https://pypi.org/project/china-context-mcp/) | 0.1.4 |  | 58.5 kB | 把中文世界的数据源桥接成 AI 工具：今日诗词、中国节假日/调休工作日判断（零凭证、免交付） |
-| 2026-09-25 23:23:37 | [codex-aws-helper](https://pypi.org/project/codex-aws-helper/) | 0.3.1 | mccartnick | 16.8 MB | A CLI and local Codex plugin for AWS connections, Bedrock models, and configura… |
-| 2026-09-25 23:25:36 | [python-data-toolkit](https://pypi.org/project/python-data-toolkit/) | 1.0.0 | Juan Esteban Cabral Bautista… | 43.2 kB | A reusable Python library for data cleaning, anomaly detection, report generati… |
-| 2026-09-25 23:26:10 | [CERM](https://pypi.org/project/CERM/) | 1.0.0a1 | Taishi Kawahara | 1.4 MB | Compiler-oriented finite-state models for tabular classification and regression |
-| 2026-09-25 23:34:02 | [riverank](https://pypi.org/project/riverank/) | 0.0.1 |  | 1.8 kB | Initial development release of the riverank Python package. |
-| 2026-09-25 23:38:20 | [claudeglass](https://pypi.org/project/claudeglass/) | 0.9.0 | Paul Morris | 4.8 MB | Are you using Claude Code well? Finds the habits and settings that waste tokens… |
-| 2026-09-25 23:38:38 | [agenttrafficlab](https://pypi.org/project/agenttrafficlab/) | 0.1.0 |  | 8.4 kB | Minimal zero-dependency client for Agent Traffic Lab |
-| 2026-09-25 23:41:12 | [multinodal](https://pypi.org/project/multinodal/) | 0.1.0 | Multinodal AI | 100.1 kB | Python client for the Multinodal API: collections, documents, knowledge graphs,… |
-| 2026-09-25 23:42:30 | [spektr-audio](https://pypi.org/project/spektr-audio/) | 0.6.0 | zemo <zemo@tuta.com> | 1.1 MB | A terminal spectrum analyser for system audio: sixty render modes and fifty-fiv… |
-| 2026-09-25 23:46:20 | [docpipe-core](https://pypi.org/project/docpipe-core/) | 0.1.0 | Zayn | 12.6 kB | Local-first document parsing to Markdown and structured JSON. |
-| 2026-09-25 23:52:52 | [hypergumbo-lang-scip-python](https://pypi.org/project/hypergumbo-lang-scip-python/) | 8.1.0 | Hypergumbo contributors | 35.7 kB | SCIP-backed Python analyzer for hypergumbo (scip-python / pyright integration) |
-| 2026-09-25 23:57:26 | [nicegui-bootstrap-components](https://pypi.org/project/nicegui-bootstrap-components/) | 0.1.0 | raffieeey | 10.3 MB | Bootstrap 5 components for NiceGUI, matching the dash-bootstrap-components API,… |
-| 2026-09-26 00:00:45 | [nautobot-schedule](https://pypi.org/project/nautobot-schedule/) | 1.0.0a0 | Eric Jacob | 35.1 kB | A Scheduleing/Scheduling App for Nautobot. |
-| 2026-09-26 00:07:33 | [xlgit](https://pypi.org/project/xlgit/) | 0.1.0 | Michael Fowler | 125.5 kB | Cell-level diff and merge for Excel workbooks in git, keeping charts, tables an… |
-| 2026-09-26 00:07:49 | [ikc-converter-sdk](https://pypi.org/project/ikc-converter-sdk/) | 0.1.0 | SITECH-iKM | 25.8 kB | IKC 转换引擎（ikc-converter-service）客户端 SDK：typed 转换资源方法 + 统一壳解包 + 身份信任头/traceId/幂等重… |
-| 2026-09-26 00:09:02 | [rangemap-tayra](https://pypi.org/project/rangemap-tayra/) | 0.0.1 | Tayra Sakurai <tayra_sakurai@… | 37.0 kB |  |
-| 2026-09-26 00:11:40 | [effit](https://pypi.org/project/effit/) | 0.1.0 | yoelAshkenazi | 23.1 kB | Custom augmented-assignment syntax for Python — write `x scale= 2` instead of `… |
-| 2026-09-26 00:13:31 | [scanmate-seal](https://pypi.org/project/scanmate-seal/) | 0.0.2 | Eduardo Russo | 45.0 kB | Is a signed PDF still the document that was signed? Reads signature dictionarie… |
-| 2026-09-26 00:14:33 | [interviewplayground](https://pypi.org/project/interviewplayground/) | 0.0.1 | Jonathan Ivey <jonathan8ivey@… | 4.3 kB | Placeholder release reserving the interviewplayground name on PyPI. |
-| 2026-09-26 00:14:44 | [whatyouship](https://pypi.org/project/whatyouship/) | 0.1.0b1 | Nikolay Larin <nikolay.larin@… | 92.8 kB | Know what you ship. Know what you install. |
+| 2026-09-26 00:19:24 | [qsarkit-learn](https://pypi.org/project/qsarkit-learn/) | 0.5.0 | Frederico Schmitt Kremer | 955.2 kB | A focused Python library for QSAR modeling: structure curation, molecular repre… |
+| 2026-09-26 00:30:57 | [pump-gcp-radar](https://pypi.org/project/pump-gcp-radar/) | 0.1.0 | Mor Michaeli | 7.5 kB | Extra commands for gcp-radar, added through its plugin hook |
+| 2026-09-26 00:31:10 | [ipython-freshrun](https://pypi.org/project/ipython-freshrun/) | 0.1.0b0 | Yann Ziegler | 37.7 kB | Run Python scripts in genuinely fresh interactive IPython sessions |
+| 2026-09-26 00:32:28 | [taken-gh](https://pypi.org/project/taken-gh/) | 0.4.0 | RogueAlg0 | 50.7 kB | Check whether a GitHub issue is already taken before you volunteer for it. |
+| 2026-09-26 00:34:35 | [promptdispatch](https://pypi.org/project/promptdispatch/) | 0.0.1 | Hruthik Kommuru | 4.4 kB | A framework-agnostic Python library for classifying LLM prompts and routing req… |
+| 2026-09-26 00:34:37 | [gateshield](https://pypi.org/project/gateshield/) | 0.0.1 | Matheus Gasperazzo | 70.3 kB | Policy-driven security orchestration for hardened CI/CD pipelines |
+| 2026-09-26 00:34:57 | [tugyt](https://pypi.org/project/tugyt/) | 0.2.3 | ftnick | 15.3 kB | A focused YouTube downloader powered by yt-dlp. |
+| 2026-09-26 00:39:29 | [reflex-silverpoint-react](https://pypi.org/project/reflex-silverpoint-react/) | 0.1.0 | Ernesto Crespo <ecrespo@gmail… | 58.2 kB | The 33 silverpoint charts (Renaissance silverpoint drawing style) for Reflex, w… |
+| 2026-09-26 00:46:43 | [humanauthn](https://pypi.org/project/humanauthn/) | 0.1.0 | Zelf / Verifik | 239.1 kB | Official Python SDK for HumanAuthn (by Verifik) |
+| 2026-09-26 00:46:53 | [scanmate-merge](https://pypi.org/project/scanmate-merge/) | 0.0.2 | Eduardo Russo | 57.4 kB | Many files in, one PDF out: PDFs, images and rasters, in the order given, mixed… |
+| 2026-09-26 00:54:21 | [swe-scraper-icims](https://pypi.org/project/swe-scraper-icims/) | 0.1.0 | Furkan Candar | 12.2 kB | Experimental public iCIMS provider for swe-internship-scraper. |
+| 2026-09-26 00:54:27 | [swe-internship-scraper](https://pypi.org/project/swe-internship-scraper/) | 1.0.0rc2 | Furkan Candar | 116.3 kB | Scrape official ATS job boards for software engineering internships. |
+| 2026-09-26 00:55:12 | [mdq](https://pypi.org/project/mdq/) | 0.1.0 | Fábio Macêdo Mendes | 271.5 kB | Reference schemas and validation CLI for the MDQ question file format. |
+| 2026-09-26 00:55:40 | [stochast](https://pypi.org/project/stochast/) | 0.1.0 |  | 65.6 kB | A testing tool for LLM agents that reports statistics instead of verdicts. |
+| 2026-09-26 00:59:52 | [nexus-sphere-mcp](https://pypi.org/project/nexus-sphere-mcp/) | 0.2.0 | Nexus Sphere | 133.1 kB | Nexus Sphere AI Meeting for coding agents: a multi-AI second opinion inside Cla… |
+| 2026-09-26 01:03:38 | [osmimage](https://pypi.org/project/osmimage/) | 0.1.0 | AngLaboratory <anglaboratory@… | 26.9 kB | Render an OpenStreetMap tile image from latitude, longitude and zoom, returning… |
+| 2026-09-26 01:08:26 | [composable-jev](https://pypi.org/project/composable-jev/) | 1.0.0 | Fox Islam <foxislam@outlook.c… | 62.4 kB | A library to chain Jev calls, for the deranged and enlightened |
+| 2026-09-26 01:12:52 | [fuju-trace-sqlite](https://pypi.org/project/fuju-trace-sqlite/) | 0.1.11 | Fuju Trace | 3.3 kB | SQLite storage adapter for Fuju Trace |
