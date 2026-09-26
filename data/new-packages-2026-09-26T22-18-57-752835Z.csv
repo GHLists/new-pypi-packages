@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T21:19:51Z,bslfmt,0.20.1,AzeevAN,Apache-2.0,85906,Детерминированный форматтер кода 1С (BSL): отступы и пробелы по стандартам 1С
+2026-09-26T21:23:00Z,puffdeploy,0.2.0,Pedro Águas Marques,Apache-2.0,1071182,Deploy open-source LLMs to production in one command. Open-source engine that provisions optimized serverless infrastructure directly in your AWS/GCP.
+2026-09-26T21:24:53Z,abstract-extract,0.1.0,Diogo Ribeiro,MIT,13995,Typed Python utilities for retrieving and normalizing scholarly abstracts from Scopus and Crossref.
+2026-09-26T21:27:22Z,cage-assurance,0.7.1,Roopam Sure,Apache-2.0,147055,Assurance SDK for consequential actions by AI agents and automated systems
+2026-09-26T21:30:18Z,onetrace-verify,0.1.0,Shamik Saha <shamik.saha.rcciit@gmail.com>,Apache-2.0,17953,"Reference verifier for stage-receipt records -- standard library only, no dependency on onetrace"
+2026-09-26T21:30:36Z,onetrace,0.1.0,Shamik Saha <shamik.saha.rcciit@gmail.com>,Apache-2.0,4895963,"onetrace SDK: stage-receipt records and the verbs diff, localize, reproduce"
+2026-09-26T21:33:00Z,aifordable-runner-mcp,0.1.1,Blacksp1d3r,"MIT License Copyright (c) 2026 Blacksp1d3r Permission is hereby granted, free of charge, to any per…",290161,Security-first self-hosted MCP for controlled AI development and staging operations.
+2026-09-26T21:41:57Z,nhi-scan,0.3.1,Raj Penchala,MIT,59296,Inventory and risk-tier non-human & agent identities against the OWASP NHI Top 10.
+2026-09-26T21:43:29Z,nldisco,1.0.0,Jai Bhagat <jkbhagatio@gmail.com>,PolyForm-Noncommercial-1.0.0,595239,Neural latent discovery with sparse encoder-decoder models
+2026-09-26T21:44:57Z,fermix,0.1.0,Ao Chen <aochen@caltech.edu>,MIT,125004,"Fast batched real and complex determinants and Pfaffians on GPU with JAX/Pallas kernels, with singular-safe gradients"
+2026-09-26T21:48:45Z,pycodecad,1.0.0,,MIT,1027651,Code-CAD with build123d: a desktop window that shows and exports what your Python script builds.
+2026-09-26T21:52:28Z,moiryx-code,0.1.0a1,Moiryx contributors,MIT,57521,Interactive session host for applications built with Moiryx.
+2026-09-26T21:53:44Z,lasto,0.0.1,Chris Johnson,GPL-3.0-or-later,30052,"Passive, read-only CAN bus logger for Toyota and Lexus trucks."
+2026-09-26T21:54:04Z,experimently,0.0.0,,Apache-2.0,3149,Placeholder: this package is not released yet. Install from source until it is.
+2026-09-26T21:54:05Z,experimently-openfeature,0.0.0,,Apache-2.0,3357,Placeholder: this package is not released yet. Install from source until it is.
+2026-09-26T21:56:27Z,hunch-engine-ollama,0.1.0,,Apache-2.0,17901,"A hunch engine plugin: local models served by Ollama, read through their token probabilities"
+2026-09-26T22:02:23Z,safety-harness,0.2.1,Kaoru Naganuma <kaoru.naganuma@gmail.com>,Apache-2.0,67371,"Default-deny precondition gate for physical AI actuators: permission, not detection."
+2026-09-26T22:04:11Z,mopac-py,0.1.1,"""zeph.sys"" <zeph.systems@gmail.com>",Apache-2.0,2816621,Modern High-Performance Semi-Empirical Quantum Chemistry Engine in Rust (PyO3 Bindings)
+2026-09-26T22:05:19Z,easydc,1.0.0,DetektywSeba(DSC),,12828,A simplified library for creating Discord bots.
+2026-09-26T22:08:27Z,taskmq-py,0.1.0,liuhuo,"MIT License Copyright (c) 2026 liuhuo Permission is hereby granted, free of charge, to any person o…",340264,零外部服务、投递语义可预测、配置显式的 Python 分布式任务队列
+2026-09-26T22:09:29Z,csa-google-gmail-calendar,0.1.0,Cloud Security Alliance,Apache-2.0,455889,"Read, compose and send Gmail, and manage Google Calendar events"
+2026-09-26T22:10:51Z,flycns,0.6.0,Felipe Santibanez-Leal <fsantibanez@gmail.com>,MIT,437351,"Compile fly connectome releases (MaleCNS v1.0) into simulation-ready graphs with two-eye column maps, and simulate the whole central nervous system (graded optic lobe plus spiking LIF) with parity be…"
+2026-09-26T22:13:10Z,labmcp-ms-data,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,105415,"MCP server for mass-spectrometry data files (mzML, mzMLb, Bruker timsTOF TDF; vendor files via msconvert/ThermoRawFileParser): run info, TIC/BPC, XICs, spectra, MS2 search, QC."
+2026-09-26T22:13:33Z,lighthouse-ble,0.1.0,g4bri3lDev <admin@g4bri3l.de>,Apache-2.0,85309,"Async Bluetooth LE control of SteamVR Lighthouse base stations (Valve Index V2, HTC Vive V1)"
+2026-09-26T22:14:53Z,labmcp-ms-worklist,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,80543,"MCP server that builds, validates and exports LC-MS worklist import files for MassLynx, SCIEX OS, MassHunter and Xcalibur."
+2026-09-26T22:15:16Z,wagtail-mptt-comments,0.1.0,Vladimir Tarasov,,96436,Nested MPTT comments with spam protection and AJAX admin moderation for Wagtail CMS.
+2026-09-26T22:16:24Z,labmcp-srs-rga,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,77986,"MCP server for SRS RGA100/200/300 residual gas analyzers: spectra, partial pressures, leak checks, filament/CDEM with pressure interlocks."
+2026-09-26T22:17:45Z,labmcp-thermo-iapi,0.1.0,K-Dense and LabMCP contributors,Apache-2.0,89044,"MCP server adapter for Thermo Fisher Orbitrap mass spectrometers via the licensed Instrument API (IAPI): status, live scans, custom and repeating scans, acquisitions."
