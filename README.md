@@ -8,32 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 06:19 UTC
+## Latest list — 2026-09-27 07:18 UTC
 
-New packages created between 2026-09-27 05:19 UTC and 2026-09-27 06:19 UTC.
+New packages created between 2026-09-27 06:19 UTC and 2026-09-27 07:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-27T06-19-55-876853Z.csv)
+[Full CSV](data/new-packages-2026-09-27T07-18-55-310709Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-27 05:23:16 | [keyhole-mcp](https://pypi.org/project/keyhole-mcp/) | 0.4.0 | Jovi | 1.2 MB | Let ChatGPT read, and carefully edit, only the local folders you choose - throu… |
-| 2026-09-27 05:23:23 | [agloom](https://pypi.org/project/agloom/) | 1.0.0 | S Muni Harish <samamuniharish… | 1.7 MB | Production-grade Python agent harness that automatically classifies tasks, opti… |
-| 2026-09-27 05:27:15 | [facturador-afip](https://pypi.org/project/facturador-afip/) | 0.1.0 | Ignacio Vila Graca | 107.9 kB | Facturas electrónicas de ARCA (ex AFIP) desde Python: A, B, C, notas de crédito… |
-| 2026-09-27 05:29:46 | [rathflow-cli](https://pypi.org/project/rathflow-cli/) | 0.1.2 | Rath Team | 95.0 kB | RathFlow command line client: sessions, memory, sandboxes, assets and billing o… |
-| 2026-09-27 05:29:56 | [ikarem](https://pypi.org/project/ikarem/) | 0.3.0 |  | 125.0 kB | IKAREM — Meraki reversed. Lightweight, modular Python ASGI backend framework. |
-| 2026-09-27 05:31:21 | [duclong-toanhoc](https://pypi.org/project/duclong-toanhoc/) | 0.1.0 | DUC LONG | 3.1 kB | Thư viện toán học cơ bản |
-| 2026-09-27 05:33:44 | [pipxclip](https://pypi.org/project/pipxclip/) | 4.1.1 | EffessDev <effessdev@gmail.co… | 53.4 kB | Generate Markdown context of a git repository and copy it straight to your clip… |
-| 2026-09-27 05:34:28 | [codex-transcript-viewer](https://pypi.org/project/codex-transcript-viewer/) | 0.5.0 | Colin Mason | 100.1 kB | Convert Codex CLI JSONL session transcripts to self-contained HTML viewers |
-| 2026-09-27 05:36:29 | [nexus-scan](https://pypi.org/project/nexus-scan/) | 1.0.0 |  | 7.9 kB | Nexus Recon and Scanning Suite |
-| 2026-09-27 05:36:33 | [easypow](https://pypi.org/project/easypow/) | 0.1.0 | Leo Vasanko | 16.1 kB | Antibot Proof-of-Work protection to verify browsers on web apps. |
-| 2026-09-27 05:39:44 | [mkdocs-audience-toggle](https://pypi.org/project/mkdocs-audience-toggle/) | 0.1.0 | Luka Sherman <luka.msherman@g… | 182.5 kB | Material for MkDocs plugin: an N-way content-mode toggle (e.g. Essentials/Advan… |
-| 2026-09-27 05:43:02 | [llms2jev](https://pypi.org/project/llms2jev/) | 0.4.1 | "Silan.Hu" <silan.hu@u.nus.ed… | 2.9 MB | Inspired by Jev. Turn LLMs into decision engines—score choices, skip the chat. |
-| 2026-09-27 05:44:12 | [harnessx](https://pypi.org/project/harnessx/) | 0.3.0 | Jyotish Bora <jyotish.bora@da… | 451.3 kB | A lightweight, production-grade LLM agent toolkit in Python: streaming, MCP, la… |
-| 2026-09-27 05:44:18 | [gui-ui](https://pypi.org/project/gui-ui/) | 0.1.1 | Nikola <a70655776@gmail.com> | 46.8 kB | A visual Tkinter interface builder without external dependencies. |
-| 2026-09-27 05:45:53 | [tstate](https://pypi.org/project/tstate/) | 0.1.0 |  | 7.2 kB | Explicit-state reachability, closure, and attractor computation |
-| 2026-09-27 05:51:22 | [gpt-researcher-keenable](https://pypi.org/project/gpt-researcher-keenable/) | 0.1.0 | keenableai | 11.3 kB | Keenable web search as a GPT Researcher retriever plugin. No API key needed. |
-| 2026-09-27 06:06:03 | [pystreamxl](https://pypi.org/project/pystreamxl/) | 6.0.0 | Georgi Mammen Mullassery <mul… | 1.1 MB | High-performance .xlsx file reader with formula extraction, comment support, an… |
-| 2026-09-27 06:09:54 | [pdf-sign-kit](https://pypi.org/project/pdf-sign-kit/) | 0.5.0 | 兰衣 <iehjli@163.com> | 96.5 kB | Framework-agnostic Python toolkit for stamping signatures and text onto PDF: au… |
-| 2026-09-27 06:14:38 | [innards](https://pypi.org/project/innards/) | 0.1.0 | Jai | 127.1 kB | See inside open-weight LLMs per message: KV cache, context growth and memory, p… |
-| 2026-09-27 06:18:03 | [pyfastnoiselite-ledfx](https://pypi.org/project/pyfastnoiselite-ledfx/) | 0.0.8 | LedFx | 4.0 MB | Cython wrapper for Auburn's FastNoise Lite noise library, with stable-ABI wheel… |
-| 2026-09-27 06:19:22 | [actuent](https://pypi.org/project/actuent/) | 0.2.0 | localilabs <support@localilab… | 16.7 kB | Python SDK for Actuent — the search engine for AI agents. Websites and products… |
+| 2026-09-27 05:57:55 | [officecli-patch](https://pypi.org/project/officecli-patch/) | 0.1.2 |  | 10.2 kB | Cross-platform launcher for officecli-patch GitHub Release binaries |
+| 2026-09-27 06:22:02 | [ragfabric-core](https://pypi.org/project/ragfabric-core/) | 0.3.1 |  | 570.5 kB | RagFabric engine: retrieval strategies, providers, stores, ingestion, evaluatio… |
+| 2026-09-27 06:22:06 | [ragfabric-sdk](https://pypi.org/project/ragfabric-sdk/) | 0.3.1 | Ranjan G <ranjan.g@ispf.ngo> | 20.7 kB | Python client for a RagFabric server. |
+| 2026-09-27 06:22:09 | [ragfabric-server](https://pypi.org/project/ragfabric-server/) | 0.3.1 |  | 134.7 kB | RagFabric HTTP API (FastAPI). |
+| 2026-09-27 06:22:13 | [ragfabric](https://pypi.org/project/ragfabric/) | 0.3.1 |  | 37.2 kB | RagFabric: self hosted, measurement first RAG platform. Installs the engine, th… |
+| 2026-09-27 06:23:05 | [lab-me-nas](https://pypi.org/project/lab-me-nas/) | 0.2.7 | Suebpong Pruttipattanapong <f… | 57.5 kB | Access a Synology NAS from Google Colab, Linux or Windows through a NetBird mes… |
+| 2026-09-27 06:26:37 | [screws](https://pypi.org/project/screws/) | 0.2.0 | Rico Picone | 237.1 kB | Screw-theory robotics: the Modern Robotics library, reorganised, with a Coppeli… |
+| 2026-09-27 06:31:25 | [neurocvguard](https://pypi.org/project/neurocvguard/) | 0.1.0 | Alireza Emad | 235.9 kB | Research-only cohort audits and independently checked split plans for neuroimag… |
+| 2026-09-27 06:31:59 | [awmine](https://pypi.org/project/awmine/) | 0.2.0 | AitherOS Contributors <dp2714… | 218.4 kB | Mine your own agent transcripts for tool outcomes, lessons, procedures and cost… |
+| 2026-09-27 06:35:35 | [agentguard-governance-sdk](https://pypi.org/project/agentguard-governance-sdk/) | 0.1.0 | AgentGuard Team | 24.2 kB | Developer SDK for AgentGuard runtime governance and policy enforcement layer |
+| 2026-09-27 06:36:58 | [odoo-mcp-tools](https://pypi.org/project/odoo-mcp-tools/) | 1.3.0 | Transgenia <dev@transgenia.or… | 104.3 kB | Clean-room MCP server for Odoo (Community, Enterprise, online) across versions… |
+| 2026-09-27 06:37:12 | [axiom-extension-sdk](https://pypi.org/project/axiom-extension-sdk/) | 0.1.0 | AxiomCore | 13.6 kB | Typed authoring surface for deterministic Axiom Python extensions |
+| 2026-09-27 06:40:26 | [memworthy](https://pypi.org/project/memworthy/) | 0.1.0 | Afnan Hussain | 597.5 kB | Decide what an AI system should remember: policy-driven memory gating with type… |
+| 2026-09-27 06:46:00 | [data-backtest-live-common](https://pypi.org/project/data-backtest-live-common/) | 0.2.0 | dbl_common maintainers | 114.4 kB | 数据(Data)/回测(Backtest)/实盘(Live)三系统公共库：复权、A股交易规则全集（涨跌幅/时段/费用/交收/熔断/除权）、交易日历、原子写、无… |
+| 2026-09-27 06:48:12 | [keyright](https://pypi.org/project/keyright/) | 1.1.3 | Delta1 Labs | 51.5 kB | Keyright Python client SDK — offline/online software license validation and ent… |
+| 2026-09-27 06:48:39 | [eyetrajectoriespy](https://pypi.org/project/eyetrajectoriespy/) | 0.9.0rc1 | Stefanos Balaskas | 642.8 kB | Functional and continuous trajectory analysis for eye-tracking data in Python |
+| 2026-09-27 06:54:10 | [milkha](https://pypi.org/project/milkha/) | 0.1.1 | Niranjan Anandkumar <nirunitk… | 43.1 kB | A FastAPI-compatible web framework for Mojo, built on Flare. |
+| 2026-09-27 06:54:18 | [straw-queue](https://pypi.org/project/straw-queue/) | 0.1.0 |  | 2.8 MB | Rust durable queues for AI tensors and large immutable records |
+| 2026-09-27 06:55:12 | [ghostpatch](https://pypi.org/project/ghostpatch/) | 0.9.0 | Nitin23123 | 480.8 kB | Your bugs, fixed while you sleep. An open-source AI software engineer. |
+| 2026-09-27 06:56:29 | [avenir-mcp](https://pypi.org/project/avenir-mcp/) | 0.1.0 | Mathieu Beal | 192.0 kB | An unofficial MCP server for YNAB: budgets, spending and transaction classifica… |
+| 2026-09-27 06:57:27 | [spxa](https://pypi.org/project/spxa/) | 1.0.0 | Nityahapani <nityahapani.tges… | 1.0 MB | Stochastic processes as first-class algebraic objects |
+| 2026-09-27 06:59:00 | [workspace-bridge](https://pypi.org/project/workspace-bridge/) | 0.1.1 |  | 511.8 kB | MCP bridge and control plane for protected local workspaces with bounded Pi and… |
+| 2026-09-27 07:00:23 | [op-img](https://pypi.org/project/op-img/) | 0.1.0 |  | 137.6 kB | A composable image manipulation CLI |
+| 2026-09-27 07:00:47 | [apple-llm](https://pypi.org/project/apple-llm/) | 0.2.0 |  | 122.7 kB | Apple's on-device (Foundation Models) and Private Cloud Compute LLMs from Pytho… |
+| 2026-09-27 07:09:30 | [mcpdump](https://pypi.org/project/mcpdump/) | 0.1.0 |  | 483.4 kB | The missing terminal toolkit for MCP servers — inspect, call, watch and test an… |
+| 2026-09-27 07:13:57 | [fsticker](https://pypi.org/project/fsticker/) | 0.1.0 | Tapan Hazarika <tapanhaz@gmai… | 82.5 MB | Multi feed merged websocket ticker |
+| 2026-09-27 07:16:14 | [logometer](https://pypi.org/project/logometer/) | 0.1.0 | AmanSg098 | 61.9 kB | Tail your logs. Catch anomalies. Skip the 2am grep. |

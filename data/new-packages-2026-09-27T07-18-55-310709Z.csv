@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T05:57:55Z,officecli-patch,0.1.2,,,10192,Cross-platform launcher for officecli-patch GitHub Release binaries
+2026-09-27T06:22:02Z,ragfabric-core,0.3.1,,Apache-2.0,570524,"RagFabric engine: retrieval strategies, providers, stores, ingestion, evaluation, access policy."
+2026-09-27T06:22:06Z,ragfabric-sdk,0.3.1,Ranjan G <ranjan.g@ispf.ngo>,Apache-2.0,20703,Python client for a RagFabric server.
+2026-09-27T06:22:09Z,ragfabric-server,0.3.1,,Apache-2.0,134670,RagFabric HTTP API (FastAPI).
+2026-09-27T06:22:13Z,ragfabric,0.3.1,,Apache-2.0,37181,"RagFabric: self hosted, measurement first RAG platform. Installs the engine, the API and the ragfabric command."
+2026-09-27T06:23:05Z,lab-me-nas,0.2.7,Suebpong Pruttipattanapong <feyhong44@gmail.com>,MIT,57546,"Access a Synology NAS from Google Colab, Linux or Windows through a NetBird mesh network."
+2026-09-27T06:26:37Z,screws,0.2.0,Rico Picone,MIT License Copyright (c) 2026 Rico Picone Portions of this software are derived from the Modern Ro…,237102,"Screw-theory robotics: the Modern Robotics library, reorganised, with a CoppeliaSim bridge"
+2026-09-27T06:31:25Z,neurocvguard,0.1.0,Alireza Emad,BSD-3-Clause,235882,Research-only cohort audits and independently checked split plans for neuroimaging ML
+2026-09-27T06:31:59Z,awmine,0.2.0,AitherOS Contributors <dp27148@gmail.com>,Apache-2.0,218388,"Mine your own agent transcripts for tool outcomes, lessons, procedures and cost -- redacted before anything lands"
+2026-09-27T06:35:35Z,agentguard-governance-sdk,0.1.0,AgentGuard Team,MIT,24204,Developer SDK for AgentGuard runtime governance and policy enforcement layer
+2026-09-27T06:36:58Z,odoo-mcp-tools,1.3.0,Transgenia <dev@transgenia.org>,MIT,104318,"Clean-room MCP server for Odoo (Community, Enterprise, online) across versions 10-19."
+2026-09-27T06:37:12Z,axiom-extension-sdk,0.1.0,AxiomCore,Apache-2.0,13557,Typed authoring surface for deterministic Axiom Python extensions
+2026-09-27T06:40:26Z,memworthy,0.1.0,Afnan Hussain,Apache-2.0,597500,Decide what an AI system should remember: policy-driven memory gating with typed judgments.
+2026-09-27T06:46:00Z,data-backtest-live-common,0.2.0,dbl_common maintainers,"MIT License Copyright (c) 2026 data-backtest-live-common contributors Permission is hereby granted,…",114362,数据(Data)/回测(Backtest)/实盘(Live)三系统公共库：复权、A股交易规则全集（涨跌幅/时段/费用/交收/熔断/除权）、交易日历、原子写、无黑窗子进程
+2026-09-27T06:48:12Z,keyright,1.1.3,Delta1 Labs,Apache-2.0,51529,Keyright Python client SDK — offline/online software license validation and entitlements.
+2026-09-27T06:48:39Z,eyetrajectoriespy,0.9.0rc1,Stefanos Balaskas,MIT,642814,Functional and continuous trajectory analysis for eye-tracking data in Python
+2026-09-27T06:54:10Z,milkha,0.1.1,Niranjan Anandkumar <nirunitk@gmail.com>,MPL-2.0,43119,"A FastAPI-compatible web framework for Mojo, built on Flare."
+2026-09-27T06:54:18Z,straw-queue,0.1.0,,MIT,2789416,Rust durable queues for AI tensors and large immutable records
+2026-09-27T06:55:12Z,ghostpatch,0.9.0,Nitin23123,MIT,480801,"Your bugs, fixed while you sleep. An open-source AI software engineer."
+2026-09-27T06:56:29Z,avenir-mcp,0.1.0,Mathieu Beal,MIT,192034,"An unofficial MCP server for YNAB: budgets, spending and transaction classification, built for agents."
+2026-09-27T06:57:27Z,spxa,1.0.0,Nityahapani <nityahapani.tges@gmail.com>,MIT,1043583,Stochastic processes as first-class algebraic objects
+2026-09-27T06:59:00Z,workspace-bridge,0.1.1,,MIT,511790,MCP bridge and control plane for protected local workspaces with bounded Pi and Codex agent runs
+2026-09-27T07:00:23Z,op-img,0.1.0,,MIT,137619,A composable image manipulation CLI
+2026-09-27T07:00:47Z,apple-llm,0.2.0,,MIT,122678,"Apple's on-device (Foundation Models) and Private Cloud Compute LLMs from Python. No API key, no account, macOS 26+ on Apple Silicon."
+2026-09-27T07:09:30Z,mcpdump,0.1.0,,MIT,483443,"The missing terminal toolkit for MCP servers — inspect, call, watch and test any Model Context Protocol server."
+2026-09-27T07:13:57Z,fsticker,0.1.0,Tapan Hazarika <tapanhaz@gmail.com>,Apache-2.0,82514835,Multi feed merged websocket ticker
+2026-09-27T07:16:14Z,logometer,0.1.0,AmanSg098,MIT,61855,Tail your logs. Catch anomalies. Skip the 2am grep.
