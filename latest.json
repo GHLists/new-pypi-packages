@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 27,
-    "from": "2026-09-27T06:19:55.876853Z",
-    "path": "data/new-packages-2026-09-27T07-18-55-310709Z.csv",
-    "to": "2026-09-27T07:18:55.310709Z"
+    "count": 32,
+    "from": "2026-09-27T07:18:55.310709Z",
+    "path": "data/new-packages-2026-09-27T08-20-23-559395Z.csv",
+    "to": "2026-09-27T08:20:23.559395Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-27T06:09:24Z",
       "package": "actuent-python",
       "since": "2026-09-27T05:19:58.573954Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-09-27T04:02:44Z",
-      "package": "voice-stt-server-pro",
-      "since": "2026-09-27T03:18:53.016769Z"
+      "attempts": 1,
+      "created_at": "2026-09-27T07:36:04Z",
+      "package": "lixplore",
+      "since": "2026-09-27T07:18:55.310709Z"
     }
   ],
-  "serial": 41509043,
+  "serial": 41510092,
   "source_truncated": false,
-  "window": "2026-09-27T07:18:55.310709Z"
+  "window": "2026-09-27T08:20:23.559395Z"
 }

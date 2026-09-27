@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T07:21:06Z,Docmax,3.3.1,Punith Naidu,MIT,685175,"Terminal-native document toolkit. Local-first, dual-engine, no server required."
+2026-09-27T07:23:10Z,tooaio-scripts,1.0.3,,,36786454,"Скрипты общего назначения: сборка документации, сборка приложений"
+2026-09-27T07:30:47Z,flask-async-celery,0.1.0,Mazhar Ali,MIT,28875,AsyncIO execution pool for Celery with Flask integration
+2026-09-27T07:35:07Z,dokaz-api,0.1.0,Dokaz Industries,MIT,26484,"Official client for the Dokaz API: invoice PDFs, QR codes, barcodes, Markdown to PDF, CSV/JSON/Excel, calendar .ics files, image metadata removal, email verification, site intel and text AI."
+2026-09-27T07:38:13Z,agent-chat-fastapi-langgraph-assistant-ui,0.1.0,,,987474,Portable FastAPI and LangGraph chat with a bundled static UI
+2026-09-27T07:38:22Z,gyomu-cli,0.4.0,,,5065,Gyomu CLI
+2026-09-27T07:38:29Z,gyomu-workflow,0.4.0,,,19096,Gyomu CLI
+2026-09-27T07:39:18Z,penge-passport-ph,0.1.0,Alpha Romer Coma,MIT,70340,"PengePassportPH: read-only, rate-limited checker for DFA Philippine passport appointment availability on passport.gov.ph. Library and CLI."
+2026-09-27T07:40:59Z,webfunction,0.1.0,,MIT,36165,Reference client library for the Web Function (wfn) protocol
+2026-09-27T07:44:56Z,rfproject,0.1.0,,,2055,Add your description here
+2026-09-27T07:45:55Z,oss-clarity,0.1.2,Meharaj Ul Mahmmud,MIT,714070,"Self-hosted session replay, heatmaps and rules-based behaviour signals for Django"
+2026-09-27T07:46:24Z,pagopar,1.0.0,AlanBogarin <bogarin01alan@gmail.com>,MIT,59258,Asynchronous API wrapper for Pagopar written in Python.
+2026-09-27T07:46:54Z,invoicing-excel-pdf-latest,1.0.0,Harsha Sapare,MIT,2655,This package can be used to convert Excel invoices to PDF invoices.
+2026-09-27T07:48:14Z,zipctl,0.1.0,Jerzy Góra <goraje@users.noreply.github.com>,MIT,187044,ZIP library derived from CPython zipfile with WinZip AES and ZipCrypto support
+2026-09-27T07:48:23Z,decision-tune,0.0.3,Abe Diaz,Apache-2.0,14799,"Train your own local decision model on your own data, with an honest report card. Early development."
+2026-09-27T07:50:16Z,romanbo,1.1.1,LQX-Code-SH,MIT,336410,ROMANBO 舵机 / 整机 RS485 控制库（Python SDK）
+2026-09-27T07:50:31Z,velme,0.0.0,,MIT OR Apache-2.0,1780,Reserved for the Velme programming language. Not yet released.
+2026-09-27T07:51:21Z,aireliability,0.1.0,AI Reliability Engine Contributors,Apache-2.0,581859,An open-source reliability and regression-testing framework for LLM applications and AI agents.
+2026-09-27T07:53:56Z,gridforge-spatial,0.1.0,KageRyo,Apache-2.0,139712,Deterministic spatial grid alignment and dataset engineering toolkit
+2026-09-27T07:54:25Z,kamsadev,0.1.0,darsan-ts,,4247,Fast customtkinter gui wrapper
+2026-09-27T07:55:23Z,pydconfig,1.0.0,,,120127,"Named, typed application configuration from YAML, dotenv and environment variables"
+2026-09-27T07:58:51Z,crossmool,1.3.0,crossmool,LGPL-3.0-only,25109,"Cross-language SM2/SM3/SM4 cryptographic utilities, interoperable with the Java/Go/Rust/C/C++/C#/JavaScript implementations"
+2026-09-27T08:00:56Z,cexy,0.1.0.dev1,CEXY.io,MIT,110274,Python SDK for the CEXY.io exchange REST and WebSocket API
+2026-09-27T08:04:37Z,langchain-thordata,0.2.0,ThorData,MIT,24706,LangChain tools and Python client for the ThorData SERP API
+2026-09-27T08:07:52Z,schematell,0.1.0,Anjal <anjalantony1111@gmail.com>,,8765,Understand database structures in plain English without writing SQL.
+2026-09-27T08:08:26Z,webolator,0.1.0,Ville Vainio <vivainio@gmail.com>,MIT,7439723,"Zero-config markdown to website: folder or single file, mermaid, syntax highlighting, single-file HTML output"
+2026-09-27T08:11:04Z,gigaxml,0.9.0,,MIT,378020,"A production-oriented CLI toolkit for profiling, validating and extracting structured data from multi-gigabyte XML files with bounded memory usage."
+2026-09-27T08:11:51Z,unshadow,0.2.0,Unshadow <support@unshadow.dev>,MIT,21689,Python client for Unshadow Engine and agent banks.
+2026-09-27T08:15:46Z,kinasis-library,1.0.0,,,1809,
+2026-09-27T08:17:30Z,experiment-doctor,0.1.0,beihai,Apache-2.0,211271,Read-only provenance and aggregation audit for ML experiment artifacts
+2026-09-27T08:18:24Z,hilbras-remembra,5.4.0,Hilbras,MIT,29415,Dependency-free Python client for the Remembra memory API
+2026-09-27T08:18:25Z,fs-explorer,0.1.0,Arthur Gouhier <ajgouhier@gmail.com>,BSD-3-Clause,648288,"List and read disk images, filesystems, and archives using only the Python standard library"
