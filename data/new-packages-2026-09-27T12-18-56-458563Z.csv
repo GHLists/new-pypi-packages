@@ -1,0 +1,69 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T11:20:37Z,dcc-mcp-capcut,0.5.0,loonghao <hal.long@outlook.com>,MIT,614041,Typed MCP adapter and bridge for CapCut Desktop editing workflows
+2026-09-27T11:20:52Z,dcc-mcp-kdenlive,0.1.1,loonghao <hal.long@outlook.com>,MIT,3208087,"Kdenlive project authoring, MLT rendering and scoped editor control for DCC-MCP agents"
+2026-09-27T11:21:11Z,waldmann-enocean,0.1.1,Peter Verhage,MIT,635374,"Control Waldmann TALK MODUL EnOcean luminaires over EEP D2-41-00, with an MQTT bridge for Home Assistant"
+2026-09-27T11:21:14Z,dcc-mcp-gaea,0.1.1,,,29306,Typed Gaea Build Swarm adapter for DCC-MCP
+2026-09-27T11:21:28Z,dcc-mcp-epic,0.2.1,loonghao <hal.long@outlook.com>,MIT,144947,"Typed local-first Epic Games Launcher, Fab, and Unreal project adapter for DCC-MCP"
+2026-09-27T11:21:47Z,dcc-mcp-openscreen,0.1.1,Long Hao <hal.long@outlook.com>,MIT,14315,OpenScreen recording and demo export adapter for DCC-MCP
+2026-09-27T11:22:31Z,mtgarch,0.1.0,Muhammad Uzair <uzairlovesironman@gmail.com>,MIT,16603,"Censored GARCH(1,1) estimation under price limits / circuit breakers (Morgan & Trevor, 1999)"
+2026-09-27T11:22:47Z,pyOrthomosaic,0.1.0,Soyabul Islam Lincoln <islamsoyabul98@gmail.com>,MIT,19116675,Native (Cython + optional CUDA) orthomosaic generator for nadir drone imagery
+2026-09-27T11:23:21Z,pydemi,0.1.0,"Shubham Maurya, CMS Lab, IIT Kanpur",MIT,5542287,"Interpretable, fixed-length descriptors from DFT charge-density grids."
+2026-09-27T11:23:44Z,cryptovoucher,1.0.0,EJ,MIT,9144,Encode private keys into Base62 vouchers and restore them
+2026-09-27T11:23:51Z,relayxapi,0.1.0,RelayX,MIT,12132,Python client for the RelayX X (Twitter) data API
+2026-09-27T11:29:51Z,story-test,1.2.0,legomb,MIT,14644,Evaluate story assertions with a local Ollama model.
+2026-09-27T11:31:10Z,subneutralize,0.1.2,Arnab Dutta,Apache-2.0,52643,Universal Parameter-Free Runtime Inference Governor for Autoregressive Reasoning Models
+2026-09-27T11:31:49Z,capo-keyspaces,0.1.0,,,283690,Python SDK for Keyspaces.
+2026-09-27T11:32:06Z,mphkit,0.1.0,elgar328,MIT,56497,Helpers on top of MPh for building COMSOL geometries and geometry-based selections in Python.
+2026-09-27T11:32:22Z,capo-keyspacesstreams,0.1.0,,,154405,Python SDK for Keyspacesstreams.
+2026-09-27T11:32:53Z,capo-kinesis,0.1.0,,,437570,Python SDK for Kinesis.
+2026-09-27T11:33:09Z,similar-files,0.1.0,craftware,MIT,86228,"Find identical and similar files, and write each group as a playlist"
+2026-09-27T11:33:32Z,decane,1.0.0,,MIT,55180,"Server-side SDK for Decane Connect Kit: verify access tokens, sign users in, read per-user records, create users and wallets. The Python port of decane-node."
+2026-09-27T11:33:35Z,capo-kinesis-analytics,0.1.0,,,312680,Python SDK for Kinesis Analytics.
+2026-09-27T11:34:12Z,capo-kinesis-analytics-v2,0.1.0,,,521515,Python SDK for Kinesis Analytics V2.
+2026-09-27T11:34:12Z,django-bots,1.0.0,M4p4 <homejr@protonmail.com>,MIT,70870,"User-agent parsing, crawler detection and AI bot blocking for Django."
+2026-09-27T11:34:46Z,capo-kinesis-video,0.1.0,,,352526,Python SDK for Kinesis Video.
+2026-09-27T11:35:31Z,capo-kinesis-video-archived-media,0.1.0,,,219199,Python SDK for Kinesis Video Archived Media.
+2026-09-27T11:36:23Z,capo-kinesis-video-media,0.1.0,,,109580,Python SDK for Kinesis Video Media.
+2026-09-27T11:36:56Z,capo-kinesis-video-signaling,0.1.0,,,113379,Python SDK for Kinesis Video Signaling.
+2026-09-27T11:37:09Z,py-runner-kernel,0.1.0,RightFix <righteousnessude@gmail.com>,AGPL-3.0-or-later,50745,"Persistent Python code runner: string in, JSON out. A lightweight, dependency-free ipykernel-like execution library."
+2026-09-27T11:37:34Z,jupyterlab-wav-ex,0.5.0,Sunao Hara <sunao.hara@gmail.com>,BSD-3-Clause,41802,A JupyterLab MIME rederer Extension for RIFF-wav files
+2026-09-27T11:37:42Z,capo-kinesis-video-webrtc-storage,0.1.0,,,102900,Python SDK for Kinesis Video Webrtc Storage.
+2026-09-27T11:38:15Z,capo-lakeformation,0.1.0,,,593332,Python SDK for Lakeformation.
+2026-09-27T11:38:28Z,quadkit-ai-llm,0.0.1,,,1398,QuadKit quadkit-ai-llm — reserved namespace
+2026-09-27T11:38:32Z,quadkit-ai-rag,0.0.1,,,1398,QuadKit quadkit-ai-rag — reserved namespace
+2026-09-27T11:38:35Z,quadkit-ai-agents,0.0.1,,,1432,QuadKit quadkit-ai-agents — reserved namespace
+2026-09-27T11:38:38Z,quadkit-ai-memory,0.0.1,,,1433,QuadKit quadkit-ai-memory — reserved namespace
+2026-09-27T11:38:50Z,capo-launch-wizard,0.1.0,,,199804,Python SDK for Launch Wizard.
+2026-09-27T11:39:37Z,capo-lex-model-building-service,0.1.0,,,498916,Python SDK for Lex Model Building Service.
+2026-09-27T11:40:09Z,capo-lex-models-v2,0.1.0,,,1355105,Python SDK for Lex Models V2.
+2026-09-27T11:41:20Z,capo-lex-runtime-service,0.1.0,,,195284,Python SDK for Lex Runtime Service.
+2026-09-27T11:41:56Z,capo-lex-runtime-v2,0.2.0,,,236625,Python SDK for Lex Runtime V2.
+2026-09-27T11:42:30Z,capo-license-manager,0.1.0,,,568790,Python SDK for License Manager.
+2026-09-27T11:42:43Z,flamecloak-sdk,0.0.1,,,2381,Reserved for the Flamecloak SDK. Not released yet.
+2026-09-27T11:43:08Z,jemmy,0.0.1,LOBSTR,MIT,4187,Network-first web scraping framework by lobstr.io. First release coming soon.
+2026-09-27T11:44:39Z,flamecloak,0.0.1,,,2278,Reserved for the Flamecloak SDK. Not released yet.
+2026-09-27T11:47:11Z,vayrm,0.1.0,,,1414015,Adaptive Compute Runtime
+2026-09-27T11:50:22Z,capo-license-manager-linux-subscriptions,0.1.0,,,173730,Python SDK for License Manager Linux Subscriptions.
+2026-09-27T11:50:59Z,capo-license-manager-user-subscriptions,0.1.0,,,232590,Python SDK for License Manager User Subscriptions.
+2026-09-27T11:51:36Z,capo-lightsail,0.1.0,,,1423973,Python SDK for Lightsail.
+2026-09-27T11:52:18Z,capo-location,0.1.0,,,680198,Python SDK for Location.
+2026-09-27T11:52:32Z,fyno,0.0.1,aikwen <kwen.zou@outlook.com>,MIT,6518,A lightweight personal workbench.
+2026-09-27T11:52:49Z,capo-lookoutequipment,0.1.0,,,494051,Python SDK for Lookoutequipment.
+2026-09-27T11:53:20Z,capo-m2,0.1.0,,,374651,Python SDK for M2.
+2026-09-27T11:54:01Z,capo-machine-learning,0.1.0,,,360985,Python SDK for Machine Learning.
+2026-09-27T11:54:35Z,capo-macie2,0.1.0,,,800549,Python SDK for Macie2.
+2026-09-27T11:54:54Z,esign-forms,0.2.0,Emre Aydin,Apache-2.0,784354,"Render Jinja2 HTML templates into PDFs with fillable AcroForm fields, send them to DocuSign for signature, and read the filled values back."
+2026-09-27T11:55:12Z,capo-mailmanager,0.1.0,,,567321,Python SDK for Mailmanager.
+2026-09-27T11:55:52Z,capo-managedblockchain,0.1.0,,,325348,Python SDK for Managedblockchain.
+2026-09-27T11:56:24Z,capo-managedblockchain-query,0.1.0,,,197341,Python SDK for Managedblockchain Query.
+2026-09-27T11:56:30Z,supersaas-slots-mcp,0.1.1,Richard van den Berg,MIT,17340,Read-only MCP tool for public SuperSaaS resource availability
+2026-09-27T11:56:43Z,itmatrix,1.0.0,ITMatrixHQ,MIT,85500,Human-friendly sync and async clients for the ITMatrixHQ API
+2026-09-27T11:56:56Z,uv-pypi-auth-check-20260927,0.1.0,Kithrian,,2460,Add your description here
+2026-09-27T11:57:02Z,capo-marketplace-agreement,0.1.0,,,395460,Python SDK for Marketplace Agreement.
+2026-09-27T11:57:52Z,hiwiz,0.1.0,,,19662,AI CLI friend that translates natural language into safe shell commands
+2026-09-27T11:58:47Z,unitx,0.1.2,Dait,"MIT License Copyright (c) 2026 Dait Permission is hereby granted, free of charge, to any person obt…",6515,"A modern, intuitive Python library for units, quantities, and dimensional analysis."
+2026-09-27T12:00:36Z,dbwraps,2026.9.27,,,2834,
+2026-09-27T12:01:33Z,Quang-toanhoc,0.1.0,Quang,,3714,Thu vien toan hoc co ban
+2026-09-27T12:01:55Z,semloop,0.1.0,Venkat,MIT,60698,Semantic loop detection for agent traces: replace word-overlap heuristics with a judged yes/no about whether each step made progress.
+2026-09-27T12:07:00Z,arya-cli,2.0.2,Aniketh Cheerath <cheerathaniketh@gmail.com>,Proprietary,144875,Universal Project Memory Layer for AI Coding Agents
+2026-09-27T12:12:31Z,tk2,2026.9.27,,,3538,
