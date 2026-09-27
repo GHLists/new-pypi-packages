@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T17:12:17Z,dcc-mcp-wwise,0.1.5,loonghao <hal.long@outlook.com>,MIT,141467,Typed DCC-MCP adapter for Audiokinetic Wwise authoring through WAAPI
+2026-09-27T19:19:47Z,nanotoken,0.1.0,Alex Lilburn,MIT,5488299,"WordPiece tokenization at GB/s, exactly matching HuggingFace tokenizers"
+2026-09-27T19:20:56Z,plantranger,0.1.0,Digital Buttes LLC,Apache-2.0,20510,Asynchronous client for the Plant Ranger API
+2026-09-27T19:22:22Z,llm-eval-kit-v1,0.1.2,"Mahrukh Baig, Muhammad Maaz, Warisha Arshad",MIT,56422,"A lightweight, offline Python library for scoring LLM response quality. This project is made under the INFERENCE Lab engineering cohort 01."
+2026-09-27T19:23:30Z,prosperity5bt,0.0.0,"Jasper van Merle <jaspervmerle@gmail.com>, Karl Oddshammar <karloddsh@proton.me>","MIT License Copyright (c) 2024 Karl Oddshammar Permission is hereby granted, free of charge, to any…",137980430,Backtester for IMC Prosperity 5 algorithms
+2026-09-27T19:24:42Z,cyberbully,0.2.0,KEA MINDZ,MIT,30659,Production-grade cyberbullying detection powered by transformer classifiers and nuance-aware multi-task learning.
+2026-09-27T19:25:16Z,bolttest,0.0.2,,MIT,161569,Agent-native test runner for Python: runs only the tests a change can affect
+2026-09-27T19:30:35Z,rochtunes,0.2.1,,,78028,Load a Rochtunes library onto an MP3 player
+2026-09-27T19:36:21Z,nefi,0.1.1,"CAB Lab, Princeton University",MIT,1850337,Neural-field inversion: recover hidden physical fields from a single measurement with a differentiable model of the instrument and no training data
+2026-09-27T19:36:48Z,pcdlint,0.1.0,pcdlint Contributors,MIT,38243,Static Taint Linter for Prompt-Cache Determinism
+2026-09-27T19:37:48Z,akko-mcp-trino-atlas,0.1.0,AKKO <contact@akko-ai.com>,Apache-2.0,31009,"Apache Atlas context provider for akko-mcp-trino: descriptions, classifications, glossary terms and business metadata, handed to the agent alongside the columns."
+2026-09-27T19:39:03Z,goblin-wg,1.0.0,Christian Vaccaro-Gallo <17118143+C-Vac@users.noreply.github.com>,MIT,90647,Wargaming API client and CLI toolkit for Python. Dynamically generates typed methods from the live API spec with auto-generated IDE stubs.
+2026-09-27T19:44:23Z,minelabs-rekha,0.1.2,Mine Labs <dev@minelabs.ai>,Apache-2.0,36920,High-Performance System-1 Control Plane and Gateway for Production RAG
+2026-09-27T19:45:42Z,tslitex,0.2.0,Nate Meyer <nate.devel@gmail.com>,,29118157,
+2026-09-27T19:46:10Z,parley-consensus,0.2.0,,,138995,Consensus among personal AI agents that faithfully represent owners with conflicting private interests — deterministic red-line enforcement + verifiable transcripts.
+2026-09-27T19:46:11Z,instruments-of-thought,0.0.2,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47921,Instruments-of-Thought ...
+2026-09-27T19:49:08Z,bangla-date,2.0.3,Anupam Sengupta <anupamsg@gmail.com>,MIT,23615,Convert Gregorian dates to Bangla dates and print the current Bangla date.
+2026-09-27T19:52:15Z,exptrail,0.1.0,Jaden Isaac,MIT,84221,"Local, framework-agnostic ML experiment logging that keeps README numbers verifiable."
+2026-09-27T19:53:29Z,loopgrid-agno,0.1.0,LoopGrid,Apache-2.0,33790,"Signed, independently verifiable decision evidence for Agno agents and teams using LoopGrid"
+2026-09-27T19:53:31Z,sahifa,1.0.0,Yimello LLC <support@sahifa.dev>,MIT,12873,"Arabic-ready HTML to PDF and screenshot API client, rendered in Saudi Arabia (Sahifa)"
+2026-09-27T19:56:42Z,zycoin,1.0.1,BitcoinZ Community,MIT,77718,Python client library for BitcoinZ and related Zcoin-family blockchain networks using Electrum and Bitcore APIs.
+2026-09-27T20:00:26Z,tack-agents,0.1.0,John Foland <john@johnfoland.net>,MIT,169412,"Keep your agent skills deployed identically to Claude Code and Codex from one manifest, and audit projects so either agent sees the same instructions, skills and hooks."
+2026-09-27T20:00:53Z,vertimosaic,0.1.0,Saurav Singla,Apache-2.0,289529,CPU-first vertical federated learning research framework for heterogeneous tabular data
+2026-09-27T20:01:16Z,tascam-dp008ex-sd-audio-extractor,0.1.0,Juan Manuel Daza <juanmanueldaza@gmail.com>,MIT,40615,Extract master and stem WAVs from Tascam DP-008EX SD card images (reverse-engineered read-only tool)
+2026-09-27T20:04:52Z,aaw-core,0.1.0,Sergey Nes,MIT,258599,"Agents At Work Core: the open-source engine behind Agents At Work. Run Claude Code, Codex, Gemini CLI, Grok, Cursor, and Scoot on your own Mac or Linux box and control them from your phone."
+2026-09-27T20:06:29Z,ragsentry,0.1.0,RagSentry Team,MIT,51074,Regression-testing and evaluation tool for RAG systems ('pytest for RAG')
+2026-09-27T20:07:44Z,harsh-kernel,0.1.3,,MPL-2.0,14223,A Jupyter kernel for Harsh: cells are transpiled with hrs and evaluated by evcxr.
+2026-09-27T20:11:01Z,ziomek,0.1.2,,"MIT License Copyright (c) 2026 Bartlomiej Cieszkowski Permission is hereby granted, free of charge,…",47929,ziomek - Humanize AI
+2026-09-27T20:12:49Z,MicroTensorGrad,1.0.0,Guettara Mohamed Amine <guettaraamine2@gmail.com>,MIT,16214,A Tensor Based autograd engine used to train neural network based models
+2026-09-27T20:17:51Z,micguard,0.1.0,Scott Peterman,MIT,19646,"Device-level microphone mute indicator and enforcer for macOS, Windows and Linux"
+2026-09-27T20:18:54Z,pycream2,0.1.0,David Starkey,MIT,249426,Continuum Reprocessing AGN MCMC: Bayesian fitting of AGN accretion-disc reverberation light curves with JAX and NumPyro
+2026-09-27T20:19:11Z,valydar,0.1.0a1,,MIT,11646,Valydar Identity Verification API client
