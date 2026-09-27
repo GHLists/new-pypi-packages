@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T12:23:20Z,fizzbuzz-tdd-kata-malak-khalil,0.1.0,malak khalil <malak.khalil@lau.edu>,MIT,74710,"A TDD kata: FizzBuzz, from notebook exploration to a tested, published package"
+2026-09-27T12:23:20Z,pytest-ruff-markdown,0.1.0,Nimrod Oren,MIT,16477,Zero-config pytest plugin that lints fenced Python code blocks in Markdown files with ruff
+2026-09-27T12:26:44Z,intern-decision-mlx,0.1.0,dex0shubham,Apache-2.0,67777,"Screenshot + questions -> calibrated typed decisions, locally on Apple silicon (Intern-Decision on MLX)."
+2026-09-27T12:32:45Z,risebrain,1.0.0,,,10006873,"Regional Identity Signature Expression (RISE), a quantifiable, fine-grained, and generalizable framework for mapping individualized regional identity across the cortex"
+2026-09-27T12:35:32Z,midVideo,0.2.0,Deniz Asaf Sayin,MIT,2081166,MIDI Visualizer and Video Renderer using MoviePy and Mido
+2026-09-27T12:36:46Z,gsfu,0.3.0,Val Schmidt,BSD-2-Clause,247786,"Library and command line utility for indexing, reading, and writing Generic Sensor Format (GSF) sonar data files."
+2026-09-27T12:42:24Z,foliodoc,0.1.0,Meet Jethwa <meetjethwa3@gmail.com>,MIT,79380,"Fast document conversion for Python: PDFs, scans, images and DOCX to Markdown, JSON or text, with tables, headings and reading order."
+2026-09-27T12:43:13Z,jot-editor,0.2.0,epicodic,MIT,16560,"Tiny inline terminal editor for git commit messages, with message history and search."
+2026-09-27T12:47:19Z,timelib2,2026.9.27,,,3628429,
+2026-09-27T12:51:01Z,glyd,0.20.0,,BSD-3-Clause OR GPL-2.0-only; bundled libglyd_store BUSL-1.1,6583767,"Compression for the data that fills object storage: record mode, packs, a store that compresses across objects, the fastest reads"
+2026-09-27T12:53:07Z,netbox-opentelemetry-plugin,0.1.0,Thomas Christory,Apache-2.0,91781,"Export NetBox logs, audit records, traces and metrics over OTLP."
+2026-09-27T12:59:25Z,sphinx-yaq,0.1.0,Benjamin Perret,MIT,210226,Interactive self-assessment quizzes for Sphinx HTML documentation
+2026-09-27T13:02:44Z,agorasim,0.0.1,Theo Radicella,MIT,283356,Multi-model LLM-agent opinion dynamics on social networks
+2026-09-27T13:03:24Z,lingotweaker-data-de,0.1.5,,LGPL-2.1-or-later,22210066,LingoTweaker runtime data for language 'de'
+2026-09-27T13:03:30Z,lingotweaker-data-el,0.1.5,,LGPL-2.1-or-later,1045455,LingoTweaker runtime data for language 'el'
+2026-09-27T13:03:36Z,lingotweaker-data-en,0.1.5,,LGPL-2.1-or-later,15511767,LingoTweaker runtime data for language 'en'
+2026-09-27T13:03:42Z,lingotweaker-data-eo,0.1.5,,LGPL-2.1-or-later,734658,LingoTweaker runtime data for language 'eo'
+2026-09-27T13:04:58Z,bugpipe,3.0.2,Ritchie Mwewa,MIT,74868,Unofficial Python client for Buganizer; the Google Issue Tracking system
+2026-09-27T13:05:04Z,arc56-generated-meerk-7bb91b47,1.1.2026092712,Meerkat81,,27832,Generated ARC-56 Algorand smart-contract clients for Meerkat81/algo-usdt-escrow.
+2026-09-27T13:05:04Z,normalbrowser,0.0.1,normalbrowser,MIT,3175,"Reserved for normalbrowser: stealth Chrome, Edge and Firefox for Playwright. The real release is coming; see https://normalbrowser.com"
+2026-09-27T13:06:18Z,ofplang-export,0.1.0,Kazunari Kaizu <kwaizu@gmail.com>,MIT,145558,Write Object-flow Programming Language documents out in a form people read.
+2026-09-27T13:08:03Z,sci-fakedata,0.1.1,,,48454,NumPy synthetic data generators and numerical pattern analysis
+2026-09-27T13:09:27Z,arc56-generated-corvi-ea3a6388,1.2.2026072010,CorvidLabs,,26088,Generated ARC-56 Algorand smart-contract clients for CorvidLabs/flock-directory-contract.
+2026-09-27T13:10:32Z,arc56-generated-credc-2571ab91,1.2.2026072010,CredChian,,11893,Generated ARC-56 Algorand smart-contract clients for CredChian/credchain_project.
+2026-09-27T13:11:36Z,arc56-generated-cults-24bce810,1.2.2026072010,cultsicarias,,12689,Generated ARC-56 Algorand smart-contract clients for cultsicarias/algobit.
+2026-09-27T13:18:38Z,odl-layout,0.1.1,g4bri3lDev <admin@g4bri3l.de>,Apache-2.0,276318,"Layout compiler for the OpenDisplay Language: containers in, positioned ODL elements out"

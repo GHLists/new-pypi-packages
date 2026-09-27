@@ -1,37 +1,37 @@
 {
   "list": {
-    "count": 68,
-    "from": "2026-09-27T11:19:25.048116Z",
-    "path": "data/new-packages-2026-09-27T12-18-56-458563Z.csv",
-    "to": "2026-09-27T12:18:56.458563Z"
+    "count": 26,
+    "from": "2026-09-27T12:18:56.458563Z",
+    "path": "data/new-packages-2026-09-27T13-18-56-320593Z.csv",
+    "to": "2026-09-27T13:18:56.320593Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-27T11:31:17Z",
       "package": "bel-channel-sounding",
       "since": "2026-09-27T11:19:25.048116Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-27T11:34:14Z",
       "package": "ble-channel-sounding",
       "since": "2026-09-27T11:19:25.048116Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-09-27T08:23:54Z",
-      "package": "donutpromotion",
-      "since": "2026-09-27T08:20:23.559395Z"
+      "attempts": 1,
+      "created_at": "2026-09-27T12:55:17Z",
+      "package": "cursorproof",
+      "since": "2026-09-27T12:18:56.458563Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-27T09:25:52Z",
       "package": "gm-x402-toolsg",
       "since": "2026-09-27T09:19:45.728061Z"
     }
   ],
-  "serial": 41514888,
+  "serial": 41516316,
   "source_truncated": false,
-  "window": "2026-09-27T12:18:56.458563Z"
+  "window": "2026-09-27T13:18:56.320593Z"
 }
