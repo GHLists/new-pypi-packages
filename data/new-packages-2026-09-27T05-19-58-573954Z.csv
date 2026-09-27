@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T03:45:52Z,pphs,1.0.1,PPHS Contributors,MIT,35327,A polished developer-friendly static file server with a searchable file browser and code viewer.
+2026-09-27T04:20:01Z,merge-pulls,1.0.1,developers <developers@tagdots.com>,,142823,
+2026-09-27T04:22:41Z,NHD-toanhoc,0.1.0,NguyenDucHung,,2660,Thu vien toan hoc co ban
+2026-09-27T04:23:02Z,smartfactory,0.1.0,,,36469,MicroPython libraries for Maker ESP32 PRO smart factory education
+2026-09-27T04:29:12Z,qualms,0.0.0,,,1892,
+2026-09-27T04:38:57Z,odoo-addon-sustainability-stock,18.0.1.2.1.2,=?utf-8?q?MCO2=2C_Open_Net_S=C3=A0rl?=,AGPL-3,46535,Sustainability Inventory
+2026-09-27T04:39:00Z,odoo-addon-sustainability-hr-expense-report,18.0.1.1.0.4,=?utf-8?q?MCO2=2C_Open_Net_S=C3=A0rl?=,AGPL-3,26057,Provide CO2 accounting data for expense reports
+2026-09-27T04:39:03Z,odoo-addon-sustainability-mis-builder,16.0.0.1.0.6,"MCO2, Open Net Sàrl",AGPL-3,25015,Provide CO2 accounting lines data for MIS builder reports
+2026-09-27T04:39:03Z,odoo-addon-sustainability-point-of-sale,18.0.1.1.0.2,=?utf-8?q?MCO2=2C_Open_Net_S=C3=A0rl?=,LGPL-3,24272,Sustainability Point of Sale
+2026-09-27T04:46:11Z,uvc-avf,0.1.0,Vimal Mollyn,MIT,73785,Sudo-free pyuvc stand-in for macOS: AVFoundation frames + libusb UVC controls
+2026-09-27T04:50:04Z,pytest-ditto-pickle,2.0.0b1,Lachlan Taylor <95459213+owlowlyowl@users.noreply.github.com>,MIT,7793,pytest-ditto plugin for pickle snapshots.
+2026-09-27T04:50:30Z,macuvc,0.1.0,Vimal Mollyn,MIT,73314,Sudo-free pyuvc stand-in for macOS: AVFoundation frames + libusb UVC controls
+2026-09-27T05:01:58Z,sentinel-2-cog-downloader,0.1.1,Chad Groom,MIT,22141,"Download Sentinel-2 L2A COGs from Element 84 STAC, stitch full bbox coverage, and load selected bands as xarray."
+2026-09-27T05:04:23Z,qed-proof,0.1.1,Nuraveda Lab,Apache-2.0,53485,"Python SDK for QED Proof: submit claims, fetch receipts, and verify them offline against the PoAW receipt spec."
+2026-09-27T05:06:38Z,ztpcraft,0.2,Tianpu Zhao <pacosynthesis@gmail.com>,BSD-3-Clause,4465843,Tianpu Zhao's personal toolbox
+2026-09-27T05:16:06Z,econhdfe,0.6.3,econhdfe contributors,"BSD 3-Clause License Copyright (c) 2026, pyreghdfe contributors All rights reserved. Redistribution…",4975042,High-performance econometric estimators with shared high-dimensional fixed-effect infrastructure
+2026-09-27T05:17:12Z,dail-marketplace,1.0.0,DAiL,,8618,MCP server adapter for the DAiL agent-to-agent marketplace

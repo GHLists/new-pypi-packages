@@ -8,33 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 04:19 UTC
+## Latest list — 2026-09-27 05:19 UTC
 
-New packages created between 2026-09-27 03:18 UTC and 2026-09-27 04:19 UTC.
+New packages created between 2026-09-27 04:19 UTC and 2026-09-27 05:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-27T04-19-19-380622Z.csv)
+[Full CSV](data/new-packages-2026-09-27T05-19-58-573954Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-27 03:19:33 | [dorothea](https://pypi.org/project/dorothea/) | 1.9.1 | Marco Lussetti, Jack Qiao | 6.3 MB | Static photography website generator: turn folders of photos and videos into a… |
-| 2026-09-27 03:20:23 | [cybat-sdk](https://pypi.org/project/cybat-sdk/) | 0.2.0 |  | 57.9 kB | Cybat SDK for Python — WSGI/ASGI middleware that reports HTTP traffic directly… |
-| 2026-09-27 03:26:20 | [bts-pivot](https://pypi.org/project/bts-pivot/) | 0.20.0 |  | 593.1 kB | Auto-fitted pivot tables that toggle to histograms and back, with slicing, clus… |
-| 2026-09-27 03:28:28 | [attestwire](https://pypi.org/project/attestwire/) | 0.1.0 | Attestwire <hello@attestwire.… | 34.7 kB | Validate EN 16931 e-invoices (XRechnung, Factur-X/ZUGFeRD, Peppol BIS 3) via th… |
-| 2026-09-27 03:28:54 | [gpconf](https://pypi.org/project/gpconf/) | 0.3.0 |  | 1.0 MB | Runner for the GP/OMM conformance corpus (Alpha-5, 6- and 9-digit catalog numbe… |
-| 2026-09-27 03:38:54 | [localapi](https://pypi.org/project/localapi/) | 0.1.0 |  | 24.9 kB | Turn any Python function into a local HTTP API with zero boilerplate. |
-| 2026-09-27 03:42:34 | [sparkkitchen](https://pypi.org/project/sparkkitchen/) | 0.0.1 |  | 10.7 kB | sparkKitchen: plan, serve and watch models on NVIDIA GB10 clusters (name reserv… |
-| 2026-09-27 03:47:32 | [facturador-afip-mcp](https://pypi.org/project/facturador-afip-mcp/) | 0.1.0 | ignaciovilagraca | 100.1 kB | Servidor MCP para emitir facturas electrónicas de ARCA (ex AFIP): A, B, C, nota… |
-| 2026-09-27 03:49:08 | [AZPytest](https://pypi.org/project/AZPytest/) | 0.1.0 | vxvira | 24.7 kB | Tick-data backtesting toolkit: replay a CSV, simulate long/short trades, and ru… |
-| 2026-09-27 03:55:03 | [oura-ring-python-mcp](https://pypi.org/project/oura-ring-python-mcp/) | 0.1.0 |  | 70.7 kB | MCP server exposing Oura Ring sleep, readiness, activity and heart rate data |
-| 2026-09-27 03:58:19 | [conventional-git](https://pypi.org/project/conventional-git/) | 1.0.0 | "G.A.JAGUAR" <dev@gajaguar.co… | 186.7 kB | Conventional Commits and Conventional Branch enforcement, validation, and gener… |
-| 2026-09-27 04:00:52 | [plottery-ui](https://pypi.org/project/plottery-ui/) | 1.0.0 | Brian Hempel, Ruanqianqian (L… | 2.4 MB | An in-notebook graphical interface for Matplotlib: drag shapes, tweak arguments… |
-| 2026-09-27 04:01:09 | [deped-maps-reader](https://pypi.org/project/deped-maps-reader/) | 0.1.0 |  | 21.6 kB | Verified lightweight reader for Maps v5 SQLite releases. |
-| 2026-09-27 04:03:47 | [mock-bank](https://pypi.org/project/mock-bank/) | 0.1.0 |  | 240.6 kB | A mock bank: ISO 20022 payment files in, status reports, statements and returns… |
-| 2026-09-27 04:06:13 | [pymacos](https://pypi.org/project/pymacos/) | 1.0.0 | Jean Loui Bernard Silva de Je… | 55.7 kB | A Pythonic interface to macOS — notifications, clipboard, dark mode, apps, Keyc… |
-| 2026-09-27 04:09:04 | [caracas4check](https://pypi.org/project/caracas4check/) | 1.1.1 | 4check | 16.9 kB | Human-oriented Python client for the 4check caracas API |
-| 2026-09-27 04:12:18 | [reporipple](https://pypi.org/project/reporipple/) | 0.2.0 | Adi Arora | 57.9 kB | Deterministic change-impact analysis for engineers and coding agents. |
-| 2026-09-27 04:13:39 | [veltra-agent](https://pypi.org/project/veltra-agent/) | 0.1.0 | Veltra AI Team <founders@velt… | 6.5 kB | Deterministic local security guardrail for autonomous software agents. |
-| 2026-09-27 04:16:24 | [deped-enroll](https://pypi.org/project/deped-enroll/) | 0.0.10 | Marcelino Veloso III | 63.8 kB | Dated DepEd enrollment artifacts from school-year enrollment CSVs. |
-| 2026-09-27 04:16:27 | [azure-db-extractor](https://pypi.org/project/azure-db-extractor/) | 0.0.8 | Marcelino Veloso III | 48.9 kB | Create verified local copies of Azure databases |
-| 2026-09-27 04:16:32 | [openbb-arkleon](https://pypi.org/project/openbb-arkleon/) | 0.1.0 | Arkleon | 21.0 kB | Arkleon point-in-time SEC fundamentals provider extension for the OpenBB Platfo… |
-| 2026-09-27 04:17:01 | [deped-dataset](https://pypi.org/project/deped-dataset/) | 0.2.4 | Marcelino Veloso III | 205.7 kB | Add datasets into sqlite db file. |
+| 2026-09-27 03:45:52 | [pphs](https://pypi.org/project/pphs/) | 1.0.1 | PPHS Contributors | 35.3 kB | A polished developer-friendly static file server with a searchable file browser… |
+| 2026-09-27 04:20:01 | [merge-pulls](https://pypi.org/project/merge-pulls/) | 1.0.1 | developers <developers@tagdot… | 142.8 kB |  |
+| 2026-09-27 04:22:41 | [NHD-toanhoc](https://pypi.org/project/NHD-toanhoc/) | 0.1.0 | NguyenDucHung | 2.7 kB | Thu vien toan hoc co ban |
+| 2026-09-27 04:23:02 | [smartfactory](https://pypi.org/project/smartfactory/) | 0.1.0 |  | 36.5 kB | MicroPython libraries for Maker ESP32 PRO smart factory education |
+| 2026-09-27 04:29:12 | [qualms](https://pypi.org/project/qualms/) | 0.0.0 |  | 1.9 kB |  |
+| 2026-09-27 04:38:57 | [odoo-addon-sustainability-stock](https://pypi.org/project/odoo-addon-sustainability-stock/) | 18.0.1.2.1.2 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 46.5 kB | Sustainability Inventory |
+| 2026-09-27 04:39:00 | [odoo-addon-sustainability-hr-expense-report](https://pypi.org/project/odoo-addon-sustainability-hr-expense-report/) | 18.0.1.1.0.4 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 26.1 kB | Provide CO2 accounting data for expense reports |
+| 2026-09-27 04:39:03 | [odoo-addon-sustainability-mis-builder](https://pypi.org/project/odoo-addon-sustainability-mis-builder/) | 16.0.0.1.0.6 | MCO2, Open Net Sàrl | 25.0 kB | Provide CO2 accounting lines data for MIS builder reports |
+| 2026-09-27 04:39:03 | [odoo-addon-sustainability-point-of-sale](https://pypi.org/project/odoo-addon-sustainability-point-of-sale/) | 18.0.1.1.0.2 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 24.3 kB | Sustainability Point of Sale |
+| 2026-09-27 04:46:11 | [uvc-avf](https://pypi.org/project/uvc-avf/) | 0.1.0 | Vimal Mollyn | 73.8 kB | Sudo-free pyuvc stand-in for macOS: AVFoundation frames + libusb UVC controls |
+| 2026-09-27 04:50:04 | [pytest-ditto-pickle](https://pypi.org/project/pytest-ditto-pickle/) | 2.0.0b1 | Lachlan Taylor <95459213+owlo… | 7.8 kB | pytest-ditto plugin for pickle snapshots. |
+| 2026-09-27 04:50:30 | [macuvc](https://pypi.org/project/macuvc/) | 0.1.0 | Vimal Mollyn | 73.3 kB | Sudo-free pyuvc stand-in for macOS: AVFoundation frames + libusb UVC controls |
+| 2026-09-27 05:01:58 | [sentinel-2-cog-downloader](https://pypi.org/project/sentinel-2-cog-downloader/) | 0.1.1 | Chad Groom | 22.1 kB | Download Sentinel-2 L2A COGs from Element 84 STAC, stitch full bbox coverage, a… |
+| 2026-09-27 05:04:23 | [qed-proof](https://pypi.org/project/qed-proof/) | 0.1.1 | Nuraveda Lab | 53.5 kB | Python SDK for QED Proof: submit claims, fetch receipts, and verify them offlin… |
+| 2026-09-27 05:06:38 | [ztpcraft](https://pypi.org/project/ztpcraft/) | 0.2 | Tianpu Zhao <pacosynthesis@gm… | 4.5 MB | Tianpu Zhao's personal toolbox |
+| 2026-09-27 05:16:06 | [econhdfe](https://pypi.org/project/econhdfe/) | 0.6.3 | econhdfe contributors | 5.0 MB | High-performance econometric estimators with shared high-dimensional fixed-effe… |
+| 2026-09-27 05:17:12 | [dail-marketplace](https://pypi.org/project/dail-marketplace/) | 1.0.0 | DAiL | 8.6 kB | MCP server adapter for the DAiL agent-to-agent marketplace |
