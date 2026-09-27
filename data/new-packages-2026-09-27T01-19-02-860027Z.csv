@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T23:09:53Z,aegis-gateway-pack-content,2.0.0a4,Aegis contributors,AGPL-3.0-or-later,42559,"Aegis policy pack: model-based content inspection — secrets, custom entities, sensitivity and prompt-attack labels."
+2026-09-27T00:19:26Z,vainona,0.0.1,,,1547,Official Vainona SDK. Coming soon: https://vainona.ai
+2026-09-27T00:22:47Z,lapsecoin,0.8.3,,MIT,1063178,"LapseCoin full node: Falcon-512 post-quantum signatures, a VDF-based consensus clock, and a built-in wallet dashboard."
+2026-09-27T00:28:14Z,cdf-shell,0.1.0,Felipe Ruhland <pypi@feliperuhland.com>,MIT,88927,Interactive git-project cd/find
+2026-09-27T00:29:47Z,xthread-agent,3.2.0,Bilal140202,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",73612,"Agentic X/Twitter thread content & media harvester for AI agents — no login, no API keys, no browser. MCP wrapper included."
+2026-09-27T00:48:00Z,aersn,0.1.0,"Yongmiao Hong, Zhuo Lin, Oliver Linton, Whitney K. Newey",MIT,103756,Affine-equivariant adjusted-range self-normalization for time-series inference
+2026-09-27T00:59:03Z,TCRmeta,0.1.0,Mingyao Pan,MIT,62335,"Antigen-aware TCR repertoire embeddings: pretrained ESM2 + contrastive fine-tuning, with downstream CSS scoring, UMAP projection, and energy-distance shift analysis."
+2026-09-27T01:02:01Z,sitefootprint,0.1.0,Lawrence Oladeji <oladeji.lawrence@gmail.com>,MIT,67882,"Location-resolved carbon and water footprints of AI training, with hourly climate-driven cooling and calibrated uncertainty"
+2026-09-27T01:02:18Z,sklarstad-storefront-mcp,0.1.1,Sklarstad LLC <sklarstad@gmail.com>,MIT,13970,MCP server that lets AI assistants look up Sklarstad LLC's products (FirstTake: video production from shoot to delivered master).
+2026-09-27T01:02:36Z,chemthermo,0.4.0,Ahmad Alkadri,MIT,512934,"Phase equilibrium for chemical engineering: tangent-plane stability, multiphase TP flash, Peng-Robinson, PC-SAFT and NRTL."
+2026-09-27T01:03:48Z,bidsgate,0.1.0,Cedric Conday,MIT,45891,"Recovery gate for neuroimaging pipelines: inject known lesions or atrophy into real BIDS data, run any BIDS app, score what it recovered."
+2026-09-27T01:04:17Z,dqlab-grader,0.1.0,Abel Kristanto,MIT,84148,Pengecek jawaban latihan Data Analyst with Python (DQLab) + pencatatan progres peserta
+2026-09-27T01:07:53Z,uvscaffoldingtest20260926,0.1.0,Dave Brownell,MIT,7541,Add your description here
+2026-09-27T01:08:13Z,sqldash,0.1.0,Dylan Murray,Apache-2.0,2035097,"Single-file SQL dashboards. Pure Python, no cloud, no build step."
+2026-09-27T01:09:12Z,unichart,0.1.0,Cunon,MIT,554578,A plotting and notebook dashboard tool built on Plotly
+2026-09-27T01:12:41Z,flashalign,0.1.0,Gong Chen <dsbchen@ucdavis.edu>,MIT,3308183,"CPU-native long-read aligner for DNA and spliced RNA, with a mappy-style Python API"
+2026-09-27T01:12:48Z,weather-sculpt,0.1.0,roblitz,MIT,34091980,"Sculpt real ERA5 weather fields into video, GIF and sound — 4 tuned presets, real reanalysis data."
+2026-09-27T01:15:49Z,sciev,0.2.1,Angel Robles,Apache-2.0,183831,Typed decision heads on frozen masked-diffusion backbones with held-out calibration.
+2026-09-27T01:17:22Z,fold-attention,0.1.0,Sriman Achanta,,344362,"FoldAttention declares softmax’s reference before execution, making attention additive and enabling up to 3.09× faster H100 decode and deterministic backward faster than nondeterministic kernels."
