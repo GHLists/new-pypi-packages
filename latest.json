@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-09-27T14:20:09.611287Z",
-    "path": "data/new-packages-2026-09-27T15-18-56-689518Z.csv",
-    "to": "2026-09-27T15:18:56.689518Z"
+    "count": 37,
+    "from": "2026-09-27T15:18:56.689518Z",
+    "path": "data/new-packages-2026-09-27T16-19-35-883864Z.csv",
+    "to": "2026-09-27T16:19:35.883864Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-27T11:31:17Z",
-      "package": "bel-channel-sounding",
-      "since": "2026-09-27T11:19:25.048116Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-27T14:21:47Z",
       "package": "byt3d4nc3",
       "since": "2026-09-27T14:20:09.611287Z"
     }
   ],
-  "serial": 41519100,
+  "serial": 41520601,
   "source_truncated": false,
-  "window": "2026-09-27T15:18:56.689518Z"
+  "window": "2026-09-27T16:19:35.883864Z"
 }

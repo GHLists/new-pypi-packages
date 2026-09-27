@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T15:20:02Z,tramaj,0.1.0,Lucas DiCioccio,MIT,74983,"Python port of the Tramaj language: parser, evaluator (concrete and symbolic modes), normative Node JSON, and static analysis. Standard library only."
+2026-09-27T15:20:52Z,lmhdx,1.5.0,Rogerio Jorge,MIT,431344,"JAX-native inductionless MHD toolkit for research, benchmarking, and differentiable simulation"
+2026-09-27T15:20:54Z,voice-stt-client,1.0.0,Marco Sudau,,2407535,Windows desktop client for the Voice STT Server
+2026-09-27T15:20:55Z,TaxonWeave,0.2.0,Andrew Davinack,,49025,Provenance-aware reconciliation of taxonomic concepts and molecular sequence records.
+2026-09-27T15:21:06Z,cantcp,0.1.0,Stepanov Mikhail,MIT,54346,Python library for the cantcp protocol: Linux SocketCAN framing with CRC-8 and a CAN / CAN FD frame model
+2026-09-27T15:22:57Z,video-duplicate,1.0.0,ritonun,,8392,Find duplicate videos across folders
+2026-09-27T15:23:57Z,aa-eveonline-sde-admin-page,0.0.1,Peter Pfeufer <develop@ppfeufer.de>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",88356,EVE Online SDE Admin Page for Alliance Auth
+2026-09-27T15:26:04Z,aither-capture,0.1.0,Aitherium,Proprietary,12919,"AitherCapture — capture your AI coding sessions (Claude Code, Codex, Copilot, Cursor, Antigravity) into clean ShareGPT datasets you own."
+2026-09-27T15:27:35Z,thuvien-toan-nguyen-anh-quan,1.0.0,Tên của bạn,,2960,Thư viện toán học cơ bản bài tập 7
+2026-09-27T15:28:27Z,runvera,0.1.0,Runvera <runvera.support@gmail.com>,MIT,20123,Simple monitoring for AI agent runs with Runvera.
+2026-09-27T15:28:46Z,hubble-cli,4.0.0,,MIT,185940,Hubble: agentic coding CLI for AIHub and other OpenAI-compatible APIs
+2026-09-27T15:33:38Z,srdp,0.3.1,Yannick Vinkesteijn,Apache-2.0,31756,"Single Repo Data Platform: a composable, self-hostable data stack"
+2026-09-27T15:34:02Z,matrainer,0.1.0a1,Gert Behiels,MIT,586986,Experiment tracking for any training platform (MLflow / TensorBoard / CSV / W&B).
+2026-09-27T15:35:06Z,tokenjuggler,0.1.0,ishu0505,Apache-2.0,193224,"One interface to GPT, Gemini and Claude across many providers, with shared quota enforcement, failover and cost tracking"
+2026-09-27T15:35:22Z,docclaims,0.4.0,,MIT,68384,"Check the numbers your README states against where they come from. No markup in the prose, no dependencies."
+2026-09-27T15:35:35Z,parsecraft,2026.9.3,"""Jan.Reimes"" <Jan.Reimes@head-acoustics.com>",MIT,155585,"Document intelligence: convert any document into typed structured chunks, with Markdown as a deterministic projection"
+2026-09-27T15:38:38Z,robottraderslab-impulse,0.1.0,,Apache-2.0,22858,Impulse trading strategy plugin for the RobotTradersLab engine
+2026-09-27T15:50:14Z,stillhead,0.1.0,Lucino772,,41892,"Alembic migrations for modules that share one database, each with its own tables, revisions and version table."
+2026-09-27T15:55:14Z,universal-packer,0.1.0,Quadrium,MIT OR Apache-2.0,423368,"Universal file packer with plugin architecture for compression, decompression, and archive handling"
+2026-09-27T15:55:58Z,smtping,1.0.0,SMTPing <support@smtping.com>,MIT,14209,"Official SMTPing SDK for Python: verify email addresses, run bulk list jobs, and check spamtrap, disposable, spambot and complainer lists."
+2026-09-27T15:58:44Z,qanuntrace,0.1.0,Shehata El-sayed,Apache-2.0,66547,Source-grounded legal retrieval and exact-quote verification pipeline
+2026-09-27T15:59:15Z,labwired,0.25.0,,MIT,61141143,Run and test microcontroller firmware in a deterministic virtual-time simulator
+2026-09-27T16:00:02Z,navig-cabinet,0.2.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,280291,"NAVIG Cabinet — your documents in one plugin: an encrypted cabinet for important files (ID and passport scans, medical records, contracts, photos, recordings — any type, any size; local-OCR search, e…"
+2026-09-27T16:02:24Z,fram,1.0.0,Thomas Mourier <mourier.t@northeastern.edu>,MIT,240783,First-passage / extreme-statistics kinetic proofreading model of T cell antigen discrimination (Morgan & Lindsay 2023)
+2026-09-27T16:02:35Z,kingmadoc,0.2.0,KingmaDoc contributors,"MIT License Copyright (c) 2026 Timme Kingma Permission is hereby granted, free of charge, to any pe…",440134,"Feature docs for AI coding agents: a plan with C4 diagrams before the code, a verification doc after."
+2026-09-27T16:02:36Z,pydantic-ai-escalation,0.1.0,Oleg Teterevlev <o.damage@gmail.com>,MIT,22907,Escalate a Pydantic AI agent to a stronger model when output validation keeps failing.
+2026-09-27T16:02:48Z,issueclaw,0.1.0,Aviad Rozenhek,MIT,126447,"Mirror Linear into markdown files in git, and push your edits back. Issues as code for developers and AI agents."
+2026-09-27T16:03:38Z,jobscheduler-task-sdk,0.1.0,JobScheduler contributors,MIT,8564,Language-neutral JobScheduler protocol runner and Python task SDK
+2026-09-27T16:06:07Z,site-health-checker,2.0.0,Reena Kotadiya,MIT,39530,"Audit any website for accessibility (WCAG) problems, broken links, slow pages, redirect chains and missing titles, with a plain-English HTML report."
+2026-09-27T16:06:39Z,devmedic,0.2.0,,MIT,65000,"A health check for your developer machine: ports, junk folders, caches, git repos, dev processes — offline."
+2026-09-27T16:07:20Z,nepsepy,1.0.0,nepsepy contributors,MIT,45539,Unofficial Python client for public Nepal Stock Exchange market data
+2026-09-27T16:07:34Z,biblegateway-mcp,1.0.0,SaSteMi,"MIT License Copyright (c) 2026 Samuel Miller Permission is hereby granted, free of charge, to any p…",211551,Unofficial bible passage retrieval MCP server using BibleGateway
+2026-09-27T16:08:16Z,canarywire,0.1.0a1,Petr Konstantinov <pit.here@gmail.com>,Apache-2.0,293683,A regression test for your PII gateway's trust boundary.
+2026-09-27T16:09:32Z,guatiao,0.0.0a0,jose-pr,MPL-2.0,68948,ctypes bindings over the guatiao C ABI
+2026-09-27T16:09:41Z,disprs,0.1.0,,Apache-2.0,20179781,"Native D3, gCP, D4 and D4S dispersion corrections"
+2026-09-27T16:11:42Z,abap-adt-mcp,0.1.0,Tim Köhne <20153452+timkoehne@users.noreply.github.com>,MIT,26977,MCP server exposing SAP ABAP Development Tools (ADT) via abap-adt-py.
+2026-09-27T16:18:09Z,icinga-check-dns,0.0.2,"Pieter Lexis <pieter.lexis@powerdns.com>, Peter eckel <pe@sys4.de>",GPL-2.0-only,23685,Icinga/Nagios check that uses dnsviz to check many parameters
