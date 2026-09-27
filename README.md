@@ -8,41 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 02:20 UTC
+## Latest list — 2026-09-27 03:18 UTC
 
-New packages created between 2026-09-27 01:19 UTC and 2026-09-27 02:20 UTC.
+New packages created between 2026-09-27 02:20 UTC and 2026-09-27 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-27T02-20-02-688362Z.csv)
+[Full CSV](data/new-packages-2026-09-27T03-18-53-016769Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-27 01:20:47 | [lockstep-ml](https://pypi.org/project/lockstep-ml/) | 0.0.2 |  | 1.7 kB | Verifiable training: commit, challenge, replay. |
-| 2026-09-27 01:26:37 | [cci-sdk](https://pypi.org/project/cci-sdk/) | 0.1.0 | CCI <rahul.vishwakarma@workon… | 555.8 kB | Python SDK and standalone statistics engine for Conformal Logit Inference (CLI)… |
-| 2026-09-27 01:30:18 | [nodra-agent-sdk](https://pypi.org/project/nodra-agent-sdk/) | 0.1.0 | Nodra | 11.8 kB | Python SDK for protecting autonomous AI-agent actions with Nodra. |
-| 2026-09-27 01:30:24 | [memeseeks](https://pypi.org/project/memeseeks/) | 0.3.0 |  | 748.7 kB | 迷因捕手 — find memes by what you mean, across languages. |
-| 2026-09-27 01:33:23 | [nexura](https://pypi.org/project/nexura/) | 0.1.0 | Nexura | 150.1 kB | Framework-independent agent tracing and Nexura managed deployment |
-| 2026-09-27 01:37:12 | [hack4u-v035](https://pypi.org/project/hack4u-v035/) | 0.1.0 | VexedElm035 | 3.7 kB | Biblioteca para consulta cursos de hack4u |
-| 2026-09-27 01:37:36 | [gtrex](https://pypi.org/project/gtrex/) | 0.1.0a1 |  | 117.3 kB | Grounded text extraction you can check: verifiable quotation grounding for LLM… |
-| 2026-09-27 01:38:07 | [aei-workflow-runner](https://pypi.org/project/aei-workflow-runner/) | 0.1.0 | AID Edge Inc. | 127.7 kB | Local-first workflow runner for Velorona: validated link workflows, per-link Pa… |
-| 2026-09-27 01:39:45 | [terroir-lang](https://pypi.org/project/terroir-lang/) | 0.0.0 |  | 1.4 kB | Reserved for a future release. |
-| 2026-09-27 01:39:54 | [isar-tools](https://pypi.org/project/isar-tools/) | 0.1.0 | Manuel Lerchner | 197.3 kB | Source tooling for Isabelle/Isar projects: formatting, checks, and statistics. |
-| 2026-09-27 01:41:30 | [guidinghand](https://pypi.org/project/guidinghand/) | 0.1.0 | GuidingHand <dev@guidinghand.… | 65.0 kB | The official Python SDK for the GuidingHand API: run tasks on a person's comput… |
-| 2026-09-27 01:48:42 | [ferry-tui](https://pypi.org/project/ferry-tui/) | 0.1.2 | Abdou Ghanim | 115.6 kB | One window for every AI coding conversation on this machine. List, search, prev… |
-| 2026-09-27 01:50:19 | [stellar-core](https://pypi.org/project/stellar-core/) | 0.0.1 |  | 2.0 kB | Name held by the Forge fleet. Not a public package; installs nothing. |
-| 2026-09-27 01:51:48 | [purepycrypto](https://pypi.org/project/purepycrypto/) | 3.2.0 | Dvs(DvsXT) | 634.2 kB | Pure-Python cryptography library (zero dependencies): SHA-2/SHA-3/BLAKE2b, AES-… |
-| 2026-09-27 01:54:52 | [full-event-hub](https://pypi.org/project/full-event-hub/) | 1.1.4 | Ravi Leal <ravi@example.com> | 15.9 kB | Zero-dependency Python client for the event-hub webhook fan-out service |
-| 2026-09-27 01:57:59 | [vezor](https://pypi.org/project/vezor/) | 2.0.0 | Vezor Team | 46.8 kB | GitOps-native secrets management SDK and CLI |
-| 2026-09-27 02:03:18 | [ilesp](https://pypi.org/project/ilesp/) | 0.1.0 | ILESP Contributors | 45.6 kB | Intelligent Logistics Equipment Scheduling Platform — WCS + RCS + built-in simu… |
-| 2026-09-27 02:04:33 | [classone](https://pypi.org/project/classone/) | 0.1.0 | Thiago | 62.7 kB | Open-source System 1 decision model architecture built on Gemma 4 E2B |
-| 2026-09-27 02:09:05 | [fleet-registry](https://pypi.org/project/fleet-registry/) | 0.1.0 | Mark Stouffer | 42.4 kB | Inventory, audit, and provisioning CLI + TUI for a homelab fleet of Linux nodes |
-| 2026-09-27 02:11:43 | [agentperf-local-rustcore](https://pypi.org/project/agentperf-local-rustcore/) | 0.1.0 | Artificial Analysis | 17.3 kB | Optional Rust streaming client for agentperf-local. |
-| 2026-09-27 02:11:44 | [agentperf-local](https://pypi.org/project/agentperf-local/) | 0.1.0 | Artificial Analysis | 5.6 MB | Replay recorded agent tasks against an OpenAI-compatible endpoint. |
-| 2026-09-27 02:11:45 | [maxey0](https://pypi.org/project/maxey0/) | 0.3.1 | mmc7676 <support@maxey0.com> | 1.8 MB | Structured Context Windows for AI agents: partition what each agent can see, ga… |
-| 2026-09-27 02:13:00 | [karotte](https://pypi.org/project/karotte/) | 0.0.1 |  | 1.3 kB | Placeholder for karotte, which is being open-sourced. |
-| 2026-09-27 02:13:01 | [karotte-internal](https://pypi.org/project/karotte-internal/) | 0.0.1 |  | 1.4 kB | Name held by Preference Model; not distributed on PyPI. |
-| 2026-09-27 02:13:02 | [karotte-schemas](https://pypi.org/project/karotte-schemas/) | 0.0.1 |  | 1.3 kB | Placeholder for karotte-schemas, which is being open-sourced. |
-| 2026-09-27 02:13:03 | [pm-env-schemas](https://pypi.org/project/pm-env-schemas/) | 0.0.1 |  | 2.2 kB | Placeholder for pm-env-schemas, the old name of karotte-schemas. |
-| 2026-09-27 02:14:13 | [timefork](https://pypi.org/project/timefork/) | 0.0.1 | Arun Shankar | 2.5 kB | Time-travel debugging for LLM agents. Record a run, rewind to any step, change… |
-| 2026-09-27 02:14:46 | [vda5050-sdk](https://pypi.org/project/vda5050-sdk/) | 0.1.0 | VDA5050 SDK Contributors | 206.3 kB | Async Python SDK for the VDA 5050 AGV communication standard (master control an… |
-| 2026-09-27 02:16:06 | [metrics_sdk](https://pypi.org/project/metrics_sdk/) | 999.0.0 |  | 702 B | synack authorized dependency-confusion PoC placeholder |
-| 2026-09-27 02:16:07 | [metrio](https://pypi.org/project/metrio/) | 999.0.0 |  | 694 B | synack authorized dependency-confusion PoC placeholder |
+| 2026-09-27 02:21:35 | [union-skills](https://pypi.org/project/union-skills/) | 0.0.2 | unionai-oss | 113.9 kB | Deploy and operate Union.ai. Self-serve setup on AWS end to end: provision EKS,… |
+| 2026-09-27 02:21:51 | [xlsxflat](https://pypi.org/project/xlsxflat/) | 0.1.0 | Younes Z. | 24.9 kB | Turn a tree of messy .xlsx reports into one flat table, with a report of every… |
+| 2026-09-27 02:22:03 | [freestyle-libre-mcp](https://pypi.org/project/freestyle-libre-mcp/) | 0.1.1 |  | 44.8 kB | MCP server exposing FreeStyle Libre glucose readings from LibreLinkUp |
+| 2026-09-27 02:22:05 | [codex-auto-compute](https://pypi.org/project/codex-auto-compute/) | 0.1.3 |  | 64.0 kB | Conservative Codex worker routing with local usage and outcome evidence |
+| 2026-09-27 02:28:05 | [rag-ladder](https://pypi.org/project/rag-ladder/) | 0.1.1 |  | 55.3 kB | 6 RAG recipes, ladder-first: BM25 full-text, LLM query rewriting, hybrid retrie… |
+| 2026-09-27 02:29:05 | [alive-verify](https://pypi.org/project/alive-verify/) | 0.1.0 |  | 17.7 kB | Unofficial Python client for the Alive Verify API |
+| 2026-09-27 02:29:23 | [jep-core-conformance](https://pypi.org/project/jep-core-conformance/) | 0.7.4 |  | 48.6 kB | JEP Core 0.7 conformance tools with explicit legacy 0.6 compatibility |
+| 2026-09-27 02:30:28 | [polyjev](https://pypi.org/project/polyjev/) | 0.1.0 | Praveen Shukla | 184.3 kB | Typed, calibrated decisions from any LLM: yes/no, choice, rating and grounded e… |
+| 2026-09-27 02:30:46 | [storepagelint](https://pypi.org/project/storepagelint/) | 0.1.0 | Younes Z. | 28.9 kB | Check whether a game store page says its genre, and where a reader finds it. |
+| 2026-09-27 02:36:46 | [xc-xrunner](https://pypi.org/project/xc-xrunner/) | 0.1.2 |  | 1.8 MB | Rootless container runtime for Docker images, built for coala |
+| 2026-09-27 02:38:18 | [ned-watch-mcp](https://pypi.org/project/ned-watch-mcp/) | 1.0.0 |  | 10.3 kB | Register a URL, condition, or deadline; Ned wakes you at your callback when it… |
+| 2026-09-27 02:42:02 | [dhrona](https://pypi.org/project/dhrona/) | 0.1.1 | Karthik <karthik.rajgopal@hot… | 39.1 kB | train agents to choose and use the right tools |
+| 2026-09-27 02:42:47 | [julia-mlx](https://pypi.org/project/julia-mlx/) | 0.2.0 | Merchantry LLC | 58.2 kB | Julia-1 decision model on Apple silicon with MLX, at parity with the reference… |
+| 2026-09-27 02:45:40 | [agentbus-cli](https://pypi.org/project/agentbus-cli/) | 0.1.0 | Ekin Ertaç | 70.1 kB | Cross-session messaging between coding agents on the same machine (Claude Code,… |
+| 2026-09-27 02:47:11 | [ranbo4s](https://pypi.org/project/ranbo4s/) | 1.0.0 | Tinghua Huang <thua45@126.com> | 38.3 kB | A Python package for mining key transcription factors from transcriptome data. |
+| 2026-09-27 02:48:19 | [claudedashbord](https://pypi.org/project/claudedashbord/) | 0.1.0 | claudedashbord maintainers | 6.5 kB | A lightweight toolkit for building and monitoring AI/ML dashboards |
+| 2026-09-27 02:52:28 | [beans-picker](https://pypi.org/project/beans-picker/) | 0.3.0 | mimo-3 | 439.6 kB | An MCP server that handpicks the right control for agents driving macOS apps, a… |
+| 2026-09-27 02:56:57 | [holaryn](https://pypi.org/project/holaryn/) | 0.0.0 | Synergentic, Inc. | 2.4 kB | Name reserved by Synergentic, Inc. Contains no usable code. |
+| 2026-09-27 02:56:58 | [holaryn-agent](https://pypi.org/project/holaryn-agent/) | 0.0.0 | Synergentic, Inc. | 2.5 kB | Name reserved by Synergentic, Inc. Contains no usable code. |
+| 2026-09-27 02:56:59 | [holaryn-ai](https://pypi.org/project/holaryn-ai/) | 0.0.0 | Synergentic, Inc. | 2.4 kB | Name reserved by Synergentic, Inc. Contains no usable code. |
+| 2026-09-27 02:57:00 | [holaryn-hacp](https://pypi.org/project/holaryn-hacp/) | 0.0.0 | Synergentic, Inc. | 2.5 kB | Name reserved by Synergentic, Inc. Contains no usable code. |
+| 2026-09-27 02:57:41 | [sudomimus-token](https://pypi.org/project/sudomimus-token/) | 4.1.0 | Sudomimus Contributors | 20.9 kB | Sudomimus Token SDK — parse and verify Sudomimus access and refresh JWTs. |
+| 2026-09-27 02:57:43 | [sudomimus-session](https://pypi.org/project/sudomimus-session/) | 4.1.0 | Sudomimus Contributors | 24.9 kB | Sudomimus Session SDK — user info, claim state, refresh-token rotation, introsp… |
+| 2026-09-27 02:57:46 | [sudomimus-connect](https://pypi.org/project/sudomimus-connect/) | 4.1.0 | Sudomimus Contributors | 29.7 kB | Sudomimus Connect SDK — establish authentication inquiries, poll status, redeem… |
+| 2026-09-27 02:57:48 | [sudomimus-device](https://pypi.org/project/sudomimus-device/) | 4.1.0 | Sudomimus Contributors | 19.6 kB | Sudomimus Device SDK — public-client device authorization with manual or automa… |
+| 2026-09-27 03:01:35 | [oracq](https://pypi.org/project/oracq/) | 0.1.0 | agony <chenzhaoyun@iai.ustc.e… | 1.7 MB | Python quantum generators with a modular register-level IR |
+| 2026-09-27 03:04:53 | [g-language](https://pypi.org/project/g-language/) | 1.0.0 | G Developer | 8.2 kB | An open-source custom programming language with dynamic local scope verificatio… |
+| 2026-09-27 03:14:22 | [judgetap](https://pypi.org/project/judgetap/) | 0.0.1 | Omer Bar-Ness <omer@zsquared.… | 2.3 kB | Fast typed decisions (choice, score, yes/no) across Jev-style engines, and a pr… |
+| 2026-09-27 03:14:27 | [emo-x-eval](https://pypi.org/project/emo-x-eval/) | 2.0.0rc1 |  | 369.5 kB | Adaptive, execution-based evaluation of AI coding models and agents |
+| 2026-09-27 03:15:53 | [posthorn](https://pypi.org/project/posthorn/) | 0.1.0 | Drew Vandagriff <vandagriff.d… | 52.9 kB | Lightweight configurable job posting scanner and alerting. Work smarter, not ha… |
+| 2026-09-27 03:16:51 | [stspeck](https://pypi.org/project/stspeck/) | 0.8.0 | "Daniel Mejia (Denphi)" <denp… | 119.1 kB | Speck molecule viewer for Streamlit: ambient occlusion, cartoons, surfaces and… |
+| 2026-09-27 03:16:57 | [minesweeper-tui](https://pypi.org/project/minesweeper-tui/) | 0.1.0 | Slackow | 5.8 kB | minesweeper in tui form |
+| 2026-09-27 03:17:11 | [copse-agents](https://pypi.org/project/copse-agents/) | 0.1.0 | Hannah Lerner | 119.2 kB | Orchestrate CLI coding agents in tmux, each on its own git worktree and branch |
