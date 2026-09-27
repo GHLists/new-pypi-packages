@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T10:22:34Z,aiocomexio,0.0.1,kayl-codes,MIT,6069,Asyncio-native Python client for the Comexio IO-Server
+2026-09-27T10:22:42Z,laya-guard,0.1.0,dockndevai <ankitcs17071993@gmail.com>,MIT,29108,"A local, safe-by-default AI risk guard for high-risk commands — deterministic rules plus the Laya decision model. Defense-in-depth for the dockndevai MCP suite; the guard only tightens."
+2026-09-27T10:23:07Z,tlf-disaster-profiler,0.1.1,Pujan Pandey,Apache-2.0,46631,"CAP-alert-driven disaster impact reports for Nepal: affected wards, population/household estimates, and hazard-specific infrastructure impact, built on tlf-geo-profiler."
+2026-09-27T10:24:08Z,loopgrid-google-adk,0.1.0,LoopGrid,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",44854,"Signed, independently verifiable decision evidence for Google Agent Development Kit using LoopGrid"
+2026-09-27T10:26:21Z,sidechannel,1.0.1,,GPL-3.0-or-later,220803,"Side Channel: a hacker-themed text adventure with a fake terminal, playable in a terminal or a browser"
+2026-09-27T10:30:22Z,parlon-bot,0.1.0,Parlon,MIT,16905,Official Python SDK for Parlon bots (api beta v0.1) — text messages and buttons.
+2026-09-27T10:30:41Z,axlet,0.1.0,,LicenseRef-Proprietary,8035,Python client for the Axlet subscription and credits API
+2026-09-27T10:34:31Z,DucCong-math,0.0.0,,,2551,
+2026-09-27T10:35:10Z,arxivscanner,0.1.1,Subham <shubham.divakar@gmail.com>,,46209,"Fetch and display new arXiv papers for a domain or subdomain, from the terminal."
+2026-09-27T10:39:43Z,geo-explorer-mcp,0.1.0,arnienemeth,MIT,31109,"MCP server serving country facts, administrative boundaries and regional statistics, so an AI can build interactive geography from structured data."
+2026-09-27T10:41:10Z,multigrid-py,3.0.2,Osama M. M. Abdellatif,MIT,28885,Python port of the Fortran MARFA line-by-line molecular absorption code
+2026-09-27T10:41:37Z,gemmadecision,0.1.0,Rajan Shukla,Apache-2.0,150701,"Typed local decisions for PydanticAI, with Rust HTTP serving and batched Gemma inference"
+2026-09-27T10:42:25Z,vibefilter,0.0.1,András Horváth <vibefilter@andrashorvath.dev>,MIT,3993,Filter your tables by vibe: natural-language filters powered by typed AI decisions.
+2026-09-27T10:42:50Z,flaky-detector-cli,0.1.1,Shreya,MIT,15804,Upload JUnit XML test reports to a flaky-detector project from the command line or CI.
+2026-09-27T10:43:06Z,esthien-argus-sdk,0.7.3,,,253459,"Argus SDK: safety-supervised inference for physical systems - profile compilation, regression evaluation, and evidence packages"
+2026-09-27T10:52:23Z,cleaner-crew,0.1.0,,,119598,"Autonomous crew of Claude Code agents that picks up small, safe tasks and opens MRs."
+2026-09-27T10:52:46Z,ranknexus,0.1.0,Gaurav Aggarwal,Apache-2.0,37091,"A lightweight, framework-agnostic library for fusing multiple search rankings in search and RAG systems."
+2026-09-27T10:53:27Z,dcc-mcp-powerpoint,0.2.3,Long Hao <hal.long@outlook.com>,MIT,17118956,"PowerPoint adapter for the DCC-MCP ecosystem — deck generation, slide composition and review decks over the dcc-mcp-office runtime"
+2026-09-27T10:55:01Z,simple-http-checker-d-superteach,1.2.0,,,10484,A simple CLI tool to check the status of URLs.
+2026-09-27T10:55:08Z,dcc-mcp-speedtree,0.1.1,loonghao <hal.long@outlook.com>,MIT,5680999,Local-first DCC-MCP adapter for SpeedTree official capabilities
+2026-09-27T10:55:27Z,Agentic-GenUI-Tools,0.2.0,,MIT,190490,"Modern, deterministic Adaptive Cards from small, forgiving agent tool calls"
+2026-09-27T10:55:52Z,natureplot,0.7.0,,MIT,141728,"Create interactive nature-inspired SVG charts from Python, with an offline browser renderer."
+2026-09-27T10:56:55Z,pymodcs,0.17.1,,GPL-2.0-or-later,713961,PyMod SDK for Counter-Strike 1.6: typed Python plugins and Russian/English API documentation
+2026-09-27T10:57:10Z,hepsijet,0.1.0,Omer <omer@novosdijital.com>,MIT,94839,"A typed, readable Python SDK for the HepsiJET cargo API (sync + async)."
+2026-09-27T10:57:32Z,westquant-bluequbit,0.1.0,WestQuant,Apache-2.0,85250,WestQuant Execution Representation Scheduling on BlueQubit compute
+2026-09-27T10:58:13Z,indiquant-sdk,3.3.5,IndiQuant Research,MIT,226671,"Python client for the IndiQuant tournament: sign in, read a round, load its data, validate and submit predictions."
+2026-09-27T10:58:17Z,indiquant-mcp,3.3.5,IndiQuant Research,MIT,37170,Local MCP server that lets Claude work with the IndiQuant tournament through your own SDK session. Data stays on your disk.
+2026-09-27T10:59:32Z,ctxc,0.0.1,jeremylimqe,MIT,8425,A minimal filesystem-to-context compiler.
+2026-09-27T11:01:05Z,vidai-rec,0.2.1,AlsammanAlsamman <sammanmahmoud@gmail.com>,,1447076,"Record, understand and improve your videos by talking to Claude (under development)"
+2026-09-27T11:03:31Z,localqpu,0.1.0,,Apache-2.0,250958,"A local emulator of the IBM Quantum Platform API, built for testing"
+2026-09-27T11:04:58Z,dcc-mcp-runtime,0.2.0,loonghao <hal.long@outlook.com>,MIT,17449,"Shared, signed runtime contract for external DCC-MCP adapters"
+2026-09-27T11:06:14Z,piherder-mcp,0.1.1,Bjorn Gluck,MIT,26045,stdio MCP adapter for the PiHerder token API
+2026-09-27T11:12:46Z,mydb-kingbase-mcp,0.3.0,少安事务所 <shawnyan@shawnyan.cn>,Apache-2.0,973260,"KingbaseES (KES) MCP server — schema exploration, read-only SQL, query plan & index analysis, health checks, slow-query and config diagnostics. Published by 少安事务所."
