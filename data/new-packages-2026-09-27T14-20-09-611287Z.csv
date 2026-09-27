@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T12:55:17Z,cursorproof,0.1.0,,Apache-2.0,92720,Check the correctness of cursor pagination across an entire REST stream.
+2026-09-27T13:19:38Z,genesisblockdb-client,0.1.0,GenesisBlockDB Engineering,MIT,10857,Python REST client for GenesisBlockDB
+2026-09-27T13:20:12Z,chatlog,1.0.7,chatlog,,109176,"A clean, dynamic transcript generator for Discord"
+2026-09-27T13:21:09Z,bayesrisk,0.0.1,Bayes Advisory <admin@nxlabs.cl>,Apache-2.0,12906,"Sucesor de nikodym (librería open-source de riesgo de crédito), en migración. Esta versión sólo reserva el nombre: usa nikodym."
+2026-09-27T13:24:24Z,schift-ab,0.1.0,,,29148,Python SDK for Schift-AB adaptive experiments
+2026-09-27T13:24:58Z,ies-optimiser,2026.9.0,Gréoux Research,MIT,680127,IES Optimiser: a linear optimiser-based integrated energy system modelling environment
+2026-09-27T13:25:19Z,schift-observer,0.2.0,,Apache-2.0,44033,Thin native client for hosted Schift Observer
+2026-09-27T13:30:03Z,repotainer,0.0.1,Suchi Pragya,,2728,Generate reproducible Dev Container configurations from repository files
+2026-09-27T13:31:12Z,aqx-shipping-rates,1.0.0,AQX Logistics Engineering,,1601,AQX Logistics US to Saudi Arabia & GCC Air Freight Rates Engine
+2026-09-27T13:32:21Z,vools-actus,0.7.8,Victor <victortop921129@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",302130,Actus 动作引擎 - 工作流自动化与动作编排
+2026-09-27T13:33:30Z,instagram-data-mcp,0.1.1,,MIT,24474,"MCP server for public Instagram data: profiles, posts, reels, stories, highlights, comments, hashtags and more."
+2026-09-27T13:34:50Z,vmaf-mcp,1.0.0rc1,Lusoris <lusoris@pm.me>,BSD-2-Clause-Patent,360233,"MCP server exposing VMAF scoring, model listing, and benchmark runs via JSON-RPC."
+2026-09-27T13:35:16Z,gpmtop,0.1.0,Vaibhav Nakrani,MIT,20228,"See what your NVIDIA GPU is bound by, live: a speed-of-light view of GPM metrics"
+2026-09-27T13:37:06Z,davy-jones-locker,0.1.1,Luke Williams,Apache-2.0,100033,"The Python engine that executes flowgraphs: SQL on a locked-down DuckDB, Python in a sandboxed runner, saved graphs, and an AI assistant. Its browser shell is davy-jones-locker on npm, on SEAMONSTER."
+2026-09-27T13:37:16Z,aqx-customs-duty-calc,1.0.0,AQX Logistics Engineering,,1840,AQX Logistics ZATCA Customs Duty and 15% VAT Estimation SDK for Saudi Arabia and UAE imports.
+2026-09-27T13:37:26Z,aqx-volumetric-repack,1.0.0,AQX Logistics Engineering,,1848,AQX Logistics Air Freight Volumetric Repacking and Dimensional Weight Reduction Engine.
+2026-09-27T13:38:42Z,pycangui,0.1.0,davhodg,Apache-2.0 AND MIT-0,1630690,"Graphical CAN bus tool: live trace and plots, transmit, CANopen, UDS, J1939, XCP and CCP, Python scripting"
+2026-09-27T13:42:05Z,korail-mobile-api,2.0.1,yakisoba0728,Apache-2.0,479484,Unofficial synchronous Python client for the KORAIL mobile API
+2026-09-27T13:42:08Z,gapit,0.2.2,indexofire <indexofire@gmail.com>,MIT,5740107,Mass screening of contigs for antimicrobial resistance and virulence genes — agent-first Python reimplementation of abricate
+2026-09-27T13:43:10Z,goku-sdk,0.0.1,Chen Bin <chenbinsg@gmail.com>,LicenseRef-Goku-Proprietary,1958,Name reserved for the proprietary Goku AI Platform SDK. Contains no code.
+2026-09-27T13:44:19Z,pywaterasm,1.0.0,jsdsg666,MIT,52754,Generate standalone activated-sludge model simulation scripts from .inwt definitions
+2026-09-27T13:46:11Z,gridlinegpu,0.1.0,Gridline GPU,Proprietary,19682,Python client for Gridline YAML workload routing
+2026-09-27T13:50:52Z,nnnotes,0.1.0,"MetaMiku, emptysekai",MIT,1238726,"Offline data toolkit for BanG Dream! Our Notes game files: catalogs, bundles, master data, stories, Live2D, audio and live charts"
+2026-09-27T13:51:00Z,viewgraphforge,1.0.0,Aizierjiang Aiersilan,MIT,427344,"Generator, loaders, baseline solvers and benchmark tools for ViewGraphBench, synthetic view graphs for global Structure-from-Motion"
+2026-09-27T13:52:36Z,hermes-mobile-plugin,0.0.15,Sachin Taware,MIT,114177,Hermes Mobile QR Plugin - Generates QR code for direct 8642 connection
+2026-09-27T13:54:27Z,aseity,0.1.0,aseity maintainers,MIT,11532,"A self-contained task orchestration toolkit (queue, scheduler, worker pool, retry)"
+2026-09-27T13:56:33Z,morphiaone,0.1.0,MorphiaOne,MIT,53935,"Python SDK for the MorphiaOne V1 API (Developer Preview): Skin Analysis, Makeup Try-On and Hair Color Try-On."
+2026-09-27T13:56:52Z,vico-cli,0.1.6,,MIT,32842,A simple CLI for creating Python backend projects
+2026-09-27T13:58:44Z,strlib2,2026.9.27,,,8186422,
+2026-09-27T14:03:24Z,effective-memory,0.2.0,,MIT,89071,"A local-first memory engine: semantic recall for agents, a linkable personal knowledge store, and forgetting-curve-based compaction."
+2026-09-27T14:03:55Z,passiveincome-commonpackage,1.0.0,Salim <salim.buskunov.2000@gmail.com>,,10286,Общий пакет для Python-приложений
+2026-09-27T14:05:10Z,entropy-sdk,0.1.5,Wang Miaosheng <wmsmiaosheng@outlook.com>,MIT,54466,"Gear-based safety control layer for autonomous agents (EntropyRuntime core, embeddable SDK)"
+2026-09-27T14:05:23Z,perfhound,0.1.0,perfhound,MIT,28971,"Record mobile app performance (CPU time, memory, FPS) on Android and iOS."
+2026-09-27T14:06:01Z,django-apiary,0.1.0,Dan Watson,MIT,26478,Typed API views for Django.
+2026-09-27T14:07:03Z,pathviz,0.1.0,Matej Jelisavac <matej.jelisavac@gmail.com>,MIT,13900,"Maze generation, pathfinding and visualisation connected only by a plain adjacency list"
+2026-09-27T14:08:25Z,ariadnet,0.1.0,ariadnet contributors,MIT,97600,"A deterministic hypergraph solver for AI agents: derive values from relations, detect conflicts, plan what to ask, explain results."
+2026-09-27T14:08:43Z,catalisa-decision,0.1.0,Catalisa <contato@catalisa.io>,MIT,31436,"Catalisa Decision Python SDK — run credit decisions, read them back, list policies and verify webhook deliveries (standard library only)"
+2026-09-27T14:10:28Z,evidencematrix,0.1.0,KageRyo,Apache-2.0,39908,A deterministic source-coverage audit tool for multi-source datasets
+2026-09-27T14:11:30Z,ai-infradr,0.1.0,xxPcy,MIT,41586,"Diagnose PyTorch, CUDA, NVIDIA GPU, and NCCL environment problems with evidence-based checks."
+2026-09-27T14:11:47Z,graph-n4j,0.1.0,Shubham Kumar Sahu,MIT,97518,Bridge LLM agents with code repositories via Neo4j graph databases. Based on the CodexGraph NAACL 2025 paper.
+2026-09-27T14:14:07Z,airbus-client,0.1.0,Airbus contributors,MIT,30070,Python client for the Airbus JSON-RPC event bus
+2026-09-27T14:17:13Z,smart-slice,0.3.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",388104,"Fidelity-first document slicing for RAG pipelines: ~30 formats in, retrieval-ready paragraphs out."
+2026-09-27T14:18:53Z,zelinqa,1.0.0,Zelinqa <support@zelinqa.ai>,Apache-2.0,71999,Official Python SDK for the Zelinqa Next Best Question API
+2026-09-27T14:19:03Z,ragfix,0.2.0,Elyasirankhah,MIT,171508,Test a RAG fix against your real retriever before you ship it.

@@ -1,37 +1,31 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-09-27T12:18:56.458563Z",
-    "path": "data/new-packages-2026-09-27T13-18-56-320593Z.csv",
-    "to": "2026-09-27T13:18:56.320593Z"
+    "count": 44,
+    "from": "2026-09-27T13:18:56.320593Z",
+    "path": "data/new-packages-2026-09-27T14-20-09-611287Z.csv",
+    "to": "2026-09-27T14:20:09.611287Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-27T11:31:17Z",
       "package": "bel-channel-sounding",
       "since": "2026-09-27T11:19:25.048116Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-27T11:34:14Z",
       "package": "ble-channel-sounding",
       "since": "2026-09-27T11:19:25.048116Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-09-27T12:55:17Z",
-      "package": "cursorproof",
-      "since": "2026-09-27T12:18:56.458563Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-27T09:25:52Z",
-      "package": "gm-x402-toolsg",
-      "since": "2026-09-27T09:19:45.728061Z"
+      "created_at": "2026-09-27T14:19:29Z",
+      "package": "cogniflow-tui",
+      "since": "2026-09-27T13:18:56.320593Z"
     }
   ],
-  "serial": 41516316,
+  "serial": 41517611,
   "source_truncated": false,
-  "window": "2026-09-27T13:18:56.320593Z"
+  "window": "2026-09-27T14:20:09.611287Z"
 }
