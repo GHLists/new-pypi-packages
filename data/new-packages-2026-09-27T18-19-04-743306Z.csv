@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T17:19:30Z,maplestats-mcp,0.1.0,Daniel Sánchez Pazmiño,MIT,2128712,"One MCP server for Canadian open data: Statistics Canada (tables, Census, PUMF microdata), the Bank of Canada, CMHC, federal agencies and provincial and municipal open-data portals, in English and Fr…"
+2026-09-27T17:21:16Z,aspc,1.0.0,,,37689,ASP.NET practical installer
+2026-09-27T17:22:16Z,traceclip,0.1.0,Prakhar Bhardwaj <bhardwajprakhar02@gmail.com>,MIT,24474,"A fast, local linting wrapper specifically designed for AI-generated code."
+2026-09-27T17:22:23Z,lxreview,0.1.1,Joshua Beirer,MIT,340680,Independent AI review loops for LXPLUS development
+2026-09-27T17:23:44Z,wazuhtestgen,0.4.0,Zafer Balkan <zafer@zaferbalkan.com>,GPL-2.0-only,44843,"Generate pytest-formatted Wazuh rule tests from INI regression tests, EVTX files, or rule XML"
+2026-09-27T17:27:35Z,nionswift-hdf5,0.9.1,Nion Software,Apache-2.0,17903,Library and UI for processing with Nion Swift.
+2026-09-27T17:28:24Z,zeit-cdts,0.24.0,,GPL-2.0-or-later,216804464,Zeit: Change Detection and Time Series for Python - LandTrendr and CCDC tools
+2026-09-27T17:29:17Z,dpdpkit-policies,2026.10.0a1,dpdpkit maintainers,Apache-2.0,31742,Versioned DPDP (India) policy packs and sector overlays for dpdpkit.
+2026-09-27T17:29:22Z,uv-test-demo-chendj,0.1.0,chendejian,,3283,Add your description here
+2026-09-27T17:30:16Z,dgf-bench,0.1.0,Jeremy Canale <contact@jeremycanale.com>,MIT OR Apache-2.0,8983350,DGF-Bench: a benchmark for simulating and auditing deception against multi-agent governance boards
+2026-09-27T17:33:01Z,nonetrace,0.1.0,Khalid Sulaiman Al-Mulaify <khalidpythonist@gmail.com>,MIT,63947,Explains where a None value came from when your Python program crashes because of it.
+2026-09-27T17:40:46Z,bacnet-ip-rest-client,1.0.2,Stefan Bethke <stb@lassitu.de>,MIT,67679,Async Python client for the BACnet/IP REST proxy
+2026-09-27T17:41:08Z,chumoli,0.1.1,farrux05-ai,Apache-2.0,269286,"Lightweight EL tool for Uzbekistan data sources, built on dlt"
+2026-09-27T17:41:26Z,indiquant,3.3.6,IndiQuant Research,MIT,226867,"Python client for the IndiQuant tournament: sign in, read a round, load its data, validate and submit predictions."
+2026-09-27T17:42:56Z,dpdpkit-core,0.1.0a1,dpdpkit maintainers,Apache-2.0,106821,"Rules engine, consent ledger, rights, retention and CLI for India's DPDP Act and Rules."
+2026-09-27T17:43:26Z,dpdpkit,0.1.0a1,,Apache-2.0,2400,"Developer toolkit for India's DPDP Act, 2023 and DPDP Rules, 2025 (meta-package)."
+2026-09-27T17:44:06Z,bayesian-llm-guard,1.0.0,AI Research Team,Apache-2.0,11638,Epistemic Uncertainty Estimation & Guardrails for Agentic LLMs and RAG Systems
+2026-09-27T17:45:16Z,dpdpkit-conformance,0.1.0a1,,Apache-2.0,33513,The dpdpkit REST contract (OpenAPI 3.1) and the black-box conformance suite every adapter must pass.
+2026-09-27T17:45:32Z,lagaam,0.2.3,Mudit Kapoor,Apache-2.0,233320,Lagaam — governed MCP analytics server for the open lakehouse
+2026-09-27T17:45:34Z,dpdpkit-fastapi,0.1.0a1,dpdpkit maintainers,Apache-2.0,51648,"FastAPI adapter for dpdpkit: DPDP consent, notices, rights requests and retention in your app."
+2026-09-27T17:46:35Z,ecuador-mcp,0.8.12,EcuDataMCP contributors,MIT,1106233,"Open public-data infrastructure for Ecuador, connecting official sources to AI assistants and software through MCP."
+2026-09-27T17:47:42Z,moltrust-x402,2.0.0,Lars Kroehl <lars@moltrust.ch>,MIT,12178,Offline trust gate for x402 endpoints — verifies a MolTrust attestation and the caller's own signature without a network call
+2026-09-27T17:49:25Z,docseek,0.1.0,mohojojo <mohojojoo@gmail.com>,Apache-2.0,344439,"Goal-driven document discovery: give it a website and a goal, get back the documents the goal asks for, each with a relevance verdict."
+2026-09-27T17:50:10Z,mcp-ssrf-check,0.1.0,Ninad Phalak <ninadphalak@gmail.com>,Apache-2.0,45775,"Check your own MCP server for missing Host and Origin validation, unbound session ids, and URL-fetching tools that reach loopback."
+2026-09-27T17:50:31Z,jev-firewall,0.1.0,Ahsan Shah,Apache-2.0,142154,"Runtime action firewall for AI agents, powered by TypeSafe's Jev System One model."
+2026-09-27T17:50:39Z,opreof,0.1.0,Cpyte,MIT,132402,"Bit-exact machine-integer equivalence proving by rewriting, equality saturation, and exhaustive solving"
+2026-09-27T17:54:24Z,epublia,0.3.1,jrrmcalcio,MIT,127751,"Translate EPUB books with Gemini (free tier friendly), changing only the text: layout, images, links and styles stay byte-identical."
+2026-09-27T17:59:41Z,md2text,0.1.0,,Apache-2.0,6274170,"Fast, safe Markdown -> plain text conversion, robust to truncated input."
+2026-09-27T18:02:40Z,fastdar,0.1.0,,MIT,21419,"FastDAR client: buyer-intent lead alerts, a public proof ledger you can check yourself, and market signals."
+2026-09-27T18:03:48Z,flinch-agent,0.5.0,Ganesh <voxmastery@gmail.com>,MIT,354505,"Pain receptors for AI agents: when an action causes damage, the agent never does it again."
+2026-09-27T18:04:43Z,tilelens,3.1,Deep Learning Profiling Tools Team <kzhou6@gmu.edu>,MIT,426045,A visualization tool for Triton
+2026-09-27T18:07:05Z,hasbati-age-calculator,1.0.0,Hasbati,,3537,A Python utility to calculate exact age.
+2026-09-27T18:07:38Z,bytia-kode,0.8.0,BytIA,MIT,1181363,B-KODE: Agente + Skills + Terminal. La automatización empresarial cabe en tu CLI.
+2026-09-27T18:07:55Z,rowfuse,0.1.0,Nurmuhammad Mashrapov,,44004,Stream CSV merges with deterministic row hashes and disk-backed deduplication.
+2026-09-27T18:09:02Z,spancheck,0.1.1,"""Trevor J. Romack"" <tjromack@gmail.com>",MIT,70186,"Score a grounded-answer system on citation accuracy, abstention correctness, hallucination rate, cost and latency — with an audit log a compliance reviewer can read."
+2026-09-27T18:12:00Z,sourcetext,0.1.0,Kasper Fyhn <kasperfyhnjacobsen@gmail.com>,MIT,520635,Return to source text alongside NLP model output and record interpretive judgments in situ.
+2026-09-27T18:12:38Z,poppee,0.1.1,Al West,MIT,63479,Free multi-account Gmail notifier (OAuth2) with a tray icon and native desktop notifications
+2026-09-27T18:17:43Z,agentspec-cli,0.1.0,agentspec contributors,MIT,206785,Auto-test and validate agent-generated APIs. CLI + MCP server for the agent era.
+2026-09-27T18:17:58Z,vunit-python-bridge,0.1.0,Lars Asplund <lars.anders.asplund@gmail.com>,MPL-2.0,141421,A VUnit package making Python callable from VHDL.

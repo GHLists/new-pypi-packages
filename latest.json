@@ -1,25 +1,31 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-09-27T16:19:35.883864Z",
-    "path": "data/new-packages-2026-09-27T17-18-53-694036Z.csv",
-    "to": "2026-09-27T17:18:53.694036Z"
+    "count": 39,
+    "from": "2026-09-27T17:18:53.694036Z",
+    "path": "data/new-packages-2026-09-27T18-19-04-743306Z.csv",
+    "to": "2026-09-27T18:19:04.743306Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-27T14:21:47Z",
       "package": "byt3d4nc3",
       "since": "2026-09-27T14:20:09.611287Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-27T17:12:17Z",
       "package": "dcc-mcp-wwise",
       "since": "2026-09-27T16:19:35.883864Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-27T17:47:28Z",
+      "package": "plainspeak-next",
+      "since": "2026-09-27T17:18:53.694036Z"
     }
   ],
-  "serial": 41521923,
+  "serial": 41523513,
   "source_truncated": false,
-  "window": "2026-09-27T17:18:53.694036Z"
+  "window": "2026-09-27T18:19:04.743306Z"
 }
