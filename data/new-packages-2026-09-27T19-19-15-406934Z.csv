@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T17:47:28Z,plainspeak-next,1.0.0,PlainSpeak Project,MIT,1775306,"Deterministic, integrity-protected presentation of prose: readability analysis, governed rewriting and human review"
+2026-09-27T18:24:18Z,labeltify,0.2.0,CleverTify,,12034,Upload frames and optional annotations into LabelTify with a pipeline token.
+2026-09-27T18:25:19Z,contract-to-tree,0.1.0,Jarosław Jezierczak,,40203,
+2026-09-27T18:36:58Z,cronos-extract,1.0.0,"Willem Hengeveld, Dirk Engling, Ben Hammersley",MIT,153384,"Extract data from CronosPro databases, including password-protected ones."
+2026-09-27T18:37:19Z,inferencefit,0.1.0,InferenceFit contributors,Apache-2.0,105444,"Local-first, workload-specific evaluation and deterministic optimization for LLM configurations."
+2026-09-27T18:41:41Z,cs2-api-client,1.0.0,Cito API,MIT,14925,"CS2 API client: Counter-Strike 2 live scores, match results, player stats, teams, rankings (world + VRS), events and skin prices. Standard library only."
+2026-09-27T18:43:18Z,bimforge,0.0.1,Brandon Lewis,LicenseRef-Proprietary,4451,"Name reservation — bimforge is distributed with the estimating-platform Claude plugins, not from PyPI."
+2026-09-27T18:44:43Z,promptfuse,0.1.0,,MIT,59462,Local prompt registry with a Langfuse-compatible read API.
+2026-09-27T18:45:36Z,tiny-pki,0.1.0,Henrique Andrade <thehcma@users.noreply.github.com>,MIT,291685,"Small private-CA crypto library and CLI (issue, revoke, CRL, PKCS#12) for mTLS"
+2026-09-27T18:45:40Z,askr,0.1.0,Prevolut Ltd,MIT,17140,"Simple, validated input prompts for the terminal"
+2026-09-27T18:45:56Z,evmqtt,2.0.0,odtgit,MIT,86967,Linux input event to MQTT gateway for home automation
+2026-09-27T18:47:18Z,paddleocr-lite,0.1.0,,,4051,Paddleocr wrapper package for simple usage.
+2026-09-27T18:47:28Z,nakedagent,0.1.0,Reuben Bowlby <reuben@hummbl.io>,MIT,137865,A coding agent with zero runtime dependencies. Stdlib-only Python.
+2026-09-27T18:47:49Z,makoto-decision,0.1.1,craftingmod <alyac1234@gmail.com>,Apache-2.0,433308,Decision with llm like Hanuma Makoto
+2026-09-27T18:50:28Z,luxir-client,0.1.1,moonlitesolutions,Apache-2.0,36789,Python client for the Luxir search engine (https://luxir.org/)
+2026-09-27T18:50:38Z,claimtrail,0.5.1,Patrick Taylor,MIT,323270,"Every number in a report keeps a trail back to the computation that produced it. Record, re-run, verify, audit."
+2026-09-27T18:52:17Z,latexreport,0.1.1,Áquila Oliveira Souza <aquilasouza1004@gmail.com>,MIT,25647,Generate professional LaTeX reports and PDFs programmatically with Python
+2026-09-27T18:54:56Z,quantplus,0.0.4,Your Name <you@example.com>,MIT,7070667,"Cox-Ross-Rubinstein binomial option pricer (C++ core, Cython bindings)"
+2026-09-27T19:00:10Z,getopentoken,0.1.0,Open Token <support@getopentoken.com>,Apache-2.0,86961,"Open Token SDK: fail-open routing to the Open Token gateway with direct Amazon Bedrock fallback, cost spans, shadow dry-runs and one-line OpenTelemetry auto-instrumentation."
+2026-09-27T19:00:24Z,vlno-sdk,0.12.1,VLNO,,19599,VLNO SDK for hosted agent evaluations and live trajectories
+2026-09-27T19:03:12Z,cs-object,0.1.0,Viktar B,Apache-2.0,129899,Constrained Python authoring and CalculationSourceObject JSON export
+2026-09-27T19:04:58Z,graphica-plot,2.0.0,STsuruga,MIT,1301941,PySide6 + matplotlib によるデータプロット・解析デスクトップアプリケーション
+2026-09-27T19:06:47Z,scadfmt,0.1.0,Patrick Pötz <kellervater@gmail.com>,MIT,42183,Opinionated formatter for OpenSCAD code
+2026-09-27T19:07:22Z,neura-agent,0.1.0,,MIT,23067,"Agent client for NEURA Compute: OpenAI-compatible inference where the agent pays for itself. HTTP 402 -> wallet sign-in -> USDC on Base -> credited -> retry, as a drop-in http_client for the OpenAI P…"
+2026-09-27T19:09:36Z,interject,0.1.0,John Matti,Apache-2.0,39563,"A durable ask() primitive: stop, ask a human, resume."
+2026-09-27T19:16:29Z,logitly,0.2.0,,MIT,188221,CUDA LLM decisions from restricted next-token logits across inference runtimes
+2026-09-27T19:17:56Z,hummbl-clp,0.1.0,HUMMBL <eng@hummbl.io>,MIT,190227,Cognitive Ledger Protocol -- shared memory for multi-agent coordination
