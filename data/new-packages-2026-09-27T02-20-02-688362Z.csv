@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T01:20:47Z,lockstep-ml,0.0.2,,MIT,1729,"Verifiable training: commit, challenge, replay."
+2026-09-27T01:26:37Z,cci-sdk,0.1.0,CCI <rahul.vishwakarma@workonward.org>,Apache-2.0,555792,"Python SDK and standalone statistics engine for Conformal Logit Inference (CLI) — conformal prediction, Venn-Abers calibration, and e-values for LLM decisions."
+2026-09-27T01:30:18Z,nodra-agent-sdk,0.1.0,Nodra,Apache-2.0,11836,Python SDK for protecting autonomous AI-agent actions with Nodra.
+2026-09-27T01:30:24Z,memeseeks,0.3.0,,MIT,748651,"迷因捕手 — find memes by what you mean, across languages."
+2026-09-27T01:33:23Z,nexura,0.1.0,Nexura,MIT,150131,Framework-independent agent tracing and Nexura managed deployment
+2026-09-27T01:37:12Z,hack4u-v035,0.1.0,VexedElm035,,3683,Biblioteca para consulta cursos de hack4u
+2026-09-27T01:37:36Z,gtrex,0.1.0a1,,Apache-2.0,117348,"Grounded text extraction you can check: verifiable quotation grounding for LLM extraction pipelines, with declarative normalization ladders, repair-and-reject cascades, and calibrated acceptance thre…"
+2026-09-27T01:38:07Z,aei-workflow-runner,0.1.0,AID Edge Inc.,Apache-2.0,127691,"Local-first workflow runner for Velorona: validated link workflows, per-link Path Clearance runs, crash-safe run history, comparison, evidence export, and a scheduler-friendly CLI. Shared by Velorona…"
+2026-09-27T01:39:45Z,terroir-lang,0.0.0,,,1395,Reserved for a future release.
+2026-09-27T01:39:54Z,isar-tools,0.1.0,Manuel Lerchner,MIT,197344,"Source tooling for Isabelle/Isar projects: formatting, checks, and statistics."
+2026-09-27T01:41:30Z,guidinghand,0.1.0,GuidingHand <dev@guidinghand.ai>,MIT,64977,The official Python SDK for the GuidingHand API: run tasks on a person's computer with an AI hand.
+2026-09-27T01:48:42Z,ferry-tui,0.1.2,Abdou Ghanim,MIT,115619,"One window for every AI coding conversation on this machine. List, search, preview, open, and carry a thread across to the other agent."
+2026-09-27T01:50:19Z,stellar-core,0.0.1,,MIT,1999,Name held by the Forge fleet. Not a public package; installs nothing.
+2026-09-27T01:51:48Z,purepycrypto,3.2.0,Dvs(DvsXT),MIT,634171,"Pure-Python cryptography library (zero dependencies): SHA-2/SHA-3/BLAKE2b, AES-GCM(-SIV), ChaCha20-Poly1305, X25519/Ed25519, RSA-OAEP/PSS, with built-in TUI and command-line tool"
+2026-09-27T01:54:52Z,full-event-hub,1.1.4,Ravi Leal <ravi@example.com>,MIT,15878,Zero-dependency Python client for the event-hub webhook fan-out service
+2026-09-27T01:57:59Z,vezor,2.0.0,Vezor Team,,46770,GitOps-native secrets management SDK and CLI
+2026-09-27T02:03:18Z,ilesp,0.1.0,ILESP Contributors,MIT,45592,Intelligent Logistics Equipment Scheduling Platform — WCS + RCS + built-in simulation with an adapter seam for real devices
+2026-09-27T02:04:33Z,classone,0.1.0,Thiago,,62735,Open-source System 1 decision model architecture built on Gemma 4 E2B
+2026-09-27T02:09:05Z,fleet-registry,0.1.0,Mark Stouffer,MIT,42394,"Inventory, audit, and provisioning CLI + TUI for a homelab fleet of Linux nodes"
+2026-09-27T02:11:43Z,agentperf-local-rustcore,0.1.0,Artificial Analysis,Apache-2.0,17331,Optional Rust streaming client for agentperf-local.
+2026-09-27T02:11:44Z,agentperf-local,0.1.0,Artificial Analysis,Apache-2.0,5575054,Replay recorded agent tasks against an OpenAI-compatible endpoint.
+2026-09-27T02:11:45Z,maxey0,0.3.1,mmc7676 <support@maxey0.com>,Apache-2.0,1784985,"Structured Context Windows for AI agents: partition what each agent can see, gate what it can do, and keep a verifiable record of both."
+2026-09-27T02:13:00Z,karotte,0.0.1,,MIT,1338,"Placeholder for karotte, which is being open-sourced."
+2026-09-27T02:13:01Z,karotte-internal,0.0.1,,MIT,1354,Name held by Preference Model; not distributed on PyPI.
+2026-09-27T02:13:02Z,karotte-schemas,0.0.1,,MIT,1337,"Placeholder for karotte-schemas, which is being open-sourced."
+2026-09-27T02:13:03Z,pm-env-schemas,0.0.1,,MIT,2160,"Placeholder for pm-env-schemas, the old name of karotte-schemas."
+2026-09-27T02:14:13Z,timefork,0.0.1,Arun Shankar,Apache-2.0,2490,"Time-travel debugging for LLM agents. Record a run, rewind to any step, change one thing, replay."
+2026-09-27T02:14:46Z,vda5050-sdk,0.1.0,VDA5050 SDK Contributors,MIT,206289,Async Python SDK for the VDA 5050 AGV communication standard (master control and vehicle side).
+2026-09-27T02:16:06Z,metrics_sdk,999.0.0,,,702,synack authorized dependency-confusion PoC placeholder
+2026-09-27T02:16:07Z,metrio,999.0.0,,,694,synack authorized dependency-confusion PoC placeholder
