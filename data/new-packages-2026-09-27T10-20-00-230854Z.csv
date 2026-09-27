@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T09:20:20Z,mfgparams,2.5.0,kniklas,LicenseRef-PolyForm-Noncommercial-1.0.0,369661,"Metal machining calculation library and interactive CLI, covering drilling and milling operations."
+2026-09-27T09:22:29Z,calendarium,2.5,Giuseppe Costanzi,MIT,20235,"Date picker widget for Tkinter: day/month/year spinboxes with validation. One file, no dependencies."
+2026-09-27T09:27:24Z,shalakany-pdf-inspector,1.24.0,,MIT,27802845,Fork of firecrawl/pdf-inspector exposing pages_with_images and pages_with_vector_text on PdfResult
+2026-09-27T09:28:53Z,sieve-lens,0.10.0,Kai IWASAKI,MIT,39168,"Invisible Prompt Observation Engine (Zero-Dependency, Deterministic)"
+2026-09-27T09:29:52Z,rsikit,0.0.1,,,6750384,Class-based policies and isolated Gymnasium evaluation for API-only agent research.
+2026-09-27T09:30:03Z,probity-cli,0.0.1,,MIT,2126,"Reserved for Probity, open-source testing and evaluation for MCP servers, A2A agents and agent skills."
+2026-09-27T09:30:08Z,gm-x402-tools,0.1.0,gmahar82-stack,MIT,17356,"Pay-per-call tools for AI agents (LangChain, CrewAI, plain Python): crypto safety checks on Base, a web/PDF reader and a cheapest-API finder. Free daily allowance; pay beyond it with x402 (USDC on Ba…"
+2026-09-27T09:33:52Z,netbox-plugin-plan-drawing,1.0.0,Stefan Bethke <stb@lassitu.de>,MIT,45679992,"NetBox plugin for plan drawings (floor plans etc.) with draw.io, linking drawing elements to NetBox objects"
+2026-09-27T09:36:05Z,camoscope,0.1.1,,MIT,1432658,Inspect macOS windows with WindowServer sharing state zero and their owning processes.
+2026-09-27T09:37:31Z,sendbaze,0.1.0,Sendbaze <support@sendbaze.com>,MIT,17286,Official Python SDK for the Sendbaze email and SMS API. Standard library only.
+2026-09-27T09:41:31Z,tjplastics,1.0.0,Alen Joy,MIT,9735,TJ Plastics bank statement customer-wise Excel splitter
+2026-09-27T09:43:15Z,shiny-deckgl,1.12.0,Arturas Baziukas <arturas.baziukas@ku.lt>,"MIT License Copyright (c) 2026 Arturas Baziukas Permission is hereby granted, free of charge, to an…",1011768,"Shiny for Python -> deck.gl bridge (no Java), with packaged assets and conda recipe"
+2026-09-27T09:47:30Z,sigilsec,1.3.7,NOMARK,Apache-2.0,22682,"Automated security auditing for AI agent code - quarantine-first scanning for pip, npm, git repos, and MCP servers"
+2026-09-27T09:49:42Z,limescape-plugin-sdk,0.2.1,"Mohamed Ikhlaf <mohamed.ikhlaf@truelime.nl>, Rodger Blom <rodger.blom@truelime.nl>, Hans van der Li…",EUPL-1.2,83198,Contract between the Limescape AI Platform and node-type plugins
+2026-09-27T09:54:27Z,cleat-sdk,0.3.0,Cleat Team,Apache-2.0,293890,Python SDK for cleat — durable execution framework for AI agents
+2026-09-27T10:00:06Z,failmin,0.2.0,FailMin contributors,MIT,36035,Delta debugging for AI and Agent failures
+2026-09-27T10:01:44Z,pytest-querycount,0.3.0,Luis David Senra,"MIT License Copyright (c) 2026 Luis David Senra Permission is hereby granted, free of charge, to an…",60254,"Fail your tests when they run too many SQL queries. Catch N+1 problems in CI, not in production."
+2026-09-27T10:08:32Z,elstern,1.0.0,Nemo,EUPL-1.2,29606,"A free, software-only client for ElsterSecure (Mein ELSTER) passwordless login"
+2026-09-27T10:08:38Z,markdown-code-snippet,0.0.1.dev1,confarg,MPL-2.0,48238,Inject snippets of files or python code into Markdown files.
+2026-09-27T10:15:41Z,orchestraty,0.0.1,,,2543,Orchestraty is in development. This release only reserves the name.
+2026-09-27T10:16:18Z,uacp-interop,0.1.0,,MIT,69644,"Interop conformance probe for UACP: computes where UACP's schemas, prose and reference implementations diverge, and where a UACP agent definition cannot survive a round trip through a framework-nativ…"
+2026-09-27T10:17:27Z,saygo-agent-control,0.4.3,,"MIT License Copyright (c) 2026 Saygo contributors Permission is hereby granted, free of charge, to…",1165304,Persistent visual control sessions for external programming agents
+2026-09-27T10:18:26Z,openneodb,1.0.0,Dmitry Titov,MIT,42844,Конвертер баз камер CityGuide и iGo в формат Neoline / CityGuide and iGo to Neoline speed-camera database converter
+2026-09-27T10:19:06Z,androbuilder-cli,0.1.0,androbuilder contributors,MIT,74689,Build and deploy Expo/React Native Android apps on ephemeral EC2 with a persistent EBS cache.
+2026-09-27T10:19:42Z,bonsai-lint,0.4.2,,MIT,3770883,"Multi-language cognitive complexity linter, as a single static binary"

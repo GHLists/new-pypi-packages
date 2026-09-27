@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-09-27T08:20:23.559395Z",
-    "path": "data/new-packages-2026-09-27T09-19-45-728061Z.csv",
-    "to": "2026-09-27T09:19:45.728061Z"
+    "count": 25,
+    "from": "2026-09-27T09:19:45.728061Z",
+    "path": "data/new-packages-2026-09-27T10-20-00-230854Z.csv",
+    "to": "2026-09-27T10:20:00.230854Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-27T06:09:24Z",
-      "package": "actuent-python",
-      "since": "2026-09-27T05:19:58.573954Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-27T08:23:54Z",
       "package": "donutpromotion",
       "since": "2026-09-27T08:20:23.559395Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-09-27T09:25:52Z",
+      "package": "gm-x402-toolsg",
+      "since": "2026-09-27T09:19:45.728061Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-09-27T07:36:04Z",
       "package": "lixplore",
       "since": "2026-09-27T07:18:55.310709Z"
     }
   ],
-  "serial": 41511099,
+  "serial": 41512178,
   "source_truncated": false,
-  "window": "2026-09-27T09:19:45.728061Z"
+  "window": "2026-09-27T10:20:00.230854Z"
 }
