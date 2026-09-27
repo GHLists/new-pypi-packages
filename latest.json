@@ -1,25 +1,31 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-09-27T07:18:55.310709Z",
-    "path": "data/new-packages-2026-09-27T08-20-23-559395Z.csv",
-    "to": "2026-09-27T08:20:23.559395Z"
+    "count": 29,
+    "from": "2026-09-27T08:20:23.559395Z",
+    "path": "data/new-packages-2026-09-27T09-19-45-728061Z.csv",
+    "to": "2026-09-27T09:19:45.728061Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-27T06:09:24Z",
       "package": "actuent-python",
       "since": "2026-09-27T05:19:58.573954Z"
     },
     {
       "attempts": 1,
+      "created_at": "2026-09-27T08:23:54Z",
+      "package": "donutpromotion",
+      "since": "2026-09-27T08:20:23.559395Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-09-27T07:36:04Z",
       "package": "lixplore",
       "since": "2026-09-27T07:18:55.310709Z"
     }
   ],
-  "serial": 41510092,
+  "serial": 41511099,
   "source_truncated": false,
-  "window": "2026-09-27T08:20:23.559395Z"
+  "window": "2026-09-27T09:19:45.728061Z"
 }

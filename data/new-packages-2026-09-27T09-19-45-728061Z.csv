@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T08:22:05Z,pgbee,0.1.0,Simone Salerno,Apache-2.0,103644,Reference worker and installer for pgbee derived columns on PostgreSQL
+2026-09-27T08:25:27Z,opendecider,0.1.0,Manjunath Janardhan,Apache-2.0,46236,"Small open decision models (System One): typed choice / score / yes-no questions with calibrated probabilities. Runs on CPU, NVIDIA and Apple Silicon."
+2026-09-27T08:25:49Z,flashmel,0.1.0,AlumKal <alumkal-pub@outlook.com>,MIT,36950,"Fused CUDA mel spectrogram (cuFFTDx) — a fast, torchaudio-compatible MelSpectrogram in a single kernel launch."
+2026-09-27T08:26:35Z,spiflash,0.0.post19,Tim Ansell <me@mith.ro>,Apache-2.0,348621,"A database of SPI flash chips (JEDEC ids, sizes, erase geometry, features), merged from Linux, U-Boot, flashrom, flashprog, OpenOCD and openFPGALoader."
+2026-09-27T08:27:58Z,csv-refine,0.1.1,,MIT,55037,"A Python CLI for cleaning, filtering, and normalizing CSV files using configurable YAML data contracts."
+2026-09-27T08:28:31Z,bpy-vrm-format,4.7.4,"Isamu Mogi, iCyP",SPDX-License-Identifier: MIT OR GPL-3.0-or-later,3202656,"VRM import, export, and editing capabilities"
+2026-09-27T08:34:50Z,tempkeys,0.1.1,Ville Vainio <vivainio@gmail.com>,MIT,1193499,Temporary keysets backed by the Linux kernel keyring: secrets that become unrecoverable on reboot or clear
+2026-09-27T08:37:40Z,hiro-qq,0.1.9,"linwenxuan05, wyapx, Harcic",LGPL-2.0-or-later,215961,"An Python Implementation of NTQQ PC Protocol, orignates from lagrange-python"
+2026-09-27T08:38:07Z,berthos-sdk,0.2.1,,Apache-2.0,32295,"Python resident-app SDK for Berth — reuses the same wire protocols as @berthos/sdk (RPC newline-JSON framing, the manifest shape), with idiomatic Python runtime glue rather than a port of the TypeScr…"
+2026-09-27T08:40:03Z,st-graph-workbench,0.1.0,Ali Haidar,Apache-2.0,6269302,A Streamlit Components v2 graph workbench built on Cytoscape.js
+2026-09-27T08:40:37Z,django-common-kit,0.11.1,Meheraj,MIT,315125,"Shared Django foundation for REST backends: BaseModel, change history, system parameters, request tracking, file attachments and the REST response contract, and encryption of secrets at rest."
+2026-09-27T08:40:48Z,termius-mcp,3.0.0,MiaM1ku,BSD,151289,Termius Cloud MCP server.
+2026-09-27T08:41:08Z,llama-index-tools-thordata-serp,0.1.0,Thordata,MIT,318909,Thordata SERP tools for LlamaIndex agents.
+2026-09-27T08:44:46Z,ai-hats-client,0.2.0,muratovv <f@muratovv.me>,MIT,42725,"Drive an ai-hats headless session over its stdin and stdout: turns, answers to its questions, interrupts."
+2026-09-27T08:47:08Z,melinoe,0.4.0,Mark Barsoum Markarian,MIT,4681189,"A local-first, validity-aware operating environment for multimodal cancer research"
+2026-09-27T08:48:00Z,robottraderslab,0.1.0,,Apache-2.0,720736,Backtesting and live trading engine for algorithmic trading strategies
+2026-09-27T08:48:32Z,axon-runtime-sdk,0.205.34,Silan Hu <silan.hu@u.nus.edu>,Apache-2.0,14704052,"Canonical Python SDK for descriptor-bound invocation, signed receipts, and bounded streaming over Axon"
+2026-09-27T08:53:38Z,ergoda,0.1.0,Ergoda,FSL-1.1-ALv2,1249605,"Measure which steps of your agent can run on a cheaper model, and keep measuring"
+2026-09-27T08:54:02Z,aimarket-hestia-agents,0.1.0,,MIT,107732,"Deterministic AIMarket capability providers for the HESTIA hearth: signed decisions, canonical JSON, commit-reveal refereeing"
+2026-09-27T08:59:58Z,taskdistill,0.1.1,Andrii Boiko,Apache-2.0,3807294,Distil an expensive LLM API call on a narrow task into a small local model served behind an OpenAI-compatible cascade.
+2026-09-27T09:02:42Z,matscipy-neighbours,1.0.0,,"### MIT license Permission is hereby granted, free of charge, to any person obtaining a copy of thi…",503700,Neighbour list for particle simulations
+2026-09-27T09:04:27Z,envisionboxbio-apetrack,0.1.0,Wim Pouw,,45474,"Zero-shot multi-ape detection, tracking and pose estimation in video (OWLv2 + ByteTrack + OpenApePose)."
+2026-09-27T09:05:08Z,appconnect,0.1.0,AppConnectHQ,MIT,30852,AppConnect SDK for Python - unified connector platform client with framework adapters
+2026-09-27T09:07:28Z,bookmarkhtml,0.1.0,Younes Z.,MIT,17635,Turn a Linkwarden backup export into a bookmarks file that browsers import.
+2026-09-27T09:08:55Z,coinscan,0.1.0,coinscan maintainers,MIT,11923,Safety heuristics for pre-sale token contracts across EVM chains
+2026-09-27T09:09:56Z,django-queryguard-n1,0.1.0,Aryan Gupta <aryan014kumar@gmail.com>,MIT,39049,"Detect N+1, duplicate and slow database queries in Django API projects during development and in test suites."
+2026-09-27T09:13:45Z,oloy,0.0.0,,,2864,Name placeholder. The oloy SDK for Python is not released yet.
+2026-09-27T09:14:53Z,bayesbin,0.1.0,Peter Foldiak,BSD-3-Clause,441947,"Exact Bayesian binning of rates (Endres, Oram, Schindelin & Földiák 2008) in NumPy/SciPy"
+2026-09-27T09:18:23Z,chaoscrypt,2.1.6,"""Dvs (DvsXT)"" <dvs6666@163.com>",MIT,100506,"A chaos-based obfuscation cipher with a bilingual TUI, a full CLI and a clean Python API."
