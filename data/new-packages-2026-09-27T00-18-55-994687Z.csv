@@ -1,0 +1,10 @@
+created_at,package,version,author,license,size,summary
+2026-09-26T23:25:23Z,json2csv-lite,0.1.0,sara <saraasaalari@yahoo.com>,MIT,9306,"Tiny, dependency-free JSON to CSV converter."
+2026-09-26T23:26:11Z,retiqo,0.1.0,Loreum Digital Inc <info@loreum.io>,Apache-2.0,144138,"Python SDK for RetiQo, the state layer for enterprise AI agent workflows"
+2026-09-26T23:30:37Z,hannah-grpc-lib,0.4.0,,,31295,Shared gRPC client code for Hannah components (log shipping to the Hannah log collector)
+2026-09-26T23:30:42Z,opennodex,0.1.2,opennodex <hola@opennodex.cloud>,LicenseRef-Proprietary,12739416,"Structural FEA from .ndx decks: the nodex compiler, native engine and mesher, from Python, the command line and any MCP host."
+2026-09-26T23:34:19Z,clefml,0.0.2,Rohan Almeida,MIT,9901,"Small open-weights language models for symbolic music (placeholder release, work in progress)."
+2026-09-26T23:37:41Z,duplicacy-backup-runner,3.0.0,Gene Wood <gene_wood@public.cementhorizon.com>,GPL-3.0-or-later,94878,Runs a scheduled Duplicacy backup and reports progress to healthchecks.io.
+2026-09-26T23:41:30Z,recall-langgraph,0.1.0,Polign,Apache-2.0,38571,"Resume LangGraph agents from their own records, backed by Recall by Polign"
+2026-09-27T00:02:40Z,epsiloneridani-progress,0.1.0,,Apache-2.0,210030,"Decide, generate, and publish per-roadmap progress reports for EpsilonEridani."
+2026-09-27T00:07:46Z,VPYrender,0.1.1,,,11865,A lightweight from-scratch software 3D renderer with optional desktop GUI

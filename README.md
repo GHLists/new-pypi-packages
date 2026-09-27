@@ -8,36 +8,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 23:19 UTC
+## Latest list — 2026-09-27 00:18 UTC
 
-New packages created between 2026-09-26 22:18 UTC and 2026-09-26 23:19 UTC.
+New packages created between 2026-09-26 23:19 UTC and 2026-09-27 00:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-26T23-19-11-867258Z.csv)
+[Full CSV](data/new-packages-2026-09-27T00-18-55-994687Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-26 22:12:51 | [lab-me-nas](https://pypi.org/project/lab-me-nas/) | 0.2.4 | Suebpong Pruttipattanapong <f… | 50.6 kB | Access a Synology NAS from Google Colab, Linux or Windows through a NetBird mes… |
-| 2026-09-26 22:20:46 | [django-query-sentinel](https://pypi.org/project/django-query-sentinel/) | 0.1.1 | QueryWatch contributors | 47.0 kB | Automated database-performance analysis for Django. |
-| 2026-09-26 22:22:05 | [lazarillo](https://pypi.org/project/lazarillo/) | 0.1.2 | Guillermo Vizcaíno Román <hi@… | 107.9 kB | A data harness that guides AI agents through your lakehouse: context, guardrail… |
-| 2026-09-26 22:26:21 | [scdns](https://pypi.org/project/scdns/) | 1.0.0 | Silent Cobra | 7.9 kB | Advanced DNS Lookup Tool |
-| 2026-09-26 22:32:09 | [edc-ds](https://pypi.org/project/edc-ds/) | 1.0.7 | DetektywSeba | 12.9 kB | A simplified library for creating Discord bots. (Polish Creation) |
-| 2026-09-26 22:38:30 | [flexreportfinance](https://pypi.org/project/flexreportfinance/) | 0.1.0 | Curt Beck <curt@flexreportfin… | 10.5 kB | A Python client for Flexreport Finance's REST API, dedicated to the streaming o… |
-| 2026-09-26 22:43:53 | [mcts-agent](https://pypi.org/project/mcts-agent/) | 0.1.0 | MCTS-Agent Contributors | 193.7 kB | Discriminative Monte Carlo Tree Search using TypeSafe Jev System One Primitives… |
-| 2026-09-26 22:44:50 | [logicroot](https://pypi.org/project/logicroot/) | 0.2.0 | LOGICROOT Contributors | 604.0 kB | LOGICROOT - a hardware-aware, capability-driven, local-first Linux Command Cent… |
-| 2026-09-26 22:46:10 | [pycrestron-cip](https://pypi.org/project/pycrestron-cip/) | 0.1.0 | Antonio112009 | 51.6 kB | asyncio client for the Crestron CIP (Crestron-over-IP) panel protocol |
-| 2026-09-26 22:46:31 | [ai-vibecheck](https://pypi.org/project/ai-vibecheck/) | 0.1.3 | Daniyar N | 199.9 kB | Audit how much of a GitHub repo was written by AI and check vibe-coding risk. |
-| 2026-09-26 22:50:16 | [jsonpit](https://pypi.org/project/jsonpit/) | 0.1.2 | Dr. Rainer Burkhardt | 74.6 kB | Daemon-free distributed storage over Cloud Drives for developers and AI agents… |
-| 2026-09-26 22:50:25 | [jpit](https://pypi.org/project/jpit/) | 0.1.2 | Dr. Rainer Burkhardt | 3.7 kB | CLI companion and alias for jsonpit — daemon-free distributed storage over Clou… |
-| 2026-09-26 22:53:06 | [long-tamp](https://pypi.org/project/long-tamp/) | 0.1.0 | Thanh Nguyen <dvtnguyen@laas.… | 535.0 kB | Long-TAMP - Manipulation Planning Framework |
-| 2026-09-26 22:59:14 | [simple-annealing](https://pypi.org/project/simple-annealing/) | 0.1.0 | k3 <buoren@vaguely.nl> | 40.5 kB | Simulated annealing that is safe to run inside a server: deterministic, deadlin… |
-| 2026-09-26 23:04:17 | [puragram](https://pypi.org/project/puragram/) | 1.0.0 | Maxim Zhovner <zovnercukmaksi… | 42.8 kB | Fast, dependency-light Telegram Bot API framework built on urllib3 |
-| 2026-09-26 23:06:52 | [occfg](https://pypi.org/project/occfg/) | 0.1.0 |  | 157.2 kB | Sync Lemonade Server models into opencode.json |
-| 2026-09-26 23:07:51 | [decis](https://pypi.org/project/decis/) | 0.0.0 |  | 2.5 kB | A8 Decis. Decisions made simple. (Name reservation placeholder.) |
-| 2026-09-26 23:08:28 | [atproto-oauth](https://pypi.org/project/atproto-oauth/) | 0.1.0 | zzstoatzz | 171.7 kB | OAuth 2.1 client for the AT Protocol: PAR, PKCE, DPoP, and scope parsing. |
-| 2026-09-26 23:09:31 | [repo-health-scanner](https://pypi.org/project/repo-health-scanner/) | 0.1.0 | Pranav Raj | 47.7 kB | Check Python repo health and open safe draft PRs for docstrings and patch deps |
-| 2026-09-26 23:10:22 | [magibumizan](https://pypi.org/project/magibumizan/) | 0.1.0 | Magibu AI Research Lab | 22.6 kB | Typed probabilistic decisions from open language models |
-| 2026-09-26 23:13:22 | [gaeb](https://pypi.org/project/gaeb/) | 0.5.2 | Attackwave | 87.4 kB | Python library for reading, writing, converting and diffing GAEB files (AVA dat… |
-| 2026-09-26 23:13:31 | [gaeb-cli](https://pypi.org/project/gaeb-cli/) | 0.5.2 | Attackwave | 13.9 kB | Command-line tool for reading, writing, converting and diffing GAEB files (AVA… |
-| 2026-09-26 23:13:35 | [donutautosellsrc](https://pypi.org/project/donutautosellsrc/) | 0.3.7 | donut autosell team | 4.4 kB | Automated source-distribution and build utilities for donut payload packaging |
-| 2026-09-26 23:17:19 | [biopb-image-base](https://pypi.org/project/biopb-image-base/) | 0.11.0rc4 | Ji Yu <jyu@uchc.edu> | 33.6 kB | Serve functions over the biopb.image Ops protocol |
-| 2026-09-26 23:17:43 | [hallpass](https://pypi.org/project/hallpass/) | 0.6.0 |  | 1.2 MB | Permission checks for AI agents and bots, answered live by the system they act… |
+| 2026-09-26 23:25:23 | [json2csv-lite](https://pypi.org/project/json2csv-lite/) | 0.1.0 | sara <saraasaalari@yahoo.com> | 9.3 kB | Tiny, dependency-free JSON to CSV converter. |
+| 2026-09-26 23:26:11 | [retiqo](https://pypi.org/project/retiqo/) | 0.1.0 | Loreum Digital Inc <info@lore… | 144.1 kB | Python SDK for RetiQo, the state layer for enterprise AI agent workflows |
+| 2026-09-26 23:30:37 | [hannah-grpc-lib](https://pypi.org/project/hannah-grpc-lib/) | 0.4.0 |  | 31.3 kB | Shared gRPC client code for Hannah components (log shipping to the Hannah log c… |
+| 2026-09-26 23:30:42 | [opennodex](https://pypi.org/project/opennodex/) | 0.1.2 | opennodex <hola@opennodex.clo… | 12.7 MB | Structural FEA from .ndx decks: the nodex compiler, native engine and mesher, f… |
+| 2026-09-26 23:34:19 | [clefml](https://pypi.org/project/clefml/) | 0.0.2 | Rohan Almeida | 9.9 kB | Small open-weights language models for symbolic music (placeholder release, wor… |
+| 2026-09-26 23:37:41 | [duplicacy-backup-runner](https://pypi.org/project/duplicacy-backup-runner/) | 3.0.0 | Gene Wood <gene_wood@public.c… | 94.9 kB | Runs a scheduled Duplicacy backup and reports progress to healthchecks.io. |
+| 2026-09-26 23:41:30 | [recall-langgraph](https://pypi.org/project/recall-langgraph/) | 0.1.0 | Polign | 38.6 kB | Resume LangGraph agents from their own records, backed by Recall by Polign |
+| 2026-09-27 00:02:40 | [epsiloneridani-progress](https://pypi.org/project/epsiloneridani-progress/) | 0.1.0 |  | 210.0 kB | Decide, generate, and publish per-roadmap progress reports for EpsilonEridani. |
+| 2026-09-27 00:07:46 | [VPYrender](https://pypi.org/project/VPYrender/) | 0.1.1 |  | 11.9 kB | A lightweight from-scratch software 3D renderer with optional desktop GUI |
