@@ -1,37 +1,37 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-09-27T20:19:51.653751Z",
-    "path": "data/new-packages-2026-09-27T21-19-24-114117Z.csv",
-    "to": "2026-09-27T21:19:24.114117Z"
+    "count": 23,
+    "from": "2026-09-27T21:19:24.114117Z",
+    "path": "data/new-packages-2026-09-27T22-19-32-053936Z.csv",
+    "to": "2026-09-27T22:19:32.053936Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-27T18:31:09Z",
       "package": "pman-cli",
       "since": "2026-09-27T18:19:04.743306Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-27T20:38:07Z",
       "package": "reacon-sdk",
       "since": "2026-09-27T20:19:51.653751Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-27T18:42:52Z",
       "package": "teleflow-sdk",
       "since": "2026-09-27T18:19:04.743306Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-27T18:38:28Z",
       "package": "traffic-lights-events",
       "since": "2026-09-27T18:19:04.743306Z"
     }
   ],
-  "serial": 41528072,
+  "serial": 41529521,
   "source_truncated": false,
-  "window": "2026-09-27T21:19:24.114117Z"
+  "window": "2026-09-27T22:19:32.053936Z"
 }
