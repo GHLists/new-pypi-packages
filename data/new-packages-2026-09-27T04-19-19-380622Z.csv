@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T03:19:33Z,dorothea,1.9.1,"Marco Lussetti, Jack Qiao",MIT,6259059,Static photography website generator: turn folders of photos and videos into a photo essay. A Python port of expose.sh
+2026-09-27T03:20:23Z,cybat-sdk,0.2.0,,MIT,57863,Cybat SDK for Python — WSGI/ASGI middleware that reports HTTP traffic directly to the Cybat Intelligence Engine
+2026-09-27T03:26:20Z,bts-pivot,0.20.0,,MIT,593097,"Auto-fitted pivot tables that toggle to histograms and back, with slicing, clustering, Markov chains, paging for big data, an MCP server for LLM agents and Jupyter menus. For cyber logs or any tabula…"
+2026-09-27T03:28:28Z,attestwire,0.1.0,Attestwire <hello@attestwire.com>,MIT,34665,"Validate EN 16931 e-invoices (XRechnung, Factur-X/ZUGFeRD, Peppol BIS 3) via the hosted Attestwire API or the local @attestwire/en16931 CLI. Standard library only, no runtime dependencies."
+2026-09-27T03:28:54Z,gpconf,0.3.0,,MIT,1045088,"Runner for the GP/OMM conformance corpus (Alpha-5, 6- and 9-digit catalog numbers, OMM formats)"
+2026-09-27T03:38:54Z,localapi,0.1.0,,MIT,24860,Turn any Python function into a local HTTP API with zero boilerplate.
+2026-09-27T03:42:34Z,sparkkitchen,0.0.1,,Apache-2.0,10686,"sparkKitchen: plan, serve and watch models on NVIDIA GB10 clusters (name reserved; first release coming)"
+2026-09-27T03:47:32Z,facturador-afip-mcp,0.1.0,ignaciovilagraca,,100090,"Servidor MCP para emitir facturas electrónicas de ARCA (ex AFIP): A, B, C, notas de crédito y Factura E"
+2026-09-27T03:49:08Z,AZPytest,0.1.0,vxvira,MIT,24727,"Tick-data backtesting toolkit: replay a CSV, simulate long/short trades, and run price analytics."
+2026-09-27T03:55:03Z,oura-ring-python-mcp,0.1.0,,MIT,70749,"MCP server exposing Oura Ring sleep, readiness, activity and heart rate data"
+2026-09-27T03:58:19Z,conventional-git,1.0.0,"""G.A.JAGUAR"" <dev@gajaguar.com>",MIT,186672,"Conventional Commits and Conventional Branch enforcement, validation, and generation"
+2026-09-27T04:00:52Z,plottery-ui,1.0.0,"Brian Hempel, Ruanqianqian (Lisa) Huang, Devamardeep Hayatpur",MIT,2417993,"An in-notebook graphical interface for Matplotlib: drag shapes, tweak arguments, and prompt an LLM, with the code always the ground truth."
+2026-09-27T04:01:09Z,deped-maps-reader,0.1.0,,,21643,Verified lightweight reader for Maps v5 SQLite releases.
+2026-09-27T04:03:47Z,mock-bank,0.1.0,,MIT,240643,"A mock bank: ISO 20022 payment files in, status reports, statements and returns out, over SQLite, with zero dependencies."
+2026-09-27T04:06:13Z,pymacos,1.0.0,Jean Loui Bernard Silva de Jesus <contact@jeanloui.dev>,MIT,55654,"A Pythonic interface to macOS — notifications, clipboard, dark mode, apps, Keychain, speech and screenshots in one dependency-free import."
+2026-09-27T04:09:04Z,caracas4check,1.1.1,4check,,16939,Human-oriented Python client for the 4check caracas API
+2026-09-27T04:12:18Z,reporipple,0.2.0,Adi Arora,MIT,57900,Deterministic change-impact analysis for engineers and coding agents.
+2026-09-27T04:13:39Z,veltra-agent,0.1.0,Veltra AI Team <founders@veltra.ai>,Apache-2.0,6545,Deterministic local security guardrail for autonomous software agents.
+2026-09-27T04:16:24Z,deped-enroll,0.0.10,Marcelino Veloso III,,63845,Dated DepEd enrollment artifacts from school-year enrollment CSVs.
+2026-09-27T04:16:27Z,azure-db-extractor,0.0.8,Marcelino Veloso III,,48928,Create verified local copies of Azure databases
+2026-09-27T04:16:32Z,openbb-arkleon,0.1.0,Arkleon,MIT,21000,Arkleon point-in-time SEC fundamentals provider extension for the OpenBB Platform
+2026-09-27T04:17:01Z,deped-dataset,0.2.4,Marcelino Veloso III,,205736,Add datasets into sqlite db file.

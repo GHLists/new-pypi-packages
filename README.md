@@ -8,44 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 03:18 UTC
+## Latest list — 2026-09-27 04:19 UTC
 
-New packages created between 2026-09-27 02:20 UTC and 2026-09-27 03:18 UTC.
+New packages created between 2026-09-27 03:18 UTC and 2026-09-27 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-27T03-18-53-016769Z.csv)
+[Full CSV](data/new-packages-2026-09-27T04-19-19-380622Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-27 02:21:35 | [union-skills](https://pypi.org/project/union-skills/) | 0.0.2 | unionai-oss | 113.9 kB | Deploy and operate Union.ai. Self-serve setup on AWS end to end: provision EKS,… |
-| 2026-09-27 02:21:51 | [xlsxflat](https://pypi.org/project/xlsxflat/) | 0.1.0 | Younes Z. | 24.9 kB | Turn a tree of messy .xlsx reports into one flat table, with a report of every… |
-| 2026-09-27 02:22:03 | [freestyle-libre-mcp](https://pypi.org/project/freestyle-libre-mcp/) | 0.1.1 |  | 44.8 kB | MCP server exposing FreeStyle Libre glucose readings from LibreLinkUp |
-| 2026-09-27 02:22:05 | [codex-auto-compute](https://pypi.org/project/codex-auto-compute/) | 0.1.3 |  | 64.0 kB | Conservative Codex worker routing with local usage and outcome evidence |
-| 2026-09-27 02:28:05 | [rag-ladder](https://pypi.org/project/rag-ladder/) | 0.1.1 |  | 55.3 kB | 6 RAG recipes, ladder-first: BM25 full-text, LLM query rewriting, hybrid retrie… |
-| 2026-09-27 02:29:05 | [alive-verify](https://pypi.org/project/alive-verify/) | 0.1.0 |  | 17.7 kB | Unofficial Python client for the Alive Verify API |
-| 2026-09-27 02:29:23 | [jep-core-conformance](https://pypi.org/project/jep-core-conformance/) | 0.7.4 |  | 48.6 kB | JEP Core 0.7 conformance tools with explicit legacy 0.6 compatibility |
-| 2026-09-27 02:30:28 | [polyjev](https://pypi.org/project/polyjev/) | 0.1.0 | Praveen Shukla | 184.3 kB | Typed, calibrated decisions from any LLM: yes/no, choice, rating and grounded e… |
-| 2026-09-27 02:30:46 | [storepagelint](https://pypi.org/project/storepagelint/) | 0.1.0 | Younes Z. | 28.9 kB | Check whether a game store page says its genre, and where a reader finds it. |
-| 2026-09-27 02:36:46 | [xc-xrunner](https://pypi.org/project/xc-xrunner/) | 0.1.2 |  | 1.8 MB | Rootless container runtime for Docker images, built for coala |
-| 2026-09-27 02:38:18 | [ned-watch-mcp](https://pypi.org/project/ned-watch-mcp/) | 1.0.0 |  | 10.3 kB | Register a URL, condition, or deadline; Ned wakes you at your callback when it… |
-| 2026-09-27 02:42:02 | [dhrona](https://pypi.org/project/dhrona/) | 0.1.1 | Karthik <karthik.rajgopal@hot… | 39.1 kB | train agents to choose and use the right tools |
-| 2026-09-27 02:42:47 | [julia-mlx](https://pypi.org/project/julia-mlx/) | 0.2.0 | Merchantry LLC | 58.2 kB | Julia-1 decision model on Apple silicon with MLX, at parity with the reference… |
-| 2026-09-27 02:45:40 | [agentbus-cli](https://pypi.org/project/agentbus-cli/) | 0.1.0 | Ekin Ertaç | 70.1 kB | Cross-session messaging between coding agents on the same machine (Claude Code,… |
-| 2026-09-27 02:47:11 | [ranbo4s](https://pypi.org/project/ranbo4s/) | 1.0.0 | Tinghua Huang <thua45@126.com> | 38.3 kB | A Python package for mining key transcription factors from transcriptome data. |
-| 2026-09-27 02:48:19 | [claudedashbord](https://pypi.org/project/claudedashbord/) | 0.1.0 | claudedashbord maintainers | 6.5 kB | A lightweight toolkit for building and monitoring AI/ML dashboards |
-| 2026-09-27 02:52:28 | [beans-picker](https://pypi.org/project/beans-picker/) | 0.3.0 | mimo-3 | 439.6 kB | An MCP server that handpicks the right control for agents driving macOS apps, a… |
-| 2026-09-27 02:56:57 | [holaryn](https://pypi.org/project/holaryn/) | 0.0.0 | Synergentic, Inc. | 2.4 kB | Name reserved by Synergentic, Inc. Contains no usable code. |
-| 2026-09-27 02:56:58 | [holaryn-agent](https://pypi.org/project/holaryn-agent/) | 0.0.0 | Synergentic, Inc. | 2.5 kB | Name reserved by Synergentic, Inc. Contains no usable code. |
-| 2026-09-27 02:56:59 | [holaryn-ai](https://pypi.org/project/holaryn-ai/) | 0.0.0 | Synergentic, Inc. | 2.4 kB | Name reserved by Synergentic, Inc. Contains no usable code. |
-| 2026-09-27 02:57:00 | [holaryn-hacp](https://pypi.org/project/holaryn-hacp/) | 0.0.0 | Synergentic, Inc. | 2.5 kB | Name reserved by Synergentic, Inc. Contains no usable code. |
-| 2026-09-27 02:57:41 | [sudomimus-token](https://pypi.org/project/sudomimus-token/) | 4.1.0 | Sudomimus Contributors | 20.9 kB | Sudomimus Token SDK — parse and verify Sudomimus access and refresh JWTs. |
-| 2026-09-27 02:57:43 | [sudomimus-session](https://pypi.org/project/sudomimus-session/) | 4.1.0 | Sudomimus Contributors | 24.9 kB | Sudomimus Session SDK — user info, claim state, refresh-token rotation, introsp… |
-| 2026-09-27 02:57:46 | [sudomimus-connect](https://pypi.org/project/sudomimus-connect/) | 4.1.0 | Sudomimus Contributors | 29.7 kB | Sudomimus Connect SDK — establish authentication inquiries, poll status, redeem… |
-| 2026-09-27 02:57:48 | [sudomimus-device](https://pypi.org/project/sudomimus-device/) | 4.1.0 | Sudomimus Contributors | 19.6 kB | Sudomimus Device SDK — public-client device authorization with manual or automa… |
-| 2026-09-27 03:01:35 | [oracq](https://pypi.org/project/oracq/) | 0.1.0 | agony <chenzhaoyun@iai.ustc.e… | 1.7 MB | Python quantum generators with a modular register-level IR |
-| 2026-09-27 03:04:53 | [g-language](https://pypi.org/project/g-language/) | 1.0.0 | G Developer | 8.2 kB | An open-source custom programming language with dynamic local scope verificatio… |
-| 2026-09-27 03:14:22 | [judgetap](https://pypi.org/project/judgetap/) | 0.0.1 | Omer Bar-Ness <omer@zsquared.… | 2.3 kB | Fast typed decisions (choice, score, yes/no) across Jev-style engines, and a pr… |
-| 2026-09-27 03:14:27 | [emo-x-eval](https://pypi.org/project/emo-x-eval/) | 2.0.0rc1 |  | 369.5 kB | Adaptive, execution-based evaluation of AI coding models and agents |
-| 2026-09-27 03:15:53 | [posthorn](https://pypi.org/project/posthorn/) | 0.1.0 | Drew Vandagriff <vandagriff.d… | 52.9 kB | Lightweight configurable job posting scanner and alerting. Work smarter, not ha… |
-| 2026-09-27 03:16:51 | [stspeck](https://pypi.org/project/stspeck/) | 0.8.0 | "Daniel Mejia (Denphi)" <denp… | 119.1 kB | Speck molecule viewer for Streamlit: ambient occlusion, cartoons, surfaces and… |
-| 2026-09-27 03:16:57 | [minesweeper-tui](https://pypi.org/project/minesweeper-tui/) | 0.1.0 | Slackow | 5.8 kB | minesweeper in tui form |
-| 2026-09-27 03:17:11 | [copse-agents](https://pypi.org/project/copse-agents/) | 0.1.0 | Hannah Lerner | 119.2 kB | Orchestrate CLI coding agents in tmux, each on its own git worktree and branch |
+| 2026-09-27 03:19:33 | [dorothea](https://pypi.org/project/dorothea/) | 1.9.1 | Marco Lussetti, Jack Qiao | 6.3 MB | Static photography website generator: turn folders of photos and videos into a… |
+| 2026-09-27 03:20:23 | [cybat-sdk](https://pypi.org/project/cybat-sdk/) | 0.2.0 |  | 57.9 kB | Cybat SDK for Python — WSGI/ASGI middleware that reports HTTP traffic directly… |
+| 2026-09-27 03:26:20 | [bts-pivot](https://pypi.org/project/bts-pivot/) | 0.20.0 |  | 593.1 kB | Auto-fitted pivot tables that toggle to histograms and back, with slicing, clus… |
+| 2026-09-27 03:28:28 | [attestwire](https://pypi.org/project/attestwire/) | 0.1.0 | Attestwire <hello@attestwire.… | 34.7 kB | Validate EN 16931 e-invoices (XRechnung, Factur-X/ZUGFeRD, Peppol BIS 3) via th… |
+| 2026-09-27 03:28:54 | [gpconf](https://pypi.org/project/gpconf/) | 0.3.0 |  | 1.0 MB | Runner for the GP/OMM conformance corpus (Alpha-5, 6- and 9-digit catalog numbe… |
+| 2026-09-27 03:38:54 | [localapi](https://pypi.org/project/localapi/) | 0.1.0 |  | 24.9 kB | Turn any Python function into a local HTTP API with zero boilerplate. |
+| 2026-09-27 03:42:34 | [sparkkitchen](https://pypi.org/project/sparkkitchen/) | 0.0.1 |  | 10.7 kB | sparkKitchen: plan, serve and watch models on NVIDIA GB10 clusters (name reserv… |
+| 2026-09-27 03:47:32 | [facturador-afip-mcp](https://pypi.org/project/facturador-afip-mcp/) | 0.1.0 | ignaciovilagraca | 100.1 kB | Servidor MCP para emitir facturas electrónicas de ARCA (ex AFIP): A, B, C, nota… |
+| 2026-09-27 03:49:08 | [AZPytest](https://pypi.org/project/AZPytest/) | 0.1.0 | vxvira | 24.7 kB | Tick-data backtesting toolkit: replay a CSV, simulate long/short trades, and ru… |
+| 2026-09-27 03:55:03 | [oura-ring-python-mcp](https://pypi.org/project/oura-ring-python-mcp/) | 0.1.0 |  | 70.7 kB | MCP server exposing Oura Ring sleep, readiness, activity and heart rate data |
+| 2026-09-27 03:58:19 | [conventional-git](https://pypi.org/project/conventional-git/) | 1.0.0 | "G.A.JAGUAR" <dev@gajaguar.co… | 186.7 kB | Conventional Commits and Conventional Branch enforcement, validation, and gener… |
+| 2026-09-27 04:00:52 | [plottery-ui](https://pypi.org/project/plottery-ui/) | 1.0.0 | Brian Hempel, Ruanqianqian (L… | 2.4 MB | An in-notebook graphical interface for Matplotlib: drag shapes, tweak arguments… |
+| 2026-09-27 04:01:09 | [deped-maps-reader](https://pypi.org/project/deped-maps-reader/) | 0.1.0 |  | 21.6 kB | Verified lightweight reader for Maps v5 SQLite releases. |
+| 2026-09-27 04:03:47 | [mock-bank](https://pypi.org/project/mock-bank/) | 0.1.0 |  | 240.6 kB | A mock bank: ISO 20022 payment files in, status reports, statements and returns… |
+| 2026-09-27 04:06:13 | [pymacos](https://pypi.org/project/pymacos/) | 1.0.0 | Jean Loui Bernard Silva de Je… | 55.7 kB | A Pythonic interface to macOS — notifications, clipboard, dark mode, apps, Keyc… |
+| 2026-09-27 04:09:04 | [caracas4check](https://pypi.org/project/caracas4check/) | 1.1.1 | 4check | 16.9 kB | Human-oriented Python client for the 4check caracas API |
+| 2026-09-27 04:12:18 | [reporipple](https://pypi.org/project/reporipple/) | 0.2.0 | Adi Arora | 57.9 kB | Deterministic change-impact analysis for engineers and coding agents. |
+| 2026-09-27 04:13:39 | [veltra-agent](https://pypi.org/project/veltra-agent/) | 0.1.0 | Veltra AI Team <founders@velt… | 6.5 kB | Deterministic local security guardrail for autonomous software agents. |
+| 2026-09-27 04:16:24 | [deped-enroll](https://pypi.org/project/deped-enroll/) | 0.0.10 | Marcelino Veloso III | 63.8 kB | Dated DepEd enrollment artifacts from school-year enrollment CSVs. |
+| 2026-09-27 04:16:27 | [azure-db-extractor](https://pypi.org/project/azure-db-extractor/) | 0.0.8 | Marcelino Veloso III | 48.9 kB | Create verified local copies of Azure databases |
+| 2026-09-27 04:16:32 | [openbb-arkleon](https://pypi.org/project/openbb-arkleon/) | 0.1.0 | Arkleon | 21.0 kB | Arkleon point-in-time SEC fundamentals provider extension for the OpenBB Platfo… |
+| 2026-09-27 04:17:01 | [deped-dataset](https://pypi.org/project/deped-dataset/) | 0.2.4 | Marcelino Veloso III | 205.7 kB | Add datasets into sqlite db file. |
