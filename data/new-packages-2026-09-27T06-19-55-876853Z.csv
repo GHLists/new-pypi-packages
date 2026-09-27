@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T05:23:16Z,keyhole-mcp,0.4.0,Jovi,MIT,1205139,"Let ChatGPT read, and carefully edit, only the local folders you choose - through OpenAI's Secure MCP Tunnel, with no shell and no public port."
+2026-09-27T05:23:23Z,agloom,1.0.0,S Muni Harish <samamuniharish@gmail.com>,Apache-2.0,1652444,"Production-grade Python agent harness that automatically classifies tasks, optimizes execution, and scales orchestration across eight specialized topologies."
+2026-09-27T05:27:15Z,facturador-afip,0.1.0,Ignacio Vila Graca,MIT,107926,"Facturas electrónicas de ARCA (ex AFIP) desde Python: A, B, C, notas de crédito y Factura E, con el PDF de Comprobantes en línea"
+2026-09-27T05:29:46Z,rathflow-cli,0.1.2,Rath Team,MIT,94972,"RathFlow command line client: sessions, memory, sandboxes, assets and billing over the RathFlow REST API."
+2026-09-27T05:29:56Z,ikarem,0.3.0,,MIT,125047,"IKAREM — Meraki reversed. Lightweight, modular Python ASGI backend framework."
+2026-09-27T05:31:21Z,duclong-toanhoc,0.1.0,DUC LONG,,3071,Thư viện toán học cơ bản
+2026-09-27T05:33:44Z,pipxclip,4.1.1,EffessDev <effessdev@gmail.com>,GPL-3.0,53362,"Generate Markdown context of a git repository and copy it straight to your clipboard, ready to paste into an LLM chat."
+2026-09-27T05:34:28Z,codex-transcript-viewer,0.5.0,Colin Mason,MIT,100063,Convert Codex CLI JSONL session transcripts to self-contained HTML viewers
+2026-09-27T05:36:29Z,nexus-scan,1.0.0,,,7867,Nexus Recon and Scanning Suite
+2026-09-27T05:36:33Z,easypow,0.1.0,Leo Vasanko,MIT OR Unlicense,16114,Antibot Proof-of-Work protection to verify browsers on web apps.
+2026-09-27T05:39:44Z,mkdocs-audience-toggle,0.1.0,Luka Sherman <luka.msherman@gmail.com>,MIT,182492,Material for MkDocs plugin: an N-way content-mode toggle (e.g. Essentials/Advanced) that shows or hides marked content per mode.
+2026-09-27T05:43:02Z,llms2jev,0.4.1,"""Silan.Hu"" <silan.hu@u.nus.edu>",MIT,2899488,"Inspired by Jev. Turn LLMs into decision engines—score choices, skip the chat."
+2026-09-27T05:44:12Z,harnessx,0.3.0,Jyotish Bora <jyotish.bora@datagol.ai>,MIT,451338,"A lightweight, production-grade LLM agent toolkit in Python: streaming, MCP, lazy skills, memory, and sandboxing."
+2026-09-27T05:44:18Z,gui-ui,0.1.1,Nikola <a70655776@gmail.com>,MIT,46755,A visual Tkinter interface builder without external dependencies.
+2026-09-27T05:45:53Z,tstate,0.1.0,,MIT,7186,"Explicit-state reachability, closure, and attractor computation"
+2026-09-27T05:51:22Z,gpt-researcher-keenable,0.1.0,keenableai,MIT,11348,Keenable web search as a GPT Researcher retriever plugin. No API key needed.
+2026-09-27T06:06:03Z,pystreamxl,6.0.0,Georgi Mammen Mullassery <mullassery@gmail.com>,Apache-2.0,1066570,"High-performance .xlsx file reader with formula extraction, comment support, and cross-sheet dependency analysis. Streams large .xlsx files row-by-row without loading the entire file into memory; 3.8…"
+2026-09-27T06:09:54Z,pdf-sign-kit,0.5.0,兰衣 <iehjli@163.com>,MIT,96547,"Framework-agnostic Python toolkit for stamping signatures and text onto PDF: automatic table-cell detection, text-anchor placement, seam stamps, watermarks, placement templates, a paperless workflow…"
+2026-09-27T06:14:38Z,innards,0.1.0,Jai,Apache-2.0,127108,"See inside open-weight LLMs per message: KV cache, context growth and memory, predicted vs measured, across MHA, GQA, MLA, sliding-window and hybrid models."
+2026-09-27T06:18:03Z,pyfastnoiselite-ledfx,0.0.8,LedFx,MIT,3992735,"Cython wrapper for Auburn's FastNoise Lite noise library, with stable-ABI wheels (LedFx fork of pyfastnoiselite)"
+2026-09-27T06:19:22Z,actuent,0.2.0,localilabs <support@localilabs.com>,MIT,16720,"Python SDK for Actuent — the search engine for AI agents. Websites and products as structured LAWP, plus LangChain and LlamaIndex tools."
