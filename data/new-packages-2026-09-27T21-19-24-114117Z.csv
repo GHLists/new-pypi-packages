@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T20:23:36Z,jevpipe,0.1.0,,Apache-2.0,18993852,"A Unix pipe for typed decisions: stream records in, get calibrated decisions out."
+2026-09-27T20:27:02Z,bacatlas,0.0.1,David Abelson,"BSD 3-Clause License Copyright (c) 2026, David Abelson All rights reserved. Redistribution and use…",8621,BacAtlas — a locus-centred atlas of bacterial pangenomes
+2026-09-27T20:29:45Z,datasift-py,0.4.1,sarahsalary <saraasaalari@yahoo.com>,MIT,63854,"Python-native fluent API for data conversion, querying, manipulation, and validation. Zero dependencies."
+2026-09-27T20:33:09Z,hessboost,0.2.0,Brenden Matthews <brenden@brndn.io>,Apache-2.0,30835817,"Fast, deterministic gradient boosting in Rust: conformal intervals, explainable boosting machines, distributional boosting, and tree-based diffusion"
+2026-09-27T20:36:10Z,deduplex,0.1.0,Zach Audan,MIT,68575,Idempotency guard for AI agent tool calls — stop duplicate side effects from retries.
+2026-09-27T20:37:37Z,ferir,0.2.0,Clivern,Apache-2.0,38370,Point an agent at a repository. Get a patch you can ship.
+2026-09-27T20:38:25Z,oculon,1.0.0,Abhyuday Mishra,MIT,1616361,Oculon: Delhi Hotspots ML Spatiotemporal Crime Forecasting & MCP Server
+2026-09-27T20:40:40Z,claude-pace,1.0.0,ElishaPervez,MIT,84363,"Pace your Claude plan limits across the week: daily budget, 5-hour and weekly meters, sessions per week."
+2026-09-27T20:47:38Z,gencli-agents,0.0.1,gustavo.polleti,MIT,19883,"General-purpose CLI: a library of functions exposed as commands, built for agents to use and extend"
+2026-09-27T20:47:57Z,polyglav,0.37.0,Evgenij Myasnikov,MIT,442961,"A lightweight agentic tooling core with API, CLI and REPL interfaces"
+2026-09-27T20:49:42Z,salix,0.1.0a1,JP Hutchins <jphutchins@gmail.com>,MIT,3065058,"A C-backed, inheritable Struct base class for Python — fast import, fast type creation"
+2026-09-27T20:55:31Z,avelto,0.1.0,Avelto,MIT,44466,"Python SDK for Avelto, the email API for developers who want it to just work"
+2026-09-27T20:57:46Z,capo-marketplace-catalog,0.1.0,,,365630,Python SDK for Marketplace Catalog.
+2026-09-27T20:57:54Z,agent-skills-pss,0.1.0,Matthew Ballance,Apache-2.0,521655,Agent skills for writing and reviewing PSS (Portable Test and Stimulus) models
+2026-09-27T20:58:00Z,beets-bandcamp-sync,0.1.1,Fred Phillips,MIT,15502,Synchronize Bandcamp album purchases into beets
+2026-09-27T20:58:17Z,capo-marketplace-commerce-analytics,0.1.0,,,116760,Python SDK for Marketplace Commerce Analytics.
+2026-09-27T20:58:34Z,cowboy-actor-sdk,0.1.2,Cowboy Labs,MIT,348135,SDK for developing Cowboy Actors
+2026-09-27T20:58:48Z,capo-marketplace-deployment,0.1.0,,,126463,Python SDK for Marketplace Deployment.
+2026-09-27T21:00:44Z,capo-marketplace-discovery,0.1.0,,,303264,Python SDK for Marketplace Discovery.
+2026-09-27T21:01:19Z,capo-marketplace-entitlement-service,0.1.0,,,111407,Python SDK for Marketplace Entitlement Service.
+2026-09-27T21:01:54Z,curious-astronaut,8.3.0,Charles Patrick James <charles.patrick.james@gmail.com>,MIT License Copyright (c) 2026 Charles Patrick James <charles.patrick.james@gmail.com> Permission i…,3806879,Curious Astronaut — an interactive citation/similarity graph explorer with an AI teacher that narrates a field's history over the graph.
+2026-09-27T21:01:56Z,capo-marketplace-metering,0.1.0,,,167486,Python SDK for Marketplace Metering.
+2026-09-27T21:02:41Z,capo-marketplace-reporting,0.1.0,,,97406,Python SDK for Marketplace Reporting.
+2026-09-27T21:02:43Z,halwest,0.1.0,,,2287,
+2026-09-27T21:03:52Z,capo-mediaconnect,0.1.0,,,838466,Python SDK for Mediaconnect.
+2026-09-27T21:04:36Z,capo-mediaconvert,0.1.0,,,1386202,Python SDK for Mediaconvert.
+2026-09-27T21:06:02Z,capo-medialive,0.1.0,,,1645087,Python SDK for Medialive.
+2026-09-27T21:06:38Z,capo-mediapackage,0.1.0,,,248674,Python SDK for Mediapackage.
+2026-09-27T21:07:54Z,capo-mediapackage-vod,0.1.0,,,215477,Python SDK for Mediapackage Vod.
+2026-09-27T21:08:04Z,releasetrain-inventory,0.1.0,SE4CPS,MIT,38199,"Cross-platform scanner for installed software (not OS/library packages) and their versions, with optional upload to a ReleaseTrain account."
+2026-09-27T21:08:34Z,capo-mediapackagev2,0.1.0,,,376820,Python SDK for Mediapackagev2.
+2026-09-27T21:09:16Z,capo-mediastore,0.1.0,,,214148,Python SDK for Mediastore.
+2026-09-27T21:09:51Z,capo-mediastore-data,0.1.0,,,134256,Python SDK for Mediastore Data.
+2026-09-27T21:10:28Z,capo-mediatailor,0.1.0,,,499591,Python SDK for Mediatailor.
+2026-09-27T21:11:03Z,capo-medical-imaging,0.1.0,,,259141,Python SDK for Medical Imaging.
+2026-09-27T21:11:04Z,reverie-memory,0.1.0a1,Reverie contributors,Apache-2.0,207352,"Precise precedent retrieval for AI agents, with a human in the loop."
+2026-09-27T21:11:24Z,zelinqa-mcp,1.0.0,Zelinqa <support@zelinqa.ai>,Apache-2.0,58576,Official MCP server for the Zelinqa API
+2026-09-27T21:12:09Z,paperless-epub-parser,1.1.0,David Newman <david.r.newman@proton.me>,MIT,45353,EPUB parser plugin for Paperless-ngx — text extraction for full-text search.
+2026-09-27T21:12:29Z,openglcontext-checks,0.1.0a2,"""Mike C. Fletcher"" <mcfletch@vrplumber.com>",BSD-3-Clause,178240,Static checks for the defect classes the OpenGLContext stack's reviews keep finding
+2026-09-27T21:13:46Z,histor,0.0.1,Histor Labs,EUPL-1.2,2285,Histor: verifiable evidence for EU AI Act regulatory sandboxes. Placeholder release; the first working release is due in October 2026.
+2026-09-27T21:17:21Z,egyptian-national-id-ocr,0.3.0,Hassan Salama,MIT,4379996,"Fast, local, open-source Egyptian National ID OCR extraction pipeline"

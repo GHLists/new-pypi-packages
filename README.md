@@ -8,43 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 20:19 UTC
+## Latest list — 2026-09-27 21:19 UTC
 
-New packages created between 2026-09-27 19:19 UTC and 2026-09-27 20:19 UTC.
+New packages created between 2026-09-27 20:19 UTC and 2026-09-27 21:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-27T20-19-51-653751Z.csv)
+[Full CSV](data/new-packages-2026-09-27T21-19-24-114117Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-27 17:12:17 | [dcc-mcp-wwise](https://pypi.org/project/dcc-mcp-wwise/) | 0.1.5 | loonghao <hal.long@outlook.co… | 141.5 kB | Typed DCC-MCP adapter for Audiokinetic Wwise authoring through WAAPI |
-| 2026-09-27 19:19:47 | [nanotoken](https://pypi.org/project/nanotoken/) | 0.1.0 | Alex Lilburn | 5.5 MB | WordPiece tokenization at GB/s, exactly matching HuggingFace tokenizers |
-| 2026-09-27 19:20:56 | [plantranger](https://pypi.org/project/plantranger/) | 0.1.0 | Digital Buttes LLC | 20.5 kB | Asynchronous client for the Plant Ranger API |
-| 2026-09-27 19:22:22 | [llm-eval-kit-v1](https://pypi.org/project/llm-eval-kit-v1/) | 0.1.2 | Mahrukh Baig, Muhammad Maaz,… | 56.4 kB | A lightweight, offline Python library for scoring LLM response quality. This pr… |
-| 2026-09-27 19:23:30 | [prosperity5bt](https://pypi.org/project/prosperity5bt/) | 0.0.0 | Jasper van Merle <jaspervmerl… | 138.0 MB | Backtester for IMC Prosperity 5 algorithms |
-| 2026-09-27 19:24:42 | [cyberbully](https://pypi.org/project/cyberbully/) | 0.2.0 | KEA MINDZ | 30.7 kB | Production-grade cyberbullying detection powered by transformer classifiers and… |
-| 2026-09-27 19:25:16 | [bolttest](https://pypi.org/project/bolttest/) | 0.0.2 |  | 161.6 kB | Agent-native test runner for Python: runs only the tests a change can affect |
-| 2026-09-27 19:30:35 | [rochtunes](https://pypi.org/project/rochtunes/) | 0.2.1 |  | 78.0 kB | Load a Rochtunes library onto an MP3 player |
-| 2026-09-27 19:36:21 | [nefi](https://pypi.org/project/nefi/) | 0.1.1 | CAB Lab, Princeton University | 1.9 MB | Neural-field inversion: recover hidden physical fields from a single measuremen… |
-| 2026-09-27 19:36:48 | [pcdlint](https://pypi.org/project/pcdlint/) | 0.1.0 | pcdlint Contributors | 38.2 kB | Static Taint Linter for Prompt-Cache Determinism |
-| 2026-09-27 19:37:48 | [akko-mcp-trino-atlas](https://pypi.org/project/akko-mcp-trino-atlas/) | 0.1.0 | AKKO <contact@akko-ai.com> | 31.0 kB | Apache Atlas context provider for akko-mcp-trino: descriptions, classifications… |
-| 2026-09-27 19:39:03 | [goblin-wg](https://pypi.org/project/goblin-wg/) | 1.0.0 | Christian Vaccaro-Gallo <1711… | 90.6 kB | Wargaming API client and CLI toolkit for Python. Dynamically generates typed me… |
-| 2026-09-27 19:44:23 | [minelabs-rekha](https://pypi.org/project/minelabs-rekha/) | 0.1.2 | Mine Labs <dev@minelabs.ai> | 36.9 kB | High-Performance System-1 Control Plane and Gateway for Production RAG |
-| 2026-09-27 19:45:42 | [tslitex](https://pypi.org/project/tslitex/) | 0.2.0 | Nate Meyer <nate.devel@gmail.… | 29.1 MB |  |
-| 2026-09-27 19:46:10 | [parley-consensus](https://pypi.org/project/parley-consensus/) | 0.2.0 |  | 139.0 kB | Consensus among personal AI agents that faithfully represent owners with confli… |
-| 2026-09-27 19:46:11 | [instruments-of-thought](https://pypi.org/project/instruments-of-thought/) | 0.0.2 | Machina Ratiocinatrix <machin… | 47.9 kB | Instruments-of-Thought ... |
-| 2026-09-27 19:49:08 | [bangla-date](https://pypi.org/project/bangla-date/) | 2.0.3 | Anupam Sengupta <anupamsg@gma… | 23.6 kB | Convert Gregorian dates to Bangla dates and print the current Bangla date. |
-| 2026-09-27 19:52:15 | [exptrail](https://pypi.org/project/exptrail/) | 0.1.0 | Jaden Isaac | 84.2 kB | Local, framework-agnostic ML experiment logging that keeps README numbers verif… |
-| 2026-09-27 19:53:29 | [loopgrid-agno](https://pypi.org/project/loopgrid-agno/) | 0.1.0 | LoopGrid | 33.8 kB | Signed, independently verifiable decision evidence for Agno agents and teams us… |
-| 2026-09-27 19:53:31 | [sahifa](https://pypi.org/project/sahifa/) | 1.0.0 | Yimello LLC <support@sahifa.d… | 12.9 kB | Arabic-ready HTML to PDF and screenshot API client, rendered in Saudi Arabia (S… |
-| 2026-09-27 19:56:42 | [zycoin](https://pypi.org/project/zycoin/) | 1.0.1 | BitcoinZ Community | 77.7 kB | Python client library for BitcoinZ and related Zcoin-family blockchain networks… |
-| 2026-09-27 20:00:26 | [tack-agents](https://pypi.org/project/tack-agents/) | 0.1.0 | John Foland <john@johnfoland.… | 169.4 kB | Keep your agent skills deployed identically to Claude Code and Codex from one m… |
-| 2026-09-27 20:00:53 | [vertimosaic](https://pypi.org/project/vertimosaic/) | 0.1.0 | Saurav Singla | 289.5 kB | CPU-first vertical federated learning research framework for heterogeneous tabu… |
-| 2026-09-27 20:01:16 | [tascam-dp008ex-sd-audio-extractor](https://pypi.org/project/tascam-dp008ex-sd-audio-extractor/) | 0.1.0 | Juan Manuel Daza <juanmanueld… | 40.6 kB | Extract master and stem WAVs from Tascam DP-008EX SD card images (reverse-engin… |
-| 2026-09-27 20:04:52 | [aaw-core](https://pypi.org/project/aaw-core/) | 0.1.0 | Sergey Nes | 258.6 kB | Agents At Work Core: the open-source engine behind Agents At Work. Run Claude C… |
-| 2026-09-27 20:06:29 | [ragsentry](https://pypi.org/project/ragsentry/) | 0.1.0 | RagSentry Team | 51.1 kB | Regression-testing and evaluation tool for RAG systems ('pytest for RAG') |
-| 2026-09-27 20:07:44 | [harsh-kernel](https://pypi.org/project/harsh-kernel/) | 0.1.3 |  | 14.2 kB | A Jupyter kernel for Harsh: cells are transpiled with hrs and evaluated by evcx… |
-| 2026-09-27 20:11:01 | [ziomek](https://pypi.org/project/ziomek/) | 0.1.2 |  | 47.9 kB | ziomek - Humanize AI |
-| 2026-09-27 20:12:49 | [MicroTensorGrad](https://pypi.org/project/MicroTensorGrad/) | 1.0.0 | Guettara Mohamed Amine <guett… | 16.2 kB | A Tensor Based autograd engine used to train neural network based models |
-| 2026-09-27 20:17:51 | [micguard](https://pypi.org/project/micguard/) | 0.1.0 | Scott Peterman | 19.6 kB | Device-level microphone mute indicator and enforcer for macOS, Windows and Linux |
-| 2026-09-27 20:18:54 | [pycream2](https://pypi.org/project/pycream2/) | 0.1.0 | David Starkey | 249.4 kB | Continuum Reprocessing AGN MCMC: Bayesian fitting of AGN accretion-disc reverbe… |
-| 2026-09-27 20:19:11 | [valydar](https://pypi.org/project/valydar/) | 0.1.0a1 |  | 11.6 kB | Valydar Identity Verification API client |
+| 2026-09-27 20:23:36 | [jevpipe](https://pypi.org/project/jevpipe/) | 0.1.0 |  | 19.0 MB | A Unix pipe for typed decisions: stream records in, get calibrated decisions ou… |
+| 2026-09-27 20:27:02 | [bacatlas](https://pypi.org/project/bacatlas/) | 0.0.1 | David Abelson | 8.6 kB | BacAtlas — a locus-centred atlas of bacterial pangenomes |
+| 2026-09-27 20:29:45 | [datasift-py](https://pypi.org/project/datasift-py/) | 0.4.1 | sarahsalary <saraasaalari@yah… | 63.9 kB | Python-native fluent API for data conversion, querying, manipulation, and valid… |
+| 2026-09-27 20:33:09 | [hessboost](https://pypi.org/project/hessboost/) | 0.2.0 | Brenden Matthews <brenden@brn… | 30.8 MB | Fast, deterministic gradient boosting in Rust: conformal intervals, explainable… |
+| 2026-09-27 20:36:10 | [deduplex](https://pypi.org/project/deduplex/) | 0.1.0 | Zach Audan | 68.6 kB | Idempotency guard for AI agent tool calls — stop duplicate side effects from re… |
+| 2026-09-27 20:37:37 | [ferir](https://pypi.org/project/ferir/) | 0.2.0 | Clivern | 38.4 kB | Point an agent at a repository. Get a patch you can ship. |
+| 2026-09-27 20:38:25 | [oculon](https://pypi.org/project/oculon/) | 1.0.0 | Abhyuday Mishra | 1.6 MB | Oculon: Delhi Hotspots ML Spatiotemporal Crime Forecasting & MCP Server |
+| 2026-09-27 20:40:40 | [claude-pace](https://pypi.org/project/claude-pace/) | 1.0.0 | ElishaPervez | 84.4 kB | Pace your Claude plan limits across the week: daily budget, 5-hour and weekly m… |
+| 2026-09-27 20:47:38 | [gencli-agents](https://pypi.org/project/gencli-agents/) | 0.0.1 | gustavo.polleti | 19.9 kB | General-purpose CLI: a library of functions exposed as commands, built for agen… |
+| 2026-09-27 20:47:57 | [polyglav](https://pypi.org/project/polyglav/) | 0.37.0 | Evgenij Myasnikov | 443.0 kB | A lightweight agentic tooling core with API, CLI and REPL interfaces |
+| 2026-09-27 20:49:42 | [salix](https://pypi.org/project/salix/) | 0.1.0a1 | JP Hutchins <jphutchins@gmail… | 3.1 MB | A C-backed, inheritable Struct base class for Python — fast import, fast type c… |
+| 2026-09-27 20:55:31 | [avelto](https://pypi.org/project/avelto/) | 0.1.0 | Avelto | 44.5 kB | Python SDK for Avelto, the email API for developers who want it to just work |
+| 2026-09-27 20:57:46 | [capo-marketplace-catalog](https://pypi.org/project/capo-marketplace-catalog/) | 0.1.0 |  | 365.6 kB | Python SDK for Marketplace Catalog. |
+| 2026-09-27 20:57:54 | [agent-skills-pss](https://pypi.org/project/agent-skills-pss/) | 0.1.0 | Matthew Ballance | 521.7 kB | Agent skills for writing and reviewing PSS (Portable Test and Stimulus) models |
+| 2026-09-27 20:58:00 | [beets-bandcamp-sync](https://pypi.org/project/beets-bandcamp-sync/) | 0.1.1 | Fred Phillips | 15.5 kB | Synchronize Bandcamp album purchases into beets |
+| 2026-09-27 20:58:17 | [capo-marketplace-commerce-analytics](https://pypi.org/project/capo-marketplace-commerce-analytics/) | 0.1.0 |  | 116.8 kB | Python SDK for Marketplace Commerce Analytics. |
+| 2026-09-27 20:58:34 | [cowboy-actor-sdk](https://pypi.org/project/cowboy-actor-sdk/) | 0.1.2 | Cowboy Labs | 348.1 kB | SDK for developing Cowboy Actors |
+| 2026-09-27 20:58:48 | [capo-marketplace-deployment](https://pypi.org/project/capo-marketplace-deployment/) | 0.1.0 |  | 126.5 kB | Python SDK for Marketplace Deployment. |
+| 2026-09-27 21:00:44 | [capo-marketplace-discovery](https://pypi.org/project/capo-marketplace-discovery/) | 0.1.0 |  | 303.3 kB | Python SDK for Marketplace Discovery. |
+| 2026-09-27 21:01:19 | [capo-marketplace-entitlement-service](https://pypi.org/project/capo-marketplace-entitlement-service/) | 0.1.0 |  | 111.4 kB | Python SDK for Marketplace Entitlement Service. |
+| 2026-09-27 21:01:54 | [curious-astronaut](https://pypi.org/project/curious-astronaut/) | 8.3.0 | Charles Patrick James <charle… | 3.8 MB | Curious Astronaut — an interactive citation/similarity graph explorer with an A… |
+| 2026-09-27 21:01:56 | [capo-marketplace-metering](https://pypi.org/project/capo-marketplace-metering/) | 0.1.0 |  | 167.5 kB | Python SDK for Marketplace Metering. |
+| 2026-09-27 21:02:41 | [capo-marketplace-reporting](https://pypi.org/project/capo-marketplace-reporting/) | 0.1.0 |  | 97.4 kB | Python SDK for Marketplace Reporting. |
+| 2026-09-27 21:02:43 | [halwest](https://pypi.org/project/halwest/) | 0.1.0 |  | 2.3 kB |  |
+| 2026-09-27 21:03:52 | [capo-mediaconnect](https://pypi.org/project/capo-mediaconnect/) | 0.1.0 |  | 838.5 kB | Python SDK for Mediaconnect. |
+| 2026-09-27 21:04:36 | [capo-mediaconvert](https://pypi.org/project/capo-mediaconvert/) | 0.1.0 |  | 1.4 MB | Python SDK for Mediaconvert. |
+| 2026-09-27 21:06:02 | [capo-medialive](https://pypi.org/project/capo-medialive/) | 0.1.0 |  | 1.6 MB | Python SDK for Medialive. |
+| 2026-09-27 21:06:38 | [capo-mediapackage](https://pypi.org/project/capo-mediapackage/) | 0.1.0 |  | 248.7 kB | Python SDK for Mediapackage. |
+| 2026-09-27 21:07:54 | [capo-mediapackage-vod](https://pypi.org/project/capo-mediapackage-vod/) | 0.1.0 |  | 215.5 kB | Python SDK for Mediapackage Vod. |
+| 2026-09-27 21:08:04 | [releasetrain-inventory](https://pypi.org/project/releasetrain-inventory/) | 0.1.0 | SE4CPS | 38.2 kB | Cross-platform scanner for installed software (not OS/library packages) and the… |
+| 2026-09-27 21:08:34 | [capo-mediapackagev2](https://pypi.org/project/capo-mediapackagev2/) | 0.1.0 |  | 376.8 kB | Python SDK for Mediapackagev2. |
+| 2026-09-27 21:09:16 | [capo-mediastore](https://pypi.org/project/capo-mediastore/) | 0.1.0 |  | 214.1 kB | Python SDK for Mediastore. |
+| 2026-09-27 21:09:51 | [capo-mediastore-data](https://pypi.org/project/capo-mediastore-data/) | 0.1.0 |  | 134.3 kB | Python SDK for Mediastore Data. |
+| 2026-09-27 21:10:28 | [capo-mediatailor](https://pypi.org/project/capo-mediatailor/) | 0.1.0 |  | 499.6 kB | Python SDK for Mediatailor. |
+| 2026-09-27 21:11:03 | [capo-medical-imaging](https://pypi.org/project/capo-medical-imaging/) | 0.1.0 |  | 259.1 kB | Python SDK for Medical Imaging. |
+| 2026-09-27 21:11:04 | [reverie-memory](https://pypi.org/project/reverie-memory/) | 0.1.0a1 | Reverie contributors | 207.4 kB | Precise precedent retrieval for AI agents, with a human in the loop. |
+| 2026-09-27 21:11:24 | [zelinqa-mcp](https://pypi.org/project/zelinqa-mcp/) | 1.0.0 | Zelinqa <support@zelinqa.ai> | 58.6 kB | Official MCP server for the Zelinqa API |
+| 2026-09-27 21:12:09 | [paperless-epub-parser](https://pypi.org/project/paperless-epub-parser/) | 1.1.0 | David Newman <david.r.newman@… | 45.4 kB | EPUB parser plugin for Paperless-ngx — text extraction for full-text search. |
+| 2026-09-27 21:12:29 | [openglcontext-checks](https://pypi.org/project/openglcontext-checks/) | 0.1.0a2 | "Mike C. Fletcher" <mcfletch@… | 178.2 kB | Static checks for the defect classes the OpenGLContext stack's reviews keep fin… |
+| 2026-09-27 21:13:46 | [histor](https://pypi.org/project/histor/) | 0.0.1 | Histor Labs | 2.3 kB | Histor: verifiable evidence for EU AI Act regulatory sandboxes. Placeholder rel… |
+| 2026-09-27 21:17:21 | [egyptian-national-id-ocr](https://pypi.org/project/egyptian-national-id-ocr/) | 0.3.0 | Hassan Salama | 4.4 MB | Fast, local, open-source Egyptian National ID OCR extraction pipeline |
