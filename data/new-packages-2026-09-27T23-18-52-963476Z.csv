@@ -1,0 +1,17 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T22:20:41Z,containers-py,0.1.1,Viswa Marepalli,MIT OR Apache-2.0,51120,Cloudflare Containers for Python Workers
+2026-09-27T22:21:47Z,crivo,0.1.0,,MIT,1003252,"Search Pixabay for a list of keywords, pick one image for each, and get them back resized in a zip."
+2026-09-27T22:23:47Z,docs-site,0.1.1,Lucas Rollin Ferreira <lucasrollinferreira@gmail.com>,MIT,37981,"Turn a folder of dumped HTML + PDF files into a browsable, searchable local documentation site."
+2026-09-27T22:29:56Z,loosely-swahili,0.1.0,Loosely Swahili NLP Contributors,Apache-2.0,30191,"The premier NLP toolkit and morphological engine for East African Kenyan Code-Switching, Sheng, and Kiswahili."
+2026-09-27T22:31:39Z,dfshrink,0.1.0,Tomas Perez Alvarez,MIT,58414,Turn a failing Polars DataFrame into a minimal reproducible example
+2026-09-27T22:39:07Z,telegram-desktop-mcp,0.1.0,,,8352,A Telegram MCP server to control Telegram and read PDFs
+2026-09-27T22:40:41Z,bloops,0.1.4,Bubu-Droid <bubu@bubudroid.me>,MIT,138034,"An AoPS-like BBCode to HTML transpiler, with live-preview and support for Asymptote geometry diagrams."
+2026-09-27T22:42:33Z,seventhings-customer-api,1.4.0,seventhings GmbH,MIT,133538,Python client for the seventhings Customer API
+2026-09-27T22:43:12Z,ipyrowtable,0.1.1,jborlik@gmail.com,MIT,151482,"Editable ipywidgets tables of elements in series, with live computed columns, unit toggles and plots."
+2026-09-27T22:43:17Z,sefkhet,0.1a0,Danny Collinson <danny@dannycollinson.com>,,153657,Sefkhet - simple setup for complex logging in Python.
+2026-09-27T22:53:23Z,locdex,1.3.1,"Emmanuel Amoo <amooemma10@gmail.com>, Gideon Amoo <amooademola55@gmail.com>",MIT,109485,"A local-first AI coding agent with direct workspace editing, hardware-aware local inference, guarded Git tools, and optional cloud fallback."
+2026-09-27T22:57:36Z,langchain-halu,0.1.0,Komplex AI <support@komplexai.io>,Apache-2.0,30684,Thin LangChain integration for Komplex AI — a hallucination detector for LLM output (adapts the halu SDK to LCEL).
+2026-09-27T22:58:43Z,evalrouter,0.3.0,,LicenseRef-Kimpton-EvalRouter-SDK,259936,Typed Kimpton evaluation client and command-line interface
+2026-09-27T23:04:47Z,billi,0.1.0,adbac,,1877,Add your description here
+2026-09-27T23:11:41Z,foreman-core,0.4.0,Foreman contributors,MIT,208006,A semantic supervisory loop for coding agents
+2026-09-27T23:18:16Z,shobr,0.1.0,,MIT,9556677,SHOBR: Simulate Human Occupational-Bureaucratic Rituals. A personal job search automator.
