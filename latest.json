@@ -1,19 +1,31 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-09-28T20:20:01.607146Z",
-    "path": "data/new-packages-2026-09-28T21-19-58-003221Z.csv",
-    "to": "2026-09-28T21:19:58.003221Z"
+    "count": 34,
+    "from": "2026-09-28T21:19:58.003221Z",
+    "path": "data/new-packages-2026-09-28T22-21-43-333062Z.csv",
+    "to": "2026-09-28T22:21:43.333062Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-28T18:43:24Z",
       "package": "monanmodel",
       "since": "2026-09-28T18:19:53.934684Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-28T21:28:17Z",
+      "package": "pydantic-clai2",
+      "since": "2026-09-28T21:19:58.003221Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-28T21:59:15Z",
+      "package": "spindle-rt",
+      "since": "2026-09-28T21:19:58.003221Z"
     }
   ],
-  "serial": 41570338,
+  "serial": 41572203,
   "source_truncated": false,
-  "window": "2026-09-28T21:19:58.003221Z"
+  "window": "2026-09-28T22:21:43.333062Z"
 }

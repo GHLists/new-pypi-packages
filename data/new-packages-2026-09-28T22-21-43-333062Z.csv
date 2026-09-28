@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T21:23:51Z,u2-flutter,0.1.0,Muhammad Assad Ullah,,30466,Flutter driver plugin for uiautomator2 - find and interact with Flutter widgets
+2026-09-28T21:24:12Z,quantum-reasoning-skill,1.0.0,Furox-Art,MIT,36160,Quantum-inspired reasoning skill for exploring multiple solution paths
+2026-09-28T21:24:21Z,poincar3,1.0.0,David Nordström,"MIT License Copyright (c) 2026 David Nordström Permission is hereby granted, free of charge, to any…",317568,Emergent Multi-View Geometry Through Self-Distillation.
+2026-09-28T21:25:11Z,receipt-splitter,0.4.1,,MIT,244192,A Python CLI app for splitting receipts between people.
+2026-09-28T21:25:38Z,django-css-modules,0.0.1,Ben Gosney <bengosney@googlemail.com>,GPL-3.0-or-later,23584857,"CSS Modules for Django templates, powered by Lightning CSS"
+2026-09-28T21:26:14Z,heptokens,0.1.0,"Samuel Klein, Jeffrey Krupa, Michael Kagan",,169736,
+2026-09-28T21:32:12Z,jevaas,0.3.2,Vertikon,MIT,25341,"SDK Python oficial do JEVaaS (jevaas.com.br) — decisão tipada com contrato versionado, rota por confiança e recibo auditável"
+2026-09-28T21:33:09Z,burn-o-meter,0.6.5,,MIT,2567691,"An honest meter for AI coding-agent usage, cost and quota. Local-first."
+2026-09-28T21:34:24Z,party-continuum,0.1.0,,,166762,"Static change impact of a checkout: what depends on a symbol, how far a change reaches, which tests to run"
+2026-09-28T21:35:05Z,crabot,0.1.0,,MIT,343702,Учимся программировать с крабиком: уровни с проверкой на вариантах и редактор уровней
+2026-09-28T21:35:59Z,core-sg,0.0.2,Midas Core-SG Team <gmcorlando@estudante.ufscar.br>,BSD-3-Clause,8091882,Core-SG graph construction and MST extraction utilities for HDBSCAN-style clustering.
+2026-09-28T21:37:00Z,hassette-wire,0.55.0,Jessica,MIT,4719,Wire contract for the Hassette HTTP and WebSocket API: request/response models and wire enums.
+2026-09-28T21:37:23Z,hassette-client,0.55.0,Jessica,MIT,4769,Async client for the Hassette HTTP and WebSocket API.
+2026-09-28T21:39:50Z,groundedrag,0.1.0,Jefferson Wagner,Apache-2.0,426600,A hard documentary gate and citation verifier for RAG pipelines — stops the LLM from answering without evidence.
+2026-09-28T21:40:53Z,wsidrift,0.1.0,Abhishek Thakur <a.thakur5690@gmail.com>,MIT,39373,Label-free validity monitor for computational pathology pipelines
+2026-09-28T21:42:22Z,fintables,0.1.1,Sinan Erdinç,MIT,188040,Fintables mobile API client and CLI tool
+2026-09-28T21:46:13Z,private-data-vault,0.1.0,,Apache-2.0,7968606,Sealed storage for private documents and the values redacted out of them.
+2026-09-28T21:47:14Z,proof-of-done,0.1.1,Andrii Boiko,Apache-2.0,542855,Claude Code plugin and CLI that check a coding agent's completion claims against its own transcript.
+2026-09-28T21:54:34Z,isb-sdk,0.2.0,Stephan Fitzpatrick <stephan@orangecountyai.com>,MIT,3315559,Python SDK for isb: declarative incus sandboxes (containers and VMs)
+2026-09-28T21:55:46Z,xnatbidscli,2.0.0,Eric Earl <eric.earl@nih.gov>,MIT,243498,"CLI for logging into XNAT, downloading neuroimaging experiments, and converting them to BIDS."
+2026-09-28T21:56:54Z,proofstate,4.15.6rc2,ProofState,MIT,1100350,"ProofState Python SDK for LLM observability, evaluation, and prompt management"
+2026-09-28T21:57:58Z,branchrift,0.2.0,Kaan081,MIT,91752,"BranchRift: read-only Git CLI for branch divergence, same-path collisions, ownership gaps, and Git LFS readiness"
+2026-09-28T21:58:04Z,uvd-em-sdk,0.0.1,Ultravioleta DAO <dev@ultravioletadao.xyz>,"MIT License Copyright (c) 2025 Ultravioleta DAO Permission is hereby granted, free of charge, to an…",5024,"Execution Market SDK for Python, by Ultravioleta DAO. Name reserved: the first release is on its way."
+2026-09-28T21:58:06Z,uvd,0.0.1,Ultravioleta DAO <dev@ultravioletadao.xyz>,"MIT License Copyright (c) 2025 Ultravioleta DAO Permission is hereby granted, free of charge, to an…",4994,"uvd: the command line for the Ultravioleta DAO stack (Emporium, x402, Execution Market). Name reserved: the first release is on its way."
+2026-09-28T21:59:02Z,carole.ai,0.1.1,Carole.ai,,22528216,A local AI agent workspace with a FastAPI backend and integrated web UI
+2026-09-28T22:00:06Z,memorium-cli,1.0.0,Rayane Hassani,MIT,301235,"Your reasoning, kept. A forensic journal of every Claude Code session."
+2026-09-28T22:02:24Z,shortlist-ai,0.1.1,,MIT,329632,"Evidence-backed, blind resume shortlisting with LLMs - with the evals and bias tests to check it."
+2026-09-28T22:04:26Z,PaintByChar,0.7.0,James Derrick,"MIT License Copyright (c) 2025 James Derrick Permission is hereby granted, free of charge, to any p…",16387,Convert grid strings to colored images with per-character coloring.
+2026-09-28T22:04:54Z,burrow-ssh,0.2.3,,,7508722,Burrow SSH workspace manager
+2026-09-28T22:06:54Z,epsiloneridani-review,0.1.0,,Apache-2.0,292765,Run the Tau Ceti AI code review on a PR using your own Claude/Codex/Kiro subscription.
+2026-09-28T22:12:45Z,soma-schema,0.2.1,Sierra Moxon <smoxon@lbl.gov>,MIT,79182,This is the project description.
+2026-09-28T22:13:05Z,backuplint,1.0.0,BackupLint contributors,"MIT License Copyright (c) 2026 BackupLint contributors Permission is hereby granted, free of charge…",458297,Check whether Docker Compose persistent data is covered by backup configuration
+2026-09-28T22:15:04Z,django-eadmin,0.1.0,EAdmin contributors,LicenseRef-Proprietary,83465,"A reusable Tailwind, HTMX, Alpine.js, and DaisyUI Django administration app."
+2026-09-28T22:16:28Z,modelrelay,0.2.0,naruminho,MIT,141434,"One small API to call LLMs anywhere: OpenAI-compatible APIs or job-queue gateways, with pluggable auth."
