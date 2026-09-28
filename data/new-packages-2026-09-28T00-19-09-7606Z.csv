@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-09-27T23:19:30Z,offenders,0.1.0,,MIT,202940,A Fail2Ban log and jail dashboard for the terminal
+2026-09-27T23:26:38Z,archolith-graphiti-core,0.30.2.post1,"Paul Paliychuk <paul@getzep.com>, Preston Rasmussen <preston@getzep.com>, Daniel Chalef <daniel@get…",Apache-2.0,7527663,A temporal graph building library
+2026-09-27T23:29:27Z,aqx-zatca-tax-calc,1.0.0,AQX Logistics Engineering,,1755,AQX Logistics ZATCA E-Invoicing and 15% Customs VAT Computation Library.
+2026-09-27T23:36:16Z,cuzipnn,0.1.0,Rui He,Unlicense,28795,"GPU implementation of ZipNN lossless tensor compression, using Triton and nvCOMP"
+2026-09-27T23:41:47Z,yugnth,0.0.1,YugNth <contact@yugnth.com>,Apache-2.0,2774,Official Python client for YugNth payment orchestration platform
+2026-09-27T23:44:52Z,chapter,1.0.3,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,16171,
+2026-09-27T23:47:41Z,yugnth-sdk,0.0.1,YugNth <contact@yugnth.com>,Apache-2.0,2809,Official Python client for YugNth payment orchestration platform
+2026-09-27T23:49:23Z,gutfeel,0.2.0,Eren Kahraman,Apache-2.0,140998,"Judgment calls as one line of Python, on small, fast, cheap models. likely / classify / rate, answering YES, NO or UNSURE, on any backend."
+2026-09-27T23:52:10Z,zebra-open,0.1.0,Ishanu Chattopadhyay,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",73673,Research-grade reference implementation of a ZeBRA-style retrospective risk modeling framework.
+2026-09-27T23:52:46Z,tocparser,0.1.0,Jean-Marc Fontaine,Apache-2.0,121991,"Parse, validate, and write cdrdao CD TOC files"
+2026-09-27T23:56:00Z,white-paper-scanner,1.1.0,Anouar Manaa <anouarmanaa19@gmail.com>,,8764,A utility to automatically crop and flatten photos of documents into highly detailed scanned images.
+2026-09-27T23:58:08Z,wikidata-google-knowledge-mcp,0.2.0,DondeGo.com team,MIT,395796,"MCP server and CLI for bounded Wikidata search, optional Google Knowledge Graph cross-checks and deterministic entity resolution for AI agents."
+2026-09-28T00:02:02Z,lethe-notary,0.2.0,,,133302,"A paid countersigning witness for Lethe deletion certificates, billed over x402."
+2026-09-28T00:03:48Z,rimelabs-sdk,0.1.0a1,,MIT,83301,Async Rime text-to-speech SDK
+2026-09-28T00:04:15Z,wakebox,0.1.1,,MIT,3658684,On-device wake word. No key.
+2026-09-28T00:09:55Z,a2a-conduct-walk,1.4.1,The HORIZ音s株式会社,Apache-2.0,64345,"Witness walk for the A2A Conduct Extension v1: walk an agent from your own machine, file the observation under your name, get a sha256 that anyone can recompute. Standard library only. Also an MCP se…"
+2026-09-28T00:10:28Z,weft-server,0.1.0,grepjava <grepjava@gmail.com>,MIT,98520088,"Weft is an ASGI and WSGI server for FastAPI, Flask and the rest. It is written in Rust on Tokio and runs inside the Python thread that runs your application."
+2026-09-28T00:12:12Z,tamarutaca,26.9.1,Leandro Seixas Rocha <leandro.rocha@ilum.cnpem.br>,"MIT License Copyright (c) 2026 Leandro Seixas Rocha Permission is hereby granted, free of charge, t…",238244,Equivariant graph neural network interatomic potentials
+2026-09-28T00:17:11Z,countess-variant-caller,0.1.0,Nick Moore <nick@zoic.org>,,16574,An efficient HGVS variant caller
+2026-09-28T00:17:14Z,localizer-py,0.5.0,Snizyx Software LLC,NCSA,108018,"Render your Typer, Click or argparse CLI in the user's language with Localizer catalogs."
