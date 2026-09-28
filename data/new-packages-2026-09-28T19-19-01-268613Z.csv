@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T18:19:45Z,airprompter-agent-telemetry,0.3.0,AirPrompter,BSD-3-Clause,58665,"The content-free telemetry spool and its uploader for AirPrompter agents: minute windows as append-only segments (or in memory on serverless), the host budget, and direct-to-object-store upload under…"
+2026-09-28T18:20:29Z,sawsim,2.0.2,Shaoqing Duan,AGPL-3.0-or-later,222110,"SawSim: piezoelectric coupled finite-element solver for SAW resonator unit cells (Q9 / Hex27, PML, Bloch periodicity)"
+2026-09-28T18:21:07Z,airprompter-datastore-postgres,0.3.0,AirPrompter,BSD-3-Clause,10017,"The AirPrompter release datastore over one PostgreSQL table: a KvStore with INSERT … ON CONFLICT and versioned UPDATEs, for kv_release_datastore. Bring your own driver (psycopg 3, psycopg2, a psycopg…"
+2026-09-28T18:21:17Z,cwevals,0.0.1b1,Core Weave Evaluations <support@wandb.ai>,Apache-2.0,435107,The official Python library for the CoreWeave Evaluations API
+2026-09-28T18:21:56Z,xtr-http-kernel,1.4.0,Razvan Ceana,MIT,81574,Requests turned into responses through events: a request lifecycle for FastAPI applications on the xtr kernel.
+2026-09-28T18:22:20Z,airprompter-datastore-redis,0.3.0,AirPrompter,BSD-3-Clause,8775,"The AirPrompter release datastore over Redis or Valkey: a KvStore with atomic Lua conditional writes and a sorted-set index, for kv_release_datastore. Bring your own client (redis-py)."
+2026-09-28T18:23:55Z,airprompter-datastore-s3,0.3.0,AirPrompter,BSD-3-Clause,8776,"The AirPrompter release datastore over an S3 bucket: a KvStore with S3's own conditional writes (IfNoneMatch, IfMatch), for kv_release_datastore — the puller writes sealed releases, every runtime hyd…"
+2026-09-28T18:27:55Z,datafusion-functions-json-ffi,0.54.2,,Apache-2.0,73672833,"JSON SQL functions (json_get_str, json_contains, ...) for DataFusion's Python package"
+2026-09-28T18:28:41Z,azure-data-ai,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3074,This package will be released in the near future. Stay tuned!
+2026-09-28T18:30:10Z,aesn,0.1.0,,,54729,Enterprise AIOps and State Machine Engine
+2026-09-28T18:31:57Z,nita-transfert-sdk,0.1.0b1,NITA Transfert,LicenseRef-Proprietary,204355,"SDK Python officiel des APIs partenaires NITA (v2) : authentification, signature HMAC et clients types pour P2CASH, P2W, P2P et Achat en ligne."
+2026-09-28T18:32:27Z,pygeocover,0.1.0,3615nulsi,MIT,36079,Client asynchrone non officiel pour l'API Decathlon Geocover (Conneqtech)
+2026-09-28T18:34:02Z,cloudkill,0.8.0,smart-jemy,MIT,289378,Advanced origin IP discovery tool for Cloudflare-protected domains
+2026-09-28T18:34:09Z,gitnc,0.1.2,,,288722,GitNightCommander — a TUI git log browser built with Textual
+2026-09-28T18:35:19Z,openbb-jodi,2.0.0,OpenBB Team <hello@openbb.co>,Apache-2.0,339169,Joint Organisations Data Initiative (JODI) data integration for OpenBB Platform.
+2026-09-28T18:36:30Z,bev-decider,0.2.0,Avishek Biswas,Apache-2.0,55151,"bev-decider: a 0.4B System One decision model with typed, calibrated, choice-order-invariant answers"
+2026-09-28T18:40:53Z,pynamo-egt,0.3.2,"Slimane Dridi, Benjamin Giraudon","MIT License Copyright (c) 2026 pyNamo contributors Permission is hereby granted, free of charge, to…",127073,pyNamo-EGT: plotting and analysis tools for replicator dynamics in evolutionary games.
+2026-09-28T18:44:48Z,voxpolymachina,0.5.3,frozenwork-hash <rostkomwork@gmail.com>,MIT,10299269,Bidirectional codec: text <-> bits <-> base N <-> audio (MFSK over WAV)
+2026-09-28T18:46:29Z,VPlusScript,1.0.0,wawa2016-here <lemver2016@gmail.com>,,6174,A custom script engine and coding language built on Python
+2026-09-28T18:46:32Z,zeed,1.2.2,Maxim Zhovner <zovnercukmaksim197@gmail.com>,MIT,57257,"Fast, dependency-light Telegram Bot API framework built on urllib3"
+2026-09-28T18:47:27Z,degenscan-intel,0.1.0,Marbella Collins LLC <contact@degenscan.io>,MIT,16481,"Cross-asset market-event intelligence for AI trading agents (SEC, Fed, regulators, disasters, halts, hacks, Polymarket, Hyperliquid perps). Pays per call in USDC via x402 or uses an API key."
+2026-09-28T18:48:19Z,langchain-degenscan,0.1.0,Marbella Collins LLC <contact@degenscan.io>,MIT,10091,"LangChain tools for Degenscan Intel — cross-asset market-event intelligence for trading agents (SEC, Fed, regulators, disasters, halts, hacks, Polymarket, Hyperliquid perps), paid per call in USDC (x…"
+2026-09-28T18:50:28Z,cptec-monan,0.1.0,Framework,MIT,13787,Módulo para distribuição de Modelos Numéricos.
+2026-09-28T18:51:09Z,semdrift,1.0.0,Aadhithya T,MIT,59442,Detect semantic drift between source code and documentation in Python repositories.
+2026-09-28T18:51:41Z,rangoli-codec,0.1.0,Your Name <you@example.com>,MIT,11731,A 4-fold kaleidoscope Rangoli geometric encoder and computer-vision decoder
+2026-09-28T18:53:36Z,django-ambit,0.1.0,Mohamed,MIT,50182,"Scoped, multi-dimensional authorization for Django — permissions across the dimensions your organisation actually has."
+2026-09-28T18:57:13Z,mlflow-triton-control,0.2.0,,,22596,MLflow deployment target for Triton Control
+2026-09-28T18:57:34Z,autotool-mcp,0.1.0,Varad Ganjoo <varadganjoo@gmail.com>,MIT,137073,"A self-extending tool layer for any AI agent: your agent writes the tools it needs; AutoTool verifies, guards and mounts them, and gives them API keys by name only."
+2026-09-28T18:59:40Z,whaxon,0.3.0,Andrei <andreipath@gmail.com>,AGPL-3.0-or-later,309418,"WHAXON — modular, portable cybersecurity testing platform"
+2026-09-28T19:02:25Z,biocontext-mcp,0.5.0,Engki Nandatama,Apache-2.0,135416,Authoritative Biological Entity Resolution & Contextual Intelligence Framework
+2026-09-28T19:05:28Z,arkitekt-runtime,1.0.1,jhnnsrs <jhnnsrs@gmail.com>,MIT,234574,"the execution core of an Arkitekt app: agent, actors, tasks, journal, state and structure serialization, shared by every runtime"
+2026-09-28T19:08:15Z,turnsafe,0.1.0,Yasir Khan,MIT,76791,"Validate, repair and trim LLM chat history without orphaning tool calls. Fixes 'tool_use ids were found without tool_result blocks' and 'messages with role tool must be a response to a preceeding mes…"
+2026-09-28T19:12:23Z,langchain-aotrust,0.1.0,A&O Trust Layer,MIT,14344,"LangChain tools for AOTrust notarization — cryptographic proof-of-existence for AI agent outputs (x402, NEAR-anchored PDRs)"
+2026-09-28T19:14:08Z,aqx-salla-crossborder,1.0.0,AQX Logistics Engineering,,1782,AQX Logistics Saudi Salla & Zid Merchants Cross-Border US Fulfillment SDK.
+2026-09-28T19:14:14Z,aqx-ddp-landed-cost,1.0.0,AQX Logistics Engineering,,1876,AQX Logistics All-Inclusive DDP Landed Cost and Air Freight Pricing Algorithm.
+2026-09-28T19:14:42Z,colscan,0.2.0,dbtool.it,Apache-2.0,1747322,Say what is inside each column of a table — semantic type and GDPR nature — with deterministic rules only. Runs offline.
+2026-09-28T19:15:17Z,griip-core-dev,0.5.6.dev25546,VentionCo,Proprietary,79085,Dev build of griip-core from commit 0af7ee671 (PR #6192). Not a release.
+2026-09-28T19:15:48Z,django-ninja-problems,0.1.0,Jansem,MIT,15815,RFC 7807 and RFC 9457 Problem Details for Django Ninja APIs
+2026-09-28T19:18:12Z,mergendb-studio,0.6.9,Ugur Turker Kebeci <ugurturkerkebeci@users.noreply.github.com>,MIT,54854,Official phpMyAdmin-style Web Management Dashboard extension for MergenDB
