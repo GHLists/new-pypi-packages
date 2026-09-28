@@ -8,45 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 22:21 UTC
+## Latest list — 2026-09-28 23:20 UTC
 
-New packages created between 2026-09-28 21:19 UTC and 2026-09-28 22:21 UTC.
+New packages created between 2026-09-28 22:21 UTC and 2026-09-28 23:20 UTC.
 
-[Full CSV](data/new-packages-2026-09-28T22-21-43-333062Z.csv)
+[Full CSV](data/new-packages-2026-09-28T23-20-05-185299Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-28 21:23:51 | [u2-flutter](https://pypi.org/project/u2-flutter/) | 0.1.0 | Muhammad Assad Ullah | 30.5 kB | Flutter driver plugin for uiautomator2 - find and interact with Flutter widgets |
-| 2026-09-28 21:24:12 | [quantum-reasoning-skill](https://pypi.org/project/quantum-reasoning-skill/) | 1.0.0 | Furox-Art | 36.2 kB | Quantum-inspired reasoning skill for exploring multiple solution paths |
-| 2026-09-28 21:24:21 | [poincar3](https://pypi.org/project/poincar3/) | 1.0.0 | David Nordström | 317.6 kB | Emergent Multi-View Geometry Through Self-Distillation. |
-| 2026-09-28 21:25:11 | [receipt-splitter](https://pypi.org/project/receipt-splitter/) | 0.4.1 |  | 244.2 kB | A Python CLI app for splitting receipts between people. |
-| 2026-09-28 21:25:38 | [django-css-modules](https://pypi.org/project/django-css-modules/) | 0.0.1 | Ben Gosney <bengosney@googlem… | 23.6 MB | CSS Modules for Django templates, powered by Lightning CSS |
-| 2026-09-28 21:26:14 | [heptokens](https://pypi.org/project/heptokens/) | 0.1.0 | Samuel Klein, Jeffrey Krupa,… | 169.7 kB |  |
-| 2026-09-28 21:32:12 | [jevaas](https://pypi.org/project/jevaas/) | 0.3.2 | Vertikon | 25.3 kB | SDK Python oficial do JEVaaS (jevaas.com.br) — decisão tipada com contrato vers… |
-| 2026-09-28 21:33:09 | [burn-o-meter](https://pypi.org/project/burn-o-meter/) | 0.6.5 |  | 2.6 MB | An honest meter for AI coding-agent usage, cost and quota. Local-first. |
-| 2026-09-28 21:34:24 | [party-continuum](https://pypi.org/project/party-continuum/) | 0.1.0 |  | 166.8 kB | Static change impact of a checkout: what depends on a symbol, how far a change… |
-| 2026-09-28 21:35:05 | [crabot](https://pypi.org/project/crabot/) | 0.1.0 |  | 343.7 kB | Учимся программировать с крабиком: уровни с проверкой на вариантах и редактор у… |
-| 2026-09-28 21:35:59 | [core-sg](https://pypi.org/project/core-sg/) | 0.0.2 | Midas Core-SG Team <gmcorland… | 8.1 MB | Core-SG graph construction and MST extraction utilities for HDBSCAN-style clust… |
-| 2026-09-28 21:37:00 | [hassette-wire](https://pypi.org/project/hassette-wire/) | 0.55.0 | Jessica | 4.7 kB | Wire contract for the Hassette HTTP and WebSocket API: request/response models… |
-| 2026-09-28 21:37:23 | [hassette-client](https://pypi.org/project/hassette-client/) | 0.55.0 | Jessica | 4.8 kB | Async client for the Hassette HTTP and WebSocket API. |
-| 2026-09-28 21:39:50 | [groundedrag](https://pypi.org/project/groundedrag/) | 0.1.0 | Jefferson Wagner | 426.6 kB | A hard documentary gate and citation verifier for RAG pipelines — stops the LLM… |
-| 2026-09-28 21:40:53 | [wsidrift](https://pypi.org/project/wsidrift/) | 0.1.0 | Abhishek Thakur <a.thakur5690… | 39.4 kB | Label-free validity monitor for computational pathology pipelines |
-| 2026-09-28 21:42:22 | [fintables](https://pypi.org/project/fintables/) | 0.1.1 | Sinan Erdinç | 188.0 kB | Fintables mobile API client and CLI tool |
-| 2026-09-28 21:46:13 | [private-data-vault](https://pypi.org/project/private-data-vault/) | 0.1.0 |  | 8.0 MB | Sealed storage for private documents and the values redacted out of them. |
-| 2026-09-28 21:47:14 | [proof-of-done](https://pypi.org/project/proof-of-done/) | 0.1.1 | Andrii Boiko | 542.9 kB | Claude Code plugin and CLI that check a coding agent's completion claims agains… |
-| 2026-09-28 21:54:34 | [isb-sdk](https://pypi.org/project/isb-sdk/) | 0.2.0 | Stephan Fitzpatrick <stephan@… | 3.3 MB | Python SDK for isb: declarative incus sandboxes (containers and VMs) |
-| 2026-09-28 21:55:46 | [xnatbidscli](https://pypi.org/project/xnatbidscli/) | 2.0.0 | Eric Earl <eric.earl@nih.gov> | 243.5 kB | CLI for logging into XNAT, downloading neuroimaging experiments, and converting… |
-| 2026-09-28 21:56:54 | [proofstate](https://pypi.org/project/proofstate/) | 4.15.6rc2 | ProofState | 1.1 MB | ProofState Python SDK for LLM observability, evaluation, and prompt management |
-| 2026-09-28 21:57:58 | [branchrift](https://pypi.org/project/branchrift/) | 0.2.0 | Kaan081 | 91.8 kB | BranchRift: read-only Git CLI for branch divergence, same-path collisions, owne… |
-| 2026-09-28 21:58:04 | [uvd-em-sdk](https://pypi.org/project/uvd-em-sdk/) | 0.0.1 | Ultravioleta DAO <dev@ultravi… | 5.0 kB | Execution Market SDK for Python, by Ultravioleta DAO. Name reserved: the first… |
-| 2026-09-28 21:58:06 | [uvd](https://pypi.org/project/uvd/) | 0.0.1 | Ultravioleta DAO <dev@ultravi… | 5.0 kB | uvd: the command line for the Ultravioleta DAO stack (Emporium, x402, Execution… |
-| 2026-09-28 21:59:02 | [carole.ai](https://pypi.org/project/carole.ai/) | 0.1.1 | Carole.ai | 22.5 MB | A local AI agent workspace with a FastAPI backend and integrated web UI |
-| 2026-09-28 22:00:06 | [memorium-cli](https://pypi.org/project/memorium-cli/) | 1.0.0 | Rayane Hassani | 301.2 kB | Your reasoning, kept. A forensic journal of every Claude Code session. |
-| 2026-09-28 22:02:24 | [shortlist-ai](https://pypi.org/project/shortlist-ai/) | 0.1.1 |  | 329.6 kB | Evidence-backed, blind resume shortlisting with LLMs - with the evals and bias… |
-| 2026-09-28 22:04:26 | [PaintByChar](https://pypi.org/project/PaintByChar/) | 0.7.0 | James Derrick | 16.4 kB | Convert grid strings to colored images with per-character coloring. |
-| 2026-09-28 22:04:54 | [burrow-ssh](https://pypi.org/project/burrow-ssh/) | 0.2.3 |  | 7.5 MB | Burrow SSH workspace manager |
-| 2026-09-28 22:06:54 | [epsiloneridani-review](https://pypi.org/project/epsiloneridani-review/) | 0.1.0 |  | 292.8 kB | Run the Tau Ceti AI code review on a PR using your own Claude/Codex/Kiro subscr… |
-| 2026-09-28 22:12:45 | [soma-schema](https://pypi.org/project/soma-schema/) | 0.2.1 | Sierra Moxon <smoxon@lbl.gov> | 79.2 kB | This is the project description. |
-| 2026-09-28 22:13:05 | [backuplint](https://pypi.org/project/backuplint/) | 1.0.0 | BackupLint contributors | 458.3 kB | Check whether Docker Compose persistent data is covered by backup configuration |
-| 2026-09-28 22:15:04 | [django-eadmin](https://pypi.org/project/django-eadmin/) | 0.1.0 | EAdmin contributors | 83.5 kB | A reusable Tailwind, HTMX, Alpine.js, and DaisyUI Django administration app. |
-| 2026-09-28 22:16:28 | [modelrelay](https://pypi.org/project/modelrelay/) | 0.2.0 | naruminho | 141.4 kB | One small API to call LLMs anywhere: OpenAI-compatible APIs or job-queue gatewa… |
+| 2026-09-28 21:59:15 | [spindle-rt](https://pypi.org/project/spindle-rt/) | 0.1.0 | Collins Mwaura <cmwambui@prot… | 3.6 MB | Spindle tensor library |
+| 2026-09-28 22:30:27 | [jevzilla](https://pypi.org/project/jevzilla/) | 0.1.0 |  | 17.9 kB | A tiny, fearless client for the JEV evaluation API |
+| 2026-09-28 22:30:29 | [braveprefs](https://pypi.org/project/braveprefs/) | 0.1.0 | Younes Z. | 29.5 kB | Export, compare and restore browser profile settings as one small readable JSON… |
+| 2026-09-28 22:30:53 | [dwave-theme](https://pypi.org/project/dwave-theme/) | 0.1.0 | D-Wave <tools@dwavesys.com> | 29.3 kB | A centralized theme and configuration package for D-Wave projects. |
+| 2026-09-28 22:37:53 | [vaibot-hermes-circuitbreaker](https://pypi.org/project/vaibot-hermes-circuitbreaker/) | 0.2.0 | Campbell Labs LLC | 399.0 kB | VAIBot governance plugin for Hermes — intercepts tool calls, classifies risk, e… |
+| 2026-09-28 22:39:11 | [pyvel-fastapi](https://pypi.org/project/pyvel-fastapi/) | 0.1.0 | Al-Amin Islam Nerob | 31.5 kB | Laravel-shaped DX for Python API backends on FastAPI — Artisan-like CLI and run… |
+| 2026-09-28 22:40:09 | [geomd](https://pypi.org/project/geomd/) | 0.1.0 | Sergei | 22.4 kB | GeoMarkdown is a Markdown dialect for geodata. This package provides parsers an… |
+| 2026-09-28 22:40:30 | [tensorrt-edgellm](https://pypi.org/project/tensorrt-edgellm/) | 0.11.0 |  | 1942.9 MB | TensorRT Edge-LLM model build and inference package |
+| 2026-09-28 22:41:39 | [pytest-run-witness](https://pypi.org/project/pytest-run-witness/) | 0.1.0 |  | 59.4 kB | Fail closed when pytest stops before every collected test reaches a terminal ou… |
+| 2026-09-28 22:49:43 | [automatic-man](https://pypi.org/project/automatic-man/) | 0.0.1 | Machina Ratiocinatrix <machin… | 47.3 kB | Automatic-Man ... |
+| 2026-09-28 22:53:24 | [tomviz-kernels](https://pypi.org/project/tomviz-kernels/) | 3.2.0 | "Kitware, Inc." <kitware@kitw… | 286.2 kB | The operators / node kernels shared by the tomviz desktop and web applications. |
+| 2026-09-28 22:55:42 | [shotbox](https://pypi.org/project/shotbox/) | 0.3.0 | Misha Nasledov <misha@nasledo… | 79.3 kB | Reproducible screenshots of real programs in a sealed X11 or Wayland session, t… |
+| 2026-09-28 23:00:31 | [q-cli](https://pypi.org/project/q-cli/) | 0.0.0 |  | 1.1 kB | q-cli |
+| 2026-09-28 23:08:20 | [nocli](https://pypi.org/project/nocli/) | 1.0.0 | Fred Dufresne | 34.7 kB | Function signature driven CLI authoring library |
+| 2026-09-28 23:09:35 | [arrtest](https://pypi.org/project/arrtest/) | 0.1.1 | DynamicTool contributors | 3.8 kB | Dynamic analysis tools and wind-tunnel data for tracker systems |
+| 2026-09-28 23:11:36 | [telegram-archive](https://pypi.org/project/telegram-archive/) | 8.17.0 | Sergio Fernández <sergio@geis… | 3.8 MB | Automated Telegram backup with Docker. Performs incremental backups of messages… |
+| 2026-09-28 23:12:09 | [omiss-mcp](https://pypi.org/project/omiss-mcp/) | 0.1.0 | "Greg Beam, KI7MT" <ki7mt@yah… | 197.1 kB | MCP server for OMISS: net schedule, nets on the air, members, check-in history,… |
+| 2026-09-28 23:12:33 | [ocrmypdf-paddleocr-plus](https://pypi.org/project/ocrmypdf-paddleocr-plus/) | 0.2.0 | OCRmyPDF-PaddleOCR contributo… | 63.0 kB | PaddleOCR plugin for OCRmyPDF with batched inference and multilingual Devanagar… |
+| 2026-09-28 23:14:26 | [phion-client](https://pypi.org/project/phion-client/) | 1.52.9 | PHION Systems | 10.3 kB | Budget-safe x402 client for PHION agent services |
+| 2026-09-28 23:15:10 | [scadbatch](https://pypi.org/project/scadbatch/) | 2.0.0rc1 | "Cameron K. Brooks" <cambrook… | 115.3 kB | Batch export models from parametric OpenSCAD designs using CSV or Customizer JS… |
+| 2026-09-28 23:16:42 | [cooperating-machine](https://pypi.org/project/cooperating-machine/) | 0.0.1 | Machina Ratiocinatrix <machin… | 47.7 kB | Cooperating-Machine ... |
+| 2026-09-28 23:18:00 | [wyat](https://pypi.org/project/wyat/) | 0.0.1 |  | 10.3 kB | Add your description here |
+| 2026-09-28 23:19:08 | [mtgeodesicdome](https://pypi.org/project/mtgeodesicdome/) | 1.2.0 | Masahiro Takatsuka <masa@taka… | 126.2 kB | Geodesic domes (icosahedral spherical lattices) with fast neighbour search, fla… |

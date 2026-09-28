@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 34,
-    "from": "2026-09-28T21:19:58.003221Z",
-    "path": "data/new-packages-2026-09-28T22-21-43-333062Z.csv",
-    "to": "2026-09-28T22:21:43.333062Z"
+    "count": 23,
+    "from": "2026-09-28T22:21:43.333062Z",
+    "path": "data/new-packages-2026-09-28T23-20-05-185299Z.csv",
+    "to": "2026-09-28T23:20:05.185299Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-28T18:43:24Z",
-      "package": "monanmodel",
-      "since": "2026-09-28T18:19:53.934684Z"
+      "attempts": 1,
+      "created_at": "2026-09-28T22:38:25Z",
+      "package": "arr-dynamictool",
+      "since": "2026-09-28T22:21:43.333062Z"
     },
     {
       "attempts": 1,
+      "created_at": "2026-09-28T22:33:24Z",
+      "package": "dynamictool",
+      "since": "2026-09-28T22:21:43.333062Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-09-28T21:28:17Z",
       "package": "pydantic-clai2",
       "since": "2026-09-28T21:19:58.003221Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-09-28T21:59:15Z",
-      "package": "spindle-rt",
-      "since": "2026-09-28T21:19:58.003221Z"
     }
   ],
-  "serial": 41572203,
+  "serial": 41573488,
   "source_truncated": false,
-  "window": "2026-09-28T22:21:43.333062Z"
+  "window": "2026-09-28T23:20:05.185299Z"
 }

@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T21:59:15Z,spindle-rt,0.1.0,Collins Mwaura <cmwambui@proton.me>,GPL-2.0-only,3583724,Spindle tensor library
+2026-09-28T22:30:27Z,jevzilla,0.1.0,,,17901,"A tiny, fearless client for the JEV evaluation API"
+2026-09-28T22:30:29Z,braveprefs,0.1.0,Younes Z.,MIT,29535,"Export, compare and restore browser profile settings as one small readable JSON file."
+2026-09-28T22:30:53Z,dwave-theme,0.1.0,D-Wave <tools@dwavesys.com>,Apache-2.0,29268,A centralized theme and configuration package for D-Wave projects.
+2026-09-28T22:37:53Z,vaibot-hermes-circuitbreaker,0.2.0,Campbell Labs LLC,MIT,399030,"VAIBot governance plugin for Hermes — intercepts tool calls, classifies risk, enforces policy, and creates tamper-evident audit receipts with on-chain provenance anchoring."
+2026-09-28T22:39:11Z,pyvel-fastapi,0.1.0,Al-Amin Islam Nerob,MIT,31524,Laravel-shaped DX for Python API backends on FastAPI — Artisan-like CLI and runtime bases
+2026-09-28T22:40:09Z,geomd,0.1.0,Sergei,MIT,22411,GeoMarkdown is a Markdown dialect for geodata. This package provides parsers and renderers that convert between GeoMarkdown and GeoJSON
+2026-09-28T22:40:30Z,tensorrt-edgellm,0.11.0,,Apache-2.0,1942935715,TensorRT Edge-LLM model build and inference package
+2026-09-28T22:41:39Z,pytest-run-witness,0.1.0,,MIT,59386,Fail closed when pytest stops before every collected test reaches a terminal outcome.
+2026-09-28T22:49:43Z,automatic-man,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47293,Automatic-Man ...
+2026-09-28T22:53:24Z,tomviz-kernels,3.2.0,"""Kitware, Inc."" <kitware@kitware.com>",BSD-3-Clause,286184,The operators / node kernels shared by the tomviz desktop and web applications.
+2026-09-28T22:55:42Z,shotbox,0.3.0,Misha Nasledov <misha@nasledov.com>,MIT,79263,"Reproducible screenshots of real programs in a sealed X11 or Wayland session, taken once they're ready"
+2026-09-28T23:00:31Z,q-cli,0.0.0,,,1093,q-cli
+2026-09-28T23:08:20Z,nocli,1.0.0,Fred Dufresne,MPL-2.0,34746,Function signature driven CLI authoring library
+2026-09-28T23:09:35Z,arrtest,0.1.1,DynamicTool contributors,,3763,Dynamic analysis tools and wind-tunnel data for tracker systems
+2026-09-28T23:11:36Z,telegram-archive,8.17.0,Sergio Fernández <sergio@geiser.cloud>,GPL-3.0-or-later,3808833,Automated Telegram backup with Docker. Performs incremental backups of messages and media on a configurable schedule.
+2026-09-28T23:12:09Z,omiss-mcp,0.1.0,"""Greg Beam, KI7MT"" <ki7mt@yahoo.com>",GPL-3.0-or-later,197082,"MCP server for OMISS: net schedule, nets on the air, members, check-in history, Statehood, officers and awards"
+2026-09-28T23:12:33Z,ocrmypdf-paddleocr-plus,0.2.0,OCRmyPDF-PaddleOCR contributors,MPL-2.0,62956,PaddleOCR plugin for OCRmyPDF with batched inference and multilingual Devanagari support
+2026-09-28T23:14:26Z,phion-client,1.52.9,PHION Systems,Apache-2.0,10317,Budget-safe x402 client for PHION agent services
+2026-09-28T23:15:10Z,scadbatch,2.0.0rc1,"""Cameron K. Brooks"" <cambrooks3393@gmail.com>",AGPL-3.0-or-later,115289,Batch export models from parametric OpenSCAD designs using CSV or Customizer JSON parameter sets.
+2026-09-28T23:16:42Z,cooperating-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47658,Cooperating-Machine ...
+2026-09-28T23:18:00Z,wyat,0.0.1,,,10331,Add your description here
+2026-09-28T23:19:08Z,mtgeodesicdome,1.2.0,Masahiro Takatsuka <masa@takatsuka.org>,AGPL-3.0-or-later,126224,"Geodesic domes (icosahedral spherical lattices) with fast neighbour search, flat grids, map projections and an interactive rotatable map viewer -- the lattice layer for spherical self-organising maps."
