@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 54,
-    "from": "2026-09-28T14:18:56.108622Z",
-    "path": "data/new-packages-2026-09-28T15-20-06-510085Z.csv",
-    "to": "2026-09-28T15:20:06.510085Z"
+    "count": 80,
+    "from": "2026-09-28T15:20:06.510085Z",
+    "path": "data/new-packages-2026-09-28T16-20-48-827Z.csv",
+    "to": "2026-09-28T16:20:48.827Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-09-28T15:31:13Z",
+      "package": "context-hackdevengers",
+      "since": "2026-09-28T15:20:06.510085Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-09-28T13:21:41Z",
       "package": "passport-auth",
       "since": "2026-09-28T13:18:55.052383Z"
     }
   ],
-  "serial": 41556697,
+  "serial": 41559119,
   "source_truncated": false,
-  "window": "2026-09-28T15:20:06.510085Z"
+  "window": "2026-09-28T16:20:48.827Z"
 }

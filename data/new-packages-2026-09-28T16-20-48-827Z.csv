@@ -1,0 +1,81 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T15:20:12Z,wexample-wallet,1.0.1,weeger <contact@wexample.com>,MIT,6741,
+2026-09-28T15:21:46Z,bezierkit,0.5.0rc1,EconViz,MIT,219096,A small mathematical toolkit for constructing and analyzing Bezier curves.
+2026-09-28T15:22:24Z,thearc,0.1.0,,,343976,"Agent-agnostic plugin & skill installer system for Codex, Claude, and Antigravity"
+2026-09-28T15:23:42Z,gitpair,0.1.0,Fábio Macêdo Mendes,MIT,66497,Keep git repositories in sync between two machines over ssh.
+2026-09-28T15:23:55Z,aice-core,0.3.0,Adanian Labs <engineering@adanianlabs.io>,MIT,63964,"Shared HTTP transport, retry, error and auth primitives for the AICE Python SDKs"
+2026-09-28T15:24:25Z,aice-agent-platform,0.2.1,Adanian Labs <engineering@adanianlabs.io>,MIT,12615,Python SDK for the AICE Agent Platform (config-driven LangGraph agent runtime)
+2026-09-28T15:24:28Z,aice-crawler,0.1.2,Adanian Labs <engineering@adanianlabs.io>,MIT,7428,Python SDK for the AICE Crawler Service
+2026-09-28T15:24:31Z,aice-data-brain,0.1.2,Adanian Labs <engineering@adanianlabs.io>,MIT,7297,Python SDK for the AICE Data Brain multi-source data connection + query layer
+2026-09-28T15:25:08Z,pyagilentxgs600-tspspi,0.0.1,Thomas Spielauer <pypipackages01@tspi.at>,BSD-3-Clause,28183,Unofficial Python library for the Agilent XGS-600 gauge controller
+2026-09-28T15:25:29Z,arc56-generated-mritn-64ae53a5,1.1.2026092815,mritnycodes,,16367,Generated ARC-56 Algorand smart-contract clients for mritnycodes/verithread.
+2026-09-28T15:25:34Z,saddle-harness,0.1.0,"Eliza Halpern, Eryn Lipkowitz",AGPL-3.0-or-later,3637135,Deterministic execution harness for non-deterministic local LLMs.
+2026-09-28T15:26:41Z,cidra,0.1.0,CIDRA Team,MIT,113755,Continuous Integration Debugging and Repair Agent
+2026-09-28T15:27:18Z,allevitas-agent-kit,1.0.0,Allevitas Project,MIT,72338,Official Python SDK and CLI for Allevitas AI agent platform
+2026-09-28T15:27:34Z,netclab,0.6.0,mbakalarski,Apache-2.0,32201,"Bring up a network lab on kind: the cluster, Multus, a registry, and the netclab chart"
+2026-09-28T15:27:51Z,l2o-qc,0.1.0a1,RL2Ocean Project Contributors,Apache-2.0,294879,ESA ROSE-L Level-2 Ocean Processor Quality Control Library
+2026-09-28T15:28:09Z,claude-accounts-dash,0.1.5,Eren Karakoç,MIT,67764,"Local dashboard for your Claude accounts: usage limits, sessions, projects and chat handoff between accounts."
+2026-09-28T15:29:55Z,arc56-generated-cusma-d-asa,1.2.2026072010,cusma,,17919,Generated ARC-56 Algorand smart-contract clients for cusma/d-asa.
+2026-09-28T15:30:07Z,rule-doctor-lite,0.2.1,ATK New Technology <dongnx@atkvn.com>,Apache-2.0,25972,"Find custom Wazuh rules that never fire, including rules dropped at load (7617/7619). Read-only, standard library only."
+2026-09-28T15:30:59Z,arc56-generated-d13co-ff-black,1.2.2026072010,d13co,,17387,Generated ARC-56 Algorand smart-contract clients for d13co/ff-black.
+2026-09-28T15:32:03Z,arc56-generated-d13co-ghostkit,1.2.2026072010,d13co,,13117,Generated ARC-56 Algorand smart-contract clients for d13co/ghostkit.
+2026-09-28T15:32:28Z,librus-synergia,0.1.0,Michał Zaniewicz,MIT,93895,Unofficial async Python client for Librus Synergia (Polish school e-gradebook)
+2026-09-28T15:34:44Z,capo-oam,0.1.0,,,193397,Python SDK for OAM.
+2026-09-28T15:35:00Z,leann-backend-ivf,0.3.6,,,5756,FAISS IVF backend for LEANN with add/delete support for incremental updates.
+2026-09-28T15:35:19Z,capo-observabilityadmin,0.1.0,,,393825,Python SDK for Observabilityadmin.
+2026-09-28T15:36:05Z,capo-odb,0.1.0,,,688207,Python SDK for ODB.
+2026-09-28T15:36:45Z,capo-omics,0.1.0,,,899792,Python SDK for Omics.
+2026-09-28T15:37:32Z,capo-opensearch,0.1.0,,,934535,Python SDK for Opensearch.
+2026-09-28T15:38:10Z,capo-opensearchserverless,0.1.0,,,438258,Python SDK for Opensearchserverless.
+2026-09-28T15:38:54Z,capo-organizations,0.1.0,,,842912,Python SDK for Organizations.
+2026-09-28T15:39:33Z,capo-osis,0.1.0,,,247120,Python SDK for OSIS.
+2026-09-28T15:40:16Z,capo-outposts,0.1.0,,,472675,Python SDK for Outposts.
+2026-09-28T15:40:58Z,capo-panorama,0.1.0,,,359825,Python SDK for Panorama.
+2026-09-28T15:41:53Z,capo-partnercentral-account,0.1.0,,,340846,Python SDK for Partnercentral Account.
+2026-09-28T15:42:23Z,dorksmith,0.1.0,aelena,"MIT License Copyright (c) 2026 aelena Permission is hereby granted, free of charge, to any person o…",102264,"Deterministic search-dork generator and OSINT/SOCMINT query engine. Catalog-driven, pure Python, no dependencies."
+2026-09-28T15:42:33Z,capo-partnercentral-benefits,0.1.0,,,254507,Python SDK for Partnercentral Benefits.
+2026-09-28T15:43:15Z,capo-partnercentral-channel,0.1.0,,,265768,Python SDK for Partnercentral Channel.
+2026-09-28T15:43:49Z,capo-partnercentral-selling,0.1.0,,,663482,Python SDK for Partnercentral Selling.
+2026-09-28T15:44:23Z,warrant-cli,0.1.0,mv2a,Apache-2.0,73084,Humans state intent. Agents write the code. Evidence decides what ships.
+2026-09-28T15:44:40Z,capo-payment-cryptography,0.1.0,,,399943,Python SDK for Payment Cryptography.
+2026-09-28T15:45:15Z,capo-payment-cryptography-data,0.1.0,,,347530,Python SDK for Payment Cryptography Data.
+2026-09-28T15:45:59Z,capo-pca-connector-ad,0.1.0,,,301637,Python SDK for Pca Connector Ad.
+2026-09-28T15:46:34Z,capo-pca-connector-scep,0.1.0,,,175480,Python SDK for Pca Connector Scep.
+2026-09-28T15:47:05Z,saisrikiran_agentic_terminal,0.1.1,,,5346,An MCP which adds terminal capabilities to the agent.
+2026-09-28T15:47:17Z,capo-pcs,0.1.0,,,265661,Python SDK for PCS.
+2026-09-28T15:47:26Z,papollo,0.1.0,,MIT,13637,"Python client for Apollo config center, with sync and async support"
+2026-09-28T15:47:48Z,proofage,0.1.0,ProofAge <support@proofage.xyz>,MIT,92063,Python client for the ProofAge age and identity verification API
+2026-09-28T15:47:52Z,capo-personalize,0.1.0,,,622983,Python SDK for Personalize.
+2026-09-28T15:48:35Z,twin-fabric,0.1.0,,,20998,Nested digital twins with a consistency gate
+2026-09-28T15:48:42Z,capo-personalize-events,0.1.0,,,130560,Python SDK for Personalize Events.
+2026-09-28T15:49:17Z,capo-personalize-runtime,0.1.0,,,132320,Python SDK for Personalize Runtime.
+2026-09-28T15:50:00Z,capo-pi,0.1.0,,,247991,Python SDK for PI.
+2026-09-28T15:50:47Z,capo-pinpoint,0.1.0,,,1041100,Python SDK for Pinpoint.
+2026-09-28T15:51:10Z,vqrng,0.4.1,Frankie Li,MIT,141710,Research-grade verifiable quantum random number generator: Python SDK and Unix CLI built with Qiskit.
+2026-09-28T15:51:29Z,capo-pinpoint-email,0.1.0,,,421090,Python SDK for Pinpoint Email.
+2026-09-28T15:51:32Z,pg-quaestor,0.1.0,Kristof Csillag <kristof.csillag@deai-labs.com>,Apache-2.0,21245,Lightweight PostgreSQL migration module with named migrations and dependency resolution
+2026-09-28T15:52:11Z,capo-pinpoint-sms-voice,0.1.0,,,146351,Python SDK for Pinpoint Sms Voice.
+2026-09-28T15:52:35Z,faultscope,0.2.11,FaultScope contributors,,6940655,Noise-aware QEC fault attribution toolkit with a Rust core and Python API
+2026-09-28T15:52:57Z,capo-pinpoint-sms-voice-v2,0.1.0,,,991160,Python SDK for Pinpoint Sms Voice V2.
+2026-09-28T15:53:11Z,faultscope-pymatching,0.2.11,FaultScope contributors,,1870642,Official FaultScope PyMatching native decoder backend
+2026-09-28T15:53:46Z,capo-pipes,0.1.0,,,315141,Python SDK for Pipes.
+2026-09-28T15:54:28Z,capo-polly,0.1.0,,,228317,Python SDK for Polly.
+2026-09-28T15:55:10Z,capo-pricing,0.1.0,,,145782,Python SDK for Pricing.
+2026-09-28T15:57:23Z,postali-api,0.1.0,Postali <hi@postali.app>,MIT,25613,"Cliente oficial de la API gratuita de códigos postales de Postali (México, Colombia, España). Sin dependencias."
+2026-09-28T15:58:55Z,tirx-harness,0.1.0rc0,,,12798153,Installable inspection and simulation tools for TIRx kernels
+2026-09-28T15:59:16Z,django-currency-amount-field,1.0.0,Omid Shojaee <omid.shojaee@gmail.com>,MIT,19393,A Django DecimalField subclass for monetary amounts with a comma-grouping admin widget and an optional paired currency-code field.
+2026-09-28T16:01:45Z,shrencode,0.1.0,,MIT,74295,"Re-encode video into small viewing copies, adapting to each file"
+2026-09-28T16:02:05Z,uk-bank-rate,0.2.1,Bhupen Varsani,MIT,24313,"The UK Bank Rate from the Bank of England Database, with the MPC schedule and honest handling of the hours after a decision."
+2026-09-28T16:02:21Z,risearch,3.0.0a4,Stefano Roncelli <stefano.roncelli@sund.ku.dk>,BUSL-1.1,1836777,"Fast RNA and DNA interaction search, returning Polars DataFrames"
+2026-09-28T16:02:33Z,nico579-commons,0.1.0,,GPL-3.0-or-later,37081,"Briques communes à blink2video, lidar2map, watch2notif et gpxsolar"
+2026-09-28T16:02:33Z,reconcile-py,0.1.0,,MIT,57362,"Deterministic, explainable fuzzy reconciliation of financial record sets."
+2026-09-28T16:06:41Z,opencode-fleet,0.2.0,,MIT,69703,Run and coordinate a fleet of OpenCode agents from the command line
+2026-09-28T16:07:22Z,runorca,0.3.0,The Orca Authors,Apache-2.0 AND MIT AND BSD-3-Clause AND MPL-2.0,591797,Python client for the Orca Agent Engine API
+2026-09-28T16:09:41Z,trifectaguard,0.1.1,,MIT,120364,"Information-flow control for AI agents: stop tool calls that move untrusted-influenced data or actions somewhere they shouldn't go. Claude Code hooks, an MCP proxy, or a library."
+2026-09-28T16:09:50Z,graftdb,0.1.0,,Apache-2.0,25342002,"PostgreSQL 17 on a directory or an S3 bucket, bundled: graftdb.url() for any Postgres driver"
+2026-09-28T16:11:28Z,opensynthlab,0.1.0a1,OpenSynthLab contributors,Apache-2.0,26848,"Configurable synthetic data workflows for LLMs: template-based generation, validation, and JSONL export."
+2026-09-28T16:11:55Z,laravel-cloud-queues,0.1.0,,MIT,212535,"Laravel Cloud queues for Python: managed queues, plus SQS and Redis/Valkey on worker clusters, with a FastAPI adapter."
+2026-09-28T16:16:35Z,qusec,0.1.0,QuSec Developers,MIT,24213,Quantum Security Framework for Quantum Digital Signature Threat Detection
+2026-09-28T16:17:52Z,contextgc,0.4.1,Jay Gopal Tripathy,MIT,300709,"Deterministic context compiler for AI agent transcripts. Retires superseded facts, compacts tool output, pins declared invariants. No dependencies, no model calls."
+2026-09-28T16:18:09Z,oxyscraper,0.0.1,Ozan Ozbeker,MIT,5066,Unofficial Python library and CLI for the Oxylabs Web Scraper API.
+2026-09-28T16:20:23Z,pyNISAR,0.1.0a1,Cesar Alvites,GPL-3.0-only,6701583,"NISAR L-band SAR inspection, polarimetry and reproducible geospatial products"
