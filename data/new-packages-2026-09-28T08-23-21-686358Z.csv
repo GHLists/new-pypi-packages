@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T07:24:58Z,gitlab-bot-hall-monitor,0.0.1,,,2573,gitlab-bot-hall-monitor reservation see hackerone #4017908
+2026-09-28T07:27:46Z,anycubic-lan,0.1.0,Nino Bondonno,MIT,84144,"Async client for Anycubic 3D printers in LAN Mode (local MQTT, no cloud)."
+2026-09-28T07:30:10Z,apptrail,0.4.0,,MIT,664086,"Open-source app visibility tracking across the App Store, Google Play, and AI search."
+2026-09-28T07:32:37Z,openresponses-client,0.0.1a1,Josef Zweck <josef@zweck.dev>,MIT,123949,"Asynchronous Python client for the Open Responses API specification, built on aiohttp."
+2026-09-28T07:33:51Z,aresys-io,1.0.0,"""Aresys S.R.L."" <info@aresys.it>","MIT License Copyright (C) Aresys S.r.l. <info@aresys.it> Permission is hereby granted, free of char…",629480,Python library for reading and writing Aresys EO/SAR product formats.
+2026-09-28T07:37:56Z,asterstore,0.1.0,Aequiludium,Apache-2.0,213413,Local file-based data lifecycle management
+2026-09-28T07:38:22Z,aido-cell,0.0.0,GenBio AI <itservice@genbio.ai>,Apache-2.0,11023,Placeholder for an upcoming GenBio AI project; no functionality yet.
+2026-09-28T07:42:33Z,pdfredeval,0.1.1,Mykola Melnyk,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",1280106,Evaluation framework for third-party PDF redaction tools
+2026-09-28T07:45:31Z,demplan,0.1.1,,MIT,4223627,Shared research infrastructure for democratic economic planning
+2026-09-28T07:46:25Z,mm-mobile-sdk,0.1.0,Manali Rathod <manali.empiric98@gmail.com>,MIT,7871,Python SDK for the Marketplace Mobile API
+2026-09-28T07:47:46Z,capo-memorydb,0.1.0,,,503643,Python SDK for Memorydb.
+2026-09-28T07:48:05Z,ibangen-mcp,0.1.0,,MIT,10542,"MCP server for IBANgen: validate IBANs, generate synthetic test IBANs and look up banks."
+2026-09-28T07:48:12Z,bethany-lcl,0.1.1,岡野智之,MIT AND LicenseRef-LGPL-2.0-with-static-linking-exception,1374647,Python bindings for the Lazarus LCL with an API similar to C++Builder
+2026-09-28T07:48:19Z,capo-mgn,0.1.0,,,790094,Python SDK for Mgn.
+2026-09-28T07:49:06Z,capo-migration-hub,0.1.0,,,251755,Python SDK for Migration Hub.
+2026-09-28T07:49:06Z,fizzbuzz-kata,0.1.0,Your Name <you@example.com>,MIT,76711,"A TDD kata: FizzBuzz, from notebook exploration to a tested, published package"
+2026-09-28T07:49:17Z,ppsim-core,0.0.0,Jan Zdráhal <jan@zdrahal.eu>,,4164,ppsim - Parametric Propagation Simulator core. Name reservation; functionality to follow.
+2026-09-28T07:49:45Z,capo-migration-hub-refactor-spaces,0.1.0,,,298403,Python SDK for Migration Hub Refactor Spaces.
+2026-09-28T07:50:29Z,capo-migrationhub-config,0.1.0,,,123680,Python SDK for Migrationhub Config.
+2026-09-28T07:50:38Z,payzum-payments,0.2.0,Payzum <dev@payzum.com>,,21788,Payzum crypto/stablecoin payment gateway for Frappe / ERPNext
+2026-09-28T07:50:41Z,kumaconf,0.1.0,Younes Z.,MIT,29450,"Export the configuration of an Uptime Kuma instance from its SQLite file as JSON, and write it back into an empty instance. History is never read."
+2026-09-28T07:52:12Z,capo-migrationhuborchestrator,0.1.0,,,308445,Python SDK for Migrationhuborchestrator.
+2026-09-28T07:52:47Z,capo-migrationhubstrategy,0.1.0,,,333365,Python SDK for Migrationhubstrategy.
+2026-09-28T07:53:28Z,asksql,2.1.0,Ayush Srivastava,,873169,"Community-maintained, security-focused fork of Vanna: generate SQL from natural language. Drop-in: keeps `import vanna`."
+2026-09-28T07:53:35Z,capo-mpa,0.1.0,,,275343,Python SDK for MPA.
+2026-09-28T07:54:29Z,pyneurale,0.1.1,Xingchen Ran <xcran@cqu.edu.cn>,MIT,119987802,"Typed neural data, signal processing, models, and native streaming for neural engineering."
+2026-09-28T07:56:06Z,capo-mq,0.1.0,,,275146,Python SDK for MQ.
+2026-09-28T07:57:23Z,netbox-incidents,1.0.0,Zhakhongir Mirzayev,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",71111,"База инцидентов для NetBox — Device/Interface/Module/Rack, независимо от Journal Entries"
+2026-09-28T07:57:46Z,aztree,0.2.0,Milan Milanović,MIT,82542,"See where your Azure money goes, as a treemap in one offline HTML page."
+2026-09-28T08:06:35Z,kariz,0.1.0,,BSD-3-Clause,14366,Kariz — a content management system built on Django and Wagtail

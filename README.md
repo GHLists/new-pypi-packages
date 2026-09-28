@@ -8,45 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 07:22 UTC
+## Latest list — 2026-09-28 08:23 UTC
 
-New packages created between 2026-09-28 06:20 UTC and 2026-09-28 07:22 UTC.
+New packages created between 2026-09-28 07:22 UTC and 2026-09-28 08:23 UTC.
 
-[Full CSV](data/new-packages-2026-09-28T07-22-31-422178Z.csv)
+[Full CSV](data/new-packages-2026-09-28T08-23-21-686358Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-28 06:20:48 | [volcenginesdk-organization](https://pypi.org/project/volcenginesdk-organization/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-orga… |
-| 2026-09-28 06:20:55 | [volcenginesdk-partner](https://pypi.org/project/volcenginesdk-partner/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-part… |
-| 2026-09-28 06:21:04 | [volcenginesdk-pca](https://pypi.org/project/volcenginesdk-pca/) | 0.0.1 | volc-engine | 974 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-pca |
-| 2026-09-28 06:21:13 | [volcenginesdk-pca20251001](https://pypi.org/project/volcenginesdk-pca20251001/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-pca2… |
-| 2026-09-28 06:26:38 | [asanypath-native](https://pypi.org/project/asanypath-native/) | 2.0.0 |  | 83.9 MB | Native cloud acceleration for asanypath (Rust/tokio/reqwest) |
-| 2026-09-28 06:27:44 | [asanypath](https://pypi.org/project/asanypath/) | 2.0.0 |  | 663.3 kB | Async pathlib for local and cloud storage |
-| 2026-09-28 06:37:26 | [pykante](https://pypi.org/project/pykante/) | 0.1.0 |  | 2.1 kB | Add your description here |
-| 2026-09-28 06:38:17 | [ekvation](https://pypi.org/project/ekvation/) | 0.1.0 |  | 2.2 kB | Add your description here |
-| 2026-09-28 06:38:56 | [fizzbuzz-tdd-kata-Arenion](https://pypi.org/project/fizzbuzz-tdd-kata-Arenion/) | 0.1.0 | Your Name <you@example.com> | 5.2 kB | A TDD kata: FizzBuzz, from notebook exploration to a tested, published package |
-| 2026-09-28 06:40:39 | [efficientloftr-inference](https://pypi.org/project/efficientloftr-inference/) | 0.1.1 |  | 59.3 kB | Unofficial pip-installable packaging of the EfficientLoFTR matcher (zju3dv), in… |
-| 2026-09-28 06:40:41 | [qnbot-sdk-exo](https://pypi.org/project/qnbot-sdk-exo/) | 0.2.0 |  | 12.6 kB |  |
-| 2026-09-28 06:41:00 | [pocketexpert-harness](https://pypi.org/project/pocketexpert-harness/) | 0.1.0 | AgentsDance | 191.3 kB | The open-core agent harness behind PocketExpert AI: ReAct engine, MCP, skills,… |
-| 2026-09-28 06:42:54 | [dongchedi-cli](https://pypi.org/project/dongchedi-cli/) | 0.1.1 | weisanju | 27.2 kB | 懂车帝（dongchedi.com）数据查询 CLI：销量榜 / 品牌 / 车系 / 车型 / 参数配置 / 车主评论 / 搜索 |
-| 2026-09-28 06:44:51 | [CS-fizzbuzz-tdd-kata](https://pypi.org/project/CS-fizzbuzz-tdd-kata/) | 0.1.0 | Salwa Azariouh | 3.6 kB | A TDD kata: FizzBuzz, from notebook exploration to a tested, published package |
-| 2026-09-28 06:45:57 | [ki_mattermost](https://pypi.org/project/ki_mattermost/) | 0.1.1 | aaraevskiy | 16.9 kB | Typed Python client and CLI for self-hosted Mattermost (API v4) |
-| 2026-09-28 06:45:58 | [sokudan](https://pypi.org/project/sokudan/) | 0.2.1 | hiroki-abe-58 | 385.0 kB | Japanese System One decision model: typed answers + probabilities in a single f… |
-| 2026-09-28 06:50:23 | [aclade](https://pypi.org/project/aclade/) | 0.1.0 | Aclade <support@aclade.com> | 15.2 kB | Official Python SDK for Aclade — autonomous AI experts that do real work. `impo… |
-| 2026-09-28 06:52:18 | [pricka](https://pypi.org/project/pricka/) | 0.0.0 | Sebastian <sebastian@rebase.e… | 1.9 kB | Placeholder for the upcoming pricka library. |
-| 2026-09-28 06:52:24 | [antag](https://pypi.org/project/antag/) | 0.0.0 | Sebastian <sebastian@rebase.e… | 1.9 kB | Placeholder for the upcoming antag library. |
-| 2026-09-28 06:52:48 | [tracekite-core](https://pypi.org/project/tracekite-core/) | 0.1.1 | TraceKite | 995.1 kB | Establish what is connected across repositories, and how you know. |
-| 2026-09-28 06:53:47 | [term-animate](https://pypi.org/project/term-animate/) | 0.1.0 | Cookie HOO | 168.3 kB | Standalone terminal-art gallery and host-neutral animation library |
-| 2026-09-28 06:57:21 | [continetal-sysmon](https://pypi.org/project/continetal-sysmon/) | 0.1.0 | Developer | 36.5 kB | Cross-platform Python CLI system monitor and developer tool |
-| 2026-09-28 06:57:39 | [pyworkflowkit](https://pypi.org/project/pyworkflowkit/) | 1.1.0 | Thomas AWOUNFOUET | 333.2 kB | Reliable workflows without running a workflow platform. |
-| 2026-09-28 06:58:00 | [azure-langchain-example](https://pypi.org/project/azure-langchain-example/) | 0.1.0 | Your Name <you@example.com> | 6.2 kB | A minimal LangChain wrapper for Azure OpenAI |
-| 2026-09-28 06:58:19 | [bitsandbytes-cpu-fork](https://pypi.org/project/bitsandbytes-cpu-fork/) | 0.50.2.dev0 |  | 1.3 MB | bitsandbytes with a pure-CPU training backend (AVX2 / NEON): 8-bit optimizers,… |
-| 2026-09-28 07:02:15 | [utility-network-mcp](https://pypi.org/project/utility-network-mcp/) | 0.1.0 | Sayanta Ghosh | 22.3 kB | MCP server for the Esri ArcGIS Utility Network: trace, subnetworks, dirty areas… |
-| 2026-09-28 07:04:21 | [pulse-queue](https://pypi.org/project/pulse-queue/) | 0.1.0 | Abhignan Rakshith | 72.1 kB | A lightweight, zero-dependency SQLite WAL-backed asyncio task queue with fencin… |
-| 2026-09-28 07:07:41 | [termagentai](https://pypi.org/project/termagentai/) | 0.1.0 | rithishcodespace <rithishcode… | 5.3 kB | An MCP server that provides terminal capabilities to AI agents. |
-| 2026-09-28 07:08:17 | [ki_confluence](https://pypi.org/project/ki_confluence/) | 0.2.0 | aaraevskiy | 34.9 kB | Confluence toolkit on atlassian-python-api 4.0.7 (space/page/table/point + JSON… |
-| 2026-09-28 07:13:19 | [bistable-cert](https://pypi.org/project/bistable-cert/) | 1.0.0 | Aleksander Kubański <aleksand… | 126.4 kB | Computable certificates for certified branch-safe selective writing in diffusiv… |
-| 2026-09-28 07:16:02 | [beancount-sparkasse](https://pypi.org/project/beancount-sparkasse/) | 0.1.0 | Henri Sota | 10.3 kB | Beancount v3 importers for Sparkasse CSV exports |
-| 2026-09-28 07:16:04 | [gitlab-graphql-api](https://pypi.org/project/gitlab-graphql-api/) | 0.0.1 |  | 2.5 kB | gitlab-graphql-api reservation see hackerone #4017908 |
-| 2026-09-28 07:16:29 | [draggit-sdk](https://pypi.org/project/draggit-sdk/) | 1.0.0 | Draggit Team | 7.9 kB | Professional PDF watermarking service SDK |
-| 2026-09-28 07:17:12 | [dotcode-sdk](https://pypi.org/project/dotcode-sdk/) | 0.1.0 | Gravicode Studios (Kang Fadhi… | 20.0 kB | Python SDK for DotCode — embed a multi-LLM coding agent (Anthropic, OpenAI, Azu… |
+| 2026-09-28 07:24:58 | [gitlab-bot-hall-monitor](https://pypi.org/project/gitlab-bot-hall-monitor/) | 0.0.1 |  | 2.6 kB | gitlab-bot-hall-monitor reservation see hackerone #4017908 |
+| 2026-09-28 07:27:46 | [anycubic-lan](https://pypi.org/project/anycubic-lan/) | 0.1.0 | Nino Bondonno | 84.1 kB | Async client for Anycubic 3D printers in LAN Mode (local MQTT, no cloud). |
+| 2026-09-28 07:30:10 | [apptrail](https://pypi.org/project/apptrail/) | 0.4.0 |  | 664.1 kB | Open-source app visibility tracking across the App Store, Google Play, and AI s… |
+| 2026-09-28 07:32:37 | [openresponses-client](https://pypi.org/project/openresponses-client/) | 0.0.1a1 | Josef Zweck <josef@zweck.dev> | 123.9 kB | Asynchronous Python client for the Open Responses API specification, built on a… |
+| 2026-09-28 07:33:51 | [aresys-io](https://pypi.org/project/aresys-io/) | 1.0.0 | "Aresys S.R.L." <info@aresys.… | 629.5 kB | Python library for reading and writing Aresys EO/SAR product formats. |
+| 2026-09-28 07:37:56 | [asterstore](https://pypi.org/project/asterstore/) | 0.1.0 | Aequiludium | 213.4 kB | Local file-based data lifecycle management |
+| 2026-09-28 07:38:22 | [aido-cell](https://pypi.org/project/aido-cell/) | 0.0.0 | GenBio AI <itservice@genbio.a… | 11.0 kB | Placeholder for an upcoming GenBio AI project; no functionality yet. |
+| 2026-09-28 07:42:33 | [pdfredeval](https://pypi.org/project/pdfredeval/) | 0.1.1 | Mykola Melnyk | 1.3 MB | Evaluation framework for third-party PDF redaction tools |
+| 2026-09-28 07:45:31 | [demplan](https://pypi.org/project/demplan/) | 0.1.1 |  | 4.2 MB | Shared research infrastructure for democratic economic planning |
+| 2026-09-28 07:46:25 | [mm-mobile-sdk](https://pypi.org/project/mm-mobile-sdk/) | 0.1.0 | Manali Rathod <manali.empiric… | 7.9 kB | Python SDK for the Marketplace Mobile API |
+| 2026-09-28 07:47:46 | [capo-memorydb](https://pypi.org/project/capo-memorydb/) | 0.1.0 |  | 503.6 kB | Python SDK for Memorydb. |
+| 2026-09-28 07:48:05 | [ibangen-mcp](https://pypi.org/project/ibangen-mcp/) | 0.1.0 |  | 10.5 kB | MCP server for IBANgen: validate IBANs, generate synthetic test IBANs and look… |
+| 2026-09-28 07:48:12 | [bethany-lcl](https://pypi.org/project/bethany-lcl/) | 0.1.1 | 岡野智之 | 1.4 MB | Python bindings for the Lazarus LCL with an API similar to C++Builder |
+| 2026-09-28 07:48:19 | [capo-mgn](https://pypi.org/project/capo-mgn/) | 0.1.0 |  | 790.1 kB | Python SDK for Mgn. |
+| 2026-09-28 07:49:06 | [capo-migration-hub](https://pypi.org/project/capo-migration-hub/) | 0.1.0 |  | 251.8 kB | Python SDK for Migration Hub. |
+| 2026-09-28 07:49:06 | [fizzbuzz-kata](https://pypi.org/project/fizzbuzz-kata/) | 0.1.0 | Your Name <you@example.com> | 76.7 kB | A TDD kata: FizzBuzz, from notebook exploration to a tested, published package |
+| 2026-09-28 07:49:17 | [ppsim-core](https://pypi.org/project/ppsim-core/) | 0.0.0 | Jan Zdráhal <jan@zdrahal.eu> | 4.2 kB | ppsim - Parametric Propagation Simulator core. Name reservation; functionality… |
+| 2026-09-28 07:49:45 | [capo-migration-hub-refactor-spaces](https://pypi.org/project/capo-migration-hub-refactor-spaces/) | 0.1.0 |  | 298.4 kB | Python SDK for Migration Hub Refactor Spaces. |
+| 2026-09-28 07:50:29 | [capo-migrationhub-config](https://pypi.org/project/capo-migrationhub-config/) | 0.1.0 |  | 123.7 kB | Python SDK for Migrationhub Config. |
+| 2026-09-28 07:50:38 | [payzum-payments](https://pypi.org/project/payzum-payments/) | 0.2.0 | Payzum <dev@payzum.com> | 21.8 kB | Payzum crypto/stablecoin payment gateway for Frappe / ERPNext |
+| 2026-09-28 07:50:41 | [kumaconf](https://pypi.org/project/kumaconf/) | 0.1.0 | Younes Z. | 29.4 kB | Export the configuration of an Uptime Kuma instance from its SQLite file as JSO… |
+| 2026-09-28 07:52:12 | [capo-migrationhuborchestrator](https://pypi.org/project/capo-migrationhuborchestrator/) | 0.1.0 |  | 308.4 kB | Python SDK for Migrationhuborchestrator. |
+| 2026-09-28 07:52:47 | [capo-migrationhubstrategy](https://pypi.org/project/capo-migrationhubstrategy/) | 0.1.0 |  | 333.4 kB | Python SDK for Migrationhubstrategy. |
+| 2026-09-28 07:53:28 | [asksql](https://pypi.org/project/asksql/) | 2.1.0 | Ayush Srivastava | 873.2 kB | Community-maintained, security-focused fork of Vanna: generate SQL from natural… |
+| 2026-09-28 07:53:35 | [capo-mpa](https://pypi.org/project/capo-mpa/) | 0.1.0 |  | 275.3 kB | Python SDK for MPA. |
+| 2026-09-28 07:54:29 | [pyneurale](https://pypi.org/project/pyneurale/) | 0.1.1 | Xingchen Ran <xcran@cqu.edu.c… | 120.0 MB | Typed neural data, signal processing, models, and native streaming for neural e… |
+| 2026-09-28 07:56:06 | [capo-mq](https://pypi.org/project/capo-mq/) | 0.1.0 |  | 275.1 kB | Python SDK for MQ. |
+| 2026-09-28 07:57:23 | [netbox-incidents](https://pypi.org/project/netbox-incidents/) | 1.0.0 | Zhakhongir Mirzayev | 71.1 kB | База инцидентов для NetBox — Device/Interface/Module/Rack, независимо от Journa… |
+| 2026-09-28 07:57:46 | [aztree](https://pypi.org/project/aztree/) | 0.2.0 | Milan Milanović | 82.5 kB | See where your Azure money goes, as a treemap in one offline HTML page. |
+| 2026-09-28 08:06:35 | [kariz](https://pypi.org/project/kariz/) | 0.1.0 |  | 14.4 kB | Kariz — a content management system built on Django and Wagtail |
