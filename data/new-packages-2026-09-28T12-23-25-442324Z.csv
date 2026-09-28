@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T09:48:55Z,aliensense-nxs,1.1.0rc1,Aliensense,Apache-2.0,2967939,"NXS sensor VM compiler, suite manager, and command-line tool"
+2026-09-28T09:49:28Z,advanced-keyword-scraper,0.1.0,Your Name <your.email@example.com>,MIT,7975,A multithreaded Google autocomplete keyword scraper with intent classification and Excel export.
+2026-09-28T09:57:26Z,rudtts,1.1.0,Rudra,MIT,14729,"Text-to-speech that works like print(): rudtts.speak('hi'), with voice types (female/male/...) and pace control."
+2026-09-28T09:59:44Z,snakeplusplus,0.1.0,R. Bakker,MIT,51047,"Snake++: modular, object-oriented pipelines on top of Snakemake"
+2026-09-28T10:08:00Z,sendpost,3.0.0,OpenAPI Generator community,,1128788,SendPost API
+2026-09-28T10:12:26Z,maximem-synap-mcp-server,0.1.2,,,61406,Hosted remote MCP server (Streamable HTTP) adapter over the Synap public REST API.
+2026-09-28T10:13:40Z,remote-jobs-export,1.0.0,Nova <earnnova@tten.no>,MIT,17756,"Pull, filter, and export normalized remote-job data from the free Remote Jobs API to CSV / JSON / SQLite. Stdlib-only."
+2026-09-28T10:15:04Z,hivemind-wyoming-binary-protocol,0.1.2a1,jarbasAI <jarbasai@mailfence.com>,Apache-2.0,37715,Wyoming-backed audio binary protocol for HiveMind
+2026-09-28T10:26:21Z,easybiz-keycloak-auth,1.0.0,EasyBiz,Proprietary,18367,Shared Keycloak JWT authentication and role-based API permission for EasyBiz Django services.
+2026-09-28T10:30:44Z,domain-parsing-tools,0.2.0,,,9319502,
+2026-09-28T10:32:35Z,syrtis-python-engine,1.0.1,weeger <contact@wexample.com>,MIT,6114,
+2026-09-28T10:39:04Z,xense-cyclonedds,2025.7.29.1,Eclipse Cyclone DDS Committers,"EPL-2.0, BSD-3-Clause",53346633,"Xense redistribution of Cyclone DDS Python, pinned to upstream 2025.7.29"
+2026-09-28T10:46:04Z,jumpstarter-driver-noyito-relay,0.9.0,Kirk Brauer <kbrauer@hatci.com>,Apache-2.0,15152,Jumpstarter driver for the NOYITO 5V 2-Channel USB Relay Module
+2026-09-28T10:46:06Z,jumpstarter-driver-obd,0.9.0,Marek Mahut <marek@mahut.dev>,Apache-2.0,14034,OBD-II vehicle diagnostics driver for Jumpstarter
+2026-09-28T10:46:10Z,jumpstarter-driver-renode,0.9.0,Vinicius Zein <vtzein@gmail.com>,Apache-2.0,28029,Renode emulation framework driver for Jumpstarter
+2026-09-28T10:46:14Z,jumpstarter-driver-someip,0.9.0,Vinicius Zein <vtzein@gmail.com>,Apache-2.0,31668,SOME/IP (Scalable service-Oriented MiddlewarE over IP) driver for Jumpstarter
+2026-09-28T10:47:38Z,rtr-role-type-retrieval,0.3.0,Nova-Violet Role ORG,Dual-licensed under EUPL-1.2 and AGPL-3.0-or-later. See LICENSE-EUPL-1.2.txt and LICENSE-AGPL-3.0.t…,85314,"RTR Role Type Retrieval — RRF-heuristic DTD semantic-capable retriever for opencode (dual ONNX ensemble, CPU-first)"
+2026-09-28T10:48:36Z,omina-client,1.0.0,Omina Project Maintainers,Apache-2.0,29850,Official Python client SDK for the Omina edge intelligence daemon
+2026-09-28T10:54:13Z,due-work-harness,0.1.0,Gigaverse,Apache-2.0,587103,"Conformance proofs for background work that must survive lost messages, dead workers and uncertain external calls."
+2026-09-28T11:07:45Z,gitgrounded,0.1.2,,MIT,414838,Catches AI regressions before your users do
+2026-09-28T11:16:38Z,vamp-supply-chain,1.0,VampSecure Studios <contact@vampsecurestudios.com>,AGPL-3.0-only,50982,"Supply chain security scanner: SBOM, CVE checks, typosquatting detection and checksum verification"
+2026-09-28T11:16:41Z,vamp-iac-audit,1.0,VampSecure Studios <contact@vampsecurestudios.com>,AGPL-3.0-only,57910,"Infrastructure-as-Code security auditor: Terraform, CloudFormation and Helm static analysis"
+2026-09-28T11:16:44Z,vamp-api-probe,1.0,VampSecure Studios <contact@vampsecurestudios.com>,AGPL-3.0-only,62837,"REST API security DAST scanner: BOLA, BFLA, mass assignment, rate limiting and OWASP API Top 10"
+2026-09-28T11:16:47Z,vamp-ad-recon,1.0,VampSecure Studios <contact@vampsecurestudios.com>,AGPL-3.0-only,60770,"Active Directory security auditor: Kerberoasting, AS-REP Roasting, delegation misconfigurations and privilege escalation paths"
+2026-09-28T11:27:34Z,examforge,0.2.0.post9,,,33178,CLI-first multimodal exam-preparation engine with a canonical learning IR
+2026-09-28T11:33:05Z,jscoup,1.0.0,Zaidon Aljbaae,MIT,420441,"Capture, analyse and replay API failures — with database-aware diagnosis, a standalone admin dashboard and a built-in live tester."
+2026-09-28T11:36:48Z,salute-api,0.1.0,aaraevskiy,MIT,44960,Shared FastAPI runtime for Salute NLP scenarios
+2026-09-28T11:44:10Z,odoo-addon-pos-self-service-weighing-product,16.0.1.0.0.1,"Coop IT Easy SC, Odoo Community Association (OCA)",AGPL-3,37187,Configure a PoS to be a self-service product weighing station
+2026-09-28T11:44:13Z,odoo-addon-pos-self-service-weighing-product-tare,16.0.1.0.0.1,"Coop IT Easy SC, Odoo Community Association (OCA)",AGPL-3,22601,Deduct tare weight in the self-service product weighing station
+2026-09-28T11:54:26Z,zfrag,0.1.3,Wannes Vantorre,,268812,Add your description here
+2026-09-28T12:05:44Z,wop-mcp,0.1.0,wop-platform,MIT,107765,万联易达开放平台（WOP）MCP Server —— 文档获取与密钥对生成
+2026-09-28T12:15:15Z,btctx-mcp,1.2.0,BitcoinTX contributors,MIT,50374,MCP server that lets an AI assistant add transactions to a BitcoinTX ledger
