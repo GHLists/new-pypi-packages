@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T12:25:08Z,dryoc,2.0.0,Brenden Matthews <brenden@brndn.io>,MIT,12193989,"Don't Roll Your Own Crypto: fast, type-safe, pure-Rust cryptography with post-quantum support"
+2026-09-28T12:30:26Z,aiython,0.1.0,,MIT,229227,Run Python normally and invoke AI at the current statement
+2026-09-28T12:47:03Z,reliamesh-sdk,0.1.0,Prefiler Labs Private Limited,Apache-2.0,29164,Content-minimizing reliability events for AI agents
+2026-09-28T12:47:06Z,reliamesh-server,0.1.0,Prefiler Labs Private Limited,Apache-2.0,161207,Privacy-first reliability infrastructure for AI agents
+2026-09-28T12:53:49Z,quantum-group,1.1.0,Taha Berk Terekli <terekli@tahaberk.com>,MIT,75766,Exact SymPy verification of explicit U_q(sl_2) and GL_q(2|1) matrix identities
+2026-09-28T12:55:20Z,ankusa,0.2.1,,Apache-2.0,53408,"Client SDK for Ankusa deployments. Bundles the claim-check gateway client and a webhook-receiving header helper today; more clients (ingest, admin) land here as they're built."
+2026-09-28T12:59:40Z,ssfortran,0.1.0,zelpuz,MIT,19484493,"Linear Gaussian state space models (Durbin and Koopman, Part I) with a Fortran core"
+2026-09-28T13:00:27Z,zelnum,0.1.1,Zelnum <support@zelnum.com>,MIT,36608,Official Python SDK for the Zelnum phone & email verification API
+2026-09-28T13:01:56Z,torchtransform,1.0.1,Gerben van Veenendaal <gerbenvv@gmail.com>,MIT,177382,"Fast, batched data augmentation for PyTorch: geometric transforms fused into a single resampling, per-element randomness, images, masks, points and boxes together, in 2D and 3D"
+2026-09-28T13:02:26Z,anedya-sparks-runtime,0.0.1,Anedya Systems <support@anedya.io>,Apache-2.0,36754,Anedya Sparks python runtime SDK
+2026-09-28T13:02:47Z,business-workflow-manager,1.0.0,geOps LLC,EUPL-1.2,72235,"Reusable workflow engine with ORM models, YAML config, and runtime step progression"
+2026-09-28T13:02:53Z,pyastropdl,0.9.0,@angelet-dev,,680511,Powered Descent and Landing Solver (Lunar Edition)
+2026-09-28T13:04:11Z,reasonhound,0.0.1,Yigit Erdogan <yigiterdogan023@gmail.com>,MIT,53788,AI-assisted security scanner that reasons like a senior researcher.
+2026-09-28T13:05:12Z,spore-engine,0.1.0,Spore Engine Authors,MIT,931544,A library-grade ASCII (text-mode) graphics engine
+2026-09-28T13:10:35Z,mcp-ssh-gateway,6.0.1,Constantine Shklyarov <d00mus@users.noreply.github.com>,MIT,272263,"MCP server for a whole fleet of SSH hosts: persistent sessions with scrollback, explicit exit statuses, pager- and router-CLI-aware (Keenetic NDM), hot-reloaded config, honest output paging."
+2026-09-28T13:11:42Z,mkdocs-pixel-lab,0.1.0rc1,Trained-by-Humans,Apache-2.0,858017,"A vibrant, accessible MkDocs documentation theme by Trained-by-Humans."
+2026-09-28T13:11:43Z,arkitekt-spec,1.0.0,jhnnsrs <jhnnsrs@gmail.com>,MIT,49412,"the wire format of an Arkitekt app: manifest, requirements, inspection, hardware selectors and deployments.yaml"
+2026-09-28T13:15:20Z,funnypy,0.1.0,,,1336,An empty placeholder package.
+2026-09-28T13:16:18Z,westquant-qoolqit,1.2.0,WestQuant / David Vesterlund,Apache-2.0,173512,WestQuant Representation Stack for Pasqal QoolQit: Hamiltonian Representation Explorer + Representation Scheduler
+2026-09-28T13:16:21Z,bgeraser,0.1.0,"""Tavrej (Yonzon Studio)"" <tavrejstudio@gmail.com>",MIT,32665,"Remove image backgrounds locally — CLI, Python library and a tiny web UI. No uploads, no API keys."
+2026-09-28T13:17:41Z,navig-sdk,2.11.0,NAVIG Development Team <opensource@navig.run>,MIT,77020,"NAVIG plugin SDK: run a plugin with or without navig, bring your own AI, or build a stdio plugin"
+2026-09-28T13:18:19Z,kokoro-ja-voice-model-1,0.1.0,,Apache-2.0,17125692,Part 1/4 of the Kokoro-82M int8 ONNX model used by kokoro-ja-voice
+2026-09-28T13:18:27Z,kokoro-ja-voice-model-2,0.1.0,,Apache-2.0,14379923,Part 2/4 of the Kokoro-82M int8 ONNX model used by kokoro-ja-voice
+2026-09-28T13:18:34Z,kokoro-ja-voice-model-3,0.1.0,,Apache-2.0,13901390,Part 3/4 of the Kokoro-82M int8 ONNX model used by kokoro-ja-voice
+2026-09-28T13:18:43Z,kokoro-ja-voice-model-4,0.1.0,,Apache-2.0,17675703,Part 4/4 of the Kokoro-82M int8 ONNX model used by kokoro-ja-voice
