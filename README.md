@@ -8,38 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 03:20 UTC
+## Latest list — 2026-09-28 04:19 UTC
 
-New packages created between 2026-09-28 02:19 UTC and 2026-09-28 03:20 UTC.
+New packages created between 2026-09-28 03:20 UTC and 2026-09-28 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-28T03-20-48-129569Z.csv)
+[Full CSV](data/new-packages-2026-09-28T04-19-03-053371Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-28 02:19:42 | [omicos-figure-engine](https://pypi.org/project/omicos-figure-engine/) | 0.1.0 | OmicOS (OmicVerse) | 565.2 kB | OmicOS scientific figure engine: instrument a live matplotlib Figure, apply sem… |
-| 2026-09-28 02:24:32 | [azt-logging](https://pypi.org/project/azt-logging/) | 0.1.0 | runway28R | 9.4 kB | A lightweight logging handler for storing Python logs in Azure Table Storage. |
-| 2026-09-28 02:27:25 | [dancerudiments](https://pypi.org/project/dancerudiments/) | 0.1.3 | Kieran Simkin | 3.4 MB | Integer-pip rhythmic position functions with a C++ core |
-| 2026-09-28 02:28:59 | [modelspec-dev](https://pypi.org/project/modelspec-dev/) | 0.1.0 |  | 63.3 MB | A sourced model decision engine with an offline command-line interface |
-| 2026-09-28 02:29:33 | [trefur-adapters](https://pypi.org/project/trefur-adapters/) | 0.0.0 | Trefur | 2.1 kB | Reserved by Trefur. The package will be published here at launch. |
-| 2026-09-28 02:29:34 | [trefur-identity-verifier](https://pypi.org/project/trefur-identity-verifier/) | 0.0.0 | Trefur | 2.2 kB | Reserved by Trefur. The package will be published here at launch. |
-| 2026-09-28 02:29:35 | [trefur-observe](https://pypi.org/project/trefur-observe/) | 0.0.0 | Trefur | 2.0 kB | Reserved by Trefur. The package will be published here at launch. |
-| 2026-09-28 02:29:36 | [trefur](https://pypi.org/project/trefur/) | 0.0.0 | Trefur | 2.0 kB | Reserved by Trefur. The package will be published here at launch. |
-| 2026-09-28 02:31:23 | [nfrgate](https://pypi.org/project/nfrgate/) | 0.1.1 |  | 228.5 kB | AI-based Observability & NFR Gating Platform |
-| 2026-09-28 02:31:46 | [pykeyatm](https://pypi.org/project/pykeyatm/) | 0.1.1 |  | 1.3 MB | Python and C++ implementation of keyword-assisted topic models |
-| 2026-09-28 02:33:37 | [promptograph](https://pypi.org/project/promptograph/) | 0.3.2 | 4Pixel Tech <4pixeltech@gmail… | 1.3 MB | Browse, diff, validate & generate AI system prompts (20,475 prompts from 55 rep… |
-| 2026-09-28 02:34:26 | [autocto](https://pypi.org/project/autocto/) | 0.1.0 | Zaid Ali Syed | 2.7 kB | Alias for repo-autocto: repository-health analyzers from git history alone. Ins… |
-| 2026-09-28 02:40:19 | [pipscout](https://pypi.org/project/pipscout/) | 0.2.0 | Meet2147 <meetjethwa3@gmail.c… | 437.4 kB | Tell it what you need in plain English. Get the best PyPI package for the job. |
-| 2026-09-28 02:49:12 | [ableton-device-creator](https://pypi.org/project/ableton-device-creator/) | 3.0.0 | Ben Juodvalkis | 311.5 kB | Professional toolkit for Ableton Live device creation and modification |
-| 2026-09-28 02:49:41 | [belphegor](https://pypi.org/project/belphegor/) | 0.1.0 | Facundo Gómez | 90.8 kB | Enumeración de contenido / web fuzzing para bug bounty y pentesting |
-| 2026-09-28 02:52:39 | [bankai-random-forest](https://pypi.org/project/bankai-random-forest/) | 0.1.0a1 | Bankai Random Forest contribu… | 1.7 MB | Scikit-learn-compatible random forest backed by a fork of XRF. |
-| 2026-09-28 02:52:50 | [telemetry-resilience](https://pypi.org/project/telemetry-resilience/) | 0.1.0 | Telemetry Resilience contribu… | 304.0 kB | Test how telemetry-driven software behaves when sensor data goes bad. |
-| 2026-09-28 02:56:40 | [adversary-gate](https://pypi.org/project/adversary-gate/) | 2.0.0 | AdversaryGate Authors | 59.6 kB | Evidence-based verification gate for AI coding agents (fail-closed) |
-| 2026-09-28 02:59:10 | [duplexjev-vllm](https://pypi.org/project/duplexjev-vllm/) | 0.1.0 | Adventists.ai | 21.3 kB | vLLM plugin for DuplexJev speech-decision models (Qwen3-ASR encoder + Ultravox-… |
-| 2026-09-28 02:59:42 | [mcp-polygon-renderer](https://pypi.org/project/mcp-polygon-renderer/) | 0.1.0 |  | 2.2 MB | Servidor MCP para que IAs poligonizen imagenes con OpenCV |
-| 2026-09-28 03:02:45 | [voice-agent-56](https://pypi.org/project/voice-agent-56/) | 0.1.0 |  | 40.1 kB | Reusable voice agent sessions with local speech and OpenRouter adapters |
-| 2026-09-28 03:04:21 | [arabi-lang](https://pypi.org/project/arabi-lang/) | 1.22.0 | CTO-DRS | 557.3 kB | لغة برمجة عربية بالكامل — مفسّر، ١٧ وحدة قياسية، مدير حزم، دولاب افتراضي، غير م… |
-| 2026-09-28 03:05:45 | [standupless-cli](https://pypi.org/project/standupless-cli/) | 0.1.0 |  | 56.1 kB | Command line client for the Standupless issue tracker |
-| 2026-09-28 03:14:54 | [sendping](https://pypi.org/project/sendping/) | 1.0.0 | SendPing | 104.8 kB | Official SendPing Python SDK — send transactional and marketing email from your… |
-| 2026-09-28 03:19:55 | [gargi-reflex](https://pypi.org/project/gargi-reflex/) | 0.1.0 | Gargi | 292.6 kB | Wrap an LLM call, learn from its outputs, and swap in a local model once it is… |
-| 2026-09-28 03:19:57 | [shine-steel-calculator](https://pypi.org/project/shine-steel-calculator/) | 1.0.0 | Shine Enterprises | 13.3 kB | Industrial Steel Dimensions, Theoretical Weight Calculator & BIS Reference Libr… |
-| 2026-09-28 03:20:11 | [gargi](https://pypi.org/project/gargi/) | 0.1.0 | Gargi | 2.5 kB | Alias for gargi-reflex: wrap an LLM call, learn from its outputs, and swap in a… |
+| 2026-09-28 03:25:25 | [pyrjson](https://pypi.org/project/pyrjson/) | 0.3.0 | Tin Dang <tindang.ht97@gmail.… | 13.0 MB | Fast JSON for Python: a faster orjson/json alternative written in Rust against… |
+| 2026-09-28 03:27:34 | [bankai-boruta](https://pypi.org/project/bankai-boruta/) | 0.1.0a1 |  | 2.6 MB | Native Rust Boruta feature selection for Python. |
+| 2026-09-28 03:29:35 | [interlock-agentgov](https://pypi.org/project/interlock-agentgov/) | 0.3.0 | Edward Gu <edwardgu0929@gmail… | 812.2 kB | Runtime spend governor and denial-of-wallet circuit breaker for autonomous agen… |
+| 2026-09-28 03:31:11 | [clovie-observe](https://pypi.org/project/clovie-observe/) | 0.5.0 | Clovie <prabhjot@clovie.io> | 46.6 kB | Clovie Observability SDK — AI observability for every LLM call |
+| 2026-09-28 03:35:24 | [agent-rt](https://pypi.org/project/agent-rt/) | 0.0.0 | Agent RT | 2.9 kB | Reserved package name for the Agent RT project. |
+| 2026-09-28 03:35:34 | [interlock-escrow](https://pypi.org/project/interlock-escrow/) | 0.3.0 | Edward Gu <ygu0929@uchicago.e… | 621.6 kB | A reference monitor for agent side effects: stage, measure, adjudicate, commit. |
+| 2026-09-28 03:37:56 | [agent-rt-lite](https://pypi.org/project/agent-rt-lite/) | 0.0.0 | Agent RT | 3.0 kB | Minimal Agent RT Lite placeholder package. |
+| 2026-09-28 03:39:29 | [forkscope](https://pypi.org/project/forkscope/) | 0.1.0 | Forkscope contributors | 25.5 kB | A local workbench for evaluating test-time planning rollouts. |
+| 2026-09-28 03:42:51 | [versedb](https://pypi.org/project/versedb/) | 0.1.0 | VerseDB | 768.5 kB | Official Python SDK for the VerseDB comic book database API. |
+| 2026-09-28 03:44:41 | [cosmulator](https://pypi.org/project/cosmulator/) | 0.0.35 | Dily Duan Yi Ong <dlo26@cam.a… | 120.5 kB | Train, validate and serve machine-learning emulators of posterior distributions |
+| 2026-09-28 03:45:22 | [entropack](https://pypi.org/project/entropack/) | 0.1.0 | DiffSynth-Studio | 215.4 kB | EntroPack: general-purpose tensor compression for PyTorch with lossless and rat… |
+| 2026-09-28 03:45:33 | [multicloud-py-blob-ali](https://pypi.org/project/multicloud-py-blob-ali/) | 0.1.9 |  | 12.3 kB | Ali OSS provider for multicloud-blob (placeholder; implementation pending). |
+| 2026-09-28 03:46:23 | [tricount-mcp](https://pypi.org/project/tricount-mcp/) | 0.1.0 | Javier Avello | 38.2 kB | MCP server to read and edit Tricount from any AI assistant (unofficial) |
+| 2026-09-28 03:46:51 | [multicloud-py-pubsub-ali](https://pypi.org/project/multicloud-py-pubsub-ali/) | 0.1.9 |  | 12.5 kB | Ali MNS provider for multicloud-pubsub (placeholder; implementation pending). |
+| 2026-09-28 03:47:17 | [multicloud-py-sts-ali](https://pypi.org/project/multicloud-py-sts-ali/) | 0.1.9 |  | 12.3 kB | Ali RAM provider for multicloud-sts (placeholder; implementation pending). |
+| 2026-09-28 03:48:05 | [dcc-mcp-tiled](https://pypi.org/project/dcc-mcp-tiled/) | 0.5.1 | loonghao <hal.long@outlook.co… | 129.9 kB | Typed Tiled map automation for the DCC Model Context Protocol |
+| 2026-09-28 03:49:26 | [soliterm](https://pypi.org/project/soliterm/) | 1.0.0 | Brendan Ta | 411.8 kB | Solitaire for your terminal, AisleRiot-compatible: twelve games in curses or pl… |
+| 2026-09-28 03:50:18 | [aegis-scan-ai](https://pypi.org/project/aegis-scan-ai/) | 0.1.0 | Suresh Tamang | 117.4 kB | Open-source detection of data poisoning and backdoor attacks in ML classificati… |
+| 2026-09-28 03:51:36 | [duty-cycle](https://pypi.org/project/duty-cycle/) | 0.2.1 |  | 474.8 kB | Simulate duty cycles of a gravitational-wave detector network |
+| 2026-09-28 03:52:36 | [ai-safe2](https://pypi.org/project/ai-safe2/) | 0.9.0 | Cyber Strategy Institute <inf… | 753.9 kB | Agent-facing governance, evidence, and assessment CLI for AI SAFE2 v3.1 |
+| 2026-09-28 03:54:37 | [pysesame-ble](https://pypi.org/project/pysesame-ble/) | 0.1.0 | Alastair D'Silva | 51.5 kB | Python library for controlling Candy House Sesame smart locks and accessories o… |
+| 2026-09-28 03:57:09 | [hectiqlab](https://pypi.org/project/hectiqlab/) | 0.1.0 |  | 476.4 kB | Record runs, stages, metrics, datasets and models to Hectiq Lab, from a script… |
+| 2026-09-28 04:01:11 | [entitylinkage](https://pypi.org/project/entitylinkage/) | 0.1.0 |  | 71.0 kB | Conservative, explainable entity linkage for external records |
+| 2026-09-28 04:01:17 | [mlx-stump](https://pypi.org/project/mlx-stump/) | 0.1.0 | Bojan Tunguz | 353.7 kB | Matrix profile on Apple Silicon GPUs via MLX, with a STUMPY-compatible API |
+| 2026-09-28 04:02:02 | [cua-speedrun](https://pypi.org/project/cua-speedrun/) | 0.3.0 |  | 2.3 MB | A benchmark and leaderboard for the speed of computer-use agents |
+| 2026-09-28 04:04:22 | [Learned-nbody-surrogate](https://pypi.org/project/Learned-nbody-surrogate/) | 0.1.0 | Olumide Oladosu(CHEF_P) | 81.2 kB | A Graph Neural Network surrogate for learning gravitational N-body dynamics. |
+| 2026-09-28 04:05:56 | [langchain-promptfirewall](https://pypi.org/project/langchain-promptfirewall/) | 0.1.0 | Timur Rakhmatullin <timur.rak… | 16.2 kB | Sub-millisecond PII detection and prompt injection firewall for LangChain |
+| 2026-09-28 04:06:11 | [llama-index-callbacks-promptfirewall](https://pypi.org/project/llama-index-callbacks-promptfirewall/) | 0.1.0 | Timur Rakhmatullin <timur.rak… | 20.4 kB | Sub-millisecond PII detection and prompt injection firewall for LlamaIndex |
+| 2026-09-28 04:11:41 | [bit-jev](https://pypi.org/project/bit-jev/) | 0.8.7 |  | 111.7 kB | A Jev/Kev-style decision model on Microsoft's 1.58-bit BitNet b1.58 backbone |
+| 2026-09-28 04:12:20 | [zcartpole](https://pypi.org/project/zcartpole/) | 0.16.0 |  | 191.2 kB | Cart and serial pendulum simulation with actuator transfer functions and TVLQR |
+| 2026-09-28 04:14:27 | [keystones-lookml](https://pypi.org/project/keystones-lookml/) | 0.0.1 | Kyle James Walker | 15.7 kB | Gate LookML views and explores on what they mean, not on their labels |
+| 2026-09-28 04:14:29 | [bwa-mem3](https://pypi.org/project/bwa-mem3/) | 0.3.0 | Nils Homer <nils@fulcrumgenom… | 1.8 MB | Python bindings for bwa-mem3 alignment with caller-owned parallelism. |

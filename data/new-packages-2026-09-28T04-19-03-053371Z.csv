@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T03:25:25Z,pyrjson,0.3.0,Tin Dang <tindang.ht97@gmail.com>,MIT,12952071,Fast JSON for Python: a faster orjson/json alternative written in Rust against the CPython C API
+2026-09-28T03:27:34Z,bankai-boruta,0.1.0a1,,GPL-3.0-or-later,2553522,Native Rust Boruta feature selection for Python.
+2026-09-28T03:29:35Z,interlock-agentgov,0.3.0,Edward Gu <edwardgu0929@gmail.com>,Apache-2.0,812221,Runtime spend governor and denial-of-wallet circuit breaker for autonomous agent fleets.
+2026-09-28T03:31:11Z,clovie-observe,0.5.0,Clovie <prabhjot@clovie.io>,Apache-2.0,46615,Clovie Observability SDK — AI observability for every LLM call
+2026-09-28T03:35:24Z,agent-rt,0.0.0,Agent RT,MIT,2905,Reserved package name for the Agent RT project.
+2026-09-28T03:35:34Z,interlock-escrow,0.3.0,Edward Gu <ygu0929@uchicago.edu>,Apache-2.0,621598,"A reference monitor for agent side effects: stage, measure, adjudicate, commit."
+2026-09-28T03:37:56Z,agent-rt-lite,0.0.0,Agent RT,MIT,2961,Minimal Agent RT Lite placeholder package.
+2026-09-28T03:39:29Z,forkscope,0.1.0,Forkscope contributors,MIT,25537,A local workbench for evaluating test-time planning rollouts.
+2026-09-28T03:42:51Z,versedb,0.1.0,VerseDB,MIT,768524,Official Python SDK for the VerseDB comic book database API.
+2026-09-28T03:44:41Z,cosmulator,0.0.35,Dily Duan Yi Ong <dlo26@cam.ac.uk>,MIT,120550,"Train, validate and serve machine-learning emulators of posterior distributions"
+2026-09-28T03:45:22Z,entropack,0.1.0,DiffSynth-Studio,Apache-2.0,215406,EntroPack: general-purpose tensor compression for PyTorch with lossless and rate-controlled lossy schemes and GPU encoding and decoding.
+2026-09-28T03:45:33Z,multicloud-py-blob-ali,0.1.9,,Apache-2.0,12314,Ali OSS provider for multicloud-blob (placeholder; implementation pending).
+2026-09-28T03:46:23Z,tricount-mcp,0.1.0,Javier Avello,MIT,38218,MCP server to read and edit Tricount from any AI assistant (unofficial)
+2026-09-28T03:46:51Z,multicloud-py-pubsub-ali,0.1.9,,Apache-2.0,12525,Ali MNS provider for multicloud-pubsub (placeholder; implementation pending).
+2026-09-28T03:47:17Z,multicloud-py-sts-ali,0.1.9,,Apache-2.0,12279,Ali RAM provider for multicloud-sts (placeholder; implementation pending).
+2026-09-28T03:48:05Z,dcc-mcp-tiled,0.5.1,loonghao <hal.long@outlook.com>,MIT,129884,Typed Tiled map automation for the DCC Model Context Protocol
+2026-09-28T03:49:26Z,soliterm,1.0.0,Brendan Ta,MIT,411796,"Solitaire for your terminal, AisleRiot-compatible: twelve games in curses or plain text"
+2026-09-28T03:50:18Z,aegis-scan-ai,0.1.0,Suresh Tamang,Apache-2.0,117395,"Open-source detection of data poisoning and backdoor attacks in ML classification pipelines, validated on healthcare imaging and general-purpose benchmarks."
+2026-09-28T03:51:36Z,duty-cycle,0.2.1,,,474806,Simulate duty cycles of a gravitational-wave detector network
+2026-09-28T03:52:36Z,ai-safe2,0.9.0,Cyber Strategy Institute <info@cyberstrategyinstitute.com>,MIT,753850,"Agent-facing governance, evidence, and assessment CLI for AI SAFE2 v3.1"
+2026-09-28T03:54:37Z,pysesame-ble,0.1.0,Alastair D'Silva,Apache-2.0,51514,Python library for controlling Candy House Sesame smart locks and accessories over Bluetooth Low Energy (BLE)
+2026-09-28T03:57:09Z,hectiqlab,0.1.0,,,476413,"Record runs, stages, metrics, datasets and models to Hectiq Lab, from a script or the command line."
+2026-09-28T04:01:11Z,entitylinkage,0.1.0,,Apache-2.0,71010,"Conservative, explainable entity linkage for external records"
+2026-09-28T04:01:17Z,mlx-stump,0.1.0,Bojan Tunguz,MIT,353678,"Matrix profile on Apple Silicon GPUs via MLX, with a STUMPY-compatible API"
+2026-09-28T04:02:02Z,cua-speedrun,0.3.0,,,2261820,A benchmark and leaderboard for the speed of computer-use agents
+2026-09-28T04:04:22Z,Learned-nbody-surrogate,0.1.0,Olumide Oladosu(CHEF_P),MIT,81179,A Graph Neural Network surrogate for learning gravitational N-body dynamics.
+2026-09-28T04:05:56Z,langchain-promptfirewall,0.1.0,Timur Rakhmatullin <timur.rakhmatullin86@gmail.com>,MIT,16244,Sub-millisecond PII detection and prompt injection firewall for LangChain
+2026-09-28T04:06:11Z,llama-index-callbacks-promptfirewall,0.1.0,Timur Rakhmatullin <timur.rakhmatullin86@gmail.com>,MIT,20399,Sub-millisecond PII detection and prompt injection firewall for LlamaIndex
+2026-09-28T04:11:41Z,bit-jev,0.8.7,,Apache-2.0,111688,A Jev/Kev-style decision model on Microsoft's 1.58-bit BitNet b1.58 backbone
+2026-09-28T04:12:20Z,zcartpole,0.16.0,,MIT,191183,Cart and serial pendulum simulation with actuator transfer functions and TVLQR
+2026-09-28T04:14:27Z,keystones-lookml,0.0.1,Kyle James Walker,MIT,15733,"Gate LookML views and explores on what they mean, not on their labels"
+2026-09-28T04:14:29Z,bwa-mem3,0.3.0,Nils Homer <nils@fulcrumgenomics.com>,MIT,1775386,Python bindings for bwa-mem3 alignment with caller-owned parallelism.
