@@ -8,39 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 05:22 UTC
+## Latest list — 2026-09-28 06:20 UTC
 
-New packages created between 2026-09-28 04:19 UTC and 2026-09-28 05:22 UTC.
+New packages created between 2026-09-28 05:22 UTC and 2026-09-28 06:20 UTC.
 
-[Full CSV](data/new-packages-2026-09-28T05-22-32-216395Z.csv)
+[Full CSV](data/new-packages-2026-09-28T06-20-37-963535Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-28 04:19:48 | [ada-pip-operator-core](https://pypi.org/project/ada-pip-operator-core/) | 0.0.0 | STRITZ | 738 B | Name reserved for an internal STRITZ package. Not installable. |
-| 2026-09-28 04:19:49 | [ada-pip-startup](https://pypi.org/project/ada-pip-startup/) | 0.0.0 | STRITZ | 728 B | Name reserved for an internal STRITZ package. Not installable. |
-| 2026-09-28 04:19:50 | [ada-pip-core-observability](https://pypi.org/project/ada-pip-core-observability/) | 0.0.0 | STRITZ | 750 B | Name reserved for an internal STRITZ package. Not installable. |
-| 2026-09-28 04:19:51 | [ada-pip-credentials](https://pypi.org/project/ada-pip-credentials/) | 0.0.0 | STRITZ | 733 B | Name reserved for an internal STRITZ package. Not installable. |
-| 2026-09-28 04:23:11 | [chunk-invariance](https://pypi.org/project/chunk-invariance/) | 0.1.0 | Ninad Phalak <ninadphalak@gma… | 26.5 kB | Assert that a streaming filter gives the same output however its input is split… |
-| 2026-09-28 04:23:58 | [a02-career-data-mcp](https://pypi.org/project/a02-career-data-mcp/) | 0.2.1 |  | 53.0 kB | A02 职业数据 MCP Server：招聘数据（聚合数据）/ 学习资源（GitHub）/ 职业趋势（快照）/ 职业百科（百度百科），三级降级链，来源全程可溯 |
-| 2026-09-28 04:28:17 | [mkdocs-cheatsheet](https://pypi.org/project/mkdocs-cheatsheet/) | 0.1.0 | Luka Sherman <luka.msherman@g… | 181.3 kB | Material for MkDocs plugin: builds a linked cheatsheet card grid from flagged h… |
-| 2026-09-28 04:30:30 | [trustportidentity-beacon](https://pypi.org/project/trustportidentity-beacon/) | 1.0.0 | TrustPort | 12.1 kB | Official TrustPort Beacon APM and Telemetry SDK for Python (FastAPI, Django, Fl… |
-| 2026-09-28 04:33:04 | [rmectl](https://pypi.org/project/rmectl/) | 0.1.0 | Hoshino Lina | 11.9 kB | RME Digiface mixer interface |
-| 2026-09-28 04:34:26 | [great-limiter](https://pypi.org/project/great-limiter/) | 0.1.0 | Great Shield | 120.6 kB | Auth-endpoint rate limiting for Python apps with IP + account awareness, cooldo… |
-| 2026-09-28 04:37:17 | [subproto](https://pypi.org/project/subproto/) | 0.1.0 |  | 698.9 kB | A System One layer for coding agents: decide before you pay. |
-| 2026-09-28 04:42:29 | [agentguard-mcp-sdk](https://pypi.org/project/agentguard-mcp-sdk/) | 3.1.1 | Sreejith <sjith310@gmail.com> | 8.1 kB | Official Python Client SDK for AgentGuard MCP — Agent Reliability & Security In… |
-| 2026-09-28 04:43:29 | [chem-llm](https://pypi.org/project/chem-llm/) | 0.1.0 | Brent Hu | 163.1 kB | An LLM agent that runs end-to-end DFT band-structure studies with Quantum ESPRE… |
-| 2026-09-28 04:45:47 | [toll402](https://pypi.org/project/toll402/) | 0.2.0 | Toll402 | 13.8 kB | One-line client for Toll402 — 2,600+ pay-per-call tools for AI agents (web, PDF… |
-| 2026-09-28 04:53:15 | [altissimo-firedantic](https://pypi.org/project/altissimo-firedantic/) | 0.22.2 | IOXIO Ltd | 148.9 kB | Pydantic base models for Firestore. Maintained fork of ioxiocom/firedantic. |
-| 2026-09-28 04:53:57 | [rehtml](https://pypi.org/project/rehtml/) | 0.0.1 |  | 3.5 kB | my hand module |
-| 2026-09-28 04:55:14 | [xstar-tools](https://pypi.org/project/xstar-tools/) | 0.6.89.5 | Ashkbiz Danehkar | 177.5 MB | Source-faithful Python/C++ XSTAR tools, atomic-data utilities, benchmarks, and… |
-| 2026-09-28 04:59:33 | [jevspan](https://pypi.org/project/jevspan/) | 0.1.0 | JevSpan contributors | 93.6 kB | Zero-shot named entity recognition built on TypeSafe Jev: punctuation-guided sp… |
-| 2026-09-28 05:00:19 | [shopee-fcst-cli](https://pypi.org/project/shopee-fcst-cli/) | 0.0.0 | sc | 2.4 kB | A small example package |
-| 2026-09-28 05:00:57 | [webgis-claude-skills](https://pypi.org/project/webgis-claude-skills/) | 0.1.1 | Tariq Azam | 34.7 kB | WebGIS, GIS, GeoAI and spatial engineering skills plus Python GIS runtime extra… |
-| 2026-09-28 05:04:00 | [GPA-Calculator-CS3250-aden](https://pypi.org/project/GPA-Calculator-CS3250-aden/) | 0.0.1 | AdenPotato | 3.5 kB | Credit-weighted GPA calculation from letter grades and credit hours |
-| 2026-09-28 05:08:19 | [hanabi-gw](https://pypi.org/project/hanabi-gw/) | 0.4.9 | Rico K. L. Lo | 165.5 kB | Hierarchical bayesian ANAlysis on lensed GW signals using BIlby |
-| 2026-09-28 05:08:45 | [toooaio-scripts](https://pypi.org/project/toooaio-scripts/) | 1.0.1 |  | 36.8 MB | Скрипты общего назначения: сборка документации, сборка приложений |
-| 2026-09-28 05:10:45 | [altissimo-firedantic-extras](https://pypi.org/project/altissimo-firedantic-extras/) | 0.2.1 | Lukas Karlsson | 109.3 kB | Add-on utilities for Firedantic: collection sync, FastAPI pagination, BigQuery… |
-| 2026-09-28 05:14:15 | [mcp-video-frames](https://pypi.org/project/mcp-video-frames/) | 0.1.0 | Azzy-H | 184.3 kB | MCP server that lets models without video input look at video: frames with time… |
-| 2026-09-28 05:16:37 | [codebuff-agent](https://pypi.org/project/codebuff-agent/) | 2.1.74 | Your Name <your.email@example… | 2.7 MB | Codebuff JupyterLab Extension - Thin client for Agent Server |
-| 2026-09-28 05:18:14 | [flexrouter](https://pypi.org/project/flexrouter/) | 2.3.0 |  | 1.0 MB | Stack every provider's free-tier LLMs behind one OpenAI-compatible address, wit… |
-| 2026-09-28 05:21:50 | [niryukti](https://pypi.org/project/niryukti/) | 0.2.0 |  | 4.5 MB | Independent sparse LP, convex QP and mixed-integer optimization engine |
+| 2026-09-28 05:23:52 | [stayfixed](https://pypi.org/project/stayfixed/) | 0.1.0 | Nezhinskiy | 2.7 MB | A methodology harness for coding agents: a bug ledger that lives in the reposit… |
+| 2026-09-28 05:24:29 | [boilpayment](https://pypi.org/project/boilpayment/) | 0.2.0 | boilpayment contributors | 537.2 kB | Payment kit: refunds, dunning, renewals and overage for code generated by npx b… |
+| 2026-09-28 05:25:06 | [civic-data-boundaries-us-mn-precincts](https://pypi.org/project/civic-data-boundaries-us-mn-precincts/) | 0.2.0 | Civic Interconnect <info@civi… | 33.4 kB | Minnesota precinct boundary layers |
+| 2026-09-28 05:26:27 | [harnyx](https://pypi.org/project/harnyx/) | 0.1.1 | Nilay Mallik | 198.9 kB | Harnyx: learn to improve executable AI-agent harnesses from failure trajectorie… |
+| 2026-09-28 05:29:41 | [dre-cli](https://pypi.org/project/dre-cli/) | 0.0.1a6 |  | 406.9 MB | DRE, the Declarative Reporting Engine: SQL in, formatted files out |
+| 2026-09-28 05:31:42 | [temporal-algenta](https://pypi.org/project/temporal-algenta/) | 0.1.0 | Thyn | 83.2 kB | Temporal.io integration for Algenta: governed decision execution as durable act… |
+| 2026-09-28 05:34:31 | [sphinxcontrib-enum](https://pypi.org/project/sphinxcontrib-enum/) | 0.1.0 | Brian Kohan <bckohan@gmail.co… | 160.3 kB | Sphinx directive for documenting dataclass enums in tabular format, with suppor… |
+| 2026-09-28 05:38:41 | [esq-builder-mcp](https://pypi.org/project/esq-builder-mcp/) | 0.1.1 | sora | 182.0 kB | ESQ 题库包构建/校验/导入/词表分析 MCP server（墨题刷题机 ESQ 1.0 管道工具化） |
+| 2026-09-28 05:41:07 | [clinosim](https://pypi.org/project/clinosim/) | 0.6.4 | clinosim contributors | 6.8 MB | Clinically Realistic Hospital Data Simulator — physiology-driven synthetic EHR… |
+| 2026-09-28 05:41:46 | [gyomu-concept](https://pypi.org/project/gyomu-concept/) | 0.5.0 | Yoshihisa Matsumoto | 17.5 kB | Gyomu Concept |
+| 2026-09-28 05:43:52 | [django-systemd](https://pypi.org/project/django-systemd/) | 0.1.0 | Brian Kohan <bckohan@gmail.co… | 206.8 kB | Let your Django apps manage your systemd unit files and services! |
+| 2026-09-28 05:44:10 | [geektls](https://pypi.org/project/geektls/) | 0.1.1 | geekbyte | 9.6 MB | TLS/HTTP fingerprint impersonation with evidence-graded browser presets (Python… |
+| 2026-09-28 05:54:10 | [optlang-copt](https://pypi.org/project/optlang-copt/) | 0.2.0 | Han Weishang | 26.2 kB | An optlang and COBRApy interface for Cardinal Optimizer (COPT) |
+| 2026-09-28 05:56:49 | [joltio](https://pypi.org/project/joltio/) | 0.1.0 | Jesús López <jesus.lopez@dato… | 73.4 kB | Python client for Joltio Data |
+| 2026-09-28 05:58:11 | [tranp](https://pypi.org/project/tranp/) | 0.9.1 |  | 503.4 kB | A language-agnostic source-to-source transpiler framework. |
+| 2026-09-28 05:58:31 | [autoresearcher-ai](https://pypi.org/project/autoresearcher-ai/) | 0.1.1 | sakthivel | 119.9 kB | Multi-agent research that produces source-grounded Word reports. |
+| 2026-09-28 06:00:45 | [agents-chronicle](https://pypi.org/project/agents-chronicle/) | 0.1.1 |  | 947.9 kB | Record, archive, analyze and explore every coding-agent session (Claude Code, C… |
+| 2026-09-28 06:00:52 | [haskie](https://pypi.org/project/haskie/) | 0.13.0 |  | 786.5 kB | Personal document collections: markdown conversion, LanceDB search, web UI and… |
+| 2026-09-28 06:09:23 | [docsagent-mcp](https://pypi.org/project/docsagent-mcp/) | 5.0.1 | Vincent | 68.1 MB | DocsAgent - give AI agents instant, private access to your personal knowledge b… |
+| 2026-09-28 06:13:31 | [ai-platform-learning](https://pypi.org/project/ai-platform-learning/) | 0.1.0 |  | 103.3 kB | Interactive CLI learning tool for AI Platform Engineering |
+| 2026-09-28 06:17:05 | [gosce-encrypted-langchain-token-agent](https://pypi.org/project/gosce-encrypted-langchain-token-agent/) | 0.1.0 | Rawson Consulting B.V. | 5.5 kB | Run a prompt through a LangChain (system + human) chain over Gemini on Vertex A… |
+| 2026-09-28 06:17:12 | [gosce-google-oauth-langchain-agent](https://pypi.org/project/gosce-google-oauth-langchain-agent/) | 0.1.0 | Rawson Consulting B.V. | 5.4 kB | Google-OAuth-gated LLM gateway: verify a Google ID token, then run a Gemini (Ve… |
+| 2026-09-28 06:17:19 | [gosce-google-sign-in-langchain-agent](https://pypi.org/project/gosce-google-sign-in-langchain-agent/) | 0.1.0 | Rawson Consulting B.V. | 5.5 kB | Google-OAuth-gated LLM gateway: verify a Google ID token, then run a Gemini (Ve… |
+| 2026-09-28 06:17:26 | [gosce-kafka-and-postgres-monitoring-stack](https://pypi.org/project/gosce-kafka-and-postgres-monitoring-stack/) | 0.1.0 | Rawson Consulting B.V. | 6.0 kB | Generate a production-ready docker-compose.yml for a multi-service infrastructu… |
+| 2026-09-28 06:18:00 | [datapath-doctor](https://pypi.org/project/datapath-doctor/) | 0.2.0 | Nilesh Shinde | 87.7 kB | Evidence-based diagnostics for ML training data-path bottlenecks |
+| 2026-09-28 06:19:58 | [get-current-wifi-ssid](https://pypi.org/project/get-current-wifi-ssid/) | 0.1.0 | GGN_2015 | 5.5 kB | get current wifi ssid |
