@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-09-28T05:22:32.216395Z",
-    "path": "data/new-packages-2026-09-28T06-20-37-963535Z.csv",
-    "to": "2026-09-28T06:20:37.963535Z"
+    "count": 34,
+    "from": "2026-09-28T06:20:37.963535Z",
+    "path": "data/new-packages-2026-09-28T07-22-31-422178Z.csv",
+    "to": "2026-09-28T07:22:31.422178Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-09-28T06:25:16Z",
+      "package": "fizzbuzz_cs_resfresher",
+      "since": "2026-09-28T06:20:37.963535Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-09-28T05:31:10Z",
       "package": "penguin-security",
       "since": "2026-09-28T05:22:32.216395Z"
     }
   ],
-  "serial": 41538934,
+  "serial": 41540883,
   "source_truncated": false,
-  "window": "2026-09-28T06:20:37.963535Z"
+  "window": "2026-09-28T07:22:31.422178Z"
 }

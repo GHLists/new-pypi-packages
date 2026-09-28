@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T06:20:48Z,volcenginesdk-organization,0.0.1,volc-engine,Apache License 2.0,1039,Name reservation for the Volcengine Python SDK split package volcenginesdk-organization
+2026-09-28T06:20:55Z,volcenginesdk-partner,0.0.1,volc-engine,Apache License 2.0,1003,Name reservation for the Volcengine Python SDK split package volcenginesdk-partner
+2026-09-28T06:21:04Z,volcenginesdk-pca,0.0.1,volc-engine,Apache License 2.0,974,Name reservation for the Volcengine Python SDK split package volcenginesdk-pca
+2026-09-28T06:21:13Z,volcenginesdk-pca20251001,0.0.1,volc-engine,Apache License 2.0,1034,Name reservation for the Volcengine Python SDK split package volcenginesdk-pca20251001
+2026-09-28T06:26:38Z,asanypath-native,2.0.0,,MIT,83869789,Native cloud acceleration for asanypath (Rust/tokio/reqwest)
+2026-09-28T06:27:44Z,asanypath,2.0.0,,MIT,663289,Async pathlib for local and cloud storage
+2026-09-28T06:37:26Z,pykante,0.1.0,,,2144,Add your description here
+2026-09-28T06:38:17Z,ekvation,0.1.0,,,2167,Add your description here
+2026-09-28T06:38:56Z,fizzbuzz-tdd-kata-Arenion,0.1.0,Your Name <you@example.com>,MIT,5236,"A TDD kata: FizzBuzz, from notebook exploration to a tested, published package"
+2026-09-28T06:40:39Z,efficientloftr-inference,0.1.1,,Apache-2.0,59310,"Unofficial pip-installable packaging of the EfficientLoFTR matcher (zju3dv), inference path only"
+2026-09-28T06:40:41Z,qnbot-sdk-exo,0.2.0,,,12586,
+2026-09-28T06:41:00Z,pocketexpert-harness,0.1.0,AgentsDance,Apache-2.0,191281,"The open-core agent harness behind PocketExpert AI: ReAct engine, MCP, skills, long-term memory, CLI and web chat."
+2026-09-28T06:42:54Z,dongchedi-cli,0.1.1,weisanju,,27174,懂车帝（dongchedi.com）数据查询 CLI：销量榜 / 品牌 / 车系 / 车型 / 参数配置 / 车主评论 / 搜索
+2026-09-28T06:44:51Z,CS-fizzbuzz-tdd-kata,0.1.0,Salwa Azariouh,MIT,3566,"A TDD kata: FizzBuzz, from notebook exploration to a tested, published package"
+2026-09-28T06:45:57Z,ki_mattermost,0.1.1,aaraevskiy,MIT,16943,Typed Python client and CLI for self-hosted Mattermost (API v4)
+2026-09-28T06:45:58Z,sokudan,0.2.1,hiroki-abe-58,Apache-2.0,384991,"Japanese System One decision model: typed answers + probabilities in a single forward pass, no text generation."
+2026-09-28T06:50:23Z,aclade,0.1.0,Aclade <support@aclade.com>,Proprietary (UNLICENSED) — distributed exclusively for users of the Aclade platform,15153,"Official Python SDK for Aclade — autonomous AI experts that do real work. `import aclade`, delegate a task, read the report."
+2026-09-28T06:52:18Z,pricka,0.0.0,Sebastian <sebastian@rebase.energy>,MIT OR Apache-2.0,1891,Placeholder for the upcoming pricka library.
+2026-09-28T06:52:24Z,antag,0.0.0,Sebastian <sebastian@rebase.energy>,MIT OR Apache-2.0,1879,Placeholder for the upcoming antag library.
+2026-09-28T06:52:48Z,tracekite-core,0.1.1,TraceKite,Apache-2.0,995100,"Establish what is connected across repositories, and how you know."
+2026-09-28T06:53:47Z,term-animate,0.1.0,Cookie HOO,GPL-3.0-only,168255,Standalone terminal-art gallery and host-neutral animation library
+2026-09-28T06:57:21Z,continetal-sysmon,0.1.0,Developer,,36501,Cross-platform Python CLI system monitor and developer tool
+2026-09-28T06:57:39Z,pyworkflowkit,1.1.0,Thomas AWOUNFOUET,,333175,Reliable workflows without running a workflow platform.
+2026-09-28T06:58:00Z,azure-langchain-example,0.1.0,Your Name <you@example.com>,MIT,6190,A minimal LangChain wrapper for Azure OpenAI
+2026-09-28T06:58:19Z,bitsandbytes-cpu-fork,0.50.2.dev0,,MIT,1323335,"bitsandbytes with a pure-CPU training backend (AVX2 / NEON): 8-bit optimizers, fused GDN, gemm_8bit, disk balancer. No GPU required."
+2026-09-28T07:02:15Z,utility-network-mcp,0.1.0,Sayanta Ghosh,MIT,22324,"MCP server for the Esri ArcGIS Utility Network: trace, subnetworks, dirty areas and associations over the UtilityNetworkServer REST API"
+2026-09-28T07:04:21Z,pulse-queue,0.1.0,Abhignan Rakshith,MIT,72100,"A lightweight, zero-dependency SQLite WAL-backed asyncio task queue with fencing tokens and DLQ replay."
+2026-09-28T07:07:41Z,termagentai,0.1.0,rithishcodespace <rithishcodespace@gmail.com>,,5259,An MCP server that provides terminal capabilities to AI agents.
+2026-09-28T07:08:17Z,ki_confluence,0.2.0,aaraevskiy,MIT,34921,Confluence toolkit on atlassian-python-api 4.0.7 (space/page/table/point + JSON logs)
+2026-09-28T07:13:19Z,bistable-cert,1.0.0,Aleksander Kubański <aleksander@kubanski.pro>,"MIT License Copyright (c) 2026 Aleksander Kubański Permission is hereby granted, free of charge, to…",126435,Computable certificates for certified branch-safe selective writing in diffusively coupled bistable graph memories
+2026-09-28T07:16:02Z,beancount-sparkasse,0.1.0,Henri Sota,MIT,10340,Beancount v3 importers for Sparkasse CSV exports
+2026-09-28T07:16:04Z,gitlab-graphql-api,0.0.1,,,2499,gitlab-graphql-api reservation see hackerone #4017908
+2026-09-28T07:16:29Z,draggit-sdk,1.0.0,Draggit Team,,7879,Professional PDF watermarking service SDK
+2026-09-28T07:17:12Z,dotcode-sdk,0.1.0,Gravicode Studios (Kang Fadhil),MIT,20030,"Python SDK for DotCode — embed a multi-LLM coding agent (Anthropic, OpenAI, Azure, Gemini, DeepSeek, Ollama) in your app. By Gravicode Studios, led by Kang Fadhil."
