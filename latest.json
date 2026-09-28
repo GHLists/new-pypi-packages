@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-09-28T07:22:31.422178Z",
-    "path": "data/new-packages-2026-09-28T08-23-21-686358Z.csv",
-    "to": "2026-09-28T08:23:21.686358Z"
+    "count": 11,
+    "from": "2026-09-28T08:23:21.686358Z",
+    "path": "data/new-packages-2026-09-28T09-30-33-488009Z.csv",
+    "to": "2026-09-28T09:30:33.488009Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-28T06:25:16Z",
       "package": "fizzbuzz_cs_resfresher",
       "since": "2026-09-28T06:20:37.963535Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-28T07:24:23Z",
       "package": "ikartools",
       "since": "2026-09-28T07:22:31.422178Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-28T05:31:10Z",
       "package": "penguin-security",
       "since": "2026-09-28T05:22:32.216395Z"
     }
   ],
-  "serial": 41542580,
+  "serial": 41544137,
   "source_truncated": false,
-  "window": "2026-09-28T08:23:21.686358Z"
+  "window": "2026-09-28T09:30:33.488009Z"
 }

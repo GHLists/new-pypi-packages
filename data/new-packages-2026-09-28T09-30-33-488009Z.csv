@@ -1,0 +1,12 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T08:32:26Z,odoo-addon-base-ubl-payment-banking-mandate,16.0.1.1.0,"BCIM,Odoo Community Association (OCA)",AGPL-3,21765,Add banking mandate in ubl payment
+2026-09-28T08:34:06Z,ms-graph-toolbox,0.1.0,runway28R,MIT,23922,"A lightweight Python wrapper around Microsoft Graph for email, users, and SharePoint operations."
+2026-09-28T08:35:36Z,zapchat,3.0.0,Samarth Chugh (Sam3360),MIT,36855,"Terminal-native LAN chat. No accounts, no cloud, no servers - just your local network."
+2026-09-28T08:36:53Z,dnscale,1.0.0,DNScale <ops@dnscale.eu>,MIT,311032,Official Python SDK for the DNScale API
+2026-09-28T08:47:04Z,odoo-addon-attachment-queue-email,18.0.1.0.0.2,"Akretion,Odoo Community Association (OCA)",AGPL-3,30315,Create attachment from emails to be processed depending on their type
+2026-09-28T08:47:54Z,deped-mapview,0.1.0,,,200363,Shared Django map encodings and Leaflet rendering
+2026-09-28T08:48:33Z,figmaclaw,0.2.14,Aviad Rozenhek <aviadr1@gmail.com>,MIT,526112,Figma → git semantic design memory for AI agents
+2026-09-28T09:03:41Z,serp-base64,0.1.0,Serpentine contributors,MIT,8372,Serpentine base64/base32/base16 codecs written in the Serpentine subset (str <-> str via UTF-8)
+2026-09-28T09:03:49Z,serp-csv,0.2.0,Serpentine contributors,MIT,8166,"Serpentine CSV reader/writer with RFC 4180 quoting, written in the Serpentine subset"
+2026-09-28T09:03:55Z,serp-hashlib,0.1.0,Serpentine contributors,MIT,5843,Serpentine hash digests: sha256/sha1/md5 hex of UTF-8 text (runtime-backed; stdlib hashlib delegate under CPython)
+2026-09-28T09:03:58Z,serp-json,0.3.0,Serpentine contributors,MIT,9690,"Serpentine JSON library: loads/dumps written in the Serpentine subset (compiles natively, runs under CPython)"
