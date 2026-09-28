@@ -1,0 +1,62 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T16:21:03Z,oxilite,0.8.0,Volodymyr Pavlyshyn,MIT OR Apache-2.0,52931729,"An Oxigraph-compatible SPARQL 1.1 store on SQLite, with openCypher, Datalog, reasoning, JSON-LD, Verifiable Credentials and time travel"
+2026-09-28T16:22:02Z,storepulse,0.1.0,Storepulse contributors,Apache-2.0,232626,Pull your App Store Connect and Google Play stats into SQLite and get a daily digest.
+2026-09-28T16:24:05Z,tonst,0.2.0a1,v-nightwolf <info@nightwolf.in>,MIT,283618,"Token optimization and security tool: prompt-caching structuring, PII redaction, and prompt trimming for LLM API calls."
+2026-09-28T16:25:05Z,minijx,0.1.0rc1,Juan Pablo Scaletti <juanpablo@jpscaletti.com>,MIT,840958,Jx components compiled to plain Python functions by a fast FreePascal compiler
+2026-09-28T16:25:17Z,survival-rl,0.0.2,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",10392,Explorations into Survival Reinforcement Learning
+2026-09-28T16:26:00Z,wexample-remote,1.0.1,weeger <contact@wexample.com>,MIT,6726,
+2026-09-28T16:26:03Z,outerspace-apizr-oci,0.4.0rc1,,GPL-3.0-or-later,56744,Official Apizr plugin for building local REST and MCP service images
+2026-09-28T16:26:07Z,shacl2cypher,0.3.0,,MIT,41081819,Compile SHACL shapes into Cypher diagnostic queries and validate Neo4j or LadybugDB graphs
+2026-09-28T16:27:53Z,flannrust,0.1.0,Itzik Ben-Shabat,BSD-2-Clause,1849182,"Bit-exact Rust port of nanoflann's kd-tree, Python bindings"
+2026-09-28T16:28:57Z,redherring,0.1.1,ixklo,MIT,103795,"Find the CI failures that weren't your fault: flaky tests and infrastructure hiccups, mined from the GitHub Actions history you already have."
+2026-09-28T16:32:18Z,yamluna,0.1.1,Vyron Vasileiadis <vyron@qilimanjaro.tech>,MIT OR Apache-2.0,2634486,"YAML for Python, out of the box: byte-identical round trips, and your own classes and third-party types saved and loaded as themselves. Rust core."
+2026-09-28T16:33:46Z,ironfang-render,1.0.0,Ironfang Ltd,MIT,23446,"Ironfang Render API client: screenshots, PDFs, QR codes, template images, clips and site previews from a URL or HTML."
+2026-09-28T16:33:47Z,ironfang-finance,1.0.0,Ironfang Ltd,MIT,44711,"Ironfang Finance API validation client and CLI: Peppol UBL, XRechnung and ZUGFeRD / Factur-X, as XML or PDF"
+2026-09-28T16:33:52Z,literium,0.1.0,Bojan Đuričković,MIT OR Apache-2.0,12031656,"The lit command-line tool: version control for literary texts, where the atom of change is the sentence (prose) or the line (poetry), not the line of code"
+2026-09-28T16:35:49Z,outerspace-apizr-mcp,0.4.0rc1,,GPL-3.0-or-later,42479,Optional local stdio MCP server for read-only Apizr analysis and planning
+2026-09-28T16:36:41Z,purebyte,1.0.0,Pablo Sirvent Jiménez <pablo@purebyte.ai>,Apache-2.0,5739726,"Tiny byte-level AI models on your CPU: the PureByte runtime, CLI and Python bindings (example specialists for credentials and personal data)."
+2026-09-28T16:39:14Z,scan-bench,0.2.0,,MIT,47788911,Surrogate benchmark library
+2026-09-28T16:40:28Z,outerspace-apizr-attest,0.4.0rc1,,GPL-3.0-or-later,46375,Optional Continuum Attest receipts for verified Apizr OCI deliveries
+2026-09-28T16:41:08Z,radreader,0.0.1,"Theo Dapamede <theo.dapamede@emory.edu>, Frank Li <frank.li@emory.edu>",Apache 2.0,10813,Lightweight DICOM reader for Python that returns an image a radiologist would see.
+2026-09-28T16:46:54Z,judgecheck,0.2.0,Alexander Theruviparambil,MIT,261352,"Validate LLM-as-judge reliability with inter-rater agreement, not accuracy."
+2026-09-28T16:49:55Z,arboresce,0.0.0,Tyson Lupul <tyson@arboresce.ai>,MIT OR Apache-2.0,644688,Python SDK for Arboresce.
+2026-09-28T16:49:57Z,frameroute,0.1.0,Asmitha,MIT,315862,"Budget-constrained frame selection for video AI pipelines — sample in change, not in time."
+2026-09-28T16:51:12Z,mcp-win-stdio-db,0.2.3,Mohan Kumar Indala,MIT,55374,"Unified Database Model Context Protocol (MCP) server for PostgreSQL & MySQL: 20 tools for multi-server querying, DBA operations (create, drop, clone, dump, terminate), and cross-schema auto-resolutio…"
+2026-09-28T16:51:19Z,capo-pricing-plan-manager,0.1.0,,,172561,Python SDK for Pricing Plan Manager.
+2026-09-28T16:51:30Z,mcp-win-stdio-excel,0.2.3,indala <indala@example.com>,MIT,40815,"Windows-optimized Model Context Protocol (MCP) server for Excel: 20 tools for Pandas queries, RapidFuzz reconciliation, cell editing, and native Excel COM automation (PDF export, recalc, pivots, macr…"
+2026-09-28T16:51:37Z,nano-ext,1.1.0,Eiji KATO,MIT,2315808,"Nanopore current-trace event detection: objective thresholds, sub-level and HMM analysis, Bayesian statistics, and a browser GUI"
+2026-09-28T16:51:49Z,mcp-win-stdio-explorer,0.2.3,indala <indala@example.com>,MIT,42371,"Lightweight Model Context Protocol (MCP) server for token-safe workspace exploration: collapsible directory trees, dynamic .gitignore resolution, in-file grep, RapidFuzz fuzzy search, and AST code ou…"
+2026-09-28T16:51:53Z,capo-proton,0.1.0,,,693516,Python SDK for Proton.
+2026-09-28T16:52:10Z,mcp-win-stdio-git,0.2.3,Mohan Kumar Indala,MIT,39901,Unified Git & GitHub Model Context Protocol (MCP) server for Windows & Claude: 26 tools combining local Git repository management and remote GitHub CLI (gh) operations with hybrid synergy workflows.
+2026-09-28T16:52:21Z,altirs-sdk,0.1.1,Altirs <support@altirs.ai>,MIT,11939,Python SDK for the Altirs (Guardrails-as-a-Service) API
+2026-09-28T16:52:42Z,capo-qapps,0.1.0,,,353951,Python SDK for Qapps.
+2026-09-28T16:53:22Z,capo-qbusiness,0.1.0,,,856858,Python SDK for Qbusiness.
+2026-09-28T16:54:06Z,capo-qconnect,0.1.0,,,930403,Python SDK for Qconnect.
+2026-09-28T16:54:52Z,capo-quicksight,0.1.0,,,3678101,Python SDK for Quicksight.
+2026-09-28T16:55:32Z,capo-ram,0.1.0,,,414210,Python SDK for RAM.
+2026-09-28T16:56:13Z,capo-rbin,0.1.0,,,169582,Python SDK for Rbin.
+2026-09-28T16:57:19Z,capo-rds-data,0.1.0,,,182080,Python SDK for RDS Data.
+2026-09-28T16:57:46Z,migraphx-libs,0.0.1,"""Advanced Micro Devices, Inc."" <rocm-feedback@amd.com>",,1948,Placeholder reserving the AMD MIGraphX runtime libraries name; official releases forthcoming
+2026-09-28T16:58:06Z,capo-redshift,0.1.0,,,1505112,Python SDK for Redshift.
+2026-09-28T16:59:03Z,dssatlab,0.1.0,,BSD-3-Clause,8582,Basic environment diagnostics for DSSATLab users.
+2026-09-28T16:59:48Z,bluethroat,0.1.1,iamwehi,,28185,Command-line client for BlueSkills
+2026-09-28T17:00:35Z,capo-redshift-data,0.1.0,,,212001,Python SDK for Redshift Data.
+2026-09-28T17:01:26Z,capo-redshift-serverless,0.1.0,,,549985,Python SDK for Redshift Serverless.
+2026-09-28T17:02:17Z,capo-rekognition,0.1.0,,,979522,Python SDK for Rekognition.
+2026-09-28T17:02:59Z,capo-repostspace,0.1.0,,,219785,Python SDK for Repostspace.
+2026-09-28T17:03:31Z,cleanplan,0.1.0,Alper Karatas,MIT,55601,"Reviewable, rule-aware data cleaning for pandas: inspect, plan, apply, validate."
+2026-09-28T17:03:49Z,capo-resiliencehub,0.1.0,,,650373,Python SDK for Resiliencehub.
+2026-09-28T17:04:31Z,capo-resiliencehubv2,0.1.0,,,502173,Python SDK for Resiliencehubv2.
+2026-09-28T17:05:21Z,capo-resource-explorer-2,0.1.0,,,319202,Python SDK for Resource Explorer 2.
+2026-09-28T17:06:03Z,capo-resource-groups,0.1.0,,,298032,Python SDK for Resource Groups.
+2026-09-28T17:06:46Z,migraphx,0.0.1,"""Advanced Micro Devices, Inc."" <rocm-feedback@amd.com>",,1892,Placeholder reserving the AMD MIGraphX Python package name; official releases forthcoming
+2026-09-28T17:06:52Z,capo-resource-groups-tagging-api,0.1.0,,,208039,Python SDK for Resource Groups Tagging API.
+2026-09-28T17:07:32Z,capo-rolesanywhere,0.1.0,,,238851,Python SDK for Rolesanywhere.
+2026-09-28T17:08:26Z,repomind-local,0.3.2,Md Azhar,MIT,64850,"Local repository investigations with specialist agents, a critic, and test-proven patches. Command: repomind"
+2026-09-28T17:09:49Z,atomicdjt-trajectory-fidelity-bridge,0.4.1,David Turner,MIT,106660,ATIF-based reference implementation for portable coding-agent trajectories with explicit fidelity and loss reporting.
+2026-09-28T17:13:00Z,isaaccapture,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1061,Zero version placeholder for isaaccapture
+2026-09-28T17:13:39Z,aerographite,1.0.0,Alice Sell <alice@alicela1n.space>,MIT,13658,Tiny lightweight static site generator written in Python that uses markdown and liquid to generate a website.
+2026-09-28T17:15:35Z,emalign-phonology,0.1.0,Changeling Lab <changeling@example.com>,MIT,49421,EM-based alignment of cognate sets in comparative dictionaries using articulatory features
+2026-09-28T17:16:26Z,pramana-mcp,0.1.0,Sahil Pandey <sahil@reliai.in>,Apache-2.0,20968,"MCP server for Pramana — ask your assistant what changed when you swapped a model or edited a prompt, against your own recorded production runs."
+2026-09-28T17:16:36Z,modern-collections,0.1.0,Modern Collections,Proprietary,112733,"Official client, CLI, and MCP server for the Modern Collections external REST API"
+2026-09-28T17:16:51Z,traceiq-capture,0.1.0,TraceIQ,MIT,29769,TraceIQ Capture — OpenTelemetry instrumentation with a locked attribute contract

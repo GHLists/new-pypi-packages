@@ -8,91 +8,72 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 16:20 UTC
+## Latest list — 2026-09-28 17:18 UTC
 
-New packages created between 2026-09-28 15:20 UTC and 2026-09-28 16:20 UTC.
+New packages created between 2026-09-28 16:20 UTC and 2026-09-28 17:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-28T16-20-48-827Z.csv)
+[Full CSV](data/new-packages-2026-09-28T17-18-56-029349Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-28 15:20:12 | [wexample-wallet](https://pypi.org/project/wexample-wallet/) | 1.0.1 | weeger <contact@wexample.com> | 6.7 kB |  |
-| 2026-09-28 15:21:46 | [bezierkit](https://pypi.org/project/bezierkit/) | 0.5.0rc1 | EconViz | 219.1 kB | A small mathematical toolkit for constructing and analyzing Bezier curves. |
-| 2026-09-28 15:22:24 | [thearc](https://pypi.org/project/thearc/) | 0.1.0 |  | 344.0 kB | Agent-agnostic plugin & skill installer system for Codex, Claude, and Antigravi… |
-| 2026-09-28 15:23:42 | [gitpair](https://pypi.org/project/gitpair/) | 0.1.0 | Fábio Macêdo Mendes | 66.5 kB | Keep git repositories in sync between two machines over ssh. |
-| 2026-09-28 15:23:55 | [aice-core](https://pypi.org/project/aice-core/) | 0.3.0 | Adanian Labs <engineering@ada… | 64.0 kB | Shared HTTP transport, retry, error and auth primitives for the AICE Python SDKs |
-| 2026-09-28 15:24:25 | [aice-agent-platform](https://pypi.org/project/aice-agent-platform/) | 0.2.1 | Adanian Labs <engineering@ada… | 12.6 kB | Python SDK for the AICE Agent Platform (config-driven LangGraph agent runtime) |
-| 2026-09-28 15:24:28 | [aice-crawler](https://pypi.org/project/aice-crawler/) | 0.1.2 | Adanian Labs <engineering@ada… | 7.4 kB | Python SDK for the AICE Crawler Service |
-| 2026-09-28 15:24:31 | [aice-data-brain](https://pypi.org/project/aice-data-brain/) | 0.1.2 | Adanian Labs <engineering@ada… | 7.3 kB | Python SDK for the AICE Data Brain multi-source data connection + query layer |
-| 2026-09-28 15:25:08 | [pyagilentxgs600-tspspi](https://pypi.org/project/pyagilentxgs600-tspspi/) | 0.0.1 | Thomas Spielauer <pypipackage… | 28.2 kB | Unofficial Python library for the Agilent XGS-600 gauge controller |
-| 2026-09-28 15:25:29 | [arc56-generated-mritn-64ae53a5](https://pypi.org/project/arc56-generated-mritn-64ae53a5/) | 1.1.2026092815 | mritnycodes | 16.4 kB | Generated ARC-56 Algorand smart-contract clients for mritnycodes/verithread. |
-| 2026-09-28 15:25:34 | [saddle-harness](https://pypi.org/project/saddle-harness/) | 0.1.0 | Eliza Halpern, Eryn Lipkowitz | 3.6 MB | Deterministic execution harness for non-deterministic local LLMs. |
-| 2026-09-28 15:26:41 | [cidra](https://pypi.org/project/cidra/) | 0.1.0 | CIDRA Team | 113.8 kB | Continuous Integration Debugging and Repair Agent |
-| 2026-09-28 15:27:18 | [allevitas-agent-kit](https://pypi.org/project/allevitas-agent-kit/) | 1.0.0 | Allevitas Project | 72.3 kB | Official Python SDK and CLI for Allevitas AI agent platform |
-| 2026-09-28 15:27:34 | [netclab](https://pypi.org/project/netclab/) | 0.6.0 | mbakalarski | 32.2 kB | Bring up a network lab on kind: the cluster, Multus, a registry, and the netcla… |
-| 2026-09-28 15:27:51 | [l2o-qc](https://pypi.org/project/l2o-qc/) | 0.1.0a1 | RL2Ocean Project Contributors | 294.9 kB | ESA ROSE-L Level-2 Ocean Processor Quality Control Library |
-| 2026-09-28 15:28:09 | [claude-accounts-dash](https://pypi.org/project/claude-accounts-dash/) | 0.1.5 | Eren Karakoç | 67.8 kB | Local dashboard for your Claude accounts: usage limits, sessions, projects and… |
-| 2026-09-28 15:29:55 | [arc56-generated-cusma-d-asa](https://pypi.org/project/arc56-generated-cusma-d-asa/) | 1.2.2026072010 | cusma | 17.9 kB | Generated ARC-56 Algorand smart-contract clients for cusma/d-asa. |
-| 2026-09-28 15:30:07 | [rule-doctor-lite](https://pypi.org/project/rule-doctor-lite/) | 0.2.1 | ATK New Technology <dongnx@at… | 26.0 kB | Find custom Wazuh rules that never fire, including rules dropped at load (7617/… |
-| 2026-09-28 15:30:59 | [arc56-generated-d13co-ff-black](https://pypi.org/project/arc56-generated-d13co-ff-black/) | 1.2.2026072010 | d13co | 17.4 kB | Generated ARC-56 Algorand smart-contract clients for d13co/ff-black. |
-| 2026-09-28 15:32:03 | [arc56-generated-d13co-ghostkit](https://pypi.org/project/arc56-generated-d13co-ghostkit/) | 1.2.2026072010 | d13co | 13.1 kB | Generated ARC-56 Algorand smart-contract clients for d13co/ghostkit. |
-| 2026-09-28 15:32:28 | [librus-synergia](https://pypi.org/project/librus-synergia/) | 0.1.0 | Michał Zaniewicz | 93.9 kB | Unofficial async Python client for Librus Synergia (Polish school e-gradebook) |
-| 2026-09-28 15:34:44 | [capo-oam](https://pypi.org/project/capo-oam/) | 0.1.0 |  | 193.4 kB | Python SDK for OAM. |
-| 2026-09-28 15:35:00 | [leann-backend-ivf](https://pypi.org/project/leann-backend-ivf/) | 0.3.6 |  | 5.8 kB | FAISS IVF backend for LEANN with add/delete support for incremental updates. |
-| 2026-09-28 15:35:19 | [capo-observabilityadmin](https://pypi.org/project/capo-observabilityadmin/) | 0.1.0 |  | 393.8 kB | Python SDK for Observabilityadmin. |
-| 2026-09-28 15:36:05 | [capo-odb](https://pypi.org/project/capo-odb/) | 0.1.0 |  | 688.2 kB | Python SDK for ODB. |
-| 2026-09-28 15:36:45 | [capo-omics](https://pypi.org/project/capo-omics/) | 0.1.0 |  | 899.8 kB | Python SDK for Omics. |
-| 2026-09-28 15:37:32 | [capo-opensearch](https://pypi.org/project/capo-opensearch/) | 0.1.0 |  | 934.5 kB | Python SDK for Opensearch. |
-| 2026-09-28 15:38:10 | [capo-opensearchserverless](https://pypi.org/project/capo-opensearchserverless/) | 0.1.0 |  | 438.3 kB | Python SDK for Opensearchserverless. |
-| 2026-09-28 15:38:54 | [capo-organizations](https://pypi.org/project/capo-organizations/) | 0.1.0 |  | 842.9 kB | Python SDK for Organizations. |
-| 2026-09-28 15:39:33 | [capo-osis](https://pypi.org/project/capo-osis/) | 0.1.0 |  | 247.1 kB | Python SDK for OSIS. |
-| 2026-09-28 15:40:16 | [capo-outposts](https://pypi.org/project/capo-outposts/) | 0.1.0 |  | 472.7 kB | Python SDK for Outposts. |
-| 2026-09-28 15:40:58 | [capo-panorama](https://pypi.org/project/capo-panorama/) | 0.1.0 |  | 359.8 kB | Python SDK for Panorama. |
-| 2026-09-28 15:41:53 | [capo-partnercentral-account](https://pypi.org/project/capo-partnercentral-account/) | 0.1.0 |  | 340.8 kB | Python SDK for Partnercentral Account. |
-| 2026-09-28 15:42:23 | [dorksmith](https://pypi.org/project/dorksmith/) | 0.1.0 | aelena | 102.3 kB | Deterministic search-dork generator and OSINT/SOCMINT query engine. Catalog-dri… |
-| 2026-09-28 15:42:33 | [capo-partnercentral-benefits](https://pypi.org/project/capo-partnercentral-benefits/) | 0.1.0 |  | 254.5 kB | Python SDK for Partnercentral Benefits. |
-| 2026-09-28 15:43:15 | [capo-partnercentral-channel](https://pypi.org/project/capo-partnercentral-channel/) | 0.1.0 |  | 265.8 kB | Python SDK for Partnercentral Channel. |
-| 2026-09-28 15:43:49 | [capo-partnercentral-selling](https://pypi.org/project/capo-partnercentral-selling/) | 0.1.0 |  | 663.5 kB | Python SDK for Partnercentral Selling. |
-| 2026-09-28 15:44:23 | [warrant-cli](https://pypi.org/project/warrant-cli/) | 0.1.0 | mv2a | 73.1 kB | Humans state intent. Agents write the code. Evidence decides what ships. |
-| 2026-09-28 15:44:40 | [capo-payment-cryptography](https://pypi.org/project/capo-payment-cryptography/) | 0.1.0 |  | 399.9 kB | Python SDK for Payment Cryptography. |
-| 2026-09-28 15:45:15 | [capo-payment-cryptography-data](https://pypi.org/project/capo-payment-cryptography-data/) | 0.1.0 |  | 347.5 kB | Python SDK for Payment Cryptography Data. |
-| 2026-09-28 15:45:59 | [capo-pca-connector-ad](https://pypi.org/project/capo-pca-connector-ad/) | 0.1.0 |  | 301.6 kB | Python SDK for Pca Connector Ad. |
-| 2026-09-28 15:46:34 | [capo-pca-connector-scep](https://pypi.org/project/capo-pca-connector-scep/) | 0.1.0 |  | 175.5 kB | Python SDK for Pca Connector Scep. |
-| 2026-09-28 15:47:05 | [saisrikiran_agentic_terminal](https://pypi.org/project/saisrikiran_agentic_terminal/) | 0.1.1 |  | 5.3 kB | An MCP which adds terminal capabilities to the agent. |
-| 2026-09-28 15:47:17 | [capo-pcs](https://pypi.org/project/capo-pcs/) | 0.1.0 |  | 265.7 kB | Python SDK for PCS. |
-| 2026-09-28 15:47:26 | [papollo](https://pypi.org/project/papollo/) | 0.1.0 |  | 13.6 kB | Python client for Apollo config center, with sync and async support |
-| 2026-09-28 15:47:48 | [proofage](https://pypi.org/project/proofage/) | 0.1.0 | ProofAge <support@proofage.xy… | 92.1 kB | Python client for the ProofAge age and identity verification API |
-| 2026-09-28 15:47:52 | [capo-personalize](https://pypi.org/project/capo-personalize/) | 0.1.0 |  | 623.0 kB | Python SDK for Personalize. |
-| 2026-09-28 15:48:35 | [twin-fabric](https://pypi.org/project/twin-fabric/) | 0.1.0 |  | 21.0 kB | Nested digital twins with a consistency gate |
-| 2026-09-28 15:48:42 | [capo-personalize-events](https://pypi.org/project/capo-personalize-events/) | 0.1.0 |  | 130.6 kB | Python SDK for Personalize Events. |
-| 2026-09-28 15:49:17 | [capo-personalize-runtime](https://pypi.org/project/capo-personalize-runtime/) | 0.1.0 |  | 132.3 kB | Python SDK for Personalize Runtime. |
-| 2026-09-28 15:50:00 | [capo-pi](https://pypi.org/project/capo-pi/) | 0.1.0 |  | 248.0 kB | Python SDK for PI. |
-| 2026-09-28 15:50:47 | [capo-pinpoint](https://pypi.org/project/capo-pinpoint/) | 0.1.0 |  | 1.0 MB | Python SDK for Pinpoint. |
-| 2026-09-28 15:51:10 | [vqrng](https://pypi.org/project/vqrng/) | 0.4.1 | Frankie Li | 141.7 kB | Research-grade verifiable quantum random number generator: Python SDK and Unix… |
-| 2026-09-28 15:51:29 | [capo-pinpoint-email](https://pypi.org/project/capo-pinpoint-email/) | 0.1.0 |  | 421.1 kB | Python SDK for Pinpoint Email. |
-| 2026-09-28 15:51:32 | [pg-quaestor](https://pypi.org/project/pg-quaestor/) | 0.1.0 | Kristof Csillag <kristof.csil… | 21.2 kB | Lightweight PostgreSQL migration module with named migrations and dependency re… |
-| 2026-09-28 15:52:11 | [capo-pinpoint-sms-voice](https://pypi.org/project/capo-pinpoint-sms-voice/) | 0.1.0 |  | 146.4 kB | Python SDK for Pinpoint Sms Voice. |
-| 2026-09-28 15:52:35 | [faultscope](https://pypi.org/project/faultscope/) | 0.2.11 | FaultScope contributors | 6.9 MB | Noise-aware QEC fault attribution toolkit with a Rust core and Python API |
-| 2026-09-28 15:52:57 | [capo-pinpoint-sms-voice-v2](https://pypi.org/project/capo-pinpoint-sms-voice-v2/) | 0.1.0 |  | 991.2 kB | Python SDK for Pinpoint Sms Voice V2. |
-| 2026-09-28 15:53:11 | [faultscope-pymatching](https://pypi.org/project/faultscope-pymatching/) | 0.2.11 | FaultScope contributors | 1.9 MB | Official FaultScope PyMatching native decoder backend |
-| 2026-09-28 15:53:46 | [capo-pipes](https://pypi.org/project/capo-pipes/) | 0.1.0 |  | 315.1 kB | Python SDK for Pipes. |
-| 2026-09-28 15:54:28 | [capo-polly](https://pypi.org/project/capo-polly/) | 0.1.0 |  | 228.3 kB | Python SDK for Polly. |
-| 2026-09-28 15:55:10 | [capo-pricing](https://pypi.org/project/capo-pricing/) | 0.1.0 |  | 145.8 kB | Python SDK for Pricing. |
-| 2026-09-28 15:57:23 | [postali-api](https://pypi.org/project/postali-api/) | 0.1.0 | Postali <hi@postali.app> | 25.6 kB | Cliente oficial de la API gratuita de códigos postales de Postali (México, Colo… |
-| 2026-09-28 15:58:55 | [tirx-harness](https://pypi.org/project/tirx-harness/) | 0.1.0rc0 |  | 12.8 MB | Installable inspection and simulation tools for TIRx kernels |
-| 2026-09-28 15:59:16 | [django-currency-amount-field](https://pypi.org/project/django-currency-amount-field/) | 1.0.0 | Omid Shojaee <omid.shojaee@gm… | 19.4 kB | A Django DecimalField subclass for monetary amounts with a comma-grouping admin… |
-| 2026-09-28 16:01:45 | [shrencode](https://pypi.org/project/shrencode/) | 0.1.0 |  | 74.3 kB | Re-encode video into small viewing copies, adapting to each file |
-| 2026-09-28 16:02:05 | [uk-bank-rate](https://pypi.org/project/uk-bank-rate/) | 0.2.1 | Bhupen Varsani | 24.3 kB | The UK Bank Rate from the Bank of England Database, with the MPC schedule and h… |
-| 2026-09-28 16:02:21 | [risearch](https://pypi.org/project/risearch/) | 3.0.0a4 | Stefano Roncelli <stefano.ron… | 1.8 MB | Fast RNA and DNA interaction search, returning Polars DataFrames |
-| 2026-09-28 16:02:33 | [nico579-commons](https://pypi.org/project/nico579-commons/) | 0.1.0 |  | 37.1 kB | Briques communes à blink2video, lidar2map, watch2notif et gpxsolar |
-| 2026-09-28 16:02:33 | [reconcile-py](https://pypi.org/project/reconcile-py/) | 0.1.0 |  | 57.4 kB | Deterministic, explainable fuzzy reconciliation of financial record sets. |
-| 2026-09-28 16:06:41 | [opencode-fleet](https://pypi.org/project/opencode-fleet/) | 0.2.0 |  | 69.7 kB | Run and coordinate a fleet of OpenCode agents from the command line |
-| 2026-09-28 16:07:22 | [runorca](https://pypi.org/project/runorca/) | 0.3.0 | The Orca Authors | 591.8 kB | Python client for the Orca Agent Engine API |
-| 2026-09-28 16:09:41 | [trifectaguard](https://pypi.org/project/trifectaguard/) | 0.1.1 |  | 120.4 kB | Information-flow control for AI agents: stop tool calls that move untrusted-inf… |
-| 2026-09-28 16:09:50 | [graftdb](https://pypi.org/project/graftdb/) | 0.1.0 |  | 25.3 MB | PostgreSQL 17 on a directory or an S3 bucket, bundled: graftdb.url() for any Po… |
-| 2026-09-28 16:11:28 | [opensynthlab](https://pypi.org/project/opensynthlab/) | 0.1.0a1 | OpenSynthLab contributors | 26.8 kB | Configurable synthetic data workflows for LLMs: template-based generation, vali… |
-| 2026-09-28 16:11:55 | [laravel-cloud-queues](https://pypi.org/project/laravel-cloud-queues/) | 0.1.0 |  | 212.5 kB | Laravel Cloud queues for Python: managed queues, plus SQS and Redis/Valkey on w… |
-| 2026-09-28 16:16:35 | [qusec](https://pypi.org/project/qusec/) | 0.1.0 | QuSec Developers | 24.2 kB | Quantum Security Framework for Quantum Digital Signature Threat Detection |
-| 2026-09-28 16:17:52 | [contextgc](https://pypi.org/project/contextgc/) | 0.4.1 | Jay Gopal Tripathy | 300.7 kB | Deterministic context compiler for AI agent transcripts. Retires superseded fac… |
-| 2026-09-28 16:18:09 | [oxyscraper](https://pypi.org/project/oxyscraper/) | 0.0.1 | Ozan Ozbeker | 5.1 kB | Unofficial Python library and CLI for the Oxylabs Web Scraper API. |
-| 2026-09-28 16:20:23 | [pyNISAR](https://pypi.org/project/pyNISAR/) | 0.1.0a1 | Cesar Alvites | 6.7 MB | NISAR L-band SAR inspection, polarimetry and reproducible geospatial products |
+| 2026-09-28 16:21:03 | [oxilite](https://pypi.org/project/oxilite/) | 0.8.0 | Volodymyr Pavlyshyn | 52.9 MB | An Oxigraph-compatible SPARQL 1.1 store on SQLite, with openCypher, Datalog, re… |
+| 2026-09-28 16:22:02 | [storepulse](https://pypi.org/project/storepulse/) | 0.1.0 | Storepulse contributors | 232.6 kB | Pull your App Store Connect and Google Play stats into SQLite and get a daily d… |
+| 2026-09-28 16:24:05 | [tonst](https://pypi.org/project/tonst/) | 0.2.0a1 | v-nightwolf <info@nightwolf.i… | 283.6 kB | Token optimization and security tool: prompt-caching structuring, PII redaction… |
+| 2026-09-28 16:25:05 | [minijx](https://pypi.org/project/minijx/) | 0.1.0rc1 | Juan Pablo Scaletti <juanpabl… | 841.0 kB | Jx components compiled to plain Python functions by a fast FreePascal compiler |
+| 2026-09-28 16:25:17 | [survival-rl](https://pypi.org/project/survival-rl/) | 0.0.2 | Phil Wang <lucidrains@gmail.c… | 10.4 kB | Explorations into Survival Reinforcement Learning |
+| 2026-09-28 16:26:00 | [wexample-remote](https://pypi.org/project/wexample-remote/) | 1.0.1 | weeger <contact@wexample.com> | 6.7 kB |  |
+| 2026-09-28 16:26:03 | [outerspace-apizr-oci](https://pypi.org/project/outerspace-apizr-oci/) | 0.4.0rc1 |  | 56.7 kB | Official Apizr plugin for building local REST and MCP service images |
+| 2026-09-28 16:26:07 | [shacl2cypher](https://pypi.org/project/shacl2cypher/) | 0.3.0 |  | 41.1 MB | Compile SHACL shapes into Cypher diagnostic queries and validate Neo4j or Ladyb… |
+| 2026-09-28 16:27:53 | [flannrust](https://pypi.org/project/flannrust/) | 0.1.0 | Itzik Ben-Shabat | 1.8 MB | Bit-exact Rust port of nanoflann's kd-tree, Python bindings |
+| 2026-09-28 16:28:57 | [redherring](https://pypi.org/project/redherring/) | 0.1.1 | ixklo | 103.8 kB | Find the CI failures that weren't your fault: flaky tests and infrastructure hi… |
+| 2026-09-28 16:32:18 | [yamluna](https://pypi.org/project/yamluna/) | 0.1.1 | Vyron Vasileiadis <vyron@qili… | 2.6 MB | YAML for Python, out of the box: byte-identical round trips, and your own class… |
+| 2026-09-28 16:33:46 | [ironfang-render](https://pypi.org/project/ironfang-render/) | 1.0.0 | Ironfang Ltd | 23.4 kB | Ironfang Render API client: screenshots, PDFs, QR codes, template images, clips… |
+| 2026-09-28 16:33:47 | [ironfang-finance](https://pypi.org/project/ironfang-finance/) | 1.0.0 | Ironfang Ltd | 44.7 kB | Ironfang Finance API validation client and CLI: Peppol UBL, XRechnung and ZUGFe… |
+| 2026-09-28 16:33:52 | [literium](https://pypi.org/project/literium/) | 0.1.0 | Bojan Đuričković | 12.0 MB | The lit command-line tool: version control for literary texts, where the atom o… |
+| 2026-09-28 16:35:49 | [outerspace-apizr-mcp](https://pypi.org/project/outerspace-apizr-mcp/) | 0.4.0rc1 |  | 42.5 kB | Optional local stdio MCP server for read-only Apizr analysis and planning |
+| 2026-09-28 16:36:41 | [purebyte](https://pypi.org/project/purebyte/) | 1.0.0 | Pablo Sirvent Jiménez <pablo@… | 5.7 MB | Tiny byte-level AI models on your CPU: the PureByte runtime, CLI and Python bin… |
+| 2026-09-28 16:39:14 | [scan-bench](https://pypi.org/project/scan-bench/) | 0.2.0 |  | 47.8 MB | Surrogate benchmark library |
+| 2026-09-28 16:40:28 | [outerspace-apizr-attest](https://pypi.org/project/outerspace-apizr-attest/) | 0.4.0rc1 |  | 46.4 kB | Optional Continuum Attest receipts for verified Apizr OCI deliveries |
+| 2026-09-28 16:41:08 | [radreader](https://pypi.org/project/radreader/) | 0.0.1 | Theo Dapamede <theo.dapamede@… | 10.8 kB | Lightweight DICOM reader for Python that returns an image a radiologist would s… |
+| 2026-09-28 16:46:54 | [judgecheck](https://pypi.org/project/judgecheck/) | 0.2.0 | Alexander Theruviparambil | 261.4 kB | Validate LLM-as-judge reliability with inter-rater agreement, not accuracy. |
+| 2026-09-28 16:49:55 | [arboresce](https://pypi.org/project/arboresce/) | 0.0.0 | Tyson Lupul <tyson@arboresce.… | 644.7 kB | Python SDK for Arboresce. |
+| 2026-09-28 16:49:57 | [frameroute](https://pypi.org/project/frameroute/) | 0.1.0 | Asmitha | 315.9 kB | Budget-constrained frame selection for video AI pipelines — sample in change, n… |
+| 2026-09-28 16:51:12 | [mcp-win-stdio-db](https://pypi.org/project/mcp-win-stdio-db/) | 0.2.3 | Mohan Kumar Indala | 55.4 kB | Unified Database Model Context Protocol (MCP) server for PostgreSQL & MySQL: 20… |
+| 2026-09-28 16:51:19 | [capo-pricing-plan-manager](https://pypi.org/project/capo-pricing-plan-manager/) | 0.1.0 |  | 172.6 kB | Python SDK for Pricing Plan Manager. |
+| 2026-09-28 16:51:30 | [mcp-win-stdio-excel](https://pypi.org/project/mcp-win-stdio-excel/) | 0.2.3 | indala <indala@example.com> | 40.8 kB | Windows-optimized Model Context Protocol (MCP) server for Excel: 20 tools for P… |
+| 2026-09-28 16:51:37 | [nano-ext](https://pypi.org/project/nano-ext/) | 1.1.0 | Eiji KATO | 2.3 MB | Nanopore current-trace event detection: objective thresholds, sub-level and HMM… |
+| 2026-09-28 16:51:49 | [mcp-win-stdio-explorer](https://pypi.org/project/mcp-win-stdio-explorer/) | 0.2.3 | indala <indala@example.com> | 42.4 kB | Lightweight Model Context Protocol (MCP) server for token-safe workspace explor… |
+| 2026-09-28 16:51:53 | [capo-proton](https://pypi.org/project/capo-proton/) | 0.1.0 |  | 693.5 kB | Python SDK for Proton. |
+| 2026-09-28 16:52:10 | [mcp-win-stdio-git](https://pypi.org/project/mcp-win-stdio-git/) | 0.2.3 | Mohan Kumar Indala | 39.9 kB | Unified Git & GitHub Model Context Protocol (MCP) server for Windows & Claude:… |
+| 2026-09-28 16:52:21 | [altirs-sdk](https://pypi.org/project/altirs-sdk/) | 0.1.1 | Altirs <support@altirs.ai> | 11.9 kB | Python SDK for the Altirs (Guardrails-as-a-Service) API |
+| 2026-09-28 16:52:42 | [capo-qapps](https://pypi.org/project/capo-qapps/) | 0.1.0 |  | 354.0 kB | Python SDK for Qapps. |
+| 2026-09-28 16:53:22 | [capo-qbusiness](https://pypi.org/project/capo-qbusiness/) | 0.1.0 |  | 856.9 kB | Python SDK for Qbusiness. |
+| 2026-09-28 16:54:06 | [capo-qconnect](https://pypi.org/project/capo-qconnect/) | 0.1.0 |  | 930.4 kB | Python SDK for Qconnect. |
+| 2026-09-28 16:54:52 | [capo-quicksight](https://pypi.org/project/capo-quicksight/) | 0.1.0 |  | 3.7 MB | Python SDK for Quicksight. |
+| 2026-09-28 16:55:32 | [capo-ram](https://pypi.org/project/capo-ram/) | 0.1.0 |  | 414.2 kB | Python SDK for RAM. |
+| 2026-09-28 16:56:13 | [capo-rbin](https://pypi.org/project/capo-rbin/) | 0.1.0 |  | 169.6 kB | Python SDK for Rbin. |
+| 2026-09-28 16:57:19 | [capo-rds-data](https://pypi.org/project/capo-rds-data/) | 0.1.0 |  | 182.1 kB | Python SDK for RDS Data. |
+| 2026-09-28 16:57:46 | [migraphx-libs](https://pypi.org/project/migraphx-libs/) | 0.0.1 | "Advanced Micro Devices, Inc.… | 1.9 kB | Placeholder reserving the AMD MIGraphX runtime libraries name; official release… |
+| 2026-09-28 16:58:06 | [capo-redshift](https://pypi.org/project/capo-redshift/) | 0.1.0 |  | 1.5 MB | Python SDK for Redshift. |
+| 2026-09-28 16:59:03 | [dssatlab](https://pypi.org/project/dssatlab/) | 0.1.0 |  | 8.6 kB | Basic environment diagnostics for DSSATLab users. |
+| 2026-09-28 16:59:48 | [bluethroat](https://pypi.org/project/bluethroat/) | 0.1.1 | iamwehi | 28.2 kB | Command-line client for BlueSkills |
+| 2026-09-28 17:00:35 | [capo-redshift-data](https://pypi.org/project/capo-redshift-data/) | 0.1.0 |  | 212.0 kB | Python SDK for Redshift Data. |
+| 2026-09-28 17:01:26 | [capo-redshift-serverless](https://pypi.org/project/capo-redshift-serverless/) | 0.1.0 |  | 550.0 kB | Python SDK for Redshift Serverless. |
+| 2026-09-28 17:02:17 | [capo-rekognition](https://pypi.org/project/capo-rekognition/) | 0.1.0 |  | 979.5 kB | Python SDK for Rekognition. |
+| 2026-09-28 17:02:59 | [capo-repostspace](https://pypi.org/project/capo-repostspace/) | 0.1.0 |  | 219.8 kB | Python SDK for Repostspace. |
+| 2026-09-28 17:03:31 | [cleanplan](https://pypi.org/project/cleanplan/) | 0.1.0 | Alper Karatas | 55.6 kB | Reviewable, rule-aware data cleaning for pandas: inspect, plan, apply, validate. |
+| 2026-09-28 17:03:49 | [capo-resiliencehub](https://pypi.org/project/capo-resiliencehub/) | 0.1.0 |  | 650.4 kB | Python SDK for Resiliencehub. |
+| 2026-09-28 17:04:31 | [capo-resiliencehubv2](https://pypi.org/project/capo-resiliencehubv2/) | 0.1.0 |  | 502.2 kB | Python SDK for Resiliencehubv2. |
+| 2026-09-28 17:05:21 | [capo-resource-explorer-2](https://pypi.org/project/capo-resource-explorer-2/) | 0.1.0 |  | 319.2 kB | Python SDK for Resource Explorer 2. |
+| 2026-09-28 17:06:03 | [capo-resource-groups](https://pypi.org/project/capo-resource-groups/) | 0.1.0 |  | 298.0 kB | Python SDK for Resource Groups. |
+| 2026-09-28 17:06:46 | [migraphx](https://pypi.org/project/migraphx/) | 0.0.1 | "Advanced Micro Devices, Inc.… | 1.9 kB | Placeholder reserving the AMD MIGraphX Python package name; official releases f… |
+| 2026-09-28 17:06:52 | [capo-resource-groups-tagging-api](https://pypi.org/project/capo-resource-groups-tagging-api/) | 0.1.0 |  | 208.0 kB | Python SDK for Resource Groups Tagging API. |
+| 2026-09-28 17:07:32 | [capo-rolesanywhere](https://pypi.org/project/capo-rolesanywhere/) | 0.1.0 |  | 238.9 kB | Python SDK for Rolesanywhere. |
+| 2026-09-28 17:08:26 | [repomind-local](https://pypi.org/project/repomind-local/) | 0.3.2 | Md Azhar | 64.8 kB | Local repository investigations with specialist agents, a critic, and test-prov… |
+| 2026-09-28 17:09:49 | [atomicdjt-trajectory-fidelity-bridge](https://pypi.org/project/atomicdjt-trajectory-fidelity-bridge/) | 0.4.1 | David Turner | 106.7 kB | ATIF-based reference implementation for portable coding-agent trajectories with… |
+| 2026-09-28 17:13:00 | [isaaccapture](https://pypi.org/project/isaaccapture/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for isaaccapture |
+| 2026-09-28 17:13:39 | [aerographite](https://pypi.org/project/aerographite/) | 1.0.0 | Alice Sell <alice@alicela1n.s… | 13.7 kB | Tiny lightweight static site generator written in Python that uses markdown and… |
+| 2026-09-28 17:15:35 | [emalign-phonology](https://pypi.org/project/emalign-phonology/) | 0.1.0 | Changeling Lab <changeling@ex… | 49.4 kB | EM-based alignment of cognate sets in comparative dictionaries using articulato… |
+| 2026-09-28 17:16:26 | [pramana-mcp](https://pypi.org/project/pramana-mcp/) | 0.1.0 | Sahil Pandey <sahil@reliai.in> | 21.0 kB | MCP server for Pramana — ask your assistant what changed when you swapped a mod… |
+| 2026-09-28 17:16:36 | [modern-collections](https://pypi.org/project/modern-collections/) | 0.1.0 | Modern Collections | 112.7 kB | Official client, CLI, and MCP server for the Modern Collections external REST A… |
+| 2026-09-28 17:16:51 | [traceiq-capture](https://pypi.org/project/traceiq-capture/) | 0.1.0 | TraceIQ | 29.8 kB | TraceIQ Capture — OpenTelemetry instrumentation with a locked attribute contract |
