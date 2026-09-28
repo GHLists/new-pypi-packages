@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T17:25:14Z,opendxp,0.1.0,System One Models <ceo@systemonemodels.tech>,Apache-2.0,295541,"OpenDXP, the Open Decision Exchange Protocol: a portable standard for calibrated single-pass decision models (reference implementation)"
+2026-09-28T17:28:36Z,sensorlint,0.1.0,John Hagedorn,"MIT License Copyright (c) 2026 John Hagedorn Permission is hereby granted, free of charge, to any p…",142186,Assertions for sensor-data pipelines. Every check aborts instead of warning.
+2026-09-28T17:33:13Z,amu-pgvector,0.1.1,Venkata Sangaraju,MIT,27686,"Reference implementation of Lineage-Aware Memory Governance on PostgreSQL + pgvector: Postgres RLS enforces S(a) subset P(d), not application code."
+2026-09-28T17:33:41Z,langchain-amu,0.1.1,Venkata Sangaraju,MIT,10873,LangChain integration for amu-pgvector: a VectorStore and Retriever backed by lineage-gated Analytical Memory Units on PostgreSQL + pgvector.
+2026-09-28T17:34:10Z,netlogger-mcp,0.1.1,"""Greg Beam, KI7MT"" <ki7mt@yahoo.com>",GPL-3.0-or-later,55086,"MCP server for net logging: live and past nets and check-ins, rate-limited to NetLogger's guidelines"
+2026-09-28T17:39:52Z,keel-security,0.1.0,Ayush Kumar <ayushkumar23092@gmail.com>,MIT,235033,Keel — an intent-aware security layer for LLM prompts and agent actions.
+2026-09-28T17:40:03Z,robottraderslab-envelope,0.1.0,,Apache-2.0,29537,Envelope trading strategy plugin for the RobotTradersLab engine
+2026-09-28T17:41:31Z,fastapi-locale,0.1.0rc1,fastapi-locale contributors,MIT,248545,"Internationalization for FastAPI: gettext catalogs, per-request locales, lazy text and localized validation errors."
+2026-09-28T17:41:36Z,MolClusters,0.7.0,Emanuel Mancio,LGPL-3.0-or-later,211865,Tool to analyze cluster formation in molecular dynamics simulations
+2026-09-28T17:42:10Z,bobby-browser,0.17.0,Sasan Sotoodehfar,MIT,23911,Typed client for the authenticated Bobby Browser runtime interface
+2026-09-28T17:42:50Z,localmcplib,0.1.3,Demian Brecht,Apache-2.0,74029,Reusable foundations for local stdio MCP servers.
+2026-09-28T17:43:36Z,brown-octopus,0.4.4,nana brown,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",68506,Capability-context management for tool-using AI agents
+2026-09-28T17:45:04Z,readystack-latex-submission-lint,1.0.6,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,33659,"Seventeen rules on your .tex file: the statements the editorial office looks for, and the source that breaks the publisher's build. (bundled Node.js runtime)"
+2026-09-28T17:45:22Z,readystack-livewire3-upgrade-blocker-lint,1.0.5,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,32846,"The Livewire 2 lines that die quietly in Livewire 3 — named, with the v3 replacement beside each (bundled Node.js runtime)"
+2026-09-28T17:45:39Z,readystack-mcp-config-audit,1.0.6,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,45564,"Audit one mcp.json for what an agent config gives away — inline API keys, unpinned npx launches, plaintext remote servers, shell wrappers, auto-approved tools, whole-machine filesystem roots — with l…"
+2026-09-28T17:45:45Z,tabcustody,0.1.0,Rachid Jeffali,MIT,775790,"With in-context tabular models (TabPFN, TabICL, TabDPT), the saved model file is your training data. tabcustody detects it."
+2026-09-28T17:45:56Z,lcode-cli,0.1.1,Naser Derakhshan,MIT,614667,"A local-first terminal coding agent powered by open-weight models on your own GPU or Mac, via Ollama."
+2026-09-28T17:45:56Z,readystack-optout-signal-lint,0.1.7,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,31055,Finds the ad and analytics code that keeps firing after a visitor’s browser has already sent Global Privacy Control. (bundled Node.js runtime)
+2026-09-28T17:50:15Z,sonf,0.1.1,Syeda Nawal Fatima,,5062,"Python SDK primitives for Sonf, work management for AI agents."
+2026-09-28T17:50:52Z,jes,1.0.0,jes contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",657171,A policy engine for checking text around language models
+2026-09-28T17:51:17Z,tallyai,0.1.0,New Day Group <hello@newdaygroup.co>,MIT,93421,"Tally SDK: cost per AI agent and step, budgets, model policies, and tests of cheaper models on your own traffic"
+2026-09-28T17:51:30Z,pr-council-mcp,0.2.0,Demian Brecht,Apache-2.0,114401,"Standalone local MCP server for durable, multi-model pull-request reviews over stdio."
+2026-09-28T17:51:39Z,python-cardinal,0.1.1,Amy Rouillard,Artistic-2.0,127856,Python tools for mass spectrometry imaging data analysis
+2026-09-28T17:54:12Z,veltro-cli,0.15.7,Veltro Security,AGPL-3.0-only,118330,Operator CLI for the Veltro security operations suite (Compose + Helm).
+2026-09-28T17:54:15Z,veltro-sdk,0.15.7,Veltro Security,Apache-2.0,79879,"Python client for the Veltro security operations suite (VectorFlow, CHAD, Warden)."
+2026-09-28T17:54:44Z,angel-verified-identity,0.1.0,,,39550,Angel Verified Identity (AVI) — WSGI/ASGI middleware that verifies the Angel-Identity assertion and rewrites the identity headers from verified claims
+2026-09-28T17:56:35Z,proof-fabric,0.1.0,,,18896,Portable proof-carrying artifact fabric — re-verify on every read
+2026-09-28T17:56:37Z,usops,0.1.0,,,32814,"Autonomous security operations: swarm orchestrator, MCP tool dispatch, signed provenance"
+2026-09-28T17:58:06Z,cpdocs,0.1.0,Jayesh Badwaik <j.badwaik@fz-juelich.de>,Apache-2.0,227658,"Semantic, versioned API documentation for C, C++, Python and Rust projects"
+2026-09-28T18:02:23Z,noor-governance,1.0.0,Noor Systems <noor@noor.systems>,MIT,52558,"The first covenant-governed trust protocol for AI agents. Screen, Attest, Certify, Verify, Reputation, Revoke."
+2026-09-28T18:02:33Z,paretaoss-core,0.0.1.dev0,Pareta Inc.,Apache-2.0,11794,"ParetaOSS core: model registry, router, verify ladder, judge panel, de-escalation, evaluation, cost meter."
+2026-09-28T18:02:35Z,paretaoss-gateway,0.0.1.dev0,Pareta Inc.,Apache-2.0,11538,"ParetaOSS gateway: single-tenant OpenAI-compatible endpoint, eval API, traffic store, scheduler."
+2026-09-28T18:03:41Z,autolabel-cv,0.0.1,,,1632,Active Learning MLOps pipeline for Computer Vision. Full release coming soon.
+2026-09-28T18:03:59Z,m37labs-slm-forge,0.1.0,Zorawar Purohit,Apache-2.0,882849,"Build your own small language model on a Mac by talking to an agent: data, MLX fine-tuning, evaluation and export"
+2026-09-28T18:05:53Z,altissimo-shippo-tracking,0.2.1,Lukas Karlsson,Apache-2.0,37643,Shippo shipping & tracking client with optional Firestore persistence.
+2026-09-28T18:09:31Z,OrangeDataPack,0.0.1,,,14645,Package for OrangeData API service
+2026-09-28T18:09:34Z,zero-label,0.0.1,,,1611,Active Learning MLOps pipeline for Computer Vision. Full release coming soon.
+2026-09-28T18:09:46Z,sam-label,0.0.1,,,1598,Active Learning MLOps pipeline for Computer Vision. Full release coming soon.
+2026-09-28T18:10:45Z,hermes-gsuite-cli,0.2.0,NSakthivel,MIT,631505,Advanced CLI tool for Google Workspace with Gemini-powered Natural Language Query execution
+2026-09-28T18:12:00Z,paretaoss,0.0.1.dev0,Pareta Inc.,Apache-2.0,10980,ParetaOSS: verified model routing that runs on your own infrastructure. Installs every ParetaOSS package.
+2026-09-28T18:12:40Z,autoannotate-cv,0.0.1,,,1561,Active Learning MLOps pipeline for Computer Vision.
+2026-09-28T18:12:58Z,semantic-dedup,0.1.0,Pranay Mahendrakar,MIT,69235,"Remove passages that repeat the same meaning, not just the same words"
+2026-09-28T18:13:31Z,airprompter-agent,0.3.0,AirPrompter,BSD-3-Clause,47756,"Run prompts and workflows approved in AirPrompter on your own systems: signed pull-only updates, an encrypted restart-safe slot store, offline operation, content-free telemetry. The facade over airpr…"
+2026-09-28T18:13:42Z,hallucination-check,0.1.0,Pranay Mahendrakar,MIT,69336,Check an answer against the sources it claims to use and flag every unsupported sentence
+2026-09-28T18:13:50Z,authgate-client,0.1.0,Bosko Djokic,MIT,36718,"Verify AuthGate access tokens in Python, with an optional FastAPI integration."
+2026-09-28T18:13:52Z,open-decision-ai,0.2.0,OpenDecision contributors,Apache-2.0,201600,"An open-weight, local decision model for software: typed probabilistic decisions from arbitrary state."
+2026-09-28T18:14:35Z,fdatools,1.1.0,Hamed Davodi <hamed.davodi94@gmail.com>,BSD-3-Clause,433226,Functional data analysis for Python: a clean-room rewrite of R's fda package.
+2026-09-28T18:15:30Z,issueforge,0.1.0,Issueforge Team,MIT,2560538,Autonomous multi-LLM Git engineering agent with a human approval gate
+2026-09-28T18:15:46Z,airprompter-agent-core,0.3.0,AirPrompter,BSD-3-Clause,54187,"The pure half of the AirPrompter agent SDK: the protocol (types, trust chain, canonical JSON, arm assignment and the ramp walk), rendering, output checks, golden sets, the judge, bundle reading, tele…"
+2026-09-28T18:16:22Z,anycubic-cloud-client,0.1.0,Nino Bondonno,MIT,297022,"Async client for the Anycubic cloud: sign-in, HTTP API, cloud MQTT, files, printing and camera signalling."
+2026-09-28T18:17:02Z,airprompter-agent-runtime,0.3.0,AirPrompter,BSD-3-Clause,40697,"Serve a verified AirPrompter agent release: slot resolution under the ramp and any retreat, rendered text with run references, provider wrappers, and the hosted-execution client. Renders and assigns…"
+2026-09-28T18:18:22Z,airprompter-agent-sync,0.3.0,AirPrompter,BSD-3-Clause,39493,"Pull and hold AirPrompter agent releases: signed pull-only updates, the encrypted restart-safe slot store, key providers, the apply policy and its windows, and the daemon client."
+2026-09-28T18:18:35Z,altissimo-sendgrid,0.2.2,Altissimo HQ,Apache-2.0,32012,Reusable SendGrid email client for Altissimo projects
