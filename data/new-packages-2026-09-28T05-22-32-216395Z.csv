@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T04:19:48Z,ada-pip-operator-core,0.0.0,STRITZ,Proprietary,738,Name reserved for an internal STRITZ package. Not installable.
+2026-09-28T04:19:49Z,ada-pip-startup,0.0.0,STRITZ,Proprietary,728,Name reserved for an internal STRITZ package. Not installable.
+2026-09-28T04:19:50Z,ada-pip-core-observability,0.0.0,STRITZ,Proprietary,750,Name reserved for an internal STRITZ package. Not installable.
+2026-09-28T04:19:51Z,ada-pip-credentials,0.0.0,STRITZ,Proprietary,733,Name reserved for an internal STRITZ package. Not installable.
+2026-09-28T04:23:11Z,chunk-invariance,0.1.0,Ninad Phalak <ninadphalak@gmail.com>,Apache-2.0,26544,Assert that a streaming filter gives the same output however its input is split into chunks.
+2026-09-28T04:23:58Z,a02-career-data-mcp,0.2.1,,MIT,52997,A02 职业数据 MCP Server：招聘数据（聚合数据）/ 学习资源（GitHub）/ 职业趋势（快照）/ 职业百科（百度百科），三级降级链，来源全程可溯
+2026-09-28T04:28:17Z,mkdocs-cheatsheet,0.1.0,Luka Sherman <luka.msherman@gmail.com>,MIT,181333,Material for MkDocs plugin: builds a linked cheatsheet card grid from flagged headings across your site.
+2026-09-28T04:30:30Z,trustportidentity-beacon,1.0.0,TrustPort,MIT,12063,"Official TrustPort Beacon APM and Telemetry SDK for Python (FastAPI, Django, Flask)"
+2026-09-28T04:33:04Z,rmectl,0.1.0,Hoshino Lina,MIT,11861,RME Digiface mixer interface
+2026-09-28T04:34:26Z,great-limiter,0.1.0,Great Shield,MIT,120643,"Auth-endpoint rate limiting for Python apps with IP + account awareness, cooldowns and pluggable storage."
+2026-09-28T04:37:17Z,subproto,0.1.0,,Apache-2.0,698853,A System One layer for coding agents: decide before you pay.
+2026-09-28T04:42:29Z,agentguard-mcp-sdk,3.1.1,Sreejith <sjith310@gmail.com>,MIT,8149,Official Python Client SDK for AgentGuard MCP — Agent Reliability & Security Infrastructure
+2026-09-28T04:43:29Z,chem-llm,0.1.0,Brent Hu,MIT,163100,An LLM agent that runs end-to-end DFT band-structure studies with Quantum ESPRESSO
+2026-09-28T04:45:47Z,toll402,0.2.0,Toll402,MIT,13821,"One-line client for Toll402 — 2,600+ pay-per-call tools for AI agents (web, PDF, provenance, business directory, ID validators, SEO/social/enrichment/ads/market-data provider APIs). Pay per call with…"
+2026-09-28T04:53:15Z,altissimo-firedantic,0.22.2,IOXIO Ltd,BSD-3-Clause,148909,Pydantic base models for Firestore. Maintained fork of ioxiocom/firedantic.
+2026-09-28T04:53:57Z,rehtml,0.0.1,,,3505,my hand module
+2026-09-28T04:55:14Z,xstar-tools,0.6.89.5,Ashkbiz Danehkar,GPL-3.0,177453585,"Source-faithful Python/C++ XSTAR tools, atomic-data utilities, benchmarks, and runtime"
+2026-09-28T04:59:33Z,jevspan,0.1.0,JevSpan contributors,MIT,93556,"Zero-shot named entity recognition built on TypeSafe Jev: punctuation-guided spans, calibrated scores, no training"
+2026-09-28T05:00:19Z,shopee-fcst-cli,0.0.0,sc,BSD License,2407,A small example package
+2026-09-28T05:00:57Z,webgis-claude-skills,0.1.1,Tariq Azam,Apache-2.0,34693,"WebGIS, GIS, GeoAI and spatial engineering skills plus Python GIS runtime extras."
+2026-09-28T05:04:00Z,GPA-Calculator-CS3250-aden,0.0.1,AdenPotato,,3455,Credit-weighted GPA calculation from letter grades and credit hours
+2026-09-28T05:08:19Z,hanabi-gw,0.4.9,Rico K. L. Lo,,165539,Hierarchical bayesian ANAlysis on lensed GW signals using BIlby
+2026-09-28T05:08:45Z,toooaio-scripts,1.0.1,,,36787182,"Скрипты общего назначения: сборка документации, сборка приложений"
+2026-09-28T05:10:45Z,altissimo-firedantic-extras,0.2.1,Lukas Karlsson,BSD-3-Clause,109306,"Add-on utilities for Firedantic: collection sync, FastAPI pagination, BigQuery schema generation"
+2026-09-28T05:14:15Z,mcp-video-frames,0.1.0,Azzy-H,MIT,184293,"MCP server that lets models without video input look at video: frames with timecodes, plus measurable video properties."
+2026-09-28T05:16:37Z,codebuff-agent,2.1.74,Your Name <your.email@example.com>,,2653039,Codebuff JupyterLab Extension - Thin client for Agent Server
+2026-09-28T05:18:14Z,flexrouter,2.3.0,,"MIT License Copyright (c) 2026 notnotnotnoone Permission is hereby granted, free of charge, to any…",1014572,"Stack every provider's free-tier LLMs behind one OpenAI-compatible address, with automatic failover and a live dashboard"
+2026-09-28T05:21:50Z,niryukti,0.2.0,,AGPL-3.0-only,4480734,"Independent sparse LP, convex QP and mixed-integer optimization engine"
