@@ -1,31 +1,25 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-09-28T18:19:53.934684Z",
-    "path": "data/new-packages-2026-09-28T19-19-01-268613Z.csv",
-    "to": "2026-09-28T19:19:01.268613Z"
+    "count": 42,
+    "from": "2026-09-28T19:19:01.268613Z",
+    "path": "data/new-packages-2026-09-28T20-20-01-607146Z.csv",
+    "to": "2026-09-28T20:20:01.607146Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-09-28T15:31:13Z",
-      "package": "context-hackdevengers",
-      "since": "2026-09-28T15:20:06.510085Z"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-09-28T16:38:57Z",
       "package": "fibinacci-tdd-kata",
       "since": "2026-09-28T16:20:48.827Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-28T18:43:24Z",
       "package": "monanmodel",
       "since": "2026-09-28T18:19:53.934684Z"
     }
   ],
-  "serial": 41565800,
+  "serial": 41568175,
   "source_truncated": false,
-  "window": "2026-09-28T19:19:01.268613Z"
+  "window": "2026-09-28T20:20:01.607146Z"
 }

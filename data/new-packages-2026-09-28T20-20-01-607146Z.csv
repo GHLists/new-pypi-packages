@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T19:19:42Z,slopcount,0.1.0,Egor Chernyshev,MIT,301688,Detect AI slop in a codebase and estimate the cost of comprehending it
+2026-09-28T19:21:16Z,rcvkit,0.0.1,Ellen Veomett,MIT,5411,"Loading and cleaning real ranked choice voting ballot data, with versioned jurisdiction rules."
+2026-09-28T19:23:05Z,altifyhwid,1.1.0,Altify,,45450,Windows hardware identity matching across three or more hardware categories
+2026-09-28T19:24:37Z,pixpop,0.1.0,umbsublime,MIT,370140,A TUI paint application built with Python and the Textual framework
+2026-09-28T19:25:18Z,sdoml-project-main,0.1.0,,,9667126,Software Development Oriented to Machine Learning project
+2026-09-28T19:25:33Z,ninjavault-cdn,100.42.1,NinjaVault,MIT,68746,"Typed sync and async Python client for the NinjaVault CDN Server: upload, search, download and share files."
+2026-09-28T19:28:05Z,shelldeck,0.0.2,Abhishek Dutta <phoenixdutta@gmail.com>,MIT,515231,"Project-first multi-terminal for Windows and Linux: real shells, grouped by project, in your browser"
+2026-09-28T19:28:54Z,async-sonic,0.1.0,Daniel Alfocea <cr0hn@cr0hn.com>,MIT,47028,"A zero-dependency, fully typed asyncio client for the Sonic search index, with connection pooling and pipelining."
+2026-09-28T19:30:00Z,now-playing-desktops,1.0.0,Joel Shearon,MIT,3215019,Glass-style album-art tile on your desktop wallpaper for the Spotify track (or local player) you are playing now.
+2026-09-28T19:32:02Z,pylibfranka-macos,0.21.3,Younghyo Park,Apache-2.0,41932441,"Unofficial macOS build of pylibfranka, the Python bindings for libfranka"
+2026-09-28T19:32:47Z,muteaimp,0.1.0,Groot,MIT,8576,Script to stop AIMP when other video or audio is playing
+2026-09-28T19:33:48Z,gerdos,0.1.2,,MIT,271708,Global Execution Runtime for Dynamic Open Systems — revive old hardware with measured execution
+2026-09-28T19:34:15Z,ssgrep,2.0.1,,MIT,289547,Search and grep AI coding-session transcripts without an LLM
+2026-09-28T19:36:44Z,redact-secret-vault,0.1.0a3,redact-secret,MIT,81379,"Native Python server authority for redact-secret-vault, implementing the same server-authority contract as the JavaScript @redact-secret/vault-server: principal/tenant resolution, fail-closed decisio…"
+2026-09-28T19:37:43Z,jupyterlab-advanced-html-viewer-extension,1.0.1,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,568880,"HTML viewer with trust, refresh, marks and notes stored in the file"
+2026-09-28T19:38:26Z,lpc-character-mcp,0.5.0,LUCAS ARAUJO,MIT,113674,"MCP server that generates LPC pixel-art characters and exports them to Godot, Unity and the web"
+2026-09-28T19:38:52Z,rcu-api,0.1.2,RCU API Community,MIT,28662,Dependency-free Python client for Powerful Studio Public API
+2026-09-28T19:39:23Z,jevops,0.1.0,Erdogan Taskesen <erdogant@gmail.com>,MIT,38427,jevops is a Python library for ...
+2026-09-28T19:42:05Z,celery-board,0.1.0,rkwap,BSD-3-Clause,371362,"A bull-board style dashboard for Celery, built on Flower"
+2026-09-28T19:45:41Z,wordlist-kit,1.0.0,Kanishk Dadhich <kanishkdadhich123@gmail.com>,MIT,86704,"Wordlist Kit — an all-in-one wordlist toolkit (crunch + CeWL + CUPP + rule templates) with recon, OSINT and attack-command assembly. For authorised security testing only."
+2026-09-28T19:45:53Z,neens-eval,0.3.0,Neens,Apache-2.0,156166,Neens pre-prod evaluation runner — the CI one-liner (PULL/PUSH) with gate-as-code.
+2026-09-28T19:46:04Z,berkeDet,1.0.0,"Berke Gülmen, Meryem Gülmen",PolyForm-Noncommercial-1.0.0,1198418,"Lexicographic permutations, their signs, and exact determinants by block replication and index mapping: meryemPer, meryemSign, berkeDet."
+2026-09-28T19:47:43Z,scimlrigor,1.5.2,Dimitrios Galiatsatos <galiatsatos.dimitrios@ac.eap.gr>,MIT,266941,Counterfactual methodological stress testing and failure-injection benchmarking for machine-learning research.
+2026-09-28T19:49:23Z,arcascope-autofish,1.0.0,Arcascope Inc <support@arcascope.com>,MIT,258712,Reproducible training and release tooling for Autofish sleep-stage models
+2026-09-28T19:50:26Z,qsp-client,0.3.0,"""Greg Beam, KI7MT"" <ki7mt@yahoo.com>",MIT,57685,MCP tool relay for local LLM inference — bridge any OpenAI-compatible endpoint to MCP servers
+2026-09-28T19:51:22Z,simpleformbuilder,0.1.1,Guillaume GUGUIN <guillaume.guguin@gmail.com>,"MIT License Copyright (c) [2025] [Guillaume GUGUIN] Permission is hereby granted, free of charge, t…",41378,Simple library to build analytical calculation verification forms.
+2026-09-28T19:54:27Z,selfjev,0.2.0,julien-connectly,Apache-2.0,149390,"selfjev: an open decisions model (selfjev-4b) with Jev's API. SDK, server, fine-tuning and RLCD."
+2026-09-28T19:56:33Z,pretix-pt-invoicing,0.3.0,Afonso Santos,Apache Software License,102549,"Issue AT-certified invoice-receipts in pretix through Portuguese invoicing providers (Fact.pt, Moloni)"
+2026-09-28T19:57:07Z,lcv-hotfix,0.0.0,,,2512,"Name reserved by LCVista. This is not the real package, which is private and installed from GitHub."
+2026-09-28T19:57:08Z,lcv-jurisdictions,0.0.0,,,2598,"Name reserved by LCVista. This is not the real package, which is private and installed from GitHub."
+2026-09-28T19:57:09Z,lcv-standards,0.0.0,,,2543,"Name reserved by LCVista. This is not the real package, which is private and installed from GitHub."
+2026-09-28T19:57:10Z,lcvista,0.0.0,,,2462,"Name reserved by LCVista. This is not the real package, which is private and installed from GitHub."
+2026-09-28T20:03:46Z,scimlrigorbench,4.0.0,Dimitrios Galiatsatos,"MIT License Copyright (c) 2026 Dimitrios Galiatsatos Permission is hereby granted, free of charge,…",33071,Reproducible benchmarking and validation framework for methodological assurance in machine learning
+2026-09-28T20:07:27Z,bfox-build-utils,1.0.997,,,2892,Build utilities
+2026-09-28T20:08:25Z,arkitekt-fastapi,1.0.0,jhnnsrs <jhnnsrs@gmail.com>,MIT,99545,server mode for an Arkitekt app: serve a declared app over HTTP with FastAPI
+2026-09-28T20:08:29Z,vetted,0.1.0,Sandeep Singh Rai,MIT,491638,"Independent validation for risk models and trading strategies: VaR and ES backtests, Basel FRTB tests, backtest overfitting, and verified metrics."
+2026-09-28T20:10:42Z,dioptrin,0.5.4,,,23516473,"Fast, license-activated diffraction integration powered by Rust"
+2026-09-28T20:12:35Z,bmx-ble,0.1.0,Andrew Stewart,MIT,16301,BLE protocol support for BM2 battery monitors
+2026-09-28T20:13:03Z,ory-hermes,1.3.0,Ory,Apache-2.0,11371,"Ory Agent Security for the Hermes agent framework — per-tool authorization, activity logging, and identity propagation by wrapping the tool registry. Built on ory-argus."
+2026-09-28T20:18:15Z,sky130-verify,0.2.0,,Apache-2.0,93232,"Headless DRC/LVS verification of a single Sky130A cell, with a provenance manifest and badge."
+2026-09-28T20:18:20Z,threatcluster-mcp,0.2.3,ThreatCluster,GPL-3.0-or-later,85437,"MCP server for the ThreatCluster threat-intelligence API: incident clusters, entity profiles, CVEs and ransomware leak-site victims as tools for Claude, Cursor, VS Code and any MCP client"
+2026-09-28T20:19:05Z,dbt-firebird,0.1.1,Fernando Lozer <fernandolozer@live.com>,Apache-2.0,87428,"Adaptador dbt (dbt-core) para o banco de dados Firebird, via firebird-driver"
