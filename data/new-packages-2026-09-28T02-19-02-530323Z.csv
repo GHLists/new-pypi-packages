@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T01:19:56Z,membase-sdk,0.1.0,Unibase,MIT,14674,"Membase — your memory, from code. The official Python client for the Membase API."
+2026-09-28T01:29:09Z,cr-service,0.2.0,Jared Lewis <jared.lewis@climate-resource.com>,Apache-2.0,163322,"WorkOS authentication, logging and observability for Climate Resource FastAPI services"
+2026-09-28T01:36:37Z,attestry,0.1.0,Nulfied,MIT,272169,"Verifiable trust infrastructure for AI agents: model-drift detection, tool-schema translation, consent receipts and a serverless skill registry, over one signed append-only ledger."
+2026-09-28T01:39:10Z,watermask,0.1.0,,MIT,9335775,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:39:29Z,pywrit,0.1.1,,,23296,Ask Writ before an agent writes — allow/deny gate with a tamper-evident audit log
+2026-09-28T01:39:36Z,fontpkg-bodoni-moda,2.5,,OFL-1.1,197562,"Bodoni Moda font family, packaged for Python by fontpkg"
+2026-09-28T01:39:37Z,fontpkg-chakra-petch,1.0,,OFL-1.1,395827,"Chakra Petch font family, packaged for Python by fontpkg"
+2026-09-28T01:39:39Z,fontpkg-asap,3.2,,OFL-1.1,401610,"Asap font family, packaged for Python by fontpkg"
+2026-09-28T01:39:42Z,fontpkg-source-serif-4,4.4,,OFL-1.1,1009075,"Source Serif 4 font family, packaged for Python by fontpkg"
+2026-09-28T01:44:17Z,sendery,0.1.0,,MIT,9878,Sendery template email client
+2026-09-28T01:45:32Z,hwx,0.0.1,,,2027,reserve
+2026-09-28T01:45:46Z,litschema,0.1.1,Cory Levinson <cjlevinson@gmail.com>,Apache-2.0,322013,"Schema-driven, agentic extraction of structured data from scientific literature. LinkML-native, local-first, with bundled agent skills."
+2026-09-28T01:46:02Z,sendery-django,0.1.0,,MIT,9744,Sendery template email client for Django
+2026-09-28T01:47:41Z,pi-dynamic-workflows-py,0.1.0,zy1233 <zy1233@users.noreply.github.com>,MIT,50537,Dynamic workflow orchestration extension for pi-python (port of pi-dynamic-workflows)
+2026-09-28T01:47:42Z,pi-goal-x-py,0.1.0,zy1233 <zy1233@users.noreply.github.com>,MIT,11742,Goal-driven planning extension for pi-python (port of pi-goal-x)
+2026-09-28T01:47:44Z,pi-web-access-py,0.1.0,zy1233 <zy1233@users.noreply.github.com>,MIT,14685,Web search and URL fetching extension for pi-python (port of pi-web-access)
+2026-09-28T01:50:56Z,optiquake-local,0.1.2,Lic. Juan Esteban Ramírez,AGPL-3.0-only,39909,Experimental local optical vibration monitoring with a plugin API
+2026-09-28T02:00:04Z,gnoth,0.0.1,,Apache-2.0,1644,Reserved for GNOTH. The release follows.
+2026-09-28T02:00:39Z,anu-pandc,0.4.0,Charles Martin <cpm@charlesmartin.au>,MIT,377545,"A command-line interface to ANU curriculum data: Programs & Courses, the Policy Library, University legislation, the class and exam timetables and the university calendar, as Markdown, JSON or CSV."
+2026-09-28T02:02:38Z,tg-mod-functions,0.4.0,muslihiddinlive,MIT,32922,"AI function-calling tools for Telegram group moderation, built on aiogram"
+2026-09-28T02:05:03Z,langgraph-jev-router,0.1.0,Jayesh Tankariya,,4860,A plug-and-play System One conditional router for LangGraph using TypeSafe AI's Jev model.
+2026-09-28T02:06:54Z,pip-auto,0.3.0,,MIT,113795,Just import it. Missing modules are installed from PyPI automatically. / import するだけで無いモジュールを PyPI から自動インストール
+2026-09-28T02:08:24Z,ftshare,1.0.9,FTShare <liulei@ft.tech>,MIT,811668,Python SDK for FTShare market data APIs.
+2026-09-28T02:08:58Z,aethisdb,1.0.1,Aethis Studio,MIT,44216,"A lightweight, pure-Python document database with a custom binary file format"
