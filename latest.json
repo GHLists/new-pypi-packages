@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 42,
-    "from": "2026-09-28T19:19:01.268613Z",
-    "path": "data/new-packages-2026-09-28T20-20-01-607146Z.csv",
-    "to": "2026-09-28T20:20:01.607146Z"
+    "count": 30,
+    "from": "2026-09-28T20:20:01.607146Z",
+    "path": "data/new-packages-2026-09-28T21-19-58-003221Z.csv",
+    "to": "2026-09-28T21:19:58.003221Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-28T16:38:57Z",
-      "package": "fibinacci-tdd-kata",
-      "since": "2026-09-28T16:20:48.827Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-28T18:43:24Z",
       "package": "monanmodel",
       "since": "2026-09-28T18:19:53.934684Z"
     }
   ],
-  "serial": 41568175,
+  "serial": 41570338,
   "source_truncated": false,
-  "window": "2026-09-28T20:20:01.607146Z"
+  "window": "2026-09-28T21:19:58.003221Z"
 }

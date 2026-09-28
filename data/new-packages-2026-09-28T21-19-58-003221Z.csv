@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T20:31:46Z,boundinstance,0.1.1,Nathaniel Starkman,BSD-3-Clause,820338,Weakref-based instance descriptors.
+2026-09-28T20:36:52Z,dgo-atlas,0.5.0,,MIT,362900,Govern a business glossary with the Data Governance Ontology (DGO) and publish it as a static site.
+2026-09-28T20:36:54Z,connectmedia-sms,1.0.0,Connect Media <info@connectmedia.co.ke>,MIT,12175,"Official Python client for the Connect Media SMS API: bulk SMS to Safaricom, Airtel and Telkom in Kenya and 190+ countries."
+2026-09-28T20:37:23Z,mimir-decisions,1.0.0,Mythologic,Apache-2.0,222994,"Typed, calibrated and certified decisions from MIMIR, a non-generative decision model"
+2026-09-28T20:37:33Z,meshcontract,0.2.0,Vlad Rudenko,MIT,23757,Requirements-as-code and automated validation for 3D assets
+2026-09-28T20:37:45Z,agy-telegram,0.2.1,Antigravity Open Source Community <oss@antigravity.dev>,MIT,76220,Enterprise-grade Mobile Telegram Cockpit & Gateway for Google Antigravity (agy)
+2026-09-28T20:39:49Z,briefpp,0.1.0,Brief++ contributors,MIT,36744,Brief++: header-only C++17 reports in multiple formats
+2026-09-28T20:40:07Z,aseitylab,0.1.1,aseitylab maintainers,MIT,8121,"A self-contained task orchestration toolkit (queue, scheduler, worker pool, retry)"
+2026-09-28T20:46:37Z,memanto-google-adk,0.1.0,Memanto <info@memanto.ai>,MIT,24637,"Persistent long-term memory for Google ADK agents, backed by Memanto"
+2026-09-28T20:48:23Z,jobfeed-watchdog,1.0.0,Nova <earnnova@tten.no>,MIT,17470,"GitHub Action / CLI that detects silent job-feed (JSON API) breakage: schema drift, count collapse, and outages. Stdlib-only."
+2026-09-28T20:48:32Z,hotpath-agent,0.1.0,Hotpath contributors,MIT,447092,An AI agent that makes code faster and proves every change is correct.
+2026-09-28T20:49:00Z,agent-claimcheck,0.1.1,Andrii Boiko <142843700+B0yko@users.noreply.github.com>,Apache-2.0,1769773,Check AI agent success claims against trace evidence instead of trusting the final message.
+2026-09-28T20:50:23Z,pytest-layout-enforcer,0.1.0,Connor Charles,MIT,16754,Keep Python test layouts in sync with package layouts.
+2026-09-28T20:51:14Z,adr-enforcer,0.1.0,Sai Phani Krishna Arumalla <saiphanikrishna05@gmail.com>,MIT,57567,"Deterministic Tree-sitter AST enforcement of Architecture Decision Records, with RAG-grounded LLM auto-fix"
+2026-09-28T20:53:01Z,aleo-bridge-sdk,0.5.1,,,564012,"Python SDK for bridging assets between Aleo, Ethereum and Solana over Hyperlane warp routes and Circle xReserve"
+2026-09-28T20:54:36Z,pdform-mcp,0.1.1,,,27317,Tools for LLMs to inspect and understand PDFs on a deep structural level
+2026-09-28T20:55:40Z,pntos-cobra-datasets-lcm,0.1.0,IS4S <pntos@is4s.com>,,51514593,An LCM log designed for use in Cobra.
+2026-09-28T20:55:45Z,pntos-cobra-datasets-ros,0.1.0,IS4S <pntos@is4s.com>,,62131966,A ROS bag designed for use in Cobra.
+2026-09-28T20:56:56Z,dbos-enterprise,0.1.0a2,"""DBOS, Inc."" <contact@dbos.dev>",DBOS Conductor Software License (https://www.dbos.dev/conductor-license),8225,Enterprise extension for DBOS Transact
+2026-09-28T21:00:30Z,maivn-contracts,0.1.0,,Apache-2.0,586978,Canonical schema contracts for mAIvn Platform v2.
+2026-09-28T21:00:39Z,kilowattchiaro-engine,0.1.0,Domenico Di Gangi,# KiloWattChiaro Source-Available License **SPDX-License-Identifier: LicenseRef-KWC-Source-Availabl…,2800685,"The deterministic solar-evaluation engine behind kilowattchiaro.it — NPV, IRR, payback, scenarios and historical backtests for Italian residential solar."
+2026-09-28T21:00:45Z,aw1-breaker,0.1.0,Manners Vela Ikhutseng <dev@laveto.net>,,12512,"Deterministic, sub-millisecond execution circuit breaker for autonomous AI agent tool-calls."
+2026-09-28T21:01:50Z,shinyhub-agent,0.1.1,,MIT,44834,Session-scoped agent tools for Python Shiny apps on ShinyHub
+2026-09-28T21:03:15Z,ankka-flow,0.1.0,,Apache-2.0,99332,"Write ankka-flow streamlets in Python: declare ports, process batches, let the sidecar own Kafka."
+2026-09-28T21:03:16Z,nara-catalog-mcp,1.0.0,Ian Anderson,MIT,165453,"MCP server over the US National Archives Catalog API: search records, read OCR text and citizen transcriptions, browse the hierarchy, and download page images."
+2026-09-28T21:08:02Z,modalostris-helpers,0.1.2,buattensorart2 <buattensorart2@gmail.com>,MIT,5558,Personal helper scripts for fine-tuning diffusion models on Modal.com using ostris/ai-toolkit
+2026-09-28T21:12:19Z,streamvision,0.1.0rc1,,LICENSE.core (Apache 2.0) applies to all files in this repository except for files in or under any…,266217,"Video sources, InferencePipeline and the stream manager for Roboflow Inference"
+2026-09-28T21:14:13Z,loremfile,0.1.0,the loremfile.dev contributors,MIT,23452,Download CC0 sample files from loremfile.dev and verify every byte
+2026-09-28T21:15:17Z,stru,2.6.2,Stru AI <support@stru.ai>,MIT,50324,StruAI Drawing Analysis SDK - AI-powered construction drawing analysis
+2026-09-28T21:16:04Z,release-scope,0.1.0,Artur Shiriev,MIT,27978,"Collect what sits between production and the default branch across GitLab services: tags, MRs, Jira keys, failed jobs"
