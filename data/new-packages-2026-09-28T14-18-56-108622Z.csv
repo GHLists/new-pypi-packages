@@ -1,0 +1,77 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T11:09:52Z,rainbow-fmt,0.1.0,Bjørn Pettersen,MIT,178486,"A highly configurable, pluggable code formatter: every formatting decision is an option."
+2026-09-28T13:18:02Z,cheffelo-container-cleaner,0.0.0,Cheffelo,,1725,Placeholder reserving the name of an internal Cheffelo package.
+2026-09-28T13:18:03Z,cheffelo-data-connector,0.0.0,Cheffelo,,1684,Placeholder reserving the name of an internal Cheffelo package.
+2026-09-28T13:18:04Z,cheffelo-data-contracts,0.0.0,Cheffelo,,1684,Placeholder reserving the name of an internal Cheffelo package.
+2026-09-28T13:18:05Z,cheffelo-databricks-env,0.0.0,Cheffelo,,1684,Placeholder reserving the name of an internal Cheffelo package.
+2026-09-28T13:19:42Z,glc-loader,1.1.1,Tsotchke Corporation,Apache-2.0,635116,"Read, verify and serve GLC-FWP1 and GLC-TBE compressed model artifacts without the repository that built them"
+2026-09-28T13:19:55Z,tres0r-crypt,1.0.1,Julian (bluhtsturm),MIT,1198583,"Dateien, Ordner und Datenströme verschlüsseln – Argon2id + ChaCha20-Poly1305, mehrere Schlüssel, Signaturen, Anhängen, Einhängen"
+2026-09-28T13:20:02Z,georefine-verify,1.1.2,Tsotchke Corporation,Apache-2.0,56260,Prove that a GeoRefine TBE codec bundle decodes bit for bit to the parent model's published safetensors (CPU only)
+2026-09-28T13:20:09Z,siftdog,0.3.0,Sarvar,MIT,58629,"Open-source, self-hosted Tavily alternative: a web search, extract and crawl API for AI agents."
+2026-09-28T13:20:15Z,littlebean-cafe-seungwon,0.1.0,,,5006,A small cafe example for learning Python packages and modules
+2026-09-28T13:21:33Z,dutygate,0.2.0,Taimoor Rashid,MIT,158340,DutyGate: a chatbot-agnostic gate that flags legal and compliance triggers in inbound messages before the bot replies.
+2026-09-28T13:22:27Z,ddtw,0.1.0,"Johannes Zeitler, Meinard Mueller",MIT,75819,A unified and efficient PyTorch toolbox for differentiable sequence alignment.
+2026-09-28T13:22:50Z,studio99,0.1.0,ArtoMania Studio Private Limited <reach@studio99.app>,MIT,15506,"Official Python client for the Studio99 Indic Typography API: exact Hindi, Marathi, Gujarati and English typography as editable SVG and PNG."
+2026-09-28T13:22:57Z,chess-results-api,0.1.1,Yifei Zheng <zyf0717@gmail.com>,Apache-2.0,47763,Download Chess-Results tournament files and decode them into typed Python records.
+2026-09-28T13:23:49Z,verbenet,1.0.0,"Quentin Pradet, Laurence Danlos, Gaël de Chalendar, Guy Lapalme, Marie-Claude L'Homme",CC-BY-SA-4.0,320581,"Verb∋Net, a VerbNet-style lexicon of French verbs (XML data and a small loader)"
+2026-09-28T13:24:18Z,londonaicentre-opnoteschema,0.2.1,Joe Zhang <jzhang@nhs.net>,LicenseRef-Proprietary,66868,Operation notes
+2026-09-28T13:25:28Z,speechdsp,0.1.0,RL,MIT,92459,"Digital signal processing, speech feature extraction and evaluation toolkit."
+2026-09-28T13:26:08Z,langchain-mart,0.1.0a2,Mart Support <support@mart.dev>,MIT,25275,"LinkedIn API tools for LangChain: profiles, companies, contact refresh, posts and optional work emails."
+2026-09-28T13:31:27Z,migux,1.19.0,"Alex Jeff Burke, Jonas Bardino",GPL-2.0-or-later OR MIT,136747,Supporting libraries and applications for the MiGrid user-facing web interfaces.
+2026-09-28T13:33:27Z,llmigrate,0.1.0,Ilya Kolchinsky,MIT,114819,Cross-model session migration for LLM conversations
+2026-09-28T13:33:34Z,pyunto-agent,0.1.0,Utagoe Inc.,Apache-2.0,118082,"Make an external agent (Claude, Claude Code, any CLI/HTTP agent) the partner of a Pyunto exchange diary"
+2026-09-28T13:35:09Z,django-oscar-blog,0.1.0,Diego Cebrian <diego@cebrian-it.fr>,BSD-3-Clause,76987,"A blog app for django-oscar, with posts optionally linking to catalogue products."
+2026-09-28T13:39:21Z,wondersearch,0.1.1,,Apache-2.0,47094,Typed synchronous and asynchronous clients for WonderSearch
+2026-09-28T13:40:14Z,silinium,0.1.0,,,31780,Practical source code installer
+2026-09-28T13:40:55Z,djdoctor,0.1.0,Django Doctor contributors,MIT,296333,"A safe developer-assistance CLI for Django: diagnostics, safe migrations and human-readable error explanations."
+2026-09-28T13:42:03Z,tapo-monitor,0.8.1,PeterkoCZ91,MIT,812508,"Lightweight reliability, camera-control and Telegram alerting stack for TP-Link Tapo PTZ cameras."
+2026-09-28T13:42:17Z,belfort-ml-bucket-experimental,0.1.8,,,17426,The Belfort models bucket: one bucket client and one object layout
+2026-09-28T13:44:42Z,cytogater,0.1.3,"Matthew Li, Harry Robertson, Nikhil Karthik, Jean Yang, Lijia Yu",GPL-2.0-only,62875,Python implementation of cytoGateR marker-aware cell annotation
+2026-09-28T13:46:30Z,saq-board,0.1.0,rkwap,MIT,210240,"A bull-board style dashboard for SAQ, with Sidekiq-cron style cron jobs"
+2026-09-28T13:47:13Z,dash-sortable-items,0.7.1,Wilfried Mercier <dagrablelistdash.dried695@passmail.net>,GPL-3.0,69381,A set of Dash components built with React that provide an interface to generate sortable items within a group.
+2026-09-28T13:47:28Z,llama-index-readers-urlpipe,0.1.0,URLpipe <contact@urlpipe.dev>,MIT,22014,"LlamaIndex reader for URLpipe: load web pages as clean Markdown, rendered HTML or a summary, rendered in real Chrome."
+2026-09-28T13:48:56Z,result-doctor,0.1.0,,Apache-2.0,135601,Deterministic audits of how a reported ML result was produced
+2026-09-28T13:50:48Z,langchain-urlpipe,0.1.0,URLpipe <contact@urlpipe.dev>,MIT,28961,"LangChain tools, toolkit and document loader for URLpipe: read any web page as Markdown, or get its metadata, console errors or a Lighthouse audit, rendered in real Chrome."
+2026-09-28T13:52:33Z,cadre-kit,0.0.0,,,1707,Name reserved. The cadre kit is not distributed on PyPI; install it from its pinned source.
+2026-09-28T13:56:26Z,chiaki-py,0.3.3,Benjamin Heuberger <beni.heu@gmail.com>,AGPL-3.0-only,653834607,Python bindings and a Pythonic client library for PS4/PS5 Remote Play (chiaki-ng)
+2026-09-28T13:56:28Z,ting-reasoner,0.8.3,Ting Reasoner contributors,,982594,"A standalone, deterministic, non-neural expert-system library with readable .ting source and portable Compact-IR."
+2026-09-28T13:56:54Z,polyreflexion,0.1.0,GaiaLogic AG,MIT,332628,"Recursive Sierpinski reflexion with a polycontextural meta layer, and the ExploreToM / OpenToM / GPQA benchmarks that measure it"
+2026-09-28T13:57:25Z,aegiscode,0.1.0,"""n.borneklint"" <n.borneklint@gmail.com>",AGPL-3.0-or-later,3739,"AEGIS Code CLI, runnable via pip — a thin wrapper that fetches and runs the real npm package through npx. Requires Node.js."
+2026-09-28T13:57:35Z,aegis-desktop,0.1.0,"""n.borneklint"" <n.borneklint@gmail.com>",AGPL-3.0-or-later,3969,"AEGIS Desktop, runnable via pip — a thin wrapper that fetches and runs the real npm package through npx. Requires Node.js."
+2026-09-28T13:57:38Z,samuel-devvault,0.1.1,Samuel Abera,,11552,A local developer configuration manager
+2026-09-28T13:57:54Z,jira-time-tracker,0.1.0,codeonym-oss,MIT,75202,"Track how much estimated work (story points, hours, days…) came into being in a Jira project over a period, per issue and per person."
+2026-09-28T14:01:32Z,baghban,0.1.0,Aslan Satary Dizaji,Apache-2.0,91927,"Check, draw and compare Bonsai workflows on any machine, before the rig runs."
+2026-09-28T14:01:35Z,django-verifactu,0.1.0,Gabriel Rueda Rodriguez,Apache-2.0,152320,"VERI*FACTU para Django: registros de facturación encadenados, remitidos a la AEAT, con código QR y verificación"
+2026-09-28T14:02:02Z,tesserae-engine,0.3.5.2,Phil Hodgins <philip.a.hodgins@gmail.com>,MIT,197491536,"tre: a GPU-rendered retained-mode UI engine for Python, written in Rust -- nodes, flexbox layout, paint, animation, input, text, and accessibility, rendered with vello."
+2026-09-28T14:03:39Z,cronwatch-sdk,0.6.0,Jon C. Phillips,MIT,424915,Cron and scheduled-job monitoring that lives inside your app.
+2026-09-28T14:04:22Z,deployment-verifier,1.0.0,,,292819,Independent deployment verification for AI-built applications. AI proposes. Verifier proves.
+2026-09-28T14:04:30Z,webpilot-cli,0.1.0,CLI-Agents,MIT,7910,pip launcher for the WebPilot browser agent (npm package: @capagents/webpilot)
+2026-09-28T14:05:24Z,effusive,0.1.1,,,184044,Effusive: fUSI acquisition system with napari viewer.
+2026-09-28T14:05:45Z,python-glabels,0.1.0,,GPL-3.0-or-later,32397667,"Python bindings for the gLabels-qt label designer, self-contained (Qt, templates, fonts)"
+2026-09-28T14:06:34Z,diavasi-client,0.1.0,diavasis,Apache-2.0,27190,Thin client for the Diavasi data plane
+2026-09-28T14:06:43Z,1point3acres-toolkit,1.1.0,vivian-labs,MIT,302132,"1point3acres forum toolkit: daily check-in and quiz with reward verification, an offline interview-experience library and forum tools, as a CLI and an MCP server driving your own Chrome"
+2026-09-28T14:07:59Z,griffe-frequenz-core,1.0.0,Frequenz Energy-as-a-Service GmbH <floss@frequenz.com>,MIT,33641,A collection of Griffe extensions to teach mkdocstrings about frequenz-core helpers
+2026-09-28T14:08:53Z,capo-mturk,0.1.0,,,375777,Python SDK for Mturk.
+2026-09-28T14:09:24Z,capo-mwaa,0.1.0,,,230058,Python SDK for Mwaa.
+2026-09-28T14:10:07Z,capo-mwaa-serverless,0.1.0,,,232708,Python SDK for Mwaa Serverless.
+2026-09-28T14:10:26Z,openrestor,0.1.0,,,53489,Reproducible dataset preparation for the OpenRestore benchmark
+2026-09-28T14:10:34Z,astribidem,0.0.0a0,Tom Hehir,MIT,658404,Astronomical catalogue matching with explicit association policies and Arrow indexes.
+2026-09-28T14:10:47Z,capo-neptune,0.1.0,,,850374,Python SDK for Neptune.
+2026-09-28T14:11:08Z,deltaid,0.1.0a1,Gert Behiels,MIT,267858,"Semantic segmentation across training backends, driven by one config (smp models)."
+2026-09-28T14:11:15Z,raidar,0.1.0a1,Gert Behiels,MIT,333090,"Object detection across training backends, driven by one config (torchvision, RF-DETR, HF detectors)."
+2026-09-28T14:11:18Z,sonair,0.1.0a1,Gert Behiels,MIT,411827,"Image classification across training backends, driven by one config (timm models)."
+2026-09-28T14:11:36Z,capo-neptune-graph,0.1.0,,,363404,Python SDK for Neptune Graph.
+2026-09-28T14:12:05Z,PyCamCalib,2.0.2,Michaël Hillen <michael.hillen@uantwerpen.be>,MIT,278946,PyCamCalib: Python library for camera and stereo calibration.
+2026-09-28T14:12:30Z,capo-neptunedata,0.1.0,,,456049,Python SDK for Neptunedata.
+2026-09-28T14:13:14Z,capo-network-firewall,0.1.0,,,875805,Python SDK for Network Firewall.
+2026-09-28T14:13:48Z,overture-spark,0.1.0,Overture Maps Foundation,MIT,169986,"Portable, framework-agnostic Spark job runtime helpers."
+2026-09-28T14:14:03Z,distilaide,0.1.0a1,Gert Behiels,MIT,199562,"Image restoration across training backends, driven by one config (deepinv models)."
+2026-09-28T14:14:17Z,check-the-data,0.1.0,,MIT,9643,Quick descriptive statistics for Polars DataFrames exported to Excel
+2026-09-28T14:14:28Z,capo-network-security-manager,0.1.0,,,567644,Python SDK for Network Security Manager.
+2026-09-28T14:15:09Z,capo-networkflowmonitor,0.1.0,,,277573,Python SDK for Networkflowmonitor.
+2026-09-28T14:15:53Z,capo-networkmanager,0.1.0,,,763984,Python SDK for Networkmanager.
+2026-09-28T14:16:25Z,mutation-scan,1.0.0,MutationScan,MIT,104896,Sequence-only pipeline for protein variant calling and descriptive mutation co-occurrence across bacterial genomes
+2026-09-28T14:16:36Z,capo-networkmonitor,0.1.0,,,176035,Python SDK for Networkmonitor.
+2026-09-28T14:17:18Z,capo-notifications,0.1.0,,,394466,Python SDK for Notifications.
+2026-09-28T14:17:59Z,capo-notificationscontacts,0.1.0,,,150127,Python SDK for Notificationscontacts.
+2026-09-28T14:18:34Z,capo-nova-act,0.1.0,,,217334,Python SDK for Nova Act.
