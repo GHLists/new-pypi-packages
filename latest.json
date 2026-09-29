@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-09-29T03:18:55.091948Z",
-    "path": "data/new-packages-2026-09-29T04-18-58-456453Z.csv",
-    "to": "2026-09-29T04:18:58.456453Z"
+    "count": 31,
+    "from": "2026-09-29T04:18:58.456453Z",
+    "path": "data/new-packages-2026-09-29T05-19-33-063871Z.csv",
+    "to": "2026-09-29T05:19:33.063871Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-29T04:01:48Z",
       "package": "kuberay-client",
       "since": "2026-09-29T03:18:55.091948Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-29T01:42:02Z",
       "package": "noust",
       "since": "2026-09-29T01:19:03.717762Z"
     }
   ],
-  "serial": 41579926,
+  "serial": 41581309,
   "source_truncated": false,
-  "window": "2026-09-29T04:18:58.456453Z"
+  "window": "2026-09-29T05:19:33.063871Z"
 }

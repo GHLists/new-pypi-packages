@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T04:20:16Z,rag-eval-harness,0.2.0,John Carl Santos <johncarlsantos30@gmail.com>,MIT,77433,"RAGAS with a memory and a diff view. Evaluate RAG pipelines, persist runs, and fail CI on regressions."
+2026-09-29T04:24:20Z,laya-finetune,0.1.1,zamax14,MIT,114114,"Fine-tune Laya, the open System One decision model, for any typed-decision task: synthetic data, RLCD, calibration and long context."
+2026-09-29T04:24:24Z,tiferet-plot,1.0.0b1,"""Andrew Shatz, Great Strength Systems"" <andrew@greatstrength.me>",BSD-3-Clause,59357,"A Tiferet library for defining, persisting, and rendering plots, with Matplotlib as the first renderer."
+2026-09-29T04:27:56Z,mcp-garmin-connect,0.2.0,kavakoss,MIT,184630,"LLM-agnostic MCP server for Garmin Connect data, with optional provider demo agents."
+2026-09-29T04:28:16Z,mlexperimenttracker,0.2.0,Pratham Rangunwala <prathamdj777@gmail.com>,MIT,455499,"A local-first ML experiment tracker: a tracking SDK and the dashboard that reads it, in one package."
+2026-09-29T04:33:14Z,easydetect,0.1.0,leeyunjai <leeyunjai1982@gmail.com>,Apache-2.0,187604,"Easy real-time object detection you can ship: D-FINE with PyTorch training, OpenVINO inference on CPU/GPU/NPU, and a browser app to label and train. Apache-2.0 throughout."
+2026-09-29T04:39:24Z,puku-ai-sdk,0.1.0,Puku AI <support@puku.sh>,MIT,193046,Python SDK for the Puku AI gateway (port of @puku-ai/sdk v3).
+2026-09-29T04:40:15Z,otpbox,0.1.0,Harshil Shah,MIT,42588,Python client for the OTPBox API - disposable inboxes and OTP/verification-link extraction for test automation and AI agents.
+2026-09-29T04:42:34Z,noodlelab-engineering,1.0.0,Nicolas Kalis,MIT,62151,"Engineering: structures, sections, materials, fluids, heat, decibels, trade studies and control systems"
+2026-09-29T04:42:37Z,noodlelab-geo,1.0.0,Nicolas Kalis,MIT,57940,"Geospatial: vector and raster data, maps, GPS tracks and seismology"
+2026-09-29T04:42:39Z,noodlelab-maths,1.0.0,Nicolas Kalis,MIT,51974,"Maths: arrays, plots, curve fitting, calculus, linear algebra and Fourier transforms"
+2026-09-29T04:42:41Z,noodlelab-ml,1.0.0,Nicolas Kalis,MIT,49754,"Machine learning on tables: scikit-learn and boosting models, evaluation and conformal prediction intervals"
+2026-09-29T04:42:43Z,regents-cli,1.0.0,Regents Labs,MIT,585153,The regents command: every Regents Labs site from one command line.
+2026-09-29T04:44:58Z,roblox-headless-renderer,1.0.0rc1,,Apache-2.0,24808794,"Headless previews of Roblox UI and 3D builds for AI agents: PNGs plus layout JSON, no Studio needed."
+2026-09-29T04:46:19Z,promptseal,0.2.0,Arsin Shaabani,MIT,70916,"🦭 Regression testing for prompts, agents, and models. Know what breaks before you switch."
+2026-09-29T04:48:34Z,artefacts-toolkit-navigation,0.1.0,TN <tomo@artefacts.com>,,22897,"Helpers for automated navigation tests: load a recorded route in a launch file or test, and drive it through Nav2."
+2026-09-29T04:49:37Z,hank-model-authority,1.0.0,,,87552,"Hank model authority: the model-authority/2.x artifact, its loader and capability resolver"
+2026-09-29T04:50:27Z,treesitter-chunker-baml-grammar,0.1.0,,Apache-2.0,548772,Pinned BAML Tree-sitter grammar for treesitter-chunker
+2026-09-29T04:52:41Z,r3d-agent,0.2.0,,MIT,103992,Autonomous AI penetration testing CLI agent with a built-in exploit engine
+2026-09-29T04:57:46Z,pymsgr,0.1.0,Mohin Uddin Shipon <sshiponuddin22@gmail.com>,MIT,52198,"A modern, strictly-typed Python wrapper for the Meta Messenger Platform Graph API."
+2026-09-29T05:00:07Z,flask-breadcrumbs-2,1.0.0,,BSD-3-Clause,8617,Flask-Breadcrumbs adds support for generating site breadcrumb navigation.
+2026-09-29T05:01:34Z,spoiler,0.1.0,Sahil Shubham,Apache-2.0,20565983,Find where users got stuck in session recordings. Compiles rrweb/PostHog replays into deterministic traces; an LLM explains them and code checks every claim.
+2026-09-29T05:03:19Z,duekit,0.2.0,兰衣 <iehjli@163.com>,MIT,59316,"Configurable due-date monitoring: flexible daily scheduling (fixed times/intervals, one or more tasks), fully custom expiry levels with callbacks, and schema-driven extraction of irregular PDF/Excel/…"
+2026-09-29T05:06:23Z,hoyo-env,0.1.0,Qingrui Hu <invoker-bot@outlook.com>,MIT,97527,米哈游游戏版本管理器：安装、切换、启动 hk4e / hkrpg / nap / bh3。下载集中存放，未改动文件不重复占用空间。
+2026-09-29T05:06:28Z,phala-pay,0.2.0,,Apache-2.0,559478,"Phala Pay for Python: quotes, deposits, refunds, and webhooks"
+2026-09-29T05:08:03Z,cuqu-mcp,1.0.0,CUQU / 光天科技（深圳）有限公司,"MIT License Copyright (c) 2026 光天科技（深圳）有限公司 (Guangtian Technology (Shenzhen) Co., Ltd.) Permission…",16429,"MCP server for CUQU (找搭子) — find and book offline group events in 10+ China cities, or publish your own event."
+2026-09-29T05:09:33Z,blipit,0.1.0,Louward Labs <support@blipit.io>,MIT,5450,"Blipit error monitoring for Python: Django, Flask, FastAPI, Celery and scripts. Know your app broke before your users tell you."
+2026-09-29T05:12:15Z,flight-alloc,0.0.1,,,446609,IndiGo CLC flight-allocation system — engine + local web console
+2026-09-29T05:12:49Z,cursor-clean,0.1.0,cursor-clean contributors,MIT,23786,Scan and clean Cursor Roaming data: old chats and unused agent versions.
+2026-09-29T05:13:13Z,call_sleep,0.0.1,ChenyangGao,MIT,6483,Sleep during two calls.
+2026-09-29T05:17:53Z,omni-agents-cli,1.0.0,"TheCheepeer, João Sales",Apache-2.0,2238555,"Centralized hub to manage and distribute skills, rules, and subagents across multiple AI coding assistants"
