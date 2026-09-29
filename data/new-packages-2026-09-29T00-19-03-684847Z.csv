@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T23:22:28Z,myprepcourse,0.1.0,Zachary Mason <zachary@northstar-tutors.com>,MIT,82073,A tool for making API calls and programatic changes to MyPrepCourse
+2026-09-28T23:25:17Z,lab-env,0.0.5,Christoph Hader <chader@arizona.edu>,GPL-3.0-or-later,87658,Tools for consistent research computing environments
+2026-09-28T23:28:37Z,toggley,0.1.0,Albright Labs,MIT,39702,Toggley feature flags for Python servers: evaluates flags locally from a polled config.
+2026-09-28T23:30:02Z,evalwarden,0.6.1,Yuriy H,MIT,124662,A linter for agent evaluations: audit the measurement system around a score.
+2026-09-28T23:31:49Z,factorial-compute,0.0.1,,,41759,"Typed answers from AI compute: images, masks, transcripts and text, whichever model or supplier produced them."
+2026-09-28T23:35:37Z,expecting-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47560,Expecting-Machine ...
+2026-09-28T23:39:26Z,gutfeel-mcp,0.7.3,Eren Kahraman,Apache-2.0,4500,"gut's judgment calls as MCP tools: likely, classify, rate and each, answered by small models."
+2026-09-28T23:41:53Z,ref-id,0.7.0,,Apache-2.0,171984,The ref: identifier scheme — a Python port held to the specification's conformance vectors
+2026-09-28T23:43:37Z,exactor-accelerator,2.0.1,Exactor Research <contact@exactor.tech>,MIT,405529,High-speed boolean logic accelerator for TypeSafe AI (Jev) decisions - powered by the EXACTOR engine
+2026-09-28T23:45:17Z,rastrolog,0.1.0,Carlos Saldaña Matar,MIT,156930,See which AI crawlers read your site and which AI chat products send you visitors.
+2026-09-28T23:49:43Z,exploring-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47573,Exploring-Machine ...
+2026-09-28T23:53:42Z,navig-contacts,0.2.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,201832,"NAVIG Contacts module — `navig contacts`: the address book and the alias-to-route table dispatch resolves against, in one store. Imports vCard and Telegram exports, merges the same person out of many…"
+2026-09-28T23:59:33Z,hermes-fry-cards,0.4.5,,,338843,🍟 hermes-fry-cards — 飞书流式卡片插件（Feishu/Lark CardKit v2.0 实时流式消息卡片）
+2026-09-29T00:01:50Z,mtgeodesicsom,1.0.0,Masahiro Takatsuka <masa@takatsuka.org>,AGPL-3.0-or-later,232154,"Self-Organising Maps on geodesic domes (spherical SOM) and flat hexagonal/rectilinear grids, built on mtgeodesicdome."
+2026-09-29T00:05:28Z,neptuneatelier,0.1.0,my_extension <lazt0101@hotmail.com>,BSD-3-Clause,417174,NeptuneAtelier: a no-code theme customization engine for JupyterLab.
+2026-09-29T00:09:06Z,Baston,1,iMRAN143307 <imranmawji2@gmail.com>,MIT,7607,A simple fighting game module for Pygame
+2026-09-29T00:10:22Z,tesserae-ui,0.1.0,Phil Hodgins <philip.a.hodgins@gmail.com>,MIT,745963,"A pyCopper-style declarative Python GUI framework, powered by the Tesserae Render Engine (tre)."
+2026-09-29T00:10:30Z,answeringservicecare,1.0.0,Answering Service Care <sales@answeringservicecare.com>,MIT,17583,"Official client and CLI for the Answering Service Care public API: company details, services, plan pricing, and site search. No API key needed."
+2026-09-29T00:15:52Z,image-grid-combine,1.0.0,,MIT,27439,"Combine several images into one grid image, with Pillow. Pure-Python layout maths plus a small CLI."
+2026-09-29T00:16:19Z,reprocheck-cli,0.11.0b3,Rafael Antonio Brito Moreira,MIT,443721,Read-only reproducibility scanner for Python projects
+2026-09-29T00:17:34Z,neuralos,3.0.2,,Apache-2.0,99495,"neuralOS - automation foundation model for tiny devices: 2-bit tool-calling engine, bundled for offline install. Inference, LoRA finetuning, and build."
+2026-09-29T00:17:41Z,laogu-mcp,1.0.0,老谷拆财报,MIT,42662,老谷拆财报 MCP Server：16 个 A 股财经 skill 的程序化数据层（零 key、纯公开接口）
+2026-09-29T00:18:16Z,styrhus-records,0.12.4,tb4,AGPL-3.0-or-later,254814,"Run the mechanical records skills without AI: create Hugo-frontmatter records, feature, commit/push/deploy, publish, stamp now-playing."
