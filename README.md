@@ -8,45 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 21:20 UTC
+## Latest list — 2026-09-29 22:18 UTC
 
-New packages created between 2026-09-29 20:21 UTC and 2026-09-29 21:20 UTC.
+New packages created between 2026-09-29 21:20 UTC and 2026-09-29 22:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-29T21-20-41-81907Z.csv)
+[Full CSV](data/new-packages-2026-09-29T22-18-34-453769Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-29 20:23:48 | [goodmem-langgraph](https://pypi.org/project/goodmem-langgraph/) | 0.3.0 |  | 159.2 kB | LangGraph integration for GoodMem: long-term agent memory with semantic storage… |
-| 2026-09-29 20:27:38 | [engmech](https://pypi.org/project/engmech/) | 0.4.0 | Matthew Davidson <matthew@dav… | 627.4 kB | Rigid-body statics, dynamics and mass properties for engineers: unit-aware inpu… |
-| 2026-09-29 20:29:19 | [kaaval](https://pypi.org/project/kaaval/) | 0.0.1 | Ravichandran Kanakasikamani | 2.6 kB | Kaaval (காவல்): chain of custody for AI agent actions. Placeholder, under activ… |
-| 2026-09-29 20:33:47 | [contexte](https://pypi.org/project/contexte/) | 0.2.1 | ContexteTech <coucou@contexte… | 15.2 kB | Load LLM datasets, prompts and few-shot contexts from ContexteTech in one line… |
-| 2026-09-29 20:35:14 | [matching-engine](https://pypi.org/project/matching-engine/) | 0.1.0 | Mohammad Zarif | 160.0 kB | A deterministic price-time priority matching engine with a checksummed write-ah… |
-| 2026-09-29 20:35:17 | [mdp-outbox](https://pypi.org/project/mdp-outbox/) | 0.1.0 | Mohammad Zarif | 197.3 kB | Ingest trades from several sources, build OHLCV candles live and historically,… |
-| 2026-09-29 20:39:16 | [dircue](https://pypi.org/project/dircue/) | 1.0.1 |  | 52.8 MB | Profile source code repos and other directories of computer content. |
-| 2026-09-29 20:40:54 | [example_package_dude9000](https://pypi.org/project/example_package_dude9000/) | 0.0.1 |  | 419 B |  |
-| 2026-09-29 20:43:16 | [flieber](https://pypi.org/project/flieber/) | 0.0.1 | Flieber | 7.4 kB | The flieber command: CLI and MCP server for Flieber commerce data (actual sales… |
-| 2026-09-29 20:43:48 | [dicabrio-durable-sdk](https://pypi.org/project/dicabrio-durable-sdk/) | 0.1.0 | dicabrio | 27.7 kB | Python SDK for the Durable execution engine |
-| 2026-09-29 20:46:03 | [coreference](https://pypi.org/project/coreference/) | 0.0.1 | Your Name | 2.8 kB | Coreference resolution tools for Python |
-| 2026-09-29 20:49:32 | [berg-iceberg](https://pypi.org/project/berg-iceberg/) | 1.0.0 |  | 259.9 kB | A developer and operational management layer for Apache Iceberg. |
-| 2026-09-29 20:50:43 | [ntpstats](https://pypi.org/project/ntpstats/) | 2.5.0 | Thiago de Freitas <thiagodefr… | 296.1 kB | NTP / network-time offset, delay and frequency-stability analysis (ADEV, MDEV,… |
-| 2026-09-29 20:55:18 | [shapesoda](https://pypi.org/project/shapesoda/) | 1.1.0 | Shapesoda <support@shapesoda.… | 114.8 kB | Shapesoda API client: convert raster images into SVG, PDF, EPS, DXF or PNG vect… |
-| 2026-09-29 20:55:57 | [netmotion](https://pypi.org/project/netmotion/) | 0.1.0 | Mariano Tirado Alonso | 628.0 kB | Dynamics on complex networks in Python: growth, epidemics, opinions, immunisati… |
-| 2026-09-29 21:00:54 | [sentinel-ai-core](https://pypi.org/project/sentinel-ai-core/) | 0.1.0 | Hamza Masmoudi <hamza.masmoud… | 195.8 kB | Security Evaluation and Neural Tracing for Intelligent Language-models |
-| 2026-09-29 21:01:05 | [pytest-warden](https://pypi.org/project/pytest-warden/) | 0.1.0 | Alex <alexneo2003@gmail.com> | 145.7 kB | Windows Job Object hard-kill supervision for real pytest subprocesses — a drop-… |
-| 2026-09-29 21:02:09 | [airdress-home](https://pypi.org/project/airdress-home/) | 0.1.0b3 | Airdress <support@airdress.co> | 172.5 kB | Link a home hub such as Home Assistant to an airdress: machine enrollment, requ… |
-| 2026-09-29 21:11:50 | [cento](https://pypi.org/project/cento/) | 0.2.0 | Zetier <opensource@zetier.com> | 234.9 kB | Declarative, fail-closed exploit payload construction. |
-| 2026-09-29 21:12:12 | [pibooth-extra-lights-vim4](https://pypi.org/project/pibooth-extra-lights-vim4/) | 1.1.0 | Vincent Verdeil, Antoine Rous… | 33.0 kB | Pibooth plugin for extra lights management. |
-| 2026-09-29 21:12:17 | [pibooth-template-chooser](https://pypi.org/project/pibooth-template-chooser/) | 1.0.0 | Ceeeeb | 15.8 kB | Pibooth plugin letting guests choose the picture template on the wait screen |
-| 2026-09-29 21:12:30 | [runtape](https://pypi.org/project/runtape/) | 0.3.0 | Rehan Mohammed | 418.8 kB | Record AI agent runs locally and find which part of the context caused a decisi… |
-| 2026-09-29 21:12:31 | [capo-account-access](https://pypi.org/project/capo-account-access/) | 0.1.0 |  | 190.9 kB | Python SDK for Account Access. |
-| 2026-09-29 21:12:34 | [airdress](https://pypi.org/project/airdress/) | 0.0.0 | Airdress <support@airdress.co> | 12.3 kB | The Airdress Python packages. You probably want airdress-home. |
-| 2026-09-29 21:13:09 | [capo-agent-registry](https://pypi.org/project/capo-agent-registry/) | 0.1.0 |  | 165.4 kB | Python SDK for Agent Registry. |
-| 2026-09-29 21:13:53 | [capo-agent-registry-control](https://pypi.org/project/capo-agent-registry-control/) | 0.1.0 |  | 343.5 kB | Python SDK for Agent Registry Control. |
-| 2026-09-29 21:14:33 | [capo-backupsearch](https://pypi.org/project/capo-backupsearch/) | 0.1.0 |  | 200.7 kB | Python SDK for Backupsearch. |
-| 2026-09-29 21:15:11 | [capo-cognito-identity](https://pypi.org/project/capo-cognito-identity/) | 0.1.0 |  | 273.2 kB | Python SDK for Cognito Identity. |
-| 2026-09-29 21:15:47 | [capo-datazone](https://pypi.org/project/capo-datazone/) | 0.1.0 |  | 1.8 MB | Python SDK for Datazone. |
-| 2026-09-29 21:16:29 | [capo-iam-toolbox](https://pypi.org/project/capo-iam-toolbox/) | 0.1.0 |  | 123.1 kB | Python SDK for IAM Toolbox. |
-| 2026-09-29 21:17:06 | [capo-lambda-core](https://pypi.org/project/capo-lambda-core/) | 0.1.0 |  | 169.4 kB | Python SDK for Lambda Core. |
-| 2026-09-29 21:17:44 | [ppdrive](https://pypi.org/project/ppdrive/) | 0.1.0 | YOUR NAME | 13.3 kB | Python SDK for PPDRIVE — self-hosted object storage |
-| 2026-09-29 21:18:09 | [ethicore-guardian-mcp](https://pypi.org/project/ethicore-guardian-mcp/) | 0.1.0 | Oracles Technologies LLC <sup… | 20.5 kB | Ethicore Engine® Guardian MCP server — on-demand AI-threat screening for coding… |
-| 2026-09-29 21:19:15 | [graphcore-studio](https://pypi.org/project/graphcore-studio/) | 0.2.0 |  | 1.2 MB | A local-first visual agent workflow studio powered by a native C++ graph runtime |
+| 2026-09-29 21:21:30 | [pai-mf](https://pypi.org/project/pai-mf/) | 0.1.1 | Phanindra Parashar | 91.8 kB | Mutual fund and index data, rolling analysis, and fund scoring |
+| 2026-09-29 21:26:42 | [ready-lakehouse-manager](https://pypi.org/project/ready-lakehouse-manager/) | 0.0.1 | Ashish Juneja <ashishjuneja99… | 296.9 kB | Manage the READY Lakehouse, Update ICEBERG dimension tables, KAFKA schemas etc. |
+| 2026-09-29 21:28:29 | [practice-sdoml-joaquin](https://pypi.org/project/practice-sdoml-joaquin/) | 0.1.2 |  | 32.2 kB | Interactive ML demo for diabetes risk classification |
+| 2026-09-29 21:29:20 | [ichkil](https://pypi.org/project/ichkil/) | 1.0.0 | Maaouia BenHamed | 32.8 kB | Arabic Tashkeel (diacritization) — a tiny, self-contained ONNX model with a cle… |
+| 2026-09-29 21:29:27 | [mailhive](https://pypi.org/project/mailhive/) | 0.1.0 | Naszat | 26.9 kB | The official Python SDK for Mailhive Send: transactional email from Africa. |
+| 2026-09-29 21:29:29 | [langchain-upload-post](https://pypi.org/project/langchain-upload-post/) | 0.1.0 | Upload-Post <info@upload-post… | 31.6 kB | LangChain tools to publish, schedule and analyze social media posts with Upload… |
+| 2026-09-29 21:32:16 | [nws-weather-tui](https://pypi.org/project/nws-weather-tui/) | 0.2.2 | crinderneck | 196.6 kB | A terminal-based weather application for the US, powered by the National Weathe… |
+| 2026-09-29 21:37:44 | [llm-guardrails-middleware](https://pypi.org/project/llm-guardrails-middleware/) | 0.1.0 | Obinna ThankGod Okeke <tobinn… | 43.5 kB | Drop-in guardrails wrapper for LLM API calls: PII redaction, prompt-injection d… |
+| 2026-09-29 21:39:51 | [aiogeodrops](https://pypi.org/project/aiogeodrops/) | 0.1.1 | Adam Baldwin | 32.3 kB | Async client for GeoDrops soil-probe readings in Google BigQuery |
+| 2026-09-29 21:39:57 | [clockify-unofficial-cli](https://pypi.org/project/clockify-unofficial-cli/) | 0.2.0 | "G.A.JAGUAR" <dev@gajaguar.co… | 180.7 kB | Unofficial command-line interface for Clockify, built on clockify-unofficial-sd… |
+| 2026-09-29 21:44:01 | [gantri](https://pypi.org/project/gantri/) | 0.1.0 |  | 2.0 kB | Add your description here |
+| 2026-09-29 21:44:02 | [csvscout](https://pypi.org/project/csvscout/) | 0.0.1 | Garret Negron | 134.9 kB | Fast CSV profiling for data engineering, written in Rust |
+| 2026-09-29 21:45:02 | [diy-harness](https://pypi.org/project/diy-harness/) | 0.1.0 | zxu756 | 625.4 kB | diy-harness (dh)：自研 agent harness —— 运行时自己实现，instructions 沿用 Deep Agents |
+| 2026-09-29 21:45:34 | [rheopy-rheodata](https://pypi.org/project/rheopy-rheodata/) | 0.1.0 | Marco Caggioni <marco.caggion… | 140.7 kB | Curated, quality-checked rheology datasets for training, simulation, and benchm… |
+| 2026-09-29 21:47:26 | [ameli-ai](https://pypi.org/project/ameli-ai/) | 0.0.1 | Kirill Smolnikov | 3.6 kB | Ameli: языковая модель для агентных задач на русском. Клиент появится вместе с… |
+| 2026-09-29 21:48:02 | [cpd-pytorch](https://pypi.org/project/cpd-pytorch/) | 1.0.0 | "Yuliang (Chris) Xiao" <yl.xi… | 235.9 kB | Coherent Point Drift (CPD) point set registration in PyTorch: rigid, affine and… |
+| 2026-09-29 21:48:24 | [asr-attacks](https://pypi.org/project/asr-attacks/) | 0.3.0 | Hammad Ali Khan <114487807+ha… | 116.1 kB | White-box adversarial attacks for CTC automatic speech recognition models. |
+| 2026-09-29 21:49:08 | [nemo-helix-plugin](https://pypi.org/project/nemo-helix-plugin/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for nemo_helix_plugin |
+| 2026-09-29 21:49:40 | [capyagent](https://pypi.org/project/capyagent/) | 0.0.1 | Kirill Smolnikov | 3.1 kB | CapyAgent: личный ИИ-агент на вашем компьютере. Пакет в разработке, установка н… |
+| 2026-09-29 21:49:50 | [dhis2-fetch](https://pypi.org/project/dhis2-fetch/) | 0.1.0 | Valérian Turbé <valerian.turb… | 107.1 kB | Read-only Python client for the DHIS2 Web API, returning pandas DataFrames |
+| 2026-09-29 21:54:54 | [typevet](https://pypi.org/project/typevet/) | 0.1.0.dev1 | Alberto-Codes | 464.1 kB | Type-safe structured generation under hexagonal architecture (llama.cpp first) |
+| 2026-09-29 21:55:19 | [symbion](https://pypi.org/project/symbion/) | 0.1.0 | phreakocious | 387.2 kB | A notebook and ticket registry for agents: dated rows attached to a commit, a f… |
+| 2026-09-29 21:57:19 | [vivvy-vdb](https://pypi.org/project/vivvy-vdb/) | 0.1.0 |  | 1.8 MB | Vector search that lives on one machine |
+| 2026-09-29 21:58:37 | [llmrivotril](https://pypi.org/project/llmrivotril/) | 0.1.0 | Thiago Egon Lange <contato@da… | 490.2 kB | A lightweight framework to reduce LLM hallucinations, enforce guardrails, manag… |
+| 2026-09-29 21:58:48 | [oscal-bindings](https://pypi.org/project/oscal-bindings/) | 0.1.0 | Fritz Kunstler | 322.8 kB | Typed Python data bindings for OSCAL, generated from the NIST JSON Schema |
+| 2026-09-29 22:03:38 | [abe-ai](https://pypi.org/project/abe-ai/) | 0.1.0 | Flow Information Systems <flo… | 123.4 kB | Abe: one control point before an AI agent acts. Deterministic ACT / BLOCK / ESC… |
+| 2026-09-29 22:04:06 | [abe-flow](https://pypi.org/project/abe-flow/) | 0.1.0 | Flow Information Systems <flo… | 24.2 kB | Send Abe escalations to Flow's judgment service (resolve.flowinfo.co). Only ESC… |
+| 2026-09-29 22:05:24 | [goodmem-deepeval](https://pypi.org/project/goodmem-deepeval/) | 0.3.0 | PAIR Systems | 63.5 kB | GoodMem retrieval for DeepEval — a traced retriever, LLMTestCase construction,… |
+| 2026-09-29 22:05:24 | [goodmem-llamaindex](https://pypi.org/project/goodmem-llamaindex/) | 0.2.3 | bashareid | 35.0 kB | Native LlamaIndex retrieval, Document ingestion and agent tools for GoodMem. |
+| 2026-09-29 22:05:24 | [goodmem-nlweb](https://pypi.org/project/goodmem-nlweb/) | 0.3.0 | GoodMem <support@goodmem.ai> | 69.2 kB | GoodMem as an NLWeb retrieval provider — Schema.org retrieval, site filtering,… |
+| 2026-09-29 22:09:48 | [callva-harness-runner](https://pypi.org/project/callva-harness-runner/) | 0.3.0 | CallVA | 72.8 kB | One headless turn of a coding agent (Claude Code or Codex) through the vendor S… |
+| 2026-09-29 22:10:07 | [tiktok-mcp-server](https://pypi.org/project/tiktok-mcp-server/) | 1.0.0 |  | 102.9 kB | MCP server for TikTok data extraction, discovery, search, and transcription |
+| 2026-09-29 22:10:48 | [goodmem-autogen](https://pypi.org/project/goodmem-autogen/) | 0.3.0 | PAIR Systems | 48.7 kB | GoodMem memory and tools for the AutoGen agent framework. |
+| 2026-09-29 22:10:50 | [goodmem-honeyhive](https://pypi.org/project/goodmem-honeyhive/) | 0.4.0 | GoodMem <support@goodmem.ai> | 62.8 kB | GoodMem integration for HoneyHive. |
+| 2026-09-29 22:10:55 | [goodmem-camel](https://pypi.org/project/goodmem-camel/) | 0.4.0 | PAIR Systems | 77.1 kB | GoodMem integration for CAMEL. |
+| 2026-09-29 22:10:56 | [tfidf-stability](https://pypi.org/project/tfidf-stability/) | 0.2.0 | Matthew Maksymilian Miezaniec… | 7.7 MB | Numerical stability and perturbation behaviour in TF-IDF-based similarity syste… |
+| 2026-09-29 22:11:54 | [libfcrypt](https://pypi.org/project/libfcrypt/) | 1.1.0 | Franco Magnano <fluffins009@g… | 6.4 kB | Simple, symmetric encryption. Courtesy of Fernet. |
+| 2026-09-29 22:17:27 | [goodmem-agent-framework](https://pypi.org/project/goodmem-agent-framework/) | 0.3.0 | GoodMem <support@goodmem.ai> | 40.7 kB | GoodMem integration for Microsoft Agent Framework. |

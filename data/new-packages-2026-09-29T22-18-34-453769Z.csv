@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T21:21:30Z,pai-mf,0.1.1,Phanindra Parashar,MIT,91754,"Mutual fund and index data, rolling analysis, and fund scoring"
+2026-09-29T21:26:42Z,ready-lakehouse-manager,0.0.1,Ashish Juneja <ashishjuneja99@gmail.com>,,296897,"Manage the READY Lakehouse, Update ICEBERG dimension tables, KAFKA schemas etc."
+2026-09-29T21:28:29Z,practice-sdoml-joaquin,0.1.2,,,32197,Interactive ML demo for diabetes risk classification
+2026-09-29T21:29:20Z,ichkil,1.0.0,Maaouia BenHamed,MIT,32818,"Arabic Tashkeel (diacritization) — a tiny, self-contained ONNX model with a clean Python API"
+2026-09-29T21:29:27Z,mailhive,0.1.0,Naszat,MIT,26901,The official Python SDK for Mailhive Send: transactional email from Africa.
+2026-09-29T21:29:29Z,langchain-upload-post,0.1.0,Upload-Post <info@upload-post.com>,MIT,31640,"LangChain tools to publish, schedule and analyze social media posts with Upload-Post (TikTok, Instagram, YouTube, LinkedIn, X, Facebook and more)."
+2026-09-29T21:32:16Z,nws-weather-tui,0.2.2,crinderneck,MIT,196564,"A terminal-based weather application for the US, powered by the National Weather Service API"
+2026-09-29T21:37:44Z,llm-guardrails-middleware,0.1.0,Obinna ThankGod Okeke <tobinna4@gmail.com>,MIT,43526,"Drop-in guardrails wrapper for LLM API calls: PII redaction, prompt-injection detection, output schema validation, and usage/latency logging."
+2026-09-29T21:39:51Z,aiogeodrops,0.1.1,Adam Baldwin,MIT,32252,Async client for GeoDrops soil-probe readings in Google BigQuery
+2026-09-29T21:39:57Z,clockify-unofficial-cli,0.2.0,"""G.A.JAGUAR"" <dev@gajaguar.com>",MIT,180652,"Unofficial command-line interface for Clockify, built on clockify-unofficial-sdk."
+2026-09-29T21:44:01Z,gantri,0.1.0,,,2004,Add your description here
+2026-09-29T21:44:02Z,csvscout,0.0.1,Garret Negron,MIT,134857,"Fast CSV profiling for data engineering, written in Rust"
+2026-09-29T21:45:02Z,diy-harness,0.1.0,zxu756,MIT,625409,diy-harness (dh)：自研 agent harness —— 运行时自己实现，instructions 沿用 Deep Agents
+2026-09-29T21:45:34Z,rheopy-rheodata,0.1.0,Marco Caggioni <marco.caggioni@gmail.com>,MIT,140731,"Curated, quality-checked rheology datasets for training, simulation, and benchmarking."
+2026-09-29T21:47:26Z,ameli-ai,0.0.1,Kirill Smolnikov,,3627,"Ameli: языковая модель для агентных задач на русском. Клиент появится вместе с моделью, пока в разработке."
+2026-09-29T21:48:02Z,cpd-pytorch,1.0.0,"""Yuliang (Chris) Xiao"" <yl.xiao@mail.utoronto.ca>",Apache-2.0,235903,"Coherent Point Drift (CPD) point set registration in PyTorch: rigid, affine and deformable, on CPU or GPU."
+2026-09-29T21:48:24Z,asr-attacks,0.3.0,Hammad Ali Khan <114487807+hammaad2002@users.noreply.github.com>,Apache-2.0,116124,White-box adversarial attacks for CTC automatic speech recognition models.
+2026-09-29T21:49:08Z,nemo-helix-plugin,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1072,Zero version placeholder for nemo_helix_plugin
+2026-09-29T21:49:40Z,capyagent,0.0.1,Kirill Smolnikov,,3120,"CapyAgent: личный ИИ-агент на вашем компьютере. Пакет в разработке, установка на capyagent.ru."
+2026-09-29T21:49:50Z,dhis2-fetch,0.1.0,Valérian Turbé <valerian.turbe@gmail.com>,MIT,107093,"Read-only Python client for the DHIS2 Web API, returning pandas DataFrames"
+2026-09-29T21:54:54Z,typevet,0.1.0.dev1,Alberto-Codes,MIT,464123,Type-safe structured generation under hexagonal architecture (llama.cpp first)
+2026-09-29T21:55:19Z,symbion,0.1.0,phreakocious,MIT,387211,"A notebook and ticket registry for agents: dated rows attached to a commit, a file, an item, an arc or the project, kept in a sibling git repo of JSONL."
+2026-09-29T21:57:19Z,vivvy-vdb,0.1.0,,,1843090,Vector search that lives on one machine
+2026-09-29T21:58:37Z,llmrivotril,0.1.0,Thiago Egon Lange <contato@dadosidados.net.br>,MIT,490162,"A lightweight framework to reduce LLM hallucinations, enforce guardrails, manage stateful memory, and monitor performance via local dashboard."
+2026-09-29T21:58:48Z,oscal-bindings,0.1.0,Fritz Kunstler,Apache-2.0,322805,"Typed Python data bindings for OSCAL, generated from the NIST JSON Schema"
+2026-09-29T22:03:38Z,abe-ai,0.1.0,Flow Information Systems <flowinfosystems@gmail.com>,Apache-2.0,123399,"Abe: one control point before an AI agent acts. Deterministic ACT / BLOCK / ESCALATE with an immutable Judgment-Grounded Record. Local, offline, no account."
+2026-09-29T22:04:06Z,abe-flow,0.1.0,Flow Information Systems <flowinfosystems@gmail.com>,Apache-2.0,24231,Send Abe escalations to Flow's judgment service (resolve.flowinfo.co). Only ESCALATE results are sent.
+2026-09-29T22:05:24Z,goodmem-deepeval,0.3.0,PAIR Systems,,63550,"GoodMem retrieval for DeepEval — a traced retriever, LLMTestCase construction, and a retrieval-health metric."
+2026-09-29T22:05:24Z,goodmem-llamaindex,0.2.3,bashareid,MIT,35007,"Native LlamaIndex retrieval, Document ingestion and agent tools for GoodMem."
+2026-09-29T22:05:24Z,goodmem-nlweb,0.3.0,GoodMem <support@goodmem.ai>,,69152,"GoodMem as an NLWeb retrieval provider — Schema.org retrieval, site filtering, and object lookup."
+2026-09-29T22:09:48Z,callva-harness-runner,0.3.0,CallVA,Apache-2.0,72763,"One headless turn of a coding agent (Claude Code or Codex) through the vendor SDKs: explicit knobs, a deadline that kills the tree, one result."
+2026-09-29T22:10:07Z,tiktok-mcp-server,1.0.0,,MIT,102903,"MCP server for TikTok data extraction, discovery, search, and transcription"
+2026-09-29T22:10:48Z,goodmem-autogen,0.3.0,PAIR Systems,,48702,GoodMem memory and tools for the AutoGen agent framework.
+2026-09-29T22:10:50Z,goodmem-honeyhive,0.4.0,GoodMem <support@goodmem.ai>,,62823,GoodMem integration for HoneyHive.
+2026-09-29T22:10:55Z,goodmem-camel,0.4.0,PAIR Systems,,77121,GoodMem integration for CAMEL.
+2026-09-29T22:10:56Z,tfidf-stability,0.2.0,Matthew Maksymilian Miezaniec <matthewmiezaniec1@gmail.com>,Apache-2.0,7707656,Numerical stability and perturbation behaviour in TF-IDF-based similarity systems
+2026-09-29T22:11:54Z,libfcrypt,1.1.0,Franco Magnano <fluffins009@gmail.com>,MIT,6386,"Simple, symmetric encryption. Courtesy of Fernet."
+2026-09-29T22:17:27Z,goodmem-agent-framework,0.3.0,GoodMem <support@goodmem.ai>,,40738,GoodMem integration for Microsoft Agent Framework.
