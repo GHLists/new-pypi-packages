@@ -1,0 +1,69 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T17:19:35Z,capo-snow-device-management,0.1.0,,,189273,Python SDK for Snow Device Management.
+2026-09-29T17:19:37Z,pyclink,0.9.1,Ross Haugh <orhaugh@gmail.com>,Apache-2.0,41324988,"Embed the clink stream engine in Python: run streaming SQL in-process, read results as Arrow"
+2026-09-29T17:20:17Z,capo-snowball,0.1.0,,,344636,Python SDK for Snowball.
+2026-09-29T17:20:58Z,capo-socialmessaging,0.1.0,,,348139,Python SDK for Socialmessaging.
+2026-09-29T17:21:27Z,pakr,0.1.1,Hayam Ahamed <hayam@duck.com>,MIT,6233,Unpack and repack .pak files without mutating header data
+2026-09-29T17:21:38Z,heyfoz,0.0.1,Ivan Novak,MIT,4305,Foz: a body for the agent you already use. Name reserved; first release coming soon.
+2026-09-29T17:21:42Z,capo-ssm-contacts,0.1.0,,,375122,Python SDK for SSM Contacts.
+2026-09-29T17:21:45Z,foz,0.0.1,Ivan Novak,MIT,4259,Foz: a body for the agent you already use. Name reserved; first release coming soon.
+2026-09-29T17:21:52Z,fozling,0.0.1,Ivan Novak,MIT,4322,Foz: a body for the agent you already use. Name reserved; first release coming soon.
+2026-09-29T17:22:10Z,idi-ssactivewear-sdk,1.0.0,Bradley Reynolds,MIT,42136,A wrapper for S&S' API.
+2026-09-29T17:22:22Z,capo-ssm-guiconnect,0.1.0,,,116474,Python SDK for SSM Guiconnect.
+2026-09-29T17:23:09Z,capo-ssm-incidents,0.1.0,,,344562,Python SDK for SSM Incidents.
+2026-09-29T17:23:28Z,bayan-tokenizer,0.1.0,MIZAN Contributors,MIT,61181,"Bayan — morphological, root-cognizant tokenizer: Arabic words as (root, pattern) pairs, zero dependencies"
+2026-09-29T17:23:36Z,catastrogps,1.0.1,The Hidden Panda <soporte@catastrogps.es>,MIT,19676,"Official Python client for the Catastro GPS API: cadastral parcels in 31 European countries and regions by reference, coordinates or Spanish address"
+2026-09-29T17:23:41Z,chaskitambo,0.1.0,Tu Nombre <tu.correo@example.com>,MIT,13373,Motor centralizador de plugins de raspado autónomo para chaskywasi
+2026-09-29T17:23:50Z,capo-ssm-quicksetup,0.1.0,,,180620,Python SDK for SSM Quicksetup.
+2026-09-29T17:24:35Z,capo-ssm-sap,0.1.0,,,290829,Python SDK for SSM Sap.
+2026-09-29T17:26:10Z,hanzo-kai,0.1.0,Hanzo AI <dev@hanzo.ai>,Apache-2.0,128030,"Python client for Kai decisions on the Hanzo API: typed answers to choice, yes/no and score questions."
+2026-09-29T17:26:28Z,capo-sso-admin,0.1.0,,,634771,Python SDK for SSO Admin.
+2026-09-29T17:27:15Z,capo-storage-gateway,0.1.0,,,878041,Python SDK for Storage Gateway.
+2026-09-29T17:27:57Z,capo-supplychain,0.1.0,,,351606,Python SDK for Supplychain.
+2026-09-29T17:28:38Z,capo-support,0.1.0,,,252992,Python SDK for Support.
+2026-09-29T17:28:39Z,demangle,0.3.0,demangle contributors,MIT,3660881,"Read mangled symbol names -- Itanium C++, MSVC, pre-Itanium C++, Ada/GNAT, Rust, Swift, Objective-C, Go, D, Nim, Free Pascal, Delphi and JNI -- in pure Python, with no dependencies."
+2026-09-29T17:29:14Z,capo-support-app,0.1.0,,,157311,Python SDK for Support App.
+2026-09-29T17:29:28Z,ppsql,0.1.0,comet11x <comet11x@protonmail.com>,MIT,31424,"A preprocessor for SQL files: variables, includes and comments"
+2026-09-29T17:29:55Z,capo-supportauthz,0.1.0,,,186584,Python SDK for SupportAuthZ.
+2026-09-29T17:30:24Z,rj-home,0.0.1,"rahul, jyoshna",,5267,
+2026-09-29T17:30:36Z,capo-sustainability,0.1.0,,,122680,Python SDK for Sustainability.
+2026-09-29T17:31:19Z,session-saloon,0.1.1,,MIT,182829,"A local, live dashboard that shows your Claude Code sessions as customers at a saloon bar."
+2026-09-29T17:31:24Z,capo-swf,0.1.0,,,507815,Python SDK for SWF.
+2026-09-29T17:31:56Z,capo-synthetics,0.1.0,,,323753,Python SDK for Synthetics.
+2026-09-29T17:32:43Z,capo-taxsettings,0.1.0,,,299339,Python SDK for Taxsettings.
+2026-09-29T17:33:29Z,capo-textract,0.1.0,,,381001,Python SDK for Textract.
+2026-09-29T17:34:17Z,capo-timestream-influxdb,0.1.0,,,290828,Python SDK for Timestream Influxdb.
+2026-09-29T17:34:54Z,capo-timestream-query,0.1.0,,,281054,Python SDK for Timestream Query.
+2026-09-29T17:35:33Z,capo-timestream-write,0.1.0,,,269734,Python SDK for Timestream Write.
+2026-09-29T17:36:09Z,capo-tnb,0.1.0,,,319888,Python SDK for TNB.
+2026-09-29T17:36:45Z,aikoql,0.2.0,,,3597006,Python SDK for the Aikoql Knowledge Kernel
+2026-09-29T17:36:46Z,capo-transcribe,0.1.0,,,514115,Python SDK for Transcribe.
+2026-09-29T17:37:01Z,parcelgps,1.0.1,The Hidden Panda <soporte@catastrogps.es>,MIT,4971,"Parcel GPS: cadastral parcels in 31 European countries and regions by reference, coordinates or Spanish address (official client, same as catastrogps)"
+2026-09-29T17:37:22Z,astral-tl,2.2.0.dev2,,MIT,1577299,Telegram client library for Astral userbots
+2026-09-29T17:37:54Z,buzzr,0.0.1,Jeffrey Morris <jeff@jeff-m.com>,,33510,FRC match clipper.
+2026-09-29T17:38:19Z,applooma-rtc-native,0.1.0,AppLooma LLC <support@applooma.com>,Apache-2.0,51915010,Prebuilt native media runtime for AppLooma RTC server-side participants
+2026-09-29T17:39:25Z,applooma-bot,0.1.1,AppLooma LLC,MIT,19820,"AppLooma RTC server-side participants (bots) for Python: publish and receive raw audio/video, exchange messages"
+2026-09-29T17:40:59Z,scratch-link-bleak,0.2.0b1,,BSD-3-Clause,23723,Experimental unofficial Scratch Link BLE bridge for LEGO WeDo 2.0 on Linux
+2026-09-29T17:41:26Z,memcode,0.1.0,"Vedant Mahajan <memorylabs@gmail.com>, Ishaan Gupta <memorylabs@gmail.com>","BSD 3-Clause License Copyright (c) 2026, XortexAI Redistribution and use in source and binary forms…",1733190,Universal unified memory system for AI agents
+2026-09-29T17:42:22Z,veeam-one,0.1.0,Jonah May <jonah@mayfamily.me>,Apache-2.0,1427966,Veeam ONE REST API wrapper for Python
+2026-09-29T17:49:36Z,vst-bench-ml,0.1.1,Youssef Hemimy,MIT,76036,Auditable audio-plugin dataset generation and offline integrity verification
+2026-09-29T17:49:41Z,nad-serial,0.0.1rc1,Rogier van Staveren <rogier@batoid.com>,Apache-2.0,126015,"Library to control NAD amplifiers, tuners and receivers over serial (RS-232) or Ethernet (telnet)."
+2026-09-29T17:50:00Z,scaralang,1.0.1,Vladimir Roncevic,GNU General Public License (GPL),989409,"SCARA Robotics Domain-Specific Language (DSL) Toolchain, Compiler, and Binary Protocol Codec."
+2026-09-29T17:50:02Z,se-mapping-assurance,0.1.0,,,29816,Reusable assurance-domain mapping definitions and validation.
+2026-09-29T17:50:14Z,asian-games-2026,0.1.1,Lee Suhwan,MIT,7562,2026 Asian Games package for South Korea sports results
+2026-09-29T17:50:16Z,asian-games-2026-suhwan,0.1.0,Lee Suhwan,MIT,1417,2026 Asian Games package for South Korea sports results
+2026-09-29T17:50:59Z,video-performance-analyzer,0.1.0,video-performance-analyzer contributors,MIT,117724,"Predict and compare how videos land, using Meta's TRIBE v2 brain-encoding model, with LLM recommendations that learn from real performance."
+2026-09-29T17:52:14Z,chiaki-lib,0.1.0,Benjamin Heuberger <beni.heu@gmail.com>,AGPL-3.0-only,652319954,"Low-level pybind11 bindings around chiaki-ng, the PS4/PS5 Remote Play client library"
+2026-09-29T17:54:03Z,receitapdf,0.1.1,,MIT,5029589,Geração de PDFs dos modelos eletrônicos de receituários da Anvisa
+2026-09-29T17:55:23Z,lumawarp-py,0.5.0,Lucidity Sciences <support@luciditysciences.com>,LicenseRef-Proprietary,101141,"Official Python client and MCP server for Lumawarp, the machine learning platform by Lucidity Sciences."
+2026-09-29T17:55:38Z,meteor-shower-forecast,0.1.0,trice,MIT,51752,Realistic per-location meteor-shower rate estimates from Bortle class and radiant altitude
+2026-09-29T17:58:53Z,raise-xai,0.1.0,"Paul K. Mvula, Paula Branco, Guy-Vincent Jourdan, Iosif-Viorel Onut, Herna L. Viktor",MIT,46077,Tokenizer-aware rule-based explanations for discrete model behaviour
+2026-09-29T17:59:04Z,lumawarp,0.5.0,Lucidity Sciences <support@luciditysciences.com>,LicenseRef-Proprietary,4482,The Lumawarp Python client is published as lumawarp_py; this name reservation depends on it.
+2026-09-29T18:02:24Z,qlaya,0.4.1,saipy10,Apache-2.0,677698,"QLaya — fast, local, on-device decision engine with calibrated probabilities and user-selectable quantized model variants"
+2026-09-29T18:06:30Z,openfocus,1.28,Xinzhe Xie <xiexinzheyyy@163.com>,MIT,7373053,Multi-focus image fusion from the command line: registration (ECC / homography) plus five fusion algorithms in one pip-installable tool
+2026-09-29T18:11:46Z,tpuasm,0.1.0,Ayaka Mikazuki,MPL-2.0,323423,Assemble and disassemble TPU machine bundles with physical issue slots
+2026-09-29T18:14:48Z,everyport,0.0.0,,MIT,1725,"Every dev server, on every OS, on every machine. Placeholder; the first release is coming soon."
+2026-09-29T18:15:46Z,pytellybox,0.1.0,Sander van Vliet,Apache-2.0,43135,Async client for the Tellybox admin and kid APIs (used by the Home Assistant integration)
+2026-09-29T18:16:42Z,fakerforge,0.1.0,Shardul,MIT,78723,Synthetic data generation built on the Faker library.
+2026-09-29T18:17:44Z,noterp-mcp,0.1.0,GlobalSoft <rarzate@globalsoft.lat>,,27117,MCP server con tools para consultar endpoints del sitio NotERP
+2026-09-29T18:18:42Z,zoria,1.0.0,"Juan Carlos Alvarez, Francisco J. Racedo N.",MIT,21518190,Web-Based Interactive Dashboard for Impedance Analysis and Circuit Characterization
