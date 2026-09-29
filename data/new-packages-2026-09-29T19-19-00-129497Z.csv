@@ -1,0 +1,67 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T18:22:33Z,tau-tui,0.2.0,,MIT,182828,"Textual terminal UI for tau: streamed markdown replies, tool cards, live events and in-TUI approvals."
+2026-09-29T18:23:05Z,tau-core,0.2.0,,MIT,321178,"tau's agent core: build_agent, persona, tiers, roles, sessions and the tau CLI."
+2026-09-29T18:23:37Z,roadstyle-mcp,0.9.1,Kaveh,MIT,4338,"MCP server for roadstyle: AI agents draw styled, interactive road maps of any place or road file"
+2026-09-29T18:25:38Z,translocate,0.1.0,CoreWeave,MIT,132355,Splice installed Python packages between environments.
+2026-09-29T18:30:21Z,didit-sdk,0.1.1,Agustin Saiz <agustinsaiz02@gmail.com>,MIT,52524,Unofficial Python SDK for Didit (didit.me) Identity Verification & KYC
+2026-09-29T18:30:33Z,willman,0.3.2,,Apache-2.0,102537,AST-aware operation registry and multi-provider task queue
+2026-09-29T18:33:38Z,compmodels-patch,2026.9.29.183815,,,13639730,"compmodels platform patch 20260929T183815Z against bundle 20260929T003841Z: pip install, then compmodels-patch apply"
+2026-09-29T18:37:20Z,rftvc,0.2.0,Gokhan Ciflikli <gokhanciflikli@gmail.com>,MIT,2857139,Scikit-learn compatible random survival forests with time-varying covariates
+2026-09-29T18:38:30Z,slipsurface.wall,0.1.0,Hasan Deniz Altuntaş <slipsurface@proton.me>,AGPL-3.0-only,296608,"Cantilever reinforced concrete retaining walls: earth pressure by Rankine, Coulomb, at rest and the trial wedge; sliding, overturning, eccentricity, bearing capacity by Terzaghi, Meyerhof, Hansen, Ve…"
+2026-09-29T18:39:00Z,django-multitenant-dt,4.2.0,"DeeplyTalented, Gurkan Indibay",,19821,Django Library to Implement Multi-tenant databases
+2026-09-29T18:39:02Z,lorecraft,0.1.0,Lorenzo Delgado <lnsdev@proton.me>,MIT OR Apache-2.0,3549457,"Toolkit for the agent-facing documentation of a repository: rule documents, feature docs, skills and the format specifications that govern them"
+2026-09-29T18:39:13Z,offlinedemo,0.1.0,offlineisbetter,,3132,Easy demonstration of models by offlineisbetter.
+2026-09-29T18:39:59Z,rsdag,1.0.0,Milan Rother,AGPL-3.0-only,3516795,"Rust symbolic graph backend: trace Python functions into a graph, differentiate, compile"
+2026-09-29T18:40:02Z,align-dotenv,0.2.0,Geonhui Lee,MIT,22397,Align local dotenv files with their templates while preserving existing values.
+2026-09-29T18:40:24Z,qfcore,1.0.0,"Konstantin Sorokin, Aleksandr Levin, Maxim Beketov, Anton Ayzenberg",MIT AND BSD-3-Clause AND BSL-1.0,337057,"QF-trees for quotient flag complexes: editable cell complexes, homology, cup products, fundamental groups and zigzag persistence"
+2026-09-29T18:41:00Z,xsite-agentic-ai,0.1.0,,,5852,Xsite Agentic_SayarGyi terminal client
+2026-09-29T18:42:08Z,manimkit,0.0.3,Thor Whalen,mit,156473,"Agent kit for Manim: skills, a searchable corpus of working ManimCE scenes, and a render-and-inspect loop"
+2026-09-29T18:42:53Z,vibesmell,0.1.0,Bernardo Castro <me@bernardocastro.dev>,MIT,1608901,"The smells a linter can't see, because they live between files: indirection and work for nobody in Python and TypeScript."
+2026-09-29T18:44:02Z,ChatShip,0.0.2,ChatArch <1073853456@qq.com>,MIT,8990,ChatShip: ChatArch Python package scaffold.
+2026-09-29T18:45:17Z,readystack-nuget-commercial-license-gate,1.0.2,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,34027,"Flags AutoMapper 15+, MediatR 13+, FluentAssertions 8+, MassTransit 9+ and other NuGet versions past their licence line, with the pin (bundled Node.js runtime)"
+2026-09-29T18:45:25Z,readystack-privacy-manifest-lint,0.1.7,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,32296,"Checks PrivacyInfo.xcprivacy and your C#, Dart, JS, Swift and Kotlin source for Apple required-reason APIs, and decodes all 17 reason codes back to the category they belong to. (bundled Node.js runti…"
+2026-09-29T18:45:41Z,readystack-wcag22-css-lint,1.0.9,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,36310,"Reads your stylesheet and names the success criterion each rule breaks, including the three WCAG 2.2 added that WCAG 2.1 linters never learned. (bundled Node.js runtime)"
+2026-09-29T18:45:58Z,readystack-maui-ios-submission-gate,1.0.7,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,37477,Reads a .NET MAUI app's iOS Info.plist and Entitlements.plist and names every App Store Review 5.1.1(i) purpose-string rejection and export-compliance defect before the build is uploaded. (bundled No…
+2026-09-29T18:46:18Z,sempropos,0.2.0,,MIT,103121,Offline CLI command synthesis from local man pages
+2026-09-29T18:47:46Z,cft-fab-test,1.8.1b1,John Kerski,MIT,658810,"Unified CLI for validating Microsoft Fabric artifacts: Best Practice Analyzer rules, PBIR report structure, DAX tests, and rendered-report checks behind one command and one result contract"
+2026-09-29T18:48:31Z,gqlsleuth,1.0.0,Tomás Ortiz,MIT,552449,A CLI for authorized GraphQL security discovery and analysis
+2026-09-29T18:49:19Z,cv-dataset-ir,0.1.0,,Apache-2.0,10727379,Rust CV dataset transforms and portable packed IR with NumPy/PyTorch access
+2026-09-29T18:50:45Z,mscard,0.1.0,Cedric Conday,MIT,70431,"Longitudinal multiple sclerosis MRI report that grades itself: new, enlarging, resolved and slowly expanding lesions, brain volume change, and a calibration of the same pipeline on the same scan with…"
+2026-09-29T18:51:58Z,fraudurl,1.0.1,Amruthjithraj V.R,MIT AND MPL-2.0,639366,"Fast, offline phishing-URL checker: CSV in, verdict + calibrated probability + plain-English reasons out"
+2026-09-29T18:52:08Z,capo-transcribe-streaming,0.1.0,,,303373,Python SDK for Transcribe Streaming.
+2026-09-29T18:52:55Z,capo-transfer,0.1.0,,,783760,Python SDK for Transfer.
+2026-09-29T18:53:24Z,pyreorder,2026.9.1,Jan Reimes <Jan.Reimes@head-acoustics.com>,MIT,157221,AST-based Python module reorganizer
+2026-09-29T18:53:46Z,capo-translate,0.1.0,,,278925,Python SDK for Translate.
+2026-09-29T18:54:09Z,narrative-contracts,0.1.0a2,Narrative Contracts contributors,MIT,311726,Deterministic contracts and mutation audits for state-conditioned language generation
+2026-09-29T18:54:34Z,capo-trustedadvisor,0.1.0,,,199038,Python SDK for Trustedadvisor.
+2026-09-29T18:55:18Z,capo-uxc,0.1.0,,,110826,Python SDK for UXC.
+2026-09-29T18:55:56Z,capo-verifiedpermissions,0.1.0,,,465710,Python SDK for Verifiedpermissions.
+2026-09-29T18:56:39Z,capo-voice-id,0.1.0,,,310405,Python SDK for Voice Id.
+2026-09-29T18:57:00Z,squalor-slicer,1.0.0,Squalor LLC,Apache-2.0,339771,Roadmap and slice manager for the review -> slice -> implement loop
+2026-09-29T18:57:20Z,capo-vpc-lattice,0.1.0,,,618303,Python SDK for VPC Lattice.
+2026-09-29T18:57:33Z,flaskbb-plugin-test-mail,0.3.0,Peter Justin <peter.justin@outlook.com>,BSD-3-Clause,11954,A plugin for testing the mail server config
+2026-09-29T18:58:05Z,capo-waf,0.1.0,,,664205,Python SDK for WAF.
+2026-09-29T18:58:41Z,capo-waf-regional,0.1.0,,,703812,Python SDK for WAF Regional.
+2026-09-29T18:59:21Z,capo-wafv2,0.1.0,,,820997,Python SDK for Wafv2.
+2026-09-29T19:00:00Z,capo-wellarchitected,0.1.0,,,628416,Python SDK for Wellarchitected.
+2026-09-29T19:00:41Z,capo-wickr,0.1.0,,,411665,Python SDK for Wickr.
+2026-09-29T19:01:34Z,capo-wisdom,0.1.0,,,388778,Python SDK for Wisdom.
+2026-09-29T19:02:07Z,agent-control-panel,0.1.0,,Apache-2.0,78659,Agent Control Panel SDK for Python: fail-open reporting and remote control for AI agents
+2026-09-29T19:02:25Z,capo-workdocs,0.1.0,,,433614,Python SDK for Workdocs.
+2026-09-29T19:02:41Z,pytest-narrative-contracts,0.1.0a2,,MIT,7421,Pytest fixtures and reports for narrative-contracts
+2026-09-29T19:02:56Z,galeo,0.1.0,,Apache-2.0,41646,Validate Galeo access tokens and wire Galeo sign-in into Python services
+2026-09-29T19:03:05Z,capo-workmail,0.1.0,,,710992,Python SDK for Workmail.
+2026-09-29T19:03:34Z,consensusiq,0.0.1,Holden Hinkle,Apache-2.0,2157,Placeholder for the forthcoming ConsensusIQ SDK. Not yet functional.
+2026-09-29T19:03:48Z,capo-workmailmessageflow,0.1.0,,,105543,Python SDK for Workmailmessageflow.
+2026-09-29T19:04:26Z,capo-workspaces,0.1.0,,,857400,Python SDK for Workspaces.
+2026-09-29T19:04:39Z,pydantic-ogcapi,0.1.0,Josh Hansen <josh@skwash.net>,Apache-2.0,48492,"Pydantic models for the OGC API - Features standards, extending pydantic-geojson."
+2026-09-29T19:05:08Z,capo-workspaces-instances,0.1.0,,,254430,Python SDK for Workspaces Instances.
+2026-09-29T19:05:41Z,vesta-client,0.1.0,Jesper Andersson,MIT,76797,Python client library for the Vesta protocol
+2026-09-29T19:05:42Z,capo-workspaces-thin-client,0.1.0,,,222778,Python SDK for Workspaces Thin Client.
+2026-09-29T19:07:14Z,package0024,0.1,Priyanshu Bhatt,,3750,This is speech to text package created by PB
+2026-09-29T19:09:48Z,liveimport-autoload,1.0.0,Edward Screven,MIT,5006,Import LiveImport automatically when IPython and Jupyter kernels start.
+2026-09-29T19:10:04Z,django-keycloak-jwt,0.2.0,Theodor Franke <theodor.franke@icloud.com>,MIT,209352,Stateless Keycloak JWT authentication for Django REST Framework
+2026-09-29T19:10:31Z,schepherd,0.1.0,,MIT,21660386,Delivers pinned JSON Schemas from an OCI catalog to verified local files.
+2026-09-29T19:10:45Z,bifrostcrypto,0.1.0,,,15541,Official Bifrost Crypto API client for Python
+2026-09-29T19:15:46Z,tatuy,0.1.0,Santiago Rincón,MIT,203506,"Tatuy is a Python 2D game engine built around scenes, an Entity Component System (ECS), and separate gameplay and rendering stages. It provides reusable systems for movement, collisions, entity lifec…"
+2026-09-29T19:15:59Z,nemo-helix,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1065,Zero version placeholder for nemo_helix
