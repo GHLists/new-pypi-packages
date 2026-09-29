@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T23:53:55Z,bosun-call,0.1.0,Chris Thierauf <christopher.thierauf@whoi.edu>,Apache-2.0,103752,A unified experiment runner for robot simulation
+2026-09-29T02:31:30Z,arena-predictions,0.2.0,ZBGC LLC <support@zbgcllc.com>,MIT,120038,"Python SDK for Arena Predictions: resolve bets in words to Arena instrument ids, read cross-venue quotes and price gaps, Arena's public records and your own account. Paper trading only; this SDK plac…"
+2026-09-29T02:34:55Z,fontpkg-maven-pro,2.103,,OFL-1.1,55747,"Maven Pro font family, packaged for Python by fontpkg"
+2026-09-29T02:34:57Z,fontpkg-bungee,2.0,,OFL-1.1,62196,"Bungee font family, packaged for Python by fontpkg"
+2026-09-29T02:34:59Z,fontpkg-zeyada,1.2,,OFL-1.1,40227,"Zeyada font family, packaged for Python by fontpkg"
+2026-09-29T02:35:01Z,fontpkg-questrial,2.0,,OFL-1.1,100479,"Questrial font family, packaged for Python by fontpkg"
+2026-09-29T02:35:13Z,shopee-servicegov-cli,0.0.0,sc,BSD License,2473,A small example package
+2026-09-29T02:38:27Z,telemetry-cli,1.0.0,David A. Imel,MIT,1022747,"Command-line tools for binary telemetry: decode, extract, measure and generate records"
+2026-09-29T02:38:37Z,protect-dl,0.1.0,Alex N. Jose,Apache-2.0,74765,"Download footage for a time range from a local UniFi Protect console, resumably, with merge and timelapse"
+2026-09-29T02:42:37Z,inferlint,0.1.0,RadianVector <hello@radianvector.com>,Apache-2.0,612181,"Things your inference server doesn't tell you, turned into checks."
+2026-09-29T02:44:37Z,mkdeck,0.1.0,Senthur Ayyappan,MIT AND OFL-1.1,1741297,"Minimal HTML slide decks from Markdown or Python, served like mkdocs."
+2026-09-29T02:49:54Z,tokentab,0.1.0,,MIT,75851,"What your Claude Code token spend bought, per merged PR"
+2026-09-29T02:54:16Z,d4d,0.1.0,,PolyForm-Noncommercial-1.0.0,61092,Design for Descent: grammar-guided hybrid discrete/continuous optimization
+2026-09-29T03:03:25Z,fetch-planning,0.3.0,,,144464623,Whole-body Fetch motion planning (OMPL + VAMP)
+2026-09-29T03:07:05Z,synapse-gateway,1.7.6,,Apache-2.0,94589756,ReactorPro Gateway (Synapse) as a pip-installable native binary - headless agent mesh gateway + agentd worker
+2026-09-29T03:10:00Z,pasm-domain-advisor,0.1.0,arronzheng,MIT,80307,泛例 PASM 领域顾问引擎：声明式 DomainProfile + 前提抽取 + 现行规则核验 + 自检闸门。抖音开店/跨境电商/食品许可仅为示例实例，可复用到任意顾问领域。
+2026-09-29T03:17:21Z,clirey,0.1.0,Inzam <your-email@example.com>,MIT,47198,A powerful CLI & live terminal monitor for Celery with just a broker URL

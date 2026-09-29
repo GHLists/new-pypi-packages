@@ -1,37 +1,25 @@
 {
   "list": {
-    "count": 20,
-    "from": "2026-09-29T01:19:03.717762Z",
-    "path": "data/new-packages-2026-09-29T02-20-27-712467Z.csv",
-    "to": "2026-09-29T02:20:27.712467Z"
+    "count": 17,
+    "from": "2026-09-29T02:20:27.712467Z",
+    "path": "data/new-packages-2026-09-29T03-18-55-091948Z.csv",
+    "to": "2026-09-29T03:18:55.091948Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-28T22:38:25Z",
-      "package": "arr-dynamictool",
-      "since": "2026-09-28T22:21:43.333062Z"
-    },
-    {
-      "attempts": 3,
-      "created_at": "2026-09-28T23:53:55Z",
-      "package": "bosun_call",
-      "since": "2026-09-28T23:20:05.185299Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-28T22:33:24Z",
-      "package": "dynamictool",
-      "since": "2026-09-28T22:21:43.333062Z"
-    },
-    {
       "attempts": 1,
+      "created_at": "2026-09-29T03:18:21Z",
+      "package": "django-eadmin",
+      "since": "2026-09-29T02:20:27.712467Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-09-29T01:42:02Z",
       "package": "noust",
       "since": "2026-09-29T01:19:03.717762Z"
     }
   ],
-  "serial": 41577355,
+  "serial": 41578668,
   "source_truncated": false,
-  "window": "2026-09-29T02:20:27.712467Z"
+  "window": "2026-09-29T03:18:55.091948Z"
 }

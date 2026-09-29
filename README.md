@@ -8,31 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 02:20 UTC
+## Latest list — 2026-09-29 03:18 UTC
 
-New packages created between 2026-09-29 01:19 UTC and 2026-09-29 02:20 UTC.
+New packages created between 2026-09-29 02:20 UTC and 2026-09-29 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-29T02-20-27-712467Z.csv)
+[Full CSV](data/new-packages-2026-09-29T03-18-55-091948Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-29 01:19:22 | [yosoku](https://pypi.org/project/yosoku/) | 0.1.0 | Enrico Shippole | 2.1 kB | Add your description here |
-| 2026-09-29 01:21:01 | [jira-watcher-agent](https://pypi.org/project/jira-watcher-agent/) | 0.1.0 | Sameer Gaikwad <samygaikwad@g… | 135.2 kB | AI-powered JIRA planner, organizer, and triage CLI. Fetch tickets assigned to y… |
-| 2026-09-29 01:26:28 | [swiftapi-native-void](https://pypi.org/project/swiftapi-native-void/) | 0.1.0 | Rayan Pal | 42.6 kB | One-command reproduction and verification of Rayan Pal's canonical model-native… |
-| 2026-09-29 01:26:30 | [magical-py](https://pypi.org/project/magical-py/) | 0.1.1 |  | 3.2 MB | Native Python bindings for magical_rs, a zero-dependency file type detection li… |
-| 2026-09-29 01:26:56 | [wayleave](https://pypi.org/project/wayleave/) | 0.1.0 |  | 14.8 kB | Identify AI agents from Python. Client and WSGI/ASGI middleware for the hosted… |
-| 2026-09-29 01:27:31 | [objbase](https://pypi.org/project/objbase/) | 0.3.0 | fm-labs <code@fmlabs.dev> | 126.5 kB | Damn simple object store for Python dicts and Pydantic models across multiple b… |
-| 2026-09-29 01:28:49 | [server-agent-console](https://pypi.org/project/server-agent-console/) | 0.4.1 |  | 167.4 kB | Self-contained conversational ops agent console for FastAPI apps |
-| 2026-09-29 01:35:29 | [rag-core-sdk](https://pypi.org/project/rag-core-sdk/) | 0.10.2 | openEuler community | 15.3 kB | Optional Python client SDK for witty-rag / rag_core REST APIs |
-| 2026-09-29 01:37:19 | [cqlib-tianyan](https://pypi.org/project/cqlib-tianyan/) | 0.1.0b1 | Cqlib Development Team <tiany… | 10.6 MB | Python client for the Tianyan quantum cloud platform. |
-| 2026-09-29 01:38:54 | [reask](https://pypi.org/project/reask/) | 0.1.0 | Mikhail Nezhinsky | 24.6 kB | An agent skill that re-asks a pending question as a self-contained briefing |
-| 2026-09-29 01:42:46 | [agentseed](https://pypi.org/project/agentseed/) | 0.1.0 |  | 138.9 kB | Minimal pluggable LLM agent server (FastAPI + Pydantic AI) |
-| 2026-09-29 01:56:56 | [agent-rt-langchain](https://pypi.org/project/agent-rt-langchain/) | 0.0.0 | Praneeth Vadlapati | 2.8 kB | Hello world package for Agent RT. |
-| 2026-09-29 01:57:00 | [ionoNISAR](https://pypi.org/project/ionoNISAR/) | 0.1.0 |  | 358.0 kB | Ionospheric correction for NISAR L-band interferograms |
-| 2026-09-29 01:57:44 | [agent-rt-llamaindex](https://pypi.org/project/agent-rt-llamaindex/) | 0.0.0 | Praneeth Vadlapati | 2.8 kB | Hello world package for Agent RT. |
-| 2026-09-29 01:59:38 | [stoa-cli](https://pypi.org/project/stoa-cli/) | 0.2.0 | Stoa Markets, Inc. | 179.1 kB | Stoa Markets from the terminal: sign in, browse the catalog, open requests for… |
-| 2026-09-29 02:02:23 | [coltess](https://pypi.org/project/coltess/) | 0.1.0 | Manuel Garcia <mangarciama@un… | 75.5 kB | Curves of Light from TESS (COLTESS): photometry tool for TESS FFIs |
-| 2026-09-29 02:04:51 | [heyquilt](https://pypi.org/project/heyquilt/) | 0.0.1 | Daniel Carmichael | 1.8 kB | Quilt: real-time pair coding that works with any AI tool. Coming soon at https:… |
-| 2026-09-29 02:07:34 | [clockify-unofficial-sdk](https://pypi.org/project/clockify-unofficial-sdk/) | 1.0.0 | "G.A.JAGUAR" <dev@gajaguar.co… | 142.0 kB | Unofficial, typed Python SDK for the Clockify API. |
-| 2026-09-29 02:09:37 | [limxsdk](https://pypi.org/project/limxsdk/) | 4.1.1 |  | 7.1 MB |  |
-| 2026-09-29 02:15:38 | [gills](https://pypi.org/project/gills/) | 0.1.0 | Miguel Jacq | 1.2 MB | Watch APT and RPM repositories for package changes |
+| 2026-09-28 23:53:55 | [bosun-call](https://pypi.org/project/bosun-call/) | 0.1.0 | Chris Thierauf <christopher.t… | 103.8 kB | A unified experiment runner for robot simulation |
+| 2026-09-29 02:31:30 | [arena-predictions](https://pypi.org/project/arena-predictions/) | 0.2.0 | ZBGC LLC <support@zbgcllc.com> | 120.0 kB | Python SDK for Arena Predictions: resolve bets in words to Arena instrument ids… |
+| 2026-09-29 02:34:55 | [fontpkg-maven-pro](https://pypi.org/project/fontpkg-maven-pro/) | 2.103 |  | 55.7 kB | Maven Pro font family, packaged for Python by fontpkg |
+| 2026-09-29 02:34:57 | [fontpkg-bungee](https://pypi.org/project/fontpkg-bungee/) | 2.0 |  | 62.2 kB | Bungee font family, packaged for Python by fontpkg |
+| 2026-09-29 02:34:59 | [fontpkg-zeyada](https://pypi.org/project/fontpkg-zeyada/) | 1.2 |  | 40.2 kB | Zeyada font family, packaged for Python by fontpkg |
+| 2026-09-29 02:35:01 | [fontpkg-questrial](https://pypi.org/project/fontpkg-questrial/) | 2.0 |  | 100.5 kB | Questrial font family, packaged for Python by fontpkg |
+| 2026-09-29 02:35:13 | [shopee-servicegov-cli](https://pypi.org/project/shopee-servicegov-cli/) | 0.0.0 | sc | 2.5 kB | A small example package |
+| 2026-09-29 02:38:27 | [telemetry-cli](https://pypi.org/project/telemetry-cli/) | 1.0.0 | David A. Imel | 1.0 MB | Command-line tools for binary telemetry: decode, extract, measure and generate… |
+| 2026-09-29 02:38:37 | [protect-dl](https://pypi.org/project/protect-dl/) | 0.1.0 | Alex N. Jose | 74.8 kB | Download footage for a time range from a local UniFi Protect console, resumably… |
+| 2026-09-29 02:42:37 | [inferlint](https://pypi.org/project/inferlint/) | 0.1.0 | RadianVector <hello@radianvec… | 612.2 kB | Things your inference server doesn't tell you, turned into checks. |
+| 2026-09-29 02:44:37 | [mkdeck](https://pypi.org/project/mkdeck/) | 0.1.0 | Senthur Ayyappan | 1.7 MB | Minimal HTML slide decks from Markdown or Python, served like mkdocs. |
+| 2026-09-29 02:49:54 | [tokentab](https://pypi.org/project/tokentab/) | 0.1.0 |  | 75.9 kB | What your Claude Code token spend bought, per merged PR |
+| 2026-09-29 02:54:16 | [d4d](https://pypi.org/project/d4d/) | 0.1.0 |  | 61.1 kB | Design for Descent: grammar-guided hybrid discrete/continuous optimization |
+| 2026-09-29 03:03:25 | [fetch-planning](https://pypi.org/project/fetch-planning/) | 0.3.0 |  | 144.5 MB | Whole-body Fetch motion planning (OMPL + VAMP) |
+| 2026-09-29 03:07:05 | [synapse-gateway](https://pypi.org/project/synapse-gateway/) | 1.7.6 |  | 94.6 MB | ReactorPro Gateway (Synapse) as a pip-installable native binary - headless agen… |
+| 2026-09-29 03:10:00 | [pasm-domain-advisor](https://pypi.org/project/pasm-domain-advisor/) | 0.1.0 | arronzheng | 80.3 kB | 泛例 PASM 领域顾问引擎：声明式 DomainProfile + 前提抽取 + 现行规则核验 + 自检闸门。抖音开店/跨境电商/食品许可仅为示例实例，可复… |
+| 2026-09-29 03:17:21 | [clirey](https://pypi.org/project/clirey/) | 0.1.0 | Inzam <your-email@example.com> | 47.2 kB | A powerful CLI & live terminal monitor for Celery with just a broker URL |
