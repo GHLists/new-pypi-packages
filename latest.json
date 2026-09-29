@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-09-29T09:19:05.437964Z",
-    "path": "data/new-packages-2026-09-29T10-19-05-508565Z.csv",
-    "to": "2026-09-29T10:19:05.508565Z"
+    "count": 58,
+    "from": "2026-09-29T10:19:05.508565Z",
+    "path": "data/new-packages-2026-09-29T11-21-03-86266Z.csv",
+    "to": "2026-09-29T11:21:03.86266Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-09-29T11:18:08Z",
+      "package": "UFFPSim",
+      "since": "2026-09-29T10:19:05.508565Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-09-29T07:52:00Z",
       "package": "buattensorart2-helpers",
       "since": "2026-09-29T07:19:45.054563Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-29T09:19:16Z",
       "package": "metadatax",
       "since": "2026-09-29T09:19:05.437964Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-29T06:57:53Z",
-      "package": "mq-bridge-basic",
-      "since": "2026-09-29T06:18:58.821952Z"
     }
   ],
-  "serial": 41589892,
+  "serial": 41592146,
   "source_truncated": false,
-  "window": "2026-09-29T10:19:05.508565Z"
+  "window": "2026-09-29T11:21:03.86266Z"
 }

@@ -1,0 +1,59 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T10:19:23Z,zerogateway,0.1.1,Zerogateway Contributors,MIT,57974,A unified router and client for free LLM providers with automatic rate-limit failover
+2026-09-29T10:19:57Z,negating-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47465,Negating-Machine ...
+2026-09-29T10:20:26Z,lokate,1.0.0,jhnnsrs <jhnnsrs@gmail.com>,,26786,"The python client for lokate, the arkitekt backup of a phone's location timeline"
+2026-09-29T10:22:53Z,serpentine-io,0.1.0,Serpentine contributors,MIT,9002,"Serpentine file helpers: read/write text+bytes, line reading, file copy, and a buffered ByteReader (pure Serpentine, dual-runs under CPython)"
+2026-09-29T10:23:54Z,verificrca,0.1.0,verificrca <contact@verificrca.ro>,MIT,75061,"SDK Python oficial pentru API-ul verificrca.ro: verificare RCA, ITP, rovinieta si ARR, monitorizarea flotei si webhook-uri de expirare."
+2026-09-29T10:24:09Z,serpentine-argparse,0.2.0,Serpentine contributors,MIT,11725,"Serpentine argparse-lite: flags, options, positionals, subcommands and help text in the Serpentine subset"
+2026-09-29T10:24:49Z,transcapi-mcp,0.1.1,,MIT,12883,"MCP server for TransCAPI: live bus and rail departures, vehicles, disruptions and journey planning for Great Britain"
+2026-09-29T10:25:24Z,tachain-sdk,0.1.0,Tactic Chain contributors,MIT,370785,Tactic Chain Public API
+2026-09-29T10:26:04Z,web-audit-pro,5.2.0,Web Audit Pro contributors,Apache-2.0,271763,"Free, low-impact website security checks with plain-language reports in English and Russian: TLS, email (SPF/DMARC), security headers and WordPress plugins."
+2026-09-29T10:27:10Z,exocortex-project,0.1.0,,AGPL-3.0-only,40269619,"Plane-backed work tracking for coding agents: capture, ready queue, prompt packs and Human Review over a self-hosted Plane fork."
+2026-09-29T10:31:45Z,trustmark-hailo,0.1.0,John Collomosse,"Copyright 2026 Adobe All Rights Reserved. NOTICE: Adobe permits you to use, modify, and distribute…",750192,TrustMark encoder/decoder running on the Hailo-8L NPU (Raspberry Pi 5 AI Kit)
+2026-09-29T10:34:33Z,pydebeziumai,0.1.0a1,Kodukulla Mohnish Mythreya <kmohnishm@gmail.com>,Apache-2.0,122201,Real-time CDC Integration for LangChain & LangGraph using Debezium
+2026-09-29T10:35:25Z,trainctl,0.1.0a1,Yeongyoo Jo,"MIT License Copyright (c) 2026 trainctl contributors Permission is hereby granted, free of charge,…",90620,"A lightweight, framework-agnostic deep-learning experiment supervisor"
+2026-09-29T10:36:10Z,solutions-sdk,0.0.1,,,250060749,Reusable Luxonis barcode processing nodes
+2026-09-29T10:37:53Z,reader-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,45971,Reader-Machine ...
+2026-09-29T10:38:42Z,paper-doctor,0.1.0,,Apache-2.0,249856,Deterministic claim-to-evidence audits of reported results in an ML paper
+2026-09-29T10:38:59Z,cosmos-dev,0.1.1,Biswajit Tripathy,MIT,491386,Git-native shared engineering memory for AI coding agents. Capture -> Dream -> Ledger -> Retrieve.
+2026-09-29T10:39:41Z,smart-kickboard-jjwon,0.1.1,Jeon Jongwon <jjwon1724@naver.com>,MIT,4731,스마트 킥보드 예제 패키지
+2026-09-29T10:40:42Z,guardlayer,0.6.1,Lijith V M,"MIT License Copyright (c) 2026 Lijith V M Permission is hereby granted, free of charge, to any pers…",399610,"A lightweight security layer that filters the inputs and outputs of LLM and agent applications — prompt injection, jailbreaks, leakage, secrets, PII and unsafe actions."
+2026-09-29T10:43:10Z,euer-datev,0.1.0,Markus,,88102,Offizieller DATEV-Export (EXTF 700) & Kanzlei-Schnittstelle für euer
+2026-09-29T10:43:17Z,vuln-prioritizer-workbench,1.4.0,vuln-prioritizer-workbench contributors,MIT,1938882,"Local-first Workbench for explainable CVE prioritization from scanner, SBOM, VEX, and asset-context evidence using CVSS, EPSS, KEV, and curated ATT&CK/TTP context."
+2026-09-29T10:44:14Z,lupaxa-token-manager,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",33932,"Store API tokens in named profiles, with optional encryption, and emit them as shell exports."
+2026-09-29T10:44:35Z,oep-client-python,0.0.3,TANAKA Masayuki,MIT,254859,"Open Embedded Probe (OEP) v1 host: serial / USB / TCP transports, the session rules, the standard interfaces, and a fake probe"
+2026-09-29T10:47:02Z,localizeme,0.1.0,Devsolutely <hello@localizeme.app>,LicenseRef-PolyForm-Shield-1.0.0,67455,Command line client for LocalizeMe: pull and push translations from your build.
+2026-09-29T10:47:12Z,s-assist,0.1.0,,,261675,Add your description here
+2026-09-29T10:48:53Z,static-magic,5.45.0,Campbell Starky,BSD-2-Clause,9930380,"libmagic bindings with a statically linked, version-pinned libmagic and bundled database."
+2026-09-29T10:49:53Z,intake-core,0.0.0,Synthpop Inc,,1724,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-09-29T10:49:55Z,model-proxy,0.0.0,Synthpop Inc,,1749,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-09-29T10:49:57Z,agentic-voice-agent,0.0.0,Synthpop Inc,,1819,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-09-29T10:49:59Z,synthpop-action-runner-tool,0.0.0,Synthpop Inc,,1617,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-09-29T10:50:28Z,pyd4h,0.1.0,,GPL-3.0-only,48456,Python client library for the D4H Team Manager API
+2026-09-29T10:54:14Z,contextwalker,0.2.0,ContextWalker Contributors,,38852,"Local contextual, hybrid, and agentic RAG for PDF documents"
+2026-09-29T10:54:16Z,molcrafts-ci,0.1.1,MolCrafts,BSD-3-Clause,185618,"Shared CI engineering infrastructure for MolCrafts: snapshots, gates, index, and publish."
+2026-09-29T10:55:25Z,genro-sqlmigration,0.1.0,Genropy Team,Apache-2.0,245550,Database schema migration engine - compares desired structure with actual database and generates SQL commands
+2026-09-29T10:55:32Z,langchain-jtoken,0.1.0,Hermann Samimi <hermannsamimi@gmail.com>,MIT,5937,Compress LangChain Document page_content with jtoken for fewer LLM prompt tokens
+2026-09-29T10:57:24Z,charikat,1.0.0,"""Charikat.ma"" <contact@charikat.ma>",,5771,"Client officiel Charikat.ma — Annuaire des Entreprises au Maroc, Vérificateur ICE (Modulo 97) et Conformité Article 145 CGI"
+2026-09-29T10:59:10Z,rfds,1.0.0,RFDS maintainers,Apache-2.0,8388911,"Reflex Finance Design System: tokens, components, patterns and templates for Reflex 0.9 finance apps"
+2026-09-29T11:00:21Z,security-mcp,0.1.0,,MIT,599980,"MCP server: zero-key cybersecurity toolkit. Audit any site's security, check if a CVE is actively exploited, look up attack techniques in plain English."
+2026-09-29T11:01:14Z,pypasteur,0.0.0,"Krv Labs, Inc.",BSD-3-Clause,4904,Python bindings for Pasteur clinical AI stress testing
+2026-09-29T11:06:11Z,appfactory,0.1.1,AppFactory contributors,MIT,1513372,Open-source MCP server that takes an iOS subscription app from idea to the App Store
+2026-09-29T11:07:40Z,strategy-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47505,Strategy-Machine ...
+2026-09-29T11:08:34Z,quantsmith,0.8.0,Vadym Stupakov <vadim.stupakov@gmail.com>,MIT,64716,Composable post-training quantization with explicit plans
+2026-09-29T11:10:15Z,lateweave,0.1.0,Pau Montserrat <pau@usetaizen.com>,Apache-2.0,80400254,Composable candidate generation and optional late-interaction reranking
+2026-09-29T11:10:34Z,capo-service-catalog,0.1.0,,,841135,Python SDK for Service Catalog.
+2026-09-29T11:11:16Z,capo-service-catalog-appregistry,0.1.0,,,256817,Python SDK for Service Catalog Appregistry.
+2026-09-29T11:11:27Z,crest-sc,0.3.0,harshameghadri,MIT,19456085,"CREST: Chunked Rust Engine for Single-cell Transcriptomics - scanpy-compatible, out-of-core single-cell analysis with native Rust kernels"
+2026-09-29T11:11:36Z,lfx-boldrouter,0.1.0,BoldRouter <support@boldrouter.com>,MIT,19894,BoldRouter for Langflow: a model component and model provider for one API key across 129 models from 26 providers.
+2026-09-29T11:12:00Z,capo-service-quotas,0.1.0,,,303621,Python SDK for Service Quotas.
+2026-09-29T11:12:22Z,boxfusion-log,0.1.0,Boxfusion,MIT,79302,"Structured JSON logging with request tracing, secret redaction, pluggable storage and a built-in web log viewer."
+2026-09-29T11:12:33Z,capo-servicediscovery,0.1.0,,,391551,Python SDK for Servicediscovery.
+2026-09-29T11:13:15Z,capo-ses,0.1.0,,,648753,Python SDK for SES.
+2026-09-29T11:13:55Z,capo-sesv2,0.1.0,,,986468,Python SDK for Sesv2.
+2026-09-29T11:15:33Z,locusfiles,0.1.0,,FSL-1.1-ALv2,191095,"Local-first personal AI brain: index your own folders and search them from local MCP clients such as Claude Desktop, Claude Code and Cursor."
+2026-09-29T11:17:01Z,vamp-ci-audit,1.0,VampSecure Studios <contact@vampsecurestudios.com>,AGPL-3.0-only,31109,"CI/CD pipeline security auditor: GitHub Actions, GitLab CI and Forgejo Actions"
+2026-09-29T11:17:03Z,vamp-rag-audit,1.0,VampSecure Studios <contact@vampsecurestudios.com>,AGPL-3.0-only,38239,"RAG and agentic AI security auditor: prompt injection, context poisoning, data exfiltration"
+2026-09-29T11:18:30Z,ym-cafe-package,0.1.0,Youngmin Kim,MIT,3537,A simple cafe package
+2026-09-29T11:19:07Z,talking-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47411,Talking-Machine ...
+2026-09-29T11:19:50Z,kapsule,0.4.0,Kapsule,MIT,70908,Atomic knowledge management for AI agents (Capsule)
