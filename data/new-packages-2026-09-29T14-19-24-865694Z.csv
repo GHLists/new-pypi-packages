@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T13:20:48Z,langchain-alex,0.1.0,Bewusst.Ki,"Copyright 2026 Bewusst.Ki Licensed under the Apache License, Version 2.0 (the ""License""); you may n…",29821,Verify signed ALEX evidence bundles in LangChain and LangGraph workflows.
+2026-09-29T13:22:34Z,aiusage-dashboard,0.1.2,,MIT,106297,"One terminal dashboard for the usage / limits of Claude Code, OpenAI Codex (multiple accounts) and Grok."
+2026-09-29T13:23:57Z,garagefab,0.0.1,Turgay Zengin <turgayze@gmail.com>,MIT,2234,"Garagefab: a lightweight software factory for solo developers. You plan the work, coding agents build it."
+2026-09-29T13:24:20Z,targgen,0.0.1,Trail of Bits,Apache-2.0,600919,
+2026-09-29T13:25:15Z,nextcloud-organizer-mcp,0.1.1,Vando,MIT,888909,"MCP server for managing Nextcloud tasks, calendars and notes via natural language"
+2026-09-29T13:25:20Z,kicad-partspec,0.0.1,W23x,MIT,108035,Datasheet-derived PartSpec to verified KiCad symbols and footprints.
+2026-09-29T13:26:10Z,graphify-objectscript,0.1.0,InterSystems Iberia,MIT,66232,"InterSystems ObjectScript (.cls/.mac/.inc/.rtn) support for graphify (graphifyy) on PyPI, until native support ships upstream"
+2026-09-29T13:27:19Z,xshell-like,0.2.1,weixin_53700778,MIT,96818,类 Xshell 终端工具：SSH/串口、批量连接、多页签、会话管理、SFTP、免密部署
+2026-09-29T13:28:41Z,kleora,0.0.0,,Apache-2.0,10779,Reserved for the official Kleora SDK. The first release is 0.1.0.
+2026-09-29T13:28:47Z,django-kleora,0.0.0,,Apache-2.0,10869,Reserved for the official Kleora SDK. The first release is 0.1.0.
+2026-09-29T13:29:49Z,flodr,0.1.0,Daniel Probst <daenuprobst@gmail.com>,"MIT License Copyright (c) 2026 Daniel Probst Permission is hereby granted, free of charge, to any p…",77541,FloDR: exactly invertible dimensionality reduction built on a normalizing flow
+2026-09-29T13:29:54Z,yandex-alembic-checker,66.0.3,Yandex,,1163,A package to prevent Dependency Confusion attacks against Yandex.
+2026-09-29T13:30:05Z,yandex-flake8-project-organization,66.0.3,Yandex,,1217,A package to prevent Dependency Confusion attacks against Yandex.
+2026-09-29T13:31:02Z,citecheck-refs,0.4.1,Chen-Yang Su,,101504,Check that every reference in a bibliography exists and matches its indexed record
+2026-09-29T13:31:52Z,bortlefinder,0.2.0,trice,MIT,22415,Approximate an observer's Bortle dark-sky class from their coordinates
+2026-09-29T13:34:29Z,sfw-cognitive,10.0.0,SFW Project,Apache-2.0,44346,股票分析认知固件 SFW-10.0 · 生产级实现（五阶状态空间 / 九维概率云 / 认知沙盘 / 回测闭环）
+2026-09-29T13:35:44Z,wynkyn,0.0.1,Wynkyn,Apache-2.0,14006,"Python SDK for Wynkyn, the AI design and prepress assistant for printers (coming soon)"
+2026-09-29T13:36:10Z,py-reg-map,0.1.0,Logic Elements s.r.o,MIT,313629,"Register map generator for embedded firmware (C storage, LeBin and Modbus RTU JSON)"
+2026-09-29T13:36:44Z,django-tabbed-model-admin,0.1.0,Levi Moore,MIT,15843,Separate Django ModelAdmin forms as tabs for the same model.
+2026-09-29T13:38:13Z,hack4u-m4trix,0.5.0,Marcelo Vazquez,,4324,Una biblioteca para consultar cursos de hack4u.
+2026-09-29T13:38:49Z,tornado-demix,2.13.0,tornado-demix contributors,MIT,308543,"Tornado Cash forensics: evidence-banded exit leads, exit groups, operator clusters and FIFO tracing on 8 EVM chains, with a placebo check on real data."
+2026-09-29T13:39:47Z,sioff,0.1.0,Lorenzo Favaro <lorenzo@rth.dk>,BUSL-1.1,3036731,siOFF — siRNA off-target discovery pipeline for analyzing RIsearch2 predictions
+2026-09-29T13:40:54Z,bedrock-guardrail-firewall,4.1.0,Jeffrey Friedler,Apache-2.0,147539,Privacy-first policy enforcement for generative AI traffic
+2026-09-29T13:42:43Z,swiss-moodle-mcp,0.5.0,Dathis,MIT,156030,"MCP server for the Moodle of Swiss universities (ZHAW, FHNW, ETH, EPFL, ...): courses, learning materials, downloads and sync via browser login (SWITCH edu-ID)"
+2026-09-29T13:43:14Z,toon-python,1.0.0rc1,"Johann Schopplich, Alessio Sanfratello",MIT,48311,"Official Python implementation of TOON (Token-Oriented Object Notation), a compact, human-readable encoding of the JSON data model for LLM prompts."
+2026-09-29T13:43:36Z,odemehub,1.0.0,,Proprietary,58696,ödemehub ödeme geçidi için Python istemcisi.
+2026-09-29T13:43:38Z,adiaha-entropy,0.1.0,Dr. Monday Sunday Adiaha,,5003,Decay Entropy Scaling of Radionuclide Intervention Efficacy in Unsaturated Soil Profiles
+2026-09-29T13:46:20Z,deepseek-chat-AI,0.1.0,,MIT,226649,Local DeepSeek chat powered by llama.cpp
+2026-09-29T13:46:48Z,deepseek-chat-with-key,0.1.0,,MIT,227769,Local DeepSeek chat with key protection via llama.cpp
+2026-09-29T13:49:10Z,thousandmails,1.0.0,Hariraghav.S,ThousandMails Python SDK — Licence Copyright © 2026 Techinorm Solutions Pvt Ltd. All rights reserve…,91754,"Official Python SDK for the ThousandMails client API — transactional email, attachments, statistics, delivery logs and a live event stream."
+2026-09-29T13:53:01Z,django-tenancy-core,0.0.0,,,2374,"Reserved name. Not the real package, which is distributed privately."
+2026-09-29T13:53:03Z,django-org-auth,0.0.0,,,2333,"Reserved name. Not the real package, which is distributed privately."
+2026-09-29T13:53:06Z,django-vd-core,0.0.0,,,2321,"Reserved name. Not the real package, which is distributed privately."
+2026-09-29T13:53:08Z,django-visual-developer,0.0.0,,,2413,"Reserved name. Not the real package, which is distributed privately."
+2026-09-29T13:53:13Z,xchem-knitwork,1.2.0,Max Winokan <max@winokan.com>,,100710,FragmentKnitwork
+2026-09-29T13:56:16Z,sage-ai-cli,0.1.0,zaheerjklabs <zaheerjklabs@gmail.com>,MIT,119172,SageCLI - AI Engineering Agent for Machine Learning & Deep Learning
+2026-09-29T13:59:27Z,minimax-cpppy,0.1.1,Linus Bjarne Dittmer <linus.dittmer@stud.uni-heidelberg.de>,MIT,93994427,"MINIMAX Laplace quadrature — minimax-optimal exponents and weights for 1/x on [ymin, ymax]"
+2026-09-29T14:02:20Z,pyb-agent-sdk,0.1.0,PYB-XC,,59153,Protocol-first Python skeleton for PYB Agent SDK
+2026-09-29T14:05:17Z,fem-core,0.1.1,Gustavo Martins <gucmartins@gmail.com>,MIT,70828,"NGSolve/Netgen FEM model-building core — pure Python, no PySide6"
+2026-09-29T14:07:03Z,prongs,0.1.0,,MIT,161432,Agent-native test runner for Python: runs only the tests a change can affect
+2026-09-29T14:08:05Z,seatbelt-ai,0.5.0,ronanpdh,Apache-2.0,218828,Seatbelt is a model-agnostic harness for AI agents.
+2026-09-29T14:08:11Z,ingam,0.0.1,,,1376,Payment safety checks for AI agents. Coming soon: https://ingam.dev
+2026-09-29T14:08:24Z,amselect-mcp,1.2.7,"""AirMettle Inc."" <support@airmettle.com>",MIT,31832,MCP server for AirMettle Select
+2026-09-29T14:09:06Z,python-env-repair,0.1.0,,GPL-3.0-only,534538,Detect and repair console_scripts launchers of a Python environment without reinstalling packages
+2026-09-29T14:09:37Z,xtr-rate-limiter,2.0.0,Xterr,MIT,108259,"Limits on how often anything may happen — calls, jobs, logins — by fixed window, sliding window or token bucket, kept in memory, in a cache or atomically in Redis."
+2026-09-29T14:10:27Z,wcag-site-pdf-scanner,5.0.2,Fusion Technology Strategies,MIT,1445146,"Evidence-first WCAG 2.2 scanning for websites, local HTML, and PDF documents"
+2026-09-29T14:11:52Z,oxiserial,0.1.0,,BSD-3-Clause,19945013,"Serial port access for Python, implemented in Rust, with the pyserial API"
+2026-09-29T14:12:12Z,aws-chaos-engineering-framework,2.0.3,Fusion Technology Strategies,Apache-2.0,979321,Guarded AWS FIS orchestration and one-file chaos engineering extensions
+2026-09-29T14:13:17Z,hey-dave,0.1.0a1,thesawdawg,PolyForm-Noncommercial-1.0.0 AND MIT AND ISC AND BSD-3-Clause AND OFL-1.1,3843148,A terminal coding-agent harness that runs D.A.V.E. natively
+2026-09-29T14:14:38Z,dividendcase,0.1.0,DividendCase contributors,AGPL-3.0-or-later,2509001,"A free, open-source dividend tracker that runs on your own computer. Your data stays with you."
+2026-09-29T14:15:47Z,werkzeug-compat-shim,0.0.1,Eliad Mualem <eliad123123@gmail.com>,MIT,3958,Placeholder - compatibility shim for Werkzeug (under development)
+2026-09-29T14:16:49Z,neural-cost,0.1.1,Neural Cost contributors,MIT,697547,Theoretical and measured memory/compute analysis for neural networks.
+2026-09-29T14:18:29Z,grownet,0.1.0,"Syntropa, KU Leuven, Lab of Molecular Bacteriology",Apache-2.0,368196,"Build experimentally grounded microbial interaction networks from mGrowthDB data, in a neutral format that Syntropa, microbetag, and other tools can consume."
