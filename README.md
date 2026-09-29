@@ -8,54 +8,83 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 08:25 UTC
+## Latest list — 2026-09-29 09:19 UTC
 
-New packages created between 2026-09-29 07:19 UTC and 2026-09-29 08:25 UTC.
+New packages created between 2026-09-29 08:25 UTC and 2026-09-29 09:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-29T08-25-39-184012Z.csv)
+[Full CSV](data/new-packages-2026-09-29T09-19-05-437964Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-29 07:16:42 | [fibonacci-tdd-kata](https://pypi.org/project/fibonacci-tdd-kata/) | 0.1.3 | marianacfreitas | 4.6 kB | Add your description here |
-| 2026-09-29 07:21:27 | [graincheck](https://pypi.org/project/graincheck/) | 0.1.0 | Prem Burugupally | 398.6 kB | Find analytical SQL that runs clean and returns the wrong number. |
-| 2026-09-29 07:24:57 | [lythosrock](https://pypi.org/project/lythosrock/) | 0.1.0 | Hasan Deniz Altuntaş <lythosf… | 222.4 kB | Rock mass strength and deformability after the generalised Hoek–Brown criterion… |
-| 2026-09-29 07:25:36 | [jlawcite](https://pypi.org/project/jlawcite/) | 2.0.0 | yabooung | 199.8 kB | JLaw-CiteGraph: deterministic citation graph and embedding-free search for Japa… |
-| 2026-09-29 07:26:53 | [masterdb](https://pypi.org/project/masterdb/) | 0.0.1 | MasterDB | 3.0 kB | MasterDB client for Python — name reserved; the client is published from client… |
-| 2026-09-29 07:30:16 | [insider-signals](https://pypi.org/project/insider-signals/) | 1.0.0 | TradeStar Insider | 17.7 kB | Dependency-free Python client for the TradeStar Insider API — filing-verified S… |
-| 2026-09-29 07:30:23 | [ethswarm-volumes](https://pypi.org/project/ethswarm-volumes/) | 0.1.0 |  | 277.7 kB | Data API and CLI for Swarm VolumeRegistry deployments |
-| 2026-09-29 07:35:51 | [masterdb-verifier](https://pypi.org/project/masterdb-verifier/) | 0.0.1 | MasterDB | 3.2 kB | MasterDB verifier for Python — name reserved; the verifier is published from ve… |
-| 2026-09-29 07:36:37 | [plainml](https://pypi.org/project/plainml/) | 0.1.0 | Pranay Obla | 493.2 kB | Machine learning in plain English: from a spreadsheet to a trained, explained,… |
-| 2026-09-29 07:37:46 | [atlisp-pdf2dwg](https://pypi.org/project/atlisp-pdf2dwg/) | 0.1.0 | vitalgg | 116.8 kB | Convert PDF drawings and documents to DXF (optionally DWG) using local OCR, nat… |
-| 2026-09-29 07:39:21 | [serp-time](https://pypi.org/project/serp-time/) | 0.1.0 | Serpentine contributors | 4.2 kB | Serpentine time library: time()/monotonic()/sleep() (runtime-backed; delegates… |
-| 2026-09-29 07:44:59 | [greptimedb-ingester](https://pypi.org/project/greptimedb-ingester/) | 0.1.0 |  | 13.4 MB | Python bindings for the GreptimeDB Rust ingester |
-| 2026-09-29 07:47:00 | [multiagentos](https://pypi.org/project/multiagentos/) | 0.4.0 |  | 267.0 kB | Local-first, GitHub-native multi-agent orchestration foundation for VYRELON |
-| 2026-09-29 07:47:57 | [serp-asyncio](https://pypi.org/project/serp-asyncio/) | 0.1.0 | Serpentine contributors | 12.7 kB | Serpentine drop-in `asyncio`: Event/Lock/Semaphore/BoundedSemaphore/Queue over… |
-| 2026-09-29 07:49:20 | [agentiqdex](https://pypi.org/project/agentiqdex/) | 0.1.1 |  | 30.6 kB | Create local HTML maps of JavaScript, TypeScript, HTML, and Java codebases |
-| 2026-09-29 07:49:43 | [awesome-vunit-vcs](https://pypi.org/project/awesome-vunit-vcs/) | 0.1.0a1 | Sebastian Hellgren <sebastian… | 1.3 MB | Third-party VUnit verification components: VHDL pin timing, Python verification… |
-| 2026-09-29 07:49:57 | [Collectra](https://pypi.org/project/Collectra/) | 0.1.0 | Robert Turnbull | 1.5 MB | Builds pipelines to extract data from collection images. |
-| 2026-09-29 07:49:57 | [skillhub-selfhost](https://pypi.org/project/skillhub-selfhost/) | 1.0.0 |  | 375.8 kB | A self-hosted AI skill marketplace |
-| 2026-09-29 07:50:00 | [kliz](https://pypi.org/project/kliz/) | 0.2.0 | Freddy Choudja | 46.2 kB | Bot d'indexation SEO agnostique pour notifier les moteurs de recherche. |
-| 2026-09-29 07:55:33 | [opentapovac](https://pypi.org/project/opentapovac/) | 0.1.0 | Tobias Brox <tobias@redpill-l… | 274.1 kB | Local control of a TP-Link Tapo robot vacuum: CLI, daemon and web page |
-| 2026-09-29 07:58:27 | [tailoop](https://pypi.org/project/tailoop/) | 0.0.1 |  | 2.4 kB | Tailoop is distributed privately. This release only holds the name. |
-| 2026-09-29 07:59:38 | [akeylimiter](https://pypi.org/project/akeylimiter/) | 0.1.0 | RektPunk | 6.3 kB | Key based async rate limiting |
-| 2026-09-29 08:00:22 | [apibaseball](https://pypi.org/project/apibaseball/) | 0.2.0 | ApiSports | 47.2 kB | Python SDK for the API Baseball |
-| 2026-09-29 08:07:56 | [bizgo-sdk-comm](https://pypi.org/project/bizgo-sdk-comm/) | 1.2.0 | Infobank | 517.6 kB | Python SDK for the Bizgo Communication API (SMS/LMS/MMS, RCS, Kakao AlimTalk/Br… |
-| 2026-09-29 08:11:59 | [alben](https://pypi.org/project/alben/) | 0.1.1 | AlbenW | 264.7 kB | 复刻 TypeSafe System One (Jev) 的开源实现：运行时任意 criteria + 校准概率 |
-| 2026-09-29 08:12:16 | [localbib-plugin-api](https://pypi.org/project/localbib-plugin-api/) | 2.0.0 |  | 79.7 kB | The Add-on Contract of LocalBib: protocols, manifest schema and test fakes for… |
-| 2026-09-29 08:15:16 | [xuvdb](https://pypi.org/project/xuvdb/) | 0.1.0 |  | 81.0 kB | Editable sparse voxel volumes with OpenVDB interop, built on quadrants kernels |
-| 2026-09-29 08:20:09 | [serp-coil](https://pypi.org/project/serp-coil/) | 0.1.0 | Serpentine contributors | 50.1 kB | Coil: a numpy drop-in for Serpentine — dense float64/int64/bool arrays with num… |
-| 2026-09-29 08:20:46 | [qdrant-to-parquet](https://pypi.org/project/qdrant-to-parquet/) | 0.1.0 | Qdrant Team | 41.8 kB | CLI tool to export a Qdrant collection to a Parquet file |
-| 2026-09-29 08:21:23 | [serp-datetime](https://pypi.org/project/serp-datetime/) | 0.3.0 | Serpentine contributors | 14.0 kB | Serpentine UTC date/time: civil-calendar Dt dataclass, unix conversions, ISO-86… |
-| 2026-09-29 08:21:24 | [capo-route-53-domains](https://pypi.org/project/capo-route-53-domains/) | 0.1.0 |  | 377.2 kB | Python SDK for Route 53 Domains. |
-| 2026-09-29 08:21:45 | [ansatz-search](https://pypi.org/project/ansatz-search/) | 0.1.0 | Peter Röseler | 327.2 kB | Metric-driven search for parameterized quantum circuits: expressibility, traina… |
-| 2026-09-29 08:21:54 | [dicom-ai-router](https://pypi.org/project/dicom-ai-router/) | 0.3.0 | Seth Turnbo | 103.4 kB | Route DICOM studies to AI models and back to PACS: rules, de-identification, SR… |
-| 2026-09-29 08:22:04 | [capo-route53-recovery-cluster](https://pypi.org/project/capo-route53-recovery-cluster/) | 0.1.0 |  | 134.0 kB | Python SDK for Route53 Recovery Cluster. |
-| 2026-09-29 08:22:34 | [serp-fang](https://pypi.org/project/serp-fang/) | 0.3.0 | Serpentine contributors | 24.7 kB | Fang — Serpentine's httpx-style sync HTTP(S) client: Client/Response/stream, re… |
-| 2026-09-29 08:23:13 | [hl7v2-fhir-bridge](https://pypi.org/project/hl7v2-fhir-bridge/) | 0.1.0 | Seth Turnbo | 158.4 kB | HL7 v2 (ADT, ORM/OMI, ORU) over MLLP to FHIR R4 transaction bundles for radiolo… |
-| 2026-09-29 08:23:28 | [capo-route53-recovery-control-config](https://pypi.org/project/capo-route53-recovery-control-config/) | 0.1.0 |  | 255.9 kB | Python SDK for Route53 Recovery Control Config. |
-| 2026-09-29 08:23:40 | [serp-http-server](https://pypi.org/project/serp-http-server/) | 0.1.0 | Serpentine contributors | 9.7 kB | Serpentine minimal HTTP/1.1 server: blocking accept/respond loop with request p… |
-| 2026-09-29 08:24:06 | [capo-route53-recovery-readiness](https://pypi.org/project/capo-route53-recovery-readiness/) | 0.1.0 |  | 279.1 kB | Python SDK for Route53 Recovery Readiness. |
-| 2026-09-29 08:24:29 | [stackconfdump](https://pypi.org/project/stackconfdump/) | 0.1.0 | Younes Z. | 28.5 kB | Export the shape of one Dokploy project from a database dump as a portable JSON… |
-| 2026-09-29 08:24:47 | [capo-route53globalresolver](https://pypi.org/project/capo-route53globalresolver/) | 0.1.0 |  | 452.9 kB | Python SDK for Route53Globalresolver. |
-| 2026-09-29 08:25:06 | [odoo-addon-sy-partner-guild](https://pypi.org/project/odoo-addon-sy-partner-guild/) | 18.0.1.0.0 | Sygel | 37.5 kB | Manage guilds on partners |
-| 2026-09-29 08:25:25 | [capo-route53profiles](https://pypi.org/project/capo-route53profiles/) | 0.1.0 |  | 195.1 kB | Python SDK for Route53Profiles. |
+| 2026-09-29 08:25:37 | [serp-itertools](https://pypi.org/project/serp-itertools/) | 0.2.0 | Serpentine contributors | 12.0 kB | Serpentine drop-in facade for CPython's itertools (lazy iterator classes: count… |
+| 2026-09-29 08:26:04 | [capo-route53resolver](https://pypi.org/project/capo-route53resolver/) | 0.1.0 |  | 697.4 kB | Python SDK for Route53Resolver. |
+| 2026-09-29 08:26:39 | [capo-rtbfabric](https://pypi.org/project/capo-rtbfabric/) | 0.1.0 |  | 330.5 kB | Python SDK for Rtbfabric. |
+| 2026-09-29 08:26:42 | [my-laptop-components](https://pypi.org/project/my-laptop-components/) | 0.1.0 |  | 11.2 kB | A simple Python package demonstrating the hierarchy of laptop components. |
+| 2026-09-29 08:26:46 | [serp-log](https://pypi.org/project/serp-log/) | 0.2.0 | Serpentine contributors | 8.8 kB | Serpentine logging library: level-filtered loggers with stdout and append-file… |
+| 2026-09-29 08:27:55 | [serp-math](https://pypi.org/project/serp-math/) | 0.1.0 | Serpentine contributors | 10.1 kB | Serpentine math library: sqrt/sin/cos/tan/log/exp/pow/floor/ceil + pi/e/inf/nan… |
+| 2026-09-29 08:27:56 | [capo-rum](https://pypi.org/project/capo-rum/) | 0.1.0 |  | 264.5 kB | Python SDK for RUM. |
+| 2026-09-29 08:28:02 | [avee](https://pypi.org/project/avee/) | 0.1.0 |  | 198.3 kB | Clients for avee: the DEX data API (/api/v1) and Astra, the Hermes-compatible p… |
+| 2026-09-29 08:28:38 | [capo-s3-control](https://pypi.org/project/capo-s3-control/) | 0.1.0 |  | 1.0 MB | Python SDK for S3 Control. |
+| 2026-09-29 08:29:11 | [serp-molt](https://pypi.org/project/serp-molt/) | 0.7.0 | Serpentine contributors | 48.2 kB | Serpentine data-validation library: a drop-in pydantic v2 replacement written i… |
+| 2026-09-29 08:29:17 | [capo-s3files](https://pypi.org/project/capo-s3files/) | 0.1.0 |  | 232.8 kB | Python SDK for S3Files. |
+| 2026-09-29 08:30:13 | [serp-os](https://pypi.org/project/serp-os/) | 0.1.0 | Serpentine contributors | 7.5 kB | Serpentine OS primitives: env vars, cwd, mkdir/rmdir/remove/listdir (runtime-ba… |
+| 2026-09-29 08:30:31 | [capo-s3outposts](https://pypi.org/project/capo-s3outposts/) | 0.1.0 |  | 134.0 kB | Python SDK for S3Outposts. |
+| 2026-09-29 08:31:08 | [reality](https://pypi.org/project/reality/) | 0.1.0 | Reality contributors | 188.2 kB | A backend-neutral foundation for programmable physical 3D worlds. |
+| 2026-09-29 08:31:19 | [capo-s3tables](https://pypi.org/project/capo-s3tables/) | 0.1.0 |  | 397.3 kB | Python SDK for S3Tables. |
+| 2026-09-29 08:31:23 | [periplo](https://pypi.org/project/periplo/) | 0.1.0 | MassiveDataScope | 220.1 kB | Read-only SQL API for authorized Delta Lake tables, the backend of the Periplo… |
+| 2026-09-29 08:31:27 | [serp-pathlib](https://pypi.org/project/serp-pathlib/) | 0.2.0 | Serpentine contributors | 7.9 kB | Serpentine path helpers: join/parent/name/suffix/stem/parts plus filesystem que… |
+| 2026-09-29 08:31:53 | [capo-s3vectors](https://pypi.org/project/capo-s3vectors/) | 0.1.0 |  | 222.5 kB | Python SDK for S3Vectors. |
+| 2026-09-29 08:32:25 | [sangho-oauth](https://pypi.org/project/sangho-oauth/) | 0.2.0 |  | 38.9 kB | Se connecter avec Sangho — client OAuth2/PKCE et provider django-allauth, sépar… |
+| 2026-09-29 08:32:30 | [jev-mobile](https://pypi.org/project/jev-mobile/) | 0.1.0 |  | 81.6 kB |  |
+| 2026-09-29 08:32:37 | [capo-sagemaker](https://pypi.org/project/capo-sagemaker/) | 0.1.0 |  | 4.6 MB | Python SDK for Sagemaker. |
+| 2026-09-29 08:32:39 | [serp-queue](https://pypi.org/project/serp-queue/) | 0.1.0 | Serpentine contributors | 8.8 kB | Serpentine drop-in `queue`: thread-safe Queue/LifoQueue with blocking put/get,… |
+| 2026-09-29 08:33:18 | [capo-sagemaker-a2i-runtime](https://pypi.org/project/capo-sagemaker-a2i-runtime/) | 0.1.0 |  | 132.5 kB | Python SDK for Sagemaker A2I Runtime. |
+| 2026-09-29 08:33:44 | [serp-random](https://pypi.org/project/serp-random/) | 0.1.0 | Serpentine contributors | 7.4 kB | Serpentine random library: drop-in CPython random facade (MT19937, seeded seque… |
+| 2026-09-29 08:34:02 | [capo-sagemaker-edge](https://pypi.org/project/capo-sagemaker-edge/) | 0.1.0 |  | 120.7 kB | Python SDK for Sagemaker Edge. |
+| 2026-09-29 08:34:35 | [capo-sagemaker-featurestore-runtime](https://pypi.org/project/capo-sagemaker-featurestore-runtime/) | 0.1.0 |  | 136.0 kB | Python SDK for Sagemaker Featurestore Runtime. |
+| 2026-09-29 08:34:50 | [serp-re](https://pypi.org/project/serp-re/) | 0.2.0 | Serpentine contributors | 18.7 kB | Serpentine regex subset engine (literals, classes, * + ?, groups, alternation,… |
+| 2026-09-29 08:35:22 | [capo-sagemaker-geospatial](https://pypi.org/project/capo-sagemaker-geospatial/) | 0.1.0 |  | 293.2 kB | Python SDK for Sagemaker Geospatial. |
+| 2026-09-29 08:35:54 | [capo-sagemaker-metrics](https://pypi.org/project/capo-sagemaker-metrics/) | 0.1.0 |  | 110.6 kB | Python SDK for Sagemaker Metrics. |
+| 2026-09-29 08:36:05 | [serp-scales](https://pypi.org/project/serp-scales/) | 0.2.0 | Serpentine contributors | 74.4 kB | Scales: pandas drop-in DataFrame/Series for Serpentine (pure Serpentine, PyVal… |
+| 2026-09-29 08:36:35 | [capo-sagemaker-runtime](https://pypi.org/project/capo-sagemaker-runtime/) | 0.1.0 |  | 147.6 kB | Python SDK for Sagemaker Runtime. |
+| 2026-09-29 08:37:11 | [serp-secrets](https://pypi.org/project/serp-secrets/) | 0.1.0 | Serpentine contributors | 6.8 kB | Serpentine CSPRNG tokens: token_hex/token_urlsafe/randbelow (runtime-backed; st… |
+| 2026-09-29 08:37:15 | [capo-sagemaker-runtime-http2](https://pypi.org/project/capo-sagemaker-runtime-http2/) | 0.1.0 |  | 109.3 kB | Python SDK for Sagemaker Runtime Http2. |
+| 2026-09-29 08:38:20 | [serp-socket](https://pypi.org/project/serp-socket/) | 0.1.0 | Serpentine contributors | 8.1 kB | Serpentine TCP/UDP sockets: connect/listen/accept/send/recv + UDP datagrams wit… |
+| 2026-09-29 08:38:34 | [capo-sagemakerjobruntime](https://pypi.org/project/capo-sagemakerjobruntime/) | 0.1.0 |  | 120.3 kB | Python SDK for Sagemakerjobruntime. |
+| 2026-09-29 08:39:08 | [capo-savingsplans](https://pypi.org/project/capo-savingsplans/) | 0.1.0 |  | 199.1 kB | Python SDK for Savingsplans. |
+| 2026-09-29 08:39:39 | [serp-sqlite](https://pypi.org/project/serp-sqlite/) | 0.2.0 | Serpentine contributors | 13.1 kB | Serpentine drop-in sqlite3 subset: Connection/Cursor over the system SQLite lib… |
+| 2026-09-29 08:39:49 | [capo-schemas](https://pypi.org/project/capo-schemas/) | 0.1.0 |  | 249.2 kB | Python SDK for Schemas. |
+| 2026-09-29 08:39:53 | [wheelchair-planning](https://pypi.org/project/wheelchair-planning/) | 0.4.0 |  | 50.0 MB | Wheelchair planning module |
+| 2026-09-29 08:40:27 | [capo-security-ir](https://pypi.org/project/capo-security-ir/) | 0.1.0 |  | 296.4 kB | Python SDK for Security Ir. |
+| 2026-09-29 08:41:09 | [capo-securityagent](https://pypi.org/project/capo-securityagent/) | 0.1.0 |  | 548.1 kB | Python SDK for Securityagent. |
+| 2026-09-29 08:41:46 | [capo-securityhub](https://pypi.org/project/capo-securityhub/) | 0.1.0 |  | 2.1 MB | Python SDK for Securityhub. |
+| 2026-09-29 08:42:02 | [jupyterlab-galaxahub-motd-extension](https://pypi.org/project/jupyterlab-galaxahub-motd-extension/) | 0.8.5 | Stellars Henson <konrad.jelen… | 325.4 kB | jupyterlab_galaxahub_motd_extension |
+| 2026-09-29 08:44:20 | [robodrome](https://pypi.org/project/robodrome/) | 0.1.0 | Robodrome | 3.1 MB | Robodrome geliştirici kiti: otonom yarış botları için arayüz ve yerel test aracı |
+| 2026-09-29 08:44:22 | [capo-securitylake](https://pypi.org/project/capo-securitylake/) | 0.1.0 |  | 319.7 kB | Python SDK for Securitylake. |
+| 2026-09-29 08:44:41 | [besser-governance-engine](https://pypi.org/project/besser-governance-engine/) | 1.0.0 | Luxembourg Institute of Scien… | 45.8 kB | BESSER Governance Decision Engine |
+| 2026-09-29 08:45:05 | [capo-serverlessapplicationrepository](https://pypi.org/project/capo-serverlessapplicationrepository/) | 0.1.0 |  | 211.0 kB | Python SDK for Serverlessapplicationrepository. |
+| 2026-09-29 08:47:12 | [ebook-converter-lib](https://pypi.org/project/ebook-converter-lib/) | 1.0.0 | bilec <martin.bilka826@gmail.… | 3.2 MB | Convert ebook between different formats |
+| 2026-09-29 08:48:05 | [morphit-rs](https://pypi.org/project/morphit-rs/) | 0.2.0 |  | 18.9 MB | Approximate triangle meshes and robots with spheres: the MorphIt optimizer in R… |
+| 2026-09-29 08:48:12 | [futuresclock](https://pypi.org/project/futuresclock/) | 0.1.0 | Futures Clock | 10.6 kB | Client for the Futures Clock open futures reference data: trading hours, contra… |
+| 2026-09-29 08:49:18 | [astro-agent](https://pypi.org/project/astro-agent/) | 0.2.3 |  | 55.5 kB | A verifiable LLM agent for hierarchical molecular-cloud catalog analysis |
+| 2026-09-29 08:49:22 | [pytest-pure-report](https://pypi.org/project/pytest-pure-report/) | 1.0.0 | Test Automation Team <test@ex… | 148.1 kB | A beautiful HTML report plugin for pytest, with comprehensive statistics and in… |
+| 2026-09-29 08:50:15 | [vipscache](https://pypi.org/project/vipscache/) | 0.4.2 | Tim Kaluza | 50.6 kB | Content-addressed derivative cache for images and pages. |
+| 2026-09-29 08:52:45 | [mingpan](https://pypi.org/project/mingpan/) | 0.1.0 |  | 41.1 kB | 明判（MingPan）Python SDK —— 三原语判断接口的类型安全客户端 |
+| 2026-09-29 08:53:36 | [plain-parser](https://pypi.org/project/plain-parser/) | 0.1.0 |  | 83.9 kB | Parser for ***plain specification files |
+| 2026-09-29 08:59:31 | [pythonbots-core](https://pypi.org/project/pythonbots-core/) | 0.1.0 | Luca Sacchi Ricciardi | 50.3 kB | Core library of PythonBots Discord bots: source-available, use licence. |
+| 2026-09-29 09:03:22 | [restverify](https://pypi.org/project/restverify/) | 0.1.0 |  | 155.0 kB | Rehearse and verify restic restores locally, on a schedule, with a diff-proof r… |
+| 2026-09-29 09:03:22 | [wireskein](https://pypi.org/project/wireskein/) | 0.0.1 | TANAKA Masayuki | 237.0 kB | Logic-analyzer captures to protocol decodes, and waveform checks of recorded ha… |
+| 2026-09-29 09:03:38 | [aat-mcp](https://pypi.org/project/aat-mcp/) | 0.1.0 |  | 19.9 kB | Conformant AAT (draft-sharif-agent-audit-trail-06) audit-trail recorder + MCP m… |
+| 2026-09-29 09:04:05 | [django-service-specs](https://pypi.org/project/django-service-specs/) | 0.1.0 | Artur Veres <artur8118@gmail.… | 450.0 kB | A service contract for Django: declare an operation's parameters, permission ch… |
+| 2026-09-29 09:05:38 | [searchmux](https://pypi.org/project/searchmux/) | 0.1.1 | Vikas Sharma, Manisha Choudha… | 74.6 kB | The search layer for AI agents over SerpApi |
+| 2026-09-29 09:07:11 | [ros2-inspector-mcp](https://pypi.org/project/ros2-inspector-mcp/) | 0.1.1 | XuChen | 116.8 kB | Read-only MCP server that lets LLMs inspect and analyze ROS 2 systems (nodes, t… |
+| 2026-09-29 09:08:24 | [wexample-storage](https://pypi.org/project/wexample-storage/) | 1.0.1 | weeger <contact@wexample.com> | 6.8 kB |  |
+| 2026-09-29 09:08:48 | [pytest-embedded-wireskein](https://pypi.org/project/pytest-embedded-wireskein/) | 0.0.1 | TANAKA Masayuki | 14.6 kB | pytest-embedded plugin: record logic-analyzer captures per test with WireSkein… |
+| 2026-09-29 09:09:05 | [mcp-relay](https://pypi.org/project/mcp-relay/) | 0.1.0 |  | 422.2 kB | Use your local MCP servers from a cloud AI agent through one authenticated endp… |
+| 2026-09-29 09:09:41 | [agentcodemap](https://pypi.org/project/agentcodemap/) | 1.0.0 |  | 108.6 kB | Tree-sitter code navigation and search harness for LLM agents: diff slicing, sy… |
+| 2026-09-29 09:10:11 | [actvalue.azure-app-config](https://pypi.org/project/actvalue.azure-app-config/) | 0.3.0 | ActValue | 96.2 kB | Hydrate os.environ from Azure App Configuration, with the failure handling that… |
+| 2026-09-29 09:10:35 | [tessauto](https://pypi.org/project/tessauto/) | 1.0.0 | Jida Transportation | 357.1 MB | TESS AUTO 1.0 Secondary Development (Python Version) |
+| 2026-09-29 09:10:45 | [nimble-rest-client](https://pypi.org/project/nimble-rest-client/) | 1.0rc1 | API Support | 215.2 kB | Nimble REST OpenAPI |
+| 2026-09-29 09:11:59 | [sangho](https://pypi.org/project/sangho/) | 0.1.4 | Sangho <nels.holy.allg@gmail.… | 77.8 kB | SDK officiel Python pour l'API Sangho |
+| 2026-09-29 09:12:07 | [nonebot-plugin-xbox-status](https://pypi.org/project/nonebot-plugin-xbox-status/) | 0.1.0 | MadXX517 <141333482+MadXX517@… | 45.8 kB | 播报群友的 Xbox 游戏状态，玩法参考 nonebot-plugin-steam-info |
+| 2026-09-29 09:12:41 | [nautilus-schwab](https://pypi.org/project/nautilus-schwab/) | 0.1.0 | SATR Trading Team | 6.1 MB | Charles Schwab adapter for Nautilus Trader |
