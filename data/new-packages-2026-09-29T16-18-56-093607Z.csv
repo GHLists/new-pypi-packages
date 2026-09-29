@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T15:19:28Z,msgctl,0.1.0a1,TokenNotIncluded,MIT,1447376,Atomic communication infrastructure for sandboxed agents
+2026-09-29T15:21:16Z,grey-panda,1.0.0,Grey Panda contributors,Apache-2.0,176718,"The calm guardian for AI, agent, and MCP code — a zero-dependency, standards-anchored AI security toolkit for developers and security reviewers."
+2026-09-29T15:21:41Z,messentials,999.9.9,,,1501,
+2026-09-29T15:21:45Z,forum-ai-tracing,0.3.0,,Proprietary,9371,Record agent traces and turns in Forum AI.
+2026-09-29T15:24:51Z,cloud-python-vars,0.1.0,ThatOnePythonDev <khakhang2h5e@gmail.com>,,33559,To manage and create raw Python variables on cloud servers.
+2026-09-29T15:26:29Z,deducta,0.0.1,,,2057,Deducta Python SDK. Work in progress.
+2026-09-29T15:27:42Z,tvm-tirx,0.1,tianqi.tchen@gmail.com,Apache-2.0,1293,Machine learning for systems
+2026-09-29T15:27:55Z,flywheel-tpu,0.1.0,heavyball-research,Apache-2.0,361300,"FlyWheel: attention kernels for TPU, implemented in JAX Pallas"
+2026-09-29T15:31:14Z,arrow-bigquery,0.2.0,,,64010949,
+2026-09-29T15:33:33Z,jumpstarter-driver-ssh-mount,0.9.0,The Jumpstarter Authors,Apache-2.0,25104,SSHFS mount/umount driver for Jumpstarter that provides remote filesystem mounting via sshfs
+2026-09-29T15:33:36Z,jumpstarter-driver-stlink-msd,0.9.0,Vinicius Zein <vtzein@gmail.com>,Apache-2.0,12261,ST-LINK mass storage flasher for STM32 Nucleo and Discovery boards
+2026-09-29T15:35:07Z,dashai-vision-language-plugin,0.1.0,Diego Olguín-Wende <dolguin@dim.uchile.cl>,MIT,46963,Vision-language zero-shot image classification for dashAI
+2026-09-29T15:38:47Z,tokengov-svkmsr6,0.1.0,Souvik Misra <svkmsr6@gmail.com>,MIT,53091,"Treat LLM spend like cloud spend: token tracking, budgets, caching, and routing for LLM workflows."
+2026-09-29T15:38:53Z,rivalsdata-api,1.0.0,,MIT,42760,Python client and MCP server for public Marvel Rivals stats from RivalsData
+2026-09-29T15:39:44Z,wordmark,0.1.0,Maurice Frank <maurice@soilytix.com>,MIT,22580,"Type a word and flip through every TAAG font in the terminal, recoloured from your own palette."
+2026-09-29T15:39:53Z,bailey,0.0.1,Sigrix,Apache-2.0,24387,"An open-source AI assistant that runs ready-made solutions on your own machine, with your own AI key. This first release ships `bailey doctor`."
+2026-09-29T15:41:38Z,ct-keycloak,1.0.0,Marcos Pereira,MIT,166306,ct-keycloak is a fork of the python-keycloak package providing access to the Keycloak API.
+2026-09-29T15:43:22Z,spectrafit-core,0.1.0,"""Anselm W. Hahn"" <anselm.hahn@gmail.com>",MIT,10986856,High-performance numerical fitting framework: Rust kernel + Pydantic schemas
+2026-09-29T15:45:03Z,rabbit-fem-mpi,2026.9.6,scepticalrabbit (Lloyd Fletcher),LGPL-2.1,76177614,A lightweight MOOSE distribution packaging thermal and solid mechanics
+2026-09-29T15:45:07Z,agent-forge-svkmsr6,0.1.0,Souvik Misra <svkmsr6@gmail.com>,MIT,49858,"A production-shaped multi-agent orchestration skeleton on LangGraph with first-class tracing, retries, and token budgets."
+2026-09-29T15:47:52Z,experimentlens,0.1.0,ExperimentLens contributors,Apache-2.0,46641,Python SDK for ExperimentLens: log ML and LLM/agent experiments to MLflow and Langfuse so they appear in the ExperimentLens UI.
+2026-09-29T15:49:55Z,lightagentx,0.1.0,Devansh,MIT,66263,"A lightweight, modular agentic AI framework built from scratch — no LangChain, no CrewAI, no magic."
+2026-09-29T15:52:11Z,openapi-crud-gen,0.1.0,Zzzzc <3468307320@qq.com>,MIT,49123,Generate pytest CRUD test skeletons from OpenAPI specs
+2026-09-29T15:53:45Z,scann-core-torch,0.2.1,"Elias Benali (@ebenali), TheCleaners",Apache-2.0,12372122,Native PyTorch ops for scann-core's scann.torch: torch.export / AOTInductor programs and state_dicts that carry the ScaNN index (derived from Google's ScaNN; not an official Google product)
+2026-09-29T15:57:55Z,freesolve,0.1.0,,,250505,FreeSolvE: Solvent-Mediated Differentiable Pose Refinement and Biophysical Inductive Bias for PyTorch
+2026-09-29T16:02:16Z,kronos-quantum,0.3.0,Kronos Fusion Energy,Apache-2.0,67510,"Kronos Quantum — honest, runnable quantum-computing-for-fusion codes: nine quantum programs that run on a simulator today and on real hardware the moment you plug in an account. No quantum advantage…"
+2026-09-29T16:02:58Z,yatharth,0.1.1,Tipirneni Sai Aditya Datta,Proprietary,1041592,"Offline, air-gapped assurance for object-detection datasets and models: poisoning, backdoors, label flips, duplicates, drift, model substitution and tampered inference logs - with evidence, not a sco…"
+2026-09-29T16:07:09Z,grainlift,0.2.0,Rusty Conover <rusty@query.farm>,Apache-2.0,170669,Build ADBC services in Python with Grainlift and VGI-RPC
+2026-09-29T16:10:04Z,jambu-gpu,0.1.0,Jambu.ai,MIT,255955,Provider-agnostic CLI for provisioning and managing temporary GPU runtimes
+2026-09-29T16:10:12Z,cobolwork,0.2.76,Portll <john@portll.net>,AGPL-3.0-or-later,866964,"COBOL, JCL and CICS security analysis: reference-format parser, cross-program data flow, mainframe credential rules. Runs on Node.js 18 or later."
+2026-09-29T16:10:21Z,ironwork,0.1.1,,AGPL-3.0-or-later AND Unicode-3.0,4971853,ironwork for COBOL: a COBOL compiler and interpreter whose target is IBM Enterprise COBOL for z/OS
+2026-09-29T16:10:46Z,peblor,0.0.1,Luka Gray,Apache-2.0,1473,"Peblor: an open language and toolchain for durable, portable 2D composition. (Name reserved; first release pending.)"
+2026-09-29T16:10:47Z,peblor-tooling,0.0.1,Luka Gray,Apache-2.0,1586,"Peblor authoring services: workspaces, record storage, patch/commit/undo, and connectors. (Name reserved; first release pending.)"
+2026-09-29T16:17:02Z,actorio-cli,0.1.1,Actorio <dev@actorio.com>,MIT,92550,CLI and MCP server for searching the Actorio product catalogue
