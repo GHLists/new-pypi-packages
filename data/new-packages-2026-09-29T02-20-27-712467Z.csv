@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T01:19:22Z,yosoku,0.1.0,Enrico Shippole,,2135,Add your description here
+2026-09-29T01:21:01Z,jira-watcher-agent,0.1.0,Sameer Gaikwad <samygaikwad@gmail.com>,MIT,135181,"AI-powered JIRA planner, organizer, and triage CLI. Fetch tickets assigned to you, get an LLM digest by category, and investigate potential resolutions — powered by Claude Code, OpenAI Codex, or Curs…"
+2026-09-29T01:26:28Z,swiftapi-native-void,0.1.0,Rayan Pal,MIT,42582,One-command reproduction and verification of Rayan Pal's canonical model-native noncontinuation protocol.
+2026-09-29T01:26:30Z,magical-py,0.1.1,,MIT,3172106,"Native Python bindings for magical_rs, a zero-dependency file type detection library."
+2026-09-29T01:26:56Z,wayleave,0.1.0,,MIT,14834,Identify AI agents from Python. Client and WSGI/ASGI middleware for the hosted Wayleave Identity API. Zero dependencies.
+2026-09-29T01:27:31Z,objbase,0.3.0,fm-labs <code@fmlabs.dev>,MIT,126453,Damn simple object store for Python dicts and Pydantic models across multiple backends
+2026-09-29T01:28:49Z,server-agent-console,0.4.1,,,167367,Self-contained conversational ops agent console for FastAPI apps
+2026-09-29T01:35:29Z,rag-core-sdk,0.10.2,openEuler community,MulanPSL-2.0,15307,Optional Python client SDK for witty-rag / rag_core REST APIs
+2026-09-29T01:37:19Z,cqlib-tianyan,0.1.0b1,Cqlib Development Team <tianyan@chinatelecom.cn>,Apache-2.0,10584009,Python client for the Tianyan quantum cloud platform.
+2026-09-29T01:38:54Z,reask,0.1.0,Mikhail Nezhinsky,MIT,24564,An agent skill that re-asks a pending question as a self-contained briefing
+2026-09-29T01:42:46Z,agentseed,0.1.0,,,138886,Minimal pluggable LLM agent server (FastAPI + Pydantic AI)
+2026-09-29T01:56:56Z,agent-rt-langchain,0.0.0,Praneeth Vadlapati,MIT,2822,Hello world package for Agent RT.
+2026-09-29T01:57:00Z,ionoNISAR,0.1.0,,MIT,357991,Ionospheric correction for NISAR L-band interferograms
+2026-09-29T01:57:44Z,agent-rt-llamaindex,0.0.0,Praneeth Vadlapati,MIT,2848,Hello world package for Agent RT.
+2026-09-29T01:59:38Z,stoa-cli,0.2.0,"Stoa Markets, Inc.",Apache-2.0,179114,"Stoa Markets from the terminal: sign in, browse the catalog, open requests for quote and read the quotes that come back."
+2026-09-29T02:02:23Z,coltess,0.1.0,Manuel Garcia <mangarciama@unal.edu.co>,GPL-3.0-or-later,75547,Curves of Light from TESS (COLTESS): photometry tool for TESS FFIs
+2026-09-29T02:04:51Z,heyquilt,0.0.1,Daniel Carmichael,MIT,1758,Quilt: real-time pair coding that works with any AI tool. Coming soon at https://heyquilt.com
+2026-09-29T02:07:34Z,clockify-unofficial-sdk,1.0.0,"""G.A.JAGUAR"" <dev@gajaguar.com>",MIT,141988,"Unofficial, typed Python SDK for the Clockify API."
+2026-09-29T02:09:37Z,limxsdk,4.1.1,,,7054601,
+2026-09-29T02:15:38Z,gills,0.1.0,Miguel Jacq,GPL-3.0-or-later,1245953,Watch APT and RPM repositories for package changes
