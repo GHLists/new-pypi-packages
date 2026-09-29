@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T19:19:26Z,mfiles-grpc,1.0.0,Jari Turkia <jatu@hqcodeshop.fi>,MIT,522446,Python client for the M-Files gRPC API
+2026-09-29T19:20:20Z,msisdnci,1.0.0,SEKA Ntakpe Israel,,4733,Un package de traitement des numeros de telephone
+2026-09-29T19:20:44Z,quartic2d,0.1.0,"Alex Santacruz, 2DQMAT Research @ IF-UNAM",MIT,737062,Four-center interaction tensors for localized two-dimensional orbital bases.
+2026-09-29T19:21:04Z,metricway-sdk,0.1.0,Alexander Tunik,MIT,25975,Async metrics collector SDK for Telegram bots
+2026-09-29T19:23:35Z,sqlite-utils-jev,0.1.0,,MIT,51940,"Resumable Jev classification for SQLite, with persistent spending accounting"
+2026-09-29T19:23:55Z,raqamli-passport-sdk,0.1.0,Raqamli Nazorat LLC,MIT,16485,Raqamli Nazorat LLC loyihalari uchun yagona SSO Passport SDK
+2026-09-29T19:26:06Z,btclib-mnemonics,2026.9.29,The btclib developers,MIT,772543,"BIP39, SLIP-0039 and Electrum mnemonic codes, from entropy to seed, on the standard library alone"
+2026-09-29T19:27:07Z,activy-checker,0.2.6,Michał Kaftański,MIT,52982,Audit Activy's activity sync: detect missing activities and incorrect distances.
+2026-09-29T19:32:27Z,capo-workspaces-web,0.1.0,,,584708,Python SDK for Workspaces Web.
+2026-09-29T19:32:47Z,jevex,0.0.1,David Purkiss,Apache-2.0,11201,"Extract typed records from web pages and PDFs using Jev, with LLM fallbacks that learn declarative generators."
+2026-09-29T19:33:04Z,capo-xray,0.1.0,,,448832,Python SDK for Xray.
+2026-09-29T19:37:43Z,Queeuees,0.0.1,Jos mose,MIT,10614,A very basic calculator
+2026-09-29T19:38:47Z,nn-lit,1.0.0,ABrain One and contributors <AI@ABrain.one>,MIT License Copyright (c) 2025- ABrain One and contributors; PyTorch to TensorFlow Lite neural netw…,6075624,Automated PyTorch-to-Android conversion and benchmarking on physical mobile devices
+2026-09-29T19:39:09Z,Pack-STT,0.1,Priyanshu Bhatt,,1903,This is speech to text package created by PB
+2026-09-29T19:40:08Z,cybercat-909,0.0.1,Leo <Leo@pop.rasberrypi>,MIT,5573,
+2026-09-29T19:40:52Z,django-reliable-outbox,0.1.0,Mohammad Zarif <m.zarif1996@gmail.com>,MIT,105818,Transactional outbox and reliable background jobs for Django on PostgreSQL.
+2026-09-29T19:41:18Z,pyprettyvba,0.1.0,William Smith Edward,MIT,1206210,"A configurable formatter for VBA, with autofix and rule suppression"
+2026-09-29T19:41:48Z,strictbash,0.0.0,,,1304,Name reservation
+2026-09-29T19:43:37Z,jobwatch,0.1.0,,MIT,251457,"Watch company job boards (Greenhouse, Lever, Ashby, Workable, Workday, Eightfold), get a ranked daily digest of new matches (optionally fit-scored against your resume), and track every application. N…"
+2026-09-29T19:45:54Z,google-ads-mcp-write,0.1.0,"Dean Lukies <lukiesd@users.noreply.github.com>, Mattia Tommasone <Raibaz@users.noreply.github.com>,…",Apache-2.0,178621,"Self-hosted MCP server for Google Ads Search campaigns. Forks googleads/google-ads-mcp and adds a guardrailed write layer (validate -> diff -> confirm -> commit), shaped reporting tools, and a local…"
+2026-09-29T19:52:46Z,gaip-check,0.1.0,GAIP,MIT,7894,"Check an AI agent before you call it: card, protocol, endpoint, fixes and a verifiable receipt (free, via GAIP)."
+2026-09-29T19:52:55Z,keysigil,0.1.2,keysigil contributors,MIT,40581,"Embeddable API key management SDK with LLM token budget tracking. Drop-in library for key lifecycle, rate limiting, and token budgets."
+2026-09-29T19:54:19Z,midi-udev,0.1.0,readwithai,MIT,8845,"Print, filter, and react to ALSA MIDI devices appearing and disappearing as JSON"
+2026-09-29T19:56:04Z,spdtst,0.1.0,Bruno Zapico,MIT,21186,"A small, private-by-default internet speed test CLI."
+2026-09-29T19:58:35Z,syntel-mining,0.1.0,"Syntel Technologies, Inc.",Apache-2.0,70783,"Process mining from published methods: inductive miner (infrequent), DECLARE conformance and OCEL 2.0 I/O, in the standard library"
+2026-09-29T20:01:22Z,giwon,0.1.0,,,53172,Observe provenance around one experiment execution.
+2026-09-29T20:01:45Z,lmob,1.0.0,ABrain One and contributors <AI@ABrain.one>,MIT License Copyright (c) 2025- ABrain One and contributors; PyTorch to TensorFlow Lite neural netw…,19859,Automated PyTorch-to-Android conversion and benchmarking on physical mobile devices
+2026-09-29T20:03:25Z,goodmem-langchain,0.3.0,,MIT,190676,LangChain integration for GoodMem: long-term agent memory with semantic storage and retrieval.
+2026-09-29T20:05:26Z,covale,0.1.1,,MIT,75451,Compositional Open-Vocabulary Anatomical Localization Evaluation
+2026-09-29T20:07:05Z,amsc-iri-v2,1.0.0,ESnet Contact,,208587,ESnet implementation of the IRI api
+2026-09-29T20:08:07Z,lazy-tfm,0.1.1,Biprateep Dey,MIT,320114,Lazy but Accurate z for Yinz: conditional distributions from tabular foundation models
+2026-09-29T20:12:13Z,local-rag-qa,0.1.0,Hakan Ataş,MIT,21561,"A small, fully local retrieval-augmented Q&A CLI — no internet needed at query time, no data leaves your machine."
+2026-09-29T20:14:12Z,mage-space,0.0.0,Mage <mage@mage.space>,MIT,78581,"The official Python SDK for the Mage API: generate images, video, and audio with Mage models."
+2026-09-29T20:14:16Z,frames2py,1.0.0rc1,Faras Siddiqui,MIT,81505,Decoupled observation of continuously accumulated event-camera state.
+2026-09-29T20:17:02Z,xnotebook,1.0.0,,BSD-3-Clause,3357908,Run notebooks and scripts on sandboxed xeus wasm kernels (emscripten-forge) inside headless Chromium
+2026-09-29T20:18:44Z,xiangqibench,0.1.0,XiangqiBench authors,MIT,256708,Tool-grounded xiangqi endgames for evaluating LLM agents against a Pikafish defender.
+2026-09-29T20:21:04Z,syntri-contracts,0.3.1,Domani Labs,Proprietary,118850,Public contracts and building blocks for Syntri capability packs
