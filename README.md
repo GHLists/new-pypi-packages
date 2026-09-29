@@ -8,28 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 03:18 UTC
+## Latest list — 2026-09-29 04:18 UTC
 
-New packages created between 2026-09-29 02:20 UTC and 2026-09-29 03:18 UTC.
+New packages created between 2026-09-29 03:18 UTC and 2026-09-29 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-29T03-18-55-091948Z.csv)
+[Full CSV](data/new-packages-2026-09-29T04-18-58-456453Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-28 23:53:55 | [bosun-call](https://pypi.org/project/bosun-call/) | 0.1.0 | Chris Thierauf <christopher.t… | 103.8 kB | A unified experiment runner for robot simulation |
-| 2026-09-29 02:31:30 | [arena-predictions](https://pypi.org/project/arena-predictions/) | 0.2.0 | ZBGC LLC <support@zbgcllc.com> | 120.0 kB | Python SDK for Arena Predictions: resolve bets in words to Arena instrument ids… |
-| 2026-09-29 02:34:55 | [fontpkg-maven-pro](https://pypi.org/project/fontpkg-maven-pro/) | 2.103 |  | 55.7 kB | Maven Pro font family, packaged for Python by fontpkg |
-| 2026-09-29 02:34:57 | [fontpkg-bungee](https://pypi.org/project/fontpkg-bungee/) | 2.0 |  | 62.2 kB | Bungee font family, packaged for Python by fontpkg |
-| 2026-09-29 02:34:59 | [fontpkg-zeyada](https://pypi.org/project/fontpkg-zeyada/) | 1.2 |  | 40.2 kB | Zeyada font family, packaged for Python by fontpkg |
-| 2026-09-29 02:35:01 | [fontpkg-questrial](https://pypi.org/project/fontpkg-questrial/) | 2.0 |  | 100.5 kB | Questrial font family, packaged for Python by fontpkg |
-| 2026-09-29 02:35:13 | [shopee-servicegov-cli](https://pypi.org/project/shopee-servicegov-cli/) | 0.0.0 | sc | 2.5 kB | A small example package |
-| 2026-09-29 02:38:27 | [telemetry-cli](https://pypi.org/project/telemetry-cli/) | 1.0.0 | David A. Imel | 1.0 MB | Command-line tools for binary telemetry: decode, extract, measure and generate… |
-| 2026-09-29 02:38:37 | [protect-dl](https://pypi.org/project/protect-dl/) | 0.1.0 | Alex N. Jose | 74.8 kB | Download footage for a time range from a local UniFi Protect console, resumably… |
-| 2026-09-29 02:42:37 | [inferlint](https://pypi.org/project/inferlint/) | 0.1.0 | RadianVector <hello@radianvec… | 612.2 kB | Things your inference server doesn't tell you, turned into checks. |
-| 2026-09-29 02:44:37 | [mkdeck](https://pypi.org/project/mkdeck/) | 0.1.0 | Senthur Ayyappan | 1.7 MB | Minimal HTML slide decks from Markdown or Python, served like mkdocs. |
-| 2026-09-29 02:49:54 | [tokentab](https://pypi.org/project/tokentab/) | 0.1.0 |  | 75.9 kB | What your Claude Code token spend bought, per merged PR |
-| 2026-09-29 02:54:16 | [d4d](https://pypi.org/project/d4d/) | 0.1.0 |  | 61.1 kB | Design for Descent: grammar-guided hybrid discrete/continuous optimization |
-| 2026-09-29 03:03:25 | [fetch-planning](https://pypi.org/project/fetch-planning/) | 0.3.0 |  | 144.5 MB | Whole-body Fetch motion planning (OMPL + VAMP) |
-| 2026-09-29 03:07:05 | [synapse-gateway](https://pypi.org/project/synapse-gateway/) | 1.7.6 |  | 94.6 MB | ReactorPro Gateway (Synapse) as a pip-installable native binary - headless agen… |
-| 2026-09-29 03:10:00 | [pasm-domain-advisor](https://pypi.org/project/pasm-domain-advisor/) | 0.1.0 | arronzheng | 80.3 kB | 泛例 PASM 领域顾问引擎：声明式 DomainProfile + 前提抽取 + 现行规则核验 + 自检闸门。抖音开店/跨境电商/食品许可仅为示例实例，可复… |
-| 2026-09-29 03:17:21 | [clirey](https://pypi.org/project/clirey/) | 0.1.0 | Inzam <your-email@example.com> | 47.2 kB | A powerful CLI & live terminal monitor for Celery with just a broker URL |
+| 2026-09-29 03:18:21 | [django-eadmin](https://pypi.org/project/django-eadmin/) | 0.0.1 | EAdmin contributors | 779.6 kB | A reusable Tailwind, HTMX, Alpine.js, and DaisyUI Django administration app. |
+| 2026-09-29 03:21:53 | [onero-sdk](https://pypi.org/project/onero-sdk/) | 0.3.0 | OneRobotics | 23.8 MB | Python SDK for Onero robotic arms |
+| 2026-09-29 03:27:20 | [pyunto-robotics](https://pypi.org/project/pyunto-robotics/) | 0.1.0 | Utagoe Inc. | 440.3 kB | Talk to a robot from the Pyunto diary app. Simulated robots included; bring you… |
+| 2026-09-29 03:32:16 | [heterodoxy](https://pypi.org/project/heterodoxy/) | 0.2.0 | Greg Olmschenk <greg@olmschen… | 10.7 kB |  |
+| 2026-09-29 03:34:39 | [judgekit-eval](https://pypi.org/project/judgekit-eval/) | 0.1.1 | Vignesh Reddy Kethireddy | 88.6 kB | An LLM evaluation harness: deterministic checks, calibrated LLM-as-judge scorer… |
+| 2026-09-29 03:37:11 | [agentidem](https://pypi.org/project/agentidem/) | 1.0.0 | AgentIdem | 63.5 kB | Reliability testing for state-changing AI agents. |
+| 2026-09-29 03:37:57 | [sslabdata](https://pypi.org/project/sslabdata/) | 3.0.0 | Siddhartha Srinivasa | 171.7 kB | Renderer-agnostic academic lab data assembler: BibTeX + YAML → structured data |
+| 2026-09-29 03:39:54 | [librarian-searxng](https://pypi.org/project/librarian-searxng/) | 0.1.0 | Kevin J. Smith | 51.9 kB | SearXNG search backend plugin for librarian's research loop |
+| 2026-09-29 03:40:21 | [basis3d](https://pypi.org/project/basis3d/) | 0.1.0 | Jake Van Slyke | 10.5 kB | Basis3D |
+| 2026-09-29 03:42:04 | [matrix-verify](https://pypi.org/project/matrix-verify/) | 0.1.0 | Matrix | 34.7 kB | Fail-silent tracing for agent claim verification. Did your agent actually do wh… |
+| 2026-09-29 03:48:56 | [pylint-gajaguar](https://pypi.org/project/pylint-gajaguar/) | 2.0.0 | gajaguar <dev@gajaguar.com> | 107.9 kB | Opinionated pylint checkers that encode review preferences beyond ruff |
+| 2026-09-29 03:51:29 | [tracepress](https://pypi.org/project/tracepress/) | 0.0.1 |  | 5.7 MB | LLM operators on DataFrames, registered pipelines, and an agent that answers qu… |
+| 2026-09-29 03:51:58 | [magcc](https://pypi.org/project/magcc/) | 0.1.0 | Raymond Turrisi <rturrisi@mit… | 186.9 kB | Live magnetometer hard/soft-iron calibration with a browser cockpit, fed by a s… |
+| 2026-09-29 03:53:19 | [py-easyshm](https://pypi.org/project/py-easyshm/) | 0.1.0 | GalTechDev | 57.7 kB | High-performance Shared Memory IPC with kernel signaling for Python |
+| 2026-09-29 03:54:08 | [pyqmd-mlx](https://pypi.org/project/pyqmd-mlx/) | 0.7.0 |  | 752.9 kB | Local hybrid search (BM25 + vectors + reranking) over markdown collections, run… |
+| 2026-09-29 04:02:13 | [tuskpool](https://pypi.org/project/tuskpool/) | 0.1.0 | sudodex | 26.7 kB | An asyncio task pool with capped concurrency and bounded memory. |
+| 2026-09-29 04:11:03 | [jevaro](https://pypi.org/project/jevaro/) | 0.1.0 | Columnar Technologies Inc. | 25.7 kB | TypeSafe-style Python client for Jevaro Arrow streams |
+| 2026-09-29 04:11:09 | [jevaro-server](https://pypi.org/project/jevaro-server/) | 0.1.0 | Columnar Technologies Inc. | 28.5 kB | A small TypeSafe-to-Arrow streaming proxy |
+| 2026-09-29 04:13:45 | [google-contacts-mcp](https://pypi.org/project/google-contacts-mcp/) | 1.0.2 | Justin Dray <justin@dray.be> | 98.1 kB | Model Context Protocol (MCP) server for Google Contacts |
+| 2026-09-29 04:14:00 | [enreal](https://pypi.org/project/enreal/) | 0.1.0 | Guan Zheng Huang | 56.0 kB | Turn any image into a 2D platformer stage: a rule-based computer vision engine… |
+| 2026-09-29 04:18:25 | [nnscope](https://pypi.org/project/nnscope/) | 0.1.0 | michaelks | 77.3 kB | Watch your NumPy neural network learn: a live, replayable dashboard for weights… |

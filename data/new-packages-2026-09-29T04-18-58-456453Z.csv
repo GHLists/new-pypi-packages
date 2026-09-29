@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T03:18:21Z,django-eadmin,0.0.1,EAdmin contributors,LicenseRef-Proprietary,779613,"A reusable Tailwind, HTMX, Alpine.js, and DaisyUI Django administration app."
+2026-09-29T03:21:53Z,onero-sdk,0.3.0,OneRobotics,Apache-2.0,23828460,Python SDK for Onero robotic arms
+2026-09-29T03:27:20Z,pyunto-robotics,0.1.0,Utagoe Inc.,Apache-2.0,440327,Talk to a robot from the Pyunto diary app. Simulated robots included; bring your own with one interface.
+2026-09-29T03:32:16Z,heterodoxy,0.2.0,Greg Olmschenk <greg@olmschenk.com>,Apache-2.0,10701,
+2026-09-29T03:34:39Z,judgekit-eval,0.1.1,Vignesh Reddy Kethireddy,MIT,88574,"An LLM evaluation harness: deterministic checks, calibrated LLM-as-judge scorers, and a CI gate."
+2026-09-29T03:37:11Z,agentidem,1.0.0,AgentIdem,Apache-2.0,63450,Reliability testing for state-changing AI agents.
+2026-09-29T03:37:57Z,sslabdata,3.0.0,Siddhartha Srinivasa,MIT,171745,Renderer-agnostic academic lab data assembler: BibTeX + YAML → structured data
+2026-09-29T03:39:54Z,librarian-searxng,0.1.0,Kevin J. Smith,Apache-2.0,51880,SearXNG search backend plugin for librarian's research loop
+2026-09-29T03:40:21Z,basis3d,0.1.0,Jake Van Slyke,Apache-2.0,10515,Basis3D
+2026-09-29T03:42:04Z,matrix-verify,0.1.0,Matrix,MIT,34689,Fail-silent tracing for agent claim verification. Did your agent actually do what it said?
+2026-09-29T03:48:56Z,pylint-gajaguar,2.0.0,gajaguar <dev@gajaguar.com>,MIT,107902,Opinionated pylint checkers that encode review preferences beyond ruff
+2026-09-29T03:51:29Z,tracepress,0.0.1,,Apache-2.0,5665155,"LLM operators on DataFrames, registered pipelines, and an agent that answers questions over their artifacts."
+2026-09-29T03:51:58Z,magcc,0.1.0,Raymond Turrisi <rturrisi@mit.edu>,GPL-3.0-only,186877,"Live magnetometer hard/soft-iron calibration with a browser cockpit, fed by a simple UDP protocol"
+2026-09-29T03:53:19Z,py-easyshm,0.1.0,GalTechDev,,57714,High-performance Shared Memory IPC with kernel signaling for Python
+2026-09-29T03:54:08Z,pyqmd-mlx,0.7.0,,MIT,752893,"Local hybrid search (BM25 + vectors + reranking) over markdown collections, running on MLX on Apple Silicon — a Python rewrite of qmd."
+2026-09-29T04:02:13Z,tuskpool,0.1.0,sudodex,MIT,26730,An asyncio task pool with capped concurrency and bounded memory.
+2026-09-29T04:11:03Z,jevaro,0.1.0,Columnar Technologies Inc.,Apache-2.0,25718,TypeSafe-style Python client for Jevaro Arrow streams
+2026-09-29T04:11:09Z,jevaro-server,0.1.0,Columnar Technologies Inc.,Apache-2.0,28541,A small TypeSafe-to-Arrow streaming proxy
+2026-09-29T04:13:45Z,google-contacts-mcp,1.0.2,Justin Dray <justin@dray.be>,MIT,98093,Model Context Protocol (MCP) server for Google Contacts
+2026-09-29T04:14:00Z,enreal,0.1.0,Guan Zheng Huang,MIT,56001,Turn any image into a 2D platformer stage: a rule-based computer vision engine that traces playable terrain
+2026-09-29T04:18:25Z,nnscope,0.1.0,michaelks,MIT,77292,"Watch your NumPy neural network learn: a live, replayable dashboard for weights, gradients, activations and loss."

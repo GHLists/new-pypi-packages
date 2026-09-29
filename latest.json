@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 17,
-    "from": "2026-09-29T02:20:27.712467Z",
-    "path": "data/new-packages-2026-09-29T03-18-55-091948Z.csv",
-    "to": "2026-09-29T03:18:55.091948Z"
+    "count": 21,
+    "from": "2026-09-29T03:18:55.091948Z",
+    "path": "data/new-packages-2026-09-29T04-18-58-456453Z.csv",
+    "to": "2026-09-29T04:18:58.456453Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-09-29T03:18:21Z",
-      "package": "django-eadmin",
-      "since": "2026-09-29T02:20:27.712467Z"
+      "created_at": "2026-09-29T04:01:48Z",
+      "package": "kuberay-client",
+      "since": "2026-09-29T03:18:55.091948Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-29T01:42:02Z",
       "package": "noust",
       "since": "2026-09-29T01:19:03.717762Z"
     }
   ],
-  "serial": 41578668,
+  "serial": 41579926,
   "source_truncated": false,
-  "window": "2026-09-29T03:18:55.091948Z"
+  "window": "2026-09-29T04:18:58.456453Z"
 }
