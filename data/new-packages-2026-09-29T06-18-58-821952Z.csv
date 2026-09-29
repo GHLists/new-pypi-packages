@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T05:21:57Z,ptydy,0.0.1,Chia-Hao Lee <cl2696@cornell.edu>,LGPL-3.0,10724,"Ptydy: a PtyRAD studio for planning, inspecting, and reconstructing ptychography data"
+2026-09-29T05:22:35Z,pyrotcrypt,0.1.0,angel,,5862,Encrypt and decrypt a text by rotating letters of the alphpabet.
+2026-09-29T05:25:00Z,flet-code-editor-dsl,0.1.0,obgwew,Apache-2.0,33584,A real Flutter code editor exposed as a Flet control
+2026-09-29T05:28:18Z,jetsonrun,0.9.0,AgentCulture,Apache-2.0,259566,"jetsonrun - launch, manage and stop LLM inference workloads on NVIDIA Jetson (Orin, Thor) with one command. A Jetson port of sparkrun: recipes, runtimes, containers tuned for Jetson, drawing on thor-…"
+2026-09-29T05:28:31Z,bytebuddhi,0.1.4rc1,,MIT,785415,AI-powered coding assistant and agent platform
+2026-09-29T05:28:45Z,wen,0.1.0,,,18785,"Your API keys, one place."
+2026-09-29T05:33:07Z,privpy,0.1.0,,,3260041,Experimental native private computation regions for Python
+2026-09-29T05:38:40Z,otel-metrics,0.1.0,Vasuki Venkatesh,MIT,19179,Reusable OpenTelemetry metrics library with simplified instrument wrappers
+2026-09-29T05:40:51Z,agentshield-gateway-sdk,0.1.0,,MIT,8417,Python client for the AgentShield Tool Security Gateway
+2026-09-29T05:42:15Z,contexara,0.1.0,,MIT,99209,Contexara Python SDK — persistent memory for your AI apps
+2026-09-29T05:49:22Z,powr-memory-sdk,1.0.1,Lawazia AI Team,MIT,98061,Universal AI Agent Memory SDK: Embedded Local SQLite STM + Central Distributed MCP Server in one unified API.
+2026-09-29T05:55:22Z,mnemo-search,0.3.0,,MIT,915025,"One memory for all your coding agents: search Claude Code, Codex and Pi sessions across machines"
+2026-09-29T05:58:27Z,gmdoc,0.1.0,boscoh <apposite@gmail.com>,MIT,20254,Pull/push Google Docs as Markdown via the Drive API
+2026-09-29T06:07:06Z,auditagent-toolkit,0.2.0,Mago <271898130+mgonzalez88201-creator@users.noreply.github.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",78931,Toolkit modular de auditoría técnica en Python (solo stdlib)
+2026-09-29T06:08:35Z,symgrep-codesearch,0.5.0,,MIT,323995,"Code search with honest recall — structure-aware grep that tells you what it does not know, plus search by meaning"
+2026-09-29T06:10:29Z,helan,0.1.0rc1,helan contributors,MIT,108266,The Veil of Hidden Names (Helan) | Chinese-first personal data detection and masking
+2026-09-29T06:11:27Z,pygame-framecraft,1.0.0,CodeRoom,MIT,31567,A lightweight educational game framework built on top of Pygame.
+2026-09-29T06:11:29Z,worddael,0.1.0rc3,worddael contributors,MIT,146614,The Dale of Remembered Words (Worddael) | Chinese-aware RAG text chunking
+2026-09-29T06:12:12Z,sothstan,0.1.0rc1,sothstan contributors,MIT,104340,The Trial of the Hidden Voice (Sothstan) | Statistical audits for LLM API endpoints

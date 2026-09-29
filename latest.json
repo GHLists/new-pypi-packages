@@ -1,25 +1,31 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-09-29T04:18:58.456453Z",
-    "path": "data/new-packages-2026-09-29T05-19-33-063871Z.csv",
-    "to": "2026-09-29T05:19:33.063871Z"
+    "count": 19,
+    "from": "2026-09-29T05:19:33.063871Z",
+    "path": "data/new-packages-2026-09-29T06-18-58-821952Z.csv",
+    "to": "2026-09-29T06:18:58.821952Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-29T04:01:48Z",
       "package": "kuberay-client",
       "since": "2026-09-29T03:18:55.091948Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-09-29T01:42:02Z",
-      "package": "noust",
-      "since": "2026-09-29T01:19:03.717762Z"
+      "attempts": 1,
+      "created_at": "2026-09-29T05:52:51Z",
+      "package": "mq-bridge",
+      "since": "2026-09-29T05:19:33.063871Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-29T05:30:02Z",
+      "package": "otel-metric",
+      "since": "2026-09-29T05:19:33.063871Z"
     }
   ],
-  "serial": 41581309,
+  "serial": 41582487,
   "source_truncated": false,
-  "window": "2026-09-29T05:19:33.063871Z"
+  "window": "2026-09-29T06:18:58.821952Z"
 }
