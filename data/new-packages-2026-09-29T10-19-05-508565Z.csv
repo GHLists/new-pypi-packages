@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T09:20:31Z,radicale-modoboa-rights,1.0.0,Antoine Nguyen <tonio@ngyn.org>,"MIT License Copyright (c) 2026 Modoboa Permission is hereby granted, free of charge, to any person…",27136,Radicale rights plugin backed by the Modoboa API
+2026-09-29T09:22:28Z,mloda-plugin-jev,0.2.2,Tom Kaltofen <tomkaltofen@mloda.ai>,Apache-2.0,77710,mloda plugin that runs Jev: typed answers about a text column as feature columns
+2026-09-29T09:29:03Z,westquant-cudaq,0.1.0,WestQuant Open,Apache-2.0,16649,"Representation-aware CUDA-Q execution planning, GPU/QPU allocation, and reproducibility"
+2026-09-29T09:30:14Z,ovos-skill-fart,1.0.0,Andreas Lorensen,GPL-3.0-or-later,556070,"Makes your OVOS voice assistant fart - on request or at random - and deny everything afterwards. Offline, 8 languages."
+2026-09-29T09:30:35Z,cctodo,0.1.1,CloudCircus <support@cctodo.com>,MIT,37443,Command line tool and Python client for ccToDo (www.cctodo.com)
+2026-09-29T09:34:32Z,urok,0.1.0,,MIT,24514,"Консольный помощник для учёбы: объясняет темы, проверяет домашку, помогает разобраться"
+2026-09-29T09:39:13Z,sessionphone,0.0.1,Mike Bailey,,2284,Ring your Claude Code session from your phone over Delta Chat. Placeholder: first release coming soon.
+2026-09-29T09:39:58Z,starlette-admin-infinite-scroll,0.1.0,"""Alwin J. Schuster"" <contact@alwinschuster.at>",MIT,26541,Infinite scrolling for the starlette-admin list view
+2026-09-29T09:40:32Z,deep-agent-cli,0.1.0,,MIT,249229,A sandboxed coding agent CLI for Linux and WSL2
+2026-09-29T09:42:06Z,patch-via-github,1.0.0,,,67265,Tool used to modify a local 'repo sync' with changes from GitHub pull requests
+2026-09-29T09:43:41Z,maxpyin,0.1.0,evsikov-a,MIT,87196,Синхронный и асинхронный клиент Bot API мессенджера MAX
+2026-09-29T09:46:09Z,aneepay-x402,0.1.0,aneepay,MIT,73187,"Merchant-side x402 (exact, EVM) payment SDK for the AneePay facilitator"
+2026-09-29T09:49:26Z,serp-statistics,0.1.0,Serpentine contributors,MIT,6988,Serpentine statistics: mean/median/variance/stdev/quantiles written in the Serpentine subset
+2026-09-29T09:50:03Z,fidus,0.1.0,Mustafa Arslan,MIT,264912,Autonomous documentation agent: keeps a textbook-style docs repo in sync with your codebases via nightly pull requests.
+2026-09-29T09:50:32Z,modis-majortom,0.1.0,Riccardo D'Ercole,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",216354,"MODIS satellite data collection, cloud masking, and MajorTom grid utilities"
+2026-09-29T09:50:38Z,serp-strings,0.1.0,Serpentine contributors,MIT,12194,Serpentine string helpers: wrap/fill/indent/dedent/padding/expandtabs written in the Serpentine subset
+2026-09-29T09:51:32Z,sciath-cli,0.3.0,Sciath <support@sciath.co>,MIT,139500,CRA compliance automation CLI for embedded Linux
+2026-09-29T09:51:50Z,serp-structs,0.1.0,Serpentine contributors,MIT,8359,"Serpentine data-structure helpers: min-heap, bisect, generic deque and counter tallies in the Serpentine subset"
+2026-09-29T09:53:24Z,serp-subprocess,0.1.0,Serpentine contributors,MIT,16093,"Serpentine drop-in `subprocess`: run/check_output/Popen with pipes, timeouts, env and shell (runtime-backed; stdlib subprocess delegate under CPython)"
+2026-09-29T09:55:10Z,serp-test,0.2.0,Serpentine contributors,MIT,7432,"Serpentine test library: assertion helpers for `serp test` (pure Serpentine, dual-runs under CPython)"
+2026-09-29T09:56:20Z,serp-threading,0.1.0,Serpentine contributors,MIT,17574,"Serpentine drop-in `threading`: Thread/Timer, Lock/RLock/Event/Semaphore/Condition/Barrier, thread-local storage (runtime-backed; stdlib threading delegate under CPython)"
+2026-09-29T09:57:49Z,kuvert,1.0.0,jhnnsrs <jhnnsrs@gmail.com>,,104947,"The python client for kuvert, the arkitekt mail service"
+2026-09-29T09:57:52Z,serp-tomllib,0.2.0,Serpentine contributors,MIT,9942,Serpentine read-only TOML parser (kind-tagged TVal values) written in the Serpentine subset
+2026-09-29T09:57:56Z,orthonym,1.0.0,Kohulan Rajan,MIT,11601457,Open Structure-To-IUPAC-Name Generator - Rule-based IUPAC nomenclature from molecular structures
+2026-09-29T09:59:52Z,xtr-orm,1.5.0,Xterr,MIT,139173,"Databases for async applications: engines, sessions and versioned schema migrations, configured once per connection."
+2026-09-29T10:00:07Z,serp-url,0.1.0,Serpentine contributors,MIT,10639,"Serpentine URL toolkit: url_parse, quote/unquote, quote_plus/unquote_plus, urlencode, parse_query (pure Serpentine, dual-runs under CPython)"
+2026-09-29T10:01:45Z,serp-uuid,0.2.0,Serpentine contributors,MIT,7022,Serpentine uuid4 from OS randomness (runtime-backed; stdlib uuid delegate under CPython)
+2026-09-29T10:01:54Z,moxuan,0.1.0,Tridro <tridro@mohoutech.com>,MIT,7658962,照片查重清理工具：识别近重复照片并推荐保留最优的一张
+2026-09-29T10:02:59Z,serp-venom,0.4.0,Serpentine contributors,MIT,34190,"Venom — Serpentine's FastAPI drop-in: module-level app, @app.get/post decorators with parameter injection (path/query/serp_molt bodies), HTTPException(status_code=, detail=), JSONResponse, TestClient…"
+2026-09-29T10:04:09Z,serp-zipfile,0.2.0,Serpentine contributors,MIT,9886,"Serpentine ZIP archives: read/write stored + DEFLATE entries with CRC verification (pure Serpentine over serp-zlib, dual-runs under CPython)"
+2026-09-29T10:04:52Z,odoo-addon-product-contract-section,18.0.1.0.0.2,"ACSONE SA/NV, Odoo Community Association (OCA)",AGPL-3,28688,Propagate sale order sections and notes to generated contracts
+2026-09-29T10:04:55Z,odoo-addon-contract-layout-category-hide-detail,18.0.1.0.0.2,"ACSONE SA/NV, Odoo Community Association (OCA)",AGPL-3,31598,"Hide details for sections in contracts and their reports, portal and generated invoices"
+2026-09-29T10:05:25Z,serp-zlib,0.1.0,Serpentine contributors,MIT,8213,Serpentine compression: zlib/raw-deflate/gzip compress+decompress and crc32/adler32 (runtime-backed; stdlib zlib delegate under CPython)
+2026-09-29T10:05:50Z,honestreview,0.2.0,Ash Damle,MIT,1555511,Review a repo at the granularity its defects actually live at — and never overstate what you checked
+2026-09-29T10:05:59Z,outlooks,0.2.0,gitronald <gitronald@users.noreply.github.com>,MIT,204649,"Archive and read an Outlook mailbox through the Microsoft 365 connector, with the Claude Code skill that drives it."
+2026-09-29T10:06:24Z,soup5ever,0.1.0,,,3077324,A BeautifulSoup tree builder backed by Rust's html5ever HTML5 parser
+2026-09-29T10:07:50Z,gcn-transformers,1.1.0,Michel Tendeng <devmail0561-web@gcn-engine.org>,Apache-2.0,97337,"Encodeurs Transformer drop-in pour GCN Causal Engine v4.0 — CamemBERT (FR), XLM-RoBERTa (multilingue), CodeBERT (code) ; interface identique à MLPEncoder, dimensions d_clause=106 / 8 nœuds / 19 relat…"
+2026-09-29T10:07:51Z,gcn-annotate,4.0.0,,,61117,"Outil d'annotation de datasets GCN-NL v4.0 — LLM (Anthropic/OpenAI) ou analyse UD structurelle, normalisation vers 8 types D5 et 19 relations causales, équilibrage automatique des quotas par relation"
+2026-09-29T10:07:55Z,gcn-scraper,3.0.0,,,124132,"Collecteur multilingue pour corpus GCN-NL — Wikipedia/HAL/arXiv/GitHub/RSS/web (FR/EN/ES/DE + code Python/Rust/JS), filtrage causal, déduplication SQLite, reprise sur interruption"
+2026-09-29T10:11:45Z,llmfirewall-core,1.0.0,LLMFirewall Authors,Apache-2.0,940274,"A lightweight, provider-agnostic security and policy enforcement layer for LLM, RAG, and AI-agent applications."
+2026-09-29T10:12:10Z,graph_longrange,0.4.3,,,60504,
+2026-09-29T10:13:06Z,trance,0.1.0,,MIT,355576,Discover local model provider sessions and expose them through Pydantic AI
+2026-09-29T10:14:00Z,instanceprefs,0.1.0,Younes Z.,MIT,27751,"Show the server list and game options of a launcher instance as text, and copy them into another instance. No dependencies."
+2026-09-29T10:14:04Z,arkitekt-mesh,0.1.0,jhnnsrs <jhnnsrs@gmail.com>,MIT,25649767,"Run an Arkitekt mesh node in-process: our own Tailscale-compatible client, with a local HTTP proxy and a TURN relay into a deployment's mesh"
+2026-09-29T10:15:11Z,aicser-embed,0.3.1,,AGPL-3.0,7708,"Mint signed, single-use Aicser embed links from your server"
+2026-09-29T10:15:37Z,laptop-remote,1.0.0,Laptop Remote Contributors,MIT,171851,"Control your laptop from a phone over local Wi-Fi — mouse, keyboard, media, and presentation laser pointer."
+2026-09-29T10:17:26Z,langgraph-goat,1.0.0,"Moushumi Mahato <moushumi.m@samsung.com>, Javaid Nabi <javaid.nabi@samsung.com>",MIT,168254,Graph of Agentic Thoughts: Bridging Agentic Reasoning and Explainability through Graphs
