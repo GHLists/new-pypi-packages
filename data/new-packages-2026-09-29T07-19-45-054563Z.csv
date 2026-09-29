@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T05:52:51Z,mq-bridge,0.4.16,,MIT OR Apache-2.0,243337710,Python bindings for mq-bridge (full: all brokers incl. Kafka)
+2026-09-29T06:19:47Z,siftan,0.1.0a1,siftan contributors,MIT,32712,The Sieve Beneath the Stars (Siftan) | Benchmark contamination screening
+2026-09-29T06:20:49Z,tellan,0.1.0rc2,tellan contributors,MIT,119102,The Ledger of Vanishing Tokens (Tellan) | LLM usage reconciliation and audit
+2026-09-29T06:21:49Z,volcenginesdk-privatelink,0.0.1,volc-engine,Apache License 2.0,1033,Name reservation for the Volcengine Python SDK split package volcenginesdk-privatelink
+2026-09-29T06:21:55Z,volcenginesdk-privatezone,0.0.1,volc-engine,Apache License 2.0,1033,Name reservation for the Volcengine Python SDK split package volcenginesdk-privatezone
+2026-09-29T06:22:04Z,volcenginesdk-quota,0.0.1,volc-engine,Apache License 2.0,989,Name reservation for the Volcengine Python SDK split package volcenginesdk-quota
+2026-09-29T06:22:12Z,volcenginesdk-rabbitmq,0.0.1,volc-engine,Apache License 2.0,1012,Name reservation for the Volcengine Python SDK split package volcenginesdk-rabbitmq
+2026-09-29T06:25:28Z,derailment,0.1.0,Derailment contributors,MIT,125158,A harness for inducing and measuring psychopathology-like cognitive distortions in LLMs
+2026-09-29T06:27:46Z,gewita,0.1.0rc1,gewita contributors,MIT,99348,Witnesses in the Margins (Gewita) | Citation parsing and source verification
+2026-09-29T06:27:59Z,dj-website-qa-mcp,1.1.0,,Proprietary,21425,鼎尖软件官网客户问答 MCP：查询查重 + 第三方签名鉴权保存 FAQ
+2026-09-29T06:30:36Z,actlens,0.1.0,Evan704,MIT,854715,Interactive viewer for the activations of a Hugging Face model during a forward pass
+2026-09-29T06:39:43Z,veccore,0.2.0,Ash Damle,MIT,114517,"Ports-and-adapters vector substrate: embed -> index -> search -> hydrate, backend/embedder-agnostic."
+2026-09-29T06:40:43Z,violit-drawable-konva,0.2.0,George Siogkas <gsiogkas@cvrlab.com>,MIT,316317,Violit drawable Konva canvas + before/after image comparison
+2026-09-29T06:40:55Z,fine-memes,0.1.0,Angel L. P.,,27496,
+2026-09-29T06:41:21Z,llmreport,0.1.0,omparekh54-lgtm,MIT,90572,"One-line behavior and performance report for your language model: architecture, speed, perplexity, repetition, consistency, robustness and refusals."
+2026-09-29T06:41:40Z,mtg-archetypes,2026.9.2,,,143529,Magic: The Gathering deck archetype classifier
+2026-09-29T06:43:14Z,pocketforge,0.1.0a4,,MIT,162321,Build and evaluate local text classifiers from labeled examples.
+2026-09-29T06:43:22Z,westquant-plugins,0.4.0,WestQuant,Apache-2.0,36593,"Official plugins for WQT50M and WQT20M quantum representation scheduling models — Qiskit, TKET, PyZX adapters"
+2026-09-29T06:44:28Z,scope-parity,1.0.0,,MIT,49747,parity checks between a route registry and a permission registry
+2026-09-29T06:51:48Z,omnicache,0.1.0,omnicache contributors,Apache-2.0,167132,A unified-representation KV cache for vLLM: one model's KV cache becomes reusable by another model
+2026-09-29T06:53:54Z,pasm2,2.0.0a9,arronZheng,MIT,118175,PASM v2.0 — 类脑认知引擎独立底座（预测/记忆/符号化/双系统/数学脑，numpy-only CPU 毫秒级）
+2026-09-29T06:56:53Z,pymizan,3.0.0,MIZAN Contributors,Apache-2.0,1215114,Agentic Personal AI - Quranic Cognitive Architecture for human-like reasoning
+2026-09-29T06:58:22Z,placebo-cli,0.1.0,Placebo contributors,Apache-2.0,144375,"Is your agent skill a placebo? Controlled A/B trials for Agent Skills and AGENTS.md on your own repo, across coding agents."
+2026-09-29T07:02:06Z,easy-uds,1.1.0,kimseungsu-dev,MIT,12560,Python ctypes binding for the easy-uds local IPC library
+2026-09-29T07:04:01Z,lingotweaker-data-es,0.1.5,,LGPL-2.1-or-later,3985189,LingoTweaker runtime data for language 'es'
+2026-09-29T07:04:06Z,lingotweaker-data-fa,0.1.5,,LGPL-2.1-or-later,551036,LingoTweaker runtime data for language 'fa'
+2026-09-29T07:04:12Z,lingotweaker-data-it,0.1.5,,LGPL-2.1-or-later,1326058,LingoTweaker runtime data for language 'it'
+2026-09-29T07:04:18Z,lingotweaker-data-ja,0.1.4,,LGPL-2.1-or-later,11041007,LingoTweaker runtime data for language 'ja'
+2026-09-29T07:05:02Z,repopedia,0.1.0,Bolong Pan,MIT,84365,"MIT-licensed code knowledge graph: index any source repo into a queryable graph of symbols, calls, and dependencies"
+2026-09-29T07:08:50Z,polars-tokenizer,0.1.0,polars-tokenizer contributors,MIT,147117323,High-performance token analytics for Polars
+2026-09-29T07:10:27Z,configreach,0.9.0,Saurav Singla,MIT,125054,Deterministic configuration coverage for software repositories
+2026-09-29T07:11:41Z,fetchnode,0.4.0,Remco van Wijk <remcovanwijk040@users.noreply.github.com>,MIT,47640,Official Django and Python client SDK for FetchNode monitoring
+2026-09-29T07:12:25Z,groq-gemini-bridge,0.1.0,Prince Prajapati <prajapatiprince982@gmail.com>,MIT,13970,Chatbot library that calls Groq and Gemini with multi-key automatic failover.
+2026-09-29T07:13:53Z,orangedatatools,0.0.2,,,14743,Package for OrangeData API service
+2026-09-29T07:14:49Z,mat-test,0.4.0,,,241491,MAT — AI 移动端 App UI 自动化测试（引擎与 CLI，开源核心 AGPL-3.0）
+2026-09-29T07:15:28Z,etch-client,0.0.0,ETCH <support@get-etch.app>,MIT,3488,"Placeholder: the ETCH client is installed from ETCH's package registry, not from PyPI."
+2026-09-29T07:15:46Z,semiconductor-toolkit-Kyoungjun,0.1.3,Yang Kyoungjun <ykj0708@g.skku.edu>,MIT,4218,Simple semiconductor toolkit package
+2026-09-29T07:15:59Z,aiaddons,0.1.0,Anuj04432 <anujwagmore835@gmail.com>,MIT,477352,AI Add-ons Manager - Package & Integration Manager for AI Agents
+2026-09-29T07:17:06Z,duckgap,0.0.1,Oleksandr,MIT,7183,Silent contract-drift detection for AI agents. Placeholder release.
+2026-09-29T07:18:28Z,metascalp,1.1.0,MetaScalp,MIT,28418,"Official SDK for MetaScalp API — trade, stream order book and trades via REST and WebSocket"
+2026-09-29T07:19:05Z,overthink-guard,0.1.0,Junwon Lee <cpprhtn@gmail.com>,"MIT License Copyright (c) 2026 Junwon Lee Permission is hereby granted, free of charge, to any pers…",4588,Overthink Guard
+2026-09-29T07:19:18Z,chatrelay,0.1.0,Prince Prajapati <prajapatiprince982@gmail.com>,MIT,13701,Chatbot library that calls Groq and Gemini with multi-key automatic failover.
+2026-09-29T07:19:27Z,xjyutping,1.1.0,,MIT AND CC-BY-SA-4.0,2384049,"Convert Traditional Chinese text to Cantonese Jyutping (粵拼), with pronunciation chosen from context"
