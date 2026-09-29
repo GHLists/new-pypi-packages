@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T11:18:08Z,uffpsim,0.1.0,"Rajendra Kumar, Gian Marco Ghiandoni",,6221533,Ultra-fast compound similarity search
+2026-09-29T11:25:27Z,agent-session-commit,0.1.1,Lijie Zhou,MIT,54797,Incrementally archive AI coding agent sessions in Git commits
+2026-09-29T11:31:58Z,antipluto,1.0.1,,CC BY-NC 4.0,265222,"A unified framework for email preprocessing, PII masking, LLM cohort generation, and dual-branch semantic-stylometric phishing classification."
+2026-09-29T11:37:00Z,shacl-rust,0.2.12,Ensar Emir EROL,MIT,12191881,"SHACL (Shapes Constraint Language) validator for RDF graphs, powered by Rust"
+2026-09-29T11:37:02Z,openpapercheck,0.1.0.dev1,OpenPaperCheck Contributors,Apache-2.0,209760,"Fast, honest scholarly retraction and reference integrity checker with verified open labels."
+2026-09-29T11:37:59Z,rowfence,0.0.0,,Apache-2.0,1416,Access rules for Postgres. Not released yet.
+2026-09-29T11:42:19Z,genomde-consent-check,2.0.0,Oliver Kohlbacher,MIT,72400,"Check MII Kerndatensatz Consent (FHIR R4) resources: IG rules, official HL7 validator, cross-export consistency; plus de-identification"
+2026-09-29T11:44:55Z,sonnet-term,0.1.0,Sonnet Desktop contributors,MIT,8271942,"Sonnet persona as a terminal CLI, powered by Hermes Agent."
+2026-09-29T11:46:32Z,fmjl,0.5.0,Rupak Kumar,MIT,74150,"FMJL (.fmjl): one document, two forms. JSON Lines container, Markdown text, LaTeX formulas, HTML merged-cell tables, built for RAG. Converter, checker, PDF and Word importers, retriever chunks."
+2026-09-29T11:46:41Z,pipeline-diff,0.1.0,goran-revops,MIT,131205,Open-source pipeline change tracker for HubSpot and Salesforce: a pipeline waterfall dashboard and files AI agents can read.
+2026-09-29T11:48:06Z,agent-skills-library,3.4.0,ssrjkk <ray013lefe@gmail.com>,MIT,44488,"59 curated bilingual (EN+RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf and every LLM/GLM agent. Python SDK + CLI with CI-enforced validation and quality…"
+2026-09-29T11:55:12Z,melderops,0.0.1,Mark Geleta <SynapticAISystems@gmail.com>,AGPL-3.0-or-later,26750,MelderOps - operations and orchestration built on Melder.
+2026-09-29T11:59:03Z,lythoswall,0.1.0,Hasan Deniz Altuntaş <lythosfea@gmail.com>,AGPL-3.0-only,295863,"Cantilever reinforced concrete retaining walls: earth pressure by Rankine, Coulomb, at rest and the trial wedge; sliding, overturning, eccentricity, bearing capacity by Terzaghi, Meyerhof, Hansen, Ve…"
+2026-09-29T11:59:16Z,cobmix,0.1.0,,,83908,COMEX-style multi-view code representations for COBOL
+2026-09-29T11:59:53Z,ddflow-mcp,0.1.1,,MIT,1727623,"A portable, agent-agnostic work-queue kernel for AI coding agents — MCP server and CLI."
+2026-09-29T12:04:49Z,agent-workflow-sdk,0.1.0,Daniel Sorkin,Apache-2.0,263755,"Async-first, LangGraph-style SDK for building agent workflows with pluggable agent and LLM backends."
+2026-09-29T12:07:42Z,tempo-arena,0.0.1,Yunzhe,Apache-2.0,2252,TEMPO: real-time environments where the world doesn't wait for the agent.
+2026-09-29T12:08:49Z,ceresgeo,0.1.0,Gustavo Pretto Scholze,MIT,51321012,My Python tooling for day-to-day geostatistics
+2026-09-29T12:12:01Z,immvoke,0.1.0,"Susanna Marquez, Ayelet Peres","GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",837289,Download data from online immune repertoire databases and format it for Immcantation
+2026-09-29T12:12:46Z,mcp-server-brewfather,0.1.0,Chris Clonch <chris@theclonchs.com>,MIT,75627,"MCP server for Brewfather: read batches, recipes, readings, and inventory; create and edit recipes; update batch status and stock"
+2026-09-29T12:16:47Z,pushframe,5.0.0,,MIT License Copyright (c) 2026 Fabrice DIDIERJEAN (coredmp95) Copyright (c) 2023 zmanowar (zach@cod…,1311829,
+2026-09-29T12:17:38Z,egypttranslit,1.0.0,"""Eduardo J. Barrios"" <edujbarrios@outlook.com>",Apache-2.0,55947,A small Python library for converting Egyptological transliteration to canonical Unicode.
+2026-09-29T12:19:02Z,galaxy-fsspec,0.1.0,galaxy-fsspec contributors,MIT,148987,"An fsspec filesystem for Galaxy histories, datasets, and collections."
