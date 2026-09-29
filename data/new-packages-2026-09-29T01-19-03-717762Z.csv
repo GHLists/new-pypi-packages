@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-09-28T23:55:22Z,durable-actors,0.5.5,,MIT,190654,Typed Python durable actors and generated clients
+2026-09-29T00:21:09Z,viva-cpm,0.1.1,Vivarium Collective,MIT,2458320,"A process-bigraph Cellular Potts Model framework: a fast Rust CPM engine (2D/3D) with pluggable subcellular models, structural constraints, and metrics."
+2026-09-29T00:24:21Z,wwpdb-validation,0.1.0,,MIT,30351,Read wwPDB validation reports completely and correctly
+2026-09-29T00:25:31Z,cloakbrowser-agent,0.1.0,,MIT,54671,"Jev-powered stealth browser agent: TypeSafe Jev decides each step, CloakBrowser carries it out. MCP server, CLI and Python API."
+2026-09-29T00:26:43Z,answer-engine-benchmark,0.1.0,Synapse Research Ltd,MIT,46205,"Ask ChatGPT, Gemini, Perplexity and Claude your buyers' questions, several times each, and count who they cite."
+2026-09-29T00:26:46Z,afriverify,0.1.0,,MIT,12294,Official Python SDK for the AfriVerify identity platform
+2026-09-29T00:27:03Z,codedex,0.1.0,"""Tyler (Levatat3)"" <levbot.py@gmail.com>","MIT License Copyright (c) 2026 Tyler (Levatat3) Permission is hereby granted, free of charge, to an…",16039,"Find your own code by what it does, not what the folder is called."
+2026-09-29T00:27:15Z,one-hop,0.1.0,Synapse Research Ltd,MIT,24802,"Check a redirect map: every old URL must reach its new URL in exactly one hop, and the new URL must answer 200."
+2026-09-29T00:28:42Z,senddart,1.0.0,SendDart,MIT,104860,Official SendDart Python SDK — send transactional and marketing email from your own verified domain.
+2026-09-29T00:30:27Z,status200uploads,0.1.0,iBoyDroid <info@status200uploads.com>,MIT,197212,"Publish and schedule posts to TikTok, Instagram, Facebook, YouTube, X, LinkedIn, Pinterest, Threads and Skool with the Status 200 Uploads API."
+2026-09-29T00:37:46Z,agent-code,1.0.0,minecraftbefile-maker,MIT,124209,"Local AI agent with headless browser, sandboxed shell, and plug-and-play skills"
+2026-09-29T00:48:27Z,voltry-mac,0.0.1,,Apache-2.0,2269,"Name reserved by Voltry for voltry-mac, a hardware report for Apple silicon Macs. This placeholder installs nothing."
+2026-09-29T00:48:41Z,qubo-wisard,0.1.0,Natasha Costa Fonseca,MIT,68798,QUBO-based structural RAM selection for WiSARD classifiers
+2026-09-29T00:52:44Z,report-toolkit,0.1.0,Heladio Lopes,MIT,89769,Compose analytical reports in Python and render them as HTML
+2026-09-29T00:53:00Z,jammi-ai-native-cu12,0.50.0,F-Inverse,Apache-2.0,99019613,"CUDA (cu12, sm_80+) build of the compiled in-process Jammi engine — the `jammi_native` PyO3 extension"
+2026-09-29T00:59:37Z,leanroute,0.1.0,Kushal,Apache-2.0,32720,"A toll gate in front of any LLM: blocks prompt injections, routes easy requests to a cheaper model, and tracks the savings."
+2026-09-29T01:00:29Z,wippa-project-manager,0.1.0,wippa-studios,MIT,22548,"Client SDK for wippa-project-manager: agents as first-class assignees, and 'done' as a signed run report"
+2026-09-29T01:06:05Z,jebadiah-decide,0.2.0,Jason Brashear,Apache-2.0,70905,"Typed decisions from a Jebadiah model on your own runtime: llama-server, Ollama, LM Studio, vLLM, MLX or a /v1/systemone server"
+2026-09-29T01:15:19Z,serpentype,0.1.0,,MIT,12942912,Controlled HTML/CSS to PDF with paginated Rust layout
+2026-09-29T01:17:29Z,attack3-hud,0.1.0,"""Christopher J. Kosik"" <kosik.chris.j@gmail.com>","MIT License Copyright (c) 2026 Christopher J. Kosik Permission is hereby granted, free of charge, t…",25954,Cross platform HID Controller Diagnostics HUD for Logitech Attack 3
+2026-09-29T01:18:05Z,uspiflash,0.0.post30,Tim Ansell <me@mith.ro>,Apache-2.0,112414,"Generates tiny single-file C libraries that detect SPI flash chips and report their capabilities, from the spiflash database."

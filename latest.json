@@ -1,43 +1,37 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-09-28T23:20:05.185299Z",
-    "path": "data/new-packages-2026-09-29T00-19-03-684847Z.csv",
-    "to": "2026-09-29T00:19:03.684847Z"
+    "count": 21,
+    "from": "2026-09-29T00:19:03.684847Z",
+    "path": "data/new-packages-2026-09-29T01-19-03-717762Z.csv",
+    "to": "2026-09-29T01:19:03.717762Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-28T22:38:25Z",
       "package": "arr-dynamictool",
       "since": "2026-09-28T22:21:43.333062Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-28T23:53:55Z",
       "package": "bosun_call",
       "since": "2026-09-28T23:20:05.185299Z"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-09-28T23:55:22Z",
-      "package": "durable-actors",
-      "since": "2026-09-28T23:20:05.185299Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-28T22:33:24Z",
       "package": "dynamictool",
       "since": "2026-09-28T22:21:43.333062Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-28T21:28:17Z",
       "package": "pydantic-clai2",
       "since": "2026-09-28T21:19:58.003221Z"
     }
   ],
-  "serial": 41574752,
+  "serial": 41576228,
   "source_truncated": false,
-  "window": "2026-09-29T00:19:03.684847Z"
+  "window": "2026-09-29T01:19:03.717762Z"
 }
