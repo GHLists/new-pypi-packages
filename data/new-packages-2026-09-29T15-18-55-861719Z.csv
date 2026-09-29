@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T14:18:54Z,intuition-memory,0.1.2,,MIT,230277,"Intuition — a daily-driver agent memory: Markdown in git, FTS5 search, one Steward that writes."
+2026-09-29T14:20:10Z,unified-respondd,0.2.0,Annika Wickert <aw@awlnx.space>,GPL-3.0-only AND MIT,113865,Display APs of WiFi controllers on Freifunk maps via respondd.
+2026-09-29T14:20:19Z,instapaper-api,1.0.0,Instapaper <support@instapaper.com>,MIT,34329,Official Python client library for the Instapaper API v2
+2026-09-29T14:27:20Z,pand-prac,1.0.3,LordOp <Shui6254@gmail.com>,,15040,Code generator for Deep Learning scripts
+2026-09-29T14:29:17Z,sphinx-pss,0.1.0,Matthew Ballance <matt.ballance@gmail.com>,Apache-2.0,275387,Sphinx autodoc support for Accellera PSS (Portable Test and Stimulus Standard) source
+2026-09-29T14:29:26Z,vinc-client,0.1.0,Vinculums,MIT,31841,"Python client for the Vinc REST v1 API: read a knowledge graph you share with AI, and write episodes to it on purpose."
+2026-09-29T14:29:58Z,daisy-cotton,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,132886,"Base daisyUI-styled django-cotton components: buttons, inputs, cards, alerts and the rest of an application's furniture"
+2026-09-29T14:30:37Z,taches-sdk,0.1.0,"""Tâches.ma Team"" <contact@taches.ma>",MIT,7178,Official Python SDK for Tâches.ma — Freelance & Micro-Tasks Marketplace in Morocco
+2026-09-29T14:32:06Z,semgate,0.4.0,Manuel Parra,Apache-2.0,1738761,"Semantic command-permission gate for coding agents: deterministic rules for the certain-bad, a typed classifier (TypeSafe Jev) for the rest, fail-closed. We judge. The host acts."
+2026-09-29T14:32:33Z,vectorfit-py,0.2.0,"Isabel Droste <i.e.a.c.droste@tudelft.nl>, Sjoerd Stallinga <s.stallinga@tudelft.nl>, Bernd Rieger…",LICENSE.txt,18921875,Python bindings for VectorFitter - fast vectorial PSF fitting for SMLM
+2026-09-29T14:32:59Z,inflection-exchange,0.0.1,,,1419,Python client for the Inflection prediction exchange. Coming soon.
+2026-09-29T14:33:13Z,vectorfit-py-cu12,0.2.0,"Isabel Droste <i.e.a.c.droste@tudelft.nl>, Sjoerd Stallinga <s.stallinga@tudelft.nl>, Bernd Rieger…",LICENSE.txt,39572746,Python bindings for VectorFitter - fast vectorial PSF fitting for SMLM
+2026-09-29T14:33:27Z,ip-report,0.0.2,Junbo Zheng,Apache-2.0,32520,Cross-platform CLI that emails you this machine's IP addresses on boot or on a schedule
+2026-09-29T14:33:46Z,vinc-langgraph,0.1.0,Vinculums,MIT,17619,"Vinc for LangGraph and LangChain agents: bring decisions and records from your knowledge graph into graph nodes and model calls, and record an episode only when you choose to."
+2026-09-29T14:33:51Z,django-mvp-accounts,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,43601,"Sign-up, sign-in, account management and API access for django-mvp projects, built from the third-party packages that already do each job well"
+2026-09-29T14:34:29Z,qirc,0.1.1,Angad Basandrai,MIT,5584665,"Compile, optimise, route and simulate QIR from Python"
+2026-09-29T14:34:39Z,viralconseq,0.2.1,Filipe Moreira <filiperomero2@gmail.com>,MIT,296485,Reference-guided consensus sequence inference for viral high-throughput sequencing data.
+2026-09-29T14:35:50Z,artificial-analysis-cli,0.1.0,,MIT,122891,Typed command-line access to Artificial Analysis model data.
+2026-09-29T14:36:00Z,rna-toolkit,0.1.0,周志成 <2931533115@qq.com>,MIT,20357,"RNA FASTA toolkit for parsing, k-mer analysis, and search"
+2026-09-29T14:37:12Z,breakdig,0.1.0,Booyaka101,MIT,137958,"Find bar-exact drum breaks, acapellas and other sections in your own music library, using GPU stem separation and downbeat tracking."
+2026-09-29T14:42:57Z,shuka-sdk,0.0.1,Auron <info@auron.co>,Proprietary,3594,"Name reservation for the Shuka SDK — install the real SDK from the Shuka API, not PyPI."
+2026-09-29T14:45:07Z,odoo-addon-barcode-stock,18.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,117743,"Warehouse operations (receipts, deliveries, internal transfers) for the Barcode suite"
+2026-09-29T14:46:22Z,anvilcore,0.1.0,kugua,Apache-2.0,48132,"anvilcore: a Cordis-style plugin kernel for Python: install, unload and reinstall capabilities in a long-running process with dependency-ordered teardown and guaranteed cleanup."
+2026-09-29T14:46:54Z,vinc-agent-framework,0.1.0,Vinculums,MIT,13389,"Vinc for Microsoft Agent Framework: bring decisions and records from your knowledge graph into each agent run, without writing anything on its own."
+2026-09-29T14:48:07Z,outcomeci-connectors,0.2.0,,Apache-2.0,52652,Provider definitions and setup tooling for OutcomeCI integrations
+2026-09-29T14:49:43Z,django-freeletter,0.1.0,Diego Cebrian <diego@cebrian-it.fr>,BSD-3-Clause,76544,"A small Django newsletter engine: subscribers, double opt-in, composable issues, a web archive, and a send queue."
+2026-09-29T14:50:16Z,django-oscar-freeletter,0.1.0,Diego Cebrian <diego@cebrian-it.fr>,BSD-3-Clause,74980,"Wires django-freeletter into django-oscar: product and blog-post issue blocks, plus an Oscar dashboard section."
+2026-09-29T14:50:39Z,lazproof-geo,0.1.1,Alena Nikitina,Apache-2.0,29595,"Prove that a LAS/LAZ file is an exact, order-preserving spatial subset of another"
+2026-09-29T14:51:35Z,glder,0.1.0,Henrique Souza <henrique.souza@manchester.ac.uk>,GPL-3.0-or-later,87509,Exact adjoint derivations on symmetric powers of gl(n)
+2026-09-29T14:51:52Z,agent-env-audit,0.1.0,,"MIT License Copyright (c) 2026 agent-audit contributors Permission is hereby granted, free of charg…",65822,AI Agent 环境安全审计 CLI：供应链投毒 / 密钥暴露 / 端口暴露 / MCP server 一键体检
+2026-09-29T14:52:10Z,coharness,1.1.0,,"MIT License Copyright (c) 2026 MatikaneMeika Permission is hereby granted, free of charge, to any p…",465410,四套 Markdown 协作骨架 + 零依赖工具链：让多个 AI 工具在同一个仓库里不打架
+2026-09-29T14:52:10Z,skill-maintenance-mcp,0.1.0,sora,MIT,141579,技能库维护 MCP server：损坏扫描/备份/决策日志/体检（skill-evolution 机械环节工具化）
+2026-09-29T14:53:04Z,mermaid2pptx,1.0.0,,MIT,69540,"Convert Mermaid flowcharts into native, editable PowerPoint shapes (BPMN-style by default)"
+2026-09-29T14:56:17Z,voixa,0.1.0,,MIT,57544,"Python client for the Voixa AI speech API: text-to-speech, voice design from a description, voice cloning, podcasts, streaming and speech-to-text. Zero dependencies."
+2026-09-29T14:59:18Z,iron-pgn-parser,0.1.0,Louis Turpault <louis.turpault@gmail.com>,,782730,Add your description here
+2026-09-29T14:59:35Z,determine,0.0.1,Jack,MIT,5273,Context-aware primitives for AI-assisted decisions in Python.
+2026-09-29T15:02:31Z,bionym,0.1.0,,MIT,245815,Resolve bioinformatics identifiers into confidence-scored knowledge graphs with JEV.
+2026-09-29T15:02:51Z,raguard-svkmsr6,0.1.0,Souvik Misra,MIT,48259,"Evaluation-first RAG pipeline: retrieval, generation, deterministic metrics, and guardrails for sensitive domains."
+2026-09-29T15:03:54Z,ovcae,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1046,Zero version placeholder for ovcae
+2026-09-29T15:04:26Z,foliant-protocol,0.1.0,,Apache-2.0,66251,"Foliant reference implementation: agent accounts with hierarchical spending policies, payment channels, pooled settlement and HTTP 402 metering in the x402 wire format"
+2026-09-29T15:05:03Z,langchain-foliant,0.1.0,Machine Quotient Ltd <gaz@garethoyston.com>,Apache-2.0,16002,Foliant for LangChain: a payment tool for agents paying over x402 and a middleware that enforces a crew's spending budget on every tool call
+2026-09-29T15:05:05Z,dirbear,0.1.0,,MIT,17157,Dir Bear secure download client for purchased datasets
+2026-09-29T15:11:08Z,krypton-app,0.1.0,,MIT,12349,"krypton, the apps of vibey: launches the local vibey hub and opens it."
+2026-09-29T15:11:18Z,skout-scan,0.1.0,Puja Kamath,Apache-2.0,96602,Skout Scan finds potentially untested behaviors in AI-agent repositories.
+2026-09-29T15:13:05Z,aayan-io,0.1.0,Aayan,,2485,Aayan's first python tool
+2026-09-29T15:18:55Z,wkassa,1.1.0,WKASSA,MIT,28353,"Universal payment orchestration, custom checkout, wallet ledger and provider SDK for Python 3.14"
