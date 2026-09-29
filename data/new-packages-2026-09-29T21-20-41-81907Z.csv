@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T20:23:48Z,goodmem-langgraph,0.3.0,,MIT,159238,LangGraph integration for GoodMem: long-term agent memory with semantic storage and retrieval.
+2026-09-29T20:27:38Z,engmech,0.4.0,Matthew Davidson <matthew@davidson.engineering>,MIT,627385,"Rigid-body statics, dynamics and mass properties for engineers: unit-aware input files, a CLI, and verified HTML reports"
+2026-09-29T20:29:19Z,kaaval,0.0.1,Ravichandran Kanakasikamani,Apache-2.0,2630,"Kaaval (காவல்): chain of custody for AI agent actions. Placeholder, under active development."
+2026-09-29T20:33:47Z,contexte,0.2.1,ContexteTech <coucou@contextetech.com>,MIT,15244,"Load LLM datasets, prompts and few-shot contexts from ContexteTech in one line of Python, with cost estimates. No dependencies."
+2026-09-29T20:35:14Z,matching-engine,0.1.0,Mohammad Zarif,MIT,160029,"A deterministic price-time priority matching engine with a checksummed write-ahead log, snapshots and a FastAPI gateway."
+2026-09-29T20:35:17Z,mdp-outbox,0.1.0,Mohammad Zarif,MIT,197304,"Ingest trades from several sources, build OHLCV candles live and historically, and serve them over REST and WebSocket."
+2026-09-29T20:39:16Z,dircue,1.0.1,,MIT,52816080,Profile source code repos and other directories of computer content.
+2026-09-29T20:40:54Z,example_package_dude9000,0.0.1,,,419,
+2026-09-29T20:43:16Z,flieber,0.0.1,Flieber,Proprietary,7406,"The flieber command: CLI and MCP server for Flieber commerce data (actual sales, adjusted sales, forecast)."
+2026-09-29T20:43:48Z,dicabrio-durable-sdk,0.1.0,dicabrio,MIT,27671,Python SDK for the Durable execution engine
+2026-09-29T20:46:03Z,coreference,0.0.1,Your Name,,2839,Coreference resolution tools for Python
+2026-09-29T20:49:32Z,berg-iceberg,1.0.0,,,259868,A developer and operational management layer for Apache Iceberg.
+2026-09-29T20:50:43Z,ntpstats,2.5.0,Thiago de Freitas <thiagodefreitas@gmail.com>,MIT,296067,"NTP / network-time offset, delay and frequency-stability analysis (ADEV, MDEV, TDEV, HDEV, MTIE) with a lightweight web UI"
+2026-09-29T20:55:18Z,shapesoda,1.1.0,Shapesoda <support@shapesoda.com>,LicenseRef-Proprietary,114762,"Shapesoda API client: convert raster images into SVG, PDF, EPS, DXF or PNG vectors."
+2026-09-29T20:55:57Z,netmotion,0.1.0,Mariano Tirado Alonso,"MIT License Copyright (c) 2026 Mariano Tirado Alonso Permission is hereby granted, free of charge,…",627958,"Dynamics on complex networks in Python: growth, epidemics, opinions, immunisation and interbank contagion, with animations. The models of the book Networks in Motion."
+2026-09-29T21:00:54Z,sentinel-ai-core,0.1.0,Hamza Masmoudi <hamza.masmoudi.ai@gmail.com>,MIT,195817,Security Evaluation and Neural Tracing for Intelligent Language-models
+2026-09-29T21:01:05Z,pytest-warden,0.1.0,Alex <alexneo2003@gmail.com>,MIT,145734,Windows Job Object hard-kill supervision for real pytest subprocesses — a drop-in replacement for pytest-xdist + pytest-timeout on hang-prone CI.
+2026-09-29T21:02:09Z,airdress-home,0.1.0b3,Airdress <support@airdress.co>,Apache-2.0,172469,"Link a home hub such as Home Assistant to an airdress: machine enrollment, request signing and the held channel"
+2026-09-29T21:11:50Z,cento,0.2.0,Zetier <opensource@zetier.com>,Apache-2.0,234929,"Declarative, fail-closed exploit payload construction."
+2026-09-29T21:12:12Z,pibooth-extra-lights-vim4,1.1.0,"Vincent Verdeil, Antoine Rousseaux, Christophe (ceeeeb)",GPLv3,33012,Pibooth plugin for extra lights management.
+2026-09-29T21:12:17Z,pibooth-template-chooser,1.0.0,Ceeeeb,MIT license,15826,Pibooth plugin letting guests choose the picture template on the wait screen
+2026-09-29T21:12:30Z,runtape,0.3.0,Rehan Mohammed,MIT,418826,Record AI agent runs locally and find which part of the context caused a decision.
+2026-09-29T21:12:31Z,capo-account-access,0.1.0,,,190879,Python SDK for Account Access.
+2026-09-29T21:12:34Z,airdress,0.0.0,Airdress <support@airdress.co>,Apache-2.0,12300,The Airdress Python packages. You probably want airdress-home.
+2026-09-29T21:13:09Z,capo-agent-registry,0.1.0,,,165353,Python SDK for Agent Registry.
+2026-09-29T21:13:53Z,capo-agent-registry-control,0.1.0,,,343452,Python SDK for Agent Registry Control.
+2026-09-29T21:14:33Z,capo-backupsearch,0.1.0,,,200743,Python SDK for Backupsearch.
+2026-09-29T21:15:11Z,capo-cognito-identity,0.1.0,,,273166,Python SDK for Cognito Identity.
+2026-09-29T21:15:47Z,capo-datazone,0.1.0,,,1818578,Python SDK for Datazone.
+2026-09-29T21:16:29Z,capo-iam-toolbox,0.1.0,,,123068,Python SDK for IAM Toolbox.
+2026-09-29T21:17:06Z,capo-lambda-core,0.1.0,,,169385,Python SDK for Lambda Core.
+2026-09-29T21:17:44Z,ppdrive,0.1.0,YOUR NAME,,13301,Python SDK for PPDRIVE — self-hosted object storage
+2026-09-29T21:18:09Z,ethicore-guardian-mcp,0.1.0,Oracles Technologies LLC <support@oraclestechnologies.com>,Proprietary,20499,"Ethicore Engine® Guardian MCP server — on-demand AI-threat screening for coding agents (paid: Pro API tier and up, or Bronze+ self-hosted)."
+2026-09-29T21:19:15Z,graphcore-studio,0.2.0,,MIT,1235422,A local-first visual agent workflow studio powered by a native C++ graph runtime
