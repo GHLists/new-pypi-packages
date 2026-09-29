@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T07:16:42Z,fibonacci-tdd-kata,0.1.3,marianacfreitas,,4555,Add your description here
+2026-09-29T07:21:27Z,graincheck,0.1.0,Prem Burugupally,"Business Source License 1.1 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Rese…",398608,Find analytical SQL that runs clean and returns the wrong number.
+2026-09-29T07:24:57Z,lythosrock,0.1.0,Hasan Deniz Altuntaş <lythosfea@gmail.com>,AGPL-3.0-only,222415,"Rock mass strength and deformability after the generalised Hoek–Brown criterion: mb, s and a; the equivalent Mohr–Coulomb c' and φ' of a tunnel, a slope or a general case; tensile, uniaxial and globa…"
+2026-09-29T07:25:36Z,jlawcite,2.0.0,yabooung,Apache-2.0,199825,JLaw-CiteGraph: deterministic citation graph and embedding-free search for Japanese statutes (e-Gov 法令)
+2026-09-29T07:26:53Z,masterdb,0.0.1,MasterDB,Apache-2.0,2990,MasterDB client for Python — name reserved; the client is published from clients/python.
+2026-09-29T07:30:16Z,insider-signals,1.0.0,TradeStar Insider,MIT,17675,Dependency-free Python client for the TradeStar Insider API — filing-verified SEC Form 4 insider-buy signals.
+2026-09-29T07:30:23Z,ethswarm-volumes,0.1.0,,,277688,Data API and CLI for Swarm VolumeRegistry deployments
+2026-09-29T07:35:51Z,masterdb-verifier,0.0.1,MasterDB,Apache-2.0,3209,MasterDB verifier for Python — name reserved; the verifier is published from verifier/python.
+2026-09-29T07:36:37Z,plainml,0.1.0,Pranay Obla,MIT,493173,"Machine learning in plain English: from a spreadsheet to a trained, explained, deployable model in one command."
+2026-09-29T07:37:46Z,atlisp-pdf2dwg,0.1.0,vitalgg,MIT,116798,"Convert PDF drawings and documents to DXF (optionally DWG) using local OCR, native PDF vectors and raster image vectorization."
+2026-09-29T07:39:21Z,serp-time,0.1.0,Serpentine contributors,MIT,4179,Serpentine time library: time()/monotonic()/sleep() (runtime-backed; delegates to CPython's time when interpreted)
+2026-09-29T07:44:59Z,greptimedb-ingester,0.1.0,,Apache-2.0,13364550,Python bindings for the GreptimeDB Rust ingester
+2026-09-29T07:47:00Z,multiagentos,0.4.0,,,267017,"Local-first, GitHub-native multi-agent orchestration foundation for VYRELON"
+2026-09-29T07:47:57Z,serp-asyncio,0.1.0,Serpentine contributors,MIT,12744,Serpentine drop-in `asyncio`: Event/Lock/Semaphore/BoundedSemaphore/Queue over the baton task runtime (run/sleep/create_task/gather/Task are language-level; real asyncio under CPython)
+2026-09-29T07:49:20Z,agentiqdex,0.1.1,,,30552,"Create local HTML maps of JavaScript, TypeScript, HTML, and Java codebases"
+2026-09-29T07:49:43Z,awesome-vunit-vcs,0.1.0a1,Sebastian Hellgren <sebastian.hellgren@codecache.se>,MPL-2.0,1265520,"Third-party VUnit verification components: VHDL pin timing, Python verification semantics."
+2026-09-29T07:49:57Z,Collectra,0.1.0,Robert Turnbull,Apache-2.0,1542626,Builds pipelines to extract data from collection images.
+2026-09-29T07:49:57Z,skillhub-selfhost,1.0.0,,Apache-2.0,375786,A self-hosted AI skill marketplace
+2026-09-29T07:50:00Z,kliz,0.2.0,Freddy Choudja,MIT,46224,Bot d'indexation SEO agnostique pour notifier les moteurs de recherche.
+2026-09-29T07:55:33Z,opentapovac,0.1.0,Tobias Brox <tobias@redpill-linpro.com>,AGPL-3.0-or-later AND GPL-3.0-or-later,274139,"Local control of a TP-Link Tapo robot vacuum: CLI, daemon and web page"
+2026-09-29T07:58:27Z,tailoop,0.0.1,,,2381,Tailoop is distributed privately. This release only holds the name.
+2026-09-29T07:59:38Z,akeylimiter,0.1.0,RektPunk,,6343,Key based async rate limiting
+2026-09-29T08:00:22Z,apibaseball,0.2.0,ApiSports,MIT,47158,Python SDK for the API Baseball
+2026-09-29T08:07:56Z,bizgo-sdk-comm,1.2.0,Infobank,Apache-2.0,517628,"Python SDK for the Bizgo Communication API (SMS/LMS/MMS, RCS, Kakao AlimTalk/BrandMessage, Naver TalkTalk)"
+2026-09-29T08:11:59Z,alben,0.1.1,AlbenW,Apache-2.0,264684,复刻 TypeSafe System One (Jev) 的开源实现：运行时任意 criteria + 校准概率
+2026-09-29T08:12:16Z,localbib-plugin-api,2.0.0,,MIT,79689,"The Add-on Contract of LocalBib: protocols, manifest schema and test fakes for Add-on authors."
+2026-09-29T08:15:16Z,xuvdb,0.1.0,,Apache-2.0,81023,"Editable sparse voxel volumes with OpenVDB interop, built on quadrants kernels"
+2026-09-29T08:20:09Z,serp-coil,0.1.0,Serpentine contributors,MIT,50119,"Coil: a numpy drop-in for Serpentine — dense float64/int64/bool arrays with numpy-exact printing, broadcasting, reductions, ufuncs and small dense linear algebra"
+2026-09-29T08:20:46Z,qdrant-to-parquet,0.1.0,Qdrant Team,Apache-2.0,41775,CLI tool to export a Qdrant collection to a Parquet file
+2026-09-29T08:21:23Z,serp-datetime,0.3.0,Serpentine contributors,MIT,13981,"Serpentine UTC date/time: civil-calendar Dt dataclass, unix conversions, ISO-8601 parse/format (pure Serpentine over serp-time)"
+2026-09-29T08:21:24Z,capo-route-53-domains,0.1.0,,,377187,Python SDK for Route 53 Domains.
+2026-09-29T08:21:45Z,ansatz-search,0.1.0,Peter Röseler,Apache-2.0,327200,"Metric-driven search for parameterized quantum circuits: expressibility, trainability, entanglement and complexity on NumPy, PennyLane, Qiskit and IBM devices."
+2026-09-29T08:21:54Z,dicom-ai-router,0.3.0,Seth Turnbo,MIT,103398,"Route DICOM studies to AI models and back to PACS: rules, de-identification, SR + key image, audit."
+2026-09-29T08:22:04Z,capo-route53-recovery-cluster,0.1.0,,,134010,Python SDK for Route53 Recovery Cluster.
+2026-09-29T08:22:34Z,serp-fang,0.3.0,Serpentine contributors,MIT,24688,"Fang — Serpentine's httpx-style sync HTTP(S) client: Client/Response/stream, redirects, cookies, auth, forms, JSON, multipart, gzip, streamed downloads (pure Serpentine over serp-socket TLS, dual-run…"
+2026-09-29T08:23:13Z,hl7v2-fhir-bridge,0.1.0,Seth Turnbo,MIT,158364,"HL7 v2 (ADT, ORM/OMI, ORU) over MLLP to FHIR R4 transaction bundles for radiology workflow: table-driven, idempotent, provenance-traced."
+2026-09-29T08:23:28Z,capo-route53-recovery-control-config,0.1.0,,,255877,Python SDK for Route53 Recovery Control Config.
+2026-09-29T08:23:40Z,serp-http-server,0.1.0,Serpentine contributors,MIT,9696,"Serpentine minimal HTTP/1.1 server: blocking accept/respond loop with request parsing (pure Serpentine over serp-socket, dual-runs under CPython)"
+2026-09-29T08:24:06Z,capo-route53-recovery-readiness,0.1.0,,,279131,Python SDK for Route53 Recovery Readiness.
+2026-09-29T08:24:29Z,stackconfdump,0.1.0,Younes Z.,MIT,28455,"Export the shape of one Dokploy project from a database dump as a portable JSON or YAML file, without runtime data and without secrets."
+2026-09-29T08:24:47Z,capo-route53globalresolver,0.1.0,,,452850,Python SDK for Route53Globalresolver.
+2026-09-29T08:25:06Z,odoo-addon-sy-partner-guild,18.0.1.0.0,Sygel,AGPL-3,37494,Manage guilds on partners
+2026-09-29T08:25:25Z,capo-route53profiles,0.1.0,,,195119,Python SDK for Route53Profiles.
