@@ -1,31 +1,25 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-09-29T21:20:41.81907Z",
-    "path": "data/new-packages-2026-09-29T22-18-34-453769Z.csv",
-    "to": "2026-09-29T22:18:34.453769Z"
+    "count": 31,
+    "from": "2026-09-29T22:18:34.453769Z",
+    "path": "data/new-packages-2026-09-29T23-19-13-935092Z.csv",
+    "to": "2026-09-29T23:19:13.935092Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-29T21:16:19Z",
       "package": "mteb-core",
       "since": "2026-09-29T20:21:39.499254Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-29T21:38:44Z",
       "package": "pal_found_cli",
       "since": "2026-09-29T21:20:41.81907Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-29T19:13:14Z",
-      "package": "vivy-vdb",
-      "since": "2026-09-29T18:19:28.953491Z"
     }
   ],
-  "serial": 41615412,
+  "serial": 41617124,
   "source_truncated": false,
-  "window": "2026-09-29T22:18:34.453769Z"
+  "window": "2026-09-29T23:19:13.935092Z"
 }

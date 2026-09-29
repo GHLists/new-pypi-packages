@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T22:19:27Z,progeny-selector,0.1.0,Pierce Taylor,MIT,637083,"Marker-assisted backcross progeny ranking and selection: foreground, background, linkage drag, avoid loci, composite scores."
+2026-09-29T22:22:09Z,phistory,0.2.2,amorriso,MIT,24357,Per-script argparse command history and YAML configuration
+2026-09-29T22:22:39Z,mimo-asr-vllm,0.1.1,Yuhao Du <yuhaodu1@link.cuhk.edu.cn>,Apache-2.0,78783,Fast MiMo-V2.5-ASR inference and OpenAI-compatible serving with vLLM
+2026-09-29T22:24:29Z,diagval-premium,0.0.1,,Apache-2.0,2502,Premium cross-layer/requirements packs for diagval — name reserved.
+2026-09-29T22:24:33Z,diagtwin-premium,0.0.1,,Apache-2.0,2522,Premium scenarios/multi-ECU/record-replay for diagtwin — name reserved.
+2026-09-29T22:25:18Z,rag-quality-check,0.1.0,Pranay Mahendrakar,MIT,66183,Measure whether a retrieval system is actually retrieving the right things
+2026-09-29T22:26:08Z,llm-router-lite,0.1.0,Pranay Mahendrakar,MIT,80782,"Send each prompt to the cheapest model that can handle it, and fall back when one fails"
+2026-09-29T22:30:42Z,streamdedup,0.1.0,"""Taiwo Hassan (Tycoach)"" <davidtaiwo56@gmail.com>",MIT,22514,Reusable streaming deduplication and late-arrival watermarking for data pipelines
+2026-09-29T22:30:43Z,normschores,0.2.0,"Thomas H. Jørgensen, Adam Hallengreen",,4758926,"Structural household model of gender norms and the division of market work, chores and leisure."
+2026-09-29T22:32:57Z,goodmem-crewai,0.4.0,PAIR Systems Inc,Apache-2.0,88027,GoodMem knowledge storage and RAG tools for CrewAI agents
+2026-09-29T22:34:19Z,aifs-hints,0.2.0,,,26968,Graduated hints (nudge / hint / scaffold) for exercise notebooks
+2026-09-29T22:36:18Z,mateprobe,0.1.0a4,Mate4B and MateProbe contributors,MIT,708027,"Mutation testing for your validators, by Mate4B"
+2026-09-29T22:37:36Z,pytest-mateprobe,0.1.0a4,,MIT,8253,Pytest fixtures and reports for mateprobe
+2026-09-29T22:37:55Z,shisa-de,0.1.1,Shisa AI,Apache-2.0,83679,"Talk to Shisa DE-1 decision models: typed questions in, typed answers out"
+2026-09-29T22:45:47Z,aidd-cli,0.1.0,,MIT,53590,AIDD — a methodology for working with AI coding agents (CLI distribution)
+2026-09-29T22:46:03Z,hcoona-release-smoke-python,0.1.0b43,,,4095,
+2026-09-29T22:46:13Z,gcve-sbom-analyzer,0.1.0,Samy DIFALLAH <samy.dflh@gmail.com>,GPL-3.0-or-later,134345,CLI tool that cross-references SBOM components against the GCVE vulnerability database.
+2026-09-29T22:48:58Z,remoterf-federation-core,0.16.0,,GPL-3.0-or-later,55038,Hardware-free RemoteRF deployment protocol schemas
+2026-09-29T22:50:08Z,py1815,0.1.0,,Apache-2.0,461234,A DNP3 (IEEE 1815) outstation in pure Python
+2026-09-29T22:50:13Z,forge-agent-lens-for-google-antigravity,0.1.1,CoreWeave,Apache-2.0,124877,CoreWeave Forge Agent Lens tracing for Google Antigravity
+2026-09-29T22:52:17Z,delta-sharing-sso,0.2.0,Nikhil Sontakke <nikhilsontakke111@gmail.com>,MIT,53447,"A lightweight Python client for Delta Sharing tables, authenticated via Keycloak / OIDC single sign-on"
+2026-09-29T22:53:25Z,abstract-serve-core,0.1.1,,Proprietary,584391,"Provider-neutral shared Serve console for Claude, GPT, Hugpy, and local model backends."
+2026-09-29T22:54:10Z,pytest-embedded-arduino-cli-ch32rv,0.0.1,TANAKA Masayuki,MIT,33035,"pytest-embedded-arduino-cli plugin for CH32 boards flashed by ch32rv: the ch32rv path, the OEP probe host, and the DUT's UART on the probe"
+2026-09-29T22:54:22Z,blackhole-sec,0.1.0,Satin Networks,MIT,48512,"Offline phishing checks, encrypted vault, metadata shredder and secure .bhb archives."
+2026-09-29T23:00:00Z,postfinder,0.1.0,PostFinder,"MIT License Copyright (c) 2026 PostFinder Permission is hereby granted, free of charge, to any pers…",38162,"Find post offices, parcel lockers and post boxes near a point, and look up postcodes. Free and keyless."
+2026-09-29T23:03:11Z,ffswak,0.1.0,,GPL-3.0-only,114160,A Python wrapper for common ffmpeg video editing tasks
+2026-09-29T23:06:36Z,fathom-lake,0.1.0,Myra Krusemark,MIT,542111,"A self-provenance-generating, closed-loop memory for LLM agents. One SQLite file per someone; you bring the model."
+2026-09-29T23:13:21Z,gea-program,0.1.0,Daniel T. Murphy,MPL-2.0,1065020,"GEA-Program: downhole gauge monitoring - canonical measurement records, quality rules, drift evaluation with a re-fit change log, well-test validation, alarm management, model cards, store-and-forwar…"
+2026-09-29T23:14:57Z,graph-agents-cli,0.3.1,graph-agents-cli contributors,Apache-2.0,3250673,"CLI and skills for building, evaluating, and deploying LangGraph agents on self-hosted Kubernetes."
+2026-09-29T23:18:38Z,foxbit-group-rest-api,0.1.2,Foxbit,MIT,441336,Foxbit REST API
+2026-09-29T23:18:57Z,power-openapi-models,0.1.0,Sienna Platform,BSD-3-Clause,111741,Typed Python models for the Sienna power system data format

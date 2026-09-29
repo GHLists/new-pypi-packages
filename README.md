@@ -8,49 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 22:18 UTC
+## Latest list — 2026-09-29 23:19 UTC
 
-New packages created between 2026-09-29 21:20 UTC and 2026-09-29 22:18 UTC.
+New packages created between 2026-09-29 22:18 UTC and 2026-09-29 23:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-29T22-18-34-453769Z.csv)
+[Full CSV](data/new-packages-2026-09-29T23-19-13-935092Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-29 21:21:30 | [pai-mf](https://pypi.org/project/pai-mf/) | 0.1.1 | Phanindra Parashar | 91.8 kB | Mutual fund and index data, rolling analysis, and fund scoring |
-| 2026-09-29 21:26:42 | [ready-lakehouse-manager](https://pypi.org/project/ready-lakehouse-manager/) | 0.0.1 | Ashish Juneja <ashishjuneja99… | 296.9 kB | Manage the READY Lakehouse, Update ICEBERG dimension tables, KAFKA schemas etc. |
-| 2026-09-29 21:28:29 | [practice-sdoml-joaquin](https://pypi.org/project/practice-sdoml-joaquin/) | 0.1.2 |  | 32.2 kB | Interactive ML demo for diabetes risk classification |
-| 2026-09-29 21:29:20 | [ichkil](https://pypi.org/project/ichkil/) | 1.0.0 | Maaouia BenHamed | 32.8 kB | Arabic Tashkeel (diacritization) — a tiny, self-contained ONNX model with a cle… |
-| 2026-09-29 21:29:27 | [mailhive](https://pypi.org/project/mailhive/) | 0.1.0 | Naszat | 26.9 kB | The official Python SDK for Mailhive Send: transactional email from Africa. |
-| 2026-09-29 21:29:29 | [langchain-upload-post](https://pypi.org/project/langchain-upload-post/) | 0.1.0 | Upload-Post <info@upload-post… | 31.6 kB | LangChain tools to publish, schedule and analyze social media posts with Upload… |
-| 2026-09-29 21:32:16 | [nws-weather-tui](https://pypi.org/project/nws-weather-tui/) | 0.2.2 | crinderneck | 196.6 kB | A terminal-based weather application for the US, powered by the National Weathe… |
-| 2026-09-29 21:37:44 | [llm-guardrails-middleware](https://pypi.org/project/llm-guardrails-middleware/) | 0.1.0 | Obinna ThankGod Okeke <tobinn… | 43.5 kB | Drop-in guardrails wrapper for LLM API calls: PII redaction, prompt-injection d… |
-| 2026-09-29 21:39:51 | [aiogeodrops](https://pypi.org/project/aiogeodrops/) | 0.1.1 | Adam Baldwin | 32.3 kB | Async client for GeoDrops soil-probe readings in Google BigQuery |
-| 2026-09-29 21:39:57 | [clockify-unofficial-cli](https://pypi.org/project/clockify-unofficial-cli/) | 0.2.0 | "G.A.JAGUAR" <dev@gajaguar.co… | 180.7 kB | Unofficial command-line interface for Clockify, built on clockify-unofficial-sd… |
-| 2026-09-29 21:44:01 | [gantri](https://pypi.org/project/gantri/) | 0.1.0 |  | 2.0 kB | Add your description here |
-| 2026-09-29 21:44:02 | [csvscout](https://pypi.org/project/csvscout/) | 0.0.1 | Garret Negron | 134.9 kB | Fast CSV profiling for data engineering, written in Rust |
-| 2026-09-29 21:45:02 | [diy-harness](https://pypi.org/project/diy-harness/) | 0.1.0 | zxu756 | 625.4 kB | diy-harness (dh)：自研 agent harness —— 运行时自己实现，instructions 沿用 Deep Agents |
-| 2026-09-29 21:45:34 | [rheopy-rheodata](https://pypi.org/project/rheopy-rheodata/) | 0.1.0 | Marco Caggioni <marco.caggion… | 140.7 kB | Curated, quality-checked rheology datasets for training, simulation, and benchm… |
-| 2026-09-29 21:47:26 | [ameli-ai](https://pypi.org/project/ameli-ai/) | 0.0.1 | Kirill Smolnikov | 3.6 kB | Ameli: языковая модель для агентных задач на русском. Клиент появится вместе с… |
-| 2026-09-29 21:48:02 | [cpd-pytorch](https://pypi.org/project/cpd-pytorch/) | 1.0.0 | "Yuliang (Chris) Xiao" <yl.xi… | 235.9 kB | Coherent Point Drift (CPD) point set registration in PyTorch: rigid, affine and… |
-| 2026-09-29 21:48:24 | [asr-attacks](https://pypi.org/project/asr-attacks/) | 0.3.0 | Hammad Ali Khan <114487807+ha… | 116.1 kB | White-box adversarial attacks for CTC automatic speech recognition models. |
-| 2026-09-29 21:49:08 | [nemo-helix-plugin](https://pypi.org/project/nemo-helix-plugin/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for nemo_helix_plugin |
-| 2026-09-29 21:49:40 | [capyagent](https://pypi.org/project/capyagent/) | 0.0.1 | Kirill Smolnikov | 3.1 kB | CapyAgent: личный ИИ-агент на вашем компьютере. Пакет в разработке, установка н… |
-| 2026-09-29 21:49:50 | [dhis2-fetch](https://pypi.org/project/dhis2-fetch/) | 0.1.0 | Valérian Turbé <valerian.turb… | 107.1 kB | Read-only Python client for the DHIS2 Web API, returning pandas DataFrames |
-| 2026-09-29 21:54:54 | [typevet](https://pypi.org/project/typevet/) | 0.1.0.dev1 | Alberto-Codes | 464.1 kB | Type-safe structured generation under hexagonal architecture (llama.cpp first) |
-| 2026-09-29 21:55:19 | [symbion](https://pypi.org/project/symbion/) | 0.1.0 | phreakocious | 387.2 kB | A notebook and ticket registry for agents: dated rows attached to a commit, a f… |
-| 2026-09-29 21:57:19 | [vivvy-vdb](https://pypi.org/project/vivvy-vdb/) | 0.1.0 |  | 1.8 MB | Vector search that lives on one machine |
-| 2026-09-29 21:58:37 | [llmrivotril](https://pypi.org/project/llmrivotril/) | 0.1.0 | Thiago Egon Lange <contato@da… | 490.2 kB | A lightweight framework to reduce LLM hallucinations, enforce guardrails, manag… |
-| 2026-09-29 21:58:48 | [oscal-bindings](https://pypi.org/project/oscal-bindings/) | 0.1.0 | Fritz Kunstler | 322.8 kB | Typed Python data bindings for OSCAL, generated from the NIST JSON Schema |
-| 2026-09-29 22:03:38 | [abe-ai](https://pypi.org/project/abe-ai/) | 0.1.0 | Flow Information Systems <flo… | 123.4 kB | Abe: one control point before an AI agent acts. Deterministic ACT / BLOCK / ESC… |
-| 2026-09-29 22:04:06 | [abe-flow](https://pypi.org/project/abe-flow/) | 0.1.0 | Flow Information Systems <flo… | 24.2 kB | Send Abe escalations to Flow's judgment service (resolve.flowinfo.co). Only ESC… |
-| 2026-09-29 22:05:24 | [goodmem-deepeval](https://pypi.org/project/goodmem-deepeval/) | 0.3.0 | PAIR Systems | 63.5 kB | GoodMem retrieval for DeepEval — a traced retriever, LLMTestCase construction,… |
-| 2026-09-29 22:05:24 | [goodmem-llamaindex](https://pypi.org/project/goodmem-llamaindex/) | 0.2.3 | bashareid | 35.0 kB | Native LlamaIndex retrieval, Document ingestion and agent tools for GoodMem. |
-| 2026-09-29 22:05:24 | [goodmem-nlweb](https://pypi.org/project/goodmem-nlweb/) | 0.3.0 | GoodMem <support@goodmem.ai> | 69.2 kB | GoodMem as an NLWeb retrieval provider — Schema.org retrieval, site filtering,… |
-| 2026-09-29 22:09:48 | [callva-harness-runner](https://pypi.org/project/callva-harness-runner/) | 0.3.0 | CallVA | 72.8 kB | One headless turn of a coding agent (Claude Code or Codex) through the vendor S… |
-| 2026-09-29 22:10:07 | [tiktok-mcp-server](https://pypi.org/project/tiktok-mcp-server/) | 1.0.0 |  | 102.9 kB | MCP server for TikTok data extraction, discovery, search, and transcription |
-| 2026-09-29 22:10:48 | [goodmem-autogen](https://pypi.org/project/goodmem-autogen/) | 0.3.0 | PAIR Systems | 48.7 kB | GoodMem memory and tools for the AutoGen agent framework. |
-| 2026-09-29 22:10:50 | [goodmem-honeyhive](https://pypi.org/project/goodmem-honeyhive/) | 0.4.0 | GoodMem <support@goodmem.ai> | 62.8 kB | GoodMem integration for HoneyHive. |
-| 2026-09-29 22:10:55 | [goodmem-camel](https://pypi.org/project/goodmem-camel/) | 0.4.0 | PAIR Systems | 77.1 kB | GoodMem integration for CAMEL. |
-| 2026-09-29 22:10:56 | [tfidf-stability](https://pypi.org/project/tfidf-stability/) | 0.2.0 | Matthew Maksymilian Miezaniec… | 7.7 MB | Numerical stability and perturbation behaviour in TF-IDF-based similarity syste… |
-| 2026-09-29 22:11:54 | [libfcrypt](https://pypi.org/project/libfcrypt/) | 1.1.0 | Franco Magnano <fluffins009@g… | 6.4 kB | Simple, symmetric encryption. Courtesy of Fernet. |
-| 2026-09-29 22:17:27 | [goodmem-agent-framework](https://pypi.org/project/goodmem-agent-framework/) | 0.3.0 | GoodMem <support@goodmem.ai> | 40.7 kB | GoodMem integration for Microsoft Agent Framework. |
+| 2026-09-29 22:19:27 | [progeny-selector](https://pypi.org/project/progeny-selector/) | 0.1.0 | Pierce Taylor | 637.1 kB | Marker-assisted backcross progeny ranking and selection: foreground, background… |
+| 2026-09-29 22:22:09 | [phistory](https://pypi.org/project/phistory/) | 0.2.2 | amorriso | 24.4 kB | Per-script argparse command history and YAML configuration |
+| 2026-09-29 22:22:39 | [mimo-asr-vllm](https://pypi.org/project/mimo-asr-vllm/) | 0.1.1 | Yuhao Du <yuhaodu1@link.cuhk.… | 78.8 kB | Fast MiMo-V2.5-ASR inference and OpenAI-compatible serving with vLLM |
+| 2026-09-29 22:24:29 | [diagval-premium](https://pypi.org/project/diagval-premium/) | 0.0.1 |  | 2.5 kB | Premium cross-layer/requirements packs for diagval — name reserved. |
+| 2026-09-29 22:24:33 | [diagtwin-premium](https://pypi.org/project/diagtwin-premium/) | 0.0.1 |  | 2.5 kB | Premium scenarios/multi-ECU/record-replay for diagtwin — name reserved. |
+| 2026-09-29 22:25:18 | [rag-quality-check](https://pypi.org/project/rag-quality-check/) | 0.1.0 | Pranay Mahendrakar | 66.2 kB | Measure whether a retrieval system is actually retrieving the right things |
+| 2026-09-29 22:26:08 | [llm-router-lite](https://pypi.org/project/llm-router-lite/) | 0.1.0 | Pranay Mahendrakar | 80.8 kB | Send each prompt to the cheapest model that can handle it, and fall back when o… |
+| 2026-09-29 22:30:42 | [streamdedup](https://pypi.org/project/streamdedup/) | 0.1.0 | "Taiwo Hassan (Tycoach)" <dav… | 22.5 kB | Reusable streaming deduplication and late-arrival watermarking for data pipelin… |
+| 2026-09-29 22:30:43 | [normschores](https://pypi.org/project/normschores/) | 0.2.0 | Thomas H. Jørgensen, Adam Hal… | 4.8 MB | Structural household model of gender norms and the division of market work, cho… |
+| 2026-09-29 22:32:57 | [goodmem-crewai](https://pypi.org/project/goodmem-crewai/) | 0.4.0 | PAIR Systems Inc | 88.0 kB | GoodMem knowledge storage and RAG tools for CrewAI agents |
+| 2026-09-29 22:34:19 | [aifs-hints](https://pypi.org/project/aifs-hints/) | 0.2.0 |  | 27.0 kB | Graduated hints (nudge / hint / scaffold) for exercise notebooks |
+| 2026-09-29 22:36:18 | [mateprobe](https://pypi.org/project/mateprobe/) | 0.1.0a4 | Mate4B and MateProbe contribu… | 708.0 kB | Mutation testing for your validators, by Mate4B |
+| 2026-09-29 22:37:36 | [pytest-mateprobe](https://pypi.org/project/pytest-mateprobe/) | 0.1.0a4 |  | 8.3 kB | Pytest fixtures and reports for mateprobe |
+| 2026-09-29 22:37:55 | [shisa-de](https://pypi.org/project/shisa-de/) | 0.1.1 | Shisa AI | 83.7 kB | Talk to Shisa DE-1 decision models: typed questions in, typed answers out |
+| 2026-09-29 22:45:47 | [aidd-cli](https://pypi.org/project/aidd-cli/) | 0.1.0 |  | 53.6 kB | AIDD — a methodology for working with AI coding agents (CLI distribution) |
+| 2026-09-29 22:46:03 | [hcoona-release-smoke-python](https://pypi.org/project/hcoona-release-smoke-python/) | 0.1.0b43 |  | 4.1 kB |  |
+| 2026-09-29 22:46:13 | [gcve-sbom-analyzer](https://pypi.org/project/gcve-sbom-analyzer/) | 0.1.0 | Samy DIFALLAH <samy.dflh@gmai… | 134.3 kB | CLI tool that cross-references SBOM components against the GCVE vulnerability d… |
+| 2026-09-29 22:48:58 | [remoterf-federation-core](https://pypi.org/project/remoterf-federation-core/) | 0.16.0 |  | 55.0 kB | Hardware-free RemoteRF deployment protocol schemas |
+| 2026-09-29 22:50:08 | [py1815](https://pypi.org/project/py1815/) | 0.1.0 |  | 461.2 kB | A DNP3 (IEEE 1815) outstation in pure Python |
+| 2026-09-29 22:50:13 | [forge-agent-lens-for-google-antigravity](https://pypi.org/project/forge-agent-lens-for-google-antigravity/) | 0.1.1 | CoreWeave | 124.9 kB | CoreWeave Forge Agent Lens tracing for Google Antigravity |
+| 2026-09-29 22:52:17 | [delta-sharing-sso](https://pypi.org/project/delta-sharing-sso/) | 0.2.0 | Nikhil Sontakke <nikhilsontak… | 53.4 kB | A lightweight Python client for Delta Sharing tables, authenticated via Keycloa… |
+| 2026-09-29 22:53:25 | [abstract-serve-core](https://pypi.org/project/abstract-serve-core/) | 0.1.1 |  | 584.4 kB | Provider-neutral shared Serve console for Claude, GPT, Hugpy, and local model b… |
+| 2026-09-29 22:54:10 | [pytest-embedded-arduino-cli-ch32rv](https://pypi.org/project/pytest-embedded-arduino-cli-ch32rv/) | 0.0.1 | TANAKA Masayuki | 33.0 kB | pytest-embedded-arduino-cli plugin for CH32 boards flashed by ch32rv: the ch32r… |
+| 2026-09-29 22:54:22 | [blackhole-sec](https://pypi.org/project/blackhole-sec/) | 0.1.0 | Satin Networks | 48.5 kB | Offline phishing checks, encrypted vault, metadata shredder and secure .bhb arc… |
+| 2026-09-29 23:00:00 | [postfinder](https://pypi.org/project/postfinder/) | 0.1.0 | PostFinder | 38.2 kB | Find post offices, parcel lockers and post boxes near a point, and look up post… |
+| 2026-09-29 23:03:11 | [ffswak](https://pypi.org/project/ffswak/) | 0.1.0 |  | 114.2 kB | A Python wrapper for common ffmpeg video editing tasks |
+| 2026-09-29 23:06:36 | [fathom-lake](https://pypi.org/project/fathom-lake/) | 0.1.0 | Myra Krusemark | 542.1 kB | A self-provenance-generating, closed-loop memory for LLM agents. One SQLite fil… |
+| 2026-09-29 23:13:21 | [gea-program](https://pypi.org/project/gea-program/) | 0.1.0 | Daniel T. Murphy | 1.1 MB | GEA-Program: downhole gauge monitoring - canonical measurement records, quality… |
+| 2026-09-29 23:14:57 | [graph-agents-cli](https://pypi.org/project/graph-agents-cli/) | 0.3.1 | graph-agents-cli contributors | 3.3 MB | CLI and skills for building, evaluating, and deploying LangGraph agents on self… |
+| 2026-09-29 23:18:38 | [foxbit-group-rest-api](https://pypi.org/project/foxbit-group-rest-api/) | 0.1.2 | Foxbit | 441.3 kB | Foxbit REST API |
+| 2026-09-29 23:18:57 | [power-openapi-models](https://pypi.org/project/power-openapi-models/) | 0.1.0 | Sienna Platform | 111.7 kB | Typed Python models for the Sienna power system data format |
