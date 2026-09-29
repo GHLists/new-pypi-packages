@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T16:19:44Z,eping,3.58,Ewald Jeitler <ewald@jeitler.cc>,GPL-3.0-or-later,341741,"Continuous ICMP reachability monitor built on fping, with a CSV logfile analyser (epinga)"
+2026-09-29T16:19:58Z,certbot-dns-enum,0.1.0,enum,Apache-2.0,22907,enum DNS Authenticator plugin for Certbot
+2026-09-29T16:22:14Z,Lackey3,1.0.1,"TecHaonical, Jon Winsley",MIT,676634,A Sikuli script implementation in Python with modern Lackey Studio IDE
+2026-09-29T16:24:55Z,phylo3d-trait,0.3.2,Kai He,"MIT License Copyright (c) 2026 Kai He Permission is hereby granted, free of charge, to any person o…",114855,Interactive 3D phylogenetic visualization of continuous trait evolution and supplied ancestral-state estimates
+2026-09-29T16:25:21Z,audial-mcp,0.1.0,Audial <contact@audialmusic.ai>,MIT,121706,"MCP server for Audial: stem splitting, mastering, MIDI, music generation, resynthesis and vocal synthesis from any MCP client."
+2026-09-29T16:28:45Z,godark,0.2.0,,MIT,226465,Python SDK for the GoDark DEX -- encrypted trading over WebSocket
+2026-09-29T16:29:17Z,lungo-py,1.78.3254,Bahram Joharshamshiri <jowharshamshiri@gmail.com>,Apache-2.0,2972178,The Python support library of lungo's generated packages: the lungo runtime and the wire format
+2026-09-29T16:31:15Z,csoai-openshell-harness,0.1.0,CSOAI Ltd <nicholas@csoai.org>,Apache-2.0,89288,"Independent open example: compare an OpenShell sandbox policy with what an observer records, and translate the policy to Cedar. UNMEASURED when inconclusive."
+2026-09-29T16:34:03Z,ids-rule-converter,4.0.2,Fusion Technology Strategies,Apache-2.0,355752,Loss-aware Snort and Suricata rule conversion toolkit
+2026-09-29T16:34:09Z,ultra-fast-proxy-fetcher-tester,2.0.1,Fusion Technology Strategies,MIT,160869,"Bounded public proxy fetching, validation, and reporting"
+2026-09-29T16:36:05Z,pystemfinder,0.5.0,Kathleen Noller,MIT,1454286,Estimate how differentiated single cells are from heterogeneity in cell cycle gene expression (Python port of stemFinder)
+2026-09-29T16:36:06Z,ChatHF,0.0.2,ChatArch <1073853456@qq.com>,MIT,8922,ChatHF: ChatArch Python package scaffold.
+2026-09-29T16:39:01Z,agentkai,0.1.0,,Apache-2.0,10846477,"Open-source personal AI agent — model-agnostic, with tools, memory, scheduler and a local dashboard"
+2026-09-29T16:42:37Z,cyberjev,0.1.0,Subham,Apache-2.0,68787,"Tiny calibrated decision model for security checks: web attacks, prompt injection, phishing URLs"
+2026-09-29T16:43:29Z,pdefa,1.0.3,Hasan Arda Acar <info@pdfduty.com>,AGPL-3.0-or-later,761856,CPU inference engine with built-in image loader + YOLO post-process
+2026-09-29T16:43:58Z,numen-sandbox-py,0.16.1,,Apache-2.0,164737,Python client for the Numen sandbox API
+2026-09-29T16:45:26Z,slopper,0.1.0,,,179714,Run Claude Code and Codex agent sessions for Folio on your own machine.
+2026-09-29T16:45:55Z,nyxa-auth,0.1.0,Al-Amin Islam Nerob,MIT,39112,"Auth and policies for Nyxa — JWT, password hashing, Gate helpers"
+2026-09-29T16:45:57Z,nyxa,0.1.0,Al-Amin Islam Nerob,MIT,95830,Batteries-included DX for Python API backends on FastAPI — convention-based CLI and runtime bases
+2026-09-29T16:46:10Z,nyxa-db,0.1.0,Al-Amin Islam Nerob,MIT,53812,"Database layer for Nyxa — SQLAlchemy models, sessions, and db CLI"
+2026-09-29T16:48:30Z,headroom-kit,0.1.0,Ruairí O'Brien,MIT,263312,Launch existing coding agents through a local Headroom proxy
+2026-09-29T16:49:22Z,nyxa-mail,0.1.0,Al-Amin Islam Nerob,MIT,13165,"Batteries-included mail for Nyxa — log/smtp default, optional SES/Mailgun"
+2026-09-29T16:49:22Z,nyxa-queue,0.1.0,Al-Amin Islam Nerob,MIT,17615,Jobs and queue helpers for Nyxa — sync or Redis/ARQ via QUEUE_CONNECTION
+2026-09-29T16:49:23Z,nyxa-cache,0.1.0,Al-Amin Islam Nerob,MIT,9740,"Cache helpers for Nyxa — memory default, optional Redis"
+2026-09-29T16:50:09Z,livery-toolroom-store,0.0.0,Willem Kokke,MIT,127596,"The pinned tool store over strongroom: specs, a machine-wide home, verified installs."
+2026-09-29T16:50:46Z,daytona-use-computer,0.0.48,use.computer,,559465,Python SDK for use.computer macOS sandboxes
+2026-09-29T16:51:52Z,nyxa-postgres,0.1.0,Al-Amin Islam Nerob,MIT,6080,"PostgreSQL extras for Nyxa — URL helpers, pool defaults, compose snippet"
+2026-09-29T16:51:53Z,nyxa-storage,0.1.0,Al-Amin Islam Nerob,MIT,10352,"Batteries-included filesystem disks for Nyxa — local default, optional S3"
+2026-09-29T16:52:02Z,hyera,0.0.0a0,jose-pr,MIT AND Apache-2.0,446347,A Python implementation of Puppet Hiera hierarchical data lookup
+2026-09-29T16:55:53Z,immunread,0.2.0a1,Vadim Nazarov <support@immunomind.com>,Apache-2.0,20593,AIRR and 10x readers for ImmunData.
+2026-09-29T16:56:27Z,callback-voice,0.1.0,Shivam,Apache-2.0,4364962,"Chaos testing for voice agents. Real calls, real audio, one exit code."
+2026-09-29T17:00:37Z,zju-autologin,1.18.1,Xinzhe Xie,MIT,198583,ZJU campus network (Srun portal) auto-login & keep-alive: CLI + systemd service + PyQt6 GUI
+2026-09-29T17:01:03Z,rollcall,0.0.1,Sharukh Hasan,Apache-2.0,10575,Placeholder for the rollcall SBOM CLI wrapper (pip install rollcall). See https://github.com/smhasan94/rollcall
+2026-09-29T17:01:51Z,nonebot-plugin-pixiv-dl,0.1.0,,MIT,45269,基于 Pixiv Web AJAX 的 NoneBot2 OneBot V11 搜索与下载插件
+2026-09-29T17:01:59Z,jolly-cli,0.1.1,TeamAudiyo,MIT OR Apache-2.0,1359076,"Local, CLI-native robot-arm physics simulation for humans and LLM agents"
+2026-09-29T17:02:47Z,se-mapspec,0.1.0,,,31602,Structural Explainability Mapspec
+2026-09-29T17:05:38Z,data-joinery,0.1.0,Connor Charles,,48197,Schema safety for DataFrame transformations
+2026-09-29T17:08:16Z,measyjson,0.1.0,kirobotdev,MIT,9696,A simple library to make working with JSON data easier.
+2026-09-29T17:09:13Z,mitol-django-benchmark,2026.9.29,MIT Open Learning Engineering <odl-devops@mit.edu>,BSD-3-Clause,154894,Production-shaped A/B benchmarking harness for Django and DRF endpoints
+2026-09-29T17:10:43Z,sphinx-mkdocs-migrate,0.0.1.dev0,Prateek Dagar <prateek0508dagar@gmail.com>,Apache-2.0,201409,"Deterministic, evidence-driven analyzer and migration engine from MkDocs to Sphinx + MyST"
+2026-09-29T17:10:44Z,rewinds,0.1.0,MadeByFulvo,MIT,26449,"Run any file from any commit, without touching your working tree."
+2026-09-29T17:15:07Z,capo-shield,0.1.0,,,366744,Python SDK for Shield.
+2026-09-29T17:15:59Z,capo-signer,0.1.0,,,254707,Python SDK for Signer.
+2026-09-29T17:16:43Z,capo-signer-data,0.1.0,,,97830,Python SDK for Signer Data.
+2026-09-29T17:17:30Z,capo-signin,0.1.0,,,163056,Python SDK for Signin.
+2026-09-29T17:18:05Z,api-vault-sdk,0.0.1,Nonsense0909688,,1854,Python SDK for API-Vault
+2026-09-29T17:18:05Z,capo-simpledbv2,0.1.0,,,124417,Python SDK for Simpledbv2.
+2026-09-29T17:18:52Z,capo-simspaceweaver,0.1.0,,,205792,Python SDK for Simspaceweaver.
