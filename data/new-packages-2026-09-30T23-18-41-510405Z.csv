@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T20:59:49Z,training-vid-organizer,1.1.1,Rajeev Parmasar <rajeev@parmasar.com>,,41271,"CLI tool for logging training lifts, managing video files, and querying workout data via SQLite"
+2026-09-30T22:20:34Z,quark-ai,0.1.1,rmoya81,MIT,40134,"Lightning-fast micro-agent. A stripped-down alternative to heavy AI agents, executing tasks with minimal prompt overhead."
+2026-09-30T22:23:01Z,forjio-secronna,0.1.1,Forjio <support@forjio.com>,Proprietary,14918,Secronna SDK — typed Python client for the secronna.com secrets REST API. Sister to the JS + Go SDKs.
+2026-09-30T22:29:37Z,forjio-malapos,0.1.0,Forjio <support@forjio.com>,Proprietary,41030,Malapos SDK — typed Python client for the malapos.com point-of-sale REST API: every route of the API as client.api.<area>_<action>(). Sister to the JS + Go SDKs.
+2026-09-30T22:33:03Z,claude-copilot-sessions,0.1.0,Artur Barseghyan <artur.barseghyan@gmail.com>,MIT,72166,"Import your GitHub Copilot CLI sessions for the current repository into Claude Code, so they open with /resume."
+2026-09-30T22:37:07Z,adbc-driver-grainlift,0.4.0rc3,Query Farm LLC,Apache-2.0,30302389,ADBC client driver for Grainlift services
+2026-09-30T22:37:11Z,tpcgen-cli,0.1.0.dev0,,Apache-2.0,10338,"Placeholder for tpcgen-cli, the TPC-H and TPC-DS data generator from the tpcgen-rs project. Not yet released."
+2026-09-30T22:37:12Z,zerodev-kora,1.0.0,,,8885,Official Python SDK for Kora licensing
+2026-09-30T22:38:29Z,polish-lang,0.7.0,,MIT,257724,An executable architecture specification language
+2026-09-30T22:40:54Z,nenyax,0.1.0a1,Iacon Autonomics,Apache-2.0,229211,"One contract for every RL environment: load any format, drive it with any policy, get a judged trajectory."
+2026-09-30T22:46:31Z,Ligand2SMILES,0.1.0,Pedro Augusto Durao Rodrigues <pedroaugustoduraorodrigues@gmail.com>,MIT,530727,A tool for converting ligand names to SMILES notation
+2026-09-30T22:49:36Z,zentris,1.0.0,Grégoire Passault,MIT,6738374,A Tetris Effect inspired game that plays any playlist (local music or YouTube)
+2026-09-30T22:50:43Z,oculix-operix,1.1.0,Julien Mer <julien.mer38@gmail.com>,MIT,712446,Visual automation for the real world — Python wrapper for OculiX
+2026-09-30T22:54:34Z,rawintent,4.0.0,RawIntent contributors,MIT,126554,English-first Python runtime plus a train-from-scratch English-to-RawLang neural compiler
+2026-09-30T22:56:14Z,jupyterlab-jstex,0.1.0,Aleksander Cesarz <alek.cesarz@gmail.com>,GPL-3.0-or-later,3188116,STEX-light: STAC explorer widget for JupyterLab
+2026-09-30T22:58:56Z,daishi,0.1.0,Arkeous LLC,MIT,31606,"Typed client for the Daishi Studio API: scenarios, runs, series batches and paired experiments, with retries and waiting helpers."
+2026-09-30T23:05:11Z,django-react-forms,0.1.0,Wesley Johnson,MIT,50781,Render Django forms as React Hook Form forms. Django declares the form; React draws it.
+2026-09-30T23:07:27Z,google-data-utils,0.1.0,Zomi Learner,MIT,8356,"Load public Google Sheets, CSV, and Excel files into pandas"
+2026-09-30T23:09:12Z,paradigm-sdk,0.0.1,ofself,,717,"Placeholder. paradigm-sdk is installed from ofself's package index, not PyPI."
+2026-09-30T23:09:13Z,paradigm-cli,0.0.1,ofself,,717,"Placeholder. paradigm-cli is installed from ofself's package index, not PyPI."
+2026-09-30T23:10:36Z,verificar-curp,1.0.0,Verificar CURP,MIT,20593,"SDK oficial de Verificar CURP: valida la estructura de una CURP, cotéjala con los datos de la persona y verifícala en el registro RENAPO."
+2026-09-30T23:12:43Z,kasm-use,0.1.0,rchurro,MIT,23283,"Let AI agents drive Kasm Workspaces desktops (look, click, type) over MCP — works with stock Kasm images"
+2026-09-30T23:13:30Z,homeostat-live,0.1.0,Lei Ma,Apache-2.0,24663,Take part in the Homeostat Live benchmark: download a week's plant data and submit predictions of its lab results.
+2026-09-30T23:14:43Z,musubi-sdk,0.1.0,Eric Mey,Apache-2.0,75535,Small Python client for the Musubi HTTP API
+2026-09-30T23:15:15Z,gradient-wave,0.1.0,Joshua Cao,MIT,53047,A pure-Python feedforward neural network library
+2026-09-30T23:15:30Z,breachspider,0.3.0,CITED Relevance LLC <joshua@citedrelevance.com>,MIT,70129,Official Python SDK for the BreachSpider ICS/OT CVE intelligence API
+2026-09-30T23:16:19Z,scramblekit,0.1.0,Koki Madono,MIT,338062,"Image scrambling for privacy-preserving deep learning: block-wise scrambling (LE/ELE/EtC/PE), adaptation networks, scrambling parameter generation, SIA-GAN and ScrambleMix"
