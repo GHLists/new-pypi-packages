@@ -1,43 +1,43 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-09-30T17:19:34.669431Z",
-    "path": "data/new-packages-2026-09-30T18-22-12-400038Z.csv",
-    "to": "2026-09-30T18:22:12.400038Z"
+    "count": 34,
+    "from": "2026-09-30T18:22:12.400038Z",
+    "path": "data/new-packages-2026-09-30T19-19-34-604305Z.csv",
+    "to": "2026-09-30T19:19:34.604305Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-30T16:33:10Z",
       "package": "apache-airflow-providers-lamindb",
       "since": "2026-09-30T16:18:49.225405Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-09-30T15:11:51Z",
-      "package": "cassy-f4e",
-      "since": "2026-09-30T14:20:15.761933Z"
+      "attempts": 1,
+      "created_at": "2026-09-30T19:07:27Z",
+      "package": "datatool-cli",
+      "since": "2026-09-30T18:22:12.400038Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-30T15:30:37Z",
       "package": "lavlab-cli-utils",
       "since": "2026-09-30T15:18:42.465204Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-30T16:51:12Z",
       "package": "roman-wfi-reference-file-pipeline",
       "since": "2026-09-30T16:18:49.225405Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-30T16:48:29Z",
       "package": "stelvane-api",
       "since": "2026-09-30T16:18:49.225405Z"
     }
   ],
-  "serial": 41652503,
+  "serial": 41654222,
   "source_truncated": false,
-  "window": "2026-09-30T18:22:12.400038Z"
+  "window": "2026-09-30T19:19:34.604305Z"
 }

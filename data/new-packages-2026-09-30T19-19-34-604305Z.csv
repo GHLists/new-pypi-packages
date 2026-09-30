@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T18:24:45Z,turbo-torch,0.1.11,,MIT,221540,"**Turbo-Torch** is a performance-oriented drop-in interface inspired by PyTorch, designed around the idea of reducing repeated computation overhead through **internal caching, Cython-backed execution…"
+2026-09-30T18:25:03Z,sheetframe,0.1.3,,,20705,Interactive spreadsheet-style pandas tables for Jupyter and Colab
+2026-09-30T18:30:09Z,mcp-bruno,0.1.1,,MIT,53845,MCP server for running and inspecting Bruno API collections
+2026-09-30T18:33:00Z,recast-radar,0.1.1,,MIT OR Apache-2.0,23786942,"Weather radar files (NEXRAD Level II/III, ODIM_H5, CfRadial, DORADE, JMA) as xarray DataTrees and Py-ART radars, decoded in Rust"
+2026-09-30T18:33:23Z,cirrusnetworks-recon,0.0.1,,,3565,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-30T18:33:31Z,cirrusnetworks-operator,0.0.1,,,3595,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-30T18:33:39Z,cirrusnetworks-muster,0.0.1,,,3571,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-30T18:34:47Z,bad-apple-in-terminal,1.0.0,Ohualtex,MIT,38846,Bad Apple!! Terminal ASCII & Unicode Player with hardware-accelerated audio and responsive resizing.
+2026-09-30T18:35:08Z,qbeam,0.0.1,,Apache-2.0,178248,"Move files from a locked-down machine to your phone over animated QR codes. No network, no admin rights."
+2026-09-30T18:36:05Z,plasma-plots,0.1.0,Max Lindqvist <max.lindqvist@ipp.mpg.de>,MIT,636020,"Plots and diagnostics of labeled xarray output from plasma simulations, such as Struphy"
+2026-09-30T18:36:29Z,photonhq-api,0.1.0,Photon,MIT,220115,Generated Photon API RPC client
+2026-09-30T18:38:03Z,dbx-flame,0.0.1,,Apache-2.0,102876,Configuration-driven Databricks data engineering framework (medallion architecture)
+2026-09-30T18:38:06Z,zrules-py,0.1.1,Daniele Linguaglossa,MIT,576007,"Static semantics for languages parsed with zgram: structural rules, scopes and symbol tables, types, control flow, native and fast."
+2026-09-30T18:38:35Z,camelai-run,0.7.0,,MIT,63782,Python SDK for camelRun
+2026-09-30T18:42:16Z,extty,0.1.0,,MIT,241200,Terminal-native ML experiment tracker
+2026-09-30T18:44:25Z,taskforge-queue,0.2.0.dev0,Francisco Ferreira <francisco.dinis.ferreira@gmail.com>,"MIT License Copyright (c) 2025 Francisco Ferreira Permission is hereby granted, free of charge, to…",114671,"Background jobs for Python, stored in your Postgres database: no Redis, no broker."
+2026-09-30T18:46:25Z,agentenv-framework-protocol,0.1.269,Scale AI,Apache-2.0,225611,Open data-plane protocol and server SDK for agent environments.
+2026-09-30T18:51:03Z,agentenv-framework,0.9.1254,Scale AI,Apache-2.0,3276437,"SDK and CLI for building, deploying and running agent environments and the tasks that grade agents in them."
+2026-09-30T18:52:09Z,repomap-viz,0.1.0,Shahrukh Khan,MIT,159349,"Local-first interactive map of a Python project: modules, calls, entry points."
+2026-09-30T18:52:16Z,seamark,0.1.0,,Proprietary,358912,The Seamark CLI: run Harbor evals in the Seamark cloud and follow them from the terminal.
+2026-09-30T19:02:31Z,pyultrahdr,0.1.0,hanfeisun,MIT,19666,Pure-Python SDR to Ultra HDR JPEG gain map converter
+2026-09-30T19:03:12Z,clavory,0.1.0,,,9049,"A persistent, local SQLite-backed key-value CLI"
+2026-09-30T19:06:00Z,authyouragent,0.3.0,,MIT,70326,"Auth Your Agent SDK: let AI agents act for a user on websites, with the user's approval on their phone."
+2026-09-30T19:06:10Z,gugugaga,0.1.3,,,21208,The Gugu programming language
+2026-09-30T19:06:22Z,toolhunch,0.1.0,Diego Margoni,MIT,108194,"Tool search for LLM agents, ranked by System-1 decision models, with a benchmark that measures prompt caching."
+2026-09-30T19:06:23Z,xapikorea,0.1.0,XAPI Korea,MIT,17835,Official Python SDK for the XAPI Korea API
+2026-09-30T19:09:31Z,greenheat-py,0.1.1,WolfwithSword <12175651+WolfwithSword@users.noreply.github.com>,MIT,16187,"An async Python client for GreenHeat, a Twitch stream click/heatmap overlay extension"
+2026-09-30T19:11:50Z,neurosoc,0.1.0,,Apache-2.0,18650,NeuroSOC SDK for backends and AI agents: check session verdicts and guard agent tool calls before they run.
+2026-09-30T19:15:02Z,skylit,0.1.0,"""Skylit, Inc."" <support@skylit.ai>",MIT,11226,"Python client for Skylit market data: options flow, volatility, dealer positioning (GEX) and dark pool, for AI trading agents."
+2026-09-30T19:15:12Z,deven,1.0.0,DevEN Team,MIT,16871638,High-Performance Power System Analysis Engine & Scripting Library
+2026-09-30T19:15:50Z,lcbo,0.1.0,,MIT,72287,"Typed LCBO product search, prices, inventory, proximity, and HAR capture"
+2026-09-30T19:16:48Z,jupyterlite-webmcp,0.1.0,Allison Coleman,"MIT License Copyright (c) 2026 Allison Coleman Permission is hereby granted, free of charge, to any…",406674,Expose the live JupyterLite workspace to a compatible browser agent through WebMCP.
+2026-09-30T19:17:04Z,nunppy,0.1.0,Rutuja Phalke,,16399,A collection of my Machine Learning practical codes
+2026-09-30T19:17:55Z,bxc,1.1.0,Fabio Chicout <fchicout@gmail.com>,Apache-2.0,3530473,A lightweight Python library and CLI tool to format BibTeX references using CSL
