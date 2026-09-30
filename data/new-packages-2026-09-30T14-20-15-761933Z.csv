@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T13:19:56Z,agent-mcp-mtls-util,1.0.1,,MIT,14252,SPIFFE/mTLS MCP client for Claude Desktop — no local agent needed
+2026-09-30T13:20:05Z,django-skynetA11y-pdf-remediation,1.0.0,Your Organization,MIT,137103,"Upload, scan and AI-remediate PDFs for accessibility (WCAG/PDF-UA) compliance"
+2026-09-30T13:20:05Z,epd-server,0.9.0,Chris Twomey,MIT,139563,Scheduled HTML-to-PNG rendering for battery-powered e-paper clients.
+2026-09-30T13:20:40Z,tvwnn,1.0.0,Dr Merwan Roudane <merwanroudane920@gmail.com>,MIT,199299,"Time-varying weight neural networks: a faithful implementation of Rudd, Bondell & Silver (2026)"
+2026-09-30T13:20:53Z,legaldown-render,0.2.0,ForLegalAI s.r.o.,MIT,159447,"Reference renderer for the LegalDown legal document format: HTML and plain text, DOCX and PDF planned"
+2026-09-30T13:23:12Z,jmcpy,0.1.1,,MIT,209331,禁漫天堂 Python SDK：搜索、评论、分类排行、章节详情与图片下载解码
+2026-09-30T13:23:39Z,ggym,0.0.1,Jeremy Guez,MIT,2545,"GeneticsGym: benchmark missense variant effect predictors on human genetic datasets (placeholder, release coming soon)"
+2026-09-30T13:25:20Z,armarium,0.1.0,Will Bradshaw,MIT,248265,Create and validate Armarium Markdown vaults
+2026-09-30T13:25:23Z,plone-SkynetA11y-pdf-remediation,1.0.0,Skynet Technologies USA LLC <hello@skynettechnologies.com>,MIT,148513,"PDF accessibility (WCAG / PDF-UA) remediation dashboard: upload PDFs, scan a website for PDFs, download AI-remediated copies."
+2026-09-30T13:25:50Z,g2pflow,0.1.0,Team OpenVPI,MIT AND Apache-2.0 AND CC-BY-SA-3.0 AND CC-BY-SA-4.0,719797,Composable multilingual grapheme-to-phoneme pipelines
+2026-09-30T13:26:03Z,almasix-orbit-workflows,0.1.0,Almasix Contributors,MIT,533378,"Orbit plugin for versioned workflows: forms, approvals, parallel branches, escalation, and signatures."
+2026-09-30T13:30:14Z,imctermite3,3.0.0,jgoedeke,MIT,13011179,Enables extraction of measurement data from binary files with extension 'raw' used by proprietary software imcFAMOS and imcSTUDIO and facilitates its storage in open source file formats
+2026-09-30T13:30:59Z,runspec-linux-root,0.1.0,,,12744,"Linux admin runnables that need root (packages, reboot, sysctl) for runspec"
+2026-09-30T13:31:20Z,lookuptax,1.0.0,LookupTax <info@lookuptax.com>,MIT,22754,"Official LookupTax SDK — validate tax IDs (VAT, EIN, GSTIN, ABN…) against government registries."
+2026-09-30T13:33:37Z,citation-network-mcp,0.13.0,"Michal Hron, thinktraveller",MIT,378232,"MCP server for citation-network analysis on Scopus or OpenAlex: coupling, co-citation, lineages, bibliometrics"
+2026-09-30T13:34:20Z,kaizten-github-issue-eraser,0.0.1,Kaizten,LicenseRef-Proprietary,21965,List and delete closed GitHub issues after backing up issue images.
+2026-09-30T13:36:21Z,aura-python-sdk,0.1.3,Jonathan Giffard,MIT,237516,Python client library for the Neo4j Aura API (v1)
+2026-09-30T13:37:34Z,acla-agentic-context-runtime,4.0.0rc1,Prasad Deshpande,MIT,364481,"ACLA Agentic Context Runtime: persistent project context, a deterministic Context Compiler and governed Mission Working Sets for AI agents, with lifecycle, observation, REST, UI and MCP surfaces."
+2026-09-30T13:39:18Z,hplc-peakpicker,2.0.1,,MIT,231094,"HPLC chromatogram peak detection, baseline correction, deconvolution and quantification (clean-architecture Python package)."
+2026-09-30T13:39:24Z,ggah-mod,1.0.0,Johan Comparat <jcomparat@lpsc.in2p3.fr>,MIT,2212112,"A layered, differentiable halo-model forward model for galaxies, gas and AGN"
+2026-09-30T13:41:50Z,arc56-generated-tripl-b5f30855,1.2.2026093013,TriplEight,,39832,Generated ARC-56 Algorand smart-contract clients for TriplEight/AuPM.
+2026-09-30T13:41:58Z,mistic-svm,0.1.1,BioModSquad <group@biomodsquad.org>,MIT,3667709,Model-informed feature selection through importance and contribution for SVMs
+2026-09-30T13:42:28Z,tubestoevsky,1.0.1,Viktor Buzanov <viktor.buzanov@mailbox.org>,MIT,148785,Turn YouTube transcripts into literary prose with an LLM
+2026-09-30T13:42:54Z,qledlab-minji-2026,0.1.0,Minji Park,MIT,5549,Educational QLED laboratory package example
+2026-09-30T13:46:19Z,smart-home-kit-liulixi,0.1.0,류리시,,3902,A simple smart home package for a Python class assignment.
+2026-09-30T13:46:24Z,arc56-generated-d13co-dc977884,1.2.2026072010,d13co,,16596,Generated ARC-56 Algorand smart-contract clients for d13co/ghostofavm.
+2026-09-30T13:46:58Z,jevrail,0.1.0,jevrail contributors,Apache-2.0,32886,"Input and output guardrails for LangGraph agents, judged by the Jev model."
+2026-09-30T13:47:28Z,arc56-generated-d13co-0dac2a61,1.2.2026072010,d13co,,36896,Generated ARC-56 Algorand smart-contract clients for d13co/reti-ghost-sdk.
+2026-09-30T13:48:30Z,vertodigital,0.1.0,VertoDigital <team@vertodigital.com>,MIT,7011,Python client for VertoDigital's public agent API.
+2026-09-30T13:48:32Z,arc56-generated-d13co-833060fe,1.2.2026072010,d13co,,97682,Generated ARC-56 Algorand smart-contract clients for d13co/xgov-delegator.
+2026-09-30T13:49:53Z,turboxml,1.0.0,nephi-dev,MIT,34057316,"A fast Python library for reading and writing XML files, powered by Rust."
+2026-09-30T13:51:21Z,cjk-data-profiling,0.1.0,t-onoz,MIT,11382,CJK font compatibility patch for `ydata-profiling`/`fg-data-profiling` using Matplotlib and WordCloud.
+2026-09-30T13:52:27Z,enceladus-quantumguard,1.1.2,,,179870432,QuantumGuard Post-Quantum Cryptography shim library
+2026-09-30T13:53:09Z,parcha-agentrun,0.2.0,,,107492,"Python SDK for AgentRun: create agents, run them, and collect results"
+2026-09-30T13:54:07Z,bearing-datasets,0.1.1,Victor Bauler,MIT,1837613,Reproducible download and standardized Parquet storage for bearing / rotating-machinery fault datasets
+2026-09-30T13:55:47Z,harmonimed-engine,0.1.0,Mukisa David <dev@harmonimed.org>,,9019,Multi-vendor DICOM header de-identification and NDRLs validation engine
+2026-09-30T13:56:31Z,trprint,1.0.5,Hadi Cahyadi,,14314,Custom traceback printer
+2026-09-30T13:56:59Z,living-memory,0.1.0,Demos Ra <demos_ra@hotmail.com>,MIT,211418,"JSON described by a JSON Schema, converted to Multi-Sheet Tab-Separated Values (MTSV)"
+2026-09-30T13:58:16Z,mesytec-mcpd,0.8.post1.dev32,Florian Lüke <f.lueke@mesytec.com>,BSL-1.0,35710268,Driver library and tools for the mesytec PSD+ system
+2026-09-30T14:00:32Z,tiramemsu,0.1.0,Volodymyr Pavlyshyn,MIT OR Apache-2.0,30630050,"A bitemporal, never-forget triple store on SQLite with SPARQL and openCypher"
+2026-09-30T14:02:12Z,ub-project,1.0.0,team useblocks <info@useblocks.com>,,28735,"The shared reader for ubproject.toml and its variant data, for the sphinx-needs family and ubCode"
+2026-09-30T14:02:20Z,humanitarian-data-schema-analyzer,0.1.1,Bwanga Nyirenda,MIT,38074,"Unified Schema Profiling, Parsing, and Standardisation Engine for Humanitarian Datasets (CSV, HXL, JSON, XML, XLSForm)"
+2026-09-30T14:03:34Z,webzio-news-search,0.1.0,"""Webz.io"" <support@webz.io>",MIT,29387,Python client for the Webz.io News Search API - global news in natural language with semantic ranking and rich filters
+2026-09-30T14:05:19Z,voicebench,0.2.0,superintelligenceco contributors,Apache-2.0,103708,"Benchmark harness for real-time voice agents: latency, barge-in, and turn-taking measured from the audio."
+2026-09-30T14:06:29Z,br-py-duckdb-cache,0.5.0,,MIT,48901,"DuckDB-backed windowed cache with Parquet/ZSTD storage, gap-aware regeneration, and Iceberg datastore integration"
+2026-09-30T14:06:35Z,odoo-addon-website-sale-slides-survey-multi-qty,19.0.1.0.0.2,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,27598,Website Sale Slides Survey Multi Qty
+2026-09-30T14:07:04Z,sic-agent-sandbox,0.2.1,superintelligenceco contributors,Apache-2.0,288684,"Self-hostable disposable sandboxes for AI agents, with snapshot, rollback, and fork."
+2026-09-30T14:10:17Z,reactive-research,0.1.0,,,89470,Tools for reactive research.
+2026-09-30T14:11:19Z,care-voice,0.2.0,superintelligenceco contributors,Apache-2.0,119561,"Open-source daily voice check-in agent for older adults living alone, with caregiver alerts."
+2026-09-30T14:12:56Z,noulxp,0.4.0,System One Models <ceo@systemonemodels.tech>,Apache-2.0,446734,"NoulXP (formerly OpenDXP): a portable, open standard and protocol for calibrated single-pass decision models (reference implementation)"
+2026-09-30T14:15:29Z,nearai-inference-sdk,0.1.0rc1,,MIT,128194,Verification SDK for NEAR AI Cloud attestations
+2026-09-30T14:17:19Z,olb-cli,0.1.0,,,45936,"olb: install Oraios language backends and run their IDEs invisibly, one instance per project"
+2026-09-30T14:17:24Z,mrbart,0,,,13919,BART: Toolbox for Computational Magnetic Resonance Imaging - Python Wrapper & Utils
+2026-09-30T14:17:28Z,sic-evalkit,0.2.0,superintelligenceco contributors,Apache-2.0,114259,"Evals as code for LLM apps and agents. Write tasks and graders in YAML, run them in CI, fail the build on regressions."
+2026-09-30T14:19:57Z,tasksmith,0.0.1,adithya-s-k,Apache-2.0,14040,Generate verifiable Harbor coding tasks from pull requests with Repo2RLEnv Tasksmith.
