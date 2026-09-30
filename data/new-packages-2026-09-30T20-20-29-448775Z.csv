@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T19:07:27Z,datatool-cli,0.1.0,WVCode <contato@wvcode.com.br>,GPL-3.0-only,247801,"Diagnostica, perfila, limpa e converte arquivos de dados (CSV, Excel, JSON, Parquet) pela linha de comando, com suporte nativo a CSV do Excel brasileiro, CPF/CNPJ e R$."
+2026-09-30T19:19:36Z,zam-hesap-mcp,0.6.0,,MIT,61744,"Türkiye maaş, asgari ücret, emekli/memur zammı, kıdem-ihbar ve izin hesapları için MCP sunucusu"
+2026-09-30T19:22:59Z,aws-sso-switcher,1.0.0,Ebuka,MIT,9361,Switch the default AWS SSO profile in ~/.aws/config with one command
+2026-09-30T19:25:56Z,dssnippets,0.1.0,Mahadevan,MIT,20467,"Print ready-to-copy Data Science code snippets (preprocessing, models, plotting) from Python."
+2026-09-30T19:27:11Z,tapesmith,0.4.0,Tapesmith contributors,MIT,7507302,"Label studio for the Phomemo P12 label printer: templates, QR codes, homelab labels, web UI, print service and automation for Windows"
+2026-09-30T19:27:45Z,mhd2d,0.1.0,Xu Chen,GPL-2.0-only,65791,A two-dimensional pseudo-spectral magnetohydrodynamics simulation code written in Python.
+2026-09-30T19:28:53Z,milume,1.1.0,ckmah,MIT,7519582,"Milume: a thinking surface for spatial omics. A tactile, reactive Jupyter (anywidget) surface for forming intuition about spatial omics data."
+2026-09-30T19:29:21Z,opencompute-playground,1.0.0,OpenCompute <smitpatel316@gmail.com>,Proprietary,19971,OpenCompute private monolith SDK — Exchange/Ledger OCX net-metering + Edge Pool + OpenAI-compat chat via LiteLLM
+2026-09-30T19:31:01Z,phenome,1.4.1,Aitor González-Marfil,MIT,667395,PhenoMe: dataset-agnostic phenotyping pipeline using deep learning embeddings
+2026-09-30T19:36:05Z,nux-mg30-mcp,0.1.1,,MIT,49877,MCP server that lets an AI assistant control a NUX MG-30 guitar processor over USB MIDI
+2026-09-30T19:40:05Z,colcon-guard,0.1.0a1,Jan Vojnar,Apache-2.0,47914,Extension for colcon that guards builds against self-layered environments and concurrent builds
+2026-09-30T19:40:09Z,hypyrameter,0.3.0,"""Michael S. Phillips"" <phillipsm@arizona.edu>",CC-BY-4.0,77448,"Spectral parameters (band depths, slopes, peaks, indices) for hyperspectral reflectance data."
+2026-09-30T19:42:29Z,aspora-vsscli,0.2.0,,,159364,"Image, code and open-source dependency scanning in your CI, reported to a Vendor Security Scanner server"
+2026-09-30T19:45:15Z,readystack-conda-channel-license-lint,1.0.1,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,32551,Finds every environment.yml and .condarc line that pulls from Anaconda's licensed repository (bundled Node.js runtime)
+2026-09-30T19:45:31Z,readystack-cron-schedule-lint,0.1.9,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,35150,"Names every schedule line in the file you have open that fires at the wrong hour, twice, or never at all - and prints the next three times each one really fires, in the zone that actually applies. (b…"
+2026-09-30T19:45:38Z,readystack-tls-cert-lifetime-lint,0.1.8,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,32223,"Finds the 12 settings that break when public TLS certificates fall to 100 days on 2027-03-15: openssl -days, Terraform, cert-manager, late expiry alerts, HPKP, TLS 1.0/1.1, SHA-1, RSA-1024. (bundled…"
+2026-09-30T19:45:54Z,readystack-wcag21-aa-legal-baseline-audit,0.1.8,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,32559,"Audits HTML, JSX, Vue, Twig, Blade, ERB and Razor markup against the 24 WCAG 2.1 Level AA checks that 28 CFR 35.200 and EN 301 549 actually name - not WCAG 2.2. (bundled Node.js runtime)"
+2026-09-30T19:57:07Z,open-svpflow,0.1.0,z1xus,Apache-2.0,3904311,Open-source drop-in replacement for SVPFlow's VapourSynth plugins
+2026-09-30T19:58:57Z,tgmrkts,0.1.0,,MIT,22303,Asynchronous Python client for the MRKT API
+2026-09-30T20:05:14Z,adjudicate,0.3.0,Andrew Brož,MIT AND LGPL-2.0-or-later AND LicenseRef-SCOWL,1258432,"Bounded, auditable text edits chosen by a language model: detector proposes, model picks, applier splices."
+2026-09-30T20:05:28Z,stylefix,0.7.0,Andrew Brož,MIT AND LicenseRef-VarCon,759821,"Regularize a Markdown file to US or UK English and a style guide, using Vale plus a language model for the ambiguous cases."
+2026-09-30T20:05:31Z,proofix,0.5.0,Andrew Brož,MIT,60983,"Fix typos and punctuation in Markdown: LanguageTool detects, a language model adjudicates, comma placement is corrected under a diff guard."
+2026-09-30T20:06:26Z,machinate,0.2.0,Eelco van der Wel,MIT,104829,File-based project planning CLI for coding agents.
+2026-09-30T20:11:05Z,homeostat,0.1.0a1,Lei Ma,Apache-2.0,237704,"Process-industry time series with full ground truth, generated from abstract data generating processes."
+2026-09-30T20:12:01Z,sphinx-redline,0.1.0,,Apache-2.0,79019,Sphinx extension for inline review comments anchored to the RST/Markdown source
+2026-09-30T20:14:34Z,tokenatlas,1.3.0,Magnus Gille,MIT,237807,"Local, private token and cost atlas for AI coding agents (Claude Code, Codex, OpenCode, Pi)"
+2026-09-30T20:18:00Z,hdl-toolkit,0.1.0,Alfredo Reyes,MIT,40741,"Build, validate, package and load Oracle HCM Data Loader (HDL) files."
+2026-09-30T20:18:23Z,gromon-backend,0.3.0,Gromon,MIT,78264,"A small, predictable HTTP routing engine for Python."
+2026-09-30T20:18:30Z,lupaxa-leaky-bucket,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",18083,Leaky-bucket rate limiter with drop and queue modes.
