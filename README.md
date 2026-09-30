@@ -8,39 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 09:19 UTC
+## Latest list — 2026-09-30 10:18 UTC
 
-New packages created between 2026-09-30 08:19 UTC and 2026-09-30 09:19 UTC.
+New packages created between 2026-09-30 09:19 UTC and 2026-09-30 10:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-30T09-19-39-328937Z.csv)
+[Full CSV](data/new-packages-2026-09-30T10-18-55-966101Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-30 08:21:36 | [nemd](https://pypi.org/project/nemd/) | 0.1.0 |  | 41.8 kB | Fuzzy search for documentation in a codebase |
-| 2026-09-30 08:28:10 | [edgenote](https://pypi.org/project/edgenote/) | 0.1.3 | Md Tareq Shah Alam <tareqshah… | 58.8 MB | Place important notes at the edges of your LLM prompts to fight the lost-in-the… |
-| 2026-09-30 08:28:14 | [ai-models-fuxi-s2s](https://pypi.org/project/ai-models-fuxi-s2s/) | 1.0 | European Centre for Medium-Ra… | 17.8 kB | An ai-models plugin to run Fudan's FuXi-S2S model |
-| 2026-09-30 08:28:31 | [duplicatecode](https://pypi.org/project/duplicatecode/) | 0.1.0 |  | 16.2 MB | Static (LLM-free) detection of duplicate/similar code in Python and TypeScript |
-| 2026-09-30 08:29:15 | [saltrouter-cli](https://pypi.org/project/saltrouter-cli/) | 0.1.0 | Flurin <flurin.laim@gmail.com> | 155.4 kB | Agent-first CLI and Python client for Salt Fiber Box (Sagemcom F@st / XMO API)… |
-| 2026-09-30 08:30:52 | [session-handover](https://pypi.org/project/session-handover/) | 0.1.0 | hao li | 22.1 kB | Hand off a coding-agent session to the next one: reads Claude Code and Codex CL… |
-| 2026-09-30 08:30:56 | [csbe](https://pypi.org/project/csbe/) | 3.0.6 |  | 3.3 kB | my hand module |
-| 2026-09-30 08:32:24 | [selectorprobe](https://pypi.org/project/selectorprobe/) | 0.1.0 | Younes Z. | 29.4 kB | Suggest the CSS selector that holds the body of an article, so a feed reader ca… |
-| 2026-09-30 08:34:08 | [mcp-bytehouse](https://pypi.org/project/mcp-bytehouse/) | 0.2.0 |  | 92.9 kB | An MCP server for ByteHouse. |
-| 2026-09-30 08:34:58 | [spring-cli](https://pypi.org/project/spring-cli/) | 0.1.0 | Nikhil Vibhav | 32.1 kB | Interactive CLI to scaffold Spring Boot (Java/Kotlin) projects, similar to star… |
-| 2026-09-30 08:39:00 | [mywebapi-sdk](https://pypi.org/project/mywebapi-sdk/) | 0.3.0 | CPlugin | 1.0 MB | Python client for the MyWebAPI.com trading platform management API (v2). Genera… |
-| 2026-09-30 08:48:56 | [xactflow-design](https://pypi.org/project/xactflow-design/) | 0.1.0 | Maxime Travaillard | 27.3 kB | XactFlow exporter plugin that serializes an ipxact.Design into IEEE 1685-2022 I… |
-| 2026-09-30 08:52:39 | [food-tools](https://pypi.org/project/food-tools/) | 0.1.0 | dyhur | 3.3 kB | Simple food tools package |
-| 2026-09-30 08:52:40 | [dyhur-food-tools](https://pypi.org/project/dyhur-food-tools/) | 0.1.0 | dyhur | 864 B | Simple food tools package |
-| 2026-09-30 08:53:01 | [mkus-nlu](https://pypi.org/project/mkus-nlu/) | 0.0.1 | Markus QNG | 155.3 kB | Text vietnamese processing |
-| 2026-09-30 08:57:08 | [greeting-ysk](https://pypi.org/project/greeting-ysk/) | 0.1.3 | Yu sungkyeong <ysk@gskku.edu> | 2.9 kB | A simple greeting message package |
-| 2026-09-30 09:00:07 | [gbbq-decrypt](https://pypi.org/project/gbbq-decrypt/) | 1.2.0 | tdx-tools | 47.7 kB | Python C-API extension for TDX GBBQ decryption, DAY parsing and adjustment fact… |
-| 2026-09-30 09:00:13 | [easypyram](https://pypi.org/project/easypyram/) | 2.0.0 | "Per A. Brodtkorb" <per.andre… | 47.0 kB | User-friendly Python implementation of the Range-dependent Acoustic Model (RAM)… |
-| 2026-09-30 09:02:05 | [kinenix](https://pypi.org/project/kinenix/) | 0.1.0b1 | arttopix | 96.5 kB | Core execution engine and standard action libraries for Kinenix RPA platform |
-| 2026-09-30 09:02:07 | [gristcode](https://pypi.org/project/gristcode/) | 0.1.0 | Younes Z. | 21.8 kB | Render a Grist document as readable Python source, offline, straight from the .… |
-| 2026-09-30 09:03:21 | [primalsolver](https://pypi.org/project/primalsolver/) | 0.1.0 | Gaetano Minardi | 3.3 MB | PrimalSolver: dependency-free convex optimization (LP/QP/SOCP/SDP/exp-power/MIP… |
-| 2026-09-30 09:09:49 | [teklia-newspaper](https://pypi.org/project/teklia-newspaper/) | 0.2.0rc2 | Teklia <contact@teklia.com> | 210.1 kB | Scripts for FINLAM \| Newspaper |
-| 2026-09-30 09:10:17 | [rutuja-tools](https://pypi.org/project/rutuja-tools/) | 0.1.0 | Rutuja Phalke | 2.8 kB | My first Python library |
-| 2026-09-30 09:13:05 | [t8assets](https://pypi.org/project/t8assets/) | 0.1.1 |  | 41.5 MB | competition asset bundle |
-| 2026-09-30 09:13:27 | [mortis-spatial](https://pypi.org/project/mortis-spatial/) | 0.1.0 | Faris Hrvat <farishrvatit@gma… | 3.9 MB | Cohort-scale analysis for spatial metabolomics: patient-level statistics, diffe… |
-| 2026-09-30 09:16:07 | [lfx-darkmoon](https://pypi.org/project/lfx-darkmoon/) | 0.1.0 | ASC-IT (Darkmoon) | 29.8 kB | Darkmoon components as a standalone Langflow Extension Bundle: run an authorise… |
-| 2026-09-30 09:16:55 | [consumer-sdk](https://pypi.org/project/consumer-sdk/) | 1.0.0 |  | 12.5 kB |  |
-| 2026-09-30 09:18:07 | [grz-pydantic-models-testing](https://pypi.org/project/grz-pydantic-models-testing/) | 1.1.0 | "Florian R. Hölzlwimmer" <git… | 129.3 kB | Installable test fixtures and example metadata for grz-pydantic-models. |
+| 2026-09-30 08:44:49 | [mosaic-python-client](https://pypi.org/project/mosaic-python-client/) | 0.2.0 | Maximilian Jugl | 44.0 kB | Zeep client for interacting with the SOAP interfaces provided by E-PIX and gPAS… |
+| 2026-09-30 09:21:31 | [bqtop](https://pypi.org/project/bqtop/) | 0.3.3 | Davide Di Matteo | 96.9 kB | htop for BigQuery: live jobs, principals, projects, hot tables and cost in your… |
+| 2026-09-30 09:24:30 | [agentcore-sdk-agentrun-compat-core](https://pypi.org/project/agentcore-sdk-agentrun-compat-core/) | 0.1.0 | AgentCore Team | 673.1 kB | Core implementation for migrating AgentRun Python SDK applications to AgentCore |
+| 2026-09-30 09:24:53 | [agentcore-sdk-agentrun-compat](https://pypi.org/project/agentcore-sdk-agentrun-compat/) | 0.1.0 | AgentCore Team | 16.8 kB | Compatibility SDK for migrating AgentRun 0.0.53 applications to AgentCore |
+| 2026-09-30 09:25:44 | [odinn-gungnir](https://pypi.org/project/odinn-gungnir/) | 0.1.0 | Alban Gossard, Jordi Bolibar,… | 20.1 kB | A Python library for preprocessing of topographical and climate data for ODINN.… |
+| 2026-09-30 09:27:23 | [calcutils-ruz-teh](https://pypi.org/project/calcutils-ruz-teh/) | 0.1.3 | Tehila Ruzindana <tehilaruzin… | 8.5 kB | A simple student tutorial math utility package |
+| 2026-09-30 09:28:53 | [jwks-client](https://pypi.org/project/jwks-client/) | 0.1.0 | Artur Shiriev | 21.2 kB | Async JWKS client for verifying JWTs, with key caching, resilient fetching, and… |
+| 2026-09-30 09:29:14 | [zapd](https://pypi.org/project/zapd/) | 1.1.3 |  | 3.5 MB | The ZAP router, embedded: every process that speaks ZAP is a candidate; the ker… |
+| 2026-09-30 09:29:16 | [is-page-empty](https://pypi.org/project/is-page-empty/) | 1.0.4 | Johannes Bauer <atomm-clap@in… | 8.5 kB | A very simple script that tests whether an image is likely empty. |
+| 2026-09-30 09:32:17 | [openarm-sdk](https://pypi.org/project/openarm-sdk/) | 0.1.0 |  | 170.0 kB | Pure Python gRPC client SDK for OpenArm RCG |
+| 2026-09-30 09:33:53 | [oma-python](https://pypi.org/project/oma-python/) | 0.1.0 | 19Alma98 | 55.7 kB | Operational Modal Analysis (OMA) algorithms for structural dynamics: FDD and Co… |
+| 2026-09-30 09:34:00 | [gsrfs](https://pypi.org/project/gsrfs/) | 0.16.2 |  | 154.0 kB | Research prototype for geometry-supported residual unsupervised feature selecti… |
+| 2026-09-30 09:35:32 | [asqueel-migration](https://pypi.org/project/asqueel-migration/) | 0.1.2 | Genropy Team | 254.1 kB | Database schema migration engine - compares desired structure with actual datab… |
+| 2026-09-30 09:35:44 | [cogext-scan](https://pypi.org/project/cogext-scan/) | 0.1.0 | Yamin / THRYVIX <hello@cogext… | 15.9 kB | Zero-dependency static analysis tool for AI agent code and tool safety. |
+| 2026-09-30 09:36:51 | [vamp-compliance-check](https://pypi.org/project/vamp-compliance-check/) | 1.0 | VampSecure Studios <contact@v… | 41.0 kB | Auditor determinista de cumplimiento multi-marco: ENS · NIS2 · ISO 27001:2022 ·… |
+| 2026-09-30 09:37:05 | [asqueel](https://pypi.org/project/asqueel/) | 0.1.1 | Genropy Team | 2.4 MB | SQL model, PostgreSQL compiler and synchronous runtime |
+| 2026-09-30 09:38:38 | [gdelt-tui](https://pypi.org/project/gdelt-tui/) | 0.1.0 | ryomenhaider | 484.7 kB | Download and convert the GDELT Global Database of Events from a terminal UI |
+| 2026-09-30 09:40:45 | [ifca-datalab-api](https://pypi.org/project/ifca-datalab-api/) | 0.2.0 | Aida Palacio Hoz <aidaph@ifca… | 252.1 kB | DataLab API to create environments in a K8s cluster |
+| 2026-09-30 09:42:28 | [rafay-api-matic-test-sdk](https://pypi.org/project/rafay-api-matic-test-sdk/) | 1.0.0 | Rafay | 265.0 kB | test |
+| 2026-09-30 09:44:55 | [gsc-mcp-full](https://pypi.org/project/gsc-mcp-full/) | 0.1.0 | Mohammadreza (mamrrez) | 130.3 kB | Google Search Console MCP server that understands every language: multilingual… |
+| 2026-09-30 09:49:30 | [basjoo](https://pypi.org/project/basjoo/) | 0.0.1a1 | Houchen Li <houchen_li@hotmai… | 10.9 kB | The Fundamental Math Basis for Autonomous Driving Vehicles and Robotics. |
+| 2026-09-30 09:50:58 | [cairn-db-client](https://pypi.org/project/cairn-db-client/) | 0.3.2 |  | 21.3 kB | Client for Cairn, the hybrid search database where a deletion is final |
+| 2026-09-30 09:50:58 | [llama-index-vector-stores-cairn](https://pypi.org/project/llama-index-vector-stores-cairn/) | 0.3.2 |  | 11.2 kB | LlamaIndex vector store for Cairn, the hybrid search database where a deletion… |
+| 2026-09-30 09:51:02 | [langchain-cairn](https://pypi.org/project/langchain-cairn/) | 0.3.2 |  | 11.0 kB | LangChain vector store for Cairn, the hybrid search database where a deletion i… |
+| 2026-09-30 09:51:30 | [pamd-civil-engineering](https://pypi.org/project/pamd-civil-engineering/) | 0.3.0 | Abstergo2003 | 15.1 MB | Massive standard property databases for engineering and science in PyAct. |
+| 2026-09-30 09:56:32 | [changhyun-main-com](https://pypi.org/project/changhyun-main-com/) | 0.1.3 | changhyun <kidong5453@naver.c… | 3.8 kB | changhyun package example |
+| 2026-09-30 09:57:53 | [uc-manager-cann901-a5](https://pypi.org/project/uc-manager-cann901-a5/) | 0.9.0rc1 | Unified Cache Team | 10.5 MB | Persist and reuse KV Cache to speedup your LLM. |
+| 2026-09-30 09:58:07 | [uc-manager-cann910-a5](https://pypi.org/project/uc-manager-cann910-a5/) | 0.9.0rc1 | Unified Cache Team | 10.5 MB | Persist and reuse KV Cache to speedup your LLM. |
+| 2026-09-30 09:59:32 | [django-itda](https://pypi.org/project/django-itda/) | 0.4.0 |  | 51.1 kB | Django 앱을 AI 에이전트의 판정 있는 도구면으로 노출하는 패키지 |
+| 2026-09-30 10:00:52 | [blitzq](https://pypi.org/project/blitzq/) | 1.0.0 | AiNest Labs | 166.8 kB | A high-performance, framework-agnostic asyncio task queue backed by Redis. |
+| 2026-09-30 10:04:09 | [msclinical](https://pypi.org/project/msclinical/) | 0.1.0 | Cedric Conday | 98.5 kB | Multiple sclerosis clinical rules in one package: confirmed disability and cogn… |
+| 2026-09-30 10:04:21 | [mstrial](https://pypi.org/project/mstrial/) | 0.1.0 | Cedric Conday | 43.8 kB | Multiple sclerosis trial design and endpoints: ARR, time to confirmed worsening… |
+| 2026-09-30 10:04:35 | [msdataqc](https://pypi.org/project/msdataqc/) | 0.1.0 | Cedric Conday | 60.9 kB | Quality control for longitudinal multiple sclerosis MRI datasets: lesion ground… |
+| 2026-09-30 10:11:18 | [voicematic](https://pypi.org/project/voicematic/) | 0.1.0 | Flowmatic, UniForceMusic | 176.1 kB | A vendor-neutral phone voice agent: a telephony transport in, a voice engine, a… |
+| 2026-09-30 10:12:33 | [nano-xet](https://pypi.org/project/nano-xet/) | 0.1.0 | Quentin Lhoest | 74.3 kB | A toy Xet: fsspec filesystem with gear-hash chunking, deduplication and xorbs,… |
+| 2026-09-30 10:14:01 | [zodiacs](https://pypi.org/project/zodiacs/) | 0.1.0a1 | "Zodiacs.org" <admin@zodiacs.… | 1.2 MB | Local Python API and CLI for Zodiacs tropical astrology calculations (requires… |
+| 2026-09-30 10:17:37 | [errinshort](https://pypi.org/project/errinshort/) | 0.1.0 | Aditi Dubey | 22.6 kB | Long Python error? Get it in short: what broke, and how to fix it. |

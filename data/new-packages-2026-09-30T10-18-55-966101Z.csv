@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T08:44:49Z,mosaic-python-client,0.2.0,Maximilian Jugl,MIT,43979,Zeep client for interacting with the SOAP interfaces provided by E-PIX and gPAS of the MOSAIC suite by the THS Greifswald.
+2026-09-30T09:21:31Z,bqtop,0.3.3,Davide Di Matteo,MIT,96926,"htop for BigQuery: live jobs, principals, projects, hot tables and cost in your terminal"
+2026-09-30T09:24:30Z,agentcore-sdk-agentrun-compat-core,0.1.0,AgentCore Team,Apache-2.0,673141,Core implementation for migrating AgentRun Python SDK applications to AgentCore
+2026-09-30T09:24:53Z,agentcore-sdk-agentrun-compat,0.1.0,AgentCore Team,Apache-2.0,16753,Compatibility SDK for migrating AgentRun 0.0.53 applications to AgentCore
+2026-09-30T09:25:44Z,odinn-gungnir,0.1.0,"Alban Gossard, Jordi Bolibar, Facundo Sapienza",BSD 3-Clause License,20061,A Python library for preprocessing of topographical and climate data for ODINN.jl using OGGM.
+2026-09-30T09:27:23Z,calcutils-ruz-teh,0.1.3,Tehila Ruzindana <tehilaruzindana@gmail.com>,MIT,8451,A simple student tutorial math utility package
+2026-09-30T09:28:53Z,jwks-client,0.1.0,Artur Shiriev,MIT,21185,"Async JWKS client for verifying JWTs, with key caching, resilient fetching, and Litestar and FastAPI integrations"
+2026-09-30T09:29:14Z,zapd,1.1.3,,MIT OR Apache-2.0,3534819,"The ZAP router, embedded: every process that speaks ZAP is a candidate; the kernel lock elects one"
+2026-09-30T09:29:16Z,is-page-empty,1.0.4,Johannes Bauer <atomm-clap@interesting-problems.de>,MIT,8537,A very simple script that tests whether an image is likely empty.
+2026-09-30T09:32:17Z,openarm-sdk,0.1.0,,,169988,Pure Python gRPC client SDK for OpenArm RCG
+2026-09-30T09:33:53Z,oma-python,0.1.0,19Alma98,MIT,55741,Operational Modal Analysis (OMA) algorithms for structural dynamics: FDD and Covariance SSI.
+2026-09-30T09:34:00Z,gsrfs,0.16.2,,MIT,154005,Research prototype for geometry-supported residual unsupervised feature selection
+2026-09-30T09:35:32Z,asqueel-migration,0.1.2,Genropy Team,Apache-2.0,254141,Database schema migration engine - compares desired structure with actual database and generates SQL commands
+2026-09-30T09:35:44Z,cogext-scan,0.1.0,Yamin / THRYVIX <hello@cogextai.com>,MIT,15921,Zero-dependency static analysis tool for AI agent code and tool safety.
+2026-09-30T09:36:51Z,vamp-compliance-check,1.0,VampSecure Studios <contact@vampsecurestudios.com>,AGPL-3.0-only,40993,Auditor determinista de cumplimiento multi-marco: ENS · NIS2 · ISO 27001:2022 · DORA · EU AI Act · CSA CCM v4 · RGPD
+2026-09-30T09:37:05Z,asqueel,0.1.1,Genropy Team,Apache-2.0,2394362,"SQL model, PostgreSQL compiler and synchronous runtime"
+2026-09-30T09:38:38Z,gdelt-tui,0.1.0,ryomenhaider,,484715,Download and convert the GDELT Global Database of Events from a terminal UI
+2026-09-30T09:40:45Z,ifca-datalab-api,0.2.0,Aida Palacio Hoz <aidaph@ifca.es>,Apache-2.0,252100,DataLab API to create environments in a K8s cluster
+2026-09-30T09:42:28Z,rafay-api-matic-test-sdk,1.0.0,Rafay,MIT,264985,test
+2026-09-30T09:44:55Z,gsc-mcp-full,0.1.0,Mohammadreza (mamrrez),MIT,130286,"Google Search Console MCP server that understands every language: multilingual query grouping, unlimited history, hourly data and analysis tools."
+2026-09-30T09:49:30Z,basjoo,0.0.1a1,Houchen Li <houchen_li@hotmail.com>,BSD-3-Clause,10870,The Fundamental Math Basis for Autonomous Driving Vehicles and Robotics.
+2026-09-30T09:50:58Z,cairn-db-client,0.3.2,,Apache-2.0,21263,"Client for Cairn, the hybrid search database where a deletion is final"
+2026-09-30T09:50:58Z,llama-index-vector-stores-cairn,0.3.2,,Apache-2.0,11188,"LlamaIndex vector store for Cairn, the hybrid search database where a deletion is final"
+2026-09-30T09:51:02Z,langchain-cairn,0.3.2,,Apache-2.0,10984,"LangChain vector store for Cairn, the hybrid search database where a deletion is final"
+2026-09-30T09:51:30Z,pamd-civil-engineering,0.3.0,Abstergo2003,,15107993,Massive standard property databases for engineering and science in PyAct.
+2026-09-30T09:56:32Z,changhyun-main-com,0.1.3,changhyun <kidong5453@naver.com>,MIT,3782,changhyun package example
+2026-09-30T09:57:53Z,uc-manager-cann901-a5,0.9.0rc1,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",10466337,Persist and reuse KV Cache to speedup your LLM.
+2026-09-30T09:58:07Z,uc-manager-cann910-a5,0.9.0rc1,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",10466575,Persist and reuse KV Cache to speedup your LLM.
+2026-09-30T09:59:32Z,django-itda,0.4.0,,MIT,51054,Django 앱을 AI 에이전트의 판정 있는 도구면으로 노출하는 패키지
+2026-09-30T10:00:52Z,blitzq,1.0.0,AiNest Labs,MIT,166770,"A high-performance, framework-agnostic asyncio task queue backed by Redis."
+2026-09-30T10:04:09Z,msclinical,0.1.0,Cedric Conday,MIT,98548,"Multiple sclerosis clinical rules in one package: confirmed disability and cognitive worsening, RAW/PIRA/PIRMA, NEDA, relapse hygiene, treatment epochs, EDSS noise, definition multiverse, table schem…"
+2026-09-30T10:04:21Z,mstrial,0.1.0,Cedric Conday,MIT,43793,"Multiple sclerosis trial design and endpoints: ARR, time to confirmed worsening, NEDA, negative binomial sample size for lesion counts, MRI schedules under a budget, PIRA power through the whole pipe…"
+2026-09-30T10:04:35Z,msdataqc,0.1.0,Cedric Conday,MIT,60940,"Quality control for longitudinal multiple sclerosis MRI datasets: lesion ground-truth consistency, contrast drift between visits, protocol checks against the 2021 consensus, lesion counting conventio…"
+2026-09-30T10:11:18Z,voicematic,0.1.0,"Flowmatic, UniForceMusic",MIT,176054,"A vendor-neutral phone voice agent: a telephony transport in, a voice engine, a brain with tools and call control, each part from the vendor you choose."
+2026-09-30T10:12:33Z,nano-xet,0.1.0,Quentin Lhoest,Apache-2.0,74268,"A toy Xet: fsspec filesystem with gear-hash chunking, deduplication and xorbs, on any filesystem"
+2026-09-30T10:14:01Z,zodiacs,0.1.0a1,"""Zodiacs.org"" <admin@zodiacs.org>",MIT AND CC-BY-4.0,1192306,Local Python API and CLI for Zodiacs tropical astrology calculations (requires Node.js).
+2026-09-30T10:17:37Z,errinshort,0.1.0,Aditi Dubey,MIT,22550,"Long Python error? Get it in short: what broke, and how to fix it."
