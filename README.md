@@ -8,45 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 08:19 UTC
+## Latest list — 2026-09-30 09:19 UTC
 
-New packages created between 2026-09-30 07:22 UTC and 2026-09-30 08:19 UTC.
+New packages created between 2026-09-30 08:19 UTC and 2026-09-30 09:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-30T08-19-17-128185Z.csv)
+[Full CSV](data/new-packages-2026-09-30T09-19-39-328937Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-30 07:22:45 | [zgram-py](https://pypi.org/project/zgram-py/) | 0.1.0 | Daniele Linguaglossa | 37.8 MB | JIT-compiled PEG parser generator: grammars compile to native SIMD code via LLV… |
-| 2026-09-30 07:25:14 | [memgovern](https://pypi.org/project/memgovern/) | 0.1.0 | hao li | 26.0 kB | Memory governance for AI agents: decay, tombstones, conflict arbitration, audit |
-| 2026-09-30 07:25:17 | [browser-buddy-mcp](https://pypi.org/project/browser-buddy-mcp/) | 0.1.1 | hao li | 8.4 kB | MCP server that lets coding agents read pages through your real, logged-in Chro… |
-| 2026-09-30 07:25:50 | [shinnjyuu-echo-kit](https://pypi.org/project/shinnjyuu-echo-kit/) | 0.1.1 |  | 106.3 kB | Reusable experiments and verification workflows for AI coding assistants |
-| 2026-09-30 07:26:02 | [py-centrometal-web-boiler-androflo](https://pypi.org/project/py-centrometal-web-boiler-androflo/) | 0.0.59 | Tihomir Heidelberg | 45.2 kB | Python library to interact with Centrometal Boiler System. |
-| 2026-09-30 07:27:22 | [heart-fusion](https://pypi.org/project/heart-fusion/) | 2.0.0 |  | 16.1 kB | 用对偶共存(Dual z=a+ib)替换 Transformer argmax 的融合函数库 — 两极/多极共存, 不剔变量 |
-| 2026-09-30 07:28:49 | [devpilot-mcp](https://pypi.org/project/devpilot-mcp/) | 0.1.0 | Kaustubh Dwivedi | 210.5 kB | An MCP server that gives AI models structured, security-conscious access to a s… |
-| 2026-09-30 07:29:36 | [ai-models-fengyuan](https://pypi.org/project/ai-models-fengyuan/) | 1.0 | European Centre for Medium-Ra… | 17.2 kB | An ai-models plugin to run MetAILab's FengYuan-Weather model |
-| 2026-09-30 07:31:03 | [reliax-certificate](https://pypi.org/project/reliax-certificate/) | 0.1.0 | Reliax | 42.5 kB | The Reliax certificate: envelope schema v16 with a class on every field, the ca… |
-| 2026-09-30 07:31:19 | [reliax-core](https://pypi.org/project/reliax-core/) | 0.2.1 | Reliax | 68.8 kB | Method components of the Reliax reliability envelope: split and Mondrian confor… |
-| 2026-09-30 07:33:42 | [semiconductor-chaerin](https://pypi.org/project/semiconductor-chaerin/) | 0.1.3 | Lim Chaerin <dlacofls0@naver.… | 5.0 kB | Chaerin package example |
-| 2026-09-30 07:36:45 | [dlv](https://pypi.org/project/dlv/) | 0.1.0 | Thomas Kirchner <thomas.kirch… | 68.7 kB | Verilog module -> Verilator + nanobind -> importable Python module |
-| 2026-09-30 07:39:34 | [lpsignal](https://pypi.org/project/lpsignal/) | 0.1.0 |  | 37.4 kB | Official LPSignal SDK: net-of-IL APR signals for concentrated-liquidity pools,… |
-| 2026-09-30 07:40:22 | [telexporter](https://pypi.org/project/telexporter/) | 1.0.3 | Mhd Zeid Mahfouz <mhd.zeid.ma… | 40.8 kB | Forward new emails from IMAP mailboxes to Telegram forum topics in real time. |
-| 2026-09-30 07:41:29 | [scholar-auth](https://pypi.org/project/scholar-auth/) | 0.0.2 | Wolfgang Fahl <wf@WolfgangFah… | 29.4 kB | ORCID based OAuth login and authorization for scholarly applications - reusable… |
-| 2026-09-30 07:42:50 | [calcutils-cyizere](https://pypi.org/project/calcutils-cyizere/) | 0.1.0 | Cyizere-Happy <happycyizere69… | 5.3 kB | A simple student tutorial math utility package |
-| 2026-09-30 07:46:18 | [aran](https://pypi.org/project/aran/) | 0.1.0 | Aran | 131.2 kB | Aran — a transparent security proxy for MCP stdio servers: blocks destructive t… |
-| 2026-09-30 07:48:11 | [smartcalc-prince-arnaud-ishimwe](https://pypi.org/project/smartcalc-prince-arnaud-ishimwe/) | 0.1.0 | Prince Arnaud Ishimwe <prince… | 23.3 kB | A friendly calculator with a beautiful terminal interface |
-| 2026-09-30 07:50:32 | [transkribus-api](https://pypi.org/project/transkribus-api/) | 0.1.1 | "J. Nathanael Philipp" <jnath… | 22.8 kB | Transkribus API Client. |
-| 2026-09-30 07:51:57 | [calcutils-berard](https://pypi.org/project/calcutils-berard/) | 0.1.1 | Irakoze Murasira Berard <irak… | 3.7 kB | A simple student tutorial math utility package |
-| 2026-09-30 07:56:54 | [narratty](https://pypi.org/project/narratty/) | 0.1.0 | ditschi | 284.6 kB | Turn a YAML script into a narrated terminal video with local TTS, VHS rendering… |
-| 2026-09-30 07:57:43 | [xpath-web](https://pypi.org/project/xpath-web/) | 3.0.5 |  | 1.8 kB | my hand module |
-| 2026-09-30 07:58:42 | [qwen35-ocr-mcp](https://pypi.org/project/qwen35-ocr-mcp/) | 0.1.0 | qwen35-ocr-mcp contributors | 5.3 kB | MCP server for Alibaba Cloud qwen3.5-ocr |
-| 2026-09-30 07:58:44 | [kernel-arjun](https://pypi.org/project/kernel-arjun/) | 0.2.0 | Quantum Thoughter <quantum@mu… | 92.0 kB | The durable-execution kernel for long-horizon AI agents — state that survives r… |
-| 2026-09-30 08:00:19 | [shopee-skynet-log-mcp](https://pypi.org/project/shopee-skynet-log-mcp/) | 0.0.0 | sc | 2.5 kB | A small example package |
-| 2026-09-30 08:00:55 | [astrapdf](https://pypi.org/project/astrapdf/) | 0.1.0 | AstraPDF contributors | 63.9 kB | A private, local-first PDF toolkit and browser studio |
-| 2026-09-30 08:00:56 | [rdstudio](https://pypi.org/project/rdstudio/) | 0.2.0 | Lachlan Stewart | 8.6 MB | Agentic research and development studio: OKF knowledge bundles, a read-only das… |
-| 2026-09-30 08:02:21 | [linkgym](https://pypi.org/project/linkgym/) | 0.1.0 | Pedro Rodrigues | 537.4 kB | A Gymnasium environment for 5G NR link adaptation (MCS selection) built on NVID… |
-| 2026-09-30 08:06:06 | [sluice-intel](https://pypi.org/project/sluice-intel/) | 0.1.0 |  | 103.4 kB | Sluice intelligence sidecar: drift detection, semantic typing, parser proposals… |
-| 2026-09-30 08:06:36 | [alembic-guard](https://pypi.org/project/alembic-guard/) | 0.1.0 | Shalom Hunukumbura | 42.4 kB | Catch Alembic migrations that lock tables or break running code before they rea… |
-| 2026-09-30 08:08:11 | [charset-norm](https://pypi.org/project/charset-norm/) | 4.0.0 | "Ahmed R. TAHRI" <tahri.ahmed… | 33.0 MB | The Real First Universal Charset Detector. Open, modern and actively maintained… |
-| 2026-09-30 08:16:19 | [mcp-tax](https://pypi.org/project/mcp-tax/) | 0.1.0 | hao li | 23.9 kB | Audit the context tax of your MCP servers; toggle them off per session |
-| 2026-09-30 08:17:10 | [rwbe](https://pypi.org/project/rwbe/) | 3.0.5 |  | 3.5 kB | my hand module |
-| 2026-09-30 08:19:07 | [tello-ai-sdk](https://pypi.org/project/tello-ai-sdk/) | 0.1.0 | Tello | 111.9 kB | Tello SDK for Python — WebSocket realtime client for turn-provider-gateway |
+| 2026-09-30 08:21:36 | [nemd](https://pypi.org/project/nemd/) | 0.1.0 |  | 41.8 kB | Fuzzy search for documentation in a codebase |
+| 2026-09-30 08:28:10 | [edgenote](https://pypi.org/project/edgenote/) | 0.1.3 | Md Tareq Shah Alam <tareqshah… | 58.8 MB | Place important notes at the edges of your LLM prompts to fight the lost-in-the… |
+| 2026-09-30 08:28:14 | [ai-models-fuxi-s2s](https://pypi.org/project/ai-models-fuxi-s2s/) | 1.0 | European Centre for Medium-Ra… | 17.8 kB | An ai-models plugin to run Fudan's FuXi-S2S model |
+| 2026-09-30 08:28:31 | [duplicatecode](https://pypi.org/project/duplicatecode/) | 0.1.0 |  | 16.2 MB | Static (LLM-free) detection of duplicate/similar code in Python and TypeScript |
+| 2026-09-30 08:29:15 | [saltrouter-cli](https://pypi.org/project/saltrouter-cli/) | 0.1.0 | Flurin <flurin.laim@gmail.com> | 155.4 kB | Agent-first CLI and Python client for Salt Fiber Box (Sagemcom F@st / XMO API)… |
+| 2026-09-30 08:30:52 | [session-handover](https://pypi.org/project/session-handover/) | 0.1.0 | hao li | 22.1 kB | Hand off a coding-agent session to the next one: reads Claude Code and Codex CL… |
+| 2026-09-30 08:30:56 | [csbe](https://pypi.org/project/csbe/) | 3.0.6 |  | 3.3 kB | my hand module |
+| 2026-09-30 08:32:24 | [selectorprobe](https://pypi.org/project/selectorprobe/) | 0.1.0 | Younes Z. | 29.4 kB | Suggest the CSS selector that holds the body of an article, so a feed reader ca… |
+| 2026-09-30 08:34:08 | [mcp-bytehouse](https://pypi.org/project/mcp-bytehouse/) | 0.2.0 |  | 92.9 kB | An MCP server for ByteHouse. |
+| 2026-09-30 08:34:58 | [spring-cli](https://pypi.org/project/spring-cli/) | 0.1.0 | Nikhil Vibhav | 32.1 kB | Interactive CLI to scaffold Spring Boot (Java/Kotlin) projects, similar to star… |
+| 2026-09-30 08:39:00 | [mywebapi-sdk](https://pypi.org/project/mywebapi-sdk/) | 0.3.0 | CPlugin | 1.0 MB | Python client for the MyWebAPI.com trading platform management API (v2). Genera… |
+| 2026-09-30 08:48:56 | [xactflow-design](https://pypi.org/project/xactflow-design/) | 0.1.0 | Maxime Travaillard | 27.3 kB | XactFlow exporter plugin that serializes an ipxact.Design into IEEE 1685-2022 I… |
+| 2026-09-30 08:52:39 | [food-tools](https://pypi.org/project/food-tools/) | 0.1.0 | dyhur | 3.3 kB | Simple food tools package |
+| 2026-09-30 08:52:40 | [dyhur-food-tools](https://pypi.org/project/dyhur-food-tools/) | 0.1.0 | dyhur | 864 B | Simple food tools package |
+| 2026-09-30 08:53:01 | [mkus-nlu](https://pypi.org/project/mkus-nlu/) | 0.0.1 | Markus QNG | 155.3 kB | Text vietnamese processing |
+| 2026-09-30 08:57:08 | [greeting-ysk](https://pypi.org/project/greeting-ysk/) | 0.1.3 | Yu sungkyeong <ysk@gskku.edu> | 2.9 kB | A simple greeting message package |
+| 2026-09-30 09:00:07 | [gbbq-decrypt](https://pypi.org/project/gbbq-decrypt/) | 1.2.0 | tdx-tools | 47.7 kB | Python C-API extension for TDX GBBQ decryption, DAY parsing and adjustment fact… |
+| 2026-09-30 09:00:13 | [easypyram](https://pypi.org/project/easypyram/) | 2.0.0 | "Per A. Brodtkorb" <per.andre… | 47.0 kB | User-friendly Python implementation of the Range-dependent Acoustic Model (RAM)… |
+| 2026-09-30 09:02:05 | [kinenix](https://pypi.org/project/kinenix/) | 0.1.0b1 | arttopix | 96.5 kB | Core execution engine and standard action libraries for Kinenix RPA platform |
+| 2026-09-30 09:02:07 | [gristcode](https://pypi.org/project/gristcode/) | 0.1.0 | Younes Z. | 21.8 kB | Render a Grist document as readable Python source, offline, straight from the .… |
+| 2026-09-30 09:03:21 | [primalsolver](https://pypi.org/project/primalsolver/) | 0.1.0 | Gaetano Minardi | 3.3 MB | PrimalSolver: dependency-free convex optimization (LP/QP/SOCP/SDP/exp-power/MIP… |
+| 2026-09-30 09:09:49 | [teklia-newspaper](https://pypi.org/project/teklia-newspaper/) | 0.2.0rc2 | Teklia <contact@teklia.com> | 210.1 kB | Scripts for FINLAM \| Newspaper |
+| 2026-09-30 09:10:17 | [rutuja-tools](https://pypi.org/project/rutuja-tools/) | 0.1.0 | Rutuja Phalke | 2.8 kB | My first Python library |
+| 2026-09-30 09:13:05 | [t8assets](https://pypi.org/project/t8assets/) | 0.1.1 |  | 41.5 MB | competition asset bundle |
+| 2026-09-30 09:13:27 | [mortis-spatial](https://pypi.org/project/mortis-spatial/) | 0.1.0 | Faris Hrvat <farishrvatit@gma… | 3.9 MB | Cohort-scale analysis for spatial metabolomics: patient-level statistics, diffe… |
+| 2026-09-30 09:16:07 | [lfx-darkmoon](https://pypi.org/project/lfx-darkmoon/) | 0.1.0 | ASC-IT (Darkmoon) | 29.8 kB | Darkmoon components as a standalone Langflow Extension Bundle: run an authorise… |
+| 2026-09-30 09:16:55 | [consumer-sdk](https://pypi.org/project/consumer-sdk/) | 1.0.0 |  | 12.5 kB |  |
+| 2026-09-30 09:18:07 | [grz-pydantic-models-testing](https://pypi.org/project/grz-pydantic-models-testing/) | 1.1.0 | "Florian R. Hölzlwimmer" <git… | 129.3 kB | Installable test fixtures and example metadata for grz-pydantic-models. |

@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T08:21:36Z,nemd,0.1.0,,MIT,41805,Fuzzy search for documentation in a codebase
+2026-09-30T08:28:10Z,edgenote,0.1.3,Md Tareq Shah Alam <tareqshah.027@gmail.com>,Proprietary,58816039,Place important notes at the edges of your LLM prompts to fight the lost-in-the-middle problem.
+2026-09-30T08:28:14Z,ai-models-fuxi-s2s,1.0,European Centre for Medium-Range Weather Forecasts (ECMWF),Apache License Version 2.0,17809,An ai-models plugin to run Fudan's FuXi-S2S model
+2026-09-30T08:28:31Z,duplicatecode,0.1.0,,MIT,16184781,Static (LLM-free) detection of duplicate/similar code in Python and TypeScript
+2026-09-30T08:29:15Z,saltrouter-cli,0.1.0,Flurin <flurin.laim@gmail.com>,MIT,155395,Agent-first CLI and Python client for Salt Fiber Box (Sagemcom F@st / XMO API) routers
+2026-09-30T08:30:52Z,session-handover,0.1.0,hao li,MIT,22089,"Hand off a coding-agent session to the next one: reads Claude Code and Codex CLI transcripts, generates a handover doc"
+2026-09-30T08:30:56Z,csbe,3.0.6,,,3322,my hand module
+2026-09-30T08:32:24Z,selectorprobe,0.1.0,Younes Z.,MIT,29362,"Suggest the CSS selector that holds the body of an article, so a feed reader can be told where the full text is. Standard library only."
+2026-09-30T08:34:08Z,mcp-bytehouse,0.2.0,,Apache-2.0,92900,An MCP server for ByteHouse.
+2026-09-30T08:34:58Z,spring-cli,0.1.0,Nikhil Vibhav,MIT,32103,"Interactive CLI to scaffold Spring Boot (Java/Kotlin) projects, similar to start.spring.io."
+2026-09-30T08:39:00Z,mywebapi-sdk,0.3.0,CPlugin,MIT,1037914,Python client for the MyWebAPI.com trading platform management API (v2). Generated endpoints + httpx ergonomic layer.
+2026-09-30T08:48:56Z,xactflow-design,0.1.0,Maxime Travaillard,LGPL-3.0-only,27327,XactFlow exporter plugin that serializes an ipxact.Design into IEEE 1685-2022 IP-XACT Design XML.
+2026-09-30T08:52:39Z,food-tools,0.1.0,dyhur,MIT,3283,Simple food tools package
+2026-09-30T08:52:40Z,dyhur-food-tools,0.1.0,dyhur,MIT,864,Simple food tools package
+2026-09-30T08:53:01Z,mkus-nlu,0.0.1,Markus QNG,MIT,155336,Text vietnamese processing
+2026-09-30T08:57:08Z,greeting-ysk,0.1.3,Yu sungkyeong <ysk@gskku.edu>,MIT,2871,A simple greeting message package
+2026-09-30T09:00:07Z,gbbq-decrypt,1.2.0,tdx-tools,MIT,47731,"Python C-API extension for TDX GBBQ decryption, DAY parsing and adjustment factors"
+2026-09-30T09:00:13Z,easypyram,2.0.0,"""Per A. Brodtkorb"" <per.andreas.brodtkorb@gmail.com>",,47016,User-friendly Python implementation of the Range-dependent Acoustic Model (RAM) for underwater acoustics
+2026-09-30T09:02:05Z,kinenix,0.1.0b1,arttopix,MIT,96455,Core execution engine and standard action libraries for Kinenix RPA platform
+2026-09-30T09:02:07Z,gristcode,0.1.0,Younes Z.,MIT,21843,"Render a Grist document as readable Python source, offline, straight from the .grist file. Standard library only."
+2026-09-30T09:03:21Z,primalsolver,0.1.0,Gaetano Minardi,Apache-2.0,3261183,"PrimalSolver: dependency-free convex optimization (LP/QP/SOCP/SDP/exp-power/MIP) in C99, callable from Python via ctypes."
+2026-09-30T09:09:49Z,teklia-newspaper,0.2.0rc2,Teklia <contact@teklia.com>,,210143,Scripts for FINLAM | Newspaper
+2026-09-30T09:10:17Z,rutuja-tools,0.1.0,Rutuja Phalke,,2783,My first Python library
+2026-09-30T09:13:05Z,t8assets,0.1.1,,,41507091,competition asset bundle
+2026-09-30T09:13:27Z,mortis-spatial,0.1.0,Faris Hrvat <farishrvatit@gmail.com>,MIT,3914833,"Cohort-scale analysis for spatial metabolomics: patient-level statistics, differential spatial organization, and publication figures."
+2026-09-30T09:16:07Z,lfx-darkmoon,0.1.0,ASC-IT (Darkmoon),MIT,29787,"Darkmoon components as a standalone Langflow Extension Bundle: run an authorised AI pentest, pull findings, and review the fix pull requests Darkmoon prepares."
+2026-09-30T09:16:55Z,consumer-sdk,1.0.0,,,12451,
+2026-09-30T09:18:07Z,grz-pydantic-models-testing,1.1.0,"""Florian R. Hölzlwimmer"" <git.ich@frhoelzlwimmer.de>, Till Hartmann <till.hartmann@bih-charite.de>",,129339,Installable test fixtures and example metadata for grz-pydantic-models.
