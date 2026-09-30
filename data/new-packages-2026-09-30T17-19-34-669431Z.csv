@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T16:20:01Z,polaris-id-cli,1.0.0rc1,Egor Khaklin <EgorKhaklin@users.noreply.github.com>,Apache-2.0,138517,"Operator command line for a Polaris ID database: lifecycle procedures, governance, audit and read-only SQL against a running Polaris PostgreSQL. Pre-pilot."
+2026-09-30T16:20:07Z,aaes-sdk,0.1.0,AAES,LicenseRef-AAES-Proprietary,80133,"Scoped, dependency-free AAES daemon client"
+2026-09-30T16:21:34Z,graphsolve,1.0.40,Data Insights AI,Apache-2.0,59446,"Client for the GraphSolve engine API: production-network solving, PVT/EOS, flow assurance and transient multiphase flow."
+2026-09-30T16:22:08Z,voss,0.0.1,Ataf Hamada,BUSL-1.1,3141,VOSS: GPU-accelerated prime gap library. Reserved. Full release coming.
+2026-09-30T16:22:58Z,pymizu,0.0.1.dev0,pymizu authors,MIT,10997,Single-producer single-consumer channels
+2026-09-30T16:23:06Z,segmetric-toolkit,0.1.0,Casey Lambert <lambertcase@gmail.com>,MIT,313419,"SegMetric: tools for segmenting, cropping, and measuring. Includes segmetric.tag (crop + name), segmetric.set (filename preset builder), segmetric.scale (ArUco scale + crop), and segmetric.prepare (c…"
+2026-09-30T16:24:55Z,copse,0.2.0,Ehsanur Rahman Rhythm <errhythm.me@gmail.com>,MIT,28279,Task worktrees across git repos
+2026-09-30T16:25:18Z,spaf,1.0.0,geevarghese,MIT,130648,Smart Pentesting Automation Framework — AI-augmented offensive security automation
+2026-09-30T16:26:24Z,astrocoda-cli,0.1.1,Astrocoda contributors,MIT,39397,"Scaffold an Astrocoda pipeline project from a signed, verified release"
+2026-09-30T16:26:47Z,ANNexDB,0.2.0,,MIT OR Apache-2.0,2920205,Python bindings for the ANNex vector search engine.
+2026-09-30T16:27:39Z,kitcar,0.0.1,,,2024,"Placeholder - toolkit for rapidly assembling virtual SDV/AIDV demonstrators (sensors, actuators, event bus). Not yet functional."
+2026-09-30T16:36:58Z,vflask,0.1.1,,,48118,"Modern typed Flask project scaffolder with blueprints, RBAC, and local module generation."
+2026-09-30T16:39:14Z,csoai-evidence-fabric,0.1.0,CSOAI Ltd,Apache-2.0,174128,"csoai.evidence-event/0.1: one evidence event rendered as OCSF 1.9, OTel gen_ai.evaluation.result, SARIF 2.1.0, in-toto, ECS/HEC and W3C ACR v0.1, with an offline Ed25519 verifier. States, never grade…"
+2026-09-30T16:39:22Z,llama-stack-provider-csoai,0.1.0,CSOAI Ltd,Apache-2.0,27174,"Llama Stack out-of-tree eval provider (remote::csoai): verify CSOAI signed evidence batches offline and return each event's state, never a score."
+2026-09-30T16:39:23Z,nat-csoai-evidence,0.1.0,CSOAI Ltd,Apache-2.0,24073,"NeMo Agent Toolkit evaluator: verify a CSOAI signed evidence batch offline and report each event's state (CONSISTENT / DIVERGENT / UNMEASURED ...), never a grade."
+2026-09-30T16:40:14Z,trl-cgrpo,0.2.0,Arya Fayyazi,MIT,32414,"C-GRPO: conformal adaptive rollout budgets for GRPO, as a TRL GRPOTrainer subclass"
+2026-09-30T16:40:23Z,MiniPyFT8,0.0.2,G1OJS <g1ojs@yahoo.com>,GPL-3.0-or-later,58073,FT8 Decoding and Encoding in Python with test/loopback code
+2026-09-30T16:43:03Z,configure-pypi-with-twine,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,8465,Configure Twine credentials for publishing to PyPI.
+2026-09-30T16:43:13Z,github-issue-eraser,0.0.2,Kaizten Analytics,LicenseRef-Proprietary,25836,List and delete closed GitHub issues after backing up issue images.
+2026-09-30T16:45:19Z,reliastra,0.2.0,ReliaAstra,LicenseRef-Proprietary,14442,"RELIASTRA command-line client: probes, verdicts, evidence records, public verification. Thin installer — downloads the platform binary from GitHub Releases on first run and verifies its SHA-256 befor…"
+2026-09-30T16:45:37Z,winuia-auto,0.1.5,lw,Apache-2.0,611765,Python UIAutomation for Windows
+2026-09-30T16:48:46Z,devora-python,0.1.0,Devora,MIT,63137,Devora Python backend SDK for secure impersonation
+2026-09-30T16:52:24Z,wity-sdk,0.1.0,,Apache-2.0,107233,Python SDK for the Wity typed-decision API
+2026-09-30T16:53:48Z,devora-fastapi,0.1.0,Devora,MIT,17541,FastAPI adapter for the Devora Python backend SDK
+2026-09-30T16:57:59Z,sscbirrt,3.0.0,Siddhartha Srinivasa <siddhartha.srinivasa@gmail.com>,MIT,9709923,"CBiRRT: a motion planner over sets of starts, goals, and path constraints, with a C++ core and Task Space Regions"
+2026-09-30T16:58:43Z,boitata,0.2.0,Gustavo Pretto Scholze,MIT,54275081,My Python tooling for day-to-day geostatistics
+2026-09-30T16:58:58Z,pyGdbToolkit,0.1.0,"Florent Valette, Philippe Thierry","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",106301,A complete toolkit for gdb-based audit and debugging
+2026-09-30T16:59:38Z,devora-django,0.1.0,Devora,MIT,19079,Django adapter for the Devora Python backend SDK
+2026-09-30T17:00:34Z,stelvane,0.0.1,Stelvane <hello@stelvanehq.com>,MIT,5239,"Python client stub for Stelvane, a multi-tenant commerce and operations API."
+2026-09-30T17:00:43Z,supernova-connector,1.0.0,Data Genius LLC <support@agenticharness.cloud>,MIT,8782,MCP stdio connector for the Supernova tool marketplace (supernova.cool)
+2026-09-30T17:08:53Z,caspian-db,0.0.1,Jefferson Abraham Omier,MIT,178198,Caspian's native Python client generator for Prisma schema metadata
+2026-09-30T17:09:14Z,sqllocks-shape,0.9.0,,MIT,584215,"Shape by SQLLocks — Shape as Code: profile, check and compare how your data behaves. Early access."
+2026-09-30T17:10:25Z,grove-factory,0.0.11,Krishnakanth Alagiri,MIT,16042022,"A software factory for the coding agents you already use. Give each task a workspace, guide the work with files and diagrams, and follow delivery from ticket to trace."
+2026-09-30T17:10:38Z,querysolo,0.0.0,,Apache-2.0,1511,"QuerySolo, a warehouse for one. Placeholder: the real package ships with the first release."
+2026-09-30T17:12:02Z,pyinstaller-of-death-maggotspawn,1.0.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",5135767,PyQt6 GUI front-end for PyInstaller — Death's Head Software
+2026-09-30T17:12:39Z,prometiam-risk-api,0.1.0,Prometiam <support@prometiam.com>,MIT,24146,"Official Python client for the Prometiam Risk Intelligence API: EU company registry data (ES, FR, GB, IE, PL, NO, FI, SE, HR, BE, DK), corporate insolvency across twelve markets, sanctions screening,…"
+2026-09-30T17:13:42Z,venv-of-death-maggotspawn,1.0.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",3122819,"PyQt6 GUI virtual environment manager with integrated pip package control, drag-and-drop script execution, and live console output"
+2026-09-30T17:15:51Z,sheet-diff,0.2.0,Muhammad Umer <muhammadumer0266@gmail.com>,"MIT License Copyright (c) 2026 Muhammad Umer Permission is hereby granted, free of charge, to any p…",54530,Concise spreadsheet diff utility (CSV/XLSX) with an optional GitHub/VS Code-style web UI
+2026-09-30T17:16:36Z,asteroid-impact-sdoml,0.0.1,"Ruth Altamirano, Malena Chacón, Odei Martinez de Morentin",,43226,"Machine learning project focused on data exploration, model training, visualization, and performance evaluation."
+2026-09-30T17:17:22Z,offlineisbetter,0.1.0,offlineisbetter,,4960,Offline is better.
+2026-09-30T17:18:53Z,pycli-dsl,0.1.0,Vito Vessia,MIT,76995,A Python-compatible DevOps DSL transpiler extending Python with first-class shell command execution

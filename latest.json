@@ -1,55 +1,49 @@
 {
   "list": {
-    "count": 49,
-    "from": "2026-09-30T15:18:42.465204Z",
-    "path": "data/new-packages-2026-09-30T16-18-49-225405Z.csv",
-    "to": "2026-09-30T16:18:49.225405Z"
+    "count": 41,
+    "from": "2026-09-30T16:18:49.225405Z",
+    "path": "data/new-packages-2026-09-30T17-19-34-669431Z.csv",
+    "to": "2026-09-30T17:19:34.669431Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-30T12:25:25Z",
-      "package": "ais-agent-mcp-client",
-      "since": "2026-09-30T12:22:01.977062Z"
+      "attempts": 1,
+      "created_at": "2026-09-30T16:33:10Z",
+      "package": "apache-airflow-providers-lamindb",
+      "since": "2026-09-30T16:18:49.225405Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-30T13:31:48Z",
       "package": "bewit",
       "since": "2026-09-30T13:18:40.6412Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-09-30T12:42:13Z",
-      "package": "bkndb",
-      "since": "2026-09-30T12:22:01.977062Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-09-30T15:11:51Z",
       "package": "cassy-f4e",
       "since": "2026-09-30T14:20:15.761933Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-09-30T12:25:26Z",
-      "package": "corporate-mcp-client",
-      "since": "2026-09-30T12:22:01.977062Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-30T13:11:08Z",
-      "package": "cosmotech-babylon",
-      "since": "2026-09-30T12:22:01.977062Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-30T15:30:37Z",
       "package": "lavlab-cli-utils",
       "since": "2026-09-30T15:18:42.465204Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-30T16:51:12Z",
+      "package": "roman-wfi-reference-file-pipeline",
+      "since": "2026-09-30T16:18:49.225405Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-30T16:48:29Z",
+      "package": "stelvane-api",
+      "since": "2026-09-30T16:18:49.225405Z"
     }
   ],
-  "serial": 41647995,
+  "serial": 41650097,
   "source_truncated": false,
-  "window": "2026-09-30T16:18:49.225405Z"
+  "window": "2026-09-30T17:19:34.669431Z"
 }
