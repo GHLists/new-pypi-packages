@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T06:22:15Z,pyserq,0.1.0,,Apache-2.0,1649137,"serQ in Python: compile a program to its IR and run it, in process"
+2026-09-30T06:22:49Z,selenium-devtools-py,0.1.0,WebdriverIO,MIT,377304,Python Selenium adapter for the WebdriverIO DevTools dashboard
+2026-09-30T06:22:49Z,volcenginesdk-rcs5g,0.0.1,volc-engine,Apache License 2.0,991,Name reservation for the Volcengine Python SDK split package volcenginesdk-rcs5g
+2026-09-30T06:22:58Z,volcenginesdk-rdsmssql,0.0.1,volc-engine,Apache License 2.0,1011,Name reservation for the Volcengine Python SDK split package volcenginesdk-rdsmssql
+2026-09-30T06:23:05Z,volcenginesdk-rdsmysql,0.0.1,volc-engine,Apache License 2.0,1010,Name reservation for the Volcengine Python SDK split package volcenginesdk-rdsmysql
+2026-09-30T06:23:12Z,volcenginesdk-rdsmysqlv2,0.0.1,volc-engine,Apache License 2.0,1026,Name reservation for the Volcengine Python SDK split package volcenginesdk-rdsmysqlv2
+2026-09-30T06:24:29Z,myownchat,0.1.8,MyOwnChat Team <support@marcvali.org>,MIT,34716,MyOwnChat AI Agent Messaging Gateway & SDK
+2026-09-30T06:25:14Z,cafe-kiosk,0.1.0,Nam Hyeongjun <liszt10917@gmail.com>,MIT,4315,cafe package example
+2026-09-30T06:25:34Z,l1-stream,1.0.0,Chunyee Shu,MIT,149526,"Python UDP client for the Unitree L1 LiDAR: packet parsing, thread-safe buffering, and IMU rotation compensation"
+2026-09-30T06:25:50Z,pigtail,0.1.0,Alexandre Amat,MIT,110762,"House wiring as code: model a home's electrical system in YAML, draw it, and check it against the NEC (National Electrical Code)."
+2026-09-30T06:30:54Z,nate-game-engine,0.1.1,nate,MIT,266423,"Nate Game Engine: Python toolkit for game scripting (input, capture, vision)."
+2026-09-30T06:35:58Z,spatialreal,0.1.0,SpatialReal <hello@spatialreal.com>,Apache-2.0,53282,"SpatialReal Python SDK — realtime avatar sessions (audio in, animation/egress out)"
+2026-09-30T06:37:49Z,engparams,0.2.1,Matthew Davidson <matthew@davidson.engineering>,MIT,64715,"Engineering parameters with units: load from YAML, convert to SI, calculate and tabulate."
+2026-09-30T06:43:50Z,nonebot-plugin-redbag-notice,0.1.0,TonyLiangP2010405,MIT,32700,QQ 红包私聊提醒插件：超级用户私聊配置监听群，群内出现红包时私聊通知提醒名单
+2026-09-30T06:47:14Z,noodlelab-science,1.0.0,Nicolas Kalis,MIT,52883,"Science: tables, statistics, signals, time series and parameter studies"
+2026-09-30T06:47:16Z,noodlelab-symbolic,1.0.0,Nicolas Kalis,MIT,51125,"Symbolic maths with SymPy: equations solved, simplified, differentiated and integrated with units"
+2026-09-30T06:48:32Z,pcap-doctor,0.2.0,,MIT,563940,"Offline pcap/pcapng triage: flows, negotiated crypto, weak-cipher and plaintext-exposure detection, Markdown+JSON reports."
+2026-09-30T06:52:21Z,my-smartphone,0.1.0,Seoyeong Youn <younsy1019@gmail.com>,MIT,4744,Smartphone package example
+2026-09-30T06:58:09Z,gmail-inbox-cleanup,0.6.0,Brian Gorzelic,"MIT License Copyright (c) 2026 Brian Gorzelic Permission is hereby granted, free of charge, to any…",117191,"Safety-first CLI for reclaiming a Gmail inbox — one-click unsubscribe, declarative filters, KEEP-list protection."
+2026-09-30T06:59:51Z,robodock-cli,0.1.0,KirigiriSuzumiya <boyifan1@126.com>,,235019,Robodock 平台命令行 & SDK 工具
+2026-09-30T07:02:47Z,kedgeflow,0.0.1,Joel He,,1586,Agentic Control Plane (ACP) core engine
+2026-09-30T07:05:13Z,notefeed,0.2.0,,MIT,11974,"Post markdown notes to a notefeed server, from Python or the command line."
+2026-09-30T07:07:06Z,slam-astro,2.1.0,"Jinshi Sai, Yusuke Aso",GPL-3.0-only,200231,Spectral Line Analysis/Modeling for (sub)millimeter astronomy
+2026-09-30T07:07:07Z,smart-home-sanghyo,0.1.2,Student <student@example.com>,MIT,2911,Smart Home IoT control package
+2026-09-30T07:09:01Z,agentplay,0.1.0,Entelligence AI,Apache-2.0,1807190,"Replay your coding-agent sessions (Claude Code, Codex, Cursor, Copilot, OpenCode, Kiro) and find what's wasting your agent's time. Local only."
+2026-09-30T07:09:18Z,video-explainer-mcp,0.2.1,Fausto,MIT,132641,MCP server for synthesizing explainer videos — wraps prajwal-y/video_explainer CLI
+2026-09-30T07:09:20Z,video-agent-mcp,0.2.1,Fausto,MIT,155289,Parallel scene generation for video explainer pipeline via Claude Agent SDK + FastMCP
+2026-09-30T07:16:35Z,libstb,0.3.0,Mohammad Raziei <mohammadraziei1375@gmail.com>,MIT,51189857,"Python bindings for the stb single-header libraries (image io, resize, fonts). Zero system dependencies."
+2026-09-30T07:16:43Z,codex-statusline,0.1.0,Zimo Xu,MIT,52772,"A tmux statusline for OpenAI Codex CLI: context usage, 5h and weekly quota, and session tokens at a glance. Local-only."
+2026-09-30T07:20:53Z,orangedatatools,1.0.0,,,15833,Package for OrangeData API service
