@@ -8,41 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 07:22 UTC
+## Latest list — 2026-09-30 08:19 UTC
 
-New packages created between 2026-09-30 06:20 UTC and 2026-09-30 07:22 UTC.
+New packages created between 2026-09-30 07:22 UTC and 2026-09-30 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-09-30T07-22-02-07838Z.csv)
+[Full CSV](data/new-packages-2026-09-30T08-19-17-128185Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-30 06:22:15 | [pyserq](https://pypi.org/project/pyserq/) | 0.1.0 |  | 1.6 MB | serQ in Python: compile a program to its IR and run it, in process |
-| 2026-09-30 06:22:49 | [selenium-devtools-py](https://pypi.org/project/selenium-devtools-py/) | 0.1.0 | WebdriverIO | 377.3 kB | Python Selenium adapter for the WebdriverIO DevTools dashboard |
-| 2026-09-30 06:22:49 | [volcenginesdk-rcs5g](https://pypi.org/project/volcenginesdk-rcs5g/) | 0.0.1 | volc-engine | 991 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-rcs5g |
-| 2026-09-30 06:22:58 | [volcenginesdk-rdsmssql](https://pypi.org/project/volcenginesdk-rdsmssql/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-rdsm… |
-| 2026-09-30 06:23:05 | [volcenginesdk-rdsmysql](https://pypi.org/project/volcenginesdk-rdsmysql/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-rdsm… |
-| 2026-09-30 06:23:12 | [volcenginesdk-rdsmysqlv2](https://pypi.org/project/volcenginesdk-rdsmysqlv2/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-rdsm… |
-| 2026-09-30 06:24:29 | [myownchat](https://pypi.org/project/myownchat/) | 0.1.8 | MyOwnChat Team <support@marcv… | 34.7 kB | MyOwnChat AI Agent Messaging Gateway & SDK |
-| 2026-09-30 06:25:14 | [cafe-kiosk](https://pypi.org/project/cafe-kiosk/) | 0.1.0 | Nam Hyeongjun <liszt10917@gma… | 4.3 kB | cafe package example |
-| 2026-09-30 06:25:34 | [l1-stream](https://pypi.org/project/l1-stream/) | 1.0.0 | Chunyee Shu | 149.5 kB | Python UDP client for the Unitree L1 LiDAR: packet parsing, thread-safe bufferi… |
-| 2026-09-30 06:25:50 | [pigtail](https://pypi.org/project/pigtail/) | 0.1.0 | Alexandre Amat | 110.8 kB | House wiring as code: model a home's electrical system in YAML, draw it, and ch… |
-| 2026-09-30 06:30:54 | [nate-game-engine](https://pypi.org/project/nate-game-engine/) | 0.1.1 | nate | 266.4 kB | Nate Game Engine: Python toolkit for game scripting (input, capture, vision). |
-| 2026-09-30 06:35:58 | [spatialreal](https://pypi.org/project/spatialreal/) | 0.1.0 | SpatialReal <hello@spatialrea… | 53.3 kB | SpatialReal Python SDK — realtime avatar sessions (audio in, animation/egress o… |
-| 2026-09-30 06:37:49 | [engparams](https://pypi.org/project/engparams/) | 0.2.1 | Matthew Davidson <matthew@dav… | 64.7 kB | Engineering parameters with units: load from YAML, convert to SI, calculate and… |
-| 2026-09-30 06:43:50 | [nonebot-plugin-redbag-notice](https://pypi.org/project/nonebot-plugin-redbag-notice/) | 0.1.0 | TonyLiangP2010405 | 32.7 kB | QQ 红包私聊提醒插件：超级用户私聊配置监听群，群内出现红包时私聊通知提醒名单 |
-| 2026-09-30 06:47:14 | [noodlelab-science](https://pypi.org/project/noodlelab-science/) | 1.0.0 | Nicolas Kalis | 52.9 kB | Science: tables, statistics, signals, time series and parameter studies |
-| 2026-09-30 06:47:16 | [noodlelab-symbolic](https://pypi.org/project/noodlelab-symbolic/) | 1.0.0 | Nicolas Kalis | 51.1 kB | Symbolic maths with SymPy: equations solved, simplified, differentiated and int… |
-| 2026-09-30 06:48:32 | [pcap-doctor](https://pypi.org/project/pcap-doctor/) | 0.2.0 |  | 563.9 kB | Offline pcap/pcapng triage: flows, negotiated crypto, weak-cipher and plaintext… |
-| 2026-09-30 06:52:21 | [my-smartphone](https://pypi.org/project/my-smartphone/) | 0.1.0 | Seoyeong Youn <younsy1019@gma… | 4.7 kB | Smartphone package example |
-| 2026-09-30 06:58:09 | [gmail-inbox-cleanup](https://pypi.org/project/gmail-inbox-cleanup/) | 0.6.0 | Brian Gorzelic | 117.2 kB | Safety-first CLI for reclaiming a Gmail inbox — one-click unsubscribe, declarat… |
-| 2026-09-30 06:59:51 | [robodock-cli](https://pypi.org/project/robodock-cli/) | 0.1.0 | KirigiriSuzumiya <boyifan1@12… | 235.0 kB | Robodock 平台命令行 & SDK 工具 |
-| 2026-09-30 07:02:47 | [kedgeflow](https://pypi.org/project/kedgeflow/) | 0.0.1 | Joel He | 1.6 kB | Agentic Control Plane (ACP) core engine |
-| 2026-09-30 07:05:13 | [notefeed](https://pypi.org/project/notefeed/) | 0.2.0 |  | 12.0 kB | Post markdown notes to a notefeed server, from Python or the command line. |
-| 2026-09-30 07:07:06 | [slam-astro](https://pypi.org/project/slam-astro/) | 2.1.0 | Jinshi Sai, Yusuke Aso | 200.2 kB | Spectral Line Analysis/Modeling for (sub)millimeter astronomy |
-| 2026-09-30 07:07:07 | [smart-home-sanghyo](https://pypi.org/project/smart-home-sanghyo/) | 0.1.2 | Student <student@example.com> | 2.9 kB | Smart Home IoT control package |
-| 2026-09-30 07:09:01 | [agentplay](https://pypi.org/project/agentplay/) | 0.1.0 | Entelligence AI | 1.8 MB | Replay your coding-agent sessions (Claude Code, Codex, Cursor, Copilot, OpenCod… |
-| 2026-09-30 07:09:18 | [video-explainer-mcp](https://pypi.org/project/video-explainer-mcp/) | 0.2.1 | Fausto | 132.6 kB | MCP server for synthesizing explainer videos — wraps prajwal-y/video_explainer… |
-| 2026-09-30 07:09:20 | [video-agent-mcp](https://pypi.org/project/video-agent-mcp/) | 0.2.1 | Fausto | 155.3 kB | Parallel scene generation for video explainer pipeline via Claude Agent SDK + F… |
-| 2026-09-30 07:16:35 | [libstb](https://pypi.org/project/libstb/) | 0.3.0 | Mohammad Raziei <mohammadrazi… | 51.2 MB | Python bindings for the stb single-header libraries (image io, resize, fonts).… |
-| 2026-09-30 07:16:43 | [codex-statusline](https://pypi.org/project/codex-statusline/) | 0.1.0 | Zimo Xu | 52.8 kB | A tmux statusline for OpenAI Codex CLI: context usage, 5h and weekly quota, and… |
-| 2026-09-30 07:20:53 | [orangedatatools](https://pypi.org/project/orangedatatools/) | 1.0.0 |  | 15.8 kB | Package for OrangeData API service |
+| 2026-09-30 07:22:45 | [zgram-py](https://pypi.org/project/zgram-py/) | 0.1.0 | Daniele Linguaglossa | 37.8 MB | JIT-compiled PEG parser generator: grammars compile to native SIMD code via LLV… |
+| 2026-09-30 07:25:14 | [memgovern](https://pypi.org/project/memgovern/) | 0.1.0 | hao li | 26.0 kB | Memory governance for AI agents: decay, tombstones, conflict arbitration, audit |
+| 2026-09-30 07:25:17 | [browser-buddy-mcp](https://pypi.org/project/browser-buddy-mcp/) | 0.1.1 | hao li | 8.4 kB | MCP server that lets coding agents read pages through your real, logged-in Chro… |
+| 2026-09-30 07:25:50 | [shinnjyuu-echo-kit](https://pypi.org/project/shinnjyuu-echo-kit/) | 0.1.1 |  | 106.3 kB | Reusable experiments and verification workflows for AI coding assistants |
+| 2026-09-30 07:26:02 | [py-centrometal-web-boiler-androflo](https://pypi.org/project/py-centrometal-web-boiler-androflo/) | 0.0.59 | Tihomir Heidelberg | 45.2 kB | Python library to interact with Centrometal Boiler System. |
+| 2026-09-30 07:27:22 | [heart-fusion](https://pypi.org/project/heart-fusion/) | 2.0.0 |  | 16.1 kB | 用对偶共存(Dual z=a+ib)替换 Transformer argmax 的融合函数库 — 两极/多极共存, 不剔变量 |
+| 2026-09-30 07:28:49 | [devpilot-mcp](https://pypi.org/project/devpilot-mcp/) | 0.1.0 | Kaustubh Dwivedi | 210.5 kB | An MCP server that gives AI models structured, security-conscious access to a s… |
+| 2026-09-30 07:29:36 | [ai-models-fengyuan](https://pypi.org/project/ai-models-fengyuan/) | 1.0 | European Centre for Medium-Ra… | 17.2 kB | An ai-models plugin to run MetAILab's FengYuan-Weather model |
+| 2026-09-30 07:31:03 | [reliax-certificate](https://pypi.org/project/reliax-certificate/) | 0.1.0 | Reliax | 42.5 kB | The Reliax certificate: envelope schema v16 with a class on every field, the ca… |
+| 2026-09-30 07:31:19 | [reliax-core](https://pypi.org/project/reliax-core/) | 0.2.1 | Reliax | 68.8 kB | Method components of the Reliax reliability envelope: split and Mondrian confor… |
+| 2026-09-30 07:33:42 | [semiconductor-chaerin](https://pypi.org/project/semiconductor-chaerin/) | 0.1.3 | Lim Chaerin <dlacofls0@naver.… | 5.0 kB | Chaerin package example |
+| 2026-09-30 07:36:45 | [dlv](https://pypi.org/project/dlv/) | 0.1.0 | Thomas Kirchner <thomas.kirch… | 68.7 kB | Verilog module -> Verilator + nanobind -> importable Python module |
+| 2026-09-30 07:39:34 | [lpsignal](https://pypi.org/project/lpsignal/) | 0.1.0 |  | 37.4 kB | Official LPSignal SDK: net-of-IL APR signals for concentrated-liquidity pools,… |
+| 2026-09-30 07:40:22 | [telexporter](https://pypi.org/project/telexporter/) | 1.0.3 | Mhd Zeid Mahfouz <mhd.zeid.ma… | 40.8 kB | Forward new emails from IMAP mailboxes to Telegram forum topics in real time. |
+| 2026-09-30 07:41:29 | [scholar-auth](https://pypi.org/project/scholar-auth/) | 0.0.2 | Wolfgang Fahl <wf@WolfgangFah… | 29.4 kB | ORCID based OAuth login and authorization for scholarly applications - reusable… |
+| 2026-09-30 07:42:50 | [calcutils-cyizere](https://pypi.org/project/calcutils-cyizere/) | 0.1.0 | Cyizere-Happy <happycyizere69… | 5.3 kB | A simple student tutorial math utility package |
+| 2026-09-30 07:46:18 | [aran](https://pypi.org/project/aran/) | 0.1.0 | Aran | 131.2 kB | Aran — a transparent security proxy for MCP stdio servers: blocks destructive t… |
+| 2026-09-30 07:48:11 | [smartcalc-prince-arnaud-ishimwe](https://pypi.org/project/smartcalc-prince-arnaud-ishimwe/) | 0.1.0 | Prince Arnaud Ishimwe <prince… | 23.3 kB | A friendly calculator with a beautiful terminal interface |
+| 2026-09-30 07:50:32 | [transkribus-api](https://pypi.org/project/transkribus-api/) | 0.1.1 | "J. Nathanael Philipp" <jnath… | 22.8 kB | Transkribus API Client. |
+| 2026-09-30 07:51:57 | [calcutils-berard](https://pypi.org/project/calcutils-berard/) | 0.1.1 | Irakoze Murasira Berard <irak… | 3.7 kB | A simple student tutorial math utility package |
+| 2026-09-30 07:56:54 | [narratty](https://pypi.org/project/narratty/) | 0.1.0 | ditschi | 284.6 kB | Turn a YAML script into a narrated terminal video with local TTS, VHS rendering… |
+| 2026-09-30 07:57:43 | [xpath-web](https://pypi.org/project/xpath-web/) | 3.0.5 |  | 1.8 kB | my hand module |
+| 2026-09-30 07:58:42 | [qwen35-ocr-mcp](https://pypi.org/project/qwen35-ocr-mcp/) | 0.1.0 | qwen35-ocr-mcp contributors | 5.3 kB | MCP server for Alibaba Cloud qwen3.5-ocr |
+| 2026-09-30 07:58:44 | [kernel-arjun](https://pypi.org/project/kernel-arjun/) | 0.2.0 | Quantum Thoughter <quantum@mu… | 92.0 kB | The durable-execution kernel for long-horizon AI agents — state that survives r… |
+| 2026-09-30 08:00:19 | [shopee-skynet-log-mcp](https://pypi.org/project/shopee-skynet-log-mcp/) | 0.0.0 | sc | 2.5 kB | A small example package |
+| 2026-09-30 08:00:55 | [astrapdf](https://pypi.org/project/astrapdf/) | 0.1.0 | AstraPDF contributors | 63.9 kB | A private, local-first PDF toolkit and browser studio |
+| 2026-09-30 08:00:56 | [rdstudio](https://pypi.org/project/rdstudio/) | 0.2.0 | Lachlan Stewart | 8.6 MB | Agentic research and development studio: OKF knowledge bundles, a read-only das… |
+| 2026-09-30 08:02:21 | [linkgym](https://pypi.org/project/linkgym/) | 0.1.0 | Pedro Rodrigues | 537.4 kB | A Gymnasium environment for 5G NR link adaptation (MCS selection) built on NVID… |
+| 2026-09-30 08:06:06 | [sluice-intel](https://pypi.org/project/sluice-intel/) | 0.1.0 |  | 103.4 kB | Sluice intelligence sidecar: drift detection, semantic typing, parser proposals… |
+| 2026-09-30 08:06:36 | [alembic-guard](https://pypi.org/project/alembic-guard/) | 0.1.0 | Shalom Hunukumbura | 42.4 kB | Catch Alembic migrations that lock tables or break running code before they rea… |
+| 2026-09-30 08:08:11 | [charset-norm](https://pypi.org/project/charset-norm/) | 4.0.0 | "Ahmed R. TAHRI" <tahri.ahmed… | 33.0 MB | The Real First Universal Charset Detector. Open, modern and actively maintained… |
+| 2026-09-30 08:16:19 | [mcp-tax](https://pypi.org/project/mcp-tax/) | 0.1.0 | hao li | 23.9 kB | Audit the context tax of your MCP servers; toggle them off per session |
+| 2026-09-30 08:17:10 | [rwbe](https://pypi.org/project/rwbe/) | 3.0.5 |  | 3.5 kB | my hand module |
+| 2026-09-30 08:19:07 | [tello-ai-sdk](https://pypi.org/project/tello-ai-sdk/) | 0.1.0 | Tello | 111.9 kB | Tello SDK for Python — WebSocket realtime client for turn-provider-gateway |

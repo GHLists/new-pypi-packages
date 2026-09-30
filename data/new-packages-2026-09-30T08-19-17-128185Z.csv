@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T07:22:45Z,zgram-py,0.1.0,Daniele Linguaglossa,MIT,37845878,"JIT-compiled PEG parser generator: grammars compile to native SIMD code via LLVM, in-process."
+2026-09-30T07:25:14Z,memgovern,0.1.0,hao li,MIT,25998,"Memory governance for AI agents: decay, tombstones, conflict arbitration, audit"
+2026-09-30T07:25:17Z,browser-buddy-mcp,0.1.1,hao li,MIT,8400,"MCP server that lets coding agents read pages through your real, logged-in Chrome (companion to the browser-buddy Chrome extension)"
+2026-09-30T07:25:50Z,shinnjyuu-echo-kit,0.1.1,,MIT,106282,Reusable experiments and verification workflows for AI coding assistants
+2026-09-30T07:26:02Z,py-centrometal-web-boiler-androflo,0.0.59,Tihomir Heidelberg,,45208,Python library to interact with Centrometal Boiler System.
+2026-09-30T07:27:22Z,heart-fusion,2.0.0,,MIT,16075,"用对偶共存(Dual z=a+ib)替换 Transformer argmax 的融合函数库 — 两极/多极共存, 不剔变量"
+2026-09-30T07:28:49Z,devpilot-mcp,0.1.0,Kaustubh Dwivedi,MIT,210454,"An MCP server that gives AI models structured, security-conscious access to a software repository, including controlled patching and test execution."
+2026-09-30T07:29:36Z,ai-models-fengyuan,1.0,European Centre for Medium-Range Weather Forecasts (ECMWF),Apache License Version 2.0,17156,An ai-models plugin to run MetAILab's FengYuan-Weather model
+2026-09-30T07:31:03Z,reliax-certificate,0.1.0,Reliax,Apache-2.0,42459,"The Reliax certificate: envelope schema v16 with a class on every field, the canonical-JSON SHA-256 hash chain, the wording template and banned wording, the fidelity check, and the verifier (reliax v…"
+2026-09-30T07:31:19Z,reliax-core,0.2.1,Reliax,Apache-2.0,68828,"Method components of the Reliax reliability envelope: split and Mondrian conformal sets, Venn-Abers brackets, a conformal test martingale, the credibility p-value, the fast-loop evaluator with route…"
+2026-09-30T07:33:42Z,semiconductor-chaerin,0.1.3,Lim Chaerin <dlacofls0@naver.com>,MIT,5009,Chaerin package example
+2026-09-30T07:36:45Z,dlv,0.1.0,Thomas Kirchner <thomas.kirchner5@web.de>,MIT,68746,Verilog module -> Verilator + nanobind -> importable Python module
+2026-09-30T07:39:34Z,lpsignal,0.1.0,,MIT,37359,"Official LPSignal SDK: net-of-IL APR signals for concentrated-liquidity pools, a WebSocket stream that never misses a signal, webhook verification and the REST API."
+2026-09-30T07:40:22Z,telexporter,1.0.3,Mhd Zeid Mahfouz <mhd.zeid.mahfouz@gmail.com>,MIT,40779,Forward new emails from IMAP mailboxes to Telegram forum topics in real time.
+2026-09-30T07:41:29Z,scholar-auth,0.0.2,Wolfgang Fahl <wf@WolfgangFahl.com>,Apache-2.0,29425,ORCID based OAuth login and authorization for scholarly applications - reusable across multiple systems and independent of the web framework
+2026-09-30T07:42:50Z,calcutils-cyizere,0.1.0,Cyizere-Happy <happycyizere69@gmail.com>,,5312,A simple student tutorial math utility package
+2026-09-30T07:46:18Z,aran,0.1.0,Aran,MIT,131239,Aran — a transparent security proxy for MCP stdio servers: blocks destructive tool calls and redacts prompt-injection payloads before they reach your agent or your machine.
+2026-09-30T07:48:11Z,smartcalc-prince-arnaud-ishimwe,0.1.0,Prince Arnaud Ishimwe <princeishimwe754@gmail.com>,MIT,23310,A friendly calculator with a beautiful terminal interface
+2026-09-30T07:50:32Z,transkribus-api,0.1.1,"""J. Nathanael Philipp"" <jnathanael@philipp.land>",GPL-3.0-or-later,22812,Transkribus API Client.
+2026-09-30T07:51:57Z,calcutils-berard,0.1.1,Irakoze Murasira Berard <irakozeberard@rca.ac.rw>,,3729,A simple student tutorial math utility package
+2026-09-30T07:56:54Z,narratty,0.1.0,ditschi,MIT,284570,"Turn a YAML script into a narrated terminal video with local TTS, VHS rendering and automatic voiceover sync."
+2026-09-30T07:57:43Z,xpath-web,3.0.5,,,1812,my hand module
+2026-09-30T07:58:42Z,qwen35-ocr-mcp,0.1.0,qwen35-ocr-mcp contributors,MIT,5350,MCP server for Alibaba Cloud qwen3.5-ocr
+2026-09-30T07:58:44Z,kernel-arjun,0.2.0,Quantum Thoughter <quantum@murugan.ai>,MIT,91991,"The durable-execution kernel for long-horizon AI agents — state that survives restarts, budgets that are law, completion that is verified."
+2026-09-30T08:00:19Z,shopee-skynet-log-mcp,0.0.0,sc,BSD License,2480,A small example package
+2026-09-30T08:00:55Z,astrapdf,0.1.0,AstraPDF contributors,MIT,63932,"A private, local-first PDF toolkit and browser studio"
+2026-09-30T08:00:56Z,rdstudio,0.2.0,Lachlan Stewart,,8628533,"Agentic research and development studio: OKF knowledge bundles, a read-only dashboard, MCP and skills."
+2026-09-30T08:02:21Z,linkgym,0.1.0,Pedro Rodrigues,MIT,537400,"A Gymnasium environment for 5G NR link adaptation (MCS selection) built on NVIDIA Sionna SYS, with classical baselines and a fixed evaluation protocol."
+2026-09-30T08:06:06Z,sluice-intel,0.1.0,,MIT,103392,"Sluice intelligence sidecar: drift detection, semantic typing, parser proposals. Propose-only, off the hot path."
+2026-09-30T08:06:36Z,alembic-guard,0.1.0,Shalom Hunukumbura,MIT,42437,Catch Alembic migrations that lock tables or break running code before they reach production.
+2026-09-30T08:08:11Z,charset-norm,4.0.0,"""Ahmed R. TAHRI"" <tahri.ahmed@proton.me>",MIT,32979966,"The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet."
+2026-09-30T08:16:19Z,mcp-tax,0.1.0,hao li,MIT,23861,Audit the context tax of your MCP servers; toggle them off per session
+2026-09-30T08:17:10Z,rwbe,3.0.5,,,3479,my hand module
+2026-09-30T08:19:07Z,tello-ai-sdk,0.1.0,Tello,Apache-2.0,111878,Tello SDK for Python — WebSocket realtime client for turn-provider-gateway
