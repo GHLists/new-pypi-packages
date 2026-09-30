@@ -8,42 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 23:19 UTC
+## Latest list — 2026-09-30 00:18 UTC
 
-New packages created between 2026-09-29 22:18 UTC and 2026-09-29 23:19 UTC.
+New packages created between 2026-09-29 23:19 UTC and 2026-09-30 00:18 UTC.
 
-[Full CSV](data/new-packages-2026-09-29T23-19-13-935092Z.csv)
+[Full CSV](data/new-packages-2026-09-30T00-18-37-565358Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-29 22:19:27 | [progeny-selector](https://pypi.org/project/progeny-selector/) | 0.1.0 | Pierce Taylor | 637.1 kB | Marker-assisted backcross progeny ranking and selection: foreground, background… |
-| 2026-09-29 22:22:09 | [phistory](https://pypi.org/project/phistory/) | 0.2.2 | amorriso | 24.4 kB | Per-script argparse command history and YAML configuration |
-| 2026-09-29 22:22:39 | [mimo-asr-vllm](https://pypi.org/project/mimo-asr-vllm/) | 0.1.1 | Yuhao Du <yuhaodu1@link.cuhk.… | 78.8 kB | Fast MiMo-V2.5-ASR inference and OpenAI-compatible serving with vLLM |
-| 2026-09-29 22:24:29 | [diagval-premium](https://pypi.org/project/diagval-premium/) | 0.0.1 |  | 2.5 kB | Premium cross-layer/requirements packs for diagval — name reserved. |
-| 2026-09-29 22:24:33 | [diagtwin-premium](https://pypi.org/project/diagtwin-premium/) | 0.0.1 |  | 2.5 kB | Premium scenarios/multi-ECU/record-replay for diagtwin — name reserved. |
-| 2026-09-29 22:25:18 | [rag-quality-check](https://pypi.org/project/rag-quality-check/) | 0.1.0 | Pranay Mahendrakar | 66.2 kB | Measure whether a retrieval system is actually retrieving the right things |
-| 2026-09-29 22:26:08 | [llm-router-lite](https://pypi.org/project/llm-router-lite/) | 0.1.0 | Pranay Mahendrakar | 80.8 kB | Send each prompt to the cheapest model that can handle it, and fall back when o… |
-| 2026-09-29 22:30:42 | [streamdedup](https://pypi.org/project/streamdedup/) | 0.1.0 | "Taiwo Hassan (Tycoach)" <dav… | 22.5 kB | Reusable streaming deduplication and late-arrival watermarking for data pipelin… |
-| 2026-09-29 22:30:43 | [normschores](https://pypi.org/project/normschores/) | 0.2.0 | Thomas H. Jørgensen, Adam Hal… | 4.8 MB | Structural household model of gender norms and the division of market work, cho… |
-| 2026-09-29 22:32:57 | [goodmem-crewai](https://pypi.org/project/goodmem-crewai/) | 0.4.0 | PAIR Systems Inc | 88.0 kB | GoodMem knowledge storage and RAG tools for CrewAI agents |
-| 2026-09-29 22:34:19 | [aifs-hints](https://pypi.org/project/aifs-hints/) | 0.2.0 |  | 27.0 kB | Graduated hints (nudge / hint / scaffold) for exercise notebooks |
-| 2026-09-29 22:36:18 | [mateprobe](https://pypi.org/project/mateprobe/) | 0.1.0a4 | Mate4B and MateProbe contribu… | 708.0 kB | Mutation testing for your validators, by Mate4B |
-| 2026-09-29 22:37:36 | [pytest-mateprobe](https://pypi.org/project/pytest-mateprobe/) | 0.1.0a4 |  | 8.3 kB | Pytest fixtures and reports for mateprobe |
-| 2026-09-29 22:37:55 | [shisa-de](https://pypi.org/project/shisa-de/) | 0.1.1 | Shisa AI | 83.7 kB | Talk to Shisa DE-1 decision models: typed questions in, typed answers out |
-| 2026-09-29 22:45:47 | [aidd-cli](https://pypi.org/project/aidd-cli/) | 0.1.0 |  | 53.6 kB | AIDD — a methodology for working with AI coding agents (CLI distribution) |
-| 2026-09-29 22:46:03 | [hcoona-release-smoke-python](https://pypi.org/project/hcoona-release-smoke-python/) | 0.1.0b43 |  | 4.1 kB |  |
-| 2026-09-29 22:46:13 | [gcve-sbom-analyzer](https://pypi.org/project/gcve-sbom-analyzer/) | 0.1.0 | Samy DIFALLAH <samy.dflh@gmai… | 134.3 kB | CLI tool that cross-references SBOM components against the GCVE vulnerability d… |
-| 2026-09-29 22:48:58 | [remoterf-federation-core](https://pypi.org/project/remoterf-federation-core/) | 0.16.0 |  | 55.0 kB | Hardware-free RemoteRF deployment protocol schemas |
-| 2026-09-29 22:50:08 | [py1815](https://pypi.org/project/py1815/) | 0.1.0 |  | 461.2 kB | A DNP3 (IEEE 1815) outstation in pure Python |
-| 2026-09-29 22:50:13 | [forge-agent-lens-for-google-antigravity](https://pypi.org/project/forge-agent-lens-for-google-antigravity/) | 0.1.1 | CoreWeave | 124.9 kB | CoreWeave Forge Agent Lens tracing for Google Antigravity |
-| 2026-09-29 22:52:17 | [delta-sharing-sso](https://pypi.org/project/delta-sharing-sso/) | 0.2.0 | Nikhil Sontakke <nikhilsontak… | 53.4 kB | A lightweight Python client for Delta Sharing tables, authenticated via Keycloa… |
-| 2026-09-29 22:53:25 | [abstract-serve-core](https://pypi.org/project/abstract-serve-core/) | 0.1.1 |  | 584.4 kB | Provider-neutral shared Serve console for Claude, GPT, Hugpy, and local model b… |
-| 2026-09-29 22:54:10 | [pytest-embedded-arduino-cli-ch32rv](https://pypi.org/project/pytest-embedded-arduino-cli-ch32rv/) | 0.0.1 | TANAKA Masayuki | 33.0 kB | pytest-embedded-arduino-cli plugin for CH32 boards flashed by ch32rv: the ch32r… |
-| 2026-09-29 22:54:22 | [blackhole-sec](https://pypi.org/project/blackhole-sec/) | 0.1.0 | Satin Networks | 48.5 kB | Offline phishing checks, encrypted vault, metadata shredder and secure .bhb arc… |
-| 2026-09-29 23:00:00 | [postfinder](https://pypi.org/project/postfinder/) | 0.1.0 | PostFinder | 38.2 kB | Find post offices, parcel lockers and post boxes near a point, and look up post… |
-| 2026-09-29 23:03:11 | [ffswak](https://pypi.org/project/ffswak/) | 0.1.0 |  | 114.2 kB | A Python wrapper for common ffmpeg video editing tasks |
-| 2026-09-29 23:06:36 | [fathom-lake](https://pypi.org/project/fathom-lake/) | 0.1.0 | Myra Krusemark | 542.1 kB | A self-provenance-generating, closed-loop memory for LLM agents. One SQLite fil… |
-| 2026-09-29 23:13:21 | [gea-program](https://pypi.org/project/gea-program/) | 0.1.0 | Daniel T. Murphy | 1.1 MB | GEA-Program: downhole gauge monitoring - canonical measurement records, quality… |
-| 2026-09-29 23:14:57 | [graph-agents-cli](https://pypi.org/project/graph-agents-cli/) | 0.3.1 | graph-agents-cli contributors | 3.3 MB | CLI and skills for building, evaluating, and deploying LangGraph agents on self… |
-| 2026-09-29 23:18:38 | [foxbit-group-rest-api](https://pypi.org/project/foxbit-group-rest-api/) | 0.1.2 | Foxbit | 441.3 kB | Foxbit REST API |
-| 2026-09-29 23:18:57 | [power-openapi-models](https://pypi.org/project/power-openapi-models/) | 0.1.0 | Sienna Platform | 111.7 kB | Typed Python models for the Sienna power system data format |
+| 2026-09-29 23:19:31 | [uefi-mirror](https://pypi.org/project/uefi-mirror/) | 1.2.0 |  | 249.2 kB | Read-only cross-platform exporter for live UEFI/BIOS settings |
+| 2026-09-29 23:24:09 | [spotgpu-mcp](https://pypi.org/project/spotgpu-mcp/) | 0.1.0 | SpotGPU | 10.4 kB | SpotGPU MCP server — spot GPU rental prices via GET /v1/spot |
+| 2026-09-29 23:24:32 | [trustarc-cli](https://pypi.org/project/trustarc-cli/) | 1.0.0 | TrustArc | 26.9 kB | Command-line interface for the TrustArc platform APIs |
+| 2026-09-29 23:29:50 | [us-synthetic-names](https://pypi.org/project/us-synthetic-names/) | 0.3.0 |  | 46.3 kB | Generate US synthetic names from versioned government-derived dataset releases |
+| 2026-09-29 23:31:07 | [pythograph](https://pypi.org/project/pythograph/) | 0.1.0 | ictechgy | 465.0 kB | Static facts for Python (Django, Django REST framework, Flask, SQLAlchemy) serv… |
+| 2026-09-29 23:39:09 | [climify_api](https://pypi.org/project/climify_api/) | 1.0.38 | Climify Aps <info@climify.com> | 123.5 kB | A wrapper library for the Climify REST API |
+| 2026-09-29 23:39:44 | [shelfinventory](https://pypi.org/project/shelfinventory/) | 0.1.0 | Younes Z. | 28.1 kB | Export an Audiobookshelf library to CSV, one row per book, with the columns peo… |
+| 2026-09-29 23:42:19 | [yunshu](https://pypi.org/project/yunshu/) | 0.1.1 | YuhuanStudio | 3.9 MB | Fast local LLM/VLM inference engine for Apple Silicon — lossless speculative de… |
+| 2026-09-29 23:42:47 | [groundline](https://pypi.org/project/groundline/) | 0.1.1 |  | 173.9 kB | Verifiable AI agent for engine test data: every number in the report traces bac… |
+| 2026-09-29 23:49:06 | [ciscoyoke](https://pypi.org/project/ciscoyoke/) | 0.1.0a1 | Ryan Clinton | 438.6 kB | Rescue old Cisco hardware from the serial console: identify, preserve, recover… |
+| 2026-09-29 23:51:02 | [simcon-toolkit](https://pypi.org/project/simcon-toolkit/) | 0.1.0 | SIMCON kunststofftechnische S… | 582.9 kB | Put a working Cadmould example project on your machine. |
+| 2026-09-29 23:51:42 | [rate-client](https://pypi.org/project/rate-client/) | 0.1.0 | Harison | 5.0 kB | rate estimator application |
+| 2026-09-29 23:53:36 | [claude-opencode-sessions](https://pypi.org/project/claude-opencode-sessions/) | 0.1.2 | Artur Barseghyan <artur.barse… | 92.6 kB | Import your opencode sessions for the current repository into Claude Code, so t… |
+| 2026-09-29 23:53:39 | [bend-python](https://pypi.org/project/bend-python/) | 0.1.0 | Lucas Wiman | 86.8 kB | Write CPython extensions in Bend 2, with laws proved at build time |
+| 2026-09-29 23:54:38 | [peal-xai](https://pypi.org/project/peal-xai/) | 0.1.0 | Sidney Bender and the PEAL co… | 4.1 MB | PEAL: counterfactual explanation and repair of image classifiers and foundation… |
+| 2026-09-29 23:58:18 | [qai-cli](https://pypi.org/project/qai-cli/) | 0.1.0 | Nodoubvt | 67.2 kB | Offline terminal coding agent. Runs Qwen2.5-Coder 1.5B locally via llama.cpp -… |
+| 2026-09-29 23:58:25 | [ordel](https://pypi.org/project/ordel/) | 0.3.1 | Ordel | 11.1 kB | Alias for ordel-cli, the Ordel free CLI: local QA automation your coding agent… |
+| 2026-09-29 23:58:27 | [rainbow-rb-sdk-stubs](https://pypi.org/project/rainbow-rb-sdk-stubs/) | 0.1.4.dev1 |  | 1.5 MB | Type stubs for rainbow.* SDK packages (editor use on platforms without native w… |
+| 2026-09-29 23:58:51 | [peal-xai-rae](https://pypi.org/project/peal-xai-rae/) | 0.1.0 | Sidney Bender and the PEAL co… | 455.0 kB | RAEv2 fork for PEAL's RAE generators (CC BY-NC 4.0, non-commercial use only). |
+| 2026-09-30 00:02:01 | [simdpunk](https://pypi.org/project/simdpunk/) | 0.1.0.dev1 |  | 213.2 kB | Python access to simdpunk, a header-only quantized-tensor kernel library |
+| 2026-09-30 00:11:29 | [gramps-evidence-mcp](https://pypi.org/project/gramps-evidence-mcp/) | 1.0.0 | Ian Anderson | 369.7 kB | MCP server for evidence-disciplined genealogy: read/write access to a self-host… |
+| 2026-09-30 00:12:03 | [pijl](https://pypi.org/project/pijl/) | 0.1.0 | moxxie | 176.8 kB | A visual logic circuit editor and simulator |
+| 2026-09-30 00:13:25 | [recflarelogin](https://pypi.org/project/recflarelogin/) | 0.1.1 | cayy | 5.6 kB | A simple way to authenticate with RecFlare in Python. |
+| 2026-09-30 00:15:02 | [kokoro-ja-voice](https://pypi.org/project/kokoro-ja-voice/) | 0.1.0 |  | 2.4 MB | Offline Japanese text-to-speech with Kokoro-82M (int8 ONNX), no downloads at ru… |

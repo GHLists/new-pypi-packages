@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-09-29T23:19:31Z,uefi-mirror,1.2.0,,MIT,249227,Read-only cross-platform exporter for live UEFI/BIOS settings
+2026-09-29T23:24:09Z,spotgpu-mcp,0.1.0,SpotGPU,MIT,10405,SpotGPU MCP server — spot GPU rental prices via GET /v1/spot
+2026-09-29T23:24:32Z,trustarc-cli,1.0.0,TrustArc,,26945,Command-line interface for the TrustArc platform APIs
+2026-09-29T23:29:50Z,us-synthetic-names,0.3.0,,,46272,Generate US synthetic names from versioned government-derived dataset releases
+2026-09-29T23:31:07Z,pythograph,0.1.0,ictechgy,MIT,465033,"Static facts for Python (Django, Django REST framework, Flask, SQLAlchemy) services for the isthmus bridge-facts exchange: HTTP route declarations and persistence relation uses from the standard-libr…"
+2026-09-29T23:39:09Z,climify_api,1.0.38,Climify Aps <info@climify.com>,,123508,A wrapper library for the Climify REST API
+2026-09-29T23:39:44Z,shelfinventory,0.1.0,Younes Z.,MIT,28114,"Export an Audiobookshelf library to CSV, one row per book, with the columns people asked for. Read only, no dependencies."
+2026-09-29T23:42:19Z,yunshu,0.1.1,YuhuanStudio,Apache-2.0,3854938,"Fast local LLM/VLM inference engine for Apple Silicon — lossless speculative decoding, prefix caching, OpenAI/Anthropic-compatible"
+2026-09-29T23:42:47Z,groundline,0.1.1,,MIT,173868,Verifiable AI agent for engine test data: every number in the report traces back to a reproducible computation.
+2026-09-29T23:49:06Z,ciscoyoke,0.1.0a1,Ryan Clinton,"MIT License Copyright (c) 2026 Ryan Clinton Permission is hereby granted, free of charge, to any pe…",438581,"Rescue old Cisco hardware from the serial console: identify, preserve, recover and reset second-hand Catalysts and routers, with no management IP."
+2026-09-29T23:51:02Z,simcon-toolkit,0.1.0,SIMCON kunststofftechnische Software GmbH,Apache-2.0,582928,Put a working Cadmould example project on your machine.
+2026-09-29T23:51:42Z,rate-client,0.1.0,Harison,,5044,rate estimator application
+2026-09-29T23:53:36Z,claude-opencode-sessions,0.1.2,Artur Barseghyan <artur.barseghyan@gmail.com>,MIT,92568,"Import your opencode sessions for the current repository into Claude Code, so they open with /resume."
+2026-09-29T23:53:39Z,bend-python,0.1.0,Lucas Wiman,MIT,86838,"Write CPython extensions in Bend 2, with laws proved at build time"
+2026-09-29T23:54:38Z,peal-xai,0.1.0,Sidney Bender and the PEAL contributors,LGPL-3.0-or-later,4064559,PEAL: counterfactual explanation and repair of image classifiers and foundation-model probes.
+2026-09-29T23:58:18Z,qai-cli,0.1.0,Nodoubvt,MIT,67163,"Offline terminal coding agent. Runs Qwen2.5-Coder 1.5B locally via llama.cpp - no API key, no cloud, no telemetry."
+2026-09-29T23:58:25Z,ordel,0.3.1,Ordel,Apache-2.0,11062,"Alias for ordel-cli, the Ordel free CLI: local QA automation your coding agent drives over MCP. Installs ordel-cli and its `ordel` command."
+2026-09-29T23:58:27Z,rainbow-rb-sdk-stubs,0.1.4.dev1,,,1456567,Type stubs for rainbow.* SDK packages (editor use on platforms without native wheels)
+2026-09-29T23:58:51Z,peal-xai-rae,0.1.0,Sidney Bender and the PEAL contributors,CC-BY-NC-4.0,454984,"RAEv2 fork for PEAL's RAE generators (CC BY-NC 4.0, non-commercial use only)."
+2026-09-30T00:02:01Z,simdpunk,0.1.0.dev1,,AGPL-3.0-or-later,213224,"Python access to simdpunk, a header-only quantized-tensor kernel library"
+2026-09-30T00:11:29Z,gramps-evidence-mcp,1.0.0,Ian Anderson,MIT,369709,"MCP server for evidence-disciplined genealogy: read/write access to a self-hosted Gramps Web tree where every fact carries a citation, plus a read-only reference layer over legacy GEDCOM exports."
+2026-09-30T00:12:03Z,pijl,0.1.0,moxxie,MIT,176801,A visual logic circuit editor and simulator
+2026-09-30T00:13:25Z,recflarelogin,0.1.1,cayy,,5644,A simple way to authenticate with RecFlare in Python.
+2026-09-30T00:15:02Z,kokoro-ja-voice,0.1.0,,Apache-2.0,2416080,"Offline Japanese text-to-speech with Kokoro-82M (int8 ONNX), no downloads at runtime"
