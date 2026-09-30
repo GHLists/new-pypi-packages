@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T14:20:26Z,akasha-model,0.2.0,Minimal Labs,MIT,171017,"One-pass typed decision model for Akasha OS: Choice, Score and Noul."
+2026-09-30T14:21:07Z,bex-bioacoustics,1.0.0,Mara Donora <mara.donora@gmail.com>,Apache-2.0,395373,"BEX, the Bioacoustics Explorer: benchmark bioacoustic ID models on your own recordings, with the geographic filter made visible"
+2026-09-30T14:21:21Z,titlemcp,0.1.0,Razi Title MCP Contributors,LicenseRef-Proprietary,257469,Reusable MCP platform for title and real estate service operations.
+2026-09-30T14:24:18Z,uprelic,0.1.0,,,9760,Python client for the Uprelic API
+2026-09-30T14:25:20Z,flakeforge,1.1.0,Yurii Cherkasov,MIT,177956,"Reusable AST-based Python lint rules with CLI, Flake8 adapter, and pytest helper"
+2026-09-30T14:26:21Z,libreusebench,0.1.0,Lukas Twist <itsluketwist@gmail.com>,,1420481,"LibReuseBench - a library-agnostic, test-backed benchmark for measuring library reuse."
+2026-09-30T14:33:20Z,flygo-grpc-contracts,1.0.1,lean2708,MIT,3660,Shared gRPC Protocol Buffer contracts for Flygo microservices
+2026-09-30T14:33:32Z,justpush,0.2.0,"""JustPush.io"" <info@justpush.io>",MIT,31490,Official Python SDK for JustPush: send push notifications to your iOS and Android devices.
+2026-09-30T14:33:46Z,neural-encoder,0.0.1,Pablo Marcos-Manchón <pmarcos@ub.edu>,"MIT License Copyright (c) 2026 Pablo Marcos-Manchón Permission is hereby granted, free of charge, t…",119850,Learn shared representations from repeated measurements and multiview data using linear and nonlinear encoders.
+2026-09-30T14:36:26Z,libriscribe,0.5.1,,MIT,292172,"A local-first, multi-agent writing assistant with project knowledge tools"
+2026-09-30T14:39:31Z,talentprism-cli,0.3.0,,LicenseRef-Proprietary,94167,Command line for TalentPrism: team-scoped recruiting data and actions for people and AI agents
+2026-09-30T14:39:40Z,gpt-sovits-cpufast,0.1.0,,MIT License Copyright (c) 2024 RVC-Boss Copyright (c) 2026 白菜工厂1145号员工 Permission is hereby granted…,15058664,CPU-focused inference fork of GPT-SoVITS
+2026-09-30T14:39:57Z,fem-post,0.1.2,Gustavo Martins <gucmartins@gmail.com>,MIT,54487,"VTK post-processing API for fem-core results: views of meshes and fields, exported to .vtu/.png or shown interactively"
+2026-09-30T14:41:21Z,XEphemere,0.1.1,Loup007A,"MIT License Copyright (c) 2026 Loup007A Permission is hereby granted, free of charge, to any person…",15370,A Python module for ephemeral files and data
+2026-09-30T14:44:56Z,netbox-assets,1.0.0,Maksym Ototiuk <pypi@masik.slmail.me>,MIT,121848,Simple asset tracking for NetBox. A stripped-down fork of netbox-inventory.
+2026-09-30T14:44:56Z,payrix-gp-apimatic-sdk,0.0.1,Muhammad Rafay,MIT,2939758,Sample SDKs for Worldpay by APIMatic
+2026-09-30T14:45:19Z,dog-geroscience-mcp,0.1.0,,MIT,68136,"MCP server giving agents dog-specific aging tools: HAGR (AnAge/DrugAge/GenAge) dog rows, dog orthologs of aging genes via Ensembl, FDA Km dose translation, Dog Aging Project codebooks, NIH RePORTER g…"
+2026-09-30T14:45:54Z,esxi-readonly-mcp,0.1.1,Nicolas Boattini,MIT,112597,"Read-only MCP server for VMware ESXi: CPU Ready, disk latency, snapshots, real space usage, hardware health and events"
+2026-09-30T14:45:56Z,atoti-client-sql-bridge,6.2.2,ActiveViam,,3411,Client part of the plugin to connect Tableau and Power BI to Atoti sessions
+2026-09-30T14:46:07Z,jasentool,1.3.0,Ryan Kennedy <Ryan.Kennedy@skane.se>,,269930,Multipurpose tool for jobs related to the jasen pipeline and Bonsai tool.
+2026-09-30T14:46:31Z,entr-ble-cli,1.0.0,,MIT,35420,Command-line interface for ENTR Bluetooth locks
+2026-09-30T14:46:33Z,entr-ble,1.0.0,Johann Lejeune,MIT,63610,Python client for ENTR Bluetooth locks
+2026-09-30T14:46:49Z,arom-continuum,1.0.0,"Aditya ""Aadi""",,29172,"Continuum AI: A hardware-agnostic, zero-copy Deep Learning inference engine bypassing CUDA. Developed under AROM Labs."
+2026-09-30T14:48:43Z,cerbia,0.2.0,"Sergio Bugallo Enjamio <sergiobe@inditex.com>, Mario Escobedo Del Rio <marioer@inditex.com>",Apache-2.0,6123,Reusable LLM security scanning library — language-agnostic guardrails for AI agents
+2026-09-30T14:48:54Z,esQueranto,0.1.0,Artificial Scientist Lab,MIT,127670,Differentiable quantum optics in ordinary and structured Fock spaces
+2026-09-30T14:49:13Z,downsweep,0.1.0,Hari Prasath S,,5537,Sort a messy Downloads folder into neat folders with one command.
+2026-09-30T14:49:18Z,xiaoyu-agent-sdk,0.58.0,,MIT,25022,In-process Python SDK for the Xiaoyu workspace execution engine
+2026-09-30T14:49:19Z,pdf-encoding-repair,0.1.0,"""Md. Shihabuddin Sadi"" <sadi.shihab@gmail.com>",MIT,45324,Detect and repair PDF-extracted text corrupted by a constant character-code offset.
+2026-09-30T14:49:33Z,ssebench-sdk,1.0.0rc1,SSEBench Team,Apache-2.0,53600,"Python SDK of SSEBench, a benchmark for AI coding agents on real security vulnerabilities"
+2026-09-30T14:49:41Z,ssebench,1.0.0rc1,SSEBench Team,Apache-2.0,789969,Benchmark AI coding agents on real security vulnerabilities
+2026-09-30T14:51:37Z,bastionmesh,0.1.0,Stefano Rizzello <rizzellostefano@gmail.com>,MIT,83862,"Runtime security gateway between A2A agents: scans peer replies for prompt injection, catches injected payloads relayed between agents, pins and rewrites agent cards, and caps delegation depth, cycle…"
+2026-09-30T14:53:39Z,fastbd-ihpi,1.1.0,FastBD Research Labs <support@fast-bd.com>,MIT,42676,"FastBD Empirical B2B Client Acquisition Benchmarks (IHPI, CNRR, CBR, LCR, MVVR)"
+2026-09-30T14:55:18Z,moroai,0.1.0,MoroAI Team,Apache-2.0,478179,MoroAI: local-first model adaptation foundry
+2026-09-30T14:56:43Z,datadog-cisco-catalyst-center,0.0.1,,,889,
+2026-09-30T14:58:06Z,scopus-plus-mcp,0.16.0,"Michal Hron, thinktraveller",MIT,402870,"Scopus MCP server and more: search, full text, citation networks, journal quality and bibliometrics; OpenAlex without a subscription"
+2026-09-30T14:59:10Z,mycar-lab26,0.1.0,성지민 <zotmfwlals@skku.edu>,MIT,5156,"Car package example (wheel, seat, body)"
+2026-09-30T15:00:25Z,tracesig,0.2.1,Howard Hung-Mo Hsieh <hungmohsieh@gmail.com>,Apache-2.0,604221,"Sigma-style detection rules for AI agent tool-call traces: an open rule format, a reference engine, rule packs for Claude Code and agent-policy-gateway."
+2026-09-30T15:01:32Z,vesma-memory-server,5.0.0,,Apache-2.0,42012862,Vesma — standalone memory & knowledge server for AI agents (Vesmaro Project)
+2026-09-30T15:01:34Z,cerbia-cli,0.2.0,"Sergio Bugallo Enjamio, Mario Escobedo Del Rio",Apache-2.0,14944,CerbIA Command-line interface
+2026-09-30T15:05:58Z,EscotoDataFramework,0.2.0,,Apache-2.0,103529,Configuration-driven Databricks data engineering framework (medallion architecture)
+2026-09-30T15:13:41Z,pytest-gherkinator,0.1.0,"""Jason C. Nucciarone"" <nuccitheboss@ubuntu.com>",,53884,"A pytest plugin that orders, marks, and skips BDD scenarios by their gherkinator classification tags"
+2026-09-30T15:14:34Z,cerbia-core,0.2.0,"Sergio Bugallo Enjamio, Mario Escobedo Del Rio",Apache-2.0,116841,CerbIA core library
+2026-09-30T15:14:56Z,vorflow,0.1.0,rhugman,MIT,184280,Voronoi mesh generation for MODFLOW 6 using Gmsh and GeoPandas
+2026-09-30T15:16:46Z,spike-net,1.0.0,Danic_Programmer,MIT,12216,Spiking neural network library for games
+2026-09-30T15:17:44Z,mmsp,0.5.0,PrismShadow,Apache-2.0,266582,"MMSP, the Model Message Stream Protocol: one message format and one streaming grammar for every model provider, in Python and TypeScript."
