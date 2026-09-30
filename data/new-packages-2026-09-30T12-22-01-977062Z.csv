@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T11:20:33Z,umpost,0.1.0,UmPost,MIT,33019,SDK Python oficial para a API pública do UmPost
+2026-09-30T11:20:34Z,senai-cast-receiver,1.1.1,sunzhiya,MIT,2647055,Windows 上的 DLNA/AirPlay 投屏接收端：手机视频 App 一键投到电脑播放
+2026-09-30T11:22:26Z,firecube-girafe,0.1.0,Stephan Finkensieper <stephan.finkesieper@dwd.de>,Apache-2.0,783590,Firecube ingestor plugin for GIRAFE
+2026-09-30T11:23:35Z,beautifyText,1.0.3,Enjoyyoursorrow <bleooddiorjeans@gmail.com>,MIT,12644,"Text beautification utilities — wrapping, casing, slugify, ANSI styling."
+2026-09-30T11:23:38Z,rightwayup,1.0.0,ORTUS AI,Apache-2.0,35537,"RightWayUp: full-circle image roll estimation with calibrated abstention, by ORTUS AI"
+2026-09-30T11:23:43Z,pyshayari,0.1.0,Your Name <your.email@example.com>,MIT,27306,A lightweight package that gives you random Hindi/Hinglish Shayari.
+2026-09-30T11:28:04Z,nbjev,0.1.0,Max T <15417995+maxct@users.noreply.github.com>,,3500,A minimal Python package
+2026-09-30T11:35:36Z,decision-horizon,0.5.1,Hans Ade <hans@pipilot.dev>,DECISION HORIZON SOFTWARE LICENSE Version 1.0 — 30 September 2026 Copyright (c) 2026 Anye Happiness…,63443787,"The system of record for what an AI agent knew, was allowed, and did — signed Agent Decision Records on the MCP tool path."
+2026-09-30T11:36:15Z,stabilizer-qec,0.3.0,Jasper Sands,,4421360,"A quantum error-correction simulator and decoder in Rust: circuits and error models in Stim's formats, exact sparse-blossom, correlated and belief matching, BP+OSD for IBM's gross code, lattice surge…"
+2026-09-30T11:39:32Z,ai-code-engineer,0.1.0,,,927854,"A local-first, review-first developer agent for Ollama and OpenRouter"
+2026-09-30T11:42:25Z,multimodalpy,0.1.1,Aida Villalba Ortiz <aivilor@upv.es>,MIT,97086,Easy creation of multimodal transport networks
+2026-09-30T11:44:36Z,myvoiceai,0.0.4,Your Name,MIT,36628,Voice AI agent – real-time WebSocket voice session pipeline
+2026-09-30T11:48:32Z,occu_choice_pf_1,0.1.0,AskerNC <hms467@econ.ku.dk>,MIT,57622,"Tables for a survey experiment on perceived wage differences and job search, run on Statistics Denmark microdata"
+2026-09-30T11:48:34Z,phonsint,0.1.0,Kaif <kaifcodec@gmail.com>,,51103,"High-throughput silent phone number OSINT suite for platform footprinting, profile enrichment, and masked email discovery"
+2026-09-30T11:48:37Z,occu-choice-pf,0.1.0,AskerNC <hms467@econ.ku.dk>,MIT,57590,"Tables for a survey experiment on perceived wage differences and job search, run on Statistics Denmark microdata"
+2026-09-30T11:49:00Z,untangler,0.1.0,Joshua Levendis,GPL-3.0-only,68302,RNA-seq transcript-level analysis and clustering tool
+2026-09-30T11:58:08Z,git-tag-release,0.4.9,Egor Tensin <egor@tensin.name>,MIT,18416,Automate creation of semantic versioning tags
+2026-09-30T11:58:19Z,laya-router,0.1.0,,Apache-2.0,194978,OpenAI-compatible proxy that routes prompts to cheap or frontier LLMs using a local System 1 decision model (laya)
+2026-09-30T11:59:27Z,instantpay-sa,0.1.0,,MIT,14246,Official Python library for the InstantPay API (Saudi merchant payments).
+2026-09-30T12:01:29Z,excel-codegen,0.9.1,JG. Luo,MIT,785427,Excel 模板参数填写 + Jinja2 代码生成器（支持 Prefix/Value/Suffix 组合）
+2026-09-30T12:01:52Z,mcp-nav-shared,0.1.0,Daniel Illescas Romero,MIT,60023,"Shared helpers (LSP client, symbol resolution, formatting, workspace-root discovery) for the codenav/webnav MCP servers"
+2026-09-30T12:01:53Z,codenav-mcp,0.1.0,Daniel Illescas Romero,MIT,33154,"MCP server exposing ty's language-server features (hover, definition, references, workspace symbol search, diagnostics) as MCP tools"
+2026-09-30T12:01:54Z,webnav-mcp,0.1.0,Daniel Illescas Romero,MIT,50327,MCP server exposing JS/HTML/CSS language-server features plus a workspace-wide CSS custom-property/selector index as MCP tools
+2026-09-30T12:04:25Z,surfaces-py,0.1.0,Natália Teruel,MIT,65723,Surfaces: quantify and visualize interactions within and between proteins and ligands.
+2026-09-30T12:07:13Z,clauderemember,0.0.0,,,1348,Name reservation
+2026-09-30T12:08:40Z,tippex,0.0.2,dannyfriar <dfriar93@gmail.com>,MIT,14102,"The simplest possible PDF text editor, for macOS"
+2026-09-30T12:09:57Z,keelie,0.0.0,Apiable <hello@apiable.io>,,2263,"keelie — the headless API-monetization layer behind Apiable. Onboard, scope, meter, revoke, settle."
+2026-09-30T12:10:47Z,sapwright,0.0.1,fnxL,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",84984,Python framework for SAP GUI Scripting/Automation
+2026-09-30T12:10:58Z,pydevforge,0.5.0,Joy Debnath,MIT,60216,Dynamic Python project bootstrap and development environment automation
+2026-09-30T12:11:20Z,laya-phishield,0.1.0,Gjusev,Apache-2.0,4977695,"Explainable phishing email detection: atomic semantic signals from a local System 1 decision model plus deterministic header/URL checks, combined by logistic regression"
+2026-09-30T12:12:04Z,scrub-vault,1.0.0,tastenkasperle <diamantenschmiede@proton.me>,,21718,Zero-dependency in-memory PII airgap & reversible masking proxy for Cloud LLMs (GDPR Art. 32 compliant MCP server)
+2026-09-30T12:13:44Z,sanad-sdk,0.0.2,,,1944,This name is reserved by Autobia.
+2026-09-30T12:17:42Z,insider-signals-mcp,1.1.0,TradeStar Insider,MIT,12350,Local stdio MCP proxy for the TradeStar Insider server — filing-verified SEC Form 4 insider-buy signals. No API key.
+2026-09-30T12:18:00Z,vialframe,0.1.0,Abdullokh Alimov,MIT,11354,A simple Python Web Framework for building web applications.
+2026-09-30T12:21:32Z,repo-env,0.1.0,ditschi,MIT,1073109,Build and operate isolated git-worktree environments across many repositories.
