@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T02:23:53Z,swe-sweep,0.0.1,,MIT,2572,Placeholder for the upcoming swe-sweep project
+2026-09-30T02:25:06Z,aliyun-log-producer,0.1.1,,MIT,579889911,Python bindings for the Alibaba Cloud SLS Rust producer
+2026-09-30T02:25:46Z,familysearch-mcp,1.0.0,Ian Anderson,MIT,207986,"MCP server for genealogical research on FamilySearch: a historical place gazetteer, indexed record search, page images, and shared-tree reads. Bring your own registered application."
+2026-09-30T02:29:24Z,k3-node,1.0.0,Muhammad Anas Raza,MIT,1365782,Multi-Backend Graph Neural Networks on Keras 3
+2026-09-30T02:35:34Z,pyforesight,0.1.0,"André Leite <leite@castlab.org>, Marcos Wasiliew <marcos.wasiliew@gmail.com>, Hugo Vasconcelos <hug…",MIT,2851661,"Time series forecasting that picks its model by what would have worked: rolling-origin backtests, empirical intervals, ARIMA, ETS, Prophet, TBATS, STL and ensembles, in Rust."
+2026-09-30T02:42:10Z,azure-playwrightworkspaces,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3250,This package will be released in the near future. Stay tuned!
+2026-09-30T02:45:48Z,granum,0.0.1,,,3466,"Granum — Latin for 'grain, kernel, seed'. Name reservation for the betaloop ReAct agent kernel rebrand; real code lands here soon."
+2026-09-30T02:47:22Z,commit-shield,0.2.0,lui01212 <luynbv@glotechvn.com>,MIT,50661,"Fast, zero-dependency Git commit message and staged file linter."
+2026-09-30T02:48:06Z,pii-masker-ai,0.2.0,lui01212 <luynbv@glotechvn.com>,MIT,32890,"Ultra-fast, zero-dependency PII masking and unmasking for AI prompts and LLM agents."
+2026-09-30T02:48:33Z,py-easy-mcp,0.2.0,lui01212 <luynbv@glotechvn.com>,MIT,29398,"Ultra-lightweight, zero-dependency Python framework to build Model Context Protocol (MCP) servers for Claude."
+2026-09-30T02:52:38Z,omop-duck-db,0.2.0,J Kyle Armstrong,"# MIT License Copyright (c) 2026 J Kyle Armstrong Permission is hereby granted, free of charge, to…",142010,Tools for building an OMOP CDM v5.4 DuckDB database and mapping PCORnet-format source data into it.
+2026-09-30T02:57:36Z,deancochran-ftms,0.1.0a1,Dean Cochran,MIT,98648,"Pure Python FTMS feature, range, control, measurement, and status codecs (alpha)"
+2026-09-30T02:59:19Z,mlhitk,0.1.0,Ayush,,8108,A library for printing ML code snippets
+2026-09-30T03:01:27Z,sub2api-utils,0.1.0,GGN_2015,MIT,25081,A simple tool to access sub2api
+2026-09-30T03:01:33Z,nexus-harness,0.1.0,,,3029981,"A small, provider-agnostic Python agent harness"
+2026-09-30T03:04:26Z,cpp-project-foundation,0.5.0,HoneyBury,MIT,73362,Manifest-driven engineering foundation for production C++ projects
+2026-09-30T03:17:30Z,fleet-murmur,0.1.0,SuperInstance,Apache-2.0,17928,Lightweight gossip protocol for agent fleet communication
+2026-09-30T03:17:31Z,mavis-substrate-walker,0.1.0,Mavis <mavis@superinstance.dev>,MIT,17624,"A substrate-agnostic walker for the Quilt. STITCH/WITNESS/PROMOTE primitives; walks cellforge, moth-corpus, lexical-substrate, dict substrates."
+2026-09-30T03:17:33Z,moth-waveform,0.2.0,,MIT,19084,Quantum resonance hearing for spline-tension waveform extrapolation — temporal variables as first-class citizens
+2026-09-30T03:17:34Z,quality-gate-stream,0.1.1,Oracle1,MIT,11994,"Streaming quality gates — continuous quality scoring for data streams, agent outputs, and pipeline results"
