@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T05:22:45Z,chrono-courier,1.0.2,Mhd Zeid Mahfouz <mhd.zeid.mahfouz@gmail.com>,MIT,38297,A priority-based notification system for routing alerts and reports to Telegram and email.
+2026-09-30T05:32:45Z,arducam-imx704,1.0.0,Arducam,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1648707,Python bindings for the Arducam IMX704 dToF camera library
+2026-09-30T05:33:42Z,cjw-assignment1,0.1.0,,MIT,4887,A simple robot arm package for learning Python packaging
+2026-09-30T05:36:26Z,tna-lab,0.1.0,darshan-panchal1,MIT,162212,A self-hostable dataset/run/compare platform built on trust-no-agent.
+2026-09-30T05:41:32Z,pyvoro-rimoli,1.4.0,Julian Rimoli,BSD-3-Clause-LBNL,36624653,"2D and 3D Voronoi tessellations: a Python entry point for the Voro++ library, built with the current Voro++."
+2026-09-30T05:42:19Z,audr-adapter-litellm,0.1.0,The AUDR contributors <audr@chargebee.com>,Apache-2.0,37030,LiteLLM usage adapter for AUDR (experimental)
+2026-09-30T05:44:34Z,sangmin-electronics-lab-2026,0.1.0,,,6865,A small educational electronics package with one print function per module.
+2026-09-30T05:45:18Z,PipCppTemp,0.0.2,Rui Luo <Rui.1002@proton.me>,MIT,4146,Pip Package with C++ Backend Template.
+2026-09-30T05:51:41Z,groundgate,0.1.0,Mohan Raj,Apache-2.0,110064,"Deterministic admission for LLM-extracted facts: admit, flag for verification, or reject, with receipts."
+2026-09-30T05:57:19Z,richgram,0.2.0,BadmundaXd <munda.bad1322@gmail.com>,MIT,27104,"richgram: Telegram Bot API 10.3 rich messages (tables, details, colored buttons) for Pyrogram bots"
+2026-09-30T05:59:22Z,ofunnel,0.1.0,Osama Mustafa,MIT,79857,"Lossless structural capture and drift-robust, requirement-driven extraction from heterogeneous documents (XML, JSON, CSV, HTML, key-value text). Pure standard library, zero dependencies."
+2026-09-30T06:00:52Z,aiobreaker-redis,0.1.0,Raj Dubey <com.mailuser@gmail.com>,MIT,9681,"Distributed async circuit breaker for Python asyncio, httpx, and FastAPI with Redis state synchronization."
+2026-09-30T06:01:38Z,pydantic-deep-patch,0.1.0,Raj Dubey <com.mailuser@gmail.com>,MIT,11597,"Deep diffing, RFC 6902 JSON-Patch, RFC 7396 Merge-Patch, and type-safe audit logging for Pydantic v2 models."
+2026-09-30T06:05:12Z,psychmetal,0.5.0,Keith Schneider <keith@alumni.caltech.edu>,MIT,660648,"Native Metal stimulus presentation on Apple silicon, with a Psychtoolbox Screen-like interface"
+2026-09-30T06:10:56Z,netizen-cli,0.10.0,,,1623822,Use native Codex threads through a Feishu Channel.
+2026-09-30T06:11:33Z,luduvo.py,0.1.1,NovaDev,,2197,Luduvo Python library
+2026-09-30T06:15:33Z,musyn,0.1.0,Simone Ranaldi <sm.ranaldi@gmail.com>,MIT,8708901,"Muscle synergy analysis from surface EMG: adaptive envelope extraction, NMF decomposition, AIC-based synergy number selection"
+2026-09-30T06:17:05Z,j-hdrcapture,0.1.0,JYAARU,MIT,389517,HDR-correct Windows desktop capture for Python: DXGI Desktop Duplication with GPU tone mapping to sRGB BGRA8
+2026-09-30T06:18:46Z,ai-models-aifs,1.0,European Centre for Medium-Range Weather Forecasts (ECMWF),Apache License Version 2.0,19021,An ai-models plugin to run ECMWF's AIFS model
+2026-09-30T06:19:21Z,flags-local,1.0.0,Raj Dubey <com.mailuser@gmail.com>,MIT,5665,"Fast, lightweight Python client SDK for flags-local feature flag management"
+2026-09-30T06:20:25Z,scilibra,2.0.0,"""Alsamman M. Alsamman"" <SammanMohammed@gmail.com>",MIT,1279209,"Desktop manager for scientific articles: BibTeX + PDF library, PDF reader & annotator, Google Drive backup"
