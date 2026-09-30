@@ -1,12 +1,37 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-09-30T11:19:18.880935Z",
-    "path": "data/new-packages-2026-09-30T12-22-01-977062Z.csv",
-    "to": "2026-09-30T12:22:01.977062Z"
+    "count": 42,
+    "from": "2026-09-30T12:22:01.977062Z",
+    "path": "data/new-packages-2026-09-30T13-18-40-6412Z.csv",
+    "to": "2026-09-30T13:18:40.6412Z"
   },
-  "pending": [],
-  "serial": 41638330,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-09-30T12:25:25Z",
+      "package": "ais-agent-mcp-client",
+      "since": "2026-09-30T12:22:01.977062Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-30T12:42:13Z",
+      "package": "bkndb",
+      "since": "2026-09-30T12:22:01.977062Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-30T12:25:26Z",
+      "package": "corporate-mcp-client",
+      "since": "2026-09-30T12:22:01.977062Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-30T13:11:08Z",
+      "package": "cosmotech-babylon",
+      "since": "2026-09-30T12:22:01.977062Z"
+    }
+  ],
+  "serial": 41640212,
   "source_truncated": false,
-  "window": "2026-09-30T12:22:01.977062Z"
+  "window": "2026-09-30T13:18:40.6412Z"
 }

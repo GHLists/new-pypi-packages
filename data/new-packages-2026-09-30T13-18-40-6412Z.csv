@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T12:24:11Z,sync-agents-mcp,0.1.0,,,26670,"Bridge MCP local do sync-agents: liga a IA de quem conecta ao canal de alinhamento, escopado pelo repositório git"
+2026-09-30T12:25:59Z,grind-t-moex,0.1.0,grind-t,,23418,Async Python client for the Moscow Exchange ISS API
+2026-09-30T12:26:09Z,laya-compactor,0.1.0,,Apache-2.0,5118937,Context compaction for RAG and agents: relevance-score every chunk with a local System 1 decision model and cut tokens before they reach the LLM
+2026-09-30T12:26:44Z,odoo-addon-product-attribute-set-list-view,19.0.1.0.0.3,"ForgeFlow,Odoo Community Association (OCA)",AGPL-3,25245,Product Attribute Set List View
+2026-09-30T12:29:04Z,eagle-eye-qds,0.1.0,Eagle-Eye Team,Apache-2.0,99906,Quantum-inspired cyber-threat detection for teleportation-based Quantum Digital Signatures (SIH PS 26141)
+2026-09-30T12:30:03Z,tb-office-word-mcp-server,1.1.11,Traffic Builders,"MIT License Copyright (c) 2025 GongRzhe Permission is hereby granted, free of charge, to any person…",223096,Traffic Builders' MCP server for creating and manipulating Microsoft Word documents
+2026-09-30T12:30:06Z,janction-render,0.1.1,,,35836,"Render Blender scenes on JANCTION GPUs straight from terminal AI agents (Claude Code, Codex): MCP server + CLI"
+2026-09-30T12:30:47Z,synthpop-config-models-py,0.0.0,Synthpop Inc,,1592,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-09-30T12:30:49Z,synthpop-dependabot-py,0.0.0,Synthpop Inc,,1858,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-09-30T12:30:51Z,synthpop-event-sink-client,0.0.0,Synthpop Inc,,1611,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-09-30T12:30:53Z,synthpop-event-sink-events,0.0.0,Synthpop Inc,,1607,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-09-30T12:30:58Z,fireaid,0.2.0,Christiane Ruetten <cr@23bit.net>,MIT,31250,Familiar help for command-line tools made with Python Fire
+2026-09-30T12:32:13Z,mailrambo,0.1.0,iodevz <hello@mailrambo.com>,MIT,13497,"Official Python client for the MailRambo email verification API - strict yes/no deliverability, disposable and catch-all detection."
+2026-09-30T12:35:55Z,flowstate-omics,0.1.0,"Anna AUDIT, Gabriel Peyré, Laura Cantini","GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright © 2007 Free Software Foundation, Inc.…",94644,Cell fate trajectory inference from time-resolved metabolic RNA labeling data
+2026-09-30T12:38:18Z,agentcompass,1.0.0,AgentCompass Authors,Apache-2.0,8942846,"A unified evaluation framework for AI agents, with a Python SDK and CLI"
+2026-09-30T12:40:00Z,pgntools,0.1.0,Valentin Kantor <kantorvv@gmail.com>,MIT,86904,"Standalone PGN utilities for chess: repertoire trees, Stockfish annotation, play chances, glyphs and game search"
+2026-09-30T12:40:29Z,workpapers-mcp,1.0.1,Al Amin Bashir Afara,MIT,12733,"MCP server over an ITGC audit workpaper pack: four read-only tools to read workpapers, trace controls and list findings"
+2026-09-30T12:42:03Z,bitbucket-unofficial-sdk,0.4.1,"""G.A.JAGUAR"" <dev@gajaguar.com>",MIT,178351,"Unofficial, typed Python SDK for the Bitbucket Cloud REST API"
+2026-09-30T12:43:00Z,gpa-coach,0.1.0,,MIT,6352,Study helper package aiming for a 4.5 GPA (Python packaging practice)
+2026-09-30T12:44:39Z,truhowl,1.1.3,,Apache-2.0,1130664,Autonomous SDK/API migration worker that repairs breaking upgrades and proves the migration works before opening a PR.
+2026-09-30T12:46:27Z,spreadsheet-codegen,0.10.0,JG. Luo,MIT,797006,Excel 模板参数填写 + Jinja2 代码生成器（支持 Prefix/Value/Suffix 组合）
+2026-09-30T12:47:16Z,hf-nostro,0.1.0,Hyperface Technologies Pvt. Ltd.,MIT,246579,"An embeddable append-only credit ledger, account, and promo-code library backed by Postgres."
+2026-09-30T12:48:49Z,monty-haystack,1.0.0,deepset GmbH <info@deepset.ai>,Apache-2.0,24086,"Sandboxed Python code execution tool for Haystack Agents, powered by Pydantic Monty"
+2026-09-30T12:49:37Z,ref-bundle,1.0.0,"Fabrice Brito <info@terradue.com>, Simone Tripodi <info@terradue.com>",Apache-2.0,127782,Assemble modular YAML/JSON/XML configuration through recursive JSON Reference `$ref` resolution
+2026-09-30T12:49:38Z,khonsu-sdk,0.3.0,Lajat Manekar,MIT,7678,"Time-travel debugger for AI agents: record, replay and fork agent runs (Python SDK)"
+2026-09-30T12:51:19Z,civex-plugin-sdk,0.2.0,James Sullivan <sullivanj041@gmail.com>,"MIT License Copyright (c) 2026 James Sullivan Permission is hereby granted, free of charge, to any…",58986,SDK for authoring out-of-process Civex workflow plugins (subprocess/container tiers)
+2026-09-30T12:53:21Z,gd-uip-spark-loader,0.0.1,GoDaddy,MIT,2713,This is a placeholder package. Please download this package from the internal registry instead.
+2026-09-30T12:54:00Z,quadkit-ai-prompt,0.0.1,,,1559,"Prompt engineering toolkit for Python - templates, composition, few-shot optimization, and provider-specific escaping"
+2026-09-30T12:54:17Z,quadkit-ai-governance,0.0.1,,,1584,"AI governance and compliance for Python - policy enforcement, cost tracking, audit trails, and budget management"
+2026-09-30T12:54:34Z,quadkit-ai-guard,0.0.1,,,1549,"LLM safety guards for Python - input/output filtering, content moderation, PII detection, and prompt injection defense"
+2026-09-30T12:54:51Z,quadkit-ai-evaluation,0.0.1,,,1593,"LLM evaluation framework for Python - benchmarks, reproducible experiments, seed-stable tracking, and ablation studies"
+2026-09-30T12:56:05Z,csctool,1.0.1,Sameh Sayed,MIT,17514,Change Samsung CSC (region code) without root and without tripping Knox — open-source CLI for Linux and macOS.
+2026-09-30T12:57:38Z,slodl,0.1.0,Felix Neu <felix.neu.ide@web.de>,MIT,5478054,Deep learning from scratch: tensors and reverse-mode autograd in a C++ core
+2026-09-30T13:05:20Z,viva-tellurium,0.1.0,,MIT,26514,Process-bigraph wrapper for Tellurium / libroadrunner SBML simulation
+2026-09-30T13:05:53Z,ragpreflight,0.1.0,Anupama Garani <anupamagarani95@gmail.com>,MIT,265936,"Pre-ingestion diagnostic for RAG knowledge bases, grounded in the Garani 2026 taxonomy of 33 RAG failure modes"
+2026-09-30T13:06:58Z,friendly-greeting-tools,0.1.1,Team,MIT,10632,Small greeting utilities.
+2026-09-30T13:07:26Z,stackit-automation,0.1.0,STACKIT Developer Tools <developer-tools@stackit.cloud>,,111199,STACKIT Automation Service API
+2026-09-30T13:09:49Z,mainsequence-metatable,0.1.0,Main Sequence GmbH <dev@main-sequence.io>,MIT,1905513,Main Sequence MetaTables Python client and standalone API
+2026-09-30T13:11:46Z,vahta,0.0.0,Vahta contributors,Apache-2.0,2854,Encrypted secret vault and harness-boundary guard so AI agents can use credentials without ever seeing their values
+2026-09-30T13:15:19Z,myanlex-python,0.1.0b1,,MIT,19098,Typed synchronous and asynchronous clients for the MyanLex API
+2026-09-30T13:16:53Z,speckify,0.1.0,Speckify,MIT,25615,"Launches the Speckify CLI (a Node package) via npx, so `pip install speckify` works without a separate Node install step for the package manager itself."
+2026-09-30T13:17:57Z,biolabcalc,0.2.1,BioLabCalc Contributors,"MIT License Copyright (c) 2026 BioLabCalc Contributors Permission is hereby granted, free of charge…",335126,"A multifaceted Python library and Excel extension for daily molecular biology research, PCR stoichiometry, IVT yields, protein quantification, and primer design."
