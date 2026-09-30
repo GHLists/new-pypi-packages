@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T03:22:27Z,pytest-ditto-polars,2.0.0rc1,Lachlan Taylor <95459213+owlowlyowl@users.noreply.github.com>,MIT,8178,pytest-ditto plugin for polars DataFrame snapshots.
+2026-09-30T03:24:46Z,lithe,0.9.5,,"MIT License Copyright (c) 2026 betaloop contributors Permission is hereby granted, free of charge,…",334782,"A reusable, storage-free ReAct agent kernel (engine + framework + protocols) with optional capability bundles."
+2026-09-30T03:25:12Z,mathsolver-help,0.2.0,mathsolver.help,MIT,19952,"BYOK AI math solver with execution-based verification (PAL-style) — bring your own OpenAI-compatible API key; the answer is computed locally by executing a model-generated program, never taken from a…"
+2026-09-30T03:26:30Z,ghee-cli,0.1.2,Jules Henry <juleshenry@users.noreply.github.com>,MIT,181144,"538+ shell shortcuts for developers, DevOps engineers, and power users"
+2026-09-30T03:27:46Z,eb-personal-kit,0.1.260930,eleksbai <eleksbai@qq.com>,MIT,92606,A collection of handy tools
+2026-09-30T03:31:09Z,mcp-win-stdio-ssh,0.2.4,Mohan Kumar Indala,MIT,55170,"Advanced Multi-SSH Connection & Remote Management Model Context Protocol (MCP) server for Windows & Claude: 25+ tools for multi-host pooling, ~/.ssh/config auto-discovery, PTY interactive shells, SFT…"
+2026-09-30T03:31:29Z,pyXcom,0.6.1,Haocheng Wang,MIT,87588,"Collect public X profiles, posts, replies, and search results with your existing browser session"
+2026-09-30T03:32:30Z,pdfpick,0.0.2,,,1317197,Select and recombine pages from a PDF with a desktop GUI.
+2026-09-30T03:33:58Z,vigia-nids,0.2.0,Joshua,Apache-2.0,326190,Control de calidad continuo para los datos de modelos de ciberseguridad
+2026-09-30T03:34:00Z,predictflow,0.1.0,PredictFlow,MIT,43554,"Official Python SDK for PredictFlow - demand forecasting, inventory intelligence, and pricing optimization for Shopify and WooCommerce stores"
+2026-09-30T03:36:52Z,emulation-compat-shim,0.0.15,Eliad Mualem <eliad123123@gmail.com>,MIT,5591,Placeholder - compatibility shim for Werkzeug (under development)
+2026-09-30T03:37:34Z,snowland-jwt,0.1.0,A.Star,BSD-3-Clause,29863,National-cryptography (guomi) JWT implementation based on PyJWT and snowland-smx (SM2/SM3).
+2026-09-30T03:39:46Z,markdown-memory,0.1.1,Hesham Karm,MIT,219980,"MCP server that hands coding agents the one Markdown section that answers the question, not the whole file. Local hybrid search: BM25 keywords + ONNX embeddings in SQLite. No API keys, no network."
+2026-09-30T03:43:37Z,geoseis,0.0.1,Musa Adamu Wakili,MIT,16449,Python package for event discovery and characterization in geothermal and seismic data.
+2026-09-30T03:43:55Z,kctx,0.1.0,vks-g,MIT,186027,"Turn any Kaggle competition into Claude-ready context: a workspace folder, a Claude skill, or a local MCP server."
+2026-09-30T03:44:02Z,fvfmPy,1.0.0,"Josef Garen, Pieter Arnold, Kristine Crous",,37180,Interactive leaf image analysis software
+2026-09-30T03:48:54Z,cqlib-pulse,0.1.0b1,China Telecom Quantum Group Quantum Computing Team <tianyan@chinatelecom.cn>,Apache-2.0,56613,Pulse-level circuit construction and Tianyan cloud integration for Cqlib
+2026-09-30T03:50:58Z,schemalock,0.1.0,schemalock,MIT,14234,"A git-trackable lockfile for DataFrame schemas — like poetry.lock, but for schemas."
+2026-09-30T03:56:52Z,menataur,0.1.0,,,18755,...
+2026-09-30T04:01:56Z,navig-browser,0.1.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,296737,"Launch an isolated Chrome/Edge/Brave or Electron app, drive it over CDP, keep named profiles and stop only what it launched — the browser engine navig uses; runs on its own as `navig-browser`."
+2026-09-30T04:03:13Z,lithe-cli,0.1.0,,"MIT License Copyright (c) 2026 betaloop contributors Permission is hereby granted, free of charge,…",25966,"Command-line interface for the lithe agent kernel: chat, one-shot runs, undo, and run inspection."
+2026-09-30T04:08:51Z,hardcarrx,0.1.0b1,Hardcarrx,MIT,65909,Python SDK and CLI for the Hardcarrx API.
+2026-09-30T04:12:36Z,sylva-rs,0.2.0,Tim Devereux <devereux.tj@gmail.com>,GPL-3.0-or-later,32876319,"Terrestrial laser scanning (TLS) processing for forest ecology and remote sensing, with a Rust core"
+2026-09-30T04:16:28Z,gguf-deepseek-r1-distill-qwen-7b-part-0000,0.1.0,,,95119382,Part 0000 of gguf-deepseek-r1-distill-qwen-7b GGUF model
+2026-09-30T04:17:47Z,gguf-deepseek-r1-distill-qwen-7b-part-0001,0.1.0,,,99395270,Part 0001 of gguf-deepseek-r1-distill-qwen-7b GGUF model
+2026-09-30T04:17:56Z,shedding,0.1.0,dio,MIT,538946,"Learn Python by building small projects in a terminal UI, without an AI writing your code."
