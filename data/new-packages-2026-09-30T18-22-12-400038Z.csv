@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T17:21:58Z,telco-churn,0.0.2,Team 9,,45336,ML project that predicts wether a customer will churn based on account and service usage data
+2026-09-30T17:22:09Z,py-simba-pop,0.4.0,Collins Patrick Ohagwu <cpohagwu@gmail.com>,Apache-2.0,26677484,"A transparent, reproducible Python implementation of the SIMBA-POP banana cohort model."
+2026-09-30T17:24:33Z,fujilib,0.1.0,Grayson Bellamy <gbellamy@umd.edu>,MIT,842634,Async Python driver for Fuji Electric ZP-series NDIR gas analyzers (Modbus RTU).
+2026-09-30T17:27:14Z,pokerprovide,1.1.0,,MIT,7818,Official PokerProvide Poker-as-a-Service SDK for Python
+2026-09-30T17:28:36Z,wb-mcp,0.1.0,S-typy,AGPL-3.0-only AND LicenseRef-WB-MCP-Commercial,463759,MCP-сервер для API продавца Wildberries
+2026-09-30T17:29:14Z,spanchor,0.1.0,Spanchor Contributors,Apache-2.0,68744,Regression-testing for RAG retrieval pipelines using stable source-document anchors
+2026-09-30T17:30:50Z,laya-evals,0.1.0,,Apache-2.0,255612,"LLM-as-judge and calibration auditing for System 1 decision models: rubric scoring in CI plus reliability diagrams, ECE and coverage/accuracy thresholds by option count"
+2026-09-30T17:31:13Z,lupaxa-verify-email,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",35929,"Check whether an email address looks deliverable: syntax, DNS, and optional SMTP."
+2026-09-30T17:31:39Z,AutoPumping,0.1.0,Cameron Devine <cameron.devine@alleninstitute.org>,BSD-3-Clause,48006,A tool to automate pumping of vacuum systems
+2026-09-30T17:35:18Z,llm-hpo-optimizer,0.1.0,,"MIT License Copyright (c) 2024 Anusha Mishra Permission is hereby granted, free of charge, to any p…",56468,"General-purpose, multi-objective hyperparameter optimizer for LLM training, with a pluggable model adapter interface."
+2026-09-30T17:40:00Z,rf-compute,0.1.0,rf-compute contributors,MIT,95973,"Wave-domain computation kernel — one API across the four RF-as-compute lineages (metamaterials, AirComp, microwave photonics, spin-torque neuromorphic). Research and education surface."
+2026-09-30T17:41:29Z,plazos,0.1.0,Jaime Fernández González <jaime@jaimefgdev.com>,MIT,40999,Cálculo de plazos administrativos y judiciales españoles con la explicación y la norma de cada paso
+2026-09-30T17:47:22Z,runware-serverless,0.1.0,Runware <support@runware.ai>,MIT,21290,"Write a Runware Serverless app: the serve and endpoint decorators, with nothing to install beyond the standard library."
+2026-09-30T17:47:38Z,confident-ai,0.2.1,Jeffrey Ip,Apache-2.0,385430,The official Python SDK for the Confident AI platform management API.
+2026-09-30T17:48:14Z,software_development_ml_practice_1,0.0.1,"Ruth Altamirano, Malena Chacón, Odei Martinez de Morentin",,40857,"Machine learning project focused on data exploration, model training, visualization, and performance evaluation."
+2026-09-30T17:49:22Z,aice-knowledge,0.1.2,Adanian Labs <engineering@adanianlabs.io>,MIT,8411,Python SDK for the AICE Knowledge Service multi-tenant document ingestion and retrieval
+2026-09-30T17:49:24Z,karellen-qbo-mcp,0.0.1.dev20260930174838,"Karellen, Inc.",Apache-2.0,80616,MCP Server for QuickBooks Online
+2026-09-30T17:50:44Z,nemo-fabric-adapters-openclaw,0.4.0rc1,NVIDIA Corporation,Apache-2.0,21578,OpenClaw adapter for NeMo Fabric
+2026-09-30T17:51:33Z,ulid-pure,0.1.0,ulid-pure contributors,MIT,20207,Zero-dependency pure-stdlib ULID generator and parser (canonical ulid/spec port)
+2026-09-30T17:51:35Z,jwk-thumbprint-pure,0.1.1,Repo Factory <repo-factory@example.com>,MIT,26440,Pure-Python RFC 7638 JWK Thumbprint implementation — zero dependencies
+2026-09-30T17:51:38Z,crc16-modbus-pure,0.1.0,,,15735,"Pure-Python CRC-16/Modbus reference implementation, zero runtime deps"
+2026-09-30T17:51:40Z,crc64-xz-pure,0.1.0,prasad-a-abhishek,CC0-1.0,10800,Zero-dependency pure-Python CRC-64/XZ (a.k.a. CRC-64/GO-ECMA) per RevEng catalogue
+2026-09-30T17:54:51Z,paisim,0.1.0,Ziru Pan,GPL-3.0-or-later,167977,Deterministic object-oriented functional simulator for PAICORE 2.5
+2026-09-30T17:57:05Z,keeptrue,0.2.0,Meryem Sakin <meryemmsakinn@gmail.com>,MIT,193240,Measure whether your coding agent actually follows the rules in AGENTS.md / CLAUDE.md.
+2026-09-30T17:57:25Z,rms-opus,3.23.0,"""Robert S. French"" <rfrench@seti.org>",Apache-2.0,6811090,OPUS: the Outer Planets Unified Search tool for the PDS Ring-Moon Systems Node
+2026-09-30T17:57:40Z,tenets-invariant,0.6.0,,MIT,9375,Assertions for impossible internal states for Python.
+2026-09-30T17:57:42Z,tenets-result,0.6.0,,MIT,14000,Typed synchronous and asynchronous recoverable results for Python.
+2026-09-30T17:58:31Z,gym-structural-analyzer,1.0.0,Abe <abe@example.com>,,7075,An open-source structural mechanics tool using discrete numerical integration to analyze column buckling and material crushing thresholds.
+2026-09-30T18:00:19Z,lingotweaker-data-nl-light,0.1.1,,LGPL-2.1-or-later,38201124,LingoTweaker runtime data for language 'nl' (size-optimized nl-light variant)
+2026-09-30T18:02:58Z,pi-docsite,4.7.0,,Apache-2.0,94132,Deterministic static documentation site generator for Markdown projects
+2026-09-30T18:03:09Z,madb,0.1.0,Rafael Irgolic <hello@irgolic.com>,,2161,Add your description here
+2026-09-30T18:05:35Z,cirrusnetworks-operator-agent,0.0.1,,,3694,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-09-30T18:06:44Z,tensward,0.0.0,Adi Shik,Apache-2.0,10054,Profile and tune LLM serving engines on your own GPU machine. Coming soon.
+2026-09-30T18:07:14Z,uverify,0.1.0,Elasto Web Services Limited,MIT,19711,"Official Python library for the UVerify API: BVN, NIN and ID checks, liveness, face match, ID documents and AML screening for Nigeria."
+2026-09-30T18:07:51Z,llmcopy,2.0.0,,MIT,143541,"Pick project files in a terminal tree and copy them to the clipboard for an AI chatbot: token counts, sane defaults, no dependencies."
+2026-09-30T18:10:13Z,toolrank,0.1.0,Toolrank contributors,Apache-2.0,366147,"Tool retrieval for LLM agents with hundreds of tools: an embedding model plus small learned heads picks the few tools a request needs, served over MCP and REST."
+2026-09-30T18:10:31Z,shockbench-flow,0.1.2,nuinashco <nuinashco@users.noreply.github.com>,MIT,1677931,"Benchmark for online decision algorithms on a dynamic supply graph under calibrated, partially observable disruptions"
+2026-09-30T18:11:29Z,gc-batch,0.2.0,Empirico Inc.,MIT,115442,Command-line interface and Python client for managing Google Cloud Batch jobs
+2026-09-30T18:12:52Z,but-cli,0.1.0,HoppouDev,,4103,A useful cli for Blender
+2026-09-30T18:15:04Z,ApkPatcherRaj,2.0,RK_TECHNO_INDIA <TechnoIndian786@gmail.com>,MIT,938427,"Smali Patcher ( Bypass 𒁍 SSL & Flutter SSL, VPN, USB Debugging, Screen Restrict, One Device Login, Spoof Info & Package Detection, Ads, AES Logs Inject, TG Patch, Pine HooK )"
+2026-09-30T18:15:07Z,gatle-ignite,0.4.0,Ryan Wong,BSD-3-Clause,259565,"A config-driven pytorch-ignite training framework: write your custom functions, not the boilerplate."
