@@ -1,25 +1,31 @@
 {
   "list": {
     "count": 21,
-    "from": "2026-09-30T00:18:37.565358Z",
-    "path": "data/new-packages-2026-09-30T01-18-52-241754Z.csv",
-    "to": "2026-09-30T01:18:52.241754Z"
+    "from": "2026-09-30T01:18:52.241754Z",
+    "path": "data/new-packages-2026-09-30T02-21-10-95571Z.csv",
+    "to": "2026-09-30T02:21:10.95571Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-09-30T01:25:52Z",
+      "package": "de-agent",
+      "since": "2026-09-30T01:18:52.241754Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-30T02:08:29Z",
+      "package": "infraro-core",
+      "since": "2026-09-30T01:18:52.241754Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-09-30T00:54:34Z",
       "package": "midas-snapshot",
       "since": "2026-09-30T00:18:37.565358Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-29T21:38:44Z",
-      "package": "pal_found_cli",
-      "since": "2026-09-29T21:20:41.81907Z"
     }
   ],
-  "serial": 41619654,
+  "serial": 41621040,
   "source_truncated": false,
-  "window": "2026-09-30T01:18:52.241754Z"
+  "window": "2026-09-30T02:21:10.95571Z"
 }

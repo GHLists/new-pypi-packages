@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T01:28:28Z,imentiv,0.0.0,Imentiv AI <inder@imentiv.ai>,LicenseRef-Proprietary,2188,Name reserved. Official Imentiv Python SDK: https://github.com/imentiv/imentiv-python-sdk
+2026-09-30T01:28:43Z,rubrik-mcp,0.8.20260914,"Rubrik, Inc.",MIT,106139,MCP server for Rubrik Security Cloud
+2026-09-30T01:30:28Z,de-agentic,2.1.1,DE Agentic Team,MIT,309334,AI-Powered Agentic System for Data Engineers
+2026-09-30T01:33:51Z,pqx,0.1.0,Mario Juric,BSD-3-Clause,127476,"A fast, friendly terminal explorer for Parquet files (Textual + DuckDB)"
+2026-09-30T01:34:00Z,undercurrent,0.0.0a0,Wrynx,Apache-2.0,11197,"Undercurrent: production-grade activation probing for live LLM inference, by Wrynx. (Name reservation; first release coming soon.)"
+2026-09-30T01:35:44Z,readvars,0.0.1,"""Jason W. DeGraw"" <jason.degraw@gmail.com>","EnergyPlus, Copyright (c) 1996-present, The Board of Trustees of the University of Illinois, The Re…",8852177,Read and process EnergyPlus ESO files
+2026-09-30T01:36:13Z,agent-rt-openai,0.0.0,Praneeth Vadlapati,MIT,2788,Hello world package for Agent RT.
+2026-09-30T01:36:40Z,agent-rt-anthropic,0.0.0,Praneeth Vadlapati,MIT,2821,Hello world package for Agent RT.
+2026-09-30T01:41:50Z,edshield,0.2.0,Hemang Nagar <hi@hemangnagar.dev>,Apache-2.0,88984,Local-first student-privacy layer for AI in education: PII detection and FERPA/COPPA de-identification that runs on-device.
+2026-09-30T01:48:05Z,mcp-llmnetops,0.1.1,,MIT,31583,"MCP server for read-only network device operations (MikroTik, Cisco, Juniper, Aruba, Huawei, Ruckus)"
+2026-09-30T01:50:59Z,verdictkit,0.1.0,agentbuilt,MIT,34423,Non-custodial verification for agent work: did the agent do what it said?
+2026-09-30T01:53:08Z,seedcortex,0.0.1,,Apache-2.0,2791,"Seed Cortex: lifelong memory for AI agents. Name reserved, first release coming."
+2026-09-30T01:53:10Z,seedcontinuum,0.0.1,,,2656,"Seed Continuum: Context proxy that makes AI agents cheaper and smarter over time. Name reserved, first release coming."
+2026-09-30T01:53:12Z,seedfrontier,0.0.1,,,2615,"Seed Frontier: Tools and research for long-lived AI agents. Name reserved, first release coming."
+2026-09-30T01:53:15Z,seedengram,0.0.1,,,2577,"Seed Engram: Verified codebase maps for AI coding agents. Name reserved, first release coming."
+2026-09-30T01:57:53Z,zeal-builder,0.1.0,stoday,MIT,34566,Create and configure a LINE Messaging API echo bot from your terminal.
+2026-09-30T02:00:32Z,lilya-waf,0.0.1a1,Alexander <devkral@web.de>,MIT,55157,Ratelimiting ASGI-WAF made with lilya.
+2026-09-30T02:07:04Z,recast-woof,1.0.0,,Apache-2.0,164788300,"Recast WOOF: GPU-native regional weather forecasting with WRF-class physics, data assimilation and native preprocessing, plus preview hex and global models"
+2026-09-30T02:07:04Z,recast-woof-data,1.0.0,,Apache-2.0,175818356,"Physics reference tables and map assets for Recast WOOF (RRTMGP k-distributions, Thompson microphysics lookups, Natural Earth and US Census basemaps)"
+2026-09-30T02:11:41Z,franca,0.1.0,izmailov-labs,MIT,253916,"One request shape for every LLM wire dialect: transports, adapters, streaming, and a model registry."
+2026-09-30T02:15:17Z,stoop,0.1.0,Uladzislau Bayouski,MIT,93233,"Turn front-door events (Ring and others) into decisions a person can act on: memory, routines, policy, and human-gated actions."
