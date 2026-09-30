@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T19:54:29Z,pdfform,0.2.0,"""Florian R. Hölzlwimmer"" <hoeze-minion@users.noreply.github.com>",MIT,130586,Derive a JSON Schema from a PDF form and fill it from the command line or as a library
+2026-09-30T20:22:06Z,tabletask,0.1.0,Omar Rayyan <olr7742@nyu.edu>,MIT,15247113,"Tabletop manipulation tasks as JSON, sampled and graded in MuJoCo"
+2026-09-30T20:25:15Z,writ-mcp,0.1.0,,MIT,13369,Writ MCP server — commit-time policy checks for AI agents (ALLOW/DENY/STEP_UP + audit receipts)
+2026-09-30T20:26:09Z,doxtr-doto,0.1.0,doto contributors,MIT,478443,Documentation task management for Sphinx
+2026-09-30T20:30:20Z,kavryn,0.1.0,Shoaib Sadiq Salehmohamed,Apache-2.0,370525,"Transactional execution for AI agents: typed authority, independent verification, and evidence-linked receipts."
+2026-09-30T20:33:00Z,dxpoint,0.6.0,Ryan Duecker <ryanduecker@gmail.com>,,1638803,Differential media response curve modeling and strategic inflection point optimization
+2026-09-30T20:33:04Z,datadog-sglang,0.0.1,,,776,
+2026-09-30T20:34:28Z,django-aiodrf,0.0.1,ctolon <cevatbatuhan.tolon@gmail.com>,BSD-3-Clause,1782894,"Async-native views, serializers and policies for Django REST framework."
+2026-09-30T20:35:38Z,maarg,0.2.0,Moazzam Matin,MIT,38364,"Zero-instrumentation experiment tracking for Python — a decorator that auto-captures inputs and outputs, no logging calls required."
+2026-09-30T20:37:29Z,uniscript-py,1.0.0,,MIT,2531042,"Uniscript (<:alpha> → α, <:fracture A> → 𝔄 and back) in pure Python, reading the shared entity index in place"
+2026-09-30T20:37:39Z,uniscript-rs,1.0.0,,MIT,10303819,"Uniscript (<:alpha> → α, <:fracture A> → 𝔄 and back): Python bindings of the Rust reference implementation"
+2026-09-30T20:38:12Z,certbot-dns-aa,0.1.1,,,6815,Certbot DNS-01 plugin for Andrews & Arnold using Selenium
+2026-09-30T20:40:17Z,toolkit-seascape,0.1.0,,Apache-2.0,1013078,"Source-backed marine geometry, bathymetry, and seascape products"
+2026-09-30T20:40:59Z,openintents,0.1.1,TinyHumans AI,GPL-3.0-or-later,52862,Python SDK for OpenIntents: let your agents buy anything
+2026-09-30T20:43:04Z,shellrent-sdk,0.1.0,Shellrent S.r.l.,MIT,1249280,Official Python SDK for the Shellrent public API
+2026-09-30T20:48:08Z,yaft,0.2.0,tehw0lf <tehwolf@protonmail.com>,MIT,74191,"Yet another Feature Toggle: decorators for functions, methods and classes"
+2026-09-30T20:52:44Z,mdhtml2term,0.1.0,Jeremy Howard <github@jhoward.fastmail.fm>,Apache-2.0,17865,Render MDHTML in the terminal with Rich
+2026-09-30T21:01:48Z,tourbillon-app,6.0.0,La Billonnière,GNU GPL,406187,TourBillon - by La Billionnière
+2026-09-30T21:01:51Z,qsarcert,1.2.0,Andrés Monreal-Hernández <andres.monreal@ues.mx>,MIT,70265,"Automated OECD Validation Principles, Applicability Domain (Williams Plot), Y-Randomization, and Scaffold Leakage Certification for QSAR & Molecular ML Models"
+2026-09-30T21:02:41Z,alphacert,1.1.0,Andrés Monreal-Hernández <andres.monreal@ues.mx>,MIT,524325,"Automated Quality-Control, pLDDT/PAE Assessment, and Stereochemical Certification for Predicted Protein Structures (AlphaFold2/3, ColabFold, ESMFold)"
+2026-09-30T21:03:34Z,simbricks-mem-base-sim-py,0.6.0,Team SimBricks,,6848,Basic memory device models integration into SimBricks
+2026-09-30T21:04:14Z,trainmeter,0.0.2,,Apache-2.0,240356,"Where your training FLOPs go and how well the GPUs are used: loss, FLOPs, MFU and hardware counters for a wrapped training run."
+2026-09-30T21:04:41Z,gridrunner-video,0.12.0,,MIT,40303,Video producer SDK for GRIDRUNNER — stream frames and per-frame metadata
+2026-09-30T21:06:52Z,hyperscribe,0.1.0,Septatrix <24257556+septatrix@users.noreply.github.com>,,14578,"A small, dependency-free HTML templating engine that writes markup with context managers."
+2026-09-30T21:07:22Z,wirely,0.1.0,Steffen Kieß,MIT,219366,Node-based language and runtime for low-level home automation
+2026-09-30T21:12:23Z,f5-backup,0.1.0,Will Hinson,MIT,21184,Automatic backups to S3-compatible storage
+2026-09-30T21:14:20Z,onp-node,0.1.0,,Apache-2.0,30099,"OpenNodes Node Kit: turn a vLLM/Ollama/TGI deployment into a conforming ONP Node (signed Node Card, receipts, registration, self-test)"
+2026-09-30T21:15:58Z,lado,0.0.1,Alexey Kolesnikov,MIT,8118,Layered Agent Delegation & Orchestration: run teams of AI coding agents (early development)
+2026-09-30T21:16:01Z,histometer,0.0.0,,,1759,Name reserved for a project that has not been released yet.
+2026-09-30T21:16:51Z,mbox-md,0.1.0,Nicolas Dupont,MIT,95416,Convert Gmail Takeout and other mbox archives into Markdown files with deduplicated attachments.
+2026-09-30T21:18:02Z,role-capabilities,0.1.0,Eric Cooper <eric@cooper.nu>,"MIT License Copyright (c) 2026 Eric Cooper Permission is hereby granted, free of charge, to any per…",86013,"App-agnostic capability-based roles: declare your own capabilities and role bundles, resolve a principal's role from a seed plus append-only overrides, and check has_capability(actor, capability) any…"
+2026-09-30T21:18:41Z,phenometer,0.0.1,Austin E. Y. T. Lefebvre,,2072,Single-cell phenotype scores from microscopy images. Placeholder release; in development.

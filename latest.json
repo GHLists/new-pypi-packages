@@ -1,37 +1,19 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-09-30T19:19:34.604305Z",
-    "path": "data/new-packages-2026-09-30T20-20-29-448775Z.csv",
-    "to": "2026-09-30T20:20:29.448775Z"
+    "count": 32,
+    "from": "2026-09-30T20:20:29.448775Z",
+    "path": "data/new-packages-2026-09-30T21-20-15-377491Z.csv",
+    "to": "2026-09-30T21:20:15.377491Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-09-30T16:33:10Z",
-      "package": "apache-airflow-providers-lamindb",
-      "since": "2026-09-30T16:18:49.225405Z"
-    },
-    {
       "attempts": 1,
-      "created_at": "2026-09-30T19:54:29Z",
-      "package": "pdfform",
-      "since": "2026-09-30T19:19:34.604305Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-30T16:51:12Z",
-      "package": "roman-wfi-reference-file-pipeline",
-      "since": "2026-09-30T16:18:49.225405Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-09-30T16:48:29Z",
-      "package": "stelvane-api",
-      "since": "2026-09-30T16:18:49.225405Z"
+      "created_at": "2026-09-30T20:59:49Z",
+      "package": "training-vid-organizer",
+      "since": "2026-09-30T20:20:29.448775Z"
     }
   ],
-  "serial": 41656407,
+  "serial": 41658374,
   "source_truncated": false,
-  "window": "2026-09-30T20:20:29.448775Z"
+  "window": "2026-09-30T21:20:15.377491Z"
 }

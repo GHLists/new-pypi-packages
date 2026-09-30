@@ -8,40 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 20:20 UTC
+## Latest list — 2026-09-30 21:20 UTC
 
-New packages created between 2026-09-30 19:19 UTC and 2026-09-30 20:20 UTC.
+New packages created between 2026-09-30 20:20 UTC and 2026-09-30 21:20 UTC.
 
-[Full CSV](data/new-packages-2026-09-30T20-20-29-448775Z.csv)
+[Full CSV](data/new-packages-2026-09-30T21-20-15-377491Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-30 19:07:27 | [datatool-cli](https://pypi.org/project/datatool-cli/) | 0.1.0 | WVCode <contato@wvcode.com.br> | 247.8 kB | Diagnostica, perfila, limpa e converte arquivos de dados (CSV, Excel, JSON, Par… |
-| 2026-09-30 19:19:36 | [zam-hesap-mcp](https://pypi.org/project/zam-hesap-mcp/) | 0.6.0 |  | 61.7 kB | Türkiye maaş, asgari ücret, emekli/memur zammı, kıdem-ihbar ve izin hesapları i… |
-| 2026-09-30 19:22:59 | [aws-sso-switcher](https://pypi.org/project/aws-sso-switcher/) | 1.0.0 | Ebuka | 9.4 kB | Switch the default AWS SSO profile in ~/.aws/config with one command |
-| 2026-09-30 19:25:56 | [dssnippets](https://pypi.org/project/dssnippets/) | 0.1.0 | Mahadevan | 20.5 kB | Print ready-to-copy Data Science code snippets (preprocessing, models, plotting… |
-| 2026-09-30 19:27:11 | [tapesmith](https://pypi.org/project/tapesmith/) | 0.4.0 | Tapesmith contributors | 7.5 MB | Label studio for the Phomemo P12 label printer: templates, QR codes, homelab la… |
-| 2026-09-30 19:27:45 | [mhd2d](https://pypi.org/project/mhd2d/) | 0.1.0 | Xu Chen | 65.8 kB | A two-dimensional pseudo-spectral magnetohydrodynamics simulation code written… |
-| 2026-09-30 19:28:53 | [milume](https://pypi.org/project/milume/) | 1.1.0 | ckmah | 7.5 MB | Milume: a thinking surface for spatial omics. A tactile, reactive Jupyter (anyw… |
-| 2026-09-30 19:29:21 | [opencompute-playground](https://pypi.org/project/opencompute-playground/) | 1.0.0 | OpenCompute <smitpatel316@gma… | 20.0 kB | OpenCompute private monolith SDK — Exchange/Ledger OCX net-metering + Edge Pool… |
-| 2026-09-30 19:31:01 | [phenome](https://pypi.org/project/phenome/) | 1.4.1 | Aitor González-Marfil | 667.4 kB | PhenoMe: dataset-agnostic phenotyping pipeline using deep learning embeddings |
-| 2026-09-30 19:36:05 | [nux-mg30-mcp](https://pypi.org/project/nux-mg30-mcp/) | 0.1.1 |  | 49.9 kB | MCP server that lets an AI assistant control a NUX MG-30 guitar processor over… |
-| 2026-09-30 19:40:05 | [colcon-guard](https://pypi.org/project/colcon-guard/) | 0.1.0a1 | Jan Vojnar | 47.9 kB | Extension for colcon that guards builds against self-layered environments and c… |
-| 2026-09-30 19:40:09 | [hypyrameter](https://pypi.org/project/hypyrameter/) | 0.3.0 | "Michael S. Phillips" <philli… | 77.4 kB | Spectral parameters (band depths, slopes, peaks, indices) for hyperspectral ref… |
-| 2026-09-30 19:42:29 | [aspora-vsscli](https://pypi.org/project/aspora-vsscli/) | 0.2.0 |  | 159.4 kB | Image, code and open-source dependency scanning in your CI, reported to a Vendo… |
-| 2026-09-30 19:45:15 | [readystack-conda-channel-license-lint](https://pypi.org/project/readystack-conda-channel-license-lint/) | 1.0.1 | ReadyStack <support@getreadys… | 32.6 kB | Finds every environment.yml and .condarc line that pulls from Anaconda's licens… |
-| 2026-09-30 19:45:31 | [readystack-cron-schedule-lint](https://pypi.org/project/readystack-cron-schedule-lint/) | 0.1.9 | ReadyStack <support@getreadys… | 35.1 kB | Names every schedule line in the file you have open that fires at the wrong hou… |
-| 2026-09-30 19:45:38 | [readystack-tls-cert-lifetime-lint](https://pypi.org/project/readystack-tls-cert-lifetime-lint/) | 0.1.8 | ReadyStack <support@getreadys… | 32.2 kB | Finds the 12 settings that break when public TLS certificates fall to 100 days… |
-| 2026-09-30 19:45:54 | [readystack-wcag21-aa-legal-baseline-audit](https://pypi.org/project/readystack-wcag21-aa-legal-baseline-audit/) | 0.1.8 | ReadyStack <support@getreadys… | 32.6 kB | Audits HTML, JSX, Vue, Twig, Blade, ERB and Razor markup against the 24 WCAG 2.… |
-| 2026-09-30 19:57:07 | [open-svpflow](https://pypi.org/project/open-svpflow/) | 0.1.0 | z1xus | 3.9 MB | Open-source drop-in replacement for SVPFlow's VapourSynth plugins |
-| 2026-09-30 19:58:57 | [tgmrkts](https://pypi.org/project/tgmrkts/) | 0.1.0 |  | 22.3 kB | Asynchronous Python client for the MRKT API |
-| 2026-09-30 20:05:14 | [adjudicate](https://pypi.org/project/adjudicate/) | 0.3.0 | Andrew Brož | 1.3 MB | Bounded, auditable text edits chosen by a language model: detector proposes, mo… |
-| 2026-09-30 20:05:28 | [stylefix](https://pypi.org/project/stylefix/) | 0.7.0 | Andrew Brož | 759.8 kB | Regularize a Markdown file to US or UK English and a style guide, using Vale pl… |
-| 2026-09-30 20:05:31 | [proofix](https://pypi.org/project/proofix/) | 0.5.0 | Andrew Brož | 61.0 kB | Fix typos and punctuation in Markdown: LanguageTool detects, a language model a… |
-| 2026-09-30 20:06:26 | [machinate](https://pypi.org/project/machinate/) | 0.2.0 | Eelco van der Wel | 104.8 kB | File-based project planning CLI for coding agents. |
-| 2026-09-30 20:11:05 | [homeostat](https://pypi.org/project/homeostat/) | 0.1.0a1 | Lei Ma | 237.7 kB | Process-industry time series with full ground truth, generated from abstract da… |
-| 2026-09-30 20:12:01 | [sphinx-redline](https://pypi.org/project/sphinx-redline/) | 0.1.0 |  | 79.0 kB | Sphinx extension for inline review comments anchored to the RST/Markdown source |
-| 2026-09-30 20:14:34 | [tokenatlas](https://pypi.org/project/tokenatlas/) | 1.3.0 | Magnus Gille | 237.8 kB | Local, private token and cost atlas for AI coding agents (Claude Code, Codex, O… |
-| 2026-09-30 20:18:00 | [hdl-toolkit](https://pypi.org/project/hdl-toolkit/) | 0.1.0 | Alfredo Reyes | 40.7 kB | Build, validate, package and load Oracle HCM Data Loader (HDL) files. |
-| 2026-09-30 20:18:23 | [gromon-backend](https://pypi.org/project/gromon-backend/) | 0.3.0 | Gromon | 78.3 kB | A small, predictable HTTP routing engine for Python. |
-| 2026-09-30 20:18:30 | [lupaxa-leaky-bucket](https://pypi.org/project/lupaxa-leaky-bucket/) | 0.1.0 | The Lupaxa Project | 18.1 kB | Leaky-bucket rate limiter with drop and queue modes. |
+| 2026-09-30 19:54:29 | [pdfform](https://pypi.org/project/pdfform/) | 0.2.0 | "Florian R. Hölzlwimmer" <hoe… | 130.6 kB | Derive a JSON Schema from a PDF form and fill it from the command line or as a… |
+| 2026-09-30 20:22:06 | [tabletask](https://pypi.org/project/tabletask/) | 0.1.0 | Omar Rayyan <olr7742@nyu.edu> | 15.2 MB | Tabletop manipulation tasks as JSON, sampled and graded in MuJoCo |
+| 2026-09-30 20:25:15 | [writ-mcp](https://pypi.org/project/writ-mcp/) | 0.1.0 |  | 13.4 kB | Writ MCP server — commit-time policy checks for AI agents (ALLOW/DENY/STEP_UP +… |
+| 2026-09-30 20:26:09 | [doxtr-doto](https://pypi.org/project/doxtr-doto/) | 0.1.0 | doto contributors | 478.4 kB | Documentation task management for Sphinx |
+| 2026-09-30 20:30:20 | [kavryn](https://pypi.org/project/kavryn/) | 0.1.0 | Shoaib Sadiq Salehmohamed | 370.5 kB | Transactional execution for AI agents: typed authority, independent verificatio… |
+| 2026-09-30 20:33:00 | [dxpoint](https://pypi.org/project/dxpoint/) | 0.6.0 | Ryan Duecker <ryanduecker@gma… | 1.6 MB | Differential media response curve modeling and strategic inflection point optim… |
+| 2026-09-30 20:33:04 | [datadog-sglang](https://pypi.org/project/datadog-sglang/) | 0.0.1 |  | 776 B |  |
+| 2026-09-30 20:34:28 | [django-aiodrf](https://pypi.org/project/django-aiodrf/) | 0.0.1 | ctolon <cevatbatuhan.tolon@gm… | 1.8 MB | Async-native views, serializers and policies for Django REST framework. |
+| 2026-09-30 20:35:38 | [maarg](https://pypi.org/project/maarg/) | 0.2.0 | Moazzam Matin | 38.4 kB | Zero-instrumentation experiment tracking for Python — a decorator that auto-cap… |
+| 2026-09-30 20:37:29 | [uniscript-py](https://pypi.org/project/uniscript-py/) | 1.0.0 |  | 2.5 MB | Uniscript (<:alpha> → α, <:fracture A> → 𝔄 and back) in pure Python, reading th… |
+| 2026-09-30 20:37:39 | [uniscript-rs](https://pypi.org/project/uniscript-rs/) | 1.0.0 |  | 10.3 MB | Uniscript (<:alpha> → α, <:fracture A> → 𝔄 and back): Python bindings of the Ru… |
+| 2026-09-30 20:38:12 | [certbot-dns-aa](https://pypi.org/project/certbot-dns-aa/) | 0.1.1 |  | 6.8 kB | Certbot DNS-01 plugin for Andrews & Arnold using Selenium |
+| 2026-09-30 20:40:17 | [toolkit-seascape](https://pypi.org/project/toolkit-seascape/) | 0.1.0 |  | 1.0 MB | Source-backed marine geometry, bathymetry, and seascape products |
+| 2026-09-30 20:40:59 | [openintents](https://pypi.org/project/openintents/) | 0.1.1 | TinyHumans AI | 52.9 kB | Python SDK for OpenIntents: let your agents buy anything |
+| 2026-09-30 20:43:04 | [shellrent-sdk](https://pypi.org/project/shellrent-sdk/) | 0.1.0 | Shellrent S.r.l. | 1.2 MB | Official Python SDK for the Shellrent public API |
+| 2026-09-30 20:48:08 | [yaft](https://pypi.org/project/yaft/) | 0.2.0 | tehw0lf <tehwolf@protonmail.c… | 74.2 kB | Yet another Feature Toggle: decorators for functions, methods and classes |
+| 2026-09-30 20:52:44 | [mdhtml2term](https://pypi.org/project/mdhtml2term/) | 0.1.0 | Jeremy Howard <github@jhoward… | 17.9 kB | Render MDHTML in the terminal with Rich |
+| 2026-09-30 21:01:48 | [tourbillon-app](https://pypi.org/project/tourbillon-app/) | 6.0.0 | La Billonnière | 406.2 kB | TourBillon - by La Billionnière |
+| 2026-09-30 21:01:51 | [qsarcert](https://pypi.org/project/qsarcert/) | 1.2.0 | Andrés Monreal-Hernández <and… | 70.3 kB | Automated OECD Validation Principles, Applicability Domain (Williams Plot), Y-R… |
+| 2026-09-30 21:02:41 | [alphacert](https://pypi.org/project/alphacert/) | 1.1.0 | Andrés Monreal-Hernández <and… | 524.3 kB | Automated Quality-Control, pLDDT/PAE Assessment, and Stereochemical Certificati… |
+| 2026-09-30 21:03:34 | [simbricks-mem-base-sim-py](https://pypi.org/project/simbricks-mem-base-sim-py/) | 0.6.0 | Team SimBricks | 6.8 kB | Basic memory device models integration into SimBricks |
+| 2026-09-30 21:04:14 | [trainmeter](https://pypi.org/project/trainmeter/) | 0.0.2 |  | 240.4 kB | Where your training FLOPs go and how well the GPUs are used: loss, FLOPs, MFU a… |
+| 2026-09-30 21:04:41 | [gridrunner-video](https://pypi.org/project/gridrunner-video/) | 0.12.0 |  | 40.3 kB | Video producer SDK for GRIDRUNNER — stream frames and per-frame metadata |
+| 2026-09-30 21:06:52 | [hyperscribe](https://pypi.org/project/hyperscribe/) | 0.1.0 | Septatrix <24257556+septatrix… | 14.6 kB | A small, dependency-free HTML templating engine that writes markup with context… |
+| 2026-09-30 21:07:22 | [wirely](https://pypi.org/project/wirely/) | 0.1.0 | Steffen Kieß | 219.4 kB | Node-based language and runtime for low-level home automation |
+| 2026-09-30 21:12:23 | [f5-backup](https://pypi.org/project/f5-backup/) | 0.1.0 | Will Hinson | 21.2 kB | Automatic backups to S3-compatible storage |
+| 2026-09-30 21:14:20 | [onp-node](https://pypi.org/project/onp-node/) | 0.1.0 |  | 30.1 kB | OpenNodes Node Kit: turn a vLLM/Ollama/TGI deployment into a conforming ONP Nod… |
+| 2026-09-30 21:15:58 | [lado](https://pypi.org/project/lado/) | 0.0.1 | Alexey Kolesnikov | 8.1 kB | Layered Agent Delegation & Orchestration: run teams of AI coding agents (early… |
+| 2026-09-30 21:16:01 | [histometer](https://pypi.org/project/histometer/) | 0.0.0 |  | 1.8 kB | Name reserved for a project that has not been released yet. |
+| 2026-09-30 21:16:51 | [mbox-md](https://pypi.org/project/mbox-md/) | 0.1.0 | Nicolas Dupont | 95.4 kB | Convert Gmail Takeout and other mbox archives into Markdown files with deduplic… |
+| 2026-09-30 21:18:02 | [role-capabilities](https://pypi.org/project/role-capabilities/) | 0.1.0 | Eric Cooper <eric@cooper.nu> | 86.0 kB | App-agnostic capability-based roles: declare your own capabilities and role bun… |
+| 2026-09-30 21:18:41 | [phenometer](https://pypi.org/project/phenometer/) | 0.0.1 | Austin E. Y. T. Lefebvre | 2.1 kB | Single-cell phenotype scores from microscopy images. Placeholder release; in de… |
