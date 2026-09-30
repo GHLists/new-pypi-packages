@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T04:24:40Z,promptbridge-mcp,0.2.0,Endy,MIT,62706,Type coding requests in your own language; get a clear English task spec for AI coding agents (MCP server).
+2026-09-30T04:24:51Z,jungwon-package-main,0.1.4,Yang Heegoo <heegoo.yang@gmail.com>,MIT,7768,Heegoo package example
+2026-09-30T04:26:11Z,envleak-cli,0.1.0,,MIT,25452,Find exposed API keys and secrets before someone else does. 100% local.
+2026-09-30T04:33:33Z,keystone-agent-client,0.1.4,,,34299,Keystone consumption client — discover + invoke DEPLOYED pro-code agents from any app (US-19 / FDP-3442). Speaks only the public gateway surface through Kong; no LangGraph/SDK deps.
+2026-09-30T04:38:24Z,ina228,0.0.2,"Andrey Zaostrovnykh <megalloid@gmail.com>, Igor Molchanov <akemi_homura@kurisa.ch>",,16075,Driver for TI INA228 with SMBUS
+2026-09-30T04:47:47Z,heulistic-axolotl,0.1.0,Heulistic <hello@heulistic.com>,MIT,97124,"Axolotl config schema and validation, shared by the Heulistic CLI and API"
+2026-09-30T04:48:20Z,heulistic,0.1.2,Heulistic <hello@heulistic.com>,MIT,51554,Fine-tune LLMs without the infrastructure
+2026-09-30T04:49:54Z,ovperf-collector,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1071,Zero version placeholder for ovperf_collector
+2026-09-30T04:51:53Z,tokn-requests,0.2.3,,MIT,17746783,Embedded Python SDK for routing LLM requests through tokn providers
+2026-09-30T04:52:21Z,mlops-tracker-sdk,0.1.0,Altamash Ansari,MIT,11735,Python SDK for the MLOps Experiment Tracker
+2026-09-30T04:55:13Z,contextswitch,0.2.0,Christian Krudewig <chr1st1ank@krudewig-online.de>,Apache-2.0,2448060,context-switch CLI client for time tracking
+2026-09-30T04:57:23Z,mercanpay,1.0.0,MercanPay <support@mercanpay.com>,MIT,10570,Official Python client for the MercanPay crypto payment gateway (TRX & USDT-TRC20)
+2026-09-30T04:58:58Z,ripr-rs,0.11.0a1,Effortless Metrics,MIT OR Apache-2.0,8286974,Find static mutation-exposure gaps before expensive mutation testing
+2026-09-30T05:00:25Z,mandelbrot-explorer,0.6.0,,MIT,221249,Python binding for the MandelbrotExplorer C ABI (ctypes + numpy)
+2026-09-30T05:05:20Z,wdn-synth,0.1.0,Ilyass Hankrir <ihankrir@ualg.pt>,EUPL-1.2,169824,EPyT-first WDN Synthetic Dataset Generator
+2026-09-30T05:05:26Z,rimbisect,0.1.0,Christiaan Bosch <cbosch101@gmail.com>,MIT,104142,"Find the RimWorld mod, or combination of mods, behind an error by relaunching the game on halves of your load order."
+2026-09-30T05:12:56Z,vitko,0.0.1,Vitko Inc,Apache-2.0,10686,The Vitko CLI. Install via https://runners.vitko.inc (coming soon).
+2026-09-30T05:14:55Z,robot-arm-lab-coursework-2026,0.1.0,,MIT,4859,A simple robot arm package for learning Python packaging
