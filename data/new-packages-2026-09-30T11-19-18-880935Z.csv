@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T10:14:22Z,haenv,1.0.0,,MIT,8774652,"A health-agent evaluation harness: author cases with hidden control variables, run models, get a report"
+2026-09-30T10:21:24Z,bibmeded,0.4.0,Ata Akillioglu,MIT,187714,Open-source bibliometric analysis platform and CLI for medical education research
+2026-09-30T10:21:28Z,pamd-chemistry,0.1.0,Abstergo2003,,69799,Massive standard property databases for chemistry and science in PyAct.
+2026-09-30T10:22:52Z,cc-hub,0.2.1,Jenwein,MIT,184185,A hub directory convention and CLI for coding agents launched by cc-connect
+2026-09-30T10:22:58Z,pamd-biology,0.1.0,Abstergo2003,,16398,Massive standard property databases for engineering and science in PyAct.
+2026-09-30T10:22:58Z,xrdclient,0.1.0,Robert Currie <robert.andrew.currie@gmail.com>,LGPL-3.0-or-later,1485579,"A pure-Python, Pythonic client for XRootD (root://, roots://) and HEP WebDAV"
+2026-09-30T10:24:05Z,iceprefs,0.1.0,Younes Z.,MIT,20847,"Print an Ice preferences file as readable JSON, including the hotkeys that plutil leaves as base64. Standard library only."
+2026-09-30T10:24:17Z,xgfalclient,0.1.0,Robert Currie <robert.andrew.currie@gmail.com>,LGPL-3.0-or-later,1304280,"A pure-Python, drop-in gfal2 client: WebDAV/HTTP, S3, Google Cloud Storage, XRootD, GridFTP, SRM, SFTP, dCap, LFC and local files, with X.509/GSI, token, Kerberos and SSH auth"
+2026-09-30T10:25:07Z,wlearn-bo,0.1.0,Anton Zemlyansky,Apache-2.0,28814,Bayesian optimization with Gaussian processes for hyperparameter tuning
+2026-09-30T10:25:46Z,llmsync,0.1.0,Rahul,,60853,E2E encrypted LLM conversation sync service
+2026-09-30T10:26:02Z,wlearn-basis,0.1.0,Anton Zemlyansky,Apache-2.0,36072,"C11 basis-function models: ELM, RVFL, random Fourier features and Nystrom"
+2026-09-30T10:26:06Z,wlearn-cluster,0.1.0,,Apache-2.0,26886,Clustering native bindings backed by the wlearn C11 core
+2026-09-30T10:26:11Z,wlearn-gam,0.2.0,,Apache-2.0,67253,GLM/GAM native bindings backed by the wlearn C11 core
+2026-09-30T10:29:37Z,android-automated-screengrabs,0.12.0,Pedro Veloso,Apache-2.0,291959,Deterministic Android capture-to-publish pipelines
+2026-09-30T10:36:00Z,mkus-nlp,0.0.1,Markus QNG,MIT,177063,Text vietnamese processing
+2026-09-30T10:38:29Z,steward-sdk,0.1.0,,MIT,9562,"Per-payee on-chain allowances, a replayable decision log and human escalation for AI agents that pay people in USDC on Arc."
+2026-09-30T10:39:32Z,client-query-cache,0.1.0,Alessio Locatelli,,82510,"Client-side caching for PyMongo, kept coherent using MongoDB change streams."
+2026-09-30T10:43:48Z,snaplink-sso,0.3.0,Snaplink contributors,Apache-2.0,148261,Python SDK for the Snaplink OAuth 2.0 and OpenID Connect API
+2026-09-30T10:45:42Z,iv-engine,0.1.1,iv-engine contributors,MIT,2114185,Implied volatility and Black/Black-Scholes via Let's Be Rational
+2026-09-30T10:47:21Z,birkin-mnemosyne,0.4.0,Birkin project,MIT,168486,Zero-dependency memory palace + safe model-agnostic curation for LLM agents
+2026-09-30T10:48:22Z,agent-cowork-memory,0.2.2,,MIT,114674,"Shared task memory and delegation for Codex, Cursor, Claude Code, and OpenCode."
+2026-09-30T10:49:06Z,soroushthon,0.2.21,,GPL-3.0-only,1587349,Community Soroush Plus user-client fork of SPlusthon and Telethon
+2026-09-30T10:49:09Z,odoo-addon-base-external-stock,17.0.1.0.0.1,Sygel,AGPL-3,54814,Base to sync stock data of suppliers from an external webservice
+2026-09-30T10:52:41Z,rasad-vision,0.0.1,RASAD Team,,769,RASAD: Real-time Architecture for Segmentation And Detection
+2026-09-30T10:54:18Z,mycar-package-2026,1.0.0,,,3111,Simple car information Python package
+2026-09-30T11:01:58Z,parakeet-cpp-cuda,0.2.2,parakeet.cpp contributors,,74995255,"Python bindings for parakeet.cpp — NVIDIA Parakeet ASR on ggml, with hotwords"
+2026-09-30T11:02:19Z,easy-mysql-builder,0.3.0,,,29983,Beginner-friendly helpers for generating SQL queries and talking to MySQL.
+2026-09-30T11:05:59Z,smart-robot-kit-2026,0.1.0,Student,,6891,A simple robot-themed Python package for package and module practice
+2026-09-30T11:09:14Z,aioniq-tracing,0.1.0,Vector (VectorParkarDevOrg),Apache-2.0,28315,"First-party OpenTelemetry tracing SDK for agents integrating with AioniQ -- no monkey-patching, explicit spans only."
+2026-09-30T11:09:23Z,hayavo-meet,1.0.0,HAYAVO <support@hayavo.com>,"MIT License Copyright (c) 2026 HAYAVO Permission is hereby granted, free of charge, to any person o…",28469,"Official Python SDK for Hayavo Meet, providing real-time communication (RTC) and messaging (RTM) APIs for video conferencing, audio conferencing, screen sharing, chat, rich text messaging, and file s…"
+2026-09-30T11:10:49Z,pocket-tts-turkish,0.1.0,Wite Tech,Apache-2.0,497780,"Turkish text-to-speech that runs on a CPU, built on Pocket TTS"
+2026-09-30T11:11:01Z,batteryos,0.1.0,Financial Machines,Copyright (c) 2026 BatteryOS. All rights reserved. This software is distributed as a client for the…,138676,Command-line interface for the BatteryOS energy-storage analytics API
+2026-09-30T11:14:45Z,arina-grid-di,0.1.0,Arina,Apache-2.0,189439,"Python SDK for the Arina Document Intelligence API: schema-driven extraction with spatial citations, layout parsing, and reusable extractors."
+2026-09-30T11:16:26Z,domherre,0.1.1,,"MIT License Copyright (c) 2026 Alexander Koutakis Permission is hereby granted, free of charge, to…",28653,Redact Swedish names and personnummer from polars DataFrames
+2026-09-30T11:17:01Z,piano-tools,0.1.0,Alexandru-Adrian Ciobanu <ciobanu.alexandru.adrian99@gmail.com>,MIT,28355,Turn MIDI files into animated piano videos and extract MIDI from virtual-piano videos.
