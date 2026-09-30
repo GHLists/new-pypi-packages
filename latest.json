@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-09-30T20:20:29.448775Z",
-    "path": "data/new-packages-2026-09-30T21-20-15-377491Z.csv",
-    "to": "2026-09-30T21:20:15.377491Z"
+    "count": 33,
+    "from": "2026-09-30T21:20:15.377491Z",
+    "path": "data/new-packages-2026-09-30T22-20-23-94788Z.csv",
+    "to": "2026-09-30T22:20:23.94788Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-09-30T20:59:49Z",
       "package": "training-vid-organizer",
       "since": "2026-09-30T20:20:29.448775Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-09-30T21:21:40Z",
+      "package": "voss-prime-gaps",
+      "since": "2026-09-30T21:20:15.377491Z"
     }
   ],
-  "serial": 41658374,
+  "serial": 41660501,
   "source_truncated": false,
-  "window": "2026-09-30T21:20:15.377491Z"
+  "window": "2026-09-30T22:20:23.94788Z"
 }

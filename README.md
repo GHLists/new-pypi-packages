@@ -8,43 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 21:20 UTC
+## Latest list — 2026-09-30 22:20 UTC
 
-New packages created between 2026-09-30 20:20 UTC and 2026-09-30 21:20 UTC.
+New packages created between 2026-09-30 21:20 UTC and 2026-09-30 22:20 UTC.
 
-[Full CSV](data/new-packages-2026-09-30T21-20-15-377491Z.csv)
+[Full CSV](data/new-packages-2026-09-30T22-20-23-94788Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-09-30 19:54:29 | [pdfform](https://pypi.org/project/pdfform/) | 0.2.0 | "Florian R. Hölzlwimmer" <hoe… | 130.6 kB | Derive a JSON Schema from a PDF form and fill it from the command line or as a… |
-| 2026-09-30 20:22:06 | [tabletask](https://pypi.org/project/tabletask/) | 0.1.0 | Omar Rayyan <olr7742@nyu.edu> | 15.2 MB | Tabletop manipulation tasks as JSON, sampled and graded in MuJoCo |
-| 2026-09-30 20:25:15 | [writ-mcp](https://pypi.org/project/writ-mcp/) | 0.1.0 |  | 13.4 kB | Writ MCP server — commit-time policy checks for AI agents (ALLOW/DENY/STEP_UP +… |
-| 2026-09-30 20:26:09 | [doxtr-doto](https://pypi.org/project/doxtr-doto/) | 0.1.0 | doto contributors | 478.4 kB | Documentation task management for Sphinx |
-| 2026-09-30 20:30:20 | [kavryn](https://pypi.org/project/kavryn/) | 0.1.0 | Shoaib Sadiq Salehmohamed | 370.5 kB | Transactional execution for AI agents: typed authority, independent verificatio… |
-| 2026-09-30 20:33:00 | [dxpoint](https://pypi.org/project/dxpoint/) | 0.6.0 | Ryan Duecker <ryanduecker@gma… | 1.6 MB | Differential media response curve modeling and strategic inflection point optim… |
-| 2026-09-30 20:33:04 | [datadog-sglang](https://pypi.org/project/datadog-sglang/) | 0.0.1 |  | 776 B |  |
-| 2026-09-30 20:34:28 | [django-aiodrf](https://pypi.org/project/django-aiodrf/) | 0.0.1 | ctolon <cevatbatuhan.tolon@gm… | 1.8 MB | Async-native views, serializers and policies for Django REST framework. |
-| 2026-09-30 20:35:38 | [maarg](https://pypi.org/project/maarg/) | 0.2.0 | Moazzam Matin | 38.4 kB | Zero-instrumentation experiment tracking for Python — a decorator that auto-cap… |
-| 2026-09-30 20:37:29 | [uniscript-py](https://pypi.org/project/uniscript-py/) | 1.0.0 |  | 2.5 MB | Uniscript (<:alpha> → α, <:fracture A> → 𝔄 and back) in pure Python, reading th… |
-| 2026-09-30 20:37:39 | [uniscript-rs](https://pypi.org/project/uniscript-rs/) | 1.0.0 |  | 10.3 MB | Uniscript (<:alpha> → α, <:fracture A> → 𝔄 and back): Python bindings of the Ru… |
-| 2026-09-30 20:38:12 | [certbot-dns-aa](https://pypi.org/project/certbot-dns-aa/) | 0.1.1 |  | 6.8 kB | Certbot DNS-01 plugin for Andrews & Arnold using Selenium |
-| 2026-09-30 20:40:17 | [toolkit-seascape](https://pypi.org/project/toolkit-seascape/) | 0.1.0 |  | 1.0 MB | Source-backed marine geometry, bathymetry, and seascape products |
-| 2026-09-30 20:40:59 | [openintents](https://pypi.org/project/openintents/) | 0.1.1 | TinyHumans AI | 52.9 kB | Python SDK for OpenIntents: let your agents buy anything |
-| 2026-09-30 20:43:04 | [shellrent-sdk](https://pypi.org/project/shellrent-sdk/) | 0.1.0 | Shellrent S.r.l. | 1.2 MB | Official Python SDK for the Shellrent public API |
-| 2026-09-30 20:48:08 | [yaft](https://pypi.org/project/yaft/) | 0.2.0 | tehw0lf <tehwolf@protonmail.c… | 74.2 kB | Yet another Feature Toggle: decorators for functions, methods and classes |
-| 2026-09-30 20:52:44 | [mdhtml2term](https://pypi.org/project/mdhtml2term/) | 0.1.0 | Jeremy Howard <github@jhoward… | 17.9 kB | Render MDHTML in the terminal with Rich |
-| 2026-09-30 21:01:48 | [tourbillon-app](https://pypi.org/project/tourbillon-app/) | 6.0.0 | La Billonnière | 406.2 kB | TourBillon - by La Billionnière |
-| 2026-09-30 21:01:51 | [qsarcert](https://pypi.org/project/qsarcert/) | 1.2.0 | Andrés Monreal-Hernández <and… | 70.3 kB | Automated OECD Validation Principles, Applicability Domain (Williams Plot), Y-R… |
-| 2026-09-30 21:02:41 | [alphacert](https://pypi.org/project/alphacert/) | 1.1.0 | Andrés Monreal-Hernández <and… | 524.3 kB | Automated Quality-Control, pLDDT/PAE Assessment, and Stereochemical Certificati… |
-| 2026-09-30 21:03:34 | [simbricks-mem-base-sim-py](https://pypi.org/project/simbricks-mem-base-sim-py/) | 0.6.0 | Team SimBricks | 6.8 kB | Basic memory device models integration into SimBricks |
-| 2026-09-30 21:04:14 | [trainmeter](https://pypi.org/project/trainmeter/) | 0.0.2 |  | 240.4 kB | Where your training FLOPs go and how well the GPUs are used: loss, FLOPs, MFU a… |
-| 2026-09-30 21:04:41 | [gridrunner-video](https://pypi.org/project/gridrunner-video/) | 0.12.0 |  | 40.3 kB | Video producer SDK for GRIDRUNNER — stream frames and per-frame metadata |
-| 2026-09-30 21:06:52 | [hyperscribe](https://pypi.org/project/hyperscribe/) | 0.1.0 | Septatrix <24257556+septatrix… | 14.6 kB | A small, dependency-free HTML templating engine that writes markup with context… |
-| 2026-09-30 21:07:22 | [wirely](https://pypi.org/project/wirely/) | 0.1.0 | Steffen Kieß | 219.4 kB | Node-based language and runtime for low-level home automation |
-| 2026-09-30 21:12:23 | [f5-backup](https://pypi.org/project/f5-backup/) | 0.1.0 | Will Hinson | 21.2 kB | Automatic backups to S3-compatible storage |
-| 2026-09-30 21:14:20 | [onp-node](https://pypi.org/project/onp-node/) | 0.1.0 |  | 30.1 kB | OpenNodes Node Kit: turn a vLLM/Ollama/TGI deployment into a conforming ONP Nod… |
-| 2026-09-30 21:15:58 | [lado](https://pypi.org/project/lado/) | 0.0.1 | Alexey Kolesnikov | 8.1 kB | Layered Agent Delegation & Orchestration: run teams of AI coding agents (early… |
-| 2026-09-30 21:16:01 | [histometer](https://pypi.org/project/histometer/) | 0.0.0 |  | 1.8 kB | Name reserved for a project that has not been released yet. |
-| 2026-09-30 21:16:51 | [mbox-md](https://pypi.org/project/mbox-md/) | 0.1.0 | Nicolas Dupont | 95.4 kB | Convert Gmail Takeout and other mbox archives into Markdown files with deduplic… |
-| 2026-09-30 21:18:02 | [role-capabilities](https://pypi.org/project/role-capabilities/) | 0.1.0 | Eric Cooper <eric@cooper.nu> | 86.0 kB | App-agnostic capability-based roles: declare your own capabilities and role bun… |
-| 2026-09-30 21:18:41 | [phenometer](https://pypi.org/project/phenometer/) | 0.0.1 | Austin E. Y. T. Lefebvre | 2.1 kB | Single-cell phenotype scores from microscopy images. Placeholder release; in de… |
+| 2026-09-30 21:23:17 | [semantic-validator](https://pypi.org/project/semantic-validator/) | 0.3.0 | Semantic Validator | 24.4 kB | Python SDK for direct Jev semantic validation and optional self-hosted API |
+| 2026-09-30 21:28:56 | [holiplan](https://pypi.org/project/holiplan/) | 0.1.0 | adekola | 87.4 kB | MCP server for planning a family's year around school holidays and a limited le… |
+| 2026-09-30 21:34:55 | [kaitencloud](https://pypi.org/project/kaitencloud/) | 1.0.0 | KAITEN INC <support@kaiten.sh> | 320.7 kB | Official Python SDK for Kaiten: customers, instances, licenses, entitlements, u… |
+| 2026-09-30 21:35:46 | [ferrox-py](https://pypi.org/project/ferrox-py/) | 1.0.0 | AI-Autistic-Intelligence | 102.1 kB | Enterprise-grade Python async web framework enforcing the 7-Layer Onion Request… |
+| 2026-09-30 21:35:58 | [trytilde-langchain](https://pypi.org/project/trytilde-langchain/) | 3.0.1 |  | 31.2 kB | Tilde adapter for LangChain and LangGraph: typed context to LangChain messages… |
+| 2026-09-30 21:36:00 | [trytilde-pydantic-ai](https://pypi.org/project/trytilde-pydantic-ai/) | 3.0.1 |  | 26.0 kB | Tilde adapter for Pydantic AI: typed context to model messages, channel tools t… |
+| 2026-09-30 21:36:04 | [trytilde](https://pypi.org/project/trytilde/) | 3.0.1 |  | 447.0 kB | Tilde agent SDK for Python: dial-in agent hosts, invocation context, channel to… |
+| 2026-09-30 21:37:12 | [cloudrift-mcp](https://pypi.org/project/cloudrift-mcp/) | 0.1.0 | CloudRift <support@cloudrift.… | 27.1 kB | Read-only MCP server exposing CloudRift cloud-waste findings and verified-savin… |
+| 2026-09-30 21:37:27 | [ticket-processing](https://pypi.org/project/ticket-processing/) | 0.1.0 | ehsan bahmanipor | 7.8 kB | A simple application for purchasing and processing tickets |
+| 2026-09-30 21:37:40 | [ferrox-py-auth](https://pypi.org/project/ferrox-py-auth/) | 1.0.0 | AI-Autistic-Intelligence | 15.0 kB | IAM, SSO, GDPR and RBAC suite for Ferrox ecosystem. |
+| 2026-09-30 21:37:55 | [ferrox-py-commerce](https://pypi.org/project/ferrox-py-commerce/) | 1.0.0 | AI-Autistic-Intelligence | 19.0 kB | Billing, Subscriptions, and Standardized Webhooks for Ferrox-Py. |
+| 2026-09-30 21:38:08 | [ferrox-py-utils](https://pypi.org/project/ferrox-py-utils/) | 1.0.0 | AI-Autistic-Intelligence | 13.9 kB | Data Engineering and ETL utilities for the Ferrox ecosystem. |
+| 2026-09-30 21:39:36 | [forjio-storlaunch](https://pypi.org/project/forjio-storlaunch/) | 0.2.0 | Forjio <hello@storlaunch.com> | 67.5 kB | Official Python SDK for Storlaunch — payment (checkout sessions, plans, subscri… |
+| 2026-09-30 21:47:04 | [trytilde-crewai](https://pypi.org/project/trytilde-crewai/) | 3.0.1 |  | 29.5 kB | Tilde adapter for CrewAI: convert invocation history to CrewAI messages and cha… |
+| 2026-09-30 21:47:09 | [trytilde-openai-agents](https://pypi.org/project/trytilde-openai-agents/) | 3.0.1 |  | 29.4 kB | Tilde adapter for the OpenAI Agents SDK: typed history to Responses input items… |
+| 2026-09-30 21:47:12 | [trytilde-agno](https://pypi.org/project/trytilde-agno/) | 3.0.1 |  | 28.9 kB | Tilde adapter for Agno: convert invocation history to Agno messages and channel… |
+| 2026-09-30 21:47:49 | [monolynx-cli](https://pypi.org/project/monolynx-cli/) | 0.1.0 |  | 171.4 kB | Interfejs wiersza poleceń dla platformy Monolynx |
+| 2026-09-30 21:49:52 | [PyAgoraRTC](https://pypi.org/project/PyAgoraRTC/) | 0.2.0 | Michael Arthur | 375.3 kB | Async Python client for Agora RTC signalling: edge discovery, SDP/ORTC negotiat… |
+| 2026-09-30 21:53:15 | [forjio-huudis](https://pypi.org/project/forjio-huudis/) | 0.5.0 | Forjio <hello@huudis.com> | 56.8 kB | Official Python SDK for Huudis — email/social/MFA, fine-grained authorization,… |
+| 2026-09-30 21:55:16 | [coarsen](https://pypi.org/project/coarsen/) | 0.1.0 | Isaac Corley <isaac.corley@pr… | 2.9 MB | Parallel polygon coverage simplification in Rust |
+| 2026-09-30 21:56:38 | [szl-receipts](https://pypi.org/project/szl-receipts/) | 14.0.0 | SZL Holdings | 77.9 kB | Cryptographic receipt core for the SZL Holdings estate: RFC 8785 JCS, DSSE/Ed25… |
+| 2026-09-30 21:58:40 | [szl-evidence-litellm](https://pypi.org/project/szl-evidence-litellm/) | 0.1.0 | SZL Holdings | 78.5 kB | SZL Evidence Plane plugin for LiteLLM: hash-chained, DSSE-signed receipts for e… |
+| 2026-09-30 21:59:00 | [disscube](https://pypi.org/project/disscube/) | 0.4.0 | Sérgio Souza Costa | 247.0 kB | Declarative spatial data cubes: describe sources, grid and derived variables in… |
+| 2026-09-30 22:00:28 | [population-resemblance](https://pypi.org/project/population-resemblance/) | 0.1.0 | Diogo Ribeiro | 61.5 kB | Statistically principled monitoring of categorical population and distribution… |
+| 2026-09-30 22:02:38 | [sukuudata](https://pypi.org/project/sukuudata/) | 0.1.0 | Nerds IV Technologies <hello@… | 14.8 kB | Official client for the SukuuData API: Ghana's schools, the 2026 GES SHS placem… |
+| 2026-09-30 22:03:06 | [robotframework-api-case-reporter](https://pypi.org/project/robotframework-api-case-reporter/) | 0.1.0 | Angel Molina | 24.2 kB | Standalone HTML API evidence reports for each Robot Framework test case. |
+| 2026-09-30 22:08:23 | [stig-mcp](https://pypi.org/project/stig-mcp/) | 0.1.0 | Eric Miller | 317.4 kB | MCP server mapping MITRE ATT&CK® -> NIST 800-53r5 -> DISA STIG fix/check steps |
+| 2026-09-30 22:09:50 | [tau-net](https://pypi.org/project/tau-net/) | 0.1.0 |  | 359.1 kB | The tau network: identity keys, signed and sealed envelopes, contacts, the net… |
+| 2026-09-30 22:09:55 | [tau-cloud](https://pypi.org/project/tau-cloud/) | 0.1.0 |  | 75.6 kB | tau's cloud mode: the spine session backend, config and persona sync with the s… |
+| 2026-09-30 22:09:57 | [tau-sub](https://pypi.org/project/tau-sub/) | 0.1.0 |  | 87.7 kB | Sub-taus: small named specialists of your tau, each with its own persona, model… |
+| 2026-09-30 22:10:35 | [vexy-localizzy](https://pypi.org/project/vexy-localizzy/) | 1.0.0 |  | 4.4 MB | Traceable translation memories and localization workflows |
+| 2026-09-30 22:13:11 | [claude-codex-sessions](https://pypi.org/project/claude-codex-sessions/) | 0.1.0 | Artur Barseghyan <artur.barse… | 73.0 kB | Import your Codex CLI sessions for the current repository into Claude Code, so… |
+| 2026-09-30 22:17:01 | [tau-guard](https://pypi.org/project/tau-guard/) | 0.4.0 |  | 843.4 kB | The owner guard for tau: the hub's guard service with reflex locks, a worker su… |

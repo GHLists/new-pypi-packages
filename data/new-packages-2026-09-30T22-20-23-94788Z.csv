@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T21:23:17Z,semantic-validator,0.3.0,Semantic Validator,Apache-2.0,24359,Python SDK for direct Jev semantic validation and optional self-hosted API
+2026-09-30T21:28:56Z,holiplan,0.1.0,adekola,MIT,87354,MCP server for planning a family's year around school holidays and a limited leave allowance
+2026-09-30T21:34:55Z,kaitencloud,1.0.0,KAITEN INC <support@kaiten.sh>,Apache-2.0,320702,"Official Python SDK for Kaiten: customers, instances, licenses, entitlements, usage metering, feature flags and the Platform API."
+2026-09-30T21:35:46Z,ferrox-py,1.0.0,AI-Autistic-Intelligence,,102140,Enterprise-grade Python async web framework enforcing the 7-Layer Onion Request Pipeline.
+2026-09-30T21:35:58Z,trytilde-langchain,3.0.1,,Apache-2.0,31160,Tilde adapter for LangChain and LangGraph: typed context to LangChain messages and channel tools
+2026-09-30T21:36:00Z,trytilde-pydantic-ai,3.0.1,,Apache-2.0,25990,"Tilde adapter for Pydantic AI: typed context to model messages, channel tools to Pydantic AI tools"
+2026-09-30T21:36:04Z,trytilde,3.0.1,,Apache-2.0,447026,"Tilde agent SDK for Python: dial-in agent hosts, invocation context, channel tools, FastAPI integration and the chat proxy"
+2026-09-30T21:37:12Z,cloudrift-mcp,0.1.0,CloudRift <support@cloudrift.tech>,MIT,27090,Read-only MCP server exposing CloudRift cloud-waste findings and verified-savings receipts to AI assistants
+2026-09-30T21:37:27Z,ticket-processing,0.1.0,ehsan bahmanipor,,7751,A simple application for purchasing and processing tickets
+2026-09-30T21:37:40Z,ferrox-py-auth,1.0.0,AI-Autistic-Intelligence,,15015,"IAM, SSO, GDPR and RBAC suite for Ferrox ecosystem."
+2026-09-30T21:37:55Z,ferrox-py-commerce,1.0.0,AI-Autistic-Intelligence,,18957,"Billing, Subscriptions, and Standardized Webhooks for Ferrox-Py."
+2026-09-30T21:38:08Z,ferrox-py-utils,1.0.0,AI-Autistic-Intelligence,,13910,Data Engineering and ETL utilities for the Ferrox ecosystem.
+2026-09-30T21:39:36Z,forjio-storlaunch,0.2.0,Forjio <hello@storlaunch.com>,MIT,67505,"Official Python SDK for Storlaunch — payment (checkout sessions, plans, subscriptions, invoices, receipts, customers, portal sessions, webhooks), storefront (products, licenses, deliveries), shipping…"
+2026-09-30T21:47:04Z,trytilde-crewai,3.0.1,,Apache-2.0,29547,Tilde adapter for CrewAI: convert invocation history to CrewAI messages and channel tools to CrewAI tools
+2026-09-30T21:47:09Z,trytilde-openai-agents,3.0.1,,Apache-2.0,29409,Tilde adapter for the OpenAI Agents SDK: typed history to Responses input items and channel tools to function tools
+2026-09-30T21:47:12Z,trytilde-agno,3.0.1,,Apache-2.0,28939,Tilde adapter for Agno: convert invocation history to Agno messages and channel tools to Agno functions
+2026-09-30T21:47:49Z,monolynx-cli,0.1.0,,MIT,171353,Interfejs wiersza poleceń dla platformy Monolynx
+2026-09-30T21:49:52Z,PyAgoraRTC,0.2.0,Michael Arthur,GPL-3.0-or-later,375266,"Async Python client for Agora RTC signalling: edge discovery, SDP/ORTC negotiation and the WebSocket gateway session"
+2026-09-30T21:53:15Z,forjio-huudis,0.5.0,Forjio <hello@huudis.com>,MIT,56841,"Official Python SDK for Huudis — email/social/MFA, fine-grained authorization, webhook signature verification, and full admin API (IAM, workspaces, end-users, billing, webhook subscriptions) with OID…"
+2026-09-30T21:55:16Z,coarsen,0.1.0,Isaac Corley <isaac.corley@proton.me>,LGPL-2.1-or-later,2854188,Parallel polygon coverage simplification in Rust
+2026-09-30T21:56:38Z,szl-receipts,14.0.0,SZL Holdings,Proprietary,77878,"Cryptographic receipt core for the SZL Holdings estate: RFC 8785 JCS, DSSE/Ed25519, in-toto statements, hash-chained GovernedAction receipts."
+2026-09-30T21:58:40Z,szl-evidence-litellm,0.1.0,SZL Holdings,Proprietary,78509,"SZL Evidence Plane plugin for LiteLLM: hash-chained, DSSE-signed receipts for every LLM request via LiteLLM's callback system."
+2026-09-30T21:59:00Z,disscube,0.4.0,Sérgio Souza Costa,MIT,246992,"Declarative spatial data cubes: describe sources, grid and derived variables in TOML; get a cataloged, reproducible cube."
+2026-09-30T22:00:28Z,population-resemblance,0.1.0,Diogo Ribeiro,MIT,61490,Statistically principled monitoring of categorical population and distribution shifts.
+2026-09-30T22:02:38Z,sukuudata,0.1.0,Nerds IV Technologies <hello@sukuudata.com>,MIT,14849,"Official client for the SukuuData API: Ghana's schools, the 2026 GES SHS placement register and CSSPS choice validation."
+2026-09-30T22:03:06Z,robotframework-api-case-reporter,0.1.0,Angel Molina,,24179,Standalone HTML API evidence reports for each Robot Framework test case.
+2026-09-30T22:08:23Z,stig-mcp,0.1.0,Eric Miller,MIT,317360,MCP server mapping MITRE ATT&CK® -> NIST 800-53r5 -> DISA STIG fix/check steps
+2026-09-30T22:09:50Z,tau-net,0.1.0,,MIT,359110,"The tau network: identity keys, signed and sealed envelopes, contacts, the net hub service, owner tools and the tau net command."
+2026-09-30T22:09:55Z,tau-cloud,0.1.0,,MIT,75629,"tau's cloud mode: the spine session backend, config and persona sync with the spine, and the brain container's entrypoint."
+2026-09-30T22:09:57Z,tau-sub,0.1.0,,MIT,87739,"Sub-taus: small named specialists of your tau, each with its own persona, model role, tool allowlist and sessions."
+2026-09-30T22:10:35Z,vexy-localizzy,1.0.0,,Apache-2.0,4388933,Traceable translation memories and localization workflows
+2026-09-30T22:13:11Z,claude-codex-sessions,0.1.0,Artur Barseghyan <artur.barseghyan@gmail.com>,MIT,72982,"Import your Codex CLI sessions for the current repository into Claude Code, so they open with /resume."
+2026-09-30T22:17:01Z,tau-guard,0.4.0,,MIT,843441,"The owner guard for tau: the hub's guard service with reflex locks, a worker subprocess per check, protected /guard routes, an audit log and the tau guard command."
