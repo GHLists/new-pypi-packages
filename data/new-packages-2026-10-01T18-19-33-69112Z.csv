@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T17:19:07Z,odoo-addon-edi-webservice-core-oca,18.0.1.1.0.2,"Dixmit, Camptocamp, Odoo Community Association (OCA)",AGPL-3,31354,Webservice backend and send handler for EDI: no component dependency
+2026-10-01T17:19:23Z,causalopt,0.0.1,Avik Basu,Apache-2.0,104131,Regression discontinuity estimation and causal threshold optimization for binary and multiclass decisions
+2026-10-01T17:20:06Z,langchain-sync-monitors,0.1.0,Antonio Badilla-Olivas <omamori-lab@proton.me>,MIT,803025,"AI-control monitors for LangChain agents and Deep Agents: every step an agent proposes is judged before any of its own tools run, and a control protocol decides what runs."
+2026-10-01T17:22:06Z,modelduel,0.6.0,Alberto Martínez,MIT,210096,"Dos modelos, una tarea, los mismos tests: compara modelos de IA programando."
+2026-10-01T17:30:01Z,gaas-agent-framework,0.1.0,H2Om <sdk@gaas.is>,Apache-2.0,37319,Microsoft Agent Framework integration for GaaS (Governance as a Service)
+2026-10-01T17:31:37Z,zlsp-py,0.1.0,Daniele Linguaglossa,MIT,687941,"A native Language Server Protocol server for any language defined with zgram and checked with zrules: diagnostics, navigation, rename, highlighting, completion."
+2026-10-01T17:37:22Z,autocover-lite,0.1.0,Mudit Baid,MIT,192023,"Multi-agent Python test generator with coverage, scenario and mutation quality gates"
+2026-10-01T17:38:19Z,basinforge-hydro,0.1.0,,GPL-3.0-only,4774684,Reproducible single- and multi-basin lumped hydrological calibration
+2026-10-01T17:38:38Z,inferweave,0.1.0,AmaLS367,Apache-2.0,2280275,Unified AI inference deployment SDK across cloud GPU providers
+2026-10-01T17:38:47Z,pm-ahamot-direct-publishing-test,0.0.1.dev2026100118031092,,,80503,
+2026-10-01T17:48:45Z,cryptures,0.1.0,Cryptures,MIT,117984,"Official Python SDK for the Cryptures API: blockchain infrastructure, crypto cards, and compliance in one client."
+2026-10-01T17:49:44Z,clijson,0.2.0,Shady Magdy,MIT,280823,"Turn show/display command output from Cisco IOS XR, Juniper Junos and Huawei VRP routers into JSON."
+2026-10-01T17:50:50Z,orchestrated-claude,0.1.15,,,92757,Install Claude Code delivery and code-review skills with focused custom agents.
+2026-10-01T17:53:26Z,fancy-gmail-inbox,0.1.0,Particle Academy,MIT,47024,"Gmail Inbox for Python — the service descriptor, its faker, its webhook verification, and one function per operation. Plain HTTP; no vendor SDK."
+2026-10-01T18:00:34Z,sagaconf,1.1.0,Mehdi Foroozandeh,MIT,81370,Calibrated confidence scores (r-values) for chromatin state annotations from SAGA methods.
+2026-10-01T18:00:39Z,evalforge-lite,1.0.0,Jared Chapman,MIT,169227,"Compare text LLMs across OpenRouter, Amazon Bedrock, Google Vertex AI and Microsoft Foundry with automated grading and reports (MCP server)."
+2026-10-01T18:00:43Z,central-auth,0.1.0,Central <hello@central.chat>,Apache-2.0,14454,Mints Central App Entry tokens from the key file the console downloads — server side only
+2026-10-01T18:01:01Z,textui-markup,0.7.0,thunderballfists,MIT,238522,"Declarative, HTML-like markup for Textual apps: widgets, TCSS styles, and Python actions"
+2026-10-01T18:05:02Z,pyofel,0.1.0,se-benjamin-carron,MIT,52798310,"Python bindings for Ofel, via pythonnet and Ofel.PythonInterop."
+2026-10-01T18:06:31Z,whybook,0.1.0,Michal Krassowski,BSD-3-Clause AND Apache-2.0,2016867,Whybook: a question-driven view of Jupyter notebooks
+2026-10-01T18:06:46Z,touchlab-license-server,1.0.0,Touchlab Limited <abi@touchlab.io>,LicenseRef-Touchlab-Proprietary,18156,Local license check service for touchlab-slip-model: which fingertips are licensed and how many days are left
+2026-10-01T18:08:30Z,cloakrs,0.1.0a1,,MIT,6060875,"Local PII detection, redaction, and prompt sanitization powered by Rust"
+2026-10-01T18:09:41Z,taintrace,0.2.0,Yunare Maia <yunare@gmail.com>,MIT,32404,Typosquat detector for AI coding agent dependencies
+2026-10-01T18:10:22Z,btx-skill-jev-judge,0.2.0,bitranox <bitranox@gmail.com>,MIT,283896,"Batch-judge items with the TypeSafe Jev API: run, summarize and check-key from the command line"
+2026-10-01T18:11:22Z,langgraph-jev,0.1.0,langgraph-jev contributors,MIT,164588,"A typed probabilistic decision node for LangGraph, powered by TypeSafe's Jev."
+2026-10-01T18:11:49Z,assisting-intelligence,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47904,Assisting-Intelligence ...
+2026-10-01T18:12:04Z,aegis-core-engine,0.4.1,,,2068363,"Deterministic, coverage-aware Python security analysis and guarded repair"
+2026-10-01T18:12:19Z,ci-test-gate,0.1.0,Yunare Maia <yunare@gmail.com>,MIT,51203,LLM-powered test selection for CI — run only the tests that matter
+2026-10-01T18:13:17Z,codetopo,0.0.1,,MIT OR Apache-2.0,1948,"Multi-scale merge-tree queries over code graphs and embeddings, built on persist0"
+2026-10-01T18:15:47Z,gtrends-mcp-full,0.1.0,Mohammadreza (mamrrez),MIT,242469,"Google Trends MCP server for Claude, Cursor and any MCP client: Trending Now, interest over time, regions, related searches, seasonality and share of search. No API key, no browser."
+2026-10-01T18:16:25Z,kisscut,1.0.0,Michael Bortlik <michael@bortlik.io>,MIT,210414,"Photo to WhatsApp sticker: cut out the subject, cut it to shape, give it a border - in the browser or from the command line"
