@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T03:20:57Z,gfm-math-lint,0.1.1,Jacob Hammond <114956625+jacobhammond@users.noreply.github.com>,MIT,94183,"Linter and auto-fixer for GitHub-Flavored Markdown math (MathJax), tables, code fences, and Mermaid"
+2026-10-01T03:21:03Z,openhcs-basicpy,1.3.1,"Nicholas Schaub, Tim Morello, Tingying Peng, Yohsuke T. Fukai",MIT,52893,A python package for background and shading correction of optical microscopy images
+2026-10-01T03:23:45Z,khriss,1.0.0,Sean Richards,MIT License,11538,Khriss: print-quality figures in Python
+2026-10-01T03:23:55Z,planex2d,0.0.1.dev0,Sebastian Hirnschall,,1849,2D line/arc geometry with offsets and booleans for netgen OCC (in development)
+2026-10-01T03:30:39Z,mksinewave,1.0.2,DJ Stomp,,10109,Simple command-line tool for creating audio files containing pure sine wave tones
+2026-10-01T03:32:39Z,jx-gui,1.0.0,"""Mr. Inosuke"" <inosukehasibira149@gmail.com>",MIT,11508,Turn simple print() and input() programs into a GUI window with one line of code.
+2026-10-01T03:34:18Z,aecode,0.2.0,AeCode Contributors,MIT,44199,"DSL ultra-compacto para scraping, UI y APIs. Ahorra 95% de tokens en agentes de IA."
+2026-10-01T03:36:47Z,perron-core,0.2.0,Sultan Haikal <yvliet@users.noreply.github.com>,Apache-2.0,155704,Context-Bounded Repository Navigation via Query-Directed Spectral Hub Suppression for Edge Developer Agents
+2026-10-01T03:38:50Z,llmflock,0.0.2,,,29233,"LLM Runner Control is a CLI tool to interact with local and remote LLM, define multiple scenario variations (model × prompt × options), run it over a dataset and capture structured results for compar…"
+2026-10-01T03:42:53Z,agentsbridge,0.1.0,agentsbridge contributors,MIT,23945,"Bridge AGENTS.md to every AI coding tool's rules file - one source of truth for Claude Code, Copilot, Cursor, Windsurf, Cline, and Aider."
+2026-10-01T03:45:25Z,lakeview-cli,0.1.0,Karthik Beesa,Apache-2.0,157460,"Local data profiling, exact semantic diffs, and streaming SQL with DuckDB"
+2026-10-01T03:52:40Z,c2r-collect,0.1.1,,MIT,69894,Oracle data dictionary + PL/SQL source collector that writes okf-loom input folders
+2026-10-01T03:53:36Z,soma-governance,0.61.0,Soma Contributors,Apache-2.0,614154,Governance framework that makes AI coding agents trustworthy
+2026-10-01T03:58:20Z,trustrail-sdk,0.9.0a1,TrustRail Engineering,BUSL-1.1,29855,Alpha Python SDK for TrustRail governed actions and gateway execution
+2026-10-01T03:58:56Z,hyperot-adapter-onebot,2.0.0,,,39368,OneBot v11 adapter for HyperBotCore V2
+2026-10-01T04:01:42Z,pylogify,1.0.0,Logify,Apache-2.0,19504,"PII-safe, OTel-correlated JSON logging"
+2026-10-01T04:04:38Z,rgpu,0.1.0,Yan Michalevsky,Apache-2.0,95409,A PyTorch device whose tensors live on a remote GPU
+2026-10-01T04:05:12Z,zanii-blackbox,0.1.0,Zanii,Apache-2.0,329294,"The flight recorder for AI agents: sessions, a zero-loss spool, framework hooks, approvals, and offline verification of the gateway's hash-chained record."
+2026-10-01T04:14:37Z,promptdrift-py,0.1.0,promptdrift contributors,Apache-2.0,225719,Snapshot-diff-first prompt regression testing with flake-aware verdicts and CI gating. Know what your prompt change actually did.

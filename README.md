@@ -8,38 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 03:20 UTC
+## Latest list — 2026-10-01 04:18 UTC
 
-New packages created between 2026-10-01 02:18 UTC and 2026-10-01 03:20 UTC.
+New packages created between 2026-10-01 03:20 UTC and 2026-10-01 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-01T03-20-25-552655Z.csv)
+[Full CSV](data/new-packages-2026-10-01T04-18-36-980309Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-01 02:06:35 | [data-privacy](https://pypi.org/project/data-privacy/) | 0.1.1 |  | 16.0 kB | Functions supporting data privacy for datasets |
-| 2026-10-01 02:18:36 | [based-models-agentloop](https://pypi.org/project/based-models-agentloop/) | 0.4.0 |  | 108.6 kB | A provider-agnostic agent loop: transcript, provider seam, tool machinery, retr… |
-| 2026-10-01 02:18:43 | [tensorcodec](https://pypi.org/project/tensorcodec/) | 0.1.0 | Suhwan Choi <milkclouds00@gma… | 11.1 MB | NumPy audio/video decoding with TorchCodec-compatible playback semantics |
-| 2026-10-01 02:20:50 | [cartage](https://pypi.org/project/cartage/) | 0.1.2 |  | 5.0 MB | Declarative data migrations: YAML pipelines, Python transforms, any engine, any… |
-| 2026-10-01 02:23:01 | [ecsodus](https://pypi.org/project/ecsodus/) | 0.1.2 | Vamshidher Reddy Jannapu Reddy | 226.4 kB | Safely migrate AWS Copilot CLI apps to Terraform-managed ECS (adopt in place, r… |
-| 2026-10-01 02:24:22 | [track2corridor-geo](https://pypi.org/project/track2corridor-geo/) | 0.1.1 | Alena Nikitina | 33.3 kB | Build an auditable centerline and corridor from ground mobile-mapping trajector… |
-| 2026-10-01 02:24:27 | [based-models-agentloop-tools](https://pypi.org/project/based-models-agentloop-tools/) | 0.1.0 |  | 27.6 kB | Tools for agentloop agents: native web search now; client search and coding too… |
-| 2026-10-01 02:26:19 | [arch-upload](https://pypi.org/project/arch-upload/) | 0.1.0 |  | 13.0 kB | Small resumable file uploader driven by a temporary upload session |
-| 2026-10-01 02:27:26 | [auto-3dx](https://pypi.org/project/auto-3dx/) | 1.0.0 |  | 467.0 kB | Python library for driving the 3DEXPERIENCE CATIA Automation object model over… |
-| 2026-10-01 02:27:36 | [ChatXHS](https://pypi.org/project/ChatXHS/) | 0.0.2 | ChatArch <rex@chatarch.org> | 9.2 kB | A ChatArch Python toolkit for Xiaohongshu management. |
-| 2026-10-01 02:32:46 | [agentcompile](https://pypi.org/project/agentcompile/) | 0.2.0 | AgentCompile <founders@tryage… | 35.8 kB | Wrap your agent's model client: repeated jobs run compiled, everything else goe… |
-| 2026-10-01 02:37:29 | [movie-tui](https://pypi.org/project/movie-tui/) | 0.1.3 | Movie TUI Contributors | 42.6 kB | Authenticated movie archive search and download TUI |
-| 2026-10-01 02:49:43 | [pmx-cli](https://pypi.org/project/pmx-cli/) | 0.2.0 | tteschon | 78.8 kB | Process discovery from event logs, built on pm4py. |
-| 2026-10-01 02:51:46 | [RSOSTB](https://pypi.org/project/RSOSTB/) | 1.0.0 | RSOSTBTEST-pro contributors | 871.8 kB | RSOSTBTEST-pro — Rayofire's Basic Orbital Strike Cannon Test (large): an open,… |
-| 2026-10-01 02:55:37 | [j-input](https://pypi.org/project/j-input/) | 0.1.0 | JYAARU | 416.2 kB | Windows global input for Python: low-level mouse and keyboard hooks decided on… |
-| 2026-10-01 02:57:19 | [yhub](https://pypi.org/project/yhub/) | 0.0.1 | Yifeitao | 8.3 kB | Name reservation for yhub — an always-on local hub for your own machines and se… |
-| 2026-10-01 03:04:20 | [neuralosd](https://pypi.org/project/neuralosd/) | 1.0.0 | Hyperspace Technologies <agen… | 60.7 kB | Deterministic-first agentic runtime — @probe framework, chain runner, meta-sele… |
-| 2026-10-01 03:06:07 | [elm327obd](https://pypi.org/project/elm327obd/) | 0.1.1 | Jeff Caldwell | 231.1 kB | OBD2 car diagnostics in your terminal for ELM327 WiFi adapters: live data, trou… |
-| 2026-10-01 03:08:36 | [vp6](https://pypi.org/project/vp6/) | 0.4.3 | FrackieTV | 1.4 MB | VB6-style IDE and GUI framework for Python |
-| 2026-10-01 03:09:04 | [tabtk](https://pypi.org/project/tabtk/) | 1.0.0 | Chrispin Chaguza <chrispin.ch… | 26.8 kB | tabtk: A toolkit for sequence similarity analysis based on tabular data |
-| 2026-10-01 03:10:11 | [publicdata-au](https://pypi.org/project/publicdata-au/) | 0.1.0 | National Digital | 17.5 kB | Query and download Australian government open data from publicdata.au. |
-| 2026-10-01 03:15:23 | [altar](https://pypi.org/project/altar/) | 0.1.0 | Riya Sinha | 4.1 MB | Public contracts, orchestration primitives, and conformance suites for genomic… |
-| 2026-10-01 03:16:10 | [altar-identity](https://pypi.org/project/altar-identity/) | 0.1.0 | Riya Sinha | 33.3 kB | Dependency-free variant and content identity shared by Altar and its model runt… |
-| 2026-10-01 03:16:14 | [altar-alphamissense](https://pypi.org/project/altar-alphamissense/) | 0.1.0 | Riya Sinha | 19.9 kB | AlphaMissense annotation-source binding for Altar |
-| 2026-10-01 03:16:16 | [altar-cherimoya](https://pypi.org/project/altar-cherimoya/) | 0.1.0 | Riya Sinha | 27.2 kB | Cherimoya model binding for Altar |
-| 2026-10-01 03:18:39 | [B.I.N.U](https://pypi.org/project/B.I.N.U/) | 1.0.0 | Binei | 1.9 kB | B.I.N.U - Speech to Text AI Assistant |
-| 2026-10-01 03:19:44 | [lebre](https://pypi.org/project/lebre/) | 0.1.0 | Silvano Lima | 7.9 MB | Online one-step-ahead forecasting with statistically tested structural changes,… |
+| 2026-10-01 03:20:57 | [gfm-math-lint](https://pypi.org/project/gfm-math-lint/) | 0.1.1 | Jacob Hammond <114956625+jaco… | 94.2 kB | Linter and auto-fixer for GitHub-Flavored Markdown math (MathJax), tables, code… |
+| 2026-10-01 03:21:03 | [openhcs-basicpy](https://pypi.org/project/openhcs-basicpy/) | 1.3.1 | Nicholas Schaub, Tim Morello,… | 52.9 kB | A python package for background and shading correction of optical microscopy im… |
+| 2026-10-01 03:23:45 | [khriss](https://pypi.org/project/khriss/) | 1.0.0 | Sean Richards | 11.5 kB | Khriss: print-quality figures in Python |
+| 2026-10-01 03:23:55 | [planex2d](https://pypi.org/project/planex2d/) | 0.0.1.dev0 | Sebastian Hirnschall | 1.8 kB | 2D line/arc geometry with offsets and booleans for netgen OCC (in development) |
+| 2026-10-01 03:30:39 | [mksinewave](https://pypi.org/project/mksinewave/) | 1.0.2 | DJ Stomp | 10.1 kB | Simple command-line tool for creating audio files containing pure sine wave ton… |
+| 2026-10-01 03:32:39 | [jx-gui](https://pypi.org/project/jx-gui/) | 1.0.0 | "Mr. Inosuke" <inosukehasibir… | 11.5 kB | Turn simple print() and input() programs into a GUI window with one line of cod… |
+| 2026-10-01 03:34:18 | [aecode](https://pypi.org/project/aecode/) | 0.2.0 | AeCode Contributors | 44.2 kB | DSL ultra-compacto para scraping, UI y APIs. Ahorra 95% de tokens en agentes de… |
+| 2026-10-01 03:36:47 | [perron-core](https://pypi.org/project/perron-core/) | 0.2.0 | Sultan Haikal <yvliet@users.n… | 155.7 kB | Context-Bounded Repository Navigation via Query-Directed Spectral Hub Suppressi… |
+| 2026-10-01 03:38:50 | [llmflock](https://pypi.org/project/llmflock/) | 0.0.2 |  | 29.2 kB | LLM Runner Control is a CLI tool to interact with local and remote LLM, define… |
+| 2026-10-01 03:42:53 | [agentsbridge](https://pypi.org/project/agentsbridge/) | 0.1.0 | agentsbridge contributors | 23.9 kB | Bridge AGENTS.md to every AI coding tool's rules file - one source of truth for… |
+| 2026-10-01 03:45:25 | [lakeview-cli](https://pypi.org/project/lakeview-cli/) | 0.1.0 | Karthik Beesa | 157.5 kB | Local data profiling, exact semantic diffs, and streaming SQL with DuckDB |
+| 2026-10-01 03:52:40 | [c2r-collect](https://pypi.org/project/c2r-collect/) | 0.1.1 |  | 69.9 kB | Oracle data dictionary + PL/SQL source collector that writes okf-loom input fol… |
+| 2026-10-01 03:53:36 | [soma-governance](https://pypi.org/project/soma-governance/) | 0.61.0 | Soma Contributors | 614.2 kB | Governance framework that makes AI coding agents trustworthy |
+| 2026-10-01 03:58:20 | [trustrail-sdk](https://pypi.org/project/trustrail-sdk/) | 0.9.0a1 | TrustRail Engineering | 29.9 kB | Alpha Python SDK for TrustRail governed actions and gateway execution |
+| 2026-10-01 03:58:56 | [hyperot-adapter-onebot](https://pypi.org/project/hyperot-adapter-onebot/) | 2.0.0 |  | 39.4 kB | OneBot v11 adapter for HyperBotCore V2 |
+| 2026-10-01 04:01:42 | [pylogify](https://pypi.org/project/pylogify/) | 1.0.0 | Logify | 19.5 kB | PII-safe, OTel-correlated JSON logging |
+| 2026-10-01 04:04:38 | [rgpu](https://pypi.org/project/rgpu/) | 0.1.0 | Yan Michalevsky | 95.4 kB | A PyTorch device whose tensors live on a remote GPU |
+| 2026-10-01 04:05:12 | [zanii-blackbox](https://pypi.org/project/zanii-blackbox/) | 0.1.0 | Zanii | 329.3 kB | The flight recorder for AI agents: sessions, a zero-loss spool, framework hooks… |
+| 2026-10-01 04:14:37 | [promptdrift-py](https://pypi.org/project/promptdrift-py/) | 0.1.0 | promptdrift contributors | 225.7 kB | Snapshot-diff-first prompt regression testing with flake-aware verdicts and CI… |
