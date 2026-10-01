@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T14:20:58Z,czar,0.0.0,,Apache-2.0 OR MIT,1784,A lightweight workflow orchestrator (in development; first release coming soon)
+2026-10-01T14:24:55Z,gscope-cli,0.1.0,higger <matt.higger@gmail.com>,MIT,36515,"Unofficial instructor-side Gradescope client: read outlines, push rubrics, from Python or the command line."
+2026-10-01T14:30:34Z,odoo-addon-l10n-jp-kana-product-name,19.0.1.0.0.2,"Quartile, Odoo Community Association (OCA)",LGPL-3,26943,Add a normalized kana name to products
+2026-10-01T14:33:33Z,arc56-generated-danis-45563357,1.2.2026072010,Danish0703,,51027,Generated ARC-56 Algorand smart-contract clients for Danish0703/AlgoEscrow.
+2026-10-01T14:34:21Z,mcp_library_search,0.1.0,Derrick Huang <cnderrick.huang@gmail.com>,Apache-2.0,176179,MCP server for finding books in city library systems (Shanghai supported; more cities coming)
+2026-10-01T14:34:38Z,arc56-generated-danis-097bdcf7,1.2.2026072010,Danish0703,,90348,Generated ARC-56 Algorand smart-contract clients for Danish0703/ComplianceAudit.
+2026-10-01T14:34:54Z,marimo-mmp,0.0.1,Anton Siomchen <41703271+asiomchen@users.noreply.github.com>,MIT,99610,Reactive visualization of mmpdb transform results
+2026-10-01T14:35:43Z,arc56-generated-danis-f7ff532d,1.2.2026072010,Danish0703,,40544,Generated ARC-56 Algorand smart-contract clients for Danish0703/SplitChain.
+2026-10-01T14:36:24Z,mayia-ai,0.1.1,ORF (Filip O.),MIT,10244,Official Python SDK for the Mayia AI API
+2026-10-01T14:36:45Z,pyxaf,0.1.2,Ben van der Burgh,MIT,284378,"Read and validate every iteration of the Dutch XML Auditfile Financieel (XAF 4.0, 3.2.1, 3.2, 3.1, 3.0, CLAIR2 and ADF)."
+2026-10-01T14:36:47Z,arc56-generated-daowa-bd314e29,1.2.2026072010,DaoWakanda,,14518,Generated ARC-56 Algorand smart-contract clients for DaoWakanda/DaoWakanda-smart-contract-v2.
+2026-10-01T14:37:47Z,pymlsapi,0.1.0,MLS API Team <support@mlsapi.dev>,MIT,102590,"Official Python client library for mlsapi.dev — Real estate MLS listing ingestion, property intelligence, and Studio visual AI"
+2026-10-01T14:38:16Z,mlx-dfloat,0.1.0,Denis Ineshin <denis.ineshin@gmail.com>,Apache-2.0,713542,"Run DFloat11 losslessly compressed BF16 models on Apple Silicon with MLX: bit-identical output at roughly 70% of BF16 memory, as the DFloat11 authors report"
+2026-10-01T14:38:42Z,nova-arsenal,2.0.0,Informant254,Apache-2.0,886610,Autonomous security research platform with zero-day candidate pipeline
+2026-10-01T14:39:17Z,blender-doc-icons,520.0.0,,MIT AND CC-BY-SA-4.0,1038934,"Blender SVG icons for MkDocs, Sphinx, Quarto, and other documentation tools"
+2026-10-01T14:39:19Z,english-kk,1.0.0,fsvcgschutnjj <KK21588@qq.com>,Copyright (c) 2026 ShiKangYong License Terms: 1. There are no restrictions for local use of this li…,6636,超级实用的翻译库
+2026-10-01T14:40:14Z,messagefoundry-toolkit,0.5.0,"MessageFoundry Foundation, LLC and contributors",AGPL-3.0-or-later,26512,"Authoring and development tooling for MessageFoundry, kept out of the engine wheel (ADR 0201)"
+2026-10-01T14:40:21Z,edelkrone,0.0.1,edelkrone <idari@edelkrone.com>,MIT,2166,Python SDK for edelkrone motion control equipment. This version reserves the name; the first release is 0.1.0.
+2026-10-01T14:42:24Z,llmcachex-core,0.1.0,Alimehdi Suleman,MIT,172745,"Lightweight Python caching, resilience, semantic caching, rate limiting and observability for LLM/API applications."
+2026-10-01T14:44:17Z,franre,0.1.0,zyrokun,MIT,8758,Franklin-Reiter RSA related-message solver
+2026-10-01T14:45:05Z,opaque-sdk,0.0.1,Matei Dibu,,2098,
+2026-10-01T14:45:31Z,thrl-rs,0.2.2,,,7748840,Touhou Reinforcement Learning Framework
+2026-10-01T14:45:58Z,aiida-feff,0.1.0a1,"""J. Kane Shenton"" <kane.shenton@stfc.ac.uk>",BSD-3-Clause,209199,AiiDA plugin for FEFF: provenance-tracked EXAFS calculations
+2026-10-01T14:46:03Z,qang,0.4.0,Vicente Humberto Monteverde <viny01958@gmail.com>,MIT,208463,The Qang (qg): a unified angular-probability unit and metric for parametric quantum circuit design.
+2026-10-01T14:47:26Z,oxid,0.0.1,"""Optersoft, S.L."" <hello@optersoft.com>",Apache-2.0,164865,"Compile typed Python that uses Rust-backed libraries into native code, through Rust."
+2026-10-01T14:49:46Z,dabook,0.1.0,Vaibhav,Apache-2.0,144688,"Compile any book-like document into a traceable, validated, editable Book Graph and export as ML-ready datasets"
+2026-10-01T14:51:28Z,osva-sdk,1.0.0,,Apache-2.0,22830,Official OSVA SDK for Python
+2026-10-01T14:51:47Z,vispek-hc,0.0.1,Vispek,Apache-2.0,2384,Name reserved for the SDK of the Vispek HC1500 multispectral camera (not released yet)
+2026-10-01T14:52:34Z,vvz-agent-memory,1.7.47,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,MIT,39897,"Agent dialogue memory for the vvz prompt contract: AI Logger, with a local .agent-memory/ file store while the logger is unreachable"
+2026-10-01T14:53:11Z,crowdb-tpc-loader,0.1.0,CrowDB contributors,Apache-2.0,134008,Generate and safely load TPC-H and TPC-DS Parquet datasets into an Iceberg REST catalog
+2026-10-01T14:54:23Z,engineering-argument-language,3.2.3,Emmett Miller,Unlicense,973478,An ANTLR4 language and MCP interpreter for engineering reasoning and argumentation
+2026-10-01T14:55:04Z,kazma,0.0.1,Mubder Alfaris / KazmaAI,MIT,2198,Held by the Kazma project: contains no code. Kazma installs from its GitHub releases.
+2026-10-01T14:55:04Z,tbc-payments,0.1.0,TBC Payments SDK contributors,MIT,23755,Typed synchronous and asynchronous client for TBC Checkout payments.
+2026-10-01T14:55:19Z,croissantminer,0.2.0,Berke Arda <bearda@ethz.ch>,MIT,342942,"Extract Croissant metadata, including the Responsible AI fields, from ML dataset papers"
+2026-10-01T14:55:24Z,sonore,0.3.0,Adrian Cho <choyun1@gmail.com>,MIT,284760,"Signals and stimuli for auditory research: generators, filterbanks, STFTs, binaural cues, HRIR spatialization, synthetic reverb."
+2026-10-01T14:59:42Z,kazma-core,0.0.1,Mubder Alfaris / KazmaAI,MIT,2247,Held by the Kazma project: contains no code. Kazma installs from its GitHub releases.
+2026-10-01T14:59:43Z,kazma-cli,0.0.1,Mubder Alfaris / KazmaAI,MIT,2236,Held by the Kazma project: contains no code. Kazma installs from its GitHub releases.
+2026-10-01T14:59:46Z,kazma-gateway,0.0.1,Mubder Alfaris / KazmaAI,MIT,2272,Held by the Kazma project: contains no code. Kazma installs from its GitHub releases.
+2026-10-01T15:00:25Z,fdsn-rush,0.1.0,Marius Paul Isken <marius.isken@gfz.de>,GPL-3.0-or-later,72264,Fast and reliable download of seismic waveform data from FDSN web services into SDS archives
+2026-10-01T15:03:44Z,kazma-skills,0.0.1,Mubder Alfaris / KazmaAI,MIT,2259,Held by the Kazma project: contains no code. Kazma installs from its GitHub releases.
+2026-10-01T15:03:45Z,kazma-tui,0.0.1,Mubder Alfaris / KazmaAI,MIT,2235,Held by the Kazma project: contains no code. Kazma installs from its GitHub releases.
+2026-10-01T15:03:46Z,kazma-memory,0.0.1,Mubder Alfaris / KazmaAI,MIT,2260,Held by the Kazma project: contains no code. Kazma installs from its GitHub releases.
+2026-10-01T15:05:07Z,qall-registry-client,0.1.1,,Apache-2.0,41518,Qall Registry package
+2026-10-01T15:05:36Z,plumberlama,0.1.1,CorrelAid e.V.,MIT,91082,"Pipeline to process, anonymize and load LamaPoll survey results to a database"
+2026-10-01T15:06:16Z,robot-report-card,0.1.0,Sebi Lopez,Apache-2.0,12176585,Is it your data or your model? Dataset scoring and honest policy evaluation for LeRobot / SO-101 imitation learning.
+2026-10-01T15:06:55Z,kazma-ui,0.0.1,Mubder Alfaris / KazmaAI,MIT,2225,Held by the Kazma project: contains no code. Kazma installs from its GitHub releases.
+2026-10-01T15:08:15Z,qall-daemon-client,0.1.1,,Apache-2.0,31885,Qall daemon client package
+2026-10-01T15:10:27Z,ea-cwh,0.20261001.3,Dunimd Team,Apache-2.0,24164,Encre Agent plugin market central index — the catalog of published ea-plugin-* packages
+2026-10-01T15:10:44Z,django-allauth-trusted-devices,0.1.0,PESCHECK,MIT,55607,New-device sign-in notifications and email confirmation for django-allauth
+2026-10-01T15:13:49Z,webpilot-si,0.0.1,Clane AI,Proprietary,3999,"WebPilot.si: a real, persistent browser for AI agents and automation (SDK in development)."
+2026-10-01T15:13:52Z,x5browser,1.0.0,x5browser,MIT,117657,Browser library for AI agents: CDP tools (every action returns result + screenshot) plus a pure token-gated live view.
+2026-10-01T15:14:15Z,visit-it-pro,0.1.0,Alexandro Disla,MIT,102934,"Checklist-driven IT site visits: a Markdown checklist on site, a PDF report after, every visit kept in SQLite and followed on a terminal dashboard."
+2026-10-01T15:14:18Z,fepcert,1.2.0,Andrés Monreal-Hernández <andres.monreal@ues.mx>,MIT,81428,"Automated Quality-Control, Phase Space Overlap, and Thermodynamic Cycle Closure Certification for Alchemical Free Energy Calculations (FEP, TI, BAR, MBAR)"
+2026-10-01T15:16:12Z,fromsoft-generator,0.1.0,,,10196,Add your description here
+2026-10-01T15:16:28Z,crowdypy,0.4.0.dev1,Crowded Kingdoms,MIT AND Apache-2.0,39457781,Official Python SDK for Crowded Kingdoms: typed GraphQL clients and a native UDP replication core
