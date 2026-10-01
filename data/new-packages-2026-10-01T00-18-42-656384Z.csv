@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-09-30T23:19:28Z,provio,0.1.3,Bhaskar Gurram <gurrambhaskar.ai@gmail.com>,Apache-2.0,27020560,"A safety floor your AI agents can't get under: one policy for Claude Code, Codex, Gemini CLI, Cursor, Windsurf and MCP, judged by what each call will run, with a tamper-evident, signed ledger."
+2026-09-30T23:19:42Z,provio-sdk,0.1.3,Bhaskar Gurram <gurrambhaskar.ai@gmail.com>,Apache-2.0,78429,Policy-gated tool calls for Python agents: every tool call is checked against provio.yaml and recorded to provio's hash-chained ledger.
+2026-09-30T23:26:45Z,breachspider-mcp,0.1.1,CITED Relevance LLC <joshua@citedrelevance.com>,MIT,41660,Read-only MCP server for the BreachSpider ICS/OT device CVE API
+2026-09-30T23:29:52Z,quantum-cortex,1.0.0,Nicolas Van Eeckhout,Apache-2.0,444227,"An open language model built to measure continuity: a sealed episodic organ outside the weights, a frozen dissociation protocol, and a record that can be audited to the digit."
+2026-09-30T23:33:23Z,git2svn,0.4.0,Simon,Apache-2.0,61421,CLI utility to synchronize changes from a local Git repository to a local SVN working copy
+2026-09-30T23:34:24Z,countersignatory,0.1.0,Countersignatory Ltd <douglas@countersignatory.com>,MIT,15353,The going rate for a human minute. A standard-library client for the Countersignatory quote API and Spot Index.
+2026-09-30T23:37:16Z,camfr3,3.0.0a3,Peter Bienstman <Peter.Bienstman@UGent.be>,GPL-2.0-only,69201535,"CAvity Modelling FRamework, ported to Python 3"
+2026-09-30T23:43:24Z,szl-crosscheck,0.3.0,,Apache-2.0,41223,"Cross-implementation receipt verification - two harness chains in, CONSISTENT/DIVERGENT/INCOMPARABLE out"
+2026-09-30T23:43:26Z,szl-retrieval-bench,0.3.0,,Apache-2.0,46920,"Honest retrieval benchmark lane: BM25, TF-IDF dense, RRF hybrid, nDCG/Recall/P@k/R-precision/MRR/MAP, fairness gates, hash-chained receipts. Fail closed."
+2026-09-30T23:43:27Z,szl-eclipse,0.2.0,,Apache-2.0,25371,Mutation-testing for receipt verifiers - who verifies the verifier
+2026-09-30T23:46:18Z,nightcrawler-local-manifest,1.0.0,,,3963,Inert package for software supply-chain protection testing.
+2026-09-30T23:46:22Z,nightcrawler-cloud-manifest,1.0.0,,,3979,Inert package for software supply-chain protection testing.
+2026-09-30T23:46:26Z,nightcrawler-local-purl-nid,1.0.0,,,3895,Inert package for software supply-chain protection testing.
+2026-09-30T23:46:54Z,cbdevurltest,0.0.1,,,1037,dev extra test
+2026-09-30T23:46:56Z,helmreview,1.0.2,Isaac Mendez <isaac.mendez@siproset.com>,MIT,70511,Revisión estática local de Helm charts para Kubernetes y OpenShift
+2026-09-30T23:46:57Z,packingsolver,0.1.1036,Florian Fontan,MIT,28312199,A solver for geometrical packing and cutting-stock problems
+2026-09-30T23:47:07Z,cbremotetest,0.0.1,,,1021,Test deps with extras
+2026-09-30T23:49:44Z,szl-ci-witness,0.1.0,,Apache-2.0,34309,"CI runs as hash-chained witness receipts - regressions and fixes detected from the chain, not dashboards"
+2026-09-30T23:49:44Z,szl-engine-bench,0.3.0,,Apache-2.0,51597,"Honest inference-engine benchmark harness: TTFT, ITL, goodput-at-SLO, fairness gates, and hash-chained receipts."
+2026-09-30T23:49:46Z,szl-quant-bench,0.2.0,,Apache-2.0,25732,"Honest quantization quality-curve bench: cosine/KL/top-1 degradation vs bit-width, hash-chained receipts. Fail closed."
+2026-09-30T23:50:30Z,tixio,0.1.0,,,35379,"Confidence-gated, model-assisted issue triage for engineering teams"
+2026-09-30T23:51:25Z,vulnify,0.1.1,,MIT,19507,Vulnify SDK: ask Vulnify whether an AI agent action is allowed before running it.
+2026-09-30T23:52:10Z,lookml-agentops,0.3.0,lookml-agentops contributors,Apache-2.0,598827,"Treat Looker AI-agent instructions and answer correctness as code: lint, compile, verify, attribute, report."
+2026-09-30T23:53:26Z,khipu-x1,0.1.0,,Apache-2.0,35994,FPGA-first governed LLM accelerator software reference
+2026-09-30T23:53:33Z,szl-triage,0.5.1,Stephen Lutar <stephenlutar2@users.noreply.github.com>,Apache-2.0,229822,"Governed, evidence-bound triage: a language model may extend reach but never hold authority."
+2026-09-30T23:53:39Z,szl-evidence-mandate,0.1.0,,Apache-2.0,304739,Scientific Evidence Gate engine plus evidence-backed estate audits (GitHub + Hugging Face).
+2026-09-30T23:57:33Z,rsyscall-ng,0.1.0,Carlos Andrés Planchón Prestes,MIT,718629,"Process-independent, type-safe, low-level interface to Linux system calls: rsyscall modernized, with a clean-room Rust native side"
+2026-09-30T23:59:40Z,musubi-livekit,0.1.0,,Apache-2.0,70843,LiveKit session callback adapter for the Musubi memory SDK
+2026-09-30T23:59:44Z,vsp-otel,0.1.0,SZL Holdings,Apache-2.0,57166,Verifiable Span Provenance via OpenTelemetry — real OTLP/gRPC exporter + DSSE/Khipu span processor for the SZL mesh
+2026-09-30T23:59:50Z,szl-receipt-dsse,0.3.0,,Apache-2.0,148443,"Shared signed-receipt library for SZL components — DSSE/ECDSA-P256-SHA256 signing on pinned maintained libraries (in-toto-attestation 0.9.3 + cryptography 50.0.1; cosign-compatible, UNSIGNED-honest f…"
+2026-09-30T23:59:51Z,szl-guardrail-receipt,0.1.0,SZL Contributors,Apache-2.0,57356,"Thin, dependency-light adapter that wraps any LLM guardrail verdict (Llama-Guard / NeMo-Guardrails / guardrails-ai / your own callable) and emits a signed, hash-chained DSSE decision receipt aligned…"
+2026-10-01T00:01:23Z,CASafari,0.1.2,c-astronomy <your.email@example.com>,AGPL-3.0-only,68371,A Flask and TwitchIO web application and bot
+2026-10-01T00:03:48Z,szl-nemo,0.4.0,,Apache-2.0,59865,"Deterministic doctrine and proof-carrying inference-envelope witness. Not Nemotron, not an LLM, not a CUDA kernel."
+2026-10-01T00:03:57Z,szl-calibration,0.1.0,,Apache-2.0,54844,"SZL Calibration Intelligence Plane - exact calibration metrics, UNSIGNED_HONEST receipt chain, fail-closed weight gates, FastAPI + Prometheus surface."
+2026-10-01T00:04:02Z,szl-energy-attest,0.3.0,Stephen Lutar,Apache-2.0,130534,"Attestable energy receipts for governed compute — MEASURED-NVML joules, cheapest-watt placement, hash-chained signable receipts."
+2026-10-01T00:05:42Z,xactions-py,1.9.0,mamboyepez17,MIT,228760,X/Twitter automation toolkit in pure Python. No npm. No Puppeteer.
+2026-10-01T00:08:14Z,protocol-proxy-modbus,2.0.0rc0,The VOLTTRON Development Team,Apache-2.0,54776,A Modbus Protocol Proxy implementation.
+2026-10-01T00:08:28Z,freshcal,0.1.3,Jeremy Liu,Apache-2.0,487608,"Business-calendar-aware data freshness checks: schedules, holidays, grace windows, verdicts."
+2026-10-01T00:08:38Z,scapps,26.9.1,,,185454,The StratusCore Apps CLI tool for creating and running applications.
+2026-10-01T00:08:56Z,szl-invariants,0.1.0,,Apache-2.0,46270,"Eight falsifiable receipt/ledger invariants. Software kernel, not a trained model."
+2026-10-01T00:09:03Z,szl-openshell-receipts,0.3.0,,Apache-2.0,28882,"Governed, hash-chained receipts and an independent reach-delta witness for sandboxed agent runtimes."
+2026-10-01T00:09:03Z,szl-pin,0.1.0,,Apache-2.0,19408,Self-verifying hashes over supplied unique repository heads; drift named per repository
+2026-10-01T00:10:13Z,dribble,0.1.0,"""Dribble Inc."" <bw@dribble360.com>",MIT,18962,Python client for the Dribble football data API (Opta-sourced)
+2026-10-01T00:12:42Z,openarchive-server,0.1.0,,MIT,1604429,OpenArchive — PostgreSQL·OpenSQL에 설치하는 AI 문서관리 플랫폼 (API·임베딩 워커·MCP 서버·웹 UI)
+2026-10-01T00:14:59Z,gmcluster,0.3.0,"Charles A. Bouman, Mohammad Samin Nur Chowdhury",BSD-3-Clause,23133,EM Gaussian-mixture clustering with automatic MDL order selection
+2026-10-01T00:18:03Z,crypto-signal-mcp,0.1.1,zikriz <zikriz@github.com>,MIT,5916,MCP server for crypto trading signals with Solana payment gating
