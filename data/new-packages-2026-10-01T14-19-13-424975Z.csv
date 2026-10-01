@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T13:21:08Z,sprrav,111.111,Vishwa r <vishwa@vishwa.com>,MIT,3461,A small example package
+2026-10-01T13:23:48Z,ada-pip-shopify,0.0.0,STRITZ,Proprietary,729,Name reserved for an internal STRITZ package. Not installable.
+2026-10-01T13:23:49Z,ada-pip-styleguide,0.0.0,STRITZ,Proprietary,733,Name reserved for an internal STRITZ package. Not installable.
+2026-10-01T13:23:50Z,ada-pip-document-intelligence,0.0.0,STRITZ,Proprietary,750,Name reserved for an internal STRITZ package. Not installable.
+2026-10-01T13:23:51Z,ada-pip-finance-feed,0.0.0,STRITZ,Proprietary,739,Name reserved for an internal STRITZ package. Not installable.
+2026-10-01T13:24:22Z,hamit-app,0.1.1,,,1204,
+2026-10-01T13:24:53Z,talktome-server,0.2.0,Rohan Richard,MIT,134573,The agent side of talktome voice calls: run it where your coding agents run.
+2026-10-01T13:25:55Z,spatiato,0.2.0,VIB spatial catalyst,"BSD 3-Clause License Copyright (c) 2026, VIB spatial catalyst All rights reserved. Redistribution a…",20568433,A spatial omics interface for napari.
+2026-10-01T13:27:55Z,VinerAI,0.1.0,Viner <you@example.com>,MIT,9580,"Универсальный клиент для Groq, OpenRouter и Cloudflare AI"
+2026-10-01T13:28:42Z,spatialetl-core,0.2.1,Fabien RÉTIF <fabien.retif@snale.net>,MIT,212809,Core packages for SpatialETL
+2026-10-01T13:29:06Z,espressoTUI,1.0.0,Kim Schulz <kim@schulz.dk>,,265421,"A lightweight, declarative Elm Architecture (TEA) TUI framework for Python inspired by Bubble Tea."
+2026-10-01T13:29:49Z,yandex-ydt-core,66.0.3,Yandex,,1161,A package to prevent Dependency Confusion attacks against Yandex.
+2026-10-01T13:30:00Z,yandex-ycs-api-sdk,66.0.3,Yandex,,1163,A package to prevent Dependency Confusion attacks against Yandex.
+2026-10-01T13:30:02Z,briefdesk,0.1.0,ren-yc,MIT,1165922,简报台 - BRIEFDESK
+2026-10-01T13:35:59Z,lint-my-headers,0.6.0,François-Guillaume Fernandez <fg-feedback@protonmail.com>,Apache-2.0,21611903,"Agent-ready license-header linting for source code, starting with Python"
+2026-10-01T13:40:09Z,mcap-rich-cli,0.2.0,,,7478,A rich visual wrapper for the mcap CLI tool
+2026-10-01T13:41:17Z,seeable,0.1.0,Seeable contributors,"MIT License Copyright (c) 2026 Tom Draper Permission is hereby granted, free of charge, to any pers…",240006,Live visual explorer for multidimensional Python data.
+2026-10-01T13:42:06Z,vinerai_client,0.1.0,,,13255,
+2026-10-01T13:42:48Z,wmariadb-mcp,0.1.0,"""WILLIAM R."" <william@ecapturedtech.com>",MIT,15049,Model Context Protocol (MCP) server for WMariaDB MariaDB architecture and code generation
+2026-10-01T13:44:30Z,laurento-plugin-kit,1.0.0,,MIT,15695,Memorable Python decorators for building Agent Plugin packages
+2026-10-01T13:44:51Z,vorq,0.1.0rc1,,Apache-2.0,199233,Python client for the VORQ inference exchange
+2026-10-01T13:46:31Z,protocentral-healthypi,0.1.2,ProtoCentral Electronics,MIT,206330,"Host library and CLI for HealthyPi 6 — .HP6 decoding, MCUmgr group 64, firmware update"
+2026-10-01T13:46:48Z,mssql-cdc-pyspark,0.1.0,Emanuel Luis,MIT,152337,"Platform-agnostic PySpark streaming source for SQL Server CDC, with a partition-finalization (completeness) signal"
+2026-10-01T13:46:57Z,viora-ai,0.2.0,INCPRITECH <hello@incpritech.com>,MIT,111220,"viora: an AI assistant for websites and apps that answers customers by chat and voice, in English and Swahili, from your own information. By INCPRITECH."
+2026-10-01T13:47:30Z,wmysql-mcp,0.1.0,"""WILLIAM R."" <william@ecapturedtech.com>",MIT,12259,Model Context Protocol (MCP) server for WMysql MySQL architecture and code generation
+2026-10-01T13:48:34Z,vorq-provider,0.1.0rc1,,FSL-1.1-ALv2,317682,VORQ provider daemon (vorqd)
+2026-10-01T13:48:40Z,pipecat-bithuman,0.1.0,"bitHuman, Inc.",BSD-2-Clause,30886,"bitHuman real-time avatar video service for Pipecat: TTS audio in, lip-synced avatar video and audio out."
+2026-10-01T13:51:05Z,wsnowflake-mcp,0.1.0,"""WILLIAM R."" <william@ecapturedtech.com>",MIT,9442,Model Context Protocol (MCP) server for WSnowflake Snowflake architecture and code generation
+2026-10-01T13:51:10Z,samsrc,5.1.0,NIH MEG Core Facility,GPL-3.0-or-later,23713479,Synthetic Aperture Magnetometry Suite Version 5
+2026-10-01T13:53:04Z,clearleaf,0.1.0,Clearleaf contributors,MIT,5777408,"MIT-licensed, pure-Python PDF library (read, render, edit, redact) with a PyMuPDF-style API and a local browser editor"
+2026-10-01T13:53:53Z,diffgenome,0.1.0,karims,Apache-2.0,413355,Runtime evidence for code changes: run a repository's existing tests against a change and report what actually executed.
+2026-10-01T13:54:05Z,galahad-kv,1.31.0,Sietse Schelpe - Corbenic AI <sietse@corbenic.ai>,Proprietary,49011015,Galahad-KV: long-term memory for AI models -- a KV-cache layer for vLLM and SGLang
+2026-10-01T13:54:18Z,github-developer-activity,0.0.2,Kaizten Analytics,LicenseRef-Proprietary,43914,Report GitHub activity for a user in an organization.
+2026-10-01T13:54:29Z,searchunify-evalsuite,0.1.0,,Apache-2.0,149507,Evaluate model calls against the material they were given
+2026-10-01T13:56:52Z,fraiseql-semis,0.1.0,Lionel Hamayon <lionel@fraiseql.dev>,MIT,195570,Semantic UUID-encoded fake data generator for PostgreSQL trinity pattern schemas
+2026-10-01T13:57:31Z,tarquin-wrapper,0.1.0,Julian Merkofer <j.p.merkofer@tue.nl>,Apache-2.0,94473,Lightweight Python wrapper for TARQUIN MRS fitting
+2026-10-01T13:59:18Z,supercarto,0.3.0,supercarto contributors,Apache-2.0,30354,"LLM-native spatial middleware. Give an AI agent a map of any location on earth as a token-budgeted topological graph, with indoor floors, weather, and traffic."
+2026-10-01T14:06:31Z,ace-jax-coupling,0.2.0,ACEsuit contributors,MIT AND BSD-2-Clause AND BSD-3-Clause AND (BSD-3-Clause WITH PCRE2-exception) AND ISC AND Zlib AND…,87741522,"EquivariantTensors.jl SO(3) coupling tables for ace-jax, as a juliac-compiled library (no Julia needed)"
+2026-10-01T14:08:43Z,maxilab,0.1.1,Luis Abalo,,23146,Python access to public MAXI/GSC standard light curves.
+2026-10-01T14:10:51Z,repo-bug-hunter,0.2.0,Manish Maurya,MIT,123934,"An AI coding agent that fixes real GitHub bugs, and a lab that measures it: graded by hidden tests, every run replayable."
+2026-10-01T14:14:01Z,kispilot,0.1.0,Dong-Ju An,MIT,700296,한국투자증권 Open API를 AI 에이전트(MCP)와 웹 콘솔에서 쓰기 위한 도구 모음 (비공식)
+2026-10-01T14:16:53Z,switch-trust-cli,1.7.0,SandboxAQ <info@switchagents.ai>,"Software: Switch Trust Copyright (c) 2026 SB Technology, Inc. dba SandboxAQ This software is licens…",3597581,"Command-line tool for evaluating agents, offering two features to assess agents via code scanning (`switch-trust scan`, whitebox testing) and runtime evaluation (`switch-trust eval`, blackbox testing)"
