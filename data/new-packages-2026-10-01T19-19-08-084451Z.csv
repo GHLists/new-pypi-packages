@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T18:11:48Z,diff-contract,0.1.1,Yunare Maia <yunare@gmail.com>,MIT,29942,"Deterministic guardrails for AI-generated diffs — define what files can change, block violations."
+2026-10-01T18:22:51Z,fbtodo,4.30.2,TLE47,MIT,357077,"Watch your coding agent work — its checklist, live, in a pane beside it."
+2026-10-01T18:24:08Z,assisting-intellect,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47690,Assisting-Intellect ...
+2026-10-01T18:25:08Z,cirrusnetworks-portal,0.0.1,,,3586,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-01T18:30:47Z,comuvia,0.1.0,Comuvia,Apache-2.0,129956,"Offline, provider-neutral evidence and prediction records: validation, canonical identity, append-only storage and binary evaluation."
+2026-10-01T18:34:23Z,nt2gui,0.1.0,Hayk Hakobyan <hhakobyan@flatironinstitute.org>,,365702,"Browser UI for visualizing Entity simulation output, served from where the data lives."
+2026-10-01T18:34:57Z,foreglass,0.1.0,Comuvia,Apache-2.0,70219,"Explicit, bounded reader for the public ForeGlass artifacts: exact-byte intake and honest normalization into comuvia records."
+2026-10-01T18:35:10Z,tano-sdk,0.1.0,Qalebasse <support@tano.africa>,MIT,62449,"Bibliothèque Python officielle de l'API de vérification d'identité Tano : dossiers, sessions de parcours, résultats, webhooks."
+2026-10-01T18:36:08Z,llmog,1.2.0,,,623288,A pipeline for object detection using LLMs.
+2026-10-01T18:37:28Z,example_package_dude9001,0.0.1rc1,,,3001103,
+2026-10-01T18:37:58Z,gebze-hamaliye,1.0.0,Erol İLHAN,,23103,"Gebze Uygun Hamaliye - Kalkulator biaya nakliyat untuk Gebze, Kocaeli. Resmi: https://gebze.uygunhamaliye.com/"
+2026-10-01T18:38:20Z,denv-r-cli,0.3.0,DENV-R <support@denv-r.com>,Licence propriétaire DENV-R — CLI « denv-r » Copyright (c) 2026 DENV-R SAS. Tous droits réservés. C…,21004,"Interface en ligne de commande DENV-R : pilotez votre stockage souverain (espaces, clés, clouds, politiques, plan/apply) depuis le terminal."
+2026-10-01T18:41:14Z,githeri,0.2.0,Karakana Labs <dev@karakanalabs.com>,Apache-2.0,137135,"Contract Engine for AI Coding Agents. Deterministic specs, test plans, and drift detection."
+2026-10-01T18:42:24Z,nimbus-mcp,0.1.0,,,28341,MCP server bridging AI agents to Nimbus BCI pipelines (local backend)
+2026-10-01T18:42:46Z,supernova-v5,0.1.0,,MIT,14441,Supernova NepaliFast V5 tokenizer
+2026-10-01T18:43:56Z,tuieval,0.1.0,tuieval contributors,MIT,732332,"Evaluate local LLMs on your own eval packs, in the terminal: accuracy, speed and tokens, with PASS/FAIL verdicts."
+2026-10-01T18:47:56Z,portolan-python,0.1.0,Portolan contributors,Apache-2.0,82630,A lightweight Python implementation of the Portolan specification.
+2026-10-01T18:48:22Z,portolan-geoserver,0.1.0,Portolan contributors,Apache-2.0,135854,Publish Portolan catalogs to GeoServer.
+2026-10-01T18:49:02Z,goga-tool-autonomous,0.0.0,,BSD-3-Clause,256400,Transform goga pipeline processes into autonomous harnesses.
+2026-10-01T18:49:17Z,webdav-rfc4918,1.0.0,Manfred Kaiser <manfred.kaiser@ssh-mitm.at>,MIT,401566,"RFC 4918 compliant WebDAV client, built on requests, with an optional fsspec filesystem and a CLI"
+2026-10-01T18:52:35Z,isaac-net,0.1.0,Yuchen Liu,BSD-3-Clause,1934266,GPU-batched 5G and Wi-Fi network simulation for massively parallel robot learning in Isaac Lab
+2026-10-01T18:52:49Z,pycadkit,0.1.0,TNYCL,MIT OR Apache-2.0,9435320,"Read DWG, DGN, DXF and CityGML into one format-neutral model; write DXF, DGN V8 and CityGML (pure Rust, no vendor SDK)."
+2026-10-01T18:53:34Z,skill-lens-cli,0.1.1,Hazem Samak,MIT,299312,"A local, read-only diagnostics and resolution engine for AI agent skills (SKILL.md)."
+2026-10-01T18:56:21Z,fastapi-pymongo,0.1.0a0,,Apache-2.0,24503,"FastAPI integration for PyMongo: Pydantic-native BSON types, client lifespan/DI, settings helpers."
+2026-10-01T18:58:54Z,idealens,0.1.0,Rishanth Rajendhran,Apache-2.0,1441554,"Detect whether a document's ideas came from a person or an AI model (IdeaLens), and related detectors."
+2026-10-01T18:59:14Z,github-repository-report,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,19047,Generate timestamp reports for local GitHub repositories.
+2026-10-01T19:01:04Z,autofixai,0.4.0,Komali,MIT,75968,"Automatic detection, repair, validation and explanation of common Python bugs."
+2026-10-01T19:01:51Z,secscan-sast,0.1.0,Saulo Filho <saulofilho@users.noreply.github.com>,MIT,49844,"SAST engine for secrets, Shannon entropy, API paths, and CI quality gates"
+2026-10-01T19:02:04Z,ergmx,0.1.0,Neylson Crepalde <neylsoncrepalde@gmail.com>,GPL-3.0-only,4858346,"Exponential-family random graph models (ERGMs) in Python, with a Rust core"
+2026-10-01T19:03:06Z,confam-wallet,1.0.0,Confam Contributors,MIT,43027,A production-grade non-custodial Ethereum CLI wallet
+2026-10-01T19:03:40Z,aliqo,0.0.1,,Apache-2.0,2143,"Aliqo: private, self-hosted multi-engine file analysis. Client library coming soon."
+2026-10-01T19:04:13Z,uselayer,0.1.0,Layer,MIT,180851,"Trade prediction markets with your own venue keys: one order shape, paper mode by default, guardrails, and fee math that matches Layer's API."
+2026-10-01T19:05:20Z,linewatch-cli,0.0.1,Burak Dalgic,MIT,6241,AI code review that runs in your git hooks and puts its findings on the lines in your IDE.
+2026-10-01T19:06:16Z,driftcheck-py,0.1.48,Yunare Maia <yunare@gmail.com>,MIT,407700,"Detect version drift between docs and toolchain files (README vs Dockerfile, build.gradle, rust-toolchain.toml, package.json, etc.)"
+2026-10-01T19:06:22Z,aipr-py,0.2.4,Yunare Maia <yunare@gmail.com>,MIT,47207,Read a repository's AI contribution policy before you (or your agent) contribute.
+2026-10-01T19:10:23Z,event-sourced-ai-runtime,0.6.0,,"Copyright 2026 REŞAT <khalikinisoran@gmail.com> Apache License Version 2.0, January 2004 http://www…",627241,"Event-sourced AI runtime with deterministic, governed AI action execution."
+2026-10-01T19:13:03Z,opendots,0.2.0,,MIT,1003218,Event-driven agents with persistent targets and reviewable local actions
+2026-10-01T19:18:10Z,iterreduce,0.0.0.dev0,Johannes <johannes.programming@gmail.com>,MIT,5356,...
