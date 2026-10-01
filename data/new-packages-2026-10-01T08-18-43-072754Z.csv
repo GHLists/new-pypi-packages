@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T07:22:02Z,neuralresearcher,0.1.0,neuralresearcher Authors,MIT,156416,"Terminal-based, PyPI-distributed multi-agent research planner for ML/CS topics."
+2026-10-01T07:22:09Z,ovos-skill-recipe-helper,0.1.0,Andreas Lorensen,GPL-3.0-or-later,2169399,"Offline cookbook skill for OVOS - recipes from Wikibooks, no internet needed"
+2026-10-01T07:23:17Z,eu-pii-redact,0.1.0,JulianJohansen,MIT,186528,"Redact European personal data (names, national IDs, IBANs, emails, phones) before it reaches an LLM, and restore it afterwards. Python client and MCP server."
+2026-10-01T07:25:24Z,mosaic-os,0.1.0,"Kamal Karteek U, Mishka Tiwari, Manjunath Patil, Mayeraa Singh",MIT,41635,"Python client and command line for mOSaic, the operating system for organizational AI: governed, auditable AI agents on your own machine."
+2026-10-01T07:26:11Z,mcp-capdiff,0.1.1,MCP Audit contributors,MIT,71881,Security regression scanner for Model Context Protocol servers.
+2026-10-01T07:31:03Z,mcp-librenms,0.1.0,,MIT,21062,MCP server that exposes the LibreNMS REST API as MCP tools
+2026-10-01T07:32:28Z,home-energy-optimizer,0.1.0,Ameet Deshpande,MIT,343207,"Makes a home's energy devices cooperate: each plans with its own optimiser, Dantzig-Wolfe or ADMM coordinates them, and the saving is shared fairly."
+2026-10-01T07:34:30Z,lupaxa-github-token-validator,0.1.0,The Lupaxa Project,MIT,46531,Report what a GitHub token is allowed to do.
+2026-10-01T07:40:56Z,nesydep,1.0.0,NeSyDep Authors,"MIT License Copyright (c) 2026 NeSyDep Authors Permission is hereby granted, free of charge, to any…",3833992,"NeSyDep: fast neural-symbolic discovery of data dependencies (FDs, CFDs, and more)"
+2026-10-01T07:42:23Z,partest-atlas,0.1.0,dec01,MIT,133227,Сбор наблюдений о системе и о прогоне тестов в версионированные артефакты — агент карты «Веха»
+2026-10-01T07:45:20Z,parisaocr,0.2.0,Ali Javadi,Apache-2.0,39140347,Open-source OCR for printed Persian: PP-OCR line detection and a Kraken recognizer trained on Persian books
+2026-10-01T07:46:33Z,daikin-onecta,0.1.0,Johnny Willemsen,MIT,9903,Async Python client for the Daikin Onecta cloud API
+2026-10-01T07:49:05Z,soutine-banana-prompts,0.1.0,leony <leony2919@gmail.com>,MIT,5704,Reference package for Soutine's free Nano Banana (Gemini) prompt library with real previews.
+2026-10-01T07:49:06Z,soutine-seedance-prompts,0.1.0,leony <leony2919@gmail.com>,MIT,5739,Reference package for Soutine's free Seedance video prompt library with clip previews.
+2026-10-01T07:49:07Z,soutine-qwen-prompts,0.1.0,leony <leony2919@gmail.com>,MIT,5656,Reference package for Soutine's free Qwen Image 2.1 prompt library.
+2026-10-01T07:54:07Z,hrdware-monitoring-syst,0.1.0,ehsan bahmanipor,,5857,It is a simple app that can monitor the resources used by the following hardware components and report the usage as a percentage.
+2026-10-01T07:58:14Z,interuss-monitoring,0.36.0,InterUSS Platform <tsc@lists.interussplatform.org>,,1491902,Monitoring framework to test UAS Service Suppliers
+2026-10-01T07:59:47Z,mkdocs-light-dark-toggle,0.1.0,Luka Sherman <luka.msherman@gmail.com>,MIT,172606,"Material for MkDocs plugin: an always-visible two-button light/dark switch, replacing Material's native single-knob palette toggle."
+2026-10-01T08:00:43Z,privacyprobe,0.2.0,Mayank Hete <mayankrajeshhete@gmail.com>,MIT,83378,"Privacy compliance testing for LLM apps: DPDP Act and GDPR evidence reports, PII detection, redaction"
+2026-10-01T08:00:53Z,langchain-decodo,0.1.0,Decodo <support@decodo.com>,MIT,186561,LangChain integration for the Decodo web scraping API
+2026-10-01T08:05:08Z,robotframework-request-logger,0.1.0,Angel Molina,MIT,17822,Protected HTTP request and response console logging for Robot Framework with Rich.
+2026-10-01T08:07:48Z,kohakuclip,1.0.0,Kohaku,MIT OR Apache-2.0,114711968,Fast random-access video clips for training: zip/tar/folders of mp4 + native batched decode
+2026-10-01T08:08:04Z,pyrentri,0.1.0,Progressify,MIT,13359,Simple API Wrapper for RENTRI (Registro Elettronico Nazionale per la Tracciabilità dei Rifiuti)
+2026-10-01T08:08:16Z,thai-talking-clock,1.0.0,Billy,,2630284,A cross-platform Python library for audio time announcement using MP3 files.
+2026-10-01T08:08:41Z,aidr-core,0.1.0,Evoliv Core,Apache-2.0,80461,"AIDR core types: agent identifiers, errors and serialisation shared by the AIDR SDKs."
+2026-10-01T08:09:03Z,aidr-crypto,0.1.0,Evoliv Core,Apache-2.0,86696,"AIDR cryptography: keys, JWS credentials, RFC 9421 HTTP message signatures, proof of possession."
+2026-10-01T08:09:16Z,blackdrome-noma,1.0.0,Blackdrome AI Labs <hello@blackdrome.tech>,MPL-2.0,181081,"Noma: an open, calibrated decision model for agents and pipelines, by Blackdrome AI Labs"
+2026-10-01T08:09:29Z,aidr-agent,0.1.0,Evoliv Core,Apache-2.0,39830,"Give an AI agent a verifiable AIDR identity: enroll from code, sign requests, LangChain tools."
+2026-10-01T08:10:18Z,llama-index-tools-decodo,0.1.0,Decodo <support@decodo.com>,MIT,13218,Decodo web scraping API tool spec for LlamaIndex agents.
+2026-10-01T08:14:36Z,aidr-verifier,0.1.0,Evoliv Core,Apache-2.0,65890,"Verify AI agents' AIDR identities on your own site, offline: credentials and RFC 9421 signatures."
+2026-10-01T08:18:03Z,entune,0.1.0,,MIT,1072297,Dictation with your choice of speech model and a personal dictionary that selects corrections in context.
