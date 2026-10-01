@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T05:59:34Z,sumoffice,0.2.0,SumOffice <hello@sumoffice.com>,LicenseRef-Proprietary,228460515,"Edit Excel, Word and PowerPoint files from Python with the SumSheet, SumDoc and SumSlide cores"
+2026-10-01T06:21:37Z,palimnex,2.8.0,Palimnex contributors,MIT,446130,"Repository-local evidence, historical memory, and explicit retention controls"
+2026-10-01T06:23:48Z,volcenginesdk-rdspostgresql,0.0.1,volc-engine,Apache License 2.0,1048,Name reservation for the Volcengine Python SDK split package volcenginesdk-rdspostgresql
+2026-10-01T06:23:54Z,volcenginesdk-redis,0.0.1,volc-engine,Apache License 2.0,988,Name reservation for the Volcengine Python SDK split package volcenginesdk-redis
+2026-10-01T06:24:01Z,volcenginesdk-resourcecenter,0.0.1,volc-engine,Apache License 2.0,1052,Name reservation for the Volcengine Python SDK split package volcenginesdk-resourcecenter
+2026-10-01T06:24:07Z,volcenginesdk-resourceshare,0.0.1,volc-engine,Apache License 2.0,1048,Name reservation for the Volcengine Python SDK split package volcenginesdk-resourceshare
+2026-10-01T06:24:48Z,pywv2,2.12,"""Dvs (DvsXT)"" <dvs6666@163.com>","MIT License Copyright (c) 2026 Dvs (DvsXT) Permission is hereby granted, free of charge, to any per…",969503,"Python bindings for WebView2 — a pure-C proxy layer (99 fully implemented APIs) + ctypes, supporting standalone windows and PyQt5 integration"
+2026-10-01T06:34:10Z,lssaopt,0.1.0,Alan Vallavaraj,,19182,Lost Sheep Search Algorithm (LSSA) for continuous black-box optimisation
+2026-10-01T06:37:47Z,splent-feature-spl-registry,0.1.2,,,125229,
+2026-10-01T06:37:49Z,splent-feature-apikeys,0.1.1,,,54829,
+2026-10-01T06:40:57Z,tidyid,2.1.0,TidyID contributors,MIT,19445,"A tiny, secure, and human-friendly ID generator for Python."
+2026-10-01T06:41:19Z,shellix-ai,0.1.0,,"MIT License Copyright (c) 2026 Shellix contributors Permission is hereby granted, free of charge, t…",31252,An AI-assisted shell interface
+2026-10-01T06:46:54Z,virtx,0.0.0,BrekkyLab,Apache-2.0,9716,Placeholder for virtx: run tasks in disposable Linux VMs from your own code. The first release is coming.
+2026-10-01T06:55:22Z,dcs-conformance,1.0.0,Danny <danny@dannylabs.example>,Apache-2.0,285909,Belnap-folded conformance: OSCAL + in-toto bundles from any source
+2026-10-01T07:00:47Z,python-qv,0.1.0,Inzamul Hoque,MIT,97076,Diagnose why a Python project is unhealthy — explain root cause and suggest safe fixes.
+2026-10-01T07:01:54Z,colorizador,0.1.0,Dias Valente 96 <diasvalente96@gmail.com>,MIT,7636,Uma biblioteca Python em português para simplificar cores e estilização no terminal e no Termux.
+2026-10-01T07:01:56Z,decisio,0.1.1,Amin Roudaki,Apache-2.0,186392,"A prefill-only decision server on vLLM: typed questions about a state, a probability distribution per question"
+2026-10-01T07:03:38Z,fastsimdjson,0.1.0,Daniel Lemire <daniel@lemire.me>,Apache-2.0,92563992,"Fast JSON parsing for Python, built on simdjson"
+2026-10-01T07:03:48Z,swiftvision,0.1.0,SwiftVision AI <hassaan.swiftvision@gmail.com>,MIT,272442,SwiftVision AI — Image Annotation Studio
+2026-10-01T07:07:30Z,gurdy,0.1.1,,Apache-2.0,28886119,A flight recorder for AI agents — governs agent tool calls and writes a verifiable decision ledger
+2026-10-01T07:10:42Z,hlvv,0.1.0,,,39218,A little love letter and a beginner-friendly Python learning companion.
+2026-10-01T07:11:35Z,csp-lab,0.1.0,,MIT,20146,A local CubeSat Space Protocol lab powered by libcsp
+2026-10-01T07:12:50Z,blue-python-demo,0.1.0,,,2886,A small example Python library for trying a PyPI release
+2026-10-01T07:15:55Z,sapilm,1.2.3,,,3495,CLI SapiLM
+2026-10-01T07:19:36Z,modotte,1.0.0,"Sujal Rajpoot, Parvesh Rawal","MIT License Copyright (c) 2026 modotte-python Permission is hereby granted, free of charge, to any…",27539,A universal Python package for accessing and using all AI models trained by Modotte.
