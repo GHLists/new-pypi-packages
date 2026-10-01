@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T19:21:48Z,ktui,0.1.0,,# PolyForm Noncommercial License 1.0.0 <https://polyformproject.org/licenses/noncommercial/1.0.0> #…,248274,ktui — an interactive Kubernetes TUI manifest builder
+2026-10-01T19:22:59Z,o41-metrics-api,0.1.0,,Apache-2.0,39869,Python client for the 041 Metrics v2 API
+2026-10-01T19:23:38Z,kitteng2p,0.1.1,kitteng2p contributors,Apache-2.0,48864,Independent KittenTTS-compatible eSpeak/phoneme/token-id frontend
+2026-10-01T19:26:53Z,redumper-cdda,0.1.0,John Stephens,MIT,48331,Accurately extract CD audio track ranges with redumper
+2026-10-01T19:27:28Z,aimpg,0.1.1,Kumar Ganduri,MIT,78141,Real-world energy per solved task for AI coding agents
+2026-10-01T19:27:30Z,async-proxy-headers,0.1.0,,BSD-3-Clause,119745,"Standalone ASGI middleware for trusted proxy headers, extracted from Uvicorn"
+2026-10-01T19:27:31Z,spotregen,0.1.1,bartzbeielstein,AGPL-3.0-or-later,96760,"Regenerative Software tooling: check intent, evaluations and provenance of regenerable units, and drive blind regeneration"
+2026-10-01T19:27:53Z,jwcalendar-calendrical,0.1.0,,MIT,69898,"Exact calendrical computation, calendar topology, and calendar-software verification for Python."
+2026-10-01T19:28:37Z,kalika,0.0.1,Andreas Motl <andreas.motl@panodata.org>,Apache-2.0,32774,Minimal web archive workflow system
+2026-10-01T19:30:20Z,dismech-newton,0.1.0.post1,ryanchaiyakul,GPL-3.0-or-later,103258,Discrete Elastic Rods for NVIDIA Newton.
+2026-10-01T19:31:49Z,hexa60,1.0.0,Ladislav Muller <mullerladislav20@gmail.com>,AGPL-3.0-or-later,52695,"Canonical Base60 codec, arbitrary-precision arithmetic, and high-performance tensor operations in Python and C++20."
+2026-10-01T19:32:43Z,guadalplanner,0.0.1,"Samuel Yanes Luis <syanes@us.es>, Alejandro Mendoza Barrionuevo <amendoza1@us.es>, Alejandro Casado…",MIT,960958,"GuadalPlanner is a modular and extensible framework for the development, simulation, and real-world deployment of informative path planning algorithms for autonomous vehicles"
+2026-10-01T19:33:10Z,pinocchio-uq,0.1.1,Kevin David Hayes <kevindavidhayes1@gmail.com>,Apache-2.0,33729,Fast uncertainty estimates for black-box language models
+2026-10-01T19:33:37Z,pytransformkit,1.0.0,Thomas Awounfouet,,770448,Engine-agnostic data transformation framework for Python.
+2026-10-01T19:40:52Z,kittensynth,0.1.0,kittensynth contributors,Apache-2.0,42735,KittenTTS synthesis frontend backed by kitteng2p and OnnxVoice
+2026-10-01T19:46:57Z,fieldtrial,0.1.0.dev0,Rok Benko,Apache-2.0,10601,Find out whether your robot policy actually got better (placeholder release reserving the name).
+2026-10-01T19:47:37Z,supertonicsynth,0.1.0,SupertonicSynth contributors,Apache-2.0,89507,Supertonic-3 synthesis engine backed by OnnxVoice
+2026-10-01T19:48:49Z,flyconn,0.2.0,flyconn contributors,Apache-2.0,450948,"Research-grade toolkit over public Drosophila connectomes: harmonized data, signed graphs, uncertainty, validated LIF simulation, declarative experiments."
+2026-10-01T19:50:28Z,coffeemail,0.1.0,CoffeeMail Team <contato@coffeemail.com.br>,MIT,92495,SDK oficial do CoffeeMail para Python (Síncrono e Assíncrono com tipagem estrita).
+2026-10-01T19:52:48Z,pyrig-private,0.1.0,Winipedia,MIT,11194,A pyrig plugin for private repository functionality.
+2026-10-01T19:57:13Z,neural-ca,0.1.0,Maxim Koltugin,MIT,12870,Neural cellular automata on PyTorch
+2026-10-01T19:59:12Z,wasmgpu,0.0.1,Evgeniy Blinov <zheni-b@yandex.ru>,,1032826,Batched WebAssembly execution in a GPU compute-shader interpreter
+2026-10-01T19:59:51Z,redroot,0.2.0,Gagan Gaurav,MIT,131497,"Value-level lineage for Python: trace where every output came from, and propagate input edits to every output without re-running"
+2026-10-01T20:00:47Z,ticketfairy,0.1.0,Ticket Fairy <support@theticketfairy.com>,MIT,28962,"Python client for the Ticket Fairy API: public event listings, organiser events, sales and setup copies"
+2026-10-01T20:01:59Z,zeam-pass,1.0.0,"""ZEAM Labs, LLC"" <info@zeamlabs.com>",GPL-2.0-only,205824,"ZEAM :: Pass for your own server: a paywall (x402; you keep 90.01%), a key gate, or both, for your MCP and HTTP tools. Runs in your process with your keys."
+2026-10-01T20:05:28Z,atep,0.0.1,,Apache-2.0,11225,"Name reserved for ATEP, the Autonomy Trust Envelope Protocol. Placeholder, no functionality yet."
+2026-10-01T20:05:44Z,fqkit,0.1.0,Felix <felixo6996@gmail.com>,MIT,44765,A lightweight Python framework for building and simulating quantum circuits.
+2026-10-01T20:05:56Z,capo-lambda-microvms,0.1.0,,,324446,Python SDK for Lambda MicroVMs.
+2026-10-01T20:06:06Z,amzn-inspectlens,0.0.0,Amazon,Apache-2.0,1909,No functionality yet.
+2026-10-01T20:06:21Z,model-prices,0.0.1,,MIT,112002,"LLM API prices, current and historical, from models.dev with sourced corrections"
+2026-10-01T20:06:36Z,layer-rescue,1.0.1,Emirhan Soylu,MIT,238001,"Resume interrupted Bambu Lab prints from a chosen layer, or reprint a broken part in place (Bambu Studio post-processing script)"
+2026-10-01T20:07:08Z,edgar-itemize,1.0.0rc2,Malcolm Wardlaw,MIT,537065,Deterministic agenda-structure (Part/Item/Section) parser for SEC EDGAR filings
+2026-10-01T20:12:47Z,capo-cloudwatchomni,0.1.0,,,619559,Python SDK for AWS Cloudwatchomni.
+2026-10-01T20:13:36Z,capo-eventbridgev2,0.1.0,,,364917,Python SDK for AWS Eventbridgev2.
+2026-10-01T20:14:14Z,capo-partnercentral-revenue-measurement,0.1.0,,,286560,Python SDK for AWS Partnercentral Revenue Measurement.
+2026-10-01T20:16:40Z,electrotrace,1.9.0,,AGPL-3.0-or-later,233182,"Reproducible ECG/electrophysiology annotation, benchmarking, phenotyping, and leakage-safe validation toolkit"
+2026-10-01T20:18:40Z,clef-compactor,0.1.0,Youssef Ouhaghi Ahmian,Apache-2.0,7999,"Query-aware RAG context compaction using Cloudflare's Clef. Keep the evidence, cut the noise."
+2026-10-01T20:18:48Z,clef-evals,0.1.0,Youssef Ouhaghi Ahmian,Apache-2.0,6739,"Calibration-first evaluation toolkit for Cloudflare's Clef decision models. Judge cheap, audit confidence."
+2026-10-01T20:18:57Z,clef-router,0.1.0,Youssef Ouhaghi Ahmian,Apache-2.0,6856,Route prompts between cheap and frontier LLMs using Cloudflare's Clef decision model.
