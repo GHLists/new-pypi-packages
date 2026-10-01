@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T05:22:02Z,firestart,0.2.0,Harrypotoo,,13908,FireStart - 一行命令启动你的常用应用和网站，和恢复轻量工作状态
+2026-10-01T05:22:05Z,poseaudit,0.1.0,8rulerstar,MIT,124686,"Audit a pose model used as a measuring instrument: how wrong are the angles, tilts and lengths it reads off keypoints?"
+2026-10-01T05:24:58Z,abstract-vmshare,0.1.0,putkoff <partners@abstractendeavors.com>,MIT,17726,"Shared VM workspaces: read-only master images, per-workspace copy-on-write overlays and an authenticated VNC-over-WebSocket bridge (libvirt/KVM host service)."
+2026-10-01T05:28:31Z,procrastinators,0.1.0,"""Rohan B. Dalton"" <rohan@rohandalton.io>",,659311,Rate limiting for ETL libraries and pipelines
+2026-10-01T05:31:10Z,octavius-ai,0.1.0,Octavus AI <dev@octavus.ai>,MIT,7040,Minimal Python client for the Octavus platform API
+2026-10-01T05:31:13Z,octavius-sdk,0.1.0,Octavus AI <dev@octavus.ai>,MIT,3984,"Alias of octavius-ai, the Python client for the Octavus platform API"
+2026-10-01T05:31:17Z,octavius-cli,0.1.0,Octavus AI <dev@octavus.ai>,MIT,4255,"Command line for octavius-ai, the Python client for the Octavus platform API"
+2026-10-01T05:33:55Z,je-action-core,0.0.2,JE-Chen <jechenmailman@gmail.com>,MIT,63403,"The keyword-driven action executor shared by APITestka, LoadDensity, MailThunder and FileAutomation"
+2026-10-01T05:35:52Z,agent-supervisor,0.1.2,,Apache-2.0,3214677,Policy-driven process isolation and supervision for agent runtimes
+2026-10-01T05:36:58Z,sciengformulary,1.0.0,,Apache-2.0,247018,"Verified scientific and engineering formulas with units, assumptions, references, and executable evaluators."
+2026-10-01T05:37:23Z,olkiiilll,0.1.0,wozdbusrj <ffmpegwangdejie@outlook.com>,MIT,6901,Windows平台原生ctypes键盘模拟库，无需第三方依赖
+2026-10-01T05:46:51Z,chaskiwasi-plugin-remaju,0.1.0,,,10509,Plugin para extracción de datos en resoluciones de remate judicial (REMAJU)
+2026-10-01T05:50:11Z,jayasri-agentic-terminal,0.1.0,,,5290,a terminal that acts as an agent and interacts with the user to perform tasks
+2026-10-01T05:50:59Z,nuppy,0.1.0,a-123 <a12964856@gmail.com>,,16481,A collection of my Machine Learning practical codes
+2026-10-01T05:51:52Z,sightglass,0.2.0,Matthew Davidson <matthew@davidson.engineering>,MIT,462125,"Live dashboards for a running program, a device, or anything that can make an HTTP request."
+2026-10-01T05:52:17Z,webactuate,0.0.1,Teddy Toms,Apache-2.0,11507,Name placeholder — the real library is not yet published publicly
+2026-10-01T06:04:08Z,databricks-sdk-air,0.1.0,Databricks,Databricks License,135356,Databricks AI Runtime Python package.
+2026-10-01T06:08:13Z,estrellio-logging-lib,0.1.0,shade,MIT,17533,Small logging helpers for CLI-style Python tools.
+2026-10-01T06:13:04Z,keysoft,0.1.0,,MIT,14733,SDK de Python para la API de KeySoft — facturación electrónica SUNAT.
