@@ -8,42 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 08:18 UTC
+## Latest list — 2026-10-01 09:18 UTC
 
-New packages created between 2026-10-01 07:20 UTC and 2026-10-01 08:18 UTC.
+New packages created between 2026-10-01 08:18 UTC and 2026-10-01 09:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-01T08-18-43-072754Z.csv)
+[Full CSV](data/new-packages-2026-10-01T09-18-40-601686Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-01 07:22:02 | [neuralresearcher](https://pypi.org/project/neuralresearcher/) | 0.1.0 | neuralresearcher Authors | 156.4 kB | Terminal-based, PyPI-distributed multi-agent research planner for ML/CS topics. |
-| 2026-10-01 07:22:09 | [ovos-skill-recipe-helper](https://pypi.org/project/ovos-skill-recipe-helper/) | 0.1.0 | Andreas Lorensen | 2.2 MB | Offline cookbook skill for OVOS - recipes from Wikibooks, no internet needed |
-| 2026-10-01 07:23:17 | [eu-pii-redact](https://pypi.org/project/eu-pii-redact/) | 0.1.0 | JulianJohansen | 186.5 kB | Redact European personal data (names, national IDs, IBANs, emails, phones) befo… |
-| 2026-10-01 07:25:24 | [mosaic-os](https://pypi.org/project/mosaic-os/) | 0.1.0 | Kamal Karteek U, Mishka Tiwar… | 41.6 kB | Python client and command line for mOSaic, the operating system for organizatio… |
-| 2026-10-01 07:26:11 | [mcp-capdiff](https://pypi.org/project/mcp-capdiff/) | 0.1.1 | MCP Audit contributors | 71.9 kB | Security regression scanner for Model Context Protocol servers. |
-| 2026-10-01 07:31:03 | [mcp-librenms](https://pypi.org/project/mcp-librenms/) | 0.1.0 |  | 21.1 kB | MCP server that exposes the LibreNMS REST API as MCP tools |
-| 2026-10-01 07:32:28 | [home-energy-optimizer](https://pypi.org/project/home-energy-optimizer/) | 0.1.0 | Ameet Deshpande | 343.2 kB | Makes a home's energy devices cooperate: each plans with its own optimiser, Dan… |
-| 2026-10-01 07:34:30 | [lupaxa-github-token-validator](https://pypi.org/project/lupaxa-github-token-validator/) | 0.1.0 | The Lupaxa Project | 46.5 kB | Report what a GitHub token is allowed to do. |
-| 2026-10-01 07:40:56 | [nesydep](https://pypi.org/project/nesydep/) | 1.0.0 | NeSyDep Authors | 3.8 MB | NeSyDep: fast neural-symbolic discovery of data dependencies (FDs, CFDs, and mo… |
-| 2026-10-01 07:42:23 | [partest-atlas](https://pypi.org/project/partest-atlas/) | 0.1.0 | dec01 | 133.2 kB | Сбор наблюдений о системе и о прогоне тестов в версионированные артефакты — аге… |
-| 2026-10-01 07:45:20 | [parisaocr](https://pypi.org/project/parisaocr/) | 0.2.0 | Ali Javadi | 39.1 MB | Open-source OCR for printed Persian: PP-OCR line detection and a Kraken recogni… |
-| 2026-10-01 07:46:33 | [daikin-onecta](https://pypi.org/project/daikin-onecta/) | 0.1.0 | Johnny Willemsen | 9.9 kB | Async Python client for the Daikin Onecta cloud API |
-| 2026-10-01 07:49:05 | [soutine-banana-prompts](https://pypi.org/project/soutine-banana-prompts/) | 0.1.0 | leony <leony2919@gmail.com> | 5.7 kB | Reference package for Soutine's free Nano Banana (Gemini) prompt library with r… |
-| 2026-10-01 07:49:06 | [soutine-seedance-prompts](https://pypi.org/project/soutine-seedance-prompts/) | 0.1.0 | leony <leony2919@gmail.com> | 5.7 kB | Reference package for Soutine's free Seedance video prompt library with clip pr… |
-| 2026-10-01 07:49:07 | [soutine-qwen-prompts](https://pypi.org/project/soutine-qwen-prompts/) | 0.1.0 | leony <leony2919@gmail.com> | 5.7 kB | Reference package for Soutine's free Qwen Image 2.1 prompt library. |
-| 2026-10-01 07:54:07 | [hrdware-monitoring-syst](https://pypi.org/project/hrdware-monitoring-syst/) | 0.1.0 | ehsan bahmanipor | 5.9 kB | It is a simple app that can monitor the resources used by the following hardwar… |
-| 2026-10-01 07:58:14 | [interuss-monitoring](https://pypi.org/project/interuss-monitoring/) | 0.36.0 | InterUSS Platform <tsc@lists.… | 1.5 MB | Monitoring framework to test UAS Service Suppliers |
-| 2026-10-01 07:59:47 | [mkdocs-light-dark-toggle](https://pypi.org/project/mkdocs-light-dark-toggle/) | 0.1.0 | Luka Sherman <luka.msherman@g… | 172.6 kB | Material for MkDocs plugin: an always-visible two-button light/dark switch, rep… |
-| 2026-10-01 08:00:43 | [privacyprobe](https://pypi.org/project/privacyprobe/) | 0.2.0 | Mayank Hete <mayankrajeshhete… | 83.4 kB | Privacy compliance testing for LLM apps: DPDP Act and GDPR evidence reports, PI… |
-| 2026-10-01 08:00:53 | [langchain-decodo](https://pypi.org/project/langchain-decodo/) | 0.1.0 | Decodo <support@decodo.com> | 186.6 kB | LangChain integration for the Decodo web scraping API |
-| 2026-10-01 08:05:08 | [robotframework-request-logger](https://pypi.org/project/robotframework-request-logger/) | 0.1.0 | Angel Molina | 17.8 kB | Protected HTTP request and response console logging for Robot Framework with Ri… |
-| 2026-10-01 08:07:48 | [kohakuclip](https://pypi.org/project/kohakuclip/) | 1.0.0 | Kohaku | 114.7 MB | Fast random-access video clips for training: zip/tar/folders of mp4 + native ba… |
-| 2026-10-01 08:08:04 | [pyrentri](https://pypi.org/project/pyrentri/) | 0.1.0 | Progressify | 13.4 kB | Simple API Wrapper for RENTRI (Registro Elettronico Nazionale per la Tracciabil… |
-| 2026-10-01 08:08:16 | [thai-talking-clock](https://pypi.org/project/thai-talking-clock/) | 1.0.0 | Billy | 2.6 MB | A cross-platform Python library for audio time announcement using MP3 files. |
-| 2026-10-01 08:08:41 | [aidr-core](https://pypi.org/project/aidr-core/) | 0.1.0 | Evoliv Core | 80.5 kB | AIDR core types: agent identifiers, errors and serialisation shared by the AIDR… |
-| 2026-10-01 08:09:03 | [aidr-crypto](https://pypi.org/project/aidr-crypto/) | 0.1.0 | Evoliv Core | 86.7 kB | AIDR cryptography: keys, JWS credentials, RFC 9421 HTTP message signatures, pro… |
-| 2026-10-01 08:09:16 | [blackdrome-noma](https://pypi.org/project/blackdrome-noma/) | 1.0.0 | Blackdrome AI Labs <hello@bla… | 181.1 kB | Noma: an open, calibrated decision model for agents and pipelines, by Blackdrom… |
-| 2026-10-01 08:09:29 | [aidr-agent](https://pypi.org/project/aidr-agent/) | 0.1.0 | Evoliv Core | 39.8 kB | Give an AI agent a verifiable AIDR identity: enroll from code, sign requests, L… |
-| 2026-10-01 08:10:18 | [llama-index-tools-decodo](https://pypi.org/project/llama-index-tools-decodo/) | 0.1.0 | Decodo <support@decodo.com> | 13.2 kB | Decodo web scraping API tool spec for LlamaIndex agents. |
-| 2026-10-01 08:14:36 | [aidr-verifier](https://pypi.org/project/aidr-verifier/) | 0.1.0 | Evoliv Core | 65.9 kB | Verify AI agents' AIDR identities on your own site, offline: credentials and RF… |
-| 2026-10-01 08:18:03 | [entune](https://pypi.org/project/entune/) | 0.1.0 |  | 1.1 MB | Dictation with your choice of speech model and a personal dictionary that selec… |
+| 2026-10-01 08:23:50 | [trackparse](https://pypi.org/project/trackparse/) | 0.2.0 | Maksim Maksimov | 91.1 kB | Spec-driven parser for music track titles: artists, feat, remixes, versions, ju… |
+| 2026-10-01 08:25:44 | [pytriper](https://pypi.org/project/pytriper/) | 0.1.0 |  | 9.0 kB | Bundle and obfuscate Python projects into one .py file |
+| 2026-10-01 08:26:28 | [venom-report](https://pypi.org/project/venom-report/) | 0.1.0 | Pierre Frayer | 50.2 kB | A static HTML report for any venom run, like coverage html. |
+| 2026-10-01 08:27:15 | [transformers-mblt](https://pypi.org/project/transformers-mblt/) | 0.0.0 | "Mobilint Inc." <tech-support… | 605.6 kB | Mobilint NPU integrations for Hugging Face Transformers: LLMs, VLMs, ASR, and s… |
+| 2026-10-01 08:31:04 | [fiqros-llama-index-protocols-ag-ui](https://pypi.org/project/fiqros-llama-index-protocols-ag-ui/) | 0.5.1 | Logan Markewich <logan@runlla… | 37.3 kB | llama-index protocols AG-UI integration |
+| 2026-10-01 08:32:02 | [simbricks-enso-sys-py](https://pypi.org/project/simbricks-enso-sys-py/) | 0.6.0 | Team SimBricks | 14.3 kB | Ensō NIC System integration into SimBricks |
+| 2026-10-01 08:32:04 | [simbricks-enso-sim-bm-py](https://pypi.org/project/simbricks-enso-sim-bm-py/) | 0.6.0 | Team SimBricks | 5.9 kB | Ensō NIC behavioral model integration into SimBricks |
+| 2026-10-01 08:32:40 | [dyson-orca-tools](https://pypi.org/project/dyson-orca-tools/) | 0.1.0 | Andres Ortega Guerrero <andre… | 72.1 kB | Dyson orca tools package |
+| 2026-10-01 08:32:59 | [revisionlab](https://pypi.org/project/revisionlab/) | 0.1.0 | cjw0076 | 59.4 kB | PyTorch-native delayed-feedback memory contracts, controls, and diagnostics |
+| 2026-10-01 08:33:12 | [aforo-metering](https://pypi.org/project/aforo-metering/) | 1.0.0 |  | 57.1 kB | Aforo usage metering SDK — track API usage events with batching, retry, and fra… |
+| 2026-10-01 08:33:26 | [yubi-mujoco](https://pypi.org/project/yubi-mujoco/) | 0.1.0 | YUBI MuJoCo contributors | 5.4 MB | CAD-based, arm-free YUBI gripper simulation for MuJoCo |
+| 2026-10-01 08:35:13 | [korean-datetime](https://pypi.org/project/korean-datetime/) | 1.0.0 |  | 298.6 kB | Korean temporal expression parser: 한국어 자연어 날짜·시간·기간 표현(다음주 월요일 저녁 7시, 추석 연휴, 3시… |
+| 2026-10-01 08:38:40 | [headroom-winnow](https://pypi.org/project/headroom-winnow/) | 0.2.0 | Recep Kurtulus | 49.8 kB | Winnow: task-aware pruning of coding-agent tool output for Headroom, powered by… |
+| 2026-10-01 08:38:42 | [netbirdexport](https://pypi.org/project/netbirdexport/) | 0.1.0 | Younes Z. | 27.3 kB | Export a NetBird account inventory (peers, users, setup keys, groups) to CSV an… |
+| 2026-10-01 08:38:55 | [md-collab-editor](https://pypi.org/project/md-collab-editor/) | 0.1.1 | Gareth Nisbet | 67.2 kB | Local GitHub-style markdown editor shared between you and Claude Code |
+| 2026-10-01 08:45:23 | [fusion-safety](https://pypi.org/project/fusion-safety/) | 0.1.0 | Fusion First | 1.1 MB | Measure and guard AI agents: safety and quality evaluation with a runtime guard… |
+| 2026-10-01 08:46:59 | [csv-salvage](https://pypi.org/project/csv-salvage/) | 0.1.0 | Eli-ezer Reuven Ramirez Ruiz | 36.1 MB | High-performance, fault-tolerant CSV salvage and reconstruction engine powered… |
+| 2026-10-01 08:49:35 | [thetaterm](https://pypi.org/project/thetaterm/) | 0.1.1 | ThetaPlex | 28.5 kB | Supercharge your terminal with AI |
+| 2026-10-01 08:54:29 | [py-spy-asyncio](https://pypi.org/project/py-spy-asyncio/) | 0.4.2 |  | 4.1 MB |  |
+| 2026-10-01 08:56:11 | [vkx](https://pypi.org/project/vkx/) | 0.1.0 | to4e4ka | 465.2 kB | Асинхронный клиент VK API: выбор токена по scope, батчинг через execute, типы A… |
+| 2026-10-01 08:57:27 | [errorbars](https://pypi.org/project/errorbars/) | 0.1.2 | Anton Soloviev <anton@praviel… | 70.5 kB | Error bars for LLM evals: standard errors, clustering, paired comparisons, lead… |
+| 2026-10-01 09:00:02 | [seedsoto](https://pypi.org/project/seedsoto/) | 0.0.1 |  | 2.6 kB | Soto by Seed Frontier: specialist AI models trained on your data. Name reserved… |
+| 2026-10-01 09:00:04 | [seedmagnus](https://pypi.org/project/seedmagnus/) | 0.0.1 |  | 2.6 kB | Seed Magnus: memory-first reasoning and cognitive runtime for AI. Name reserved… |
+| 2026-10-01 09:00:06 | [soto](https://pypi.org/project/soto/) | 0.0.1 |  | 2.5 kB | Soto by Seed Frontier: specialist AI models trained on your data. Name reserved… |
+| 2026-10-01 09:00:08 | [soto-ai](https://pypi.org/project/soto-ai/) | 0.0.1 |  | 2.6 kB | Soto by Seed Frontier: specialist AI models trained on your data. Name reserved… |
+| 2026-10-01 09:01:52 | [trainspotter](https://pypi.org/project/trainspotter/) | 0.1.2 | Anton Soloviev <anton@praviel… | 115.6 kB | Automatic diagnosis of loss curves and training logs: spot divergence, spikes,… |
+| 2026-10-01 09:03:48 | [flakemap](https://pypi.org/project/flakemap/) | 0.3.1 | Anton Soloviev <anton@praviel… | 102.3 kB | Find the flaky tests in your CI history from JUnit XML reports. |
+| 2026-10-01 09:03:48 | [rin-pitch](https://pypi.org/project/rin-pitch/) | 1.0.0 | Chi-Jen Peng | 178.0 kB | Relative Interval Network (RIN) pitch smoothing: fuse absolute F0 estimates wit… |
+| 2026-10-01 09:04:12 | [duku-cli](https://pypi.org/project/duku-cli/) | 0.1.0 |  | 163.5 kB | 读库下载与 EPUB 转换 CLI |
+| 2026-10-01 09:05:51 | [meeting-intelligence](https://pypi.org/project/meeting-intelligence/) | 0.1.0 | Pranay Mahendrakar | 97.9 kB | Turn a meeting transcript into decisions, action items and a summary |
+| 2026-10-01 09:06:58 | [image-quality-ai](https://pypi.org/project/image-quality-ai/) | 0.1.0 | Pranay Mahendrakar | 83.7 kB | Detect blur, darkness, overexposure, noise, low contrast and bad framing in pho… |
+| 2026-10-01 09:07:51 | [veil-pii](https://pypi.org/project/veil-pii/) | 0.3.1 | Anton Soloviev <anton@praviel… | 107.7 kB | Reversible PII masking for LLM calls: mask before the prompt leaves your networ… |
+| 2026-10-01 09:08:33 | [squidbrake](https://pypi.org/project/squidbrake/) | 0.3.0 | Pulkit Batra | 242.7 kB | Brakes for AI agents: every tool call is checked against your rules, risky ones… |
+| 2026-10-01 09:12:14 | [mosaickit](https://pypi.org/project/mosaickit/) | 0.1.0 | EconViz | 229.0 kB | Domain-neutral scenes, styles, and rendering for EconViz. |
+| 2026-10-01 09:12:45 | [aforo-graphql-metering](https://pypi.org/project/aforo-graphql-metering/) | 1.0.0 | Aforo, Inc. | 28.1 kB | Aforo GraphQL Metering SDK — Strawberry/Graphene/Ariadne extensions + ASGI midd… |
+| 2026-10-01 09:16:29 | [airawatos-aos](https://pypi.org/project/airawatos-aos/) | 0.1.0a1 | AirawatOS | 98.2 kB | aos — the AirawatOS build SDK + CLI: author, check, test, deploy governed compo… |
+| 2026-10-01 09:17:18 | [review-miner-mcp](https://pypi.org/project/review-miner-mcp/) | 0.1.0 | Ali Altunar | 228.9 kB | MCP server that mines App Store and Steam reviews so your AI can find what user… |
+| 2026-10-01 09:17:48 | [aforo-grpc-metering](https://pypi.org/project/aforo-grpc-metering/) | 1.0.0 | Aforo, Inc. | 26.2 kB | Aforo gRPC Metering SDK — server interceptors and decorators that meter every R… |

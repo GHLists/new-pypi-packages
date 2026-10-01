@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T08:23:50Z,trackparse,0.2.0,Maksim Maksimov,MIT,91123,"Spec-driven parser for music track titles: artists, feat, remixes, versions, junk, positions."
+2026-10-01T08:25:44Z,pytriper,0.1.0,,,8991,Bundle and obfuscate Python projects into one .py file
+2026-10-01T08:26:28Z,venom-report,0.1.0,Pierre Frayer,Apache-2.0,50194,"A static HTML report for any venom run, like coverage html."
+2026-10-01T08:27:15Z,transformers-mblt,0.0.0,"""Mobilint Inc."" <tech-support@mobilint.com>",BSD-3-Clause,605590,"Mobilint NPU integrations for Hugging Face Transformers: LLMs, VLMs, ASR, and speculative decoding"
+2026-10-01T08:31:04Z,fiqros-llama-index-protocols-ag-ui,0.5.1,Logan Markewich <logan@runllama.ai>,MIT,37324,llama-index protocols AG-UI integration
+2026-10-01T08:32:02Z,simbricks-enso-sys-py,0.6.0,Team SimBricks,,14348,Ensō NIC System integration into SimBricks
+2026-10-01T08:32:04Z,simbricks-enso-sim-bm-py,0.6.0,Team SimBricks,,5865,Ensō NIC behavioral model integration into SimBricks
+2026-10-01T08:32:40Z,dyson-orca-tools,0.1.0,"Andres Ortega Guerrero <andres.ortega-guerrero@empa.ch>, Gonçalo Catarina <goncalo.catarina@empa.ch>",,72068,Dyson orca tools package
+2026-10-01T08:32:59Z,revisionlab,0.1.0,cjw0076,MIT,59417,"PyTorch-native delayed-feedback memory contracts, controls, and diagnostics"
+2026-10-01T08:33:12Z,aforo-metering,1.0.0,,Apache-2.0,57075,"Aforo usage metering SDK — track API usage events with batching, retry, and framework middleware"
+2026-10-01T08:33:26Z,yubi-mujoco,0.1.0,YUBI MuJoCo contributors,MIT AND CERN-OHL-W-2.0 AND Apache-2.0,5371836,"CAD-based, arm-free YUBI gripper simulation for MuJoCo"
+2026-10-01T08:35:13Z,korean-datetime,1.0.0,,MIT,298573,"Korean temporal expression parser: 한국어 자연어 날짜·시간·기간 표현(다음주 월요일 저녁 7시, 추석 연휴, 3시부터 5시까지)을 datetime 구간으로 변환. 의존성 없음"
+2026-10-01T08:38:40Z,headroom-winnow,0.2.0,Recep Kurtulus,Apache-2.0,49810,"Winnow: task-aware pruning of coding-agent tool output for Headroom, powered by Squeez models"
+2026-10-01T08:38:42Z,netbirdexport,0.1.0,Younes Z.,MIT,27298,"Export a NetBird account inventory (peers, users, setup keys, groups) to CSV and JSON in one command, using your own access token. Standard library only."
+2026-10-01T08:38:55Z,md-collab-editor,0.1.1,Gareth Nisbet,MIT,67171,Local GitHub-style markdown editor shared between you and Claude Code
+2026-10-01T08:45:23Z,fusion-safety,0.1.0,Fusion First,Proprietary,1060818,Measure and guard AI agents: safety and quality evaluation with a runtime guardrail
+2026-10-01T08:46:59Z,csv-salvage,0.1.0,Eli-ezer Reuven Ramirez Ruiz,Apache-2.0,36143370,"High-performance, fault-tolerant CSV salvage and reconstruction engine powered by Rust and PyO3"
+2026-10-01T08:49:35Z,thetaterm,0.1.1,ThetaPlex,Apache-2.0,28471,Supercharge your terminal with AI
+2026-10-01T08:54:29Z,py-spy-asyncio,0.4.2,,,4139010,
+2026-10-01T08:56:11Z,vkx,0.1.0,to4e4ka,MIT,465186,"Асинхронный клиент VK API: выбор токена по scope, батчинг через execute, типы API/событий и разбор Callback/Long Poll."
+2026-10-01T08:57:27Z,errorbars,0.1.2,Anton Soloviev <anton@praviel.com>,MIT,70508,"Error bars for LLM evals: standard errors, clustering, paired comparisons, leaderboards, and power analysis."
+2026-10-01T09:00:02Z,seedsoto,0.0.1,,,2573,"Soto by Seed Frontier: specialist AI models trained on your data. Name reserved, first release coming."
+2026-10-01T09:00:04Z,seedmagnus,0.0.1,,,2606,"Seed Magnus: memory-first reasoning and cognitive runtime for AI. Name reserved, first release coming."
+2026-10-01T09:00:06Z,soto,0.0.1,,,2529,"Soto by Seed Frontier: specialist AI models trained on your data. Name reserved, first release coming."
+2026-10-01T09:00:08Z,soto-ai,0.0.1,,,2567,"Soto by Seed Frontier: specialist AI models trained on your data. Name reserved, first release coming."
+2026-10-01T09:01:52Z,trainspotter,0.1.2,Anton Soloviev <anton@praviel.com>,MIT,115559,"Automatic diagnosis of loss curves and training logs: spot divergence, spikes, overfitting, LR and throughput problems before you burn another GPU-day."
+2026-10-01T09:03:48Z,flakemap,0.3.1,Anton Soloviev <anton@praviel.com>,MIT,102298,Find the flaky tests in your CI history from JUnit XML reports.
+2026-10-01T09:03:48Z,rin-pitch,1.0.0,Chi-Jen Peng,MIT,178007,Relative Interval Network (RIN) pitch smoothing: fuse absolute F0 estimates with multi-hop VQT relative pitch differences through a network-flow LP
+2026-10-01T09:04:12Z,duku-cli,0.1.0,,GPL-3.0-only,163524,读库下载与 EPUB 转换 CLI
+2026-10-01T09:05:51Z,meeting-intelligence,0.1.0,Pranay Mahendrakar,MIT,97875,"Turn a meeting transcript into decisions, action items and a summary"
+2026-10-01T09:06:58Z,image-quality-ai,0.1.0,Pranay Mahendrakar,MIT,83712,"Detect blur, darkness, overexposure, noise, low contrast and bad framing in photos before they reach a model"
+2026-10-01T09:07:51Z,veil-pii,0.3.1,Anton Soloviev <anton@praviel.com>,MIT,107696,"Reversible PII masking for LLM calls: mask before the prompt leaves your network, restore in the answer, streaming included."
+2026-10-01T09:08:33Z,squidbrake,0.3.0,Pulkit Batra,Apache-2.0,242666,"Brakes for AI agents: every tool call is checked against your rules, risky ones wait for a human, and everything lands in a tamper-evident audit trail."
+2026-10-01T09:12:14Z,mosaickit,0.1.0,EconViz,MIT,228997,"Domain-neutral scenes, styles, and rendering for EconViz."
+2026-10-01T09:12:45Z,aforo-graphql-metering,1.0.0,"Aforo, Inc.",Apache-2.0,28073,Aforo GraphQL Metering SDK — Strawberry/Graphene/Ariadne extensions + ASGI middleware that meter every GraphQL operation with AST-accurate complexity scoring.
+2026-10-01T09:16:29Z,airawatos-aos,0.1.0a1,AirawatOS,Apache-2.0,98165,"aos — the AirawatOS build SDK + CLI: author, check, test, deploy governed components & solutions"
+2026-10-01T09:17:18Z,review-miner-mcp,0.1.0,Ali Altunar,MIT,228906,MCP server that mines App Store and Steam reviews so your AI can find what users hate about competitors. No API keys.
+2026-10-01T09:17:48Z,aforo-grpc-metering,1.0.0,"Aforo, Inc.",Apache-2.0,26211,Aforo gRPC Metering SDK — server interceptors and decorators that meter every RPC call to Aforo's usage ingestor.
