@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T04:19:22Z,nwqlib,1.0.0.post1,NWQLib developers,BSD-2-Clause,7864987,Evidence-aware quantum algorithms and scientific workflows.
+2026-10-01T04:21:15Z,smartvoice,0.2.0,,,23943091,Local speech-to-text and text-to-speech service
+2026-10-01T04:23:19Z,termradio,0.1.1,Parashar Nupane,MIT,51995,"Radio, music and podcasts in your terminal. No API keys."
+2026-10-01T04:25:17Z,sscbirrt-assets,1.0.0,Siddhartha Srinivasa <siddhartha.srinivasa@gmail.com>,MIT AND BSD-3-Clause AND BSD-2-Clause,10785055,"The MuJoCo Menagerie UR5e and Robotiq 2F-85 models, packaged for the sscbirrt demos"
+2026-10-01T04:28:50Z,tailtrail,1.0.0,TailTrail,Apache-2.0,4586144,"Local-first development guidance for smaller, evidence-backed coding workflows."
+2026-10-01T04:29:44Z,freerdp-tk,0.1.1,Cong Zhang <lucien.c.zhang@gmail.com>,Apache-2.0,45836,A small cross-platform Tkinter launcher for the FreeRDP remote desktop clients
+2026-10-01T04:30:24Z,kiteml-cli,0.1.1,Kite ML <raul@kiteml.com>,Apache-2.0,65666,"Kite CLI and MCP server: train robot policies with reinforcement learning in simulation, augment LeRobot datasets, and build MuJoCo digital twins, from your terminal or an AI agent."
+2026-10-01T04:39:51Z,types-aiobotocore-cloudwatchomni,3.9.2,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,83594,Type annotations for aiobotocore CloudWatchOmni 3.9.2 service generated with mypy-boto3-builder 8.12.0
+2026-10-01T04:40:27Z,odeanalysis,0.1.0,Bhuvanesh Bhatt <bhuvaneshbhatt@gmail.com>,GPL-3.0-only,318048,Symbolic formal and structural analysis of ODEs and differential systems
+2026-10-01T04:40:43Z,types-aiobotocore-iam-toolbox,3.9.2,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,37876,Type annotations for aiobotocore IAMToolboxPreview 3.9.2 service generated with mypy-boto3-builder 8.12.0
+2026-10-01T04:41:02Z,types-aiobotocore-eventbridgev2,3.9.2,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,58087,Type annotations for aiobotocore EventBridgeV2 3.9.2 service generated with mypy-boto3-builder 8.12.0
+2026-10-01T04:41:08Z,odoo-addon-sustainability,16.0.2.2.0.1,"MCO2, Open Net Sàrl",LGPL-3,559854,"Base module to track CO2 equivalent in accounting, Sustainability, GHG Protocol, CSRD Directive, BEGES, ADEME, ISO format, Action Plan, Emission Factors, carbon CO2 footprint computation, Analytical…"
+2026-10-01T04:44:30Z,crux-inject,0.1.0,Akash Bhujbal <akashbhujbal100@gmail.com>,MIT,29738,CRUX — Credential Runtime Unified eXecutor. Securely inject credentials into any AI tool.
+2026-10-01T04:45:02Z,types-aiobotocore-network-security-manager,3.9.2,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,70327,Type annotations for aiobotocore NetworkSecurityManagerCustomerAPI 3.9.2 service generated with mypy-boto3-builder 8.12.0
+2026-10-01T04:52:16Z,abstract-chatshare,0.0.2,putkoff,,101059,"Login-gated chat + file-share + WebRTC video backend for abstractendeavors.com. Single-process asyncio websockets service over Postgres (auth_v2), minimal deps."
+2026-10-01T04:52:50Z,erml,1.0.1,ERML Contributors,"MIT License Copyright (c) 2026 ERML Contributors Permission is hereby granted, free of charge, to a…",46151,Facial emotion recognition SDK — drop-in library for emotion detection from images
+2026-10-01T04:56:32Z,codeflowlens,0.1.0,exceedlimit,Apache-2.0,101513,바이브코딩으로 만든 시스템의 실행 흐름·메서드·엔티티를 시각화하는 모니터링 패키지 (Python 추적기 + 정적 분석기)
+2026-10-01T04:57:38Z,memzero-train,0.1.0,Tokenoodle-Everything Organization,Tokenoodle-Everything License Version: 1.0 Copyright (c) 2026 Tokenoodle-Everything Organization Pe…,63645,"Zero-memory, multi-core-CPU local AI training for ordinary laptops."
+2026-10-01T05:10:00Z,script-forge-project-api,26.0.0,Script Forge HQ Pty Ltd,MIT,197459,"Script Forge Project API - core storage tuples, context and migration layer"
+2026-10-01T05:10:42Z,mps-pointops,0.3.0,gamzerA,Apache-2.0 AND MIT,148254,"Point cloud ops (FPS, kNN, ball query) for PyTorch on Apple Silicon (MPS)"
+2026-10-01T05:12:09Z,kuvy,1.1.1,,,6190,"Lightweight project manager for Python, inspired in Cargo."
+2026-10-01T05:19:46Z,acme-http-connector,0.1.0,Adrien Delle Cave <pypi@doowan.net>,GPL-3.0-or-later,34948,Client-independent HTTP API connector for ACME challenges and certificates
+2026-10-01T05:21:19Z,qagent-tracer,0.1.0,QAgent Team <support@qagent.in>,MIT,27489,Lightweight tool execution tracing SDK for evaluating AI agents on QAgent.
