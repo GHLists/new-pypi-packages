@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-10-01T21:19:20.794592Z",
-    "path": "data/new-packages-2026-10-01T22-19-53-474569Z.csv",
-    "to": "2026-10-01T22:19:53.474569Z"
+    "count": 16,
+    "from": "2026-10-01T22:19:53.474569Z",
+    "path": "data/new-packages-2026-10-01T23-19-10-517461Z.csv",
+    "to": "2026-10-01T23:19:10.517461Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-01T21:29:48Z",
       "package": "ff1-fpe",
       "since": "2026-10-01T21:19:20.794592Z"
     },
     {
-      "attempts": 2,
-      "created_at": "2026-10-01T21:16:10Z",
-      "package": "livekit-plugins-microsoft_ai",
-      "since": "2026-10-01T20:19:07.33982Z"
+      "attempts": 1,
+      "created_at": "2026-10-01T22:29:59Z",
+      "package": "livekit-supermemory",
+      "since": "2026-10-01T22:19:53.474569Z"
     }
   ],
-  "serial": 41707195,
+  "serial": 41709223,
   "source_truncated": false,
-  "window": "2026-10-01T22:19:53.474569Z"
+  "window": "2026-10-01T23:19:10.517461Z"
 }
