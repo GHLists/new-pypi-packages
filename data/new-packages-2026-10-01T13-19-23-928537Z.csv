@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T12:17:46Z,adrpy-tui,0.1.0,Fernando Cerqueira,MIT,378081,"Interactive terminal UI for adrpy -- guided, human-friendly ADR management that runs every change through the adrpy CLI."
+2026-10-01T12:24:09Z,ikc-flash-sdk,0.4.2,,Apache-2.0,25037,ikc-flash-knowledge 记忆引擎官方客户端 SDK（同步 + 异步；零重依赖）
+2026-10-01T12:25:58Z,phigros-score-library,1.0.1,BL.BlueLighting,GPL-3.0-or-later,133016,Phigros 云存档解析库：存档解密与序列化、B19 / RKS / 期望 ACC 计算、TapTap 扫码登录、LeanCloud 查分接口。
+2026-10-01T12:26:50Z,cv2drawx,0.1.0,,,6102,
+2026-10-01T12:28:05Z,nexus-azure-migrate,0.1.2,Boluwatife Morawo,Apache-2.0,49358,flexible cli for migrating supported artifacts from nexus2/3 to Azure artifacts
+2026-10-01T12:29:09Z,agenttune,1.1.0,"Abhivansh Gupta, Vidushee Vats, Ram Mohan Rao Kadiyala, Vinay Kumar Sankarapu",Lexsi Labs Source Available License (LSAL) v1.1,4124322,"AgentTune: build agentic workflows, then train, evaluate, distill, and self-heal them through one trajectory schema. A TRL-backed alignment + fine-tuning library (full RL coverage — DPO, PPO, GRPO) w…"
+2026-10-01T12:29:32Z,quickbeam,0.1.0,Kai Striega <me@kaistriega.com>,BSD-3-Clause,7338351,"Micro-benchmarking that explains why code is slow, not just how long it takes."
+2026-10-01T12:30:56Z,aquaswmm,0.12.0,Michael Flynn,GPL-3.0-or-later,6217545,"EPA SWMM scripting (edit .inp, run, read .out/.rpt) and storm sewer hydraulics: Rational method, Manning, HGL/EGL backwater, HEC-22 inlets"
+2026-10-01T12:31:33Z,synthpop-lint-py,0.0.0,Synthpop Inc,,1785,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-01T12:31:35Z,synthpop-release-py,0.0.0,Synthpop Inc,,1820,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-01T12:31:37Z,synthpop-service-common,0.0.0,Synthpop Inc,,1578,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-01T12:31:40Z,synthpop-static-analysis-py,0.0.0,Synthpop Inc,,1927,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-01T12:31:46Z,kiln-rt,0.1.0,Collins Mwaura <forgot.my@gmail.com>,GPL-2.0,715650,Kiln
+2026-10-01T12:35:07Z,terrahour,1.0.2,Alessio Coci,MIT,809506,"World clock, world map and 24-hour meeting planner for the terminal"
+2026-10-01T12:38:01Z,pricing-time-machine-mcp,0.1.0,Ali Altunar,MIT,191605,"MCP server that shows how any SaaS pricing page changed over the years, from the Wayback Machine. No API keys."
+2026-10-01T12:38:05Z,hn-hiring-trends-mcp,0.1.0,Ali Altunar,MIT,193508,"MCP server: which skills are in demand on Hacker News ""Who is hiring?"" threads, month by month. No API keys."
+2026-10-01T12:38:09Z,model-price-radar-mcp,0.1.0,Ali Altunar,MIT,289339,"MCP server: LLM prices on OpenRouter now and since 2023 (price history, drops, cheapest model for a job). No API keys."
+2026-10-01T12:44:05Z,lyhnidos,0.2.0,Lyhnidos Geo Authors,MIT OR Apache-2.0,27278,"Python client for Lyhnidos Geo: an admin SDK for the app platform, and (with the [data] extra) Apache Arrow, DuckDB and Ibis integration"
+2026-10-01T12:45:59Z,hivepods-cli,0.1.1,DockHive,MIT,61316,Command line interface for DockHive / HivePods
+2026-10-01T12:46:51Z,fast-json-lint,0.1.0,Kamil Kobza <kamil1pl@gmail.com>,MIT,867358,Fast JSON linter and fixer: natural key sorting and 2-space formatting
+2026-10-01T12:47:16Z,spatialetl-providers-common-gdal,0.0.1,Fabien RÉTIF <fabien.retif@snale.net>,,22880,Provider package spatialetl-providers-common-gdal for SpatialETL
+2026-10-01T12:47:37Z,odoo-addon-pos-full-refund,18.0.1.0.0.3,"Innovyou, Odoo Community Association (OCA)",AGPL-3,24223,Add button to easily perform full refunds in Point of Sale
+2026-10-01T12:48:06Z,sacfpy,0.1.0,Leila Marvian Mashhad,,6336,Sample ACF sum and zero-frequency periodogram diagnostics for time series.
+2026-10-01T12:52:15Z,spatialetl-providers-common-netcdf,0.0.1,Fabien RÉTIF <fabien.retif@snale.net>,,27842,Provider package spatialetl-providers-common-netcdf for SpatialETL
+2026-10-01T12:52:56Z,pipelex-api,0.71.0,"""Evotis S.A.S."" <oss@pipelex.com>",Elastic-2.0,266488,Pipelex API
+2026-10-01T12:52:59Z,ub-test-reports,1.0.0,team useblocks <info@useblocks.com>,,93621,"Test results as needs without Sphinx: report parsers, the needs.json converter and the pytest plugin"
+2026-10-01T12:53:30Z,fuse-sdk,0.1.0,Kamal Koushik D,MIT,1454832,Socket-style Python bindings for the Fuse UDP transport protocol
+2026-10-01T12:55:10Z,inferpilot,0.1.0,poojithdevan4D,MIT,320246,The vLLM doctor — diagnose your inference server and know if a config change (like fp8 KV cache) will actually help.
+2026-10-01T12:58:30Z,t-bank-invest-mcp-read-only,1.0.0.dev0,Anton Balashov,MIT,76833,MCP server for reading T-Bank (Tinkoff) investment portfolio data
+2026-10-01T12:59:43Z,Hassani.SACF,0.1.0,Leila Marvian Mashhad,,6396,Sample ACF sum and zero-frequency periodogram diagnostics for time series.
+2026-10-01T13:04:21Z,django-vtpass,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,218404,"The complete VTpass integration for Django: airtime, data, TV, electricity, education, insurance, international airtime and bulk SMS, with wallets, pricing, cashback, webhooks and Celery support."
+2026-10-01T13:11:03Z,shipstores,0.1.0,Matheus Fidelis,MIT,380418,"MCP server to ship iOS and Android apps from AI agents: App Store Connect, Google Play Console and Expo EAS"
+2026-10-01T13:12:06Z,zendt,0.1.0,Laura Dilly,MIT,53942,CLI for applying business rules built in the GoRules tool model to data tables.
+2026-10-01T13:14:28Z,smpgroup,0.1.0,ProtoCentral Electronics,Apache-2.0,39219,"Declarative custom MCUmgr management groups: generate SMP classes from a spec, and check the spec against the Zephyr firmware"
+2026-10-01T13:14:34Z,webprogress-python,0.1.1,,,33626,Progress reporter client for webprogress: a tqdm drop-in that mirrors progress to a webprogress server.
+2026-10-01T13:15:34Z,koolie,1.24.1,,GPL-3.0-only,4144653,"Rules, skills and a protective hook for AI coding assistants - one rule source, installed per project."
+2026-10-01T13:17:00Z,resourcecap,0.1.0,purushottam-dafure,,2273,A python package to limit the resource usage of any program
+2026-10-01T13:18:52Z,aitestingevening,1.1,Vishwa r <vishwa@vishwa.com>,MIT,3527,A small example package
