@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T01:20:34Z,hdfe-stream,0.1.0,Lee Tucker,MIT,513695,"Out-of-core regression with several high-dimensional fixed effects: OLS, Poisson, logit and probit, with AKM/KSS variance decompositions"
+2026-10-01T01:24:13Z,grainlift-adbc-gateway,0.4.0,Query Farm LLC,Apache-2.0,49194664,Grainlift ADBC gateway: serve SQLite and other ADBC databases to remote ADBC clients
+2026-10-01T01:24:54Z,shulchan-aruch,0.1.2,Shelleyguitar,MIT,27992,Experimental owner-gated codex. OpenRouter drafts an entry; only the owner key can accept it.
+2026-10-01T01:27:04Z,ai-agent-ledger-py,0.2.1,agent-ledger contributors,Apache-2.0,350064,"An append-only, signed ledger for AI agent delegations. ARD finds agents, A2A talks to them — this records who authorised the work, within what limits, and how it ended."
+2026-10-01T01:27:25Z,tai-sdk,0.1.0,,MIT,89941,Official Python SDK for the TAI Assistant API
+2026-10-01T01:29:04Z,volttron-energyplus,2.0.0rc0,VOLTTRON Team,Apache-2.0,895473,Agent for running EnergyPlus simulations and publishing results to the Volttron message bus.
+2026-10-01T01:29:48Z,snodo-provider-github,0.18.0,,,6875,GitHub code-host provider plugin for Snodo
+2026-10-01T01:29:58Z,mowave-loci,0.1.0,MOWAVE TECNOLOGIA LTDA <eaemoraes123@gmail.com>,MIT,57444,"Typed long-term memory for AI agents — one core, an MCP server and a Hermes plugin"
+2026-10-01T01:32:42Z,shulchan,0.1.2,Shelleyguitar,MIT,5389,Experimental registered name for the Eloq codex שולקאן-ארוק. The project is shulchan-aruch.
+2026-10-01T01:33:58Z,snodo-provider-gitlab,0.18.0,,,7285,GitLab code-host provider plugin for Snodo
+2026-10-01T01:35:59Z,entitler,0.0.1,1843 Inc.,MIT,3624,Official Entitler SDK for Python (not yet available)
+2026-10-01T01:36:12Z,gh-upstream-watch,0.1.1,Colin McNamara,MIT,71866,"Read-only alerts for your upstream work: tells you the next action when a maintainer gate, a competing PR, or a review moves."
+2026-10-01T01:36:24Z,ghl-pro-mcp,0.1.1,,Proprietary,335923,"Servidor MCP local para operar GoHighLevel desde cualquier cliente de IA: workflows, embudos, landings con IA, contactos, pipelines, archivos y mensajes."
+2026-10-01T01:39:16Z,syntrends,0.1.0,SynTrends,MIT,99766,Python SDK for the SynTrends Agent API (STP/1.0 over HTTP + SSE)
+2026-10-01T01:45:09Z,GNNPCSAFTPropertyPackage,0.2.0,wildsonbbl,GPL-3.0-or-later,128294,GNNPCSAFT CAPE-OPEN Property Package
+2026-10-01T01:45:29Z,hotiq1,1.0.0,Abhinav B Prasad,,9395,Simple data preprocessing code helper for Python
+2026-10-01T01:52:26Z,coospo-cli,0.1.0,,GPL-3.0-or-later,48697,"Command-line tool for COOSPO CS500/CS600 bike computers: device info, battery, memory usage and FIT file download over Bluetooth LE"
+2026-10-01T01:54:10Z,forkrun,0.16.0,forkrun contributors,MIT,719631,NUMA-aware contention-free streaming parallelization for Python
+2026-10-01T01:54:31Z,hex-server,0.1.0,,,674305,Add your description here
+2026-10-01T01:55:09Z,docxmdtpl,0.1.0,caiocfcs,MIT,59026,Convert Markdown to .docx using a .docx template with docxtpl
+2026-10-01T01:56:04Z,nenrin-verify,0.1.0,"The HORIZONs Co., Ltd.",MIT,155774,"Recompute NENRIN evidence yourself, offline: A2A task provenance and two-party agreement records. Same reports as the npm nenrin-verify."
+2026-10-01T01:57:38Z,jaketts,1.0.1,Jake,,15219,Jake's Local CLI Text-to-Speech tool powered by Kokoro-82M
+2026-10-01T02:01:36Z,pyhydros2,2.0.0,PyHydros2 Contributors,"MIT License Permission is hereby granted, free of charge, to any person obtaining a copy of this so…",65091,Async Python client for the official HYDROS Public API (CoralVue)
+2026-10-01T02:02:44Z,DJV-viewer,3.7.0,Contributors to the DJV project,BSD-3-Clause,56097917,"An open source application for media playback and review, for film, VFX, and animation"
+2026-10-01T02:07:40Z,envarpay,0.1.0a6,EnvarAI contributors,MIT,276190,Get your agents paid. MCP and x402 payment SDK and CLI for agents.
+2026-10-01T02:09:18Z,md2textbook,0.1.0,Mike Degany,MIT AND OFL-1.1,1110250,"Convert Markdown into a coursebook-style PDF with colored boxes, equations and highlighted code, fully offline."
+2026-10-01T02:09:34Z,fontpkg-dm-mono,1.0,,OFL-1.1,171805,"DM Mono font family, packaged for Python by fontpkg"
+2026-10-01T02:09:36Z,fontpkg-pt-sans-narrow,2.3,,OFL-1.1,459504,"PT Sans Narrow font family, packaged for Python by fontpkg"
+2026-10-01T02:09:39Z,fontpkg-zilla-slab,1.2,,OFL-1.1,1099047,"Zilla Slab font family, packaged for Python by fontpkg"
+2026-10-01T02:09:41Z,fontpkg-play,2.101,,OFL-1.1,179251,"Play font family, packaged for Python by fontpkg"
+2026-10-01T02:11:57Z,robotframework-request-reporter,0.3.0,Angel Molina,,33364,Standalone HTML API evidence reports for each Robot Framework test case.
+2026-10-01T02:13:30Z,knurlogic,0.1.0,Noah Zelezny,Apache-2.0,1520031,"Serve local language models on Apple Silicon, for people and agents."
