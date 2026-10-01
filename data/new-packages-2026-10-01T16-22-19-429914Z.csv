@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T14:48:03Z,odoo-addon-sale-fixed-triple-discount,16.0.1.0.1,Odoo Community Association (OCA),AGPL-3,24674,Compatibility between fixed and triple discount modules
+2026-10-01T15:22:17Z,wiki-fabric,0.3.1,,MIT,889304,"Evidence-first knowledge base that compounds across projects — one fabric, many project namespaces"
+2026-10-01T15:23:08Z,django-paystack-wallet,1.0.0,Ifeanyi Stanley Nnamani <nnamaniifeanyi10@gmail.com>,MIT,339584,"A pluggable Django wallet backed by Paystack: deposits, withdrawals, transfers (by phone, tag or email), payments, escrow, fees, virtual accounts, settlements and a complete Paystack API client."
+2026-10-01T15:23:57Z,fourbarhinge,0.1.0,Ernesto Avedillo <eavedillo@yahoo.es>,MIT,86299,"Four-bar hinge library: kinematics, dynamics (modern-robotics), joint reactions, spring effort curves and path synthesis."
+2026-10-01T15:25:28Z,store-graphql-py,0.1.0,,MIT,22673,"GraphQL adapter that auto-generates standard GraphQL APIs for py-store schemas (schema-driven CRUD over GQL, projection pushdown)"
+2026-10-01T15:27:49Z,texloupe,0.0.1,Sergiu Deitsch <sergiu.deitsch@gmail.com>,Apache-2.0,10812,Transcript analyzer
+2026-10-01T15:30:42Z,chromint,0.1.0,,MIT OR Apache-2.0,14670471,"One Chrome identity for a stealth browser and a Chrome-accurate HTTP client: mint in the browser, replay over HTTP with the same TLS, HTTP/2 and headers."
+2026-10-01T15:30:48Z,iris-platform-sdk,0.0.0,Sol <package-registries@meetsol.com>,Proprietary,1848,Reserved name. Not for use: this package is empty and installs no code.
+2026-10-01T15:36:27Z,loop-timing-witness,0.1.0,Miroslav Šotek <protoscience@anulum.li>,AGPL-3.0-or-later,216095,"Timing, tracking and power analysis for Loop Timing Witness"
+2026-10-01T15:36:45Z,suresettles-withdrawal,1.0.0,,,20503,Certified FastAPI withdrawal authorization route for SureSettles operators
+2026-10-01T15:40:09Z,ai-ify,0.1.0,Brancaccio Lab,MIT,261061,"Embed a subscription-backed AI agent inside any app, controlled the way the developer allows"
+2026-10-01T15:40:54Z,shieldlabs,1.0.0,"""ShieldLabs Inc."" <contact@shieldlabs.ai>",MIT,116262,"ShieldLabs server SDK for Python: History API and Management API clients, webhook verification, typed events and risk helpers."
+2026-10-01T15:42:14Z,aiyoplane-verify,1.0.1,"""Aiyoplane, Inc."" <rashon@aiyoplane.com>",Apache-2.0,35591,Offline Ed25519 verifier for Aiyo execution receipts. Verify a receipt against Aiyo's published JWKS with no Aiyo-side infrastructure available.
+2026-10-01T15:42:35Z,blenderwright,2.0.0,,MIT,15869402,The most intuitive and efficient MCP Server for Blender
+2026-10-01T15:42:53Z,SPO365-GRAPH,1.1.2,SPO365 Contributors,,10354,Python client for SharePoint Online via Microsoft Graph API
+2026-10-01T15:43:14Z,jaxpip,1.0.0,mizu-bai <shiragawa4519@outlook.com>,BSD-2-Clause,37062,Permutation Invariant Polynomials (PIPs) in JAX.
+2026-10-01T15:48:31Z,switchboard-engine,0.1.1,,,13516,"A dynamic payload router for data engineering pipelines, routing between DuckDB and PySpark."
+2026-10-01T15:50:25Z,pet-jax,0.1.0,Marcel Langer <dev@marcel.science>,MIT,148447,Clean JAX/Flax implementation of uPET interatomic potentials
+2026-10-01T15:51:21Z,biocentral-vis,2.0.0,,,37503,Cross-Platform Visualizations for the Biocentral Ecosystem
+2026-10-01T15:51:40Z,biocentral,2.0.0,Sebastian Franz <sebastian.franz@tum.de>,,49608,Unified Python access to the biocentral ecosystem.
+2026-10-01T15:52:24Z,epub-explorer,0.0.2,Pol Alvarez <pol.avms@gmail.com>,Apache-2.0,23975,
+2026-10-01T15:52:59Z,ezrsurvey,0.7.0,Andreas Schellewald <aschellewald@acm.org>,MIT,712445,Single-line helpers for consumer survey analysis: the Python port of the R package ezrsurvey.
+2026-10-01T15:54:19Z,startriage,0.1.0,Ubuntu Server Team <ubuntu-server@lists.ubuntu.com>,GPL-3.0-or-later,345000,"Triage Ubuntu bugs, pull requests, forum posts and more"
+2026-10-01T15:54:54Z,TicketMetric-tool,0.1.2,,LicenseRef-Proprietary,80898,"Shared internal helpers: config, logging, Mongo, retries, migrations, jobs, notifications."
+2026-10-01T15:57:46Z,qev,0.2.0,ken-jo,Apache-2.0,357063,LAYA-inspired typed decisions over text and images with Qwen3.5-2B
+2026-10-01T15:59:16Z,yoonpay,0.1.0,,Apache-2.0,203500,"Python client for Yoon, a self-hosted payment gateway for African payment providers, with Django, FastAPI and Flask helpers."
+2026-10-01T16:02:22Z,sickittit-learno,3.0.1,Anant Prajapati,,29284,AI Practicals cheatsheet (print code + fetch ready-made data files)
+2026-10-01T16:02:57Z,ea-plugin-cli,0.20261001.3,Dunimd Team <dunimd@outlook.com>,Apache-2.0,35981,"Encre Agent plugin market unified CLI — scaffold, build, verify and publish ea-plugin-* packages"
+2026-10-01T16:03:52Z,ahasignals-pit,0.1.0,AhaSignals,MIT,21710,Point-in-time financial fact selection and quarterly cash-flow checks
+2026-10-01T16:03:57Z,qkeart,0.2.5,,,574743,"A versatile, high-performance, and easy-to-use quantum computing framework for Python"
+2026-10-01T16:05:14Z,strands-decider,0.1.0,,Apache-2.0,33450626,"An experimental typed classifier: calibrated yes/no, choice and score answers from an LLM torso with a pointer readout."
+2026-10-01T16:08:16Z,insumer-verify,1.9.2,Douglas Borthwick,MIT,126768,"Verifier for InsumerAPI condition-based access attestations and wallet trust profiles. ECDSA P-256 signatures, condition hashes, block freshness, expiry, and the ML-DSA-65 post-quantum companion."
+2026-10-01T16:08:59Z,hello-world-2026-pythonclass-test,0.1.12,,,2488,Add your description here
+2026-10-01T16:09:18Z,aiyoplane-mcp-authz,1.0.0,"""Aiyoplane, Inc."" <rashon@aiyoplane.com>",Apache-2.0,30057,Reference implementation of how Aiyo's Runtime Decision Point composes above an MCP server. Governs consequential tool invocations at the protocol boundary.
+2026-10-01T16:09:22Z,simscope,0.1.1,Senthur Ayyappan,Apache-2.0 AND MIT AND ISC AND OFL-1.1 AND 0BSD,1604221,Record and replay robot simulation rollouts.
+2026-10-01T16:09:51Z,poppins,0.1.0,jupiter,,25458,A simple terminal menu for displaying programs stored in text files
+2026-10-01T16:13:32Z,toolforge-logs-cli,0.0.3,David Caro,GPLv3,10704,Toolforge logs API client
+2026-10-01T16:15:25Z,easeo,0.1.0,Emiliano Gandini Outeda <emiliano.gandini@protonmail.com>,MIT,3537902,Deterministic SEO payload generation for content platforms
+2026-10-01T16:18:10Z,centralog-sdk,0.1.0,,MIT,49493,Python SDK for Centralog error monitoring. Captures exceptions and sends a copy to your Centralog platform without breaking your app.
+2026-10-01T16:18:16Z,pytest-obligation,0.8.0,Gigaverse,Apache-2.0,1127402,"A pytest plugin, a library for writing tests, a test generator, and a harness test runner for finding lost work, duplicate effects, and recovery bugs with your application's ObligationContract."
+2026-10-01T16:18:40Z,borges,1.1.0,"Carlos Selmo, Esteban Carisimo, Fabian E. Bustamante, J. Ignacio Alvarez-Hamelin",MIT,260395,"AS-to-Organization mapping: infer sibling Autonomous Systems from WHOIS, PeeringDB and web signals (IMC 2025)"
+2026-10-01T16:20:56Z,calendargen,0.1.0,,MIT,19607,Generate an iCalendar file from a TOML class schedule.
+2026-10-01T16:21:45Z,clonetrast,0.1.0,Ofir Shorer <ofirshorer@campus.technion.ac.il>,"MIT License Copyright (c) 2026, Ofir Shorer, Asaf Pinhasi, Ron Amit & Keren Yizhak. Permission is h…",5745195,Revealing pan-cancer clonal niches of T cells from single-cell RNA sequencing using contrastive learning.

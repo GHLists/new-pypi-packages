@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 55,
-    "from": "2026-10-01T14:19:13.424975Z",
-    "path": "data/new-packages-2026-10-01T15-18-38-691093Z.csv",
-    "to": "2026-10-01T15:18:38.691093Z"
+    "count": 43,
+    "from": "2026-10-01T15:18:38.691093Z",
+    "path": "data/new-packages-2026-10-01T16-22-19-429914Z.csv",
+    "to": "2026-10-01T16:22:19.429914Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-10-01T14:48:03Z",
-      "package": "odoo_addon_sale_fixed_triple_discount",
-      "since": "2026-10-01T14:19:13.424975Z"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-01T13:05:42Z",
       "package": "spatialetl-providers-common-interpcgal",
       "since": "2026-10-01T12:18:37.415133Z"
     }
   ],
-  "serial": 41690924,
+  "serial": 41693808,
   "source_truncated": false,
-  "window": "2026-10-01T15:18:38.691093Z"
+  "window": "2026-10-01T16:22:19.429914Z"
 }
