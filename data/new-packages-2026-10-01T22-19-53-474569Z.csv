@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T20:38:39Z,alphauzs,0.1.1,,,1372230,
+2026-10-01T21:19:31Z,corvus-json-schema,0.1.0,endjin,Apache-2.0,165657,"A high-performance JSON Schema evaluator (draft 4 to 2020-12) that compiles schemas to specialised Python, with results collection and annotations, ported from the Corvus.Text.Json V5 runtime evaluat…"
+2026-10-01T21:21:58Z,pharmapy-org,0.1.0,"Daniel Casas-Orozco <dcasasor@purdue.edu>, Zachary Hillman <zachary.hillman18@gmail.com>",BSD-3-Clause,630996,A Pythonic framework for the digital analysis of pharmaceutical manufacturing processes.
+2026-10-01T21:22:02Z,addon-host,0.1.0,,Apache-2.0,19049,In-memory OAuth and async MCP connections for explicit local hosts
+2026-10-01T21:22:44Z,corvus-json-schema-rs,0.1.0,endjin,Apache-2.0,11693368,"A high-performance JSON Schema evaluator (draft 4 to 2020-12) for Python, backed by the corvus-json-schema Rust crate, with results collection and annotations."
+2026-10-01T21:25:15Z,sayfirst-daemon,0.3.3,fredaime <frederic.aime@gmail.com>,Apache-2.0,12485,"Installs the open control plane's daemon; the name of its command, held by the project"
+2026-10-01T21:25:36Z,hcrprobeforge,1.3.7,Zain Alhashem,MIT,481957,"Installable HCR v3 split-initiator probe design, QC, curation, and reporting pipeline"
+2026-10-01T21:25:38Z,agent-skill-assay,0.1.0,AO,"MIT License Copyright (c) 2026 ARPA Hellenic Logical Systems Permission is hereby granted, free of…",343887,AO registry and runtime for modular agent skills.
+2026-10-01T21:25:43Z,anchor-gateway,0.3.2,Lauren Flipo,Apache-2.0,90712,"ANCHOR middleware: one-line governance for agent tools (allow/deny/ask, every verdict with a receipt)"
+2026-10-01T21:26:04Z,FHIRformer,0.2.1,Merlin Engelke,MIT,133436,A transformer-based model for FHIR data
+2026-10-01T21:26:08Z,code-gantry,0.0.1,Mack Earnhardt <mack@agilereasoning.com>,Apache-2.0,10466,Placeholder: drives a multistage code refactor by pairing an executor model with a paid reviewer model
+2026-10-01T21:28:29Z,vi-inspector,1.0.0,vi-inspector,MIT,6619247,Automated code review for LabVIEW VIs in CI — no LabVIEW license required
+2026-10-01T21:29:53Z,ruos,0.1.0,Cognitum <ruv@ruv.net>,MIT OR Apache-2.0,4955894,"Ultra-lite Python client for ruOS: desktops, ruOS Lite and the hosted MCP tools"
+2026-10-01T21:32:17Z,claudon,0.2.1,Infenia Private Limited,MIT,57716,Interactive session analytics & HTML dashboard for Claude Code
+2026-10-01T21:33:33Z,coderpad-cli,2026.10.1,Adam Dangoor <adamdangoor@gmail.com>,MIT,153808,Upload starter code to existing CoderPad questions.
+2026-10-01T21:34:11Z,pendify,0.1.1,,MIT,209498,Pairs this PC with a phone account by a QR on a loopback page and sends it two kinds of alerts.
+2026-10-01T21:34:59Z,nandi-identity,0.1.2,Shubham Bengani,Apache-2.0,300495,A production-oriented identity and access management foundation for Python applications.
+2026-10-01T21:35:42Z,ckanext-validation-schema-generator,2.0.2,"Carl Antuar <carl.antuar@smartservice.qld.gov.au>, ""William Dutton (duttonw)"" <william.dutton@qld.g…",AGPL,82472,Generate suggested validation schemas from the datastore
+2026-10-01T21:39:29Z,agenline,0.0.1,,,2251,"API-level agent access restriction layer. Placeholder package, official release coming soon."
+2026-10-01T21:41:02Z,pydico,0.1.1,Mac0501,MIT,52812,A typed dependency injection container for modern Python applications.
+2026-10-01T21:41:26Z,navimow-sdk-community,0.2.0a3,Navimow R&D Team <segwaynavimowapp@gmail.com>,GPL-3.0-only,206356,Python SDK for cloud mower platform integration with smart home systems.
+2026-10-01T21:45:55Z,spheropack,0.1.0,Frank Peters <e.a.j.f.peters@gmail.com>,MIT,1943278,"Random sphere packings with the event-driven Lubachevsky-Stillinger algorithm, and rejection-free Monte Carlo"
+2026-10-01T21:46:14Z,pyerviss,0.1.0,Nicolo Gozzi <nic.gozzi@gmail.com>,MIT,27626,Unofficial Python API for ERVISS (European Respiratory Virus Surveillance Summary) data
+2026-10-01T21:47:04Z,technical-answer-validator,0.1.1,,MIT,86288,MCP and REST tools for deterministic rubric-based technical answer review
+2026-10-01T21:49:13Z,accuratum,0.2.1,"Paulo Eduardo de Brito, Marco Aurélio A. Barbosa",MIT,736931,A python library and CLI for creating Accuratum sundial diagrams
+2026-10-01T21:49:34Z,hanzo-tools-devserver,0.1.0,Hanzo Industries Inc <dev@hanzo.ai>,MIT,22703,"Dev server tool for Hanzo AI: find running Next/Vite/Nuxt/Astro/SvelteKit/Remix servers, call their MCP tools, read their errors"
+2026-10-01T21:50:18Z,odouche,0.1.0,Avanserv,MIT,5338,"Unofficial Python client for Odoo.sh: projects, branches, builds and logs"
+2026-10-01T21:50:19Z,odouche-mcp,0.1.0,Avanserv,MIT,6841,An unofficial Model Context Protocol server for Odoo.sh
+2026-10-01T21:50:20Z,odouche-cli,0.1.0,Avanserv,MIT,7043,osh: an unofficial command-line interface for Odoo.sh
+2026-10-01T21:51:06Z,leakkill,0.3.0,Ayush <andymylove24@gmail.com>,MIT,51067,"Find leaked secrets, check if they're live, revoke them in one command, and keep them out of AI coding agents"
+2026-10-01T21:55:26Z,xpathify,0.1.0a1,Ronie Martinez <ronmarti18@gmail.com>,MIT OR Apache-2.0,713234,"Python bindings for xpathify, a CSS selector to XPath converter written in Rust."
+2026-10-01T21:57:07Z,chre,0.1.3,Saif <saif@example.com>,,333501,CHRE: Causal Hypergraph Rewrite Engine
+2026-10-01T21:58:20Z,ipyd3geo,0.1.0,Benjamin Szeghy <benjamin.szeghy@berkeley.edu>,BSD-3-Clause,14668,An interactive map widget for Jupyter that uses D3 Geo as its renderer.
+2026-10-01T22:02:34Z,algeria-otp,0.2.0,Algeria OTP,MIT,10267,Official Algeria OTP SDK for Python
+2026-10-01T22:06:40Z,chronozarr,0.2.0,James H. Gearon,Apache-2.0,302391,Zarr v3 convention and reader for raster time series with optional star-delta temporal encoding
+2026-10-01T22:06:51Z,agento11y-deepeval,0.18.0,,SPDX-License-Identifier: Apache-2.0 See /LICENSE at repository root for full license text.,30799,DeepEval experiment publishing for the Grafana Agent Observability Python SDK
+2026-10-01T22:07:01Z,sayfirst,0.3.3,fredaime <frederic.aime@gmail.com>,Apache-2.0,14685,"The sayfirst control plane, its daemon and its command, installed whole"
+2026-10-01T22:08:04Z,forjio-depllo,0.3.0,Forjio <support@forjio.com>,Proprietary,22808,Depllo SDK — Python client for the Depllo CI/CD REST API. Sister to @forjio/depllo (JS).
+2026-10-01T22:08:06Z,jrpycpp,0.1.0,Jumping Rivers,,57639,Jumping Rivers: C++ and Python
+2026-10-01T22:08:16Z,forjio-plugipay,0.6.0,Forjio <hello@plugipay.com>,MIT,77908,"Official Python SDK for Plugipay — HMAC-signed REST client with full resource coverage (customers, plans, checkout sessions, invoices, subscriptions, refunds, adapters, payouts, ledger, reports, webh…"
+2026-10-01T22:08:34Z,pyrig-opensource,0.1.0,Winipedia,MIT,12912,A pyrig plugin that combines other pyrig plugins for open-source projects.
+2026-10-01T22:13:39Z,agent-cve-scanners,0.5.1,Erlend Christoffer Hagen Hårsaker,AGPL-3.0-only,249571,"Offline scanners for the code patterns behind 53 CVEs in 9 AI-agent frameworks, plus MCP tool pinning. No dependencies, no telemetry."
+2026-10-01T22:18:02Z,yug,0.1.0,Birla AI Labs,Apache-2.0,106721,Yug — a foundation model for zero-shot probabilistic time-series forecasting
+2026-10-01T22:18:20Z,hackerrank-cli,2026.10.1.1,Adam Dangoor <adamdangoor@gmail.com>,MIT,170033,Upload starter files to existing HackerRank project questions.
