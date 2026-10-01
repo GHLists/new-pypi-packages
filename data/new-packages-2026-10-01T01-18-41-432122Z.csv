@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T00:25:05Z,geomend,0.0.1,,"MIT License Copyright (c) 2026 Preston Raab Permission is hereby granted, free of charge, to any pe…",2051096,"Combine GEO metadata tables, review suggested variable mappings, and export data with source and review history"
+2026-10-01T00:25:59Z,nxtlinq-mcp-proxy,0.1.0,,,141334,Configure and deploy an isolated HTTP MCP behind nxtlinq authorization
+2026-10-01T00:29:03Z,pysplinecalib,0.0.1,Mathias Roesler <mathias.roesler@auckland.ac.nz>,MIT,33525,Fork of the splinecalib package by Brian Lucena
+2026-10-01T00:31:46Z,modebench,0.4.0,,Apache-2.0 AND CC-BY-4.0 AND CC0-1.0,670814,Execution-bound correctness and solution mode diversity benchmark
+2026-10-01T00:32:51Z,textmove,0.1.1,Angelo Guilherme Furtado Silva,,3996,Biblioteca para movimentar texto pelo terminal
+2026-10-01T00:33:03Z,remax-rl,0.1.1,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",16660753,Re:Max and Re:Dr verified replay for reinforcement learning with verifiable rewards
+2026-10-01T00:35:06Z,hbot,0.1.0,,,124917,Add your description here
+2026-10-01T00:35:42Z,cufsm-rs-py,0.1.0,Matthew Campbell <mcampbell@mageaustralia.com.au>,MIT,3458177,"CUFSM finite strip buckling analysis of thin-walled sections in Python, on cufsm-rs, the Rust port that also runs CUFSM in the browser."
+2026-10-01T00:36:58Z,monoopen,0.2.0,vlad,MIT,12871,"HTTP-клиент на голых сокетах, без сторонних зависимостей"
+2026-10-01T00:38:40Z,hexastack-qual,0.7.0,Richard West,Apache-2.0,59689,"Hexagonal quality, governance, and release adapter integrating hexaqual with CQRS, MCP, UI, and Events"
+2026-10-01T00:40:18Z,hse-ml,0.1.0,Peter Lung <peterlungdatascience@gmail.com>,Apache-2.0,69017,Hypercuboid Subspace Estimator for non-linear feature engineering and selection.
+2026-10-01T00:53:36Z,itself,0.2.0,Greater Expanse LLC,MPL-2.0,576800,Assurance SDK for AI agents with external checks and replayable decisions
+2026-10-01T00:55:12Z,PyScene,1.0.0,Sam Fertig <sfertig007@gmail.com>,MIT,23933,A small example package
+2026-10-01T00:55:23Z,cdmd,0.0.2,,Apache-2.0,11279,Alias for cdmduck (OMOP CDM / OHDSI ATLAS-compatible tools on DuckDB). Use 'pip install cdmduck'.
+2026-10-01T00:55:26Z,duckcdm,0.0.2,,Apache-2.0,11364,Alias for cdmduck (OMOP CDM / OHDSI ATLAS-compatible tools on DuckDB). Use 'pip install cdmduck'.
+2026-10-01T00:56:35Z,yatzy-solver,1.0.0,,MIT,9693367,"Exact solver, rules engine and data export for Scandinavian Yatzy and American rules (Yahtzee-compatible)"
+2026-10-01T00:57:05Z,jmcomic-calibre,0.2.0,yifenliwu,MIT,26404,JMComic → Calibre 一键入库：下载、转 PDF/CBZ、写元数据、导入书库
+2026-10-01T00:58:26Z,trading-desk,0.3.0,,MIT,485498,"A trading book in the terminal: SQLite, a Textual TUI, and a checker that will not let the record contradict itself"
+2026-10-01T01:01:10Z,refereekit,0.0.1,Tzu-Chi Yen,MIT,5244,"A command-line toolkit for refereeing a paper: it verifies every page and equation a review cites against the submitted PDF, and drafts the report and editor letter in your voice. Placeholder; not ye…"
+2026-10-01T01:01:41Z,seismic-agent,0.0.1,Weiqiang Zhu <zhuwq@berkeley.edu>,MIT,1943,AI agents for seismology (placeholder; under development).
+2026-10-01T01:02:19Z,volttron-forward-historian,2.0.0rc0,VOLTTRON Team,Apache-2.0,34012,VOLTTRON historian agent that forwards data to another VOLTTRON instance.
+2026-10-01T01:03:54Z,abstract-securefiles,0.1.1,putkoff <partners@abstractendeavors.com>,MIT,42179,"Secure Files: share local files and folders through abstractendeavors.com (or your own server) without uploading them. Includes the desktop agent, the shared tar/resume core and the server relay."
+2026-10-01T01:07:13Z,tom-transients-fyi,0.1.0,Justin Greene <justin.greene5@gmail.com>,GPL-3.0-only,52993,"A TOM Toolkit data service for transients.fyi: a view's objects and their light curves, with limits, as targets"
+2026-10-01T01:08:09Z,presto-pay-sdk,0.1.0,Presto Connect Developer <developer@prestoconnect.io>,Apache-2.0,134110,Official Python SDK for the Presto Pay payment gateway
+2026-10-01T01:08:13Z,sigrid,0.0.0,IRI <forecast-ccsr-help@ccsr.columbia.edu>,,1132,PLACEHOLDER: This package is in development.
+2026-10-01T01:08:40Z,braxis,1.0.0,Jayakrishna Ichapurapu,MIT,8713,Auto-generate context files for AI agents
+2026-10-01T01:09:13Z,wack-a-wombat,1.0.0,,MIT,108389,"A terminal whack-a-mole starring wombats. WASD to move, SPACE to whack."
+2026-10-01T01:13:31Z,hurnet-sdk,0.0.0,SAPIENS_TECHNOLOGY,Proprietary Software,6034,
+2026-10-01T01:15:43Z,romania-mcp-server,0.1.0,Robert Vind-Gardoș,MIT,61716,"MCP server for Romanian public data: ANAF company status, financial statements, court cases, BNR exchange rates, online shop checks"
+2026-10-01T01:16:09Z,agent-rt-cli,0.0.0,Praneeth Vadlapati,MIT,2756,Hello world package for Agent RT.
+2026-10-01T01:16:36Z,cdmduck,0.0.1,Hyung-Chul Lee <lucid80@gmail.com>,Apache-2.0,81679,"OMOP CDM / OHDSI ATLAS-compatible tools on DuckDB: SqlRender, Circe and a WebAPI-compatible server in pure Python"
+2026-10-01T01:16:37Z,agent-rt-api,0.0.0,Praneeth Vadlapati,MIT,2750,Hello world package for Agent RT.
+2026-10-01T01:18:17Z,hotiq,1.0.0,Abhinav B Prasad,,3864,Simple data preprocessing code helper for Python

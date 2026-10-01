@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-09-30T23:18:41.510405Z",
-    "path": "data/new-packages-2026-10-01T00-18-42-656384Z.csv",
-    "to": "2026-10-01T00:18:42.656384Z"
+    "count": 33,
+    "from": "2026-10-01T00:18:42.656384Z",
+    "path": "data/new-packages-2026-10-01T01-18-41-432122Z.csv",
+    "to": "2026-10-01T01:18:41.432122Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-09-30T21:21:40Z",
       "package": "voss-prime-gaps",
       "since": "2026-09-30T21:20:15.377491Z"
     }
   ],
-  "serial": 41663696,
+  "serial": 41665017,
   "source_truncated": false,
-  "window": "2026-10-01T00:18:42.656384Z"
+  "window": "2026-10-01T01:18:41.432122Z"
 }
