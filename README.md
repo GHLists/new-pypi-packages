@@ -8,43 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 02:18 UTC
+## Latest list — 2026-10-01 03:20 UTC
 
-New packages created between 2026-10-01 01:18 UTC and 2026-10-01 02:18 UTC.
+New packages created between 2026-10-01 02:18 UTC and 2026-10-01 03:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-01T02-18-38-198556Z.csv)
+[Full CSV](data/new-packages-2026-10-01T03-20-25-552655Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-01 01:20:34 | [hdfe-stream](https://pypi.org/project/hdfe-stream/) | 0.1.0 | Lee Tucker | 513.7 kB | Out-of-core regression with several high-dimensional fixed effects: OLS, Poisso… |
-| 2026-10-01 01:24:13 | [grainlift-adbc-gateway](https://pypi.org/project/grainlift-adbc-gateway/) | 0.4.0 | Query Farm LLC | 49.2 MB | Grainlift ADBC gateway: serve SQLite and other ADBC databases to remote ADBC cl… |
-| 2026-10-01 01:24:54 | [shulchan-aruch](https://pypi.org/project/shulchan-aruch/) | 0.1.2 | Shelleyguitar | 28.0 kB | Experimental owner-gated codex. OpenRouter drafts an entry; only the owner key… |
-| 2026-10-01 01:27:04 | [ai-agent-ledger-py](https://pypi.org/project/ai-agent-ledger-py/) | 0.2.1 | agent-ledger contributors | 350.1 kB | An append-only, signed ledger for AI agent delegations. ARD finds agents, A2A t… |
-| 2026-10-01 01:27:25 | [tai-sdk](https://pypi.org/project/tai-sdk/) | 0.1.0 |  | 89.9 kB | Official Python SDK for the TAI Assistant API |
-| 2026-10-01 01:29:04 | [volttron-energyplus](https://pypi.org/project/volttron-energyplus/) | 2.0.0rc0 | VOLTTRON Team | 895.5 kB | Agent for running EnergyPlus simulations and publishing results to the Volttron… |
-| 2026-10-01 01:29:48 | [snodo-provider-github](https://pypi.org/project/snodo-provider-github/) | 0.18.0 |  | 6.9 kB | GitHub code-host provider plugin for Snodo |
-| 2026-10-01 01:29:58 | [mowave-loci](https://pypi.org/project/mowave-loci/) | 0.1.0 | MOWAVE TECNOLOGIA LTDA <eaemo… | 57.4 kB | Typed long-term memory for AI agents — one core, an MCP server and a Hermes plu… |
-| 2026-10-01 01:32:42 | [shulchan](https://pypi.org/project/shulchan/) | 0.1.2 | Shelleyguitar | 5.4 kB | Experimental registered name for the Eloq codex שולקאן-ארוק. The project is shu… |
-| 2026-10-01 01:33:58 | [snodo-provider-gitlab](https://pypi.org/project/snodo-provider-gitlab/) | 0.18.0 |  | 7.3 kB | GitLab code-host provider plugin for Snodo |
-| 2026-10-01 01:35:59 | [entitler](https://pypi.org/project/entitler/) | 0.0.1 | 1843 Inc. | 3.6 kB | Official Entitler SDK for Python (not yet available) |
-| 2026-10-01 01:36:12 | [gh-upstream-watch](https://pypi.org/project/gh-upstream-watch/) | 0.1.1 | Colin McNamara | 71.9 kB | Read-only alerts for your upstream work: tells you the next action when a maint… |
-| 2026-10-01 01:36:24 | [ghl-pro-mcp](https://pypi.org/project/ghl-pro-mcp/) | 0.1.1 |  | 335.9 kB | Servidor MCP local para operar GoHighLevel desde cualquier cliente de IA: workf… |
-| 2026-10-01 01:39:16 | [syntrends](https://pypi.org/project/syntrends/) | 0.1.0 | SynTrends | 99.8 kB | Python SDK for the SynTrends Agent API (STP/1.0 over HTTP + SSE) |
-| 2026-10-01 01:45:09 | [GNNPCSAFTPropertyPackage](https://pypi.org/project/GNNPCSAFTPropertyPackage/) | 0.2.0 | wildsonbbl | 128.3 kB | GNNPCSAFT CAPE-OPEN Property Package |
-| 2026-10-01 01:45:29 | [hotiq1](https://pypi.org/project/hotiq1/) | 1.0.0 | Abhinav B Prasad | 9.4 kB | Simple data preprocessing code helper for Python |
-| 2026-10-01 01:52:26 | [coospo-cli](https://pypi.org/project/coospo-cli/) | 0.1.0 |  | 48.7 kB | Command-line tool for COOSPO CS500/CS600 bike computers: device info, battery,… |
-| 2026-10-01 01:54:10 | [forkrun](https://pypi.org/project/forkrun/) | 0.16.0 | forkrun contributors | 719.6 kB | NUMA-aware contention-free streaming parallelization for Python |
-| 2026-10-01 01:54:31 | [hex-server](https://pypi.org/project/hex-server/) | 0.1.0 |  | 674.3 kB | Add your description here |
-| 2026-10-01 01:55:09 | [docxmdtpl](https://pypi.org/project/docxmdtpl/) | 0.1.0 | caiocfcs | 59.0 kB | Convert Markdown to .docx using a .docx template with docxtpl |
-| 2026-10-01 01:56:04 | [nenrin-verify](https://pypi.org/project/nenrin-verify/) | 0.1.0 | The HORIZONs Co., Ltd. | 155.8 kB | Recompute NENRIN evidence yourself, offline: A2A task provenance and two-party… |
-| 2026-10-01 01:57:38 | [jaketts](https://pypi.org/project/jaketts/) | 1.0.1 | Jake | 15.2 kB | Jake's Local CLI Text-to-Speech tool powered by Kokoro-82M |
-| 2026-10-01 02:01:36 | [pyhydros2](https://pypi.org/project/pyhydros2/) | 2.0.0 | PyHydros2 Contributors | 65.1 kB | Async Python client for the official HYDROS Public API (CoralVue) |
-| 2026-10-01 02:02:44 | [DJV-viewer](https://pypi.org/project/DJV-viewer/) | 3.7.0 | Contributors to the DJV proje… | 56.1 MB | An open source application for media playback and review, for film, VFX, and an… |
-| 2026-10-01 02:07:40 | [envarpay](https://pypi.org/project/envarpay/) | 0.1.0a6 | EnvarAI contributors | 276.2 kB | Get your agents paid. MCP and x402 payment SDK and CLI for agents. |
-| 2026-10-01 02:09:18 | [md2textbook](https://pypi.org/project/md2textbook/) | 0.1.0 | Mike Degany | 1.1 MB | Convert Markdown into a coursebook-style PDF with colored boxes, equations and… |
-| 2026-10-01 02:09:34 | [fontpkg-dm-mono](https://pypi.org/project/fontpkg-dm-mono/) | 1.0 |  | 171.8 kB | DM Mono font family, packaged for Python by fontpkg |
-| 2026-10-01 02:09:36 | [fontpkg-pt-sans-narrow](https://pypi.org/project/fontpkg-pt-sans-narrow/) | 2.3 |  | 459.5 kB | PT Sans Narrow font family, packaged for Python by fontpkg |
-| 2026-10-01 02:09:39 | [fontpkg-zilla-slab](https://pypi.org/project/fontpkg-zilla-slab/) | 1.2 |  | 1.1 MB | Zilla Slab font family, packaged for Python by fontpkg |
-| 2026-10-01 02:09:41 | [fontpkg-play](https://pypi.org/project/fontpkg-play/) | 2.101 |  | 179.3 kB | Play font family, packaged for Python by fontpkg |
-| 2026-10-01 02:11:57 | [robotframework-request-reporter](https://pypi.org/project/robotframework-request-reporter/) | 0.3.0 | Angel Molina | 33.4 kB | Standalone HTML API evidence reports for each Robot Framework test case. |
-| 2026-10-01 02:13:30 | [knurlogic](https://pypi.org/project/knurlogic/) | 0.1.0 | Noah Zelezny | 1.5 MB | Serve local language models on Apple Silicon, for people and agents. |
+| 2026-10-01 02:06:35 | [data-privacy](https://pypi.org/project/data-privacy/) | 0.1.1 |  | 16.0 kB | Functions supporting data privacy for datasets |
+| 2026-10-01 02:18:36 | [based-models-agentloop](https://pypi.org/project/based-models-agentloop/) | 0.4.0 |  | 108.6 kB | A provider-agnostic agent loop: transcript, provider seam, tool machinery, retr… |
+| 2026-10-01 02:18:43 | [tensorcodec](https://pypi.org/project/tensorcodec/) | 0.1.0 | Suhwan Choi <milkclouds00@gma… | 11.1 MB | NumPy audio/video decoding with TorchCodec-compatible playback semantics |
+| 2026-10-01 02:20:50 | [cartage](https://pypi.org/project/cartage/) | 0.1.2 |  | 5.0 MB | Declarative data migrations: YAML pipelines, Python transforms, any engine, any… |
+| 2026-10-01 02:23:01 | [ecsodus](https://pypi.org/project/ecsodus/) | 0.1.2 | Vamshidher Reddy Jannapu Reddy | 226.4 kB | Safely migrate AWS Copilot CLI apps to Terraform-managed ECS (adopt in place, r… |
+| 2026-10-01 02:24:22 | [track2corridor-geo](https://pypi.org/project/track2corridor-geo/) | 0.1.1 | Alena Nikitina | 33.3 kB | Build an auditable centerline and corridor from ground mobile-mapping trajector… |
+| 2026-10-01 02:24:27 | [based-models-agentloop-tools](https://pypi.org/project/based-models-agentloop-tools/) | 0.1.0 |  | 27.6 kB | Tools for agentloop agents: native web search now; client search and coding too… |
+| 2026-10-01 02:26:19 | [arch-upload](https://pypi.org/project/arch-upload/) | 0.1.0 |  | 13.0 kB | Small resumable file uploader driven by a temporary upload session |
+| 2026-10-01 02:27:26 | [auto-3dx](https://pypi.org/project/auto-3dx/) | 1.0.0 |  | 467.0 kB | Python library for driving the 3DEXPERIENCE CATIA Automation object model over… |
+| 2026-10-01 02:27:36 | [ChatXHS](https://pypi.org/project/ChatXHS/) | 0.0.2 | ChatArch <rex@chatarch.org> | 9.2 kB | A ChatArch Python toolkit for Xiaohongshu management. |
+| 2026-10-01 02:32:46 | [agentcompile](https://pypi.org/project/agentcompile/) | 0.2.0 | AgentCompile <founders@tryage… | 35.8 kB | Wrap your agent's model client: repeated jobs run compiled, everything else goe… |
+| 2026-10-01 02:37:29 | [movie-tui](https://pypi.org/project/movie-tui/) | 0.1.3 | Movie TUI Contributors | 42.6 kB | Authenticated movie archive search and download TUI |
+| 2026-10-01 02:49:43 | [pmx-cli](https://pypi.org/project/pmx-cli/) | 0.2.0 | tteschon | 78.8 kB | Process discovery from event logs, built on pm4py. |
+| 2026-10-01 02:51:46 | [RSOSTB](https://pypi.org/project/RSOSTB/) | 1.0.0 | RSOSTBTEST-pro contributors | 871.8 kB | RSOSTBTEST-pro — Rayofire's Basic Orbital Strike Cannon Test (large): an open,… |
+| 2026-10-01 02:55:37 | [j-input](https://pypi.org/project/j-input/) | 0.1.0 | JYAARU | 416.2 kB | Windows global input for Python: low-level mouse and keyboard hooks decided on… |
+| 2026-10-01 02:57:19 | [yhub](https://pypi.org/project/yhub/) | 0.0.1 | Yifeitao | 8.3 kB | Name reservation for yhub — an always-on local hub for your own machines and se… |
+| 2026-10-01 03:04:20 | [neuralosd](https://pypi.org/project/neuralosd/) | 1.0.0 | Hyperspace Technologies <agen… | 60.7 kB | Deterministic-first agentic runtime — @probe framework, chain runner, meta-sele… |
+| 2026-10-01 03:06:07 | [elm327obd](https://pypi.org/project/elm327obd/) | 0.1.1 | Jeff Caldwell | 231.1 kB | OBD2 car diagnostics in your terminal for ELM327 WiFi adapters: live data, trou… |
+| 2026-10-01 03:08:36 | [vp6](https://pypi.org/project/vp6/) | 0.4.3 | FrackieTV | 1.4 MB | VB6-style IDE and GUI framework for Python |
+| 2026-10-01 03:09:04 | [tabtk](https://pypi.org/project/tabtk/) | 1.0.0 | Chrispin Chaguza <chrispin.ch… | 26.8 kB | tabtk: A toolkit for sequence similarity analysis based on tabular data |
+| 2026-10-01 03:10:11 | [publicdata-au](https://pypi.org/project/publicdata-au/) | 0.1.0 | National Digital | 17.5 kB | Query and download Australian government open data from publicdata.au. |
+| 2026-10-01 03:15:23 | [altar](https://pypi.org/project/altar/) | 0.1.0 | Riya Sinha | 4.1 MB | Public contracts, orchestration primitives, and conformance suites for genomic… |
+| 2026-10-01 03:16:10 | [altar-identity](https://pypi.org/project/altar-identity/) | 0.1.0 | Riya Sinha | 33.3 kB | Dependency-free variant and content identity shared by Altar and its model runt… |
+| 2026-10-01 03:16:14 | [altar-alphamissense](https://pypi.org/project/altar-alphamissense/) | 0.1.0 | Riya Sinha | 19.9 kB | AlphaMissense annotation-source binding for Altar |
+| 2026-10-01 03:16:16 | [altar-cherimoya](https://pypi.org/project/altar-cherimoya/) | 0.1.0 | Riya Sinha | 27.2 kB | Cherimoya model binding for Altar |
+| 2026-10-01 03:18:39 | [B.I.N.U](https://pypi.org/project/B.I.N.U/) | 1.0.0 | Binei | 1.9 kB | B.I.N.U - Speech to Text AI Assistant |
+| 2026-10-01 03:19:44 | [lebre](https://pypi.org/project/lebre/) | 0.1.0 | Silvano Lima | 7.9 MB | Online one-step-ahead forecasting with statistically tested structural changes,… |

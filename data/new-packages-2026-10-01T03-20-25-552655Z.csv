@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T02:06:35Z,data-privacy,0.1.1,,,15967,Functions supporting data privacy for datasets
+2026-10-01T02:18:36Z,based-models-agentloop,0.4.0,,Apache-2.0,108625,"A provider-agnostic agent loop: transcript, provider seam, tool machinery, retry, tracing."
+2026-10-01T02:18:43Z,tensorcodec,0.1.0,Suhwan Choi <milkclouds00@gmail.com>,MIT,11076979,NumPy audio/video decoding with TorchCodec-compatible playback semantics
+2026-10-01T02:20:50Z,cartage,0.1.2,,Apache-2.0,5006449,"Declarative data migrations: YAML pipelines, Python transforms, any engine, any orchestrator."
+2026-10-01T02:23:01Z,ecsodus,0.1.2,Vamshidher Reddy Jannapu Reddy,Apache-2.0,226448,"Safely migrate AWS Copilot CLI apps to Terraform-managed ECS (adopt in place, retain-patched teardown)"
+2026-10-01T02:24:22Z,track2corridor-geo,0.1.1,Alena Nikitina,Apache-2.0,33335,Build an auditable centerline and corridor from ground mobile-mapping trajectory points
+2026-10-01T02:24:27Z,based-models-agentloop-tools,0.1.0,,Apache-2.0,27599,Tools for agentloop agents: native web search now; client search and coding tools next.
+2026-10-01T02:26:19Z,arch-upload,0.1.0,,LicenseRef-Proprietary,13022,Small resumable file uploader driven by a temporary upload session
+2026-10-01T02:27:26Z,auto-3dx,1.0.0,,Apache-2.0,466972,Python library for driving the 3DEXPERIENCE CATIA Automation object model over Windows COM.
+2026-10-01T02:27:36Z,ChatXHS,0.0.2,ChatArch <rex@chatarch.org>,MIT,9189,A ChatArch Python toolkit for Xiaohongshu management.
+2026-10-01T02:32:46Z,agentcompile,0.2.0,AgentCompile <founders@tryagentcompile.com>,Apache-2.0,35835,"Wrap your agent's model client: repeated jobs run compiled, everything else goes to your model unchanged."
+2026-10-01T02:37:29Z,movie-tui,0.1.3,Movie TUI Contributors,MIT,42573,Authenticated movie archive search and download TUI
+2026-10-01T02:49:43Z,pmx-cli,0.2.0,tteschon,AGPL-3.0-or-later,78815,"Process discovery from event logs, built on pm4py."
+2026-10-01T02:51:46Z,RSOSTB,1.0.0,RSOSTBTEST-pro contributors,Apache-2.0,871765,"RSOSTBTEST-pro — Rayofire's Basic Orbital Strike Cannon Test (large): an open, weighted, reproducible benchmark for AI/LLM systems."
+2026-10-01T02:55:37Z,j-input,0.1.0,JYAARU,MIT,416174,"Windows global input for Python: low-level mouse and keyboard hooks decided on a native thread, never waiting for the GIL"
+2026-10-01T02:57:19Z,yhub,0.0.1,Yifeitao,MIT,8290,Name reservation for yhub — an always-on local hub for your own machines and services.
+2026-10-01T03:04:20Z,neuralosd,1.0.0,Hyperspace Technologies <agent@superagent.ng>,MIT,60664,"Deterministic-first agentic runtime — @probe framework, chain runner, meta-selector, HITL guardrails, MCP/OpenAPI exposure, and microVM sandbox backends (BoxLite / Microsandbox)"
+2026-10-01T03:06:07Z,elm327obd,0.1.1,Jeff Caldwell,GPL-2.0-or-later,231059,"OBD2 car diagnostics in your terminal for ELM327 WiFi adapters: live data, trouble codes, readiness, Mode 22"
+2026-10-01T03:08:36Z,vp6,0.4.3,FrackieTV,MIT,1407990,VB6-style IDE and GUI framework for Python
+2026-10-01T03:09:04Z,tabtk,1.0.0,Chrispin Chaguza <chrispin.chaguza@gmail.com>,MIT,26809,tabtk: A toolkit for sequence similarity analysis based on tabular data
+2026-10-01T03:10:11Z,publicdata-au,0.1.0,National Digital,MIT,17508,Query and download Australian government open data from publicdata.au.
+2026-10-01T03:15:23Z,altar,0.1.0,Riya Sinha,MIT,4077304,"Public contracts, orchestration primitives, and conformance suites for genomic variant analysis"
+2026-10-01T03:16:10Z,altar-identity,0.1.0,Riya Sinha,MIT,33284,Dependency-free variant and content identity shared by Altar and its model runtimes
+2026-10-01T03:16:14Z,altar-alphamissense,0.1.0,Riya Sinha,MIT,19892,AlphaMissense annotation-source binding for Altar
+2026-10-01T03:16:16Z,altar-cherimoya,0.1.0,Riya Sinha,MIT,27228,Cherimoya model binding for Altar
+2026-10-01T03:18:39Z,B.I.N.U,1.0.0,Binei,,1896,B.I.N.U - Speech to Text AI Assistant
+2026-10-01T03:19:44Z,lebre,0.1.0,Silvano Lima,Apache-2.0,7890157,"Online one-step-ahead forecasting with statistically tested structural changes, at a cost of a few hundred operations per step (implements LEBRE v0.52-r1)."
