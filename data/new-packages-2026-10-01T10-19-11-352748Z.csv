@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T09:14:03Z,ohho-os,1.1.2,OhhO,Apache-2.0,164234,"OhhO OS — the open-source, robot-agnostic engine for any robot, with or without ROS."
+2026-10-01T09:19:28Z,nexilume,0.47.0,Nexus OpenWrt Team,LicenseRef-Nexus-Community-1.0,567752,Python Agent SDK for Nexus OpenWrt and hosted MCP runtimes
+2026-10-01T09:19:29Z,cokgine,0.1.2,Kridho Cokro,LicenseRef-Proprietary,78343,Standalone Ollama-like LLM engine on Apple Silicon (MLX) with built-in genetic AI
+2026-10-01T09:20:24Z,hala-arab,0.1.1,HALA Community,MIT,30960,HALA - Hunting Arab Leaks & Assets | أول إطار عربي مفتوح المصدر لاستخبارات التهديدات
+2026-10-01T09:21:10Z,hoff,0.0.1,Brenner Cruvinel,MIT,3801,"Hoff Research namespace. Placeholder package, the real thing lands here later."
+2026-10-01T09:21:13Z,hoffresearch,0.0.1,Brenner Cruvinel,MIT,3926,"Hoff Research namespace. Placeholder package, the real thing lands here later."
+2026-10-01T09:25:24Z,spatialetl,0.2.0,Fabien RÉTIF <fabien.retif@snale.net>,MIT,832129,"Extract - Transform - Load (ETL) of geospatial data, that is, digital geospatial information representing space and time-varying phenomena. This python package deals with multi-dimensional gridded da…"
+2026-10-01T09:27:18Z,mcp-integrity,0.1.0,Samir Sawarkar,MIT,59475,A local integrity monitor for stdio MCP servers
+2026-10-01T09:29:18Z,pteropilot,0.2.0,,,79947,MCP server that lets AI agents manage game servers on Pterodactyl / Pelican panels
+2026-10-01T09:29:30Z,tixyo,0.1.0,,,35383,"Confidence-gated, model-assisted issue triage for engineering teams"
+2026-10-01T09:29:55Z,windytranslate,0.1.0,Windstorm Labs <hello@windytranslate.com>,Apache-2.0,21169,"Find, license-check and run Windstorm Labs' open translation and speech models (windytranslate.com)."
+2026-10-01T09:31:29Z,simbricks-imagebuild-guestfs,0.6.0,Team SimBricks,,12719,Offline SimBricks disk image builds with libguestfs
+2026-10-01T09:33:32Z,symmetrix-xl-cuda12-sm90,0.1.1,,,18082526,Symmetrix native backend for cuda12-sm90
+2026-10-01T09:33:37Z,symmetrix-xl-cuda12-sm100,0.1.1,,,19384331,Symmetrix native backend for cuda12-sm100
+2026-10-01T09:35:31Z,misscat,1.0.0,KJ Kim,MIT,35928,Watch a GitHub repository and run an AI review on every new PR HEAD
+2026-10-01T09:35:33Z,agentglow,0.1.0,,MIT,1423628,"Live 3D views of agent systems, driven only by OpenTelemetry spans"
+2026-10-01T09:36:19Z,logguard-cli,0.1.0,Apurva Raj,MIT,26851,"A 100% local, offline CLI tool that scans log files and masks sensitive data (emails, phone numbers, API keys, IPs, credit cards) before you share them."
+2026-10-01T09:36:43Z,auditor-executor-protocol,0.4.0,tBeltty <jhonatan@tbelt.online>,MIT,128302,"Mechanical support for the Auditor/Executor protocol: scaffold, lint, and negative-control the document set for a multi-phase, multi-agent execution."
+2026-10-01T09:37:31Z,jevbench,0.0.1,Chao Feng <c.feng@qub.ac.uk>,Apache-2.0,11185,Coherence and stability tests (not accuracy or speed) for Jev-compatible typed decision models (first release in preparation)
+2026-10-01T09:37:55Z,shipstate,0.1.1,Vladyslav Rudenko,MIT,69497,Keep release state consistent before you ship.
+2026-10-01T09:38:10Z,edittextinimage,0.1.0,leony <leony2919@gmail.com>,MIT,5817,"Reference package for EditTextInImage — freemium online tool to replace text in images while keeping font, color, and background."
+2026-10-01T09:39:51Z,simple-module-inertia,0.0.35,Anto Subash <antosubash@live.com>,MIT,37628,Inertia.js v3 server adapter for FastAPI — the protocol half of simple_module's React frontend
+2026-10-01T09:40:34Z,megh,0.0.1,,,6958,MeghCloud metrics tracking SDK for ML training runs
+2026-10-01T09:40:43Z,sambat,0.1.0,Rojan Acharya <rojanacharya404@gmail.com>,Apache-2.0,152755,Exact Bikram Sambat (Nepali calendar) dates with the full datetime API
+2026-10-01T09:42:43Z,simple-module-tenants,0.0.35,Anto Subash <antosubash@live.com>,MIT,89228,"Organisations, memberships and tenant resolution for simple_module SaaS installs"
+2026-10-01T09:43:38Z,teambath,0.2.0,Gabriel Werneck,MIT,69994,Use Team Bath's sports booking site (bookings.teambath.com) from Python.
+2026-10-01T09:43:59Z,omphalos,1.1.1,snui1s,MIT,32068,Codebase symbol index for LLMs
+2026-10-01T09:45:28Z,aforo-mcp-metering,1.0.0,,Apache-2.0,18935,Aforo MCP Server Metering SDK — automatic billing for MCP tool handlers
+2026-10-01T09:50:05Z,pymoodlekit,0.1.0,Gabriel Werneck,MIT,124261,"Use Moodle programmatically with your existing browser login. Works with SSO, no API token needed."
+2026-10-01T09:52:31Z,aforo-mqtt-metering,1.0.0,"Aforo, Inc.",Apache-2.0,27717,Aforo MQTT Metering SDK — paho-mqtt and aiomqtt client wrappers that meter PUBLISH/SUBSCRIBE/CONNECT/DISCONNECT events.
+2026-10-01T09:55:42Z,aforo-ws-metering,1.0.0,"Aforo, Inc.",Apache-2.0,28327,"Aforo WebSocket Metering SDK — wrappers for the `websockets` library + FastAPI/Starlette WebSocket routes that meter frames, bytes and connection duration."
+2026-10-01T09:57:14Z,nmp-notes,0.1.0,kc9ru <kc9ru@protonmail.com>,MIT,22082,A CLI tool and Python library for generating prefilled practical lab files from templates.
+2026-10-01T09:57:25Z,graph-me,0.1.0,Mathieu Salliot,MIT,568534,"A local knowledge graph of your personal data (files, mail, WhatsApp) for AI agents"
+2026-10-01T09:57:25Z,phone-mirror,0.1.0,Dragonir <dragonir44@gmail.com>,MIT,57616,"Mirror an Android phone or use its camera as a webcam, over Wi-Fi or USB — a small Qt front-end for scrcpy"
+2026-10-01T09:59:16Z,hawkgram,1.0.3,Lone Hawk,LGPL-3.0-or-later,6311194,"Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots"
+2026-10-01T09:59:16Z,korean-tax-mcp,0.1.0,,MIT,62144,한국 세법 근거 MCP — 국세청 질의회신·판례·기본통칙·집행기준·시점별 조문(3단)
+2026-10-01T10:02:21Z,persistent-browser-bridge,0.1.0,Persistent Browser Bridge contributors,MIT,51130,Give AI coding agents a real persistent browser.
+2026-10-01T10:05:54Z,kramank,0.1.0,Karndev Jhala,MIT,28007,"Zero-dependency validators for Indian GSTIN, PAN, IFSC, and pincode formats — checksum-verified, type-hinted."
+2026-10-01T10:08:33Z,brenner,0.0.1,Brenner Cruvinel,MIT,4495,"Brenner Cruvinel namespace. Placeholder package, the real thing lands here later."
+2026-10-01T10:08:37Z,brennercruvinel,0.0.1,Brenner Cruvinel,MIT,4609,"Brenner Cruvinel namespace. Placeholder package, the real thing lands here later."
+2026-10-01T10:10:04Z,lanestyle,0.1.0,Kaveh,MIT,52625,"Lane-level road maps on roadstyle: every lane drawn at its real width, with lane lines, turns and a click-to-see-connectivity view, from a lane table or a duckOSM GMNS database"
+2026-10-01T10:10:16Z,mycroftcompute,0.1.0,Aditya Negi,MIT,208057,"Where your Claude Code money went, priced with the prompt cache counted, and which changes would actually pay."
+2026-10-01T10:14:29Z,liquid-helium-svp,0.1.0,"Theo Noble, Erik Tsepelin","MIT License Copyright (c) 2024 tsepelin Permission is hereby granted, free of charge, to any person…",25485,Properties of liquid helium-4 at saturated vapour pressure
+2026-10-01T10:15:20Z,pydfdoi,0.1.1,Yihtsy <yihtsy@outlook.com>,"MIT License Copyright (c) 2026 Yihtsy Permission is hereby granted, free of charge, to any person o…",39811,"Extract DOI values from PDFs, write DOI metadata, and rename papers from Crossref citation data."
+2026-10-01T10:16:40Z,inorbithr,0.0.0,,Apache-2.0,10543,Reserved for the official InOrbit SDK. Not released yet; contains no code.
+2026-10-01T10:17:00Z,jochwacht-sbom,0.12.0,Innomatica GmbH <office@innomatica.de>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",324779,"SBOM generation for embedded builds — CMake, Meson, Autotools, Yocto, Buildroot, Zephyr, vcpkg — one command writes a CycloneDX bill of materials from your build; sends nothing unless you say so. For…"
+2026-10-01T10:18:51Z,pion-vllm-mlx,0.1.0,Pavel Horak,Apache-2.0,184029,Pion attention backend for vllm-mlx — V offloading + GPU attention on Apple Silicon
