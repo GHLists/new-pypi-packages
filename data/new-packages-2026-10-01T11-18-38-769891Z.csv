@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T10:19:22Z,jochwacht,0.0.1,Innomatica GmbH <office@innomatica.de>,MIT,2717,Name reserved by Innomatica GmbH. The open-source CRA Readiness Check collector is published as jochwacht-sbom — see https://jochwacht.dev.
+2026-10-01T10:21:24Z,liege-agent-sdk,0.1.0,Liege Agents,MIT,10858,Python SDK for Liege agent operators
+2026-10-01T10:21:50Z,lncnova,0.1.1,,MIT,65858,LncNova: an integrated RNA-seq pipeline for novel lncRNA discovery and characterization
+2026-10-01T10:23:11Z,vedro-spec-validator-beta,0.4.0,Sam Roz,Apache-2.0,56610,Vedro Spec Validator plugin
+2026-10-01T10:28:00Z,ocx-model-validator,0.4.0,,,17847967,Parse and validate OCX .3docx ship model files into a schema-neutral IR
+2026-10-01T10:29:03Z,gha-harden,0.1.0,Ross MacArthur <ross@macarthur.io>,MIT,17396,Harden GitHub Action workflows by pinning versions
+2026-10-01T10:37:23Z,interloper-aws,0.94.2,Guillaume Onfroy,,10671,Interloper AWS integration: Amazon S3 destination and connection
+2026-10-01T10:37:28Z,interloper-duckdb,0.94.2,Guillaume Onfroy,,18088,Interloper DuckDB integration: DuckDB and MotherDuck destination and connection
+2026-10-01T10:37:37Z,interloper-snowflake,0.94.2,Guillaume Onfroy,,21805,Interloper Snowflake integration: connection and destination
+2026-10-01T10:44:20Z,recommending-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47720,A machine that recommends solutions.
+2026-10-01T10:44:21Z,wmongo-mcp,0.1.0,"""WILLIAM R."" <william@ecapturedtech.com>",MIT,18283,Model Context Protocol (MCP) server for WMongo MongoDB architecture and code generation
+2026-10-01T10:45:21Z,spatialetl-providers-symphonie,0.0.1rc1,Fabien RÉTIF <fabien.retif@snale.net>,,55430,Provider package spatialetl-providers-symphonie for SpatialETL
+2026-10-01T10:45:44Z,ephris,1.0.0,"""Nums AI Inc."" <contact@nums.world>",Apache-2.0,2719459,Pretrained graph in-context learning for node classification
+2026-10-01T10:48:40Z,cra-scan,0.1.0,Georgios Stavropoulos,Apache-2.0,27110,"SBOM and exploited-vulnerability check for Swift / Apple-platform projects, for EU Cyber Resilience Act reporting"
+2026-10-01T10:51:13Z,gpacgo-lib,0.0.1,"Faye G, Artemis W, Jess C, Nikki Z, Yasir F",,3172,Grade Point Average Calculator Group One Library
+2026-10-01T10:55:17Z,continuo-duckdb-adapter,0.1.0,Simone Carolini,,67034,DuckDB (DuckLake) warehouse adapter for Continuo: validation and python-node runtime.
+2026-10-01T10:56:29Z,delhaize-mcp,0.1.0,Shima Beigi,MIT,35540,Unofficial MCP server to fetch your own Delhaize (Belgium) till receipts and weekly promotions with a headless browser. No password handling.
+2026-10-01T10:59:05Z,samesim,0.2.0,Agnivesh Kumar,MIT,234353,"Same seed, same simulation: a deterministic discrete-event simulator for message-passing agents"
+2026-10-01T11:01:04Z,warrantkit,0.1.0,Daniel Kissel,Apache-2.0,106555,Runtime enforcement and proof platform for autonomous AI agents
+2026-10-01T11:01:51Z,nanoping-api,11.1.0.dev0,,LicenseRef-Proprietary,69418,Typed client for the NanoPing REST API
+2026-10-01T11:04:05Z,wlearn-rf,0.4.1,,Apache-2.0,42948,Random Forest and ExtraTrees backed by the wlearn C11 core
+2026-10-01T11:04:07Z,wlearn-sym,0.1.0,Anton Zemlyansky,Apache-2.0,84893,"Symbolic regression, classification, and formula features backed by the wlearn C11 core"
+2026-10-01T11:04:09Z,wlearn-uncertainty,0.1.0,Anton Zemlyansky,Apache-2.0,109251,"C11 calibration, conformal prediction and risk control for tabular models"
+2026-10-01T11:05:04Z,nonebot-plugin-botui,0.1.0,Lonely-Sails,,336735,一个 QQ 风格的 WebUI 控制台：查看机器人收发的全部消息，并以机器人的身份发消息。
+2026-10-01T11:07:12Z,arcvault,1.0.1,ArcVault contributors,MIT,124869,"Export, preserve, search, recover and organize your Arc browser library."
+2026-10-01T11:07:56Z,aneurysm-ai,0.1.0,Shruthum Dutta <shruthum.44@gmail.com>,,67640,A Package which i have written for competitions dataset it will only work on that dataset only
+2026-10-01T11:10:05Z,subsprint,0.1.0,junwatu,MIT,14930,"Offline CLI to generate subtitles for any video (faster-whisper + mlx-whisper, M-series fast defaults)"
+2026-10-01T11:10:50Z,ssmdconvert,0.1.0,Holger Nahrstaedt,Apache-2.0,106364,Deterministically convert documents and books into SSMD.
+2026-10-01T11:12:10Z,wizardgram,0.1.0,daddymaou <daddymaou@users.noreply.github.com>,Apache-2.0,43610,Async Telegram bot framework for Python.
+2026-10-01T11:13:39Z,santanico,0.1.2,Maykin Media <support@maykinmedia.nl>,MIT,4943927,Strip document metadata at scary speeds with Python and Rust.
+2026-10-01T11:14:11Z,doc2images-mcp,0.1.0,Bruce Kang,,9618,Add your description here
+2026-10-01T11:14:45Z,pyjosers,0.1.0,,BSD-2-Clause,2887213,Rust-backed JOSE with a familiar jwcrypto-style Python API
+2026-10-01T11:15:22Z,throngtest,0.0.1,Evgeniy Blinov <zheni-b@yandex.ru>,,87278,Distributed pytest execution in isolated environments
+2026-10-01T11:15:39Z,vylor-estimate,0.1.0,Vylor AI,MIT,48561,Estimate how much Vylor MCP would save on your Claude AI sessions
+2026-10-01T11:17:07Z,friendly-tools,0.1,Team,MIT,9551,Small greeting utilities.

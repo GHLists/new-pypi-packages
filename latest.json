@@ -1,31 +1,43 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-10-01T09:18:40.601686Z",
-    "path": "data/new-packages-2026-10-01T10-19-11-352748Z.csv",
-    "to": "2026-10-01T10:19:11.352748Z"
+    "count": 35,
+    "from": "2026-10-01T10:19:11.352748Z",
+    "path": "data/new-packages-2026-10-01T11-18-38-769891Z.csv",
+    "to": "2026-10-01T11:18:38.769891Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-10-01T11:13:08Z",
+      "package": "PyOrbb",
+      "since": "2026-10-01T10:19:11.352748Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-01T10:59:18Z",
+      "package": "brain-aneurysm-ai-main",
+      "since": "2026-10-01T10:19:11.352748Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-01T09:49:28Z",
       "package": "phone-miror",
       "since": "2026-10-01T09:18:40.601686Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-01T07:26:54Z",
       "package": "sapilm",
       "since": "2026-10-01T07:20:28.424391Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-01T08:37:42Z",
       "package": "sunstone-data-platform",
       "since": "2026-10-01T08:18:43.072754Z"
     }
   ],
-  "serial": 41680472,
+  "serial": 41682366,
   "source_truncated": false,
-  "window": "2026-10-01T10:19:11.352748Z"
+  "window": "2026-10-01T11:18:38.769891Z"
 }
