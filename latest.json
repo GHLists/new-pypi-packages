@@ -1,19 +1,31 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-01T15:18:38.691093Z",
-    "path": "data/new-packages-2026-10-01T16-22-19-429914Z.csv",
-    "to": "2026-10-01T16:22:19.429914Z"
+    "count": 38,
+    "from": "2026-10-01T16:22:19.429914Z",
+    "path": "data/new-packages-2026-10-01T17-18-35-683977Z.csv",
+    "to": "2026-10-01T17:18:35.683977Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-01T13:05:42Z",
-      "package": "spatialetl-providers-common-interpcgal",
-      "since": "2026-10-01T12:18:37.415133Z"
+      "attempts": 1,
+      "created_at": "2026-10-01T16:46:26Z",
+      "package": "Chimken-MPRIS",
+      "since": "2026-10-01T16:22:19.429914Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-01T16:56:38Z",
+      "package": "apollo-watcher",
+      "since": "2026-10-01T16:22:19.429914Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-01T16:56:39Z",
+      "package": "watcher-sdk",
+      "since": "2026-10-01T16:22:19.429914Z"
     }
   ],
-  "serial": 41693808,
+  "serial": 41695921,
   "source_truncated": false,
-  "window": "2026-10-01T16:22:19.429914Z"
+  "window": "2026-10-01T17:18:35.683977Z"
 }

@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T16:23:55Z,blitzid,0.1.0,Malvavisc0,MIT,2306567,"Modular DNN-based ID document reading framework (face detection, OCR, MRZ) optimized for CPU deployment"
+2026-10-01T16:26:09Z,reins-client,0.1.0,R2R Labs,MIT,15829,"Risk limits and an audit log for Python trading bots on Hyperliquid, through a Reins server."
+2026-10-01T16:26:46Z,tableaulab,0.0.3,Ammanuel Tamrat,MIT,11118,A TUI for tableau
+2026-10-01T16:27:18Z,qstd-openapi,0.1.0,QuisEgoSum <subbotin.evdokim@gmail.com>,MIT,148830,"A framework-agnostic, declarative OpenAPI 3.1/3.0 generator: decorators, error classes, webhooks and document aggregation, with Pydantic and Sanic integrations (FastAPI and Pydantic 1 — experimental)."
+2026-10-01T16:28:17Z,loha,0.1.0.dev0,grandimam,MIT,5134,"A next-gen application server for Python, currently in early development."
+2026-10-01T16:28:21Z,shortneer,0.1.0,,,8715762,Python Osint tool
+2026-10-01T16:29:12Z,zayt-contrib,0.1.0,Livio Ribeiro,MIT,33703,Extra packages for the Zayt Web Framework
+2026-10-01T16:30:31Z,o41-metrics-collector,0.0.0,,,1944,Placeholder for the 041 package. The first release is published from CI.
+2026-10-01T16:30:33Z,o41-training-data,0.0.0,,,1884,Placeholder for the 041 package. The first release is published from CI.
+2026-10-01T16:30:35Z,o41-metrics-duckdb,0.0.0,,,1903,Placeholder for the 041 package. The first release is published from CI.
+2026-10-01T16:32:03Z,hfox,1.0.0rc1,Leo Herzog,MIT,193587,Command-line interface for the HappyFox REST API
+2026-10-01T16:35:32Z,signyu,0.1.0,SignYu <contact@mail.signyu.com>,MIT,21474,Official Python SDK for the SignYu Aadhaar eSign API
+2026-10-01T16:35:54Z,twobitreader-rs,0.2.1,,MIT OR Apache-2.0,15514914,Python bindings for the twobitreader Rust crate
+2026-10-01T16:38:35Z,nixii,0.1.1,,,2697428,Local voice-command assistant for Linux
+2026-10-01T16:40:27Z,loopbrake,0.1.0,Sahil Selokar,MIT,42064,"Stops stuck AI agent runs, with a guaranteed limit on stopping good ones."
+2026-10-01T16:41:19Z,emoji-express,0.1.0,anndersoon,,4189,Lightweight Spanish text-to-emoji predictor using Sentence Transformers.
+2026-10-01T16:44:45Z,mic-evals,0.1.0,Ryan Eiger,MIT,300515,"Typed, provider-independent micro-evaluations for Python"
+2026-10-01T16:45:33Z,splatfold,0.2.0,,MIT,63942,Fold local Python wildcard imports into one standalone source file.
+2026-10-01T16:48:30Z,india-xbrl-filings,0.1.1,india-xbrl-filings contributors,MIT,560422,Discover and download Indian listed-company financial-result XBRL filings (NSE and BSE) with full provenance. Download + preserve + index only; parsing is out of scope for v1.
+2026-10-01T16:50:54Z,docling-pk,1.0.0,"Abdul Moiz Muhammad, INFERENCE Lab",MIT,143746,"Structured data extraction from Pakistani identity and education documents (CNIC, Matric, Intermediate, degrees)."
+2026-10-01T16:54:38Z,lastwarning,1.0.2,,,5424,Authorized phone-number lookup CLI with sensitive-field redaction
+2026-10-01T16:55:24Z,dou-cli,0.0.0,"""DOU Inc."" <team@dou.so>",LicenseRef-Proprietary,2341,Name reserved for DOU's internal CLI. Not distributed on PyPI.
+2026-10-01T16:56:17Z,ChimkenMPRIS,0.0.1,sand,MIT,7410,A small MPRIS server made for my app but also usable
+2026-10-01T16:56:44Z,glean-chat-api-client,0.0.0,,,2144,Name reserved by Avenue Z. Not for public use.
+2026-10-01T16:56:57Z,lion1,0.0.1,Haiyang Li <quantocean.li@gmail.com>,Apache-2.0,1934,lion1: reserved for the next lionagi runtime. Not yet released.
+2026-10-01T16:57:00Z,drive-api-client,0.0.0,,,2101,Name reserved by Avenue Z. Not for public use.
+2026-10-01T16:59:08Z,hexiel,0.2.9,,LicenseRef-GPL-3.0-with-Commons-Clause,229548,Open-source AI coding agent for the terminal and browser — runs on local Ollama models (even on modest hardware) or any cloud LLM. A self-hostable alternative to Claude Code and opencode.
+2026-10-01T17:01:01Z,contribos,0.2.0,,,136509,"Get trusted, get merged, come back: a guide for new open-source contributors in the AI era."
+2026-10-01T17:01:03Z,spacepak-modbus,0.1.0,spacepak-modbus contributors,Unlicense,56777,Read and control SpacePak Solstice Inverter Extreme (ILAHP) heat pumps over Modbus.
+2026-10-01T17:01:35Z,jev-urdu,0.1.0,"Muhammad Noman, LughaatNLP",Apache-2.0,1029558,Urdu decision-model inference for jev-urdu
+2026-10-01T17:03:08Z,quatern,0.0.2,Jayden Vasquez,,2775,AI that writes and verifies robot autonomy code
+2026-10-01T17:03:12Z,buscar,0.1.0,Erik Serrano <erik.serrano@cuanschutz.edu>,BSD-3-Clause,43257,A Python framework for prioritizing compounds in high-content imaging drug screening using single-cell profiles.
+2026-10-01T17:03:17Z,firefly-judgment,0.1.0,Firefly,MIT,193586,萤 (Firefly): 可嵌入 Agent Harness 的自成长毫秒级判断层
+2026-10-01T17:06:19Z,trackchanges-cli,0.0.1,Gullah Technologies LLC,LicenseRef-Proprietary,4321,Placeholder for the TrackChanges CLI (trackchanges.io). Not yet released.
+2026-10-01T17:10:25Z,papero-extract,3.0.0,Beatriz Almeida,MIT,16289740,"papero — PDF to Markdown, JSON and tables: structured PDF extraction (reading order, tables, formulas, images, bounding boxes) on Apache Tika. Python library, CLI, REST API and browser app."
+2026-10-01T17:11:46Z,django-flex-blog,1.0.0,NzeStan,MIT,181370,"A complete, secure, headless blog backend for Django REST Framework: articles, comments, reactions, newsletter, notifications, webhooks, feeds and more. Every feature optional."
+2026-10-01T17:14:07Z,pyrig-public,1.0.0,Winipedia,MIT,17215,A pyrig plugin for public repository functionality.
+2026-10-01T17:16:03Z,ratchet-harness,0.1.0,,MIT,155944,"Ratchet: a small, careful agentic coding harness for Claude."
