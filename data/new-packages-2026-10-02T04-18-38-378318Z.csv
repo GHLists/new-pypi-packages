@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T03:18:44Z,inflowpay,0.1.0,Nas Kavian <nas@inflowpay.ai>,MIT,108800,InFlow Python SDK for MPP and x402 payments
+2026-10-02T03:20:05Z,invoiceguard,0.1.0,InvoiceGuard contributors,Apache-2.0,77188,"Freelancer payment enforcement: deposit links tied to a contract with a late-fee clause, then automated 3-stage collections."
+2026-10-02T03:21:00Z,brussle,1.0.0,,LicenseRef-Proprietary,177140,Python SDK for the Brussle API
+2026-10-02T03:25:00Z,mdtab,0.1.0,Tdual,MIT,149657,"Local Markdown viewer with a folder sidebar, opened from Finder into a browser tab"
+2026-10-02T03:28:16Z,argus-screens,0.1.0,Sahil Dayal,MIT,142924,Multi-monitor screenshot MCP server and CLI for Windows: lets Claude and other AI tools see what you're looking at.
+2026-10-02T03:28:38Z,chaos-bringer,0.1.1,themaker00001,MIT,111836,"A chaos monkey for agent frameworks: fuzz, fault-inject, and red-team any agent for free."
+2026-10-02T03:34:20Z,OpenDatabench,0.0.1,"Alkera AI, Inc.",Apache-2.0,10311,"OpenDatabench by Alkera: the open-source, multiplayer workspace for data science, analytics, and engineering. Coming soon."
+2026-10-02T03:35:58Z,tablemd,0.1.0,ARON,MIT,65697,"Convert Markdown tables to CSV / TSV / JSON / Excel and back. Library + CLI, clipboard-aware, CJK-friendly."
+2026-10-02T03:39:37Z,tintify,0.2.1,Ethan Howlett,MIT,16852,Easy to use terminal text colorizer for Python.
+2026-10-02T03:44:11Z,v8-utils,1984,,MIT,550666,CLI and MCP tools for V8 JavaScript engine developers
+2026-10-02T03:44:29Z,ParSub,0.2.0,ParSub Developer SParida <paridasubrat553@gmail.com>,MIT,138793,Agentic Math/Physics research tool for LaTeX analysis and numerical evaluation
+2026-10-02T03:47:06Z,diurnalize,0.1.0a1,Diurnalize contributors,MIT,37190,Mean-preserving diurnal disaggregation with Bayesian spatial-temporal shape modeling.
+2026-10-02T03:53:53Z,dowbench,0.1.0,,Apache-2.0,717743,Reproducible benchmark of denial-of-wallet attacks and defenses for LLM agents
+2026-10-02T03:54:55Z,alphacodin,0.54.1,,AGPL-3.0-or-later,10765745,"The codebase intelligence layer for your AI coding agent — dependency graph, git history, dead code, decisions, and code health, exposed over MCP"
+2026-10-02T04:07:16Z,find-karma,0.1.0,Mamdouh Aboammar <mamdouhfces1997@gmail.com>,MIT,79039,Offline-first contextual discovery of curated AI coding skills and plugins
+2026-10-02T04:07:47Z,findmyjob,0.1.0,Bruno Moreno,MIT,41958,Busca de vagas via dorks em portais de emprego e ATS
+2026-10-02T04:09:38Z,veritahire,0.1.0,,MIT,8396,"Job postings API client: live US jobs verified on employers' own career sites, still-open checks, full feed."
