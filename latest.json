@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-10-02T10:18:37.807769Z",
-    "path": "data/new-packages-2026-10-02T11-21-52-628808Z.csv",
-    "to": "2026-10-02T11:21:52.628808Z"
+    "count": 25,
+    "from": "2026-10-02T11:21:52.628808Z",
+    "path": "data/new-packages-2026-10-02T12-18-40-865977Z.csv",
+    "to": "2026-10-02T12:18:40.865977Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-02T08:06:25Z",
-      "package": "smpp34",
-      "since": "2026-10-02T07:20:08.833262Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-02T10:35:54Z",
       "package": "watcher-transcript-transport",
       "since": "2026-10-02T10:18:37.807769Z"
     }
   ],
-  "serial": 41727716,
+  "serial": 41729593,
   "source_truncated": false,
-  "window": "2026-10-02T11:21:52.628808Z"
+  "window": "2026-10-02T12:18:40.865977Z"
 }

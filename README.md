@@ -8,56 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 11:21 UTC
+## Latest list — 2026-10-02 12:18 UTC
 
-New packages created between 2026-10-02 10:18 UTC and 2026-10-02 11:21 UTC.
+New packages created between 2026-10-02 11:21 UTC and 2026-10-02 12:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-02T11-21-52-628808Z.csv)
+[Full CSV](data/new-packages-2026-10-02T12-18-40-865977Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-02 10:19:40 | [truerecord-sdk](https://pypi.org/project/truerecord-sdk/) | 0.1.2 | "Exploring Data B.V." <suppor… | 17.5 kB | Python SDK for the TrueRecord LLM Governance Platform |
-| 2026-10-02 10:22:46 | [flexcommerce](https://pypi.org/project/flexcommerce/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 12.2 kB | FlexCommerce: a complete, modular e-commerce and marketplace backend for Django… |
-| 2026-10-02 10:22:48 | [flexcommerce-catalog](https://pypi.org/project/flexcommerce-catalog/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 40.1 kB | Categories, brands, products with variants and images, search, filters and face… |
-| 2026-10-02 10:22:49 | [flexcommerce-pricing](https://pypi.org/project/flexcommerce-pricing/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 19.9 kB | Tax categories, VAT calculation and authoritative price quotes |
-| 2026-10-02 10:25:29 | [azet-guard](https://pypi.org/project/azet-guard/) | 0.1.0 | AZET LLC <hello@azet.io> | 40.9 kB | Runtime guardrails for AI coding agents: blocks dangerous commands, keeps secre… |
-| 2026-10-02 10:30:00 | [docugen-library](https://pypi.org/project/docugen-library/) | 0.1.0 | DocuGen Team <maintainers@doc… | 160.6 kB | Production-grade, local-first document intelligence and generation framework |
-| 2026-10-02 10:34:05 | [scx-picklerick](https://pypi.org/project/scx-picklerick/) | 0.0.1 | btraven <ben.uzh@proton.me> | 2.4 kB | Python bindings for SCX, a single-cell format conversion engine (placeholder; f… |
-| 2026-10-02 10:34:45 | [flexcommerce-inventory](https://pypi.org/project/flexcommerce-inventory/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 35.3 kB | Concurrency-safe stock reservations, movements, CSV import and back-in-stock al… |
-| 2026-10-02 10:34:47 | [flexcommerce-discounts](https://pypi.org/project/flexcommerce-discounts/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 36.7 kB | Coupons, automatic promotions and flash sales with atomic usage limits |
-| 2026-10-02 10:34:52 | [flexcommerce-core](https://pypi.org/project/flexcommerce-core/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 77.2 kB | Foundation for FlexCommerce: settings, events, hooks, signed webhooks, jobs, au… |
-| 2026-10-02 10:36:41 | [simbricks-imagebuild-packer](https://pypi.org/project/simbricks-imagebuild-packer/) | 0.6.0 | Team SimBricks | 20.8 kB | SimBricks disk image builds in a booted guest with packer, and extraction of th… |
-| 2026-10-02 10:42:45 | [omnicommerce](https://pypi.org/project/omnicommerce/) | 0.1.1 |  | 57.6 kB | Python SDK for the OmniCommerce API. Generated from the public OpenAPI spec. |
-| 2026-10-02 10:43:37 | [flexcommerce-shipping](https://pypi.org/project/flexcommerce-shipping/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 30.2 kB | Nigerian shipping zones, rates (flat, per item, weight), pickup stations and ET… |
-| 2026-10-02 10:43:40 | [flexcommerce-orders](https://pypi.org/project/flexcommerce-orders/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 58.5 kB | Order lifecycle: payments, partial shipments, tracking, returns and refunds |
-| 2026-10-02 10:43:44 | [flexcommerce-cart](https://pypi.org/project/flexcommerce-cart/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 41.4 kB | Session / token / user carts with live pricing, coupons, limits and login merge |
-| 2026-10-02 10:45:08 | [funblog](https://pypi.org/project/funblog/) | 0.6.0 | 牛哥 <niuliangtao@qq.com>, farf… | 16.0 kB | 本地笔记（Markdown/Jupyter Notebook）扫描工具：按目录结构建立分类-文章树并记录到本地 SQLite，再通过 XML-RPC 批量发布… |
-| 2026-10-02 10:46:48 | [flatmark](https://pypi.org/project/flatmark/) | 1.0.0 |  | 44.7 kB | A client library for accessing flatmark |
-| 2026-10-02 10:47:14 | [invowerk](https://pypi.org/project/invowerk/) | 1.0.0 |  | 96.1 kB | A client library for accessing invowerk |
-| 2026-10-02 10:47:35 | [pdfrender](https://pypi.org/project/pdfrender/) | 1.0.0 |  | 27.4 kB | A client library for accessing pdfrender |
-| 2026-10-02 10:49:46 | [flexcommerce-payments](https://pypi.org/project/flexcommerce-payments/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 47.6 kB | Paystack, Flutterwave, bank transfer, pay on delivery and customer wallet |
-| 2026-10-02 10:49:48 | [flexcommerce-checkout](https://pypi.org/project/flexcommerce-checkout/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 26.0 kB | Atomic, idempotent checkout tying cart, stock, discounts, shipping, orders and… |
-| 2026-10-02 10:49:55 | [flexcommerce-engagement](https://pypi.org/project/flexcommerce-engagement/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 40.5 kB | Wishlists, reviews and ratings, product Q&A, recently viewed and trending searc… |
-| 2026-10-02 10:51:03 | [fracmem](https://pypi.org/project/fracmem/) | 0.2.0 | Adithyan Lalu <adithyanlalu@g… | 35.3 kB | Compressed fractional-order derivative filters with a certified offline error b… |
-| 2026-10-02 10:52:15 | [stochlift](https://pypi.org/project/stochlift/) | 0.2.0 | Yuqun Zhou | 131.1 kB | Turn a deterministic optimization model into a verified two-stage stochastic pr… |
-| 2026-10-02 10:55:39 | [ovos-routing-judge](https://pypi.org/project/ovos-routing-judge/) | 0.0.1 | Andreas Lorensen <andlo@outlo… | 29.8 kB | Who took an utterance, and was it the right skill? One routing judge for OVOS g… |
-| 2026-10-02 10:57:23 | [flexcommerce-marketplace](https://pypi.org/project/flexcommerce-marketplace/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 34.9 kB | Multi-vendor marketplace: sellers, order splitting, commissions and payouts |
-| 2026-10-02 10:57:27 | [flexcommerce-notifications](https://pypi.org/project/flexcommerce-notifications/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 57.5 kB | Signal-driven email, SMS, push and in-app notifications with an outbox and retr… |
-| 2026-10-02 10:57:32 | [flexcommerce-analytics](https://pypi.org/project/flexcommerce-analytics/) | 1.0.0 | NzeStan <nnamaniifeanyi10@gma… | 38.0 kB | Revenue, product, cart, coupon, vendor and customer reports with CSV export |
-| 2026-10-02 10:57:32 | [inkgrid](https://pypi.org/project/inkgrid/) | 0.1.0 | Abdul-Muizz Anwar | 294.7 kB | Exact tables and text from born-digital PDFs, read from the text layer and draw… |
-| 2026-10-02 10:58:19 | [ankiforge](https://pypi.org/project/ankiforge/) | 0.2.0 |  | 23.0 MB | Python Product API for Anki Forge |
-| 2026-10-02 11:02:19 | [pyexco](https://pypi.org/project/pyexco/) | 0.1.0 | Gal Stanovnik <gal.stanovnik@… | 33.5 kB | Excitation control for closed-loop random vibration testing: the PSD update rul… |
-| 2026-10-02 11:03:07 | [unlockbridge](https://pypi.org/project/unlockbridge/) | 0.0.1 | ThreeI | 26.5 kB | Give any browser AI safe, human-approved access to your local files. No API key… |
-| 2026-10-02 11:03:57 | [wendao](https://pypi.org/project/wendao/) | 0.1.0 | Zeyu Deng | 177.5 kB | An AI learning companion: turn course notes into an interactive knowledge graph… |
-| 2026-10-02 11:04:43 | [docgate-llm](https://pypi.org/project/docgate-llm/) | 0.0.1 | ThreeI | 5.8 kB | Give developers using browser-based LLMs policy-gated access to current technic… |
-| 2026-10-02 11:05:35 | [zencleaner](https://pypi.org/project/zencleaner/) | 1.0.0 | ZenCleaner | 102.1 kB | ZenCleaner - type 'zencleaner' in your terminal to open a localhost web UI that… |
-| 2026-10-02 11:06:15 | [t-boost](https://pypi.org/project/t-boost/) | 0.6.0 |  | 12.4 MB | An oblivious gradient-boosting machine that is exactly decomposable into fANOVA… |
-| 2026-10-02 11:06:45 | [thereabouts](https://pypi.org/project/thereabouts/) | 0.0.1 | brightertiger | 2.5 kB | Offline location lookup: coordinates and other location hints to city, state an… |
-| 2026-10-02 11:10:25 | [reconnectchina](https://pypi.org/project/reconnectchina/) | 9.0.0 | ReConnect China Contributors | 114.1 kB | The Python client for the ReConnect China API |
-| 2026-10-02 11:10:35 | [touchlab-slip-model](https://pypi.org/project/touchlab-slip-model/) | 1.0.0 | Touchlab Limited <abi@touchla… | 33.5 MB | Slip detection for Touchlab fingertip sensors: license activation and live touc… |
-| 2026-10-02 11:13:10 | [langgraph-minnsdb](https://pypi.org/project/langgraph-minnsdb/) | 0.1.0 | Minns | 30.7 kB | LangGraph long-term memory on MinnsDB: a store that keeps every version, and gr… |
-| 2026-10-02 11:13:44 | [tutor-contrib-keycloak](https://pypi.org/project/tutor-contrib-keycloak/) | 1.0.0 | Emad Rad <emad.ehsanrad@gmail… | 41.7 kB | keycloak plugin for Tutor |
-| 2026-10-02 11:17:27 | [polyglot-bug-hunter-x](https://pypi.org/project/polyglot-bug-hunter-x/) | 1.0.1 | PolyglotBugHunter-X contribut… | 253.5 kB | Multimodal AI agent that sees, hears and reads a website while hunting bugs |
-| 2026-10-02 11:18:14 | [tomoz](https://pypi.org/project/tomoz/) | 0.1.0 | ZeroXShot | 2.9 MB | Learned lossless compression for medical image volumes |
-| 2026-10-02 11:18:24 | [open-airec](https://pypi.org/project/open-airec/) | 0.0.2 | Stavros Korokithakis | 145.6 kB | Evidence-driven, experimental AIREC recorder client |
-| 2026-10-02 11:18:34 | [claude-ops](https://pypi.org/project/claude-ops/) | 0.1.0 | Konstantinos Georgiou | 84.4 kB | Tools for running many Claude Code chats on one machine: find any chat, send a… |
+| 2026-10-02 11:23:50 | [fartask](https://pypi.org/project/fartask/) | 1.0.8 | 牛哥 <niuliangtao@qq.com>, farf… | 12.3 kB | Task submission and tracking for SLURM/C++ compute jobs, with a NiceGUI web das… |
+| 2026-10-02 11:24:33 | [farspec](https://pypi.org/project/farspec/) | 1.0.11 | 牛哥 <niuliangtao@qq.com>, farf… | 10.6 kB | 基于 dataclass 的任务契约规范库，提供请求、响应、状态流转与字典序列化模型 |
+| 2026-10-02 11:25:03 | [nowcastbox](https://pypi.org/project/nowcastbox/) | 0.1.0 | Gustavo Haase <gustavo.haase@… | 2.2 MB | Nowcasting with dynamic factor models in Python: two-step (Giannone-Reichlin-Sm… |
+| 2026-10-02 11:26:44 | [crolib](https://pypi.org/project/crolib/) | 0.1.0 | Patrick Beam <patrick@massmin… | 10.3 kB | Generalizability theory: crossed-design reliability and D-study projections |
+| 2026-10-02 11:29:03 | [ohsh](https://pypi.org/project/ohsh/) | 0.1.1 | Ola Groettvik | 32.7 kB | Resolve HDL module manifests into ordered, per-library source lists and a libra… |
+| 2026-10-02 11:30:04 | [codegraph-engine](https://pypi.org/project/codegraph-engine/) | 2.1.2 | CodeGraph contributors | 362.2 kB | Evidence-backed local codebase intelligence for MCP clients |
+| 2026-10-02 11:30:05 | [smart-web-search-mcp](https://pypi.org/project/smart-web-search-mcp/) | 0.2.0 | NinjaSln | 110.5 kB | Smart Web Search MCP server — 5-provider fusion routing (wigolo+keenable → tiny… |
+| 2026-10-02 11:32:32 | [oparq](https://pypi.org/project/oparq/) | 0.3.0 | Poupou | 104.2 kB | Reduce Parquet and S3/GCS bucket storage with compression-friendly row ordering |
+| 2026-10-02 11:35:29 | [estrellio-py-env-tools](https://pypi.org/project/estrellio-py-env-tools/) | 0.1.0 | shade | 57.2 kB | Configuration-driven Python environment helpers for AutoScripts-style repos |
+| 2026-10-02 11:37:30 | [estrellio-repo-layout-tools](https://pypi.org/project/estrellio-repo-layout-tools/) | 0.1.0 | shade | 59.8 kB | AutoScripts repository layout helpers and runner path generation |
+| 2026-10-02 11:37:30 | [memoryo-sdk](https://pypi.org/project/memoryo-sdk/) | 0.1.1 | MemoryO <support@memoryo.dev> | 41.0 kB | Python SDK for governed, traceable AI memory with MemoryOS. |
+| 2026-10-02 11:43:42 | [compose-manager](https://pypi.org/project/compose-manager/) | 0.1.0 | Samir Koirala | 42.2 kB | Interactive terminal dashboard for remote Docker Compose stacks |
+| 2026-10-02 11:44:06 | [event-estimator](https://pypi.org/project/event-estimator/) | 0.1.1 | Alexander Schmidt | 9.5 kB | Event estimation from deconvolved calcium traces |
+| 2026-10-02 11:47:28 | [umf-format](https://pypi.org/project/umf-format/) | 0.2.0 |  | 2.2 MB | Ultra-Compact Macromolecular Format: Ultra-compact, zero-copy binary container… |
+| 2026-10-02 11:49:39 | [userintuition](https://pypi.org/project/userintuition/) | 0.1.0 |  | 356.9 kB |  |
+| 2026-10-02 11:51:27 | [dpe-hash](https://pypi.org/project/dpe-hash/) | 0.1.5 | TuringFocus Team <dev@turingf… | 30.3 kB | DPE hash 契约的独立 hash 核心：零运行时依赖、纯 Python |
+| 2026-10-02 11:52:05 | [dpe-sdk](https://pypi.org/project/dpe-sdk/) | 0.1.5 | TuringFocus Team <dev@turingf… | 5.5 kB | DPE 协议 Python SDK：sans-IO 协议核心、传输适配、增量推送与 dpe-run 运行器 |
+| 2026-10-02 11:56:16 | [neo-agent-cli](https://pypi.org/project/neo-agent-cli/) | 0.3.0 | Pavanteja2007 | 8.1 MB | Neo — AI coding agent harness with adaptive runtime and persistent memory |
+| 2026-10-02 11:58:16 | [kavel-haystack](https://pypi.org/project/kavel-haystack/) | 0.1.0 | Kavel | 6.9 kB | Haystack component for Kavel AI image generation, usable with no API key |
+| 2026-10-02 12:00:26 | [backpack-backbone](https://pypi.org/project/backpack-backbone/) | 0.2.0 |  | 353.3 kB | Shared code for the back* tools: terminal UI, prompt widgets, live views, loggi… |
+| 2026-10-02 12:07:11 | [backpack-backcrack](https://pypi.org/project/backpack-backcrack/) | 0.2.0 |  | 99.2 kB | CD/DVD/Blu-ray rip pipeline - MakeMKV/HandBrake for video, cdparanoia for audio… |
+| 2026-10-02 12:07:13 | [backpack-backtrack](https://pypi.org/project/backpack-backtrack/) | 0.2.0 |  | 863.1 kB | Terminal music player with VLC playback, lyrics sync, and metadata editing. |
+| 2026-10-02 12:12:15 | [pipecat-gatemux](https://pypi.org/project/pipecat-gatemux/) | 0.1.0 |  | 108.4 kB | GateMux streaming STT, TTS and LLM services for Pipecat |
+| 2026-10-02 12:13:27 | [broodminder-data](https://pypi.org/project/broodminder-data/) | 0.1.0 | Don Petry | 61.1 kB | Unified Python client, CLI, bulk export, periodic delta sync, OpenAPI 3.1 spec,… |
+| 2026-10-02 12:15:35 | [orivane-core](https://pypi.org/project/orivane-core/) | 0.1.0 |  | 13.5 kB | Typed Orivane agent contracts, sessions and linear workflows |

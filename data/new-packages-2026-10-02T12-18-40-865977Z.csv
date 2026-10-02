@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T11:23:50Z,fartask,1.0.8,"牛哥 <niuliangtao@qq.com>, farfarfun <farfarfun@qq.com>",MIT,12301,"Task submission and tracking for SLURM/C++ compute jobs, with a NiceGUI web dashboard"
+2026-10-02T11:24:33Z,farspec,1.0.11,"牛哥 <niuliangtao@qq.com>, farfarfun <farfarfun@qq.com>",MIT,10641,基于 dataclass 的任务契约规范库，提供请求、响应、状态流转与字典序列化模型
+2026-10-02T11:25:03Z,nowcastbox,0.1.0,"Gustavo Haase <gustavo.haase@gmail.com>, Alexandre Leão Sanches <a.leaosanches@gmail.com>",MIT,2185348,"Nowcasting with dynamic factor models in Python: two-step (Giannone-Reichlin-Small) and EM mixed-frequency (Banbura-Modugno) DFMs, Bai-Ng selection, pseudo real-time vintages, news decomposition, rea…"
+2026-10-02T11:26:44Z,crolib,0.1.0,Patrick Beam <patrick@massmind.ai>,MIT,10340,Generalizability theory: crossed-design reliability and D-study projections
+2026-10-02T11:29:03Z,ohsh,0.1.1,Ola Groettvik,Apache-2.0,32699,"Resolve HDL module manifests into ordered, per-library source lists and a library compile order."
+2026-10-02T11:30:04Z,codegraph-engine,2.1.2,CodeGraph contributors,MIT,362154,Evidence-backed local codebase intelligence for MCP clients
+2026-10-02T11:30:05Z,smart-web-search-mcp,0.2.0,NinjaSln,MIT,110506,Smart Web Search MCP server — 5-provider fusion routing (wigolo+keenable → tinyfish→tavily → serper) with a one-click installer for 10 AI agent CLIs
+2026-10-02T11:32:32Z,oparq,0.3.0,Poupou,MIT,104154,Reduce Parquet and S3/GCS bucket storage with compression-friendly row ordering
+2026-10-02T11:35:29Z,estrellio-py-env-tools,0.1.0,shade,MIT,57239,Configuration-driven Python environment helpers for AutoScripts-style repos
+2026-10-02T11:37:30Z,estrellio-repo-layout-tools,0.1.0,shade,MIT,59828,AutoScripts repository layout helpers and runner path generation
+2026-10-02T11:37:30Z,memoryo-sdk,0.1.1,MemoryO <support@memoryo.dev>,MIT,40985,"Python SDK for governed, traceable AI memory with MemoryOS."
+2026-10-02T11:43:42Z,compose-manager,0.1.0,Samir Koirala,MIT,42233,Interactive terminal dashboard for remote Docker Compose stacks
+2026-10-02T11:44:06Z,event-estimator,0.1.1,Alexander Schmidt,,9490,Event estimation from deconvolved calcium traces
+2026-10-02T11:47:28Z,umf-format,0.2.0,,,2232966,"Ultra-Compact Macromolecular Format: Ultra-compact, zero-copy binary container for proteins, nucleic acids, and ligand complexes"
+2026-10-02T11:49:39Z,userintuition,0.1.0,,,356890,
+2026-10-02T11:51:27Z,dpe-hash,0.1.5,TuringFocus Team <dev@turingfocus.cn>,MIT,30283,DPE hash 契约的独立 hash 核心：零运行时依赖、纯 Python
+2026-10-02T11:52:05Z,dpe-sdk,0.1.5,TuringFocus Team <dev@turingfocus.cn>,MIT,5485,DPE 协议 Python SDK：sans-IO 协议核心、传输适配、增量推送与 dpe-run 运行器
+2026-10-02T11:56:16Z,neo-agent-cli,0.3.0,Pavanteja2007,MIT,8142009,Neo — AI coding agent harness with adaptive runtime and persistent memory
+2026-10-02T11:58:16Z,kavel-haystack,0.1.0,Kavel,MIT,6856,"Haystack component for Kavel AI image generation, usable with no API key"
+2026-10-02T12:00:26Z,backpack-backbone,0.2.0,,MIT,353288,"Shared code for the back* tools: terminal UI, prompt widgets, live views, logging, dates, settings plumbing and small file helpers, implemented once."
+2026-10-02T12:07:11Z,backpack-backcrack,0.2.0,,MIT,99233,"CD/DVD/Blu-ray rip pipeline - MakeMKV/HandBrake for video, cdparanoia for audio, dynamic %token% library patterning."
+2026-10-02T12:07:13Z,backpack-backtrack,0.2.0,,MIT,863073,"Terminal music player with VLC playback, lyrics sync, and metadata editing."
+2026-10-02T12:12:15Z,pipecat-gatemux,0.1.0,,MIT,108354,"GateMux streaming STT, TTS and LLM services for Pipecat"
+2026-10-02T12:13:27Z,broodminder-data,0.1.0,Don Petry,MIT,61081,"Unified Python client, CLI, bulk export, periodic delta sync, OpenAPI 3.1 spec, and MCP server for BroodMinder beehive data."
+2026-10-02T12:15:35Z,orivane-core,0.1.0,,MIT,13524,"Typed Orivane agent contracts, sessions and linear workflows"
