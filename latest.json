@@ -1,31 +1,25 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-10-02T04:18:38.378318Z",
-    "path": "data/new-packages-2026-10-02T05-18-46-053001Z.csv",
-    "to": "2026-10-02T05:18:46.053001Z"
+    "count": 27,
+    "from": "2026-10-02T05:18:46.053001Z",
+    "path": "data/new-packages-2026-10-02T06-19-08-418895Z.csv",
+    "to": "2026-10-02T06:19:08.418895Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-02T03:57:10Z",
       "package": "get-a-job",
       "since": "2026-10-02T03:19:15.789984Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-02T04:03:11Z",
       "package": "getajob",
       "since": "2026-10-02T03:19:15.789984Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-02T01:34:16Z",
-      "package": "kg-doc-parser",
-      "since": "2026-10-02T01:19:46.965545Z"
     }
   ],
-  "serial": 41717290,
+  "serial": 41718608,
   "source_truncated": false,
-  "window": "2026-10-02T05:18:46.053001Z"
+  "window": "2026-10-02T06:19:08.418895Z"
 }
