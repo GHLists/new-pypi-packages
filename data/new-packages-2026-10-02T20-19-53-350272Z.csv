@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T18:57:32Z,horsegraph,0.1.1,Magus,Apache-2.0,35200,Plan node graphs read through Tiny Horse canonical storage and visualized as ClaySpace worlds.
+2026-10-02T19:21:23Z,culture-rules,0.9.0,AgentCulture,Apache-2.0,259903,"Rules engine for the AgentCulture mesh: rules -> conditions -> workflows -> actions, executed by actors (agents, humans, code). Python backend library culture_rules; React Flow (Node.js) visual edito…"
+2026-10-02T19:21:46Z,dataframebench,0.1.1,Lukas Twist <itsluketwist@gmail.com>,CC-BY-4.0,2725464,DataFrameBench - BigCodeBench problems rewritten to be dataframe-library agnostic.
+2026-10-02T19:24:47Z,cortex-codeflow,0.2.0,,MIT,63303,"AST-driven codeflow analysis engine: call graphs, symbol topology, and LLM context maps for Python codebases"
+2026-10-02T19:31:04Z,kinemo,0.9.0,,MIT OR Apache-2.0,143694680,"Explanatory animations in Python with a native Rust core: a scrubbable timeline, errors that carry the fix, and a preview that edits your code"
+2026-10-02T19:32:37Z,livekit-plugins-silma,0.1.0,SILMA AI <hello@silma.ai>,Apache-2.0,43704,SILMA TTS plugin for LiveKit Agents
+2026-10-02T19:33:25Z,trw-loop,0.0.1,Tyler Wall,MIT,5286,"Convert cooking measurements (cups, tbsp, tsp, ml, grams of water) with a small lookup table."
+2026-10-02T19:33:39Z,trw-llm,0.0.1,,MIT,5615,"Convert integers to and from Roman numerals, with validation."
+2026-10-02T19:33:44Z,trw-metaharness,0.0.1,,MIT,5667,Format durations in seconds as human-friendly text and parse them back.
+2026-10-02T19:33:50Z,trw-distill,0.0.1,Tyler Wall,MIT,5734,Parse hex colours and compute WCAG contrast ratios with AA/AAA pass checks.
+2026-10-02T19:36:09Z,judgekeeper,0.1.0,Sathvik Thota,MIT,681970,"Validate, monitor and migrate your LLM-as-judge against a frozen human reference set."
+2026-10-02T19:36:38Z,pytest-judgekeeper,0.1.0,Sathvik Thota,MIT,2632,pytest plugin that fails a test when an LLM judge stops agreeing with human labels (installs judgekeeper).
+2026-10-02T19:37:10Z,nolicense-nearby-mcp,0.1.1,"""Ryan Hammer (NoBanks)"" <nobanksnearby@gmail.com>","MIT License Copyright (c) 2026 Ryan Hammer (NoBanks Nearby) Permission is hereby granted, free of c…",23236,"MCP server for No License Nearby: search 880+ artist-owned tracks and get sync licenses for social, TV and film."
+2026-10-02T19:38:18Z,efprob,1.0.0,"Bart Jacobs <bart@cs.ru.nl>, Mark Széles <mark.szeles@ru.nl>, Arvid Bonten <arvid.bonten@ru.nl>, Co…",BSD-3-Clause,181739,Channel-based probability calculations
+2026-10-02T19:38:44Z,memanto-pydantic-ai,0.1.0,Memanto <info@memanto.ai>,MIT,20422,Pydantic AI tools and integration for Memanto's persistent memory
+2026-10-02T19:40:41Z,tg-signer-plus,0.9.1,Amchii <finethankuandyou@gmail.com>,BSD-3-Clause,177896,"Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages."
+2026-10-02T19:48:37Z,mini-web-agent,0.2.0,,,42241,Explore how frontier models use a browser in fewer than 400 lines of Python.
+2026-10-02T19:49:48Z,pxr-pcp,26.8,,,63674089,Scenegraph composition library used in OpenUSD
+2026-10-02T19:52:39Z,agent-toggle,0.1.0,,MIT,214546,"Temporarily disable / re-enable AI-agent skills, agents, commands, rules, plugins and MCP servers across harnesses (Claude Code, Codex, Grok, OpenCode, OpenClaw, Copilot, Vibe, Devin, Antigravity)"
+2026-10-02T19:52:51Z,boxline-sdk,1.1.0,Boxline,MIT,202389,Python SDK for Boxline: cloud browsers and shell sandboxes for AI agents (sync and async)
+2026-10-02T19:53:03Z,paz,0.0.0,,,2444,
+2026-10-02T19:56:20Z,hermitcrm,0.5.0,Hermit CRM contributors,Apache-2.0,900085,"A personal CRM that is a folder of Markdown files in git, built for one person and for AI agents."
+2026-10-02T19:59:40Z,python-proj-init,0.1.0,Pranoy Prabhakar,MIT,59425,Cross-platform Python project scaffolder powered by uv
+2026-10-02T20:05:44Z,paranoid-atlas-cli,0.1.1,Paranoid Software,MIT,14615,The Atlas method made executable: create and keep Atlases in order
+2026-10-02T20:06:24Z,decision-metrics,0.1.0,,MIT,48977,Standalone telemetry and replay for decision models
+2026-10-02T20:06:32Z,cpu-perf,0.1.0rc1,usamahz,MIT,1507022,"MCP server for the CPU Performance Engineering list: the reading list, its editorial record, its benchmarks and a searchable local index of every linked source."
+2026-10-02T20:08:34Z,lfmm,0.1.0,Raj Kumar Myakala,MIT,91659,"Benchmark and toolkit for monitoring ML models before their labels arrive: performance estimation, drift detection and retraining under natural drift and label delay"
+2026-10-02T20:08:59Z,glyphh-ada,0.1.0,glyphh.ai,MIT,25616,Ada for Python: typed models your software queries without a language model in the path.
+2026-10-02T20:10:35Z,specplane,0.1.0a1,,Apache-2.0,1556545,Keep coding agents aligned with what you actually meant to build.
+2026-10-02T20:12:30Z,samap-extension,0.1.0,Francisco Pereira Lobo <pereiralobof2@nih.gov>,,26704,Extensions for SAMap cross-species analysis and visualization.
+2026-10-02T20:12:55Z,HapSolo,1.0.0,Edwin Solares <esolares80@gmail.com>,Apache-2.0,195245,An optimization approach for removing secondary haplotigs during diploid genome assembly and scaffolding
+2026-10-02T20:14:06Z,maven-mcp,1.0.0,,MIT,530722,MCP server for Maven and Gradle dependency intelligence
+2026-10-02T20:14:08Z,nomad-eosc-galaxy-actions,0.1.0,"Lukas Pielsticker, Björn Grüning, Michael Krieger, Heiko B. Weber","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",244546,NOMAD Action that sends an XPS spectrum to Galaxy for peak finding and links the result back (EOSC demonstrator).
+2026-10-02T20:14:30Z,kicad-evaltor,0.1.0,Attahiru Jibril <attahiruj@gmail.com>,MIT,131950,"Test and validate KiCad schematics: component values, connectivity, ERC results and sheet layout"
+2026-10-02T20:15:02Z,benzi-login,0.1.1,Variant Technologies,Proprietary,3488,Benzi account setup: log in once and set your model and API key (bring your own key).
+2026-10-02T20:15:05Z,benzi-mcp,0.1.1,Variant Technologies,Proprietary,3431,"Benzi's compiled code index as MCP tools for Claude Code, Cursor, or your own agent."
+2026-10-02T20:15:09Z,benzi-headless,0.1.1,Variant Technologies,Proprietary,3431,"Benzi, the compiler-backed coding agent, from your own terminal: scripts and CI, no editor needed."
+2026-10-02T20:16:42Z,tumorscript,0.1.0,TumorScript Contributors,MIT,263269,A biomorphic and entropic esoteric programming language runtime
+2026-10-02T20:17:08Z,verexa,0.1.0,,Apache-2.0,33158,Check every prompt and model response against your Verexa policy
+2026-10-02T20:17:10Z,tatolab,0.0.0,,,788,Held by the Tatolab project; installs nothing. See https://github.com/tatolab/streamlib
+2026-10-02T20:17:59Z,shori-sdk,1.0.0,Jerson Omar Ramírez Ortiz,MIT,136696,SDK Python para integrar aplicaciones con la plataforma Shori BPM de NTT DATA
