@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T13:20:03Z,onnx-predictor-yolo,0.1.0,Winter Yu,MIT,73853,"Typed YOLO/YOLOE ONNX inference with batching, async execution, and dynamic quantization"
+2026-10-02T13:20:12Z,rivals-api,2.0.0,,MIT,288817,Multi-source Python client and MCP server for Marvel Rivals player stats
+2026-10-02T13:20:48Z,chaindiff,0.1.0,ehsanhajian,MIT,111918,Decide whether an Ethereum node client upgrade is safe.
+2026-10-02T13:23:28Z,trap-hci,2.1.0,Matthias Samland <m.samland@mailbox.org>,MIT,306103,Detection of exoplanets in direct imaging data by causal regression of temporal systematics
+2026-10-02T13:24:43Z,pqsecure,0.1.0,Aryan Brite,MIT,13203,Unaudited post-quantum secure-channel prototype using ML-KEM-768 and AES-256-GCM; no authentication.
+2026-10-02T13:26:12Z,vcshort,0.2.1,skywalker,MIT,126629,AI 短视频制作 CLI：剧本 → 资产 → 分镜 → 视频 → 合成
+2026-10-02T13:28:28Z,pyhroff-ragsentry,1.1.0,,MIT,29561,Static scanner for injected instructions and retrieval-manipulation in RAG source documents.
+2026-10-02T13:28:30Z,pyhroff-mcpaudit,0.7.0,Pyhroff,MIT,56956,"Security scanner for MCP server tool surfaces -- tool poisoning, over-broad scope, rug-pulls, and tool-output confused-deputy testing."
+2026-10-02T13:28:42Z,memsentry,1.2.0,,MIT,32530,Static scanner for injected instructions in agent memory/context files.
+2026-10-02T13:29:07Z,odoo-addon-report-printed-flag,17.0.1.0.0.2,"Binhex Systems Solutions S.L, Odoo Community Association (OCA)",AGPL-3,44895,Configure reports that mark records as printed
+2026-10-02T13:32:25Z,aisec-suite,0.3.0,Pyhroff,MIT,63135,"One command that runs mcpaudit, memsentry and ragsentry on a repo and emits SARIF for GitHub code scanning."
+2026-10-02T13:39:22Z,quantcost,0.2.0,Vijay Kapse,MIT,267761,"Measure what quantization actually costs on your own hardware: speed, size, memory and quality."
+2026-10-02T13:46:04Z,approximate,0.1.0,"Fay Timen <fay.a.timen@gmail.com>, ""Thomas E. Ashton"" <t.ashton@ucl.ac.uk>",MIT,71627,"Composition-only mixed oxidation state estimation, charge balancing and capacity prediction for inorganic materials."
+2026-10-02T13:51:06Z,skilldrop-cli,0.16.3,,MIT OR Apache-2.0,2646099,"Portable AI-agent skills, measured against the agent without them. ADRs, PRDs, runbooks, decks and reviews, installable into Claude Code, Cursor, Kiro, and any IDE that takes custom instructions. One…"
+2026-10-02T13:51:22Z,libex-core,0.20.0,,MIT,573198,Audible metadata fetched and normalized into data shaped after AudiMeta's.
+2026-10-02T13:51:40Z,graphspace,0.1.0,Koushik Das,Apache-2.0,55461,Typed computational graphs with resource contracts and execution evidence
+2026-10-02T13:51:41Z,markov-kmeans,0.1.0,busimm3318,Apache-2.0,45060,Markov-K-means: stop K-means once only a few points still change cluster and settle them with the long-run law of the Markov chain of their label history
+2026-10-02T13:55:17Z,p034-gateway-sdk,0.1.0,,MIT,12903,Python SDK for the P-034 AI Gateway runtime API
+2026-10-02T13:55:37Z,upload-guard,0.1.0,Aaron-lab-c,MIT,154006,"Pure-Python upload security validator: magic-number MIME sniffing, extension consistency, SVG XSS sanitizing, zip-bomb and path-traversal protection. Zero system dependencies."
+2026-10-02T13:57:21Z,text-utils-vn,0.1.0,Nguyen Bao Duy,MIT,7573,Các hàm tiện ích xử lý văn bản tiếng Việt
+2026-10-02T14:00:28Z,anybrowser,0.1.0,AnyBrowser contributors,Apache-2.0,304370,"A pluggable browser-automation and agent runtime. Bring your own browser, transport, or model."
+2026-10-02T14:00:40Z,paperpress,0.2.0,Neal Caren <neal.caren@gmail.com>,MIT,178332,"Turn runs of old newspapers and magazines into a searchable, citable archive, a research corpus, and a website"
+2026-10-02T14:01:59Z,3d-base,0.1.0,Konstantinos Georgiou,MIT,27399,"Headless pictures of 3D meshes with correct occlusion and smooth shading, and a health check for exported STL files"
+2026-10-02T14:02:22Z,rety,0.1.0,,MIT,77970,A cross-checker diagnostic comparison tool for Python type checkers
+2026-10-02T14:02:48Z,metal-pjrt-core,0.0.0,The metal-pjrt-plugin Authors,Apache-2.0,1316,"Placeholder: The compiled library for metal-pjrt-plugin, a JAX PJRT plugin for Apple GPUs via Metal"
+2026-10-02T14:02:49Z,metal-pjrt-plugin,0.0.0,The metal-pjrt-plugin Authors,Apache-2.0,1334,"Placeholder: A JAX PJRT plugin for Apple GPUs via Metal (JAX platform ""mtl"")"
+2026-10-02T14:03:26Z,testtestertestest,0.1.0,,,2128,
+2026-10-02T14:05:23Z,multicz-go-deps-plugin,0.1.0,Chris <goabonga@pm.me>,MIT,75588,multicz plugin that claims Go components via go list -deps instead of hand-maintained paths globs.
+2026-10-02T14:07:27Z,pflm1,0.1.0,"Lennart Carstens-Behrens, Holger Fröhlich",Apache-2.0,53404,"Prior-fitted language model: a byte-level model that learns a language in context, trained on no natural language."
+2026-10-02T14:07:56Z,kcai-data-sampling-core,0.1.0,Safenai <support@safenai.io>,Apache-2.0,86047,"Generic sample-transformation interface, pydantic config schema and plugin registry for kcai data-sampling"
+2026-10-02T14:08:31Z,loopylist,1.0.0,,,1928,Natively patches standard Python lists with infinite indexing syntax.
+2026-10-02T14:14:54Z,surfs-up,1.0.0,"Luke Barnard <l.a.barnard@reading.ac.uk>, Mathew Owens <m.j.owens@reading.ac.uk>",,110347089,Space-weather Utilities for Research and Forecasting (SURF)
+2026-10-02T14:17:07Z,pynr,0.1.0,Rahul Kashyap <rahulkashyap@iitb.ac.in>,Apache-2.0,132519,"A teaching-oriented numerical relativity code in Python, structured like the Einstein Toolkit and accelerated with Numba."
+2026-10-02T14:18:28Z,simulsi,0.2.0,Yash Jindal,MIT,424761,"A general-purpose, reproducible simulation and scenario experimentation framework for Python."
+2026-10-02T14:18:39Z,aideforge,1.0a1,Ferenc Vajda <ferenc.vajda@gmail.com>,,28880,"An agent-based AI assistant framework with a CLI interface, extensible tools, and customizable commands."
