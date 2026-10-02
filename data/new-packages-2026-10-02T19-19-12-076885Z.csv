@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T18:18:01Z,wgdashboard,0.1.1,,Apache-2.0,71297,Async Python SDK for WGDashboard
+2026-10-02T18:21:34Z,romiseg,0.3.0,"Alienor Lahlou <alienor.lahlou@espci.org>, Peter Hanappe <peter.hanappe@sony.com>",LGPL-3.0-or-later,126699,Image multiclass semantic segmentation using CNN models trained on virtual plant images (PyTorch).
+2026-10-02T18:22:29Z,recalldb-ai,0.1.0,Arunmozhi Varman K <arunmozhi.varman@bloombig.agency>,MIT,99141,"A local-first, bitemporal hybrid persistent memory engine for autonomous AI agents."
+2026-10-02T18:27:20Z,jevretrieve,0.1.0,JevRetrieve Contributors,MIT,21532,"Adaptive evidence retrieval on top of any base retriever, powered by Jev."
+2026-10-02T18:29:04Z,kestle,0.0.1,,MIT,2964,Coming soon.
+2026-10-02T18:30:14Z,kestleai,0.0.1,,MIT,2987,Coming soon.
+2026-10-02T18:33:29Z,nazgarr,0.6.64,,GPL-3.0-only,2432437,"Media library, seeding folders, hardlinks, torrent clients and tracker uploads in one place."
+2026-10-02T18:36:21Z,aoe2-openings,0.1.0,Kaan Kızıltuğ,MIT,32336,"Read an Age of Empires II: DE replay and get each player's opening, age-up times, army and economy, with the rule behind every call."
+2026-10-02T18:38:09Z,homeassistant-devshell,0.1.0,,,39111,"Developer shell for Home Assistant, for REPL style access to running Home Assistant instances"
+2026-10-02T18:38:22Z,jepa-cpp,0.0.0,"Agentic Learning AI Lab, New York University",MIT,2097,"Name reserved for jepa-cpp. Python bindings for jepa.cpp, an inference runtime for action-conditioned JEPA world models with planners, on ggml."
+2026-10-02T18:38:23Z,jepa-agent,0.0.0,"Agentic Learning AI Lab, New York University",MIT,2061,Name reserved for jepa-agent. jepa-agent: training and planning with action-conditioned JEPA world models.
+2026-10-02T18:40:59Z,kubemind,0.1.1,KubeMind team,MIT,8388,Official Python client SDK for KubeMind AI Gateway and Governance Control Plane
+2026-10-02T18:42:55Z,pytest-verifier,0.8.0,Guillermo Gil,MIT,232923,A pytest plugin providing soft assertions for test verification
+2026-10-02T18:48:51Z,brooms,0.1.0,Gabriel Werneck,MIT,56694,Book University of Bath study rooms (bath.libcal.com) from Python.
+2026-10-02T18:51:15Z,frozendefaultdict,0.1.0,Adrien Suau,,11877,Python implementation of a frozen (immutable) default dictionary.
+2026-10-02T18:53:31Z,gpark,0.1.0,,AGPL-3.0-or-later,43266,"Hand-written PTX kernels for quant, ML, RL and agentic workloads"
+2026-10-02T18:53:40Z,fastercode-runner,0.1.0,,LicenseRef-Proprietary,52990958,Self-hosted runner for fastercode.ai
+2026-10-02T18:54:02Z,dataguard-ai,0.2.0,Aditya Ranjan,Apache-2.0,42631,"Open-source data quality and governance copilot: scan data, detect risks, explain findings, and generate fixes."
+2026-10-02T18:54:38Z,odoo-addon-l10n-br-fiscal-queue,16.0.1.0.0.5,"KMEE, Odoo Community Association (OCA)",AGPL-3,33866,Envio assincrono de documentos fiscais a SEFAZ via queue_job
+2026-10-02T18:56:31Z,norcaster-discover,0.2.0,"""Norcaster (Navego AB)"" <security@norcaster.com>",Apache-2.0,236688,"Find the AI systems a company already runs and plan their move behind the Norcaster gateway. Read-only, metadata-only, no runtime dependencies."
+2026-10-02T19:00:09Z,thonny-tn-school-tools,0.3.6,Oussama Msadak,MIT,59948,"Classroom extras, dark themes, and Python tools for regular Thonny"
+2026-10-02T19:04:32Z,cprima-pdh,0.0.1,Christian Prior-Mamulyan,Apache-2.0,16667,"Practical Digital Housekeeping: keep your digital life in order, starting with your password database."
+2026-10-02T19:04:49Z,pdf-io,0.1.0,Arthur Gouhier <ajgouhier@gmail.com>,BSD-3-Clause,1002304,"Create PDFs in pure Python: drawing APIs, SVG conversion and more"
+2026-10-02T19:10:03Z,rerust,0.1.0,jayluxferro,MIT,117950,Traffic interception for Rust-based mobile apps — reFlutter for rustls/reqwest cores
+2026-10-02T19:14:08Z,tree-sitter-sql-polyglot,0.1.1,relativelyunknown,MIT,76403319,Tree-sitter Grammar for SQL
+2026-10-02T19:15:31Z,tokenfin,0.2.0,,MIT,46973,TokenFin Python SDK — LLM cost attribution and FinOps
+2026-10-02T19:15:41Z,oryaml,0.1.0,,,29064373,"Fast, correct Python YAML library written in Rust"
+2026-10-02T19:17:26Z,laravel-cloud-logging,0.0.1,,MIT,60032,Laravel-style (Monolog JSON) logging for Python apps on Laravel Cloud
+2026-10-02T19:18:04Z,pyfds-evac,0.2.1,"Mohcine Chraibi <m.chraibi@fz-juelich.de>, Gregory Shouldice <gregoryshouldice@gmail.com>, Kristian…",MIT,2655154,Fire Dynamics Simulator (FDS) evacuation modeling with visibility analysis
+2026-10-02T19:18:35Z,claps,0.1.0,cemrehancavdar@hotmail.com,,2152,Dummy placeholder for claps
