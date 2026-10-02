@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T16:20:03Z,predictive-maintenance,0.1.0,Pranay Mahendrakar,MIT,72444,"Estimate how close equipment is to failure from sensor history, and train a failure model when you have labels"
+2026-10-02T16:20:58Z,document-memory,0.1.0,Pranay Mahendrakar,MIT,69043,"Give an application a persistent, searchable memory of documents and conversations"
+2026-10-02T16:23:15Z,relaymessenger,0.1.0,Companion Inc.,MIT,329983,"The Relay SDK for Python: send messages and read events with an agent's token, and join a Relay Call as a WebRTC participant with the calls extra."
+2026-10-02T16:24:54Z,relaymessenger-pipecat,0.1.0,Companion Inc.,MIT,240379,Relay Calls for Pipecat: a transport that joins a Relay Call as the agent.
+2026-10-02T16:26:45Z,degiro-mcp,0.1.0,Ivan Radulovic,MIT,114835,"Read-only MCP server for your DEGIRO account: portfolio, cash, trades, dividends."
+2026-10-02T16:27:13Z,aquashield-mcp,1.0.0,Momenul Ahmad <info@seosiri.com>,,14494,Autonomous freshwater surveillance MCP server mapping urban water bioassay telemetry directly into HL7 FHIR v4.0.1 DiagnosticReports
+2026-10-02T16:29:39Z,nex-python,0.1.0,Nerdstack,MIT,78469,"Nex for Python: errors and crashes with full context, dependency health (databases, Redis, RabbitMQ), service maps, runtime and job metrics, and releases."
+2026-10-02T16:30:13Z,voxeval,0.4.2,A. Kim,MIT,3526214,Evaluation harness for VoxTTS CPU inference workloads
+2026-10-02T16:31:54Z,databasic,0.1.0,ansipunk,MIT,7947,Database connection helper
+2026-10-02T16:32:02Z,subxt,1.0.0.post1,subxt contributors,MIT,71478,"End-to-end subtitle generation, translation, and multi-format export CLI"
+2026-10-02T16:33:08Z,serpkite,0.1.0,SerpKite <support@serpkite.com>,MIT,59488,"Official Python SDK for SerpKite, the Google search API built for AI agents: clean JSON or Markdown results."
+2026-10-02T16:34:40Z,chemdatacheck,0.1.0,Alessio Prunotto,MIT,81798,"Quality checks for molecular datasets: integrity, duplicates, leakage, ML readiness, and chemical space"
+2026-10-02T16:35:02Z,langchain-serpkite,0.1.0,SerpKite <support@serpkite.com>,MIT,239688,"LangChain integration for SerpKite, the Google search API built for AI agents: tools, a retriever and a webpage loader."
+2026-10-02T16:35:29Z,sypy-engine-beginner,0.1.0,Methuka Koralage,"MIT License Copyright (c) 2026 Methuka Permission is hereby granted, free of charge, to any person…",66826,A beginner-friendly 2D game engine built with Python and Pygame
+2026-10-02T16:37:31Z,testsuit,0.1.1,Laurent Millet-Lacombe,Apache-2.0,487117,Toolbox for preparing and analysing tests data
+2026-10-02T16:38:30Z,pakta,0.0.1,,GPL-3.0-or-later,27013,A package transfer analytics tool
+2026-10-02T16:38:42Z,openstax-llm,0.1.0,Michael Navazhylau <mikipux7@gmail.com>,MIT,31860,"LLM dataset preparation, pedagogical semantic chunking, and RAG ingestion from OpenStax textbooks"
+2026-10-02T16:38:45Z,openstax-llm-mcp,0.1.0,Michael Navazhylau <mikipux7@gmail.com>,MIT,23865,Model Context Protocol server exposing openstax-llm pedagogical textbook chunking
+2026-10-02T16:41:22Z,fastocr-sdk,0.1.0,FastOCR <support@fastocr.org>,MIT,60594,Python client for the FastOCR Document OCR API: extract text and searchable PDFs from scanned PDFs.
+2026-10-02T16:42:13Z,kmhelpers,0.7.0,Sébastien BELLENOUS <kmhelpers@groupes.renater.fr>,GPL-3.0-only,339793,"A Python toolkit for managing, compressing, and querying indexes with kmindex"
+2026-10-02T16:43:45Z,padeploy,0.0.1,toonarmycaptain,MIT,4224,Deploy and manage PythonAnywhere web apps from your project repo
+2026-10-02T16:44:10Z,geo-score,1.5.0,Jianrun Tech <hello@jianruntech.com>,MIT,307437,"Can AI engines cite your site, and do they? A free 0-100 readiness score against an open GEO rubric, plus citation checks through the AI engines' APIs with your own keys."
+2026-10-02T16:47:22Z,normalizer-tr,0.3.0,,Apache-2.0,20374542,Typed Python binding for the bounded Rust Turkish text normalizer
+2026-10-02T16:49:15Z,relaymessenger-livekit,0.1.0,Companion Inc.,MIT,276969,Relay WebRTC audio and video transport and LiveKit Agents integration for Python.
+2026-10-02T16:51:14Z,slopfence,0.1.0,syedmuhdahmad,MIT,72179,"A fast, deterministic quality gate for AI-assisted code: catches hallucinated packages, fake tests, placeholder stubs and chat leftovers."
+2026-10-02T16:52:55Z,bangla-pdf-decoder,0.1.0,Sowmik <sowmik@example.com>,MIT,27582,"High-speed decoder for legacy & hybrid Bengali PDF font encodings (VOXLMY+Bangla, Election Commission & BD Govt PDFs) into clean Unicode UTF-8."
+2026-10-02T16:54:04Z,dock-api,0.1.0,,,45921,Configure local projects and provision them with Docker
+2026-10-02T16:54:34Z,chronicle-ds,0.1.0,Benedict Chidiebere <chidieberebenedict48@gmail.com>,MIT,42209,The web scraping library that remembers — DS-native data acquisition with temporal versioning and drift detection.
+2026-10-02T16:55:03Z,langchain-flexai,0.1.0,FlexAI <sundar.bala@flex.ai>,MIT,17190,An integration package connecting FlexAI and LangChain
+2026-10-02T16:55:46Z,featuregraph-smoothing-core,1.0.0,Nazia Habib,MIT,35012,"Minimal, frozen subset of FeatureGraph's state-detection code, extracted to support reproducibility of the smoothing-paper results."
+2026-10-02T16:58:16Z,pdfcraft-dev,1.4.0,PDFCraft,"MIT License Copyright (c) 2026 Gaurav Singh Permission is hereby granted, free of charge, to any pe…",32071,"HTML to PDF, and PDF to structured JSON, in one call. The official PDFCraft SDK."
+2026-10-02T16:59:41Z,erius-phone-mcp,0.1.0,ERIUS <info@eriusphone.com>,MIT,28486,"MCP server that gives your AI agent a real Android phone (ERIUS PHONE): read the screen, tap, type, launch apps, read crash logs."
+2026-10-02T17:00:47Z,sofatui,0.1.0,,MIT,173035,A terminal remote control for the Apple TV that can also stream local files
+2026-10-02T17:04:16Z,odoo-addon-l10n-br-nfse-nacional,16.0.1.0.0.35,"Akretion, KMEE, Odoo Community Association (OCA)",AGPL-3,168920,Brazilian Electronic Invoice for Services (National Standard)
+2026-10-02T17:05:20Z,smalljudge,0.0.1,Ben Hall <ben@benhall.me.uk>,LicenseRef-Proprietary,3099,SmallJudge CLI
+2026-10-02T17:05:43Z,nstream,1.43.0,Gianluca Mazza <info@gianlucamazza.it>,MIT,1171103,Native terminal-first Stremio-like client: Cinemeta + Torrentio/debrid or P2P + mpv.
+2026-10-02T17:05:51Z,smalljudges,0.0.1,Ben Hall <ben@benhall.me.uk>,LicenseRef-Proprietary,2744,Use smalljudge instead
+2026-10-02T17:07:35Z,create-caspian-app,0.0.1,Jefferson Abraham Omier <thesteelninjacode@gmail.com>,MIT,1366642,Create Caspian apps: a high-performance Python web framework (FastAPI + PulsePoint).
+2026-10-02T17:08:08Z,martpy,0.1.0,"Adrien Manlay <a.manlay@brgm.fr>, Jean-Pierre Vergnes <jp.vergnes@brgm.fr>, Thibault Hallouin <t.ha…","GNU GENERAL PUBLIC LICENSE martpy (C) is released by BRGM, French Geological Survey You may use, di…",4111531,python package for Marthe Hydrogeological model pre/post processing
+2026-10-02T17:10:13Z,qemu-tool,1.4.0,Stephen Bates,MIT,173244,CLI tool for running and generating QEMU VMs
+2026-10-02T17:10:27Z,noise-exp,0.0.2,Brad Buran <buran@ohsu.edu>,"MIT License Copyright (c) 2022 CFTS development team Permission is hereby granted, free of charge,…",92185,Noise exposure using psiexperiment
+2026-10-02T17:10:50Z,kasalv2,2.0.0,"Yulin Wang <yulinwang@seu.edu.cn>, Mengxin Zhang <mx.zhang@seu.edu.cn>",PolyForm-Noncommercial-1.0.0 AND MIT,12853364,Automatic 3D rotational symmetry classification and axis localization
+2026-10-02T17:11:06Z,spec-agents-core,0.5.1,Marcio Nicolau,MIT,219440,"Spec-driven pipelines and hierarchical agents (PydanticAI, DSPy, CrewAI, LangChain) over a LiteLLM proxy"
+2026-10-02T17:11:10Z,luar,0.2.0,Alexandre Alves <alexxalvess@gmail.com>,MIT,56783,LUAR (Local Utility for Automated Reviews): catalog spreadsheet rows with a local decision model.
+2026-10-02T17:12:10Z,spec-agents-statistics,0.2.1,Marcio Nicolau,MIT,61545,"Statistics domain pack for agent-fabric: summary, linear_model, anova, time_series, pca, clustering"
+2026-10-02T17:12:44Z,spec-agents-lakehouse,0.2.1,Marcio Nicolau,MIT,62708,"Lakehouse domain pack for agent-fabric: source_inspect, medallion_plan, airflow_dag_render, dag_check"
+2026-10-02T17:14:32Z,agenttrace-vcr,0.1.0,Tanmay Singh,MIT,117959,"Record AI-agent runs, replay them against a new version with every tool answered from the recording, and get a PASS/FAIL verdict."
+2026-10-02T17:18:02Z,empower-personal-dashboard,0.1.0,Don Petry,MIT,124102,"Python client and CLI for Empower Personal Dashboard (formerly Personal Capital) with 2FA, session persistence, holdings, and transactions."
