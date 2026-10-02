@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T10:19:40Z,truerecord-sdk,0.1.2,"""Exploring Data B.V."" <support@truerecord.eu>",MIT,17538,Python SDK for the TrueRecord LLM Governance Platform
+2026-10-02T10:22:46Z,flexcommerce,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,12198,"FlexCommerce: a complete, modular e-commerce and marketplace backend for Django (Nigeria/Africa ready)"
+2026-10-02T10:22:48Z,flexcommerce-catalog,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,40130,"Categories, brands, products with variants and images, search, filters and facets"
+2026-10-02T10:22:49Z,flexcommerce-pricing,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,19918,"Tax categories, VAT calculation and authoritative price quotes"
+2026-10-02T10:25:29Z,azet-guard,0.1.0,AZET LLC <hello@azet.io>,Apache-2.0,40937,"Runtime guardrails for AI coding agents: blocks dangerous commands, keeps secrets out of the model, and catches unverified 'tests pass' claims. Claude Code hooks, no dependencies."
+2026-10-02T10:30:00Z,docugen-library,0.1.0,DocuGen Team <maintainers@docugen.org>,Apache-2.0,160584,"Production-grade, local-first document intelligence and generation framework"
+2026-10-02T10:34:05Z,scx-picklerick,0.0.1,btraven <ben.uzh@proton.me>,GPL-3.0-only,2441,"Python bindings for SCX, a single-cell format conversion engine (placeholder; first real release soon)"
+2026-10-02T10:34:45Z,flexcommerce-inventory,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,35319,"Concurrency-safe stock reservations, movements, CSV import and back-in-stock alerts"
+2026-10-02T10:34:47Z,flexcommerce-discounts,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,36666,"Coupons, automatic promotions and flash sales with atomic usage limits"
+2026-10-02T10:34:52Z,flexcommerce-core,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,77192,"Foundation for FlexCommerce: settings, events, hooks, signed webhooks, jobs, audit log and address book"
+2026-10-02T10:36:41Z,simbricks-imagebuild-packer,0.6.0,Team SimBricks,,20785,"SimBricks disk image builds in a booted guest with packer, and extraction of the boot artifacts simulators need"
+2026-10-02T10:42:45Z,omnicommerce,0.1.1,,MIT,57597,Python SDK for the OmniCommerce API. Generated from the public OpenAPI spec.
+2026-10-02T10:43:37Z,flexcommerce-shipping,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,30209,"Nigerian shipping zones, rates (flat, per item, weight), pickup stations and ETAs"
+2026-10-02T10:43:40Z,flexcommerce-orders,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,58502,"Order lifecycle: payments, partial shipments, tracking, returns and refunds"
+2026-10-02T10:43:44Z,flexcommerce-cart,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,41437,"Session / token / user carts with live pricing, coupons, limits and login merge"
+2026-10-02T10:45:08Z,funblog,0.6.0,"牛哥 <niuliangtao@qq.com>, farfarfun <farfarfun@qq.com>",MIT,15974,本地笔记（Markdown/Jupyter Notebook）扫描工具：按目录结构建立分类-文章树并记录到本地 SQLite，再通过 XML-RPC 批量发布/更新到 Typecho 博客
+2026-10-02T10:46:48Z,flatmark,1.0.0,,,44738,A client library for accessing flatmark
+2026-10-02T10:47:14Z,invowerk,1.0.0,,,96103,A client library for accessing invowerk
+2026-10-02T10:47:35Z,pdfrender,1.0.0,,,27423,A client library for accessing pdfrender
+2026-10-02T10:49:46Z,flexcommerce-payments,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,47636,"Paystack, Flutterwave, bank transfer, pay on delivery and customer wallet"
+2026-10-02T10:49:48Z,flexcommerce-checkout,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,26016,"Atomic, idempotent checkout tying cart, stock, discounts, shipping, orders and payments"
+2026-10-02T10:49:55Z,flexcommerce-engagement,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,40545,"Wishlists, reviews and ratings, product Q&A, recently viewed and trending searches"
+2026-10-02T10:51:03Z,fracmem,0.2.0,Adithyan Lalu <adithyanlalu@gmail.com>,MIT,35320,Compressed fractional-order derivative filters with a certified offline error bound and data-refined weights
+2026-10-02T10:52:15Z,stochlift,0.2.0,Yuqun Zhou,MIT,131072,"Turn a deterministic optimization model into a verified two-stage stochastic program, and measure whether it is worth it."
+2026-10-02T10:55:39Z,ovos-routing-judge,0.0.1,Andreas Lorensen <andlo@outlook.dk>,Apache-2.0,29768,"Who took an utterance, and was it the right skill? One routing judge for OVOS golden-utterance tests."
+2026-10-02T10:57:23Z,flexcommerce-marketplace,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,34912,"Multi-vendor marketplace: sellers, order splitting, commissions and payouts"
+2026-10-02T10:57:27Z,flexcommerce-notifications,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,57520,"Signal-driven email, SMS, push and in-app notifications with an outbox and retries"
+2026-10-02T10:57:32Z,flexcommerce-analytics,1.0.0,NzeStan <nnamaniifeanyi10@gmail.com>,MIT,37993,"Revenue, product, cart, coupon, vendor and customer reports with CSV export"
+2026-10-02T10:57:32Z,inkgrid,0.1.0,Abdul-Muizz Anwar,MIT,294735,"Exact tables and text from born-digital PDFs, read from the text layer and drawn rules, and verified by a second PDF engine."
+2026-10-02T10:58:19Z,ankiforge,0.2.0,,MIT,22975841,Python Product API for Anki Forge
+2026-10-02T11:02:19Z,pyexco,0.1.0,"Gal Stanovnik <gal.stanovnik@fs.uni-lj.si>, Klemen Zaletelj <klemen.zaletelj@fs.uni-lj.si>, Janko S…",MIT,33487,"Excitation control for closed-loop random vibration testing: the PSD update rule, and nothing else"
+2026-10-02T11:03:07Z,unlockbridge,0.0.1,ThreeI,MIT,26512,"Give any browser AI safe, human-approved access to your local files. No API keys, no cloud, no copied prompts."
+2026-10-02T11:03:57Z,wendao,0.1.0,Zeyu Deng,GPL-3.0-or-later,177502,An AI learning companion: turn course notes into an interactive knowledge graph and a course-grounded AI tutor
+2026-10-02T11:04:43Z,docgate-llm,0.0.1,ThreeI,MIT,5795,Give developers using browser-based LLMs policy-gated access to current technical documentation.
+2026-10-02T11:05:35Z,zencleaner,1.0.0,ZenCleaner,MIT,102054,ZenCleaner - type 'zencleaner' in your terminal to open a localhost web UI that actually cleans your PC.
+2026-10-02T11:06:15Z,t-boost,0.6.0,,Apache-2.0,12388117,An oblivious gradient-boosting machine that is exactly decomposable into fANOVA rating tables.
+2026-10-02T11:06:45Z,thereabouts,0.0.1,brightertiger,,2525,"Offline location lookup: coordinates and other location hints to city, state and country. Placeholder release; the library is under development."
+2026-10-02T11:10:25Z,reconnectchina,9.0.0,ReConnect China Contributors,MIT-0,114064,The Python client for the ReConnect China API
+2026-10-02T11:10:35Z,touchlab-slip-model,1.0.0,Touchlab Limited <abi@touchlab.io>,LicenseRef-Touchlab-Proprietary,33503574,"Slip detection for Touchlab fingertip sensors: license activation and live touch/slip detection, no ROS2 required"
+2026-10-02T11:13:10Z,langgraph-minnsdb,0.1.0,Minns,MIT,30668,"LangGraph long-term memory on MinnsDB: a store that keeps every version, and graph memory that knows which facts are current."
+2026-10-02T11:13:44Z,tutor-contrib-keycloak,1.0.0,Emad Rad <emad.ehsanrad@gmail.com>,AGPL-3.0-only,41732,keycloak plugin for Tutor
+2026-10-02T11:17:27Z,polyglot-bug-hunter-x,1.0.1,PolyglotBugHunter-X contributors,MIT,253464,"Multimodal AI agent that sees, hears and reads a website while hunting bugs"
+2026-10-02T11:18:14Z,tomoz,0.1.0,ZeroXShot,Apache-2.0,2937785,Learned lossless compression for medical image volumes
+2026-10-02T11:18:24Z,open-airec,0.0.2,Stavros Korokithakis,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",145647,"Evidence-driven, experimental AIREC recorder client"
+2026-10-02T11:18:34Z,claude-ops,0.1.0,Konstantinos Georgiou,MIT,84369,"Tools for running many Claude Code chats on one machine: find any chat, send a message into a running one, start chats in tmux, wake a chat from a scheduled job, and a few hooks"
