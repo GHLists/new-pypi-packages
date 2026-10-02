@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T07:37:57Z,oxp-ontology,1.0.0,Outshift Open <oss@cisco.com>,Apache-2.0,93427,The MAS execution ontology for the Observe and eXplain Platform.
+2026-10-02T08:22:47Z,pyhurray,0.1.0,,MIT OR Apache-2.0,5223657,Python bindings for the Hurray tensor interchange format
+2026-10-02T08:25:38Z,streptocad,1.0.0,"Technical University of Denmark, DTU",MIT,110889,An open-source software toolbox supporting genome engineering workflows in streptomycetes
+2026-10-02T08:26:42Z,django-bale-payments,0.1.0,Fineq,MIT,61251,Native Bale Wallet payments for Django.
+2026-10-02T08:30:36Z,pptd-utils,2026.10.2.dev3,binaryify,MIT,18086318,Offline PPTD v2 toolkit for converting editable presentations to PowerPoint
+2026-10-02T08:31:25Z,opensafety,0.0.1,OpenSafety Team,Apache-2.0,5025,"Open-source Pharmacovigilance AI for ADR extraction, MedDRA coding, and listedness assessment"
+2026-10-02T08:36:26Z,hgvs-weaver-data,0.1.1,Tobias Sargeant <toby.sargeant@populationgenomics.org.au>,MIT,300786,"Reference data for the hgvs-weaver HGVS engine: a builder that cuts RefSeq and Ensembl releases into gene bundles, and the DataProvider that reads them."
+2026-10-02T08:37:52Z,embodify-mcp,0.1.0a1,Yida Yang,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",341385,Embodify MCP server: robot observation and control tools for the agent you already use
+2026-10-02T08:39:34Z,fibonacci-tdd-kata-viethung103,0.1.0,viethung <viethungpc103@gmail.com>,MIT,75430,"A TDD Kata: Fibonacci, from notebook exploration to a tested, pubilshed package"
+2026-10-02T08:41:52Z,pipecat-mirai,0.1.0,Sona Labs Pvt Ltd <sneh.mehta@miraiminds.co>,BSD-2-Clause,29659,"Mirai text-to-speech (Hindi, Hinglish, Gujarati) for Pipecat voice agents"
+2026-10-02T08:42:49Z,nerova-sdk,0.3.0b1,Nerova Systems,MIT,302324,Server-side Python client for the Nerova stable tenant-v1 API.
+2026-10-02T08:43:56Z,melotts-mblt,0.0.0,"""Mobilint Inc."" <tech-support@mobilint.com>",BSD-3-Clause AND MIT,4204406,MeloTTS text-to-speech on Mobilint NPUs: English and Korean speech synthesis with a CLI and Gradio WebUI
+2026-10-02T08:47:51Z,pretix-event-analytics,2.2.1,Hexadexa,Apache Software License,523108,"Analytics suite for Pretix: sales against previous editions, first-timers and returning people, audience, tickets and check-in — without storing personal data"
+2026-10-02T08:47:58Z,smriti-kaal-mcp,0.1.0,Smriti <spy9191@gmail.com>,MIT,47969,"Model Context Protocol server for Smriti — Temporal AI Memory for Claude, Cursor, VS Code, and Windsurf"
+2026-10-02T08:49:33Z,lss-serial-ports,0.1.2,,,8851,List serial ports and filter by keyword.
+2026-10-02T08:50:13Z,aiorentman,0.2.1,Daan Vervacke,MIT,121265,Unofficial asynchronous Python library to interact with the Rentman API
+2026-10-02T08:51:10Z,aiofarmad,0.1.0,Daan Vervacke,MIT,49006,Unofficial asynchronous Python library to interact with the Mijn Farmad Apotheek API
+2026-10-02T08:56:45Z,saguin,0.0.1,Italo Nesi,Apache-2.0,2700,Placeholder for the Sagüin Python SDK. The first release is coming soon.
+2026-10-02T08:58:41Z,best-linear-approximation,0.1.0,merijn.floren@gmail.com,MIT,63190,Estimate nonparametric best linear approximations of nonlinear systems
+2026-10-02T08:59:17Z,planttrend,0.1.0,planttrend contributors,MIT,62032,Industrial plotting helpers for time-series and process analytics.
+2026-10-02T09:00:03Z,seed-ai,0.0.1,,,2554,"Seed AI: Lifelong memory and tools for AI agents, by Seed Frontier. Name reserved, first release coming."
+2026-10-02T09:00:06Z,frontier-ai,0.0.1,,,2617,"Frontier AI: Tools and research for long-lived AI agents, by Seed Frontier. Name reserved, first release coming."
+2026-10-02T09:02:40Z,rewire-genomics-mcp,0.1.0,Tim Richardson,MIT,920345,MCP server for bounded genomic data retrieval and versioned reference evidence
+2026-10-02T09:06:53Z,pam-glider-viz,1.0.0,,"MIT License Copyright (c) 2026 Aaron Permission is hereby granted, free of charge, to any person ob…",112682,A Streamlit app for exploring PAM glider audio and LTSA data
+2026-10-02T09:07:35Z,scoped-correspondence,0.42.0,Johann Römer,GPL-3.0-or-later,1089241,"Formal correspondence contracts between mathematical models, with an independently verified library spanning dynamical systems, information theory (directed information / information flow), thermodyn…"
+2026-10-02T09:08:21Z,yatmo,1.0.0,Yatmo <support@yatmo.com>,MIT,35695,"Real estate maps, points of interest and neighbourhood data: the official Python client for the Yatmo API (neighbourhood text as HTML for SEO, nearest places with travel times, scores, listing enrich…"
+2026-10-02T09:10:38Z,fizzbuzz-tdd-kata-jousset,0.1.0,Tom Jousset,,3382,a fizzbuzz test project
+2026-10-02T09:11:01Z,onbgm,0.1.0,anelikes <contact@onbgm.com>,MIT,283325,"Instrumental background music written note by note by AI agents: a text score in, a mixed and mastered track out"
+2026-10-02T09:12:22Z,femto-editor,0.0.1,Femto Contributors,"MIT License Copyright (c) 2024 Femto Contributors Permission is hereby granted, free of charge, to…",30636,Femto - a tiny nano-style terminal text editor in pure Python
+2026-10-02T09:12:59Z,forge-orchestrator,0.1.0b1,Forge Contributors,MIT,469773,CLI-first multi-agent orchestration framework
+2026-10-02T09:13:44Z,robotics-acceptance-harness,0.19.0,mmkolpakov,MIT,271604,Attach-only acceptance observer for validated robotics executions.
+2026-10-02T09:14:29Z,proofpack,0.1.0.dev1,Global Phoenix Solutions Ltd,Proprietary,408702,"ProofPack engine: validated ingest, declarations and statistical evidence packs for AI-enabled medical devices"
+2026-10-02T09:17:28Z,pyronaut,0.0.8,,,75766473,Pyronaut v2 SDK orchestrator
