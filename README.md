@@ -8,27 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 23:19 UTC
+## Latest list — 2026-10-02 00:21 UTC
 
-New packages created between 2026-10-01 22:19 UTC and 2026-10-01 23:19 UTC.
+New packages created between 2026-10-01 23:19 UTC and 2026-10-02 00:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-01T23-19-10-517461Z.csv)
+[Full CSV](data/new-packages-2026-10-02T00-21-32-039425Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-01 21:16:10 | [livekit-plugins-microsoft-ai](https://pypi.org/project/livekit-plugins-microsoft-ai/) | 1.8.4 | LiveKit <hello@livekit.io> | 61.6 kB | Microsoft AI speech-to-text and text-to-speech plugin for LiveKit Agents |
-| 2026-10-01 22:32:17 | [decoy-kit-free](https://pypi.org/project/decoy-kit-free/) | 0.1.0 |  | 29.8 kB | A free honeytoken SSH key trap - catches secret scanners and attackers after a… |
-| 2026-10-01 22:33:29 | [browserman](https://pypi.org/project/browserman/) | 0.1.0a1 | Ronie Martinez <ronmarti18@gm… | 377.4 kB | Python bindings for browserman, a cross-platform browser detection and launcher… |
-| 2026-10-01 22:34:47 | [jrp](https://pypi.org/project/jrp/) | 0.1.0 | Tatsuya Shimomoto | 461.1 kB | A daily research note per research line: your questions steer the search, TypeS… |
-| 2026-10-01 22:38:49 | [markdown2epub](https://pypi.org/project/markdown2epub/) | 0.1.0 | Vojtěch Krupička <voker@email… | 387.9 kB | A command-line tool that builds valid EPUB publications from Markdown chapters,… |
-| 2026-10-01 22:39:18 | [gpacalculator3250](https://pypi.org/project/gpacalculator3250/) | 0.0.1 | Pete Dives <pdives@msudenver.… | 4.5 kB | Computes credit-weighted GPA from a list of grade/credit entries. |
-| 2026-10-01 22:42:39 | [haql-qc](https://pypi.org/project/haql-qc/) | 0.4.1 | haql | 181.2 kB | Local-first production data QC for reservoir engineering. Deterministic rules,… |
-| 2026-10-01 22:53:29 | [mlspace-plugin](https://pypi.org/project/mlspace-plugin/) | 0.2.1 |  | 448.9 kB | Cloud.ru MLSpace plugin: MCP server, agent skills and setup |
-| 2026-10-01 22:55:21 | [afromag-ama-citation-tool](https://pypi.org/project/afromag-ama-citation-tool/) | 1.0.2 | Afromag | 6.1 kB | An open-source AMA 11th edition citation generator by Afromag. |
-| 2026-10-01 23:01:19 | [edma-core](https://pypi.org/project/edma-core/) | 0.1.0 | SolignusCorp | 275.0 kB | EDMA — Evidence-Driven Model Architecture: a frozen, evidence-first cognitive r… |
-| 2026-10-01 23:05:00 | [silo-python-sdk](https://pypi.org/project/silo-python-sdk/) | 0.1.0 |  | 61.5 kB | Unofficial Silo client preserving the MinIO Python SDK API |
-| 2026-10-01 23:06:37 | [python-bidi-android](https://pypi.org/project/python-bidi-android/) | 0.6.11 | Meir Kriheli <mkriheli@gmail.… | 327.2 kB | Python Bidi layout wrapping the Rust crate unicode-bidi |
-| 2026-10-01 23:07:00 | [suppuo](https://pypi.org/project/suppuo/) | 0.4.0 | Forjio <support@forjio.com> | 29.0 kB | Suppuo SDK — typed Python client for the suppuo.com REST API. Sister to the JS… |
-| 2026-10-01 23:07:13 | [serront](https://pypi.org/project/serront/) | 0.3.0 | Forjio <support@forjio.com> | 42.9 kB | Serront SDK — typed Python client for the serront.com REST API. Sister to the J… |
-| 2026-10-01 23:09:10 | [gpa-calculator-baset](https://pypi.org/project/gpa-calculator-baset/) | 0.0.1 | Abdalbaset Taher <ataher@msud… | 3.3 kB | Credit-weighted GPA calculator |
-| 2026-10-01 23:15:37 | [boonta](https://pypi.org/project/boonta/) | 0.0.1 |  | 1.3 kB |  |
+| 2026-10-01 23:19:31 | [hellopablo](https://pypi.org/project/hellopablo/) | 0.1.0 | Pablo <chinp-tool@proton.me> | 4.3 kB | Простая библиотека, которая здоровается |
+| 2026-10-01 23:23:28 | [wont](https://pypi.org/project/wont/) | 0.1.0 |  | 682.5 kB | Wont: observe repeated AI-agent work and find what is reusable |
+| 2026-10-01 23:23:44 | [rust-py-test](https://pypi.org/project/rust-py-test/) | 0.1.0 |  | 212.4 kB | Tiny Python package with a Rust native extension |
+| 2026-10-01 23:26:33 | [censusai](https://pypi.org/project/censusai/) | 0.0.1 |  | 4.6 kB | Model intelligence for AI workflows (coming soon) |
+| 2026-10-01 23:28:01 | [vizo](https://pypi.org/project/vizo/) | 0.0.2 | VIZO | 73.5 kB | VIZO command-line tool: download licensed datasets from the VIZO platform |
+| 2026-10-01 23:31:23 | [pyairseekers](https://pypi.org/project/pyairseekers/) | 0.1.0 | Michael Arthur | 151.0 kB | Async Python client for the Airseekers Tron robotic mower: cloud API, local Fox… |
+| 2026-10-01 23:31:56 | [scrapkinopoiskk](https://pypi.org/project/scrapkinopoiskk/) | 0.1.0 | Pablo <chinp-tool@proton.me> | 11.9 kB | библиотека для поиска фильмов и получения ссылок на плееры (Kinopoisk unofficia… |
+| 2026-10-01 23:41:30 | [qtvscode](https://pypi.org/project/qtvscode/) | 0.1.0 | qtvscode | 31.7 kB | 将 VS Code Web 工作台嵌入 PySide6/PyQt6 的通用代码编辑器控件 |
+| 2026-10-01 23:42:28 | [plumbify](https://pypi.org/project/plumbify/) | 0.2.0 | Naveenraj Kamalakannan | 153.7 kB | Give an open LLM a fast, calibrated decision path and serve it natively with vL… |
+| 2026-10-01 23:45:10 | [magehand](https://pypi.org/project/magehand/) | 0.1.1 |  | 29.9 kB | The developer CLI for building apps on davidlarrimore's homelab |
+| 2026-10-01 23:48:39 | [pyrig-weekly-health-check](https://pypi.org/project/pyrig-weekly-health-check/) | 1.0.0 | Winipedia | 12.4 kB | A pyrig plugin that runs the health check weekly. |
+| 2026-10-01 23:50:35 | [pelican-i18n-feeds](https://pypi.org/project/pelican-i18n-feeds/) | 0.2.0 | Wei Lee | 22.3 kB | Pelican plugin that writes Atom feeds listing the articles of every i18n_subsit… |
+| 2026-10-01 23:52:14 | [shellsim-c-toolchain](https://pypi.org/project/shellsim-c-toolchain/) | 0.1.25 | The shellsim authors | 5.2 MB | Pinned C-to-Wasm compiler and WASI sysroot for shellsim guests |
+| 2026-10-01 23:54:30 | [trading-unam](https://pypi.org/project/trading-unam/) | 0.2.0 | Equipo Python FE <alfredo.olg… | 51.6 kB | Trading UNAM: Paquete de optimización de portafolios, analítica técnica y gesti… |
+| 2026-10-01 23:59:21 | [dcp-cli](https://pypi.org/project/dcp-cli/) | 0.1.0 | ejhons <ejhons.mail@gmail.com> | 87.6 kB | Provides the command-line interface for building documents with **DocComposer** |
+| 2026-10-02 00:01:44 | [wefunder](https://pypi.org/project/wefunder/) | 0.1.0b0 | Wefunder <api@wefunder.com> | 849.3 kB | Official Python SDK for the Wefunder API (beta) |
+| 2026-10-02 00:03:35 | [kapela](https://pypi.org/project/kapela/) | 0.0.1 |  | 3.0 kB | Kapela — a composable agents platform. This package reserves the name; the plat… |
+| 2026-10-02 00:04:11 | [universal-sandbox-cli](https://pypi.org/project/universal-sandbox-cli/) | 0.1.1 |  | 6.0 kB | Ephemeral polyglot sandbox pre-configured for AI agents. |
+| 2026-10-02 00:12:59 | [ZedScripts](https://pypi.org/project/ZedScripts/) | 0.0.2 | SimKDT | 110.5 kB |  |
+| 2026-10-02 00:13:58 | [kingfisher-secret-scanner](https://pypi.org/project/kingfisher-secret-scanner/) | 1.0.1 |  | 75.9 MB | Fast secret scanning, credential validation, and revocation for Python, powered… |
+| 2026-10-02 00:16:03 | [envarlive](https://pypi.org/project/envarlive/) | 0.1.0a2 | EnvarAI contributors | 4.6 MB | Live voice, avatars and consented visual inputs for user-operated agents |

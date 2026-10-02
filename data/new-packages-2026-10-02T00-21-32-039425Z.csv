@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-01T23:19:31Z,hellopablo,0.1.0,Pablo <chinp-tool@proton.me>,MIT,4287,"Простая библиотека, которая здоровается"
+2026-10-01T23:23:28Z,wont,0.1.0,,Apache-2.0,682515,Wont: observe repeated AI-agent work and find what is reusable
+2026-10-01T23:23:44Z,rust-py-test,0.1.0,,,212415,Tiny Python package with a Rust native extension
+2026-10-01T23:26:33Z,censusai,0.0.1,,,4568,Model intelligence for AI workflows (coming soon)
+2026-10-01T23:28:01Z,vizo,0.0.2,VIZO,LicenseRef-Proprietary,73463,VIZO command-line tool: download licensed datasets from the VIZO platform
+2026-10-01T23:31:23Z,pyairseekers,0.1.0,Michael Arthur,MIT,151027,"Async Python client for the Airseekers Tron robotic mower: cloud API, local Foxglove bridge, live video"
+2026-10-01T23:31:56Z,scrapkinopoiskk,0.1.0,Pablo <chinp-tool@proton.me>,MIT,11866,библиотека для поиска фильмов и получения ссылок на плееры (Kinopoisk unofficial + fbphdplay)
+2026-10-01T23:41:30Z,qtvscode,0.1.0,qtvscode,MIT,31687,将 VS Code Web 工作台嵌入 PySide6/PyQt6 的通用代码编辑器控件
+2026-10-01T23:42:28Z,plumbify,0.2.0,Naveenraj Kamalakannan,Apache-2.0,153744,"Give an open LLM a fast, calibrated decision path and serve it natively with vLLM."
+2026-10-01T23:45:10Z,magehand,0.1.1,,MIT,29923,The developer CLI for building apps on davidlarrimore's homelab
+2026-10-01T23:48:39Z,pyrig-weekly-health-check,1.0.0,Winipedia,MIT,12361,A pyrig plugin that runs the health check weekly.
+2026-10-01T23:50:35Z,pelican-i18n-feeds,0.2.0,Wei Lee,MIT,22346,Pelican plugin that writes Atom feeds listing the articles of every i18n_subsites language.
+2026-10-01T23:52:14Z,shellsim-c-toolchain,0.1.25,The shellsim authors,Apache-2.0 AND LGPL-2.1-only AND MIT AND BSD-2-Clause AND BSD-3-Clause,5227102,Pinned C-to-Wasm compiler and WASI sysroot for shellsim guests
+2026-10-01T23:54:30Z,trading-unam,0.2.0,Equipo Python FE <alfredo.olguin@economia.unam.mx>,MIT,51579,"Trading UNAM: Paquete de optimización de portafolios, analítica técnica y gestión de riesgo financiero."
+2026-10-01T23:59:21Z,dcp-cli,0.1.0,ejhons <ejhons.mail@gmail.com>,,87616,Provides the command-line interface for building documents with **DocComposer**
+2026-10-02T00:01:44Z,wefunder,0.1.0b0,Wefunder <api@wefunder.com>,MIT,849328,Official Python SDK for the Wefunder API (beta)
+2026-10-02T00:03:35Z,kapela,0.0.1,,Proprietary,2985,Kapela — a composable agents platform. This package reserves the name; the platform ships here soon.
+2026-10-02T00:04:11Z,universal-sandbox-cli,0.1.1,,,5989,Ephemeral polyglot sandbox pre-configured for AI agents.
+2026-10-02T00:12:59Z,ZedScripts,0.0.2,SimKDT,MIT,110464,
+2026-10-02T00:13:58Z,kingfisher-secret-scanner,1.0.1,,Apache-2.0,75859369,"Fast secret scanning, credential validation, and revocation for Python, powered by Rust"
+2026-10-02T00:16:03Z,envarlive,0.1.0a2,EnvarAI contributors,MIT,4571982,"Live voice, avatars and consented visual inputs for user-operated agents"
