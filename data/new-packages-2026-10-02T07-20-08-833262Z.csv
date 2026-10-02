@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T06:22:16Z,splice-assay,0.1.1,Zachary Wakefield,GPL-3.0-only,357043,"Case-vs-reference and survival panels for alternative-splicing events, from plain tables."
+2026-10-02T06:24:48Z,volcenginesdk-rocketmq,0.0.1,volc-engine,Apache License 2.0,1010,Name reservation for the Volcengine Python SDK split package volcenginesdk-rocketmq
+2026-10-02T06:24:55Z,volcenginesdk-secagent,0.0.1,volc-engine,Apache License 2.0,1008,Name reservation for the Volcengine Python SDK split package volcenginesdk-secagent
+2026-10-02T06:25:01Z,volcenginesdk-seccenter,0.0.1,volc-engine,Apache License 2.0,1017,Name reservation for the Volcengine Python SDK split package volcenginesdk-seccenter
+2026-10-02T06:25:05Z,metal-linalg,2.2.0,,MIT,1199930,"QR, symmetric eigendecomposition and SVD for batches of matrices on Apple GPUs, for MLX"
+2026-10-02T06:25:07Z,volcenginesdk-seccenter20240508,0.0.1,volc-engine,Apache License 2.0,1081,Name reservation for the Volcengine Python SDK split package volcenginesdk-seccenter20240508
+2026-10-02T06:25:47Z,tsukimoji,0.1.1,Sam Lehman <grieve@gmail.com>,MIT,8790,Moon phase emoji for any date
+2026-10-02T06:33:00Z,goga-tool-simple-build,0.0.0,,BSD-3-Clause,222785,Simple build configuration for goga build
+2026-10-02T06:34:15Z,arcgraph,0.1.0rc7,ArcGraph Maintainers,Apache-2.0,1692899,Local-first code semantic graph engine for AI agents and code intelligence.
+2026-10-02T06:39:36Z,neopy-ai-tools,0.2,,,2770,A small Python CLI tool for hello-world style experimentation
+2026-10-02T06:41:27Z,bootstrap2,0.1.0,jsh9 <25124332+jsh9@users.noreply.github.com>,BSD-3-Clause,36759,Implementations of the percentile based bootstrap
+2026-10-02T06:47:24Z,torchlpc-wheels,0.8.0.214,Chin-Yun Yu <chin-yun.yu@qmul.ac.uk>,MIT,2964032,"Fast, efficient, and differentiable time-varying LPC filtering in PyTorch."
+2026-10-02T06:48:36Z,modelwrecker,0.0.1,Aevrin,Apache-2.0,214061,An AI red teaming engine. Safely attacks AI systems and turns verified weaknesses into reproducible findings.
+2026-10-02T06:49:57Z,datalens-ai,1.0.0,Datalens Contributors,MIT,656419,"Data health intelligence: profiling, quality scores, learned drift baselines, expected-schema checks and an action plan for any data source"
+2026-10-02T06:50:58Z,seal-engine,0.6.0,Eytan Levy,Apache-2.0,7996872,IMPLICANT FHE engine on Microsoft SEAL (BGV)
+2026-10-02T06:52:49Z,quindecagon,0.4.0,Jyotirmoy Das,,171615,Unified Clinical Security Assurance & Verification Framework for Nextflow Pipelines
+2026-10-02T06:56:34Z,sphere-marketplace,0.1.0,OOO Sphere,MIT,11353,"Thin client for the Sphere agent marketplace: work agents sell to each other, escrow until the result passes a gate, and a signed receipt the buyer can verify. No dependencies."
+2026-10-02T06:56:59Z,patch-browser,0.2.0,DreamXiaoJing <1361735164@qq.com>,MIT,84344,官方 Chrome / Edge 调试补丁：默认用户数据目录下直连 CDP，并让 JS 的 debugger 语句失效
+2026-10-02T06:58:33Z,exact-calc-mcp,0.1.0,exact-calc-mcp contributors,MIT,66434,Exact arithmetic for AI agents. Two independently written engines cross-check every result.
+2026-10-02T06:59:45Z,django-availfiles,0.2.0,Diego Cebrian <diego@cebrian-it.fr>,BSD-3-Clause,49540,"A minimal, frontend-agnostic file library for Django: upload a file, get a URL back. No dashboard, no picker UI — just the model."
+2026-10-02T06:59:49Z,django-oscar-availfiles,0.2.0,Diego Cebrian <diego@cebrian-it.fr>,BSD-3-Clause,68634,"Wires django-availfiles into django-oscar: a dashboard section to upload/browse files, plus a TinyMCE file-picker so editors can link to them from any wysiwyg field."
+2026-10-02T07:15:26Z,hyperot-adapter-satori,2.0.1,,,55975,Satori protocol adapter for HyperBotCore V2
+2026-10-02T07:15:36Z,simple-mongo-2,1.0.0,marjon,,20476,Add your description here
+2026-10-02T07:17:31Z,llama-index-llms-blockrun,0.1.0,BlockRun <hello@blockrun.ai>,MIT,27088,"LlamaIndex LLM for BlockRun: one OpenAI-compatible gateway, paid per call in USDC over x402 on Base or Solana. No API key."

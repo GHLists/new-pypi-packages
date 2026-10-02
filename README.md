@@ -8,38 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 06:19 UTC
+## Latest list — 2026-10-02 07:20 UTC
 
-New packages created between 2026-10-02 05:18 UTC and 2026-10-02 06:19 UTC.
+New packages created between 2026-10-02 06:19 UTC and 2026-10-02 07:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-02T06-19-08-418895Z.csv)
+[Full CSV](data/new-packages-2026-10-02T07-20-08-833262Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-02 05:21:08 | [deposition](https://pypi.org/project/deposition/) | 0.1.0.dev0 | Canvas_Dev | 188.0 kB | A verbatim, tamper-evident record of every AI agent run, with local replay. |
-| 2026-10-02 05:23:52 | [nirnay](https://pypi.org/project/nirnay/) | 0.1.0 | Dobbyisus | 42.4 kB | Fast, cheap decisions with honest confidence on the Sarvam API: classify, route… |
-| 2026-10-02 05:24:21 | [asks-dev](https://pypi.org/project/asks-dev/) | 0.0.1 | Mike Bailey | 3.2 kB | Asks: one thing someone wants, sent as mail, kept until answered |
-| 2026-10-02 05:27:08 | [sqlgate-client](https://pypi.org/project/sqlgate-client/) | 0.1.0 | Konstantinos Georgiou | 14.8 kB | A DB-API driver that sends MySQL statements to a sqlgate server over HTTPS, for… |
-| 2026-10-02 05:37:05 | [fizzbuzz-tdd-kata-viethung103](https://pypi.org/project/fizzbuzz-tdd-kata-viethung103/) | 0.1.0 | Viet Hung <viethungpc103@gmai… | 77.4 kB | A TDD kata: Fizzbuzz, from notebook exploration to a tested, pubilsh package |
-| 2026-10-02 05:37:30 | [hebb-memory](https://pypi.org/project/hebb-memory/) | 0.2.0 | Neil Gilani | 130.7 kB | Memory written into a frozen language model, one page per memory: exact deletio… |
-| 2026-10-02 05:38:42 | [tfsolve](https://pypi.org/project/tfsolve/) | 0.1.0 |  | 85.2 kB | BUET term-final question bank: filter past questions by course, topic, faculty… |
-| 2026-10-02 05:38:50 | [agy-acp](https://pypi.org/project/agy-acp/) | 0.1.0a2 |  | 124.1 kB | ACP v1 adapter for the Google Antigravity CLI |
-| 2026-10-02 05:40:11 | [jira-local](https://pypi.org/project/jira-local/) | 0.0.3b3682 | Circles | 45.5 kB | PyPI jira-local Python Package owned by Circlez.ai |
-| 2026-10-02 05:41:03 | [policy-pattern](https://pypi.org/project/policy-pattern/) | 0.1.0 | Guillem Pozo Sebastián | 62.6 kB | A minimal, embeddable ReBAC authorization engine for Python, inspired by Google… |
-| 2026-10-02 05:41:18 | [types-boto3-endusermessaging](https://pypi.org/project/types-boto3-endusermessaging/) | 1.43.107 | Vlad Emelianov <vlad.emeliano… | 54.2 kB | Type annotations for boto3 EndUserMessaging 1.43.107 service generated with myp… |
-| 2026-10-02 05:41:18 | [types-boto3-lambda-web](https://pypi.org/project/types-boto3-lambda-web/) | 1.43.107 | Vlad Emelianov <vlad.emeliano… | 51.6 kB | Type annotations for boto3 LambdaWeb 1.43.107 service generated with mypy-boto3… |
-| 2026-10-02 05:41:24 | [mypy-boto3-endusermessaging](https://pypi.org/project/mypy-boto3-endusermessaging/) | 1.43.107 | Vlad Emelianov <vlad.emeliano… | 54.0 kB | Type annotations for boto3 EndUserMessaging 1.43.107 service generated with myp… |
-| 2026-10-02 05:41:24 | [mypy-boto3-lambda-web](https://pypi.org/project/mypy-boto3-lambda-web/) | 1.43.107 | Vlad Emelianov <vlad.emeliano… | 51.6 kB | Type annotations for boto3 LambdaWeb 1.43.107 service generated with mypy-boto3… |
-| 2026-10-02 05:45:09 | [gnosislab](https://pypi.org/project/gnosislab/) | 0.1.1 | Alexander Bikeyev <alex.bikey… | 8.3 MB | Scientific Experiment MCP server — the hypothesis → experiment → evidence → con… |
-| 2026-10-02 05:46:42 | [chilmesh-cpp](https://pypi.org/project/chilmesh-cpp/) | 0.6.0 |  | 2.1 MB | C++ half-edge backend for CHILmesh |
-| 2026-10-02 05:48:20 | [pycsr-business-analytics-report](https://pypi.org/project/pycsr-business-analytics-report/) | 0.1.3 | PyCSR_ML contributors | 163.0 kB | Business-ready dataset profiling and automatic machine-learning comparison repo… |
-| 2026-10-02 05:50:05 | [merch1211](https://pypi.org/project/merch1211/) | 0.1.0 |  | 9.0 kB | Print-on-demand API client with no account or key: put a picture on a shirt, ho… |
-| 2026-10-02 05:50:28 | [cdpd](https://pypi.org/project/cdpd/) | 0.1.0 | Nguyen <skyland1620@gmail.com> | 11.7 kB | IPython cell magic tool: %%cd for code formatting and %%pd for AI output analys… |
-| 2026-10-02 05:56:01 | [weavehr](https://pypi.org/project/weavehr/) | 0.0.1 | Paul-B98, TobiasVeronaLaser,… | 509.5 kB | This is a project to unify and analyse data from different ICU data sources. |
-| 2026-10-02 06:04:10 | [agentbuck](https://pypi.org/project/agentbuck/) | 0.1.0 |  | 33.1 kB | Python SDK for AgentBuck runtime validation over gRPC. |
-| 2026-10-02 06:05:25 | [sprintbaton](https://pypi.org/project/sprintbaton/) | 0.2.2 |  | 1.0 MB | An asynchronous coding agent that runs on your todolist. |
-| 2026-10-02 06:12:01 | [voiceger-editor](https://pypi.org/project/voiceger-editor/) | 0.1.0 |  | 356.6 kB | Pronunciation and synthesis editor for Voiceger |
-| 2026-10-02 06:13:48 | [modeldiffr](https://pypi.org/project/modeldiffr/) | 0.1.0 | Amaresh Hebbar <hebbar.gvamar… | 42.0 kB | Audit what changed between a base LLM and any fine tune, quant, merge, or edit. |
-| 2026-10-02 06:15:54 | [django-mermaid-erd](https://pypi.org/project/django-mermaid-erd/) | 0.1.0 | ARON | 73.0 kB | Graphviz-free Django ER diagrams: render your models as Mermaid text that GitHu… |
-| 2026-10-02 06:16:07 | [mammuthus-servers](https://pypi.org/project/mammuthus-servers/) | 0.0.1 | David Fischer <fischerdm1@out… | 4.0 kB | Servers that expose mammuthus tools and agents as services. |
-| 2026-10-02 06:16:45 | [thoughtpay](https://pypi.org/project/thoughtpay/) | 0.1.0 |  | 9.4 kB | Semantic verification for AI agent payments. Blocks prompt injection before mon… |
+| 2026-10-02 06:22:16 | [splice-assay](https://pypi.org/project/splice-assay/) | 0.1.1 | Zachary Wakefield | 357.0 kB | Case-vs-reference and survival panels for alternative-splicing events, from pla… |
+| 2026-10-02 06:24:48 | [volcenginesdk-rocketmq](https://pypi.org/project/volcenginesdk-rocketmq/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-rock… |
+| 2026-10-02 06:24:55 | [volcenginesdk-secagent](https://pypi.org/project/volcenginesdk-secagent/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-seca… |
+| 2026-10-02 06:25:01 | [volcenginesdk-seccenter](https://pypi.org/project/volcenginesdk-seccenter/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-secc… |
+| 2026-10-02 06:25:05 | [metal-linalg](https://pypi.org/project/metal-linalg/) | 2.2.0 |  | 1.2 MB | QR, symmetric eigendecomposition and SVD for batches of matrices on Apple GPUs,… |
+| 2026-10-02 06:25:07 | [volcenginesdk-seccenter20240508](https://pypi.org/project/volcenginesdk-seccenter20240508/) | 0.0.1 | volc-engine | 1.1 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-secc… |
+| 2026-10-02 06:25:47 | [tsukimoji](https://pypi.org/project/tsukimoji/) | 0.1.1 | Sam Lehman <grieve@gmail.com> | 8.8 kB | Moon phase emoji for any date |
+| 2026-10-02 06:33:00 | [goga-tool-simple-build](https://pypi.org/project/goga-tool-simple-build/) | 0.0.0 |  | 222.8 kB | Simple build configuration for goga build |
+| 2026-10-02 06:34:15 | [arcgraph](https://pypi.org/project/arcgraph/) | 0.1.0rc7 | ArcGraph Maintainers | 1.7 MB | Local-first code semantic graph engine for AI agents and code intelligence. |
+| 2026-10-02 06:39:36 | [neopy-ai-tools](https://pypi.org/project/neopy-ai-tools/) | 0.2 |  | 2.8 kB | A small Python CLI tool for hello-world style experimentation |
+| 2026-10-02 06:41:27 | [bootstrap2](https://pypi.org/project/bootstrap2/) | 0.1.0 | jsh9 <25124332+jsh9@users.nor… | 36.8 kB | Implementations of the percentile based bootstrap |
+| 2026-10-02 06:47:24 | [torchlpc-wheels](https://pypi.org/project/torchlpc-wheels/) | 0.8.0.214 | Chin-Yun Yu <chin-yun.yu@qmul… | 3.0 MB | Fast, efficient, and differentiable time-varying LPC filtering in PyTorch. |
+| 2026-10-02 06:48:36 | [modelwrecker](https://pypi.org/project/modelwrecker/) | 0.0.1 | Aevrin | 214.1 kB | An AI red teaming engine. Safely attacks AI systems and turns verified weakness… |
+| 2026-10-02 06:49:57 | [datalens-ai](https://pypi.org/project/datalens-ai/) | 1.0.0 | Datalens Contributors | 656.4 kB | Data health intelligence: profiling, quality scores, learned drift baselines, e… |
+| 2026-10-02 06:50:58 | [seal-engine](https://pypi.org/project/seal-engine/) | 0.6.0 | Eytan Levy | 8.0 MB | IMPLICANT FHE engine on Microsoft SEAL (BGV) |
+| 2026-10-02 06:52:49 | [quindecagon](https://pypi.org/project/quindecagon/) | 0.4.0 | Jyotirmoy Das | 171.6 kB | Unified Clinical Security Assurance & Verification Framework for Nextflow Pipel… |
+| 2026-10-02 06:56:34 | [sphere-marketplace](https://pypi.org/project/sphere-marketplace/) | 0.1.0 | OOO Sphere | 11.4 kB | Thin client for the Sphere agent marketplace: work agents sell to each other, e… |
+| 2026-10-02 06:56:59 | [patch-browser](https://pypi.org/project/patch-browser/) | 0.2.0 | DreamXiaoJing <1361735164@qq.… | 84.3 kB | 官方 Chrome / Edge 调试补丁：默认用户数据目录下直连 CDP，并让 JS 的 debugger 语句失效 |
+| 2026-10-02 06:58:33 | [exact-calc-mcp](https://pypi.org/project/exact-calc-mcp/) | 0.1.0 | exact-calc-mcp contributors | 66.4 kB | Exact arithmetic for AI agents. Two independently written engines cross-check e… |
+| 2026-10-02 06:59:45 | [django-availfiles](https://pypi.org/project/django-availfiles/) | 0.2.0 | Diego Cebrian <diego@cebrian-… | 49.5 kB | A minimal, frontend-agnostic file library for Django: upload a file, get a URL… |
+| 2026-10-02 06:59:49 | [django-oscar-availfiles](https://pypi.org/project/django-oscar-availfiles/) | 0.2.0 | Diego Cebrian <diego@cebrian-… | 68.6 kB | Wires django-availfiles into django-oscar: a dashboard section to upload/browse… |
+| 2026-10-02 07:15:26 | [hyperot-adapter-satori](https://pypi.org/project/hyperot-adapter-satori/) | 2.0.1 |  | 56.0 kB | Satori protocol adapter for HyperBotCore V2 |
+| 2026-10-02 07:15:36 | [simple-mongo-2](https://pypi.org/project/simple-mongo-2/) | 1.0.0 | marjon | 20.5 kB | Add your description here |
+| 2026-10-02 07:17:31 | [llama-index-llms-blockrun](https://pypi.org/project/llama-index-llms-blockrun/) | 0.1.0 | BlockRun <hello@blockrun.ai> | 27.1 kB | LlamaIndex LLM for BlockRun: one OpenAI-compatible gateway, paid per call in US… |
