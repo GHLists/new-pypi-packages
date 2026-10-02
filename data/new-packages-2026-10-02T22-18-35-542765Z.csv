@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T21:19:45Z,specmint,0.1.0a2,opsdevcode,Apache-2.0,247742,"Mint language: offline compiler, CLI, editor, and Integration Protocol v0."
+2026-10-02T21:23:27Z,hunches,0.1.0,Chris Hacker,,67160,Interactive TUI toolkit for content analysis over an already-embedded corpus.
+2026-10-02T21:25:23Z,arcasleep,0.1.1,Arcascope Inc <support@arcascope.com>,MIT,362062,"Arcascope's open sleep-stage models: training, evaluation, release and inference"
+2026-10-02T21:26:51Z,gpyui,0.1.0,Polina Gregor <polyxeni.gregor@gmail.com>,,42392897,Native Python UI controls powered by GPUI and GPUI Kit
+2026-10-02T21:29:59Z,snapp-mcp,0.1.1,Sepehr <sepehr@nextofx.com>,MIT,135241,"Unofficial read-only MCP server for Snappfood and SnappMarket: search food and groceries, compare prices, find deals."
+2026-10-02T21:37:45Z,docxx,0.1.0,0xbad4,MIT,103242,"Doxygen-style C/C++ comments, structured JSON documentation with a built-in documentation viewer."
+2026-10-02T21:39:25Z,sagemath-data-polytopes,20170220.1,The Sage Developers,GPL-2.0-or-later,124033,Databases of two- and three-dimensional reflexive polytopes for SageMath
+2026-10-02T21:44:32Z,reviewer-zero,0.1.0,,MIT,743600,"Reviewer Zero: an MCP server that checks ML papers before submission (prior work, citations, format, full review)."
+2026-10-02T21:45:05Z,readystack-play-release-blocker-lint,0.1.8,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,34817,"Finds the lines that make Google Play reject your release - target API below 36, Billing Library below 8, 4 KB-only native libs - and prints the date each gate closed. (bundled Node.js runtime)"
+2026-10-02T21:45:28Z,readystack-svg-asset-compliance-lint,1.0.7,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,37808,"14 rules over the SVG files your design tool exported, before they become a legal object (bundled Node.js runtime)"
+2026-10-02T21:45:37Z,readystack-wordpress-privacy-lint,1.0.8,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,33558,"Finds the 12 author-side privacy duties your plugin PHP breaks, with the article and the fix on every line. (bundled Node.js runtime)"
+2026-10-02T21:45:59Z,readystack-aks-eks-support-cliff-lint,1.0.2,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,35367,"Terraform EKS and AKS version check: sample clusters.tf on 2026-09-27 — $2,256 extra on EKS 1.32 since 2026-03-23, $3,660 on 1.31 since 2025-11-26, $5,916 total; 9 rules (bundled Node.js runtime)"
+2026-10-02T21:50:41Z,chainway-serial,0.1.0,Daan Vervacke,MIT,57915,Asynchronous Python library for Chainway UR4 UHF RFID readers over serial and TCP
+2026-10-02T21:53:01Z,ext2py,0.1.0,Santiago Ciciliani <santiago.ciciliani@gmail.com>,MIT,47537,"Pure-Python, read-only ext2/ext3/ext4 filesystem reader and browsing shell, no root or kernel drivers needed"
+2026-10-02T21:53:33Z,spiritpay,0.1.1,Spirit Pay <contact@spiritpay.net>,MIT,28000,"SDK Python officiel Spirit Pay : paiement par virement Open Banking (checkout, factures, caisse, CRM) et API partenaire pour ERP (encaissements, paiements fournisseurs)"
+2026-10-02T21:53:53Z,claude-human,0.3.0,Konstantinos Georgiou,MIT,164203,"Screen capture, lock screen typing, a phone view of one window and ntfy notifications, for a Mac that a person and an agent share"
+2026-10-02T21:57:21Z,rustnx,0.1.0a1,Fabuseless,BSD-3-Clause,2282671,"Rust-accelerated backend for NetworkX: same API, no code changes"
+2026-10-02T21:57:27Z,sagemath-data-elliptic-curves,0.8.2,SageMath Developers,GPL-2.0-or-later,9297705,Elliptic-curve databases for SageMath and other Python software
+2026-10-02T21:57:34Z,sagemath-data-graphs,20210214.1,The Sage Developers,GPL-2.0-or-later,937519,Graph database resources for SageMath and other Python applications
+2026-10-02T21:59:56Z,bisonpy,0.1.1,Paul Shen,,4179,JSON superset for storing numpy arrays and other objects
+2026-10-02T22:00:27Z,horizonchart,0.1.0,trice,MIT,1002095,"Clean horizon-view sky charts: finder charts for planets, the Moon and deep-sky objects, and twilight views"
+2026-10-02T22:00:44Z,homomorphepy,1.0,Balasubramanian Narasimhan <naras@stat.Stanford.EDU>,MIT,10755537,Multi-site privacy-preserving statistics over homomorphic encryption
+2026-10-02T22:03:27Z,qyro-engine,1.0.0a1,Qyro Team,MIT,77716,"Qyro Engine is the runtime engine for the Qyro ecosystem, providing the foundation for building and running Python applications across desktop and mobile platforms."
+2026-10-02T22:05:45Z,pyrig-openssf,0.1.0,Winipedia,MIT,7843,A pyrig plugin that integrates OpenSSF functionality.
+2026-10-02T22:11:04Z,zitex,0.1.0,"""Wen G. Gong"" <wen.gong.research@gmail.com>",MIT,170036,"Typeset Chinese character decompositions in XeLaTeX: equations, matrices and trees from data"
+2026-10-02T22:12:15Z,ahub,3.0.0,,MIT,427627,Service through which Claude Code and a human hand tasks to cheap worker models and accept the results
+2026-10-02T22:12:59Z,docextract-core,0.1.0,Ivan Ortega,Apache-2.0,29789,"Shared document-extraction substrate: hashing, JSON codec, archives, LLM protocol"
+2026-10-02T22:13:29Z,word-extract,0.1.0,Ivan Ortega,Apache-2.0,378344,Deterministic .docx parse/structure/term-extraction with RAG-routing summaries
+2026-10-02T22:14:28Z,popfidelity,0.1.0,"""Neemias B. da Silva"" <neemiasbsilva@gmail.com>",Apache-2.0,2692270,Population fidelity and distributional alignment measures for LLM-simulated survey populations
+2026-10-02T22:14:45Z,vibemk,0.6.1,Andre <chexma@gmx.de>,GPL-3.0-or-later,391256,vibeMK - CheckMK monitoring via LLM - MCP Server
+2026-10-02T22:16:01Z,form-extract,0.1.0,Ivan Ortega,Apache-2.0,69595,Structured field extraction from non-uniform document forms
