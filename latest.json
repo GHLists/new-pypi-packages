@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-10-02T21:18:35.75188Z",
-    "path": "data/new-packages-2026-10-02T22-18-35-542765Z.csv",
-    "to": "2026-10-02T22:18:35.542765Z"
+    "count": 17,
+    "from": "2026-10-02T22:18:35.542765Z",
+    "path": "data/new-packages-2026-10-02T23-19-32-068718Z.csv",
+    "to": "2026-10-02T23:19:32.068718Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-10-02T23:13:35Z",
+      "package": "almond-scalafmt",
+      "since": "2026-10-02T22:18:35.542765Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-02T21:53:59Z",
       "package": "qyro-cli",
       "since": "2026-10-02T21:18:35.75188Z"
     }
   ],
-  "serial": 41751865,
+  "serial": 41753561,
   "source_truncated": false,
-  "window": "2026-10-02T22:18:35.542765Z"
+  "window": "2026-10-02T23:19:32.068718Z"
 }

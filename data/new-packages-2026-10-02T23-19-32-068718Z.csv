@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T22:19:32Z,polars-telemetry,0.1.1,Jan Krueger <git@krueger-jan.de>,Apache-2.0,458225,OpenTelemetry instrumentation for Polars query execution
+2026-10-02T22:22:32Z,flowfield-core,0.1.0,,Apache-2.0,2108494,Shared task feeds and parallel workers for agent software development
+2026-10-02T22:32:34Z,simthinkd,0.1.0,Myeongseongsimjae AX Institute,Apache-2.0,4034155,"A 265k-parameter decision model that picks one action in about 2 ms on one CPU core, inside real-time loops."
+2026-10-02T22:33:30Z,classroom-mcp,0.2.0,Omar Niazi,MIT,50226,"Google Classroom MCP server for students: courses, assignments with your submission status, and announcements."
+2026-10-02T22:42:23Z,prechips,0.0.1,Pedro Paulo Vezza Campos,MIT,4194,Checks before chips: deterministic validation of machining process plans against part geometry and a shop inventory.
+2026-10-02T22:45:31Z,pydantic-settings-pulumi,0.1.0,,,44593,pydantic-settings source for Pulumi programs: typed settings classes over pulumi.Config
+2026-10-02T22:48:45Z,qff-grader,0.1.0,Noor Ul Ain,MIT,7049,Grader for Qiskit Fall Fest 2026 labs
+2026-10-02T22:54:47Z,jeffy-classify,0.1.0a8,Nico Brenner,MIT,11263713,"Pretrained text classifiers: 13 ready-to-use heads, train your own in seconds"
+2026-10-02T22:56:41Z,corollary,0.1.0a1,Gabriel Santana,MIT,1096285,"An agent runtime where the unit of state is a belief, not a message."
+2026-10-02T23:00:01Z,ruleset-engine,1.0.0,,MIT,50001,ruleset-engine validates tabular data files against data validation rules written in the RuleSet language.
+2026-10-02T23:01:38Z,biolab-mcp,0.4.0,Srikar Jy <srikarjy025@gmail.com>,MIT,125921,"Local-first scientific evidence workspace with auditable retrieval, monitoring, and provenance"
+2026-10-02T23:03:40Z,tf-nag,0.1.0,,,236663,Offline Terraform plan scanner for the tf-nag AWS Solutions rules
+2026-10-02T23:07:17Z,omneum,1.0.3,,,1341193,An open-source context evaluator for AI agents.
+2026-10-02T23:10:31Z,bastionguard,0.1.0,Rayaan Sheikh <rayaansheikh442@gmail.com>,Apache-2.0,56775,"Runtime policy enforcement for AI agent tool calls — block, approve, or log unsafe actions before they execute."
+2026-10-02T23:12:04Z,statable,3.1.0,Hideki Akashi,Apache-2.0,630774,MISRA C:2012-aware state machine design and C code generation for embedded systems
+2026-10-02T23:15:06Z,gxpy,0.1.0a1,SUNCAST contributors,MIT,8274,Umbrella installation package for the GX Simulator Python ecosystem
+2026-10-02T23:16:07Z,voxcpmtts3,0.1.0,A. Kim,MIT,22886291,Evaluation harness for VoxCPM TTS CPU inference workloads
