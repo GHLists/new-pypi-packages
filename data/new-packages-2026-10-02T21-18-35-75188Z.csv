@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T20:20:23Z,panda-md,0.0.1,Ilya Garanov,MIT,8103,PANDA: contact angle and interface shape of confined liquids from 1D density profiles of molecular simulations
+2026-10-02T20:21:05Z,capsule-ai,0.5.0,Vikas Budde <sigmapi1@outlook.com>,MIT,5388570,"Atomic, file-first long-term memory with bounded drift for autonomous AI agents (Capsule)"
+2026-10-02T20:21:26Z,tatolab-stream,0.0.0,,,804,Held for the Tatolab project; not released yet. See https://github.com/tatolab/streamlib
+2026-10-02T20:21:27Z,tatolab-moq,0.0.0,,,801,Held for the Tatolab project; not released yet. See https://github.com/tatolab/streamlib
+2026-10-02T20:21:28Z,tatolab-webrtc,0.0.0,,,804,Held for the Tatolab project; not released yet. See https://github.com/tatolab/streamlib
+2026-10-02T20:22:10Z,caps-ai,0.5.0,Vikas Budde <sigmapi1@outlook.com>,MIT,5388501,"Atomic, file-first long-term memory with bounded drift for autonomous AI agents (Capsule)"
+2026-10-02T20:22:14Z,kimech,0.6.1,Pedro Jorge De Los Santos,MIT,113286,Planar mechanism kinematics for Python
+2026-10-02T20:27:37Z,agentic-chaos-security,1.0.0,Agentic Chaos contributors,Apache-2.0,1075220,Security chaos engineering for AI agents and LLM applications.
+2026-10-02T20:28:52Z,tsflab,1.0.0rc3,ChengAo Shen <chengao_shen@ieee.org>,,5379177,TSFLab — Agent-first time-series forecasting with TOML configs and flat model/component catalogs.
+2026-10-02T20:29:52Z,aiomatic,0.1.0,Your Name <you@example.com>,MIT,12022,Demo package for PyPI publication and package name availability checking
+2026-10-02T20:33:31Z,pxr-pcp-dev,26.8,,,68247798,C++ headers and CMake config for developing with pxr-pcp
+2026-10-02T20:34:15Z,eio-agents,0.6.0rc1,ProofAI LLC <support@proofagent.ai>,Apache-2.0,1938234,"Reference library for the Evaluation Intelligence Ontology (EIO) and PER 2.0 evaluation records for AI agents: convert, validate, verify, explain."
+2026-10-02T20:36:58Z,tia-select,0.1.0,Tanmay Singh,MIT,251291,"Selective test execution for Python: run only the tests a change can affect, and fall back to the full suite whenever that cannot be established."
+2026-10-02T20:37:03Z,fc-clubs-api,0.1.1,Erkan Dogan,MIT,20305,"Unofficial Python client for the EA Sports FC 27 Pro Clubs API, returning pandas DataFrames."
+2026-10-02T20:38:15Z,voxel-tts,0.5.1,A. Kim,MIT,22886256,Evaluation harness for VoxelTTS CPU inference workloads
+2026-10-02T20:38:39Z,phone-sms,0.1.0,h-3303,GPL-3.0-or-later,43146,MCP server: read and send SMS through your own Android phone over KDE Connect
+2026-10-02T20:38:54Z,wiltech-labs-rest,1.0.0,Wiliam Ferraciolli,Apache-2.0,17427,"Response-building core for Wiltech FastAPI apps: the _data/_metadata/_metaLinks/_messages envelope, links and field metadata."
+2026-10-02T20:42:57Z,kuveytturk-api,0.1.0,Muhammed Yılmaz <mhyilmaz97@gmail.com>,MIT,394490,"Kuveyt Türk API Market için gayriresmî Python istemcisi (OAuth2, RSA imza, senkron ve asenkron)"
+2026-10-02T20:43:45Z,claude-export-html,1.0.0,Egor Deev <egor@deev.space>,MIT,57518,Convert a Claude.ai data export into a browsable static HTML archive
+2026-10-02T20:45:23Z,cjm-design-system,0.0.1,"""Christian J. Mills"" <9126128+cj-mills@users.noreply.github.com>",Apache-2.0,1826673,"A design system as data (ruling a439c226): token schema v1 with its check and its headless resolution into one flat vocabulary, the CSS custom-properties projection for the web, the vendored seed sys…"
+2026-10-02T20:47:30Z,langchain-verdix,0.1.0,,MIT,34530,"LangChain tool: check an EVM address on Base before sending it funds (safe/caution/danger). Pays per call via x402 in USDC from your agent's wallet, within caps you set."
+2026-10-02T20:48:13Z,spanerr,0.1.0,The Center for Digital Humanities at Princeton <cdhdevteam@princeton.edu>,,89011,Python library for text span evaluation
+2026-10-02T20:55:45Z,midojo,0.1.0,,Apache-2.0,254323,Man-in-the-middle red teaming for AI agents
+2026-10-02T20:56:04Z,mikrotik-rest-mcp-server,0.1.1,Sogl,MIT,78053,"MCP server for RouterOS 7 REST API — filtered reads, guarded mutations, timed rollback, container shell"
+2026-10-02T20:58:22Z,pyweb-stack,0.1.0,"MaanavKrishna <67054795+MaanavKrishna@users.noreply.github.com>, Claude <noreply@anthropic.com>",MIT,318100,"Full-stack web apps in one Python file: server-rendered pages, reactive browser UI, typed RPC."
+2026-10-02T21:03:54Z,texdiff,0.2.0,GoBobr,"MIT License Copyright (c) 2026 GoBobr Permission is hereby granted, free of charge, to any person o…",129298,AST-driven semantic diff for LaTeX documents
+2026-10-02T21:04:12Z,outfit-studio,0.1.0,B <fromdigitalsuccess@gmail.com>,Apache-2.0,17297,A real-time webcam image capture and pose estimation tool meant to be used with apple's camera continuity
+2026-10-02T21:06:25Z,exquisite,0.1,Tres Seaver,MIT,66496,"Corpus management for RAG databases: manifests, worksheets, and evaluation labels"
+2026-10-02T21:09:26Z,enterprise-1c-odata,0.1.0,Vvps,MIT,14741,Typed OData v3/v4 connector and query engine for 1C:Enterprise 8.3 & LLM/MCP integration
+2026-10-02T21:09:40Z,toolpass,0.7.0,,Apache-2.0,1325904,"A pass for every tool call: secure-by-default tools for AI agents (scope, approval, prompt-injection and exfiltration guards, credential injection, audit) with permission checks answered live by the…"
+2026-10-02T21:10:59Z,hirschberg-viterbi,0.1.0,Lawry Sorenson <lawrysorenson@byu.edu>,MIT,510336,Memory-efficient forced alignment for long sequences.
+2026-10-02T21:11:32Z,tensorderiv,0.1.0,Nikolaj Maack Bielefeld,MIT,18508264,"Gradient, divergence, curl and Laplacian of scalar, vector and tensor fields on scattered points, with a Rust core"
