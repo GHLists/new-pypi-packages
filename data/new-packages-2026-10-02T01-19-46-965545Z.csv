@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T00:22:45Z,rwl,0.1.0,Leonardo Salas <leonardo.salas01@outlook.com>,"MIT License Copyright (c) 2026 Leonardo Salas Permission is hereby granted, free of charge, to any…",40102,Turbidity measurement and crew-scale sizing for a three-stage water pre-treatment column
+2026-10-02T00:23:44Z,edit-guard,0.1.0,hao li,MIT,18106,A Claude Code PreToolUse hook that blocks stale concurrent edits across agent sessions
+2026-10-02T00:24:04Z,agent-guard-hooks,0.5.0,hao li,MIT,116670,"Behavior-guardrail hooks for Claude Code: test-tampering + outbound-action guards, mutation test-honesty, and post-exec verification"
+2026-10-02T00:26:10Z,pdatum,0.1.0,Pearachute <pdatum@pearachute.com>,MIT,33451,"Job postings and the employers behind them, from the command line -- for scripts and AI agents."
+2026-10-02T00:31:00Z,fourgate,0.3.0,Hifza Zafar,"MIT License Copyright (c) 2026 Hifza Permission is hereby granted, free of charge, to any person ob…",180206,Independent outcome verification for consequential AI-agent actions
+2026-10-02T00:44:12Z,maid-validator-solidity,0.1.0,"""Mamerto Fabian Jr."" <mamerto@codefrost.com>",MIT,35912,"Solidity language validator plugin for MAID Runner, backed by tree-sitter-solidity."
+2026-10-02T00:46:29Z,hashlib-extra,1.0.0,,,2223,Upgraded hashlib for Python 3.14 and over
+2026-10-02T00:48:25Z,calc-desktop,0.1.0,Attica-oss,MIT,17287170,"The calc desktop app: an editor, data grid and schema browser for the calc language"
+2026-10-02T00:52:04Z,psas-psarc,1.0.0,Michael Chapman <chapmmch@gmail.com>,"MIT License Copyright (c) 2023 pschap Permission is hereby granted, free of charge, to any person o…",28237,Utilities for unpacking and repacking PSARC archives for Playstation All-Stars Battle Royale (PS3 and Vita)
+2026-10-02T00:55:28Z,rheopy-caber,0.1.0,Marco Caggioni,MIT,115540,Video analysis for capillary-breakup (CaBER) extensional rheometry
+2026-10-02T00:57:10Z,linux-hud,0.1.0,Takaki Hashimoto,MIT,14188,A lightweight Linux machine and network terminal HUD
+2026-10-02T00:57:15Z,geningeom,0.0.1,Shajin Thankaswamy,Apache-2.0,11231,"Generative inverse design of geometries for nonlinear PDEs, guided by exact adjoints (under active development)"
+2026-10-02T01:03:29Z,python-seatalk-bot,1.0.2,,,16625,"Python wrapper for the SeaTalk API, inspired by python-telegram-bot."
+2026-10-02T01:04:20Z,cubehosting,0.1.0,,Proprietary,39866,SDK oficial da API da Cube Hosting para Python.
+2026-10-02T01:07:08Z,isaivam,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",786438,Evaluation framework for RAG and LLM applications (isaivam)
+2026-10-02T01:18:10Z,covera,1.1.0,Covera,,47376,"Compare 2 or 3 insurance quotes and get a client-ready PDF, inside your AI assistant."
+2026-10-02T01:18:42Z,ibis-framework-mssql,0.1.0,,,8132,Experimental MSSQL temporary-table fix for ibis-framework
