@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T02:22:15Z,hanakura,0.1.0,,,1069115,Download and manage Stable Diffusion models from the command line and a web UI
+2026-10-02T02:24:00Z,muxherd,0.3.0,Keith Gaputis <keith@gaputis.com>,MIT,90321,"Herd AI coding agents (Claude Code, Codex, Grok) running in tmux across your tailnet"
+2026-10-02T02:30:22Z,antigravity-swap,0.2.0,,MIT,96635,"Multi-account switcher for the Antigravity CLI (agy), with automatic rotation and quota-aware failover"
+2026-10-02T02:33:03Z,research-scout,1.0.0,Kartikey Hebbar,"MIT License Copyright (c) 2026 Kartikey V Hebbar Permission is hereby granted, free of charge, to a…",64956,Local CLI that finds new research papers and blogs for a saved user profile.
+2026-10-02T02:36:06Z,lightgbm-rust,0.2.1,,MIT,10055033,Pure-Rust re-implementation of LightGBM with a LightGBM-like Python API (work in progress)
+2026-10-02T02:38:08Z,compressor-reflex-mcp,0.2.1,Eric Maddox <eric.maddox@outlook.com>,MIT,41488,"Model Context Protocol (MCP) server & proxy for Compressor Reflex - cuts tool-output tokens by up to 90% in Cursor, Antigravity, and Claude Desktop"
+2026-10-02T02:40:36Z,cqlib-qml,0.1.0b1,China Telecom Quantum Group Quantum Computing Team <tianyan@chinatelecom.cn>,Apache-2.0,287281,Quantum machine learning package based on Cqlib
+2026-10-02T02:40:46Z,review-bridge,0.1.0,hao li,MIT,36264,"Review secretary for a family noodle restaurant: Chinese briefings, bad-review alerts, English reply drafts — powered by a local Gemma model"
+2026-10-02T02:46:37Z,git-tag-bump,0.3,Dmitry Voronin <dimka665@gmail.com>,MIT,4016,
+2026-10-02T02:47:42Z,tree-sitter-rake,0.4.0b0,Kieran Rosenberg,MIT,96730,"Tree-sitter grammar for Rake, a vector-first SIMD language"
+2026-10-02T02:51:28Z,jobwatcher,0.3.0,evan2chen,"MIT License Copyright (c) 2026 evan2chen Permission is hereby granted, free of charge, to any perso…",309144,"Agent-oriented job tracking: postings, applications, collectors, a CLI and a local site"
+2026-10-02T02:54:00Z,machinera,0.1.0,Machinera,Apache-2.0,232203,Python client for the Machinera API
+2026-10-02T02:55:28Z,omnisus,0.2.0,Raphael Federicci <rfh.federicci@gmail.com>,MIT,1697895,Python library for ingesting Brazilian public health databases into DuckLake
+2026-10-02T02:57:35Z,oomtop,0.1.0,oomtop contributors,MIT,29338638,"See the OOM coming: true memory accounting, attribution and headroom for local AI work (agents, models, sandboxes)."
+2026-10-02T02:58:50Z,toolkit-data-contracts,1.0.0,"AKIVA AI, LLC",Apache-2.0,164277,"Contracts for LLM-shaped data: JSON Schema contracts, LLM presets, ODCS interop and drift checks."
+2026-10-02T03:00:22Z,toolkit-cost-optimizer,1.0.0,"AKIVA AI, LLC",Apache-2.0,150398,"LLM spend and routing analyzer: ingest gateway, trace and usage exports, price requests by token class, and find the cheapest routing that keeps quality."
+2026-10-02T03:00:28Z,toolkit-eval-harness,1.0.0,"AKIVA AI, LLC",Apache-2.0,171504,"Eval regression gate with signed evidence: paired-bootstrap compare, importers for promptfoo, Inspect AI and DeepEval, in-toto report envelopes."
+2026-10-02T03:03:55Z,agyaat,0.0.1,Vinmay Nair,Apache-2.0,9867,"Detect and redact Indian PII (Aadhaar, PAN, UPI, names). Early development."
+2026-10-02T03:07:34Z,agyat,0.0.1,V,Apache-2.0,1979,Alias for agyaat: detect and redact Indian PII. Install agyaat instead.
+2026-10-02T03:10:24Z,toolkit-ml-provenance,1.0.0,"AKIVA AI, LLC",Apache-2.0,146223,"AI-BOM in one command: CycloneDX 1.6 ML-BOMs, unsafe-pickle scanning, OpenSSF model signing and DSSE/Sigstore file signing for ML models."
+2026-10-02T03:10:36Z,toolkit-policy-test-bench,1.0.0,"AKIVA AI, LLC",Apache-2.0,169060,"LLM safety and compliance evidence: policy tests, garak/promptfoo/PyRIT import, control mapping and CI gates."
+2026-10-02T03:10:46Z,toolkit-mmqa,1.0.0,"AKIVA AI, LLC",Apache-2.0,158711,"Dataset pre-flight QA gate: train/eval and benchmark contamination, record and file dedup, image and audio checks, with a signable in-toto report."
+2026-10-02T03:10:50Z,hyperproc,0.1.0,Fujiang Ji <fujiang.ji@wisc.edu>,MIT,743304,"Readers, topographic and BRDF correction, and optional ISOFIT atmospheric correction for airborne and satellite imaging spectrometers"
+2026-10-02T03:11:25Z,never4ga,0.1.0,Joseph Soper <joseph.soper.dev@gmail.com>,Apache-2.0,1140773,"Markdown-first, local-first personal knowledge, context, memory, and agent-support system"
+2026-10-02T03:12:17Z,toolkit-rag-quality,1.0.0,"AKIVA AI, LLC",Apache-2.0,132284,"Retrieval regression testing in CI: trec_eval-equal metrics, per-query diffs, significance tests and leakage checks."
+2026-10-02T03:17:13Z,cougarmap,0.1.0,Bryant Clark,MIT,603996,"Find trail-camera spots for mountain lions from free public map data, as a Google Earth map. CLI and MCP server."
