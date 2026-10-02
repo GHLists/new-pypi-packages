@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T15:29:23Z,typst2pptx,0.1.0,,,265183832,Convert Typst documents into PowerPoint presentations.
+2026-10-02T17:20:24Z,bxcode-ar,1.0.0,,MIT,5794,Arabic syntax compiler for Python
+2026-10-02T17:20:53Z,pg-readonly-mcp,0.1.1,Leslie Kadenge,"MIT License Copyright (c) 2026 Leslie Kadenge Permission is hereby granted, free of charge, to any…",37835,A read-only Postgres MCP server that parses SQL rather than pattern-matching it
+2026-10-02T17:21:34Z,linc-device-kit,1.0.0,LINC Innovations,Apache-2.0,26295,Shared device models and protocols for LINC tools
+2026-10-02T17:22:27Z,pydmvl,0.1.0,The pydmvl contributors,MIT,37902,Unofficial Python client for the Domovladelets (homeowner) account API
+2026-10-02T17:24:53Z,linc-cli-kit,0.1.3,LINC Innovations,Apache-2.0,82640,Reflect a FastMCP tool registry into Click commands under one agent-grade output contract
+2026-10-02T17:25:11Z,dj7n-taxid-lookup,0.1.0,Bay Nguyen,MIT,27906,Tax ID lookup
+2026-10-02T17:28:54Z,spec-agents-coworker,0.2.1,Marcio Nicolau,MIT,60598,"Coworker domain pack for agent-fabric: repo_index, context_select, context_pack, code_review, patch_propose"
+2026-10-02T17:30:20Z,spec-agents-text,0.2.1,Marcio Nicolau,MIT,13106,"Text domain pack for agent-fabric (text_stats, keywords, document_digest); proves the core is domain-agnostic"
+2026-10-02T17:32:41Z,rafa-engineering,0.0.1b1,Enrique García,BUSL-1.1,9269706,A self-hosted application framework for engineering web applications
+2026-10-02T17:33:12Z,meadow-authoring,0.2.0,,MIT,1758984,Meadow Authoring: local authoring environment for Meadow Runtime
+2026-10-02T17:34:23Z,grind-t-toolkit,0.1.0,grind-t,,4143,Natural problem solver's toolkit
+2026-10-02T17:35:02Z,verbai,0.1.1,Gerald Enrique Nelson Mc Kenzie <lordxmen2k@gmail.com>,Apache-2.0,122971,A Haskell-flavored DSL for AI model orchestration.
+2026-10-02T17:35:27Z,htmldeck,0.1.0,Avis <hunganh.freeze@gmail.com>,MIT,309356,"Edit and present the HTML documents (decks, reports, pages) of a workspace — in place, without rewriting the file."
+2026-10-02T17:39:42Z,simit,0.1.1,monurcan,Apache-2.0,2288633,SIMIT-ICL: vision-language models that imagine their own in-context demonstrations at test time
+2026-10-02T17:40:07Z,orcher,0.0.0,,Apache-2.0,10118,"Reserved for the ORCHER command-line interface. For the Python SDK, install orcher-sdk."
+2026-10-02T17:40:46Z,mcpkeel,0.0.1,,MIT,3013,Tooling for MCP. Coming soon.
+2026-10-02T17:41:12Z,cyphra,0.1.2,"Anupam1707, asmitbaldi",,61746,Zero-knowledge hybrid E2EE messaging reference platform
+2026-10-02T17:41:13Z,termisations,0.1.0,Evgeny Inkov <me@inkov.dev>,AGPL-3.0-only,898077,"Terminal XMPP client with protocol transparency: raw XML stream, XEP details, slash commands"
+2026-10-02T17:41:37Z,django-fastresolve,0.1.0,Anders Hovmöller <boxed@killingar.net>,BSD,27876,"Faster URL resolving for Django, by indexing url patterns on their literal prefixes"
+2026-10-02T17:42:10Z,homevitals,1.0.0,Christopher Smith,MIT,455587,Sync your household's smart scale and blood pressure readings to each person's own Garmin Connect account. Works for Garmin Connect.
+2026-10-02T17:44:30Z,mcp-confirm,0.2.1,Leslie Kadenge,"MIT License Copyright (c) 2026 Leslie Kadenge Permission is hereby granted, free of charge, to any…",38405,An MCP server whose confirmation cannot be replayed against a different call
+2026-10-02T17:44:45Z,mock-acc,0.0.0,,MIT,2809,Reserved package name. No functional release published yet.
+2026-10-02T17:44:55Z,terminal2-oidc-lab-sami3221,0.0.1,,,2456,Terminal 2 OIDC trusted publishing evidence package
+2026-10-02T17:48:21Z,namelint,0.1.0,Abilian SAS,Apache-2.0,51354,Reports where a Python function's name contradicts its body.
+2026-10-02T17:50:52Z,sweep-reclaim,0.1.1,Leslie Kadenge,"MIT License Copyright (c) 2026 Leslie Kadenge Permission is hereby granted, free of charge, to any…",46556,Find and reclaim disk space from regenerable build artifacts
+2026-10-02T17:51:37Z,sweep-mcp,0.1.1,Leslie Kadenge,"MIT License Copyright (c) 2026 Leslie Kadenge Permission is hereby granted, free of charge, to any…",39123,"An MCP server that can delete directories, and the guard rails that make that acceptable"
+2026-10-02T17:56:21Z,icon-mcp,0.1.0,,MIT,1295591,"MCP server: parametric Lucide icon sets for AI assistants. Search 2000+ icons, style them, batch-export SVG. Fully offline, no API key."
+2026-10-02T17:56:48Z,icefloor,0.1.0,Gerd Koenig,MIT,41925,Terminal UI for inspecting Iceberg table and Parquet file metadata
+2026-10-02T17:58:46Z,vermin-sdk,0.1.0,,,52097,"Official Python SDK for the Vermin web-data API: scrape, crawl, map and brand."
+2026-10-02T17:59:10Z,facett,0.2.0,ignalina,MIT OR Apache-2.0,12509079,"facett's Rust UI components compiled to WebAssembly and drawn on WebGPU, plus a host-agnostic loader page — embeddable in Streamlit (the [streamlit] extra) or any web host."
+2026-10-02T17:59:13Z,facett-demo,0.2.0,ignalina,MIT OR Apache-2.0,170943,"facett's components in a Streamlit app: every Rust component drawn by wasm on WebGPU, grouped like facett-demo, graphs generated in the wasm up to 100 000 nodes — no server needed; live korp data wit…"
+2026-10-02T18:05:25Z,ttsready,0.1.0,Holger Nahrstaedt,Apache-2.0,164400,Analyze canonical SSMD and materialize reviewed TTS semantics.
+2026-10-02T18:05:36Z,lerobot-robot-so101-paxini,0.1.0,Jingyi Zou,Apache-2.0,47178,"SO-101 follower with Paxini PX-6AX GEN3 tactile fingertips, as a LeRobot robot plugin"
+2026-10-02T18:06:10Z,mdkeychunker,0.3.0,Bhavik Mangla,MIT,59978,Markdown chunking with LLM enrichment for RAG pipelines
+2026-10-02T18:07:48Z,searchxng-scraper,0.2.0,badmintonthegoldrush,MIT,97518,Browserless SearXNG meta-search: importable library + CLI in one file (solves Anubis/Portico proof-of-work challenges on CPU)
+2026-10-02T18:08:39Z,wirk,0.3.0,,Apache-2.0,80562,"The wirk command: status, query, write and review for people and agents in a WIRK wirkspace"
+2026-10-02T18:17:05Z,kiban-sdk,0.1.0,,Apache-2.0,11629,"Kiban SDK for a Python backend beside Kiban: service token, user token verification, access decisions, relation tuples, members."

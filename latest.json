@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 48,
-    "from": "2026-10-02T16:18:39.513954Z",
-    "path": "data/new-packages-2026-10-02T17-19-03-855517Z.csv",
-    "to": "2026-10-02T17:19:03.855517Z"
+    "count": 38,
+    "from": "2026-10-02T17:19:03.855517Z",
+    "path": "data/new-packages-2026-10-02T18-18-34-956189Z.csv",
+    "to": "2026-10-02T18:18:34.956189Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-10-02T13:48:53Z",
-      "package": "hashprint-cli",
-      "since": "2026-10-02T13:18:38.261808Z"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-10-02T14:59:26Z",
       "package": "nexo-ai-tools",
       "since": "2026-10-02T14:19:29.201228Z"
     },
     {
-      "attempts": 2,
-      "created_at": "2026-10-02T15:29:23Z",
-      "package": "typst2pptx",
-      "since": "2026-10-02T15:19:33.822266Z"
+      "attempts": 1,
+      "created_at": "2026-10-02T17:51:38Z",
+      "package": "wave-fixture",
+      "since": "2026-10-02T17:19:03.855517Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-02T18:18:01Z",
+      "package": "wgdashboard",
+      "since": "2026-10-02T17:19:03.855517Z"
     }
   ],
-  "serial": 41741414,
+  "serial": 41744052,
   "source_truncated": false,
-  "window": "2026-10-02T17:19:03.855517Z"
+  "window": "2026-10-02T18:18:34.956189Z"
 }
