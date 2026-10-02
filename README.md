@@ -8,35 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 07:20 UTC
+## Latest list — 2026-10-02 08:21 UTC
 
-New packages created between 2026-10-02 06:19 UTC and 2026-10-02 07:20 UTC.
+New packages created between 2026-10-02 07:20 UTC and 2026-10-02 08:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-02T07-20-08-833262Z.csv)
+[Full CSV](data/new-packages-2026-10-02T08-21-50-044464Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-02 06:22:16 | [splice-assay](https://pypi.org/project/splice-assay/) | 0.1.1 | Zachary Wakefield | 357.0 kB | Case-vs-reference and survival panels for alternative-splicing events, from pla… |
-| 2026-10-02 06:24:48 | [volcenginesdk-rocketmq](https://pypi.org/project/volcenginesdk-rocketmq/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-rock… |
-| 2026-10-02 06:24:55 | [volcenginesdk-secagent](https://pypi.org/project/volcenginesdk-secagent/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-seca… |
-| 2026-10-02 06:25:01 | [volcenginesdk-seccenter](https://pypi.org/project/volcenginesdk-seccenter/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-secc… |
-| 2026-10-02 06:25:05 | [metal-linalg](https://pypi.org/project/metal-linalg/) | 2.2.0 |  | 1.2 MB | QR, symmetric eigendecomposition and SVD for batches of matrices on Apple GPUs,… |
-| 2026-10-02 06:25:07 | [volcenginesdk-seccenter20240508](https://pypi.org/project/volcenginesdk-seccenter20240508/) | 0.0.1 | volc-engine | 1.1 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-secc… |
-| 2026-10-02 06:25:47 | [tsukimoji](https://pypi.org/project/tsukimoji/) | 0.1.1 | Sam Lehman <grieve@gmail.com> | 8.8 kB | Moon phase emoji for any date |
-| 2026-10-02 06:33:00 | [goga-tool-simple-build](https://pypi.org/project/goga-tool-simple-build/) | 0.0.0 |  | 222.8 kB | Simple build configuration for goga build |
-| 2026-10-02 06:34:15 | [arcgraph](https://pypi.org/project/arcgraph/) | 0.1.0rc7 | ArcGraph Maintainers | 1.7 MB | Local-first code semantic graph engine for AI agents and code intelligence. |
-| 2026-10-02 06:39:36 | [neopy-ai-tools](https://pypi.org/project/neopy-ai-tools/) | 0.2 |  | 2.8 kB | A small Python CLI tool for hello-world style experimentation |
-| 2026-10-02 06:41:27 | [bootstrap2](https://pypi.org/project/bootstrap2/) | 0.1.0 | jsh9 <25124332+jsh9@users.nor… | 36.8 kB | Implementations of the percentile based bootstrap |
-| 2026-10-02 06:47:24 | [torchlpc-wheels](https://pypi.org/project/torchlpc-wheels/) | 0.8.0.214 | Chin-Yun Yu <chin-yun.yu@qmul… | 3.0 MB | Fast, efficient, and differentiable time-varying LPC filtering in PyTorch. |
-| 2026-10-02 06:48:36 | [modelwrecker](https://pypi.org/project/modelwrecker/) | 0.0.1 | Aevrin | 214.1 kB | An AI red teaming engine. Safely attacks AI systems and turns verified weakness… |
-| 2026-10-02 06:49:57 | [datalens-ai](https://pypi.org/project/datalens-ai/) | 1.0.0 | Datalens Contributors | 656.4 kB | Data health intelligence: profiling, quality scores, learned drift baselines, e… |
-| 2026-10-02 06:50:58 | [seal-engine](https://pypi.org/project/seal-engine/) | 0.6.0 | Eytan Levy | 8.0 MB | IMPLICANT FHE engine on Microsoft SEAL (BGV) |
-| 2026-10-02 06:52:49 | [quindecagon](https://pypi.org/project/quindecagon/) | 0.4.0 | Jyotirmoy Das | 171.6 kB | Unified Clinical Security Assurance & Verification Framework for Nextflow Pipel… |
-| 2026-10-02 06:56:34 | [sphere-marketplace](https://pypi.org/project/sphere-marketplace/) | 0.1.0 | OOO Sphere | 11.4 kB | Thin client for the Sphere agent marketplace: work agents sell to each other, e… |
-| 2026-10-02 06:56:59 | [patch-browser](https://pypi.org/project/patch-browser/) | 0.2.0 | DreamXiaoJing <1361735164@qq.… | 84.3 kB | 官方 Chrome / Edge 调试补丁：默认用户数据目录下直连 CDP，并让 JS 的 debugger 语句失效 |
-| 2026-10-02 06:58:33 | [exact-calc-mcp](https://pypi.org/project/exact-calc-mcp/) | 0.1.0 | exact-calc-mcp contributors | 66.4 kB | Exact arithmetic for AI agents. Two independently written engines cross-check e… |
-| 2026-10-02 06:59:45 | [django-availfiles](https://pypi.org/project/django-availfiles/) | 0.2.0 | Diego Cebrian <diego@cebrian-… | 49.5 kB | A minimal, frontend-agnostic file library for Django: upload a file, get a URL… |
-| 2026-10-02 06:59:49 | [django-oscar-availfiles](https://pypi.org/project/django-oscar-availfiles/) | 0.2.0 | Diego Cebrian <diego@cebrian-… | 68.6 kB | Wires django-availfiles into django-oscar: a dashboard section to upload/browse… |
-| 2026-10-02 07:15:26 | [hyperot-adapter-satori](https://pypi.org/project/hyperot-adapter-satori/) | 2.0.1 |  | 56.0 kB | Satori protocol adapter for HyperBotCore V2 |
-| 2026-10-02 07:15:36 | [simple-mongo-2](https://pypi.org/project/simple-mongo-2/) | 1.0.0 | marjon | 20.5 kB | Add your description here |
-| 2026-10-02 07:17:31 | [llama-index-llms-blockrun](https://pypi.org/project/llama-index-llms-blockrun/) | 0.1.0 | BlockRun <hello@blockrun.ai> | 27.1 kB | LlamaIndex LLM for BlockRun: one OpenAI-compatible gateway, paid per call in US… |
+| 2026-10-02 07:21:00 | [brainzoo](https://pypi.org/project/brainzoo/) | 0.0.1 | BrainZoo Developers <chao.bra… | 3.5 kB | BrainZoo: whole-brain models across species (fly, zebrafish, mouse, human). |
+| 2026-10-02 07:21:55 | [ensemblinator](https://pypi.org/project/ensemblinator/) | 0.0.41 |  | 106.9 kB | Job orchestrator with builtin notifications |
+| 2026-10-02 07:23:40 | [gdprlint](https://pypi.org/project/gdprlint/) | 0.3.1 | GDPRLint contributors | 133.6 kB | Technical privacy and security guardrail for coding agents via Git pre-commit h… |
+| 2026-10-02 07:24:26 | [qsa-attention](https://pypi.org/project/qsa-attention/) | 0.2.0 | Heylel Yaka | 42.8 kB | Quantum Self-Attention: complex projective attention with constructive and dest… |
+| 2026-10-02 07:24:58 | [elbalor-neuron](https://pypi.org/project/elbalor-neuron/) | 0.1.0 | Eric Yaka | 23.6 kB | Complex-valued metabolic neuron with phase-space conservation and Complex-STDP… |
+| 2026-10-02 07:25:00 | [mirror-dimension](https://pypi.org/project/mirror-dimension/) | 0.1.0 | Heylel Yaka (Eric Yaka) | 6.5 kB | Mirror Dimension: persistent KV cache with embedded position tags, isometric ro… |
+| 2026-10-02 07:25:35 | [aer1-smolagents](https://pypi.org/project/aer1-smolagents/) | 0.1.3 | Brennan Zambo | 17.3 kB | AER-1 verifiable workflow receipts for HuggingFace SmolAgents |
+| 2026-10-02 07:31:00 | [maid-validator-rust](https://pypi.org/project/maid-validator-rust/) | 0.1.0 | "Mamerto Fabian Jr." <mamerto… | 58.0 kB | Rust language validator plugin for MAID Runner, backed by tree-sitter-rust. |
+| 2026-10-02 07:33:13 | [grok-assistant](https://pypi.org/project/grok-assistant/) | 1.0 | Antonio Castellon | 470.0 kB | A PC voice assistant that listens at home and only calls Grok on purpose. |
+| 2026-10-02 07:36:11 | [dbagenteval](https://pypi.org/project/dbagenteval/) | 0.1.0 | Harishkumar A | 121.8 kB | Stage-by-stage evaluation for natural-language-to-SQL agents: score every step… |
+| 2026-10-02 07:40:46 | [memory-path-engine](https://pypi.org/project/memory-path-engine/) | 0.8.0 | Open Source Prototype | 277.7 kB | Local memory with replayable paths — CLI/MCP, batchable dense embeddings, publi… |
+| 2026-10-02 07:47:02 | [plesty-amc300-piezo-controller](https://pypi.org/project/plesty-amc300-piezo-controller/) | 0.1.0 | Yunshuang Yuan <yunshuang.yua… | 208.8 kB | Plesty Attocube AMC300 Piezo Controller Device. |
+| 2026-10-02 07:49:02 | [aer1-openai-agents](https://pypi.org/project/aer1-openai-agents/) | 0.1.2 | Brennan Zambo | 18.6 kB | AER-1 verifiable workflow receipts for the OpenAI Agents SDK |
+| 2026-10-02 07:50:57 | [bazis-mcp](https://pypi.org/project/bazis-mcp/) | 2.4.0 | Ilya Kharyn <ilya.tt07@gmail.… | 81.8 kB | MCP server of Bazis projects: the catalog of the Bazis packages and the facts a… |
+| 2026-10-02 07:51:06 | [freehand-kit-auth](https://pypi.org/project/freehand-kit-auth/) | 1.0.0 | Freehand Kit contributors | 82.9 kB | Configurable Django REST Framework authentication endpoints built on Simple JWT. |
+| 2026-10-02 07:52:44 | [couchctl](https://pypi.org/project/couchctl/) | 0.1.0 | Konstantinos Georgiou | 36.3 kB | Control Samsung and Android TVs on your network, and send the remote's app butt… |
+| 2026-10-02 07:57:03 | [rupsycho](https://pypi.org/project/rupsycho/) | 1.0.0 | Julian Schelb | 194.4 kB | R.U.Psycho: robust, unified and reproducible psychometric testing of language m… |
+| 2026-10-02 07:59:57 | [aer1-crewai](https://pypi.org/project/aer1-crewai/) | 0.1.1 | Brennan Zambo | 20.0 kB | AER-1 verifiable workflow receipts for CrewAI |
+| 2026-10-02 08:00:26 | [ogonki](https://pypi.org/project/ogonki/) | 0.1.0 | Kacper Janus | 1.8 MB | Restore Polish diacritics (zolw zjadl salate -> żółw zjadł sałatę). Tiny, offli… |
+| 2026-10-02 08:03:22 | [scandata](https://pypi.org/project/scandata/) | 0.0.1 | Subham Divakar | 53.6 kB | Audit your ML dataset before you train on it: leakage, label issues, shortcuts… |
+| 2026-10-02 08:04:28 | [process-gpt-google-workspace-mcp](https://pypi.org/project/process-gpt-google-workspace-mcp/) | 0.1.0 | uEngine <help@uengine.org> | 22.6 kB | Google Drive 파일·메일 발송 MCP — ProcessGPT 딥 에이전트 작업공간(/workspace) 경로 기준 |
+| 2026-10-02 08:04:44 | [inspectorpy](https://pypi.org/project/inspectorpy/) | 0.1.0 | Maifee Ul Asad | 3.5 kB | A lightweight Python utility package for inspection and debugging workflows. |
+| 2026-10-02 08:05:57 | [moat-dev-heat-service](https://pypi.org/project/moat-dev-heat-service/) | 0.1.0 | Matthias Urlichs <matthias@ur… | 5.3 kB | systemd units for the MoaT heating controller |
+| 2026-10-02 08:06:19 | [moat-link-gpio](https://pypi.org/project/moat-link-gpio/) | 0.1.0 | Matthias Urlichs <matthias@ur… | 22.6 kB | GPIO controller connector for MoaT-Link |
+| 2026-10-02 08:06:40 | [moat-link-cal](https://pypi.org/project/moat-link-cal/) | 0.0.1 | Matthias Urlichs <matthias@ur… | 11.7 kB | CalDAV calendar polling for MoaT-Link |
+| 2026-10-02 08:06:48 | [moat-lib-modbus](https://pypi.org/project/moat-lib-modbus/) | 0.0.2 | Matthias Urlichs <matthias@ur… | 27.4 kB | Sans-IO Modbus protocol core (no pymodbus) |
+| 2026-10-02 08:09:55 | [kodenik](https://pypi.org/project/kodenik/) | 2024.3.6 | Faiz A | 374.4 kB | Official Indonesian Administrative NIK (Nomor Induk Kependudukan) subdivision d… |
+| 2026-10-02 08:10:18 | [nik-lookup](https://pypi.org/project/nik-lookup/) | 1.0.0 | Faiz A <m@faiz.at> | 18.5 kB | High-performance Indonesian NIK (Nomor Induk Kependudukan) lookup and validator… |
+| 2026-10-02 08:12:15 | [common-english-search](https://pypi.org/project/common-english-search/) | 0.1.1 |  | 3.6 MB | Check whether English words (or their singular/plural form) are common, using w… |
+| 2026-10-02 08:12:28 | [aer1-langgraph](https://pypi.org/project/aer1-langgraph/) | 0.1.1 | Brennan Zambo | 25.4 kB | AER-1 verifiable workflow receipts for LangGraph multi-agent swarms |
+| 2026-10-02 08:12:38 | [captionpack](https://pypi.org/project/captionpack/) | 0.1.0 | Jeshua Domingo | 6.5 kB | Python client for the Caption-Pack API — social captions as a service |
+| 2026-10-02 08:13:42 | [omnichar-sdk](https://pypi.org/project/omnichar-sdk/) | 0.0.1 | Aesthisia Datacenters Private… | 54.1 kB | Read Omnichar Studio .char character files: references, description, prompt and… |
+| 2026-10-02 08:14:57 | [project-enclave-tools](https://pypi.org/project/project-enclave-tools/) | 0.1.1 | Pradhya <Pradhya@projectencla… | 15.3 kB | Tools made mainly to help the devs of project enclave and other sub projects un… |
+| 2026-10-02 08:15:39 | [iphone2android](https://pypi.org/project/iphone2android/) | 0.1.0 | Konstantinos Georgiou | 54.8 kB | Move from an iPhone to an Android phone: messages, contacts, photos, apps and t… |
+| 2026-10-02 08:16:22 | [plesty-cam-dmk-37aux290](https://pypi.org/project/plesty-cam-dmk-37aux290/) | 0.1.0 | Yunshuang Yuan <yunshuang.yua… | 230.9 kB | A plesty cam dmk 37aux290 device. |
+| 2026-10-02 08:16:31 | [captionpack-api](https://pypi.org/project/captionpack-api/) | 0.1.0 | Jeshua Domingo | 14.3 kB | Python client for the Caption-Pack API — social captions as a service |
+| 2026-10-02 08:16:51 | [cb-dsa](https://pypi.org/project/cb-dsa/) | 0.1.0 | Cibidharan <your-email@exampl… | 31.1 kB | A customizable CLI for automating Data Structures and Algorithms tracking. |
+| 2026-10-02 08:19:08 | [therealcost-mcp](https://pypi.org/project/therealcost-mcp/) | 0.1.0 | The Real Cost by NoBanks Near… | 50.0 kB | Free money calculators for AI agents, from The Real Cost (therealcost.nohumanne… |

@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T07:21:00Z,brainzoo,0.0.1,BrainZoo Developers <chao.brain@qq.com>,Apache-2.0,3471,"BrainZoo: whole-brain models across species (fly, zebrafish, mouse, human)."
+2026-10-02T07:21:55Z,ensemblinator,0.0.41,,,106945,Job orchestrator with builtin notifications
+2026-10-02T07:23:40Z,gdprlint,0.3.1,GDPRLint contributors,Apache-2.0,133564,Technical privacy and security guardrail for coding agents via Git pre-commit hooks
+2026-10-02T07:24:26Z,qsa-attention,0.2.0,Heylel Yaka,MIT,42824,Quantum Self-Attention: complex projective attention with constructive and destructive interference.
+2026-10-02T07:24:58Z,elbalor-neuron,0.1.0,Eric Yaka,MIT,23570,Complex-valued metabolic neuron with phase-space conservation and Complex-STDP memory for lifelong learning.
+2026-10-02T07:25:00Z,mirror-dimension,0.1.0,Heylel Yaka (Eric Yaka),MIT,6469,"Mirror Dimension: persistent KV cache with embedded position tags, isometric rotation, and shuffle-invariant exact recovery."
+2026-10-02T07:25:35Z,aer1-smolagents,0.1.3,Brennan Zambo,,17281,AER-1 verifiable workflow receipts for HuggingFace SmolAgents
+2026-10-02T07:31:00Z,maid-validator-rust,0.1.0,"""Mamerto Fabian Jr."" <mamerto@codefrost.com>",MIT,58000,"Rust language validator plugin for MAID Runner, backed by tree-sitter-rust."
+2026-10-02T07:33:13Z,grok-assistant,1.0,Antonio Castellon,,469977,A PC voice assistant that listens at home and only calls Grok on purpose.
+2026-10-02T07:36:11Z,dbagenteval,0.1.0,Harishkumar A,MIT,121834,Stage-by-stage evaluation for natural-language-to-SQL agents: score every step of the pipeline and see which one broke.
+2026-10-02T07:40:46Z,memory-path-engine,0.8.0,Open Source Prototype,MIT,277725,"Local memory with replayable paths — CLI/MCP, batchable dense embeddings, public KPI."
+2026-10-02T07:47:02Z,plesty-amc300-piezo-controller,0.1.0,Yunshuang Yuan <yunshuang.yuan@fkp.uni-hannover.de>,LGPL-3.0-or-later,208784,Plesty Attocube AMC300 Piezo Controller Device.
+2026-10-02T07:49:02Z,aer1-openai-agents,0.1.2,Brennan Zambo,,18616,AER-1 verifiable workflow receipts for the OpenAI Agents SDK
+2026-10-02T07:50:57Z,bazis-mcp,2.4.0,Ilya Kharyn <ilya.tt07@gmail.com>,Apache-2.0,81826,MCP server of Bazis projects: the catalog of the Bazis packages and the facts and checks of the project for AI agents.
+2026-10-02T07:51:06Z,freehand-kit-auth,1.0.0,Freehand Kit contributors,MIT,82934,Configurable Django REST Framework authentication endpoints built on Simple JWT.
+2026-10-02T07:52:44Z,couchctl,0.1.0,Konstantinos Georgiou,MIT,36321,"Control Samsung and Android TVs on your network, and send the remote's app buttons to the apps you want"
+2026-10-02T07:57:03Z,rupsycho,1.0.0,Julian Schelb,MIT,194418,"R.U.Psycho: robust, unified and reproducible psychometric testing of language models."
+2026-10-02T07:59:57Z,aer1-crewai,0.1.1,Brennan Zambo,,20045,AER-1 verifiable workflow receipts for CrewAI
+2026-10-02T08:00:26Z,ogonki,0.1.0,Kacper Janus,MIT,1772199,"Restore Polish diacritics (zolw zjadl salate -> żółw zjadł sałatę). Tiny, offline, numpy-only."
+2026-10-02T08:03:22Z,scandata,0.0.1,Subham Divakar,MIT,53617,"Audit your ML dataset before you train on it: leakage, label issues, shortcuts and quality."
+2026-10-02T08:04:28Z,process-gpt-google-workspace-mcp,0.1.0,uEngine <help@uengine.org>,MIT,22629,Google Drive 파일·메일 발송 MCP — ProcessGPT 딥 에이전트 작업공간(/workspace) 경로 기준
+2026-10-02T08:04:44Z,inspectorpy,0.1.0,Maifee Ul Asad,,3472,A lightweight Python utility package for inspection and debugging workflows.
+2026-10-02T08:05:57Z,moat-dev-heat-service,0.1.0,Matthias Urlichs <matthias@urlichs.de>,,5332,systemd units for the MoaT heating controller
+2026-10-02T08:06:19Z,moat-link-gpio,0.1.0,Matthias Urlichs <matthias@urlichs.de>,,22607,GPIO controller connector for MoaT-Link
+2026-10-02T08:06:40Z,moat-link-cal,0.0.1,Matthias Urlichs <matthias@urlichs.de>,,11665,CalDAV calendar polling for MoaT-Link
+2026-10-02T08:06:48Z,moat-lib-modbus,0.0.2,Matthias Urlichs <matthias@urlichs.de>,,27444,Sans-IO Modbus protocol core (no pymodbus)
+2026-10-02T08:09:55Z,kodenik,2024.3.6,Faiz A,MIT,374393,Official Indonesian Administrative NIK (Nomor Induk Kependudukan) subdivision database and lookup utilities
+2026-10-02T08:10:18Z,nik-lookup,1.0.0,Faiz A <m@faiz.at>,MIT,18535,High-performance Indonesian NIK (Nomor Induk Kependudukan) lookup and validator backed by official KodeNIK regional data
+2026-10-02T08:12:15Z,common-english-search,0.1.1,,Apache-2.0 AND CC-BY-SA-4.0,3633594,"Check whether English words (or their singular/plural form) are common, using wordfreq-derived frequency data."
+2026-10-02T08:12:28Z,aer1-langgraph,0.1.1,Brennan Zambo,,25425,AER-1 verifiable workflow receipts for LangGraph multi-agent swarms
+2026-10-02T08:12:38Z,captionpack,0.1.0,Jeshua Domingo,MIT,6507,Python client for the Caption-Pack API — social captions as a service
+2026-10-02T08:13:42Z,omnichar-sdk,0.0.1,Aesthisia Datacenters Private Limited,Apache-2.0,54099,"Read Omnichar Studio .char character files: references, description, prompt and LoRA."
+2026-10-02T08:14:57Z,project-enclave-tools,0.1.1,Pradhya <Pradhya@projectenclave.dev>,,15259,Tools made mainly to help the devs of project enclave and other sub projects under it
+2026-10-02T08:15:39Z,iphone2android,0.1.0,Konstantinos Georgiou,MIT,54767,"Move from an iPhone to an Android phone: messages, contacts, photos, apps and the home screen, from an encrypted iPhone backup"
+2026-10-02T08:16:22Z,plesty-cam-dmk-37aux290,0.1.0,Yunshuang Yuan <yunshuang.yuan@fkp.uni-hannover.de>,LGPL-3.0-or-later,230869,A plesty cam dmk 37aux290 device.
+2026-10-02T08:16:31Z,captionpack-api,0.1.0,Jeshua Domingo,MIT,14335,Python client for the Caption-Pack API — social captions as a service
+2026-10-02T08:16:51Z,cb-dsa,0.1.0,Cibidharan <your-email@example.com>,MIT,31105,A customizable CLI for automating Data Structures and Algorithms tracking.
+2026-10-02T08:19:08Z,therealcost-mcp,0.1.0,The Real Cost by NoBanks Nearby <nobanksnearby@gmail.com>,"MIT License Copyright (c) 2026 Ryan Hammer (NoBanks Nearby) Permission is hereby granted, free of c…",50025,"Free money calculators for AI agents, from The Real Cost (therealcost.nohumannearby.com): credit card payoff, debt consolidation, loan cost by term, crypto trading fees and emergency fund, each with…"
