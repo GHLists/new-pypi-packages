@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T14:23:41Z,interloper-azure,0.97.0,Guillaume Onfroy,,29130,Interloper Microsoft Azure integration: Entra connection and Microsoft Fabric Warehouse destination
+2026-10-02T14:23:43Z,interloper-clickhouse,0.97.0,Guillaume Onfroy,,29108,Interloper ClickHouse integration: connection and destination
+2026-10-02T14:23:44Z,interloper-databricks,0.97.0,Guillaume Onfroy,,33427,Interloper Databricks integration: connection and destination
+2026-10-02T14:25:01Z,quan-ly-sinh-vien-Thinhdz,0.1.0,Dev Student <student@example.com>,,4371,Package quan ly va danh gia sinh vien
+2026-10-02T14:25:31Z,pyhashprint,1.0.0,,MIT,25632,A forensic CLI tool for hash identification
+2026-10-02T14:25:50Z,quotekit,0.6.1,haifeng <chenhaifeng@touguyun.cn>,MIT,57799,"A股/北交所/场内ETF统一行情工具箱: mootdx(默认,多线程) + easyquotation(新浪/腾讯回退), 统一DataFrame返回, 实时行情/K线(8频度)/股票列表"
+2026-10-02T14:26:35Z,credoxa-billing-sdk,1.0.0,OpenAPI Generator community,LicenseRef-Proprietary,115339,Credoxa Billing API
+2026-10-02T14:26:45Z,mRNA,0.1.0,,Apache-2.0,5475319,AnnData-native bulk transcriptomics workflows
+2026-10-02T14:27:10Z,bagpuss,0.2.0,,"MIT License Copyright (c) 2026 Daniel Williams Permission is hereby granted, free of charge, to any…",360177,Simulated galaxy and gravitational-wave catalogues for cosmological inference testing
+2026-10-02T14:27:18Z,student-grade-manager,0.1.0,Dong,MIT,7247,"Simple package to manage students: name, birth date, grades, average, pass/fail"
+2026-10-02T14:27:58Z,linkml-mermaid,0.1.0,BMW AG,MIT,98985,Render Mermaid state diagrams and GFM tables from LinkML instance data
+2026-10-02T14:29:56Z,cosmotech-babylon-cli,5.5.2,"Mohcine Tor <mohcine.tor@cosmotech.com>, Diamantis Sellis <diamantis.sellis@cosmotech.com>",MIT,546261,A CLI made to simplify the deployment and management of the CosmoTech Platform and Solutions
+2026-10-02T14:30:09Z,keep-to-memos,1.0.0,Mohammad Kanaan <mohammadkanaan.me@gmail.com>,MIT,87935,Import a Google Keep Takeout export into a Memos instance through its HTTP API.
+2026-10-02T14:32:24Z,engram-sync,3.0.0,Shanewas Ahmed <shanewasahmed@gmail.com>,MIT,48323,"Cross-machine memory for AI coding agents (Claude Code, Codex, OpenCode, Antigravity, Muse), synced through your own private git repo."
+2026-10-02T14:33:10Z,bunu,0.1.0,Shubham Sharma <shbmtech080899@gmail.com>,MIT,62347,"A health check and change detector for your DataFrame. Observe first, never mutate by surprise."
+2026-10-02T14:33:12Z,graphit-db,0.1.0,Onur Parapan,Apache-2.0,310836,Local-first database knowledge and context for AI coding agents
+2026-10-02T14:34:53Z,kcai-data-sampling-images,0.1.0,Safenai <support@safenai.io>,Apache-2.0,21125,No-model image transformations and image IO plugins for kcai data-sampling
+2026-10-02T14:38:17Z,tetracorderp,1.0.0,Russell Rogers,GPL-3.0-or-later,29384364,An independent Python reimplementation of the Tetracorder spectral identification rules and evaluation logic.
+2026-10-02T14:44:37Z,finance-pulse,0.1.0,FinTopic,MIT,41755,"Python client and MCP server for the Finance Pulse API: financial news as structured, sourced statements with sentiment, clustered into developments."
+2026-10-02T14:51:49Z,mayamemo,0.1.0,MayaMemo,MIT,20430,"MayaMemo Python SDK — evidence-backed context, memories and cross-agent checkpoints for AI coding agents. Zero dependencies."
+2026-10-02T14:51:50Z,lemonaid-inbox,0.60.0,,,3598959,Attention inbox for managing notifications from lemons and other background tools
+2026-10-02T14:51:57Z,bitbucket-unofficial-cli,1.1.0,"""G.A.JAGUAR"" <dev@gajaguar.com>",MIT,307075,Unofficial command-line interface for Bitbucket Cloud built on bitbucket-unofficial-sdk
+2026-10-02T14:52:21Z,zirah-mcp,0.1.0,Muhammad Mohsin Ibrahim,Apache-2.0,276484,Offline-first security scanner and trust registry for MCP servers.
+2026-10-02T14:53:28Z,relag,0.0.4,,,69133982,Sample Relation Finder; Efficient thresholded proximity graph computation; RGP toolkit.
+2026-10-02T14:53:36Z,sing-tun,0.9.6,,GPL-3.0-or-later,187076685,Host-managed sing-tun SOCKS5 bridge for Python
+2026-10-02T14:57:44Z,agentic-dev,0.14.0,Saad Zaher,MIT,269455,"Make repositories agent-ready and prepare safe, reproducible development environments for coding agents"
+2026-10-02T14:58:14Z,3d-card,0.1.0,Konstantinos Georgiou,MIT,138762,"Turn a set of 3D-printable parts into one printable card: parts gated to a frame like a model-kit sprue, with a check that every part comes off clean. Includes print-in-place joints and printability…"
+2026-10-02T14:59:23Z,pyhfc,0.3.0,Xavier Bonnin,EUPL-1.2,81243,Python tools for the HELIO Heliophysics Feature Catalogue (HFC): HQI client and viewer
+2026-10-02T15:01:06Z,ajax-advanced-helpers,1.0.1,Ian Jones,MIT,3342149,Django app to assist with posting Ajax and receiving commands from django
+2026-10-02T15:01:14Z,squid-profile,0.0.1,Athrael Soju,Apache-2.0,15156,Fleet profiling that produces Narwhal inference configuration
+2026-10-02T15:01:52Z,kcai-data-sampling-lama,0.1.0,Safenai <support@safenai.io>,Apache-2.0,25235,Generative inpaint transformation (LaMa) and the associated tool-model plugin for kcai data-sampling
+2026-10-02T15:02:33Z,djrocket,1.0.0a2,Ernesto González,"Apache License, Version 2.0",295019,CLI tool to add applications and UI templates to any Django website.
+2026-10-02T15:02:50Z,scopia,1.0.0,Samarth Patel,MIT,198551,See the shape of a code change before reading its lines.
+2026-10-02T15:05:19Z,grade-utils-minh,0.0.0,,,2133,
+2026-10-02T15:05:24Z,lh2-psv-tno-risk,0.1.2,Ugwiyeon Lee <lyullee@kgs.or.kr>,MIT,13807,"Research record and post-processing tools for LH2 tank, PSV, and TNO conditional-risk analysis"
+2026-10-02T15:05:40Z,alex-evidence-verify-mcp,0.1.0,Bewusst.Ki,"Copyright 2026 Bewusst.Ki Licensed under the Apache License, Version 2.0 (the ""License""); you may n…",9203,"Verify signed ALEX evidence bundles as an MCP tool for Claude Desktop, Claude Code, and other MCP clients."
+2026-10-02T15:06:49Z,wastesort-vn,0.1.0,KhanhTN,,10860,Phân loại rác theo từ khóa (tiếng Việt / tiếng Anh)
+2026-10-02T15:07:07Z,turbolaunch,0.1.0,Sam Vervaeck <samvv@pm.me>,MIT,22545,The definitive command-line arguments parser
+2026-10-02T15:07:39Z,kcai-data-sampling-job,0.1.0,Safenai <support@safenai.io>,Apache-2.0,52664,"Pipeline orchestration, generic table loaders/writers, and the YAML CLI for kcai data-sampling"
+2026-10-02T15:10:21Z,harness-agent2,1.1.0,,AGPL-3.0-only,310520,Local-first control plane that professionalizes how coding agents work on a repo.
+2026-10-02T15:11:42Z,typesafe-unofficial-cli,1.0.1,"""G.A.JAGUAR"" <dev@gajaguar.com>",MIT,156263,"Unofficial command-line interface for TypeSafe AI System One models, on TypeSafe or OpenRouter, built on typesafe-sdk"
+2026-10-02T15:14:09Z,kcai-data-sampling-fgsm,0.1.0,Safenai <support@safenai.io>,Apache-2.0,17820,Adversarial perturbation (FGSM) for kcai data-sampling
+2026-10-02T15:14:45Z,mcp-guardbench,0.1.0,Manish Maurya <manish.maurya0408@gmail.com>,MIT,565430,An evidence-based benchmark and runtime evaluation framework for secure Model Context Protocol tool-using agents.
+2026-10-02T15:14:59Z,hieevas,0.1.0,"""Sampathkumar T."" <heurius.tech@gmail.com>",MIT,128117,"Hierarchical evaluation of agentic systems (HIEEVAS): 27 process, cost, robustness, safety and governance metrics at agent, interaction and system level, computed from execution traces of LangGraph a…"
+2026-10-02T15:16:34Z,langchain-flatmark,1.0.1,podshalocef <contact@podshalocef.com>,MIT,10882,"Document to Markdown API and MCP server for PDF, Word, PowerPoint, Excel and HTML. OCR queue for large files. Hosted in Germany."
+2026-10-02T15:18:09Z,arc56-generated-darsh-5e2e011f,1.2.2026072010,DarshanKrishna-DK,,70504,Generated ARC-56 Algorand smart-contract clients for DarshanKrishna-DK/CitadelAlgo.
+2026-10-02T15:18:46Z,chipwhisperer-studio,0.5.1,Keyur Aghao,Apache-2.0,1235493,"Desktop app for ChipWhisperer hardware: live waveforms, capture, CPA, glitch sweeps, UART/SPI/JTAG/SWD interfaces, a logic analyser, firmware code on the power trace, notebooks, firmware builds and a…"
+2026-10-02T15:19:14Z,arc56-generated-david-e0df7f05,1.2.2026072010,davidbonfim,,82836,Generated ARC-56 Algorand smart-contract clients for davidbonfim/CDTBRL.
