@@ -8,28 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 01:19 UTC
+## Latest list — 2026-10-02 02:19 UTC
 
-New packages created between 2026-10-02 00:21 UTC and 2026-10-02 01:19 UTC.
+New packages created between 2026-10-02 01:19 UTC and 2026-10-02 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-02T01-19-46-965545Z.csv)
+[Full CSV](data/new-packages-2026-10-02T02-19-00-794888Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-02 00:22:45 | [rwl](https://pypi.org/project/rwl/) | 0.1.0 | Leonardo Salas <leonardo.sala… | 40.1 kB | Turbidity measurement and crew-scale sizing for a three-stage water pre-treatme… |
-| 2026-10-02 00:23:44 | [edit-guard](https://pypi.org/project/edit-guard/) | 0.1.0 | hao li | 18.1 kB | A Claude Code PreToolUse hook that blocks stale concurrent edits across agent s… |
-| 2026-10-02 00:24:04 | [agent-guard-hooks](https://pypi.org/project/agent-guard-hooks/) | 0.5.0 | hao li | 116.7 kB | Behavior-guardrail hooks for Claude Code: test-tampering + outbound-action guar… |
-| 2026-10-02 00:26:10 | [pdatum](https://pypi.org/project/pdatum/) | 0.1.0 | Pearachute <pdatum@pearachute… | 33.5 kB | Job postings and the employers behind them, from the command line -- for script… |
-| 2026-10-02 00:31:00 | [fourgate](https://pypi.org/project/fourgate/) | 0.3.0 | Hifza Zafar | 180.2 kB | Independent outcome verification for consequential AI-agent actions |
-| 2026-10-02 00:44:12 | [maid-validator-solidity](https://pypi.org/project/maid-validator-solidity/) | 0.1.0 | "Mamerto Fabian Jr." <mamerto… | 35.9 kB | Solidity language validator plugin for MAID Runner, backed by tree-sitter-solid… |
-| 2026-10-02 00:46:29 | [hashlib-extra](https://pypi.org/project/hashlib-extra/) | 1.0.0 |  | 2.2 kB | Upgraded hashlib for Python 3.14 and over |
-| 2026-10-02 00:48:25 | [calc-desktop](https://pypi.org/project/calc-desktop/) | 0.1.0 | Attica-oss | 17.3 MB | The calc desktop app: an editor, data grid and schema browser for the calc lang… |
-| 2026-10-02 00:52:04 | [psas-psarc](https://pypi.org/project/psas-psarc/) | 1.0.0 | Michael Chapman <chapmmch@gma… | 28.2 kB | Utilities for unpacking and repacking PSARC archives for Playstation All-Stars… |
-| 2026-10-02 00:55:28 | [rheopy-caber](https://pypi.org/project/rheopy-caber/) | 0.1.0 | Marco Caggioni | 115.5 kB | Video analysis for capillary-breakup (CaBER) extensional rheometry |
-| 2026-10-02 00:57:10 | [linux-hud](https://pypi.org/project/linux-hud/) | 0.1.0 | Takaki Hashimoto | 14.2 kB | A lightweight Linux machine and network terminal HUD |
-| 2026-10-02 00:57:15 | [geningeom](https://pypi.org/project/geningeom/) | 0.0.1 | Shajin Thankaswamy | 11.2 kB | Generative inverse design of geometries for nonlinear PDEs, guided by exact adj… |
-| 2026-10-02 01:03:29 | [python-seatalk-bot](https://pypi.org/project/python-seatalk-bot/) | 1.0.2 |  | 16.6 kB | Python wrapper for the SeaTalk API, inspired by python-telegram-bot. |
-| 2026-10-02 01:04:20 | [cubehosting](https://pypi.org/project/cubehosting/) | 0.1.0 |  | 39.9 kB | SDK oficial da API da Cube Hosting para Python. |
-| 2026-10-02 01:07:08 | [isaivam](https://pypi.org/project/isaivam/) | 0.1.0 |  | 786.4 kB | Evaluation framework for RAG and LLM applications (isaivam) |
-| 2026-10-02 01:18:10 | [covera](https://pypi.org/project/covera/) | 1.1.0 | Covera | 47.4 kB | Compare 2 or 3 insurance quotes and get a client-ready PDF, inside your AI assi… |
-| 2026-10-02 01:18:42 | [ibis-framework-mssql](https://pypi.org/project/ibis-framework-mssql/) | 0.1.0 |  | 8.1 kB | Experimental MSSQL temporary-table fix for ibis-framework |
+| 2026-10-02 01:23:23 | [chatgenie](https://pypi.org/project/chatgenie/) | 0.1.0 |  | 176.1 kB | Minimal Python decorator SDK on official MCP SDK with persistent SQLite, typed… |
+| 2026-10-02 01:24:45 | [ibis-framework-teradata](https://pypi.org/project/ibis-framework-teradata/) | 0.1.0 |  | 39.5 kB | Limited teradata backend for ibis |
+| 2026-10-02 01:27:57 | [docassemble.us](https://pypi.org/project/docassemble.us/) | 0.0.2 | Jonathan Pyle <jhpyle@gmail.c… | 9.3 kB | A docassemble extension that provides helper functions specific to the United S… |
+| 2026-10-02 01:34:42 | [ghost-photo](https://pypi.org/project/ghost-photo/) | 1.0.0 |  | 24.9 kB | Local-first CLI to strip EXIF and add small pixel perturbations in an effort to… |
+| 2026-10-02 01:54:11 | [pymsbwt](https://pypi.org/project/pymsbwt/) | 0.4.0 | Leonard McMillan | 24.2 MB | Multi-string BWT merging and querying for genomic strings (Python 3 modernizati… |
+| 2026-10-02 01:55:24 | [roottrait](https://pypi.org/project/roottrait/) | 1.0.0 | Samir Hossain | 37.9 kB | Root traits from binary masks, and calibrated mask degradations for testing how… |
+| 2026-10-02 01:58:07 | [graphwalk](https://pypi.org/project/graphwalk/) | 0.1.0 | Manvir Chakal | 391.9 kB | Cheap, confidence-scored question answering over knowledge graphs: each hop is… |
+| 2026-10-02 01:58:09 | [nukerhugo](https://pypi.org/project/nukerhugo/) | 0.1.0 |  | 44.1 kB | Nukerhugo CLI - sign in to Nukerhugo AI and run Nukerhugo tools (standard libra… |
+| 2026-10-02 01:59:04 | [nukerhugo-code](https://pypi.org/project/nukerhugo-code/) | 0.1.0 |  | 43.1 kB | Nukerhugo Code - a terminal coding agent (standard library only) |
+| 2026-10-02 02:00:21 | [datacompolars](https://pypi.org/project/datacompolars/) | 0.2.1 | "Nini (B. L. Z. Rosa)" <vblzr… | 70.7 kB | Comparação de DataFrames/arquivos em Polars escalável - com hash de linha, jane… |
+| 2026-10-02 02:01:57 | [librarian-scholarly](https://pypi.org/project/librarian-scholarly/) | 0.1.0 | Kevin J. Smith | 32.5 kB | Scholarly search backend for librarian: OpenAlex, Crossref, arXiv, PubMed and S… |
+| 2026-10-02 02:02:08 | [librarian-uspto](https://pypi.org/project/librarian-uspto/) | 0.1.0 | Kevin J. Smith | 24.3 kB | USPTO patent search backend for librarian: granted patents and published applic… |
+| 2026-10-02 02:02:16 | [librarian-brave](https://pypi.org/project/librarian-brave/) | 0.1.0 | Kevin J. Smith | 21.4 kB | Brave Search API backend for librarian's research loop |
+| 2026-10-02 02:02:40 | [nss-engine](https://pypi.org/project/nss-engine/) | 2.5.0 | RblxDev-ALS | 1.3 MB | U.S. Treasury yield curve engine: Nelson-Siegel-Svensson fits since 1990, a sur… |
+| 2026-10-02 02:05:00 | [mcp-netbox](https://pypi.org/project/mcp-netbox/) | 0.1.0 |  | 40.2 kB | MCP server exposing a NetBox DCIM/IPAM instance as read-only tools |
+| 2026-10-02 02:05:47 | [backtest2live](https://pypi.org/project/backtest2live/) | 0.2.0 | Martian Mobile <martin@martia… | 103.7 kB | Check a backtest against what live execution would do: convergence, fill-gap, a… |
+| 2026-10-02 02:08:49 | [omnisus-dbf](https://pypi.org/project/omnisus-dbf/) | 0.2.0 |  | 1.4 MB | Optional DBF to Arrow reader and DBC decompressor for omnisus |
+| 2026-10-02 02:09:29 | [funcd-bundle](https://pypi.org/project/funcd-bundle/) | 0.3.0 | The funcd Authors | 47.2 kB | Bundle a Python funcd function and its locked dependencies for the funcd runtime |
+| 2026-10-02 02:11:50 | [dendra](https://pypi.org/project/dendra/) | 0.27.2 |  | 2.6 MB | Differentiable neuronal simulation and macroscopic descriptor optimization |
+| 2026-10-02 02:15:34 | [fontpkg-exo](https://pypi.org/project/fontpkg-exo/) | 2.1 |  | 182.0 kB | Exo font family, packaged for Python by fontpkg |
+| 2026-10-02 02:15:36 | [fontpkg-archivo-narrow](https://pypi.org/project/fontpkg-archivo-narrow/) | 3.2 |  | 104.6 kB | Archivo Narrow font family, packaged for Python by fontpkg |
+| 2026-10-02 02:15:38 | [fontpkg-ibm-plex-serif](https://pypi.org/project/fontpkg-ibm-plex-serif/) | 2.6 |  | 1.1 MB | IBM Plex Serif font family, packaged for Python by fontpkg |
+| 2026-10-02 02:15:41 | [fontpkg-noto-sans-arabic](https://pypi.org/project/fontpkg-noto-sans-arabic/) | 2.12 |  | 461.5 kB | Noto Sans Arabic font family, packaged for Python by fontpkg |
