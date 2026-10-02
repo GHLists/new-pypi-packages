@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T09:19:54Z,plesty-pi-mirror-controller,0.1.0,"Maximilian Heller <maximilian.heller@fkp.uni-hannover.de>, Yunshuang Yuan <yunshuang.yuan@fkp.uni-h…",LGPL-3.0-or-later,195009,A plesty pi mirror controller device.
+2026-10-02T09:24:05Z,descriptron-sam3,2.5.1,Alex R. Van Dam,Apache-2.0,2744821,"SAM 3 for Descriptron: find every instance of a small structure (e.g. setae) from examples, clicks or a word"
+2026-10-02T09:24:26Z,langchain-infinispan,0.1.0,Infinispan <vittorio@infinispan.org>,Apache-2.0,31468,An integration package connecting Infinispan and LangChain
+2026-10-02T09:24:57Z,noone-protocol,1.0.0,Noone Protocol Working Group,,16194,Autonomous ethical alignment and vault protocol guardrail for AI agents.
+2026-10-02T09:28:37Z,protocol-drawing-studio,0.1.0,Brancaccio Lab,MIT AND Apache-2.0 AND BSD-3-Clause AND CC0-1.0 AND CC-BY-3.0 AND CC-BY-4.0,188592064,Editable scientific SVG drawings with a shared ai-ify assistant
+2026-10-02T09:29:05Z,embodify,0.1.0a2,Yida Yang,Apache-2.0,2671,Embodify: give your agent a body. Installs the embodify-mcp package.
+2026-10-02T09:30:27Z,CS-fibonacci-tdd-kata,0.1.0,Salwa Azariouh,MIT,3815,"A TDD kata: Fibonacci, from notebook exploration to a tested, published package"
+2026-10-02T09:33:57Z,climweb-bulletin-studio,0.1.0a1,FGG Consultant,MIT,483976,"Block-based bulletin editor for WMO ClimWeb, backed by the Bulletin Studio JS app."
+2026-10-02T09:35:07Z,dj11,0.1.0,,,41264,
+2026-10-02T09:35:44Z,fieldproof,0.2.1,Anton Soloviev <anton@praviel.com>,MIT,117517,Document extraction that shows its work: every field linked to the exact words it came from.
+2026-10-02T09:36:18Z,bdbcar,0.1.0,topxauen,MIT,26475,"Consulta de solo lectura a una base CARIS BDB: ultimas features modificadas a CSV, con credenciales pedidas en un formulario web local."
+2026-10-02T09:36:21Z,safe-api-keys,0.1.0,Aaron-lab-c,MIT,211439,"Framework-agnostic API key lifecycle: issue, verify, revoke, rotate, expire, purge and audit."
+2026-10-02T09:36:39Z,elport,0.1.3,,MIT,169998,Git-like sync CLI for eLabFTW (local-first push/pull of Markdown/HTML lab notes)
+2026-10-02T09:37:06Z,ragfuse,0.1.0,,,27024,A simple RAG package for loading and chunking documents
+2026-10-02T09:37:15Z,purrdf-rdflib,3.0.0,"""Blackcat Informatics Inc."" <paudley@blackcatinformatics.ca>",(MIT OR Apache-2.0 OR MulanPSL-2.0) AND CC-BY-4.0,36295,Opt-in top-level `import rdflib` shadow that resolves to purrdf's rdflib compatibility surface
+2026-10-02T09:37:46Z,altar-chrombpnet,0.1.0,Riya Sinha,MIT,46886,ChromBPNet model binding for large-scale Altar variant scoring
+2026-10-02T09:37:49Z,altar-opentargets-e2g,0.1.0,Riya Sinha,MIT,20271,Open Targets ENCODE-rE2G binding for Altar's variant-gene link contract
+2026-10-02T09:44:47Z,fibonacci-abdou-kata,0.1.0,Abdessamed Benaidja <abdessamed630@gmail.com>,MIT,59454,"A TDD kata: Fibonacci, from notebook exploration to a tested, published package"
+2026-10-02T09:45:24Z,formulens,0.0.1,Rajesh Das,MIT,11476,Local equation-to-LaTeX recognition with a Linux-first CLI.
+2026-10-02T09:48:16Z,MATE-contract,1.0.0.dev0,Sébastien Billès,LGPL-3.0-or-later,32925,"Contract of MATE, the Modular Algorithmic Toolkit for Evolution: exchange types and interfaces shared by all modules"
+2026-10-02T09:50:44Z,MATE-libraries,1.0.0.dev0,Sébastien Billès,LGPL-3.0-or-later,32812,"Libraries of MATE, the Modular Algorithmic Toolkit for Evolution: network library and standard operators library for MATE modules"
+2026-10-02T09:50:53Z,MATE-runtime,1.0.0.dev0,Sébastien Billès,LGPL-3.0-or-later,34147,"Runtime of MATE, the Modular Algorithmic Toolkit for Evolution: runs, records and replays artificial evolution experiments"
+2026-10-02T09:51:07Z,figma-extractor,2.1.0,Vicky Kumar <vickykumar7125@users.noreply.github.com>,MIT,196662,"Extract design tokens, screens, components, and assets from local or remote Figma files"
+2026-10-02T09:51:08Z,cleandeck,0.0.1,Axel Schlumberger,MIT,3462,"Cleandeck: slide decks from Markdown, for the web and PowerPoint (placeholder release)"
+2026-10-02T09:51:57Z,plan-shard,0.1.0,hao li,MIT,20354,Split monolithic AI plans into executable shards; apply targeted feedback to one shard at a time
+2026-10-02T09:54:53Z,stattest-pro,0.2.0,Bibek Dhakal,MIT,16787,End-to-End A/B Testing Analysis Framework with Sample Size Calculation and Automated Reporting
+2026-10-02T09:57:51Z,gpuphot,1.0.2,"Samuel Lemes-Perera, Miguel R. Alarcon",MIT,361875,A GPU-accelerated library for astronomical photometry and astrometry
+2026-10-02T09:59:27Z,ffgs,0.1.0.dev0,libgs contributors,Apache-2.0 AND MIT AND CC-BY-NC-4.0 AND CC-BY-NC-SA-4.0,996568,Standard inference for feed-forward 3D Gaussian Splatting models
+2026-10-02T10:02:17Z,garfold,0.2.0,Hanju Lee,MIT,236879,"GPU-accelerated RNA secondary structure prediction (MFE and partition function, Triton kernels)"
+2026-10-02T10:06:24Z,eeg-analyst,0.0.0,Bohee Lee <bohee.lee@snu.ac.kr>,MIT,3615,"EEG Analyst: automatic EEG preprocessing, evidence-graded markers, faithfulness by intervention. Name reservation; first functional release pending."
+2026-10-02T10:08:29Z,dllab,1.0.0,,,25497,"Deep Learning lab experiments 1-5: Perceptron/MLP, activations, optimizers, CNN, RNN/LSTM/GRU"
+2026-10-02T10:09:23Z,mnemox-control,0.3.1,,AGPL-3.0-only,123477,Deterministic risk-control and decision-evidence contracts for agentic trading
+2026-10-02T10:10:36Z,transformers-fastapi-kit,0.1.0,Transformers FastAPI Kit Contributors,MIT,7129,A clean Hugging Face Transformers inference wrapper with a FastAPI REST server.
+2026-10-02T10:17:04Z,langchain-kavel,0.1.0,Kavel,MIT,7440,"LangChain tool for Kavel AI image generation, usable with no API key"

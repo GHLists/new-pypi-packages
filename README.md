@@ -8,44 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 09:18 UTC
+## Latest list — 2026-10-02 10:18 UTC
 
-New packages created between 2026-10-02 08:21 UTC and 2026-10-02 09:18 UTC.
+New packages created between 2026-10-02 09:18 UTC and 2026-10-02 10:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-02T09-18-45-295975Z.csv)
+[Full CSV](data/new-packages-2026-10-02T10-18-37-807769Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-02 07:37:57 | [oxp-ontology](https://pypi.org/project/oxp-ontology/) | 1.0.0 | Outshift Open <oss@cisco.com> | 93.4 kB | The MAS execution ontology for the Observe and eXplain Platform. |
-| 2026-10-02 08:22:47 | [pyhurray](https://pypi.org/project/pyhurray/) | 0.1.0 |  | 5.2 MB | Python bindings for the Hurray tensor interchange format |
-| 2026-10-02 08:25:38 | [streptocad](https://pypi.org/project/streptocad/) | 1.0.0 | Technical University of Denma… | 110.9 kB | An open-source software toolbox supporting genome engineering workflows in stre… |
-| 2026-10-02 08:26:42 | [django-bale-payments](https://pypi.org/project/django-bale-payments/) | 0.1.0 | Fineq | 61.3 kB | Native Bale Wallet payments for Django. |
-| 2026-10-02 08:30:36 | [pptd-utils](https://pypi.org/project/pptd-utils/) | 2026.10.2.dev3 | binaryify | 18.1 MB | Offline PPTD v2 toolkit for converting editable presentations to PowerPoint |
-| 2026-10-02 08:31:25 | [opensafety](https://pypi.org/project/opensafety/) | 0.0.1 | OpenSafety Team | 5.0 kB | Open-source Pharmacovigilance AI for ADR extraction, MedDRA coding, and listedn… |
-| 2026-10-02 08:36:26 | [hgvs-weaver-data](https://pypi.org/project/hgvs-weaver-data/) | 0.1.1 | Tobias Sargeant <toby.sargean… | 300.8 kB | Reference data for the hgvs-weaver HGVS engine: a builder that cuts RefSeq and… |
-| 2026-10-02 08:37:52 | [embodify-mcp](https://pypi.org/project/embodify-mcp/) | 0.1.0a1 | Yida Yang | 341.4 kB | Embodify MCP server: robot observation and control tools for the agent you alre… |
-| 2026-10-02 08:39:34 | [fibonacci-tdd-kata-viethung103](https://pypi.org/project/fibonacci-tdd-kata-viethung103/) | 0.1.0 | viethung <viethungpc103@gmail… | 75.4 kB | A TDD Kata: Fibonacci, from notebook exploration to a tested, pubilshed package |
-| 2026-10-02 08:41:52 | [pipecat-mirai](https://pypi.org/project/pipecat-mirai/) | 0.1.0 | Sona Labs Pvt Ltd <sneh.mehta… | 29.7 kB | Mirai text-to-speech (Hindi, Hinglish, Gujarati) for Pipecat voice agents |
-| 2026-10-02 08:42:49 | [nerova-sdk](https://pypi.org/project/nerova-sdk/) | 0.3.0b1 | Nerova Systems | 302.3 kB | Server-side Python client for the Nerova stable tenant-v1 API. |
-| 2026-10-02 08:43:56 | [melotts-mblt](https://pypi.org/project/melotts-mblt/) | 0.0.0 | "Mobilint Inc." <tech-support… | 4.2 MB | MeloTTS text-to-speech on Mobilint NPUs: English and Korean speech synthesis wi… |
-| 2026-10-02 08:47:51 | [pretix-event-analytics](https://pypi.org/project/pretix-event-analytics/) | 2.2.1 | Hexadexa | 523.1 kB | Analytics suite for Pretix: sales against previous editions, first-timers and r… |
-| 2026-10-02 08:47:58 | [smriti-kaal-mcp](https://pypi.org/project/smriti-kaal-mcp/) | 0.1.0 | Smriti <spy9191@gmail.com> | 48.0 kB | Model Context Protocol server for Smriti — Temporal AI Memory for Claude, Curso… |
-| 2026-10-02 08:49:33 | [lss-serial-ports](https://pypi.org/project/lss-serial-ports/) | 0.1.2 |  | 8.9 kB | List serial ports and filter by keyword. |
-| 2026-10-02 08:50:13 | [aiorentman](https://pypi.org/project/aiorentman/) | 0.2.1 | Daan Vervacke | 121.3 kB | Unofficial asynchronous Python library to interact with the Rentman API |
-| 2026-10-02 08:51:10 | [aiofarmad](https://pypi.org/project/aiofarmad/) | 0.1.0 | Daan Vervacke | 49.0 kB | Unofficial asynchronous Python library to interact with the Mijn Farmad Apothee… |
-| 2026-10-02 08:56:45 | [saguin](https://pypi.org/project/saguin/) | 0.0.1 | Italo Nesi | 2.7 kB | Placeholder for the Sagüin Python SDK. The first release is coming soon. |
-| 2026-10-02 08:58:41 | [best-linear-approximation](https://pypi.org/project/best-linear-approximation/) | 0.1.0 | merijn.floren@gmail.com | 63.2 kB | Estimate nonparametric best linear approximations of nonlinear systems |
-| 2026-10-02 08:59:17 | [planttrend](https://pypi.org/project/planttrend/) | 0.1.0 | planttrend contributors | 62.0 kB | Industrial plotting helpers for time-series and process analytics. |
-| 2026-10-02 09:00:03 | [seed-ai](https://pypi.org/project/seed-ai/) | 0.0.1 |  | 2.6 kB | Seed AI: Lifelong memory and tools for AI agents, by Seed Frontier. Name reserv… |
-| 2026-10-02 09:00:06 | [frontier-ai](https://pypi.org/project/frontier-ai/) | 0.0.1 |  | 2.6 kB | Frontier AI: Tools and research for long-lived AI agents, by Seed Frontier. Nam… |
-| 2026-10-02 09:02:40 | [rewire-genomics-mcp](https://pypi.org/project/rewire-genomics-mcp/) | 0.1.0 | Tim Richardson | 920.3 kB | MCP server for bounded genomic data retrieval and versioned reference evidence |
-| 2026-10-02 09:06:53 | [pam-glider-viz](https://pypi.org/project/pam-glider-viz/) | 1.0.0 |  | 112.7 kB | A Streamlit app for exploring PAM glider audio and LTSA data |
-| 2026-10-02 09:07:35 | [scoped-correspondence](https://pypi.org/project/scoped-correspondence/) | 0.42.0 | Johann Römer | 1.1 MB | Formal correspondence contracts between mathematical models, with an independen… |
-| 2026-10-02 09:08:21 | [yatmo](https://pypi.org/project/yatmo/) | 1.0.0 | Yatmo <support@yatmo.com> | 35.7 kB | Real estate maps, points of interest and neighbourhood data: the official Pytho… |
-| 2026-10-02 09:10:38 | [fizzbuzz-tdd-kata-jousset](https://pypi.org/project/fizzbuzz-tdd-kata-jousset/) | 0.1.0 | Tom Jousset | 3.4 kB | a fizzbuzz test project |
-| 2026-10-02 09:11:01 | [onbgm](https://pypi.org/project/onbgm/) | 0.1.0 | anelikes <contact@onbgm.com> | 283.3 kB | Instrumental background music written note by note by AI agents: a text score i… |
-| 2026-10-02 09:12:22 | [femto-editor](https://pypi.org/project/femto-editor/) | 0.0.1 | Femto Contributors | 30.6 kB | Femto - a tiny nano-style terminal text editor in pure Python |
-| 2026-10-02 09:12:59 | [forge-orchestrator](https://pypi.org/project/forge-orchestrator/) | 0.1.0b1 | Forge Contributors | 469.8 kB | CLI-first multi-agent orchestration framework |
-| 2026-10-02 09:13:44 | [robotics-acceptance-harness](https://pypi.org/project/robotics-acceptance-harness/) | 0.19.0 | mmkolpakov | 271.6 kB | Attach-only acceptance observer for validated robotics executions. |
-| 2026-10-02 09:14:29 | [proofpack](https://pypi.org/project/proofpack/) | 0.1.0.dev1 | Global Phoenix Solutions Ltd | 408.7 kB | ProofPack engine: validated ingest, declarations and statistical evidence packs… |
-| 2026-10-02 09:17:28 | [pyronaut](https://pypi.org/project/pyronaut/) | 0.0.8 |  | 75.8 MB | Pyronaut v2 SDK orchestrator |
+| 2026-10-02 09:19:54 | [plesty-pi-mirror-controller](https://pypi.org/project/plesty-pi-mirror-controller/) | 0.1.0 | Maximilian Heller <maximilian… | 195.0 kB | A plesty pi mirror controller device. |
+| 2026-10-02 09:24:05 | [descriptron-sam3](https://pypi.org/project/descriptron-sam3/) | 2.5.1 | Alex R. Van Dam | 2.7 MB | SAM 3 for Descriptron: find every instance of a small structure (e.g. setae) fr… |
+| 2026-10-02 09:24:26 | [langchain-infinispan](https://pypi.org/project/langchain-infinispan/) | 0.1.0 | Infinispan <vittorio@infinisp… | 31.5 kB | An integration package connecting Infinispan and LangChain |
+| 2026-10-02 09:24:57 | [noone-protocol](https://pypi.org/project/noone-protocol/) | 1.0.0 | Noone Protocol Working Group | 16.2 kB | Autonomous ethical alignment and vault protocol guardrail for AI agents. |
+| 2026-10-02 09:28:37 | [protocol-drawing-studio](https://pypi.org/project/protocol-drawing-studio/) | 0.1.0 | Brancaccio Lab | 188.6 MB | Editable scientific SVG drawings with a shared ai-ify assistant |
+| 2026-10-02 09:29:05 | [embodify](https://pypi.org/project/embodify/) | 0.1.0a2 | Yida Yang | 2.7 kB | Embodify: give your agent a body. Installs the embodify-mcp package. |
+| 2026-10-02 09:30:27 | [CS-fibonacci-tdd-kata](https://pypi.org/project/CS-fibonacci-tdd-kata/) | 0.1.0 | Salwa Azariouh | 3.8 kB | A TDD kata: Fibonacci, from notebook exploration to a tested, published package |
+| 2026-10-02 09:33:57 | [climweb-bulletin-studio](https://pypi.org/project/climweb-bulletin-studio/) | 0.1.0a1 | FGG Consultant | 484.0 kB | Block-based bulletin editor for WMO ClimWeb, backed by the Bulletin Studio JS a… |
+| 2026-10-02 09:35:07 | [dj11](https://pypi.org/project/dj11/) | 0.1.0 |  | 41.3 kB |  |
+| 2026-10-02 09:35:44 | [fieldproof](https://pypi.org/project/fieldproof/) | 0.2.1 | Anton Soloviev <anton@praviel… | 117.5 kB | Document extraction that shows its work: every field linked to the exact words… |
+| 2026-10-02 09:36:18 | [bdbcar](https://pypi.org/project/bdbcar/) | 0.1.0 | topxauen | 26.5 kB | Consulta de solo lectura a una base CARIS BDB: ultimas features modificadas a C… |
+| 2026-10-02 09:36:21 | [safe-api-keys](https://pypi.org/project/safe-api-keys/) | 0.1.0 | Aaron-lab-c | 211.4 kB | Framework-agnostic API key lifecycle: issue, verify, revoke, rotate, expire, pu… |
+| 2026-10-02 09:36:39 | [elport](https://pypi.org/project/elport/) | 0.1.3 |  | 170.0 kB | Git-like sync CLI for eLabFTW (local-first push/pull of Markdown/HTML lab notes) |
+| 2026-10-02 09:37:06 | [ragfuse](https://pypi.org/project/ragfuse/) | 0.1.0 |  | 27.0 kB | A simple RAG package for loading and chunking documents |
+| 2026-10-02 09:37:15 | [purrdf-rdflib](https://pypi.org/project/purrdf-rdflib/) | 3.0.0 | "Blackcat Informatics Inc." <… | 36.3 kB | Opt-in top-level `import rdflib` shadow that resolves to purrdf's rdflib compat… |
+| 2026-10-02 09:37:46 | [altar-chrombpnet](https://pypi.org/project/altar-chrombpnet/) | 0.1.0 | Riya Sinha | 46.9 kB | ChromBPNet model binding for large-scale Altar variant scoring |
+| 2026-10-02 09:37:49 | [altar-opentargets-e2g](https://pypi.org/project/altar-opentargets-e2g/) | 0.1.0 | Riya Sinha | 20.3 kB | Open Targets ENCODE-rE2G binding for Altar's variant-gene link contract |
+| 2026-10-02 09:44:47 | [fibonacci-abdou-kata](https://pypi.org/project/fibonacci-abdou-kata/) | 0.1.0 | Abdessamed Benaidja <abdessam… | 59.5 kB | A TDD kata: Fibonacci, from notebook exploration to a tested, published package |
+| 2026-10-02 09:45:24 | [formulens](https://pypi.org/project/formulens/) | 0.0.1 | Rajesh Das | 11.5 kB | Local equation-to-LaTeX recognition with a Linux-first CLI. |
+| 2026-10-02 09:48:16 | [MATE-contract](https://pypi.org/project/MATE-contract/) | 1.0.0.dev0 | Sébastien Billès | 32.9 kB | Contract of MATE, the Modular Algorithmic Toolkit for Evolution: exchange types… |
+| 2026-10-02 09:50:44 | [MATE-libraries](https://pypi.org/project/MATE-libraries/) | 1.0.0.dev0 | Sébastien Billès | 32.8 kB | Libraries of MATE, the Modular Algorithmic Toolkit for Evolution: network libra… |
+| 2026-10-02 09:50:53 | [MATE-runtime](https://pypi.org/project/MATE-runtime/) | 1.0.0.dev0 | Sébastien Billès | 34.1 kB | Runtime of MATE, the Modular Algorithmic Toolkit for Evolution: runs, records a… |
+| 2026-10-02 09:51:07 | [figma-extractor](https://pypi.org/project/figma-extractor/) | 2.1.0 | Vicky Kumar <vickykumar7125@u… | 196.7 kB | Extract design tokens, screens, components, and assets from local or remote Fig… |
+| 2026-10-02 09:51:08 | [cleandeck](https://pypi.org/project/cleandeck/) | 0.0.1 | Axel Schlumberger | 3.5 kB | Cleandeck: slide decks from Markdown, for the web and PowerPoint (placeholder r… |
+| 2026-10-02 09:51:57 | [plan-shard](https://pypi.org/project/plan-shard/) | 0.1.0 | hao li | 20.4 kB | Split monolithic AI plans into executable shards; apply targeted feedback to on… |
+| 2026-10-02 09:54:53 | [stattest-pro](https://pypi.org/project/stattest-pro/) | 0.2.0 | Bibek Dhakal | 16.8 kB | End-to-End A/B Testing Analysis Framework with Sample Size Calculation and Auto… |
+| 2026-10-02 09:57:51 | [gpuphot](https://pypi.org/project/gpuphot/) | 1.0.2 | Samuel Lemes-Perera, Miguel R… | 361.9 kB | A GPU-accelerated library for astronomical photometry and astrometry |
+| 2026-10-02 09:59:27 | [ffgs](https://pypi.org/project/ffgs/) | 0.1.0.dev0 | libgs contributors | 996.6 kB | Standard inference for feed-forward 3D Gaussian Splatting models |
+| 2026-10-02 10:02:17 | [garfold](https://pypi.org/project/garfold/) | 0.2.0 | Hanju Lee | 236.9 kB | GPU-accelerated RNA secondary structure prediction (MFE and partition function,… |
+| 2026-10-02 10:06:24 | [eeg-analyst](https://pypi.org/project/eeg-analyst/) | 0.0.0 | Bohee Lee <bohee.lee@snu.ac.k… | 3.6 kB | EEG Analyst: automatic EEG preprocessing, evidence-graded markers, faithfulness… |
+| 2026-10-02 10:08:29 | [dllab](https://pypi.org/project/dllab/) | 1.0.0 |  | 25.5 kB | Deep Learning lab experiments 1-5: Perceptron/MLP, activations, optimizers, CNN… |
+| 2026-10-02 10:09:23 | [mnemox-control](https://pypi.org/project/mnemox-control/) | 0.3.1 |  | 123.5 kB | Deterministic risk-control and decision-evidence contracts for agentic trading |
+| 2026-10-02 10:10:36 | [transformers-fastapi-kit](https://pypi.org/project/transformers-fastapi-kit/) | 0.1.0 | Transformers FastAPI Kit Cont… | 7.1 kB | A clean Hugging Face Transformers inference wrapper with a FastAPI REST server. |
+| 2026-10-02 10:17:04 | [langchain-kavel](https://pypi.org/project/langchain-kavel/) | 0.1.0 | Kavel | 7.4 kB | LangChain tool for Kavel AI image generation, usable with no API key |
