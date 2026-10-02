@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T04:20:26Z,cutan,0.0.2,Thor Whalen,MIT,1078536,"Cut-out animation for an: rigged characters, faces, lip-sync and styles, as a genre package on the an core."
+2026-10-02T04:25:44Z,marifai-harness,0.3.0,Sultani Investments,MIT,277289,"Embeddable agent execution, orchestration, subagents and funded resource governance"
+2026-10-02T04:25:50Z,einvoice-tw,0.1.0,ARON,MIT,55287,"Parse Taiwan e-invoice (電子發票) QR codes and barcodes into structured data, and check them against the uniform-invoice lottery."
+2026-10-02T04:26:18Z,llama-extract-bench,1.0.0,LlamaIndex,Apache-2.0,2362466,ExtractBench: a benchmark and evaluation harness for schema-guided document extraction on real-world enterprise documents
+2026-10-02T04:27:10Z,memira,0.0.1,,Proprietary,2307,Placeholder release. Full package coming soon.
+2026-10-02T04:30:34Z,claveles-core,0.1.0,"""OptQC Corp."" <oss@optqc.com>",Apache-2.0,631883,Software development kit for continuous-variable quantum computing
+2026-10-02T04:30:37Z,claveles,0.1.0,"""OptQC Corp."" <oss@optqc.com>",Apache-2.0,15910,Claveles meta-package (installs claveles-core and claveles-simulator)
+2026-10-02T04:32:59Z,taktikal,0.0.1,,Proprietary,2320,Placeholder release. Full package coming soon.
+2026-10-02T04:33:13Z,hf-auto-script,0.1.1,海风,,263595,期货公司结算部核心自动化框架：浏览器自动化、数据库操作、邮件、企业微信集成
+2026-10-02T04:33:20Z,git-retell,0.1.0,James Stout,Apache-2.0,116007,Synthetic Git histories for code review
+2026-10-02T04:34:51Z,jev-rag-retrieval,1.0.0,Mersiv Media <contact@mersivmedia.com>,MIT,267895,Jev-steered ingestion and retrieval for any vector database
+2026-10-02T04:34:58Z,corroborus,0.0.1,,LicenseRef-Proprietary,2372,Placeholder release. Full package coming soon.
+2026-10-02T04:35:14Z,clef-rag,0.1.0,Mersiv Media <contact@mersivmedia.com>,MIT,287000,"Clef-steered ingestion and retrieval for any vector database: Cloudflare Workers AI, self-hosted, or local weights"
+2026-10-02T04:35:45Z,clef-finetune,0.1.0,Mersiv Media <contact@mersivmedia.com>,Apache-2.0,79466,LoRA fine-tuning toolkit for Cloudflare's open-source Clef / Clef-flash decision models
+2026-10-02T04:37:02Z,hemis,0.0.1,,LicenseRef-Proprietary,2284,Placeholder release. Full package coming soon.
+2026-10-02T04:38:51Z,SeInE-HB,0.1.2,Alexander Schmidt,"MIT License Copyright (c) 2025 woxxel Permission is hereby granted, free of charge, to any person o…",31263,Selectivity Inference from Event counts using Hierarchical Bayesian inference
+2026-10-02T04:40:10Z,plccontroller,0.0.1,Md Shahriar Forhad,MIT,15252,Python interface for Siemens PLC communication using python-snap7
+2026-10-02T04:41:27Z,jeanspy,0.1.0,Shunichi Horigome,BSD-3-Clause,6823398,Jeans-analysis toolkit for dwarf spheroidal galaxy dynamical modeling and inference
+2026-10-02T04:42:44Z,odoo-addon-sustainability-purchase-stock,16.0.1.1.0.3,=?utf-8?q?MCO2=2C_Open_Net_S=C3=A0rl?=,AGPL-3,23238,Sustainability Purchase Stock
+2026-10-02T04:43:33Z,whizi-field-guides,0.1.0,Nour,MIT,12451,Offline copies of the Whizi field guides on using several AI models together and what AI subscriptions really cost.
+2026-10-02T04:45:17Z,shellpack,0.1.0,"NeuMagic, Inc.",MIT,35778,Pack a shell script and the fragments it sources into one standalone file
+2026-10-02T04:45:23Z,grimble,0.0.0,Logan <logan@logandapp.com>,MIT,2108,"Placeholder for grimble, the structural and design linter from the frob workspace (Rust binary; releases follow)."
+2026-10-02T04:51:13Z,honeypot-ai,0.2.0b1,Saisakthi <saisakthicloud@gmail.com>,MIT,76390,Prompt-injection honeypot: scan pages for hidden instructions and test whether AI agents (including Selenium-driven ones) fall for them
+2026-10-02T04:55:45Z,circuit-agent-client,0.1.5,sora,MIT,56485,"CircuitAgent Community Edition: hardware DSL, LCSC live-selection client, and netlist contracts"
+2026-10-02T05:00:19Z,legal-rag-router,0.1.0,Abdullah Memon <abdullah@memonsystems.com>,AGPL-3.0-only,977053,Deterministic coordinate pre-routing and epistemic abstention for legal RAG
+2026-10-02T05:12:10Z,agim,0.0.1,,,69992,"Standalone plugin toolkit for IM platform login, receive, and send"
+2026-10-02T05:13:28Z,zett-weixin,0.0.1,,,168498,"Zett channel plugin for personal WeChat, built on the agim SDK"
+2026-10-02T05:13:32Z,hyperot-adapter-milky,2.0.1,,,45800,Milky protocol adapter for HyperBotCore V2
+2026-10-02T05:15:04Z,zettelekasten,0.0.1,,MIT,10426408,"A local-first, AI-assisted workspace for turning fleeting thoughts, conversations, links, and assets into reusable knowledge"
+2026-10-02T05:16:42Z,nicegui-shadcn,0.1.0,XiangQinxi,MIT,340112,"shadcn/ui components for NiceGUI — 51 components with a precompiled Tailwind v4 theme, no build step for the user"
