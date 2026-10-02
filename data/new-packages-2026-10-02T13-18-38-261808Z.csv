@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T12:20:13Z,mprageise,1.9.2,Sriranga Kashyap <srikashmri@gmail.com>,MIT,28836,Background denoise MP2RAGE UNI images (MPRAGEising) whilst either removing or reintroducing the bias field - Powered by AFNI
+2026-10-02T12:22:28Z,kamakuraquantlab-qate,0.1.0,Kamakura Quant Lab <support@kamakuraquantlab.jp>,Apache-2.0,157460,Quantitative trading library for backtesting against recorded market data
+2026-10-02T12:22:39Z,kamakuraquantlab-qate-env,0.1.0,Kamakura Quant Lab <support@kamakuraquantlab.jp>,Apache-2.0,35110,"Trading environments for qate: a run's directory, its configuration, and the machine around it"
+2026-10-02T12:25:26Z,publication-lens,1.0.0,Benjamin Piwowarski,MIT,2653818,"Track researchers' publications across sources and rank their venues, with per-person folders, notes and reports"
+2026-10-02T12:29:33Z,pyrus-pydantic,1.0,Gluschenko Daniil,SCB,39661,Библиотека для работы с Pyrus через Pydantic
+2026-10-02T12:30:02Z,kobo-hardcover-sync,0.1.0,Merlijn Tishauser <merlijn@ccadd.nl>,MIT,1777725,"Reading progress from a stock Kobo e-reader to Hardcover, on your own computer or your own server"
+2026-10-02T12:33:52Z,sauda,0.1.1,,MIT,7641065,"NSE market data for Python, backed by a bundled Rust gRPC server"
+2026-10-02T12:34:16Z,kis-trader,0.1.0,Seokhoon Joo <seokhoonj@gmail.com>,MIT,2927151,"A clean Python client for the Korea Investment & Securities (KIS) Open API (English identifiers, Korean docstrings for KIS users)"
+2026-10-02T12:40:11Z,myrmo,0.2.0,Myrmo contributors,Apache-2.0,51096,"Myrmo client: shared memory of solved errors for AI agents. Fingerprints, redaction and the colony API."
+2026-10-02T12:41:59Z,agent-framework-duckdb,1.0.0a261002,Microsoft <af-support@microsoft.com>,,31857,DuckDB vector stores for Microsoft Agent Framework.
+2026-10-02T12:42:07Z,jame,1.0.dev2,JAMe Contributors,MIT,46629,Just Another Method of Exploitation
+2026-10-02T12:42:35Z,agent-framework-sql-server,1.0.0a261002,Microsoft <af-support@microsoft.com>,,40120,SQL Server native vector integration for Microsoft Agent Framework.
+2026-10-02T12:42:37Z,sardine-py,0.0.1,sardine contributors,MIT,3403,JAX-based reinforcement learning platform (placeholder release; code coming soon)
+2026-10-02T12:42:40Z,agent-framework-typesafe,1.0.0a261002,Microsoft,,36952,TypeSafe AI integration for Microsoft Agent Framework.
+2026-10-02T12:43:07Z,litestar-keycloak-admin,0.1.0,Alexander Korolev,MIT,47595,Keycloak account and user administration for Litestar applications
+2026-10-02T12:44:08Z,multi-codex,0.7.0,,MIT,217178,"Run several Codex CLI accounts side by side: separate CODEX_HOME directories, launchers and proxies."
+2026-10-02T12:46:30Z,faberon,0.2.2,,MIT,44708,Faberon: Autonomous ML Research Harness
+2026-10-02T12:46:35Z,ag_ui_antigravity,0.1.0,,MIT,136464,Google Antigravity integration for the AG-UI Protocol
+2026-10-02T12:49:50Z,twincher,0.1.0,Arkady Gonoskov <contact@twincher.ai>,AGPL-3.0-only,91131,"Twinchers: trainable diffeomorphic representations for fast, never-stalling solution of inverse problems"
+2026-10-02T12:52:59Z,jira-tempo-mcp,0.6.0,Korrnals,MIT,357246,"MCP server for self-hosted Jira + Tempo Timesheets: track time, list worklogs, generate weekly reports."
+2026-10-02T12:55:13Z,depsmith,0.1.0rc1,,MIT,16972202,Review and apply dependency updates with a shared Rust CLI and Python API
+2026-10-02T12:55:38Z,hookrecon,0.9.2,,MIT,63685,Find Stripe payments that never reached your database — read-only Stripe↔Postgres reconciliation CLI
+2026-10-02T12:55:44Z,SeInE-orientation,0.1.0,Alexander Schmidt,,34389,Orientation Selectivity Inference from a Gabor model
+2026-10-02T12:56:57Z,orivane-backend-pydantic,0.1.0,,MIT,10297,Development PydanticAI runtime with validated tools and native session state
+2026-10-02T12:58:02Z,cuifw,1.0.0,Suleiman,MIT,19711,Console User Interface Framework - the GUI framework for the terminal
+2026-10-02T12:59:22Z,orivane-cli,0.1.0,,MIT,14005,Local developer CLI for Orivane
+2026-10-02T12:59:56Z,tcc-engine,26.10.0,,,7208639,TCC compiler frontend and native Python engine embedding
+2026-10-02T13:01:37Z,orivane-commerce,0.1.0,,MIT,8186,Platform-neutral commerce domain models and marketplace adapter contracts for Orivane
+2026-10-02T13:02:49Z,rope-profiler,0.1.0,,MIT,163534,Sampled RoPE diagnostics during existing model evaluation passes
+2026-10-02T13:03:05Z,dedh-devops-automation,0.0.1,,,490,DevOps automation utilities for CI/CD pipelines
+2026-10-02T13:09:19Z,reveriee,0.1.0,Hari Prasath S,MIT,21907,"Turn your idea into a published Python package: create the project files, then check them before you upload."
+2026-10-02T13:10:09Z,DataFence,0.0.1,,,2076,DataFence
+2026-10-02T13:10:11Z,clickhouse-alembic,0.4.1,Dan Young,MIT,143726,"Alembic-based migrations for ClickHouse, optimized for ClickHouse Cloud"
+2026-10-02T13:10:12Z,objectfile,0.0.1a1,Christian Heimes <christian@python.org>,Apache-2.0 OR MIT,3368212,"Parse ELF, Mach-O, PE, and WebAssembly object files: metadata, symbols, and dependencies"
+2026-10-02T13:12:16Z,bazis-cli,2.4.0,Ilya Kharyn <ilya.tt07@gmail.com>,Apache-2.0,39872,"The bazis command: creates, extends and audits Bazis projects with Claude (Claude Agent SDK)."
+2026-10-02T13:13:40Z,aitestingevening-sunita-qualityforge,0.0.1,sunita_qualityforge <author@example.com>,MIT,5170,A small example package
+2026-10-02T13:13:48Z,pyc-engine,0.1.0,,,4807,
+2026-10-02T13:15:25Z,hanatsumi,0.1.0,,GPL-3.0-only,86860,"Fetch every Danbooru tag into a local CSV: resumable, incremental, refreshable"
+2026-10-02T13:17:32Z,bitcraft,0.1.0,"Rohan Pattanayak, Jagadish Pattnaik, Shreya Mishra, Shreya Mohanty, Ashutosh Badapada, Rosalin Nayak",Apache-2.0,179431,"Bitcoin transaction intelligence in your terminal: ranked alerts, evidence and link analysis."
+2026-10-02T13:17:39Z,aitm,0.1.0,,,36812,
+2026-10-02T13:17:51Z,py3status-claude-usage,0.1.0,Stepan Henek,MIT,14538,py3status module showing Claude Code subscription usage
+2026-10-02T13:18:30Z,rt-interceptor,0.0.1,To_ri239 <iliaiva2015@yandex.ru>,Apache-2.0,49015,The ultimate low-overhead runtime hypervisor: Debugger + Logger + Profiler inside CPython engine
