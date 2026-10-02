@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T15:20:18Z,arc56-generated-deban-a23b4827,1.2.2026072010,Debanjannnn,,12701,Generated ARC-56 Algorand smart-contract clients for Debanjannnn/algorand-test.
+2026-10-02T15:20:29Z,Dien-Tich,1.0.0,Nguyen Le Minh Vu,,6491,Package tinh dien tich cac hinh hoc co ban
+2026-10-02T15:21:22Z,arc56-generated-deban-4b8a0b88,1.2.2026072010,Debanjannnn,,17949,Generated ARC-56 Algorand smart-contract clients for Debanjannnn/blahabkad.
+2026-10-02T15:24:47Z,ctx-store,0.7.0,,MIT,190221,"A markdown context store for coding agents: validated writes, budgeted reads, audit trail."
+2026-10-02T15:26:08Z,3d-review,0.1.0,Konstantinos Georgiou,MIT,771410,"Review a 3D design with an assistant: a web bench where a person marks what is wrong on the model, a ledger of which build step moved what, a requirement board whose rows are proven able to fail, and…"
+2026-10-02T15:26:15Z,borschscript,0.1.1,,,12340,An esoteric XMLlike joke programming language in Ukrainian.
+2026-10-02T15:27:13Z,chi-simple-add,0.1.0,Chi <email_cua_ban@example.com>,MIT,6017,Package cong hai so don gian - bai tap Python
+2026-10-02T15:28:30Z,fabric-chaincode-python,2.5.2,Hyperledger Community,Apache License v2.0,116454,Hyperledger Fabric chaincode shim and contract API for Python (experimental)
+2026-10-02T15:28:41Z,assisting-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47551,A machine that assists.
+2026-10-02T15:30:40Z,wiki-retriever,0.1.0,Radu Florian,Apache-2.0,109498,Wikipedia dump preparation and search services for RL sessions
+2026-10-02T15:30:45Z,mu_mcp,0.6.0,Daniel Fleischer,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",87129,A Model Context Protocol (MCP) server for mail-utils (mu) email indexing and search tool.
+2026-10-02T15:31:20Z,mpxnk-auth,1.0.1,meowthpxnk,MIT,30430,JWT RS256 session auth for FastAPI with Redis-backed refresh tokens
+2026-10-02T15:31:41Z,ace-jax,0.1.0,ACEsuit contributors,MIT,484650,Fit and evaluate ACE interatomic potentials in Python/JAX
+2026-10-02T15:35:29Z,mcp-github-crunchtools,1.0.1,crunchtools.com,AGPL-3.0-or-later,216364,"Secure MCP server for GitHub issues, pull requests, files, and search"
+2026-10-02T15:35:37Z,mcp-syslog-crunchtools,1.0.1,crunchtools.com,AGPL-3.0-or-later,223334,"Secure MCP server for centrally collected infrastructure logs — search, tail, grep, correlate"
+2026-10-02T15:37:32Z,trailsbi,0.0.1,,MIT,4982,"Trails for Power BI - follow any field from source to visual, across a whole Power BI workspace. (Early pre-release.)"
+2026-10-02T15:37:44Z,tidytrail,0.2.0,Sunil Gentyala,MIT,1645154,"Fast, safe disk-usage scanning and audited cleanup for servers, from Python or the command line."
+2026-10-02T15:37:55Z,shavira,0.1.0,SHAVIRA,MIT,33905,Official Python SDK for SHAVIRA — trace-first security observability for AI and agentic workflows.
+2026-10-02T15:38:49Z,tamgiac-datpeo,0.1.0,DatPeo,,3413,Package tính chu vi và diện tích tam giác
+2026-10-02T15:41:12Z,tsmist,1.0.0,Christopher Field <chris.field@theiascientific.com>,,178332,A Python Command Line Interface (CLI) application and package to run the Merging Instance Segmentation Tiler (MIST) with ML computer vision models
+2026-10-02T15:41:52Z,orcher-sdk,0.4.0,ORCHER Contributors,Apache-2.0,32037646,Python SDK for ORCHER: crash-proof workflows written as plain async Python
+2026-10-02T15:43:08Z,math-helper-min,0.0.0,,,2130,
+2026-10-02T15:43:57Z,maidr-mcp,0.1.0,JooYoung Seo <jseo1005@illinois.edu>,GPL-3.0-or-later,373375,"MCP server that shows accessible maidr charts in ChatGPT and Claude conversations, and lets the model move the reader through them"
+2026-10-02T15:45:21Z,runraccoon,0.1.1,Will,MIT,174569,"Local-only, drop-in replacement for Weights & Biases: same API and file layout, per-epoch and summary plots, and a localhost dashboard. No cloud."
+2026-10-02T15:46:04Z,ekko-stt,0.1.1,Emil Schledermann / RyeAI,MIT,52116,Local Danish speech recognition and punctuation with Ekko Tiny and PnC
+2026-10-02T15:47:21Z,gramlot-py-server,0.2.1,Genropy Team <info@softwell.it>,Apache-2.0,1213505,"Python server adapters for Gramlot pages: Uvicorn, Django, Flask, FastAPI and Kajenn"
+2026-10-02T15:49:36Z,multi-claude-cli,0.4.0,,MIT,275164,"Run several Claude Code accounts side by side: separate CLAUDE_CONFIG_DIR directories, launchers, proxies, environment variables and arguments."
+2026-10-02T15:52:20Z,dicex,0.1.0,Javier Martín-Chávez <jmartin16@us.es>,MIT,1990424,Directional counterfactual explanations: robust directions of change under uncertain execution (lower-tail CVaR)
+2026-10-02T15:54:02Z,kovi-sdk,0.1.0,TechEval.ai,,12431,Official Python SDK for Kovi AI Interview Platform
+2026-10-02T15:56:55Z,abstract-transfer,0.0.1,putkoff <partners@abstractendeavors.com>,MIT,14187,"One transport for HTTP pulls: resumable, parallel byte-range segments, per-chunk SHA-256 verification, .part staging + atomic rename, single-flight. Stdlib only."
+2026-10-02T15:59:01Z,askwol,0.1.1,"Kathrin Füllenbach <nes@tdcc.nl>, Dani Metilli <nes@tdcc.nl>",MIT,600039,"OWL ontology review and validation: class diagram, namespace and term checks, metadata and documentation review"
+2026-10-02T16:01:08Z,fimx,0.1.0,binado,MIT,31539,Dense Fisher matrix functions on labeled xarray arrays
+2026-10-02T16:01:48Z,CE53,0.1.0,,MIT,2645,Civil engineering calculation library by Abdullah Zubair
+2026-10-02T16:03:03Z,lupaxa-diff-ini-files,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",34172,"Compare two INI files by section, key, and value."
+2026-10-02T16:03:43Z,canvit-core,0.2.1,Yohaï-Eliel Berreby <me@yberreby.com>,MIT,36455,Shared architecture definitions for CanViT (Canvas Vision Transformer)
+2026-10-02T16:06:36Z,sun-solar-radiation,0.1.0,Raphael Prinz <raphael.prinz1993@gmail.com>,MIT,5346334,GPU-accelerated solar radiation modeling for digital elevation models
+2026-10-02T16:07:02Z,openstax-md,0.2.0,Michael Navazhylau <mikipux7@gmail.com>,MIT,146674,"High-fidelity compiler transforming OpenStax CNXML/COLLXML textbooks into GitHub Flavored Markdown with LaTeX math, publisher-accurate numbering, and cross-reference resolution."
+2026-10-02T16:10:18Z,appress,0.1.0,Appress,MIT,50453,Official Python client for the Appress public API
+2026-10-02T16:11:36Z,printimage,1.0.0,,,3130,Print images in the terminal using ANSI 256 colors
+2026-10-02T16:15:41Z,zscams-agent,2.0.37,OCD - Cairo Software Team,,78905,"Async TLS tunnel client with SNI routing, auto-reconnect, and health checks (Python 3.7 legacy)"
+2026-10-02T16:18:08Z,slideforge-studio,0.1.0,dmighty007,MIT,55014447,"A local presentation editor: slides with equations, diagrams, molecules, charts and animations, PowerPoint and PDF export."
