@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T08:19:33Z,tungsten-admin,0.1.2,Prism Infoways,MIT,1027736,"A Filament-style admin panel builder for FastAPI: resources, forms, tables, actions, widgets, auth and more."
+2026-10-03T08:20:27Z,olivetree-tools,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,3933,Building-block utilities used by olivetree agents.
+2026-10-03T08:22:41Z,nxtwaveai-ocr,1.0.0,NxtwaveAI <hello@nxtwaveai.com>,MIT,12835,Official Python SDK for OCR Agent — extract structured data from documents using AI
+2026-10-03T08:23:07Z,shopagent-core,0.1.1,,MIT,37041,"Core LangGraph agent, RAG, and tools for ShopAgent-OS - import into your own Python backend."
+2026-10-03T08:26:32Z,rakulang,5.2.0,Andrew Shitov,Artistic-2.0,37410571,"Raku grammars and an embedded Raku++ interpreter for Python, over librakupp"
+2026-10-03T08:31:29Z,olivetree-agents,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,3955,"Agentic components for life insurance pricing, built on olivetree tools."
+2026-10-03T08:32:51Z,omarthing,0.1.0,Omar-Thing,MIT,21888,"Python client for the unofficial TikTok API: profiles, followers, videos, comments, live data and search."
+2026-10-03T08:33:08Z,jabama-cli,0.1.0,MSNP1381 <mohamadnematpoor@gmail.com>,MIT,36676,"Fast CLI tool & Python client for searching, filtering, and extracting Jabama accommodation listings"
+2026-10-03T08:38:29Z,olivetree-mcp,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,3897,MCP server exposing olivetree tools and agents.
+2026-10-03T08:38:50Z,noth5-free-lite,81.2.0,NOTH5 Factory,,3963,NOTH5 FREE LITE V81 - 2 Controls PASS - Slider + Rating
+2026-10-03T08:41:22Z,wiply,1.0.0,wip contributors,MIT,17671,"Your work, beautifully tracked"
+2026-10-03T08:42:25Z,aer1-autogen,0.1.0,Brennan Zambo,,26644,AER-1 verifiable swarm receipts for Microsoft AutoGen
+2026-10-03T08:42:56Z,composer-nb,0.1.1,Pezanne Khambatta,,320730,"A small language for sketching chord progressions, played inside Jupyter notebooks."
+2026-10-03T08:43:41Z,quantype,0.1.0,Theo Keane,MIT OR Apache-2.0,4221750,Typed physical quantities for scientific Python and differentiable models
+2026-10-03T08:43:47Z,zambo-adk,0.1.0,Brennan Zambo,,28217,Zambo verifiable execution receipts for Google ADK agents
+2026-10-03T08:44:41Z,github-repository-sync,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,13280,Find and clone all repositories for a GitHub organization.
+2026-10-03T08:49:40Z,deadend,0.1.0,Pratik Mishra <pratikkmishra02@gmail.com>,Apache-2.0,123055,Runtime AI security for the enterprise — the interlocked shield for AI agents
+2026-10-03T08:50:56Z,evo-ak,0.1.0,maycuatroi,Apache-2.0,231541,"Shared tooling for agent harnesses: harness schema, multi-source knowledge graph, Claude Code plugins"
+2026-10-03T08:53:54Z,cavelon,0.0.0,,Apache-2.0,2551,Placeholder for the Cavelon dev-kit CLI. Not usable yet.
+2026-10-03T08:54:45Z,tapcolor,1.0.0,TapColor,MIT,6896,Official Python client for the TapColor Developer API — browse coloring categories and collections.
+2026-10-03T08:55:38Z,chemql-python,0.1.0,,,432254,A chemistry-focused query language and REPL
+2026-10-03T09:00:00Z,seedfoundry,0.0.1,,,2399,"Seed Foundry by Seed Frontier. Name reserved, first release coming."
+2026-10-03T09:00:02Z,seednero,0.0.1,,,2380,"Nero by Seed Frontier: an agent system. Name reserved, first release coming."
+2026-10-03T09:00:04Z,seedhorizon,0.0.1,,,2417,"Horizon by Seed Frontier. Name reserved, first release coming."
+2026-10-03T09:00:07Z,seedcascade,0.0.1,,,2404,"Cascade by Seed Frontier. Name reserved, first release coming."
+2026-10-03T09:00:10Z,github-local,0.0.1b3763,Circles,,12665,PyPI github-local Python Package owned by Circlez.ai
+2026-10-03T09:04:54Z,noida-db,0.1.1,,MIT,13097932,"One tiny local binary that speaks Postgres, MySQL, Redis, Kafka, Elasticsearch and ClickHouse."
+2026-10-03T09:06:07Z,team-member-report-local,0.0.1b3764,Circles,,14358,PyPI team-member-report-local Python Package owned by Circlez.ai
+2026-10-03T09:06:41Z,olivetree-servers,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,3961,Servers that expose olivetree tools and agents as services.
+2026-10-03T09:07:11Z,torch-kirigami,0.1.0,,MIT,714458,FX-based structural dependency analysis for PyTorch
+2026-10-03T09:10:29Z,veriscript,1.5.0,DontHash,"MIT License Copyright (c) 2026 DontHash Permission is hereby granted, free of charge, to any person…",774278,"Offline document restoration: photo/scan in, searchable PDF + honest review flags out"
+2026-10-03T09:12:00Z,consentproof,0.0.1,Wateer,Apache-2.0,2190,Placeholder for the ConsentProof open-source project. Not usable yet.
+2026-10-03T09:13:57Z,quicksnip,1.0.0,,MIT,7022,"A fast, terminal-based code snippet manager"
