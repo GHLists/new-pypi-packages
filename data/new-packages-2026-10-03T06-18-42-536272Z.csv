@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T05:19:59Z,PandaAPI,1.0.6,PANDA,MIT,32220,Python utility hub by @ll_PANDA_BBY_ll
+2026-10-03T05:23:44Z,llm-chatgpt-plan,0.1.0,ftnext,Apache-2.0,55933,Use your ChatGPT plan via Sign in with ChatGPT OAuth
+2026-10-03T05:27:41Z,wagtail-skynetA11y-pdf-remediation,1.0.0,Skynet Technologies USA LLC <hello@skynettechnologies.com>,MIT,142963,"Upload, scan and AI-remediate PDFs for accessibility (WCAG/PDF-UA) compliance"
+2026-10-03T05:28:21Z,forjinn-eval,0.2.2,Forjinn <forjinn@example.com>,MIT,339969,"Unit-test-style evaluation and testing toolkit for Forjinn visual-canvas agents: run an agent, capture the full node-by-node execution trace (tool calls, tokens, latency) and assert deterministic + L…"
+2026-10-03T05:33:19Z,ipmax,0.1.0,IP-Max <opensource@ipm.ax>,Apache-2.0,40632,Python client for the IP-Max GeoIP and IP intelligence API
+2026-10-03T05:38:44Z,pagelens-ocr,0.1.0,Maruti L Sankannanavar,Apache-2.0,38460,"CPU-only OCR for scanned documents (PDF, JPG, JPEG, PNG) that keeps headings, tables and layout"
+2026-10-03T05:40:36Z,dr-ansible,0.2.0,,GPL-3.0-or-later,142991,Find Ansible modules with missing RETURN docs and draft them from evidence
+2026-10-03T05:42:03Z,gramlot-examples,0.2.2,,Apache-2.0,514677,"Gramlot example pages, the gallery page and its catalogue."
+2026-10-03T05:46:46Z,guangming,0.4.0rc2,Light Contributors,MIT,4421481,光明（Light）v0.4 — 像中文一样的中文自然语言编程语言（五层分层语法架构 · 自举编译器 · 积木库）
+2026-10-03T05:54:00Z,firstpr,0.1.0,Muskan,MIT,1340363,"Find open-source issues you can actually work on, then track the pull requests you open."
+2026-10-03T05:54:11Z,dinorefurb-disc-archiver,0.1.0,kibertoad,MIT,115858,"Personal archival copies of game discs you own, in several image formats, for clean-room restorations."
+2026-10-03T05:55:12Z,pdf-statement-parser,0.1.0a1,Lukasz Karolewski,MIT,74729,"Extract account metadata and transactions from bank and credit card PDF statements, with a plugin per statement format."
+2026-10-03T05:55:17Z,compound-memory,0.1.0,chinwe,MIT,97769,Local multi-agent shared memory with compounding (MCP server + CLI)
+2026-10-03T05:57:49Z,jaxbessel,0.1.0,"Benjamin Pope <benjamin.pope@mq.edu.au>, Shashank Dholakia <s.dholakia@uq.edu.au>",BSD-3-Clause,24708,Differentiable Bessel and spherical Bessel functions of the first kind in JAX.
+2026-10-03T06:01:16Z,nab-bayes,1.2.0,Denis Samatov,MIT,1457672,Neighbourhood Algorithm Bayes — Bayesian analysis via MCMC and Gibbs Sampling on Voronoi tessellations.
+2026-10-03T06:02:19Z,bitnarrow,0.1.0,Amaresh Hebbar <hebbar.gvamaresh@gmail.com>,Apache-2.0,85132,"Open weight model surgery lab: edit, measure, gate, and ship LLM transformations"
+2026-10-03T06:03:05Z,altopelago-aeon,0.14.0,AEON maintainers,MIT,11590914,Native Rust implementation of the AEON parser for CPython
+2026-10-03T06:03:55Z,niepy,0.2.1,,MIT,153664,"Porte d'entrée Python vers le moteur et les données de nie (Inazuma Eleven: Victory Road) — VFS, décodeurs de formats, simulation de match, pont Ren'Py."
+2026-10-03T06:09:46Z,treno-dev-steward-sdk,0.1.0rc1,,,22923,The Steward SDK for Python: write Steward plugins
+2026-10-03T06:12:30Z,rfc9741-pure,0.1.0,Abhishek Prasad <prasad.a.abhishek@gmail.com>,MIT,30300,"Pure-Python RFC 9741 CDDL control operators: b64u, b64c, hex, b45, base10, printf, json"
+2026-10-03T06:14:30Z,NeuronStar,0.0.1,Prashant Thakur,MIT,4495,NeuronStar: fast neural inference for neutron-star matter
