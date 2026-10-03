@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T16:22:50Z,ambolt,0.1.0,,MIT,13756,"Client for the Ambolt pay-per-call data tools (x402, USDC): electricity, company registers, tenders, FX, DNS, on-chain facts."
+2026-10-03T16:23:22Z,easy-decorate-output,0.2.1,Don221128,,3528,一個用於自訂美化終端機輸出的輕量級工具庫
+2026-10-03T16:28:57Z,ianux,0.2.0,,MIT,83100,A quick-to-use tmux wrapper for managing sessions.
+2026-10-03T16:32:52Z,tilia-library,0.0.1,"Felipe Defensor, Anne Foo",GPL-3.0-or-later,27872,TiLiA Library: query and edit folders of TiLiA files in the browser
+2026-10-03T16:35:06Z,reelsmith,0.1.0,reelsmith contributors,MIT,1951597,A local first CLI that turns an app into a narrated demo video.
+2026-10-03T16:36:37Z,open-sorcerer,0.1.1,,MIT,82975,"Detects prompt injection, PII leakage, and unsafe outputs in AI applications."
+2026-10-03T16:37:26Z,es-mgmt,0.1.0a1,Aaron Mildenstein <aaron@mildensteins.com>,Apache-2.0,195626,Unified Elasticsearch tools package
+2026-10-03T16:40:07Z,jevmem,0.1.0,Daniel Illescas Romero,MIT,117946,System-One agent memory (Jev-Mem) for Claude Code and custom agents
+2026-10-03T16:40:45Z,hitherto,0.1.0,,Apache-2.0,538974,Evidence-first OSS contribution assessment CLI
+2026-10-03T16:41:49Z,sealscan,0.1.0,,MIT,38596,"Local-only scanner for secrets, insecure code and license risks. Scan before you ship."
+2026-10-03T16:43:11Z,basilisp-tools,0.0.1,,,1845,Development tooling for Basilisp (initial scaffold)
+2026-10-03T16:43:43Z,foamkit,0.1.0,Marc Goldbach <mgoldbach@myyahoo.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",232824,"A Pythonic interface to OpenFOAM: read, edit and script cases from Python."
+2026-10-03T16:45:11Z,strang,0.1.0,quandelaa,MIT,3674,A linear algebra library with a focus on lengthy operations being made simple
+2026-10-03T16:46:39Z,pk-address-checker,1.0.0,,Proprietary,233314,Lenient Pakistan business address checker with bundled registry data
+2026-10-03T16:46:56Z,simple-text-ui,0.0.2,Daniel Brusilovksy <brusilovskydaniel3@gmail.com>,MIT,7127,A package to imlement a commonly used textual UI
+2026-10-03T16:51:45Z,aictrl-langgraph,0.1.0,,Apache-2.0,43176,Graph and execution monitoring for LangGraph workflows
+2026-10-03T16:52:15Z,krnla,0.1.0,KRNLA,Apache-2.0,16292,First-party Python client for the KRNLA Gateway API v1
+2026-10-03T16:53:15Z,lorawan-connection,0.1.0,home-assistant-libs,Apache-2.0,43631,Backend-neutral LoRaWAN events and device collections for Python.
+2026-10-03T16:53:28Z,hartreez,0.1.0,Thomas Plé,MIT,37704,Dependency-free atomistic unit conversion for numerical Python code
+2026-10-03T16:56:29Z,oracle-clue,0.1.0a1,,,27255,Contexto reproducible y validación de informes para revisión de cambios Git
+2026-10-03T16:57:04Z,oracle-factory,0.1.0a1,,,73044,"Coordina acuerdos, tareas, revisión y evidencia con decisiones humanas"
+2026-10-03T17:00:59Z,context-calibrated-beats,1.0.1,Ichin,MIT,116732,"Automatic Beat Tracking, Calibration and Click Generation"
+2026-10-03T17:03:11Z,ansi-pixel,0.2.0,Senura Hesara <neophytetoskill@gmail.com>,MIT,254275,"Convert images into true-color ANSI art for terminal banners, SSH previews, and Markdown."
+2026-10-03T17:04:25Z,dex-isaac-mcp,0.1.1,Milo Kucia,MIT,85921,"MCP server that drives a live, persistent Isaac Sim session and Isaac Lab training runs"
+2026-10-03T17:05:00Z,alptugharun-ai-workbench-mcp,0.1.0a1,Alptuğ Harun,MIT,15821,"A dependency-free, read-only MCP server for reusable AI prompts and assistant blueprints."
+2026-10-03T17:08:29Z,musegauge,0.1.0,,Apache-2.0,846296,"Run several existing music generation metrics in one command, each in its own environment."
+2026-10-03T17:09:15Z,mcp-dynamic-tool-registration,0.1.0,Jérôme DIAZ <jerome_diaz@me.com>,MIT,76449,"Decorator-based, registry-first dynamic tool registration for MCP (Model Context Protocol) servers, with a bearer-token Streamable HTTP ASGI app."
+2026-10-03T17:10:16Z,store-grpc-py,0.1.0,,MIT,24133,"gRPC adapter that auto-generates a .proto service per schema for py-store (schema-driven CRUD over GQL, proto-first with runtime compilation, zero manual protoc)"
+2026-10-03T17:10:29Z,store-mcp-py,0.1.0,,MIT,17164,"MCP (Model Context Protocol) adapter that auto-generates tool surfaces for py-store schemas (schema-driven CRUD + sandboxed GQL query + optional ask), stdio transport"
+2026-10-03T17:10:49Z,store-rbac-bootstrap-py,0.1.0,,MIT,11455,Optional skin-layer bootstrap for common-store RBAC: policy bootstrap (set_rbac + role-rule configs) and credential-to-context factories (JWT / API-Key / Session) for the context_provider seams of st…
+2026-10-03T17:11:46Z,mcpspan,0.1.0,Kacper Zatoń,MIT,230062,"Self-hosted analytics for MCP servers: which tools, resources and prompts get used, by which client, how fast, and why they fail."
+2026-10-03T17:12:12Z,steamworks-mcp,0.3.0,Burak Kaan Sahin,MIT,809686,"Release assistant for Steam games, as an MCP server for Claude and ChatGPT: store page, achievements, checks against Valve's rules, market data, and Steamworks only after you approve."
+2026-10-03T17:14:35Z,gauntlet-robotics,0.2.0,Gauntlet contributors,MIT,981024,An evaluation harness for learned robot policies.
+2026-10-03T17:14:39Z,fastq-sheet-audit,0.2.0,dr-richard,MIT,1319833,"Local FASTQ/sample-sheet auditing with explicit, validated sample-sheet export"
+2026-10-03T17:15:02Z,store-api-py,0.1.0,,MIT,16366,FastAPI adapter that auto-generates RESTful APIs for py-store schemas (schema-driven CRUD over GQL)
+2026-10-03T17:17:16Z,django-request-replay,0.1.1,Sedra Zeidan,MIT,24636,Replay failed Django HTTP requests locally
+2026-10-03T17:18:37Z,lupaxa-invisible-timing-toolkit,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",21715,"Opt-in runtime timing hooks for functions, loops, files, HTTP, SQLite, subprocess, and imports."
