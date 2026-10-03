@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T17:18:49Z,ftdoctor,0.1.0,junglezke,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",103965,"Did your fine-tune overfit? Which checkpoint should you keep? What can you delete? Reads any HuggingFace Trainer run, local or on the Hub."
+2026-10-03T17:18:57Z,rldoctor,0.1.0,junglezke,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",224555,Diagnose why your GRPO/RLVR run is burning GPU-hours without learning.
+2026-10-03T17:19:17Z,rewardlint,0.1.0,junglezke,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",90826,Find out what your RLVR reward function actually accepts.
+2026-10-03T17:21:38Z,atcn,1.3.2,,Apache-2.0,47655,"Python SDK for the Agent Transaction Closure Network: canonical JSON, Ed25519 event signing, webhook verification, API client, Agent Work Subledger"
+2026-10-03T17:25:47Z,coopgame-py,0.1.0,,MIT,4557783,TU 協力ゲームの仁・カーネル・Shapley 値などの計算と検証 (Rust 実装の Python バインディング)
+2026-10-03T17:26:26Z,tile-twinx,1.0.1,,,70322,"Split a raw YouTube title into artist, title and extras."
+2026-10-03T17:27:02Z,enterprise-fixer,1.0.1,Hirdesh Gagan,,3104,Global Autonomous AI Incident Classifier & Production Code Repair Engine
+2026-10-03T17:29:34Z,whatsapp-backup-tools,0.51,auanasgheps,GPL-3.0-or-later,359299,Archive and browse your WhatsApp data offline. Archive media from Android and iOS backups into a structured folder hierarchy. View chats in a WebUI that mirrors WhatsApp Web.
+2026-10-03T17:35:12Z,gmail-clone,2.0.0,,MIT,15645,Premium CLI client for an email-alternative generation API
+2026-10-03T17:37:40Z,matrix-personas,0.1.0,quentinemusee <quentinemusee@gmail.com>,MIT,63912,"Matrix appservice merging the bridged rooms of one contact (WhatsApp, Messenger, Instagram...) into a single Beeper-style persona room."
+2026-10-03T17:39:39Z,repo-assurance,0.2.1,,MIT,176749,Evidence-driven repository assurance orchestrator
+2026-10-03T17:40:13Z,orfeu,0.0.1,Lucas Ribeiro <lucasribeiro.sec@gmail.com>,CC0 1.0 Universal Statement of Purpose The laws of most jurisdictions throughout the world automati…,4698,Placeholder para reservar o nome orfeu no PyPI
+2026-10-03T17:40:34Z,llm-pydantic-tools,0.4,"""Carlos A. Planchón"" <carlosandresplanchonprestes@gmail.com>",MIT,28591,"Turn Pydantic models into LLM tools for OpenAI, Anthropic and Gemini."
+2026-10-03T17:46:00Z,inherent,0.7.1,,,28080,Command-line client for the Inherent agent memory stack
+2026-10-03T17:46:01Z,inh-contracts,2.3.1,,,162026,"Shared contracts (Weaviate naming, versioned event schemas, embedding provider abstraction) consumed by the ingestion and public-api services"
+2026-10-03T17:49:36Z,mcbebop,2026.10.2,Ryan Malloy,MIT AND BSD-3-Clause,253839,"MCP server for the Parrot Bebop 2 drone: telemetry, camera, files, and every ARSDK command"
+2026-10-03T17:50:14Z,laminate-cli,0.1.0,,,42615,Generate release-ready changelogs from git history using a local LLM
+2026-10-03T17:50:41Z,rerun-bench,0.1.0,Abel Yagubyan,MIT,1286947,Run the same coding task N times per agent and measure how consistent and how expensive it is.
+2026-10-03T17:51:20Z,corpus-assay,0.1.0,Victor May,Apache-2.0,18617300,"Fast, auditable n-gram detection of benchmark contamination in LLM training corpora (Rust-accelerated)."
+2026-10-03T17:52:29Z,tokenmon,0.1.1,,,2008326,"A fast, zero-dependency command-line monitor for local AI coding agents."
+2026-10-03T17:52:47Z,odoo-addon-social-media-sync,17.0.1.0.0.1,"Binhex, Odoo Community Association (OCA)",AGPL-3,123248,"Import posts, figures, comments and reactions from the social media"
+2026-10-03T17:56:48Z,cve-coder,0.1.0,"""Gong, Wen"" <lucywang1049@gmail.com>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",295369,Agentic CVE triage pipeline: detect → patch → verify
+2026-10-03T17:59:05Z,caoxiltts,0.1.0,CaoXil Research,MIT,6691,Small CPU inference sweep harness for CaoXilTTS evaluation runs
+2026-10-03T17:59:34Z,cipherid-vwlau,0.1.0,,,10942,A teaching tool for identifying common text encodings and classical ciphers
+2026-10-03T17:59:48Z,flipcheck,0.1.0,Devansh Choudhary <devanshchoudhary999@gmail.com>,MIT,186874,"Which fields in your agent's decision request an attacker can move, and whether that's noise or a real flip"
+2026-10-03T18:02:01Z,packshield,0.0.1,Jake Shulman,MIT,4198,Name reserved for packshield (https://packshield.dev). Not released yet.
+2026-10-03T18:03:01Z,bibframe-json,0.1.0,,MIT,292052,Read and validate one opinionated JSON expression of a BIBFRAME resource
+2026-10-03T18:05:53Z,ugrf,0.1.0,Israel Aloagbaye Igietsemhe <israel@soeltechnologies.com>,,38766,Utility-Gated Renewal Forecasting for intermittent demand
+2026-10-03T18:06:02Z,superrouter,0.1.0,Rhytham Negi,"MIT License Copyright (c) 2026 Rhytham Negi Permission is hereby granted, free of charge, to any pe…",22473,Dual-format FastAPI router that proxies and translates between OpenAI-compatible and Anthropic-compatible chat APIs
+2026-10-03T18:09:09Z,leafparity,0.1.0,Milivoje Simonović <hello@leafparity.com>,Apache-2.0,130923,"Exact equivalence checking for tree-ensemble models converted to ONNX: finds every input where the deployed model disagrees with the original, and proves the rest."
+2026-10-03T18:11:51Z,candding,0.1.0,,Apache-2.0 OR MIT,21833163,"Pure candle embeddings with no ONNX: dense, sparse, multi-vector and rerank models, returned as NumPy arrays"
+2026-10-03T18:14:17Z,hyperliquid-twap-watcher,0.1.0,LoveBloodAndDiamonds <ayazshakirzyanov27@gmail.com>,"BSD 3-Clause License Copyright (c) 2026, LoveBloodAndDiamonds Redistribution and use in source and…",73601,"Async watcher for Hyperliquid TWAP orders: new TWAPs, slice fills and completions delivered to callbacks"
+2026-10-03T18:14:22Z,pseudotimede-py,0.0.2,Kris Sankaran <sankaran.kris@gmail.com>,,166159,Python implementation of the PseudotimeDE algorithm for differential expression analysis on estimated pseudotimes. Uses scDesigner for simulation model estimation.
+2026-10-03T18:15:49Z,hooklens,0.1.0,,Apache-2.0,1073707,"See what your coding agents do: tool calls, commands, files, and tokens from Claude Code, Codex, and Cursor, stored on your machine."
+2026-10-03T18:17:32Z,dmtune,0.1.0,Swapnanil Adhikary <adhikaryswapnanil@gmail.com>,Apache-2.0,52269,"Fine-tune open decision models (Laya-class, typed choice/score/noul) on text, image, video and audio, on laptop hardware."
+2026-10-03T18:17:58Z,usewind,0.1.0,Wind,MIT,54962,"Server SDK for Connect with Wind — OAuth connect routes, atomic refresh-token rotation, and billed inference calls."
