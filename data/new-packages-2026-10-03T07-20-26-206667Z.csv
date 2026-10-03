@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T06:18:49Z,nabit,0.5.0,Jake Garnier <jakegarnier@gmail.com>,"MIT License Copyright (c) 2026 Jake Garnier Permission is hereby granted, free of charge, to any pe…",64213,"nab your agent's silent failures — verify LLM-agent outcomes against real system state, with self-heal. Zero dependencies."
+2026-10-03T06:25:48Z,volcenginesdk-smc,0.0.1,volc-engine,Apache License 2.0,974,Name reservation for the Volcengine Python SDK split package volcenginesdk-smc
+2026-10-03T06:25:55Z,volcenginesdk-spark,0.0.1,volc-engine,Apache License 2.0,989,Name reservation for the Volcengine Python SDK split package volcenginesdk-spark
+2026-10-03T06:26:01Z,volcenginesdk-speechsaasprod,0.0.1,volc-engine,Apache License 2.0,1053,Name reservation for the Volcengine Python SDK split package volcenginesdk-speechsaasprod
+2026-10-03T06:26:07Z,volcenginesdk-speechsaasprod20250521,0.0.1,volc-engine,Apache License 2.0,1114,Name reservation for the Volcengine Python SDK split package volcenginesdk-speechsaasprod20250521
+2026-10-03T06:31:36Z,cryptoexp,0.1.0a2,"coolmoon, guaidao2",MIT,471272,"Crypto toolkit: dependency-free primitives, attack automation and analysis pipeline for CTF, security assessment and research"
+2026-10-03T06:32:14Z,cerberos-peptide-splitter,0.0.1b0,Celio Dias Santos-Junior,MIT,75330,Approximate homology-aware splitting and diagnostics for peptide FASTA files
+2026-10-03T06:32:58Z,pipeline-lint,0.1.0,Nafiul Saputra,Apache-2.0,157505,"Data pipeline linter for SQL, PySpark, Databricks and Airflow. Catches non-idempotent writes, duplicate data on rerun, and other mistakes AI-generated pipelines make."
+2026-10-03T06:33:16Z,cryptunnel,1.0.0,Cryptunnel,MIT,18816,Python SDK for Cryptunnel - accept crypto payments straight to your own wallets
+2026-10-03T06:38:42Z,labull-framework,0.1.0,Labull Framework,MIT,282214,Labull Framework: a pluggable Django app with Authing OIDC login and magic blocks
+2026-10-03T06:39:51Z,harvester-kit,0.1.0,Sarthak Pahwa,MIT,89052,"Polite, reproducible web harvesting: fetch once, parse forever."
+2026-10-03T06:41:19Z,ng-postcode,0.1.0,Kayode Adeniyi,MIT,22340,"Parse, validate and format Nigeria's NIPOST digital postcode (NDAPS) offline, plus a client for the postcode.gov.ng API."
+2026-10-03T06:41:25Z,PyHamCTY,1.0,"""Andreas Schawo, DF1ASC"" <andreas@schawo.de>",,109839,Read and search hamradio country data for callsigns in a CTY database
+2026-10-03T06:41:43Z,jetstream-lakehouse,0.1.0,Jetstream Lakehouse contributors,Apache-2.0,137732,Destination-independent Jetstream v2 archive and live client
+2026-10-03T06:45:53Z,gemini-thonny,0.1.0,,MIT,6619,Gemini AI typing assistant installer for Thonny
+2026-10-03T06:50:01Z,map-packer,0.1.0,,MIT,42547,A Minecraft Map Packer CLI Tool
+2026-10-03T06:50:53Z,certlord,1.0.0rc1,Adrien Delle Cave,License GPL-3,1264909,TLS certificate lifecycle automation
+2026-10-03T06:54:57Z,marionette-mc,0.1.0a1,Prattlemob,MIT,28450,Typed asyncio client for the Marionette Minecraft bridge
+2026-10-03T06:57:12Z,ng-postcode-mcp,0.1.0,Kayode Adeniyi,MIT,18766,"MCP server for Nigeria's NIPOST digital postcode (NDAPS): validate, look up and reverse-geocode postcodes."
+2026-10-03T06:58:34Z,manza,1.0.0,Manza <hello@get-manza.com>,MIT,34749,Python SDK for the Manza API.
+2026-10-03T06:59:47Z,entropyshield-monitor,1.0.0,"""Valery S. Kalinin"" <info@entropyshield.ru>",LicenseRef-Proprietary,155122,Monitoring AI agents with predictive collapse detection and prevention
+2026-10-03T07:04:08Z,ennew-harness-sdk,0.1.1,,,8674,Ennew Harness 业务上下文与前端消息 Python SDK
+2026-10-03T07:07:07Z,kurt-lang,0.7.1,Stefan Harmeling <stefan.harmeling@tu-dortmund.de>,"MIT License Copyright (c) 2016-2026 Stefan Harmeling Permission is hereby granted, free of charge,…",282137,"Kurt: a small language for mathematical proofs close to how humans write them, checked automatically."
+2026-10-03T07:10:38Z,shakenfist-client-k3s,0.1.0,Michael Still <mikal@stillhq.com>,Apache-2.0,324265,A sf-client plugin which orchestrates k3s clusters on Shaken Fist
+2026-10-03T07:12:21Z,frondori-engine,0.4.0,Melvine Nargeot,MIT,29425,"Frondori research environments: the common contract (PettingZoo API), registry, rendering format and contract tests. Environments are installed separately (frondori-football, frondori-kitchen...)."
+2026-10-03T07:14:02Z,pygame-eyes,0.1.0,Eyes Studio,MIT,14987,"Дуже проста обгортка над pygame: вікно, фігури, текст і цикл гри в кілька рядків."
+2026-10-03T07:18:05Z,frondori-kitchen,0.1.0,Melvine Nargeot,MIT,20383,kitchen-v0: a cooperative two-chef kitchen (Overcooked-like) for Frondori — a PettingZoo environment.
+2026-10-03T07:18:24Z,fm-dlp-core,0.3.6.1,Fkernel653,AGPL-3.0-only,62619,"Powerful Python library for searching and downloading content from YouTube, YouTube Music, and over 1000+ supported sites. Built on top of yt-dlp, it provides a clean, async-first API with rich featu…"
+2026-10-03T07:19:25Z,frondori-sdk,0.4.0,Melvine Nargeot,MIT,43371,"Python SDK for the Frondori AI competition platform: play any environment online, or locally in competition conditions."
+2026-10-03T07:19:39Z,frondori-football,0.1.0,Melvine Nargeot,MIT,3271593,"football-v0: a 2D football duel for Frondori, on a deterministic Rust physics engine — a PettingZoo environment."

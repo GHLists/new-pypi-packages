@@ -8,32 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 06:18 UTC
+## Latest list — 2026-10-03 07:20 UTC
 
-New packages created between 2026-10-03 05:19 UTC and 2026-10-03 06:18 UTC.
+New packages created between 2026-10-03 06:18 UTC and 2026-10-03 07:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-03T06-18-42-536272Z.csv)
+[Full CSV](data/new-packages-2026-10-03T07-20-26-206667Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-03 05:19:59 | [PandaAPI](https://pypi.org/project/PandaAPI/) | 1.0.6 | PANDA | 32.2 kB | Python utility hub by @ll_PANDA_BBY_ll |
-| 2026-10-03 05:23:44 | [llm-chatgpt-plan](https://pypi.org/project/llm-chatgpt-plan/) | 0.1.0 | ftnext | 55.9 kB | Use your ChatGPT plan via Sign in with ChatGPT OAuth |
-| 2026-10-03 05:27:41 | [wagtail-skynetA11y-pdf-remediation](https://pypi.org/project/wagtail-skynetA11y-pdf-remediation/) | 1.0.0 | Skynet Technologies USA LLC <… | 143.0 kB | Upload, scan and AI-remediate PDFs for accessibility (WCAG/PDF-UA) compliance |
-| 2026-10-03 05:28:21 | [forjinn-eval](https://pypi.org/project/forjinn-eval/) | 0.2.2 | Forjinn <forjinn@example.com> | 340.0 kB | Unit-test-style evaluation and testing toolkit for Forjinn visual-canvas agents… |
-| 2026-10-03 05:33:19 | [ipmax](https://pypi.org/project/ipmax/) | 0.1.0 | IP-Max <opensource@ipm.ax> | 40.6 kB | Python client for the IP-Max GeoIP and IP intelligence API |
-| 2026-10-03 05:38:44 | [pagelens-ocr](https://pypi.org/project/pagelens-ocr/) | 0.1.0 | Maruti L Sankannanavar | 38.5 kB | CPU-only OCR for scanned documents (PDF, JPG, JPEG, PNG) that keeps headings, t… |
-| 2026-10-03 05:40:36 | [dr-ansible](https://pypi.org/project/dr-ansible/) | 0.2.0 |  | 143.0 kB | Find Ansible modules with missing RETURN docs and draft them from evidence |
-| 2026-10-03 05:42:03 | [gramlot-examples](https://pypi.org/project/gramlot-examples/) | 0.2.2 |  | 514.7 kB | Gramlot example pages, the gallery page and its catalogue. |
-| 2026-10-03 05:46:46 | [guangming](https://pypi.org/project/guangming/) | 0.4.0rc2 | Light Contributors | 4.4 MB | 光明（Light）v0.4 — 像中文一样的中文自然语言编程语言（五层分层语法架构 · 自举编译器 · 积木库） |
-| 2026-10-03 05:54:00 | [firstpr](https://pypi.org/project/firstpr/) | 0.1.0 | Muskan | 1.3 MB | Find open-source issues you can actually work on, then track the pull requests… |
-| 2026-10-03 05:54:11 | [dinorefurb-disc-archiver](https://pypi.org/project/dinorefurb-disc-archiver/) | 0.1.0 | kibertoad | 115.9 kB | Personal archival copies of game discs you own, in several image formats, for c… |
-| 2026-10-03 05:55:12 | [pdf-statement-parser](https://pypi.org/project/pdf-statement-parser/) | 0.1.0a1 | Lukasz Karolewski | 74.7 kB | Extract account metadata and transactions from bank and credit card PDF stateme… |
-| 2026-10-03 05:55:17 | [compound-memory](https://pypi.org/project/compound-memory/) | 0.1.0 | chinwe | 97.8 kB | Local multi-agent shared memory with compounding (MCP server + CLI) |
-| 2026-10-03 05:57:49 | [jaxbessel](https://pypi.org/project/jaxbessel/) | 0.1.0 | Benjamin Pope <benjamin.pope@… | 24.7 kB | Differentiable Bessel and spherical Bessel functions of the first kind in JAX. |
-| 2026-10-03 06:01:16 | [nab-bayes](https://pypi.org/project/nab-bayes/) | 1.2.0 | Denis Samatov | 1.5 MB | Neighbourhood Algorithm Bayes — Bayesian analysis via MCMC and Gibbs Sampling o… |
-| 2026-10-03 06:02:19 | [bitnarrow](https://pypi.org/project/bitnarrow/) | 0.1.0 | Amaresh Hebbar <hebbar.gvamar… | 85.1 kB | Open weight model surgery lab: edit, measure, gate, and ship LLM transformations |
-| 2026-10-03 06:03:05 | [altopelago-aeon](https://pypi.org/project/altopelago-aeon/) | 0.14.0 | AEON maintainers | 11.6 MB | Native Rust implementation of the AEON parser for CPython |
-| 2026-10-03 06:03:55 | [niepy](https://pypi.org/project/niepy/) | 0.2.1 |  | 153.7 kB | Porte d'entrée Python vers le moteur et les données de nie (Inazuma Eleven: Vic… |
-| 2026-10-03 06:09:46 | [treno-dev-steward-sdk](https://pypi.org/project/treno-dev-steward-sdk/) | 0.1.0rc1 |  | 22.9 kB | The Steward SDK for Python: write Steward plugins |
-| 2026-10-03 06:12:30 | [rfc9741-pure](https://pypi.org/project/rfc9741-pure/) | 0.1.0 | Abhishek Prasad <prasad.a.abh… | 30.3 kB | Pure-Python RFC 9741 CDDL control operators: b64u, b64c, hex, b45, base10, prin… |
-| 2026-10-03 06:14:30 | [NeuronStar](https://pypi.org/project/NeuronStar/) | 0.0.1 | Prashant Thakur | 4.5 kB | NeuronStar: fast neural inference for neutron-star matter |
+| 2026-10-03 06:18:49 | [nabit](https://pypi.org/project/nabit/) | 0.5.0 | Jake Garnier <jakegarnier@gma… | 64.2 kB | nab your agent's silent failures — verify LLM-agent outcomes against real syste… |
+| 2026-10-03 06:25:48 | [volcenginesdk-smc](https://pypi.org/project/volcenginesdk-smc/) | 0.0.1 | volc-engine | 974 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-smc |
+| 2026-10-03 06:25:55 | [volcenginesdk-spark](https://pypi.org/project/volcenginesdk-spark/) | 0.0.1 | volc-engine | 989 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-spark |
+| 2026-10-03 06:26:01 | [volcenginesdk-speechsaasprod](https://pypi.org/project/volcenginesdk-speechsaasprod/) | 0.0.1 | volc-engine | 1.1 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-spee… |
+| 2026-10-03 06:26:07 | [volcenginesdk-speechsaasprod20250521](https://pypi.org/project/volcenginesdk-speechsaasprod20250521/) | 0.0.1 | volc-engine | 1.1 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-spee… |
+| 2026-10-03 06:31:36 | [cryptoexp](https://pypi.org/project/cryptoexp/) | 0.1.0a2 | coolmoon, guaidao2 | 471.3 kB | Crypto toolkit: dependency-free primitives, attack automation and analysis pipe… |
+| 2026-10-03 06:32:14 | [cerberos-peptide-splitter](https://pypi.org/project/cerberos-peptide-splitter/) | 0.0.1b0 | Celio Dias Santos-Junior | 75.3 kB | Approximate homology-aware splitting and diagnostics for peptide FASTA files |
+| 2026-10-03 06:32:58 | [pipeline-lint](https://pypi.org/project/pipeline-lint/) | 0.1.0 | Nafiul Saputra | 157.5 kB | Data pipeline linter for SQL, PySpark, Databricks and Airflow. Catches non-idem… |
+| 2026-10-03 06:33:16 | [cryptunnel](https://pypi.org/project/cryptunnel/) | 1.0.0 | Cryptunnel | 18.8 kB | Python SDK for Cryptunnel - accept crypto payments straight to your own wallets |
+| 2026-10-03 06:38:42 | [labull-framework](https://pypi.org/project/labull-framework/) | 0.1.0 | Labull Framework | 282.2 kB | Labull Framework: a pluggable Django app with Authing OIDC login and magic bloc… |
+| 2026-10-03 06:39:51 | [harvester-kit](https://pypi.org/project/harvester-kit/) | 0.1.0 | Sarthak Pahwa | 89.1 kB | Polite, reproducible web harvesting: fetch once, parse forever. |
+| 2026-10-03 06:41:19 | [ng-postcode](https://pypi.org/project/ng-postcode/) | 0.1.0 | Kayode Adeniyi | 22.3 kB | Parse, validate and format Nigeria's NIPOST digital postcode (NDAPS) offline, p… |
+| 2026-10-03 06:41:25 | [PyHamCTY](https://pypi.org/project/PyHamCTY/) | 1.0 | "Andreas Schawo, DF1ASC" <and… | 109.8 kB | Read and search hamradio country data for callsigns in a CTY database |
+| 2026-10-03 06:41:43 | [jetstream-lakehouse](https://pypi.org/project/jetstream-lakehouse/) | 0.1.0 | Jetstream Lakehouse contribut… | 137.7 kB | Destination-independent Jetstream v2 archive and live client |
+| 2026-10-03 06:45:53 | [gemini-thonny](https://pypi.org/project/gemini-thonny/) | 0.1.0 |  | 6.6 kB | Gemini AI typing assistant installer for Thonny |
+| 2026-10-03 06:50:01 | [map-packer](https://pypi.org/project/map-packer/) | 0.1.0 |  | 42.5 kB | A Minecraft Map Packer CLI Tool |
+| 2026-10-03 06:50:53 | [certlord](https://pypi.org/project/certlord/) | 1.0.0rc1 | Adrien Delle Cave | 1.3 MB | TLS certificate lifecycle automation |
+| 2026-10-03 06:54:57 | [marionette-mc](https://pypi.org/project/marionette-mc/) | 0.1.0a1 | Prattlemob | 28.4 kB | Typed asyncio client for the Marionette Minecraft bridge |
+| 2026-10-03 06:57:12 | [ng-postcode-mcp](https://pypi.org/project/ng-postcode-mcp/) | 0.1.0 | Kayode Adeniyi | 18.8 kB | MCP server for Nigeria's NIPOST digital postcode (NDAPS): validate, look up and… |
+| 2026-10-03 06:58:34 | [manza](https://pypi.org/project/manza/) | 1.0.0 | Manza <hello@get-manza.com> | 34.7 kB | Python SDK for the Manza API. |
+| 2026-10-03 06:59:47 | [entropyshield-monitor](https://pypi.org/project/entropyshield-monitor/) | 1.0.0 | "Valery S. Kalinin" <info@ent… | 155.1 kB | Monitoring AI agents with predictive collapse detection and prevention |
+| 2026-10-03 07:04:08 | [ennew-harness-sdk](https://pypi.org/project/ennew-harness-sdk/) | 0.1.1 |  | 8.7 kB | Ennew Harness 业务上下文与前端消息 Python SDK |
+| 2026-10-03 07:07:07 | [kurt-lang](https://pypi.org/project/kurt-lang/) | 0.7.1 | Stefan Harmeling <stefan.harm… | 282.1 kB | Kurt: a small language for mathematical proofs close to how humans write them,… |
+| 2026-10-03 07:10:38 | [shakenfist-client-k3s](https://pypi.org/project/shakenfist-client-k3s/) | 0.1.0 | Michael Still <mikal@stillhq.… | 324.3 kB | A sf-client plugin which orchestrates k3s clusters on Shaken Fist |
+| 2026-10-03 07:12:21 | [frondori-engine](https://pypi.org/project/frondori-engine/) | 0.4.0 | Melvine Nargeot | 29.4 kB | Frondori research environments: the common contract (PettingZoo API), registry,… |
+| 2026-10-03 07:14:02 | [pygame-eyes](https://pypi.org/project/pygame-eyes/) | 0.1.0 | Eyes Studio | 15.0 kB | Дуже проста обгортка над pygame: вікно, фігури, текст і цикл гри в кілька рядкі… |
+| 2026-10-03 07:18:05 | [frondori-kitchen](https://pypi.org/project/frondori-kitchen/) | 0.1.0 | Melvine Nargeot | 20.4 kB | kitchen-v0: a cooperative two-chef kitchen (Overcooked-like) for Frondori — a P… |
+| 2026-10-03 07:18:24 | [fm-dlp-core](https://pypi.org/project/fm-dlp-core/) | 0.3.6.1 | Fkernel653 | 62.6 kB | Powerful Python library for searching and downloading content from YouTube, You… |
+| 2026-10-03 07:19:25 | [frondori-sdk](https://pypi.org/project/frondori-sdk/) | 0.4.0 | Melvine Nargeot | 43.4 kB | Python SDK for the Frondori AI competition platform: play any environment onlin… |
+| 2026-10-03 07:19:39 | [frondori-football](https://pypi.org/project/frondori-football/) | 0.1.0 | Melvine Nargeot | 3.3 MB | football-v0: a 2D football duel for Frondori, on a deterministic Rust physics e… |
