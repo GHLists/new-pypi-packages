@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-10-03T21:19:55.236463Z",
-    "path": "data/new-packages-2026-10-03T22-19-58-169475Z.csv",
-    "to": "2026-10-03T22:19:58.169475Z"
+    "count": 25,
+    "from": "2026-10-03T22:19:58.169475Z",
+    "path": "data/new-packages-2026-10-03T23-18-35-905589Z.csv",
+    "to": "2026-10-03T23:18:35.905589Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-03T19:17:50Z",
-      "package": "aurafarming",
-      "since": "2026-10-03T18:18:53.362956Z"
+      "attempts": 1,
+      "created_at": "2026-10-03T22:56:37Z",
+      "package": "GeodesicDomes",
+      "since": "2026-10-03T22:19:58.169475Z"
     }
   ],
-  "serial": 41783903,
+  "serial": 41784857,
   "source_truncated": false,
-  "window": "2026-10-03T22:19:58.169475Z"
+  "window": "2026-10-03T23:18:35.905589Z"
 }

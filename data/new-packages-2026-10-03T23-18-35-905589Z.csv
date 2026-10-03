@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T22:27:09Z,zcmir,0.1.0,Zachary Varley,MIT,49364448,"Multimodal image registration on the GPU (Zig + WGSL over WebGPU), with its web app"
+2026-10-03T22:30:47Z,kairopsis,0.1.0,Stabile Frisur,,4188341,Relative-value idea generation dashboard powered by metapyle
+2026-10-03T22:31:46Z,tgtc-sdk,0.2.0,,MIT,24321,TGTC BSC 代币数据 API 的 Python 客户端（计费透明：每次返回剩余次数与扣次明细）
+2026-10-03T22:31:57Z,fluxplot,0.1.0,Kort Driessen,MIT,1699911,"matplotlib, but every meaningful thing has a name — semantic SVG plots for the Flux ecosystem"
+2026-10-03T22:36:51Z,uricontrol,0.1.16,uricontrol contributors,Apache-2.0,93620,"Thin URI-native control-plane core for software, services and devices."
+2026-10-03T22:37:13Z,sola-base,0.1.1,"Franck Latallerie, Christophe Zaroli, Sophie Lambotte, Alessia Maggi, Emile Serra, Roman Freissler,…",MIT,85153,Multi-purpose modular SOLA tomography package
+2026-10-03T22:41:39Z,taurido,1.0.0,digitaltwin-run,Apache-2.0,1064683,Python CLI for bridging Dockerized web apps into Tauri desktop apps
+2026-10-03T22:41:47Z,garvisometerui,0.1.0,,MIT,10402,Tiny standard-library loader and runner for remote Python profiles
+2026-10-03T22:44:58Z,audio-as-code,0.1.0,Audio as Code contributors,MIT,769884,"An agent-friendly music score, composition toolkit, and offline renderer."
+2026-10-03T22:45:19Z,readystack-aurora-mysql57-upgrade-blocker-lint,1.0.1,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,28195,"28 MySQL 8.0 removal rules for .sql, .cnf and Terraform, before Aurora MySQL v2 Extended Support year 3 on 1 Dec 2026"
+2026-10-03T22:45:36Z,readystack-autohotkey-toml-devicetree-snippets,0.1.8,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,32032,"A DeviceTree overlay with status = ""enabled"" boots the node disabled and a TOML integer with a leading zero stops the parser. Neither is an editor error. 22 checks and 46 snippets across 9 language p…"
+2026-10-03T22:45:54Z,readystack-cran-policy-submission-lint,1.0.8,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,40085,Catch the CRAN Repository Policy violations before the volunteer team does (bundled Node.js runtime)
+2026-10-03T22:46:12Z,readystack-ai-model-retirement-lint,0.1.8,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,29223,"Finds the LLM model IDs pinned in your code that vendors have already switched off, or have dated to switch off, with the replacement and the date. (bundled Node.js runtime)"
+2026-10-03T22:46:13Z,garage-rag,1.5.0,Rick Mark-Penwell,"MIT License Copyright (c) 2026 Rick Mark-Penwell Permission is hereby granted, free of charge, to a…",652867,"Local-first personal RAG pipeline over Postgres + pgvector, with authorship attribution and an MCP server"
+2026-10-03T22:46:44Z,nuuduu,0.0.1,Nuuduu UAB,,2335,Nuuduu CLI and Python SDK for Nuuduu Atlas
+2026-10-03T22:50:24Z,virtualmodelcontrol,0.1.0,Lorenzo Vignoli,MIT,203478,"Virtual Model Control: robots and controllers as mechanisms of springs, dampers and inertances, compiled with CasADi."
+2026-10-03T23:00:18Z,saline-dbs,0.3.0,"Vanessa H. Yu, Edward Chen, Jürgen Germann, Alexandre Boutet, Andres M. Lozano, Kâmil Uludağ, Srira…",MIT,28721,SALINE: filter-based localization and segmentation of DBS electrodes in clinical MRI
+2026-10-03T23:02:36Z,rafikidb,0.1.0,RafikiDB,MIT,25774,"Typed Python client for RafikiDB - data, auth, realtime, storage, env vars, secrets, webhooks, edge functions and payments."
+2026-10-03T23:03:21Z,docus,0.1.1,,,11907,Pytest client for the Docus test recorder service
+2026-10-03T23:03:50Z,kernelbot,0.0.2,ReaalRick <rickReaal@proton.me>,MIT,26286,"A simple, but extensible Python implementation for the KernelGram Bot API. Telebot-compatible."
+2026-10-03T23:05:33Z,motor-unit-toolbox,1.2.0,Irene Mendez Guerra <irene.mendez17@imperial.ac.uk>,MIT,68245,Analyse motor unit firing behaviour and action potentials from decomposed EMG
+2026-10-03T23:07:04Z,eigrel,0.1.0,Nathan Souza,Apache-2.0,33800,"A programming language for Data, Machine Learning and AI."
+2026-10-03T23:08:28Z,aigis-sast,0.2.0,jasperBLCK,MIT,77195,AigisSAST: security scanner for AI-generated code. Finds what vibe coding leaves behind and explains how to fix it
+2026-10-03T23:10:38Z,mokuro-bridge,0.7.1,GolyBidoof,MIT,265752,"Local OCR bridge for manga page captures, producing CBZ + .mokuro + cover for reader.mokuro.app"
+2026-10-03T23:11:04Z,codevariability,0.2.0,Otávio Gomes,MIT,104698,"Source-code similarity matrices, representative rankings, and independent group comparison."
