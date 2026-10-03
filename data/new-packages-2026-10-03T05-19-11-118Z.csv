@@ -1,0 +1,15 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T04:27:38Z,wazn-experimental,0.1.0a1,Djellal M' Aniss,Apache-2.0,112807,"Experimental inference library for Wazn, a choice model that scores a set of labels against a context"
+2026-10-03T04:27:49Z,shiori-sdk,3.1.0,,MIT,219827,Public Shiori plugin contracts and independent testing support.
+2026-10-03T04:34:40Z,terrastep,0.2.0,Julio Gonzalez Altamirano <devjga@gmail.com>,MIT,130828,"A frontmatter and status-index standard for planning documents, plus the CLI that enforces it."
+2026-10-03T04:36:13Z,kard-x-sandbox,0.1.0,Johnny,MIT,248333,A terminal sandbox RPG with multiplayer exploration and Kard-X card battles.
+2026-10-03T04:37:41Z,nomeda,1.0.2,NOMEDA,Apache-2.0,101822,NOMEDA-Decision: Arabic-first typed-decision models (calibrated distributions over supplied options).
+2026-10-03T04:43:24Z,flight-planner-mcp,0.2.0,Surendran B <reachsuren@gmail.com>,MIT,1749728,"Flight planner for AI agents: airport lookup, nearby search, route check, distance, rolling BTS fare baseline, date hints, trip skeletons, ranked 1-stop/2-stop pairs. No booking."
+2026-10-03T04:44:44Z,gwarchive,1.3.1,,CC0-1.0,320800,Organize folders under the GWArchive naming standard
+2026-10-03T04:50:43Z,forgot,0.1.0,Vijay Kapse <vijayskofficial@gmail.com>,MIT,45204,Name the files that usually change alongside the ones you staged.
+2026-10-03T04:51:52Z,premixdb,0.1.0,,,2779772,Data mixtures for LLM pretraining that you can reproduce and trace
+2026-10-03T04:53:46Z,rowan-sast,0.3.0,"""Hedgerow.dev"" <hello@hedgerow.dev>",MIT,2056785,Open-source SAST scanner using Opengrep's taint analysis engine
+2026-10-03T04:56:41Z,mirotaract,0.1.0,Mi Rotaract,MIT,54024,"SDK oficial de Mi Rotaract: API de datos institucionales e ""Ingresar con Mi Rotaract"" (OAuth 2.0 + OpenID Connect)."
+2026-10-03T05:05:03Z,sapilm,0.0.1,,,2239,CLI SapiLM
+2026-10-03T05:11:09Z,pyturbo-v3,3.0.0,Suleiman,Apache-2.0,42448,Python 3.10 to CPython and some C99 (clean) transpiler with DCE
+2026-10-03T05:16:35Z,bioharbor,0.0.1,你的名字或GitHub用户名,Apache-2.0,2356,"Run real bioinformatics from your AI agent. Reliable, reproducible, on your own GPUs."
