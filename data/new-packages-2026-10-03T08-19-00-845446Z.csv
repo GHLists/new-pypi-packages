@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T07:10:01Z,hex-agents-cli,0.1.2,,MIT,8903113,"A thin, deterministic control plane for agentic loops and graphs"
+2026-10-03T07:22:30Z,cppy-obf,0.1.0,,,51954,"Source code encryption, obfuscation, and hardware USB dongle key tool"
+2026-10-03T07:22:49Z,tarvos,1.0.0,Repo-Tech Team,MIT,20775,Tarvos Engine public distribution for the Tarvos Python-to-native Rust compiler
+2026-10-03T07:23:12Z,nees-sdk,3.0.0rc1,Nainacore Emotional Tech,LicenseRef-Nainacore-SDK-Proprietary,34492,Python SDK for the NEES AI Governance Platform
+2026-10-03T07:23:58Z,ng-address-resolver,0.1.2,Kayode Adeniyi,MIT,31110,"Resolve free-text Nigerian addresses to NIPOST digital postcodes (NDAPS), only as precisely as the evidence allows."
+2026-10-03T07:24:48Z,cnipa-mcp,0.1.0,,,79191,CNIPA patent query MCP server: self-contained direct mode (bundled Node) or HTTP proxy mode
+2026-10-03T07:26:45Z,casecrash,0.1.0,hao li,MIT,22134,Find filenames in your git index that would collide on macOS or Windows checkouts
+2026-10-03T07:26:57Z,contextos-memory-runtime,1.0.0rc2,ContextOS Contributors,MIT,539174,Local-first personal AI memory runtime
+2026-10-03T07:30:47Z,my-math-mcp-server,0.1.0,,,2850,Add your description here
+2026-10-03T07:35:05Z,reviso-cli,0.1.0,,MIT License Copyright (c) 2026 Reviso This license applies to the contents of this repository: the…,55732,"Command line client for Reviso: publish drafts for human review, read reviewer comments back, and publish revisions safely."
+2026-10-03T07:36:56Z,dtaudit,0.0.1,danielLuo2 <31luoxudong@gmail.com>,MIT,3650,Diagnostic audits for drug-target affinity (DTA) benchmarks (name reserved; first release forthcoming)
+2026-10-03T07:38:42Z,docxsurgeon,0.1.1,txxcat,MIT,23096,对 docx 做 zip 包级手术：替换/编辑嵌入的 xlsx、更新图表数据范围、修复复选框打印符号
+2026-10-03T07:39:10Z,SpectralMM,0.1.0,Xun-Jian Li <xunjianli@ucla.edu>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",71912,Spectral majorization for statistical estimation
+2026-10-03T07:40:46Z,llmcom-rescue-data,0.2.0,Travis Somerville,MIT,163932496,Automatically installed offline rescue payload companion for llmcom.
+2026-10-03T07:40:51Z,thumbmoves,0.1.0,Kieran Simkin,MIT,19909,ThumbMoves: cross-platform Python access to native operating-system thumbnail caches.
+2026-10-03T07:41:04Z,fluxwright,0.4.0,Fluxwright contributors,Apache-2.0,7320538,"Run hundreds of headless Chrome jobs on one machine: pooling, queueing, recycling and crash recovery, with a Playwright-style API."
+2026-10-03T07:41:07Z,llmcom,0.2.0,Travis Somerville,MIT,125309016,Live text channels inside existing warmed Claude and Codex conversations.
+2026-10-03T07:41:13Z,dq-sandbox-probe,0.0.3,,,1782,
+2026-10-03T07:42:36Z,kalagana,0.1.1,Amit K. Jangir,MIT,146367,"Offline, dependency-free Hindu (Drik) panchang and festival calculator, computed from first principles."
+2026-10-03T07:45:38Z,envgeo-seawater,1.3.4,,MIT,51959308,Interactive seawater isotope and hydrographic data visualization
+2026-10-03T07:46:30Z,ili2ogc,0.1.0,Maxime Collombin <maxime.collombin@netplus.ch>,"MIT License Copyright (c) 2026 Federal Office of Topography swisstopo Permission is hereby granted,…",849476,"A pure-Python INTERLIS 2 toolkit: build a live metamodel from .ili, validate .xtf transfers, and convert to/from JSON Schema, OGC JSON-FG, PostgreSQL/GeoPackage SQL, and CQL2-JSON filters, with multi…"
+2026-10-03T07:46:31Z,tftp,0.0.0,jose-pr <jose-pr@coqui.dev>,MIT,338535,"Pure-Python TFTP client and server for IPv4 and IPv6: RFC 1350, 2347, 2348, 2349 and 7440"
+2026-10-03T07:47:13Z,agentnexus-client,0.1.0,Agent Nexus <support@agentnexus.app>,MIT,9945,"Find a working API, MCP server or CLI for any need, with live health evidence. Official Agent Nexus client, zero dependencies."
+2026-10-03T07:48:07Z,kommo-kiro-power,1.0.3,depper-IA,MIT,44585,MCP server for Kommo CRM — Connect AI agents to your Kommo account
+2026-10-03T07:48:30Z,valuation-skills,0.1.2,Simon Mak,MIT,118368,"Financial valuation library (DCF/NAV/CCA, cost of capital, derivatives, credit risk, report review) aligned to IVS 2025 / IFRS."
+2026-10-03T07:55:34Z,llmval,1.0.1,Hariharen,MIT,94155,Live OpenRouter LLM prices + Artificial Analysis intelligence & coding benchmarks dashboard
+2026-10-03T07:55:37Z,kricko,0.1.0,Cortiqa <dev@cortiqa.co>,Apache-2.0,15083,Run AI. Offline. Everywhere. Official Python SDK and CLI for Kricko local LLM engine by Cortiqa.
+2026-10-03T07:56:02Z,fair-value,0.2.1,Simon Mak,MIT,140965,"Financial valuation library (DCF/NAV/CCA, cost of capital, derivatives, credit risk, report review) aligned to IVS 2025 / IFRS."
+2026-10-03T08:04:50Z,digikala-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,140942,"Unofficial read-only MCP server for Digikala: search products, compare sellers and prices, price history, reviews, deals."
+2026-10-03T08:04:55Z,technolife-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,149069,"Unofficial read-only MCP server for Technolife: search electronics, compare sellers and installment prices, find deals."
+2026-10-03T08:04:58Z,masterkala-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,138107,"Unofficial read-only MCP server for MasterKala: search gadgets and accessories, compare prices and specs, find deals."
+2026-10-03T08:09:23Z,portabyte,0.1.0,Portabyte,"MIT License Copyright (c) 2026 Portabyte Permission is hereby granted, free of charge, to any perso…",29011,Official Python SDK for Portabyte file uploads and delivery
+2026-10-03T08:09:59Z,runlatent,0.0.1,Latent <hello@runlatent.ai>,Proprietary,3445,"Latent: runtime reliability monitoring for LLM answers. One line to instrument OpenAI, Anthropic and Gemini calls. Placeholder release; the first real release follows."
+2026-10-03T08:14:23Z,pocket-master-mcp,0.1.0,Dmitrii Voronkov,MIT,94991,"MCP server that lets an AI assistant control a Sonicake Pocket Master guitar processor over USB MIDI, plus offline firmware language tools"
+2026-10-03T08:17:01Z,manga-page-splitter,1.0.0,Jacob Miller <kevinbai199505@gmail.com>,MIT,27813,Split scanned manga double-page spreads into single pages in right-to-left reading order.
+2026-10-03T08:17:43Z,franklinwh-direct-connect-api,0.3.0,david2069 <david.hona@gmail.com>,"MIT License Copyright (c) 2026 david2069 Permission is hereby granted, free of charge, to any perso…",213506,Unofficial Python library and CLI for the FranklinWH aGate local broker protocol (TCP/9000 sendMqtt cmdType frames)
