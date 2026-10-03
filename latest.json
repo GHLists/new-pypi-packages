@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-10-03T19:18:33.97675Z",
-    "path": "data/new-packages-2026-10-03T20-19-07-592151Z.csv",
-    "to": "2026-10-03T20:19:07.592151Z"
+    "count": 27,
+    "from": "2026-10-03T20:19:07.592151Z",
+    "path": "data/new-packages-2026-10-03T21-19-55-236463Z.csv",
+    "to": "2026-10-03T21:19:55.236463Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-03T19:17:50Z",
       "package": "aurafarming",
       "since": "2026-10-03T18:18:53.362956Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-03T16:58:09Z",
-      "package": "mcp-dynamic-tool-registratio",
-      "since": "2026-10-03T16:19:21.367922Z"
     }
   ],
-  "serial": 41781668,
+  "serial": 41782872,
   "source_truncated": false,
-  "window": "2026-10-03T20:19:07.592151Z"
+  "window": "2026-10-03T21:19:55.236463Z"
 }

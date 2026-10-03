@@ -8,47 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 20:19 UTC
+## Latest list — 2026-10-03 21:19 UTC
 
-New packages created between 2026-10-03 19:18 UTC and 2026-10-03 20:19 UTC.
+New packages created between 2026-10-03 20:19 UTC and 2026-10-03 21:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-03T20-19-07-592151Z.csv)
+[Full CSV](data/new-packages-2026-10-03T21-19-55-236463Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-03 19:18:49 | [chalkbase](https://pypi.org/project/chalkbase/) | 0.1.0 |  | 8.0 MB | ChalkBase: 北师大版小学数学课程知识库（知识图谱、题型卡片、能力边界、查询与题型实例化接口） |
-| 2026-10-03 19:20:37 | [yaddd-sqlalchemy](https://pypi.org/project/yaddd-sqlalchemy/) | 0.1.0 | Yuri Andreev <andreev.jr@gmai… | 11.1 kB | SQLAlchemy integration for yaddd: SqlCrudRepository, SqlUnitOfWork, VOTypeDecor… |
-| 2026-10-03 19:26:31 | [yaddd-pydantic](https://pypi.org/project/yaddd-pydantic/) | 0.1.0 | Yuri Andreev <andreev.jr@gmai… | 8.1 kB | Pydantic v2 integration for yaddd: PydanticVO value objects as first-class mode… |
-| 2026-10-03 19:28:05 | [kirby-world](https://pypi.org/project/kirby-world/) | 0.1.0 | PeterB | 118.4 kB | Places for the Kirby HERO System platform: Worlds, Scenes and the geometry insi… |
-| 2026-10-03 19:28:42 | [flux-restful](https://pypi.org/project/flux-restful/) | 1.1.0 | Vanessa Sochat <vsoch@users.n… | 168.1 kB | A RESTful API, web interface, and Python client for submitting and monitoring j… |
-| 2026-10-03 19:30:04 | [astroapi-io-client](https://pypi.org/project/astroapi-io-client/) | 0.1.0 |  | 107.4 kB | Synchronous Python client for the AstroAPI.io calculation gateway |
-| 2026-10-03 19:33:35 | [cybersentinel-py](https://pypi.org/project/cybersentinel-py/) | 0.1.0 | Eyitayo Alimi | 26.3 kB | A lightweight, explainable Python security analysis toolkit. |
-| 2026-10-03 19:34:04 | [tsxtract-rs](https://pypi.org/project/tsxtract-rs/) | 0.3.2 |  | 5.3 MB | Fast time-series feature extraction, Rust core |
-| 2026-10-03 19:34:46 | [tempo-jira-cli](https://pypi.org/project/tempo-jira-cli/) | 0.1.0 | Lorenzo Magnanelli | 109.7 kB | An agent-friendly command-line interface for Tempo Timesheets on Jira Cloud (un… |
-| 2026-10-03 19:40:22 | [releasetrain-sentiment](https://pypi.org/project/releasetrain-sentiment/) | 0.1.0 | Manu Mathew Jiss, S. Berhe | 32.8 kB | Scores sentiment per comment in a Reddit discussion thread, flagging author rep… |
-| 2026-10-03 19:40:46 | [pydantic-cryptography](https://pypi.org/project/pydantic-cryptography/) | 0.1.0 | Joakim Nordling | 56.7 kB | Pydantic types for cryptographic keys: load and validate PEM keys in settings,… |
-| 2026-10-03 19:40:50 | [ndaguard](https://pypi.org/project/ndaguard/) | 0.1.0 | Ellie Hartung | 62.6 kB | Descriptor-driven NDA metadata, Git protection, and safe bundle filtering |
-| 2026-10-03 19:42:26 | [datadiff-engine](https://pypi.org/project/datadiff-engine/) | 0.1.0 | Rohesen Rajkamal Maurya | 23.5 kB | Compare datasets, detect schema changes, profile columns, and identify simple d… |
-| 2026-10-03 19:49:40 | [netspeedtools](https://pypi.org/project/netspeedtools/) | 3.2.0 | Thomas <your-email@example.co… | 45.7 kB | A modular toolkit for network speed testing, logging, and deployment automation. |
-| 2026-10-03 19:50:51 | [nyxchat](https://pypi.org/project/nyxchat/) | 0.3.1 |  | 68.9 kB | Nostr over Tor, in your terminal |
-| 2026-10-03 19:51:04 | [quant-regress](https://pypi.org/project/quant-regress/) | 0.1.0 | DawnofGenX | 25.7 kB | Fail CI when quantization costs you task accuracy. Task-level regression testin… |
-| 2026-10-03 19:51:16 | [citesure](https://pypi.org/project/citesure/) | 0.2.0 | DawnofGenX | 158.7 kB | MCP citation verifier: check whether an LLM's claims are actually supported by… |
-| 2026-10-03 19:52:23 | [pippin-art](https://pypi.org/project/pippin-art/) | 0.1.0 |  | 21.1 kB | High resolution ascii/utf8 image renderer for the terminal |
-| 2026-10-03 19:53:52 | [mcp-fastapi](https://pypi.org/project/mcp-fastapi/) | 0.1.0 | Manas Pradhan <64654573+Manas… | 192.5 kB | FastAPI-native Model Context Protocol framework |
-| 2026-10-03 19:53:59 | [coltanedb](https://pypi.org/project/coltanedb/) | 0.1.0 | ColtaneDB Team <info.cometlab… | 20.8 kB | Official Python client and query SDK for ColtaneDB |
-| 2026-10-03 19:54:18 | [maroon-elephant](https://pypi.org/project/maroon-elephant/) | 0.1.0 | Maroon Elephant contributors | 180.4 kB | AI-era threat modeling & repo scanning — OWASP-2026 aligned (LLM / Agentic / Da… |
-| 2026-10-03 19:54:57 | [langchain-bowmark](https://pypi.org/project/langchain-bowmark/) | 0.1.0 | Bowmark AI <christopher@bowma… | 13.0 kB | LangChain tools for Bowmark: typed functions an agent calls to search, price-ch… |
-| 2026-10-03 19:55:41 | [vunit-uvvm](https://pypi.org/project/vunit-uvvm/) | 0.1.0 | Lars Asplund <lars.anders.asp… | 1.2 MB | A VUnit package providing the UVVM VHDL library. |
-| 2026-10-03 19:55:42 | [wos-rfq](https://pypi.org/project/wos-rfq/) | 0.4.1 | Wolverine | 73.9 kB | The Wolverine tick-quote add-on client: read, convert, import, check and remove… |
-| 2026-10-03 19:55:44 | [wos-deploy](https://pypi.org/project/wos-deploy/) | 2.1.0 |  | 119.7 kB | Deploy and operate WOS server instances (ring, global, tick-quote add-on) with… |
-| 2026-10-03 19:57:33 | [facetweak](https://pypi.org/project/facetweak/) | 0.1.2 | Ekaghni <ekaghni.mukherjee@gm… | 46.3 kB | Face retouching from the command line or Python: bigger eyes, slimmer face, nos… |
-| 2026-10-03 20:01:55 | [quovisto](https://pypi.org/project/quovisto/) | 0.0.1 | PSQR | 4.6 kB | Quovisto (QV): the SDK form of orch, the governed multi-agent orchestrator. Pla… |
-| 2026-10-03 20:02:05 | [persistbench](https://pypi.org/project/persistbench/) | 0.1.0 |  | 889.4 kB | Model-independent video persistence inference and evaluation |
-| 2026-10-03 20:04:29 | [langchain-ambolt](https://pypi.org/project/langchain-ambolt/) | 0.1.0 |  | 8.8 kB | LangChain tools for Ambolt: company registers, EU and UK tenders, VAT and IBAN… |
-| 2026-10-03 20:09:26 | [lastrorid](https://pypi.org/project/lastrorid/) | 0.1.0 |  | 6.2 kB |  |
-| 2026-10-03 20:09:32 | [pythonx-graphics](https://pypi.org/project/pythonx-graphics/) | 0.0.1a1 | BREW (b-re-w) | 13.1 kB | Declarative 2D/3D graphics for Python apps on Kotlin Multiplatform: Compose for… |
-| 2026-10-03 20:09:32 | [pythonx-platform](https://pypi.org/project/pythonx-platform/) | 0.0.1a1 | BREW (b-re-w) | 12.4 kB | Device features for Python apps on Kotlin Multiplatform: a thin Pythonic layer… |
-| 2026-10-03 20:09:33 | [pythonx-concurrent](https://pypi.org/project/pythonx-concurrent/) | 0.0.1a1 | BREW (b-re-w) | 13.8 kB | Structured concurrency for Python on Kotlin Multiplatform: coroutines that inte… |
-| 2026-10-03 20:09:40 | [nutricamp](https://pypi.org/project/nutricamp/) | 0.1.0a1 | NutriCamp | 36.8 kB | Official Python library for the NutriCamp API: meal photo analysis, HEI-2020 sc… |
-| 2026-10-03 20:17:56 | [babeldb](https://pypi.org/project/babeldb/) | 0.1.1 |  | 23.9 MB | babeldb embedded in Python: a native, in-process, durable and thread-safe key-v… |
-| 2026-10-03 20:17:59 | [systemone-client](https://pypi.org/project/systemone-client/) | 0.1.0 | Jesus Rodriguez, SystemOne Bu… | 40.7 kB | Client for System One decision models such as Kenning: typed questions in, cali… |
+| 2026-10-03 20:21:01 | [odoo-addon-stock-report-partner-ref](https://pypi.org/project/odoo-addon-stock-report-partner-ref/) | 17.0.1.0.0.1 | Binhex Systems Solutions S.L,… | 26.8 kB | Adds customer reference to stock picking reports |
+| 2026-10-03 20:21:13 | [greenbar](https://pypi.org/project/greenbar/) | 0.10.0 | Subir Roy | 154.8 kB | Contract-first, gate-enforced development framework — turn best-practices into… |
+| 2026-10-03 20:23:07 | [nexargio-mcp](https://pypi.org/project/nexargio-mcp/) | 1.1.0 | Nexargio Technologies <engine… | 20.9 kB | Nexargio Sovereign Cyber-Physics Threat Scanner for MCP |
+| 2026-10-03 20:24:43 | [jupyterlab-mechanicum-dark-theme](https://pypi.org/project/jupyterlab-mechanicum-dark-theme/) | 1.0.1 | Konrad Jelen <konrad.jelen@gm… | 1.1 MB | Dark Adeptus Mechanicum theme for JupyterLab: crimson cloth, gold embroidery, s… |
+| 2026-10-03 20:29:01 | [agui-inspector](https://pypi.org/project/agui-inspector/) | 0.1.0 |  | 666.6 kB | AG-UI inspector: prebuilt static assets and an opt-in Starlette/FastAPI mount h… |
+| 2026-10-03 20:29:19 | [bbtui](https://pypi.org/project/bbtui/) | 0.1.0 | Cullen Stone | 193.8 kB | A terminal UI for Bitbucket Cloud: pull requests, reviews and pipelines |
+| 2026-10-03 20:29:53 | [tpu-raiden-torch](https://pypi.org/project/tpu-raiden-torch/) | 99.99.0 |  | 1.7 kB | Inert dependency-confusion research reproduction |
+| 2026-10-03 20:33:00 | [cogext-observe](https://pypi.org/project/cogext-observe/) | 0.1.0 | Yamin / THRYVIX <hello@cogext… | 11.0 kB | Real tool observer that captures agent mismatches and produces signed receipts. |
+| 2026-10-03 20:42:10 | [fieldkit-cli](https://pypi.org/project/fieldkit-cli/) | 1.0.2 | fieldkit maintainers | 1.8 MB | A programmable productivity CLI for account engineering workflows |
+| 2026-10-03 20:50:31 | [eqvps](https://pypi.org/project/eqvps/) | 0.1.0 |  | 23.8 kB | EQVPS code sandboxes: isolated Firecracker microVMs for AI agents, billed per s… |
+| 2026-10-03 20:50:34 | [rumoro](https://pypi.org/project/rumoro/) | 0.1.0 | Rumoro | 884.5 kB | Python client for the Rumoro API: social listening for developers and AI agents. |
+| 2026-10-03 20:50:35 | [praxinoscope](https://pypi.org/project/praxinoscope/) | 0.1.0 | LM | 1.4 MB | Storyboard-driven animated explainer videos in pure Python |
+| 2026-10-03 20:52:50 | [fastapi-simple-scaffold](https://pypi.org/project/fastapi-simple-scaffold/) | 1.0.1 | Krishna Pawar | 78.0 kB | Modular FastAPI REST API starter with CLI scaffolding and code generation for m… |
+| 2026-10-03 20:53:06 | [newrelic-mcp-nerdgraph](https://pypi.org/project/newrelic-mcp-nerdgraph/) | 0.1.0 | Welington Assis | 74.5 kB | Open source MCP server for New Relic observability, built on NerdGraph and NRQL. |
+| 2026-10-03 20:55:17 | [diskuse](https://pypi.org/project/diskuse/) | 0.1.1 |  | 3.5 MB | Read-only disk usage browser for macOS and Linux, built for speed |
+| 2026-10-03 20:59:02 | [townforge](https://pypi.org/project/townforge/) | 1.0.0 | Brianna Ladson | 15.4 kB | A customizable procedural town map generator for games and simulations. |
+| 2026-10-03 20:59:39 | [mycadet](https://pypi.org/project/mycadet/) | 0.0.1 | Vargas JR LLC <hello@vargasjr… | 1.8 kB | MyCadet: personal intelligence for all |
+| 2026-10-03 21:01:08 | [openemail](https://pypi.org/project/openemail/) | 0.0.1 | OpenEmail | 308.4 kB | The official Python SDK for the OpenEmail API. Send email and broadcasts, work… |
+| 2026-10-03 21:04:29 | [mcardupilot](https://pypi.org/project/mcardupilot/) | 2026.10.3 | Ryan Malloy | 157.4 kB | ArduPilot SITL instances, flights and logs for LLM agents |
+| 2026-10-03 21:06:02 | [proformaengine](https://pypi.org/project/proformaengine/) | 0.0.1 | Robert Hannay | 2.1 kB | A Python engine for building and running financial pro forma models — coming so… |
+| 2026-10-03 21:10:18 | [openbim-ifcx](https://pypi.org/project/openbim-ifcx/) | 0.1.0 |  | 2.7 MB | Read, write, validate, compose and export (GLB) IFC5 / IFCX files -- Python bin… |
+| 2026-10-03 21:11:24 | [actionscript-polycall](https://pypi.org/project/actionscript-polycall/) | 2.0.0 | Nnamdi Michael Okpala | 44.3 kB | ActionScript 3 binding for Polycall, installed as source files (not a Python AP… |
+| 2026-10-03 21:11:28 | [ada-polycall](https://pypi.org/project/ada-polycall/) | 0.1.0 | Nnamdi Michael Okpala | 43.0 kB | Ada binding for Polycall, installed as source files (not a Python API) |
+| 2026-10-03 21:11:31 | [asm-polycall](https://pypi.org/project/asm-polycall/) | 1.0.0 | Nnamdi Michael Okpala | 40.6 kB | Assembly binding for Polycall, installed as source files (not a Python API) |
+| 2026-10-03 21:11:34 | [awk-polycall](https://pypi.org/project/awk-polycall/) | 2.0.0 | Nnamdi Michael Okpala | 55.3 kB | AWK binding for Polycall, installed as source files (not a Python API) |
+| 2026-10-03 21:13:01 | [jame](https://pypi.org/project/jame/) | 1.1.dev3 | JAMe Contributors | 37.4 kB | Just Another Method of Exploitation |
+| 2026-10-03 21:18:29 | [crondelta](https://pypi.org/project/crondelta/) | 0.1.0 |  | 82.3 kB | Compare actual cron engines before changing the library behind your schedules. |
