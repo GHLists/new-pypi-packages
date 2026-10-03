@@ -8,27 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 02:18 UTC
+## Latest list — 2026-10-03 03:19 UTC
 
-New packages created between 2026-10-03 01:19 UTC and 2026-10-03 02:18 UTC.
+New packages created between 2026-10-03 02:18 UTC and 2026-10-03 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-03T02-18-37-323249Z.csv)
+[Full CSV](data/new-packages-2026-10-03T03-19-06-318124Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-03 01:21:20 | [hull-core](https://pypi.org/project/hull-core/) | 0.1.0b1 | n24q02m | 550.6 kB | Shared core for the wet / crg / mnemo self-hosted stack: auth, per-task model c… |
-| 2026-10-03 01:23:20 | [configmanagement](https://pypi.org/project/configmanagement/) | 0.0.1 |  | 1.3 kB | Name reserved - not installable from pypi.org. |
-| 2026-10-03 01:23:23 | [configmanagement-ad-agent](https://pypi.org/project/configmanagement-ad-agent/) | 0.0.1 |  | 1.4 kB | Name reserved - not installable from pypi.org. |
-| 2026-10-03 01:23:25 | [configmanagement-aruba-snmp](https://pypi.org/project/configmanagement-aruba-snmp/) | 0.0.1 |  | 1.4 kB | Name reserved - not installable from pypi.org. |
-| 2026-10-03 01:23:28 | [configmanagement-camera](https://pypi.org/project/configmanagement-camera/) | 0.0.1 |  | 1.4 kB | Name reserved - not installable from pypi.org. |
-| 2026-10-03 01:26:29 | [fusion-function](https://pypi.org/project/fusion-function/) | 0.2.1 | Caralyn Reisle | 146.4 kB | Fusion frame and protein-domain prediction using a local Ensembl reference |
-| 2026-10-03 01:31:32 | [unblend](https://pypi.org/project/unblend/) | 1.0.0 | Alexandre Défossez, Ryan Fahey | 470.8 kB | Audio source separation for music. |
-| 2026-10-03 01:46:37 | [useceleris-client](https://pypi.org/project/useceleris-client/) | 0.0.0b2 | David Oyinbo <dev.davexoyinbo… | 84.3 kB | Celeris realtime client |
-| 2026-10-03 01:48:33 | [echogen](https://pypi.org/project/echogen/) | 1.0.0 | echogen contributors | 26.3 kB | Synthetic 12-lead ECG signal generator for testing, teaching, and ML workflows |
-| 2026-10-03 01:48:41 | [eazyreport](https://pypi.org/project/eazyreport/) | 1.0.2 | Thameem PK | 88.3 kB | Ultra-fast report generation engine for Python with native HTML, vector SVG cha… |
-| 2026-10-03 01:51:21 | [useceleris-server](https://pypi.org/project/useceleris-server/) | 0.0.0b1 | David Oyinbo <dev.davexoyinbo… | 26.7 kB | Celeris credential signing for trusted servers |
-| 2026-10-03 01:57:40 | [ksp-source-annotator](https://pypi.org/project/ksp-source-annotator/) | 0.1.0 | "Clarence \"Sparr\" Risher" <… | 132.8 kB | Decompile a Kerbal Space Program install into documented C# source and XML API… |
-| 2026-10-03 02:01:43 | [vidbyte-cli](https://pypi.org/project/vidbyte-cli/) | 0.1.0 | Vidbyte <hello@vidbyte.ai> | 1.0 MB | Vidbyte CLI: authentication, research threads, and configuration |
-| 2026-10-03 02:03:39 | [usersim](https://pypi.org/project/usersim/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for usersim |
-| 2026-10-03 02:09:40 | [fly-ruler](https://pypi.org/project/fly-ruler/) | 0.1.0 | windlx | 10.8 MB | FlyRuler aircraft modeling and simulation core and standard library |
-| 2026-10-03 02:18:19 | [bitpattern](https://pypi.org/project/bitpattern/) | 0.1.0 | Stef Lindall | 63.2 kB | Very large sets of floats, IP addresses and other structured data, backed by bi… |
+| 2026-10-03 02:20:47 | [kairoseki](https://pypi.org/project/kairoseki/) | 0.1.2 | Anthony Rivera <anthony.g.riv… | 292.3 kB | Seastone for your AI agents: an MCP firewall that breaks the lethal trifecta wi… |
+| 2026-10-03 02:25:31 | [timeglance](https://pypi.org/project/timeglance/) | 1.0.2 | "Danny W. Adair" <danny.adair… | 484.2 kB | Printable weekly routine sheets and a year-at-a-glance planner / desktop wallpa… |
+| 2026-10-03 02:26:04 | [pentimento-corpus](https://pypi.org/project/pentimento-corpus/) | 1.0.0 | Daniel Iwugo | 764.1 kB | Build, audit, pack and verify the Pentimento cover corpus |
+| 2026-10-03 02:27:14 | [xyslice](https://pypi.org/project/xyslice/) | 0.1.3 | DanielViglione <dviglione02@g… | 74.0 kB | Extract text, tables, and images from PDF and Office documents using XY cut lay… |
+| 2026-10-03 02:27:26 | [pigzpp](https://pypi.org/project/pigzpp/) | 1.1.1 |  | 2.5 MB | Fast gzip/zlib compression and PNG encode/decode helpers (C++23 with Python bin… |
+| 2026-10-03 02:28:45 | [orbitalgym](https://pypi.org/project/orbitalgym/) | 0.1.0 | Duncan Eddy | 495.3 kB | JAX-native framework for guard/bandit decision-making in orbital scenarios |
+| 2026-10-03 02:30:23 | [untangling26](https://pypi.org/project/untangling26/) | 2.0 |  | 19.0 MB | Type-Free Global Intersection Analysis with Linear Displacement Fields (SIGGRAP… |
+| 2026-10-03 02:33:20 | [chordotomy](https://pypi.org/project/chordotomy/) | 0.2.0 | zeikar | 411.9 kB | Dissect a song's harmony: beat-aligned chords, Roman numerals, and the moves wo… |
+| 2026-10-03 02:37:37 | [authzlock](https://pypi.org/project/authzlock/) | 0.1.0 | Sharukh Hasan | 81.0 kB | An authorization lockfile for Django and Django REST Framework. |
+| 2026-10-03 02:37:47 | [axonx-studio](https://pypi.org/project/axonx-studio/) | 0.0.2 |  | 882.4 kB | AxonX Studio static frontend. |
+| 2026-10-03 02:39:38 | [pydpop](https://pypi.org/project/pydpop/) | 0.1.0 | pydpop contributors | 14.1 kB | RFC 9449 DPoP (Demonstrating Proof of Possession) for Python — proof generation… |
+| 2026-10-03 02:40:03 | [gebsecure](https://pypi.org/project/gebsecure/) | 0.2.1 | GebSecure | 115.8 kB | Official Python SDK for the GebSecure AI Agent Security & Governance Platform |
+| 2026-10-03 02:41:59 | [orc-seal](https://pypi.org/project/orc-seal/) | 0.1.0 | Viridis LLC | 37.0 kB | Outcome Receipts (ORC v0.1) for any MCP server: every tool result gets a receip… |
+| 2026-10-03 02:42:38 | [ramen-mcp-bridge](https://pypi.org/project/ramen-mcp-bridge/) | 0.1.0 |  | 114.8 kB | Stdio MCP bridge for Project Ramen: forwards JSON-RPC to a ramen.v1.Mcp/Call wo… |
+| 2026-10-03 02:42:50 | [dist-moe](https://pypi.org/project/dist-moe/) | 0.1.0 | Meta Platforms, Inc. | 1.5 MB | CuTe DSL distributed mixture-of-experts kernels for PyTorch |
+| 2026-10-03 02:49:25 | [wallpaper-frame-picker](https://pypi.org/project/wallpaper-frame-picker/) | 0.1.1 |  | 281.2 kB | Find the sharpest frame of each shot in a video, pick the best pose, and export… |
+| 2026-10-03 02:58:35 | [prettyroot](https://pypi.org/project/prettyroot/) | 1.0.1 |  | 296.7 kB | Readable Python helpers for inspecting and plotting ROOT files |
+| 2026-10-03 03:02:25 | [tiny-datalog](https://pypi.org/project/tiny-datalog/) | 0.1.1 | Andrew Goodchild | 119.7 kB | A Datalog engine small enough to read in an afternoon |
+| 2026-10-03 03:05:05 | [opendecider-client](https://pypi.org/project/opendecider-client/) | 0.6.0 | Manjunath Janardhan | 203.6 kB | OpenDecider without PyTorch: routers, tools, the prompt guard and the MCP serve… |
+| 2026-10-03 03:12:56 | [agenthub-client](https://pypi.org/project/agenthub-client/) | 0.0.1 |  | 2.1 kB | AgentHub client for Python: send, subscribe, ack, presence, history. Any agent,… |
+| 2026-10-03 03:13:50 | [benchweave-ui-html](https://pypi.org/project/benchweave-ui-html/) | 0.1.0 |  | 193.6 kB | Renderer-neutral HTML renderer for the BenchWeave presentation contract and its… |
+| 2026-10-03 03:15:10 | [sharada](https://pypi.org/project/sharada/) | 0.1.0.dev0 | Lena Barretta | 272.2 kB | Typed decisions from text in one forward pass — options in the request, calibra… |
