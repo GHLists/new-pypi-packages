@@ -1,25 +1,49 @@
 {
   "list": {
-    "count": 17,
-    "from": "2026-10-02T22:18:35.542765Z",
-    "path": "data/new-packages-2026-10-02T23-19-32-068718Z.csv",
-    "to": "2026-10-02T23:19:32.068718Z"
+    "count": 24,
+    "from": "2026-10-02T23:19:32.068718Z",
+    "path": "data/new-packages-2026-10-03T00-18-36-682069Z.csv",
+    "to": "2026-10-03T00:18:36.682069Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-02T23:13:35Z",
-      "package": "almond-scalafmt",
-      "since": "2026-10-02T22:18:35.542765Z"
+      "created_at": "2026-10-03T00:16:54Z",
+      "package": "crab-loop",
+      "since": "2026-10-02T23:19:32.068718Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-03T00:17:22Z",
+      "package": "mak-mode",
+      "since": "2026-10-02T23:19:32.068718Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-02T21:53:59Z",
       "package": "qyro-cli",
       "since": "2026-10-02T21:18:35.75188Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-03T00:16:25Z",
+      "package": "reuben",
+      "since": "2026-10-02T23:19:32.068718Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-03T00:16:36Z",
+      "package": "reubenos",
+      "since": "2026-10-02T23:19:32.068718Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-03T00:12:39Z",
+      "package": "weaved",
+      "since": "2026-10-02T23:19:32.068718Z"
     }
   ],
-  "serial": 41753561,
+  "serial": 41754971,
   "source_truncated": false,
-  "window": "2026-10-02T23:19:32.068718Z"
+  "window": "2026-10-03T00:18:36.682069Z"
 }

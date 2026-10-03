@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T23:13:35Z,almond-scalafmt,0.2.0,Alex Archambault,BSD-3-Clause,1366592,"Format Scala notebook cells with scalafmt, via almond"
+2026-10-02T23:21:06Z,pavilion,0.1.3,laconal,MIT,47131,"Interactive project scaffolder: Docker Compose services, JWT signing keys and a ready-to-use auth package."
+2026-10-02T23:25:04Z,queueflow,0.1.0,QueueFlow,MIT,161158,QueueFlow API
+2026-10-02T23:25:22Z,mista,0.1.0,Mista,MIT,34468,"Official Python SDK for the Mista Messaging, Verify and Voice APIs"
+2026-10-02T23:27:12Z,right-rudder,0.7.0,Embedded Risk Analytics <contact@embeddedriskanalytics.com>,"MIT License Copyright (c) 2026 Peter Galligan, Embedded Risk Analytics Permission is hereby granted…",106773,"Catch the step where an AI agent contradicts a decision it already made, and read how much functional life a run has left. Adapters and a CLI for the Right Rudder committed-state and expiry reads ove…"
+2026-10-02T23:28:25Z,tokencur,0.3.1,Pedro Aguayo Chávez <aguayochavezpedro@gmail.com>,MIT,197010,Convert multi-provider AI/LLM usage data into FOCUS-conformant cost datasets
+2026-10-02T23:32:47Z,simready-manage,2026.8.0,NVIDIA Corporation,Apache-2.0,95489,SimReady Asset Pipeline Manager (Kit-free review/publish workflow)
+2026-10-02T23:33:08Z,duckgrep,0.1.0,,Apache-2.0,87847,"A DuckDB index of your codebase for coding agents: symbols, references, imports, call edges, text and git history, queryable with SQL."
+2026-10-02T23:34:48Z,edify-agents-cli,0.2.0,EDIFY,"MIT License Copyright (c) 2026 Santiago Permission is hereby granted, free of charge, to any person…",510612,A harness that makes an AI coding agent work reliably on large codebases: three documents and a map.
+2026-10-02T23:35:09Z,spinosa,0.0.1,Wisam Reid <wisam@g.harvard.edu>,,6161,SPINOSA: structure- and probe-informed optophysiology of subcellular activity. The pipeline's first release is in preparation; this version holds the name and says what is coming.
+2026-10-02T23:38:17Z,spinoza,0.0.1,Wisam Reid <wisam@g.harvard.edu>,,4538,"Alias of SPINOSA, the pipeline for structure- and probe-informed optophysiology of subcellular activity: installing spinoza installs spinosa, so the two spellings arrive at the same place."
+2026-10-02T23:40:11Z,langchain-right-rudder,0.4.0,Embedded Risk Analytics,MIT,41472,"LangChain agent middleware that reads an agent's committed state, and repairs the step where a later action would contradict an earlier one."
+2026-10-02T23:41:16Z,fastapi-idempotency-key,0.1.0,FastAPI Idempotency Key Contributors,MIT,58250,"Stripe-grade Idempotency-Key support for FastAPI and Starlette APIs. Exactly-once execution with atomic distributed locks, request fingerprinting, and pluggable backends (Memory, SQLite, Redis)."
+2026-10-02T23:42:03Z,mcp-webhook-events,0.1.0,Shaun Owen,MIT,31675,MCP Events (webhook delivery) for servers built on the official Python MCP SDK. Works with ChatGPT.
+2026-10-02T23:43:37Z,cuimhin,0.1.0,Todd McCaffrey,Apache-2.0,228967,"Hybrid-retrieval memory layer for AI agents: Qdrant + SQLite FTS5 + RRF, with REST and MCP."
+2026-10-02T23:43:50Z,tidyenv,0.1.0,Elena Raikova <lenabarretta@gmail.com>,MIT,83049,Typed environment variables with friendly errors and built-in .env support.
+2026-10-02T23:45:36Z,cairn-brain,0.2.1,Cairn contributors,Apache-2.0,11853373,"Institutional memory for coding agents: map, specs, timeline, memory and sessions behind one command."
+2026-10-02T23:48:27Z,satprint,0.2.1,"Eric G. Suchanek, PhD",MIT,145109,"Satellite terrain to 3D-printable models: watertight STL, multi-color 3MF and textured GLB, with OpenStreetMap buildings"
+2026-10-02T23:49:33Z,brier,0.1.0,Mohd Uwaish,Apache-2.0,171304,"Calibrated typed decisions (choice / yes-no / score) from open LLMs, without generation or fine-tuning."
+2026-10-02T23:56:30Z,better-ui,1.4.9,Better UI Contributors <dev@better-ui.dev>,MIT,7793,A lightweight terminal UI toolkit for Python.
+2026-10-02T23:57:24Z,chaos-trader,0.1.0,,MIT,911870,"Solana wallet research, token ranking, and paper trading. Execution is not in this release."
+2026-10-02T23:58:09Z,promptfrisk,0.1.0,,MIT,86682,"Frisk prompts for injection and jailbreak attacks. A fast local guardrail built on a 421M decision model that fits any seam: CLI, pre-commit, decorator, LLM-client wrapper, ASGI middleware."
+2026-10-03T00:03:45Z,hearthstone-cli,0.1.0,OstrichHermit,MIT,140044,"Hearthstone toolbox for AI agents — two cores: deck building (validate, encode, filter, deck images) and match analysis (board parsing from game logs, action replay, AI advisor watcher)"
+2026-10-03T00:15:57Z,domino-calibrator,0.1.0,Domino Observatory,MIT,124011,"Open zero-aperture comet astrometry (the shrinking-aperture method), with a test of it on Hubble's images of 3I/ATLAS"
