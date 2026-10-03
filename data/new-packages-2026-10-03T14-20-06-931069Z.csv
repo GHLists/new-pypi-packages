@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T11:19:30Z,workstreams-cli,0.6.0,Dream-Pixels-Forge,MIT,115862,"Visually dispatch coding-agent work to subagents in real terminal windows and monitor it in one dashboard - for any coding agent (Claude Code, Codex, OpenCode, Qwen Code, Hermes, Cline, and more)."
+2026-10-03T13:22:45Z,langgraph-external-hitl,0.6.0,Rugved Kulkarni,MIT,196853,"Secure external human-in-the-loop approvals (Telegram, N options, one-time account connection) for LangGraph interrupts"
+2026-10-03T13:23:57Z,aiodrf-async-cache,0.1.0,ctolon <cevatbatuhan.tolon@gmail.com>,BSD-3-Clause,44088,Native async Redis and Valkey cache backends for Django.
+2026-10-03T13:24:02Z,yf-meaning-finder,0.4.0,Yamaan Faraz,,11056,A Python package to find files based on the meaning of their content rather than the file name.
+2026-10-03T13:24:54Z,ipinb,0.1.0,Nima Shoghi <nimashoghi@gmail.com>,MIT,1222426,Persistent IPython notebooks for MCP agents
+2026-10-03T13:26:30Z,grainguard,0.1.0,Rohit Chaurasia,MIT,67575,"Static checker that stops SQL joins from silently inflating your aggregates. Infers the grain of every table and query and flags SUM, COUNT and AVG computed on top of fan out joins before the query r…"
+2026-10-03T13:28:44Z,qaiji-ir,0.1.0,Ye Jun,Apache-2.0,147491,Qaiji-IR (开济IR): a cross-layer quantum-classical digital-twin intermediate representation for hybrid quantum computing.
+2026-10-03T13:31:47Z,pyproject-fmt-pants-plugin,0.0.1,Zach Gottesman,Apache-2.0,13133,A Pantsbuild plugin for formatting pyproject.toml files with pyproject-fmt.
+2026-10-03T13:32:01Z,telepost-bot,2.78.0,redtidev1918,MIT,1629806,"Telegram submission, review, and publication bot with a Mini App, HTTP API, and multi-bot supervisor."
+2026-10-03T13:33:30Z,timbro-invoices,0.1.0a2,Timbro contributors,,63697,Python client for Timbro's canonical Invoice API
+2026-10-03T13:33:59Z,gpu-broker,0.3.1,Ashwin Philips,Apache-2.0,444135,Share one GPU between LLM servers and ComfyUI: a queue that swaps models in and out on demand.
+2026-10-03T13:39:51Z,sifunapilot,0.1.0,aasz253 <aasz253@example.com>,MIT,39685,Local-first AI computer operator - Your computer. Your commands. Your AI.
+2026-10-03T13:40:16Z,PlayerokAPI,0.1.0,th1ks,"MIT License Copyright (c) 2026 th1ks Permission is hereby granted, free of charge, to any person ob…",125146,Лёгкая асинхронная библиотека для работы с API маркетплейса Playerok
+2026-10-03T13:44:45Z,django-trafficwatch,0.3.0,Aaron-lab-c,MIT,88242,"Configurable traffic monitoring and rate-limiting middleware for Django (time window + request count, per-path/per-method rules, DRF throttle, alerts)."
+2026-10-03T13:49:07Z,plainmem,0.1.1,Harsh Shroff,MIT,85794,"Markdown-first long-term memory for AI agents, with freshness and supersession awareness."
+2026-10-03T13:49:35Z,reconsi,0.1.0,Yash Jindal,MIT,277839,An open-source data reconciliation and comparison toolkit for analysts and data engineers.
+2026-10-03T13:49:54Z,phantom-trace-ntfs,0.6.0,Jack Sessions,MIT,276490,"Read-only NTFS cross-layer consistency checker for DFIR: finds where the MFT, bitmaps and run lists disagree"
+2026-10-03T13:51:04Z,betula-schema,0.6.0,Rens Holmer,MIT,17547,Pydantic models and strict parsers for the betula bioinformatics JSON schemas
+2026-10-03T13:51:09Z,dataclean-csv,1.0.0,omniforgelabs-dev,MIT,25523,"Dependency-free CSV cleaner and data-quality reporter: normalize headers, drop duplicate rows, fill blanks, and emit a machine-readable JSON report. Standard library only."
+2026-10-03T14:00:36Z,trytilde-cli,3.1.1,,Apache-2.0,83602414,"The Tilde CLI: develop, deploy and inspect Tilde agents"
+2026-10-03T14:05:06Z,stegdetect,0.1.0,PaulinoTech1,MIT,95599,Pre-filter that catches steganographic prompt-injection carriers before they reach an LLM
+2026-10-03T14:05:53Z,dronefly-miner,0.1.0,Ben Armstrong,AGPL-3.0-or-later,5794,Dronefly downloader and indexer
+2026-10-03T14:07:55Z,django-mail-preview,0.1.0,M4p4 <homejr@protonmail.com>,MIT,96550,A dev inbox and email previews for Django.
+2026-10-03T14:09:11Z,nimble-triage,0.1.0,Gaurav Gupta <guptagaurav035@gmail.com>,MIT,27696,"Pipe your logs through a local decision model: severity, category and needs-attention for every entry, computed on your machine."
+2026-10-03T14:11:04Z,edgextract,0.1.0,Raphael MANSUY,Apache-2.0,3833358,"Turn markdown into a knowledge graph with an ontology you write and a cutoff you own. Closed yes/no decisions, not free-form JSON."
+2026-10-03T14:14:03Z,dlens-lineage,0.1.0,Harshith,Apache-2.0,73730,Column-level lineage for dbt projects: trace any column to its source and see what a change affects.
+2026-10-03T14:15:27Z,remote-code-bridge,2.1.0,Kshitiz Wagle,MIT,118998,Run `code .` in any SSH session on a Linux remote and open it in VS Code on your own machine.
+2026-10-03T14:17:43Z,labware,0.1.1,Ramona Optics <jed@ramonaoptics.com>,BSD-3-Clause,202745,"Microplate and dish definitions: footprint, well geometry, skirt, material and vendor drawing"
+2026-10-03T14:19:01Z,hass-axi,0.8.0,,MIT,484971,"Agent eXperience Interface (AXI) CLI for Home Assistant: entity, area and device registry administration over the WebSocket API, and service calls that explain their refusals"

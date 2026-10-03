@@ -1,37 +1,49 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-10-03T12:19:04.6663Z",
-    "path": "data/new-packages-2026-10-03T13-20-00-410823Z.csv",
-    "to": "2026-10-03T13:20:00.410823Z"
+    "count": 29,
+    "from": "2026-10-03T13:20:00.410823Z",
+    "path": "data/new-packages-2026-10-03T14-20-06-931069Z.csv",
+    "to": "2026-10-03T14:20:06.931069Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-10-03T13:43:42Z",
+      "package": "brillq-opex-analytics",
+      "since": "2026-10-03T13:20:00.410823Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-03T13:53:18Z",
+      "package": "gchatpy",
+      "since": "2026-10-03T13:20:00.410823Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-03T13:58:33Z",
+      "package": "voxcpmintel",
+      "since": "2026-10-03T13:20:00.410823Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-03T12:19:49Z",
       "package": "voxcpmkit",
       "since": "2026-10-03T12:19:04.6663Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-03T10:25:15Z",
       "package": "voxcpmui3",
       "since": "2026-10-03T10:20:10.828126Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-03T11:42:27Z",
       "package": "voxcpmui4",
       "since": "2026-10-03T11:18:32.846315Z"
-    },
-    {
-      "attempts": 2,
-      "created_at": "2026-10-03T11:19:30Z",
-      "package": "workstreams-cli",
-      "since": "2026-10-03T11:18:32.846315Z"
     }
   ],
-  "serial": 41770316,
+  "serial": 41771750,
   "source_truncated": false,
-  "window": "2026-10-03T13:20:00.410823Z"
+  "window": "2026-10-03T14:20:06.931069Z"
 }
