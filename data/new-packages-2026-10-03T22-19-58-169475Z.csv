@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T21:20:22Z,fastfence,0.1.2,,Apache-2.0,359181,"A policy gateway for agent tools, resources, and local LLMs"
+2026-10-03T21:22:52Z,mcp-etf-holdings,0.4.1,mcp-etf-holdings contributors,MIT,62867,MCP server for ETF reverse lookup — find which ETFs hold any stock
+2026-10-03T21:27:52Z,focus-now,0.1.1,Ian Atroshchenko,,32511,Add your description here
+2026-10-03T21:28:04Z,smart-crop-ai,0.1.0,Pranay Mahendrakar,MIT,62701,Crop to the interesting part of an image instead of the middle of it
+2026-10-03T21:28:56Z,multilingual-text,0.1.0,Pranay Mahendrakar,MIT,95857,"Detect language, normalise and transliterate text, with one consistent API"
+2026-10-03T21:29:08Z,mbe-step,2026.10.3,Paul Saxe,BSD-3-Clause,938070,A SEAMM plug-in for many-body expansion (MBE) corrections of periodic cells and clusters
+2026-10-03T21:30:19Z,django-mvp-forms,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,114475,"A daisyUI template pack for django-crispy-forms, with form fields and widgets for django-mvp projects"
+2026-10-03T21:30:43Z,hundredflags-sdk,0.5.0,germankochnev,,28692,Python client for HundredFlags agent environment documentation and actions
+2026-10-03T21:37:33Z,tesmartctl,0.0.7.4,,MIT,134187,Command-line control for TESmart 8x1 / 16x1 HDMI switches over LAN or RS232
+2026-10-03T21:43:20Z,clinical-ai-reliability,0.1.1,Sabrina Chowdhury Tithi,Apache-2.0,24537,An open-source reliability envelope protocol for medical and health AI systems.
+2026-10-03T21:43:54Z,sensors2nmea,1.0.0,Piotr Bomba <bombapiotr@gmail.com>,Apache-2.0,66134,"Windows Sensors API (GNSS, compass, inclinometer) to NMEA 0183 over TCP, with GPX track playback"
+2026-10-03T21:47:59Z,posse,0.0.1,Dipen Singh,,2253,A shared brain for teams of coding agents
+2026-10-03T21:48:36Z,hugpy-wrapper,0.1.0,putkoff <support@hugpy.ai>,Proprietary,270305,"The hugpy wrapper (import name: fitevict): a per-box evict-to-fit front door. An OpenAI /v1 server that resolves a called model to its weights (GGUF via llama.cpp, or transformers), places it on the…"
+2026-10-03T21:48:37Z,hugpy-core,0.1.1,putkoff <support@hugpy.ai>,Proprietary,82707,"hugpy central, minimal: live worker registry (register/heartbeat), model->worker pick, and the OpenAI /v1 relay to workers. Lifted from legacy hugpy central without evict-to-fit, discovery, admission…"
+2026-10-03T21:53:32Z,hugpy-worker,0.1.0,putkoff <support@hugpy.ai>,Proprietary,26245,"Per-box hugpy worker over the fitevict front door: register, heartbeat, /infer, /infer/stream, cancel, health — lifted from hugpy_fleet.worker; all loading and serving delegated to fitevict."
+2026-10-03T21:54:01Z,aa-hostile-intel,0.0.2,BioBrute <broodlk@gmail.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",712351,hostile Intel for Alliance Auth (GitHub Version)
+2026-10-03T21:56:36Z,openflowsheet,0.1.1,Frank Peters <e.a.j.f.peters@tue.nl>,Apache-2.0,1404814,OpenFlowsheet: an agent-native open process simulator
+2026-10-03T21:56:43Z,cronguard-sdk,0.1.0,,MIT,7603,Report scheduled job runs to Cronguard heartbeat monitoring
+2026-10-03T22:01:36Z,rce-path,0.1.0,Sai Teja Erukude,MIT,79907,"Local-first, evidence-backed Python execution-path investigation"
+2026-10-03T22:09:38Z,geoguessr-avatar,0.1.0,vonkoro,MIT,670194,Fetch GeoGuessr avatars and render them in any win/lose/emote animation pose
+2026-10-03T22:17:06Z,seamspec,0.0.1,vamship,Apache-2.0,3967,Executable specs for AI coding agents. Build first; every seam that works gets a spec.
+2026-10-03T22:18:40Z,unr-mail-mcp,0.2.0,unrelated works <hi@unrelated.works>,MIT,181127,"Multi-account SMTP/IMAP MCP server for AI agents: per-mailbox read/send tools, a unified inbox/sent overview, and hardening against prompt injection and command injection"
