@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T10:20:23Z,2n20,0.1.0,2n20,MIT,105948,Local trading-key setup and public connection checks for 2n20 creators
+2026-10-03T10:22:40Z,sandbox-oss,0.2.0,,,106611,Python SDK for Sandbox OSS: micro-VM sandboxes on demand
+2026-10-03T10:22:48Z,swarmr,1.2.1,,,109599,"Deep Agents teams of domain specialists, exposed over MCP and a terminal CLI."
+2026-10-03T10:23:52Z,etherlyzer,0.5.2,Tobias Andersen,,44827,Fast offline lookup and classification of Ethernet-related identifiers.
+2026-10-03T10:25:54Z,SpikeNet,1.0.1,Danic_Programmer,MIT,12802,Spiking neural network library for games
+2026-10-03T10:26:59Z,gformbot,0.1.0,yogeshkrishna,Apache-2.0,52153,"A general-purpose Google Form auto-filler CLI — inspect any form, supply a response pool, and submit at scale."
+2026-10-03T10:27:44Z,data-pipeline-doctor,0.1.0,Mayuri <mayuriphad656@gmail.com>,,19149,"Static health checker for Airflow, dbt, Pandas and SQL projects."
+2026-10-03T10:27:59Z,willmesh,0.1.0,,Proprietary,477033,Mesh Acts and compatible Willman mesh infrastructure
+2026-10-03T10:31:52Z,swarmr-kube,1.1.0,,,122136,Kubernetes incident investigation team for swarmr.
+2026-10-03T10:32:23Z,tribeai,0.1.0,Tanishq Srivastava,MIT,87165,A minimal personal agent harness
+2026-10-03T10:32:37Z,UniversalFunctions,0.1.0,"""Miah M. Sabiq"" <miah.sabiq@gibs.at>",,21821,"A Python utility library providing foundational functions, validators, and infrastructure."
+2026-10-03T10:37:35Z,docoracle,0.1.0,Andreas Würl <andi@tryb.de>,MIT,137843,Answer questions about documentation using LLM APIs
+2026-10-03T10:38:17Z,cognira-robotics,0.1.0,Thomas Conway,MIT,54238,"Control your robot from cognira.dev — turn Python functions into buttons, sliders and joysticks."
+2026-10-03T10:39:51Z,qqbotsdk-py,0.1.0,snowy-yang,MIT,89122,QQ 官方机器人 Python SDK（WebSocket / Webhook）
+2026-10-03T10:40:29Z,tarvos,1.0.2,Repo-Tech Team,MIT,25616,Tarvos Engine public distribution for the Tarvos Python-to-native Rust compiler
+2026-10-03T10:42:12Z,factoryreset,0.1.0,xuhao <xuhao020118@gmail.com>,,5127,Công cụ quét thiết bị mạng và khôi phục cài đặt gốc
+2026-10-03T10:44:58Z,backtest-integrity-guard,0.2.1,suguobin2021,MIT,18957,"Auditable checks for causal backtests, OHLCV data, execution timing, and frozen inputs."
+2026-10-03T10:47:03Z,npm2py-inspector,0.1.0,Mayuri <mayuriphad656@gmail.com>,,15506,"Static health checker for NPM, React, and TypeScript projects."
+2026-10-03T10:47:22Z,jetblack-memoryqueue,0.1.0,Rob Blackbourn <rob.blackbourn@gmail.com>,,15724,An implementation of a memory queue
+2026-10-03T10:50:48Z,paper-preflight,0.1.0,paper-preflight contributors,MIT,572921,"Pre-submission integrity gate for LaTeX papers: every reference verified against real scholarly records. No LLM guessing, no false accusations."
+2026-10-03T10:51:03Z,dataveil,0.1.0,Zain Ul Abdin,MIT,70089,"Local data profiling, PII classification, and plan-based cleansing — aggregate-only, no LLM-authored code."
+2026-10-03T10:53:19Z,dagcraft-pipelines,0.1.0rc1,AlexSkowronski,MIT,212816,Config-driven DAG pipelines for Python.
+2026-10-03T10:53:54Z,swarmr-blame,1.0.0,,,140624,"Git archaeology team for swarmr: which commit broke the test, and proof."
+2026-10-03T10:55:20Z,dockuri,0.5.0a1,Paxlet contributors,# Pochodzenie i licencjonowanie Kod Dockuri w tej paczce został przygotowany jako nowy projekt na z…,321759,URI-addressed operations and bounded process workflows
+2026-10-03T10:58:36Z,moat-db-inv,0.1.1,Matthias Urlichs <matthias@urlichs.de>,,60984,"MoaT network inventory database (VLANs, networks, hosts, interfaces, cables)"
+2026-10-03T10:59:55Z,moat-link-ha,0.1.0,Matthias Urlichs <matthias@urlichs.de>,,12830,Home Assistant MQTT-discovery connector for MoaT-Link
+2026-10-03T11:05:33Z,ms-pdf-utils,1.0.1,"Ms Pdf Technology, co., ltd.",,14573912,Standalone PDF report rendering library (C++ protected)
+2026-10-03T11:07:42Z,kgpbench,0.1.0,Dnaerys Pty Ltd <info@dnaerys.org>,Apache-2.0,489735,LLM reasoning evaluation on rare disease genes
+2026-10-03T11:08:21Z,sci-report-analyzer,1.0.0,Benjamin Piwowarski,MIT,737860,"Track researchers' publications across sources and rank their venues, with per-person folders, notes and reports"
+2026-10-03T11:08:40Z,makeitpop-page,0.0.1,"""MakeItPop.Page"" <jsahani@elevarehq.com>",MIT,7998,Official Python client for the MakeItPop.Page API: make a URL look good when it gets shared (early preview).
+2026-10-03T11:08:56Z,zeroledger,0.1.0,ZeroLedger,Proprietary,16872,"ZeroLedger programmatic trading SDK — accounts, market & Swiss history data, order-book depth, order execution through the risk gate, server-side trailing-SL rules, and WebSocket streaming."
+2026-10-03T11:11:15Z,flydnet,0.1.0,icecx17@gmail.com,MIT,105680,Drosophila connectome (FlyWire v783) as PyTorch layers: spiking/graded networks with real fly wiring
+2026-10-03T11:11:34Z,snapdec,0.2.0,AKTONAY,Apache-2.0,255765,Snap decisions for coding agents: one command wires a local or hosted System One decision backend into every coding agent (MCP + Agent Skill).
+2026-10-03T11:12:23Z,pytessera,0.1.0,"Tomás Bordoy García-Carpintero, Lucas Dyssel",MIT,332773,"Turn whole-slide images (DICOM, SVS, NDPI, OME-TIFF) into training-ready tile datasets"
+2026-10-03T11:15:43Z,system-bridge-core,0.1.0,,,30313,Register external systems behind one tool gateway.
+2026-10-03T11:17:27Z,pycommunicator,0.1.0,Siddharth,MIT,7191,PyPackage to Communicate between Concurrent Instances of Python

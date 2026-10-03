@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-10-03T09:19:31.007771Z",
-    "path": "data/new-packages-2026-10-03T10-20-10-828126Z.csv",
-    "to": "2026-10-03T10:20:10.828126Z"
+    "count": 36,
+    "from": "2026-10-03T10:20:10.828126Z",
+    "path": "data/new-packages-2026-10-03T11-18-32-846315Z.csv",
+    "to": "2026-10-03T11:18:32.846315Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-03T10:18:09Z",
       "package": "gkmsvm-lite",
       "since": "2026-10-03T09:19:31.007771Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-03T10:25:15Z",
+      "package": "voxcpmui3",
+      "since": "2026-10-03T10:20:10.828126Z"
     }
   ],
-  "serial": 41766388,
+  "serial": 41767738,
   "source_truncated": false,
-  "window": "2026-10-03T10:20:10.828126Z"
+  "window": "2026-10-03T11:18:32.846315Z"
 }
