@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-02T21:53:59Z,qyro-cli,1.0.0a1,Neuri,MIT,159099,"The official developer CLI and project orchestrator for the Qyro ecosystem. Scaffold, develop, build, package, and sign cross-platform Python applications."
+2026-10-03T00:12:39Z,weaved,0.1.0,,,1071453,"Fast, non-mutating deep merges for Python dictionaries"
+2026-10-03T00:18:56Z,autotok,2.0.1,Michael Peres,AGPL-3.0-only,279713,"Upload and schedule TikTok videos from Python or the command line, with per-account proxy support."
+2026-10-03T00:22:06Z,ndx-jabs,0.1.0,The Jackson Laboratory <glen.beane@jax.org>,MIT,6849614,"NWB extension for storing JABS (JAX Animal Behavior System) algorithm internals, such as instance segmentation contours"
+2026-10-03T00:22:39Z,rfc-9727-pure,0.1.0,Prasad A Abhishek <prasad.a.abhishek@gmail.com>,MIT,25946,Zero-dependency pure-Python RFC 9727 API Catalog Linkset parser
+2026-10-03T00:30:52Z,rssd-fs,0.2.0,Allie Coleman,MIT,157448,A file-based RSS daemon: the filesystem is the API
+2026-10-03T00:33:14Z,readmeta,0.1.1,hao li,MIT,25823,"Check that your README will actually render on PyPI — inspects the built artifact, not the repo"
+2026-10-03T00:35:54Z,bioio-openreadout,0.1.0,The OpenReadout Authors <openreadout@gmail.com>,MIT OR Apache-2.0,27407,bioio reader plugin that reads microscopy files with OpenReadout
+2026-10-03T00:35:59Z,napari-openreadout,0.1.0,The OpenReadout Authors <openreadout@gmail.com>,MIT OR Apache-2.0,21406,napari reader plugin that opens microscopy files lazily with OpenReadout
+2026-10-03T00:36:00Z,openreadout,0.1.0,The OpenReadout Authors <openreadout@gmail.com>,MIT OR Apache-2.0,123689678,"Read raw lab-instrument files without vendor software, from Python"
+2026-10-03T00:39:44Z,simready-foundation-tier-aif,2026.8.0,NVIDIA,Apache-2.0,149542,"SimReady AI Factory (AIF) tier: AIF core metadata, connection points (v0.1.0 geometry + v0.2.0 property vocabulary, coexisting), thermal cooling, and electrical capabilities/features, and the aif-ent…"
+2026-10-03T00:39:45Z,simready-foundation-tier-sensors,2026.8.0,NVIDIA,Apache-2.0,242069,"SimReady Foundation sensors tier: sensor capabilities, features, requirements, and validators (nonvisual sensors, physics sensors, and render products)"
+2026-10-03T00:40:27Z,openpuppet-language,2.0,,,216089,Puppet 语言标准实现（设计 + 语言规范 + 参考实现）。零第三方依赖。
+2026-10-03T00:43:36Z,netcodex-agent-exporter,0.3.0,NetCodex Technology,MIT,179206,"Local-first exporter for AI agent conversations (Codex, Claude Code, Copilot, Cline, Cursor, Gemini CLI and more) to Markdown."
+2026-10-03T00:43:57Z,imagestep,0.1.0,ImageStep,MIT,162986,ImageStep SDK — the image step for your automations
+2026-10-03T00:47:08Z,wheeltruth,0.2.0,hao li,MIT,31808,Check that your built wheel/sdist actually contains everything the package needs
+2026-10-03T00:49:31Z,self-play-pretrain-zero-data,0.0.1,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",10932,Implementation of Self-Play Pretraining with Zero Data
+2026-10-03T00:49:34Z,mcp-sql-querystore,0.1.0,Deepesh Dhake,MIT,42482,"Read-only MCP server for SQL Server performance diagnostics over Query Store, DMVs, and execution plans"
+2026-10-03T00:52:51Z,pydantic-brasil,0.2.0,Luan Schons <luanschons2000@gmail.com>,MIT,83165,"Tipos de dados e validadores brasileiros de alta performance para Pydantic v2 e FastAPI (CPF, CNPJ 2026, CEP, Chave PIX, Telefone, CNH, PIS, SUS, Título de Eleitor, Processo CNJ e mais)"
+2026-10-03T00:56:50Z,stx-python,0.6.0rc1,STX <support@stxapp.io>,MIT,110371,Official Python SDK for the STX exchange
+2026-10-03T01:15:54Z,annzarro,0.2.0,Siddharth Baasri,MIT,4144096,"Read-only browser viewer for AnnData (zarr, h5ad) built around cell-by-cell and gene-by-gene matrices"
+2026-10-03T01:16:41Z,bx-ui,1.0.0,BXCode,MIT,9404,Modern Arabic and English terminal UI toolkit for Python

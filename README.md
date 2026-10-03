@@ -8,35 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 00:18 UTC
+## Latest list — 2026-10-03 01:19 UTC
 
-New packages created between 2026-10-02 23:19 UTC and 2026-10-03 00:18 UTC.
+New packages created between 2026-10-03 00:18 UTC and 2026-10-03 01:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-03T00-18-36-682069Z.csv)
+[Full CSV](data/new-packages-2026-10-03T01-19-57-362207Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-02 23:13:35 | [almond-scalafmt](https://pypi.org/project/almond-scalafmt/) | 0.2.0 | Alex Archambault | 1.4 MB | Format Scala notebook cells with scalafmt, via almond |
-| 2026-10-02 23:21:06 | [pavilion](https://pypi.org/project/pavilion/) | 0.1.3 | laconal | 47.1 kB | Interactive project scaffolder: Docker Compose services, JWT signing keys and a… |
-| 2026-10-02 23:25:04 | [queueflow](https://pypi.org/project/queueflow/) | 0.1.0 | QueueFlow | 161.2 kB | QueueFlow API |
-| 2026-10-02 23:25:22 | [mista](https://pypi.org/project/mista/) | 0.1.0 | Mista | 34.5 kB | Official Python SDK for the Mista Messaging, Verify and Voice APIs |
-| 2026-10-02 23:27:12 | [right-rudder](https://pypi.org/project/right-rudder/) | 0.7.0 | Embedded Risk Analytics <cont… | 106.8 kB | Catch the step where an AI agent contradicts a decision it already made, and re… |
-| 2026-10-02 23:28:25 | [tokencur](https://pypi.org/project/tokencur/) | 0.3.1 | Pedro Aguayo Chávez <aguayoch… | 197.0 kB | Convert multi-provider AI/LLM usage data into FOCUS-conformant cost datasets |
-| 2026-10-02 23:32:47 | [simready-manage](https://pypi.org/project/simready-manage/) | 2026.8.0 | NVIDIA Corporation | 95.5 kB | SimReady Asset Pipeline Manager (Kit-free review/publish workflow) |
-| 2026-10-02 23:33:08 | [duckgrep](https://pypi.org/project/duckgrep/) | 0.1.0 |  | 87.8 kB | A DuckDB index of your codebase for coding agents: symbols, references, imports… |
-| 2026-10-02 23:34:48 | [edify-agents-cli](https://pypi.org/project/edify-agents-cli/) | 0.2.0 | EDIFY | 510.6 kB | A harness that makes an AI coding agent work reliably on large codebases: three… |
-| 2026-10-02 23:35:09 | [spinosa](https://pypi.org/project/spinosa/) | 0.0.1 | Wisam Reid <wisam@g.harvard.e… | 6.2 kB | SPINOSA: structure- and probe-informed optophysiology of subcellular activity.… |
-| 2026-10-02 23:38:17 | [spinoza](https://pypi.org/project/spinoza/) | 0.0.1 | Wisam Reid <wisam@g.harvard.e… | 4.5 kB | Alias of SPINOSA, the pipeline for structure- and probe-informed optophysiology… |
-| 2026-10-02 23:40:11 | [langchain-right-rudder](https://pypi.org/project/langchain-right-rudder/) | 0.4.0 | Embedded Risk Analytics | 41.5 kB | LangChain agent middleware that reads an agent's committed state, and repairs t… |
-| 2026-10-02 23:41:16 | [fastapi-idempotency-key](https://pypi.org/project/fastapi-idempotency-key/) | 0.1.0 | FastAPI Idempotency Key Contr… | 58.2 kB | Stripe-grade Idempotency-Key support for FastAPI and Starlette APIs. Exactly-on… |
-| 2026-10-02 23:42:03 | [mcp-webhook-events](https://pypi.org/project/mcp-webhook-events/) | 0.1.0 | Shaun Owen | 31.7 kB | MCP Events (webhook delivery) for servers built on the official Python MCP SDK.… |
-| 2026-10-02 23:43:37 | [cuimhin](https://pypi.org/project/cuimhin/) | 0.1.0 | Todd McCaffrey | 229.0 kB | Hybrid-retrieval memory layer for AI agents: Qdrant + SQLite FTS5 + RRF, with R… |
-| 2026-10-02 23:43:50 | [tidyenv](https://pypi.org/project/tidyenv/) | 0.1.0 | Elena Raikova <lenabarretta@g… | 83.0 kB | Typed environment variables with friendly errors and built-in .env support. |
-| 2026-10-02 23:45:36 | [cairn-brain](https://pypi.org/project/cairn-brain/) | 0.2.1 | Cairn contributors | 11.9 MB | Institutional memory for coding agents: map, specs, timeline, memory and sessio… |
-| 2026-10-02 23:48:27 | [satprint](https://pypi.org/project/satprint/) | 0.2.1 | Eric G. Suchanek, PhD | 145.1 kB | Satellite terrain to 3D-printable models: watertight STL, multi-color 3MF and t… |
-| 2026-10-02 23:49:33 | [brier](https://pypi.org/project/brier/) | 0.1.0 | Mohd Uwaish | 171.3 kB | Calibrated typed decisions (choice / yes-no / score) from open LLMs, without ge… |
-| 2026-10-02 23:56:30 | [better-ui](https://pypi.org/project/better-ui/) | 1.4.9 | Better UI Contributors <dev@b… | 7.8 kB | A lightweight terminal UI toolkit for Python. |
-| 2026-10-02 23:57:24 | [chaos-trader](https://pypi.org/project/chaos-trader/) | 0.1.0 |  | 911.9 kB | Solana wallet research, token ranking, and paper trading. Execution is not in t… |
-| 2026-10-02 23:58:09 | [promptfrisk](https://pypi.org/project/promptfrisk/) | 0.1.0 |  | 86.7 kB | Frisk prompts for injection and jailbreak attacks. A fast local guardrail built… |
-| 2026-10-03 00:03:45 | [hearthstone-cli](https://pypi.org/project/hearthstone-cli/) | 0.1.0 | OstrichHermit | 140.0 kB | Hearthstone toolbox for AI agents — two cores: deck building (validate, encode,… |
-| 2026-10-03 00:15:57 | [domino-calibrator](https://pypi.org/project/domino-calibrator/) | 0.1.0 | Domino Observatory | 124.0 kB | Open zero-aperture comet astrometry (the shrinking-aperture method), with a tes… |
+| 2026-10-02 21:53:59 | [qyro-cli](https://pypi.org/project/qyro-cli/) | 1.0.0a1 | Neuri | 159.1 kB | The official developer CLI and project orchestrator for the Qyro ecosystem. Sca… |
+| 2026-10-03 00:12:39 | [weaved](https://pypi.org/project/weaved/) | 0.1.0 |  | 1.1 MB | Fast, non-mutating deep merges for Python dictionaries |
+| 2026-10-03 00:18:56 | [autotok](https://pypi.org/project/autotok/) | 2.0.1 | Michael Peres | 279.7 kB | Upload and schedule TikTok videos from Python or the command line, with per-acc… |
+| 2026-10-03 00:22:06 | [ndx-jabs](https://pypi.org/project/ndx-jabs/) | 0.1.0 | The Jackson Laboratory <glen.… | 6.8 MB | NWB extension for storing JABS (JAX Animal Behavior System) algorithm internals… |
+| 2026-10-03 00:22:39 | [rfc-9727-pure](https://pypi.org/project/rfc-9727-pure/) | 0.1.0 | Prasad A Abhishek <prasad.a.a… | 25.9 kB | Zero-dependency pure-Python RFC 9727 API Catalog Linkset parser |
+| 2026-10-03 00:30:52 | [rssd-fs](https://pypi.org/project/rssd-fs/) | 0.2.0 | Allie Coleman | 157.4 kB | A file-based RSS daemon: the filesystem is the API |
+| 2026-10-03 00:33:14 | [readmeta](https://pypi.org/project/readmeta/) | 0.1.1 | hao li | 25.8 kB | Check that your README will actually render on PyPI — inspects the built artifa… |
+| 2026-10-03 00:35:54 | [bioio-openreadout](https://pypi.org/project/bioio-openreadout/) | 0.1.0 | The OpenReadout Authors <open… | 27.4 kB | bioio reader plugin that reads microscopy files with OpenReadout |
+| 2026-10-03 00:35:59 | [napari-openreadout](https://pypi.org/project/napari-openreadout/) | 0.1.0 | The OpenReadout Authors <open… | 21.4 kB | napari reader plugin that opens microscopy files lazily with OpenReadout |
+| 2026-10-03 00:36:00 | [openreadout](https://pypi.org/project/openreadout/) | 0.1.0 | The OpenReadout Authors <open… | 123.7 MB | Read raw lab-instrument files without vendor software, from Python |
+| 2026-10-03 00:39:44 | [simready-foundation-tier-aif](https://pypi.org/project/simready-foundation-tier-aif/) | 2026.8.0 | NVIDIA | 149.5 kB | SimReady AI Factory (AIF) tier: AIF core metadata, connection points (v0.1.0 ge… |
+| 2026-10-03 00:39:45 | [simready-foundation-tier-sensors](https://pypi.org/project/simready-foundation-tier-sensors/) | 2026.8.0 | NVIDIA | 242.1 kB | SimReady Foundation sensors tier: sensor capabilities, features, requirements,… |
+| 2026-10-03 00:40:27 | [openpuppet-language](https://pypi.org/project/openpuppet-language/) | 2.0 |  | 216.1 kB | Puppet 语言标准实现（设计 + 语言规范 + 参考实现）。零第三方依赖。 |
+| 2026-10-03 00:43:36 | [netcodex-agent-exporter](https://pypi.org/project/netcodex-agent-exporter/) | 0.3.0 | NetCodex Technology | 179.2 kB | Local-first exporter for AI agent conversations (Codex, Claude Code, Copilot, C… |
+| 2026-10-03 00:43:57 | [imagestep](https://pypi.org/project/imagestep/) | 0.1.0 | ImageStep | 163.0 kB | ImageStep SDK — the image step for your automations |
+| 2026-10-03 00:47:08 | [wheeltruth](https://pypi.org/project/wheeltruth/) | 0.2.0 | hao li | 31.8 kB | Check that your built wheel/sdist actually contains everything the package needs |
+| 2026-10-03 00:49:31 | [self-play-pretrain-zero-data](https://pypi.org/project/self-play-pretrain-zero-data/) | 0.0.1 | Phil Wang <lucidrains@gmail.c… | 10.9 kB | Implementation of Self-Play Pretraining with Zero Data |
+| 2026-10-03 00:49:34 | [mcp-sql-querystore](https://pypi.org/project/mcp-sql-querystore/) | 0.1.0 | Deepesh Dhake | 42.5 kB | Read-only MCP server for SQL Server performance diagnostics over Query Store, D… |
+| 2026-10-03 00:52:51 | [pydantic-brasil](https://pypi.org/project/pydantic-brasil/) | 0.2.0 | Luan Schons <luanschons2000@g… | 83.2 kB | Tipos de dados e validadores brasileiros de alta performance para Pydantic v2 e… |
+| 2026-10-03 00:56:50 | [stx-python](https://pypi.org/project/stx-python/) | 0.6.0rc1 | STX <support@stxapp.io> | 110.4 kB | Official Python SDK for the STX exchange |
+| 2026-10-03 01:15:54 | [annzarro](https://pypi.org/project/annzarro/) | 0.2.0 | Siddharth Baasri | 4.1 MB | Read-only browser viewer for AnnData (zarr, h5ad) built around cell-by-cell and… |
+| 2026-10-03 01:16:41 | [bx-ui](https://pypi.org/project/bx-ui/) | 1.0.0 | BXCode | 9.4 kB | Modern Arabic and English terminal UI toolkit for Python |
