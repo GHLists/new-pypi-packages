@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T10:18:09Z,gkmsvm-lite,0.1.0,Adam Youlin He <ayhe@stanford.edu>,MIT,1951543,Gapped k-mer SVMs for DNA sequence classification and regression
+2026-10-03T11:19:59Z,ovos-good-manners-pipeline-plugin,0.0.2,OpenVoiceOS <jarbasai@mailfence.com>,Apache-2.0,59348,OVOS pipeline plugin that reinforces good manners and reprimands foul language
+2026-10-03T11:26:11Z,stochastly-mcp,0.1.0,,MIT,3852,Local launcher for the MCP server included with the Stochastly desktop app
+2026-10-03T11:27:05Z,astrocyte-sqlite,0.16.0,,Apache-2.0,169644,SQLite adapter for Astrocyte (vector + document stores in one local file; zero infrastructure)
+2026-10-03T11:30:21Z,upgrade-impact,0.1.0,gfr211306-crypto,MIT,23354,Find dependency upgrade breakages in your Python code.
+2026-10-03T11:32:36Z,hillock,0.8.0,,,35389,"A lightweight, 100% local neuro-symbolic memory engine."
+2026-10-03T11:38:31Z,papergraph-mcp,1.2.0,,,793274,Turn mathematical LaTeX papers into theorem dependency graphs for AI agents.
+2026-10-03T11:43:49Z,perceivo,0.0.1,ConceptBuilder AI,,11344,Name reservation placeholder. The official Perceivo SDK release will follow.
+2026-10-03T11:44:59Z,resetror,0.1.1,,,6978,
+2026-10-03T11:45:28Z,pythonx-compose,0.1.0a1,"BREW (b-re-w), Jong-uk Lee (rnoro5122)",MIT,220487,"Pythonic Compose UI for Python on Kotlin Multiplatform, through python-multiplatform"
+2026-10-03T11:46:18Z,helping-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47398,A machine that helps.
+2026-10-03T11:49:35Z,dash-openlayers,0.0.1,Ravi Sharma <ravikr731@gmail.com>,"MIT License Copyright (c) 2026 Ravi Sharma Permission is hereby granted, free of charge, to any per…",1356046,A Dash wrapper around OpenLayers - GIS rendering engine
+2026-10-03T11:49:49Z,thunc,0.1.0,Hussein Eltarras,MIT,32719,think + function: call an LLM like a typed Python function.
+2026-10-03T11:50:05Z,softechlog,1.3.0,FutureGenSystems <hello@softechlog.com>,MIT,54270,Server-side SDK for Softechlog — drop-in user activity logging & customer-facing activity feeds
+2026-10-03T11:53:20Z,grooveloop,0.0.1,Pascual Montesinos,Apache-2.0,2520,"Name reservation for grooveloop, an SDLC orchestrator that drives agent-built changes from spec to merge. Real releases will come later."
+2026-10-03T11:56:38Z,starwave,0.1.0rc1,,MIT AND LicenseRef-NVIDIA-CUDA-11.8,4291724,"Standalone scalar, VRZ, and Duveneck VTI CUDA wave propagation for PyTorch"
+2026-10-03T11:58:53Z,utec-client,0.5.0,Geoff Franks,MIT,80134,An independently maintained U-Tec/U-Home API client library.
+2026-10-03T12:00:49Z,brillq-opex,2.0.0,"""brillQ sp. z o.o."" <hello@brillq.today>",LicenseRef-brillQ-Commercial,274052,"Bayesian cost-frontier analytics for OPEX benchmarking: efficiency and savings with credible intervals, an evidence gate, explainable drivers and EN/PL reports. Commercial software by brillQ."
+2026-10-03T12:00:52Z,wayza-human,0.1.0,Wayza <support@wayza.com>,Apache-2.0,82752,Send an agent's pause-for-approval to a real person through Wayza and resume on their signed answer.
+2026-10-03T12:02:09Z,mostlyrender,0.2.0,Mostly Tiny,MIT,11958,"Official Python SDK for the MostlyRender image, PDF & screenshot generation API."
+2026-10-03T12:02:18Z,granttrace,2.4.0,GrantTrace contributors,Apache-2.0,355035,"Safety-first OpenAPI authorization auditing tool for BOLA, IDOR and Mass Assignment testing"
+2026-10-03T12:05:49Z,onewayswp,0.1.0,Juan Hulu,MIT,8353585,OnewaySWP - Offline One-Way License Framework
+2026-10-03T12:10:40Z,zillion-asb,0.2.0,,Apache-2.0,114834,Python SDK for Sandbox OSS: micro-VM sandboxes on demand
+2026-10-03T12:10:53Z,wave-fixture-ai,0.2.2,mo9652962-ai,"MIT License Copyright (c) 2026 mo9652962-ai Permission is hereby granted, free of charge, to any pe…",248997,波峰焊治具 AI 设计助手：Gerber → 治具 DXF/STL/CNC G 代码 · 21 项自动化（沉板/狗骨头清角/拼版/避位/上锡/干涉分析/材料成本/生产工单）
+2026-10-03T12:11:31Z,pyflowred-node-lowercase,0.1.0,Melvin Neffle,Apache-2.0,7307,An example PyFlowRED node package: lowercases msg.payload.
+2026-10-03T12:15:07Z,gsc-cli,0.2.0,SEO Consult <margpeeva@gmail.com>,MIT,124522,Google Search Console CLI and backend for Claude Code SEO-analysis skills.
+2026-10-03T12:15:56Z,eragin,0.0.1,Gako AI Labs <igor@gako.ai>,MIT,2375,Resolución de problemas complejos con modelos de lenguaje pequeños: descomposición recursiva y verificación por contrato. Nombre reservado; en desarrollo.

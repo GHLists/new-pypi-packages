@@ -8,47 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 11:18 UTC
+## Latest list — 2026-10-03 12:19 UTC
 
-New packages created between 2026-10-03 10:20 UTC and 2026-10-03 11:18 UTC.
+New packages created between 2026-10-03 11:18 UTC and 2026-10-03 12:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-03T11-18-32-846315Z.csv)
+[Full CSV](data/new-packages-2026-10-03T12-19-04-6663Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-03 10:20:23 | [2n20](https://pypi.org/project/2n20/) | 0.1.0 | 2n20 | 105.9 kB | Local trading-key setup and public connection checks for 2n20 creators |
-| 2026-10-03 10:22:40 | [sandbox-oss](https://pypi.org/project/sandbox-oss/) | 0.2.0 |  | 106.6 kB | Python SDK for Sandbox OSS: micro-VM sandboxes on demand |
-| 2026-10-03 10:22:48 | [swarmr](https://pypi.org/project/swarmr/) | 1.2.1 |  | 109.6 kB | Deep Agents teams of domain specialists, exposed over MCP and a terminal CLI. |
-| 2026-10-03 10:23:52 | [etherlyzer](https://pypi.org/project/etherlyzer/) | 0.5.2 | Tobias Andersen | 44.8 kB | Fast offline lookup and classification of Ethernet-related identifiers. |
-| 2026-10-03 10:25:54 | [SpikeNet](https://pypi.org/project/SpikeNet/) | 1.0.1 | Danic_Programmer | 12.8 kB | Spiking neural network library for games |
-| 2026-10-03 10:26:59 | [gformbot](https://pypi.org/project/gformbot/) | 0.1.0 | yogeshkrishna | 52.2 kB | A general-purpose Google Form auto-filler CLI — inspect any form, supply a resp… |
-| 2026-10-03 10:27:44 | [data-pipeline-doctor](https://pypi.org/project/data-pipeline-doctor/) | 0.1.0 | Mayuri <mayuriphad656@gmail.c… | 19.1 kB | Static health checker for Airflow, dbt, Pandas and SQL projects. |
-| 2026-10-03 10:27:59 | [willmesh](https://pypi.org/project/willmesh/) | 0.1.0 |  | 477.0 kB | Mesh Acts and compatible Willman mesh infrastructure |
-| 2026-10-03 10:31:52 | [swarmr-kube](https://pypi.org/project/swarmr-kube/) | 1.1.0 |  | 122.1 kB | Kubernetes incident investigation team for swarmr. |
-| 2026-10-03 10:32:23 | [tribeai](https://pypi.org/project/tribeai/) | 0.1.0 | Tanishq Srivastava | 87.2 kB | A minimal personal agent harness |
-| 2026-10-03 10:32:37 | [UniversalFunctions](https://pypi.org/project/UniversalFunctions/) | 0.1.0 | "Miah M. Sabiq" <miah.sabiq@g… | 21.8 kB | A Python utility library providing foundational functions, validators, and infr… |
-| 2026-10-03 10:37:35 | [docoracle](https://pypi.org/project/docoracle/) | 0.1.0 | Andreas Würl <andi@tryb.de> | 137.8 kB | Answer questions about documentation using LLM APIs |
-| 2026-10-03 10:38:17 | [cognira-robotics](https://pypi.org/project/cognira-robotics/) | 0.1.0 | Thomas Conway | 54.2 kB | Control your robot from cognira.dev — turn Python functions into buttons, slide… |
-| 2026-10-03 10:39:51 | [qqbotsdk-py](https://pypi.org/project/qqbotsdk-py/) | 0.1.0 | snowy-yang | 89.1 kB | QQ 官方机器人 Python SDK（WebSocket / Webhook） |
-| 2026-10-03 10:40:29 | [tarvos](https://pypi.org/project/tarvos/) | 1.0.2 | Repo-Tech Team | 25.6 kB | Tarvos Engine public distribution for the Tarvos Python-to-native Rust compiler |
-| 2026-10-03 10:42:12 | [factoryreset](https://pypi.org/project/factoryreset/) | 0.1.0 | xuhao <xuhao020118@gmail.com> | 5.1 kB | Công cụ quét thiết bị mạng và khôi phục cài đặt gốc |
-| 2026-10-03 10:44:58 | [backtest-integrity-guard](https://pypi.org/project/backtest-integrity-guard/) | 0.2.1 | suguobin2021 | 19.0 kB | Auditable checks for causal backtests, OHLCV data, execution timing, and frozen… |
-| 2026-10-03 10:47:03 | [npm2py-inspector](https://pypi.org/project/npm2py-inspector/) | 0.1.0 | Mayuri <mayuriphad656@gmail.c… | 15.5 kB | Static health checker for NPM, React, and TypeScript projects. |
-| 2026-10-03 10:47:22 | [jetblack-memoryqueue](https://pypi.org/project/jetblack-memoryqueue/) | 0.1.0 | Rob Blackbourn <rob.blackbour… | 15.7 kB | An implementation of a memory queue |
-| 2026-10-03 10:50:48 | [paper-preflight](https://pypi.org/project/paper-preflight/) | 0.1.0 | paper-preflight contributors | 572.9 kB | Pre-submission integrity gate for LaTeX papers: every reference verified agains… |
-| 2026-10-03 10:51:03 | [dataveil](https://pypi.org/project/dataveil/) | 0.1.0 | Zain Ul Abdin | 70.1 kB | Local data profiling, PII classification, and plan-based cleansing — aggregate-… |
-| 2026-10-03 10:53:19 | [dagcraft-pipelines](https://pypi.org/project/dagcraft-pipelines/) | 0.1.0rc1 | AlexSkowronski | 212.8 kB | Config-driven DAG pipelines for Python. |
-| 2026-10-03 10:53:54 | [swarmr-blame](https://pypi.org/project/swarmr-blame/) | 1.0.0 |  | 140.6 kB | Git archaeology team for swarmr: which commit broke the test, and proof. |
-| 2026-10-03 10:55:20 | [dockuri](https://pypi.org/project/dockuri/) | 0.5.0a1 | Paxlet contributors | 321.8 kB | URI-addressed operations and bounded process workflows |
-| 2026-10-03 10:58:36 | [moat-db-inv](https://pypi.org/project/moat-db-inv/) | 0.1.1 | Matthias Urlichs <matthias@ur… | 61.0 kB | MoaT network inventory database (VLANs, networks, hosts, interfaces, cables) |
-| 2026-10-03 10:59:55 | [moat-link-ha](https://pypi.org/project/moat-link-ha/) | 0.1.0 | Matthias Urlichs <matthias@ur… | 12.8 kB | Home Assistant MQTT-discovery connector for MoaT-Link |
-| 2026-10-03 11:05:33 | [ms-pdf-utils](https://pypi.org/project/ms-pdf-utils/) | 1.0.1 | Ms Pdf Technology, co., ltd. | 14.6 MB | Standalone PDF report rendering library (C++ protected) |
-| 2026-10-03 11:07:42 | [kgpbench](https://pypi.org/project/kgpbench/) | 0.1.0 | Dnaerys Pty Ltd <info@dnaerys… | 489.7 kB | LLM reasoning evaluation on rare disease genes |
-| 2026-10-03 11:08:21 | [sci-report-analyzer](https://pypi.org/project/sci-report-analyzer/) | 1.0.0 | Benjamin Piwowarski | 737.9 kB | Track researchers' publications across sources and rank their venues, with per-… |
-| 2026-10-03 11:08:40 | [makeitpop-page](https://pypi.org/project/makeitpop-page/) | 0.0.1 | "MakeItPop.Page" <jsahani@ele… | 8.0 kB | Official Python client for the MakeItPop.Page API: make a URL look good when it… |
-| 2026-10-03 11:08:56 | [zeroledger](https://pypi.org/project/zeroledger/) | 0.1.0 | ZeroLedger | 16.9 kB | ZeroLedger programmatic trading SDK — accounts, market & Swiss history data, or… |
-| 2026-10-03 11:11:15 | [flydnet](https://pypi.org/project/flydnet/) | 0.1.0 | icecx17@gmail.com | 105.7 kB | Drosophila connectome (FlyWire v783) as PyTorch layers: spiking/graded networks… |
-| 2026-10-03 11:11:34 | [snapdec](https://pypi.org/project/snapdec/) | 0.2.0 | AKTONAY | 255.8 kB | Snap decisions for coding agents: one command wires a local or hosted System On… |
-| 2026-10-03 11:12:23 | [pytessera](https://pypi.org/project/pytessera/) | 0.1.0 | Tomás Bordoy García-Carpinter… | 332.8 kB | Turn whole-slide images (DICOM, SVS, NDPI, OME-TIFF) into training-ready tile d… |
-| 2026-10-03 11:15:43 | [system-bridge-core](https://pypi.org/project/system-bridge-core/) | 0.1.0 |  | 30.3 kB | Register external systems behind one tool gateway. |
-| 2026-10-03 11:17:27 | [pycommunicator](https://pypi.org/project/pycommunicator/) | 0.1.0 | Siddharth | 7.2 kB | PyPackage to Communicate between Concurrent Instances of Python |
+| 2026-10-03 10:18:09 | [gkmsvm-lite](https://pypi.org/project/gkmsvm-lite/) | 0.1.0 | Adam Youlin He <ayhe@stanford… | 2.0 MB | Gapped k-mer SVMs for DNA sequence classification and regression |
+| 2026-10-03 11:19:59 | [ovos-good-manners-pipeline-plugin](https://pypi.org/project/ovos-good-manners-pipeline-plugin/) | 0.0.2 | OpenVoiceOS <jarbasai@mailfen… | 59.3 kB | OVOS pipeline plugin that reinforces good manners and reprimands foul language |
+| 2026-10-03 11:26:11 | [stochastly-mcp](https://pypi.org/project/stochastly-mcp/) | 0.1.0 |  | 3.9 kB | Local launcher for the MCP server included with the Stochastly desktop app |
+| 2026-10-03 11:27:05 | [astrocyte-sqlite](https://pypi.org/project/astrocyte-sqlite/) | 0.16.0 |  | 169.6 kB | SQLite adapter for Astrocyte (vector + document stores in one local file; zero… |
+| 2026-10-03 11:30:21 | [upgrade-impact](https://pypi.org/project/upgrade-impact/) | 0.1.0 | gfr211306-crypto | 23.4 kB | Find dependency upgrade breakages in your Python code. |
+| 2026-10-03 11:32:36 | [hillock](https://pypi.org/project/hillock/) | 0.8.0 |  | 35.4 kB | A lightweight, 100% local neuro-symbolic memory engine. |
+| 2026-10-03 11:38:31 | [papergraph-mcp](https://pypi.org/project/papergraph-mcp/) | 1.2.0 |  | 793.3 kB | Turn mathematical LaTeX papers into theorem dependency graphs for AI agents. |
+| 2026-10-03 11:43:49 | [perceivo](https://pypi.org/project/perceivo/) | 0.0.1 | ConceptBuilder AI | 11.3 kB | Name reservation placeholder. The official Perceivo SDK release will follow. |
+| 2026-10-03 11:44:59 | [resetror](https://pypi.org/project/resetror/) | 0.1.1 |  | 7.0 kB |  |
+| 2026-10-03 11:45:28 | [pythonx-compose](https://pypi.org/project/pythonx-compose/) | 0.1.0a1 | BREW (b-re-w), Jong-uk Lee (r… | 220.5 kB | Pythonic Compose UI for Python on Kotlin Multiplatform, through python-multipla… |
+| 2026-10-03 11:46:18 | [helping-machine](https://pypi.org/project/helping-machine/) | 0.0.1 | Machina Ratiocinatrix <machin… | 47.4 kB | A machine that helps. |
+| 2026-10-03 11:49:35 | [dash-openlayers](https://pypi.org/project/dash-openlayers/) | 0.0.1 | Ravi Sharma <ravikr731@gmail.… | 1.4 MB | A Dash wrapper around OpenLayers - GIS rendering engine |
+| 2026-10-03 11:49:49 | [thunc](https://pypi.org/project/thunc/) | 0.1.0 | Hussein Eltarras | 32.7 kB | think + function: call an LLM like a typed Python function. |
+| 2026-10-03 11:50:05 | [softechlog](https://pypi.org/project/softechlog/) | 1.3.0 | FutureGenSystems <hello@softe… | 54.3 kB | Server-side SDK for Softechlog — drop-in user activity logging & customer-facin… |
+| 2026-10-03 11:53:20 | [grooveloop](https://pypi.org/project/grooveloop/) | 0.0.1 | Pascual Montesinos | 2.5 kB | Name reservation for grooveloop, an SDLC orchestrator that drives agent-built c… |
+| 2026-10-03 11:56:38 | [starwave](https://pypi.org/project/starwave/) | 0.1.0rc1 |  | 4.3 MB | Standalone scalar, VRZ, and Duveneck VTI CUDA wave propagation for PyTorch |
+| 2026-10-03 11:58:53 | [utec-client](https://pypi.org/project/utec-client/) | 0.5.0 | Geoff Franks | 80.1 kB | An independently maintained U-Tec/U-Home API client library. |
+| 2026-10-03 12:00:49 | [brillq-opex](https://pypi.org/project/brillq-opex/) | 2.0.0 | "brillQ sp. z o.o." <hello@br… | 274.1 kB | Bayesian cost-frontier analytics for OPEX benchmarking: efficiency and savings… |
+| 2026-10-03 12:00:52 | [wayza-human](https://pypi.org/project/wayza-human/) | 0.1.0 | Wayza <support@wayza.com> | 82.8 kB | Send an agent's pause-for-approval to a real person through Wayza and resume on… |
+| 2026-10-03 12:02:09 | [mostlyrender](https://pypi.org/project/mostlyrender/) | 0.2.0 | Mostly Tiny | 12.0 kB | Official Python SDK for the MostlyRender image, PDF & screenshot generation API. |
+| 2026-10-03 12:02:18 | [granttrace](https://pypi.org/project/granttrace/) | 2.4.0 | GrantTrace contributors | 355.0 kB | Safety-first OpenAPI authorization auditing tool for BOLA, IDOR and Mass Assign… |
+| 2026-10-03 12:05:49 | [onewayswp](https://pypi.org/project/onewayswp/) | 0.1.0 | Juan Hulu | 8.4 MB | OnewaySWP - Offline One-Way License Framework |
+| 2026-10-03 12:10:40 | [zillion-asb](https://pypi.org/project/zillion-asb/) | 0.2.0 |  | 114.8 kB | Python SDK for Sandbox OSS: micro-VM sandboxes on demand |
+| 2026-10-03 12:10:53 | [wave-fixture-ai](https://pypi.org/project/wave-fixture-ai/) | 0.2.2 | mo9652962-ai | 249.0 kB | 波峰焊治具 AI 设计助手：Gerber → 治具 DXF/STL/CNC G 代码 · 21 项自动化（沉板/狗骨头清角/拼版/避位/上锡/干涉分析/材料成… |
+| 2026-10-03 12:11:31 | [pyflowred-node-lowercase](https://pypi.org/project/pyflowred-node-lowercase/) | 0.1.0 | Melvin Neffle | 7.3 kB | An example PyFlowRED node package: lowercases msg.payload. |
+| 2026-10-03 12:15:07 | [gsc-cli](https://pypi.org/project/gsc-cli/) | 0.2.0 | SEO Consult <margpeeva@gmail.… | 124.5 kB | Google Search Console CLI and backend for Claude Code SEO-analysis skills. |
+| 2026-10-03 12:15:56 | [eragin](https://pypi.org/project/eragin/) | 0.0.1 | Gako AI Labs <igor@gako.ai> | 2.4 kB | Resolución de problemas complejos con modelos de lenguaje pequeños: descomposic… |
