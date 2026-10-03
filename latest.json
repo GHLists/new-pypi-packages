@@ -1,37 +1,37 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-10-03T00:18:36.682069Z",
-    "path": "data/new-packages-2026-10-03T01-19-57-362207Z.csv",
-    "to": "2026-10-03T01:19:57.362207Z"
+    "count": 16,
+    "from": "2026-10-03T01:19:57.362207Z",
+    "path": "data/new-packages-2026-10-03T02-18-37-323249Z.csv",
+    "to": "2026-10-03T02:18:37.323249Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-03T00:16:54Z",
       "package": "crab-loop",
       "since": "2026-10-02T23:19:32.068718Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-03T00:17:22Z",
       "package": "mak-mode",
       "since": "2026-10-02T23:19:32.068718Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-03T00:16:25Z",
       "package": "reuben",
       "since": "2026-10-02T23:19:32.068718Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-03T00:16:36Z",
       "package": "reubenos",
       "since": "2026-10-02T23:19:32.068718Z"
     }
   ],
-  "serial": 41756206,
+  "serial": 41757196,
   "source_truncated": false,
-  "window": "2026-10-03T01:19:57.362207Z"
+  "window": "2026-10-03T02:18:37.323249Z"
 }

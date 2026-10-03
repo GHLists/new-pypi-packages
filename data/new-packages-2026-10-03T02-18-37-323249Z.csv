@@ -1,0 +1,17 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T01:21:20Z,hull-core,0.1.0b1,n24q02m,Apache-2.0,550561,"Shared core for the wet / crg / mnemo self-hosted stack: auth, per-task model config, limiter, storage, HTTP MCP server; web and embedding stacks as extras"
+2026-10-03T01:23:20Z,configmanagement,0.0.1,,,1349,Name reserved - not installable from pypi.org.
+2026-10-03T01:23:23Z,configmanagement-ad-agent,0.0.1,,,1398,Name reserved - not installable from pypi.org.
+2026-10-03T01:23:25Z,configmanagement-aruba-snmp,0.0.1,,,1417,Name reserved - not installable from pypi.org.
+2026-10-03T01:23:28Z,configmanagement-camera,0.0.1,,,1389,Name reserved - not installable from pypi.org.
+2026-10-03T01:26:29Z,fusion-function,0.2.1,Caralyn Reisle,,146403,Fusion frame and protein-domain prediction using a local Ensembl reference
+2026-10-03T01:31:32Z,unblend,1.0.0,"Alexandre Défossez, Ryan Fahey",MIT,470823,Audio source separation for music.
+2026-10-03T01:46:37Z,useceleris-client,0.0.0b2,David Oyinbo <dev.davexoyinbo@gmail.com>,Apache-2.0,84317,Celeris realtime client
+2026-10-03T01:48:33Z,echogen,1.0.0,echogen contributors,"MIT License Copyright (c) 2026 echogen contributors Permission is hereby granted, free of charge, t…",26259,"Synthetic 12-lead ECG signal generator for testing, teaching, and ML workflows"
+2026-10-03T01:48:41Z,eazyreport,1.0.2,Thameem PK,MIT,88319,"Ultra-fast report generation engine for Python with native HTML, vector SVG charts, barcodes, and vector PDF export."
+2026-10-03T01:51:21Z,useceleris-server,0.0.0b1,David Oyinbo <dev.davexoyinbo@gmail.com>,Apache-2.0,26743,Celeris credential signing for trusted servers
+2026-10-03T01:57:40Z,ksp-source-annotator,0.1.0,"""Clarence \""Sparr\"" Risher"" <sparr0@gmail.com>",MIT,132833,Decompile a Kerbal Space Program install into documented C# source and XML API documentation
+2026-10-03T02:01:43Z,vidbyte-cli,0.1.0,Vidbyte <hello@vidbyte.ai>,MIT,1015255,"Vidbyte CLI: authentication, research threads, and configuration"
+2026-10-03T02:03:39Z,usersim,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1053,Zero version placeholder for usersim
+2026-10-03T02:09:40Z,fly-ruler,0.1.0,windlx,MIT,10763709,FlyRuler aircraft modeling and simulation core and standard library
+2026-10-03T02:18:19Z,bitpattern,0.1.0,Stef Lindall,MIT,63173,"Very large sets of floats, IP addresses and other structured data, backed by binary decision diagrams"
