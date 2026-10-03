@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T12:19:30Z,bale-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,113996,"Private, local MCP server for Bale (bale.ai) bots: let AI agents read, search and answer messages, ask and wait for replies, and send or download files through the official Bot API."
+2026-10-03T12:19:36Z,sec-mcp-server-demo,0.1.2,Colin-zh,,2866,Add your description here
+2026-10-03T12:20:36Z,odoo-addon-edi-webservice-component-oca,18.0.1.0.0.2,"Dixmit, Camptocamp, Odoo Community Association (OCA)",AGPL-3,30129,"Component-based webservice send for EDI Exchange records - legacy integration style, superseded by edi_webservice_core_oca's handler"
+2026-10-03T12:20:46Z,perceivo-client,0.0.1,ConceptBuilder AI,,11537,Name reservation placeholder. The official Perceivo Platform API client will follow.
+2026-10-03T12:24:14Z,paperdelta,0.3.0,amos689,MIT,13398572,Review how experiment changes affect an existing research paper.
+2026-10-03T12:35:28Z,pymeshmetrics,1.0.1,"Gasper Podobnik, Tomaz Vrtovec",Apache-2.0,50646,Library to compute distance-based performance metrics for image segmentation tasks.
+2026-10-03T12:50:17Z,paveo,0.1.0,MD Faiz Jamal,Elastic-2.0,498404,"Admission control for AI agent calls — decides whether the next call is allowed to leave, in your own process."
+2026-10-03T12:51:32Z,fastapi-dynamic-route-registration,0.1.0,Jérôme DIAZ <jerome_diaz@me.com>,MIT,19468,A library to help dynamically register routes in FastAPI applications.
+2026-10-03T12:55:50Z,agentxd,0.1.0,TerminalMan,,2211,Add your description here
+2026-10-03T12:57:04Z,report-engine-kit,0.3.0,bzsystem team,MIT,744745,"Framework-agnostic report & tabular-pivot engine: registry data sources, in-memory pivot, formula cells, cross-report references, xlsx/csv/pdf/html/json export, CLI; with an optional Django app."
+2026-10-03T13:00:24Z,delta-streaming,0.1.0,Paul Eger,,24532,Spark Structured Streaming utilities for Delta Change Data Feed
+2026-10-03T13:04:09Z,hayabusa-lens,0.9.0,Jack Sessions,MIT,2810023,"Find what happened in Windows event logs: a dashboard for Hayabusa and Chainsaw, a 3D attack map, and an AI investigator that keeps an audit trail of every question it asks"
+2026-10-03T13:07:20Z,humanfm,0.0.1,Hyung-Chul Lee <vital@snu.ac.kr>,,2185,Anatomical digital twin pipeline: hospital CT/MRI to population-scale generative model and surgical-sim-ready meshes
+2026-10-03T13:07:23Z,bodyfm,0.0.1,Hyung-Chul Lee <vital@snu.ac.kr>,,2091,Whole-body anatomical foundation model for medical imaging and digital twins
+2026-10-03T13:07:25Z,mindfm,0.0.1,Hyung-Chul Lee <vital@snu.ac.kr>,,2076,Brain-constraint-spec-driven neural network foundation models
+2026-10-03T13:14:45Z,voxcpmeval,0.1.0,A. Kim,MIT,22885526,Evaluation harness for VoxCPM TTS CPU inference workloads
+2026-10-03T13:15:23Z,crudcdc,0.1.0,Utkarsh,MIT,22474,"Change data capture for async SQLAlchemy: every ORM write recorded in the same transaction, read as a change feed."
+2026-10-03T13:15:55Z,model-audit-lite,0.5.2,masahiroid,MIT,90647,"Lightweight safety audit for Hugging Face models: file-distribution audit, a conversion-integrity diff (chat_template + safety-probe regressions between a source and a converted repo), and a small kn…"
+2026-10-03T13:16:27Z,gardentool,0.0.1,Gardenio Dev <gardenio@gardenio.dev>,MIT,4290,Gardenio tooling (placeholder release reserving the package name).
+2026-10-03T13:16:56Z,aiodrf-asgi-lifespan,0.1.0,ctolon <cevatbatuhan.tolon@gmail.com>,BSD-3-Clause,25475,ASGI lifespan contexts and typed resource access for Django.
+2026-10-03T13:18:48Z,lanowl,0.0.1,Alessandro Matera,Apache-2.0,11474,"A watchful, read-only caretaker for home and small-office networks"

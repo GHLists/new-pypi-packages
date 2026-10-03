@@ -8,38 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 12:19 UTC
+## Latest list — 2026-10-03 13:20 UTC
 
-New packages created between 2026-10-03 11:18 UTC and 2026-10-03 12:19 UTC.
+New packages created between 2026-10-03 12:19 UTC and 2026-10-03 13:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-03T12-19-04-6663Z.csv)
+[Full CSV](data/new-packages-2026-10-03T13-20-00-410823Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-03 10:18:09 | [gkmsvm-lite](https://pypi.org/project/gkmsvm-lite/) | 0.1.0 | Adam Youlin He <ayhe@stanford… | 2.0 MB | Gapped k-mer SVMs for DNA sequence classification and regression |
-| 2026-10-03 11:19:59 | [ovos-good-manners-pipeline-plugin](https://pypi.org/project/ovos-good-manners-pipeline-plugin/) | 0.0.2 | OpenVoiceOS <jarbasai@mailfen… | 59.3 kB | OVOS pipeline plugin that reinforces good manners and reprimands foul language |
-| 2026-10-03 11:26:11 | [stochastly-mcp](https://pypi.org/project/stochastly-mcp/) | 0.1.0 |  | 3.9 kB | Local launcher for the MCP server included with the Stochastly desktop app |
-| 2026-10-03 11:27:05 | [astrocyte-sqlite](https://pypi.org/project/astrocyte-sqlite/) | 0.16.0 |  | 169.6 kB | SQLite adapter for Astrocyte (vector + document stores in one local file; zero… |
-| 2026-10-03 11:30:21 | [upgrade-impact](https://pypi.org/project/upgrade-impact/) | 0.1.0 | gfr211306-crypto | 23.4 kB | Find dependency upgrade breakages in your Python code. |
-| 2026-10-03 11:32:36 | [hillock](https://pypi.org/project/hillock/) | 0.8.0 |  | 35.4 kB | A lightweight, 100% local neuro-symbolic memory engine. |
-| 2026-10-03 11:38:31 | [papergraph-mcp](https://pypi.org/project/papergraph-mcp/) | 1.2.0 |  | 793.3 kB | Turn mathematical LaTeX papers into theorem dependency graphs for AI agents. |
-| 2026-10-03 11:43:49 | [perceivo](https://pypi.org/project/perceivo/) | 0.0.1 | ConceptBuilder AI | 11.3 kB | Name reservation placeholder. The official Perceivo SDK release will follow. |
-| 2026-10-03 11:44:59 | [resetror](https://pypi.org/project/resetror/) | 0.1.1 |  | 7.0 kB |  |
-| 2026-10-03 11:45:28 | [pythonx-compose](https://pypi.org/project/pythonx-compose/) | 0.1.0a1 | BREW (b-re-w), Jong-uk Lee (r… | 220.5 kB | Pythonic Compose UI for Python on Kotlin Multiplatform, through python-multipla… |
-| 2026-10-03 11:46:18 | [helping-machine](https://pypi.org/project/helping-machine/) | 0.0.1 | Machina Ratiocinatrix <machin… | 47.4 kB | A machine that helps. |
-| 2026-10-03 11:49:35 | [dash-openlayers](https://pypi.org/project/dash-openlayers/) | 0.0.1 | Ravi Sharma <ravikr731@gmail.… | 1.4 MB | A Dash wrapper around OpenLayers - GIS rendering engine |
-| 2026-10-03 11:49:49 | [thunc](https://pypi.org/project/thunc/) | 0.1.0 | Hussein Eltarras | 32.7 kB | think + function: call an LLM like a typed Python function. |
-| 2026-10-03 11:50:05 | [softechlog](https://pypi.org/project/softechlog/) | 1.3.0 | FutureGenSystems <hello@softe… | 54.3 kB | Server-side SDK for Softechlog — drop-in user activity logging & customer-facin… |
-| 2026-10-03 11:53:20 | [grooveloop](https://pypi.org/project/grooveloop/) | 0.0.1 | Pascual Montesinos | 2.5 kB | Name reservation for grooveloop, an SDLC orchestrator that drives agent-built c… |
-| 2026-10-03 11:56:38 | [starwave](https://pypi.org/project/starwave/) | 0.1.0rc1 |  | 4.3 MB | Standalone scalar, VRZ, and Duveneck VTI CUDA wave propagation for PyTorch |
-| 2026-10-03 11:58:53 | [utec-client](https://pypi.org/project/utec-client/) | 0.5.0 | Geoff Franks | 80.1 kB | An independently maintained U-Tec/U-Home API client library. |
-| 2026-10-03 12:00:49 | [brillq-opex](https://pypi.org/project/brillq-opex/) | 2.0.0 | "brillQ sp. z o.o." <hello@br… | 274.1 kB | Bayesian cost-frontier analytics for OPEX benchmarking: efficiency and savings… |
-| 2026-10-03 12:00:52 | [wayza-human](https://pypi.org/project/wayza-human/) | 0.1.0 | Wayza <support@wayza.com> | 82.8 kB | Send an agent's pause-for-approval to a real person through Wayza and resume on… |
-| 2026-10-03 12:02:09 | [mostlyrender](https://pypi.org/project/mostlyrender/) | 0.2.0 | Mostly Tiny | 12.0 kB | Official Python SDK for the MostlyRender image, PDF & screenshot generation API. |
-| 2026-10-03 12:02:18 | [granttrace](https://pypi.org/project/granttrace/) | 2.4.0 | GrantTrace contributors | 355.0 kB | Safety-first OpenAPI authorization auditing tool for BOLA, IDOR and Mass Assign… |
-| 2026-10-03 12:05:49 | [onewayswp](https://pypi.org/project/onewayswp/) | 0.1.0 | Juan Hulu | 8.4 MB | OnewaySWP - Offline One-Way License Framework |
-| 2026-10-03 12:10:40 | [zillion-asb](https://pypi.org/project/zillion-asb/) | 0.2.0 |  | 114.8 kB | Python SDK for Sandbox OSS: micro-VM sandboxes on demand |
-| 2026-10-03 12:10:53 | [wave-fixture-ai](https://pypi.org/project/wave-fixture-ai/) | 0.2.2 | mo9652962-ai | 249.0 kB | 波峰焊治具 AI 设计助手：Gerber → 治具 DXF/STL/CNC G 代码 · 21 项自动化（沉板/狗骨头清角/拼版/避位/上锡/干涉分析/材料成… |
-| 2026-10-03 12:11:31 | [pyflowred-node-lowercase](https://pypi.org/project/pyflowred-node-lowercase/) | 0.1.0 | Melvin Neffle | 7.3 kB | An example PyFlowRED node package: lowercases msg.payload. |
-| 2026-10-03 12:15:07 | [gsc-cli](https://pypi.org/project/gsc-cli/) | 0.2.0 | SEO Consult <margpeeva@gmail.… | 124.5 kB | Google Search Console CLI and backend for Claude Code SEO-analysis skills. |
-| 2026-10-03 12:15:56 | [eragin](https://pypi.org/project/eragin/) | 0.0.1 | Gako AI Labs <igor@gako.ai> | 2.4 kB | Resolución de problemas complejos con modelos de lenguaje pequeños: descomposic… |
+| 2026-10-03 12:19:30 | [bale-mcp](https://pypi.org/project/bale-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 114.0 kB | Private, local MCP server for Bale (bale.ai) bots: let AI agents read, search a… |
+| 2026-10-03 12:19:36 | [sec-mcp-server-demo](https://pypi.org/project/sec-mcp-server-demo/) | 0.1.2 | Colin-zh | 2.9 kB | Add your description here |
+| 2026-10-03 12:20:36 | [odoo-addon-edi-webservice-component-oca](https://pypi.org/project/odoo-addon-edi-webservice-component-oca/) | 18.0.1.0.0.2 | Dixmit, Camptocamp, Odoo Comm… | 30.1 kB | Component-based webservice send for EDI Exchange records - legacy integration s… |
+| 2026-10-03 12:20:46 | [perceivo-client](https://pypi.org/project/perceivo-client/) | 0.0.1 | ConceptBuilder AI | 11.5 kB | Name reservation placeholder. The official Perceivo Platform API client will fo… |
+| 2026-10-03 12:24:14 | [paperdelta](https://pypi.org/project/paperdelta/) | 0.3.0 | amos689 | 13.4 MB | Review how experiment changes affect an existing research paper. |
+| 2026-10-03 12:35:28 | [pymeshmetrics](https://pypi.org/project/pymeshmetrics/) | 1.0.1 | Gasper Podobnik, Tomaz Vrtovec | 50.6 kB | Library to compute distance-based performance metrics for image segmentation ta… |
+| 2026-10-03 12:50:17 | [paveo](https://pypi.org/project/paveo/) | 0.1.0 | MD Faiz Jamal | 498.4 kB | Admission control for AI agent calls — decides whether the next call is allowed… |
+| 2026-10-03 12:51:32 | [fastapi-dynamic-route-registration](https://pypi.org/project/fastapi-dynamic-route-registration/) | 0.1.0 | Jérôme DIAZ <jerome_diaz@me.c… | 19.5 kB | A library to help dynamically register routes in FastAPI applications. |
+| 2026-10-03 12:55:50 | [agentxd](https://pypi.org/project/agentxd/) | 0.1.0 | TerminalMan | 2.2 kB | Add your description here |
+| 2026-10-03 12:57:04 | [report-engine-kit](https://pypi.org/project/report-engine-kit/) | 0.3.0 | bzsystem team | 744.7 kB | Framework-agnostic report & tabular-pivot engine: registry data sources, in-mem… |
+| 2026-10-03 13:00:24 | [delta-streaming](https://pypi.org/project/delta-streaming/) | 0.1.0 | Paul Eger | 24.5 kB | Spark Structured Streaming utilities for Delta Change Data Feed |
+| 2026-10-03 13:04:09 | [hayabusa-lens](https://pypi.org/project/hayabusa-lens/) | 0.9.0 | Jack Sessions | 2.8 MB | Find what happened in Windows event logs: a dashboard for Hayabusa and Chainsaw… |
+| 2026-10-03 13:07:20 | [humanfm](https://pypi.org/project/humanfm/) | 0.0.1 | Hyung-Chul Lee <vital@snu.ac.… | 2.2 kB | Anatomical digital twin pipeline: hospital CT/MRI to population-scale generativ… |
+| 2026-10-03 13:07:23 | [bodyfm](https://pypi.org/project/bodyfm/) | 0.0.1 | Hyung-Chul Lee <vital@snu.ac.… | 2.1 kB | Whole-body anatomical foundation model for medical imaging and digital twins |
+| 2026-10-03 13:07:25 | [mindfm](https://pypi.org/project/mindfm/) | 0.0.1 | Hyung-Chul Lee <vital@snu.ac.… | 2.1 kB | Brain-constraint-spec-driven neural network foundation models |
+| 2026-10-03 13:14:45 | [voxcpmeval](https://pypi.org/project/voxcpmeval/) | 0.1.0 | A. Kim | 22.9 MB | Evaluation harness for VoxCPM TTS CPU inference workloads |
+| 2026-10-03 13:15:23 | [crudcdc](https://pypi.org/project/crudcdc/) | 0.1.0 | Utkarsh | 22.5 kB | Change data capture for async SQLAlchemy: every ORM write recorded in the same… |
+| 2026-10-03 13:15:55 | [model-audit-lite](https://pypi.org/project/model-audit-lite/) | 0.5.2 | masahiroid | 90.6 kB | Lightweight safety audit for Hugging Face models: file-distribution audit, a co… |
+| 2026-10-03 13:16:27 | [gardentool](https://pypi.org/project/gardentool/) | 0.0.1 | Gardenio Dev <gardenio@garden… | 4.3 kB | Gardenio tooling (placeholder release reserving the package name). |
+| 2026-10-03 13:16:56 | [aiodrf-asgi-lifespan](https://pypi.org/project/aiodrf-asgi-lifespan/) | 0.1.0 | ctolon <cevatbatuhan.tolon@gm… | 25.5 kB | ASGI lifespan contexts and typed resource access for Django. |
+| 2026-10-03 13:18:48 | [lanowl](https://pypi.org/project/lanowl/) | 0.0.1 | Alessandro Matera | 11.5 kB | A watchful, read-only caretaker for home and small-office networks |
