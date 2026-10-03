@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T19:18:49Z,chalkbase,0.1.0,,"MIT License Copyright (c) 2026 Scorpioyyy Permission is hereby granted, free of charge, to any pers…",7990009,ChalkBase: 北师大版小学数学课程知识库（知识图谱、题型卡片、能力边界、查询与题型实例化接口）
+2026-10-03T19:20:37Z,yaddd-sqlalchemy,0.1.0,Yuri Andreev <andreev.jr@gmail.com>,MIT,11078,"SQLAlchemy integration for yaddd: SqlCrudRepository, SqlUnitOfWork, VOTypeDecorator"
+2026-10-03T19:26:31Z,yaddd-pydantic,0.1.0,Yuri Andreev <andreev.jr@gmail.com>,MIT,8135,Pydantic v2 integration for yaddd: PydanticVO value objects as first-class model fields
+2026-10-03T19:28:05Z,kirby-world,0.1.0,PeterB,PolyForm Noncommercial License 1.0.0,118364,"Places for the Kirby HERO System platform: Worlds, Scenes and the geometry inside them"
+2026-10-03T19:28:42Z,flux-restful,1.1.0,Vanessa Sochat <vsoch@users.noreply.github.com>,MIT,168112,"A RESTful API, web interface, and Python client for submitting and monitoring jobs on a Flux Framework instance"
+2026-10-03T19:30:04Z,astroapi-io-client,0.1.0,,ISC,107373,Synchronous Python client for the AstroAPI.io calculation gateway
+2026-10-03T19:33:35Z,cybersentinel-py,0.1.0,Eyitayo Alimi,Apache-2.0,26309,"A lightweight, explainable Python security analysis toolkit."
+2026-10-03T19:34:04Z,tsxtract-rs,0.3.2,,,5256893,"Fast time-series feature extraction, Rust core"
+2026-10-03T19:34:46Z,tempo-jira-cli,0.1.0,Lorenzo Magnanelli,Apache-2.0,109714,An agent-friendly command-line interface for Tempo Timesheets on Jira Cloud (unofficial).
+2026-10-03T19:40:22Z,releasetrain-sentiment,0.1.0,"Manu Mathew Jiss, S. Berhe",MIT,32771,"Scores sentiment per comment in a Reddit discussion thread, flagging author replies vs. community responses, to measure sentiment divergence over time."
+2026-10-03T19:40:46Z,pydantic-cryptography,0.1.0,Joakim Nordling,MIT,56687,"Pydantic types for cryptographic keys: load and validate PEM keys in settings, get JWKs and JWKS"
+2026-10-03T19:40:50Z,ndaguard,0.1.0,Ellie Hartung,MIT,62606,"Descriptor-driven NDA metadata, Git protection, and safe bundle filtering"
+2026-10-03T19:42:26Z,datadiff-engine,0.1.0,Rohesen Rajkamal Maurya,MIT,23486,"Compare datasets, detect schema changes, profile columns, and identify simple data drift."
+2026-10-03T19:49:40Z,netspeedtools,3.2.0,Thomas <your-email@example.com>,MIT,45736,"A modular toolkit for network speed testing, logging, and deployment automation."
+2026-10-03T19:50:51Z,nyxchat,0.3.1,,,68936,"Nostr over Tor, in your terminal"
+2026-10-03T19:51:04Z,quant-regress,0.1.0,DawnofGenX,MIT,25676,Fail CI when quantization costs you task accuracy. Task-level regression testing for quantized models.
+2026-10-03T19:51:16Z,citesure,0.2.0,DawnofGenX,MIT,158661,MCP citation verifier: check whether an LLM's claims are actually supported by the sources it cites.
+2026-10-03T19:52:23Z,pippin-art,0.1.0,,MIT,21056,High resolution ascii/utf8 image renderer for the terminal
+2026-10-03T19:53:52Z,mcp-fastapi,0.1.0,Manas Pradhan <64654573+Manas-maker@users.noreply.github.com>,MIT,192472,FastAPI-native Model Context Protocol framework
+2026-10-03T19:53:59Z,coltanedb,0.1.0,ColtaneDB Team <info.cometlabs@gmail.com>,Apache-2.0,20784,Official Python client and query SDK for ColtaneDB
+2026-10-03T19:54:18Z,maroon-elephant,0.1.0,Maroon Elephant contributors,Apache-2.0,180415,"AI-era threat modeling & repo scanning — OWASP-2026 aligned (LLM / Agentic / Data Security / MCP). Deterministic-first, zero-dependency core."
+2026-10-03T19:54:57Z,langchain-bowmark,0.1.0,Bowmark AI <christopher@bowmark.ai>,MIT,12970,"LangChain tools for Bowmark: typed functions an agent calls to search, price-check and book on live websites."
+2026-10-03T19:55:41Z,vunit-uvvm,0.1.0,Lars Asplund <lars.anders.asplund@gmail.com>,MPL-2.0,1196531,A VUnit package providing the UVVM VHDL library.
+2026-10-03T19:55:42Z,wos-rfq,0.4.1,Wolverine,Apache-2.0,73870,"The Wolverine tick-quote add-on client: read, convert, import, check and remove tick quotes over the add-on's storage master and upload web."
+2026-10-03T19:55:44Z,wos-deploy,2.1.0,,Apache-2.0,119743,"Deploy and operate WOS server instances (ring, global, tick-quote add-on) with Docker Compose on published images"
+2026-10-03T19:57:33Z,facetweak,0.1.2,Ekaghni <ekaghni.mukherjee@gmail.com>,MIT,46315,"Face retouching from the command line or Python: bigger eyes, slimmer face, nose and lip tweaks with smooth landmark-guided warps. Runs on CPU."
+2026-10-03T20:01:55Z,quovisto,0.0.1,PSQR,FSL-1.1-ALv2,4626,"Quovisto (QV): the SDK form of orch, the governed multi-agent orchestrator. Placeholder release reserving the name; the product follows."
+2026-10-03T20:02:05Z,persistbench,0.1.0,,MIT,889422,Model-independent video persistence inference and evaluation
+2026-10-03T20:04:29Z,langchain-ambolt,0.1.0,,MIT,8835,"LangChain tools for Ambolt: company registers, EU and UK tenders, VAT and IBAN checks, domain and SSL expiry, URL metadata and more. Free through the hosted MCP server."
+2026-10-03T20:09:26Z,lastrorid,0.1.0,,,6227,
+2026-10-03T20:09:32Z,pythonx-graphics,0.0.1a1,BREW (b-re-w),Apache-2.0,13128,"Declarative 2D/3D graphics for Python apps on Kotlin Multiplatform: Compose for 2D, Filament for 3D, built for agents"
+2026-10-03T20:09:32Z,pythonx-platform,0.0.1a1,BREW (b-re-w),Apache-2.0,12363,Device features for Python apps on Kotlin Multiplatform: a thin Pythonic layer over multiplatform androidx libraries
+2026-10-03T20:09:33Z,pythonx-concurrent,0.0.1a1,BREW (b-re-w),Apache-2.0,13833,Structured concurrency for Python on Kotlin Multiplatform: coroutines that interoperate with Kotlin coroutines and asyncio
+2026-10-03T20:09:40Z,nutricamp,0.1.0a1,NutriCamp,Apache-2.0,36848,"Official Python library for the NutriCamp API: meal photo analysis, HEI-2020 scoring and daily nutrition goals."
+2026-10-03T20:17:56Z,babeldb,0.1.1,,MIT OR Apache-2.0,23930316,"babeldb embedded in Python: a native, in-process, durable and thread-safe key-value store"
+2026-10-03T20:17:59Z,systemone-client,0.1.0,"Jesus Rodriguez, SystemOne Builder contributors",Apache-2.0,40685,"Client for System One decision models such as Kenning: typed questions in, calibrated typed answers out"
