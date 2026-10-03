@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T09:17:29Z,odoo-addon-base-user-role-activity,18.0.1.0.0.2,"glueckkanja AG, Odoo Community Association (OCA)",LGPL-3,155236,Create activities to remind about user role expirations
+2026-10-03T09:20:01Z,filesorty,0.6.1,Jayanth Thalla,MIT,173429,"Safety-first, AI-assisted file organizer: understands what files contain, previews every move, and can undo."
+2026-10-03T09:23:22Z,tarvos,1.0.0rc0,Repo-Tech Team,MIT,20840,Tarvos Engine public distribution for the Tarvos Python-to-native Rust compiler
+2026-10-03T09:23:30Z,elohim,0.3.0,Kiliaan Vanvoorden,MIT,1228500,"A gate for numerical claims: every published number pinned to a checksum, instrument tampering caught before a result is trusted."
+2026-10-03T09:23:42Z,intyga-verify,1.0.0,INTYGA,Apache-2.0,216390,"Offline verifier for INTYGA approval receipts — no INTYGA secret, no network"
+2026-10-03T09:25:38Z,intyga-sdk,1.0.0,INTYGA,Apache-2.0,281911,"INTYGA SDK — require a cryptographically-signed human approval for any high-risk action, and verify the receipt offline"
+2026-10-03T09:27:04Z,sentrygate,0.1.0,,MIT,2049046,"A local layer that catches prompt injections and masks private data out of a prompt before it leaves your machine. On-device redaction plus a fast 421M decision-model guard, no second LLM and no GPU."
+2026-10-03T09:27:25Z,evalguard-checker,0.1.1,,,16890,Automated evaluation integrity checker for NLP benchmarks
+2026-10-03T09:34:00Z,phasesweep,0.3.6,Peter Szemraj,MIT,2676297,YAML-driven phase-chained hyperparameter sweeps with Optuna: each phase's winner is set for all following sweeps.
+2026-10-03T09:38:53Z,ml-project-doctor,0.1.0,Mayuri <mayuriphad656@gmail.com>,MIT,68607,"Audit ML/MLOps projects for data quality, reproducibility, training, experiments, models, dependencies and documentation."
+2026-10-03T09:40:39Z,unicall-emu,0.1.0,halfcity,MIT,129897,Function-level emulation for PE & ELF on Unicorn — emulate any single function with one call
+2026-10-03T09:44:34Z,stireg,0.1.0,Muh Akbar Idris,MIT,35216,Scale-resolved pair-interaction change detection for spatio-temporal point patterns
+2026-10-03T09:45:13Z,django-maintenance-tasks,0.1.0,,MIT,33206,"Pausable, resumable, throttled data backfills for Django, built on django.tasks."
+2026-10-03T09:46:29Z,pico-cli,0.1.1,Arya-Ojha <aryaojha195@gmail.com>,MIT,156500,"A Python CLI coding agent — autonomous, tool-using, and session-persistent."
+2026-10-03T09:51:31Z,pico-cli-ai,0.1.1,Arya-Ojha <aryaojha195@gmail.com>,MIT,34102,LLM abstraction and protocol normalisation.
+2026-10-03T09:51:34Z,pico-cli-core,0.1.1,Arya-Ojha <aryaojha195@gmail.com>,MIT,37343,Agent loop and session tree.
+2026-10-03T09:51:36Z,pico-cli-sdk,0.1.1,Arya-Ojha <aryaojha195@gmail.com>,MIT,24744,Headless library API and extension/plugin binding.
+2026-10-03T09:54:14Z,reposhape,0.1.0,nabinpkl,MIT,1696041,"See the shape of a repository at a glance: a local, interactive map of a codebase's file-level imports."
+2026-10-03T09:56:11Z,vox-trust,0.6.0,Roger Oliveira,Apache-2.0,1144305,"Seal real voices, verify them anywhere: sealed WAV files (HMAC-SHA-256 or Ed25519) with tamper localization. Pre-1.0, not audited."
+2026-10-03T09:59:43Z,repopilot-runtime,0.1.0,RepoPilot contributors,MIT,551936,"RepoPilot - bounded, verifiable and resumable repository engineering"
+2026-10-03T10:01:51Z,principle-viz,0.10.0,Anthony Sung,MIT,141462,Principles of Economics toolkit for demand/supply analytics and diagrams.
+2026-10-03T10:02:51Z,tokbin-core,0.1.0,Krysyuk,MIT,297905,"Pretraining data for language models: tokenize text once into resumable, verifiable binary shards and read random windows through memmap. Pretraining only; not for SFT or chat data."
+2026-10-03T10:03:26Z,tokbin,0.1.0,Krysyuk,MIT,7949,"Pretraining data for language models: tokenize text once into resumable, verifiable binary shards (full install: write and read). Pretraining only; not for SFT or chat data."
+2026-10-03T10:05:21Z,meddroid-sdk,0.1.0,MedDroid <support@medicalandroid.com>,Apache-2.0,18333,"MedDroid SDK — fine-tune medical models, build RAGs, run local inference, and publish to the MedDroid Marketplace."
+2026-10-03T10:05:59Z,seamm-scheduler,2026.10.2,Paul Saxe <psaxe@molssi.org>,BSD-3-Clause,95909,"Queueing systems (SLURM, PBS) for SEAMM: directives, submit/poll/cancel, local and ssh transports, staging"
+2026-10-03T10:11:54Z,aer1kit,0.1.0,Brennan Zambo,,16399,Verifiable AER-1 execution receipts for hackathon agents. Three lines and your agent can explain why.
+2026-10-03T10:12:45Z,net-sift,0.1.0,Ali Rajabpour,MIT,73109,"Coverage-first social and web deep-search as an MCP server: exhaustive multi-source sweeps, smart ranking, and honest gap accounting, with walled platforms reached through your logged-in Chromium bro…"
+2026-10-03T10:14:14Z,falsify-edge,0.1.0,Raju Shanigarapu,MIT,25233,"Gate a backtested trading edge before you trust it: multiple-testing, cost-floor, and autocorrelation checks in pure-stdlib Python."
+2026-10-03T10:14:16Z,self-healing-browser-mcp,0.1.0,Raju Shanigarapu,MIT,112745,"An MCP server that gives AI agents a real browser to drive, with self-healing locators."
+2026-10-03T10:15:38Z,cullet,0.0.1,gings,,1057,
+2026-10-03T10:15:58Z,mlsec-raid,0.3.0,,,12967,Client for the RAID competition system
