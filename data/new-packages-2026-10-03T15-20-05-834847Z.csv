@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T14:20:29Z,django-flutterwave-wallet,1.0.0,Ifeanyi Stanley Nnamani <nnamaniifeanyi10@gmail.com>,MIT,347536,"A pluggable, production-grade Django wallet backed by Flutterwave: multi-currency wallets, a hash-chained ledger, checkout, direct charges, saved cards, virtual accounts, payouts, transfers, escrow,…"
+2026-10-03T14:20:31Z,lwg-git,0.1.0,,MIT,6541,Light Weight Git - a simple Git command-line interface
+2026-10-03T14:21:07Z,carddex,0.2.0,CardDex,MIT,38322,Official Python client for the CardDex Pokémon TCG API
+2026-10-03T14:21:20Z,prism-validator,1.19.1,MRI-Lab-Graz,AGPL-3.0-only,252084,PRISM dataset validator (command line only)
+2026-10-03T14:21:41Z,shape-plotters,0.1.0,,MIT,64796,"Interactive matplotlib plotters for axially symmetric nuclear shapes (beta, FoS)"
+2026-10-03T14:22:47Z,pseudopath,0.1.0,,GPL-3.0-only AND BSD-3-Clause,103324,Residual line routing for clinical named-entity recognition
+2026-10-03T14:23:02Z,bankreceipt-parser,0.1.0,bankreceipt-parser contributors,MIT,269063,Parse and normalize bank transfer receipts into structured data.
+2026-10-03T14:26:41Z,openvan,0.1.0,"""OpenVan.camp"" <hello@openvan.camp>",MIT,19662,"Free vanlife & RV travel data: fuel prices in 160+ countries, toll roads, visa rules, holidays, travel hazards, weather scores, currency. No API key."
+2026-10-03T14:27:05Z,rhetoric_py,0.1.0,,MIT,8321,Python client for the Rhetoric efiling service.
+2026-10-03T14:31:13Z,circuit-rag,0.1.0,Satvik Hardat <satvikhardat@gmail.com>,,102810,"Exact, certified GPU vector search for RAG"
+2026-10-03T14:31:40Z,agent-fallback-sentinel,0.1.0,Jamie643,MIT,15476,"Lightweight production middleware for resilient LLM calls: retries, fallback routing, circuit-breaking, and rigid schema validation."
+2026-10-03T14:31:49Z,stylematch,0.1.2,Ekaghni Mukherjee <ekaghni.mukherjee@gmail.com>,MIT,34018,"AI text detector (neural, GPU optional) with a writing-style comparison tool. CLI, Python API and desktop app."
+2026-10-03T14:32:08Z,arc-cua,0.1.0,Shiv Shanmugam,MIT,411807,"Superfast action layer for computer-use agents, powered by decision models, with a standalone macOS driver"
+2026-10-03T14:40:21Z,ameva-cluster,1.0.0,Eunho Kim <contact@uno-km.com>,Apache-2.0,89091,Symmetric Disaggregated Mobile RAM Pooling & On-Device AI Acceleration Runtime
+2026-10-03T14:42:55Z,fs-next,0.1.0a1,The PyFilesystem2 contributors,MIT,332427,A maintenance fork of PyFilesystem2 for modern Python
+2026-10-03T14:48:03Z,auctionsi,0.1.1,Yash Jindal,MIT,253256,An open-source marketplace and auction framework for autonomous agents.
+2026-10-03T14:51:01Z,holarch,0.2.0,,MIT,92649,"One console for your AI work: cheapest path first, your notes before any model, works offline. CLI + MCP."
+2026-10-03T14:51:24Z,agent-skillforge,0.1.0,gintingism <gintingism@users.noreply.github.com>,MIT,28717,"Portable SKILL.md registry, adapters, CLI, and MCP server."
+2026-10-03T14:51:32Z,scrutai,0.4.0,Karthik N R <karthik180499@gmail.com>,Apache-2.0,437916,Multi-agent code reviewer that puts every finding on trial before it reaches your PR.
+2026-10-03T14:51:43Z,agenthub-gateway,1.2.1,prempathak,MIT,130960,"Secure MCP + HTTP gateway that lets Claude Code delegate work to Codex, Antigravity, Aider, Goose and custom coding agents."
+2026-10-03T14:55:07Z,ctb,0.1.0,123QWEasdzxc <changgang666@qq.com>,MIT,13232,化学工具箱核心库：化学方程式配平
+2026-10-03T14:58:15Z,git-strata,0.1.0,Ricardo Avila,MIT,131773,Record code metrics from Git commits and explore them in a live dashboard
+2026-10-03T15:01:01Z,imgclickflow,0.1.0,yushihong,MPL-2.0,79219,基于图像识别的 Windows 桌面自动化助手：截图即模板，一次编写随处运行
+2026-10-03T15:05:35Z,grouptok,0.0.1,Henry Hale,Apache-2.0,12992,A translation-grouped tokenizer: subwords that translate each other share a group
+2026-10-03T15:06:33Z,easyclassifier,0.8.1,Ahmad Hassanat <ahmad.hassanat@gmail.com>,MIT,141208,"Machine learning classification without programming - a guided, menu-driven wizard."
+2026-10-03T15:06:46Z,airlock-sandbox,0.1.0,farvez,MIT,26253,"Python SDK for agent-sandbox: isolated, network-controlled code execution for AI agents."
+2026-10-03T15:12:05Z,zatca-tools-sdk,0.1.1,ZATCA Tools <support@zatcatools.com>,MIT,721568,"ZATCA (Fatoora) Phase 2 e-invoicing for Saudi Arabia: onboarding, UBL XML, signing, hashing, QR codes, reporting, clearance and PDF/A-3 invoices — run entirely from your own application."
+2026-10-03T15:14:06Z,elastic-ingest,0.0.0,Taylor (gh0stfqce),MIT,1075,SECURITY RESEARCH PLACEHOLDER - contains no code
+2026-10-03T15:14:10Z,elastic-agent-connectors,0.0.0,Taylor (gh0stfqce),MIT,1148,SECURITY RESEARCH PLACEHOLDER - contains no code
+2026-10-03T15:14:15Z,elastic-evals,0.0.0,Taylor (gh0stfqce),MIT,1067,SECURITY RESEARCH PLACEHOLDER - contains no code
+2026-10-03T15:15:44Z,minibotcatcher,1.0.0,thegamecracks,MIT,36774,A small Discord bot to catch spam bots.
+2026-10-03T15:17:46Z,pi-python-core,0.8.1,,MIT,405627,An embeddable asyncio agent core with opt-in Claude and OpenAI providers
+2026-10-03T15:18:19Z,tilia-core,0.0.1,"Felipe Defensor, Anne Foo",GPL-3.0-or-later,13973,"TiLiA's file format and corpus tools, without a user interface"
+2026-10-03T15:19:17Z,handcraft-agent,0.5.0,musokean,MIT,410905,"The readable ReAct agent: a ~235-line step loop you can follow, plus opt-in modules for sandboxing, memory and Computer Use."
