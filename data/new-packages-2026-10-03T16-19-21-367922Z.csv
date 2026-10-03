@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T15:20:13Z,metal-linalg-torch,2.8.1,,MIT,212097,"QR, symmetric eigendecomposition and SVD for batches of matrices on Apple GPUs, for PyTorch"
+2026-10-03T15:20:41Z,inspect-capsem-sandbox,0.1.0a0,,Apache-2.0,345258,Capsem SandboxEnvironment extension for Inspect AI
+2026-10-03T15:24:00Z,ragflip,0.2.2,Elyasirankhah,MIT,173403,Test a RAG fix against your real retriever before you ship it.
+2026-10-03T15:24:07Z,lupaxa-basic-cli-chatbot,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",36357,A simple command-line AI chatbot with conversation context.
+2026-10-03T15:25:21Z,infrabench,0.2.0,Open Bench Contributors,MIT,22865108,Lightweight evaluation harness for CPU inference sweeps
+2026-10-03T15:27:40Z,pides,0.0.1,,MIT,1731,Pides: the messenger for your agents. Name reservation; the real client ships later. https://pides.app
+2026-10-03T15:28:52Z,gradforge,2.0.1,insane-machines <forshnikita2@gmail.com>,MIT,24676,Machinelearning library
+2026-10-03T15:29:10Z,fsh,1.3.7,insane-machines <forshnikita@gmail.com>,MIT,370411,Machinelearning library
+2026-10-03T15:31:38Z,intray,0.0.2,Thor Whalen,MIT,91587,"An in-tray for AI agents: publish markdown and html documents to a private page the owner reads on the phone, and get back a link."
+2026-10-03T15:32:11Z,awlpay,0.1.0,,,23009,"The 5-minute stablecoin wallet for AI agents. Testnet by default, spend caps built in."
+2026-10-03T15:34:26Z,commonplace-agent-memory,0.1.0,Sean Davis,MIT,52911,"Shared, durable memory for coding agents across projects and machines (MCP + CLI over SQLite)"
+2026-10-03T15:35:36Z,quadkit-ai-feedback,0.0.1,,,1453,QuadKit quadkit-ai-feedback — reserved namespace
+2026-10-03T15:35:43Z,quadkit-ai-mcp,0.0.1,,,1397,QuadKit quadkit-ai-mcp — reserved namespace
+2026-10-03T15:35:49Z,quadkit-ai-session,0.0.1,,,1440,QuadKit quadkit-ai-session — reserved namespace
+2026-10-03T15:35:57Z,quadkit-ai-skills,0.0.1,,,1433,QuadKit quadkit-ai-skills — reserved namespace
+2026-10-03T15:36:41Z,seamm-mbe,2026.10.3,Paul Saxe <psaxe@molssi.org>,BSD-3-Clause,659393,"Many-body expansion (MBE) corrections for periodic cells and clusters: fragment enumeration, increment algebra and virial for SEAMM"
+2026-10-03T15:41:29Z,imessage-chatdb,0.1.0,,MIT,211641,"Read-only, stdlib-only reader for Apple Messages chat.db: messages, edits, tapbacks, replies, link previews, attachments, chats, search, polling."
+2026-10-03T15:41:36Z,heapquee,0.1.0,ASUS,,7791,Simple AI practical programs for students
+2026-10-03T15:42:03Z,seadash,0.1.0,Matthew Shaw <mshaw.cx@gmail.com>,MIT,1326007,A language with Python's syntax that compiles to C++
+2026-10-03T15:42:46Z,joml,0.1.0,Thomas Leese,,7480,A markup language for describing journeys
+2026-10-03T15:43:23Z,ai-graph-crawler,0.9.2,0-EternalJunior-0,MIT,752385,"AI layer for graph-crawler: graph search, LLM agents, extraction recipes, MCP and REST servers, change monitoring."
+2026-10-03T15:43:38Z,agentlasso,0.1.0,AgentLasso <hello@agentlasso.dev>,Apache-2.0,25932,Send your AI agent's production traces to AgentLasso: continuous behavioral coverage for AI agents.
+2026-10-03T15:47:01Z,mnemonica-lethe,0.1.0,went.out@gmail.com,MIT,11665,"The cross-language mnemonica lineage contract: the lineage schema and the shared fixture, importable from Python."
+2026-10-03T15:48:30Z,tracera-core,0.1.0rc1,Tracera <contact@tracera.dev>,SEE LICENSE IN LICENSE.md,62560,Tracera Autotest adapter core (HTTP + steps + result upload)
+2026-10-03T15:48:55Z,tracera-pytest,0.1.0rc1,Tracera <contact@tracera.dev>,SEE LICENSE IN LICENSE.md,18363,Tracera Autotest adapter for pytest
+2026-10-03T15:49:19Z,tracera-playwright,0.1.0rc1,Tracera <contact@tracera.dev>,SEE LICENSE IN LICENSE.md,19292,Tracera Autotest adapter for Playwright (Python)
+2026-10-03T15:49:40Z,pytest-graphql,0.1.0a1,Sergii Khomenko,MIT,529074,"Schema-aware GraphQL API testing for pytest: a GraphQL client, an httpx transport and a pytest fixture."
+2026-10-03T15:49:43Z,tracera-robot,0.1.0rc1,Tracera <contact@tracera.dev>,SEE LICENSE IN LICENSE.md,17331,Tracera Autotest adapter for Robot Framework
+2026-10-03T15:49:44Z,mnemonica,0.1.1,went.out@gmail.com,MIT,68857,"Instance inheritance for Python: subtypes are real subclasses, and every instance keeps a live link to the instance it was made from."
+2026-10-03T15:56:58Z,glyd-gpu,0.27.0rc2,,BUSL-1.1,32534013,"Glyd on the GPU: a bf16 model's weights held compressed in GPU memory, bit for bit, and multiplied from there. The GPU half of glyd (pip install ""glyd[gpu]""), compiled."
+2026-10-03T15:57:52Z,tinyshed-tinystore,0.1.0rc1,,Apache-2.0,96633,"TinyStore for Python: kv, jobs, blobs, SQL, records and metrics in one directory, served by a sidecar"
+2026-10-03T16:00:22Z,research-foundry,0.1.0rc1,Kaustubh Harapanahalli,Apache-2.0,646349,"Cookiecutter templates for every kind of repository a research project needs, kept current with cruft."
+2026-10-03T16:01:37Z,lingva-sdk,0.1.0,,SEE LICENSE IN ../../LICENSE.md,9702,Python client for the Lingva localization platform
+2026-10-03T16:05:44Z,frankenpandas,0.4.0,,MIT with OpenAI/Anthropic rider; see LICENSE,18680693,"Clean-room Rust reimplementation of the pandas API, exposed to Python through PyO3"
+2026-10-03T16:07:30Z,realbeauty,1.0.0,Serra Özkasap,Apache 2.0,22683,Analyze personal care product ingredients for safety using AI
+2026-10-03T16:07:44Z,agent-video-downloader,1.2.0,Bilal140202 <noreply@github.com>,MIT,116374,"yt-dlp for agents: a cloud-CLI multi-agent video downloader for TikTok, Instagram, Douyin, Rednote, Reddit, X.com"
+2026-10-03T16:10:37Z,lupaxa-image-converter,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",16194,"Convert images between JPG, JPEG, PNG, GIF, WebP, and SVG."
+2026-10-03T16:11:19Z,renpy-capture,0.2.1,Aiken,MIT,157476,"Every line of a Ren'Py visual novel, in every branch, with a screenshot taken by the game's own engine"
+2026-10-03T16:12:26Z,torch-ks-nf4,0.1.0,ks shoron <khaled.shifullah2020@gmail.com>,,5377,Ultra-fast 4-bit NF4 Quantized Linear Layer in Pure PyTorch.
+2026-10-03T16:17:46Z,tripaulx-sdk,0.1.0,Flavio Almeida Paulino <f1@tripaulx.com>,MIT,577099,"Multi-tenant Django foundation: workspaces, accounts with mandatory 2FA and passkeys, AI providers, legal and storage."
