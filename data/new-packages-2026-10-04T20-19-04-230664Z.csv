@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T18:46:33Z,micro-reader,0.0.1,Bugra Oezdemir <bugraa.ozdemir@gmail.com>,MIT,243984,"Low-level, memory-bounded pixel reading for microscopy formats: read exactly the rectangle you ask for."
+2026-10-04T19:22:51Z,cloudcostwise,0.0.1,CloudWise,FSL-1.1-Apache-2.0,1857,Local AWS waste scanner (CLI + MCP server) by CloudWise. Placeholder release; the real tool is coming soon.
+2026-10-04T19:23:12Z,hikidasu,0.1.0,Rererr,MIT,29366,日本語の markdown ノートを、常駐した埋め込みモデル（ruri-v3）で意味検索する CLI / Japanese-first semantic search over markdown notes with a resident embedding server
+2026-10-04T19:24:37Z,sendra-ai,0.1.0,,MIT,44970,Multi-agent autonomous code review & PR risk guardrail powered by LangGraph and Groq LPUs
+2026-10-04T19:28:47Z,kipoiseq2,0.1.0,Kipoi team <avsec@in.tum.de>,MIT,126686,Sequence extractors and transforms for DNA and RNA sequence models
+2026-10-04T19:30:52Z,micro-reader-codecs,0.0.1,Bugra Oezdemir <bugraa.ozdemir@gmail.com>,MIT,8522462,"Native (Rust) image decoders for micro-reader: zstd, LZ4, LZW, deflate, PackBits, JPEG (incl. lossless), JPEG 2000, JPEG XL, PNG, WebP, packed bits, EER."
+2026-10-04T19:30:57Z,mohilo,0.1.0,Neil Janwani <njanwani@gatech.edu>,,190184,Multi-Objective Human-in-the-loop Optimization for Robotics
+2026-10-04T19:31:50Z,pauli-canonicalizer,0.1.4,,,78256,Canonicalization of Pauli anticommutation graphs and Lie-algebra dimension calculation
+2026-10-04T19:37:26Z,fast-thumbhash-rs,0.1.0,Sita Berete,MIT,4337129,Fast ThumbHash bindings for Python using Rust (PyO3)
+2026-10-04T19:37:35Z,ec2patcher,1.0.0,Amir Amiri,MIT,534654,Local web GUI that analyzes Ubuntu and Amazon Linux 2023 EC2 servers for CVE fixes and patches Ubuntu servers over SSH from an approved .deb plan
+2026-10-04T19:48:43Z,vector-trading-sdk,0.1.1,Vector Trading PE,MIT,119266,Typed Vector Trading REST clients and strategy signal builders
+2026-10-04T19:52:09Z,india-energy-atlas,0.1.0,Team Energy Atlas <hello@energymap.in>,Apache-2.0,25835,"Python client for the India Energy Atlas forecast, scorecard and event API"
+2026-10-04T19:53:30Z,zwave-alarm-client,0.1.0,Toochukwu Ibe,ISC,10697,Async REST client for the Z-Wave Alarm service
+2026-10-04T19:53:56Z,agentflow-proof,1.0.0,Agentflow contributors,MIT,489866,A model-agnostic workflow runner for drift-resistant agentic development.
+2026-10-04T19:54:11Z,platform-mcp-hub,0.1.0,platform-mcp contributors,Apache-2.0,5603840,"MCP servers for 450+ platform APIs (jobs, freelance, ads, e-commerce, messaging, social, sales, trading, market data, automotive) from one evidence-only catalog: one package, one CLI, `platform-mcp-h…"
+2026-10-04T19:54:51Z,lupaxa-cronlab,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",21957,"Validate, explain, and preview five-field Vixie cron expressions."
+2026-10-04T19:54:54Z,harvest-ai,0.1.0,harvest-ai contributors,Apache-2.0,381456,"Regions + target in, clean data out: agent-driven source census, review-gated scrapers, polite collection, normalisation, storage and scheduling. MCP server, CLI, web app and Claude Code plugin."
+2026-10-04T19:56:50Z,goga-tool-complex-build,0.0.0,,BSD-3-Clause,219465,Complex build configuration for goga build
+2026-10-04T20:02:01Z,holographic-sdk,0.1.1,WritersLogic <david@writerslogic.com>,AGPL-3.0-or-later,16516,Zero-Trust FHE-Lite SDK for Holographic Memory System
+2026-10-04T20:02:17Z,sql-sage,0.1.0,Ville Vainio <vivainio@gmail.com>,MIT,2032840,"Parse, check, translate and review SQL for PostgreSQL, SQLite and Oracle with one shared AST"
+2026-10-04T20:05:15Z,auth51-verifier,1.0.0,ago,Apache-2.0,46815,"Resource-server enforcement library for auth51 Agentic JWT intent tokens — offline verification of signature, issuer, audience, scopes, Proof-of-Possession, and value binding."
+2026-10-04T20:05:21Z,srcprism,0.0.0,Apparition Dev LLC,LicenseRef-Proprietary,2103,Placeholder. Install srcprism with: curl -fsSL https://srcprism.com/install.sh | sh
+2026-10-04T20:13:19Z,beetech-smartsdk,1.0.4,"""Beetech AutoID Corp."" <support@advautoid.com>",Commercial,103628831,Beetech Universal RFID & IoT SmartSdk Native AOT Engine for Python
+2026-10-04T20:13:34Z,qmpass-test-agent,1.0.0,Qmpass,LicenseRef-Proprietary,201898,Qmpass Test Agent - thin execution agent (writes platform-compiled Robot suites and runs them locally)
+2026-10-04T20:15:06Z,api-to-mcp-forge,0.1.0,api-to-mcp contributors,Apache-2.0,114803,"Turn API documentation (a docs URL, OpenAPI/Swagger, Postman, RAML, WSDL, GraphQL, an HTML page or pasted text) into an MCP server: an evidence-only entry, tested and live-verified, served by platfor…"
+2026-10-04T20:15:47Z,sigantry-core,0.0.1,,Apache-2.0,2500,Reserved name. This package contains no code; the Sigantry library is published as sigantry.
+2026-10-04T20:17:12Z,louped,0.1.2,ashworks1706,Apache-2.0,2236236,"A local testbed for research on LLM behavior and efficiency: experiments, evals, interventions, training and interpretability in one app"
