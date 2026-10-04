@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T07:19:10Z,cg-code-graph,0.10.1,cyberchronos00,MIT,2571163,"cg: a code graph of routes, calls, data access and platform boundaries for agents and humans (CLI + MCP server)"
+2026-10-04T07:30:03Z,clone-sdk,0.2.0,,MIT,64274,Server-side Python client for Clone prompt predictions.
+2026-10-04T07:30:17Z,laymesh,0.3.0a2,,MIT,29683847,Reproducible scientific figures and precise physical layouts with a native Rust engine
+2026-10-04T07:31:41Z,langchain-turnstile,0.1.0,Peak,MIT,19265,"A LangChain Tool that solves Cloudflare Turnstile via the Peak API, for agents that drive a browser and hit a challenge."
+2026-10-04T07:32:25Z,zen-free-proxy,0.1.1,nennneko5787,MIT,68559,"OpenAI-compatible reverse proxy for the free models on OpenCode Zen, with a self-updating model catalog"
+2026-10-04T07:36:07Z,crewai-nti,0.1.0,Abisheak <abisheakp197@gmail.com>,PolyForm-Shield-1.0.0,9533,Full 5-pillar NTI post-quantum security for CrewAI agents.
+2026-10-04T07:36:51Z,aer1-middleware,0.2.0,Brennan Zambo,,18420,AER-1 verifiable execution receipts for AI agent frameworks
+2026-10-04T07:37:58Z,openphysics,0.0.1,FieldAlgo <yonghakim@fieldalgo.com>,Apache-2.0,2938,openphysics - OpenPhysics - a multiphysics simulation suite. Placeholder release reserving the name; the package is not published yet.
+2026-10-04T07:38:00Z,physmat,0.0.1,FieldAlgo <yonghakim@fieldalgo.com>,Apache-2.0,2987,physmat - Materials for photonic and multiphysics simulation: optical dispersion and a refractiveindex.info reader. Placeholder release reserving the name; the package is not published yet.
+2026-10-04T07:38:01Z,simcase,0.0.1,FieldAlgo <yonghakim@fieldalgo.com>,Apache-2.0,2940,"simcase - The OpenPhysics model document and its headless runner, plus an optional browser studio. Placeholder release reserving the name; the package is not published yet."
+2026-10-04T07:38:44Z,agent-tollgate,1.0.0,Andrii Mazurchuk,MIT,3126668,"AI control layer: per-role virtual MCPs, session taint, local content inspection"
+2026-10-04T07:40:56Z,redline-buddy,0.1.0,Dhruv Arora,MIT,280280,"Local-first contract red-flag checker: paste in a vendor MSA, get a plain-language risk memo. No API keys, no data leaves your machine."
+2026-10-04T07:44:29Z,reality-core,0.1.0,bitsabhi <bits.abhi@gmail.com>,MIT,14160,"The Mobius-dynamics engine behind the Reality game and darmiyan-fs — zero dependencies, a terminal game, and a trust-free verifier."
+2026-10-04T07:44:38Z,echo-push,0.1.0,enmu,MIT,55857,Low-overhead modular notification service
+2026-10-04T07:46:07Z,langchain-nti,0.1.1,Abisheak <abisheakp197@gmail.com>,PolyForm-Shield-1.0.0,12980,Full 5-pillar NTI post-quantum security for LangChain agents.
+2026-10-04T07:48:20Z,voicecast-worker,0.1.0,starshipagentic,MIT,55278,VoiceCast Worker: lend your Mac to VoiceCast Studio. Draws pictures (FLUX.2 klein on mflux) and speaks narration (sonic-forge) for the studio's job queue.
+2026-10-04T07:53:59Z,an5-client,0.1.4,an5ORM,MIT,8555,Python client models for AN5 ORM.
+2026-10-04T07:54:41Z,flowkeep,0.1.0,enmu,MIT,49532,"Small, extensible service orchestration for personal automation"
+2026-10-04T07:56:25Z,gigatoken-cachefix,0.10.1,Marcel Rød <roed@stanford.edu>,MIT,6689619,Unofficial Gigatoken fork with bounded encode caches
+2026-10-04T07:57:36Z,causaldemand,1.0.0,"Juwon Hong, Minha Hwang, Venkatesh Shankar",Apache-2.0,231725,"CausalDemand: synthetic retail sales datasets for testing whether a method predicts how sales respond to price changes. Download, scoring and regeneration tools."
+2026-10-04T08:07:38Z,alphebet,1.0.0,,"MIT License Copyright (c) 2026 Alphebet Contributors Permission is hereby granted, free of charge,…",37137,An open-source AI coding agent
+2026-10-04T08:10:37Z,cargoflow,0.1.0,CargoFlow,MIT,122691,"CargoFlow Python SDK: typed read access to the CargoFlow API, pandas/polars data frames and portfolio risk analytics (exposure, excursions, conflicts, release latency, recoveries, Monte Carlo of defa…"
+2026-10-04T08:11:09Z,db-to-zod,1.0.1,,MIT,8846,Generate TypeScript types and runtime Zod validation schemas from SQL DDL and SQLite databases.
+2026-10-04T08:11:20Z,api-diff-sentinel,1.0.1,,MIT,8506,"Fast, automated OpenAPI & REST API breaking change detector and semantic changelog generator."
+2026-10-04T08:11:30Z,primal-log,1.0.1,,MIT,8114,Generate changelogs from conventional Git commits
+2026-10-04T08:11:40Z,ai-repopack,1.0.1,,MIT,10219,"Pack any git repository into clean, security-sanitized LLM prompt context with token counting."
+2026-10-04T08:13:09Z,banh-mi-guard,0.15.0,Orca Team <30043763+trungngoprogramming@users.noreply.github.com>,Apache-2.0,627332,"Banh Mi Guard: dual-gate impact analysis & regression guard for AI coding agents (scope, invariants, build, Alibaba Open Code Review rules and LLM review)"
+2026-10-04T08:13:48Z,sickitlearn,0.1.0,Pandass,MIT,6649,"College practical programs, importable and exportable as standalone .py files"
+2026-10-04T08:15:51Z,context-render,1.0.0,Giga Chang,MIT,284979,Context window observability for Claude Code: see which of your scaffolding components an agent actually used
+2026-10-04T08:16:15Z,logrono-bus,0.1.0,Santiago Reig,MIT,73845,Cliente asíncrono para las estimaciones de paso de los autobuses urbanos de Logroño

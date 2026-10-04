@@ -8,51 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 07:18 UTC
+## Latest list — 2026-10-04 08:18 UTC
 
-New packages created between 2026-10-04 06:20 UTC and 2026-10-04 07:18 UTC.
+New packages created between 2026-10-04 07:18 UTC and 2026-10-04 08:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-04T07-18-45-590149Z.csv)
+[Full CSV](data/new-packages-2026-10-04T08-18-36-019798Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-04 06:22:33 | [djinnml](https://pypi.org/project/djinnml/) | 1.1.0 | Ben Whewell <ben.whewell@pm.m… | 74.4 kB | Deep Jointly-Informed Neural Networks |
-| 2026-10-04 06:22:58 | [bread-crumbs-contracts](https://pypi.org/project/bread-crumbs-contracts/) | 0.5.0 | Cameron K. Brooks | 51.1 kB | Pure-Python codec for the BREAD CRUMBS operation contracts (RLHT, DCMT, caps, w… |
-| 2026-10-04 06:23:18 | [ezo-driver](https://pypi.org/project/ezo-driver/) | 0.6.0 | ezo-driver maintainers | 1.3 MB | Linux Python bindings for ezo-driver |
-| 2026-10-04 06:25:45 | [cointoss](https://pypi.org/project/cointoss/) | 0.0.1 | Walnut Geek <wg@walnutgeek.co… | 3.3 MB | Crypto coin portfolio tracker and research platform - powered by lythonic and w… |
-| 2026-10-04 06:26:48 | [volcenginesdk-sqs](https://pypi.org/project/volcenginesdk-sqs/) | 0.0.1 | volc-engine | 973 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-sqs |
-| 2026-10-04 06:26:55 | [volcenginesdk-storageebs](https://pypi.org/project/volcenginesdk-storageebs/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-stor… |
-| 2026-10-04 06:27:01 | [volcenginesdk-sts](https://pypi.org/project/volcenginesdk-sts/) | 0.0.1 | volc-engine | 973 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-sts |
-| 2026-10-04 06:27:07 | [volcenginesdk-tag](https://pypi.org/project/volcenginesdk-tag/) | 0.0.1 | volc-engine | 974 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-tag |
-| 2026-10-04 06:28:29 | [datanova-sdk](https://pypi.org/project/datanova-sdk/) | 1.0.0 | DataNova Team | 21.0 kB | Official Python SDK for DataNova Smart Analytics Platform REST APIs |
-| 2026-10-04 06:28:54 | [doc-cheap](https://pypi.org/project/doc-cheap/) | 0.1.0 | Teoh Chin Heng <admin@doc.che… | 28.3 kB | Typed Python client for the doc.cheap document-recognition API: read passports,… |
-| 2026-10-04 06:29:28 | [bluesky-zerobus](https://pypi.org/project/bluesky-zerobus/) | 0.1.0 | jesinity | 43.8 kB | Bluesky Jetstream WebSocket producer for Databricks Zerobus Ingest |
-| 2026-10-04 06:31:25 | [extract-paradox-hive](https://pypi.org/project/extract-paradox-hive/) | 1.0.3 | DJ Stomp | 10.1 kB | Extract Paradox Anticheat custom properties from a Minecraft Bedrock save |
-| 2026-10-04 06:32:07 | [langchain-doccheap](https://pypi.org/project/langchain-doccheap/) | 0.1.0 | Teoh Chin Heng <admin@doc.che… | 17.0 kB | LangChain tools for doc.cheap: read passports, ID cards and driver's licences i… |
-| 2026-10-04 06:36:10 | [gpulander](https://pypi.org/project/gpulander/) | 0.1.0 | tsomerville2 | 42.8 kB | Opportunistic AWS GPU grabber — poll for spot/on-demand capacity across regions… |
-| 2026-10-04 06:36:28 | [uzru-parser](https://pypi.org/project/uzru-parser/) | 0.1.0 | Khayitboy Khayitov | 8.0 MB | CPU-first document parser and chunker for Russian and Uzbek documents (RAG-read… |
-| 2026-10-04 06:36:39 | [georeconcile](https://pypi.org/project/georeconcile/) | 0.0.1 |  | 2.5 kB | Name reserved for the GeoReconcile project: auditable point, line and polygon c… |
-| 2026-10-04 06:36:42 | [geoconflate](https://pypi.org/project/geoconflate/) | 0.0.1 |  | 2.5 kB | Name reserved for the GeoReconcile project: auditable point, line and polygon c… |
-| 2026-10-04 06:37:33 | [praetor-agent](https://pypi.org/project/praetor-agent/) | 0.3.0 | Ali Abdullah | 68.9 kB | A security-first, zero-dependency agent runtime with an execution-based evaluat… |
-| 2026-10-04 06:40:53 | [alissa-tools-github-genloop](https://pypi.org/project/alissa-tools-github-genloop/) | 0.1.0 | Fahera | 96.6 kB | ALISSA-TOOLS-GITHUB-GENLOOP |
-| 2026-10-04 06:41:30 | [homewatch](https://pypi.org/project/homewatch/) | 0.1.0 | Ryan Davis | 65.0 kB | Home counter-surveillance detector for Linux: Remote ID drones, Bluetooth track… |
-| 2026-10-04 06:44:12 | [evidor](https://pypi.org/project/evidor/) | 1.1.0 | Vedang Bale | 67.6 kB | A small, provider-agnostic harness for LLM input and output. |
-| 2026-10-04 06:48:15 | [voicecast](https://pypi.org/project/voicecast/) | 0.1.0 | VoiceCast Studio | 56.0 kB | VoiceCast Studio from your terminal or AI agent: narrated videos (16:9 or 9:16… |
-| 2026-10-04 06:51:19 | [royalesim](https://pypi.org/project/royalesim/) | 0.1.10 |  | 19.5 MB | RoyaleSim: deterministic, integer-only Clash Royale battle engine (Rust, PyO3 b… |
-| 2026-10-04 06:53:33 | [add-shields](https://pypi.org/project/add-shields/) | 0.1.0 | Paul Traylor | 7.6 kB | Easily add shields.io badge to your README |
-| 2026-10-04 06:55:45 | [regent-control](https://pypi.org/project/regent-control/) | 0.1.0 | Regent Protocol | 53.4 kB | Python SDK for Regent Control — runtime policy enforcement for AI agent actions… |
-| 2026-10-04 06:56:35 | [royalelearn](https://pypi.org/project/royalelearn/) | 0.5.4 |  | 1.1 MB | RoyaleLearn: self-play PPO training harness for RoyaleGym Clash Royale environm… |
-| 2026-10-04 06:56:48 | [royaleimitate](https://pypi.org/project/royaleimitate/) | 0.2.6 |  | 147.4 kB | RoyaleImitate: imitation learning for RoyaleLearn, as an optional add-on |
-| 2026-10-04 06:59:58 | [PyEVP](https://pypi.org/project/PyEVP/) | 0.1.0 | Gakuto Furuya | 150.1 kB | Python library for the Email Verification Protocol (EVP): verify tokens as a re… |
-| 2026-10-04 07:01:12 | [full-circle-optimization](https://pypi.org/project/full-circle-optimization/) | 0.1.0 | Chris Shearer | 155.6 kB | Find what a system PROMISES but does not do -- then fix it safely, and prove th… |
-| 2026-10-04 07:01:12 | [sandbox-fan-out](https://pypi.org/project/sandbox-fan-out/) | 0.1.0 | Chris Shearer | 2.7 MB | Run many test agents over one sandbox, in isolation, and merge their results wi… |
-| 2026-10-04 07:01:17 | [rag-graph-surgeon](https://pypi.org/project/rag-graph-surgeon/) | 0.2.0 | Chris Shearer | 272.6 kB | Point it at a broken system: it finds what is actually wrong, repairs an isolat… |
-| 2026-10-04 07:01:28 | [royaleviser](https://pypi.org/project/royaleviser/) | 0.1.1 |  | 334.8 kB | RoyaleViser: an out-of-process viewer for Clash Royale battles - recorded match… |
-| 2026-10-04 07:01:42 | [royalegym](https://pypi.org/project/royalegym/) | 0.1.12 |  | 830.0 kB | RoyaleGym: reinforcement-learning environments for Clash Royale, over the Royal… |
-| 2026-10-04 07:03:17 | [rahad-all-downloader](https://pypi.org/project/rahad-all-downloader/) | 1.0.1 | Mohammad Rahad | 29.1 kB | All-in-one video downloader for TikTok, Facebook, Instagram, YouTube, X/Twitter… |
-| 2026-10-04 07:04:46 | [azem](https://pypi.org/project/azem/) | 0.1.0 |  | 252.8 kB | Compile an Apache Ossie semantic model into correct SQL, attest it against a li… |
-| 2026-10-04 07:04:59 | [BabyDac](https://pypi.org/project/BabyDac/) | 0.1.0 |  | 23.8 kB | API for the Baby DAC |
-| 2026-10-04 07:06:22 | [nytimes-games](https://pypi.org/project/nytimes-games/) | 0.3.1 | Lukas Karlsson <lukwam@gmail.… | 32.0 kB | Unofficial Python client for the New York Times Games APIs: Wordle, Connections… |
-| 2026-10-04 07:09:20 | [texlate](https://pypi.org/project/texlate/) | 0.1.0 |  | 14.7 MB | arXiv LaTeX 源码 → LLM 段落级翻译 → ctex 重编译中文 PDF，双语对照阅读（hjfy.top 开源复现） |
-| 2026-10-04 07:12:05 | [inferlab-gateway-smg](https://pypi.org/project/inferlab-gateway-smg/) | 0.1.0 |  | 4.2 kB | Inferlab SMG frontend lowering shared by the integrations that run SMG |
-| 2026-10-04 07:15:38 | [SQLAero](https://pypi.org/project/SQLAero/) | 0.1.0a1 | Jiefu Chen | 6.2 MB | Fast MySQL driver build in Cython (Sync and Async). |
+| 2026-10-04 07:19:10 | [cg-code-graph](https://pypi.org/project/cg-code-graph/) | 0.10.1 | cyberchronos00 | 2.6 MB | cg: a code graph of routes, calls, data access and platform boundaries for agen… |
+| 2026-10-04 07:30:03 | [clone-sdk](https://pypi.org/project/clone-sdk/) | 0.2.0 |  | 64.3 kB | Server-side Python client for Clone prompt predictions. |
+| 2026-10-04 07:30:17 | [laymesh](https://pypi.org/project/laymesh/) | 0.3.0a2 |  | 29.7 MB | Reproducible scientific figures and precise physical layouts with a native Rust… |
+| 2026-10-04 07:31:41 | [langchain-turnstile](https://pypi.org/project/langchain-turnstile/) | 0.1.0 | Peak | 19.3 kB | A LangChain Tool that solves Cloudflare Turnstile via the Peak API, for agents… |
+| 2026-10-04 07:32:25 | [zen-free-proxy](https://pypi.org/project/zen-free-proxy/) | 0.1.1 | nennneko5787 | 68.6 kB | OpenAI-compatible reverse proxy for the free models on OpenCode Zen, with a sel… |
+| 2026-10-04 07:36:07 | [crewai-nti](https://pypi.org/project/crewai-nti/) | 0.1.0 | Abisheak <abisheakp197@gmail.… | 9.5 kB | Full 5-pillar NTI post-quantum security for CrewAI agents. |
+| 2026-10-04 07:36:51 | [aer1-middleware](https://pypi.org/project/aer1-middleware/) | 0.2.0 | Brennan Zambo | 18.4 kB | AER-1 verifiable execution receipts for AI agent frameworks |
+| 2026-10-04 07:37:58 | [openphysics](https://pypi.org/project/openphysics/) | 0.0.1 | FieldAlgo <yonghakim@fieldalg… | 2.9 kB | openphysics - OpenPhysics - a multiphysics simulation suite. Placeholder releas… |
+| 2026-10-04 07:38:00 | [physmat](https://pypi.org/project/physmat/) | 0.0.1 | FieldAlgo <yonghakim@fieldalg… | 3.0 kB | physmat - Materials for photonic and multiphysics simulation: optical dispersio… |
+| 2026-10-04 07:38:01 | [simcase](https://pypi.org/project/simcase/) | 0.0.1 | FieldAlgo <yonghakim@fieldalg… | 2.9 kB | simcase - The OpenPhysics model document and its headless runner, plus an optio… |
+| 2026-10-04 07:38:44 | [agent-tollgate](https://pypi.org/project/agent-tollgate/) | 1.0.0 | Andrii Mazurchuk | 3.1 MB | AI control layer: per-role virtual MCPs, session taint, local content inspection |
+| 2026-10-04 07:40:56 | [redline-buddy](https://pypi.org/project/redline-buddy/) | 0.1.0 | Dhruv Arora | 280.3 kB | Local-first contract red-flag checker: paste in a vendor MSA, get a plain-langu… |
+| 2026-10-04 07:44:29 | [reality-core](https://pypi.org/project/reality-core/) | 0.1.0 | bitsabhi <bits.abhi@gmail.com> | 14.2 kB | The Mobius-dynamics engine behind the Reality game and darmiyan-fs — zero depen… |
+| 2026-10-04 07:44:38 | [echo-push](https://pypi.org/project/echo-push/) | 0.1.0 | enmu | 55.9 kB | Low-overhead modular notification service |
+| 2026-10-04 07:46:07 | [langchain-nti](https://pypi.org/project/langchain-nti/) | 0.1.1 | Abisheak <abisheakp197@gmail.… | 13.0 kB | Full 5-pillar NTI post-quantum security for LangChain agents. |
+| 2026-10-04 07:48:20 | [voicecast-worker](https://pypi.org/project/voicecast-worker/) | 0.1.0 | starshipagentic | 55.3 kB | VoiceCast Worker: lend your Mac to VoiceCast Studio. Draws pictures (FLUX.2 kle… |
+| 2026-10-04 07:53:59 | [an5-client](https://pypi.org/project/an5-client/) | 0.1.4 | an5ORM | 8.6 kB | Python client models for AN5 ORM. |
+| 2026-10-04 07:54:41 | [flowkeep](https://pypi.org/project/flowkeep/) | 0.1.0 | enmu | 49.5 kB | Small, extensible service orchestration for personal automation |
+| 2026-10-04 07:56:25 | [gigatoken-cachefix](https://pypi.org/project/gigatoken-cachefix/) | 0.10.1 | Marcel Rød <roed@stanford.edu> | 6.7 MB | Unofficial Gigatoken fork with bounded encode caches |
+| 2026-10-04 07:57:36 | [causaldemand](https://pypi.org/project/causaldemand/) | 1.0.0 | Juwon Hong, Minha Hwang, Venk… | 231.7 kB | CausalDemand: synthetic retail sales datasets for testing whether a method pred… |
+| 2026-10-04 08:07:38 | [alphebet](https://pypi.org/project/alphebet/) | 1.0.0 |  | 37.1 kB | An open-source AI coding agent |
+| 2026-10-04 08:10:37 | [cargoflow](https://pypi.org/project/cargoflow/) | 0.1.0 | CargoFlow | 122.7 kB | CargoFlow Python SDK: typed read access to the CargoFlow API, pandas/polars dat… |
+| 2026-10-04 08:11:09 | [db-to-zod](https://pypi.org/project/db-to-zod/) | 1.0.1 |  | 8.8 kB | Generate TypeScript types and runtime Zod validation schemas from SQL DDL and S… |
+| 2026-10-04 08:11:20 | [api-diff-sentinel](https://pypi.org/project/api-diff-sentinel/) | 1.0.1 |  | 8.5 kB | Fast, automated OpenAPI & REST API breaking change detector and semantic change… |
+| 2026-10-04 08:11:30 | [primal-log](https://pypi.org/project/primal-log/) | 1.0.1 |  | 8.1 kB | Generate changelogs from conventional Git commits |
+| 2026-10-04 08:11:40 | [ai-repopack](https://pypi.org/project/ai-repopack/) | 1.0.1 |  | 10.2 kB | Pack any git repository into clean, security-sanitized LLM prompt context with… |
+| 2026-10-04 08:13:09 | [banh-mi-guard](https://pypi.org/project/banh-mi-guard/) | 0.15.0 | Orca Team <30043763+trungngop… | 627.3 kB | Banh Mi Guard: dual-gate impact analysis & regression guard for AI coding agent… |
+| 2026-10-04 08:13:48 | [sickitlearn](https://pypi.org/project/sickitlearn/) | 0.1.0 | Pandass | 6.6 kB | College practical programs, importable and exportable as standalone .py files |
+| 2026-10-04 08:15:51 | [context-render](https://pypi.org/project/context-render/) | 1.0.0 | Giga Chang | 285.0 kB | Context window observability for Claude Code: see which of your scaffolding com… |
+| 2026-10-04 08:16:15 | [logrono-bus](https://pypi.org/project/logrono-bus/) | 0.1.0 | Santiago Reig | 73.8 kB | Cliente asíncrono para las estimaciones de paso de los autobuses urbanos de Log… |
