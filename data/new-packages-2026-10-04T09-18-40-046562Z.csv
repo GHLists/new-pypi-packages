@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T08:23:32Z,tracelab-sdk,0.1.0,,MIT,18463,Python trace instrumentation for LLM applications and agents
+2026-10-04T08:24:16Z,bast3st,0.1.1a2,,,56562,Specification of unit tests of .sb3-programs for a Bast3St server
+2026-10-04T08:28:32Z,alphebet,1.0.4,,"MIT License + Commons Clause Copyright (c) 2026 Madhav Batra ""Commons Clause"" License Condition v1.…",38790,An open-source AI coding agent
+2026-10-04T08:29:18Z,holler,1.0.0,Mayank Punghal,MIT,158808,"Free, offline push-to-talk dictation: hold a key, speak, and your words appear in any app. Local Whisper, no cloud, learns your jargon."
+2026-10-04T08:33:31Z,did0-py,0.1.0,Kiruthik Raaj,MIT,3183,"Zero-Allocation W3C DID, Substrate SCALE Codec & DePIN Cryptographic Engine"
+2026-10-04T08:33:33Z,pdf2md-study,0.1.0,inhyunseo,MIT,20196,"Convert papers and lecture slides (PDF) into study-ready Markdown for LLMs — equations and code kept as images, logos and references stripped."
+2026-10-04T08:36:20Z,ms-python-utils,1.0.1,"YLHC Technology, co., ltd.",,3727373,Universal YLP encrypted payload loader (C++ protected)
+2026-10-04T08:37:12Z,payping-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,110847,"Local MCP server for PayPing (payping.ir) merchants: let AI agents read balance, sales, transactions, withdrawals, customers, products, coupons and invoices, and create customers, products, payment l…"
+2026-10-04T08:38:24Z,tracera-behave,0.1.0rc1,Tracera <contact@tracera.dev>,SEE LICENSE IN LICENSE.md,13984,Tracera Autotest adapter for Behave
+2026-10-04T08:41:27Z,latexfmt,0.2.0,Nicolas Brosse,,53287,"Format a LaTeX project to house conventions (math standardization, indentation, prose reflow)"
+2026-10-04T08:46:38Z,runspool-wechat,0.2.0,Ethan Sun <ethan@ethansun.dev>,MIT,36075,Official RunSpool plugin: lay out Markdown for WeChat Official Accounts and create drafts (behind an approval).
+2026-10-04T08:47:13Z,sphinx-ask-chatgpt,0.0.1,ftnext,Apache-2.0,52261,Sphinx current-page Ask AI extension with a local ChatGPT plan server
+2026-10-04T08:50:22Z,librelyrics-lrclib,1.0.0,libre-lyrics <libre-lyrics@users.noreply.github.com>,GPL-3.0-or-later,22200,LRCLIB lyrics provider plugin for LibreLyrics
+2026-10-04T08:57:39Z,logger2,2026.10.4,,,3965893,
+2026-10-04T08:59:10Z,lastrordate,0.1.0,,,10588,
+2026-10-04T09:00:01Z,nero-ai,0.0.1,,,2377,"Nero: an AI agent system by Seed Frontier. Name reserved, first release coming."
+2026-10-04T09:00:04Z,magnus-ai,0.0.1,,,2385,"Magnus by Seed Frontier. Name reserved, first release coming."
+2026-10-04T09:00:06Z,horizon-ai,0.0.1,,,2414,"Horizon by Seed Frontier. Name reserved, first release coming."
+2026-10-04T09:00:08Z,cascade-1,0.0.1,,,2411,"CASCADE-1 by Seed Frontier. Name reserved, first release coming."
+2026-10-04T09:01:49Z,ekoa,0.1.0,enmu,MIT,62067,Low-overhead modular notification service
+2026-10-04T09:02:31Z,oxivault,0.1.0,Daniel Kapitan,Apache-2.0,96456,Vault-LD knowledge graph store on object storage
+2026-10-04T09:02:49Z,snnlab,0.1.1,Eoin Murray,MIT,1099553,"Author, simulate and visualise conductance-based spiking neural networks."
+2026-10-04T09:05:44Z,VeriFloat,0.2.0,Yeo Shu Yi,MIT,19342170,"Bit-accurate floating-point, integer and block-scaled types with a C++ core, as golden models for cocotb RTL testbenches"
+2026-10-04T09:11:45Z,vapoursynth-readmpls,6.0,,LGPL-3.0-or-later,11256497,Get m2ts clip id from a playlist and return a dict
+2026-10-04T09:12:04Z,tetrak,5.14.1,"Stephen Masters, Yvette Mankerian",MIT,197394,"Local-first transcription pipelines for archival material, and the harnesses that measure them"
+2026-10-04T09:13:19Z,gpyou,0.1.0,,LicenseRef-Proprietary,56504,Command-line client for GPYou: prepaid GPUs for fine-tuning and serving open models
+2026-10-04T09:15:05Z,lastror,0.1.0,,,14389,
+2026-10-04T09:17:18Z,loon-parser,2.0.2,mosca,,7164,A human friendly configuration language

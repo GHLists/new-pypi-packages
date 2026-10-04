@@ -8,41 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 08:18 UTC
+## Latest list — 2026-10-04 09:18 UTC
 
-New packages created between 2026-10-04 07:18 UTC and 2026-10-04 08:18 UTC.
+New packages created between 2026-10-04 08:18 UTC and 2026-10-04 09:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-04T08-18-36-019798Z.csv)
+[Full CSV](data/new-packages-2026-10-04T09-18-40-046562Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-04 07:19:10 | [cg-code-graph](https://pypi.org/project/cg-code-graph/) | 0.10.1 | cyberchronos00 | 2.6 MB | cg: a code graph of routes, calls, data access and platform boundaries for agen… |
-| 2026-10-04 07:30:03 | [clone-sdk](https://pypi.org/project/clone-sdk/) | 0.2.0 |  | 64.3 kB | Server-side Python client for Clone prompt predictions. |
-| 2026-10-04 07:30:17 | [laymesh](https://pypi.org/project/laymesh/) | 0.3.0a2 |  | 29.7 MB | Reproducible scientific figures and precise physical layouts with a native Rust… |
-| 2026-10-04 07:31:41 | [langchain-turnstile](https://pypi.org/project/langchain-turnstile/) | 0.1.0 | Peak | 19.3 kB | A LangChain Tool that solves Cloudflare Turnstile via the Peak API, for agents… |
-| 2026-10-04 07:32:25 | [zen-free-proxy](https://pypi.org/project/zen-free-proxy/) | 0.1.1 | nennneko5787 | 68.6 kB | OpenAI-compatible reverse proxy for the free models on OpenCode Zen, with a sel… |
-| 2026-10-04 07:36:07 | [crewai-nti](https://pypi.org/project/crewai-nti/) | 0.1.0 | Abisheak <abisheakp197@gmail.… | 9.5 kB | Full 5-pillar NTI post-quantum security for CrewAI agents. |
-| 2026-10-04 07:36:51 | [aer1-middleware](https://pypi.org/project/aer1-middleware/) | 0.2.0 | Brennan Zambo | 18.4 kB | AER-1 verifiable execution receipts for AI agent frameworks |
-| 2026-10-04 07:37:58 | [openphysics](https://pypi.org/project/openphysics/) | 0.0.1 | FieldAlgo <yonghakim@fieldalg… | 2.9 kB | openphysics - OpenPhysics - a multiphysics simulation suite. Placeholder releas… |
-| 2026-10-04 07:38:00 | [physmat](https://pypi.org/project/physmat/) | 0.0.1 | FieldAlgo <yonghakim@fieldalg… | 3.0 kB | physmat - Materials for photonic and multiphysics simulation: optical dispersio… |
-| 2026-10-04 07:38:01 | [simcase](https://pypi.org/project/simcase/) | 0.0.1 | FieldAlgo <yonghakim@fieldalg… | 2.9 kB | simcase - The OpenPhysics model document and its headless runner, plus an optio… |
-| 2026-10-04 07:38:44 | [agent-tollgate](https://pypi.org/project/agent-tollgate/) | 1.0.0 | Andrii Mazurchuk | 3.1 MB | AI control layer: per-role virtual MCPs, session taint, local content inspection |
-| 2026-10-04 07:40:56 | [redline-buddy](https://pypi.org/project/redline-buddy/) | 0.1.0 | Dhruv Arora | 280.3 kB | Local-first contract red-flag checker: paste in a vendor MSA, get a plain-langu… |
-| 2026-10-04 07:44:29 | [reality-core](https://pypi.org/project/reality-core/) | 0.1.0 | bitsabhi <bits.abhi@gmail.com> | 14.2 kB | The Mobius-dynamics engine behind the Reality game and darmiyan-fs — zero depen… |
-| 2026-10-04 07:44:38 | [echo-push](https://pypi.org/project/echo-push/) | 0.1.0 | enmu | 55.9 kB | Low-overhead modular notification service |
-| 2026-10-04 07:46:07 | [langchain-nti](https://pypi.org/project/langchain-nti/) | 0.1.1 | Abisheak <abisheakp197@gmail.… | 13.0 kB | Full 5-pillar NTI post-quantum security for LangChain agents. |
-| 2026-10-04 07:48:20 | [voicecast-worker](https://pypi.org/project/voicecast-worker/) | 0.1.0 | starshipagentic | 55.3 kB | VoiceCast Worker: lend your Mac to VoiceCast Studio. Draws pictures (FLUX.2 kle… |
-| 2026-10-04 07:53:59 | [an5-client](https://pypi.org/project/an5-client/) | 0.1.4 | an5ORM | 8.6 kB | Python client models for AN5 ORM. |
-| 2026-10-04 07:54:41 | [flowkeep](https://pypi.org/project/flowkeep/) | 0.1.0 | enmu | 49.5 kB | Small, extensible service orchestration for personal automation |
-| 2026-10-04 07:56:25 | [gigatoken-cachefix](https://pypi.org/project/gigatoken-cachefix/) | 0.10.1 | Marcel Rød <roed@stanford.edu> | 6.7 MB | Unofficial Gigatoken fork with bounded encode caches |
-| 2026-10-04 07:57:36 | [causaldemand](https://pypi.org/project/causaldemand/) | 1.0.0 | Juwon Hong, Minha Hwang, Venk… | 231.7 kB | CausalDemand: synthetic retail sales datasets for testing whether a method pred… |
-| 2026-10-04 08:07:38 | [alphebet](https://pypi.org/project/alphebet/) | 1.0.0 |  | 37.1 kB | An open-source AI coding agent |
-| 2026-10-04 08:10:37 | [cargoflow](https://pypi.org/project/cargoflow/) | 0.1.0 | CargoFlow | 122.7 kB | CargoFlow Python SDK: typed read access to the CargoFlow API, pandas/polars dat… |
-| 2026-10-04 08:11:09 | [db-to-zod](https://pypi.org/project/db-to-zod/) | 1.0.1 |  | 8.8 kB | Generate TypeScript types and runtime Zod validation schemas from SQL DDL and S… |
-| 2026-10-04 08:11:20 | [api-diff-sentinel](https://pypi.org/project/api-diff-sentinel/) | 1.0.1 |  | 8.5 kB | Fast, automated OpenAPI & REST API breaking change detector and semantic change… |
-| 2026-10-04 08:11:30 | [primal-log](https://pypi.org/project/primal-log/) | 1.0.1 |  | 8.1 kB | Generate changelogs from conventional Git commits |
-| 2026-10-04 08:11:40 | [ai-repopack](https://pypi.org/project/ai-repopack/) | 1.0.1 |  | 10.2 kB | Pack any git repository into clean, security-sanitized LLM prompt context with… |
-| 2026-10-04 08:13:09 | [banh-mi-guard](https://pypi.org/project/banh-mi-guard/) | 0.15.0 | Orca Team <30043763+trungngop… | 627.3 kB | Banh Mi Guard: dual-gate impact analysis & regression guard for AI coding agent… |
-| 2026-10-04 08:13:48 | [sickitlearn](https://pypi.org/project/sickitlearn/) | 0.1.0 | Pandass | 6.6 kB | College practical programs, importable and exportable as standalone .py files |
-| 2026-10-04 08:15:51 | [context-render](https://pypi.org/project/context-render/) | 1.0.0 | Giga Chang | 285.0 kB | Context window observability for Claude Code: see which of your scaffolding com… |
-| 2026-10-04 08:16:15 | [logrono-bus](https://pypi.org/project/logrono-bus/) | 0.1.0 | Santiago Reig | 73.8 kB | Cliente asíncrono para las estimaciones de paso de los autobuses urbanos de Log… |
+| 2026-10-04 08:23:32 | [tracelab-sdk](https://pypi.org/project/tracelab-sdk/) | 0.1.0 |  | 18.5 kB | Python trace instrumentation for LLM applications and agents |
+| 2026-10-04 08:24:16 | [bast3st](https://pypi.org/project/bast3st/) | 0.1.1a2 |  | 56.6 kB | Specification of unit tests of .sb3-programs for a Bast3St server |
+| 2026-10-04 08:28:32 | [alphebet](https://pypi.org/project/alphebet/) | 1.0.4 |  | 38.8 kB | An open-source AI coding agent |
+| 2026-10-04 08:29:18 | [holler](https://pypi.org/project/holler/) | 1.0.0 | Mayank Punghal | 158.8 kB | Free, offline push-to-talk dictation: hold a key, speak, and your words appear… |
+| 2026-10-04 08:33:31 | [did0-py](https://pypi.org/project/did0-py/) | 0.1.0 | Kiruthik Raaj | 3.2 kB | Zero-Allocation W3C DID, Substrate SCALE Codec & DePIN Cryptographic Engine |
+| 2026-10-04 08:33:33 | [pdf2md-study](https://pypi.org/project/pdf2md-study/) | 0.1.0 | inhyunseo | 20.2 kB | Convert papers and lecture slides (PDF) into study-ready Markdown for LLMs — eq… |
+| 2026-10-04 08:36:20 | [ms-python-utils](https://pypi.org/project/ms-python-utils/) | 1.0.1 | YLHC Technology, co., ltd. | 3.7 MB | Universal YLP encrypted payload loader (C++ protected) |
+| 2026-10-04 08:37:12 | [payping-mcp](https://pypi.org/project/payping-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 110.8 kB | Local MCP server for PayPing (payping.ir) merchants: let AI agents read balance… |
+| 2026-10-04 08:38:24 | [tracera-behave](https://pypi.org/project/tracera-behave/) | 0.1.0rc1 | Tracera <contact@tracera.dev> | 14.0 kB | Tracera Autotest adapter for Behave |
+| 2026-10-04 08:41:27 | [latexfmt](https://pypi.org/project/latexfmt/) | 0.2.0 | Nicolas Brosse | 53.3 kB | Format a LaTeX project to house conventions (math standardization, indentation,… |
+| 2026-10-04 08:46:38 | [runspool-wechat](https://pypi.org/project/runspool-wechat/) | 0.2.0 | Ethan Sun <ethan@ethansun.dev> | 36.1 kB | Official RunSpool plugin: lay out Markdown for WeChat Official Accounts and cre… |
+| 2026-10-04 08:47:13 | [sphinx-ask-chatgpt](https://pypi.org/project/sphinx-ask-chatgpt/) | 0.0.1 | ftnext | 52.3 kB | Sphinx current-page Ask AI extension with a local ChatGPT plan server |
+| 2026-10-04 08:50:22 | [librelyrics-lrclib](https://pypi.org/project/librelyrics-lrclib/) | 1.0.0 | libre-lyrics <libre-lyrics@us… | 22.2 kB | LRCLIB lyrics provider plugin for LibreLyrics |
+| 2026-10-04 08:57:39 | [logger2](https://pypi.org/project/logger2/) | 2026.10.4 |  | 4.0 MB |  |
+| 2026-10-04 08:59:10 | [lastrordate](https://pypi.org/project/lastrordate/) | 0.1.0 |  | 10.6 kB |  |
+| 2026-10-04 09:00:01 | [nero-ai](https://pypi.org/project/nero-ai/) | 0.0.1 |  | 2.4 kB | Nero: an AI agent system by Seed Frontier. Name reserved, first release coming. |
+| 2026-10-04 09:00:04 | [magnus-ai](https://pypi.org/project/magnus-ai/) | 0.0.1 |  | 2.4 kB | Magnus by Seed Frontier. Name reserved, first release coming. |
+| 2026-10-04 09:00:06 | [horizon-ai](https://pypi.org/project/horizon-ai/) | 0.0.1 |  | 2.4 kB | Horizon by Seed Frontier. Name reserved, first release coming. |
+| 2026-10-04 09:00:08 | [cascade-1](https://pypi.org/project/cascade-1/) | 0.0.1 |  | 2.4 kB | CASCADE-1 by Seed Frontier. Name reserved, first release coming. |
+| 2026-10-04 09:01:49 | [ekoa](https://pypi.org/project/ekoa/) | 0.1.0 | enmu | 62.1 kB | Low-overhead modular notification service |
+| 2026-10-04 09:02:31 | [oxivault](https://pypi.org/project/oxivault/) | 0.1.0 | Daniel Kapitan | 96.5 kB | Vault-LD knowledge graph store on object storage |
+| 2026-10-04 09:02:49 | [snnlab](https://pypi.org/project/snnlab/) | 0.1.1 | Eoin Murray | 1.1 MB | Author, simulate and visualise conductance-based spiking neural networks. |
+| 2026-10-04 09:05:44 | [VeriFloat](https://pypi.org/project/VeriFloat/) | 0.2.0 | Yeo Shu Yi | 19.3 MB | Bit-accurate floating-point, integer and block-scaled types with a C++ core, as… |
+| 2026-10-04 09:11:45 | [vapoursynth-readmpls](https://pypi.org/project/vapoursynth-readmpls/) | 6.0 |  | 11.3 MB | Get m2ts clip id from a playlist and return a dict |
+| 2026-10-04 09:12:04 | [tetrak](https://pypi.org/project/tetrak/) | 5.14.1 | Stephen Masters, Yvette Manke… | 197.4 kB | Local-first transcription pipelines for archival material, and the harnesses th… |
+| 2026-10-04 09:13:19 | [gpyou](https://pypi.org/project/gpyou/) | 0.1.0 |  | 56.5 kB | Command-line client for GPYou: prepaid GPUs for fine-tuning and serving open mo… |
+| 2026-10-04 09:15:05 | [lastror](https://pypi.org/project/lastror/) | 0.1.0 |  | 14.4 kB |  |
+| 2026-10-04 09:17:18 | [loon-parser](https://pypi.org/project/loon-parser/) | 2.0.2 | mosca | 7.2 kB | A human friendly configuration language |
