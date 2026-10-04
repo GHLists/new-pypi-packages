@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T17:21:02Z,vera-s1,0.1.2,,Apache-2.0,46969,vera-spark and vera-core: calibrated System One decision models
+2026-10-04T17:21:03Z,pdfexorcist,0.1.1,Saket Choudhary <saketc@iitb.ac.in>,MIT,12797672,"Extract tables from PDFs, scans and photos by majority vote across independent engines"
+2026-10-04T17:27:26Z,fframes-py,0.1.0,Abrahan Gil <scr44gr@gmail.com>,MIT,90421326,Typed Python bindings for fframes video rendering
+2026-10-04T17:38:04Z,asr-concurrent-stream,1.0.0,Alibaba Qwen Team,Apache-2.0,52890,Concurrent streaming gRPC server and client for Qwen3-ASR
+2026-10-04T17:39:56Z,figwig,0.1.0,Jacob Schreiber <jmschreiber91@gmail.com>,MIT,221386,"A fast, multithreaded reader and writer of bigWig files, into and out of numpy."
+2026-10-04T17:41:41Z,sencelium,0.0.1,Vitalii Halak <info@sencelium.com>,Apache-2.0,2796,Placeholder release. The official package is not out yet -- see https://github.com/vitaliihalak/sencelium
+2026-10-04T17:47:39Z,loamhand,0.1.0,Loamhand LLC,MIT,22075,Async Python client for Loamhand's sensor ingest API
+2026-10-04T17:47:53Z,casper-network-mcp,0.1.0,,MIT AND LicenseRef-HPE-API-Documentation,5882788,"One small MCP router for HPE Aruba Networking Central, Juniper Mist and ClearPass, built for Casper."
+2026-10-04T17:51:14Z,dockerhub-status,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,15289,Report repositories and image versions published in a Docker Hub organization.
+2026-10-04T17:51:45Z,ddredis,0.0.1,davyddd,MIT,14369,Redis helpers: generic JSON cache and distributed lock
+2026-10-04T17:51:53Z,tcrtrie-cli,0.1.1,Mikhail Podsytnik,MIT,154433,CLI tool for pairwise repertoire matching
+2026-10-04T17:52:36Z,spicefault,0.1.0,Telmo Miguel-Medina,MIT,166669,Reproducible SPICE-based fault injection and reliability assessment of electronic circuits
+2026-10-04T17:53:41Z,anthropic-sdk,0.1.0,asdk maintainers,MIT,8285,Community SDK companion for the Anthropic API: thin re-export of the official anthropic package with convenience helpers.
+2026-10-04T17:55:22Z,preventleak,0.1.0,"Mohamed Aly Bouke <bouke@ieee.org>, Azizol Abdullah <azizol@upm.edu.my>, Nor Izura Udzir <izura@upm…",MIT,44380,Measure and prevent data leakage in machine learning evaluation
+2026-10-04T17:55:47Z,devin-internals-spec,0.3.0,Icaro0310,MIT,64394,"Documented internals of Devin Desktop/CLI session stores, schema-version detection and test fixtures (unofficial)"
+2026-10-04T17:56:53Z,devin-redact,0.2.0,Icaro0310,MIT,89236,"Secret and PII redaction that understands Devin tool-call semantics, in-place in SQLite (unofficial)"
+2026-10-04T17:57:55Z,comp271-mystery-sorters,0.1.0,Leo Irakliotis,MIT,6585,"Three same-contract sorting functions for a COMP 271 assignment: identify each one's algorithm by timing it, not by reading the source."
+2026-10-04T17:57:59Z,devin-memory,0.3.0,Icaro0310,MIT,96523,"Anti-poisoning memory layer for Devin — reviewed, versioned, provenance-tracked durable memory."
+2026-10-04T18:01:11Z,devin-memory-mcp,0.3.1,Icaro Galvao,MIT,3496,MCP server entry point for devin-memory — anti-poisoning memory layer for coding agents
+2026-10-04T18:03:37Z,pandaff,1.0.0,PANDA <ll_PANDA_BBY_ll@users.noreply.github.com>,MIT,17785,Audio/Video DSP processing CLI — powered by PandaAPI LiveEQ
+2026-10-04T18:09:12Z,fow-cache,0.1.0,Mabon ap Gwyn,MIT,482978,"How often does your semantic cache serve the wrong answer? A benchmark, a CI check and a guard for multi-turn chats."
+2026-10-04T18:15:09Z,os-script,0.5.5,heX <hex1625616@gmail.com>,MIT,62959,Library for shell scripting in Python
+2026-10-04T18:16:19Z,mailforensics,0.5.0,Artur Panek,MIT,67924,"Evidence-driven CLI for tracing and diagnosing outbound email flow across applications, Postfix, filters, queues, and relays."
+2026-10-04T18:16:47Z,bugcap,0.2.2,Konrad Tagnon Amen ALAHASSA,MIT,185481,"Local-first, agent-readable bug capture: annotated screenshots + notes, stored locally, synced to trackers on your own schedule."
