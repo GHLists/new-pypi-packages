@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T13:20:55Z,arc56-generated-dedmo-ef9d057b,1.2.2026072010,DedMoroz38,,19549,Generated ARC-56 Algorand smart-contract clients for DedMoroz38/AI-assisted-NFT-deployment.
+2026-10-04T13:22:00Z,arc56-generated-deepa-b4a89f10,1.2.2026072010,DeepanIsCool,,30284,Generated ARC-56 Algorand smart-contract clients for DeepanIsCool/Solyrix-Algorand.
+2026-10-04T13:23:04Z,arc56-generated-defru-da979c7a,1.2.2026072010,DeFruit,,24513,Generated ARC-56 Algorand smart-contract clients for DeFruit/micro-amm-contract.
+2026-10-04T13:29:29Z,membase-core,0.2.0,,Proprietary,26222307,The Membase memory engine (compiled). Use it through membase-ai.
+2026-10-04T13:29:35Z,autogen-nti,0.1.0,Abisheak <abisheakp197@gmail.com>,PolyForm-Shield-1.0.0,9650,Full 5-pillar NTI post-quantum security for AutoGen and Microsoft Agent Framework.
+2026-10-04T13:30:13Z,pitlane,0.1.0,bilal-psd,MIT,48433,"Formula 1 in your terminal: live timing, standings, results and the season calendar."
+2026-10-04T13:32:36Z,derico.blicca.metadatablock,1.0.0a1,Maik Derstappen <md@derico.de>,GPL-2.0-or-later,593456,"Aurora Metadata blocks: show the content item's own metadata fields (title, description, dates, tags, ...) as blocks, singly or as a section"
+2026-10-04T13:34:08Z,derico.blicca.actionsblock,1.0.0a1,Maik Derstappen <md@derico.de>,GPL-2.0-or-later,460023,"Aurora Actions block: renders one category of Plone actions (site actions, portal tabs, user, object actions) as a list of links"
+2026-10-04T13:34:25Z,fastapi-gql-mcp,0.4.0,tangkikodo,MIT,307638,"FastAPI → GraphQL → MCP: turn any FastAPI router into a GraphQL query layer + MCP server, zero decorators."
+2026-10-04T13:34:45Z,watertight,0.1.0,watertight contributors,MIT,185066,"Free, open-source terminal app that repairs STL files for 3D printing."
+2026-10-04T13:35:46Z,ts3-web-query,0.1.0,suntrackspb,MIT,72023,"Asynchronous, fully typed Python client for the TeamSpeak 3 HTTP WebQuery API"
+2026-10-04T13:35:53Z,enaho-pipeline,1.0.0,,MIT,206669,Diagnóstico automatizado de calidad de datos sobre módulos de la ENAHO
+2026-10-04T13:36:39Z,collective.blicca.footerblocks,1.0.0a1,Maik Derstappen <md@derico.de>,GPL-2.0-or-later,344959,Blicca rendering of editable footer blocks (collective.volto.footer) on stock Plone and plone.pageletlayout sites
+2026-10-04T13:37:57Z,virtualbox-discord-rpc,1.0.0,yxdooo,MIT,39619,Discord Rich Presence client for Oracle VM VirtualBox
+2026-10-04T13:38:08Z,ziping,0.0.1,,MIT,2906,Ziping (子平) — Orthodox Ziping Bazi (Four Pillars) engine. Name reservation placeholder; full release coming soon.
+2026-10-04T13:38:40Z,OnConf,1.0.0,HanYang06,Apache-2.0,157796,"Configuration has no verbs: one name reads and writes it, in both directions, without losing a byte or an update."
+2026-10-04T13:39:37Z,ffpsd,0.0.1,,MIT,4575,Read and write Photoshop PSD and PSB files; Python bindings to the ffpsd library are on the way
+2026-10-04T13:42:07Z,meta-retroduction,0.0.2,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,47506,A machine that does meta-retroduction.
+2026-10-04T13:43:33Z,sltmodel,0.1.0,fangface,MIT,40989,GUI-independent data models and operations for StructLayoutToolkit
+2026-10-04T13:45:11Z,swarmbots,0.1.0a1,Dominik Baron <dominik.b4ron@gmail.com>,Apache-2.0,4880060,A GPU-vectorized multi-agent benchmark for self-assembling modular robots.
+2026-10-04T13:45:43Z,derico.blicca.promoblock,1.0.0a1,Maik Derstappen <md@derico.de>,GPL-2.0-or-later,882242,"Aurora Promo block: an authored promo card with kicker, title, description, image and calls to action"
+2026-10-04T13:47:11Z,pystakan,0.2.0,Stakanex,MIT,89730,"Python client for the Stakanex API: RUB ↔ USDT exchange, deposits, withdrawals and partner clients"
+2026-10-04T13:48:42Z,voice-evals,0.1.1,Gjusev,Apache-2.0,24996,"Evaluation harness for voice agents: live WER, latency budgets, barge-in behavior and task outcomes, with CI regression gates."
+2026-10-04T13:49:05Z,pylcp-jax,0.0.1,Johan Palm <johan.palm2000@gmail.com>,,6400733,"GPU-accelerated laser cooling physics: optical Bloch equations, rate equations and batched Monte Carlo trajectories (JAX)"
+2026-10-04T13:49:20Z,cryptoagility,0.1.2,Maobyte Innovations Ltd,AGPL-3.0-or-later,54151,"Cryptographic asset discovery and CBOM generation — find every cryptographic asset, classify its quantum exposure, and produce an audit-ready migration register"
+2026-10-04T13:49:25Z,apisdkopti24,0.0.1,Andrey Raspopov <andrey.raspopov@gmail.com>,MIT,351597,Асинхронный Python SDK для Opti24 API — API топливных карт АЗС
+2026-10-04T13:53:53Z,agentforge-agentrelay,0.1.0,AgentForge Labs,AGPL-3.0-only,56049,Official Python client and CLI for the hosted AgentRelay service
+2026-10-04T13:53:53Z,openjoule,0.0.1,Abi Aryan <dev@joule.com>,Apache-2.0,57735,"Plant-level inference and control engine for AI infrastructure. Estimates plant state under partial observation, forecasts outcomes under specified actions, imposes interventions, and measures result…"
+2026-10-04T13:55:34Z,vispek-hc-viewer,0.1.0,"Jian Liu <jian.liu@vispek.cn>, ""VISPEK Technology Co., Ltd"" <contact@vispek.cn>",Apache-2.0,185084,"Local web viewer for the Vispek HC1500 multispectral camera: live view, LED control, scans, spectra"
+2026-10-04T14:01:07Z,joshu,0.3.0,Joshu Community,"MIT License Copyright (c) 2025 FAYCAL RAGHIBI Permission is hereby granted, free of charge, to any…",620433,A coding agent for the terminal that works with any OpenAI-compatible model
+2026-10-04T14:01:07Z,mcp-voice-summary,0.1.0,Eduardo Pablo Lopez Sanchez,"MIT License Copyright (c) 2026 Eduardo Pablo Lopez Sanchez Permission is hereby granted, free of ch…",68677,"MCP server that reads task summaries out loud, offline or with neural voices"
+2026-10-04T14:01:20Z,airflow-provider-darkmoon,0.1.0,ASC-IT (Darkmoon),Apache-2.0,33540,Apache Airflow provider for Darkmoon: trigger autonomous AI pentest campaigns and consume their findings from a DAG (Darkmoon Pro Dashboard API).
+2026-10-04T14:03:06Z,MLTS-point-mass,0.1.0,Giacomo Corradini <giacomo.corradini@unitn.it>,MIT,29040,"Minimum lap time simulation (OCP) of a point mass model with generic GGV constraints, in CasADi"
+2026-10-04T14:04:33Z,ziping-bazi,0.0.1,,MIT,2999,Ziping (子平) — Orthodox Ziping Bazi (Four Pillars) engine. Name reservation placeholder; full release coming soon.
+2026-10-04T14:04:37Z,geoctl,0.1.0,Aman Kushwaha,AGPL-3.0-only,213913,"Audit whether AI systems can reach, read, and answer questions from your website"
+2026-10-04T14:04:54Z,vixl-engine,0.15.0,,,2367747,A headless image-document engine designed for autonomous AI agents
+2026-10-04T14:06:47Z,tiny-pacs-audit,0.1.0,Pavel 'Blane' Tuchin,MIT,34266,Append-only audit trail component for tiny_pacs
+2026-10-04T14:10:05Z,vibexray,0.1.0,Xavier Puspus <xpuspus@gmail.com>,MIT,5967481,"X-ray an AI-built prototype: what is real, what is fake, what can break, and what the PM still has to decide"
+2026-10-04T14:15:55Z,factstore,0.1.0,Victor Zhang,MIT,156177,"A fact store for agents, on Postgres: registered attributes and values, every write a transaction with its actor and evidence."
