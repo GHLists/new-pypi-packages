@@ -1,0 +1,13 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T01:30:25Z,ecofx,0.2.0,,,38393,Estimate the energy use and carbon emissions of Python programs
+2026-10-04T01:36:42Z,clocx,0.2.0,Logan Dapp <logan@logand.app>,GPL-2.0-only,29117084,"Count lines of code and watch where work is happening, across git worktrees"
+2026-10-04T01:49:36Z,sasakscript,0.8.0,SasakScript Working Group,MIT,964408,A Linguistically-Aware Bidirectional Transliteration Library and Benchmark for Sasak Language and Script
+2026-10-04T01:55:57Z,openreactor,2.0.0a1,FAST Research Group,AGPL-3.0-or-later,42083,"Supervise benchtop lab reactors from a Raspberry Pi: temperature, mixing, dosing and water chemistry, with recorded runs."
+2026-10-04T01:56:23Z,reuseloader,0.1.0,Tyndall-log,MIT,22999,Deterministic sample-reuse schedule and disk-backed DataLoader for PyTorch input bottlenecks.
+2026-10-04T01:58:59Z,woodpecker-to-forgejo,0.1.2,Paul Traylor,MIT,10303,Woodpecker plugin for uploading to Forgejo instance
+2026-10-04T02:10:32Z,agent-video-studio,1.0.0,ansaribilal1402 <noreply@github.com>,MIT,40667,"Multi-agent system that turns a content idea + source TikToks into a publish-ready YouTube compilation video (16:9, blurred background, centered vertical source)."
+2026-10-04T02:14:04Z,dreadster3-youtube-mcp,0.1.0,,,250488,"Self-hosted MCP server exposing YouTube transcripts, search, comments and stats."
+2026-10-04T02:15:42Z,ansible-vaultsearch,0.1.0,Chuck Nemeth,MIT,48493,Recursively search encrypted Ansible Vault files using regular expressions.
+2026-10-04T02:17:08Z,cortrix-mcp,1.0.0rc2,Cortrix,Apache-2.0,53681,Cortrix MCP Server — expose the Cortrix HTTP API as MCP tools for IDE agents (Claude Code / Cline / Cursor).
+2026-10-04T02:17:10Z,cortrix-skills,1.0.0rc2,Cortrix,Apache-2.0,57077,Cortrix Skill SDK — framework adapters (LangChain / Claude Tools / OpenAI Function Calling) over the Cortrix Python SDK
+2026-10-04T02:17:14Z,ssannssarr.zuni,0.1.0,ssannssarr,MIT,36592,A terminal research assistant with web search and cited answers.
