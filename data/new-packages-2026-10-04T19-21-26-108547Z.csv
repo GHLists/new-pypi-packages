@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T18:22:13Z,airteam,0.0.1,Prateek Pulastya,Apache-2.0,89927,"Open-source security testing for AI applications and their APIs, with oracle-confirmed evidence and regression."
+2026-10-04T18:22:54Z,saynwerk-pystove,0.3.0rc1,Milan van Nugteren,GPLv3+,129152,A library to interface with HWAM wood burning stoves.
+2026-10-04T18:24:09Z,qtty-py,0.1.1,VPRamon <vallespuigramon@gmail.com>,AGPL-3.0,13022197,"Fast, type-safe physical quantities for Python (powered by Rust)"
+2026-10-04T18:24:43Z,typedstandards,0.1.0,Nathan Storey,MIT,1054410,"Sign, withdraw, attest to, build views of and verify Typed Standards records from Python, through @typedstandards/cli as a child process."
+2026-10-04T18:25:44Z,forge-cpp-mcp,0.2.1,ForgeMCP contributors,MIT,1842883,A safe MCP server for structured C++ project development workflows.
+2026-10-04T18:27:32Z,lunas-validator,0.1.0,Novesteria <hello@novesteria.com>,Apache-2.0,269809,A deterministic validator for AI-generated code.
+2026-10-04T18:31:20Z,wallatag,0.1.0,Marty Oehme <contact@martyoeh.me>,MIT,192456,AI-assisted auto-tagger for wallabag
+2026-10-04T18:31:35Z,exactref,0.0.1,,MIT,5646,Pure-Python reference implementations for checking numerical results (name reservation; in development)
+2026-10-04T18:32:53Z,humancalib,0.3.1,Florian Delaplace,MIT,377501,Multi-camera extrinsic calibration from human pose
+2026-10-04T18:34:09Z,sota-anchor,0.2.0,Luckman Qasim,MIT,761802,"Finds libraries, tools and research released after your coding agent's training, before it rebuilds them from scratch: a search of the last year of papers, repositories and packages, as an MCP server…"
+2026-10-04T18:34:32Z,golem-fleet,0.0.1,Lakin Wecker <lakin.wecker@gmail.com>,AGPL-3.0-only,81431,"Declare a fleet of machines and the components placed on them, and render what golemctl, pulumi and provisioning consume."
+2026-10-04T18:37:16Z,trace-stat,0.1.0,Frederick Atisai,MIT,37970,Structured logging for Python statistical programming.
+2026-10-04T18:39:31Z,ncplot7py,0.2.0,d-creations,LGPL-3.0,360455,ncplot7py — CNC machine simulation and toolpath generation engine
+2026-10-04T18:39:41Z,vajra-verify,0.1.2,Ashish Sharda,MIT,58886,"Change receipt for AI-generated diffs: what changed, what can break, what a human must read before merge."
+2026-10-04T18:40:05Z,spitzeisen,0.1.0,dodofarm,,73381,A shared async/sync core for REST API SDKs
+2026-10-04T18:42:11Z,phos-core,0.0.0,,,2694,"Placeholder for phos-core, the ELE Optics optical physics engine. No code yet."
+2026-10-04T18:42:15Z,alpine-code-core,0.1.0,tgoddessana,MIT,164542,The UI-agnostic agent core of alpine-code
+2026-10-04T18:42:28Z,alpine-code,0.1.0,tgoddessana,MIT,36277,A terminal coding agent built on alpineagents
+2026-10-04T18:43:33Z,abb-observability,0.1.1,Mainak Sen,MIT,93301,A production-oriented observability and tracing toolkit for AI agents.
+2026-10-04T18:43:49Z,alogs-cli,0.1.0,Vasil Khodzin,MIT,133941,Console analyzer for Android logs (logcat files and live adb)
+2026-10-04T18:44:39Z,scigantic-who,0.1.0,Scigantic <support@scigantic.com>,MIT-0,35256,"Query every WHO Global Health Observatory indicator from a public parquet mirror over DuckDB (one query instead of 3,099 API calls), decode WHO's dimension codes, or fetch a fresh indicator from the…"
+2026-10-04T18:45:14Z,sipral,1.1.0,Sytek,AGPL-3.0-only OR LicenseRef-Sipral-Commercial,13849191,"Sipral - Session Initiation Protocol Rust Audio Layer. The Python binding over the C ABI, with the native library inside the wheel."
+2026-10-04T18:45:21Z,sipral-opus,1.1.0,Sytek,AGPL-3.0-only OR LicenseRef-Sipral-Commercial,12198003,"Sipral - Session Initiation Protocol Rust Audio Layer. The Python binding over the C ABI, with the native library inside the wheel."
+2026-10-04T18:46:08Z,ecbtkit,0.1.1,Emmanuel Emmanuel Etim <emmanuel224etim089@gmail.com>,MIT,126995,Starlette-based Python framework for computer-based tests and online examinations
+2026-10-04T18:47:16Z,pylimid,0.1.0,pylimid developers,Apache-2.0,842903,Mixed-type limited-memory influence diagrams on NumPyro.
+2026-10-04T18:47:35Z,fashion-size,0.1.0,Andy Babic <andyjbabic@gmail.com>,BSD-3-Clause,62414,"Size types, locale conversion, and brand size charts."
+2026-10-04T18:54:40Z,skill-factory,0.2.0,François Chastel <francois@chastel.co>,MIT,254835,"Scientifically optimize portable agent skills (SKILL.md) across harnesses using pluggable optimizers (custom loop, DSPy/GEPA, Microsoft SkillOpt)."
+2026-10-04T18:55:17Z,tempoch,0.2.1,VPRamon <vallespuigramon@gmail.com>,AGPL-3.0,11054224,Astronomical time primitives for Python (powered by Rust)
+2026-10-04T18:55:21Z,xiaomi-weather,0.1.0,Shiroki Satsuki <me@shirok1.dev>,Apache-2.0,192061,Typed asyncio client for Xiaomi Weather
+2026-10-04T19:00:43Z,micpy-audio,0.0.3,,,2871,A simple Python library for microphone and audio management.
+2026-10-04T19:01:02Z,recently-splatted-with,1.0.0,Shadow Doggo <shadowdoggo@protonmail.com>,MIT,105938,GUI application to view a list of players you've recently encountered in Splatoon matches using Splatlogger logs
+2026-10-04T19:02:01Z,siderust,0.2.1,VPRamon <vallespuigramon@gmail.com>,AGPL-3.0,90373531,Astrometry and astrodynamics for Python (powered by Rust)
+2026-10-04T19:02:33Z,vidpy-video,0.0.2,,,3739,A simple Python library for webcam and video management.
+2026-10-04T19:05:32Z,basement-gateway,0.1.0,,MIT,203754,
+2026-10-04T19:07:23Z,cloudme-notify,1.0.0,CloudMe,MIT,59307,"Official Python SDK for the CloudMe Notify multi-channel notification API (SMS, Telegram, WhatsApp, Voice, Email, Push)."
+2026-10-04T19:07:42Z,cloudme-notify-django,1.0.0,CloudMe,MIT,28609,Django integration for the CloudMe Notify multi-channel notification API - built on top of cloudme-notify.
+2026-10-04T19:08:37Z,agentguard-auth,0.1.0,Shubham,MIT,8800,Python SDK for the AgentGuard AI Agent Authorization API
+2026-10-04T19:09:28Z,fast2dev-dbt-runner,0.0.1,M7XLab <support@fast2.dev>,MIT,116075,"Airflow 3 operators that turn a dbt 1.12 manifest into DAGs for Fast2.Dev (k8s, bash, API, and GKE)."
+2026-10-04T19:13:58Z,aapt-guard-rails,0.1.0,AAPT,Apache-2.0,34479,"OWASP-mapped, CVSS-scored AI-security guardrails for LLM gateways (LiteLLM and more)."
+2026-10-04T19:16:19Z,hypergraph-viz,0.1.0,,MIT OR Apache-2.0,7517357,Rust-backed HIF interchange and native Hyper viewer launcher
+2026-10-04T19:18:19Z,zavis,0.1.0,Bobby Warren,,90291,"Local multiproject dependency manager for Python, Node, Rust, Go and C#"
+2026-10-04T19:18:53Z,pasteglint,0.1.0,,MIT,5927,Find invisible characters and explain copy-paste text differences.
+2026-10-04T19:18:54Z,watchbudget,0.1.0,,MIT,6274,"Plan sequential viewing with playback speeds, breaks, and a time budget."
+2026-10-04T19:18:55Z,shufflejar,0.1.0,,MIT,7137,"Persistent shuffle bags for everyday choices, with undo."
+2026-10-04T19:18:56Z,pantryfold,0.1.0,,MIT,7130,"Merge grocery quantities, scale servings, and subtract pantry stock."
+2026-10-04T19:19:50Z,tensorcodec-av,0.3.0,Suhwan Choi <milkclouds00@gmail.com>,Apache-2.0 AND LGPL-3.0-or-later AND BSD-2-Clause,33506902,FFmpeg-based audio/video decoders for tensorcodec
+2026-10-04T19:19:57Z,lkml-blastradius,0.1.0,Venkata Sangaraju,Apache-2.0,118688,"The blast radius of every Looker change: which dashboards, Looks, explores and Conversational Analytics agents a LookML deploy or Google release affects, reported daily."
+2026-10-04T19:20:49Z,camlet,1.0.0,,,19924,Package for writing plugins for the camlet webcam application.
