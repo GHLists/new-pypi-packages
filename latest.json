@@ -1,12 +1,19 @@
 {
   "list": {
-    "count": 20,
-    "from": "2026-10-04T03:18:38.263673Z",
-    "path": "data/new-packages-2026-10-04T04-18-39-257903Z.csv",
-    "to": "2026-10-04T04:18:39.257903Z"
+    "count": 15,
+    "from": "2026-10-04T04:18:39.257903Z",
+    "path": "data/new-packages-2026-10-04T05-18-35-042815Z.csv",
+    "to": "2026-10-04T05:18:35.042815Z"
   },
-  "pending": [],
-  "serial": 41789780,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-04T05:06:15Z",
+      "package": "FBNNET",
+      "since": "2026-10-04T04:18:39.257903Z"
+    }
+  ],
+  "serial": 41790638,
   "source_truncated": false,
-  "window": "2026-10-04T04:18:39.257903Z"
+  "window": "2026-10-04T05:18:35.042815Z"
 }

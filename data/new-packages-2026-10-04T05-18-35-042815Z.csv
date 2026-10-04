@@ -1,0 +1,16 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T04:27:52Z,client-attestation-sdk,0.2.0,ID Partners Pty Ltd,Apache-2.0,185074,Client-side builder SDK for OAuth Attestation-Based Client Authentication
+2026-10-04T04:28:03Z,getyoutubetranscript,0.3.0,tubeagentkit,MIT,35982,"YouTube transcript API for Python: get YouTube video transcripts, captions and subtitles with timestamps, search YouTube, and list channel and playlist videos. No proxies or headless browser."
+2026-10-04T04:34:41Z,aws-analyzer,0.1.0,Utkarsh Priyadarshi,Apache-2.0,914588,"Readable reports on your S3 buckets, DynamoDB tables, Bedrock knowledge bases and SageMaker notebooks, from a Jupyter notebook: what's there, what it costs, and what to do next."
+2026-10-04T04:35:31Z,canhoto,0.1.0,luabagg,MIT,130714,"Local bank statement ledger: parse, categorize, and export monthly PDF summaries (CLI and MCP)"
+2026-10-04T04:36:22Z,lcd-qec,0.1.0,,Apache-2.0,154948,Rigorous logical-error bounds for matching decoders on stim detector error models (logical coset distinguishability)
+2026-10-04T04:46:55Z,asexec,0.3.14,Luke Whitestone,Apache-2.0,79665,Pre-registration & notarization primitive for AI evaluations — commit-then-reveal receipts so silence becomes evidence
+2026-10-04T04:51:17Z,china-law-mcp,0.1.1,,MIT,3443798,中国法律条文 MCP 服务器：2.3 万条现行法条检索 + 引用核验（防幻觉），免费、免注册、免 API key
+2026-10-04T04:54:23Z,pcli-agent,0.1.0,Vikas NV <vikas.nv@gmail.com>,MIT,870745,"An opencode-style AI coding agent CLI/TUI for Python, with a Python discovery tool and an OS/software toolbox."
+2026-10-04T05:01:16Z,cafa-ivr,1.1.0,Vijay Kumar Sridharan,Apache-2.0,32164,Reference implementation of Counterfactual ASR Failure Attribution for conversational IVR
+2026-10-04T05:06:56Z,reason-machines-harbor,0.3.1,,,68138,Harbor adapter for the public Reason Machines portable worker
+2026-10-04T05:08:22Z,flowocr,0.1.0,caca2331,GPL-3.0-or-later,1180420,从视频里抽全部屏幕文字、带起止时间、按区域聚类，导出 SRT / ASS
+2026-10-04T05:08:52Z,icebergdb,0.1.0,Iceberg Data Technologies,MIT,9537,Iceberg — High-performance serverless vector database for AI agents and RAG applications
+2026-10-04T05:09:51Z,thumbforge,0.1.0,Gishant Singh,MIT,734086,"Generate consistent, spec-compliant YouTube thumbnails from a hero image and a playlist."
+2026-10-04T05:12:18Z,langchain-getyoutubetranscript,0.1.0,tubeagentkit,MIT,14456,"YouTube transcript tools and document loader for LangChain: get YouTube video transcripts with timestamps and search YouTube from agents and RAG pipelines, via the GetYouTubeTranscript API."
+2026-10-04T05:17:15Z,crewai-getyoutubetranscript,0.1.0,tubeagentkit,MIT,10916,"YouTube transcript tools for CrewAI agents: get YouTube video transcripts with timestamps, search YouTube, and list channel videos, via the GetYouTubeTranscript API."
