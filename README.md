@@ -8,27 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 00:18 UTC
+## Latest list — 2026-10-04 01:19 UTC
 
-New packages created between 2026-10-03 23:18 UTC and 2026-10-04 00:18 UTC.
+New packages created between 2026-10-04 00:18 UTC and 2026-10-04 01:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-04T00-18-39-982022Z.csv)
+[Full CSV](data/new-packages-2026-10-04T01-19-03-674135Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-03 22:56:37 | [geodesicdomes](https://pypi.org/project/geodesicdomes/) | 1.3.3 | Masahiro Takatsuka <masa@taka… | 184.9 kB | Geodesic domes (icosahedral, tetrahedral and dodecahedral spherical lattices) w… |
-| 2026-10-03 23:32:55 | [mcp-server-ecommerce](https://pypi.org/project/mcp-server-ecommerce/) | 0.1.0 |  | 226.1 kB | MCP server exposing the e-commerce multi-agent workflow tool inventory (70 tool… |
-| 2026-10-03 23:37:51 | [rewalto](https://pypi.org/project/rewalto/) | 0.0.1 |  | 1.9 kB | Rewalto: useful data for people and AI agents. The official Python SDK will be… |
-| 2026-10-03 23:41:07 | [virgil-astro](https://pypi.org/project/virgil-astro/) | 0.2.0 | Max Charles | 296.2 kB | VIRGIL, the Versatile Interferometric Reconstruction and Gradient-based Inferen… |
-| 2026-10-03 23:46:33 | [govec](https://pypi.org/project/govec/) | 0.1.0 | Pradyoth | 51.6 kB | Python client for GoVec, a compact vector search engine, over REST or gRPC |
-| 2026-10-03 23:46:55 | [styletransfer-lite](https://pypi.org/project/styletransfer-lite/) | 0.1.0 | Ekaghni <ekaghni.mukherjee@gm… | 5.8 MB | Fast neural style transfer in Python: 26 built-in styles, any painting as a sty… |
-| 2026-10-03 23:48:05 | [routemap-engine](https://pypi.org/project/routemap-engine/) | 0.2.1 | osintph <sb@osintph.info> | 1.3 MB | Hostname-first, physics-checked traceroute geolocation: parsers, CAIDA Hoiho cl… |
-| 2026-10-04 00:02:04 | [screenstocks-bridge](https://pypi.org/project/screenstocks-bridge/) | 0.2.0 |  | 16.5 kB | Python client for the local Screen Stocks BepInEx bridge |
-| 2026-10-04 00:02:15 | [hajer](https://pypi.org/project/hajer/) | 0.1.0 | Hajer | 505.9 kB | The Hajer SDK: hand a verifier the request, the output and the evidence, get an… |
-| 2026-10-04 00:08:27 | [multi-agent-observability](https://pypi.org/project/multi-agent-observability/) | 0.1.0 | nunar-nexus-forge | 139.0 kB | MA-Trace: causal tracing, coordination SLOs and deterministic replay for multi-… |
-| 2026-10-04 00:08:36 | [agent-chaos-engineering](https://pypi.org/project/agent-chaos-engineering/) | 0.1.0 | nunar-nexus-forge | 120.7 kB | Chaos engineering and self-healing recovery patterns for multi-agent LLM system… |
-| 2026-10-04 00:08:50 | [agent-tool-guardrails](https://pypi.org/project/agent-tool-guardrails/) | 0.1.0 | nunar-nexus-forge | 117.3 kB | Typed policy rails for agent-tool calls: a policy compiler that turns declarati… |
-| 2026-10-04 00:09:04 | [gridhour](https://pypi.org/project/gridhour/) | 0.1.0 |  | 91.6 kB | When British electricity is green and cheap: a 48 hour carbon intensity and Agi… |
-| 2026-10-04 00:09:41 | [cherami](https://pypi.org/project/cherami/) | 0.1.0 | Cherami | 117.9 kB | Official Cherami HTTP client: inboxes, correspondence, drafts, attachments and… |
-| 2026-10-04 00:13:34 | [metaclock-analysis-workflows](https://pypi.org/project/metaclock-analysis-workflows/) | 0.1.0 |  | 20.1 kB | Reproducible analysis and plotting workflows for MetaClock |
-| 2026-10-04 00:14:32 | [diescope](https://pypi.org/project/diescope/) | 0.0.1 | "TAHO, Inc." <hi@diescope.dev> | 12.5 kB | See what your silicon is actually doing. Chip-level utilization for GPUs, CPUs,… |
+| 2026-10-04 00:19:44 | [inverge-nexus](https://pypi.org/project/inverge-nexus/) | 1.0.0 | Inverge <info@inverge.net> | 243.2 kB | Nexus — one Python SDK for all Inverge Nexus services (analytics, logs, errors,… |
+| 2026-10-04 00:21:17 | [mua-driver](https://pypi.org/project/mua-driver/) | 0.3.0 | MUA Driver contributors | 614.0 kB | Mobile-use driver for Android and iOS devices, inspired by CUA Driver. |
+| 2026-10-04 00:24:12 | [cihuang](https://pypi.org/project/cihuang/) | 0.2.3 | CodeOfMe <wedonotuse@outlook.… | 85.1 kB | A PySide6 SVG editor: open an SVG, click any element to drag it, recolor it, ed… |
+| 2026-10-04 00:26:31 | [aging-metaclock](https://pypi.org/project/aging-metaclock/) | 0.1.0 |  | 18.8 kB | Reproducible analysis and plotting workflows for MetaClock |
+| 2026-10-04 00:33:50 | [g-updatekit](https://pypi.org/project/g-updatekit/) | 0.1.0 | Ghostals | 22.6 kB | A lightweight, importable update checker for Python desktop applications |
+| 2026-10-04 00:33:51 | [vesma-vitals](https://pypi.org/project/vesma-vitals/) | 0.1.0 |  | 34.0 kB | Honest measurement methodology and instrumentation for the vesma memory server:… |
+| 2026-10-04 00:41:55 | [uringpy](https://pypi.org/project/uringpy/) | 0.1.0 | Marimuthu Velayutham | 216.1 kB | A GIL-aware io_uring runtime for CPython that scales across cores within one in… |
+| 2026-10-04 00:44:35 | [botscent](https://pypi.org/project/botscent/) | 1.0.0 | Nalin Bhardwaj | 77.1 kB | Tells a website when software rather than a person is operating a visit, and na… |
+| 2026-10-04 00:44:50 | [twinfit](https://pypi.org/project/twinfit/) | 0.0.1 | Michelangelo Dondi | 11.8 kB | Bias correction of a fit through a simulator of the data (indirect inference) |
+| 2026-10-04 00:46:22 | [runtime-trace](https://pypi.org/project/runtime-trace/) | 0.1.0 | Jack Sessions | 62.6 kB | Runtime cross-layer consistency checker for Linux: eBPF-powered process/module… |
+| 2026-10-04 00:51:32 | [wellbore-cli](https://pypi.org/project/wellbore-cli/) | 0.1.0 | elf004-star <1873475824@qq.co… | 67.7 kB | A lightweight REST client and progressive-disclosure skill for Wellbore Studio |
+| 2026-10-04 00:52:45 | [Qwen3TTSui](https://pypi.org/project/Qwen3TTSui/) | 0.1.0 |  | 10.4 kB | Tiny standard-library loader and runner for remote Python profiles |
+| 2026-10-04 00:52:57 | [kubetriage](https://pypi.org/project/kubetriage/) | 0.1.0 | Jenish Mistry | 162.2 kB | Read-only Kubernetes diagnosis MCP server for CLI coding agents. |
+| 2026-10-04 00:54:17 | [nonebot-adapter-github-user](https://pypi.org/project/nonebot-adapter-github-user/) | 0.1.0 |  | 59.5 kB | NoneBot2 GitHub 用户账号适配器：以专用 GitHub 账号的网页会话登录并访问 GitHub |
+| 2026-10-04 00:55:08 | [geosom](https://pypi.org/project/geosom/) | 1.1.2 | Masahiro Takatsuka <masa@taka… | 261.7 kB | Self-Organising Maps on geodesic domes (spherical SOM) and flat hexagonal/recti… |
+| 2026-10-04 00:55:16 | [oxedi835](https://pypi.org/project/oxedi835/) | 0.0.1a1 |  | 1.2 MB | Lossless, fast, data-driven EDI 835 parser |
+| 2026-10-04 00:59:46 | [rules-doctor](https://pypi.org/project/rules-doctor/) | 0.1.0 | Hao Li | 34.7 kB | Health-check your CLAUDE.md / AGENTS.md rule files: dead @imports, shadowed fil… |
+| 2026-10-04 00:59:48 | [deny-probe](https://pypi.org/project/deny-probe/) | 0.1.0 | Hao Li | 34.0 kB | Penetration tester for Claude Code permission deny rules |
+| 2026-10-04 00:59:51 | [subagent-tax](https://pypi.org/project/subagent-tax/) | 0.1.0 | hao li | 12.0 kB | Estimate how much of your Claude Code bill is subagent preamble resends |
+| 2026-10-04 01:11:12 | [atengk-mcp-server-rdbms](https://pypi.org/project/atengk-mcp-server-rdbms/) | 1.0.0 | 孔余 | 80.9 kB | Universal Relational Database Model Context Protocol (MCP) Server powered by SQ… |
+| 2026-10-04 01:12:26 | [amador-transform](https://pypi.org/project/amador-transform/) | 1.0.0 | Francisco Amador Barrios Espi… | 26.8 kB | Librería de optimización topológica basada en flujos incompresibles, Variedades… |
+| 2026-10-04 01:16:15 | [datadiffx](https://pypi.org/project/datadiffx/) | 1.0.0 | Mahendran Chinnaiah <mahendra… | 5.3 kB | High-performance Excel reconciliation engine wrapper. |
