@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T16:21:40Z,omnibias-partition,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,AGPL-3.0-or-later OR LicenseRef-omnibias-Commercial,82558,"Trainable soft partitions of unity: oblique, axis-aligned and sparse gates, regional expert composition, temperature hardening and scoped membership-gap certificates, with NumPy, PyTorch and JAX impl…"
+2026-10-04T16:21:46Z,omnibias-qcalculus,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,Apache-2.0,63523,"Quantum / q-calculus: exact q-numbers, q-factorials, Gaussian (q-)binomials and q-Pochhammer symbols, the Jackson q-derivative and q-integral, q-exponentials and q-deformed Bernoulli / Euler numbers,…"
+2026-10-04T16:21:50Z,omnibias-graph,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,AGPL-3.0-or-later OR LicenseRef-omnibias-Commercial,69056,"Differentiable spectral graph operators (Laplacians, spectral embedding, heat kernel) and continuous combinatorial relaxations (Gumbel-Sinkhorn, SoftSort, soft top-k) with torch + jax bit-parity."
+2026-10-04T16:22:24Z,evorl-jax,0.1.0,Bowen Zheng <bowen.zheng@protonmail.com>,,489873,An efficient Evolutionary Reinforcement Learning Framework on Jax
+2026-10-04T16:23:47Z,messidata,0.1.0,Sriravi Provez <sriravi@provez.ai>,MIT,881898,⚽ The GOAT of data wrangling — a Messi tribute + Rust-powered CLI.
+2026-10-04T16:24:39Z,omnibias-struct,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,AGPL-3.0-or-later OR LicenseRef-omnibias-Commercial,310800,Certified differentiable dynamic programming: soft Viterbi / shortest-path / CTC layers whose logsumexp_beta relaxation (the beta->inf temperature axis) is differentiated exactly by the closed-form s…
+2026-10-04T16:25:18Z,Calculator-k,2.0.0,Kaveen Kumar,,3663,A simple beginner-friendly Python math package
+2026-10-04T16:26:33Z,tiebreak-core,1.2.0,20kevit,MIT,189399,Standalone FIDE chess tie-break calculation library for individual and team tournaments
+2026-10-04T16:27:49Z,omnibias-discrete,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,AGPL-3.0-or-later OR LicenseRef-omnibias-Commercial,87316,"Shared differentiable + certified discrete-optimization substrate for omnibias: the DiscreteProblem seam, the annealed temperature-collapse (beta -> inf) sigmoid relaxation solved by unrolled descent…"
+2026-10-04T16:27:57Z,maf-sandbox-bubblewrap,0.1.0,SOKOLAI BV,MIT,32393,Linux namespace and cgroup sandboxes without a container engine.
+2026-10-04T16:28:02Z,xlfmt,0.1.0,,MIT,33353,Turn an Excel number format and a value into the string Excel shows.
+2026-10-04T16:31:15Z,flashflow,0.1.1,Pedro Alberto Rosquete Ares <rosquetearespedro06@gmail.com>,"MIT License Copyright (c) 2026 Pedro Alberto Rosquete Ares Permission is hereby granted, free of ch…",24520,"""flashflow"" is a set of programs written in python to make easier everyday workflow"
+2026-10-04T16:33:39Z,aiotic-sdk,0.1.2,DevOps Company <info@devopscompany.nl>,MIT,216365,"AIOTIC integration SDK: typed API client, ERP receive endpoint, validation pipeline, master-data sync, order watcher and a mock AIOTIC server."
+2026-10-04T16:35:10Z,spelunky2rl,0.1.1,vicbentu,MIT,598406,Gymnasium environments for Spelunky 2 reinforcement learning
+2026-10-04T16:35:38Z,pareto-ops,1.0.0,ParetoOps <team@paretoops.dev>,,14436305,"Cost per successful task for LLM apps: the Pareto frontier of cost vs accuracy, and CI gates for cost and accuracy regressions."
+2026-10-04T16:39:38Z,bioafferent,0.1.0,Bioafferent Contributors,MIT,61272,JAX-based proprioceptive sensory feedback: muscle spindle (Ia/II) and Golgi tendon organ (Ib) models with spike encoding
+2026-10-04T16:43:04Z,pepe-hyst,0.1.0,,,1608237,Monochrome level fix for RGB8 image arrays
+2026-10-04T16:43:50Z,sphinx-unbloated-theme,1.0.0,Jorge Martinez <contact@jorgemartinez.space>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",1043282,"A minimal, clean Sphinx theme with a monospace aesthetic."
+2026-10-04T16:46:51Z,mimedy,1.0.0,Olivier Chapeau,MIT,66215,"Organize messy folders by real file type, detected from content with Google Magika"
+2026-10-04T16:50:06Z,thumbhash-rs,0.1.0a1,Sita Berete,MIT,4128589,Fast ThumbHash bindings for Python using Rust (PyO3)
+2026-10-04T16:51:02Z,textual-echo-cancellation,0.1.0,Quan Wang,,105750,Textual Echo Cancellation (TEC) with Multi-Source Attention
+2026-10-04T16:53:00Z,prediction-bot-mcp,0.2.0,,MIT,16544,"MCP server for Polymarket/Kalshi X-sentiment scores, paid per call in USDC on Base via x402"
+2026-10-04T16:53:05Z,paymentsnp,1.0.0,,MIT,29551,"Official Python SDK for the Paymentsnp payment API (eSewa, Khalti, Fonepay checkout for Nepal)."
+2026-10-04T16:55:08Z,splitsocks,0.1.1,"""Armin \""Era\"" Ramezani"" <e@4d2.org>",,58258,"A SOCKS5 server, cut in half"
+2026-10-04T16:56:16Z,tuxaide,2.3.0,deltaXmodules,MIT,117150,Ask your terminal in plain English: a local AI assistant for bash and zsh
+2026-10-04T16:59:49Z,ferrum-cli,0.1.0,Ferrum contributors,Apache-2.0,83344,"A lightweight coding harness for low-level and systems programming: inspect, understand, patch, verify."
+2026-10-04T17:01:22Z,dimma,1.0.0,DiMMA,MIT,54718,Motor de seguranca ciberetica declarativo baseado em arquivos .dimma
+2026-10-04T17:02:14Z,oxpdf-python,1.1.0,isaim0011 <isaim0011@users.noreply.github.com>,MIT OR Apache-2.0,1074804,"Next-generation, blazing fast, layout-aware PDF parser and Markdown extractor in pure Rust"
+2026-10-04T17:02:58Z,satva,0.1.0,Hardik Bhimani <hardikbhimani@rocketmail.com>,,5895508,Run Satva data pipelines from Python
+2026-10-04T17:03:26Z,mnestiq,0.1.0,Mnestiq,Apache-2.0,133354,"Tamper-evident flight recorder for AI agents: hash-chained, signed evidence logs with provenance-tagged context."
+2026-10-04T17:04:32Z,membrane-memory,0.1.0,Membrane Contributors,Apache-2.0,102737,The programmable memory layer for AI.
+2026-10-04T17:07:02Z,scopeforge,0.1.0,Boopathi Raj <boopathi@neuronestai.in>,Apache-2.0,407825,ScopeForge — Commercial-Grade Cybersecurity Multi-Agent Harness & Interactive TUI
+2026-10-04T17:07:59Z,lumina-ui,0.6.0,Aesterin,MIT,49497,Hardware-accelerated Neo-Bento and Frosted Glass UI framework for Python
+2026-10-04T17:09:57Z,Gru-ESO,0.3.1,Cimbali <me@cimba.li>,EUPL-1.2,341413,Gru gets/removes/updates your ESO add-ons. Nothing to do with being minions’ boss.
+2026-10-04T17:11:09Z,owmark,0.8.0,Marko Jukic <jukic.marko@gmail.com>,GPL-3.0-or-later,241764,Layered post-hoc text watermark + generation-time watermark for marking and recognising your own text
+2026-10-04T17:12:46Z,ckpt-chaos,0.1.0,rkb32,MIT,65316,"Crash-consistency testing for ML training checkpoints: kill a save at every file boundary, resume, classify the outcome."
+2026-10-04T17:14:55Z,agentsec-agentwatch,0.1.0,Debashish Ghosal <deghosal@gmail.com>,Apache-2.0,664669,Execution traces for agent behavior - OpenTelemetry-style observability for AI agent workflows
+2026-10-04T17:15:40Z,veriq-sdk,0.2.0,"""Ecolyt.ai LLC"" <support@ecolyt.ai>",MIT,29792,"Official Python SDK for the Veriq AI search, extract, map, and crawl API (beta)"
+2026-10-04T17:17:42Z,python-calamine-plus,0.1.0,Asheer Mokry,MIT,39331968,"Fork of python-calamine that streams xlsx/xlsm sheets row by row in constant memory, with optional openpyxl-level detail (styles, formulas, comments, merged cells, hyperlinks, ...)"
