@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T14:32:45Z,sysml-api-client,0.1.0,,Apache-2.0,28522,Python client for the OMG Systems Modeling API and Services
+2026-10-04T15:23:16Z,helppeer,0.1.0,JenD86,MIT,24599,Asynchronous ephemeral file transfer for AI model weights
+2026-10-04T15:23:25Z,bedrockplus,0.1.0.dev1,Turkmen,,1176290,BedrockPlus server command and typed Python plugin API
+2026-10-04T15:23:44Z,aludam,1.0.0,Ashutosh Patra,MIT,92434,"Uniform deepfake / AI-content detection with scored, explained results."
+2026-10-04T15:23:56Z,aludam-fullplate,1.0.0,Ashutosh Patra,MIT,13972,"Neural tier of aludam: same API and DetectionResult, plus the full torch/transformers stack the detectors need."
+2026-10-04T15:25:27Z,talkthrough,0.1.2,"Ami Shah, Karan Bansal",MIT,61425,Turn any HTML page or PDF into a narrated walkthrough video of itself
+2026-10-04T15:26:42Z,ffbb-api-python,2.4.34,Nicolas De Simone <nicolas.desimone@gmail.com>,Apache-2.0,4629,"API FFBB (Python SDK) — Client officiel et asynchrone pour l'API de la Fédération Française de BasketBall (clubs, classements, calendriers, scores live)."
+2026-10-04T15:29:54Z,ChatDot,0.0.2,ChatArch <rex@chatarch.org>,MIT,9053,ChatArch Python package skeleton for ChatDot.
+2026-10-04T15:31:33Z,urirun-connector-kvm,0.3.1,if-uri,Apache-2.0,266453,Cross-platform KVM connector (screen capture + keyboard/mouse) for ifuri and urirun
+2026-10-04T15:32:21Z,twinerd-browser-vault,0.1.0,Tomasz Sapletta <info@softreck.com>,Proprietary,25452,"Browser profile snapshots, session cookie migration, and credential vault for Chrome, Chromium, and Firefox"
+2026-10-04T15:34:10Z,nohead,0.1.0,Nohead <hello@nohead.io>,MIT,92193,Official Python SDK for the Nohead API
+2026-10-04T15:35:56Z,google-ecommerce-mcp,0.1.4,MoonEyes <contact@mooneyeswargame.com>,MIT,108354,"Read-only MCP server giving AI assistants one door to the Google services an online shop lives on: GA4, Search Console, Merchant Center, Tag Manager, Indexing API and PageSpeed."
+2026-10-04T15:37:37Z,omnibias-binary,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,Apache-2.0,42810,Closed-form quantization gradients for binary/ternary/k-bit neural-network training via the omnibias tanh-beta Riccati derivative (torch + jax).
+2026-10-04T15:38:14Z,vyomgrid-agent-platform,0.0.1,,,2478,Name reserved by VyomGrid. The real package is installed from https://github.com/Mikhil1990/sdlc-agent-loop-marketplace/releases
+2026-10-04T15:42:15Z,omnibias-convex,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,AGPL-3.0-or-later OR LicenseRef-omnibias-Commercial,118858,"Differentiable + certified convex optimization (LP/QP) for omnibias: closed-form-Hessian log-barrier interior-point solver, KKT implicit-function gradients (argmin as a differentiable op), and verifi…"
+2026-10-04T15:42:29Z,taxsim-py,0.1.0,,MIT,989317,A dataframe-oriented Python implementation of NBER TAXSIM
+2026-10-04T15:43:27Z,gpuqviz,0.5.0,gpuqviz contributors,Apache-2.0,5805930,GPU-accelerated quantum state evolution visualization and video rendering
+2026-10-04T15:43:57Z,omnibias-boolean,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,Apache-2.0,90574,"Differentiable Boolean algebra: exact ANF/Reed-Muller and Walsh spectra, Boolean differential calculus, reproductive equation solving, and a beta-annealed soft-gate system solver built on the omnibia…"
+2026-10-04T15:45:56Z,lionelmessi,0.1.0,lionelmessi contributors,MIT,538096,"Scientific football analytics engine for Lionel Messi's career: xT, VAEP-style action values, continuation chains, goals, assists, and pitch-level visualizations."
+2026-10-04T15:47:17Z,datajig,0.5.0.dev1,,,12345905,Agent-native local dataset workspace with immutable revisions and semantic validation
+2026-10-04T15:47:38Z,sourcelens,0.0.1,Bhagesh,GPL-3.0-only,264831,"Collect the latest research on any topic: papers, preprints, open-access full texts, code and websites in one append-only catalogue."
+2026-10-04T15:48:03Z,gangmu-sbom,0.5.0,,Apache-2.0 (tool); CDLA-Permissive-2.0 (bundled rules),4761380,"Build-time SBOM for embedded C/C++, with a community rule base for vendor SDK components"
+2026-10-04T15:48:13Z,codex-reset-watch,0.20.0,Wes Kao,,12554474,Cross-platform monitor for codex-resets.com with Telegram notifications.
+2026-10-04T15:48:18Z,tinyfy,0.1.0,,MIT,30549,"Compress any file locally: images, PDFs, video, audio, Office documents, folders and more"
+2026-10-04T15:49:22Z,crumbs-i2c,0.15.0,Cameron K. Brooks,AGPL-3.0-or-later,41317,"CRUMBS for Python: the frame, its CRC, and a controller over Linux I2C"
+2026-10-04T15:50:09Z,handcode,0.3.0rc1,csdeepak,MIT,531146,"A coding agent whose work survives crashes, restarts and provider switches"
+2026-10-04T15:53:12Z,beets-unskipper,1.0.0,Florent Le Moël <25004801+FlorentLM@users.noreply.github.com>,MIT,1136092,Beets plugin to browse and edit the import state file (state.pickle) with a small TUI
+2026-10-04T15:53:17Z,fonts-andorra,0.2.0,Joan Alavedra,CC0-1.0,372360,Educational clients and an MCP catalog for public sources in Andorra
+2026-10-04T15:55:06Z,browscreen,0.2.1,Pegasus-Yang <panesas2@gmail.com>,MIT,110380,浏览器视口截图与鼠标指针预览服务
+2026-10-04T15:56:30Z,beets-cataloghint,1.0.0,Florent Le Moël <25004801+FlorentLM@users.noreply.github.com>,MIT,96280,Beets plugin to resolve an exact MusicBrainz release match
+2026-10-04T15:58:22Z,rubric-load-tester,0.2.0,Rubric Team,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",268878,"Zero-config, LLM-powered API load tester."
+2026-10-04T15:58:36Z,mkgallery,0.1.0,,PolyForm-Noncommercial-1.0.0,188250,Summarise a photo collection as a single gallery page
+2026-10-04T16:02:52Z,encoder-decoder-transformer,0.1.0,Joe Rice,MIT,18061,A from-scratch PyTorch implementation of the Transformer encoder-decoder architecture.
+2026-10-04T16:04:41Z,quadkit-ai-workers,0.0.1,,,1444,QuadKit quadkit-ai-workers — reserved namespace
+2026-10-04T16:04:46Z,quadkit-multimedia,0.0.1,,,1441,QuadKit quadkit-multimedia — reserved namespace
+2026-10-04T16:04:52Z,quadkit-multimedia-beat,0.0.1,,,1497,QuadKit quadkit-multimedia-beat — reserved namespace
+2026-10-04T16:04:57Z,quadkit-multimedia-image,0.0.1,,,1508,QuadKit quadkit-multimedia-image — reserved namespace
+2026-10-04T16:08:51Z,ddon-efish,1.0.0,,,12207,Lightweight local inference package for Decoder-DeepONet (DDON) EFISH electric-field reconstruction.
+2026-10-04T16:08:57Z,crypto-terminal,2.0.0,Owen Alderson,MIT,779250,"A free, Bloomberg-style crypto terminal for your shell: live Coinbase prices, candles, indicators and alerts."
+2026-10-04T16:11:34Z,presolv,0.1.0,,MIT OR Apache-2.0,1656830,"High-performance bulk/streaming DNS resolver (Rust core, dnspython API)"
+2026-10-04T16:12:42Z,pairing-core,0.4.1,20kevit,MIT,331363,"Deterministic FIDE-family Swiss pairing library (Dutch till-2026 kernel + 2026 systems, Berger round-robin, BYO external-engine adapters)"
+2026-10-04T16:14:07Z,openrgb-tempglow,0.1.0,Yoobin Kim,GPL-3.0-or-later,424460,"Per-part RGB lighting (case, fans, GPU, RAM) with temperature alerts, built on OpenRGB"
+2026-10-04T16:16:22Z,omnibias-difference,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,Apache-2.0,152076,"The founding delta->0 (multi-bias collapse) register: certified finite-difference -> derivative extraction, umbral / Sheffer sequence calculus, and asymptotic-coefficient reading (Stirling / Bernoull…"
+2026-10-04T16:16:23Z,omnibias-curvature,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,AGPL-3.0-or-later OR LicenseRef-omnibias-Commercial,137318,"Closed-form parameter Hessian / Gauss-Newton Fisher / KFAC factors for one-hidden-layer Riccati fields, built on the omnibias closed-form σ' / σ'' primitives."
+2026-10-04T16:16:24Z,omnibias-sos,0.1.0a2,Vardan Grigoryants <vardan@derivon.ai>,AGPL-3.0-or-later OR LicenseRef-omnibias-Commercial,104618,Certified universal positivity by optimization: sound Sum-of-Squares / Positivstellensatz decompositions. A floating-point SDP proposes a Gram matrix; the proof is a rigorous interval LDL^T positive-…
+2026-10-04T16:17:34Z,valyzen,0.0.1,Valyzen <engineering@valyzen.ai>,Apache-2.0,11019,Python client for the Valyzen Negotiation Gateway (name reservation; client coming soon).
+2026-10-04T16:18:16Z,nova-data-mcp,0.5.1,Vladislav Petrochenko <nordfox903@gmail.com>,MIT,52408,"Nova Data MCP Server - аналитика рынка fl.ru + стройматериалы Petrovich (СПб). 10 tools, x402 payments."
+2026-10-04T16:18:27Z,orbitoby,0.1.0,Jin Yeseo,Apache-2.0,407821,A provenance-first research toolkit for space-weather and orbital time-series data.
