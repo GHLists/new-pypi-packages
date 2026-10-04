@@ -8,48 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 10:19 UTC
+## Latest list — 2026-10-04 11:19 UTC
 
-New packages created between 2026-10-04 09:18 UTC and 2026-10-04 10:19 UTC.
+New packages created between 2026-10-04 10:19 UTC and 2026-10-04 11:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-04T10-19-57-109211Z.csv)
+[Full CSV](data/new-packages-2026-10-04T11-19-05-697371Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-04 09:19:32 | [adcreate](https://pypi.org/project/adcreate/) | 0.1.0 | Aranya De <dearanya2000@gmail… | 10.3 kB | Simple Python helpers for files, folders, archives, and extraction |
-| 2026-10-04 09:22:32 | [builtbyelly-fastauth](https://pypi.org/project/builtbyelly-fastauth/) | 0.1.0 | Elliot Otoijagha | 97.5 kB | Simple and flexible authentication library for FastAPI — FastAPI-only by design. |
-| 2026-10-04 09:23:05 | [dcheckdev](https://pypi.org/project/dcheckdev/) | 0.1.0 | dongzhongcen | 11.1 kB | One-command local dev environment checker: tool versions, PATH, key configs and… |
-| 2026-10-04 09:24:27 | [subtitle-gen](https://pypi.org/project/subtitle-gen/) | 0.1.0 |  | 234.5 kB | Generate subtitles from audio/video with Qwen3 ASR, forced alignment, optional… |
-| 2026-10-04 09:25:24 | [mloda-enterprise-audit](https://pypi.org/project/mloda-enterprise-audit/) | 0.0.1 | Tom Kaltofen <info@mloda.ai> | 2.7 kB | Name reservation. The code ships inside mloda-enterprise; install mloda-enterpr… |
-| 2026-10-04 09:25:29 | [mloda-enterprise-lineage](https://pypi.org/project/mloda-enterprise-lineage/) | 0.0.1 | Tom Kaltofen <info@mloda.ai> | 2.8 kB | Name reservation. The code ships inside mloda-enterprise; install mloda-enterpr… |
-| 2026-10-04 09:25:34 | [mloda-community-binary-model](https://pypi.org/project/mloda-community-binary-model/) | 0.0.1 | Tom Kaltofen <info@mloda.ai> | 2.8 kB | Name reservation. The code ships inside mloda-community; install mloda-communit… |
-| 2026-10-04 09:25:38 | [mloda-enterprise-binary-example](https://pypi.org/project/mloda-enterprise-binary-example/) | 0.0.1 | Tom Kaltofen <info@mloda.ai> | 2.8 kB | Name reservation. The code ships inside mloda-enterprise; install mloda-enterpr… |
-| 2026-10-04 09:27:27 | [MIRZA1.0](https://pypi.org/project/MIRZA1.0/) | 1.0 | Mirza | 2.0 kB | A package for speech to text conversion using selenium and chrome driver |
-| 2026-10-04 09:31:56 | [nokido-agent](https://pypi.org/project/nokido-agent/) | 0.20.8 | user | 29.8 MB | Autonomous, Local-First AI Operating System — MCP hub, hybrid RAG, neuro-symbol… |
-| 2026-10-04 09:35:00 | [saggio](https://pypi.org/project/saggio/) | 1.4.2 | Warith HARCHAOUI <warith.harc… | 646.5 kB | What it costs to run your code, per unit of work, with every number saying how… |
-| 2026-10-04 09:36:36 | [codexforge](https://pypi.org/project/codexforge/) | 1.0.3 | CODEX | 25.4 kB | Advanced AI Coding Agent CLI – fully agentic, local & cloud LLMs, beautiful ter… |
-| 2026-10-04 09:36:39 | [typesafe-carla-toolchain](https://pypi.org/project/typesafe-carla-toolchain/) | 0.19.3 |  | 72.7 MB | Pinned Codon compiler for typesafe-carla |
-| 2026-10-04 09:37:03 | [typesafe-carla](https://pypi.org/project/typesafe-carla/) | 0.1.0 |  | 2.6 MB | A statically typed native CARLA (UE5) client for Codon |
-| 2026-10-04 09:38:30 | [design-dojo](https://pypi.org/project/design-dojo/) | 0.1.0 |  | 36.2 MB | Local interview practice studio for Java low-level design and system design |
-| 2026-10-04 09:38:36 | [cse-frog](https://pypi.org/project/cse-frog/) | 0.1.0 | Emilia Lab, 鍵乃ねこ (kagioneko) | 47.1 kB | A tiny sequence-prediction AI for learning Python and how language models work… |
-| 2026-10-04 09:40:10 | [debim](https://pypi.org/project/debim/) | 0.2.0 | PRIDA-TAKON | 276.5 kB | A minimal, Git-native, declarative BIM engine (Building-as-Code) designed for A… |
-| 2026-10-04 09:42:21 | [terminusdb-async](https://pypi.org/project/terminusdb-async/) | 0.1.2 |  | 22.9 kB | Native async Python client for the TerminusDB HTTP API |
-| 2026-10-04 09:43:15 | [spendguard-mcp](https://pypi.org/project/spendguard-mcp/) | 0.1.0 | tanveer-arch | 62.4 kB | Spend governor for AI agents running SQL on data warehouses: pre-flight cost es… |
-| 2026-10-04 09:44:27 | [terminusdb-pydantic](https://pypi.org/project/terminusdb-pydantic/) | 0.1.1 |  | 12.3 kB | Pydantic v2 adapter and schema generator for TerminusDB |
-| 2026-10-04 09:45:19 | [splitagent](https://pypi.org/project/splitagent/) | 0.0.3 | SplitAgent Contributors | 3.5 MB | Autonomous dual-team (Purple Team) security framework powered by configurable L… |
-| 2026-10-04 09:46:14 | [terminusdb-migrations](https://pypi.org/project/terminusdb-migrations/) | 0.1.1 |  | 17.4 kB | Schema diff and migration planning for TerminusDB from Pydantic models |
-| 2026-10-04 09:47:39 | [rouwan-gui](https://pypi.org/project/rouwan-gui/) | 0.2.2 | 肥美入类 <ydx20140606@qq.com> | 15.0 MB | 这是一个Python的GUI库。 |
-| 2026-10-04 09:48:10 | [mirza-speech](https://pypi.org/project/mirza-speech/) | 1.0 | Mirza | 4.0 kB | A package for speech to text conversion using selenium and chrome driver |
-| 2026-10-04 09:55:23 | [flova](https://pypi.org/project/flova/) | 0.1.1 | enmu | 69.1 kB | Small, extensible service orchestration for personal automation |
-| 2026-10-04 09:56:42 | [atengk-mcp-server-rabbitmq](https://pypi.org/project/atengk-mcp-server-rabbitmq/) | 1.0.2 | 孔余 <2385569970@qq.com> | 209.4 kB | 🐰 专为 LLM 打造的生产级 RabbitMQ Model Context Protocol (MCP) 服务端，支持 AMQP 拓扑声明、消息发布与消费、… |
-| 2026-10-04 09:57:35 | [kitebase](https://pypi.org/project/kitebase/) | 0.0.1 | Claudio Driussi <claudio.driu… | 4.4 kB | Declarative, plugin-based framework for data-driven business applications (unde… |
-| 2026-10-04 09:58:44 | [blockchainkit](https://pypi.org/project/blockchainkit/) | 0.2.0 | Charles Poli <cpoli374@gmail.… | 383.4 kB | Cryptography and blockchain breakthroughs, explained through reproducible Pytho… |
-| 2026-10-04 09:59:07 | [jorwal-nim](https://pypi.org/project/jorwal-nim/) | 1.0.0 | Jorwal <contact@jorwal.dev>,… | 211.5 kB | JORWAL™ NIM SWARM OS: Autonomous multi-agent AI biocompute and drug discovery p… |
-| 2026-10-04 10:00:19 | [cloudflare-skip](https://pypi.org/project/cloudflare-skip/) | 1.0.0 | tn3w <tn3w@protonmail.com> | 19.5 kB | Skip Cloudflare challenges: solve once in a real browser, then reuse the cleara… |
-| 2026-10-04 10:01:20 | [cc-calendar](https://pypi.org/project/cc-calendar/) | 0.4.0 | atinfinity <dandelion1124@gma… | 225.1 kB | Google Calendar-style weekly view of your Claude Code sessions |
-| 2026-10-04 10:08:26 | [repoingest](https://pypi.org/project/repoingest/) | 0.1.0 | haiShen | 85.9 kB | Convert any Git repository into a text digest optimized for LLM prompts |
-| 2026-10-04 10:08:38 | [jorwal](https://pypi.org/project/jorwal/) | 1.0.0 | Jorwal <contact@jorwal.dev>,… | 211.4 kB | JORWAL™ Core: Autonomous multi-agent AI biocompute and molecular intelligence e… |
-| 2026-10-04 10:08:43 | [atengk-mcp-server-kafka](https://pypi.org/project/atengk-mcp-server-kafka/) | 1.1.0 | Ateng <2385569970@qq.com> | 176.0 kB | Kafka Model Context Protocol (MCP) server in Python |
-| 2026-10-04 10:10:24 | [quirepdf](https://pypi.org/project/quirepdf/) | 0.1.0 | Quire PDF <support@quirepdf.d… | 26.3 kB | Python SDK for the Quire API: send JSON, get back a polished PDF. |
-| 2026-10-04 10:14:01 | [healthdata](https://pypi.org/project/healthdata/) | 0.1.0 | Ismail Elouafiq <contact@isma… | 26.4 kB | Download and read NHANES health survey data. |
-| 2026-10-04 10:19:00 | [runecli](https://pypi.org/project/runecli/) | 0.1.0 |  | 85.4 kB | A terminal-first developer tool that turns a real GitHub issue into a grounded… |
+| 2026-10-04 10:29:08 | [pyra3d](https://pypi.org/project/pyra3d/) | 0.1.0 | Pyra3D Contributors <hello@py… | 144.7 kB | Write Python. Ship WebGPU. Python 3D web framework and optimizing compiler. |
+| 2026-10-04 10:29:41 | [pysextant](https://pypi.org/project/pysextant/) | 1.1.dev1 |  | 30.6 MB | Scientific plotting from a C++20 core: matplotlib-like figures, 2D and 3D, PNG/… |
+| 2026-10-04 10:37:41 | [noentenc](https://pypi.org/project/noentenc/) | 0.1.0 | marti-jorda-roca | 140.4 kB | Lightweight, CPU-only language detection and translation for Python. Extra dete… |
+| 2026-10-04 10:38:23 | [myhelper-mathkit](https://pypi.org/project/myhelper-mathkit/) | 1.0.0 | Your Name | 26.3 kB | Математическая библиотека для занятий по Python: Фибоначчи, простые числа, комб… |
+| 2026-10-04 10:41:36 | [tt-wavelet](https://pypi.org/project/tt-wavelet/) | 0.1.0 |  | 1.1 MB | Standalone lifting wavelet transforms for Tenstorrent TTNN tensors |
+| 2026-10-04 10:42:28 | [fixproof](https://pypi.org/project/fixproof/) | 0.1.0 | Govardhan Yadava | 266.4 kB | Per-asset proof that a remediated CVE is gone from container images and Kuberne… |
+| 2026-10-04 10:43:50 | [manim-straightedge-compass](https://pypi.org/project/manim-straightedge-compass/) | 0.1.0 | manim-sc contributors | 36.9 kB | A Manim plugin for straightedge-and-compass (ruler & compass) geometric constru… |
+| 2026-10-04 10:44:05 | [configmanagement-esxi](https://pypi.org/project/configmanagement-esxi/) | 0.0.1 |  | 1.4 kB | Name reserved - not installable from pypi.org. |
+| 2026-10-04 10:44:08 | [configmanagement-fronius](https://pypi.org/project/configmanagement-fronius/) | 0.0.1 |  | 1.4 kB | Name reserved - not installable from pypi.org. |
+| 2026-10-04 10:44:11 | [configmanagement-modbus](https://pypi.org/project/configmanagement-modbus/) | 0.0.1 |  | 1.4 kB | Name reserved - not installable from pypi.org. |
+| 2026-10-04 10:44:14 | [configmanagement-switch-aruba-controller](https://pypi.org/project/configmanagement-switch-aruba-controller/) | 0.0.1 |  | 1.5 kB | Name reserved - not installable from pypi.org. |
+| 2026-10-04 10:44:30 | [cslice](https://pypi.org/project/cslice/) | 0.1.2 | Alfred | 1.2 MB | AST-based logical-block slicing for C functions (computation/branch/loop/case/p… |
+| 2026-10-04 10:46:25 | [pico-cli-tui](https://pypi.org/project/pico-cli-tui/) | 0.1.1 | Arya-Ojha <aryaojha195@gmail.… | 48.4 kB | Terminal user interface view. |
+| 2026-10-04 10:46:33 | [dennice](https://pypi.org/project/dennice/) | 0.1.1 | Dennice contributors | 4.2 MB | A cognitive routing and evaluation harness for data analytics agents. |
+| 2026-10-04 10:47:15 | [gitinject](https://pypi.org/project/gitinject/) | 0.1.0 | Jafar Isbarov, Umid Suleymanov | 667.4 kB | Evaluate prompt injection in real AI-powered CI/CD workflows |
+| 2026-10-04 10:48:01 | [pyelectrasmart](https://pypi.org/project/pyelectrasmart/) | 1.0.0 | Noam Okman | 26.1 kB | Python API library for Electra Smart air conditioners (maintained fork of pyEle… |
+| 2026-10-04 10:48:30 | [distill-slm](https://pypi.org/project/distill-slm/) | 0.1.0 | Abdelilah OURTI <abdelilahour… | 226.7 kB | Transforme une description de tache et ~20 exemples en un petit modele speciali… |
+| 2026-10-04 10:49:20 | [atlascompiler](https://pypi.org/project/atlascompiler/) | 1.0.0 |  | 37.5 kB | Official Atlas Python SDK |
+| 2026-10-04 10:49:31 | [horizonpay-invoice-ai](https://pypi.org/project/horizonpay-invoice-ai/) | 0.1.0 | HorizonPay | 105.2 kB | Official Python SDK for the Invoice-AI API. |
+| 2026-10-04 10:52:48 | [opentron-glulac-readout-module](https://pypi.org/project/opentron-glulac-readout-module/) | 3.0.0 | Michael Höller <pypi.capably5… | 50.1 kB | A TU Vienna university project, building a system that allow plugging a Jobst S… |
+| 2026-10-04 10:53:57 | [halfabyte-blackbox](https://pypi.org/project/halfabyte-blackbox/) | 0.1.0 | Aryan Lomte, Radhesh, Aditya,… | 523.7 kB | A flight recorder for AI agents: record every step, find the step that caused a… |
+| 2026-10-04 10:55:19 | [myssia](https://pypi.org/project/myssia/) | 0.0.1 | xinzhuzi | 28.7 MB | AI-native intelligence hub — config-driven fetch, classify, analyze, push. 说需求,… |
+| 2026-10-04 10:55:25 | [myssia-classifier](https://pypi.org/project/myssia-classifier/) | 0.0.1 | xinzhuzi | 41.3 kB | Zero-dependency seven-category keyword classifier with free/paid dual-signal ad… |
+| 2026-10-04 10:55:26 | [preflight-cli](https://pypi.org/project/preflight-cli/) | 0.1.0 | Jet1 <hello@jetonecloud.com> | 72.4 kB | Free, open-source, read-only AWS audit CLI. Find the first three things to fix… |
+| 2026-10-04 10:58:37 | [pytensorforge](https://pypi.org/project/pytensorforge/) | 0.1.0 | Nnamdi Chidume | 225.8 kB | Deep Learning Framework |
+| 2026-10-04 10:58:54 | [ophix-admin-interface](https://pypi.org/project/ophix-admin-interface/) | 2026.10.4.1 | Ophix Project | 624.6 kB | Ophix fork of django-admin-interface: theme management, extended CSS vars, name… |
+| 2026-10-04 10:59:25 | [audio-transcribe-cli-mcp](https://pypi.org/project/audio-transcribe-cli-mcp/) | 0.1.0 | OstrichHermit | 27.0 kB | 音视频转文字 CLI / MCP Server：阿里云百炼录音文件识别，支持说话人分离与微信语音 SILK |
+| 2026-10-04 10:59:35 | [ophix-client-core](https://pypi.org/project/ophix-client-core/) | 2026.10.4.1 | Ophix Project | 29.6 kB | Shared base library for Ophix Tier 1 clients |
+| 2026-10-04 10:59:58 | [polars-waveform](https://pypi.org/project/polars-waveform/) | 0.1.0 |  | 79.9 kB | Waveforms and curve families on Polars, with circuit-style measurements (bandwi… |
+| 2026-10-04 11:00:22 | [ophix-server-base](https://pypi.org/project/ophix-server-base/) | 2026.10.4.1 | Ophix Project | 295.9 kB | Shared Django base for Ophix fleet management servers |
+| 2026-10-04 11:01:01 | [ophix-admin-settings](https://pypi.org/project/ophix-admin-settings/) | 2026.10.4.1 | Ophix Project | 36.7 kB | Instance settings for Ophix Project Servers - server identity, environment, and… |
+| 2026-10-04 11:04:00 | [capo-lambda-web](https://pypi.org/project/capo-lambda-web/) | 0.2.0 |  | 270.7 kB | Python SDK for AWS Lambda Web. |
+| 2026-10-04 11:04:46 | [capo-endusermessaging](https://pypi.org/project/capo-endusermessaging/) | 0.2.0 |  | 343.2 kB | Python SDK for AWS End User Messaging. |
+| 2026-10-04 11:05:55 | [olivetree](https://pypi.org/project/olivetree/) | 0.0.1 | David Fischer <fischerdm1@out… | 4.0 kB | Agentic AI for life insurance pricing. |
+| 2026-10-04 11:07:18 | [torve](https://pypi.org/project/torve/) | 0.1.0 | morzecrew | 1.8 MB | A specification-and-gate engine for a standing agent team: graded decisions, sc… |
+| 2026-10-04 11:07:19 | [krum](https://pypi.org/project/krum/) | 0.9.0 | Sébastien Rouault <sebastien.… | 188.0 kB | Byzantine-resilient aggregation rules for distributed machine learning. |
+| 2026-10-04 11:10:01 | [astro-imaging-agent](https://pypi.org/project/astro-imaging-agent/) | 0.0.0 | Ondřej Brůha | 103.0 kB | Deterministic astronomical FITS processing with reproducible pipelines and prov… |
+| 2026-10-04 11:10:14 | [itsmbench-audit](https://pypi.org/project/itsmbench-audit/) | 0.1.0 |  | 72.0 kB | Static preflight audit tooling for ITSMBench evaluations. |
+| 2026-10-04 11:10:54 | [dl-experiment-code](https://pypi.org/project/dl-experiment-code/) | 1.0.0 |  | 30.4 kB | Ready-to-use Deep Learning experiment code for experiments 5-10 and a NumPy RNN… |
+| 2026-10-04 11:11:16 | [tranquillity](https://pypi.org/project/tranquillity/) | 0.1.0 |  | 33.6 kB |  |
+| 2026-10-04 11:11:55 | [brok](https://pypi.org/project/brok/) | 0.2.0 | Barman | 8.7 MB | Brok: a Persian-first AI desktop companion and permission-controlled coding age… |
+| 2026-10-04 11:12:55 | [vn-collate](https://pypi.org/project/vn-collate/) | 0.1.0 |  | 20.9 kB | Vietnamese collation sort keys, derived from ICU. Store the key in a binary col… |
+| 2026-10-04 11:12:57 | [vn-text](https://pypi.org/project/vn-text/) | 0.1.0 |  | 18.8 kB | Correct Unicode primitives for Vietnamese text: deaccent, fold, normalize, stri… |
+| 2026-10-04 11:13:29 | [modeljury](https://pypi.org/project/modeljury/) | 0.1.0 | YasserManss | 56.8 kB | Ask several models instead of one. Ship when they agree, send to a human when t… |
+| 2026-10-04 11:13:37 | [polars-psf](https://pypi.org/project/polars-psf/) | 0.1.0 |  | 18.4 MB | Fast reader for Cadence Spectre PSF simulation results (psfbin, psfascii, PSFXL… |
+| 2026-10-04 11:16:18 | [doccheap-haystack](https://pypi.org/project/doccheap-haystack/) | 0.1.0 | Teoh Chin Heng <admin@doc.che… | 17.6 kB | A Haystack component for doc.cheap: read passports, ID cards and driver's licen… |
+| 2026-10-04 11:16:42 | [django-mvp-sphinx](https://pypi.org/project/django-mvp-sphinx/) | 0.1.0 | Samuel Jennings <samuel.scott… | 118.2 kB | Serve a project's Sphinx documentation inside its django-mvp application shell |
+| 2026-10-04 11:17:03 | [oligoark](https://pypi.org/project/oligoark/) | 0.2.0 | Saurav Singla | 67.7 kB | AI-native DNA archival storage research framework for adaptive encoding, recons… |
+| 2026-10-04 11:17:28 | [puppethub](https://pypi.org/project/puppethub/) | 0.1.0 | None-Ptr | 443.2 kB | OpenPuppet 的搭建与运行软件：让 LLM 孕育并驱动应用。 |
+| 2026-10-04 11:17:28 | [solunex-ssdo](https://pypi.org/project/solunex-ssdo/) | 0.1.0 | Solunex Technologies | 629.4 kB | SSDO, the Smart Data Organizer: understands a database's structure (never its d… |
+| 2026-10-04 11:18:41 | [alphafinch](https://pypi.org/project/alphafinch/) | 0.1.0 | Shlok Sobti | 159.1 kB | Evolve trading strategies with AI while you sleep, then make them pass an exam… |

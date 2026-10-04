@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T10:29:08Z,pyra3d,0.1.0,Pyra3D Contributors <hello@pyra3d.dev>,MIT,144749,Write Python. Ship WebGPU. Python 3D web framework and optimizing compiler.
+2026-10-04T10:29:41Z,pysextant,1.1.dev1,,MIT,30617123,"Scientific plotting from a C++20 core: matplotlib-like figures, 2D and 3D, PNG/SVG export"
+2026-10-04T10:37:41Z,noentenc,0.1.0,marti-jorda-roca,,140403,"Lightweight, CPU-only language detection and translation for Python. Extra detection backends are optional extras."
+2026-10-04T10:38:23Z,myhelper-mathkit,1.0.0,Your Name,MIT,26273,"Математическая библиотека для занятий по Python: Фибоначчи, простые числа, комбинаторика и др."
+2026-10-04T10:41:36Z,tt-wavelet,0.1.0,,Apache-2.0,1079845,Standalone lifting wavelet transforms for Tenstorrent TTNN tensors
+2026-10-04T10:42:28Z,fixproof,0.1.0,Govardhan Yadava,Apache-2.0,266415,"Per-asset proof that a remediated CVE is gone from container images and Kubernetes workloads, emitted as OpenVEX plus an evidence bundle."
+2026-10-04T10:43:50Z,manim-straightedge-compass,0.1.0,manim-sc contributors,MIT,36863,A Manim plugin for straightedge-and-compass (ruler & compass) geometric constructions with animated tools.
+2026-10-04T10:44:05Z,configmanagement-esxi,0.0.1,,,1385,Name reserved - not installable from pypi.org.
+2026-10-04T10:44:08Z,configmanagement-fronius,0.0.1,,,1395,Name reserved - not installable from pypi.org.
+2026-10-04T10:44:11Z,configmanagement-modbus,0.0.1,,,1380,Name reserved - not installable from pypi.org.
+2026-10-04T10:44:14Z,configmanagement-switch-aruba-controller,0.0.1,,,1492,Name reserved - not installable from pypi.org.
+2026-10-04T10:44:30Z,cslice,0.1.2,Alfred,MIT,1206379,"AST-based logical-block slicing for C functions (computation/branch/loop/case/preproc), powered by tree-sitter"
+2026-10-04T10:46:25Z,pico-cli-tui,0.1.1,Arya-Ojha <aryaojha195@gmail.com>,MIT,48378,Terminal user interface view.
+2026-10-04T10:46:33Z,dennice,0.1.1,Dennice contributors,Apache-2.0,4221861,A cognitive routing and evaluation harness for data analytics agents.
+2026-10-04T10:47:15Z,gitinject,0.1.0,"Jafar Isbarov, Umid Suleymanov",Apache-2.0,667401,Evaluate prompt injection in real AI-powered CI/CD workflows
+2026-10-04T10:48:01Z,pyelectrasmart,1.0.0,Noam Okman,Apache-2.0,26116,Python API library for Electra Smart air conditioners (maintained fork of pyElectra).
+2026-10-04T10:48:30Z,distill-slm,0.1.0,Abdelilah OURTI <abdelilahourti@gmail.com>,Apache-2.0,226704,"Transforme une description de tache et ~20 exemples en un petit modele specialise, evalue et pret pour Ollama, en une seule commande."
+2026-10-04T10:49:20Z,atlascompiler,1.0.0,,MIT,37455,Official Atlas Python SDK
+2026-10-04T10:49:31Z,horizonpay-invoice-ai,0.1.0,HorizonPay,MIT,105192,Official Python SDK for the Invoice-AI API.
+2026-10-04T10:52:48Z,opentron-glulac-readout-module,3.0.0,Michael Höller <pypi.capably513@passmail.net>,MIT,50131,"A TU Vienna university project, building a system that allow plugging a Jobst SIX Biotransmitter into the Opentron OT2 automated liquid handler system and then automates measurements with a custom pr…"
+2026-10-04T10:53:57Z,halfabyte-blackbox,0.1.0,"Aryan Lomte, Radhesh, Aditya, Advay Chavan",MIT,523656,"A flight recorder for AI agents: record every step, find the step that caused a failure, prove it by replay, and fix it without regressions."
+2026-10-04T10:55:19Z,myssia,0.0.1,xinzhuzi,MIT,28730516,"AI-native intelligence hub — config-driven fetch, classify, analyze, push. 说需求,AI 做其余。"
+2026-10-04T10:55:25Z,myssia-classifier,0.0.1,xinzhuzi,MIT,41305,"Zero-dependency seven-category keyword classifier with free/paid dual-signal adjudication, data-driven keyword tables, and a safe custom-rule API. 七大类双信号关键词分类引擎。"
+2026-10-04T10:55:26Z,preflight-cli,0.1.0,Jet1 <hello@jetonecloud.com>,Apache-2.0,72367,"Free, open-source, read-only AWS audit CLI. Find the first three things to fix in deploys, cost, and bus factor."
+2026-10-04T10:58:37Z,pytensorforge,0.1.0,Nnamdi Chidume,,225785,Deep Learning Framework
+2026-10-04T10:58:54Z,ophix-admin-interface,2026.10.4.1,Ophix Project,MIT,624611,"Ophix fork of django-admin-interface: theme management, extended CSS vars, namespaced media, bundled theme API"
+2026-10-04T10:59:25Z,audio-transcribe-cli-mcp,0.1.0,OstrichHermit,MIT,26997,音视频转文字 CLI / MCP Server：阿里云百炼录音文件识别，支持说话人分离与微信语音 SILK
+2026-10-04T10:59:35Z,ophix-client-core,2026.10.4.1,Ophix Project,MIT,29567,Shared base library for Ophix Tier 1 clients
+2026-10-04T10:59:58Z,polars-waveform,0.1.0,,MIT,79873,"Waveforms and curve families on Polars, with circuit-style measurements (bandwidth, cross, rise time, ...)"
+2026-10-04T11:00:22Z,ophix-server-base,2026.10.4.1,Ophix Project,MIT,295884,Shared Django base for Ophix fleet management servers
+2026-10-04T11:01:01Z,ophix-admin-settings,2026.10.4.1,Ophix Project,MIT,36724,"Instance settings for Ophix Project Servers - server identity, environment, and language"
+2026-10-04T11:04:00Z,capo-lambda-web,0.2.0,,,270729,Python SDK for AWS Lambda Web.
+2026-10-04T11:04:46Z,capo-endusermessaging,0.2.0,,,343155,Python SDK for AWS End User Messaging.
+2026-10-04T11:05:55Z,olivetree,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,4009,Agentic AI for life insurance pricing.
+2026-10-04T11:07:18Z,torve,0.1.0,morzecrew,"MIT License Copyright (c) 2026 Morze Technologies Permission is hereby granted, free of charge, to…",1799579,"A specification-and-gate engine for a standing agent team: graded decisions, scope as a contract, deterministic gates, sandboxed runs"
+2026-10-04T11:07:19Z,krum,0.9.0,"Sébastien Rouault <sebastien.rouault@alumni.epfl.ch>, Arthur Danjou <arthur.danjou@dauphine.eu>, Mo…",MIT,188044,Byzantine-resilient aggregation rules for distributed machine learning.
+2026-10-04T11:10:01Z,astro-imaging-agent,0.0.0,Ondřej Brůha,Apache-2.0,103029,Deterministic astronomical FITS processing with reproducible pipelines and provider-independent planning
+2026-10-04T11:10:14Z,itsmbench-audit,0.1.0,,"MIT License Copyright (c) 2026 ITSMBench Contributors Permission is hereby granted, free of charge,…",72015,Static preflight audit tooling for ITSMBench evaluations.
+2026-10-04T11:10:54Z,dl-experiment-code,1.0.0,,,30426,Ready-to-use Deep Learning experiment code for experiments 5-10 and a NumPy RNN from scratch
+2026-10-04T11:11:16Z,tranquillity,0.1.0,,,33638,
+2026-10-04T11:11:55Z,brok,0.2.0,Barman,MIT CAT LICENSE (Meow-IT License) Copyright (c) 2025 @yumicabrera (GitHub) Permission is hereby gra…,8656369,Brok: a Persian-first AI desktop companion and permission-controlled coding agent (Qt overlay)
+2026-10-04T11:12:55Z,vn-collate,0.1.0,,MIT,20922,"Vietnamese collation sort keys, derived from ICU. Store the key in a binary column and ORDER BY it, because Postgres and MySQL have no Vietnamese collation. Standard library only."
+2026-10-04T11:12:57Z,vn-text,0.1.0,,MIT,18808,"Correct Unicode primitives for Vietnamese text: deaccent, fold, normalize, strip_stroke. Standard library only. Ships a cross-language conformance suite shared with the TypeScript port."
+2026-10-04T11:13:29Z,modeljury,0.1.0,YasserManss,MIT,56828,"Ask several models instead of one. Ship when they agree, send to a human when they don't."
+2026-10-04T11:13:37Z,polars-psf,0.1.0,,MIT,18366916,"Fast reader for Cadence Spectre PSF simulation results (psfbin, psfascii, PSFXL) to Polars"
+2026-10-04T11:16:18Z,doccheap-haystack,0.1.0,Teoh Chin Heng <admin@doc.cheap>,MIT,17621,"A Haystack component for doc.cheap: read passports, ID cards and driver's licences into documents."
+2026-10-04T11:16:42Z,django-mvp-sphinx,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,118226,Serve a project's Sphinx documentation inside its django-mvp application shell
+2026-10-04T11:17:03Z,oligoark,0.2.0,Saurav Singla,MIT,67707,"AI-native DNA archival storage research framework for adaptive encoding, reconstruction, simulation, and explainable storage tiering."
+2026-10-04T11:17:28Z,puppethub,0.1.0,None-Ptr,MIT,443198,OpenPuppet 的搭建与运行软件：让 LLM 孕育并驱动应用。
+2026-10-04T11:17:28Z,solunex-ssdo,0.1.0,Solunex Technologies,,629384,"SSDO, the Smart Data Organizer: understands a database's structure (never its data) and says what it knows, what it infers, and how sure it is."
+2026-10-04T11:18:41Z,alphafinch,0.1.0,Shlok Sobti,MIT,159093,"Evolve trading strategies with AI while you sleep, then make them pass an exam they cannot cheat."
