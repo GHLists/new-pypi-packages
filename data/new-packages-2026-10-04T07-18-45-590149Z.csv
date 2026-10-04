@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T06:22:33Z,djinnml,1.1.0,Ben Whewell <ben.whewell@pm.me>,BSD-3-Clause,74397,Deep Jointly-Informed Neural Networks
+2026-10-04T06:22:58Z,bread-crumbs-contracts,0.5.0,Cameron K. Brooks,AGPL-3.0-or-later,51092,"Pure-Python codec for the BREAD CRUMBS operation contracts (RLHT, DCMT, caps, watchdog, version)"
+2026-10-04T06:23:18Z,ezo-driver,0.6.0,ezo-driver maintainers,MIT,1295145,Linux Python bindings for ezo-driver
+2026-10-04T06:25:45Z,cointoss,0.0.1,Walnut Geek <wg@walnutgeek.com>,MIT,3323480,Crypto coin portfolio tracker and research platform - powered by lythonic and woodglue
+2026-10-04T06:26:48Z,volcenginesdk-sqs,0.0.1,volc-engine,Apache License 2.0,973,Name reservation for the Volcengine Python SDK split package volcenginesdk-sqs
+2026-10-04T06:26:55Z,volcenginesdk-storageebs,0.0.1,volc-engine,Apache License 2.0,1024,Name reservation for the Volcengine Python SDK split package volcenginesdk-storageebs
+2026-10-04T06:27:01Z,volcenginesdk-sts,0.0.1,volc-engine,Apache License 2.0,973,Name reservation for the Volcengine Python SDK split package volcenginesdk-sts
+2026-10-04T06:27:07Z,volcenginesdk-tag,0.0.1,volc-engine,Apache License 2.0,974,Name reservation for the Volcengine Python SDK split package volcenginesdk-tag
+2026-10-04T06:28:29Z,datanova-sdk,1.0.0,DataNova Team,MIT,21021,Official Python SDK for DataNova Smart Analytics Platform REST APIs
+2026-10-04T06:28:54Z,doc-cheap,0.1.0,Teoh Chin Heng <admin@doc.cheap>,MIT,28301,"Typed Python client for the doc.cheap document-recognition API: read passports, ID cards and driver's licences into JSON."
+2026-10-04T06:29:28Z,bluesky-zerobus,0.1.0,jesinity,Apache-2.0,43785,Bluesky Jetstream WebSocket producer for Databricks Zerobus Ingest
+2026-10-04T06:31:25Z,extract-paradox-hive,1.0.3,DJ Stomp,,10102,Extract Paradox Anticheat custom properties from a Minecraft Bedrock save
+2026-10-04T06:32:07Z,langchain-doccheap,0.1.0,Teoh Chin Heng <admin@doc.cheap>,MIT,17013,"LangChain tools for doc.cheap: read passports, ID cards and driver's licences into JSON."
+2026-10-04T06:36:10Z,gpulander,0.1.0,tsomerville2,MIT,42840,Opportunistic AWS GPU grabber — poll for spot/on-demand capacity across regions and land the first match.
+2026-10-04T06:36:28Z,uzru-parser,0.1.0,Khayitboy Khayitov,MIT AND CC-BY-SA-4.0 AND Apache-2.0 AND BSD-3-Clause AND Unicode-3.0,8000867,CPU-first document parser and chunker for Russian and Uzbek documents (RAG-ready).
+2026-10-04T06:36:39Z,georeconcile,0.0.1,,Apache-2.0,2463,"Name reserved for the GeoReconcile project: auditable point, line and polygon correspondence for geospatial datasets"
+2026-10-04T06:36:42Z,geoconflate,0.0.1,,Apache-2.0,2468,"Name reserved for the GeoReconcile project: auditable point, line and polygon correspondence for geospatial datasets"
+2026-10-04T06:37:33Z,praetor-agent,0.3.0,Ali Abdullah,MIT,68937,"A security-first, zero-dependency agent runtime with an execution-based evaluation harness."
+2026-10-04T06:40:53Z,alissa-tools-github-genloop,0.1.0,Fahera,Apache-2.0,96622,ALISSA-TOOLS-GITHUB-GENLOOP
+2026-10-04T06:41:30Z,homewatch,0.1.0,Ryan Davis,MIT,65041,"Home counter-surveillance detector for Linux: Remote ID drones, Bluetooth trackers, unknown devices, RF."
+2026-10-04T06:44:12Z,evidor,1.1.0,Vedang Bale,"MIT License Copyright (c) 2026 Evidor contributors Permission is hereby granted, free of charge, to…",67583,"A small, provider-agnostic harness for LLM input and output."
+2026-10-04T06:48:15Z,voicecast,0.1.0,VoiceCast Studio,MIT,56006,"VoiceCast Studio from your terminal or AI agent: narrated videos (16:9 or 9:16 Shorts) in an AI voice or your own cloned voice. Sign in, write, build, review, publish."
+2026-10-04T06:51:19Z,royalesim,0.1.10,,MIT,19478928,"RoyaleSim: deterministic, integer-only Clash Royale battle engine (Rust, PyO3 binding)"
+2026-10-04T06:53:33Z,add-shields,0.1.0,Paul Traylor,MIT,7568,Easily add shields.io badge to your README
+2026-10-04T06:55:45Z,regent-control,0.1.0,Regent Protocol,Apache-2.0,53404,"Python SDK for Regent Control — runtime policy enforcement for AI agent actions (allow / deny / escalate, scoped tokens, delegation, idempotency)."
+2026-10-04T06:56:35Z,royalelearn,0.5.4,,MIT,1134009,RoyaleLearn: self-play PPO training harness for RoyaleGym Clash Royale environments
+2026-10-04T06:56:48Z,royaleimitate,0.2.6,,MIT,147445,"RoyaleImitate: imitation learning for RoyaleLearn, as an optional add-on"
+2026-10-04T06:59:58Z,PyEVP,0.1.0,Gakuto Furuya,MIT,150057,"Python library for the Email Verification Protocol (EVP): verify tokens as a relying party, or issue them for your own email domains"
+2026-10-04T07:01:12Z,full-circle-optimization,0.1.0,Chris Shearer,MIT,155571,"Find what a system PROMISES but does not do -- then fix it safely, and prove the fix."
+2026-10-04T07:01:12Z,sandbox-fan-out,0.1.0,Chris Shearer,"MIT License Copyright (c) 2026 Chris Shearer Permission is hereby granted, free of charge, to any p…",2719510,"Run many test agents over one sandbox, in isolation, and merge their results without ever corrupting them."
+2026-10-04T07:01:17Z,rag-graph-surgeon,0.2.0,Chris Shearer,MIT,272606,"Point it at a broken system: it finds what is actually wrong, repairs an isolated copy of it, and ships the output you wanted."
+2026-10-04T07:01:28Z,royaleviser,0.1.1,,MIT,334828,"RoyaleViser: an out-of-process viewer for Clash Royale battles - recorded matches, RoyaleSim traces and a running engine"
+2026-10-04T07:01:42Z,royalegym,0.1.12,,MIT,829989,"RoyaleGym: reinforcement-learning environments for Clash Royale, over the RoyaleSim battle engine"
+2026-10-04T07:03:17Z,rahad-all-downloader,1.0.1,Mohammad Rahad,MIT,29137,"All-in-one video downloader for TikTok, Facebook, Instagram, YouTube, X/Twitter, CapCut, Kwai, Snapchat, Threads, Likee, Pinterest, Dailymotion, Vimeo"
+2026-10-04T07:04:46Z,azem,0.1.0,,MIT,252825,"Compile an Apache Ossie semantic model into correct SQL, attest it against a live database, and serve it to agents."
+2026-10-04T07:04:59Z,BabyDac,0.1.0,,,23834,API for the Baby DAC
+2026-10-04T07:06:22Z,nytimes-games,0.3.1,Lukas Karlsson <lukwam@gmail.com>,MIT,32005,"Unofficial Python client for the New York Times Games APIs: Wordle, Connections, Strands, Spelling Bee, Letter Boxed and the crosswords"
+2026-10-04T07:09:20Z,texlate,0.1.0,,Apache-2.0,14731991,arXiv LaTeX 源码 → LLM 段落级翻译 → ctex 重编译中文 PDF，双语对照阅读（hjfy.top 开源复现）
+2026-10-04T07:12:05Z,inferlab-gateway-smg,0.1.0,,MIT,4164,Inferlab SMG frontend lowering shared by the integrations that run SMG
+2026-10-04T07:15:38Z,SQLAero,0.1.0a1,Jiefu Chen,MIT license,6214197,Fast MySQL driver build in Cython (Sync and Async).
