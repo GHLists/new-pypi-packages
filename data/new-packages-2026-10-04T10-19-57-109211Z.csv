@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T09:19:32Z,adcreate,0.1.0,Aranya De <dearanya2000@gmail.com>,,10299,"Simple Python helpers for files, folders, archives, and extraction"
+2026-10-04T09:22:32Z,builtbyelly-fastauth,0.1.0,Elliot Otoijagha,,97487,Simple and flexible authentication library for FastAPI — FastAPI-only by design.
+2026-10-04T09:23:05Z,dcheckdev,0.1.0,dongzhongcen,MIT,11142,"One-command local dev environment checker: tool versions, PATH, key configs and port usage"
+2026-10-04T09:24:27Z,subtitle-gen,0.1.0,,GPL-3.0-only,234485,"Generate subtitles from audio/video with Qwen3 ASR, forced alignment, optional LLM segmentation, and translation."
+2026-10-04T09:25:24Z,mloda-enterprise-audit,0.0.1,Tom Kaltofen <info@mloda.ai>,LicenseRef-Proprietary,2725,Name reservation. The code ships inside mloda-enterprise; install mloda-enterprise instead.
+2026-10-04T09:25:29Z,mloda-enterprise-lineage,0.0.1,Tom Kaltofen <info@mloda.ai>,LicenseRef-Proprietary,2754,Name reservation. The code ships inside mloda-enterprise; install mloda-enterprise instead.
+2026-10-04T09:25:34Z,mloda-community-binary-model,0.0.1,Tom Kaltofen <info@mloda.ai>,Apache-2.0,2799,Name reservation. The code ships inside mloda-community; install mloda-community instead.
+2026-10-04T09:25:38Z,mloda-enterprise-binary-example,0.0.1,Tom Kaltofen <info@mloda.ai>,LicenseRef-Proprietary,2841,Name reservation. The code ships inside mloda-enterprise; install mloda-enterprise instead.
+2026-10-04T09:27:27Z,MIRZA1.0,1.0,Mirza,,2043,A package for speech to text conversion using selenium and chrome driver
+2026-10-04T09:31:56Z,nokido-agent,0.20.8,user,AGPL-3.0-or-later,29778757,"Autonomous, Local-First AI Operating System — MCP hub, hybrid RAG, neuro-symbolic governance, AMI cognitive stack"
+2026-10-04T09:35:00Z,saggio,1.4.2,Warith HARCHAOUI <warith.harchaoui@sev7n.io>,BSD-3-Clause,646517,"What it costs to run your code, per unit of work, with every number saying how far it can be trusted: money, time, energy, carbon, water, and any dimension you register."
+2026-10-04T09:36:36Z,codexforge,1.0.3,CODEX,MIT,25366,"Advanced AI Coding Agent CLI – fully agentic, local & cloud LLMs, beautiful terminal UI"
+2026-10-04T09:36:39Z,typesafe-carla-toolchain,0.19.3,,Apache-2.0,72699791,Pinned Codon compiler for typesafe-carla
+2026-10-04T09:37:03Z,typesafe-carla,0.1.0,,MIT,2609814,A statically typed native CARLA (UE5) client for Codon
+2026-10-04T09:38:30Z,design-dojo,0.1.0,,,36205884,Local interview practice studio for Java low-level design and system design
+2026-10-04T09:38:36Z,cse-frog,0.1.0,"Emilia Lab, 鍵乃ねこ (kagioneko)",MIT,47084,"A tiny sequence-prediction AI for learning Python and how language models work (Chain-Spike Engine, course edition)"
+2026-10-04T09:40:10Z,debim,0.2.0,PRIDA-TAKON,MIT,276546,"A minimal, Git-native, declarative BIM engine (Building-as-Code) designed for AI agents and humans."
+2026-10-04T09:42:21Z,terminusdb-async,0.1.2,,,22863,Native async Python client for the TerminusDB HTTP API
+2026-10-04T09:43:15Z,spendguard-mcp,0.1.0,tanveer-arch,MIT,62399,"Spend governor for AI agents running SQL on data warehouses: pre-flight cost estimates, estimate-vs-actual ledger, budgets with teeth, and cheaper-query rewrites. MCP server, drop-in stdio."
+2026-10-04T09:44:27Z,terminusdb-pydantic,0.1.1,,,12347,Pydantic v2 adapter and schema generator for TerminusDB
+2026-10-04T09:45:19Z,splitagent,0.0.3,SplitAgent Contributors,MIT,3507233,Autonomous dual-team (Purple Team) security framework powered by configurable LLM APIs.
+2026-10-04T09:46:14Z,terminusdb-migrations,0.1.1,,,17381,Schema diff and migration planning for TerminusDB from Pydantic models
+2026-10-04T09:47:39Z,rouwan-gui,0.2.2,肥美入类 <ydx20140606@qq.com>,MIT,15038964,这是一个Python的GUI库。
+2026-10-04T09:48:10Z,mirza-speech,1.0,Mirza,,3999,A package for speech to text conversion using selenium and chrome driver
+2026-10-04T09:55:23Z,flova,0.1.1,enmu,MIT,69062,"Small, extensible service orchestration for personal automation"
+2026-10-04T09:56:42Z,atengk-mcp-server-rabbitmq,1.0.2,孔余 <2385569970@qq.com>,Apache-2.0,209410,🐰 专为 LLM 打造的生产级 RabbitMQ Model Context Protocol (MCP) 服务端，支持 AMQP 拓扑声明、消息发布与消费、队列监控与管理能力
+2026-10-04T09:57:35Z,kitebase,0.0.1,Claudio Driussi <claudio.driussi@gmail.com>,"Copyright 2025 Claudio Driussi Permission is hereby granted, free of charge, to any person obtainin…",4388,"Declarative, plugin-based framework for data-driven business applications (under construction)"
+2026-10-04T09:58:44Z,blockchainkit,0.2.0,Charles Poli <cpoli374@gmail.com>,MIT,383420,"Cryptography and blockchain breakthroughs, explained through reproducible Python experiments."
+2026-10-04T09:59:07Z,jorwal-nim,1.0.0,"Jorwal <contact@jorwal.dev>, Jorwalzzz <jorwalzzz@users.noreply.github.com>",AGPL-3.0-only,211508,JORWAL™ NIM SWARM OS: Autonomous multi-agent AI biocompute and drug discovery platform built natively on NVIDIA BioNeMo NIM microservices.
+2026-10-04T10:00:19Z,cloudflare-skip,1.0.0,tn3w <tn3w@protonmail.com>,Apache-2.0,19545,"Skip Cloudflare challenges: solve once in a real browser, then reuse the clearance with fast HTTP requests."
+2026-10-04T10:01:20Z,cc-calendar,0.4.0,atinfinity <dandelion1124@gmail.com>,MIT,225064,Google Calendar-style weekly view of your Claude Code sessions
+2026-10-04T10:08:26Z,repoingest,0.1.0,haiShen,MIT License Copyright (c) 2024 Romain Courtois (gitingest — https://github.com/coderamp-labs/giting…,85885,Convert any Git repository into a text digest optimized for LLM prompts
+2026-10-04T10:08:38Z,jorwal,1.0.0,"Jorwal <contact@jorwal.dev>, Jorwalzzz <jorwalzzz@users.noreply.github.com>",AGPL-3.0-only,211400,JORWAL™ Core: Autonomous multi-agent AI biocompute and molecular intelligence ecosystem.
+2026-10-04T10:08:43Z,atengk-mcp-server-kafka,1.1.0,Ateng <2385569970@qq.com>,Apache-2.0,176036,Kafka Model Context Protocol (MCP) server in Python
+2026-10-04T10:10:24Z,quirepdf,0.1.0,Quire PDF <support@quirepdf.dev>,MIT,26284,"Python SDK for the Quire API: send JSON, get back a polished PDF."
+2026-10-04T10:14:01Z,healthdata,0.1.0,Ismail Elouafiq <contact@ismail.bio>,MIT,26440,Download and read NHANES health survey data.
+2026-10-04T10:19:00Z,runecli,0.1.0,,"MIT License Copyright (c) 2026 khanirfan18 Permission is hereby granted, free of charge, to any per…",85429,A terminal-first developer tool that turns a real GitHub issue into a grounded coding quest.
