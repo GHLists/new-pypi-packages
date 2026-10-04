@@ -8,32 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 22:19 UTC
+## Latest list — 2026-10-04 23:20 UTC
 
-New packages created between 2026-10-04 21:20 UTC and 2026-10-04 22:19 UTC.
+New packages created between 2026-10-04 22:19 UTC and 2026-10-04 23:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-04T22-19-55-891568Z.csv)
+[Full CSV](data/new-packages-2026-10-04T23-20-48-799312Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-04 21:25:13 | [flowstate-asof-core](https://pypi.org/project/flowstate-asof-core/) | 0.1.0 |  | 16.1 MB | Rust as-of join / streaming alignment kernel for FlowState (import name: flowst… |
-| 2026-10-04 21:25:48 | [flowstate-asof](https://pypi.org/project/flowstate-asof/) | 0.1.0 | Ryan Hamby <ryan.j.hamby@gmai… | 300.8 kB | Temporal alignment engine and GPU-accelerated data feeding for quantitative ML |
-| 2026-10-04 21:30:06 | [lostyle](https://pypi.org/project/lostyle/) | 0.1.0 | Aleksey Yablokov <alex_ya@mai… | 85.1 kB | Copy styles between LibreOffice / OpenDocument files (Draw, Writer, Calc, Impre… |
-| 2026-10-04 21:31:09 | [mcp-authscan](https://pypi.org/project/mcp-authscan/) | 0.8.0 | Leroy H. Mason | 42.5 kB | Static security scanner for self-rolled OAuth/auth failure classes in MCP serve… |
-| 2026-10-04 21:31:24 | [qiskit-waveform-sim](https://pypi.org/project/qiskit-waveform-sim/) | 0.1.1 | Qiskit Community <qiskit@us.i… | 59.9 kB | Zero-bloat Classical Control Waveform Simulator & Interactive Pulse Sheet Viewe… |
-| 2026-10-04 21:32:39 | [musedin](https://pypi.org/project/musedin/) | 0.1.0 |  | 14.7 kB | Client for MusedIn, the job network for AI agents: join in one request, find jo… |
-| 2026-10-04 21:40:24 | [pandas-numba](https://pypi.org/project/pandas-numba/) | 0.1.1 | Damien Loison | 23.6 kB | pandas-style typed columns usable inside numba @njit (nopython) code, with a pa… |
-| 2026-10-04 21:46:36 | [pyrunoff](https://pypi.org/project/pyrunoff/) | 0.1.0a1 | Darshan Baral | 95.9 kB | Hydrologic runoff and routing calculations in Python; not ready for use |
-| 2026-10-04 21:47:32 | [pytest-bit-mutant](https://pypi.org/project/pytest-bit-mutant/) | 0.1.0 | jhb123 <jhbriggs23@gmail.com> | 26.4 kB | A pytest plugin that mutation-tests bitwise operators by rewriting function byt… |
-| 2026-10-04 21:48:32 | [seamgraph](https://pypi.org/project/seamgraph/) | 0.1.0 | dager23 <72321363+dager23@use… | 132.8 kB | A deterministic graph of your repo's seams: the string-typed references that co… |
-| 2026-10-04 21:50:00 | [uroboros-userbot](https://pypi.org/project/uroboros-userbot/) | 1.0.0 |  | 312.2 kB | Модульный юзербот для Telegram |
-| 2026-10-04 21:50:39 | [northstar-sdk](https://pypi.org/project/northstar-sdk/) | 1.0 | Nathan Boulogne | 120.4 kB | Thin HTTP client for the Northstar platform API |
-| 2026-10-04 21:56:38 | [hermesi](https://pypi.org/project/hermesi/) | 0.1.0 | Hermesi | 68.9 kB | Server-side client for Hermesi: publish events, mint subscriber tokens and pref… |
-| 2026-10-04 22:00:57 | [bankai-fast-mcs](https://pypi.org/project/bankai-fast-mcs/) | 0.1.0a1 |  | 7.9 MB | High-performance Rust and Python implementation of the Model Confidence Set. |
-| 2026-10-04 22:02:57 | [linkfetch](https://pypi.org/project/linkfetch/) | 0.1.0 | Prosperis | 120.5 kB | Capture your own LinkedIn profile on your own computer and turn it into structu… |
-| 2026-10-04 22:03:31 | [orthogonal-matching-pursuit-gpu](https://pypi.org/project/orthogonal-matching-pursuit-gpu/) | 0.1.3 | Ariel Lubonja, Sebastian Kazm… | 210.7 kB | GPU-accelerated Batched Orthogonal Matching Pursuit — up to 310x faster than sc… |
-| 2026-10-04 22:04:08 | [ontology-lookup](https://pypi.org/project/ontology-lookup/) | 0.1.1 |  | 110.7 kB | High-performance, size-optimized local ontology lookup engine |
-| 2026-10-04 22:07:13 | [openmeaning](https://pypi.org/project/openmeaning/) | 0.0.1 |  | 10.9 kB | OpenMeaning. First release coming soon. |
-| 2026-10-04 22:11:39 | [microui-py](https://pypi.org/project/microui-py/) | 0.3.0 | Shakeeb Alireza <shakfu@me.or… | 5.8 MB | A cython wrapper for microui |
-| 2026-10-04 22:14:11 | [NSTS](https://pypi.org/project/NSTS/) | 0.1.0 |  | 39.3 kB | A neuro-symbolic system for webpage validity timestamp determination |
-| 2026-10-04 22:15:16 | [completr](https://pypi.org/project/completr/) | 0.1.0 | Saiful Islam | 103.5 MB | Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abb… |
+| 2026-10-04 21:47:08 | [trigora-cli](https://pypi.org/project/trigora-cli/) | 1.0.0 | Trigora | 27.2 MB | Platform CLI distribution for Trigora Python projects |
+| 2026-10-04 22:21:30 | [route-explain](https://pypi.org/project/route-explain/) | 0.4.1 | Artur Panek | 72.2 kB | Read-only, kernel-backed Linux routing forensics for explaining why a flow took… |
+| 2026-10-04 22:22:44 | [rt-core-amador](https://pypi.org/project/rt-core-amador/) | 1.0.0 | Francisco Amador Barrios Espi… | 17.6 kB | Lightweight pure-Python mathematical tools inspired by the Amador Transform. |
+| 2026-10-04 22:24:01 | [http-forensics](https://pypi.org/project/http-forensics/) | 0.1.0 | stackadnan | 13.6 kB | A reproducible toolkit for investigating and documenting HTTP behavior. |
+| 2026-10-04 22:29:45 | [onescad](https://pypi.org/project/onescad/) | 0.1.0 |  | 370.4 kB | Bundle an OpenSCAD model into one customizer-ready file |
+| 2026-10-04 22:29:52 | [nio-db-py](https://pypi.org/project/nio-db-py/) | 0.1.1 | Nio Labs | 5.5 kB | Ultra-lightweight Python client for NioDB (The Agentic Database) |
+| 2026-10-04 22:30:38 | [palimem](https://pypi.org/project/palimem/) | 0.0.1 | Christian Leiva Beltran | 22.4 kB | Justified memory for LLM agents: evidence-pinned beliefs, retraction that propa… |
+| 2026-10-04 22:34:06 | [jwtlint](https://pypi.org/project/jwtlint/) | 0.2.0 | Baran Ayaztas | 41.9 kB | Offline static security analysis for JWTs. |
+| 2026-10-04 22:38:38 | [watchpost-cli](https://pypi.org/project/watchpost-cli/) | 0.0.1 |  | 56.4 kB | Local-first, evidence-backed reviews of changes between saved Nmap scans. |
+| 2026-10-04 22:43:22 | [pagequiet](https://pypi.org/project/pagequiet/) | 0.1.0 | User0856 | 29.0 kB | Website change detection that stays quiet until something real changes. |
+| 2026-10-04 22:45:21 | [rowstile](https://pypi.org/project/rowstile/) | 0.1.0a2 |  | 627.9 kB | Access rules for Postgres: the rowstile command, and the SDK for Python apps (F… |
+| 2026-10-04 22:48:00 | [PyNetioConf](https://pypi.org/project/PyNetioConf/) | 0.3.0b1 | NETIO products a.s. | 99.5 kB | Universal module to control and configure all NETIO devices |
+| 2026-10-04 22:51:43 | [the-third-eye](https://pypi.org/project/the-third-eye/) | 0.1.0 | Ravi Kumar <93548891+dcsgod@u… | 108.0 kB | AI model health and governance control plane for Databricks. |
+| 2026-10-04 22:52:06 | [TikPipe](https://pypi.org/project/TikPipe/) | 1.0.1 |  | 13.9 kB | High-performance real-time TikTok feed harvester and concurrent downloader |
+| 2026-10-04 22:53:46 | [dmbench](https://pypi.org/project/dmbench/) | 0.0.1 |  | 3.7 kB | Add your description here |
+| 2026-10-04 22:54:46 | [sublevel-flood](https://pypi.org/project/sublevel-flood/) | 0.1 |  | 65.2 kB | A package that computes the sublevel Flood bifiltration, a scalable approach fo… |
+| 2026-10-04 22:55:05 | [devvault-xyltraz](https://pypi.org/project/devvault-xyltraz/) | 1.0.0 | Xyltraz | 7.1 kB | A lightweight local environment variable manager for developers |
+| 2026-10-04 23:01:21 | [pinhaul](https://pypi.org/project/pinhaul/) | 0.4.4 | Reknown | 38.8 kB | Runtime dependency inventory for Pinhaul: one import, your project reports what… |
+| 2026-10-04 23:09:09 | [mintid-proof-core](https://pypi.org/project/mintid-proof-core/) | 0.3.0 | Marc Molas <marc@mintid.net> | 1.3 MB | MintID proof core for Python: the headless holder library and the issuance side… |
+| 2026-10-04 23:09:56 | [aegis-red](https://pypi.org/project/aegis-red/) | 0.2.1 | rfintek Inc. | 287.0 kB | Authorized assurance harness for AI agents: packs, seed store, policy-robustnes… |
+| 2026-10-04 23:10:21 | [mintid-verifier-sdk](https://pypi.org/project/mintid-verifier-sdk/) | 0.1.0 | Marc Molas <marc@mintid.net> | 1.2 MB | MintID Verifier SDK: presentation verification for the relying party's own veri… |

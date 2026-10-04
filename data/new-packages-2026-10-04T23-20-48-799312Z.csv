@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T21:47:08Z,trigora-cli,1.0.0,Trigora,MIT,27190450,Platform CLI distribution for Trigora Python projects
+2026-10-04T22:21:30Z,route-explain,0.4.1,Artur Panek,MIT,72200,"Read-only, kernel-backed Linux routing forensics for explaining why a flow took its path."
+2026-10-04T22:22:44Z,rt-core-amador,1.0.0,Francisco Amador Barrios Espinoza,MIT,17581,Lightweight pure-Python mathematical tools inspired by the Amador Transform.
+2026-10-04T22:24:01Z,http-forensics,0.1.0,stackadnan,MIT,13586,A reproducible toolkit for investigating and documenting HTTP behavior.
+2026-10-04T22:29:45Z,onescad,0.1.0,,MIT,370439,Bundle an OpenSCAD model into one customizer-ready file
+2026-10-04T22:29:52Z,nio-db-py,0.1.1,Nio Labs,MIT,5546,Ultra-lightweight Python client for NioDB (The Agentic Database)
+2026-10-04T22:30:38Z,palimem,0.0.1,Christian Leiva Beltran,MIT,22366,"Justified memory for LLM agents: evidence-pinned beliefs, retraction that propagates, uncertainty kept rather than guessed. Pre-alpha."
+2026-10-04T22:34:06Z,jwtlint,0.2.0,Baran Ayaztas,MIT,41935,Offline static security analysis for JWTs.
+2026-10-04T22:38:38Z,watchpost-cli,0.0.1,,MIT,56387,"Local-first, evidence-backed reviews of changes between saved Nmap scans."
+2026-10-04T22:43:22Z,pagequiet,0.1.0,User0856,MIT,29028,Website change detection that stays quiet until something real changes.
+2026-10-04T22:45:21Z,rowstile,0.1.0a2,,Apache-2.0,627921,"Access rules for Postgres: the rowstile command, and the SDK for Python apps (FastAPI, SQLAlchemy, psycopg, asyncpg, Alembic, pytest)"
+2026-10-04T22:48:00Z,PyNetioConf,0.3.0b1,NETIO products a.s.,MIT,99454,Universal module to control and configure all NETIO devices
+2026-10-04T22:51:43Z,the-third-eye,0.1.0,Ravi Kumar <93548891+dcsgod@users.noreply.github.com>,Apache-2.0,108049,AI model health and governance control plane for Databricks.
+2026-10-04T22:52:06Z,TikPipe,1.0.1,,,13857,High-performance real-time TikTok feed harvester and concurrent downloader
+2026-10-04T22:53:46Z,dmbench,0.0.1,,,3722,Add your description here
+2026-10-04T22:54:46Z,sublevel-flood,0.1,,,65222,"A package that computes the sublevel Flood bifiltration, a scalable approach for using 2-parameter persistent homology with large-scale, low-dimensional point sets."
+2026-10-04T22:55:05Z,devvault-xyltraz,1.0.0,Xyltraz,MIT,7130,A lightweight local environment variable manager for developers
+2026-10-04T23:01:21Z,pinhaul,0.4.4,Reknown,Proprietary,38778,"Runtime dependency inventory for Pinhaul: one import, your project reports what it actually runs."
+2026-10-04T23:09:09Z,mintid-proof-core,0.3.0,Marc Molas <marc@mintid.net>,Apache-2.0,1330913,"MintID proof core for Python: the headless holder library and the issuance side of the anonymous-credential core, with the Rust core compiled in"
+2026-10-04T23:09:56Z,aegis-red,0.2.1,rfintek Inc.,Proprietary,287009,"Authorized assurance harness for AI agents: packs, seed store, policy-robustness probes, and examiner-grade evidence."
+2026-10-04T23:10:21Z,mintid-verifier-sdk,0.1.0,Marc Molas <marc@mintid.net>,Apache-2.0,1191436,"MintID Verifier SDK: presentation verification for the relying party's own verifier, with the pinned Rust proof engine compiled in"
