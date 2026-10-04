@@ -1,0 +1,17 @@
+created_at,package,version,author,license,size,summary
+2026-10-03T22:56:37Z,geodesicdomes,1.3.3,Masahiro Takatsuka <masa@takatsuka.org>,AGPL-3.0-or-later,184877,"Geodesic domes (icosahedral, tetrahedral and dodecahedral spherical lattices) with fast neighbour search, flat grids, map projections and an interactive rotatable map viewer -- the lattice layer for…"
+2026-10-03T23:32:55Z,mcp-server-ecommerce,0.1.0,,MIT,226120,MCP server exposing the e-commerce multi-agent workflow tool inventory (70 tools) over stdio
+2026-10-03T23:37:51Z,rewalto,0.0.1,,,1929,Rewalto: useful data for people and AI agents. The official Python SDK will be published here.
+2026-10-03T23:41:07Z,virgil-astro,0.2.0,Max Charles,MIT,296195,"VIRGIL, the Versatile Interferometric Reconstruction and Gradient-based Inference Library: modelling and imaging interferometric data in JAX."
+2026-10-03T23:46:33Z,govec,0.1.0,Pradyoth,Apache-2.0,51554,"Python client for GoVec, a compact vector search engine, over REST or gRPC"
+2026-10-03T23:46:55Z,styletransfer-lite,0.1.0,Ekaghni <ekaghni.mukherjee@gmail.com>,MIT,5779144,"Fast neural style transfer in Python: 26 built-in styles, any painting as a style, CLI, GUI and video. Small install, no TensorFlow or PyTorch."
+2026-10-03T23:48:05Z,routemap-engine,0.2.1,osintph <sb@osintph.info>,AGPL-3.0-only,1342883,"Hostname-first, physics-checked traceroute geolocation: parsers, CAIDA Hoiho client, carrier site codes, RTT bound."
+2026-10-04T00:02:04Z,screenstocks-bridge,0.2.0,,MIT-0,16528,Python client for the local Screen Stocks BepInEx bridge
+2026-10-04T00:02:15Z,hajer,0.1.0,Hajer,MIT,505870,"The Hajer SDK: hand a verifier the request, the output and the evidence, get an assessment back."
+2026-10-04T00:08:27Z,multi-agent-observability,0.1.0,nunar-nexus-forge,Apache-2.0,138978,"MA-Trace: causal tracing, coordination SLOs and deterministic replay for multi-agent LLM systems (multi-agent observability on OpenTelemetry)."
+2026-10-04T00:08:36Z,agent-chaos-engineering,0.1.0,nunar-nexus-forge,Apache-2.0,120705,"Chaos engineering and self-healing recovery patterns for multi-agent LLM systems: inject hallucination loops, tool failures, cyclic dependencies and stale memory, then measure how the system degrades…"
+2026-10-04T00:08:50Z,agent-tool-guardrails,0.1.0,nunar-nexus-forge,Apache-2.0,117274,"Typed policy rails for agent-tool calls: a policy compiler that turns declarative requirements into executable (Type, Predicate, Evidence, Action) rails, a tamper-evident evidence store, trust-scored…"
+2026-10-04T00:09:04Z,gridhour,0.1.0,,MIT,91616,When British electricity is green and cheap: a 48 hour carbon intensity and Agile price timeline for the terminal
+2026-10-04T00:09:41Z,cherami,0.1.0,Cherami,MIT,117919,"Official Cherami HTTP client: inboxes, correspondence, drafts, attachments and conversations."
+2026-10-04T00:13:34Z,metaclock-analysis-workflows,0.1.0,,,20129,Reproducible analysis and plotting workflows for MetaClock
+2026-10-04T00:14:32Z,diescope,0.0.1,"""TAHO, Inc."" <hi@diescope.dev>",Apache-2.0,12462,"See what your silicon is actually doing. Chip-level utilization for GPUs, CPUs, and Apple silicon."
