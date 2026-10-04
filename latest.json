@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 51,
-    "from": "2026-10-04T10:19:57.109211Z",
-    "path": "data/new-packages-2026-10-04T11-19-05-697371Z.csv",
-    "to": "2026-10-04T11:19:05.697371Z"
+    "count": 33,
+    "from": "2026-10-04T11:19:05.697371Z",
+    "path": "data/new-packages-2026-10-04T12-18-37-838072Z.csv",
+    "to": "2026-10-04T12:18:37.838072Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-04T09:20:34Z",
       "package": "SWE-Duel",
       "since": "2026-10-04T09:18:40.046562Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-04T07:29:04Z",
-      "package": "opencode-zen-server",
-      "since": "2026-10-04T07:18:45.590149Z"
+      "attempts": 1,
+      "created_at": "2026-10-04T11:24:18Z",
+      "package": "pybind12",
+      "since": "2026-10-04T11:19:05.697371Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-04T10:04:16Z",
       "package": "swe-duel",
       "since": "2026-10-04T09:18:40.046562Z"
     }
   ],
-  "serial": 41798355,
+  "serial": 41799663,
   "source_truncated": false,
-  "window": "2026-10-04T11:19:05.697371Z"
+  "window": "2026-10-04T12:18:37.838072Z"
 }

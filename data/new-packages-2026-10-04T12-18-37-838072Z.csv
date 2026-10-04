@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T11:19:09Z,salt-tui,0.1.1,,Apache-2.0,351964,A keyboard-driven SaltStack operations console
+2026-10-04T11:20:11Z,useshards,0.1.0a1,,Apache-2.0,15171,A minimal Shard API client. This alpha supports server version requests.
+2026-10-04T11:20:19Z,mixcloud-mcp-server,0.1.0,djornii,MIT,114293,"MCP server for the Mixcloud API: search, browse, upload and edit shows"
+2026-10-04T11:24:19Z,astra-nutrition,0.3.0,turhanGoksu,Apache-2.0,136138,"Turkish/English meal text to foods, grams and nutrition: offline GGUF parser, deterministic amounts, traceable USDA-based food table."
+2026-10-04T11:24:33Z,vercy,0.1.0,,Apache-2.0,57762,"Check agent memory against the Vercy Governance Overlay, and a read-only MCP server over the Vercy model catalogue."
+2026-10-04T11:24:56Z,portfolio-scraper,0.1.1,Riccardo Tornesello <riccardo.tornesello@gmail.com>,Apache-2.0,313563,"Scrape ETF holdings from iShares, Vanguard, and Xtrackers"
+2026-10-04T11:26:56Z,lupaxa-markdown-converter,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",34738,"Convert a Markdown document between CommonMark, GitHub, and Obsidian."
+2026-10-04T11:27:36Z,axiomrnn,0.1.1,Cubetitled,Apache-2.0,512418,"Design networks for the memory budget you have: a pure-python planner, plus an extendable recurrent/spiking kernel with verified gradients"
+2026-10-04T11:29:55Z,chaobrain,0.0.1,Chaoming Wang,Apache-2.0,1875,"A Python toolkit for multi-scale brain simulation, from spiking neurons to whole-brain networks."
+2026-10-04T11:30:41Z,cs2asset,0.2.1,,,124844,"Convert local and provider textures, HDR skies, and static models into CS2 Hammer resources"
+2026-10-04T11:31:23Z,termbeat,1.0.0,Aryan Garg,MIT,123214,A retro hi-fi internet-radio player that runs entirely in a terminal
+2026-10-04T11:31:38Z,prodc,0.2.0,Jorge Cardona <jorgeecardona@gmail.com>,MIT,30945,"Product management as code: personas, flows, and features traced to evidence."
+2026-10-04T11:31:39Z,agtcld,0.1.2,Ruturaj Dixit,MIT,847206,"AgentCloud AI — your private cloud solutions agent: ask, design & visualize cloud architectures, grounded in official docs (AWS today; Azure & GCP coming soon)"
+2026-10-04T11:34:18Z,hubrelay,0.2.3,,MIT,328214,"Self-hosted LLM relay/gateway for LAN: multi-upstream key pool, downstream tokens, usage accounting, conformance probing (局域网大模型中转站)"
+2026-10-04T11:35:03Z,meta-induction,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,6024,Meta-induction
+2026-10-04T11:40:33Z,meta-deduction,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,6024,Meta-deduction
+2026-10-04T11:40:54Z,tgi-foundation,0.2.0.dev0,Emylton Leunufna,Copyright (c) 2026 Emylton Leunufna No reuse allowed without permission.,1528880,Native character-identity and geometric knowledge mechanisms for Topological Geometric Intelligence
+2026-10-04T11:43:18Z,vercy-graphiti,0.1.0,,Apache-2.0,44908,"Authority and disclosure for Graphiti: the Vercy Governance Overlay as edge attributes, writer attestation and an enforcing read path."
+2026-10-04T11:46:37Z,meta-abduction,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,6034,Meta-abduction
+2026-10-04T11:49:20Z,botonomus,0.2.0,Botonomus contributors,MIT,358317,"Stealth browser automation on real Chrome: native CDP driver, C++-level personas, async session pools"
+2026-10-04T11:49:57Z,membase-ai,0.0.1,Unibase,MIT,2068,Membase — long-term memory for AI. Installs the Membase Python client (import membase).
+2026-10-04T11:56:04Z,universal-ai-config,0.1.0,DevArts Lab,MIT,35618,Unified configuration management for AI agents across multiple providers
+2026-10-04T12:01:06Z,gru-nicegui,0.3.1,Cimbali <me@cimba.li>,EUPL-1.2,62999,"NiceGUI GUI for Gru, the ESO addon manager."
+2026-10-04T12:02:20Z,atst,1.4.3,atst contributors,MIT,2812852,"Provider-first market-data runtime and TDX protocol toolkit with explicit Providers, direct Provider reads, Stateful streaming and canonical HTTP/WebSocket/MCP adapters"
+2026-10-04T12:03:46Z,aiobs-contracts,0.1.0,Tudor Oprea <133231902+Tudor230@users.noreply.github.com>,MIT,10225,"Shared SDK <-> backend contract: attribute names, failure taxonomy, redaction rules, classification hints (single source of truth)"
+2026-10-04T12:03:49Z,typed-decisions,0.1.0,Shrinidhi Suresha,Apache-2.0,153281,"Fast, calibrated typed decisions (choice, score, yes/no) from open-weights models"
+2026-10-04T12:04:01Z,ai-observability-sdk,0.1.0,Tudor Oprea <133231902+Tudor230@users.noreply.github.com>,MIT,513567,Python observability SDK for the AI Observability Platform (v1: LangChain + LlamaIndex tracing to OTLP/Postgres)
+2026-10-04T12:06:28Z,python-swoosh,0.1.0,,,42352918,Python bindings for the SWOOSH lattice-based NIKE reference implementation
+2026-10-04T12:11:46Z,dashpilot-mcp,0.1.1,,MIT,98143,"DoorDash Drive automation for AI agents — quote, dispatch, track, schedule, and batch deliveries for restaurants (unofficial)"
+2026-10-04T12:13:25Z,ru-requisites,0.2.0,Leonid Kushkin,MIT,61721,Проверка российских реквизитов и разбор справочника БИК ED807
+2026-10-04T12:15:27Z,blurry-opsec,0.1.0,Chrono-Web contributors,MIT,874562,"Cover faces and strip metadata from photos and videos, locally and offline."
+2026-10-04T12:17:15Z,vexillum,0.0.1,,MIT,3084,Reserved for the Vexillum standard: agent pipelines that live in the repository.
+2026-10-04T12:17:31Z,ileva-sdk-api-v3-auth,0.1.0b1,,MIT,38529,"Autenticação na API Ileva v3: gera o token de acesso e mantém sua validade, com cache compartilhado em Redis."
