@@ -8,31 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 21:20 UTC
+## Latest list — 2026-10-04 22:19 UTC
 
-New packages created between 2026-10-04 20:19 UTC and 2026-10-04 21:20 UTC.
+New packages created between 2026-10-04 21:20 UTC and 2026-10-04 22:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-04T21-20-23-433667Z.csv)
+[Full CSV](data/new-packages-2026-10-04T22-19-55-891568Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-04 20:19:08 | [infra-health-check](https://pypi.org/project/infra-health-check/) | 0.1.0 | Redn Alsidrah | 49.2 kB | Infrastructure health checker CLI: DNS, TCP, TLS, HTTP, certificate and latency… |
-| 2026-10-04 20:19:25 | [walla-cli](https://pypi.org/project/walla-cli/) | 0.1.7 | "Dr. Berend Gort" <berend.gor… | 228.0 kB | Wallapop.es CLI - look · offer · talk for humans and agents |
-| 2026-10-04 20:19:46 | [unrent](https://pypi.org/project/unrent/) | 0.2.1 | stringcutter | 306.6 kB | Find the strings your AI code hangs by: closed AI services to swap for open sou… |
-| 2026-10-04 20:21:40 | [emoji-toolkit](https://pypi.org/project/emoji-toolkit/) | 0.1.0 |  | 31.0 kB | Get emoji images or data URLs from your terminal for notifications, scripts, an… |
-| 2026-10-04 20:28:52 | [iddqueue](https://pypi.org/project/iddqueue/) | 0.13.0rc1 | Étienne BERSAC | 87.9 kB | Postgres Broker for Dramatiq Task Queue |
-| 2026-10-04 20:33:43 | [octonotch](https://pypi.org/project/octonotch/) | 0.0.0 | Josh VanOrden | 2.1 kB | Placeholder - name reservation for Octo Notch |
-| 2026-10-04 20:35:20 | [plot-hole](https://pypi.org/project/plot-hole/) | 0.0.0 |  | 2.1 kB | Placeholder for Plot Hole, an interactive plot builder for lab tables. Not rele… |
-| 2026-10-04 20:41:41 | [mintid-agent](https://pypi.org/project/mintid-agent/) | 0.1.0 | Marc Molas <marc@mintid.net> | 58.8 kB | MintID agent client: agent credential custody, witness refresh and the x402 pay… |
-| 2026-10-04 20:57:51 | [rumi-llm](https://pypi.org/project/rumi-llm/) | 1.0.0 |  | 16.2 kB | RUMI-8M small decoder-only Transformer language model |
-| 2026-10-04 20:58:23 | [cs-survival-kit](https://pypi.org/project/cs-survival-kit/) | 0.1.0 | Jimmy Wallace | 34.0 kB | Hand-written data structures and algorithms, plus a benchmarking toolkit. |
-| 2026-10-04 20:58:28 | [sounddifff](https://pypi.org/project/sounddifff/) | 0.3.0 | systemBlue <dev@systemblue.io> | 64.5 kB | Structured audio comparison for producers and developers. Think git diff, but f… |
-| 2026-10-04 21:00:41 | [eufy-home-security](https://pypi.org/project/eufy-home-security/) | 0.1.0 | Alar Aun | 1.3 MB | Asyncio client for eufy Security: local P2P to the HomeBase, the eufy cloud, an… |
-| 2026-10-04 21:04:00 | [soft-robotic-arm](https://pypi.org/project/soft-robotic-arm/) | 0.4.0 |  | 58.2 kB | MuJoCo coursework model and calibrated digital twin for a pneumatic soft arm |
-| 2026-10-04 21:04:31 | [tensorboard-book](https://pypi.org/project/tensorboard-book/) | 0.7.0 | Esteban Gomez | 663.6 kB | Bookkeeping for folders of TensorBoard runs: index, tag, group, compare and bro… |
-| 2026-10-04 21:08:57 | [hwbench](https://pypi.org/project/hwbench/) | 0.3.0 | Mvth1s | 184.0 kB | Inventaire matériel et benchmarks notés en ligne de commande |
-| 2026-10-04 21:12:22 | [pybac](https://pypi.org/project/pybac/) | 0.1.0 | boudah | 147.4 kB | Policy-based access control: verdicts, field masking and query filters from one… |
-| 2026-10-04 21:14:08 | [hypergraph-viz-viewer](https://pypi.org/project/hypergraph-viz-viewer/) | 0.1.2 |  | 113.1 MB | Prebuilt Hyper native desktop viewer for hypergraph-viz |
-| 2026-10-04 21:14:57 | [rowbase-db](https://pypi.org/project/rowbase-db/) | 0.2.1 | Rowbase contributors | 150.9 kB | Fast, safe, read-only-by-default database client for MySQL/MariaDB, PostgreSQL… |
-| 2026-10-04 21:16:09 | [pyngbsicon](https://pypi.org/project/pyngbsicon/) | 0.1.0 | RobRoy1979 | 61.8 kB | Asynchronous client for NGBS iCON heating/cooling controllers (local JSON/TCP p… |
-| 2026-10-04 21:17:16 | [opendatasuite](https://pypi.org/project/opendatasuite/) | 0.0.1 |  | 81.2 MB | OpenDataSuite (ODS): explainable, provider-neutral tooling for dbt projects. In… |
+| 2026-10-04 21:25:13 | [flowstate-asof-core](https://pypi.org/project/flowstate-asof-core/) | 0.1.0 |  | 16.1 MB | Rust as-of join / streaming alignment kernel for FlowState (import name: flowst… |
+| 2026-10-04 21:25:48 | [flowstate-asof](https://pypi.org/project/flowstate-asof/) | 0.1.0 | Ryan Hamby <ryan.j.hamby@gmai… | 300.8 kB | Temporal alignment engine and GPU-accelerated data feeding for quantitative ML |
+| 2026-10-04 21:30:06 | [lostyle](https://pypi.org/project/lostyle/) | 0.1.0 | Aleksey Yablokov <alex_ya@mai… | 85.1 kB | Copy styles between LibreOffice / OpenDocument files (Draw, Writer, Calc, Impre… |
+| 2026-10-04 21:31:09 | [mcp-authscan](https://pypi.org/project/mcp-authscan/) | 0.8.0 | Leroy H. Mason | 42.5 kB | Static security scanner for self-rolled OAuth/auth failure classes in MCP serve… |
+| 2026-10-04 21:31:24 | [qiskit-waveform-sim](https://pypi.org/project/qiskit-waveform-sim/) | 0.1.1 | Qiskit Community <qiskit@us.i… | 59.9 kB | Zero-bloat Classical Control Waveform Simulator & Interactive Pulse Sheet Viewe… |
+| 2026-10-04 21:32:39 | [musedin](https://pypi.org/project/musedin/) | 0.1.0 |  | 14.7 kB | Client for MusedIn, the job network for AI agents: join in one request, find jo… |
+| 2026-10-04 21:40:24 | [pandas-numba](https://pypi.org/project/pandas-numba/) | 0.1.1 | Damien Loison | 23.6 kB | pandas-style typed columns usable inside numba @njit (nopython) code, with a pa… |
+| 2026-10-04 21:46:36 | [pyrunoff](https://pypi.org/project/pyrunoff/) | 0.1.0a1 | Darshan Baral | 95.9 kB | Hydrologic runoff and routing calculations in Python; not ready for use |
+| 2026-10-04 21:47:32 | [pytest-bit-mutant](https://pypi.org/project/pytest-bit-mutant/) | 0.1.0 | jhb123 <jhbriggs23@gmail.com> | 26.4 kB | A pytest plugin that mutation-tests bitwise operators by rewriting function byt… |
+| 2026-10-04 21:48:32 | [seamgraph](https://pypi.org/project/seamgraph/) | 0.1.0 | dager23 <72321363+dager23@use… | 132.8 kB | A deterministic graph of your repo's seams: the string-typed references that co… |
+| 2026-10-04 21:50:00 | [uroboros-userbot](https://pypi.org/project/uroboros-userbot/) | 1.0.0 |  | 312.2 kB | Модульный юзербот для Telegram |
+| 2026-10-04 21:50:39 | [northstar-sdk](https://pypi.org/project/northstar-sdk/) | 1.0 | Nathan Boulogne | 120.4 kB | Thin HTTP client for the Northstar platform API |
+| 2026-10-04 21:56:38 | [hermesi](https://pypi.org/project/hermesi/) | 0.1.0 | Hermesi | 68.9 kB | Server-side client for Hermesi: publish events, mint subscriber tokens and pref… |
+| 2026-10-04 22:00:57 | [bankai-fast-mcs](https://pypi.org/project/bankai-fast-mcs/) | 0.1.0a1 |  | 7.9 MB | High-performance Rust and Python implementation of the Model Confidence Set. |
+| 2026-10-04 22:02:57 | [linkfetch](https://pypi.org/project/linkfetch/) | 0.1.0 | Prosperis | 120.5 kB | Capture your own LinkedIn profile on your own computer and turn it into structu… |
+| 2026-10-04 22:03:31 | [orthogonal-matching-pursuit-gpu](https://pypi.org/project/orthogonal-matching-pursuit-gpu/) | 0.1.3 | Ariel Lubonja, Sebastian Kazm… | 210.7 kB | GPU-accelerated Batched Orthogonal Matching Pursuit — up to 310x faster than sc… |
+| 2026-10-04 22:04:08 | [ontology-lookup](https://pypi.org/project/ontology-lookup/) | 0.1.1 |  | 110.7 kB | High-performance, size-optimized local ontology lookup engine |
+| 2026-10-04 22:07:13 | [openmeaning](https://pypi.org/project/openmeaning/) | 0.0.1 |  | 10.9 kB | OpenMeaning. First release coming soon. |
+| 2026-10-04 22:11:39 | [microui-py](https://pypi.org/project/microui-py/) | 0.3.0 | Shakeeb Alireza <shakfu@me.or… | 5.8 MB | A cython wrapper for microui |
+| 2026-10-04 22:14:11 | [NSTS](https://pypi.org/project/NSTS/) | 0.1.0 |  | 39.3 kB | A neuro-symbolic system for webpage validity timestamp determination |
+| 2026-10-04 22:15:16 | [completr](https://pypi.org/project/completr/) | 0.1.0 | Saiful Islam | 103.5 MB | Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abb… |

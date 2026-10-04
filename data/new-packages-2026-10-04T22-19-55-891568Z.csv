@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T21:25:13Z,flowstate-asof-core,0.1.0,,Apache-2.0,16130573,Rust as-of join / streaming alignment kernel for FlowState (import name: flowstate_core)
+2026-10-04T21:25:48Z,flowstate-asof,0.1.0,Ryan Hamby <ryan.j.hamby@gmail.com>,Apache-2.0,300769,Temporal alignment engine and GPU-accelerated data feeding for quantitative ML
+2026-10-04T21:30:06Z,lostyle,0.1.0,Aleksey Yablokov <alex_ya@mailbox.org>,MIT,85099,"Copy styles between LibreOffice / OpenDocument files (Draw, Writer, Calc, Impress)"
+2026-10-04T21:31:09Z,mcp-authscan,0.8.0,Leroy H. Mason,MIT,42495,"Static security scanner for self-rolled OAuth/auth failure classes in MCP servers, gateways, and OAuth clients. Rules seeded from live-reproduced, chain-of-custody-anchored VATA findings. SARIF outpu…"
+2026-10-04T21:31:24Z,qiskit-waveform-sim,0.1.1,Qiskit Community <qiskit@us.ibm.com>,Apache-2.0,59886,Zero-bloat Classical Control Waveform Simulator & Interactive Pulse Sheet Viewer for Qiskit 2.5+
+2026-10-04T21:32:39Z,musedin,0.1.0,,MIT,14722,"Client for MusedIn, the job network for AI agents: join in one request, find jobs, apply, post jobs. LangChain, CrewAI and OpenAI Agents SDK tools as extras."
+2026-10-04T21:40:24Z,pandas-numba,0.1.1,Damien Loison,"MIT License Copyright (c) 2026 Damien Loison Permission is hereby granted, free of charge, to any p…",23601,"pandas-style typed columns usable inside numba @njit (nopython) code, with a pandas DataFrame bridge"
+2026-10-04T21:46:36Z,pyrunoff,0.1.0a1,Darshan Baral,,95859,Hydrologic runoff and routing calculations in Python; not ready for use
+2026-10-04T21:47:32Z,pytest-bit-mutant,0.1.0,jhb123 <jhbriggs23@gmail.com>,MIT,26379,A pytest plugin that mutation-tests bitwise operators by rewriting function bytecode
+2026-10-04T21:48:32Z,seamgraph,0.1.0,dager23 <72321363+dager23@users.noreply.github.com>,MIT,132768,"A deterministic graph of your repo's seams: the string-typed references that connect code to configs, templates, frontend calls, CI, and .env - served to coding agents via MCP and CLI."
+2026-10-04T21:50:00Z,uroboros-userbot,1.0.0,,AGPL-3.0-only,312221,Модульный юзербот для Telegram
+2026-10-04T21:50:39Z,northstar-sdk,1.0,Nathan Boulogne,Apache-2.0,120359,Thin HTTP client for the Northstar platform API
+2026-10-04T21:56:38Z,hermesi,0.1.0,Hermesi,MIT,68936,"Server-side client for Hermesi: publish events, mint subscriber tokens and preference links, with retries and idempotency built in."
+2026-10-04T22:00:57Z,bankai-fast-mcs,0.1.0a1,,MIT,7913479,High-performance Rust and Python implementation of the Model Confidence Set.
+2026-10-04T22:02:57Z,linkfetch,0.1.0,Prosperis,MIT,120454,Capture your own LinkedIn profile on your own computer and turn it into structured profile files
+2026-10-04T22:03:31Z,orthogonal-matching-pursuit-gpu,0.1.3,"Ariel Lubonja, Sebastian Kazmarek Praesius, Trac Duy Tran",BSD-3-Clause,210688,GPU-accelerated Batched Orthogonal Matching Pursuit — up to 310x faster than scikit-learn
+2026-10-04T22:04:08Z,ontology-lookup,0.1.1,,,110682,"High-performance, size-optimized local ontology lookup engine"
+2026-10-04T22:07:13Z,openmeaning,0.0.1,,Apache-2.0,10894,OpenMeaning. First release coming soon.
+2026-10-04T22:11:39Z,microui-py,0.3.0,Shakeeb Alireza <shakfu@me.org>,,5769845,A cython wrapper for microui
+2026-10-04T22:14:11Z,NSTS,0.1.0,,MIT,39290,A neuro-symbolic system for webpage validity timestamp determination
+2026-10-04T22:15:16Z,completr,0.1.0,Saiful Islam,MIT,103455546,"Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abbreviation, spelling-tolerant, word-decomposing and semantic completions from object storage"
