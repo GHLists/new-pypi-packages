@@ -8,26 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 05:18 UTC
+## Latest list — 2026-10-04 06:20 UTC
 
-New packages created between 2026-10-04 04:18 UTC and 2026-10-04 05:18 UTC.
+New packages created between 2026-10-04 05:18 UTC and 2026-10-04 06:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-04T05-18-35-042815Z.csv)
+[Full CSV](data/new-packages-2026-10-04T06-20-25-87351Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-04 04:27:52 | [client-attestation-sdk](https://pypi.org/project/client-attestation-sdk/) | 0.2.0 | ID Partners Pty Ltd | 185.1 kB | Client-side builder SDK for OAuth Attestation-Based Client Authentication |
-| 2026-10-04 04:28:03 | [getyoutubetranscript](https://pypi.org/project/getyoutubetranscript/) | 0.3.0 | tubeagentkit | 36.0 kB | YouTube transcript API for Python: get YouTube video transcripts, captions and… |
-| 2026-10-04 04:34:41 | [aws-analyzer](https://pypi.org/project/aws-analyzer/) | 0.1.0 | Utkarsh Priyadarshi | 914.6 kB | Readable reports on your S3 buckets, DynamoDB tables, Bedrock knowledge bases a… |
-| 2026-10-04 04:35:31 | [canhoto](https://pypi.org/project/canhoto/) | 0.1.0 | luabagg | 130.7 kB | Local bank statement ledger: parse, categorize, and export monthly PDF summarie… |
-| 2026-10-04 04:36:22 | [lcd-qec](https://pypi.org/project/lcd-qec/) | 0.1.0 |  | 154.9 kB | Rigorous logical-error bounds for matching decoders on stim detector error mode… |
-| 2026-10-04 04:46:55 | [asexec](https://pypi.org/project/asexec/) | 0.3.14 | Luke Whitestone | 79.7 kB | Pre-registration & notarization primitive for AI evaluations — commit-then-reve… |
-| 2026-10-04 04:51:17 | [china-law-mcp](https://pypi.org/project/china-law-mcp/) | 0.1.1 |  | 3.4 MB | 中国法律条文 MCP 服务器：2.3 万条现行法条检索 + 引用核验（防幻觉），免费、免注册、免 API key |
-| 2026-10-04 04:54:23 | [pcli-agent](https://pypi.org/project/pcli-agent/) | 0.1.0 | Vikas NV <vikas.nv@gmail.com> | 870.7 kB | An opencode-style AI coding agent CLI/TUI for Python, with a Python discovery t… |
-| 2026-10-04 05:01:16 | [cafa-ivr](https://pypi.org/project/cafa-ivr/) | 1.1.0 | Vijay Kumar Sridharan | 32.2 kB | Reference implementation of Counterfactual ASR Failure Attribution for conversa… |
-| 2026-10-04 05:06:56 | [reason-machines-harbor](https://pypi.org/project/reason-machines-harbor/) | 0.3.1 |  | 68.1 kB | Harbor adapter for the public Reason Machines portable worker |
-| 2026-10-04 05:08:22 | [flowocr](https://pypi.org/project/flowocr/) | 0.1.0 | caca2331 | 1.2 MB | 从视频里抽全部屏幕文字、带起止时间、按区域聚类，导出 SRT / ASS |
-| 2026-10-04 05:08:52 | [icebergdb](https://pypi.org/project/icebergdb/) | 0.1.0 | Iceberg Data Technologies | 9.5 kB | Iceberg — High-performance serverless vector database for AI agents and RAG app… |
-| 2026-10-04 05:09:51 | [thumbforge](https://pypi.org/project/thumbforge/) | 0.1.0 | Gishant Singh | 734.1 kB | Generate consistent, spec-compliant YouTube thumbnails from a hero image and a… |
-| 2026-10-04 05:12:18 | [langchain-getyoutubetranscript](https://pypi.org/project/langchain-getyoutubetranscript/) | 0.1.0 | tubeagentkit | 14.5 kB | YouTube transcript tools and document loader for LangChain: get YouTube video t… |
-| 2026-10-04 05:17:15 | [crewai-getyoutubetranscript](https://pypi.org/project/crewai-getyoutubetranscript/) | 0.1.0 | tubeagentkit | 10.9 kB | YouTube transcript tools for CrewAI agents: get YouTube video transcripts with… |
+| 2026-10-04 05:19:05 | [llm-getyoutubetranscript](https://pypi.org/project/llm-getyoutubetranscript/) | 0.1.0 | TubeAgentKit | 16.6 kB | YouTube transcripts for LLM: load any YouTube transcript as a fragment or tool… |
+| 2026-10-04 05:25:47 | [fbnnet-core](https://pypi.org/project/fbnnet-core/) | 1.1.6 | Leshi Chen <chenleshi@hotmail… | 31.6 MB | Fundamental Boolean Network (FBN) inference of gene regulatory networks from ti… |
+| 2026-10-04 05:39:32 | [deepseek-cordis](https://pypi.org/project/deepseek-cordis/) | 0.1.0 | Ikram Ali | 237.1 kB | Python plugin runtime targeting DeepSeek Harness vendored Cordis semantics |
+| 2026-10-04 05:49:24 | [keystash](https://pypi.org/project/keystash/) | 0.1.0 | thu-lawyer | 32.8 kB | Local-first encrypted vault for API keys, tokens and passwords — one file, fuzz… |
+| 2026-10-04 05:50:44 | [aicliniq](https://pypi.org/project/aicliniq/) | 0.1.0a0 | Satheesh Kola | 1.7 MB | Open-source AI agent framework for healthcare and life sciences |
+| 2026-10-04 05:52:19 | [speedbay-core](https://pypi.org/project/speedbay-core/) | 0.0.0 |  | 2.9 kB | Name reserved by Speed Bay. The real distribution is published to a private ind… |
+| 2026-10-04 05:52:22 | [speedbay](https://pypi.org/project/speedbay/) | 0.0.0 |  | 2.9 kB | Name reserved by Speed Bay. The real distribution is published to a private ind… |
+| 2026-10-04 06:02:47 | [neverempty](https://pypi.org/project/neverempty/) | 0.1.0 | Priyank Agrawal | 575.9 kB | Evaluate and trace tool-calling LLM agents. Tool failure can never look like an… |
+| 2026-10-04 06:05:59 | [inferdoc](https://pypi.org/project/inferdoc/) | 0.1.0 | Mohammad Waqas | 89.7 kB | Evidence-driven LLM inference doctor for Nebius Token Factory |
+| 2026-10-04 06:07:34 | [fastapi-chatgpt-plan](https://pypi.org/project/fastapi-chatgpt-plan/) | 0.1.0 | ftnext | 83.2 kB | Local FastAPI backend using Sign in with ChatGPT OAuth and your ChatGPT plan |
+| 2026-10-04 06:07:43 | [scientific-nlp-tools](https://pypi.org/project/scientific-nlp-tools/) | 1.0.3 | Anastasiia Matveeva | 11.7 kB | Python library for scientific text processing: semantic search, summarization,… |
+| 2026-10-04 06:07:48 | [iwork-studio](https://pypi.org/project/iwork-studio/) | 2.3.0 | iWork Studio contributors | 278.6 kB | Create, edit, design and export Apple Numbers, Keynote and Pages files from any… |
+| 2026-10-04 06:07:50 | [termflash](https://pypi.org/project/termflash/) | 0.0.1 |  | 3.3 kB | Name reservation placeholder for the termflash project. No functional code. |
+| 2026-10-04 06:13:28 | [hyprchess](https://pypi.org/project/hyprchess/) | 0.2.0 |  | 96.5 kB | Chess in your terminal: Stockfish and other UCI engines, online play, clocks, m… |
+| 2026-10-04 06:15:04 | [annals](https://pypi.org/project/annals/) | 0.0.3 | Thor Whalen | 132.5 kB | Annals for AI agents: publish markdown, html, images, video, audio, PDFs and fo… |
+| 2026-10-04 06:19:53 | [p4n4-lib](https://pypi.org/project/p4n4-lib/) | 0.2.0 | RAISGA <jraleman@raisga.com> | 31.6 kB | Shared library between P4N4 stacks and clients |

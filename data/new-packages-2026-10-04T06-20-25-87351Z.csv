@@ -1,0 +1,17 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T05:19:05Z,llm-getyoutubetranscript,0.1.0,TubeAgentKit,MIT,16634,YouTube transcripts for LLM: load any YouTube transcript as a fragment or tool with the GetYouTubeTranscript API
+2026-10-04T05:25:47Z,fbnnet-core,1.1.6,Leshi Chen <chenleshi@hotmail.com>,MIT AND AGPL-3.0-or-later,31609199,"Fundamental Boolean Network (FBN) inference of gene regulatory networks from time series, with a C++ core"
+2026-10-04T05:39:32Z,deepseek-cordis,0.1.0,Ikram Ali,MIT,237118,Python plugin runtime targeting DeepSeek Harness vendored Cordis semantics
+2026-10-04T05:49:24Z,keystash,0.1.0,thu-lawyer,MIT,32821,"Local-first encrypted vault for API keys, tokens and passwords — one file, fuzzy search, env injection, expiry tracking."
+2026-10-04T05:50:44Z,aicliniq,0.1.0a0,Satheesh Kola,Apache-2.0,1668814,Open-source AI agent framework for healthcare and life sciences
+2026-10-04T05:52:19Z,speedbay-core,0.0.0,,Proprietary,2923,Name reserved by Speed Bay. The real distribution is published to a private index; this placeholder exists only to prevent the name being registered by someone else. Do not install.
+2026-10-04T05:52:22Z,speedbay,0.0.0,,Proprietary,2874,Name reserved by Speed Bay. The real distribution is published to a private index; this placeholder exists only to prevent the name being registered by someone else. Do not install.
+2026-10-04T06:02:47Z,neverempty,0.1.0,Priyank Agrawal,Apache-2.0,575934,Evaluate and trace tool-calling LLM agents. Tool failure can never look like an empty result.
+2026-10-04T06:05:59Z,inferdoc,0.1.0,Mohammad Waqas,Apache-2.0,89676,Evidence-driven LLM inference doctor for Nebius Token Factory
+2026-10-04T06:07:34Z,fastapi-chatgpt-plan,0.1.0,ftnext,Apache-2.0,83229,Local FastAPI backend using Sign in with ChatGPT OAuth and your ChatGPT plan
+2026-10-04T06:07:43Z,scientific-nlp-tools,1.0.3,Anastasiia Matveeva,,11713,"Python library for scientific text processing: semantic search, summarization, entity extraction, and keyword generation"
+2026-10-04T06:07:48Z,iwork-studio,2.3.0,iWork Studio contributors,MIT,278568,"Create, edit, design and export Apple Numbers, Keynote and Pages files from any AI agent: verified, reversible, Arabic-safe. MCP server + Python library + agent skill."
+2026-10-04T06:07:50Z,termflash,0.0.1,,LicenseRef-Proprietary,3305,Name reservation placeholder for the termflash project. No functional code.
+2026-10-04T06:13:28Z,hyprchess,0.2.0,,GPL-3.0-or-later,96469,"Chess in your terminal: Stockfish and other UCI engines, online play, clocks, mouse and keyboard, custom skins"
+2026-10-04T06:15:04Z,annals,0.0.3,Thor Whalen,MIT,132457,"Annals for AI agents: publish markdown, html, images, video, audio, PDFs and folders to a private page the owner reads on the phone, and get back a link."
+2026-10-04T06:19:53Z,p4n4-lib,0.2.0,RAISGA <jraleman@raisga.com>,MIT,31616,Shared library between P4N4 stacks and clients
