@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T14:05:03Z,pyscsa,1.1.1,Boost <boost@inria.fr>,AGPL-3.0-only,1221663,Semi-Classical Signal Analysis for signal and image processing
+2026-10-04T14:19:53Z,tgtc-mcp-server,0.1.2,,MIT,19444,让 Claude / Cursor 一句话查 BSC 代币数据：tgtc-sdk 的 MCP Server（完整 9 工具版）
+2026-10-04T14:19:54Z,goga-tool-basic-build,0.0.0,,BSD-3-Clause,223995,Basic build configuration for goga build
+2026-10-04T14:23:07Z,tiny-pacs-admin-web,0.1.0,Pavel 'Blane' Tuchin,MIT,76200,Browser-based administration console for tiny_pacs
+2026-10-04T14:23:28Z,metis-workflow,0.1.0,Ayush Jha,MIT,36585,Composable workflow orchestration powered by TypeSafe AI Jev
+2026-10-04T14:24:06Z,github-issue-fixer,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,22175,Cache assigned GitHub issues and prepare manual Codex commands.
+2026-10-04T14:24:53Z,github-secrets-manager,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,19321,Manage local plaintext copies of GitHub Actions repository secrets and sync them to GitHub.
+2026-10-04T14:26:39Z,tiny-pacs-dicomweb,0.1.0,Pavel 'Blane' Tuchin,MIT,67508,DICOMweb (QIDO-RS/WADO-RS/STOW-RS) front-end for tiny_pacs
+2026-10-04T14:27:06Z,logfold,0.1.0,Andrey Kilanov,MIT,7564829,"Fold large logs into templates and compare two runs. Rust core, Python API and CLI."
+2026-10-04T14:29:04Z,faivelo,0.2.0,Faivelo <support@faivelo.com>,MIT,61867,"Official Faivelo SDK for Python: email inboxes for your code and your AI agents. Send, receive, drafts, labels, threads, domains, DNS and webhooks."
+2026-10-04T14:29:17Z,artificial-intelligence-usage,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,14257,Analyze recent Codex sessions and report usage information.
+2026-10-04T14:31:10Z,veritas-lib,0.1.0,,MIT,12134,"Python implementation of the Veritas formula (spectral, residual and neighbourhood score)."
+2026-10-04T14:31:17Z,numpya,0.1.3,,,20856,"NLP laboratory experiments covering preprocessing, language models, parsing, POS tagging, chunking, and NER."
+2026-10-04T14:31:36Z,mcp-openai-pro,2026.10.4.1,AceDataCloud <support@acedata.cloud>,MIT,88178,MCP Server for OpenAI API via AceDataCloud
+2026-10-04T14:32:53Z,polyinit,0.3.0,,MIT,77387,An interactive project generator for six languages.
+2026-10-04T14:36:49Z,dial-a-moon-wrapper,0.1.1,trice,MIT,50854,"Observer-oriented Moon images from NASA SVS Dial-A-Moon, for any date and location."
+2026-10-04T14:38:10Z,meshopt,0.1.0,Aidan Newsome <aidan.newsome@me.com>,MIT,1344797,"meshoptimizer's encoder and decoder for Python, shaped like its JavaScript module."
+2026-10-04T14:38:42Z,trendreq,0.1.0,CleanScrape <contact.cleanscrape@gmail.com>,MIT,47838,"Drop-in pytrends replacement: the same TrendReq API for Google Trends, without 429 errors. Runs on Apify."
+2026-10-04T14:41:33Z,app-store-reviews,0.1.0,CleanScrape <contact.cleanscrape@gmail.com>,MIT,27908,Drop-in replacement for app-store-scraper (archived): App Store and Google Play reviews with the same API. Runs on Apify.
+2026-10-04T14:44:46Z,encarapi,1.0.0,EnCarAPI <support@encarapi.com>,MIT,17698,"Official Python client for EnCarAPI: Korean used car data (Encar, KB Chachacha, K Car) and Chinese used car data (Dongchedi, Che168) in one REST API."
+2026-10-04T14:44:47Z,asarx,0.1.0,,MIT,43261,"Safe, dependency-free tools for Electron ASAR archives"
+2026-10-04T14:45:01Z,chinacarapi,1.0.0,ChinaCarAPI <support@chinacarapi.com>,MIT,8360,"Official Python client for ChinaCarAPI: Chinese used-car data from Dongchedi and Che168 as one REST API, in English."
+2026-10-04T14:45:32Z,agent-cam-mcp,0.1.0,SK Raihan <skrelectronicslab@gmail.com>,MIT,174606,"Physical camera perception, measurement, and verification tool for MCP AI agents"
+2026-10-04T14:46:03Z,faa-drs,0.1.0,cldixon,MIT,65982,Python SDK for the FAA Dynamic Regulatory System (DRS) API.
+2026-10-04T14:48:44Z,component-local,0.0.2b3800,Circles,,13060,PyPI component-local Python Package owned by Circlez.ai
+2026-10-04T14:49:08Z,alighieria,0.1.0,Alighieria <info@alighieria.com>,MIT,62270,"Python SDK for the Alighieria API: corrections, translations, dossiers, EPUBs and AI detection for manuscripts."
+2026-10-04T14:51:35Z,people-analytics-toolkit,0.1.0,Sam Tritto,MIT,13722714,"Production-grade, mathematically rigorous feature engineering for People Analytics and Workforce Intelligence"
+2026-10-04T14:52:18Z,fg-core,0.2.5,ForexGrand Team <kadiabdulkudus@gmail.com>,MIT,244883,ForexGrand strategy modelling core library for ML model training on forex data | financial price data
+2026-10-04T14:53:58Z,fast-borf,0.2.0,,MIT,63725,Bag-Of-Receptive-Fields (BORF) features for regular and irregular time series
+2026-10-04T14:55:50Z,si-runtime,0.0.0,Praneeth Vadlapati,MIT,2797,A new package under development
+2026-10-04T14:56:37Z,cybersecure-easy,0.1.0,,MIT,11290,A beginner-friendly facade for common defensive security tasks
+2026-10-04T14:57:38Z,answerkit,0.1.0,Mahadev Athani <mahadevathani1729@gmail.com>,MIT,40892,"A lightweight, standalone Python AI SDK for building Q&A applications with Groq, async streaming, model fallback, conversation context, optional Google Serper web search, and prompt enhancement."
+2026-10-04T15:00:53Z,voltax,0.1.0,Jaivardhan Kapoor <jaivardhan.kapoor@gmail.com>,MIT,343080,"Differentiable SPICE-class circuit simulation in JAX: exact adjoint gradients through DC, transient and AC analyses."
+2026-10-04T15:03:55Z,zte-wrapper,1.0.0,ctih1 <contact@ctih1.fi>,MIT,33783,A wrapper that lets you interact with the new ZTE WebUI
+2026-10-04T15:05:59Z,stratascan,0.2.4,StrataSCAN contributors,MIT,128230,Adaptive density-stratified clustering and reusable density/graph clustering reference implementations
+2026-10-04T15:09:43Z,calculator-tui,0.1.0,,,7389,A terminal calculator
+2026-10-04T15:14:38Z,crewai-alex-evidence,0.1.0,Bewusst.Ki,"Copyright 2026 Bewusst.Ki Licensed under the Apache License, Version 2.0 (the ""License""); you may n…",48587,"Verify signed ALEX evidence bundles as a CrewAI tool. Thin adapter, no second verifier."
+2026-10-04T15:15:33Z,pydataui,0.2.1,Boopathi Raj <rajboopathiking@gmail.com>,MIT,255269,A full-stack Python framework for data and AI applications.
+2026-10-04T15:16:19Z,arch-auditor,0.1.0,Aniketh Sai,GPL-3.0-only,70028,Evidence-backed repository architecture analysis with deterministic detectors and a Gemini refactoring assistant.
+2026-10-04T15:18:18Z,sengptr,0.2.2,SenZmaKi,GPL-3.0-only,96031,"Sengptr (Sengpt Revive), a maintained terminal client for ChatGPT"
+2026-10-04T15:18:49Z,generapy,0.1.0,,BSD-3-Clause,1591073,Arbitrary-precision computation with algebraic curves and Abelian functions

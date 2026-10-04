@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-10-04T13:20:39.352372Z",
-    "path": "data/new-packages-2026-10-04T14-18-36-788292Z.csv",
-    "to": "2026-10-04T14:18:36.788292Z"
+    "count": 41,
+    "from": "2026-10-04T14:18:36.788292Z",
+    "path": "data/new-packages-2026-10-04T15-21-43-331521Z.csv",
+    "to": "2026-10-04T15:21:43.331521Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-04T14:02:07Z",
       "package": "RecentlySplattedWith",
       "since": "2026-10-04T13:20:39.352372Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-04T11:24:18Z",
       "package": "pybind12",
       "since": "2026-10-04T11:19:05.697371Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-04T14:05:03Z",
-      "package": "pyscsa",
-      "since": "2026-10-04T13:20:39.352372Z"
+      "created_at": "2026-10-04T14:32:45Z",
+      "package": "sysml-api-client",
+      "since": "2026-10-04T14:18:36.788292Z"
     }
   ],
-  "serial": 41802888,
+  "serial": 41804260,
   "source_truncated": false,
-  "window": "2026-10-04T14:18:36.788292Z"
+  "window": "2026-10-04T15:21:43.331521Z"
 }
