@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T20:19:08Z,infra-health-check,0.1.0,Redn Alsidrah,MIT,49199,"Infrastructure health checker CLI: DNS, TCP, TLS, HTTP, certificate and latency checks in one command"
+2026-10-04T20:19:25Z,walla-cli,0.1.7,"""Dr. Berend Gort"" <berend.gort@gmail.com>",MIT,228027,Wallapop.es CLI - look · offer · talk for humans and agents
+2026-10-04T20:19:46Z,unrent,0.2.1,stringcutter,Apache-2.0,306554,"Find the strings your AI code hangs by: closed AI services to swap for open source, and models their vendor retires."
+2026-10-04T20:21:40Z,emoji-toolkit,0.1.0,,MIT,31047,"Get emoji images or data URLs from your terminal for notifications, scripts, and everyday tools."
+2026-10-04T20:28:52Z,iddqueue,0.13.0rc1,Étienne BERSAC,PostgreSQL,87882,Postgres Broker for Dramatiq Task Queue
+2026-10-04T20:33:43Z,octonotch,0.0.0,Josh VanOrden,,2125,Placeholder - name reservation for Octo Notch
+2026-10-04T20:35:20Z,plot-hole,0.0.0,,,2096,"Placeholder for Plot Hole, an interactive plot builder for lab tables. Not released yet."
+2026-10-04T20:41:41Z,mintid-agent,0.1.0,Marc Molas <marc@mintid.net>,Apache-2.0,58804,"MintID agent client: agent credential custody, witness refresh and the x402 payment-identity loop over the MintID holder library"
+2026-10-04T20:57:51Z,rumi-llm,1.0.0,,MIT,16213,RUMI-8M small decoder-only Transformer language model
+2026-10-04T20:58:23Z,cs-survival-kit,0.1.0,Jimmy Wallace,MIT,33958,"Hand-written data structures and algorithms, plus a benchmarking toolkit."
+2026-10-04T20:58:28Z,sounddifff,0.3.0,systemBlue <dev@systemblue.io>,MIT,64465,"Structured audio comparison for producers and developers. Think git diff, but for audio."
+2026-10-04T21:00:41Z,eufy-home-security,0.1.0,Alar Aun,MIT,1348087,"Asyncio client for eufy Security: local P2P to the HomeBase, the eufy cloud, and push events."
+2026-10-04T21:04:00Z,soft-robotic-arm,0.4.0,,MIT,58243,MuJoCo coursework model and calibrated digital twin for a pneumatic soft arm
+2026-10-04T21:04:31Z,tensorboard-book,0.7.0,Esteban Gomez,MIT,663565,"Bookkeeping for folders of TensorBoard runs: index, tag, group, compare and browse artifacts."
+2026-10-04T21:08:57Z,hwbench,0.3.0,Mvth1s,MIT,184004,Inventaire matériel et benchmarks notés en ligne de commande
+2026-10-04T21:12:22Z,pybac,0.1.0,boudah,ISC,147394,"Policy-based access control: verdicts, field masking and query filters from one policy set"
+2026-10-04T21:14:08Z,hypergraph-viz-viewer,0.1.2,,MIT OR Apache-2.0,113088269,Prebuilt Hyper native desktop viewer for hypergraph-viz
+2026-10-04T21:14:57Z,rowbase-db,0.2.1,Rowbase contributors,Apache-2.0,150864,"Fast, safe, read-only-by-default database client for MySQL/MariaDB, PostgreSQL and SQLite — CLI, web UI and MCP server for AI agents"
+2026-10-04T21:16:09Z,pyngbsicon,0.1.0,RobRoy1979,BUSL-1.1,61769,Asynchronous client for NGBS iCON heating/cooling controllers (local JSON/TCP protocol)
+2026-10-04T21:17:16Z,opendatasuite,0.0.1,,Apache-2.0,81203688,"OpenDataSuite (ODS): explainable, provider-neutral tooling for dbt projects. Installs the `ods` command."
