@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T12:19:01Z,zensical-dirtree,1.0.0,Markus Ritschel <git@markusritschel.de>,MIT,62139,Interactive directory-tree explorer for Zensical documentation sites
+2026-10-04T12:19:47Z,rewloy,0.1.0,Rewloy,MIT,495640,"The official Python library for the Rewloy API: digital loyalty cards, typed from the OpenAPI document."
+2026-10-04T12:21:52Z,odoo-addon-website-sale-uom-continuous,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,43481,"Sell decimal quantities of products in continuous UoMs (kg, L, m, ...)"
+2026-10-04T12:22:29Z,saltjax,0.1.0,Mickael Rigault <m.rigault@ipnl.in2p3.fr>,Apache-2.0,50189,"Fast batched SALT2 lightcurve fitting with JAX, reproducing sncosmo"
+2026-10-04T12:24:17Z,ophiolite,0.0.1,Ophiolite Labs,Apache-2.0,2862,Reserved for the Ophiolite SDK by Ophiolite Labs. Not released yet.
+2026-10-04T12:26:28Z,whats-my-paper,0.1.1,tremgan,MIT,142237,Rename downloaded PDFs to their actual title
+2026-10-04T12:28:00Z,pin-header-label-generator,0.1.0,shaag7967,GPL-3.0-or-later,165242,Printable pin-out labels for pin headers: push the pins through the paper and every signal name sits right next to its pin.
+2026-10-04T12:29:46Z,amp-client,0.1.0,,MIT,40517,Python SDK client for the Agent Memory Protocol (AMP)
+2026-10-04T12:32:00Z,generic-audio-transcriber,0.1.1,Eduardo Milani,MIT,18379,"Drop-in speech-to-text for any Python project: audio bytes in, JSON-ready text out."
+2026-10-04T12:33:46Z,thalovant-skill-interaction-modes,0.1.9,thalovant,Apache-2.0,267442,Temporary party mode for your own Thalovant speaker.
+2026-10-04T12:33:48Z,tungsten-leads,0.1.0,Prism Infoways,MIT,27564,"Leads plugin for Tungsten: lead list, stages, notes and your own form fields."
+2026-10-04T12:33:51Z,tungsten-meta-leads,0.1.0,Prism Infoways,MIT,45727,"Tungsten plugin: bring Facebook and Instagram lead form leads into tungsten-leads, with one-click setup."
+2026-10-04T12:33:53Z,tungsten-whatsapp,0.1.0,Prism Infoways,MIT,63371,"Tungsten plugin: WhatsApp for your leads, by the official Cloud API or by WhatsApp Web (linked phone)."
+2026-10-04T12:39:04Z,a11y-ad,0.1.0,goun7,Apache-2.0,30314,"Browserless WCAG 4.1.2 accessible-name auditor for HTML — resolves aria labels, visible text, <label> bindings and titles, and reports every interactive element with no accessible name."
+2026-10-04T12:40:25Z,melody-web,0.1.2,,,10574,A Python web framework to quickly build web apps
+2026-10-04T12:40:44Z,aspora-threatlenscli,0.4.0,,,174348,"Image, code and open-source dependency scanning in your CI, reported to a ThreatLens server"
+2026-10-04T12:44:57Z,caddyserver,2.11.7,Sushant Gautam,MIT,306154557,"Caddy web server as platform-specific Python wheels - pip/pipx/uvx installable, offline, no first-run download"
+2026-10-04T12:45:55Z,zic-player,0.1.0,MF_ZOOL,MIT,448442,A local-library desktop music player with album/genre browsing and genre-aware smart playlists.
+2026-10-04T12:47:41Z,retexo,0.1.0,Julian Schelb,MIT,903372,Retexo explains Latin text reuse word by word: it aligns a reusing passage to its source and names the operation behind every link.
+2026-10-04T12:49:09Z,vn-ident,0.1.0,,MIT,28203,"Vietnamese tax codes, mobile numbers and card numbers, validated against the sources that define them. A tax code has a check digit; a card number does not, and this says so. Standard library only."
+2026-10-04T12:49:10Z,vn-money,0.1.0,,MIT,25088,"Vietnamese money on integers, because VND has no minor unit. Format, parse, apportion without losing a single dong, and read an amount out in Vietnamese words. Standard library only."
+2026-10-04T12:49:48Z,pt13528,0.1.1,"Murat Sert, Mustafa Kemal Yağan, Ali Aydın, Matin Heidarizadeh, Eyüphan Tilki, Ahmet Enes Selek, Al…",LGPL-3.0-or-later,246231,A Python library for proficiency testing statistics according to ISO 13528
+2026-10-04T12:50:22Z,mcp-openai-acedatacloud,2026.10.4.0,AceDataCloud <support@acedata.cloud>,MIT,88255,MCP Server for OpenAI API via AceDataCloud
+2026-10-04T12:52:08Z,siemens-docs-mcp,0.1.0,Łukasz Czarnacki,,60453,Search and read Siemens Fluid Topics documentation via MCP or export it to Markdown
+2026-10-04T12:52:21Z,hms-commander-mcp,0.1.0,CLB Engineering Corporation,MIT,65137,Bounded read-only HEC-HMS text information through MCP
+2026-10-04T12:53:13Z,answerpath-geo,0.1.0,Taqi Molavi,MIT,22883,Privacy-first user question mining for GEO and AEO
+2026-10-04T12:53:15Z,geo-scope,0.3.0,Taqi Molavi <taqimolavi@gmail.com>,MIT,625040,Open-Source AI Visibility Measurement Engine & Provenance-Backed Benchmark Platform for Generative Engine Optimization (GEO)
+2026-10-04T12:53:17Z,sage-audit,1.0.1,Taqi Molavi <taqi@molavi.pro>,MIT,206956,"The Unified 3-Pillar Audit Engine for SEO, Entity AEO, and Generative Engine Optimization (GEO)."
+2026-10-04T12:56:53Z,heteropipe,0.1.0,ZHU Wenbo <zhuwenbo@yvcct.edu.cn>,Apache-2.0,29932,"Closed-form makespan, GPipe homogeneity bias, phase transition, and sandwich bounds for heterogeneous LLM micro-batch pipelines"
+2026-10-04T12:57:44Z,vicifast,0.1.0,,MIT,23899,"The VICIfast API for Python: phone numbers, calls, billing and webhooks."
+2026-10-04T13:03:04Z,lupaxa-git-archaeologist,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",109044,"Read-only local Git history analysis for activity, lineage, churn, and tree snapshots."
+2026-10-04T13:04:37Z,prompting-machine,0.0.2,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,46133,Prompting-Machine ...
+2026-10-04T13:05:00Z,muse-driver-framework,1.0.0,AMX MUSE driver project,,37756,Shared pure-Python framework for AMX MUSE Script-as-Device drivers
+2026-10-04T13:07:15Z,musclingo,0.1.2,"Susana Hahn <susuhahnml@yahoo.com.mx>, Antonio Ielo <antonio.ielo@unical.it>, Hannes Weichelt <hwei…","MIT License Copyright (c) 2024 Potassco Permission is hereby granted, free of charge, to any person…",82511,A package to compute MUSes of ASP programs.
+2026-10-04T13:07:15Z,tallyline,0.1.0,nhinata,MIT,67821,"Claude Code status line that tallies your token usage and API-equivalent cost by day, month and year"
+2026-10-04T13:09:30Z,leafobject,0.0.13,Jasper Koehorst,MIT,14824,LEAF Object Package
+2026-10-04T13:18:41Z,pdf-fast,0.1.0,,MIT,23124749,"Fast, low-memory PDF page count and first-N-page extraction (Rust)"
+2026-10-04T13:19:43Z,sentra-platform-sdk,0.0.1,Sentra <support@sentra.io>,LicenseRef-Proprietary,3005,Placeholder. The Sentra Python SDK is distributed through Sentra's private package index — see https://docs.sentra.io
+2026-10-04T13:19:50Z,arc56-generated-debuu-cb5ce063,1.2.2026072010,debuuuuuu,,14004,Generated ARC-56 Algorand smart-contract clients for debuuuuuu/pay-per-usage-ai-api-access-system-using-algorand.
