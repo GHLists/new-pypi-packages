@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T03:23:24Z,deeplearning-experiments,0.1.0,Vishnu <your.email@example.com>,,15956,A package containing 11 deep learning experiment source codes.
+2026-10-04T03:23:34Z,cirrusnetworks-forge-agent,0.0.1,,,3677,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-04T03:23:39Z,cirrusnetworks-muster-agent,0.0.1,,,3693,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-04T03:23:44Z,cirrusnetworks-canopy-agent,0.0.1,,,3671,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-04T03:23:48Z,cirrusnetworks-beacon,0.0.1,,,3590,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-04T03:23:56Z,joints,0.1.0,The Billy Company,Apache-2.0,26665,"Experimental parsing and structural queries over grammar data, with Python bindings to libjnt."
+2026-10-04T03:26:49Z,vntui,0.3.20b3,,,16002,Маленькая библиотека с графическими частями для терминала.
+2026-10-04T03:28:17Z,pystudershared,1.0.0,Anko Hanse <anko_hanse@hotmail.com>,,21624,Python shared interface definition to communicate with Studer-Innotec devices; used by pystudernext and pystuderxcom libaries.
+2026-10-04T03:29:26Z,luz-mcp,0.1.0,Rodrigo Rodrigues-Silveira,MIT,73318,MCP server for Luz y Taquígrafos (debates of the Spanish Second Republic) and Afinidades Elegidas (its co-sponsorship networks)
+2026-10-04T03:31:28Z,nova-api-core,0.1.0,Gence Lucien dit Bemanjary,LicenseRef-Nova-Source-Available,102154,Clean Architecture FastAPI Framework
+2026-10-04T03:32:55Z,llm-catalog-ai-sdk,0.1.0,Shinsuke Mori,Apache-2.0,23386,"AI SDK for Python adapter for llm-catalog: build native `ai` models from a catalog config, routed through your gateway."
+2026-10-04T03:36:04Z,bundleup,0.0.1,funkyfunc,MIT,7484,"Bundle up your Python app with everything it needs: one .pyz that runs on plain Python, no install step. Pre-alpha."
+2026-10-04T03:45:20Z,goin-plugin,0.10.2,Goin,Apache-2.0,700417,Goin Plugin SDK
+2026-10-04T03:48:00Z,patchahead,0.3.0,,MIT,406754,"Find downstream code broken by upstream API changes, propose a minimal migration, and verify it with your tests."
+2026-10-04T03:51:11Z,utility-viz,2.0.0b1,Pin Yue Sung,MIT,314775,A Python toolkit for producing publication-quality microeconomics diagrams.
+2026-10-04T03:52:08Z,helicon,2026.10,"Wen Jiang <wxj5136@psu.edu>, Daoyi Li <lidaoyi16@hotmail.com>, Xiaoqi Zhang <xbz5343@psu.edu>",MIT,3905968,A collection of tools for cryo-EM analysis of helical structures
+2026-10-04T04:00:24Z,everpod-ai,0.1.0,Everpod <support@everpod.ai>,MIT,11604,Official Python SDK for the Everpod API.
+2026-10-04T04:00:39Z,https-checker-simple,0.1.0,,,9424,A simple CLI tool to check the status of URLS.
+2026-10-04T04:09:55Z,evalroute,0.6.0,,MIT,386438,"Model routing with a verified-success flywheel: classify tasks, measure arms, feed results back"
+2026-10-04T04:14:10Z,agentforeman,0.1.0,Xavier Puspus,MIT,254213,"Approve, steer, and stop every Claude Code agent from one page."
