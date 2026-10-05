@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T21:18:32Z,idl2proto,0.1.0,Dominik Mehringer,MIT,44115,Convert OMG IDL (IDL 4.x / DDS-XTypes) into Protocol Buffers (proto3)
+2026-10-05T21:19:54Z,wayback-restorator,0.1.0,,AGPL-3.0-only,167093,"Concurrent, resumable Wayback Machine website restoration worker"
+2026-10-05T21:20:10Z,smolagents-aer1,0.1.0,Brennan Zambo,,12074,AER-1 verifiable execution receipts for smolagents agents: one checkable receipt per tool call.
+2026-10-05T21:20:48Z,clustop,0.1.0,Ivan Zhytkevych,MIT,30130,"htop/nvitop-style live view of CPU, RAM and GPU across any set of SSH hosts (GPU clusters, lab servers...)"
+2026-10-05T21:22:23Z,aiyoplane-crewai,1.0.2,"""Aiyoplane, Inc."" <rashon@aiyoplane.com>",Apache-2.0,25557,AEAP Composition Boundary Adapter for CrewAI. Thin wrapper that attaches the Runtime Decision Point to CrewAI tool invocations.
+2026-10-05T21:22:45Z,datamcp-ai,0.1.1,,Apache-2.0,667380,AI Data Engineer MCP — Postgres + dlt + dbt + Dagster
+2026-10-05T21:25:34Z,brindle,0.0.0,PawDelta LLC,,1689,"Brindle by PawDelta: run coding agents in parallel, each on its own git branch. Coming soon."
+2026-10-05T21:25:35Z,brindle-ai,0.0.0,PawDelta LLC,,1617,Placeholder for Brindle by PawDelta. Install brindle instead. Installs nothing.
+2026-10-05T21:26:08Z,loggetta,0.0.1,Jordan Anderson,MIT,5063,"Preview reservation release for Loggetta, a planning layer for fitting and running large local models."
+2026-10-05T21:27:33Z,zsynctech-sdk,1.4.9,Rodrigo Zavan,,48857,SDK Python para conectar robôs (RPA) à plataforma zsynctech-studio via Socket.IO
+2026-10-05T21:29:06Z,claude-artifact-cli,0.1.0,Nik <nik.anand.1998@gmail.com>,Apache-2.0,37004,"Publish, update, list and inspect Claude Artifacts from the terminal, using the Claude Code login already on your machine."
+2026-10-05T21:29:07Z,aiocpanel,0.1.0,"""J. Nick Koston"" <nick@koston.org>",MIT,15547,"Async client for the cPanel UAPI: SSL certificates, AutoSSL and Dynamic DNS"
+2026-10-05T21:30:32Z,clastogen,0.2.0,Burak Kaygusuz,MIT,59926,Mutation testing and statistical assertion framework for LLMs and AI Agents
+2026-10-05T21:31:01Z,sokhanvar,0.1.0,Ali Tavallaie,Apache-2.0,58466,Persian speech synthesis library with YAML configuration and an optional playground
+2026-10-05T21:37:35Z,thermofluids,2.0.0,"Luke Erickson, Russell Goldfarbmuren",MIT,93251,Physically-consistent thermal and fluids modeling tools
+2026-10-05T21:37:42Z,tomo-toolshed,0.1.0,Hamid Rahmani <hrahmani@scripps.edu>,MIT,204570,"A collection of lightweight cryo-ET file/CLI tools, all under a single tomo_toolshed command."
+2026-10-05T21:39:45Z,cairnmap,0.1.0,The cairn authors,Apache-2.0,178368,"A workspace map for coding agents: every repo in a folder, how they connect, and where to look."
+2026-10-05T21:39:48Z,ascended-browser,0.1.0,Mohamed Elshoubky,MIT,1493153,"A real, hardened browser for AI agents: verified actions, page reading, dev tools. An MCP server."
+2026-10-05T21:43:12Z,postie-cli,3.5.0,Xlon Labs,Proprietary,22876179,Send files and text to your own devices from any terminal or AI agent.
+2026-10-05T21:44:12Z,password-manager-sid,0.1.0,Siddharth Sekkizhar,,11298,A lightweight CLI password manager with local Fernet-encrypted credential storage
+2026-10-05T21:44:36Z,ema-lightning,1.0.0,Canberk Aslan,Apache-2.0,75239,"Tiny, fast and accurate Turkish text to speech."
+2026-10-05T21:44:50Z,qann,0.1.0a1,Maximilian Miller,"MIT License Copyright (c) 2026 Maximilian Miller Permission is hereby granted, free of charge, to a…",86871415,"QANN: Quantized Approximate Nearest Neighbors. C++ vector search (Flat, IVF, PQ, re-ranking) with Python bindings"
+2026-10-05T21:49:27Z,griot-rag,0.2.0,johnt1000,Apache-2.0,860045,"Local-first RAG over your git repositories — index code, git history and platform data (PRs/issues/releases) into an embedded vector store, search it and ask questions from the CLI or via MCP"
+2026-10-05T21:50:07Z,consolelink,0.1.6,Gaël Jaffrain,MIT,173071,"Live view of an ETC SmartFade ML lighting console over USB, with optional Art-Net output"
+2026-10-05T21:50:26Z,rhylthyme-labmcp,0.1.0a0,Rhylthyme,Apache-2.0,272544,Run LabMCP lab-instrument MCP servers from Rhylthyme schedules
+2026-10-05T21:50:27Z,aps-vault,0.41.0,Konstantin Zhebenev,MIT,34704,"Client for APS Vault machine API (service tokens), standard library only"
+2026-10-05T21:51:27Z,onebudgetspec-sdk,0.1.0,Nick DeRobertis,MIT,12371,"The onebudgetspec Python SDK: check, validate and list budgets through the onebudgetspec binary, with report models generated from its schema."
+2026-10-05T21:51:48Z,starbuck,0.2.0,Tiago Jacinto,MIT,181961,"Reference-integrity checks for manuscripts: do the cited works exist, match their citations, and still stand?"
+2026-10-05T21:52:45Z,onebudgetspec-cli,0.1.0,Nick DeRobertis,MIT,5741578,"The onebudgetspec command line: check, validate and list the budgets registered in budgets.yaml files."
+2026-10-05T21:54:35Z,MyaDictionary,0.1.0,,,6041,Implementation of a dictionary in Python
+2026-10-05T21:56:35Z,prism-kit,0.3.0,,MIT,791863,"Prism workflows and shared boards for humans and agents, with optional application generation."
+2026-10-05T21:58:32Z,previously,0.1.0a1,,AGPL-3.0-or-later,1959310,An append-only knowledge store for project histories
+2026-10-05T21:58:37Z,justlog3,1.1.0,"""Obd. Azizjon"" <obdazizjon@gmail.com>","MIT License Copyright (c) 2026 Obd. Azizjon Permission is hereby granted, free of charge, to any pe…",28942,The cheetah of logging
+2026-10-05T22:00:21Z,kitty-evals,0.1.0,WhiteFox0-0,,25112,Evaluator toolkit for LLM outputs: pluggable LLM-as-a-judge with structured verdicts
+2026-10-05T22:04:31Z,crewai-aer1,0.1.0,Brennan Zambo,,12786,"AER-1 verifiable execution receipts for CrewAI crews: one checkable receipt per tool call, via CrewAI's native event bus."
+2026-10-05T22:05:34Z,chunkmirage,0.1.0a1,"David Ackerman (@davidackerman), Yurii Zubov (@yuriyzubov)","BSD 3-Clause License Copyright (c) 2026, Howard Hughes Medical Institute Redistribution and use in…",1711771,"Spoof chunked array formats (zarr, n5, neuroglancer precomputed) over HTTP with on-the-fly processing, caching, and pluggable ops."
+2026-10-05T22:05:38Z,fastapi-auth-saml-federated,0.2.0,Alexander Loechel <Alexander.Loechel@lmu.de>,Apache-2.0 OR EUPL-1.2,103924,Federated SAML2 Service Provider for FastAPI (Shibboleth/eduGAIN/NREN AAIs)
+2026-10-05T22:06:02Z,ahmad-yar-gpt-tools,0.3.1,Ahmad Yar,Apache-2.0,45972,"Dependency-light Python utilities for GPT, agent, retrieval, and tool pipelines."
+2026-10-05T22:09:04Z,wp-enlighten,4.2.15,Mark Zieg <mzieg@wasatchphotonics.com>,MIT,105996939,A GUI to control and collect data from Wasatch Photonics spectrometers
+2026-10-05T22:11:09Z,huddleroom,0.1.0a1,,AGPL-3.0-or-later,3322006,Local workspace for autonomous agent teams
+2026-10-05T22:13:55Z,ctxnorm,0.1.0,crossVault GmbH,Apache-2.0,87418,Normalise LLM providers' context-window exhaustion into one error shape that clients can recover from.
+2026-10-05T22:13:56Z,redact-transcripts,0.1.0,crossVault GmbH,Apache-2.0,83709,"Redact secrets and personal data from AI-agent transcripts, JSONL logs and text, without breaking their structure."
+2026-10-05T22:17:50Z,cookwala-samples,0.2.0,Cookwala maintainers,Apache-2.0,119759,"Cookwala sample clients, agents, orchestrators, gates, recovery and reporting for the Core 0.2 API; runs offline on simulated devices or against any Cookwala hub."

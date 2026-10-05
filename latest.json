@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-10-05T20:18:58.49142Z",
-    "path": "data/new-packages-2026-10-05T21-18-34-974904Z.csv",
-    "to": "2026-10-05T21:18:34.974904Z"
+    "count": 43,
+    "from": "2026-10-05T21:18:34.974904Z",
+    "path": "data/new-packages-2026-10-05T22-19-21-412438Z.csv",
+    "to": "2026-10-05T22:19:21.412438Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-05T20:43:51Z",
       "package": "erc7730-hackathon",
       "since": "2026-10-05T20:18:58.49142Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-05T21:18:32Z",
-      "package": "idl2proto",
-      "since": "2026-10-05T20:18:58.49142Z"
     }
   ],
-  "serial": 41854268,
+  "serial": 41856310,
   "source_truncated": false,
-  "window": "2026-10-05T21:18:34.974904Z"
+  "window": "2026-10-05T22:19:21.412438Z"
 }

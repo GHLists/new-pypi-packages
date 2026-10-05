@@ -8,33 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 21:18 UTC
+## Latest list — 2026-10-05 22:19 UTC
 
-New packages created between 2026-10-05 20:18 UTC and 2026-10-05 21:18 UTC.
+New packages created between 2026-10-05 21:18 UTC and 2026-10-05 22:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T21-18-34-974904Z.csv)
+[Full CSV](data/new-packages-2026-10-05T22-19-21-412438Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 20:22:23 | [openrsxl](https://pypi.org/project/openrsxl/) | 0.1.0 | asheer_mokry | 68.4 MB | Drop-in replacement for openpyxl powered by Rust: same API and results, much fa… |
-| 2026-10-05 20:22:39 | [clinia-context-engine](https://pypi.org/project/clinia-context-engine/) | 0.8.0 |  | 73.9 kB | Python client for the Clinia Context Engine API |
-| 2026-10-05 20:25:34 | [thriftllm](https://pypi.org/project/thriftllm/) | 0.0.0 | Harun Ercul | 34.6 kB | LLM cost routing with correct per-request cost: output-length forecasting, cach… |
-| 2026-10-05 20:26:00 | [skillgild](https://pypi.org/project/skillgild/) | 0.1.0 | SkillGild <support@skillgild.… | 18.6 kB | Official Python client for SkillGild, the marketplace for hosted AI agent skill… |
-| 2026-10-05 20:27:32 | [authv4](https://pypi.org/project/authv4/) | 4.0.2 | Authris | 10.1 kB | Authris license client SDK |
-| 2026-10-05 20:27:39 | [privacyscrubber-mcp](https://pypi.org/project/privacyscrubber-mcp/) | 2.3.2 | Ilya Sibiryakov <ilya@brandme… | 781.2 kB | CISO-Approved Zero-Trust PII & Secrets Redaction MCP Server for Cursor, Windsur… |
-| 2026-10-05 20:29:40 | [g2p-hamster](https://pypi.org/project/g2p-hamster/) | 0.2.0 | g2p-hamster contributors | 9.7 MB | Context-aware Vietnamese/English TTS front-end: text normalization, abbreviatio… |
-| 2026-10-05 20:38:37 | [aiyoplane-openai-agents](https://pypi.org/project/aiyoplane-openai-agents/) | 1.0.0 | "Aiyoplane, Inc." <rashon@aiy… | 26.1 kB | AEAP Composition Boundary Adapter for the OpenAI Agents SDK. Thin wrapper that… |
-| 2026-10-05 20:41:02 | [meidnet](https://pypi.org/project/meidnet/) | 2.2.0 | Anand Babu | 411.6 kB | MEIDNet: multimodal structure-property latent space and constrained inverse des… |
-| 2026-10-05 20:41:37 | [stackos-connectors](https://pypi.org/project/stackos-connectors/) | 0.1.0 |  | 4.6 MB | Named provider connectors with plain data and caller-owned authentication. |
-| 2026-10-05 20:43:25 | [agentic-pricing-core](https://pypi.org/project/agentic-pricing-core/) | 0.0.1 | David Fischer <fischerdm1@out… | 4.1 kB | Line-of-business-agnostic building blocks for agentic insurance pricing. |
-| 2026-10-05 20:43:57 | [agentic-pricing-servers](https://pypi.org/project/agentic-pricing-servers/) | 0.0.1 | David Fischer <fischerdm1@out… | 4.1 kB | Shared server infrastructure for exposing agentic insurance pricing services. |
-| 2026-10-05 20:45:48 | [agentic-pricing](https://pypi.org/project/agentic-pricing/) | 0.0.1 | David Fischer <fischerdm1@out… | 4.3 kB | Shared foundation for agentic AI in insurance pricing. |
-| 2026-10-05 20:50:10 | [gentui](https://pypi.org/project/gentui/) | 0.1.0 | rahrajlat | 74.6 kB | A terminal interface for prototyping agents really quickly, for any AG-UI backe… |
-| 2026-10-05 20:53:03 | [lying-machine](https://pypi.org/project/lying-machine/) | 0.0.1 | Machina Ratiocinatrix <machin… | 48.8 kB | A machine that lies. |
-| 2026-10-05 20:54:45 | [avito-sdk](https://pypi.org/project/avito-sdk/) | 0.1.0 | eminsk <M_N_N@tut.by> | 124.3 kB | High-performance headless Avito scraping & data extraction SDK with price track… |
-| 2026-10-05 20:56:58 | [callo](https://pypi.org/project/callo/) | 0.0.1 | Peculiar Ragdoll | 2.2 kB | Placeholder for the upcoming Callosum release. Not yet functional. |
-| 2026-10-05 21:03:11 | [ecuafact](https://pypi.org/project/ecuafact/) | 1.0.0b1 | Ecuanexus | 34.3 kB | Cliente oficial en Python del API publico de facturacion electronica Ecuafact (… |
-| 2026-10-05 21:05:15 | [tmrsbtlib](https://pypi.org/project/tmrsbtlib/) | 0.0.1 | yarik_g | 3.8 kB | This is the simplest module for quick work with files. |
-| 2026-10-05 21:10:22 | [pulumi-codecapsules](https://pypi.org/project/pulumi-codecapsules/) | 0.1.0 |  | 37.5 kB | A Pulumi provider for Code Capsules platform resources: teams, spaces, and caps… |
-| 2026-10-05 21:13:45 | [cosmicephemeris-client](https://pypi.org/project/cosmicephemeris-client/) | 0.3.0 |  | 149.7 kB | Synchronous Python client for the Cosmic Ephemeris calculation gateway |
-| 2026-10-05 21:15:32 | [veilfile](https://pypi.org/project/veilfile/) | 0.1.0 |  | 2.0 kB | Reserved placeholder for the official Veilfile package. |
+| 2026-10-05 21:18:32 | [idl2proto](https://pypi.org/project/idl2proto/) | 0.1.0 | Dominik Mehringer | 44.1 kB | Convert OMG IDL (IDL 4.x / DDS-XTypes) into Protocol Buffers (proto3) |
+| 2026-10-05 21:19:54 | [wayback-restorator](https://pypi.org/project/wayback-restorator/) | 0.1.0 |  | 167.1 kB | Concurrent, resumable Wayback Machine website restoration worker |
+| 2026-10-05 21:20:10 | [smolagents-aer1](https://pypi.org/project/smolagents-aer1/) | 0.1.0 | Brennan Zambo | 12.1 kB | AER-1 verifiable execution receipts for smolagents agents: one checkable receip… |
+| 2026-10-05 21:20:48 | [clustop](https://pypi.org/project/clustop/) | 0.1.0 | Ivan Zhytkevych | 30.1 kB | htop/nvitop-style live view of CPU, RAM and GPU across any set of SSH hosts (GP… |
+| 2026-10-05 21:22:23 | [aiyoplane-crewai](https://pypi.org/project/aiyoplane-crewai/) | 1.0.2 | "Aiyoplane, Inc." <rashon@aiy… | 25.6 kB | AEAP Composition Boundary Adapter for CrewAI. Thin wrapper that attaches the Ru… |
+| 2026-10-05 21:22:45 | [datamcp-ai](https://pypi.org/project/datamcp-ai/) | 0.1.1 |  | 667.4 kB | AI Data Engineer MCP — Postgres + dlt + dbt + Dagster |
+| 2026-10-05 21:25:34 | [brindle](https://pypi.org/project/brindle/) | 0.0.0 | PawDelta LLC | 1.7 kB | Brindle by PawDelta: run coding agents in parallel, each on its own git branch.… |
+| 2026-10-05 21:25:35 | [brindle-ai](https://pypi.org/project/brindle-ai/) | 0.0.0 | PawDelta LLC | 1.6 kB | Placeholder for Brindle by PawDelta. Install brindle instead. Installs nothing. |
+| 2026-10-05 21:26:08 | [loggetta](https://pypi.org/project/loggetta/) | 0.0.1 | Jordan Anderson | 5.1 kB | Preview reservation release for Loggetta, a planning layer for fitting and runn… |
+| 2026-10-05 21:27:33 | [zsynctech-sdk](https://pypi.org/project/zsynctech-sdk/) | 1.4.9 | Rodrigo Zavan | 48.9 kB | SDK Python para conectar robôs (RPA) à plataforma zsynctech-studio via Socket.IO |
+| 2026-10-05 21:29:06 | [claude-artifact-cli](https://pypi.org/project/claude-artifact-cli/) | 0.1.0 | Nik <nik.anand.1998@gmail.com> | 37.0 kB | Publish, update, list and inspect Claude Artifacts from the terminal, using the… |
+| 2026-10-05 21:29:07 | [aiocpanel](https://pypi.org/project/aiocpanel/) | 0.1.0 | "J. Nick Koston" <nick@koston… | 15.5 kB | Async client for the cPanel UAPI: SSL certificates, AutoSSL and Dynamic DNS |
+| 2026-10-05 21:30:32 | [clastogen](https://pypi.org/project/clastogen/) | 0.2.0 | Burak Kaygusuz | 59.9 kB | Mutation testing and statistical assertion framework for LLMs and AI Agents |
+| 2026-10-05 21:31:01 | [sokhanvar](https://pypi.org/project/sokhanvar/) | 0.1.0 | Ali Tavallaie | 58.5 kB | Persian speech synthesis library with YAML configuration and an optional playgr… |
+| 2026-10-05 21:37:35 | [thermofluids](https://pypi.org/project/thermofluids/) | 2.0.0 | Luke Erickson, Russell Goldfa… | 93.3 kB | Physically-consistent thermal and fluids modeling tools |
+| 2026-10-05 21:37:42 | [tomo-toolshed](https://pypi.org/project/tomo-toolshed/) | 0.1.0 | Hamid Rahmani <hrahmani@scrip… | 204.6 kB | A collection of lightweight cryo-ET file/CLI tools, all under a single tomo_too… |
+| 2026-10-05 21:39:45 | [cairnmap](https://pypi.org/project/cairnmap/) | 0.1.0 | The cairn authors | 178.4 kB | A workspace map for coding agents: every repo in a folder, how they connect, an… |
+| 2026-10-05 21:39:48 | [ascended-browser](https://pypi.org/project/ascended-browser/) | 0.1.0 | Mohamed Elshoubky | 1.5 MB | A real, hardened browser for AI agents: verified actions, page reading, dev too… |
+| 2026-10-05 21:43:12 | [postie-cli](https://pypi.org/project/postie-cli/) | 3.5.0 | Xlon Labs | 22.9 MB | Send files and text to your own devices from any terminal or AI agent. |
+| 2026-10-05 21:44:12 | [password-manager-sid](https://pypi.org/project/password-manager-sid/) | 0.1.0 | Siddharth Sekkizhar | 11.3 kB | A lightweight CLI password manager with local Fernet-encrypted credential stora… |
+| 2026-10-05 21:44:36 | [ema-lightning](https://pypi.org/project/ema-lightning/) | 1.0.0 | Canberk Aslan | 75.2 kB | Tiny, fast and accurate Turkish text to speech. |
+| 2026-10-05 21:44:50 | [qann](https://pypi.org/project/qann/) | 0.1.0a1 | Maximilian Miller | 86.9 MB | QANN: Quantized Approximate Nearest Neighbors. C++ vector search (Flat, IVF, PQ… |
+| 2026-10-05 21:49:27 | [griot-rag](https://pypi.org/project/griot-rag/) | 0.2.0 | johnt1000 | 860.0 kB | Local-first RAG over your git repositories — index code, git history and platfo… |
+| 2026-10-05 21:50:07 | [consolelink](https://pypi.org/project/consolelink/) | 0.1.6 | Gaël Jaffrain | 173.1 kB | Live view of an ETC SmartFade ML lighting console over USB, with optional Art-N… |
+| 2026-10-05 21:50:26 | [rhylthyme-labmcp](https://pypi.org/project/rhylthyme-labmcp/) | 0.1.0a0 | Rhylthyme | 272.5 kB | Run LabMCP lab-instrument MCP servers from Rhylthyme schedules |
+| 2026-10-05 21:50:27 | [aps-vault](https://pypi.org/project/aps-vault/) | 0.41.0 | Konstantin Zhebenev | 34.7 kB | Client for APS Vault machine API (service tokens), standard library only |
+| 2026-10-05 21:51:27 | [onebudgetspec-sdk](https://pypi.org/project/onebudgetspec-sdk/) | 0.1.0 | Nick DeRobertis | 12.4 kB | The onebudgetspec Python SDK: check, validate and list budgets through the oneb… |
+| 2026-10-05 21:51:48 | [starbuck](https://pypi.org/project/starbuck/) | 0.2.0 | Tiago Jacinto | 182.0 kB | Reference-integrity checks for manuscripts: do the cited works exist, match the… |
+| 2026-10-05 21:52:45 | [onebudgetspec-cli](https://pypi.org/project/onebudgetspec-cli/) | 0.1.0 | Nick DeRobertis | 5.7 MB | The onebudgetspec command line: check, validate and list the budgets registered… |
+| 2026-10-05 21:54:35 | [MyaDictionary](https://pypi.org/project/MyaDictionary/) | 0.1.0 |  | 6.0 kB | Implementation of a dictionary in Python |
+| 2026-10-05 21:56:35 | [prism-kit](https://pypi.org/project/prism-kit/) | 0.3.0 |  | 791.9 kB | Prism workflows and shared boards for humans and agents, with optional applicat… |
+| 2026-10-05 21:58:32 | [previously](https://pypi.org/project/previously/) | 0.1.0a1 |  | 2.0 MB | An append-only knowledge store for project histories |
+| 2026-10-05 21:58:37 | [justlog3](https://pypi.org/project/justlog3/) | 1.1.0 | "Obd. Azizjon" <obdazizjon@gm… | 28.9 kB | The cheetah of logging |
+| 2026-10-05 22:00:21 | [kitty-evals](https://pypi.org/project/kitty-evals/) | 0.1.0 | WhiteFox0-0 | 25.1 kB | Evaluator toolkit for LLM outputs: pluggable LLM-as-a-judge with structured ver… |
+| 2026-10-05 22:04:31 | [crewai-aer1](https://pypi.org/project/crewai-aer1/) | 0.1.0 | Brennan Zambo | 12.8 kB | AER-1 verifiable execution receipts for CrewAI crews: one checkable receipt per… |
+| 2026-10-05 22:05:34 | [chunkmirage](https://pypi.org/project/chunkmirage/) | 0.1.0a1 | David Ackerman (@davidackerma… | 1.7 MB | Spoof chunked array formats (zarr, n5, neuroglancer precomputed) over HTTP with… |
+| 2026-10-05 22:05:38 | [fastapi-auth-saml-federated](https://pypi.org/project/fastapi-auth-saml-federated/) | 0.2.0 | Alexander Loechel <Alexander.… | 103.9 kB | Federated SAML2 Service Provider for FastAPI (Shibboleth/eduGAIN/NREN AAIs) |
+| 2026-10-05 22:06:02 | [ahmad-yar-gpt-tools](https://pypi.org/project/ahmad-yar-gpt-tools/) | 0.3.1 | Ahmad Yar | 46.0 kB | Dependency-light Python utilities for GPT, agent, retrieval, and tool pipelines. |
+| 2026-10-05 22:09:04 | [wp-enlighten](https://pypi.org/project/wp-enlighten/) | 4.2.15 | Mark Zieg <mzieg@wasatchphoto… | 106.0 MB | A GUI to control and collect data from Wasatch Photonics spectrometers |
+| 2026-10-05 22:11:09 | [huddleroom](https://pypi.org/project/huddleroom/) | 0.1.0a1 |  | 3.3 MB | Local workspace for autonomous agent teams |
+| 2026-10-05 22:13:55 | [ctxnorm](https://pypi.org/project/ctxnorm/) | 0.1.0 | crossVault GmbH | 87.4 kB | Normalise LLM providers' context-window exhaustion into one error shape that cl… |
+| 2026-10-05 22:13:56 | [redact-transcripts](https://pypi.org/project/redact-transcripts/) | 0.1.0 | crossVault GmbH | 83.7 kB | Redact secrets and personal data from AI-agent transcripts, JSONL logs and text… |
+| 2026-10-05 22:17:50 | [cookwala-samples](https://pypi.org/project/cookwala-samples/) | 0.2.0 | Cookwala maintainers | 119.8 kB | Cookwala sample clients, agents, orchestrators, gates, recovery and reporting f… |
