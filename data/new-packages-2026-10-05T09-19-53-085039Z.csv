@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T07:24:52Z,django-accounting-fr,0.2.0,,AGPL-3.0-or-later,383922,"Comptabilité en partie double pour Django : plan comptable général français, journaux, TVA, FEC."
+2026-10-05T08:20:19Z,librus-python-api,1.0.0rc1,,MIT,412915,Independent bounded async Librus Synergia client
+2026-10-05T08:21:35Z,perfact-api-i18n,1.0,Viktor Dick <viktor.dick@perfact.de>,GPL-2.0-or-later,9094,PerFact API - i18n
+2026-10-05T08:21:52Z,perfact-api-i18n-fastapi,1.0,Viktor Dick <viktor.dick@perfact.de>,GPL-2.0-or-later,9404,PerFact API - i18n FastAPI integration
+2026-10-05T08:24:07Z,agenteng,0.0.1,,Apache-2.0,315769,"AgentEng conferences and events in London and San Francisco: CLI, MCP and A2A for Agent Engineering HQ"
+2026-10-05T08:26:46Z,gnitz,0.1.0,Christian Schramm,MIT OR Apache-2.0,5128460,"Client for Gnitz, a SQL database whose views are all materialized and incrementally updated"
+2026-10-05T08:26:46Z,plain-text-memory-mcp,0.2.0,Plain Text Office LLC,MIT,76296,Knowledge-graph memory MCP server that tags entries with date and agent
+2026-10-05T08:29:42Z,azrideus-mathparse,0.2.11,Gunther Cox,MIT,59252,A fork of mathparse (https://github.com/gunthercox/mathparse) for my own usage; a library for solving mathematical equations contained in strings
+2026-10-05T08:32:25Z,fornix,0.3.0,,,39878,"Project memory for AI coding sessions. Lives in the repo, travels with the code, shared by every model that opens it, consulted on every prompt."
+2026-10-05T08:36:09Z,climb-cli,0.0.2,CLIMB Team,MIT,14317,Utilities for working with CLIMB environments.
+2026-10-05T08:36:16Z,mailspot,0.1.0,Fuad Alizada <fuadelizade6@gmail.com>,MIT,82092,"Find and verify work email addresses, with no API keys."
+2026-10-05T08:44:48Z,cfloop,0.1.0,Jeremy Howard <github@jhoward.fastmail.fm>,Apache-2.0,444145,"An asyncio event loop on macOS's CFRunLoop, so coroutines, Carbon events, and main-queue delegates share the main thread"
+2026-10-05T08:45:19Z,bund,0.1.0,,MIT,38373,Telegram pings for coding agents. Approve from your phone. Free. Zero dependencies.
+2026-10-05T08:45:44Z,utelearn-ml-custom-2026,0.1.0,Your Name <your.email@example.com>,,3963,"A custom machine learning library built from scratch, inspired by scikit-learn."
+2026-10-05T08:45:46Z,mllabiome,0.1.0,Agata Polejowska,Apache-2.0,940139,"Machine learning, ensemble learning, multimodal modeling, and explainable AI for microbiome data with end to end evaluation."
+2026-10-05T08:47:56Z,utelearn,0.1.2026,Dung Cai <dung.cai@hcmute.edu.vn>,,3825,A custom machine learning library built from scratch from UTE Vietnam.
+2026-10-05T08:49:21Z,partyline,1.0.0,,Unlicense,654656,A group voice application for Reticulum built on LXST
+2026-10-05T08:49:36Z,tecsas3-cli,0.6.0,Tecsa S3 <dev@tecsas3.com>,MIT,127897,"CLI del Ecosistema Salud TecsaS3 — multi-tenant, agent-friendly, orientado a salud rural colombiana."
+2026-10-05T08:50:22Z,g3ms-pcp,0.1.0,Kittipong Tapyou <kittipong.tpy@gmail.com>,MIT,90448,Small point-cloud utilities built with PyTorch
+2026-10-05T08:50:36Z,parallelazy,0.0.1,Cesare Montresor,,101387,"A lightweight multiprocess worker-plugin framework. Topic-based pub/sub, gloval enviroment, using process spawn and pipes, pytorch and CUDA ready."
+2026-10-05T08:51:22Z,google-browser-scraper,0.0.1,NodeMaven,MIT,94769,"Google Search results from a real browser through your own sticky proxy, with captchas and blocks reported explicitly."
+2026-10-05T08:57:38Z,CfgForge,0.1.0,_COME_HERE_,MIT,4943,Multi-source configuration loader and merger for env / json / yaml / toml
+2026-10-05T08:58:49Z,pytest-playwright-softassert,1.0.1,Gopinath M <Gopinath.matheswaran1995@gmail.com>,MIT,27803,Complete soft-assertion layer over Playwright's native expect() API
+2026-10-05T08:59:35Z,agentboxd,0.1.0,Agentboxd <support@agentboxd.com>,MIT,199351,"Python client for Agentboxd: real email inboxes for AI agents. Send, receive, wait for replies, extract OTP codes and magic links."
+2026-10-05T09:00:02Z,cascade-ai-seed,0.0.1,,,2471,"Cascade by Seed Frontier. Name reserved, first release coming."
+2026-10-05T09:03:01Z,sra-riskgate,0.1.0,Sriram Ramakrishnan,Apache-2.0,4758,Deterministic risk analysis & compliance middleware for stablecoin transactions.
+2026-10-05T09:05:17Z,pubmed-access-mcp,0.1.0,ahsanmandhar-ui,Apache-2.0,33398,"A minimal, auditable Model Context Protocol (MCP) server for PubMed via NCBI E-utilities with open-access detection."
+2026-10-05T09:06:03Z,freestream-cli,1.0.0,Your Name <you@example.com>,MIT,65694,"Stream movies, TV shows, and anime from your terminal"
+2026-10-05T09:08:41Z,mango-metadata-from-tables,1.0.0,"Mariana Montes, Jef Scheepers",,30884,Use this package to process tabular files in which each row represents an iRODS data object or collection and each column contains either an identifier or metadata to add to this item. It supports pl…
+2026-10-05T09:08:59Z,offline-oj,2.1.0,Offline OJ Project,MIT,1022800,离线 OJ 系统 —— 面向 Windows 10/11 的本地代码评测客户端
+2026-10-05T09:15:05Z,OutlineImage,1.0.0,Wilgat Wong <wilgat.wong@gmail.com>,MIT,126904,OutlineImage writes a detailed outline image for each picture in a folder.
+2026-10-05T09:15:18Z,hyperunique-druid,0.1.0,,,797403,"Decode, merge and estimate Apache Druid hyperUnique sketches (Rust, via PyO3)."
+2026-10-05T09:18:52Z,hlpl-math,1.0.0,HLPL,MIT,7442,Complete Wolfram-compatible math library - 270 functions
