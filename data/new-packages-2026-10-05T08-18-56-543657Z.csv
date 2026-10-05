@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T07:11:39Z,django-facturation-fr,0.2.0,,AGPL-3.0-or-later,168208,"Facturation pour Django : factures et avoirs numérotés, mentions légales françaises, PDF et Factur-X (EN 16931)."
+2026-10-05T07:20:04Z,digital_employee_agents_email,0.0.1,,,130762,Reusable MCP email sending agent for digital employees
+2026-10-05T07:20:39Z,crewai-turnstile,0.1.1,Peak,MIT,19851,"A CrewAI Tool that solves Cloudflare Turnstile via the Peak API, for agents that drive a browser and hit a challenge."
+2026-10-05T07:21:24Z,dls-moxa-configurator,1.0.0b1,Lee Hudson <lee.hudson@diamond.ac.uk>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",158782,GUI tool to create a pre-configured moxa ini file
+2026-10-05T07:21:46Z,devaci,0.1.0,Jorge Riveros,MIT,48252,Python library that generates Cisco ACI configuration and optionally pushes it to an APIC controller via Cisco's official Cobra SDK.
+2026-10-05T07:23:06Z,flense,0.2.0,Anand <anand.v@pintlab.com>,AGPL-3.0-only,101326,Reverse proxy that compresses AI API payloads
+2026-10-05T07:28:24Z,acr-control-plane,1.1.3,ACR Framework,Apache-2.0,313580,ACR Reference Control Plane — governance gateway for autonomous AI systems
+2026-10-05T07:29:26Z,py-exec-mcp,0.2.0,blurxy,Apache-2.0,40778,Run Python from an MCP client with no shell quoting in the way
+2026-10-05T07:30:53Z,pygifconvt-backgom,1.0.0,JHY,,6919,Test package for distribution
+2026-10-05T07:31:34Z,ndx-structured-behavior,0.2.0,"Ryan Ly <rly@lbl.gov>, Matthew Avaylon <mavaylon@lbl.gov>, Oliver Ruebel <oruebel@lbl.gov>, Michael…",BSD-3-Clause,1533700,"An NWB extension for storing structured behavior programs and data, such as from BAABL/BEADL"
+2026-10-05T07:32:13Z,fibonacci-kata-sam84,0.1.0,sam84-TECH <samaaashley.kouyele@centrale-casablanca.ma>,MIT,75651,"A TDD kata: Fibonacci, from notebook exploration to a tested, published package"
+2026-10-05T07:34:03Z,fibonacci-kata-lgermain,0.1.0,Louise Germain <louisegermain04@gmail.com>,MIT,77661,"A TDD kata: Fibonacci, from notebook exploration to a tested, published package"
+2026-10-05T07:36:02Z,eastworlds-forge,0.2.0,,,212420,"The Forge command-line interface: sign in with a Forge API key, download and upload dataset episodes, convert MCAP <-> LeRobot v2.1 locally."
+2026-10-05T07:41:22Z,superjobs,0.1.0,Valentin Schröter,,170509,Pre-alpha typed asynchronous jobs over NATS JetStream with shared contract packages for producers and workers.
+2026-10-05T07:42:10Z,fibonaccii-kata,0.1.0,Sana Iftikhar <sanaiftikharh@gmail.com>,MIT,158036,"A TDD kata: fibonacci, from notebook exploration to a tested, published package"
+2026-10-05T07:46:51Z,medhaocr,0.1.0,Maruti L Sankannanavar,Apache-2.0,38969,"CPU-only OCR for scanned and digital documents (PDF, JPG, JPEG, PNG) that keeps headings, tables and layout"
+2026-10-05T07:47:01Z,oi-starship-helm,0.1.0,Orion Innovation,MIT,316262,"Standalone governance SDK wrapping the Microsoft Agent Governance Toolkit (AGT) behind a stable, layer-modular interface."
+2026-10-05T07:50:35Z,aegis-resilience,0.1.0,AEGIS Framework Contributors,Apache-2.0,191870,"Open-source autonomous reliability engineering framework for AI-powered incident investigation, reasoning, remediation, and reliability automation."
+2026-10-05T07:51:46Z,mcp-posture,1.0.0rc1,Baptiste PIRAULT,MIT,369877,"Security posture scanner for remote MCP servers: OAuth, transport and tool surface, with spec-cited findings and SARIF."
+2026-10-05T07:52:51Z,nodusdb,0.1.0rc1,,Apache-2.0,124584992,Embedded high-churn dynamic graph kernel with a GraalVM native C-ABI
+2026-10-05T07:53:29Z,ndara-orchestra-toolkit,24.2.100,Yanis Fourel <yanis@ndara.io>,LGPL-3.0-or-later,278259,A python client to interact with Orchestra systems
+2026-10-05T07:55:53Z,SNT-CV-Generator,0.1.0,Sat Naing Tun,MIT,5206,An automated CV and cover letter generator powered by LLMs and LaTeX.
+2026-10-05T07:56:10Z,mynexustest,0.0.3,Vlad <vladyslav.kravchenko@gothaer.de>,MIT,4126,bla bla
+2026-10-05T07:56:37Z,litestar-google-errors,0.1.1,alexkorolex,MIT,55143,"Litestar plugin for Google JSON style error responses in OpenAPI (Swagger) schemas, with typed msgspec error models"
+2026-10-05T07:59:26Z,Nucleone,1.0.0,"Yosef Masoudi-Sobhanzadeh, Sushant Kumar",MIT,7423,Dyad identification from nucleosome occupancy profile
+2026-10-05T07:59:57Z,sparklens,0.1.0,,,183285,Spark Physical Plan Analyzer and Visualizer
+2026-10-05T08:00:42Z,cadabby,0.3.0,Cadabby Contributors,,144832,Zero-dependency engine for Karpathy-style LLM Wiki vaults with OKF trust tiers
+2026-10-05T08:09:16Z,shiny-charts,0.4.0b1,,MIT,805333,Dashboard-native interactive charts for Shiny for Python.
+2026-10-05T08:09:56Z,hackable,1.0.0,Shafqat Mehmood,MIT,54885,Hack yourself before they do. One-command website security check for people who have never run a security tool.
+2026-10-05T08:11:55Z,molprim,0.1.0,Peemapat Wongsriphisant,BSD-3-Clause,31432,"Primitive structure extraction and graph kernels for molecular graph classification, with a scikit-learn API"
+2026-10-05T08:12:54Z,pickaxetax,0.1.0,,Apache-2.0,157996,"Pickaxe Tax: measure and cut wasted AI compute -- local LLM proxy, conversation skeletons, over-computation benchmark, Compute Bubble Index."
+2026-10-05T08:14:26Z,abysshub,0.0.1.dev3,,MIT,4071,The official Python library for the Abyss API.
