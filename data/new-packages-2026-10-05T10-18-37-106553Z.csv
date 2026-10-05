@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T09:20:37Z,otaghak-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,478319,"Unofficial read-only MCP server for Otaghak: search Iranian villas and cottages, check availability, exact stay prices, reviews and hosts."
+2026-10-05T09:20:44Z,jabama-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,522693,"Unofficial read-only MCP server for Jabama: search villas and stays with exact prices, group tours, events and theater tickets."
+2026-10-05T09:20:48Z,mrbilit-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,499173,"Unofficial read-only MCP server for MrBilit: cheapest flights, trains, buses, taxis and hotels in Iran, with seats, refund rules and exact prices."
+2026-10-05T09:21:23Z,pacifica-python-sdk,0.1.0a1,loinsssss,MIT,84795,Independent asynchronous Pacifica REST and WebSocket client
+2026-10-05T09:24:31Z,risex-python-sdk,0.1.0a2,loinsssss,MIT,104582,Independent asynchronous Python client for RISEx REST and WebSocket APIs
+2026-10-05T09:25:29Z,mvgeos-core,0.6.6,,MIT,61672,"Canonical loop vocabulary for MvgeOS: abort, invocations, spells, events, and the pure turn loop"
+2026-10-05T09:25:31Z,mvgeos-provider,0.6.6,,MIT,51764,"Provider abstraction protocol, model registry, and retry policies (OpenRouter realm ships as a marketplace rune)"
+2026-10-05T09:25:33Z,mvgeos-tome,0.6.6,,MIT,34282,Session persistence using JSONL storage with file locking and in-memory index
+2026-10-05T09:25:35Z,mvgeos-runes,0.6.6,,MIT,73159,"Extension system: manifest, loader, and sigil hook protocol"
+2026-10-05T09:27:49Z,nirnaya,1.0.0,,Apache-2.0,74946,"Calibrated typed decisions (choice, yes/no, score) in one non-generative forward pass"
+2026-10-05T09:30:38Z,barga,0.1.0,Ampixa,Apache-2.0,55576,barga: a system-one decision model for English and Nepali (inference)
+2026-10-05T09:37:33Z,LazyCIM,0.1.0,"Louis Pauchet, Hallvar Haugdal",Apache-2.0,126507,"LazyCIM is a Python library for querying, navigating, and editing CIM/CGMES models using a dynamic, ontology-driven API. Think SQLAlchemy for power system knowledge graphs."
+2026-10-05T09:38:15Z,lmopitacrud,0.1.1,,,8858,A simple CRUD package backed by JSON file storage.
+2026-10-05T09:38:38Z,codex-catalog,1.0.0,,,42073,Codex Custom Model Catalog Builder
+2026-10-05T09:40:53Z,jsonplaceholder-crud-theo,1.0.0,Theo,,195839,Package CRUD pour l'API JSONPlaceholder
+2026-10-05T09:42:02Z,aktagon-llmkit,3.2.1,"""Aktagon Ltd."" <christian@aktagon.com>",MIT,245581,"Unified LLM client library for Python — one API, 27 providers (Anthropic, OpenAI, Google Gemini, AWS Bedrock, Mistral, Groq, DeepSeek, +20 more), zero external dependencies (stdlib only)."
+2026-10-05T09:43:15Z,daisy-cotton-ext,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,38006,"Extended components and page blocks for django-cotton and daisyUI, built on daisy-cotton"
+2026-10-05T09:45:37Z,zihin,0.1.0,Zihin,MIT,18599,Official Python client for invoking Zihin.ai hosted AI agents (buffered and streaming calls).
+2026-10-05T09:47:14Z,correctover-ccs-mcp,1.0.1,Correctover <wangguigui@correctover.com>,LicenseRef-Elastic-2.0,119423,"Correctover CCS MCP Server — local-first MCP/Agent security tooling: receipt verification, batch audit, field-level tamper localization, and 14-rule MCP config checkup. Zero network egress, zero thir…"
+2026-10-05T09:48:44Z,cmp-consent,0.1.1,Pentafox,Proprietary,56007,"Python SDK for the CMP officer-assisted deferred consent flow (raise requests, gate on verify, verify webhooks)."
+2026-10-05T09:48:48Z,VoxCPMTTSlora,0.1.0,,MIT,9480,Tiny standard-library loader and runner for remote Python profiles
+2026-10-05T09:49:13Z,iorec,1.1.0,Matthieu Perez <matthieu.perez@cnrs.fr>,GPL-3.0-or-later,569806,Load and save .rec mesh files
+2026-10-05T09:51:20Z,package-Tao,0.1.0,Tao,,4263,Package pour la gestion des modèles et opérations CRUD
+2026-10-05T09:53:24Z,jsonplaceholder-clone,1.0.0,Tom Doizon <tom.doizon1@gmail.com>,,13496,Reconstruction de l'API JSONPlaceholder avec FastAPI
+2026-10-05T09:53:50Z,ThreeDimensionModeller,1.0.0,Wilgat Wong <wilgat.wong@gmail.com>,MIT,133291,ThreeDimensionModeller builds a glTF model and an HTML viewer from outline images.
+2026-10-05T09:54:30Z,microsegments,0.1.1,Gaspard Merten <gaspard.mp.work@gmail.com>,MIT,1127346,"Where do transit vehicles linger? Count vehicle position observations per micro-segment of a line, from GTFS + AVL / GTFS-RT positions."
+2026-10-05T09:56:18Z,imho,0.2.0,"""imho.run"" <admin@imho.run>",MIT,27775,"Python client for the imho.run API: Steam games like any game, game facts, and finding a game from a description."
+2026-10-05T09:57:44Z,homology-operator,0.0.2,homology-operator contributors,MIT,328390,Boundary-native F2 homology operators and finite filtration reference
+2026-10-05T09:59:09Z,nios-apps,0.1.0,,,9105,Expose localhost at ni-os.ru/apps/<name> (Nios Apps tunnel client)
+2026-10-05T10:02:46Z,promiz,0.1.1,Pentafox,Proprietary,55891,"Python SDK for the CMP officer-assisted deferred consent flow (raise requests, gate on verify, verify webhooks)."
+2026-10-05T10:06:14Z,inferlab-gateway-dynamo,0.1.0,,MIT,7284,Inferlab Dynamo frontend and discovery lowering shared by the integrations that run Dynamo
+2026-10-05T10:08:30Z,dialcontrol,0.1.0,Bora Baran,BSD-3-Clause,55496,Target-Aware DIAL control synthesis for dispersive multi-qubit interactions
+2026-10-05T10:09:47Z,hikvision-downloader,0.1.0,Sudhakar Balakrishnan,AGPL-3.0-or-later,144387,App to download video files from hikvision CCTV NVR
+2026-10-05T10:10:22Z,ritualsgenie,0.1.0,Franck Nijhof,MIT,60919,Asynchronous Python client for the Rituals Perfume Genie API.
+2026-10-05T10:14:19Z,aolbeam-ask,0.1.0,Karan Sinha <nomore.report@gmail.com>,MIT,39794,"A lightweight, stateless terminal AI CLI that knows when to search the web. Command: ask"
+2026-10-05T10:14:49Z,store-resource-bootstrap-py,0.1.0,,MIT,18166,"Optional resource bootstrap plugin for common-store: registers the three resource schemas, wires the host resource capability (providers / url / sign) and produces the store-api fileResolver seam, fo…"
