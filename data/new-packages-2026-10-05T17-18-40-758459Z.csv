@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T16:20:54Z,arin-log,0.2.0,Marcus Aurelius <marcus.aurelius.hu@gmail.com>,MIT,28991,"A lightweight logging package for long-running pipelines: a virtual assistant for the user, a clean archive for the developer."
+2026-10-05T16:21:43Z,normalize-tabular-data,0.1.1,"David Mertz, Ph.D.",BSD-2-Clause,48715,TUI for normalizing tabular data with polars
+2026-10-05T16:24:30Z,mainai,0.2.2,,,37265,"Pick the right coding agent to continue a project with, across Claude Code, Codex, and Grok sessions."
+2026-10-05T16:25:22Z,localalibiscan,0.1.2,deltaxmodules,MIT,212786,Every claim has an alibi. Local tool that profiles every project on your disk and proves each claim with file and line.
+2026-10-05T16:26:29Z,zentroq,0.4.0,SecQDevOps / ZentroQ,Apache-2.0,158167,ZentroQ SDK — certify quantum software releases from your Qrisp/Qiskit pipeline (a SecQDevOps MOD-08 service).
+2026-10-05T16:27:45Z,machinelibrary,0.1.0,,MIT,15265,"Python client for Machine Library: citable search over papers, books, patents, standards and Wikipedia for AI agents."
+2026-10-05T16:27:50Z,dattri-llm,0.1.0,TRAIS Lab,MIT,568840,Efficient training data attribution (TDA) infrastructure for LLM-scale models.
+2026-10-05T16:27:55Z,langchain-machinelibrary,0.1.1,,MIT,12124,"LangChain retriever and tools for Machine Library: citable search over papers, books, patents, standards and Wikipedia."
+2026-10-05T16:27:56Z,llama-index-tools-machinelibrary,0.1.0,,MIT,8418,"LlamaIndex tool spec for Machine Library: citable search over papers, books, patents, standards and Wikipedia."
+2026-10-05T16:27:59Z,bayan-cli,1.2.1,Ufuq Studio <contact@ufuq.studio>,,,"Arabic coding assistant with agent tools — read, write, edit, and run code from your terminal."
+2026-10-05T16:28:38Z,am-language,0.1.1,chaman640,"MIT License Copyright (c) 2026 chaman640 Permission is hereby granted, free of charge, to any perso…",30479,"AM: Python syntax, Python libraries, fewer Python bugs"
+2026-10-05T16:29:14Z,zarrshadow,0.0.1,Ben Dichter,,2434,Zarr stores that reference the bytes of existing files without copying them
+2026-10-05T16:31:41Z,opendox,0.1.0,,,4442191,"The openDox code leg — the `opendox` package, carved from openxFactory."
+2026-10-05T16:32:15Z,poseorbit,0.1.1,33rd-kk,Apache-2.0,54426,"Find the people in a picture, turn their pose in 3D, and draw the skeleton a pose-conditioned image model follows."
+2026-10-05T16:35:23Z,ndos,0.1.0,Elnaz Alikarami,Apache-2.0,839028,"Recover, describe and query animal neuroscience data you did not organise yourself"
+2026-10-05T16:36:50Z,kestrel-explorer,0.2.1a0,RegulusArms,MIT,403340,"A file manager for Linux that brings terminal tools into the window: archives, admin rights on demand, permissions, links, metadata editing, batch rename"
+2026-10-05T16:37:35Z,context-guards,0.1.0,,,149170,Dual-layer Context Health Guardrail and Compression Engine for LLM agent harnesses.
+2026-10-05T16:38:11Z,langchain-arcmira,0.1.0,Arcmira <zeal@arcmira.com>,Apache-2.0,23101,YouTube transcript search and entity resolution tools for LangChain and LangGraph.
+2026-10-05T16:38:50Z,myna-engine,0.1.0,Aashish,Apache-2.0,253315,"Myna: a persistent-state, delta-encoded System-1 decision engine."
+2026-10-05T16:40:48Z,duty27-eu-vat,0.1.0,Duty27,MIT,20436,"EU standard VAT rates by date: every change since 2016, for all 27 member states. No dependencies, works offline."
+2026-10-05T16:41:36Z,sendandretain,0.2.0,Send & Retain,MIT,727603,"The Send & Retain SDK for Python — send email, sync contacts and verify webhooks, sync or async."
+2026-10-05T16:47:44Z,oblako,0.1.0,Almostly,Apache-2.0,7470345,"AWS data services on your machine: real engines behind the AWS APIs, for unmodified boto3 code"
+2026-10-05T16:49:39Z,codename-factory,0.4.1,Michael Blaess,Apache-2.0,169434,Project codename generator with curated themes and phonetic mutations
+2026-10-05T17:00:31Z,fastisan,0.1.0,Arun Yadav,MIT,57311,A CLI for scaffolding FastAPI components and project boilerplate.
+2026-10-05T17:00:35Z,dgrec-tools,0.2.0,David Bikard,Apache-2.0,396514,Analyse and design DGRec targeted-hypermutagenesis experiments
+2026-10-05T17:01:18Z,aiyoplane-langchain,1.0.0,"""Aiyoplane, Inc."" <rashon@aiyoplane.com>",Apache-2.0,31325,AEAP Composition Boundary Adapter for LangChain. Thin wrapper that attaches the Runtime Decision Point to LangChain tool invocations.
+2026-10-05T17:01:51Z,geoaquacrop-preprocess,0.1.0,"Josias Lang-Ritter, Chris Bowden, Seyed Hossein Hosseini, Henrikki Tenkanen, Tim Foster",Apache-2.0,111652,Automated data download and preprocessing pipeline for running FAO AquaCrop over large regions in gridded format
+2026-10-05T17:02:57Z,gangmu-rules,2026.10.6,,CDLA-Permissive-2.0 (rules); Apache-2.0 (packaging code),8004421,"Free rule base for gangmu: the general upstream open-source components that embedded SDKs copy, mapped to their upstream identities"
+2026-10-05T17:03:11Z,geoaquacrop-simulate,0.1.0,"Josias Lang-Ritter, Christopher Bowden, Seyed Hossein Hosseini, Henrikki Tenkanen, Timothy Foster",Apache-2.0,96959,Gridded AquaCrop-OSPy simulation runner
+2026-10-05T17:05:12Z,stepscribe-cad,0.1.0,idris sadiq,AGPL-3.0-only,725603,"Turn STEP files into an LLM Context Pack: exact measurements, features and assembly facts in plain text."
+2026-10-05T17:06:16Z,geoaquacrop-visualize,0.1.0,"Josias Lang-Ritter, Chris Bowden, Seyed Hossein Hosseini, Henrikki Tenkanen, Tim Foster",Apache-2.0,143946,Interactive Dash/Plotly visualisation toolkit for gridded AquaCrop simulations
+2026-10-05T17:09:40Z,geoaquacrop,0.1.0,"Josias Lang-Ritter, Chris Bowden, Seyed Hossein Hosseini, Henrikki Tenkanen, Tim Foster",Apache-2.0,24870,"Unified entry point to the GeoAquaCrop toolchain: preprocessing, gridded simulation, and visualisation"
+2026-10-05T17:11:04Z,pynamodb-async,0.1.0,,MIT,115740,"Native asyncio API for PynamoDB, built on aiobotocore"
+2026-10-05T17:12:52Z,robotframework-odoofx,0.1.0,Cyril Montiel <cyril@montiel.me>,Apache-2.0,39178,"ODOOFX: Robot Framework library for testing Odoo over its external API (XML-RPC up to Odoo 18, JSON-2 from Odoo 19), with opt-in journaled writes. Web channel in bootstrap."
+2026-10-05T17:13:11Z,rpx-benchmark,0.3.0,RPX Team,MIT License Copyright (c) 2025 Intelligent Robotics and Vision Lab at the University of Texas at Da…,963357,RPX — benchmark harness for evaluating robot-perception models on real-world RGB-D data
+2026-10-05T17:14:35Z,ww-agentic-workflows,1.0.0.dev3,ww contributors,GPL-3.0-or-later,1833437,"A local-first, resumable workflow CLI for people and AI agents."
+2026-10-05T17:16:58Z,sbombs-yearly,2026.1.0,,MIT,2667,"SBOMBS yearly control test fixture, published once per year. Do not depend on this package."
+2026-10-05T17:18:24Z,runcove-sdk,0.1.0,,Apache-2.0,1043050,Python client for the Cove API
