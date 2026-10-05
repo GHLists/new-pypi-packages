@@ -8,30 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 01:18 UTC
+## Latest list — 2026-10-05 02:18 UTC
 
-New packages created between 2026-10-05 00:18 UTC and 2026-10-05 01:18 UTC.
+New packages created between 2026-10-05 01:18 UTC and 2026-10-05 02:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T01-18-42-138548Z.csv)
+[Full CSV](data/new-packages-2026-10-05T02-18-38-178706Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 00:26:46 | [openbionews](https://pypi.org/project/openbionews/) | 0.4.0 | OpenBioNews contributors | 152.1 kB | Free, self-hosted tool that turns biopharma primary sources (ClinicalTrials.gov… |
-| 2026-10-05 00:27:33 | [yootheme-mcp](https://pypi.org/project/yootheme-mcp/) | 0.11.3 | GMC <gmcfuerte@gmail.com> | 216.8 kB | MCP server and CLI for YOOtheme Pro 5 on WordPress and Joomla. Read-only tools… |
-| 2026-10-05 00:29:57 | [sprintnodes](https://pypi.org/project/sprintnodes/) | 0.0.1 | SprintNodes team | 5.4 kB | SprintNodes – AI Orchestrator. This package name is officially reserved by the… |
-| 2026-10-05 00:33:34 | [manga-translator](https://pypi.org/project/manga-translator/) | 0.3.0 | Indra Gunanda | 20.2 MB | Offline-first manga translation CLI with optional LLM post-editing |
-| 2026-10-05 00:34:49 | [signapy](https://pypi.org/project/signapy/) | 0.1.0a1 | Carlos Meisel | 96.0 kB | Mixed categorical, continuous, and ordinal feature discovery for labeled datase… |
-| 2026-10-05 00:40:18 | [violet-sdk](https://pypi.org/project/violet-sdk/) | 0.1.0 | Violet | 91.7 kB | Python SDK for the Violet Messages API with keyless (Auth0, API key) authentica… |
-| 2026-10-05 00:46:19 | [nmt-forge](https://pypi.org/project/nmt-forge/) | 0.2.0 | Curtis Forbes | 883.7 kB | NMT training suite that makes catalogued training/eval mistakes structurally ha… |
-| 2026-10-05 00:51:09 | [bigif](https://pypi.org/project/bigif/) | 1.0.0 | Big If True | 15.2 kB | The official Python SDK for the Big If True API (Big, Disco and Ticker, OpenAI-… |
-| 2026-10-05 00:56:16 | [thermaestro-gateway](https://pypi.org/project/thermaestro-gateway/) | 0.0.0 |  | 27.0 kB | Thermaestro's gateway between a heat pump's serial bus and UDP (placeholder rel… |
-| 2026-10-05 00:56:18 | [thermaestro](https://pypi.org/project/thermaestro/) | 0.0.0 |  | 26.7 kB | Heat-pump controller (placeholder release, not usable yet) |
-| 2026-10-05 00:56:59 | [robotframework-parallelrunner](https://pypi.org/project/robotframework-parallelrunner/) | 0.2.0 | Cristian Garcia | 27.8 kB | Run a keyword in parallel inside a single Robot Framework test case, with one c… |
-| 2026-10-05 01:00:33 | [swichyssd](https://pypi.org/project/swichyssd/) | 0.3.0 | bitfarmy | 25.0 kB | Sposta le app Flatpak tra il disco interno e un SSD esterno su Fedora. |
-| 2026-10-05 01:03:42 | [image-redactor](https://pypi.org/project/image-redactor/) | 0.1.0 | Pranay Mahendrakar | 53.9 kB | Blur or mask faces, plates and regions you mark, with a detector you supply or… |
-| 2026-10-05 01:04:48 | [camera-health](https://pypi.org/project/camera-health/) | 0.1.0 | Pranay Mahendrakar | 82.1 kB | Detect an obstructed, defocused, dark, frozen or tampered camera from its own f… |
-| 2026-10-05 01:10:28 | [store-fns-py](https://pypi.org/project/store-fns-py/) | 0.1.0 |  | 5.4 kB | L2 computed-column implementations (Python) — language-level shared layer; boun… |
-| 2026-10-05 01:12:17 | [funcloom](https://pypi.org/project/funcloom/) | 0.10.3a0 | Sambit Supriya Dash | 422.9 kB | The Python functionizer: turn scripts, snippets and Jupyter notebooks into veri… |
-| 2026-10-05 01:15:20 | [tellurion](https://pypi.org/project/tellurion/) | 0.1.0 | Liam Healy | 41.3 MB | Astrodynamics and satellite navigation using Orekit and AstroPy |
-| 2026-10-05 01:16:40 | [refactrail-core](https://pypi.org/project/refactrail-core/) | 0.3.1a0 | Sambit Supriya Dash | 13.0 MB | Rust engine for RefacTrail, the Python refactorizer: the same results as its Py… |
-| 2026-10-05 01:17:22 | [refactrail](https://pypi.org/project/refactrail/) | 0.3.1a0 | Sambit Supriya Dash | 273.6 kB | The Python refactorizer: linter, formatter and verified refactoring with indepe… |
+| 2026-10-05 01:20:32 | [rtidb](https://pypi.org/project/rtidb/) | 0.8.0 |  | 363.3 kB | Python bindings for rti-db, the hard-real-time embedded time-series data engine |
+| 2026-10-05 01:20:50 | [whisperers](https://pypi.org/project/whisperers/) | 0.1.0a1 | Soham Padia <sohampadia10@gma… | 68.7 kB | Find token prefixes that push a language model's internals (a residual directio… |
+| 2026-10-05 01:22:14 | [stillvalid](https://pypi.org/project/stillvalid/) | 0.1.2 |  | 97.4 kB | Is this information still valid? A validity layer between retrieval and action… |
+| 2026-10-05 01:23:13 | [torchspin](https://pypi.org/project/torchspin/) | 0.3.0 | Alec Follmer <ahfollmer@ucdav… | 966.0 kB | Differentiable PyTorch port of EasySpin - EPR/ESR spin Hamiltonian and spectrum… |
+| 2026-10-05 01:28:31 | [aitwi-crm](https://pypi.org/project/aitwi-crm/) | 0.1.0 |  | 110.8 kB | The business system, as a Python library: every CRM function, run for your busi… |
+| 2026-10-05 01:32:20 | [tn-venv-gui](https://pypi.org/project/tn-venv-gui/) | 0.1.0 | Tokenoodle-Everything Organiz… | 31.9 kB | A graphical GUI frontend built upon the tn-venv virtual environment manager. |
+| 2026-10-05 01:32:35 | [torchrolling](https://pypi.org/project/torchrolling/) | 0.1.0 | Lena Barretta | 172.2 kB | Pandas-style rolling and exponentially weighted statistics for PyTorch tensors,… |
+| 2026-10-05 01:37:38 | [didis-py](https://pypi.org/project/didis-py/) | 0.1.0 | DID.is | 21.5 kB | Official Python SDK for the DID.is public API: DID resolution with evidence, cr… |
+| 2026-10-05 01:39:31 | [dbx-tools-model-proxy](https://pypi.org/project/dbx-tools-model-proxy/) | 0.9.31 |  | 501.9 kB | LiteLLM proxy backed by Node-owned Databricks authentication and dynamic model… |
+| 2026-10-05 01:39:51 | [srini-curation-test-20261005-24384](https://pypi.org/project/srini-curation-test-20261005-24384/) | 0.0.1 |  | 2.6 kB | Throwaway test package for JFrog Curation testing |
+| 2026-10-05 01:40:32 | [agent-reliability-otel-labels](https://pypi.org/project/agent-reliability-otel-labels/) | 0.1.0 |  | 35.5 kB | Process-metadata labels for OpenTelemetry agent spans |
+| 2026-10-05 01:46:49 | [network-terminal-mcp](https://pypi.org/project/network-terminal-mcp/) | 0.1.1 | Evgeny Zhuravlev | 202.9 kB | Session-oriented MCP server for interactive network device terminals |
+| 2026-10-05 01:48:06 | [streamlit-segment-slider](https://pypi.org/project/streamlit-segment-slider/) | 0.1.0 | pjpeacock <philip.j.peacock@g… | 24.2 kB | A multi-handle range slider for Streamlit -- split a range into any number of s… |
+| 2026-10-05 01:58:19 | [rheopy-rheomodel](https://pypi.org/project/rheopy-rheomodel/) | 0.1.0 | Marco Caggioni | 436.0 kB | Rheological constitutive models with verified academic citations |
+| 2026-10-05 01:59:24 | [fourier-samples](https://pypi.org/project/fourier-samples/) | 0.1.0 | The Fourier Samples authors | 1.7 MB | Curate a sample library into device-ready folders for hardware samplers |
+| 2026-10-05 02:00:27 | [rebot-rtde](https://pypi.org/project/rebot-rtde/) | 0.1.0 |  | 32.6 kB | Python RTDE client for the reBot control box |
+| 2026-10-05 02:08:28 | [streampile](https://pypi.org/project/streampile/) | 0.1.0 | Clint Valentine <valentine.cl… | 74.6 kB | Forward-only pileups streamed from coordinate-sorted SAM, BAM, and CRAM records. |
+| 2026-10-05 02:09:33 | [gausscam](https://pypi.org/project/gausscam/) | 0.1.0 |  | 33.8 kB | 3D Gaussian Splatting sensor rendering for physics simulators (torch-free backe… |
+| 2026-10-05 02:16:40 | [tenergy](https://pypi.org/project/tenergy/) | 0.1.0b0 | TEnergy | 31.5 kB | Python SDK for the TEnergy TRON energy rental API |

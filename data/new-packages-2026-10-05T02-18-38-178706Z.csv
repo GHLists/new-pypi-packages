@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T01:20:32Z,rtidb,0.8.0,,MIT OR Apache-2.0,363267,"Python bindings for rti-db, the hard-real-time embedded time-series data engine"
+2026-10-05T01:20:50Z,whisperers,0.1.0a1,Soham Padia <sohampadia10@gmail.com>,Apache-2.0,68713,"Find token prefixes that push a language model's internals (a residual direction, attention heads, an SAE latent, a LoRA or a function vector) toward a target."
+2026-10-05T01:22:14Z,stillvalid,0.1.2,,MIT,97404,"Is this information still valid? A validity layer between retrieval and action — deterministic checks first, learned survival probability where nothing deterministic exists."
+2026-10-05T01:23:13Z,torchspin,0.3.0,Alec Follmer <ahfollmer@ucdavis.edu>,MIT,966034,Differentiable PyTorch port of EasySpin - EPR/ESR spin Hamiltonian and spectrum simulation
+2026-10-05T01:28:31Z,aitwi-crm,0.1.0,,MIT,110776,"The business system, as a Python library: every CRM function, run for your business"
+2026-10-05T01:32:20Z,tn-venv-gui,0.1.0,Tokenoodle-Everything Organization,Tokenoodle-Everything License,31931,A graphical GUI frontend built upon the tn-venv virtual environment manager.
+2026-10-05T01:32:35Z,torchrolling,0.1.0,Lena Barretta,MIT,172160,"Pandas-style rolling and exponentially weighted statistics for PyTorch tensors, fast on GPU."
+2026-10-05T01:37:38Z,didis-py,0.1.0,DID.is,MIT,21470,"Official Python SDK for the DID.is public API: DID resolution with evidence, credentials, policies and agent trust"
+2026-10-05T01:39:31Z,dbx-tools-model-proxy,0.9.31,,Apache-2.0,501914,LiteLLM proxy backed by Node-owned Databricks authentication and dynamic model discovery
+2026-10-05T01:39:51Z,srini-curation-test-20261005-24384,0.0.1,,,2586,Throwaway test package for JFrog Curation testing
+2026-10-05T01:40:32Z,agent-reliability-otel-labels,0.1.0,,Apache-2.0,35500,Process-metadata labels for OpenTelemetry agent spans
+2026-10-05T01:46:49Z,network-terminal-mcp,0.1.1,Evgeny Zhuravlev,MIT,202871,Session-oriented MCP server for interactive network device terminals
+2026-10-05T01:48:06Z,streamlit-segment-slider,0.1.0,pjpeacock <philip.j.peacock@gmail.com>,MIT,24210,"A multi-handle range slider for Streamlit -- split a range into any number of segments, with a pie chart/legend or compact inline labels."
+2026-10-05T01:58:19Z,rheopy-rheomodel,0.1.0,Marco Caggioni,MIT,435981,Rheological constitutive models with verified academic citations
+2026-10-05T01:59:24Z,fourier-samples,0.1.0,The Fourier Samples authors,Apache-2.0,1658004,Curate a sample library into device-ready folders for hardware samplers
+2026-10-05T02:00:27Z,rebot-rtde,0.1.0,,,32607,Python RTDE client for the reBot control box
+2026-10-05T02:08:28Z,streampile,0.1.0,Clint Valentine <valentine.clint@gmail.com>,MIT,74622,"Forward-only pileups streamed from coordinate-sorted SAM, BAM, and CRAM records."
+2026-10-05T02:09:33Z,gausscam,0.1.0,,MIT,33773,"3D Gaussian Splatting sensor rendering for physics simulators (torch-free backends, MuJoCo adapter)"
+2026-10-05T02:16:40Z,tenergy,0.1.0b0,TEnergy,MIT,31532,Python SDK for the TEnergy TRON energy rental API
