@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 17,
-    "from": "2026-10-05T19:18:32.985935Z",
-    "path": "data/new-packages-2026-10-05T20-18-58-49142Z.csv",
-    "to": "2026-10-05T20:18:58.49142Z"
+    "count": 22,
+    "from": "2026-10-05T20:18:58.49142Z",
+    "path": "data/new-packages-2026-10-05T21-18-34-974904Z.csv",
+    "to": "2026-10-05T21:18:34.974904Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-05T17:05:52Z",
-      "package": "su-integration-interfaces",
-      "since": "2026-10-05T16:18:39.574444Z"
+      "attempts": 1,
+      "created_at": "2026-10-05T20:43:51Z",
+      "package": "erc7730-hackathon",
+      "since": "2026-10-05T20:18:58.49142Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-05T21:18:32Z",
+      "package": "idl2proto",
+      "since": "2026-10-05T20:18:58.49142Z"
     }
   ],
-  "serial": 41853470,
+  "serial": 41854268,
   "source_truncated": false,
-  "window": "2026-10-05T20:18:58.49142Z"
+  "window": "2026-10-05T21:18:34.974904Z"
 }

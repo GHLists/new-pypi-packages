@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T20:22:23Z,openrsxl,0.1.0,asheer_mokry,MIT,68392400,"Drop-in replacement for openpyxl powered by Rust: same API and results, much faster and lighter, plus streaming of formulas, cached values, comments, hyperlinks and merged cells"
+2026-10-05T20:22:39Z,clinia-context-engine,0.8.0,,Apache-2.0,73938,Python client for the Clinia Context Engine API
+2026-10-05T20:25:34Z,thriftllm,0.0.0,Harun Ercul,Apache-2.0,34629,"LLM cost routing with correct per-request cost: output-length forecasting, cache-aware tiered pricing, and $/quality ranking."
+2026-10-05T20:26:00Z,skillgild,0.1.0,SkillGild <support@skillgild.dev>,MIT,18569,"Official Python client for SkillGild, the marketplace for hosted AI agent skills: search the catalog, run hosted skills and drive hybrid tool sessions."
+2026-10-05T20:27:32Z,authv4,4.0.2,Authris,MIT,10054,Authris license client SDK
+2026-10-05T20:27:39Z,privacyscrubber-mcp,2.3.2,Ilya Sibiryakov <ilya@brandmeweb.com>,MIT,781250,"CISO-Approved Zero-Trust PII & Secrets Redaction MCP Server for Cursor, Windsurf, and Claude Desktop"
+2026-10-05T20:29:40Z,g2p-hamster,0.2.0,g2p-hamster contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",9668358,"Context-aware Vietnamese/English TTS front-end: text normalization, abbreviation/date/number verbalization, VI-EN code-switching, G2P — throw text in, get phonemes out."
+2026-10-05T20:38:37Z,aiyoplane-openai-agents,1.0.0,"""Aiyoplane, Inc."" <rashon@aiyoplane.com>",Apache-2.0,26092,AEAP Composition Boundary Adapter for the OpenAI Agents SDK. Thin wrapper that attaches the Runtime Decision Point to agent tool invocations.
+2026-10-05T20:41:02Z,meidnet,2.2.0,Anand Babu,MIT,411647,MEIDNet: multimodal structure-property latent space and constrained inverse design of crystalline materials
+2026-10-05T20:41:37Z,stackos-connectors,0.1.0,,MIT,4606493,Named provider connectors with plain data and caller-owned authentication.
+2026-10-05T20:43:25Z,agentic-pricing-core,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,4102,Line-of-business-agnostic building blocks for agentic insurance pricing.
+2026-10-05T20:43:57Z,agentic-pricing-servers,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,4142,Shared server infrastructure for exposing agentic insurance pricing services.
+2026-10-05T20:45:48Z,agentic-pricing,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,4311,Shared foundation for agentic AI in insurance pricing.
+2026-10-05T20:50:10Z,gentui,0.1.0,rahrajlat,MIT,74623,"A terminal interface for prototyping agents really quickly, for any AG-UI backend"
+2026-10-05T20:53:03Z,lying-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,48810,A machine that lies.
+2026-10-05T20:54:45Z,avito-sdk,0.1.0,eminsk <M_N_N@tut.by>,MIT,124256,"High-performance headless Avito scraping & data extraction SDK with price tracking, parameters parsing, and async support"
+2026-10-05T20:56:58Z,callo,0.0.1,Peculiar Ragdoll,Apache-2.0,2192,Placeholder for the upcoming Callosum release. Not yet functional.
+2026-10-05T21:03:11Z,ecuafact,1.0.0b1,Ecuanexus,MIT,34261,Cliente oficial en Python del API publico de facturacion electronica Ecuafact (contrato v1).
+2026-10-05T21:05:15Z,tmrsbtlib,0.0.1,yarik_g,,3794,This is the simplest module for quick work with files.
+2026-10-05T21:10:22Z,pulumi-codecapsules,0.1.0,,Apache-2.0,37499,"A Pulumi provider for Code Capsules platform resources: teams, spaces, and capsules (MySQL, Redis, storage, WordPress)."
+2026-10-05T21:13:45Z,cosmicephemeris-client,0.3.0,,ISC,149730,Synchronous Python client for the Cosmic Ephemeris calculation gateway
+2026-10-05T21:15:32Z,veilfile,0.1.0,,,2035,Reserved placeholder for the official Veilfile package.

@@ -8,28 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 20:18 UTC
+## Latest list — 2026-10-05 21:18 UTC
 
-New packages created between 2026-10-05 19:18 UTC and 2026-10-05 20:18 UTC.
+New packages created between 2026-10-05 20:18 UTC and 2026-10-05 21:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T20-18-58-49142Z.csv)
+[Full CSV](data/new-packages-2026-10-05T21-18-34-974904Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 19:20:41 | [stabilization-uplift](https://pypi.org/project/stabilization-uplift/) | 0.1.2 | zypl.ai | 16.2 kB | Stabilization Score (SS) and Stabilization Uplift (SU) metrics for evaluating m… |
-| 2026-10-05 19:21:26 | [pista-core](https://pypi.org/project/pista-core/) | 0.0.0 | Alberto Scomparin <alberto.sc… | 57.6 kB | PISTA Core — cycling telemetry analysis engine: FIT ingestion, metrics, alignme… |
-| 2026-10-05 19:23:26 | [playbook-scheduler](https://pypi.org/project/playbook-scheduler/) | 0.1.0 | Andreas Dvorak | 82.0 kB | A file-based scheduler and reporter for Ansible playbooks |
-| 2026-10-05 19:23:29 | [kg-memory](https://pypi.org/project/kg-memory/) | 0.12.0 |  | 632.4 kB | Knowledge-graph memory for coding agents: Claude Code, Codex CLI and Antigravit… |
-| 2026-10-05 19:26:20 | [featuregraph-core](https://pypi.org/project/featuregraph-core/) | 0.1.0 | Nazia Habib | 48.7 kB | FeatureGraph Developer Toolkit |
-| 2026-10-05 19:34:44 | [evd-host](https://pypi.org/project/evd-host/) | 0.2.0 |  | 11.6 MB | Computer SDK and CLI for the EVD Android server |
-| 2026-10-05 19:37:14 | [port-allocator](https://pypi.org/project/port-allocator/) | 0.1.0 | Vikas budde | 47.9 kB | Universal cross-product dynamic port allocator and global service registry |
-| 2026-10-05 19:42:23 | [rerato](https://pypi.org/project/rerato/) | 0.0.1 | Rerato Inc <hello@computeruse… | 2.0 kB | Python SDK for Rerato, the license network for AI agents. |
-| 2026-10-05 19:54:38 | [wavenet-coding](https://pypi.org/project/wavenet-coding/) | 0.1.0 | Quan Wang | 125.1 kB | WaveNet Based Low Rate Speech Coding (Parametric & Waveform) |
-| 2026-10-05 20:00:48 | [ophix-docs](https://pypi.org/project/ophix-docs/) | 2026.10.4.1 | Ophix Project | 111.8 kB | Inline markdown documentation plugin for Ophix fleet management servers |
-| 2026-10-05 20:01:30 | [ophix-client-management](https://pypi.org/project/ophix-client-management/) | 2026.10.4.1 | Ophix Project | 45.1 kB | Client management and token rotation policy for Ophix Project servers |
-| 2026-10-05 20:02:35 | [ophix-dbengine-mariadb](https://pypi.org/project/ophix-dbengine-mariadb/) | 2026.10.4.1 | Ophix Project | 8.3 kB | MariaDB/MySQL database driver plugin for Ophix Project Servers |
-| 2026-10-05 20:03:35 | [ophix-dbengine-postgres](https://pypi.org/project/ophix-dbengine-postgres/) | 2026.10.4.1 | Ophix Project | 7.4 kB | PostgreSQL database driver plugin for Ophix Project Servers |
-| 2026-10-05 20:08:21 | [telescraper](https://pypi.org/project/telescraper/) | 0.1.0 | Sheth jenil | 1.3 MB | Pure Synchronous Telegram MTProto Client & Scraping Engine for Python. |
-| 2026-10-05 20:12:16 | [velocityllm](https://pypi.org/project/velocityllm/) | 0.1.0 |  | 231.2 kB | SLA-aware request scheduling for LLM serving, with a mock engine, an API server… |
-| 2026-10-05 20:14:41 | [allfileorg](https://pypi.org/project/allfileorg/) | 1.0.0 | UWASE UTUJE Sandrine <utujesa… | 27.4 kB | Automatic and intelligent file organizer for desktops and directories. |
-| 2026-10-05 20:15:54 | [frostsnip](https://pypi.org/project/frostsnip/) | 0.1.0 | frostSnip | 9.6 kB | Install and launch frostSnip (privacy-first snipping tool) |
+| 2026-10-05 20:22:23 | [openrsxl](https://pypi.org/project/openrsxl/) | 0.1.0 | asheer_mokry | 68.4 MB | Drop-in replacement for openpyxl powered by Rust: same API and results, much fa… |
+| 2026-10-05 20:22:39 | [clinia-context-engine](https://pypi.org/project/clinia-context-engine/) | 0.8.0 |  | 73.9 kB | Python client for the Clinia Context Engine API |
+| 2026-10-05 20:25:34 | [thriftllm](https://pypi.org/project/thriftllm/) | 0.0.0 | Harun Ercul | 34.6 kB | LLM cost routing with correct per-request cost: output-length forecasting, cach… |
+| 2026-10-05 20:26:00 | [skillgild](https://pypi.org/project/skillgild/) | 0.1.0 | SkillGild <support@skillgild.… | 18.6 kB | Official Python client for SkillGild, the marketplace for hosted AI agent skill… |
+| 2026-10-05 20:27:32 | [authv4](https://pypi.org/project/authv4/) | 4.0.2 | Authris | 10.1 kB | Authris license client SDK |
+| 2026-10-05 20:27:39 | [privacyscrubber-mcp](https://pypi.org/project/privacyscrubber-mcp/) | 2.3.2 | Ilya Sibiryakov <ilya@brandme… | 781.2 kB | CISO-Approved Zero-Trust PII & Secrets Redaction MCP Server for Cursor, Windsur… |
+| 2026-10-05 20:29:40 | [g2p-hamster](https://pypi.org/project/g2p-hamster/) | 0.2.0 | g2p-hamster contributors | 9.7 MB | Context-aware Vietnamese/English TTS front-end: text normalization, abbreviatio… |
+| 2026-10-05 20:38:37 | [aiyoplane-openai-agents](https://pypi.org/project/aiyoplane-openai-agents/) | 1.0.0 | "Aiyoplane, Inc." <rashon@aiy… | 26.1 kB | AEAP Composition Boundary Adapter for the OpenAI Agents SDK. Thin wrapper that… |
+| 2026-10-05 20:41:02 | [meidnet](https://pypi.org/project/meidnet/) | 2.2.0 | Anand Babu | 411.6 kB | MEIDNet: multimodal structure-property latent space and constrained inverse des… |
+| 2026-10-05 20:41:37 | [stackos-connectors](https://pypi.org/project/stackos-connectors/) | 0.1.0 |  | 4.6 MB | Named provider connectors with plain data and caller-owned authentication. |
+| 2026-10-05 20:43:25 | [agentic-pricing-core](https://pypi.org/project/agentic-pricing-core/) | 0.0.1 | David Fischer <fischerdm1@out… | 4.1 kB | Line-of-business-agnostic building blocks for agentic insurance pricing. |
+| 2026-10-05 20:43:57 | [agentic-pricing-servers](https://pypi.org/project/agentic-pricing-servers/) | 0.0.1 | David Fischer <fischerdm1@out… | 4.1 kB | Shared server infrastructure for exposing agentic insurance pricing services. |
+| 2026-10-05 20:45:48 | [agentic-pricing](https://pypi.org/project/agentic-pricing/) | 0.0.1 | David Fischer <fischerdm1@out… | 4.3 kB | Shared foundation for agentic AI in insurance pricing. |
+| 2026-10-05 20:50:10 | [gentui](https://pypi.org/project/gentui/) | 0.1.0 | rahrajlat | 74.6 kB | A terminal interface for prototyping agents really quickly, for any AG-UI backe… |
+| 2026-10-05 20:53:03 | [lying-machine](https://pypi.org/project/lying-machine/) | 0.0.1 | Machina Ratiocinatrix <machin… | 48.8 kB | A machine that lies. |
+| 2026-10-05 20:54:45 | [avito-sdk](https://pypi.org/project/avito-sdk/) | 0.1.0 | eminsk <M_N_N@tut.by> | 124.3 kB | High-performance headless Avito scraping & data extraction SDK with price track… |
+| 2026-10-05 20:56:58 | [callo](https://pypi.org/project/callo/) | 0.0.1 | Peculiar Ragdoll | 2.2 kB | Placeholder for the upcoming Callosum release. Not yet functional. |
+| 2026-10-05 21:03:11 | [ecuafact](https://pypi.org/project/ecuafact/) | 1.0.0b1 | Ecuanexus | 34.3 kB | Cliente oficial en Python del API publico de facturacion electronica Ecuafact (… |
+| 2026-10-05 21:05:15 | [tmrsbtlib](https://pypi.org/project/tmrsbtlib/) | 0.0.1 | yarik_g | 3.8 kB | This is the simplest module for quick work with files. |
+| 2026-10-05 21:10:22 | [pulumi-codecapsules](https://pypi.org/project/pulumi-codecapsules/) | 0.1.0 |  | 37.5 kB | A Pulumi provider for Code Capsules platform resources: teams, spaces, and caps… |
+| 2026-10-05 21:13:45 | [cosmicephemeris-client](https://pypi.org/project/cosmicephemeris-client/) | 0.3.0 |  | 149.7 kB | Synchronous Python client for the Cosmic Ephemeris calculation gateway |
+| 2026-10-05 21:15:32 | [veilfile](https://pypi.org/project/veilfile/) | 0.1.0 |  | 2.0 kB | Reserved placeholder for the official Veilfile package. |
