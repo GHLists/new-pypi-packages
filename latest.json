@@ -1,25 +1,12 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-10-05T09:19:53.085039Z",
-    "path": "data/new-packages-2026-10-05T10-18-37-106553Z.csv",
-    "to": "2026-10-05T10:18:37.106553Z"
+    "count": 33,
+    "from": "2026-10-05T10:18:37.106553Z",
+    "path": "data/new-packages-2026-10-05T11-20-43-39332Z.csv",
+    "to": "2026-10-05T11:20:43.39332Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-10-05T06:31:29Z",
-      "package": "fibonacci-tdd-kata-Arenion",
-      "since": "2026-10-05T06:19:04.835215Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-05T06:54:52Z",
-      "package": "semq",
-      "since": "2026-10-05T06:19:04.835215Z"
-    }
-  ],
-  "serial": 41833086,
+  "pending": [],
+  "serial": 41834555,
   "source_truncated": false,
-  "window": "2026-10-05T10:18:37.106553Z"
+  "window": "2026-10-05T11:20:43.39332Z"
 }

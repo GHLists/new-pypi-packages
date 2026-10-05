@@ -8,47 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 10:18 UTC
+## Latest list — 2026-10-05 11:20 UTC
 
-New packages created between 2026-10-05 09:19 UTC and 2026-10-05 10:18 UTC.
+New packages created between 2026-10-05 10:18 UTC and 2026-10-05 11:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T10-18-37-106553Z.csv)
+[Full CSV](data/new-packages-2026-10-05T11-20-43-39332Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 09:20:37 | [otaghak-mcp](https://pypi.org/project/otaghak-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 478.3 kB | Unofficial read-only MCP server for Otaghak: search Iranian villas and cottages… |
-| 2026-10-05 09:20:44 | [jabama-mcp](https://pypi.org/project/jabama-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 522.7 kB | Unofficial read-only MCP server for Jabama: search villas and stays with exact… |
-| 2026-10-05 09:20:48 | [mrbilit-mcp](https://pypi.org/project/mrbilit-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 499.2 kB | Unofficial read-only MCP server for MrBilit: cheapest flights, trains, buses, t… |
-| 2026-10-05 09:21:23 | [pacifica-python-sdk](https://pypi.org/project/pacifica-python-sdk/) | 0.1.0a1 | loinsssss | 84.8 kB | Independent asynchronous Pacifica REST and WebSocket client |
-| 2026-10-05 09:24:31 | [risex-python-sdk](https://pypi.org/project/risex-python-sdk/) | 0.1.0a2 | loinsssss | 104.6 kB | Independent asynchronous Python client for RISEx REST and WebSocket APIs |
-| 2026-10-05 09:25:29 | [mvgeos-core](https://pypi.org/project/mvgeos-core/) | 0.6.6 |  | 61.7 kB | Canonical loop vocabulary for MvgeOS: abort, invocations, spells, events, and t… |
-| 2026-10-05 09:25:31 | [mvgeos-provider](https://pypi.org/project/mvgeos-provider/) | 0.6.6 |  | 51.8 kB | Provider abstraction protocol, model registry, and retry policies (OpenRouter r… |
-| 2026-10-05 09:25:33 | [mvgeos-tome](https://pypi.org/project/mvgeos-tome/) | 0.6.6 |  | 34.3 kB | Session persistence using JSONL storage with file locking and in-memory index |
-| 2026-10-05 09:25:35 | [mvgeos-runes](https://pypi.org/project/mvgeos-runes/) | 0.6.6 |  | 73.2 kB | Extension system: manifest, loader, and sigil hook protocol |
-| 2026-10-05 09:27:49 | [nirnaya](https://pypi.org/project/nirnaya/) | 1.0.0 |  | 74.9 kB | Calibrated typed decisions (choice, yes/no, score) in one non-generative forwar… |
-| 2026-10-05 09:30:38 | [barga](https://pypi.org/project/barga/) | 0.1.0 | Ampixa | 55.6 kB | barga: a system-one decision model for English and Nepali (inference) |
-| 2026-10-05 09:37:33 | [LazyCIM](https://pypi.org/project/LazyCIM/) | 0.1.0 | Louis Pauchet, Hallvar Haugdal | 126.5 kB | LazyCIM is a Python library for querying, navigating, and editing CIM/CGMES mod… |
-| 2026-10-05 09:38:15 | [lmopitacrud](https://pypi.org/project/lmopitacrud/) | 0.1.1 |  | 8.9 kB | A simple CRUD package backed by JSON file storage. |
-| 2026-10-05 09:38:38 | [codex-catalog](https://pypi.org/project/codex-catalog/) | 1.0.0 |  | 42.1 kB | Codex Custom Model Catalog Builder |
-| 2026-10-05 09:40:53 | [jsonplaceholder-crud-theo](https://pypi.org/project/jsonplaceholder-crud-theo/) | 1.0.0 | Theo | 195.8 kB | Package CRUD pour l'API JSONPlaceholder |
-| 2026-10-05 09:42:02 | [aktagon-llmkit](https://pypi.org/project/aktagon-llmkit/) | 3.2.1 | "Aktagon Ltd." <christian@akt… | 245.6 kB | Unified LLM client library for Python — one API, 27 providers (Anthropic, OpenA… |
-| 2026-10-05 09:43:15 | [daisy-cotton-ext](https://pypi.org/project/daisy-cotton-ext/) | 0.1.0 | Samuel Jennings <samuel.scott… | 38.0 kB | Extended components and page blocks for django-cotton and daisyUI, built on dai… |
-| 2026-10-05 09:45:37 | [zihin](https://pypi.org/project/zihin/) | 0.1.0 | Zihin | 18.6 kB | Official Python client for invoking Zihin.ai hosted AI agents (buffered and str… |
-| 2026-10-05 09:47:14 | [correctover-ccs-mcp](https://pypi.org/project/correctover-ccs-mcp/) | 1.0.1 | Correctover <wangguigui@corre… | 119.4 kB | Correctover CCS MCP Server — local-first MCP/Agent security tooling: receipt ve… |
-| 2026-10-05 09:48:44 | [cmp-consent](https://pypi.org/project/cmp-consent/) | 0.1.1 | Pentafox | 56.0 kB | Python SDK for the CMP officer-assisted deferred consent flow (raise requests,… |
-| 2026-10-05 09:48:48 | [VoxCPMTTSlora](https://pypi.org/project/VoxCPMTTSlora/) | 0.1.0 |  | 9.5 kB | Tiny standard-library loader and runner for remote Python profiles |
-| 2026-10-05 09:49:13 | [iorec](https://pypi.org/project/iorec/) | 1.1.0 | Matthieu Perez <matthieu.pere… | 569.8 kB | Load and save .rec mesh files |
-| 2026-10-05 09:51:20 | [package-Tao](https://pypi.org/project/package-Tao/) | 0.1.0 | Tao | 4.3 kB | Package pour la gestion des modèles et opérations CRUD |
-| 2026-10-05 09:53:24 | [jsonplaceholder-clone](https://pypi.org/project/jsonplaceholder-clone/) | 1.0.0 | Tom Doizon <tom.doizon1@gmail… | 13.5 kB | Reconstruction de l'API JSONPlaceholder avec FastAPI |
-| 2026-10-05 09:53:50 | [ThreeDimensionModeller](https://pypi.org/project/ThreeDimensionModeller/) | 1.0.0 | Wilgat Wong <wilgat.wong@gmai… | 133.3 kB | ThreeDimensionModeller builds a glTF model and an HTML viewer from outline imag… |
-| 2026-10-05 09:54:30 | [microsegments](https://pypi.org/project/microsegments/) | 0.1.1 | Gaspard Merten <gaspard.mp.wo… | 1.1 MB | Where do transit vehicles linger? Count vehicle position observations per micro… |
-| 2026-10-05 09:56:18 | [imho](https://pypi.org/project/imho/) | 0.2.0 | "imho.run" <admin@imho.run> | 27.8 kB | Python client for the imho.run API: Steam games like any game, game facts, and… |
-| 2026-10-05 09:57:44 | [homology-operator](https://pypi.org/project/homology-operator/) | 0.0.2 | homology-operator contributors | 328.4 kB | Boundary-native F2 homology operators and finite filtration reference |
-| 2026-10-05 09:59:09 | [nios-apps](https://pypi.org/project/nios-apps/) | 0.1.0 |  | 9.1 kB | Expose localhost at ni-os.ru/apps/<name> (Nios Apps tunnel client) |
-| 2026-10-05 10:02:46 | [promiz](https://pypi.org/project/promiz/) | 0.1.1 | Pentafox | 55.9 kB | Python SDK for the CMP officer-assisted deferred consent flow (raise requests,… |
-| 2026-10-05 10:06:14 | [inferlab-gateway-dynamo](https://pypi.org/project/inferlab-gateway-dynamo/) | 0.1.0 |  | 7.3 kB | Inferlab Dynamo frontend and discovery lowering shared by the integrations that… |
-| 2026-10-05 10:08:30 | [dialcontrol](https://pypi.org/project/dialcontrol/) | 0.1.0 | Bora Baran | 55.5 kB | Target-Aware DIAL control synthesis for dispersive multi-qubit interactions |
-| 2026-10-05 10:09:47 | [hikvision-downloader](https://pypi.org/project/hikvision-downloader/) | 0.1.0 | Sudhakar Balakrishnan | 144.4 kB | App to download video files from hikvision CCTV NVR |
-| 2026-10-05 10:10:22 | [ritualsgenie](https://pypi.org/project/ritualsgenie/) | 0.1.0 | Franck Nijhof | 60.9 kB | Asynchronous Python client for the Rituals Perfume Genie API. |
-| 2026-10-05 10:14:19 | [aolbeam-ask](https://pypi.org/project/aolbeam-ask/) | 0.1.0 | Karan Sinha <nomore.report@gm… | 39.8 kB | A lightweight, stateless terminal AI CLI that knows when to search the web. Com… |
-| 2026-10-05 10:14:49 | [store-resource-bootstrap-py](https://pypi.org/project/store-resource-bootstrap-py/) | 0.1.0 |  | 18.2 kB | Optional resource bootstrap plugin for common-store: registers the three resour… |
+| 2026-10-05 10:19:54 | [ai-followup-detector](https://pypi.org/project/ai-followup-detector/) | 0.1.0 | Shripad Vaidya | 5.9 kB | Detect and rewrite follow-up queries for AI applications |
+| 2026-10-05 10:26:26 | [postmo](https://pypi.org/project/postmo/) | 1.0.0 | Ryan Wesley Hitchcock | 52.9 kB | Hold a messy multi-person situation without resolving it: five audit discipline… |
+| 2026-10-05 10:26:33 | [frontface-metacog](https://pypi.org/project/frontface-metacog/) | 1.0.0 | Ryan Wesley Hitchcock | 42.1 kB | Five-step reasoning pressure test: trigger thresholds, steelman countermodel, l… |
+| 2026-10-05 10:26:44 | [fairit](https://pypi.org/project/fairit/) | 1.0.0 | Ryan Wesley Hitchcock | 45.8 kB | Ground mapping and evasion-hypothesis testing: hold the state, test the languag… |
+| 2026-10-05 10:27:23 | [capguru](https://pypi.org/project/capguru/) | 0.4.0 | Cap.Guru | 84.9 kB | Automatic captcha solving for Playwright via the Cap.Guru service: reCAPTCHA v2… |
+| 2026-10-05 10:28:08 | [gpt-researcher-webz](https://pypi.org/project/gpt-researcher-webz/) | 0.1.0 | "Webz.io" <support@webz.io> | 13.6 kB | GPT Researcher retriever plugin for Webz.io News Search |
+| 2026-10-05 10:28:11 | [lfx-webz](https://pypi.org/project/lfx-webz/) | 0.1.0 | "Webz.io" <support@webz.io> | 21.8 kB | Webz.io News Search component for Langflow. |
+| 2026-10-05 10:29:42 | [timbro-protocol](https://pypi.org/project/timbro-protocol/) | 0.10.0 | Timbro contributors | 58.6 kB | Shared runtime of the Timbro Python SDKs: transport, errors, retries, paginatio… |
+| 2026-10-05 10:29:49 | [timbro-payments](https://pypi.org/project/timbro-payments/) | 0.10.0 | Timbro contributors | 112.1 kB | Python SDK for Timbro Payments: payments, refunds, merchant accounts, webhook e… |
+| 2026-10-05 10:32:36 | [quickpass-rahul](https://pypi.org/project/quickpass-rahul/) | 0.1.1 | Rahul Neogi | 5.6 kB | Generate strong passwords in one line - internal POC |
+| 2026-10-05 10:32:38 | [twin3-sdk](https://pypi.org/project/twin3-sdk/) | 0.2.10a0 | Twin3 AI Limited <core@twin3.… | 444.1 kB | The Universal Capability Motherboard for Autonomous AI Agents and Self-Sovereig… |
+| 2026-10-05 10:43:32 | [acronym-finder](https://pypi.org/project/acronym-finder/) | 0.1.0 |  | 30.9 kB | Generate pronounceable acronyms from a sequence of words. |
+| 2026-10-05 10:46:27 | [lupaxa-magic-8ball](https://pypi.org/project/lupaxa-magic-8ball/) | 0.1.0 | The Lupaxa Project | 13.6 kB | Classic Magic 8-Ball library and slim CLI. |
+| 2026-10-05 10:46:39 | [alayout-cli](https://pypi.org/project/alayout-cli/) | 0.1.0 | Vasil Khodzin | 119.7 kB | Inspect Android app layouts (Views and Compose) from the terminal |
+| 2026-10-05 10:49:05 | [webz-haystack](https://pypi.org/project/webz-haystack/) | 0.1.0 | "Webz.io" <support@webz.io> | 15.9 kB | Haystack component for Webz.io News Search |
+| 2026-10-05 10:51:08 | [repo-surgeon](https://pypi.org/project/repo-surgeon/) | 1.0.0 | Antigravity Swarm | 29.7 kB | Autonomous Code Operating Theater & Self-Healing Swarm |
+| 2026-10-05 10:51:09 | [quickpass-rahul-neogi](https://pypi.org/project/quickpass-rahul-neogi/) | 0.1.1 | Rahul Neogi | 5.7 kB | Generate strong passwords in one line - internal POC |
+| 2026-10-05 10:51:24 | [pamir](https://pypi.org/project/pamir/) | 0.4.0 | zypl.ai | 539.1 kB | PaMIR: Public Arrival-ordered Measurement for Inference in Risk — an open bench… |
+| 2026-10-05 10:53:58 | [onefile-patterns](https://pypi.org/project/onefile-patterns/) | 0.1.0 |  | 7.3 kB | Reusable path pattern matching utilities |
+| 2026-10-05 10:55:25 | [eventbookings](https://pypi.org/project/eventbookings/) | 0.0.1 | WebAlive | 3.4 kB | Python SDK for the EventBookings REST API. |
+| 2026-10-05 10:55:28 | [umerang](https://pypi.org/project/umerang/) | 0.0.1 | WebAlive | 3.2 kB | Python SDK for the Umerang REST API. |
+| 2026-10-05 10:55:55 | [tausurv](https://pypi.org/project/tausurv/) | 0.1.0 | Anna Malewski <anna.malewski@… | 8.4 MB | A complete survival analysis library for Python: nonparametric estimators, regr… |
+| 2026-10-05 11:03:46 | [fcaisemone](https://pypi.org/project/fcaisemone/) | 0.1.1 |  | 28.4 kB | Print complete Python code for nine FCAI semester-one practicals. |
+| 2026-10-05 11:05:03 | [helm-xai](https://pypi.org/project/helm-xai/) | 0.2.0rc3 | Kossi Folly <follyametepkossi… | 488.8 kB | HELM : explications adaptées au profil pour la modération de contenus, avec int… |
+| 2026-10-05 11:05:06 | [superset-cli](https://pypi.org/project/superset-cli/) | 0.1.0 |  | 191.5 kB | CLI for self-hosted Apache Superset |
+| 2026-10-05 11:07:42 | [hasdata-google-flights-deals-mcp](https://pypi.org/project/hasdata-google-flights-deals-mcp/) | 1.0.0 |  | 22.6 kB | MCP server for Google Flights Deals through HasData's hosted API. No Google acc… |
+| 2026-10-05 11:07:43 | [hasdata-chatgpt-mcp](https://pypi.org/project/hasdata-chatgpt-mcp/) | 1.0.0 |  | 20.2 kB | MCP server for the ChatGPT Scraper API through HasData's hosted API. No OpenAI… |
+| 2026-10-05 11:12:06 | [homeassistant-repl](https://pypi.org/project/homeassistant-repl/) | 0.2.0 |  | 42.9 kB | Home Assistant REPL - the powerful developer shell for custom component develop… |
+| 2026-10-05 11:13:15 | [Deckoction-md](https://pypi.org/project/Deckoction-md/) | 0.2.0 | Julian Holland <holland@fhi.m… | 3.5 MB | Markdown + YAML frontmatter to static HTML slide deck generator |
+| 2026-10-05 11:13:27 | [samco-job-lifecycle](https://pypi.org/project/samco-job-lifecycle/) | 0.1.0 | samcoai | 7.8 kB | A small, dependency-free state machine for tracking job lifecycles |
+| 2026-10-05 11:13:40 | [imsanghaar-word-mcp](https://pypi.org/project/imsanghaar-word-mcp/) | 1.1.11 | imamsanghaarc <imamsanghaarc@… | 157.9 kB | MCP server for manipulating Microsoft Word documents |
+| 2026-10-05 11:16:30 | [log-ui](https://pypi.org/project/log-ui/) | 0.3.1 | Aaditya Salgarkar | 2.1 MB | Self-hosted, wandb-style dashboard for trackio experiment stores |
+| 2026-10-05 11:18:05 | [agent-reels-viewer](https://pypi.org/project/agent-reels-viewer/) | 0.1.0 | waniyaro | 71.7 kB | Lightweight multimodal agent skill to inspect and understand Instagram Reels, T… |
