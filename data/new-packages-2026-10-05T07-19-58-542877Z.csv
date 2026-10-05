@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T06:20:53Z,drawio-structurizr,0.2.0,Amit Kumar,MIT,85293,Validate C4 draw.io diagrams and convert them to Structurizr DSL and Excel.
+2026-10-05T06:24:26Z,account-kit,0.1.0,kqstone,MIT,60952,Shared async account service for FastAPI apps
+2026-10-05T06:26:05Z,burpeditor,0.1.0,Natan Rodrigues,,75273,
+2026-10-05T06:26:43Z,ppol,0.1.1,Harshita Chopra <hchopra3@cs.washington.edu>,MIT,182870,"Persona Policies: evolve diverse, human-like persona overlays for evaluating dialogue agents."
+2026-10-05T06:26:49Z,payhere-sim,0.1.0,Shalom Hunukumbura,MIT,228769,"Test PayHere (Sri Lanka) integrations locally: signed notifications, safety checks for your notify_url, and a local checkout page."
+2026-10-05T06:27:48Z,volcenginesdk-tidb,0.0.1,volc-engine,Apache License 2.0,982,Name reservation for the Volcengine Python SDK split package volcenginesdk-tidb
+2026-10-05T06:27:54Z,volcenginesdk-tis,0.0.1,volc-engine,Apache License 2.0,973,Name reservation for the Volcengine Python SDK split package volcenginesdk-tis
+2026-10-05T06:28:01Z,volcenginesdk-transitrouter,0.0.1,volc-engine,Apache License 2.0,1047,Name reservation for the Volcengine Python SDK split package volcenginesdk-transitrouter
+2026-10-05T06:28:07Z,volcenginesdk-translate20250301,0.0.1,volc-engine,Apache License 2.0,1080,Name reservation for the Volcengine Python SDK split package volcenginesdk-translate20250301
+2026-10-05T06:28:34Z,andyur,0.1.0,,Apache-2.0 AND OFL-1.1,2490517,"A minimal, self-hostable platform for running AI agents you do not fully trust."
+2026-10-05T06:33:34Z,gibbus,0.1.0,Daniel Salib,MIT,76130788,Flexible maximum-likelihood modeling of smooth univariate log-concave distributions
+2026-10-05T06:34:18Z,clishe,0.5.1,Sym-jay,MIT,168013,"Plain English to shell commands for Linux beginners: offline-first, learn as you go, optional local AI"
+2026-10-05T06:35:08Z,jizai,1.0.0a1,Masashi Mizuno,MIT AND CECILL-C,6187329,Fast and memory-efficient radial basis function (RBF) interpolation
+2026-10-05T06:36:27Z,dyadic,1.0.0,Dyadic,MIT,20851,"The official Python SDK for the Dyadic API (Iris, OpenAI-compatible)."
+2026-10-05T06:37:40Z,pagemark,0.1.1,Utsha Saha,MIT,45309,Local-first PDF-to-Markdown converter using vision-language models
+2026-10-05T06:37:53Z,typesafe-haystack,0.1.0,deepset GmbH <info@deepset.ai>,Apache-2.0,32607,Haystack integration for TypeSafe System One decision models
+2026-10-05T06:38:35Z,mppi-protocol,0.1.0,,Apache-2.0,170790,Shared MPPI wire bindings and exact payment primitives
+2026-10-05T06:39:30Z,mppi-agent,0.1.0,,Apache-2.0,122367,MPPI agent SDK: typed payment interfaces and exact primitives
+2026-10-05T06:40:09Z,mppi-provider,0.1.0,,Apache-2.0,106935,MPPI provider SDK: typed payment interfaces and exact primitives
+2026-10-05T06:41:22Z,harness-distill,0.1.1,Alex Punnen,MIT,47901,"Distill your coding-agent sessions from every harness (Claude Code, Codex, pi, Cursor, Copilot, Antigravity) into AGENTS.md + HANDOFF.md."
+2026-10-05T06:43:39Z,minimal-zoom-fft,0.1.0,Jonathan Dong <jonathan.dong@epfl.ch>,MIT,31985,"Zoomed FFT and chirp Z-transform in PyTorch: the spectrum on any band, at any sampling."
+2026-10-05T06:44:18Z,minimal-linop,0.1.0,Jonathan Dong <jonathan.dong@epfl.ch>,MIT,63119,"Linear operators with exact adjoints in PyTorch, composable with @, +, * and .H."
+2026-10-05T06:44:57Z,goway,0.1.0,lognd,MIT,21717673,"Run a command on the least-loaded machine of a pool, natively, from the current git work tree."
+2026-10-05T06:44:59Z,codex-can-see,0.1.0,,MIT,127256,"Local-first, frame-backed video analysis with verifiable evidence"
+2026-10-05T06:45:59Z,meltify,0.1.0,jeon-jihyeon,MIT,102630,Melt files of any format into prompt-ready text where every line cites its source
+2026-10-05T06:48:41Z,django-observatory,0.1.0,Azeem Qidwai,MIT,348829,"Django-native, offline-first observability: logs, requests, traces, SQL, exceptions, metrics, server resources, security/audit events, alerts and incident correlation in a built-in UI, with no separa…"
+2026-10-05T06:51:10Z,dansk-register-platform-hotfix,0.26.0,Tobias Kragholm <tkragholm@gmail.com>,MIT,8736376,"Danish register analysis platform (dansk_register) and the study pipelines built on it: parental income, societal costs, and educational and labour-market trajectories"
+2026-10-05T06:51:49Z,rvc-next,0.1.0,,GPL-3.0-only,2033653,"Retrieval-based voice conversion: convert, live, separate and train, from one web UI and one command line"
+2026-10-05T06:55:15Z,octocrawl-client,0.3.0,,MIT,17468,"Python client for the Octocrawl API: web pages as Markdown, tables and JSON, each with its Evidence Record, into pandas."
+2026-10-05T06:56:07Z,kara-templater,0.1.0,,MIT,26885904,Python karaoke template engine with native libass text metrics
+2026-10-05T07:02:53Z,crud-ys,0.1.0,Younes,,7374,Operations CRUD sur des posts stockes en JSON.
+2026-10-05T07:04:35Z,victorycode-sdk,1.0.0,Victory Code,MIT,295417,Victory Code Client API
+2026-10-05T07:08:58Z,manifest-ai,1.1.0,Shukdev Datta <shukdevdatta@gmail.com>,MIT,83289,"Installer for Manifest, a Chrome extension with AI code suggestions in GitHub's web editor."
+2026-10-05T07:19:32Z,ai-character-engine,1.0.0,,Apache-2.0,809177,A modular open-source engine for building stateful LLM-powered characters.
+2026-10-05T07:19:53Z,ai-character-engine-vrm,1.0.0,,Apache-2.0,36225,Optional VRM renderer adapter for ai-character-engine.

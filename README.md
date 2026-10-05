@@ -8,46 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 06:19 UTC
+## Latest list — 2026-10-05 07:19 UTC
 
-New packages created between 2026-10-05 05:20 UTC and 2026-10-05 06:19 UTC.
+New packages created between 2026-10-05 06:19 UTC and 2026-10-05 07:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T06-19-04-835215Z.csv)
+[Full CSV](data/new-packages-2026-10-05T07-19-58-542877Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 05:22:45 | [versine](https://pypi.org/project/versine/) | 0.1.0 |  | 111.7 kB | Versine SDK for AI agents: sign assertions, verify users, request handshake cod… |
-| 2026-10-05 05:33:05 | [pihanga-remote](https://pypi.org/project/pihanga-remote/) | 0.1.0 | Max Ott | 1.1 MB | Drive a Pihanga card UI (prebuilt generic bundle) from Python via JSON-Patch ov… |
-| 2026-10-05 05:35:45 | [hostile-facilitator](https://pypi.org/project/hostile-facilitator/) | 0.2.1 | AurumFlux AI, Inc | 90.5 kB | Retry-safety conformance battery for x402 payment clients — point your client a… |
-| 2026-10-05 05:40:48 | [sorb-mcp](https://pypi.org/project/sorb-mcp/) | 0.1.1 |  | 84.0 kB | Sorb task tools for external MCP agents |
-| 2026-10-05 05:42:08 | [pyopenjtalk-ndy](https://pypi.org/project/pyopenjtalk-ndy/) | 0.4.2.post5 | Ryuichi Yamamoto <zryuichi@gm… | 65.9 MB | A python wrapper for OpenJTalk |
-| 2026-10-05 05:42:40 | [sonic-logger](https://pypi.org/project/sonic-logger/) | 0.0.1b0 | Aniruddh Gupta <aniruddh16168… | 261.0 kB | Lightweight, fast, clear structured logging for Python — FastAPI / Django / Fla… |
-| 2026-10-05 05:44:12 | [parsefabric](https://pypi.org/project/parsefabric/) | 0.1.0 | S MUNI HARISH <samamuniharish… | 1.0 MB | Composable parsers that turn logs, JSON, command output and mixed text into str… |
-| 2026-10-05 05:45:15 | [geosciml4china](https://pypi.org/project/geosciml4china/) | 0.1.0 | geosciml4china contributors | 2.5 MB | MapGIS → GeoSciML 4.1 conversion, DZ/T 0179-2025 semantic styling, rendering an… |
-| 2026-10-05 05:48:31 | [open-prompt-format](https://pypi.org/project/open-prompt-format/) | 0.2.0 |  | 97.7 kB | Load and render Open Prompt Format files |
-| 2026-10-05 05:49:13 | [adversary-gate-mcp](https://pypi.org/project/adversary-gate-mcp/) | 2.9.0 | AdversaryGate Authors <sanflo… | 4.4 kB | AdversaryGate as an MCP server: a fail-closed merge gate an agent calls before… |
-| 2026-10-05 05:52:02 | [cicheck](https://pypi.org/project/cicheck/) | 0.1.0 | Baran Ayaztas | 24.1 kB | Security linter for non-GitHub CI pipelines: GitLab CI, CircleCI, Azure Pipelin… |
-| 2026-10-05 05:52:03 | [sshield](https://pypi.org/project/sshield/) | 0.1.0 | Baran Ayaztas | 17.7 kB | Audit SSH server and client configuration files for weak settings. |
-| 2026-10-05 05:52:27 | [nyxa-cloudflare](https://pypi.org/project/nyxa-cloudflare/) | 0.1.1b0 | Al-Amin Islam Nerob <alamin@a… | 11.5 kB | Cloudflare Workers deployment adapter for the Nyxa framework |
-| 2026-10-05 05:52:29 | [nyxa-server](https://pypi.org/project/nyxa-server/) | 0.1.1b0 | Al-Amin Islam Nerob <alamin@a… | 1.2 MB | Native HTTP/1.1 and WebSocket server for the Nyxa framework (install via nyxa[s… |
-| 2026-10-05 05:52:41 | [synthpop-test-py](https://pypi.org/project/synthpop-test-py/) | 0.0.0 | Synthpop Inc | 1.8 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-05 05:52:43 | [synthpop-tools-common-py](https://pypi.org/project/synthpop-tools-common-py/) | 0.0.0 | Synthpop Inc | 1.6 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-05 05:52:45 | [synthpop-tools-py](https://pypi.org/project/synthpop-tools-py/) | 0.0.0 | Synthpop Inc | 1.8 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-05 05:52:47 | [synthpop-usage](https://pypi.org/project/synthpop-usage/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-05 05:53:11 | [lk-tax-mcp](https://pypi.org/project/lk-tax-mcp/) | 0.1.0 | Shalom Hunukumbura | 86.8 kB | MCP server that gives AI assistants exact, sourced Sri Lankan tax calculations… |
-| 2026-10-05 05:53:17 | [depsweep](https://pypi.org/project/depsweep/) | 0.1.0 | Baran Ayaztas | 19.0 kB | Find supply-chain risks in npm and pip dependency files: install hooks, non-reg… |
-| 2026-10-05 05:55:53 | [eosh](https://pypi.org/project/eosh/) | 0.2.0 | craftware | 735.8 kB | A lightweight but powerful terminal shell with rich TAB completion and context… |
-| 2026-10-05 05:56:58 | [nyxa-speedups](https://pypi.org/project/nyxa-speedups/) | 0.1.1b0 | Al-Amin Islam Nerob <alamin@a… | 1.1 MB | Optional native accelerators for the Nyxa framework (install via nyxa[speed]) |
-| 2026-10-05 06:03:24 | [getyoutubetranscript-haystack](https://pypi.org/project/getyoutubetranscript-haystack/) | 0.1.0 | tubeagentkit | 11.2 kB | YouTube transcript fetcher for Haystack pipelines and agents: get YouTube video… |
-| 2026-10-05 06:03:32 | [llama-index-readers-getyoutubetranscript](https://pypi.org/project/llama-index-readers-getyoutubetranscript/) | 0.1.0 | tubeagentkit | 10.2 kB | YouTube transcript reader for LlamaIndex: load YouTube video transcripts (optio… |
-| 2026-10-05 06:09:52 | [arris](https://pypi.org/project/arris/) | 0.5.0 |  | 4.5 MB | A B-Rep geometric kernel: analytic and NURBS geometry, booleans with provenance… |
-| 2026-10-05 06:17:05 | [geniffy](https://pypi.org/project/geniffy/) | 0.1.0 | Geniffy <ops@geniffy.com> | 29.9 kB | Geniffy for Python: add notes, files and links to a memory, then search it and… |
-| 2026-10-05 06:17:59 | [deepak-chopra-meditation](https://pypi.org/project/deepak-chopra-meditation/) | 2.0.0 | Wellness Enterprises Inc | 4.8 kB | Deepak Chopra meditation guide - NEW MAINTAINER |
-| 2026-10-05 06:18:00 | [dc-meditate](https://pypi.org/project/dc-meditate/) | 1.0.0 | DC | 4.0 kB | Meditation tools |
-| 2026-10-05 06:18:01 | [dc-wellness-sdk](https://pypi.org/project/dc-wellness-sdk/) | 1.0.0 | DC | 4.1 kB | Wellness SDK by DC |
-| 2026-10-05 06:18:03 | [dc-multi](https://pypi.org/project/dc-multi/) | 1.0.1 | DC | 4.0 kB | DC multi release v2 |
-| 2026-10-05 06:18:13 | [acwr](https://pypi.org/project/acwr/) | 0.1.0 | Aditya Garg <gargaditya061@gm… | 524.1 kB | Acute:chronic workload ratios in Python, with the diagnostics to test whether t… |
-| 2026-10-05 06:18:46 | [gosce-minio-and-redis-storage-stack](https://pypi.org/project/gosce-minio-and-redis-storage-stack/) | 0.1.0 | Rawson Consulting B.V. | 5.8 kB | Generate a production-ready docker-compose.yml for a multi-service infrastructu… |
-| 2026-10-05 06:18:51 | [ownexit](https://pypi.org/project/ownexit/) | 0.3.0 |  | 256.1 kB | Turn a VPS you rent into your own fixed exit IP: direct or via a relay, set up… |
-| 2026-10-05 06:18:53 | [gosce-oauth-langchain-openai-agent](https://pypi.org/project/gosce-oauth-langchain-openai-agent/) | 0.1.0 | Rawson Consulting B.V. | 5.4 kB | Google-OAuth-gated LLM gateway: verify a Google ID token, then run a Gemini (Ve… |
-| 2026-10-05 06:19:00 | [gosce-encrypted-oauth-llm-agent](https://pypi.org/project/gosce-encrypted-oauth-llm-agent/) | 0.1.0 | Rawson Consulting B.V. | 5.3 kB | Google-OAuth-gated LLM gateway: verify a Google ID token, then run a Gemini (Ve… |
+| 2026-10-05 06:20:53 | [drawio-structurizr](https://pypi.org/project/drawio-structurizr/) | 0.2.0 | Amit Kumar | 85.3 kB | Validate C4 draw.io diagrams and convert them to Structurizr DSL and Excel. |
+| 2026-10-05 06:24:26 | [account-kit](https://pypi.org/project/account-kit/) | 0.1.0 | kqstone | 61.0 kB | Shared async account service for FastAPI apps |
+| 2026-10-05 06:26:05 | [burpeditor](https://pypi.org/project/burpeditor/) | 0.1.0 | Natan Rodrigues | 75.3 kB |  |
+| 2026-10-05 06:26:43 | [ppol](https://pypi.org/project/ppol/) | 0.1.1 | Harshita Chopra <hchopra3@cs.… | 182.9 kB | Persona Policies: evolve diverse, human-like persona overlays for evaluating di… |
+| 2026-10-05 06:26:49 | [payhere-sim](https://pypi.org/project/payhere-sim/) | 0.1.0 | Shalom Hunukumbura | 228.8 kB | Test PayHere (Sri Lanka) integrations locally: signed notifications, safety che… |
+| 2026-10-05 06:27:48 | [volcenginesdk-tidb](https://pypi.org/project/volcenginesdk-tidb/) | 0.0.1 | volc-engine | 982 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-tidb |
+| 2026-10-05 06:27:54 | [volcenginesdk-tis](https://pypi.org/project/volcenginesdk-tis/) | 0.0.1 | volc-engine | 973 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-tis |
+| 2026-10-05 06:28:01 | [volcenginesdk-transitrouter](https://pypi.org/project/volcenginesdk-transitrouter/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-tran… |
+| 2026-10-05 06:28:07 | [volcenginesdk-translate20250301](https://pypi.org/project/volcenginesdk-translate20250301/) | 0.0.1 | volc-engine | 1.1 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-tran… |
+| 2026-10-05 06:28:34 | [andyur](https://pypi.org/project/andyur/) | 0.1.0 |  | 2.5 MB | A minimal, self-hostable platform for running AI agents you do not fully trust. |
+| 2026-10-05 06:33:34 | [gibbus](https://pypi.org/project/gibbus/) | 0.1.0 | Daniel Salib | 76.1 MB | Flexible maximum-likelihood modeling of smooth univariate log-concave distribut… |
+| 2026-10-05 06:34:18 | [clishe](https://pypi.org/project/clishe/) | 0.5.1 | Sym-jay | 168.0 kB | Plain English to shell commands for Linux beginners: offline-first, learn as yo… |
+| 2026-10-05 06:35:08 | [jizai](https://pypi.org/project/jizai/) | 1.0.0a1 | Masashi Mizuno | 6.2 MB | Fast and memory-efficient radial basis function (RBF) interpolation |
+| 2026-10-05 06:36:27 | [dyadic](https://pypi.org/project/dyadic/) | 1.0.0 | Dyadic | 20.9 kB | The official Python SDK for the Dyadic API (Iris, OpenAI-compatible). |
+| 2026-10-05 06:37:40 | [pagemark](https://pypi.org/project/pagemark/) | 0.1.1 | Utsha Saha | 45.3 kB | Local-first PDF-to-Markdown converter using vision-language models |
+| 2026-10-05 06:37:53 | [typesafe-haystack](https://pypi.org/project/typesafe-haystack/) | 0.1.0 | deepset GmbH <info@deepset.ai> | 32.6 kB | Haystack integration for TypeSafe System One decision models |
+| 2026-10-05 06:38:35 | [mppi-protocol](https://pypi.org/project/mppi-protocol/) | 0.1.0 |  | 170.8 kB | Shared MPPI wire bindings and exact payment primitives |
+| 2026-10-05 06:39:30 | [mppi-agent](https://pypi.org/project/mppi-agent/) | 0.1.0 |  | 122.4 kB | MPPI agent SDK: typed payment interfaces and exact primitives |
+| 2026-10-05 06:40:09 | [mppi-provider](https://pypi.org/project/mppi-provider/) | 0.1.0 |  | 106.9 kB | MPPI provider SDK: typed payment interfaces and exact primitives |
+| 2026-10-05 06:41:22 | [harness-distill](https://pypi.org/project/harness-distill/) | 0.1.1 | Alex Punnen | 47.9 kB | Distill your coding-agent sessions from every harness (Claude Code, Codex, pi,… |
+| 2026-10-05 06:43:39 | [minimal-zoom-fft](https://pypi.org/project/minimal-zoom-fft/) | 0.1.0 | Jonathan Dong <jonathan.dong@… | 32.0 kB | Zoomed FFT and chirp Z-transform in PyTorch: the spectrum on any band, at any s… |
+| 2026-10-05 06:44:18 | [minimal-linop](https://pypi.org/project/minimal-linop/) | 0.1.0 | Jonathan Dong <jonathan.dong@… | 63.1 kB | Linear operators with exact adjoints in PyTorch, composable with @, +, * and .H. |
+| 2026-10-05 06:44:57 | [goway](https://pypi.org/project/goway/) | 0.1.0 | lognd | 21.7 MB | Run a command on the least-loaded machine of a pool, natively, from the current… |
+| 2026-10-05 06:44:59 | [codex-can-see](https://pypi.org/project/codex-can-see/) | 0.1.0 |  | 127.3 kB | Local-first, frame-backed video analysis with verifiable evidence |
+| 2026-10-05 06:45:59 | [meltify](https://pypi.org/project/meltify/) | 0.1.0 | jeon-jihyeon | 102.6 kB | Melt files of any format into prompt-ready text where every line cites its sour… |
+| 2026-10-05 06:48:41 | [django-observatory](https://pypi.org/project/django-observatory/) | 0.1.0 | Azeem Qidwai | 348.8 kB | Django-native, offline-first observability: logs, requests, traces, SQL, except… |
+| 2026-10-05 06:51:10 | [dansk-register-platform-hotfix](https://pypi.org/project/dansk-register-platform-hotfix/) | 0.26.0 | Tobias Kragholm <tkragholm@gm… | 8.7 MB | Danish register analysis platform (dansk_register) and the study pipelines buil… |
+| 2026-10-05 06:51:49 | [rvc-next](https://pypi.org/project/rvc-next/) | 0.1.0 |  | 2.0 MB | Retrieval-based voice conversion: convert, live, separate and train, from one w… |
+| 2026-10-05 06:55:15 | [octocrawl-client](https://pypi.org/project/octocrawl-client/) | 0.3.0 |  | 17.5 kB | Python client for the Octocrawl API: web pages as Markdown, tables and JSON, ea… |
+| 2026-10-05 06:56:07 | [kara-templater](https://pypi.org/project/kara-templater/) | 0.1.0 |  | 26.9 MB | Python karaoke template engine with native libass text metrics |
+| 2026-10-05 07:02:53 | [crud-ys](https://pypi.org/project/crud-ys/) | 0.1.0 | Younes | 7.4 kB | Operations CRUD sur des posts stockes en JSON. |
+| 2026-10-05 07:04:35 | [victorycode-sdk](https://pypi.org/project/victorycode-sdk/) | 1.0.0 | Victory Code | 295.4 kB | Victory Code Client API |
+| 2026-10-05 07:08:58 | [manifest-ai](https://pypi.org/project/manifest-ai/) | 1.1.0 | Shukdev Datta <shukdevdatta@g… | 83.3 kB | Installer for Manifest, a Chrome extension with AI code suggestions in GitHub's… |
+| 2026-10-05 07:19:32 | [ai-character-engine](https://pypi.org/project/ai-character-engine/) | 1.0.0 |  | 809.2 kB | A modular open-source engine for building stateful LLM-powered characters. |
+| 2026-10-05 07:19:53 | [ai-character-engine-vrm](https://pypi.org/project/ai-character-engine-vrm/) | 1.0.0 |  | 36.2 kB | Optional VRM renderer adapter for ai-character-engine. |

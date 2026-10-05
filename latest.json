@@ -1,19 +1,31 @@
 {
   "list": {
     "count": 35,
-    "from": "2026-10-05T05:20:29.7637Z",
-    "path": "data/new-packages-2026-10-05T06-19-04-835215Z.csv",
-    "to": "2026-10-05T06:19:04.835215Z"
+    "from": "2026-10-05T06:19:04.835215Z",
+    "path": "data/new-packages-2026-10-05T07-19-58-542877Z.csv",
+    "to": "2026-10-05T07:19:58.542877Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-05T03:11:44Z",
-      "package": "onhand-mcp",
-      "since": "2026-10-05T02:18:38.178706Z"
+      "attempts": 1,
+      "created_at": "2026-10-05T07:11:39Z",
+      "package": "django-facturation-fr",
+      "since": "2026-10-05T06:19:04.835215Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-05T06:31:29Z",
+      "package": "fibonacci-tdd-kata-Arenion",
+      "since": "2026-10-05T06:19:04.835215Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-05T06:54:52Z",
+      "package": "semq",
+      "since": "2026-10-05T06:19:04.835215Z"
     }
   ],
-  "serial": 41825828,
+  "serial": 41827332,
   "source_truncated": false,
-  "window": "2026-10-05T06:19:04.835215Z"
+  "window": "2026-10-05T07:19:58.542877Z"
 }
