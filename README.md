@@ -8,40 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 18:19 UTC
+## Latest list — 2026-10-05 19:18 UTC
 
-New packages created between 2026-10-05 17:18 UTC and 2026-10-05 18:19 UTC.
+New packages created between 2026-10-05 18:19 UTC and 2026-10-05 19:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T18-19-05-577822Z.csv)
+[Full CSV](data/new-packages-2026-10-05T19-18-32-985935Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 17:19:32 | [cogvault](https://pypi.org/project/cogvault/) | 0.11.2 | Nick Bibikov | 122.1 kB | Fleet-grade local memory for AI agents over plain Markdown — hybrid search, mul… |
-| 2026-10-05 17:20:20 | [tripwire-litellm](https://pypi.org/project/tripwire-litellm/) | 0.1.0 |  | 13.8 kB | Tripwire hard-stop and ingest callback for a customer's LiteLLM proxy |
-| 2026-10-05 17:20:54 | [wftnp](https://pypi.org/project/wftnp/) | 0.1.2 | Ben Johnson | 84.1 kB | Typed asynchronous client for WFTNP (Wahoo Direct Connect). |
-| 2026-10-05 17:23:14 | [jupyter-islide](https://pypi.org/project/jupyter-islide/) | 0.6.10 | rvalieris | 58.5 kB | Interactive whole-slide pathology image viewer for Jupyter, backed by OpenSlide |
-| 2026-10-05 17:29:12 | [envdirx](https://pypi.org/project/envdirx/) | 0.1.0 | tumf | 31.8 kB | Store DJB envdir entries as plaintext or encrypted files with an external priva… |
-| 2026-10-05 17:32:29 | [hinglish-caller-bench](https://pypi.org/project/hinglish-caller-bench/) | 0.1.0 | Payal <youcancallmepayal@gmai… | 335.8 kB | Stress-test AI customer-service agents with simulated Hinglish, Hindi and Engli… |
-| 2026-10-05 17:32:38 | [mock-acme](https://pypi.org/project/mock-acme/) | 0.1.0 |  | 133.6 kB | The integration between the mocks: the middleware that mock-sap, mock-edi and m… |
-| 2026-10-05 17:33:31 | [aivcs](https://pypi.org/project/aivcs/) | 0.1.0 |  | 75.4 kB | A small, educational AI-native version control core |
-| 2026-10-05 17:36:55 | [plotly-upset](https://pypi.org/project/plotly-upset/) | 0.1.0 | Depictio Contributors | 51.7 kB | UpSet plot visualizations with Plotly — interactive set intersection plots with… |
-| 2026-10-05 17:37:07 | [plotly-complexheatmap](https://pypi.org/project/plotly-complexheatmap/) | 0.1.0 | Depictio Contributors | 781.8 kB | ComplexHeatmap-style visualizations with Plotly — clustered heatmaps with dendr… |
-| 2026-10-05 17:37:28 | [depictio](https://pypi.org/project/depictio/) | 1.12.0b1 | Thomas Weber <thomas.weber@em… | 8.8 MB | Interactive dashboards for bioinformatics pipeline results: server, worker, vie… |
-| 2026-10-05 17:37:42 | [braindynamo](https://pypi.org/project/braindynamo/) | 0.0.2 | Behnam Kazemivash | 4.0 kB | Classical, well-established methods for analyzing brain dynamics in fMRI. |
-| 2026-10-05 17:40:46 | [kronumos](https://pypi.org/project/kronumos/) | 0.1.0 | Muhammad Naufal Daffa <daffa@… | 39.7 kB | Dual-Brain Cybernetic Autonomous Program Repair Engine |
-| 2026-10-05 17:45:21 | [immix-sdk](https://pypi.org/project/immix-sdk/) | 0.4.0 |  | 863.0 kB | The Python SDK for the Immix API — REST, market data and trading |
-| 2026-10-05 17:55:19 | [serialq](https://pypi.org/project/serialq/) | 0.1.0 | AP <intertermux@gmail.com> | 25.3 kB | One-at-a-time execution: a cross-process serial gate and FIFO job queue |
-| 2026-10-05 17:55:41 | [lmem](https://pypi.org/project/lmem/) | 0.2.1 | Pathi Krishna Kanth <krishnak… | 17.8 kB | Ultra-Fast Local AI Agent Persistent Memory Engine with Neural Extractive QA &… |
-| 2026-10-05 17:56:42 | [arc-pie](https://pypi.org/project/arc-pie/) | 0.1.6 | Rishi Verma <rishi.verma@arci… | 586.5 kB | PIE: predicting transcriptional responses to perturbations from biological know… |
-| 2026-10-05 18:00:38 | [neobrain-cli](https://pypi.org/project/neobrain-cli/) | 0.1.1 |  | 191.2 kB | A simulated brain for AI agents: memory, rank-based forgetting, dreams and a se… |
-| 2026-10-05 18:03:05 | [dpyb](https://pypi.org/project/dpyb/) | 0.1.1 | darkstarshine2011 | 34.4 kB | A simple file-based Python database |
-| 2026-10-05 18:03:19 | [arkitekt-service](https://pypi.org/project/arkitekt-service/) | 1.0.0 | jhnnsrs <jhnnsrs@gmail.com> | 67.2 kB | What a service of an Arkitekt hub is made with: the contract its image answers… |
-| 2026-10-05 18:03:55 | [quantrail](https://pypi.org/project/quantrail/) | 0.1.0 | Ting-Hong Shieh | 502.5 kB | Quantitative research you can trust: data governance, ledger-accurate backtests… |
-| 2026-10-05 18:04:07 | [gst-validator](https://pypi.org/project/gst-validator/) | 0.1.0 | rahulgurujala | 44.3 kB | Validate GSTINs and fetch taxpayer details from the Indian GST portal |
-| 2026-10-05 18:09:12 | [driftfix](https://pypi.org/project/driftfix/) | 0.1.1 |  | 21.0 kB | Dependabot bumps it. CI breaks. driftfix fixes the code. |
-| 2026-10-05 18:13:04 | [CodeMint](https://pypi.org/project/CodeMint/) | 0.1.0 |  | 15.2 kB | Eight experiment source-code modules for offline display |
-| 2026-10-05 18:16:45 | [filament-meter](https://pypi.org/project/filament-meter/) | 0.1.0 | nimblemo | 133.0 kB | Measure 3D-print filament usage from .3mf / .gcode files, with automatic OrcaSl… |
-| 2026-10-05 18:17:46 | [kryptos-pii](https://pypi.org/project/kryptos-pii/) | 0.3.0 | Kryptos | 68.2 kB | Kryptos PII Protection: a platform extension. Regex proposes, a fine-tuned LAYA… |
-| 2026-10-05 18:17:47 | [kryptos-pii-client](https://pypi.org/project/kryptos-pii-client/) | 0.3.0 | Kryptos | 20.3 kB | Hosted client for the Kryptos PII Protection extension. Sends text to Kryptos;… |
-| 2026-10-05 18:17:48 | [kryptos-pii-local](https://pypi.org/project/kryptos-pii-local/) | 0.3.0 | Kryptos | 21.6 kB | Run Kryptos PII Protection on your own machine. The text never leaves it. |
-| 2026-10-05 18:17:58 | [behappy](https://pypi.org/project/behappy/) | 0.1.0 | BeHappy Authors | 22.3 kB | Run a collection of classic ML and statistics experiments with a single call: f… |
+| 2026-10-05 15:44:33 | [agento11y-hermes](https://pypi.org/project/agento11y-hermes/) | 0.19.0 | Alexander Akhmetov | 95.8 kB | Grafana Agent Observability plugin for Hermes Agent. Records LLM calls and tool… |
+| 2026-10-05 18:20:32 | [devin-doctor](https://pypi.org/project/devin-doctor/) | 0.1.0 | Icaro0310 | 62.7 kB | Diagnose a Devin Desktop installation: stores, schema versions, hooks, MCP serv… |
+| 2026-10-05 18:20:41 | [photonrt](https://pypi.org/project/photonrt/) | 0.2.0 | Lakshmi Ganapathi Kodi | 12.6 MB | Native C++ image captioning runtime using ONNX Runtime |
+| 2026-10-05 18:21:38 | [devin-qa-pack](https://pypi.org/project/devin-qa-pack/) | 0.1.0 | Icaro0310 | 92.8 kB | QA audit for Devin sessions: verifies deliverable claims (tests, commits, files… |
+| 2026-10-05 18:23:43 | [tooltangle](https://pypi.org/project/tooltangle/) | 0.1.0 | bebz0 | 84.6 kB | Find which tools your LLM agent confuses and fix their descriptions with proof |
+| 2026-10-05 18:29:12 | [aiyoplane-langgraph](https://pypi.org/project/aiyoplane-langgraph/) | 1.0.0 | "Aiyoplane, Inc." <rashon@aiy… | 28.4 kB | AEAP Composition Boundary Adapter for LangGraph. Thin wrapper that attaches the… |
+| 2026-10-05 18:32:02 | [nodetool-wan2gp](https://pypi.org/project/nodetool-wan2gp/) | 0.1.0 | Matthias Georgi <matti.georgi… | 117.7 kB | Wan2GP nodes for Nodetool |
+| 2026-10-05 18:32:09 | [sdvplot](https://pypi.org/project/sdvplot/) | 0.1.0 | Saiem Gilani | 1.3 MB | Team logos, wordmarks, headshots and colors for Python plots and tables (Sports… |
+| 2026-10-05 18:35:00 | [forcingkit](https://pypi.org/project/forcingkit/) | 0.1.0.post1 | Daniel Fry <dfry@lhzn.io> | 1.2 MB | Spatiotemporal forcing for computational Earth-system models: selects, regrids… |
+| 2026-10-05 18:35:14 | [topobathykit](https://pypi.org/project/topobathykit/) | 0.1.0.post1 | Daniel Fry <dfry@lhzn.io> | 17.6 MB | Policy-driven topobathymetric fusion: fuses overlapping elevation sources into… |
+| 2026-10-05 18:36:01 | [avadhika](https://pypi.org/project/avadhika/) | 0.1.0 | Pranshu Raj | 350.4 kB | A contract-bound runtime that keeps one deadline, one admission budget and one… |
+| 2026-10-05 18:37:36 | [gravity-schema](https://pypi.org/project/gravity-schema/) | 0.1.0 |  | 195.7 kB | Gravity agent manifest contract — models, validation, and JSON Schema export |
+| 2026-10-05 18:37:39 | [gravity-cli](https://pypi.org/project/gravity-cli/) | 0.1.0 |  | 269.6 kB | gravity cli — init, run, and push python agents to the Gravity marketplace |
+| 2026-10-05 18:37:50 | [vscene2d](https://pypi.org/project/vscene2d/) | 0.2.1 |  | 66.4 kB | VPython-style 2D physics scenes that run natively in Jupyter |
+| 2026-10-05 18:38:26 | [codeskop](https://pypi.org/project/codeskop/) | 0.1.0 | Codeskop <plinqdevelopers@gma… | 52.6 kB | Codeskop server SDK for Python: errors, incoming requests and outgoing API call… |
+| 2026-10-05 18:40:36 | [brainmaze-eeg-models](https://pypi.org/project/brainmaze-eeg-models/) | 0.1.0 | Filip Mivalt <mivalt.filip@ma… | 36.8 MB | BrainMaze: ready-to-use trained EEG/iEEG models (seizure probability, sleep spi… |
+| 2026-10-05 18:41:30 | [pillow-rs-parallel](https://pypi.org/project/pillow-rs-parallel/) | 12.2.0 |  | 15.3 MB | Optional Rayon extension for pillow-rs |
+| 2026-10-05 18:42:54 | [django-tasks-monitor](https://pypi.org/project/django-tasks-monitor/) | 0.1.0 |  | 32.5 kB | A monitoring dashboard for Django's built-in tasks framework. Works with any ta… |
+| 2026-10-05 18:44:40 | [codemap-mcp](https://pypi.org/project/codemap-mcp/) | 0.1.0 | manoranjan14 <manoranjan14@us… | 251.6 kB | A local, queryable map of your codebase for Claude Code: import-aware call grap… |
+| 2026-10-05 18:44:47 | [nestui-matej](https://pypi.org/project/nestui-matej/) | 0.1.2 | Matej | 8.7 kB | Dependency-free Google Cast and Nest Hub controller |
+| 2026-10-05 18:48:59 | [onus](https://pypi.org/project/onus/) | 0.1.0 | Scale Venture Partners | 186.4 kB | A claim checker: extracts the verifiable claims in a deck or document and check… |
+| 2026-10-05 18:51:37 | [mathfirst](https://pypi.org/project/mathfirst/) | 0.2.0 | Jake Van Slyke | 26.5 kB | A math-native layer for representing and working with mathematics in Python. |
+| 2026-10-05 18:51:46 | [backpocket](https://pypi.org/project/backpocket/) | 0.1.0 | sayyed | 8.3 MB | Just some utilities kept in my backpocket |
+| 2026-10-05 18:53:56 | [blinkview](https://pypi.org/project/blinkview/) | 0.18.1 | Roland Uuesoo <rolandu@gmail.… | 4.6 MB | High-performance log viewer and telemetry tool for multi-source, high-throughpu… |
+| 2026-10-05 18:53:56 | [overset](https://pypi.org/project/overset/) | 0.1.0 | Scale Venture Partners | 137.8 kB | A deck linter: measures what a slide actually renders -- text off the slide, ou… |
+| 2026-10-05 18:54:25 | [ibm-qdmi](https://pypi.org/project/ibm-qdmi/) | 0.1.0 | Marcel Walter <marcel@mq.sc>,… | 9.5 MB | IBM quantum execution through QDMI, Qiskit, and PennyLane |
+| 2026-10-05 18:59:49 | [envless-sdk](https://pypi.org/project/envless-sdk/) | 0.0.1 | Envless | 145.2 kB | The official Python SDK for the Envless API. Manage workspaces, products, proje… |
+| 2026-10-05 19:05:02 | [libsize](https://pypi.org/project/libsize/) | 0.1.0 | David Bikard <david.bikard@pa… | 32.9 kB | Estimating how many distinct types a library or population contains |
+| 2026-10-05 19:07:40 | [kindgi](https://pypi.org/project/kindgi/) | 0.1.3 | Kindgi Inc. | 338.7 kB | Python SDK for Kindgi™ — write a pack's tools and guardrail checks in Python, r… |
+| 2026-10-05 19:07:45 | [teximal](https://pypi.org/project/teximal/) | 1.0.0 | Teximal | 52.8 kB | Run, serve and evaluate Teximal's models, starting with Fort, the calibrated de… |
+| 2026-10-05 19:08:35 | [QuadraticFormsMGHyp](https://pypi.org/project/QuadraticFormsMGHyp/) | 0.1.0 | Simon Broda | 5.2 MB | Tail probability and expected shortfall of a quadratic form in a multivariate g… |
+| 2026-10-05 19:10:10 | [langchain-model-router](https://pypi.org/project/langchain-model-router/) | 0.1.0 | Daniel Polok | 170.3 kB | In-process model routing for LangChain: a chat model that picks one of several… |
+| 2026-10-05 19:11:56 | [xgboost-webgpu](https://pypi.org/project/xgboost-webgpu/) | 0.1.0 | Kamonashis Halder <kamonashis… | 73.5 kB | Universal WebGPU-accelerated XGBoost for AMD, Apple Silicon, Intel, and NVIDIA… |

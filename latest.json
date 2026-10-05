@@ -1,31 +1,19 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-10-05T17:18:40.758459Z",
-    "path": "data/new-packages-2026-10-05T18-19-05-577822Z.csv",
-    "to": "2026-10-05T18:19:05.577822Z"
+    "count": 33,
+    "from": "2026-10-05T18:19:05.577822Z",
+    "path": "data/new-packages-2026-10-05T19-18-32-985935Z.csv",
+    "to": "2026-10-05T19:18:32.985935Z"
   },
   "pending": [
     {
       "attempts": 3,
-      "created_at": "2026-10-05T15:44:33Z",
-      "package": "agento11y-hermes",
-      "since": "2026-10-05T15:19:35.284055Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-05T14:56:32Z",
-      "package": "skippr",
-      "since": "2026-10-05T14:18:38.255464Z"
-    },
-    {
-      "attempts": 2,
       "created_at": "2026-10-05T17:05:52Z",
       "package": "su-integration-interfaces",
       "since": "2026-10-05T16:18:39.574444Z"
     }
   ],
-  "serial": 41850542,
+  "serial": 41852584,
   "source_truncated": false,
-  "window": "2026-10-05T18:19:05.577822Z"
+  "window": "2026-10-05T19:18:32.985935Z"
 }

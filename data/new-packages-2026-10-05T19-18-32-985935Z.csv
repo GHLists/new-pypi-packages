@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T15:44:33Z,agento11y-hermes,0.19.0,Alexander Akhmetov,Apache-2.0,95782,Grafana Agent Observability plugin for Hermes Agent. Records LLM calls and tool executions as generations and OTel traces+metrics.
+2026-10-05T18:20:32Z,devin-doctor,0.1.0,Icaro0310,MIT,62725,"Diagnose a Devin Desktop installation: stores, schema versions, hooks, MCP servers, disk usage — with fix suggestions."
+2026-10-05T18:20:41Z,photonrt,0.2.0,Lakshmi Ganapathi Kodi,"MIT License Copyright (c) 2026 Lakshmi Ganapathi Kodi Permission is hereby granted, free of charge,…",12585108,Native C++ image captioning runtime using ONNX Runtime
+2026-10-05T18:21:38Z,devin-qa-pack,0.1.0,Icaro0310,MIT,92764,"QA audit for Devin sessions: verifies deliverable claims (tests, commits, files, pushes) against tool_call_state ground truth."
+2026-10-05T18:23:43Z,tooltangle,0.1.0,bebz0,MIT,84634,Find which tools your LLM agent confuses and fix their descriptions with proof
+2026-10-05T18:29:12Z,aiyoplane-langgraph,1.0.0,"""Aiyoplane, Inc."" <rashon@aiyoplane.com>",Apache-2.0,28448,AEAP Composition Boundary Adapter for LangGraph. Thin wrapper that attaches the Runtime Decision Point to LangGraph node invocations.
+2026-10-05T18:32:02Z,nodetool-wan2gp,0.1.0,Matthias Georgi <matti.georgi@gmail.com>,AGPL-3.0-or-later,117689,Wan2GP nodes for Nodetool
+2026-10-05T18:32:09Z,sdvplot,0.1.0,Saiem Gilani,MIT,1295500,"Team logos, wordmarks, headshots and colors for Python plots and tables (SportsDataverse)"
+2026-10-05T18:35:00Z,forcingkit,0.1.0.post1,Daniel Fry <dfry@lhzn.io>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1188684,"Spatiotemporal forcing for computational Earth-system models: selects, regrids and serves model-ready time series with provenance."
+2026-10-05T18:35:14Z,topobathykit,0.1.0.post1,Daniel Fry <dfry@lhzn.io>,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",17558984,Policy-driven topobathymetric fusion: fuses overlapping elevation sources into seamless grids with per-pixel provenance.
+2026-10-05T18:36:01Z,avadhika,0.1.0,Pranshu Raj,Apache-2.0,350369,"A contract-bound runtime that keeps one deadline, one admission budget and one attempt policy across every LLM retry and fallback."
+2026-10-05T18:37:36Z,gravity-schema,0.1.0,,Apache-2.0,195734,"Gravity agent manifest contract — models, validation, and JSON Schema export"
+2026-10-05T18:37:39Z,gravity-cli,0.1.0,,Apache-2.0,269611,"gravity cli — init, run, and push python agents to the Gravity marketplace"
+2026-10-05T18:37:50Z,vscene2d,0.2.1,,MIT,66443,VPython-style 2D physics scenes that run natively in Jupyter
+2026-10-05T18:38:26Z,codeskop,0.1.0,Codeskop <plinqdevelopers@gmail.com>,MIT,52584,"Codeskop server SDK for Python: errors, incoming requests and outgoing API calls from Django, Flask, FastAPI and Celery apps."
+2026-10-05T18:40:36Z,brainmaze-eeg-models,0.1.0,Filip Mivalt <mivalt.filip@mayo.edu>,BSD-3-Clause,36757400,"BrainMaze: ready-to-use trained EEG/iEEG models (seizure probability, sleep spindles) on ONNX Runtime"
+2026-10-05T18:41:30Z,pillow-rs-parallel,12.2.0,,MIT-CMU,15259040,Optional Rayon extension for pillow-rs
+2026-10-05T18:42:54Z,django-tasks-monitor,0.1.0,,MIT,32469,A monitoring dashboard for Django's built-in tasks framework. Works with any task backend.
+2026-10-05T18:44:40Z,codemap-mcp,0.1.0,manoranjan14 <manoranjan14@users.noreply.github.com>,MIT,251602,"A local, queryable map of your codebase for Claude Code: import-aware call graph, durable session memory, and session-history search, exposed as MCP tools."
+2026-10-05T18:44:47Z,nestui-matej,0.1.2,Matej,,8672,Dependency-free Google Cast and Nest Hub controller
+2026-10-05T18:48:59Z,onus,0.1.0,Scale Venture Partners,MIT,186416,"A claim checker: extracts the verifiable claims in a deck or document and checks each against the evidence, with ruff-style rule codes"
+2026-10-05T18:51:37Z,mathfirst,0.2.0,Jake Van Slyke,Apache-2.0,26516,A math-native layer for representing and working with mathematics in Python.
+2026-10-05T18:51:46Z,backpocket,0.1.0,sayyed,MIT,8286090,Just some utilities kept in my backpocket
+2026-10-05T18:53:56Z,blinkview,0.18.1,Roland Uuesoo <rolandu@gmail.com>,MPL-2.0,4566151,"High-performance log viewer and telemetry tool for multi-source, high-throughput systems."
+2026-10-05T18:53:56Z,overset,0.1.0,Scale Venture Partners,MIT,137828,"A deck linter: measures what a slide actually renders -- text off the slide, out of its box, colliding, too small, too faint, off-brand -- with ruff-style rule codes"
+2026-10-05T18:54:25Z,ibm-qdmi,0.1.0,"Marcel Walter <marcel@mq.sc>, Lukas Burgholzer <lukas@mq.sc>",Apache-2.0 WITH LLVM-exception,9515192,"IBM quantum execution through QDMI, Qiskit, and PennyLane"
+2026-10-05T18:59:49Z,envless-sdk,0.0.1,Envless,LicenseRef-Proprietary,145186,"The official Python SDK for the Envless API. Manage workspaces, products, projects, environments, variables, versions, members, roles, keys and webhooks from code, with every value encrypted on your…"
+2026-10-05T19:05:02Z,libsize,0.1.0,David Bikard <david.bikard@pasteur.fr>,Apache-2.0,32919,Estimating how many distinct types a library or population contains
+2026-10-05T19:07:40Z,kindgi,0.1.3,Kindgi Inc.,Apache-2.0,338707,"Python SDK for Kindgi™ — write a pack's tools and guardrail checks in Python, run them in a Kindgi pack service, and call the Kindgi API."
+2026-10-05T19:07:45Z,teximal,1.0.0,Teximal,Apache-2.0,52819,"Run, serve and evaluate Teximal's models, starting with Fort, the calibrated decision model"
+2026-10-05T19:08:35Z,QuadraticFormsMGHyp,0.1.0,Simon Broda,MIT,5192800,Tail probability and expected shortfall of a quadratic form in a multivariate generalized hyperbolic vector
+2026-10-05T19:10:10Z,langchain-model-router,0.1.0,Daniel Polok,MIT,170309,In-process model routing for LangChain: a chat model that picks one of several candidate chat models per request.
+2026-10-05T19:11:56Z,xgboost-webgpu,0.1.0,Kamonashis Halder <kamonashis.halder@gmail.com>,MIT,73451,"Universal WebGPU-accelerated XGBoost for AMD, Apple Silicon, Intel, and NVIDIA GPUs"
