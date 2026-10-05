@@ -8,31 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 03:18 UTC
+## Latest list — 2026-10-05 04:21 UTC
 
-New packages created between 2026-10-05 02:18 UTC and 2026-10-05 03:18 UTC.
+New packages created between 2026-10-05 03:18 UTC and 2026-10-05 04:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T03-18-36-66931Z.csv)
+[Full CSV](data/new-packages-2026-10-05T04-21-31-269095Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 02:18:58 | [mavis-track](https://pypi.org/project/mavis-track/) | 0.1.0 | Jonathan Shulgach <jshulgac@a… | 430.5 kB | Hand landmark tracking, triangulation, kinematics, and streaming toolkit |
-| 2026-10-05 02:20:40 | [launchhelm](https://pypi.org/project/launchhelm/) | 0.1.0 |  | 367.8 kB | LaunchHelm client and cooperative workload runtime |
-| 2026-10-05 02:20:59 | [gtotr](https://pypi.org/project/gtotr/) | 0.1.0 | Danny Dunlavy <dmdunla@sandia… | 64.9 kB | Generalized Tensor-on-Tensor Regression (GToTR) |
-| 2026-10-05 02:21:22 | [partloom](https://pypi.org/project/partloom/) | 0.0.1 |  | 8.7 kB | Building blocks for reusable 3D printing workflows |
-| 2026-10-05 02:29:45 | [hands-free-voice](https://pypi.org/project/hands-free-voice/) | 0.1.2 | Nicholas Yuan | 180.5 kB | Hands-free voice for Claude Code: the audio half of the hands-free-voice mod, a… |
-| 2026-10-05 02:36:13 | [swearbench](https://pypi.org/project/swearbench/) | 0.2.1 |  | 44.3 kB | Rank AI coding models by how much they made you swear and how often their work… |
-| 2026-10-05 02:36:59 | [tracereports](https://pypi.org/project/tracereports/) | 0.2.0 | Jose Lopez | 68.0 kB | TraceReports client: reports test steps, screenshots and browser network to a T… |
-| 2026-10-05 02:37:01 | [esbi-cli](https://pypi.org/project/esbi-cli/) | 0.2.1 | Rubén Melo | 277.7 kB | Turns the PDFs, links and emails you save into a Markdown wiki of summaries, gl… |
-| 2026-10-05 02:49:20 | [lamina3d](https://pypi.org/project/lamina3d/) | 0.2.2 |  | 13.5 MB | Lamina: turns 3D models into flat cut parts (stacked, interlocked, radial, ribb… |
-| 2026-10-05 02:57:55 | [mirrorneuron-prism](https://pypi.org/project/mirrorneuron-prism/) | 0.3.0 | Prism contributors | 418.6 kB | OpenAI-compatible proxy for bounded text, vision, and reasoning model workflows |
-| 2026-10-05 03:01:34 | [nhanes-mcp](https://pypi.org/project/nhanes-mcp/) | 0.5.1 | Black Swan Causal Labs | 70.9 kB | MCP server for design-correct, conversational access to NHANES public-use data… |
-| 2026-10-05 03:02:08 | [vexicon](https://pypi.org/project/vexicon/) | 0.6.0 | estasney | 54.5 kB | Hybrid vector + keyword MCP server powered by chroma and sqlite |
-| 2026-10-05 03:04:59 | [candlefeed-mcp](https://pypi.org/project/candlefeed-mcp/) | 0.1.0 | CandleFeed <support@candlefee… | 43.0 kB | MCP server for CandleFeed: download Binance USD-M order book days, rebuild the… |
-| 2026-10-05 03:10:36 | [ariadne-re](https://pypi.org/project/ariadne-re/) | 0.1.0 |  | 135.0 kB | A thread through the labyrinth of obfuscated binaries. |
-| 2026-10-05 03:10:36 | [gpa-calculator-TBD](https://pypi.org/project/gpa-calculator-TBD/) | 0.0.1 | Hai Dang Le, Esther Finotti,… | 5.9 kB | A GPA Calculator package |
-| 2026-10-05 03:11:06 | [xptycho](https://pypi.org/project/xptycho/) | 0.1.0 | Charles A. Bouman, Brendt Woh… | 63.4 kB | Ptychographic reconstruction with PMACE in PyTorch |
-| 2026-10-05 03:13:50 | [tina-tui](https://pypi.org/project/tina-tui/) | 0.1.0 | 王出日 <wangchuri@163.com> | 51.2 kB | tina 的终端界面（Textual）扩展 |
-| 2026-10-05 03:13:54 | [tina-multi-agent](https://pypi.org/project/tina-multi-agent/) | 0.1.0 | 王出日 <wangchuri@163.com> | 77.6 kB | tina 的实验性多 Agent 场景（消息总线 + Web 调试控制台） |
-| 2026-10-05 03:15:42 | [zigraf-ir](https://pypi.org/project/zigraf-ir/) | 0.1.0 | "Gong, Wen" <lucywang1049@gma… | 48.3 kB | graph.yaml intermediate representation: schema, validator and graph transforms… |
-| 2026-10-05 03:18:19 | [releasetrain-triage-bench](https://pypi.org/project/releasetrain-triage-bench/) | 0.1.0 | SE4CPS | 51.4 kB | A reproducible benchmark harness for measuring guardrail compliance in agentic… |
+| 2026-10-05 03:19:08 | [lingose](https://pypi.org/project/lingose/) | 0.1.0 |  | 180.5 MB | Offline English lexicon for the IPSM Approach to pronunciation, spelling and me… |
+| 2026-10-05 03:19:11 | [protein-fasta](https://pypi.org/project/protein-fasta/) | 0.3.0 | Witold Wolski | 410.2 kB | Streaming protein records and config-driven Polars FASTA frames. |
+| 2026-10-05 03:20:12 | [prozor](https://pypi.org/project/prozor/) | 0.1.0 | Witold Wolski | 21.9 kB | Typed peptide-to-protein matching and parsimonious protein inference |
+| 2026-10-05 03:21:23 | [apb2](https://pypi.org/project/apb2/) | 0.1.0 | Witold Wolski | 443.9 kB | Convert proteomics software output to AnnData (rules-driven parser, second gene… |
+| 2026-10-05 03:21:59 | [siftscan](https://pypi.org/project/siftscan/) | 0.1.0 | Baran Ayaztas | 50.8 kB | Scan AI agent instruction files (CLAUDE.md, .cursorrules, AGENTS.md, mcp.json)… |
+| 2026-10-05 03:23:51 | [apb-fasta](https://pypi.org/project/apb-fasta/) | 0.1.0 | Witold Wolski | 30.1 kB | FASTA validation and protein annotation for APB2 results. |
+| 2026-10-05 03:24:40 | [protonmail-mcp](https://pypi.org/project/protonmail-mcp/) | 0.1.0 | Manoah BERNIER <manoah.bernie… | 64.9 kB | MCP server for Proton Mail via Proton Bridge (IMAP/SMTP) |
+| 2026-10-05 03:27:13 | [bxp-sdk](https://pypi.org/project/bxp-sdk/) | 2.1.0 | BXP Protocol Contributors <bx… | 77.0 kB | BXP (Breathe Exposure Protocol) Python SDK — Universal atmospheric exposure dat… |
+| 2026-10-05 03:35:17 | [minifyjs](https://pypi.org/project/minifyjs/) | 0.1.0 |  | 17.9 MB | A native JavaScript minifier and optimizer. No Node.js required. |
+| 2026-10-05 03:40:53 | [ollajev](https://pypi.org/project/ollajev/) | 0.2.0 | Vijay Krishna Kudva | 2.1 MB | Run System One decision models from Hugging Face locally behind the Jev / Syste… |
+| 2026-10-05 03:43:36 | [astrometron](https://pypi.org/project/astrometron/) | 0.1.0 | Pranshu Raj | 215.9 kB | Reproducible measurement and evidence for AI systems: provenance-bound evaluati… |
+| 2026-10-05 03:44:32 | [adiresi](https://pypi.org/project/adiresi/) | 0.1.0 | Adiresi <dev@adiresi.com.ng> | 9.2 kB | Python client for the Adiresi API — Nigerian address resolution, NIPOST postcod… |
+| 2026-10-05 03:46:12 | [schemair](https://pypi.org/project/schemair/) | 0.1.0.dev0 | SchemaIR contributors | 9.4 kB | Python implementation of the language-independent SchemaIR protocol |
+| 2026-10-05 03:47:32 | [proxy-watch](https://pypi.org/project/proxy-watch/) | 0.1.0 |  | 9.9 MB | The operating system's proxy settings, layered with *_proxy, and the route each… |
+| 2026-10-05 03:51:13 | [ampere-astro](https://pypi.org/project/ampere-astro/) | 1.0.0b1 | Francisca Kemper, Sundar Srin… | 28.4 MB | Bayesian fitting of heterogeneous astronomical data, with a flexible likelihood… |
+| 2026-10-05 03:52:48 | [si-guard](https://pypi.org/project/si-guard/) | 0.0.0 | Praneeth Vadlapati | 2.8 kB | A new package under development |
+| 2026-10-05 03:55:15 | [si-safe](https://pypi.org/project/si-safe/) | 0.0.0 | Praneeth Vadlapati | 2.8 kB | A new package under development |
+| 2026-10-05 03:55:47 | [safe-si](https://pypi.org/project/safe-si/) | 0.0.0 | Praneeth Vadlapati | 2.7 kB | A new package under development |
+| 2026-10-05 03:57:10 | [mlb-stats-sdk](https://pypi.org/project/mlb-stats-sdk/) | 0.1.0 | Jeff Francis | 65.6 kB | Python SDK for the MLB Stats API (statsapi.mlb.com) |
+| 2026-10-05 03:57:13 | [nfl-espn](https://pypi.org/project/nfl-espn/) | 0.1.0 | Jeff Francis | 63.4 kB | Python SDK for the ESPN NFL API |
+| 2026-10-05 03:59:04 | [glassy](https://pypi.org/project/glassy/) | 0.1.0 | Jeffrey Ryan | 29.1 kB | A library for exploring the set of good models. |
+| 2026-10-05 04:05:48 | [apb-catalog](https://pypi.org/project/apb-catalog/) | 0.1.0 | Witold Wolski | 73.6 kB | Semantic source catalogues and column resolution for APB results |
+| 2026-10-05 04:06:03 | [versine-agents](https://pypi.org/project/versine-agents/) | 0.1.0 |  | 110.3 kB | Versine SDK for AI agents: sign assertions, verify users, request handshake cod… |
+| 2026-10-05 04:06:31 | [tunarag-python](https://pypi.org/project/tunarag-python/) | 0.2.1 | Shivam Shinde | 715.8 kB | Typed, durable optimization workflows for existing RAG systems |
+| 2026-10-05 04:06:53 | [answersnap](https://pypi.org/project/answersnap/) | 0.2.1 |  | 220.6 kB | Auditable AI-visibility snapshots: what ChatGPT, Claude and Gemini actually sai… |
+| 2026-10-05 04:08:00 | [apb-proteobench](https://pypi.org/project/apb-proteobench/) | 0.1.0 | Witold Wolski | 123.6 kB | ProteoBench annotation, diagnostics, and scoring for APB2 results |
+| 2026-10-05 04:09:42 | [trigora-client](https://pypi.org/project/trigora-client/) | 1.0.0 | Trigora | 4.6 kB | Python client for Trigora Cloud and the local runtime |
+| 2026-10-05 04:10:51 | [trigora](https://pypi.org/project/trigora/) | 1.0.0 | Trigora | 3.2 kB | Authoring package for Trigora durable programs |
+| 2026-10-05 04:13:08 | [ocbench](https://pypi.org/project/ocbench/) | 1.0.0 | Seohong Park | 20.3 MB | OCBench manipulation environments. |
+| 2026-10-05 04:13:59 | [gpa_calculator_hlib_yeromin](https://pypi.org/project/gpa_calculator_hlib_yeromin/) | 1.0.0 | Hlib Yeromin <hyeromin@msuden… | 6.7 kB | Credit-weighted GPA calculation library for letter-graded courses, from the CS3… |
+| 2026-10-05 04:15:09 | [folio-kb](https://pypi.org/project/folio-kb/) | 0.1.0 | Piergiuseppe Mallozzi | 486.9 kB | A knowledge library a coding agent builds and keeps, checked by a gate. |
+| 2026-10-05 04:16:39 | [giftag](https://pypi.org/project/giftag/) | 1.0.0 | Antton Alberdi | 75.9 kB | Annotate genomes with exactly the markers gifter evaluates. |
+| 2026-10-05 04:18:11 | [lab-kit-cli](https://pypi.org/project/lab-kit-cli/) | 0.1.0 | Piergiuseppe Mallozzi | 194.9 kB | A research lab's method and machinery on top of folio: pre-register, lock, run,… |
+| 2026-10-05 04:20:27 | [sherlock-perturb](https://pypi.org/project/sherlock-perturb/) | 0.1.0 | Mingxuan Zhang, Joshua D. Mye… | 224.4 kB | SHERLOCK: structured representation learning and causal inference of downstream… |

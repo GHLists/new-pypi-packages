@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T03:19:08Z,lingose,0.1.0,,CC-BY-4.0,180510295,"Offline English lexicon for the IPSM Approach to pronunciation, spelling and meaning"
+2026-10-05T03:19:11Z,protein-fasta,0.3.0,Witold Wolski,MIT,410191,Streaming protein records and config-driven Polars FASTA frames.
+2026-10-05T03:20:12Z,prozor,0.1.0,Witold Wolski,MIT,21918,Typed peptide-to-protein matching and parsimonious protein inference
+2026-10-05T03:21:23Z,apb2,0.1.0,Witold Wolski,MIT,443853,"Convert proteomics software output to AnnData (rules-driven parser, second generation)"
+2026-10-05T03:21:59Z,siftscan,0.1.0,Baran Ayaztas,MIT,50811,"Scan AI agent instruction files (CLAUDE.md, .cursorrules, AGENTS.md, mcp.json) for hidden or planted instructions."
+2026-10-05T03:23:51Z,apb-fasta,0.1.0,Witold Wolski,MIT,30143,FASTA validation and protein annotation for APB2 results.
+2026-10-05T03:24:40Z,protonmail-mcp,0.1.0,Manoah BERNIER <manoah.bernier@gmail.com>,MIT,64883,MCP server for Proton Mail via Proton Bridge (IMAP/SMTP)
+2026-10-05T03:27:13Z,bxp-sdk,2.1.0,BXP Protocol Contributors <bxpprotocol@proton.me>,Apache-2.0,77043,BXP (Breathe Exposure Protocol) Python SDK — Universal atmospheric exposure data interoperability
+2026-10-05T03:35:17Z,minifyjs,0.1.0,,MIT,17850699,A native JavaScript minifier and optimizer. No Node.js required.
+2026-10-05T03:40:53Z,ollajev,0.2.0,Vijay Krishna Kudva,Apache-2.0,2064713,Run System One decision models from Hugging Face locally behind the Jev / System One API
+2026-10-05T03:43:36Z,astrometron,0.1.0,Pranshu Raj,Apache-2.0,215873,"Reproducible measurement and evidence for AI systems: provenance-bound evaluation receipts, typed failures, and evidence-backed model routing."
+2026-10-05T03:44:32Z,adiresi,0.1.0,Adiresi <dev@adiresi.com.ng>,MIT,9182,"Python client for the Adiresi API — Nigerian address resolution, NIPOST postcodes, geofencing and validation."
+2026-10-05T03:46:12Z,schemair,0.1.0.dev0,SchemaIR contributors,Apache-2.0,9415,Python implementation of the language-independent SchemaIR protocol
+2026-10-05T03:47:32Z,proxy-watch,0.1.0,,MIT OR Apache-2.0,9859409,"The operating system's proxy settings, layered with *_proxy, and the route each URL takes under them, for Python"
+2026-10-05T03:51:13Z,ampere-astro,1.0.0b1,"Francisca Kemper, Sundar Srinivasan, Jonathan Marshall, Oscar Morata, Alfonso Trejo, Sascha Zeegers…",GPL-3.0-or-later,28371530,"Bayesian fitting of heterogeneous astronomical data, with a flexible likelihood that stays robust when the model is misspecified."
+2026-10-05T03:52:48Z,si-guard,0.0.0,Praneeth Vadlapati,MIT,2773,A new package under development
+2026-10-05T03:55:15Z,si-safe,0.0.0,Praneeth Vadlapati,MIT,2756,A new package under development
+2026-10-05T03:55:47Z,safe-si,0.0.0,Praneeth Vadlapati,MIT,2743,A new package under development
+2026-10-05T03:57:10Z,mlb-stats-sdk,0.1.0,Jeff Francis,GPL-3.0-only,65589,Python SDK for the MLB Stats API (statsapi.mlb.com)
+2026-10-05T03:57:13Z,nfl-espn,0.1.0,Jeff Francis,GPL-3.0-only,63436,Python SDK for the ESPN NFL API
+2026-10-05T03:59:04Z,glassy,0.1.0,Jeffrey Ryan,MIT,29056,A library for exploring the set of good models.
+2026-10-05T04:05:48Z,apb-catalog,0.1.0,Witold Wolski,MIT,73564,Semantic source catalogues and column resolution for APB results
+2026-10-05T04:06:03Z,versine-agents,0.1.0,,MIT,110293,"Versine SDK for AI agents: sign assertions, verify users, request handshake codes."
+2026-10-05T04:06:31Z,tunarag-python,0.2.1,Shivam Shinde,MIT,715806,"Typed, durable optimization workflows for existing RAG systems"
+2026-10-05T04:06:53Z,answersnap,0.2.1,,Apache-2.0,220602,"Auditable AI-visibility snapshots: what ChatGPT, Claude and Gemini actually said about a brand, with the evidence kept."
+2026-10-05T04:08:00Z,apb-proteobench,0.1.0,Witold Wolski,MIT,123580,"ProteoBench annotation, diagnostics, and scoring for APB2 results"
+2026-10-05T04:09:42Z,trigora-client,1.0.0,Trigora,MIT,4588,Python client for Trigora Cloud and the local runtime
+2026-10-05T04:10:51Z,trigora,1.0.0,Trigora,MIT,3163,Authoring package for Trigora durable programs
+2026-10-05T04:13:08Z,ocbench,1.0.0,Seohong Park,,20301404,OCBench manipulation environments.
+2026-10-05T04:13:59Z,gpa_calculator_hlib_yeromin,1.0.0,Hlib Yeromin <hyeromin@msudenver.edu>,MIT,6719,"Credit-weighted GPA calculation library for letter-graded courses, from the CS3250 GPA Calculator project at MSU Denver."
+2026-10-05T04:15:09Z,folio-kb,0.1.0,Piergiuseppe Mallozzi,MIT,486874,"A knowledge library a coding agent builds and keeps, checked by a gate."
+2026-10-05T04:16:39Z,giftag,1.0.0,Antton Alberdi,MIT-0,75906,Annotate genomes with exactly the markers gifter evaluates.
+2026-10-05T04:18:11Z,lab-kit-cli,0.1.0,Piergiuseppe Mallozzi,MIT,194900,"A research lab's method and machinery on top of folio: pre-register, lock, run, score, re-derive."
+2026-10-05T04:20:27Z,sherlock-perturb,0.1.0,"Mingxuan Zhang, Joshua D. Myers, Lingting Shi, Azizi Lab",CC-BY-NC-ND-4.0,224439,SHERLOCK: structured representation learning and causal inference of downstream perturbation effects in single-cell data
