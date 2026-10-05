@@ -8,34 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 05:20 UTC
+## Latest list — 2026-10-05 06:19 UTC
 
-New packages created between 2026-10-05 04:21 UTC and 2026-10-05 05:20 UTC.
+New packages created between 2026-10-05 05:20 UTC and 2026-10-05 06:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T05-20-29-7637Z.csv)
+[Full CSV](data/new-packages-2026-10-05T06-19-04-835215Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 04:23:40 | [xlogger-py](https://pypi.org/project/xlogger-py/) | 0.3.0 | K.NAKADA | 26.7 kB | logger |
-| 2026-10-05 04:25:42 | [aforo-agent-metering](https://pypi.org/project/aforo-agent-metering/) | 0.3.2 | Aforo <engineering@aforo.ai> | 52.9 kB | Aforo AI Agent Metering SDK — instrument agent runs (sessions, steps, capabilit… |
-| 2026-10-05 04:28:22 | [induslms-agent](https://pypi.org/project/induslms-agent/) | 0.3.1 | IndusLMS Agent contributors | 70.2 kB | Read-only agent access to Indus LMS academics: announcements, assignments, shar… |
-| 2026-10-05 04:31:50 | [plimsoll-client](https://pypi.org/project/plimsoll-client/) | 0.19.0 |  | 109.3 kB | Client for plimsolld, the plimsoll sandbox daemon, that checks every run record… |
-| 2026-10-05 04:33:27 | [azizilab-sherlock](https://pypi.org/project/azizilab-sherlock/) | 0.1.0 | Mingxuan Zhang, Joshua D. Mye… | 221.5 kB | SHERLOCK: structured representation learning and causal inference of downstream… |
-| 2026-10-05 04:35:00 | [pyR0compute](https://pypi.org/project/pyR0compute/) | 0.1.0 | Yvan Baldera-Moreno | 45.8 kB | Symbolic computation of the basic reproduction number R0 via the next-generatio… |
-| 2026-10-05 04:36:06 | [odoo-addon-sustainability-account-asset-management](https://pypi.org/project/odoo-addon-sustainability-account-asset-management/) | 16.0.1.0.0.7 | MCO2, Open Net Sàrl | 22.4 kB | Glue module to make sustainability module compatible with assets management fro… |
-| 2026-10-05 04:36:06 | [odoo-addon-sustainability-product-label-print](https://pypi.org/project/odoo-addon-sustainability-product-label-print/) | 18.0.1.1.0.3 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 22.6 kB | Sustainability Product Label Print |
-| 2026-10-05 04:36:09 | [odoo-addon-sustainability-employee-commuting](https://pypi.org/project/odoo-addon-sustainability-employee-commuting/) | 16.0.1.0.0.17 | MCO2, Open Net Sàrl | 33.6 kB | Module for employee commuting co2 |
-| 2026-10-05 04:37:35 | [endorouter](https://pypi.org/project/endorouter/) | 0.1.0 | "J. I. Ashley Consulting LLC"… | 162.8 kB | A model router that decides where a prompt is allowed to go before it decides w… |
-| 2026-10-05 04:37:40 | [kymora](https://pypi.org/project/kymora/) | 0.7.0 |  | 9.1 MB | Fast time-series feature extraction, Rust core |
-| 2026-10-05 04:44:24 | [dynamo-figures](https://pypi.org/project/dynamo-figures/) | 0.3.5 | Dynamic Mobility Lab at Georg… | 482.3 kB | A Python package for figure generation |
-| 2026-10-05 04:46:13 | [pyheor](https://pypi.org/project/pyheor/) | 0.4.0 | PyHEOR Team | 257.8 kB | Python Health Economics Research Optimizer - A framework for Markov cohort mode… |
-| 2026-10-05 04:47:12 | [voicemaster](https://pypi.org/project/voicemaster/) | 0.1.0 | Rahul Wale | 150.7 kB | Real-time AI phone calls: Gemini Live bridged to Vobiz and Twilio, with call re… |
-| 2026-10-05 04:50:20 | [livesynth](https://pypi.org/project/livesynth/) | 0.0.1 | Kyungsu Kim, Yejin Kim, Kyogu… | 4.9 kB | LiveSynth: a streaming neural synthesizer for instrument cloning and text-to-in… |
-| 2026-10-05 04:54:11 | [chardet-rs](https://pypi.org/project/chardet-rs/) | 0.1.0 | Thanatos | 3.9 MB | Universal character encoding detector — Rust port of chardet 7 |
-| 2026-10-05 04:55:39 | [genesis-sandbox-client-python](https://pypi.org/project/genesis-sandbox-client-python/) | 0.1.0 | caoshouling | 99.0 kB | Dependency-free Python client SDK for Genesis Sandbox (sessions, jobs, Workspac… |
-| 2026-10-05 05:04:23 | [pytlsclient](https://pypi.org/project/pytlsclient/) | 1.0.1 | Seppuku2k | 108.0 MB | Advanced Python HTTP Client. |
-| 2026-10-05 05:04:41 | [mvn-moments](https://pypi.org/project/mvn-moments/) | 0.1.0a1 | Abhijeet Kulkarni | 7.0 MB | Raw moments of a multivariate normal distribution over a rectangle, built for r… |
-| 2026-10-05 05:08:05 | [cred-leak-barkure-acceptance](https://pypi.org/project/cred-leak-barkure-acceptance/) | 0.0.3.dev2026100505… |  | 303 B | Synthetic security acceptance fixtures |
-| 2026-10-05 05:13:57 | [curve-manager](https://pypi.org/project/curve-manager/) | 0.4.0 | Grayjou <your.email@example.c… | 131.8 kB | 2D Bézier curve management with constraints, smoothing, and canonical curve geo… |
-| 2026-10-05 05:15:20 | [crabxl](https://pypi.org/project/crabxl/) | 0.1.0a1 |  | 29.8 MB | Rust spreadsheet processing with an openpyxl-compatible Python surface |
-| 2026-10-05 05:18:51 | [login-gui-win](https://pypi.org/project/login-gui-win/) | 0.0.3 | 小王 <1063007508@qq.com> | 8.8 kB | Windows Tkinter登录GUI，注册表存储账号，支持注册/改密/下拉注销 |
+| 2026-10-05 05:22:45 | [versine](https://pypi.org/project/versine/) | 0.1.0 |  | 111.7 kB | Versine SDK for AI agents: sign assertions, verify users, request handshake cod… |
+| 2026-10-05 05:33:05 | [pihanga-remote](https://pypi.org/project/pihanga-remote/) | 0.1.0 | Max Ott | 1.1 MB | Drive a Pihanga card UI (prebuilt generic bundle) from Python via JSON-Patch ov… |
+| 2026-10-05 05:35:45 | [hostile-facilitator](https://pypi.org/project/hostile-facilitator/) | 0.2.1 | AurumFlux AI, Inc | 90.5 kB | Retry-safety conformance battery for x402 payment clients — point your client a… |
+| 2026-10-05 05:40:48 | [sorb-mcp](https://pypi.org/project/sorb-mcp/) | 0.1.1 |  | 84.0 kB | Sorb task tools for external MCP agents |
+| 2026-10-05 05:42:08 | [pyopenjtalk-ndy](https://pypi.org/project/pyopenjtalk-ndy/) | 0.4.2.post5 | Ryuichi Yamamoto <zryuichi@gm… | 65.9 MB | A python wrapper for OpenJTalk |
+| 2026-10-05 05:42:40 | [sonic-logger](https://pypi.org/project/sonic-logger/) | 0.0.1b0 | Aniruddh Gupta <aniruddh16168… | 261.0 kB | Lightweight, fast, clear structured logging for Python — FastAPI / Django / Fla… |
+| 2026-10-05 05:44:12 | [parsefabric](https://pypi.org/project/parsefabric/) | 0.1.0 | S MUNI HARISH <samamuniharish… | 1.0 MB | Composable parsers that turn logs, JSON, command output and mixed text into str… |
+| 2026-10-05 05:45:15 | [geosciml4china](https://pypi.org/project/geosciml4china/) | 0.1.0 | geosciml4china contributors | 2.5 MB | MapGIS → GeoSciML 4.1 conversion, DZ/T 0179-2025 semantic styling, rendering an… |
+| 2026-10-05 05:48:31 | [open-prompt-format](https://pypi.org/project/open-prompt-format/) | 0.2.0 |  | 97.7 kB | Load and render Open Prompt Format files |
+| 2026-10-05 05:49:13 | [adversary-gate-mcp](https://pypi.org/project/adversary-gate-mcp/) | 2.9.0 | AdversaryGate Authors <sanflo… | 4.4 kB | AdversaryGate as an MCP server: a fail-closed merge gate an agent calls before… |
+| 2026-10-05 05:52:02 | [cicheck](https://pypi.org/project/cicheck/) | 0.1.0 | Baran Ayaztas | 24.1 kB | Security linter for non-GitHub CI pipelines: GitLab CI, CircleCI, Azure Pipelin… |
+| 2026-10-05 05:52:03 | [sshield](https://pypi.org/project/sshield/) | 0.1.0 | Baran Ayaztas | 17.7 kB | Audit SSH server and client configuration files for weak settings. |
+| 2026-10-05 05:52:27 | [nyxa-cloudflare](https://pypi.org/project/nyxa-cloudflare/) | 0.1.1b0 | Al-Amin Islam Nerob <alamin@a… | 11.5 kB | Cloudflare Workers deployment adapter for the Nyxa framework |
+| 2026-10-05 05:52:29 | [nyxa-server](https://pypi.org/project/nyxa-server/) | 0.1.1b0 | Al-Amin Islam Nerob <alamin@a… | 1.2 MB | Native HTTP/1.1 and WebSocket server for the Nyxa framework (install via nyxa[s… |
+| 2026-10-05 05:52:41 | [synthpop-test-py](https://pypi.org/project/synthpop-test-py/) | 0.0.0 | Synthpop Inc | 1.8 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-05 05:52:43 | [synthpop-tools-common-py](https://pypi.org/project/synthpop-tools-common-py/) | 0.0.0 | Synthpop Inc | 1.6 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-05 05:52:45 | [synthpop-tools-py](https://pypi.org/project/synthpop-tools-py/) | 0.0.0 | Synthpop Inc | 1.8 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-05 05:52:47 | [synthpop-usage](https://pypi.org/project/synthpop-usage/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-05 05:53:11 | [lk-tax-mcp](https://pypi.org/project/lk-tax-mcp/) | 0.1.0 | Shalom Hunukumbura | 86.8 kB | MCP server that gives AI assistants exact, sourced Sri Lankan tax calculations… |
+| 2026-10-05 05:53:17 | [depsweep](https://pypi.org/project/depsweep/) | 0.1.0 | Baran Ayaztas | 19.0 kB | Find supply-chain risks in npm and pip dependency files: install hooks, non-reg… |
+| 2026-10-05 05:55:53 | [eosh](https://pypi.org/project/eosh/) | 0.2.0 | craftware | 735.8 kB | A lightweight but powerful terminal shell with rich TAB completion and context… |
+| 2026-10-05 05:56:58 | [nyxa-speedups](https://pypi.org/project/nyxa-speedups/) | 0.1.1b0 | Al-Amin Islam Nerob <alamin@a… | 1.1 MB | Optional native accelerators for the Nyxa framework (install via nyxa[speed]) |
+| 2026-10-05 06:03:24 | [getyoutubetranscript-haystack](https://pypi.org/project/getyoutubetranscript-haystack/) | 0.1.0 | tubeagentkit | 11.2 kB | YouTube transcript fetcher for Haystack pipelines and agents: get YouTube video… |
+| 2026-10-05 06:03:32 | [llama-index-readers-getyoutubetranscript](https://pypi.org/project/llama-index-readers-getyoutubetranscript/) | 0.1.0 | tubeagentkit | 10.2 kB | YouTube transcript reader for LlamaIndex: load YouTube video transcripts (optio… |
+| 2026-10-05 06:09:52 | [arris](https://pypi.org/project/arris/) | 0.5.0 |  | 4.5 MB | A B-Rep geometric kernel: analytic and NURBS geometry, booleans with provenance… |
+| 2026-10-05 06:17:05 | [geniffy](https://pypi.org/project/geniffy/) | 0.1.0 | Geniffy <ops@geniffy.com> | 29.9 kB | Geniffy for Python: add notes, files and links to a memory, then search it and… |
+| 2026-10-05 06:17:59 | [deepak-chopra-meditation](https://pypi.org/project/deepak-chopra-meditation/) | 2.0.0 | Wellness Enterprises Inc | 4.8 kB | Deepak Chopra meditation guide - NEW MAINTAINER |
+| 2026-10-05 06:18:00 | [dc-meditate](https://pypi.org/project/dc-meditate/) | 1.0.0 | DC | 4.0 kB | Meditation tools |
+| 2026-10-05 06:18:01 | [dc-wellness-sdk](https://pypi.org/project/dc-wellness-sdk/) | 1.0.0 | DC | 4.1 kB | Wellness SDK by DC |
+| 2026-10-05 06:18:03 | [dc-multi](https://pypi.org/project/dc-multi/) | 1.0.1 | DC | 4.0 kB | DC multi release v2 |
+| 2026-10-05 06:18:13 | [acwr](https://pypi.org/project/acwr/) | 0.1.0 | Aditya Garg <gargaditya061@gm… | 524.1 kB | Acute:chronic workload ratios in Python, with the diagnostics to test whether t… |
+| 2026-10-05 06:18:46 | [gosce-minio-and-redis-storage-stack](https://pypi.org/project/gosce-minio-and-redis-storage-stack/) | 0.1.0 | Rawson Consulting B.V. | 5.8 kB | Generate a production-ready docker-compose.yml for a multi-service infrastructu… |
+| 2026-10-05 06:18:51 | [ownexit](https://pypi.org/project/ownexit/) | 0.3.0 |  | 256.1 kB | Turn a VPS you rent into your own fixed exit IP: direct or via a relay, set up… |
+| 2026-10-05 06:18:53 | [gosce-oauth-langchain-openai-agent](https://pypi.org/project/gosce-oauth-langchain-openai-agent/) | 0.1.0 | Rawson Consulting B.V. | 5.4 kB | Google-OAuth-gated LLM gateway: verify a Google ID token, then run a Gemini (Ve… |
+| 2026-10-05 06:19:00 | [gosce-encrypted-oauth-llm-agent](https://pypi.org/project/gosce-encrypted-oauth-llm-agent/) | 0.1.0 | Rawson Consulting B.V. | 5.3 kB | Google-OAuth-gated LLM gateway: verify a Google ID token, then run a Gemini (Ve… |

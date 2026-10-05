@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T05:22:45Z,versine,0.1.0,,MIT,111652,"Versine SDK for AI agents: sign assertions, verify users, request handshake codes."
+2026-10-05T05:33:05Z,pihanga-remote,0.1.0,Max Ott,MIT,1094936,Drive a Pihanga card UI (prebuilt generic bundle) from Python via JSON-Patch over WebSocket
+2026-10-05T05:35:45Z,hostile-facilitator,0.2.1,"AurumFlux AI, Inc",MIT,90474,"Retry-safety conformance battery for x402 payment clients — point your client at a facilitator that fails the way real ones do, and find out in 60s if it double-pays."
+2026-10-05T05:40:48Z,sorb-mcp,0.1.1,,,84047,Sorb task tools for external MCP agents
+2026-10-05T05:42:08Z,pyopenjtalk-ndy,0.4.2.post5,Ryuichi Yamamoto <zryuichi@gmail.com>,"The pyopenjtalk package is licensed under the MIT ""Expat"" License: > Copyright (c) 2018: Ryuichi Ya…",65944255,A python wrapper for OpenJTalk
+2026-10-05T05:42:40Z,sonic-logger,0.0.1b0,Aniruddh Gupta <aniruddh161680@gmail.com>,MIT,260963,"Lightweight, fast, clear structured logging for Python — FastAPI / Django / Flask integrations, auto error classification, request tracing with payload logging, an event-loop block watchdog, a resour…"
+2026-10-05T05:44:12Z,parsefabric,0.1.0,S MUNI HARISH <samamuniharish@gmail.com>,Apache-2.0,1040469,"Composable parsers that turn logs, JSON, command output and mixed text into structured events with traceable, losslessly aggregated evidence."
+2026-10-05T05:45:15Z,geosciml4china,0.1.0,geosciml4china contributors,Apache-2.0,2461511,"MapGIS → GeoSciML 4.1 conversion, DZ/T 0179-2025 semantic styling, rendering and verification for Chinese 1:250k geological map sheets"
+2026-10-05T05:48:31Z,open-prompt-format,0.2.0,,"MIT License Copyright (c) 2026 Open Prompt Format contributors Permission is hereby granted, free o…",97687,Load and render Open Prompt Format files
+2026-10-05T05:49:13Z,adversary-gate-mcp,2.9.0,AdversaryGate Authors <sanflow086@gmail.com>,MIT,4375,AdversaryGate as an MCP server: a fail-closed merge gate an agent calls before saying done
+2026-10-05T05:52:02Z,cicheck,0.1.0,Baran Ayaztas,MIT,24079,"Security linter for non-GitHub CI pipelines: GitLab CI, CircleCI, Azure Pipelines, Bitbucket, Drone, Travis."
+2026-10-05T05:52:03Z,sshield,0.1.0,Baran Ayaztas,MIT,17726,Audit SSH server and client configuration files for weak settings.
+2026-10-05T05:52:27Z,nyxa-cloudflare,0.1.1b0,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,11518,Cloudflare Workers deployment adapter for the Nyxa framework
+2026-10-05T05:52:29Z,nyxa-server,0.1.1b0,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,1185169,Native HTTP/1.1 and WebSocket server for the Nyxa framework (install via nyxa[server])
+2026-10-05T05:52:41Z,synthpop-test-py,0.0.0,Synthpop Inc,,1783,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-05T05:52:43Z,synthpop-tools-common-py,0.0.0,Synthpop Inc,,1589,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-05T05:52:45Z,synthpop-tools-py,0.0.0,Synthpop Inc,,1797,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-05T05:52:47Z,synthpop-usage,0.0.0,Synthpop Inc,,1484,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-05T05:53:11Z,lk-tax-mcp,0.1.0,Shalom Hunukumbura,MIT,86843,"MCP server that gives AI assistants exact, sourced Sri Lankan tax calculations (APIT, income tax, WHT, VAT, SSCL)."
+2026-10-05T05:53:17Z,depsweep,0.1.0,Baran Ayaztas,MIT,19034,"Find supply-chain risks in npm and pip dependency files: install hooks, non-registry sources, insecure URLs, typosquats."
+2026-10-05T05:55:53Z,eosh,0.2.0,craftware,MIT,735790,A lightweight but powerful terminal shell with rich TAB completion and context switching
+2026-10-05T05:56:58Z,nyxa-speedups,0.1.1b0,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,1086945,Optional native accelerators for the Nyxa framework (install via nyxa[speed])
+2026-10-05T06:03:24Z,getyoutubetranscript-haystack,0.1.0,tubeagentkit,MIT,11221,"YouTube transcript fetcher for Haystack pipelines and agents: get YouTube video transcripts (optionally with timestamps) as Documents, via the GetYouTubeTranscript API."
+2026-10-05T06:03:32Z,llama-index-readers-getyoutubetranscript,0.1.0,tubeagentkit,MIT,10241,"YouTube transcript reader for LlamaIndex: load YouTube video transcripts (optionally with timestamps) as Documents for RAG, via the GetYouTubeTranscript API. Works from cloud servers without proxies."
+2026-10-05T06:09:52Z,arris,0.5.0,,MIT OR Apache-2.0,4516841,"A B-Rep geometric kernel: analytic and NURBS geometry, booleans with provenance, tessellation, STEP"
+2026-10-05T06:17:05Z,geniffy,0.1.0,Geniffy <ops@geniffy.com>,MIT,29950,"Geniffy for Python: add notes, files and links to a memory, then search it and ask it."
+2026-10-05T06:17:59Z,deepak-chopra-meditation,2.0.0,Wellness Enterprises Inc,MIT,4773,Deepak Chopra meditation guide - NEW MAINTAINER
+2026-10-05T06:18:00Z,dc-meditate,1.0.0,DC,MIT,4013,Meditation tools
+2026-10-05T06:18:01Z,dc-wellness-sdk,1.0.0,DC,MIT,4114,Wellness SDK by DC
+2026-10-05T06:18:03Z,dc-multi,1.0.1,DC,MIT,4012,DC multi release v2
+2026-10-05T06:18:13Z,acwr,0.1.0,Aditya Garg <gargaditya061@gmail.com>,"MIT License Copyright (c) 2026 Aditya Garg Permission is hereby granted, free of charge, to any per…",524097,"Acute:chronic workload ratios in Python, with the diagnostics to test whether they mean anything"
+2026-10-05T06:18:46Z,gosce-minio-and-redis-storage-stack,0.1.0,Rawson Consulting B.V.,MIT,5818,"Generate a production-ready docker-compose.yml for a multi-service infrastructure stack — messaging (Kafka/ZooKeeper, RabbitMQ, NATS), object storage (MinIO), search (Elasticsearch/OpenSearch), databa"
+2026-10-05T06:18:51Z,ownexit,0.3.0,,MIT,256072,"Turn a VPS you rent into your own fixed exit IP: direct or via a relay, set up from your laptop over SSH."
+2026-10-05T06:18:53Z,gosce-oauth-langchain-openai-agent,0.1.0,Rawson Consulting B.V.,MIT,5416,"Google-OAuth-gated LLM gateway: verify a Google ID token, then run a Gemini (Vertex AI) completion for the verified caller."
+2026-10-05T06:19:00Z,gosce-encrypted-oauth-llm-agent,0.1.0,Rawson Consulting B.V.,MIT,5322,"Google-OAuth-gated LLM gateway: verify a Google ID token, then run a Gemini (Vertex AI) completion for the verified caller."
