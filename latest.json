@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 34,
-    "from": "2026-10-05T03:18:36.66931Z",
-    "path": "data/new-packages-2026-10-05T04-21-31-269095Z.csv",
-    "to": "2026-10-05T04:21:31.269095Z"
+    "count": 23,
+    "from": "2026-10-05T04:21:31.269095Z",
+    "path": "data/new-packages-2026-10-05T05-20-29-7637Z.csv",
+    "to": "2026-10-05T05:20:29.7637Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-05T03:11:44Z",
       "package": "onhand-mcp",
       "since": "2026-10-05T02:18:38.178706Z"
     }
   ],
-  "serial": 41823508,
+  "serial": 41824622,
   "source_truncated": false,
-  "window": "2026-10-05T04:21:31.269095Z"
+  "window": "2026-10-05T05:20:29.7637Z"
 }

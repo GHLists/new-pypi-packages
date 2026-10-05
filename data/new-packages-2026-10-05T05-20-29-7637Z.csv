@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T04:23:40Z,xlogger-py,0.3.0,K.NAKADA,,26678,logger
+2026-10-05T04:25:42Z,aforo-agent-metering,0.3.2,Aforo <engineering@aforo.ai>,Apache-2.0,52895,"Aforo AI Agent Metering SDK — instrument agent runs (sessions, steps, capability calls) for billing and analytics"
+2026-10-05T04:28:22Z,induslms-agent,0.3.1,IndusLMS Agent contributors,GPL-3.0-or-later,70193,"Read-only agent access to Indus LMS academics: announcements, assignments, shared resources, attendance"
+2026-10-05T04:31:50Z,plimsoll-client,0.19.0,,Apache-2.0,109350,"Client for plimsolld, the plimsoll sandbox daemon, that checks every run record it receives"
+2026-10-05T04:33:27Z,azizilab-sherlock,0.1.0,"Mingxuan Zhang, Joshua D. Myers, Lingting Shi, Azizi Lab",CC-BY-NC-ND-4.0,221527,SHERLOCK: structured representation learning and causal inference of downstream perturbation effects in single-cell data
+2026-10-05T04:35:00Z,pyR0compute,0.1.0,Yvan Baldera-Moreno,MIT,45795,Symbolic computation of the basic reproduction number R0 via the next-generation matrix method
+2026-10-05T04:36:06Z,odoo-addon-sustainability-account-asset-management,16.0.1.0.0.7,"MCO2, Open Net Sàrl",AGPL-3,22392,Glue module to make sustainability module compatible with assets management from OCA
+2026-10-05T04:36:06Z,odoo-addon-sustainability-product-label-print,18.0.1.1.0.3,=?utf-8?q?MCO2=2C_Open_Net_S=C3=A0rl?=,LGPL-3,22608,Sustainability Product Label Print
+2026-10-05T04:36:09Z,odoo-addon-sustainability-employee-commuting,16.0.1.0.0.17,"MCO2, Open Net Sàrl",AGPL-3,33607,Module for employee commuting co2
+2026-10-05T04:37:35Z,endorouter,0.1.0,"""J. I. Ashley Consulting LLC"" <hello@smtry.ai>",Apache-2.0,162777,A model router that decides where a prompt is allowed to go before it decides which model is best. Default local; cloud only when provenance says public. Every decision audited.
+2026-10-05T04:37:40Z,kymora,0.7.0,,MIT,9112408,"Fast time-series feature extraction, Rust core"
+2026-10-05T04:44:24Z,dynamo-figures,0.3.5,Dynamic Mobility Lab at Georgia Tech,,482277,A Python package for figure generation
+2026-10-05T04:46:13Z,pyheor,0.4.0,PyHEOR Team,AGPL-3.0-or-later,257762,Python Health Economics Research Optimizer - A framework for Markov cohort models and cost-effectiveness analysis
+2026-10-05T04:47:12Z,voicemaster,0.1.0,Rahul Wale,,150737,"Real-time AI phone calls: Gemini Live bridged to Vobiz and Twilio, with call reports, tools and knowledge search."
+2026-10-05T04:50:20Z,livesynth,0.0.1,"Kyungsu Kim, Yejin Kim, Kyogu Lee",MIT,4874,LiveSynth: a streaming neural synthesizer for instrument cloning and text-to-instrument (first release coming soon)
+2026-10-05T04:54:11Z,chardet-rs,0.1.0,Thanatos,,3929785,Universal character encoding detector — Rust port of chardet 7
+2026-10-05T04:55:39Z,genesis-sandbox-client-python,0.1.0,caoshouling,Apache-2.0,98968,"Dependency-free Python client SDK for Genesis Sandbox (sessions, jobs, WorkspaceFS, artifacts)"
+2026-10-05T05:04:23Z,pytlsclient,1.0.1,Seppuku2k,MIT,107953165,Advanced Python HTTP Client.
+2026-10-05T05:04:41Z,mvn-moments,0.1.0a1,Abhijeet Kulkarni,BSD-3-Clause,6955262,"Raw moments of a multivariate normal distribution over a rectangle, built for real-time loops"
+2026-10-05T05:08:05Z,cred-leak-barkure-acceptance,0.0.3.dev20261005050800,,,303,Synthetic security acceptance fixtures
+2026-10-05T05:13:57Z,curve-manager,0.4.0,Grayjou <your.email@example.com>,MIT,131802,"2D Bézier curve management with constraints, smoothing, and canonical curve geometry (curve_manager)"
+2026-10-05T05:15:20Z,crabxl,0.1.0a1,,MIT,29813850,Rust spreadsheet processing with an openpyxl-compatible Python surface
+2026-10-05T05:18:51Z,login-gui-win,0.0.3,小王 <1063007508@qq.com>,,8812,Windows Tkinter登录GUI，注册表存储账号，支持注册/改密/下拉注销
