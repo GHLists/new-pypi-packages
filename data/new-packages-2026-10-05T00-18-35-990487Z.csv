@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-04T23:22:14Z,robotframework-snapshot,0.1.1,Tim de Groot,MIT,70161,Snapshot testing for text and structured data in Robot Framework
+2026-10-04T23:24:16Z,compaction-conformance-kit,0.1.1,Yuriy H,MIT,58889,"Find out what your AI agent forgets when context compaction runs: typed canaries, per-type survival curves, and cliff detection for safety rules, facts, and task state."
+2026-10-04T23:33:03Z,evidence-gap-router,0.1.0,K. Takahashi,Apache-2.0,137012,"Route work by missing evidence, not by agent count."
+2026-10-04T23:36:23Z,agentdatabase,0.1.0,DatoSurf <team@datosurf.com>,AGPL-3.0,180090,Governed memory layer for AI agents
+2026-10-04T23:37:02Z,prestige-uvs,0.2.0,Prestige Authors,Apache-2.0,115590048,Content-deduplicated key-value store with optional semantic deduplication
+2026-10-04T23:39:17Z,pdfua,0.1.2,Abdul Afif Al Kaysan <alkaysan07@gmail.com>,MIT,93566,"Check the machine-checkable subset of PDF/UA-1 and WCAG 2.1 for PDFs in Python, built on pikepdf with no JVM"
+2026-10-04T23:40:51Z,dns-shield,0.1.2,Abdul Afif Al Kaysan <alkaysan07@gmail.com>,MIT,112689,Detect ISP DNS poisoning and work around it with DNS-over-HTTPS and SNI-preserving connections.
+2026-10-04T23:43:53Z,utilspilw,0.1.1,,,108001,"Utilidades, animaciones y procesamiento de archivos .toml"
+2026-10-04T23:44:29Z,nexus-a2a-sdk,0.5.0,Cyber Strategy Institute <sdk@cyberstrategyinstitute.com>,Apache-2.0,294834,"NEXUS SDK: deterministic governance for agent, tool, and payment execution"
+2026-10-04T23:45:05Z,readystack-angular-removed-api-lint,1.0.7,ReadyStack <support@getreadystack.com>,Proprietary - see LICENSE.txt,38541,"32 checks for Angular APIs that were removed or deprecated, plus the support window on your version pin. The bundled legacy fixture — one NgModule file and its spec — returns 34 findings, 9 of them e…"
+2026-10-04T23:45:25Z,rulestamp-auditor-ibs-cbs-nfe,0.1.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,29883,A rejeição por falta de IBS/CBS foi suspensa em 31/07/2026: sua NF-e é autorizada mesmo errada. Este auditor lê o XML no editor e aponta o que a SEFAZ deixou passar. (bundled Node.js runtime)
+2026-10-04T23:45:40Z,calphad-io,0.1.2,Abdul Afif Al Kaysan <alkaysan07@gmail.com>,MIT,217596,"Read, write and validate CALPHAD thermodynamic databases (Thermo-Calc .TDB and ChemSage/FactSage .DAT)"
+2026-10-04T23:45:43Z,rulestamp-autorenew-signup-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36141,"Sixteen statutory checks on the signup page AB 2863 rewrote, in your editor and in the browser (bundled Node.js runtime)"
+2026-10-04T23:46:00Z,rulestamp-biometric-consent-audit,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36295,"14 rules over face, fingerprint and voiceprint code: written release, destruction schedule, the 1095-day cap and the three EU AI Act prohibitions (bundled Node.js runtime)"
+2026-10-04T23:48:40Z,nemo-agent-toolkit-tenuo,0.1.0,,Apache-2.0,160390,Task-scoped Tenuo authorization for NVIDIA NeMo Agent Toolkit
+2026-10-04T23:49:36Z,GetFootballData,0.1.1,Max Newby,AGPL-3.0-or-later,72140,"Scrapers for FotMob, SofaScore and Transfermarkt"
+2026-10-04T23:50:58Z,rfc5322,1.0.1,Abdul Afif Al Kaysan <alkaysan07@gmail.com>,MIT,45078,"RFC 5322 conformant email address parser — dependency-free, spec-tested, with full obsolete-grammar support"
+2026-10-04T23:51:24Z,tramamind,0.5.0,bitfarmy,MIT,95477,"Local proxy that caps chat context, keeps recent turns and code verbatim, and prints the tokens it did not send."
+2026-10-04T23:54:33Z,django-subadmin-unfold,1.0.0,,MIT,28840,Django Unfold integration for django-subadmin
+2026-10-05T00:00:53Z,occultations,0.1.0,trice,,42167,Lunar occultation timings and visibility maps
+2026-10-05T00:03:02Z,atlas-backend,0.1.0,Atlas,MIT,47913,Official Python backend SDK for Atlas — a typed client over the sk_ Backend API (BAPI).
+2026-10-05T00:03:21Z,q2c,0.1.1,,MIT,397168,"Reliable handoff infrastructure for AI coding agents — q2c guarantees the handoff, not the outcome."
+2026-10-05T00:08:55Z,kemperrig,0.1.0,Mike Farr,Apache-2.0,267661,"Reader for Kemper Profiler Rig Manager backups (.rmbackup) and the live Rig Manager library — rigs, performances, presets, and the SysEx inside them"
+2026-10-05T00:11:27Z,chadwickpy,0.1.0,C. B. Winslow,GPL-3.0-or-later,360890,"Pure-Python port of the Chadwick baseball tools (cwevent, cwgame, cwdaily, cwsub, cwcomment, cwbox). No compiler needed."
+2026-10-05T00:14:02Z,ledfx-senders,0.2.0,LedFx Developers,GPL-3.0 License,37945065,Native packet senders for Python applications
+2026-10-05T00:15:31Z,foundry-core,0.1.0rc1,,,41316324,"Foundry: CUDA graph persistence for LLM serving engines (save captured CUDA graphs, restore them at startup)"
+2026-10-05T00:15:38Z,awire,0.1.0,,,3307609,

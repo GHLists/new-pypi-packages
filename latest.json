@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-10-04T22:19:55.891568Z",
-    "path": "data/new-packages-2026-10-04T23-20-48-799312Z.csv",
-    "to": "2026-10-04T23:20:48.799312Z"
+    "count": 27,
+    "from": "2026-10-04T23:20:48.799312Z",
+    "path": "data/new-packages-2026-10-05T00-18-35-990487Z.csv",
+    "to": "2026-10-05T00:18:35.990487Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-04T19:53:47Z",
-      "package": "langchain-holographic",
-      "since": "2026-10-04T19:21:26.108547Z"
+      "attempts": 1,
+      "created_at": "2026-10-05T00:04:23Z",
+      "package": "alphawire",
+      "since": "2026-10-04T23:20:48.799312Z"
     }
   ],
-  "serial": 41817613,
+  "serial": 41818630,
   "source_truncated": false,
-  "window": "2026-10-04T23:20:48.799312Z"
+  "window": "2026-10-05T00:18:35.990487Z"
 }
