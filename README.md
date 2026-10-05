@@ -8,30 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 02:18 UTC
+## Latest list — 2026-10-05 03:18 UTC
 
-New packages created between 2026-10-05 01:18 UTC and 2026-10-05 02:18 UTC.
+New packages created between 2026-10-05 02:18 UTC and 2026-10-05 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-05T02-18-38-178706Z.csv)
+[Full CSV](data/new-packages-2026-10-05T03-18-36-66931Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-05 01:20:32 | [rtidb](https://pypi.org/project/rtidb/) | 0.8.0 |  | 363.3 kB | Python bindings for rti-db, the hard-real-time embedded time-series data engine |
-| 2026-10-05 01:20:50 | [whisperers](https://pypi.org/project/whisperers/) | 0.1.0a1 | Soham Padia <sohampadia10@gma… | 68.7 kB | Find token prefixes that push a language model's internals (a residual directio… |
-| 2026-10-05 01:22:14 | [stillvalid](https://pypi.org/project/stillvalid/) | 0.1.2 |  | 97.4 kB | Is this information still valid? A validity layer between retrieval and action… |
-| 2026-10-05 01:23:13 | [torchspin](https://pypi.org/project/torchspin/) | 0.3.0 | Alec Follmer <ahfollmer@ucdav… | 966.0 kB | Differentiable PyTorch port of EasySpin - EPR/ESR spin Hamiltonian and spectrum… |
-| 2026-10-05 01:28:31 | [aitwi-crm](https://pypi.org/project/aitwi-crm/) | 0.1.0 |  | 110.8 kB | The business system, as a Python library: every CRM function, run for your busi… |
-| 2026-10-05 01:32:20 | [tn-venv-gui](https://pypi.org/project/tn-venv-gui/) | 0.1.0 | Tokenoodle-Everything Organiz… | 31.9 kB | A graphical GUI frontend built upon the tn-venv virtual environment manager. |
-| 2026-10-05 01:32:35 | [torchrolling](https://pypi.org/project/torchrolling/) | 0.1.0 | Lena Barretta | 172.2 kB | Pandas-style rolling and exponentially weighted statistics for PyTorch tensors,… |
-| 2026-10-05 01:37:38 | [didis-py](https://pypi.org/project/didis-py/) | 0.1.0 | DID.is | 21.5 kB | Official Python SDK for the DID.is public API: DID resolution with evidence, cr… |
-| 2026-10-05 01:39:31 | [dbx-tools-model-proxy](https://pypi.org/project/dbx-tools-model-proxy/) | 0.9.31 |  | 501.9 kB | LiteLLM proxy backed by Node-owned Databricks authentication and dynamic model… |
-| 2026-10-05 01:39:51 | [srini-curation-test-20261005-24384](https://pypi.org/project/srini-curation-test-20261005-24384/) | 0.0.1 |  | 2.6 kB | Throwaway test package for JFrog Curation testing |
-| 2026-10-05 01:40:32 | [agent-reliability-otel-labels](https://pypi.org/project/agent-reliability-otel-labels/) | 0.1.0 |  | 35.5 kB | Process-metadata labels for OpenTelemetry agent spans |
-| 2026-10-05 01:46:49 | [network-terminal-mcp](https://pypi.org/project/network-terminal-mcp/) | 0.1.1 | Evgeny Zhuravlev | 202.9 kB | Session-oriented MCP server for interactive network device terminals |
-| 2026-10-05 01:48:06 | [streamlit-segment-slider](https://pypi.org/project/streamlit-segment-slider/) | 0.1.0 | pjpeacock <philip.j.peacock@g… | 24.2 kB | A multi-handle range slider for Streamlit -- split a range into any number of s… |
-| 2026-10-05 01:58:19 | [rheopy-rheomodel](https://pypi.org/project/rheopy-rheomodel/) | 0.1.0 | Marco Caggioni | 436.0 kB | Rheological constitutive models with verified academic citations |
-| 2026-10-05 01:59:24 | [fourier-samples](https://pypi.org/project/fourier-samples/) | 0.1.0 | The Fourier Samples authors | 1.7 MB | Curate a sample library into device-ready folders for hardware samplers |
-| 2026-10-05 02:00:27 | [rebot-rtde](https://pypi.org/project/rebot-rtde/) | 0.1.0 |  | 32.6 kB | Python RTDE client for the reBot control box |
-| 2026-10-05 02:08:28 | [streampile](https://pypi.org/project/streampile/) | 0.1.0 | Clint Valentine <valentine.cl… | 74.6 kB | Forward-only pileups streamed from coordinate-sorted SAM, BAM, and CRAM records. |
-| 2026-10-05 02:09:33 | [gausscam](https://pypi.org/project/gausscam/) | 0.1.0 |  | 33.8 kB | 3D Gaussian Splatting sensor rendering for physics simulators (torch-free backe… |
-| 2026-10-05 02:16:40 | [tenergy](https://pypi.org/project/tenergy/) | 0.1.0b0 | TEnergy | 31.5 kB | Python SDK for the TEnergy TRON energy rental API |
+| 2026-10-05 02:18:58 | [mavis-track](https://pypi.org/project/mavis-track/) | 0.1.0 | Jonathan Shulgach <jshulgac@a… | 430.5 kB | Hand landmark tracking, triangulation, kinematics, and streaming toolkit |
+| 2026-10-05 02:20:40 | [launchhelm](https://pypi.org/project/launchhelm/) | 0.1.0 |  | 367.8 kB | LaunchHelm client and cooperative workload runtime |
+| 2026-10-05 02:20:59 | [gtotr](https://pypi.org/project/gtotr/) | 0.1.0 | Danny Dunlavy <dmdunla@sandia… | 64.9 kB | Generalized Tensor-on-Tensor Regression (GToTR) |
+| 2026-10-05 02:21:22 | [partloom](https://pypi.org/project/partloom/) | 0.0.1 |  | 8.7 kB | Building blocks for reusable 3D printing workflows |
+| 2026-10-05 02:29:45 | [hands-free-voice](https://pypi.org/project/hands-free-voice/) | 0.1.2 | Nicholas Yuan | 180.5 kB | Hands-free voice for Claude Code: the audio half of the hands-free-voice mod, a… |
+| 2026-10-05 02:36:13 | [swearbench](https://pypi.org/project/swearbench/) | 0.2.1 |  | 44.3 kB | Rank AI coding models by how much they made you swear and how often their work… |
+| 2026-10-05 02:36:59 | [tracereports](https://pypi.org/project/tracereports/) | 0.2.0 | Jose Lopez | 68.0 kB | TraceReports client: reports test steps, screenshots and browser network to a T… |
+| 2026-10-05 02:37:01 | [esbi-cli](https://pypi.org/project/esbi-cli/) | 0.2.1 | Rubén Melo | 277.7 kB | Turns the PDFs, links and emails you save into a Markdown wiki of summaries, gl… |
+| 2026-10-05 02:49:20 | [lamina3d](https://pypi.org/project/lamina3d/) | 0.2.2 |  | 13.5 MB | Lamina: turns 3D models into flat cut parts (stacked, interlocked, radial, ribb… |
+| 2026-10-05 02:57:55 | [mirrorneuron-prism](https://pypi.org/project/mirrorneuron-prism/) | 0.3.0 | Prism contributors | 418.6 kB | OpenAI-compatible proxy for bounded text, vision, and reasoning model workflows |
+| 2026-10-05 03:01:34 | [nhanes-mcp](https://pypi.org/project/nhanes-mcp/) | 0.5.1 | Black Swan Causal Labs | 70.9 kB | MCP server for design-correct, conversational access to NHANES public-use data… |
+| 2026-10-05 03:02:08 | [vexicon](https://pypi.org/project/vexicon/) | 0.6.0 | estasney | 54.5 kB | Hybrid vector + keyword MCP server powered by chroma and sqlite |
+| 2026-10-05 03:04:59 | [candlefeed-mcp](https://pypi.org/project/candlefeed-mcp/) | 0.1.0 | CandleFeed <support@candlefee… | 43.0 kB | MCP server for CandleFeed: download Binance USD-M order book days, rebuild the… |
+| 2026-10-05 03:10:36 | [ariadne-re](https://pypi.org/project/ariadne-re/) | 0.1.0 |  | 135.0 kB | A thread through the labyrinth of obfuscated binaries. |
+| 2026-10-05 03:10:36 | [gpa-calculator-TBD](https://pypi.org/project/gpa-calculator-TBD/) | 0.0.1 | Hai Dang Le, Esther Finotti,… | 5.9 kB | A GPA Calculator package |
+| 2026-10-05 03:11:06 | [xptycho](https://pypi.org/project/xptycho/) | 0.1.0 | Charles A. Bouman, Brendt Woh… | 63.4 kB | Ptychographic reconstruction with PMACE in PyTorch |
+| 2026-10-05 03:13:50 | [tina-tui](https://pypi.org/project/tina-tui/) | 0.1.0 | 王出日 <wangchuri@163.com> | 51.2 kB | tina 的终端界面（Textual）扩展 |
+| 2026-10-05 03:13:54 | [tina-multi-agent](https://pypi.org/project/tina-multi-agent/) | 0.1.0 | 王出日 <wangchuri@163.com> | 77.6 kB | tina 的实验性多 Agent 场景（消息总线 + Web 调试控制台） |
+| 2026-10-05 03:15:42 | [zigraf-ir](https://pypi.org/project/zigraf-ir/) | 0.1.0 | "Gong, Wen" <lucywang1049@gma… | 48.3 kB | graph.yaml intermediate representation: schema, validator and graph transforms… |
+| 2026-10-05 03:18:19 | [releasetrain-triage-bench](https://pypi.org/project/releasetrain-triage-bench/) | 0.1.0 | SE4CPS | 51.4 kB | A reproducible benchmark harness for measuring guardrail compliance in agentic… |

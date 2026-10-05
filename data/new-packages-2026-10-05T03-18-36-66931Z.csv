@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T02:18:58Z,mavis-track,0.1.0,Jonathan Shulgach <jshulgac@andrew.cmu.edu>,MIT,430482,"Hand landmark tracking, triangulation, kinematics, and streaming toolkit"
+2026-10-05T02:20:40Z,launchhelm,0.1.0,,Apache-2.0,367837,LaunchHelm client and cooperative workload runtime
+2026-10-05T02:20:59Z,gtotr,0.1.0,"Danny Dunlavy <dmdunla@sandia.gov>, Carlos Llosa <cjllosa@sandia.gov>, Jeremy Myers <jeremy.moulton…","BSD 2-Clause License Copyright (c) 2026, National Technology & Engineering Solutions of Sandia, LLC…",64913,Generalized Tensor-on-Tensor Regression (GToTR)
+2026-10-05T02:21:22Z,partloom,0.0.1,,,8674,Building blocks for reusable 3D printing workflows
+2026-10-05T02:29:45Z,hands-free-voice,0.1.2,Nicholas Yuan,MIT,180466,"Hands-free voice for Claude Code: the audio half of the hands-free-voice mod, and a standalone voice front end."
+2026-10-05T02:36:13Z,swearbench,0.2.1,,MIT,44306,"Rank AI coding models by how much they made you swear and how often their work shipped, from your own local chat logs."
+2026-10-05T02:36:59Z,tracereports,0.2.0,Jose Lopez,Apache-2.0,67963,"TraceReports client: reports test steps, screenshots and browser network to a TraceReports server. Includes a pytest plugin."
+2026-10-05T02:37:01Z,esbi-cli,0.2.1,Rubén Melo,MIT,277710,"Turns the PDFs, links and emails you save into a Markdown wiki of summaries, glossaries and connections, written by a local or cloud language model."
+2026-10-05T02:49:20Z,lamina3d,0.2.2,,AGPL-3.0-or-later,13489169,"Lamina: turns 3D models into flat cut parts (stacked, interlocked, radial, ribbed, folded panels) for paper, cardboard and sheet metal"
+2026-10-05T02:57:55Z,mirrorneuron-prism,0.3.0,Prism contributors,MIT,418612,"OpenAI-compatible proxy for bounded text, vision, and reasoning model workflows"
+2026-10-05T03:01:34Z,nhanes-mcp,0.5.1,Black Swan Causal Labs,MIT,70946,"MCP server for design-correct, conversational access to NHANES public-use data (Black Swan Causal Labs)"
+2026-10-05T03:02:08Z,vexicon,0.6.0,estasney,MIT,54495,Hybrid vector + keyword MCP server powered by chroma and sqlite
+2026-10-05T03:04:59Z,candlefeed-mcp,0.1.0,CandleFeed <support@candlefeed.ai>,MIT,42974,"MCP server for CandleFeed: download Binance USD-M order book days, rebuild the book, and query spreads and depth, plus candles, funding, open interest and liquidations."
+2026-10-05T03:10:36Z,ariadne-re,0.1.0,,GPL-2.0-or-later,135014,A thread through the labyrinth of obfuscated binaries.
+2026-10-05T03:10:36Z,gpa-calculator-TBD,0.0.1,"Hai Dang Le, Esther Finotti, Miles Porter, Yasemin Fekadu, Sam Haddad",,5910,A GPA Calculator package
+2026-10-05T03:11:06Z,xptycho,0.1.0,"Charles A. Bouman, Brendt Wohlberg, Gregery T. Buzzard",BSD-3-Clause,63404,Ptychographic reconstruction with PMACE in PyTorch
+2026-10-05T03:13:50Z,tina-tui,0.1.0,王出日 <wangchuri@163.com>,Apache Software License,51183,tina 的终端界面（Textual）扩展
+2026-10-05T03:13:54Z,tina-multi-agent,0.1.0,王出日 <wangchuri@163.com>,Apache Software License,77596,tina 的实验性多 Agent 场景（消息总线 + Web 调试控制台）
+2026-10-05T03:15:42Z,zigraf-ir,0.1.0,"""Gong, Wen"" <lucywang1049@gmail.com>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",48315,"graph.yaml intermediate representation: schema, validator and graph transforms shared across the ZiNets ecosystem"
+2026-10-05T03:18:19Z,releasetrain-triage-bench,0.1.0,SE4CPS,MIT,51367,A reproducible benchmark harness for measuring guardrail compliance in agentic software-update triage systems.

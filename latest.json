@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 19,
-    "from": "2026-10-05T01:18:42.138548Z",
-    "path": "data/new-packages-2026-10-05T02-18-38-178706Z.csv",
-    "to": "2026-10-05T02:18:38.178706Z"
+    "count": 20,
+    "from": "2026-10-05T02:18:38.178706Z",
+    "path": "data/new-packages-2026-10-05T03-18-36-66931Z.csv",
+    "to": "2026-10-05T03:18:36.66931Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-05T00:04:23Z",
       "package": "alphawire",
       "since": "2026-10-04T23:20:48.799312Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-05T03:11:44Z",
+      "package": "onhand-mcp",
+      "since": "2026-10-05T02:18:38.178706Z"
     }
   ],
-  "serial": 41820945,
+  "serial": 41822182,
   "source_truncated": false,
-  "window": "2026-10-05T02:18:38.178706Z"
+  "window": "2026-10-05T03:18:36.66931Z"
 }
