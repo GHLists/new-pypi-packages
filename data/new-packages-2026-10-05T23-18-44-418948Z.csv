@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T22:20:30Z,tare-cli,0.2.0,Andre Ratzenberger,MIT,162192,Prove your coding agent starts without your personal setup before you measure it.
+2026-10-05T22:23:39Z,taiwan-legal-deid,0.1.1,LawChat <opensource@lawchat.com.tw>,MIT AND Apache-2.0,6933732,台灣法律文件去識別化：人名、個資、私人機構換成擬真假名，留對照表可還原（本機 CPU 執行）
+2026-10-05T22:27:42Z,mcp-local-telemetry,0.1.1,Jamie643,MIT,10787,A lightweight MCP server that feeds local system telemetry to AI agents.
+2026-10-05T22:30:39Z,conjunctions,0.1.0,trice,MIT,24721,"Find conjunctions of the Moon, planets, bright stars and star clusters using Skyfield"
+2026-10-05T22:31:04Z,openppc,0.1.1,Shivendra Rawat,MIT,182330,Read-only Google Ads audits where every number is traced back to your own export.
+2026-10-05T22:35:14Z,hci-scan,0.8.0,HCI contributors,MIT,217780,Hardcoded Credential Investigator — find leaked secrets in your code and learn how to remediate them.
+2026-10-05T22:35:51Z,nocville,0.2.0,Nocville Team,MIT,19537,Nocville Status Pusher SDK for Python
+2026-10-05T22:37:55Z,aether-automation-engine,30.0.0,Dominik Mikszuta <dominik.mikszuta@outlook.com>,MIT,70828,AETHER-QM: Quantum Meta Automation Engine.
+2026-10-05T22:40:50Z,irl-gateway,0.2.0,,MIT,43651,"MCP trading gateway for AI agents: IRL pre-trade policy, sealed rationale, and verifiable fills."
+2026-10-05T22:45:35Z,smeltery,0.0.1,Matthew Goldey,MIT OR Apache-2.0,47703,"A tiered, measurement-disciplined funnel for biochemical systems, over ferric."
+2026-10-05T22:47:10Z,mcp-spatial-perception,0.1.2,jamie643 <jamesliberty330@gmail.com>,MIT,9449,An MCP server exposing real-time spatial perception queries from DePIN edge-vision nodes to LLM agents.
+2026-10-05T22:51:25Z,supermoon,0.1.0,Tony Rice <tony@rtphokie.org>,MIT,27491,Find supermoons according to each of the popular (and conflicting) definitions
+2026-10-05T22:52:13Z,strands-couchbase,0.1.0,Couchbase Ecosystem <devadvocacy@couchbase.com>,Apache-2.0,65598,Couchbase Hyperscale Vector Search MemoryStore extension for Strands Agents
+2026-10-05T22:56:18Z,proper-wse,2.5.0,silvermpx,MIT,41105986,"Fork of wse-server, the Rust-powered WebSocket engine for Python, maintained for Proper. Imports as wse_server."
+2026-10-05T22:58:39Z,openmv-ota,1.0.1,OpenMV <openmv@openmv.io>,MIT,2165285,"Secure over-the-air updates for OpenMV cameras: signed, encrypted releases, staged rollouts, and automatic rollback."
+2026-10-05T22:59:26Z,aw-appservice-custom-ai-middleware-extension,0.3.4,,,155647,Building blocks for agents hosted behind an EasyAuth-fronted App Service.
+2026-10-05T23:00:13Z,pygametorch,0.1.0,GameTorch Developer <216087407+gametorch@users.noreply.github.com>,MIT,95285,"Official Python SDK for the GameTorch API: generate game-ready sprites, sound effects and animations."
+2026-10-05T23:00:46Z,pytest-sentry-capture,0.1.1,Thomas Adamcik <thomas@adamcik.no>,Apache-2.0,59242,Pytest fixtures and inspection helpers for captured Sentry events
+2026-10-05T23:00:49Z,pytest-otel-capture,0.1.1,Thomas Adamcik <thomas@adamcik.no>,Apache-2.0,64603,In-memory OpenTelemetry capture and inspection helpers for Python tests
+2026-10-05T23:01:28Z,mountable,0.1.0,,Apache-2.0,20478685,The Mountable CLI: mount a Mountable filesystem on Linux or macOS.
+2026-10-05T23:05:45Z,tern-sdk,0.1.0,"Stencil Labs, Inc.",MIT,118163,"Talk to Tern over the Tern Surface Protocol: typed nodes, diffing, flow control, events, and a plain-text fallback."
+2026-10-05T23:05:54Z,agno-aer1,0.1.0,Brennan Zambo,,11928,AER-1 verifiable execution receipts for Agno agents: one checkable receipt per tool call.
