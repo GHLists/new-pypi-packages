@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T19:20:41Z,stabilization-uplift,0.1.2,zypl.ai,MIT,16152,Stabilization Score (SS) and Stabilization Uplift (SU) metrics for evaluating model drift under distribution shocks
+2026-10-05T19:21:26Z,pista-core,0.0.0,Alberto Scomparin <alberto.scomparin@live.com>,UNLICENSED,57577,"PISTA Core — cycling telemetry analysis engine: FIT ingestion, metrics, alignment."
+2026-10-05T19:23:26Z,playbook-scheduler,0.1.0,Andreas Dvorak,Apache-2.0,82018,A file-based scheduler and reporter for Ansible playbooks
+2026-10-05T19:23:29Z,kg-memory,0.12.0,,MIT,632375,"Knowledge-graph memory for coding agents: Claude Code, Codex CLI and Antigravity CLI share one local memory server."
+2026-10-05T19:26:20Z,featuregraph-core,0.1.0,Nazia Habib,MIT,48712,FeatureGraph Developer Toolkit
+2026-10-05T19:34:44Z,evd-host,0.2.0,,,11551810,Computer SDK and CLI for the EVD Android server
+2026-10-05T19:37:14Z,port-allocator,0.1.0,Vikas budde,MIT,47863,Universal cross-product dynamic port allocator and global service registry
+2026-10-05T19:42:23Z,rerato,0.0.1,Rerato Inc <hello@computeruse.si>,Apache-2.0,1986,"Python SDK for Rerato, the license network for AI agents."
+2026-10-05T19:54:38Z,wavenet-coding,0.1.0,Quan Wang,,125101,WaveNet Based Low Rate Speech Coding (Parametric & Waveform)
+2026-10-05T20:00:48Z,ophix-docs,2026.10.4.1,Ophix Project,MIT,111772,Inline markdown documentation plugin for Ophix fleet management servers
+2026-10-05T20:01:30Z,ophix-client-management,2026.10.4.1,Ophix Project,MIT,45090,Client management and token rotation policy for Ophix Project servers
+2026-10-05T20:02:35Z,ophix-dbengine-mariadb,2026.10.4.1,Ophix Project,MIT,8294,MariaDB/MySQL database driver plugin for Ophix Project Servers
+2026-10-05T20:03:35Z,ophix-dbengine-postgres,2026.10.4.1,Ophix Project,MIT,7391,PostgreSQL database driver plugin for Ophix Project Servers
+2026-10-05T20:08:21Z,telescraper,0.1.0,Sheth jenil,,1302576,Pure Synchronous Telegram MTProto Client & Scraping Engine for Python.
+2026-10-05T20:12:16Z,velocityllm,0.1.0,,,231153,"SLA-aware request scheduling for LLM serving, with a mock engine, an API server and benchmark tools"
+2026-10-05T20:14:41Z,allfileorg,1.0.0,UWASE UTUJE Sandrine <utujesandrine456@gmail.com>,MIT,27388,Automatic and intelligent file organizer for desktops and directories.
+2026-10-05T20:15:54Z,frostsnip,0.1.0,frostSnip,MIT,9607,Install and launch frostSnip (privacy-first snipping tool)
