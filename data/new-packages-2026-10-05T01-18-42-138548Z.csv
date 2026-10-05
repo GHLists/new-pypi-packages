@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T00:26:46Z,openbionews,0.4.0,OpenBioNews contributors,MIT,152109,"Free, self-hosted tool that turns biopharma primary sources (ClinicalTrials.gov, openFDA, SEC EDGAR) into a daily brief with per-sentence citations. Deterministic by default; bring your own LLM, or n…"
+2026-10-05T00:27:33Z,yootheme-mcp,0.11.3,GMC <gmcfuerte@gmail.com>,LicenseRef-GMC-Commercial,216802,MCP server and CLI for YOOtheme Pro 5 on WordPress and Joomla. Read-only tools are free.
+2026-10-05T00:29:57Z,sprintnodes,0.0.1,SprintNodes team,,5443,SprintNodes – AI Orchestrator. This package name is officially reserved by the SprintNodes team. The software is currently under development. Visit sprintnodes.com for updates.
+2026-10-05T00:33:34Z,manga-translator,0.3.0,Indra Gunanda,MIT,20206535,Offline-first manga translation CLI with optional LLM post-editing
+2026-10-05T00:34:49Z,signapy,0.1.0a1,Carlos Meisel,MIT,95973,"Mixed categorical, continuous, and ordinal feature discovery for labeled datasets."
+2026-10-05T00:40:18Z,violet-sdk,0.1.0,Violet,MIT,91662,"Python SDK for the Violet Messages API with keyless (Auth0, API key) authentication."
+2026-10-05T00:46:19Z,nmt-forge,0.2.0,Curtis Forbes,PolyForm-Noncommercial-1.0.0,883665,"NMT training suite that makes catalogued training/eval mistakes structurally hard — group-disjoint splits, dev fencing, leak audits, CIs by default, preregistration — from a CPU-sized first model to…"
+2026-10-05T00:51:09Z,bigif,1.0.0,Big If True,MIT,15180,"The official Python SDK for the Big If True API (Big, Disco and Ticker, OpenAI-compatible)."
+2026-10-05T00:56:16Z,thermaestro-gateway,0.0.0,,AGPL-3.0-or-later,26996,"Thermaestro's gateway between a heat pump's serial bus and UDP (placeholder release, not usable yet)"
+2026-10-05T00:56:18Z,thermaestro,0.0.0,,AGPL-3.0-or-later,26684,"Heat-pump controller (placeholder release, not usable yet)"
+2026-10-05T00:56:59Z,robotframework-parallelrunner,0.2.0,Cristian Garcia,MIT,27843,"Run a keyword in parallel inside a single Robot Framework test case, with one clean, ordered log.html."
+2026-10-05T01:00:33Z,swichyssd,0.3.0,bitfarmy,MIT,25010,Sposta le app Flatpak tra il disco interno e un SSD esterno su Fedora.
+2026-10-05T01:03:42Z,image-redactor,0.1.0,Pranay Mahendrakar,MIT,53913,"Blur or mask faces, plates and regions you mark, with a detector you supply or a simple built-in one"
+2026-10-05T01:04:48Z,camera-health,0.1.0,Pranay Mahendrakar,MIT,82138,"Detect an obstructed, defocused, dark, frozen or tampered camera from its own frames"
+2026-10-05T01:10:28Z,store-fns-py,0.1.0,,MIT,5358,L2 computed-column implementations (Python) — language-level shared layer; bound by host via core::naming normalization
+2026-10-05T01:12:17Z,funcloom,0.10.3a0,Sambit Supriya Dash,MIT,422911,"The Python functionizer: turn scripts, snippets and Jupyter notebooks into verified functions and modular packages"
+2026-10-05T01:15:20Z,tellurion,0.1.0,Liam Healy,MIT,41323683,Astrodynamics and satellite navigation using Orekit and AstroPy
+2026-10-05T01:16:40Z,refactrail-core,0.3.1a0,Sambit Supriya Dash,MIT,13023224,"Rust engine for RefacTrail, the Python refactorizer: the same results as its Python engine"
+2026-10-05T01:17:22Z,refactrail,0.3.1a0,Sambit Supriya Dash,MIT,273615,"The Python refactorizer: linter, formatter and verified refactoring with independent pure-Python and Rust engines"
