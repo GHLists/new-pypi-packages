@@ -1,0 +1,71 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T14:21:13Z,soup-harness,0.5.1,Fabian von Tiedemann,Apache-2.0,342338,"An idea harness that makes AI agents creative: frame, map the obvious, explore creative paths, critique, improve by value."
+2026-10-05T14:21:28Z,personal-vad,0.1.0,"Quan Wang, Shaojin Ding, Ignacio Lopez Moreno",,188147,Personal VAD: Speaker-Conditioned Target Voice Activity Detection
+2026-10-05T14:22:23Z,tree-sitter-quirrel,4.43.0,Gaijin Entertainment,MIT,1180843,Dagor Quirrel grammar for tree-sitter
+2026-10-05T14:22:24Z,cmglaciology,0.1.1,Andy Aschwanden <aaschwanden@alaska.edu>,MIT,124156,Colormaps for glaciology
+2026-10-05T14:22:41Z,config-patching,0.0.1,OpenFlexure Project <contact@openflexure.org>,,18036,Tools for patching configuration files.
+2026-10-05T14:22:43Z,pchs,0.1.0,,"MIT License Copyright (c) 2026 Alec Jacobson and contributors Permission is hereby granted, free of…",15870060,Progressive Convex Hull Simplification
+2026-10-05T14:23:37Z,ren-ui-python,0.2.0,Lee JunHaeng aka rainygirl <rainygirl@gmail.com>,MIT,104512,"Native RenkuOS/HaikuOS desktop apps in Python, packaged as HPKG"
+2026-10-05T14:24:02Z,drf-oxide-core,0.1.0,Kamil Kobza <kamil1pl@gmail.com>,MIT,13479460,Rust core for drf-oxide: compiled Django REST framework serializers
+2026-10-05T14:24:39Z,ledionpdf,1.0,,,27702,
+2026-10-05T14:27:09Z,drf-oxide,0.1.0,Kamil Kobza,MIT,31852,"Drop-in, Rust-accelerated serializers, JSON renderer and parser for Django REST framework"
+2026-10-05T14:27:14Z,tribulnation-cli,0.1.0,Tribulnation,MIT,12607,The tn command launcher for independently installed Tribulnation tools
+2026-10-05T14:27:43Z,ppl-memory,0.1.0,Cumulative Systems <dbhurley@me.com>,MIT,29859,"ppl (withppl.com) as a memory backend for agent frameworks: LangGraph, CrewAI, AutoGen"
+2026-10-05T14:34:55Z,bloq,0.4.0,Bloq Quantum <engineering@bloq.in>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1021053,"Quantum workload orchestration SDK — schedule circuits across simulators, hardware, and the Bloq Quantum platform."
+2026-10-05T14:35:02Z,flare-http,0.1.0,Arthur D'Aquino <arthurdaquinosilva@gmail.com>,MIT,65395,"A calm, beautiful terminal client for HTTP requests, with per-project aliases."
+2026-10-05T14:35:27Z,copse-ai,0.0.0,PawDelta LLC,,1682,"copse: run coding agents in parallel, each on its own git branch. Coming soon."
+2026-10-05T14:35:29Z,copse-agents,0.0.0,PawDelta LLC,,1611,copse has moved to copse-ai. This placeholder installs nothing.
+2026-10-05T14:36:13Z,logika-otel,0.0.2,,,2008,Coming soon from Logika: https://logika.host
+2026-10-05T14:36:18Z,dash-draggable-ng,0.2.0,Mehdi Echchelh <mehdi.echel@gmail.com>,MIT,312312,A Dash component for building draggable and resizable grid layouts. Based on the well known react-grid-layout.
+2026-10-05T14:36:58Z,agentforge-telegram-notifier,0.2.0,AgentForge Labs,AGPL-3.0-only,49988,Official Python SDK and CLI for AgentForge Telegram Notifier
+2026-10-05T14:37:25Z,logika-cli,0.0.2,,,1987,Coming soon from Logika: https://logika.host
+2026-10-05T14:37:53Z,pandair,0.0.2,François Bernard <francoisbernard.contact@gmail.com>,MIT,2995,Panel data for air pollution analysis
+2026-10-05T14:39:47Z,kpihx-lab,0.2.0,,,19071,"KpihX scientific and AI exploration environment (rapid scripts, plotting, numerics, hardware-accelerated prototyping)"
+2026-10-05T14:42:03Z,vestra,0.1.0,,MIT,369675552,Native video composition and rendering engine with Python authoring and a Rust core
+2026-10-05T14:42:20Z,hdw-dedup-engine,0.1.0,Hans De Weme,MIT,68006,Reusable duplicate-image detection engine using corroborated perceptual hashing.
+2026-10-05T14:43:49Z,saberlib,0.1.1,"Diego Alvarez-Saravia, David Medina-Ortiz",MIT,192227,"Domain-agnostic classical supervised machine learning for classification, regression, tuning, and benchmarking."
+2026-10-05T14:44:34Z,nemo-usersim,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1060,Zero version placeholder for nemo_usersim
+2026-10-05T14:44:54Z,ecrawler,0.0.2,"Gonçalo Cabeleira <goncalocabeleira123@gmail.com>, João Caldeira <joao.caldeira@ulusofona.pt>",,18489,Python package developed at Lusófona University to track notebook execution times and energy consumption.
+2026-10-05T14:46:29Z,get-objects-lib,1.0.0,Ivan-Rosales,,58275,Extrae objetos referenciados en scripts T-SQL
+2026-10-05T14:47:13Z,adhamzpdf,1.0,,,27347,
+2026-10-05T14:47:16Z,loktar-cli,0.2.9,Loktar Team <info@loktar.cc>,MIT,30910,CLI and AI agent client for LOKTAR — query 2100+ curated AI tools across 86+ tablets
+2026-10-05T14:48:35Z,merlin-sim,0.1.0,,,89390981,Polynomial-time simulator for non-Clifford quantum error correction
+2026-10-05T14:48:36Z,polymorph-ai,1.1.0,Worachat Songmuangnu,MIT,73550,"A decorator that uses a trained neural network to run your function sequentially, with threads, or with processes - whichever is fastest."
+2026-10-05T14:49:06Z,mlsca-bench,0.1.0,"Iris Dania Jimenez <iris.jimenez@unibw.de>, Michael Hutter <michael.hutter@unibw.de>",Apache-2.0,352125,"Public side-channel datasets, baselines and metrics for machine-learning side-channel analysis"
+2026-10-05T14:49:49Z,textual-widgets,0.32.1,Michael Blaess,Apache-2.0,226120,"Reusable Textual widgets: DatePicker, SearchHistoryDropdown, ContextMenu, Splitter, HamburgerMenu and more"
+2026-10-05T14:50:43Z,fontpkg-cormorant,4.0,,OFL-1.1,397387,"Cormorant font family, packaged for Python by fontpkg"
+2026-10-05T14:50:45Z,fontpkg-geologica,1.10,,OFL-1.1,155477,"Geologica font family, packaged for Python by fontpkg"
+2026-10-05T14:50:47Z,fontpkg-newsreader,1.3,,OFL-1.1,579118,"Newsreader font family, packaged for Python by fontpkg"
+2026-10-05T14:50:50Z,fontpkg-ibm-plex-sans-arabic,1.101,,OFL-1.1,751029,"IBM Plex Sans Arabic font family, packaged for Python by fontpkg"
+2026-10-05T14:51:06Z,pykicak,0.1.0,Przemysław Barczak,MIT,87682,A Python library for building RabbitMQ-connected agent nodes with idempotent message processing.
+2026-10-05T14:51:16Z,stablegig,0.0.1,StableGig,LicenseRef-Proprietary,3811,Official name of StableGig on PyPI. Identifying constants; the SDK and MCP server are published on npm under @stablegig.
+2026-10-05T14:51:17Z,stablegig-mcp,0.0.1,StableGig,LicenseRef-Proprietary,4325,Name reservation for StableGig. The official MCP server will be published on npm as @stablegig/mcp-server.
+2026-10-05T14:51:55Z,textual-themes,0.15.1,Michael Blaess,Apache-2.0,84591,"39 retro color themes for Textual TUI apps - vintage 8-bit, terminal, watch, comic-pulp, 80s-pastel, Spielberg-era cinema, reggae and mafia-noir palettes"
+2026-10-05T14:54:13Z,JAXtari,0.1.0,,"MIT License Copyright (c) 2025 Quentin Delfosse, Jannis Blüml Permission is hereby granted, free of…",2277030,"GPU-accelerated, object-centric Atari environments for reinforcement learning with JAX."
+2026-10-05T14:55:13Z,blog-package,0.1.0,puzzllium <puzzllium@gmail.com>,MIT,30768,"Blog site package for the Core boilerplate (posts with a gallery, comments, likes, saves, share tracking). Depends on core-package for auth, RBAC, and the shared User model — it does not define its o…"
+2026-10-05T14:56:10Z,jaxatari,0.1.0,,MIT,1884,"Alias for JAXtari: GPU-accelerated, object-centric Atari environments for reinforcement learning with JAX."
+2026-10-05T14:56:26Z,rotproof,0.1.0,,MIT OR Apache-2.0,6666388,"Keeps a project's structure from drifting: checks its layers and the records an agent works from (backlog, specs, knowledge, log)"
+2026-10-05T14:59:07Z,retro-amp,0.35.1,Michael Blaess,Apache-2.0,435796,"Retro music player for the terminal - MP3, FLAC, OGG, M4A, tracker modules (MOD, S3M) and SID, with lyrics, visualizers and 41 vintage themes"
+2026-10-05T14:59:34Z,tropicor,0.1.0,Mateo Hernandez Gualdron <tropicor.project@gmail.com>,MIT,6051,TROPICOR: Tropical Correction and Orographic Resolution — AI framework for bias correction and spatial downscaling of global climate reanalyses across tropical complex terrains
+2026-10-05T15:00:45Z,shopee-smart-runtime,0.0.0,sc,BSD License,2460,A small example package
+2026-10-05T15:01:57Z,vesremont-api,0.2.0,,MIT,11312,Small standard-library client for the Vesremont public API
+2026-10-05T15:02:50Z,uairt,0.1.0,,Apache-2.0,255232,"One API to run compiled AI models on NPUs, GPUs and CPUs: QNN, ONNX Runtime, TensorRT, OpenVINO, NCNN, CoreML, TFLite"
+2026-10-05T15:03:12Z,numpyv,1.0.1,,,25986,"Deep Learning lab experiments 1-8 - import to print aim, theory, explanation and full code"
+2026-10-05T15:03:49Z,meshrag,1.0.0,MeshRAG Team,MIT,7227201,"MeshRAG: Multi-Knowledge-Base Graph RAG, based on LightRAG"
+2026-10-05T15:03:54Z,warp-platform-sdk,1.0.0a1,Warp,Apache-2.0,450720,The official Python library for the Warp API
+2026-10-05T15:04:01Z,aisoc-sandbox,0.1.0,AiSOC contributors,MIT,46499,"Run an AiSOC agent investigation offline in under 30 seconds. No Docker, no API key."
+2026-10-05T15:04:17Z,pyrig-plugin,0.1.0,Winipedia,MIT,10049,A pyrig plugin for pyrig plugins.
+2026-10-05T15:06:29Z,mango-lime-library,1.0.0,dev,,1645063,
+2026-10-05T15:07:16Z,aisoc-sdk,4.0.0,AiSOC Contributors <oss@aisoc.io>,MIT,15886,Python client SDK for AiSOC — typed httpx client
+2026-10-05T15:07:43Z,manikineko,0.2.0,Manikineko,MIT,79672,"Official SDK for Manikineko — Discord-compatible REST, realtime gateway, OAuth2 and app-controlled gateway servers."
+2026-10-05T15:07:52Z,daaf,0.1.0,,Apache-2.0,17129,"Decision-as-a-function: a typed Python function with a docstring, answered by Laya"
+2026-10-05T15:09:20Z,pcs-sdk,0.1.0,staugur,,16290,pcs API client built on requests
+2026-10-05T15:10:07Z,bxlai,1.0.1,,,22222,BX AI library for Kilo AI models
+2026-10-05T15:11:45Z,mango-processor,1.0.0,Kelly Kapowski,,5899995,
+2026-10-05T15:12:26Z,dbasim,0.3.1,Kulchart Tunyuwattana,LicenseRef-Proprietary,79077,Oracle DBA break-fix simulator: inject real-world incidents into your own Oracle Free and get graded on the fix
+2026-10-05T15:16:30Z,aisoc-plugin-sdk,0.1.0,Beenu Arora <beenu@cyble.com>,MIT,25762,"AiSOC Plugin SDK for Python — build custom enrichers, connectors, and response actions"
+2026-10-05T15:17:01Z,agentbridge-rs,0.3.4,,MIT,14644720,Local-first CLI + MCP server that bridges session context across AI coding agents.
+2026-10-05T15:17:58Z,seed-evolution,0.1.0,carterlasalle,Apache-2.0,27776,"Seed evolution loop: GEPA contract, scientist, mutation reports"
+2026-10-05T15:18:15Z,aisoc-detections,0.1.0,Beenu Arora <beenu@cyble.com>,MIT,14673,"AiSOC Python detection framework — write detections as def rule(event), unit-tested against inline fixtures"
+2026-10-05T15:18:36Z,yandex-music-mcp,0.2.0,Kenzolika,MIT,32791,"Unofficial Yandex Music MCP server: search, likes, history, My Wave, playlists for Claude and other MCP clients"
+2026-10-05T15:19:15Z,opteryx-mcp,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",39362,Connect MCP clients such as Claude Desktop to the Opteryx data platform
