@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T15:19:55Z,mlx-decision,0.3.0,Armin Buescher,MIT AND Apache-2.0,1236654,Run decision models such as Cloudflare's Clef locally on Apple Silicon with MLX
+2026-10-05T15:28:34Z,django-advanced-2fa,1.0.0,Ian Jones,MIT,90662,Django app to implement two factor authentication with bootstrap modals
+2026-10-05T15:28:52Z,mllabcode,0.1.0,,,21537,"Source code for eight regression lab experiments, returned by code(n)."
+2026-10-05T15:28:59Z,cis-pract,0.1.0,Author <author@example.com>,,22211,"A complete, installable Python package for Cyber Security practical programs."
+2026-10-05T15:29:42Z,django-advanced-toolbox-view,1.0.0,Ian Jones,"MIT License Copyright (c) 2024 Ian Jones Permission is hereby granted, free of charge, to any perso…",18974,Provides a Django view to run functions from apps
+2026-10-05T15:32:56Z,merit-mr,0.7.0a0,Chris Finan <c.finan@ucl.ac.uk>,GPL-3.0-or-later,1303193,Python based MEndelian Randomisation for Identifying Targets
+2026-10-05T15:35:58Z,spexipy,0.1,Frederic Van Assche <frederic@spexicam.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",105918,A collection of classes and utilities to interface with SpeXIDAQ and its file formats using Python
+2026-10-05T15:36:05Z,atom-jepa,0.2.0,The Atom-JEPA authors,MIT,137185,Atom-JEPA: Joint-Embedding Predictive Architecture for 3D Atomistic Systems
+2026-10-05T15:39:24Z,make-cloudflare,0.1.0,"""Optersoft, S.L."" <david@optersoft.com>",MIT OR Apache-2.0,23386,Cloudflare Pages direct upload for mkrun -- deploy a built site with no Node and no wrangler.
+2026-10-05T15:39:57Z,stdgram,1.0.0,STD-DEEPANSHU <stddeepanshu@aol.com>,GPL-3.0-only,7660420,"The Next-Generation, Production-Ready MTProto Framework for Python"
+2026-10-05T15:41:24Z,vision-input-check,0.1.0,Gjusev,Apache-2.0,86923,"Regression tests for images sent to vision LLM APIs: pixel-identical and lossy delivery variants, variance-aware scoring, CI gates."
+2026-10-05T15:41:29Z,locale-invoice-check,0.1.2,Gjusev,Apache-2.0,97989,Matched-pair EN/DE/ES invoice extraction regression tests with deterministic CI gates.
+2026-10-05T15:49:15Z,uni-rec2notes,0.0.1,,,1630,"Placeholder: rec2notes is installed from GitHub, not from PyPI."
+2026-10-05T15:49:16Z,rec2notes,0.0.1,,,1595,"Placeholder: rec2notes is installed from GitHub, not from PyPI."
+2026-10-05T15:53:26Z,pykhinsider,2.2.1,Fenway Powers,MIT,16727,Download albums and tracks from KHInsider
+2026-10-05T15:55:15Z,sitemap-tracker,2.13.1,Michael Blaess,Apache-2.0,300625,"Sitemap Tracker - crawls websites, generates sitemap.xml, tracks dead links and SEO issues in a TUI"
+2026-10-05T15:55:18Z,c2pa-scanner,0.7.1,Michael Blaess,Apache-2.0,183064,Detect C2PA provenance / AI-generated images in website sitemaps (EU AI Act Art. 50)
+2026-10-05T15:57:50Z,ontle,0.2.0a5,FutureWorkLab,Apache-2.0,295157,"Reference CLI and tooling for Open World Packages (OWP): validate, compile state, pack, and publish Worlds and World Models"
+2026-10-05T15:58:30Z,safedelta,1.0.0,yyb <yyb2020123@163.com>,MIT,3766513,Split-control criterion and diagnostics for few-shot adaptation of perturbation-response predictors
+2026-10-05T15:58:32Z,eznp,0.1.0,duyuefei2023 <duyuefei2023@outlook.com>,GPL-3.0-only,25659,eznp
+2026-10-05T15:59:48Z,bblayout,0.0.1,,Apache-2.0,125778,Lay electronic schematics out on a solderless breadboard (instead of a PCB) - built for AI agents and humans.
+2026-10-05T16:00:22Z,sqlscope-rs,0.1.0,,MIT,25901940,"Scope-aware SQL analysis and rewriting: row filters, CTE injection, table rewrites, column lineage."
+2026-10-05T16:01:13Z,smart-commit-guard,0.1.0,Daniel Illescas Romero,MIT,42208,Pre-commit and CI secret gate: deterministic rules plus a small decision model for ambiguous cases
+2026-10-05T16:01:50Z,arc56-generated-desha-5ae1b9ee,1.2.2026072010,deshanashah17,,20338,Generated ARC-56 Algorand smart-contract clients for deshanashah17/Farmer-Blockchain.
+2026-10-05T16:02:01Z,rpboosting,1.2.0,Sadman Sadik Khan <sadmansadik.cse@gmail.com>,BSD-3-Clause,28527,Residual Prototype Boosting (RPB): a scikit-learn compatible gradient-boosting classifier with smooth prototype weak learners
+2026-10-05T16:02:55Z,arc56-generated-dev59-0791733b,1.2.2026072010,dev591,,20704,Generated ARC-56 Algorand smart-contract clients for dev591/cleargrant.
+2026-10-05T16:03:59Z,arc56-generated-devbu-d68b4c17,1.2.2026072010,devbugra,,29653,Generated ARC-56 Algorand smart-contract clients for devbugra/algocredit.
+2026-10-05T16:04:31Z,gitproof,0.1.0,Saqlain,MIT,156845,Turn a GitHub username into an evidence-backed developer profile and proof-of-work report.
+2026-10-05T16:05:04Z,arc56-generated-devma-6637c6d6,1.2.2026072010,DevMaan707,,18138,Generated ARC-56 Algorand smart-contract clients for DevMaan707/escrow-blockchain.
+2026-10-05T16:05:31Z,robotframework-telnetlibrary,1.0.0,Sergii Dmytruk <sergii.dmytruk@3mdeb.com>,,39489,A Robot Framework library for communication via Telnet protocol
+2026-10-05T16:09:05Z,db-explorer-mcp,0.1.0,Adarsh Yadav <yashyadav0171@gmail.com>,MIT,29330,An MCP server that lets Claude explore and query your databases
+2026-10-05T16:11:34Z,chatterdome,0.3.1,Michael Blaess,Apache-2.0,552847,A control room for several Claude Code sessions running at the same time
+2026-10-05T16:12:19Z,console-error-scanner,1.16.1,Michael Blaess,Apache-2.0,277339,TUI tool to scan websites for console errors and HTTP errors
+2026-10-05T16:12:23Z,visual-regression-scanner,1.6.1,Michael Blaess,Apache-2.0,176824,TUI tool to detect visual regressions on websites via screenshot comparison
+2026-10-05T16:13:05Z,ai-dev-workflow,0.1.0,vuthethienlong,,87180,Provider-neutral AI-assisted development workflow and CLI
+2026-10-05T16:14:17Z,tolla,0.1.0,,MIT,23625,Free-tier economics for AI and usage-based SaaS: see what each free user costs and which ones convert.
+2026-10-05T16:14:39Z,sbombs-daily,0.0.0,,MIT,2437,"SBOMBS test fixture, published daily. Do not depend on this package."
+2026-10-05T16:15:41Z,inspectcode-tui,2.4.2,Michael Blaess,Apache-2.0,99784,TUI for JetBrains InspectCode results
+2026-10-05T16:15:53Z,christophorus,1.3.2,Michael Blaess,Apache-2.0,1430283,Christophorus - Fahrtenbuch als Terminal-Anwendung mit Plausibilitätsprüfung
+2026-10-05T16:16:46Z,deadtrace,0.1.0a1,Aleksandr Kisel,Apache-2.0,741852,"Explainable, framework-aware dead-code analysis"
+2026-10-05T16:17:37Z,nodemeet,0.9.5,Dhyanam Shah,PolyForm-Noncommercial-1.0.0,692595,"Embed live video meetings and scheduling into your own Python apps. Self-hosted, free for noncommercial use."
+2026-10-05T16:18:05Z,oloproof,0.1.0a1,,Apache-2.0,1177360,"Developer-first AI systems evaluation, diagnostics, and decision evidence."
