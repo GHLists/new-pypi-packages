@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T17:19:32Z,cogvault,0.11.2,Nick Bibikov,MIT,122138,"Fleet-grade local memory for AI agents over plain Markdown — hybrid search, multi-tenant, one process, no cloud, no Docker, no LLM."
+2026-10-05T17:20:20Z,tripwire-litellm,0.1.0,,,13800,Tripwire hard-stop and ingest callback for a customer's LiteLLM proxy
+2026-10-05T17:20:54Z,wftnp,0.1.2,Ben Johnson,Apache-2.0,84070,Typed asynchronous client for WFTNP (Wahoo Direct Connect).
+2026-10-05T17:23:14Z,jupyter-islide,0.6.10,rvalieris,MIT,58549,"Interactive whole-slide pathology image viewer for Jupyter, backed by OpenSlide"
+2026-10-05T17:29:12Z,envdirx,0.1.0,tumf,MIT,31778,Store DJB envdir entries as plaintext or encrypted files with an external private key
+2026-10-05T17:32:29Z,hinglish-caller-bench,0.1.0,Payal <youcancallmepayal@gmail.com>,MIT,335801,"Stress-test AI customer-service agents with simulated Hinglish, Hindi and English callers."
+2026-10-05T17:32:38Z,mock-acme,0.1.0,,MIT,133585,"The integration between the mocks: the middleware that mock-sap, mock-edi and mock-bank exist to test. Zero dependencies."
+2026-10-05T17:33:31Z,aivcs,0.1.0,,,75354,"A small, educational AI-native version control core"
+2026-10-05T17:36:55Z,plotly-upset,0.1.0,Depictio Contributors,MIT,51714,UpSet plot visualizations with Plotly — interactive set intersection plots with annotation tracks
+2026-10-05T17:37:07Z,plotly-complexheatmap,0.1.0,Depictio Contributors,MIT,781791,"ComplexHeatmap-style visualizations with Plotly — clustered heatmaps with dendrograms, annotation tracks, and split heatmaps"
+2026-10-05T17:37:28Z,depictio,1.12.0b1,Thomas Weber <thomas.weber@embl.de>,MIT,8800402,"Interactive dashboards for bioinformatics pipeline results: server, worker, viewer and CLI"
+2026-10-05T17:37:42Z,braindynamo,0.0.2,Behnam Kazemivash,MIT,3973,"Classical, well-established methods for analyzing brain dynamics in fMRI."
+2026-10-05T17:40:46Z,kronumos,0.1.0,Muhammad Naufal Daffa <daffa@kronumos.com>,Apache-2.0,39700,Dual-Brain Cybernetic Autonomous Program Repair Engine
+2026-10-05T17:45:21Z,immix-sdk,0.4.0,,MIT,863030,"The Python SDK for the Immix API — REST, market data and trading"
+2026-10-05T17:55:19Z,serialq,0.1.0,AP <intertermux@gmail.com>,MIT,25321,One-at-a-time execution: a cross-process serial gate and FIFO job queue
+2026-10-05T17:55:41Z,lmem,0.2.1,Pathi Krishna Kanth <krishnakanthpathi@gmail.com>,MIT,17826,Ultra-Fast Local AI Agent Persistent Memory Engine with Neural Extractive QA & Knowledge Graph
+2026-10-05T17:56:42Z,arc-pie,0.1.6,Rishi Verma <rishi.verma@arcinstitute.org>,CC-BY-NC-SA-4.0,586509,PIE: predicting transcriptional responses to perturbations from biological knowledge sources
+2026-10-05T18:00:38Z,neobrain-cli,0.1.1,,"MIT License Copyright (c) 2026 fakiho Permission is hereby granted, free of charge, to any person o…",191227,"A simulated brain for AI agents: memory, rank-based forgetting, dreams and a self-authored soul."
+2026-10-05T18:03:05Z,dpyb,0.1.1,darkstarshine2011,AGPL-3.0-or-later,34444,A simple file-based Python database
+2026-10-05T18:03:19Z,arkitekt-service,1.0.0,jhnnsrs <jhnnsrs@gmail.com>,MIT,67191,"What a service of an Arkitekt hub is made with: the contract its image answers the installer, its declaration to rekuest, and its hook agent"
+2026-10-05T18:03:55Z,quantrail,0.1.0,Ting-Hong Shieh,Apache-2.0,502501,"Quantitative research you can trust: data governance, ledger-accurate backtests and research discipline."
+2026-10-05T18:04:07Z,gst-validator,0.1.0,rahulgurujala,MIT,44311,Validate GSTINs and fetch taxpayer details from the Indian GST portal
+2026-10-05T18:09:12Z,driftfix,0.1.1,,MIT,21027,Dependabot bumps it. CI breaks. driftfix fixes the code.
+2026-10-05T18:13:04Z,CodeMint,0.1.0,,,15189,Eight experiment source-code modules for offline display
+2026-10-05T18:16:45Z,filament-meter,0.1.0,nimblemo,MIT,133017,"Measure 3D-print filament usage from .3mf / .gcode files, with automatic OrcaSlicer provisioning."
+2026-10-05T18:17:46Z,kryptos-pii,0.3.0,Kryptos,Apache-2.0,68168,"Kryptos PII Protection: a platform extension. Regex proposes, a fine-tuned LAYA classifier decides."
+2026-10-05T18:17:47Z,kryptos-pii-client,0.3.0,Kryptos,Apache-2.0,20347,"Hosted client for the Kryptos PII Protection extension. Sends text to Kryptos; no model, no checkpoint."
+2026-10-05T18:17:48Z,kryptos-pii-local,0.3.0,Kryptos,Apache-2.0,21613,Run Kryptos PII Protection on your own machine. The text never leaves it.
+2026-10-05T18:17:58Z,behappy,0.1.0,BeHappy Authors,MIT,22346,Run a collection of classic ML and statistics experiments with a single call: from BeHappy import code; code()
