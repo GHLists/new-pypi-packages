@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T12:06:29Z,simple-detect-secrets,0.0.1,Malthe Jørgensen,Apache-2.0,101052,Tool for detecting secrets in the codebase
+2026-10-05T12:20:51Z,pystac-ext-earthquake,1.1.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,27712,STAC Earthquake Extension Specification pystac implementation.
+2026-10-05T12:21:43Z,xtr-recipes,3.0.0,Xterr,MIT,131787,"Applies a package's use-in-an-application steps to a project from a committed lock, and undoes them when the package goes away."
+2026-10-05T12:21:46Z,saymaker,0.1.1,SayMaker,MIT,14881,"Generate images and video from Python on SayMaker: Veo 3.1, Kling 3.0, Seedance 2.0, Nano Banana 2, GPT Image 2.5 and more with one API key"
+2026-10-05T12:22:38Z,tross,0.1.0,OpenAPI Generator community,,1851438,FastAPI
+2026-10-05T12:22:51Z,dlogify,0.1.0,Logify,MIT,66301,Send Python logs and uncaught exceptions to dlogify.
+2026-10-05T12:23:27Z,pystac-ext-insar,1.0.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,27285,STAC InSAR Extension Specification pystac implementation.
+2026-10-05T12:24:17Z,holder-kit,0.0.1,,GPL-3.0-only,101838348,Holder Kit: CPython bindings for embedded libholder
+2026-10-05T12:26:17Z,pystac-ext-aeronet,1.0.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,26190,STAC AERONET Extension Specification pystac implementation.
+2026-10-05T12:26:40Z,rema-jax,0.1.0,Johan Comparat <jcomparat@lpsc.in2p3.fr>,MIT,379470,"Red-sequence matched-filter galaxy cluster finding in JAX (redMaPPer-inspired), for the Legacy Surveys"
+2026-10-05T12:26:42Z,deewan,0.2.1,Deewan <support@deewan.io>,MIT,21912,"Official Python SDK for the Deewan video meetings API: rooms, join links, media tokens, participants, meetings, webinars, polls, breakout rooms, recordings and signed webhooks."
+2026-10-05T12:27:59Z,midi-recorder,1.0.0,Maarten Boot,MIT,30905,"Record all incoming MIDI events to timestamped .mid files, saved automatically when playing stops"
+2026-10-05T12:29:08Z,veriguild,0.0.1,Milind,Apache-2.0,33025,Draft protocol schemas and validator for Veriguild: software built and governed by untrusted AI agents (design phase)
+2026-10-05T12:36:06Z,bmsdna-app-native,0.2.0,,MIT,94033,"Backend side of the BMS app: push (APNs), widgets, Live Activities, approvals and ingest routers to build into your own FastAPI backend. No database or service of its own."
+2026-10-05T12:37:39Z,ontoprune,0.1.0,Carlos Vigmar <vigmarcarlo@gmail.com>,MIT,156293,Neuro-Symbolic Context Pruning Middleware for Local SLMs
+2026-10-05T12:41:07Z,xray-analyzer,0.1.0,Muhammet Emir Hallek <254203250+moamir369@users.noreply.github.com>,MIT,32035,A CLI tool to inspect and understand software projects quickly
+2026-10-05T12:42:18Z,novem-cli,0.2.2,"Martin Myrseth <mmy@novem.io>, Bjørnar Snoksrud <bsn@novem.io>",MIT,24576712,"Native novem command-line interface, packaged for pip"
+2026-10-05T12:42:24Z,lino-vuejs,26.10.0,"Rumma & Ko Ltd <info@saffre-rumma.net>, Luc Saffre <luc@saffre-rumma.net>, Sharif Mehedi <sharifmeh…","GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",1343185,The VueJS front end for Lino applications
+2026-10-05T12:45:02Z,jarvis-agent-cli,0.10.0,Abdullah Al Rifat,,332433,Standalone and remote terminal coding agent
+2026-10-05T12:47:17Z,laya-mlx-http,0.1.1,,Apache-2.0,30740,HTTP server that serves laya-mlx typed decision models over your LAN
+2026-10-05T12:49:46Z,mobile-ui-comparator,0.1.0,Subrahmanyam Marella <subrahmanyammarella@gmail.com>,MIT,147454,Compare two mobile screenshots for UI alignment issues using local DL
+2026-10-05T12:52:15Z,reef-bundle,1.0.2,TKul6,,18680,Airflow DAG bundle that fetches versioned DAGs from a Reef server.
+2026-10-05T12:55:32Z,xemonity,1.0,murzik_kukushnik,,7179,Libraly for simple menu with chosing
+2026-10-05T12:55:42Z,photomosaic-video,0.1.0,hinanohart <hinanohart@gmail.com>,MIT AND CC-BY-2.0,12774262,Photomosaic generator that works on video too
+2026-10-05T13:00:08Z,langchain-saymaker,0.1.0,SayMaker,MIT,9599,"LangChain tools for SayMaker: generate images and video (Veo 3.1, Kling 3.0, Seedance 2.0, Nano Banana 2) from an agent"
+2026-10-05T13:01:30Z,saymaker-haystack,0.1.0,SayMaker,MIT,8357,"Haystack components for SayMaker: generate images and video (Veo 3.1, Kling 3.0, Seedance 2.0, Nano Banana 2) in a pipeline"
+2026-10-05T13:03:36Z,pybiotime,0.1.0,,MIT,148733,Unofficial typed Python client for the ZKTeco BioTime REST API.
+2026-10-05T13:09:06Z,mcp-servers-cli,0.1.0,,MIT,133313,"Inspect, call and drive any MCP server from the command line"
+2026-10-05T13:09:51Z,calcutils-Belise,0.1.0,Belise Igihozo <igihozobelise6@gmail.com>,,3799,A simple student tutorial math utility package
+2026-10-05T13:11:28Z,langchain-veida,0.1.0,Veida,MIT,7367,"LangChain tool for Veida AI image generation, usable with no API key"
+2026-10-05T13:13:03Z,django-advanced-menus,1.0.0,Ian Jones,,88893,Django app to render menus and load tabs with Ajax
+2026-10-05T13:14:44Z,mango-alerts,1.0.0,Kenny,,15942,
+2026-10-05T13:15:33Z,proofrun,0.1.1,,MIT,108966,Synthetic API monitoring as code daemon.
+2026-10-05T13:18:16Z,mergesafe-mcp,0.1.0,,MIT,60496,"MergeSafe findings for your own coding agent, over MCP (stdio)."

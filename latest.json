@@ -1,37 +1,37 @@
 {
   "list": {
-    "count": 58,
-    "from": "2026-10-05T11:20:43.39332Z",
-    "path": "data/new-packages-2026-10-05T12-19-35-491327Z.csv",
-    "to": "2026-10-05T12:19:35.491327Z"
+    "count": 34,
+    "from": "2026-10-05T12:19:35.491327Z",
+    "path": "data/new-packages-2026-10-05T13-18-38-156434Z.csv",
+    "to": "2026-10-05T13:18:38.156434Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-05T12:02:56Z",
       "package": "odoo_addon_web_loading_block_ui",
       "since": "2026-10-05T11:20:43.39332Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-05T12:03:42Z",
       "package": "odoo_addon_web_responsive_attachment_preview",
       "since": "2026-10-05T11:20:43.39332Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-05T12:06:29Z",
-      "package": "simple-detect-secrets",
-      "since": "2026-10-05T11:20:43.39332Z"
+      "created_at": "2026-10-05T13:16:24Z",
+      "package": "test_joule_profiler",
+      "since": "2026-10-05T12:19:35.491327Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-05T11:26:50Z",
       "package": "tpu-raiden",
       "since": "2026-10-05T11:20:43.39332Z"
     }
   ],
-  "serial": 41836527,
+  "serial": 41838607,
   "source_truncated": false,
-  "window": "2026-10-05T12:19:35.491327Z"
+  "window": "2026-10-05T13:18:38.156434Z"
 }
