@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T12:02:56Z,odoo-addon-web-loading-block-ui,18.0.1.0.0.1,"ForgeFlow, Odoo Community Association (OCA)",LGPL-3,27690,Block the screen with a centered loading overlay while requests are pending
+2026-10-05T12:03:42Z,odoo-addon-web-responsive-attachment-preview,16.0.1.0.0.1,"Hunki Enterprises BV, Odoo Community Association (OCA)",AGPL-3,20860,Always show the attachment preview ie on invoices
+2026-10-05T13:16:24Z,test_joule_profiler,0.1.0,,,6311844,
+2026-10-05T13:19:49Z,odoo-addon-account-invoice-report-printed-flag,17.0.1.0.0.2,"Binhex Systems Solutions S.L, Odoo Community Association (OCA)",AGPL-3,29615,Adds printed flag support to account moves
+2026-10-05T13:20:55Z,tojiki,0.1.0,Bahrom,MIT,18568,"Open-source tools for the Tajik language: transliteration, numbers to words, text normalization"
+2026-10-05T13:22:05Z,imx-camera-toolkit,0.8.1,,MIT,576557,"CSI IMX camera capture, control, and streaming toolkit for NVIDIA Jetson"
+2026-10-05T13:22:22Z,xdfem2d,2026.10.7,Paulo Cachim <eurocodepy@gmail.com>,LGPL-3.0-or-later,2710278,2D plane frame and shell finite element analysis
+2026-10-05T13:25:41Z,MolSanitizer,0.7.3rc2,"Thua-Phong Lam <phong.lam@icm.uu.se>, Szymon Pach <szymon.pach@icm.uu.se>, Israel Cabeza de Vaca <i…",Apache-2.0,24799004,An open-source pipeline to prepare large-scale small-molecule databases for virtual screening
+2026-10-05T13:25:58Z,app-claude-router,0.0.0,,,1912,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-05T13:26:01Z,bk-build-cli,0.0.0,,,1860,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-05T13:26:03Z,pyexuber,0.1.0,Kostas Vasilopoulos <k.vasilopoulo@gmail.com>,GPL-3.0-or-later,301125234,Recursive right-tailed unit root tests for explosive time series (Python bindings for exubercore)
+2026-10-05T13:26:04Z,blugrid,0.0.0,,,1798,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-05T13:26:07Z,blugrid-harness-dev,0.0.0,,,1930,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-05T13:26:32Z,cirrusnetworks-blueprint,0.0.1,,,3642,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-05T13:26:42Z,cirrusnetworks-clearance,0.0.1,,,3634,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-05T13:27:01Z,cirrusnetworks-filerepo,0.0.1,,,3590,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-05T13:27:18Z,cirrusnetworks-hoist,0.0.1,,,3564,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-05T13:28:10Z,loopinfo,0.1.0,Khalid Sulaiman Al-Mulaify <khalidpythonist@gmail.com>,MIT,23135,"Know where you are in a for-loop: first, last, index, count, previous and next, like Jinja's loop object."
+2026-10-05T13:31:50Z,dynamics-client-gh,0.1.2,"PommereningMartin <m.pommerening@gruenhorn.de>, MichaelWehling <m.wehling@gruenhorn.de>",,49574,Client library to easaly work within the ms dynamics universe
+2026-10-05T13:34:20Z,ramanai,0.0.1,Raman <raman.capricorn1@gmail.com>,,5783,A small example package
+2026-10-05T13:37:54Z,penfield,0.1.3,geco,MIT,46496,Local-first visual browser for your MemPalace memory. Stdlib only.
+2026-10-05T13:38:28Z,ant0-browser,0.1.1,,BSD-3-Clause,244970,Playwright SDK for a separately installed Ant0 Browser engine.
+2026-10-05T13:38:36Z,sealwall,0.1.0,Vishal Murugan,MIT,33131,Firewall and tamper-evident audit log for AI agents using MCP
+2026-10-05T13:39:27Z,incar,0.0.0,INCAR Robotics AB,,2505,Public Python package marker for INCAR Robotics software.
+2026-10-05T13:40:01Z,bangla-multiscript,1.0.0,Shahriar,,86741,High-Throughput Bengali to Natural Avro Banglish & Urban Code-Mixed Alignment Engine
+2026-10-05T13:42:08Z,incar-networking,0.0.0,INCAR Robotics AB,,2609,INCAR Robotics Python package.
+2026-10-05T13:42:25Z,incar-draccus,0.0.0,INCAR Robotics AB,,2554,INCAR Robotics Python package.
+2026-10-05T13:42:43Z,trulens-providers-orcarouter,2.15.0,Snowflake Inc.,MIT,6163,A TruLens extension package adding OrcaRouter gateway support for LLM App evaluation.
+2026-10-05T13:42:50Z,incar-baselines,0.0.0,INCAR Robotics AB,,2611,INCAR Robotics Python package.
+2026-10-05T13:44:48Z,arandu-broker,0.1.0,Arandu,MIT,8485,Small Python client for querying Arandu data through ADSS.
+2026-10-05T13:51:23Z,aisoc-cli,0.1.0,Beenu Arora <beenu@cyble.com>,MIT,62633,"AiSOC Developer CLI — scaffold, validate, and publish plugins and detections"
+2026-10-05T13:53:22Z,den-terminal,0.1.0,Dol0resH8ze,MIT,80126,"Experimental private, live terminal rooms over Tor"
+2026-10-05T13:54:59Z,django-advanced-modals,1.0.0,Thomas Turner,MIT,1670133,Django app to implement Bootstrap nested modals
+2026-10-05T13:55:48Z,parafetch,0.1.0,,MIT,12805228,"Rust-powered parallel data access for Python: feather-fast SQLite reads, GIL-aware parallel map, and batched REST / JSON-RPC / XML-RPC fetching."
+2026-10-05T13:56:28Z,snappnt,0.1.0,h-shiono,BSD-2-Clause,1068189,"Snapshot PNT receiver toolkit for low-cost front ends (ESP32 ESP-SDR, HackRF, USRP): signal simulator and acquisition"
+2026-10-05T13:56:51Z,django-advanced-datatables,1.0.0,Ian Jones,MIT,708622,Django views with javascript filters using Datatables
+2026-10-05T13:56:55Z,core-package,0.1.0,,MIT,56636,"Shared Django/Ninja foundation (auth, RBAC, logging, base models) that downstream site packages (blog, ecommerce, portfolio, community, ...) install as a dependency."
+2026-10-05T13:59:16Z,datalad-worktree,0.4.0,Jiameng Wu <jiameng.wu@gmail.com>,MIT,163353,Create nested git worktrees for DataLad datasets
+2026-10-05T14:00:23Z,memdoctor,0.1.0,Silent Failures,Unlicense,45909,Check and repair AI agent long-term memory stores
+2026-10-05T14:03:32Z,injection-guard-waf,1.0.0,TiyaniEno,MIT,6037,Industrial WAF middleware that blocks OS command injection in 2 lines
+2026-10-05T14:04:33Z,lupaxa-fortune-cookie,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",53554,Developer-themed fortune cookie library and command-line tool.
+2026-10-05T14:05:01Z,ia-router,0.2.0,Mgobeaalcoba,Apache-2.0,454273,"Reparte tus tareas entre los CLIs oficiales de IA (claude, codex, agy) con métricas objetivas de Arena y Artificial Analysis."
+2026-10-05T14:06:42Z,odoo-addon-payment-sequra,18.0.1.0.0.2,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,91623,Integrates SeQura as a payment provider
+2026-10-05T14:07:40Z,bkgco,0.1.0,Andrew Delong <andrew.delong@gmail.com>,LicenseRef-GCO-Research-Only,13230656,Python wrapper for the BK maxflow and GCO C++ libraries
+2026-10-05T14:11:15Z,jaysoft-rewind,0.1.0a2,Jay Prakash Sonkar <iamjpsonkar@gmail.com>,MIT,135771,Capture Python request failures and replay their dependency observations locally
+2026-10-05T14:11:42Z,nouride,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2390,Ultra-lightweight multi-agent AI engine in a single binary daemon by Nouverse Technologies.
+2026-10-05T14:11:49Z,nouverse,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2236,Core umbrella developer portal and SDK for Nouverse Technologies.
+2026-10-05T14:11:50Z,djangocloud-cli,0.1.3,Peter van Doorn <peter@petervandoorn.com>,MIT,44506,"Deploy a Django app from the command line: djangocloud login, djangocloud deploy, djangocloud logs."
+2026-10-05T14:11:56Z,nougate,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2268,"Modular LLM routing gateway, reverse proxy, and model virtualization layer."
+2026-10-05T14:12:02Z,nouclip,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2336,High-performance AI video clipper & auto-shorts generator powered by Whisper & FFmpeg.
+2026-10-05T14:12:03Z,dbf-anonymizer,1.0.0,PeterPirog,MIT,1006838,Privacy pseudonymization for Visual FoxPro DBF/FPT datasets with one protected reversible recovery vault.
+2026-10-05T14:12:05Z,pyskyrc,0.2.0,Andreev Ivan,"MIT License Copyright (c) 2026 Andreev Ivan Permission is hereby granted, free of charge, to any pe…",50802,Pure-Python control and telemetry for SkyRC Q200neo / T1000 chargers via USB HID and BLE
+2026-10-05T14:12:48Z,motkin-pcb,1.0.0,Thomas Flayols,BSD-2-Clause,26877,usb driver for pico_dual_PMSM_BU79100G_DRV8316C
+2026-10-05T14:14:46Z,stegan0lib,1.1.0,Damir <krak-krak9@ya.ru>,MIT,20736,PNG steganography with AES-GCM encryption. LSB and DCT methods.
+2026-10-05T14:18:01Z,ds-provider-unimicro-py-lib,0.1.0,Christine Haugen <christine.haugen@aider.no>,Apache-2.0,32244,A Python package from the DS library collection
