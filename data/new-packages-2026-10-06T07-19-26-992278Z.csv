@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T03:53:50Z,taxlation-nl,0.1.0,Taxlation <info@taxlation.com>,MIT,90156,Translation of Dutch tax legislation into code.
+2026-10-06T05:10:09Z,taxlation-core,0.1.0,Taxlation <info@taxlation.com>,MIT,5185,Core for translation of tax regulation into code.
+2026-10-06T06:23:27Z,lifefin-toolkit,0.1.0,Songyan Zhu,MIT,2243,"A personal finance toolkit for mortgage, SIP, buy-vs-rent tradeoff, and CN/UK macro & stock data."
+2026-10-06T06:24:38Z,lifefin,0.0.2,Songyan Zhu,MIT Licence,3653,For faster proccessing geofile
+2026-10-06T06:26:09Z,temaq-abliterated,1.0.0,ek15072809,MIT,361423,"Exploratory weight-uncensoring tool for LLMs (SCAPE algorithm: floor-calibrated surrogate objective, structured seed-grid initialization, flat full-band kernels, first-token verification gate with us…"
+2026-10-06T06:26:57Z,sixtydb,1.1.1,60db,MIT,34742,Official 60db SDK for Python
+2026-10-06T06:28:38Z,intellign-tools,0.1.0.dev1,Intellign LLC,Proprietary,9766,"Local-first image, audio inspection, and QR utility primitives from Intellign Tools for Python and Kivy."
+2026-10-06T06:28:48Z,volcenginesdk-vedbm,0.0.1,volc-engine,Apache License 2.0,989,Name reservation for the Volcengine Python SDK split package volcenginesdk-vedbm
+2026-10-06T06:28:54Z,volcenginesdk-veenedge,0.0.1,volc-engine,Apache License 2.0,1010,Name reservation for the Volcengine Python SDK split package volcenginesdk-veenedge
+2026-10-06T06:29:01Z,volcenginesdk-vefaas,0.0.1,volc-engine,Apache License 2.0,996,Name reservation for the Volcengine Python SDK split package volcenginesdk-vefaas
+2026-10-06T06:29:07Z,volcenginesdk-vefaasdev,0.0.1,volc-engine,Apache License 2.0,1017,Name reservation for the Volcengine Python SDK split package volcenginesdk-vefaasdev
+2026-10-06T06:30:32Z,rePILOT,1.0.0,"""F. G. Robertson"" <me@grandrobertson.com>",MIT,306185,An implementation of the ATARI PILOT (Programmed Instruction Learning Or Teaching) language.
+2026-10-06T06:30:40Z,telekom-iptv-remote,0.1.0,,,52671,Client for the Magyar Telekom (Microsoft Mediaroom) set-top-box remote and EPG
+2026-10-06T06:32:09Z,pydantic-ai-trustabl,0.1.0,Trustabl,Apache-2.0,29830,Scan an agent repository for reliability and safety weaknesses from a Pydantic AI agent.
+2026-10-06T06:36:52Z,vamp-mobile-audit,1.0.0,VampSecure Studios <belky@protonmail.ch>,AGPL-3.0-only,53861,OWASP MASVS 2.0 static auditor for APK and IPA files
+2026-10-06T06:37:00Z,contexttrail,0.1.0a5,Jaesung Kim,MIT,592062,Evidence-linked project history from local Codex and Claude Code transcripts
+2026-10-06T06:38:44Z,sentientx,0.1.0rc1,,LicenseRef-Proprietary,3664774,Unified CLI and MCP surface for the sentientx lifecycle
+2026-10-06T06:40:22Z,agent-shuttle,0.6.0,Aleksandr Kovalenko,,244777,One Python interface for local coding agents
+2026-10-06T06:40:50Z,mcp-mexico,0.1.0,Diego Tepichin,MIT,57794,"MCP server that gives AI agents access to official Mexican public data: Banxico, INEGI, UMA and ISR tables."
+2026-10-06T06:46:33Z,assurance-reach,0.1.0,,Apache-2.0,54448,"What a change to a file reaches, by a code graph such as Graphify's: each hop at its call site, how sure the graph is of it, how far the graph is behind the code, and what it cannot say."
+2026-10-06T06:48:24Z,image-to-webp,0.1.0,stakmi,MIT,33445,"Convert images in almost any format (PNG, JPEG, GIF, TIFF, HEIC, AVIF, RAW, SVG, ...) to WebP."
+2026-10-06T06:52:16Z,shiny-charts-native,0.1.0b1,,MIT,2041215,Experimental Arrow-to-wire accelerator for shiny-charts
+2026-10-06T06:52:54Z,tenetrag,0.0.0,Liam Lee,Apache-2.0,10448,"Placeholder that reserves the name for TenetRAG, a Python SDK for GraphRAG. Not usable yet."
+2026-10-06T06:52:58Z,stackkernels,0.1.0,,MIT,8769,"Fast, fused Triton kernels for transformer models — PyTorch and JAX backends."
+2026-10-06T06:55:53Z,inksmcp,0.3.0,Bhanu Prakash Bheemaneni <sbvscp@gmail.com>,MIT,209567,"MCP server that lets AI assistants create, edit and export vector graphics with Inkscape"
+2026-10-06T06:57:56Z,anujGG,1.0.0,Anuj,,58067,A tiny package with a message inside.
+2026-10-06T06:59:12Z,kippy,0.1.0,"Riley Thai <riley.thai@monash.edu>, Alexander Heger <alexander.heger@monash.edu>",LGPL-3.0-or-later,38075855,"Interactive Kippenhahn diagram viewer for MESA, KEPLER and MONASH stellar evolution output"
+2026-10-06T07:01:15Z,fs-s3fs-next,0.1.0,Will McGugan,MIT,26865,"Amazon S3 filesystem for FS Next, an independent fs-s3fs maintenance fork"
+2026-10-06T07:01:16Z,endor,0.0.1,,,1598,"Endor: create, train, evaluate, deploy and call text decision models. Placeholder release; the SDK is coming soon."
+2026-10-06T07:05:25Z,netbox-plugin-network-map-yativilli,1.0.1,Yannick Wernle <yannick@wernle.net>,GPL-3.0,612200,A network_map plugin for netbox
+2026-10-06T07:09:20Z,promptmend,0.19.0,,MIT,858258,"Cross-platform Espanso prompt workflow with OpenRouter, Anthropic, Ollama, and LM Studio"
+2026-10-06T07:15:28Z,lo-bot-api-emulator,0.1.0,,MIT,42785,LO Bot API request contract emulator
+2026-10-06T07:15:33Z,lo-aiogram,0.1.0,,MIT,41787,LO compatibility session for aiogram 3
+2026-10-06T07:15:53Z,herdr-sound,1.0.0,ezstackai,Apache-2.0,298634,Switch Herdr notification sounds between game-style chiptune packs
+2026-10-06T07:18:48Z,subtoru,1.0.0,Subtoru contributors,MIT,82608,Subtoru — Subtitle generation & translation CLI.

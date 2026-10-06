@@ -8,42 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 06:18 UTC
+## Latest list — 2026-10-06 07:19 UTC
 
-New packages created between 2026-10-06 05:19 UTC and 2026-10-06 06:18 UTC.
+New packages created between 2026-10-06 06:18 UTC and 2026-10-06 07:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-06T06-18-54-231154Z.csv)
+[Full CSV](data/new-packages-2026-10-06T07-19-26-992278Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-06 05:05:48 | [pyzel](https://pypi.org/project/pyzel/) | 0.2.0 | Craig Laird <bruce@zbots.co.u… | 21.3 kB | Async Python client for the Zello Channel API |
-| 2026-10-06 05:20:11 | [xbrain-ai](https://pypi.org/project/xbrain-ai/) | 0.0.1 | Chaoming Wang | 1.8 kB | xbrain-ai: reserved for an upcoming project. Under active development. |
-| 2026-10-06 05:20:16 | [xbrains](https://pypi.org/project/xbrains/) | 0.0.1 | Chaoming Wang | 1.7 kB | xbrains: reserved for an upcoming project. Under active development. |
-| 2026-10-06 05:20:19 | [brainhub](https://pypi.org/project/brainhub/) | 0.0.1 | Chaoming Wang | 1.8 kB | brainhub: reserved for an upcoming project. Under active development. |
-| 2026-10-06 05:20:24 | [brainsim](https://pypi.org/project/brainsim/) | 0.0.1 | Chaoming Wang | 1.8 kB | brainsim: reserved for an upcoming project. Under active development. |
-| 2026-10-06 05:20:47 | [amazing-splitwise-mcp](https://pypi.org/project/amazing-splitwise-mcp/) | 0.1.0 | Alejandro Latorre | 291.2 kB | MCP server for the Splitwise API v3.0 (personal API key, stdio by default, stre… |
-| 2026-10-06 05:23:45 | [rwutils](https://pypi.org/project/rwutils/) | 0.1.0 | dojddev | 4.0 kB | Simple utilities for Rwanda-related applications |
-| 2026-10-06 05:29:57 | [ble-doctor](https://pypi.org/project/ble-doctor/) | 0.1.0 | Vaibhav91one <108279746+Vaibh… | 132.8 kB | Score the security posture of a BLE device from a capture or live GATT enumerat… |
-| 2026-10-06 05:32:43 | [earforge](https://pypi.org/project/earforge/) | 0.1.0 | earforge contributors | 445.6 kB | Local GPU-accelerated learn-by-ear workbench: any recording into multi-instrume… |
-| 2026-10-06 05:32:57 | [pari-cli](https://pypi.org/project/pari-cli/) | 0.1.0 | PARI Contributors | 106.3 kB | A resilient, sandbox-first terminal coding agent engineered for high pass rates… |
-| 2026-10-06 05:35:45 | [certbot-dns-muumuu](https://pypi.org/project/certbot-dns-muumuu/) | 0.1.0 | Kenichi Takahashi | 39.8 kB | Muumuu Domain DNS Authenticator plugin for Certbot |
-| 2026-10-06 05:37:28 | [impara](https://pypi.org/project/impara/) | 0.2.0 | ivanbright <mugishaivanbright… | 7.1 kB | A simple calculator package and command-line tool |
-| 2026-10-06 05:37:32 | [vexxhost-clientcore](https://pypi.org/project/vexxhost-clientcore/) | 0.1.0 | VEXXHOST | 36.7 kB | Shared transport, errors and OpenStack CLI plumbing for VEXXHOST API clients |
-| 2026-10-06 05:40:56 | [cmdgui](https://pypi.org/project/cmdgui/) | 0.1.1 | olliez-mods | 70.0 kB | Simple terminal GUIs: draw your layout as text, the view runs itself |
-| 2026-10-06 05:46:13 | [flaredb-runner](https://pypi.org/project/flaredb-runner/) | 0.3.2 |  | 21.4 kB | Apache Beam portable runner for submitting Python pipelines to FlareDB |
-| 2026-10-06 05:46:37 | [sagebrush](https://pypi.org/project/sagebrush/) | 0.1.0 | "SageMath, Inc." <wstein@sage… | 6.1 MB | Fast, certified engines for research mathematics: number fields, class groups,… |
-| 2026-10-06 05:51:17 | [mcdxkit](https://pypi.org/project/mcdxkit/) | 0.3.0 |  | 753.2 kB | Open-source Mathcad workflow toolkit: worksheet generation, calculation, CLI an… |
-| 2026-10-06 05:53:42 | [cot.tmppath](https://pypi.org/project/cot.tmppath/) | 0.1.0 | Ronny Pfannschmidt <opensourc… | 75.9 kB | Hardened, fast management of related temporary folders |
-| 2026-10-06 05:57:28 | [credencegraph](https://pypi.org/project/credencegraph/) | 0.1.0 | Isaac C. F. Wong | 325.4 kB | A neutral engine for graphs of propositions with credences: probabilistic infer… |
-| 2026-10-06 05:57:31 | [pyvisionect](https://pypi.org/project/pyvisionect/) | 0.1.0 | schlarpc | 1.9 MB | Sans-io reimplementation of the Visionect e-ink sign wire protocol (protocol v3) |
-| 2026-10-06 05:57:34 | [gnucash-mcp](https://pypi.org/project/gnucash-mcp/) | 0.1.0 | Mohammed O. Tillawy | 61.9 kB | MCP server that lets Claude import bank statements into GnuCash books |
-| 2026-10-06 05:58:23 | [ucam-installkit](https://pypi.org/project/ucam-installkit/) | 0.0.1 |  | 53.9 kB | Core functionality to install Docker Compose-based applications via the command… |
-| 2026-10-06 06:01:46 | [marketsdk](https://pypi.org/project/marketsdk/) | 1.0.0 |  | 311.7 kB |  |
-| 2026-10-06 06:05:31 | [ineza-texttools](https://pypi.org/project/ineza-texttools/) | 1.0.0 | Landra | 4.2 kB | A simple Python package for text processing |
-| 2026-10-06 06:06:11 | [txwhy](https://pypi.org/project/txwhy/) | 0.1.0 | Sundram Mahajan <sundram500m@… | 33.5 kB | Failed Solana transaction in, working transaction out. Repair API client, send… |
-| 2026-10-06 06:07:05 | [scCairns](https://pypi.org/project/scCairns/) | 0.3.0 | Allen Institute | 242.7 kB | Reproducible single-cell integration with a documented decision trail. |
-| 2026-10-06 06:09:28 | [namerandom](https://pypi.org/project/namerandom/) | 0.1.0 |  | 3.2 kB | English random names generator |
-| 2026-10-06 06:09:33 | [geoswe](https://pypi.org/project/geoswe/) | 1.0.0 | Peng Chen <pchen402@gatech.ed… | 11.2 MB | GeoSWE (Geophysical Shallow-Water Engine): a GPU flood solver with a NumPy CPU… |
-| 2026-10-06 06:11:44 | [pyflowred-node-ai-google](https://pypi.org/project/pyflowred-node-ai-google/) | 0.1.0 | Melvin Neffle | 22.1 kB | Google Gemini for PyFlowRED's AI nodes: the Gemini API or Vertex AI, as one set… |
-| 2026-10-06 06:11:54 | [pyflowred-node-ai-openai](https://pypi.org/project/pyflowred-node-ai-openai/) | 0.1.0 | Melvin Neffle | 19.0 kB | OpenAI for PyFlowRED's AI nodes - and anything that speaks the OpenAI API. |
-| 2026-10-06 06:18:34 | [fmagenticl](https://pypi.org/project/fmagenticl/) | 1.3.1 | FMagenticL Collective | 208.9 kB | FMagenticL Self-Healing Registry Daemon and Client |
+| 2026-10-06 03:53:50 | [taxlation-nl](https://pypi.org/project/taxlation-nl/) | 0.1.0 | Taxlation <info@taxlation.com> | 90.2 kB | Translation of Dutch tax legislation into code. |
+| 2026-10-06 05:10:09 | [taxlation-core](https://pypi.org/project/taxlation-core/) | 0.1.0 | Taxlation <info@taxlation.com> | 5.2 kB | Core for translation of tax regulation into code. |
+| 2026-10-06 06:23:27 | [lifefin-toolkit](https://pypi.org/project/lifefin-toolkit/) | 0.1.0 | Songyan Zhu | 2.2 kB | A personal finance toolkit for mortgage, SIP, buy-vs-rent tradeoff, and CN/UK m… |
+| 2026-10-06 06:24:38 | [lifefin](https://pypi.org/project/lifefin/) | 0.0.2 | Songyan Zhu | 3.7 kB | For faster proccessing geofile |
+| 2026-10-06 06:26:09 | [temaq-abliterated](https://pypi.org/project/temaq-abliterated/) | 1.0.0 | ek15072809 | 361.4 kB | Exploratory weight-uncensoring tool for LLMs (SCAPE algorithm: floor-calibrated… |
+| 2026-10-06 06:26:57 | [sixtydb](https://pypi.org/project/sixtydb/) | 1.1.1 | 60db | 34.7 kB | Official 60db SDK for Python |
+| 2026-10-06 06:28:38 | [intellign-tools](https://pypi.org/project/intellign-tools/) | 0.1.0.dev1 | Intellign LLC | 9.8 kB | Local-first image, audio inspection, and QR utility primitives from Intellign T… |
+| 2026-10-06 06:28:48 | [volcenginesdk-vedbm](https://pypi.org/project/volcenginesdk-vedbm/) | 0.0.1 | volc-engine | 989 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-vedbm |
+| 2026-10-06 06:28:54 | [volcenginesdk-veenedge](https://pypi.org/project/volcenginesdk-veenedge/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-veen… |
+| 2026-10-06 06:29:01 | [volcenginesdk-vefaas](https://pypi.org/project/volcenginesdk-vefaas/) | 0.0.1 | volc-engine | 996 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-vefa… |
+| 2026-10-06 06:29:07 | [volcenginesdk-vefaasdev](https://pypi.org/project/volcenginesdk-vefaasdev/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-vefa… |
+| 2026-10-06 06:30:32 | [rePILOT](https://pypi.org/project/rePILOT/) | 1.0.0 | "F. G. Robertson" <me@grandro… | 306.2 kB | An implementation of the ATARI PILOT (Programmed Instruction Learning Or Teachi… |
+| 2026-10-06 06:30:40 | [telekom-iptv-remote](https://pypi.org/project/telekom-iptv-remote/) | 0.1.0 |  | 52.7 kB | Client for the Magyar Telekom (Microsoft Mediaroom) set-top-box remote and EPG |
+| 2026-10-06 06:32:09 | [pydantic-ai-trustabl](https://pypi.org/project/pydantic-ai-trustabl/) | 0.1.0 | Trustabl | 29.8 kB | Scan an agent repository for reliability and safety weaknesses from a Pydantic… |
+| 2026-10-06 06:36:52 | [vamp-mobile-audit](https://pypi.org/project/vamp-mobile-audit/) | 1.0.0 | VampSecure Studios <belky@pro… | 53.9 kB | OWASP MASVS 2.0 static auditor for APK and IPA files |
+| 2026-10-06 06:37:00 | [contexttrail](https://pypi.org/project/contexttrail/) | 0.1.0a5 | Jaesung Kim | 592.1 kB | Evidence-linked project history from local Codex and Claude Code transcripts |
+| 2026-10-06 06:38:44 | [sentientx](https://pypi.org/project/sentientx/) | 0.1.0rc1 |  | 3.7 MB | Unified CLI and MCP surface for the sentientx lifecycle |
+| 2026-10-06 06:40:22 | [agent-shuttle](https://pypi.org/project/agent-shuttle/) | 0.6.0 | Aleksandr Kovalenko | 244.8 kB | One Python interface for local coding agents |
+| 2026-10-06 06:40:50 | [mcp-mexico](https://pypi.org/project/mcp-mexico/) | 0.1.0 | Diego Tepichin | 57.8 kB | MCP server that gives AI agents access to official Mexican public data: Banxico… |
+| 2026-10-06 06:46:33 | [assurance-reach](https://pypi.org/project/assurance-reach/) | 0.1.0 |  | 54.4 kB | What a change to a file reaches, by a code graph such as Graphify's: each hop a… |
+| 2026-10-06 06:48:24 | [image-to-webp](https://pypi.org/project/image-to-webp/) | 0.1.0 | stakmi | 33.4 kB | Convert images in almost any format (PNG, JPEG, GIF, TIFF, HEIC, AVIF, RAW, SVG… |
+| 2026-10-06 06:52:16 | [shiny-charts-native](https://pypi.org/project/shiny-charts-native/) | 0.1.0b1 |  | 2.0 MB | Experimental Arrow-to-wire accelerator for shiny-charts |
+| 2026-10-06 06:52:54 | [tenetrag](https://pypi.org/project/tenetrag/) | 0.0.0 | Liam Lee | 10.4 kB | Placeholder that reserves the name for TenetRAG, a Python SDK for GraphRAG. Not… |
+| 2026-10-06 06:52:58 | [stackkernels](https://pypi.org/project/stackkernels/) | 0.1.0 |  | 8.8 kB | Fast, fused Triton kernels for transformer models — PyTorch and JAX backends. |
+| 2026-10-06 06:55:53 | [inksmcp](https://pypi.org/project/inksmcp/) | 0.3.0 | Bhanu Prakash Bheemaneni <sbv… | 209.6 kB | MCP server that lets AI assistants create, edit and export vector graphics with… |
+| 2026-10-06 06:57:56 | [anujGG](https://pypi.org/project/anujGG/) | 1.0.0 | Anuj | 58.1 kB | A tiny package with a message inside. |
+| 2026-10-06 06:59:12 | [kippy](https://pypi.org/project/kippy/) | 0.1.0 | Riley Thai <riley.thai@monash… | 38.1 MB | Interactive Kippenhahn diagram viewer for MESA, KEPLER and MONASH stellar evolu… |
+| 2026-10-06 07:01:15 | [fs-s3fs-next](https://pypi.org/project/fs-s3fs-next/) | 0.1.0 | Will McGugan | 26.9 kB | Amazon S3 filesystem for FS Next, an independent fs-s3fs maintenance fork |
+| 2026-10-06 07:01:16 | [endor](https://pypi.org/project/endor/) | 0.0.1 |  | 1.6 kB | Endor: create, train, evaluate, deploy and call text decision models. Placehold… |
+| 2026-10-06 07:05:25 | [netbox-plugin-network-map-yativilli](https://pypi.org/project/netbox-plugin-network-map-yativilli/) | 1.0.1 | Yannick Wernle <yannick@wernl… | 612.2 kB | A network_map plugin for netbox |
+| 2026-10-06 07:09:20 | [promptmend](https://pypi.org/project/promptmend/) | 0.19.0 |  | 858.3 kB | Cross-platform Espanso prompt workflow with OpenRouter, Anthropic, Ollama, and… |
+| 2026-10-06 07:15:28 | [lo-bot-api-emulator](https://pypi.org/project/lo-bot-api-emulator/) | 0.1.0 |  | 42.8 kB | LO Bot API request contract emulator |
+| 2026-10-06 07:15:33 | [lo-aiogram](https://pypi.org/project/lo-aiogram/) | 0.1.0 |  | 41.8 kB | LO compatibility session for aiogram 3 |
+| 2026-10-06 07:15:53 | [herdr-sound](https://pypi.org/project/herdr-sound/) | 1.0.0 | ezstackai | 298.6 kB | Switch Herdr notification sounds between game-style chiptune packs |
+| 2026-10-06 07:18:48 | [subtoru](https://pypi.org/project/subtoru/) | 1.0.0 | Subtoru contributors | 82.6 kB | Subtoru — Subtitle generation & translation CLI. |
