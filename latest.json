@@ -1,19 +1,31 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-10-06T18:18:38.621868Z",
-    "path": "data/new-packages-2026-10-06T19-18-37-321364Z.csv",
-    "to": "2026-10-06T19:18:37.321364Z"
+    "count": 51,
+    "from": "2026-10-06T19:18:37.321364Z",
+    "path": "data/new-packages-2026-10-06T20-18-38-913658Z.csv",
+    "to": "2026-10-06T20:18:38.913658Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-06T19:49:31Z",
+      "package": "C110P",
+      "since": "2026-10-06T19:18:37.321364Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-06T17:08:17Z",
       "package": "maf-compaction",
       "since": "2026-10-06T16:19:30.383671Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-06T19:27:22Z",
+      "package": "skywalk",
+      "since": "2026-10-06T19:18:37.321364Z"
     }
   ],
-  "serial": 41894568,
+  "serial": 41897243,
   "source_truncated": false,
-  "window": "2026-10-06T19:18:37.321364Z"
+  "window": "2026-10-06T20:18:38.913658Z"
 }

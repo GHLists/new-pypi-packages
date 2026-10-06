@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T19:20:33Z,emo-cyber,0.1.0,EMO-Cyber-Agent Contributors,Apache-2.0,1681520,"Portable, model-agnostic cybersecurity sub-agent exposed via MCP, CLI, and Python API."
+2026-10-06T19:20:34Z,neosloc,0.3.1,Marco Montanari,MIT,148973,"Integrability evaluation for software repositories: what sloccount measured, re-asked for the age of LLMs."
+2026-10-06T19:20:58Z,noisefloor-llm,0.2.0,Christopher MacGregor,MIT,43831,Measure an LLM judge's retest variance before you trust its deltas.
+2026-10-06T19:22:24Z,recursieve,1.0.1,Kenny Pavan,MIT,42807,Iterative gene selection algorithm for single-cell group comparisons
+2026-10-06T19:27:21Z,portsight,2.0.0,rfdpro <rfdpro@gmail.com>,MIT,145618,"See who owns every local port: listeners, Docker publishes, Windows exclusions, and free ranges in one report."
+2026-10-06T19:27:37Z,arabing,0.1.0,Abbas Safardoost <a.safardoust@gmail.com>,"MIT License Copyright (c) 2026 Abbas Safardoost Permission is hereby granted, free of charge, to an…",37292,"arabing (Arabic + string) is a Python library that extends the standard `string` module with full character-set support for languages written in **Arabic-derived scripts** — Arabic, Persian, Urdu, Pa…"
+2026-10-06T19:28:31Z,ryuuseigun,0.9.0,,MIT,182888,A small async Python web framework built around ASGI.
+2026-10-06T19:28:35Z,inspect-sentinel,0.0.0,,MIT,4471,Monitors and protocols for Inspect AI. Placeholder: the first release is coming soon.
+2026-10-06T19:31:07Z,infinity_parse,0.1.2,infinity_system: yin_bailiang,MIT,30626,"Type-safe, scanf-style string parsing."
+2026-10-06T19:32:30Z,klayout-pex-plugin-gmsh,0.1.0,Martin Köhler,GPL-3.0-or-later,53566,"gmsh volume meshes of KLayout-PEX PEX25D scenes, for FEM solvers"
+2026-10-06T19:33:24Z,recipe-utils,0.1.0,AMPX team,BSD-3-Clause,15416,Utilities for preparing recipe and nuclear-data workflows
+2026-10-06T19:36:04Z,nfe-python-sdk,2.0.0,Tenzan Labs,ISC,97335,"SDK Python para integração com a API pública do saas-core (NF-e, NFC-e, CT-e, MDF-e, NFCom, DC-e, NFS-e)"
+2026-10-06T19:37:05Z,realufo,1.0.0,RealUFO,MIT,9963,Python client for the RealUFO Public API - the declassified UAP archive
+2026-10-06T19:37:58Z,oneopen-postkid,0.1.0,OneOpen,MIT,2155332,Local-first Postman-style API client with a red and white desktop UI (pure Python).
+2026-10-06T19:38:36Z,kuepr,0.0.1,,AGPL-3.0-only,1760,Name reserved for kuepr_. Not released yet.
+2026-10-06T19:39:06Z,veract,0.3.1,Diwakar <diwakarsrd28@gmail.com>,MIT,138945,Local-first verifiable agent runtime with contract floors and zero dependencies.
+2026-10-06T19:40:30Z,pypanna,0.1.0,"Matteo Ceccarello <matteo.ceccarello@unipd.it>, Francesco Pio Monaco <francescopio.monaco@unitn.it>…",MIT,1076909,A Playground for Approximate Nearest Neighbors Algorithms
+2026-10-06T19:40:55Z,protransformers,0.1.0,"Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu",Apache-2.0,16171553,ProTransformer: Robustify Transformers via Plug-and-Play Paradigm (NeurIPS 2024)
+2026-10-06T19:41:11Z,complexkit,0.2.1,GURUJI <icareyoufully@gmail.com>,MIT,29700,Solve complex-mapping and contour-integration problems easily in Python.
+2026-10-06T19:43:33Z,research-ranger,0.0.1,,Apache-2.0,1521,"Name reservation. Scholarly research tools, in design."
+2026-10-06T19:45:08Z,hasshr,0.1.0,Hasshr Team,MIT,103140,"Operate your computer in plain language, with safety controls you can trust."
+2026-10-06T19:45:14Z,nanoscope-lab,0.3.0,almajd3713,MIT,732454,See what your language model learns
+2026-10-06T19:46:47Z,iac-stig-automator,0.3.0,Keith Chason,MIT,667861,Evaluate Terraform plans against DISA STIG controls for Azure and AWS resources
+2026-10-06T19:47:21Z,my-functions-akshay,0.1.0,Akshay Ijalkar,,12969,A collection of reusable Python utility functions
+2026-10-06T19:47:39Z,offline-protocol-sdk,0.28.0,"Offline Protocol, Inc.",AGPL-3.0-only,23426291,Python bindings for the Offline Protocol SDK — offline-first mesh networking with MLS encryption
+2026-10-06T19:50:41Z,cpbenchy,0.1.0.dev0,ThomSerg,Apache-2.0,176419,"Benchmark CPMpy solvers on datasets under runexec resource limits, extensible with plugins"
+2026-10-06T19:52:46Z,klayout-pex-plugin-palace,0.1.0,Martin Köhler,GPL-3.0-or-later,33887,Palace electrostatic input from KLayout-PEX PEX25D scenes: capacitance matrices by FEM
+2026-10-06T19:56:04Z,twowayfeweights,0.1.0,"Clément de Chaisemartin, Xavier D'Haultfoeuille, Diego Ciccia, Felix Knau",MIT,1200140,"Estimate the weights attached to two-way fixed effects regressions (de Chaisemartin & D'Haultfoeuille, 2020)."
+2026-10-06T19:58:50Z,klayout-pex-plugin-elmer,0.1.0,Martin Köhler,GPL-3.0-or-later,34701,Elmer FEM electrostatic input from KLayout-PEX PEX25D scenes: capacitance matrices by FEM
+2026-10-06T19:59:51Z,adaptfunctions,0.1.1,Akshay Ijalkar,,12948,A collection of reusable Python utility functions
+2026-10-06T20:02:07Z,openscicode,0.1.0,The OSCR contributors,Apache-2.0,233934,"Open Scientific Code Registry on the command line (the `oscr` command): sign in, link a repository to its paper, trace lines to the paper's Methods, check and cite research code, and work with its Gi…"
+2026-10-06T20:02:18Z,whydra,0.1.0,Sber AI Lab,Apache-2.0,113786,"Fast causal discovery library: parallel PC-stable, FCI-stable and RAI algorithms."
+2026-10-06T20:02:41Z,sticklink,0.1.1,,,2655244,"Live stick and telemetry overlays for OBS, from an EdgeTX radio (RadioMaster Pocket)"
+2026-10-06T20:03:41Z,oak-domain-betting,0.2.0,Pumulo Sikaneta <pumulo@gmail.com>,Apache-2.0,84287,Betting domain for the OakQuant platform. Point-in-time odds capture first — the one asset in the programme that cannot be backfilled.
+2026-10-06T20:03:48Z,oak-forecast,0.2.0,Pumulo Sikaneta <pumulo@gmail.com>,Apache-2.0,143786,"The shared forecasting instrument for the OakQuant platform: overlap-aware evaluation, baseline boards, purged walk-forward, a trials ledger, deflation, and hierarchical partial pooling — domain-free…"
+2026-10-06T20:04:03Z,aer1-llamaindex,0.1.1,Brennan Zambo,,18481,AER-1 verifiable workflow receipts for LlamaIndex
+2026-10-06T20:04:53Z,raw2md,0.1.0,MikeDolg,MIT,1826740,"Convert PDF, DjVu, and DOCX into clean Markdown for RAG and LLM pipelines, with deterministic repair of converter defects."
+2026-10-06T20:05:51Z,runtimetruth,0.2.0,Sidelobe Labs,MIT,83768,Runtime verification and drift detection for AI agents.
+2026-10-06T20:07:19Z,motion-input-grid,1.0.0,,Apache-2.0,1848910,Python access to the native Motion Input Grid (MIG) recognition engine
+2026-10-06T20:09:05Z,PySide6-Pdf,0.0.1,,,903,Placeholder project for PySide6 Pdf
+2026-10-06T20:09:32Z,PySide6-WebEngine,0.0.1,,,910,Placeholder project for PySide6 WebEngine
+2026-10-06T20:09:43Z,vecview,0.2.0,Andrea Maiani <dev@andreamaiani.com>,MIT,422457,"Layered 3D scenes that render to SVG, for scientific schematics"
+2026-10-06T20:10:05Z,rodent-sdk,0.3.1,"Huzaifa Majeed, Ahmed Majeed, Muhammed Abed, Zidan Fajandar",Apache-2.0,27081,"Run Virtual Rodent Behaviour Environment experiments from Python, headlessly."
+2026-10-06T20:11:12Z,himanshumehraanalysis,0.1.0,Himanshu Mehra,MIT,15516,"A simple, one-line EDA library for pandas DataFrames"
+2026-10-06T20:12:10Z,fairmedfm,0.1.0,"Zikang Xu, Yuan Zhong, Qiongsong Yao, Qi Dou, S. Kevin Zhou, Xiaoxiao Li",CC-BY-4.0,58044,"Fairness metrics for any binary classification or segmentation model: subgroup AUC, accuracy, calibration and Dice gaps, equalized odds and equity-scaled Dice"
+2026-10-06T20:12:55Z,aireserve-sdk,0.7.0,AI Reserve <eng@aireserve.com>,Audacity Investments SDK License Copyright (c) 2026 Audacity Investments. All rights reserved. This…,92501,AI Reserve SDK — Bedrock-parity client for the AI Reserve LLM gateway
+2026-10-06T20:14:11Z,duraflow,0.1.0a1,Duraflow contributors,Apache-2.0,87484,"Independent Python durable workflow engine with replay, Pulsar and PostgreSQL"
+2026-10-06T20:14:25Z,biomed-article-converter,0.1.0,Caralyn Reisle,,54548,"convert NCBI PubMed/PMC XML formats into more common and useable downstream formats such as HTML, MD, or plain text"
+2026-10-06T20:16:37Z,pethost,0.1.0,Pethost,MIT,236770,"The Python SDK for Pethost, hosting for Docker Compose projects: deploy, read logs and requests, run commands and move files through its API."
+2026-10-06T20:17:04Z,contentdm-mcp,0.1.0,Ian Anderson,MIT,231886,"MCP server for the record images and transcripts that US state archives and state libraries publish on OCLC's CONTENTdm: search one instance or a curated list of them, read an item and its pages, and…"
+2026-10-06T20:18:15Z,sirilpybatch,0.1.0,,GPL-3.0-or-later,128497,"Drag-and-drop batch processing for Siril, extendable through small plugins."
