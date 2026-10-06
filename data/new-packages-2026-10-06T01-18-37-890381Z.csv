@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T00:21:46Z,unit-shift,0.1.1,Ange-T <angetossou.dev@gmail.com>,MIT,44048,"Convert values between units of measurement, from the command line or a graphical interface."
+2026-10-06T00:26:31Z,tocode-cli,0.2.0,buzzer-re,MIT,388076,"Export compiled binaries, IDA databases, Android APKs, and .NET assemblies as source-like projects for reverse engineering agents."
+2026-10-06T00:31:55Z,skill-placebo,0.1.0,,MIT,105891,Placebo-controlled benchmark of the most-starred coding agent skills
+2026-10-06T00:36:23Z,LENOVO3,0.1.0,Jang Sanha <aquick2020@gmail.com>,MIT,3269,Sanha package example
+2026-10-06T00:40:15Z,mcp-argocd,0.1.0,vish288,MIT,249245,"Argo CD MCP server for the MCP 2026-07-28 specification (MCP 2.0): application status, sync, rollback, drift, logs, ApplicationSets, and clusters for assistants"
+2026-10-06T00:43:58Z,dollar-one-recognizer-py,1.0.0,yuzujelly2222,BSD-3-Clause,22802,A Python 3 implementation of the $1 Unistroke Recognizer
+2026-10-06T00:44:33Z,rule-cascade,1.0.0a2,,Apache-2.0,99718,"Rule Cascade for Python, and the reference implementation: compile, publish and evaluate YAML/JSON business rules."
+2026-10-06T00:44:48Z,claudecord,0.2.2,,MIT,42158547,"Run Claude Code, agy and Codex agents on any machine as a Discord team"
+2026-10-06T00:44:57Z,withings-to-intervals-icu,0.1.0,Martin Mahner,MIT,34859,Copy Withings weight and body fat measurements into Intervals.icu wellness.
+2026-10-06T00:45:17Z,rulestamp-cbpr-address-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36300,"Find the ISO 20022 postal addresses your correspondent bank will repair by hand, before you send the message (bundled Node.js runtime)"
+2026-10-06T00:45:35Z,rulestamp-proto-wire-break-check,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,39899,Names the .proto edits that keep compiling and quietly change what old gRPC readers see (bundled Node.js runtime)
+2026-10-06T00:45:43Z,rulestamp-canal-de-denuncias-lint-es,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34769,"Revisa la política de tu canal interno de denuncias, artículo por artículo (bundled Node.js runtime)"
+2026-10-06T00:46:01Z,rulestamp-cargo-publish-gate,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33849,Names every crates.io publish blocker in a Cargo.toml before the upload burns a version number. (bundled Node.js runtime)
+2026-10-06T00:46:52Z,hymodel,0.1.0,"""Jeferson Schreiner Jr."" <jeferson.schreiner@hotmail.com>",,30110,Water Resources Code Library
+2026-10-06T00:47:36Z,iamagnus,0.1.0,Magnus,Apache-2.0,79201,Python client for the Magnus Core API: governed AI agents behind an OpenAI-compatible surface
+2026-10-06T00:49:09Z,likesurgeon,0.11.1,zeikar,MIT,201239,"Back up your YouTube Music liked songs, find relinked, duplicate and dead likes, and fix the ones it can prove."
+2026-10-06T00:49:20Z,hitman-sat,0.0.1a1,,,8790,SAT-based hitting set solver
+2026-10-06T00:50:10Z,mercupdf,0.1.0,mercupdf-project <mercupdf@example.com>,Apache-2.0,5931541,A Python-Rust native PDF extraction library
+2026-10-06T00:58:00Z,fasta2genotype,2.0.0,Paul Maier,MIT,92844,Convert Stacks haplotype FASTA files into input for population-genetic software
+2026-10-06T01:04:34Z,tortoise-sqlcipher,0.1.0,David Nugent,MIT,10585,Tortoise ORM backend support for SQLCipher-encrypted SQLite databases
+2026-10-06T01:04:47Z,openjarvis-cli,0.3.1,Bhanu Ponguru <bhanuponguru@gmail.com>,Apache-2.0,364310,OpenJarvis CLI — Autonomous agentic orchestration client and terminal interface routing tasks across LLMs
+2026-10-06T01:09:25Z,actionsbench,0.1.1,Aliu Tijani,MIT AND CC-BY-4.0,199217,A labeled benchmark and evaluation harness for GitHub Actions workflow security scanners.
+2026-10-06T01:14:05Z,rapidsar,0.0.1a1,RapidSAR contributors,MIT,194972,Rapid Sentinel-1 SAR building damage-change detection and mapping
