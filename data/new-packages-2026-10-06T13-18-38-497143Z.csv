@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T12:22:45Z,admeasy,0.2.0,Admeasy <aadesh.panwar@admeasy.in>,TBD,83993,"Python SDK and CLI for Admeasy AI, the AI employee infrastructure platform."
+2026-10-06T12:24:06Z,cwaterx-identity,0.0.1,CWaterX LLC,LicenseRef-Proprietary,3057,Name reserved by CWaterX. Not a usable package.
+2026-10-06T12:24:10Z,easitwo,26.0,Altaria <1602422136@qq.com>,MIT,55171,Used to easily create a 2D game
+2026-10-06T12:25:33Z,get-fsa-training-done,1.0.0,Phuong Bui,MIT,2448896,"One agent skill, and the CLI behind it, for getting FSA training done: programmes, teaching material and assessments. Installs into Claude Code and Codex."
+2026-10-06T12:25:51Z,celery-multibeat-scheduler,0.1.0,Mitja Pagon <mitja@inueni.com>,MIT,44568,Redis-backed leader election for redundant Celery Beat schedulers
+2026-10-06T12:25:55Z,djangocms-cookiesregtech,1.0.0,SKYNET TECHNOLOGIES USA LLC,MIT,27179,"CookiesRegTech cookie consent for Django CMS and any Django site: guided connect, automatic banner injection, cookie scanner, and consent log."
+2026-10-06T12:27:28Z,nanowork,0.0.1,Andrei Tim,,1280,"Tiny local-only agentic runner (placeholder, first release pending)"
+2026-10-06T12:27:36Z,nanowork-core,0.0.1,Andrei Tim,,812,"Core agentic backend of NanoWork (placeholder, first release pending)"
+2026-10-06T12:29:00Z,remus,0.3.0,Romeyus,,7092,The functional progamming toolkit for Python.
+2026-10-06T12:29:46Z,team-claude-doctor,0.1.0,,MIT,82938,"Deterministic, team-aware AI workbench configuration auditor"
+2026-10-06T12:30:02Z,acropora,0.0.1,Stephan Simonis,Apache-2.0,11627,Computing statistical solutions of nonlinear partial differential equations
+2026-10-06T12:30:49Z,GixPython,0.1.0,Sebastian Thiel <sebastian.thiel@icloud.com>,MIT OR Apache-2.0,36338443,"Faithful, parallel Python bindings to gix::Repository"
+2026-10-06T12:31:46Z,l2co-optimizers,0.2.0,Martin van der Schelling <m.p.vanderschelling@tudelft.nl>,BSD-3-Clause,259464,Bare optimizers compatible with the L2CO library
+2026-10-06T12:32:02Z,screwinboxads,1.0.0,Screw Team,MIT,56479,"Реклама Screw Inbox Ads в Telegram-боте на aiogram 3: вопрос с кнопками, оффер и подтверждение показов"
+2026-10-06T12:34:34Z,wagtail-cookiesregtech,1.0.0,SKYNET TECHNOLOGIES USA LLC,MIT,41739,"CookiesRegTech cookie consent for Wagtail: guided connect in the Wagtail admin, automatic banner injection, cookie scanner, and consent log."
+2026-10-06T12:35:33Z,memory-hive-mcp,0.1.0,Memory Hive,MIT,9869,Local-first personal memory for your AI agents — an MCP stdio bridge to the Hive running on your own machine.
+2026-10-06T12:39:12Z,skybrush-log-analyzer,0.1.0,"Peter Volf, Tamas Nepusz, Gabor Vasarhelyi",,28406,Command line application for ArduPilot log analysis using https://logs.skybrush.io.
+2026-10-06T12:39:29Z,rtsl-scorer-core,0.1.0,,,26477,Lightweight client for rendered-text semantic leakage scoring with external backends
+2026-10-06T12:39:56Z,rtsl-scorer,0.1.0,,,8717,Score rendered-text semantic leakage in generated images
+2026-10-06T12:41:40Z,hume-expression-measurement,0.1.0,,,289368,A Python SDK for the Hume Expression Measurement API
+2026-10-06T12:44:42Z,modelmux-cli,0.1.0,,Apache-2.0,168131,"Set up, log in to and run ModelMux: AI coding CLIs as an OpenAI-compatible API"
+2026-10-06T12:46:12Z,example-package-ShotaDeguchi,0.0.1,Shota Deguchi <shotadeguchio2o5@gmail.com>,MIT,5306,A small example package
+2026-10-06T12:46:14Z,flaskion,2.0.0a1,Graham Patrick <graham@skyaisoftware.com>,,574041,An opinionated application framework and scaffolder for Flask
+2026-10-06T12:46:16Z,ragleap-integrations,0.1.0,Antony <antony@ragleap.com>,MIT,48318,"MCP client that turns allowlisted tools on remote MCP servers into ragleap-tools Tool objects. Streamable HTTP only, standard library plus ragleap-tools, owner-configured allowlist, pinned and bounde…"
+2026-10-06T12:47:06Z,log-ai-compressor,2.0.0,,MIT,396382,本地日志分析取证台：日志压缩投喂大模型 + 根因排查 + MCP 接入（数据不出网）
+2026-10-06T12:47:57Z,beseda,0.1.1,Mikhail Angelov,MIT,55489,Voice conversations with your coding agent: a terminal assistant in Russian or English with local speech recognition and synthesis
+2026-10-06T12:48:05Z,klyuchora,0.2.0,Klyuchora,MIT,45758,"SDK Ключоры для Python: все модели, стриминг, лимиты ключей, баланс кабинета. Сайт: https://klyuchora.ru"
+2026-10-06T12:49:31Z,tidebridge-dev-auth-guard,0.0.0,,,2569,Name reserved by Tidebridge. The real package (the refusal guard of the Tidebridge Local Auth Override) is distributed privately; installing this one means a dependency reference is wrong.
+2026-10-06T12:49:47Z,unifiedwvalticolocs,2026.10.6,umr-lops <antoine.grouazel@ifremer.fr>,MIT,1336456,lib python to generate colocs S1 WV with CMEMS or CCI seatstate altimeters
+2026-10-06T12:49:50Z,tidebridge-dev-auth,0.0.0,,,2502,Name reserved by Tidebridge. The real package (the dev-only bypass of the Tidebridge Local Auth Override) is distributed privately; installing this one means a dependency reference is wrong.
+2026-10-06T12:50:37Z,e2b-claude-toolsets,0.0.1,,,92900,E2B browser and computer drivers for Anthropic toolsets
+2026-10-06T12:52:55Z,beaco,0.2.0,Michael Ogunjimi,MIT,26639,Official Python SDK for Beaco
+2026-10-06T12:54:32Z,tcxp,0.1.0,Ron Itelman,Apache-2.0,1846153,"Typed Context Protocol (tcxp) v0.1 reference engine: one-line addresses that parse into expression trees, carry their own context, and run"
+2026-10-06T12:54:45Z,duter,0.1.0,halibote,MIT,20463,"Summon a sprite: a magical being appears and sparks of joy bloom, ending with HAPPINESS glowing in the sky — one line of magic, zero dependencies, and a little joy."
+2026-10-06T12:55:50Z,quick-mock-api,0.1.0,mayuriphad <mayuriphad656@gmail.com>,MIT,7611,"A zero-config REST API mock server based on JSON files, inspired by json-server."
+2026-10-06T12:55:55Z,md-mailer,0.1.0,mayuriphad <mayuriphad656@gmail.com>,MIT,8472,"A simple library to convert Markdown files into beautifully styled, inline-CSS HTML emails and send them."
+2026-10-06T12:58:22Z,essenceteacher-mcp,0.1.0,EssenceScholar <admin@essencescholar.com>,MIT,17331,"MCP server exposing EssenceTeacher courses, assignments, grading and student support as agent tools"
+2026-10-06T12:59:03Z,vanillasort,0.1.0,"Zishuo Feng, Feng Cao",AGPL-3.0-only,140361,"VanillaDet, HuiduRep and VanillaCluster for extracellular spike sorting"
+2026-10-06T13:00:30Z,gpu-energy-profiler,0.1.2,Vincent Eichhorn,MIT,34645,A tool for profiling GPU energy consumption.
+2026-10-06T13:02:20Z,huebox,0.3.0,Mikkel Kappel Persson <mikkel@kappelpersson.dk>,MIT,294022,A terminal theme editor with live preview
+2026-10-06T13:04:20Z,Yuvacodes,0.1.0,MyCodes Contributors,MIT,38395,A personal cloud-based code library for Python and Jupyter Notebooks
+2026-10-06T13:06:06Z,tg-chat-dump,1.1.0,renkagod,MIT,53909,"Dump a whole Telegram chat or forum at 100k+ messages a minute into SQLite, JSONL and one folder per topic"
+2026-10-06T13:09:16Z,t8ot,0.3.0,,MIT,48215,"A modern, ergonomic micro-framework built on top of pyTelegramBotAPI (telebot)"
+2026-10-06T13:10:41Z,odoo-addon-stock-orderpoint-variant-mto-as-mts,18.0.1.1.0,"Camptocamp SA, BCIM, Odoo Community Association (OCA)",AGPL-3,25537,Stock Orderpoint Variant MTO as MTS
+2026-10-06T13:11:53Z,geki,0.0.1,,MIT,3291,Python client and CLI for the GEKI API (in development)
+2026-10-06T13:15:23Z,noxhere,0.1.0,No Box Dev,PolyForm-Noncommercial-1.0.0,13838,Unified Python SDK for every NoxHere resource
+2026-10-06T13:15:27Z,majordom-esphome,0.1.2,Mark Parker,LicenseRef-PolyForm-Noncommercial-1.0.0,62936,ESPHome integration for MajorDom — bridges ESPHome devices into the MajorDom language.
+2026-10-06T13:16:10Z,git-ew,0.1.0,Timothée Mazzucotelli <dev@pawamoy.fr>,ISC,122751,Git Email Workflow
+2026-10-06T13:18:11Z,l2co-tasks,0.1.0,Martin van der Schelling <m.p.vanderschelling@tudelft.nl>,BSD-3-Clause,155871,Optimization tasks compatible with the L2CO library
