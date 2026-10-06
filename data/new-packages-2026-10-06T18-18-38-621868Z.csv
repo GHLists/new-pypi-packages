@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T17:19:08Z,jenkins-mcp-toolkit,0.4.0,Pedro Calixto,MPL-2.0,190337,"Servidor MCP do Jenkins: consulta de builds, detecção por commit, navegação de multibranch e input de promoção."
+2026-10-06T17:20:36Z,cdk8s-plus-35,2.0.0,Amazon Web Services,Apache-2.0,6864527,cdk8s+ is a software development framework that provides high level abstractions for authoring Kubernetes applications. cdk8s-plus-35 synthesizes Kubernetes manifests for Kubernetes 1.35.0
+2026-10-06T17:24:05Z,escaping-site,0.6.0,geoqiao,MIT,113178,Turn GitHub Issues into Markdown files for a site to render
+2026-10-06T17:25:02Z,mathsteps,0.1.0,mathsteps contributors,MIT,195881,"A step-by-step symbolic/numerical math solver. Linear algebra, root finding, IVPs, BVPs - every step explained, every answer verified."
+2026-10-06T17:26:31Z,okto-nexus-connector-core,0.0.1,Okto Labs,LicenseRef-Okto-Labs-ELv2-SaaS-Branding,1072556,Shared native harness runtime contracts for Okto Nexus
+2026-10-06T17:26:36Z,okto-nexus-connector,0.0.1,Okto Labs,LicenseRef-Okto-Labs-ELv2-SaaS-Branding,947762,"Remote harness connector application for Okto Nexus (CLI, daemon, outbound WSS control)"
+2026-10-06T17:27:54Z,puenteo-core,0.9.1,,MIT,1445356,"Optional native accelerator for puenteo (Rust, PyO3). puenteo works without it."
+2026-10-06T17:28:00Z,zohomail,1.1.1,alphaolomi <10551599+alphaolomi@users.noreply.github.com>,"MIT License Copyright (c) 2026 alphaolomi Permission is hereby granted, free of charge, to any pers…",139126,"Local Zoho Mail mirror: IMAP sync into SQLite, a CLI, and an MCP server"
+2026-10-06T17:28:26Z,adroit-wpd2text,0.1.0,Seamus Martin,MPL-2.0,2052518,Small WordPerfect text extraction wrapper around libwpd
+2026-10-06T17:29:04Z,voxrelitts,0.1.0,,MIT,7993,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:29:11Z,voxgramasr,0.1.0,,MIT,8007,Tiny standard-library loader for remote speech-recognition profiles
+2026-10-06T17:29:17Z,melstagen,0.1.0,,MIT,7979,Tiny standard-library loader for remote audio-analysis profiles
+2026-10-06T17:29:24Z,inframetric,0.1.0,,MIT,8007,Tiny standard-library runner for remote benchmark profiles
+2026-10-06T17:34:27Z,modupy,0.11.0,Jean Sossmeier <jeansossmeier@gmail.com>,Apache-2.0,1830353,"Modular monolith pattern for Python — module structure, event-driven boundaries, transactional outbox, optional process-per-module runtime."
+2026-10-06T17:34:52Z,pecca,0.1.0,Fazil Ahamed <fazilahamed@gmail.com>,Apache-2.0,743246,"Replace repetitive LLM calls with small, auditable ML models. Record → Shadow → Live, LLM kept as fallback."
+2026-10-06T17:37:26Z,orchestril,0.1.0,,MIT,8040,Tiny standard-library dispatcher for remote runtime profiles
+2026-10-06T17:37:32Z,kuberoute,0.1.0,Kuberoute AI Team <vikas.budde@hotmail.com>,MIT,14500,Official Python SDK for Kuberoute AI Intelligent Routing & Orchestration
+2026-10-06T17:37:32Z,prosodinetts,0.1.0,,MIT,8068,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:37:39Z,dictanovaasr,0.1.0,,MIT,8067,Tiny standard-library loader for remote speech-recognition profiles
+2026-10-06T17:37:47Z,codecraze,0.1.0,,MIT,8014,Tiny standard-library loader for remote audio-analysis profiles
+2026-10-06T17:38:12Z,warwick-sciml,2026.1.0,James Kermode,MIT,130509,"Support modules for the Warwick PX914/ES98E Predictive Modelling, UQ and Scientific Machine Learning module"
+2026-10-06T17:39:25Z,voice-compute,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2824,"Local GPU-accelerated voice compute server with STT (Whisper), TTS (F5/Edge-TTS), and voice conversion."
+2026-10-06T17:39:29Z,saina,0.1.0rc1,,Apache-2.0,38169,Saina HTTP SDK and optional Helm model inference
+2026-10-06T17:39:32Z,noumind,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2701,"Agentic memory engine, hierarchical index map, and semantic retrieval architecture for Nouride."
+2026-10-06T17:39:39Z,nouva,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2583,Lead autonomous coordinator and companion agent for Nouverse Technologies.
+2026-10-06T17:44:48Z,brevet,0.2.0,Brightbeam AI <oss@brightbeam.ai>,Apache-2.0,180992,"Change control for what AI agents learn: corrections become proposed rules, a named person approves each one, approved rules ship in signed versions, and any rule can be withdrawn. Wraps the agent fr…"
+2026-10-06T17:45:56Z,datavault-cli,1.0.0,Ry Nguyen,,47212,Cryptographic provenance and version control for AI training datasets
+2026-10-06T17:46:28Z,memories-classify,1.2.0,Aohzan <aohzan@gmail.com>,,53952,Sort and organize personnal photos and videos
+2026-10-06T17:47:31Z,marbots-sdk,0.1.0,Gravicode Studios (Kang Fadhil),MIT,28112,"Typed Python SDK for Marbots, the multi-agent collaboration platform (Boss Man orchestration, per-bot models, skills, MCP, A2A). By Gravicode Studios, led by Kang Fadhil."
+2026-10-06T17:47:37Z,desktopaccountingapi-quickbooks-desktop,0.1.0,Desktop Accounting API,MIT,993318,"Python client for Desktop Accounting API, the REST API for QuickBooks Desktop."
+2026-10-06T17:49:04Z,certbot-dns-delegation,0.1.2,tiyee <tiyee@live.com>,MIT,10121,Installation alias for certbot-dns-alias: Certbot DNS-01 plugin with CNAME delegation for Alibaba Cloud DNS and Tencent Cloud DNSPod
+2026-10-06T17:49:32Z,saneless,0.2.0,Kris Knigga,MIT,1021120,SANE scanner to paperless-ngx bridge
+2026-10-06T17:49:56Z,agent-pbx,2.1.0,Agent PBX contributors,Apache-2.0,1295628,Runtime-grounded control plane for durable Codex Agent and Operator sessions.
+2026-10-06T17:50:39Z,buddelkiste,0.1.0,Michael van Bracht <michael@wontfix.org>,,120027,Run a command inside a bubblewrap sandbox
+2026-10-06T17:50:48Z,wapr,0.0.2,Yulin Wang <yulinwang@seu.edu.cn>,LGPL-2.1-only,3415457,Wide-angle pose refinement for unseen object 6D pose estimation
+2026-10-06T17:53:49Z,rustevex,0.0.1,Andrew Loza <77357202+ajloza@users.noreply.github.com>,MIT,6829575,Fast event pattern matching over timestamped token sequences
+2026-10-06T17:54:03Z,python-osint,0.1.0,python-osint contributors,MIT,24160,Lightweight OSINT utilities with a built-in Telegram Bot API client; no python-telegram-bot dependency.
+2026-10-06T17:58:08Z,routehub,0.1.0,Kye Gomez <kye@swarms.world>,Apache-2.0,129856,"A fast, lightweight LLM gateway with a litellm-compatible API, built on the OpenAI SDK."
+2026-10-06T17:58:18Z,garviscope,0.1.0,,MIT,7980,Tiny standard-library runner for remote benchmark profiles
+2026-10-06T17:58:25Z,flowmetry,0.1.0,,MIT,8009,Tiny standard-library dispatcher for remote runtime profiles
+2026-10-06T17:58:32Z,eulaliatts,0.1.0,,MIT,8072,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:58:40Z,phoneliasr,0.1.0,,MIT,8041,Tiny standard-library loader for remote speech-recognition profiles
+2026-10-06T17:59:52Z,sonara-client,0.21.7,Max Aubert,MIT,36289,Client for the Sonara text-to-speech runtime (protocol v1). Standard library only.
+2026-10-06T18:00:03Z,zmuxio,0.1.0,zmuxio contributors,Apache-2.0,544512,Python package for the ZMux v1 stream multiplexing protocol
+2026-10-06T18:00:34Z,zmuxio-aioquic,0.1.0,zmuxio contributors,Apache-2.0,69680,Optional aioquic QUIC adapter for zmuxio
+2026-10-06T18:03:49Z,desktop-agent-windows,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2931,"Lightweight native Windows automation, GUI control, and desktop bridge agent for Nouverse."
+2026-10-06T18:04:36Z,irpx,1.0.0,IRPX Contributors,MIT,28027,Information Retrieval practical programs and command-line toolkit
+2026-10-06T18:05:31Z,cryptoarithmetic,0.1.0,Loris De Vos,MIT,142406,"Cryptography from scratch in pure Python, for study: finite fields, elliptic curves, Schoof, SHA-2/3, HMAC/KMAC/CMAC, AES, DES, CBC/CTR/GCM, RSA, ECDSA"
+2026-10-06T18:09:05Z,simulates,0.0.0,,,2181,Add your description here
+2026-10-06T18:11:31Z,ebooks-cli,0.9.0,AgentCulture,Apache-2.0,259536,"Private, self-hosted ebook library: stores, ingests, converts and serves books (API, OPDS, MCP) from hardware you own. Split from xteink, which keeps the e-reader/device side."
+2026-10-06T18:12:26Z,varInspect,0.1.0,amphibiar,MIT,17363,"Print a table of your Python variables, their datatypes, and their values."
+2026-10-06T18:13:09Z,safecommit-jonatanyv,0.1.0,,,26287,DevSecOps tool for B2B agencies to prevent secret leaks.
+2026-10-06T18:15:06Z,spectrova,0.1.0,,MIT,7961,Tiny standard-library loader for remote audio-analysis profiles
+2026-10-06T18:15:13Z,garvisuite,0.1.0,,MIT,7996,Tiny standard-library runner for remote benchmark profiles
+2026-10-06T18:15:19Z,stackvane,0.1.0,,MIT,8002,Tiny standard-library dispatcher for remote runtime profiles
+2026-10-06T18:15:25Z,lumitts,0.1.0,,MIT,7959,Tiny standard-library loader for remote voice-synthesis profiles
