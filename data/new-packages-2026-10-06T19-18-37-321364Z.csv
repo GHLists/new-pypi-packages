@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T18:18:52Z,seqhesion,0.1.0,Josh Walker,BSD-3-Clause,157532,"A label-blind hierarchy of sequence groups, built from many small overlapping trees"
+2026-10-06T18:20:42Z,ai-api-guard,0.1.0,Muhammad Yousaf Raza,"MIT License Copyright (c) 2026 Muhammad Yousaf Raza Permission is hereby granted, free of charge, t…",37137,"Reliability, observability, and cost-control toolkit for AI APIs."
+2026-10-06T18:26:11Z,remcycle,0.3.0,Lian Matsuo,Apache-2.0,159836,"Garbage collection for Claude Code's memory: rereads your sessions every day, keeps what you decided, and questions stale notes"
+2026-10-06T18:28:32Z,davsemone,0.1.0,DAV Sem One,MIT,12891,Print DAV semester-one practical source code in Python and Jupyter output cells.
+2026-10-06T18:28:59Z,rcs-robotiq2f85,0.7.3,Tobias Juelg <tobias.juelg@utn.de>,AGPL-3.0-or-later,3944,RCS RobotiQ module
+2026-10-06T18:29:00Z,rcs-ur5e,0.7.3,"Tobias Juelg <tobias.juelg@utn.de>, Johannes Hechtl <johannes.hechtl@siemens.com>",AGPL-3.0-or-later,13282,RCS UR5e module
+2026-10-06T18:29:01Z,rcs-usb-cam,0.7.3,Seongjin Bien <seongjin.bien@utn.de>,AGPL-3.0-or-later,5071,RCS USB Camera module
+2026-10-06T18:29:02Z,rcs-xarm7,0.7.3,"Tobias Juelg <tobias.juelg@utn.de>, Ken Nakahara <knakahara@lasr.org>",AGPL-3.0-or-later,6798,RCS xArm7 module
+2026-10-06T18:30:13Z,semiont,0.6.12,,Apache-2.0,396444,"The Python SDK for Semiont, an open platform for building trusted AI knowledge bases"
+2026-10-06T18:31:59Z,maskflow-attest,0.1.0,,MIT,29609,"Reproducible, signed accuracy attestations for a pinned MaskFlow recognizer pack version -- Ed25519 sign/verify, a document format, and an append-only revocable registry."
+2026-10-06T18:32:22Z,songbrain,0.1.0,Songbrain <support@songbrain.ai>,MIT,35445,"Official Python client for the Songbrain API: song in, video plan out. Song DNA, beat grid, best moments, timed lyrics, story and a beat-synced shot plan."
+2026-10-06T18:33:18Z,tasleemat,2.0.3,,,14685740,AI-Native Project Management OKF Framework
+2026-10-06T18:33:50Z,svganim,0.1.0,Aleix Alcacer Sales,MIT,18747,"Turn a matplotlib figure and an update function into a single self-contained animated SVG. No GIFs, no JavaScript."
+2026-10-06T18:40:18Z,caland,0.5.0,Misja Pronk,Apache-2.0,414400,A keyboard-driven terminal UI for managing Databricks secrets
+2026-10-06T18:43:20Z,grind-t-lint-rules,0.1.0,grind-t,ISC,12835,Custom lint rules for Python projects
+2026-10-06T18:43:58Z,wlearn-dimred,0.1.0,,Apache-2.0,142401,"C-authored PCA, t-SNE, UMAP and TriMap on Polygrad"
+2026-10-06T18:44:11Z,gpu-vram-cleaner,0.2.0,andriusland,Apache-2.0,52735,Terminal UI to monitor NVIDIA GPUs and free VRAM by closing the processes that use it
+2026-10-06T18:46:17Z,okareo-vision-beta,0.1.0,Okareo <info@okareo.com>,Apache-2.0,206744,"Simulate a customer against an agent that lives behind a web UI, with Okareo"
+2026-10-06T18:47:28Z,deepsleuth,1.0.3,DeepSleuth <338080601+DeepSleuth@users.noreply.github.com>,Apache-2.0,661045,Deepsleuth — read the fine print. Deterministic deep-visibility security scanner for MCP servers (no LLM).
+2026-10-06T18:48:03Z,ghimera,0.3.0,Josh Gompert,MIT,782840,Intent-driven web research with bounded collection and source-bound evidence
+2026-10-06T18:50:20Z,folokroo,1.0.0,,MIT,13916,"Библиотека для ботов мессенджера FoloKroo (Bot API), один файл без зависимостей"
+2026-10-06T18:52:02Z,local-memory,0.2.0,local-memory contributors,MIT,78857,"Local-first long-term memory MCP server for AI agents. SQLite, offline, zero cloud."
+2026-10-06T18:52:54Z,stubgql,0.1.0,Tobi,MIT,31715,"Schema-aware stub data for GraphQL, with built-in AWS AppSync support"
+2026-10-06T18:54:55Z,dendra-models,0.2.0,Minhaj Hussain <minhaj.hussain@duke.edu>,LicenseRef-Duke-Research-NonCommercial AND CC-BY-NC-SA-4.0,113923933,Models for Dendra
+2026-10-06T18:56:17Z,starpulse,0.1.0,,MIT,547340,"StarPulse visualizes the workflows runs adapters read, lifecycle machines and the agents moving through them"
+2026-10-06T18:58:08Z,switchboard-chat,0.21.1,,MIT,3174321,A local group chat where you and your coding agents talk and hand work to each other
+2026-10-06T18:58:33Z,tycheon,0.1.0,The Tycheon Authors,Apache-2.0,396490,Calibrated financial forecasting and risk. Kronos forecasts the path; Tycheon tells you how much to trust it.
+2026-10-06T18:59:21Z,flowblueprint,0.2.0a0,Sambit Supriya Dash,MIT,138357,"The Python architect: turn scripts, Jupyter notebooks and whole projects into architecture diagrams (draw.io, SVG, HTML, Mermaid) with inputs, outputs, dtypes, loops and decisions"
+2026-10-06T19:08:56Z,kankyo,1.0.1,depthbomb <depthbomb@super.fish>,MIT,45984,Define an environment schema and generate a typed Python configuration client.
+2026-10-06T19:09:28Z,whatsthis,0.1.0,Patrick Padgett,MIT,163560,"huh: what is this string? Ranked readings of timestamps, tokens, cron lines, modes, hashes, colours and addresses - offline, with the Unix one-liner that reproduces each answer."
+2026-10-06T19:09:37Z,whom-cli,0.1.0,Patrick Padgett,MIT,26181,"whom: who to ask about this file, and are they awake? Contributor ranking and local-time inference from git history."
+2026-10-06T19:10:36Z,python-can-busmust,0.1.0a1,,GPL-2.0-or-later,55739,Alpha native PyUSB BUSMUST CAN and CAN FD backend for python-can
+2026-10-06T19:17:04Z,DominoDefBuilder,0.4.0,miuradaipotchama1145141919,Unlicense,38436,Build Domino sound source definition XML files from YAML sources
