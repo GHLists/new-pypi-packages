@@ -1,43 +1,43 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-10-06T15:18:50.880121Z",
-    "path": "data/new-packages-2026-10-06T16-19-30-383671Z.csv",
-    "to": "2026-10-06T16:19:30.383671Z"
+    "count": 40,
+    "from": "2026-10-06T16:19:30.383671Z",
+    "path": "data/new-packages-2026-10-06T17-19-05-143729Z.csv",
+    "to": "2026-10-06T17:19:05.143729Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-06T13:12:17Z",
-      "package": "Neutral-Trust-Infrastructure",
-      "since": "2026-10-06T12:18:40.004978Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-06T14:47:07Z",
       "package": "lavlab-cli-utils",
       "since": "2026-10-06T14:18:36.01359Z"
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-06T17:08:17Z",
+      "package": "maf-compaction",
+      "since": "2026-10-06T16:19:30.383671Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-06T13:59:29Z",
       "package": "odoo-addon-marketing-campaign-dates",
       "since": "2026-10-06T13:18:38.497143Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-06T14:46:10Z",
       "package": "ovflow",
       "since": "2026-10-06T14:18:36.01359Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-06T14:45:22Z",
       "package": "ros-madair",
       "since": "2026-10-06T14:18:36.01359Z"
     }
   ],
-  "serial": 41888269,
+  "serial": 41890043,
   "source_truncated": false,
-  "window": "2026-10-06T16:19:30.383671Z"
+  "window": "2026-10-06T17:19:05.143729Z"
 }

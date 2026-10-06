@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T16:19:51Z,tempmail-watcher,1.2.1,Om Singh,MIT,55031,"Zero-dependency CLI that creates a disposable inbox, waits for verification emails, and copies the OTP or confirmation link to your clipboard."
+2026-10-06T16:21:42Z,ailens-evals,0.2.0,Sonali Nayak,MIT,80050,"Evals for AI apps that make text, images, video or audio: is it getting better or worse with every change, why, and what it costs."
+2026-10-06T16:23:50Z,admet,0.1.0b3,,AGPL-3.0-only,3888206,Automatic Droplet Management Extended Toolkit: microfluidics acquisition and droplet analysis
+2026-10-06T16:24:23Z,thai-voice-command,0.1.0,vasinth0083,MIT,21440,"Thai voice commands made simple: wake phrase, command routing with safe fuzzy matching, and lightweight VAD. Works with any speech recognizer."
+2026-10-06T16:24:27Z,salpa-mcp,0.1.1,Salpa,Apache-2.0,24434,"Let your own AI agent drive your Salpa: list templates, prepare workflows, run them and read their results, over the Model Context Protocol."
+2026-10-06T16:24:49Z,doc2doc-client,0.1.0,Marc Meese <marc@marcmeese.de>,MIT,35656,Async Python client for the doc2doc conversion service
+2026-10-06T16:26:05Z,golgi-nerve,1.1.0,"David Lung, Yuting Jia, Andrea Moro, Matteo Fachino",AGPL-3.0-or-later,600044,"Anatomically realistic, reproducible image-to-population modeling of peripheral nerve stimulation."
+2026-10-06T16:27:16Z,xteink,0.9.1,AgentCulture,Apache-2.0,261732,"Control Xteink e-ink readers privately: a local server with a file/book service, optional remote access via Cloudflare Tunnel, and custom device firmware that joins Wi-Fi to sync books locally so rea…"
+2026-10-06T16:27:44Z,warmbox,0.5.4,,Apache-2.0,24451,Typed Python client for the warmbox REST API
+2026-10-06T16:29:08Z,localstack-javascript,0.1.0,,Apache-2.0,8253642,LocalStack's JavaScript runtimes on QuickJS: AppSync APPSYNC_JS and CloudFront Functions
+2026-10-06T16:30:10Z,certbot-dns-alias,0.1.1,tiyee <tiyee@live.com>,MIT,180909,Certbot DNS-01 plugin with CNAME delegation for Alibaba Cloud DNS and Tencent Cloud DNSPod
+2026-10-06T16:31:09Z,flowpde,0.2.0,Sarper Yurtseven,MIT,237662,"Flow matching and neural ODEs for forward and inverse PDE problems, built on PyTorch"
+2026-10-06T16:31:37Z,immopy,0.0.1,,GPL-3.0-or-later,2912,immopy
+2026-10-06T16:34:23Z,voxilaratts,0.1.0,,MIT,8062,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T16:35:45Z,crenelatts,0.1.0,,MIT,8023,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T16:36:51Z,phonoviatts,0.1.0,,MIT,8053,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T16:37:57Z,quillonatts,0.1.0,,MIT,8030,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T16:38:06Z,loopgrid-openai-agents,0.1.0,LoopGrid,Apache-2.0,30294,"Signed, tamper-evident decision evidence for OpenAI Agents SDK workflows using LoopGrid"
+2026-10-06T16:40:17Z,internal-affairs-4-ai,0.1.0,Internal Affairs 4 AI,Apache-2.0,288949,"AI agent forensics & cost governance. Instrument agents, reconstruct why they chose what they did, and audit whether a cheaper model could do the same job."
+2026-10-06T16:43:45Z,quadlib,0.1.0,"Oriol Vendrell <oriol.vendrell@uni-heidelberg.de>, Sudip Sasmal <sudipsasmal.chem@gmail.com>",MIT,131650,"QuaDLib: Quantum Dynamics Library for Research, Development and Education"
+2026-10-06T16:44:20Z,npc-verify-mcp,1.0.0,,MIT,27385,Verified by NPC — MCP server. Ask 'is this real?' inside any MCP-capable assistant.
+2026-10-06T16:44:22Z,gpx2roadbook,0.1.0,Bastien Nogaro,AGPL-3.0-or-later,82300,"Turn a GPX file with POIs into a compact, printable road book for a bike top tube."
+2026-10-06T16:49:33Z,usehusk,0.1.0a1,Husk,MIT,77684,"Lightweight, metadata-only AI usage attribution for Husk"
+2026-10-06T16:51:11Z,sd-backend-client,0.2.1,Anthony Brown,Unlicense,210863,"Standalone, headless Stable Diffusion backend client (ComfyUI / Forge / A1111 WebUI, ControlNet)"
+2026-10-06T16:52:07Z,eprdating,0.1.1,"Carol Jiseth Ospina Umaña, Juan Sebastián Castro Millán, Ovidio Amado Almanza Montero","MIT License Copyright (c) 2026 Miguel Enrique Gámez López Permission is hereby granted, free of cha…",1255133,"Open ESR dating of tooth enamel in Python: EPR and HPGe gamma spectra, dose rates with one-group beta attenuation, EU/LU/US-ESR/CSUS-ESR ages with Monte Carlo uncertainties; validated against ROSY, D…"
+2026-10-06T16:59:15Z,jev-runner,0.1.0,Lakshya Gupta,"MIT License Copyright (c) 2026 Lakshya Gupta Permission is hereby granted, free of charge, to any p…",27046,Run Jev Choice and Noul questions over caller-defined states and return structured answers.
+2026-10-06T17:01:36Z,c3po-neuro,0.1.0,Samuel Bray <sam.bray@ucsf.edu>,"MIT License Copyright (c) 2025 Sam Bray Permission is hereby granted, free of charge, to any person…",17154931,Unsupervised model to infer latent generative processes from point processes occuring in R^d spcae. Developed with focus for inferring neural states from waveform features of unclustered spike events.
+2026-10-06T17:03:18Z,nxr-convert,0.2.0,Diellor Basha,MIT,384584,Convert Brainstorm MEG/EEG protocols into nxr datastores (SQLite rows + Zarr v3 arrays) for the Cortical Flow desktop app.
+2026-10-06T17:09:10Z,robtune,0.0.1,andrader,,2154,Placeholder. Released after the author's master's thesis defense.
+2026-10-06T17:13:54Z,docstorage,0.0.1,Michael Kornilich,,12920,"A local, fully-managed file storage CLI app"
+2026-10-06T17:16:20Z,quantum-mind,2.0.0,Yeshwanth Guru <yeshwanth445@gmail.com>,Apache-2.0,434982,"Quantum-like, quantum and quantum-inspired models with classical baselines, Qiskit circuits and a 3D Bloch-sphere viewer"
+2026-10-06T17:16:45Z,tessivatts,0.1.0,,MIT,8035,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:16:51Z,brummatts,0.1.0,,MIT,8017,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:16:57Z,solivoxtts,0.1.0,,MIT,8006,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:17:04Z,melcuratts,0.1.0,,MIT,8052,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:17:12Z,aurenatts,0.1.0,,MIT,8038,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:17:19Z,vellutts,0.1.0,,MIT,7993,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:17:26Z,grommatts,0.1.0,,MIT,8026,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:17:36Z,zennittts,0.1.0,,MIT,8035,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-06T17:17:58Z,trackfetch,2.0.0,ByteMe6,GPL-3.0-or-later,58291,"Turn a text file of songs into tagged MP3s: Spotify metadata and cover art, best-match YouTube audio via yt-dlp."
