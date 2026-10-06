@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T14:00:55Z,odoo-addon-social-media-linkedin-sync,17.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,117339,"Import LinkedIn publications, their figures, comments and reactions"
+2026-10-06T14:01:56Z,odoo-addon-pos-customer-display-monitor,17.0.1.0.0.2,"APSL-Nagarro, Odoo Community Association (OCA)",AGPL-3,45160,Select the monitor used by the POS customer display
+2026-10-06T14:25:34Z,nwversioninfofiles,2.0.1,numbworks,MIT,17757,A library that facilitates the creation of Version Info Files for PyInstaller.
+2026-10-06T14:26:55Z,simulium,0.0.1,Alix Leroy,,3017,"Name reserved for Simulium, a message bus for simulations. Not released on PyPI yet."
+2026-10-06T14:26:57Z,simulium-lite,0.0.1,Alix Leroy,,3198,"Name reserved for simulium-lite, part of Simulium (a message bus for simulations). Not released on PyPI yet."
+2026-10-06T14:26:58Z,simulium-ui,0.0.1,Alix Leroy,,3159,"Name reserved for simulium-ui, part of Simulium (a message bus for simulations). Not released on PyPI yet."
+2026-10-06T14:28:40Z,openheinerss,0.1.0,crom-org,MIT,6664,SDK oficial Python para o orquestrador Openheinerss
+2026-10-06T14:29:26Z,pystac-ext-sentinel-2,1.0.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,37387,STAC Sentinel-2 Extension Specification pystac implementation.
+2026-10-06T14:30:57Z,sqwish-sdk,0.0.1,,,1690,Client for the Sqwish API. The first release is coming soon.
+2026-10-06T14:32:01Z,sitos,0.1.0,,Apache-2.0,6597975,A distributed parameter store for compute pipelines
+2026-10-06T14:39:02Z,mvgeos-agent,0.6.14,,MIT,144445,"Core Mvge agent loop, invocation types, state management, and spell execution"
+2026-10-06T14:39:04Z,mvgeos-cli,0.6.14,,MIT,104270,CLI entry point for MvgeOS
+2026-10-06T14:39:06Z,mvgeos,0.6.14,,MIT,4520,MvgeOS — a Python-based AI coding agent
+2026-10-06T14:39:07Z,mvgeos-gui,0.6.14,,MIT,277701,Desktop GUI for MvgeOS powered by NiceGUI
+2026-10-06T14:45:38Z,holoscan-visualization,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1069,Zero version placeholder for holoscan_visualization
+2026-10-06T14:46:19Z,holoscan-visualization-cu13,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1104,Zero version placeholder for holoscan_visualization_cu13
+2026-10-06T14:53:42Z,catboost-webgpu,0.1.0,,MIT,10929659,"WebGPU-accelerated CatBoost for Python, written in Rust with automatic CPU fallback"
+2026-10-06T14:56:13Z,django-gocardless-billing,0.1.0,Visian Systems,MIT,41051,"Reusable Django app for GoCardless Direct Debit billing: webhooks, billing requests, signals, and admin."
+2026-10-06T14:57:19Z,forgecc,0.1.0,ForgeCC Team,,93349,LLVM & CUDA Accelerated AI / Tensor Compiler Engine
+2026-10-06T14:58:43Z,cutie-os,13.0.0,Anika,MIT,94836,"CUTIE OS - cinematic fastfetch-style console by Anika - 50+ real tools, snake game, sudo-in-PTY, 6 themes, 5 languages"
+2026-10-06T14:58:45Z,cutie-os-anika,13.0.0,Anika,MIT,94952,"CUTIE OS - cinematic fastfetch-style console by Anika - 50+ real tools, snake game, sudo-in-PTY, 6 themes, 5 languages"
+2026-10-06T14:59:13Z,odoo-addon-l10n-br-repair,16.0.1.0.0.5,"Escodoo, Odoo Community Association (OCA)",AGPL-3,72349,Brazilian Localization Repair
+2026-10-06T15:03:45Z,holoscan-telesurgery,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1074,Zero version placeholder for holoscan_telesurgery
+2026-10-06T15:04:14Z,devin-fanout,0.2.0,Icaro0310,MIT,31319,"Background-worker fan-out policy for Devin Desktop — deterministic planner enforcing worker caps, no nesting, and collect-before-report."
+2026-10-06T15:05:08Z,honeysap,0.2.0,"Martin Gallo, OWASP CBAS Project",GPL-2.0-or-later,13221099,SAP low-interaction honeypot
+2026-10-06T15:06:15Z,suitescript-checker,1.0.0,Folio3,Proprietary,55643,Scan Bitbucket Cloud workspaces for SuiteScript 1.0 / 2.x evidence and report to Excel
+2026-10-06T15:06:19Z,plate9,1.0.0,,,199572276,"Plate9: a first-person game of memory, wagers and gold plates at The Ninth Ember"
+2026-10-06T15:07:33Z,python-osdev,0.1.0,fayka2284252-ui,MIT,30467,"OSDev toolkit for Windows: one command — full bare-metal toolchain (Zig, NASM, QEMU, GDB) and a working i686 kernel. No WSL, no pain."
+2026-10-06T15:10:22Z,terminal_markdown_reader,1.0.0,minimondocode,MIT,206788,"tmr: read a folder's markdown in the terminal, with its files alongside"
+2026-10-06T15:10:40Z,olaya,0.3.1,Dionisio & Team,,17305166,Ontology-Grounded System 1 Decision Model
+2026-10-06T15:11:48Z,aitestingevening-Pallavi,1.1,Pallavi <pallavi@test.com>,MIT,4891,A small example package
+2026-10-06T15:12:01Z,pystac-ext-themes,1.0.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,26304,STAC Themes Extension PySTAC implementation.
+2026-10-06T15:12:21Z,repbed-processor,0.0.1,E Coral <corale@cardiff.ac.uk>,MIT,30358,Tool for processing FSLR output (representative bed files)
+2026-10-06T15:12:56Z,actseal,0.1.0,,Apache-2.0,590298,"Verify frozen categorical decision policies with risk/coverage bounds, provider-fault tests and offline replay."
+2026-10-06T15:13:20Z,talkops-opscloud,0.3.0b1,,,2242573,Extensible Terminal Multi-Agent Framework for Cloud Operations & DevOps Coding
+2026-10-06T15:15:18Z,mango-models,1.0.0,Kelly Kapowski,,8831958,

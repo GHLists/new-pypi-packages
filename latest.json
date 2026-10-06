@@ -1,49 +1,55 @@
 {
   "list": {
-    "count": 56,
-    "from": "2026-10-06T13:18:38.497143Z",
-    "path": "data/new-packages-2026-10-06T14-18-36-01359Z.csv",
-    "to": "2026-10-06T14:18:36.01359Z"
+    "count": 36,
+    "from": "2026-10-06T14:18:36.01359Z",
+    "path": "data/new-packages-2026-10-06T15-18-50-880121Z.csv",
+    "to": "2026-10-06T15:18:50.880121Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-06T13:12:17Z",
       "package": "Neutral-Trust-Infrastructure",
       "since": "2026-10-06T12:18:40.004978Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-06T11:29:13Z",
       "package": "ai-coustics-livekit-extras",
       "since": "2026-10-06T11:18:57.621191Z"
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-06T14:47:07Z",
+      "package": "lavlab-cli-utils",
+      "since": "2026-10-06T14:18:36.01359Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-06T13:59:29Z",
       "package": "odoo-addon-marketing-campaign-dates",
       "since": "2026-10-06T13:18:38.497143Z"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-10-06T14:01:56Z",
-      "package": "odoo-addon-pos-customer-display-monitor",
-      "since": "2026-10-06T13:18:38.497143Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-06T14:00:55Z",
-      "package": "odoo-addon-social-media-linkedin-sync",
-      "since": "2026-10-06T13:18:38.497143Z"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-06T12:05:55Z",
       "package": "odoo_addon_account_invoice_ubl_payment_mandate",
       "since": "2026-10-06T11:18:57.621191Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-06T14:46:10Z",
+      "package": "ovflow",
+      "since": "2026-10-06T14:18:36.01359Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-06T14:45:22Z",
+      "package": "ros-madair",
+      "since": "2026-10-06T14:18:36.01359Z"
     }
   ],
-  "serial": 41883018,
+  "serial": 41885837,
   "source_truncated": false,
-  "window": "2026-10-06T14:18:36.01359Z"
+  "window": "2026-10-06T15:18:50.880121Z"
 }
