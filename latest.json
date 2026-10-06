@@ -1,25 +1,37 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-10-06T10:18:37.094534Z",
-    "path": "data/new-packages-2026-10-06T11-18-57-621191Z.csv",
-    "to": "2026-10-06T11:18:57.621191Z"
+    "count": 25,
+    "from": "2026-10-06T11:18:57.621191Z",
+    "path": "data/new-packages-2026-10-06T12-18-40-004978Z.csv",
+    "to": "2026-10-06T12:18:40.004978Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-06T09:25:25Z",
       "package": "VisiMac-Studio",
       "since": "2026-10-06T09:19:45.698609Z"
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-06T11:29:13Z",
+      "package": "ai-coustics-livekit-extras",
+      "since": "2026-10-06T11:18:57.621191Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-06T09:09:58Z",
       "package": "malware-sdk",
       "since": "2026-10-06T08:19:07.519905Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-06T12:05:55Z",
+      "package": "odoo_addon_account_invoice_ubl_payment_mandate",
+      "since": "2026-10-06T11:18:57.621191Z"
     }
   ],
-  "serial": 41876920,
+  "serial": 41878770,
   "source_truncated": false,
-  "window": "2026-10-06T11:18:57.621191Z"
+  "window": "2026-10-06T12:18:40.004978Z"
 }

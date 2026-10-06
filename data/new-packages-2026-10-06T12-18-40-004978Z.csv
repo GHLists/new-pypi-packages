@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T11:20:22Z,flyteplugins-dbt,0.0.0a0,Jan Fiedler <jan@union.ai>,,8765,dbt task plugin for flyte
+2026-10-06T11:29:20Z,django-universal-auth,0.1.0,OpsTree,MIT,107243,"Generic, reusable authentication (JWT + server-side sessions) for Django and Django REST Framework."
+2026-10-06T11:30:09Z,infinity_pyscanf,0.1.0,,,16618,"Type-safe, scanf-style string parsing."
+2026-10-06T11:30:16Z,edwh-gokapi-plugin,0.1.0,"Remco Boerma, Robin van der Noord",,33709,`edwh` plugin for gokapi.edwh.nl
+2026-10-06T11:31:34Z,sg-observable,0.1.0a0,,MIT,19981,Typed observable fields with conversion and change notifications
+2026-10-06T11:33:33Z,max-library,0.1.0,jirnobruh,MIT,55667,Async Python SDK for MAX Messenger protocol (web.oneme.ru / ws-api.oneme.ru)
+2026-10-06T11:37:08Z,latent-compass,0.3.0,latent-compass contributors,Apache-2.0,1080782,"Shadow-mode contracts and an append-only episode ledger for coding agents: validates and records supplied advisories, never executes, promotes or decides."
+2026-10-06T11:41:35Z,specless-astro,0.2.0,Uzay Aydın,BSD-3-Clause,11502764,SpecLess: photometry-based machine learning tools for galaxy classification
+2026-10-06T11:46:46Z,pulumi-kurrentcloud,0.3.0a2,,Apache-2.0,20371,A Pulumi package for creating and managing Kurrent Cloud resources.
+2026-10-06T11:48:48Z,pphash,0.0.1,Mohammed Hamza,MIT,5975,"A lightweight Python library for password hashing, hash verification, hash detection, and secure password generation."
+2026-10-06T11:49:06Z,quadkit-multimedia-interpolate,0.0.1,,,1571,QuadKit quadkit-multimedia-interpolate — reserved namespace
+2026-10-06T11:49:12Z,quadkit-multimedia-music,0.0.1,,,1507,QuadKit quadkit-multimedia-music — reserved namespace
+2026-10-06T11:49:16Z,quadkit-multimedia-tts,0.0.1,,,1485,QuadKit quadkit-multimedia-tts — reserved namespace
+2026-10-06T11:49:22Z,quadkit-multimedia-upscale,0.0.1,,,1528,QuadKit quadkit-multimedia-upscale — reserved namespace
+2026-10-06T11:53:30Z,check-netscaler-gateway,2.0.1,Simon Lauger <simon@lauger.de>,Apache-2.0,44801,Nagios/Icinga monitoring plugin for Citrix NetScaler Gateway (full login simulation)
+2026-10-06T11:53:53Z,mloda-enterprise-anonymizer,0.0.1,Tom Kaltofen <info@mloda.ai>,LicenseRef-Proprietary,2816,Name reservation. The code ships inside mloda-enterprise; install mloda-enterprise[anonymizer] instead.
+2026-10-06T11:55:18Z,b123d-setup,0.1.1,,,12859,Create a uv-managed build123d CAD project
+2026-10-06T11:57:27Z,saccade-vision,0.2.2,,MIT OR Apache-2.0,7118206,Local image and media analysis with explicit evidence provenance
+2026-10-06T11:59:21Z,adichtion,1.0.0,Emil Ingerslev Walsted <emilwalsted@gmail.com>,GPL-3.0-or-later,1080380,"Read ADInstruments LabChart .adicht files without LabChart: metadata, comments and sample data, on every platform"
+2026-10-06T12:02:36Z,graphtfactor,0.1.1,,"MIT License Copyright (c) 2026 Salvatore Calderaro Permission is hereby granted, free of charge, to…",175005167,GraphTFactor: Modeling Protein Sequences as Graphs for Accurate Transcription Factor Prediction
+2026-10-06T12:07:37Z,rinkel-cli,0.1.0,,,10611,Command line interface for the Rinkel API
+2026-10-06T12:10:53Z,kaaljyoti,0.1.0,GoAppsters,MIT,340991,"Typed Python client for the Kaal Jyoti API: kundli, panchang, dasha, transits and matching."
+2026-10-06T12:14:03Z,devsim-openblas,0.1.0,Benjamin Vial,BSD-3-Clause,44765,"Run DEVSIM on the OpenBLAS shipped by scipy-openblas32, with no system BLAS/LAPACK or MKL"
+2026-10-06T12:17:30Z,ubukit,0.1.0,Seiki Ubukata,MIT AND BSD-3-Clause,64210,"Fuzzy, rough and classical clustering, self-organizing maps, evaluation metrics and TPE search"
+2026-10-06T12:18:27Z,nexgensis-connect,1.0.0,Nexgensis,,177535,"Controlled, auditable API payload mapping and orchestration for Django"
