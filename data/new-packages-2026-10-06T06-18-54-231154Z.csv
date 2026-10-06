@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T05:05:48Z,pyzel,0.2.0,Craig Laird <bruce@zbots.co.uk>,MIT,21319,Async Python client for the Zello Channel API
+2026-10-06T05:20:11Z,xbrain-ai,0.0.1,Chaoming Wang,Apache-2.0,1770,xbrain-ai: reserved for an upcoming project. Under active development.
+2026-10-06T05:20:16Z,xbrains,0.0.1,Chaoming Wang,Apache-2.0,1747,xbrains: reserved for an upcoming project. Under active development.
+2026-10-06T05:20:19Z,brainhub,0.0.1,Chaoming Wang,Apache-2.0,1760,brainhub: reserved for an upcoming project. Under active development.
+2026-10-06T05:20:24Z,brainsim,0.0.1,Chaoming Wang,Apache-2.0,1759,brainsim: reserved for an upcoming project. Under active development.
+2026-10-06T05:20:47Z,amazing-splitwise-mcp,0.1.0,Alejandro Latorre,Apache-2.0,291217,"MCP server for the Splitwise API v3.0 (personal API key, stdio by default, streamable-http behind a bearer)."
+2026-10-06T05:23:45Z,rwutils,0.1.0,dojddev,MIT,4002,Simple utilities for Rwanda-related applications
+2026-10-06T05:29:57Z,ble-doctor,0.1.0,Vaibhav91one <108279746+Vaibhav91one@users.noreply.github.com>,MIT,132788,Score the security posture of a BLE device from a capture or live GATT enumeration. Defensive / CTF / own-gear use.
+2026-10-06T05:32:43Z,earforge,0.1.0,earforge contributors,MIT,445642,"Local GPU-accelerated learn-by-ear workbench: any recording into multi-instrument MIDI, a live piano roll, and a play-along practice mixer, built on MuScriptor."
+2026-10-06T05:32:57Z,pari-cli,0.1.0,PARI Contributors,MIT,106346,"A resilient, sandbox-first terminal coding agent engineered for high pass rates and low token burn."
+2026-10-06T05:35:45Z,certbot-dns-muumuu,0.1.0,Kenichi Takahashi,Apache-2.0,39817,Muumuu Domain DNS Authenticator plugin for Certbot
+2026-10-06T05:37:28Z,impara,0.2.0,ivanbright <mugishaivanbright250@gmail.com>,,7112,A simple calculator package and command-line tool
+2026-10-06T05:37:32Z,vexxhost-clientcore,0.1.0,VEXXHOST,Apache-2.0,36709,"Shared transport, errors and OpenStack CLI plumbing for VEXXHOST API clients"
+2026-10-06T05:40:56Z,cmdgui,0.1.1,olliez-mods,MIT,69963,"Simple terminal GUIs: draw your layout as text, the view runs itself"
+2026-10-06T05:46:13Z,flaredb-runner,0.3.2,,Apache-2.0,21357,Apache Beam portable runner for submitting Python pipelines to FlareDB
+2026-10-06T05:46:37Z,sagebrush,0.1.0,"""SageMath, Inc."" <wstein@sagemath.com>",MIT OR Apache-2.0,6103405,"Fast, certified engines for research mathematics: number fields, class groups, modular forms (Rust, MIT OR Apache-2.0)"
+2026-10-06T05:51:17Z,mcdxkit,0.3.0,,,753229,"Open-source Mathcad workflow toolkit: worksheet generation, calculation, CLI and SDK"
+2026-10-06T05:53:42Z,cot.tmppath,0.1.0,Ronny Pfannschmidt <opensource@ronnypfannschmidt.de>,MIT,75896,"Hardened, fast management of related temporary folders"
+2026-10-06T05:57:28Z,credencegraph,0.1.0,Isaac C. F. Wong,,325419,"A neutral engine for graphs of propositions with credences: probabilistic inference, sensitivity, and weak-point diagnostics"
+2026-10-06T05:57:31Z,pyvisionect,0.1.0,schlarpc,MIT,1944272,Sans-io reimplementation of the Visionect e-ink sign wire protocol (protocol v3)
+2026-10-06T05:57:34Z,gnucash-mcp,0.1.0,Mohammed O. Tillawy,MIT,61893,MCP server that lets Claude import bank statements into GnuCash books
+2026-10-06T05:58:23Z,ucam-installkit,0.0.1,,GPL-3.0-or-later,53921,Core functionality to install Docker Compose-based applications via the command line.
+2026-10-06T06:01:46Z,marketsdk,1.0.0,,MIT,311653,
+2026-10-06T06:05:31Z,ineza-texttools,1.0.0,Landra,,4201,A simple Python package for text processing
+2026-10-06T06:06:11Z,txwhy,0.1.0,Sundram Mahajan <sundram500m@gmail.com>,MIT,33512,"Failed Solana transaction in, working transaction out. Repair API client, send loop for solana-py, and an offline verifier that proves a repair changed only what it may."
+2026-10-06T06:07:05Z,scCairns,0.3.0,Allen Institute,Allen Institute Software License – This software license is the 2-clause BSD license plus a third c…,242675,Reproducible single-cell integration with a documented decision trail.
+2026-10-06T06:09:28Z,namerandom,0.1.0,,MIT,3248,English random names generator
+2026-10-06T06:09:33Z,geoswe,1.0.0,Peng Chen <pchen402@gatech.edu>,BSD-3-Clause,11196545,GeoSWE (Geophysical Shallow-Water Engine): a GPU flood solver with a NumPy CPU fallback.
+2026-10-06T06:11:44Z,pyflowred-node-ai-google,0.1.0,Melvin Neffle,Apache-2.0,22129,"Google Gemini for PyFlowRED's AI nodes: the Gemini API or Vertex AI, as one setting."
+2026-10-06T06:11:54Z,pyflowred-node-ai-openai,0.1.0,Melvin Neffle,Apache-2.0,18982,OpenAI for PyFlowRED's AI nodes - and anything that speaks the OpenAI API.
+2026-10-06T06:18:34Z,fmagenticl,1.3.1,FMagenticL Collective,,208864,FMagenticL Self-Healing Registry Daemon and Client

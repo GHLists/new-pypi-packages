@@ -8,43 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 05:19 UTC
+## Latest list — 2026-10-06 06:18 UTC
 
-New packages created between 2026-10-06 04:18 UTC and 2026-10-06 05:19 UTC.
+New packages created between 2026-10-06 05:19 UTC and 2026-10-06 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-06T05-19-39-203089Z.csv)
+[Full CSV](data/new-packages-2026-10-06T06-18-54-231154Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-06 02:28:40 | [pymhm](https://pypi.org/project/pymhm/) | 1.0.0 | Diego Volpatto <volpatto@lncc… | 1.0 MB | Composable multiscale hybrid mixed finite element methods |
-| 2026-10-06 04:21:07 | [paperflow-mcp](https://pypi.org/project/paperflow-mcp/) | 0.1.0 | LiangKaggle <liangkaggle@outl… | 17.0 kB | PaperFlow MCP Server — 让 agent 调用论文分析能力 |
-| 2026-10-06 04:21:18 | [rag-wright](https://pypi.org/project/rag-wright/) | 0.1.0 | Farhan Zaidi <farhan.zaidi@dr… | 2.8 MB | A domain-retargetable, open-core engine for hybrid retrieval + knowledge-graph… |
-| 2026-10-06 04:22:21 | [operonx-kb](https://pypi.org/project/operonx-kb/) | 0.2.1 |  | 451.9 kB | Knowledge base and document intelligence on OperonX: versioned documents with s… |
-| 2026-10-06 04:22:25 | [operonx-agents](https://pypi.org/project/operonx-agents/) | 0.1.2 | Operon Team | 256.9 kB | Typed LLM steps and agents on the operonx workflow engine |
-| 2026-10-06 04:25:43 | [adaptive-intelligence-runtime](https://pypi.org/project/adaptive-intelligence-runtime/) | 0.1.0 |  | 726.5 kB | Adaptive Intelligence Runtime (AIR): dynamic cognitive allocation, sibling agen… |
-| 2026-10-06 04:33:35 | [nomad-harness](https://pypi.org/project/nomad-harness/) | 0.1.0.dev0 | Lambda Robotics | 180.6 kB | Action runtime connecting frontier models to simulated and physical embodiments. |
-| 2026-10-06 04:34:56 | [tlon-impact](https://pypi.org/project/tlon-impact/) | 0.0.1a1 | Developer <dev@example.com> | 1.9 MB | Self-evolving agents, towards AGI |
-| 2026-10-06 04:36:45 | [odoo-addon-sustainability-website-sale](https://pypi.org/project/odoo-addon-sustainability-website-sale/) | 18.0.1.1.0.3 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 22.2 kB | Sustainability eCommerce |
-| 2026-10-06 04:36:45 | [odoo-addons-oca-sustainability](https://pypi.org/project/odoo-addons-oca-sustainability/) | 16.0.20260922.0 |  | 1.4 kB | Meta package for oca-sustainability Odoo addons |
-| 2026-10-06 04:36:54 | [odoo-addon-sustainability-sale](https://pypi.org/project/odoo-addon-sustainability-sale/) | 18.0.1.1.0.2 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 26.5 kB | Glue module for sustainability & sale modules |
-| 2026-10-06 04:41:20 | [fylane](https://pypi.org/project/fylane/) | 0.2.0 |  | 23.8 kB | Fylane — upload, inspect, convert, OCR and process files through one API. |
-| 2026-10-06 04:45:06 | [envless-env](https://pypi.org/project/envless-env/) | 0.0.1 | Envless | 57.9 kB | The Envless runtime for Python. Load your encrypted environment when your app s… |
-| 2026-10-06 04:47:29 | [oxedi](https://pypi.org/project/oxedi/) | 0.3.0 |  | 6.1 MB | Lossless, fast, data-driven EDI 835 parser |
-| 2026-10-06 04:54:15 | [gitai-agent](https://pypi.org/project/gitai-agent/) | 0.1.1 | GitAI Team | 105.7 kB | 用大模型自动生成 Git 提交信息并推送的 AI Agent |
-| 2026-10-06 04:56:57 | [super-intelligence-rt](https://pypi.org/project/super-intelligence-rt/) | 0.0.0 | Praneeth Vadlapati | 2.9 kB | A new package under development |
-| 2026-10-06 04:59:33 | [deployangel](https://pypi.org/project/deployangel/) | 0.1.0 | Jordan Owens <jordan@deployan… | 98.0 kB | DeployAngel agent for Django, FastAPI, and Flask: verifies every deploy from ag… |
-| 2026-10-06 05:00:51 | [sbmlode](https://pypi.org/project/sbmlode/) | 0.1.0 | Matthias König <konigmatt@goo… | 378.0 kB | sbmlode writes the ordinary differential equations of SBML models as python, ju… |
-| 2026-10-06 05:00:58 | [kubeguard-cli](https://pypi.org/project/kubeguard-cli/) | 0.1.6 |  | 55.4 kB | KubeGuard AI — command-line interface for installation, inspection, and operati… |
-| 2026-10-06 05:03:20 | [hermes-cloudflare-access](https://pypi.org/project/hermes-cloudflare-access/) | 0.1.0 | hermes-cloudflare-access main… | 38.7 kB | Hermes Agent dashboard auth provider that trusts Cloudflare Access (Zero Trust)… |
-| 2026-10-06 05:04:16 | [reflex-agent-client](https://pypi.org/project/reflex-agent-client/) | 0.1.0 | Saksham Sharma | 7.4 kB | Python client for the Reflex sidecar (`reflex serve`). |
-| 2026-10-06 05:04:27 | [gdcalc](https://pypi.org/project/gdcalc/) | 0.2.1 |  | 763.8 kB | Engineering worksheet conversion SDK, CLI and local browser server |
-| 2026-10-06 05:05:40 | [chartcheck](https://pypi.org/project/chartcheck/) | 0.1.0 | R. N. Guymon | 13.3 kB | An interactive Data Visualization Checklist for scoring charts in Jupyter noteb… |
-| 2026-10-06 05:07:14 | [nimlang](https://pypi.org/project/nimlang/) | 0.0.1 |  | 75.5 MB | Use Nim in your Python project: `uv add nimlang` gives you a Nim toolchain that… |
-| 2026-10-06 05:10:08 | [azimlib](https://pypi.org/project/azimlib/) | 0.2.0 | Kernerian | 9.9 MB | An independent Python cartography engine with a familiar plotting API |
-| 2026-10-06 05:10:41 | [win-mouse-listener](https://pypi.org/project/win-mouse-listener/) | 0.1.0 |  | 24.0 kB | Non-blocking Windows mouse listener using Raw Input API |
-| 2026-10-06 05:10:44 | [mkdocs-dbml](https://pypi.org/project/mkdocs-dbml/) | 0.1.0 |  | 3.6 MB | Interactive DBML entity-relationship diagrams in MkDocs pages. |
-| 2026-10-06 05:11:04 | [flattener-scan](https://pypi.org/project/flattener-scan/) | 1.0.1 | World | 11.4 MB | Document photo scanner: page detection, orientation, dewarping and one render |
-| 2026-10-06 05:11:28 | [cimkit-git](https://pypi.org/project/cimkit-git/) | 0.3.0 | Riley Lum <rileywlum@gmail.co… | 148.3 kB | Version control for ArcGIS project files (.aprx), part of the cimkit suite |
-| 2026-10-06 05:11:52 | [factblock](https://pypi.org/project/factblock/) | 1.0.0a1 | Factagora <randy@factagora.co… | 943.8 kB | Agent memory for decisions: extract dated claims and their causal links into a… |
-| 2026-10-06 05:13:41 | [getelec](https://pypi.org/project/getelec/) | 3.1.0 | Salvador Barranco Cárceles, A… | 518.6 kB | General Tool for Electron Emission Calculations: thermal-field emission current… |
-| 2026-10-06 05:16:18 | [chess-analyzer-tui](https://pypi.org/project/chess-analyzer-tui/) | 0.1.1 |  | 29.2 kB | Terminal chess analysis TUI with Stockfish. |
+| 2026-10-06 05:05:48 | [pyzel](https://pypi.org/project/pyzel/) | 0.2.0 | Craig Laird <bruce@zbots.co.u… | 21.3 kB | Async Python client for the Zello Channel API |
+| 2026-10-06 05:20:11 | [xbrain-ai](https://pypi.org/project/xbrain-ai/) | 0.0.1 | Chaoming Wang | 1.8 kB | xbrain-ai: reserved for an upcoming project. Under active development. |
+| 2026-10-06 05:20:16 | [xbrains](https://pypi.org/project/xbrains/) | 0.0.1 | Chaoming Wang | 1.7 kB | xbrains: reserved for an upcoming project. Under active development. |
+| 2026-10-06 05:20:19 | [brainhub](https://pypi.org/project/brainhub/) | 0.0.1 | Chaoming Wang | 1.8 kB | brainhub: reserved for an upcoming project. Under active development. |
+| 2026-10-06 05:20:24 | [brainsim](https://pypi.org/project/brainsim/) | 0.0.1 | Chaoming Wang | 1.8 kB | brainsim: reserved for an upcoming project. Under active development. |
+| 2026-10-06 05:20:47 | [amazing-splitwise-mcp](https://pypi.org/project/amazing-splitwise-mcp/) | 0.1.0 | Alejandro Latorre | 291.2 kB | MCP server for the Splitwise API v3.0 (personal API key, stdio by default, stre… |
+| 2026-10-06 05:23:45 | [rwutils](https://pypi.org/project/rwutils/) | 0.1.0 | dojddev | 4.0 kB | Simple utilities for Rwanda-related applications |
+| 2026-10-06 05:29:57 | [ble-doctor](https://pypi.org/project/ble-doctor/) | 0.1.0 | Vaibhav91one <108279746+Vaibh… | 132.8 kB | Score the security posture of a BLE device from a capture or live GATT enumerat… |
+| 2026-10-06 05:32:43 | [earforge](https://pypi.org/project/earforge/) | 0.1.0 | earforge contributors | 445.6 kB | Local GPU-accelerated learn-by-ear workbench: any recording into multi-instrume… |
+| 2026-10-06 05:32:57 | [pari-cli](https://pypi.org/project/pari-cli/) | 0.1.0 | PARI Contributors | 106.3 kB | A resilient, sandbox-first terminal coding agent engineered for high pass rates… |
+| 2026-10-06 05:35:45 | [certbot-dns-muumuu](https://pypi.org/project/certbot-dns-muumuu/) | 0.1.0 | Kenichi Takahashi | 39.8 kB | Muumuu Domain DNS Authenticator plugin for Certbot |
+| 2026-10-06 05:37:28 | [impara](https://pypi.org/project/impara/) | 0.2.0 | ivanbright <mugishaivanbright… | 7.1 kB | A simple calculator package and command-line tool |
+| 2026-10-06 05:37:32 | [vexxhost-clientcore](https://pypi.org/project/vexxhost-clientcore/) | 0.1.0 | VEXXHOST | 36.7 kB | Shared transport, errors and OpenStack CLI plumbing for VEXXHOST API clients |
+| 2026-10-06 05:40:56 | [cmdgui](https://pypi.org/project/cmdgui/) | 0.1.1 | olliez-mods | 70.0 kB | Simple terminal GUIs: draw your layout as text, the view runs itself |
+| 2026-10-06 05:46:13 | [flaredb-runner](https://pypi.org/project/flaredb-runner/) | 0.3.2 |  | 21.4 kB | Apache Beam portable runner for submitting Python pipelines to FlareDB |
+| 2026-10-06 05:46:37 | [sagebrush](https://pypi.org/project/sagebrush/) | 0.1.0 | "SageMath, Inc." <wstein@sage… | 6.1 MB | Fast, certified engines for research mathematics: number fields, class groups,… |
+| 2026-10-06 05:51:17 | [mcdxkit](https://pypi.org/project/mcdxkit/) | 0.3.0 |  | 753.2 kB | Open-source Mathcad workflow toolkit: worksheet generation, calculation, CLI an… |
+| 2026-10-06 05:53:42 | [cot.tmppath](https://pypi.org/project/cot.tmppath/) | 0.1.0 | Ronny Pfannschmidt <opensourc… | 75.9 kB | Hardened, fast management of related temporary folders |
+| 2026-10-06 05:57:28 | [credencegraph](https://pypi.org/project/credencegraph/) | 0.1.0 | Isaac C. F. Wong | 325.4 kB | A neutral engine for graphs of propositions with credences: probabilistic infer… |
+| 2026-10-06 05:57:31 | [pyvisionect](https://pypi.org/project/pyvisionect/) | 0.1.0 | schlarpc | 1.9 MB | Sans-io reimplementation of the Visionect e-ink sign wire protocol (protocol v3) |
+| 2026-10-06 05:57:34 | [gnucash-mcp](https://pypi.org/project/gnucash-mcp/) | 0.1.0 | Mohammed O. Tillawy | 61.9 kB | MCP server that lets Claude import bank statements into GnuCash books |
+| 2026-10-06 05:58:23 | [ucam-installkit](https://pypi.org/project/ucam-installkit/) | 0.0.1 |  | 53.9 kB | Core functionality to install Docker Compose-based applications via the command… |
+| 2026-10-06 06:01:46 | [marketsdk](https://pypi.org/project/marketsdk/) | 1.0.0 |  | 311.7 kB |  |
+| 2026-10-06 06:05:31 | [ineza-texttools](https://pypi.org/project/ineza-texttools/) | 1.0.0 | Landra | 4.2 kB | A simple Python package for text processing |
+| 2026-10-06 06:06:11 | [txwhy](https://pypi.org/project/txwhy/) | 0.1.0 | Sundram Mahajan <sundram500m@… | 33.5 kB | Failed Solana transaction in, working transaction out. Repair API client, send… |
+| 2026-10-06 06:07:05 | [scCairns](https://pypi.org/project/scCairns/) | 0.3.0 | Allen Institute | 242.7 kB | Reproducible single-cell integration with a documented decision trail. |
+| 2026-10-06 06:09:28 | [namerandom](https://pypi.org/project/namerandom/) | 0.1.0 |  | 3.2 kB | English random names generator |
+| 2026-10-06 06:09:33 | [geoswe](https://pypi.org/project/geoswe/) | 1.0.0 | Peng Chen <pchen402@gatech.ed… | 11.2 MB | GeoSWE (Geophysical Shallow-Water Engine): a GPU flood solver with a NumPy CPU… |
+| 2026-10-06 06:11:44 | [pyflowred-node-ai-google](https://pypi.org/project/pyflowred-node-ai-google/) | 0.1.0 | Melvin Neffle | 22.1 kB | Google Gemini for PyFlowRED's AI nodes: the Gemini API or Vertex AI, as one set… |
+| 2026-10-06 06:11:54 | [pyflowred-node-ai-openai](https://pypi.org/project/pyflowred-node-ai-openai/) | 0.1.0 | Melvin Neffle | 19.0 kB | OpenAI for PyFlowRED's AI nodes - and anything that speaks the OpenAI API. |
+| 2026-10-06 06:18:34 | [fmagenticl](https://pypi.org/project/fmagenticl/) | 1.3.1 | FMagenticL Collective | 208.9 kB | FMagenticL Self-Healing Registry Daemon and Client |

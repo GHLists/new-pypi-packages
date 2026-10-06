@@ -1,43 +1,37 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-10-06T04:18:45.921384Z",
-    "path": "data/new-packages-2026-10-06T05-19-39-203089Z.csv",
-    "to": "2026-10-06T05:19:39.203089Z"
+    "count": 31,
+    "from": "2026-10-06T05:19:39.203089Z",
+    "path": "data/new-packages-2026-10-06T06-18-54-231154Z.csv",
+    "to": "2026-10-06T06:18:54.231154Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-06T04:54:30Z",
       "package": "llama-tui",
       "since": "2026-10-06T04:18:45.921384Z"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-10-06T05:05:48Z",
-      "package": "pyzel",
-      "since": "2026-10-06T04:18:45.921384Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-06T03:51:26Z",
       "package": "taxlation",
       "since": "2026-10-06T03:19:08.993119Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-06T05:10:09Z",
       "package": "taxlation-core",
       "since": "2026-10-06T04:18:45.921384Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-06T03:53:50Z",
       "package": "taxlation-nl",
       "since": "2026-10-06T03:19:08.993119Z"
     }
   ],
-  "serial": 41866296,
+  "serial": 41867565,
   "source_truncated": false,
-  "window": "2026-10-06T05:19:39.203089Z"
+  "window": "2026-10-06T06:18:54.231154Z"
 }
