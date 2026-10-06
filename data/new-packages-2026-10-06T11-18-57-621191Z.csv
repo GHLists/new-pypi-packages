@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T09:29:43Z,visimac,1.0.1,,,16160134,"VisiMac - High-Performance Deep Learning, Computer Vision & Dataset Preparation Engine"
+2026-10-06T10:22:19Z,incdai,0.6.1,INCPRITECH <info@incpritech.com>,PolyForm Perimeter License 1.0.1 https://polyformproject.org/licenses/perimeter/1.0.1 Acceptance In…,27671,"Public Python SDK for incdai: chat and real-time voice with incdai Public or an incdai Node, in English and Swahili."
+2026-10-06T10:25:07Z,jev-checker,0.1.0,,,145531,A semantic Python code checker powered by TypeSafe Jev
+2026-10-06T10:26:02Z,feedwire,0.1.0,,MIT,22301,A /feedback endpoint for your API so AI agents can report bugs and missing features. FastAPI router.
+2026-10-06T10:28:43Z,flickpick,0.0.2,Thor Whalen,MIT,1431123,"Personal movie recommender: browser-first app, TypeScript core, Python build pipeline; AI agents pick movies for you"
+2026-10-06T10:30:57Z,compoid-mcp,0.1.0,Compoid <admin@compoid.com>,MIT,128988,MCP Server for Compoid AI repository
+2026-10-06T10:31:16Z,bridge-mixed-data-distance,1.0.0,Dimitrios Galiatsatos <galiatsatos.dimitrios@ac.eap.gr>,MIT,24145,Bayesian Redundancy-Aware Information Distance with Graph Ensembles for Mixed-Type Data
+2026-10-06T10:31:20Z,tree-sitter-blk,1.0.0,Gaijin Entertainment,MIT,202842,Dagor BLK (DataBlock) text format grammar for tree-sitter
+2026-10-06T10:40:01Z,cgm-s3-storage-provider,1.7.1,matrix.org team and contributors,Apache-2.0,48090,A storage provider which can fetch and store media in Amazon S3.
+2026-10-06T10:43:43Z,prnu,0.1.0,Pixel-Master,GPL-3.0-only,83130113,"A toolkit for PRNU noise extraction, sensor fingerprint comparison, and AI image detection."
+2026-10-06T10:44:40Z,pad-train,1.0.2,"Andreas Auer, Sarah Goetz, Philipp Fuchs",,44319,"k-NN presentation attack detection (PAD) for finger vein data, trained on real or synthetic attack samples."
+2026-10-06T10:47:41Z,chipping-orchestrator,0.13.0,,Apache-2.0,4943810,GitHub-Issue-driven AI agent workflow.
+2026-10-06T10:50:12Z,ChatSale,0.0.1,ChatArch <rex@chatarch.org>,MIT,8220,Personal resale listing and buyer-message automation for Goofish.
+2026-10-06T10:50:30Z,skylight-api,0.1.0,Devin Slick,MIT,41472,"An async Python client library for the Skylight Calendar API, designed for Home Assistant integrations."
+2026-10-06T10:54:49Z,blackwarrior,0.6.7,arronzheng,MIT,574172,黑武士 BlackWarrior —— 带真实认知内核的持续运行桌面 AI Agent（PASM 认知引擎 × Electron 桌面壳）
+2026-10-06T10:55:56Z,crimsonforge,2.5.6,CrimsonForge Team <dev@crimsonforge.com>,PolyForm-Noncommercial-1.0.0,154232,Ed25519 JWT authentication library for CrimsonForge backends
+2026-10-06T10:57:42Z,accuclass-client,0.6.0,Oliver Holdsworth,MIT,33944,Unofficial Python client and command-line tool for the AccuClass attendance API
+2026-10-06T10:58:49Z,django-consent-trail,0.1.0,William Touzalin,MIT,96956,"Versioned, multilingual legal documents for Django — with timestamped proof of who accepted what, and when."
+2026-10-06T11:03:15Z,katsuji,0.1.1,,MIT,115125,"Variable-width font tooling for a816 SNES projects: fonts, kerning, tiles, static text"
+2026-10-06T11:08:13Z,nimlang-lib-demo,0.1.0,,MIT,249200,"Minimal Python package shipping a function compiled from Nim, built with nimlang."
+2026-10-06T11:09:23Z,openjev-ai,0.2.1,"Jun Huang, Xin Ren",Apache-2.0,2814,"OpenJev: open-source, local alternative to Jev. Installs wev-ai, the OpenJev decision-model package (import wev)."
+2026-10-06T11:11:35Z,ink-jit,0.6.0rc2,Ink Team,Apache-2.0,86171,"Behavior JIT for production AI — learns which repeated, verified decisions no longer need inference"
+2026-10-06T11:15:50Z,simplibs-patterns,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,316510,"A ready-made vocabulary of regular expressions — dates, numbers, URLs, identifiers and more — built on simplibs-regex."
