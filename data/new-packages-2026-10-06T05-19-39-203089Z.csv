@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T02:28:40Z,pymhm,1.0.0,Diego Volpatto <volpatto@lncc.br>,LGPL-2.1-only,1030340,Composable multiscale hybrid mixed finite element methods
+2026-10-06T04:21:07Z,paperflow-mcp,0.1.0,LiangKaggle <liangkaggle@outlook.com>,,16956,PaperFlow MCP Server — 让 agent 调用论文分析能力
+2026-10-06T04:21:18Z,rag-wright,0.1.0,Farhan Zaidi <farhan.zaidi@dreamai.io>,MIT,2767609,"A domain-retargetable, open-core engine for hybrid retrieval + knowledge-graph RAG: parsing, chunking, embedding, hybrid search, reranking, graph extraction, entity resolution, ontology-driven knowle…"
+2026-10-06T04:22:21Z,operonx-kb,0.2.1,,Apache-2.0,451852,Knowledge base and document intelligence on OperonX: versioned documents with span-level provenance
+2026-10-06T04:22:25Z,operonx-agents,0.1.2,Operon Team,Apache-2.0,256856,Typed LLM steps and agents on the operonx workflow engine
+2026-10-06T04:25:43Z,adaptive-intelligence-runtime,0.1.0,,MIT,726531,"Adaptive Intelligence Runtime (AIR): dynamic cognitive allocation, sibling agents, experience learning, independent assurance."
+2026-10-06T04:33:35Z,nomad-harness,0.1.0.dev0,Lambda Robotics,MIT,180605,Action runtime connecting frontier models to simulated and physical embodiments.
+2026-10-06T04:34:56Z,tlon-impact,0.0.1a1,Developer <dev@example.com>,,1858438,"Self-evolving agents, towards AGI"
+2026-10-06T04:36:45Z,odoo-addon-sustainability-website-sale,18.0.1.1.0.3,=?utf-8?q?MCO2=2C_Open_Net_S=C3=A0rl?=,LGPL-3,22187,Sustainability eCommerce
+2026-10-06T04:36:45Z,odoo-addons-oca-sustainability,16.0.20260922.0,,,1441,Meta package for oca-sustainability Odoo addons
+2026-10-06T04:36:54Z,odoo-addon-sustainability-sale,18.0.1.1.0.2,=?utf-8?q?MCO2=2C_Open_Net_S=C3=A0rl?=,AGPL-3,26526,Glue module for sustainability & sale modules
+2026-10-06T04:41:20Z,fylane,0.2.0,,MIT,23779,"Fylane — upload, inspect, convert, OCR and process files through one API."
+2026-10-06T04:45:06Z,envless-env,0.0.1,Envless,LicenseRef-Proprietary,57920,"The Envless runtime for Python. Load your encrypted environment when your app starts, decrypt it on the machine that runs it, and read it typed, with a server and client split."
+2026-10-06T04:47:29Z,oxedi,0.3.0,,MIT,6130474,"Lossless, fast, data-driven EDI 835 parser"
+2026-10-06T04:54:15Z,gitai-agent,0.1.1,GitAI Team,MIT,105694,用大模型自动生成 Git 提交信息并推送的 AI Agent
+2026-10-06T04:56:57Z,super-intelligence-rt,0.0.0,Praneeth Vadlapati,MIT,2945,A new package under development
+2026-10-06T04:59:33Z,deployangel,0.1.0,Jordan Owens <jordan@deployangel.com>,MIT,98049,"DeployAngel agent for Django, FastAPI, and Flask: verifies every deploy from aggregated HTTP, job, and exception telemetry, including Celery and RQ jobs and Celery Beat schedules."
+2026-10-06T05:00:51Z,sbmlode,0.1.0,Matthias König <konigmatt@googlemail.com>,MIT,378028,"sbmlode writes the ordinary differential equations of SBML models as python, julia and R code and as LaTeX, typst and markdown documents."
+2026-10-06T05:00:58Z,kubeguard-cli,0.1.6,,MIT,55413,"KubeGuard AI — command-line interface for installation, inspection, and operation"
+2026-10-06T05:03:20Z,hermes-cloudflare-access,0.1.0,hermes-cloudflare-access maintainers,"MIT License Copyright (c) 2026 The hermes-cloudflare-access authors Permission is hereby granted, f…",38662,Hermes Agent dashboard auth provider that trusts Cloudflare Access (Zero Trust) JWTs.
+2026-10-06T05:04:16Z,reflex-agent-client,0.1.0,Saksham Sharma,Apache-2.0,7441,Python client for the Reflex sidecar (`reflex serve`).
+2026-10-06T05:04:27Z,gdcalc,0.2.1,,,763768,"Engineering worksheet conversion SDK, CLI and local browser server"
+2026-10-06T05:05:40Z,chartcheck,0.1.0,R. N. Guymon,MIT,13252,An interactive Data Visualization Checklist for scoring charts in Jupyter notebooks.
+2026-10-06T05:07:14Z,nimlang,0.0.1,,MIT,75479370,Use Nim in your Python project: `uv add nimlang` gives you a Nim toolchain that compiles with zig cc.
+2026-10-06T05:10:08Z,azimlib,0.2.0,Kernerian,BSD-3-Clause AND CC0-1.0 AND LicenseRef-DejaVu AND LicenseRef-ColorBrewer,9940091,An independent Python cartography engine with a familiar plotting API
+2026-10-06T05:10:41Z,win-mouse-listener,0.1.0,,MIT,23982,Non-blocking Windows mouse listener using Raw Input API
+2026-10-06T05:10:44Z,mkdocs-dbml,0.1.0,,MIT,3556338,Interactive DBML entity-relationship diagrams in MkDocs pages.
+2026-10-06T05:11:04Z,flattener-scan,1.0.1,World,Apache-2.0 AND MIT AND OFL-1.1,11422474,"Document photo scanner: page detection, orientation, dewarping and one render"
+2026-10-06T05:11:28Z,cimkit-git,0.3.0,Riley Lum <rileywlum@gmail.com>,MIT,148324,"Version control for ArcGIS project files (.aprx), part of the cimkit suite"
+2026-10-06T05:11:52Z,factblock,1.0.0a1,Factagora <randy@factagora.com>,Apache-2.0,943840,Agent memory for decisions: extract dated claims and their causal links into a temporal causal knowledge graph you can read as of any instant
+2026-10-06T05:13:41Z,getelec,3.1.0,"Salvador Barranco Cárceles, Andreas Kyritsakis, Anthony Ayari",MIT,518645,General Tool for Electron Emission Calculations: thermal-field emission current density and Nottingham heat for metals and semiconductors
+2026-10-06T05:16:18Z,chess-analyzer-tui,0.1.1,,MIT,29157,Terminal chess analysis TUI with Stockfish.

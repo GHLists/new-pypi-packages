@@ -1,31 +1,43 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-10-06T03:19:08.993119Z",
-    "path": "data/new-packages-2026-10-06T04-18-45-921384Z.csv",
-    "to": "2026-10-06T04:18:45.921384Z"
+    "count": 32,
+    "from": "2026-10-06T04:18:45.921384Z",
+    "path": "data/new-packages-2026-10-06T05-19-39-203089Z.csv",
+    "to": "2026-10-06T05:19:39.203089Z"
   },
   "pending": [
     {
-      "attempts": 2,
-      "created_at": "2026-10-06T02:28:40Z",
-      "package": "pymhm",
-      "since": "2026-10-06T02:18:37.70399Z"
+      "attempts": 1,
+      "created_at": "2026-10-06T04:54:30Z",
+      "package": "llama-tui",
+      "since": "2026-10-06T04:18:45.921384Z"
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-06T05:05:48Z",
+      "package": "pyzel",
+      "since": "2026-10-06T04:18:45.921384Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-06T03:51:26Z",
       "package": "taxlation",
       "since": "2026-10-06T03:19:08.993119Z"
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-06T05:10:09Z",
+      "package": "taxlation-core",
+      "since": "2026-10-06T04:18:45.921384Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-06T03:53:50Z",
       "package": "taxlation-nl",
       "since": "2026-10-06T03:19:08.993119Z"
     }
   ],
-  "serial": 41865183,
+  "serial": 41866296,
   "source_truncated": false,
-  "window": "2026-10-06T04:18:45.921384Z"
+  "window": "2026-10-06T05:19:39.203089Z"
 }
