@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T03:19:06Z,open-redactor,0.2.1,Yuriy H,Apache-2.0,95443,Open-source CLI to make video share-safe with SAM 3.1 prompt-driven redaction
+2026-10-06T03:23:21Z,apsa,1.0.3,,,621416,APSA (앱사): evidence-first security audits for Android and iOS
+2026-10-06T03:25:01Z,tetryonics,0.0.1,Kelvin Abraham,Proprietary,3371,"Tetryonics - geometric physics corpus and modelling engine. Name reserved for the Tetryonics Reasoning Engine, currently in development."
+2026-10-06T03:25:02Z,tetryonix,0.0.1,Kelvin Abraham,Proprietary,3312,Tetryonix - reserved namespace associated with the Tetryonics project.
+2026-10-06T03:25:03Z,tetryon,0.0.1,Kelvin Abraham,Proprietary,3285,Tetryon - reserved namespace associated with the Tetryonics project.
+2026-10-06T03:26:33Z,intervals-icu-pause-split,0.2.0,Martin Mahner,MIT,75371,"Split intervals.icu activities into moving and pause intervals, with a preview before anything is written"
+2026-10-06T03:28:38Z,graphdml,0.1.0,Sam Dreyfuss,MIT,148706,Double machine learning for causal effects on networks: direct and peer effects with valid confidence intervals.
+2026-10-06T03:30:49Z,tourclaim,0.1.0,Copernican <info@getcopernican.com>,MIT,160543,"Client and command line for TourClaim: start, fill in and submit a trip cancellation claim against the travel insurance that comes with your credit card, from Python, a terminal or an AI agent."
+2026-10-06T03:32:35Z,sessionkit,0.0.1,Mike Bailey,,3404,"Session Kit: the session family in one install - mail, phone, view and tools for coding agents. Name reserved; the tool follows."
+2026-10-06T03:36:13Z,wnnlib,0.1.0,Stiven Schwanz Dias <stven.dias@gmail.com>,Apache-2.0,101868,Weightless Neural Networks library
+2026-10-06T03:38:00Z,sessionvoice,0.0.1,Mike Bailey,,2250,"Session Voice: ambient voice for coding-agent sessions - ears, mouth and the genie. Part of Session Kit. Name reserved; the tool follows."
+2026-10-06T03:38:34Z,kitzkatz-memoria,1.0.0,Kitzkatz <Kitzkatz-memoria@proton.me>,MIT,509173,Local-first cognitive memory engine for LLMs
+2026-10-06T03:53:21Z,glacier-flow-tools,0.2.1,Andy Aschwanden <andy.aschwanden@gmail.com>,GPL 3.0,22199566,Tools for analysing glacier flow.
+2026-10-06T03:56:36Z,win-mouse-listen,0.1.0,,MIT,21003,Non-blocking Windows mouse listener using Raw Input API
+2026-10-06T03:59:03Z,unikraft-cloud-plugin-sandbox-api,1.1.0.dev17,Unikraft GmbH,BSD-3-Clause,22884,Generated Python client for the Unikraft Cloud `sandbox` plugin API
+2026-10-06T03:59:11Z,zenveil-engine,0.4.0,,,221084,ZenVeil scanning engine (security + architecture) — importable as `zenguard`.
+2026-10-06T03:59:55Z,bartleby-ssg,0.1.0,Mason Egger <mason@masonegger.com>,MIT,587804,A batteries-included Python static site generator
+2026-10-06T04:03:35Z,acks-office,2.1.0,"""Thom Jing (shynloc)"" <mail@jintao.uk>",MIT,1146159,按文档设计规范生成、读取、转换 Word / Excel / PPT / PDF，不依赖本机 Office，适配各类 AI Agent。
+2026-10-06T04:04:56Z,tmscli,0.1.0,,,4251,"runs minesweeper in your terminal, type rules for how to play"
+2026-10-06T04:07:39Z,robotframework-paylo,0.1.0,Angel Gerardo Molina Valdez,MIT,11939,"Paylo: safe, type-preserving JSON payload templates."
+2026-10-06T04:09:19Z,robotframework-marka,0.1.0,Angel Gerardo Molina Valdez,MIT,15660,Marka: persistent highlights and screenshot annotations for Selenium.
+2026-10-06T04:11:37Z,revlet,0.1.0,pluveto,MIT,270603,A Salsa-inspired incremental computation library for Python.
+2026-10-06T04:12:52Z,mdp-explainer,0.0.1a1,,,11229,Explain MDP
