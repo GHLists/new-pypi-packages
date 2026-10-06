@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-10-06T06:18:54.231154Z",
-    "path": "data/new-packages-2026-10-06T07-19-26-992278Z.csv",
-    "to": "2026-10-06T07:19:26.992278Z"
+    "count": 44,
+    "from": "2026-10-06T07:19:26.992278Z",
+    "path": "data/new-packages-2026-10-06T08-19-07-519905Z.csv",
+    "to": "2026-10-06T08:19:07.519905Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-06T04:54:30Z",
       "package": "llama-tui",
       "since": "2026-10-06T04:18:45.921384Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-06T03:51:26Z",
-      "package": "taxlation",
-      "since": "2026-10-06T03:19:08.993119Z"
     }
   ],
-  "serial": 41869228,
+  "serial": 41870985,
   "source_truncated": false,
-  "window": "2026-10-06T07:19:26.992278Z"
+  "window": "2026-10-06T08:19:07.519905Z"
 }

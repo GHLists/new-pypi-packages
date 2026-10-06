@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T07:22:31Z,tzun,0.0.0a1,Tzun <hello@tzun.ai>,Apache-2.0,2154,Reserved for the Tzun SDK. Not released yet: see https://tzun.ai
+2026-10-06T07:22:54Z,tzun-verify,0.0.0a1,Tzun <hello@tzun.ai>,Apache-2.0,2243,"Reserved for tzun-verify, the independent verifier for Tzun evidence. Not released yet: see https://tzun.ai"
+2026-10-06T07:23:43Z,ai-arbiter,0.1.0a2,ViciusLio,Apache-2.0,754526,AI governance gateway and EU AI Act compliance toolkit: links the AI systems you declare with what their traffic shows
+2026-10-06T07:24:14Z,convertro,0.1.0,Edouard TUYUBAHE,MIT,4393,"A simple unit converter for length, weight and temperature."
+2026-10-06T07:24:48Z,probe-the-harness,0.1.0,Taiheng Pan,MIT,60784,Setup checks for stale-data RL comparisons in language models
+2026-10-06T07:24:56Z,cot-config,0.1.0,Ronny Pfannschmidt <opensource@ronnypfannschmidt.de>,MPL-2.0,257624,type annotation based composable settings
+2026-10-06T07:27:55Z,odoo-addon-l10n-jp-kana-hr-employee-name,19.0.1.0.0.2,"Quartile, Odoo Community Association (OCA)",LGPL-3,26854,Add a normalized kana name to employees
+2026-10-06T07:29:04Z,devpack-python,1.0.0,,,4026,Module pack for python game development
+2026-10-06T07:29:10Z,hatchup-provider-exclusive-service-integration,0.1.0,Hatchup,"MIT License Copyright (c) 2026 Hatchup Permission is hereby granted, free of charge, to any person…",19330,The shared contract between Pathinnova and the exclusive services built for its providers.
+2026-10-06T07:29:27Z,stockcast,0.1.0,Filotas Theodosiou,Apache-2.0,327516,"Turn forecasts into inventory decisions you can simulate, inspect, and evaluate."
+2026-10-06T07:29:36Z,netops-helper,0.3.8,,MIT,314061,Read-only MCP engine for bounded network troubleshooting
+2026-10-06T07:30:15Z,tangier,0.2.1,,,320627,"Smart CI for monorepos: change-scoped tests, local gate reuse, content-addressed package builds"
+2026-10-06T07:33:31Z,datadog-structurizr,0.1.0,Amit Kumar,MIT,80964,"Generate C4 system context, container and component diagrams of a Datadog APM service as Structurizr DSL and Mermaid."
+2026-10-06T07:35:14Z,vamp-waf-bypass,1.0.0,VampSecure Studios <belky@protonmail.ch>,AGPL-3.0-only,48052,WAF evasion tester — 15 bypass checks for authorized security testing
+2026-10-06T07:37:11Z,bricklogger,0.2.0,Michael Rosenlund,MIT,2271309,Data bridge for building automation: collects data based on a Brick model and writes it to time-series databases
+2026-10-06T07:37:43Z,reflex-laya,0.1.0,Saksham Sharma,Apache-2.0,19524,Laya full-model sidecar for Reflex (tier 6): scores candidate agent actions in one forward pass.
+2026-10-06T07:43:12Z,survival-simulation,0.1.0,Vincent,MIT,10422,"Synthetic survival dataset generator supporting linear, non-linear, and non-PH scenarios."
+2026-10-06T07:43:41Z,binomic,0.1.0,ahsen17 <mesailedward@qq.com>,MIT,175232,"Binomic - A lightweight, customizable asynchronous task framework for Python."
+2026-10-06T07:47:48Z,psymarkers,0.1.11,blazaid,GPL-3.0-or-later,14268,TBD
+2026-10-06T07:51:18Z,oathline,0.1.0,Nexxt Nest Group Pty Ltd,MIT,102686,"A small governance core for AI agents that take real actions: allowlisted capabilities, validated model output, human confirmation tokens and a hash-chained audit log."
+2026-10-06T07:51:56Z,paziresh24-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,479883,"Unofficial read-only MCP server for Paziresh24: find doctors, read profiles, prices and reviews, and see free appointment slots."
+2026-10-06T07:52:01Z,doctoreto-mcp,0.1.1,Sepehr <sepehr@nextofx.com>,MIT,484737,"Unofficial read-only MCP server for Doctoreto: find Iranian doctors, visit fees, free appointment slots, reviews, clinics, labs and clinic offers."
+2026-10-06T07:52:23Z,doribt,0.2.0,DoriBT contributors,Apache-2.0,309342,Daily and minute cash-account backtesting for A-share research
+2026-10-06T07:54:18Z,neuralcrystal,0.1.0,,MIT,88935,"Run trained NeuralCrystal crystals: the light path through a glass block of phase surfaces, in PyTorch"
+2026-10-06T07:55:28Z,khanoumi-mcp,0.1.1,Sepehr <sepehr@nextofx.com>,MIT,500027,"Unofficial read-only MCP server for Khanoumi: search cosmetics, skin and hair care and perfume, compare prices, shades and reviews, find deals."
+2026-10-06T07:55:31Z,asalbanoo-mcp,0.1.1,Sepehr <sepehr@nextofx.com>,MIT,475283,"Unofficial read-only MCP server for Asal Banoo: search cosmetics, skin and hair care, compare prices and variants, find deals."
+2026-10-06T07:55:34Z,shopino-mcp,0.1.1,Sepehr <sepehr@nextofx.com>,MIT,469476,"Unofficial read-only MCP server for Shopino: search fashion from thousands of Iranian shops, compare prices, sizes and stock, rate shops, find deals."
+2026-10-06T07:55:49Z,otelstarter,0.1.0,,Apache-2.0,19443,"Business-aware domain events for OpenTelemetry, from the otelstarter project."
+2026-10-06T07:56:52Z,ffsuite,0.0.1,,,2152,Add your description here
+2026-10-06T07:58:40Z,il2ks,0.1.0,,MIT,5084912,Self-hosted statistics website for IL-2 Sturmovik: Korea dedicated servers
+2026-10-06T07:59:53Z,naiuz,0.1.0,,MIT,164732,The official Python client for the NeuronAI API.
+2026-10-06T08:02:17Z,bricklogger-ibos,0.1.0,Michael Rosenlund,MIT,63009,Bricklogger source: the trend history of BACnet objects from the iBOS Data API
+2026-10-06T08:03:20Z,intellign-growth,0.2.0,Intellign LLC,Intellign Growth Python SDK Copyright © 2026 Intellign LLC. All rights reserved. This software and…,10311,Official Python SDK for Intellign Growth — connect meaningful product and business signals to Growth.
+2026-10-06T08:08:26Z,kalman-py,0.1.0,Jose Lopez <joslo2345contact@gmail.com>,MIT,132116,"Fast, exact and numerically robust Kalman filters for Python: KF, EKF, UKF, RTS smoothers, noise learning and diagnostics on NumPy or JAX"
+2026-10-06T08:08:31Z,calcutils-edouard144,0.1.0,Edouard TUYUBAHE,MIT,5371,A simple student tutorial math utility package
+2026-10-06T08:09:36Z,panda3d-crowdcontrol,0.1.0,DarthMDev,MIT,23902,Crowd Control SimpleTCP integration for Panda3D games
+2026-10-06T08:11:28Z,vamp-windows-audit,1.0.0,VampSecure Studios <belky@protonmail.ch>,AGPL-3.0-only,47102,Windows Security Configuration Auditor — 15 CIS-aligned checks
+2026-10-06T08:11:46Z,maskmesh,0.1.0,Chao Wang <WangChaoAnHui@126.com>,MIT,9306,"Equidistant lat/lon mesh grids centered on any point on the sphere, with seamless polar and antimeridian wrap-around"
+2026-10-06T08:12:34Z,lettucecfd,0.2.4a1,"Andreas Kraemer, Mario Bedrunka, Philipp Spelten, Dominik Wilde, Robert Fritsch, Maximilian Bille,…",MIT,2833057,Lattice Boltzmann Python GPU
+2026-10-06T08:12:39Z,altatts,2.0.0,YaliLabs / ALTA Project,Apache-2.0,493639,"ALTATTS: natural, expressive, multilingual text-to-speech with zero-shot voice cloning, emotion and pause control, anonymized default voices and a MeanFlow prior -- built for Kinyarwanda (plus Englis…"
+2026-10-06T08:13:15Z,querypad,0.0.0,,,2201,Stub package. Install the real querypad from the private package index.
+2026-10-06T08:14:12Z,aaronserver,0.2.0,Aaron Server,MIT,20402,Tiny browser-based upload and download servers with aaronupload and aarondownie commands.
+2026-10-06T08:17:01Z,calckit-kabanda,0.1.0,kabanda-jordan,MIT,16909,"Arithmetic and statistics helpers: add, subtract, multiply, divide, mean, median, mode and more."
+2026-10-06T08:18:06Z,sad-py,0.1.0,SAD contributors,MIT,155663,"Static, evidence-backed discovery of frontend API operations"
