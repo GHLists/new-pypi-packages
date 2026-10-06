@@ -1,31 +1,37 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-10-06T21:19:24.173199Z",
-    "path": "data/new-packages-2026-10-06T22-18-40-250185Z.csv",
-    "to": "2026-10-06T22:18:40.250185Z"
+    "count": 23,
+    "from": "2026-10-06T22:18:40.250185Z",
+    "path": "data/new-packages-2026-10-06T23-19-15-872965Z.csv",
+    "to": "2026-10-06T23:19:15.872965Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-06T19:49:31Z",
       "package": "C110P",
       "since": "2026-10-06T19:18:37.321364Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-06T22:30:27Z",
+      "package": "everesteer-api",
+      "since": "2026-10-06T22:18:40.250185Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-06T20:34:45Z",
       "package": "lore-cs",
       "since": "2026-10-06T20:18:38.913658Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-06T19:27:22Z",
       "package": "skywalk",
       "since": "2026-10-06T19:18:37.321364Z"
     }
   ],
-  "serial": 41901090,
+  "serial": 41902573,
   "source_truncated": false,
-  "window": "2026-10-06T22:18:40.250185Z"
+  "window": "2026-10-06T23:19:15.872965Z"
 }
