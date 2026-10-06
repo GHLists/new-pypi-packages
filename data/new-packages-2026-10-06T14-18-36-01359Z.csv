@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T13:08:38Z,blackrubby,0.1.0,,Apache-2.0,4574098,C++ symbolic-plus-kernel regression estimator with a NumPy Python API
+2026-10-06T13:14:24Z,admet,0.1.0b2,,AGPL-3.0-only,3887424,Unified microfluidics acquisition and analysis workflow system
+2026-10-06T13:16:19Z,pramiti-merger-reconciler,0.1.0,"""Pramiti Labs, Inc."" <hello@getpramiti.com>",MIT,29196,Standalone data model reconciler for M&A data integration
+2026-10-06T13:19:01Z,calm-additive,0.1.0,Vasilis Gkolemis <ntipakos@gmail.com>,,78022,CALM: interpretable by design. Accurate locally additive models for tabular data.
+2026-10-06T13:24:59Z,redis-iris,0.1.0a1,Redis,MIT,571287,Command-line interface for Redis Iris services
+2026-10-06T13:25:08Z,tmc-pbp,0.1.0,Tendai Mapungwana Chikake <tendaichikake@phystech.edu>,MIT,275164,Pseudo-Boolean Polynomial decomposition for data analysis
+2026-10-06T13:25:39Z,pbp-anomaly,0.2.0,Boris Goldengorin,MIT,30977,Training-free anomaly detection via pseudo-Boolean polynomial decomposition
+2026-10-06T13:27:39Z,voice-activity-ai,0.1.0,Pranay Mahendrakar,MIT,52528,"Find where someone is actually speaking in a recording, and where it is just noise"
+2026-10-06T13:27:43Z,iseewhatyoudid,0.1.0,Timothée Mazzucotelli <dev@pawamoy.fr>,ISC,133828,Overview of what you achieved.
+2026-10-06T13:28:02Z,peye,0.1.1,Jos De Roo,"# MIT License ### Copyright 2021-2026 Jos De Roo, KNoWS office of IDLab, Ghent University - imec Pe…",101340,peye — reasoning you can see. A dependency-free Python rule language with forward and backward reasoning and checkable proofs.
+2026-10-06T13:28:29Z,speech-quality,0.1.0,Pranay Mahendrakar,MIT,92021,Measure whether a voice recording is clean enough to transcribe or publish
+2026-10-06T13:28:57Z,poordjaevin,0.1.1,Icaro0310,MIT,348559,"A local-first typed decision layer with calibrated confidence, including an optional Devin ACP backend."
+2026-10-06T13:30:07Z,nwcommitaverages,2.0.1,numbworks,MIT,19848,A library designed to calculate the average time between Git commits.
+2026-10-06T13:30:57Z,pystac-ext-osc,1.0.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,43918,STAC Open Science Catalog Extension Specification pystac implementation.
+2026-10-06T13:32:28Z,agyswap-cli,0.1.0,rasvanjaya21 <rasvanjaya21@gmail.com>,MIT,38783,"Switch between multiple Antigravity CLI accounts, with a quota dashboard for every account"
+2026-10-06T13:32:30Z,theovex-polaris,0.4.0,,Apache-2.0,1202739,"Polaris by TheoVex: security review, bounded repair proposals, and action assessment for engineering agents."
+2026-10-06T13:33:47Z,geo-data-audit,0.1.0,,MIT,50604,Audit heterogeneous geospatial datasets for common data-quality and spatial-consistency problems before they enter downstream geospatial ML pipelines.
+2026-10-06T13:34:25Z,babelscribe,0.2.0,,MIT,42063,"Transcribe any audio/video in 99 languages on any GPU (AMD, NVIDIA, Intel via Vulkan; NVIDIA via CUDA; Apple via Metal) or CPU — whisper.cpp with batteries included."
+2026-10-06T13:34:44Z,freehand-kit-import-export,1.0.0,Freehand Kit contributors,MIT,100279,"Declarative, CSV-first Django REST Framework import and export APIs."
+2026-10-06T13:35:18Z,bookery-cli,2026.10.1,Joe Cotellese,MIT,811622,"CLI-first ebook library manager with Kobo sync, inspired by beets and Calibre"
+2026-10-06T13:35:53Z,blugrid-kernel,0.0.0,,,1876,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-06T13:35:56Z,pytest-blugrid-standard,0.0.0,,,1968,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-06T13:35:59Z,blugrid-claude-router,0.0.0,,,1847,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-06T13:36:02Z,blugrid-bkdev,0.0.0,,,1764,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-06T13:36:12Z,budgetbakers-partner-sdk,0.2.0,BudgetBakers <integration@budgetbakers.com>,Apache-2.0,58318,"BudgetBakers Partner API server SDK (AISP): typed client, webhook verification, hosted connect sessions."
+2026-10-06T13:38:20Z,smhi2epw,1.1.1,smhi2epw contributors,MIT,244514,"Build complete-year EnergyPlus weather files from SMHI observations, with documented gap recovery."
+2026-10-06T13:39:26Z,wondersearch-cli,0.1.0,,Apache-2.0,96672,Command-line client for WonderSearch
+2026-10-06T13:43:51Z,anpyra,0.1.0,,Apache-2.0,172438,Compile a typed Python subset directly to Android DEX and signed APKs
+2026-10-06T13:45:42Z,solvimon-python-sdk,0.0.4b0,Solvimon,,3214455,Solvimon API
+2026-10-06T13:45:43Z,euinvoice,0.1.0,Biagio Distefano,MIT,395362,"EN 16931 e-invoicing for Python: build, serialize (UBL/CII), validate, parse and embed (Factur-X) European e-invoices."
+2026-10-06T13:46:04Z,rutis-host,0.7.0,,MIT,15086946,"rutis-host, a rutis host that needs no Rust: run and develop rutis plugins written in Python, TypeScript and JavaScript"
+2026-10-06T13:46:49Z,kodiks-ai-lib,1.1.8,Ramazan Güven,Apache-2.0,33989,Simple and flexible ML workflow engine and Utilities
+2026-10-06T13:48:03Z,backbone-conductor,0.1.0,,MIT,395336,Git-native intent and decision coordination for coding agents
+2026-10-06T13:48:32Z,minilaws,0.1.0,Lua Japiassu,MIT,41701,"Curry-Howard for AI-edited Python: the AI writes code and proofs, a tiny kernel checks them, the laws stay human-owned"
+2026-10-06T13:51:23Z,nwdocstringchecking,2.0.1,numbworks,MIT,14461,A library designed to identify which methods in a Python file are missing docstrings.
+2026-10-06T13:53:38Z,modlink-agent,1.1.0,ModLink Platform Team,Apache-2.0,89385,模联 ModLink 的 Agent 工具包——把平台模型封装为 CLI 与 MCP 工具，供 AI Agent 调用
+2026-10-06T13:55:12Z,rutis,0.7.0,,MIT,54179,"Write rutis plugins in Python, and the runtime that runs them"
+2026-10-06T13:55:40Z,rabbit-fem-mpich,2026.10.1,scepticalrabbit (Lloyd Fletcher),LGPL-2.1,92381914,A lightweight MOOSE distribution packaging thermal and solid mechanics
+2026-10-06T13:57:09Z,mathtext2doc,0.1.0,HelloWorld-b <lizhengxu0325@qq.com>,MIT,85139,把 AI 生成的数学文本快速转成带公式和函数图像的文档图片
+2026-10-06T14:00:16Z,fizzl,0.1.0,,MIT,15358,"Safety checks for AI agents that pay: check a transaction or signature before signing, a token before buying, a wallet's approvals, and an x402 endpoint before paying it (presign-guard, x402 Doctor)."
+2026-10-06T14:00:45Z,blackrubby,0.1.0,,Apache-2.0,4574098,C++ symbolic-plus-kernel regression estimator with a NumPy Python API
+2026-10-06T14:00:52Z,nwpackageversions,2.0.1,numbworks,MIT,31300,A library that helps with retrieving package information from PyPi.org and comparing them with what you have installed locally.
+2026-10-06T14:01:59Z,nodemaven-mcp,0.1.0,,MIT,15650,"MCP server for NodeMaven residential proxies: proxy strings with geo-targeting and sticky sessions, connection checks, locations and usage."
+2026-10-06T14:03:17Z,snac-archives-mcp,0.1.0,Ian Anderson,MIT,148658,"MCP server for finding which archive holds the papers: search the SNAC Cooperative's index of archival collections and the people, families and organisations in them, and build ArchiveGrid searches.…"
+2026-10-06T14:04:44Z,enirb-clocklive,0.1.0,Siddharth,MIT,4130,Auto-uploaded package
+2026-10-06T14:04:45Z,us-places-mcp,0.2.0,Ian Anderson,MIT,225428,"MCP server for where things were, then: which county held a spot on a given date (Newberry county-boundary atlas via OpenHistoricalMap), federal land descriptions and PLSS locations, the route from a…"
+2026-10-06T14:05:14Z,foodnet,0.1.0,"KU Leuven, Lab of Molecular Bacteriology",Apache-2.0,264357,"Build taxon and metabolite networks (who produces and who consumes what) from mGrowthDB batch monocultures, with the parameters of a consumer-resource model."
+2026-10-06T14:05:32Z,solvency2,0.5.0,RiskDataScience GmbH <riskdatascience@web.de>,GPL-3.0-or-later,33255393,"Offline, traceable Solvency II formulas, parameters and synthetic references"
+2026-10-06T14:06:14Z,dpla-catalog-mcp,0.1.1,Ian Anderson,MIT,176734,"MCP server for the Digital Public Library of America: search descriptions of 50 million digitised items held by US libraries, archives and museums (county atlases, city directories, local histories,…"
+2026-10-06T14:06:49Z,bastionfuse,0.1.0,Stefano Rizzello <rizzellostefano@gmail.com>,MIT,106600,"Kill switch and tripwires for AI agents: honeytokens, decoy files, decoy MCP tools and action budgets trip a sticky fuse that stops the agent, whether or not any detector saw the injection. Claude Co…"
+2026-10-06T14:08:19Z,featurecharacterization2d,1.1.2,Alexander Müller,MIT,26007,Feature Characterization for Profile Surface Texture
+2026-10-06T14:09:14Z,kapela-cli,0.1.0,Kapela,,36623751,Terminal interface for chatting with your Kapela agent
+2026-10-06T14:15:02Z,liberty-embed,0.1.1,Liberty TI,LicenseRef-Proprietary,64093,"Liberty Embed para o backend da app: valida o ticket do host, abre a sessão, calcula permissões e protege as rotas."
+2026-10-06T14:16:44Z,alienfx-leds,0.1.0,Zeecka,GPL-3.0-or-later,101119,Keyboard and chassis lighting for Alienware and Dell machines on Linux: a confined D-Bus service and its command line
+2026-10-06T14:17:51Z,dssrr,0.1.0,Shipeng Yu <ysp@cug.edu.cn>,MIT,10608714,Dual-Sided Spectral Reference Reconstruction: training-free long-gap repair for planetary/seismic time series
+2026-10-06T14:18:29Z,moldable-gadget-sdk,0.2.0a1,Moldable contributors,MIT,213639,Connect trusted Linux gadgets to a Moldable desktop
