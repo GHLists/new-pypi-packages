@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-05T23:26:12Z,md2gost,1.0.1,Egor Deev <egor@deev.space>,MIT,27919,Markdown to DOCX formatted per GOST 7.32-2017 (Russian standard for reports)
+2026-10-05T23:27:26Z,ambolt-vies,0.1.0,Ambolt <hello@ambolt.dev>,MIT,13936,"EU VIES VAT number check: offline syntax validation, retry on VIES member-state errors, request queue, consultation number. Standard library only."
+2026-10-05T23:28:30Z,atlas-fga,0.1.0,Atlas,MIT,15181,"Atlas FGA client for Python — fine-grained, OpenFGA-shaped relationship authorization, preconfigured for Atlas. Dependency-free (stdlib only)."
+2026-10-05T23:30:58Z,mindcraft-mcp,0.0.1,,Proprietary,2202,Mindcraft MCP server by Latency Labs. Placeholder: the first release is not out yet.
+2026-10-05T23:31:16Z,muode,0.1.0,Fabio Cumbo,"MIT License Copyright (c) 2026 Fabio Cumbo Permission is hereby granted, free of charge, to any per…",377389,Automated ODE-based simulation engine for large-scale microbial community dynamics from MAGs
+2026-10-05T23:37:41Z,libertai-confidential-inference,0.0.1,,MIT,2526652,"Verify you are talking to LibertAI inference running in an attested confidential VM, then talk to it directly."
+2026-10-05T23:39:16Z,trytond-document-incoming-ocr-eagle-doc,8.2.0,B2CK,GPL-3.0-or-later,57615,Eagle Doc OCR for incoming document in Tryton
+2026-10-05T23:39:29Z,trytond-project-disbursement,8.2.0,B2CK SRL,GPL-3.0-or-later,81768,Projects disbursement for Tryton
+2026-10-05T23:39:41Z,trytond-account-invoice-factur-x,8.2.0,B2CK,GPL-3.0-or-later,113673,Factur-X for Tryton
+2026-10-05T23:39:53Z,trytond-stock-conversion,8.2.0,"B2CK SRL, SALUC SA",GPL-3.0-or-later,86564,Goods conversion for Tryton
+2026-10-05T23:41:49Z,dwm-experiments,0.1.0,Rashi,MIT,17826,"Data Warehousing & Mining lab experiments 3-7 (ID3, linear regression, K-Means, hierarchical clustering, Apriori). Copies the code into your current folder on demand."
+2026-10-05T23:46:31Z,hunchml,0.1.0,,,774739,"Local AutoML for tabular data, for non-experts"
+2026-10-05T23:51:38Z,vesma-cortex,0.2.0,,Apache-2.0,144079,"Development library for vesma-cortex — the local is-duplicate decision model (features, D/N training, selection, export, single-shot eval)"
+2026-10-05T23:53:18Z,manylp,0.1.0,Fabio Cumbo,"MIT License Copyright (c) 2026 Fabio Cumbo Permission is hereby granted, free of charge, to any per…",130135,"Certified batched solver for large batches of small, structurally-shared, bounds-parametric linear programs (CPU + GPU)"
+2026-10-05T23:56:03Z,PyURLFetch,0.1.0,Sha0huaZhang,MIT,14986,A Python library for implementing convenient resumable download functionality.
+2026-10-05T23:56:04Z,kitten-tts-cpp,0.1.0,KittenML,,414236586,CPU KittenTTS2 inference with native C++ bindings
+2026-10-06T00:06:01Z,bubtrsnap,0.3.0,Gerry,"MIT License Copyright (c) 2026 Gerry Permission is hereby granted, free of charge, to any person ob…",71508,"btrfs snapshot and backup tool (single-file, stdlib-only)"
+2026-10-06T00:07:40Z,basedecision,0.1.0,Hrudayaditya Jallu,Apache-2.0,1994214,Native typed decisions with complete-input packing and bounded batching
+2026-10-06T00:10:02Z,attestari-mcp,0.1.0,Attestari,MIT,36404,"Attestari's verdict on an npm or PyPI package version, over MCP: the lookup API's answer, asked before a package is installed."
+2026-10-06T00:14:33Z,db-deployer,0.1.0,Roy P. Ammeraal,GPL-2.0-only,95145,Deploy database objects to PostgreSQL
+2026-10-06T00:17:00Z,papyrus-newsroom,1.0.0.dev1,,MIT,1381374,Papyrus newsroom Python tools and CLI.
+2026-10-06T00:18:52Z,fqkit,0.1.1,Felix <felixo6996@gmail.com>,MIT,44748,A lightweight Python framework for building and simulating quantum circuits.
+2026-10-06T00:19:04Z,topicjev,0.1.0,"Mason Smetana, Igor Sukharev, Lev Khazanovich",MIT,2932767,An Efficient Low-Resource Bootstrap for Topic Model Refinement in Zero-Shot Setting
