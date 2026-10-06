@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T08:22:31Z,mircmd,0.0.1,Valery Vishnevskiy <v.v.vishnevskiy@gmail.com>,,2811,Mir Commander is an integrated environment for scientific and engineering software.
+2026-10-06T08:24:58Z,paidwen,0.8.0,,Apache-2.0,242809,Paidwen SDK: the agent asks Paidwen before each action and applies the answer.
+2026-10-06T08:27:09Z,ktw,0.1.0,Oliver Zehentleitner,MIT,8674,"Name reservation for Keep the Why, the agent skill and repo-native convention that preserves the reasoning behind a codebase. Not a Python library - install the skill via your agent's skill tooling;…"
+2026-10-06T08:27:18Z,docxium,0.1.0,,MIT,1436508,python-docx extended with batch operations implemented in Rust
+2026-10-06T08:27:43Z,ktw-lint,0.1.0,Oliver Zehentleitner,MIT,8678,"Name reservation for Keep the Why, the agent skill and repo-native convention that preserves the reasoning behind a codebase. Not a Python library - install the skill via your agent's skill tooling;…"
+2026-10-06T08:29:59Z,pdf-figure-table-extractor,0.1.0,,,22036,"Extract tightly cropped, high-resolution figures and tables from PDF files."
+2026-10-06T08:30:58Z,norwegian-fake-data,0.1.0,,MIT,65901,Norwegian fictional identifiers and character records for murder mystery games.
+2026-10-06T08:33:56Z,aetheris,1.0.0,minjun1177,Apache-2.0,885947,"A terminal AI assistant that works with small local models - two tool protocols, one tool table, and an undo for everything it writes."
+2026-10-06T08:35:13Z,vexxhost-budgetclient,0.1.1,VEXXHOST,Apache-2.0,44083,Python client and OpenStack CLI plugin for Budget
+2026-10-06T08:35:46Z,vexxhost-costexplorerclient,0.3.1,VEXXHOST,Apache-2.0,39618,Python client and OpenStack CLI plugin for Cost Explorer
+2026-10-06T08:36:50Z,narrativetrace-skills,0.0.1,narrativetrace contributors,BUSL-1.1,2111,"Name reservation placeholder for narrativetrace-skills, first release imminent."
+2026-10-06T08:36:51Z,narrativetrace-tooling,0.0.1,narrativetrace contributors,BUSL-1.1,2123,"Name reservation placeholder for narrativetrace-tooling, first release imminent."
+2026-10-06T08:39:40Z,umep-solweig,2026.0.1,UMEP Development Team <umep@geo.su.se>,GPL-3.0-only,508898,SOLWEIG algorithm implementation for urban thermal and radiation simulation
+2026-10-06T08:40:04Z,kwcapture,0.1.0,Tjandra Satria Gunawan,MIT,47145,Fast Wayland screen capture for KDE Plasma (KWin): ~40 fps at 1440p with a zero-copy Python API
+2026-10-06T08:43:27Z,topos-bible,0.1.0,,CC0-1.0,25504599,"Find, parse, and complete Bible references in text"
+2026-10-06T08:44:03Z,sqlide,0.1.0,XFaIT,MIT,316976,Terminal SQL IDE (DataGrip-like) over JDBC
+2026-10-06T08:44:32Z,nemo-fabric-adapters-openhands,0.5.0a20261006,NVIDIA Corporation,Apache-2.0,11906,OpenHands adapter for NVIDIA NeMo Fabric
+2026-10-06T08:45:09Z,cyberpen,0.1.1,StRaNgErDrEaMeR,MIT,105477,CyberPen - pen drive & disk recovery studio with built-in SHIELD antivirus (PySide6 GUI)
+2026-10-06T08:46:17Z,majal-edge,0.1.0,ScaleX Innovation <support@scalexi.ai>,Apache-2.0,41028,Majal edge agent: connects PX4 and ArduPilot drones to the Majal UTM platform by ScaleX Innovation
+2026-10-06T08:47:21Z,specer,0.1.0b3,Kevin Lee,MIT,28426,从需求描述结合现有文档和代码资料自动生成开发文档和代码规格说明
+2026-10-06T08:55:01Z,gdp-rs,0.1.0,CloudThinker AI,MIT,918842,Rust-backed proof contracts for Python authorization boundaries
+2026-10-06T08:55:36Z,gridspan,0.1.0,metastableB,Apache-2.0,45417,Expand a nested dict of parameter sets into a list of flat run configs.
+2026-10-06T08:56:07Z,pystac-ext-processing,1.2.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,29352,STAC Processing Extension Specification pystac implementation.
+2026-10-06T09:01:11Z,pystac-ext-product,1.1.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,30905,STAC product Extension Specification pystac implementation.
+2026-10-06T09:01:26Z,rhein-ruhr-fahrplan-mcp,1.0.0,Marcus,MIT,46073,MCP-Server für Fahrplandaten im Rhein-Ruhr-Gebiet: GTFS-Sollplan (VRR-OpenData) + Live-Echtzeit (EFA)
+2026-10-06T09:02:51Z,penlike,0.0.2,Thor Whalen,MIT,147705,"Model how an author, a group or a corpus writes, register by register, and give agents the skills to write in that style"
+2026-10-06T09:07:12Z,pystac-ext-sentinel-1,0.2.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,29026,STAC Sentinel-1 Extension Specification pystac implementation.
+2026-10-06T09:12:01Z,cellstate-c2s,0.1.0,impatient_hedgehog <impatienthedgehog@duck.com>,MIT,15987,Deviation-from-reference gene ordering for Cell2Sentence cell-state prediction
+2026-10-06T09:13:07Z,ratchet-size,0.1.0,Krishan Subudhi,Apache-2.0,47815,A code-size budget that only goes down: keeps coding agents from bloating your repo.
+2026-10-06T09:13:56Z,aiomax2,0.1.0a2,CandyCrimsie,MIT,130594,"An async, aiogram-inspired framework for the MAX Bot API"
+2026-10-06T09:14:25Z,eval-ac,0.3.1,Andreas Foth <andreas.foth@uni-leipzig.de>,MIT,69455,Read the ABSCAL.HIS file of RPG microwave radiometers (e.g. HATPRO) and visualize the history of the absolute calibration with liquid nitrogen.
+2026-10-06T09:15:34Z,metalforge,0.0.1a1,The MetalForge Authors,Apache-2.0,12843,An MLX-native framework for pretraining 50M-3B parameter LLMs from scratch on Apple Silicon (early pre-release).
