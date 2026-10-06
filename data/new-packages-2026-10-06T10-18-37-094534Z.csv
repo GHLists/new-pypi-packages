@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T09:19:52Z,flashcart,0.1.0,Viktor Zaverkin <zaverkin.v@gmail.com>,Apache-2.0,370978,FlashCart: Fast Cartesian Tensor Products for Equivariant Interatomic Potentials
+2026-10-06T09:20:41Z,voice-anonymization-legal-eval,2.0.0,"Nathalie Vauquier, Seyed Ahmad Hosseini, Emmanuel Vincent",MIT,285735,Legally validated evaluation framework for voice anonymization (Interspeech 2025)
+2026-10-06T09:21:34Z,unblock-cli,0.1.0,Sqvist AB,MIT,247934,"A live map of your project, kept by your agents: a dependency-graph plan in your repo, with a CLI, an MCP server and a viewer."
+2026-10-06T09:23:49Z,dsw-templating,4.35.0,Marek Suchánek <marek.suchanek@ds-wizard.org>,Apache License 2.0,135995,Data Stewardship Wizard document template rendering
+2026-10-06T09:25:07Z,marketiv,0.16.0,MarketIV <hello@marketdx.lab.ai>,MIT,52945,"The MarketIV financial impact graph, in Python — news→market impact (why, who, direction, ripple) across stocks, commodities, FX, crypto, and private companies."
+2026-10-06T09:26:50Z,cellsim,1.4.0,Henry,MIT,685184,"Physics-first, uncertainty-honest in-silico cell and drug-response simulator"
+2026-10-06T09:30:57Z,quantdiff,0.1.0rc1,quantdiff contributors,Apache-2.0,844349,Find out which download of a local model gives the best answers on your own prompts.
+2026-10-06T09:31:23Z,scistest,0.1.0,"Qixian Zhong <qxzhong@xmu.edu.cn>, Rajen Shah <rds37@cam.ac.uk>",MIT,42356,Conditional independence testing for right-censored survival outcomes
+2026-10-06T09:31:33Z,mainsheet,0.1.0,QuietFlare,AGPL-3.0-or-later,99486,"An agent runtime with guardrails: a policy gate at the tool-call boundary, sandboxing, budgets, OpenTelemetry traces, a signed audit trail, and taxonomy-driven evals. Define an agent in one file, run…"
+2026-10-06T09:31:39Z,breakscope,0.0.1,,MIT,11553,See what your API changes will break in your code.
+2026-10-06T09:35:38Z,eigenkit,0.0.0,EigenOrbit,Apache-2.0,10899,Build quantum algorithms once. Run them anywhere.
+2026-10-06T09:37:31Z,soil_dataprovider_nl,1.0.0,"Allard de Wit <allard.dewit@wur.nl>, Herman Berghuijs <herman.berghuijs@wur.nl>",EUPL-1.2,24571,This package provides a set of data providers that can derive the soil parameters for running crop/soil models in PCSE based on the Dutch soil map.
+2026-10-06T09:39:00Z,dlgt-io,0.1.0,,MIT,24732,"Hire AI services on Delegate: search, hire with a price cap, collect results, rate."
+2026-10-06T09:41:59Z,venv-doc,0.1.0,Timothée Mazzucotelli <dev@pawamoy.fr>,ISC,48904,Like `cargo doc` for Python venvs.
+2026-10-06T09:44:03Z,stratl,0.1.0,Stratl <hello@stratl.ai>,Apache-2.0,32194,Stratl SDK: record AI decisions as Stratl Record Format (SRF) evidence
+2026-10-06T09:45:52Z,mcptoai,0.1.3,BKTY LTD <info@bktyconsultancy.co.uk>,MIT,161253,"MCPtoAI for Linux: chat with AI on your server from the web, your phone or the terminal"
+2026-10-06T09:46:49Z,anis-partners,1.0.0,"""Aniscom for Technical Services (Anis)"" <support@anis.ly>",MIT,239349,"The Python SDK for the Anis Partner API — signed requests, verified responses, typed operations."
+2026-10-06T09:47:17Z,pydantic-ai-app-factory,0.1.0,aiXbrain GmbH <dev@aixbrain.de>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",113614,Compose a Pydantic AI agent and its features into a FastAPI application
+2026-10-06T09:49:43Z,dopix,0.0.1,Benjamin Vial <bpmvial@gmail.com>,,1731,
+2026-10-06T09:49:57Z,responsible-request,0.4.0,Luca Rolshoven,MIT,97280,"Polite, reproducible and cost-safe LLM requests for research: load-aware throttling, request logging, caching and budgets for OpenAI-compatible endpoints."
+2026-10-06T09:50:02Z,anzei-force,0.0.1,Anzei <tony@anzei.io>,LicenseRef-Proprietary,1291,Part of Anzei (reliability testing for robot manipulation policies). Name reserved; not yet publicly available.
+2026-10-06T09:50:04Z,anzei-core,0.0.1,Anzei <tony@anzei.io>,LicenseRef-Proprietary,1282,Part of Anzei (reliability testing for robot manipulation policies). Name reserved; not yet publicly available.
+2026-10-06T09:50:06Z,anzei-odd,0.0.1,Anzei <tony@anzei.io>,LicenseRef-Proprietary,769,Part of Anzei (reliability testing for robot manipulation policies). Name reserved; not yet publicly available.
+2026-10-06T09:50:07Z,anzei-cli,0.0.1,Anzei <tony@anzei.io>,LicenseRef-Proprietary,770,Part of Anzei (reliability testing for robot manipulation policies). Name reserved; not yet publicly available.
+2026-10-06T09:52:58Z,immiscible,0.1.0,Eóin Forker,MIT,105451,"Govern what AI agents spend, share and do: authorize tool calls, wait for a person, settle, and verify signed receipts. Standard library only."
+2026-10-06T09:56:13Z,tdelegram,0.1.0,TDelegram,Apache-2.0,407293,A full-featured Telegram client library + CLI backed by TDLib
+2026-10-06T09:56:50Z,pipelinemd,0.1.0,rbalukja15,"MIT License Copyright (c) 2026 rbalukja15 Permission is hereby granted, free of charge, to any pers…",280687,GitLab CI/CD failure doctor - diagnoses failed pipelines and suggests fixes.
+2026-10-06T09:57:49Z,reware-lighthouse,0.1.0,RewareLabs,LicenseRef-Proprietary,74313,"Lighthouse developer CLI — link a repo to a project, enhance prompts, and scan commits"
+2026-10-06T09:58:46Z,hermes-toolkit,0.1.0,,Apache-2.0,33231,A toolkit for the multi-agent simulation of emergent communication and languages.
+2026-10-06T09:59:28Z,importtime-check,0.1.0a1,,Apache-2.0,108022,Detect Python import-time regressions in CI.
+2026-10-06T10:02:19Z,hydict,0.5.0,Veeresh Hanni,,16421,hydict — a dict-compatible hierarchical cache for Python with local L1 memory and Redis/Valkey L2 storage.
+2026-10-06T10:04:18Z,statejar,0.5.0rc1,Team Hello World,StateJar SDK License Version 1.0 Copyright (c) 2026 StateJar (Team Hello World). All rights reserve…,33656,Python client for the hosted StateJar memory API.
+2026-10-06T10:04:38Z,edays-cli,0.2.0,Otakar Dokoupil,MIT,47201,"Command-line client for the eDays leave/absence system (holiday, home office, team calendar)"
+2026-10-06T10:05:11Z,ckanext-citations,0.1.8,ICS <groupe-info-ics@igbmc.fr>,AGPL-3.0-or-later,62905,"Citation tracking (cited-by via OpenAlex/DataCite Event Data), dataset disruption index and per-researcher S-index, displayed on the dataset page."
+2026-10-06T10:05:30Z,laylight-cli,0.1.0,,,3795407,"The Laylight command line: check, format and compile Laylight layout files to GDSII"
+2026-10-06T10:08:42Z,transitlab,0.1.0,Transit Lab <hello@transitlab.nyc>,MIT,108934,"Query open NYC transit data (subway, bus, taxi, Uber and Lyft) from the command line, with DuckDB. Includes an MCP server for AI agents."
+2026-10-06T10:08:57Z,cachecanary,0.1.0,Haris Farooq <harisf98@gmail.com>,Apache-2.0,89182,"CacheCanary: know the moment your Claude prompt cache breaks on Amazon Bedrock, not when the bill arrives."
+2026-10-06T10:09:27Z,check-llm-quota,0.1.0,Yang Zhi See <hello@yangzhi.dev>,MIT,41336,"Check usage quota, rate limits and remaining sessions across LLM API providers (Z.ai GLM, Kimi/Moonshot)."
+2026-10-06T10:11:40Z,envcheck-rw,0.1.0,Lilian Brian Davis,MIT,8655,Check whether your .env file contains the variables listed in .env.example.
+2026-10-06T10:12:55Z,obelize,0.1.0,Hakan Bogan <hbogan93@gmail.com>,Apache-2.0,527182,"Find deprecated google-generativeai (Gemini SDK) code in a Python repo and migrate the provably safe part to google-genai, with a reviewable report."
+2026-10-06T10:14:07Z,guwenzi-tools,0.2.0,Guwenzi contributors,MIT,94086,CLI and Python client for evidence-preserving historical-document and glyph tools
+2026-10-06T10:14:48Z,mainbrella,0.1.0,,GPL-3.0-only,50175,Mainbrella container automation client
+2026-10-06T10:17:12Z,omnion,0.1.0,Omnion Contributors,MIT,124784,Omnion（万象永恒）· 永恒全能，编码与操作。免费优先的 AI Agent 命令行工具，支持云端 API 与本地模型、Skill 扩展与 Computer Use。
