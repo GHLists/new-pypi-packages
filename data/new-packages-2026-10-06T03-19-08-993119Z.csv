@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T02:28:51Z,fragment-donor-sdk,0.1.0,Fragment Donor contributors,MIT,29065,Server-side Python SDK for the independent Fragment Donor API
+2026-10-06T02:32:38Z,laptop-battery-status,0.1.0,Al Sweigart <asweigart@gmail.com>,MIT,26854,"Reports the battery charge, time remaining, and AC power status on Windows, macOS, and Linux, using only the standard library."
+2026-10-06T02:40:21Z,PyQt5-WinARM64,5.15.11,Riverbank Computing Limited <info@riverbankcomputing.com>,GPL v3,3601988,Python bindings for the Qt cross platform application toolkit
+2026-10-06T02:40:38Z,PyQt5-sip-WinARM64,12.15.0,Phil Thompson,SIP,56020,The sip module support for PyQt5
+2026-10-06T02:42:01Z,myous,0.0.1,,MIT,4353,Reserved name. myoushq clients are distributed as source only; see https://github.com/myoushq/myoushq-client
+2026-10-06T02:42:02Z,myoushq,0.0.1,,MIT,4383,Reserved name. myoushq clients are distributed as source only; see https://github.com/myoushq/myoushq-client
+2026-10-06T02:43:42Z,dhi-orbit,0.3.1,Dev Sanghvi,MIT,596721,A local dashboard for every Claude Code chat across your config dirs.
+2026-10-06T02:46:30Z,forexsmartbot,3.2.0,VoxHash <contact@voxhash.dev>,MIT,526175,Professional forex trading bot with advanced risk management and strategy plugins
+2026-10-06T02:58:00Z,ci-sandbox-harness-timhaines,0.0.1791254912,,MIT,2636,Build harness fixture. Not a real library.
+2026-10-06T02:58:48Z,maverick-harness,5.0.0,,,345096,Claude Code plugin that enables autonomous AI development while maintaining best practices
+2026-10-06T03:00:35Z,nexus-diff,0.2.0,fate-9x,GPL-3.0-only,165809,Revisa en lenguaje natural lo que cambió en un repositorio git (y lo que la IA dice que hizo).
+2026-10-06T03:02:38Z,localportal-cli,0.1.0,Adem Kouki,MIT,33232,Mirror any website on 127.0.0.1 through a local reverse proxy.
+2026-10-06T03:03:53Z,pygf,0.1.0,王炳辉 <binghui.wang@foxmail.com>,MIT,160528,"Graphics math types for Python: vectors, matrices and quaternions on ctypes"
+2026-10-06T03:05:32Z,voxtools,0.2.2,Silas Renner (VoxHash),MIT,67240,"Cross-platform Swiss-army developer toolkit with CLI, TUI, GUI, and plugins"
+2026-10-06T03:06:24Z,easy-ml-imports-1791255968,0.1.1,Colab User,,3231,Hyper-short one-liner imports for ML and Neural Networks
+2026-10-06T03:07:35Z,easy-ml-importss,0.1.1,Colab User,,3058,Hyper-short one-liner imports for ML and Neural Networks
+2026-10-06T03:09:33Z,emliipy,0.1.1,Colab User,,2933,Hyper-short one-liner imports for ML and Neural Networks
+2026-10-06T03:10:00Z,langchain-geniffy,0.1.0,Geniffy <ops@geniffy.com>,MIT,21259,"Geniffy for LangChain: a memory of each of your users, for any LangChain agent. Middleware, tools and a retriever."
+2026-10-06T03:11:42Z,vigil-tracker,0.1.0,Yared Tsegaye Gizaw <yaredtsegaye120@gmail.com>,MIT,22780,A minimal CLI tool for observing agents and workflows running in your tmux panes.
+2026-10-06T03:12:30Z,llama-index-memory-geniffy,0.1.0,Geniffy <ops@geniffy.com>,MIT,18132,"Geniffy for LlamaIndex: a memory of each of your users, for any LlamaIndex agent. A memory block and tools."
+2026-10-06T03:12:32Z,openai-agents-geniffy,0.1.0,Geniffy <ops@geniffy.com>,MIT,21004,"Geniffy for the OpenAI Agents SDK: a memory of each of your users, for any agent. Memory in the instructions, and tools."
+2026-10-06T03:16:20Z,dsh-openai-shim-extended,0.2.7,dive4dec,MIT,76685,Zero-dependency OpenAI-compatible proxy that adapts DeepSeek Harness (dsh) to any OpenAI-compatible endpoint (Socrates/LiteLLM/sglang/vLLM)
+2026-10-06T03:17:18Z,swan-aisql,0.1.0,Fuheng Zhao,MIT,77762870,"SWAN AI-SQL: semantic SQL (ai_filter, ai_classify, ai_score, ai_complete, ai_agg, ai_embed) as a DuckDB extension with the two-currency optimizer"
