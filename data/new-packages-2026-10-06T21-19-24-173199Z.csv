@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T20:18:42Z,ng-address,0.1.0,Kayode Adeniyi,MIT,3922,"Alias for ng-address-resolver, which resolves Nigerian addresses to NIPOST digital postcodes."
+2026-10-06T20:18:44Z,ng-postcode-js,0.1.0,Kayode Adeniyi,MIT,4065,Alias for ng-postcode on PyPI. The JavaScript library of this name is on npm.
+2026-10-06T20:21:13Z,ophix-auth-oidc,2026.10.4.1,Ophix Project,MIT,20109,OpenID Connect / Azure AD authentication plugin for Ophix Project Servers
+2026-10-06T20:22:02Z,ophix-auth-ldap,2026.10.4.1,Ophix Project,MIT,14705,LDAP / Active Directory authentication plugin for Ophix Project Servers
+2026-10-06T20:22:51Z,ophix-dbengine-cockroachdb,2026.10.4.1,Ophix Project,MIT,7613,CockroachDB database driver plugin for Ophix Project Servers
+2026-10-06T20:23:13Z,dference,0.1.0,Thomas Oberbichler <thomas.oberbichler@gmail.com>,ISC,115221,Compare two DataFrames by key and explore the differences in an interactive widget for marimo and Jupyter.
+2026-10-06T20:23:35Z,ophix-dbengine-mssql,2026.10.4.1,Ophix Project,MIT,8830,SQL Server database driver plugin for Ophix Project Servers
+2026-10-06T20:24:00Z,pgsesame,0.1.1,almostly,Apache-2.0,547348,Permissions as code for PostgreSQL and Amazon Redshift.
+2026-10-06T20:28:59Z,measly,0.1.0,Remi Tregan <tregan.remi@gmail.com>,MIT,170265,"Estimate whether a model is data-limited, and whether more capacity would pay off."
+2026-10-06T20:29:34Z,as-mcp-server,0.1.0,OpenVPN Inc,MIT,78312,Local MCP server that lets AI agents monitor an OpenVPN Access Server through its Web API (read-only)
+2026-10-06T20:30:06Z,hackbou-push-notification,0.1.0,hackbou <hackbou@users.noreply.github.com>,Apache-2.0,22361,Client Python / Django pour l'API Push Notification
+2026-10-06T20:31:19Z,meteroid,0.27.0,Meteroid <hey@meteroid.com>,Apache-2.0,384102,Meteroid API client
+2026-10-06T20:31:51Z,goodrecmovies,0.1.0,goodrecmovies <hello@goodrecmovies.com>,MIT,9645,"Official client for the goodrecmovies API — every movie above 7.0, ranked by math, not vibes. Ranked lists, title lookup, search, and NLWeb /ask."
+2026-10-06T20:31:52Z,manifold-ai,2.0.1,,Apache-2.0,28236455,"Manifold: nodes publish one value each; agents read it as text, people see it as a picture; your machines share it."
+2026-10-06T20:32:48Z,mocai,0.0.1,Mocai <info@mocai.ai>,MIT,2449,Mocai: turn ordinary video into production-ready motion capture. CLI and MCP server coming soon.
+2026-10-06T20:33:05Z,hons,0.1.0,"""Russell J. Funk"" <rfunk@umn.edu>",MIT,1070888,Select network thresholds using persistent homology.
+2026-10-06T20:33:09Z,relaygpu-client,0.1.0,OpenGPU Network,MIT,186113,"Python client for the Relay API: image, video and audio generation, tasks, files, webhooks, workflows and typed errors."
+2026-10-06T20:34:43Z,forge-publish,2.3.0,,Apache-2.0,72960,CLI for publishing packages to Forgejo package registries
+2026-10-06T20:36:26Z,secrethider,0.1.0,,MIT,9244931,"Fast string and JSON processing backed by a C++ core (simdjson, simdutf)"
+2026-10-06T20:36:56Z,firebreak,0.0.0,,BSD-2-Clause,3463,Change the firmware on an Echo Dot (2nd Generation) over USB. Placeholder release.
+2026-10-06T20:38:57Z,cubievis,0.0.1,Chris Cameron,MIT,130669,Data visualisation and integrator GUI for Cubie
+2026-10-06T20:39:34Z,danyblitz-site-auditor,1.0.0,Danilo Fortunato,MIT,16460,"Lightweight website health checker: SEO, performance and broken links from your terminal."
+2026-10-06T20:39:38Z,seogeo,0.2.0,Muhsin (mujo5),MIT,339874,SEO ve GEO (Generative Engine Optimization) denetim aracı
+2026-10-06T20:40:17Z,kkhay,1.0.0,K Khay <dev@kkhay.com>,MIT,17126,Official Python SDK for K Khay Sovereign Crypto Payment Gateway
+2026-10-06T20:41:11Z,framejs,0.4.0,,MIT,19749,Embed framejs frames as interactive widgets in Jupyter and marimo notebooks
+2026-10-06T20:46:45Z,pdf-metaclean,1.0.1,Danilo Fortunato,MIT,9930,"Strip hidden metadata (author, producer, XMP) from PDFs before sharing — byte-level, no re-encoding."
+2026-10-06T20:46:56Z,photo-metaclean,1.1.0,Danilo Fortunato,MIT,18328,"Remove hidden EXIF/GPS metadata from JPEG/PNG at the byte level — no re-encoding, no quality loss."
+2026-10-06T20:47:04Z,nishanttyagi-agenttrust,0.1.0,Nishant Tyagi,MIT,57781,"Thin evidence chain across policy, sealed effect, witness, and CI regression."
+2026-10-06T20:47:07Z,issue-gate,1.0.0,Danilo Fortunato,MIT,18125,GitHub issue forms that require a reproduction — stop low-effort issues at the door.
+2026-10-06T20:47:21Z,Flask-Node,0.1.0,,MIT,24519,Isolated Node/npm infrastructure for Flask extensions
+2026-10-06T20:47:25Z,kod8-cli,0.2.0,,,16674,KOD8 Command Line Interface for local testing
+2026-10-06T20:47:56Z,px-idle,0.1.0,,LicenseRef-PxIdle-Local-Use,117734,Offline keyword-driven practical-code expansion for Python IDLE Editors
+2026-10-06T20:50:13Z,maybempi,0.1.0,Max,"MIT License Copyright (c) 2026 Max Lindqvist Permission is hereby granted, free of charge, to any p…",46672,"Use MPI only when launched under MPI, and a serial stand-in for mpi4py otherwise."
+2026-10-06T20:50:49Z,tarmac-cli,0.1.4,Nicholas Christian <nicholasdchristian@gmail.com>,Apache-2.0,281962,Enterprise AWS Governance & Multi-Account Landing Zone CLI
+2026-10-06T20:50:49Z,trawl-api,0.1.1,trawl,MIT,30643,"Python eBay scraper API: sold listings, prices and item details from eBay as JSON"
+2026-10-06T20:53:42Z,pros-sketch,0.1.0,Lei Li,"MIT License Copyright (c) 2026 Lei Li Permission is hereby granted, free of charge, to any person o…",125528,Partitioned and Refined Oversampling Sketches for certified geometric sketching.
+2026-10-06T20:56:02Z,scholaris-sdk,2.0.0,José Luis Saorín Ferrer <jl@joseluissaorin.com>,EUPL-1.2,311555,Cliente de Python para Scholaris: API de citas con página verificada y lector de SPDF 4.0 sin conexión
+2026-10-06T20:56:03Z,pylint-cognitive-complexity,0.1.1,Daniel Gutson,MIT,10501,Pylint plugin that reports functions with high cognitive complexity
+2026-10-06T20:56:04Z,SCRYiNG-2D,1.1.1,"""Andrew L. Hitt"" <andrew@andrew.us>",MIT,38228,A lightweight package for 2D crystal growth simulation
+2026-10-06T21:00:02Z,tagsort,0.1.0,Barry Lawson,Apache-2.0,567770,"Open-source engine that reads handwritten or printed specimen ID tags in photos, in any orientation. Returns tag text, position, angle and a calibrated confidence score. Lightweight ONNX core, versio…"
+2026-10-06T21:00:36Z,calcutils-derfeb,0.1.0,Derick <bugingoderfeb@gmail.com>,,3731,A simple student tutorial math utility package
+2026-10-06T21:01:24Z,tallia,0.1.0,,MIT,31027,Python SDK for the Tallia API
+2026-10-06T21:04:19Z,mujodico,3.15.0,Wei-Chen Li <williamrob104@gmail.com>,Apache-2.0,13557374,MuJoDiCo
+2026-10-06T21:07:22Z,npm-status,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,16301,Report packages and versions published in an npm organization.
+2026-10-06T21:07:49Z,pipe-ping,0.1.0,Edward Emmett <edemms12@gmail.com>,MIT,152564,"A pluggable CI/CD monitor that notifies you when pipelines succeed, fail or are cancelled"
+2026-10-06T21:07:56Z,pypi-status,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,19356,Report projects and releases published by a PyPI organization or user.
+2026-10-06T21:09:48Z,masterid,0.0.1,MasterID,Apache-2.0,10019,MasterID — name reserved; the package will be published here.
+2026-10-06T21:09:51Z,masterid-verifier,0.0.1,MasterID,Apache-2.0,10142,MasterID — name reserved; the package will be published here.
+2026-10-06T21:11:02Z,vividRGB,0.1.0,Masahiro Ryo,MIT,68941,"Discover dense visual cues with forced focused attention, PCA and regularized clustering"
+2026-10-06T21:11:27Z,expt-rse,0.1.0,Alan Geirnaert <pro.geirnaert.alan@gmail.com>,MIT,27392,Add your description here
+2026-10-06T21:13:29Z,tenzan-nfe-python-sdk,2.0.0,Tenzan Labs,ISC,98930,"SDK Python para integração com a API pública do saas-core (NF-e, NFC-e, CT-e, MDF-e, NFCom, DC-e, NFS-e)"
+2026-10-06T21:14:04Z,tensioner,0.0.0,,,1190,
+2026-10-06T21:17:00Z,strata-plf,2026.10.6,Strata Authors,MIT,12733689,"Fast JSON for Python: parsing, serialization and JSONPath querying on a dependency-free C++20 engine"
+2026-10-06T21:19:17Z,tensioners,0.0.0,,,1202,
