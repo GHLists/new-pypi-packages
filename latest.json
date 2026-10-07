@@ -1,43 +1,43 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-10-07T17:20:52.87145Z",
-    "path": "data/new-packages-2026-10-07T18-18-34-764837Z.csv",
-    "to": "2026-10-07T18:18:34.764837Z"
+    "count": 36,
+    "from": "2026-10-07T18:18:34.764837Z",
+    "path": "data/new-packages-2026-10-07T19-18-36-820519Z.csv",
+    "to": "2026-10-07T19:18:36.820519Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-07T18:13:59Z",
       "package": "bartorch-cuda12",
       "since": "2026-10-07T17:20:52.87145Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-07T16:40:19Z",
       "package": "bioimageflow-phasor-tools",
       "since": "2026-10-07T16:18:54.010514Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-07T19:07:23Z",
+      "package": "litellm-core",
+      "since": "2026-10-07T18:18:34.764837Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-07T16:24:04Z",
       "package": "pdf-redaction",
       "since": "2026-10-07T16:18:54.010514Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-07T14:43:21Z",
-      "package": "prism-hdl",
-      "since": "2026-10-07T14:19:35.298163Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-07T16:24:36Z",
       "package": "redact-pdf-cli",
       "since": "2026-10-07T16:18:54.010514Z"
     }
   ],
-  "serial": 41937735,
+  "serial": 41939888,
   "source_truncated": false,
-  "window": "2026-10-07T18:18:34.764837Z"
+  "window": "2026-10-07T19:18:36.820519Z"
 }

@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T18:19:50Z,google-analytics-mcp-server,0.1.0,Jinchao Liu,MIT,362062,A stdio MCP server for Google Analytics with full coverage of the Admin and Data APIs.
+2026-10-07T18:30:07Z,sel2pw-scan,0.2.0,Shan Konduru,MIT,31746,Offline inventory of Selenium Java test projects for a Playwright migration assessment
+2026-10-07T18:30:26Z,awsuite,0.1.0,,Apache-2.0,129880,"Let an agent use a Google Workspace -- Gmail, Drive, Calendar, Docs, Sheets, Directory -- from a CLI, an MCP server, an agent toolpack and skills, with every write gated behind an explicit confirm."
+2026-10-07T18:36:36Z,golded-ftn-tools,1.0.2,,MIT,61756,FTN message bases and text filters from the command line
+2026-10-07T18:38:18Z,miniformat,0.1.0,,MIT,60898,"A tiny, strict config format with YAML syntax: any YAML parser can parse it, every scalar is a string. The loader is one vendorable file."
+2026-10-07T18:38:30Z,rowlint,0.1.0,Sodiq Gbadebo-Ogunmefun <goluwatobisodiq@gmail.com>,MIT,53545,"Lightweight, configurable data quality checks for pandas and CSV pipelines"
+2026-10-07T18:38:36Z,offline-snapshot,2.0.0,ALKASERAM,Apache-2.0,249123,"Capture, package and verify standalone offline HTML from the command line"
+2026-10-07T18:38:59Z,minutehand,0.0.1,Alknoma,FSL-1.1-ALv2,2839082,"Build your proactive agent yourself: simulated days, fake services, real findings."
+2026-10-07T18:39:54Z,flow-messaging,0.0.1,Flow Engineer,Apache-2.0,10648,"Messaging API for AI agents: WhatsApp, Telegram and iMessage through one HTTP API. Python SDK (coming soon)."
+2026-10-07T18:40:41Z,coldmol,0.3.0.dev1,Bart J. Schellenberg,,1144240,Molecule trajectory simulator.
+2026-10-07T18:41:25Z,quick-ternaries,1.5.0,"Ari Essunfeld, Reid Morris",MIT,1967188,A tool for making ternary diagrams and other scientific data visualizations
+2026-10-07T18:42:30Z,golded-ftn-mcp,1.0.2,,MIT,66103,Local read-only MCP server for GoldED FTN message bases
+2026-10-07T18:42:35Z,granulosity,0.0.1,Alex Weinstein,,2374,Placeholder reserving the Granulosity name. No functionality yet.
+2026-10-07T18:45:43Z,aerospike-native,0.0.0.dev0,"""Aerospike, Inc."" <info@aerospike.com>",Apache-2.0,1394,Native (Rust) engine for the Aerospike Python SDK. Name reserved; first release coming soon.
+2026-10-07T18:46:14Z,sedalib,0.1.0,atasoglu <ahmetatasoglu98@gmail.com>,Apache-2.0,151575,"Lightweight, low-latency Turkish speech models for real-time applications"
+2026-10-07T18:46:26Z,rpa-arc-teck,0.2.0,Renan Silva,MIT,97137,"Arquitetura RPA para Selenium e APIs: etapas, rastreabilidade, exemplos e testes."
+2026-10-07T18:47:04Z,scbatch,0.1.0,Yishai Arieli <yishai.arieli@mail.huji.ac.il>,MIT,16103,End-to-end single-cell data preprocessing and batch correction package
+2026-10-07T18:48:39Z,temporalio-google-adk,0.0.1,Temporal Technologies Inc,MIT,60177,Temporal integration for google adk
+2026-10-07T18:49:52Z,django-permission-tracer,0.1.2,Pradeep <pradeep.chauhan43@gmail.com>,MIT,80812,Analyze and visualize permissions across your Django REST Framework app.
+2026-10-07T18:50:11Z,mock-einvoice,0.1.0,,MIT AND EUPL-1.2,5698692,"A mock e-invoicing partner: EN 16931 invoices in and out, with the responses that follow. Zero dependencies."
+2026-10-07T18:51:41Z,vz-apimatic-v-4-sdk,0.0.1,Muhammad Rafay,MIT,1363945,Sample SDKs for Verizon by APIMatic
+2026-10-07T18:52:41Z,pg-bloat-detective,0.1.3,r69shabh,MIT,34308,Read-only Postgres bloat detective: cheap timeline + blocker attribution + index bloat + before/after proof
+2026-10-07T18:53:49Z,mac-cleanup-cli,0.1.0,Christopher Queen,"MIT License Copyright (c) 2026 Christopher Queen Permission is hereby granted, free of charge, to a…",171144,"A macOS disk-space auditor that can delete: it measures developer cache locations, reports what they cost, and reclaims them through each vendor's own tool."
+2026-10-07T18:56:00Z,onemax,0.1.1,OneMax,MIT,75973,Python client for the OneMax partner API
+2026-10-07T18:57:21Z,aioopenpyxl,0.1.0,yamaaaaaa31,MIT,135606,"Asynchronous wrapper around openpyxl for asyncio and trio, built on anyio"
+2026-10-07T19:00:24Z,dbx-tools-node-runtime,0.9.54,,Apache-2.0,304597,Shared PythonMonkey runtime and lazy Node.js bootstrap
+2026-10-07T19:00:54Z,ffmeta,0.1.0,VERA LVX <veralvx@veralvx.com>,MIT OR Apache-2.0,115639,"Media metadata files -- ffmetadata, Vorbis comments, cue sheets -- read, written and converted through one model"
+2026-10-07T19:00:56Z,subverter,0.1.0,VERA LVX <veralvx@veralvx.com>,MIT OR Apache-2.0,39266,"Subtitle and transcript readers -- SubRip, WebVTT, LRC, CSV, TSV, whisper's JSON -- into one model"
+2026-10-07T19:00:58Z,ffman,0.1.0,VERA LVX <veralvx@veralvx.com>,(MIT OR Apache-2.0) AND OFL-1.1,854032,"Opinionated media conversion on ffmpeg: resize, effects, subtitles"
+2026-10-07T19:03:03Z,diffcone,0.1.0,Bearing Research,MIT,446762,"Static-first, function-level change-impact engine for Python: which tests and benchmarks a change can affect, and why"
+2026-10-07T19:04:52Z,bitacora,1.0.0,Baltazar Andersson,MIT,122605,"Live dashboard for coding agents (Codex, Claude Code) working in the background."
+2026-10-07T19:06:24Z,loopgrid-haystack,0.1.0,LoopGrid,Apache-2.0,39700,"Signed, tamper-evident decision evidence for Haystack Agents using LoopGrid"
+2026-10-07T19:07:53Z,tradekart-backtester-data,0.1.0,Vikalp Varshney <vikalp@tradekart.gmail.com>,,13295,Daily NSE price data fetcher and storage for TradeKart's backtester
+2026-10-07T19:11:04Z,puffinparse,0.1.0,PuffinParse contributors,MIT,22788507,"One API for every OCR / document-parsing provider (Reducto, Extend, LlamaParse, ...). Rust core, Python SDK, open benchmark."
+2026-10-07T19:11:06Z,socials-daily,0.1.0,Bartlomiej Cieszkowski <bartlomiej.cieszkowski@gmail.com>,"MIT License Copyright (c) 2026 Bartlomiej Cieszkowski Permission is hereby granted, free of charge,…",32823,Multi-platform social media daily digest CLI
+2026-10-07T19:16:32Z,fluxyr,0.1.0,,MPL-2.0,1388160,A Flask-compatible framework for local agents with durable execution
