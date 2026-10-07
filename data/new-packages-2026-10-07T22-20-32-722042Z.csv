@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T21:19:39Z,sheetdelta,0.2.1,sqm,MIT,71526,"Diff Excel workbooks without Excel: formulas, values and dependency impact."
+2026-10-07T21:22:42Z,yoke-sdk,0.3.0,,Apache-2.0,13029,The Python libraries of Yoke
+2026-10-07T21:23:15Z,dictware,0.1.0,Venkatakrishnan Ganesh,MIT,15722,Ruby-inspired helpers for working with Python dicts
+2026-10-07T21:27:15Z,ribofootprinter,2.2.0,,CC0-1.0,73604,Tools for analysis of ribosome profiling and other RNA sequencing data
+2026-10-07T21:31:13Z,isomodal,0.0.1,,,1928,Placeholder package coming soon
+2026-10-07T21:34:23Z,benethos-mailbox-client,0.3.0,Benedikt Oswald,MIT,45349,"Python client of the REST API of mailbox-service: the mail of all your mailboxes (IMAP, JMAP, POP3, Microsoft 365, Outlook.com) through one API, async and sync."
+2026-10-07T21:35:03Z,pacote-processamento-de-imagem,0.0.1,jvombr,,2551,Processamento de imagem
+2026-10-07T21:36:36Z,temporalio-langgraph,0.1.0,Temporal Technologies Inc,MIT,37790,Temporal integration for langgraph
+2026-10-07T21:37:28Z,hunter-rag,0.4.0b1,Arc Intelligence <contact@arcintelligence.ai>,LicenseRef-Arc-Source-Available-1.0,27737328,"Agentic retrieval, the way a coding agent works a codebase — typed, addressable CDUs + Hunter, the agent that navigates them."
+2026-10-07T21:43:30Z,edgelens,0.1.0,EdgeLens contributors,MIT,397904,"Measure, diagnose and validate AI pipelines on edge devices: stage-level latency, tail and deadlines, power and energy, evidence-based diagnosis. Deep NVIDIA Jetson support."
+2026-10-07T21:46:10Z,willuri,0.1.0,Tom Sapletta <tom@sapletta.com>,Proprietary,30152,Natural language to specialized URI process router with domain-specific small LLMs
+2026-10-07T21:47:44Z,daytona-claude-toolsets,0.1.0,"""Daytona Platforms Inc."" <support@daytona.io>",Apache-2.0,123012,Daytona sandbox drivers for the Anthropic SDK's computer and browser toolsets
+2026-10-07T21:48:26Z,vitafit-ble,0.1.0,James Myatt,MIT,17109,Bluetooth library for Vitafit devices
+2026-10-07T21:49:40Z,massive-workflows,0.1.0,Rohit Jayaram,MIT,36251656,Typed Python workflows that run locally or on Argo Workflows
+2026-10-07T21:52:34Z,value-stream,0.1.1,Brian Vetter <bvetter@gmail.com>,MIT,4272039,Stop value leaks in your software delivery pipeline.
+2026-10-07T21:52:54Z,loopview,0.1.0,YasmineZerai,Apache-2.0,2891544,"Watch your AI agents run as a live graph, from any OpenTelemetry trace."
+2026-10-07T21:52:55Z,loopview-sdk,0.2.0,YasmineZerai,Apache-2.0,17033,"Connect any agent to loopview in one call, and see steps the moment they start."
+2026-10-07T21:52:59Z,aggregate_api,1.0.0,"""Stephen J. Mildenhall"" <steve@convexrisk.com>",BSD-3-Clause,6557016,aggregate Loss Lab (aLL): FastAPI service and single-page web app for the aggregate actuarial library.
+2026-10-07T21:53:33Z,haltseal-payments,0.2.0rc2,,MIT,15596,HALTSEAL payment API client for local evaluation
+2026-10-07T21:54:51Z,gorkha,0.0.1,Angshuman Deb <angshuman311@gmail.com>,MIT,75752,GORKHA: Graph-based Operational Reconnaissance Kit for Human-in-the-loop Assessment. Post-earthquake damage estimation and survey planning from sparse field surveys.
+2026-10-07T21:55:41Z,portfolio-package,0.1.0,puzzllium <puzzllium@gmail.com>,MIT,35816,"Portfolio site package for the Core boilerplate (projects, skills, education, certifications, services, social links). Depends on core-package for auth, RBAC, and the shared User model — it does not…"
+2026-10-07T21:58:04Z,yt-stash,1.0.0,Ilker Keklik <ilkerkeklik50@gmail.com>,MIT,183289,"Download YouTube videos and playlists from the terminal: pick any quality, run downloads in parallel, and save members-only videos."
+2026-10-07T21:58:58Z,pgfire,0.0.2,Leon Koech,MIT,2354,A lightweight Firestore-to-PostgreSQL JSONB developer experience migration bridge.
+2026-10-07T22:01:09Z,stwrd-auth,0.1.0,stwrd,MIT,208022,"Python SDK for stwrd: OpenID Connect sign-in, server-side sessions, FastAPI integration and webhook verification"
+2026-10-07T22:01:45Z,cvode4py,0.1.0,,,38155,A CVODE wrapper for Python with a similar API to scikits-odes but backed by sundials4py
+2026-10-07T22:05:27Z,aer1-langchain,0.1.0,Brennan Zambo,,48971,"One-line verifiable execution receipts for LangChain agents. Free, no API key, offline verification, chain-head anchoring to Nostr and Bitcoin."
+2026-10-07T22:05:40Z,epub-tr,1.1.0,Cuma Bozkurt,MIT,97494,"Literary-quality EPUB translator focused on Turkish, with free engines (OpenCode, Google, Argos, Ollama, ...)"
+2026-10-07T22:07:53Z,aer1-strands,0.1.0,Brennan Zambo,,50896,"One-line verifiable execution receipts for Strands Agents. Free, no API key, offline verification, chain-head anchoring to Nostr and Bitcoin."
+2026-10-07T22:16:33Z,capsize-api,0.1.0,,,3439,Versioned FastAPI conventions for Capsize services.
+2026-10-07T22:20:15Z,feagi-bv-linux-arm64,2.6.6,"""Neuraville Inc."" <feagi@neuraville.com>",Apache-2.0,69415081,Brain Visualizer binaries for Linux ARM64 (part of feagi-bv)

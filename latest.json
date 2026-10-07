@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-10-07T20:18:44.99411Z",
-    "path": "data/new-packages-2026-10-07T21-18-54-089737Z.csv",
-    "to": "2026-10-07T21:18:54.089737Z"
+    "count": 30,
+    "from": "2026-10-07T21:18:54.089737Z",
+    "path": "data/new-packages-2026-10-07T22-20-32-722042Z.csv",
+    "to": "2026-10-07T22:20:32.722042Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-07T19:07:23Z",
       "package": "litellm-core",
       "since": "2026-10-07T18:18:34.764837Z"
     }
   ],
-  "serial": 41943917,
+  "serial": 41945755,
   "source_truncated": false,
-  "window": "2026-10-07T21:18:54.089737Z"
+  "window": "2026-10-07T22:20:32.722042Z"
 }
