@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T15:19:35Z,polylens-bilibili-mcp,0.2.2,liu-xindi,Apache-2.0,218238,"读取 B 站视频、评论、弹幕、字幕等公开信息的 MCP 服务，支持用 jq 在返回前筛选和裁剪结果。MCP server for reading Bilibili videos, comments, danmaku and subtitles, with jq filtering to keep responses small."
+2026-10-07T15:23:35Z,model-serving-minefield,0.2.1,Blackwellboy,MIT,715415,Read-only diagnostics for model-serving failures
+2026-10-07T15:24:55Z,deepscenic,0.1.0,Gabriele Partel <gabriele.partel@kuleuven.be>,,1385501,Deep learning for single-cell Gene Regulatory Networks
+2026-10-07T15:27:45Z,bloksar,0.1.0,lokkiDEV,MIT,83054,JSON tarif ile web scraper framework
+2026-10-07T15:33:55Z,pybrace,0.1.1,yyszh01,MIT,30789,Write Python with braces and semicolons; .pyj files run transparently and tracebacks point back to the source
+2026-10-07T15:37:20Z,onearray,0.1.0a1,,MIT,56793,Backend-agnostic array utilities for NumPy and PyTorch.
+2026-10-07T15:40:39Z,astrl,0.0.1.post1,"Huanan Herman Zhao, Mingyang Li, Zhanpeng Shi",,3624,ASTRL is an unpublished research program. Please wait for updates.
+2026-10-07T15:43:40Z,dualmemory,0.0.1,CyberSmart02,MIT,3671,"Episodic + semantic memory layer for LLM agents, with provenance and validity windows"
+2026-10-07T15:44:04Z,deadgate,0.1.0,Erik Hill <contact@erikhill.dev>,MIT,63507,"Find CI checks that cannot fail: gates satisfied by skipped jobs, exit statuses swallowed by pipes, fan-ins that never read whether their upstream passed."
+2026-10-07T15:44:48Z,OpenFisca-Core-test,46.0.0,OpenFisca Team <contact@openfisca.org>,AGPL-3.0-or-later,616956,A versatile microsimulation free software
+2026-10-07T15:48:07Z,nummeth,0.1.1,Numerical Methods Lab,MIT,87093,"A practical, educational Numerical Methods library with iteration tables for laboratories and engineering."
+2026-10-07T15:48:48Z,mem2ctx,0.0.1,Fabio Sabatini,MIT,1778,Name reserved. Organizational memory / RAG context layer for AI coding agents — full release coming later.
+2026-10-07T15:49:18Z,mem4ai,0.0.1,Fabio Sabatini,MIT,1764,Name reserved. Organizational memory / RAG context layer for AI coding agents — full release coming later.
+2026-10-07T15:50:48Z,snapdoczilla-mcp,1.0.0,Julio Varas Contreras <jvarascontreras@gmail.com>,MIT,53254,"MCP server for SnapDoczilla: offline docs-as-code (MkDocs + Mermaid) for any backend and frontend, written by your AI agent."
+2026-10-07T15:51:46Z,unicode-logic-kit,0.31.0,Felix Vossel <fvossel@uos.de>,MIT,5019660,"Parse, translate, prove and model-check logic formulas in Unicode notation: first-order, modal, description and higher-order logic, one API over a dozen provers, and an MCP server"
+2026-10-07T15:54:49Z,kestrel-popgen,0.1.0,,,557116,
+2026-10-07T15:54:55Z,nse-xbrl-parser,0.1.0,innerkorehq,,53943,Async Python 3.14 library for parsing XBRL Filing Information of NSE & BSE across all taxonomies
+2026-10-07T15:56:36Z,proofrag-ai,0.1.1,Mainak Sen,,62437,Evidence-backed RAG with verified citations and refusal on insufficient evidence.
+2026-10-07T15:57:48Z,litewriter,0.1.0,Adam Bobowski <adam.bobowski@wratilabs.com>,MIT,88531,One SQLite writer thread and a query builder.
+2026-10-07T15:58:23Z,elli-2-modbus,0.1.0,Frane Bandov,MIT,31627,"Local Modbus TCP control of Elli Charger 2 wallboxes (VW ID. Charger 2, Škoda, CUPRA)"
+2026-10-07T15:58:38Z,reposhowcase,0.1.0,RepoShowcase contributors,MIT,24549,Evidence-based showcases for multi-language software repositories.
+2026-10-07T16:00:02Z,ledgence-worker,0.4.1,Ledgence <dev@ledgence.com>,MIT,94803,Dependency-free Python authoring helpers for Ledgence tasks and checkpoint workflows
+2026-10-07T16:00:35Z,msmf,0.1.0,Blackwellboy,MIT,3830,Thin alias that depends on model-serving-minefield and exposes the same CLIs
+2026-10-07T16:04:09Z,youeduc-sdk-messaging,0.4.0,YouEduc,MIT,251736,SDK de mensageria assíncrona orientada a eventos sobre Apache Kafka (aiokafka)
+2026-10-07T16:05:27Z,ckanext-actor-registry,0.3.0,Bjorn Hagstrom,MIT,468258,Reusable actors and contact points for CKAN metadata
+2026-10-07T16:07:10Z,accordsync-core,0.3.0,,Apache-2.0,50738,"Accord's merge core: hybrid logical clocks, operations, lww, counter, set and conflict."
+2026-10-07T16:08:28Z,qtool-py,0.2.0,xncz <xncz@outlook.com>,,1932279,Python bindings for qtool: superconducting-qubit calibration fits and interactive plotly reports.
+2026-10-07T16:09:09Z,accordsync,0.3.0,,Apache-2.0,45730,"The Accord client for Python: local-first writes, background sync, conflicts and refusals."
+2026-10-07T16:09:51Z,accordsync-server,0.3.0,,Apache-2.0,62920,"The Accord sync server for Python on PostgreSQL, framework-agnostic."
+2026-10-07T16:11:03Z,accordsync-fastapi,0.3.0,,Apache-2.0,19167,"Accord sync server for FastAPI: router, settings and CLI."
+2026-10-07T16:11:44Z,accordsync-django,0.3.0,,Apache-2.0,22839,"Accord sync server for Django: app, URLs and management commands."
+2026-10-07T16:13:23Z,wrenchroom,0.1.0,Kevin O'Neil <kevin@oneil.xyz>,Apache-2.0 AND MIT,953993,"Checks that a real hand tool can reach, turn and remove every fastener in a mechanical assembly."
+2026-10-07T16:15:58Z,shapewitness,0.1.0,ShapeWitness contributors,MIT,68408,"Small, explainable JSONL fixtures that witness observed structural features."
+2026-10-07T16:18:10Z,barem,1.0.0,Merab,MIT,535928,"Real-world, copy-paste-ready examples for Linux commands, right in your terminal"
