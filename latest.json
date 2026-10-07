@@ -1,31 +1,25 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-10-07T01:18:55.945306Z",
-    "path": "data/new-packages-2026-10-07T02-19-03-726221Z.csv",
-    "to": "2026-10-07T02:19:03.726221Z"
+    "count": 31,
+    "from": "2026-10-07T02:19:03.726221Z",
+    "path": "data/new-packages-2026-10-07T03-19-38-41295Z.csv",
+    "to": "2026-10-07T03:19:38.41295Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-06T22:30:27Z",
-      "package": "everesteer-api",
-      "since": "2026-10-06T22:18:40.250185Z"
+      "attempts": 1,
+      "created_at": "2026-10-07T02:59:01Z",
+      "package": "motedb",
+      "since": "2026-10-07T02:19:03.726221Z"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-10-07T02:19:03Z",
-      "package": "pdfthumb",
-      "since": "2026-10-07T01:18:55.945306Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-07T01:37:52Z",
       "package": "vizi",
       "since": "2026-10-07T01:18:55.945306Z"
     }
   ],
-  "serial": 41906303,
+  "serial": 41907680,
   "source_truncated": false,
-  "window": "2026-10-07T02:19:03.726221Z"
+  "window": "2026-10-07T03:19:38.41295Z"
 }

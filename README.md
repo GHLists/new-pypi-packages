@@ -8,37 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 02:19 UTC
+## Latest list — 2026-10-07 03:19 UTC
 
-New packages created between 2026-10-07 01:18 UTC and 2026-10-07 02:19 UTC.
+New packages created between 2026-10-07 02:19 UTC and 2026-10-07 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-07T02-19-03-726221Z.csv)
+[Full CSV](data/new-packages-2026-10-07T03-19-38-41295Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-07 01:23:54 | [tagtruth](https://pypi.org/project/tagtruth/) | 0.1.0 | Hao Li | 31.8 kB | Check that a PyPI package's published versions actually have matching Git tags |
-| 2026-10-07 01:24:01 | [wheelreach](https://pypi.org/project/wheelreach/) | 0.1.0 | Hao Li | 30.5 kB | Check that a package's declared Python support actually has installable release… |
-| 2026-10-07 01:24:04 | [entryprobe](https://pypi.org/project/entryprobe/) | 0.1.1 | Hao Li | 36.1 kB | Verify that a package's console_scripts entry points can actually start after i… |
-| 2026-10-07 01:24:08 | [licenseproof](https://pypi.org/project/licenseproof/) | 0.1.1 | Hao Li | 24.5 kB | Check that a published Python artifact carries usable license information |
-| 2026-10-07 01:26:18 | [tanvo](https://pypi.org/project/tanvo/) | 0.1.0 | Tanvo <support@tanvo.ai> | 29.5 kB | Python client for Tanvo: AI images, video and songs on Nano Banana, Seedream, G… |
-| 2026-10-07 01:29:11 | [pypebbling](https://pypi.org/project/pypebbling/) | 0.1.1 | Eric Lee | 29.9 kB | Exact pebbling reachability and solvability on graphs, with replayable move cer… |
-| 2026-10-07 01:33:10 | [qversus](https://pypi.org/project/qversus/) | 0.1.0 | Felipe Santibanez-Leal | 160.2 kB | Canonical quantum-computing problems solved by real frameworks (Qiskit, PennyLa… |
-| 2026-10-07 01:33:15 | [tailorbirdcv](https://pypi.org/project/tailorbirdcv/) | 0.2.0 |  | 6.1 MB | Tailor your resume to a job description without inventing anything — a local we… |
-| 2026-10-07 01:37:22 | [micki](https://pypi.org/project/micki/) | 2.0.1 | Eric D. Hermes, Aurora N. Jan… | 72.9 kB | A modular, extensible, object-oriented microkinetic modeling package |
-| 2026-10-07 01:39:59 | [exege-core](https://pypi.org/project/exege-core/) | 0.6.0 | E3SM AI Group | 346.2 kB | Tools for understanding and evaluating scientific machine-learning models: the… |
-| 2026-10-07 01:40:24 | [exege](https://pypi.org/project/exege/) | 0.6.0 | E3SM AI Group | 3.6 kB | Tools for understanding and evaluating scientific machine-learning models: late… |
-| 2026-10-07 01:45:05 | [rulestamp-cloud-cost-landmine-lint](https://pypi.org/project/rulestamp-cloud-cost-landmine-lint/) | 0.1.8 | Rulestamp <support@getreadyst… | 32.7 kB | Names every line in the file you have open that starts a recurring cloud charge… |
-| 2026-10-07 01:45:23 | [rulestamp-datenschutz-auskunft-lint](https://pypi.org/project/rulestamp-datenschutz-auskunft-lint/) | 1.0.4 | Rulestamp <support@getreadyst… | 34.2 kB | 15 Prüfungen für Auskunftsschreiben nach Art. 15 DSGVO – samt Monatsfrist ab Ei… |
-| 2026-10-07 01:45:40 | [rulestamp-dividenden-quellensteuer-lint](https://pypi.org/project/rulestamp-dividenden-quellensteuer-lint/) | 1.0.3 | Rulestamp <support@getreadyst… | 36.7 kB | Ausländische Dividenden versteuern ohne Überhang: Die Beispiel CSV mit 10 Divid… |
-| 2026-10-07 01:45:57 | [rulestamp-dora-ict-contract-clause-lint](https://pypi.org/project/rulestamp-dora-ict-contract-clause-lint/) | 1.0.8 | Rulestamp <support@getreadyst… | 33.8 kB | Twenty-two checks over the ICT vendor contracts in your repository - every miss… |
-| 2026-10-07 01:46:18 | [lotuspod](https://pypi.org/project/lotuspod/) | 0.1.0 |  | 542.1 kB | Lotuspod: publish pages people comment on, with decision forms and agents that… |
-| 2026-10-07 01:50:03 | [cisco-interface-health](https://pypi.org/project/cisco-interface-health/) | 0.1.0 | Arkadiy Ayrapetov | 11.9 kB | Offline triage of Cisco IOS / IOS-XE show interfaces output: CRC, duplex mismat… |
-| 2026-10-07 01:54:48 | [solvephase](https://pypi.org/project/solvephase/) | 0.1.0 | Jacob Taylor <jacobataylor7@g… | 1.3 MB | Fast, GPU-optional phase retrieval for adaptive optics, optical metrology and c… |
-| 2026-10-07 01:55:11 | [findfmt](https://pypi.org/project/findfmt/) | 0.1.0 | Brandon Perkins <bdperkin@gma… | 72.0 kB | A.gitignore-aware file discovery and classification suite that locates files by… |
-| 2026-10-07 01:56:55 | [pubship](https://pypi.org/project/pubship/) | 0.24.0 |  | 1.3 MB | Open-source MCP server for Google Play developer workflows. Runs locally with y… |
-| 2026-10-07 01:57:04 | [agents-inc](https://pypi.org/project/agents-inc/) | 0.2.0 | Dominik Mattioli | 349.7 kB | Governed multi-agent dispatch and verification layer |
-| 2026-10-07 01:59:37 | [packmol-util](https://pypi.org/project/packmol-util/) | 0.2.4 | Kengo NAKADA <kengo.nakada@em… | 51.4 kB | using packmol |
-| 2026-10-07 02:04:19 | [tallyho](https://pypi.org/project/tallyho/) | 0.0.1 | 0cherednoq | 1.1 MB | Batch accounting, dynamic fan-out and stage pipelines on top of any task broker… |
-| 2026-10-07 02:07:25 | [wjx-filler](https://pypi.org/project/wjx-filler/) | 1.0.0 | wjx-filler contributors | 43.9 kB | 问卷星自动填写工具：通过 OpenAI 兼容协议请求 AI 获取答案并自动提交 |
-| 2026-10-07 02:11:52 | [cisco-config-drift](https://pypi.org/project/cisco-config-drift/) | 0.1.0 | Arkadiy Ayrapetov | 12.0 kB | Read-only configuration drift detection for Cisco IOS / IOS-XE |
-| 2026-10-07 02:12:02 | [ios-hardening-audit](https://pypi.org/project/ios-hardening-audit/) | 0.1.0 | Arkadiy Ayrapetov | 14.0 kB | Offline security hardening audit of Cisco IOS / IOS-XE running-configs |
+| 2026-10-06 22:30:27 | [everesteer-api](https://pypi.org/project/everesteer-api/) | 0.4.1 | Everesteer <support@everestee… | 260.6 kB | Python SDK and MCP server for the Everesteer prediction tournament platform |
+| 2026-10-07 02:19:03 | [pdfthumb](https://pypi.org/project/pdfthumb/) | 0.1.2 |  | 21.9 kB | Generate WebP thumbnails from PDF files |
+| 2026-10-07 02:19:54 | [rmc-util](https://pypi.org/project/rmc-util/) | 0.6.13 | Kengo NAKADA <kengo.nakada@em… | 207.5 kB | rmc_dft is a Python package for performing Reverse Monte Carlo modeling and ab… |
+| 2026-10-07 02:19:59 | [pytomato](https://pypi.org/project/pytomato/) | 0.4.3 |  | 95.0 kB | Topological Mode Analysis Tool for fast, persistent, density-based clustering. |
+| 2026-10-07 02:21:08 | [dense-arrays](https://pypi.org/project/dense-arrays/) | 0.2.0 | Virgile Andreani <andreani@bu… | 293.3 kB | A library to create densely packed DNA arrays from motifs |
+| 2026-10-07 02:22:19 | [browser-pool](https://pypi.org/project/browser-pool/) | 0.1.0a1 |  | 730.4 kB | Оркестрация пула браузеров: контексты аккаунтов, сессии, прокси, жизненный цикл… |
+| 2026-10-07 02:23:18 | [fontpkg-indie-flower](https://pypi.org/project/fontpkg-indie-flower/) | 2.0 |  | 61.5 kB | Indie Flower font family, packaged for Python by fontpkg |
+| 2026-10-07 02:23:20 | [fontpkg-shadows-into-light](https://pypi.org/project/fontpkg-shadows-into-light/) | 1.0 |  | 35.7 kB | Shadows Into Light font family, packaged for Python by fontpkg |
+| 2026-10-07 02:23:22 | [fontpkg-crimson-pro](https://pypi.org/project/fontpkg-crimson-pro/) | 1.3 |  | 228.4 kB | Crimson Pro font family, packaged for Python by fontpkg |
+| 2026-10-07 02:23:24 | [fontpkg-spectral](https://pypi.org/project/fontpkg-spectral/) | 2.5 |  | 1.7 MB | Spectral font family, packaged for Python by fontpkg |
+| 2026-10-07 02:23:50 | [reader-workbench](https://pypi.org/project/reader-workbench/) | 1.0.0 | Eric J. South | 938.1 kB | Validated, traceable analysis workflows for experimental instrument data |
+| 2026-10-07 02:28:52 | [pii-lens](https://pypi.org/project/pii-lens/) | 0.1.0 |  | 22.1 kB | Highlight credit cards, emails, phone numbers, SSNs, and US bank numbers in log… |
+| 2026-10-07 02:33:49 | [llm-sizer](https://pypi.org/project/llm-sizer/) | 0.1.0 | saheb26 | 22.0 kB | LLM VRAM calculator and cheapest AWS GPU recommender for vLLM, DeepSeek-R1, Lla… |
+| 2026-10-07 02:34:45 | [zephon](https://pypi.org/project/zephon/) | 0.1.0 | Datology Team <zephon@datolog… | 3.2 MB | High-performance, modular, multimodal-first data loader |
+| 2026-10-07 02:37:54 | [surfia-pedagogia](https://pypi.org/project/surfia-pedagogia/) | 0.5.0 | SURF IA | 95.9 kB | Láminas visuales en español para comprender código Python y sus conceptos |
+| 2026-10-07 02:41:41 | [docpress](https://pypi.org/project/docpress/) | 1.3.0 | docpress contributors | 29.1 MB | DocBook CLI: create, validate, build, and publish documents with docbook-xslTNG |
+| 2026-10-07 02:46:44 | [pdf2context](https://pypi.org/project/pdf2context/) | 0.1.0 |  | 55.4 kB | Turn multiple PDFs into a merged, AI-ready context with page-level source prove… |
+| 2026-10-07 02:48:35 | [opendocrouter](https://pypi.org/project/opendocrouter/) | 1.0.0 | Open Doc Router <support@runl… | 315.7 kB | The official Python library for the open-doc-router API |
+| 2026-10-07 02:50:29 | [asl-mri-utils](https://pypi.org/project/asl-mri-utils/) | 0.6.0 | Sriranga Kashyap <srikashmri@… | 192.5 kB | Utilities for Siemens arterial spin labeling (ASL) DICOM volume-order analysis… |
+| 2026-10-07 02:50:55 | [prefect-aca-sessions](https://pypi.org/project/prefect-aca-sessions/) | 1.0.0 | Rafael Guimaraes Siqueira | 14.8 kB | Prefect worker that runs flow runs in Azure Container Apps dynamic sessions |
+| 2026-10-07 02:55:46 | [solcis](https://pypi.org/project/solcis/) | 0.0.0a0 | Solcis | 2.4 kB | Reserved for the official Solcis SDK. This release contains no code. |
+| 2026-10-07 02:55:47 | [solcis-sdk](https://pypi.org/project/solcis-sdk/) | 0.0.0a0 | Solcis | 2.4 kB | Reserved for the official Solcis SDK. This release contains no code. |
+| 2026-10-07 02:57:34 | [pcode](https://pypi.org/project/pcode/) | 0.1.0 | Aaron Weisberg | 1.3 MB | Terminal-native AI coding agent with background jobs, parallel worktrees, forka… |
+| 2026-10-07 03:03:08 | [roost-mcp](https://pypi.org/project/roost-mcp/) | 0.1.0 | Roost <developers@roostcapita… | 14.9 kB | Roost public MCP servers for AI agents: a payment pre-flight check (roost-corpu… |
+| 2026-10-07 03:04:45 | [okareo-vision](https://pypi.org/project/okareo-vision/) | 0.1.0 | Okareo <info@okareo.com> | 206.5 kB | Simulate a customer against an agent that lives behind a web UI, with Okareo |
+| 2026-10-07 03:08:43 | [readaloud](https://pypi.org/project/readaloud/) | 0.1.0 | Sushanth Tiruvaipati | 20.2 kB | Python client for the ReadAloud streaming text-to-speech API (WebSocket and HTT… |
+| 2026-10-07 03:12:16 | [bioio-emd](https://pypi.org/project/bioio-emd/) | 0.1.0.dev1 | ksiller <khsiller@gmail.com> | 38.8 kB | A BioIO plugin for reading and writing EMD images. |
+| 2026-10-07 03:12:30 | [campus-bag](https://pypi.org/project/campus-bag/) | 0.1.0 |  | 2.7 kB | 학교에 가져갈 공책과 펜을 챙기는 패키지 |
+| 2026-10-07 03:12:39 | [shamash-core](https://pypi.org/project/shamash-core/) | 2026.2.0 |  | 326.1 kB | A Toolbox for creating a physically modelled world for worldbuilding purposes,… |
+| 2026-10-07 03:13:02 | [apkbox](https://pypi.org/project/apkbox/) | 2.1.0 |  | 74.0 kB | APK 工具集: 转成可引入的 AAR, 或反编译出 .java(工具自动下载) |
+| 2026-10-07 03:15:42 | [statespace-sdk](https://pypi.org/project/statespace-sdk/) | 0.1.1 | Statespace Technologies, Inc. | 85.7 kB | Run Statespace A/B tests on functions in Python applications |

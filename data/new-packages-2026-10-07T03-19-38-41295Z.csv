@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T22:30:27Z,everesteer-api,0.4.1,Everesteer <support@everesteer.ai>,MIT,260585,Python SDK and MCP server for the Everesteer prediction tournament platform
+2026-10-07T02:19:03Z,pdfthumb,0.1.2,,MIT,21901,Generate WebP thumbnails from PDF files
+2026-10-07T02:19:54Z,rmc-util,0.6.13,"Kengo NAKADA <kengo.nakada@email.com>, Kentaro Kobayashi <kobayashi@mat.shimane-u.ac.jp>",,207476,rmc_dft is a Python package for performing Reverse Monte Carlo modeling and ab initio molecular dynamics / relaxation using VASP code.
+2026-10-07T02:19:59Z,pytomato,0.4.3,,,94966,"Topological Mode Analysis Tool for fast, persistent, density-based clustering."
+2026-10-07T02:21:08Z,dense-arrays,0.2.0,"Virgile Andreani <andreani@bu.edu>, Eric J South <ericjohnsouth@gmail.com>",MIT,293286,A library to create densely packed DNA arrays from motifs
+2026-10-07T02:22:19Z,browser-pool,0.1.0a1,,MIT,730391,"Оркестрация пула браузеров: контексты аккаунтов, сессии, прокси, жизненный цикл — поверх любого браузерного SDK"
+2026-10-07T02:23:18Z,fontpkg-indie-flower,2.0,,OFL-1.1,61530,"Indie Flower font family, packaged for Python by fontpkg"
+2026-10-07T02:23:20Z,fontpkg-shadows-into-light,1.0,,OFL-1.1,35668,"Shadows Into Light font family, packaged for Python by fontpkg"
+2026-10-07T02:23:22Z,fontpkg-crimson-pro,1.3,,OFL-1.1,228361,"Crimson Pro font family, packaged for Python by fontpkg"
+2026-10-07T02:23:24Z,fontpkg-spectral,2.5,,OFL-1.1,1715247,"Spectral font family, packaged for Python by fontpkg"
+2026-10-07T02:23:50Z,reader-workbench,1.0.0,Eric J. South,MIT,938146,"Validated, traceable analysis workflows for experimental instrument data"
+2026-10-07T02:28:52Z,pii-lens,0.1.0,,MIT,22078,"Highlight credit cards, emails, phone numbers, SSNs, and US bank numbers in logs and prompts before they hit an LLM."
+2026-10-07T02:33:49Z,llm-sizer,0.1.0,saheb26,MIT,22029,"LLM VRAM calculator and cheapest AWS GPU recommender for vLLM, DeepSeek-R1, Llama 70B, and Qwen. JSON output for AI agents."
+2026-10-07T02:34:45Z,zephon,0.1.0,Datology Team <zephon@datologyai.com>,Apache-2.0,3187544,"High-performance, modular, multimodal-first data loader"
+2026-10-07T02:37:54Z,surfia-pedagogia,0.5.0,SURF IA,MIT,95901,Láminas visuales en español para comprender código Python y sus conceptos
+2026-10-07T02:41:41Z,docpress,1.3.0,docpress contributors,MIT,29124313,"DocBook CLI: create, validate, build, and publish documents with docbook-xslTNG"
+2026-10-07T02:46:44Z,pdf2context,0.1.0,,Apache-2.0,55443,"Turn multiple PDFs into a merged, AI-ready context with page-level source provenance."
+2026-10-07T02:48:35Z,opendocrouter,1.0.0,Open Doc Router <support@runllama.ai>,MIT,315716,The official Python library for the open-doc-router API
+2026-10-07T02:50:29Z,asl-mri-utils,0.6.0,Sriranga Kashyap <srikashmri@gmail.com>,MIT,192497,Utilities for Siemens arterial spin labeling (ASL) DICOM volume-order analysis and DICOM-to-NIfTI conversion
+2026-10-07T02:50:55Z,prefect-aca-sessions,1.0.0,Rafael Guimaraes Siqueira,,14803,Prefect worker that runs flow runs in Azure Container Apps dynamic sessions
+2026-10-07T02:55:46Z,solcis,0.0.0a0,Solcis,MIT,2370,Reserved for the official Solcis SDK. This release contains no code.
+2026-10-07T02:55:47Z,solcis-sdk,0.0.0a0,Solcis,MIT,2432,Reserved for the official Solcis SDK. This release contains no code.
+2026-10-07T02:57:34Z,pcode,0.1.0,Aaron Weisberg,MIT,1266229,"Terminal-native AI coding agent with background jobs, parallel worktrees, forkable sessions, and multi-model support"
+2026-10-07T03:03:08Z,roost-mcp,0.1.0,Roost <developers@roostcapital.ai>,Apache-2.0,14950,"Roost public MCP servers for AI agents: a payment pre-flight check (roost-corpus-mcp) and a finance-agent safety test (roost-eval-mcp). Advisory, zero-config, no API key."
+2026-10-07T03:04:45Z,okareo-vision,0.1.0,Okareo <info@okareo.com>,Apache-2.0,206503,"Simulate a customer against an agent that lives behind a web UI, with Okareo"
+2026-10-07T03:08:43Z,readaloud,0.1.0,Sushanth Tiruvaipati,MIT,20189,Python client for the ReadAloud streaming text-to-speech API (WebSocket and HTTP streaming)
+2026-10-07T03:12:16Z,bioio-emd,0.1.0.dev1,ksiller <khsiller@gmail.com>,GPL-3.0-or-later,38818,A BioIO plugin for reading and writing EMD images.
+2026-10-07T03:12:30Z,campus-bag,0.1.0,,,2664,학교에 가져갈 공책과 펜을 챙기는 패키지
+2026-10-07T03:12:39Z,shamash-core,2026.2.0,,MIT,326050,"A Toolbox for creating a physically modelled world for worldbuilding purposes, based on Artifexian's Worldsmith."
+2026-10-07T03:13:02Z,apkbox,2.1.0,,,74028,"APK 工具集: 转成可引入的 AAR, 或反编译出 .java(工具自动下载)"
+2026-10-07T03:15:42Z,statespace-sdk,0.1.1,"Statespace Technologies, Inc.",Apache-2.0,85733,Run Statespace A/B tests on functions in Python applications
