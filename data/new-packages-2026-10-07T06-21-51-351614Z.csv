@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T05:21:05Z,agents-fleet,0.5.0,Lin Zhang,MIT,749501,"Give Claude Code, Codex and Gemini every machine you have: a live GPU, VRAM, RAM and disk inventory across your servers, SSH access between them, and an MCP server."
+2026-10-07T05:25:32Z,geneicl,1.0.0,,MIT,141388396,"In-context learning for bulk gene expression: classification, regression and survival with one model"
+2026-10-07T05:29:30Z,clausal-scipy,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,136504,SciPy predicates for Clausal (scientific computing wrappers)
+2026-10-07T05:29:47Z,clausal-sklearn,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,29984,scikit-learn predicates for Clausal (machine learning wrappers)
+2026-10-07T05:30:59Z,clausal-torch,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,46813,PyTorch predicates for Clausal (torch wrapper)
+2026-10-07T05:31:56Z,agentic-pricing-tools,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,4135,Line-of-business-agnostic building-block utilities for insurance pricing agents.
+2026-10-07T05:32:24Z,agentic-pricing-agents,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,4118,Line-of-business-agnostic agentic components for insurance pricing.
+2026-10-07T05:32:49Z,agentic-pricing-mcp,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,4116,Shared MCP server infrastructure for exposing insurance pricing tools and agents.
+2026-10-07T05:33:24Z,shad0wllm,0.1.0,Gaurav Chauhan <2796gaurav@gmail.com>,Apache-2.0,1228106,Compile the decisions your LLM already makes into a certified 2 MB table that answers in microseconds on a CPU.
+2026-10-07T05:34:50Z,ctally,0.2.0,JinyuJinyuJinyu,MIT,119986,A floating status light for your Claude Code sessions: whose turn is it?
+2026-10-07T05:35:18Z,libscanner-dmr,1.0.0,,Proprietary,9963558,"Чтение DataMatrix (ECC200, GS1, «Честный знак») с кадров камеры и конвейера — DataMatrix reader for industrial cameras"
+2026-10-07T05:35:26Z,libscanner-dmgen,1.0.0,,Proprietary,5399602,Генератор DataMatrix ECC 200 с проверкой GS1 и «Честного знака» — DataMatrix generator with GS1 validation
+2026-10-07T05:42:49Z,llm-eval-bench,0.1.1,Aniruddh,"MIT License Copyright (c) 2026 Aniruddh Chilla Permission is hereby granted, free of charge, to any…",33239,A local CLI tool for evaluating LLM prompt outputs against test suites
+2026-10-07T05:43:25Z,clausal-yaml,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,16714,YAML predicates for Clausal (PyYAML wrapper)
+2026-10-07T05:43:32Z,clausal-spacy,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,20339,spaCy NLP predicates for Clausal
+2026-10-07T05:44:17Z,clausal-jax,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,111833,"JAX predicates for Clausal (array, PRNG, transforms, sharding, scipy)"
+2026-10-07T05:45:02Z,myrssfeed,0.1.0,fabianhogger,"MIT License Copyright (c) 2026 fabianhogger Permission is hereby granted, free of charge, to any pe…",75183,"Read RSS feeds and keep only the news that matches your criteria, judged by Claude."
+2026-10-07T05:46:14Z,k3kroki,0.1.0,Zhang Yanpo <drdr.xp@gmail.com>,MIT,14426,Convert diagrams to images via the kroki.io API — zero local dependencies
+2026-10-07T05:46:43Z,clausal-sympy,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,39753,SymPy predicates for Clausal (symbolic math wrapper)
+2026-10-07T05:46:48Z,clausal-opencv,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,71693,OpenCV (cv2) predicates for Clausal
+2026-10-07T05:50:27Z,ghand,0.1.0,Algomatic Dynamics,Apache-2.0,3887734,"Python SDK, webcam teleoperation, and simulation tooling for the LEAP V1 KAIZEN robot hand."
+2026-10-07T05:50:30Z,lerobot-robot-ghand,0.1.0,,Apache-2.0,2771,LeRobot robot plugin for the LEAP V1 KAIZEN hand; installs auto-discovery of --robot.type=ghand.
+2026-10-07T05:55:24Z,lely,0.1.0,Misja Pronk,Apache-2.0,863470,"One plan for your whole Databricks deploy: the bundle and the steps around it, reviewed before anything runs"
+2026-10-07T05:56:34Z,droneship,0.1.2,Highflame Team <team@highflame.ai>,MIT,541566,"Run coding agents like Claude Code in isolated, policy-enforced cloud sandboxes"
+2026-10-07T05:56:49Z,mcgyvr,0.3.0,,"MIT License Copyright (c) 2026 Adar Permission is hereby granted, free of charge, to any person obt…",31296478,Offload scoped coding work from your agent to a configurable worker ladder
+2026-10-07T05:58:50Z,quabla,0.6.1,latteine,MIT OR Apache-2.0,32021993,Rust-backed SciML runtime experiment exposed to Python
+2026-10-07T06:00:06Z,devin-pm,0.1.0,Icaro0310,MIT,64144,"Project-manager powerup: turn session history into milestones, status reports and task tracking per repo."
+2026-10-07T06:01:25Z,debugbuddy-python,1.0.0,DebugBuddy Contributors,"MIT License Copyright (c) 2026 DebugBuddy Contributors Permission is hereby granted, free of charge…",21153,A beginner-friendly Python debugging assistant and error explainer.
+2026-10-07T06:01:28Z,korean-tax-calc-mcp,0.2.0,,MIT,73318,"Korea (South Korea) tax calculator MCP server — corporate tax, penalties, deemed interest, limitation periods, withholding. 한국 세금 계산 MCP"
+2026-10-07T06:02:06Z,eazy-sdk-core,0.2.0a8,Eazy SDK contributors,MIT,891844,Transport-independent runtime for typed HTTP and async WebSocket SDKs.
+2026-10-07T06:04:22Z,aresneuro,1.0.0,,,8455,Python client for the Ares Neuro CORTEX EEG embedding API
+2026-10-07T06:05:19Z,clausal-decide,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,26674,"Calibrated decisions as relations for Clausal: choice, yes/no and score answers about a text, from laya or TypeSafe's Jev"
+2026-10-07T06:06:26Z,memdebug,0.2.0,Juraj Jumić,Apache-2.0,365326,"Inspect, compare and roll back what an AI agent's memory holds. Local-first and agent-neutral."
+2026-10-07T06:06:27Z,chobocode,0.0.1,jaehong park,MIT,4347,초보 코딩 에이전트 (chobo)
+2026-10-07T06:07:00Z,openharnx,0.1.1,Rupesh Poojary,Apache-2.0,1919128,"Open-source verifier for code written by AI coding agents: locked tests, sandboxed checks and a review brief"
+2026-10-07T06:11:04Z,libseal,1.1.0,,MIT,43767,"Python library that seals a directory into one password-protected .libseal file, then opens, mounts, and imports the modules."
+2026-10-07T06:13:19Z,clausal-acl2,0.1.0,Mike Amy <mikeamycoder@gmail.com>,MIT,22399,"ACL2 theorem prover predicates for Clausal, through the ACL2 Bridge"
+2026-10-07T06:15:52Z,beamerpkg,1.0.1,Uli Kerzel,Apache-2.0,34328,Portable Beamer/PDF presentation bundles with external media assets
+2026-10-07T06:19:03Z,convy,0.1.0,deyna256,MIT,73717,"Check conversational agents the way a person would: a simulated user talks to the agent, a judge rates the dialogue, and convy reports pass rate, tokens and response time."
