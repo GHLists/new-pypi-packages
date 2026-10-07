@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-06T23:19:23Z,cf-agents,0.1.0,Viswa Marepalli,,454871,Cloudflare Agents for Python Workers
+2026-10-06T23:21:52Z,forgejo-lxd-runner,0.1.0,vicamo,GPL-3.0-or-later,129357,Forgejo Runner act backend plugin that executes jobs in LXD instances
+2026-10-06T23:22:55Z,django-robots-manager,6.2.1,Artem Fabrikov,BSD-3-Clause,43542,"Robots exclusion application for Django, complementing Sitemaps. Continuation of django-robots 6.x after a long pause in upstream releases."
+2026-10-06T23:25:35Z,cq-zones-mcp,0.1.0,"""Greg Beam, KI7MT"" <ki7mt@yahoo.com>",GPL-3.0-or-later,239824,"CQ zones as CQ publishes them (WAZ Zone Definitions), in ADIF's DXCC and subdivision codes"
+2026-10-06T23:25:41Z,itu-zones-mcp,0.1.0,"""Greg Beam, KI7MT"" <ki7mt@yahoo.com>",GPL-3.0-or-later,243843,"ITU zones as the IARU publishes them for amateur use, in ADIF's DXCC and subdivision codes"
+2026-10-06T23:25:45Z,darc-dok-mcp,0.1.0,"""Greg Beam, KI7MT"" <ki7mt@yahoo.com>",GPL-3.0-or-later,1255740,"DARC DOKs and special DOKs as DARC publishes them, with validity windows"
+2026-10-06T23:25:53Z,omegaconf-1password,0.1.0,1kbgz <t.paine154@gmail.com>,Apache-2.0,21623,A 1Password secret reference resolver for OmegaConf and Hydra
+2026-10-06T23:25:57Z,reward-contract-fuzzer,0.1.0,Yuriy H,MIT,25408,"Find the policy your reward function actually incentivizes, before an agent does. Optimizer-proved reward contract testing for RL environments."
+2026-10-06T23:31:23Z,graphs-delagarza,0.1.0,Juan Manuel De La Garza,,21233,A Python library implementing graph routing algorithms.
+2026-10-06T23:32:07Z,nodloop,0.6.6,,MIT,180354,"Record AI runs and the verdicts people give on them, and hand the knowledge they approve to the next run in the same place"
+2026-10-06T23:34:21Z,saycode-claude-swap,0.27.0b2,Onur Cetinkol <onurcetinkol@gmail.com>,MIT,1214844,Multi-account switcher for Claude Code
+2026-10-06T23:37:55Z,firekeep-hands,0.1.0,,LicenseRef-Firekeep-BUSL-1.1,722310,"Firekeep Hands — a screen-aware operator for your computer, behind your Keep's approval broker"
+2026-10-06T23:42:27Z,py-phenoforge,0.1.0,Colby Wilkinson,Apache-2.0,421523,"Semantic value set assembly for clinical cohort definitions, over MCP"
+2026-10-06T23:43:17Z,brain-db-sdk,0.1.0,Niraj Georgian,Apache-2.0,276496,Python client SDK for the Brain memory database. Speaks Brain's BRN0 wire protocol directly over TCP.
+2026-10-06T23:45:08Z,aer1-pydantic,0.1.0,Brennan Zambo,,40210,"One-line verifiable execution receipts for Pydantic AI agents. Free, no API key, offline verification, chain-head anchoring to Nostr and Bitcoin."
+2026-10-06T23:46:10Z,discface,0.1.0,discface contributors,MIT,50391,"From a photo of a CD or DVD to the flat, upright disc image"
+2026-10-06T23:49:07Z,aiyoplane-claude-agent-sdk,1.0.0,"""Aiyoplane, Inc."" <rashon@aiyoplane.com>",Apache-2.0,24796,AEAP Composition Boundary Adapter for the Claude Agent SDK. Thin wrapper that attaches the Runtime Decision Point to agent tool invocations — especially useful for coding agents.
+2026-10-07T00:00:06Z,devin-history,0.1.0,Icaro0310,MIT,63112,"Export, audit and search Devin Desktop session history — Obsidian-ready markdown, JSON and SQLite-aware."
+2026-10-07T00:00:40Z,mcp-toolproof,0.1.0,Nilkanth Suthar,MIT,51561,"Automated tests for MCP servers: schema checks, YAML test cases, JUnit output and a pytest plugin."
+2026-10-07T00:01:30Z,termigrad,0.2.0,Martin Chen <martin.chen.au@gmail.com>,GPL-3.0-or-later,35551,Gray-Scott reaction-diffusion simulation rendered as truecolour ASCII in your terminal.
+2026-10-07T00:02:16Z,jobgpumonitor-server,0.4.0,Marc Pinet,MIT,93330,"Consumer for jobgpumonitor events: run state, alert rules, notifications (ntfy, Telegram, webhook) and a small API."
+2026-10-07T00:04:02Z,alphafade,0.1.1,Jeevun Sandhu,MIT,199689,"Is my trading signal dying? Measure calendar-time alpha decay, half-lives, structural breaks, publication effects, and crowding."
+2026-10-07T00:08:32Z,contamcheck,0.1.0,Sofie Nguyen,MIT,38968,Check whether a language model has memorised a benchmark.
+2026-10-07T00:10:20Z,skyborne,0.1.0,Mirza Ishraq Yeahia,Apache-2.0,1620051,"A live 3D sky city of your Claude Code agents: watch sessions, approve or deny requests. Local-only, no telemetry."
+2026-10-07T00:10:33Z,thunk,0.1.0,binado,MIT,49375,Generate automatic save and load methods for functions that manipulate arrays
+2026-10-07T00:14:29Z,n0rma-sec,0.3.1,Ryan Davis,MIT,78699,"Home counter-surveillance detector for Linux: Remote ID drones, Bluetooth trackers, unknown devices, RF."
+2026-10-07T00:17:21Z,anyoauth-sdk,0.1.0,,MIT,12704,AnyOAuth confidential backend SDK
