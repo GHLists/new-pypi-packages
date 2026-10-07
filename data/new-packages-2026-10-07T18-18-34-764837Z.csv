@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T17:21:42Z,reachdiff,0.9.0,,Apache-2.0,108661,Effective Unity Catalog access diff for Terraform plans
+2026-10-07T17:22:22Z,developer-platform-cli,0.1.0,,,14619,Command-line client for the Developer Platform API
+2026-10-07T17:25:22Z,sirgal,0.0.1,Bilal Umrani,Apache-2.0,13197,Find sensitive files your AI assistant can see before your employees do.
+2026-10-07T17:25:31Z,workweek,0.0.1,WorkWeek <askqai@mitns.com>,MIT,2110,WorkWeek Platform SDK — placeholder release. Real SDK coming soon.
+2026-10-07T17:26:50Z,my-markdown-test,0.1.0,,,2766,一个用于学习 Python 公共库构建和发布的示例工程
+2026-10-07T17:27:50Z,tiferet-elsl,1.0.1,"""Andrew Shatz, Great Strength Systems"" <andrew@greatstrength.me>",BSD-3-Clause,519260,Domain-specific compiler for Tiferet component dialects
+2026-10-07T17:28:01Z,symdef,0.4.1,Ole Johan Bondahl,MIT,316707,"Standard-agnostic core for graphical symbols as strict, typed, immutable Python values"
+2026-10-07T17:28:04Z,slidemark,0.1.0,,MIT,1808530,"Token-efficient Markdown/HTML to native, editable PowerPoint for AI agents"
+2026-10-07T17:30:40Z,fiki,0.0.1,Bakobo,Apache-2.0,2289,Name reserved for fiki (RFC 9421 HTTP message signatures). Empty placeholder; see the repository.
+2026-10-07T17:31:40Z,vision-anomaly,0.1.0,Pranay Mahendrakar,MIT,100118,"Spot unusual images against a set of normal ones, without labelled defects"
+2026-10-07T17:32:21Z,courtpy,0.1.0,Corey Rayburn Yung <coreyrayburnyung@gmail.com>,Apache Software License 2.0,163215,"Accessible tools for collecting, parsing, and analyzing court opinions"
+2026-10-07T17:33:18Z,iqview,0.7.1,Omer Naftali <omernaftali1@gmail.com>,MIT,2786746,High-performance Static RF Spectrogram Viewer
+2026-10-07T17:33:26Z,fm-saxml-converter,0.1.0,Matthew Leering,MIT,455771,Convert FileMaker Pro Save As XML exports into structured Markdown / JSON documentation
+2026-10-07T17:35:49Z,clarion-snmp,1.0.0,Ilya Etingof,BSD-2-Clause,880769,SNMP library for Python
+2026-10-07T17:41:44Z,tensordecomp,0.1.0,141Kamrul,"MIT License Copyright (c) 2026 Tensor Decomposer Contributors Permission is hereby granted, free of…",45424,High-dimensional tensor decompositions and PuzzleTensor optimization library
+2026-10-07T17:42:09Z,mrkts,0.2.1,,MIT,30240,Asynchronous Python client for the MRKT API
+2026-10-07T17:45:23Z,margi,0.1.0,Nico Benz,MIT,103511,"AI in the margins, never in the text. A feedback layer for human-written theses."
+2026-10-07T17:45:34Z,homeassistantpy,1.0.0,,MIT,123460,Home Assistant REST client and JSON tools for agents
+2026-10-07T17:45:59Z,qikou,2.2.1,Grabrun,MIT,995064,Cadence (气口) — semantics-aware chat bubble splitter: turn one long AI reply into several short chat messages.
+2026-10-07T17:48:35Z,livechat-desktop,1.0.0,Romain Guillon,MIT,218720,A desktop overlay for LiveChat built with PyQt6
+2026-10-07T17:49:43Z,dataseek,0.8.0,,MIT OR Apache-2.0,17243009,Search for datasets from the terminal
+2026-10-07T17:51:58Z,langchain-scrapewise,0.1.0,BEBOTECH OÜ <hello@scrapewise.ai>,MIT,23345,LangChain tools for the ScrapeWise web-scraping and price-monitoring API.
+2026-10-07T17:52:24Z,as-tagging,2.0.0,"Zachary Bischof, Cecilia Testart, Alberto Dainotti",LicenseRef-IIL-AS-Tagging-AUA,140372,"Toolkit to assign, retrieve, and customize tags for Autonomous Systems from monthly AS feature snapshots."
+2026-10-07T17:52:57Z,majordom-zwave,0.1.1,Mark Parker,LicenseRef-PolyForm-Noncommercial-1.0.0,68747,Z-Wave integration for MajorDom — bridges Z-Wave devices into the MajorDom language.
+2026-10-07T17:54:45Z,flet-android-background,0.0.1,Alex Stoica <alexstoica@protonmail.com>,MIT,17644,Experimental foreground tasks for Flet on Android
+2026-10-07T17:55:29Z,crownset,0.0.1,Crownset,"Copyright (c) 2026 Crownset This package reserves the ""crownset"" name for the Crownset project (htt…",2927,"Crownset — desktop tools that run on your computer, keep your files there, and work without an account. Name reserved for the Crownset project; see https://crownset.app"
+2026-10-07T17:57:37Z,cdp-tv,0.2.0,,MIT,189649,Python automation and data access for TradingView Desktop over CDP
+2026-10-07T17:58:05Z,llmfuse,0.1.0,Aaryan Bairagi,MIT,57481,"Reliability for LLM calls: retries with backoff, circuit breakers, rate limiting and multi-provider failover."
+2026-10-07T17:58:21Z,ggassembler,0.1.0,Stefan Zdraljevic <szdralje@g.ucla.edu>,MIT,1341122,GG Assembler - design Golden Gate assemblies in the Yeast Toolkit (YTK) standard
+2026-10-07T17:58:47Z,mpships-infra,0.0.1,Min-Hsueh Chiu <minhsuehchiu@lbl.gov>,,29744,MPShips infra
+2026-10-07T18:00:05Z,devin-metrics,0.2.0,Icaro0310,MIT,65160,"Activity, context and session observability across Devin sessions — local-only, no telemetry."
+2026-10-07T18:00:48Z,shotdrift,0.2.0,Syamjith NK <hello@syamjithnk.com>,MIT,79276,Measure whether a video holds the camera move it was given.
+2026-10-07T18:05:14Z,hookfix,0.1.0,sqm <sqmyou@users.noreply.github.com>,MIT,42180,Find the hidden imports that break your frozen Python app.
+2026-10-07T18:05:29Z,compat-sentinel,0.1.0,compat-sentinel contributors,"MIT License Copyright (c) 2026 Gianni Mariani Permission is hereby granted, free of charge, to any…",14718,PEP 661 sentinel for Python versions before 3.15
+2026-10-07T18:05:58Z,zepygui,0.1.0,rzafiamy,MIT,193166,"Beautiful native desktop apps in pure Python, with no dependencies."
+2026-10-07T18:06:10Z,sel2pw,0.1.1,,MIT,121421,"Selenium Java -> Python Playwright migration agent (CLI, MCP server, LLM-agnostic agent)"
+2026-10-07T18:09:13Z,tintelf,0.0.1,The Intelligence Factory <agould@tif.ai>,Apache-2.0,14190,This project allows anyone to programmatically use products created by https://tif.ai in their own projects.
+2026-10-07T18:09:35Z,agentpools,0.1.9,,,3560827,Bounded multi-runtime agent session pools for Python
+2026-10-07T18:09:50Z,poselab-mcp,0.1.0,Khoa Hoang,MIT,617421,"An MCP server of measured spatial answers for posing first-person arms and a rifle in Blender: clipping depth, what the eye sees, and a solver that says which goals no move can meet."
+2026-10-07T18:11:43Z,vikingrag,0.4.0,Muhammad Huzaifa Shahbaz <kinghuzaifa.shahbaz@gmail.com>,Apache-2.0,335224,"Production hierarchical RAG: structure-aware Search, agentic retrieval, experience edges"
+2026-10-07T18:13:31Z,pypsgctrl,0.1.1,Oleg Kochetov,MIT,43225,Python driver for the PSG9080 dual-channel function generator with USB serial control.
+2026-10-07T18:15:18Z,junkicide,0.1.0,trapwalker,MIT,185289,TUI для macOS: найти и осознанно прибить забытые прожорливые процессы и ненужные гигабайты на диске
+2026-10-07T18:15:48Z,tensorflow-uit2721dlca,0.1.0,,,14612,Deep Learning assignment
+2026-10-07T18:16:50Z,py-backlight,0.1.0,Jason Berger <berge472@gmail.com>,MIT,6741306,"Backtest, paper trade and live trade stock and option strategies built from pipelines of nodes"
