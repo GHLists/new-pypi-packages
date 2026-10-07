@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T11:49:25Z,odoo-addon-stock-putaway-last-location,18.0.1.0.0.3,"Akretion, Odoo Community Association (OCA)",AGPL-3,24795,Use the last putaway location of a product as the defaultputaway location for this product.
+2026-10-07T12:23:09Z,pou2md,0.1.0,crissoll <info@crissoll.com>,MIT,77513,Convert TwinCAT 3 .TcPOU files into Markdown documentation with Mermaid diagrams
+2026-10-07T12:24:03Z,pldap,0.0.0,Ondřej Kuzník,OLDAP-2.8,50107,libldap+ctypes based LDAP client and server implementation
+2026-10-07T12:24:29Z,multihull,0.0.1,Prafful Mishra,Apache-2.0,2462,Deploy always-warm GPU inference containers to many providers from one spec and fail over between them automatically.
+2026-10-07T12:25:29Z,stevin,0.3.0a1,Misja Pronk,Apache-2.0,658998,Safe plan/apply migrations for Unity Catalog tables and schemas
+2026-10-07T12:25:55Z,seismicx-grtm,0.5.1,,LicenseRef-SeismicX-Research-NonCommercial,23877966,"SeismicX GRTM: layered-medium Green functions with C, CUDA and Apple Metal backends"
+2026-10-07T12:27:37Z,restaurateur,0.1.0,,,847,install like it was 2010
+2026-10-07T12:30:13Z,nimbus-player,0.3.0,Allan Medeiros,MIT,106756,Terminal player that streams the music in your Google Drive folders
+2026-10-07T12:30:31Z,robotensor-attune,0.2.1,,Apache-2.0,29115,"The miner's command for Attune, Robotensor's Bittensor subnet: check, upload and commit a submission."
+2026-10-07T12:31:21Z,py-purr,0.1.0,Cipher208,MIT,68875,"Zero-infrastructure SQLite-backed alternative to Redis: KV with TTL, state machines, sagas, event streams and pub/sub."
+2026-10-07T12:31:41Z,file2records,0.2.0,Enkhnyam Battulga,MIT,873766,"Turn scientific papers (PDF, JATS and Elsevier XML, HTML, Word) into a structured dataset: one model extracts, a second audits, you review against the source text."
+2026-10-07T12:32:00Z,devision,0.2.0,,Apache-2.0,141328,Vision decision model: image + questions -> Jev-format calibrated answers
+2026-10-07T12:32:22Z,dutch-waterways,0.1.0,MirMohammad Musavi,MIT,194746,"Route planner for Dutch inland waterways, built on Rijkswaterstaat's open FIS network"
+2026-10-07T12:33:42Z,odoo-addon-account-ebitda-report,19.0.1.0.0.2,"Acysos S.L., Odoo Community Association (OCA)",AGPL-3,335387,Professional EBITDA report with M&A normalizations.
+2026-10-07T12:34:21Z,codemagic-agent-tools,1.2.0,Helge Sverre,MIT,1967985,"Unofficial Codemagic CLI, MCP server, and mobile signing skills for coding agents"
+2026-10-07T12:34:40Z,conforme,0.1.0,Valentin Dusserre,MIT,68604,"Conformal forecasting: point forecasts, hierarchy reconciliation, and calibrated bands."
+2026-10-07T12:37:32Z,helionyx,0.3.0,Jayath De Silva,Apache-2.0,854911,"Open-source hybrid renewable energy sizing for AI assistants (MCP server, CLI and Claude skill)"
+2026-10-07T12:39:01Z,ndiffusion,1.0.0,Ben Whewell <ben.whewell@pm.me>,MIT,12182658,Multigroup neutron diffusion solver - C++ core with Python bindings
+2026-10-07T12:41:01Z,ainotate,0.1.1,DontPayFull,AGPL-3.0-or-later,6296808,"Annotated screenshots for AI agents: Skitch-style arrows, numbered steps, boxes, labels, solid redaction"
+2026-10-07T12:43:41Z,angineer-tree-core,0.1.0,AnGIneer Team,MIT,18019,"AnGIneer tree node store (sqlite): CRUD, move with sibling re-ordering, scope isolation"
+2026-10-07T12:44:04Z,camplet,1.0.0,Abeln,GPL-3.0-only,46802,"CAMPLET seasonal adjustment: a transparent, adaptive method using arithmetic-progression updates."
+2026-10-07T12:44:24Z,typevent,0.1.0,enterdot,MIT,6998,"A minimal, typed event primitive."
+2026-10-07T12:45:31Z,angineer-docs-core,0.1.1,AnGIneer Team,MIT,927122,"AnGIneer docs engine: parse pipeline (source_prep -> MinerU -> PoPo -> structure -> FTS -> vectors -> graph), retrieval and export"
+2026-10-07T12:45:53Z,seapy-ops,1.0.2,seapy,MIT,29125,"tiny file peeker - strings, checksums, stego and crypto hints"
+2026-10-07T12:47:09Z,personio_client,0.1.0a1,Hochfrequenz Unternehmensberatung GmbH <info@hochfrequenz.de>,MIT,218480,An async Python client for the Personio API v2 (persons and employments)
+2026-10-07T12:47:54Z,customchat-app,0.1.0,,MIT,730704,Build a chat application over any evidence source from one YAML file.
+2026-10-07T12:50:17Z,weclapp-client,0.1.0a1,Nicola Söker <nicola.soeker@hochfrequenz.de>,MIT,172170,"Typed Python client for the weclapp REST API v2, focused on employee master data"
+2026-10-07T12:53:23Z,pizzetti,0.1.0,Author One,GPL-3.0-or-later,71866,Fast limb-darkened transit light curves with a rigorously bounded elementary series (batman-compatible)
+2026-10-07T12:55:36Z,mermaid-codeblock-generator,0.1.0,,MIT,19850,Tiny dependency-free Mermaid code-block generator
+2026-10-07T12:55:49Z,dlboard,0.1.3,David Langerman <dev.onyxzerosoftware@gmail.com>,Apache-2.0,102615,"A pytorch_lightning-compatible logger client for dlboard, a free, self-hosted experiment-tracking server."
+2026-10-07T12:55:49Z,dlboard-server,0.1.3,David Langerman <dev.onyxzerosoftware@gmail.com>,Apache-2.0,590447,"dlboard's server: the Dash app, storage/auth plugins, and the `dlboard` CLI."
+2026-10-07T12:57:34Z,olab-audio,0.1.0,Optimator Lab,MIT,109444,"Audio device I/O (Mic/Speaker/recording, device enumeration, PulseAudio control) plus an optional DSP/analysis/teaching toolkit."
+2026-10-07T12:58:03Z,certora-cli-alpha-zeus-key-v1-api,20261007.12.57.104922,Certora,GPL-3.0-only,176143691,Runner for the Certora Prover
+2026-10-07T12:59:08Z,choosing-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49030,A machine that chooses
+2026-10-07T12:59:24Z,olab-voice,0.1.0,Optimator Lab,MIT,131127,"Local-first voice capture, STT, TTS, wake phrase, and transport adapters."
+2026-10-07T13:01:15Z,olab-rf,0.1.0,Optimator Lab,MIT,177246,"Local-first RF telemetry package for ADS-B, AIS, scanner, and future Remote ID workflows."
+2026-10-07T13:03:14Z,srtomo,0.0.1,The SrTomo Developers <fatiandoaterra@protonmail.com>,BSD-3-Clause,16931,Straight-ray travel time tomography for teaching inverse problems
+2026-10-07T13:06:50Z,remporte,0.4.3,,MIT,1606109,"CLI et plugin Claude Code pour répondre aux appels d'offres publics avec votre agent IA : DCE, analyse, mémoire technique, DC1/DC2/DC4, exports."
+2026-10-07T13:07:19Z,little-lumie,0.2.0,Eric Yaka,AGPL-3.0-or-later,126573,"Little Lumie - a night-born digital entity with eternal memory (Eternal KV inside model.safetensors), Elbalor Type-D neurons, NecroGrafts and the full vampire organ set."
+2026-10-07T13:08:05Z,pdbcheck,0.1.0,Lamarck <lmk704021302@gmail.com>,MIT,27708,Fast inter-chain steric clash screening for PDB structures
+2026-10-07T13:08:10Z,clean-to-execute,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,17011,Safely clean the Docker Compose resources for a local GitHub repository.
+2026-10-07T13:11:33Z,geosquare-v2,0.1.0rc1,Geosquare,Apache-2.0,52073515,Profile-driven hierarchical metric grid core for Geosquare V2.
+2026-10-07T13:11:39Z,olab-camera,0.1.0,Optimator Lab,MIT,893638,"Camera capture, local recording, and network streaming (MJPEG/WebSocket/WebRTC) for lab robotics projects."
+2026-10-07T13:14:57Z,knott,0.1.0,Ihar Nestsiarenia,MIT,114491,"A local, file-first knowledge layer for AI agents: typed Markdown entities, schemas, and semantic relations."
+2026-10-07T13:15:21Z,mathema-language,0.1.0,Tetrion Ltd,Apache-2.0,283834,"Language domains for mathema: the alphabets, predicate languages, hazard families and schema languages a claim quantifies text and structured values over with L[...]."
+2026-10-07T13:15:23Z,cvf-runtime,1.0.3,Suleiman,MIT,11880,Runtime for CVF — Console Video File playback
+2026-10-07T13:15:23Z,fakeverse,0.1.0,Kentrow,MIT,248050,Coherent fake data generator themed by fictional universes.
+2026-10-07T13:17:04Z,olab-playground,0.1.0,Optimator Lab,MIT,96065,Local-first HTTPS playground for olab_code packages.
