@@ -1,0 +1,17 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T00:31:22Z,flowscope-mcp,0.1.1,,MIT,107410,MCP server for FlowScope: turn YouTube product demos into structured UX flow reports for any LLM client.
+2026-10-07T00:35:55Z,argrouter,0.1.0a1,Harun Ercul,Apache-2.0,116259,LLM router that picks the model and reasoning effort per query from accuracy and real billed cost. #1 on RouterArena. Includes a correct per-request LLM cost engine.
+2026-10-07T00:39:01Z,agentlore,0.9.1,Rudra Patel <60398030+Rudra5417@users.noreply.github.com>,MIT,91504,"Git-reviewable repo memory for coding agents: typed decisions, dead ends, conventions and hazards, landed as a diff in the PR that motivated them, with a CI gate that fails when memory rots."
+2026-10-07T00:39:17Z,olab-utils,0.1.0,Optimator Lab,MIT,64182,Shared utility helpers for lab robotics projects.
+2026-10-07T00:39:55Z,h3d-tool,1.0.2,H3D Project Team,,16794,"Radiation spectrum loading, background subtraction, smoothing, and analysis tool"
+2026-10-07T00:40:29Z,readymade,0.0.1,Joseph E. Coleman,MIT,284055,"Visual Basic-style forms for Python: draw a form, double-click to write its code, press F5"
+2026-10-07T00:40:41Z,molfp,0.2.0,Chanin Nantasenamat,MIT,152819,Interpretable molecular fingerprints with SHAP-driven chemical explanations
+2026-10-07T00:40:49Z,pixgen,0.1.1,Diego Gamboa,MIT,102639,A command-line tool for generating and managing images.
+2026-10-07T00:42:56Z,aspire-si,1.1.0,mcp-tool-shop <64996768+mcp-tool-shop@users.noreply.github.com>,MIT,627655,Adversarial Student-Professor Internalized Reasoning Engine
+2026-10-07T00:45:05Z,aw1-circuit-breaker,0.1.1,Mvik Manners,MIT,58971,Deterministic sub-0.2ms AST execution circuit breaker for autonomous agents and MCP servers.
+2026-10-07T00:51:34Z,mesoloom,0.0.2,,MIT,6498,Placeholder release for mesoloom.
+2026-10-07T00:51:59Z,theclassifier,0.1.0,TrueState,Apache-2.0,42096,"Natural language classification on CPU and GPU, with domain adapters and LoRA fine-tuning"
+2026-10-07T00:55:38Z,text-to-reality,0.1.0,ai-wes,MIT,476013,"Give your agent the power to build real things: parts list, printed parts, wiring, code and a picture guide anyone can follow."
+2026-10-07T01:04:24Z,rnel,0.3.0,"Maikel Yelandi Leyva-Vázquez, Florentin Smarandache",MIT,208741,A toolkit for neutrosophic evidence
+2026-10-07T01:11:00Z,aocore,0.1.2,Jacob Taylor <jacobataylor7@gmail.com>,MIT,70030,"Shared conventions, conformance checks and optics primitives for the AO simulation stack."
+2026-10-07T01:16:34Z,shikumi-contrace,0.1.0,minoru_jp,MIT,170239,"Describe the contract of a type as a standalone asset, and trace which tests relate to which clause."
