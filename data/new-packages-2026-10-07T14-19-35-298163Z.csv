@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T13:20:24Z,shipmill,0.31.1,Romamo,MIT,883014,"Issue to release on GitHub: agent skills that triage issues and land pull requests, and release lanes cut by policy from a hand-written CHANGELOG"
+2026-10-07T13:20:39Z,radmah-cli,1.3.0,ITLOX <sales@radmah.ai>,LicenseRef-Proprietary,276886,"Command-line interface for RadMah AI — synthetic data, simulation, and Agentic Data Scientist"
+2026-10-07T13:24:59Z,proteoform-regions,0.1.0,Shoaib Saadat,"MIT License Copyright (c) 2026 Shoaib Saadat Permission is hereby granted, free of charge, to any p…",504211,Proteoform-aware region inference and detection-bias quantification from bottom-up proteomics peptide tables
+2026-10-07T13:25:09Z,staryard,0.1.0,Adam Bobowski,MIT,88412,Command line for a Yard host.
+2026-10-07T13:26:17Z,gisql,0.0.1,,,1515,Placeholder. This name is used internally; do not install from PyPI.
+2026-10-07T13:26:21Z,pura-llm-sdk,0.1.0,,LicenseRef-Proprietary,23843,Official Pura LLM OAuth and delegated inference SDK
+2026-10-07T13:27:58Z,keelgate,0.1.0,The Keelgate Authors,Apache-2.0,373541,Safety-first agent harness for AI agents that touch money and regulated actions. The LLM proposes; deterministic code decides.
+2026-10-07T13:28:59Z,indian-trading-charges,0.1.1,Quantwala,MIT,28589,"Estimate brokerage, STT, GST, stamp duty and exchange charges for NSE and BSE trades (equity, intraday, futures, options)."
+2026-10-07T13:29:10Z,orionis-installer,0.1.0,,MIT,196498,Create Orionis applications with isolated Python environments.
+2026-10-07T13:30:03Z,dwrap,0.1.0,,MIT,7459,Wrap files in eponymous directories (dwrap = directory wrap)
+2026-10-07T13:30:37Z,email-extract,0.1.0,Ivan Ortega,Apache-2.0,434330,".eml extraction: headers, body views, quote boundaries, attachment manifest; deterministic, no LLM"
+2026-10-07T13:30:44Z,yandex-sdg-web-celery,66.0.3,Yandex,,1169,A package to prevent Dependency Confusion attacks against Yandex.
+2026-10-07T13:31:11Z,energyants-client,0.0.1,,,1636,Placeholder. This name is used internally; do not install from PyPI.
+2026-10-07T13:32:17Z,modelx-bridge,0.10.0,Fumito Hamamura,BSD-3-Clause AND MIT,732381,A transport-agnostic JSON protocol over modelx: the kernel side of lifelib Studio
+2026-10-07T13:36:17Z,modelx-mcp,0.1.0,Fumito Hamamura,BSD-3-Clause,187298,An MCP server that lets an AI client such as Claude Code read a live modelx session
+2026-10-07T13:38:24Z,rls-persona-tester,0.1.0,Green Analytics Ltd,RLS Persona Tester — Software License Agreement Copyright (c) 2026 Green Analytics Ltd. All rights…,45034,Automated row-level security (RLS) testing for Power BI & Fabric semantic models.
+2026-10-07T13:38:39Z,biocognia,0.1.0,Ajit Johnson Nirmal <ajitjohnson.n@gmail.com>,LicenseRef-Proprietary,117547,"The client every BioCognia product uses for licences, devices and AI credits"
+2026-10-07T13:39:48Z,spatialbridge,0.1.0,Ajit Johnson Nirmal <ajitjohnson.n@gmail.com>,LicenseRef-Proprietary,197688,"The protocol SCIMAP Pro, Plexora and other spatial tools speak to share one dataset"
+2026-10-07T13:41:01Z,bouncelayer,1.0.0,BounceLayer <support@bouncelayer.com>,,12233,Official Python SDK for BounceLayer Email Verification API
+2026-10-07T13:41:21Z,esgcalc,0.2.0,"""Dr. Dimitrios Geromichalos"" <riskdatascience@web.de>",Copyright (C) 2026 RiskDataScience GmbH This program is licensed under the GNU General Public Licen…,451979,Offline ESG calculation engine with explicit methods and transparent ratings
+2026-10-07T13:44:26Z,vnbroker,3.5.0,Pham Viet Dung <vietdungiitb@gmail.com>,LicenseRef-Proprietary,895675,A beginner-friendly yet powerful Python toolkit for financial analysis and automation — built to make modern investing accessible to everyone
+2026-10-07T13:45:25Z,archery-mcp,0.1.1,itzhouq,MIT,59914,Unofficial read-only MCP server for Archery: inspect production schema and check release SQL through your own Archery platform
+2026-10-07T13:45:38Z,aiarena-api,0.1.2,Max Nusspickel <max.nusspickel@gmail.com>,MIT,35397,An async Python client for the aiarena.net API
+2026-10-07T13:46:43Z,workerbee-sdk,1.0.0,Workerbee,Apache-2.0,54123,"Python SDK for the Workerbee platform: company workspaces, document ingestion and talent-graph chat."
+2026-10-07T13:47:09Z,blugrid-codegen,0.0.0,,,1783,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-07T13:47:12Z,pytest-blugrid-verify,0.0.0,,,1947,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-07T13:47:15Z,blugrid-network-config,0.0.0,,,1962,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-07T13:47:18Z,flow-support,0.0.0,,,1858,Name reserved by Blugrid Pty Ltd for a private package. This placeholder does nothing.
+2026-10-07T13:47:31Z,seam-debugger,0.1.0,,Apache-2.0,318769,"Debug Python and C, C++ or Rust together on Linux x86-64, including WSL."
+2026-10-07T13:48:05Z,viva-copasi,0.1.2,,MIT,61733,process-bigraph-compatible COPASI Steps and Processes (UTC + SteadyState)
+2026-10-07T13:48:32Z,artinkarimian,0.0.0,,,7889,
+2026-10-07T13:49:23Z,dlboard-client,0.2.0,David Langerman <dev.onyxzerosoftware@gmail.com>,Apache-2.0,102679,"A pytorch_lightning-compatible logger client for dlboard, a free, self-hosted experiment-tracking server."
+2026-10-07T13:49:24Z,thunc-watch,0.1.0,Hussein Eltarras,MIT,4385956,A live terminal dashboard for thunc calls and agent runs.
+2026-10-07T13:49:32Z,bltzr,0.2.2,Samiddhi,CC-BY-SA-3.0,153074,Vocabulary extraction for language learners
+2026-10-07T13:49:56Z,zephyrex,0.0.1,ZephyrexTechnologies <pypi@zephyrex.dev>,AGPL-3.0-or-later,4416239,"Extensible Python server framework with pluggable extensions, providers, and auto-generated SDK"
+2026-10-07T13:51:49Z,py-opensourceris-utils,0.0.6,Malte Eggers,AGPL-3.0-or-later,34652,py-opensourceris-utils...
+2026-10-07T13:52:45Z,memiq,0.0.1,Fabio Sabatini,MIT,1753,Name reserved. Organizational memory / RAG context layer for AI coding agents — full release coming later.
+2026-10-07T13:53:30Z,memika,0.0.1,Fabio Sabatini,MIT,1764,Name reserved. Organizational memory / RAG context layer for AI coding agents — full release coming later.
+2026-10-07T13:54:11Z,nanotimesort,1.0.0,Marc-Olivier Duceppe <duceppemo@gmail.com>,"MIT License Copyright (c) 2019 Marc-Olivier Duceppe Permission is hereby granted, free of charge, t…",24595,Bin Oxford Nanopore reads by cumulative sequencing time intervals (Guppy and Dorado compatible)
+2026-10-07T13:56:44Z,tanod,0.1.0,Tanod <ops@tanod.dev>,MIT,55356,"Python client for Tanod: pay-per-call security tools for AI agents (contract scan, address risk, MCP/skill package scan, chain reads), paid with x402 USDC on Base. Free daily tier, no signup."
+2026-10-07T13:56:48Z,langchain-tanod,0.1.0,Tanod <ops@tanod.dev>,MIT,27702,"LangChain tools for Tanod: address risk checks, smart-contract scans, MCP/skill package scans, web/DNS/chain reads for AI agents. Pay per call with x402 (USDC on Base); free daily tier, no signup."
+2026-10-07T13:58:31Z,lh2dt-models,0.1.1,LH2DT contributors,MIT,398912,"First-principles liquid-hydrogen component, equipment, and network models"
+2026-10-07T14:03:49Z,remgu,0.1.0,Mstislav Maslennikov <ml.arch@inbox.ru>,Apache-2.0,60471,Experiment lifecycle management for reproducible ML research
+2026-10-07T14:04:15Z,tgup-cli,0.2.0,,,19368,"Upload files to a Telegram channel and use it as a drive (parallel transfers, auto split/merge past the size limit)"
+2026-10-07T14:04:30Z,terragrids,0.0.1,Terragrids,Apache-2.0,13242,Population-weighted heat exposure for the areas where health data is recorded (pre-release placeholder).
+2026-10-07T14:04:30Z,x2llm,0.1.0,,,78165,"Read-only x.com (Twitter) API client for LLM agents: library, CLI, and stdio MCP server"
+2026-10-07T14:07:53Z,vibemeeting,0.1.0,VibeMeeting contributors,Apache-2.0,25989628,可自行部署的网页会议系统，支持音视频、屏幕共享和会议录制
+2026-10-07T14:08:11Z,curupira,0.1.0,Mario Taddeucci,MIT,454848,Dispatch GitHub and cron tasks to local AI coding agents
+2026-10-07T14:08:22Z,medmodels-cli,0.1.0,,,39979085,The MedModels CLI for license management
+2026-10-07T14:15:25Z,pybotx-registration,0.1.0,,,121897,Secure BotX secret-delivery protocol implementation for pybotx bots
+2026-10-07T14:15:30Z,codefetch-cli,1.2.0,Inzamamul Qureshi,MIT,20452,Quickly fetch code files from GitHub repositories with simple commands
+2026-10-07T14:18:20Z,aipc-sysik,1.1.1,,MIT,257004,AiPC by SYSIK — full agent access to the PC. (MCP + CLI)
+2026-10-07T14:18:41Z,bayesdecay,0.1.0,Romain Coulon <romain.coulon2@gmail.com>,MIT,60739,"Bayesian estimation of radioactive half-life, activity, and background from counting data, with dead-time correction."
