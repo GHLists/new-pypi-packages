@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 27,
-    "from": "2026-10-07T09:20:27.982328Z",
-    "path": "data/new-packages-2026-10-07T10-20-56-11608Z.csv",
-    "to": "2026-10-07T10:20:56.11608Z"
+    "count": 32,
+    "from": "2026-10-07T10:20:56.11608Z",
+    "path": "data/new-packages-2026-10-07T11-18-38-281324Z.csv",
+    "to": "2026-10-07T11:18:38.281324Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-07T09:01:21Z",
       "package": "federated-agent-kits",
       "since": "2026-10-07T08:19:14.537129Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-07T10:13:37Z",
       "package": "slashid-ai-forwarders-codex",
       "since": "2026-10-07T09:20:27.982328Z"
     }
   ],
-  "serial": 41918572,
+  "serial": 41920533,
   "source_truncated": false,
-  "window": "2026-10-07T10:20:56.11608Z"
+  "window": "2026-10-07T11:18:38.281324Z"
 }

@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T10:23:35Z,slashid-ai-forwarder-codex,0.1.1,SlashID,Apache-2.0,163222,Codex managed hook and per-user daemon: preflight verdicts and rollout events for SlashID NHI
+2026-10-07T10:24:15Z,myra-linux,0.1.2,Vikash Kumar <support@codeninjavik.in>,,11655614,"MYRA AI Assistant for Linux — same desktop UI, Gemini Live voice, 148+ languages and Linux system control."
+2026-10-07T10:25:15Z,react-bio-viz,0.1.0,,MIT,322696,"Jupyter widgets for biological data visualization: multiple sequence alignments, phylogenetic trees, gene models, genome browser tracks, and BLAST hit distributions"
+2026-10-07T10:29:12Z,ghostrate,1.0.2,Jawad Amin,MIT,13355,Audio Steganography & Forensic Tool — Hide and reveal spoken messages in music
+2026-10-07T10:32:28Z,distributed-task-engine,0.1.0,Task Engine Team,MIT,2344433,Event-Driven Distributed Task Processing Engine v5.0
+2026-10-07T10:37:32Z,digichem-library,8.0.0,"""Oliver S. Lee"" <osl@digi-chem.ac.uk>","Copyright 2026 Digichem Redistribution and use in source and binary forms, with or without modifica…",6197185,Open-source library for Digichem
+2026-10-07T10:39:43Z,tokenorama,0.0.1,,Apache-2.0,10518,Always-on tracker for AI subscription quota. Early placeholder release.
+2026-10-07T10:42:54Z,libheif-binary,1.23.6.0,,,47184526,"Prebuilt libheif, codecs and command-line tools"
+2026-10-07T10:43:21Z,hoimin,0.1.19,,Elastic-2.0,18974743,Bounded mutation testing for focused Python changes
+2026-10-07T10:43:38Z,repolens-engineering,0.1.1,,Apache-2.0,128837,Evidence-based repository engineering-quality analysis
+2026-10-07T10:45:44Z,anyinit,0.1.0,"""Jose I. Mestre"" <jmiravet@uji.es>, Alberto Fernández-Hernández <a.fernandez@upv.es>",MIT,216725,"Initialize any model, in any framework, correctly — with one call"
+2026-10-07T10:47:05Z,metalcyte,0.3.0,Tran Thai Huu Loc,MIT,5830211,"Fast single-cell RNA-seq analysis on Apple silicon Macs, with GPU support and datasets larger than memory"
+2026-10-07T10:47:21Z,bactoscoop,0.1.0,Bart Steemans,MIT,190897,Single-cell feature extraction from multichannel bacterial microscopy images
+2026-10-07T10:48:31Z,nonce-watchtower,0.3.0,clawboriclaw,MIT,231766,"Read-only monitor for Solana durable-nonce accounts, token delegates and authorities held by a set of keys."
+2026-10-07T10:51:33Z,sewlore-fabric-care,0.1.0,Sewlore,MIT,35339,"Local, bounded CSV validation and signed fabric-care calculations."
+2026-10-07T10:51:46Z,keymeter,0.1.0,Do Pham Bao Hoang,MIT,95752,"Live spend, budget and burn-rate dashboard for one LiteLLM or OpenRouter API key, in the browser or the terminal."
+2026-10-07T10:52:01Z,studytrails,0.2.0,,MIT,81129,"A personal multi-subject AI study coach with tools, local progress, and an offline demo."
+2026-10-07T10:54:12Z,emsal-mcp,1.1.0,Alpaslan Fatih Sözer,AGPL-3.0-only,1041448,Citation-safe MCP hukuk araştırma ve belge hazırlık sistemi
+2026-10-07T10:54:15Z,qttl,0.1.0,,GPL-3.0-or-later,53070,"Interactive timeline viewer for CSV data, built on PyQt6 QGraphics"
+2026-10-07T10:56:21Z,ajantik,0.1.1,Berk Kaynas,Apache-2.0,300902,A crash test for AI agents: what does your agent tell you when its tools lie or fail?
+2026-10-07T10:57:17Z,ithmb-codec,1.9.10,B67687,MIT,2089302,Python bindings for Ithmb-Codec — decode Apple .ithmb thumbnail files
+2026-10-07T10:58:00Z,doordash-dashpilot-mcp,0.1.5,,MIT,99540,"DoorDash Drive automation for AI agents — quote, dispatch, track, schedule, and batch deliveries for restaurants (unofficial)"
+2026-10-07T11:03:00Z,onejev,0.1.1,,Apache-2.0,105310,"Open System One decision model: typed, calibrated decisions behind a TypeSafe-compatible API"
+2026-10-07T11:03:17Z,lingotweaker-data-km,0.1.5,,LGPL-2.1-or-later,1033197,LingoTweaker runtime data for language 'km'
+2026-10-07T11:08:01Z,abhijan,0.1.0,abhijan,,10871,Project bootstrapper for SQLAlchemy + Alembic
+2026-10-07T11:09:30Z,fielddash,0.1.1,André Moura Lima,MIT,75536,Schema-driven dashboards for field data collection (Epicollect5).
+2026-10-07T11:10:37Z,af-credmon,0.1.1,Giordon Stark <kratsg@gmail.com>,Apache-2.0,111568,HTCondor credmon that exchanges AF MCP broker top tokens for per-user x509/krb5/ServiceX credentials on worker nodes
+2026-10-07T11:11:42Z,dirigent-integration,0.23.2,,LicenseRef-Proprietary,157746,"The control center for the dirigent plugin ecosystem: assemble every pack, run everyone's tests and examples together."
+2026-10-07T11:12:21Z,mplsixel,1.0.1,,,13697,show matplotlib plots directly in your sixel-enabled terminal
+2026-10-07T11:13:02Z,cvf,1.0.0,Suleiman,MIT,11822,Console Video File - ASCII video format for the terminal
+2026-10-07T11:17:07Z,carmaker-mcp,0.1.0,Dimitrios Ioannidis,MIT,175241,"MCP server that lets an AI agent drive IPG CarMaker for Simulink: run test runs, edit vehicle/driver/test-run data and Simulink parameters, read results."
+2026-10-07T11:17:27Z,haadic,0.6.0,Patarimi,,138902,A package for parametric layout design.
