@@ -1,25 +1,12 @@
 {
   "list": {
-    "count": 39,
-    "from": "2026-10-07T05:18:36.173653Z",
-    "path": "data/new-packages-2026-10-07T06-21-51-351614Z.csv",
-    "to": "2026-10-07T06:21:51.351614Z"
+    "count": 30,
+    "from": "2026-10-07T06:21:51.351614Z",
+    "path": "data/new-packages-2026-10-07T07-19-24-27291Z.csv",
+    "to": "2026-10-07T07:19:24.27291Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-10-07T02:59:01Z",
-      "package": "motedb",
-      "since": "2026-10-07T02:19:03.726221Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-07T06:17:29Z",
-      "package": "wherobots-dbt",
-      "since": "2026-10-07T05:18:36.173653Z"
-    }
-  ],
-  "serial": 41912003,
+  "pending": [],
+  "serial": 41913234,
   "source_truncated": false,
-  "window": "2026-10-07T06:21:51.351614Z"
+  "window": "2026-10-07T07:19:24.27291Z"
 }

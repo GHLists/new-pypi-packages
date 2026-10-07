@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T06:17:29Z,wherobots-dbt,0.1.0,Wherobots <support@wherobots.com>,Apache-2.0,168233,The Wherobots adapter plugin for dbt
+2026-10-07T06:26:52Z,cryptsmith,0.1.0,Jake Burre,MIT,28357,Crypto attack primitives and analysis toolkit for CTF players and security researchers. Zero dependencies.
+2026-10-07T06:26:52Z,permitprobe,0.1.1,Chorolee,Apache-2.0,69281,"Repeatable API, response-data, and AI handoff boundary checks"
+2026-10-07T06:26:58Z,flaghunter,0.1.0,Jake Burre,MIT,18376,CTF crypto autosolver and pcap hunter. Point it at a challenge file or packet capture and it runs a full attack battery for you.
+2026-10-07T06:29:16Z,akasha-mcp,0.0.2,Ahmad Nur Salim,MIT,250396,"A local knowledge base for your coding agents, served over MCP."
+2026-10-07T06:29:48Z,volcenginesdk-veiapi,0.0.1,volc-engine,Apache License 2.0,998,Name reservation for the Volcengine Python SDK split package volcenginesdk-veiapi
+2026-10-07T06:29:54Z,volcenginesdk-vepfs,0.0.1,volc-engine,Apache License 2.0,990,Name reservation for the Volcengine Python SDK split package volcenginesdk-vepfs
+2026-10-07T06:30:01Z,volcenginesdk-vikingdb,0.0.1,volc-engine,Apache License 2.0,1012,Name reservation for the Volcengine Python SDK split package volcenginesdk-vikingdb
+2026-10-07T06:30:07Z,volcenginesdk-vke,0.0.1,volc-engine,Apache License 2.0,974,Name reservation for the Volcengine Python SDK split package volcenginesdk-vke
+2026-10-07T06:30:35Z,vnuli,0.1.0,,,448403,Vnuli tools for AI-assisted physical engineering investigation.
+2026-10-07T06:32:12Z,cloxy,5.1,,MIT,109043,"Give your local AI eyes and memory — web proxy, self-maintaining conversation memory, MCP server, and an Apple Silicon LLM in one process."
+2026-10-07T06:38:32Z,solidx-agenthub-runtime,0.1.0,,,250574,SolidX AgentHub agent loop and runtime
+2026-10-07T06:38:48Z,hugpy-browser,0.2.0,,,1843443,"Screen-driven browser control for bots, standalone and trainable: the browser-perfect engine (verbatim copy of the abstract-toolserver 0.0.70 browser stack), the operator guide, the benchmark kit and…"
+2026-10-07T06:39:47Z,money-mom,0.1.0a4,Money Mom contributors,MIT,267213,"Money Mom: an append-only, double-entry ledger engine and skill for AI agents. Local-first, never guesses."
+2026-10-07T06:40:33Z,quilchoom,0.1.0,Janitha Manatunga,Apache-2.0,101081,Turn development history into traceable project knowledge and documentation.
+2026-10-07T06:49:34Z,zombiecost,0.1.0,,MIT,35223,Find zombie AWS resources: idle and forgotten things that should be dead but still bill you every month.
+2026-10-07T06:50:33Z,inboost-ai-proxy,0.3.0,InBoost Technologies,InBoost Free Community Software License v1.1,4266082,"Local inference proxy and reliability gateway for Claude Code, Cursor, OpenHands, and Cline"
+2026-10-07T06:50:36Z,inboost-proxy,0.3.0,InBoost Technologies,InBoost Free Community Software License v1.1,4266050,"Local inference proxy and reliability gateway for Claude Code, Cursor, OpenHands, and Cline"
+2026-10-07T06:51:45Z,css-experiments,0.1.0,Rashi,MIT,12466,"Cryptography lab experiments (Caesar + ROT13 + Atbash, Rail Fence, RSA, Diffie-Hellman). Copies the code into your current folder on demand."
+2026-10-07T06:56:16Z,kaneza-python-package,0.1.0,Kaneza Amandine,MIT,4834,A simple Python package
+2026-10-07T06:56:52Z,do-again,0.1.0,Steven Tran,"MIT License Copyright (c) 2026 Steven Tran Permission is hereby granted, free of charge, to any per…",48176,Policy-controlled local execution for agent-driven development workflows
+2026-10-07T07:02:46Z,feature-flow-cli,0.1.0,,MIT,159558,A ticket-graph workflow for coding agents: installs the feature-flow skill into a repo
+2026-10-07T07:10:06Z,http-prompt-reloaded,1.0.0,tastenkasperle <chailfinger@gmail.com>,MIT,20538,Stateful interactive HTTP REPL and Agentic MCP engine for API navigation and testing.
+2026-10-07T07:10:23Z,nak-package,1.0.0,NAK Developer <nakdeveloper@gmail.com>,MIT,5056,A sample Python package by NAK Developer
+2026-10-07T07:10:59Z,py2axum,0.1.0,Larry Motalavigne,Apache-2.0,871074,"Ahead-of-time compiler from FastAPI + SQLAlchemy + Pydantic applications to Rust (axum), with response-level conformance testing"
+2026-10-07T07:11:26Z,IMoTE,0.0.0,"Flor Debois <flor.debois@uantwerpen.be>, Thomas Servotte <thomas.servotte@uantwerpen.be>, Jakob Ray…",MIT,3849618,"IMoTE: Interactive MOdel Tree Explorer, an interactive app to visualise and explore linear model trees"
+2026-10-07T07:12:01Z,oopsh,1.0.0,Giorgio Di Falco,MIT,249169,Corrects your previous console command. A maintained fork of thefuck.
+2026-10-07T07:14:36Z,SSONAL-pkg,0.1.0,SSONALGUPTA,MIT,5099,"A Python module containing functions for factorial, prime number, Armstrong number, sum of digits, and reverse of a number"
+2026-10-07T07:17:43Z,bouwmeester-lockbox-api,0.1.0,,AGPL-3.0-only,51590,Python client for the Bouwmeester Lab Lockbox REST API
+2026-10-07T07:18:26Z,abom,0.0.2,,"MIT License Copyright (c) 2026 YanChao1999 Permission is hereby granted, free of charge, to any per…",35320,"Agent bill of materials manager for skills, prompts, MCP servers, and packages."
