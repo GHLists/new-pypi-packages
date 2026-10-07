@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T09:01:21Z,federated-agent-kits,0.2.2,Felix Tschindler,MIT,69491,"Subscribe to agent kits from wherever they live, and render them where each harness looks"
+2026-10-07T11:19:12Z,pycaw-stubs,20260927.20261008,AmN,MIT,24220,Typing stubs for pycaw
+2026-10-07T11:22:38Z,locata-torch,0.1.0,taishi-n,Apache-2.0,221853,Read LOCATA audio and independent annotations with PyTorch datasets
+2026-10-07T11:23:45Z,gzn_agentic_terminal,0.1.1,Mohammad Gazanfar Ansari <mohammadgazanfaransari@gmail.com>,,5472,An MCP which adds terminal capabilities to an agent.
+2026-10-07T11:25:10Z,lingotweaker-data-ltu,0.1.5,,LGPL-2.1-or-later,815837,LingoTweaker runtime data for language 'lt'
+2026-10-07T11:25:12Z,cellenium,0.2.1,,,353378,Playwright browser automation with a Google Sheets Page Object Model and CrewAI vision analysis
+2026-10-07T11:25:17Z,lingotweaker-data-ml,0.1.5,,LGPL-2.1-or-later,1176063,LingoTweaker runtime data for language 'ml'
+2026-10-07T11:25:33Z,lingotweaker-data-nl,0.1.5,,LGPL-2.1-or-later,36822526,LingoTweaker runtime data for language 'nl'
+2026-10-07T11:26:21Z,energyants,0.0.1,,,1561,Placeholder. This name is used internally; do not install from PyPI.
+2026-10-07T11:29:55Z,docx-repro,0.1.2,capt1nedev,MIT,53077,Reduce DOCX parser bug reports while preserving a user-defined symptom.
+2026-10-07T11:34:45Z,ovynox-sdk,0.1.0,,MIT,13831,Ovynox SDK: policy/probation checks and reputation-weighted disputes for AI agent payments.
+2026-10-07T11:36:32Z,mlcagent,0.2.0b1,MLCA contributors,CC-BY-NC-ND-4.0,1056445,"Guided, event-based machine learning workflows with recorded provenance"
+2026-10-07T11:37:12Z,inflectg2p,0.1.0,inflectg2p contributors,Apache-2.0,67899,Inflect v2 phoneme and token-ID frontend for prepared English text
+2026-10-07T11:43:43Z,st-language,2.7.0,Sergio Scolaro,GPL-3.0-or-later,339405,"ST-language: text music notation (notes, chords, drums, voices, lyrics) with MIDI, MusicXML, ABC and MTXT export"
+2026-10-07T11:44:02Z,llm-route-audit,0.1.1,Muhammad Idnan,MIT,187641,"Find out whether LLM model routing saves money without hurting quality, on your own traffic."
+2026-10-07T11:46:50Z,security-scanner-deepsleuth-mcp,1.0.4,DeepSleuth <338080601+DeepSleuth@users.noreply.github.com>,Apache-2.0,661966,Deepsleuth — read the fine print. Deterministic deep-visibility security scanner for MCP servers (no LLM).
+2026-10-07T11:47:35Z,libcalibre,0.1.0,Valentin Dusserre,MIT,68600,"Conformal forecasting: point forecasts, hierarchy reconciliation, and calibrated bands."
+2026-10-07T11:48:13Z,angineer-core,0.1.1,AnGIneer Team,MIT,345302,AnGIneer core service - AI Engineer Operating System Core Module
+2026-10-07T11:48:42Z,hypequery,0.0.1.dev0,Hypequery,Apache-2.0,2549,Name reservation — the Hypequery Python SDK (datasets + serve) is in development.
+2026-10-07T11:51:44Z,chicago-charter-bus-rental,1.0.0,Chicago Super Coach,MIT,5145,Reference constants for Chicago Charter Bus Rental and group travel in Chicago.
+2026-10-07T11:52:40Z,odoo-addon-social-media-advertising-linkedin,17.0.1.0.0.1,"Binhex, Odoo Community Association (OCA)",AGPL-3,301616,"LinkedIn Ads campaigns, campaign groups and sponsored creatives"
+2026-10-07T11:53:27Z,konstruktor,0.16.1,,MIT,31944345,"Create and manage Arkitekt deployments — the konstruktor CLI, and a Python interface to it."
+2026-10-07T11:59:30Z,smelt-cli,0.1.1,Mathis Arends,,163287,Static guardrails for Python codebases maintained by humans and coding agents.
+2026-10-07T12:01:46Z,inventree-currency-exchange-ng,0.2.0,Pavlo Bashynskyi <levonet@gmail.com>,MIT,8951,Currency exchange integration
+2026-10-07T12:02:27Z,cordium-sdk,0.2.0,Octelium <contact@octelium.com>,Apache-2.0,149940,The synchronous and asynchronous Python SDK for Cordium workspaces
+2026-10-07T12:03:52Z,radmatch,0.2.1,Raidium,Apache-2.0,494761,Auditable Radiology Report Evaluation via Finding-Level Matching
+2026-10-07T12:06:10Z,typst-pkg-sync,0.1.1,Jan-Philipp Reßler,MIT,16693,"Sync tagged Typst packages from GitHub, GitLab, and Codeberg"
+2026-10-07T12:06:53Z,pergamon-bench,0.8.0,Pergamon,Apache-2.0,141064,"Pergamon Bench: the OpenCode agent wrapper for Harbor, with the grader and job configurations"
+2026-10-07T12:08:06Z,classresults,0.1.0,Thomas BOBEE,MIT,9487,
+2026-10-07T12:09:13Z,veida-haystack,0.1.0,Veida,MIT,6482,"Haystack component for Veida AI image generation, usable with no API key"
+2026-10-07T12:15:30Z,neudecide,0.0.1a1,neuphonic <general@neuphonic.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",37943,NeuDecide - a tiny voice-action model.
+2026-10-07T12:15:33Z,anzei,0.0.1,Anzei <tony@anzei.io>,MIT,3606,Anzei: reliability testing for robot manipulation policies. Name reserved; not yet publicly available.
+2026-10-07T12:19:04Z,attnrank,0.1.0,Pham Long <phamlong12082001@gmail.com>,MIT,127661,"AttnRank: attention-basin layer selection, attention profiling and training-free reranking on a CUDA Llama engine"
+2026-10-07T12:19:57Z,banana-img,0.1.0,Ryan Ellis <support@banana-img.com>,MIT,8348,Official client SDK and utilities for Banana Img - Free Nano Banana AI Image Generator (https://banana-img.com)
