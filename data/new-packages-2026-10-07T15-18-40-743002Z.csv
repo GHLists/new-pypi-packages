@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T14:19:43Z,cirrusnetworks-lattice,0.0.1,,,3589,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-07T14:19:57Z,cirrusnetworks-manifest,0.0.1,,,3616,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-07T14:20:09Z,cirrusnetworks-ontracksync,0.0.1,,,3637,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-07T14:20:21Z,cirrusnetworks-pythia,0.0.1,,,3553,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-07T14:21:11Z,odds-tools,0.1.0,SportAPI,MIT,30411,"Dependency-free betting odds math: format conversion, margin and no-vig fair odds, accumulators, system bets, Kelly staking, EV and arbitrage."
+2026-10-07T14:21:19Z,sportapi,0.1.0,SportAPI,MIT,296594,"Official Python client for the SportAPI Sport Line API: Prematch and Live sports odds, scores and statistics."
+2026-10-07T14:21:53Z,polen,0.0.1,"""Renato D. Cunha"" <renato.cunha8@gmail.com>",LGPL-3.0-or-later,32762,POLEN: polarizable embedding of neural-network potentials (ML/MM with mutually polarizable AMOEBA embedding for OpenMM). Placeholder release; under active development.
+2026-10-07T14:22:06Z,make-localllm-easier,0.1.0,,MIT,38805,"One command runs the best local AI your PC can handle: measured model picks + a tuned llama.cpp (AMD, NVIDIA, Intel, Apple)"
+2026-10-07T14:22:58Z,nonebot-plugin-yukikaze,0.1.0,hyouryo,,5919016,插件描述
+2026-10-07T14:23:22Z,openmm-polen,0.0.1,"""Renato D. Cunha"" <renato.cunha8@gmail.com>",LGPL-3.0-or-later,32879,POLEN: polarizable embedding of neural-network potentials (ML/MM with mutually polarizable AMOEBA embedding for OpenMM). Placeholder release; under active development.
+2026-10-07T14:27:13Z,statusbeat,0.1.0,,MIT,12467,"Uptime and shard monitoring for Discord bots, from Statusbeat."
+2026-10-07T14:27:13Z,verifyci,0.1.0,VerifyCI Contributors,MIT,3612456,"Deterministic, local-first code verification for agentic pull requests and diffs"
+2026-10-07T14:27:15Z,tarka-rdf,0.1.0,Peter Winstanley,MIT OR Apache-2.0,39273589,Turn Polars data frames and CSV into RDF with TARQL queries or OTTR templates
+2026-10-07T14:29:23Z,llvq-tetra,0.1.0,Pier-Jean Malandrino,Apache-2.0 OR MIT,339315,"Read a Tetra-quantized LLVQ model in transformers, still compressed in memory"
+2026-10-07T14:29:48Z,krite-bench,0.1.0,,Apache-2.0,53626,Benchmark harness that measures any /v1/systemone engine under docs/benchmark-spec.md
+2026-10-07T14:30:42Z,arc56-generated-loafp-8def3e73,1.1.2026100714,LoafPickleWW,,48260,Generated ARC-56 Algorand smart-contract clients for LoafPickleWW/wen-tools.
+2026-10-07T14:31:12Z,clickhouse-users-cli,0.1.3,,MIT,39229,CLI interativa para criar usuarios ClickHouse com privilegio minimo (least privilege)
+2026-10-07T14:31:48Z,tempmail10min,1.0.0,Alfaz Mahmud Rizve <alfaz@temp-mail10min.online>,MIT,8998,"Official Python SDK for TempMail10min - High-speed, anonymous disposable temporary email API with customizable 5-30m lifespans."
+2026-10-07T14:31:54Z,krite-train,0.1.0,,Apache-2.0,51127,"Training code for Krite architecture studies (torch, MPS)"
+2026-10-07T14:35:16Z,sportapi-mcp,0.1.0,SportAPI,MIT,53585,"MCP server for SportAPI: Live and Prematch sports odds, scores and statistics for Claude, Cursor, VS Code and other AI assistants."
+2026-10-07T14:35:39Z,arc56-generated-devnd-fa021c88,1.2.2026072010,devndesigner6,,20433,Generated ARC-56 Algorand smart-contract clients for devndesigner6/saveup.
+2026-10-07T14:36:44Z,arc56-generated-devnd-1c5c4323,1.2.2026072010,devndesigner6,,74380,Generated ARC-56 Algorand smart-contract clients for devndesigner6/unsubly.
+2026-10-07T14:37:49Z,arc56-generated-dhush-28e1f1d1,1.2.2026072010,DhushyanthE,,39768,Generated ARC-56 Algorand smart-contract clients for DhushyanthE/leviathancoin.
+2026-10-07T14:38:11Z,jvp-flash-attention-lucidrains-fork,0.0.1,"Phil Wang <lucidrains@gmail.com>, Alex Morehead <alex.morehead@gmail.com>","MIT License JVP Flash Attention (jvp_flash_attention) Copyright (c) 2025, The Regents of the Univer…",72465,Flash Attention Triton kernel with support for second-order derivatives (Lucidrains fork)
+2026-10-07T14:38:22Z,profileferry,0.1.0,,,102482,Agent distribution CLI and internal intermediate representation for portable custom agents
+2026-10-07T14:38:53Z,naijacloud-email,0.3.0,Naija Cloud <support@naijacloud.com>,"MIT License Copyright (c) 2026 NaijaCloud Permission is hereby granted, free of charge, to any pers…",94913,"Official Python SDK for Naijamail, Naija Cloud's transactional email API."
+2026-10-07T14:39:27Z,nativerelay,0.1.0,,,13065,Local-first normalized native OS telemetry
+2026-10-07T14:39:55Z,pyterrier-tar,0.1.1,Aaron Fletcher,MPL-2.0,327044,Replay-only technology-assisted-review stopping extensions for PyTerrier
+2026-10-07T14:43:38Z,inboxink,0.1.0,Shahrum Amiri,MIT,138569,"Read your newsletters and Substacks on your e-reader, cleaned of ads and trackers and away from your inbox."
+2026-10-07T14:43:52Z,cathedralpkg-pilgrim,0.0.1.post1,David Ferro-Costas,MIT,2737,Placeholder for the PyPI release of Pilgrim (github.com/cathedralpkg). Not yet functional; use the GitHub version.
+2026-10-07T14:46:45Z,appearsin-cli,0.1.0,AppearsIn <hello@rs.appearsin.com>,,21015,AppearsIn command line and MCP server. Calls the AppearsIn /api/v1 only.
+2026-10-07T14:46:48Z,decidus,0.0.1,hakimkse,,2038,Add your description here
+2026-10-07T14:47:34Z,openmlcore,1.0.0,Doyez Sébastien <doyez.sebastien34090@gmail.com>,"MIT License Copyright (c) 2026 Votre Nom Permission is hereby granted, free of charge, to any perso…",28437,OpenMLCore is an open source framework (wrapper which simplify the use of PyTorch)
+2026-10-07T14:48:24Z,noetrail,0.10.0a1,Patrick Schiffler,Apache-2.0,751685,Noetrail: a local-first Markdown knowledge vault with narrow AI-agent interfaces
+2026-10-07T14:48:59Z,crawlbm,0.1.0,Brendan Boyd,MIT,22750,A simple 2D Lattice Boltzmann Method (LBM) fluid solver
+2026-10-07T14:50:05Z,livery-extensions-clang-tidy,0.0.0,Willem Kokke,MIT,13420,"clang-tidy as a check of the livery workshop: each cpp package's sources, judged by its own .clang-tidy over its build's compilation database."
+2026-10-07T14:50:05Z,livery-extensions-pyrefly,0.0.0,Willem Kokke,MIT,7524,"pyrefly as a check of the livery workshop: the type checker over every platform at once, configured by the root pyrefly.toml."
+2026-10-07T14:50:05Z,livery-extensions-pytest,0.0.0,Willem Kokke,MIT,9954,"pytest as a check of the livery workshop: each python package's suite and documentation examples, configured by the root pytest.toml and .coveragerc."
+2026-10-07T14:50:05Z,livery-extensions-ruff,0.0.0,Willem Kokke,MIT,9026,"Ruff as a check of the livery workshop: the formatter and the linter, configured by the root ruff.toml."
+2026-10-07T14:51:03Z,bfocus-monitor,0.1.2,Berni Software <tecnologia@bernisoftware.com.br>,MIT,47187,"Monitoramento de erros do bFocus para Python: captura os erros não tratados e manda para o bFocus, onde viram demanda."
+2026-10-07T14:51:46Z,hydra-fast,0.1.0,the hydra-fast authors,MIT,325125,"Hydra-compatible config composition, 10-100x faster, with process-wide file caching"
+2026-10-07T14:51:48Z,vantadb-crewai,0.5.0,VantaDB Team,Apache-2.0,19742,CrewAI adapter for VantaDB — embedded vector memory for AI agents
+2026-10-07T14:51:49Z,vantadb-dspy,0.5.0,VantaDB Team,Apache-2.0,9935,DSPy adapter for VantaDB — embedded vector memory for AI agents
+2026-10-07T14:51:50Z,vantadb-haystack,0.5.0,VantaDB Team,Apache-2.0,16045,Haystack adapter for VantaDB — embedded vector memory for AI agents
+2026-10-07T14:51:51Z,vantadb-langchain,0.5.0,VantaDB Team,Apache-2.0,30482,LangChain adapter for VantaDB — embedded vector memory for AI agents
+2026-10-07T14:53:50Z,den-drop,0.1.0,Dol0resH8ze,MIT,61032,Experimental self-hosted encrypted file handoffs for the terminal
+2026-10-07T14:56:02Z,castrook,0.5.0,Castrook,MIT,64091,Typed sync and async Python client for the Castrook social publishing API
+2026-10-07T14:56:04Z,capabilities-contract,0.1.0,ai-cluster-one,Apache-2.0,32288,"The shared database layer of the capabilities contract: read the machine's store setting, connect bound to its schema, and migrate each owner's tables once under a ledger."
+2026-10-07T14:59:22Z,tutor-contrib-clickhouse-log-retention,0.1.0,Emad Ehsanrad,AGPL-3.0-only,40004,"ClickHouse system log retention (TTL, profiler off) for Cairn and Aspects, a plugin for Tutor"
+2026-10-07T15:00:36Z,arxiv-fetch,0.1.0,,,2652,"Download an arXiv paper's PDF, source files, and abstract into a local directory"
+2026-10-07T15:02:39Z,ab-plumber,0.1.0,Austin Breunig,"MIT License Copyright (c) 2026 plumber contributors Permission is hereby granted, free of charge, t…",176847,A geospatial pipeline framework: phase functions run by a swappable execution strategy.
+2026-10-07T15:05:29Z,cookielessaudiences,1.0.0,Alpha Quantum,MIT,12820,"Python client for the Cookieless Audiences API: page-level audience segmentation (demographics, interests, purchase intent, B2B firmographics, personas) and IAB content categorization for any URL, wi…"
+2026-10-07T15:05:51Z,resumereaderapi,1.0.0,Alpha Quantum,MIT,12398,"Python client for the Resume Reader API: parse PDF, DOCX and scanned resumes into 114 structured JSON fields, and normalize job titles, skills and locations."
+2026-10-07T15:06:14Z,acquisitionuniverse,1.0.0,Alpha Quantum,MIT,12883,"Toolkit for acquisition target screening: write a thesis brief, rank screened companies with a weighted composite that zeroes out group-owned targets, and measure signal coverage across the 15 common…"
+2026-10-07T15:10:31Z,pyimgaug,0.5.0,Alexander Jung,MIT,1913825,Image augmentation library for deep neural networks
+2026-10-07T15:13:57Z,make-azure,0.2.0,"""Optersoft, S.L."" <david@optersoft.com>",MIT OR Apache-2.0,42140,"Azure tasks for mkrun -- sign in with azure-identity, and create a free-tier virtual machine with nothing billed left behind."
