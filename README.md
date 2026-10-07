@@ -8,29 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 04:19 UTC
+## Latest list — 2026-10-07 05:18 UTC
 
-New packages created between 2026-10-07 03:19 UTC and 2026-10-07 04:19 UTC.
+New packages created between 2026-10-07 04:19 UTC and 2026-10-07 05:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-07T04-19-28-109849Z.csv)
+[Full CSV](data/new-packages-2026-10-07T05-18-36-173653Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-07 03:20:41 | [ai-hacking-defense](https://pypi.org/project/ai-hacking-defense/) | 0.1.1 |  | 53.0 kB | Non-intrusive, zero-exfiltration personal security self-audit for the AI-hackin… |
-| 2026-10-07 03:25:06 | [conduct-agent-guard](https://pypi.org/project/conduct-agent-guard/) | 0.1.0 | Conduct AI <hello@conductai.a… | 19.8 kB | Runtime governance for AI agents. Conduct Guard on every tool call in Claude Ag… |
-| 2026-10-07 03:36:37 | [vnpy_massive](https://pypi.org/project/vnpy_massive/) | 1.0.0 | Xiaoyou Chen <xiaoyou.chen@ma… | 15.5 kB | Massive REST API datafeed for VeighNa quant trading framework. |
-| 2026-10-07 03:40:56 | [verity-cli](https://pypi.org/project/verity-cli/) | 1.3.0 | verity ops | 21.1 kB | verity - push any folder to your AI web app with one command; ghost-type prompt… |
-| 2026-10-07 03:47:14 | [haanim](https://pypi.org/project/haanim/) | 0.2.0 | valsr | 307.2 kB | Python automations for Home Assistant: the HAAnim engine and its test harness |
-| 2026-10-07 03:48:34 | [cipher-cloud](https://pypi.org/project/cipher-cloud/) | 0.0.0a0 | Enigmata, Inc. | 911 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-07 03:49:05 | [enigmata-cipher-databricks](https://pypi.org/project/enigmata-cipher-databricks/) | 0.0.0a0 | Enigmata, Inc. | 922 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-07 03:49:07 | [enigmata-cipher-sagemaker](https://pypi.org/project/enigmata-cipher-sagemaker/) | 0.0.0a0 | Enigmata, Inc. | 923 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-07 03:49:08 | [enigmata-sentinel-cli](https://pypi.org/project/enigmata-sentinel-cli/) | 0.0.0a0 | Enigmata, Inc. | 921 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-07 03:51:34 | [skillverify](https://pypi.org/project/skillverify/) | 0.1.0 |  | 600.0 kB | Agent Skill 生命周期验证套件（个人小团队版，宿主无关） |
-| 2026-10-07 03:56:07 | [deutero](https://pypi.org/project/deutero/) | 0.2.0 | Deutero <support@deutero.ai> | 158.9 kB | Python SDK for Deutero: run AI moderated interviews and qualitative interviewin… |
-| 2026-10-07 03:56:40 | [motedb-python](https://pypi.org/project/motedb-python/) | 0.12.0 |  | 15.5 MB | AI-native embedded multimodal database — vectors, full-text, spatial, time-seri… |
-| 2026-10-07 04:07:39 | [numba-swig-bridge-rt](https://pypi.org/project/numba-swig-bridge-rt/) | 0.13.1 |  | 129.7 kB | Public Numba runtime for generated SWIG bridges |
-| 2026-10-07 04:08:10 | [dnadesign-tools](https://pypi.org/project/dnadesign-tools/) | 0.2.0 | Eric South | 12.7 MB | DNA sequence design pipelines and bioinformatics helpers. |
-| 2026-10-07 04:13:26 | [textbook-rag](https://pypi.org/project/textbook-rag/) | 0.1.0 |  | 150.7 kB | Grounded question answering over technical books, with citation and code verifi… |
-| 2026-10-07 04:18:46 | [finstack](https://pypi.org/project/finstack/) | 0.8.0 | Om Parekh | 325.7 kB | One import for free financial DATA: Indian markets (NSE, BSE, MCX, F&O, IPOs, q… |
-| 2026-10-07 04:18:46 | [jp-verify-mcp](https://pypi.org/project/jp-verify-mcp/) | 0.1.0 | "Yanagi the First Co., Ltd."… | 61.8 kB | MCP server for JP-Verify: verify Japanese companies (invoice T-numbers, Corpora… |
-| 2026-10-07 04:19:10 | [paygent-agent-sdk](https://pypi.org/project/paygent-agent-sdk/) | 1.1.0 |  | 95.3 kB | Signing, KYA, and MCP envelope primitives for building a Paygent wallet agent |
+| 2026-10-07 04:11:45 | [kindgi-cli](https://pypi.org/project/kindgi-cli/) | 0.1.4rc3 | Kindgi Inc. | 13.6 MB | The Kindgi CLI for Python developers: kindgi dev, init, build and deploy, with… |
+| 2026-10-07 04:20:01 | [tosa-ml](https://pypi.org/project/tosa-ml/) | 0.1.0 |  | 17.1 kB | High-level machine learning preprocessing toolkit |
+| 2026-10-07 04:20:23 | [stageload](https://pypi.org/project/stageload/) | 0.1.0 | Rodion Kazennov | 84.5 kB | Run multi-stage PyTorch pipelines on Apple Silicon with one stage's weights in… |
+| 2026-10-07 04:22:19 | [nexwall](https://pypi.org/project/nexwall/) | 0.1.0 | KodNex | 25.4 kB | Tiny Python client and CLI for the NexWall free wallpaper API (categories, sear… |
+| 2026-10-07 04:23:42 | [datatale](https://pypi.org/project/datatale/) | 0.2.0 |  | 86.7 kB | Local-first, explainable analysis of business spreadsheets |
+| 2026-10-07 04:25:03 | [langchain-fodda](https://pypi.org/project/langchain-fodda/) | 1.0.0 | Fodda / PSFK Team <team@fodda… | 7.1 kB | LangChain custom tool integration for the Fodda Context Layer |
+| 2026-10-07 04:26:05 | [mockapi-cli-sk](https://pypi.org/project/mockapi-cli-sk/) | 0.1.0 | Shrey Kalkhnday | 5.3 kB | A lightweight CLI tool to launch a local mock API server instantly using a JSON… |
+| 2026-10-07 04:28:23 | [benchtrend](https://pypi.org/project/benchtrend/) | 0.2.0 |  | 187.3 kB | Ask which benchmarks researchers use, how usage changes, and which new benchmar… |
+| 2026-10-07 04:29:11 | [sra-riskgate-mcp](https://pypi.org/project/sra-riskgate-mcp/) | 0.1.0 | Sriram Ramakrishnan | 27.9 kB | MCP server that checks stablecoin and x402 payments before an AI agent pays |
+| 2026-10-07 04:29:16 | [etlantic-foundry](https://pypi.org/project/etlantic-foundry/) | 0.56.0 | Odo Matthews <odosmatthews@gm… | 44.6 kB | Foundry dataset and file connectors for ETLantic. |
+| 2026-10-07 04:30:18 | [action-runner](https://pypi.org/project/action-runner/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-07 04:30:20 | [synthpop-config-client-py](https://pypi.org/project/synthpop-config-client-py/) | 0.0.0 | Synthpop Inc | 1.6 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-07 04:30:22 | [synthpop-http-cache](https://pypi.org/project/synthpop-http-cache/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-07 04:30:24 | [synthpop-orchestrator-client-py](https://pypi.org/project/synthpop-orchestrator-client-py/) | 0.0.0 | Synthpop Inc | 1.7 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-07 04:34:26 | [python-can-pscan](https://pypi.org/project/python-can-pscan/) | 0.2.1 | VeVeeS <vevees@probesync.com> | 3.6 MB | Native Python-CAN hardware backend for PSCAN USB devices |
+| 2026-10-07 04:37:16 | [dqdetect](https://pypi.org/project/dqdetect/) | 0.1.0 | Shahed | 21.2 kB | Command-line data quality profiler for CSV and Excel files |
+| 2026-10-07 04:45:03 | [sumbi](https://pypi.org/project/sumbi/) | 0.1.0 |  | 655.0 kB | Offline harness installation and session measurement for coding agents |
+| 2026-10-07 04:47:03 | [suca-pt](https://pypi.org/project/suca-pt/) | 0.0.2 | SUCA Analytics | 20.1 kB | SUCA Portfolio Tracker: a local-first portfolio tracker for Indian family inves… |
+| 2026-10-07 04:54:13 | [openntn](https://pypi.org/project/openntn/) | 2.0.0a1 | Tim Düe, Louis Lagona | 386.6 kB | An extension of the Sionna framework with 3GPP TR38.811 non-terrestrial-network… |
+| 2026-10-07 04:58:21 | [ochreml](https://pypi.org/project/ochreml/) | 0.1.0 |  | 5.7 MB | Classical Machine Learning Library in Rust with PyO3 Bindings (*^▽^*) |
+| 2026-10-07 05:01:32 | [naffprop](https://pypi.org/project/naffprop/) | 0.1.0 |  | 510.3 kB | Affinity propagation in Nim for Python: R's apcluster features behind a scikit-… |
+| 2026-10-07 05:06:06 | [xjtu-timetable-calendar](https://pypi.org/project/xjtu-timetable-calendar/) | 0.3.0 | XJTU Timetable Calendar contr… | 296.0 kB | 将西安交通大学 eHall 个人课表导出为 iCalendar (.ics) |
+| 2026-10-07 05:10:20 | [aioelecway](https://pypi.org/project/aioelecway/) | 0.1.0 |  | 21.9 kB | Asynchronous local Elecway energy storage telemetry client |
+| 2026-10-07 05:10:53 | [diwan](https://pypi.org/project/diwan/) | 0.1.0 |  | 46.7 kB | Diwan (ديوان) — Lightweight agent-first issue tracker |
+| 2026-10-07 05:10:57 | [proact-opt](https://pypi.org/project/proact-opt/) | 0.0.0 |  | 1.4 kB | ProAct |
+| 2026-10-07 05:14:36 | [openarm-lerobot-policy-server](https://pypi.org/project/openarm-lerobot-policy-server/) | 0.1.0 | Enactic, Inc. | 11.7 kB | LeRobot policy servers for OpenArm inference with dora-rs |
+| 2026-10-07 05:17:35 | [manuscript-guard](https://pypi.org/project/manuscript-guard/) | 0.2.431 | Basile Chrétien | 2.4 MB | Make every number in a scientific manuscript traceable to its source. |
+| 2026-10-07 05:18:32 | [ai-orchestrator-kernel](https://pypi.org/project/ai-orchestrator-kernel/) | 1.0.0 |  | 677.7 kB | Project-driven, provider-neutral CLI orchestration with explicit approval, gove… |
