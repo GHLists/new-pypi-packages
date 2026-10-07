@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T18:13:59Z,bartorch-cuda12,0.0.10,,MIT,75149164,"bartorch's library compiled with CUDA 12, for bartorch[cu12]"
+2026-10-07T19:19:23Z,ml-gearbox,0.1.0,Andrew Wamala Kyanjo,,41509,Reusable Machine Learning Toolkit
+2026-10-07T19:20:59Z,mcpsentinel-gateway,0.3.0,,MIT,200602,"Prover acesso seguro a ferramentas de infraestrutura (AWS, Gitlab, Azure) via protocolo MCP"
+2026-10-07T19:21:32Z,ingabotool,0.1.0,Developer,MIT License,8729,"A small, professional Python package for developer utilities."
+2026-10-07T19:22:48Z,mrail,0.4.1,David Tom Foss <d.foss@ieee.org>,LicenseRef-PolyForm-Noncommercial-1.0.0,32846,"Append-only maps of exact language-model runs (.mrail format, reference reader/writer)"
+2026-10-07T19:24:32Z,bartorch-cuda13,0.0.10,,MIT,65654966,"bartorch's library compiled with CUDA 13, for bartorch[cu13]"
+2026-10-07T19:24:37Z,langgraph-store-qdrant,0.1.0,Qdrant Team,Apache-2.0,53128,Qdrant-backed long-term memory store for LangGraph.
+2026-10-07T19:25:38Z,whoisalfaz,1.0.0,Alfaz Mahmud Rizve <contact@whoisalfaz.me>,MIT,10414,Personal developer toolset and API utilities for whoisalfaz.me
+2026-10-07T19:27:11Z,chp-adapter-safety,0.57.0,Auxo,Apache-2.0,54386,"CHP capability adapter — risk assessment, guardrails, and hardware-attested (W4) witness attest + verify"
+2026-10-07T19:27:35Z,docrypt,0.1.0,vexikoff <vexikoff@gmail.com>,MIT,22645,Universal library for document encryption and secure storage
+2026-10-07T19:27:37Z,kokborok,1.0.1,Akshat Singh Bisht,MIT,3193709,"Kokborok (Kókborok) Language Library: 100,000+ Headwords, 300,000+ Inflections, Multi-dialect Translation, NLP Toolkit, and Tripura Cultural Heritage"
+2026-10-07T19:29:50Z,django-overseer,0.1.0,mohamed ali <mohamed.ali@redwoodcompliance.com>,MIT,147095,"Dashboard, retries and schedules for Django's built-in Tasks framework"
+2026-10-07T19:30:09Z,gdelt-regkg,1.0.0,Nikita Klimin,MIT,807576,GDELT GKG reconstruction from article text and metadata
+2026-10-07T19:33:01Z,wraithmesh,0.2.0,Niffyhunt,MIT,49202,"Distributed deception sensor mesh — equivalence-class observations, signed egress, Cowrie tail adapter."
+2026-10-07T19:33:04Z,wraithwall-sdk,0.1.0,WraithWall,MIT,18676,Official WraithWall HTTP API client SDK (preview) — separate from the wraithwall platform package
+2026-10-07T19:34:11Z,cruxible-provider-runtime,0.2.0,The Cruxible maintainers,Apache-2.0,109075,"Support library for Cruxible provider packages: manifest and protocol schemas, identity digests, lock resolution and pinned-index retrieval, cache integrity, secret delivery, budgets and egress instr…"
+2026-10-07T19:37:05Z,priompt-sdk,0.7.0,Priompt <oss@priompt.com>,Apache-2.0,36338,Python client for Priompt — versioned prompt serving over gRPC
+2026-10-07T19:37:19Z,serialcables-hcc,0.0.1,Serial Cables Engineering <hydra@serialcables.com>,LicenseRef-SerialCables-HCC,3730,Placeholder. HYDRA Command Center is distributed only from the Serial Cables HYDRA product page.
+2026-10-07T19:38:07Z,cruxible-provider-web,0.2.0,The Cruxible maintainers,Apache-2.0,137913,Cruxible provider adapters for the web plane: page retrieval and web search.
+2026-10-07T19:45:29Z,agentconfigguard,0.1.0,Atila Amorim,MIT,34267,Security and context auditor for AI agents and MCP servers.
+2026-10-07T19:46:23Z,leona-client,0.3.0,,MIT,116190,"The one Python HTTP client for Leona Quantum: the Atlas, verified runs and estimates"
+2026-10-07T19:47:35Z,filegetter,1.1.0,Ivan Begtin <ivan@begtin.tech>,MIT,46711,Command-line tool and Python library for automated bulk file collection from public data sources
+2026-10-07T19:47:55Z,backprop-lib,0.1.0,Sibananda Dora,MIT,146142,A tiny scalar-valued autograd engine with a small PyTorch-like neural network library on top.
+2026-10-07T19:51:16Z,datacrafter-etl,2.0.1,Ivan Begtin <ivan@begtin.tech>,Apache-2.0,182408,datacrafter-etl: a command-line ETL tool with NoSQL in mind (import datacrafter)
+2026-10-07T19:52:00Z,forge-server-doctor,1.0.0,Jakoby Tuckta,LicenseRef-Proprietary-Free-Edition,28170,"Reads a modded Minecraft crash report and tells you which mod actually broke it. Forge and NeoForge, 1.16-1.21."
+2026-10-07T19:52:01Z,pack-doctor,1.0.0,Jakoby Tuckta,LicenseRef-Proprietary-Free-Edition,21263,"Finds the IDs your Minecraft modpack references that no installed mod registers -- dead IDs in quests, KubeJS scripts and datapacks."
+2026-10-07T19:52:03Z,server-sentinel,1.0.0,Jakoby Tuckta,LicenseRef-Proprietary-Free-Edition,20510,Tells you when your Minecraft server crashed the SAME way as last time. Read-only log watcher with crash signatures.
+2026-10-07T19:53:02Z,annizarr,0.1.0,Alex Holly <alex.holly@alleninstitute.org>,MIT,539394,"AnnData zarr stores: convert, edit, and version with Icechunk"
+2026-10-07T19:54:07Z,peykan,0.2.0,farzad <farzadnadiri7@gmail.com>,MIT,250491,"Peykan: MCP server exposing vehicle CAN bus, OBD-II and SAE J1939 diagnostics to LLMs, with a built-in virtual CAN simulator (no hardware required)."
+2026-10-07T19:55:39Z,aveecare,0.1.0,AveeCare,MIT,131444,"Official Python library for the AveeCare API: patients, visits, caregivers and billing for home care agencies."
+2026-10-07T19:56:11Z,secretsieve,1.0.0,3rabDev <contact@3rabdev.online>,MIT,2359060,SecretSieve - intelligent local-first secret detection CLI. Sieve the secrets out of your source.
+2026-10-07T19:59:27Z,agenthubx,0.1.0,AgentHub,MIT,35325,Python SDK and MCP server for the AgentHub agent API: run your own trading bot under enforced mandates (paper perps on live Hyperliquid prices).
+2026-10-07T19:59:45Z,bible-figures-of-speech,0.1.0,Gloo <noreply@gloo.us>,MIT AND CC-BY-SA-4.0,6713247,"Figures of speech in the Bible: a catalog of figure types and verse-indexed instances, derived from unfoldingWord Translation Notes."
+2026-10-07T20:02:03Z,willrust,0.1.0,Tom Sapletta <tom@sapletta.com>,Proprietary,16167,Native execution engine and fast task inventory for Paxlet / Willman ecosystem
+2026-10-07T20:03:24Z,webfuzzing-commons,0.10.0,Andrea Arcuri <arcuri82@gmail.com>,Apache 2.0,1003492,Web Fuzzing Commons (WFC). A set of standards and library support for facilitating fuzzing Web APIs.
+2026-10-07T20:03:58Z,mir250ctrl,1.0,Md Shahriar Forhad,MIT,51826,Python tools for controlling and interfacing with MiR250 robots
+2026-10-07T20:07:19Z,mcservers,1.0.1,andrey4ik21pro1,GPL-3.0-or-later,35035,Simple servers.dat editor
+2026-10-07T20:08:33Z,agenthooksprotocol,0.1.0,Agent Hooks Protocol maintainers,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",461845,Official non-normative Python SDK for the Agent Hooks Protocol
+2026-10-07T20:11:23Z,fiat-pup,0.1.0,Shiv Shankar,MIT,126413,"A provider-agnostic, multi-agent AI coding assistant for the terminal."
+2026-10-07T20:14:31Z,agent-runbooks,1.4.4,,,38947,The engine behind a runbook's flow.py
+2026-10-07T20:15:24Z,courier-pigeon,1.0.0a37,Gwyn Uttmark,Apache-2.0,562134,"A plugin-based, event-driven orchestration framework for building data processing pipelines"
+2026-10-07T20:17:26Z,pgsteward,0.1.0,Oleg Pivovarov <olegpydev@gmail.com>,MIT,381037,MCP server for a fleet of PostgreSQL databases: the agent picks a connection by id and never sees credentials
+2026-10-07T20:18:43Z,packsafe-core,0.1.0,,,136710,
