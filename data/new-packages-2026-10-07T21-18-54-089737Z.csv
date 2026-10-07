@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T20:19:11Z,packsafe,0.1.0,,Apache-2.0,67184,Analyze and gate package installs on supply-chain risk.
+2026-10-07T20:22:37Z,mocaco,0.1.0,Álvaro Esteban Muñoz <em.alvaro.l@gmail.com>,LGPL-3.0-or-later,4732135,Convergence analysis for Monte Carlo series — works with Polars DataFrames
+2026-10-07T20:22:57Z,glassvm-chip8,0.1.1,,BSD-3-Clause,1534809,CHIP-8 machine bundle for GlassVM
+2026-10-07T20:22:57Z,glassvm-tic80,0.1.1,,BSD-3-Clause,1297766,TIC-80 machine bundle for GlassVM
+2026-10-07T20:22:59Z,glassvm-pico8,0.1.1,,BSD-3-Clause,1428982,PICO-8 machine bundle for GlassVM
+2026-10-07T20:23:45Z,wtenv,0.1.0,,Apache-2.0,200716,"Give each git worktree its own ports, env file, database, and docker-compose project."
+2026-10-07T20:27:44Z,evolution-api-mcp,1.0.0,Persevida SL,MIT,656121,"Operate one Evolution API (WhatsApp) instance from any MCP host: chats, history, sending, groups and configuration."
+2026-10-07T20:28:27Z,holoscan-telesurgery-cu13,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1084,Zero version placeholder for holoscan_telesurgery_cu13
+2026-10-07T20:29:30Z,holoscan-multimedia,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1074,Zero version placeholder for holoscan_multimedia
+2026-10-07T20:30:10Z,holoscan-multimedia-cu13,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1082,Zero version placeholder for holoscan_multimedia_cu13
+2026-10-07T20:32:12Z,llama-index-tools-steward,0.1.0,Synthetic Universe LLC,MIT,6449,"Steward MCP tools for LlamaIndex — 25 tools for x402 agent commerce (trust verification, spend controls, merchant directory, paid API endpoints)"
+2026-10-07T20:34:09Z,langchain-neuronto,0.1.0,Neuronto,Apache-2.0,10269,LangChain tool and retriever for the Neuronto Agentic Resource Discovery (ARD) registry.
+2026-10-07T20:34:38Z,holoscan-ultrasound-imaging,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1092,Zero version placeholder for holoscan_ultrasound_imaging
+2026-10-07T20:37:13Z,gdb-client,0.3.0,GDB Team <dev@gdb.io>,Apache-2.0,23603,High-performance Python client for GDB graph database with Polars parallel scatter-ingest via Apache Arrow Flight
+2026-10-07T20:38:25Z,uvc-ptz-camera-mcp,0.1.1,Abhijat Saxena,MIT,92947,"MCP server for USB (UVC) pan/tilt/zoom cameras: aim, zoom, sweep and capture, with every move verified against the picture."
+2026-10-07T20:43:39Z,iqa-mcp,0.1.0,RTTP & IQA Organization,Apache-2.0,18279,"IQA attestation primitives (derived intent addressing + AE-128 envelope verification) as Model Context Protocol tools. Offline, fail-closed, stateless."
+2026-10-07T20:45:51Z,stackdoctor,0.1.2,,MIT,517795,"Read-only MCP server that diagnoses a Python backend stack (Postgres, Celery, Redis, logs) with cross-system correlation."
+2026-10-07T20:48:05Z,glyph-cli,0.2.0,InterImm,MIT,57861,"The dictionary and toolkit for the grid script of Ross 128 b (InterImm, The Contact Era)."
+2026-10-07T20:50:20Z,pandoc-md-to-docx,0.2.1,Yogesh Kulkarni,MIT,41445,Convert Markdown files to Word (.docx) documents via Pandoc
+2026-10-07T20:50:28Z,glassvm,0.1.1,,BSD-3-Clause,311621,Generic Python facade for entry-point-discovered GlassVM machine bundles
+2026-10-07T20:52:19Z,singer-tap-kit,0.1.0,Andrew Jones,"MIT License Copyright (c) 2025 Andrew Jones Permission is hereby granted, free of charge, to any pe…",14031,Singer.io tap for extracting data from the Kit API
+2026-10-07T20:53:51Z,dana4-sdk,1.6.2,Dana4 Labs,MIT,85613,"Connect your agent to Dana4: capabilities, chat, documents and workspaces over the Dana4 SDK API."
+2026-10-07T20:54:38Z,tradealmanac-mcp,2026.10.7,,MIT,58581,"MCP server for the TradeAlmanac public API: dividends, screener, indicators, calendar effects"
+2026-10-07T20:55:46Z,crevice,0.1.1,Edward Lambden <edward.lambden@kcl.ac.uk>,MIT,2501979,"CREVICE: Cavity and Residue Environment Visualisation, Interaction and Connectivity Evaluation"
+2026-10-07T20:56:47Z,temporalio-google-genai,0.1.0,Temporal Technologies Inc,MIT,74884,Temporal integration for google genai
+2026-10-07T20:57:20Z,jaack,1.0.1,,,21828,
+2026-10-07T20:59:11Z,fast-unionfind,1.0.0,Matteo Dell'Amico <della@linux.it>,BSD-3-Clause,20150127,"Disjoint sets (union-find) at C speed, with no dependencies"
+2026-10-07T20:59:37Z,tradealmanac,2026.9.6,,MIT,11617,"Client of the TradeAlmanac public API: dividends, screener, sentiment indicators"
+2026-10-07T21:01:37Z,xspar,0.0.1,tyler611,Apache-2.0,10648,Cross-model adversarial review for coding agents. Name reserved; first release coming.
+2026-10-07T21:04:29Z,cartolex,1.0.1,"Elisa Klüger <elisa.kluger@univ-amu.fr>, Pierre Ronceray <pierre.ronceray@univ-amu.fr>",MIT,7877091,"Map a body of texts by the words of their authors: emergent keywords, a lexical space whose distances show who talks the same, themes, co-authorship and an atlas"
+2026-10-07T21:04:48Z,convalesce-emit-pyspark,0.2.0,Convalesce,Apache-2.0,31932,"Report a PySpark driver to Convalesce: what it ran, and whether it failed in Python."
+2026-10-07T21:08:46Z,jenai,1.0.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",806179,"A terminal in a browser tab, for Google Colab and anywhere else a Python kernel runs."
+2026-10-07T21:10:05Z,saccade-video,0.1.0,Gabriel Santana,MIT,261178,"Fast, local video context for LLMs: transcripts, representative frames, timestamped search and ask() over any video, on CPU or GPU."
+2026-10-07T21:11:28Z,cluster-imputer,0.1.1,"Mahmoud M. Ismail, Mai Mohamed",MIT,27263,A high-performance cluster-aware missing data imputer for mixed tabular data (Nature Scientific Reports).
+2026-10-07T21:12:04Z,inflectsynth,0.1.0,inflectsynth contributors,Apache-2.0,88380,Inflect v2 ONNX synthesis frontend backed by inflectg2p
+2026-10-07T21:15:57Z,llmd-benchmark-report,0.2.1,,Apache-2.0,192533,"Benchmark Report: a standard data format for LLM inference benchmark runs (schemas, validators, and converters)"
+2026-10-07T21:16:55Z,verdiclip,0.2.0,Mike Hill,MIT,178311,"Fast, faithful screenshot capture and annotation for Windows."

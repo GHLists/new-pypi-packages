@@ -1,37 +1,19 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-07T19:18:36.820519Z",
-    "path": "data/new-packages-2026-10-07T20-18-44-99411Z.csv",
-    "to": "2026-10-07T20:18:44.99411Z"
+    "count": 37,
+    "from": "2026-10-07T20:18:44.99411Z",
+    "path": "data/new-packages-2026-10-07T21-18-54-089737Z.csv",
+    "to": "2026-10-07T21:18:54.089737Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-07T16:40:19Z",
-      "package": "bioimageflow-phasor-tools",
-      "since": "2026-10-07T16:18:54.010514Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-07T19:07:23Z",
       "package": "litellm-core",
       "since": "2026-10-07T18:18:34.764837Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-07T16:24:04Z",
-      "package": "pdf-redaction",
-      "since": "2026-10-07T16:18:54.010514Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-07T16:24:36Z",
-      "package": "redact-pdf-cli",
-      "since": "2026-10-07T16:18:54.010514Z"
     }
   ],
-  "serial": 41941930,
+  "serial": 41943917,
   "source_truncated": false,
-  "window": "2026-10-07T20:18:44.99411Z"
+  "window": "2026-10-07T21:18:54.089737Z"
 }
