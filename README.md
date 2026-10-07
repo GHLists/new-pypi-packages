@@ -8,48 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 09:20 UTC
+## Latest list — 2026-10-07 10:20 UTC
 
-New packages created between 2026-10-07 08:19 UTC and 2026-10-07 09:20 UTC.
+New packages created between 2026-10-07 09:20 UTC and 2026-10-07 10:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-07T09-20-27-982328Z.csv)
+[Full CSV](data/new-packages-2026-10-07T10-20-56-11608Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-07 07:40:34 | [ansys-saf-projects-dashboard](https://pypi.org/project/ansys-saf-projects-dashboard/) | 0.1.0 | Synopsys, Inc. and ANSYS, Inc. | 794.4 kB | Dash component for SAF-based solution applications to view and manage project i… |
-| 2026-10-07 08:19:51 | [genz-lio](https://pypi.org/project/genz-lio/) | 0.1.0 | GenZ-LIO maintainers | 5.1 MB | Generalizable LiDAR-inertial odometry across confined and open environments |
-| 2026-10-07 08:20:25 | [taskpulse-24](https://pypi.org/project/taskpulse-24/) | 0.1.0 | TaskPulse contributors | 14.3 kB | A small, dependency-free task prioritizer and daily planner. |
-| 2026-10-07 08:20:56 | [ese774-frame](https://pypi.org/project/ese774-frame/) | 0.6.1 | Kengo NAKADA <kengo.nakada@em… | 89.9 kB | Ese774 Frame (FastAPI Frame) |
-| 2026-10-07 08:21:14 | [vezur-video-converter](https://pypi.org/project/vezur-video-converter/) | 0.1.0 | Vezur AI | 20.4 kB | Local video conversion and inspection with FFmpeg, a Python API, and a CLI. |
-| 2026-10-07 08:23:47 | [llm-sunset](https://pypi.org/project/llm-sunset/) | 0.1.0 | llm-sunset contributors | 47.1 kB | Find AI model IDs in your code that are deprecated or about to be shut down (Op… |
-| 2026-10-07 08:23:50 | [secrulekit](https://pypi.org/project/secrulekit/) | 1.2.0 | "Cherno.x" <long544844@gmail.… | 48.5 kB | Parse, validate, convert, and manage YARA, Sigma, and Suricata security detecti… |
-| 2026-10-07 08:27:28 | [flowbox](https://pypi.org/project/flowbox/) | 0.1.0 | Flowmatic, UniForceMusic | 52.7 kB | A vendor-neutral email connector: read inboxes and send mail through the adapte… |
-| 2026-10-07 08:27:44 | [pr-policy](https://pypi.org/project/pr-policy/) | 0.1.0 | rodny90 | 71.7 kB | Check pull requests against the contribution policy your project already wrote… |
-| 2026-10-07 08:27:51 | [patch-linter](https://pypi.org/project/patch-linter/) | 1.0.0 | Pavel Maksimov <vur21@yandex.… | 20.6 kB | Static analyzer that forbids unittest.mock.patch and pytest monkeypatch in tests |
-| 2026-10-07 08:30:38 | [grpc-frame](https://pypi.org/project/grpc-frame/) | 0.5.13 | Kengo NAKADA <kengo.nakada@em… | 66.7 kB | gRPC server/client frame |
-| 2026-10-07 08:31:15 | [quabla-mlx](https://pypi.org/project/quabla-mlx/) | 0.6.1 | latteine | 224.0 MB | Rust-backed SciML runtime experiment exposed to Python |
-| 2026-10-07 08:36:12 | [smartimageclean](https://pypi.org/project/smartimageclean/) | 0.1.2 | Sumit Palekar | 79.8 kB | A configurable Python library for automated image quality analysis, validation,… |
-| 2026-10-07 08:39:02 | [optmapper](https://pypi.org/project/optmapper/) | 0.1.0 | The LEGEND Collaboration | 68.2 kB | Production of LEGEND optical maps on batch systems |
-| 2026-10-07 08:40:03 | [symm-mcp](https://pypi.org/project/symm-mcp/) | 0.1.0 | tacticaldoll | 88.8 kB | A lightweight, symmetric, asynchronous MCP channel for handing work between ind… |
-| 2026-10-07 08:40:58 | [ztds](https://pypi.org/project/ztds/) | 1.1.0 | Ilya Sibiryakov <ilya@ztds.ai… | 41.4 kB | Zero-Trust Data Sanitization (ZTDS) - Canonical Python Reference Implementation… |
-| 2026-10-07 08:43:41 | [agents-tree](https://pypi.org/project/agents-tree/) | 0.1.1 | Karel Blavka | 52.5 kB | Show Claude Code sessions and their subagents as a live tree: model, effort, co… |
-| 2026-10-07 08:45:19 | [tb-hide](https://pypi.org/project/tb-hide/) | 0.1.0 | YXProtocol <YXProtocol@outloo… | 7.2 kB | A Python package for traceback frame hiding |
-| 2026-10-07 08:46:10 | [iterquarry](https://pypi.org/project/iterquarry/) | 2.1.1 | iterquarry contributors | 88.7 kB | Python iterable tools: pairwise, chunked batches, sliding windows, flatten, sam… |
-| 2026-10-07 08:46:47 | [python.pyai](https://pypi.org/project/python.pyai/) | 0.1.0 | olan | 3.3 kB | A simple Python AI library |
-| 2026-10-07 08:49:22 | [tazi](https://pypi.org/project/tazi/) | 0.0.0 | TAZI AI Systems <code@tazi.ai> | 3.2 kB | Name reserved by TAZI AI Systems. The real package is distributed privately to… |
-| 2026-10-07 08:49:23 | [tazi-sdk](https://pypi.org/project/tazi-sdk/) | 0.0.0 | TAZI AI Systems <code@tazi.ai> | 3.3 kB | Name reserved by TAZI AI Systems. The real package is distributed privately to… |
-| 2026-10-07 08:49:43 | [perchance-api](https://pypi.org/project/perchance-api/) | 0.2.0 | Zec | 20.7 kB | Unofficial Python API for Perchance. |
-| 2026-10-07 08:56:29 | [ultrastiching-sdk](https://pypi.org/project/ultrastiching-sdk/) | 0.1.4 | UltraStiching | 1.2 MB | UltraStiching SDK for the UltraStiching Data API |
-| 2026-10-07 08:58:36 | [eco-connectivity](https://pypi.org/project/eco-connectivity/) | 2.2.0 | Roozbeh Valavi <roozbeh.valav… | 167.4 MB | A multi-resolution landscape connectivity algorithm written in Rust |
-| 2026-10-07 08:58:52 | [synode.py3](https://pypi.org/project/synode.py3/) | 0.8.0 | Ody Z <odys.zhou@gmail.com> | 173.1 kB | Portfolio Synode Stand Alone Service |
-| 2026-10-07 08:59:28 | [co-scientist-engine](https://pypi.org/project/co-scientist-engine/) | 0.0.0 |  | 1.5 kB | Reserved for https://github.com/guy915/Co-Scientist |
-| 2026-10-07 09:01:25 | [arca-models](https://pypi.org/project/arca-models/) | 0.1.2.dev189 |  | 16.8 kB | ETH Library Data Archive Models - Python Pydantic classes |
-| 2026-10-07 09:01:48 | [pedal-balance](https://pypi.org/project/pedal-balance/) | 0.1.0 | Martin Mahner <martin@mahner.… | 70.1 kB | Check and fix left/right balance errors of dual-sided power meter pedals in FIT… |
-| 2026-10-07 09:04:13 | [phagemine](https://pypi.org/project/phagemine/) | 1.3.1 | Nnaemeka Emmanuel Nnadi | 1.1 MB | Evidence-first phage annotation and discovery mining |
-| 2026-10-07 09:10:38 | [manimgx-fonts-cjk](https://pypi.org/project/manimgx-fonts-cjk/) | 2026.9.26 | Sina Atalay, Abdullah Geduk | 39.6 MB | Noto Sans CJK, the font ManimGX sets Chinese, Japanese and Korean text in. |
-| 2026-10-07 09:10:41 | [manimgx-fonts](https://pypi.org/project/manimgx-fonts/) | 2026.9.26 | Sina Atalay, Abdullah Geduk | 7.1 MB | The Noto fonts ManimGX sets text in: Noto Sans, Noto Emoji, Noto Sans Symbols,… |
-| 2026-10-07 09:11:16 | [manimgx](https://pypi.org/project/manimgx/) | 0.1.0 | Sina Atalay <sina.atalay@acad… | 210.1 MB | The animation engine for agents: blazingly fast math and 3D videos with Manim's… |
-| 2026-10-07 09:11:34 | [heycivis](https://pypi.org/project/heycivis/) | 0.1.0 |  | 304.4 kB | Local LinkedIn outreach tool for agents. Skill plus CLI. |
-| 2026-10-07 09:14:27 | [torchfdtd](https://pypi.org/project/torchfdtd/) | 1.1.7 |  | 1.0 MB | An open-source visual FDTD workbench with Python and CUDA |
-| 2026-10-07 09:15:17 | [PeDagger](https://pypi.org/project/PeDagger/) | 1.0.0 | lyshark | 56.7 kB |  |
-| 2026-10-07 09:16:26 | [maf-cachebench](https://pypi.org/project/maf-cachebench/) | 0.1.0 | SOKOLAI BV | 417.3 kB | Benchmark for Microsoft Agent Framework compaction strategies: what each one co… |
+| 2026-10-07 09:18:31 | [orderly-chaos](https://pypi.org/project/orderly-chaos/) | 0.2.0 | Meet Mendapara <meetmendapara… | 333.1 kB | A fast price-time priority limit order book (matching engine) with C++, C, and… |
+| 2026-10-07 09:23:01 | [zanzibar-index](https://pypi.org/project/zanzibar-index/) | 0.0.2 | Avery Khoo | 484.5 kB | Zanzibar-style relationship/permission evaluation: a set engine and a materiali… |
+| 2026-10-07 09:23:09 | [quotamesh](https://pypi.org/project/quotamesh/) | 0.1.0 | Yash Srivastava | 223.9 kB | Local AI API capacity gateway |
+| 2026-10-07 09:24:21 | [matrixzq](https://pypi.org/project/matrixzq/) | 1.2.0 | David Ireland, DI Management… | 11.6 kB | Python matrix tools over Zq |
+| 2026-10-07 09:25:09 | [hsajdgf2314](https://pypi.org/project/hsajdgf2314/) | 0.1.0 | Yang Heegoo <heegoo.yang@gmai… | 3.7 kB | Heegoo package example |
+| 2026-10-07 09:27:13 | [z0-kit](https://pypi.org/project/z0-kit/) | 0.0.1 |  | 2.4 kB | Holds the name only. The Zone Zero kit is installed from the @z0devs/python-kit… |
+| 2026-10-07 09:29:02 | [myra-termux](https://pypi.org/project/myra-termux/) | 0.2.0 |  | 30.6 kB | MYRA AI assistant for Termux (Android) and Linux: chat, voice, 148+ languages a… |
+| 2026-10-07 09:29:47 | [irotechlab-pyarattai](https://pypi.org/project/irotechlab-pyarattai/) | 0.1.0 | IROTECHLAB | 718.2 kB | Arattai client + bot framework |
+| 2026-10-07 09:40:11 | [touchmark](https://pypi.org/project/touchmark/) | 0.1.0 | Icomi | 115.7 kB | Official Python client for the Touchmark API: email, IP and phone validation. |
+| 2026-10-07 09:47:19 | [hbtsim](https://pypi.org/project/hbtsim/) | 0.2.0 | Peter Nugent <penugent@lbl.go… | 549.4 kB | Photon-counting intensity interferometry (Hanbury Brown-Twiss) of bright binary… |
+| 2026-10-07 09:49:14 | [interactui](https://pypi.org/project/interactui/) | 0.1.0rc1 | Matteo Bouvier | 31.0 kB | Python TUI built on curses |
+| 2026-10-07 09:50:16 | [hearthwork](https://pypi.org/project/hearthwork/) | 0.2.1 |  | 84.3 kB | Run a local llama.cpp model and connect Claude Code or Codex to it from one men… |
+| 2026-10-07 09:54:55 | [ignesh_agentic_terminal](https://pypi.org/project/ignesh_agentic_terminal/) | 0.1.0 |  | 5.6 kB | An MCP which adds terminal capabilities to an agent |
+| 2026-10-07 09:56:11 | [landauer-gap](https://pypi.org/project/landauer-gap/) | 0.4.0 | Bharat Sharma | 90.5 kB | Like `time`, but for energy: measure the GPU, CPU and DRAM energy, cost and car… |
+| 2026-10-07 09:58:28 | [osal-license](https://pypi.org/project/osal-license/) | 0.1.0.dev2 | Office Solution AI Labs | 38.8 kB | Licensing client for Office Solution AI Labs products |
+| 2026-10-07 10:00:50 | [slidedesk](https://pypi.org/project/slidedesk/) | 0.1.0 | Robert Haase <robert.haase@un… | 107.5 kB | AI-assisted browsing and re-combination of PowerPoint slide decks |
+| 2026-10-07 10:01:11 | [mockbuck](https://pypi.org/project/mockbuck/) | 0.1.0 | FirstEigen-Labs | 17.5 kB | A minimal SDK that downloads and locates the MockBuck JAR. |
+| 2026-10-07 10:06:08 | [npflow](https://pypi.org/project/npflow/) | 0.2.0 | Daniel Probst | 176.4 kB | Neural Petri Flow. Neural networks that remain Petri nets for every value of th… |
+| 2026-10-07 10:06:19 | [annotide](https://pypi.org/project/annotide/) | 0.1.0 |  | 75.0 kB | Cloud-agnostic annotation platform — Python SDK and CLI (API-3) |
+| 2026-10-07 10:06:24 | [annotide-training](https://pypi.org/project/annotide-training/) | 0.1.0 |  | 60.2 kB | Cloud-agnostic annotation platform — reference customer-side training pipeline… |
+| 2026-10-07 10:08:20 | [mighty-temp-mail](https://pypi.org/project/mighty-temp-mail/) | 0.1.0 | Mighty Temp Mail <support@hea… | 9.1 kB | Official Python SDK for Mighty Temp Mail — programmatic inboxes, OTP extraction… |
+| 2026-10-07 10:08:20 | [trainnr](https://pypi.org/project/trainnr/) | 0.1.0 | Prakhar Aggarwal | 1.7 MB | The physical AI platform for robot learning, run from your coding agent: teleme… |
+| 2026-10-07 10:08:21 | [trainnr-mjlab](https://pypi.org/project/trainnr-mjlab/) | 0.1.0 | Prakhar Aggarwal | 346.6 kB | The mjlab trainer for trainnr: identified actuator physics (BAM) as mjlab actua… |
+| 2026-10-07 10:18:08 | [bibliominer-analysis](https://pypi.org/project/bibliominer-analysis/) | 0.1.0 | Mohamed Hosni <m.hosni@umi.ac… | 6.1 MB | Bibliometric analysis of a Scopus corpus cleaned with Bibliominer. |
+| 2026-10-07 10:18:25 | [evalsuite-python](https://pypi.org/project/evalsuite-python/) | 0.1.0a1 | Manoj Kumar C S | 74.5 kB | A unified Python framework for machine-learning, clinical, statistical, segment… |
+| 2026-10-07 10:19:08 | [webenum-ng](https://pypi.org/project/webenum-ng/) | 1.0.0 | Zakariya Elmansouri <zakariya… | 33.1 kB | Orchestrateur de reconnaissance web tout-en-un (l'equivalent web de enum4linux-… |
+| 2026-10-07 10:19:46 | [foya-aiapi-sdk](https://pypi.org/project/foya-aiapi-sdk/) | 0.1.0 |  | 100.5 kB | Sync and async Python client for the Foya AI API, with OpenAPI-driven calls |

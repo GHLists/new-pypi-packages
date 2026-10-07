@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T09:18:31Z,orderly-chaos,0.2.0,Meet Mendapara <meetmendapara09@gmail.com>,MIT,333090,"A fast price-time priority limit order book (matching engine) with C++, C, and Python APIs."
+2026-10-07T09:23:01Z,zanzibar-index,0.0.2,Avery Khoo,Apache-2.0,484483,Zanzibar-style relationship/permission evaluation: a set engine and a materialized graph index with identical semantics.
+2026-10-07T09:23:09Z,quotamesh,0.1.0,Yash Srivastava,MIT,223869,Local AI API capacity gateway
+2026-10-07T09:24:21Z,matrixzq,1.2.0,"David Ireland, DI Management Services Pty Ltd",,11621,Python matrix tools over Zq
+2026-10-07T09:25:09Z,hsajdgf2314,0.1.0,Yang Heegoo <heegoo.yang@gmail.com>,MIT,3680,Heegoo package example
+2026-10-07T09:27:13Z,z0-kit,0.0.1,,,2400,Holds the name only. The Zone Zero kit is installed from the @z0devs/python-kit npm package.
+2026-10-07T09:29:02Z,myra-termux,0.2.0,,Proprietary,30562,"MYRA AI assistant for Termux (Android) and Linux: chat, voice, 148+ languages and device control via Gemini"
+2026-10-07T09:29:47Z,irotechlab-pyarattai,0.1.0,IROTECHLAB,MIT,718243,Arattai client + bot framework
+2026-10-07T09:40:11Z,touchmark,0.1.0,Icomi,MIT,115729,"Official Python client for the Touchmark API: email, IP and phone validation."
+2026-10-07T09:47:19Z,hbtsim,0.2.0,Peter Nugent <penugent@lbl.gov>,"BSD 3-Clause License Copyright (c) 2026, Peter Nugent Redistribution and use in source and binary f…",549388,"Photon-counting intensity interferometry (Hanbury Brown-Twiss) of bright binary and single stars: visibilities, closure phases, photon budgets, campaigns"
+2026-10-07T09:49:14Z,interactui,0.1.0rc1,Matteo Bouvier,,31014,Python TUI built on curses
+2026-10-07T09:50:16Z,hearthwork,0.2.1,,,84279,"Run a local llama.cpp model and connect Claude Code or Codex to it from one menu, tuned to your own machine."
+2026-10-07T09:54:55Z,ignesh_agentic_terminal,0.1.0,,,5564,An MCP which adds terminal capabilities to an agent
+2026-10-07T09:56:11Z,landauer-gap,0.4.0,Bharat Sharma,MIT,90517,"Like `time`, but for energy: measure the GPU, CPU and DRAM energy, cost and carbon of any command or local model."
+2026-10-07T09:58:28Z,osal-license,0.1.0.dev2,Office Solution AI Labs,Proprietary,38799,Licensing client for Office Solution AI Labs products
+2026-10-07T10:00:50Z,slidedesk,0.1.0,Robert Haase <robert.haase@uni-leipzig.de>,MIT,107521,AI-assisted browsing and re-combination of PowerPoint slide decks
+2026-10-07T10:01:11Z,mockbuck,0.1.0,FirstEigen-Labs,Apache-2.0,17475,A minimal SDK that downloads and locates the MockBuck JAR.
+2026-10-07T10:06:08Z,npflow,0.2.0,Daniel Probst,MIT,176362,Neural Petri Flow. Neural networks that remain Petri nets for every value of their weights
+2026-10-07T10:06:19Z,annotide,0.1.0,,Apache-2.0,75009,Cloud-agnostic annotation platform — Python SDK and CLI (API-3)
+2026-10-07T10:06:24Z,annotide-training,0.1.0,,,60225,"Cloud-agnostic annotation platform — reference customer-side training pipeline (ML-9, EXP-8)"
+2026-10-07T10:08:20Z,mighty-temp-mail,0.1.0,Mighty Temp Mail <support@heartsyncmatch.com>,MIT,9094,"Official Python SDK for Mighty Temp Mail — programmatic inboxes, OTP extraction, webhooks."
+2026-10-07T10:08:20Z,trainnr,0.1.0,Prakhar Aggarwal,FSL-1.1-ALv2,1749618,"The physical AI platform for robot learning, run from your coding agent: telemetry, real-to-sim identification, simulation, RL and imitation, evaluation, sim-to-real deployment."
+2026-10-07T10:08:21Z,trainnr-mjlab,0.1.0,Prakhar Aggarwal,FSL-1.1-ALv2,346555,"The mjlab trainer for trainnr: identified actuator physics (BAM) as mjlab actuators, randomization from measured intervals, and a linter that refuses silent no-ops."
+2026-10-07T10:18:08Z,bibliominer-analysis,0.1.0,"Mohamed Hosni <m.hosni@umi.ac.ma>, Jaouad Zerhouni <j.zerhouni@edu.umi.ac.ma>, Ibtissam Medarhri <m…","MIT License Copyright (c) 2026 Mohamed Hosni, Jaouad Zerhouni, Ibtissam Medarhri, Rachid Menaoui, J…",6073922,Bibliometric analysis of a Scopus corpus cleaned with Bibliominer.
+2026-10-07T10:18:25Z,evalsuite-python,0.1.0a1,Manoj Kumar C S,MIT,74523,"A unified Python framework for machine-learning, clinical, statistical, segmentation, object-detection, uncertainty, and model evaluation."
+2026-10-07T10:19:08Z,webenum-ng,1.0.0,Zakariya Elmansouri <zakariyaelmansouri40@gmail.com>,MIT,33071,Orchestrateur de reconnaissance web tout-en-un (l'equivalent web de enum4linux-ng)
+2026-10-07T10:19:46Z,foya-aiapi-sdk,0.1.0,,,100481,"Sync and async Python client for the Foya AI API, with OpenAPI-driven calls"
