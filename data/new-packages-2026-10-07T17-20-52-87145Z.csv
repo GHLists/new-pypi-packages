@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T16:17:02Z,bindiff-mcp,1.0.0,,,28452,Bindiff MCP Server
+2026-10-07T16:23:37Z,lumi-host,0.0.1,,MIT OR Apache-2.0,225683,Thin WASM host library for Lumi: loads the closed component and provides the host-side services
+2026-10-07T16:23:41Z,gutsy-mcp,0.1.2,,Apache-2.0,83421,"A local gut check for coding agents: calibrated probabilities that an action is safe and intended, before rm -rf, force-push, deploy or send."
+2026-10-07T16:27:09Z,windowsml-llama-core,2.7.2021a0,Microsoft Corporation,Copyright (C) Microsoft Corporation. All rights reserved.,7224124,llama.cpp backend core for the Windows ML Runtime
+2026-10-07T16:28:39Z,lavepay,0.1.0,Laveshka,MIT,68538,Async client for the Lave Pay merchant API
+2026-10-07T16:28:46Z,urania,0.0.1,dandmadp,MIT,127528,"An astrodynamics library that computes, shows and explains"
+2026-10-07T16:29:00Z,provingground,0.1.0,,MIT,54112,"Eval harness for AI agents: YAML task suites, pluggable runners, tool-use loop, scorers, trace capture, regression tracking"
+2026-10-07T16:33:29Z,dtfit,0.5.0,Oleksandr Tuhanskykh <ringanaro@gmail.com>,MIT,339314,Differential-transformation fitting: nonlinear smoothing and forecasting via differential / non-Taylor transformations
+2026-10-07T16:33:38Z,geophis,1.0.0,Antruc,GPL-3.0-or-later,495617,Wrapper simple en español sobre geopandas/shapely/rasterio para tareas de SIG.
+2026-10-07T16:33:43Z,qa-automation-ai-agent-evals,0.1.0,Ƴunior Ƥortal,"MIT License Copyright (c) 2026 Ƴunior Ƥortal Permission is hereby granted, free of charge, to any p…",1628965,"Evidence-bound evaluation, verification, validation, and release assurance for agentic systems"
+2026-10-07T16:38:02Z,cot-capture,0.1.0,Ronny Pfannschmidt <opensource@ronnypfannschmidt.de>,MIT,94472,building blocks for capturing output at the slot and file descriptor level
+2026-10-07T16:38:24Z,tazworks-mcp,0.1.0,Exclugo,MIT,133662,MCP server for the TazWorks (InstaScreen) background screening API
+2026-10-07T16:43:58Z,tapra,0.1.1,,Proprietary,145628,"Official Python SDK for the Tapra API: Tunisian code-switching transcription, speech, translation, and script conversion."
+2026-10-07T16:47:37Z,fibonacci-tdd-kata-matthieuringd,0.1.2,Matthieu Ringard <matt33.ringard@gmail.com>,,78140,"A test-driven Fibonacci kata with recursive, optimized, and modular implementations."
+2026-10-07T16:48:49Z,cathedralpkg-portico,2026.1,David Ferro-Costas <david.ferro@usc.es>,MIT,80684,Asymptotic classification of transition-state normal modes via projection onto roto-translational internal coordinates
+2026-10-07T16:56:25Z,nsnswewe,0.1.0,,MIT,169549,"Your strategy on one page: positions in the five Playing to Win boxes, decided one at a time"
+2026-10-07T17:02:30Z,satassume,0.0.1,satassume contributors,BSD-3-Clause,663303,An incremental SAT-based engine for SymPy's ask(): unary scalar predicates on scalar expressions
+2026-10-07T17:03:00Z,agent-testbench,0.1.1,Sarp Tandoven,MIT,141442,"A test bench your coding agent operates: live kernels and verified runs on Modal GPUs, Colab or your machine, inside a budget."
+2026-10-07T17:05:45Z,collective.xsendfile,2.0.0,BlueDynamics Alliance,GPL-2.0-or-later,50914,Offload ZODB BLOB download to front end web server using XSendfile/HTTP-Accel protocol
+2026-10-07T17:10:27Z,fastref,0.1.0,Rafael Darder,MIT,67000,Fast offline documentation reference desk and skill generator for AI agents
+2026-10-07T17:14:35Z,disslucc,0.5.0,Sérgio Souza Costa,MIT,92406,Land Use and Cover Change (LUCC) modeling — continuous and discrete allocation — on top of dissmodel.
+2026-10-07T17:15:58Z,inmet-forecast,1.0.0,,MIT,25866,A dependency-free Python client for INMET municipality forecasts
+2026-10-07T17:17:15Z,temporalio-deepagents,0.0.1,Temporal Technologies Inc,MIT,84034,Temporal integration for deepagents
+2026-10-07T17:19:08Z,ninjasignal,0.1.0,Scott Gardner <the_v01d@ninja.ing>,Apache-2.0,27011,"Python client for Ninja Labz predictive threat intelligence — live ransomware groups, victims, and what the lab predicts next."
+2026-10-07T17:20:15Z,scrapewise,0.1.0,BEBOTECH OÜ <hello@scrapewise.ai>,MIT,41427,Python client for the ScrapeWise web-scraping and price-monitoring API.
