@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T01:23:54Z,tagtruth,0.1.0,Hao Li,MIT,31802,Check that a PyPI package's published versions actually have matching Git tags
+2026-10-07T01:24:01Z,wheelreach,0.1.0,Hao Li,MIT,30519,Check that a package's declared Python support actually has installable release files
+2026-10-07T01:24:04Z,entryprobe,0.1.1,Hao Li,MIT,36070,Verify that a package's console_scripts entry points can actually start after install
+2026-10-07T01:24:08Z,licenseproof,0.1.1,Hao Li,MIT,24463,Check that a published Python artifact carries usable license information
+2026-10-07T01:26:18Z,tanvo,0.1.0,Tanvo <support@tanvo.ai>,MIT,29457,"Python client for Tanvo: AI images, video and songs on Nano Banana, Seedream, GPT Image, Veo, Kling, Seedance and Suno, plus 80 ready-made photo apps. No dependencies; the house image engine works wi…"
+2026-10-07T01:29:11Z,pypebbling,0.1.1,Eric Lee,MIT,29885,"Exact pebbling reachability and solvability on graphs, with replayable move certificates and an independent checker"
+2026-10-07T01:33:10Z,qversus,0.1.0,Felipe Santibanez-Leal,MIT,160206,"Canonical quantum-computing problems solved by real frameworks (Qiskit, PennyLane, Cirq, Stim) next to classical baselines, with replayable, seeded traces."
+2026-10-07T01:33:15Z,tailorbirdcv,0.2.0,,,6076533,Tailor your resume to a job description without inventing anything — a local web app
+2026-10-07T01:37:22Z,micki,2.0.1,"Eric D. Hermes, Aurora N. Janes, J.R. Schmidt",LGPL-3.0-only,72872,"A modular, extensible, object-oriented microkinetic modeling package"
+2026-10-07T01:39:59Z,exege-core,0.6.0,E3SM AI Group,BSD-3-Clause,346158,"Tools for understanding and evaluating scientific machine-learning models: the code, and only Click. `exege` is the full install."
+2026-10-07T01:40:24Z,exege,0.6.0,E3SM AI Group,BSD-3-Clause,3555,"Tools for understanding and evaluating scientific machine-learning models: latent-space diagnostics, sparse autoencoders, figures, a local app"
+2026-10-07T01:45:05Z,rulestamp-cloud-cost-landmine-lint,0.1.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32664,"Names every line in the file you have open that starts a recurring cloud charge, with the published us-east-1 price and the date it changes by itself. (bundled Node.js runtime)"
+2026-10-07T01:45:23Z,rulestamp-datenschutz-auskunft-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34247,15 Prüfungen für Auskunftsschreiben nach Art. 15 DSGVO – samt Monatsfrist ab Eingangsdatum (bundled Node.js runtime)
+2026-10-07T01:45:40Z,rulestamp-dividenden-quellensteuer-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36703,"Ausländische Dividenden versteuern ohne Überhang: Die Beispiel CSV mit 10 Dividenden ergibt 8 Findings und 495,00 € Quellensteuer über dem DBA-Satz, davon 120,00 € verfallen (Roche 2022, Frist 2025-1…"
+2026-10-07T01:45:57Z,rulestamp-dora-ict-contract-clause-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33843,"Twenty-two checks over the ICT vendor contracts in your repository - every missing Article 30 clause named, with the wording to paste in. (bundled Node.js runtime)"
+2026-10-07T01:46:18Z,lotuspod,0.1.0,,MIT,542147,"Lotuspod: publish pages people comment on, with decision forms and agents that answer."
+2026-10-07T01:50:03Z,cisco-interface-health,0.1.0,Arkadiy Ayrapetov,MIT,11872,"Offline triage of Cisco IOS / IOS-XE show interfaces output: CRC, duplex mismatch, err-disabled, drops, flapping"
+2026-10-07T01:54:48Z,solvephase,0.1.0,Jacob Taylor <jacobataylor7@gmail.com>,MIT,1327943,"Fast, GPU-optional phase retrieval for adaptive optics, optical metrology and coherent imaging."
+2026-10-07T01:55:11Z,findfmt,0.1.0,Brandon Perkins <bdperkin@gmail.com>,MIT,71993,"A.gitignore-aware file discovery and classification suite that locates files by content format, shebang, and MIME tag for automated linting, formatting, and CI pipelines."
+2026-10-07T01:56:55Z,pubship,0.24.0,,AGPL-3.0-only,1252349,Open-source MCP server for Google Play developer workflows. Runs locally with your own credentials.
+2026-10-07T01:57:04Z,agents-inc,0.2.0,Dominik Mattioli,LicenseRef-PolyForm-Small-Business-1.0.0-NoAI-Training,349730,Governed multi-agent dispatch and verification layer
+2026-10-07T01:59:37Z,packmol-util,0.2.4,Kengo NAKADA <kengo.nakada@email.com>,,51373,using packmol
+2026-10-07T02:04:19Z,tallyho,0.0.1,0cherednoq,MIT,1116633,"Batch accounting, dynamic fan-out and stage pipelines on top of any task broker, backed by PostgreSQL."
+2026-10-07T02:07:25Z,wjx-filler,1.0.0,wjx-filler contributors,MIT,43865,问卷星自动填写工具：通过 OpenAI 兼容协议请求 AI 获取答案并自动提交
+2026-10-07T02:11:52Z,cisco-config-drift,0.1.0,Arkadiy Ayrapetov,MIT,12045,Read-only configuration drift detection for Cisco IOS / IOS-XE
+2026-10-07T02:12:02Z,ios-hardening-audit,0.1.0,Arkadiy Ayrapetov,MIT,14044,Offline security hardening audit of Cisco IOS / IOS-XE running-configs

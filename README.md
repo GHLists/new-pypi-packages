@@ -8,27 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 01:18 UTC
+## Latest list — 2026-10-07 02:19 UTC
 
-New packages created between 2026-10-07 00:19 UTC and 2026-10-07 01:18 UTC.
+New packages created between 2026-10-07 01:18 UTC and 2026-10-07 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-07T01-18-55-945306Z.csv)
+[Full CSV](data/new-packages-2026-10-07T02-19-03-726221Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-07 00:31:22 | [flowscope-mcp](https://pypi.org/project/flowscope-mcp/) | 0.1.1 |  | 107.4 kB | MCP server for FlowScope: turn YouTube product demos into structured UX flow re… |
-| 2026-10-07 00:35:55 | [argrouter](https://pypi.org/project/argrouter/) | 0.1.0a1 | Harun Ercul | 116.3 kB | LLM router that picks the model and reasoning effort per query from accuracy an… |
-| 2026-10-07 00:39:01 | [agentlore](https://pypi.org/project/agentlore/) | 0.9.1 | Rudra Patel <60398030+Rudra54… | 91.5 kB | Git-reviewable repo memory for coding agents: typed decisions, dead ends, conve… |
-| 2026-10-07 00:39:17 | [olab-utils](https://pypi.org/project/olab-utils/) | 0.1.0 | Optimator Lab | 64.2 kB | Shared utility helpers for lab robotics projects. |
-| 2026-10-07 00:39:55 | [h3d-tool](https://pypi.org/project/h3d-tool/) | 1.0.2 | H3D Project Team | 16.8 kB | Radiation spectrum loading, background subtraction, smoothing, and analysis tool |
-| 2026-10-07 00:40:29 | [readymade](https://pypi.org/project/readymade/) | 0.0.1 | Joseph E. Coleman | 284.1 kB | Visual Basic-style forms for Python: draw a form, double-click to write its cod… |
-| 2026-10-07 00:40:41 | [molfp](https://pypi.org/project/molfp/) | 0.2.0 | Chanin Nantasenamat | 152.8 kB | Interpretable molecular fingerprints with SHAP-driven chemical explanations |
-| 2026-10-07 00:40:49 | [pixgen](https://pypi.org/project/pixgen/) | 0.1.1 | Diego Gamboa | 102.6 kB | A command-line tool for generating and managing images. |
-| 2026-10-07 00:42:56 | [aspire-si](https://pypi.org/project/aspire-si/) | 1.1.0 | mcp-tool-shop <64996768+mcp-t… | 627.7 kB | Adversarial Student-Professor Internalized Reasoning Engine |
-| 2026-10-07 00:45:05 | [aw1-circuit-breaker](https://pypi.org/project/aw1-circuit-breaker/) | 0.1.1 | Mvik Manners | 59.0 kB | Deterministic sub-0.2ms AST execution circuit breaker for autonomous agents and… |
-| 2026-10-07 00:51:34 | [mesoloom](https://pypi.org/project/mesoloom/) | 0.0.2 |  | 6.5 kB | Placeholder release for mesoloom. |
-| 2026-10-07 00:51:59 | [theclassifier](https://pypi.org/project/theclassifier/) | 0.1.0 | TrueState | 42.1 kB | Natural language classification on CPU and GPU, with domain adapters and LoRA f… |
-| 2026-10-07 00:55:38 | [text-to-reality](https://pypi.org/project/text-to-reality/) | 0.1.0 | ai-wes | 476.0 kB | Give your agent the power to build real things: parts list, printed parts, wiri… |
-| 2026-10-07 01:04:24 | [rnel](https://pypi.org/project/rnel/) | 0.3.0 | Maikel Yelandi Leyva-Vázquez,… | 208.7 kB | A toolkit for neutrosophic evidence |
-| 2026-10-07 01:11:00 | [aocore](https://pypi.org/project/aocore/) | 0.1.2 | Jacob Taylor <jacobataylor7@g… | 70.0 kB | Shared conventions, conformance checks and optics primitives for the AO simulat… |
-| 2026-10-07 01:16:34 | [shikumi-contrace](https://pypi.org/project/shikumi-contrace/) | 0.1.0 | minoru_jp | 170.2 kB | Describe the contract of a type as a standalone asset, and trace which tests re… |
+| 2026-10-07 01:23:54 | [tagtruth](https://pypi.org/project/tagtruth/) | 0.1.0 | Hao Li | 31.8 kB | Check that a PyPI package's published versions actually have matching Git tags |
+| 2026-10-07 01:24:01 | [wheelreach](https://pypi.org/project/wheelreach/) | 0.1.0 | Hao Li | 30.5 kB | Check that a package's declared Python support actually has installable release… |
+| 2026-10-07 01:24:04 | [entryprobe](https://pypi.org/project/entryprobe/) | 0.1.1 | Hao Li | 36.1 kB | Verify that a package's console_scripts entry points can actually start after i… |
+| 2026-10-07 01:24:08 | [licenseproof](https://pypi.org/project/licenseproof/) | 0.1.1 | Hao Li | 24.5 kB | Check that a published Python artifact carries usable license information |
+| 2026-10-07 01:26:18 | [tanvo](https://pypi.org/project/tanvo/) | 0.1.0 | Tanvo <support@tanvo.ai> | 29.5 kB | Python client for Tanvo: AI images, video and songs on Nano Banana, Seedream, G… |
+| 2026-10-07 01:29:11 | [pypebbling](https://pypi.org/project/pypebbling/) | 0.1.1 | Eric Lee | 29.9 kB | Exact pebbling reachability and solvability on graphs, with replayable move cer… |
+| 2026-10-07 01:33:10 | [qversus](https://pypi.org/project/qversus/) | 0.1.0 | Felipe Santibanez-Leal | 160.2 kB | Canonical quantum-computing problems solved by real frameworks (Qiskit, PennyLa… |
+| 2026-10-07 01:33:15 | [tailorbirdcv](https://pypi.org/project/tailorbirdcv/) | 0.2.0 |  | 6.1 MB | Tailor your resume to a job description without inventing anything — a local we… |
+| 2026-10-07 01:37:22 | [micki](https://pypi.org/project/micki/) | 2.0.1 | Eric D. Hermes, Aurora N. Jan… | 72.9 kB | A modular, extensible, object-oriented microkinetic modeling package |
+| 2026-10-07 01:39:59 | [exege-core](https://pypi.org/project/exege-core/) | 0.6.0 | E3SM AI Group | 346.2 kB | Tools for understanding and evaluating scientific machine-learning models: the… |
+| 2026-10-07 01:40:24 | [exege](https://pypi.org/project/exege/) | 0.6.0 | E3SM AI Group | 3.6 kB | Tools for understanding and evaluating scientific machine-learning models: late… |
+| 2026-10-07 01:45:05 | [rulestamp-cloud-cost-landmine-lint](https://pypi.org/project/rulestamp-cloud-cost-landmine-lint/) | 0.1.8 | Rulestamp <support@getreadyst… | 32.7 kB | Names every line in the file you have open that starts a recurring cloud charge… |
+| 2026-10-07 01:45:23 | [rulestamp-datenschutz-auskunft-lint](https://pypi.org/project/rulestamp-datenschutz-auskunft-lint/) | 1.0.4 | Rulestamp <support@getreadyst… | 34.2 kB | 15 Prüfungen für Auskunftsschreiben nach Art. 15 DSGVO – samt Monatsfrist ab Ei… |
+| 2026-10-07 01:45:40 | [rulestamp-dividenden-quellensteuer-lint](https://pypi.org/project/rulestamp-dividenden-quellensteuer-lint/) | 1.0.3 | Rulestamp <support@getreadyst… | 36.7 kB | Ausländische Dividenden versteuern ohne Überhang: Die Beispiel CSV mit 10 Divid… |
+| 2026-10-07 01:45:57 | [rulestamp-dora-ict-contract-clause-lint](https://pypi.org/project/rulestamp-dora-ict-contract-clause-lint/) | 1.0.8 | Rulestamp <support@getreadyst… | 33.8 kB | Twenty-two checks over the ICT vendor contracts in your repository - every miss… |
+| 2026-10-07 01:46:18 | [lotuspod](https://pypi.org/project/lotuspod/) | 0.1.0 |  | 542.1 kB | Lotuspod: publish pages people comment on, with decision forms and agents that… |
+| 2026-10-07 01:50:03 | [cisco-interface-health](https://pypi.org/project/cisco-interface-health/) | 0.1.0 | Arkadiy Ayrapetov | 11.9 kB | Offline triage of Cisco IOS / IOS-XE show interfaces output: CRC, duplex mismat… |
+| 2026-10-07 01:54:48 | [solvephase](https://pypi.org/project/solvephase/) | 0.1.0 | Jacob Taylor <jacobataylor7@g… | 1.3 MB | Fast, GPU-optional phase retrieval for adaptive optics, optical metrology and c… |
+| 2026-10-07 01:55:11 | [findfmt](https://pypi.org/project/findfmt/) | 0.1.0 | Brandon Perkins <bdperkin@gma… | 72.0 kB | A.gitignore-aware file discovery and classification suite that locates files by… |
+| 2026-10-07 01:56:55 | [pubship](https://pypi.org/project/pubship/) | 0.24.0 |  | 1.3 MB | Open-source MCP server for Google Play developer workflows. Runs locally with y… |
+| 2026-10-07 01:57:04 | [agents-inc](https://pypi.org/project/agents-inc/) | 0.2.0 | Dominik Mattioli | 349.7 kB | Governed multi-agent dispatch and verification layer |
+| 2026-10-07 01:59:37 | [packmol-util](https://pypi.org/project/packmol-util/) | 0.2.4 | Kengo NAKADA <kengo.nakada@em… | 51.4 kB | using packmol |
+| 2026-10-07 02:04:19 | [tallyho](https://pypi.org/project/tallyho/) | 0.0.1 | 0cherednoq | 1.1 MB | Batch accounting, dynamic fan-out and stage pipelines on top of any task broker… |
+| 2026-10-07 02:07:25 | [wjx-filler](https://pypi.org/project/wjx-filler/) | 1.0.0 | wjx-filler contributors | 43.9 kB | 问卷星自动填写工具：通过 OpenAI 兼容协议请求 AI 获取答案并自动提交 |
+| 2026-10-07 02:11:52 | [cisco-config-drift](https://pypi.org/project/cisco-config-drift/) | 0.1.0 | Arkadiy Ayrapetov | 12.0 kB | Read-only configuration drift detection for Cisco IOS / IOS-XE |
+| 2026-10-07 02:12:02 | [ios-hardening-audit](https://pypi.org/project/ios-hardening-audit/) | 0.1.0 | Arkadiy Ayrapetov | 14.0 kB | Offline security hardening audit of Cisco IOS / IOS-XE running-configs |
