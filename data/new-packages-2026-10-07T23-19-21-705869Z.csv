@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T22:20:36Z,zatom2,1.0.1,Zatom-AI <mtc49@cam.ac.uk>,"Zatom-2 Copyright (c) 2026, The Regents of the University of California, through Lawrence Berkeley…",52785562,An atomistic foundation model for molecules and materials.
+2026-10-07T22:20:37Z,zatom-nucleus,1.0.1,Zatom-AI <acmwhb@lbl.gov>,"Nucleus Copyright (c) 2026, The Regents of the University of California, through Lawrence Berkeley…",60540732,Shared utilities and training infrastructure for atomistic foundation models.
+2026-10-07T22:20:55Z,enclave42,0.1.0,Num Lab Tech,Apache-2.0,7927537,"Enclave42 Python client, including the public Confidential inference facade."
+2026-10-07T22:22:54Z,zrun-py,0.1.0,Daniele Linguaglossa,MIT,1373344,"Execution for languages built with zgram and zrules: semantics written as Python functions, compiled to native code."
+2026-10-07T22:22:56Z,pump-anthropic-radar,0.0.2,"pump.co, Mor Michaeli",MIT,107778,"Anthropic infrastructure FinOps SDK — scan, analyze, and export your Anthropic org resources"
+2026-10-07T22:23:44Z,verbatim-memory,1.0.0,Verbatim contributors,MIT,4059025,"Evidence-first, zero-generation memory engine and Hermes memory provider"
+2026-10-07T22:28:50Z,doconda,0.1.0,,MIT,35631,"Python SDK for Doconda: generate, review and edit Word, PowerPoint, Excel and PDF documents from AI agents (Amazon Bedrock, Vertex AI, OpenAI, Claude, LangChain)."
+2026-10-07T22:29:47Z,tanzil,1.0.0,Ashraful Islam Tanzil,MIT,19151,Ashraful Islam Tanzil's interactive Python terminal portfolio
+2026-10-07T22:30:53Z,kynomesh,0.1.0,,,145770,Kynomesh Python SDK
+2026-10-07T22:31:15Z,krite,0.1.0,,Apache-2.0,5609756,"Krite decision runtime in process: Protocol v1 answers from Python, no server"
+2026-10-07T22:34:11Z,temporalio-langsmith,0.1.0,Temporal Technologies Inc,MIT,427182,Temporal integration for langsmith
+2026-10-07T22:34:16Z,reflex-hairline,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,MIT,75940,"Hairline's twenty-seven isometric line figures that answer the pointer, as Reflex components."
+2026-10-07T22:36:33Z,bot-guard-py,0.7.0,bot-guard-py contributors,MIT,80551,Dependency-free HTTP bot detection and application-layer flood mitigation for Python 3.9+
+2026-10-07T22:38:20Z,nuke-di,1.0.0,Dmitriy Troyan,MIT,17977,Simplest type-hint based dependency injection for async Python projects
+2026-10-07T22:39:47Z,falcorcomp,0.2.0,Juhyeon Kim,BSD-3-Clause; bundled third-party components are under their own licenses (THIRD_PARTY_NOTICES.md),295524087,"GPU rendering for computational imaging, built on NVIDIA Falcor"
+2026-10-07T22:40:47Z,living-agents,0.4.11,Athar Nouman <atharnouman@gmail.com>,Apache-2.0,60543,"Living Agents Protocol (LAP) Python reference implementation and MCP server middleware: LIP-1 Passport, LIP-3 Scope Algebra, LIP-4 Micro-Core verification and receipts."
+2026-10-07T22:42:10Z,odoo-linter,0.1.0a1,bosd,MIT,1286631,Blazing fast Rust-native linter for Odoo modules
+2026-10-07T22:47:32Z,spatialagents,0.1.0,Ajit Johnson Nirmal <ajitjohnson.n@gmail.com>,LicenseRef-Proprietary,278660,"The chat harness runtime SCIMAP Pro, Plexora and other BioCognia products share"
+2026-10-07T22:48:12Z,distillql,0.0.1,Chris Martin,Apache-2.0,2882,"DistillQL: the context layer between your AI agent and your databases, drafted from what you already run. Placeholder release."
+2026-10-07T22:52:41Z,temporalio-strands-agents,0.1.0,Temporal Technologies Inc,MIT,72740,Temporal integration for strands agents
+2026-10-07T22:53:34Z,vercel-proxy,0.1.0,,MIT,23311,Proxy routing API for Vercel Python middleware
+2026-10-07T22:53:37Z,speccert,1.2.0,Andrés Monreal-Hernández <andres.monreal@ues.mx>,MIT,74034,Checked UV-Vis and IR spectra from ORCA outputs and d-band moments from VASP DOSCAR files
+2026-10-07T22:55:17Z,rashomon-py,0.2.0,rashomon-py contributors,MIT,105703,Does your conclusion survive every equally-good model? Multiplicity audits for scikit-learn linear models.
+2026-10-07T22:58:24Z,lablite-cvd,0.1.0,Gideon Owusu <gideono@mtu.edu>,MIT,93153,"LabLite-CVD: explainable, tiered-input cardiovascular risk model quantifying the information cost of missing laboratory data (research use only)"
+2026-10-07T23:06:12Z,conlanggen,0.4.2,Brian McKeen,MIT License Copyright (c) 2026 Brian McKeen Contact: bmckeen1919@gmail.com Permission is hereby gra…,170202,"A partial-spec conlang generator: specify what you care about, sample the rest."
+2026-10-07T23:08:31Z,quran-toolkit,0.1.0,Abbas Safardoost <a.safardoust@gmail.com>,MIT,1511708,"Detect, tag, tokenize, diacritize and retrieve Qur'anic quotations inside Arabic/Persian text."
+2026-10-07T23:10:15Z,openecon-charts,0.3.0a1,OpenEconometrics contributors,Apache-2.0,909724,Portable offline charts for Python tables and statistical models
+2026-10-07T23:14:11Z,rootsight,0.1.0,,,13514117,"An on-call agent, infrastructure designer and SRE assistant for your own systems: read-only, evidence-backed, changes only through review"
