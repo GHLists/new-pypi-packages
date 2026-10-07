@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T07:40:34Z,ansys-saf-projects-dashboard,0.1.0,"Synopsys, Inc. and ANSYS, Inc.",MIT,794428,Dash component for SAF-based solution applications to view and manage project instances.
+2026-10-07T08:19:51Z,genz-lio,0.1.0,GenZ-LIO maintainers,GPL-2.0-only,5088339,Generalizable LiDAR-inertial odometry across confined and open environments
+2026-10-07T08:20:25Z,taskpulse-24,0.1.0,TaskPulse contributors,"MIT License Copyright (c) 2026 TaskPulse contributors Permission is hereby granted, free of charge,…",14329,"A small, dependency-free task prioritizer and daily planner."
+2026-10-07T08:20:56Z,ese774-frame,0.6.1,Kengo NAKADA <kengo.nakada@email.com>,,89881,Ese774 Frame (FastAPI Frame)
+2026-10-07T08:21:14Z,vezur-video-converter,0.1.0,Vezur AI,MIT,20439,"Local video conversion and inspection with FFmpeg, a Python API, and a CLI."
+2026-10-07T08:23:47Z,llm-sunset,0.1.0,llm-sunset contributors,MIT,47056,"Find AI model IDs in your code that are deprecated or about to be shut down (OpenAI, Anthropic, Gemini, Azure, Groq, Cohere, xAI)."
+2026-10-07T08:23:50Z,secrulekit,1.2.0,"""Cherno.x"" <long544844@gmail.com>","MIT License Copyright (c) 2026 Cherno.x Permission is hereby granted, free of charge, to any person…",48453,"Parse, validate, convert, and manage YARA, Sigma, and Suricata security detection rules"
+2026-10-07T08:27:28Z,flowbox,0.1.0,"Flowmatic, UniForceMusic",MIT,52721,A vendor-neutral email connector: read inboxes and send mail through the adapter you choose.
+2026-10-07T08:27:44Z,pr-policy,0.1.0,rodny90,"MIT License Copyright (c) 2026 rodny90 Permission is hereby granted, free of charge, to any person…",71732,Check pull requests against the contribution policy your project already wrote down.
+2026-10-07T08:27:51Z,patch-linter,1.0.0,Pavel Maksimov <vur21@yandex.ru>,MIT,20622,Static analyzer that forbids unittest.mock.patch and pytest monkeypatch in tests
+2026-10-07T08:30:38Z,grpc-frame,0.5.13,Kengo NAKADA <kengo.nakada@email.com>,,66709,gRPC server/client frame
+2026-10-07T08:31:15Z,quabla-mlx,0.6.1,latteine,MIT OR Apache-2.0,223989754,Rust-backed SciML runtime experiment exposed to Python
+2026-10-07T08:36:12Z,smartimageclean,0.1.2,Sumit Palekar,MIT,79773,"A configurable Python library for automated image quality analysis, validation, standardization, and dataset cleaning."
+2026-10-07T08:39:02Z,optmapper,0.1.0,The LEGEND Collaboration,GPL-3.0,68234,Production of LEGEND optical maps on batch systems
+2026-10-07T08:40:03Z,symm-mcp,0.1.0,tacticaldoll,Apache-2.0 OR MIT,88766,"A lightweight, symmetric, asynchronous MCP channel for handing work between independent agents."
+2026-10-07T08:40:58Z,ztds,1.1.0,"Ilya Sibiryakov <ilya@ztds.ai>, ZTDS AI Consortium <standard@ztds.ai>",MIT,41405,"Zero-Trust Data Sanitization (ZTDS) - Canonical Python Reference Implementation (RFC v1.0, draft-sibiryakov-ztds-protocol)"
+2026-10-07T08:43:41Z,agents-tree,0.1.1,Karel Blavka,MIT,52471,"Show Claude Code sessions and their subagents as a live tree: model, effort, context use, elapsed time, status."
+2026-10-07T08:45:19Z,tb-hide,0.1.0,YXProtocol <YXProtocol@outlook.com>,MIT,7163,A Python package for traceback frame hiding
+2026-10-07T08:46:10Z,iterquarry,2.1.1,iterquarry contributors,MIT,88715,"Python iterable tools: pairwise, chunked batches, sliding windows, flatten, sampling, and combinatorics."
+2026-10-07T08:46:47Z,python.pyai,0.1.0,olan,MIT,3310,A simple Python AI library
+2026-10-07T08:49:22Z,tazi,0.0.0,TAZI AI Systems <code@tazi.ai>,LicenseRef-TAZI-Commercial,3207,Name reserved by TAZI AI Systems. The real package is distributed privately to TAZI customers.
+2026-10-07T08:49:23Z,tazi-sdk,0.0.0,TAZI AI Systems <code@tazi.ai>,LicenseRef-TAZI-Commercial,3273,Name reserved by TAZI AI Systems. The real package is distributed privately to TAZI customers.
+2026-10-07T08:49:43Z,perchance-api,0.2.0,Zec,MIT,20658,Unofficial Python API for Perchance.
+2026-10-07T08:56:29Z,ultrastiching-sdk,0.1.4,UltraStiching,Apache-2.0,1158880,UltraStiching SDK for the UltraStiching Data API
+2026-10-07T08:58:36Z,eco-connectivity,2.2.0,Roozbeh Valavi <roozbeh.valavi@csiro.au>,MIT,167378391,A multi-resolution landscape connectivity algorithm written in Rust
+2026-10-07T08:58:52Z,synode.py3,0.8.0,Ody Z <odys.zhou@gmail.com>,Apache-2.0,173057,Portfolio Synode Stand Alone Service
+2026-10-07T08:59:28Z,co-scientist-engine,0.0.0,,Apache-2.0,1515,Reserved for https://github.com/guy915/Co-Scientist
+2026-10-07T09:01:25Z,arca-models,0.1.2.dev189,,,16833,ETH Library Data Archive Models - Python Pydantic classes
+2026-10-07T09:01:48Z,pedal-balance,0.1.0,Martin Mahner <martin@mahner.org>,MIT,70121,"Check and fix left/right balance errors of dual-sided power meter pedals in FIT files, with intervals.icu integration"
+2026-10-07T09:04:13Z,phagemine,1.3.1,Nnaemeka Emmanuel Nnadi,"MIT License Copyright (c) 2026 PhageMine contributors Permission is hereby granted, free of charge,…",1135412,Evidence-first phage annotation and discovery mining
+2026-10-07T09:10:38Z,manimgx-fonts-cjk,2026.9.26,"Sina Atalay, Abdullah Geduk",OFL-1.1,39569445,"Noto Sans CJK, the font ManimGX sets Chinese, Japanese and Korean text in."
+2026-10-07T09:10:41Z,manimgx-fonts,2026.9.26,"Sina Atalay, Abdullah Geduk",OFL-1.1,7068064,"The Noto fonts ManimGX sets text in: Noto Sans, Noto Emoji, Noto Sans Symbols, and Noto Sans for the scripts Latin faces lack."
+2026-10-07T09:11:16Z,manimgx,0.1.0,"Sina Atalay <sina.atalay@academa.ai>, Abdullah Geduk <geduk@academa.ai>",MIT AND GPL-2.0-or-later AND LGPL-2.1-or-later AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND…,210095157,"The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core."
+2026-10-07T09:11:34Z,heycivis,0.1.0,,,304400,Local LinkedIn outreach tool for agents. Skill plus CLI.
+2026-10-07T09:14:27Z,torchfdtd,1.1.7,,MIT,1044179,An open-source visual FDTD workbench with Python and CUDA
+2026-10-07T09:15:17Z,PeDagger,1.0.0,lyshark,MIT Licence,56714,
+2026-10-07T09:16:26Z,maf-cachebench,0.1.0,SOKOLAI BV,MIT,417278,"Benchmark for Microsoft Agent Framework compaction strategies: what each one costs in prompt-cache hits and what it loses, measured on a replayed conversation or a live agent."

@@ -1,19 +1,25 @@
 {
   "list": {
     "count": 37,
-    "from": "2026-10-07T07:19:24.27291Z",
-    "path": "data/new-packages-2026-10-07T08-19-14-537129Z.csv",
-    "to": "2026-10-07T08:19:14.537129Z"
+    "from": "2026-10-07T08:19:14.537129Z",
+    "path": "data/new-packages-2026-10-07T09-20-27-982328Z.csv",
+    "to": "2026-10-07T09:20:27.982328Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-07T07:40:34Z",
-      "package": "ansys-saf-projects-dashboard",
-      "since": "2026-10-07T07:19:24.27291Z"
+      "created_at": "2026-10-07T09:01:21Z",
+      "package": "federated-agent-kits",
+      "since": "2026-10-07T08:19:14.537129Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-07T09:18:31Z",
+      "package": "orderly-chaos",
+      "since": "2026-10-07T08:19:14.537129Z"
     }
   ],
-  "serial": 41914846,
+  "serial": 41916807,
   "source_truncated": false,
-  "window": "2026-10-07T08:19:14.537129Z"
+  "window": "2026-10-07T09:20:27.982328Z"
 }
