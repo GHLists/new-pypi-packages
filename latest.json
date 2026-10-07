@@ -1,12 +1,19 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-10-07T06:21:51.351614Z",
-    "path": "data/new-packages-2026-10-07T07-19-24-27291Z.csv",
-    "to": "2026-10-07T07:19:24.27291Z"
+    "count": 37,
+    "from": "2026-10-07T07:19:24.27291Z",
+    "path": "data/new-packages-2026-10-07T08-19-14-537129Z.csv",
+    "to": "2026-10-07T08:19:14.537129Z"
   },
-  "pending": [],
-  "serial": 41913234,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-07T07:40:34Z",
+      "package": "ansys-saf-projects-dashboard",
+      "since": "2026-10-07T07:19:24.27291Z"
+    }
+  ],
+  "serial": 41914846,
   "source_truncated": false,
-  "window": "2026-10-07T07:19:24.27291Z"
+  "window": "2026-10-07T08:19:14.537129Z"
 }

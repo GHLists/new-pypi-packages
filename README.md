@@ -8,41 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 07:19 UTC
+## Latest list — 2026-10-07 08:19 UTC
 
-New packages created between 2026-10-07 06:21 UTC and 2026-10-07 07:19 UTC.
+New packages created between 2026-10-07 07:19 UTC and 2026-10-07 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-07T07-19-24-27291Z.csv)
+[Full CSV](data/new-packages-2026-10-07T08-19-14-537129Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-07 06:17:29 | [wherobots-dbt](https://pypi.org/project/wherobots-dbt/) | 0.1.0 | Wherobots <support@wherobots.… | 168.2 kB | The Wherobots adapter plugin for dbt |
-| 2026-10-07 06:26:52 | [cryptsmith](https://pypi.org/project/cryptsmith/) | 0.1.0 | Jake Burre | 28.4 kB | Crypto attack primitives and analysis toolkit for CTF players and security rese… |
-| 2026-10-07 06:26:52 | [permitprobe](https://pypi.org/project/permitprobe/) | 0.1.1 | Chorolee | 69.3 kB | Repeatable API, response-data, and AI handoff boundary checks |
-| 2026-10-07 06:26:58 | [flaghunter](https://pypi.org/project/flaghunter/) | 0.1.0 | Jake Burre | 18.4 kB | CTF crypto autosolver and pcap hunter. Point it at a challenge file or packet c… |
-| 2026-10-07 06:29:16 | [akasha-mcp](https://pypi.org/project/akasha-mcp/) | 0.0.2 | Ahmad Nur Salim | 250.4 kB | A local knowledge base for your coding agents, served over MCP. |
-| 2026-10-07 06:29:48 | [volcenginesdk-veiapi](https://pypi.org/project/volcenginesdk-veiapi/) | 0.0.1 | volc-engine | 998 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-veia… |
-| 2026-10-07 06:29:54 | [volcenginesdk-vepfs](https://pypi.org/project/volcenginesdk-vepfs/) | 0.0.1 | volc-engine | 990 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-vepfs |
-| 2026-10-07 06:30:01 | [volcenginesdk-vikingdb](https://pypi.org/project/volcenginesdk-vikingdb/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-viki… |
-| 2026-10-07 06:30:07 | [volcenginesdk-vke](https://pypi.org/project/volcenginesdk-vke/) | 0.0.1 | volc-engine | 974 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-vke |
-| 2026-10-07 06:30:35 | [vnuli](https://pypi.org/project/vnuli/) | 0.1.0 |  | 448.4 kB | Vnuli tools for AI-assisted physical engineering investigation. |
-| 2026-10-07 06:32:12 | [cloxy](https://pypi.org/project/cloxy/) | 5.1 |  | 109.0 kB | Give your local AI eyes and memory — web proxy, self-maintaining conversation m… |
-| 2026-10-07 06:38:32 | [solidx-agenthub-runtime](https://pypi.org/project/solidx-agenthub-runtime/) | 0.1.0 |  | 250.6 kB | SolidX AgentHub agent loop and runtime |
-| 2026-10-07 06:38:48 | [hugpy-browser](https://pypi.org/project/hugpy-browser/) | 0.2.0 |  | 1.8 MB | Screen-driven browser control for bots, standalone and trainable: the browser-p… |
-| 2026-10-07 06:39:47 | [money-mom](https://pypi.org/project/money-mom/) | 0.1.0a4 | Money Mom contributors | 267.2 kB | Money Mom: an append-only, double-entry ledger engine and skill for AI agents.… |
-| 2026-10-07 06:40:33 | [quilchoom](https://pypi.org/project/quilchoom/) | 0.1.0 | Janitha Manatunga | 101.1 kB | Turn development history into traceable project knowledge and documentation. |
-| 2026-10-07 06:49:34 | [zombiecost](https://pypi.org/project/zombiecost/) | 0.1.0 |  | 35.2 kB | Find zombie AWS resources: idle and forgotten things that should be dead but st… |
-| 2026-10-07 06:50:33 | [inboost-ai-proxy](https://pypi.org/project/inboost-ai-proxy/) | 0.3.0 | InBoost Technologies | 4.3 MB | Local inference proxy and reliability gateway for Claude Code, Cursor, OpenHand… |
-| 2026-10-07 06:50:36 | [inboost-proxy](https://pypi.org/project/inboost-proxy/) | 0.3.0 | InBoost Technologies | 4.3 MB | Local inference proxy and reliability gateway for Claude Code, Cursor, OpenHand… |
-| 2026-10-07 06:51:45 | [css-experiments](https://pypi.org/project/css-experiments/) | 0.1.0 | Rashi | 12.5 kB | Cryptography lab experiments (Caesar + ROT13 + Atbash, Rail Fence, RSA, Diffie-… |
-| 2026-10-07 06:56:16 | [kaneza-python-package](https://pypi.org/project/kaneza-python-package/) | 0.1.0 | Kaneza Amandine | 4.8 kB | A simple Python package |
-| 2026-10-07 06:56:52 | [do-again](https://pypi.org/project/do-again/) | 0.1.0 | Steven Tran | 48.2 kB | Policy-controlled local execution for agent-driven development workflows |
-| 2026-10-07 07:02:46 | [feature-flow-cli](https://pypi.org/project/feature-flow-cli/) | 0.1.0 |  | 159.6 kB | A ticket-graph workflow for coding agents: installs the feature-flow skill into… |
-| 2026-10-07 07:10:06 | [http-prompt-reloaded](https://pypi.org/project/http-prompt-reloaded/) | 1.0.0 | tastenkasperle <chailfinger@g… | 20.5 kB | Stateful interactive HTTP REPL and Agentic MCP engine for API navigation and te… |
-| 2026-10-07 07:10:23 | [nak-package](https://pypi.org/project/nak-package/) | 1.0.0 | NAK Developer <nakdeveloper@g… | 5.1 kB | A sample Python package by NAK Developer |
-| 2026-10-07 07:10:59 | [py2axum](https://pypi.org/project/py2axum/) | 0.1.0 | Larry Motalavigne | 871.1 kB | Ahead-of-time compiler from FastAPI + SQLAlchemy + Pydantic applications to Rus… |
-| 2026-10-07 07:11:26 | [IMoTE](https://pypi.org/project/IMoTE/) | 0.0.0 | Flor Debois <flor.debois@uant… | 3.8 MB | IMoTE: Interactive MOdel Tree Explorer, an interactive app to visualise and exp… |
-| 2026-10-07 07:12:01 | [oopsh](https://pypi.org/project/oopsh/) | 1.0.0 | Giorgio Di Falco | 249.2 kB | Corrects your previous console command. A maintained fork of thefuck. |
-| 2026-10-07 07:14:36 | [SSONAL-pkg](https://pypi.org/project/SSONAL-pkg/) | 0.1.0 | SSONALGUPTA | 5.1 kB | A Python module containing functions for factorial, prime number, Armstrong num… |
-| 2026-10-07 07:17:43 | [bouwmeester-lockbox-api](https://pypi.org/project/bouwmeester-lockbox-api/) | 0.1.0 |  | 51.6 kB | Python client for the Bouwmeester Lab Lockbox REST API |
-| 2026-10-07 07:18:26 | [abom](https://pypi.org/project/abom/) | 0.0.2 |  | 35.3 kB | Agent bill of materials manager for skills, prompts, MCP servers, and packages. |
+| 2026-10-07 07:19:29 | [schachbotmanager](https://pypi.org/project/schachbotmanager/) | 0.1.0 |  | 3.8 MB | Bot SDK for SchachBotManager: chess board, moves and the bot main loop |
+| 2026-10-07 07:20:14 | [isard](https://pypi.org/project/isard/) | 0.4.1 | David de Mingo | 38.7 MB | Gencat / IsardVDI client: a Python library and the `isard` CLI, in Rust |
+| 2026-10-07 07:21:04 | [nodriver-turnstile](https://pypi.org/project/nodriver-turnstile/) | 0.1.0 | CircuitSavage | 13.5 kB | Solve Cloudflare Turnstile inside a nodriver browser. |
+| 2026-10-07 07:21:07 | [drissionpage-turnstile](https://pypi.org/project/drissionpage-turnstile/) | 0.1.0 | CircuitSavage | 13.5 kB | Solve Cloudflare Turnstile inside a DrissionPage browser. |
+| 2026-10-07 07:25:29 | [cuifw-c](https://pypi.org/project/cuifw-c/) | 1.7.0 | Suleiman | 438.9 kB | C extension for CuiFW (Console User Interface FrameWork) |
+| 2026-10-07 07:26:42 | [switch-trust-mcp](https://pypi.org/project/switch-trust-mcp/) | 0.1.0 | SandboxAQ | 479.3 kB | Switch Trust platform MCP server: read-only AI-SPM issues, inventory, and remed… |
+| 2026-10-07 07:28:21 | [pyscrobbler](https://pypi.org/project/pyscrobbler/) | 0.1.0 | Hirad | 75.7 kB | A Python library for interacting with Last.fm, Libre.fm, and custom GNU.fm inst… |
+| 2026-10-07 07:30:21 | [crawlora-sofascore](https://pypi.org/project/crawlora-sofascore/) | 0.1.1 | Crawlora | 50.4 kB | Typed SofaScore client for the Crawlora hosted API |
+| 2026-10-07 07:30:53 | [crawlora-flashscore](https://pypi.org/project/crawlora-flashscore/) | 0.1.1 | Crawlora | 59.7 kB | Typed Flashscore client for the Crawlora hosted API |
+| 2026-10-07 07:31:13 | [collationdelta](https://pypi.org/project/collationdelta/) | 0.1.0 |  | 80.9 kB | Detect string ordering and equality changes before a runtime upgrade. |
+| 2026-10-07 07:31:22 | [crawlora-fotmob](https://pypi.org/project/crawlora-fotmob/) | 0.1.1 | Crawlora | 60.0 kB | Typed FotMob client for the Crawlora hosted API |
+| 2026-10-07 07:32:13 | [crawlora-youtube](https://pypi.org/project/crawlora-youtube/) | 0.1.1 | Crawlora | 50.2 kB | Typed YouTube client for the Crawlora hosted API |
+| 2026-10-07 07:34:54 | [brava-cli](https://pypi.org/project/brava-cli/) | 0.3.0 |  | 37.6 kB | Brava Security CLI |
+| 2026-10-07 07:37:14 | [ampro](https://pypi.org/project/ampro/) | 0.5.0 | AMP Contributors <vedant@catl… | 1.3 MB | An open protocol for agent-to-agent communication: trust, delegation and compli… |
+| 2026-10-07 07:37:37 | [gnews-io-python](https://pypi.org/project/gnews-io-python/) | 1.0.0 | GNews API <contact@gnews.io> | 17.7 kB | Official Python client for the GNews API: search news articles and top headline… |
+| 2026-10-07 07:39:43 | [vcraft](https://pypi.org/project/vcraft/) | 0.1.0 |  | 1.8 MB | Build Python extension modules written in V |
+| 2026-10-07 07:43:43 | [useyona-einvoice](https://pypi.org/project/useyona-einvoice/) | 0.1.0 | Yona <dev@useyona.com> | 128.1 kB | Official Python SDK for the Yona e-invoicing API — what an API key may call: in… |
+| 2026-10-07 07:45:11 | [aislice](https://pypi.org/project/aislice/) | 0.1.0 | VNL Works | 43.9 kB | Lock AI-generated music to a fixed BPM grid and slice it by bar/beat. |
+| 2026-10-07 07:45:19 | [fenicsx-compat](https://pypi.org/project/fenicsx-compat/) | 0.1.0 | "Henrik N.T. Finsberg" <henri… | 48.0 kB | Cross-version compatibility helpers for DOLFINx (FEniCSx) |
+| 2026-10-07 07:46:30 | [darudb](https://pypi.org/project/darudb/) | 1.0.0 | CDGet <jooy2.contact@gmail.co… | 16.1 MB | An embedded database that keeps an application's data in one local file. The Py… |
+| 2026-10-07 07:47:35 | [lupaxa-ipinfo-update](https://pypi.org/project/lupaxa-ipinfo-update/) | 0.1.1 | The Lupaxa Project | 14.2 kB | Download the IPinfo Lite database for local TCP wrappers and other tools. |
+| 2026-10-07 07:51:49 | [archai-jev](https://pypi.org/project/archai-jev/) | 0.1.0 | Nicola Procopio | 24.3 MB | High-performance Rust runtime for System One decision models: typed answers wit… |
+| 2026-10-07 07:53:13 | [scietex.modbus-service](https://pypi.org/project/scietex.modbus-service/) | 1.1.0 | Anton Bondarenko <bond.anton@… | 27.2 kB | Scietex microservice daemon for MODBUS communication |
+| 2026-10-07 07:57:02 | [futurepath-mcp](https://pypi.org/project/futurepath-mcp/) | 0.1.0 |  | 38.7 kB | 职途智航职业数据 MCP Server —— 真实数据接入层（GitHub 学习资源 + 百度百科岗位百科 + TBox 数据仓库自有数据） |
+| 2026-10-07 07:57:59 | [manul-browser](https://pypi.org/project/manul-browser/) | 0.1.2 | Oleksii Poliakov | 19.5 MB | Browser automation in plain English — for humans and LLM agents. |
+| 2026-10-07 07:59:49 | [rmc-dft](https://pypi.org/project/rmc-dft/) | 0.7.1 | K.Kobayashi, Kengo NAKADA | 118.9 kB | rmc_dft is a Python package for performing Reverse Monte Carlo modeling and ab… |
+| 2026-10-07 08:04:19 | [syntropika-stargate](https://pypi.org/project/syntropika-stargate/) | 0.1.0 |  | 31.1 MB | Embedded Rust authentication for FastAPI and Starlette |
+| 2026-10-07 08:05:06 | [scietex.log-aggregator-service](https://pypi.org/project/scietex.log-aggregator-service/) | 0.1.0 | Anton Bondarenko <bond.anton@… | 27.3 kB | Scietex microservice daemon that aggregates per-worker log streams |
+| 2026-10-07 08:07:14 | [apisec-surface](https://pypi.org/project/apisec-surface/) | 0.1.13 | APIsec <engineering@apisec.ai> | 2.2 MB | Static analysis probe for extracting architectural metadata from codebases |
+| 2026-10-07 08:09:29 | [betacalendars-printlint](https://pypi.org/project/betacalendars-printlint/) | 0.1.0 | Mateo Pedersen | 63.7 kB | Validate printable calendar grids, SVG/PDF page geometry, and Gregorian month f… |
+| 2026-10-07 08:09:44 | [drscore](https://pypi.org/project/drscore/) | 1.0.0 |  | 5.8 MB | DRS - Dynamic Report System: reports written in SQL, shown as grids, HTML desig… |
+| 2026-10-07 08:12:22 | [swpreq](https://pypi.org/project/swpreq/) | 0.1.0 | silentwolfproject | 44.5 MB | Powerful cross-language HTTP client with Rust core |
+| 2026-10-07 08:13:37 | [meok-cj-temm1e](https://pypi.org/project/meok-cj-temm1e/) | 1.0.0 |  | 2.5 kB | Crown Jewel MCP wrapper: Temm1e autonomous Rust agent — MEOK AI Labs |
+| 2026-10-07 08:14:33 | [meok-brain-king](https://pypi.org/project/meok-brain-king/) | 1.0.0 |  | 2.6 kB | King M4 Dragon — A-stream Quant(Mamba-2)+Man(Kimi 2.7). B-stream Quant(DeepSeek… |
+| 2026-10-07 08:14:51 | [meok-brain-queen](https://pypi.org/project/meok-brain-queen/) | 1.0.0 |  | 2.6 kB | Queen M2 Turtle — all-local. Temp 0.3. Conservative compliance governor. |
+| 2026-10-07 08:15:10 | [meok-brain-quant](https://pypi.org/project/meok-brain-quant/) | 1.0.0 |  | 2.5 kB | Quant Left Brain — Mamba-2 SSD. Pricing, routing, math, offline-capable. |
+| 2026-10-07 08:17:01 | [j-video](https://pypi.org/project/j-video/) | 0.1.0 | JYAARU | 443.0 kB | Windows Media Foundation MP4 recording extension for Python |
