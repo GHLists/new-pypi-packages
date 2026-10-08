@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-10-08T01:20:43.62445Z",
-    "path": "data/new-packages-2026-10-08T02-18-37-9244Z.csv",
-    "to": "2026-10-08T02:18:37.9244Z"
+    "count": 47,
+    "from": "2026-10-08T02:18:37.9244Z",
+    "path": "data/new-packages-2026-10-08T03-20-20-006277Z.csv",
+    "to": "2026-10-08T03:20:20.006277Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-08T01:23:11Z",
       "package": "windowsmonitor",
       "since": "2026-10-08T01:20:43.62445Z"
     }
   ],
-  "serial": 41951577,
+  "serial": 41952943,
   "source_truncated": false,
-  "window": "2026-10-08T02:18:37.9244Z"
+  "window": "2026-10-08T03:20:20.006277Z"
 }

@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T02:20:05Z,soda-stt,0.1.1,cnmoro <cnmoro@gmail.com>,,184703896,Chrome's on-device (offline) speech-to-text engine (SODA) as a Python library
+2026-10-08T02:24:21Z,microburst,0.1.0,pingedbrain <licha.pintos@gmail.com>,MIT,48836,AWS failure injection proxy — protocol-aware faults for any AWS endpoint (emulators or real AWS)
+2026-10-08T02:29:22Z,uihound,0.1.0,,,139984,Browser-based Android UI inspector for HIL testing
+2026-10-08T02:35:42Z,pixi-sbom,1.7.0,,Apache-2.0,34887255,"Generate a CycloneDX or SPDX SBOM from a lockfile (pixi, uv, pylock, Poetry, PDM, conda-lock) or an installed environment"
+2026-10-08T02:37:06Z,hoocode,0.0.1,,MIT,1817,hoocode coding agent (name reserved; see README)
+2026-10-08T02:41:42Z,cn-tool,0.7.0,Evgeny Danilchenko <evgeny@netsectech.com.au>,Apache-2.0,638243,Infoblox lookups and network checks from a menu or the command line
+2026-10-08T02:42:32Z,fontpkg-epilogue,2.112,,OFL-1.1,220708,"Epilogue font family, packaged for Python by fontpkg"
+2026-10-08T02:42:34Z,fontpkg-unbounded,1.701,,OFL-1.1,393174,"Unbounded font family, packaged for Python by fontpkg"
+2026-10-08T02:42:36Z,fontpkg-permanent-marker,1.1,,Apache-2.0,52544,"Permanent Marker font family, packaged for Python by fontpkg"
+2026-10-08T02:42:38Z,fontpkg-kalam,2.1,,OFL-1.1,574473,"Kalam font family, packaged for Python by fontpkg"
+2026-10-08T02:43:46Z,yapnr,0.1.0rc1,,AGPL-3.0-or-later,2846650,Yet another place and route: PCB placement and routing for KiCad
+2026-10-08T02:45:15Z,rulestamp-pg-migration-lock-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37396,"Names every statement in a Rails, Django or raw SQL migration that takes a table-blocking Postgres lock, and prints the non-blocking rewrite. 36 rules, PostgreSQL 12-17. (bundled Node.js runtime)"
+2026-10-08T02:45:32Z,rulestamp-sql-card-data-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35463,"Names every column, index, view and seed row in a .sql migration that stores card data, with its PCI DSS Requirement 3 rule id (bundled Node.js runtime)"
+2026-10-08T02:45:33Z,sessiondeck,0.0.1,Mike Bailey,,1968,"Session Deck: a Stream Deck for coding-agent sessions, part of Session Kit. Name reserved; the tool follows."
+2026-10-08T02:45:37Z,sessionkeys,0.0.1,Mike Bailey,,1998,"Session Keys: per-session keys and agents for coding-agent sessions, the security boundary of Session Kit. Name reserved; the tool follows."
+2026-10-08T02:45:50Z,rulestamp-base-image-eol-lint,0.1.9,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,30265,"Marks every base image in your Dockerfiles, compose files and CI workflows whose security patches have already stopped - or stop before 13 November 2026 - and prints the tag that replaces it. (bundle…"
+2026-10-08T02:46:00Z,mcp-recaptcha,2026.10.8.0,AceDataCloud <support@acedata.cloud>,MIT,34898,MCP server for AceDataCloud reCAPTCHA captcha APIs
+2026-10-08T02:46:03Z,mcp-turnstile,2026.10.8.0,AceDataCloud <support@acedata.cloud>,MIT,34201,MCP server for AceDataCloud Turnstile captcha APIs
+2026-10-08T02:46:04Z,mcp-discord-bot,2026.10.8.0,AceDataCloud <support@acedata.cloud>,MIT,39073,MCP Server for Discord automation via Discord Agent Proxy
+2026-10-08T02:46:04Z,mcp-image2text,2026.10.8.0,AceDataCloud <support@acedata.cloud>,MIT,33821,MCP server for AceDataCloud Image2Text captcha APIs
+2026-10-08T02:46:07Z,rulestamp-beancount-auslandsumsatz-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37840,"Prüft Beancount- und hledger-Journale mit 10 rules auf Euro-Umrechnung, USt-IdNr., Reverse Charge und ZM-Frist (§ 18a UStG) (bundled Node.js runtime)"
+2026-10-08T02:47:05Z,keycutter,0.0.1,Mike Bailey,,1963,"keycutter: touch-gated SSH keys, one per service, on a YubiKey or the Mac's Secure Enclave. Name reserved; the tool follows."
+2026-10-08T02:51:56Z,azure-mgmt-sovereign,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3183,This package will be released in the near future. Stay tuned!
+2026-10-08T02:54:13Z,jojo_agentic_terminal,0.1.0,JojoWebDev <jojodeguzman@insightsrevealer.onmicrosoft.com>,,5675,An MCP server that adds capabilities to an agent
+2026-10-08T02:56:17Z,pwdsim,0.1.0,Mark Messner <mark.messner@gmail.com>,MIT,317904,A pytorch Pinewood Derby simulator and optimizer
+2026-10-08T02:57:33Z,fluree,4.2.4b1,,BUSL-1.1,130684546,"Fluree: a graph database with time travel, history, and fine-grained policy"
+2026-10-08T03:04:26Z,ssc-contracts,0.0.1,,,78118,
+2026-10-08T03:04:41Z,lumerical-mcp,0.1.0,Saku1234 <lxh875410020@gmail.com>,MIT,12940,MCP server for Lumerical FDTD automation
+2026-10-08T03:05:18Z,ssc-shared,0.0.1,,,74997,
+2026-10-08T03:05:39Z,ssc-bundle,0.0.1,,,37274,
+2026-10-08T03:06:53Z,sloptrace,0.0.2,sjtechdev,MIT,50775,Deterministic complexity-erosion metrics for a Python codebase.
+2026-10-08T03:06:56Z,docugraph,0.1.0,Jim Cuttler <jimcuttler@gmail.com>,Apache-2.0,485726,"Documentation RAG for coding agents: vector search, knowledge graph, agent memory, and an MCP server — torch-free local embeddings via fastembed"
+2026-10-08T03:07:01Z,cdlbib,2.0.0,,MIT,2203168,Format and citation-accuracy checker for the CDL bibliography
+2026-10-08T03:08:32Z,qnnruntime-236,0.0.1,,,244083869,Direct Python runtime for Qualcomm QNN context binaries
+2026-10-08T03:08:47Z,qnnruntime-240,0.0.1,,,296657560,Direct Python runtime for Qualcomm QNN context binaries
+2026-10-08T03:09:03Z,qnnruntime-248,0.0.1,,,352031798,Direct Python runtime for Qualcomm QNN context binaries
+2026-10-08T03:09:54Z,weli-ml,1.0.0,Pullo Ba,MIT,207101,Framework de Deep Learning en Python
+2026-10-08T03:10:48Z,prospicio,0.0.1,Ethan Kang <ethan.yskang@gmail.com>,MIT OR Apache-2.0,13752736,"Actuarial and risk modeling on a Rust core: reserving, distributions, aggregate loss, reinsurance and pricing."
+2026-10-08T03:14:03Z,ssc-cli,0.0.1,,,195436,The ssc command line tool for Small Software Cloud.
+2026-10-08T03:14:12Z,heathrow,0.2,Data Airspace Transport Authority,GPL-3.0-only,150701,Reference client for the Aquarius protocol
+2026-10-08T03:16:17Z,a2apay-io,0.1.0,,,12188,"Pay-per-call AI query and persistent memory for autonomous agents, via a2apay.io"
+2026-10-08T03:16:18Z,pageharvest,1.0.0,,,66581,Simple browser profiles and smart URLs-to-JSON/CSV scraping
+2026-10-08T03:16:26Z,tdxgbbqckz,1.0.0,,,31046,通达信 gbbq（除权除息）文件读取器，核心解密由 C 扩展实现
+2026-10-08T03:18:06Z,limivault,0.1.0,Meghana G,MIT,352189,"A rate limiting library with multiple algorithms, sync/async support, and distributed backends"
+2026-10-08T03:18:27Z,axiolune,0.6.0,Moonweave AI,Apache-2.0,35589156,"Explicit financial data acquisition, immutable snapshots and shared research"
+2026-10-08T03:18:53Z,litellm-preflight,0.1.0,Chigozirim Eke,MIT,38639,"Flags LiteLLM proxy settings that cost money or break at scale, like background health checks multiplied across every process"
+2026-10-08T03:19:05Z,jaxglitches,0.1.0,,MIT,4654232,"JAX-based LISA glitch waveforms, TDI responses (equal and unequal arms), and parameter-estimation utilities"
