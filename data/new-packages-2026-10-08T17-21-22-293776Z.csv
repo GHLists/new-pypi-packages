@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T16:21:01Z,dkview,3.0.0b5,Mamurjon,MIT,190609,"Docker and Swarm ops you can read, on servers that have no internet: colored tables, doctor, errors and a dashboard."
+2026-10-08T16:22:13Z,engrim-enterprise,0.0.1,Tim Gordon <tim@engrim.dev>,,3425,Commercial distribution placeholder for Engrim Enterprise.
+2026-10-08T16:23:36Z,pranaxis-mcp-gateway,0.3.0,"""Arignatxa S.L."" <ignacio@kiwih.org>",Apache-2.0,36697,Consistency verdicts for MCP tool calls: a transparent stdio proxy that stops two agents from consuming the same resource version twice.
+2026-10-08T16:26:16Z,anywhere-sdk,0.0.0.dev0,Anywhere Inc.,,2083,"Name reserved by Anywhere Inc. Placeholder, not the Anywhere SDK."
+2026-10-08T16:26:19Z,anywhere-sdk-preview,0.0.0.dev0,Anywhere Inc.,,2175,"Name reserved by Anywhere Inc. Placeholder, not the Anywhere SDK."
+2026-10-08T16:26:46Z,atspm-detector,1.0.0,Shawn Strasser,MIT,11305651,"Phase, function, lanes, setback, night speed and health of traffic-signal detectors from the controller's hi-res event log (CPU, onnxruntime)."
+2026-10-08T16:28:08Z,blupinta,0.0.1,Blupinta,Apache-2.0,10910,Official SDK for Blupinta's public API — coming soon
+2026-10-08T16:31:25Z,benin-geo,0.1.0,Elodias ADIMOU <olouwagnon@gmail.com>,MIT,45158,"La structure administrative du Bénin, avec la source de chaque enregistrement. Hors ligne, sans dépendance."
+2026-10-08T16:32:19Z,agents-toolchain,0.1.3,Deahesi,MIT,49261846,CLI for creating and running YAML-configured AI agents
+2026-10-08T16:33:25Z,anvil-robotics,0.0.1,Anvil Robotics <daniel@anvil.bot>,LicenseRef-Proprietary,2613,Placeholder for the Anvil Robotics SDK. The SDK ships with Anvil workcells; a public release is pending.
+2026-10-08T16:36:28Z,infra-cost-model,0.3.0,Nicolas Marchildon,MIT,762928,DAG-based infrastructure cost model with usage derivation and pricing
+2026-10-08T16:36:38Z,pirao,0.1.1,Mateus Santana <jmateussan@gmail.com>,BSD-3-Clause,3338726,"pirão -- Probabilistic Inference for Reliability Analysis from Observed data: pick a likelihood and a prior per parameter, get a fitted Stan model"
+2026-10-08T16:39:53Z,carmen-kernels,0.1.0,Utsav Khairnar,MIT,239190,"An AI writes Apple Metal GPU kernels, a judge it can't fool proves them, and the winners run inside a real model."
+2026-10-08T16:40:18Z,bloq-py,0.1.1,Yiming Zhang <zhangyiming21@mail.ustc.edu.cn>,Apache-2.0,21514158,CLI and Python bindings for the bloq fault-tolerant quantum circuit compiler
+2026-10-08T16:43:38Z,nace-sdk,0.1.0,Nace AI,Apache-2.0,120859,Python SDK for the Drex API: calibrated decisions and document jobs
+2026-10-08T16:45:21Z,nace-cli,0.1.0,Nace AI,MIT,52126,Nace CLI: calibrated decisions and document jobs from the shell
+2026-10-08T16:45:27Z,nace-mcp,0.1.0,Nace AI,MIT,86820,MCP server for the Drex API: calibrated decisions and document jobs for coding agents
+2026-10-08T16:46:38Z,cbox-id-client,0.10.0,Sylvester Damgaard <sn@cbox.dk>,MIT,374192,"Turnkey Cbox ID client for Python — OpenID Connect login (PKCE + id_token verification via JWKS), hosted profile-management redirect, machine tokens, UserInfo, RFC 7662 introspection, and webhook sig…"
+2026-10-08T16:49:04Z,staticvita,0.1,Benedict Benthien <bnthn@posteo.de>,MIT,36120,Static CV/site generator using Jinja2 and JSON site data
+2026-10-08T16:52:50Z,NexusShadowScan,0.1.2,Project Nexus,Apache-2.0,852691,"ShadowScan: discover shadow AI agents across code, identity providers, LLM gateways, low-code platforms, SaaS, cloud accounts, endpoints, network logs, and running processes."
+2026-10-08T16:52:57Z,langchain-hydradb,0.1.0,HydraDB <support@hydradb.com>,Apache-2.0,21747,HydraDB integration for LangChain: persistent memory and retrieval.
+2026-10-08T16:53:00Z,crewai-hydradb,0.1.0,HydraDB <support@hydradb.com>,Apache-2.0,20613,HydraDB external-memory storage for CrewAI agents.
+2026-10-08T16:53:23Z,bazaar-of-fates,0.2.1,,MIT,322315,"算命 — 13 traditional divination systems (西洋占星 · 八字 · 紫微 · 梅花 · 六爻 · 小六壬 · 四柱推命 · 七政四餘 · 鐵板 · 奇門 · 六壬 · 太乙 · Jyotiṣa) as deterministic Python engines + readings, from one birth moment."
+2026-10-08T16:56:14Z,rk-judge,0.1.0.dev0,benediktstroebl,Apache-2.0,448481,Lightweight grading toolkit for environment-based tasks.
+2026-10-08T16:59:29Z,histwardb,0.1.0,Vincenzo Manto,"MIT License Copyright (c) 2026 Vincenzo Manto Permission is hereby granted, free of charge, to any…",27793,"A dynamic, programmatic historical and sovereign war dataset built on Wikidata."
+2026-10-08T17:00:12Z,rag-search-local,1.1.0,Rahul Fiske,MIT,1913082,"Private, local document search: PDFs, Office files and images, with page-level citations."
+2026-10-08T17:02:06Z,tpdf-client,0.1.0,Timo Stein,MIT,48020,Python client for the tpdf command-line API
+2026-10-08T17:02:35Z,moonshinevk,0.1.0,,MIT,232225,Your one stop shop for all thing Vulkan in Python!
+2026-10-08T17:04:43Z,sanskrypt-lang,2.0.0,Your Name,,7418,"A root-based, order-agnostic programming language inspired by Paninian grammar."
+2026-10-08T17:05:23Z,abhijanfastapi,1.0.0,Abhijan,MIT,9297,Abhijan FastAPI scaffolding package with `abhijan init` and `abhijan alembic` CLI.
+2026-10-08T17:05:57Z,forgd-verdict,0.0.0,,Apache-2.0,1959,Name reserved for forgd's forgd-verdict. This release contains no code.
+2026-10-08T17:05:58Z,forgd-verdict-hook,0.0.0,,Apache-2.0,2040,Name reserved for forgd's forgd-verdict-hook. This release contains no code.
+2026-10-08T17:06:55Z,pulli,0.2.1,Stefan Waldherr,MIT,66448,"Walk a directory tree, show git repos with status, and fast-forward the ones that are behind upstream."
+2026-10-08T17:09:02Z,dusha,0.0.21,Somme4096,Apache-2.0,144420,Harness-neutral OpenAI gateway with durable memory and affect state
+2026-10-08T17:09:17Z,handback,0.2.0,,"MIT License Copyright (c) 2026 handback contributors Permission is hereby granted, free of charge,…",385159,"Local, durable relay between coding-agent apps"
+2026-10-08T17:11:24Z,craceplot,0.1.0,Yunshuang Xiao,MIT,10590461,craceplot: Visualisation of Data from crace
+2026-10-08T17:11:34Z,crawlora-bbb,0.1.0,Crawlora,MIT,50189,Typed Better Business Bureau client for the Crawlora hosted API
+2026-10-08T17:13:47Z,artin-server,1.0.0,Artin,MIT,4837,High-performance background server orchestration engine.
+2026-10-08T17:18:12Z,alchemy-game,0.1.0,Andrew Davidson,MIT,25075,An alchemical match-four puzzle game built with Pygame
+2026-10-08T17:19:01Z,g923-claude,0.5.1,,MIT,210710,"Drive Claude Code with a Logitech G923 wheel, pedals and shifter"

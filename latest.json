@@ -1,19 +1,37 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-08T15:20:36.001485Z",
-    "path": "data/new-packages-2026-10-08T16-18-38-035368Z.csv",
-    "to": "2026-10-08T16:18:38.035368Z"
+    "count": 40,
+    "from": "2026-10-08T16:18:38.035368Z",
+    "path": "data/new-packages-2026-10-08T17-21-22-293776Z.csv",
+    "to": "2026-10-08T17:21:22.293776Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-08T16:25:06Z",
+      "package": "Agent-Toolchain",
+      "since": "2026-10-08T16:18:38.035368Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-08T16:27:28Z",
+      "package": "HistoricalWarDB",
+      "since": "2026-10-08T16:18:38.035368Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-08T14:26:19Z",
       "package": "test-new-organization-project",
       "since": "2026-10-08T14:24:14.218428Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-08T16:52:15Z",
+      "package": "triton-intensity",
+      "since": "2026-10-08T16:18:38.035368Z"
     }
   ],
-  "serial": 41979295,
+  "serial": 41981894,
   "source_truncated": false,
-  "window": "2026-10-08T16:18:38.035368Z"
+  "window": "2026-10-08T17:21:22.293776Z"
 }

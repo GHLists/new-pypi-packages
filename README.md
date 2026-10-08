@@ -8,54 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 16:18 UTC
+## Latest list — 2026-10-08 17:21 UTC
 
-New packages created between 2026-10-08 15:20 UTC and 2026-10-08 16:18 UTC.
+New packages created between 2026-10-08 16:18 UTC and 2026-10-08 17:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-08T16-18-38-035368Z.csv)
+[Full CSV](data/new-packages-2026-10-08T17-21-22-293776Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-08 15:20:47 | [novomodelo-bridge](https://pypi.org/project/novomodelo-bridge/) | 0.18.0 |  | 3.3 MB | Convert NEWAVE and DECOMP cases to Novomodelo input format and compare the resu… |
-| 2026-10-08 15:21:39 | [tzero-mcp](https://pypi.org/project/tzero-mcp/) | 3.0.6 | Toprak Ahmet Aydoğmuş <toprak… | 269.3 kB | Enterprise Codebase Context Builder, AST Signatures Analyzer, & Token Reducer f… |
-| 2026-10-08 15:22:06 | [ErisPulse-Testing](https://pypi.org/project/ErisPulse-Testing/) | 0.1.0 | ErisDev | 54.9 kB | Official testing toolkit for ErisPulse modules & adapters — TestBot, event fact… |
-| 2026-10-08 15:23:13 | [palpites-mega-sena](https://pypi.org/project/palpites-mega-sena/) | 0.1.0 | Mateus | 11.6 kB | Gerador de palpites aleatórios para a Mega-Sena, com custo e probabilidades. |
-| 2026-10-08 15:23:14 | [fxapis](https://pypi.org/project/fxapis/) | 0.1.1 | El Wizard <mago@elwizard.net> | 80.1 kB | MT5 Python SDK for fxapis, the hosted MetaTrader 5 REST API: trade MT5 accounts… |
-| 2026-10-08 15:23:32 | [bitskitten](https://pypi.org/project/bitskitten/) | 0.2.0 | Caerno | 38.1 kB | EDA reports, plots and sklearn-compatible encoders |
-| 2026-10-08 15:25:18 | [atlas-pca](https://pypi.org/project/atlas-pca/) | 0.1.0 |  | 35.5 kB | Reference verifier for Atlas Proof-Carrying Authority (PCActn core, M0-M3) |
-| 2026-10-08 15:25:26 | [atlas-pca-crewai](https://pypi.org/project/atlas-pca-crewai/) | 0.1.0 |  | 18.8 kB | CrewAI tool guard for Atlas Proof-Carrying Authority (PCA): make every CrewAI t… |
-| 2026-10-08 15:25:28 | [atlas-pca-fastmcp](https://pypi.org/project/atlas-pca-fastmcp/) | 0.1.0 |  | 19.5 kB | Per-tool Proof-Carrying Authority enforcement for FastMCP (verify a PCActn on e… |
-| 2026-10-08 15:25:29 | [atlas-pca-pydantic-ai](https://pypi.org/project/atlas-pca-pydantic-ai/) | 0.1.0 |  | 18.7 kB | Proof-Carrying Authority tool guard for Pydantic AI (verify a PCActn before eac… |
-| 2026-10-08 15:26:21 | [lmliheng-hello](https://pypi.org/project/lmliheng-hello/) | 0.1.0 | lmliheng | 7.7 kB | A tiny demo package published to PyPI by GitHub Actions. |
-| 2026-10-08 15:26:35 | [rivaldefs](https://pypi.org/project/rivaldefs/) | 0.1.0 | Elliot Tower | 89.7 kB | Direction and implementation robustness of disagreement between rival binary la… |
-| 2026-10-08 15:35:44 | [pyarch-stress-test](https://pypi.org/project/pyarch-stress-test/) | 1.0.0 |  | 5.1 kB | Complex Python project used to stress-test PyArch bytecode reconstruction and d… |
-| 2026-10-08 15:40:56 | [atonix](https://pypi.org/project/atonix/) | 0.5.1 | Kolton Stimpert | 112.4 kB | Unofficial Python client for the Prometheus APM (formerly AtonixOI) API. Not af… |
-| 2026-10-08 15:42:08 | [system-b](https://pypi.org/project/system-b/) | 1.1.5 | Bee Hall <bhall1224@gmail.com> | 26.7 kB | A pygame engine for common game operations like vector math and maintaining eve… |
-| 2026-10-08 15:42:24 | [jira-cli-toolkit](https://pypi.org/project/jira-cli-toolkit/) | 2.5.1 | Abhishek Aggarwal | 1.8 MB | General-purpose Jira Cloud CLI with a friendly terminal UI |
-| 2026-10-08 15:42:42 | [cddl-verifier](https://pypi.org/project/cddl-verifier/) | 0.1.0 |  | 180.0 kB | Validate CBOR data against CDDL schemas, generate annotated EDN, and convert CB… |
-| 2026-10-08 15:42:59 | [vantadb-letta](https://pypi.org/project/vantadb-letta/) | 0.5.0 | VantaDB Team | 10.1 kB | Letta adapter for VantaDB — embedded vector memory for AI agents |
-| 2026-10-08 15:43:40 | [agentramen](https://pypi.org/project/agentramen/) | 0.1.0 | agentRamen contributors | 660.9 kB | Local-first repository intelligence and task context for coding agents |
-| 2026-10-08 15:43:43 | [vantadb-llamaindex](https://pypi.org/project/vantadb-llamaindex/) | 0.5.0 | VantaDB Team | 15.1 kB | LlamaIndex adapter for VantaDB — embedded vector memory for AI agents |
-| 2026-10-08 15:45:08 | [vantadb-mem0](https://pypi.org/project/vantadb-mem0/) | 0.5.0 | VantaDB Team | 12.9 kB | Mem0 adapter for VantaDB — embedded vector memory for AI agents |
-| 2026-10-08 15:45:13 | [figworks](https://pypi.org/project/figworks/) | 0.8.0 | Andrea Maiani | 124.2 kB | A Python framework for building publication-quality scientific SVG figures. |
-| 2026-10-08 15:45:21 | [dogabot-sdk](https://pypi.org/project/dogabot-sdk/) | 0.1.0 | dogabot | 16.7 kB | Official dogabot REST API SDK for Python |
-| 2026-10-08 15:46:11 | [aipracx](https://pypi.org/project/aipracx/) | 1.0.0 |  | 28.4 kB | AI and ML practicals with source viewer and runnable programs |
-| 2026-10-08 15:48:24 | [astp-docs](https://pypi.org/project/astp-docs/) | 0.2.0 | Scorched Earth Labs <dev@scor… | 49.5 kB | Retrieval core for ASTP documentation servers — structure-aware chunker, exact-… |
-| 2026-10-08 15:50:37 | [automl-agent-client](https://pypi.org/project/automl-agent-client/) | 0.1.0 | kitasid | 48.1 kB | Python client and CLI for AutoML-Agent: describe an ML task in one sentence, ge… |
-| 2026-10-08 15:52:55 | [odoo-addon-sentry-client](https://pypi.org/project/odoo-addon-sentry-client/) | 18.0.1.0.0.2 | Ledoent, Odoo Community Assoc… | 2.1 MB | Capture Odoo web-client JS errors in Sentry, with tiered opt-in for tracing and… |
-| 2026-10-08 15:54:57 | [ragvidence](https://pypi.org/project/ragvidence/) | 0.1.0 | Medo | 123.8 kB | Evidence-first RAG retrieval diagnostics, built to run locally. |
-| 2026-10-08 15:57:07 | [mkp-forge](https://pypi.org/project/mkp-forge/) | 0.0.1rc1 | Matti Kaupenjohann <matti.kau… | 98.7 kB | This is a tool to build mkp packages directly without the need of checkmk insta… |
-| 2026-10-08 15:57:51 | [geniespec](https://pypi.org/project/geniespec/) | 0.1.1.dev2 |  | 43.7 kB | Generate API code from an api.yaml spec |
-| 2026-10-08 15:59:14 | [quafu-sdk](https://pypi.org/project/quafu-sdk/) | 0.2.0 |  | 162.3 kB | Python SDK for the QUAFU quantum computing platform: log in, submit quantum cir… |
-| 2026-10-08 15:59:56 | [azure-mgmt-aigateway](https://pypi.org/project/azure-mgmt-aigateway/) | 0.0.0b1 | Microsoft Corporation <azures… | 3.2 kB | This package will be released in the near future. Stay tuned! |
-| 2026-10-08 16:01:26 | [GeoPakTile](https://pypi.org/project/GeoPakTile/) | 2.0.1 | apwebber | 20.1 kB | Create a Geopackage XYZ Tile layer. |
-| 2026-10-08 16:02:10 | [ufoamp](https://pypi.org/project/ufoamp/) | 1.0.0 | Spencer Ellis | 2.1 MB | Tree-level helicity amplitudes and squared matrix elements directly from a UFO… |
-| 2026-10-08 16:06:11 | [was-disaggregation](https://pypi.org/project/was-disaggregation/) | 0.8.0 | Mandela HOUNGNIBO | 320.0 kB | Forecast-conditioned gridded stochastic weather generation and daily downscaling |
-| 2026-10-08 16:06:32 | [pyrig-badge](https://pypi.org/project/pyrig-badge/) | 0.1.0 | Winipedia | 15.1 kB | A pyrig plugin that configures a project badge. |
-| 2026-10-08 16:07:10 | [delightql](https://pypi.org/project/delightql/) | 0.0.1 |  | 10.8 kB | DelightQL, a query language that transpiles to SQL: the library. A placeholder… |
-| 2026-10-08 16:07:11 | [delightql-cli](https://pypi.org/project/delightql-cli/) | 0.0.1 |  | 10.8 kB | DelightQL, a query language that transpiles to SQL: the dql command line. A pla… |
-| 2026-10-08 16:08:37 | [originchaindb](https://pypi.org/project/originchaindb/) | 0.1.22 | OpenAPI Generator community | 732.9 kB | OriginChain HTTP API |
-| 2026-10-08 16:10:28 | [dlp-invest-mcp](https://pypi.org/project/dlp-invest-mcp/) | 0.1.0 | Marlon <marlo@example.com> | 133.3 kB | MCP server exposing DLPInvest portfolio tools via stdio for AI clients |
-| 2026-10-08 16:11:27 | [provctl](https://pypi.org/project/provctl/) | 0.1.2 |  | 155.1 kB | Provenance-weighted dependency risk gate for Python projects |
-| 2026-10-08 16:14:11 | [lavlab-pythomics](https://pypi.org/project/lavlab-pythomics/) | 0.1.0 | barrettMCW <mjbarrett@mcw.edu> | 1.9 MB | Feature extraction from histology label maps |
-| 2026-10-08 16:14:48 | [extractfaces-gui](https://pypi.org/project/extractfaces-gui/) | 0.1.0 | Rafael O. Ribeiro | 20.2 kB | GUI application to extract faces from videos |
+| 2026-10-08 16:21:01 | [dkview](https://pypi.org/project/dkview/) | 3.0.0b5 | Mamurjon | 190.6 kB | Docker and Swarm ops you can read, on servers that have no internet: colored ta… |
+| 2026-10-08 16:22:13 | [engrim-enterprise](https://pypi.org/project/engrim-enterprise/) | 0.0.1 | Tim Gordon <tim@engrim.dev> | 3.4 kB | Commercial distribution placeholder for Engrim Enterprise. |
+| 2026-10-08 16:23:36 | [pranaxis-mcp-gateway](https://pypi.org/project/pranaxis-mcp-gateway/) | 0.3.0 | "Arignatxa S.L." <ignacio@kiw… | 36.7 kB | Consistency verdicts for MCP tool calls: a transparent stdio proxy that stops t… |
+| 2026-10-08 16:26:16 | [anywhere-sdk](https://pypi.org/project/anywhere-sdk/) | 0.0.0.dev0 | Anywhere Inc. | 2.1 kB | Name reserved by Anywhere Inc. Placeholder, not the Anywhere SDK. |
+| 2026-10-08 16:26:19 | [anywhere-sdk-preview](https://pypi.org/project/anywhere-sdk-preview/) | 0.0.0.dev0 | Anywhere Inc. | 2.2 kB | Name reserved by Anywhere Inc. Placeholder, not the Anywhere SDK. |
+| 2026-10-08 16:26:46 | [atspm-detector](https://pypi.org/project/atspm-detector/) | 1.0.0 | Shawn Strasser | 11.3 MB | Phase, function, lanes, setback, night speed and health of traffic-signal detec… |
+| 2026-10-08 16:28:08 | [blupinta](https://pypi.org/project/blupinta/) | 0.0.1 | Blupinta | 10.9 kB | Official SDK for Blupinta's public API — coming soon |
+| 2026-10-08 16:31:25 | [benin-geo](https://pypi.org/project/benin-geo/) | 0.1.0 | Elodias ADIMOU <olouwagnon@gm… | 45.2 kB | La structure administrative du Bénin, avec la source de chaque enregistrement.… |
+| 2026-10-08 16:32:19 | [agents-toolchain](https://pypi.org/project/agents-toolchain/) | 0.1.3 | Deahesi | 49.3 MB | CLI for creating and running YAML-configured AI agents |
+| 2026-10-08 16:33:25 | [anvil-robotics](https://pypi.org/project/anvil-robotics/) | 0.0.1 | Anvil Robotics <daniel@anvil.… | 2.6 kB | Placeholder for the Anvil Robotics SDK. The SDK ships with Anvil workcells; a p… |
+| 2026-10-08 16:36:28 | [infra-cost-model](https://pypi.org/project/infra-cost-model/) | 0.3.0 | Nicolas Marchildon | 762.9 kB | DAG-based infrastructure cost model with usage derivation and pricing |
+| 2026-10-08 16:36:38 | [pirao](https://pypi.org/project/pirao/) | 0.1.1 | Mateus Santana <jmateussan@gm… | 3.3 MB | pirão -- Probabilistic Inference for Reliability Analysis from Observed data: p… |
+| 2026-10-08 16:39:53 | [carmen-kernels](https://pypi.org/project/carmen-kernels/) | 0.1.0 | Utsav Khairnar | 239.2 kB | An AI writes Apple Metal GPU kernels, a judge it can't fool proves them, and th… |
+| 2026-10-08 16:40:18 | [bloq-py](https://pypi.org/project/bloq-py/) | 0.1.1 | Yiming Zhang <zhangyiming21@m… | 21.5 MB | CLI and Python bindings for the bloq fault-tolerant quantum circuit compiler |
+| 2026-10-08 16:43:38 | [nace-sdk](https://pypi.org/project/nace-sdk/) | 0.1.0 | Nace AI | 120.9 kB | Python SDK for the Drex API: calibrated decisions and document jobs |
+| 2026-10-08 16:45:21 | [nace-cli](https://pypi.org/project/nace-cli/) | 0.1.0 | Nace AI | 52.1 kB | Nace CLI: calibrated decisions and document jobs from the shell |
+| 2026-10-08 16:45:27 | [nace-mcp](https://pypi.org/project/nace-mcp/) | 0.1.0 | Nace AI | 86.8 kB | MCP server for the Drex API: calibrated decisions and document jobs for coding… |
+| 2026-10-08 16:46:38 | [cbox-id-client](https://pypi.org/project/cbox-id-client/) | 0.10.0 | Sylvester Damgaard <sn@cbox.d… | 374.2 kB | Turnkey Cbox ID client for Python — OpenID Connect login (PKCE + id_token verif… |
+| 2026-10-08 16:49:04 | [staticvita](https://pypi.org/project/staticvita/) | 0.1 | Benedict Benthien <bnthn@post… | 36.1 kB | Static CV/site generator using Jinja2 and JSON site data |
+| 2026-10-08 16:52:50 | [NexusShadowScan](https://pypi.org/project/NexusShadowScan/) | 0.1.2 | Project Nexus | 852.7 kB | ShadowScan: discover shadow AI agents across code, identity providers, LLM gate… |
+| 2026-10-08 16:52:57 | [langchain-hydradb](https://pypi.org/project/langchain-hydradb/) | 0.1.0 | HydraDB <support@hydradb.com> | 21.7 kB | HydraDB integration for LangChain: persistent memory and retrieval. |
+| 2026-10-08 16:53:00 | [crewai-hydradb](https://pypi.org/project/crewai-hydradb/) | 0.1.0 | HydraDB <support@hydradb.com> | 20.6 kB | HydraDB external-memory storage for CrewAI agents. |
+| 2026-10-08 16:53:23 | [bazaar-of-fates](https://pypi.org/project/bazaar-of-fates/) | 0.2.1 |  | 322.3 kB | 算命 — 13 traditional divination systems (西洋占星 · 八字 · 紫微 · 梅花 · 六爻 · 小六壬 · 四柱推命 ·… |
+| 2026-10-08 16:56:14 | [rk-judge](https://pypi.org/project/rk-judge/) | 0.1.0.dev0 | benediktstroebl | 448.5 kB | Lightweight grading toolkit for environment-based tasks. |
+| 2026-10-08 16:59:29 | [histwardb](https://pypi.org/project/histwardb/) | 0.1.0 | Vincenzo Manto | 27.8 kB | A dynamic, programmatic historical and sovereign war dataset built on Wikidata. |
+| 2026-10-08 17:00:12 | [rag-search-local](https://pypi.org/project/rag-search-local/) | 1.1.0 | Rahul Fiske | 1.9 MB | Private, local document search: PDFs, Office files and images, with page-level… |
+| 2026-10-08 17:02:06 | [tpdf-client](https://pypi.org/project/tpdf-client/) | 0.1.0 | Timo Stein | 48.0 kB | Python client for the tpdf command-line API |
+| 2026-10-08 17:02:35 | [moonshinevk](https://pypi.org/project/moonshinevk/) | 0.1.0 |  | 232.2 kB | Your one stop shop for all thing Vulkan in Python! |
+| 2026-10-08 17:04:43 | [sanskrypt-lang](https://pypi.org/project/sanskrypt-lang/) | 2.0.0 | Your Name | 7.4 kB | A root-based, order-agnostic programming language inspired by Paninian grammar. |
+| 2026-10-08 17:05:23 | [abhijanfastapi](https://pypi.org/project/abhijanfastapi/) | 1.0.0 | Abhijan | 9.3 kB | Abhijan FastAPI scaffolding package with `abhijan init` and `abhijan alembic` C… |
+| 2026-10-08 17:05:57 | [forgd-verdict](https://pypi.org/project/forgd-verdict/) | 0.0.0 |  | 2.0 kB | Name reserved for forgd's forgd-verdict. This release contains no code. |
+| 2026-10-08 17:05:58 | [forgd-verdict-hook](https://pypi.org/project/forgd-verdict-hook/) | 0.0.0 |  | 2.0 kB | Name reserved for forgd's forgd-verdict-hook. This release contains no code. |
+| 2026-10-08 17:06:55 | [pulli](https://pypi.org/project/pulli/) | 0.2.1 | Stefan Waldherr | 66.4 kB | Walk a directory tree, show git repos with status, and fast-forward the ones th… |
+| 2026-10-08 17:09:02 | [dusha](https://pypi.org/project/dusha/) | 0.0.21 | Somme4096 | 144.4 kB | Harness-neutral OpenAI gateway with durable memory and affect state |
+| 2026-10-08 17:09:17 | [handback](https://pypi.org/project/handback/) | 0.2.0 |  | 385.2 kB | Local, durable relay between coding-agent apps |
+| 2026-10-08 17:11:24 | [craceplot](https://pypi.org/project/craceplot/) | 0.1.0 | Yunshuang Xiao | 10.6 MB | craceplot: Visualisation of Data from crace |
+| 2026-10-08 17:11:34 | [crawlora-bbb](https://pypi.org/project/crawlora-bbb/) | 0.1.0 | Crawlora | 50.2 kB | Typed Better Business Bureau client for the Crawlora hosted API |
+| 2026-10-08 17:13:47 | [artin-server](https://pypi.org/project/artin-server/) | 1.0.0 | Artin | 4.8 kB | High-performance background server orchestration engine. |
+| 2026-10-08 17:18:12 | [alchemy-game](https://pypi.org/project/alchemy-game/) | 0.1.0 | Andrew Davidson | 25.1 kB | An alchemical match-four puzzle game built with Pygame |
+| 2026-10-08 17:19:01 | [g923-claude](https://pypi.org/project/g923-claude/) | 0.5.1 |  | 210.7 kB | Drive Claude Code with a Logitech G923 wheel, pedals and shifter |
