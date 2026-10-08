@@ -8,48 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 08:20 UTC
+## Latest list — 2026-10-08 09:19 UTC
 
-New packages created between 2026-10-08 07:21 UTC and 2026-10-08 08:20 UTC.
+New packages created between 2026-10-08 08:20 UTC and 2026-10-08 09:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-08T08-20-16-197815Z.csv)
+[Full CSV](data/new-packages-2026-10-08T09-19-30-638513Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-08 07:22:51 | [raftward](https://pypi.org/project/raftward/) | 0.1.1 |  | 88.1 kB | Offline, guarded integrity checks for closed SQLite databases and backups |
-| 2026-10-08 07:26:50 | [freebind-py](https://pypi.org/project/freebind-py/) | 0.2.0 |  | 106.4 kB | Linux Freebind source policies for Python sockets and HTTP clients |
-| 2026-10-08 07:26:53 | [syntheka](https://pypi.org/project/syntheka/) | 0.0.1 | Syntheka | 1.8 kB | Syntheka brand namespace placeholder (reserved). Do not depend on this package. |
-| 2026-10-08 07:27:20 | [testteeth](https://pypi.org/project/testteeth/) | 0.1.0 | Fernando Garza | 91.7 kB | Grade AI-written tests with fast, git-diff-aware mutation testing, and hand cod… |
-| 2026-10-08 07:27:48 | [routefm-router](https://pypi.org/project/routefm-router/) | 1.1.0 | Guannan Lai, Han-Jia Ye | 184.7 kB | Pretrained in-context model routing with Qwen and BGE encoders |
-| 2026-10-08 07:29:14 | [mammoth-mcp-server](https://pypi.org/project/mammoth-mcp-server/) | 0.1.0 | Mammoth Analytics <support@ma… | 154.2 kB | MCP server for Mammoth Analytics: an AI client explores, transforms and exports… |
-| 2026-10-08 07:29:16 | [kinenix-hub](https://pypi.org/project/kinenix-hub/) | 0.2.0b1 | arttopix | 71.6 kB | Kinenix Hub: central server that receives worker heartbeats and execution logs,… |
-| 2026-10-08 07:29:16 | [kinenix-worker](https://pypi.org/project/kinenix-worker/) | 0.2.0b1 | arttopix | 46.7 kB | Kinenix Worker: runs Kinenix flows unattended on schedules, cron, or file trigg… |
-| 2026-10-08 07:31:04 | [dungeoncoder](https://pypi.org/project/dungeoncoder/) | 0.2.0 |  | 173.1 kB | Python API for Dungeon Coder: steer the hero from a script, in VS Code or in th… |
-| 2026-10-08 07:32:33 | [aer1-all](https://pypi.org/project/aer1-all/) | 0.1.1 | Brennan Zambo | 8.6 kB | One install for every AER-1 framework collector: verifiable AI agent execution… |
-| 2026-10-08 07:33:07 | [underwrite-core](https://pypi.org/project/underwrite-core/) | 0.0.1 |  | 45.8 kB | Dependency-free canonical evidence and integrity primitives |
-| 2026-10-08 07:36:51 | [nnsay-qweather-mcp](https://pypi.org/project/nnsay-qweather-mcp/) | 1.0.0 |  | 86.9 kB | QWeather MCP server: stdio / streamable-http dual transport, JWT auth, 21 tools |
-| 2026-10-08 07:38:01 | [bugzilla-mcp](https://pypi.org/project/bugzilla-mcp/) | 0.6.0 |  | 63.5 kB | MCP server for Bugzilla: search, read, triage and update bugs from AI assistant… |
-| 2026-10-08 07:38:11 | [speechwarp](https://pypi.org/project/speechwarp/) | 0.3.0 |  | 7.9 MB | Nonlinear speed-up for speech: listen faster and still follow it |
-| 2026-10-08 07:38:20 | [yt-notes-ui](https://pypi.org/project/yt-notes-ui/) | 0.2.1 |  | 179.9 MB | Bundled OpenTUI terminal workspace for yt-notes |
-| 2026-10-08 07:39:05 | [yt-notes](https://pypi.org/project/yt-notes/) | 0.2.1 |  | 198.0 kB | YouTube transcripts and evidence-linked research notes for people and AI tools |
-| 2026-10-08 07:40:24 | [speckle-bundle-spec](https://pypi.org/project/speckle-bundle-spec/) | 1.4.1 | Speckle Systems <devops@speck… | 14.9 kB | Speckle bundle format vocabulary: generated Rel/NodeKind enums, catalog rows, t… |
-| 2026-10-08 07:42:22 | [lairnet](https://pypi.org/project/lairnet/) | 0.1.0 | Rahul Goswami <rahul.goswami.… | 94.8 kB | Fast leaky alignment-impulse randomized networks for tabular learning |
-| 2026-10-08 07:44:31 | [smart-folder-organizer](https://pypi.org/project/smart-folder-organizer/) | 0.1.0 | Bertrand <mucyobertrand07@gma… | 8.2 kB | A smart Python package for automatically organizing files into categorized fold… |
-| 2026-10-08 07:45:05 | [oppaypay](https://pypi.org/project/oppaypay/) | 0.1.0 | oppaypay contributors | 23.2 kB | Unofficial PayPay mobile API client library for Python |
-| 2026-10-08 07:46:29 | [featm](https://pypi.org/project/featm/) | 0.5.7 | featm contributors | 775.7 kB | One searchable API for explicit, named feature extraction across data modalitie… |
-| 2026-10-08 07:48:09 | [stretch-tscd](https://pypi.org/project/stretch-tscd/) | 0.1.0 | Lénaïg Cornanguer, David Kalt… | 96.0 kB | Causal discovery under source-time-varying causal delays |
-| 2026-10-08 07:49:36 | [project-doctor-paola](https://pypi.org/project/project-doctor-paola/) | 0.1.0 | Paola | 26.7 kB | A CLI tool that diagnoses Python project health: missing files, bad configs, no… |
-| 2026-10-08 07:54:11 | [dora-openarm-selector](https://pypi.org/project/dora-openarm-selector/) | 0.1.0 | Enactic, Inc. | 12.2 kB | dora-rs node that forwards messages only from the highest-priority enabled sour… |
-| 2026-10-08 07:58:53 | [uni-calendar-coloring](https://pypi.org/project/uni-calendar-coloring/) | 1.0.1 | Davide Bertoni | 226.7 kB | Sync a read-only university calendar into a color-coded Google Calendar. |
-| 2026-10-08 07:59:47 | [veriself](https://pypi.org/project/veriself/) | 0.1.0 | jiayezi | 507.0 kB | A typed metric execution layer for AI agents. The LLM cannot write SQL. |
-| 2026-10-08 08:00:37 | [github-mcp-readonly](https://pypi.org/project/github-mcp-readonly/) | 1.2.0 | Abdul Muhaimin Khan | 35.7 kB | Read-only MCP server that lets an AI assistant answer questions about your GitH… |
-| 2026-10-08 08:00:42 | [shopee-dino-sdk](https://pypi.org/project/shopee-dino-sdk/) | 0.0.0 | sc | 2.4 kB | A small example package |
-| 2026-10-08 08:03:35 | [joule-profiler](https://pypi.org/project/joule-profiler/) | 0.0.1 |  | 41.1 MB | Python bindings for Joule Profiler |
-| 2026-10-08 08:04:56 | [finrest](https://pypi.org/project/finrest/) | 0.1.1 | Riddhiman | 8.6 kB | Python client SDK for the FinREST financial policy & SLM triage engine |
-| 2026-10-08 08:11:59 | [unee](https://pypi.org/project/unee/) | 0.3.0 | Muneef Mumthas | 111.3 kB | Unee by UNEEVERSE: a small open AI model that makes decisions and streams chat… |
-| 2026-10-08 08:12:34 | [sma-net2](https://pypi.org/project/sma-net2/) | 0.1.0 | sma-net2-bluetooth contributo… | 64.8 kB | Async SMA-Net2 Bluetooth Classic inverter protocol client |
-| 2026-10-08 08:13:27 | [evbox-ble](https://pypi.org/project/evbox-ble/) | 0.1.0 | Christopher Reimer | 44.9 kB | Asynchronous local BLE communication with EVBox Gen4 chargers |
-| 2026-10-08 08:17:37 | [kairo-sdk](https://pypi.org/project/kairo-sdk/) | 0.1.0 |  | 3.2 MB | SDK for the kairo workflow runtime: workflows written as code, run by the runti… |
-| 2026-10-08 08:19:19 | [inferyard](https://pypi.org/project/inferyard/) | 0.0.1 |  | 1.1 MB | Cross-platform local AI benchmarking CLI |
-| 2026-10-08 08:19:22 | [wyle](https://pypi.org/project/wyle/) | 0.0.1 |  | 1.5 kB | Placeholder. This name is used internally; do not install from PyPI. |
-| 2026-10-08 08:19:51 | [streamwright](https://pypi.org/project/streamwright/) | 0.0.1 | Karthick Jaganathan | 12.1 kB | Declarative data connectors — pull from APIs, files and databases with YAML, sh… |
+| 2026-10-08 08:22:23 | [bip322-core](https://pypi.org/project/bip322-core/) | 0.11.1 | Embedded Nation AB | 148.1 kB | BIP-322 message signing and verification for descriptor wallets (P2WSH multisig… |
+| 2026-10-08 08:22:28 | [bip322-audit](https://pypi.org/project/bip322-audit/) | 0.12.1 | Embedded Nation AB | 110.7 kB | Proof of control of a wallet's coins at a block: BIP-322 proofs per funded addr… |
+| 2026-10-08 08:22:30 | [bip322-report](https://pypi.org/project/bip322-report/) | 0.9.1 | Embedded Nation AB | 2.0 MB | The statement of a period in which every coin is backed by a verified BIP-322 p… |
+| 2026-10-08 08:22:50 | [freesight](https://pypi.org/project/freesight/) | 0.4.0 |  | 182.1 kB | 75 free, keyless data sources. One polite Python client. Rate limits, 429 coold… |
+| 2026-10-08 08:25:36 | [hxadmin](https://pypi.org/project/hxadmin/) | 0.1.0 | Gledi Caushaj | 555.7 kB | Admin interface for FastAPI and SQLAlchemy 2.0+, built with Tailwind CSS and ht… |
+| 2026-10-08 08:26:49 | [lapeace](https://pypi.org/project/lapeace/) | 0.1.0 | Don Durkheim | 13.7 kB | Bring peace to your Downloads folder: sort files into folders, with undo. |
+| 2026-10-08 08:27:35 | [mammoth-mcp](https://pypi.org/project/mammoth-mcp/) | 0.0.1 | Mammoth Analytics | 2.5 kB | Reserved name. Mammoth's MCP server: https://mcp.mammoth.io/mcp, or pip install… |
+| 2026-10-08 08:30:01 | [klarety](https://pypi.org/project/klarety/) | 0.0.1 | Klarety | 1.6 kB | The Klarety SDK. Coming soon. |
+| 2026-10-08 08:35:42 | [aeval-harbor](https://pypi.org/project/aeval-harbor/) | 0.1.1 |  | 2.5 MB | Agent trajectory evaluation framework built on Harbor |
+| 2026-10-08 08:36:53 | [orchid-storage-sqlite](https://pypi.org/project/orchid-storage-sqlite/) | 1.1.0 |  | 78.8 kB | SQLite storage backend plugin for the Orchid AI framework |
+| 2026-10-08 08:39:10 | [lupaxa-uuid-generator](https://pypi.org/project/lupaxa-uuid-generator/) | 0.1.0 | The Lupaxa Project | 23.4 kB | Generate UUID versions 1, 3, 4, 5, 6, 7, and 8, with formatting and a slim CLI. |
+| 2026-10-08 08:40:16 | [cs2-movesim](https://pypi.org/project/cs2-movesim/) | 0.1.0 | 370025263 <370025263@qq.com> | 36.1 kB | Tick-level Counter-Strike 2 movement simulator, trajectory-tracking controller… |
+| 2026-10-08 08:47:25 | [ricercar](https://pypi.org/project/ricercar/) | 0.1.0 | Chorust | 13.0 kB | A dual-loop framework for human-agent co-evolution. |
+| 2026-10-08 08:50:25 | [openpap](https://pypi.org/project/openpap/) | 0.1.1 | ooooofish <ooooofish@126.com> | 4.3 kB | openpap |
+| 2026-10-08 08:51:10 | [dejaxvu](https://pypi.org/project/dejaxvu/) | 0.0.2 | Rodrigo Calderon | 2.2 kB | Dark Energy phenomenology in JAX: Visualization and modelling Utilities |
+| 2026-10-08 08:51:10 | [opencropphenotyping](https://pypi.org/project/opencropphenotyping/) | 0.2.0 | Aurélien Peter | 89.3 kB | Open-source tools for crop phenotyping using multispectral geospatial imagery |
+| 2026-10-08 08:52:43 | [lowcoai-lowcodb](https://pypi.org/project/lowcoai-lowcodb/) | 0.1.0 |  | 31.3 kB | Official Python client for the lowcodb manager service. |
+| 2026-10-08 08:52:47 | [lowcoai-agentx](https://pypi.org/project/lowcoai-agentx/) | 0.1.0 |  | 44.1 kB | Official Python client for the agentx backend (agent-manager, agent-kb, agent-e… |
+| 2026-10-08 08:52:51 | [lowcoai-workflow](https://pypi.org/project/lowcoai-workflow/) | 0.1.0 |  | 40.1 kB | Official Python client for the workflow-orchestrator product. |
+| 2026-10-08 08:52:55 | [lowcoai-integrations](https://pypi.org/project/lowcoai-integrations/) | 0.1.0 |  | 39.4 kB | Official Python client for the integrations-manager product. |
+| 2026-10-08 08:53:46 | [anydist](https://pypi.org/project/anydist/) | 1.0.1 | Matteo Dell'Amico <della@linu… | 77.9 MB | HNSW approximate nearest-neighbor search for arbitrary data and dissimilarity f… |
+| 2026-10-08 08:55:10 | [mlgatee](https://pypi.org/project/mlgatee/) | 0.8.0 | MLGatee <hello@mlgatee.com> | 69.8 kB | Deploy ML models to MLGatee from a notebook, a script or the terminal. |
+| 2026-10-08 08:56:09 | [sunoauxtool](https://pypi.org/project/sunoauxtool/) | 1.6.0 | SunoAuxTool Team | 775.7 kB | SunoAuxTool：Suno/海绵音乐/网易天音等 AI 音乐工具的前期+后期处理工具箱（生成/谱面/互转 + 下载/转码/DSP/视频/音质增强） |
+| 2026-10-08 08:56:38 | [routeman](https://pypi.org/project/routeman/) | 0.1.0 | Swastik Tech Solutions Pvt Lt… | 112.8 kB | Generate Postman collections from Django, Django REST framework, Flask and Fast… |
+| 2026-10-08 08:59:12 | [epub-extended](https://pypi.org/project/epub-extended/) | 0.1.0 | Taylor Ren <taylor.ren@gmail.… | 111.0 kB | Open EPUB files and expose their content as a structured, lazily-parsed graph. |
+| 2026-10-08 08:59:34 | [botworx-kcore](https://pypi.org/project/botworx-kcore/) | 0.0.1 | kfields <kurtisfields@gmail.c… | 27.6 kB | KCore |
+| 2026-10-08 09:00:34 | [shopee-skynet-cache-grafana-python](https://pypi.org/project/shopee-skynet-cache-grafana-python/) | 0.0.0 | sc | 2.7 kB | A small example package |
+| 2026-10-08 09:02:03 | [bev-cera](https://pypi.org/project/bev-cera/) | 0.1.0a1 | BirdsEyeView Data Science Team | 34.4 kB | Python SDK and CLI for the External Weather API. |
+| 2026-10-08 09:03:10 | [pybasics-kit](https://pypi.org/project/pybasics-kit/) | 0.1.0 | Sonia-ship-it | 25.5 kB | A lightweight Swiss Army Knife utility library for everyday Python workflows. |
+| 2026-10-08 09:07:14 | [tree-sitter-golang](https://pypi.org/project/tree-sitter-golang/) | 1.27.0 | Gaijin Entertainment | 1.4 MB | Go grammar for tree-sitter |
+| 2026-10-08 09:07:26 | [notebook-llm-cli](https://pypi.org/project/notebook-llm-cli/) | 0.1.0 | Shashan Lumbhani <lumbhanisha… | 53.1 kB | Interactive CLI to run Ollama LLMs on Kaggle/Colab GPUs: GPU detection, fit and… |
+| 2026-10-08 09:08:21 | [vkover](https://pypi.org/project/vkover/) | 0.1.1 |  | 46.9 kB | VKover - VK user-bot library on web tokens (api.vk.ru, Long Poll v3) |
+| 2026-10-08 09:09:20 | [pysovist](https://pypi.org/project/pysovist/) | 0.1.0 | Bartu Tuncay | 121.7 kB | Exact isovists and view volumes from floor plans, meshes and raw point clouds |
+| 2026-10-08 09:12:25 | [abstract-host](https://pypi.org/project/abstract-host/) | 0.0.1 | putkoff <partners@abstractend… | 23.6 kB | A host's toolserver setup from a package: shared venv, hub node, router, log ca… |
+| 2026-10-08 09:15:38 | [cf-bootstrap-source-local](https://pypi.org/project/cf-bootstrap-source-local/) | 0.1.0 | Cogniflow Maintainers | 33.2 kB | Offline deterministic Stonecastle local repository artifact resolver. |
+| 2026-10-08 09:15:40 | [cf-concept-service](https://pypi.org/project/cf-concept-service/) | 0.1.0 | Cogniflow Maintainers | 8.9 kB | Cogniflow concept package defining service semantics. |
+| 2026-10-08 09:15:41 | [cf-concept-workspace](https://pypi.org/project/cf-concept-workspace/) | 0.1.0 |  | 3.4 kB | Implementation-independent workspace domain concepts for Cogniflow. |
+| 2026-10-08 09:17:57 | [wordtidy](https://pypi.org/project/wordtidy/) | 0.1.0 | Miguel Louis <miguellouis2023… | 7.5 kB | Small, dependency-free text helpers: slugify, truncate, word count and more. |
+| 2026-10-08 09:19:15 | [floppydata](https://pypi.org/project/floppydata/) | 0.1.1 |  | 378.5 kB | Python SDK for the Floppydata Client API v2: Web Data, rotating and static prox… |

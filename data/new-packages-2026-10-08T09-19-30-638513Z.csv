@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T08:22:23Z,bip322-core,0.11.1,Embedded Nation AB,MIT,148139,"BIP-322 message signing and verification for descriptor wallets (P2WSH multisig, P2WPKH): PSBTs for hardware signers, finalization, a verifier cross-checked against btcd, Knots, Core and btclib"
+2026-10-08T08:22:28Z,bip322-audit,0.12.1,Embedded Nation AB,MIT,110660,Proof of control of a wallet's coins at a block: BIP-322 proofs per funded address plus the on-chain checks an auditor runs on their own node
+2026-10-08T08:22:30Z,bip322-report,0.9.1,Embedded Nation AB,MIT AND OFL-1.1,1955326,"The statement of a period in which every coin is backed by a verified BIP-322 proof of control: holdings, movements, reconciliation, HTML/CSV/PDF, on top of bip322-audit"
+2026-10-08T08:22:50Z,freesight,0.4.0,,,182108,"75 free, keyless data sources. One polite Python client. Rate limits, 429 cooldowns, TTL cache and single-flight — handled."
+2026-10-08T08:25:36Z,hxadmin,0.1.0,Gledi Caushaj,MIT,555683,"Admin interface for FastAPI and SQLAlchemy 2.0+, built with Tailwind CSS and htmx"
+2026-10-08T08:26:49Z,lapeace,0.1.0,Don Durkheim,MIT,13741,"Bring peace to your Downloads folder: sort files into folders, with undo."
+2026-10-08T08:27:35Z,mammoth-mcp,0.0.1,Mammoth Analytics,LicenseRef-Proprietary,2474,"Reserved name. Mammoth's MCP server: https://mcp.mammoth.io/mcp, or pip install mammoth-mcp-server"
+2026-10-08T08:30:01Z,klarety,0.0.1,Klarety,,1598,The Klarety SDK. Coming soon.
+2026-10-08T08:35:42Z,aeval-harbor,0.1.1,,Apache-2.0,2533465,Agent trajectory evaluation framework built on Harbor
+2026-10-08T08:36:53Z,orchid-storage-sqlite,1.1.0,,MIT,78772,SQLite storage backend plugin for the Orchid AI framework
+2026-10-08T08:39:10Z,lupaxa-uuid-generator,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",23410,"Generate UUID versions 1, 3, 4, 5, 6, 7, and 8, with formatting and a slim CLI."
+2026-10-08T08:40:16Z,cs2-movesim,0.1.0,370025263 <370025263@qq.com>,MIT,36093,"Tick-level Counter-Strike 2 movement simulator, trajectory-tracking controller and OpenCS2 calibration benchmarks"
+2026-10-08T08:47:25Z,ricercar,0.1.0,Chorust,Apache-2.0,13022,A dual-loop framework for human-agent co-evolution.
+2026-10-08T08:50:25Z,openpap,0.1.1,ooooofish <ooooofish@126.com>,MIT License,4309,openpap
+2026-10-08T08:51:10Z,dejaxvu,0.0.2,Rodrigo Calderon,,2236,Dark Energy phenomenology in JAX: Visualization and modelling Utilities
+2026-10-08T08:51:10Z,opencropphenotyping,0.2.0,Aurélien Peter,,89295,Open-source tools for crop phenotyping using multispectral geospatial imagery
+2026-10-08T08:52:43Z,lowcoai-lowcodb,0.1.0,,MIT,31256,Official Python client for the lowcodb manager service.
+2026-10-08T08:52:47Z,lowcoai-agentx,0.1.0,,MIT,44127,"Official Python client for the agentx backend (agent-manager, agent-kb, agent-executor)."
+2026-10-08T08:52:51Z,lowcoai-workflow,0.1.0,,MIT,40107,Official Python client for the workflow-orchestrator product.
+2026-10-08T08:52:55Z,lowcoai-integrations,0.1.0,,MIT,39354,Official Python client for the integrations-manager product.
+2026-10-08T08:53:46Z,anydist,1.0.1,Matteo Dell'Amico <della@linux.it>,BSD-3-Clause,77949309,HNSW approximate nearest-neighbor search for arbitrary data and dissimilarity functions
+2026-10-08T08:55:10Z,mlgatee,0.8.0,MLGatee <hello@mlgatee.com>,Apache-2.0,69756,"Deploy ML models to MLGatee from a notebook, a script or the terminal."
+2026-10-08T08:56:09Z,sunoauxtool,1.6.0,SunoAuxTool Team,MIT,775710,SunoAuxTool：Suno/海绵音乐/网易天音等 AI 音乐工具的前期+后期处理工具箱（生成/谱面/互转 + 下载/转码/DSP/视频/音质增强）
+2026-10-08T08:56:38Z,routeman,0.1.0,Swastik Tech Solutions Pvt Ltd <contact@swastik.ai>,MIT,112783,"Generate Postman collections from Django, Django REST framework, Flask and FastAPI projects - no OpenAPI or documentation library needed."
+2026-10-08T08:59:12Z,epub-extended,0.1.0,Taylor Ren <taylor.ren@gmail.com>,MIT,111042,"Open EPUB files and expose their content as a structured, lazily-parsed graph."
+2026-10-08T08:59:34Z,botworx-kcore,0.0.1,kfields <kurtisfields@gmail.com>,MIT,27591,KCore
+2026-10-08T09:00:34Z,shopee-skynet-cache-grafana-python,0.0.0,sc,BSD License,2653,A small example package
+2026-10-08T09:02:03Z,bev-cera,0.1.0a1,BirdsEyeView Data Science Team,MIT,34382,Python SDK and CLI for the External Weather API.
+2026-10-08T09:03:10Z,pybasics-kit,0.1.0,Sonia-ship-it,MIT,25539,A lightweight Swiss Army Knife utility library for everyday Python workflows.
+2026-10-08T09:07:14Z,tree-sitter-golang,1.27.0,Gaijin Entertainment,MIT,1375870,Go grammar for tree-sitter
+2026-10-08T09:07:26Z,notebook-llm-cli,0.1.0,Shashan Lumbhani <lumbhanishashan1510@gmail.com>,MIT,53134,"Interactive CLI to run Ollama LLMs on Kaggle/Colab GPUs: GPU detection, fit and tokens/sec estimates, library search, public tunnel."
+2026-10-08T09:08:21Z,vkover,0.1.1,,AGPL-3.0-or-later,46920,"VKover - VK user-bot library on web tokens (api.vk.ru, Long Poll v3)"
+2026-10-08T09:09:20Z,pysovist,0.1.0,Bartu Tuncay,MIT,121685,"Exact isovists and view volumes from floor plans, meshes and raw point clouds"
+2026-10-08T09:12:25Z,abstract-host,0.0.1,putkoff <partners@abstractendeavors.com>,MIT,23606,"A host's toolserver setup from a package: shared venv, hub node, router, log capture, nginx site, session hooks, per-account audit + activity log, one node per user."
+2026-10-08T09:15:38Z,cf-bootstrap-source-local,0.1.0,Cogniflow Maintainers,GPL-3,33239,Offline deterministic Stonecastle local repository artifact resolver.
+2026-10-08T09:15:40Z,cf-concept-service,0.1.0,Cogniflow Maintainers,GPL-3,8873,Cogniflow concept package defining service semantics.
+2026-10-08T09:15:41Z,cf-concept-workspace,0.1.0,,,3449,Implementation-independent workspace domain concepts for Cogniflow.
+2026-10-08T09:17:57Z,wordtidy,0.1.0,Miguel Louis <miguellouis2023@gmail.com>,MIT,7467,"Small, dependency-free text helpers: slugify, truncate, word count and more."
+2026-10-08T09:19:15Z,floppydata,0.1.1,,MIT,378477,"Python SDK for the Floppydata Client API v2: Web Data, rotating and static proxies, Cloud Browser."
