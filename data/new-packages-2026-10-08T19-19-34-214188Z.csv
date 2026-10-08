@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T18:21:32Z,metergraph-mcp,0.0.1,Metergraph,,10964,Name held by Metergraph. Contains no functionality; see the README for the package to use.
+2026-10-08T18:27:51Z,seamless-auth,0.1.0,Fells Code LLC,Apache-2.0,84216,Seamless Auth server adapter for FastAPI and Django: cookie and bearer sessions in front of the Seamless Auth API
+2026-10-08T18:29:11Z,megachad,0.1.0,megachadcua <hello@megachadcua.com>,MIT,42928,"Voice in, decisions out. Python client for the megachadcua.com voice-to-action API."
+2026-10-08T18:30:01Z,proofhouse,0.4.1,Proofhouse Maintainers,MIT,459602,"Prompt operations framework for prompt architecture, audits, rewrites, and evals."
+2026-10-08T18:31:59Z,airbyte-destination-ailake,0.1.16,Thiago Egon Lange <thiago.egon@gmail.com>,MIT OR Apache-2.0,42368,Airbyte destination connector for AI-Lake Format — writes records to AI-Lake vector tables
+2026-10-08T18:32:16Z,boe,0.1.1,Jaime Fernández González <jaime@jaimefgdev.com>,MIT,94650,"Cliente de la API de datos abiertos del BOE: sumarios del BOE y del BORME y legislación consolidada, sin dependencias"
+2026-10-08T18:32:47Z,chorus-crispr,0.0.0,Mukund Varma,,1920,"Placeholder for CHORUS, a hit caller for pooled CRISPR drug screens"
+2026-10-08T18:33:35Z,tree-sitter-bats,0.1.0,Grant Hutchins <git@nertzy.com>,MIT,2166807,"Bats (Bash Automated Testing System) grammar for tree-sitter, extending tree-sitter-bash."
+2026-10-08T18:35:18Z,dna-builder-sdk,0.1.1,pa001024,MIT,166330,dna-builder 自建后端 + 数据包 + 纯表达式计算的 Python SDK（公开读接口 / 双加载 / 无编辑语义）
+2026-10-08T18:35:19Z,collective.fragmentsblock,1.0.0a2,Maik Derstappen <md@derico.de>,GPL-2.0-or-later,358197,"Aurora fragment block: static design fragments registered by add-ons, rendered as-is"
+2026-10-08T18:36:44Z,metergraph-skill,0.0.1,Metergraph,,10923,Name held by Metergraph. Contains no functionality; see the README for the package to use.
+2026-10-08T18:37:21Z,garmin-intervals-bridge,0.2.0,Andreas Schnederle-Wagner,MIT,144535,Self-hosted Garmin Connect original FIT and wellness sync to Intervals.icu
+2026-10-08T18:38:36Z,jev-bisect,0.1.0,,MIT,82345,Find numeric answers with Jev's higher/lower/exactly choices.
+2026-10-08T18:39:39Z,pipecat-giggy,0.1.0,Giggy <henry@giggy.ai>,ISC,17174,Giggy HTTP text-to-speech integration for Pipecat
+2026-10-08T18:40:22Z,metergraph-agent,0.0.1,Metergraph,,10919,Name held by Metergraph. Contains no functionality; see the README for the package to use.
+2026-10-08T18:40:28Z,train-doctor,0.1.0,Abel Yagubyan,MIT,127513,"Give your agent a way to find out why a training run is slow, fix it, and prove the speedup."
+2026-10-08T18:40:30Z,paper-repro,0.1.0,Abel Yagubyan,MIT,284132,"Point your agent at a paper's code; it gets it running and tells you whether the headline number reproduces, with the evidence."
+2026-10-08T18:40:36Z,notebook-to-pipeline,0.1.0,Abel Yagubyan,MIT,143038,Turn a messy Jupyter notebook into a tested pipeline and prove the outputs didn't change.
+2026-10-08T18:40:52Z,sdk-221,0.2.1,,Apache-2.0,584790,"SDK Python de l'API 221 : client généré depuis l'OpenAPI, vérification des webhooks et données de référence hors ligne"
+2026-10-08T18:43:00Z,eval-builder,0.1.0,Abel Yagubyan,MIT,439503,Turn real LLM app logs into an eval suite and measure which LLM judges you can trust.
+2026-10-08T18:43:16Z,mitra-finetune,0.3.0,Boran Han,Apache-2.0,156553,Fine-tuning for pretrained Mitra tabular foundation-model checkpoints
+2026-10-08T18:43:53Z,metergraph-agents,0.0.1,Metergraph,,10937,Name held by Metergraph. Contains no functionality; see the README for the package to use.
+2026-10-08T18:44:54Z,carcara-sdlc,0.3.0,,,231944,Token-balanced agentic SDLC framework for Claude Code
+2026-10-08T18:46:15Z,memd-engine,0.5.0,memd contributors,Apache-2.0,1253385,"memd - embedded-first agent memory engine: raw+fact lanes, bitemporal supersedence, provenance/trust tiers, hybrid retrieval"
+2026-10-08T18:47:17Z,jcpm-data,0.1.0,Ullysses Rosendo <ullysses.rosendo@jcpm.com.br>,Proprietary,349455,Framework padronizado de engenharia de dados do Grupo JCPM (carga e validação para o DW)
+2026-10-08T18:47:37Z,dipsac,0.1.1,DIPSAC <contact@dipsac.com>,MIT,66355,"The official Python library for the DIPSAC API: PDF, image, audio, video and SEO tools, and the AI Voice Studio."
+2026-10-08T18:49:18Z,dark-chat,2.1.0,,,42108,Minimal two-person encrypted terminal chat and WebSocket relay
+2026-10-08T18:52:30Z,tansr-sdk,0.1.0,Tansr,"MIT License Copyright (c) 2026 Tansr (tansr.com) Permission is hereby granted, free of charge, to a…",408644,Native Python client SDK for the Tansr Serve unified API
+2026-10-08T18:53:17Z,knowyourai,0.1.0,Pradyoth P.,Apache-2.0,64586,Check that the open-weight models on your machine are what they claim to be.
+2026-10-08T18:54:53Z,neuronal-rs,0.1.0,José Henrique Targino Dias Gois,MIT,243624,"Neural simulation in Rust, accessible from Python"
+2026-10-08T18:56:57Z,squint-mcp,0.1.0,Lucas Fassi,MIT,77457,"MCP server that finds visual bugs in a rendered web page by crossing DOM/CSS with pixels, without a baseline."
+2026-10-08T18:57:18Z,fastmath-chetverikov,0.1.0,Четвериков Михаил Михайлович,MIT,499091,"Быстрые математические функции на Rust для Python (PyO3 + Maturin), ЛР №9"
+2026-10-08T18:58:04Z,tansr-sdk-demo,0.1.0,Tansr,"MIT License Copyright (c) 2026 Tansr (tansr.com) Permission is hereby granted, free of charge, to a…",44622,Three native Python examples for the Tansr Serve SDK
+2026-10-08T18:59:31Z,super-agent-sdk,0.0.36,super contributors,MIT,457368244,Embed the super coding agent in a Python program
+2026-10-08T19:03:14Z,croqui,0.1.0,Guilherme Mileib,MIT,372479,"Sketch-style interactive maps of any API and the database it touches, generated from source."
+2026-10-08T19:03:29Z,lumoauth-api-client,1.0.0,LumoAuth,MIT,1039819,LumoAuth API
+2026-10-08T19:03:54Z,calendardb,0.1.0,CalendarDB,MIT,36171,Store your logs and agent traces in Google Calendar. Your database has a day view.
+2026-10-08T19:04:19Z,khamyang,1.0.0,Akshat Singh Bisht,MIT,523501,A Python language library and revitalization toolkit for Tai Khamyang (ksu)
+2026-10-08T19:05:04Z,cyberwave-contracts,0.1.0,Cyberwave Team <info@cyberwave.com>,Apache-2.0,85465,"Payload and configuration contracts shared by the Cyberwave backend, SDK, and edge components"
+2026-10-08T19:08:25Z,ghravioli,0.1.0a2,Bureau Burman,MIT,159483,"Experimental agent skill and CLI for writing Grasshopper Python components in code, verifying them and copy-pasting them into Grasshopper"
+2026-10-08T19:09:11Z,rbflab,0.1.0,,MIT,2567487,RBFLAB: radial basis functions for interpolation and PDEs
+2026-10-08T19:10:33Z,llmsentry-ai,0.1.0,Sunita Tiwary,MIT,56439,Drop-in prompt-injection firewall for LLM apps
+2026-10-08T19:14:19Z,remote-terminal,0.1.0,,,8448501,"A persistent, shared terminal on another machine for Claude and you, over plain SSH"
+2026-10-08T19:17:17Z,youtube-closed-captions,1.0.0,Mike Lay,"Copyright 2016 Michael Lay Licensed under the Apache License, Version 2.0 (the ""License""); you may…",10082,Download closed captions from Youtube
