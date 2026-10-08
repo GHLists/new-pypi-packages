@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T09:19:56Z,formulab,0.1.0,Nikki,MIT,12236,A mathematical and scientific computation toolkit for Python
+2026-10-08T09:19:59Z,potters-mcp,0.1.0,,,7410,An MCP server for the Potters Places API
+2026-10-08T09:20:24Z,pg-phenotype,0.1.0,Ryan Waples,MIT,3533722,"Phenotypes in the context of a pedigree, on pedigree-graph's Rust core: PA-FGRS and more"
+2026-10-08T09:20:45Z,jms-pam,1.0.1,JumpServer Team,,134348,JumpServer PAM Python SDK
+2026-10-08T09:21:48Z,dataowl,0.1.0,Alexandro Dronnen,MIT,56866,Facts about Databricks data products for building dbt staging models.
+2026-10-08T09:22:05Z,marc21-learn,0.1.0,Nico Wagner <n.wagner@dnb.de>,EUPL-1.2,27552860,A toolkit that bridges the gap between the MARC21 and scikit-learn
+2026-10-08T09:25:25Z,adalib-IFL,0.1.0,"Youngwoo Yoo, Dayeong Kang, Suhyeong Lim, Sang-Hyun Rhie","MIT License Copyright (c) 2024 adalib contributors Permission is hereby granted, free of charge, to…",484825,"ADAlib: Anti-Derivative Approximator (ADA) library for ODE forward simulation, inverse estimation, operator learning, and MPC"
+2026-10-08T09:28:46Z,memopro,0.1.0,,MIT OR Apache-2.0,3248597,"Run work that exceeds your machine's memory losslessly, within a guaranteed memory ceiling: 16-bit LLM fine-tuning and generation beyond device memory, and a budgeted runtime for large arrays (alpha)."
+2026-10-08T09:30:41Z,preloan-cli,1.0.0,,,91919,Direct command-line interface for the synthetic PreLoan training backend
+2026-10-08T09:33:17Z,leeghwater,0.1.0,Misja Pronk,Apache-2.0,202392,"Your dlt pipeline, the same on your laptop and in a Databricks job"
+2026-10-08T09:35:12Z,akadze,0.1.1,g4st3r,MIT,49526,Postgres-backed task queue. The broker is PostgreSQL.
+2026-10-08T09:40:46Z,amplifyp,1.24.1,,,5895185,"Modern Python rewrite of Amplify4 for PCR simulation, amplicon prediction, and primer dimer analysis"
+2026-10-08T09:43:21Z,rssa,0.1.1,,Apache-2.0,58888,"RSS-A (RSS for Agents): publish, sign, read and verify agent feeds and groups."
+2026-10-08T09:43:41Z,vincs,0.1.0,Vinculums,MIT,1778681,"Vinc Python SDK, framework integrations and terminal CLI"
+2026-10-08T09:43:51Z,aai-octavo,0.0.2,Rens <rd@answer.ai>,Apache-2.0,59323,Build static sites from markdown and notebooks.
+2026-10-08T09:45:07Z,scrubdaddy,0.1.0,Dmitry Anfimov,MIT,57839,Find and remove personally identifiable information from text.
+2026-10-08T09:46:48Z,brainers-atlasforge,0.1.0a2,Brainers Labs,Apache-2.0,355020,"Run, evaluate, compare and fine-tune the official N-ATLaS models (Hausa, Yoruba, Igbo, Nigerian English)."
+2026-10-08T09:47:12Z,quickrib,0.1.0,Justin Loye <jloye@iij.ad.jp>,MIT,310607,"BGP RIB construction, update and analysis"
+2026-10-08T09:48:31Z,prompt-composer,0.2.0,phonhay103 <phonhay103@users.noreply.github.com>,Apache-2.0,105661,Section-based prompt composition and slot variable management for LLM applications
+2026-10-08T09:50:48Z,phytoworks,0.0.0,PhytoWorks Team <dev@phytoworks.com>,MIT,1614,Name reserved for the PhytoWorks Python SDK. No code yet; do not install.
+2026-10-08T09:52:14Z,contest-score,1.0.0,,,10778,"具身智能大赛 P11:赛事成绩管理 MCP Server(6 工具,含校验链/幂等/持久化)"
+2026-10-08T09:54:12Z,argus-idor,0.1.0,Vatsalya Soni <vatsalyasoni20@gmail.com>,MIT,205432,Autonomous IDOR/BAC agent that proves findings by generating and executing real exploits in isolation.
+2026-10-08T09:54:31Z,wps365,0.4.0,AbyssRei,MIT,13769464,WPS365 云文档工具 Python 绑定（云盘文件、智能文档、分享、收藏、回收站、评论、标签等）
+2026-10-08T09:56:36Z,devin-evals,0.2.0,Icaro0310,MIT,140369,Evaluation harness: replay session prompts against graders to measure agent quality over time.
+2026-10-08T09:57:06Z,mirrordash-sdk,0.2.0,,# MirrorDash License Required Notice: Copyright (C) 2026 Jonas Öhlander (https://github.com/Mentura…,68550,"Create, try and publish MirrorDash modules"
+2026-10-08T09:57:40Z,ngila,0.0.1,,,3478,Ngila project information and command-line entry point.
+2026-10-08T09:58:36Z,nubra-workshop,1.0.0,Workshop Team,,7683,Drop-in workshop adapter for official Nubra Python SDK
+2026-10-08T10:00:42Z,ai-center-runtime,0.2.0,01JohnMa,,33077,"Relay-only model access SDK for AI Center applications (invocation binding, allowlist, stable errors)"
+2026-10-08T10:02:03Z,gujarati-lexicon-mcp,0.2.0,Aarsh Dhokai,MIT,544556,"MCP server that gives AI assistants a grounded Gujarati dictionary: meanings, synonyms, idioms, with inflection handling"
+2026-10-08T10:03:48Z,cot-pytest,0.1.0,Ronny Pfannschmidt <opensource@ronnypfannschmidt.de>,MIT,46227,"pytest, with its parts replaced by the cogs-of-testing versions"
+2026-10-08T10:04:23Z,secondfactor,0.2.0,,MIT,16269,"secondfactor.ai for Python servers: hosted and headless phone verification, and OTP send and check. No dependencies."
+2026-10-08T10:07:24Z,neoma-pcam,0.1.0,Neoma Physical AI,,3864,Deterministic Physical Convergence & Molecular Screening SDK
+2026-10-08T10:12:17Z,aioaquarea-ng,1.1.0,wpatrik14,"MIT License Copyright (c) 2022 Carlos J. Aliaga Permission is hereby granted, free of charge, to an…",61355,Asynchronous library to control Panasonic Aquarea devices
+2026-10-08T10:12:59Z,maigp-google-adk,1.0.0,,,12024,AIGP governance adapter for Google ADK (Agent Development Kit)
+2026-10-08T10:13:15Z,maigp-pydantic-ai,1.0.0,,,12235,AIGP governance adapter for PydanticAI
+2026-10-08T10:13:44Z,oneport-account,0.4.0,Oneport,MIT,23827,"Oneport account & metering client — login, token balance, redeem codes, and the managed-LLM proxy every Oneport tool bills through."
+2026-10-08T10:17:16Z,dzikthon,1.0.0,LordDzik <lorddzik@telegram.org>,MIT,1590450,Enhanced Telegram MTProto & Bot API library with Cheat Premium Emoji and Rich Message support
+2026-10-08T10:19:02Z,hugpy-router,0.0.1,putkoff <support@hugpy.ai>,LicenseRef-Proprietary,48855,"hugpy's router: one OpenAI-compatible address in front of every box's hugpy-wrapper front door. Picks the box per call (a model already serving with the same settings first, else a box that can load…"
