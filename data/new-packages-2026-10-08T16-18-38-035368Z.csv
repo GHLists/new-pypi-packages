@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T15:20:47Z,novomodelo-bridge,0.18.0,,Apache-2.0,3287908,Convert NEWAVE and DECOMP cases to Novomodelo input format and compare the results
+2026-10-08T15:21:39Z,tzero-mcp,3.0.6,Toprak Ahmet Aydoğmuş <toprakahmetileq@gmail.com>,MIT,269305,"Enterprise Codebase Context Builder, AST Signatures Analyzer, & Token Reducer for LLMs"
+2026-10-08T15:22:06Z,ErisPulse-Testing,0.1.0,ErisDev,MIT,54901,"Official testing toolkit for ErisPulse modules & adapters — TestBot, event factories, reply recording and assertions | ErisPulse 官方测试工具包：TestBot、事件工厂、回复记录与断言"
+2026-10-08T15:23:13Z,palpites-mega-sena,0.1.0,Mateus,MIT,11586,"Gerador de palpites aleatórios para a Mega-Sena, com custo e probabilidades."
+2026-10-08T15:23:14Z,fxapis,0.1.1,El Wizard <mago@elwizard.net>,MIT,80107,"MT5 Python SDK for fxapis, the hosted MetaTrader 5 REST API: trade MT5 accounts with no terminal, VPS or EA."
+2026-10-08T15:23:32Z,bitskitten,0.2.0,Caerno,Apache-2.0,38053,"EDA reports, plots and sklearn-compatible encoders"
+2026-10-08T15:25:18Z,atlas-pca,0.1.0,,,35477,"Reference verifier for Atlas Proof-Carrying Authority (PCActn core, M0-M3)"
+2026-10-08T15:25:26Z,atlas-pca-crewai,0.1.0,,,18825,CrewAI tool guard for Atlas Proof-Carrying Authority (PCA): make every CrewAI tool call proof-carrying and policy-gated
+2026-10-08T15:25:28Z,atlas-pca-fastmcp,0.1.0,,,19526,Per-tool Proof-Carrying Authority enforcement for FastMCP (verify a PCActn on every tools/call)
+2026-10-08T15:25:29Z,atlas-pca-pydantic-ai,0.1.0,,,18670,Proof-Carrying Authority tool guard for Pydantic AI (verify a PCActn before each tool runs)
+2026-10-08T15:26:21Z,lmliheng-hello,0.1.0,lmliheng,MIT,7699,A tiny demo package published to PyPI by GitHub Actions.
+2026-10-08T15:26:35Z,rivaldefs,0.1.0,Elliot Tower,"MIT License Copyright (c) 2026 Elliot Tower Permission is hereby granted, free of charge, to any pe…",89660,Direction and implementation robustness of disagreement between rival binary labeling rules
+2026-10-08T15:35:44Z,pyarch-stress-test,1.0.0,,,5144,Complex Python project used to stress-test PyArch bytecode reconstruction and decompilation
+2026-10-08T15:40:56Z,atonix,0.5.1,Kolton Stimpert,LGPL-3.0-or-later,112362,Unofficial Python client for the Prometheus APM (formerly AtonixOI) API. Not affiliated with Prometheus Group.
+2026-10-08T15:42:08Z,system-b,1.1.5,Bee Hall <bhall1224@gmail.com>,,26714,A pygame engine for common game operations like vector math and maintaining events in the game loop
+2026-10-08T15:42:24Z,jira-cli-toolkit,2.5.1,Abhishek Aggarwal,AGPL-3.0-only,1791959,General-purpose Jira Cloud CLI with a friendly terminal UI
+2026-10-08T15:42:42Z,cddl-verifier,0.1.0,,MIT,180034,"Validate CBOR data against CDDL schemas, generate annotated EDN, and convert CBOR/JSON"
+2026-10-08T15:42:59Z,vantadb-letta,0.5.0,VantaDB Team,Apache-2.0,10066,Letta adapter for VantaDB — embedded vector memory for AI agents
+2026-10-08T15:43:40Z,agentramen,0.1.0,agentRamen contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",660856,Local-first repository intelligence and task context for coding agents
+2026-10-08T15:43:43Z,vantadb-llamaindex,0.5.0,VantaDB Team,Apache-2.0,15120,LlamaIndex adapter for VantaDB — embedded vector memory for AI agents
+2026-10-08T15:45:08Z,vantadb-mem0,0.5.0,VantaDB Team,Apache-2.0,12950,Mem0 adapter for VantaDB — embedded vector memory for AI agents
+2026-10-08T15:45:13Z,figworks,0.8.0,Andrea Maiani,MIT,124157,A Python framework for building publication-quality scientific SVG figures.
+2026-10-08T15:45:21Z,dogabot-sdk,0.1.0,dogabot,MIT,16736,Official dogabot REST API SDK for Python
+2026-10-08T15:46:11Z,aipracx,1.0.0,,,28421,AI and ML practicals with source viewer and runnable programs
+2026-10-08T15:48:24Z,astp-docs,0.2.0,Scorched Earth Labs <dev@scorchedearthlabs.com>,Apache-2.0,49479,"Retrieval core for ASTP documentation servers — structure-aware chunker, exact-lookup index, pluggable vector search, and shared tool logic"
+2026-10-08T15:50:37Z,automl-agent-client,0.1.0,kitasid,Apache-2.0,48141,"Python client and CLI for AutoML-Agent: describe an ML task in one sentence, get a verified, deployable pipeline."
+2026-10-08T15:52:55Z,odoo-addon-sentry-client,18.0.1.0.0.2,"Ledoent, Odoo Community Association (OCA)",AGPL-3,2086050,"Capture Odoo web-client JS errors in Sentry, with tiered opt-in for tracing and session replay"
+2026-10-08T15:54:57Z,ragvidence,0.1.0,Medo,# RAGvidence Software License Version 1.0 — 8 October 2026 Copyright © 2026 Medo. All rights reserv…,123808,"Evidence-first RAG retrieval diagnostics, built to run locally."
+2026-10-08T15:57:07Z,mkp-forge,0.0.1rc1,Matti Kaupenjohann <matti.kaupenjohann@fh-dortmund.de>,,98676,This is a tool to build mkp packages directly without the need of checkmk installed.
+2026-10-08T15:57:51Z,geniespec,0.1.1.dev2,,MIT,43703,Generate API code from an api.yaml spec
+2026-10-08T15:59:14Z,quafu-sdk,0.2.0,,MIT,162317,"Python SDK for the QUAFU quantum computing platform: log in, submit quantum circuits, and fetch results"
+2026-10-08T15:59:56Z,azure-mgmt-aigateway,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3186,This package will be released in the near future. Stay tuned!
+2026-10-08T16:01:26Z,GeoPakTile,2.0.1,apwebber,MIT,20096,Create a Geopackage XYZ Tile layer.
+2026-10-08T16:02:10Z,ufoamp,1.0.0,Spencer Ellis,MIT,2128689,Tree-level helicity amplitudes and squared matrix elements directly from a UFO model
+2026-10-08T16:06:11Z,was-disaggregation,0.8.0,Mandela HOUNGNIBO,GPL-3.0-only,320028,Forecast-conditioned gridded stochastic weather generation and daily downscaling
+2026-10-08T16:06:32Z,pyrig-badge,0.1.0,Winipedia,MIT,15131,A pyrig plugin that configures a project badge.
+2026-10-08T16:07:10Z,delightql,0.0.1,,Apache-2.0,10769,"DelightQL, a query language that transpiles to SQL: the library. A placeholder until the first release."
+2026-10-08T16:07:11Z,delightql-cli,0.0.1,,Apache-2.0,10789,"DelightQL, a query language that transpiles to SQL: the dql command line. A placeholder until the first release."
+2026-10-08T16:08:37Z,originchaindb,0.1.22,OpenAPI Generator community,MIT,732886,OriginChain HTTP API
+2026-10-08T16:10:28Z,dlp-invest-mcp,0.1.0,Marlon <marlo@example.com>,MIT,133339,MCP server exposing DLPInvest portfolio tools via stdio for AI clients
+2026-10-08T16:11:27Z,provctl,0.1.2,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",155060,Provenance-weighted dependency risk gate for Python projects
+2026-10-08T16:14:11Z,lavlab-pythomics,0.1.0,barrettMCW <mjbarrett@mcw.edu>,MIT,1892273,Feature extraction from histology label maps
+2026-10-08T16:14:48Z,extractfaces-gui,0.1.0,Rafael O. Ribeiro,BSD-3-Clause,20199,GUI application to extract faces from videos
