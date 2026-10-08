@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-10-08T03:20:20.006277Z",
-    "path": "data/new-packages-2026-10-08T04-19-16-939741Z.csv",
-    "to": "2026-10-08T04:19:16.939741Z"
+    "count": 37,
+    "from": "2026-10-08T04:19:16.939741Z",
+    "path": "data/new-packages-2026-10-08T05-21-14-965694Z.csv",
+    "to": "2026-10-08T05:21:14.965694Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-08T03:42:00Z",
-      "package": "gl-observability-masking-binary",
-      "since": "2026-10-08T03:20:20.006277Z"
+      "created_at": "2026-10-08T04:39:15Z",
+      "package": "autoware-carla-scenario",
+      "since": "2026-10-08T04:19:16.939741Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-08T01:23:11Z",
       "package": "windowsmonitor",
       "since": "2026-10-08T01:20:43.62445Z"
     }
   ],
-  "serial": 41954287,
+  "serial": 41955667,
   "source_truncated": false,
-  "window": "2026-10-08T04:19:16.939741Z"
+  "window": "2026-10-08T05:21:14.965694Z"
 }

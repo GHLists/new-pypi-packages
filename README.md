@@ -8,43 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 04:19 UTC
+## Latest list — 2026-10-08 05:21 UTC
 
-New packages created between 2026-10-08 03:20 UTC and 2026-10-08 04:19 UTC.
+New packages created between 2026-10-08 04:19 UTC and 2026-10-08 05:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-08T04-19-16-939741Z.csv)
+[Full CSV](data/new-packages-2026-10-08T05-21-14-965694Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-08 03:25:25 | [bangla-ai-sdk](https://pypi.org/project/bangla-ai-sdk/) | 0.1.0 | Jayed <jayedbinjahangir@gmail… | 51.5 kB | Official Python SDK for the Bangla AI Gateway (LLM, OCR, ASR, TTS, STS). |
-| 2026-10-08 03:27:14 | [roclint](https://pypi.org/project/roclint/) | 0.0.1 | Roclint Core Team | 11.3 kB | The Rock-Solid Intent Linter for AI Coding Agents. |
-| 2026-10-08 03:28:30 | [odoo-addon-l10n-ro-pos-retail](https://pypi.org/project/odoo-addon-l10n-ro-pos-retail/) | 19.0.1.0.0.3 | NextERP Romania,Odoo Communit… | 26.9 kB | Romania - A till sells on the fiscal position and the shelf prices of the shop… |
-| 2026-10-08 03:30:27 | [conpact](https://pypi.org/project/conpact/) | 0.1.0 | Zhiqi Wang | 32.3 kB | Does a side constraint survive context compaction? The COMPINT benchmark from '… |
-| 2026-10-08 03:30:56 | [witbitz-code](https://pypi.org/project/witbitz-code/) | 1.2.0 | Witbitz | 326.7 kB | Reach OpenCode on this computer from the Witbitz Spaces Code section, through a… |
-| 2026-10-08 03:32:24 | [semantic-python](https://pypi.org/project/semantic-python/) | 0.1.0a1 | Sai Ritesh Thela | 1.6 MB | Experimental semantic values for Python |
-| 2026-10-08 03:37:57 | [talocode-loop](https://pypi.org/project/talocode-loop/) | 0.1.0 | Talocode <hello@talocode.site> | 8.7 kB | The Talocode loop for agents: search a source, verify a claim against it, trace… |
-| 2026-10-08 03:38:34 | [brickagent](https://pypi.org/project/brickagent/) | 0.1.0 | Peter Kulits | 1.2 MB | Programmatic LEGO design |
-| 2026-10-08 03:42:09 | [myscent](https://pypi.org/project/myscent/) | 0.1.0 | jeffchen1995 <10977437+jeffch… | 25.6 kB | 图像 -> 10种香料配比，CLIP零样本分类的轻量香调视觉识别库 |
-| 2026-10-08 03:44:16 | [graphql-codegen](https://pypi.org/project/graphql-codegen/) | 0.1.2 | Thibault Derousseaux | 93.5 kB | Turn a GraphQL schema and your operations into a typed Python client with no im… |
-| 2026-10-08 03:46:13 | [mic-50-90](https://pypi.org/project/mic-50-90/) | 1.0.0 | Maciej Kochanowski <maciej.ko… | 7.4 MB | Distribution bounds and reporting tools for incomplete MIC data |
-| 2026-10-08 03:48:18 | [jevgraph](https://pypi.org/project/jevgraph/) | 0.2.0a1 | JEVGRAPH contributors | 127.1 kB | Browser capture, workspace search, and reusable evidence graphs. |
-| 2026-10-08 03:50:27 | [tensErr](https://pypi.org/project/tensErr/) | 0.4.2 |  | 34.1 kB | tensErr computes uncertainties for tensor-valued Markov chain Monte Carlo ensem… |
-| 2026-10-08 03:53:11 | [resumeme](https://pypi.org/project/resumeme/) | 0.0.3 | Emma Doyle | 7.6 MB | Turn your LinkedIn profile into a polished PDF resume, built and signed with Gi… |
-| 2026-10-08 03:54:03 | [ytapi-sdk](https://pypi.org/project/ytapi-sdk/) | 0.1.0 | YTAPI | 27.9 kB | Python client for YTAPI: YouTube transcripts, video details, search, channels a… |
-| 2026-10-08 03:54:38 | [cognitive-fabric](https://pypi.org/project/cognitive-fabric/) | 0.1.0 | Jim Cuttler <jimcuttler@gmail… | 387.1 kB | Cognitive Fabric: unified Python MCP server for a KuzuDB graph memory bank with… |
-| 2026-10-08 03:55:19 | [enigmata-sentinel-gateway](https://pypi.org/project/enigmata-sentinel-gateway/) | 0.0.0a0 | Enigmata, Inc. | 923 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-08 03:56:06 | [cipher-tokenizer](https://pypi.org/project/cipher-tokenizer/) | 0.0.0a0 | Enigmata, Inc. | 917 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-08 03:56:08 | [enigmata-cipher](https://pypi.org/project/enigmata-cipher/) | 0.0.0a0 | Enigmata, Inc. | 912 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-08 03:56:09 | [enigmata-cipher-tokenizer](https://pypi.org/project/enigmata-cipher-tokenizer/) | 0.0.0a0 | Enigmata, Inc. | 923 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-08 03:56:22 | [cfpb-complaints-analysis](https://pypi.org/project/cfpb-complaints-analysis/) | 0.1.1 |  | 31.1 kB | CFPB Consumer Complaint Database as clean Parquet plus an MCP server: 18M compl… |
-| 2026-10-08 04:00:34 | [shopee-skynet-re-mcp](https://pypi.org/project/shopee-skynet-re-mcp/) | 0.0.0 | sc | 2.5 kB | A small example package |
-| 2026-10-08 04:03:21 | [abhijan](https://pypi.org/project/abhijan/) | 0.1.14 |  | 6.8 kB | CLI tool to scaffold FastAPI projects |
-| 2026-10-08 04:05:42 | [SureshotSDK](https://pypi.org/project/SureshotSDK/) | 0.0.1 | Sureshot Capital | 3.6 kB | Reserved name for the Sureshot Capital trading SDK, which is distributed privat… |
-| 2026-10-08 04:05:50 | [lumoauth](https://pypi.org/project/lumoauth/) | 1.0.0 |  | 125.6 kB | Python SDK for LumoAuth Agent authentication and capability management |
-| 2026-10-08 04:06:22 | [keygrant](https://pypi.org/project/keygrant/) | 0.1.0 |  | 32.8 kB | Per-command secret injection for AI coding agents — values never enter model co… |
-| 2026-10-08 04:07:17 | [scripthaul](https://pypi.org/project/scripthaul/) | 0.2.0 | ScriptHaul <support@scripthau… | 34.3 kB | Thin Python client for the ScriptHaul transcript API |
-| 2026-10-08 04:13:33 | [tungsten-mcp](https://pypi.org/project/tungsten-mcp/) | 0.1.0 | Prism Infoways | 56.8 kB | Tungsten plugin: an MCP server so AI assistants like Claude can read and change… |
-| 2026-10-08 04:14:07 | [ventri](https://pypi.org/project/ventri/) | 0.0.1 |  | 1.9 kB | Ventri: a structured-concurrency, transactional plugin kernel for AI agents (pl… |
-| 2026-10-08 04:14:09 | [ventri-agent](https://pypi.org/project/ventri-agent/) | 0.0.1 |  | 1.9 kB | Ventri Agent: a DeepSeek-first personal agent built on the Ventri kernel (place… |
-| 2026-10-08 04:14:49 | [autop-runner](https://pypi.org/project/autop-runner/) | 0.1.0 |  | 333.7 kB | ATC runner: executes Autopilot flows on the customer's machine with the custome… |
-| 2026-10-08 04:16:56 | [transilience-cli](https://pypi.org/project/transilience-cli/) | 0.1.0 |  | 144.7 kB | Command-line access to Transilience product capabilities |
+| 2026-10-08 03:42:00 | [gl-observability-masking-binary](https://pypi.org/project/gl-observability-masking-binary/) | 0.0.0b2 | GDP Labs | 1.7 MB | Shared standard-library-only regex masking primitives |
+| 2026-10-08 04:21:20 | [webvigil](https://pypi.org/project/webvigil/) | 1.0.0 | Ryan Morais | 714.6 kB | A web application vulnerability scanner for developers — safe by default, CI-fr… |
+| 2026-10-08 04:22:37 | [gsh-framework](https://pypi.org/project/gsh-framework/) | 1.9.0 | Sunil Gentyala <sunil.gentyal… | 172.5 kB | Governed Security Hunting (GSH) Framework - autonomous agentic AI threat huntin… |
+| 2026-10-08 04:22:42 | [aegis-integrity](https://pypi.org/project/aegis-integrity/) | 3.2.0 | Sunil Gentyala | 395.9 kB | Open-source, offline, bias-aware academic integrity checker: plagiarism, AI con… |
+| 2026-10-08 04:28:51 | [mcptoolshop-rnd](https://pypi.org/project/mcptoolshop-rnd/) | 1.1.3.0.0 | mcp-tool-shop <64996768+mcp-t… | 68.4 kB | The studio's research bench: a Markdown research library with a rebuildable SQL… |
+| 2026-10-08 04:31:04 | [graph-mind-memory](https://pypi.org/project/graph-mind-memory/) | 0.1.5 | Yohan Ko <goyohan0611@gmail.c… | 209.5 kB | Local-first memory for AI coding assistants: verbatim, on your own PC, no LLM c… |
+| 2026-10-08 04:32:39 | [nail-parquet](https://pypi.org/project/nail-parquet/) | 1.9.0 | Johan HG Natter | 102.5 MB | Lightning-fast CLI for data analysis: explore, filter, transform Parquet/CSV/Ex… |
+| 2026-10-08 04:33:35 | [rotobot-nuke](https://pypi.org/project/rotobot-nuke/) | 0.3.0 | Sam Hodge <sam.hodge@tokgan.c… | 121.4 kB | Import Rotobot-Next lozenge_bezier_anim JSON into The Foundry's Nuke as a Roto… |
+| 2026-10-08 04:34:54 | [frame-ingest](https://pypi.org/project/frame-ingest/) | 0.1.0 | lavondev | 580.0 kB | Turn a video (file or URL) into a structured, citable Markdown document. An Age… |
+| 2026-10-08 04:35:41 | [scenezoo](https://pypi.org/project/scenezoo/) | 0.1.0 | Yiming Zhang | 346.3 kB | Read 3D indoor-scene datasets (ScanNet, ScanNet++, ARKitScenes, Matterport3D, .… |
+| 2026-10-08 04:37:35 | [ncm-api-py](https://pypi.org/project/ncm-api-py/) | 0.1.0 | hyouryo | 18.1 MB | 网易云音乐 API 的 Python 绑定，基于 PyO3 封装 ncm-api-rs |
+| 2026-10-08 04:38:12 | [odoo-addon-sustainability-spreadsheet-dashboard](https://pypi.org/project/odoo-addon-sustainability-spreadsheet-dashboard/) | 18.0.1.0.1.3 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 27.5 kB | Sustainability Spreadsheet Dashboard |
+| 2026-10-08 04:40:17 | [django-api-usage](https://pypi.org/project/django-api-usage/) | 0.1.0 | CodeSyntax <teknika@codesynta… | 38.8 kB | Lightweight, privacy-first usage metering for Django APIs, with an optional dep… |
+| 2026-10-08 04:43:05 | [mudra-interact](https://pypi.org/project/mudra-interact/) | 0.2.0 | MAYAYAI | 98.3 kB | Apache-2.0 landmark protocol and conservative Mudra interaction recognizer |
+| 2026-10-08 04:44:31 | [cheesecave](https://pypi.org/project/cheesecave/) | 0.0.0.dev0 | Cheesecave contributors | 27.0 kB | Name reservation for CheeseCave, a self-hosted Hugging Face compatible reposito… |
+| 2026-10-08 04:44:36 | [cheesecave-backend](https://pypi.org/project/cheesecave-backend/) | 0.0.0.dev0 | Cheesecave contributors | 27.1 kB | Name reservation for CheeseCave, a self-hosted Hugging Face compatible reposito… |
+| 2026-10-08 04:44:47 | [pele](https://pypi.org/project/pele/) | 0.1.1 |  | 235.1 MB | Python energy landscape explorer: global optimization, minimization, basins of… |
+| 2026-10-08 04:45:13 | [group-payments](https://pypi.org/project/group-payments/) | 0.1.2 |  | 17.8 kB | Group Pay API client and the gp command line tool |
+| 2026-10-08 04:46:57 | [webreader](https://pypi.org/project/webreader/) | 2.3.8 | morichan <morichan@gmail.com> | 60.7 kB | Tree-based HTML reader for Python. |
+| 2026-10-08 04:52:49 | [eid-toolbox](https://pypi.org/project/eid-toolbox/) | 0.1.1 |  | 75.4 kB | Effective information, source-side PEID, and Synergy Partition Trees |
+| 2026-10-08 04:55:00 | [pyfirstaid](https://pypi.org/project/pyfirstaid/) | 0.1.0 | Sai Gavaskar Sakalam | 29.4 kB | First aid for broken Python environments: finds what's wrong and tells you how… |
+| 2026-10-08 04:55:10 | [robotframework-maestrolibrary](https://pypi.org/project/robotframework-maestrolibrary/) | 0.2.0 |  | 51.3 kB | Robot Framework mobile keywords on top of Maestro, with an AppiumLibrary-style… |
+| 2026-10-08 04:56:33 | [reachward](https://pypi.org/project/reachward/) | 0.1.0 | Dragon Lady | 82.7 kB | Local, offline agent credential and MCP permission inventory |
+| 2026-10-08 04:57:17 | [degreeworks-cli](https://pypi.org/project/degreeworks-cli/) | 0.1.1 | Aaryan Kapoor | 76.7 kB | Read-only DegreeWorks CLI for KSU — lets an AI agent build your exact semester… |
+| 2026-10-08 04:59:38 | [everyeval](https://pypi.org/project/everyeval/) | 0.1.0 |  | 698.1 kB | Open-source benchmark evaluation with traces: catalog, quote, run, compare. |
+| 2026-10-08 05:05:45 | [synthpop-orchestrator-models-py](https://pypi.org/project/synthpop-orchestrator-models-py/) | 0.0.0 | Synthpop Inc | 1.7 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-08 05:05:47 | [synthpop-voiceagent-demo](https://pypi.org/project/synthpop-voiceagent-demo/) | 0.0.0 | Synthpop Inc | 1.6 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-08 05:05:49 | [synthpop-doc-py](https://pypi.org/project/synthpop-doc-py/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-08 05:05:51 | [deidentifier](https://pypi.org/project/deidentifier/) | 0.0.0 | Synthpop Inc | 1.7 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-08 05:06:13 | [recern-vector](https://pypi.org/project/recern-vector/) | 0.0.1 |  | 2.2 MB | A single-file, embedded, inspectable vector database |
+| 2026-10-08 05:07:53 | [jupyter-opensysml-kernel](https://pypi.org/project/jupyter-opensysml-kernel/) | 0.9.3.dev20261008 | Open-MBEE | 99.5 MB | Jupyter kernel for SysML v2, backed by the OpenSysML REPL |
+| 2026-10-08 05:08:40 | [inboxili](https://pypi.org/project/inboxili/) | 0.1.0 |  | 13.7 kB | Python client for the Inboxili transactional email API |
+| 2026-10-08 05:10:32 | [justorm](https://pypi.org/project/justorm/) | 1.0.0 | justorm contributors | 182.3 kB | A lightweight, schemaless SQL builder that mixes into native database cursors. |
+| 2026-10-08 05:12:59 | [meep-gpu](https://pypi.org/project/meep-gpu/) | 0.9.2 | Ivan Biggs, Alicia Zeng, Yanl… | 16.2 MB | GPU time stepping for MEEP simulations: steps a simulation built by the user's… |
+| 2026-10-08 05:13:18 | [python-local-ai](https://pypi.org/project/python-local-ai/) | 0.1.0 | Francesco Vezzani | 5.6 MB | OS-native, on-device AI for Python, powered by rust_local_ai. |
+| 2026-10-08 05:15:42 | [hexharness](https://pypi.org/project/hexharness/) | 1.0.0 | Matias Tillerias <matias.till… | 632.3 kB | Agentic pentesting harness with a hard domain control plane (scope, ROE, eviden… |
+| 2026-10-08 05:17:45 | [tekjuice-connector](https://pypi.org/project/tekjuice-connector/) | 0.1.0 | Tek Juice <support@tekjuice.i… | 107.9 kB | Tek Juice Data Engine Connector — standalone Python package for customer backen… |
