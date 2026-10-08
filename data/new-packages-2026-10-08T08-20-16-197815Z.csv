@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T07:22:51Z,raftward,0.1.1,,Apache-2.0,88124,"Offline, guarded integrity checks for closed SQLite databases and backups"
+2026-10-08T07:26:50Z,freebind-py,0.2.0,,GPL-3.0-only,106424,Linux Freebind source policies for Python sockets and HTTP clients
+2026-10-08T07:26:53Z,syntheka,0.0.1,Syntheka,MIT,1818,Syntheka brand namespace placeholder (reserved). Do not depend on this package.
+2026-10-08T07:27:20Z,testteeth,0.1.0,Fernando Garza,MIT,91700,"Grade AI-written tests with fast, git-diff-aware mutation testing, and hand coding agents precise briefs for the tests they are missing (CLI, pytest plugin, MCP server)."
+2026-10-08T07:27:48Z,routefm-router,1.1.0,"Guannan Lai, Han-Jia Ye",Apache-2.0,184653,Pretrained in-context model routing with Qwen and BGE encoders
+2026-10-08T07:29:14Z,mammoth-mcp-server,0.1.0,Mammoth Analytics <support@mammoth.io>,LicenseRef-Proprietary,154227,"MCP server for Mammoth Analytics: an AI client explores, transforms and exports data as the signed-in user"
+2026-10-08T07:29:16Z,kinenix-hub,0.2.0b1,arttopix,MIT,71610,"Kinenix Hub: central server that receives worker heartbeats and execution logs, with a web dashboard and AI failure summaries"
+2026-10-08T07:29:16Z,kinenix-worker,0.2.0b1,arttopix,MIT,46653,"Kinenix Worker: runs Kinenix flows unattended on schedules, cron, or file triggers, and reports to the Kinenix Hub"
+2026-10-08T07:31:04Z,dungeoncoder,0.2.0,,MIT,173147,"Python API for Dungeon Coder: steer the hero from a script, in VS Code or in the built-in simulator"
+2026-10-08T07:32:33Z,aer1-all,0.1.1,Brennan Zambo,,8555,"One install for every AER-1 framework collector: verifiable AI agent execution receipts, auto-detected."
+2026-10-08T07:33:07Z,underwrite-core,0.0.1,,Apache-2.0,45830,Dependency-free canonical evidence and integrity primitives
+2026-10-08T07:36:51Z,nnsay-qweather-mcp,1.0.0,,MIT,86853,"QWeather MCP server: stdio / streamable-http dual transport, JWT auth, 21 tools"
+2026-10-08T07:38:01Z,bugzilla-mcp,0.6.0,,Apache-2.0,63458,"MCP server for Bugzilla: search, read, triage and update bugs from AI assistants. Read-only by default."
+2026-10-08T07:38:11Z,speechwarp,0.3.0,,Apache-2.0,7901094,Nonlinear speed-up for speech: listen faster and still follow it
+2026-10-08T07:38:20Z,yt-notes-ui,0.2.1,,MIT,179882154,Bundled OpenTUI terminal workspace for yt-notes
+2026-10-08T07:39:05Z,yt-notes,0.2.1,,MIT,198046,YouTube transcripts and evidence-linked research notes for people and AI tools
+2026-10-08T07:40:24Z,speckle-bundle-spec,1.4.1,Speckle Systems <devops@speckle.systems>,Apache-2.0,14890,"Speckle bundle format vocabulary: generated Rel/NodeKind enums, catalog rows, table schemas and column indices. SCHEMA_VERSION is the package version."
+2026-10-08T07:42:22Z,lairnet,0.1.0,Rahul Goswami <rahul.goswami.131997@gmail.com>,MIT,94791,Fast leaky alignment-impulse randomized networks for tabular learning
+2026-10-08T07:44:31Z,smart-folder-organizer,0.1.0,Bertrand <mucyobertrand07@gmail.com>,MIT,8157,A smart Python package for automatically organizing files into categorized folders
+2026-10-08T07:45:05Z,oppaypay,0.1.0,oppaypay contributors,MIT,23235,Unofficial PayPay mobile API client library for Python
+2026-10-08T07:46:29Z,featm,0.5.7,featm contributors,MIT,775736,"One searchable API for explicit, named feature extraction across data modalities."
+2026-10-08T07:48:09Z,stretch-tscd,0.1.0,"Lénaïg Cornanguer, David Kaltenpoth, Jilles Vreeken",BSD-3-Clause,96006,Causal discovery under source-time-varying causal delays
+2026-10-08T07:49:36Z,project-doctor-paola,0.1.0,Paola,MIT,26684,"A CLI tool that diagnoses Python project health: missing files, bad configs, no tests, and more."
+2026-10-08T07:54:11Z,dora-openarm-selector,0.1.0,"Enactic, Inc.",Apache-2.0,12226,dora-rs node that forwards messages only from the highest-priority enabled source
+2026-10-08T07:58:53Z,uni-calendar-coloring,1.0.1,Davide Bertoni,"MIT License Copyright (c) 2026 Davide Bertoni Permission is hereby granted, free of charge, to any…",226662,Sync a read-only university calendar into a color-coded Google Calendar.
+2026-10-08T07:59:47Z,veriself,0.1.0,jiayezi,Apache-2.0,507044,A typed metric execution layer for AI agents. The LLM cannot write SQL.
+2026-10-08T08:00:37Z,github-mcp-readonly,1.2.0,Abdul Muhaimin Khan,MIT,35690,"Read-only MCP server that lets an AI assistant answer questions about your GitHub repos, issues, pull requests and commits."
+2026-10-08T08:00:42Z,shopee-dino-sdk,0.0.0,sc,BSD License,2404,A small example package
+2026-10-08T08:03:35Z,joule-profiler,0.0.1,,MIT,41064375,Python bindings for Joule Profiler
+2026-10-08T08:04:56Z,finrest,0.1.1,Riddhiman,MIT,8594,Python client SDK for the FinREST financial policy & SLM triage engine
+2026-10-08T08:11:59Z,unee,0.3.0,Muneef Mumthas,Apache-2.0,111275,"Unee by UNEEVERSE: a small open AI model that makes decisions and streams chat answers from your own knowledge, on any PC (Jev-compatible API)"
+2026-10-08T08:12:34Z,sma-net2,0.1.0,sma-net2-bluetooth contributors,GPL-3.0-or-later,64825,Async SMA-Net2 Bluetooth Classic inverter protocol client
+2026-10-08T08:13:27Z,evbox-ble,0.1.0,Christopher Reimer,Apache-2.0,44933,Asynchronous local BLE communication with EVBox Gen4 chargers
+2026-10-08T08:17:37Z,kairo-sdk,0.1.0,,MIT,3227423,"SDK for the kairo workflow runtime: workflows written as code, run by the runtime embedded here (a WASM core and a database) or by kairod; the worker protocol; graphon (Dify) nodes as kairo tasks."
+2026-10-08T08:19:19Z,inferyard,0.0.1,,MIT,1113774,Cross-platform local AI benchmarking CLI
+2026-10-08T08:19:22Z,wyle,0.0.1,,,1505,Placeholder. This name is used internally; do not install from PyPI.
+2026-10-08T08:19:51Z,streamwright,0.0.1,Karthick Jaganathan,Apache-2.0,12108,"Declarative data connectors — pull from APIs, files and databases with YAML, shape with SQL, write anywhere."

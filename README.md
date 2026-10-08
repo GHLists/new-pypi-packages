@@ -8,47 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 07:21 UTC
+## Latest list — 2026-10-08 08:20 UTC
 
-New packages created between 2026-10-08 06:20 UTC and 2026-10-08 07:21 UTC.
+New packages created between 2026-10-08 07:21 UTC and 2026-10-08 08:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-08T07-21-14-189156Z.csv)
+[Full CSV](data/new-packages-2026-10-08T08-20-16-197815Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-08 06:23:25 | [protbed-ms-normalize](https://pypi.org/project/protbed-ms-normalize/) | 0.2.0 | "Anas Bedraoui, PhD" <contact… | 27.5 kB | A lightweight Python library and CLI to normalize mass spectrometry tabular exp… |
-| 2026-10-08 06:25:33 | [paac](https://pypi.org/project/paac/) | 0.1.0 | Mary Brinda John Wilson | 10.6 kB | Python for Accounts, Audit & Compliance: practical helpers for Indian CA workfl… |
-| 2026-10-08 06:28:19 | [humanizer-pro](https://pypi.org/project/humanizer-pro/) | 4.15.0 | Humanizer Pro contributors | 99.9 kB | Deterministic, zero-dependency audit for AI-writing tells, leaked chatbot artif… |
-| 2026-10-08 06:28:36 | [chp-safety-case](https://pypi.org/project/chp-safety-case/) | 0.1.0 | Project Auxo | 20.1 kB | Portable CHP Safety Case (.chpsafety) bundle format + offline verifier — verify… |
-| 2026-10-08 06:30:48 | [volcenginesdk-vmp](https://pypi.org/project/volcenginesdk-vmp/) | 0.0.1 | volc-engine | 974 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-vmp |
-| 2026-10-08 06:30:49 | [opentideconstants](https://pypi.org/project/opentideconstants/) | 0.0.0 | Jordan Ritter | 4.4 kB | Placeholder for the OpenTideConstants SDK |
-| 2026-10-08 06:30:55 | [volcenginesdk-vms](https://pypi.org/project/volcenginesdk-vms/) | 0.0.1 | volc-engine | 974 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-vms |
-| 2026-10-08 06:31:01 | [volcenginesdk-vod20250101](https://pypi.org/project/volcenginesdk-vod20250101/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-vod2… |
-| 2026-10-08 06:31:07 | [volcenginesdk-vod20260101](https://pypi.org/project/volcenginesdk-vod20260101/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-vod2… |
-| 2026-10-08 06:32:43 | [anime-tui](https://pypi.org/project/anime-tui/) | 0.2.0 | Panther | 20.1 kB | A terminal UI for streaming and downloading anime via ani-cli and AniList |
-| 2026-10-08 06:34:28 | [databuck-spark-sdk](https://pypi.org/project/databuck-spark-sdk/) | 0.5.1 | DataBuck | 42.4 kB | DataBuck data quality SDK for PySpark and Databricks |
-| 2026-10-08 06:38:46 | [geul](https://pypi.org/project/geul/) | 1.2.1 | wwoosshh | 154.7 kB | 글 — 한국어 문법(SOV·조사)으로 쓰는 자체호스팅 시스템 언어의 컴파일러 (Windows x64) |
-| 2026-10-08 06:39:18 | [linux-x11-harness](https://pypi.org/project/linux-x11-harness/) | 0.1.1 | linux-x11-harness contributors | 4.3 MB | Linux X11 GUI harness with MCP server and native automation driver |
-| 2026-10-08 06:49:48 | [sol-feed](https://pypi.org/project/sol-feed/) | 0.1.0 | Lunar Shadow Labs <support@lu… | 12.9 kB | Python client for the Lunar Shadow Labs feed: decoded Solana DEX swaps, launche… |
-| 2026-10-08 06:49:50 | [langchain-sra-riskgate](https://pypi.org/project/langchain-sra-riskgate/) | 0.1.0 | Sriram Ramakrishnan | 46.6 kB | LangChain middleware that checks an AI agent's stablecoin payments before they… |
-| 2026-10-08 06:50:41 | [pytest-mailpit](https://pypi.org/project/pytest-mailpit/) | 0.1.0a1 | Nikolay Chillev | 70.5 kB | pytest fixtures and a typed client for testing real emails with Mailpit — paral… |
-| 2026-10-08 06:51:09 | [chainlog-ai](https://pypi.org/project/chainlog-ai/) | 0.2.0 | ehsanhajian | 11.2 kB | Explain why blockchain infrastructure failed, from the logs you already have. |
-| 2026-10-08 06:52:34 | [cqlib-qaoa](https://pypi.org/project/cqlib-qaoa/) | 0.1.0b1 | China Telecom Quantum Group Q… | 145.4 kB | QAOA package based on Cqlib |
-| 2026-10-08 06:54:28 | [cqlib-guodun](https://pypi.org/project/cqlib-guodun/) | 0.1.0 | Cqlib Development Team | 111.6 kB | Python client for the Guodun quantum cloud platform |
-| 2026-10-08 06:54:45 | [tinyforge](https://pypi.org/project/tinyforge/) | 0.1.0 | tinyforge contributors | 328.7 kB | Local-first fine-tuning toolkit: hardware-aware planning, data checks, training… |
-| 2026-10-08 06:56:17 | [sharp-cv](https://pypi.org/project/sharp-cv/) | 0.1.0 | Tianchu Zeng | 69.6 kB | SHARP split-half cross-validation test for model comparison. |
-| 2026-10-08 06:56:41 | [anchorage-docker](https://pypi.org/project/anchorage-docker/) | 0.1.0 | Pavel Makhnychev <pmakhnychev… | 258.3 kB | Native Linux desktop client for Docker Engine |
-| 2026-10-08 06:58:56 | [ikat](https://pypi.org/project/ikat/) | 0.2.1 | opticsWolf | 22.2 MB | Weave Markdown into camera-ready LaTeX: md-to-tex/pdf pipeline with a Rust core… |
-| 2026-10-08 06:59:40 | [langchain-clm](https://pypi.org/project/langchain-clm/) | 0.1.0 |  | 19.7 kB | Route LangGraph graphs with a CLM (Contrastive Language Model): pick the next n… |
-| 2026-10-08 07:01:14 | [serialforge](https://pypi.org/project/serialforge/) | 0.0.1 |  | 280.8 kB | PySide6 serial communication toolkit for Windows |
-| 2026-10-08 07:02:25 | [crowdwards](https://pypi.org/project/crowdwards/) | 0.0.1 | Martin-Isbjoern Trappe <marti… | 3.9 kB | CrowdWARDS — a research toolkit (early-development placeholder release). |
-| 2026-10-08 07:02:44 | [odoo-addon-stock-vertical-lift-pick-priority](https://pypi.org/project/odoo-addon-stock-vertical-lift-pick-priority/) | 18.0.1.0.0.2 | Camptocamp, Odoo Community As… | 29.9 kB | Pick first the goods awaited by the most urgent deliveries |
-| 2026-10-08 07:05:27 | [pipeline-kit](https://pypi.org/project/pipeline-kit/) | 1.2.2 | Pipeline Kit maintainers | 901.9 kB | Portable workflow pack and installer for coding agents |
-| 2026-10-08 07:07:00 | [openriak](https://pypi.org/project/openriak/) | 0.1.1 | OpenRiak | 10.6 kB | OpenRiak HTTP client |
-| 2026-10-08 07:08:32 | [agdata](https://pypi.org/project/agdata/) | 0.1.1 |  | 8.0 kB | CLI for agdata.shveik.dev (one of the shveik.dev agent products; same code as a… |
-| 2026-10-08 07:08:44 | [agproxy](https://pypi.org/project/agproxy/) | 0.1.1 |  | 8.0 kB | CLI for agproxy.shveik.dev (one of the shveik.dev agent products; same code as… |
-| 2026-10-08 07:09:00 | [agvps](https://pypi.org/project/agvps/) | 0.1.1 |  | 8.0 kB | CLI for agvps.shveik.dev (one of the shveik.dev agent products; same code as ag… |
-| 2026-10-08 07:09:15 | [agmail](https://pypi.org/project/agmail/) | 0.1.1 |  | 8.0 kB | CLI for agmail.shveik.dev (one of the shveik.dev agent products; same code as a… |
-| 2026-10-08 07:12:10 | [wecomarchive](https://pypi.org/project/wecomarchive/) | 0.1.0 |  | 693.5 kB | 企业微信会话存档、事务游标与异步规则消费框架 |
-| 2026-10-08 07:16:11 | [PyAutoPlugin](https://pypi.org/project/PyAutoPlugin/) | 0.1.0 | Qr1mln <593747881@qq.com> | 33.9 kB | Windows平台，窗口绑定、图色、Ocr、工具集 |
-| 2026-10-08 07:19:21 | [dora-openarm-ker](https://pypi.org/project/dora-openarm-ker/) | 0.1.0 | Enactic, Inc. | 8.4 kB | dora-rs node for leader OpenArm KER |
+| 2026-10-08 07:22:51 | [raftward](https://pypi.org/project/raftward/) | 0.1.1 |  | 88.1 kB | Offline, guarded integrity checks for closed SQLite databases and backups |
+| 2026-10-08 07:26:50 | [freebind-py](https://pypi.org/project/freebind-py/) | 0.2.0 |  | 106.4 kB | Linux Freebind source policies for Python sockets and HTTP clients |
+| 2026-10-08 07:26:53 | [syntheka](https://pypi.org/project/syntheka/) | 0.0.1 | Syntheka | 1.8 kB | Syntheka brand namespace placeholder (reserved). Do not depend on this package. |
+| 2026-10-08 07:27:20 | [testteeth](https://pypi.org/project/testteeth/) | 0.1.0 | Fernando Garza | 91.7 kB | Grade AI-written tests with fast, git-diff-aware mutation testing, and hand cod… |
+| 2026-10-08 07:27:48 | [routefm-router](https://pypi.org/project/routefm-router/) | 1.1.0 | Guannan Lai, Han-Jia Ye | 184.7 kB | Pretrained in-context model routing with Qwen and BGE encoders |
+| 2026-10-08 07:29:14 | [mammoth-mcp-server](https://pypi.org/project/mammoth-mcp-server/) | 0.1.0 | Mammoth Analytics <support@ma… | 154.2 kB | MCP server for Mammoth Analytics: an AI client explores, transforms and exports… |
+| 2026-10-08 07:29:16 | [kinenix-hub](https://pypi.org/project/kinenix-hub/) | 0.2.0b1 | arttopix | 71.6 kB | Kinenix Hub: central server that receives worker heartbeats and execution logs,… |
+| 2026-10-08 07:29:16 | [kinenix-worker](https://pypi.org/project/kinenix-worker/) | 0.2.0b1 | arttopix | 46.7 kB | Kinenix Worker: runs Kinenix flows unattended on schedules, cron, or file trigg… |
+| 2026-10-08 07:31:04 | [dungeoncoder](https://pypi.org/project/dungeoncoder/) | 0.2.0 |  | 173.1 kB | Python API for Dungeon Coder: steer the hero from a script, in VS Code or in th… |
+| 2026-10-08 07:32:33 | [aer1-all](https://pypi.org/project/aer1-all/) | 0.1.1 | Brennan Zambo | 8.6 kB | One install for every AER-1 framework collector: verifiable AI agent execution… |
+| 2026-10-08 07:33:07 | [underwrite-core](https://pypi.org/project/underwrite-core/) | 0.0.1 |  | 45.8 kB | Dependency-free canonical evidence and integrity primitives |
+| 2026-10-08 07:36:51 | [nnsay-qweather-mcp](https://pypi.org/project/nnsay-qweather-mcp/) | 1.0.0 |  | 86.9 kB | QWeather MCP server: stdio / streamable-http dual transport, JWT auth, 21 tools |
+| 2026-10-08 07:38:01 | [bugzilla-mcp](https://pypi.org/project/bugzilla-mcp/) | 0.6.0 |  | 63.5 kB | MCP server for Bugzilla: search, read, triage and update bugs from AI assistant… |
+| 2026-10-08 07:38:11 | [speechwarp](https://pypi.org/project/speechwarp/) | 0.3.0 |  | 7.9 MB | Nonlinear speed-up for speech: listen faster and still follow it |
+| 2026-10-08 07:38:20 | [yt-notes-ui](https://pypi.org/project/yt-notes-ui/) | 0.2.1 |  | 179.9 MB | Bundled OpenTUI terminal workspace for yt-notes |
+| 2026-10-08 07:39:05 | [yt-notes](https://pypi.org/project/yt-notes/) | 0.2.1 |  | 198.0 kB | YouTube transcripts and evidence-linked research notes for people and AI tools |
+| 2026-10-08 07:40:24 | [speckle-bundle-spec](https://pypi.org/project/speckle-bundle-spec/) | 1.4.1 | Speckle Systems <devops@speck… | 14.9 kB | Speckle bundle format vocabulary: generated Rel/NodeKind enums, catalog rows, t… |
+| 2026-10-08 07:42:22 | [lairnet](https://pypi.org/project/lairnet/) | 0.1.0 | Rahul Goswami <rahul.goswami.… | 94.8 kB | Fast leaky alignment-impulse randomized networks for tabular learning |
+| 2026-10-08 07:44:31 | [smart-folder-organizer](https://pypi.org/project/smart-folder-organizer/) | 0.1.0 | Bertrand <mucyobertrand07@gma… | 8.2 kB | A smart Python package for automatically organizing files into categorized fold… |
+| 2026-10-08 07:45:05 | [oppaypay](https://pypi.org/project/oppaypay/) | 0.1.0 | oppaypay contributors | 23.2 kB | Unofficial PayPay mobile API client library for Python |
+| 2026-10-08 07:46:29 | [featm](https://pypi.org/project/featm/) | 0.5.7 | featm contributors | 775.7 kB | One searchable API for explicit, named feature extraction across data modalitie… |
+| 2026-10-08 07:48:09 | [stretch-tscd](https://pypi.org/project/stretch-tscd/) | 0.1.0 | Lénaïg Cornanguer, David Kalt… | 96.0 kB | Causal discovery under source-time-varying causal delays |
+| 2026-10-08 07:49:36 | [project-doctor-paola](https://pypi.org/project/project-doctor-paola/) | 0.1.0 | Paola | 26.7 kB | A CLI tool that diagnoses Python project health: missing files, bad configs, no… |
+| 2026-10-08 07:54:11 | [dora-openarm-selector](https://pypi.org/project/dora-openarm-selector/) | 0.1.0 | Enactic, Inc. | 12.2 kB | dora-rs node that forwards messages only from the highest-priority enabled sour… |
+| 2026-10-08 07:58:53 | [uni-calendar-coloring](https://pypi.org/project/uni-calendar-coloring/) | 1.0.1 | Davide Bertoni | 226.7 kB | Sync a read-only university calendar into a color-coded Google Calendar. |
+| 2026-10-08 07:59:47 | [veriself](https://pypi.org/project/veriself/) | 0.1.0 | jiayezi | 507.0 kB | A typed metric execution layer for AI agents. The LLM cannot write SQL. |
+| 2026-10-08 08:00:37 | [github-mcp-readonly](https://pypi.org/project/github-mcp-readonly/) | 1.2.0 | Abdul Muhaimin Khan | 35.7 kB | Read-only MCP server that lets an AI assistant answer questions about your GitH… |
+| 2026-10-08 08:00:42 | [shopee-dino-sdk](https://pypi.org/project/shopee-dino-sdk/) | 0.0.0 | sc | 2.4 kB | A small example package |
+| 2026-10-08 08:03:35 | [joule-profiler](https://pypi.org/project/joule-profiler/) | 0.0.1 |  | 41.1 MB | Python bindings for Joule Profiler |
+| 2026-10-08 08:04:56 | [finrest](https://pypi.org/project/finrest/) | 0.1.1 | Riddhiman | 8.6 kB | Python client SDK for the FinREST financial policy & SLM triage engine |
+| 2026-10-08 08:11:59 | [unee](https://pypi.org/project/unee/) | 0.3.0 | Muneef Mumthas | 111.3 kB | Unee by UNEEVERSE: a small open AI model that makes decisions and streams chat… |
+| 2026-10-08 08:12:34 | [sma-net2](https://pypi.org/project/sma-net2/) | 0.1.0 | sma-net2-bluetooth contributo… | 64.8 kB | Async SMA-Net2 Bluetooth Classic inverter protocol client |
+| 2026-10-08 08:13:27 | [evbox-ble](https://pypi.org/project/evbox-ble/) | 0.1.0 | Christopher Reimer | 44.9 kB | Asynchronous local BLE communication with EVBox Gen4 chargers |
+| 2026-10-08 08:17:37 | [kairo-sdk](https://pypi.org/project/kairo-sdk/) | 0.1.0 |  | 3.2 MB | SDK for the kairo workflow runtime: workflows written as code, run by the runti… |
+| 2026-10-08 08:19:19 | [inferyard](https://pypi.org/project/inferyard/) | 0.0.1 |  | 1.1 MB | Cross-platform local AI benchmarking CLI |
+| 2026-10-08 08:19:22 | [wyle](https://pypi.org/project/wyle/) | 0.0.1 |  | 1.5 kB | Placeholder. This name is used internally; do not install from PyPI. |
+| 2026-10-08 08:19:51 | [streamwright](https://pypi.org/project/streamwright/) | 0.0.1 | Karthick Jaganathan | 12.1 kB | Declarative data connectors — pull from APIs, files and databases with YAML, sh… |
