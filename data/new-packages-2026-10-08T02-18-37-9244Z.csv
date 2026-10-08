@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T01:21:58Z,reprova,0.0.1,Hyunoh Yeo,Apache-2.0,1759,"Re-run what a coding agent claims it did, and prove whether it holds."
+2026-10-08T01:23:10Z,primer-finder,1.0.0,Marc-Olivier Duceppe,MIT,76535,Find group-specific kmers to design selective qPCR assays.
+2026-10-08T01:30:50Z,thabit-translator,0.0.2.1,mbnoimi <mbnoimi@gmail.com>,LGPL-3.0-only,142087,"CPU-only subtitle automation: download, extract, translate and transcribe subtitles"
+2026-10-08T01:34:02Z,rastermoves,0.3.1,Kieran Simkin,GPL-3.0-only,255845,"Modular AI image upscaling and optional generative refinement for DanceFlow, with on-demand model downloads"
+2026-10-08T01:38:03Z,windows-monitor,3.0.0,Windows Monitor <monitor@example.com>,MIT,135216,Comprehensive real-time Windows system monitoring with rolling log display
+2026-10-08T01:41:34Z,geostats-datasets,0.1.0,Gustavo Pretto Scholze,MIT,10024,Download mining and oil & gas geostatistics datasets by name.
+2026-10-08T01:42:32Z,laghu,0.1.1,Karthik <karthik.rajgopal@hotmail.com>,MIT,41611,"model2vec static models in a fraction of the memory, with the same vectors"
+2026-10-08T01:43:17Z,ai-models-fuxi-s2s,1.0.1,European Centre for Medium-Range Weather Forecasts (ECMWF),Apache License Version 2.0,18545,An ai-models plugin to run Fudan's FuXi-S2S model
+2026-10-08T01:47:31Z,api-cost-tracker,0.2.0,,,12734,Lightweight client for the Synth Insight Labs API cost tracker
+2026-10-08T01:50:58Z,voidcraft-world-bridge,0.1.0,VoidCraft,MIT,70903,A loopback server that lets voidcraft.world reach your machine — starting with your own local LLM
+2026-10-08T01:58:31Z,mlx-reason-ct,0.1.0,Joseph Sandoval,Apache-2.0,101839,Native MLX port of NVIDIA NV-Reason-CT for 3D CT reasoning on Apple Silicon
+2026-10-08T02:00:25Z,lockermcp,0.1.1,HexHillbilly,AGPL-3.0-or-later,97350,"lockermcp (MCP server) + lockerd (daemon): tamper-evident, append-only agent-to-agent task handoff"
+2026-10-08T02:02:27Z,korean-report-hwpx,0.1.0,Upstage,MIT,456754,Korean government documents MCP server — turns a draft into a ministry-format report (개조식 보고서) or press release (보도자료) as HWPX (Hangul). 공무원 공문서 HWPX 생성 MCP
+2026-10-08T02:04:42Z,store-gateway-py,0.1.1,,MIT,12863,Optional combiner for the three py-store API skins (REST store-api-py / GraphQL store-graphql-py / gRPC store-grpc-py): config-driven per-skin enable switches
+2026-10-08T02:05:25Z,dtgeosom,1.0.0,Michael Bui,AGPL-3.0-or-later,96303,Path finding on a spherical Self-Organising Map (GeoSOM) with the distance transform and floodplain analysis.
+2026-10-08T02:05:33Z,ddi-l,0.1.0,Philippe Bisson,MIT,4110675,"Python toolkit for DDI Lifecycle XML: read, author, validate and lint DDI 3.1, 3.2 and 3.3"
+2026-10-08T02:08:36Z,ascent-science-bfgs,0.1.0,Ascent Science,LicenseRef-Proprietary,2430,Ascent Science SDK plugin for BFGS
+2026-10-08T02:09:07Z,ascent-science-branchandbound,0.1.0,Ascent Science,LicenseRef-Proprietary,2586,Ascent Science SDK plugin for BranchAndBound
+2026-10-08T02:09:10Z,ascent-science-cma-es,0.1.0,Ascent Science,LicenseRef-Proprietary,2470,Ascent Science SDK plugin for CMA-ES
+2026-10-08T02:09:12Z,ascent-science-communitydetection,0.1.0,Ascent Science,LicenseRef-Proprietary,2647,Ascent Science SDK plugin for CommunityDetection
+2026-10-08T02:13:09Z,retryhop,0.1.0,Liang Yan <26383278+liayan@users.noreply.github.com>,MIT,36698,"Retries, rate limiting and circuit breaking for LLM and HTTP API calls (OpenAI, Anthropic, httpx, requests)."
+2026-10-08T02:17:41Z,Pythoner,0.1.0,Cade,,3954,A custom python REPL
