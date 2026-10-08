@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-10-08T21:19:34.486381Z",
-    "path": "data/new-packages-2026-10-08T22-19-33-96041Z.csv",
-    "to": "2026-10-08T22:19:33.96041Z"
+    "count": 31,
+    "from": "2026-10-08T22:19:33.96041Z",
+    "path": "data/new-packages-2026-10-08T23-19-22-297115Z.csv",
+    "to": "2026-10-08T23:19:22.297115Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-08T20:55:05Z",
       "package": "django-postgres-denormalize",
       "since": "2026-10-08T20:19:07.03033Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-08T21:48:17Z",
       "package": "leylihne-code",
       "since": "2026-10-08T21:19:34.486381Z"
     }
   ],
-  "serial": 41992071,
+  "serial": 41995530,
   "source_truncated": false,
-  "window": "2026-10-08T22:19:33.96041Z"
+  "window": "2026-10-08T23:19:22.297115Z"
 }

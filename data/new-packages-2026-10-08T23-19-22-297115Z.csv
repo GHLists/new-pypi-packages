@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T22:21:50Z,morflow,0.2.5,,,60787019,High-performance modular dataflow pipeline engine for media and tensor computing
+2026-10-08T22:23:02Z,poolster,0.5.0a1,Relevate,MIT,62448679,Native Poolster OpenAPI SDK generator for Python environments
+2026-10-08T22:24:01Z,conduitio,0.0.0,ConduitIO,Apache-2.0,2550,"Name reserved for the ConduitIO Python SDK (connectors, processors, client). Not usable yet; see conduit-connector-sdk."
+2026-10-08T22:25:22Z,bettertrees,0.1.0,Rafael do Prado Silva,BSD-3-Clause,624087,"Interleaved Tree Models: small, readable sums of trees for binary classification under a budget of cuts"
+2026-10-08T22:27:12Z,floorvault,0.1.0,Scott Lee <floorbond@pm.me>,MIT OR Apache-2.0,688578,"Contextual, misuse-resistant, searchable database encryption for SQLite and beyond — zero C compilation."
+2026-10-08T22:29:11Z,zammad-python-client,0.1.1,Stefan Schulte-Ortbeck <info@codefighters.de>,MIT,76042,A typed Python client for the Zammad REST API
+2026-10-08T22:29:59Z,hiapp,0.0.1,Dixan Pupo Morales <triplex3x.cyver@gmail.com>,Apache-2.0,82475,Aplicación de inteligencia para seguridad del hogar. Con asistente de voz.
+2026-10-08T22:33:19Z,raptor-core,0.2.0,Alessandro Masat,Apache-2.0,104350,"raptor — the protocol spine of the family: schema, typing.Protocols, golden conformance suite"
+2026-10-08T22:35:55Z,cytearc,1.0.0rc1,Parashar Dhapola <parashar.dhapola@gmail.com>,BSD-3-Clause,3653041,"Out-of-core, graph-first workflows for million-cell RNA-seq and CITE-seq"
+2026-10-08T22:39:24Z,ttyplayer,0.3.1,,MIT,59191,"ttyplayer: a modern YouTube player for the terminal — search, queue, and play audio or video via mpv"
+2026-10-08T22:40:16Z,furox-scientific-toolkit-mcp,0.2.0,Furox-Art,Apache-2.0,55426,Provider-neutral local and remote MCP hub for seven Furox-Art public research tools
+2026-10-08T22:41:27Z,zammad-mcp,0.1.1,Stefan Schulte-Ortbeck <info@codefighters.de>,MIT,36199,An MCP server exposing a Zammad helpdesk to a model
+2026-10-08T22:42:21Z,aether-dsc,0.2.0,Alessandro Masat,Apache-2.0,316873,"aether-dsc — the sealed AETHER header payload: opaque, digest-named, no readable source in the wheel"
+2026-10-08T22:45:01Z,statelock-ai,0.1.0rc1,InferLink Corporation,Apache-2.0,695391,"Guardrails and audit evidence for AI browser agents: a CDP proxy checks every action against the page's state before and after it happens. Works with Playwright, browser-use, Stagehand and LangChain."
+2026-10-08T22:47:36Z,hinode,0.1.0,"""Roy T. Smart"" <roytsmart@gmail.com>",BSD-3-Clause,56103,A Python library to download and analyze observations from the Hinode satellite.
+2026-10-08T22:49:39Z,spingalett,0.12.0,,MIT,6131530,"Neural networks in C23 from Python: training, graphs, ONNX and PyTorch import, INT8 to INT2 deployment"
+2026-10-08T22:52:14Z,agentprof,0.1.0,epicodic,MIT,707098,"Analyse AI coding agent sessions: call trees, timings, tokens, cost and waste."
+2026-10-08T22:54:44Z,obsidian-blade-mcp,1.1.0,Piers,MIT,203566,"MCP server for Obsidian vaults: Obsidian CLI when the app runs, direct file access when it does not"
+2026-10-08T22:56:42Z,cernion-forecast-cli,0.2.0,STROMDAO / Cernion,MIT,129447,Value-added CLI integration layer for Cernion Energy Tools forecast capabilities
+2026-10-08T23:02:00Z,raptor-eagle,0.4.0,,Apache-2.0,7568701,EAGLE — the Python face of the launch engine for compiled CUDA kernels
+2026-10-08T23:03:13Z,vectros-sdk,2.0.0,The Vectros authors,MIT,61842,Build AI agents that run on the AIOS kernel (Vectros OS)
+2026-10-08T23:04:05Z,litert-quantizer-nightly,0.10.0.dev20261008,,Apache-2.0,749445,A quantizer for advanced developers to quantize converted AI Edge models.
+2026-10-08T23:04:52Z,aworg,1.0.0,Kevin Nading <kevinnading@gmail.com>,LicenseRef-AWORG,796163,Autonomous Workspace Organism - a persistent AI Resident for your machine
+2026-10-08T23:05:33Z,raptor-hawk,0.3.0,,Apache-2.0,3332913,HAWK — Hardware Agnostic Writing of Kernels: a Python DSL that writes GPU/CPU kernels and deploys them through eagle
+2026-10-08T23:07:24Z,midwater,0.1.0,Midwater <hello@midwater.ai>,MIT,69822,"Python SDK for the Midwater API: send AI-agent conversations, read check results and agent health, verify webhooks."
+2026-10-08T23:07:33Z,mpxnk-test-lib,0.0.2,meowthpxnk,MIT,3373,Test library for mpxnk
+2026-10-08T23:09:00Z,harpe,0.1.0a1,Perseus Computing LLC <tcconnally@gmail.com>,MIT,3988,Deterministic context synthesis and token budgeting for cognitive AI agents.
+2026-10-08T23:09:02Z,kibisis,0.1.0a1,Perseus Computing LLC <tcconnally@gmail.com>,MIT,4019,Local-first encrypted cognitive memory vault with atomic concurrency leases.
+2026-10-08T23:09:04Z,argus-ledger,0.1.0a1,Perseus Computing LLC <tcconnally@gmail.com>,MIT,4107,Tamper-evident append-only SHA-256 provenance and audit ledger for autonomous agents.
+2026-10-08T23:13:25Z,fusionspace-hpr,0.1.0,,(MIT OR Apache-2.0) AND Apache-2.0,10537881,A flight simulator for hobby and high-power rockets.
+2026-10-08T23:18:07Z,amazon-data-scraper,1.0.0,Chaldia Labs,,3536,"High-performance Amazon product, BuyBox, and pricing scraper API client. Bypasses 503 bot protections and CAPTCHAs."
