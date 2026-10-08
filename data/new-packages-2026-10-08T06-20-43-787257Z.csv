@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T05:27:59Z,thea-software,3.53.0,,,20748,"Contract harness for Thea, the engineering layer for AI. The atlas is polyglot; only this harness is Python."
+2026-10-08T05:29:49Z,nersc-tokens,0.1.1,,,29741,Globus access tokens for the NERSC IRI API
+2026-10-08T05:30:13Z,andrey-core,0.1.0,,Apache-2.0,625197,"Andrey, a very fast causal discovery package"
+2026-10-08T05:33:53Z,visionabr,0.0.1,Anagha Langhe,MIT,6519,Load-aware image resolution gateway for vLLM vision-language model serving (early development)
+2026-10-08T05:35:41Z,temporalint,0.1.0,Denis Lusson,MIT,34692,Static checks for Temporal Python SDK usage.
+2026-10-08T05:39:30Z,agentic-hive,0.1.0,,MIT,37651,"Python client for The Hive: Ed25519 keys, RFC 9421 request signing and the REST API."
+2026-10-08T05:39:52Z,jaddle,0.1.0,Brendan van Rooyen,MIT,175852,"First-order primal-dual solvers for large-scale linear and convex programs, written in JAX"
+2026-10-08T05:42:22Z,ohkit,0.1.0rc1,Converge AI Labs,Apache-2.0,12108,A unified Python API for coding agents.
+2026-10-08T05:45:29Z,option-risk-explain,0.2.0,Garros Gong,MIT,106092,Option Risk Explain: equity-option P&L attribution and exception review
+2026-10-08T05:46:57Z,harm-actions-eval,0.0.0,Praneeth Vadlapati,MIT,2886,A new package under development
+2026-10-08T05:47:15Z,audioplane,1.0.0rc1,AudioPlane contributors,"GNU GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1989, 1991 Free Software Foundation,…",225414,Source-aware bidirectional audio I/O SDK for macOS
+2026-10-08T05:49:20Z,file-sorter-cli,0.1.0,,MIT,31290,Safely organize messy directories into categorized folders by file type.
+2026-10-08T05:56:16Z,BranchManager,0.1.0,Nicholas Dimonaco <nicholas@dimonaco.co.uk>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",810530,"BranchManager: Answers the critical question — Has this microbial lineage already been isolated and characterised, or is it sufficiently novel and underrepresented to justify whole-genome sequencing…"
+2026-10-08T05:58:42Z,waystone-browser,0.2.0,Arman Luthra,"MIT License Copyright (c) 2026 Arman Luthra Permission is hereby granted, free of charge, to any pe…",443575,"Record a workflow once, mark the page for agents, replay anywhere. Stealth browser automation on top of Fortress."
+2026-10-08T05:59:26Z,bench2agent,0.3.0,,Apache-2.0,192031,"Ask which benchmarks researchers use, how usage changes, and which new benchmarks are adopted"
+2026-10-08T06:00:10Z,devin-search,0.1.0,Icaro0310,MIT,47217,"Full-text search across all Devin sessions — find that command, that error, that decision."
+2026-10-08T06:01:06Z,legal-rag-verifier,0.1.0,Abdullah Memon <abdullah@memonsystems.com>,AGPL-3.0-only,249594,"Sentence-level claim and NLI verification with KV-cache rollback during generation, for legal RAG"
+2026-10-08T06:02:24Z,venvfinder,0.1.0,Chad Saltikov <saltikov@ucsc.edu>,BSD-3-Clause,32511,"Find and inspect Python virtual environments (uv, venv, virtualenv, conda) on disk — GUI and CLI"
+2026-10-08T06:09:27Z,pysteam-sdk,0.1.0a0,pysteam contributors,MIT,444143,"Async Python SDK for Steam authentication, content preservation, and Web API"
+2026-10-08T06:11:07Z,blochsim-cuda12,0.0.10,,MIT,61675211,"blochsim's GPU kernels compiled with CUDA 12, for blochsim[cu12]"
+2026-10-08T06:11:09Z,blochsim-cuda13,0.0.10,,MIT,48818477,"blochsim's GPU kernels compiled with CUDA 13, for blochsim[cu13]"
+2026-10-08T06:12:03Z,simp-file-builder,0.1.0,Bruno <b103590bruno@gmail.com>,MIT,21877,Generate Software Ideas Modeler (.simp) project files from Python
+2026-10-08T06:13:23Z,codex-rag-system,0.1.0,RAG System contributors,MIT,607159,"Local-first RAG, MCP, HTTP, and Obsidian workflow system"
+2026-10-08T06:13:49Z,xgen-ontology-build,0.15.0,jinsoo96 <wlstn010203@gmail.com>,js-ontology-build Source-Available License =========================================== Copyright (c…,3240038,"The ontology build: documents and tables -> a clean knowledge graph with provenance, laid out by stage (extract, post-build, store, exchange). Zero infra, any graph DB; search is xgen-omnifuse's."
+2026-10-08T06:13:53Z,sentinelseo,1.0.0,Ilias Sami <me@iliassami.com>,MIT,3098721,"Scrawly: free, open-source technical SEO and GEO crawler and site audit tool (a free alternative to paid desktop SEO crawlers), with safe, reversible WordPress fixes."
+2026-10-08T06:14:41Z,selekyt,0.3.1,,LicenseRef-SeleKyT-NonCommercial-Source-Available,4457832,Local-first long-form to publishable social video editorial engine
+2026-10-08T06:16:48Z,sidha,0.1.0,Rakesh Pai <pairakesh10@gmail.com>,,77890,Sensor-to-Insight Data for Hidradenitis Suppurativa Architecture — open reference implementation
+2026-10-08T06:18:43Z,gufomind,1.0.0,Chalpanov <chalpanovrich1@yandex.ru>,LicenseRef-Proprietary,509240,"Personal RAG over your AI chat history — import, categorize, search, and query your conversations in your own voice."
+2026-10-08T06:19:06Z,cqlib-vqe,0.1.0b1,Cqlib VQE Contributors,Apache-2.0,170893,Adaptive canonical singlet-UCCSD and active-space VQE for cqlib 2.x
+2026-10-08T06:19:52Z,ezos,2.0.0,Bytovex,"MIT License Copyright (c) 2026 Bytovex Permission is hereby granted, free of charge, to any person…",55714,Easy OS — control your Windows PC with one-line Python. Build your own Jarvis.

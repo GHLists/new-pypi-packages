@@ -8,48 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 05:21 UTC
+## Latest list — 2026-10-08 06:20 UTC
 
-New packages created between 2026-10-08 04:19 UTC and 2026-10-08 05:21 UTC.
+New packages created between 2026-10-08 05:21 UTC and 2026-10-08 06:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-08T05-21-14-965694Z.csv)
+[Full CSV](data/new-packages-2026-10-08T06-20-43-787257Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-08 03:42:00 | [gl-observability-masking-binary](https://pypi.org/project/gl-observability-masking-binary/) | 0.0.0b2 | GDP Labs | 1.7 MB | Shared standard-library-only regex masking primitives |
-| 2026-10-08 04:21:20 | [webvigil](https://pypi.org/project/webvigil/) | 1.0.0 | Ryan Morais | 714.6 kB | A web application vulnerability scanner for developers — safe by default, CI-fr… |
-| 2026-10-08 04:22:37 | [gsh-framework](https://pypi.org/project/gsh-framework/) | 1.9.0 | Sunil Gentyala <sunil.gentyal… | 172.5 kB | Governed Security Hunting (GSH) Framework - autonomous agentic AI threat huntin… |
-| 2026-10-08 04:22:42 | [aegis-integrity](https://pypi.org/project/aegis-integrity/) | 3.2.0 | Sunil Gentyala | 395.9 kB | Open-source, offline, bias-aware academic integrity checker: plagiarism, AI con… |
-| 2026-10-08 04:28:51 | [mcptoolshop-rnd](https://pypi.org/project/mcptoolshop-rnd/) | 1.1.3.0.0 | mcp-tool-shop <64996768+mcp-t… | 68.4 kB | The studio's research bench: a Markdown research library with a rebuildable SQL… |
-| 2026-10-08 04:31:04 | [graph-mind-memory](https://pypi.org/project/graph-mind-memory/) | 0.1.5 | Yohan Ko <goyohan0611@gmail.c… | 209.5 kB | Local-first memory for AI coding assistants: verbatim, on your own PC, no LLM c… |
-| 2026-10-08 04:32:39 | [nail-parquet](https://pypi.org/project/nail-parquet/) | 1.9.0 | Johan HG Natter | 102.5 MB | Lightning-fast CLI for data analysis: explore, filter, transform Parquet/CSV/Ex… |
-| 2026-10-08 04:33:35 | [rotobot-nuke](https://pypi.org/project/rotobot-nuke/) | 0.3.0 | Sam Hodge <sam.hodge@tokgan.c… | 121.4 kB | Import Rotobot-Next lozenge_bezier_anim JSON into The Foundry's Nuke as a Roto… |
-| 2026-10-08 04:34:54 | [frame-ingest](https://pypi.org/project/frame-ingest/) | 0.1.0 | lavondev | 580.0 kB | Turn a video (file or URL) into a structured, citable Markdown document. An Age… |
-| 2026-10-08 04:35:41 | [scenezoo](https://pypi.org/project/scenezoo/) | 0.1.0 | Yiming Zhang | 346.3 kB | Read 3D indoor-scene datasets (ScanNet, ScanNet++, ARKitScenes, Matterport3D, .… |
-| 2026-10-08 04:37:35 | [ncm-api-py](https://pypi.org/project/ncm-api-py/) | 0.1.0 | hyouryo | 18.1 MB | 网易云音乐 API 的 Python 绑定，基于 PyO3 封装 ncm-api-rs |
-| 2026-10-08 04:38:12 | [odoo-addon-sustainability-spreadsheet-dashboard](https://pypi.org/project/odoo-addon-sustainability-spreadsheet-dashboard/) | 18.0.1.0.1.3 | =?utf-8?q?MCO2=2C_Open_Net_S=… | 27.5 kB | Sustainability Spreadsheet Dashboard |
-| 2026-10-08 04:40:17 | [django-api-usage](https://pypi.org/project/django-api-usage/) | 0.1.0 | CodeSyntax <teknika@codesynta… | 38.8 kB | Lightweight, privacy-first usage metering for Django APIs, with an optional dep… |
-| 2026-10-08 04:43:05 | [mudra-interact](https://pypi.org/project/mudra-interact/) | 0.2.0 | MAYAYAI | 98.3 kB | Apache-2.0 landmark protocol and conservative Mudra interaction recognizer |
-| 2026-10-08 04:44:31 | [cheesecave](https://pypi.org/project/cheesecave/) | 0.0.0.dev0 | Cheesecave contributors | 27.0 kB | Name reservation for CheeseCave, a self-hosted Hugging Face compatible reposito… |
-| 2026-10-08 04:44:36 | [cheesecave-backend](https://pypi.org/project/cheesecave-backend/) | 0.0.0.dev0 | Cheesecave contributors | 27.1 kB | Name reservation for CheeseCave, a self-hosted Hugging Face compatible reposito… |
-| 2026-10-08 04:44:47 | [pele](https://pypi.org/project/pele/) | 0.1.1 |  | 235.1 MB | Python energy landscape explorer: global optimization, minimization, basins of… |
-| 2026-10-08 04:45:13 | [group-payments](https://pypi.org/project/group-payments/) | 0.1.2 |  | 17.8 kB | Group Pay API client and the gp command line tool |
-| 2026-10-08 04:46:57 | [webreader](https://pypi.org/project/webreader/) | 2.3.8 | morichan <morichan@gmail.com> | 60.7 kB | Tree-based HTML reader for Python. |
-| 2026-10-08 04:52:49 | [eid-toolbox](https://pypi.org/project/eid-toolbox/) | 0.1.1 |  | 75.4 kB | Effective information, source-side PEID, and Synergy Partition Trees |
-| 2026-10-08 04:55:00 | [pyfirstaid](https://pypi.org/project/pyfirstaid/) | 0.1.0 | Sai Gavaskar Sakalam | 29.4 kB | First aid for broken Python environments: finds what's wrong and tells you how… |
-| 2026-10-08 04:55:10 | [robotframework-maestrolibrary](https://pypi.org/project/robotframework-maestrolibrary/) | 0.2.0 |  | 51.3 kB | Robot Framework mobile keywords on top of Maestro, with an AppiumLibrary-style… |
-| 2026-10-08 04:56:33 | [reachward](https://pypi.org/project/reachward/) | 0.1.0 | Dragon Lady | 82.7 kB | Local, offline agent credential and MCP permission inventory |
-| 2026-10-08 04:57:17 | [degreeworks-cli](https://pypi.org/project/degreeworks-cli/) | 0.1.1 | Aaryan Kapoor | 76.7 kB | Read-only DegreeWorks CLI for KSU — lets an AI agent build your exact semester… |
-| 2026-10-08 04:59:38 | [everyeval](https://pypi.org/project/everyeval/) | 0.1.0 |  | 698.1 kB | Open-source benchmark evaluation with traces: catalog, quote, run, compare. |
-| 2026-10-08 05:05:45 | [synthpop-orchestrator-models-py](https://pypi.org/project/synthpop-orchestrator-models-py/) | 0.0.0 | Synthpop Inc | 1.7 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-08 05:05:47 | [synthpop-voiceagent-demo](https://pypi.org/project/synthpop-voiceagent-demo/) | 0.0.0 | Synthpop Inc | 1.6 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-08 05:05:49 | [synthpop-doc-py](https://pypi.org/project/synthpop-doc-py/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-08 05:05:51 | [deidentifier](https://pypi.org/project/deidentifier/) | 0.0.0 | Synthpop Inc | 1.7 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-08 05:06:13 | [recern-vector](https://pypi.org/project/recern-vector/) | 0.0.1 |  | 2.2 MB | A single-file, embedded, inspectable vector database |
-| 2026-10-08 05:07:53 | [jupyter-opensysml-kernel](https://pypi.org/project/jupyter-opensysml-kernel/) | 0.9.3.dev20261008 | Open-MBEE | 99.5 MB | Jupyter kernel for SysML v2, backed by the OpenSysML REPL |
-| 2026-10-08 05:08:40 | [inboxili](https://pypi.org/project/inboxili/) | 0.1.0 |  | 13.7 kB | Python client for the Inboxili transactional email API |
-| 2026-10-08 05:10:32 | [justorm](https://pypi.org/project/justorm/) | 1.0.0 | justorm contributors | 182.3 kB | A lightweight, schemaless SQL builder that mixes into native database cursors. |
-| 2026-10-08 05:12:59 | [meep-gpu](https://pypi.org/project/meep-gpu/) | 0.9.2 | Ivan Biggs, Alicia Zeng, Yanl… | 16.2 MB | GPU time stepping for MEEP simulations: steps a simulation built by the user's… |
-| 2026-10-08 05:13:18 | [python-local-ai](https://pypi.org/project/python-local-ai/) | 0.1.0 | Francesco Vezzani | 5.6 MB | OS-native, on-device AI for Python, powered by rust_local_ai. |
-| 2026-10-08 05:15:42 | [hexharness](https://pypi.org/project/hexharness/) | 1.0.0 | Matias Tillerias <matias.till… | 632.3 kB | Agentic pentesting harness with a hard domain control plane (scope, ROE, eviden… |
-| 2026-10-08 05:17:45 | [tekjuice-connector](https://pypi.org/project/tekjuice-connector/) | 0.1.0 | Tek Juice <support@tekjuice.i… | 107.9 kB | Tek Juice Data Engine Connector — standalone Python package for customer backen… |
+| 2026-10-08 05:27:59 | [thea-software](https://pypi.org/project/thea-software/) | 3.53.0 |  | 20.7 kB | Contract harness for Thea, the engineering layer for AI. The atlas is polyglot;… |
+| 2026-10-08 05:29:49 | [nersc-tokens](https://pypi.org/project/nersc-tokens/) | 0.1.1 |  | 29.7 kB | Globus access tokens for the NERSC IRI API |
+| 2026-10-08 05:30:13 | [andrey-core](https://pypi.org/project/andrey-core/) | 0.1.0 |  | 625.2 kB | Andrey, a very fast causal discovery package |
+| 2026-10-08 05:33:53 | [visionabr](https://pypi.org/project/visionabr/) | 0.0.1 | Anagha Langhe | 6.5 kB | Load-aware image resolution gateway for vLLM vision-language model serving (ear… |
+| 2026-10-08 05:35:41 | [temporalint](https://pypi.org/project/temporalint/) | 0.1.0 | Denis Lusson | 34.7 kB | Static checks for Temporal Python SDK usage. |
+| 2026-10-08 05:39:30 | [agentic-hive](https://pypi.org/project/agentic-hive/) | 0.1.0 |  | 37.7 kB | Python client for The Hive: Ed25519 keys, RFC 9421 request signing and the REST… |
+| 2026-10-08 05:39:52 | [jaddle](https://pypi.org/project/jaddle/) | 0.1.0 | Brendan van Rooyen | 175.9 kB | First-order primal-dual solvers for large-scale linear and convex programs, wri… |
+| 2026-10-08 05:42:22 | [ohkit](https://pypi.org/project/ohkit/) | 0.1.0rc1 | Converge AI Labs | 12.1 kB | A unified Python API for coding agents. |
+| 2026-10-08 05:45:29 | [option-risk-explain](https://pypi.org/project/option-risk-explain/) | 0.2.0 | Garros Gong | 106.1 kB | Option Risk Explain: equity-option P&L attribution and exception review |
+| 2026-10-08 05:46:57 | [harm-actions-eval](https://pypi.org/project/harm-actions-eval/) | 0.0.0 | Praneeth Vadlapati | 2.9 kB | A new package under development |
+| 2026-10-08 05:47:15 | [audioplane](https://pypi.org/project/audioplane/) | 1.0.0rc1 | AudioPlane contributors | 225.4 kB | Source-aware bidirectional audio I/O SDK for macOS |
+| 2026-10-08 05:49:20 | [file-sorter-cli](https://pypi.org/project/file-sorter-cli/) | 0.1.0 |  | 31.3 kB | Safely organize messy directories into categorized folders by file type. |
+| 2026-10-08 05:56:16 | [BranchManager](https://pypi.org/project/BranchManager/) | 0.1.0 | Nicholas Dimonaco <nicholas@d… | 810.5 kB | BranchManager: Answers the critical question — Has this microbial lineage alrea… |
+| 2026-10-08 05:58:42 | [waystone-browser](https://pypi.org/project/waystone-browser/) | 0.2.0 | Arman Luthra | 443.6 kB | Record a workflow once, mark the page for agents, replay anywhere. Stealth brow… |
+| 2026-10-08 05:59:26 | [bench2agent](https://pypi.org/project/bench2agent/) | 0.3.0 |  | 192.0 kB | Ask which benchmarks researchers use, how usage changes, and which new benchmar… |
+| 2026-10-08 06:00:10 | [devin-search](https://pypi.org/project/devin-search/) | 0.1.0 | Icaro0310 | 47.2 kB | Full-text search across all Devin sessions — find that command, that error, tha… |
+| 2026-10-08 06:01:06 | [legal-rag-verifier](https://pypi.org/project/legal-rag-verifier/) | 0.1.0 | Abdullah Memon <abdullah@memo… | 249.6 kB | Sentence-level claim and NLI verification with KV-cache rollback during generat… |
+| 2026-10-08 06:02:24 | [venvfinder](https://pypi.org/project/venvfinder/) | 0.1.0 | Chad Saltikov <saltikov@ucsc.… | 32.5 kB | Find and inspect Python virtual environments (uv, venv, virtualenv, conda) on d… |
+| 2026-10-08 06:09:27 | [pysteam-sdk](https://pypi.org/project/pysteam-sdk/) | 0.1.0a0 | pysteam contributors | 444.1 kB | Async Python SDK for Steam authentication, content preservation, and Web API |
+| 2026-10-08 06:11:07 | [blochsim-cuda12](https://pypi.org/project/blochsim-cuda12/) | 0.0.10 |  | 61.7 MB | blochsim's GPU kernels compiled with CUDA 12, for blochsim[cu12] |
+| 2026-10-08 06:11:09 | [blochsim-cuda13](https://pypi.org/project/blochsim-cuda13/) | 0.0.10 |  | 48.8 MB | blochsim's GPU kernels compiled with CUDA 13, for blochsim[cu13] |
+| 2026-10-08 06:12:03 | [simp-file-builder](https://pypi.org/project/simp-file-builder/) | 0.1.0 | Bruno <b103590bruno@gmail.com> | 21.9 kB | Generate Software Ideas Modeler (.simp) project files from Python |
+| 2026-10-08 06:13:23 | [codex-rag-system](https://pypi.org/project/codex-rag-system/) | 0.1.0 | RAG System contributors | 607.2 kB | Local-first RAG, MCP, HTTP, and Obsidian workflow system |
+| 2026-10-08 06:13:49 | [xgen-ontology-build](https://pypi.org/project/xgen-ontology-build/) | 0.15.0 | jinsoo96 <wlstn010203@gmail.c… | 3.2 MB | The ontology build: documents and tables -> a clean knowledge graph with proven… |
+| 2026-10-08 06:13:53 | [sentinelseo](https://pypi.org/project/sentinelseo/) | 1.0.0 | Ilias Sami <me@iliassami.com> | 3.1 MB | Scrawly: free, open-source technical SEO and GEO crawler and site audit tool (a… |
+| 2026-10-08 06:14:41 | [selekyt](https://pypi.org/project/selekyt/) | 0.3.1 |  | 4.5 MB | Local-first long-form to publishable social video editorial engine |
+| 2026-10-08 06:16:48 | [sidha](https://pypi.org/project/sidha/) | 0.1.0 | Rakesh Pai <pairakesh10@gmail… | 77.9 kB | Sensor-to-Insight Data for Hidradenitis Suppurativa Architecture — open referen… |
+| 2026-10-08 06:18:43 | [gufomind](https://pypi.org/project/gufomind/) | 1.0.0 | Chalpanov <chalpanovrich1@yan… | 509.2 kB | Personal RAG over your AI chat history — import, categorize, search, and query… |
+| 2026-10-08 06:19:06 | [cqlib-vqe](https://pypi.org/project/cqlib-vqe/) | 0.1.0b1 | Cqlib VQE Contributors | 170.9 kB | Adaptive canonical singlet-UCCSD and active-space VQE for cqlib 2.x |
+| 2026-10-08 06:19:52 | [ezos](https://pypi.org/project/ezos/) | 2.0.0 | Bytovex | 55.7 kB | Easy OS — control your Windows PC with one-line Python. Build your own Jarvis. |
