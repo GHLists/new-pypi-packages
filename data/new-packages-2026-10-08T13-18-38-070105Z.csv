@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T12:20:45Z,quadkit-multimedia-video,0.0.1,,,1508,QuadKit quadkit-multimedia-video — reserved namespace
+2026-10-08T12:22:19Z,zarrista-bounded,0.1.0,,MIT OR Apache-2.0,263433407,"A small, prototypical zarrita-like Python Zarr implementation on top of zarrs."
+2026-10-08T12:24:18Z,recordorg-bluecollarverificationauth,1.0.0b4,,LicenseRef-Proprietary,38794,Official Python SDK for Record Blue / Grey Collar Verification - open a verification session from your server
+2026-10-08T12:25:29Z,urbirrad,0.1.1,,"MIT License Copyright (c) 2026 urbirrad contributors Permission is hereby granted, free of charge,…",146203,Annual solar-radiation calculations on sensor meshes
+2026-10-08T12:26:59Z,kipe,0.1.0,David Nolte <dajuno@users.noreply.github.com>,MIT,110080,"Parameter estimation with reduced-order unscented Kalman filtering, and identifiability analysis, for PDE models"
+2026-10-08T12:27:54Z,linkdigest-mcp,0.2.0,LinkDigest <support@linkdigest.dev>,MIT,52720,"抖音、小红书、TikTok、YouTube、X 链接转 AI 可读文本 — Python SDK, CLI and stdio MCP server for the hosted LinkDigest API"
+2026-10-08T12:28:25Z,fountain-parser,0.1.1,"Prevue Studios, Inc.",,17173,"A lightweight, zero-dependency, typed AST parser for the Fountain screenplay format."
+2026-10-08T12:31:35Z,keywordbarrage-schemas,1.0.0,KeywordBarrage Engineering <engineering@keywordbarrage.com>,,15268,Machine-readable SQLite schemas and data dictionaries for 430+ web platforms.
+2026-10-08T12:34:50Z,pennytrase,0.3.0,pennytrase contributors,MIT,77998,"Local-first cost, outcome and margin tracking for AI agent tasks. Fail-open SDK, zero dependencies."
+2026-10-08T12:37:32Z,sortery,0.2,,,6086,
+2026-10-08T12:38:03Z,iomate-pkg-workflow,0.1.0a0,IOMate,,13285,IOMate Package providing control-flow and error-handling Actions
+2026-10-08T12:38:52Z,synapse-runtime-sdk,0.2.1,,UNLICENSED,8533581,"Python SDK for the Synapse runtime: topics, services, store and H.264 video from asyncio"
+2026-10-08T12:38:56Z,synapse-runtime-sdk-video,0.2.1,,GPL-2.0-or-later,45698414,H.264 video encoder/decoder for synapse-runtime-sdk (install as synapse-runtime-sdk[video])
+2026-10-08T12:39:05Z,datafusion-inline-functions,0.1.0,,MIT,11694254,Rust-backed query-local functions for Apache DataFusion SQL
+2026-10-08T12:39:50Z,plone-cookiesregtech,1.0.0,CookiesRegTech,,33714,"CookiesRegTech cookie consent for Plone: one-click connect, automatic banner injection, cookie scanner and consent log."
+2026-10-08T12:40:20Z,cleanvc,0.1.0,Your Name <your_email@example.com>,MIT,9363,"Fast, zero-dependency CSV header and whitespace sanitizer."
+2026-10-08T12:42:08Z,saverouter,0.1.0,"Gelin Bian, Hao-Xuan Ma, Jun-Peng Jiang, Long Chen, Jian-Dong Liu, Zhi-Hao Tan, Han-Jia Ye",MIT,86518,Sparse supervision acquisition and economical LLM routing
+2026-10-08T12:44:57Z,ifotools,1.0a5,Miron van der Kolk <mkolk@nikhef.nl>,,3417689,Collection of functions useful for simulating interferometers
+2026-10-08T12:45:18Z,langchain-gaip,0.1.0,GAIP,MIT,12077,"LangChain tools for GAIP: check, watch, diagnose and verify AI agents, MCP servers and APIs (free, no key)."
+2026-10-08T12:45:30Z,lotus-shell,26.10.4,Stormzady,,19444,Add your description here
+2026-10-08T12:46:00Z,jgap,7.2.3,Jegors Balzins,GPL-3.0-or-later,252258465,Gaussian Approximation Potentials (GAP) in C++23 with Python interface and ASE integration
+2026-10-08T12:46:29Z,esportsodds,0.1.0,Sellframe Ltd,MIT,135947,Python client for the esportsodds.gg CS2 (Counter-Strike 2) match data and stats API.
+2026-10-08T12:47:21Z,aether-chain-client,0.2.9,,MIT,107961,"Python client for the Aether chain: ML-DSA-44 keys, payments, buying and selling paid APIs (x402 aether-memo / aether-prepaid) and the service directory."
+2026-10-08T12:50:01Z,fritzmoles-mcp,0.1.1,Daniel Glaser <me@the78mole.de>,MIT,129948,"MCP server for the telephony features of a FRITZ!Box: call lists, answering machine, call barring and call forwarding via TR-064"
+2026-10-08T12:50:03Z,matchawards-mcp,0.1.0,MatchAwards,MIT,22959,"MCP server for MatchAwards: search US government contracts, grants and jobs from matchawards.com."
+2026-10-08T12:53:22Z,ethiopia-eims,0.1.0,Kaleb Abiy,MIT,64627,Framework-agnostic Python client for the Ethiopian Ministry of Revenue Electronic Invoice Management System (EIMS).
+2026-10-08T12:53:54Z,gaip-agents,0.1.0,GAIP,MIT,5563,"GAIP Agents: check an AI agent before you call it (installs and re-exports gaip-check; free, via GAIP)."
+2026-10-08T12:57:06Z,kaleido-cli,0.1.2,Kaleidoswap <dev@kaleidoswap.com>,MIT,161866,CLI for managing RGB Lightning Nodes and interacting with Kaleidoswap
+2026-10-08T12:57:30Z,wecom-automation,0.1.1,nfsqking,MIT,43458,Windows UI automation for WeCom
+2026-10-08T12:57:50Z,nexorascan,1.0.1,,,3733,Termux SubFinder wrapper
+2026-10-08T12:59:56Z,farofa,0.2.0,Mateus Santana <jmateussan@gmail.com>,GPL-3.0-or-later,256763,Failure And Repair simulation Optimization Framework
+2026-10-08T13:00:27Z,vnnlib-satisfactory,0.0.1,"Lukas Rohwer <24215157@student.uwa.edu.au>, Bella Lu <24491136@student.uwa.edu.au>, Kylie Verzosa <…",MIT,188383,"VNN-LIB SATisfactory -- an automated, mathematically grounded testing suite for VNN-LIB 2.0 neural network solvers."
+2026-10-08T13:00:44Z,citysports-efc-ble,0.1.0,Daan Vervacke,MIT,75429,Asynchronous Python library for EFC treadmills such as the CITYSPORTS WP9 over Bluetooth Low Energy
+2026-10-08T13:03:16Z,mcp-elk,1.0.0,Daniel Xavier Araújo <danielxaraujo@gmail.com>,MIT,26948,"MCP server de leitura para Elasticsearch/Kibana (ELK): busca, contagem, consultas salvas e exportação CSV"
+2026-10-08T13:05:31Z,ko-pii-guard,0.1.0,Dooil Kwak,Apache-2.0,32270,"Detect and mask Korean personal information (RRN, phone, business number, and more) with Microsoft Presidio, in one line."
+2026-10-08T13:06:11Z,battery-cycle-life-analyzer,0.3.0,Mohammad Rezwan Khan <mohammadrezwankhan@users.noreply.github.com>,MIT,61896,Fit battery capacity-fade models and project bounded end of life
+2026-10-08T13:07:08Z,netbox-ipam-treeview-plugin,0.1.0,Thomas Christory,Apache-2.0,65244,DDI-style collapsible tree view for NetBox IPAM prefixes.
+2026-10-08T13:08:54Z,intentdsl,0.1.dev3,,Apache-2.0,105402545,A structured kernel DSL with native compilation across execution models
+2026-10-08T13:10:28Z,openhorizontal-kafka-utils,0.1.0,stalexandros@uth.gr,,4255,"Helpers for Kafka consumers: dead letter queue, event headers and Debezium events"
+2026-10-08T13:11:04Z,litekit,0.0.1,backfold,MIT,4113,SvelteKit-style file-based routing for Litestar
+2026-10-08T13:14:28Z,everychat,0.1.0,Wayne Chen,MIT,201343,"Search every AI conversation you've ever had. ChatGPT, Claude, Gemini, Claude Code, Codex. Local, free, with an MCP server."
+2026-10-08T13:15:02Z,polars-nanook,0.0.1,,,3250,Polars Nanook
+2026-10-08T13:17:20Z,morevoice,1.0.0,MoreVision Advanced Solutions Ltd.,MIT,2402874,"The official MoreVoice SDK for Python: AI voice agents, calls, campaigns and webhooks (sync and async)."
