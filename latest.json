@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-10-08T13:18:38.070105Z",
-    "path": "data/new-packages-2026-10-08T14-24-14-218428Z.csv",
-    "to": "2026-10-08T14:24:14.218428Z"
+    "count": 49,
+    "from": "2026-10-08T14:24:14.218428Z",
+    "path": "data/new-packages-2026-10-08T15-20-36-001485Z.csv",
+    "to": "2026-10-08T15:20:36.001485Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-08T11:35:56Z",
       "package": "azrico",
       "since": "2026-10-08T11:18:41.661125Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-08T14:26:19Z",
+      "package": "test-new-organization-project",
+      "since": "2026-10-08T14:24:14.218428Z"
     }
   ],
-  "serial": 41974513,
+  "serial": 41977011,
   "source_truncated": false,
-  "window": "2026-10-08T14:24:14.218428Z"
+  "window": "2026-10-08T15:20:36.001485Z"
 }

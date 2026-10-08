@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T14:25:38Z,letsemploy-publisher,0.1.0,Rene Moser,,23903,Python client for the letsemploy publisher GraphQL API
+2026-10-08T14:28:33Z,droch-shuil,0.3.0,,MIT,97193,Declarative Linux host configuration on top of pyinfra
+2026-10-08T14:28:41Z,xplr,0.0.2,Michael Dorman <dorman@post.bgu.ac.il>,"Copyright (c) 2026 The Python Packaging Authority Permission is hereby granted, free of charge, to…",7779,Quick visualization of Python objects for exploratory data analysis
+2026-10-08T14:28:52Z,s2cube,0.1.0,Cao Vu Bui <vubc@fpt.edu.vn>,"MIT License Copyright (c) 2026 Cao Vu Bui and the s2cube contributors Permission is hereby granted,…",98831,"Build co-registered, leakage-safe Sentinel-2 time-series datasets for machine learning"
+2026-10-08T14:29:31Z,adityalab,0.1.0,Aditya Lab,Apache-2.0,33530,Official Python client for the Aditya API (Indian-language AI models by Aditya Lab)
+2026-10-08T14:30:14Z,sysx-cli,1.0.0,maoxian3824 <maoxian3824@users.noreply.github.com>,MIT,38831,轻量级系统信息与开发辅助 CLI 工具，纯标准库实现，零第三方依赖
+2026-10-08T14:33:24Z,vibemyexpt-lsl,0.1.0,,MIT,13570,Relay VibeMyExpt experiment markers into Lab Streaming Layer (LSL) for LabRecorder.
+2026-10-08T14:36:38Z,wayland-computer-use-mcp,0.1.1,Niklas Ehrenfried,MIT,207571,"FastMCP server for interactive Wayland window/desktop streaming, semantic UI inspection, boundary-clamped input injection, and desktop integration."
+2026-10-08T14:36:49Z,eivlhole,0.2.0,Eivind Teig,MIT,184591,"Wormhole-style file transfer over SSH for protected networks, with scheduled unattended delivery."
+2026-10-08T14:38:29Z,codinglogic,0.2.0,Mohamed Faraazman Bin Farooq S,,30126,A Python library for common programming logic and algorithms
+2026-10-08T14:38:44Z,zsuite-py,0.1.0,Daniele Linguaglossa,MIT,42620,"A toolkit for building programming languages in Python: zgram (syntax), zrules (checks), zrun (execution), zlsp (editors), at versions that work together."
+2026-10-08T14:39:59Z,pyLQT,1.0.dev1,Antonin HUDRY <hudryantoninm@gmail.com>,GPL-3.0-only,60050,Python version of LQT from Griffis et al. 2021 (https://www.sciencedirect.com/science/article/pii/S2213158221000838)
+2026-10-08T14:40:05Z,temgym-core,0.1.0,"David Landers <davidlandersresearch@gmail.com>, Matthew Bryan <matthewbryan52@gmail.com>, Dieter We…",GPL-3.0-only,7149280,An differentiable TEM ray tracing package
+2026-10-08T14:40:50Z,frostglass,0.1.0,Sheer Safe <security@sheersafe.com>,MIT,21543,"Installer for Frostglass by Sheer Safe: local, offline PII redaction for AI agents and pipelines."
+2026-10-08T14:41:27Z,accsify-whisper,1.0.0.2,accsify,MIT,3580100,High-performance Whisper Speech Recognition Engine for Windows with C++ acceleration
+2026-10-08T14:41:30Z,arc56-generated-diego-09fba45a,1.2.2026072010,diegocalvetti,,31754,Generated ARC-56 Algorand smart-contract clients for diegocalvetti/algo-balancer.
+2026-10-08T14:41:49Z,lod2-buildings-downloader,1.0.0,"Daniel Godin <dgodin@ffe.de>, Joachim Ferstl <jferstl@ffe.de>",,275870,"Python library for downloading and parsing LoD2 building data from German open-geodata services. Given an area of interest, it connects to the relevant services, retrieves the necessary files and ret…"
+2026-10-08T14:42:34Z,arc56-generated-digvi-58ba4a30,1.2.2026072010,Digvijay-12345,,20733,Generated ARC-56 Algorand smart-contract clients for Digvijay-12345/Grant-Go-Hackspiration.
+2026-10-08T14:43:38Z,arc56-generated-divya-e9a167ee,1.2.2026072010,DivyanshuDX,,37091,Generated ARC-56 Algorand smart-contract clients for DivyanshuDX/Civitas.
+2026-10-08T14:43:53Z,r3cal,0.1.1,Mehmet Keçeci,AGPL-3.0-or-later,40911,r3cal: Resistor Color Code Calculator: Direnç Renk Kodu Hesaplayıcı Modülü
+2026-10-08T14:44:42Z,arc56-generated-donen-e610c09b,1.2.2026072010,donendosted,,49568,Generated ARC-56 Algorand smart-contract clients for donendosted/algo.
+2026-10-08T14:45:18Z,jugaadcode,0.1.2,Mohamed Faraazman Bin Farooq S,,29979,A Python library for common programming logic and algorithms
+2026-10-08T14:47:11Z,envloop-cli,0.1.1,,,30356,Standalone el command-line client for EnvLoop
+2026-10-08T14:52:47Z,prism-risk,0.6.0,Ugwiyeon Lee,MIT,185801,PRISM: Process Risk Integration and Scenario Modeling with optional LH2 analysis
+2026-10-08T14:54:54Z,markstitch,0.1.0,Valery Pavlov,MIT,165880,"Compose, parse, and edit YFM documents in Python"
+2026-10-08T14:56:16Z,kitaru-elevenlabs-importer,0.1.0,ZenML GmbH <info@zenml.io>,Apache-2.0,27844,ElevenLabs conversation importer for Kitaru.
+2026-10-08T14:56:49Z,r2bagpipe,0.0.1,,GPL-3.0-or-later,66440,Load and group cached function-level radare2 artefacts.
+2026-10-08T14:57:13Z,vectochain,0.1.2,VectoChain Authors,,20038,Building applications with LLMs through pure composability
+2026-10-08T14:58:15Z,kitaru-mlflow-importer,0.1.0,ZenML GmbH <info@zenml.io>,Apache-2.0,38185,MLflow trace importer for Kitaru.
+2026-10-08T14:58:37Z,novomodelo-python,0.18.0,"Operador Nacional do Sistema Elétrico - ONS, Câmara de Comercialização de Energia Elétrica - CCEE,…",Apache-2.0,59958441,High-performance SDDP solver for hydrothermal dispatch — Python bindings for the Novomodelo ecosystem
+2026-10-08T14:58:40Z,chooco,1.16.1,Chooco Team <contact@all-hands.dev>,MIT,994836,Chooco - Terminal User Interface for Chooco AI Agent
+2026-10-08T15:05:08Z,cirrusnetworks-siege,0.0.1,,,3576,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-08T15:05:16Z,cirrusnetworks-sip-testing,0.0.1,,,3663,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-08T15:05:23Z,cirrusnetworks-sitrep,0.0.1,,,3587,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-08T15:05:30Z,cirrusnetworks-spotter,0.0.1,,,3595,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-08T15:06:25Z,numox,1.0.0,oxoxox-oxox,,1735072,A high-performance C Extension for matrix math
+2026-10-08T15:08:33Z,livery-extensions-mypy,0.0.0,Willem Kokke,MIT,14003,"mypy as a check of the livery workshop: the type checker, on every platform, configured by the root mypy.ini."
+2026-10-08T15:08:33Z,livery-extensions-ty,0.0.0,Willem Kokke,MIT,7040,"ty as a check of the livery workshop: the type checker over every platform at once, configured by the root ty.toml."
+2026-10-08T15:11:42Z,livery-extensions-basedpyright,0.0.0,Willem Kokke,MIT,14853,"basedpyright as a check of the livery workshop: the type checker, and type completeness as its option."
+2026-10-08T15:11:42Z,livery-extensions-clang-format,0.0.0,Willem Kokke,MIT,12251,"clang-format as a check of the livery workshop: each native package's C and C++ sources, formatted by its own .clang-format."
+2026-10-08T15:11:45Z,ptr-core,0.1.1,Spatialdom,MIT,130533,Reference Python engine for Parcel Truth Records v0.1.
+2026-10-08T15:12:34Z,hypermath-Kavyansh-Arya,0.2.0,Kavyansh N Arya,,10118,"A custom math module for factorials, roots, and advanced operations."
+2026-10-08T15:12:41Z,orchkit,0.11.0,,Apache-2.0,267400,ChatGPT-first durable workflow orchestrator for local development projects
+2026-10-08T15:14:34Z,OTRetarget-pytorch,0.0.1,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",11848,"Implementation of OTRetarget, Joint Robot and Object Motion Retargeting via Optimal Transport"
+2026-10-08T15:18:17Z,antibody-utils,0.1.0,Benjamin Heathcote Williams,BSD-3-Clause,78500,Utilities for antibody sequence and structure analysis.
+2026-10-08T15:19:20Z,tokenizerlab,0.1.0,Surya Teja Manthri,MIT,288409,"Reproducible tokenizer experiments: deterministic, inspectable corpus building for tokenizer training."
+2026-10-08T15:19:24Z,outcome-check,0.3.0,,MIT,180300,Compare requested outcomes with supplied state evidence.
+2026-10-08T15:19:30Z,scintilla-py,0.1.0,,Apache-2.0,795679,"Single-Cell INTegrated Inference, Labelling, and Landscape Analysis pipeline"
+2026-10-08T15:20:30Z,loopgrid-crewai,0.1.0,LoopGrid,Apache-2.0,52784,"Signed, tamper-evident decision evidence for CrewAI Agents using LoopGrid"
