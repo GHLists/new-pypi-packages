@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-10-08T05:21:14.965694Z",
-    "path": "data/new-packages-2026-10-08T06-20-43-787257Z.csv",
-    "to": "2026-10-08T06:20:43.787257Z"
+    "count": 36,
+    "from": "2026-10-08T06:20:43.787257Z",
+    "path": "data/new-packages-2026-10-08T07-21-14-189156Z.csv",
+    "to": "2026-10-08T07:21:14.189156Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-08T04:39:15Z",
       "package": "autoware-carla-scenario",
       "since": "2026-10-08T04:19:16.939741Z"
     }
   ],
-  "serial": 41956988,
+  "serial": 41958368,
   "source_truncated": false,
-  "window": "2026-10-08T06:20:43.787257Z"
+  "window": "2026-10-08T07:21:14.189156Z"
 }

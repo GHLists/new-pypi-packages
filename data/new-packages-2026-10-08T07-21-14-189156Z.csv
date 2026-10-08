@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T06:23:25Z,protbed-ms-normalize,0.2.0,"""Anas Bedraoui, PhD"" <contact@protbed.com>",MIT,27472,A lightweight Python library and CLI to normalize mass spectrometry tabular exports and raw mzML files into analysis-ready tables.
+2026-10-08T06:25:33Z,paac,0.1.0,Mary Brinda John Wilson,MIT,10591,"Python for Accounts, Audit & Compliance: practical helpers for Indian CA workflows"
+2026-10-08T06:28:19Z,humanizer-pro,4.15.0,Humanizer Pro contributors,MIT,99941,"Deterministic, zero-dependency audit for AI-writing tells, leaked chatbot artifacts, and rewrite fidelity."
+2026-10-08T06:28:36Z,chp-safety-case,0.1.0,Project Auxo,Apache-2.0,20088,"Portable CHP Safety Case (.chpsafety) bundle format + offline verifier — verify what an AI agent was authorized and able to do, with no network and no trust in the producer."
+2026-10-08T06:30:48Z,volcenginesdk-vmp,0.0.1,volc-engine,Apache License 2.0,974,Name reservation for the Volcengine Python SDK split package volcenginesdk-vmp
+2026-10-08T06:30:49Z,opentideconstants,0.0.0,Jordan Ritter,MIT,4433,Placeholder for the OpenTideConstants SDK
+2026-10-08T06:30:55Z,volcenginesdk-vms,0.0.1,volc-engine,Apache License 2.0,974,Name reservation for the Volcengine Python SDK split package volcenginesdk-vms
+2026-10-08T06:31:01Z,volcenginesdk-vod20250101,0.0.1,volc-engine,Apache License 2.0,1037,Name reservation for the Volcengine Python SDK split package volcenginesdk-vod20250101
+2026-10-08T06:31:07Z,volcenginesdk-vod20260101,0.0.1,volc-engine,Apache License 2.0,1037,Name reservation for the Volcengine Python SDK split package volcenginesdk-vod20260101
+2026-10-08T06:32:43Z,anime-tui,0.2.0,Panther,MIT,20058,A terminal UI for streaming and downloading anime via ani-cli and AniList
+2026-10-08T06:34:28Z,databuck-spark-sdk,0.5.1,DataBuck,,42417,DataBuck data quality SDK for PySpark and Databricks
+2026-10-08T06:38:46Z,geul,1.2.1,wwoosshh,MIT,154653,글 — 한국어 문법(SOV·조사)으로 쓰는 자체호스팅 시스템 언어의 컴파일러 (Windows x64)
+2026-10-08T06:39:18Z,linux-x11-harness,0.1.1,linux-x11-harness contributors,MIT,4313313,Linux X11 GUI harness with MCP server and native automation driver
+2026-10-08T06:49:48Z,sol-feed,0.1.0,Lunar Shadow Labs <support@lunarshadowlabs.com>,MIT,12860,"Python client for the Lunar Shadow Labs feed: decoded Solana DEX swaps, launches and pool events over one WebSocket"
+2026-10-08T06:49:50Z,langchain-sra-riskgate,0.1.0,Sriram Ramakrishnan,Apache-2.0,46639,LangChain middleware that checks an AI agent's stablecoin payments before they are sent
+2026-10-08T06:50:41Z,pytest-mailpit,0.1.0a1,Nikolay Chillev,MIT,70491,"pytest fixtures and a typed client for testing real emails with Mailpit — parallel-safe, no sleeps"
+2026-10-08T06:51:09Z,chainlog-ai,0.2.0,ehsanhajian,MIT,11240,"Explain why blockchain infrastructure failed, from the logs you already have."
+2026-10-08T06:52:34Z,cqlib-qaoa,0.1.0b1,China Telecom Quantum Group Quantum Computing Team <tianyan@chinatelecom.cn>,Apache-2.0,145389,QAOA package based on Cqlib
+2026-10-08T06:54:28Z,cqlib-guodun,0.1.0,Cqlib Development Team,Apache-2.0,111583,Python client for the Guodun quantum cloud platform
+2026-10-08T06:54:45Z,tinyforge,0.1.0,tinyforge contributors,Apache-2.0,328681,"Local-first fine-tuning toolkit: hardware-aware planning, data checks, training beyond VRAM, benchmarks and serving with guardrails."
+2026-10-08T06:56:17Z,sharp-cv,0.1.0,Tianchu Zeng,MIT,69628,SHARP split-half cross-validation test for model comparison.
+2026-10-08T06:56:41Z,anchorage-docker,0.1.0,Pavel Makhnychev <pmakhnychev@gmail.com>,MIT,258273,Native Linux desktop client for Docker Engine
+2026-10-08T06:58:56Z,ikat,0.2.1,opticsWolf,MIT OR Apache-2.0,22237282,"Weave Markdown into camera-ready LaTeX: md-to-tex/pdf pipeline with a Rust core (mermaid-to-TikZ, pgfplots figures)"
+2026-10-08T06:59:40Z,langchain-clm,0.1.0,,MIT,19668,Route LangGraph graphs with a CLM (Contrastive Language Model): pick the next node by matching the state against route descriptions.
+2026-10-08T07:01:14Z,serialforge,0.0.1,,MIT,280792,PySide6 serial communication toolkit for Windows
+2026-10-08T07:02:25Z,crowdwards,0.0.1,Martin-Isbjoern Trappe <martin.trappe@quantumlah.org>,LicenseRef-Proprietary,3874,CrowdWARDS — a research toolkit (early-development placeholder release).
+2026-10-08T07:02:44Z,odoo-addon-stock-vertical-lift-pick-priority,18.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,29855,Pick first the goods awaited by the most urgent deliveries
+2026-10-08T07:05:27Z,pipeline-kit,1.2.2,Pipeline Kit maintainers,MIT,901906,Portable workflow pack and installer for coding agents
+2026-10-08T07:07:00Z,openriak,0.1.1,OpenRiak,Apache-2.0,10566,OpenRiak HTTP client
+2026-10-08T07:08:32Z,agdata,0.1.1,,MIT,8004,CLI for agdata.shveik.dev (one of the shveik.dev agent products; same code as ag-cli)
+2026-10-08T07:08:44Z,agproxy,0.1.1,,MIT,8024,CLI for agproxy.shveik.dev (one of the shveik.dev agent products; same code as ag-cli)
+2026-10-08T07:09:00Z,agvps,0.1.1,,MIT,7994,CLI for agvps.shveik.dev (one of the shveik.dev agent products; same code as ag-cli)
+2026-10-08T07:09:15Z,agmail,0.1.1,,MIT,8024,CLI for agmail.shveik.dev (one of the shveik.dev agent products; same code as ag-cli)
+2026-10-08T07:12:10Z,wecomarchive,0.1.0,,,693472,企业微信会话存档、事务游标与异步规则消费框架
+2026-10-08T07:16:11Z,PyAutoPlugin,0.1.0,Qr1mln <593747881@qq.com>,MIT,33909,Windows平台，窗口绑定、图色、Ocr、工具集
+2026-10-08T07:19:21Z,dora-openarm-ker,0.1.0,"Enactic, Inc.",Apache-2.0,8383,dora-rs node for leader OpenArm KER
