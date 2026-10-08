@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T23:58:33Z,nemo-fabric-adapter-catalog,0.5.0b1,NVIDIA Corporation,Apache-2.0,15418,Metadata-only catalog of bundled NVIDIA NeMo Fabric adapter descriptors
+2026-10-08T00:01:48Z,modkeel,0.1.1,Modkeel,MIT,776987,"Minecraft Mod Auto-Compiler - find, compile, and verify unofficial mod forks"
+2026-10-08T00:23:06Z,pytorches-universe,0.1.0,,Apache-2.0,2908987,"PyTorch-interoperable tensor and autograd engine in Rust with automatic, plugin-based hardware backends"
+2026-10-08T00:23:07Z,kre-mcp,0.1.1,jaypakdevkr,MIT,130473,Korean apartment transaction and presale right trade MCP server
+2026-10-08T00:23:44Z,bugwhisper,0.1.1,"Pernav Jain, Harshit Sharma",Apache-2.0,92544,Deterministic runtime execution & neural Python error debugging studio powered by Qwen 2.5 Coder 3B
+2026-10-08T00:27:29Z,mnemo-protocol,3.1.0,Mnemo LLC,LicenseRef-Proprietary,33598,Python SDK for the Mnemo watermarking API
+2026-10-08T00:33:23Z,figenai-atlas-core,0.0.1,Figen SAS,,2209,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-08T00:33:27Z,figenadmin,0.0.1,Figen SAS,,2085,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-08T00:33:31Z,figencrm-schema,0.0.1,Figen SAS,,2162,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-08T00:39:25Z,augrs-py,0.1.0,Dat-cool-repo contributors,MIT OR Apache-2.0,8240142,"Fast, GIL-free image augmentation with a Rust core and an Albumentations-like API (MIT/Apache-2.0)"
+2026-10-08T00:39:45Z,hf-processors-rs,0.1.0,Dat-cool-repo contributors,MIT OR Apache-2.0,10549106,"Hugging Face transformers image/audio preprocessors (CLIP, SigLIP, ViT, ConvNeXt, BLIP, Qwen2-VL, Whisper) reproduced bit-exactly in Rust"
+2026-10-08T00:41:04Z,optlens,0.0.1,Jessica Dong,Apache-2.0,279085,"Solver-agnostic diagnostics for LP/MILP models: IIS, feasibility relaxation, repair menus, sensitivity, what-if."
+2026-10-08T00:42:04Z,p0aiapi,0.1.2,,,106617,"Sync and async Python client for the P0 AI API, with OpenAPI-driven calls"
+2026-10-08T00:42:15Z,fasttext-new,0.1.0,Dat-cool-repo,MIT OR Apache-2.0,5659868,"Drop-in replacement for the archived `fasttext` Python package, backed by pure Rust (PyO3)"
+2026-10-08T00:43:21Z,rcopula,0.1.0,Chris Bell <chris.e.bell24@gmail.com>,"MIT License Copyright (c) 2026 Chris Bell Permission is hereby granted, free of charge, to any pers…",1893454,Copula modelling in Python: a full-featured replication of R's `copula` package.
+2026-10-08T00:43:57Z,gyntoolkit,2.1.1,"PH, Fl4vs",MIT,78056,"Canivete suíço de pentest — recon, port scan, CVE lookup e brute force."
+2026-10-08T00:51:50Z,pc-cleaner,1.2.0,Rituraj,MIT,54158,"Safe disk analytics, duplicate discovery, and offline reports"
+2026-10-08T00:53:41Z,desktop-agent-mac,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2852,"Lightweight native macOS automation, GUI control, and desktop bridge agent for Nouverse."
+2026-10-08T00:53:48Z,desktop-agent-macos,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2895,"Lightweight native macOS automation, GUI control, and desktop bridge agent for Nouverse."
+2026-10-08T00:53:55Z,nouride-box,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2751,"Hardware appliance runtime, STB bridge, and OS provisioning for Nouride."
+2026-10-08T00:54:02Z,noubox,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2653,Plug-and-play autonomous server and edge node appliance utilities for Nouverse.
+2026-10-08T00:55:15Z,dataset-explorer-mcp,0.2.1,Armaghan Rasheed,MIT,27861,"Help your AI explore local data using summaries, Pearson correlation, eta squared, and Cramer's V."
+2026-10-08T00:57:19Z,dfinsight-kit,0.1.0,,,5855,A lightweight data quality and dataset inspection library for pandas DataFrames
+2026-10-08T01:01:12Z,phocinae-server,0.1.0,,Apache-2.0,68305,Self-contained typed-decisions (system-one) inference server for the Phocinae-Largha-150M-v1 model
+2026-10-08T01:01:15Z,phocinae-guard,0.1.0,,Apache-2.0,46538,Phocinae command approval gate for AI harnesses (L0 whitelist/blacklist)
+2026-10-08T01:01:18Z,phocinae-mcp,0.1.0,phocinae project,Apache-2.0,46198,斑海豹 Phocinae MCP stdio server：命令审批 gate + classify/route/score 推理工具（纯标准库）
+2026-10-08T01:04:08Z,separador-rreo,0.1.0,"Ana Cláudia Medeiros de Carvalho <anaclaudiaengmat@gmail.com>, Yuri Sales <yuri.sales@protonmail.co…",MIT,13401026,"Separa anexos RREO de diários oficiais FEMURN em PDFs por município, com planilha de conferência."
+2026-10-08T01:12:54Z,rxfoundry.clients.hd-api,1.19.1.5985,OpenAPI Generator community,,111892,Healthdyne API
+2026-10-08T01:12:59Z,testautodata,0.15.0,AutoData Team,,47068,Pre-deployment test build of the AutoData Python SDK. Talks to https://testautodata.datatoolpack.com by default.
+2026-10-08T01:15:38Z,ghost-seatbelt,0.2.0,Ghost Developer Studio,MIT,240898,Deterministic guardrails for AI coding agents — Seatbelt gates what your agent does before it does it.
+2026-10-08T01:20:36Z,sustainmetric-idx,0.1.0,,,183900,SustainMetric IDX: The Algorithmic Green Auditor FastMCP Server
