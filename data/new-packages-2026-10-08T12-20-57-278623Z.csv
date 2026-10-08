@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T11:19:29Z,migrate-prove,0.1.0,Dan Webb,MIT,82249,Prove that migrated target data matches the Source-to-Target Mapping contract — not just that the ETL job exited 0.
+2026-10-08T11:25:05Z,qrforge,1.0.1,qrforge contributors,MIT,137441,"Generate and heavily customise QR codes (shapes, gradients, shaders, logos, textures) in pure Python; Pillow optional."
+2026-10-08T11:27:42Z,default-package-name,0.0.0,,,81114,
+2026-10-08T11:29:04Z,vefier-cli,1.0.0,VeFier Studio,,5218,Универсальный AI-агент для терминала (TUI)
+2026-10-08T11:29:43Z,occu_choice_pf_2,0.6.1,AskerNC <hms467@econ.ku.dk>,MIT,136479,"Tables for a survey experiment on perceived wage differences and job search, run on Statistics Denmark microdata"
+2026-10-08T11:30:07Z,orangemetabo,0.1.0,Philipp Weller,,37903,MetaboAnalyst-style univariate statistics for GC-MS / GC-IMS feature tables in Orange3
+2026-10-08T11:30:08Z,orangenmr,0.1.0,Philipp Weller,,34622,"NMR Preprocessing Widgets for Orange3 — binning, normalization, baseline correction, filtering, region exclusion, and alignment"
+2026-10-08T11:30:10Z,orangepca,0.1.1,Philipp Weller,,30255,"Chemometrics PCA for Orange3 - preprocessing (autoscale/pareto/center), explained variance on axes, and Hotelling T2/Q-residual outlier diagnostics with filtering."
+2026-10-08T11:30:11Z,orangeplsda,0.1.0,Philipp Weller,,34684,"PLS-DA & OPLS-DA with S-Plot — classification, biomarker discovery, and orthogonal signal correction for Orange3"
+2026-10-08T11:30:17Z,spliceai2,2.0,Kishore Jaganathan,SpliceAI2 Model Terms of Use,40800,A unified framework for quantitative splicing and transcript prediction
+2026-10-08T11:31:04Z,wyle-placing,0.0.1,,,1590,Placeholder. This name is used internally; do not install from PyPI.
+2026-10-08T11:32:38Z,isl-tool,1.1.1,csrrw,,17880,Information Security Lab Tool (ETH Zürich)
+2026-10-08T11:33:54Z,sane-nav,0.2.1,neelabhparui,Apache-2.0,99442,Token-efficient progressive-disclosure semantic code navigation engine and MCP server for AI coding agents
+2026-10-08T11:38:44Z,beaver-box,1.0.0,"""Christian Joyce G. Garcia"" <cjggarcia.dev@gmail.com>",,395198,Turn raw data into ready-to-run SQL.
+2026-10-08T11:39:38Z,pyazrico,0.1.2,Azrideus <gebraengineer@gmail.com>,MIT,14658,Shared utilities used across Azrico Python packages.
+2026-10-08T11:40:53Z,natsmini,2026.10.8,Gunther Klessinger <axgkless@gmail.com>,MIT,5862,"A small core NATS client for gevent: publish, subscribe, queue groups, headers, reconnect"
+2026-10-08T11:41:14Z,nomad-fsspec,0.1.0,nomad-fsspec contributors,MIT,16930,An fsspec filesystem for the public raw data of NOMAD.
+2026-10-08T11:42:43Z,iomate-base,0.1.0a0,IOMate,,75070,Core SDK and runtime contracts for the IOMate ecosystem
+2026-10-08T11:43:42Z,pbfc,1.0.0,Suleiman,MIT,6295,The cross-platform Python to Batch/Shell generator
+2026-10-08T11:44:36Z,testatlasvision,0.1.0,,,37890,"Python SDK for AtlasVision: multilingual (English, Igbo, Yoruba, Hausa) visual question answering on N-ATLaS + SigLIP2."
+2026-10-08T11:46:08Z,gear360-stitcher,0.1.0,Hauke Brunken,GPL-3.0-or-later,147390,Stitch Samsung Gear 360 dual-fisheye photos and videos into equirectangular panoramas using Double Sphere calibrations
+2026-10-08T11:47:30Z,hkjc-bench,0.1.0,,,8579,"Compare your HKJC model with the predictor's best model on the same races, via its model test API"
+2026-10-08T11:49:22Z,ottopilot,0.1.0,arshad2108 <warsiarshad384@gmail.com>,"MIT License Copyright (c) 2026 arshad2108 Permission is hereby granted, free of charge, to any pers…",69663,"OttoAI — a local-first, extensible coding agent (Copilot-CLI style) with Ollama by default and optional cloud providers."
+2026-10-08T11:50:04Z,ebrains-bucket-sync,0.1.0,ehennestad <ehennestad@gmail.com>,MIT,120624,"Sync a local folder to an EBRAINS Data Proxy bucket, sending only new and changed files"
+2026-10-08T11:50:48Z,flyyy-guard,0.1.0,FLYYY,MIT,26922,FLYYY prompt-injection guard: blocks malicious prompts before they reach your LLM.
+2026-10-08T11:50:54Z,yt-dlp-nicocomments,0.1.0,Hiroki Okada <hiroki@hiroki.io>,MIT AND OFL-1.1,52749686,yt-dlp plugin that converts Niconico comments to ASS subtitles
+2026-10-08T11:51:38Z,a13n-claw,0.0.1,Wh1isper,Apache-2.0,17001,Placeholder for a local-first agent runtime built on a13n Harness
+2026-10-08T11:53:24Z,pesto-genetics,0.1.1,Jeremy Guez,MIT,1389580,PESTO: is a gene-phenotype association already known? Prior evidence from the literature and from Open Targets
+2026-10-08T11:53:39Z,harness-hooks,0.1.0,Alexei Pertsev,MIT,13342,"Installs the hooks that a config file lists into Claude Code and Codex, and removes them"
+2026-10-08T11:55:41Z,pyneuronj,1.0,,MIT,617619,2D nerve-fiber tracing with NeuronJ-compatible NDF annotations
+2026-10-08T11:56:17Z,turbine-api,1.0.0,,,46312,Contract-first read API for Turbine Data Products
+2026-10-08T11:56:44Z,reuleaux,0.1.0,Michael Hippke <michaelhippke@gmail.com>,GPL-3.0-or-later,67974,"Exact, backward-stable and fast area of the common overlap of three circles."
+2026-10-08T11:57:39Z,pyTrialmc,2026.10.7,,,27378,Write Minecraft Java Edition mods in Python
+2026-10-08T11:59:50Z,isolab,0.1.0,Daniel Kuboi,MIT,84668,"Deterministic PostgreSQL transaction-isolation anomaly lab (inspired by Designing Data-Intensive Applications, ch. 7)"
+2026-10-08T12:01:49Z,tuxcast,0.1.0,achedon12,MIT,433930,"The toolkit for streaming on Linux: diagnose your setup, convert Elgato Stream Deck profiles, bridge sandboxed apps and split your audio."
+2026-10-08T12:02:04Z,godot-visual-mcp,1.5.0,Kta41,"MIT License Copyright (c) 2026 kta41 Permission is hereby granted, free of charge, to any person ob…",74060,"A secure, offline-first MCP server for Godot asset prototyping."
+2026-10-08T12:05:05Z,agentic-runner-contracts,2.6.0,,AGPL-3.0-only,194629,Activity I/O contracts and Public Metadata name builders shared by the Agentic OS platform and the installable Runner
+2026-10-08T12:05:30Z,agentic-runner,2.6.0,,AGPL-3.0-only,463223,"The Agentic OS Runner: an activity-only Temporal executor for workspaces, Agent Runtimes and verb seams"
+2026-10-08T12:06:59Z,aman-asyncjobs,0.1.1,,,8464,An asyncio-based concurrent job scheduler
+2026-10-08T12:08:05Z,belfort-ml-bucket,2026.10.8.dev0,,,17800,The Belfort models bucket: one bucket client and one object layout
+2026-10-08T12:09:37Z,obook,0.1.0,,MIT,5989459,"Python bindings for the intrepidkarthi/orderbook matching engine, over its C ABI"
+2026-10-08T12:09:57Z,smruti,0.1.0,,Apache-2.0,62222,"A Biologically Inspired, Dual-Valence Cognitive Memory Engine for Autonomous AI Agents"
+2026-10-08T12:10:23Z,belfort-ml-client,2026.10.8.dev0,,,12199639,The Belfort ML client
+2026-10-08T12:11:33Z,abhishekash-mcp-trace,0.1.0,Abhishek Ash <ash.abhishek@gmail.com>,MIT,20854,"MCP server that lets agents query their own OpenTelemetry traces — runs, span trees, slow spans, human-approval logs, token/cost usage."
+2026-10-08T12:11:40Z,belfort-ml,2026.10.8.dev0,,,57357,Belfort ML client for the Belfort CaaS gateway
+2026-10-08T12:12:22Z,mistralai-capabilities-deployment-apps,0.1.22,,Apache-2.0,16073,"The Mistral Apps gateway seam: the caller token the gateway puts on each request, the middleware that catches it, and the host wiring that makes it the credential a caller's Mistral API calls spend."
+2026-10-08T12:15:56Z,iCode-TUI,0.29.1,,Apache-2.0,15026463,A general-purpose extensible agent platform for rapidly building and evolving custom agents.
+2026-10-08T12:16:32Z,tag-keeper,0.1.0,Akiva Miura <akiva.miura@gmail.com>,MIT,270815,"Tag, search and tidy your existing file trees from the outside, without moving a file"
+2026-10-08T12:17:15Z,alphadeep-label,1.0.0,"""AlphaDeep Inc."" <nmilosev@alphadeep.ai>, Kentaro Wada <www.kentaro.wada@gmail.com>",GPL-3.0-only,802333,AlphaDeep Label - Image annotation with Python.
+2026-10-08T12:18:08Z,decima-ai,2.2.0,"""A. M. Madani"" <amyrmahdy1@gmail.com>",Apache-2.0,59313,"Decima — a small, calibrated, multilingual decision model: situation + question + your options → probabilities. CPU-first."
+2026-10-08T12:18:40Z,simulhausen,0.1.0,Ilya Lubenets,Apache-2.0,91715,"Local simulation testing for agno agents: an LLM plays the user, an LLM judge grades the dialogue criterion by criterion."
