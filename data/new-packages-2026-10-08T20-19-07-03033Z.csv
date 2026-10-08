@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T19:22:31Z,pygut,0.0.2,Myles Godfrey <mylesgodfrey17@gmail.com>,MIT,2098,pygame utility package so I don't have to rewrite all my code every project
+2026-10-08T19:22:39Z,integrum,0.1.1,AlphaDeep,MIT,410132,Convert any Python module or library into an MCP server with FastMCP and stateful word-based object management.
+2026-10-08T19:26:32Z,u-transcript-max,0.1.0a2,U-C4N,MIT,476455,"YouTube transcripts, AI translation and downloads for Python, with zero dependencies."
+2026-10-08T19:29:39Z,statoss,0.1.0,StatOSS,MIT,25213,"Error tracking for StatOSS: sentry-sdk with your app's own levels, categories and fields."
+2026-10-08T19:36:20Z,slice-orchestrator,0.5.0,Guilhem Imberton <guilhem.imberton@gmail.com>,MIT,324015,Deterministic control-plane orchestrator for governed vertical slices
+2026-10-08T19:40:02Z,t-ai-apimatic-sdk,0.0.1,Muhammad Rafay,MIT,1123447,Sample SDKs for tAI by APIMatic
+2026-10-08T19:41:08Z,authorix,0.1.0,Alicia Hanes,,3888,Extract Markdown headings as a JSON list
+2026-10-08T19:42:29Z,ssmdstudio,0.1.0,Buchwandler,Apache-2.0,153400,Structured SSMD authoring projects and provider-neutral standalone authoring tools
+2026-10-08T19:47:31Z,prooflab,0.1.0,,MIT,266516,Local reproducible experiment records and offline evidence verification
+2026-10-08T19:49:58Z,when-free,0.4.0,Yauhen Bichel,Apache-2.0,164363,"Which days and times am I free? Reads your calendar feeds and a pasted message, and prints the slots you can offer. Runs on your own machine."
+2026-10-08T19:50:08Z,agentfeedback-cli,0.0.1,,MIT,5505,Official package of AgentFeedback (https://github.com/AgentFeedback/agentfeedback). 0.0.x is a launcher for the agentfeedback binary; the packaged binary follows in a later release.
+2026-10-08T19:51:18Z,ctc-dip,1.0.0rc5,Al Niessner <Al.Niessner@xxx.xxx.gov>,LicenseRef-Proprietary,456677,ROMAN CGI Data Integration Processor (DIP)
+2026-10-08T19:57:51Z,databex,0.1.0,Alicia Hanes,,4067,Convert XML documents into JSON trees
+2026-10-08T20:01:01Z,te-rbs,0.1.0,Alicia Hanes,,8155,30 terminal and TTY utilities for Terminal Emulator - Rift Bend Simulator
+2026-10-08T20:05:18Z,kwker,0.0.1,Kwker <mail@kwker.io>,,2458,Kwker pre-release package stub
+2026-10-08T20:06:07Z,python-opencv2,1.0.0,,MIT,47224,"Offline library of image processing and machine learning lab programs with algorithms, flow charts and ready-to-run Python code"
+2026-10-08T20:06:17Z,cqmon,1.1.0,Sam Pickles <sam@sikasecurity.com>,,14692370,"Watch TCP connection quality for the busiest peers on this machine. IP geolocation by DB-IP (https://db-ip.com), CC-BY-4.0."
+2026-10-08T20:08:15Z,graphs-mporter,0.1.0,,,21002,Graph algorithms package for CS3250 Homework 5
+2026-10-08T20:08:52Z,qclus,0.3.0,Eloi Schmauch,MIT,68214,Droplet filtering for single-nucleus RNA-seq data
+2026-10-08T20:10:05Z,ghost-hands,0.3.0,Ghost Developer Studio,MIT,449324,"Governed agent hands for the web: numbered element maps, classified actions, an approval governor, and a replayable provenance trail."
+2026-10-08T20:10:23Z,collective.blicca.referencelist,1.0.0a1,Maik Derstappen <md@derico.de>,GPL-2.0-or-later,464263,"Aurora Reference List block: picked content items rendered like a listing, with per-variation templates and item templates"
+2026-10-08T20:11:52Z,spinor,0.1.0.dev0,Giuseppe Sorrentino,BSD-3-Clause,3735517,Add your description here
+2026-10-08T20:12:09Z,tdbayes,0.0.0,Aaron Girard <aaron.j.girard@gmail.com>,Apache-2.0,1209,"Placeholder. trans-dimensional Bayesian inversion of surface-wave dispersion and H/V, part of the gabbro family (gabbro-inversion). See https://github.com/gabbro-ca/gabbro-inversion."
+2026-10-08T20:14:21Z,baudrier,0.2.0,,"Baudrier CLI - Proprietary Licence (draft, to be reviewed) Copyright (c) 2026 Jonathan Mondaut. All…",56654,Baudrier CLI: connect projects to your AI coding harness and validate harness repositories
+2026-10-08T20:15:05Z,reqstorm,2.0.1,Melih Colpan <melihcolpan1@gmail.com>,MIT,60719,"Send large numbers of HTTP requests concurrently with asyncio, with retries, timeouts and per-request results."
+2026-10-08T20:16:38Z,meidnet-matter,0.6.1,Anand Babu,MIT,1012758,"MEIDNet Matter: multimodal inverse design for materials discovery, from your materials data to candidate structures"

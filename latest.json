@@ -1,37 +1,43 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-10-08T18:21:42.345391Z",
-    "path": "data/new-packages-2026-10-08T19-19-34-214188Z.csv",
-    "to": "2026-10-08T19:19:34.214188Z"
+    "count": 26,
+    "from": "2026-10-08T19:19:34.214188Z",
+    "path": "data/new-packages-2026-10-08T20-19-07-03033Z.csv",
+    "to": "2026-10-08T20:19:07.03033Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-08T16:25:06Z",
       "package": "Agent-Toolchain",
       "since": "2026-10-08T16:18:38.035368Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-08T16:27:28Z",
       "package": "HistoricalWarDB",
       "since": "2026-10-08T16:18:38.035368Z"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-08T20:17:58Z",
+      "package": "mpiplus",
+      "since": "2026-10-08T19:19:34.214188Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-08T18:07:30Z",
       "package": "shrinkwrap-proxy",
       "since": "2026-10-08T17:21:22.293776Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-08T16:52:15Z",
       "package": "triton-intensity",
       "since": "2026-10-08T16:18:38.035368Z"
     }
   ],
-  "serial": 41986406,
+  "serial": 41988338,
   "source_truncated": false,
-  "window": "2026-10-08T19:19:34.214188Z"
+  "window": "2026-10-08T20:19:07.03033Z"
 }
