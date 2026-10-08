@@ -1,37 +1,19 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-08T12:20:57.278623Z",
-    "path": "data/new-packages-2026-10-08T13-18-38-070105Z.csv",
-    "to": "2026-10-08T13:18:38.070105Z"
+    "count": 46,
+    "from": "2026-10-08T13:18:38.070105Z",
+    "path": "data/new-packages-2026-10-08T14-24-14-218428Z.csv",
+    "to": "2026-10-08T14:24:14.218428Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-08T11:35:56Z",
       "package": "azrico",
       "since": "2026-10-08T11:18:41.661125Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-08T10:02:21Z",
-      "package": "crm-ml-agent",
-      "since": "2026-10-08T09:19:30.638513Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-08T09:38:14Z",
-      "package": "pehchaan",
-      "since": "2026-10-08T09:19:30.638513Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-08T13:06:46Z",
-      "package": "portulong-sistema",
-      "since": "2026-10-08T12:20:57.278623Z"
     }
   ],
-  "serial": 41971991,
+  "serial": 41974513,
   "source_truncated": false,
-  "window": "2026-10-08T13:18:38.070105Z"
+  "window": "2026-10-08T14:24:14.218428Z"
 }

@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T13:06:46Z,portulong-sistema,1.0.3,portulong,,1220600,Linguagem de programação em Português de Portugal para criar páginas web
+2026-10-08T13:18:54Z,accessmgr,0.1.1,Evariste Galois,MIT,31798,"Chargement et distribution securises de credentials (mail, Telegram, KuCoin, DataBento, healthcheck) depuis un fichier JSON externe, sans jamais exposer de secret en clair dans le code."
+2026-10-08T13:21:05Z,blender-custom-drone-sim,0.1.1,,,6211,A Blender-compiled PyBullet drone environment for Diffusion Policies
+2026-10-08T13:22:49Z,lensfy,0.1.0,fabiocax,Apache-2.0,847396,"Gerenciador local de clusters Kubernetes — alternativa open-source ao Lens/OpenLens, no navegador"
+2026-10-08T13:24:02Z,openhorizontal-logging,0.2.0,stalexandros@uth.gr,,3554,"structlog setup shared by the services: JSON lines in a pod, colored output in a terminal"
+2026-10-08T13:24:53Z,ada-pip-geo,0.0.0,STRITZ,Proprietary,721,Name reserved for an internal STRITZ package. Not installable.
+2026-10-08T13:24:54Z,ada-pip-knowledge,0.0.0,STRITZ,Proprietary,732,Name reserved for an internal STRITZ package. Not installable.
+2026-10-08T13:24:55Z,ada-pip-onboarding,0.0.0,STRITZ,Proprietary,732,Name reserved for an internal STRITZ package. Not installable.
+2026-10-08T13:24:56Z,ada-pip-web,0.0.0,STRITZ,Proprietary,720,Name reserved for an internal STRITZ package. Not installable.
+2026-10-08T13:26:16Z,kaddulive-blender-custom-drone-sim,0.1.1,,,12461,A Blender-compiled PyBullet drone environment for Diffusion Policies
+2026-10-08T13:27:26Z,cosmonuts,0.0.1,Rodrigo Calderon,,221709,"Differentiable cosmological inference in JAX: plug-in theories and likelihoods, sampled with BlackJAX"
+2026-10-08T13:29:04Z,mars-ai,0.1.0,,,11548,MARS Command Line Interface
+2026-10-08T13:29:07Z,fizzbuzz-tdd-kata-leonore-j,0.1.0,ls,,3844,Add your description here
+2026-10-08T13:29:24Z,nn-htop,0.1.1,marviecephas <marviecephas@gmail.com>,MIT,714415,"htop for Neural Networks: A terminal UI monitoring PyTorch layers, activations, and gradients in real-time."
+2026-10-08T13:37:07Z,credweave,0.1.0,Ama,MIT,228157,"Provider-agnostic credential pooling, scheduling, rotation and failover for Python."
+2026-10-08T13:40:38Z,itqan-cli,0.1.0rc1,Itqan,MIT,50880,Itqan Quranic Asset Manager: install and pin Itqan Quranic assets in your project.
+2026-10-08T13:41:12Z,agent-engine-sdk-openai-agents,0.11.8,,Apache-2.0,122047,OpenAI Agents SDK adapter for Atlas Agent Engine
+2026-10-08T13:41:15Z,tis-smartbus,0.1.1,TIS Control,Apache-2.0,38397,Async client for the TIS Control SmartBus over an IP gateway
+2026-10-08T13:42:06Z,kikyo-notebook,0.2.0,Nanasi <this.saif.email@gmail.com>,Apache-2.0,1304340,"A reactive, collaborative, git-friendly Python notebook."
+2026-10-08T13:42:27Z,sase-listen,0.1.1,Bryan Bugyi,MIT,1735780,"Turn Markdown into chaptered, loudness-normalized MP3 audio editions for the commute"
+2026-10-08T13:42:38Z,codelattice,0.1.0,smrf1093,MIT,146506,"Code knowledge graph for Claude Code — semantic code search, symbol lookup and dependency analysis that cut token usage"
+2026-10-08T13:43:29Z,groundgate-calibrate,0.1.0,Mohan Raj,Apache-2.0,56365,Measure a judge's thresholds for groundgate on your own documents.
+2026-10-08T13:44:37Z,nblean,0.1.0,Recep Kaan Karaman,MIT,34857,"Token-lean Jupyter notebook access for coding agents: outlines, clipped outputs, lazy images, a persistent kernel."
+2026-10-08T13:47:46Z,SEoFEE,0.1.0,,,9610,
+2026-10-08T13:51:57Z,briskapi,0.2.1,,MIT,281430,"Unofficial Python API, live feed and shared archive for BRiSK auction data"
+2026-10-08T13:52:36Z,pyretort,0.1.0,Ruslan Iskov <ruslan.rv.ua+github@gmail.com>,MIT,626184,Package Python projects into standalone Windows applications with an embedded Python
+2026-10-08T13:52:50Z,minismtpd,0.1,Pēteris Caune <cuu508@monkeyseemonkeydo.lv>,,7038,A minimal SMTP server
+2026-10-08T13:53:45Z,swiftvision-labelling,1.0.0,Your Name,MIT,1000552,Offline image annotation studio — boxes + polygons (YOLO/COCO) with a Roboflow-style UI
+2026-10-08T13:54:14Z,taia-strings,0.0.1,Taia Translations Ltd,,2662,Reserved for an upcoming command-line tool from Taia.
+2026-10-08T13:58:24Z,forgeqe-cli,1.0.0,CLI-Agents,MIT,57967,pip launcher for the ForgeQE browser agent (npm package: @capagents/forgeqe)
+2026-10-08T14:01:51Z,tjamgo,0.1.0,Jamshid Tolibjonov,MIT,3997,Python Web Framework built for learning purposes.
+2026-10-08T14:04:10Z,EstIP-Building-Toolbox,0.1.0,Denis Reiter,EUPL-1.2,91396,This set of tools enriches building footprint data with various additional features.
+2026-10-08T14:06:52Z,vedit-mcp,0.1.0,metiu1,MIT,667654,"Non-linear video editor an AI agent can actually drive (MCP), with a web UI. Timeline -> ffmpeg."
+2026-10-08T14:09:16Z,pkgmate,0.0.1,,,115691,
+2026-10-08T14:09:52Z,otb-airflow-triggers,0.1.dev18,,,12156,Shared Airflow triggers for otb.
+2026-10-08T14:09:57Z,fastb,3.1.0,"""Ian M. Bollinger"" <ian.bollinger@entheome.org>",MIT,61420,"FASTB: 2-bit binary sequence format, a drop-in replacement for gzipped FASTA"
+2026-10-08T14:12:32Z,molecare-privacy-gate,1.0.0,Yauhen Bichel,Apache-2.0,142300,"A very small model that catches health data, credentials and personal data written as ordinary English, which pattern rules cannot see. bge-m3 plus 1024 weights. A second gate that may only ever add…"
+2026-10-08T14:13:26Z,pyambeo,0.1.0,François AIZPURU,MIT,111066,Async client for Sennheiser AMBEO soundbars
+2026-10-08T14:15:23Z,howler-sync-plugin,0.0.2,CCCS,MIT,15622,A howler plugin for syncing hit data
+2026-10-08T14:16:45Z,verigraph,0.1.0,Nathaniel Timmis <nattimmis@gmail.com>,MIT,39395,"A code knowledge graph where every edge is correctness-graded (TRUE/UNKNOWN/FALSE), not just extracted."
+2026-10-08T14:20:29Z,csrf-kit,0.1.0,,MIT,23099,Simple Flask CSRF protection with a Python standard-library token engine.
+2026-10-08T14:21:52Z,bcpipeline,0.1.0,Mazyad Alrashidi,,7695,Binary Classification Pipeline with feature engineering and ensemble methods
+2026-10-08T14:23:15Z,nickpip,0.1.0,Nikhil Gupta,MIT,6458,A Python package that provides algorithm source code as strings.
+2026-10-08T14:23:23Z,shellmate-ai,0.1.0,,,41315,An AI assistant for your zsh command line
+2026-10-08T14:23:56Z,oneport-conformance,0.3.0,OnePort,MIT,67313,Verify AI-written code two ways: intent (judge the diff) and behaviour (drive the running app). The conformance gate for AI code.
+2026-10-08T14:24:00Z,pyschedulekit,0.1.0a3,PyScheduleKit contributors,MIT,217766,"A domain-first Python scheduling framework built to make scheduling semantics explicit, testable, and durable."
