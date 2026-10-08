@@ -1,12 +1,25 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-10-07T22:20:32.722042Z",
-    "path": "data/new-packages-2026-10-07T23-19-21-705869Z.csv",
-    "to": "2026-10-07T23:19:21.705869Z"
+    "count": 34,
+    "from": "2026-10-07T23:19:21.705869Z",
+    "path": "data/new-packages-2026-10-08T00-20-38-85545Z.csv",
+    "to": "2026-10-08T00:20:38.85545Z"
   },
-  "pending": [],
-  "serial": 41947528,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-08T00:01:48Z",
+      "package": "Modkeel",
+      "since": "2026-10-07T23:19:21.705869Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-07T23:58:33Z",
+      "package": "nemo-fabric-adapter-catalog",
+      "since": "2026-10-07T23:19:21.705869Z"
+    }
+  ],
+  "serial": 41948916,
   "source_truncated": false,
-  "window": "2026-10-07T23:19:21.705869Z"
+  "window": "2026-10-08T00:20:38.85545Z"
 }

@@ -8,39 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 23:19 UTC
+## Latest list — 2026-10-08 00:20 UTC
 
-New packages created between 2026-10-07 22:20 UTC and 2026-10-07 23:19 UTC.
+New packages created between 2026-10-07 23:19 UTC and 2026-10-08 00:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-07T23-19-21-705869Z.csv)
+[Full CSV](data/new-packages-2026-10-08T00-20-38-85545Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-07 22:20:36 | [zatom2](https://pypi.org/project/zatom2/) | 1.0.1 | Zatom-AI <mtc49@cam.ac.uk> | 52.8 MB | An atomistic foundation model for molecules and materials. |
-| 2026-10-07 22:20:37 | [zatom-nucleus](https://pypi.org/project/zatom-nucleus/) | 1.0.1 | Zatom-AI <acmwhb@lbl.gov> | 60.5 MB | Shared utilities and training infrastructure for atomistic foundation models. |
-| 2026-10-07 22:20:55 | [enclave42](https://pypi.org/project/enclave42/) | 0.1.0 | Num Lab Tech | 7.9 MB | Enclave42 Python client, including the public Confidential inference facade. |
-| 2026-10-07 22:22:54 | [zrun-py](https://pypi.org/project/zrun-py/) | 0.1.0 | Daniele Linguaglossa | 1.4 MB | Execution for languages built with zgram and zrules: semantics written as Pytho… |
-| 2026-10-07 22:22:56 | [pump-anthropic-radar](https://pypi.org/project/pump-anthropic-radar/) | 0.0.2 | pump.co, Mor Michaeli | 107.8 kB | Anthropic infrastructure FinOps SDK — scan, analyze, and export your Anthropic… |
-| 2026-10-07 22:23:44 | [verbatim-memory](https://pypi.org/project/verbatim-memory/) | 1.0.0 | Verbatim contributors | 4.1 MB | Evidence-first, zero-generation memory engine and Hermes memory provider |
-| 2026-10-07 22:28:50 | [doconda](https://pypi.org/project/doconda/) | 0.1.0 |  | 35.6 kB | Python SDK for Doconda: generate, review and edit Word, PowerPoint, Excel and P… |
-| 2026-10-07 22:29:47 | [tanzil](https://pypi.org/project/tanzil/) | 1.0.0 | Ashraful Islam Tanzil | 19.2 kB | Ashraful Islam Tanzil's interactive Python terminal portfolio |
-| 2026-10-07 22:30:53 | [kynomesh](https://pypi.org/project/kynomesh/) | 0.1.0 |  | 145.8 kB | Kynomesh Python SDK |
-| 2026-10-07 22:31:15 | [krite](https://pypi.org/project/krite/) | 0.1.0 |  | 5.6 MB | Krite decision runtime in process: Protocol v1 answers from Python, no server |
-| 2026-10-07 22:34:11 | [temporalio-langsmith](https://pypi.org/project/temporalio-langsmith/) | 0.1.0 | Temporal Technologies Inc | 427.2 kB | Temporal integration for langsmith |
-| 2026-10-07 22:34:16 | [reflex-hairline](https://pypi.org/project/reflex-hairline/) | 0.1.0 | Ernesto Crespo <ecrespo@gmail… | 75.9 kB | Hairline's twenty-seven isometric line figures that answer the pointer, as Refl… |
-| 2026-10-07 22:36:33 | [bot-guard-py](https://pypi.org/project/bot-guard-py/) | 0.7.0 | bot-guard-py contributors | 80.6 kB | Dependency-free HTTP bot detection and application-layer flood mitigation for P… |
-| 2026-10-07 22:38:20 | [nuke-di](https://pypi.org/project/nuke-di/) | 1.0.0 | Dmitriy Troyan | 18.0 kB | Simplest type-hint based dependency injection for async Python projects |
-| 2026-10-07 22:39:47 | [falcorcomp](https://pypi.org/project/falcorcomp/) | 0.2.0 | Juhyeon Kim | 295.5 MB | GPU rendering for computational imaging, built on NVIDIA Falcor |
-| 2026-10-07 22:40:47 | [living-agents](https://pypi.org/project/living-agents/) | 0.4.11 | Athar Nouman <atharnouman@gma… | 60.5 kB | Living Agents Protocol (LAP) Python reference implementation and MCP server mid… |
-| 2026-10-07 22:42:10 | [odoo-linter](https://pypi.org/project/odoo-linter/) | 0.1.0a1 | bosd | 1.3 MB | Blazing fast Rust-native linter for Odoo modules |
-| 2026-10-07 22:47:32 | [spatialagents](https://pypi.org/project/spatialagents/) | 0.1.0 | Ajit Johnson Nirmal <ajitjohn… | 278.7 kB | The chat harness runtime SCIMAP Pro, Plexora and other BioCognia products share |
-| 2026-10-07 22:48:12 | [distillql](https://pypi.org/project/distillql/) | 0.0.1 | Chris Martin | 2.9 kB | DistillQL: the context layer between your AI agent and your databases, drafted… |
-| 2026-10-07 22:52:41 | [temporalio-strands-agents](https://pypi.org/project/temporalio-strands-agents/) | 0.1.0 | Temporal Technologies Inc | 72.7 kB | Temporal integration for strands agents |
-| 2026-10-07 22:53:34 | [vercel-proxy](https://pypi.org/project/vercel-proxy/) | 0.1.0 |  | 23.3 kB | Proxy routing API for Vercel Python middleware |
-| 2026-10-07 22:53:37 | [speccert](https://pypi.org/project/speccert/) | 1.2.0 | Andrés Monreal-Hernández <and… | 74.0 kB | Checked UV-Vis and IR spectra from ORCA outputs and d-band moments from VASP DO… |
-| 2026-10-07 22:55:17 | [rashomon-py](https://pypi.org/project/rashomon-py/) | 0.2.0 | rashomon-py contributors | 105.7 kB | Does your conclusion survive every equally-good model? Multiplicity audits for… |
-| 2026-10-07 22:58:24 | [lablite-cvd](https://pypi.org/project/lablite-cvd/) | 0.1.0 | Gideon Owusu <gideono@mtu.edu> | 93.2 kB | LabLite-CVD: explainable, tiered-input cardiovascular risk model quantifying th… |
-| 2026-10-07 23:06:12 | [conlanggen](https://pypi.org/project/conlanggen/) | 0.4.2 | Brian McKeen | 170.2 kB | A partial-spec conlang generator: specify what you care about, sample the rest. |
-| 2026-10-07 23:08:31 | [quran-toolkit](https://pypi.org/project/quran-toolkit/) | 0.1.0 | Abbas Safardoost <a.safardous… | 1.5 MB | Detect, tag, tokenize, diacritize and retrieve Qur'anic quotations inside Arabi… |
-| 2026-10-07 23:10:15 | [openecon-charts](https://pypi.org/project/openecon-charts/) | 0.3.0a1 | OpenEconometrics contributors | 909.7 kB | Portable offline charts for Python tables and statistical models |
-| 2026-10-07 23:14:11 | [rootsight](https://pypi.org/project/rootsight/) | 0.1.0 |  | 13.5 MB | An on-call agent, infrastructure designer and SRE assistant for your own system… |
+| 2026-10-07 23:22:26 | [figma-cli](https://pypi.org/project/figma-cli/) | 0.2.0 | imperfect-co | 24.2 kB | Headless Figma CLI for AI coding agents and automated design inspection. |
+| 2026-10-07 23:22:52 | [easyemailverification](https://pypi.org/project/easyemailverification/) | 1.0.0 | Easy Email Verification <supp… | 16.4 kB | Official Python client for the Easy Email Verification API: verify email addres… |
+| 2026-10-07 23:24:47 | [agentic-platform-memory](https://pypi.org/project/agentic-platform-memory/) | 0.0.1 | srj9075 | 3.5 kB | SECURITY RESEARCH PLACEHOLDER — benign, does nothing. Coordinated vulnerability… |
+| 2026-10-07 23:24:48 | [shygraph](https://pypi.org/project/shygraph/) | 0.0.1 | Sam Wolski <samwolski@protonm… | 28.5 kB | Python data visualization built for consistency |
+| 2026-10-07 23:25:24 | [amazon-cart](https://pypi.org/project/amazon-cart/) | 0.1.1 | Andrew Asper | 26.8 kB | Amazon product search and add-to-cart API for Muse. |
+| 2026-10-07 23:27:41 | [markdown-d2](https://pypi.org/project/markdown-d2/) | 0.2.0 | Jacopo Abramo | 11.8 MB | Render D2 diagrams to SVG at build time in Python-Markdown and Zensical sites,… |
+| 2026-10-07 23:33:44 | [hypertabular](https://pypi.org/project/hypertabular/) | 0.7.0 | Brian Buvinghausen | 3.8 MB | Delimited text — CSV, TSV, any single-byte separator — and XLSX/ODS workbooks r… |
+| 2026-10-07 23:34:27 | [agy-mem](https://pypi.org/project/agy-mem/) | 1.0.3 | Abdalrahman Samir <abdalrahma… | 39.1 kB | Autonomous Background Memory Engine, Observation Extractor & Fast Recall System… |
+| 2026-10-07 23:34:59 | [sagebrush-mcp](https://pypi.org/project/sagebrush-mcp/) | 0.6.0 | "SageMath, Inc." <wstein@sage… | 14.5 kB | An MCP server for computational mathematics: number theory, number fields, clas… |
+| 2026-10-07 23:35:02 | [abstract-door](https://pypi.org/project/abstract-door/) | 0.1.0 | putkoff <partners@abstractend… | 11.9 kB | Expose named capabilities on a host through one locked-down SSH key: a forced-c… |
+| 2026-10-07 23:38:46 | [codepbi](https://pypi.org/project/codepbi/) | 0.1.7 | Ryan Thomas | 65.1 kB | Code-first Power BI — define pages/visuals in Python and emit a working PBIP/PB… |
+| 2026-10-07 23:40:50 | [catcert](https://pypi.org/project/catcert/) | 1.2.0 | Andrés Monreal-Hernández <and… | 66.5 kB | Automated Quality-Control, Vacuum Thickness, Dipole Correction, and Surface Ene… |
+| 2026-10-07 23:43:36 | [catalystcoop.pudl-diff](https://pypi.org/project/catalystcoop.pudl-diff/) | 0.1.0 | Catalyst Cooperative <pudl@ca… | 308.1 kB | Compare two sets of PUDL Parquet outputs, and report on what changed. |
+| 2026-10-07 23:44:08 | [fbincon-claude-code-statusline](https://pypi.org/project/fbincon-claude-code-statusline/) | 1.7.4 | fbincon | 8.8 MB | A configurable, stateful Claude Code status line for Linux, Windows and macOS |
+| 2026-10-07 23:48:22 | [posturebot](https://pypi.org/project/posturebot/) | 0.1.2 | Megan Schmidt | 15.7 kB | A tiny 8-bit terminal bot that bobs in a side pane and reminds you to check you… |
+| 2026-10-07 23:50:27 | [seofpy](https://pypi.org/project/seofpy/) | 0.1.0 |  | 3.4 kB |  |
+| 2026-10-07 23:51:06 | [talk2view](https://pypi.org/project/talk2view/) | 0.2.0b1 | A2B Technology Corporation Pt… | 5.5 kB | Talk2View Python SDK — add AI natural-language control to desktop and Python ap… |
+| 2026-10-07 23:51:30 | [remote-pc-mcp](https://pypi.org/project/remote-pc-mcp/) | 0.5.0 | Raghib Murt | 44.7 kB | Expose any PC's capabilities - shell, filesystem, background processes, system… |
+| 2026-10-07 23:55:11 | [modal_metaflow](https://pypi.org/project/modal_metaflow/) | 0.1.0 | Modal Labs | 42.0 kB | A Metaflow plugin for running Flow steps on Modal |
+| 2026-10-07 23:55:22 | [rdsi-1-based-cycle](https://pypi.org/project/rdsi-1-based-cycle/) | 1.0.1 | Bilal El Issaoui <a19dammer91… | 39.0 kB | Representation Domain: 1-based cycle algebra, Diophantine ladder, and clock cas… |
+| 2026-10-07 23:57:01 | [bharatpe-pg](https://pypi.org/project/bharatpe-pg/) | 0.1.0 | AshuXD-X | 59.3 kB | BharatpePG — drop-in BharatPe UPI payments for python-telegram-bot |
+| 2026-10-07 23:57:07 | [openecon](https://pypi.org/project/openecon/) | 0.3.18a3 | OpenEconometrics contributors | 9.0 MB | An open-source Python workspace for reproducible statistics and econometrics |
+| 2026-10-07 23:58:30 | [sahu65](https://pypi.org/project/sahu65/) | 1.0.0 | sahu65 | 139.6 MB | AI-generated image detection: local model or hosted API. NOT proof - see MODEL_… |
+| 2026-10-07 23:59:43 | [darwinagent](https://pypi.org/project/darwinagent/) | 0.1.0 |  | 522.8 kB | Evolution for the Agent Era: experience-driven recursive self-improvement for a… |
+| 2026-10-08 00:00:05 | [devin-backup](https://pypi.org/project/devin-backup/) | 0.1.0 | Icaro0310 | 65.8 kB | Backup and restore Devin Desktop stores safely — snapshots, rotation, integrity… |
+| 2026-10-08 00:00:39 | [aikraft](https://pypi.org/project/aikraft/) | 0.0.1 | aikraft | 12.4 kB | Privacy-first monitoring for LLM apps: sends aggregate metrics to Aikraft, neve… |
+| 2026-10-08 00:06:07 | [ncua-data-analysis](https://pypi.org/project/ncua-data-analysis/) | 0.1.0 |  | 59.9 kB | Clean, documented NCUA call report data for credit union analysis: lending, dep… |
+| 2026-10-08 00:07:21 | [fitzyracing-pydub](https://pypi.org/project/fitzyracing-pydub/) | 0.25.2 | James Robert <jiaaro@gmail.co… | 88.6 kB | Manipulate audio with a simple and easy high level interface (maintained fork o… |
+| 2026-10-08 00:07:22 | [fitzyracing-fs](https://pypi.org/project/fitzyracing-fs/) | 2.4.17 | Will McGugan <will@willmcguga… | 335.2 kB | Python's filesystem abstraction layer (maintained fork of fs / PyFilesystem2 th… |
+| 2026-10-08 00:07:52 | [googletrans-curl](https://pypi.org/project/googletrans-curl/) | 4.0.3 | Klaus Kreier | 35.3 kB | A drop-in replacement for googletrans using curl-cffi to prevent HTTP 429 rate… |
+| 2026-10-08 00:10:15 | [virt-fido2](https://pypi.org/project/virt-fido2/) | 0.1.0 |  | 65.3 kB | A TPM-backed virtual FIDO2 passkey authenticator for Linux |
+| 2026-10-08 00:10:46 | [testscript-lang](https://pypi.org/project/testscript-lang/) | 0.2.0 | Angel Gerardo Molina Valdez | 60.9 kB | A typed, readable testing language for Web and API workflows |
+| 2026-10-08 00:13:51 | [docx-rs-4jy72q](https://pypi.org/project/docx-rs-4jy72q/) | 0.1.0 |  | 20.8 MB | Fast DOCX-to-PDF rendering with a Rust layout engine that matches LibreOffice |
+| 2026-10-08 00:18:24 | [tokenecon](https://pypi.org/project/tokenecon/) | 0.1.0 | Karmendra Pandey | 26.3 kB | Token-economics cost model and tiered model routing for agentic AI workloads |

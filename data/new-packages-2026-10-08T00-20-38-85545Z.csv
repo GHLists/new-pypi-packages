@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-07T23:22:26Z,figma-cli,0.2.0,imperfect-co,MIT,24249,Headless Figma CLI for AI coding agents and automated design inspection.
+2026-10-07T23:22:52Z,easyemailverification,1.0.0,Easy Email Verification <support@easyemailverification.com>,MIT,16390,"Official Python client for the Easy Email Verification API: verify email addresses one by one, in batches of 50 or as bulk lists."
+2026-10-07T23:24:47Z,agentic-platform-memory,0.0.1,srj9075,MIT,3464,"SECURITY RESEARCH PLACEHOLDER — benign, does nothing. Coordinated vulnerability disclosure (dependency-confusion verification) via HackerOne. Not the real package."
+2026-10-07T23:24:48Z,shygraph,0.0.1,Sam Wolski <samwolski@protonmail.com>,,28452,Python data visualization built for consistency
+2026-10-07T23:25:24Z,amazon-cart,0.1.1,Andrew Asper,MIT,26817,Amazon product search and add-to-cart API for Muse.
+2026-10-07T23:27:41Z,markdown-d2,0.2.0,Jacopo Abramo,Apache-2.0,11771753,"Render D2 diagrams to SVG at build time in Python-Markdown and Zensical sites, in light and dark themes."
+2026-10-07T23:33:44Z,hypertabular,0.7.0,Brian Buvinghausen,MIT,3839011,"Delimited text — CSV, TSV, any single-byte separator — and XLSX/ODS workbooks read a batch at a time into typed columns, with a HyperCast verdict for every cell. A PyO3 native extension linking a Rus…"
+2026-10-07T23:34:27Z,agy-mem,1.0.3,Abdalrahman Samir <abdalrahman@cancellls.com>,MIT,39074,"Autonomous Background Memory Engine, Observation Extractor & Fast Recall System for Google Antigravity (agy)"
+2026-10-07T23:34:59Z,sagebrush-mcp,0.6.0,"""SageMath, Inc."" <wstein@sagemath.com>",MIT OR Apache-2.0,14514,"An MCP server for computational mathematics: number theory, number fields, class groups, modular forms, elliptic curves, exact linear algebra and polynomials, with Sage syntax, for AI agents (Sagebru…"
+2026-10-07T23:35:02Z,abstract-door,0.1.0,putkoff <partners@abstractendeavors.com>,Proprietary,11878,"Expose named capabilities on a host through one locked-down SSH key: a forced-command dispatcher with per-key allow-lists and a call log, plus a thin client."
+2026-10-07T23:38:46Z,codepbi,0.1.7,Ryan Thomas,MIT,65056,Code-first Power BI — define pages/visuals in Python and emit a working PBIP/PBIR report; sync a TMDL semantic model from a dbt project.
+2026-10-07T23:40:50Z,catcert,1.2.0,Andrés Monreal-Hernández <andres.monreal@ues.mx>,MIT,66467,"Automated Quality-Control, Vacuum Thickness, Dipole Correction, and Surface Energy Convergence Certification for Heterogeneous Catalysis & DFT Surface Slabs (VASP, Quantum ESPRESSO)"
+2026-10-07T23:43:36Z,catalystcoop.pudl-diff,0.1.0,Catalyst Cooperative <pudl@catalyst.coop>,MIT,308093,"Compare two sets of PUDL Parquet outputs, and report on what changed."
+2026-10-07T23:44:08Z,fbincon-claude-code-statusline,1.7.4,fbincon,MIT,8764056,"A configurable, stateful Claude Code status line for Linux, Windows and macOS"
+2026-10-07T23:48:22Z,posturebot,0.1.2,Megan Schmidt,MIT,15659,A tiny 8-bit terminal bot that bobs in a side pane and reminds you to check your posture.
+2026-10-07T23:50:27Z,seofpy,0.1.0,,,3364,
+2026-10-07T23:51:06Z,talk2view,0.2.0b1,A2B Technology Corporation Pty Ltd,Copyright (c) 2026 A2B Technology Corporation Pty Ltd. All rights reserved. This software is propri…,5529,Talk2View Python SDK — add AI natural-language control to desktop and Python apps (beta).
+2026-10-07T23:51:30Z,remote-pc-mcp,0.5.0,Raghib Murt,"MIT License Copyright (c) 2026 Raghib Murt Permission is hereby granted, free of charge, to any per…",44657,"Expose any PC's capabilities - shell, filesystem, background processes, system stats, screenshots, UI control, and file transfer - to any MCP client over streamable HTTP."
+2026-10-07T23:55:11Z,modal_metaflow,0.1.0,Modal Labs,MIT,42047,A Metaflow plugin for running Flow steps on Modal
+2026-10-07T23:55:22Z,rdsi-1-based-cycle,1.0.1,Bilal El Issaoui <a19dammer91@users.noreply.github.com>,CC-BY-NC-SA-4.0,39025,"Representation Domain: 1-based cycle algebra, Diophantine ladder, and clock cascade."
+2026-10-07T23:57:01Z,bharatpe-pg,0.1.0,AshuXD-X,MIT,59336,BharatpePG — drop-in BharatPe UPI payments for python-telegram-bot
+2026-10-07T23:57:07Z,openecon,0.3.18a3,OpenEconometrics contributors,Apache-2.0,8981442,An open-source Python workspace for reproducible statistics and econometrics
+2026-10-07T23:58:30Z,sahu65,1.0.0,sahu65,MIT (code); CC-BY-NC-3.0 (bundled model weights) - see LICENSE,139637404,AI-generated image detection: local model or hosted API. NOT proof - see MODEL_CARD.md.
+2026-10-07T23:59:43Z,darwinagent,0.1.0,,MIT,522826,Evolution for the Agent Era: experience-driven recursive self-improvement for agents
+2026-10-08T00:00:05Z,devin-backup,0.1.0,Icaro0310,MIT,65792,"Backup and restore Devin Desktop stores safely — snapshots, rotation, integrity checks."
+2026-10-08T00:00:39Z,aikraft,0.0.1,aikraft,Apache-2.0,12361,"Privacy-first monitoring for LLM apps: sends aggregate metrics to Aikraft, never prompts or responses."
+2026-10-08T00:06:07Z,ncua-data-analysis,0.1.0,,,59887,"Clean, documented NCUA call report data for credit union analysis: lending, deposits and operations"
+2026-10-08T00:07:21Z,fitzyracing-pydub,0.25.2,James Robert <jiaaro@gmail.com>,MIT,88609,Manipulate audio with a simple and easy high level interface (maintained fork of pydub that works on Python 3.13+)
+2026-10-08T00:07:22Z,fitzyracing-fs,2.4.17,Will McGugan <will@willmcgugan.com>,MIT,335214,Python's filesystem abstraction layer (maintained fork of fs / PyFilesystem2 that imports without pkg_resources)
+2026-10-08T00:07:52Z,googletrans-curl,4.0.3,Klaus Kreier,,35337,A drop-in replacement for googletrans using curl-cffi to prevent HTTP 429 rate limits
+2026-10-08T00:10:15Z,virt-fido2,0.1.0,,,65350,A TPM-backed virtual FIDO2 passkey authenticator for Linux
+2026-10-08T00:10:46Z,testscript-lang,0.2.0,Angel Gerardo Molina Valdez,MIT,60942,"A typed, readable testing language for Web and API workflows"
+2026-10-08T00:13:51Z,docx-rs-4jy72q,0.1.0,,Proprietary,20766399,Fast DOCX-to-PDF rendering with a Rust layout engine that matches LibreOffice
+2026-10-08T00:18:24Z,tokenecon,0.1.0,Karmendra Pandey,MIT,26307,Token-economics cost model and tiered model routing for agentic AI workloads
