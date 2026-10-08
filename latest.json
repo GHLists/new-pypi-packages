@@ -1,43 +1,25 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-10-08T19:19:34.214188Z",
-    "path": "data/new-packages-2026-10-08T20-19-07-03033Z.csv",
-    "to": "2026-10-08T20:19:07.03033Z"
+    "count": 58,
+    "from": "2026-10-08T20:19:07.03033Z",
+    "path": "data/new-packages-2026-10-08T21-19-34-486381Z.csv",
+    "to": "2026-10-08T21:19:34.486381Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-08T16:25:06Z",
-      "package": "Agent-Toolchain",
-      "since": "2026-10-08T16:18:38.035368Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-08T16:27:28Z",
-      "package": "HistoricalWarDB",
-      "since": "2026-10-08T16:18:38.035368Z"
-    },
-    {
       "attempts": 1,
-      "created_at": "2026-10-08T20:17:58Z",
-      "package": "mpiplus",
-      "since": "2026-10-08T19:19:34.214188Z"
+      "created_at": "2026-10-08T20:55:05Z",
+      "package": "django-postgres-denormalize",
+      "since": "2026-10-08T20:19:07.03033Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-08T18:07:30Z",
       "package": "shrinkwrap-proxy",
       "since": "2026-10-08T17:21:22.293776Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-08T16:52:15Z",
-      "package": "triton-intensity",
-      "since": "2026-10-08T16:18:38.035368Z"
     }
   ],
-  "serial": 41988338,
+  "serial": 41990344,
   "source_truncated": false,
-  "window": "2026-10-08T20:19:07.03033Z"
+  "window": "2026-10-08T21:19:34.486381Z"
 }

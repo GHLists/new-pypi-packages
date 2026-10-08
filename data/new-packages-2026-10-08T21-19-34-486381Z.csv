@@ -1,0 +1,59 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T20:17:58Z,mpiplus,0.0.3,Chodera Lab,MIT,45010,
+2026-10-08T20:19:49Z,yemale,0.1.0a2,Eugene Ndiaye <yemaledev@gmail.com>,Apache-2.0,122170,Multivariate conformal prediction and predictive distributions via optimal transport
+2026-10-08T20:21:28Z,anker-ble-emulator,0.2.0,Shawn Stricker <github@kb1ibt.com>,MIT,417718,Emulated Anker Solix BLE devices for testing BLE clients through bleak
+2026-10-08T20:25:58Z,portfolio-risk-lab,0.1.0,Garros Gong,"MIT License Copyright (c) 2026 Garros Gong Permission is hereby granted, free of charge, to any per…",34993,Portfolio rebalancing and uncertainty-aware risk budgeting for decision support
+2026-10-08T20:26:17Z,raftmover,0.1.0,,Apache-2.0,93940,Fail-closed handoff of closed SQLite chat databases between Linux machines
+2026-10-08T20:26:28Z,pynarchy,0.1.0,,MPL-2.0,8593,A Python module for pseudo-random generation.
+2026-10-08T20:26:28Z,stats-project-analyzer,0.2.0,,MIT,10725,Analyze programming projects
+2026-10-08T20:26:59Z,kafka-roller,99.0.6,am1thc,Apache-2.0,2829,"Reserved for Tesla, Inc. — dependency-confusion security research artifact (Bugcrowd). No functional tooling included."
+2026-10-08T20:28:13Z,breakreach,0.1.0,Breakreach,MIT,39708,"Official Python SDK for Breakreach: schedule and publish social media posts to Instagram, TikTok, X, LinkedIn, YouTube, Facebook, Threads, Pinterest, Bluesky, Reddit and 9 more networks with one API."
+2026-10-08T20:29:07Z,dnss-network-tools,0.1.0,,,17947,Linux Wi-Fi hotspot sharing and network resilience command-line tools
+2026-10-08T20:30:39Z,puba,1.0.0,Griffin McManus,MIT,10229,Safe Python package release CLI
+2026-10-08T20:32:20Z,gem12-screen,0.1.0,,0BSD,1181752,AOOSTAR GEM12 screen controller
+2026-10-08T20:33:27Z,llmonize,0.0.1,,,1870,LLMON
+2026-10-08T20:34:30Z,llmon-core,0.0.1,,,1892,LLMON
+2026-10-08T20:35:04Z,wifi-hotspot,0.1.0,,,17869,Linux Wi-Fi hotspot sharing and network resilience command-line tools
+2026-10-08T20:36:08Z,outboxstack,0.1.0,Outbox Stack <support@outboxstack.app>,MIT,23791,"Outbox Stack email SDK for Python: send, track and verify webhooks"
+2026-10-08T20:37:27Z,modbus-devices,1.0.0,AlmCoding <your.email@example.com>,,14839,A Python library for controlling Modbus devices made by AlmDevices.
+2026-10-08T20:39:26Z,sunsightenergy,0.3.0,Sunsight Energy <support@sunsightenergy.com>,MIT,54435,Python client for the Sunsight Energy data API
+2026-10-08T20:39:36Z,neuralops,1.1.1,Taha Majlesi <tahamaj4@gmail.com>,"MIT License Copyright (c) 2026 Taha Majlesi Permission is hereby granted, free of charge, to any pe…",3624673,"A Production-Grade Framework for Subquadratic Attention, Model Compression, and Hardware-Aware Transformer Optimization"
+2026-10-08T20:39:44Z,lgnd-geo-sdk,0.1.0,LGND <david@lgnd.ai>,Apache-2.0,18406,The Python SDK for LGND Geo: its tools for AI agents and your own code
+2026-10-08T20:39:54Z,deepkit-ml,0.1.0,,,6984,A machine learning library implemented from scratch
+2026-10-08T20:40:14Z,tabforge-ml,2026.10.8,Xiangjian Jiang <silencejiang12138@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",3177466,"Tabular foundation model for generation, prediction, imputation, representations, clustering, and anomaly detection."
+2026-10-08T20:41:44Z,kafka-helmsman,99.0.6,am1thc,Apache-2.0,2838,"Reserved for Tesla, Inc. — dependency-confusion security research artifact (Bugcrowd). No functional tooling included."
+2026-10-08T20:45:01Z,pixelcue,0.8.7,,MIT,659463,Local visual-media tagging and search with selectable vision-language models and a REST service. https://kieransimkin.co.uk/
+2026-10-08T20:45:36Z,ransomtriage,0.3.0,Douglas Weant <doug@douglasweant.com>,MIT,97349,"Offline, privacy-preserving first-hour ransomware triage: identify the family, extract IOCs, find free decryptors. Nothing is uploaded."
+2026-10-08T20:45:49Z,nrel-pysam-legacy,4.2.0.post1,,BSD-3-Clause,37950741,"Unofficial Python 3.14 rebuild of NREL-PySAM 4.2.0, retaining SSC 280"
+2026-10-08T20:46:57Z,provared,0.2.0,Pavel Izmaylov,Apache-2.0 AND CC-BY-4.0,292271,"Proof of what an AI agent was allowed to do, and what it then did. Evidence, not a verdict."
+2026-10-08T20:47:36Z,stagepipe,0.0.2,Rafael Borja,Apache-2.0,37033,"Staged pipelines for blocking Python code: per-stage thread workers, no stage barrier, ordered stages, bounded in-flight. Standard library only."
+2026-10-08T20:48:14Z,grokesplib,2.5.0,,MIT,112701,"Student-friendly ESP32 MicroPython drivers for sensors, displays, servos, keypads, and RTCs"
+2026-10-08T20:49:26Z,grabset,0.0.1,Abubakar Abid <abubakar@huggingface.co>,,4050,Search individual samples inside Hugging Face datasets and grab them into a new dataset
+2026-10-08T20:50:33Z,johpaz-hive-db,0.7.0,John Paez,Apache-2.0,37171386,"HiveDB: base de memoria embebida para agentes de IA (registro de eventos, colecciones, búsqueda híbrida texto + vectores). Motor en Rust."
+2026-10-08T20:50:48Z,johpaz-langchain-hivedb,0.1.0,John Paez,Apache-2.0,22935,"Adaptadores de LangChain y LangGraph para HiveDB: VectorStore, historial de chat y BaseStore de memoria a largo plazo."
+2026-10-08T20:52:47Z,implicit-ai,1.0.0,,Apache-2.0,195330,The experience layer for AI agents: versioned environments and selective state materialization
+2026-10-08T20:57:45Z,hackscan,0.1.0,,MIT,214805,"Python SAST orchestrator: own AST + taint engine, imports Semgrep/Bandit/CodeQL/Gitleaks, dedupes, emits SARIF."
+2026-10-08T20:57:57Z,grabhub,0.0.1,Abubakar Abid <abubakar@huggingface.co>,MIT,4048,Alias for grabset: search individual samples inside Hugging Face datasets
+2026-10-08T21:01:03Z,LightPFN,1.0.0,Giorgio Ottoboni <247403232+GioOtto@users.noreply.github.com>,Apache-2.0,112261,"A 4.6M-parameter tabular classifier pretrained only on synthetic data, with a scikit-learn API and CPU, CUDA/ROCm and Vulkan inference"
+2026-10-08T21:04:41Z,keywordmoves,0.4.2,Kieran Simkin,MIT,734259,"Source-specific keyword research, demand monitoring and reviewed evidence imports for DanceFlow. https://kieransimkin.co.uk/"
+2026-10-08T21:05:10Z,veyl-enterprise,0.0.0,Veyl Ltd,LicenseRef-Proprietary,4008,Placeholder. Veyl Enterprise is distributed privately to licence holders.
+2026-10-08T21:05:43Z,ophix-tasks,2026.10.8.1,Ophix Project,MIT,103549,Task Scheduling domain plugin for Ophix Project Servers
+2026-10-08T21:06:26Z,ophix-task-client,2026.10.4.1,Ophix Project,MIT,14699,Task Scheduling Tier 1 client for Ophix Project Servers
+2026-10-08T21:07:02Z,ophix-task-crontab,2026.10.4.1,Ophix Project,MIT,37575,Crontab Tier 2 client for ophix-tasks â€” applies task schedules to /etc/cron.d
+2026-10-08T21:07:50Z,px-stat,0.1.0,,LicenseRef-PxStat-Local-Use,68147,Offline statistics practical-code expansion for Python IDLE Editors
+2026-10-08T21:07:57Z,ophix-task-systemd,2026.10.4.1,Ophix Project,MIT,36978,systemd timer Tier 2 client for ophix-tasks â€” applies task schedules as systemd unit files
+2026-10-08T21:09:25Z,brief-spec,0.5.0,Luan Moreno Maciel,"MIT License Copyright (c) 2026 Luan Moreno Maciel Permission is hereby granted, free of charge, to…",233949,"Type-aware, evidence-backed delivery contracts for AI coding harnesses."
+2026-10-08T21:10:38Z,brief-spec-renderer-audio,0.5.0,Luan Moreno Maciel,MIT,9222,Verified local macOS and opt-in OpenAI audio rendering for Brief-Spec.
+2026-10-08T21:11:27Z,brief-spec-renderer-pdf,0.5.0,Luan Moreno Maciel,MIT,9243,Verified Playwright PDF rendering for Brief-Spec deliveries.
+2026-10-08T21:11:29Z,factframe,0.1.0,,Apache-2.0,1875207,"PDF, docx and xlsx to markdown with a stable id on every block, table row and figure, and provenance back to the page. Ships a local MCP server."
+2026-10-08T21:12:00Z,factframe-mcp,0.1.0,,Apache-2.0,3798,"Local MCP server that turns folders of PDF, docx and xlsx files into citable markdown. Runs entirely on your machine."
+2026-10-08T21:12:39Z,aberrant-expression,0.1.0,"Jun Cheng, Muhammed Hasan Çelik, Nils Wagner",MIT,3640618,"Utilities, Enformer, MMSplice, AbSplice-DNA, SpliceAI-RocksDB, Pangolin and AbSplice2-DNA for the AbExp pipeline"
+2026-10-08T21:13:46Z,manalens,0.0.1rc1,Felton Vaughn,,28828,A modern Python client for the Scryfall API
+2026-10-08T21:14:33Z,plot3,0.4.0,Rigoberto Leyva Salmeron,MIT,680189,"ggplot2 grammar of graphics for Python: interactive WebGL figures and journal-ready PNG, SVG, and PDF"
+2026-10-08T21:15:09Z,browser-workspace,0.4.3,,,664423,"Agent browser workspace with persistent Python sessions, tab leasing, snapshots, and platform workflows."
+2026-10-08T21:16:24Z,elmo-sdk,0.1.0,,MIT,196791,Python SDK for the Elmo API
+2026-10-08T21:16:59Z,operation-security,1.0.0,,,2903,Best Opsec Ever!
+2026-10-08T21:17:02Z,pvcopilot,0.1.0,Anubhav Jain,BSD-2-Clause,33602300,"PV-Copilot: LLM-assisted, end-to-end PV degradation-rate analysis (Python API + local web UI)"
+2026-10-08T21:17:17Z,oteltap,1.0.0,OtelTap,MIT,8862917,"Embeddable OTLP receiver (http/protobuf format). Listens to all the telemetry on a given HTTP port, then allows you to stream it and await/assert it in tests. Optionally re-emits it to given endpoint…"
+2026-10-08T21:17:40Z,dekit-cli,0.10.1,Pavel Volokitin <pavelvolokitin@gmail.com>,MIT,10916920,Process manager for dev and prod
+2026-10-08T21:19:27Z,audio-bed-check,0.1.0,,MIT,85315,"Check an audio bed for loops and level steps, and a voiceover mix for speech-over-bed separation."
