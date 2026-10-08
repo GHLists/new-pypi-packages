@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T03:25:25Z,bangla-ai-sdk,0.1.0,Jayed <jayedbinjahangir@gmail.com>,MIT,51468,"Official Python SDK for the Bangla AI Gateway (LLM, OCR, ASR, TTS, STS)."
+2026-10-08T03:27:14Z,roclint,0.0.1,Roclint Core Team,Apache-2.0,11284,The Rock-Solid Intent Linter for AI Coding Agents.
+2026-10-08T03:28:30Z,odoo-addon-l10n-ro-pos-retail,19.0.1.0.0.3,"NextERP Romania,Odoo Community Association (OCA)",AGPL-3,26935,Romania - A till sells on the fiscal position and the shelf prices of the shop it is attached to
+2026-10-08T03:30:27Z,conpact,0.1.0,Zhiqi Wang,MIT,32280,Does a side constraint survive context compaction? The COMPINT benchmark from 'Lost in Compaction'.
+2026-10-08T03:30:56Z,witbitz-code,1.2.0,Witbitz,MIT,326668,"Reach OpenCode on this computer from the Witbitz Spaces Code section, through an end-to-end sealed relay."
+2026-10-08T03:32:24Z,semantic-python,0.1.0a1,Sai Ritesh Thela,MIT,1554047,Experimental semantic values for Python
+2026-10-08T03:37:57Z,talocode-loop,0.1.0,Talocode <hello@talocode.site>,MIT,8741,"The Talocode loop for agents: search a source, verify a claim against it, trace the run, and remember the receipt. CLI and SDK for the same local loop."
+2026-10-08T03:38:34Z,brickagent,0.1.0,Peter Kulits,MIT,1174164,Programmatic LEGO design
+2026-10-08T03:42:09Z,myscent,0.1.0,jeffchen1995 <10977437+jeffchen1995@user.noreply.gitee.com>,MIT,25558,图像 -> 10种香料配比，CLIP零样本分类的轻量香调视觉识别库
+2026-10-08T03:44:16Z,graphql-codegen,0.1.2,Thibault Derousseaux,MIT,93477,"Turn a GraphQL schema and your operations into a typed Python client with no imposed transport, no validation overhead, and no runtime dependencies"
+2026-10-08T03:46:13Z,mic-50-90,1.0.0,Maciej Kochanowski <maciej.kochanowski@piwet.pulawy.pl>,MIT,7376855,Distribution bounds and reporting tools for incomplete MIC data
+2026-10-08T03:48:18Z,jevgraph,0.2.0a1,JEVGRAPH contributors,MIT,127073,"Browser capture, workspace search, and reusable evidence graphs."
+2026-10-08T03:50:27Z,tensErr,0.4.2,,BSD-3-Clause,34125,tensErr computes uncertainties for tensor-valued Markov chain Monte Carlo ensembles using the gamma method.
+2026-10-08T03:53:11Z,resumeme,0.0.3,Emma Doyle,GPL-3.0-only,7599339,"Turn your LinkedIn profile into a polished PDF resume, built and signed with GitHub Actions"
+2026-10-08T03:54:03Z,ytapi-sdk,0.1.0,YTAPI,MIT,27940,"Python client for YTAPI: YouTube transcripts, video details, search, channels and playlists."
+2026-10-08T03:54:38Z,cognitive-fabric,0.1.0,Jim Cuttler <jimcuttler@gmail.com>,Apache-2.0,387066,"Cognitive Fabric: unified Python MCP server for a KuzuDB graph memory bank with symbolic ingestion, semantic search, and distillation"
+2026-10-08T03:55:19Z,enigmata-sentinel-gateway,0.0.0a0,"Enigmata, Inc.",,923,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-08T03:56:06Z,cipher-tokenizer,0.0.0a0,"Enigmata, Inc.",,917,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-08T03:56:08Z,enigmata-cipher,0.0.0a0,"Enigmata, Inc.",,912,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-08T03:56:09Z,enigmata-cipher-tokenizer,0.0.0a0,"Enigmata, Inc.",,923,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-08T03:56:22Z,cfpb-complaints-analysis,0.1.1,,MIT,31149,CFPB Consumer Complaint Database as clean Parquet plus an MCP server: 18M complaints and 3.85M archived narratives
+2026-10-08T04:00:34Z,shopee-skynet-re-mcp,0.0.0,sc,BSD License,2466,A small example package
+2026-10-08T04:03:21Z,abhijan,0.1.14,,,6766,CLI tool to scaffold FastAPI projects
+2026-10-08T04:05:42Z,SureshotSDK,0.0.1,Sureshot Capital,LicenseRef-Proprietary,3595,"Reserved name for the Sureshot Capital trading SDK, which is distributed privately to clients"
+2026-10-08T04:05:50Z,lumoauth,1.0.0,,Apache-2.0,125607,Python SDK for LumoAuth Agent authentication and capability management
+2026-10-08T04:06:22Z,keygrant,0.1.0,,Apache-2.0,32847,Per-command secret injection for AI coding agents — values never enter model context
+2026-10-08T04:07:17Z,scripthaul,0.2.0,ScriptHaul <support@scripthaul.com>,MIT,34270,Thin Python client for the ScriptHaul transcript API
+2026-10-08T04:13:33Z,tungsten-mcp,0.1.0,Prism Infoways,MIT,56821,Tungsten plugin: an MCP server so AI assistants like Claude can read and change your admin panel's data.
+2026-10-08T04:14:07Z,ventri,0.0.1,,MIT,1889,"Ventri: a structured-concurrency, transactional plugin kernel for AI agents (placeholder, under active development)."
+2026-10-08T04:14:09Z,ventri-agent,0.0.1,,MIT,1938,"Ventri Agent: a DeepSeek-first personal agent built on the Ventri kernel (placeholder, under active development)."
+2026-10-08T04:14:49Z,autop-runner,0.1.0,,Autop Runner — proprietary licence Copyright (c) 2026 Autop. All rights reserved. This software is…,333695,ATC runner: executes Autopilot flows on the customer's machine with the customer's own coding-agent CLI.
+2026-10-08T04:16:56Z,transilience-cli,0.1.0,,,144747,Command-line access to Transilience product capabilities
