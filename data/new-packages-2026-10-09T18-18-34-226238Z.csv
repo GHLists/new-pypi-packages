@@ -1,0 +1,65 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T17:20:59Z,blendie,1.1.0,Shoma Yamanouchi <shoma.yamanouchi@ec.gc.ca>,MIT,18531,Python script for blending stability classes used in Gaussian Dispersion Models
+2026-10-09T17:21:39Z,pyferro,0.5.6,Alex Titoff <a.tit.off@gmail.com>,MIT,414484,High-performance reactive fullstack Python framework on Rust RSGI (Granian) with symmetric WSRPC (JSON-RPC 2.0) and Tabular Data Compression.
+2026-10-09T17:25:26Z,pywsl2,0.1.0,"""Michael K. Steinberg"" <m.kuper.steinberg@gmail.com>",MIT,172655,Python interface for controlling WSL distributions and processes through the Windows WSL API (wslapi.h).
+2026-10-09T17:25:43Z,antplus-recorder,0.3.0,Martin Mahner <martin@mahner.org>,MIT,67074,"Record and display every ANT+ sensor in range: power meters, smart trainers and heart rate straps"
+2026-10-09T17:26:14Z,lerobot-teleoperator-openarm-ker,0.1.1,Lakshya Singh Panwar <11391474+iAmLakshya@users.noreply.github.com>,Apache-2.0,28396,LeRobot teleoperator for the OpenArm KER leader arm
+2026-10-09T17:26:23Z,water-ogcapi,0.1.0rc1,Taher Chegini <cheginit@gmail.com>,MIT,207794,An async-first Python client for USGS water data services over OGC API Features.
+2026-10-09T17:27:01Z,tokenwatt-check,0.1.0,TokenWatt <hello@tokenwatt.io>,MIT,30744,"Check whether the GPU you rented performs like it should: power cap, clocks under load, compute, memory bandwidth, PCIe, disk and network."
+2026-10-09T17:27:45Z,medmlx-core,0.1.3,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,266228,Shared MLX runtime for MedMLX model packages
+2026-10-09T17:27:50Z,ssatk-data-benchmarks,0.0.1,,"MIT License Copyright (c) 2018, Lawrence Livermore National Security, LLC Permission is hereby gran…",4607372,Core data resources for SSAPy
+2026-10-09T17:30:53Z,livery-extensions-changelog,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2867,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:31:02Z,ssatk-data-lunar-gravity,0.0.1,,"MIT License Copyright (c) 2018, Lawrence Livermore National Security, LLC Permission is hereby gran…",60839919,Lunar gravity data resources
+2026-10-09T17:31:17Z,ssatk-data-propulsion,0.0.1,,"MIT License Copyright (c) 2018, Lawrence Livermore National Security, LLC Permission is hereby gran…",1194305,Core data resources
+2026-10-09T17:32:06Z,grc-lake,0.3.0,Mohamed Saad,Apache-2.0,6536054,"Open-source, self-hosted trust operations: read-only evidence collection, deterministic control tests, and reproducible assessment exports via API, CLI, and MCP."
+2026-10-09T17:32:36Z,pydantic-ai-loopgrid,0.1.0,LoopGrid contributors,Apache-2.0,48835,"Native Pydantic AI capability for signed, verifiable consequential agent action evidence"
+2026-10-09T17:36:28Z,feudal,0.0.1,icecx,Apache-2.0,112585,"Medieval manor economy, famine, trade and war simulation for research"
+2026-10-09T17:37:00Z,inflammation-prediction-risk-models,0.1.1,Rakesh Ramakrishna Pai,Apache-2.0,69364,Early prediction of inflammation onset from ICU time series (XGBoost + GRU) with a synthetic-data pipeline.
+2026-10-09T17:37:11Z,hotword,0.0.0,Ali Tavallaie,,2149,Add your description here
+2026-10-09T17:39:12Z,wpguard,0.3.0,Arian Omrani,MIT,162836,"Scan, clean, harden, back up and monitor hacked WordPress sites with wp-cli"
+2026-10-09T17:41:16Z,deltanet-tpu,0.1.0,maelie-labs,Apache-2.0,84907,"Pallas TPU kernels for training and inference of Gated DeltaNet, GDN-2, Kimi Delta Attention and other delta-rule linear attention layers in JAX"
+2026-10-09T17:42:04Z,cimoxide-mcp,0.5.0,,Apache-2.0,24342526,"cimmcp: an MCP server that lets an LLM chat look up, validate and query ENTSO-E CGMES and NC models"
+2026-10-09T17:42:14Z,kaddulive-blender-sim-env,0.1.1,,,9146,A Blender-compiled PyBullet drone environment for Diffusion Policies
+2026-10-09T17:43:20Z,livery-extensions-claude,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2844,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:43:20Z,livery-extensions-python,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2845,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:43:23Z,livery-extensions-cmake,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2838,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:44:25Z,headroomhq,0.1.3,,MIT,139338055,"Self-hosted dashboard for all your AI plans. Track limits, resets and spend across Claude, Codex, Cursor, Copilot, Grok and more."
+2026-10-09T17:45:04Z,varistor,0.0.1,Artem Pospeev <pospeev.artem@icloud.com>,MIT,3995,"Composable resilience policies for Python: circuit breaker, smart retries, timeouts, bulkheads and fallbacks for sync and async code."
+2026-10-09T17:45:33Z,livery-extensions-conan,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2839,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:45:36Z,livery-extensions-cpp,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2825,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:45:37Z,livery-extensions-nanobind,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2861,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:47:15Z,duva-django,0.1.0,9573-4562 Québec inc.,MIT,18310,"Django email backend for Duva, the transactional email API hosted in Canada."
+2026-10-09T17:47:18Z,livery-extensions-unreal,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2841,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:47:20Z,livery-extensions-mkdocstrings,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2890,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:47:21Z,searxNcrawl,0.31.0,DDM – Das Digitale Momentum GmbH & Co KG,MIT,95149,"searxNcrawl web crawler with markdown extraction - no DB, no enrichment, just crawling."
+2026-10-09T17:47:23Z,livery-extensions-docs,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2831,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:48:31Z,craq,0.0.1,Noah Cooper,MIT,4060,Image analysis utilities for coating micrographs (in development)
+2026-10-09T17:48:32Z,craquelure,0.0.1,Noah Cooper,MIT,4154,Image analysis utilities for coating micrographs (in development)
+2026-10-09T17:48:39Z,ilmplot,0.1.0,Luojia Jiang,Apache-2.0,155213,"Save matplotlib figures as editable, reflowable *.ilmplot.svg documents for ILM"
+2026-10-09T17:49:42Z,ch-migrate-cli,0.5.0,Dan Young,MIT,195964,SQL-first ClickHouse schema migrations across environments: the ch-migrate command
+2026-10-09T17:51:55Z,livery-extensions-doxygen,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2852,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:51:57Z,livery-extensions-housekeeping,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2889,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:51:59Z,livery-extensions-coverage,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2863,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:52:50Z,livery-lodge,0.0.0.dev0,Willem Kokke <mail@willem.net>,MIT,2755,Holds this name for a package of the livery workshop until its first release replaces this placeholder.
+2026-10-09T17:53:18Z,cil-krl,0.3.1,"Sam Porter <sam.porter.18@ucl.ac.uk>, Kjell Erlandsson <k.erlandsson@ucl.ac.uk>","MIT License Copyright (c) 2026 Sam Porter Permission is hereby granted, free of charge, to any pers…",99548,"Kernelised Richardson-Lucy deconvolution for PET with anatomical guidance, built as a CIL plugin"
+2026-10-09T17:54:14Z,krenzo,0.1.0,,MIT,18917,"Search and extract API for LLM agents — clean, token-efficient web context."
+2026-10-09T17:54:55Z,let-them-talk,0.1.0,Abdullah KAVAKLI,Apache-2.0,462391,"A visual board for your Claude Code agents: see sessions, subagents and background agents as cards, and draw arrows so they talk to each other."
+2026-10-09T17:56:38Z,autoassembler,0.3.1,C-Infinity <info@c-infinity.ai>,MIT,319053,Autoassembler Python SDK for AI Process Planning
+2026-10-09T17:59:53Z,rungated,0.10.0,Rungated,Apache-2.0,29425,Python SDK for the Rungated runtime AI agent firewall
+2026-10-09T18:00:08Z,devin-switch,0.1.0,Icaro0310,MIT,70547,"Switch between Devin configuration profiles (hooks, MCP, models) with snapshot and verification."
+2026-10-09T18:00:17Z,lingotweaker-data-pt,0.1.6,,LGPL-2.1-or-later,13288699,LingoTweaker runtime data for language 'pt'
+2026-10-09T18:00:24Z,lingotweaker-data-ro,0.1.5,,LGPL-2.1-or-later,3679843,LingoTweaker runtime data for language 'ro'
+2026-10-09T18:00:29Z,overreach,0.1.0,Raj Penchala,MIT,45640,"Audit Microsoft Entra ID for over-permissioned human identities — deterministic, explainable, read-only."
+2026-10-09T18:00:32Z,lingotweaker-data-ru,0.1.5,,LGPL-2.1-or-later,12931815,LingoTweaker runtime data for language 'ru'
+2026-10-09T18:00:40Z,lingotweaker-data-sk,0.1.5,,LGPL-2.1-or-later,6064674,LingoTweaker runtime data for language 'sk'
+2026-10-09T18:01:33Z,dokploytools,1.0.0,,,16243506,CLI to manage multiple Dokploy panels (binary build; alias: dpt)
+2026-10-09T18:01:53Z,m68000-python,0.1.0,alewman,"MIT License Copyright (c) 2026 alewman Permission is hereby granted, free of charge, to any person…",437207,"Readable, pure-Python Motorola MC68000 instruction-core reference implementation"
+2026-10-09T18:02:47Z,roto-aws,0.0.1,,MIT,24712591,An AWS wire-protocol compatible simulator written in Rust
+2026-10-09T18:03:03Z,crc-rust,0.1.0,crc-rust publishers,BSD-2-Clause,480215,Pure-Rust CRC library (rustsmith Stage-1 mirror of Nicoretti/crc)
+2026-10-09T18:03:11Z,python-dateutil-rust,2.9.0,dateutil contributors,Apache-2.0,1326275,"Pure-Rust dateutil engine: rrule, relativedelta, tz and parser/isoparser with the dateutil interface (rustsmith Stage-1 mirror of dateutil/dateutil)"
+2026-10-09T18:08:06Z,beyond12py,0.0.0,,,1604,Name reserved by Beyond 12. Not a usable package: Beyond 12's beyond12py is private.
+2026-10-09T18:08:07Z,beyond12,0.0.0,,,1589,Name reserved by Beyond 12. Not a usable package: Beyond 12's beyond12 is private.
+2026-10-09T18:11:40Z,visfeats,0.1,Qian Chu <qianchu99@gmail.com>,,25723,A library for extracting global visual features
+2026-10-09T18:11:43Z,ferronit,0.9.0,,Apache-2.0,11052370,"High-performance Python ASGI web framework with a Rust core (routing, JSON, PostgreSQL)"
+2026-10-09T18:16:14Z,vegaml,0.1.0,Nandakishor M,Apache-2.0,89156,"Typed decisions from a frozen language model and a small physics engine: calibrated probabilities, conformal sets, 73k context, images."
+2026-10-09T18:17:49Z,wace-license,0.0.0,"""WACE Inc."" <contact@wace.me>",Proprietary,1872,WACE Inc. internal package name placeholder - not a public release. The real package is on the WACE internal registry.
