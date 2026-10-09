@@ -8,36 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 19:18 UTC
+## Latest list — 2026-10-09 20:18 UTC
 
-New packages created between 2026-10-09 18:18 UTC and 2026-10-09 19:18 UTC.
+New packages created between 2026-10-09 19:18 UTC and 2026-10-09 20:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-09T19-18-52-046689Z.csv)
+[Full CSV](data/new-packages-2026-10-09T20-18-38-024892Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-09 18:18:27 | [audd-cli](https://pypi.org/project/audd-cli/) | 0.1.3 | "AudD, LLC" <hello@audd.io> | 45.7 MB | Command-line tool for AudD music recognition: files, URLs, folders, streams, an… |
-| 2026-10-09 18:19:24 | [slicewright-engine](https://pypi.org/project/slicewright-engine/) | 0.0.0.dev0 | Michael Narine | 13.6 kB | Slicing engine for Slicewright, an FDM 3D-printing slicer for Blender (in devel… |
-| 2026-10-09 18:26:18 | [test-data-service](https://pypi.org/project/test-data-service/) | 0.1.0 | Roy de Kleijn <dekleijn.roy@g… | 68.2 kB | A disk-backed test data service with a REST API and web interface |
-| 2026-10-09 18:27:51 | [ai-boss](https://pypi.org/project/ai-boss/) | 0.1.0 | backup64 <backup.64.back@gmai… | 158.1 kB | AI BOSS (Brain-Operating Support System) — a local AI mentor and life-assistant… |
-| 2026-10-09 18:33:05 | [egzos](https://pypi.org/project/egzos/) | 0.1.2 | Ali Sasanian | 895.3 kB | MCP-first, CLI-first personal context layer |
-| 2026-10-09 18:33:22 | [tiefrun](https://pypi.org/project/tiefrun/) | 0.1.7 | MicroRapids Team <info@micror… | 222.0 kB | Python bindings for MicroRapids API Runtime - high-performance API client built… |
-| 2026-10-09 18:35:41 | [ghostmode-cli](https://pypi.org/project/ghostmode-cli/) | 0.1.1 |  | 29.3 kB | Air-gapped, local test repair CLI powered by Ollama |
-| 2026-10-09 18:35:45 | [pipecat-readaloud](https://pypi.org/project/pipecat-readaloud/) | 0.1.1 | Sushanth Tiruvaipati | 24.7 kB | ReadAloud text-to-speech service for Pipecat (Piper voices, ~200 ms to first au… |
-| 2026-10-09 18:35:47 | [livekit-plugins-readaloud](https://pypi.org/project/livekit-plugins-readaloud/) | 0.1.1 | Sushanth Tiruvaipati | 24.0 kB | ReadAloud text-to-speech plugin for LiveKit Agents (Piper voices, ~200 ms to fi… |
-| 2026-10-09 18:37:18 | [kube-saver](https://pypi.org/project/kube-saver/) | 2.0.0 | pooyanazad | 1.0 MB | Kubernetes CPU and memory cost estimation, terminal dashboard, and resource rig… |
-| 2026-10-09 18:41:29 | [zugferd-client](https://pypi.org/project/zugferd-client/) | 0.1.0 | E-Rechnung API <hello@e-rechn… | 19.4 kB | Offizieller Python-Client für die E-Rechnung API (ZUGFeRD 2.2 / Factur-X & XRec… |
-| 2026-10-09 18:41:35 | [corotate](https://pypi.org/project/corotate/) | 0.0.1 | Hyunoh Yeo | 1.8 kB | Let people and coding agents work in one repository at the same time without co… |
-| 2026-10-09 18:45:54 | [perchance-python](https://pypi.org/project/perchance-python/) | 0.2.1 | Salih Şimşek | 31.6 kB | Modern unofficial Python client and OpenAI-compatible API library for Perchance… |
-| 2026-10-09 18:48:08 | [droidline](https://pypi.org/project/droidline/) | 0.1.2 | Droidline contributors | 53.4 kB | Control Android phones from Python without ADB or root: find elements, tap, typ… |
-| 2026-10-09 18:53:15 | [fastdrop](https://pypi.org/project/fastdrop/) | 0.1.0 | XIV4M (Shivam) | 91.3 kB | Ultra-lightweight, zero-dependency file drop & sharing server with modern web U… |
-| 2026-10-09 18:56:20 | [todo-snake](https://pypi.org/project/todo-snake/) | 0.3.0 | Felix Müller | 273.1 kB | A clean PySide6 TODO app with system tray integration. |
-| 2026-10-09 18:58:49 | [cs-dmri](https://pypi.org/project/cs-dmri/) | 0.1.0 | Matt Cieslak <mattcieslak@gma… | 23.9 MB | Diffusion MRI quality control, SHORE compressed-sensing fits, RESTORE tensors a… |
-| 2026-10-09 19:01:29 | [zabbix-crontroller](https://pypi.org/project/zabbix-crontroller/) | 0.0.1 | Kristof Daja <22156894+theriv… | 54.1 kB | Monitor cron jobs in Zabbix with crontab as the single source of truth. |
-| 2026-10-09 19:03:07 | [amsay](https://pypi.org/project/amsay/) | 0.1.0 | Henok | 3.6 kB | Amharic terminal voice notification CLI using Microsoft Edge Neural AI |
-| 2026-10-09 19:06:21 | [drishti-nav](https://pypi.org/project/drishti-nav/) | 0.1.0 |  | 29.5 kB | Lightweight, non-blocking Python library for QAOA-based route selection for sma… |
-| 2026-10-09 19:06:46 | [hexdb](https://pypi.org/project/hexdb/) | 1.0.0 | Dream In Hex | 11.6 kB | Client for HexDB, the hexagonal document database. |
-| 2026-10-09 19:09:50 | [etlrelay](https://pypi.org/project/etlrelay/) | 0.1.0 | Alex Paquette | 138.2 kB | A lightweight, composable framework for building declarative ETL pipelines in P… |
-| 2026-10-09 19:12:50 | [glossdex](https://pypi.org/project/glossdex/) | 0.1.0 | Mehran Iranpour <mehran@memoy… | 710.2 kB | Glossed locally, indexed by meaning, gated by evidence: private semantic search… |
-| 2026-10-09 19:14:29 | [mcp-server-jaeger](https://pypi.org/project/mcp-server-jaeger/) | 0.1.0 | Chahat Sagar <chahatsagar2003… | 40.2 kB | Context-efficient Model Context Protocol (MCP) server for Jaeger distributed tr… |
-| 2026-10-09 19:16:15 | [mmif-storage-api](https://pypi.org/project/mmif-storage-api/) | 0.1.0 |  | 59.0 kB | Tool to manage MMIF files. |
+| 2026-10-09 19:21:30 | [qkvm](https://pypi.org/project/qkvm/) | 0.0.1 | QKVM contributors | 27.4 kB | Placeholder for QKVM, a self-hosted screen wall for IP KVMs and servers. The fi… |
+| 2026-10-09 19:26:28 | [django-pixbin](https://pypi.org/project/django-pixbin/) | 0.1.0 | Deni Bertovic | 63.4 kB | Django integration for the Pixbin Image API |
+| 2026-10-09 19:27:47 | [metadata-asf](https://pypi.org/project/metadata-asf/) | 2026.10.9 | umr-lops <antoine.grouazel@if… | 74.3 kB | Python library and CLI to collect ASF (Alaska Satellite Facility) SAR metadata… |
+| 2026-10-09 19:28:19 | [lauschkiste](https://pypi.org/project/lauschkiste/) | 0.1.0a4 | the Lauschkiste contributors | 58.3 kB | Lauschkiste: an RFID audio player for kids (the lauschkiste server and the laus… |
+| 2026-10-09 19:28:23 | [lauschkiste-plugin-board-raspberry-pi](https://pypi.org/project/lauschkiste-plugin-board-raspberry-pi/) | 0.1.0a4 | the Lauschkiste contributors | 20.5 kB | Lauschkiste board support: Raspberry Pi (pins, interfaces, sound cards, power,… |
+| 2026-10-09 19:28:26 | [lauschkiste-core](https://pypi.org/project/lauschkiste-core/) | 0.1.0a4 | the Lauschkiste contributors | 1.2 MB | Lauschkiste core: player, library, cards, volume, timers and the web API of the… |
+| 2026-10-09 19:28:40 | [lorenzo-beyond](https://pypi.org/project/lorenzo-beyond/) | 0.1.0 |  | 105.6 kB | Bring a D&D Beyond character's inventory into Lorenzo, as a LorenzoLedger file. |
+| 2026-10-09 19:28:56 | [ember-advise](https://pypi.org/project/ember-advise/) | 0.8.0 | shapeandshare | 180.6 kB | A local gut feeling for coding agents: calibrated advice over MCP from Cloudfla… |
+| 2026-10-09 19:31:10 | [shorthand-client](https://pypi.org/project/shorthand-client/) | 0.1.0 |  | 15.3 kB | Async client for the Shorthand server, used by the Home Assistant integration |
+| 2026-10-09 19:31:47 | [lauschkiste-plugin-rfid-readers](https://pypi.org/project/lauschkiste-plugin-rfid-readers/) | 0.1.0a4 | the Lauschkiste contributors | 77.4 kB | Lauschkiste plugins: RFID reader drivers (one plugin per driver) |
+| 2026-10-09 19:31:49 | [lauschkiste-plugin-devices](https://pypi.org/project/lauschkiste-plugin-devices/) | 0.1.0a4 | the Lauschkiste contributors | 39.0 kB | Lauschkiste device plugins: GPIO buttons/encoders/LED, battery monitor, power b… |
+| 2026-10-09 19:31:52 | [lauschkiste-plugin-mpd](https://pypi.org/project/lauschkiste-plugin-mpd/) | 0.1.0a4 | the Lauschkiste contributors | 28.1 kB | Lauschkiste plugin: player backend using an external MPD server |
+| 2026-10-09 19:32:48 | [dipo](https://pypi.org/project/dipo/) | 0.2.0 | Luke Gessler <lukegessler@gma… | 572.4 kB | Dipo, the Discourse Parsing Omnibus: a collection of easy-to-use discourse pars… |
+| 2026-10-09 19:34:30 | [lauschkiste-plugin-samba](https://pypi.org/project/lauschkiste-plugin-samba/) | 0.1.0a4 | the Lauschkiste contributors | 8.9 kB | Lauschkiste plugin: share the library on the network with Samba, managed from t… |
+| 2026-10-09 19:34:31 | [lauschkiste-plugin-directories](https://pypi.org/project/lauschkiste-plugin-directories/) | 0.1.0a4 | the Lauschkiste contributors | 16.7 kB | Lauschkiste plugin: find podcasts and radio stations in online directories |
+| 2026-10-09 19:34:37 | [lauschkiste-plugin-audiobookshelf](https://pypi.org/project/lauschkiste-plugin-audiobookshelf/) | 0.1.0a4 | the Lauschkiste contributors | 25.6 kB | Lauschkiste plugin: audiobooks from an Audiobookshelf server |
+| 2026-10-09 19:37:01 | [survey-agent](https://pypi.org/project/survey-agent/) | 0.1.1 | Paul Neto | 656.7 kB | An open-source, agentic survey engine — define surveys as data; AI authors, adm… |
+| 2026-10-09 19:40:24 | [fastotel](https://pypi.org/project/fastotel/) | 0.2.0 | Dmitriy Troyan | 3.7 MB | A Rust-backed drop-in for the OpenTelemetry Python SDK that takes tracing overh… |
+| 2026-10-09 19:40:27 | [anvil-dream-participant](https://pypi.org/project/anvil-dream-participant/) | 0.1.2 |  | 190.0 kB | AnVIL DREAM participant CLI, submission tools, and benchmark |
+| 2026-10-09 19:40:57 | [togetajob](https://pypi.org/project/togetajob/) | 1.0.1 |  | 23.3 kB | The togetajob.com command line: NYC civil-service exam windows, entry-level job… |
+| 2026-10-09 19:43:09 | [openmmtools](https://pypi.org/project/openmmtools/) | 0.27.0 | John Chodera | 24.1 MB | ['', 'Various Python tools for OpenMM.', ''] |
+| 2026-10-09 19:43:55 | [strands-sprites](https://pypi.org/project/strands-sprites/) | 0.1.1 | Alex Ezell <alex@fly.io> | 33.4 kB | Persistent Sprites sandboxes for Strands agents |
+| 2026-10-09 19:44:45 | [omni-parse-bench](https://pypi.org/project/omni-parse-bench/) | 0.1.1 | Datalab | 708.1 kB | A document-parsing benchmark: yes/no tests on single pages, graded against a pr… |
+| 2026-10-09 19:53:00 | [amsayhenok](https://pypi.org/project/amsayhenok/) | 0.1.0 | Henok | 3.6 kB | Amharic terminal voice notification CLI using Microsoft Edge Neural AI |
+| 2026-10-09 19:53:32 | [seam-mcp-common](https://pypi.org/project/seam-mcp-common/) | 0.0.0 | zer07 Labs | 2.3 kB | Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the projec… |
+| 2026-10-09 19:53:35 | [seam-mcp-onboard](https://pypi.org/project/seam-mcp-onboard/) | 0.0.0 | zer07 Labs | 2.3 kB | Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the projec… |
+| 2026-10-09 19:53:37 | [seam-sdk](https://pypi.org/project/seam-sdk/) | 0.0.0 | zer07 Labs | 2.2 kB | Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the projec… |
+| 2026-10-09 20:03:03 | [judgeman](https://pypi.org/project/judgeman/) | 0.1.0 |  | 2.8 MB | Step-level evals for AI agent runs, with a measured trust number for the judge. |
+| 2026-10-09 20:03:07 | [mailing-machine](https://pypi.org/project/mailing-machine/) | 0.0.1 | Machina Ratiocinatrix <machin… | 49.0 kB | A machine that sends and receives mail. |
+| 2026-10-09 20:14:21 | [offscreen-mount](https://pypi.org/project/offscreen-mount/) | 1.0.0 | offscreen-mount contributors | 317.7 kB | Automated offscreen window mounting on a virtual display for Windows: driver bo… |
+| 2026-10-09 20:14:37 | [aosmith-ble](https://pypi.org/project/aosmith-ble/) | 0.1.0 |  | 172.6 kB | Local Bluetooth LE client for A.O. Smith iCOMM heat pump water heaters |
+| 2026-10-09 20:16:42 | [workhold-client-core](https://pypi.org/project/workhold-client-core/) | 1.0.0 | Mikhail Konin | 76.7 kB | Private shared transport, errors, and wire models for Workhold role clients |
+| 2026-10-09 20:16:57 | [workhold-consumer](https://pypi.org/project/workhold-consumer/) | 1.0.0 | Mikhail Konin | 34.7 kB | Workhold consumer client (claim, fenced leases, and ConsumerSupervisor) |
+| 2026-10-09 20:17:01 | [workhold-producer](https://pypi.org/project/workhold-producer/) | 1.0.0 | Mikhail Konin | 46.9 kB | Workhold producer client (public shell) |
+| 2026-10-09 20:18:11 | [oruk-export](https://pypi.org/project/oruk-export/) | 0.1.0a2 | Oruk AI | 55.1 kB | Customer-run Hume metadata archives, offline inventory verification, and explic… |
+| 2026-10-09 20:18:12 | [oruk-compat](https://pypi.org/project/oruk-compat/) | 0.1.0a5 |  | 47.7 kB | Alpha durable batch migration client for Oruk's supported Hume-shaped subset |
+| 2026-10-09 20:18:15 | [temporalio-typesafe](https://pypi.org/project/temporalio-typesafe/) | 0.0.1 | Temporal Technologies Inc | 31.3 kB | TypeSafe decision API for Temporal workflows |
