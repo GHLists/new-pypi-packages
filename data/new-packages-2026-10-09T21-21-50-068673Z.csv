@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T19:42:46Z,recall-mem,0.1.1,,Apache-2.0,98847,"Python SDK for Recall, reasoning memory for AI agents. Speaks the v3 memory REST API."
+2026-10-09T20:20:36Z,workhold-admin,1.0.1,Mikhail Konin,,50435,Workhold admin/observer/break-glass client (public shell)
+2026-10-09T20:22:04Z,datumline-agent-guard,0.1.0,Datumline LLC,MIT,16227,"Independent verifier for AI agent completion claims: VERIFIED, FAILED, FALSE_DONE or UNVERIFIABLE."
+2026-10-09T20:22:14Z,swarmwatch,0.1.0,SwarmWatch Team <hello@swarmwatch.dev>,MIT,1651536,"Universal Multi-Agent Observability, Entropy Circuit-Breaker, and Time-Machine Debugging Platform"
+2026-10-09T20:27:22Z,rmasemone,0.1.0,,,13859,Print the Python source code of six RMA practicals in Jupyter output cells.
+2026-10-09T20:29:52Z,langchain-swarmmemo,0.1.0,SwarmMemo,Apache-2.0,101824,"LangChain tools for SwarmMemo, the message board and coordination layer for AI agents."
+2026-10-09T20:32:38Z,rmatqmcpy,0.1,"""Aleksei G. Sorokin"" <agsorokin3@gmail.com>",,56757,Random matrix quasi-Monte Carlo in Python
+2026-10-09T20:33:14Z,langchain-financial-evidence,0.1.0,Liquidity Lab,MIT,20857,Read-only LangChain tools for source-cited public financial evidence
+2026-10-09T20:34:54Z,daniel-sources,1.2.0,Daniel,,53103,"Reusable Python utilities for hashing, encryption, Stripe Checkout, documents, and quiz projects"
+2026-10-09T20:39:50Z,modelport-cli,0.1.0,Ayan Parvaiz,Apache-2.0,293610,"Prepare PyTorch, Hugging Face, and GGUF models for Flutter apps: export, verify, pack, publish."
+2026-10-09T20:41:50Z,winhands,0.3.1,Rodolfo Obreque,MIT,139500,"Computer use MCP server for Windows: a11y tree + pixels, code mode, game-grade input"
+2026-10-09T20:42:11Z,witful,0.1.3,,GPL-3.0-only,177988,"Typed knowledge, reusable lessons, and evidence-based decision replay"
+2026-10-09T20:42:41Z,lotse-client,0.0.0.dev0,,MIT OR Apache-2.0,50256,Async client for the lotse media daemon's control API
+2026-10-09T20:45:04Z,dayanak,2.0.0,Alpaslan Fatih Sözer,AGPL-3.0-only,1047469,Citation-safe MCP hukuk araştırma ve belge hazırlık sistemi
+2026-10-09T20:45:26Z,autoresearcheval-anonymous,0.1.0,AutoResearchEval authors,MIT,214572,Process-level failure diagnosis for autonomous research agents: trajectory -> structured analysis -> ARFT failure labels.
+2026-10-09T20:45:48Z,crewai-swarmmemo,0.1.0,SwarmMemo,Apache-2.0,103585,"CrewAI tools for SwarmMemo, the message board and coordination layer for AI agents."
+2026-10-09T20:45:59Z,mdrap-core,3.1.0,MDRAP Team,MIT,339440,Market Data Reliability & Acceleration Platform - Financial market infrastructure for converting noisy market feeds into validated canonical streams
+2026-10-09T20:46:01Z,mdrap-analytics,1.0.0,MDRAP Team,MIT,6311,"MDRAP Transaction Cost Analysis (TCA), Slippage Estimation, and Broker Scorecards"
+2026-10-09T20:46:03Z,mdrap-contrib-vessel,1.0.0,MDRAP Team,MIT,10069,MDRAP Contrib Maritime Telemetry & Vessel Tracking for Commodity Supply Line Analytics
+2026-10-09T20:46:05Z,mdrap-options,1.0.0,MDRAP Team,MIT,7599,"MDRAP Options & Derivatives Pricing Engine (BSM, CRR American, Greeks, Vol Surfaces)"
+2026-10-09T20:46:12Z,kesurv,0.1.0,Rahul Goswami,MIT,32699,Kernel ensemble survival estimation with forest neighborhoods
+2026-10-09T20:48:12Z,VirtualDesktop,1.0.1,VirtualDesktop contributors,"MIT License Copyright (c) 2026 offscreen-mount contributors Permission is hereby granted, free of c…",302739,"Automated offscreen window mounting on a virtual display for Windows: driver bootstrap, desktop binding, window hiding and PrintWindow capture behind one context manager."
+2026-10-09T20:51:10Z,pyprims,0.1.0,Niels Taatgen,MIT,185444,Python implementation of the PRIMs cognitive architecture (port of the Swift version)
+2026-10-09T20:53:21Z,pump-azure-radar,0.1.1,Pump,MIT,14900,azure-radar with a one-command push of inventory and billing CSVs to Pump
+2026-10-09T20:54:20Z,fidatory,0.0.1,Fidatory <ops@fidatory.com>,Apache-2.0,9593,"Python client for the Fidatory Data API: point-in-time, provable SEC data"
+2026-10-09T20:54:26Z,seam-agent-core,0.0.0,zer07 Labs,Apache-2.0,2319,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-09T20:59:37Z,parole-tui,1.0.0,skueee,,14689,Parole is a TUI tool to display lyrics from the song you are currently playing !
+2026-10-09T21:00:34Z,orblivion,0.1.0,,MIT,386252,Trade on Robinhood Chain through Orblivion from an Orbio agent: every transaction is decoded and checked locally before the agent's key signs it.
+2026-10-09T21:03:12Z,sonify1026,0.1.0,Naitik <sanjeevshrivastava898@gmail.com>,MIT,90025,"Expressive Indian female TTS voice engine with adaptive emotion, prosody and EN/HI code-switching"
+2026-10-09T21:06:31Z,ltl-harness,0.2.0,Peter Saghelyi,MIT,85983,Temporal-logic guardrails for Claude Agent SDK agents — LTLf2DFA-compiled colored automata enforced via hooks.
+2026-10-09T21:09:58Z,to-do-fixer,0.0.2,Kaizten Analytics,LicenseRef-Proprietary,15817,Execute directory-backed Codex tasks against local GitHub repositories.
+2026-10-09T21:15:17Z,scigantic-facebase,0.1.0,Scigantic,MIT-0,28799,"Search FaceBase, the craniofacial research data hub, and read its open-access micro-CT, imaging and sequencing data from Python: a typed catalog over FaceBase's open metadata API, citations in the fo…"
+2026-10-09T21:17:09Z,welt-client,0.7.0,,Apache-2.0,166105,Welt Python client and scikit-learn estimators
+2026-10-09T21:19:00Z,foo-py,0.1.1,Terry D. Eppler,MIT,10533452,"Foo Streamlit workspace for acquisition, analysis and AI workflows."
+2026-10-09T21:19:05Z,gemini-router,0.1.1,vernikr,MIT,67620,"Quota-aware Gemini Flash router: cascading fallback, per-key/model RPD/RPM/TPM ledger (SQLite WAL), key pool, wait policy, CLI"
+2026-10-09T21:20:29Z,ophix-codemirror,2026.10.6.1,Ophix Project,MIT,170418,Vendored CodeMirror editor widgets for Ophix Project Servers
+2026-10-09T21:20:37Z,vintasend-api,3.5.0,Vinta Software,MIT,111895,REST API that exposes a VintaSend notification service over HTTP for the VintaSend dashboard UI
+2026-10-09T21:21:13Z,ophix-creds,2026.10.8.1,Ophix Project,MIT,69139,Credentials domain plugin for Ophix Project Servers
