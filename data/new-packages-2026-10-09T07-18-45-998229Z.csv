@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T06:19:19Z,travis234-content-guard,0.1.0,,MIT,40148,Optional Travis234 extension that flags instruction-shaped text in tool results.
+2026-10-09T06:20:02Z,uv-readiness,0.1.0,Andrii Kohut <kogut.andriy@gmail.com>,MIT,212428,Check whether a uv project's locked dependencies are ready for a Python version.
+2026-10-09T06:21:02Z,odoo-addon-shopfloor-reception-measuring-device-mobile,18.0.1.1.0,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,23440,Frontend for the measuring device on reception scenario
+2026-10-09T06:22:49Z,polyedge,1.0.0,PolyEdge Developer Support <dev@polyedge.dev>,MIT,30402,Official Python SDK for PolyEdge ultra-low latency Polymarket mempool trade streaming and real-time on-chain analytics API.
+2026-10-09T06:24:28Z,ai-telemetry-agent,0.1.1,Engineering Telemetry Team,,109797,Local developer telemetry agent for Antigravity AI usage and engineering signals
+2026-10-09T06:28:36Z,repolens-toolkit,0.1.1,RepoLens Contributors,MIT,98612,Understand how a codebase works.
+2026-10-09T06:31:36Z,crawlora-reddit,0.1.1,Crawlora,MIT,49530,Typed Reddit client for the Crawlora hosted API
+2026-10-09T06:31:48Z,volcenginesdk-volcobserve,0.0.1,volc-engine,Apache License 2.0,1030,Name reservation for the Volcengine Python SDK split package volcenginesdk-volcobserve
+2026-10-09T06:31:55Z,volcenginesdk-volcsms,0.0.1,volc-engine,Apache License 2.0,1002,Name reservation for the Volcengine Python SDK split package volcenginesdk-volcsms
+2026-10-09T06:31:57Z,l1fit,0.1.0,Jonathan Helgert <github@helgert.ch>,BSD-3-Clause,373016,Fast constrained L1 curve fitting: a modernized Fortran implementation of ACM TOMS algorithm 552
+2026-10-09T06:31:59Z,crawlora-amazon,0.1.1,Crawlora,MIT,44388,Typed Amazon client for the Crawlora hosted API
+2026-10-09T06:32:01Z,volcenginesdk-vpc,0.0.1,volc-engine,Apache License 2.0,974,Name reservation for the Volcengine Python SDK split package volcenginesdk-vpc
+2026-10-09T06:32:07Z,volcenginesdk-vpn,0.0.1,volc-engine,Apache License 2.0,976,Name reservation for the Volcengine Python SDK split package volcenginesdk-vpn
+2026-10-09T06:32:12Z,plotly-print,0.1.0,Roman Kaczanowski <roman.kaczanowski.pl@gmail.com>,MIT,1105546,"Lightweight, browser-less static image exporter for Plotly"
+2026-10-09T06:32:30Z,crawlora-imdb,0.1.1,Crawlora,MIT,62457,Typed IMDb client for the Crawlora hosted API
+2026-10-09T06:32:36Z,mpxnk-logging,1.0.0,meowthpxnk,MIT,7558,mpxnk-logging
+2026-10-09T06:32:50Z,coding-agent-session-manager,0.1.0,session-manager contributors,GPL-3.0-only,107679,Move visible conversation history between local AI coding agents.
+2026-10-09T06:34:16Z,pawnfetch,0.1.0,Chinmoy <ranjanchinmoy@gmail.com>,MIT,30000,Fetch and compare chess.com player profiles and stats from the command line
+2026-10-09T06:36:26Z,x402kit,0.2.0,automaton <automaton@example.com>,MIT,16434,"Minimal, correct client for x402 pay-per-call HTTP APIs (verified wire shape)."
+2026-10-09T06:36:55Z,physicalcontextprotocol,1.0.0,Sandeep Thummala <physicalcontextprotocol@gmail.com>,Apache-2.0,304717,Physical Context Protocol — MCP-compatible standard protocol for robots and industrial systems
+2026-10-09T06:37:10Z,qmlmathplot,0.1.0,I-AM-A-NOOB,,122151,"Embeddable function plotter for Qt Quick / QtWidgets (implicit per-pixel drawing, MVVM)"
+2026-10-09T06:37:19Z,spark-rust-assets,0.42.1a1,,Apache-2.0,4168482,Spark Rust multi-environment alpha distribution
+2026-10-09T06:37:32Z,spark-rust-connect-clients,0.42.1a1,,Apache-2.0,34641711,Spark Rust multi-environment alpha distribution
+2026-10-09T06:38:26Z,audioexport,0.1.0,audioexport contributors,Apache-2.0,59469,"Standalone FFmpeg audio encoder with metadata, chapter, cover and reproducible export manifests"
+2026-10-09T06:38:52Z,xfa,0.0.1,Mindverse <tao@mindverse.ai>,MIT,2412,xfA (x for Agents): one identity for all your agents. Set up at https://xfa.sh
+2026-10-09T06:42:39Z,amd-oneclick-sdk,1.0.0,,MIT,132944,Scoped command-line SDK for Radeon Cloud accounts and instances
+2026-10-09T06:47:42Z,lightweight-dag,0.1.3,Lorenzo Gardini,,20169,A lightweight Python library for defining and executing DAG workflows
+2026-10-09T06:53:04Z,defoundry,0.1.0,Honza,MIT,139901,Composable Differential Evolution optimizer
+2026-10-09T06:55:17Z,monorobot,0.0.1,Convex Robotics,Apache-2.0,11211,Coming soon.
+2026-10-09T07:02:09Z,cranebench,0.1.2,"S. Podliesnyi, O. Sheremet, B. Vorobiov",BSD-3-Clause,87465,A reproducible benchmark for underactuated crane control
+2026-10-09T07:02:54Z,sai-sdk,0.1.0a2,,MIT,46549,"Python SDK for the Sai API: delegate desktop work to Sai, or drive a cloud computer directly."
+2026-10-09T07:04:23Z,odoo-addon-sy-sale-confirm-reason,18.0.1.0.0.1,Sygel,AGPL-3,46466,Adds reasons for confirming sale orders
+2026-10-09T07:04:34Z,dsh-cf-tunnel,0.1.0,riteme <riteme@qq.com>,MIT,73662,"Serve the dsh Web UI through a Cloudflare quick tunnel, with a scannable terminal QR code"
+2026-10-09T07:06:34Z,pitbacktest,0.2.0,Janghyuk Choi,MIT,312074,"Backtest harness for factor screening, event signals and portfolio alphas, built to make common backtest errors hard"
+2026-10-09T07:08:19Z,grft-test-fundamentals-e2e,0.1.0,graftcode,MIT,5672,Fundamentals host types for graft E2E (e.g. classes without constructors)
+2026-10-09T07:08:39Z,pytextad,0.1.0,Yang Cao,BSD-2-Clause,48253,"A unified library for text anomaly detection (document- and token-level), in the style of PyOD"
+2026-10-09T07:11:44Z,mihomo-py,0.1.0,,,94898109,A subscription and process manager for mihomo on Linux servers
+2026-10-09T07:13:36Z,whaletop,0.1.0,,Apache-2.0,88758,"htop-style terminal UI for Docker: containers, images, volumes, networks and compose stacks"
+2026-10-09T07:14:15Z,loom-ia,2.0.0,Denis Lamard,Apache-2.0,1118547,"Moteur d'agents IA en Python asynchrone : rôles délégués à des modèles, outils Python et MCP, runs journalisés, rejouables et reprenables, en librairie Python, API REST ou serveur MCP."
+2026-10-09T07:17:09Z,steadybatch,0.2.1,Ankur Partap Kotwal <kotwal.itpro@gmail.com>,Apache-2.0,80458,Run millions of LLM requests through batch APIs without silent failures.
+2026-10-09T07:17:35Z,sf-smartpangolin,3.0.0,"Roen Branham, Le Thanh",Apache-2.0,121731,"Deterministic, fail-closed, auditable secret-scrubbing packager for sharing code and data with LLMs and third parties."
+2026-10-09T07:17:58Z,sf-smartfabric,0.5.0,SmartTasks <enterprise@smarttasks.cloud>,SmartFabric — IAIso Fabric Protocol (IFP) reference implementation. Licensed under the Community Fo…,82836,IAIso Fabric Protocol (IFP) — carry & enforce IAIso containment across a fleet of governed AI nodes.
+2026-10-09T07:18:17Z,sf-smartllmcost,0.1.0,SmartTasks,Apache-2.0,49549,"Apples-to-apples LLM cost & performance benchmark — cost per successful task, reproducible."

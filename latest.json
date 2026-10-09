@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 27,
-    "from": "2026-10-09T05:18:32.99927Z",
-    "path": "data/new-packages-2026-10-09T06-19-08-054073Z.csv",
-    "to": "2026-10-09T06:19:08.054073Z"
+    "count": 43,
+    "from": "2026-10-09T06:19:08.054073Z",
+    "path": "data/new-packages-2026-10-09T07-18-45-998229Z.csv",
+    "to": "2026-10-09T07:18:45.998229Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-09T03:49:47Z",
       "package": "autoware-carla-egodriver",
       "since": "2026-10-09T03:19:35.259711Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-09T05:19:32Z",
       "package": "mpxnk-test-library-third",
       "since": "2026-10-09T05:18:32.99927Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-09T06:05:57Z",
       "package": "voiflow-sdk",
       "since": "2026-10-09T05:18:32.99927Z"
     }
   ],
-  "serial": 42005453,
+  "serial": 42007044,
   "source_truncated": false,
-  "window": "2026-10-09T06:19:08.054073Z"
+  "window": "2026-10-09T07:18:45.998229Z"
 }
