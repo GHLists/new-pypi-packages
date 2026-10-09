@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T09:20:55Z,pcaptriage,0.2.0,Zakariya Elmansouri <zakariyaelmansouri40@gmail.com>,MIT,43257,"Automated pcap triage on top of Zeek, with MITRE ATT&CK-mapped findings and an HTML report."
+2026-10-09T09:21:33Z,pyrumo,0.1.0,,MIT,23816585,Describe Polars DataFrames and convert them to RDF (Turtle) from Python
+2026-10-09T09:23:19Z,fastapi-rate-limiter-plugin,1.0.0,bb-soft,MIT,10116,Redis backed rate limiting dependency for FastAPI and Starlette
+2026-10-09T09:28:39Z,fastsar,0.1.0,Paul Singerman,MIT,375341,"Synthetic aperture radar image formation on x86 CPUs, Nvidia GPUs and Cloud TPUs"
+2026-10-09T09:28:44Z,pinecall-runtime,0.1.6,Bernardo Castro <me@bernardocastro.dev>,Apache-2.0,1363856,"The Pinecall voice-AI runtime: gateway and worker, on LiveKit"
+2026-10-09T09:29:47Z,genny,1.0.0,blal1,,10618252,"Procedural and physically informed sound synthesis: DSP, modal bodies, waveguides, particles, fluids, voices, environments and acoustics."
+2026-10-09T09:31:46Z,rsTimes,0.1.0,,MIT,13070,Integer-based conversions between aware datetimes and Unix milliseconds
+2026-10-09T09:34:27Z,ats-resume,2.0.1,Paulo Amaral,MIT,467169,"ATS resume checker, tailor and renderer (PDF/DOCX) with LinkedIn optimization. AI agent skill for Claude Code. English + Portuguese (PT-BR)."
+2026-10-09T09:34:50Z,probolos,1.0.0b1,capitan0n,GPL-3.0-or-later,778581,A deny-by-default USB admission gate for Linux
+2026-10-09T09:36:56Z,fishdbc,1.0.0,Matteo Dell'Amico <della@linux.it>,BSD-3-Clause,90036132,"FISHDBC: flexible, incremental, scalable, hierarchical density-based clustering for arbitrary data and distance measures"
+2026-10-09T09:44:07Z,blitzline,0.1.1,,,134778,Turn foreign-language recordings into subtitle-linked Anki vocabulary.
+2026-10-09T09:46:22Z,vllm-xtu-moe,0.2.7,"""大河马 (BigHippo)"" <dahema@me.com>",Apache-2.0,5257980,XTU (X Transformers Unity) — a mainline-vLLM hybrid MoE plugin (CPU experts + GPU attention/long prefill). Bundles the xiaotu CPU MoE engine (AVX512-VNNI/BF16: MXFP4/FP8/INT4/BF16) so no-AMX x86 host…
+2026-10-09T09:50:01Z,loadcast,0.1.1,Matteo Hauglustaine <matteo@abeo.be>,MIT,72722,Synthetic multi-carrier industrial energy demand profiles with controllable cross-carrier structure
+2026-10-09T09:50:45Z,octop-memory-server,0.1.0,openbot-coder,MIT,83355,"Standalone multi-tenant server for octop-memory: /mcp/ MCP service + /dashboard visual management, API-Key auth, per-key physical data isolation"
+2026-10-09T09:51:20Z,kairos-os,0.1.0,"Kamal Karteek U, Mishka Tiwari, Manjunath Patil, Mayeraa Singh",MIT,41285,"Python client and command line for KAIROS, the operating system for organizational AI: governed, auditable AI agents on your own machine."
+2026-10-09T09:52:01Z,checkbox-extractor,0.1.0,Gopal R S,MIT,34215,"Find ticked checkboxes and radio buttons in scanned or photographed forms, no template needed"
+2026-10-09T09:54:21Z,mihomo-py-web,0.1.2,,,5770130,Offline zashboard resources for mihomo-py[web]
+2026-10-09T09:54:55Z,pyctures,0.1.0,John Wylie,MIT,483712,"Python 2D and 3D graphics, drawn in your web browser. Games, animations, charts and 3D scenes."
+2026-10-09T09:59:09Z,adspub,0.1.1,Eivind Teig,MIT,34794,"Machine-readable view of the Google Ad Manager API version list, with a CLI for humans and AI agents"
+2026-10-09T09:59:44Z,webscrape-ai-tool,1.0.0,Jialin <contentforge.press@outlook.com>,"MIT License Copyright (c) 2026 Jialin Permission is hereby granted, free of charge, to any person o…",11993,"Give your AI agent clean data from the web. One URL in, structured JSON out."
+2026-10-09T10:00:40Z,e2b-dockerfile-utils,0.1.0,e2b,Apache-2.0,36744,"E2B Dockerfile utils - Dockerfile parser, shell lexer and .dockerignore matcher ported from BuildKit and Moby"
+2026-10-09T10:00:48Z,govuk-django-design-system,0.1.0,Cameron Lamb,MIT,252388,A GOV.UK design system package for Django
+2026-10-09T10:01:24Z,tmdx,3.0.0,soning,MIT,2576742,通达信 TCP 协议行情数据客户端，支持在线行情、离线数据读取与写入同步
+2026-10-09T10:02:59Z,slink-terminal,0.1.1,Slink Contributors,MIT,97050,Secure terminal-to-terminal communication application
+2026-10-09T10:03:11Z,agent-evidence-admission,0.1.0,Sankalp Gilda,Apache-2.0,13672,"Check that an artifact has the digest its compliance document, SBOM or attestation names."
+2026-10-09T10:04:07Z,natlean,0.0.1,Kimio Kuramitsu <kkuramitsu@gmail.com>,MIT,20352,Natural-language Lean: step-by-step probabilistic checking of arguments with a lightweight LLM
+2026-10-09T10:06:59Z,unlist-nested,0.1.0,Darling,,3618,A simple Python package to unlist (flatten) lists of any nesting level.
+2026-10-09T10:08:29Z,odoo-addon-sy-sale-order-type-confirm-reason,18.0.1.0.0.1,Sygel,AGPL-3,38232,Configure confirmation reasons by sale order type
+2026-10-09T10:08:56Z,jev-eval,1.0.0,Christoffer Maintz,MIT,89284,"Measure and calibrate TypeSafe AI's Jev on your own labeled data, and get the confidence cut-points to gate on."
+2026-10-09T10:10:41Z,resources-graph,0.1.0,,MIT,173779,"Public GitHub resources an agent explored, remembered in Memgraph and served from memory"
+2026-10-09T10:11:06Z,tempo-plan-fact,0.1.1,Volodymyr Obrizan,MIT,331009,Compare cumulative Tempo worklogs with a monthly hours target
+2026-10-09T10:11:35Z,glimind-client,0.0.1,,MIT,3071,Placeholder - the Glimind SDK is published as `glimind` (pip install glimind).
+2026-10-09T10:13:59Z,odoo-addon-ladirecta-website-sale-hide-products-attributes-filters,16.0.1.0.1,Coopdevs Treball SCCL,AGPL-3,6679,Website Sale Hide Products Attributes Filters
+2026-10-09T10:15:44Z,asiasea-ak,0.1.0,asiasea-ai <16842940+asiasea-ai@user.noreply.gitee.com>,MIT,50693,数字员工宿主（Agent Kit）：veADK + AgentKit 渠道与 HTTP 壳
+2026-10-09T10:17:53Z,sunsynk-modbus,0.1.0,James Ridgway <jamesridgway@users.noreply.github.com>,MIT,15598,"Read Sunsynk single-phase hybrid inverters over Modbus, built on modbus-connection"

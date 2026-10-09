@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-10-09T08:19:08.70888Z",
-    "path": "data/new-packages-2026-10-09T09-18-43-494403Z.csv",
-    "to": "2026-10-09T09:18:43.494403Z"
+    "count": 35,
+    "from": "2026-10-09T09:18:43.494403Z",
+    "path": "data/new-packages-2026-10-09T10-18-38-757059Z.csv",
+    "to": "2026-10-09T10:18:38.757059Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-09T05:19:32Z",
-      "package": "mpxnk-test-library-third",
-      "since": "2026-10-09T05:18:32.99927Z"
+      "attempts": 1,
+      "created_at": "2026-10-09T09:42:49Z",
+      "package": "adatto",
+      "since": "2026-10-09T09:18:43.494403Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-09T06:05:57Z",
-      "package": "voiflow-sdk",
-      "since": "2026-10-09T05:18:32.99927Z"
+      "attempts": 1,
+      "created_at": "2026-10-09T10:07:18Z",
+      "package": "apcat",
+      "since": "2026-10-09T09:18:43.494403Z"
     }
   ],
-  "serial": 42010745,
+  "serial": 42012746,
   "source_truncated": false,
-  "window": "2026-10-09T09:18:43.494403Z"
+  "window": "2026-10-09T10:18:38.757059Z"
 }
