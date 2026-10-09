@@ -1,49 +1,31 @@
 {
   "list": {
-    "count": 25,
-    "from": "2026-10-09T02:19:37.107752Z",
-    "path": "data/new-packages-2026-10-09T03-19-35-259711Z.csv",
-    "to": "2026-10-09T03:19:35.259711Z"
+    "count": 35,
+    "from": "2026-10-09T03:19:35.259711Z",
+    "path": "data/new-packages-2026-10-09T04-18-38-813137Z.csv",
+    "to": "2026-10-09T04:18:38.813137Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-08T23:32:21Z",
-      "package": "amesa-cli-test",
-      "since": "2026-10-08T23:19:22.297115Z"
+      "attempts": 1,
+      "created_at": "2026-10-09T03:49:47Z",
+      "package": "autoware-carla-egodriver",
+      "since": "2026-10-09T03:19:35.259711Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-08T23:32:10Z",
-      "package": "amesa-core-test",
-      "since": "2026-10-08T23:19:22.297115Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-08T23:32:03Z",
-      "package": "amesa-test",
-      "since": "2026-10-08T23:19:22.297115Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-08T23:32:16Z",
-      "package": "amesa-train-test",
-      "since": "2026-10-08T23:19:22.297115Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-09T02:13:31Z",
       "package": "pith-unicode",
       "since": "2026-10-09T01:20:40.478431Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-09T00:39:54Z",
       "package": "svReducedOrderModelingUtils",
       "since": "2026-10-09T00:18:36.859587Z"
     }
   ],
-  "serial": 42001494,
+  "serial": 42002931,
   "source_truncated": false,
-  "window": "2026-10-09T03:19:35.259711Z"
+  "window": "2026-10-09T04:18:38.813137Z"
 }
