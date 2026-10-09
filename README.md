@@ -8,33 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 01:20 UTC
+## Latest list — 2026-10-09 02:19 UTC
 
-New packages created between 2026-10-09 00:18 UTC and 2026-10-09 01:20 UTC.
+New packages created between 2026-10-09 01:20 UTC and 2026-10-09 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-09T01-20-40-478431Z.csv)
+[Full CSV](data/new-packages-2026-10-09T02-19-37-107752Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-09 00:20:05 | [omeify](https://pypi.org/project/omeify/) | 0.21.0 | Jason L Weirather | 529.4 kB | Convert tissue images into metadata-minimized, pyramidal OME-TIFF |
-| 2026-10-09 00:25:21 | [docql](https://pypi.org/project/docql/) | 0.1.0 | Finoniq | 39.3 kB | Python client for the DocQL document-extraction API |
-| 2026-10-09 00:27:28 | [udacityai-python-probability-distributions](https://pypi.org/project/udacityai-python-probability-distributions/) | 0.1 |  | 4.7 kB | Gaussian and Binomial distributions |
-| 2026-10-09 00:27:38 | [hypergym](https://pypi.org/project/hypergym/) | 0.1.7 | Jonas Eschmann <jonas.eschman… | 51.3 MB | The fastest drone simulator and renderer (raytracer). |
-| 2026-10-09 00:29:07 | [ig-gox](https://pypi.org/project/ig-gox/) | 1.0.0 | HyperGox <contact@goxtools.sh… | 16.6 kB | Gox Secure Runtime Engine for Android Termux |
-| 2026-10-09 00:29:56 | [allternit-platform](https://pypi.org/project/allternit-platform/) | 0.1.0 |  | 40.5 kB | Python SDK for the Allternit Platform API (agents, conversations, numbers, mess… |
-| 2026-10-09 00:30:30 | [dlt698](https://pypi.org/project/dlt698/) | 1.0.0 | dlt698 contributors | 41.0 MB | Typed Python bindings for the DL/T 698.45 C++ protocol library |
-| 2026-10-09 00:36:58 | [falsesync](https://pypi.org/project/falsesync/) | 0.1.2 | Tatsuki Onishi | 64.0 kB | Aggregation-induced false synchrony: estimands, diagnostics, and simulation for… |
-| 2026-10-09 00:37:53 | [server-decorator-gen-openapi](https://pypi.org/project/server-decorator-gen-openapi/) | 2.0.19 |  | 12.0 kB | IR-derived OpenAPI 3.1 document (contracts/rules/rest-conventions.md). Polyglot… |
-| 2026-10-09 00:38:00 | [hyperverse](https://pypi.org/project/hyperverse/) | 0.0.1 | Jonas Eschmann <jonas.eschman… | 2.4 MB | The fastest drone simulator and renderer (raytracer). |
-| 2026-10-09 00:44:05 | [glass-lineage](https://pypi.org/project/glass-lineage/) | 0.0.1 |  | 2.7 kB | Glass lineage client: registers ML training runs with Glass. Placeholder releas… |
-| 2026-10-09 00:44:16 | [text-rewrite](https://pypi.org/project/text-rewrite/) | 0.1.2 | Magic Jack <majic31@163.com> | 63.3 kB | A high-performance text rewriting and fuzzy phonetic matching engine |
-| 2026-10-09 00:44:30 | [pronto-pr](https://pypi.org/project/pronto-pr/) | 0.1.0 | Zachary Love | 39.1 kB | Automatically press GitHub's "Update branch" button on all your open PRs. |
-| 2026-10-09 00:48:35 | [shapa](https://pypi.org/project/shapa/) | 0.9.0 | Roukh | 399.8 kB | Memory and a work ledger for coding agents, in one SQLite file per wiki, with h… |
-| 2026-10-09 00:48:45 | [stepmeld](https://pypi.org/project/stepmeld/) | 0.1.0 | VEO Labs LLC | 49.9 kB | stepmeld for Python: the contracts' schemas as data, and the verb protocol a pr… |
-| 2026-10-09 00:52:56 | [audit-findings](https://pypi.org/project/audit-findings/) | 0.1.0 | Fábio Macêdo Mendes | 51.7 kB | Record audit findings from parallel agents in an append-only log and render the… |
-| 2026-10-09 00:54:12 | [allternit-computer-driver](https://pypi.org/project/allternit-computer-driver/) | 0.1.0 |  | 20.4 kB | Drop-in drivers for Allternit hosted computers: a plain client plus Anthropic (… |
-| 2026-10-09 01:02:07 | [sinomo-ui](https://pypi.org/project/sinomo-ui/) | 0.5.0 | Infinity_X <Infinity_X@sinomo… | 37.1 MB | Native, GPU-rendered desktop UI toolkit for Python, built on the Rust SUI toolk… |
-| 2026-10-09 01:11:09 | [modulan](https://pypi.org/project/modulan/) | 0.2.0 |  | 18.5 kB | A Python GUI framework with its own widgets, layouts, themes, and events |
-| 2026-10-09 01:12:37 | [qconf-center](https://pypi.org/project/qconf-center/) | 0.1.0 | qconf contributors | 127.4 kB | Unified configuration center: FastAPI server with web admin and api_key auth, p… |
-| 2026-10-09 01:13:27 | [potatoq](https://pypi.org/project/potatoq/) | 26.1a1 | Anže Pečar | 271.0 kB | A Celery-compatible task queue with production-ready defaults and backend-nativ… |
-| 2026-10-09 01:15:47 | [provenpaid-mcp](https://pypi.org/project/provenpaid-mcp/) | 0.1.0 | Justin Smith | 21.9 kB | MCP server for ProvenPaid: check an x402 endpoint before your agent pays it. Ev… |
+| 2026-10-09 01:28:04 | [tython-lang](https://pypi.org/project/tython-lang/) | 0.1.1 |  | 52.8 MB | Python with an erasable structural type system powered by the adapted TypeScrip… |
+| 2026-10-09 01:31:59 | [plunger-cli](https://pypi.org/project/plunger-cli/) | 0.5.1 |  | 18.8 MB | Plunger: send HTTP requests from a desktop app, the command line or an MCP serv… |
+| 2026-10-09 01:32:31 | [sql-dialect-master](https://pypi.org/project/sql-dialect-master/) | 1.1.1 |  | 384.6 kB | SQL Dialect Master - Multi-database SQL conversion engine |
+| 2026-10-09 01:35:08 | [tidy3](https://pypi.org/project/tidy3/) | 0.3.0 | Rigoberto Leyva Salmeron | 348.4 kB | dplyr-style lazy data manipulation on Polars, with R-like partial pipeline run |
+| 2026-10-09 01:37:34 | [webmd](https://pypi.org/project/webmd/) | 0.2.0 | Randall Morse <randymorse@gma… | 29.6 kB | Serve a directory in the browser, rendering Markdown files as web pages. |
+| 2026-10-09 01:39:57 | [dspyui-gradio](https://pypi.org/project/dspyui-gradio/) | 1.0.0 | Mike Taylor | 124.8 kB | A Gradio user interface for DSPy: define a signature, add data, optimize the pr… |
+| 2026-10-09 01:45:00 | [svromutils](https://pypi.org/project/svromutils/) | 0.1.2 |  | 78.0 kB |  |
+| 2026-10-09 01:49:11 | [ezmd](https://pypi.org/project/ezmd/) | 0.1.0rc1 | ezmd contributors | 377.4 kB | Convert anything to LLM-ready Markdown. |
+| 2026-10-09 01:51:04 | [NUDFT](https://pypi.org/project/NUDFT/) | 0.0.0 | Rui Luo <Rui.1002@proton.me> | 4.7 kB | Non-Uniform Discret/Direct Fourier Transform with parallel. Maybe useful as a g… |
+| 2026-10-09 01:52:16 | [emg-gui](https://pypi.org/project/emg-gui/) | 0.0.6 | Nikhil Pareek | 216.8 kB |  |
+| 2026-10-09 01:56:01 | [taxrebalance](https://pypi.org/project/taxrebalance/) | 0.1.0 | Garros Gong | 40.0 kB | Tax-aware portfolio rebalancing with Canadian ACB and U.S. tax-lot models |
+| 2026-10-09 01:59:50 | [fishpi-cli](https://pypi.org/project/fishpi-cli/) | 0.3.0 | "Hancel.Lin" <imlinhanchao@fo… | 58.8 kB | Terminal TUI and command-line interface for FishPi (摸鱼派) |
+| 2026-10-09 02:08:36 | [scrutineer-agents](https://pypi.org/project/scrutineer-agents/) | 0.3.0 | Adam Sims | 863.1 kB | Agent Behavioral Testing Platform — tests what agents DO, not just what they SAY |
+| 2026-10-09 02:09:13 | [nti-scanner](https://pypi.org/project/nti-scanner/) | 0.1.0 | Abisheak <abisheakp197@gmail.… | 54.8 kB | Professional NTI-1 compliance and AI agent security scanner with AST analysis,… |
+| 2026-10-09 02:10:17 | [khala](https://pypi.org/project/khala/) | 0.3.0 | Andy Hu | 835.3 kB | Shared long-term memory for AI agents: Markdown + Git, per-scope access, web ad… |
+| 2026-10-09 02:10:34 | [jax-pyrefly-stubs](https://pypi.org/project/jax-pyrefly-stubs/) | 1.4.0.dev3 |  | 93.4 kB | JAX type stubs with array-shape tracking, maintained by Pyrefly |
+| 2026-10-09 02:14:49 | [fair-bioheaders](https://pypi.org/project/fair-bioheaders/) | 0.4.0 | David Molik | 24.8 kB | Convert and validate FAIR-bioHeaders (FHR) metadata in JSON, YAML, FASTA, GFA,… |
+| 2026-10-09 02:15:51 | [wormhole-semantic](https://pypi.org/project/wormhole-semantic/) | 0.1.0 |  | 1.6 MB | Wormhole: a semantic layer runtime in Zig for DuckDB, PySpark and pandas |
+| 2026-10-09 02:15:53 | [pharmadata](https://pypi.org/project/pharmadata/) | 0.1.0 |  | 19.5 MB | CDISC SDTM and ADaM test datasets in Python for clinical programming |
+| 2026-10-09 02:16:19 | [mailingkit](https://pypi.org/project/mailingkit/) | 0.1.0 | "Jishanahmed AR Shaikh (JARS)… | 81.6 kB | A drop-in, provider-agnostic transactional email layer for Python applications. |
+| 2026-10-09 02:18:50 | [tf-rewardkit](https://pypi.org/project/tf-rewardkit/) | 1.6.3 | benediktstroebl | 448.5 kB | Lightweight grading toolkit for environment-based tasks. |
+| 2026-10-09 02:19:21 | [ezmd-converters](https://pypi.org/project/ezmd-converters/) | 0.1.0rc1 |  | 691.4 kB | Built-in converter families for ezmd. |

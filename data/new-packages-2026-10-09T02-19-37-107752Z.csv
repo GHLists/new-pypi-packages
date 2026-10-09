@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T01:28:04Z,tython-lang,0.1.1,,Apache-2.0,52750681,Python with an erasable structural type system powered by the adapted TypeScript checker
+2026-10-09T01:31:59Z,plunger-cli,0.5.1,,MIT,18819586,"Plunger: send HTTP requests from a desktop app, the command line or an MCP server for AI agents, with secrets kept out of agent output."
+2026-10-09T01:32:31Z,sql-dialect-master,1.1.1,,,384562,SQL Dialect Master - Multi-database SQL conversion engine
+2026-10-09T01:35:08Z,tidy3,0.3.0,Rigoberto Leyva Salmeron,MIT,348386,"dplyr-style lazy data manipulation on Polars, with R-like partial pipeline run"
+2026-10-09T01:37:34Z,webmd,0.2.0,Randall Morse <randymorse@gmail.com>,MIT,29601,"Serve a directory in the browser, rendering Markdown files as web pages."
+2026-10-09T01:39:57Z,dspyui-gradio,1.0.0,Mike Taylor,MIT,124789,"A Gradio user interface for DSPy: define a signature, add data, optimize the prompt and test it, without writing code."
+2026-10-09T01:45:00Z,svromutils,0.1.2,,MIT,77959,
+2026-10-09T01:49:11Z,ezmd,0.1.0rc1,ezmd contributors,Apache-2.0,377381,Convert anything to LLM-ready Markdown.
+2026-10-09T01:51:04Z,NUDFT,0.0.0,Rui Luo <Rui.1002@proton.me>,MIT,4733,Non-Uniform Discret/Direct Fourier Transform with parallel. Maybe useful as a groundtruth
+2026-10-09T01:52:16Z,emg-gui,0.0.6,Nikhil Pareek,,216777,
+2026-10-09T01:56:01Z,taxrebalance,0.1.0,Garros Gong,MIT,40040,Tax-aware portfolio rebalancing with Canadian ACB and U.S. tax-lot models
+2026-10-09T01:59:50Z,fishpi-cli,0.3.0,"""Hancel.Lin"" <imlinhanchao@foxmail.com>",MIT,58822,Terminal TUI and command-line interface for FishPi (摸鱼派)
+2026-10-09T02:08:36Z,scrutineer-agents,0.3.0,Adam Sims,MIT,863072,"Agent Behavioral Testing Platform — tests what agents DO, not just what they SAY"
+2026-10-09T02:09:13Z,nti-scanner,0.1.0,Abisheak <abisheakp197@gmail.com>,Apache-2.0,54806,"Professional NTI-1 compliance and AI agent security scanner with AST analysis, taint tracking, CWE mapping, MCP/A2A rules, and SARIF output."
+2026-10-09T02:10:17Z,khala,0.3.0,Andy Hu,Apache-2.0,835339,"Shared long-term memory for AI agents: Markdown + Git, per-scope access, web admin, remote MCP"
+2026-10-09T02:10:34Z,jax-pyrefly-stubs,1.4.0.dev3,,"MIT License Copyright (c) Meta Platforms, Inc. and affiliates. Permission is hereby granted, free o…",93357,"JAX type stubs with array-shape tracking, maintained by Pyrefly"
+2026-10-09T02:14:49Z,fair-bioheaders,0.4.0,David Molik,USDA-ARS,24794,"Convert and validate FAIR-bioHeaders (FHR) metadata in JSON, YAML, FASTA, GFA, and HTML (formerly the fhr package)"
+2026-10-09T02:15:51Z,wormhole-semantic,0.1.0,,,1638784,"Wormhole: a semantic layer runtime in Zig for DuckDB, PySpark and pandas"
+2026-10-09T02:15:53Z,pharmadata,0.1.0,,Apache-2.0,19495214,CDISC SDTM and ADaM test datasets in Python for clinical programming
+2026-10-09T02:16:19Z,mailingkit,0.1.0,"""Jishanahmed AR Shaikh (JARS)"" <jishanahmedshaikh@gmail.com>",MIT,81558,"A drop-in, provider-agnostic transactional email layer for Python applications."
+2026-10-09T02:18:50Z,tf-rewardkit,1.6.3,benediktstroebl,Apache-2.0,448476,Lightweight grading toolkit for environment-based tasks.
+2026-10-09T02:19:21Z,ezmd-converters,0.1.0rc1,,Apache-2.0,691351,Built-in converter families for ezmd.
