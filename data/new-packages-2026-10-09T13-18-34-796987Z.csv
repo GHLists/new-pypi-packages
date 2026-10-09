@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T12:20:36Z,django-mvp-compliance,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,318973,"Legal documents, consent records and cookie consent for django-mvp projects, managed from the database rather than the repository"
+2026-10-09T12:21:06Z,agentvow,0.1.0,,MIT,333096,Check a coding agent's claims against the repository before you approve.
+2026-10-09T12:23:45Z,yandex-calendar-mcp,0.1.0,Vladislav Katolyk <v.katolyk@luchi.ru>,MIT,60948,"MCP server for Yandex Calendar over CalDAV: events, todos, attendee availability, readonly and write modes"
+2026-10-09T12:24:45Z,labnet-control-center,3.0.0,Robert Miller,MIT,587334,"The LabNet Control Center: a web interface for a lab network, with the Automation safe-state watchdog"
+2026-10-09T12:24:48Z,labnet-automation,3.0.0,Robert Miller,MIT,171403,"The LabNet Automation runner: an agent's experiments in containers, run only under a person's approval"
+2026-10-09T12:24:51Z,labnet,3.0.0,Robert Miller,MIT,357304,Typed device control and acquisition services for a lab network
+2026-10-09T12:26:05Z,looker-sync,0.1.1,luutuankiet,MIT,33079,"Pull and push LookML between a local folder and your own Looker dev workspace, with read-back verification."
+2026-10-09T12:30:36Z,deeperfly,0.0.0,Thomas Ka Chung Lam,GPL-3.0-only,2388,"Placeholder, not yet released: markerless 3D pose estimation of Drosophila from multi-camera rigs."
+2026-10-09T12:30:38Z,octacam,0.0.0,Thomas Ka Chung Lam,,2308,"Placeholder, not yet released: preview, record, and save video from multiple scientific cameras."
+2026-10-09T12:30:39Z,spintrack,0.0.0,Thomas Ka Chung Lam,Apache-2.0,2371,"Placeholder, not yet released: track the 3D rotation of a spherical treadmill from video."
+2026-10-09T12:32:39Z,AssemblyCraftCompiler,1.2.0,Orbinuity <orbinuity@ratgers.nl>,BSD-3-Clause,9970,The official Assembly Craft compiler
+2026-10-09T12:32:45Z,pipeburn,0.1.0,Hexcrown,MIT,633938,"Stream an ISO straight from a URL to a USB drive. No pre-download, no temp file."
+2026-10-09T12:36:22Z,export-igorgraph,0.1.0,Norifumi L. YAMADA,MIT,137960,Turn a matplotlib figure into an Igor Pro graph (data + drawing commands in one HDF5 file).
+2026-10-09T12:36:50Z,sdcreader,4.0.0,"Axius SDC, Inc.",Apache-2.0,31649,"Read a published Semantic Data Charter model's package for projection into other standards (CDIF, DCAT-US, DCAT-AP, HealthDCAT-AP)."
+2026-10-09T12:39:52Z,labnet-sim,3.0.0,Robert Miller,MIT,101898,"Simulated LabNet devices: an optics bench (laser, AOM, EOM, AWG), a tunable laser and a wavemeter"
+2026-10-09T12:44:28Z,p5rem,0.1.0,Bryan Lawrence <bryan.lawrence@ncas.ac.uk>,BSD-3-Clause,478507,Remote HDF5 chunk serving and reduction over SSH
+2026-10-09T12:46:35Z,eosquality,0.2.1,Ersilia Open Source Initiative <hello@ersilia.io>,GPL-3.0-or-later,289580,Assess the quality of query data against a fitted reference population
+2026-10-09T12:48:45Z,imio.transmogrifier.contact,1.0a1,Stephan Geulette,GPL version 2,18818,blueprints for collective.contact.importexport
+2026-10-09T12:49:19Z,math101,0.1.0,,MIT,17186,A small teaching library for numerical mathematics in Python
+2026-10-09T12:52:20Z,rudderstack-ai,0.1.0,RudderStack,MIT,92793,"Automatic RudderStack AI events (spec v0.2) for OpenAI, Anthropic, LangChain and the Claude Agent SDK."
+2026-10-09T12:53:47Z,legible-slides,0.1.0,,MIT,4476736,The mechanical half of legible-slides: palette loading and CVD validation.
+2026-10-09T12:55:01Z,afolio,0.1.0,Mengzhao Wang,MIT,35896,Chunked scientific arrays with JSON records and integrity manifests
+2026-10-09T12:59:54Z,okama-planner,0.4.0,Sergey Kikevich,MIT,1809686,Personal and family financial planning powered by okama
+2026-10-09T13:00:34Z,shopee-skynet-quality-agent-jira-remote-links,0.0.0,sc,BSD License,2801,A small example package
+2026-10-09T13:01:10Z,mono-aeb,0.1.2,mono-aeb contributors,Apache-2.0,107561,检测器无关的单目 AEB 前向碰撞预警决策链：检测→跟踪→测距→TTC→风险决策（免标定尺度 TTC）
+2026-10-09T13:02:24Z,razladka,0.1.0,Andrey Ferubko,MIT,64347,"Generate synthetic time series with a given number of change points (Markov regime switching, Weierstrass–Mandelbrot roughness) with ground-truth labels, saved to CSV, Parquet, HDF5, NetCDF, Trosna a…"
+2026-10-09T13:03:13Z,pyteia,0.0.1,Pedro Tonso,Apache-2.0,829412,"A Hydra-configured deep-learning runtime: data, network and evaluation graphs declared in config and run by a thin Lightning engine."
+2026-10-09T13:05:56Z,mpltweak,0.1.0,shdbl,MIT,1246923,像在 PPT 里调多图排版一样调 matplotlib：拖拽排版 + AST 确定性写回脚本（调试零侵入）
+2026-10-09T13:07:42Z,qm-atlas,0.1.0,"Hagen Muenkler, Jimmy Kromann",MIT,959506,Molecular workflow for quantum chemistry property calculation
+2026-10-09T13:07:59Z,toolbroidge,0.1.0,Abhishek Kaushik <abhishekk09827@gmail.com>,MIT,20174,"Define Pydantic-backed tools once and run them across OpenAI, Anthropic, and Gemini."
+2026-10-09T13:08:32Z,momobase,0.1.0,,MIT,29530,Python SDK for the Momobase payment service API.
+2026-10-09T13:08:51Z,redispg,0.1.0,,,30859,A narrow RESP2-compatible key/value server backed by PostgreSQL
+2026-10-09T13:12:43Z,mangafire-dl,0.5.0,,MIT,47953,Download manga volumes and chapters from MangaFire in CBZ format.
+2026-10-09T13:13:03Z,spaceboard,1.0.1,Alessio Parolini <alepar.ap9@gmail.com>,MIT,9333,"A simple, open-source and self-hosted TUI dashboard to visualize NASA Near Earth Objects (NEOs) data."
+2026-10-09T13:13:39Z,listing-watch,4.0.0,Jost Prevc <jost.prevc@gmail.com>,MIT,254218,An extensible python library to create web crawlers which watch listings/classifieds and alert users of new items.
+2026-10-09T13:18:25Z,python-import-graph,0.1.0,,,9226577,
+2026-10-09T13:18:28Z,loopgrid-microsoft-agent,0.1.0,LoopGrid,Apache-2.0,45074,Native decision evidence middleware for Microsoft Agent Framework and LoopGrid
