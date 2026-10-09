@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T02:13:14Z,pith-math,0.1.0,,MIT,221988,"FFT, DCT-II, median and 3x3 linear algebra SDK via the pith-math Rust cdylib (ctypes, zero-dep)"
+2026-10-09T02:13:34Z,pith-digest,0.1.0,,MIT,196573,"pith digest SDK: SHA-256, CRC-32, Adler-32, FNV-1a 64 and splitmix64 via the pith-digest Rust cdylib (ctypes, zero-dep)"
+2026-10-09T02:23:01Z,loyaltydog-mcp,0.1.0,LoyaltyDog <support@loyalty.dog>,MIT,42517,"MCP server for the LoyaltyDog loyalty, wallet pass, and gift card API."
+2026-10-09T02:29:01Z,switchdeck,2026.10.9.1,,,93647,官方 Codex 桌面端的 macOS 中文终端账号切换工具
+2026-10-09T02:35:11Z,ppalgannal,0.1.0,rektpunk@gmail.com,,17812,"Korean holidays, aka the red days."
+2026-10-09T02:39:03Z,ezmd-mcp,0.1.0rc2,ezmd contributors,Apache-2.0,61615,"MCP server for ezmd: convert files, URLs and text to LLM-ready Markdown from any MCP client."
+2026-10-09T02:39:04Z,narwhalapi,0.1.0,Narwhal API Team <support@narwhalapi.com>,MIT,86510,Typed clients for the Narwhal API
+2026-10-09T02:42:55Z,vizi-plugin-sdk,0.0.1,,Apache-2.0,2651,Placeholder holding the vizi-plugin-sdk name; the SDK is not yet released
+2026-10-09T02:44:36Z,exchangerate-dev,0.1.0,"""Nusantara Ventures, LLC"" <hello@exchangerate.dev>",MIT,34045,Typed clients for the exchangerate.dev API
+2026-10-09T02:44:41Z,goldprice-dev,0.1.0,"""Nusantara Ventures, LLC"" <hello@goldprice.dev>",MIT,38068,Typed clients for the goldprice.dev API
+2026-10-09T02:50:16Z,zplkit,0.2.0,,OSL-3.0,11205430,Local ZPL parsing and rendering powered by Rust
+2026-10-09T02:51:02Z,pass-sim,0.6.0,"Mingxuan Chang <changmx@impcas.ac.cn>, Jie Liu <liujie115@impcas.ac.cn>, Lei Wang <wangl@impcas.ac.…",,2390521,Particle Accelerator Simulation Studio
+2026-10-09T02:52:33Z,sdrbench,0.1.0,SDRBench team,BSD-3-Clause,390796,Download and load SDRBench scientific datasets from Hugging Face or the original Globus archives
+2026-10-09T02:52:34Z,qnnruntime,2.48.0.2,,,352110569,Direct Python runtime for Qualcomm QNN context binaries
+2026-10-09T02:56:15Z,mcp-hcaptcha,2026.10.8.0,AceDataCloud <support@acedata.cloud>,MIT,36553,MCP server for AceDataCloud hCaptcha captcha APIs
+2026-10-09T02:56:59Z,fontpkg-lexend-deca,1.7,,OFL-1.1,97281,"Lexend Deca font family, packaged for Python by fontpkg"
+2026-10-09T02:57:01Z,fontpkg-sanchez,1.1,,OFL-1.1,62983,"Sanchez font family, packaged for Python by fontpkg"
+2026-10-09T02:57:03Z,fontpkg-oleo-script,1.2,,OFL-1.1,45140,"Oleo Script font family, packaged for Python by fontpkg"
+2026-10-09T02:57:05Z,fontpkg-onest,2.1,,OFL-1.1,114992,"Onest font family, packaged for Python by fontpkg"
+2026-10-09T02:57:29Z,pith-flac,0.1.0,,MIT,192911,"FLAC decoding SDK: STREAMINFO, constant/verbatim/fixed subframes and both Rice methods via the pith-flac Rust cdylib (ctypes, zero-dep)"
+2026-10-09T02:57:46Z,pith-inflate,0.1.0,,MIT,195359,"DEFLATE and zlib decompression SDK: RFC 1951/1950 streams with hard size limits via the pith-inflate Rust cdylib (ctypes, zero-dep)"
+2026-10-09T02:57:48Z,pith-mp3,0.1.0,,MIT,243312,"MP3 decoding SDK: layers I/II/III including the bit reservoir via the pith-mp3 Rust cdylib (ctypes, zero-dep)"
+2026-10-09T02:58:04Z,parquet-tool,1.0.1,,,4894461,"Inspect Apache Parquet files: schema, row count, contents, and compression statistics"
+2026-10-09T03:00:42Z,icdev-core,0.2.1,Sovanna Chuon,Apache-2.0,47534,"ICDEV shared core: domain declaration, path resolution, identity assertion and sensitivity labelling for the ICDEV[IT] and ICDEV[FT] parents."
+2026-10-09T03:14:04Z,funauth,0.1.1,"牛哥 <niuliangtao@qq.com>, farfarfun <farfarfun@qq.com>",MIT,18667,可复用的登录与注册底座：密码登录、角色、邀请码注册（SQLAlchemy 异步）
