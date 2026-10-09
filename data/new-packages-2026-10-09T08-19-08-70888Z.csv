@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T07:21:42Z,sf-smartsim,3.0.0,SmartTasks Lab,Apache-2.0,22681,Simulate before it hits you. See your role's task-by-task collapse sequence.
+2026-10-09T07:22:04Z,sf-smartfeed,3.0.0,SmartTasks Lab,Apache-2.0,21437,Distill the firehose. A tight brief of only what moves your work.
+2026-10-09T07:22:35Z,sf-smartprompt,3.0.0,SmartTasks Lab,Apache-2.0,23332,"Lint before you send. Bad prompt in, bad work out — and it's your name on it."
+2026-10-09T07:23:01Z,agentos-ledger-client,0.1.1,,,98704,Canonical AgentOS State Ledger client and content-addressed blob storage
+2026-10-09T07:25:58Z,xoichim,1.0.1,Hoang,MIT,743486,Trần Đình Hoàng
+2026-10-09T07:26:12Z,artinforge,0.1.0,Artin Karimian,MIT,3752946,"A lightweight, modular Python toolkit for developer utilities."
+2026-10-09T07:27:20Z,marn,0.1.0,Arjun Manjunath,Apache-2.0,126892,
+2026-10-09T07:30:34Z,sweep-loss,0.1.0,Shaowen Wang <shaowen.wang@kaust.edu.sa>,MIT,123129,A PyTorch library of misfit (loss) functions for Full Waveform Inversion (sweep plugin).
+2026-10-09T07:30:38Z,sweep-io,0.1.0,Shaowen Wang <shaowen.wang@kaust.edu.sa>,MIT,180115,"File and dataset I/O for seismic full-waveform inversion: velocity models, SEG-Y, acquisition geometry, shot-gather datasets."
+2026-10-09T07:30:42Z,sweep-nn,0.1.0,Shaowen Wang <shaowen.wang@kaust.edu.sa>,MIT,110918,"PyTorch neural reparameterization and priors for seismic FWI: SIREN, DIP, learned regularizers."
+2026-10-09T07:31:05Z,sweep-tasks,0.1.0,Shaowen Wang <shaowen.wang@kaust.edu.sa>,MIT,847902,"Typed, YAML-driven task layer for sweep — FWI/LSRTM/forward/wavefield tasks with a Pydantic schema, sync TaskRunner, distributed (torchrun) support, and a CLI suitable for LLM / programmatic invocati…"
+2026-10-09T07:32:55Z,refix-fix44,0.1.0,David Steiner <david@davidsteiner.dev>,MIT OR Apache-2.0,99362,Typed FIX 4.4 messages for ReFIX
+2026-10-09T07:33:02Z,pyplexilent,0.1.1,Plexilent <connect@plexilent.com>,MIT,9946,Async client for the Plexilent smart lighting cloud
+2026-10-09T07:33:56Z,dazzle-claude-code-patcher,0.2.0,"""Dustin Darcy (djdarcy)"" <djdarcy@users.noreply.github.com>",MIT,117982,"Windows-first patch tool for the native Claude Code CLI: apply, verify and diagnose community patches across releases."
+2026-10-09T07:34:08Z,sf-smartcheck,3.0.0,SmartTasks Lab,Apache-2.0,26636,Check before you sign off. Catch the AI when it's confidently wrong.
+2026-10-09T07:34:17Z,sf-smartseal,3.0.0,SmartTasks Lab,Apache-2.0,23457,Seal what you ship. A signed receipt so anyone can verify what they received.
+2026-10-09T07:34:38Z,sf-smartstandard,3.0.0,SmartTasks Lab,Apache-2.0,23128,"Standardize before you scale. One shared, auditable convention for AI-assisted work."
+2026-10-09T07:37:21Z,lybase-ex,1.0.5,8mu <8mu@8mu.com.cn>,,168889,按组织分库（org sharding）的 Django 公共库：org_router app，提供分库路由、org 上下文、公共数据同步、组织感知事务与分库组织创建任务。
+2026-10-09T07:37:49Z,hill-ops,0.1.1,Pierre Baume,,141131,"Runs a terminal app above a strip for its settings, help and commands, the two talking over a channel"
+2026-10-09T07:38:58Z,sf-smartmoat,3.0.0,SmartTasks Lab,Apache-2.0,21855,Know your moat. Score the tasks AI can't easily take — and widen them.
+2026-10-09T07:39:02Z,sr-harness,1.0.0rc1,YuMeow <yuzh19@tsinghua.org.cn>,MIT,1062003,SRHarness: a harness for agentic symbolic regression
+2026-10-09T07:39:13Z,sf-smartroute,3.0.0,SmartTasks Lab,Apache-2.0,25173,Route only what you trust. Gate agents and tools with trust scores and guardrails.
+2026-10-09T07:39:53Z,sf-smartpolicytranslator,1.0.0,,Apache-2.0,43825,"Translate natural-language regulation into REAL, schema-conformant IAIso policy files."
+2026-10-09T07:40:40Z,allio,0.0.1,"""Michael J. Sullivan"" <msully4321@gmail.com>",,1519,Placeholder
+2026-10-09T07:41:51Z,odoo-addon-sale-order-manual-lock,19.0.1.0.0.1,"NICO SOLUTIONS - ENGINEERING & IT, Odoo Community Association (OCA)",AGPL-3,21536,Adds manual lock and unlock buttons to sale orders.
+2026-10-09T07:43:00Z,acp-client,0.1.0,,,9417,"Talk to an ACP agent, such as Claude's claude-agent-acp, from asyncio"
+2026-10-09T07:43:47Z,operaton-contracts,0.1.0,,,42262,"Pydantic task contracts, runtime validation, and generated element templates for Operaton external tasks, with optional Robot Framework support"
+2026-10-09T07:44:08Z,rindo-runner,1.3.0,Rindo,Apache-2.0,400993,The Rindo project-agent runner: polls your Rindo server for agent jobs and runs your agent command on a machine you control
+2026-10-09T07:44:16Z,rindo-convert,0.1.0,Rindo,Apache-2.0,415499,"The Rindo converter agent: vision-grounded conversion of PDF and PPTX files into reviewable Rindo documents, run through rindo-runner"
+2026-10-09T07:44:23Z,rindo-provisioner,0.1.0,Rindo,Apache-2.0,102427,The Rindo reference provisioner: turns a runner pool's demand into one-job ephemeral runners inside E2B sandboxes
+2026-10-09T07:47:29Z,hill-client,0.1.1,,,9191,"Join hill-ops's channel from a Python app: say hello, open settings, hear about changes"
+2026-10-09T07:50:08Z,evtx-hound,0.2.0,"""Nam Hai (ZlightkunZ)"" <zlightkunz@gmail.com>",,8252,High-reliability EVTX log parser and triage engine for enterprise security analysts.
+2026-10-09T07:51:20Z,kivodb,0.1.0,KivoDB contributors,MIT,71857,A lightweight multi-driver key/value database abstraction for Python
+2026-10-09T07:52:31Z,veripipe,0.1.1,zhangyuyu03,"MIT License Copyright (c) 2026 veripipe contributors Permission is hereby granted, free of charge,…",249405,Anti-false-positive verification pipeline for AI agents testing web/HTTP products
+2026-10-09T07:58:01Z,pytest-record-replay,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",88329,Record and recall behavior in pytest tests
+2026-10-09T07:59:07Z,cuda-doctor,0.1.2,cuda-doctor contributors,MIT,121221,Local CUDA / PyTorch development environment diagnostic tool
+2026-10-09T08:00:12Z,keyline,0.1.0,,,4691,"A one-line, clickable strip of key hints for Textual apps, like micro's or nano's key menu"
+2026-10-09T08:02:11Z,settings-panel,0.1.0,,,19436,"A game-style settings panel for Textual apps: fixed choices, tiles or list, written straight to JSON or TOML config files"
+2026-10-09T08:04:19Z,tunnex,26.10.9.19,Tunnex,MIT,84353,"Expose local HTTP, WebSocket, TCP and UDP services at a public *.tunnex.org address"
+2026-10-09T08:05:32Z,mangabinder,0.1.1,Mohammad Owais,MIT,73432,"Download manga chapters, convert them to PDF, bind them into volumes and export CBZ - from the command line or a local web UI."
+2026-10-09T08:09:29Z,mathbug,0.1.1,Benjamin Chau,,11131,Add your description here
+2026-10-09T08:10:22Z,langchain-graciousquotes,0.1.0,Gracious Quotes <jeremiah@graciousquotes.com>,"MIT License Copyright (c) 2026 Gracious Quotes Permission is hereby granted, free of charge, to any…",22836,"LangChain tools that check who really said a quote: a verdict, the source it was traced to, and a citation, from Gracious Quotes' fact-checked records."
+2026-10-09T08:10:28Z,pyargprocessors,0.1.0,aaltatan,GPL-3.0-only,38659,"A lightweight, typed Python library for turning raw function arguments into the objects a function wants, with a Process marker next to the parameter."

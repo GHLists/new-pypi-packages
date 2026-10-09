@@ -8,54 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 07:18 UTC
+## Latest list — 2026-10-09 08:19 UTC
 
-New packages created between 2026-10-09 06:19 UTC and 2026-10-09 07:18 UTC.
+New packages created between 2026-10-09 07:18 UTC and 2026-10-09 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-09T07-18-45-998229Z.csv)
+[Full CSV](data/new-packages-2026-10-09T08-19-08-70888Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-09 06:19:19 | [travis234-content-guard](https://pypi.org/project/travis234-content-guard/) | 0.1.0 |  | 40.1 kB | Optional Travis234 extension that flags instruction-shaped text in tool results. |
-| 2026-10-09 06:20:02 | [uv-readiness](https://pypi.org/project/uv-readiness/) | 0.1.0 | Andrii Kohut <kogut.andriy@gm… | 212.4 kB | Check whether a uv project's locked dependencies are ready for a Python version. |
-| 2026-10-09 06:21:02 | [odoo-addon-shopfloor-reception-measuring-device-mobile](https://pypi.org/project/odoo-addon-shopfloor-reception-measuring-device-mobile/) | 18.0.1.1.0 | Camptocamp, Odoo Community As… | 23.4 kB | Frontend for the measuring device on reception scenario |
-| 2026-10-09 06:22:49 | [polyedge](https://pypi.org/project/polyedge/) | 1.0.0 | PolyEdge Developer Support <d… | 30.4 kB | Official Python SDK for PolyEdge ultra-low latency Polymarket mempool trade str… |
-| 2026-10-09 06:24:28 | [ai-telemetry-agent](https://pypi.org/project/ai-telemetry-agent/) | 0.1.1 | Engineering Telemetry Team | 109.8 kB | Local developer telemetry agent for Antigravity AI usage and engineering signals |
-| 2026-10-09 06:28:36 | [repolens-toolkit](https://pypi.org/project/repolens-toolkit/) | 0.1.1 | RepoLens Contributors | 98.6 kB | Understand how a codebase works. |
-| 2026-10-09 06:31:36 | [crawlora-reddit](https://pypi.org/project/crawlora-reddit/) | 0.1.1 | Crawlora | 49.5 kB | Typed Reddit client for the Crawlora hosted API |
-| 2026-10-09 06:31:48 | [volcenginesdk-volcobserve](https://pypi.org/project/volcenginesdk-volcobserve/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-volc… |
-| 2026-10-09 06:31:55 | [volcenginesdk-volcsms](https://pypi.org/project/volcenginesdk-volcsms/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-volc… |
-| 2026-10-09 06:31:57 | [l1fit](https://pypi.org/project/l1fit/) | 0.1.0 | Jonathan Helgert <github@helg… | 373.0 kB | Fast constrained L1 curve fitting: a modernized Fortran implementation of ACM T… |
-| 2026-10-09 06:31:59 | [crawlora-amazon](https://pypi.org/project/crawlora-amazon/) | 0.1.1 | Crawlora | 44.4 kB | Typed Amazon client for the Crawlora hosted API |
-| 2026-10-09 06:32:01 | [volcenginesdk-vpc](https://pypi.org/project/volcenginesdk-vpc/) | 0.0.1 | volc-engine | 974 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-vpc |
-| 2026-10-09 06:32:07 | [volcenginesdk-vpn](https://pypi.org/project/volcenginesdk-vpn/) | 0.0.1 | volc-engine | 976 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-vpn |
-| 2026-10-09 06:32:12 | [plotly-print](https://pypi.org/project/plotly-print/) | 0.1.0 | Roman Kaczanowski <roman.kacz… | 1.1 MB | Lightweight, browser-less static image exporter for Plotly |
-| 2026-10-09 06:32:30 | [crawlora-imdb](https://pypi.org/project/crawlora-imdb/) | 0.1.1 | Crawlora | 62.5 kB | Typed IMDb client for the Crawlora hosted API |
-| 2026-10-09 06:32:36 | [mpxnk-logging](https://pypi.org/project/mpxnk-logging/) | 1.0.0 | meowthpxnk | 7.6 kB | mpxnk-logging |
-| 2026-10-09 06:32:50 | [coding-agent-session-manager](https://pypi.org/project/coding-agent-session-manager/) | 0.1.0 | session-manager contributors | 107.7 kB | Move visible conversation history between local AI coding agents. |
-| 2026-10-09 06:34:16 | [pawnfetch](https://pypi.org/project/pawnfetch/) | 0.1.0 | Chinmoy <ranjanchinmoy@gmail.… | 30.0 kB | Fetch and compare chess.com player profiles and stats from the command line |
-| 2026-10-09 06:36:26 | [x402kit](https://pypi.org/project/x402kit/) | 0.2.0 | automaton <automaton@example.… | 16.4 kB | Minimal, correct client for x402 pay-per-call HTTP APIs (verified wire shape). |
-| 2026-10-09 06:36:55 | [physicalcontextprotocol](https://pypi.org/project/physicalcontextprotocol/) | 1.0.0 | Sandeep Thummala <physicalcon… | 304.7 kB | Physical Context Protocol — MCP-compatible standard protocol for robots and ind… |
-| 2026-10-09 06:37:10 | [qmlmathplot](https://pypi.org/project/qmlmathplot/) | 0.1.0 | I-AM-A-NOOB | 122.2 kB | Embeddable function plotter for Qt Quick / QtWidgets (implicit per-pixel drawin… |
-| 2026-10-09 06:37:19 | [spark-rust-assets](https://pypi.org/project/spark-rust-assets/) | 0.42.1a1 |  | 4.2 MB | Spark Rust multi-environment alpha distribution |
-| 2026-10-09 06:37:32 | [spark-rust-connect-clients](https://pypi.org/project/spark-rust-connect-clients/) | 0.42.1a1 |  | 34.6 MB | Spark Rust multi-environment alpha distribution |
-| 2026-10-09 06:38:26 | [audioexport](https://pypi.org/project/audioexport/) | 0.1.0 | audioexport contributors | 59.5 kB | Standalone FFmpeg audio encoder with metadata, chapter, cover and reproducible… |
-| 2026-10-09 06:38:52 | [xfa](https://pypi.org/project/xfa/) | 0.0.1 | Mindverse <tao@mindverse.ai> | 2.4 kB | xfA (x for Agents): one identity for all your agents. Set up at https://xfa.sh |
-| 2026-10-09 06:42:39 | [amd-oneclick-sdk](https://pypi.org/project/amd-oneclick-sdk/) | 1.0.0 |  | 132.9 kB | Scoped command-line SDK for Radeon Cloud accounts and instances |
-| 2026-10-09 06:47:42 | [lightweight-dag](https://pypi.org/project/lightweight-dag/) | 0.1.3 | Lorenzo Gardini | 20.2 kB | A lightweight Python library for defining and executing DAG workflows |
-| 2026-10-09 06:53:04 | [defoundry](https://pypi.org/project/defoundry/) | 0.1.0 | Honza | 139.9 kB | Composable Differential Evolution optimizer |
-| 2026-10-09 06:55:17 | [monorobot](https://pypi.org/project/monorobot/) | 0.0.1 | Convex Robotics | 11.2 kB | Coming soon. |
-| 2026-10-09 07:02:09 | [cranebench](https://pypi.org/project/cranebench/) | 0.1.2 | S. Podliesnyi, O. Sheremet, B… | 87.5 kB | A reproducible benchmark for underactuated crane control |
-| 2026-10-09 07:02:54 | [sai-sdk](https://pypi.org/project/sai-sdk/) | 0.1.0a2 |  | 46.5 kB | Python SDK for the Sai API: delegate desktop work to Sai, or drive a cloud comp… |
-| 2026-10-09 07:04:23 | [odoo-addon-sy-sale-confirm-reason](https://pypi.org/project/odoo-addon-sy-sale-confirm-reason/) | 18.0.1.0.0.1 | Sygel | 46.5 kB | Adds reasons for confirming sale orders |
-| 2026-10-09 07:04:34 | [dsh-cf-tunnel](https://pypi.org/project/dsh-cf-tunnel/) | 0.1.0 | riteme <riteme@qq.com> | 73.7 kB | Serve the dsh Web UI through a Cloudflare quick tunnel, with a scannable termin… |
-| 2026-10-09 07:06:34 | [pitbacktest](https://pypi.org/project/pitbacktest/) | 0.2.0 | Janghyuk Choi | 312.1 kB | Backtest harness for factor screening, event signals and portfolio alphas, buil… |
-| 2026-10-09 07:08:19 | [grft-test-fundamentals-e2e](https://pypi.org/project/grft-test-fundamentals-e2e/) | 0.1.0 | graftcode | 5.7 kB | Fundamentals host types for graft E2E (e.g. classes without constructors) |
-| 2026-10-09 07:08:39 | [pytextad](https://pypi.org/project/pytextad/) | 0.1.0 | Yang Cao | 48.3 kB | A unified library for text anomaly detection (document- and token-level), in th… |
-| 2026-10-09 07:11:44 | [mihomo-py](https://pypi.org/project/mihomo-py/) | 0.1.0 |  | 94.9 MB | A subscription and process manager for mihomo on Linux servers |
-| 2026-10-09 07:13:36 | [whaletop](https://pypi.org/project/whaletop/) | 0.1.0 |  | 88.8 kB | htop-style terminal UI for Docker: containers, images, volumes, networks and co… |
-| 2026-10-09 07:14:15 | [loom-ia](https://pypi.org/project/loom-ia/) | 2.0.0 | Denis Lamard | 1.1 MB | Moteur d'agents IA en Python asynchrone : rôles délégués à des modèles, outils… |
-| 2026-10-09 07:17:09 | [steadybatch](https://pypi.org/project/steadybatch/) | 0.2.1 | Ankur Partap Kotwal <kotwal.i… | 80.5 kB | Run millions of LLM requests through batch APIs without silent failures. |
-| 2026-10-09 07:17:35 | [sf-smartpangolin](https://pypi.org/project/sf-smartpangolin/) | 3.0.0 | Roen Branham, Le Thanh | 121.7 kB | Deterministic, fail-closed, auditable secret-scrubbing packager for sharing cod… |
-| 2026-10-09 07:17:58 | [sf-smartfabric](https://pypi.org/project/sf-smartfabric/) | 0.5.0 | SmartTasks <enterprise@smartt… | 82.8 kB | IAIso Fabric Protocol (IFP) — carry & enforce IAIso containment across a fleet… |
-| 2026-10-09 07:18:17 | [sf-smartllmcost](https://pypi.org/project/sf-smartllmcost/) | 0.1.0 | SmartTasks | 49.5 kB | Apples-to-apples LLM cost & performance benchmark — cost per successful task, r… |
+| 2026-10-09 07:21:42 | [sf-smartsim](https://pypi.org/project/sf-smartsim/) | 3.0.0 | SmartTasks Lab | 22.7 kB | Simulate before it hits you. See your role's task-by-task collapse sequence. |
+| 2026-10-09 07:22:04 | [sf-smartfeed](https://pypi.org/project/sf-smartfeed/) | 3.0.0 | SmartTasks Lab | 21.4 kB | Distill the firehose. A tight brief of only what moves your work. |
+| 2026-10-09 07:22:35 | [sf-smartprompt](https://pypi.org/project/sf-smartprompt/) | 3.0.0 | SmartTasks Lab | 23.3 kB | Lint before you send. Bad prompt in, bad work out — and it's your name on it. |
+| 2026-10-09 07:23:01 | [agentos-ledger-client](https://pypi.org/project/agentos-ledger-client/) | 0.1.1 |  | 98.7 kB | Canonical AgentOS State Ledger client and content-addressed blob storage |
+| 2026-10-09 07:25:58 | [xoichim](https://pypi.org/project/xoichim/) | 1.0.1 | Hoang | 743.5 kB | Trần Đình Hoàng |
+| 2026-10-09 07:26:12 | [artinforge](https://pypi.org/project/artinforge/) | 0.1.0 | Artin Karimian | 3.8 MB | A lightweight, modular Python toolkit for developer utilities. |
+| 2026-10-09 07:27:20 | [marn](https://pypi.org/project/marn/) | 0.1.0 | Arjun Manjunath | 126.9 kB |  |
+| 2026-10-09 07:30:34 | [sweep-loss](https://pypi.org/project/sweep-loss/) | 0.1.0 | Shaowen Wang <shaowen.wang@ka… | 123.1 kB | A PyTorch library of misfit (loss) functions for Full Waveform Inversion (sweep… |
+| 2026-10-09 07:30:38 | [sweep-io](https://pypi.org/project/sweep-io/) | 0.1.0 | Shaowen Wang <shaowen.wang@ka… | 180.1 kB | File and dataset I/O for seismic full-waveform inversion: velocity models, SEG-… |
+| 2026-10-09 07:30:42 | [sweep-nn](https://pypi.org/project/sweep-nn/) | 0.1.0 | Shaowen Wang <shaowen.wang@ka… | 110.9 kB | PyTorch neural reparameterization and priors for seismic FWI: SIREN, DIP, learn… |
+| 2026-10-09 07:31:05 | [sweep-tasks](https://pypi.org/project/sweep-tasks/) | 0.1.0 | Shaowen Wang <shaowen.wang@ka… | 847.9 kB | Typed, YAML-driven task layer for sweep — FWI/LSRTM/forward/wavefield tasks wit… |
+| 2026-10-09 07:32:55 | [refix-fix44](https://pypi.org/project/refix-fix44/) | 0.1.0 | David Steiner <david@davidste… | 99.4 kB | Typed FIX 4.4 messages for ReFIX |
+| 2026-10-09 07:33:02 | [pyplexilent](https://pypi.org/project/pyplexilent/) | 0.1.1 | Plexilent <connect@plexilent.… | 9.9 kB | Async client for the Plexilent smart lighting cloud |
+| 2026-10-09 07:33:56 | [dazzle-claude-code-patcher](https://pypi.org/project/dazzle-claude-code-patcher/) | 0.2.0 | "Dustin Darcy (djdarcy)" <djd… | 118.0 kB | Windows-first patch tool for the native Claude Code CLI: apply, verify and diag… |
+| 2026-10-09 07:34:08 | [sf-smartcheck](https://pypi.org/project/sf-smartcheck/) | 3.0.0 | SmartTasks Lab | 26.6 kB | Check before you sign off. Catch the AI when it's confidently wrong. |
+| 2026-10-09 07:34:17 | [sf-smartseal](https://pypi.org/project/sf-smartseal/) | 3.0.0 | SmartTasks Lab | 23.5 kB | Seal what you ship. A signed receipt so anyone can verify what they received. |
+| 2026-10-09 07:34:38 | [sf-smartstandard](https://pypi.org/project/sf-smartstandard/) | 3.0.0 | SmartTasks Lab | 23.1 kB | Standardize before you scale. One shared, auditable convention for AI-assisted… |
+| 2026-10-09 07:37:21 | [lybase-ex](https://pypi.org/project/lybase-ex/) | 1.0.5 | 8mu <8mu@8mu.com.cn> | 168.9 kB | 按组织分库（org sharding）的 Django 公共库：org_router app，提供分库路由、org 上下文、公共数据同步、组织感知事务与分库组… |
+| 2026-10-09 07:37:49 | [hill-ops](https://pypi.org/project/hill-ops/) | 0.1.1 | Pierre Baume | 141.1 kB | Runs a terminal app above a strip for its settings, help and commands, the two… |
+| 2026-10-09 07:38:58 | [sf-smartmoat](https://pypi.org/project/sf-smartmoat/) | 3.0.0 | SmartTasks Lab | 21.9 kB | Know your moat. Score the tasks AI can't easily take — and widen them. |
+| 2026-10-09 07:39:02 | [sr-harness](https://pypi.org/project/sr-harness/) | 1.0.0rc1 | YuMeow <yuzh19@tsinghua.org.c… | 1.1 MB | SRHarness: a harness for agentic symbolic regression |
+| 2026-10-09 07:39:13 | [sf-smartroute](https://pypi.org/project/sf-smartroute/) | 3.0.0 | SmartTasks Lab | 25.2 kB | Route only what you trust. Gate agents and tools with trust scores and guardrai… |
+| 2026-10-09 07:39:53 | [sf-smartpolicytranslator](https://pypi.org/project/sf-smartpolicytranslator/) | 1.0.0 |  | 43.8 kB | Translate natural-language regulation into REAL, schema-conformant IAIso policy… |
+| 2026-10-09 07:40:40 | [allio](https://pypi.org/project/allio/) | 0.0.1 | "Michael J. Sullivan" <msully… | 1.5 kB | Placeholder |
+| 2026-10-09 07:41:51 | [odoo-addon-sale-order-manual-lock](https://pypi.org/project/odoo-addon-sale-order-manual-lock/) | 19.0.1.0.0.1 | NICO SOLUTIONS - ENGINEERING… | 21.5 kB | Adds manual lock and unlock buttons to sale orders. |
+| 2026-10-09 07:43:00 | [acp-client](https://pypi.org/project/acp-client/) | 0.1.0 |  | 9.4 kB | Talk to an ACP agent, such as Claude's claude-agent-acp, from asyncio |
+| 2026-10-09 07:43:47 | [operaton-contracts](https://pypi.org/project/operaton-contracts/) | 0.1.0 |  | 42.3 kB | Pydantic task contracts, runtime validation, and generated element templates fo… |
+| 2026-10-09 07:44:08 | [rindo-runner](https://pypi.org/project/rindo-runner/) | 1.3.0 | Rindo | 401.0 kB | The Rindo project-agent runner: polls your Rindo server for agent jobs and runs… |
+| 2026-10-09 07:44:16 | [rindo-convert](https://pypi.org/project/rindo-convert/) | 0.1.0 | Rindo | 415.5 kB | The Rindo converter agent: vision-grounded conversion of PDF and PPTX files int… |
+| 2026-10-09 07:44:23 | [rindo-provisioner](https://pypi.org/project/rindo-provisioner/) | 0.1.0 | Rindo | 102.4 kB | The Rindo reference provisioner: turns a runner pool's demand into one-job ephe… |
+| 2026-10-09 07:47:29 | [hill-client](https://pypi.org/project/hill-client/) | 0.1.1 |  | 9.2 kB | Join hill-ops's channel from a Python app: say hello, open settings, hear about… |
+| 2026-10-09 07:50:08 | [evtx-hound](https://pypi.org/project/evtx-hound/) | 0.2.0 | "Nam Hai (ZlightkunZ)" <zligh… | 8.3 kB | High-reliability EVTX log parser and triage engine for enterprise security anal… |
+| 2026-10-09 07:51:20 | [kivodb](https://pypi.org/project/kivodb/) | 0.1.0 | KivoDB contributors | 71.9 kB | A lightweight multi-driver key/value database abstraction for Python |
+| 2026-10-09 07:52:31 | [veripipe](https://pypi.org/project/veripipe/) | 0.1.1 | zhangyuyu03 | 249.4 kB | Anti-false-positive verification pipeline for AI agents testing web/HTTP produc… |
+| 2026-10-09 07:58:01 | [pytest-record-replay](https://pypi.org/project/pytest-record-replay/) | 0.1.0 |  | 88.3 kB | Record and recall behavior in pytest tests |
+| 2026-10-09 07:59:07 | [cuda-doctor](https://pypi.org/project/cuda-doctor/) | 0.1.2 | cuda-doctor contributors | 121.2 kB | Local CUDA / PyTorch development environment diagnostic tool |
+| 2026-10-09 08:00:12 | [keyline](https://pypi.org/project/keyline/) | 0.1.0 |  | 4.7 kB | A one-line, clickable strip of key hints for Textual apps, like micro's or nano… |
+| 2026-10-09 08:02:11 | [settings-panel](https://pypi.org/project/settings-panel/) | 0.1.0 |  | 19.4 kB | A game-style settings panel for Textual apps: fixed choices, tiles or list, wri… |
+| 2026-10-09 08:04:19 | [tunnex](https://pypi.org/project/tunnex/) | 26.10.9.19 | Tunnex | 84.4 kB | Expose local HTTP, WebSocket, TCP and UDP services at a public *.tunnex.org add… |
+| 2026-10-09 08:05:32 | [mangabinder](https://pypi.org/project/mangabinder/) | 0.1.1 | Mohammad Owais | 73.4 kB | Download manga chapters, convert them to PDF, bind them into volumes and export… |
+| 2026-10-09 08:09:29 | [mathbug](https://pypi.org/project/mathbug/) | 0.1.1 | Benjamin Chau | 11.1 kB | Add your description here |
+| 2026-10-09 08:10:22 | [langchain-graciousquotes](https://pypi.org/project/langchain-graciousquotes/) | 0.1.0 | Gracious Quotes <jeremiah@gra… | 22.8 kB | LangChain tools that check who really said a quote: a verdict, the source it wa… |
+| 2026-10-09 08:10:28 | [pyargprocessors](https://pypi.org/project/pyargprocessors/) | 0.1.0 | aaltatan | 38.7 kB | A lightweight, typed Python library for turning raw function arguments into the… |
