@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T10:07:18Z,apcat,26.10.0b1,,GPL-3.0-or-later,88713,"apcat is an environment to develop applications based on multiple apps, with common rules, shared business logic and with simplified code"
+2026-10-09T10:19:42Z,rutern,0.1.0,wealthystudent,MIT,89126,CLI and MCP server for the Telenor WiFi Ruter II (Zyxel EX5700)
+2026-10-09T10:19:43Z,greet-anonrider,0.2.0,anonrider404 <anonrider404@gmail.com>,"MIT License Copyright (c) 2026 anonrider404 Permission is hereby granted, free of charge, to any pe…",6957,A simple greeting package
+2026-10-09T10:19:57Z,antalia-mini,1.0.0,PatientDesk AI,Apache-2.0,2774141,"Antalia-2 Mini: small Turkish text to speech, one synthetic voice, 7.6M parameters, 48 kHz, faster than real time on a CPU"
+2026-10-09T10:22:42Z,odoo-addon-ladirecta-website-sale-address,16.0.1.0.0,Coopdevs Treball SCCL,AGPL-3,6770,Website Sale State Always Visible
+2026-10-09T10:22:48Z,rapidxmltodict,0.1.0,Alisher Nazarkhanov,MIT,2820678,RapidXML accelerated XML-to-dict with xmltodict-compatible output
+2026-10-09T10:23:09Z,xfa.sh,0.0.1,Mindverse <tao@mindverse.ai>,MIT,2474,xfA (x for Agents): one identity for all your agents. Set up at https://xfa.sh
+2026-10-09T10:23:22Z,alchemic,0.1.0,Steppestone,MIT,130524,"SQLAlchemy 2.0 declarative models that are also Pydantic models, with Mapped[T] typing a type checker actually understands."
+2026-10-09T10:25:50Z,nodes,1.8.4,Kent Engström <kent@nsc.liu.se>,GPL-2.0,19822,Handle hierarchical groups of nodes
+2026-10-09T10:26:54Z,xforagents,0.0.1,Mindverse <tao@mindverse.ai>,MIT,2518,xfA (x for Agents): one identity for all your agents. Set up at https://xfa.sh
+2026-10-09T10:27:26Z,ict-sleep-probe,0.1.0,,,4474,Sleep probe MCP server for measuring AgentArts platform MCP call timeout
+2026-10-09T10:28:09Z,skforecast-ai-mcp,0.4.0,"Javier Escobar Ortiz <javier.escobar.ortiz@gmail.com>, Joaquin Amat Rodrigo <j.amatrodrigo@gmail.co…",Apache-2.0,13818,MCP server of skforecast-ai: deterministic time series forecasting as tools for coding agents.
+2026-10-09T10:30:42Z,vs-arm-none-eabi-gcc-binary,0.0.1,,MIT,2453,Placeholder for Arm GNU Toolchain arm-none-eabi packaged as a wheel
+2026-10-09T10:33:16Z,scitheory,0.1.0,Marco Ferreira Ribeiro,MIT,16170,Claim graphs from the scientific literature: explain contradictions between studies and rank research gaps.
+2026-10-09T10:34:03Z,rivretrieve,0.1.1,,,29504248,A Python package for downloading global river gauge data
+2026-10-09T10:34:30Z,destiny-deet,0.5.0,"Harry Moss <h.moss@ucl.ac.uk>, Max Callaghan <max.callaghan@pik-potsdam.de>, Nik Loynes <n.loynes@u…",Apache-2.0,289703,"Data Extraction Evaluation Toolkit (DEET): A suite of tools, data models, etc. for extracting data from documents (e.g. papers) and evaluating the performance of such extraction tasks"
+2026-10-09T10:34:44Z,cplantbox,2.1.1,,,32402244,
+2026-10-09T10:35:25Z,lisa-datastore-client,0.9.3,,,30627,LISA Datastore Client
+2026-10-09T10:40:48Z,apollo-leads,0.1.0,,,6741,Find contacts (or top decision makers) at a company via the official Apollo.io API.
+2026-10-09T10:40:54Z,driftbrake-py,0.2.0,Xtley001,,223636,Chain-agnostic pre-flight simulation and drift-based halt guard for simulation-driven trading strategies and MEV searchers.
+2026-10-09T10:40:59Z,tungsten-tickets,0.1.0,Prism Infoways,MIT,48186,"Help desk plugin for Tungsten: tickets, replies, internal notes, SLA and a customer support page."
+2026-10-09T10:41:01Z,tungsten-blog,0.1.0,Prism Infoways,MIT,67048,"Tungsten plugin: a blog built for SEO, GEO and AEO, with a live score in the editor, schema.org data, sitemap, RSS and llms.txt."
+2026-10-09T10:41:03Z,tungsten-seo-audit,0.1.0,Prism Infoways,MIT,43962,"Tungsten plugin: SEO audit for your website, with a score, fix tips, history, and AI search (GEO/AEO) checks."
+2026-10-09T10:41:05Z,tungsten-security-audit,0.1.0,Prism Infoways,MIT,49766,"Tungsten plugin: a security audit with a score and fix tips, plus a login log with lockout."
+2026-10-09T10:42:25Z,openvkbottle-types,0.1.0,"timoniq, feeeek, luwqz1, cynexeso",MIT,561347,OpenVK API methods and types for OpenVKBottle.
+2026-10-09T10:43:34Z,shardio,0.1.0,Richard Sonnen <richard@richardsonnen.com>,MIT,49610,Sharded ZIP archive storage with Parquet index for many-small-blob workloads
+2026-10-09T10:44:51Z,agentic-terminal-mcp_1,0.1.0,anand-tech-sys <anandhatti8748@gmail.com>,,5429,Add your description here
+2026-10-09T10:45:32Z,openvkbottle,0.1.0,cynexeso,MIT License Copyright (c) 2019 timoniq Copyright (c) 2022-2024 axd1x8a Copyright (c) 2024 luwqz1 Co…,204403,Homogenic! Customizable asynchronous OpenVK API framework implementing comfort and speed.
+2026-10-09T10:46:59Z,optimal-sizing,2.0.0,"""Christley OLUBELA (Xtley001)"" <xtley001@users.noreply.github.com>",MIT,418347,Chain-agnostic profit-maximizing AMM trade sizing in Rust with Python bindings
+2026-10-09T10:47:01Z,frayproof,0.1.0,,Apache-2.0,97898,Deterministic contracts for AI conversation context transformations
+2026-10-09T10:47:19Z,nusii,0.1.0,Nusii <support@nusii.com>,MIT,71775,Official Python client for the Nusii proposal software API
+2026-10-09T10:47:24Z,BornSim,0.2.7,Martin Poinsinet de Sivry-Houle <martin.poinsinet.de.sivry@gmail.com>,MIT,1234893,Vector Born-series scattering from continuous random dielectric media
+2026-10-09T10:47:39Z,brain-decorrelator,0.1.0,Xtley001,MIT,10899,Strategy-agnostic alpha decorrelation engine with plugin-based orthogonalization axes.
+2026-10-09T10:47:50Z,brain-synthesis,0.1.0,Xtley001,MIT,11426,"Tri-factor apex synthesis engine fusing options, sentiment, and risk-model signals for WorldQuant BRAIN."
+2026-10-09T10:47:53Z,langchain-flashdata,0.1.1,FlashData <support@flashdata.dev>,MIT,272636,FlashData Google Search and YouTube tools for LangChain and LangGraph
+2026-10-09T10:51:11Z,binnacle-mcp,1.0.1,Binnacle contributors,MIT,494773,"Linux and Raspberry Pi MCP server for files, search and durable commands."
+2026-10-09T10:51:25Z,axiom-all,0.2.0b7,,MIT,195022,"Local-first CLI and daemon for inspecting models, datasets, and hardware-aware AI plans."
+2026-10-09T10:51:35Z,pyfx-terminal,0.1.3,,MIT,12357,Animated terminal visual effects and ASCII graphics for Python
+2026-10-09T10:52:22Z,moodle-backup-server,1.0.0,Udaya Raj Joshi,MIT,39596,Backup and restore system for Moodle exam and nrb servers
+2026-10-09T10:53:12Z,sessioncost,0.2.0,kish21,MIT,158570,"See how many tokens each turn of your coding-agent chat sends, why, and what to cut. Cost goes down with it."
+2026-10-09T10:56:09Z,e2x-course-hub-kubespawner,0.1.0,Tim Metzler <tim.metzler@h-brs.de>,MIT,53812,"Role-Based Access Control (RBAC) for JupyterHub within the e2x ecosystem, supporting hierarchical scopes (Hub, Course, Term) based on JupyterHub groups."
+2026-10-09T10:56:36Z,python-can-canpal,0.1.0rc1,,MIT,62225,CANPAL USB and TCP backend for python-can
+2026-10-09T10:59:05Z,hamiltonian-vqe-kit,0.1.0,Ashraf Khan <research@appliedquantum.ai>,Apache-2.0,45370,"Validated, honest VQE and ADAPT-VQE toolkit for chemical accuracy and honest cost accounting"
+2026-10-09T11:01:26Z,pagestore,0.0.0,Riccardo De Maria <riccardo.de.maria@cern.ch>,,126677,"Time-series storage in immutable, checksummed array pages"
+2026-10-09T11:01:36Z,qfabric,1.0.0,Ayushman Bhattacharya <ayushman@myceli.ai>,Apache-2.0,265889,Contract-driven recovery across Linux and RTOS execution domains
+2026-10-09T11:04:33Z,tokengarden,0.1.0,,MIT,16688,"A small, consistent Python interface to multiple language model providers."
+2026-10-09T11:10:32Z,macrostates-cli,0.3.1,Lucas Lopez <713375+lucaslopez@users.noreply.github.com>,MIT,68271,"Compose, install and validate versioned Macrostates specification packages."
+2026-10-09T11:14:15Z,seqout,0.2.7,"Aniruddha Mukherjee, Mukesh Reddy, Saket Choudhary",BSD-3-Clause,290349,"Search genomics datasets across GEO, SRA, ENA, DDBJ, ArrayExpress, GEA and GSA. Read GEO supplementary files as counts matrices."
+2026-10-09T11:15:30Z,clerq,0.0.0,Thomas P Ogden <t@ogden.eu>,MIT,4188,Reserved: package coming soon (successor to MaxwellBloch).
+2026-10-09T11:18:12Z,durability,1.0.0,Jack Huey <jhhuey@icloud.com>,,8706,A Python persistance library.
