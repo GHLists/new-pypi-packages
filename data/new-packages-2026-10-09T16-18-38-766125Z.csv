@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T15:19:07Z,django-fulltextsearch,0.1.0,Yasin Çakır <yasincakir.py@gmail.com>,MIT,37987,"Drop-in PostgreSQL full-text search for Django: auto-maintained search_vector, GIN/GiST index, boolean query syntax, admin/DRF/forms integration."
+2026-10-09T15:20:06Z,streamcase,0.1.0a2,Sepuri Sai Krishna,Apache-2.0,71537,Deterministic testing for Apache Spark Structured Streaming pipelines
+2026-10-09T15:25:25Z,atlas-pca-langgraph,0.3.0,Atlas,MIT,39431,"LangGraph tool/node guard for Atlas Proof-Carrying Authority (PCA): make every graph tool/node call proof-carrying and policy-gated, with interrupt()-based step-up for risky nodes"
+2026-10-09T15:25:27Z,atlas-pca-google-adk,0.3.0,Atlas,MIT,28408,Google ADK (Gemini/Vertex Agent Development Kit) tool guard for Atlas Proof-Carrying Authority (PCA): make every ADK tool call proof-carrying and policy-gated
+2026-10-09T15:25:29Z,atlas-pca-haystack,0.3.0,Atlas,MIT,25270,Haystack (deepset) tool guard for Atlas Proof-Carrying Authority (PCA): make every Haystack tool/ToolInvoker call proof-carrying and policy-gated
+2026-10-09T15:25:30Z,atlas-pca-agent-framework,0.3.0,Atlas,MIT,30771,Microsoft Agent Framework tool guard for Atlas Proof-Carrying Authority (PCA): make every tool/function call proof-carrying and policy-gated
+2026-10-09T15:25:47Z,oddsrelay,0.1.0,OddsRelay <hello@oddsrelay.io>,MIT,29115,"The OddsRelay Python client: bookmaker and exchange odds for the UK & Ireland as JSON, standard library only."
+2026-10-09T15:26:31Z,career-emulator-techarena,1.0.0,"Hugo <hugo@hugohuang.com>, Yuwei <yuwei.willow.z@gmail.com>",MIT,528085,TechArena Career Survival Agent challenge dataset (English dev validation set)
+2026-10-09T15:27:57Z,costwatch,1.0.0,jonnym,Apache-2.0,457345,Find wasted AWS spend: idle and orphaned resources with estimated monthly cost
+2026-10-09T15:28:18Z,covant,0.0.1,Amjad <amjad_email@yahoo.com>,Apache-2.0,4853,"Covant: AI-native work management that will anticipate, explain and act, on infrastructure the customer owns. Initial release reserving the package name; the first functional release will follow."
+2026-10-09T15:29:25Z,PyNowify,0.1.0,Oren Cohen <orenc17@gmail.com>,MIT AND (Apache-2.0 OR BSD-2-Clause),14654,"A dynamic, theme-adapting Spotify Now Playing desktop client built with Tkinter."
+2026-10-09T15:32:12Z,holoscan-ultrasound-imaging-cu13,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1101,Zero version placeholder for holoscan_ultrasound_imaging_cu13
+2026-10-09T15:32:51Z,holoscan-robotics,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1072,Zero version placeholder for holoscan_robotics
+2026-10-09T15:35:46Z,pymations,0.1.0,John Wylie,MIT,2445622,"Maths animations in Python, drawn in your web browser. Runs Manim Community scripts."
+2026-10-09T15:37:26Z,passweave,0.0.1,passweave <contact@passweave.com>,MIT,5996,A small collection of Python utility helpers.
+2026-10-09T15:38:23Z,comet-smlm,1.2.0,"Lenny Reinkensmeier <lenny.reinkensmeier@ifnano.de>, Mark Bates <mark.bates@ifnano.de>",MIT,236561,GPU-accelerated drift correction for single molecule localization microscopy datasets
+2026-10-09T15:38:28Z,zalos-sheetops,0.4.2,Zalos,MIT,410557,Agent-native Excel and CSV operations toolkit
+2026-10-09T15:38:33Z,wiimote-spotlight,0.4.0,Daniel Raniz Raneland,MIT-0,12203,Simple program for controlling a presentation spotlight with a Wiimote
+2026-10-09T15:41:18Z,wellerlab,0.1.0,Philipp Weller,,139636,"WellerLab Orange3 suite: Metabo statistics, PLS-DA/OPLS-DA, PCA Pro and NMR preprocessing in one category"
+2026-10-09T15:41:27Z,scientographer,0.1.0,Alfredo Hernández Inostroza,AGPL-3.0-or-later AND MIT AND CC0-1.0 AND LicenseRef-CC-BY-per-article,6039728,"Map a scientific literature from its citation network: Leiden/CPM communities across a resolution sweep, quality and well-connectedness metrics, keyword labels and an interactive map, as a reproducib…"
+2026-10-09T15:42:35Z,zcode-pro,0.16.0,,Apache-2.0,451118,ZCode Pro — ZCode 桌面版界面增强启动器（不修改客户端文件），核心功能：项目自定义别名
+2026-10-09T15:43:02Z,pith-cdc,0.1.0,,MIT,182389,"FastCDC content-defined chunking SDK: normalized Gear-fingerprint chunk boundaries via the pith-cdc Rust cdylib (ctypes, zero-dep)"
+2026-10-09T15:43:31Z,pith-h264,0.1.0,,MIT,322408,"H.264/AVC baseline-subset decoding SDK: Annex-B NAL/SPS/PPS, CAVLC slices, in-loop deblocking via the pith-h264 Rust cdylib (ctypes, zero-dep)"
+2026-10-09T15:43:33Z,untaped-dotfiles,10.1.0,Alexis Beaulieu,MIT,95387,Dotfiles capability for untaped.
+2026-10-09T15:45:44Z,finpanel,0.1.0a2,,MIT,11145717,Research infrastructure for reproducible point-in-time SEC fundamentals
+2026-10-09T15:45:46Z,tradedesk-marketdata,2.0.0,"""Radius Red Ltd."" <opensource@radiusred.uk>",Apache-2.0,449627,Market data downloader and candle/tick exporter for backtesting workflows (Dukascopy and HistData.com).
+2026-10-09T15:46:16Z,arc56-generated-donen-3e080014,1.2.2026072010,donendosted,,71029,Generated ARC-56 Algorand smart-contract clients for donendosted/AlgoCrefi-hackseries.
+2026-10-09T15:46:19Z,mosaica,0.0.0,,Apache-2.0,1901,Reserved for Mosaica. The first release is on its way.
+2026-10-09T15:46:20Z,mosaica-native,0.0.0,,Apache-2.0,1974,Reserved for Mosaica. The first release is on its way.
+2026-10-09T15:46:41Z,PyDLNA,0.1.4,SurrealisticRabbit,MIT,41289,"A simple, zero-dependency DLNA Python library for discovery, streaming, and device control."
+2026-10-09T15:46:41Z,minions-py,0.2.0,,,53388,Reusable provider-specific AI workflow agents.
+2026-10-09T15:47:21Z,arc56-generated-dysen-6da93bd4,1.2.2026072010,DysenteryCrypto,,28952,Generated ARC-56 Algorand smart-contract clients for DysenteryCrypto/staking.
+2026-10-09T15:48:25Z,arc56-generated-eggsl-0d28c66e,1.3.2026072109,EggsLeggs,,32707,Generated ARC-56 Algorand smart-contract clients for EggsLeggs/algobounty.
+2026-10-09T15:49:30Z,arc56-generated-erics-58a52ce0,1.2.2026072010,ericsharma,,40548,Generated ARC-56 Algorand smart-contract clients for ericsharma/Algo-Potato-Frontend.
+2026-10-09T15:50:10Z,soml-lang,0.0.1,Sindre Sorhus,MIT,136571,"Read and write SOML, a config format for humans"
+2026-10-09T15:50:13Z,flux-sockets,0.6.5,,MIT,20747,"Dead-simple sockets: events, rooms, JSON and WebSockets in a few lines."
+2026-10-09T15:54:35Z,jupedsim-network,0.1.0,,LGPL-3.0-or-later,156047,"Coarse network egress model for fast evacuation-time estimates, companion to JuPedSim"
+2026-10-09T15:58:38Z,verdict-evals,0.1.0,,Apache-2.0,14164878,"Regression testing for AI agent products: run your real code with side effects contained, grade outcomes, and get an honest verdict on every change."
+2026-10-09T15:59:15Z,claude-ssh-voice,0.1.0,Matteo Donato,MIT,21990,Use Claude Code's native /voice over SSH by bridging your local microphone to the remote server.
+2026-10-09T15:59:49Z,voicehook-agent,0.14.1,voicehook.ai,MIT,202713,Zero-install CLI for any LLM agent to join a voicehook.ai voice call as a 2nd participant
+2026-10-09T16:02:07Z,netbox-rack-design-mcp,0.1.0,Petr Voronov <ravenrs@gmail.com>,Apache-2.0,26563,"Read-only MCP server for the netbox-rack-design plugin: execution plan, simulation and smart-hands work orders for Claude."
+2026-10-09T16:11:39Z,sarvam-agents-client,0.1.0,Sarvam AI,MIT,462523,Sarvam Agents API
+2026-10-09T16:13:38Z,physiofit_manager,1.1.0,Loïc Le Grégam,,30610,Manage PhysioFit input files
+2026-10-09T16:14:19Z,nordic-balancing,0.1.0a1,Razikale365,MIT,57213,"Python client for Nordic electricity balancing and imbalance data (Energinet, Fingrid, Svenska kraftnät, eSett, ENTSO-E), normalised to 15-minute UTC intervals."
