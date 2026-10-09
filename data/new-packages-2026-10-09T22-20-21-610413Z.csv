@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T18:30:12Z,livekit-plugins-nabrah,1.8.6,LiveKit <hello@livekit.io>,Apache-2.0,22540,LiveKit Agents plugin for Nabrah Arabic speech-to-text
+2026-10-09T21:22:48Z,everos-mcp,0.1.0,EverMind AI <service@evermind.ai>,MIT,133571,"MCP server for EverOS — long-term memory for AI agents, backed by the EverOS Cloud Memory API (v2)"
+2026-10-09T21:22:55Z,momentous,0.1.0,Dene Hoffman,,122866,Covariance-aware angular-moment bounds and partial-wave compatibility
+2026-10-09T21:23:02Z,ophix-cred-client,2026.10.6.2,Ophix Project,MIT,18320,Credential Tier 1 client for Ophix Project Servers
+2026-10-09T21:23:33Z,vello,0.1.0,Linebender & Vello Python Contributors,Apache-2.0 OR MIT,30138488,High-performance GPU compute-centric 2D vector graphics engine for Python
+2026-10-09T21:24:39Z,zog,0.1.0,,BSD-3-Clause OR GPL-3.0-only,2782038,Zog aggregate Python distribution
+2026-10-09T21:24:59Z,turkce-normalize,0.1.0,Mehmet Veysel Delibaş,MIT,73548,"TTS için Türkçe metin normalizasyonu: sayı, tarih, saat, para, kısaltma, Roma rakamı, kesir, e-posta ve adres okunuşu."
+2026-10-09T21:25:03Z,turkce-vurgu,0.1.0,,MIT AND CC-BY-SA-4.0,246908,"Türkçe G2P ve sözcük vurgusu: metin → vurgu işaretli IPA (espeak'siz, ses sentezi için)"
+2026-10-09T21:25:06Z,turkce-tts-sinav,0.1.0,,MIT AND CC-BY-SA-4.0,260971,"Türkçe G2P, sözcük vurgusu ve ses sentezi ön uçları için açık sınav verisi ve değerlendirici"
+2026-10-09T21:25:10Z,turkce-duygu,0.1.0,Mehmet Veysel Delibaş,MIT AND CC-BY-SA-4.0,61117,"Türkçe metinden seslendirme stili: kurallı konuşma eylemi (soru, rica, uyarı, özür) + BERTurk duygu modeli, GPU'suz"
+2026-10-09T21:27:58Z,vintasend-templates-management-api,3.5.0,Vinta Software,MIT,166776,REST API that exposes a VintaSend ManagedTemplateService over HTTP for template-management UIs
+2026-10-09T21:29:11Z,gemini-mcp-gateway,0.8.0,vernikr,MIT,188867,"MCP gateway for massive-payload Gemini analysis on the AI Studio free tier: chunking with overlap, consolidation, thinking_level control, deep progress, rotating disk logs"
+2026-10-09T21:36:37Z,mrfkit,0.1.0,Dima Osipa,Apache-2.0,441931,"Parse US hospital and insurer price transparency files (MRFs) into clean, normalized rows."
+2026-10-09T21:41:27Z,eyewright,0.3.0,,,1251169,eyewright - local decision core: three-eye gate + one-call typed decisions
+2026-10-09T21:42:16Z,sniffmcp-cli,0.4.1,,Apache-2.0,131078,"Audit the MCP servers installed in your agent: injection, credentials, pinning, and post-install drift."
+2026-10-09T22:02:59Z,noviquery,0.dev0,Novi Labs <devops@novilabs.com>,,814,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-09T22:03:00Z,novi-pmi-lab,0.dev0,Novi Labs <devops@novilabs.com>,,817,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-09T22:03:02Z,novi-tables,0.dev0,Novi Labs <devops@novilabs.com>,,813,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-09T22:03:03Z,novi-turtles,0.dev0,Novi Labs <devops@novilabs.com>,,820,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-09T22:04:53Z,qevedo-compiler,0.1.0,,Apache-2.0,33656,"QCC, the Quantum Compiler Collection: a technology-agnostic quantum circuit compiler (qevedo.compiler)"
+2026-10-09T22:10:16Z,opencraw,0.0.2,,MIT,17762,"Build OpenCraw recipes in Python, drive the real OpenCraw CLI, and write hooks in Python."
+2026-10-09T22:13:41Z,qevedo-simulator,0.1.0,,MIT,7109538,"qvd, a fast quantum circuit simulator: AVX2 state vector, stabilizer, MPS and near-Clifford backends (qevedo.simulator)"
+2026-10-09T22:15:32Z,qevedo,0.1.0,,Apache-2.0,12331,The Qevedo quantum toolkit: the QCC compiler (qevedo.compiler) and the qvd simulator (qevedo.simulator)
+2026-10-09T22:17:49Z,filingsift,0.1.0,FilingSift,Apache-2.0,19653,Dependency-free client for the FilingSift REST API v1
