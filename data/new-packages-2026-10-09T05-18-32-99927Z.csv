@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T04:23:14Z,toga-code-editor,0.1.1,Kattni <hello@kattni.com>,BSD-3-Clause,56456,"A Toga widget for editing code, with line numbers and syntax highlighting."
+2026-10-09T04:24:00Z,rtsos,1.1.0rc1,"Pengwang Zhai <pwzhai@gmail.com>, Ian Carroll <ian.t.carroll@nasa.gov>",CC-BY-NC-4.0,1043232,Radiative Transfer model based on Successive Orders of Scattering
+2026-10-09T04:29:00Z,csimx,0.1.0,Eddy Lecoña,MIT,12161911,"csimx: code similarity in two stages, a fast lexical filter and a structural comparison (parse trees and tree edit distance)"
+2026-10-09T04:30:41Z,xoras-agent-framework,2.0.1,XORAS Systems LLC <engineering@xoras.ai>,MIT,36159,Enterprise Multi-Agent Runtime & AST Security Governance Framework
+2026-10-09T04:33:05Z,ontocraft-check,0.5.0,OntoCraft,Apache-2.0,367785,"OWL 온톨로지 검사 도구: 모델링 함정, 메타데이터, OWL 2 RL 논리, SHACL, 한국 산업 용어 등록부 대조를 한국어 보고서로 냅니다"
+2026-10-09T04:33:12Z,django-q-watchdog,0.1.0,Pradeep <pradeep.chauhan43@gmail.com>,MIT,34591,"Find the django-q tasks that crashed, timed out or froze, and say which ones."
+2026-10-09T04:33:28Z,bib2gbt,0.1.1,,,33620,Convert BibTeX references to GB/T 7714 style ([J]/[D]/[C]/[N] etc.)
+2026-10-09T04:36:48Z,imgphotoeditor,0.1.0,ImgPhotoEditor Team <support@imgphotoeditor.ai>,MIT,4967,Official Python client and workflow tools for AI Photo Editor (https://imgphotoeditor.ai/).
+2026-10-09T04:48:23Z,oxid-frame,0.1.0,Optersoft <admin@optersoft.com>,Apache-2.0,1584823,"A small columnar frame: the same Rust engine under CPython, in a program oxid aot compiles, and in a page"
+2026-10-09T04:48:48Z,scaniom,0.3.2,,LicenseRef-Proprietary,10713,"Scaniom L2 SDK for machine-speed AI behavior guard, observation and evidence through the Scaniom Node."
+2026-10-09T04:49:27Z,alphaspec,0.1.0,OpenAlpha contributors,Apache-2.0,387579,"The auditable contract between alpha and execution: JSON schemas, a validator and lint rules for declarative trading strategies."
+2026-10-09T04:49:58Z,cachekat,0.4.11,,MIT,57546,"A TUI to see which dev caches eat your disk - and reclaim space safely, risk-graded."
+2026-10-09T04:51:40Z,torch-harmonics-cu132,0.9.3,"Boris Bonev, Thorsten Kurth, Max Rietmann, Mauro Bisson, Andrea Paris, Alberto Carpentieri, Massimi…",Copyright (c) 2022 The torch-harmonics Authors. All rights reserved. Redistribution and use in sour…,8326,Differentiable signal processing on the sphere for PyTorch.
+2026-10-09T04:51:53Z,qizhixi-mcp,0.1.0,,,27226179,"Multimodal document, OCR, chart and report tools for Qizhixi"
+2026-10-09T04:52:54Z,vihar,0.0.1,"Georgi Kalev, Victor Kalev",Apache-2.0,1640,vihar - validated CFD case runner. Placeholder release.
+2026-10-09T04:53:30Z,vnpy-postgresql-x,1.0.1,EddyXie <xieshufan@163.com>,MIT,12170,vnpy官方的vnpy_postgresql有一个问题，生成的表的主键是int不是bigint，在数据量巨大的情况下，容易触发主键值耗尽，特此改良
+2026-10-09T04:59:48Z,vihar-lbm,0.0.1,"Georgi Kalev, Victor Kalev",Apache-2.0,1717,Lattice Boltzmann solver for vihar (Rust). Placeholder release.
+2026-10-09T05:02:59Z,ancora-rag,0.1.1,,MIT,110130,"Grounded answers, or an honest escalation. A dependency-free hallucination gate for RAG chatbots."
+2026-10-09T05:03:48Z,nl2data-core,0.1.0,NL2Data Contributors,Apache-2.0,898569,A governed and extensible Python framework for natural-language access to heterogeneous enterprise data.
+2026-10-09T05:08:26Z,mpxnk-test-library,0.1.0,meowthpxnk,MIT,4277,LIB_DESCRIPTION
+2026-10-09T05:11:43Z,SSONAL-pkg1,0.1.0,SSONALGUPTA,MIT,5900,"A Python module containing functions for factorial, prime number, Armstrong number, sum of digits, and reverse of a number"
+2026-10-09T05:13:15Z,vnpy-baostock-x,1.0.0,EddyXie <xieshufan@163.com>,MIT,7703,vnpy_baostock这个库，不是vnpy官方的，好久不维护了，里面的数据异常处理，没有做好，下载数据的时候，容易报错，特此改进
+2026-10-09T05:13:35Z,pythonpackage-pkb2,0.1.0,Sanjana,MIT,3232,A simple Python package containing mathematical functions
+2026-10-09T05:14:16Z,send0,0.2.0,Kunal Dholiya,MIT,112415,Official Python SDK for send0: email inboxes for AI agents
+2026-10-09T05:14:17Z,carla-driver-interface,1.0.0,Masaya Kataoka,Apache-2.0,113247,"Both ends of alpasim's egodriver gRPC contract: serve a driving policy, or drive one without CARLA"
+2026-10-09T05:15:09Z,styleprofile,0.2.0,John J. Wang,MIT,750742,Stylometric profiles of a writer's texts: drift from a reference and LLM-likeness.
+2026-10-09T05:15:27Z,mpxnk-test-library-sec,0.1.0,meowthpxnk,MIT,4323,LIB_DESCRIPTION
+2026-10-09T05:15:36Z,pyulix,1.2.0b2,Ajay Rakde,MIT,875275,Pyulix: independent Python visual automation bridge
+2026-10-09T05:16:39Z,jev-tools-setup,0.3.0,Rcidshacker <ruchitdas36@gmail.com>,MIT,68594,"One-command installer for the jev-tools Claude Code plugin: pick the OpenJev (Codiv) API, a local model, or offline mode."
