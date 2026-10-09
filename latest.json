@@ -1,43 +1,19 @@
 {
   "list": {
-    "count": 57,
-    "from": "2026-10-09T13:18:34.796987Z",
-    "path": "data/new-packages-2026-10-09T14-18-36-760709Z.csv",
-    "to": "2026-10-09T14:18:36.760709Z"
+    "count": 41,
+    "from": "2026-10-09T14:18:36.760709Z",
+    "path": "data/new-packages-2026-10-09T15-18-37-559765Z.csv",
+    "to": "2026-10-09T15:18:37.559765Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-09T10:34:50Z",
-      "package": "anand-agentic-terminal-mcp",
-      "since": "2026-10-09T10:18:38.757059Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-09T11:19:48Z",
-      "package": "apache-airflow-providers-common-search",
-      "since": "2026-10-09T10:18:38.757059Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-09T11:19:33Z",
-      "package": "apache-airflow-providers-search",
-      "since": "2026-10-09T10:18:38.757059Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-09T10:31:57Z",
-      "package": "deltakit-analyse",
-      "since": "2026-10-09T10:18:38.757059Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-09T12:53:11Z",
       "package": "trijigo-kalip",
       "since": "2026-10-09T12:18:51.073505Z"
     }
   ],
-  "serial": 42020529,
+  "serial": 42023988,
   "source_truncated": false,
-  "window": "2026-10-09T14:18:36.760709Z"
+  "window": "2026-10-09T15:18:37.559765Z"
 }

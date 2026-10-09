@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T14:19:46Z,simplysocket,0.1.0,,MIT,7511,Small helpers for creating standard-library sockets
+2026-10-09T14:20:39Z,constructing-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49252,A machine that constructs.
+2026-10-09T14:22:52Z,acustoviasr,0.1.0,,MIT,8057,Tiny standard-library loader for remote speech-recognition profiles
+2026-10-09T14:22:57Z,wavforge,0.1.0,,MIT,7994,Tiny standard-library loader for remote audio-analysis profiles
+2026-10-09T14:23:03Z,evalometer,0.1.0,,MIT,8006,Tiny standard-library runner for remote benchmark profiles
+2026-10-09T14:23:10Z,ferrotts,0.1.0,,MIT,8012,Tiny standard-library loader for remote voice-synthesis profiles
+2026-10-09T14:23:56Z,pxm2,1.0.0,PXM2 Team <support@pxm2.io>,,6355,Official Python client and proxy rotator for PXM2 4G/5G mobile proxies.
+2026-10-09T14:25:27Z,deconstructing-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49441,A machine that deconstructs what had been constructed.
+2026-10-09T14:26:29Z,lg-heatpump-modbus,0.0.1,lg-heatpump-modbus contributors,Apache-2.0,106780,Read and control LG heat pumps (Therma V and siblings) over Modbus.
+2026-10-09T14:26:52Z,golemorph,1.1.0,,MIT,693473,"Complete, coherent synthetic personas for authorized red team spearphishing campaigns: name, email, phone, backstory."
+2026-10-09T14:27:13Z,esphome-log-collector,0.1.1,,MIT,126956,Continuously collect and retain ESPHome firmware logs from many devices
+2026-10-09T14:27:27Z,pricecast,0.1.2,"Ward De Paepe, Francesco Contino",MIT,62013,Synthetic hourly electricity price years for prospective energy system studies
+2026-10-09T14:28:14Z,xplique-adapters,0.1.0,DEEL Core Team <agustin-martin.picard@irt-saintexupery.com>,MIT AND Apache-2.0 AND BSD-3-Clause AND AGPL-3.0-or-later,129053,"Adapters and extension modules for Xplique, for model-specific explainability."
+2026-10-09T14:29:36Z,prefect-sqlalchemy-entra,0.1.0,"""Prefect Technologies, Inc."" <help@prefect.io>",Apache License 2.0,263474,"Prefect integrations for working with databases, with Microsoft Entra ID token authentication"
+2026-10-09T14:30:47Z,reconstructing-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49415,A machine that reconstructs what had been deconstructed.
+2026-10-09T14:31:42Z,vapoursynth-bm3dvk2,1.0,,GPL-3.0-or-later,3774839,"Block-Matching and 3D filtering, using Vulkan compute"
+2026-10-09T14:32:27Z,tunnelmate-cli,1.0.2,Shashan Lumbhani <lumbhanishashan1510@gmail.com>,MIT,107567,"Cloudflare Quick Tunnel manager with CLI, Interactive TUI, Daemon IPC, and Telegram Bot"
+2026-10-09T14:33:36Z,ioniktech-hello-world,0.2.0,Ioniktech OSPO,Apache-2.0,14122,Hello-world package used to exercise the PyPI release pipeline
+2026-10-09T14:34:51Z,cmgr-cli,1.0.0,,MIT,200828,Universal multi-provider manager and reasoning-blob session bridge for OpenAI Codex CLI
+2026-10-09T14:35:34Z,wagtail-in-a-tree,0.1.0,,MIT,50034,"Manage any django-treebeard model (AL, MP or NS) in the Wagtail admin: tree listings with drag and drop, alphabetical sorting, and a tree checkbox widget."
+2026-10-09T14:36:01Z,narrashap,0.1.0,David Wisdom Kibet <wisdomdavie24@gmail.com>,MIT,63190,Transform SHAP explanations into fidelity-checked natural-language narratives
+2026-10-09T14:41:26Z,flyteplugins-gitlab,0.0.0a0,Flyte Contributors,,10468,Receive GitLab webhooks in Flyte.
+2026-10-09T14:45:12Z,pygameeasysup,0.1.0,,MIT,18101,"PYGAMEEASY — pygame without the pain: window, shapes, images, sound and input in a few lines."
+2026-10-09T14:46:16Z,mermaid-render,0.7.2,Python port contributors,MIT,63923,"Render Mermaid diagrams to SVG, PNG, PDF or connected Visio VSDX"
+2026-10-09T14:46:25Z,beastlink,0.1.0,Your Name,MIT,4211,A self-contained music plugin for Python Discord bots.
+2026-10-09T14:47:57Z,betdex,0.1.0,brandon-betdex,MIT,77902,Python client for the BetDEX Exchange REST and Stream APIs
+2026-10-09T14:48:21Z,pc2img,0.11.0,Nicholas Meyer <meyernic@ethz.ch>,"BSD 3-Clause License Copyright (c) 2022–2026 ETH Zurich Department of Civil, Environmental and Geom…",338266,Software to convert point clouds to images with various image representations.
+2026-10-09T14:49:17Z,dbtidy,0.2.0,Antoaneta Stoyanova,MIT,45988,"Linter et convertisseur de projets dbt sur Oracle, attentif aux couches."
+2026-10-09T14:50:44Z,pyavd-utils-gen,0.0.12,Arista Networks <avd-dev@arista.com>,Apache-2.0,11792204,Build-time schema generation tooling for pyAVD.
+2026-10-09T14:57:46Z,pixbin,0.1.0,Deni Bertovic,MIT,28566,Python client library for Pixbin Image API
+2026-10-09T14:57:52Z,shoppy-mcp,0.1.0,Nyamkhuu Demberelsuren,MIT,46791,Unofficial MCP server and typed Python client for the Shoppy.mn storefront
+2026-10-09T15:01:33Z,stdpneuron,0.1.1,Guille-ux <guilleleiratemes@gmail.com>,MIT,6720,idk
+2026-10-09T15:02:39Z,py2ops,2.2,pyops,MIT,8448,small python companion shell - operator-linked client
+2026-10-09T15:02:54Z,acp-gateway,0.1.0,Lujker,MIT,546925,"Local gateway that routes messages from external channels (Hermes, Telegram, ...) to ACP agents"
+2026-10-09T15:03:32Z,yclients,0.1.0,Ilya Sukhorukov <dexoon@gmail.com>,MIT,686186,Асинхронный типизированный Python-клиент для YCLIENTS REST API
+2026-10-09T15:10:37Z,hank-format,0.1.0,Sam Hartzog <sam.hartzog@hank.ai>,,17746,Shared string formatting functions for standardizing values across the Hank AI stack.
+2026-10-09T15:10:52Z,flet-yandex-ads,0.1.0,Onyeka Nwokike <nwokikeonyeka@gmail.com>,MIT,33851,Display Yandex Mobile Ads in Flet apps.
+2026-10-09T15:11:55Z,pytuneslib,0.1.0,AlexRodry,MIT,77833,Generate iTunes Library.itl and iTunes Music Library.xml from a music folder
+2026-10-09T15:14:25Z,mathy-py,0.1.0,Terry D. Eppler,"MIT License Copyright (c) 2024 Terry D. Eppler Permission is hereby granted, free of charge, to any…",172715892,"Machine learning, data analysis, forecasting, and a Streamlit interface."
+2026-10-09T15:15:20Z,thuk,1.0.1,,,2587534,"Offline terminal reference for Unit 2, Unit 5, Django, Docker and Git"
+2026-10-09T15:18:07Z,atsh,0.1.0,Your Name <you@example.com>,MIT,4281,My personal toolbox - starting with a hello world
