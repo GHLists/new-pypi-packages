@@ -8,34 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 00:18 UTC
+## Latest list — 2026-10-09 01:20 UTC
 
-New packages created between 2026-10-08 23:19 UTC and 2026-10-09 00:18 UTC.
+New packages created between 2026-10-09 00:18 UTC and 2026-10-09 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-09T00-18-36-859587Z.csv)
+[Full CSV](data/new-packages-2026-10-09T01-20-40-478431Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-08 23:20:59 | [budget-guard-llm](https://pypi.org/project/budget-guard-llm/) | 0.1.1 | BiztechEG | 48.6 kB | Per-user, per-feature and daily spend limits, plus loop detection, for OpenAI a… |
-| 2026-10-08 23:24:59 | [godotbridge](https://pypi.org/project/godotbridge/) | 1.0.0 | DigitalFusion <info@digital-f… | 164.7 kB | MCP server that lets AI agents (Claude, Cursor, Windsurf) inspect and control a… |
-| 2026-10-08 23:26:40 | [danceflow-agent-tools](https://pypi.org/project/danceflow-agent-tools/) | 0.1.2 | Kieran Simkin | 85.7 kB | Portable DanceFlow skills and local KeywordMoves/PixelCue MCP tools. https://ki… |
-| 2026-10-08 23:26:44 | [prideQC](https://pypi.org/project/prideQC/) | 0.2.0 |  | 500.6 kB | Streaming mass spectrometry QC and evidence-based technical SDRF annotation |
-| 2026-10-08 23:28:13 | [ocr-cleaner](https://pypi.org/project/ocr-cleaner/) | 0.1.0 | Pranay Mahendrakar | 95.8 kB | Prepare a scanned page so OCR reads it better: deskew, denoise, threshold |
-| 2026-10-08 23:29:13 | [document-quality](https://pypi.org/project/document-quality/) | 0.1.0 | Pranay Mahendrakar | 155.2 kB | Decide whether a scanned page is good enough to OCR before you spend money OCRi… |
-| 2026-10-08 23:31:56 | [trino-fdw](https://pypi.org/project/trino-fdw/) | 0.1.0 |  | 58.5 kB | PostgreSQL foreign data wrapper for Trino, built on Multicorn2 |
-| 2026-10-08 23:33:59 | [zebsdsolve](https://pypi.org/project/zebsdsolve/) | 0.1.0 | Zachary Varley | 23.2 MB | EBSD pattern-centre fitting and indexing on the GPU (Zig + WGSL over WebGPU), w… |
-| 2026-10-08 23:34:48 | [dau-dev](https://pypi.org/project/dau-dev/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.4 kB | dau-dev |
-| 2026-10-08 23:34:49 | [dau-platform](https://pypi.org/project/dau-platform/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.4 kB | dau-platform |
-| 2026-10-08 23:38:33 | [pyfortiflex](https://pypi.org/project/pyfortiflex/) | 0.1.0 | Dylan Spille | 28.8 kB | Python client for the FortiFlex v2 API, with safe per-node entitlement allocati… |
-| 2026-10-08 23:39:09 | [johnhenry-math-plus-interop](https://pypi.org/project/johnhenry-math-plus-interop/) | 0.0.0 |  | 17.9 kB | Python-side interop helpers for math-plus: Arrow IPC / Parquet / .npy-.npz roun… |
-| 2026-10-08 23:48:24 | [xmatcher](https://pypi.org/project/xmatcher/) | 0.5.1 | Seb Fabbro <sebfabbro@gmail.c… | 1.0 MB | High-performance, format-agnostic astronomical catalogue crossmatching and mult… |
-| 2026-10-08 23:49:58 | [obfuscidian](https://pypi.org/project/obfuscidian/) | 1.0.0 | Jeff Shurtliff | 254.1 kB | Obfuscate and encrypt your Obsidian vault to create secure and private backups. |
-| 2026-10-08 23:53:56 | [wifi-ap-associations](https://pypi.org/project/wifi-ap-associations/) | 0.1.0 | Darek Margas | 63.9 kB | Read which Wi-Fi clients are associated to an access point (D-Link DAP, OpenWrt… |
-| 2026-10-08 23:54:06 | [fastino](https://pypi.org/project/fastino/) | 0.0.1 | Fastino AI | 2.9 kB | Official Python client for the Fastino API: train, fine-tune and run models. |
-| 2026-10-08 23:59:43 | [videofield](https://pypi.org/project/videofield/) | 0.0.3 | Yerzat Dulat | 656.6 kB |  |
-| 2026-10-09 00:00:08 | [devin-janitor](https://pypi.org/project/devin-janitor/) | 0.1.0 | Icaro0310 | 95.8 kB | Session lifecycle janitor for Devin Desktop — export-then-delete safety pipelin… |
-| 2026-10-09 00:01:04 | [magnet-scout](https://pypi.org/project/magnet-scout/) | 0.1.1 | MagnetScout contributors | 72.8 kB | Discover and assess public BitTorrent metadata without downloading payloads |
-| 2026-10-09 00:06:13 | [nomosguard](https://pypi.org/project/nomosguard/) | 0.1.0 | Furox-Art <177975472+Furox-Ar… | 79.6 kB | Deterministic security reasoning core: hash-chained evidence ledger, attack-pat… |
-| 2026-10-09 00:06:32 | [beaver-box](https://pypi.org/project/beaver-box/) | 1.0.1 | "Christian Joyce G. Garcia" <… | 1.2 MB | Turn raw data into ready-to-run SQL. |
-| 2026-10-09 00:11:25 | [selldatatoai](https://pypi.org/project/selldatatoai/) | 1.0.0 | Alpha Quantum | 22.4 kB | Python client for the Data Asset Score API from selldatatoai.com: score company… |
-| 2026-10-09 00:13:15 | [biopyr](https://pypi.org/project/biopyr/) | 0.0.1 | Arnaud Taton <aataton@gmail.c… | 2.0 kB | A framework integrating Python and R for biological data analysis |
+| 2026-10-09 00:20:05 | [omeify](https://pypi.org/project/omeify/) | 0.21.0 | Jason L Weirather | 529.4 kB | Convert tissue images into metadata-minimized, pyramidal OME-TIFF |
+| 2026-10-09 00:25:21 | [docql](https://pypi.org/project/docql/) | 0.1.0 | Finoniq | 39.3 kB | Python client for the DocQL document-extraction API |
+| 2026-10-09 00:27:28 | [udacityai-python-probability-distributions](https://pypi.org/project/udacityai-python-probability-distributions/) | 0.1 |  | 4.7 kB | Gaussian and Binomial distributions |
+| 2026-10-09 00:27:38 | [hypergym](https://pypi.org/project/hypergym/) | 0.1.7 | Jonas Eschmann <jonas.eschman… | 51.3 MB | The fastest drone simulator and renderer (raytracer). |
+| 2026-10-09 00:29:07 | [ig-gox](https://pypi.org/project/ig-gox/) | 1.0.0 | HyperGox <contact@goxtools.sh… | 16.6 kB | Gox Secure Runtime Engine for Android Termux |
+| 2026-10-09 00:29:56 | [allternit-platform](https://pypi.org/project/allternit-platform/) | 0.1.0 |  | 40.5 kB | Python SDK for the Allternit Platform API (agents, conversations, numbers, mess… |
+| 2026-10-09 00:30:30 | [dlt698](https://pypi.org/project/dlt698/) | 1.0.0 | dlt698 contributors | 41.0 MB | Typed Python bindings for the DL/T 698.45 C++ protocol library |
+| 2026-10-09 00:36:58 | [falsesync](https://pypi.org/project/falsesync/) | 0.1.2 | Tatsuki Onishi | 64.0 kB | Aggregation-induced false synchrony: estimands, diagnostics, and simulation for… |
+| 2026-10-09 00:37:53 | [server-decorator-gen-openapi](https://pypi.org/project/server-decorator-gen-openapi/) | 2.0.19 |  | 12.0 kB | IR-derived OpenAPI 3.1 document (contracts/rules/rest-conventions.md). Polyglot… |
+| 2026-10-09 00:38:00 | [hyperverse](https://pypi.org/project/hyperverse/) | 0.0.1 | Jonas Eschmann <jonas.eschman… | 2.4 MB | The fastest drone simulator and renderer (raytracer). |
+| 2026-10-09 00:44:05 | [glass-lineage](https://pypi.org/project/glass-lineage/) | 0.0.1 |  | 2.7 kB | Glass lineage client: registers ML training runs with Glass. Placeholder releas… |
+| 2026-10-09 00:44:16 | [text-rewrite](https://pypi.org/project/text-rewrite/) | 0.1.2 | Magic Jack <majic31@163.com> | 63.3 kB | A high-performance text rewriting and fuzzy phonetic matching engine |
+| 2026-10-09 00:44:30 | [pronto-pr](https://pypi.org/project/pronto-pr/) | 0.1.0 | Zachary Love | 39.1 kB | Automatically press GitHub's "Update branch" button on all your open PRs. |
+| 2026-10-09 00:48:35 | [shapa](https://pypi.org/project/shapa/) | 0.9.0 | Roukh | 399.8 kB | Memory and a work ledger for coding agents, in one SQLite file per wiki, with h… |
+| 2026-10-09 00:48:45 | [stepmeld](https://pypi.org/project/stepmeld/) | 0.1.0 | VEO Labs LLC | 49.9 kB | stepmeld for Python: the contracts' schemas as data, and the verb protocol a pr… |
+| 2026-10-09 00:52:56 | [audit-findings](https://pypi.org/project/audit-findings/) | 0.1.0 | Fábio Macêdo Mendes | 51.7 kB | Record audit findings from parallel agents in an append-only log and render the… |
+| 2026-10-09 00:54:12 | [allternit-computer-driver](https://pypi.org/project/allternit-computer-driver/) | 0.1.0 |  | 20.4 kB | Drop-in drivers for Allternit hosted computers: a plain client plus Anthropic (… |
+| 2026-10-09 01:02:07 | [sinomo-ui](https://pypi.org/project/sinomo-ui/) | 0.5.0 | Infinity_X <Infinity_X@sinomo… | 37.1 MB | Native, GPU-rendered desktop UI toolkit for Python, built on the Rust SUI toolk… |
+| 2026-10-09 01:11:09 | [modulan](https://pypi.org/project/modulan/) | 0.2.0 |  | 18.5 kB | A Python GUI framework with its own widgets, layouts, themes, and events |
+| 2026-10-09 01:12:37 | [qconf-center](https://pypi.org/project/qconf-center/) | 0.1.0 | qconf contributors | 127.4 kB | Unified configuration center: FastAPI server with web admin and api_key auth, p… |
+| 2026-10-09 01:13:27 | [potatoq](https://pypi.org/project/potatoq/) | 26.1a1 | Anže Pečar | 271.0 kB | A Celery-compatible task queue with production-ready defaults and backend-nativ… |
+| 2026-10-09 01:15:47 | [provenpaid-mcp](https://pypi.org/project/provenpaid-mcp/) | 0.1.0 | Justin Smith | 21.9 kB | MCP server for ProvenPaid: check an x402 endpoint before your agent pays it. Ev… |

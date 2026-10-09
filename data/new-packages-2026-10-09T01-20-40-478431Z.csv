@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T00:20:05Z,omeify,0.21.0,Jason L Weirather,Apache-2.0,529441,"Convert tissue images into metadata-minimized, pyramidal OME-TIFF"
+2026-10-09T00:25:21Z,docql,0.1.0,Finoniq,Apache-2.0,39332,Python client for the DocQL document-extraction API
+2026-10-09T00:27:28Z,udacityai-python-probability-distributions,0.1,,,4745,Gaussian and Binomial distributions
+2026-10-09T00:27:38Z,hypergym,0.1.7,Jonas Eschmann <jonas.eschmann@gmail.com>,MIT,51341897,The fastest drone simulator and renderer (raytracer).
+2026-10-09T00:29:07Z,ig-gox,1.0.0,HyperGox <contact@goxtools.shop>,,16575,Gox Secure Runtime Engine for Android Termux
+2026-10-09T00:29:56Z,allternit-platform,0.1.0,,Apache-2.0,40496,"Python SDK for the Allternit Platform API (agents, conversations, numbers, messaging, webhooks, usage)."
+2026-10-09T00:30:30Z,dlt698,1.0.0,dlt698 contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",41037430,Typed Python bindings for the DL/T 698.45 C++ protocol library
+2026-10-09T00:36:58Z,falsesync,0.1.2,Tatsuki Onishi,MIT,64034,"Aggregation-induced false synchrony: estimands, diagnostics, and simulation for change-point analysis on aggregated panels"
+2026-10-09T00:37:53Z,server-decorator-gen-openapi,2.0.19,,MIT,12027,IR-derived OpenAPI 3.1 document (contracts/rules/rest-conventions.md). Polyglot sibling of @montionugera/entity-spec-gen-openapi.
+2026-10-09T00:38:00Z,hyperverse,0.0.1,Jonas Eschmann <jonas.eschmann@gmail.com>,MIT,2427316,The fastest drone simulator and renderer (raytracer).
+2026-10-09T00:44:05Z,glass-lineage,0.0.1,,,2653,Glass lineage client: registers ML training runs with Glass. Placeholder release; the working package follows.
+2026-10-09T00:44:16Z,text-rewrite,0.1.2,Magic Jack <majic31@163.com>,,63279,A high-performance text rewriting and fuzzy phonetic matching engine
+2026-10-09T00:44:30Z,pronto-pr,0.1.0,Zachary Love,MIT,39080,"Automatically press GitHub's ""Update branch"" button on all your open PRs."
+2026-10-09T00:48:35Z,shapa,0.9.0,Roukh,MIT,399777,"Memory and a work ledger for coding agents, in one SQLite file per wiki, with harness hooks for Claude Code, Codex and OpenCode."
+2026-10-09T00:48:45Z,stepmeld,0.1.0,VEO Labs LLC,MIT OR Apache-2.0,49853,"stepmeld for Python: the contracts' schemas as data, and the verb protocol a program speaks to the local Performer (read request.json, write progress.json and outcome.json)."
+2026-10-09T00:52:56Z,audit-findings,0.1.0,Fábio Macêdo Mendes,MIT,51716,"Record audit findings from parallel agents in an append-only log and render them as PDF, HTML, and GitHub issues."
+2026-10-09T00:54:12Z,allternit-computer-driver,0.1.0,,Apache-2.0,20365,"Drop-in drivers for Allternit hosted computers: a plain client plus Anthropic (computer/browser toolset), OpenAI computer-use and Gemini computer_use adapters."
+2026-10-09T01:02:07Z,sinomo-ui,0.5.0,Infinity_X <Infinity_X@sinomo.net>,MIT,37130000,"Native, GPU-rendered desktop UI toolkit for Python, built on the Rust SUI toolkit."
+2026-10-09T01:11:09Z,modulan,0.2.0,,MIT,18549,"A Python GUI framework with its own widgets, layouts, themes, and events"
+2026-10-09T01:12:37Z,qconf-center,0.1.0,qconf contributors,MIT,127441,"Unified configuration center: FastAPI server with web admin and api_key auth, plus a cache-first Python client that only pulls config when its digest changes"
+2026-10-09T01:13:27Z,potatoq,26.1a1,Anže Pečar,MIT,270984,"A Celery-compatible task queue with production-ready defaults and backend-native Redis, RabbitMQ, Postgres and SQLite brokers."
+2026-10-09T01:15:47Z,provenpaid-mcp,0.1.0,Justin Smith,MIT,21936,MCP server for ProvenPaid: check an x402 endpoint before your agent pays it. Evidence before you pay.
