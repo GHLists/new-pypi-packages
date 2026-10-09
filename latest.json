@@ -1,49 +1,43 @@
 {
   "list": {
     "count": 50,
-    "from": "2026-10-09T10:18:38.757059Z",
-    "path": "data/new-packages-2026-10-09T11-19-59-173911Z.csv",
-    "to": "2026-10-09T11:19:59.173911Z"
+    "from": "2026-10-09T11:19:59.173911Z",
+    "path": "data/new-packages-2026-10-09T12-18-51-073505Z.csv",
+    "to": "2026-10-09T12:18:51.073505Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-09T09:42:49Z",
       "package": "adatto",
       "since": "2026-10-09T09:18:43.494403Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-09T10:34:50Z",
       "package": "anand-agentic-terminal-mcp",
       "since": "2026-10-09T10:18:38.757059Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-09T11:19:48Z",
       "package": "apache-airflow-providers-common-search",
       "since": "2026-10-09T10:18:38.757059Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-09T11:19:33Z",
       "package": "apache-airflow-providers-search",
       "since": "2026-10-09T10:18:38.757059Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-09T10:31:57Z",
       "package": "deltakit-analyse",
       "since": "2026-10-09T10:18:38.757059Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-09T11:19:21Z",
-      "package": "fast-dedup",
-      "since": "2026-10-09T10:18:38.757059Z"
     }
   ],
-  "serial": 42014405,
+  "serial": 42016335,
   "source_truncated": false,
-  "window": "2026-10-09T11:19:59.173911Z"
+  "window": "2026-10-09T12:18:51.073505Z"
 }

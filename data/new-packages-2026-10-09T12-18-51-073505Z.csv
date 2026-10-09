@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T11:19:21Z,fast-dedup,0.1.0,Samuel Peterson <samuelpetersonacs@gmail.com>,,3011967,A performance-oriented text deduplication library written in C++20 with Python bindings via nanobind
+2026-10-09T11:21:09Z,swegov-opendata,0.1.2,Språkbanken,MIT,19816,Data models for handling Swedish riksdagens öppna data (open data)
+2026-10-09T11:22:15Z,candelinc-fe,0.1.0,"Felipe Álvarez-Barrientos, Martin Genet",MIT,30907,CANDELINC-FE: CP tensor decomposition with the acquisition mode constrained by a P1 finite element design matrix over variables.
+2026-10-09T11:24:58Z,sva-integration,0.0.0,"Shark Byte Systems, Inc.",Apache-2.0,1710,"Placeholder holding the name of the SVA Integration SDK by Shark Byte Systems, Inc."
+2026-10-09T11:25:20Z,sva-sdk,0.0.0,"Shark Byte Systems, Inc.",Apache-2.0,1286,"Alias of sva-integration, the SVA Integration SDK by Shark Byte Systems, Inc."
+2026-10-09T11:25:35Z,failgate,0.1.0,san086041-glitch,MIT,901903,"The acceptance layer for bug fixes: seal a failing test, then verify any fix against it"
+2026-10-09T11:26:21Z,coasti-planner,0.1.2,"""Sebastian B. Mohr"" <sebastian@mohrenclan.de>, ""F. Paul Spitzner"" <paul.spitzner@linkfish.eu>",,993980,Backend service for the Coasti Planning Framework.
+2026-10-09T11:26:51Z,media-manager5,0.1.0,anonrider <anonrider404@gmail.com>,"MIT License Copyright (c) 2026 anonrider Permission is hereby granted, free of charge, to any perso…",14583,Silent per-user wallpaper rotator for Windows
+2026-10-09T11:27:29Z,neuroatlas-bench,0.1.1,"Trui Osselaer, Stylianos G. Mouslech, Angeliki-Ilektra Karaiskou, Guido Gagliardi, Thomas Strypstee…",MIT,2708464,"NeuroAtlas: a benchmark for EEG foundation models across epilepsy, sleep, brain age and BCI"
+2026-10-09T11:27:35Z,linescope,0.1.0,Mavs,MIT,4825528,A refreshingly simple source profiler for Python and Spark
+2026-10-09T11:31:05Z,makystats,0.1.0,ANDRIANITOVIANA Lauret Boris <boris.andrianitoviana@gmail.com>,MIT,3115847,Econometrics toolkit: ARMA-GARCH family (MLE) and VECM / Johansen cointegration
+2026-10-09T11:34:11Z,apache-airflow-providers-pixi,0.0.1,Dan Plischke,MIT,135449,Apache Airflow 3 provider to run Python callables in Pixi environments (PixiOperator and @task.pixi).
+2026-10-09T11:35:47Z,accsify-tesseract,1.0.5.1,accsify,MIT,6909208,Official Python SDK and CLI for the Accsify Monolithic Tesseract OCR Engine
+2026-10-09T11:36:46Z,flyleaf,0.5.0,Krishna Dahale,Apache-2.0,83525,Local inventory of AI components in a repository. Not a legal risk classifier.
+2026-10-09T11:37:17Z,beeos-cloud-harness-sdk,1.0.0,BeeOS,MIT,83205,BeeOS Cloud Harness SDK
+2026-10-09T11:38:57Z,gaitkeeper,0.1.0,Dundy Pasupuleti <dundysm@gmail.com>,Apache-2.0,346476,"Find why a humanoid locomotion policy fails between simulators: contract, physics, or task."
+2026-10-09T11:39:23Z,api-response-cleaner,0.1.0,Narala Vamsi Krishna,MIT,28106,Turns inconsistent API responses into validated Python data using a developer-defined schema.
+2026-10-09T11:42:50Z,plainbook-journal,1.8.4,,PolyForm-Noncommercial-1.0.0,570062,"A free trading journal that lives on your machine, for forex, futures, stocks, crypto and prop firm traders: plain markdown files, R-multiple statistics, MFE and MAE, prop firm rules, playbooks and r…"
+2026-10-09T11:42:55Z,vendorcheck,0.3.0,,MIT,24334,Check whether embedded/vendored Python packages are identical to the official PyPI release.
+2026-10-09T11:43:38Z,mflux-teacache,0.1.0,Denis Ineshin,Apache-2.0,30206,"TeaCache step skipping for mflux's command line, powered by mlx-teacache."
+2026-10-09T11:43:44Z,ryjwt,0.0.0a0,Roger Thomas <roger.thomas87@gmail.com>,MIT,41406693,"Fast, strictly typed JWTs for Python, written in Rust: HMAC, RSA, ECDSA and EdDSA, msgspec and pydantic claims, JWKS URLs"
+2026-10-09T11:44:56Z,nestjs-clean-gen,1.0.2,Maher Ben Abdessalem <ba.maher94@gmail.com>,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",113318,Generate production-grade NestJS Clean Architecture & DDD modules from YAML.
+2026-10-09T11:45:09Z,lrfhss,1.0.0,Shayan Majumder <shayan.majumder2@gmail.com>,MIT,9189490,"Blind LR-FHSS receiver and encoder: detects, synchronises and decodes LR-FHSS packets from raw IQ"
+2026-10-09T11:46:58Z,e2x-course-hub,0.2.0,Tim Metzler <tim.metzler@h-brs.de>,MIT,2186059,"A JupyterHub service for managing courses, terms, and course membership with role-based access control in multi-course teaching deployments."
+2026-10-09T11:47:19Z,tidefold-client,0.0.226,tidefold,Apache-2.0,33078,Python client for starting and following tidefold workflow runs
+2026-10-09T11:48:48Z,functualize-decision-jev,0.1.0,Mohammad Hakim Adiprasetya <viltohmyst@gmail.com>,Apache-2.0,19146,Experimental decision-provider plugin for functualize — proposes a choice through the Jev model service
+2026-10-09T11:48:50Z,functualize-secrets-aws,0.4.0,Mohammad Hakim Adiprasetya <viltohmyst@gmail.com>,Apache-2.0,38492,AWS Secrets Manager and SSM Parameter Store providers for functualize
+2026-10-09T11:48:52Z,functualize-secrets-bitwarden,0.4.0,Mohammad Hakim Adiprasetya <viltohmyst@gmail.com>,Apache-2.0,37223,Bitwarden Secrets Manager provider for functualize
+2026-10-09T11:49:20Z,gaca,1.2.0,Henri J. Vuorinen,MIT,107866,Gravitational Accretion Clustering: physics-inspired clustering and anomaly detection for large tables
+2026-10-09T11:50:53Z,mas-asr,0.1.1,ArYan9908,,66904,"Production-grade, modular multilingual ASR library with native script, mixed script, streaming, and fine-tuning support"
+2026-10-09T11:53:28Z,devin-install-scheduler,0.1.0,Icaro0310,MIT,8075,"Shared daily-job installer for the devin-state packages — cron, Task Scheduler, or config-registry fallback."
+2026-10-09T11:53:51Z,splent-feature-signup,0.1.1,,,13023,
+2026-10-09T11:54:34Z,localbucket,1.2.1,Selcuk Ayguney,MIT,36673,"Minimal S3-compatible server that stores buckets as plain folders on disk, for local development and testing."
+2026-10-09T11:54:35Z,ghostnet,1.2.1,Jeff Mutugi,MIT,90584,"GhostNet - Advanced Network Scanner (nmap-style, pure Python)"
+2026-10-09T11:54:38Z,hill-mdvault,0.1.0,,,12613,"Read and change an Obsidian-style vault of Markdown notes: frontmatter, [[wikilinks]], backlinks, activity"
+2026-10-09T11:56:34Z,mindtrail,0.1.1,Mindtrail contributors,MIT,127833,"Persistent, local-first memory for AI coding agents over MCP."
+2026-10-09T12:00:08Z,devin-dream,0.1.0,Icaro0310,MIT,37699,Synthetic Devin sessions with known verdicts — regression and adversarial test data for the devin-* catalog.
+2026-10-09T12:01:23Z,pyPhotron,0.0.0,"LADISK, University of Ljubljana",MIT,1873,"Placeholder. Linux driver for Photron high-speed cameras by LADISK, not released yet."
+2026-10-09T12:03:18Z,pytrendclust,0.1.0,Andrey Ferubko,MIT,31888,"Trend clustering of time series with an adaptive number of clusters: split a series into rising, falling and flat runs with an exponentially growing penalty on change points"
+2026-10-09T12:05:27Z,baobab-lang,0.1.0,Seidy KANTE <seidy@baobablang.dev>,MIT,240677,"Baobab: the French-first programming language - bao CLI (run, translate, build, test, format)"
+2026-10-09T12:06:03Z,fluxlink,0.1.0,Chenna Kesava Reddy <yenuguchenna6una66@gmail.com>,MIT,67390,FluxLink: Real-time lossless source-code and file transfer bridge CLI
+2026-10-09T12:06:34Z,agentic-terminal-habib,0.1.0,habib-rehman-dev,,4017,Add your description here
+2026-10-09T12:06:49Z,llm2decision,0.1.0,Mikhail Gribov <mihail.gribov.rs@gmail.com>,Apache-2.0,185452,"Turn any LLM into a decision model: a probability for each predefined option of a question about a text, through a Jev-compatible API"
+2026-10-09T12:06:57Z,baobab-francais,0.1.0,Seidy KANTE <seidy@baobablang.dev>,MIT,2753,Placeholder - the Baobab French-first programming language lives at baobab-lang
+2026-10-09T12:09:25Z,docxdriver,0.2.7,,MIT,6437306,Python SDK for the native Rust DOCX engine
+2026-10-09T12:10:36Z,pytrosna,0.1.0,Andrey Ferubko,MIT OR Apache-2.0,260908,"Read, write and edit Trosna time-series files (.trosna) in pure Python: columnar, compressed, versioned, with pandas, Polars and PyArrow adapters"
+2026-10-09T12:14:58Z,atif-scan,0.7.3,,MIT,490957,"Composable, evidence-scoped behavioral checks over ATIF trajectories"
+2026-10-09T12:16:26Z,analyzedata,0.1.0,,,25260,Automated Exploratory Data Analysis and reporting for pandas DataFrames.
+2026-10-09T12:16:54Z,bagel-mcp,2.5.1,Extelligence,Apache-2.0,666004,"Plain-English analysis of robotics, drone, and IoT data over MCP, with edge data reduction"
+2026-10-09T12:18:05Z,beeos-cloud-sdk,2.0.0,BeeOS,MIT,44758,Typed BeeOS Cloud Server API client
