@@ -8,40 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 05:18 UTC
+## Latest list — 2026-10-09 06:19 UTC
 
-New packages created between 2026-10-09 04:18 UTC and 2026-10-09 05:18 UTC.
+New packages created between 2026-10-09 05:18 UTC and 2026-10-09 06:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-09T05-18-32-99927Z.csv)
+[Full CSV](data/new-packages-2026-10-09T06-19-08-054073Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-09 04:23:14 | [toga-code-editor](https://pypi.org/project/toga-code-editor/) | 0.1.1 | Kattni <hello@kattni.com> | 56.5 kB | A Toga widget for editing code, with line numbers and syntax highlighting. |
-| 2026-10-09 04:24:00 | [rtsos](https://pypi.org/project/rtsos/) | 1.1.0rc1 | Pengwang Zhai <pwzhai@gmail.c… | 1.0 MB | Radiative Transfer model based on Successive Orders of Scattering |
-| 2026-10-09 04:29:00 | [csimx](https://pypi.org/project/csimx/) | 0.1.0 | Eddy Lecoña | 12.2 MB | csimx: code similarity in two stages, a fast lexical filter and a structural co… |
-| 2026-10-09 04:30:41 | [xoras-agent-framework](https://pypi.org/project/xoras-agent-framework/) | 2.0.1 | XORAS Systems LLC <engineerin… | 36.2 kB | Enterprise Multi-Agent Runtime & AST Security Governance Framework |
-| 2026-10-09 04:33:05 | [ontocraft-check](https://pypi.org/project/ontocraft-check/) | 0.5.0 | OntoCraft | 367.8 kB | OWL 온톨로지 검사 도구: 모델링 함정, 메타데이터, OWL 2 RL 논리, SHACL, 한국 산업 용어 등록부 대조를 한국어 보고서로 냅니다 |
-| 2026-10-09 04:33:12 | [django-q-watchdog](https://pypi.org/project/django-q-watchdog/) | 0.1.0 | Pradeep <pradeep.chauhan43@gm… | 34.6 kB | Find the django-q tasks that crashed, timed out or froze, and say which ones. |
-| 2026-10-09 04:33:28 | [bib2gbt](https://pypi.org/project/bib2gbt/) | 0.1.1 |  | 33.6 kB | Convert BibTeX references to GB/T 7714 style ([J]/[D]/[C]/[N] etc.) |
-| 2026-10-09 04:36:48 | [imgphotoeditor](https://pypi.org/project/imgphotoeditor/) | 0.1.0 | ImgPhotoEditor Team <support@… | 5.0 kB | Official Python client and workflow tools for AI Photo Editor (https://imgphoto… |
-| 2026-10-09 04:48:23 | [oxid-frame](https://pypi.org/project/oxid-frame/) | 0.1.0 | Optersoft <admin@optersoft.co… | 1.6 MB | A small columnar frame: the same Rust engine under CPython, in a program oxid a… |
-| 2026-10-09 04:48:48 | [scaniom](https://pypi.org/project/scaniom/) | 0.3.2 |  | 10.7 kB | Scaniom L2 SDK for machine-speed AI behavior guard, observation and evidence th… |
-| 2026-10-09 04:49:27 | [alphaspec](https://pypi.org/project/alphaspec/) | 0.1.0 | OpenAlpha contributors | 387.6 kB | The auditable contract between alpha and execution: JSON schemas, a validator a… |
-| 2026-10-09 04:49:58 | [cachekat](https://pypi.org/project/cachekat/) | 0.4.11 |  | 57.5 kB | A TUI to see which dev caches eat your disk - and reclaim space safely, risk-gr… |
-| 2026-10-09 04:51:40 | [torch-harmonics-cu132](https://pypi.org/project/torch-harmonics-cu132/) | 0.9.3 | Boris Bonev, Thorsten Kurth,… | 8.3 kB | Differentiable signal processing on the sphere for PyTorch. |
-| 2026-10-09 04:51:53 | [qizhixi-mcp](https://pypi.org/project/qizhixi-mcp/) | 0.1.0 |  | 27.2 MB | Multimodal document, OCR, chart and report tools for Qizhixi |
-| 2026-10-09 04:52:54 | [vihar](https://pypi.org/project/vihar/) | 0.0.1 | Georgi Kalev, Victor Kalev | 1.6 kB | vihar - validated CFD case runner. Placeholder release. |
-| 2026-10-09 04:53:30 | [vnpy-postgresql-x](https://pypi.org/project/vnpy-postgresql-x/) | 1.0.1 | EddyXie <xieshufan@163.com> | 12.2 kB | vnpy官方的vnpy_postgresql有一个问题，生成的表的主键是int不是bigint，在数据量巨大的情况下，容易触发主键值耗尽，特此改良 |
-| 2026-10-09 04:59:48 | [vihar-lbm](https://pypi.org/project/vihar-lbm/) | 0.0.1 | Georgi Kalev, Victor Kalev | 1.7 kB | Lattice Boltzmann solver for vihar (Rust). Placeholder release. |
-| 2026-10-09 05:02:59 | [ancora-rag](https://pypi.org/project/ancora-rag/) | 0.1.1 |  | 110.1 kB | Grounded answers, or an honest escalation. A dependency-free hallucination gate… |
-| 2026-10-09 05:03:48 | [nl2data-core](https://pypi.org/project/nl2data-core/) | 0.1.0 | NL2Data Contributors | 898.6 kB | A governed and extensible Python framework for natural-language access to heter… |
-| 2026-10-09 05:08:26 | [mpxnk-test-library](https://pypi.org/project/mpxnk-test-library/) | 0.1.0 | meowthpxnk | 4.3 kB | LIB_DESCRIPTION |
-| 2026-10-09 05:11:43 | [SSONAL-pkg1](https://pypi.org/project/SSONAL-pkg1/) | 0.1.0 | SSONALGUPTA | 5.9 kB | A Python module containing functions for factorial, prime number, Armstrong num… |
-| 2026-10-09 05:13:15 | [vnpy-baostock-x](https://pypi.org/project/vnpy-baostock-x/) | 1.0.0 | EddyXie <xieshufan@163.com> | 7.7 kB | vnpy_baostock这个库，不是vnpy官方的，好久不维护了，里面的数据异常处理，没有做好，下载数据的时候，容易报错，特此改进 |
-| 2026-10-09 05:13:35 | [pythonpackage-pkb2](https://pypi.org/project/pythonpackage-pkb2/) | 0.1.0 | Sanjana | 3.2 kB | A simple Python package containing mathematical functions |
-| 2026-10-09 05:14:16 | [send0](https://pypi.org/project/send0/) | 0.2.0 | Kunal Dholiya | 112.4 kB | Official Python SDK for send0: email inboxes for AI agents |
-| 2026-10-09 05:14:17 | [carla-driver-interface](https://pypi.org/project/carla-driver-interface/) | 1.0.0 | Masaya Kataoka | 113.2 kB | Both ends of alpasim's egodriver gRPC contract: serve a driving policy, or driv… |
-| 2026-10-09 05:15:09 | [styleprofile](https://pypi.org/project/styleprofile/) | 0.2.0 | John J. Wang | 750.7 kB | Stylometric profiles of a writer's texts: drift from a reference and LLM-likene… |
-| 2026-10-09 05:15:27 | [mpxnk-test-library-sec](https://pypi.org/project/mpxnk-test-library-sec/) | 0.1.0 | meowthpxnk | 4.3 kB | LIB_DESCRIPTION |
-| 2026-10-09 05:15:36 | [pyulix](https://pypi.org/project/pyulix/) | 1.2.0b2 | Ajay Rakde | 875.3 kB | Pyulix: independent Python visual automation bridge |
-| 2026-10-09 05:16:39 | [jev-tools-setup](https://pypi.org/project/jev-tools-setup/) | 0.3.0 | Rcidshacker <ruchitdas36@gmai… | 68.6 kB | One-command installer for the jev-tools Claude Code plugin: pick the OpenJev (C… |
+| 2026-10-09 05:19:18 | [nl2data-openai](https://pypi.org/project/nl2data-openai/) | 0.1.0 | NL2Data Contributors | 33.5 kB | OpenAI structured-output provider for the nl2data-core model provider boundary. |
+| 2026-10-09 05:22:23 | [langchain-send0](https://pypi.org/project/langchain-send0/) | 0.2.0 | Kunal Dholiya | 162.3 kB | send0 tools for LangChain: give any agent an email inbox |
+| 2026-10-09 05:23:41 | [SSANJANA-pkg](https://pypi.org/project/SSANJANA-pkg/) | 0.1.0 | Sanjana | 3.5 kB | A simple Python package containing mathematical functions |
+| 2026-10-09 05:25:32 | [ai-engineering-standard](https://pypi.org/project/ai-engineering-standard/) | 2.2.0 | AIEngineeringStandard | 271.1 kB | AI development, training, and agent engineering standards with an installable C… |
+| 2026-10-09 05:29:38 | [cogmait-langextract](https://pypi.org/project/cogmait-langextract/) | 1.3.1 | CogmAIT Team | 166.1 kB | Knowledge graph information extraction library based on LangExtract |
+| 2026-10-09 05:32:11 | [fuelgauge](https://pypi.org/project/fuelgauge/) | 0.3.0 | Shourya Mehta | 91.6 kB | Turn any fixed camera into a calibrated sensor: pose from the skyline, decades… |
+| 2026-10-09 05:32:16 | [pytest-inspect-evals](https://pypi.org/project/pytest-inspect-evals/) | 0.1.0 | Matt Fisher | 44.7 kB | pytest plugin with shared test gates, fixtures and helpers for Inspect AI evalu… |
+| 2026-10-09 05:32:27 | [hufu](https://pypi.org/project/hufu/) | 0.5.0 | HuFu Developers | 1.9 MB | HuFu (虎符): neuro-symbolic data-quality verification — hypergraph-simulation con… |
+| 2026-10-09 05:34:46 | [tiny-harness](https://pypi.org/project/tiny-harness/) | 0.1.0 | MadaraUchiha-314 | 12.1 kB | A tiny agent harness |
+| 2026-10-09 05:38:19 | [vnpy-x](https://pypi.org/project/vnpy-x/) | 1.0.0 | EddyXie <xieshufan@163.com> | 357.2 kB | vnpy官方的数据格式分钟线就是分钟线，我补充了5分钟线，15分钟线，30分钟线，还有月线 |
+| 2026-10-09 05:39:31 | [augrim](https://pypi.org/project/augrim/) | 0.0.2 | Augrim Labs | 6.4 kB | Official package of Augrim Labs (augrim.ai). Converts between Roman and Arabic… |
+| 2026-10-09 05:40:37 | [super-aide](https://pypi.org/project/super-aide/) | 0.1.1 | typing233 | 774.3 kB | 超级助手（Super Aide）：Windows 桌面助手，按快捷键召唤，看着屏幕回答问题或直接动手；调度 Claude Code / Codex |
+| 2026-10-09 05:41:41 | [wxq](https://pypi.org/project/wxq/) | 1.0.0 | sakya | 154.3 kB | 微信本地聊天记录查询工具 — WeChat local chat history query, CLI + MCP server for AI agents |
+| 2026-10-09 05:41:47 | [stepfork](https://pypi.org/project/stepfork/) | 0.1.0a3 | Utsab Dahal | 3.4 MB | Behavioral regression testing for AI agents. |
+| 2026-10-09 05:53:55 | [pygameboy](https://pypi.org/project/pygameboy/) | 0.0.1 | Eivind Teig | 5.1 kB | A Game Boy emulator for Python (name reservation; implementation in progress) |
+| 2026-10-09 05:58:09 | [nl2data-semantic-catalog-postgres](https://pypi.org/project/nl2data-semantic-catalog-postgres/) | 0.1.0 | NL2Data Contributors | 132.6 kB | Durable PostgreSQL semantic catalog for the nl2data-core metadata-to-Bundle lif… |
+| 2026-10-09 05:58:49 | [agentscope-service-sdk](https://pypi.org/project/agentscope-service-sdk/) | 2.1.0b1 |  | 191.2 kB | AgentScope Service SDK: connect agent frameworks and report to the Control Plane |
+| 2026-10-09 06:02:23 | [tracekit-ai](https://pypi.org/project/tracekit-ai/) | 0.3.0 | Cygnux Labs | 854.1 kB | Signed, checkpointed evidence of what coding agents did |
+| 2026-10-09 06:06:02 | [eva-flow-authoring](https://pypi.org/project/eva-flow-authoring/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-09 06:06:04 | [synthpop-ai](https://pypi.org/project/synthpop-ai/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-09 06:06:06 | [synthpop-inc](https://pypi.org/project/synthpop-inc/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-09 06:07:59 | [omnimuon](https://pypi.org/project/omnimuon/) | 0.1.1 | Suryaansh Prithvijit Singh <c… | 27.5 kB | Universal Spectral & Second-Order Optimizer Suite for LLMs and Deep Learning (f… |
+| 2026-10-09 06:08:10 | [pipecat-didlogic](https://pypi.org/project/pipecat-didlogic/) | 1.0.0 | DIDLogic <support@didlogic.co… | 21.4 kB | DIDLogic WebSocket call serializer for Pipecat |
+| 2026-10-09 06:11:15 | [relay-backend](https://pypi.org/project/relay-backend/) | 0.0.1 | Relay contributors | 756.1 kB | A local API testing interface with native FastAPI integration, endpoint status… |
+| 2026-10-09 06:11:34 | [voiflow](https://pypi.org/project/voiflow/) | 0.1.0 |  | 28.6 kB | VoiFlow 4.0 server-side SDK for the public /v1 API: businesses, agents, journey… |
+| 2026-10-09 06:14:35 | [pixling](https://pypi.org/project/pixling/) | 0.1.0 |  | 2.3 MB | The pixel artist for your coding agent: pipelines, styles and taste for making… |
+| 2026-10-09 06:17:20 | [hsds-entity-resolution](https://pypi.org/project/hsds-entity-resolution/) | 2.0.0 |  | 184.6 kB | HSDS entity resolution: candidate generation, scoring, a Pair Judge contract an… |
