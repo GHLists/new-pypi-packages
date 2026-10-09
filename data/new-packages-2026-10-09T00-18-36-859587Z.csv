@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-08T23:20:59Z,budget-guard-llm,0.1.1,BiztechEG,MIT,48578,"Per-user, per-feature and daily spend limits, plus loop detection, for OpenAI and Anthropic SDK calls."
+2026-10-08T23:24:59Z,godotbridge,1.0.0,DigitalFusion <info@digital-fusion.com.tr>,Proprietary,164715,"MCP server that lets AI agents (Claude, Cursor, Windsurf) inspect and control a Godot 4.x editor and running game. 345 tools across 36 categories."
+2026-10-08T23:26:40Z,danceflow-agent-tools,0.1.2,Kieran Simkin,MIT,85740,Portable DanceFlow skills and local KeywordMoves/PixelCue MCP tools. https://kieransimkin.co.uk/danceflow/
+2026-10-08T23:26:44Z,prideQC,0.2.0,,Apache-2.0 AND MIT,500605,Streaming mass spectrometry QC and evidence-based technical SDRF annotation
+2026-10-08T23:28:13Z,ocr-cleaner,0.1.0,Pranay Mahendrakar,MIT,95809,"Prepare a scanned page so OCR reads it better: deskew, denoise, threshold"
+2026-10-08T23:29:13Z,document-quality,0.1.0,Pranay Mahendrakar,MIT,155169,Decide whether a scanned page is good enough to OCR before you spend money OCRing it
+2026-10-08T23:31:56Z,trino-fdw,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",58458,"PostgreSQL foreign data wrapper for Trino, built on Multicorn2"
+2026-10-08T23:33:59Z,zebsdsolve,0.1.0,Zachary Varley,MIT,23208462,"EBSD pattern-centre fitting and indexing on the GPU (Zig + WGSL over WebGPU), with its web app"
+2026-10-08T23:34:48Z,dau-dev,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6416,dau-dev
+2026-10-08T23:34:49Z,dau-platform,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6443,dau-platform
+2026-10-08T23:38:33Z,pyfortiflex,0.1.0,Dylan Spille,MIT,28841,"Python client for the FortiFlex v2 API, with safe per-node entitlement allocation"
+2026-10-08T23:39:09Z,johnhenry-math-plus-interop,0.0.0,,MIT,17924,Python-side interop helpers for math-plus: Arrow IPC / Parquet / .npy-.npz round-trips with pandas/NumPy (issue #21)
+2026-10-08T23:48:24Z,xmatcher,0.5.1,Seb Fabbro <sebfabbro@gmail.com>,MIT,1024115,"High-performance, format-agnostic astronomical catalogue crossmatching and multi-survey union toolkit."
+2026-10-08T23:49:58Z,obfuscidian,1.0.0,Jeff Shurtliff,Apache-2.0,254057,Obfuscate and encrypt your Obsidian vault to create secure and private backups.
+2026-10-08T23:53:56Z,wifi-ap-associations,0.1.0,Darek Margas,GPL-3.0-only,63865,"Read which Wi-Fi clients are associated to an access point (D-Link DAP, OpenWrt, UniFi), with signal, band and the AP's own health."
+2026-10-08T23:54:06Z,fastino,0.0.1,Fastino AI,Apache-2.0,2907,"Official Python client for the Fastino API: train, fine-tune and run models."
+2026-10-08T23:59:43Z,videofield,0.0.3,Yerzat Dulat,Apache-2.0,656575,
+2026-10-09T00:00:08Z,devin-janitor,0.1.0,Icaro0310,MIT,95808,Session lifecycle janitor for Devin Desktop — export-then-delete safety pipeline with tiered classification and pluggable judge.
+2026-10-09T00:01:04Z,magnet-scout,0.1.1,MagnetScout contributors,MIT,72812,Discover and assess public BitTorrent metadata without downloading payloads
+2026-10-09T00:06:13Z,nomosguard,0.1.0,Furox-Art <177975472+Furox-Art@users.noreply.github.com>,Apache-2.0,79632,"Deterministic security reasoning core: hash-chained evidence ledger, attack-path rule engine, and a fail-closed policy gate. LLMs may produce evidence and explain decisions; they never cross the deci…"
+2026-10-09T00:06:32Z,beaver-box,1.0.1,"""Christian Joyce G. Garcia"" <cjggarcia.dev@gmail.com>",,1196352,Turn raw data into ready-to-run SQL.
+2026-10-09T00:11:25Z,selldatatoai,1.0.0,Alpha Quantum,MIT,22374,"Python client for the Data Asset Score API from selldatatoai.com: score company domains 0 to 100 for the data AI buyers want, one at a time or in batches of 100."
+2026-10-09T00:13:15Z,biopyr,0.0.1,Arnaud Taton <aataton@gmail.com>,,1983,A framework integrating Python and R for biological data analysis
