@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T18:18:27Z,audd-cli,0.1.3,"""AudD, LLC"" <hello@audd.io>",MIT,45725170,"Command-line tool for AudD music recognition: files, URLs, folders, streams, and your account"
+2026-10-09T18:19:24Z,slicewright-engine,0.0.0.dev0,Michael Narine,AGPL-3.0-only,13597,"Slicing engine for Slicewright, an FDM 3D-printing slicer for Blender (in development; not yet usable)"
+2026-10-09T18:26:18Z,test-data-service,0.1.0,Roy de Kleijn <dekleijn.roy@gmail.com>,MIT,68232,A disk-backed test data service with a REST API and web interface
+2026-10-09T18:27:51Z,ai-boss,0.1.0,backup64 <backup.64.back@gmail.com>,Apache-2.0,158103,AI BOSS (Brain-Operating Support System) — a local AI mentor and life-assistant powered by any OpenAI-compatible LLM.
+2026-10-09T18:33:05Z,egzos,0.1.2,Ali Sasanian,LicenseRef-PolyForm-Strict-1.0.0,895335,"MCP-first, CLI-first personal context layer"
+2026-10-09T18:33:22Z,tiefrun,0.1.7,MicroRapids Team <info@microrapids.com>,MIT,222045,Python bindings for MicroRapids API Runtime - high-performance API client built with Rust
+2026-10-09T18:35:41Z,ghostmode-cli,0.1.1,,MIT,29305,"Air-gapped, local test repair CLI powered by Ollama"
+2026-10-09T18:35:45Z,pipecat-readaloud,0.1.1,Sushanth Tiruvaipati,MIT,24734,"ReadAloud text-to-speech service for Pipecat (Piper voices, ~200 ms to first audio, 8 kHz telephony output)"
+2026-10-09T18:35:47Z,livekit-plugins-readaloud,0.1.1,Sushanth Tiruvaipati,MIT,23953,"ReadAloud text-to-speech plugin for LiveKit Agents (Piper voices, ~200 ms to first audio, 8 kHz telephony output)"
+2026-10-09T18:37:18Z,kube-saver,2.0.0,pooyanazad,MIT,1025726,"Kubernetes CPU and memory cost estimation, terminal dashboard, and resource right-sizing plans"
+2026-10-09T18:41:29Z,zugferd-client,0.1.0,E-Rechnung API <hello@e-rechnung-api.fly.dev>,MIT,19439,Offizieller Python-Client für die E-Rechnung API (ZUGFeRD 2.2 / Factur-X & XRechnung nach EN 16931)
+2026-10-09T18:41:35Z,corotate,0.0.1,Hyunoh Yeo,Apache-2.0,1769,Let people and coding agents work in one repository at the same time without colliding.
+2026-10-09T18:45:54Z,perchance-python,0.2.1,Salih Şimşek,Apache-2.0,31642,Modern unofficial Python client and OpenAI-compatible API library for Perchance AI text and image generation.
+2026-10-09T18:48:08Z,droidline,0.1.2,Droidline contributors,MIT,53409,"Control Android phones from Python without ADB or root: find elements, tap, type, take screenshots and read notifications."
+2026-10-09T18:53:15Z,fastdrop,0.1.0,XIV4M (Shivam),MIT,91302,"Ultra-lightweight, zero-dependency file drop & sharing server with modern web UI, streaming uploads, authentication, and built-in code editor."
+2026-10-09T18:56:20Z,todo-snake,0.3.0,Felix Müller,GPL-3.0-or-later,273075,A clean PySide6 TODO app with system tray integration.
+2026-10-09T18:58:49Z,cs-dmri,0.1.0,Matt Cieslak <mattcieslak@gmail.com>,(MIT OR Apache-2.0) AND MPL-2.0 AND BSD-3-Clause,23889633,"Diffusion MRI quality control, SHORE compressed-sensing fits, RESTORE tensors and SS3T-CSD, in Rust"
+2026-10-09T19:01:29Z,zabbix-crontroller,0.0.1,Kristof Daja <22156894+theriverman@users.noreply.github.com>,MIT,54053,Monitor cron jobs in Zabbix with crontab as the single source of truth.
+2026-10-09T19:03:07Z,amsay,0.1.0,Henok,,3563,Amharic terminal voice notification CLI using Microsoft Edge Neural AI
+2026-10-09T19:06:21Z,drishti-nav,0.1.0,,,29494,"Lightweight, non-blocking Python library for QAOA-based route selection for smart spectacles"
+2026-10-09T19:06:46Z,hexdb,1.0.0,Dream In Hex,Apache-2.0,11648,"Client for HexDB, the hexagonal document database."
+2026-10-09T19:09:50Z,etlrelay,0.1.0,Alex Paquette,Apache-2.0,138187,"A lightweight, composable framework for building declarative ETL pipelines in Python."
+2026-10-09T19:12:50Z,glossdex,0.1.0,Mehran Iranpour <mehran@memoyad.com>,AGPL-3.0-or-later,710207,"Glossed locally, indexed by meaning, gated by evidence: private semantic search over images and documents that shows only what the evidence supports."
+2026-10-09T19:14:29Z,mcp-server-jaeger,0.1.0,Chahat Sagar <chahatsagar2003@gmail.com>,MIT,40249,Context-efficient Model Context Protocol (MCP) server for Jaeger distributed tracing
+2026-10-09T19:16:15Z,mmif-storage-api,0.1.0,,Apache-2.0,59043,Tool to manage MMIF files.
