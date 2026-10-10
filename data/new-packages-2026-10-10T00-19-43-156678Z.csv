@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T23:19:41Z,eutaxia,0.0.1,Rafael Esteves,MIT,3430,"eutaxia: a playbook for coding agents. Keeps a codebase's structure and standards. Placeholder: under development, no functionality yet."
+2026-10-09T23:20:40Z,mutant-computer,0.0.1,Gergő Móricz <mo.geryy@gmail.com>,,2246,Mutant Computer: sandboxes without a lifecycle (placeholder; the SDK is coming soon)
+2026-10-09T23:23:29Z,ruvector,0.1.0,Ruvector Team,MIT,13408302,"Ultra-low-latency vector search (RaBitQ, Rust core) with a CLI and MCP server"
+2026-10-09T23:26:57Z,opengl-basisu,0.1.0a1,"""Mike C. Fletcher"" <mcfletch@vrplumber.com>",MIT AND Apache-2.0 AND BSD-3-Clause,32684094,"Basis Universal KTX 2 and .basis transcoding to GPU texture formats, as NumPy arrays"
+2026-10-09T23:31:56Z,bcra-py,0.1.0,marpeand,"MIT License Copyright (c) 2026 marpeand Permission is hereby granted, free of charge, to any person…",42547,BCRA wrapper Python package
+2026-10-09T23:32:43Z,mcp-okf,0.1.0,Daniel Xavier Araújo <danielxaraujo@gmail.com>,MIT,28516,"MCP server de base de conhecimento sobre bundles OKF (alm-sync): indexação, enriquecimento e busca semântica"
+2026-10-09T23:34:38Z,ruts-mcp,0.1.0,Sergey Shkarin <kouki.sergey@gmail.com>,MIT,119613,MCP server for ruTS: statistics of Russian texts as tools for LLM agents
+2026-10-09T23:38:17Z,pith-image,0.1.0,,MIT,192549,"pith image lane SDK: 64-bit image perceptual hash via the pith-image Rust cdylib (ctypes, zero-dep)"
+2026-10-09T23:38:28Z,pith-text,0.1.0,,MIT,218565,"Text fingerprints SDK: NFC canonicalisation, word 3-shingles and a 128-word MinHash signature via the pith-text Rust cdylib (ctypes, zero-dep)"
+2026-10-09T23:38:30Z,pith-zip,0.1.0,,MIT,190351,"ZIP archive reading SDK: stored and deflated members, data descriptors and CRC verification via the pith-zip Rust cdylib (ctypes, zero-dep)"
+2026-10-09T23:42:02Z,clipsense,0.1.1,xCyn,MIT,47316,"MCP server that lets Claude, ChatGPT and other AI models watch and listen to videos: transcripts plus scene-aware frames on one timeline."
+2026-10-09T23:42:12Z,homeshed-mcp,0.1.0,Keith Stewartson,Apache-2.0,8466280,"Every tool your AI needs, in one install."
+2026-10-09T23:44:52Z,kira-rentals-mcp,0.1.0,Cezar Tocaciu,MIT,269979,"Live search of Romanian apartment rentals for AI agents — MCP server + CLI, any city, heating & parking extracted from ad text."
+2026-10-09T23:48:40Z,langchain-decisio,0.1.0,Amin Roudaki,Apache-2.0,153675,"LangChain components for Decisio: a classifier, a router and a tool-risk gate"
+2026-10-09T23:53:22Z,pith-png,0.1.0,,MIT,198515,"PNG decoding SDK: every colour type, depth and Adam7 interlacing via the pith-png Rust cdylib (ctypes, zero-dep)"
+2026-10-09T23:53:27Z,pith-pdf,0.1.0,,MIT,303520,"PDF text extraction SDK: classic xref, xref streams, cmap and CID fonts via the pith-pdf Rust cdylib (ctypes, zero-dep)"
+2026-10-09T23:54:08Z,autotinker,0.1.0,Sakalya Mitra,MIT,294445,A self-improving agent for tabular ML: evolves readable pipelines in a sandbox until it hits the problem's ceiling.
+2026-10-09T23:55:25Z,riskrouter-recorder,0.1.0,,Apache-2.0,41375,"Evidence from where decisions are already logged: keep each record in your own journal, send only its salted digest to a RiskRouter-compatible evidence log."
+2026-10-09T23:57:02Z,ikemen,0.0.0,,,2729,"Placeholder: an RL environment port of the Ikemen-GO fighting game engine, coming soon."
+2026-10-10T00:00:09Z,devin-skill-catalog,0.1.0,Icaro0310,MIT,81948,"Inventory, lint, quarantine and promote Devin skills and rules — with per-workspace diff and offline G1/G2 gates."
+2026-10-10T00:00:53Z,bigboss-ai,1.0.0,Big Boss,MIT,41126,"Официальная библиотека Big Boss API: модели ИИ за токены Boss Wallet, меню кафе, Junior и заказ."
+2026-10-10T00:01:23Z,e-series-solver,1.1.1,,,33770,
+2026-10-10T00:03:44Z,oi-browser,1.0.0,oi-browser contributors,MIT License Copyright (c) 2024 orcakit (Tencent) Copyright (c) 2026 oi-browser contributors Permiss…,101993,"Browser automation backend for Oi: CDP-driven Chrome, record/replay, MCP server and skill generation."
+2026-10-10T00:11:02Z,devware,0.1.0a1,Devware,MIT,20372,Check environment variables and HTTP service readiness before running agent workloads.
+2026-10-10T00:12:40Z,diaspore,0.2.0,,MIT,273430,"Compile a Python subset to portable JSON for Python, Go, TypeScript, and Lua runtimes"
+2026-10-10T00:12:53Z,pith-audio,0.1.0,,MIT,223012,"Audio fingerprinting SDK: RIFF/WAVE decode, spectral-peak signatures and delta-t matching via the pith-audio Rust cdylib (ctypes, zero-dep)"
+2026-10-10T00:13:52Z,allotted,0.1.0,William Theesfeld <william@theesfeld.net>,GPL-3.0-or-later,57411,One time budget for a whole call tree. Nested work can only shorten it.
+2026-10-10T00:18:19Z,claude-wrap,0.1.0,Mariia Podgaietska,MIT,289096,A model router for Claude Code.
+2026-10-10T00:18:57Z,dcc-mcp-material-maker,0.4.1,loonghao <hal.long@outlook.com>,MIT,108004,Typed Material Maker project inspection and export for DCC-MCP
