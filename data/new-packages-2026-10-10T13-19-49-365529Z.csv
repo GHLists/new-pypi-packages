@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T12:21:56Z,pr-witness,0.1.1,Vitalii Bogachev,Apache-2.0,83234,Check whether a pull request's tests still mean what they meant before it
+2026-10-10T12:24:30Z,pyedookit,0.3.1,TFoxik,MIT,131426,Async client for the Edookit parent portal (edookit.net)
+2026-10-10T12:24:56Z,reviewmate,0.1.2,,,14937,AI-assisted Git diff code review CLI
+2026-10-10T12:25:00Z,nonebot-plugin-jrrp4,0.3.0,HuParry,MIT,24477,基于NoneBot2和OneBot V11的今日人品插件
+2026-10-10T12:27:28Z,devin-devkit,0.1.0,Icaro0310,MIT,39634,Install public Devin CLI profiles through uv
+2026-10-10T12:29:02Z,ISEP,1.0.0,Artur Tomczak <Artur.Tomczak@fuw.edu.pl>,GPL-3.0-only,682583,Library created for handling Rapid-E input files
+2026-10-10T12:30:24Z,paperkiln-fetch,0.1.0,Jonathan Reich,MIT,45819,"Drop an arXiv id, get the paper's transformer architecture back - every value with the evidence snippet it was read from, emitted as a Hugging Face config or normalized JSON."
+2026-10-10T12:33:33Z,releaseradar,2026.3,Massimo Moretti <massimo.moretti@maksimtech.com>,"MIT License Copyright (c) 2026 Massimo Moretti Permission is hereby granted, free of charge, to any…",130288,GitHub repo lifecycle tracker — from issue open to release published
+2026-10-10T12:33:45Z,rj-core,0.1.1,rahul,,16115,
+2026-10-10T12:33:58Z,vibeharness-mas,0.6.0,,MIT,1090538,Multi-agent white-box and threat-modeled black-box testing harness for vibe-coded projects ／ 針對 vibe coding 專案的多代理白箱與威脅建模黑箱測試 harness
+2026-10-10T12:36:58Z,diteko,0.1.0,Lehlohonolo Sehako,MIT,29156,"Generate, export and run tests for Amazon Connect contact flows with Diteko (Grammatical Evolution)."
+2026-10-10T12:39:03Z,paperkiln,0.3.1,Jonathan Reich,MIT,1573854,"Paste an arXiv ID, get a model you can chat with — a readable C++ LLM training stack with provenance-carrying paper extraction"
+2026-10-10T12:43:57Z,crewchat,0.9.10,Deepankar,MIT,235743,A group chat for your AI coding agents and you: an MCP server with a live chat page.
+2026-10-10T12:45:22Z,korean-ai-tell,0.1.0,Changyong Hyun,MIT,35101,"Flag AI tells in Korean (and English) text: rule id, severity, matched phrase and a fix hint."
+2026-10-10T12:46:32Z,jdca,0.1.0,Arthur Zalevsky,MIT,70303,Performance-oriented re-implementation of GaussDCA.jl in JAX
+2026-10-10T12:47:10Z,axiom-by-vir,1.0.0,,MIT,35756,"Create, Compile and Run agents that can use user-defined skills"
+2026-10-10T12:47:49Z,seedl,0.1.0,Aritra Saha,MIT,351594,"A simple, deep-learning-aware visualization library"
+2026-10-10T12:50:04Z,sentinelforge-ai,0.1.0,SentinelForge contributors,Apache-2.0,104251,"Security regression testing for LLM apps, RAG pipelines and agents: find, verify, regress."
+2026-10-10T12:50:26Z,miniapp-scanner,0.5.0,,MIT,67432,WeChat mini-program static security scanner (AST + taint + DSL + LLM)
+2026-10-10T12:54:45Z,roblox-studio-mcp,0.1.1,bdidk235 <53656028+bdidk235@users.noreply.github.com>,MIT,434199,"A lightweight, dependency-free Python client for MCP (Model Context Protocol) servers, with built-in convenience for the Roblox Studio MCP."
+2026-10-10T12:56:07Z,ez2-aib,0.1.0,,Apache-2.0,6801982,Run only the tests your change affects; ship only when nothing new is red.
+2026-10-10T12:56:18Z,voicerender,0.1.1,buchwandler,Apache-2.0,446965,Resumable multi-engine speech synthesis and reference-voice rendering
+2026-10-10T12:57:33Z,packer3d,0.5.0,,MIT,1136741,"Fast 3D cuboid packing (native C engine bundled), with independent validation, MCP tools and rendering"
+2026-10-10T12:58:24Z,ai-registry,0.3.1,,MIT,131509,"Resolve a stable alias to a concrete AI provider deployment. No requests, no gateway, no literal secrets."
+2026-10-10T12:58:38Z,panda-generator,0.1.0,Yehor Horin <danedred15@gmail.com>,,16795,PANDA (Python Automating Numerical Dot Algorithm) – an open algorithm dedicated to the precise generation and controlled parameterization of multi-element dot arrays.
+2026-10-10T12:59:03Z,arch-secrets,1.1.0,,,17497,"Fetch secrets from ARCH-Insight and hand them to a program, so they never touch a .env file."
+2026-10-10T13:08:19Z,receivify,1.0.0,Receivify,MIT,99772,"Official Python SDK for Receivify, the non-custodial crypto payment gateway: invoices, forwarding addresses, payment links and signed webhooks."
+2026-10-10T13:10:01Z,rj-mails,0.1.1,rahul,,10033,
+2026-10-10T13:12:24Z,mangate,0.1.0,evgen2571 <evgen.10.02.2008.83@gmail.com>,MIT,21718039,Python API for the Mangate authorized manga downloader
+2026-10-10T13:12:43Z,text-to-handwriting-ai,2.0.0,CodewithWitcher,MIT License Copyright (c) 2026 CodewithWitcher Copyright (c) 2020 Saurabh Daware (original text-to-…,825102,"Turn typed text into realistic handwritten pages and full assignments (front page, AI answers, templates). Runs locally in your browser."
+2026-10-10T13:13:39Z,reqdeck,0.1.0,Daniel Riege,MIT,162350,"Requirements, open questions and traceability in your git repo — a CLI, a TUI, and skills for your AI agent"
+2026-10-10T13:14:42Z,agentguard-oss,0.4.1,Sameer Jakkuva,MIT,268332,"Open-source safety layer for AI agent tool calls: policy, risk checks, human approval and tamper-evident audit"
+2026-10-10T13:17:39Z,splent-feature-autodeploy,0.1.0,,,59512,
+2026-10-10T13:17:55Z,pipecat-dotwave,0.1.0,""".wave"" <info@dotwave.ai>",BSD-2-Clause,29310,.wave streaming speech-to-text service for Pipecat
+2026-10-10T13:18:12Z,usewrit,0.1.0,The Writ Project Authors,MIT,162042,"The server side of the Writ Bridge for Python: run your website's Writ functions on a signed-in visitor's own computer (with signed receipts) or on Writ Cloud, behind one route you mount"
