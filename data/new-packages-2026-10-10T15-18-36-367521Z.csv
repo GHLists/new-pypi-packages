@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T14:21:17Z,adona-market-data,0.1.0,Adona Robot Sàrl <support@adona-robot.com>,MIT,28113,"Client for the adona-robot market-data API: FX and metals OHLC candles from one second to one day, and the live bid and ask over WebSocket."
+2026-10-10T14:24:56Z,tetrak-translit,0.2.0,"Stephen Masters, Yvette Mankerian",MIT,193940,"Detect, transliterate and fold Armenian text — ALA-LC, ISO 9985, BGN/PCGN, Hübschmann-Meillet and Western pronunciation, plus one canonical index form for cross-script search"
+2026-10-10T14:30:20Z,vistalink,0.0.1,VistaLink,MIT,86179,"Python client for the VistaLink hotel API v2 (sync + async, httpx + pydantic)"
+2026-10-10T14:32:57Z,tidymate,1.0.0,MrPerfect,MIT,113362,"Python file organizer: sort your Downloads folder by type, bulk rename, find duplicates, archive old files and undo anything. Safe preview, no dependencies."
+2026-10-10T14:33:51Z,10xgraph,0.10.0,Shudipto Trafder <shudiptotrafder@gmail.com>,"MIT License Copyright (c) 2025 10xScale Permission is hereby granted, free of charge, to any person…",1171352,"10xGraph (formerly Agentflow) is a Python framework for multi-agent AI systems that stay correct under failure: replay-safe tool calls that are not re-executed after a crash, versioned state writes,…"
+2026-10-10T14:34:07Z,pycsr-cv,0.1.0,PyCSR_CV contributors,MIT,12066756,Interactive desktop studio for learning computer vision and image processing
+2026-10-10T14:35:06Z,gigacrew,0.5.0,FolkiDevv,MIT,418669,Консольный помощник для работы с кодом проекта
+2026-10-10T14:37:10Z,menos,0.2.0,,Apache-2.0,21904120,A quantum circuit simulation runtime with a Qiskit BackendV2 adapter
+2026-10-10T14:41:06Z,decad,0.1.0,DeCAD contributors,Apache-2.0,50483,"DeCAD — open reverse-CAD toolkit for product disassembly, built on the OD-BOM (Open Disassembly & Reverse BOM) format."
+2026-10-10T14:43:26Z,devdroid,1.0.2,DevDroid,MIT,28298,Real-time mobile and desktop browser remote control MCP server and DevTools CDP bridge for AI agents
+2026-10-10T14:44:18Z,dl-snippets,0.0.1,tharu <126156163@sastra.ac.in>,MIT,4681,A study helper library with deep learning code snippets.
+2026-10-10T14:44:30Z,fewhumans,1.0.0,,Apache-2.0,72508,"Few humans, valid estimates: combine few human labels with many LLM-judge labels (PPI, active inference, anytime-valid stopping)"
+2026-10-10T14:45:40Z,prompt-receipts,7.0,Jaret Arnold,MIT,171854,"Receipts for AI coding runs: what a Claude Code, Codex, OpenCode, Qwen Code, Gemini CLI or Copilot CLI session cost, took and did"
+2026-10-10T14:46:20Z,karml,0.1.0a1,Eric Boittier <eric.boittier@icloud.com>,MIT,8236357,karml (pronounced Karamell): machine-learned potentials in molecular-mechanics MD
+2026-10-10T14:49:34Z,10xgraph-api,0.7.0,Shudipto Trafder <shudiptotrafder@gmail.com>,MIT,761758,"Production server for 10xGraph agents (formerly 10xscale-agentflow-cli). Serves a compiled graph over REST, SSE, WebSocket, realtime audio and AG-UI with JWT or custom auth, scoped authorization on e…"
+2026-10-10T14:50:36Z,tensor0,0.1.0,,MIT,51649697,Rust-backed metadata and JAX-backed symmetric TensorMap core
+2026-10-10T14:52:24Z,snowland-agent-base,0.1,,Apache-2.0,167344,A reusable AI Agent base framework built on LangChain + DashScope + ChromaDB
+2026-10-10T14:53:40Z,arpeg,0.2.0,Tom Ritchford <tom@swirly.com>,,240463,🧬 An expressive arpeggiator 🧬
+2026-10-10T14:53:57Z,auditlogs,0.0.1,James Adewara <jamesadewara1@gmail.com>,MIT,2097180,AuditLogs Python SDK - tamper-evident audit trail client
+2026-10-10T14:54:00Z,benethos-mailbox-common,0.4.0,Benedikt Oswald,MIT,37642,"What mailbox-service and mailbox-mcp of Mailbox share: mail as plain text, the folders of the operating system, settings from a file, the time of a log line, secrets masked in text, JSON for a hash."
+2026-10-10T14:55:01Z,pyjet3d,0.1.0,TestyLemonad,MIT,1810336,"A tiny, dependency-free 3D software rasteriser for Python (powered by CubeCoders/Jet)"
+2026-10-10T14:56:50Z,django-native-postgres,0.1.0,,BSD-3-Clause,4776998,Native asynchronous PostgreSQL execution for Django
+2026-10-10T14:59:46Z,dailo-devtools,0.1.0,,MIT,37710,通过代劳 DevTools 调试单台 Android 设备的 Python API 与 CLI
+2026-10-10T14:59:48Z,dailo-sdk,0.1.0,,MIT,32450,代劳 Android 自动化脚本 API
+2026-10-10T15:00:18Z,llm-kernel,0.1.0,lmliheng,,8172,"Tensor math, machine learning, deep learning and model inference helpers: reusable functions and best practices."
+2026-10-10T15:01:23Z,epu-group-afis,0.2.1,Dustin Reed Morado,MIT,16026,Cluster EPU AFIS beam-shift metadata into RELION optics groups
+2026-10-10T15:02:14Z,tspropy,0.1.0,Abdul Malek Walayeh,,82961,"Time-series processing, analysis, and visualization tools in Python"
+2026-10-10T15:02:29Z,smalldocs,0.1.0,Rahul Dave <rahuldave@gmail.com>,MIT,2567304,"Quarto-like websites from a _quarto.yml project, in pure Python: pages, API reference and listings"
+2026-10-10T15:02:57Z,baccy,0.2.0,Tom Ritchford,MIT,107801,Permanent backup daemon for media and other assets
+2026-10-10T15:04:20Z,ragone-ai,1.0.0,Hariharan Suthan,Apache-2.0,18316,ModernBERT-based RAG evaluation model
+2026-10-10T15:04:46Z,chipleap,0.2.0,Daniel Tyukov,MIT,1707939,"Architecture exploration from workload to RISC-V SoC: an analytical evaluator, an explainable design agent and an X-HEEP generator with RTL verification."
+2026-10-10T15:05:21Z,dvice,0.2.0,,,66146,Manage unreliable audio devices
+2026-10-10T15:08:36Z,ibc2,0.1.0,,GPL-3.0-or-later,381493,"One-command, always-on Interactive Brokers TWS / IB Gateway: auto-login, auto-restart, watchdog and alerts (a maintained fork of IBC)."
+2026-10-10T15:10:12Z,hakuli,1.0.0,XAEDRO,Apache-2.0,29071,Hakuli: memory-efficient optimizer for full-parameter LLM training without SVD.
+2026-10-10T15:13:30Z,serigy,0.2.0,Wendell Barreto <wendellbarreto@gmail.com>,MIT,140058,Inference-only PT-BR typed predictors (load Hub weights + predict / system_one)
