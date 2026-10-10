@@ -8,30 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 20:18 UTC
+## Latest list — 2026-10-10 21:18 UTC
 
-New packages created between 2026-10-10 19:18 UTC and 2026-10-10 20:18 UTC.
+New packages created between 2026-10-10 20:18 UTC and 2026-10-10 21:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-10T20-18-34-270168Z.csv)
+[Full CSV](data/new-packages-2026-10-10T21-18-32-354755Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-10 19:20:27 | [stalwart-agents](https://pypi.org/project/stalwart-agents/) | 1.0.45 | Stalwart Technologies Ltd <cr… | 22.1 MB | Declare an agent in one file -- its tools, its rules, its users -- check it bef… |
-| 2026-10-10 19:31:16 | [csr2-cdn](https://pypi.org/project/csr2-cdn/) | 0.5.0 |  | 126.8 kB | Client for the CSR2 game and HUB CDNs: assets, databases, metadata, snapshots a… |
-| 2026-10-10 19:31:47 | [bianor-databricks-kit](https://pypi.org/project/bianor-databricks-kit/) | 0.0.2 | Mate Balogh <matebalogh@ophel… | 19.6 kB | Data science toolkit for setting up the Bianor Databricks app environment and s… |
-| 2026-10-10 19:32:14 | [cratedrop](https://pypi.org/project/cratedrop/) | 0.1.1 | Maurycy Wojtowicz | 448.7 kB | Headless CDJ USB builder: analyze audio and write Pioneer-native USB sticks (ex… |
-| 2026-10-10 19:35:04 | [bewitch](https://pypi.org/project/bewitch/) | 0.1.0 | Gavin Fernandes | 107.1 kB | A Python port of Charm's Lip Gloss and charmtone. Not affiliated with Charm. |
-| 2026-10-10 19:35:04 | [codex-arena](https://pypi.org/project/codex-arena/) | 1.0.0 | AAO-SH | 2.4 MB | Install and run the Codex Arena project skill. |
-| 2026-10-10 19:38:57 | [nibbles](https://pypi.org/project/nibbles/) | 0.4.0 | Gavin Fernandes | 643.3 kB | Queue YouTube videos and file downloads on your phone, and fetch them with data… |
-| 2026-10-10 19:48:59 | [mlbisect](https://pypi.org/project/mlbisect/) | 0.1.0 | Wissem Fouda | 63.0 kB | Find the changes that caused a noisy ML regression. |
-| 2026-10-10 19:55:02 | [math-toolkit-jala](https://pypi.org/project/math-toolkit-jala/) | 0.1.0 | Diego Alejandro Botina | 19.2 kB | A small, well-structured Python package of mathematical utilities demonstrating… |
-| 2026-10-10 19:56:17 | [thirst](https://pypi.org/project/thirst/) | 0.3.0 | Team hello_world | 104.2 kB | Run GPU jobs at the right hour and speed to use less water and CO2, with a meas… |
-| 2026-10-10 19:58:27 | [pystratify](https://pypi.org/project/pystratify/) | 0.10.2 |  | 485.0 kB | Unified modal response for multilayered films, cylinders and spheres, under pla… |
-| 2026-10-10 19:59:36 | [PyATCLI](https://pypi.org/project/PyATCLI/) | 2026.10.10 | zakgm2 | 540.2 kB | The analysis library, engine and command line behind PyAT: TDT fibre photometry… |
-| 2026-10-10 20:04:36 | [vanilla-mcdoc](https://pypi.org/project/vanilla-mcdoc/) | 26.1.2 |  | 1.4 MB | Pydantic models for Minecraft's data packs and resource packs, generated from S… |
-| 2026-10-10 20:07:31 | [heptagon7](https://pypi.org/project/heptagon7/) | 1.0.0 | Muhammad Ali | 72.7 kB | Seven coordinates. Every incident. Verified. |
-| 2026-10-10 20:08:56 | [onetrace-console](https://pypi.org/project/onetrace-console/) | 0.1.0 | Shamik Saha | 1.6 MB | The onetrace console: every run in one place, read from the reports the verifie… |
-| 2026-10-10 20:09:32 | [ghostai-connect](https://pypi.org/project/ghostai-connect/) | 0.0.1 | GhostAI <support@dymium.io> | 10.0 kB | Placeholder for the GhostAI Connect client: explains how to get it and checks t… |
-| 2026-10-10 20:09:36 | [Worder](https://pypi.org/project/Worder/) | 0.2 |  | 13.5 kB |  |
-| 2026-10-10 20:15:35 | [gagarin](https://pypi.org/project/gagarin/) | 0.1.1 |  | 29.7 kB | Python client for the gagarin API: run jobs from images already in the gagarin… |
-| 2026-10-10 20:18:00 | [sift-lint](https://pypi.org/project/sift-lint/) | 1.0.0 | N0tDeb | 216.4 kB | A linter for tabular data files. Finds the problems that survive a successful l… |
+| 2026-10-10 20:18:54 | [sparxml](https://pypi.org/project/sparxml/) | 0.1.0 | Ashish Kumar Singh <ashishkmr… | 469.3 kB | Spiking neural networks in JAX and Flax |
+| 2026-10-10 20:19:15 | [gruppera](https://pypi.org/project/gruppera/) | 0.4.0 |  | 1.1 MB | Fast station-temperature aggregation (One Billion Row Challenge format): mmap,… |
+| 2026-10-10 20:20:10 | [navigera](https://pypi.org/project/navigera/) | 0.4.0 |  | 4.5 MB | Drive headless Chrome from the shell, one command per step: a native Rust CDP C… |
+| 2026-10-10 20:20:33 | [compara](https://pypi.org/project/compara/) | 0.5.0 |  | 4.6 MB | Compare two tables (CSV, NDJSON, Parquet) on a composite key: counts, per-colum… |
+| 2026-10-10 20:22:20 | [iqz](https://pypi.org/project/iqz/) | 0.1.0 | Tianshu Huang <tianshu2@andre… | 4.5 MB | A simple lossless compression codec for I/Q radar data. |
+| 2026-10-10 20:25:13 | [photonoxide](https://pypi.org/project/photonoxide/) | 0.5.2 |  | 49.3 MB | Validated photonics from Rust, for Python and MATLAB: materials with provenance… |
+| 2026-10-10 20:27:34 | [mcp-server-pixeltable-developer](https://pypi.org/project/mcp-server-pixeltable-developer/) | 0.2.1 | Pixeltable | 155.8 kB | A local developer MCP server for Pixeltable applications |
+| 2026-10-10 20:33:03 | [coco-pipe](https://pypi.org/project/coco-pipe/) | 0.0.1 | Hamza Abdelhedi <hamza.abdelh… | 1.3 MB | A modular framework for scalable biosignal analysis with Machine Learning and D… |
+| 2026-10-10 20:33:29 | [ghwm](https://pypi.org/project/ghwm/) | 1.10.0 | Pawel Lukasz Janicki, Peter M… | 306.7 kB | Install GitHub workflow files from a workflow marketplace. |
+| 2026-10-10 20:34:10 | [datadiver](https://pypi.org/project/datadiver/) | 0.1.0 | Ryan DeWitt | 25.4 MB | Fast desktop data exploration with DuckDB |
+| 2026-10-10 20:34:42 | [neat-otel](https://pypi.org/project/neat-otel/) | 0.1.0 | NEAT Technologies | 8.4 kB | Runtime-attachment call-site attribution for NEAT — stamps code.file.path/line/… |
+| 2026-10-10 20:36:14 | [lifeforge](https://pypi.org/project/lifeforge/) | 0.4.0 | Zarif Latif <102543743+zariff… | 725.3 kB | Behavioral regression testing for AI agents that take actions: deterministic to… |
+| 2026-10-10 20:43:09 | [breb](https://pypi.org/project/breb/) | 1.2.0 | Md Minhazul Haque <mdminhazul… | 15.7 kB | A Python client and CLI for the Bangladesh REB / Palli Bidyut consumer API |
+| 2026-10-10 20:43:32 | [taplimit](https://pypi.org/project/taplimit/) | 0.1.0 | Javier Lianes <javier@lianes8… | 15.3 kB | Small, typed, thread-safe in-process rate-limit decorator: N calls per period,… |
+| 2026-10-10 20:43:56 | [luvix](https://pypi.org/project/luvix/) | 0.1.1 | Suhail | 56.2 kB | A CLI for validated HDR gain-map image derivative workflows. |
+| 2026-10-10 20:46:01 | [robotframework-events](https://pypi.org/project/robotframework-events/) | 0.1.0 | Tim de Groot | 55.7 kB | Robot Framework listener that writes execution events as JSON Lines |
+| 2026-10-10 20:50:25 | [limitsdb](https://pypi.org/project/limitsdb/) | 0.5.0 | Gustavo Cantizano | 132.3 kB | Configuration-driven ILM (Information Lifecycle Management) for production and… |
+| 2026-10-10 20:53:13 | [seedagent](https://pypi.org/project/seedagent/) | 0.7.0 | DemePS | 435.2 kB | A coding and document agent on Claude (Azure / Microsoft Foundry): tools, safet… |
+| 2026-10-10 20:54:12 | [gnarl-client](https://pypi.org/project/gnarl-client/) | 0.2.0 | Lucenia | 245.8 kB | Python client for Gnarl, a decentralized search fabric |
+| 2026-10-10 20:56:03 | [freewhirr](https://pypi.org/project/freewhirr/) | 0.1.0 | Andy McCutcheon | 117.2 kB | Free-first OpenRouter router and OpenAI-compatible proxy. Spend nothing until y… |
+| 2026-10-10 21:00:48 | [astromool](https://pypi.org/project/astromool/) | 1.0.0 | AstroMool <developers@astromo… | 12.9 kB | Official client for the AstroMool Vedic astrology API (Swiss Ephemeris charts,… |
+| 2026-10-10 21:02:55 | [pytest-rulebearing](https://pypi.org/project/pytest-rulebearing/) | 0.1.1 |  | 15.5 kB | Rulebearing architecture rules as pytest tests: one test per rule, failing with… |
+| 2026-10-10 21:03:34 | [ptrain](https://pypi.org/project/ptrain/) | 0.1.0a1 | BenchFlow | 6.9 kB | A starter Python package for ptrain. |
+| 2026-10-10 21:03:54 | [assaydb](https://pypi.org/project/assaydb/) | 0.1.0a1 |  | 13.5 MB | Assay analytical SQL with native Rust sessions and Arrow results |
+| 2026-10-10 21:04:58 | [simpro-py-sdk](https://pypi.org/project/simpro-py-sdk/) | 0.1.1 | Paul Millar | 50.6 kB | Python client for the SimPro Cloud REST API (v1.0). |
+| 2026-10-10 21:08:22 | [reflex-tanstack-charts](https://pypi.org/project/reflex-tanstack-charts/) | 0.2.0 | Ernesto Crespo <ecrespo@gmail… | 65.0 kB | Reflex custom component wrapping TanStack Charts (typed, tree-shakable SVG char… |
+| 2026-10-10 21:08:44 | [throttlebounce](https://pypi.org/project/throttlebounce/) | 0.1.0 | Javier Lianes <javier@lianes8… | 13.8 kB | Small, typed, zero-dependency sync debounce and throttle decorators with an inj… |
+| 2026-10-10 21:11:45 | [neoprophet](https://pypi.org/project/neoprophet/) | 1.4.0 | Behnam | 60.9 MB | Prophet forecasting that is easier to use, clearer to read and faster at scale |
+| 2026-10-10 21:15:05 | [git-game](https://pypi.org/project/git-game/) | 0.1.0 |  | 107.6 kB | Learn git by playing: rules to satisfy on a real repository while a Gremlin bre… |
