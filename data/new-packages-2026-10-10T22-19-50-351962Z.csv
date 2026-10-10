@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T21:23:57Z,ww-net,0.1.0,Marcus Aurelius,MIT,10458,"Een netwerk-checker die geduldig wacht, slim omgaat met DNS, en logt via arin_log."
+2026-10-10T21:27:07Z,dotreach,0.1.0,Javier Lianes <javier@lianes8studio.com>,MIT,12162,"Typed, zero-dependency get/set/delete/has on nested dicts and lists by dotted path"
+2026-10-10T21:32:10Z,chonky-py,0.1.0,Terry Eppler,MIT,879842,"Streamlit application for document loading, NLP, embeddings, and vector search"
+2026-10-10T21:32:42Z,shimify,0.1.0,ellainng,MIT,28915,Auditable Python dependency analysis and portable source bundles
+2026-10-10T21:32:47Z,gsc-mcp-server,0.1.0,Ricardo Arrigoni,"MIT License Copyright (c) 2026 Ricardo Arrigoni Permission is hereby granted, free of charge, to an…",110047,"Read-only MCP server for Google Search Console: search performance, URL Inspection, sitemaps and CSV exports."
+2026-10-10T21:34:28Z,hidden-moves,0.1.0,Ella Inng,MIT,38422,"Describe, discover, bind, and expose typed Python capabilities."
+2026-10-10T21:35:09Z,zebridge,0.1.0,,Apache-2.0,20572382,"ZeBridge client: a local replica of PostgreSQL through NATS, over libzb's C ABI"
+2026-10-10T21:37:14Z,reseat,0.5.1,Harpreet S. Siddhu,MIT,1342041,"re:Seat keeps your AWS re:Invent seats: watches for freed seats and new repeats, books within your rules, swaps safely, and tells you when to leave."
+2026-10-10T21:39:30Z,kaizen-ai,0.1.0,Sajjad Kazemi,MIT,88339,"Autonomous agent that finds failing tests, proposes fixes, and opens gated pull requests for human review."
+2026-10-10T21:42:05Z,whittaker-trosna,0.2.1,Andrey Ferubko,,45933,Whittaker smoother with recency-based mobility weights for time series
+2026-10-10T21:42:23Z,zenture,1.0.1,zenture UG (haftungsbeschraenkt),Apache-2.0,421351,Official Python SDK for the zenture Public API.
+2026-10-10T21:42:43Z,hcc2d-encoder,0.9.0,Marco Querini,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",62953,"Pure Python reference encoder for QR, HCC2D4, and HCC2D8 symbols"
+2026-10-10T21:44:50Z,shorts-factory,0.1.1,,MIT,65705,"Turn one long video into a batch of ready-to-post 9:16 viral shorts — locally, free, offline."
+2026-10-10T21:45:07Z,django-website-widgets,0.1.0,Nate Brooks,MIT,59517,"Server-rendered pages built from composable widgets, for Django"
+2026-10-10T21:46:53Z,playstore-cli,0.1.0,DoTTak,Apache-2.0,118228,Unofficial Google Play Store client (for research and learning)
+2026-10-10T21:49:13Z,transcript-studio,0.1.0,,MIT,68932,"Transcribe any English video (any length) to SRT/TXT/VTT/JSON with speaker labels — 100% local, no cloud."
+2026-10-10T21:50:39Z,mappy-py,0.2.0,Terry Eppler,MIT,3862946,"Streamlit geospatial application for mapping, environmental data, astronomy, and retrieval"
+2026-10-10T21:51:20Z,freetheai,0.1.0,FreeTheAI <vibheksoni@engineer.com>,MIT,373434,"Official Python SDK for FreeTheAI: a free OpenAI-compatible AI API with chat, streaming, web search, and image and video tasks."
+2026-10-10T21:51:30Z,container-compose,0.1.2,,MIT,57316,A minimal Compose implementation for Apple `container`: reads docker-compose.yml and drives the container CLI.
+2026-10-10T21:54:30Z,slxd-coursekit,0.1.3,Studio LXD <hello@studiolxd.com>,MIT,870886,"AI-assisted e-learning course production: brief, instructional design, writing, review, media, assembly and SCORM delivery."
+2026-10-10T21:54:31Z,gtfs-rt-kit,0.1.0,Maciej Zieliński,MIT,64885,Typed client and toolkit for GTFS-Realtime feeds and static GTFS schedules.
+2026-10-10T22:00:14Z,kuerzel,0.1.0,Maxi,MIT,12726,"Kürzel, a desktop studio for Espanso snippets. This package downloads and starts the app."
+2026-10-10T22:02:04Z,ssa-data-core,0.0.1,,MIT,18105633,Core data resources
+2026-10-10T22:02:13Z,ssa-data-propulsion,0.0.1,,MIT,1187237,Core data resources
+2026-10-10T22:02:17Z,ssa-data-gravity,0.0.1,,MIT,150352235,Core data resources
+2026-10-10T22:04:16Z,renovate-apply,0.1.0,Julio Batista Silva,MIT,58480,"Apply the dependency updates Renovate finds, locally, without a pull request"
+2026-10-10T22:05:03Z,ssa-data-benchmarks,0.0.1,,MIT,4605042,Core benchmark data resources
+2026-10-10T22:05:08Z,ssa-data-lunar,0.0.1,,MIT,190593529,Core data resources
+2026-10-10T22:05:10Z,ssa-data-lunar-gravity,0.0.1,,MIT,60837933,Lunar gravity data resources
+2026-10-10T22:06:26Z,skill-scout,0.1.0,LRNSdigital,MIT,120050,"Find, scan, approve, pin and audit third-party Agent Skills before your agent trusts them."
+2026-10-10T22:06:28Z,planwright,0.3.0,LRNSdigital,MIT,52269,"A maker of plans: turn a Markdown plan into what's ready, what runs in parallel, and the critical path. Plain data, zero dependencies, pluggable into any project or agent."
+2026-10-10T22:06:29Z,zanshield-sdk,1.0.0,DevTech <abdulrahman@devtech.co.tz>,Apache-2.0,28167,"Client library for integrating a system with ZanShield, eGAZ's multi-factor authentication service"
+2026-10-10T22:06:32Z,auditron,0.1.0,LRNSdigital,MIT,30447,"One defensive security gate for a repo: pip-audit + bandit + zizmor, one report (JSON + SARIF), one policy. Plug it into any project."
+2026-10-10T22:07:34Z,praxis-358063,0.0.0,MarketGraphs <alex@market-graphs.com>,,2722,Name held by MarketGraphs. The Praxis reproduction package for audit 358063 is distributed privately.
+2026-10-10T22:07:35Z,praxis-372649,0.0.0,MarketGraphs <alex@market-graphs.com>,,2754,Name held by MarketGraphs. The Praxis reproduction package for audit 372649 is distributed privately.
+2026-10-10T22:08:20Z,lpgcast,0.1.1,Alexander Belikov <alexander@growgraph.dev>,Apache-2.0,426430,Text to labeled property graph against a governed GraFlo schema
+2026-10-10T22:08:39Z,entropystrip,1.0.0,dwexi <dwexi@users.noreply.github.com>,MIT,32069,"Algorithmic PE de-obfuscator, Shannon entropy radar, and incident triage engine."
+2026-10-10T22:10:24Z,shoggo-insights-client,0.0.1,,,2253,"Reserved name. Private package of Shoggo, not published here."
+2026-10-10T22:14:38Z,axorum-sandbox,0.2.0,Roland Rodriguez <roland@axorum.com>,BUSL-1.1,31207207,"The Axorum sandbox: a world's agent plane on 127.0.0.1, a clock that moves only when a test moves it, and the ledger to assert on."
+2026-10-10T22:15:56Z,marketgraphs,0.0.0,MarketGraphs <alex@market-graphs.com>,,1300,"Name held by MarketGraphs — audits of systematic strategies, with code reproductions and datasets."
+2026-10-10T22:17:03Z,buddy-py,0.1.0,Terry Eppler,MIT,6016991,"Financial management Streamlit assistant with provider chat, retrieval, and document analysis"
+2026-10-10T22:18:53Z,axionlang,0.3.0,Egor,MIT,250867,"A sandbox for code that AI writes: a small language checked before it runs, with no file or network access, default limits, and data checked against the program's inputs."
