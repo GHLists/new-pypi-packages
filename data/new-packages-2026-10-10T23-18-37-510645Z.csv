@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T22:20:07Z,durable-actors-runtime,0.8.0,,MIT,75953678,Native runtime and observer assets for the Durable Actors Python CLI
+2026-10-10T22:20:09Z,ophix-confs,2026.10.8.2,Ophix Project,MIT,81633,Configuration snippets domain plugin for Ophix Project Servers
+2026-10-10T22:21:46Z,ophix-conf-client,2026.10.6.1,Ophix Project,MIT,20802,Configuration client for Ophix Project Servers
+2026-10-10T22:23:13Z,veridret-plugins-core,1,Jonathan Gruber <jonathan.gruber.jg@gmail.com>,BSD-3-Clause,19483,The *official* Python package of the *official* standard core VerIdRet plugins
+2026-10-10T22:24:49Z,watchguardian,0.1.0,Brayan de Souza Dias Vaz,,55912,"Observability, logging, database, authentication and server utilities for Python applications."
+2026-10-10T22:25:12Z,pyrazobill,1.0.0,M. M. Atta and Razobill Contributors,Apache-2.0,1033014,"High-performance log parsing, exact lossless compaction, and information-theoretic semantic accounting library"
+2026-10-10T22:31:16Z,xml-cmpr,0.2.0,Frédéric Laurent <flt@opikanoba.org>,MIT,72567,Compare des documents XML issus de deux sources et produit un rapport des différences
+2026-10-10T22:33:39Z,gitpro,0.3.1,"Yantrakar, Sandeep Shelke",MIT,601859,"Per-remote git identities (name, email, SSH key, commit signing) from one TOML file"
+2026-10-10T22:33:52Z,signal-platform,0.1.0,Dinesh Ramalingam,MIT,18610,"Building blocks for derived-signal MCP services: snapshot store, response envelope, push fan-out"
+2026-10-10T22:35:49Z,areaFluForecast,0.1.1,Mateo Biggs <biggs.m@northeastern.edu>,MIT,517351,"Neighborhood-scale influenza forecasts for public health departments: a graph neural network, a tuned LSTM and Cola-GNN, each checked against persistence on your own data."
+2026-10-10T22:38:22Z,civicbot,0.4.0,Joshua Almeida,MIT,349032,"Personal robots that call city APIs (Open311 311 reports, transit, open data) from your own X robot account. Dry-run by default."
+2026-10-10T22:39:00Z,interplay-adversarial,0.1.0,Interplay Adversarial contributors,Apache-2.0,111187,Adversarial and red-teaming library: probe generation and attack methodologies for AI systems
+2026-10-10T22:42:44Z,donger-py,0.1.0,Terry Eppler,MIT,2630448,"Grok-powered Streamlit application for chat, multimodal analysis, and document retrieval"
+2026-10-10T22:43:03Z,pretty-notebook,0.10.0,prettynb,MIT,245717,"Python tools for parsing and querying wiki-linked, tagged Markdown notebooks."
+2026-10-10T22:43:53Z,cypheron,0.3.0,CYPHERON Team,Apache-2.0,125458,"Authenticated streaming file encryption with Tink, encrypted keysets and Argon2id"
+2026-10-10T22:48:25Z,wwxd,0.1.0,,MIT,1970389,"What would X do? Build a cited knowledge wiki of anyone's thinking from their talks, podcasts and writing."
+2026-10-10T22:48:45Z,ejentum,0.1.0,"Bob Franks <contact@ejentum.com>, Ejentum Team <contact@ejentum.com>",MIT,17323,Deterministic Reasoning-Augmented Retrieval (RAR) Cognitive Infrastructure SDK
+2026-10-10T22:50:57Z,leeroy-py,0.1.0,Terry Eppler,MIT,1019070,"Local GGUF Streamlit assistant for chat, document retrieval, embeddings, and analysis"
+2026-10-10T22:52:49Z,cue-notify,0.1.0,Murtazo Xurramov,MIT,272443,"The attention layer between software, AI agents and people: decides whether, what, when and where to notify."
+2026-10-10T22:53:56Z,mendwright,0.3.0,saadbuilt,MIT,425395,"Self-healing selectors for Playwright and Selenium. When a selector breaks, a model suggests a new one, mendwright checks it against the page, and the step is retried."
+2026-10-10T22:54:04Z,presurfer,2.0.0,Sriranga Kashyap,MIT,28777,MATLAB-free MP2RAGE preprocessing using SPM Standalone containers
+2026-10-10T23:06:23Z,jupyter-storage-explorer,0.0.6,,,396433,"A storage explorer for Jupyter: browse cloud storage and data lakes, preview Parquet, Delta Lake and more"
+2026-10-10T23:07:30Z,nextflood,0.0.1,,,1960,Early-stage Python package for streamflow and flood forecasting.
+2026-10-10T23:10:10Z,jupyter-storage-explorer-launcher,0.0.6,,,82318,"Adds Jupyter Storage Explorer to the JupyterLab launcher, opening it in a tab"
+2026-10-10T23:10:20Z,jimi-py,0.1.0,Terry Eppler,MIT,1110388,"Gemini-powered Streamlit application for chat, multimodal analysis, and document retrieval"
+2026-10-10T23:18:04Z,trading-vol-regime,0.1.1,Dinesh Ramalingam,MIT,69163,MCP server that classifies the market volatility regime from Cboe public data (15-min delayed)
