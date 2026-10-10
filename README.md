@@ -8,39 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 06:18 UTC
+## Latest list — 2026-10-10 07:19 UTC
 
-New packages created between 2026-10-10 05:18 UTC and 2026-10-10 06:18 UTC.
+New packages created between 2026-10-10 06:18 UTC and 2026-10-10 07:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-10T06-18-37-223442Z.csv)
+[Full CSV](data/new-packages-2026-10-10T07-19-39-752591Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-10 05:21:41 | [carconnectivity-connector-lucid](https://pypi.org/project/carconnectivity-connector-lucid/) | 0.1.8 | Eric Pheterson | 62.3 kB | CarConnectivity connector for Lucid Motors vehicles |
-| 2026-10-10 05:24:35 | [keystone-core](https://pypi.org/project/keystone-core/) | 0.1.0 | Abhiram <ab542v@gmail.com> | 14.8 kB | Signed capability tokens and short-code primitives for Keystone — the Python po… |
-| 2026-10-10 05:24:35 | [pytest-acereports](https://pypi.org/project/pytest-acereports/) | 1.0.1 | Harshad Lambate | 85.7 kB | Ace Reports for pytest: one self-contained HTML report per run with logs, API c… |
-| 2026-10-10 05:28:06 | [spaxcr](https://pypi.org/project/spaxcr/) | 0.1.1 | liuyihhha | 88.0 kB | SpaXCR: a toolkit for spatial single-cell TCR/BCR repertoire analysis |
-| 2026-10-10 05:30:24 | [zeqron-ar-core](https://pypi.org/project/zeqron-ar-core/) | 0.1.0a0 | Zeqron | 3.6 kB | Agent Rail thin Python TOOL_MAP (RFC-AGENT-008) — lab pre-release |
-| 2026-10-10 05:31:13 | [skyros](https://pypi.org/project/skyros/) | 0.0.1 | Gren Research | 10.2 kB | Persistent AI agents that remember. Under active development by Gren Research. |
-| 2026-10-10 05:32:52 | [purestrata](https://pypi.org/project/purestrata/) | 0.2.0 | Daiki Ito | 91.0 kB | Open data layer for manufacturing AI: structure drawings, spec sheets, and fail… |
-| 2026-10-10 05:32:58 | [polyorderbooks-backtest](https://pypi.org/project/polyorderbooks-backtest/) | 0.1.0 | PolyOrderbooks <contact@polyo… | 35.9 kB | Replay-accurate backtesting for Polymarket order-book history via PolyOrderbook… |
-| 2026-10-10 05:34:05 | [languette](https://pypi.org/project/languette/) | 0.0.1 | Mark Brannan | 331.2 kB | Fail-closed guards against risky actions by coding agents, and a doctor that sa… |
-| 2026-10-10 05:34:17 | [easy-socketer](https://pypi.org/project/easy-socketer/) | 0.1.0 | Your Name <you@example.com> | 21.0 kB | A friendly, batteries-included wrapper around Python's socket module. |
-| 2026-10-10 05:37:30 | [python-myanmar-payments](https://pypi.org/project/python-myanmar-payments/) | 4.0.0a1 | Nay Thu Khant <naythukhant644… | 118.6 kB | Python SDK for Myanmar payment gateways: KBZ Pay, Wave Money, AYA Pay, Yoma MMQ… |
-| 2026-10-10 05:37:51 | [nonplanar](https://pypi.org/project/nonplanar/) | 0.1.1 |  | 229.2 kB | Geometry and library interfaces for non-planar robotic 3D printing |
-| 2026-10-10 05:37:56 | [socialrobot](https://pypi.org/project/socialrobot/) | 0.2.0 | Hung-Chun Chang <jonathanchan… | 88.1 kB | Python runtime client for the Social Robot Platform — connect a robot body (NAO… |
-| 2026-10-10 05:38:14 | [cogbox_api_client_async](https://pypi.org/project/cogbox_api_client_async/) | 0.190.1 | Cogbox Platforms Inc. | 559.7 kB | Cogbox |
-| 2026-10-10 05:41:12 | [phone-processing-tools](https://pypi.org/project/phone-processing-tools/) | 0.1.0 |  | 10.6 MB |  |
-| 2026-10-10 05:51:30 | [sarnai](https://pypi.org/project/sarnai/) | 0.1.0 |  | 18.7 kB | Official SarnAI Python package: find agent services on the Agent Discovery Boar… |
-| 2026-10-10 05:52:38 | [vdi-client](https://pypi.org/project/vdi-client/) | 0.1.0 | Thomas Roeblitz <thomas.robli… | 141.2 kB | VDI client - client tools for the virtual data infrastructure |
-| 2026-10-10 05:52:45 | [aito-mcp](https://pypi.org/project/aito-mcp/) | 1.2.0 | "aito.ai" <admin@aito.ai> | 4.4 kB | MCP server for Aito, the predictive database: says when Aito fits and when not |
-| 2026-10-10 05:57:43 | [intelligent-futures](https://pypi.org/project/intelligent-futures/) | 0.1.0 |  | 431.0 kB | Measured, safety-first adaptive scheduling on Python concurrent.futures |
-| 2026-10-10 05:58:20 | [a-token-monitor](https://pypi.org/project/a-token-monitor/) | 1.0.0 | pantlive <clickly@163.com> | 1.2 MB | Monitor Codex, Grok, Kimi, DeepSeek Harness and other code agents |
-| 2026-10-10 05:59:45 | [dhp-protocol](https://pypi.org/project/dhp-protocol/) | 1.1.1 |  | 113.2 kB |  |
-| 2026-10-10 05:59:52 | [QFunnyWidgets](https://pypi.org/project/QFunnyWidgets/) | 1.0.0 |  | 3.7 MB | 35 custom-painted, animated Qt widgets with a sense of humour, for PyQt and PyS… |
-| 2026-10-10 06:00:32 | [personal-agent-protocol](https://pypi.org/project/personal-agent-protocol/) | 0.2.0 | Datalayer <info@datalayer.io> | 4.2 kB |  |
-| 2026-10-10 06:01:39 | [agentaix](https://pypi.org/project/agentaix/) | 0.2.0 | Your Name <you@example.com> | 35.6 kB | AgentAIX - autonomous code synthesis unit (GUI). |
-| 2026-10-10 06:05:21 | [open-voicefilter-lite](https://pypi.org/project/open-voicefilter-lite/) | 0.1.1 | linsan <bin.zaq@foxmail.com> | 15.9 MB | Streaming targeted voice separation (VoiceFilter-Lite reimplementation) — turnk… |
-| 2026-10-10 06:07:11 | [gixo](https://pypi.org/project/gixo/) | 0.0.1 | Griffin McManus | 4.8 kB | Validate Git branch names and commit messages. |
-| 2026-10-10 06:09:28 | [kalesh-pdf-library](https://pypi.org/project/kalesh-pdf-library/) | 2.0.0 | Kalesh contributors | 5.7 MB | A cross-platform interactive PDF library with offline search |
-| 2026-10-10 06:13:12 | [slap-sdk](https://pypi.org/project/slap-sdk/) | 0.1.0 | SLAP Protocol Team <motiramsh… | 10.4 kB | Python client for Semantic Latent-Algebraic Protocol (SLAP) — drop-in replaceme… |
+| 2026-10-10 06:18:54 | [yai-agent-core](https://pypi.org/project/yai-agent-core/) | 0.8.0 | Gi-Tuu | 345.1 kB | YAI Agent Core — an embeddable, self-adaptive agent kernel for host applications |
+| 2026-10-10 06:22:51 | [subreel](https://pypi.org/project/subreel/) | 0.1.0 | paxoscn | 83.0 kB | Turn speech audio into subtitle reels: green-screen H.264, transparent WebM/Pro… |
+| 2026-10-10 06:24:00 | [dreamscale-i2rt](https://pypi.org/project/dreamscale-i2rt/) | 1.1.2.post1 |  | 22.1 MB | Dreamscale's maintained build of the I2RT YAM arm and Flow Base Python driver. |
+| 2026-10-10 06:25:21 | [ssatk](https://pypi.org/project/ssatk/) | 1.1.0 | "Travis R. Yeager" <yeagerast… | 2.4 MB | Space Situational Awareness Toolkit (SSATK): orbital mechanics, plotting, and d… |
+| 2026-10-10 06:30:25 | [caddiff](https://pypi.org/project/caddiff/) | 0.3.4 | The caddiff Authors | 226.6 kB | git diff for CAD assemblies — compare two STEP/STP assemblies and show what cha… |
+| 2026-10-10 06:32:48 | [volcenginesdk-waf](https://pypi.org/project/volcenginesdk-waf/) | 0.0.1 | volc-engine | 975 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-waf |
+| 2026-10-10 06:32:55 | [volcenginesdk-wafruntime](https://pypi.org/project/volcenginesdk-wafruntime/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-wafr… |
+| 2026-10-10 06:34:40 | [infimal](https://pypi.org/project/infimal/) | 0.2.1 |  | 165.2 kB | The infimal SDK, the in-container harness, and the module behind the native CLI… |
+| 2026-10-10 06:36:06 | [rmink](https://pypi.org/project/rmink/) | 2.0.1 |  | 282.7 kB | Convert images, photos, SVGs and PDFs into native, editable reMarkable ink (.rm… |
+| 2026-10-10 06:37:13 | [layout-canvas](https://pypi.org/project/layout-canvas/) | 0.1.0 | layout-canvas contributors | 824.2 kB | Block-level, AI-native analog layout canvas: Block IR + parametric blocks + DRC… |
+| 2026-10-10 06:38:56 | [racoogent](https://pypi.org/project/racoogent/) | 0.1.0 |  | 29.2 kB |  |
+| 2026-10-10 06:45:00 | [dashcam-ai](https://pypi.org/project/dashcam-ai/) | 0.4.0 | Varshith Puli | 100.1 kB | The dashcam for your AI coding agents — tamper-evident session receipts and cro… |
+| 2026-10-10 06:52:19 | [dew-flash-attn-cu13](https://pypi.org/project/dew-flash-attn-cu13/) | 0.1.0 |  | 29.9 MB | FlashAttention-2 for JAX: Dao-AILab's CUDA kernels as XLA FFI targets |
+| 2026-10-10 06:52:23 | [dew-flash-attn-cu12](https://pypi.org/project/dew-flash-attn-cu12/) | 0.1.0 |  | 29.7 MB | FlashAttention-2 for JAX: Dao-AILab's CUDA kernels as XLA FFI targets |
+| 2026-10-10 06:52:59 | [basta-cli](https://pypi.org/project/basta-cli/) | 0.3.1 | Andrey Kucherenko | 25.7 MB | Dead code detector for JavaScript, TypeScript, Vue, Svelte, Astro, Python and R… |
+| 2026-10-10 06:55:23 | [sw-serverless](https://pypi.org/project/sw-serverless/) | 10.2.3 | Simplify9 | 48.9 kB | Write SW-Serverless adapters in Python: settings, commands, and the host protoc… |
+| 2026-10-10 06:59:15 | [jippi](https://pypi.org/project/jippi/) | 0.0.1 | Diego Royo | 1.6 kB | Just-in-time compiler |
+| 2026-10-10 07:04:00 | [kalesh-pdf-library](https://pypi.org/project/kalesh-pdf-library/) | 2.1.0 | Kalesh contributors | 5.7 MB | A cross-platform interactive PDF library with offline search |
+| 2026-10-10 07:10:18 | [agentlisp](https://pypi.org/project/agentlisp/) | 2.0.0rc5 | AgentLisp Contributors | 676.7 kB | AgentLisp v2 - Racket-based Agent DSL compiler + Python ReAct Harness runtime +… |
+| 2026-10-10 07:17:57 | [fast-ccsds-parser](https://pypi.org/project/fast-ccsds-parser/) | 0.1.0 | Daiki Ito <daiki.ito@trustyon… | 30.7 kB | Fast, dependency-free parsing of CCSDS Space Packets (CCSDS 133.0-B): primary h… |
+| 2026-10-10 07:18:20 | [pytauargus](https://pypi.org/project/pytauargus/) | 0.1.0 |  | 56.8 MB | Tau-Argus: Statistical Disclosure Control, open-source solvers (HiGHS) + Python… |
+| 2026-10-10 07:19:28 | [uxplain](https://pypi.org/project/uxplain/) | 0.3.0 | Tomas Rodriguez Taborda, Vero… | 108.0 kB | Explainability for conformal prediction uncertainty — regression and classifica… |

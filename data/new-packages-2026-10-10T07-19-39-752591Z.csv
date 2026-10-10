@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T06:18:54Z,yai-agent-core,0.8.0,Gi-Tuu,MIT,345134,"YAI Agent Core — an embeddable, self-adaptive agent kernel for host applications"
+2026-10-10T06:22:51Z,subreel,0.1.0,paxoscn,Apache-2.0,83037,"Turn speech audio into subtitle reels: green-screen H.264, transparent WebM/ProRes, with word-by-word karaoke highlight."
+2026-10-10T06:24:00Z,dreamscale-i2rt,1.1.2.post1,,MIT,22101255,Dreamscale's maintained build of the I2RT YAM arm and Flow Base Python driver.
+2026-10-10T06:25:21Z,ssatk,1.1.0,"""Travis R. Yeager"" <yeagerastro@gmail.com>",BSD-3-Clause,2421279,"Space Situational Awareness Toolkit (SSATK): orbital mechanics, plotting, and data IO built on SSAPy"
+2026-10-10T06:30:25Z,caddiff,0.3.4,The caddiff Authors,Apache-2.0,226574,git diff for CAD assemblies — compare two STEP/STP assemblies and show what changed
+2026-10-10T06:32:48Z,volcenginesdk-waf,0.0.1,volc-engine,Apache License 2.0,975,Name reservation for the Volcengine Python SDK split package volcenginesdk-waf
+2026-10-10T06:32:55Z,volcenginesdk-wafruntime,0.0.1,volc-engine,Apache License 2.0,1026,Name reservation for the Volcengine Python SDK split package volcenginesdk-wafruntime
+2026-10-10T06:34:40Z,infimal,0.2.1,,Apache-2.0,165181,"The infimal SDK, the in-container harness, and the module behind the native CLI's apps plan, apply and deploy."
+2026-10-10T06:36:06Z,rmink,2.0.1,,AGPL-3.0-or-later,282732,"Convert images, photos, SVGs and PDFs into native, editable reMarkable ink (.rm v6 / .rmdoc)"
+2026-10-10T06:37:13Z,layout-canvas,0.1.0,layout-canvas contributors,MIT,824190,"Block-level, AI-native analog layout canvas: Block IR + parametric blocks + DRC/LVS/PEX verification + Virtuoso export."
+2026-10-10T06:38:56Z,racoogent,0.1.0,,,29163,
+2026-10-10T06:45:00Z,dashcam-ai,0.4.0,Varshith Puli,MIT,100123,The dashcam for your AI coding agents — tamper-evident session receipts and cross-provider cost. Read-only.
+2026-10-10T06:52:19Z,dew-flash-attn-cu13,0.1.0,,BSD-3-Clause,29852379,FlashAttention-2 for JAX: Dao-AILab's CUDA kernels as XLA FFI targets
+2026-10-10T06:52:23Z,dew-flash-attn-cu12,0.1.0,,BSD-3-Clause,29654991,FlashAttention-2 for JAX: Dao-AILab's CUDA kernels as XLA FFI targets
+2026-10-10T06:52:59Z,basta-cli,0.3.1,Andrey Kucherenko,MIT,25698380,"Dead code detector for JavaScript, TypeScript, Vue, Svelte, Astro, Python and Rust"
+2026-10-10T06:55:23Z,sw-serverless,10.2.3,Simplify9,MIT,48944,"Write SW-Serverless adapters in Python: settings, commands, and the host protocol, with no dependencies."
+2026-10-10T06:59:15Z,jippi,0.0.1,Diego Royo,,1601,Just-in-time compiler
+2026-10-10T07:04:00Z,kalesh-pdf-library,2.1.0,Kalesh contributors,MIT,5703918,A cross-platform interactive PDF library with offline search
+2026-10-10T07:10:18Z,agentlisp,2.0.0rc5,AgentLisp Contributors,MIT,676684,AgentLisp v2 - Racket-based Agent DSL compiler + Python ReAct Harness runtime + Cloud-native host glue
+2026-10-10T07:17:57Z,fast-ccsds-parser,0.1.0,Daiki Ito <daiki.ito@trustyon.jp>,MIT,30663,"Fast, dependency-free parsing of CCSDS Space Packets (CCSDS 133.0-B): primary headers, payload extraction, and streaming file parsing with a pure-Python core."
+2026-10-10T07:18:20Z,pytauargus,0.1.0,,EUPL-1.2,56753633,"Tau-Argus: Statistical Disclosure Control, open-source solvers (HiGHS) + Python CLI"
+2026-10-10T07:19:28Z,uxplain,0.3.0,"Tomas Rodriguez Taborda, Veronica Seguro Varela, Rafael Izbicki, Johnatan Cardona Jimenez",MIT,107956,Explainability for conformal prediction uncertainty — regression and classification.
