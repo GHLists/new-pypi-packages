@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T17:20:58Z,mixedbench,1.0.0,Alex Kipnis <adkipnis@users.noreply.github.com>,MIT AND CC-BY-4.0,822967,A benchmark of posterior approximation and prediction on real grouped data for GLMMs
+2026-10-10T17:21:14Z,nockchain,0.1.0,SWPSCO,MIT,136923,"Native Python Nockchain V1 wallets, transactions, multisig and timelocks"
+2026-10-10T17:23:01Z,runlight,0.1.0,Jon C. Phillips,MIT,1022761,"Privacy friendly web analytics that lives inside your Python app. Mount a route, add a script tag, read your stats at /runlight."
+2026-10-10T17:24:25Z,chinese-nlp-mcp,0.1.0,chinese-nlp-mcp contributors,MIT,31126,"Chinese NLP capabilities as an MCP Server — segmentation, pinyin, TF-IDF keywords, and custom sensitive-word detection. Local stdio, fully offline."
+2026-10-10T17:26:24Z,rootiq,0.1.0,Abhijit Sahu,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",215352,Kubernetes root cause analysis and approval-based repair assistance CLI
+2026-10-10T17:26:41Z,penguin-agent-package,0.1.2,theobalduser <fzierenberg@icloud.com>,MIT,671010,"Simple, minimalistic AI-Agent for Linux that runs on almost every device"
+2026-10-10T17:32:37Z,refractal-ai,0.3.0,Refractal AI,Apache-2.0,73005,"Typed Refractal classification, policy decisions, and audit for AI agents."
+2026-10-10T17:37:13Z,colregs-planner,0.1.1,"Johannes Robert Skarø, Mikkel Bergstrand",MIT,362346,"COLREGs-aware multi-vessel trajectory prediction and own-ship manoeuvre planning, with a dynamic-positioning reference as output"
+2026-10-10T17:37:51Z,accelerator-middle-layer-apg,0.3.1.post1,Simone Maria Liuzzo <simone.liuzzo@esrf.fr>,,4784213,ALS-APG staging snapshot of pyAML (Python Accelerator Middle Layer) for OSPREY deployments; everyone else should install accelerator-middle-layer
+2026-10-10T17:39:36Z,agvps,0.1.3,,MIT,8000,CLI for agvps.shveik.dev (one of the shveik.dev agent products; same code as ag-cli)
+2026-10-10T17:45:03Z,hivebr,0.1.0,Elias J. R. Freitas,MIT,4006315,Hivebr simulator - 2D simulator and OpenLab API for single- and multi-robot (B-bot) navigation.
+2026-10-10T17:45:13Z,qtrans,0.7.0,Sunny Vellanikaran,MIT,375086,"Translate typed quant-finance Python into readable, standalone C++, and prove the translation matches."
+2026-10-10T17:47:29Z,rushdaw,0.1.1,HarshXor <afrzlf4@gmail.com>,MIT,6253775,"RushDAW - web based DAW (mixing, recording, mastering, drum machine, synth) inspired by BandLab"
+2026-10-10T17:47:42Z,tree-sitter-devicetree2,0.1.0,Waqar Hameed <whame@whame.dev>,GPL-3.0,212755,Devicetree grammar for tree-sitter
+2026-10-10T17:49:48Z,decision-flow,0.0.1,,MIT,1789,This is a placeholder for decision-flow. The functionality will be added soon.
+2026-10-10T17:51:58Z,vecshift,0.1.0,Osama Elshareef,Apache-2.0,659245,"Zero-downtime embedding model migrations for pgvector and Supabase: plan, re-embed, evaluate, and cut over safely."
+2026-10-10T18:00:37Z,menudoodle,1.0.0,Jacob Sanson,,12757,
+2026-10-10T18:00:47Z,lingotweaker-data-sl,0.1.5,,LGPL-2.1-or-later,1412844,LingoTweaker runtime data for language 'sl'
+2026-10-10T18:00:55Z,lingotweaker-data-sr,0.1.5,,LGPL-2.1-or-later,13668125,LingoTweaker runtime data for language 'sr'
+2026-10-10T18:01:03Z,lingotweaker-data-sv,0.1.6,,LGPL-2.1-or-later,4415544,LingoTweaker runtime data for language 'sv'
+2026-10-10T18:01:11Z,lingotweaker-data-ta,0.1.5,,LGPL-2.1-or-later,990883,LingoTweaker runtime data for language 'ta'
+2026-10-10T18:03:35Z,quadrium,0.2.0,Alberto Roca-Florido,MIT,750168,Scientific software for constructing Supply-Use and Input-Output systems
+2026-10-10T18:05:20Z,chunkr-pdf,0.1.0,Dipankar <dipankarmedhi11@gmail.com>,MIT,56208,"High-fidelity PDF parsing for chunkr: layout, headings, tables, page labels and OCR via liteparse"
+2026-10-10T18:08:00Z,llm-trustedrouter,0.1.0,Joseph Perla,Apache-2.0,17100,LLM plugin for models available through TrustedRouter
+2026-10-10T18:10:02Z,spillage,0.9.0,Maximilian Feix,MIT,223569,"Find the API keys and passwords your coding agents spilled into their logs: Claude Code, Codex, Gemini CLI, Cline and more. Scan, scrub, and block the next one."
+2026-10-10T18:10:49Z,portreach,0.1.0,Ofelia B Webb,MIT,47797,PortReach — a lightweight TCP connectivity diagnostic utility.
+2026-10-10T18:11:48Z,edcb-bridge,0.0.0,eggplants <w10776e8w@yahoo.co.jp>,MIT,68984,EDCB (EpgTimerSrv) CtrlCmd compatible bridge to EPGStation / mirakc for KonomiTV
+2026-10-10T18:15:56Z,texttools-iradiv,0.2.0,Divine Irasubiza <irasubizadivine009@gmail.com>,,5026,A simple Python package for reusable text-processing utilities
+2026-10-10T18:18:27Z,scikit-pca-vis,0.1.0,,,3299,A lightweight PCA visualizer using scikit-learn and matplotlib
