@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T15:21:09Z,sadasend,0.1.0,SadaSend <support@sadasend.com>,MIT,49621,"The official Python SDK for SadaSend. Transactional email with unbypassable guardrails, zero runtime dependencies, and native agent safety."
+2026-10-10T15:21:31Z,libe3py,0.2.3,Northeastern University,Apache-2.0,19327,"Python binding of libe3, the O-RAN E3 interface library"
+2026-10-10T15:22:23Z,mat-uitest,0.6.0,vlmpilot,AGPL-3.0-or-later,1307260,MAT — AI 移动端 App UI 自动化测试（引擎与 CLI，开源核心 AGPL-3.0）
+2026-10-10T15:23:11Z,web-posture-check,0.2.0,"Mohammad Thabet, Omar Alraas",MIT,88165,"Check a website's security posture from the command line: headers, cookies, CORS, TLS, CAA, security.txt, SPF, DMARC and DKIM"
+2026-10-10T15:23:13Z,ardvane,0.2.1,Abdul Moiz,MIT,241054,"Protects developers from malware that spreads through code: scan, block, fix and check daily. Runs only on your computer."
+2026-10-10T15:23:14Z,myastro,0.3.0,,MIT,314504,"Personal astronomy data toolkit: fetch, ledger, dedup, coverage, TUI"
+2026-10-10T15:33:31Z,isoends,1.0.0,Mustafa Elshani,MIT,432115,"Companion tool for IsoForge: replicate-aware statistics for poly(A) tail length, alternative polyadenylation and transcription start sites"
+2026-10-10T15:34:29Z,polars-learn,0.1.0,Jack,MIT,88275,Native Polars feature engineering and schema validation for scikit-learn
+2026-10-10T15:36:32Z,s2conv,0.1.0,"Jason D. McEwen, Contributors",MIT,1034882,Differentiable and accelerated spherical convolutions with JAX
+2026-10-10T15:37:22Z,nosleep-py,0.1.0,Aditya Sharma <adityasharma@example.com>,MIT,7478,Zero-overhead native Windows sleep and screen lock prevention utility and library.
+2026-10-10T15:39:17Z,dz-format,0.1.0,Sysserv <me@sysserv.eu.org>,MIT,20977,"Validate and parse Algerian formats: phone numbers, CCP, RIP and RIB keys, plates, postal codes, NIN, NIF, NIS, RC, wilayas and communes."
+2026-10-10T15:39:19Z,syscli-algeria,0.1.0,Sysserv <me@sysserv.eu.org>,MIT,78663,"Algeria's 69 wilayas and 1541 communes from the Journal officiel, with search in French and Arabic."
+2026-10-10T15:40:40Z,vramcalc,0.1.1,,MIT,161532,Predict GPU VRAM usage of Llama-family models from config.json and check whether they fit a GPU
+2026-10-10T15:40:44Z,x509kit,0.3.2,ArtProsto <artemkamirn@mail.ru>,MIT,180064,Pure-Python X.509 / PKCS#10 / CRL / OCSP / PKCS#12 toolkit — stdlib only
+2026-10-10T15:41:32Z,isotracks,1.0.0,Mustafa Elshani,MIT,291872,"Isoform, read, poly(A), RNA modification and gene fusion figures from IsoForge long-read RNA-seq results"
+2026-10-10T15:42:50Z,enge,0.2.0,Tom Ritchford <tom@swirly.com>,,1014103,🚂 an audio synthesizer engine in Python and Rust 🚂
+2026-10-10T15:45:33Z,smart-ai-file-organizer,0.2.0,Sara Wagh,MIT,150635,"AI-assisted file organizer with classification, duplicate detection, semantic search, and GUI front ends."
+2026-10-10T15:46:04Z,turkish-rag-eval,0.2.0,Rızgar Ozan,MIT,173992,"Measure which parts of a Turkish RAG pipeline pay off: chunking, stemming, embedding model, fusion."
+2026-10-10T15:46:10Z,asciify-video,0.1.0,Mark Bools,MIT,124216,Convert green-screen video into ASCII-art video
+2026-10-10T15:48:02Z,zhongyitang,0.1.6,cycleuser <cycleuser@cycleuser.org>,MIT,632441,"忠义堂 — one-command local LLM forge: mirror setup, halogen/Strata install, ModelScope model fetch, multi-user quota gateway."
+2026-10-10T15:48:40Z,isoforge,1.0.0,Mustafa Elshani,MIT,8791308,"IsoForge is a hypergraph-based tool for long-read RNA-seq: it keeps every read whole to discover isoforms with their start and poly(A) sites, count them, and call gene fusions, all in one run."
+2026-10-10T15:50:39Z,workproof,0.1.0,workproof contributors,MIT,24406,Proof-of-work monitoring for scheduled and AI agents: catches agents that are dead or idle while every health check is green.
+2026-10-10T15:52:11Z,kloggy,0.0.20261010,"""Dima Gerasimov (@karlicoss)"" <karlicoss@gmail.com>","MIT License Copyright (c) 2025 Dima Gerasimov Permission is hereby granted, free of charge, to any…",45149,"Logging helper: nice zero-config output for libraries, without fighting the app's logging setup"
+2026-10-10T15:52:13Z,ximg-lib,0.1.0,"""7 Develoment, Ismail Yusuf"" <yusufvizviz7@gmail.com>",MIT,12529,A 100% pure Python multi-format disk and file system image builder and extractor.
+2026-10-10T15:54:09Z,a3driverdoctor,0.2.0,,,55290,Apple III SOS device driver doctor
+2026-10-10T15:56:57Z,haversinegeo,0.1.0,Dickson Mbeya,MIT,5672,A package for calculating distance between two places using haversine formula
+2026-10-10T15:58:47Z,claudetan,1.0.0,Stoupy51,,36472,Voice-driven Claude Code assistant with an anime avatar overlay
+2026-10-10T16:00:39Z,55tech,0.1.0,brandon-betdex,MIT,52742,Python client for the 55Tech REST and WebSocket APIs
+2026-10-10T16:01:28Z,chassisdb,0.7.0,Chassis Contributors,MIT OR Apache-2.0,1616760,"Python bindings for Chassis, an embedded vector index for local semantic search"
+2026-10-10T16:01:52Z,cld-reducer,0.2.0,John Ennis,MIT,47003,Reduce compact letter displays while preserving pairwise statistical relationships
+2026-10-10T16:01:53Z,lexgrep,0.3.0,,,27210,
+2026-10-10T16:04:44Z,moment-cli,2.6.0,,MIT,263570,Moment research agent CLI
+2026-10-10T16:05:12Z,logsetu,0.3.0,Raj Verma,MIT,42541,"LogSetu SDK for Python — Django, DRF, Flask and FastAPI: ship logging records and request errors to your self-hosted LogSetu server"
+2026-10-10T16:06:15Z,myg,0.1.1,Abhi Avadhani,MIT,43425,myg — your guy for agent apps. Scaffold a full CopilotKit + LangGraph agent app in one command.
+2026-10-10T16:07:37Z,haversinegeo_mh,0.1.0,Mike Hamuza,MIT,5719,A package for calculating distance between two places using haversine formula
+2026-10-10T16:09:19Z,bwsgi,0.1.0,Baraa Ahmed <baraa.runtime@gmail.com>,MIT,24380,"Ultra-lightweight, zero-dependency Python WSGI framework"
+2026-10-10T16:09:19Z,haversigeo,0.1.0,james blessings,MIT,5635,A package for calculating distance between two places using haversine formula
+2026-10-10T16:11:46Z,loopgrid-claude-agent,0.1.0,LoopGrid contributors,Apache-2.0,62850,"Signed decision, policy, approval and tool-action evidence for Claude Agent SDK"
+2026-10-10T16:12:25Z,foch,0.0.1,,AGPL-3.0-only AND GPL-3.0-only AND MIT,26570402,EU4 mod analysis and merge tool: the foch command-line program and language server
+2026-10-10T16:17:39Z,styledbots,1.0.0,StyledBots Team,MIT,34016,"Modern, clean Telegram Bot library - Better than Telebot. Perfect for Pydroid 3"
