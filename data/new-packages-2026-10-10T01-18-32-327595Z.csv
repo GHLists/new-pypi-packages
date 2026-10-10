@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-09T23:42:44Z,appletextnotes,0.1.0,,MIT,115928,Synchronize IMAP notes with editable plain-text files
+2026-10-10T00:23:56Z,qualcomm-model-lens,0.0.1,"""Qualcomm Technologies, Inc."" <qairt.visualizer.support@qti.qualcomm.com>",Proprietary,2289,"Model Lens — a general-purpose model and runtime metrics viewer, with first-class support for Qualcomm AI Runtime."
+2026-10-10T00:27:01Z,django-parquet-archive,0.1.2,Victor Augusto,BSD-3-Clause,77644,"Archive old Django table rows to parquet files, configured and browsable from the admin"
+2026-10-10T00:31:07Z,pith-file,0.1.0,,MIT,317823,"File-domain hashing SDK: FastCDC chunk signatures, exact chunk-set Jaccard and PDF text extraction via the pith-file Rust cdylib (ctypes, zero-dep)"
+2026-10-10T00:31:16Z,pith-video,0.1.0,,MIT,363685,"Video fingerprinting SDK: mp4/H.264 frame pHash chains and MinHash signatures via the pith-video Rust cdylib (ctypes, zero-dep)"
+2026-10-10T00:31:17Z,pg-sse,0.1.0,Sandhu Santhakumar,MIT,61932,"Live updates from the Postgres you already run: LISTEN/NOTIFY wake-ups, re-reads from a cursor, served as server-sent events from any async Python framework (Starlette and FastAPI built in)."
+2026-10-10T00:31:17Z,pith-jpeg,0.1.0,pith-hash,MIT,214545,pith-jpeg SDK: JPEG decoding and kernel replay through the pith-hash Rust cdylib
+2026-10-10T00:31:20Z,uibuilder,0.5.0,Juan Delgado <lisbe2003@gmail.com>,"MIT License Copyright (c) 2026 GoldenDraagonJD Permission is hereby granted, free of charge, to any…",19463,A TUI framework to help build a simple TUI on a quick hobby project.
+2026-10-10T00:38:35Z,pith-hash,0.1.0,,MIT,673559,"The pith suite curator SDK: detect, tier-1 content hash, tier-2 signatures, match and describe via the pith-hash Rust cdylib (ctypes, zero-dep)"
+2026-10-10T00:39:21Z,drasi-agent-router-contracts,0.1.0a1,,Apache-2.0,59392,Shared wire contracts for DaprAgentRouter and the Drasi agent extension
+2026-10-10T00:44:37Z,langchain-tanvo,0.1.0,Tanvo <support@tanvo.ai>,MIT,21276,"LangChain tools for Tanvo: let agents generate images, video and songs on Nano Banana, Seedream, Kling, Veo, Seedance and Suno, and run 80 ready-made photo apps. The house image engine works without…"
+2026-10-10T00:45:42Z,dbml-atlas,1.2.0,,MIT,114158,Turn your DBML schema into a printable database poster (SVG/PDF) and an interactive canvas viewer (HTML). Zero dependencies.
+2026-10-10T00:47:11Z,fxtensor-bayesnet,0.9.1,Tadachika Oki <sakesnare@gmail.com>,MIT,90673,"Config-driven inference for discrete Bayesian networks: scenario comparison, Bayesian updating, root-cause inference and daily snapshots (built on fxtensor-salmon)"
+2026-10-10T00:49:13Z,browser-agent-server,1.0.1,vernikr,MIT,105865,"Real headful Chrome on Xvfb with a hardware-level X11 mouse, Cloudflare Turnstile auto-solve and zero-leak CDP. Localhost HTTP API + CLI + Python SDK."
+2026-10-10T00:53:27Z,finzdata,0.1.0,,,12363,"FinzData market data client: yfinance-style prices plus COT, SEC fundamentals, point-in-time macro and more"
+2026-10-10T00:56:00Z,kiro-fix-session-images,0.1.0,sawitmee,MIT,12366,Repair Kiro CLI sessions broken by oversized (>=2000px) embedded images by resizing them in place.
+2026-10-10T00:56:07Z,twin-update,0.2.0,Dragon Lady,Apache-2.0,78710,"Close, update and verify the same apt-packaged desktop apps on two Linux machines in one run, with a verified one-command rollback."
+2026-10-10T00:57:38Z,asciiquarium-modded,1.0.1,treyleo16,GPL-3.0-or-later,79590,Modded asciiquarium: spicy peppers for the sharks and tap-to-summon creature buttons
+2026-10-10T00:59:11Z,decider-lay,1.0.0,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,50752,
+2026-10-10T01:04:00Z,uydatos,0.2.1,Manu Martinez,"MIT License Copyright (c) 2026 Manu Martinez Permission is hereby granted, free of charge, to any p…",91218,"Lectores estrictos de datos públicos de Uruguay y la región: BCU, ANCAP, INIA, Salto Grande, INDEC, IBGE, IDE.uy, RUT y cédula."
+2026-10-10T01:06:14Z,mcp-uruguay,0.2.1,Manu Martinez,"MIT License Copyright (c) 2026 Manu Martinez Permission is hereby granted, free of charge, to any p…",106147,"Servidor MCP con datos públicos de Uruguay y la región: cotizaciones del BCU, IPC de Argentina y Brasil, combustibles de ANCAP, clima de INIA, estaciones de Salto Grande, geocodificación con IDE.uy,…"
+2026-10-10T01:06:14Z,powerquant-cli,0.2.6,,LicenseRef-PowerQuant-Proprietary AND MIT,888090,Power Quant local research CLI
+2026-10-10T01:06:58Z,numeric-al,2026.10.0,René Chenard <rene.chenard.1@ulaval.ca>,MIT,6582806,"NumericAL — a generic, header-only numerical library: tensors and Einstein summation"
+2026-10-10T01:07:11Z,search-clanker-history,0.2.0,,MIT,67729,"Search across Claude Code, Codex, OpenCode and Hermes session history"
+2026-10-10T01:09:36Z,decision-policy,0.1.0,Yogesh Bakshi <yogeshbakshi589@gmail.com>,MIT,9210,An explicit expected-loss decision policy wrapper for probabilistic classifiers
+2026-10-10T01:12:01Z,search-codex-history,0.2.0,,MIT,5179,Search your Codex session history from the command line
+2026-10-10T01:17:03Z,django-template-oxide,0.1.0,Nick Petrovic,MIT,16083025,A Rust implementation of Django's template engine.
+2026-10-10T01:17:37Z,graph-ted-db,0.1.0,graph-ted-db contributors,MIT,143480,"Local property-graph storage for Python. Data lives in a folder; open and query it in-process, with no database server for the default path."
