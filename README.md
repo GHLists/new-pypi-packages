@@ -8,33 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 07:19 UTC
+## Latest list — 2026-10-10 08:21 UTC
 
-New packages created between 2026-10-10 06:18 UTC and 2026-10-10 07:19 UTC.
+New packages created between 2026-10-10 07:19 UTC and 2026-10-10 08:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-10T07-19-39-752591Z.csv)
+[Full CSV](data/new-packages-2026-10-10T08-21-06-115003Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-10 06:18:54 | [yai-agent-core](https://pypi.org/project/yai-agent-core/) | 0.8.0 | Gi-Tuu | 345.1 kB | YAI Agent Core — an embeddable, self-adaptive agent kernel for host applications |
-| 2026-10-10 06:22:51 | [subreel](https://pypi.org/project/subreel/) | 0.1.0 | paxoscn | 83.0 kB | Turn speech audio into subtitle reels: green-screen H.264, transparent WebM/Pro… |
-| 2026-10-10 06:24:00 | [dreamscale-i2rt](https://pypi.org/project/dreamscale-i2rt/) | 1.1.2.post1 |  | 22.1 MB | Dreamscale's maintained build of the I2RT YAM arm and Flow Base Python driver. |
-| 2026-10-10 06:25:21 | [ssatk](https://pypi.org/project/ssatk/) | 1.1.0 | "Travis R. Yeager" <yeagerast… | 2.4 MB | Space Situational Awareness Toolkit (SSATK): orbital mechanics, plotting, and d… |
-| 2026-10-10 06:30:25 | [caddiff](https://pypi.org/project/caddiff/) | 0.3.4 | The caddiff Authors | 226.6 kB | git diff for CAD assemblies — compare two STEP/STP assemblies and show what cha… |
-| 2026-10-10 06:32:48 | [volcenginesdk-waf](https://pypi.org/project/volcenginesdk-waf/) | 0.0.1 | volc-engine | 975 B | Name reservation for the Volcengine Python SDK split package volcenginesdk-waf |
-| 2026-10-10 06:32:55 | [volcenginesdk-wafruntime](https://pypi.org/project/volcenginesdk-wafruntime/) | 0.0.1 | volc-engine | 1.0 kB | Name reservation for the Volcengine Python SDK split package volcenginesdk-wafr… |
-| 2026-10-10 06:34:40 | [infimal](https://pypi.org/project/infimal/) | 0.2.1 |  | 165.2 kB | The infimal SDK, the in-container harness, and the module behind the native CLI… |
-| 2026-10-10 06:36:06 | [rmink](https://pypi.org/project/rmink/) | 2.0.1 |  | 282.7 kB | Convert images, photos, SVGs and PDFs into native, editable reMarkable ink (.rm… |
-| 2026-10-10 06:37:13 | [layout-canvas](https://pypi.org/project/layout-canvas/) | 0.1.0 | layout-canvas contributors | 824.2 kB | Block-level, AI-native analog layout canvas: Block IR + parametric blocks + DRC… |
-| 2026-10-10 06:38:56 | [racoogent](https://pypi.org/project/racoogent/) | 0.1.0 |  | 29.2 kB |  |
-| 2026-10-10 06:45:00 | [dashcam-ai](https://pypi.org/project/dashcam-ai/) | 0.4.0 | Varshith Puli | 100.1 kB | The dashcam for your AI coding agents — tamper-evident session receipts and cro… |
-| 2026-10-10 06:52:19 | [dew-flash-attn-cu13](https://pypi.org/project/dew-flash-attn-cu13/) | 0.1.0 |  | 29.9 MB | FlashAttention-2 for JAX: Dao-AILab's CUDA kernels as XLA FFI targets |
-| 2026-10-10 06:52:23 | [dew-flash-attn-cu12](https://pypi.org/project/dew-flash-attn-cu12/) | 0.1.0 |  | 29.7 MB | FlashAttention-2 for JAX: Dao-AILab's CUDA kernels as XLA FFI targets |
-| 2026-10-10 06:52:59 | [basta-cli](https://pypi.org/project/basta-cli/) | 0.3.1 | Andrey Kucherenko | 25.7 MB | Dead code detector for JavaScript, TypeScript, Vue, Svelte, Astro, Python and R… |
-| 2026-10-10 06:55:23 | [sw-serverless](https://pypi.org/project/sw-serverless/) | 10.2.3 | Simplify9 | 48.9 kB | Write SW-Serverless adapters in Python: settings, commands, and the host protoc… |
-| 2026-10-10 06:59:15 | [jippi](https://pypi.org/project/jippi/) | 0.0.1 | Diego Royo | 1.6 kB | Just-in-time compiler |
-| 2026-10-10 07:04:00 | [kalesh-pdf-library](https://pypi.org/project/kalesh-pdf-library/) | 2.1.0 | Kalesh contributors | 5.7 MB | A cross-platform interactive PDF library with offline search |
-| 2026-10-10 07:10:18 | [agentlisp](https://pypi.org/project/agentlisp/) | 2.0.0rc5 | AgentLisp Contributors | 676.7 kB | AgentLisp v2 - Racket-based Agent DSL compiler + Python ReAct Harness runtime +… |
-| 2026-10-10 07:17:57 | [fast-ccsds-parser](https://pypi.org/project/fast-ccsds-parser/) | 0.1.0 | Daiki Ito <daiki.ito@trustyon… | 30.7 kB | Fast, dependency-free parsing of CCSDS Space Packets (CCSDS 133.0-B): primary h… |
-| 2026-10-10 07:18:20 | [pytauargus](https://pypi.org/project/pytauargus/) | 0.1.0 |  | 56.8 MB | Tau-Argus: Statistical Disclosure Control, open-source solvers (HiGHS) + Python… |
-| 2026-10-10 07:19:28 | [uxplain](https://pypi.org/project/uxplain/) | 0.3.0 | Tomas Rodriguez Taborda, Vero… | 108.0 kB | Explainability for conformal prediction uncertainty — regression and classifica… |
+| 2026-10-10 07:19:42 | [fyos-plugin-vorlage](https://pypi.org/project/fyos-plugin-vorlage/) | 0.1.0 | sirfyyn and FYOS CONTRIBUTORS | 45.8 kB | Muster für ein FYOS-Hub-Plugin: Werkzeuge vorlage.*, eine kleine App (ui://), e… |
+| 2026-10-10 07:20:18 | [mediayoink](https://pypi.org/project/mediayoink/) | 0.7.1 | Vokuar | 52.2 kB | Auto-detecting download wrapper for yt-dlp, gallery-dl, and instaloader |
+| 2026-10-10 07:21:14 | [mediayoinker](https://pypi.org/project/mediayoinker/) | 0.4.1 | Vokuar | 17.4 kB | Launcher that installs, updates and runs mediayoink |
+| 2026-10-10 07:21:16 | [fyos-hub](https://pypi.org/project/fyos-hub/) | 0.1.0 | sirfyyn and FYOS CONTRIBUTORS | 649.6 kB | Der MCP-Hub von FYOS - For Your Own Sake: ein Server, viele Plugins, Apps mit O… |
+| 2026-10-10 07:22:48 | [custmatch](https://pypi.org/project/custmatch/) | 0.1.0 | Andrew Goodchild | 282.1 kB | Customer matching: contact profiling, blocking, a forest matcher tuned on clust… |
+| 2026-10-10 07:24:40 | [blynk-provisioning](https://pypi.org/project/blynk-provisioning/) | 0.1.1 | Anthony Elder | 47.9 kB | Unofficial, experimental Blynk.Inject-style BLE provisioning for Linux/Raspberr… |
+| 2026-10-10 07:25:05 | [livekit-plugins-duplexjev](https://pypi.org/project/livekit-plugins-duplexjev/) | 0.1.0 | Jie Jin <jiejin@adventists.ai> | 27.2 kB | Audio end-of-turn detection for LiveKit Agents with DuplexJev: turn state, emot… |
+| 2026-10-10 07:26:46 | [spark-rust-node](https://pypi.org/project/spark-rust-node/) | 0.42.1a1 |  | 49.9 MB | Spark Rust multi-environment alpha distribution |
+| 2026-10-10 07:26:58 | [cleanflow-kit](https://pypi.org/project/cleanflow-kit/) | 1.2.1 | CleanFlow Contributors | 92.8 kB | A comprehensive, modular Python tool for automated data cleaning, EDA, and feat… |
+| 2026-10-10 07:27:07 | [spark-rust-ruby](https://pypi.org/project/spark-rust-ruby/) | 0.42.1a1 |  | 47.7 MB | Spark Rust multi-environment alpha distribution |
+| 2026-10-10 07:27:29 | [spark-rust-runtime-spark](https://pypi.org/project/spark-rust-runtime-spark/) | 0.42.1a1 |  | 72.3 MB | Spark Rust multi-environment alpha distribution |
+| 2026-10-10 07:27:56 | [spark-rust-runtime-spark-connect-server](https://pypi.org/project/spark-rust-runtime-spark-connect-server/) | 0.42.1a1 |  | 70.0 MB | Spark Rust multi-environment alpha distribution |
+| 2026-10-10 07:28:22 | [erp-integral-mcp](https://pypi.org/project/erp-integral-mcp/) | 1.2.0 |  | 30.9 kB | 鼎尖 ERP 业务动作积分统计 MCP：积分项查询、按日/按积分项汇总 |
+| 2026-10-10 07:35:17 | [uspector](https://pypi.org/project/uspector/) | 1.0.0 | Menahem Levinski | 2.4 MB | Python library for TLS configuration and certificate inspection |
+| 2026-10-10 07:35:48 | [skklearn-lab-tools](https://pypi.org/project/skklearn-lab-tools/) | 0.1.0 | Sriram | 18.6 kB | An educational collection of ten Python machine learning and data analysis prog… |
+| 2026-10-10 07:37:29 | [custmatch-server](https://pypi.org/project/custmatch-server/) | 0.1.0 | Andrew Goodchild | 188.7 kB | custmatch as a self-hosted service: scheduled batch runs, real-time matching, a… |
+| 2026-10-10 07:37:55 | [redeflacue](https://pypi.org/project/redeflacue/) | 0.1.0 | Sergey Storchay <r8@r8.com.ua> | 85.5 kB | CUE + FLAC splitter that handles non-44.1 kHz audio |
+| 2026-10-10 07:39:52 | [dockhand-cli](https://pypi.org/project/dockhand-cli/) | 0.4.0 | Nicholas P. Hansen | 2.8 MB | CLI for managing Docker containers on remote machines |
+| 2026-10-10 07:41:39 | [agros](https://pypi.org/project/agros/) | 2026.10.10.dev0 |  | 1.4 kB | Placeholder: Agros multiphysics FEM solver (successor of agrossuite). Not a usa… |
+| 2026-10-10 07:41:43 | [conta](https://pypi.org/project/conta/) | 0.0.1 | Jonas Eschmann <jonas.eschman… | 16.2 kB | Content Addressed Blob Storage |
+| 2026-10-10 07:43:37 | [fyos-installer](https://pypi.org/project/fyos-installer/) | 0.1.0 | sirfyyn and FYOS CONTRIBUTORS | 176.7 kB | Installer der Distribution FYOS (For Your Own Sake): Auswahl, Erklärung mit Bil… |
+| 2026-10-10 07:43:41 | [masker-db](https://pypi.org/project/masker-db/) | 0.1.0 | Zahid Hasan <jahidhasann67@gm… | 200.4 kB | Deterministic, schema-aware database anonymization for sharing production data… |
+| 2026-10-10 07:49:13 | [zerocostai](https://pypi.org/project/zerocostai/) | 1.0.0 | ZeroCostAI Research Labs | 61.9 kB | Python client and CLI for ZeroCostAI.pro — 720+ verified 100% free AI applicati… |
+| 2026-10-10 07:50:24 | [mcp-scrutiny](https://pypi.org/project/mcp-scrutiny/) | 0.1.0 | Ulrich Bryand Tamouffe Teyo | 218.5 kB | Static and semantic security scanner for Model Context Protocol servers |
+| 2026-10-10 07:50:25 | [custom-domain-mcp](https://pypi.org/project/custom-domain-mcp/) | 0.11.0 | Sireto <info@sireto.com> | 20.1 kB | MCP server for the Custom Domain API: let an AI assistant register and check yo… |
+| 2026-10-10 07:58:58 | [aiapi-pro](https://pypi.org/project/aiapi-pro/) | 0.1.1 |  | 9.6 kB | OpenAI-compatible SDK + MCP server for 120+ Chinese frontier AI models (DeepSee… |
+| 2026-10-10 08:01:29 | [fleet-costs-sdk](https://pypi.org/project/fleet-costs-sdk/) | 0.4.0 | Fleet <support@getfleet.dev> | 30.4 kB | Official Python SDK for the Fleet Costs landed-cost / duty / VAT / freight pric… |
+| 2026-10-10 08:08:26 | [odia-panji](https://pypi.org/project/odia-panji/) | 0.1.0 | Srinibash Samal | 87.9 kB | Convert between Gregorian dates and the Odia calendar: Utkalabda, Anka, tithi,… |
+| 2026-10-10 08:14:39 | [comdirect-mcp](https://pypi.org/project/comdirect-mcp/) | 0.4.0 | Michael Adams | 255.1 kB | MCP server and typed Python client for the comdirect banking REST API |
+| 2026-10-10 08:19:48 | [tree-sitter-bloblang](https://pypi.org/project/tree-sitter-bloblang/) | 0.2.1 | Henrik Christensen <henrik@hs… | 37.3 kB | parser for bento bloblang |

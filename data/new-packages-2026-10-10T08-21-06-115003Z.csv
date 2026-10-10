@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T07:19:42Z,fyos-plugin-vorlage,0.1.0,sirfyyn and FYOS CONTRIBUTORS,Apache-2.0,45784,"Muster für ein FYOS-Hub-Plugin: Werkzeuge vorlage.*, eine kleine App (ui://), ein Skill und ein Katalogeintrag"
+2026-10-10T07:20:18Z,mediayoink,0.7.1,Vokuar,MIT,52158,"Auto-detecting download wrapper for yt-dlp, gallery-dl, and instaloader"
+2026-10-10T07:21:14Z,mediayoinker,0.4.1,Vokuar,MIT,17357,"Launcher that installs, updates and runs mediayoink"
+2026-10-10T07:21:16Z,fyos-hub,0.1.0,sirfyyn and FYOS CONTRIBUTORS,Apache-2.0,649641,"Der MCP-Hub von FYOS - For Your Own Sake: ein Server, viele Plugins, Apps mit Oberflaeche."
+2026-10-10T07:22:48Z,custmatch,0.1.0,Andrew Goodchild,Apache-2.0,282063,"Customer matching: contact profiling, blocking, a forest matcher tuned on clusters, households and golden records"
+2026-10-10T07:24:40Z,blynk-provisioning,0.1.1,Anthony Elder,MIT,47911,"Unofficial, experimental Blynk.Inject-style BLE provisioning for Linux/Raspberry Pi - get a device's Blynk credentials by pairing with the Blynk app"
+2026-10-10T07:25:05Z,livekit-plugins-duplexjev,0.1.0,Jie Jin <jiejin@adventists.ai>,BSD-2-Clause,27188,"Audio end-of-turn detection for LiveKit Agents with DuplexJev: turn state, emotion and non-verbal sounds from one request, no transcript needed."
+2026-10-10T07:26:46Z,spark-rust-node,0.42.1a1,,Apache-2.0,49899621,Spark Rust multi-environment alpha distribution
+2026-10-10T07:26:58Z,cleanflow-kit,1.2.1,CleanFlow Contributors,MIT License,92809,"A comprehensive, modular Python tool for automated data cleaning, EDA, and feature engineering."
+2026-10-10T07:27:07Z,spark-rust-ruby,0.42.1a1,,Apache-2.0,47746366,Spark Rust multi-environment alpha distribution
+2026-10-10T07:27:29Z,spark-rust-runtime-spark,0.42.1a1,,Apache-2.0,72333440,Spark Rust multi-environment alpha distribution
+2026-10-10T07:27:56Z,spark-rust-runtime-spark-connect-server,0.42.1a1,,Apache-2.0,69997598,Spark Rust multi-environment alpha distribution
+2026-10-10T07:28:22Z,erp-integral-mcp,1.2.0,,Proprietary,30879,鼎尖 ERP 业务动作积分统计 MCP：积分项查询、按日/按积分项汇总
+2026-10-10T07:35:17Z,uspector,1.0.0,Menahem Levinski,MIT,2443464,Python library for TLS configuration and certificate inspection
+2026-10-10T07:35:48Z,skklearn-lab-tools,0.1.0,Sriram,MIT,18609,An educational collection of ten Python machine learning and data analysis programmes.
+2026-10-10T07:37:29Z,custmatch-server,0.1.0,Andrew Goodchild,Apache-2.0,188665,"custmatch as a self-hosted service: scheduled batch runs, real-time matching, a steward dashboard"
+2026-10-10T07:37:55Z,redeflacue,0.1.0,Sergey Storchay <r8@r8.com.ua>,BSD-3-Clause,85515,CUE + FLAC splitter that handles non-44.1 kHz audio
+2026-10-10T07:39:52Z,dockhand-cli,0.4.0,Nicholas P. Hansen,MIT,2805457,CLI for managing Docker containers on remote machines
+2026-10-10T07:41:39Z,agros,2026.10.10.dev0,,GPL-2.0-or-later,1448,Placeholder: Agros multiphysics FEM solver (successor of agrossuite). Not a usable release yet.
+2026-10-10T07:41:43Z,conta,0.0.1,Jonas Eschmann <jonas.eschmann@gmail.com>,MIT,16158,Content Addressed Blob Storage
+2026-10-10T07:43:37Z,fyos-installer,0.1.0,sirfyyn and FYOS CONTRIBUTORS,Apache-2.0,176726,"Installer der Distribution FYOS (For Your Own Sake): Auswahl, Erklärung mit Bildern, Erzeugung der Auslieferung"
+2026-10-10T07:43:41Z,masker-db,0.1.0,Zahid Hasan <jahidhasann67@gmail.com>,MIT,200419,"Deterministic, schema-aware database anonymization for sharing production data safely."
+2026-10-10T07:49:13Z,zerocostai,1.0.0,ZeroCostAI Research Labs,,61874,Python client and CLI for ZeroCostAI.pro — 720+ verified 100% free AI applications directory
+2026-10-10T07:50:24Z,mcp-scrutiny,0.1.0,Ulrich Bryand Tamouffe Teyo,Apache-2.0,218500,Static and semantic security scanner for Model Context Protocol servers
+2026-10-10T07:50:25Z,custom-domain-mcp,0.11.0,Sireto <info@sireto.com>,Apache-2.0,20077,MCP server for the Custom Domain API: let an AI assistant register and check your customers' hostnames.
+2026-10-10T07:58:58Z,aiapi-pro,0.1.1,,MIT,9634,"OpenAI-compatible SDK + MCP server for 120+ Chinese frontier AI models (DeepSeek, Qwen, GLM, Kimi, Seedance, MiniMax, Hunyuan) via NovAI. Zero platform fee."
+2026-10-10T08:01:29Z,fleet-costs-sdk,0.4.0,Fleet <support@getfleet.dev>,MIT,30423,Official Python SDK for the Fleet Costs landed-cost / duty / VAT / freight pricing API.
+2026-10-10T08:08:26Z,odia-panji,0.1.0,Srinibash Samal,MIT,87856,"Convert between Gregorian dates and the Odia calendar: Utkalabda, Anka, tithi, solar month and Shakabda."
+2026-10-10T08:14:39Z,comdirect-mcp,0.4.0,Michael Adams,MIT,255127,MCP server and typed Python client for the comdirect banking REST API
+2026-10-10T08:19:48Z,tree-sitter-bloblang,0.2.1,Henrik Christensen <henrik@hsctech.eu>,MIT,37276,parser for bento bloblang
