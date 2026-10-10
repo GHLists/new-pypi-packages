@@ -8,40 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 05:18 UTC
+## Latest list — 2026-10-10 06:18 UTC
 
-New packages created between 2026-10-10 04:18 UTC and 2026-10-10 05:18 UTC.
+New packages created between 2026-10-10 05:18 UTC and 2026-10-10 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-10T05-18-32-602235Z.csv)
+[Full CSV](data/new-packages-2026-10-10T06-18-37-223442Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-10 03:26:03 | [maop-orchestrator](https://pypi.org/project/maop-orchestrator/) | 5.3.0 |  | 4.2 MB | MAOP - Multi-Agent Orchestration Framework (Python-first, Plan-Execute-Verify) |
-| 2026-10-10 04:19:28 | [vectorch-sllm](https://pypi.org/project/vectorch-sllm/) | 0.0.0 | Michael Mi <guocuimi2@gmail.c… | 2.0 kB | sllm: a high-performance LLM inference engine (placeholder; first release comin… |
-| 2026-10-10 04:21:33 | [oquay](https://pypi.org/project/oquay/) | 0.1.0 | quay contributors | 190.8 kB | Local-first streaming event ledger and terminal cockpit for one workspace. |
-| 2026-10-10 04:22:11 | [cogbox_api_client](https://pypi.org/project/cogbox_api_client/) | 0.190.1 | Cogbox Platforms Inc. | 555.8 kB | Cogbox |
-| 2026-10-10 04:22:11 | [cogbox_toolbox_api_client_async](https://pypi.org/project/cogbox_toolbox_api_client_async/) | 0.190.1 | OpenAPI Generator Community | 291.6 kB | Cogbox Toolbox API |
-| 2026-10-10 04:22:26 | [cogbox_toolbox_api_client](https://pypi.org/project/cogbox_toolbox_api_client/) | 0.190.1 | OpenAPI Generator Community | 299.9 kB | Cogbox Toolbox API |
-| 2026-10-10 04:22:52 | [vectorch-iops](https://pypi.org/project/vectorch-iops/) | 0.0.0 | Michael Mi <guocuimi2@gmail.c… | 2.0 kB | iops: CUDA kernels for LLM inference by vectorch (placeholder; first release co… |
-| 2026-10-10 04:22:54 | [vectorch-aops](https://pypi.org/project/vectorch-aops/) | 0.0.0 | Michael Mi <guocuimi2@gmail.c… | 2.0 kB | aops: kernel operators for LLM inference by vectorch (placeholder; first releas… |
-| 2026-10-10 04:23:45 | [agapao](https://pypi.org/project/agapao/) | 0.0.1 |  | 2.5 kB | Reserved for the Agapao project (https://agapao.network); the Python client wil… |
-| 2026-10-10 04:24:48 | [ErisPulse-Reminder](https://pypi.org/project/ErisPulse-Reminder/) | 0.1.0 | wsu2059q | 27.8 kB | 提醒模块：/提醒 <时长> <内容> 定时提醒，重启自动恢复 |
-| 2026-10-10 04:27:24 | [intentseal-core](https://pypi.org/project/intentseal-core/) | 0.1.0 | Sankalp Wanjari <sankalpwanja… | 173.4 kB | IntentSeal Core Engine: prompt-injection firewall and action guard for LLM agen… |
-| 2026-10-10 04:27:48 | [intentseal](https://pypi.org/project/intentseal/) | 0.1.0 | Sankalp Wanjari <sankalpwanja… | 30.1 kB | IntentSeal: a prompt-injection firewall for AI agents. Inspect what your agent… |
-| 2026-10-10 04:30:53 | [strands-you](https://pypi.org/project/strands-you/) | 0.1.0 | "You.com" <oss@you.com> | 122.0 kB | You.com MCP servers and skills for Strands Agents |
-| 2026-10-10 04:35:17 | [mdgl](https://pypi.org/project/mdgl/) | 0.2.0 |  | 16.3 kB | MarkdownGL 0.0.1 subset checker (input/line/actor/action limits and scene heade… |
-| 2026-10-10 04:39:39 | [asrfront](https://pypi.org/project/asrfront/) | 0.1.0 | sjjeong94 | 1.9 MB | Super-fast, dependency-free C frontends (log-mel, kaldi fbank) for Whisper and… |
-| 2026-10-10 04:40:54 | [ErisPulse-ShadowOps](https://pypi.org/project/ErisPulse-ShadowOps/) | 0.1.0 | wsu2059q | 27.1 kB | 影子灰度管理模块：启动/对比/转正/放弃影子模块，附归属权审计 |
-| 2026-10-10 04:45:15 | [rulestamp-pg14-upgrade-blocker-lint](https://pypi.org/project/rulestamp-pg14-upgrade-blocker-lint/) | 1.0.1 | Rulestamp <support@getreadyst… | 33.9 kB | PostgreSQL upgrade 14 → 17: finds the SQL and config lines that PostgreSQL 15,… |
-| 2026-10-10 04:45:23 | [rulestamp-coppa-notice-lint-2026](https://pypi.org/project/rulestamp-coppa-notice-lint-2026/) | 1.0.7 | Rulestamp <support@getreadyst… | 37.1 kB | 18 clauses of the amended COPPA Rule, checked against the notice in your repo (… |
-| 2026-10-10 04:45:38 | [rulestamp-data-act-switching-lint](https://pypi.org/project/rulestamp-data-act-switching-lint/) | 1.0.7 | Rulestamp <support@getreadyst… | 35.4 kB | Reads your cloud contract text and names every clause Chapter VI no longer allo… |
-| 2026-10-10 04:45:46 | [rulestamp-dsa-terms-lint](https://pypi.org/project/rulestamp-dsa-terms-lint/) | 1.0.6 | Rulestamp <support@getreadyst… | 36.1 kB | Reads your terms-of-service markdown and names every DSA duty it is missing, by… |
-| 2026-10-10 04:47:19 | [ErisPulse-GovReport](https://pypi.org/project/ErisPulse-GovReport/) | 0.1.0 | wsu2059q | 37.5 kB | 治理观测模块：采集命令执行与事件拦截记录，输出统计报表与配额消耗 |
-| 2026-10-10 04:50:23 | [jukto](https://pypi.org/project/jukto/) | 0.1.0a1 | Mehedi H Faysal <mahdibuilds.… | 262.3 kB | Sync and async Python SDK for Bangladesh SMS and courier APIs, with experimenta… |
-| 2026-10-10 04:52:36 | [shassle](https://pypi.org/project/shassle/) | 0.1.0 | Lukas Plank | 2.1 kB | Add your description here |
-| 2026-10-10 04:53:57 | [altar-alphagenome](https://pypi.org/project/altar-alphagenome/) | 0.2.0 | Riya Sinha | 33.0 kB | AlphaGenome hosted-API model binding for inline Altar variant scoring |
-| 2026-10-10 04:54:00 | [altar-legnet](https://pypi.org/project/altar-legnet/) | 0.2.0 | Riya Sinha | 17.5 kB | LegNet model binding for large-scale Altar MPRA variant scoring |
-| 2026-10-10 04:54:28 | [aiodahua](https://pypi.org/project/aiodahua/) | 0.5.0 | Brian Egge <brianegge@gmail.c… | 206.1 kB | Async client for Dahua and white-label (Amcrest, Lorex, EmpireTech) IP cameras… |
-| 2026-10-10 05:00:34 | [shopee-skynet-spm-di-local](https://pypi.org/project/shopee-skynet-spm-di-local/) | 0.0.0 | sc | 2.5 kB | A small example package |
-| 2026-10-10 05:11:49 | [yotown-gym](https://pypi.org/project/yotown-gym/) | 0.2.3 | "Yo.Town 3D" <help@yotown.com> | 55.8 kB | Robots as code: every printed part a CadQuery program, built on shared vendor p… |
-| 2026-10-10 05:13:34 | [gleanyard](https://pypi.org/project/gleanyard/) | 0.0.1 | KausalFlow | 6.6 kB | Collect structured data from recurring web sources into a schema you define. |
+| 2026-10-10 05:21:41 | [carconnectivity-connector-lucid](https://pypi.org/project/carconnectivity-connector-lucid/) | 0.1.8 | Eric Pheterson | 62.3 kB | CarConnectivity connector for Lucid Motors vehicles |
+| 2026-10-10 05:24:35 | [keystone-core](https://pypi.org/project/keystone-core/) | 0.1.0 | Abhiram <ab542v@gmail.com> | 14.8 kB | Signed capability tokens and short-code primitives for Keystone — the Python po… |
+| 2026-10-10 05:24:35 | [pytest-acereports](https://pypi.org/project/pytest-acereports/) | 1.0.1 | Harshad Lambate | 85.7 kB | Ace Reports for pytest: one self-contained HTML report per run with logs, API c… |
+| 2026-10-10 05:28:06 | [spaxcr](https://pypi.org/project/spaxcr/) | 0.1.1 | liuyihhha | 88.0 kB | SpaXCR: a toolkit for spatial single-cell TCR/BCR repertoire analysis |
+| 2026-10-10 05:30:24 | [zeqron-ar-core](https://pypi.org/project/zeqron-ar-core/) | 0.1.0a0 | Zeqron | 3.6 kB | Agent Rail thin Python TOOL_MAP (RFC-AGENT-008) — lab pre-release |
+| 2026-10-10 05:31:13 | [skyros](https://pypi.org/project/skyros/) | 0.0.1 | Gren Research | 10.2 kB | Persistent AI agents that remember. Under active development by Gren Research. |
+| 2026-10-10 05:32:52 | [purestrata](https://pypi.org/project/purestrata/) | 0.2.0 | Daiki Ito | 91.0 kB | Open data layer for manufacturing AI: structure drawings, spec sheets, and fail… |
+| 2026-10-10 05:32:58 | [polyorderbooks-backtest](https://pypi.org/project/polyorderbooks-backtest/) | 0.1.0 | PolyOrderbooks <contact@polyo… | 35.9 kB | Replay-accurate backtesting for Polymarket order-book history via PolyOrderbook… |
+| 2026-10-10 05:34:05 | [languette](https://pypi.org/project/languette/) | 0.0.1 | Mark Brannan | 331.2 kB | Fail-closed guards against risky actions by coding agents, and a doctor that sa… |
+| 2026-10-10 05:34:17 | [easy-socketer](https://pypi.org/project/easy-socketer/) | 0.1.0 | Your Name <you@example.com> | 21.0 kB | A friendly, batteries-included wrapper around Python's socket module. |
+| 2026-10-10 05:37:30 | [python-myanmar-payments](https://pypi.org/project/python-myanmar-payments/) | 4.0.0a1 | Nay Thu Khant <naythukhant644… | 118.6 kB | Python SDK for Myanmar payment gateways: KBZ Pay, Wave Money, AYA Pay, Yoma MMQ… |
+| 2026-10-10 05:37:51 | [nonplanar](https://pypi.org/project/nonplanar/) | 0.1.1 |  | 229.2 kB | Geometry and library interfaces for non-planar robotic 3D printing |
+| 2026-10-10 05:37:56 | [socialrobot](https://pypi.org/project/socialrobot/) | 0.2.0 | Hung-Chun Chang <jonathanchan… | 88.1 kB | Python runtime client for the Social Robot Platform — connect a robot body (NAO… |
+| 2026-10-10 05:38:14 | [cogbox_api_client_async](https://pypi.org/project/cogbox_api_client_async/) | 0.190.1 | Cogbox Platforms Inc. | 559.7 kB | Cogbox |
+| 2026-10-10 05:41:12 | [phone-processing-tools](https://pypi.org/project/phone-processing-tools/) | 0.1.0 |  | 10.6 MB |  |
+| 2026-10-10 05:51:30 | [sarnai](https://pypi.org/project/sarnai/) | 0.1.0 |  | 18.7 kB | Official SarnAI Python package: find agent services on the Agent Discovery Boar… |
+| 2026-10-10 05:52:38 | [vdi-client](https://pypi.org/project/vdi-client/) | 0.1.0 | Thomas Roeblitz <thomas.robli… | 141.2 kB | VDI client - client tools for the virtual data infrastructure |
+| 2026-10-10 05:52:45 | [aito-mcp](https://pypi.org/project/aito-mcp/) | 1.2.0 | "aito.ai" <admin@aito.ai> | 4.4 kB | MCP server for Aito, the predictive database: says when Aito fits and when not |
+| 2026-10-10 05:57:43 | [intelligent-futures](https://pypi.org/project/intelligent-futures/) | 0.1.0 |  | 431.0 kB | Measured, safety-first adaptive scheduling on Python concurrent.futures |
+| 2026-10-10 05:58:20 | [a-token-monitor](https://pypi.org/project/a-token-monitor/) | 1.0.0 | pantlive <clickly@163.com> | 1.2 MB | Monitor Codex, Grok, Kimi, DeepSeek Harness and other code agents |
+| 2026-10-10 05:59:45 | [dhp-protocol](https://pypi.org/project/dhp-protocol/) | 1.1.1 |  | 113.2 kB |  |
+| 2026-10-10 05:59:52 | [QFunnyWidgets](https://pypi.org/project/QFunnyWidgets/) | 1.0.0 |  | 3.7 MB | 35 custom-painted, animated Qt widgets with a sense of humour, for PyQt and PyS… |
+| 2026-10-10 06:00:32 | [personal-agent-protocol](https://pypi.org/project/personal-agent-protocol/) | 0.2.0 | Datalayer <info@datalayer.io> | 4.2 kB |  |
+| 2026-10-10 06:01:39 | [agentaix](https://pypi.org/project/agentaix/) | 0.2.0 | Your Name <you@example.com> | 35.6 kB | AgentAIX - autonomous code synthesis unit (GUI). |
+| 2026-10-10 06:05:21 | [open-voicefilter-lite](https://pypi.org/project/open-voicefilter-lite/) | 0.1.1 | linsan <bin.zaq@foxmail.com> | 15.9 MB | Streaming targeted voice separation (VoiceFilter-Lite reimplementation) — turnk… |
+| 2026-10-10 06:07:11 | [gixo](https://pypi.org/project/gixo/) | 0.0.1 | Griffin McManus | 4.8 kB | Validate Git branch names and commit messages. |
+| 2026-10-10 06:09:28 | [kalesh-pdf-library](https://pypi.org/project/kalesh-pdf-library/) | 2.0.0 | Kalesh contributors | 5.7 MB | A cross-platform interactive PDF library with offline search |
+| 2026-10-10 06:13:12 | [slap-sdk](https://pypi.org/project/slap-sdk/) | 0.1.0 | SLAP Protocol Team <motiramsh… | 10.4 kB | Python client for Semantic Latent-Algebraic Protocol (SLAP) — drop-in replaceme… |

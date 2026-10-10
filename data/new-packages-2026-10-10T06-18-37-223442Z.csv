@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T05:21:41Z,carconnectivity-connector-lucid,0.1.8,Eric Pheterson,MIT,62267,CarConnectivity connector for Lucid Motors vehicles
+2026-10-10T05:24:35Z,keystone-core,0.1.0,Abhiram <ab542v@gmail.com>,Apache-2.0,14770,Signed capability tokens and short-code primitives for Keystone — the Python port of the v1 wire-format spec.
+2026-10-10T05:24:35Z,pytest-acereports,1.0.1,Harshad Lambate,,85747,"Ace Reports for pytest: one self-contained HTML report per run with logs, API calls, screenshots, retries and flaky tests. Zero setup."
+2026-10-10T05:28:06Z,spaxcr,0.1.1,liuyihhha,MIT,88003,SpaXCR: a toolkit for spatial single-cell TCR/BCR repertoire analysis
+2026-10-10T05:30:24Z,zeqron-ar-core,0.1.0a0,Zeqron,Apache-2.0,3634,Agent Rail thin Python TOOL_MAP (RFC-AGENT-008) — lab pre-release
+2026-10-10T05:31:13Z,skyros,0.0.1,Gren Research,Apache-2.0,10174,Persistent AI agents that remember. Under active development by Gren Research.
+2026-10-10T05:32:52Z,purestrata,0.2.0,Daiki Ito,MIT,90954,"Open data layer for manufacturing AI: structure drawings, spec sheets, and failure knowledge into LLM tools and fine-tuning datasets."
+2026-10-10T05:32:58Z,polyorderbooks-backtest,0.1.0,PolyOrderbooks <contact@polyorderbooks.com>,MIT,35930,Replay-accurate backtesting for Polymarket order-book history via PolyOrderbooks.
+2026-10-10T05:34:05Z,languette,0.0.1,Mark Brannan,AGPL-3.0-or-later,331179,"Fail-closed guards against risky actions by coding agents, and a doctor that says whether they are on."
+2026-10-10T05:34:17Z,easy-socketer,0.1.0,Your Name <you@example.com>,"MIT License Copyright (c) 2025 Your Name Permission is hereby granted, free of charge, to any perso…",20983,"A friendly, batteries-included wrapper around Python's socket module."
+2026-10-10T05:37:30Z,python-myanmar-payments,4.0.0a1,Nay Thu Khant <naythukhant644@gmail.com>,MIT,118562,"Python SDK for Myanmar payment gateways: KBZ Pay, Wave Money, AYA Pay, Yoma MMQR and CyberSource. Typed requests and results, exact amounts, sync and async clients."
+2026-10-10T05:37:51Z,nonplanar,0.1.1,,,229204,Geometry and library interfaces for non-planar robotic 3D printing
+2026-10-10T05:37:56Z,socialrobot,0.2.0,Hung-Chun Chang <jonathanchang9@gmail.com>,MIT,88130,"Python runtime client for the Social Robot Platform — connect a robot body (NAO, Pi, any Python process) to a live session and drive it."
+2026-10-10T05:38:14Z,cogbox_api_client_async,0.190.1,Cogbox Platforms Inc.,Apache-2.0,559678,Cogbox
+2026-10-10T05:41:12Z,phone-processing-tools,0.1.0,,GPL-3.0-or-later,10591295,
+2026-10-10T05:51:30Z,sarnai,0.1.0,,MIT,18667,Official SarnAI Python package: find agent services on the Agent Discovery Board and verify agent output.
+2026-10-10T05:52:38Z,vdi-client,0.1.0,Thomas Roeblitz <thomas.roblitz@uib.no>,GPL-2.0-only,141226,VDI client - client tools for the virtual data infrastructure
+2026-10-10T05:52:45Z,aito-mcp,1.2.0,"""aito.ai"" <admin@aito.ai>",MIT,4421,"MCP server for Aito, the predictive database: says when Aito fits and when not"
+2026-10-10T05:57:43Z,intelligent-futures,0.1.0,,MIT,430954,"Measured, safety-first adaptive scheduling on Python concurrent.futures"
+2026-10-10T05:58:20Z,a-token-monitor,1.0.0,pantlive <clickly@163.com>,GPL-3.0-or-later,1195814,"Monitor Codex, Grok, Kimi, DeepSeek Harness and other code agents"
+2026-10-10T05:59:45Z,dhp-protocol,1.1.1,,,113151,
+2026-10-10T05:59:52Z,QFunnyWidgets,1.0.0,,MIT,3724181,"35 custom-painted, animated Qt widgets with a sense of humour, for PyQt and PySide via ManyQt."
+2026-10-10T06:00:32Z,personal-agent-protocol,0.2.0,Datalayer <info@datalayer.io>,"BSD 3-Clause License Copyright (c) 2025, Datalayer All rights reserved. Redistribution and use in s…",4167,
+2026-10-10T06:01:39Z,agentaix,0.2.0,Your Name <you@example.com>,"MIT License Copyright (c) 2025 Your Name Permission is hereby granted, free of charge, to any perso…",35643,AgentAIX - autonomous code synthesis unit (GUI).
+2026-10-10T06:05:21Z,open-voicefilter-lite,0.1.1,linsan <bin.zaq@foxmail.com>,Apache-2.0,15864721,Streaming targeted voice separation (VoiceFilter-Lite reimplementation) — turnkey PCM-in/PCM-out API with bundled ONNX models
+2026-10-10T06:07:11Z,gixo,0.0.1,Griffin McManus,MIT,4817,Validate Git branch names and commit messages.
+2026-10-10T06:09:28Z,kalesh-pdf-library,2.0.0,Kalesh contributors,MIT,5700262,A cross-platform interactive PDF library with offline search
+2026-10-10T06:13:12Z,slap-sdk,0.1.0,SLAP Protocol Team <motiramshinde944@gmail.com>,Apache-2.0,10414,Python client for Semantic Latent-Algebraic Protocol (SLAP) — drop-in replacement for traditional RAG and Pinecone/Chroma
