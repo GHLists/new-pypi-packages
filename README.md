@@ -8,51 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 16:18 UTC
+## Latest list — 2026-10-10 17:18 UTC
 
-New packages created between 2026-10-10 15:18 UTC and 2026-10-10 16:18 UTC.
+New packages created between 2026-10-10 16:18 UTC and 2026-10-10 17:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-10T16-18-35-352472Z.csv)
+[Full CSV](data/new-packages-2026-10-10T17-18-36-842665Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-10 15:21:09 | [sadasend](https://pypi.org/project/sadasend/) | 0.1.0 | SadaSend <support@sadasend.co… | 49.6 kB | The official Python SDK for SadaSend. Transactional email with unbypassable gua… |
-| 2026-10-10 15:21:31 | [libe3py](https://pypi.org/project/libe3py/) | 0.2.3 | Northeastern University | 19.3 kB | Python binding of libe3, the O-RAN E3 interface library |
-| 2026-10-10 15:22:23 | [mat-uitest](https://pypi.org/project/mat-uitest/) | 0.6.0 | vlmpilot | 1.3 MB | MAT — AI 移动端 App UI 自动化测试（引擎与 CLI，开源核心 AGPL-3.0） |
-| 2026-10-10 15:23:11 | [web-posture-check](https://pypi.org/project/web-posture-check/) | 0.2.0 | Mohammad Thabet, Omar Alraas | 88.2 kB | Check a website's security posture from the command line: headers, cookies, COR… |
-| 2026-10-10 15:23:13 | [ardvane](https://pypi.org/project/ardvane/) | 0.2.1 | Abdul Moiz | 241.1 kB | Protects developers from malware that spreads through code: scan, block, fix an… |
-| 2026-10-10 15:23:14 | [myastro](https://pypi.org/project/myastro/) | 0.3.0 |  | 314.5 kB | Personal astronomy data toolkit: fetch, ledger, dedup, coverage, TUI |
-| 2026-10-10 15:33:31 | [isoends](https://pypi.org/project/isoends/) | 1.0.0 | Mustafa Elshani | 432.1 kB | Companion tool for IsoForge: replicate-aware statistics for poly(A) tail length… |
-| 2026-10-10 15:34:29 | [polars-learn](https://pypi.org/project/polars-learn/) | 0.1.0 | Jack | 88.3 kB | Native Polars feature engineering and schema validation for scikit-learn |
-| 2026-10-10 15:36:32 | [s2conv](https://pypi.org/project/s2conv/) | 0.1.0 | Jason D. McEwen, Contributors | 1.0 MB | Differentiable and accelerated spherical convolutions with JAX |
-| 2026-10-10 15:37:22 | [nosleep-py](https://pypi.org/project/nosleep-py/) | 0.1.0 | Aditya Sharma <adityasharma@e… | 7.5 kB | Zero-overhead native Windows sleep and screen lock prevention utility and libra… |
-| 2026-10-10 15:39:17 | [dz-format](https://pypi.org/project/dz-format/) | 0.1.0 | Sysserv <me@sysserv.eu.org> | 21.0 kB | Validate and parse Algerian formats: phone numbers, CCP, RIP and RIB keys, plat… |
-| 2026-10-10 15:39:19 | [syscli-algeria](https://pypi.org/project/syscli-algeria/) | 0.1.0 | Sysserv <me@sysserv.eu.org> | 78.7 kB | Algeria's 69 wilayas and 1541 communes from the Journal officiel, with search i… |
-| 2026-10-10 15:40:40 | [vramcalc](https://pypi.org/project/vramcalc/) | 0.1.1 |  | 161.5 kB | Predict GPU VRAM usage of Llama-family models from config.json and check whethe… |
-| 2026-10-10 15:40:44 | [x509kit](https://pypi.org/project/x509kit/) | 0.3.2 | ArtProsto <artemkamirn@mail.r… | 180.1 kB | Pure-Python X.509 / PKCS#10 / CRL / OCSP / PKCS#12 toolkit — stdlib only |
-| 2026-10-10 15:41:32 | [isotracks](https://pypi.org/project/isotracks/) | 1.0.0 | Mustafa Elshani | 291.9 kB | Isoform, read, poly(A), RNA modification and gene fusion figures from IsoForge… |
-| 2026-10-10 15:42:50 | [enge](https://pypi.org/project/enge/) | 0.2.0 | Tom Ritchford <tom@swirly.com> | 1.0 MB | 🚂 an audio synthesizer engine in Python and Rust 🚂 |
-| 2026-10-10 15:45:33 | [smart-ai-file-organizer](https://pypi.org/project/smart-ai-file-organizer/) | 0.2.0 | Sara Wagh | 150.6 kB | AI-assisted file organizer with classification, duplicate detection, semantic s… |
-| 2026-10-10 15:46:04 | [turkish-rag-eval](https://pypi.org/project/turkish-rag-eval/) | 0.2.0 | Rızgar Ozan | 174.0 kB | Measure which parts of a Turkish RAG pipeline pay off: chunking, stemming, embe… |
-| 2026-10-10 15:46:10 | [asciify-video](https://pypi.org/project/asciify-video/) | 0.1.0 | Mark Bools | 124.2 kB | Convert green-screen video into ASCII-art video |
-| 2026-10-10 15:48:02 | [zhongyitang](https://pypi.org/project/zhongyitang/) | 0.1.6 | cycleuser <cycleuser@cycleuse… | 632.4 kB | 忠义堂 — one-command local LLM forge: mirror setup, halogen/Strata install, ModelS… |
-| 2026-10-10 15:48:40 | [isoforge](https://pypi.org/project/isoforge/) | 1.0.0 | Mustafa Elshani | 8.8 MB | IsoForge is a hypergraph-based tool for long-read RNA-seq: it keeps every read… |
-| 2026-10-10 15:50:39 | [workproof](https://pypi.org/project/workproof/) | 0.1.0 | workproof contributors | 24.4 kB | Proof-of-work monitoring for scheduled and AI agents: catches agents that are d… |
-| 2026-10-10 15:52:11 | [kloggy](https://pypi.org/project/kloggy/) | 0.0.20261010 | "Dima Gerasimov (@karlicoss)"… | 45.1 kB | Logging helper: nice zero-config output for libraries, without fighting the app… |
-| 2026-10-10 15:52:13 | [ximg-lib](https://pypi.org/project/ximg-lib/) | 0.1.0 | "7 Develoment, Ismail Yusuf"… | 12.5 kB | A 100% pure Python multi-format disk and file system image builder and extracto… |
-| 2026-10-10 15:54:09 | [a3driverdoctor](https://pypi.org/project/a3driverdoctor/) | 0.2.0 |  | 55.3 kB | Apple III SOS device driver doctor |
-| 2026-10-10 15:56:57 | [haversinegeo](https://pypi.org/project/haversinegeo/) | 0.1.0 | Dickson Mbeya | 5.7 kB | A package for calculating distance between two places using haversine formula |
-| 2026-10-10 15:58:47 | [claudetan](https://pypi.org/project/claudetan/) | 1.0.0 | Stoupy51 | 36.5 kB | Voice-driven Claude Code assistant with an anime avatar overlay |
-| 2026-10-10 16:00:39 | [55tech](https://pypi.org/project/55tech/) | 0.1.0 | brandon-betdex | 52.7 kB | Python client for the 55Tech REST and WebSocket APIs |
-| 2026-10-10 16:01:28 | [chassisdb](https://pypi.org/project/chassisdb/) | 0.7.0 | Chassis Contributors | 1.6 MB | Python bindings for Chassis, an embedded vector index for local semantic search |
-| 2026-10-10 16:01:52 | [cld-reducer](https://pypi.org/project/cld-reducer/) | 0.2.0 | John Ennis | 47.0 kB | Reduce compact letter displays while preserving pairwise statistical relationsh… |
-| 2026-10-10 16:01:53 | [lexgrep](https://pypi.org/project/lexgrep/) | 0.3.0 |  | 27.2 kB |  |
-| 2026-10-10 16:04:44 | [moment-cli](https://pypi.org/project/moment-cli/) | 2.6.0 |  | 263.6 kB | Moment research agent CLI |
-| 2026-10-10 16:05:12 | [logsetu](https://pypi.org/project/logsetu/) | 0.3.0 | Raj Verma | 42.5 kB | LogSetu SDK for Python — Django, DRF, Flask and FastAPI: ship logging records a… |
-| 2026-10-10 16:06:15 | [myg](https://pypi.org/project/myg/) | 0.1.1 | Abhi Avadhani | 43.4 kB | myg — your guy for agent apps. Scaffold a full CopilotKit + LangGraph agent app… |
-| 2026-10-10 16:07:37 | [haversinegeo_mh](https://pypi.org/project/haversinegeo_mh/) | 0.1.0 | Mike Hamuza | 5.7 kB | A package for calculating distance between two places using haversine formula |
-| 2026-10-10 16:09:19 | [bwsgi](https://pypi.org/project/bwsgi/) | 0.1.0 | Baraa Ahmed <baraa.runtime@gm… | 24.4 kB | Ultra-lightweight, zero-dependency Python WSGI framework |
-| 2026-10-10 16:09:19 | [haversigeo](https://pypi.org/project/haversigeo/) | 0.1.0 | james blessings | 5.6 kB | A package for calculating distance between two places using haversine formula |
-| 2026-10-10 16:11:46 | [loopgrid-claude-agent](https://pypi.org/project/loopgrid-claude-agent/) | 0.1.0 | LoopGrid contributors | 62.9 kB | Signed decision, policy, approval and tool-action evidence for Claude Agent SDK |
-| 2026-10-10 16:12:25 | [foch](https://pypi.org/project/foch/) | 0.0.1 |  | 26.6 MB | EU4 mod analysis and merge tool: the foch command-line program and language ser… |
-| 2026-10-10 16:17:39 | [styledbots](https://pypi.org/project/styledbots/) | 1.0.0 | StyledBots Team | 34.0 kB | Modern, clean Telegram Bot library - Better than Telebot. Perfect for Pydroid 3 |
+| 2026-10-10 16:20:59 | [satypy](https://pypi.org/project/satypy/) | 0.0.1 | Frank Vega | 58.1 kB | Solve the Boolean Satisfiability (SAT) problem using a DIMACS file as input. |
+| 2026-10-10 16:25:50 | [ftgate](https://pypi.org/project/ftgate/) | 0.1.1 | Vitalii Bogachev | 68.5 kB | Regression checks for small fine-tuned models on tool calling: do runtimes send… |
+| 2026-10-10 16:28:39 | [mayi](https://pypi.org/project/mayi/) | 0.0.0 | Bhargava Pichikala | 188.1 kB | Argument-level authority for AI agent tool calls: a gateway that decides who co… |
+| 2026-10-10 16:30:59 | [looker-cst](https://pypi.org/project/looker-cst/) | 0.1.0 |  | 1.5 MB | Lossless LookML parser: read, modify and rewrite LookML with its formatting int… |
+| 2026-10-10 16:31:49 | [dbt-cst](https://pypi.org/project/dbt-cst/) | 0.2.0 |  | 1.7 MB | Lossless dbt model parser: read, modify and rewrite Jinja templated SQL with it… |
+| 2026-10-10 16:33:56 | [nomosdb](https://pypi.org/project/nomosdb/) | 0.16.0 | DingBo | 98.9 kB | Python driver for NomosDB, the graph database: Bolt, transactions, cluster rout… |
+| 2026-10-10 16:34:23 | [sargent](https://pypi.org/project/sargent/) | 0.1 | Damdae Park | 31.7 MB | Integrated process systems engineering platform: simulation, heat integration,… |
+| 2026-10-10 16:37:43 | [intapp-rest-client](https://pypi.org/project/intapp-rest-client/) | 1.0.14 | Intapp Data Tools Team <suppo… | 138.4 kB | HTTPX-based REST client with multi-auth support |
+| 2026-10-10 16:38:36 | [yaffle](https://pypi.org/project/yaffle/) | 0.0.1 | Noah | 143.1 kB | Runtime for Python code generated by the yaffle compiler |
+| 2026-10-10 16:39:04 | [pypi-sdk-space](https://pypi.org/project/pypi-sdk-space/) | 0.1.0 | thanabartbb | 27.6 kB | CLI and automation for pypi-sdk.space — build, publish, monitor, and Slack upda… |
+| 2026-10-10 16:39:08 | [p1-example](https://pypi.org/project/p1-example/) | 0.1.0 |  | 3.6 kB | A Python utility package |
+| 2026-10-10 16:39:16 | [rulesmith](https://pypi.org/project/rulesmith/) | 0.1.0 | rulesmith contributors | 729.5 kB | Search for rule programs that ask a small judge for typed decisions, with DSPy… |
+| 2026-10-10 16:39:16 | [whg](https://pypi.org/project/whg/) | 1.0.1 |  | 7.2 kB | WHG Python Code Helper Toolkit |
+| 2026-10-10 16:41:45 | [idict-schema](https://pypi.org/project/idict-schema/) | 1.0.0 | Slawomir Hadas | 52.3 kB | Extended defaultdict with declared structure and validation rules |
+| 2026-10-10 16:44:15 | [webpthumb](https://pypi.org/project/webpthumb/) | 0.1.0 |  | 41.5 kB | WebP thumbnails for images and PDFs, from the CLI, HTTP, or a folder watcher |
+| 2026-10-10 16:47:17 | [anatcl](https://pypi.org/project/anatcl/) | 0.0.3 | Carlo Alberto Barbano | 14.1 kB | AnatCL |
+| 2026-10-10 16:49:05 | [cloverhub](https://pypi.org/project/cloverhub/) | 0.1.0 | Project Clover <unsojo@gmail.… | 28.1 kB | Load open datasets from Project Clover (projectclover.org) with one line of Pyt… |
+| 2026-10-10 16:49:28 | [projectclover](https://pypi.org/project/projectclover/) | 0.1.0 | Project Clover <unsojo@gmail.… | 5.7 kB | Project Clover's Python tools. Installs cloverhub, for loading datasets from pr… |
+| 2026-10-10 16:50:06 | [brasilkit](https://pypi.org/project/brasilkit/) | 0.1.0 | André Luiz de Souza | 10.3 kB | Biblioteca Python com utilidades para dados brasileiros |
+| 2026-10-10 16:50:33 | [umber](https://pypi.org/project/umber/) | 0.0.1 |  | 914.8 kB | A plotting library for Python, written in Rust. |
+| 2026-10-10 16:51:05 | [assistanteval](https://pypi.org/project/assistanteval/) | 0.1.0 | ORO AI | 640.3 kB | A verifiable benchmark for personal AI assistants |
+| 2026-10-10 16:51:14 | [snfy](https://pypi.org/project/snfy/) | 0.1.2 | Naitik <sanjeevshrivastava898… | 3.4 kB | Alias for sonify1026 - `pip install snfy` is the same as `pip install sonify102… |
+| 2026-10-10 16:52:53 | [ai-chip-integrity](https://pypi.org/project/ai-chip-integrity/) | 0.4.0 | Yasha Khandelwal <yasha.khand… | 145.3 kB | Open, vendor-neutral tests for silent computation errors in AI chips, with ever… |
+| 2026-10-10 17:01:11 | [ekbasis](https://pypi.org/project/ekbasis/) | 0.1.9 | Caio Vicentino | 370.7 kB | Ekbasis client: what happens if I do this? Typed, calibrated consequence predic… |
+| 2026-10-10 17:01:20 | [jax-graft](https://pypi.org/project/jax-graft/) | 0.0.0 |  | 1.2 kB | Placeholder: run JAX on Apple GPUs through Metal (not yet released) |
+| 2026-10-10 17:01:53 | [docodin](https://pypi.org/project/docodin/) | 1.0.0b1 | Vikrant Rathore, Ronak Rathor… | 12.1 MB | Fast reStructuredText parser written in Odin: a drop-in parser for docutils and… |
+| 2026-10-10 17:02:21 | [probative](https://pypi.org/project/probative/) | 0.1.1 | Ved Muthal <muthal.ved@gmail.… | 1.1 MB | Evidence-grounded product discovery: every claim cites its source or is labelle… |
+| 2026-10-10 17:10:10 | [evalrouter-sdk](https://pypi.org/project/evalrouter-sdk/) | 0.4.4a1 |  | 398.2 kB | The EvalRouter Python SDK: typed client, agent evaluations and trace capture |
+| 2026-10-10 17:15:20 | [blend-converter](https://pypi.org/project/blend-converter/) | 0.0.1 | unwave | 616.6 kB | Blender's data conversion |
+| 2026-10-10 17:15:41 | [qualien-pulse-worker](https://pypi.org/project/qualien-pulse-worker/) | 0.1.0 | qualien | 224.8 kB | Pulse — AI mobile-test worker for qualien.ai. Runs on the user's own machine (b… |
+| 2026-10-10 17:16:15 | [linkkeep](https://pypi.org/project/linkkeep/) | 0.1.0 | Zahid Hasan <jahidhasann67@gm… | 350.9 kB | Crawl a website, find broken links and redirect problems, and keep a history of… |
