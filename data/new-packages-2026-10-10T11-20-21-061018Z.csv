@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T09:45:48Z,agent-firewall1,0.1.0,Bipin583,MIT,91908,A runtime security and governance layer that evaluates AI-agent tool requests before they execute.
+2026-10-10T10:20:21Z,langfuse-trace-mcp,0.1.0.post1,,MIT,124301,Read-only stdio MCP server for Langfuse traces
+2026-10-10T10:25:02Z,spooly,0.0.1,Oddloaf <hello@oddloaf.dev>,MIT,4446,"Swipe through your own photos and videos, self-hosted. Coming soon."
+2026-10-10T10:28:28Z,dinorefurb-dosbox-session,0.2.0,kibertoad,MIT,73952,"Owned DOSBox-X debugger sessions for clean-room restoration research: process, run lock, drives, records, observation and guarded writes."
+2026-10-10T10:31:11Z,cyberonto,0.1.0,cyberonto contributors,Apache-2.0,32269,"A small, dependency-free toolkit for security data: IOC extraction/classification/defanging and an offline model of the open security frameworks (ATT&CK, D3FEND, kill chain, Diamond, Pyramid of Pain,…"
+2026-10-10T10:31:45Z,perception-system,1.0.1,Lb <3204624858@qq.com>,MIT,450670,跨平台系统感知框架：Windows 64 / Linux 43 模块 · 事件驱动 · 全局单例 · 同步/异步双模 · 低资源占用
+2026-10-10T10:32:00Z,aistorehub,0.1.0,AIStoreHub Team,MIT,21645,"The Official CLI for AIStoreHub - Discover, pull, publish, and configure AI systems and MCP servers."
+2026-10-10T10:37:06Z,systemcard,0.1.0,SystemCard contributors,Apache-2.0,14278187,A terminal system information card powered by Sysal
+2026-10-10T10:38:38Z,crawlora-tiktok,0.1.2,Crawlora,MIT,60184,Typed TikTok client for the Crawlora hosted API
+2026-10-10T10:39:10Z,appflows,1.0.0,Frédéric Laurent <flt@opikanoba.org>,MIT,1379810,Génération de schémas d'architecture SVG (flux applicatifs) depuis des définitions YAML/JSON
+2026-10-10T10:41:25Z,idemgate,0.1.0,,Apache-2.0,65154,Redis-backed idempotency for async FastAPI APIs
+2026-10-10T10:41:38Z,fafnir-store,0.1.0,Alexandre Goumaz <alexandre.k.goumaz@gmail.com>,MIT,65801,"A small CLI that stores administrative documents in a git repo, encrypted end-to-end"
+2026-10-10T10:42:17Z,mailsenpai,1.0.0,MailSenpai,MIT,44785,"Python client for SMTP Senpai by MailSenpai: EU SMTP relay and transactional email API, with a Django email backend and a CrewAI tool."
+2026-10-10T10:43:59Z,boba-pet,1.0.0,Abdul Rahman Azam,MIT,333463,"Boba: an always-on-top desktop pet for Claude Code, Codex, Gemini and Groq on Windows."
+2026-10-10T10:44:14Z,waybea-logic-schema,0.0.0,Waybea,,2321,Placeholder for the Waybea Logic schema package. The first real release will be 0.1.0.
+2026-10-10T10:44:16Z,waybea-logic,0.0.0,Waybea,,2218,Placeholder for the Waybea Logic runtime package. The first real release will be 0.1.0.
+2026-10-10T10:46:06Z,imagejev,0.1.0,ImageJev Contributors,MIT,50413,Image-native structured decision engine: Image + Decision + Schema -> Structured Decision
+2026-10-10T10:47:12Z,waybea-studio-mcp,0.0.0,Waybea,,2220,Placeholder for Waybea's Studio MCP server. It contains no code yet.
+2026-10-10T10:47:14Z,waybea-studio,0.0.0,Waybea,,2173,Placeholder for Waybea's Studio SDK (game content authoring). It contains no code yet.
+2026-10-10T10:49:47Z,spiralstrip,2.0.1,Gregor Skok <Gregor.Skok@fmf.uni-lj.si>,AGPL-3.0-only,97726,Draw data as colored segments arranged along a spiral using Matplotlib.
+2026-10-10T10:50:13Z,jcli-kernel-client,0.1.1,Datalayer <info@datalayer.io>,"BSD 3-Clause License Copyright (c) 2025, Datalayer All rights reserved. Redistribution and use in s…",118960,
+2026-10-10T10:53:48Z,anki-addons-mcp,0.1.0,Aleksey Yablokov <alex_ya@mailbox.org>,MIT,86881,MCP server providing access to the Anki Addons dataset (HuggingFace Ya-Alex/anki-addons).
+2026-10-10T10:56:16Z,zuntenium,0.1.0,Vnnie-Mun,Apache-2.0,881326,"Enterprise-Grade Hybrid Quantum Computing SDK, Transpiler & Cloud Platform"
+2026-10-10T10:56:32Z,mosox,0.7.1,Chris Arderne <chris@rdrn.me>,MIT,38612204,LP matrix generator for GMPL
+2026-10-10T10:56:53Z,drawspec,0.1.0,nuncaeslupus <imarcos@gmail.com>,MIT,2867075,"Declarative diagram spec to clean, themeable SVG — writable by an LLM with no coordinates."
+2026-10-10T10:57:48Z,earth-tides,1.0.0,"""Machiel S. Bos"" <machiel.bos@teromovigo.com>",EARTH-TIDES SOFTWARE LICENSE AGREEMENT ------------------------------------- Version 1.0 Copyright…,3582163,"Solid Earth tides: Love numbers of a rotating, flattened, anelastic Earth by spectral Galerkin-collocation, and station displacements"
+2026-10-10T11:00:23Z,shopee-skynet-spr-agent-query,0.0.0,sc,BSD License,2572,A small example package
+2026-10-10T11:00:24Z,nonebot-plugin-grok-bot,0.1.1,Yan,MIT,43866,通过 MCP Server 与 Webhook 将聊天接入 Grok Bot
+2026-10-10T11:06:52Z,det-core,0.1.0,det Labs <saurabhr2@gmail.com>,Apache-2.0,87671,"A modular, Python-first data engineering framework by det Labs."
+2026-10-10T11:07:26Z,curator-js,0.0.0,,LicenseRef-Proprietary,2568,"Placeholder for Curator. Install curator-js from your brand's own Curator package index, not from PyPI."
+2026-10-10T11:08:12Z,zwave-qr-fix,0.1.0,Antonio Thiers,MIT,25544,"Repair malformed Z-Wave SmartStart QR codes that Z-Wave JS rejects (ZW1406), e.g. on Heatit Z-TRM6 thermostats."
+2026-10-10T11:08:28Z,sidex-cli,0.2.8,Silitics GmbH <info@silitics.com>,MIT OR Apache-2.0,15277895,The Sidex data modeling and code generation tool.
+2026-10-10T11:08:47Z,tikuu-agent-runner,0.1.0,Utkarsh Tiwari,,14179,SDK that wraps a Tikuu agent invoke handler in a FastAPI /ping + /invoke server
+2026-10-10T11:12:43Z,timeskeleton,0.2.0,,MIT,143377,"The TimeSkeleton document schema, its golden fixtures and a validator"
+2026-10-10T11:12:56Z,pyrit-sqlalchemy2,0.1.0,Microsoft AI Red Team,MIT,2573827,SQLAlchemy 2 compatible version of PyRIT (Python Risk Identification Tool for LLMs)
+2026-10-10T11:13:23Z,jsonobjectify,0.0.0,Sandeep Suryaprasad,,9344,"A lightweight Python library for converting JSON data into Python objects, simplifying access to nested structures through intuitive dot notation."
+2026-10-10T11:13:25Z,pixelart2svg,1.0.0,,MIT,10757,Convert pixel art (PNG) into a pixel-perfect vector SVG
+2026-10-10T11:15:07Z,outfigure,0.1.0,Manik Maurya,MIT,63319,"Python client for the OutFigure API: send learning events and outcomes, read evidence, states and receipts."
+2026-10-10T11:15:50Z,tilie-server,0.1.0,Johannes Hentschel,MIT,117281,The local server of TimeLineEditor: serves the editor and bridges it to timetoalign.
