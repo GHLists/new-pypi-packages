@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T03:26:03Z,maop-orchestrator,5.3.0,,MIT,4166115,"MAOP - Multi-Agent Orchestration Framework (Python-first, Plan-Execute-Verify)"
+2026-10-10T04:19:28Z,vectorch-sllm,0.0.0,Michael Mi <guocuimi2@gmail.com>,Apache-2.0,2048,sllm: a high-performance LLM inference engine (placeholder; first release coming soon)
+2026-10-10T04:21:33Z,oquay,0.1.0,quay contributors,MIT,190840,Local-first streaming event ledger and terminal cockpit for one workspace.
+2026-10-10T04:22:11Z,cogbox_api_client,0.190.1,Cogbox Platforms Inc.,Apache-2.0,555762,Cogbox
+2026-10-10T04:22:11Z,cogbox_toolbox_api_client_async,0.190.1,OpenAPI Generator Community,Apache-2.0,291575,Cogbox Toolbox API
+2026-10-10T04:22:26Z,cogbox_toolbox_api_client,0.190.1,OpenAPI Generator Community,Apache-2.0,299856,Cogbox Toolbox API
+2026-10-10T04:22:52Z,vectorch-iops,0.0.0,Michael Mi <guocuimi2@gmail.com>,Apache-2.0,1986,iops: CUDA kernels for LLM inference by vectorch (placeholder; first release coming soon)
+2026-10-10T04:22:54Z,vectorch-aops,0.0.0,Michael Mi <guocuimi2@gmail.com>,Apache-2.0,1981,aops: kernel operators for LLM inference by vectorch (placeholder; first release coming soon)
+2026-10-10T04:23:45Z,agapao,0.0.1,,MIT OR Apache-2.0,2532,Reserved for the Agapao project (https://agapao.network); the Python client will be published here.
+2026-10-10T04:24:48Z,ErisPulse-Reminder,0.1.0,wsu2059q,MIT,27804,提醒模块：/提醒 <时长> <内容> 定时提醒，重启自动恢复
+2026-10-10T04:27:24Z,intentseal-core,0.1.0,Sankalp Wanjari <sankalpwanjari85@gmail.com>,Apache-2.0,173417,IntentSeal Core Engine: prompt-injection firewall and action guard for LLM agents
+2026-10-10T04:27:48Z,intentseal,0.1.0,Sankalp Wanjari <sankalpwanjari85@gmail.com>,Apache-2.0,30060,"IntentSeal: a prompt-injection firewall for AI agents. Inspect what your agent reads, check what it does."
+2026-10-10T04:30:53Z,strands-you,0.1.0,"""You.com"" <oss@you.com>",MIT,122049,You.com MCP servers and skills for Strands Agents
+2026-10-10T04:35:17Z,mdgl,0.2.0,,MIT OR Apache-2.0,16329,MarkdownGL 0.0.1 subset checker (input/line/actor/action limits and scene header only). Not a conformant implementation.
+2026-10-10T04:39:39Z,asrfront,0.1.0,sjjeong94,MIT,1937918,"Super-fast, dependency-free C frontends (log-mel, kaldi fbank) for Whisper and SenseVoice ASR models"
+2026-10-10T04:40:54Z,ErisPulse-ShadowOps,0.1.0,wsu2059q,MIT,27125,影子灰度管理模块：启动/对比/转正/放弃影子模块，附归属权审计
+2026-10-10T04:45:15Z,rulestamp-pg14-upgrade-blocker-lint,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33859,"PostgreSQL upgrade 14 → 17: finds the SQL and config lines that PostgreSQL 15, 16 and 17 removed, with the fix on each line (bundled Node.js runtime)"
+2026-10-10T04:45:23Z,rulestamp-coppa-notice-lint-2026,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37109,"18 clauses of the amended COPPA Rule, checked against the notice in your repo (bundled Node.js runtime)"
+2026-10-10T04:45:38Z,rulestamp-data-act-switching-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35434,"Reads your cloud contract text and names every clause Chapter VI no longer allows, with the article number and the wording that replaces it (bundled Node.js runtime)"
+2026-10-10T04:45:46Z,rulestamp-dsa-terms-lint,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36147,"Reads your terms-of-service markdown and names every DSA duty it is missing, by article number. (bundled Node.js runtime)"
+2026-10-10T04:47:19Z,ErisPulse-GovReport,0.1.0,wsu2059q,MIT,37538,治理观测模块：采集命令执行与事件拦截记录，输出统计报表与配额消耗
+2026-10-10T04:50:23Z,jukto,0.1.0a1,Mehedi H Faysal <mahdibuilds.hq@gmail.com>,MIT,262312,"Sync and async Python SDK for Bangladesh SMS and courier APIs, with experimental SSLCOMMERZ hosted payments."
+2026-10-10T04:52:36Z,shassle,0.1.0,Lukas Plank,,2139,Add your description here
+2026-10-10T04:53:57Z,altar-alphagenome,0.2.0,Riya Sinha,MIT,32979,AlphaGenome hosted-API model binding for inline Altar variant scoring
+2026-10-10T04:54:00Z,altar-legnet,0.2.0,Riya Sinha,MIT,17519,LegNet model binding for large-scale Altar MPRA variant scoring
+2026-10-10T04:54:28Z,aiodahua,0.5.0,Brian Egge <brianegge@gmail.com>,"MIT License Copyright (c) 2026 Brian Egge Permission is hereby granted, free of charge, to any pers…",206064,"Async client for Dahua and white-label (Amcrest, Lorex, EmpireTech) IP cameras and NVRs"
+2026-10-10T05:00:34Z,shopee-skynet-spm-di-local,0.0.0,sc,BSD License,2542,A small example package
+2026-10-10T05:11:49Z,yotown-gym,0.2.3,"""Yo.Town 3D"" <help@yotown.com>",Apache-2.0,55750,"Robots as code: every printed part a CadQuery program, built on shared vendor parts and interfaces"
+2026-10-10T05:13:34Z,gleanyard,0.0.1,KausalFlow,MIT,6558,Collect structured data from recurring web sources into a schema you define.
