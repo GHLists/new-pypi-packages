@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T19:20:27Z,stalwart-agents,1.0.45,Stalwart Technologies Ltd <crm@stalwart.it>,LicenseRef-Stalwart-Proprietary AND MIT,22089808,"Declare an agent in one file -- its tools, its rules, its users -- check it before it runs, and run it: every turn routed, every tool call checked, a failed run undone."
+2026-10-10T19:31:16Z,csr2-cdn,0.5.0,,MIT,126763,"Client for the CSR2 game and HUB CDNs: assets, databases, metadata, snapshots and HUB resources"
+2026-10-10T19:31:47Z,bianor-databricks-kit,0.0.2,Mate Balogh <matebalogh@ophelia-rnd.dev>,Apache-2.0,19619,Data science toolkit for setting up the Bianor Databricks app environment and supporting the SOM modeling process
+2026-10-10T19:32:14Z,cratedrop,0.1.1,Maurycy Wojtowicz,MIT,448722,Headless CDJ USB builder: analyze audio and write Pioneer-native USB sticks (export.pdb + ANLZ) without Rekordbox
+2026-10-10T19:35:04Z,bewitch,0.1.0,Gavin Fernandes,MIT,107077,A Python port of Charm's Lip Gloss and charmtone. Not affiliated with Charm.
+2026-10-10T19:35:04Z,codex-arena,1.0.0,AAO-SH,MIT,2381948,Install and run the Codex Arena project skill.
+2026-10-10T19:38:57Z,nibbles,0.4.0,Gavin Fernandes,AGPL-3.0-or-later,643346,"Queue YouTube videos and file downloads on your phone, and fetch them with data that would otherwise expire"
+2026-10-10T19:48:59Z,mlbisect,0.1.0,Wissem Fouda,Apache-2.0,62985,Find the changes that caused a noisy ML regression.
+2026-10-10T19:55:02Z,math-toolkit-jala,0.1.0,Diego Alejandro Botina,MIT,19226,"A small, well-structured Python package of mathematical utilities demonstrating professional software architecture practices."
+2026-10-10T19:56:17Z,thirst,0.3.0,Team hello_world,MIT,104165,"Run GPU jobs at the right hour and speed to use less water and CO2, with a measured receipt."
+2026-10-10T19:58:27Z,pystratify,0.10.2,,GPL-3.0-or-later,484980,"Unified modal response for multilayered films, cylinders and spheres, under plane waves, point dipoles and focused beams"
+2026-10-10T19:59:36Z,PyATCLI,2026.10.10,zakgm2,AGPL-3.0-only,540194,"The analysis library, engine and command line behind PyAT: TDT fibre photometry, Oxysoft NIRS, Terranova EFNMR and text-field studies, with provenance records (formerly PhysicsLibrary)"
+2026-10-10T20:04:36Z,vanilla-mcdoc,26.1.2,,,1369066,"Pydantic models for Minecraft's data packs and resource packs, generated from Spyglass's vanilla-mcdoc"
+2026-10-10T20:07:31Z,heptagon7,1.0.0,Muhammad Ali,MIT,72653,Seven coordinates. Every incident. Verified.
+2026-10-10T20:08:56Z,onetrace-console,0.1.0,Shamik Saha,Apache-2.0,1622189,"The onetrace console: every run in one place, read from the reports the verifier and the verbs produced."
+2026-10-10T20:09:32Z,ghostai-connect,0.0.1,GhostAI <support@dymium.io>,MIT,10019,Placeholder for the GhostAI Connect client: explains how to get it and checks that the GhostAI relay is reachable. Contains no client code.
+2026-10-10T20:09:36Z,Worder,0.2,,,13482,
+2026-10-10T20:15:35Z,gagarin,0.1.1,,MIT,29679,Python client for the gagarin API: run jobs from images already in the gagarin registry.
+2026-10-10T20:18:00Z,sift-lint,1.0.0,N0tDeb,MIT,216358,A linter for tabular data files. Finds the problems that survive a successful load.
