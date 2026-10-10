@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T11:22:55Z,nanocct,8.0.1.2,Bernhard Walter <b_walter@arcor.de>,Apache-2.0,261342143,"nanobind (stable ABI) Python bindings for Open CASCADE Technology, 1:1 with the OCCT API"
+2026-10-10T11:28:43Z,x3pio,1.0.0,Thomas Ascher <thomas.ascher@gmx.at>,MIT,2064846,"Read and write ISO 25178-72 x3p surface, profile and point cloud files"
+2026-10-10T11:29:01Z,openwish,0.3.1,,MIT,113390,Need-Driven Development for humans and coding agents
+2026-10-10T11:29:02Z,airlino-api,0.1.0,,,11060,Async HTTP API client for AirLino media players
+2026-10-10T11:30:09Z,warp-charger,0.1.0,Florian Schlittenbauer,MIT,33750,Async client for the local WebSocket/HTTP API of Tinkerforge WARP chargers
+2026-10-10T11:30:22Z,mill-dl,0.1.0,Bohdan Karpenko,"MIT License Copyright (c) 2026 b0gd5n Permission is hereby granted, free of charge, to any person o…",12533,A simple deep learning framework in pure Python.
+2026-10-10T11:31:46Z,archipy-elasticsearch,5.8.0,Hossein Nejati <hosseinnejati14@gmail.com>,Apache-2.0,5961,ArchiPy elasticsearch adapter.
+2026-10-10T11:31:47Z,archipy-kafka,5.8.0,Hossein Nejati <hosseinnejati14@gmail.com>,Apache-2.0,9358,ArchiPy kafka adapter.
+2026-10-10T11:31:48Z,archipy-keycloak,5.8.0,Hossein Nejati <hosseinnejati14@gmail.com>,Apache-2.0,46200,ArchiPy keycloak adapter.
+2026-10-10T11:31:49Z,archipy-minio,5.8.0,Hossein Nejati <hosseinnejati14@gmail.com>,Apache-2.0,11964,ArchiPy minio adapter.
+2026-10-10T11:32:27Z,websemantic,0.2.5,Cyril Voyant,PolyForm-Noncommercial-1.0.0,162475,Software-agnostic semantic layer from intent to qualified simulated data (research prototype)
+2026-10-10T11:33:08Z,mujax,0.1.0,,Apache-2.0,90472,"MuZero for Gymnasium environments, built on JAX and mctx."
+2026-10-10T11:33:19Z,hf2ms,0.3.1,ExcitingMe,MIT,105121,Stream Hugging Face models and datasets to ModelScope with parallel uploads and file-level resume
+2026-10-10T11:34:47Z,ai-models-fuxiv2,1.0,European Centre for Medium-Range Weather Forecasts (ECMWF),Apache License Version 2.0,18424,An ai-models plugin to run Fudan's FuXi-2.1 model
+2026-10-10T11:37:51Z,sqlinclude,0.1.0,lukasburski <lukasbursky@gmail.com>,MIT,25494,Tiny SQL source preprocessor: expand @include directives and @define variables.
+2026-10-10T11:45:19Z,schedule-ng,1.3.1,Adarssh Athithan,MIT,42171,"Job scheduling for humans. A maintained, drop-in successor to schedule."
+2026-10-10T11:50:05Z,clamshack,0.1.1,,,50729,Tool for running CLAMS applications and managing resulting MMIF files
+2026-10-10T11:54:28Z,glacial-seismic-sensitivity-utac,0.1.0,"Römer, Johann",MIT,2927309,"Does the same seasonal ice/snow unloading trigger more earthquakes over time? Pre-registered sensitivity ('early-stage') tests, distribution/dynamics indicators and a viscoelastic lag/detectability m…"
+2026-10-10T11:55:36Z,yach-mail-tool,0.1.1,,,108705,只读查询网易邮箱的 MCP 服务
+2026-10-10T12:00:08Z,devin-devkit-workspace,0.0.0,,,30633,"Monorepo workspace for the devin-devkit product: devkit, skill-catalog."
+2026-10-10T12:00:20Z,packuifw,1.0.0,fa_creepyr,MIT,7449,Tool for packing .uifw firmware from shell folders. For Firmware Authority
+2026-10-10T12:00:46Z,bringyourownagent,0.0.2,ultrathinker <universeissilent42@gmail.com>,Apache-2.0,45852,Early draft reference implementation of BYOA (Bring Your Own Agent): manifest validation and the call gate.
+2026-10-10T12:01:46Z,lrvx-mcp,0.0.1,,MIT,2789,MCP server for the lrvx trading-systems framework. This version reserves the name; the first release is 0.11.0.
+2026-10-10T12:01:48Z,lrvx,0.0.1,,MIT,2697,lrvx trading-systems framework. This version reserves the name; the first release is 0.11.0.
+2026-10-10T12:09:49Z,controlchartspy,0.1.0,Andrew Johnson,GPL-3.0-only,371229,Calculate and visualise statistical process control (SPC) charts and funnel plots
+2026-10-10T12:11:49Z,qcdx,0.1.0,"""Evan R. Reumann"" <evanrileyreumann@gmail.com>",MIT,350134,"Create, build, test, package and release C and C++ projects with CMake and Conan"
+2026-10-10T12:12:16Z,trymockagent,0.1.0,,,6277,Python client for the MockAgent API
+2026-10-10T12:12:21Z,agent-studio-client,0.0.1,,MIT,107871,Agent Studio 运行时 API 的 Python 客户端
+2026-10-10T12:14:39Z,adxadmin,0.1.0rc1,,Apache-2.0,27762,Remote administration client for Agent DX
+2026-10-10T12:15:35Z,adx-sandbox,0.1.0rc1,,Apache-2.0,197202,Python SDK for Agent DX sandboxes with EXECD HTTP and reverse-tunnel transport
