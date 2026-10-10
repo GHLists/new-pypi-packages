@@ -1,25 +1,31 @@
 {
   "list": {
     "count": 22,
-    "from": "2026-10-10T02:18:40.479443Z",
-    "path": "data/new-packages-2026-10-10T03-19-50-935984Z.csv",
-    "to": "2026-10-10T03:19:50.935984Z"
+    "from": "2026-10-10T03:19:50.935984Z",
+    "path": "data/new-packages-2026-10-10T04-18-33-180574Z.csv",
+    "to": "2026-10-10T04:18:33.180574Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-10T00:30:11Z",
       "package": "amesa-api-test",
       "since": "2026-10-10T00:19:43.156678Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-10T00:30:03Z",
       "package": "amesa-inference-test",
       "since": "2026-10-10T00:19:43.156678Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-10T03:26:03Z",
+      "package": "maop-orchestrator",
+      "since": "2026-10-10T03:19:50.935984Z"
     }
   ],
-  "serial": 42045867,
+  "serial": 42047241,
   "source_truncated": false,
-  "window": "2026-10-10T03:19:50.935984Z"
+  "window": "2026-10-10T04:18:33.180574Z"
 }

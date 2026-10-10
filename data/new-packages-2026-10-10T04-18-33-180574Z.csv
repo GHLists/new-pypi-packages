@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T03:27:07Z,dspy-agent-tools,0.1.3,Edward Boswell,MIT,39241,Add your description here
+2026-10-10T03:27:33Z,geatpy-rs,2.7.0,Geatpy Development Team,LGPL-3.0,3394611,The Genetic and Evolutionary Algorithm Toolbox for Python with High-Performance Rust Core
+2026-10-10T03:31:56Z,densk,0.0.0,nynxlabs,MIT,2229,"densk, a notes app over a markdown vault (placeholder, by nynxlabs)"
+2026-10-10T03:31:58Z,clsaut,0.0.0,nynxlabs,MIT,2278,"clsaut, school automation: study sheets, flashcards, practice boards (placeholder, by nynxlabs)"
+2026-10-10T03:32:01Z,nynx,0.0.0,nynxlabs,MIT,2200,"nynx, nezzy & nex (placeholder, by nynxlabs)"
+2026-10-10T03:36:19Z,fundrive-quark,2.0.91,"牛哥 <niuliangtao@qq.com>, farfarfun <farfarfun@qq.com>",MIT,15316,夸克网盘（Quark）云存储 API 封装
+2026-10-10T03:41:10Z,metamem,0.1.0a7,,,39431,MetaMemory Python SDK for authenticated memory storage and retrieval
+2026-10-10T03:41:47Z,aws-iplens,1.0.0,Amir Amiri,,1052801,Local web app for private IPv4 usage visibility & optimization across AWS accounts
+2026-10-10T03:42:34Z,dockx,0.0.1,Dockx Team <hello@dockx.io>,MIT,3153,Dockx AI Agent Harness - Pre-release SDK
+2026-10-10T03:43:05Z,jevdb,0.1.0,,,2772343,Semantic SQL on decision models
+2026-10-10T03:44:27Z,pubextractor,0.1.0,Mikyung Shin <shin.mikyung@gmail.com>,MIT,466184,Data extraction for systematic reviews and meta-analyses
+2026-10-10T03:45:21Z,pdfwords,0.4.0,Quan Dang,Apache-2.0,3938095,"PyMuPDF-compatible text extraction with char/word/line/block bounding boxes, built on PDFium. Apache-2.0, optional Rust core."
+2026-10-10T03:46:31Z,cli-anything-issuebadge,1.0.0,IssueBadge,,63973,"CLI harness for IssueBadge — issue, manage and verify digital certificates and badges via the IssueBadge API"
+2026-10-10T04:01:29Z,download-audio,0.1.0,Sat Naing Tun,MIT,10764,Download and play MP3 pronunciations from Google TTS.
+2026-10-10T04:09:29Z,altar-clinvar,0.2.0,Riya Sinha,MIT,108162,ClinVar germline-classification annotation-source binding for Altar
+2026-10-10T04:09:34Z,altar-popfreq,0.2.0,Riya Sinha,MIT,99346,gnomAD population allele-frequency annotation-source binding for Altar
+2026-10-10T04:11:04Z,enigmata-features,0.0.0a0,"Enigmata, Inc.",,909,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-10T04:11:47Z,tictactoe-policy,1.0.0,Little Godzilla Laboratory,Apache-2.0,46141,Learned policy for Tic-Tac-Toe game with configurable-size boards
+2026-10-10T04:12:06Z,enigmata-platform-client,0.0.0a0,"Enigmata, Inc.",,922,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-10T04:12:07Z,enigmata-sentinel,0.0.0a0,"Enigmata, Inc.",,909,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-10T04:12:09Z,enigmata-sentinel-adapters,0.0.0a0,"Enigmata, Inc.",,922,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-10T04:13:10Z,prashna,0.2.0,,MIT,179606,Live Q&A and quizzes for any session with an audience
