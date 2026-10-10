@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T02:19:54Z,trustlens-ai,1.0.0,Korede Adeyanju,"MIT License Copyright (c) 2026 deyanjukorede Permission is hereby granted, free of charge, to any p…",180144,"Open-source AI data readiness, governance and trust assessment framework"
+2026-10-10T02:27:10Z,sunabako,0.1.0,,Apache-2.0,1042544,Container-native Linux sandboxes with a Rust runtime and an E2B-style Python SDK
+2026-10-10T02:29:44Z,vigilfield,0.1.0,,,695172,Python SDK for the Vigilfield API
+2026-10-10T02:33:49Z,crival,0.2.0,,MIT,763638,"Tight IEEE 1788.1 interval arithmetic over NumPy arrays, on crnumerics' libival (CORE-MATH's correctly rounded functions)"
+2026-10-10T02:37:58Z,pytest-nexus,0.2.4,Resync Consulting Limited,MIT,27235,pytest plugin that sends each run's JUnit XML results to Nexus for Jira.
+2026-10-10T02:39:18Z,pkpdsim,0.1.0,Matthias König <konigmatt@googlemail.com>,MIT,164123,pkpdsim provides the building blocks shared by physiologically based pharmacokinetic and pharmacodynamic (PBPK/PD) models in SBML.
+2026-10-10T02:40:33Z,docassemble-lsp,26.10.0,Jack Adamson,MIT,537514,Docassemble language server with shared core APIs for CLI and editors
+2026-10-10T02:43:05Z,knoblog,0.1.1,Joshua Almeida,MIT,111738,"Plain-English changelogs, feeds and X-ready post text for parameter, gain, threshold, flag and config changes in any git repo."
+2026-10-10T02:43:08Z,repocast,0.1.0,Joshua Almeida,MIT,80852,"Turn any repo's changes into accurate, ready-to-post X posts, and post them safely (OAuth 1.0a, threads, dedup, caps, kill switch)."
+2026-10-10T02:48:15Z,kula,0.3.0,,MIT,35587830,"git, with a map – a local-first git client with a knowledge-graph view, local issues/PRs, notes and an MCP server."
+2026-10-10T02:52:23Z,everydeck,0.0.1,everydeck <hello@everydeck.ai>,MIT,2260,"The backend for every AI-built app. Early placeholder, the real SDK is coming soon."
+2026-10-10T02:53:51Z,sweetai-agent-firewall,0.1.0,SweetAI <tiamatboss@gmail.com>,MIT,11926,"Pre-transaction trust firewall for AI agents: should-i-pay decisions, sybil forensics, liveness SLA (SweetAI x402 / ERC-8004)"
+2026-10-10T02:55:11Z,nc-codewiki,2.0.1,CodeWiki Contributors,MIT,107077152,Transform codebases into comprehensive documentation using AI-powered analysis
+2026-10-10T03:02:13Z,easyvmaf,5.0.0,Gabriel Davila,MIT,183717,"FFmpeg-based VMAF computation with automatic deinterlacing, scaling and sync"
+2026-10-10T03:04:21Z,marl-battlegrounds,1.0.0,Ulixes Tariq Hawili <t.hawili@sms.ed.ac.uk>,Apache-2.0,9350167,The JAX-native Benchmark for Heterogeneous and Competitive Multi-agent Reinforcement Learning.
+2026-10-10T03:09:37Z,purrxy,0.0.0,nynxlabs,MIT,2304,"purrxy, a communication proxy for humans and agents (placeholder, by nynxlabs)"
+2026-10-10T03:10:49Z,fluxgram-sdk,2.0.0,,,32472,Public Python SDK for FluxGram plugins
+2026-10-10T03:12:33Z,spawnpoint-studio,0.1.0,smoky1496,MIT,429138,"Turn a sentence into a juicy, playable Godot 4 game — locally, on a consumer GPU."
+2026-10-10T03:13:09Z,matvu,0.1.0,kYangLi <lyang.1915@gmail.com>,GPL-3.0-or-later,126009,Automatic viewpoint optimization and visualization for materials structures.
+2026-10-10T03:15:22Z,notebookproof,0.2.0,Scott Campbell,MIT,35795,Notebook preflight and DataFrame health checks inside Jupyter.
+2026-10-10T03:15:29Z,tree-sitter-mcp-ng,0.7.1,Wrale LTD <contact@wrale.com>,MIT,348703,MCP Server for Tree-sitter code analysis
+2026-10-10T03:16:46Z,xy-erp-mcp,1.0.0,,,63169,新页 ERP MCP 连接器（Python 实现，API-only，云托管友好）

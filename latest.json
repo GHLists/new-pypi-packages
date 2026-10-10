@@ -1,31 +1,25 @@
 {
   "list": {
-    "count": 19,
-    "from": "2026-10-10T01:18:32.327595Z",
-    "path": "data/new-packages-2026-10-10T02-18-40-479443Z.csv",
-    "to": "2026-10-10T02:18:40.479443Z"
+    "count": 22,
+    "from": "2026-10-10T02:18:40.479443Z",
+    "path": "data/new-packages-2026-10-10T03-19-50-935984Z.csv",
+    "to": "2026-10-10T03:19:50.935984Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-10T00:30:11Z",
       "package": "amesa-api-test",
       "since": "2026-10-10T00:19:43.156678Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-10T00:30:03Z",
       "package": "amesa-inference-test",
       "since": "2026-10-10T00:19:43.156678Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-09T22:38:05Z",
-      "package": "nominal-ibis",
-      "since": "2026-10-09T22:20:21.610413Z"
     }
   ],
-  "serial": 42044860,
+  "serial": 42045867,
   "source_truncated": false,
-  "window": "2026-10-10T02:18:40.479443Z"
+  "window": "2026-10-10T03:19:50.935984Z"
 }

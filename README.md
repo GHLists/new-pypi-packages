@@ -8,30 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 02:18 UTC
+## Latest list — 2026-10-10 03:19 UTC
 
-New packages created between 2026-10-10 01:18 UTC and 2026-10-10 02:18 UTC.
+New packages created between 2026-10-10 02:18 UTC and 2026-10-10 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-10T02-18-40-479443Z.csv)
+[Full CSV](data/new-packages-2026-10-10T03-19-50-935984Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-10 01:21:54 | [ErisPulse-ConnHub](https://pypi.org/project/ErisPulse-ConnHub/) | 0.1.0 | wsu2059q | 37.8 kB | 连接中心模块：查看/广播/关闭框架登记的 WS/SSE 连接，提供 HTTP API、SSE 事件流与实时面板 |
-| 2026-10-10 01:23:27 | [edital](https://pypi.org/project/edital/) | 0.2.0 | octanima-labs <34071457+octan… | 107.5 kB | Transactional and state-full terminal text editor |
-| 2026-10-10 01:23:58 | [keb-consol](https://pypi.org/project/keb-consol/) | 0.1.0 | Khas | 38.1 kB | Python SDK for the consol memory engine: a local vault, a hosted client, and th… |
-| 2026-10-10 01:27:10 | [hvac-crossover](https://pypi.org/project/hvac-crossover/) | 0.1.0 | Doug Larrick <doug@parkercat.… | 53.3 kB | Multi-source HVAC efficiency optimizer and thermodynamic crossover coordinator |
-| 2026-10-10 01:31:08 | [uniclare-client](https://pypi.org/project/uniclare-client/) | 2.0.0 | viraj-sh | 42.5 kB | View data that is hidden on the Uniclare App or Student Portal. |
-| 2026-10-10 01:35:58 | [logseq-mcp-server](https://pypi.org/project/logseq-mcp-server/) | 1.0.0 |  | 6.9 MB | Read-only MCP server for LogSeq graphs: batched Datalog queries, bounded result… |
-| 2026-10-10 01:41:49 | [agent-second-fuse](https://pypi.org/project/agent-second-fuse/) | 0.2.0 |  | 79.5 kB | Independent fail-closed second fuse for AI agents: runtime guard + signed recei… |
-| 2026-10-10 01:47:26 | [pangpang](https://pypi.org/project/pangpang/) | 0.9.0 |  | 421.7 MB | Durable control plane for the agents, models, and computers you already have. |
-| 2026-10-10 01:53:18 | [rslc](https://pypi.org/project/rslc/) | 0.3.0 | EffectiveAI | 34.4 MB | Correctness-by-construction compiler for Rating Specification Language |
-| 2026-10-10 01:54:03 | [tariff-core](https://pypi.org/project/tariff-core/) | 2026.10.1 |  | 109.1 kB | Pure Python electricity, gas and water tariff modelling and evaluation. |
-| 2026-10-10 01:54:05 | [relativities](https://pypi.org/project/relativities/) | 0.1.0 | EffectiveAI | 111.9 kB | Local rating and portfolio analysis for actuaries |
-| 2026-10-10 02:00:48 | [everpage](https://pypi.org/project/everpage/) | 0.1.0 | Everpage contributors | 113.0 kB | Paste a link, get a working 1:1 offline website clone. |
-| 2026-10-10 02:02:06 | [open-industries](https://pypi.org/project/open-industries/) | 0.1.0 | Mapped Assembly | 39.6 kB | Static Open Industries scene exporter for georeferenced 3D Tiles |
-| 2026-10-10 02:07:09 | [forgegrit-cli](https://pypi.org/project/forgegrit-cli/) | 1.0.0 | treyleo16 | 8.0 kB | Command-line client for the ForgeGrit API: log in, register, and chat with ever… |
-| 2026-10-10 02:09:20 | [tool-eval-bench](https://pypi.org/project/tool-eval-bench/) | 2.8.0 | SeraphimSerapis | 1.8 MB | Agentic tool-call benchmark for LLM serving stacks (vLLM, LiteLLM, llama.cpp) |
-| 2026-10-10 02:11:17 | [ali-bailian-mcp](https://pypi.org/project/ali-bailian-mcp/) | 0.5.0 | hoobnn | 96.8 kB | 阿里云百炼图像、语言、语音、定制音色、视频、向量与任务恢复 MCP server |
-| 2026-10-10 02:11:17 | [doubao-speech-mcp](https://pypi.org/project/doubao-speech-mcp/) | 0.4.0 | hoobnn | 212.0 kB | 火山引擎豆包语音全产品 HTTP / WebSocket MCP server |
-| 2026-10-10 02:12:08 | [pipecat-duplexjev](https://pypi.org/project/pipecat-duplexjev/) | 0.1.0 | Jie Jin <jiejin@adventists.ai> | 16.2 kB | Audio end-of-turn detection for Pipecat with DuplexJev: turn state, emotion and… |
-| 2026-10-10 02:12:34 | [volcengine-ark-mcp](https://pypi.org/project/volcengine-ark-mcp/) | 0.6.0 | hoobnn | 74.0 kB | 火山方舟图片、Seedance视频、语言模型、搜索、向量与任务恢复 MCP server |
+| 2026-10-10 02:19:54 | [trustlens-ai](https://pypi.org/project/trustlens-ai/) | 1.0.0 | Korede Adeyanju | 180.1 kB | Open-source AI data readiness, governance and trust assessment framework |
+| 2026-10-10 02:27:10 | [sunabako](https://pypi.org/project/sunabako/) | 0.1.0 |  | 1.0 MB | Container-native Linux sandboxes with a Rust runtime and an E2B-style Python SDK |
+| 2026-10-10 02:29:44 | [vigilfield](https://pypi.org/project/vigilfield/) | 0.1.0 |  | 695.2 kB | Python SDK for the Vigilfield API |
+| 2026-10-10 02:33:49 | [crival](https://pypi.org/project/crival/) | 0.2.0 |  | 763.6 kB | Tight IEEE 1788.1 interval arithmetic over NumPy arrays, on crnumerics' libival… |
+| 2026-10-10 02:37:58 | [pytest-nexus](https://pypi.org/project/pytest-nexus/) | 0.2.4 | Resync Consulting Limited | 27.2 kB | pytest plugin that sends each run's JUnit XML results to Nexus for Jira. |
+| 2026-10-10 02:39:18 | [pkpdsim](https://pypi.org/project/pkpdsim/) | 0.1.0 | Matthias König <konigmatt@goo… | 164.1 kB | pkpdsim provides the building blocks shared by physiologically based pharmacoki… |
+| 2026-10-10 02:40:33 | [docassemble-lsp](https://pypi.org/project/docassemble-lsp/) | 26.10.0 | Jack Adamson | 537.5 kB | Docassemble language server with shared core APIs for CLI and editors |
+| 2026-10-10 02:43:05 | [knoblog](https://pypi.org/project/knoblog/) | 0.1.1 | Joshua Almeida | 111.7 kB | Plain-English changelogs, feeds and X-ready post text for parameter, gain, thre… |
+| 2026-10-10 02:43:08 | [repocast](https://pypi.org/project/repocast/) | 0.1.0 | Joshua Almeida | 80.9 kB | Turn any repo's changes into accurate, ready-to-post X posts, and post them saf… |
+| 2026-10-10 02:48:15 | [kula](https://pypi.org/project/kula/) | 0.3.0 |  | 35.6 MB | git, with a map – a local-first git client with a knowledge-graph view, local i… |
+| 2026-10-10 02:52:23 | [everydeck](https://pypi.org/project/everydeck/) | 0.0.1 | everydeck <hello@everydeck.ai> | 2.3 kB | The backend for every AI-built app. Early placeholder, the real SDK is coming s… |
+| 2026-10-10 02:53:51 | [sweetai-agent-firewall](https://pypi.org/project/sweetai-agent-firewall/) | 0.1.0 | SweetAI <tiamatboss@gmail.com> | 11.9 kB | Pre-transaction trust firewall for AI agents: should-i-pay decisions, sybil for… |
+| 2026-10-10 02:55:11 | [nc-codewiki](https://pypi.org/project/nc-codewiki/) | 2.0.1 | CodeWiki Contributors | 107.1 MB | Transform codebases into comprehensive documentation using AI-powered analysis |
+| 2026-10-10 03:02:13 | [easyvmaf](https://pypi.org/project/easyvmaf/) | 5.0.0 | Gabriel Davila | 183.7 kB | FFmpeg-based VMAF computation with automatic deinterlacing, scaling and sync |
+| 2026-10-10 03:04:21 | [marl-battlegrounds](https://pypi.org/project/marl-battlegrounds/) | 1.0.0 | Ulixes Tariq Hawili <t.hawili… | 9.4 MB | The JAX-native Benchmark for Heterogeneous and Competitive Multi-agent Reinforc… |
+| 2026-10-10 03:09:37 | [purrxy](https://pypi.org/project/purrxy/) | 0.0.0 | nynxlabs | 2.3 kB | purrxy, a communication proxy for humans and agents (placeholder, by nynxlabs) |
+| 2026-10-10 03:10:49 | [fluxgram-sdk](https://pypi.org/project/fluxgram-sdk/) | 2.0.0 |  | 32.5 kB | Public Python SDK for FluxGram plugins |
+| 2026-10-10 03:12:33 | [spawnpoint-studio](https://pypi.org/project/spawnpoint-studio/) | 0.1.0 | smoky1496 | 429.1 kB | Turn a sentence into a juicy, playable Godot 4 game — locally, on a consumer GP… |
+| 2026-10-10 03:13:09 | [matvu](https://pypi.org/project/matvu/) | 0.1.0 | kYangLi <lyang.1915@gmail.com> | 126.0 kB | Automatic viewpoint optimization and visualization for materials structures. |
+| 2026-10-10 03:15:22 | [notebookproof](https://pypi.org/project/notebookproof/) | 0.2.0 | Scott Campbell | 35.8 kB | Notebook preflight and DataFrame health checks inside Jupyter. |
+| 2026-10-10 03:15:29 | [tree-sitter-mcp-ng](https://pypi.org/project/tree-sitter-mcp-ng/) | 0.7.1 | Wrale LTD <contact@wrale.com> | 348.7 kB | MCP Server for Tree-sitter code analysis |
+| 2026-10-10 03:16:46 | [xy-erp-mcp](https://pypi.org/project/xy-erp-mcp/) | 1.0.0 |  | 63.2 kB | 新页 ERP MCP 连接器（Python 实现，API-only，云托管友好） |
