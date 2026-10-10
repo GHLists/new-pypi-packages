@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T13:20:44Z,quanttro,0.1.0,quanttro,MIT,225549,"Python toolkit for backtest robustness, risk/portfolio research, and prop-firm challenge simulation (with built-in BIST market support)"
+2026-10-10T13:22:35Z,mylang-robot-starter,0.3.1a1,,,47304,A brace-style Python language with ESP32-S3 robotics and plotting
+2026-10-10T13:22:38Z,toc-this,0.1.0,Eryz <eryzero@gmail.com>,AGPL-3.0-or-later,45981,"Add a clickable table of contents to PDFs that have none, including scanned ones"
+2026-10-10T13:22:42Z,fastguard,1.0.2,Lokesh Jothiram <lokesh.jothiram.contact@gmail.com>,MIT,23683,"Sub-millisecond, streaming-native PII guardrail & reversible vault for LLMs"
+2026-10-10T13:23:32Z,jupyterlab-r-folding,0.1.0,,MIT,72936,R code folding for JupyterLab 4.6 notebook cells and editors
+2026-10-10T13:26:15Z,feagent,0.0.0,Domenico Gaudioso <domenicogaudioso@outlook.it>,Proprietary,2984,Reserved project name. feagent is commercial structural FEM software by Domenico Gaudioso. Official site: https://domenicogaudioso.github.io/DomenicoGaudioso/feagent/
+2026-10-10T13:31:37Z,rj-rj,0.0.1,"Kummari Rahul, Kummari Jyoshna",,2178,
+2026-10-10T13:31:58Z,astrolol,0.0.1.dev0,Aris Adamantiadis,MIT,3666,"Headless, modular, open-source astronomy platform (placeholder; not released yet)"
+2026-10-10T13:32:17Z,slm-ai-court-verification,0.2.0,Research,MIT,77511,Agentic judicial verification loop (plaintiff -> critic -> librarian -> jury -> judge) for any SLM behind an OpenAI-compatible API
+2026-10-10T13:32:53Z,aiokoito,0.1.0,Ryan,MIT,23630,Asynchronous read-only client for Koito listening statistics
+2026-10-10T13:36:31Z,arch-insight-cli,0.1.0,,,12100,"Command-line client for ARCH-Insight tasks, factsheets, secrets, and developer platform."
+2026-10-10T13:38:52Z,openpyxl2,3.2.0b2,See AUTHORS,MIT,500739,An openpyxl fork with formula-aware row/column edits and merged-cell formatting fixes
+2026-10-10T13:40:33Z,netweir,0.1.0,James Conway,AGPL-3.0-only,80836271,"An ultra-fast, self-healing, undetectable web scraper: Rust does the work, you write Python"
+2026-10-10T13:43:10Z,rehearsal-kit,0.1.0,,MIT,2381189,Rehearse AI agents on a sandboxed copy of your own application before they reach production.
+2026-10-10T13:43:54Z,futureweb-intervals-mcp,1.0.0b1,"Futureweb, Marc Vilanova (original author of intervals-mcp-server)",GPL-3.0-only,1265130,"Advanced Intervals.icu MCP server with Garmin-enriched metrics, full custom streams, recovery insights and endurance performance analysis"
+2026-10-10T13:44:06Z,navig-bookmarks,0.1.0,navig,MIT,121168,"navig bookmarks -- a local bookmark manager: import from any browser or HTML export, full-text search, AI folder plans and tags with your own AI, dead-link checks, duplicate cleanup, and Netscape HTM…"
+2026-10-10T13:44:36Z,gsuite-mcp,0.4.0,Pablo Alaniz <alanizpablo@gmail.com>,MIT,23240,"MCP server for Google Workspace (Gmail, Calendar, Drive, Sheets, Tasks, Contacts), built on gsuite-sdk"
+2026-10-10T13:46:44Z,openprocess,0.7.0,Sam Struthers,MIT,1532686,"Process mining, Petri nets and workflows in one open app: every algorithm visible, every result reproducible, every step teachable"
+2026-10-10T13:48:56Z,jdg-keyforge-protocol,0.16.1,Jonathan Daniel Gomez,Apache-2.0,46240,"Python types for the KeyForge WebSocket protocol, generated from the canonical JSON Schema contracts."
+2026-10-10T13:51:24Z,dev-link-mcp,0.1.0,Amit Kharel,MIT,468740,"Sandboxed, fully logged development environment for one folder that any MCP client, from coding agents to web chats, can use"
+2026-10-10T13:52:20Z,emerge-aura,0.1.0,Robert Fennis,GPL-2.0-or-later,1940264,AURA (Adaptive Unstructured Refinement Algorithm): local tetrahedral mesh refinement for the EMerge FEM solver
+2026-10-10T13:52:57Z,pystac-ext-vcs,0.1.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,25661,PySTAC implementation of the STAC VCS Extension.
+2026-10-10T13:53:49Z,trimscript,0.1.0,,MIT,404635,"Edit video by editing the transcript. Local, free, agent-friendly."
+2026-10-10T13:54:02Z,refix-cli,0.1.0,David Steiner <david@davidsteiner.dev>,MIT OR Apache-2.0,2923081,Command-line tools for ReFIX
+2026-10-10T13:54:37Z,torch-omni-tool,0.1.0,Mateo Rodriguez <mateodrr@gmail.com>,MLTools NON-COMMERCIAL SOURCE-AVAILABLE LICENSE v1.0 Copyright (c) 2026 Mateo Rodriguez DEFINITIONS…,85743,Collection of pytorch tools and blocks
+2026-10-10T13:55:09Z,alienx-labs,1.0.0,Eric Yaka,AGPL-3.0,9374097,"AlienX (Isomorphic Spatial Net): rotation/scale-equivariant neural operators for Darcy flow, Gross-Pitaevskii, and 3D Navier-Stokes, with pretrained weights bundled and a one-call model zoo."
+2026-10-10T13:55:23Z,herald-post,0.1.0,Sigrix,Apache-2.0,174028,"Post one announcement to every channel you choose, after showing exactly what each one will get."
+2026-10-10T13:56:05Z,aida-data,0.1.0,Matteo Ceccarello,,62749,Tools manage and preprocess datasets
+2026-10-10T14:00:04Z,ciglet-rs,0.1.0,,GPL-3.0-or-later,55944087,Native Python bindings for ciglet-rs
+2026-10-10T14:00:10Z,bbo-tap,0.1.0,Vadym O,MIT,36778,"Best bid/ask websockets from Binance, Bybit, OKX, Gate and KuCoin perps, captured verbatim to Redpanda/Kafka"
+2026-10-10T14:00:17Z,liblrhsmm-rs,0.1.0,,GPL-3.0-or-later,44647776,Native Python bindings for liblrhsmm-rs
+2026-10-10T14:00:17Z,shiro-rs,0.1.0,,GPL-3.0-or-later,44841075,Native Python bindings for shiro-rs
+2026-10-10T14:01:22Z,brandrune,0.3.0,Kyle Northup,MIT,3940,"A free Claude Code skill for naming what you build: plain-text names, registry-checked domains. This package points to the install."
+2026-10-10T14:03:02Z,arithmeticbychamod,0.2.0,Chamod Wanigasekara,MIT,5551,A tiny arithmetic library built to learn Python packaging
+2026-10-10T14:03:24Z,vizsync,0.1.0,Efe Dalbay,MIT,1076185,Find where each paragraph of a script starts and ends in a narration recording.
+2026-10-10T14:05:18Z,sapienta,0.1.0,,,5913,Python SDK for Sapienta AI
+2026-10-10T14:10:47Z,hatch-npm-vendor,0.1.0,sudosubin <sudosubin@gmail.com>,MIT,12003,Hatch build hook to vendor npm packages into Python wheels.
+2026-10-10T14:10:52Z,aria-exporter,0.0.1,"KP-AI, Inc.",All rights reserved,3323,Reserved by KP-AI for ARIA. Not for use: ARIA customers get the real library from their own ARIA server.
+2026-10-10T14:10:55Z,aria-ingest,0.0.1,"KP-AI, Inc.",All rights reserved,3285,Reserved by KP-AI for ARIA. Not for use: ARIA customers get the real library from their own ARIA server.
+2026-10-10T14:11:41Z,ada-pip-video-intelligence,0.0.0,STRITZ,Proprietary,751,Name reserved for an internal STRITZ package. Not installable.
+2026-10-10T14:11:42Z,ada-voice,0.0.0,STRITZ,Proprietary,713,Name reserved for an internal STRITZ package. Not installable.
+2026-10-10T14:14:34Z,aiometeogate,0.1.0,Mikko Rauhala <mikko@rauhala.net>,MIT,64759,Asynchronous client for EUMETNET MeteoGate (E-SOH) weather observations over MQTT and EDR
+2026-10-10T14:15:54Z,plyllm,1.0.0,Jakub Rada <radajak5@fel.cvut.cz>,MIT,245038,"One interface to many LLM providers and models: generation, structured output, embeddings, costs, retries and rate limits."
