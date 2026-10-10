@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-10-10T07:19:39.752591Z",
-    "path": "data/new-packages-2026-10-10T08-21-06-115003Z.csv",
-    "to": "2026-10-10T08:21:06.115003Z"
+    "count": 23,
+    "from": "2026-10-10T08:21:06.115003Z",
+    "path": "data/new-packages-2026-10-10T09-19-23-994039Z.csv",
+    "to": "2026-10-10T09:19:23.994039Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-10T07:37:41Z",
       "package": "privacyfence-plugin-sdk",
       "since": "2026-10-10T07:19:39.752591Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-10T04:20:57Z",
-      "package": "svzerod",
-      "since": "2026-10-10T04:18:33.180574Z"
     }
   ],
-  "serial": 42051792,
+  "serial": 42053125,
   "source_truncated": false,
-  "window": "2026-10-10T08:21:06.115003Z"
+  "window": "2026-10-10T09:19:23.994039Z"
 }
