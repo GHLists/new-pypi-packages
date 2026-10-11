@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T03:21:54Z,ElectronAi,0.1.0,"""Harshan Seliyan (HS AI Solutions)"" <harshanseliyan28@gmail.com>",MIT,83185,One CLI. A Complete AI Development Team powered by Ollama.
+2026-10-11T03:24:29Z,chiliarch,0.1.0,Null <pylindex@qq.com>,MIT,1091074,An outbound-only agent orchestration platform with a first-class AI supervisor.
+2026-10-11T03:36:31Z,framesight,0.1.0,Gustavo Belo,MIT,41193,"Linux CLI alternative to Apple's Vision framework: faces, head pose, mouth openness, upper bodies and person masks from video, as JSON. CPU-only, no AVX2 needed."
+2026-10-11T03:41:33Z,failure-pattern-memory,0.1.0,Manoj Kumar,,18918,"Learn from AI agent failures - record patterns, get pre-emptive warnings."
+2026-10-11T03:45:04Z,logalog,1.0.0,Taran Lu,MIT,1624382,Readable and structured logging with Loguru and Rich
+2026-10-11T03:45:40Z,shipwatch,0.1.0,Andy McCutcheon,MIT,97052,"Know what AI companies actually shipped this week: changelogs in, a cited briefing out."
+2026-10-11T03:52:15Z,arraypipe,0.0.1,Tristan Simas <tristan.simas@mail.mcgill.ca>,MIT,4160,Pipelines for arrays: a domain-agnostic dataflow compiler and runtime over arrays with declared axes
+2026-10-11T03:55:46Z,self-learning-agent,0.3.1,Soham-1827,MIT,169296,Turn creator videos into vault notes and human-approved setup actions
+2026-10-11T03:56:22Z,Irene,1.4.0,Mehdi Ghasemi <mehdi.ghasemi@gmail.com>,MIT,320370,"Polynomial optimization via SOS/SONC/SDP hierarchies — modernized rewrite with SymEngine, CVXPY, and structural reductions."
+2026-10-11T03:56:34Z,SKSurrogate,0.1.1,Mehdi Ghasemi,MIT,86711,A python package that implements or wraps a few machine learning tools Scikit-Learn style.
+2026-10-11T03:59:26Z,beelinebench,1.0.0,Kyle Pena,Apache-2.0,4535008,How efficiently do decision models navigate multi-step problems?
+2026-10-11T04:07:46Z,dot-mcp,0.1.0,Ashveil1,MIT,75679,"Personal MCP agent: shell, files, memory, goals, inbox, scheduler, capability URL + self-hosted OAuth"
+2026-10-11T04:09:01Z,ark-audio-agent,0.1.3,Immanuel R,MIT,87347,"Autonomous text-to-music composer driven by a multi-agent ReAct harness (Claude API, with an offline deterministic fallback)."
+2026-10-11T04:10:54Z,hotkv-client,1.0.0,HotKV Ltd <support@hotkv.com>,Apache-2.0,263422,"A high-performance Python client for HotKV, a RESP2/RESP3-compatible in-memory data store with built-in AI and LLM-serving features."
+2026-10-11T04:13:34Z,jincode123-de-toolkit,0.1.0,Jinfeng Shan,,3938,
+2026-10-11T04:13:38Z,lochinvar-modbus,0.1.0,lochinvar-modbus contributors,Unlicense,24956,Read Lochinvar boilers and water heaters with the MODB-I-O Modbus communication board.
+2026-10-11T04:15:38Z,cloakroom,0.1.0,The Cloakroom authors,Apache-2.0,95661,"Local privacy gate for AI coding agents: secrets and PII are masked before the model sees them, restored only for local tools."
+2026-10-11T04:16:06Z,katafm,0.1.0,Loopflow Studio,MIT,14351,Send PDF scores from this machine to a Kata account.
+2026-10-11T04:17:49Z,enigmata-sentinel-stores,0.0.0a0,"Enigmata, Inc.",,921,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-11T04:18:51Z,pd-cipher,0.0.0a0,"Enigmata, Inc.",,909,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-11T04:18:52Z,pd-classifier,0.0.0a0,"Enigmata, Inc.",,909,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-11T04:18:54Z,pd-dataset-manager,0.0.0a0,"Enigmata, Inc.",,917,"Reserved name held by Enigmata, Inc. Not a usable package."

@@ -8,37 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 03:20 UTC
+## Latest list — 2026-10-11 04:20 UTC
 
-New packages created between 2026-10-11 02:18 UTC and 2026-10-11 03:20 UTC.
+New packages created between 2026-10-11 03:20 UTC and 2026-10-11 04:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-11T03-20-08-442654Z.csv)
+[Full CSV](data/new-packages-2026-10-11T04-20-17-479019Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-11 02:20:41 | [cvdb](https://pypi.org/project/cvdb/) | 0.1.0 |  | 381.4 kB | Native JSON Lines validation and compaction command |
-| 2026-10-11 02:27:29 | [beastlink](https://pypi.org/project/beastlink/) | 1.0.0 | VampireDev | 43.1 kB | A self-contained music plugin for Python Discord bots. |
-| 2026-10-11 02:27:37 | [mousebridge-mix](https://pypi.org/project/mousebridge-mix/) | 0.1.0 |  | 48.4 kB | Windows HID movement client for MouseBridge MIX v2 |
-| 2026-10-11 02:30:47 | [latex2code](https://pypi.org/project/latex2code/) | 0.2.1 | Thúlio Brandão | 72.5 kB | A lightweight Python library and CLI tool to transpile LaTeX mathematical expre… |
-| 2026-10-11 02:35:43 | [unibaseio-membase-core](https://pypi.org/project/unibaseio-membase-core/) | 0.3.0 |  | 20.5 MB | The Membase memory engine (compiled). Use it through unibaseio-membase. |
-| 2026-10-11 02:36:09 | [vlmprobe](https://pypi.org/project/vlmprobe/) | 0.9.0 | Gexin Huang, Haisheng Fu, Rui… | 250.9 kB | Lens, attention, and causal probes for language, vision, and vision-language mo… |
-| 2026-10-11 02:36:11 | [unibaseio-membase](https://pypi.org/project/unibaseio-membase/) | 0.3.0 | Unibase | 55.4 kB | Membase SDK: drop-in memory infrastructure for AI agents and apps, hosted or on… |
-| 2026-10-11 02:36:32 | [renomate](https://pypi.org/project/renomate/) | 0.1.0 | tochikoma777 <brother.777.lei… | 165.2 kB | Safe, preview-first batch file renamer with one-click undo (TUI + CLI) |
-| 2026-10-11 02:36:43 | [membase-algo](https://pypi.org/project/membase-algo/) | 0.3.0 | Unibase | 1.0 kB | Use unibaseio-membase-core. |
-| 2026-10-11 02:36:44 | [membase-bench](https://pypi.org/project/membase-bench/) | 0.0.1 | Unibase | 935 B | Use membase-bench: https://github.com/unibaseio/membase-bench |
-| 2026-10-11 02:37:09 | [django-rusty-templates-agentic](https://pypi.org/project/django-rusty-templates-agentic/) | 2026.10.1 | Lily Foote, Jeff Triplett | 102.1 MB | An agentic fork of Django Rusty Templates with a compatible Python API |
-| 2026-10-11 02:39:41 | [openpyxl-enhanced](https://pypi.org/project/openpyxl-enhanced/) | 3.2.0b3 | See AUTHORS | 502.2 kB | An openpyxl fork for Excel xlsx/xlsm files with formula-aware row/column edits… |
-| 2026-10-11 02:40:31 | [ernie-renderer](https://pypi.org/project/ernie-renderer/) | 0.1.0.dev196 | Alex Maietta | 50.3 MB | Efficient Renderer for Natural and Interplanetary Environments: a spectral Vulk… |
-| 2026-10-11 02:45:43 | [telegram-ai-cli-mcp](https://pypi.org/project/telegram-ai-cli-mcp/) | 0.1.1 | Roman T | 915.4 kB | AI-first CLI and MCP server for Telegram user accounts over MTProto, with plan-… |
-| 2026-10-11 02:47:09 | [stack-guardian](https://pypi.org/project/stack-guardian/) | 0.1.0 | LuminariSoftwares | 99.0 kB | A health doctor for a home AI stack: Ollama nodes, GPUs and tailnet, with grade… |
-| 2026-10-11 02:48:09 | [yonga](https://pypi.org/project/yonga/) | 0.5.0 | Özcan Oğuz | 1.9 MB | Linux-first local AI model manager for Intel AI PCs (OpenVINO, Optimum Intel, H… |
-| 2026-10-11 02:49:22 | [mantisfetch](https://pypi.org/project/mantisfetch/) | 1.9.7 | ReadyForAI <opensource@readyf… | 1.1 MB | Open-source data collection and document parsing platform |
-| 2026-10-11 02:49:32 | [wildtunnel](https://pypi.org/project/wildtunnel/) | 0.1.1 | dasbd72 <twbd723@gmail.com> | 139.4 kB | Expose a local service to the internet at a wildcard subdomain, tunneled throug… |
-| 2026-10-11 02:50:42 | [trading-position-risk-mcp](https://pypi.org/project/trading-position-risk-mcp/) | 0.1.0 | Dinesh Ramalingam | 64.3 kB | Deterministic position sizing and pre-trade risk gate for trading agents, serve… |
-| 2026-10-11 02:55:37 | [colabo](https://pypi.org/project/colabo/) | 0.1.0 | Khursani <khursani@revolab.ai> | 102.3 kB | Work locally with Claude Code, run on a Google Colab GPU: two-way sync + SSH vi… |
-| 2026-10-11 02:57:24 | [bing-webmaster-ai-cli-mcp](https://pypi.org/project/bing-webmaster-ai-cli-mcp/) | 0.1.2 |  | 1.0 MB | bing-webmaster-ai-cli-mcp gives an AI agent read access to what Bing knows abou… |
-| 2026-10-11 03:01:10 | [qwuiklib](https://pypi.org/project/qwuiklib/) | 1.0.0 | qwuikky99 <qwuikky99@gmail.co… | 8.9 kB | A lightweight terminal utility library |
-| 2026-10-11 03:04:56 | [cfglens](https://pypi.org/project/cfglens/) | 0.1.0 | Ofelia B Webb | 40.9 kB | Deterministic, secret-safe configuration comparisons with CLI and optional MCP |
-| 2026-10-11 03:05:31 | [nanosandbox-mcp](https://pypi.org/project/nanosandbox-mcp/) | 0.3.0 |  | 4.9 MB | MCP server (stdio) that runs commands in a nanosandbox sandbox |
-| 2026-10-11 03:08:28 | [latris](https://pypi.org/project/latris/) | 0.3.1 | Shannon Bengtson | 1.1 MB | Latris — an AI-assisted, evidence-native causal-modelling workbench (Python CLI… |
-| 2026-10-11 03:17:12 | [tmp-transfer-9x7k2q](https://pypi.org/project/tmp-transfer-9x7k2q/) | 0.0.1 |  | 43.5 MB | x |
+| 2026-10-11 03:21:54 | [ElectronAi](https://pypi.org/project/ElectronAi/) | 0.1.0 | "Harshan Seliyan (HS AI Solut… | 83.2 kB | One CLI. A Complete AI Development Team powered by Ollama. |
+| 2026-10-11 03:24:29 | [chiliarch](https://pypi.org/project/chiliarch/) | 0.1.0 | Null <pylindex@qq.com> | 1.1 MB | An outbound-only agent orchestration platform with a first-class AI supervisor. |
+| 2026-10-11 03:36:31 | [framesight](https://pypi.org/project/framesight/) | 0.1.0 | Gustavo Belo | 41.2 kB | Linux CLI alternative to Apple's Vision framework: faces, head pose, mouth open… |
+| 2026-10-11 03:41:33 | [failure-pattern-memory](https://pypi.org/project/failure-pattern-memory/) | 0.1.0 | Manoj Kumar | 18.9 kB | Learn from AI agent failures - record patterns, get pre-emptive warnings. |
+| 2026-10-11 03:45:04 | [logalog](https://pypi.org/project/logalog/) | 1.0.0 | Taran Lu | 1.6 MB | Readable and structured logging with Loguru and Rich |
+| 2026-10-11 03:45:40 | [shipwatch](https://pypi.org/project/shipwatch/) | 0.1.0 | Andy McCutcheon | 97.1 kB | Know what AI companies actually shipped this week: changelogs in, a cited brief… |
+| 2026-10-11 03:52:15 | [arraypipe](https://pypi.org/project/arraypipe/) | 0.0.1 | Tristan Simas <tristan.simas@… | 4.2 kB | Pipelines for arrays: a domain-agnostic dataflow compiler and runtime over arra… |
+| 2026-10-11 03:55:46 | [self-learning-agent](https://pypi.org/project/self-learning-agent/) | 0.3.1 | Soham-1827 | 169.3 kB | Turn creator videos into vault notes and human-approved setup actions |
+| 2026-10-11 03:56:22 | [Irene](https://pypi.org/project/Irene/) | 1.4.0 | Mehdi Ghasemi <mehdi.ghasemi@… | 320.4 kB | Polynomial optimization via SOS/SONC/SDP hierarchies — modernized rewrite with… |
+| 2026-10-11 03:56:34 | [SKSurrogate](https://pypi.org/project/SKSurrogate/) | 0.1.1 | Mehdi Ghasemi | 86.7 kB | A python package that implements or wraps a few machine learning tools Scikit-L… |
+| 2026-10-11 03:59:26 | [beelinebench](https://pypi.org/project/beelinebench/) | 1.0.0 | Kyle Pena | 4.5 MB | How efficiently do decision models navigate multi-step problems? |
+| 2026-10-11 04:07:46 | [dot-mcp](https://pypi.org/project/dot-mcp/) | 0.1.0 | Ashveil1 | 75.7 kB | Personal MCP agent: shell, files, memory, goals, inbox, scheduler, capability U… |
+| 2026-10-11 04:09:01 | [ark-audio-agent](https://pypi.org/project/ark-audio-agent/) | 0.1.3 | Immanuel R | 87.3 kB | Autonomous text-to-music composer driven by a multi-agent ReAct harness (Claude… |
+| 2026-10-11 04:10:54 | [hotkv-client](https://pypi.org/project/hotkv-client/) | 1.0.0 | HotKV Ltd <support@hotkv.com> | 263.4 kB | A high-performance Python client for HotKV, a RESP2/RESP3-compatible in-memory… |
+| 2026-10-11 04:13:34 | [jincode123-de-toolkit](https://pypi.org/project/jincode123-de-toolkit/) | 0.1.0 | Jinfeng Shan | 3.9 kB |  |
+| 2026-10-11 04:13:38 | [lochinvar-modbus](https://pypi.org/project/lochinvar-modbus/) | 0.1.0 | lochinvar-modbus contributors | 25.0 kB | Read Lochinvar boilers and water heaters with the MODB-I-O Modbus communication… |
+| 2026-10-11 04:15:38 | [cloakroom](https://pypi.org/project/cloakroom/) | 0.1.0 | The Cloakroom authors | 95.7 kB | Local privacy gate for AI coding agents: secrets and PII are masked before the… |
+| 2026-10-11 04:16:06 | [katafm](https://pypi.org/project/katafm/) | 0.1.0 | Loopflow Studio | 14.4 kB | Send PDF scores from this machine to a Kata account. |
+| 2026-10-11 04:17:49 | [enigmata-sentinel-stores](https://pypi.org/project/enigmata-sentinel-stores/) | 0.0.0a0 | Enigmata, Inc. | 921 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-11 04:18:51 | [pd-cipher](https://pypi.org/project/pd-cipher/) | 0.0.0a0 | Enigmata, Inc. | 909 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-11 04:18:52 | [pd-classifier](https://pypi.org/project/pd-classifier/) | 0.0.0a0 | Enigmata, Inc. | 909 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-11 04:18:54 | [pd-dataset-manager](https://pypi.org/project/pd-dataset-manager/) | 0.0.0a0 | Enigmata, Inc. | 917 B | Reserved name held by Enigmata, Inc. Not a usable package. |
