@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T12:27:30Z,zbomb,2.3.1,Xv,MIT,305495,"ZipBomb Lab - build, measure and detect compression bombs; a safe research lab CLI"
+2026-10-11T12:30:16Z,manimotion,0.1.0,manimotion,Apache-2.0,34187,Official Python SDK for the manimotion API — turn a topic into a narrated video lecture.
+2026-10-11T12:30:34Z,stratus-db,0.1.0,,,12682,"The stratus-db service from Python: typed JSON over urllib, no dependencies."
+2026-10-11T12:31:33Z,glpi-ticket-triage,0.1.0,Novagios <contact@novagios.com>,Apache-2.0,559137,"Multilingual ITSM ticket classifier (French, Arabic, Darija) trained entirely on synthetic data — CPU-only, with a public demo"
+2026-10-11T12:33:01Z,tabdgp,0.0.1,Alex Kipnis <adkipnis@users.noreply.github.com>,MIT,28181,"A data-generating process for grouped and flat tables, matched to a registry of real tables"
+2026-10-11T12:36:47Z,randngd,0.1.1,"Ivan Bioli, Carlo Marcati, Giancarlo Sangalli",Apache-2.0,71024,"Natural gradient descent for neural PDE solvers with randomized (Nyström, RPCholesky) preconditioners"
+2026-10-11T12:42:08Z,annamal-vana,0.3.0,"""annamal.ai"" <sdk@annamal.ai>",MIT,20101,"Official Python SDK for Vana 3.0, the typed decision API by annamal.ai"
+2026-10-11T12:43:35Z,drf-react-by-schema-mcp,0.1.1,Cooperativa EITA,GNU General Public License version 3,596400,"Generic, schema-driven MCP server for drf-react-by-schema projects."
+2026-10-11T12:43:43Z,faintmark,0.1.0,matchalatteguy,MIT,427061,Invisible per-recipient image watermarks designed to survive chat-app compression. CLI and MCP server.
+2026-10-11T12:48:05Z,inboost-longrun,0.1.0,InBoost Technologies <inbound@inboost.pro>,InBoost LongRun Evaluation License Agreement,20378,"InBoost LongRun: Local context conservation, quota extension, and verification engine for AI coding agents."
+2026-10-11T12:48:07Z,inboost-ai-longrun,0.1.0,InBoost Technologies <inbound@inboost.pro>,InBoost LongRun Evaluation License Agreement,20421,"InBoost LongRun: Local context conservation, quota extension, and verification engine for AI coding agents."
+2026-10-11T12:49:55Z,spectrumalyzer,0.1.0,Dream-Pixels-Forge,,8461,Audio beat analysis tool for motion graphics
+2026-10-11T12:51:58Z,finctx,0.3.0,Finctx,Apache-2.0,1165230,Finctx SDK for the Finctx Data API
+2026-10-11T12:52:27Z,motorbay-client,0.1.0,,MIT,237868,Python client for the Motorbay API: Danish vehicle data from Motorstyrelsen's public weekly extract. Generated from the OpenAPI document.
+2026-10-11T12:58:34Z,matricula-mcp,0.1.0,Ian Anderson,MIT,221280,"MCP server for Matricula Online, the church-book portal of dioceses and archives in Germany, Austria, Poland, Slovenia and beyond: find a parish, list its registers, and open any page in Matricula's…"
+2026-10-11T13:00:05Z,nexusloom,3.9.2,,MIT,1321588,"Loom - agent workflow engine: declarative DAG orchestration of pluggable agents, with quality gating, checkpointing and elastic fault tolerance (formerly doc-pipeline)"
+2026-10-11T13:03:44Z,rust-mdbook,0.5.4,,MPL-2.0,34137696,"Unofficial PyPI repackaging of mdBook, a utility to create books from Markdown files"
+2026-10-11T13:04:21Z,chalktalk,0.13.0,Matthew Baker Thompson,PolyForm-Noncommercial-1.0.0,619231,"Football plays and playbooks in Python, with a designer that runs in your browser"
+2026-10-11T13:05:16Z,data-ingestor,0.2.0,,,299727,"Data ingestion (streaming, batch, micro-batch) with a ports-and-adapters architecture"
+2026-10-11T13:06:18Z,boomerang-subscription,1.0.0,Julien Weber,Apache-2.0,57392,Boomerang subscription service.
+2026-10-11T13:07:35Z,wulu-geetest-bypass-icon,0.1.0,wulu007,MIT,18195,Offline YOLO icon-direction solver for Geetest v4 icon captchas
+2026-10-11T13:07:41Z,obd-diag,0.2.1,Philipp Prell,MIT,7085765,Read-only OBD-II diagnostics for Linux with ELM327-compatible adapters
+2026-10-11T13:08:25Z,boomerang-alert-engine,1.0.0,Julien Weber,Apache-2.0,57258,Boomerang alert engine.
+2026-10-11T13:09:14Z,dollarimport,0.1.0.5,Elijah Morgan,,4582,Enables ${var} syntax in Python using exec and globals
+2026-10-11T13:10:27Z,boomerang-email-notifier,1.0.0,Julien Weber,Apache-2.0,58006,Boomerang email notifier.
+2026-10-11T13:12:04Z,boomerang-telegram-notifier,1.0.0,Julien Weber,Apache-2.0,58281,Boomerang Telegram notifier.
+2026-10-11T13:13:19Z,boomerang-ntfy-notifier,1.0.0,Julien Weber,Apache-2.0,58155,Boomerang ntfy notifier.
+2026-10-11T13:14:29Z,fa4-jax,0.1.0,Emily Shepperd <nshepperd@gmail.com>,MIT AND BSD-3-Clause AND Apache-2.0,671830,"FlashAttention-4 (CuTeDSL) for JAX: fwd/bwd/jvp with flex-attention mask mods, via cutejax"
+2026-10-11T13:14:58Z,linguagem-simples-br,1.6.1,Peter,MIT,117403,Verificador aberto da Lei 15.263/2025 (Política Nacional de Linguagem Simples): confere um texto contra as técnicas do art. 5º. Não é parecer jurídico.
+2026-10-11T13:18:14Z,agents-brain,0.0.1,Lolaplex,MIT,11630,"Context, memory, documentation RAG and observability umbrella for autonomous coding agents"
+2026-10-11T13:19:23Z,linuxhound,0.3.1,,Apache-2.0,641062,Read-only Linux permissions and conditional privilege-path auditor
+2026-10-11T13:19:38Z,claude-context-cost,1.3.1,Peter,MIT,51115,"How much each source (CLAUDE.md, rules, skills, memory, tool results) costs in the context of a Claude Code session, counted from the API usage in its transcript."
