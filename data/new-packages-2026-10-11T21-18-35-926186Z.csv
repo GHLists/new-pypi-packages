@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T20:18:38Z,noisyrng,0.1.0,,,2674,"A random number generator seeded from live system stats (CPU, RAM, disk, network)"
+2026-10-11T20:18:55Z,orlydown,0.1.0,"Ashley Connor, Tobias Bengfort",MIT,12806,Download O'Reilly books as epub files you can read in any reader
+2026-10-11T20:19:32Z,contexteval,0.2.0,aakarshan-coding,MIT,214951,"Find out why your RAG app's answer failed: label each failure as missing, irrelevant, or ignored context, then test the fix."
+2026-10-11T20:20:33Z,holoscan-robotics-cu13,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1082,Zero version placeholder for holoscan_robotics_cu13
+2026-10-11T20:22:23Z,vra-anac,0.1.0,Peter,MIT,52639,Pontualidade dos voos domésticos do Brasil pelo VRA da ANAC: lê o CSV do mês e calcula o indicador
+2026-10-11T20:22:55Z,bambu-mqtt-comms,0.1.0,Aptimex,AGPL-3.0-or-later,64506,MQTT communication library for Bambu Lab printers
+2026-10-11T20:24:30Z,mcp-event-subscriptions,0.1.0a1,,MIT,82700,Experimental portable MCP webhook subscription records and JWE envelopes
+2026-10-11T20:26:56Z,qso-graph-contest-mcp,0.0.1,"""Greg Beam, KI7MT"" <maintainers@qso-graph.io>",GPL-3.0-or-later,187033,Amateur radio contest calendar and rules MCP server — in development
+2026-10-11T20:27:31Z,edgar-ratios,2.0.0,Owen Alderson,MIT,89119,"Financial ratios straight from SEC filings: type a ticker, get 23 ratios over five years, every number traced to the 10-K it came from."
+2026-10-11T20:29:02Z,sdtoolkit,0.1.0,Ramesh-xyz,MIT,24676,"Dependency-free standard deviation, variance and relative standard deviation for Python"
+2026-10-11T20:29:51Z,gemba-cli,0.1.1,Manuel Robles,MIT,281250,Gemba: a task-based system for working with AI agents
+2026-10-11T20:32:35Z,sqllocks-shape-behavior,0.9.1,,MIT,118854,Shape plugin: behavior models (state machines on a virtual clock)
+2026-10-11T20:32:37Z,sqllocks-shape-dbt,0.9.1,,MIT,79921,"Shape plugin: dbt integration (import a dbt project, compile contracts to dbt tests, dbt seeds sink)"
+2026-10-11T20:32:40Z,sqllocks-shape-databases,0.9.1,,MIT,143437,"Shape plugin: live PostgreSQL, MySQL, Snowflake and Databricks sinks, and a DuckDB file writer"
+2026-10-11T20:36:04Z,synapse-pkg,3.0.0,Piyush Garg,MIT,98446,Synapse: Repository Intelligence Engine — local-first structural analysis and retrieval for code repositories
+2026-10-11T20:37:26Z,semantic-memory-mcp,1.0.2,Michael Logies,MIT,41261,"Single-file, self-hosted semantic memory MCP server for AI coding agents"
+2026-10-11T20:38:59Z,mayu,0.1.0,Siddid Soni <siddidsoni@gmail.com>,MIT OR Apache-2.0,18433114,"Fast Python task queue with a Rust core, built for free-threaded Python (no-GIL). A Redis-backed Celery alternative."
+2026-10-11T20:39:07Z,myboard,0.1,,,1895,
+2026-10-11T20:41:32Z,sqllocks-shape-domains,0.9.1,,MIT,2556978,Shape plugin: Industry domains and reference data
+2026-10-11T20:41:32Z,sqllocks-shape-eventhubs,0.9.1,,MIT,42555,Shape plugin: Azure Event Hubs stream source and event emitter
+2026-10-11T20:41:33Z,sqllocks-shape-fabric,0.9.1,,MIT,442875,"Shape plugin: Microsoft Fabric, Synapse and Azure Data Factory pipeline integration"
+2026-10-11T20:44:20Z,coursesitetolectures,0.1.0,Addison Grant,MIT,68625,"Turn a folder of course materials (lecture notes, slides, example code) into lecture transcripts and narrated audio"
+2026-10-11T20:44:35Z,stt-ru,0.3.0,Шкарин Сергей <kouki.sergey@gmail.com>,MIT,139723,"Russian speech recognition: Python library, command line tool, web service and Docker image"
+2026-10-11T20:45:03Z,sqllocks-shape-healthcare-codes,0.9.1,,MIT,1387114,"Shape plugin: Healthcare reference code sets, validators and detectors"
+2026-10-11T20:45:06Z,sqllocks-shape-integrations,0.9.1,,MIT,71411,"Shape plugin: OpenLineage, MLflow, Presidio, SDMetrics, Anonymeter and Ibis/DuckDB adapters"
+2026-10-11T20:45:07Z,sqllocks-shape-healthcare-standards,0.9.1,,MIT,176170,"Shape plugin: healthcare standard outputs (X12 837/835/834, FHIR R4, OMOP CDM, NCPDP mapping) and X12 / HL7 v2 readers"
+2026-10-11T20:45:45Z,easyresearch,0.1.0,Ahmad Hassanat <ahmad.hassanat@gmail.com>,MIT,160567,"Machine learning without programming: regression, time-series forecasting and signal classification cores, with honest evaluation and plain-language reports."
+2026-10-11T20:46:15Z,bambu-mqtt-generator,0.1.0,Aptimex,AGPL-3.0-or-later,230108,Generate MQTT JSON payloads for Bambu Lab printer AMS/external spool management
+2026-10-11T20:48:31Z,canvas-term,0.3.0,Linux-Viking,MIT,48444,"A command-line interface for Canvas LMS: grades, to-dos, discussions, file downloads, and assignment submission."
+2026-10-11T20:49:40Z,sqllocks-shape-kafka,0.9.1,,MIT,79347,Shape plugin: Kafka stream source and event emitter
+2026-10-11T20:49:41Z,sqllocks-shape-sqlserver,0.9.1,,MIT,78748,"Shape plugin: SQL Server, Azure SQL and Fabric SQL database profiling and source"
+2026-10-11T20:49:43Z,sqllocks-shape-simulation,0.9.1,,MIT,176921,Shape plugin: Simulation scenarios
+2026-10-11T20:52:26Z,eidos-ai,0.1.0,Eidos Contributors,MIT,216309,"Git-Native, Agent-Agnostic Development AI Ecosystem & Lifecycle Orchestrator"
+2026-10-11T20:53:55Z,pyscopegui,0.1.0,davhodg,Apache-2.0,658504,"Oscilloscopes and logic analysers in one view: analog and logic channels from separate instruments, on one time axis"
+2026-10-11T20:55:46Z,inference-doctor,0.4.0,Dundy Pasupuleti <dundysm@gmail.com>,Apache-2.0,117494,Performance regression gate for LLM inference benchmarks that checks measurement quality before it judges a regression.
+2026-10-11T20:56:06Z,emudb-api-py,0.1.0,Chris Larabee,AGPL 3.0,45513,Strictly typed python library facilitating access to the Axiell EMu Collections Management System through their REST API.
+2026-10-11T20:56:57Z,tupase-mcp,0.1.1,,MIT,260159,"Cliente MCP no oficial para Tupase: busca, reserva y cancela actividades desde Claude."
+2026-10-11T20:58:31Z,atlantic-games,0.1.0,Lukas Karlsson <lukwam@gmail.com>,MIT,203750,"Unofficial Python client for The Atlantic's games: Bracket City, the Crossword, Caleb's Inferno, Rabbithole, Trivia and Stacks"
+2026-10-11T20:58:57Z,claudecodestreaming,0.1.0,Eliran Wong,,15463,Stream text from the signed-in Claude Code CLI
+2026-10-11T21:03:34Z,titlepy,1.0.0,SupremeXD4925,,4560,A lightweight Python library for changing Windows console titles
+2026-10-11T21:06:15Z,iris-harness,0.1.0,IRIS Development Team,Apache-2.0,5876531,IRIS - Intelligent Reasoning & Integration System: Privacy-first agentic AI assistant with local-first LLM orchestration
+2026-10-11T21:08:45Z,librarian-a2a,0.10.0,kultar,Apache-2.0,277782,"An A2A agent that learns APIs on demand and gives other agents safe, audited access: reads within policy, writes with human approval."
+2026-10-11T21:08:56Z,myboard-siva,0.1.0,Sathish Kumar,,2905,Simple BFS demo package
+2026-10-11T21:09:29Z,fastnascar,0.1.0,,MIT,55609,"Pandas-based NASCAR sessions, laps, results, and live timing"
+2026-10-11T21:13:56Z,powercontract,0.1.0,Sidelobe,MIT,39651,Validate oscilloscope captures against executable electrical requirements.
+2026-10-11T21:14:19Z,simt-dev,0.2.0,Said Elimam,Apache-2.0,865258,"Shared agent rules, skills and git hooks for a repository: one command adopts a repo, and every gate it declares is probed before it is written."
+2026-10-11T21:14:53Z,weft-usd,0.1.0,Ashraf Ghoniem,Apache-2.0,431747,"weft: see a USD stage as data -- derive relationships, query surgically, certify slices. Pull the thread, not the world."
+2026-10-11T21:16:19Z,wechat-mcp-xiongwe,0.2.1,Banghao Chi <banghao2@illinois.edu>,,191109,WeChat MCP server for reading and replying to messages via macOS Accessibility APIs
+2026-10-11T21:17:33Z,portulong,0.0.1,Silvio,MIT,1282964,"Linguagem 100% PT-PT para desenvolvimento web — interpretador, servidor e extensão VS Code integrados."
