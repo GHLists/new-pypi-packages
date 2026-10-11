@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 19,
-    "from": "2026-10-10T23:18:37.510645Z",
-    "path": "data/new-packages-2026-10-11T00-19-22-481952Z.csv",
-    "to": "2026-10-11T00:19:22.481952Z"
+    "count": 25,
+    "from": "2026-10-11T00:19:22.481952Z",
+    "path": "data/new-packages-2026-10-11T01-18-56-406614Z.csv",
+    "to": "2026-10-11T01:18:56.406614Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-10T22:38:43Z",
       "package": "diteko-publisher",
       "since": "2026-10-10T22:19:50.351962Z"
     }
   ],
-  "serial": 42074689,
+  "serial": 42075936,
   "source_truncated": false,
-  "window": "2026-10-11T00:19:22.481952Z"
+  "window": "2026-10-11T01:18:56.406614Z"
 }

@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T00:19:48Z,dastropy,0.1.0a0,Dóra Tarczay-Nehéz,MIT,2553,Python tools for the DASTRO astrophysical simulation code
+2026-10-11T00:22:23Z,ocactivity-gen,1.0.7,Jiří Vik <mimic2300@gmail.com>,MIT,24908505,Nástroj pro generování obrázků aktivity z GPX/FIT nebo dle vlastního zadání.
+2026-10-11T00:24:08Z,ai-handoff,0.1.0,kdev1966,MIT,146854,"Shared, persistent memory that lets AI assistants hand work over to each other, through MCP."
+2026-10-11T00:24:24Z,AGIDMGen,0.1.0,Albert Gold <AlexXianZhenYuAu@gmail.com>,,195843,"Generates identity mods (a character's own model, written out as a mod) for 3DMigoto-based anime game mod loaders"
+2026-10-11T00:27:54Z,articulatearena,0.1.0,Yumeng He <heyumeng0928@gmail.com>,MIT,128586,A quotient metric on articulated kinematics via Lie-algebra endpoint twists
+2026-10-11T00:34:24Z,boo-boo,0.1.0,Terry Eppler,MIT,2189493,"GPT, Gemini, and Grok Streamlit assistant for multimodal workflows and document retrieval"
+2026-10-11T00:36:15Z,cue-notify-client,0.1.0,Murtazo Xurramov,MIT,145576,"Python client for Cue: send events and messages, and verify Cue's signed webhooks."
+2026-10-11T00:36:51Z,trustxai,0.1.0,Mariam Zakaria <researcher@example.com>,MIT,34058,"A Unified Diagnostic Framework for Assessing Explanation Stability, Uncertainty Calibration, and Robustness in Machine Learning"
+2026-10-11T00:36:55Z,afx-audio,0.3.0,Danilo Pena,MIT,344282,"Audio feature extraction for machine learning: 47 time, spectral, cepstral, harmonic, linear-prediction and eGeMAPS v02 features with NumPy, PyTorch and scikit-learn front ends"
+2026-10-11T00:37:45Z,CoreApiii,0.1.2,Castaño,,5822,Host API Servers and More!
+2026-10-11T00:37:53Z,khdl,0.1.0,Karel Peeters,MIT,71259570,"Python bindings for KHDL, an experimental new language for hardware design."
+2026-10-11T00:38:38Z,pythometer,0.0.0,Aly Shmahell,,1870,
+2026-10-11T00:38:56Z,rouge-score-rs,0.1.0,Alex Kholodniak <alexandrkholodniak@gmail.com>,Apache-2.0,2694154,Fast ROUGE scoring for Python: an independent Rust implementation compatible with rouge-score
+2026-10-11T00:39:08Z,gpuwm-cm1,0.1.0,,Apache-2.0,16651955,"CM1 r21.1 on one NVIDIA GPU: import a CM1 namelist, run it, get CM1-format output, with a local web GUI"
+2026-10-11T00:49:13Z,PGPCbot,0.1.0,PGP Chat,MIT,659157,"Bots for PGP Chat: the whole Bot API, end-to-end encryption included."
+2026-10-11T00:55:17Z,gipity-py,0.1.0,Terry Eppler,MIT,43221860,OpenAI GPT Streamlit assistant for multimodal workflows and document retrieval
+2026-10-11T00:55:42Z,pyrfcx,0.1.0,BougeBouge Consulting,Apache-2.0,1568528,Modern SAP NW RFC client for Python
+2026-10-11T00:55:49Z,pyrfcx-compat,0.1.0,BougeBouge Consulting,Apache-2.0,15963,pyrfc-compatible facade over pyrfcx
+2026-10-11T01:00:02Z,weflow-sdk,0.9.0,ren-yc,MIT,219491,Typed Python client for weflow-server's HTTP API (generated models + handwritten behavior layer)
+2026-10-11T01:01:13Z,qqflow-sdk,0.9.0,ren-yc,MIT,213102,Typed Python client for qqflow-server's HTTP API (generated models + handwritten behavior layer)
+2026-10-11T01:01:22Z,company-id-validators,0.1.0,Prometiam,MIT,24482,"Offline validators for European company identifiers and EU VAT numbers: check digits and formats for ES, FR, GB, IE, PL, NO, FI, SE, BE, HR, DK, EE, SK, CH, US and LEI. Zero dependencies."
+2026-10-11T01:01:43Z,loca-py,0.1.0,Terry Eppler,MIT,1684556,"Local GGUF Streamlit assistant for text generation, retrieval, and data management"
+2026-10-11T01:04:55Z,timefire,0.1.0,Cromwell Works LLC,MIT,400625,"Timefire's resolved forecast record as DataFrames, with local signature verification."
+2026-10-11T01:08:12Z,shade-sdk,0.2.0,ShadeOne,Apache-2.0,22376,"O runtime dos robôs da ShadeOne: ledger por chave de negócio, recuperação, relatório e o protocolo com o executor."
+2026-10-11T01:17:20Z,iyrin-py,0.2.0,Terry Eppler,MIT,2648912,"Streamlit geospatial toolkit for mapping, scientific data, AI processing, and vector retrieval"
