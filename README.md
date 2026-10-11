@@ -8,37 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 23:18 UTC
+## Latest list — 2026-10-11 00:19 UTC
 
-New packages created between 2026-10-10 22:19 UTC and 2026-10-10 23:18 UTC.
+New packages created between 2026-10-10 23:18 UTC and 2026-10-11 00:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-10T23-18-37-510645Z.csv)
+[Full CSV](data/new-packages-2026-10-11T00-19-22-481952Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-10 22:20:07 | [durable-actors-runtime](https://pypi.org/project/durable-actors-runtime/) | 0.8.0 |  | 76.0 MB | Native runtime and observer assets for the Durable Actors Python CLI |
-| 2026-10-10 22:20:09 | [ophix-confs](https://pypi.org/project/ophix-confs/) | 2026.10.8.2 | Ophix Project | 81.6 kB | Configuration snippets domain plugin for Ophix Project Servers |
-| 2026-10-10 22:21:46 | [ophix-conf-client](https://pypi.org/project/ophix-conf-client/) | 2026.10.6.1 | Ophix Project | 20.8 kB | Configuration client for Ophix Project Servers |
-| 2026-10-10 22:23:13 | [veridret-plugins-core](https://pypi.org/project/veridret-plugins-core/) | 1 | Jonathan Gruber <jonathan.gru… | 19.5 kB | The *official* Python package of the *official* standard core VerIdRet plugins |
-| 2026-10-10 22:24:49 | [watchguardian](https://pypi.org/project/watchguardian/) | 0.1.0 | Brayan de Souza Dias Vaz | 55.9 kB | Observability, logging, database, authentication and server utilities for Pytho… |
-| 2026-10-10 22:25:12 | [pyrazobill](https://pypi.org/project/pyrazobill/) | 1.0.0 | M. M. Atta and Razobill Contr… | 1.0 MB | High-performance log parsing, exact lossless compaction, and information-theore… |
-| 2026-10-10 22:31:16 | [xml-cmpr](https://pypi.org/project/xml-cmpr/) | 0.2.0 | Frédéric Laurent <flt@opikano… | 72.6 kB | Compare des documents XML issus de deux sources et produit un rapport des diffé… |
-| 2026-10-10 22:33:39 | [gitpro](https://pypi.org/project/gitpro/) | 0.3.1 | Yantrakar, Sandeep Shelke | 601.9 kB | Per-remote git identities (name, email, SSH key, commit signing) from one TOML… |
-| 2026-10-10 22:33:52 | [signal-platform](https://pypi.org/project/signal-platform/) | 0.1.0 | Dinesh Ramalingam | 18.6 kB | Building blocks for derived-signal MCP services: snapshot store, response envel… |
-| 2026-10-10 22:35:49 | [areaFluForecast](https://pypi.org/project/areaFluForecast/) | 0.1.1 | Mateo Biggs <biggs.m@northeas… | 517.4 kB | Neighborhood-scale influenza forecasts for public health departments: a graph n… |
-| 2026-10-10 22:38:22 | [civicbot](https://pypi.org/project/civicbot/) | 0.4.0 | Joshua Almeida | 349.0 kB | Personal robots that call city APIs (Open311 311 reports, transit, open data) f… |
-| 2026-10-10 22:39:00 | [interplay-adversarial](https://pypi.org/project/interplay-adversarial/) | 0.1.0 | Interplay Adversarial contrib… | 111.2 kB | Adversarial and red-teaming library: probe generation and attack methodologies… |
-| 2026-10-10 22:42:44 | [donger-py](https://pypi.org/project/donger-py/) | 0.1.0 | Terry Eppler | 2.6 MB | Grok-powered Streamlit application for chat, multimodal analysis, and document… |
-| 2026-10-10 22:43:03 | [pretty-notebook](https://pypi.org/project/pretty-notebook/) | 0.10.0 | prettynb | 245.7 kB | Python tools for parsing and querying wiki-linked, tagged Markdown notebooks. |
-| 2026-10-10 22:43:53 | [cypheron](https://pypi.org/project/cypheron/) | 0.3.0 | CYPHERON Team | 125.5 kB | Authenticated streaming file encryption with Tink, encrypted keysets and Argon2… |
-| 2026-10-10 22:48:25 | [wwxd](https://pypi.org/project/wwxd/) | 0.1.0 |  | 2.0 MB | What would X do? Build a cited knowledge wiki of anyone's thinking from their t… |
-| 2026-10-10 22:48:45 | [ejentum](https://pypi.org/project/ejentum/) | 0.1.0 | Bob Franks <contact@ejentum.c… | 17.3 kB | Deterministic Reasoning-Augmented Retrieval (RAR) Cognitive Infrastructure SDK |
-| 2026-10-10 22:50:57 | [leeroy-py](https://pypi.org/project/leeroy-py/) | 0.1.0 | Terry Eppler | 1.0 MB | Local GGUF Streamlit assistant for chat, document retrieval, embeddings, and an… |
-| 2026-10-10 22:52:49 | [cue-notify](https://pypi.org/project/cue-notify/) | 0.1.0 | Murtazo Xurramov | 272.4 kB | The attention layer between software, AI agents and people: decides whether, wh… |
-| 2026-10-10 22:53:56 | [mendwright](https://pypi.org/project/mendwright/) | 0.3.0 | saadbuilt | 425.4 kB | Self-healing selectors for Playwright and Selenium. When a selector breaks, a m… |
-| 2026-10-10 22:54:04 | [presurfer](https://pypi.org/project/presurfer/) | 2.0.0 | Sriranga Kashyap | 28.8 kB | MATLAB-free MP2RAGE preprocessing using SPM Standalone containers |
-| 2026-10-10 23:06:23 | [jupyter-storage-explorer](https://pypi.org/project/jupyter-storage-explorer/) | 0.0.6 |  | 396.4 kB | A storage explorer for Jupyter: browse cloud storage and data lakes, preview Pa… |
-| 2026-10-10 23:07:30 | [nextflood](https://pypi.org/project/nextflood/) | 0.0.1 |  | 2.0 kB | Early-stage Python package for streamflow and flood forecasting. |
-| 2026-10-10 23:10:10 | [jupyter-storage-explorer-launcher](https://pypi.org/project/jupyter-storage-explorer-launcher/) | 0.0.6 |  | 82.3 kB | Adds Jupyter Storage Explorer to the JupyterLab launcher, opening it in a tab |
-| 2026-10-10 23:10:20 | [jimi-py](https://pypi.org/project/jimi-py/) | 0.1.0 | Terry Eppler | 1.1 MB | Gemini-powered Streamlit application for chat, multimodal analysis, and documen… |
-| 2026-10-10 23:18:04 | [trading-vol-regime](https://pypi.org/project/trading-vol-regime/) | 0.1.1 | Dinesh Ramalingam | 69.2 kB | MCP server that classifies the market volatility regime from Cboe public data (… |
+| 2026-10-10 23:18:45 | [liteasr](https://pypi.org/project/liteasr/) | 2.2.0 |  | 1.3 MB | LiteASR — unified speech-to-text library (production Gateway + SDK) |
+| 2026-10-10 23:21:48 | [tidyline](https://pypi.org/project/tidyline/) | 0.2.0 | Laxman Rathod | 115.6 kB | Offline, read-only audit of a Things 3 database on macOS. |
+| 2026-10-10 23:25:47 | [pystexa](https://pypi.org/project/pystexa/) | 0.0.1 |  | 15.0 kB | A PyTorch library for explainable spatio-temporal architectures. |
+| 2026-10-10 23:25:54 | [gitbleed](https://pypi.org/project/gitbleed/) | 1.0.3 | Oliver R. Calazans Jeronimo | 32.1 kB | Tool to dump and reconstruct an entire Git repository from a publicly exposed .… |
+| 2026-10-10 23:34:07 | [jeni-py](https://pypi.org/project/jeni-py/) | 0.1.0 | Terry Eppler | 43.9 MB | Gemini-powered Streamlit assistant for chat, multimodal workflows, and document… |
+| 2026-10-10 23:39:35 | [metaphi-ai](https://pypi.org/project/metaphi-ai/) | 0.1.1 |  | 21.5 kB | The Metaphi AI command line: sign in, manage your organization's keys, anonymiz… |
+| 2026-10-10 23:40:18 | [lil-bro](https://pypi.org/project/lil-bro/) | 0.1.0 | Terry Eppler | 1.8 MB | Local GGUF Streamlit assistant for chat, document retrieval, embeddings, and an… |
+| 2026-10-10 23:44:47 | [jupyter-lecture-studio](https://pypi.org/project/jupyter-lecture-studio/) | 0.2.0 | aoos101 | 1.2 MB | Animated lecture slides, teaching notebooks and offline HTML for Jupyter, with… |
+| 2026-10-10 23:47:03 | [overleaf-mcp-integration](https://pypi.org/project/overleaf-mcp-integration/) | 0.1.0 | Younes Bensafia | 84.2 kB | MCP server for Overleaf projects via Git sync |
+| 2026-10-10 23:48:27 | [quillon](https://pypi.org/project/quillon/) | 0.1.0 | Pal Megyes | 2.1 kB | Add your description here |
+| 2026-10-10 23:48:48 | [carbotek](https://pypi.org/project/carbotek/) | 0.1.0 | Carbotek <337455888+carbotek@… | 2.7 MB | Render DOCX/XLSX templates with Carbone-style markers to DOCX, XLSX or PDF, wit… |
+| 2026-10-10 23:50:02 | [pytest-queryguard](https://pypi.org/project/pytest-queryguard/) | 0.1.0 | Maciej Zieliński | 47.9 kB | Detect N+1 queries and enforce query budgets for SQLAlchemy 2 in pytest. |
+| 2026-10-10 23:56:07 | [action1-mcp-server](https://pypi.org/project/action1-mcp-server/) | 1.0.0 | João Pedro Rodrigues <jpedroc… | 81.9 kB | MCP server somente leitura para a API do Action1 (patches, vulnerabilidades e i… |
+| 2026-10-10 23:56:40 | [panelboss](https://pypi.org/project/panelboss/) | 0.0.1 | nocterrible | 3.2 kB | PanelBoss: the Windows display & presence commander (name reservation; the app… |
+| 2026-10-11 00:01:14 | [manedpy](https://pypi.org/project/manedpy/) | 0.4.0 |  | 8.9 MB | Call .mnd scripts from Python, in-process |
+| 2026-10-11 00:07:29 | [factline](https://pypi.org/project/factline/) | 0.1.0 | Factline <hello@factline.dev> | 9.2 kB | Client for Factline: sanctions, PEP, KYC and company checks, plus Dutch address… |
+| 2026-10-11 00:14:17 | [geopytorch](https://pypi.org/project/geopytorch/) | 0.1.0 | Daniel Tinoco | 33.5 kB | Kriging built on GPyTorch |
+| 2026-10-11 00:14:19 | [engram-chateau](https://pypi.org/project/engram-chateau/) | 1.1.0 | Tushae Thomas | 212.8 kB | The AI memory layer that never forgets. |
+| 2026-10-11 00:18:09 | [treekle](https://pypi.org/project/treekle/) | 0.1.0 | "rekursiv.ai" <hello@rekursiv… | 179.8 kB | Pickle semantics as plain python trees. |

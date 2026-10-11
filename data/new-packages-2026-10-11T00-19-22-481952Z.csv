@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-10T23:18:45Z,liteasr,2.2.0,,,1284480,LiteASR — unified speech-to-text library (production Gateway + SDK)
+2026-10-10T23:21:48Z,tidyline,0.2.0,Laxman Rathod,MIT,115590,"Offline, read-only audit of a Things 3 database on macOS."
+2026-10-10T23:25:47Z,pystexa,0.0.1,,Apache-2.0,15019,A PyTorch library for explainable spatio-temporal architectures.
+2026-10-10T23:25:54Z,gitbleed,1.0.3,Oliver R. Calazans Jeronimo,Apache-2.0,32051,Tool to dump and reconstruct an entire Git repository from a publicly exposed .git folder on a web server.
+2026-10-10T23:34:07Z,jeni-py,0.1.0,Terry Eppler,MIT,43871302,"Gemini-powered Streamlit assistant for chat, multimodal workflows, and document retrieval"
+2026-10-10T23:39:35Z,metaphi-ai,0.1.1,,Apache-2.0,21482,"The Metaphi AI command line: sign in, manage your organization's keys, anonymize traces."
+2026-10-10T23:40:18Z,lil-bro,0.1.0,Terry Eppler,MIT,1839614,"Local GGUF Streamlit assistant for chat, document retrieval, embeddings, and analysis"
+2026-10-10T23:44:47Z,jupyter-lecture-studio,0.2.0,aoos101,MIT AND OFL-1.1 AND BSD-2-Clause,1190209,"Animated lecture slides, teaching notebooks and offline HTML for Jupyter, with Arabic RTL support"
+2026-10-10T23:47:03Z,overleaf-mcp-integration,0.1.0,Younes Bensafia,MIT,84159,MCP server for Overleaf projects via Git sync
+2026-10-10T23:48:27Z,quillon,0.1.0,Pal Megyes,,2107,Add your description here
+2026-10-10T23:48:48Z,carbotek,0.1.0,Carbotek <337455888+carbotek@users.noreply.github.com>,PolyForm-Noncommercial-1.0.0,2668692,"Render DOCX/XLSX templates with Carbone-style markers to DOCX, XLSX or PDF, without LibreOffice"
+2026-10-10T23:50:02Z,pytest-queryguard,0.1.0,Maciej Zieliński,MIT,47928,Detect N+1 queries and enforce query budgets for SQLAlchemy 2 in pytest.
+2026-10-10T23:56:07Z,action1-mcp-server,1.0.0,João Pedro Rodrigues <jpedrocrc@hotmail.com>,MIT,81946,"MCP server somente leitura para a API do Action1 (patches, vulnerabilidades e inventário)"
+2026-10-10T23:56:40Z,panelboss,0.0.1,nocterrible,,3246,PanelBoss: the Windows display & presence commander (name reservation; the app itself ships with 0.1.x)
+2026-10-11T00:01:14Z,manedpy,0.4.0,,Apache-2.0 AND LicenseRef-Maned-EULA,8892086,"Call .mnd scripts from Python, in-process"
+2026-10-11T00:07:29Z,factline,0.1.0,Factline <hello@factline.dev>,MIT,9193,"Client for Factline: sanctions, PEP, KYC and company checks, plus Dutch address, rent and vehicle data, for apps and AI agents."
+2026-10-11T00:14:17Z,geopytorch,0.1.0,Daniel Tinoco,MIT,33518,Kriging built on GPyTorch
+2026-10-11T00:14:19Z,engram-chateau,1.1.0,Tushae Thomas,MIT,212784,The AI memory layer that never forgets.
+2026-10-11T00:18:09Z,treekle,0.1.0,"""rekursiv.ai"" <hello@rekursiv.ai>",Apache-2.0,179805,Pickle semantics as plain python trees.
