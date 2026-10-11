@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T08:22:53Z,scribecheck,0.0.1.dev0,The scribecheck authors,Apache-2.0,16564,"Check AI-written clinical notes against the consultation transcript for omissions, changed facts and unsupported statements."
+2026-10-11T08:27:45Z,zarchive-py,0.0.1b3,Leon Zhang,,12139679,"Python bindings for the zArchive library (identify, create, read, extract, verify)."
+2026-10-11T08:29:40Z,maip-ai-connectors,1.1.0,Truthlocks Inc <support@truthlocks.com>,Apache-2.0,97511,AI model orchestration connectors for MAIP receipt generation
+2026-10-11T08:30:28Z,pietto,0.1.1,Mianli Wang,MIT,3854307,"A gradual, semantic SQL authoring DSL"
+2026-10-11T08:32:20Z,dvc-maip,1.1.0,Truthlocks Inc <support@truthlocks.com>,Apache-2.0,32330,DVC plugin for Machine-Actionable Integrity Protocol (MAIP) receipt generation
+2026-10-11T08:32:23Z,revolut-x-python,1.0.0,Jan Přikryl,MIT,89439,Python SDK for the Revolut X Crypto Exchange REST API (v1.0)
+2026-10-11T08:32:24Z,mlflow-maip,1.1.0,Truthlocks Inc <support@truthlocks.com>,Apache-2.0,26091,MLflow plugin for Machine-Actionable Integrity Protocol (MAIP) receipt generation
+2026-10-11T08:32:30Z,delta-lake-maip,1.1.0,Truthlocks Inc <support@truthlocks.com>,Apache-2.0,43454,Delta Lake plugin for Machine-Actionable Integrity Protocol (MAIP) receipt generation
+2026-10-11T08:39:39Z,support-fins,0.1.0,conradbez,MIT,13632,Add breakaway support fins to an STL so it prints in a strong orientation without slicer supports
+2026-10-11T08:40:25Z,tailwindcss-bin,4.3.3.dev2,sudosubin <sudosubin@gmail.com>,MIT,272793435,"The Tailwind CSS standalone CLI, packaged as Python wheels."
+2026-10-11T08:48:27Z,lunasrim,1.0.0,Jakub Skowronski <jakub.skowronski@protonmail.com>,MIT,4043076,"Pure Python 3 re-implementation of SRIM-2013: TRIM Monte Carlo and stopping/range tables, reproduced digit for digit"
+2026-10-11T08:48:48Z,gdocs,0.1.0,Chintu Sharma <chintusharma3388@gmail.com>,,12612,docs package to work with google docs in colab or out side of colab making programming easiy even authentication
+2026-10-11T08:58:14Z,chaos-engine-salih,0.0.3,Salih <senin_epostan@example.com>,,3468,A fun and chaotic Python library for superpowers and monster attacks.
+2026-10-11T08:59:29Z,tailwindcss-bin-tailwindcss-motion,1.1.1.dev1,sudosubin <sudosubin@gmail.com>,MIT,70097,tailwindcss-motion for tailwindcss-bin.
+2026-10-11T09:01:57Z,python-hebrew,1.15,,GPL-3.0-or-later,36948,"Hebrew text and numeral utilities from Reuben Institute — letter constants, transliteration helpers, and Hebrew numeral (gematria) conversion"
+2026-10-11T09:02:38Z,dash-echartsx,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",2788254,Apache ECharts components for Plotly Dash
+2026-10-11T09:05:39Z,sieve-memory,0.1.0,Ashutosh Bansal <ashutoshbansalcs@gmail.com>,MIT,1266997,"A fast, local, calibrated memory-curation layer for AI agents, built on Laya."
+2026-10-11T09:06:10Z,python-casahome,0.2.0,Borski,MIT,242903,Unofficial async client for the Casa (getcasa.com) member API
+2026-10-11T09:06:18Z,casahome-mcp,0.1.0,,MIT,282500,Local read-oriented MCP adapter for python-casahome
+2026-10-11T09:06:41Z,pytest-run-context,0.1.0,Aleksei Fomenko <fomenko_ai@proton.me>,MIT,1970215,Share and persist a typed run context across a pytest session.
+2026-10-11T09:06:55Z,mflux-webui-uno,0.2.2,,MIT AND Apache-2.0,170570,A lightweight browser interface for mflux image generation with local and hosted prompt assistants.
+2026-10-11T09:13:08Z,python-date,0.10,,GPL-3.0-or-later,31871,"Gregorian date/time utilities (Date, Time, DateTime) from Reuben Institute, for Gregorian calendar and Julian day calculations"
+2026-10-11T09:13:35Z,tailwindcss-bin-tw-animate-css,1.4.0.dev1,sudosubin <sudosubin@gmail.com>,MIT,16030,tw-animate-css for tailwindcss-bin.
+2026-10-11T09:16:26Z,tensoracle,0.3.1,minamik <mia@sync.dev>,MIT,220000,"Build, save, reuse, and execute TensorRT engines from safetensors weights"
+2026-10-11T09:17:57Z,aosabi,0.0.1a0,,MIT,1537,aosabi: coming soon.
+2026-10-11T09:17:59Z,aosabi-build,0.0.1a0,,MIT,1605,aosabi-build: coming soon.
+2026-10-11T09:18:02Z,graphtp,0.0.1a0,,MIT,1548,graphtp: coming soon.
+2026-10-11T09:18:22Z,thermodiagrammes,0.1.2,Antonin Marchand,MIT,72691,"Diagrammes thermodynamiques (P, h), (T, s), (h, s), (P, v) et (P, T) d'un fluide réel avec CoolProp : isolignes étiquetées, états et cycles, pour des figures d'exercices"

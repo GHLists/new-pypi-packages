@@ -8,37 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 08:20 UTC
+## Latest list — 2026-10-11 09:18 UTC
 
-New packages created between 2026-10-11 07:18 UTC and 2026-10-11 08:20 UTC.
+New packages created between 2026-10-11 08:20 UTC and 2026-10-11 09:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-11T08-20-15-520082Z.csv)
+[Full CSV](data/new-packages-2026-10-11T09-18-36-759842Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-11 07:21:37 | [gemini-logo-remover](https://pypi.org/project/gemini-logo-remover/) | 0.2.0 |  | 77.9 kB | Remove the Gemini watermark from images - runs locally, no server needed. |
-| 2026-10-11 07:30:46 | [conf-base](https://pypi.org/project/conf-base/) | 0.0.2 | 加点盐 | 18.5 kB | 一个简洁的 Python 配置管理框架，支持加密存储、属性描述符、嵌套配置段等功能。 |
-| 2026-10-11 07:30:52 | [fibonacci-tdd-kata-jousset](https://pypi.org/project/fibonacci-tdd-kata-jousset/) | 0.1.0 | Tom Jousset | 3.7 kB | Fibonacci TDD kata with an optimized fast-doubling implementation |
-| 2026-10-11 07:31:09 | [edf-tool](https://pypi.org/project/edf-tool/) | 0.1.0 | Krushi Raj Tula | 414.5 kB | Monthly export-of-services invoice + bank EDF form generator for Indian freelan… |
-| 2026-10-11 07:31:20 | [memcrumbs](https://pypi.org/project/memcrumbs/) | 0.3.0 |  | 403.5 kB | Project memory for coding agents: a small markdown wiki your agent reads first,… |
-| 2026-10-11 07:31:55 | [tree-sitter-daslang](https://pypi.org/project/tree-sitter-daslang/) | 0.6.0 | Gaijin Entertainment | 4.2 MB | Daslang grammar for tree-sitter |
-| 2026-10-11 07:32:54 | [mod-audit](https://pypi.org/project/mod-audit/) | 0.1.1 | hao li | 31.5 kB | Static supply-chain auditor for Claude Code Mods — local, offline, stdlib-only |
-| 2026-10-11 07:33:18 | [oxython](https://pypi.org/project/oxython/) | 0.1.0 | Rin Arakaki | 5.1 MB | Cython with a Rust-flavoured syntax in .oxy files. |
-| 2026-10-11 07:33:30 | [day-recap](https://pypi.org/project/day-recap/) | 0.2.1 | Vladimir Voronov | 98.1 kB | Саммари проделанной работы за день: задачи и принятые решения из git, транскрип… |
-| 2026-10-11 07:33:34 | [frontmatter-guard](https://pypi.org/project/frontmatter-guard/) | 0.1.0 | hao li | 27.0 kB | Semantic linter for Claude Code skill/plugin frontmatter — catches silent key t… |
-| 2026-10-11 07:33:40 | [subagent-budget](https://pypi.org/project/subagent-budget/) | 0.1.0 | hao li <haoli5933@gmail.com> | 34.1 kB | Hard budget caps for subagents — token/$ limits enforced by hooks, not just dis… |
-| 2026-10-11 07:34:43 | [mcp-runtime-audit](https://pypi.org/project/mcp-runtime-audit/) | 0.1.0 | hao li <haoli5933@gmail.com> | 36.6 kB | Local runtime security scanner for MCP servers — known-CVE checks, one-click fi… |
-| 2026-10-11 07:40:37 | [getfaultline](https://pypi.org/project/getfaultline/) | 0.1.0 | Faultline | 120.9 kB | Python SDK for Faultline error tracking |
-| 2026-10-11 07:42:56 | [auto-semver-control](https://pypi.org/project/auto-semver-control/) | 1.8.7.dev0 | Guy Erreich <gerreich.dev@gma… | 250.8 kB | Automatically bump semver, update changelogs, and open release PRs on merge. |
-| 2026-10-11 07:43:55 | [typed-mujoco](https://pypi.org/project/typed-mujoco/) | 3.15.0.0 |  | 233.8 kB | Partial type stubs for the official MuJoCo 3.15.0 Python package |
-| 2026-10-11 07:48:03 | [yeasti](https://pypi.org/project/yeasti/) | 0.1.0 | Anthony Aylward <anthony.aylw… | 247.9 kB | Small dataset of yeast chromosome I |
-| 2026-10-11 07:53:04 | [guang-demo](https://pypi.org/project/guang-demo/) | 0.1.3 |  | 4.0 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
-| 2026-10-11 07:57:29 | [abcdi-config](https://pypi.org/project/abcdi-config/) | 0.0.1 | Julian Kenwood <julian.kenwoo… | 14.1 kB | A Python library for configuration-based dependency injection using the abcdi l… |
-| 2026-10-11 07:58:03 | [servcalc](https://pypi.org/project/servcalc/) | 0.1.0 |  | 104.5 kB | Predict single-GPU LLM serving capacity (concurrency, tok/s, TTFT, ITL) from co… |
-| 2026-10-11 07:59:43 | [hyperray](https://pypi.org/project/hyperray/) | 0.0.1 | Jonas Eschmann <jonas.eschman… | 2.6 MB | The fastest drone simulator and renderer (raytracer). |
-| 2026-10-11 08:00:19 | [kifab](https://pypi.org/project/kifab/) | 0.1.0 | Max Sikström | 390.6 kB | Manage KiCad projects in a git-friendly way, with the fabrication service as pa… |
-| 2026-10-11 08:06:35 | [ng-postcode-polars](https://pypi.org/project/ng-postcode-polars/) | 0.1.0 | Kayode Adeniyi | 23.0 MB | Polars expressions for Nigeria's NIPOST digital postcode (NDAPS): parse, format… |
-| 2026-10-11 08:08:16 | [podclipper](https://pypi.org/project/podclipper/) | 0.1.0 | Loukik Naik <loukiknaik@gmail… | 219.0 kB | Local-first pipeline that turns long-form podcast videos into short vertical re… |
-| 2026-10-11 08:09:25 | [python-rac](https://pypi.org/project/python-rac/) | 0.2.0 | Platform42 | 424.9 kB | Direct 1C RAS protocol client with CLI, web, desktop and MCP interfaces |
-| 2026-10-11 08:17:33 | [hotkv-mcp](https://pypi.org/project/hotkv-mcp/) | 1.0.0 | HotKV Ltd <support@hotkv.com> | 40.9 kB | A Model Context Protocol (MCP) server for HotKV, a RESP2/RESP3-compatible in-me… |
-| 2026-10-11 08:17:51 | [langgraph-checkpoint-hotkv](https://pypi.org/project/langgraph-checkpoint-hotkv/) | 1.0.0 | HotKV Ltd <support@hotkv.com> | 68.0 kB | LangGraph checkpointer and long-term memory store backed by HotKV, a RESP2/RESP… |
+| 2026-10-11 08:22:53 | [scribecheck](https://pypi.org/project/scribecheck/) | 0.0.1.dev0 | The scribecheck authors | 16.6 kB | Check AI-written clinical notes against the consultation transcript for omissio… |
+| 2026-10-11 08:27:45 | [zarchive-py](https://pypi.org/project/zarchive-py/) | 0.0.1b3 | Leon Zhang | 12.1 MB | Python bindings for the zArchive library (identify, create, read, extract, veri… |
+| 2026-10-11 08:29:40 | [maip-ai-connectors](https://pypi.org/project/maip-ai-connectors/) | 1.1.0 | Truthlocks Inc <support@truth… | 97.5 kB | AI model orchestration connectors for MAIP receipt generation |
+| 2026-10-11 08:30:28 | [pietto](https://pypi.org/project/pietto/) | 0.1.1 | Mianli Wang | 3.9 MB | A gradual, semantic SQL authoring DSL |
+| 2026-10-11 08:32:20 | [dvc-maip](https://pypi.org/project/dvc-maip/) | 1.1.0 | Truthlocks Inc <support@truth… | 32.3 kB | DVC plugin for Machine-Actionable Integrity Protocol (MAIP) receipt generation |
+| 2026-10-11 08:32:23 | [revolut-x-python](https://pypi.org/project/revolut-x-python/) | 1.0.0 | Jan Přikryl | 89.4 kB | Python SDK for the Revolut X Crypto Exchange REST API (v1.0) |
+| 2026-10-11 08:32:24 | [mlflow-maip](https://pypi.org/project/mlflow-maip/) | 1.1.0 | Truthlocks Inc <support@truth… | 26.1 kB | MLflow plugin for Machine-Actionable Integrity Protocol (MAIP) receipt generati… |
+| 2026-10-11 08:32:30 | [delta-lake-maip](https://pypi.org/project/delta-lake-maip/) | 1.1.0 | Truthlocks Inc <support@truth… | 43.5 kB | Delta Lake plugin for Machine-Actionable Integrity Protocol (MAIP) receipt gene… |
+| 2026-10-11 08:39:39 | [support-fins](https://pypi.org/project/support-fins/) | 0.1.0 | conradbez | 13.6 kB | Add breakaway support fins to an STL so it prints in a strong orientation witho… |
+| 2026-10-11 08:40:25 | [tailwindcss-bin](https://pypi.org/project/tailwindcss-bin/) | 4.3.3.dev2 | sudosubin <sudosubin@gmail.co… | 272.8 MB | The Tailwind CSS standalone CLI, packaged as Python wheels. |
+| 2026-10-11 08:48:27 | [lunasrim](https://pypi.org/project/lunasrim/) | 1.0.0 | Jakub Skowronski <jakub.skowr… | 4.0 MB | Pure Python 3 re-implementation of SRIM-2013: TRIM Monte Carlo and stopping/ran… |
+| 2026-10-11 08:48:48 | [gdocs](https://pypi.org/project/gdocs/) | 0.1.0 | Chintu Sharma <chintusharma33… | 12.6 kB | docs package to work with google docs in colab or out side of colab making prog… |
+| 2026-10-11 08:58:14 | [chaos-engine-salih](https://pypi.org/project/chaos-engine-salih/) | 0.0.3 | Salih <senin_epostan@example.… | 3.5 kB | A fun and chaotic Python library for superpowers and monster attacks. |
+| 2026-10-11 08:59:29 | [tailwindcss-bin-tailwindcss-motion](https://pypi.org/project/tailwindcss-bin-tailwindcss-motion/) | 1.1.1.dev1 | sudosubin <sudosubin@gmail.co… | 70.1 kB | tailwindcss-motion for tailwindcss-bin. |
+| 2026-10-11 09:01:57 | [python-hebrew](https://pypi.org/project/python-hebrew/) | 1.15 |  | 36.9 kB | Hebrew text and numeral utilities from Reuben Institute — letter constants, tra… |
+| 2026-10-11 09:02:38 | [dash-echartsx](https://pypi.org/project/dash-echartsx/) | 0.1.0 |  | 2.8 MB | Apache ECharts components for Plotly Dash |
+| 2026-10-11 09:05:39 | [sieve-memory](https://pypi.org/project/sieve-memory/) | 0.1.0 | Ashutosh Bansal <ashutoshbans… | 1.3 MB | A fast, local, calibrated memory-curation layer for AI agents, built on Laya. |
+| 2026-10-11 09:06:10 | [python-casahome](https://pypi.org/project/python-casahome/) | 0.2.0 | Borski | 242.9 kB | Unofficial async client for the Casa (getcasa.com) member API |
+| 2026-10-11 09:06:18 | [casahome-mcp](https://pypi.org/project/casahome-mcp/) | 0.1.0 |  | 282.5 kB | Local read-oriented MCP adapter for python-casahome |
+| 2026-10-11 09:06:41 | [pytest-run-context](https://pypi.org/project/pytest-run-context/) | 0.1.0 | Aleksei Fomenko <fomenko_ai@p… | 2.0 MB | Share and persist a typed run context across a pytest session. |
+| 2026-10-11 09:06:55 | [mflux-webui-uno](https://pypi.org/project/mflux-webui-uno/) | 0.2.2 |  | 170.6 kB | A lightweight browser interface for mflux image generation with local and hoste… |
+| 2026-10-11 09:13:08 | [python-date](https://pypi.org/project/python-date/) | 0.10 |  | 31.9 kB | Gregorian date/time utilities (Date, Time, DateTime) from Reuben Institute, for… |
+| 2026-10-11 09:13:35 | [tailwindcss-bin-tw-animate-css](https://pypi.org/project/tailwindcss-bin-tw-animate-css/) | 1.4.0.dev1 | sudosubin <sudosubin@gmail.co… | 16.0 kB | tw-animate-css for tailwindcss-bin. |
+| 2026-10-11 09:16:26 | [tensoracle](https://pypi.org/project/tensoracle/) | 0.3.1 | minamik <mia@sync.dev> | 220.0 kB | Build, save, reuse, and execute TensorRT engines from safetensors weights |
+| 2026-10-11 09:17:57 | [aosabi](https://pypi.org/project/aosabi/) | 0.0.1a0 |  | 1.5 kB | aosabi: coming soon. |
+| 2026-10-11 09:17:59 | [aosabi-build](https://pypi.org/project/aosabi-build/) | 0.0.1a0 |  | 1.6 kB | aosabi-build: coming soon. |
+| 2026-10-11 09:18:02 | [graphtp](https://pypi.org/project/graphtp/) | 0.0.1a0 |  | 1.5 kB | graphtp: coming soon. |
+| 2026-10-11 09:18:22 | [thermodiagrammes](https://pypi.org/project/thermodiagrammes/) | 0.1.2 | Antonin Marchand | 72.7 kB | Diagrammes thermodynamiques (P, h), (T, s), (h, s), (P, v) et (P, T) d'un fluid… |
