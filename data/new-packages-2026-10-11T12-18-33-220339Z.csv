@@ -1,0 +1,64 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T11:05:05Z,tlsrequests,0.1.2,,MIT,29612878,Async Python facade for bogdanfinn/tls-client
+2026-10-11T11:19:18Z,oracle-scan,0.1.2,darkblightHQ <darkblightHQ@users.noreply.github.com>,MIT,137931,"Scan a repository for leaked secrets, vulnerable dependencies, risky code and repository hygiene problems."
+2026-10-11T11:19:24Z,torchtest2,0.1.0,Grzegorz Gwardys <grzegorz.gwardys@gmail.com>,Apache-2.0,200209,One-call sanity checks (pre-train) and behavioural tests (post-train) for PyTorch models
+2026-10-11T11:19:43Z,provenza,0.1.0,Laziz Kironov,Apache-2.0,63563,"Provenza SDK: governed, signed and auditable actions for AI agents"
+2026-10-11T11:20:34Z,hyperresearch-codex,0.5.0b1,samchoi,MIT,2430277,"Codex-only deep research pipeline: Python orchestrates, codex exec judges, gates verify."
+2026-10-11T11:21:29Z,tungsten-impersonate,0.1.0,Prism Infoways,MIT,32748,"Impersonate plugin for Tungsten: admins log in as any user to see what they see, safely and with a log."
+2026-10-11T11:21:31Z,tungsten-saved-views,0.1.0,Prism Infoways,MIT,38928,"Saved table views for Tungsten: users save filters, search, sort and columns as one-click tabs like My Leads or Pending."
+2026-10-11T11:23:15Z,itchy,0.1.0,,,145086,Typed Python game authoring and native Scratch project generation
+2026-10-11T11:29:35Z,prettyisbns,0.1.0,Maxim Stolyarchuk,"MIT License Copyright (c) 2026 Maxim Stolyarchuk Permission is hereby granted, free of charge, to a…",37917,"Normalize, fix, and format ISBNs"
+2026-10-11T11:29:41Z,repdf,0.0.8,,,1354273,Select and recombine pages from a PDF with a desktop GUI.
+2026-10-11T11:29:54Z,whatsapp2pdf,0.1.0,Jose,MIT,1321058,"Convert exported WhatsApp chats, including media ZIPs, into familiar bubble-style PDFs."
+2026-10-11T11:30:47Z,rookone-channel,0.0.1,Eigentic,,600,Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone.io
+2026-10-11T11:30:48Z,rookone-shared,0.0.1,Eigentic,,972,Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone.io
+2026-10-11T11:30:49Z,rookone-cli,0.0.1,Eigentic,,949,Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone.io
+2026-10-11T11:30:50Z,rookone-core,0.0.1,Eigentic,,956,Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone.io
+2026-10-11T11:31:03Z,onlyworlds,0.1.0,,MIT,162443,"OnlyWorlds for Python: the world folder format (read, write, push) and a client for the v2 API."
+2026-10-11T11:32:26Z,pdfcopy,0.1.2,pdfcopy contributors,MIT,680351,"Sentence lock: copy a sentence through a wrap, not broken lines."
+2026-10-11T11:32:32Z,archipy-mysql,5.9.0,Hossein Nejati <hosseinnejati14@gmail.com>,Apache-2.0,5165,ArchiPy mysql adapter.
+2026-10-11T11:32:34Z,archipy-parsian-ipg,5.9.0,Hossein Nejati <hosseinnejati14@gmail.com>,Apache-2.0,4979,ArchiPy parsian-ipg adapter.
+2026-10-11T11:32:36Z,archipy-postgres,5.9.0,Hossein Nejati <hosseinnejati14@gmail.com>,Apache-2.0,4788,ArchiPy postgres adapter.
+2026-10-11T11:32:38Z,archipy-redis,5.9.0,Hossein Nejati <hosseinnejati14@gmail.com>,Apache-2.0,43819,ArchiPy Redis adapter.
+2026-10-11T11:33:02Z,ssbroyden-optimistix,0.1.0,"Ivan Bioli, Mikel Mendibe",Apache-2.0,81463,"Self-scaling Broyden, BFGS, DFP and L-BFGS with a Zoom line search for Optimistix"
+2026-10-11T11:33:46Z,SpaMIE,0.1.1,Xiang dw <3369813855@qq.com>,MIT,51884,Graph-based prediction and integration of spatial multi-omics data
+2026-10-11T11:34:00Z,nexctf-sandbox,1.0.0,NexCTF,MIT,26416,"Sandboxed code execution for NexCTF, script checker and code runner via microsandbox microVMs."
+2026-10-11T11:35:46Z,option-calculator,0.1.0,yzoz,MIT,28903,Black-Scholes-Merton vanilla option pricing and greeks in pure Python (no NumPy/SciPy).
+2026-10-11T11:41:34Z,pulsecheckcli,0.1.0,,MIT,54100,"Self-hosted uptime monitor: HTTP/TCP/ping/TLS checks, shoutrrr alerts, OpenTelemetry export. Runs from cron, CI or serverless."
+2026-10-11T11:43:14Z,temper-hq,0.5.0,,Apache-2.0,110225,Python client for the Temper API: secure computers for the agents that act for your users
+2026-10-11T11:43:24Z,color-sort-algorithm,0.0.2,S1NGULAR1TY <theo.b.gray@gmail.com>,,8174,A simple and competitively efficient prototyped unstable sorting algorithm which sorts data according to a predefined color gradient spectrum
+2026-10-11T11:44:56Z,dentdeid,0.1.0,Hossein Boustani Hezarani,MIT,293836,"Open, tested de-identification for dental images: DICOM PS3.15 headers, burned-in text, EXIF/GPS, file names, faces and CBCT face risk."
+2026-10-11T11:45:45Z,torre,0.3.1,Juan Denis,GPL-3.0-only,83962043,"Learn chess step by step: lessons, puzzles, bots to play and an honest review of every game with Stockfish."
+2026-10-11T11:50:16Z,verified-python,0.1.0,Verified AI,Apache-2.0,4418599,"Python SDK for the Work Verification Protocol: verifiable agent work, checked offline."
+2026-10-11T11:51:52Z,fidibo-mcp,0.1.1,Sepehr <sepehr@nextofx.com>,MIT,128967,"Unofficial read-only MCP server for Fidibo: search Persian ebooks and audiobooks, compare prices, find free and Fidibo Plus books, read reviews."
+2026-10-11T11:51:53Z,flytoday-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,518165,"Unofficial read-only MCP server for Flytoday: cheapest domestic and international flights, hotels, stays, trains and buses in Iran, with fare rules and exact prices."
+2026-10-11T11:51:59Z,okala-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,156382,"Unofficial read-only MCP server for Okala: find grocery stores that deliver to you, compare prices across stores, browse deals."
+2026-10-11T11:52:31Z,agent-therapy,0.1.0,Bencium,MIT,15781,"Independent AI agent counselling, loop recovery, reasoning conflict diagnosis and autonomous workflow repair. Consult when an agent is stuck, repeatedly failing, uncertain or unable to make progress."
+2026-10-11T11:52:44Z,agent-therapy-langgraph,0.1.0,Bencium,MIT,10313,Agent Therapy watchdog for LangChain and LangGraph agents: notices when an agent is stuck and brings in an independent counsellor.
+2026-10-11T11:52:48Z,torrix-sdk,1.1.0,Torrix,MIT,28454,"Python SDK for Torrix, self-hosted observability for AI agents: record OpenAI and Anthropic calls with no dependencies."
+2026-10-11T11:57:14Z,keepup-auth,0.4.0,,,160261,"Sign-in, sessions, login throttling, roles, OIDC and somebody else's identity system."
+2026-10-11T11:57:36Z,sacs,0.1.1,ivanbright,MIT,117432,SACS - Smart Academic Coordination System: a real-time multi-tenant school coordination platform with a one-command live demo.
+2026-10-11T11:57:45Z,30book-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,174481,"Unofficial read-only MCP server for 30book (30book.com): search Iranian printed books, compare editions and publishers, prices in Toman, discounts, authors and bestsellers."
+2026-10-11T11:57:52Z,taaghche-mcp,0.1.0,Sepehr <sepehr@nextofx.com>,MIT,144948,"Unofficial read-only MCP server for Taaghche: search Persian ebooks and audiobooks, compare prices and formats, read reviews, browse bestsellers, new and free books."
+2026-10-11T11:58:59Z,keepup-db,0.4.0,,,31599,"The abstraction that holds SQLAlchemy: the table language, the pool, the dialect registry and the creation of declared tables."
+2026-10-11T12:00:31Z,keepup-integration-log,0.4.0,,,5135,"Calls this application makes to outside systems, and the section that shows them."
+2026-10-11T12:02:01Z,arabizi,0.1.0,Novagios <contact@novagios.com>,Apache-2.0,47626,"Moroccan Arabizi transliteration, Arabic normalization and word-level code-switching detection"
+2026-10-11T12:02:01Z,keepup-metrics,0.4.0,,,4908,"The scrape, the panel's view of the fleet and the snapshot retention."
+2026-10-11T12:02:03Z,glpi-anonymizer,0.1.0,Novagios <contact@novagios.com>,Apache-2.0,39812,"Remove personal data from GLPI ticket exports, with Moroccan identifier support (CIN, RIB, ICE, GSM)"
+2026-10-11T12:02:56Z,presidio-mena,0.1.0,Novagios <contact@novagios.com>,Apache-2.0,32042,"Microsoft Presidio recognizers for MENA identifiers: Moroccan CIN, RIB, ICE, IBAN and phone numbers, with check-digit validation"
+2026-10-11T12:04:49Z,keepup-postgres,0.4.0,,,3946,"PostgreSQL behind the abstraction: the dialect, the connection and what the database can do."
+2026-10-11T12:06:34Z,keepup-sqlite,0.4.0,,,3891,"SQLite behind the abstraction, and the two things it cannot do: RETURNING and messages between replicas."
+2026-10-11T12:08:11Z,keepup-ui,0.4.0,,,5692,"The panel: the shell, its sections, its themes and the static files it serves."
+2026-10-11T12:08:11Z,topology-checker,0.1.0,Alex-Andrei Cuvuliuc,Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND MIT AND Unicode-DFS-2016,4391571,Native planar topology validation with typed Python rules and Shapely geometries
+2026-10-11T12:10:14Z,keepup-users,0.4.0,,,5934,"Accounts, the roles they hold and the rights granted."
+2026-10-11T12:10:45Z,extralt,0.0.1,Extralt,MIT,5327,Python client for the Extralt API
+2026-10-11T12:13:53Z,mort-mcp,0.1.0,0xmortuex,MIT,24895,"MCP server that lets AI agents write, type-check and run Mort - a language they've never seen - with spec and stdlib lookup."
+2026-10-11T12:14:43Z,mocktcl,0.3.0,John Drummond <john@muopia.com>,MIT,122553,"Testing framework for Tcl: test runner, assertions, mocking and line/branch coverage"
+2026-10-11T12:14:50Z,sctype,0.0.1,Leo <Leo@pop.rasberrypi>,MIT,6770,
+2026-10-11T12:15:12Z,osdev-wiki-mcp,0.1.0,0xmortuex,MIT,42922,"MCP server giving AI agents offline, searchable access to the OSDev wiki (wiki.osdev.org) - full-text search, sections, links."
+2026-10-11T12:16:24Z,acpi-mcp,0.1.0,0xmortuex,MIT,148104,"MCP server that reads ACPI tables from a live QEMU guest or table files and explains them for OS developers: CPUs, I/O APICs, IRQ overrides, HPET, ECAM, shutdown and reset."
+2026-10-11T12:16:47Z,django-bulk-save,0.1.0,lorenzostefani003@gmail.com,,10986,An efficiency utility for Django that combines custom per-instance save logic with bulk database updates.
+2026-10-11T12:16:50Z,glpi-testkit,0.1.0,Novagios <contact@novagios.com>,Apache-2.0,57900,"Generate synthetic ITIL-compliant GLPI tickets in French, Arabic and Darija — training and test data with no client data involved"
+2026-10-11T12:16:58Z,glpi-rest,0.1.0,Novagios <contact@novagios.com>,Apache-2.0,37553,Typed Python client for the GLPI REST API (GLPI 10 and 11)
+2026-10-11T12:17:25Z,searchdock-cli,0.1.1,Xplormity Collective <xplormityai@gmail.com>,MIT,235020,Google Search Console CLI with agent skills and MCP support. Requires Node.js 22+.
+2026-10-11T12:17:33Z,kconfig-mcp,0.1.0,0xmortuex,MIT,54262,"MCP server that explains Kconfig to AI agents: why can't I enable CONFIG_X? Unmet dependencies with file:line, and a verified minimal fix. Linux, Zephyr, U-Boot, Buildroot."

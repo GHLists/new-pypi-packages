@@ -8,46 +8,74 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 11:18 UTC
+## Latest list — 2026-10-11 12:18 UTC
 
-New packages created between 2026-10-11 10:18 UTC and 2026-10-11 11:18 UTC.
+New packages created between 2026-10-11 11:18 UTC and 2026-10-11 12:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-11T11-18-45-190662Z.csv)
+[Full CSV](data/new-packages-2026-10-11T12-18-33-220339Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-11 10:22:20 | [mllm-shap](https://pypi.org/project/mllm-shap/) | 0.3.0 | Paweł Pozorski | 267.3 kB | Shapley-value attributions for conversational language models. |
-| 2026-10-11 10:24:57 | [attocode-code-intel](https://pypi.org/project/attocode-code-intel/) | 0.1.0 |  | 1.8 MB | Local code search and navigation for coding agents and people |
-| 2026-10-11 10:32:03 | [pysmartkit-zeaul](https://pypi.org/project/pysmartkit-zeaul/) | 0.1.0 |  | 5.1 kB | A reusable Python module with useful mathematical and utility functions |
-| 2026-10-11 10:32:10 | [tikuu-memory](https://pypi.org/project/tikuu-memory/) | 0.1.0 | Utkarsh Tiwari | 16.6 kB | Tikuu memory SDK: HTTP client and LangGraph snapshot checkpointer |
-| 2026-10-11 10:34:13 | [westquant-memory-lab](https://pypi.org/project/westquant-memory-lab/) | 0.7.1 | David Vesterlund <david@veste… | 836.8 kB | Evidence-aware quantum-memory modelling and network integration framework |
-| 2026-10-11 10:37:47 | [reddrix](https://pypi.org/project/reddrix/) | 0.1.0 |  | 32.7 kB | Reddrix is an open-source, blazing fast Reddit Scraper for Python (No API Key) |
-| 2026-10-11 10:41:03 | [ml-runner-exporter](https://pypi.org/project/ml-runner-exporter/) | 1.0.0 | David González León | 60.4 kB | A python package for exporting machine learning models to run using the rust ml… |
-| 2026-10-11 10:41:39 | [aether-sim](https://pypi.org/project/aether-sim/) | 1.0.1 | c-blanding | 202.9 kB | Python SDK for persistent, character-driven simulations with action/event rules… |
-| 2026-10-11 10:44:33 | [openframe-adapters-db-mariadb](https://pypi.org/project/openframe-adapters-db-mariadb/) | 0.1.0 | Furious Meteors Engineering <… | 44.2 kB | OpenFrame Microservice Suite — MariaDB database adapter. |
-| 2026-10-11 10:45:25 | [eco-int8-opt](https://pypi.org/project/eco-int8-opt/) | 0.4.3 | valik8937 <valikcobotar@gmail… | 44.5 kB | Fully-int8 ECO optimizers: int8 weights, grads and momentum with zero master we… |
-| 2026-10-11 10:45:45 | [loopgrid-claude-launcher](https://pypi.org/project/loopgrid-claude-launcher/) | 0.1.0 | LoopGrid <hello@loopgrid.io> | 18.2 kB | Isolated secure launcher for LoopGrid's Claude Code plugin |
-| 2026-10-11 10:45:47 | [openframe-adapters-queue-rabbitmq](https://pypi.org/project/openframe-adapters-queue-rabbitmq/) | 0.1.0 | Furious Meteors Engineering <… | 38.1 kB | OpenFrame Microservice Suite - RabbitMQ queue adapter. |
-| 2026-10-11 10:47:38 | [openframe-adapters-db-qdrant](https://pypi.org/project/openframe-adapters-db-qdrant/) | 0.1.0 | Furious Meteors Engineering <… | 43.3 kB | OpenFrame Microservice Suite — Qdrant vector-store adapter. |
-| 2026-10-11 10:48:15 | [openframe-adapters-db-milvus](https://pypi.org/project/openframe-adapters-db-milvus/) | 0.1.0 | Furious Meteors Engineering <… | 42.4 kB | OpenFrame Microservice Suite — Milvus vector-database adapter. |
-| 2026-10-11 10:50:04 | [vidtoolz-highlights](https://pypi.org/project/vidtoolz-highlights/) | 0.1.0 | Sukhbinder Singh | 35.3 kB | Make highlights from videos and Stitch videos to a song |
-| 2026-10-11 10:52:07 | [illate-parity](https://pypi.org/project/illate-parity/) | 0.1.0 |  | 148.4 kB | Is a cheaper model as good as the one you run now? Accuracy with confidence int… |
-| 2026-10-11 10:52:29 | [blender-fx-mcp](https://pypi.org/project/blender-fx-mcp/) | 0.7.0 | Sam Choi | 531.8 kB | AI가 말로 시키면 블렌더 FX(파괴·폭발·물)를 만들어 주는 MCP 서버 / Blender FX (destruction, explosion,… |
-| 2026-10-11 10:52:34 | [wiretap-dcp](https://pypi.org/project/wiretap-dcp/) | 0.1.0 |  | 77.5 kB | Transport-layer data lineage — capture provenance where data physically moves. |
-| 2026-10-11 10:55:06 | [examplify](https://pypi.org/project/examplify/) | 0.1 | Peter Mawhorter | 11.8 kB | Specify program behavior using examples in Markdown, then check and report on c… |
-| 2026-10-11 10:56:04 | [geant4-python-application](https://pypi.org/project/geant4-python-application/) | 0.1.0 | Luis Antonio Obis Aparicio <l… | 362.2 MB | Geant4 Python Application |
-| 2026-10-11 10:56:18 | [omnicoach](https://pypi.org/project/omnicoach/) | 0.1.0 |  | 14.8 MB | Lightweight, high-signal static analysis and command linter for Python and Rust |
-| 2026-10-11 10:56:34 | [intent-c](https://pypi.org/project/intent-c/) | 0.1.0 | Sasha Yuvko <sasha.yuvko2@gma… | 30.9 kB | A lightweight Python framework that converts user prompts into parallel functio… |
-| 2026-10-11 10:56:58 | [termux-bulk-sms](https://pypi.org/project/termux-bulk-sms/) | 0.1.0 | Taha Zouhair | 83.8 kB | Bulk SMS from your own Android phone through Termux:API, driven from a web page… |
-| 2026-10-11 10:57:34 | [keepup-audit](https://pypi.org/project/keepup-audit/) | 0.4.0 |  | 8.5 kB | Incoming calls, the application's events, the administrator's trail and their r… |
-| 2026-10-11 11:00:32 | [wiretruth](https://pypi.org/project/wiretruth/) | 0.1.0 |  | 139.6 kB | Replays real LLM provider responses through LLM SDKs and checks whether each SD… |
-| 2026-10-11 11:02:14 | [sweeptune](https://pypi.org/project/sweeptune/) | 0.1.0 | Maximilian Schuh | 156.3 kB | Measure your room with a sweep and get settings for a 10-band graphic EQ |
-| 2026-10-11 11:07:06 | [reportsmith](https://pypi.org/project/reportsmith/) | 0.1.0 | Michal Stojke | 41.1 kB | A small, dependency-free library for building reports and exporting them to Mar… |
-| 2026-10-11 11:08:23 | [codeanim-py](https://pypi.org/project/codeanim-py/) | 0.2.0 |  | 280.6 kB | 用 Python 代码描述动画，一条命令渲染成视频。无窗口、无交互、跑完就落盘。 |
-| 2026-10-11 11:10:45 | [keycloak-mcp-server](https://pypi.org/project/keycloak-mcp-server/) | 0.1.0 | Bhushan Rane | 283.0 kB | Keycloak MCP server that calls the Admin API as the signed-in user, via OAuth |
-| 2026-10-11 11:12:56 | [drf-react-by-schema-oauth](https://pypi.org/project/drf-react-by-schema-oauth/) | 0.1.0 | Cooperativa EITA | 636.2 kB | OAuth 2.1 authorization server and resource server for drf-react-by-schema proj… |
-| 2026-10-11 11:14:37 | [rphonenumbers](https://pypi.org/project/rphonenumbers/) | 0.1.0 | Ville Vesilehto <ville@vesile… | 15.9 MB | Drop-in replacement for phonenumbers that runs parsing, formatting and validati… |
-| 2026-10-11 11:15:53 | [botbox](https://pypi.org/project/botbox/) | 0.0.1 | Kevin Scott <me@thekevinscott… | 34.8 kB | Run a coding agent inside a locked-down Docker container. |
-| 2026-10-11 11:17:01 | [gdbstub-mcp](https://pypi.org/project/gdbstub-mcp/) | 0.1.0 | 0xmortuex | 71.3 kB | MCP server that lets AI agents debug kernels through QEMU's gdbstub - no gdb bi… |
-| 2026-10-11 11:17:29 | [nti-benchmark](https://pypi.org/project/nti-benchmark/) | 0.1.0 | Abisheak P <abisheakp197@gmai… | 23.4 kB | Verifiable security benchmark for AI agent frameworks |
-| 2026-10-11 11:17:31 | [simples-nacional-br](https://pypi.org/project/simples-nacional-br/) | 1.5.0 | Peter | 190.4 kB | Simples Nacional: alíquota efetiva, valor do mês e Fator R, conferidos contra a… |
+| 2026-10-11 11:05:05 | [tlsrequests](https://pypi.org/project/tlsrequests/) | 0.1.2 |  | 29.6 MB | Async Python facade for bogdanfinn/tls-client |
+| 2026-10-11 11:19:18 | [oracle-scan](https://pypi.org/project/oracle-scan/) | 0.1.2 | darkblightHQ <darkblightHQ@us… | 137.9 kB | Scan a repository for leaked secrets, vulnerable dependencies, risky code and r… |
+| 2026-10-11 11:19:24 | [torchtest2](https://pypi.org/project/torchtest2/) | 0.1.0 | Grzegorz Gwardys <grzegorz.gw… | 200.2 kB | One-call sanity checks (pre-train) and behavioural tests (post-train) for PyTor… |
+| 2026-10-11 11:19:43 | [provenza](https://pypi.org/project/provenza/) | 0.1.0 | Laziz Kironov | 63.6 kB | Provenza SDK: governed, signed and auditable actions for AI agents |
+| 2026-10-11 11:20:34 | [hyperresearch-codex](https://pypi.org/project/hyperresearch-codex/) | 0.5.0b1 | samchoi | 2.4 MB | Codex-only deep research pipeline: Python orchestrates, codex exec judges, gate… |
+| 2026-10-11 11:21:29 | [tungsten-impersonate](https://pypi.org/project/tungsten-impersonate/) | 0.1.0 | Prism Infoways | 32.7 kB | Impersonate plugin for Tungsten: admins log in as any user to see what they see… |
+| 2026-10-11 11:21:31 | [tungsten-saved-views](https://pypi.org/project/tungsten-saved-views/) | 0.1.0 | Prism Infoways | 38.9 kB | Saved table views for Tungsten: users save filters, search, sort and columns as… |
+| 2026-10-11 11:23:15 | [itchy](https://pypi.org/project/itchy/) | 0.1.0 |  | 145.1 kB | Typed Python game authoring and native Scratch project generation |
+| 2026-10-11 11:29:35 | [prettyisbns](https://pypi.org/project/prettyisbns/) | 0.1.0 | Maxim Stolyarchuk | 37.9 kB | Normalize, fix, and format ISBNs |
+| 2026-10-11 11:29:41 | [repdf](https://pypi.org/project/repdf/) | 0.0.8 |  | 1.4 MB | Select and recombine pages from a PDF with a desktop GUI. |
+| 2026-10-11 11:29:54 | [whatsapp2pdf](https://pypi.org/project/whatsapp2pdf/) | 0.1.0 | Jose | 1.3 MB | Convert exported WhatsApp chats, including media ZIPs, into familiar bubble-sty… |
+| 2026-10-11 11:30:47 | [rookone-channel](https://pypi.org/project/rookone-channel/) | 0.0.1 | Eigentic | 600 B | Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone… |
+| 2026-10-11 11:30:48 | [rookone-shared](https://pypi.org/project/rookone-shared/) | 0.0.1 | Eigentic | 972 B | Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone… |
+| 2026-10-11 11:30:49 | [rookone-cli](https://pypi.org/project/rookone-cli/) | 0.0.1 | Eigentic | 949 B | Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone… |
+| 2026-10-11 11:30:50 | [rookone-core](https://pypi.org/project/rookone-core/) | 0.0.1 | Eigentic | 956 B | Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone… |
+| 2026-10-11 11:31:03 | [onlyworlds](https://pypi.org/project/onlyworlds/) | 0.1.0 |  | 162.4 kB | OnlyWorlds for Python: the world folder format (read, write, push) and a client… |
+| 2026-10-11 11:32:26 | [pdfcopy](https://pypi.org/project/pdfcopy/) | 0.1.2 | pdfcopy contributors | 680.4 kB | Sentence lock: copy a sentence through a wrap, not broken lines. |
+| 2026-10-11 11:32:32 | [archipy-mysql](https://pypi.org/project/archipy-mysql/) | 5.9.0 | Hossein Nejati <hosseinnejati… | 5.2 kB | ArchiPy mysql adapter. |
+| 2026-10-11 11:32:34 | [archipy-parsian-ipg](https://pypi.org/project/archipy-parsian-ipg/) | 5.9.0 | Hossein Nejati <hosseinnejati… | 5.0 kB | ArchiPy parsian-ipg adapter. |
+| 2026-10-11 11:32:36 | [archipy-postgres](https://pypi.org/project/archipy-postgres/) | 5.9.0 | Hossein Nejati <hosseinnejati… | 4.8 kB | ArchiPy postgres adapter. |
+| 2026-10-11 11:32:38 | [archipy-redis](https://pypi.org/project/archipy-redis/) | 5.9.0 | Hossein Nejati <hosseinnejati… | 43.8 kB | ArchiPy Redis adapter. |
+| 2026-10-11 11:33:02 | [ssbroyden-optimistix](https://pypi.org/project/ssbroyden-optimistix/) | 0.1.0 | Ivan Bioli, Mikel Mendibe | 81.5 kB | Self-scaling Broyden, BFGS, DFP and L-BFGS with a Zoom line search for Optimist… |
+| 2026-10-11 11:33:46 | [SpaMIE](https://pypi.org/project/SpaMIE/) | 0.1.1 | Xiang dw <3369813855@qq.com> | 51.9 kB | Graph-based prediction and integration of spatial multi-omics data |
+| 2026-10-11 11:34:00 | [nexctf-sandbox](https://pypi.org/project/nexctf-sandbox/) | 1.0.0 | NexCTF | 26.4 kB | Sandboxed code execution for NexCTF, script checker and code runner via microsa… |
+| 2026-10-11 11:35:46 | [option-calculator](https://pypi.org/project/option-calculator/) | 0.1.0 | yzoz | 28.9 kB | Black-Scholes-Merton vanilla option pricing and greeks in pure Python (no NumPy… |
+| 2026-10-11 11:41:34 | [pulsecheckcli](https://pypi.org/project/pulsecheckcli/) | 0.1.0 |  | 54.1 kB | Self-hosted uptime monitor: HTTP/TCP/ping/TLS checks, shoutrrr alerts, OpenTele… |
+| 2026-10-11 11:43:14 | [temper-hq](https://pypi.org/project/temper-hq/) | 0.5.0 |  | 110.2 kB | Python client for the Temper API: secure computers for the agents that act for… |
+| 2026-10-11 11:43:24 | [color-sort-algorithm](https://pypi.org/project/color-sort-algorithm/) | 0.0.2 | S1NGULAR1TY <theo.b.gray@gmai… | 8.2 kB | A simple and competitively efficient prototyped unstable sorting algorithm whic… |
+| 2026-10-11 11:44:56 | [dentdeid](https://pypi.org/project/dentdeid/) | 0.1.0 | Hossein Boustani Hezarani | 293.8 kB | Open, tested de-identification for dental images: DICOM PS3.15 headers, burned-… |
+| 2026-10-11 11:45:45 | [torre](https://pypi.org/project/torre/) | 0.3.1 | Juan Denis | 84.0 MB | Learn chess step by step: lessons, puzzles, bots to play and an honest review o… |
+| 2026-10-11 11:50:16 | [verified-python](https://pypi.org/project/verified-python/) | 0.1.0 | Verified AI | 4.4 MB | Python SDK for the Work Verification Protocol: verifiable agent work, checked o… |
+| 2026-10-11 11:51:52 | [fidibo-mcp](https://pypi.org/project/fidibo-mcp/) | 0.1.1 | Sepehr <sepehr@nextofx.com> | 129.0 kB | Unofficial read-only MCP server for Fidibo: search Persian ebooks and audiobook… |
+| 2026-10-11 11:51:53 | [flytoday-mcp](https://pypi.org/project/flytoday-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 518.2 kB | Unofficial read-only MCP server for Flytoday: cheapest domestic and internation… |
+| 2026-10-11 11:51:59 | [okala-mcp](https://pypi.org/project/okala-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 156.4 kB | Unofficial read-only MCP server for Okala: find grocery stores that deliver to… |
+| 2026-10-11 11:52:31 | [agent-therapy](https://pypi.org/project/agent-therapy/) | 0.1.0 | Bencium | 15.8 kB | Independent AI agent counselling, loop recovery, reasoning conflict diagnosis a… |
+| 2026-10-11 11:52:44 | [agent-therapy-langgraph](https://pypi.org/project/agent-therapy-langgraph/) | 0.1.0 | Bencium | 10.3 kB | Agent Therapy watchdog for LangChain and LangGraph agents: notices when an agen… |
+| 2026-10-11 11:52:48 | [torrix-sdk](https://pypi.org/project/torrix-sdk/) | 1.1.0 | Torrix | 28.5 kB | Python SDK for Torrix, self-hosted observability for AI agents: record OpenAI a… |
+| 2026-10-11 11:57:14 | [keepup-auth](https://pypi.org/project/keepup-auth/) | 0.4.0 |  | 160.3 kB | Sign-in, sessions, login throttling, roles, OIDC and somebody else's identity s… |
+| 2026-10-11 11:57:36 | [sacs](https://pypi.org/project/sacs/) | 0.1.1 | ivanbright | 117.4 kB | SACS - Smart Academic Coordination System: a real-time multi-tenant school coor… |
+| 2026-10-11 11:57:45 | [30book-mcp](https://pypi.org/project/30book-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 174.5 kB | Unofficial read-only MCP server for 30book (30book.com): search Iranian printed… |
+| 2026-10-11 11:57:52 | [taaghche-mcp](https://pypi.org/project/taaghche-mcp/) | 0.1.0 | Sepehr <sepehr@nextofx.com> | 144.9 kB | Unofficial read-only MCP server for Taaghche: search Persian ebooks and audiobo… |
+| 2026-10-11 11:58:59 | [keepup-db](https://pypi.org/project/keepup-db/) | 0.4.0 |  | 31.6 kB | The abstraction that holds SQLAlchemy: the table language, the pool, the dialec… |
+| 2026-10-11 12:00:31 | [keepup-integration-log](https://pypi.org/project/keepup-integration-log/) | 0.4.0 |  | 5.1 kB | Calls this application makes to outside systems, and the section that shows the… |
+| 2026-10-11 12:02:01 | [arabizi](https://pypi.org/project/arabizi/) | 0.1.0 | Novagios <contact@novagios.co… | 47.6 kB | Moroccan Arabizi transliteration, Arabic normalization and word-level code-swit… |
+| 2026-10-11 12:02:01 | [keepup-metrics](https://pypi.org/project/keepup-metrics/) | 0.4.0 |  | 4.9 kB | The scrape, the panel's view of the fleet and the snapshot retention. |
+| 2026-10-11 12:02:03 | [glpi-anonymizer](https://pypi.org/project/glpi-anonymizer/) | 0.1.0 | Novagios <contact@novagios.co… | 39.8 kB | Remove personal data from GLPI ticket exports, with Moroccan identifier support… |
+| 2026-10-11 12:02:56 | [presidio-mena](https://pypi.org/project/presidio-mena/) | 0.1.0 | Novagios <contact@novagios.co… | 32.0 kB | Microsoft Presidio recognizers for MENA identifiers: Moroccan CIN, RIB, ICE, IB… |
+| 2026-10-11 12:04:49 | [keepup-postgres](https://pypi.org/project/keepup-postgres/) | 0.4.0 |  | 3.9 kB | PostgreSQL behind the abstraction: the dialect, the connection and what the dat… |
+| 2026-10-11 12:06:34 | [keepup-sqlite](https://pypi.org/project/keepup-sqlite/) | 0.4.0 |  | 3.9 kB | SQLite behind the abstraction, and the two things it cannot do: RETURNING and m… |
+| 2026-10-11 12:08:11 | [keepup-ui](https://pypi.org/project/keepup-ui/) | 0.4.0 |  | 5.7 kB | The panel: the shell, its sections, its themes and the static files it serves. |
+| 2026-10-11 12:08:11 | [topology-checker](https://pypi.org/project/topology-checker/) | 0.1.0 | Alex-Andrei Cuvuliuc | 4.4 MB | Native planar topology validation with typed Python rules and Shapely geometries |
+| 2026-10-11 12:10:14 | [keepup-users](https://pypi.org/project/keepup-users/) | 0.4.0 |  | 5.9 kB | Accounts, the roles they hold and the rights granted. |
+| 2026-10-11 12:10:45 | [extralt](https://pypi.org/project/extralt/) | 0.0.1 | Extralt | 5.3 kB | Python client for the Extralt API |
+| 2026-10-11 12:13:53 | [mort-mcp](https://pypi.org/project/mort-mcp/) | 0.1.0 | 0xmortuex | 24.9 kB | MCP server that lets AI agents write, type-check and run Mort - a language they… |
+| 2026-10-11 12:14:43 | [mocktcl](https://pypi.org/project/mocktcl/) | 0.3.0 | John Drummond <john@muopia.co… | 122.6 kB | Testing framework for Tcl: test runner, assertions, mocking and line/branch cov… |
+| 2026-10-11 12:14:50 | [sctype](https://pypi.org/project/sctype/) | 0.0.1 | Leo <Leo@pop.rasberrypi> | 6.8 kB |  |
+| 2026-10-11 12:15:12 | [osdev-wiki-mcp](https://pypi.org/project/osdev-wiki-mcp/) | 0.1.0 | 0xmortuex | 42.9 kB | MCP server giving AI agents offline, searchable access to the OSDev wiki (wiki.… |
+| 2026-10-11 12:16:24 | [acpi-mcp](https://pypi.org/project/acpi-mcp/) | 0.1.0 | 0xmortuex | 148.1 kB | MCP server that reads ACPI tables from a live QEMU guest or table files and exp… |
+| 2026-10-11 12:16:47 | [django-bulk-save](https://pypi.org/project/django-bulk-save/) | 0.1.0 | lorenzostefani003@gmail.com | 11.0 kB | An efficiency utility for Django that combines custom per-instance save logic w… |
+| 2026-10-11 12:16:50 | [glpi-testkit](https://pypi.org/project/glpi-testkit/) | 0.1.0 | Novagios <contact@novagios.co… | 57.9 kB | Generate synthetic ITIL-compliant GLPI tickets in French, Arabic and Darija — t… |
+| 2026-10-11 12:16:58 | [glpi-rest](https://pypi.org/project/glpi-rest/) | 0.1.0 | Novagios <contact@novagios.co… | 37.6 kB | Typed Python client for the GLPI REST API (GLPI 10 and 11) |
+| 2026-10-11 12:17:25 | [searchdock-cli](https://pypi.org/project/searchdock-cli/) | 0.1.1 | Xplormity Collective <xplormi… | 235.0 kB | Google Search Console CLI with agent skills and MCP support. Requires Node.js 2… |
+| 2026-10-11 12:17:33 | [kconfig-mcp](https://pypi.org/project/kconfig-mcp/) | 0.1.0 | 0xmortuex | 54.3 kB | MCP server that explains Kconfig to AI agents: why can't I enable CONFIG_X? Unm… |
