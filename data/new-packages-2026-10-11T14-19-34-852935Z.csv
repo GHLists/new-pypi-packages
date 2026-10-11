@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T12:40:51Z,altira,2026.10.2,Ismail Baris <ismail.baris@haight.ai>,,8012573,An example package. Generated with cookiecutter-pylibrary.
+2026-10-11T13:19:44Z,yamlguard,3.5.0,pooyanazad,MIT,179128,"Validate YAML files for syntax, linting, and security issues — fast CLI tool"
+2026-10-11T13:21:32Z,kitctl,0.0.1,Connor England,MIT,13137,"Inventory and manage agent skills, MCP connectors, hooks, and loadouts."
+2026-10-11T13:25:34Z,pyotools,0.1.0,Olivier Belanger <belangeo@gmail.com>,LGPL-3.0-or-later,52336,Python classes for building audio effects and synthesizers with pyo.
+2026-10-11T13:25:39Z,piclang,0.1.2,Mohammad Rakibul Islam <rakibulofficial1017@gmail.com>,,11730,A cli to introduce strange way to store files and folders
+2026-10-11T13:27:40Z,arch-secrets,1.1.2,,,19938,"Fetch secrets from ARCH-Insight and hand them to a program, so they never touch a .env file."
+2026-10-11T13:30:49Z,evil-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,46836,A machine that knows the evil.
+2026-10-11T13:33:04Z,codon-motif,0.1.1,,Apache-2.0,498570,MotifChord language model: gated delta-net and chord attention blocks with an intra-block attention residual.
+2026-10-11T13:34:09Z,revathi,1.0.0rc1,DHARINISH A,MIT,171853,"The trust layer for AI agents: guard, proof before done, undo and a tamper-evident record for Claude Code and Antigravity."
+2026-10-11T13:37:41Z,imgleakcheck,0.1.0,,,7930,Find duplicate images leaking between train and test sets.
+2026-10-11T13:38:42Z,validbutwrong,0.1.1,macamiri,MIT,494909,"Measure what constrained decoding with a grammar costs or buys in answer correctness, as well as schema validity."
+2026-10-11T13:39:27Z,mmd2vsdx,0.2.1,,MIT,182754,Convert Mermaid flowcharts into editable Microsoft Visio .vsdx files that match Mermaid's render
+2026-10-11T13:39:52Z,conflint,0.1.2,conflint contributors,"MIT License Copyright (c) 2026 conflint contributors Permission is hereby granted, free of charge,…",170106,"Code-aware config linter. Find every env var, config key and secret your app needs - and the drift across .env, CI, Docker, Kubernetes and Terraform before it breaks prod."
+2026-10-11T13:41:57Z,novi-scoring,0.dev0,Novi Labs <devops@novilabs.com>,,820,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-11T13:41:58Z,pumpjack,0.dev0,Novi Labs <devops@novilabs.com>,,813,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-11T13:41:59Z,novi-scrooge,0.dev0,Novi Labs <devops@novilabs.com>,,820,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-11T13:42:00Z,novi-model-jobs,0.dev0,Novi Labs <devops@novilabs.com>,,824,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-11T13:42:06Z,ai-agentbox,0.1.4,AgentBox Team,MIT,43070,"Token-efficient remote execution, AST outlining, and safe patching tool for AI agents."
+2026-10-11T13:43:32Z,nifti-lite,0.1.0,,,9643,"A small, from-scratch NIfTI reader and fast dataset header scanner."
+2026-10-11T13:47:06Z,napari-etsam,1.1.0,Joel Selvaraj <jsbrq@missouri.edu>,MIT,51928,"Segment cell membranes in cryo-ET tomograms with ETSAM, inside napari"
+2026-10-11T13:48:14Z,audatron,0.1.0,DREAM PIXELS FORGE,MIT,84465,"audatron — LLM-driven realtime Audacity: natural language drives track editing, noise removal, and mastering, with a headless DSP engine plus auto-generated Audacity TCL scripts, an agent chat REPL,…"
+2026-10-11T13:51:19Z,kontiki-monitor,3.0.0,Julien Weber,Apache-2.0,22149,Kontiki monitor service.
+2026-10-11T13:51:19Z,scigantic-cards,0.1.0,Scigantic,MIT-0,22417,"A small data card format and linter for LLM agents: record what differs from the well-known dataset, how big it is, and how to open it."
+2026-10-11T13:54:56Z,mcp-github-learning-assistant,0.1.0,iyiook333,MIT,386600,An MCP server that helps developers discover and learn from GitHub open-source projects
+2026-10-11T13:57:30Z,nonebot-plugin-kfc-crazy,0.0.1,HuParry,MIT,93276,Send KFC crazy thursday articles randomly on thursday!
+2026-10-11T13:57:39Z,logcatx,0.0.1,Junbo Zheng <3273070@qq.com>,Apache-2.0,959592,Local web dashboard for offline embedded dual-core log analysis
+2026-10-11T14:00:02Z,aieval-py,0.1.0,Hamza <hamza@example.com>,MIT,62702,Deterministic-first runtime validation and reliability toolkit for LLM outputs and agent actions.
+2026-10-11T14:00:41Z,sinergia-vmc-modbus,0.3.1,,MIT,24614,"Device library (register map) for Sinergia VMC units with CPRO3OEM-K electronics, over Modbus RTU"
+2026-10-11T14:01:05Z,bawbel-gate,0.1.0,Chak Saray <chaksaray@gmail.com>,Apache-2.0,193792,"Runtime enforcement proxy for MCP agents: capability manifests, session taint, trifecta invariant, hash-chained audit"
+2026-10-11T14:01:18Z,dayan,0.2.0,DaYan Developers,Apache-2.0,135052,"DaYan (大衍): thought-graph modeling, process-level evaluation, pattern mining and verified data augmentation for LLM reasoning"
+2026-10-11T14:02:01Z,host-check-service,1.0.0,Julien Weber,Apache-2.0,12209,Kontiki host check service.
+2026-10-11T14:02:50Z,halflife-ai,0.3.0,Evan Prawda <evanprawda92@gmail.com>,Apache-2.0,143759,Measure how long a task you can trust an AI agent with.
+2026-10-11T14:03:16Z,attested-memory,0.1.0,AIMarket,Apache-2.0,18490,"Client and CLI for Attested Memory: write, search and read verifiable AI-agent memory under a signed Ed25519 actor identity."
+2026-10-11T14:03:31Z,maturin-pants-plugin,0.1.0,Zach Gottesman,Apache-2.0,20592,A Pantsbuild plugin for building and publishing Rust-backed Python wheels with maturin.
+2026-10-11T14:03:47Z,arc56-generated-tolga-5aa53296,1.1.2026101113,tolgazorlu,,38065,Generated ARC-56 Algorand smart-contract clients for tolgazorlu/nftmap.
+2026-10-11T14:07:00Z,torchref-kernels,0.1.0,HansPeterSeidel,MIT,1281693,Prebuilt CPU kernels for TorchRef
+2026-10-11T14:08:49Z,arc56-generated-erics-6a3ce5c8,1.2.2026072010,ericsharma,,20187,Generated ARC-56 Algorand smart-contract clients for ericsharma/toss-up.
+2026-10-11T14:09:06Z,mimvo,0.2.0,Mimvo contributors,Apache-2.0,386014,"Scan agent memory for poisoned facts, hidden instructions, and leaked secrets."
+2026-10-11T14:09:53Z,arc56-generated-faiza-a6a63c32,1.2.2026072010,Faizankhan-cyber,,13872,Generated ARC-56 Algorand smart-contract clients for Faizankhan-cyber/bountyvault.
+2026-10-11T14:10:16Z,harbor-meta,2026.10.11.1,,,27266,One tree of meta repos per GitHub account; every repo cloned exactly once
+2026-10-11T14:10:57Z,arc56-generated-falco-b64944b6,1.2.2026072010,Falcon0516,,106819,Generated ARC-56 Algorand smart-contract clients for Falcon0516/CleverFyre.
+2026-10-11T14:12:39Z,faden-agent,0.2.7,Emagin8 UG (haftungsbeschränkt),Apache-2.0,965263,Node execution agent for Fadenstack cluster-managed runtimes.
+2026-10-11T14:15:17Z,codevoight,0.1.0,CodeVoight Contributors,MIT,47261,Voight-Kampff Human Comprehension Gate for AI Coding Agents and Git Commits
+2026-10-11T14:15:24Z,fadenstack,0.4.2,Sachith Liyanagama <liyanagama@outlook.de>,Apache-2.0,524551,CLI installer and management tool for the Fadenstack platform
+2026-10-11T14:17:44Z,zero-agent-core,0.2.0,qiuzixu,Apache-2.0,619755,零外部平台绑定的 Python Agent 运行时内核
+2026-10-11T14:17:58Z,zero-agent-core-embeddings,0.1.0,,Apache-2.0,26432,Handwritten Agent Core 的 Embedding Provider 扩展
+2026-10-11T14:18:00Z,zero-agent-core-mineru,0.1.0,,Apache-2.0,23521,Handwritten Agent Core 的 MinerU 文档解析扩展
+2026-10-11T14:18:01Z,zero-agent-core-multi-agent,0.1.0,,Apache-2.0,46063,Handwritten Agent Core 的多 Agent 编排扩展
