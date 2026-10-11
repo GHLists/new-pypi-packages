@@ -8,41 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 22:18 UTC
+## Latest list — 2026-10-11 23:18 UTC
 
-New packages created between 2026-10-11 21:18 UTC and 2026-10-11 22:18 UTC.
+New packages created between 2026-10-11 22:18 UTC and 2026-10-11 23:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-11T22-18-50-745589Z.csv)
+[Full CSV](data/new-packages-2026-10-11T23-18-37-775426Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-11 21:18:54 | [modewise](https://pypi.org/project/modewise/) | 0.2.0 | Ian Philip Eglin | 31.5 MB | Data-adaptive mode decomposition and analysis of multichannel signals (fMRI, EE… |
-| 2026-10-11 21:19:24 | [langchain-econdash](https://pypi.org/project/langchain-econdash/) | 0.1.0 | EconDash <noderguru@gmail.com> | 15.5 kB | LangChain tools for EconDash macroeconomic data. Same free trial, API key and p… |
-| 2026-10-11 21:22:10 | [mcplens-scanner](https://pypi.org/project/mcplens-scanner/) | 0.1.0 | Karmendra Pandey | 50.1 kB | MCP server security scanner with runtime behavioral verification — checks that… |
-| 2026-10-11 21:25:05 | [nz-supermarket-scraper](https://pypi.org/project/nz-supermarket-scraper/) | 0.1.0 | Liu Jie <maxazure@gmail.com> | 147.4 kB | CLI to scrape fresh produce and meat prices from PAK'nSAVE, New World and Woolw… |
-| 2026-10-11 21:28:01 | [jaro](https://pypi.org/project/jaro/) | 0.1.17 |  | 64.3 kB | JARO text and binary data format (pure Python) |
-| 2026-10-11 21:28:06 | [pyflashgui](https://pypi.org/project/pyflashgui/) | 0.1.0 | davhodg | 649.4 kB | Graphical flash programming tool: Arm Cortex-M with any probe pyOCD supports, a… |
-| 2026-10-11 21:31:01 | [threshold-opt](https://pypi.org/project/threshold-opt/) | 0.1.0 | Carlo Lemos <vitaliset@users.… | 77.8 kB | Threshold optimization for binary and multiclass classification |
-| 2026-10-11 21:32:03 | [ventimath](https://pypi.org/project/ventimath/) | 0.1.0 |  | 27.1 kB | Small standard-library client for VentiMath answer keys and profile skill tags |
-| 2026-10-11 21:32:26 | [avrik-server](https://pypi.org/project/avrik-server/) | 1.0.0 | Avrik AI | 151.8 kB | Avrik server: readout, calibration, /v1/systemone API and inference backends. |
-| 2026-10-11 21:32:29 | [avrik-sdk](https://pypi.org/project/avrik-sdk/) | 1.0.0 | Avrik AI | 31.1 kB | Python client for Avrik decision models: calibrated probabilities from /v1/syst… |
-| 2026-10-11 21:32:31 | [avrik](https://pypi.org/project/avrik/) | 1.0.0 | Avrik AI | 40.8 kB | Avrik: run the Avrik decision models locally (pull, ask, serve). |
-| 2026-10-11 21:33:54 | [glassllm](https://pypi.org/project/glassllm/) | 0.1.0 | Oséias Dias de Farias | 6.4 MB | A small Transformer written from scratch in NumPy, built to be looked at. |
-| 2026-10-11 21:36:58 | [pylumencache](https://pypi.org/project/pylumencache/) | 0.0.1 | Vamsi Krishna Adsumilli | 92.9 kB | Unofficial Python client for LumenCache ReNetA lighting |
-| 2026-10-11 21:37:59 | [gipy-gis](https://pypi.org/project/gipy-gis/) | 0.0.4 | "Saeed Behzadi , Ghazal Heyda… | 32.3 MB | a Python package for GIS and spatial data processing. |
-| 2026-10-11 21:38:13 | [llm-zipper](https://pypi.org/project/llm-zipper/) | 0.0.1 | The LLM-zipper Authors | 15.9 kB | Open-source framework for cheaper, faster, energy-efficient LLMs. Know before y… |
-| 2026-10-11 21:40:05 | [openmm-nonbonded-slicing-cuda-12](https://pypi.org/project/openmm-nonbonded-slicing-cuda-12/) | 0.3.0.post2 | Charlles Abreu | 402.1 kB | CUDA 12 platform for openmm-nonbonded-slicing |
-| 2026-10-11 21:40:06 | [openmm-nonbonded-slicing-cuda-13](https://pypi.org/project/openmm-nonbonded-slicing-cuda-13/) | 0.3.0.post2 | Charlles Abreu | 402.0 kB | CUDA 13 platform for openmm-nonbonded-slicing |
-| 2026-10-11 21:42:19 | [vitruvian-roborock](https://pypi.org/project/vitruvian-roborock/) | 0.1.0 | VitruvianSoftware | 751.9 kB | Local daemon, CLI (rrctl) and MCP server for Roborock vacuums |
-| 2026-10-11 21:44:01 | [grip-sdk](https://pypi.org/project/grip-sdk/) | 0.3.3 | theshoaib <shoaib@theshoaib.m… | 152.5 kB | Python client SDK for Grip Platform (https://grip.theshoaib.me/) |
-| 2026-10-11 21:47:57 | [openmm-nonbonded-slicing](https://pypi.org/project/openmm-nonbonded-slicing/) | 0.3.0.post2 | Charlles Abreu | 7.2 MB | An OpenMM plugin for slicing nonbonded interactions |
-| 2026-10-11 21:50:32 | [jaro-native](https://pypi.org/project/jaro-native/) | 0.1.15 |  | 998.1 kB | Optional native (Rust, PyO3) decoder for the JARO binary format |
-| 2026-10-11 21:51:17 | [scale-catal](https://pypi.org/project/scale-catal/) | 0.2.0 | SCALE contributors | 1.6 MB | SCALE — Shared Concepts, Attributes, and Links with Evidence: one shared framew… |
-| 2026-10-11 21:58:35 | [diskcache-community](https://pypi.org/project/diskcache-community/) | 5.7.0 | Grant Jenks | 154.6 kB | Disk Cache -- Disk and file backed persistent cache. |
-| 2026-10-11 22:00:36 | [yt-dlp-ge](https://pypi.org/project/yt-dlp-ge/) | 0.1.0 | yt-dlp global-extractor bridg… | 64.6 kB | yt-dlp bridge plugin for JMcrafter26/global-extractor JS extractors |
-| 2026-10-11 22:05:23 | [gamehome](https://pypi.org/project/gamehome/) | 0.0.0 |  | 1.3 kB | Name reservation |
-| 2026-10-11 22:06:44 | [cal-mcp](https://pypi.org/project/cal-mcp/) | 0.1.0 |  | 1.2 MB | Read-only MCP adapter for the Comprehensive Aramaic Lexicon |
-| 2026-10-11 22:09:48 | [octopus-sensing-plux](https://pypi.org/project/octopus-sensing-plux/) | 1.0.0 | Nastaran Saffaryazdi | 1.2 MB | PLUX devices (biosignalsplux, BITalino) support for Octopus Sensing |
-| 2026-10-11 22:11:45 | [resilientfile](https://pypi.org/project/resilientfile/) | 0.1.0 | ResilientFile Contributors | 52.7 kB | Reed-Solomon file protection and recovery library |
-| 2026-10-11 22:12:32 | [systraylist](https://pypi.org/project/systraylist/) | 0.1.8 | Hadi Cahyadi <cumulus13@gmail… | 16.6 kB | List Windows systray icons and activate one by number |
-| 2026-10-11 22:14:36 | [aap-demo](https://pypi.org/project/aap-demo/) | 2.0.0.dev0 | Red Hat | 38.6 MB | Deploy Ansible Automation Platform 2.7 to OpenShift Local (MicroShift or OpenSh… |
+| 2026-10-11 19:52:20 | [pytauargus-tui](https://pypi.org/project/pytauargus-tui/) | 0.3.4 |  | 25.4 kB | Textual terminal UI for Tau-Argus — a thin view over the pytauargus engine |
+| 2026-10-11 22:19:56 | [redposture](https://pypi.org/project/redposture/) | 5.25 | RedPosture contributors | 1.9 MB | Security toolkit for listener emulation, endpoint discovery/trigger/collect, an… |
+| 2026-10-11 22:22:10 | [swarmv](https://pypi.org/project/swarmv/) | 1.2.0 |  | 18.3 kB | Python SDK for SwarmV: edge vector memory with built-in access control for AI a… |
+| 2026-10-11 22:22:58 | [swarmv-mcp](https://pypi.org/project/swarmv-mcp/) | 1.2.0 |  | 9.2 kB | MCP server for SwarmV: persistent vector memory for AI agents, limited to what… |
+| 2026-10-11 22:23:43 | [qcog](https://pypi.org/project/qcog/) | 0.1.0 | Q-Cog contributors | 479.1 kB | Q-Cog: a Qiskit-native library for simulating, explaining and visualizing quant… |
+| 2026-10-11 22:27:39 | [simforge-challenge](https://pypi.org/project/simforge-challenge/) | 0.0.0 | SimForge | 1.8 kB | SimForge driving challenge harness. Placeholder: first release coming soon. htt… |
+| 2026-10-11 22:31:46 | [wbauth-sdk](https://pypi.org/project/wbauth-sdk/) | 0.2.0 | wbauth contributors | 118.9 kB | Web Bot Auth (RFC 9421) Python SDK — agent identity for the agentic web |
+| 2026-10-11 22:37:57 | [lvtime](https://pypi.org/project/lvtime/) | 0.3.0 | Javier Lianes <javier@lianes8… | 32.1 kB | Lossless LabVIEW 128-bit timestamp (1904 epoch) to and from datetime, UTC, sub-… |
+| 2026-10-11 22:38:07 | [lvconfig](https://pypi.org/project/lvconfig/) | 0.2.0 | Javier Lianes <javier@lianes8… | 30.4 kB | Typed reader and writer for LabVIEW configuration files, with LabVIEW-correct e… |
+| 2026-10-11 22:38:17 | [lvflatten](https://pypi.org/project/lvflatten/) | 0.3.0 | Javier Lianes <javier@lianes8… | 51.8 kB | Schema-driven codec for LabVIEW's Flatten To String binary format |
+| 2026-10-11 22:38:26 | [lverror](https://pypi.org/project/lverror/) | 0.3.0 | Javier Lianes <javier@lianes8… | 77.0 kB | Offline lookup that turns a LabVIEW or NI error code into a human description,… |
+| 2026-10-11 22:39:15 | [papersmith-ai](https://pypi.org/project/papersmith-ai/) | 0.13.0 | Laboratorio de Inteligencia A… | 6.0 MB | CLI workspace orchestrator for the papersmith-ai scientific paper engineering f… |
+| 2026-10-11 22:43:31 | [langchain-memorae](https://pypi.org/project/langchain-memorae/) | 0.1.1 |  | 14.5 kB | MeMorae memory and retrieval adapters for LangChain and LangGraph |
+| 2026-10-11 22:43:48 | [pidgeon](https://pypi.org/project/pidgeon/) | 1.0.0 | Pidgeon | 441.4 kB | A client library for accessing Pidgeon API |
+| 2026-10-11 22:44:13 | [codeanalyzer-go](https://pypi.org/project/codeanalyzer-go/) | 0.1.0rc1 | codellm-devkit | 19.9 MB | Prebuilt codeanalyzer-go (cango) backend binary for CLDK (codellm-devkit). |
+| 2026-10-11 22:51:32 | [tokenwatt-verify](https://pypi.org/project/tokenwatt-verify/) | 0.1.0 | TokenWatt <hello@tokenwatt.io> | 27.4 kB | Check that an LLM API endpoint (a reseller or relay) serves the model it claims… |
+| 2026-10-11 22:53:54 | [switchx-pro](https://pypi.org/project/switchx-pro/) | 1.0.1 | isaim0011 <i.s41m0011@gmail.c… | 6.9 kB | Universal AI Subscription Account Switcher & Quota Router for Claude Code, Anti… |
+| 2026-10-11 22:54:08 | [dreamcatcher](https://pypi.org/project/dreamcatcher/) | 5.5.0 | Alistair Miles | 9.6 MB | Carry labelled issues to pull requests with autonomous agent assignments |
+| 2026-10-11 22:57:28 | [tesla-ble](https://pypi.org/project/tesla-ble/) | 6.0.1 | TeslaBLE contributors | 17.3 MB | Python bindings for TeslaBLE: control Tesla vehicles over BLE |
+| 2026-10-11 22:58:29 | [ligare](https://pypi.org/project/ligare/) | 1.0.0 | Helmut Konrad Schewe <helmutu… | 10.3 kB |  |
+| 2026-10-11 23:01:22 | [leasevector-cli](https://pypi.org/project/leasevector-cli/) | 0.2.0 | Christian Vanderwall | 53.6 kB | Use LeaseVector from the command line |
+| 2026-10-11 23:01:43 | [sc-lint](https://pypi.org/project/sc-lint/) | 0.7.0 |  | 6.7 MB | sc-lint Python bindings and repository helper package. |
+| 2026-10-11 23:05:06 | [besgen](https://pypi.org/project/besgen/) | 0.2.2 |  | 127.2 kB | Generate convention-oriented software project repositories. |
+| 2026-10-11 23:05:18 | [vtskit](https://pypi.org/project/vtskit/) | 0.1.0 | kajisho5 | 170.2 kB | DVD-Video titlesets in pure Python: VOBs, navigation packs and IFO files |
+| 2026-10-11 23:09:43 | [aioplaces](https://pypi.org/project/aioplaces/) | 0.1.1 | Snuffy2 | 70.1 kB | Async Nominatim and Wikidata client with typed place parsing |

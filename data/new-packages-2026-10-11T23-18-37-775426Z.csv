@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T19:52:20Z,pytauargus-tui,0.3.4,,EUPL-1.2,25444,Textual terminal UI for Tau-Argus — a thin view over the pytauargus engine
+2026-10-11T22:19:56Z,redposture,5.25,RedPosture contributors,"MIT License Copyright (c) 2026 RedPosture contributors Permission is hereby granted, free of charge…",1924660,"Security toolkit for listener emulation, endpoint discovery/trigger/collect, and Redis/Postgres/MongoDB/Docker/Oracle/ClickHouse/etcd/Docker Registry/Harbor/Nexus/Grafana/Keycloak/Jenkins/GitLab/Kafk…"
+2026-10-11T22:22:10Z,swarmv,1.2.0,,MIT,18295,Python SDK for SwarmV: edge vector memory with built-in access control for AI agents.
+2026-10-11T22:22:58Z,swarmv-mcp,1.2.0,,MIT,9178,"MCP server for SwarmV: persistent vector memory for AI agents, limited to what the user may access."
+2026-10-11T22:23:43Z,qcog,0.1.0,Q-Cog contributors,MIT,479128,"Q-Cog: a Qiskit-native library for simulating, explaining and visualizing quantum-probability models of human cognition, judgement and collective behaviour."
+2026-10-11T22:27:39Z,simforge-challenge,0.0.0,SimForge,Apache-2.0,1838,SimForge driving challenge harness. Placeholder: first release coming soon. https://simforge.ai
+2026-10-11T22:31:46Z,wbauth-sdk,0.2.0,wbauth contributors,Apache-2.0,118897,Web Bot Auth (RFC 9421) Python SDK — agent identity for the agentic web
+2026-10-11T22:37:57Z,lvtime,0.3.0,Javier Lianes <javier@lianes8studio.com>,MIT,32144,"Lossless LabVIEW 128-bit timestamp (1904 epoch) to and from datetime, UTC, sub-microsecond preserved."
+2026-10-11T22:38:07Z,lvconfig,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,30443,"Typed reader and writer for LabVIEW configuration files, with LabVIEW-correct escaping, path and boolean rules"
+2026-10-11T22:38:17Z,lvflatten,0.3.0,Javier Lianes <javier@lianes8studio.com>,MIT,51792,Schema-driven codec for LabVIEW's Flatten To String binary format
+2026-10-11T22:38:26Z,lverror,0.3.0,Javier Lianes <javier@lianes8studio.com>,MIT,77010,"Offline lookup that turns a LabVIEW or NI error code into a human description, with no LabVIEW installed"
+2026-10-11T22:39:15Z,papersmith-ai,0.13.0,Laboratorio de Inteligencia Artificial UNAL <amalvarezme@unal.edu.co>,Apache-2.0,6033361,CLI workspace orchestrator for the papersmith-ai scientific paper engineering framework
+2026-10-11T22:43:31Z,langchain-memorae,0.1.1,,,14523,MeMorae memory and retrieval adapters for LangChain and LangGraph
+2026-10-11T22:43:48Z,pidgeon,1.0.0,Pidgeon,MIT,441406,A client library for accessing Pidgeon API
+2026-10-11T22:44:13Z,codeanalyzer-go,0.1.0rc1,codellm-devkit,Apache-2.0,19901653,Prebuilt codeanalyzer-go (cango) backend binary for CLDK (codellm-devkit).
+2026-10-11T22:51:32Z,tokenwatt-verify,0.1.0,TokenWatt <hello@tokenwatt.io>,MIT,27357,"Check that an LLM API endpoint (a reseller or relay) serves the model it claims, request by request: capability, tokenizer, refusal and latency fingerprints against the genuine model."
+2026-10-11T22:53:54Z,switchx-pro,1.0.1,isaim0011 <i.s41m0011@gmail.com>,,6861,"Universal AI Subscription Account Switcher & Quota Router for Claude Code, Antigravity, Cursor, and Copilot"
+2026-10-11T22:54:08Z,dreamcatcher,5.5.0,Alistair Miles,MIT,9612330,Carry labelled issues to pull requests with autonomous agent assignments
+2026-10-11T22:57:28Z,tesla-ble,6.0.1,TeslaBLE contributors,AGPL-3.0-only,17312444,Python bindings for TeslaBLE: control Tesla vehicles over BLE
+2026-10-11T22:58:29Z,ligare,1.0.0,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,10324,
+2026-10-11T23:01:22Z,leasevector-cli,0.2.0,Christian Vanderwall,MIT,53643,Use LeaseVector from the command line
+2026-10-11T23:01:43Z,sc-lint,0.7.0,,MIT,6721781,sc-lint Python bindings and repository helper package.
+2026-10-11T23:05:06Z,besgen,0.2.2,,Apache-2.0,127195,Generate convention-oriented software project repositories.
+2026-10-11T23:05:18Z,vtskit,0.1.0,kajisho5,LGPL-3.0-or-later,170215,"DVD-Video titlesets in pure Python: VOBs, navigation packs and IFO files"
+2026-10-11T23:09:43Z,aioplaces,0.1.1,Snuffy2,GPL-3.0-only,70065,Async Nominatim and Wikidata client with typed place parsing
