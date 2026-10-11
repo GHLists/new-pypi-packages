@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T19:23:04Z,shade-cli,0.0.1,ShadeOne,Apache-2.0,1293,Nome reservado pela ShadeOne; o SDK dos robôs é o shade-sdk.
+2026-10-11T19:23:05Z,shadeone,0.0.1,ShadeOne,Apache-2.0,1283,Nome reservado pela ShadeOne; o SDK dos robôs é o shade-sdk.
+2026-10-11T19:23:32Z,stepbook,0.1.0,Bahdan Kapionkin,Apache-2.0,1512737,"stepbook: a harness for long-horizon agent tasks that keeps validated state instead of a growing transcript (based on SKILL.state: Scalable Long-Horizon Agent Skills, arXiv:2608.26263)."
+2026-10-11T19:24:25Z,rpi-wifi-easy-connect,0.0.2,Joseph Abbey <me@josephabbey.dev>,MIT,15266,Wi-Fi Easy Connect (DPP) enrollee provisioning for Raspberry Pi and Linux
+2026-10-11T19:24:53Z,trc-airlock,0.0.0,,,671,Name reserved by The Robotics Company; the package is hosted on a private index
+2026-10-11T19:24:54Z,trc-indra-fanout,0.0.0,,,683,Name reserved by The Robotics Company; the package is hosted on a private index
+2026-10-11T19:24:55Z,trc-logging,0.0.0,,,671,Name reserved by The Robotics Company; the package is hosted on a private index
+2026-10-11T19:24:56Z,trc-scene,0.0.0,,,664,Name reserved by The Robotics Company; the package is hosted on a private index
+2026-10-11T19:27:23Z,fauxcall,0.1.1,Brad Nemetski <brad.nemetski@gmail.com>,Apache-2.0,3898602,"Record real APIs and MCP servers, then serve high-fidelity, consistent, time-aware fakes for repeatable agent testing."
+2026-10-11T19:27:38Z,ctxlen,2026.10.11.dev3,,MIT,107224,"max_input and max_output for any litellm model id, with no dependencies and no network"
+2026-10-11T19:27:51Z,advexp-configuration,0.0.1,Alexey Ivakin,Apache-2.0,13323,Temporary PyPI name reservation; the real advexp-configuration package (read-only application configuration for Python) is in development
+2026-10-11T19:29:03Z,filly,0.1.0,Alex Forrence,MIT,22860205,"A Python 3D renderer for glTF scenes, built on Google Filament"
+2026-10-11T19:33:09Z,netcfg-agent,0.2.1,naarob,AGPL-3.0-or-later,1273166,"Agent de deploiement de configuration reseau piloté par Visio, KeePass et inventaire recon"
+2026-10-11T19:33:10Z,netcalc-lite,1.0.0,netcalc-lite contributors,MIT,35719,Lightweight IPv4/IPv6 subnet calculator and network analysis toolkit.
+2026-10-11T19:35:22Z,dva-lab,0.1.0,DVA Lab Team <dva-lab@example.com>,MIT,76340,A Python package for Data Visualization and Analytics (DVA) laboratory experiments in Jupyter Notebook.
+2026-10-11T19:36:34Z,netcfg-agent-mcp,0.4.0,naarob,AGPL-3.0-or-later,75937,"Serveur MCP standalone pour netcfg-agent : expose inventaire Visio, preview, topologie, terminal SSH live en tools MCP consommables par Claude Desktop / Gemini CLI / Roo Code"
+2026-10-11T19:38:23Z,daprmq-client,0.0.0a4,,Apache-2.0,107320,Python client SDK for DaprMQ
+2026-10-11T19:38:31Z,ramnet-ops,0.1.0rc0,Kaicheng Xiao,MIT,129074243,PyTorch and CUDA operators for RAM-Net attention
+2026-10-11T19:40:51Z,geki-kb,0.1.0,,MIT,1203339,The kb command: sync a GEKI Knowledge Base folder
+2026-10-11T19:43:00Z,advexp-configuration-cloud,0.0.1,Alexey Ivakin,,6528,Defensive PyPI name reservation; the real Advexp.Configuration Cloud plugin ships via the Advexp private index
+2026-10-11T19:44:26Z,gtfs-scorecard,1.5.1,,Apache-2.0,1834134,"Score GTFS Schedule feeds with plain-language fixes: the gtfsscorecard.org pipeline, CLI, and read-only MCP server"
+2026-10-11T19:45:14Z,prhub,0.1.0,prhub contributors,MIT,58644,One GitHub poller for many coding agents: they wait on local PR and deploy state instead of each polling the API
+2026-10-11T19:47:11Z,advexp-configuration-cloud-evaluation,0.0.1,Alexey Ivakin,,8891,Defensive PyPI name reservation; the real Advexp.Configuration Cloud Evaluation plugin will be published on PyPI as a free evaluation
+2026-10-11T19:47:16Z,sieve-scan,0.3.1,casareanderson,AGPL-3.0-only,226596,"Find the CVEs that matter on a Linux box and its running containers, using OSV.dev, CISA KEV and EPSS."
+2026-10-11T19:48:13Z,fp-persistence-audit,0.1.2,Tongchen Zhang,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",88526,A model-agnostic audit of repeated false-positive concentration
+2026-10-11T19:50:38Z,polytope-theme,0.1.4,Dario Loi,Apache-2.0,42215,"Chart and app themes for the Polytope design system: matplotlib, plotly, gradio, streamlit."
+2026-10-11T19:52:41Z,threads-mcp,0.1.0,sunnycho100,,52646,"MCP server for Threads: search, feed, profiles, replies and DMs through your own logged-in browser"
+2026-10-11T19:54:27Z,crea8,0.0.0,,,1279,Name reservation
+2026-10-11T20:03:57Z,dxe-mcp,0.0.1,"""Greg Beam, KI7MT"" <maintainers@qso-graph.io>",GPL-3.0-or-later,186488,DXpedition tracking MCP server — in development
+2026-10-11T20:03:58Z,meteor-mcp,0.0.1,"""Greg Beam, KI7MT"" <maintainers@qso-graph.io>",GPL-3.0-or-later,186887,Meteor scatter MCP server — in development
+2026-10-11T20:03:59Z,js8call-mcp,0.0.1,"""Greg Beam, KI7MT"" <maintainers@qso-graph.io>",GPL-3.0-or-later,186769,JS8Call MCP server for HF messaging — in development
+2026-10-11T20:06:03Z,slash-agent,0.2.1,akatzmann,Apache-2.0,81853,Native LLM Agent Terminal Copilot with Shell State Sync
+2026-10-11T20:06:38Z,gmail-agent,0.3.0,Max Leander,MIT,218273,"Gmail for AI agents: search, read, download attachments, send, reply, forward, drafts and labels, as a CLI and an MCP server."
+2026-10-11T20:08:53Z,chameleon-cluster,0.1.0,Oliwier Szypczyn <oliwier.szypczyn@tenvalleys.com>,MIT,435181,CHAMELEON hierarchical clustering using dynamic modeling
+2026-10-11T20:10:36Z,kimdos,0.2.0,anarkiwi,Apache-2.0,117549,Commodore serial bus disk library and shell for the KIM-1 and its replicas
+2026-10-11T20:11:12Z,citta-sdk,7.0.0.8085,Citta <devs@citta.ai>,LicenseRef-Proprietary,110547,Python SDK for the Citta platform: build Custom Services that serve under a tenant's domain and read its deployed data model.
+2026-10-11T20:13:15Z,ruvector-attention,0.2.0,RuVector Team,MIT,3629,Native scaled dot product attention for embedding aggregation.
+2026-10-11T20:14:35Z,agentfault,0.1.0,Agent Fault Contributors,"MIT License Copyright (c) 2026 danishmerani95 Permission is hereby granted, free of charge, to any…",111210,Agent Fault: open-source stateful reliability testing for AI agents
+2026-10-11T20:15:40Z,birm,0.0.0,,Apache 2.0,5239,Bayesian Impulse-Response Modeling
+2026-10-11T20:16:05Z,pagecite,2.0.0,Owen Alderson,MIT,61642,"Summarise research PDFs where every claim cites its page, and every quote and number is checked against the PDF text. CLI + MCP server, Obsidian notes."
+2026-10-11T20:17:58Z,toolwrit,0.2.0,,Apache-2.0,128201,"A written authority for AI agents. Allowlist the tools, cap the budget, prove what happened."

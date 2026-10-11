@@ -8,49 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 19:18 UTC
+## Latest list — 2026-10-11 20:18 UTC
 
-New packages created between 2026-10-11 18:18 UTC and 2026-10-11 19:18 UTC.
+New packages created between 2026-10-11 19:18 UTC and 2026-10-11 20:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-11T19-18-51-67798Z.csv)
+[Full CSV](data/new-packages-2026-10-11T20-18-34-611666Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-11 18:20:57 | [busy-crew](https://pypi.org/project/busy-crew/) | 1.1.0 |  | 462.6 kB | Claude and Codex sessions on a BUSY Bar's front LED display |
-| 2026-10-11 18:23:47 | [rortable](https://pypi.org/project/rortable/) | 0.1.0 |  | 4.1 kB |  |
-| 2026-10-11 18:26:00 | [llm-wiki-kit](https://pypi.org/project/llm-wiki-kit/) | 0.3.0 | Griffin Hackley | 1.3 MB | Start and run an LLM-maintained wiki with any agent: presets, workflow guides,… |
-| 2026-10-11 18:26:50 | [nx-arrow](https://pypi.org/project/nx-arrow/) | 0.1.0 |  | 34.4 kB | Columnar graph storage for NetworkX backed by Apache Arrow |
-| 2026-10-11 18:26:58 | [jackthesolo](https://pypi.org/project/jackthesolo/) | 0.2.0 |  | 66.9 kB | jackthesolo - downloader semua platform (video, musik, file, cloud-drive) |
-| 2026-10-11 18:29:07 | [harper-py](https://pypi.org/project/harper-py/) | 0.1.0 | Maksim Burtsev <mburtsev17@gm… | 80.6 MB | Python bindings for Harper, the fast offline English grammar checker written in… |
-| 2026-10-11 18:29:18 | [conformatlas](https://pypi.org/project/conformatlas/) | 1.0.0 | Atharva Tilewale, Dhaval Patel | 1.2 MB | ConformAtlas: mapping conformational landscapes from molecular simulations |
-| 2026-10-11 18:29:54 | [beetkeeper-api-client](https://pypi.org/project/beetkeeper-api-client/) | 0.12.0 | Zach Gottesman | 89.5 kB | Python client for the beetkeeper REST API, generated from its OpenAPI spec. |
-| 2026-10-11 18:30:26 | [wing-font](https://pypi.org/project/wing-font/) | 1.0.0 | Law Wai Chun | 303.0 kB | Build phonetic-annotation fonts (ruby above each character) from a base font, a… |
-| 2026-10-11 18:32:12 | [backlinker](https://pypi.org/project/backlinker/) | 2.0.0 | Owen Alderson | 89.1 kB | Capture a line from your terminal into today's Obsidian daily note, with [[link… |
-| 2026-10-11 18:32:17 | [outreach-desk](https://pypi.org/project/outreach-desk/) | 2.0.0 | Owen Alderson | 114.0 kB | A self-hosted outreach desk: Claude writes the emails, Jev makes the calls, you… |
-| 2026-10-11 18:32:24 | [meeting-ledger](https://pypi.org/project/meeting-ledger/) | 2.0.0 | Owen Alderson | 96.5 kB | Your meetings, on the record: who decided what, who promised what, and whether… |
-| 2026-10-11 18:35:24 | [cronkit](https://pypi.org/project/cronkit/) | 0.2.0 | Milind Shekhawat <milindshekh… | 57.6 kB | Lightweight Python framework for production cron jobs |
-| 2026-10-11 18:35:25 | [redclaw](https://pypi.org/project/redclaw/) | 1.0.1 | Bedrettin Cakmak | 353.2 kB | Adversarial red-team framework for AI agents, built on the AATCK taxonomy |
-| 2026-10-11 18:36:17 | [tracon](https://pypi.org/project/tracon/) | 0.1.0 | Josh Auriemma | 159.6 kB | Air traffic control for parallel Claude Code subagents: live TUI flags stuck, b… |
-| 2026-10-11 18:37:43 | [bbm-atlas](https://pypi.org/project/bbm-atlas/) | 1.0.0rc1 | Amit Chandra | 780.5 kB | BBM-Atlas: structural code intelligence for AI assistants - parsing, graph, mem… |
-| 2026-10-11 18:40:22 | [rortest](https://pypi.org/project/rortest/) | 0.1.0 |  | 4.1 kB |  |
-| 2026-10-11 18:42:18 | [cfuicli](https://pypi.org/project/cfuicli/) | 1.0.0 | Arian Omrani <arian24b@gmail.… | 94.1 kB | cf-style terminal UI and a tiny argparse app framework (help, version, update,… |
-| 2026-10-11 18:47:29 | [synthface](https://pypi.org/project/synthface/) | 0.0.1 |  | 6.8 kB | Face recognition model trained on facesynth |
-| 2026-10-11 18:48:40 | [PoopywaterMods](https://pypi.org/project/PoopywaterMods/) | 0.2.0 | Poopywater | 9.0 kB | Poopywater's black-and-orange desktop tools launcher |
-| 2026-10-11 18:49:44 | [workconsole](https://pypi.org/project/workconsole/) | 0.0.1 |  | 1.9 kB | Python SDK for the Work Console API (reserved placeholder). |
-| 2026-10-11 18:49:46 | [aiworkforceone-hq](https://pypi.org/project/aiworkforceone-hq/) | 0.0.1 |  | 2.0 kB | Python SDK for the AI Workforce One HQ API (reserved placeholder). |
-| 2026-10-11 18:49:55 | [contextbridge-cli](https://pypi.org/project/contextbridge-cli/) | 0.3.0 | Orvantia | 51.8 kB | Verified, portable, private project memory for AI coding sessions. |
-| 2026-10-11 18:50:20 | [rn301](https://pypi.org/project/rn301/) | 1.0.0 | gdelaunay <admin@gdelaunay.fr> | 77.7 kB | Contrôle complet de l'ampli hi-fi Yamaha R-N301 : protocole YNC, push DLNA (Med… |
-| 2026-10-11 18:50:40 | [econdash](https://pypi.org/project/econdash/) | 0.1.2 | EconDash <noderguru@gmail.com> | 31.2 kB | Python client for the EconDash macroeconomic data API: 750+ indicators, 290+ co… |
-| 2026-10-11 18:52:47 | [kimtape](https://pypi.org/project/kimtape/) | 0.1.1 | anarkiwi | 44.0 kB | Paper tape loader for the MOS Technology KIM-1 and its replicas |
-| 2026-10-11 18:53:42 | [ddkafka](https://pypi.org/project/ddkafka/) | 0.0.1 | davyddd | 29.4 kB | Kafka helpers: batch consumer, lock-guarded consumer maker and msgpack producer… |
-| 2026-10-11 18:53:44 | [eme-mcp](https://pypi.org/project/eme-mcp/) | 0.1.1 | "Greg Beam, KI7MT" <maintaine… | 215.1 kB | EME (Earth-Moon-Earth) prediction for amateur radio — moon windows, path loss a… |
-| 2026-10-11 18:55:55 | [rorokyrr](https://pypi.org/project/rorokyrr/) | 0.1.0 |  | 5.6 kB |  |
-| 2026-10-11 18:59:50 | [kbgz](https://pypi.org/project/kbgz/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.4 kB | kbgz |
-| 2026-10-11 19:00:32 | [erblite](https://pypi.org/project/erblite/) | 0.5.0 |  | 136.5 kB | A sandboxed template engine using ERB syntax and a subset of Ruby |
-| 2026-10-11 19:00:43 | [mtdr](https://pypi.org/project/mtdr/) | 0.1.0 | Jorge Yanar <jorgeyanar@gmail… | 5.7 MB | Model-based targeted dimensionality reduction (mTDR) for neural population data |
-| 2026-10-11 19:03:29 | [rayoweb](https://pypi.org/project/rayoweb/) | 0.0.1 | Algorizen | 2.0 kB | Reserved for the Rayo web framework (https://pypi.org/project/rayo/). |
-| 2026-10-11 19:03:50 | [slidestolectures](https://pypi.org/project/slidestolectures/) | 0.1.0 | Addison Grant | 46.2 kB | Turn slideshow PDFs into bookmarked PDFs, slide text, lecture transcripts and n… |
-| 2026-10-11 19:11:21 | [python-agent-core](https://pypi.org/project/python-agent-core/) | 0.2.1 | akatzmann | 80.6 kB | A minimalist, non-opinionated, event-driven agent loop with cooperative interru… |
-| 2026-10-11 19:11:24 | [advexp-settings-base](https://pypi.org/project/advexp-settings-base/) | 0.0.1 | Alexey Ivakin | 13.5 kB | Temporary PyPI name reservation; the real advexp-settings-base package (base ma… |
-| 2026-10-11 19:12:35 | [sqlbased](https://pypi.org/project/sqlbased/) | 0.1.0 | João Pedro Nascimento | 11.8 kB | Uma biblioteca Python para organizar bancos de dados SQLite usando classes e ge… |
-| 2026-10-11 19:13:57 | [geoextract-gee](https://pypi.org/project/geoextract-gee/) | 0.2.0 | Bruno Cocitto | 71.3 kB | Google Earth Engine backend for geoprepare (geoextract) |
+| 2026-10-11 19:23:04 | [shade-cli](https://pypi.org/project/shade-cli/) | 0.0.1 | ShadeOne | 1.3 kB | Nome reservado pela ShadeOne; o SDK dos robôs é o shade-sdk. |
+| 2026-10-11 19:23:05 | [shadeone](https://pypi.org/project/shadeone/) | 0.0.1 | ShadeOne | 1.3 kB | Nome reservado pela ShadeOne; o SDK dos robôs é o shade-sdk. |
+| 2026-10-11 19:23:32 | [stepbook](https://pypi.org/project/stepbook/) | 0.1.0 | Bahdan Kapionkin | 1.5 MB | stepbook: a harness for long-horizon agent tasks that keeps validated state ins… |
+| 2026-10-11 19:24:25 | [rpi-wifi-easy-connect](https://pypi.org/project/rpi-wifi-easy-connect/) | 0.0.2 | Joseph Abbey <me@josephabbey.… | 15.3 kB | Wi-Fi Easy Connect (DPP) enrollee provisioning for Raspberry Pi and Linux |
+| 2026-10-11 19:24:53 | [trc-airlock](https://pypi.org/project/trc-airlock/) | 0.0.0 |  | 671 B | Name reserved by The Robotics Company; the package is hosted on a private index |
+| 2026-10-11 19:24:54 | [trc-indra-fanout](https://pypi.org/project/trc-indra-fanout/) | 0.0.0 |  | 683 B | Name reserved by The Robotics Company; the package is hosted on a private index |
+| 2026-10-11 19:24:55 | [trc-logging](https://pypi.org/project/trc-logging/) | 0.0.0 |  | 671 B | Name reserved by The Robotics Company; the package is hosted on a private index |
+| 2026-10-11 19:24:56 | [trc-scene](https://pypi.org/project/trc-scene/) | 0.0.0 |  | 664 B | Name reserved by The Robotics Company; the package is hosted on a private index |
+| 2026-10-11 19:27:23 | [fauxcall](https://pypi.org/project/fauxcall/) | 0.1.1 | Brad Nemetski <brad.nemetski@… | 3.9 MB | Record real APIs and MCP servers, then serve high-fidelity, consistent, time-aw… |
+| 2026-10-11 19:27:38 | [ctxlen](https://pypi.org/project/ctxlen/) | 2026.10.11.dev3 |  | 107.2 kB | max_input and max_output for any litellm model id, with no dependencies and no… |
+| 2026-10-11 19:27:51 | [advexp-configuration](https://pypi.org/project/advexp-configuration/) | 0.0.1 | Alexey Ivakin | 13.3 kB | Temporary PyPI name reservation; the real advexp-configuration package (read-on… |
+| 2026-10-11 19:29:03 | [filly](https://pypi.org/project/filly/) | 0.1.0 | Alex Forrence | 22.9 MB | A Python 3D renderer for glTF scenes, built on Google Filament |
+| 2026-10-11 19:33:09 | [netcfg-agent](https://pypi.org/project/netcfg-agent/) | 0.2.1 | naarob | 1.3 MB | Agent de deploiement de configuration reseau piloté par Visio, KeePass et inven… |
+| 2026-10-11 19:33:10 | [netcalc-lite](https://pypi.org/project/netcalc-lite/) | 1.0.0 | netcalc-lite contributors | 35.7 kB | Lightweight IPv4/IPv6 subnet calculator and network analysis toolkit. |
+| 2026-10-11 19:35:22 | [dva-lab](https://pypi.org/project/dva-lab/) | 0.1.0 | DVA Lab Team <dva-lab@example… | 76.3 kB | A Python package for Data Visualization and Analytics (DVA) laboratory experime… |
+| 2026-10-11 19:36:34 | [netcfg-agent-mcp](https://pypi.org/project/netcfg-agent-mcp/) | 0.4.0 | naarob | 75.9 kB | Serveur MCP standalone pour netcfg-agent : expose inventaire Visio, preview, to… |
+| 2026-10-11 19:38:23 | [daprmq-client](https://pypi.org/project/daprmq-client/) | 0.0.0a4 |  | 107.3 kB | Python client SDK for DaprMQ |
+| 2026-10-11 19:38:31 | [ramnet-ops](https://pypi.org/project/ramnet-ops/) | 0.1.0rc0 | Kaicheng Xiao | 129.1 MB | PyTorch and CUDA operators for RAM-Net attention |
+| 2026-10-11 19:40:51 | [geki-kb](https://pypi.org/project/geki-kb/) | 0.1.0 |  | 1.2 MB | The kb command: sync a GEKI Knowledge Base folder |
+| 2026-10-11 19:43:00 | [advexp-configuration-cloud](https://pypi.org/project/advexp-configuration-cloud/) | 0.0.1 | Alexey Ivakin | 6.5 kB | Defensive PyPI name reservation; the real Advexp.Configuration Cloud plugin shi… |
+| 2026-10-11 19:44:26 | [gtfs-scorecard](https://pypi.org/project/gtfs-scorecard/) | 1.5.1 |  | 1.8 MB | Score GTFS Schedule feeds with plain-language fixes: the gtfsscorecard.org pipe… |
+| 2026-10-11 19:45:14 | [prhub](https://pypi.org/project/prhub/) | 0.1.0 | prhub contributors | 58.6 kB | One GitHub poller for many coding agents: they wait on local PR and deploy stat… |
+| 2026-10-11 19:47:11 | [advexp-configuration-cloud-evaluation](https://pypi.org/project/advexp-configuration-cloud-evaluation/) | 0.0.1 | Alexey Ivakin | 8.9 kB | Defensive PyPI name reservation; the real Advexp.Configuration Cloud Evaluation… |
+| 2026-10-11 19:47:16 | [sieve-scan](https://pypi.org/project/sieve-scan/) | 0.3.1 | casareanderson | 226.6 kB | Find the CVEs that matter on a Linux box and its running containers, using OSV.… |
+| 2026-10-11 19:48:13 | [fp-persistence-audit](https://pypi.org/project/fp-persistence-audit/) | 0.1.2 | Tongchen Zhang | 88.5 kB | A model-agnostic audit of repeated false-positive concentration |
+| 2026-10-11 19:50:38 | [polytope-theme](https://pypi.org/project/polytope-theme/) | 0.1.4 | Dario Loi | 42.2 kB | Chart and app themes for the Polytope design system: matplotlib, plotly, gradio… |
+| 2026-10-11 19:52:41 | [threads-mcp](https://pypi.org/project/threads-mcp/) | 0.1.0 | sunnycho100 | 52.6 kB | MCP server for Threads: search, feed, profiles, replies and DMs through your ow… |
+| 2026-10-11 19:54:27 | [crea8](https://pypi.org/project/crea8/) | 0.0.0 |  | 1.3 kB | Name reservation |
+| 2026-10-11 20:03:57 | [dxe-mcp](https://pypi.org/project/dxe-mcp/) | 0.0.1 | "Greg Beam, KI7MT" <maintaine… | 186.5 kB | DXpedition tracking MCP server — in development |
+| 2026-10-11 20:03:58 | [meteor-mcp](https://pypi.org/project/meteor-mcp/) | 0.0.1 | "Greg Beam, KI7MT" <maintaine… | 186.9 kB | Meteor scatter MCP server — in development |
+| 2026-10-11 20:03:59 | [js8call-mcp](https://pypi.org/project/js8call-mcp/) | 0.0.1 | "Greg Beam, KI7MT" <maintaine… | 186.8 kB | JS8Call MCP server for HF messaging — in development |
+| 2026-10-11 20:06:03 | [slash-agent](https://pypi.org/project/slash-agent/) | 0.2.1 | akatzmann | 81.9 kB | Native LLM Agent Terminal Copilot with Shell State Sync |
+| 2026-10-11 20:06:38 | [gmail-agent](https://pypi.org/project/gmail-agent/) | 0.3.0 | Max Leander | 218.3 kB | Gmail for AI agents: search, read, download attachments, send, reply, forward,… |
+| 2026-10-11 20:08:53 | [chameleon-cluster](https://pypi.org/project/chameleon-cluster/) | 0.1.0 | Oliwier Szypczyn <oliwier.szy… | 435.2 kB | CHAMELEON hierarchical clustering using dynamic modeling |
+| 2026-10-11 20:10:36 | [kimdos](https://pypi.org/project/kimdos/) | 0.2.0 | anarkiwi | 117.5 kB | Commodore serial bus disk library and shell for the KIM-1 and its replicas |
+| 2026-10-11 20:11:12 | [citta-sdk](https://pypi.org/project/citta-sdk/) | 7.0.0.8085 | Citta <devs@citta.ai> | 110.5 kB | Python SDK for the Citta platform: build Custom Services that serve under a ten… |
+| 2026-10-11 20:13:15 | [ruvector-attention](https://pypi.org/project/ruvector-attention/) | 0.2.0 | RuVector Team | 3.6 kB | Native scaled dot product attention for embedding aggregation. |
+| 2026-10-11 20:14:35 | [agentfault](https://pypi.org/project/agentfault/) | 0.1.0 | Agent Fault Contributors | 111.2 kB | Agent Fault: open-source stateful reliability testing for AI agents |
+| 2026-10-11 20:15:40 | [birm](https://pypi.org/project/birm/) | 0.0.0 |  | 5.2 kB | Bayesian Impulse-Response Modeling |
+| 2026-10-11 20:16:05 | [pagecite](https://pypi.org/project/pagecite/) | 2.0.0 | Owen Alderson | 61.6 kB | Summarise research PDFs where every claim cites its page, and every quote and n… |
+| 2026-10-11 20:17:58 | [toolwrit](https://pypi.org/project/toolwrit/) | 0.2.0 |  | 128.2 kB | A written authority for AI agents. Allowlist the tools, cap the budget, prove w… |
