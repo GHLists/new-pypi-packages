@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T16:20:24Z,uluka,0.1.1,UlukaLabs,LicenseRef-Proprietary,18319,The Uluka terminal for owner-approved accounts (Apple silicon Macs)
+2026-10-11T16:21:18Z,codex-webdesk,0.1.4,chao5go,MIT,488992,A self-hosted browser workbench for Codex CLI; requires Node.js 22+
+2026-10-11T16:23:10Z,video-event-detector,0.1.0,Pranay Mahendrakar,MIT,84106,"Detect falls, crowding, abandoned objects and sudden movement from a sequence of frames"
+2026-10-11T16:24:00Z,audio-clean-ai,0.1.0,Pranay Mahendrakar,MIT,72452,"Remove steady background noise from speech recordings, without a model"
+2026-10-11T16:24:32Z,nonebot-plugin-parsehub,0.1.0,ByteColtX,MIT,732729,基于 ParseHub 的社交媒体链接解析插件：群里出现分享链接时自动解析并发送媒体
+2026-10-11T16:24:46Z,see-a-satellite,0.1.0,Willem Vooijs <willem@vooijs.eu>,MIT,31092,"Predict naked-eye satellite passes, as See A Satellite Tonight does"
+2026-10-11T16:25:40Z,streamviewer,0.0.1,Tristan Simas <tristan.simas@mail.mcgill.ca>,MIT,4181,"Domain-blind array streaming viewers: protocol, receivers and napari/Fiji servers"
+2026-10-11T16:28:21Z,skavio-sdk,1.1.0,,MIT,24799,Server-side client for Skavio Processing API
+2026-10-11T16:29:44Z,D17Oscaling,1.0.0,Mathieu Daëron,MIT,9690,Perform two-point normalization of triple oxygen isotope measurements based on two or more reference materials
+2026-10-11T16:30:10Z,aiogram_rust,0.0.0,andrew000,MIT,2457,Name reservation for aiogram_rust (aiogram with a Rust core). No code yet; the real package is not released here.
+2026-10-11T16:31:41Z,ppkit,0.1.0,The pp Authors,Apache-2.0,493778,A CLI kit for user & agents
+2026-10-11T16:31:42Z,freeiam.web,0.0.0,Florian Best <contact@freeiam.org>,MIT OR Apache-2.0,11067,"Web components for FreeIAM, a free and flexible Identity and Access Management solution."
+2026-10-11T16:31:49Z,skavio-payment-proof,1.0.0,,,12343,Skavio Payment Proof API client
+2026-10-11T16:35:11Z,keelline,0.0.1,Nezhinskiy,MIT,5338,keelline was renamed to stayfixed; this package installs it and forwards the old command.
+2026-10-11T16:35:11Z,pyshacl-turbo,0.1.0,"DataRoad Inc, Delaware, USA, trading as Legra",MIT OR Apache-2.0,18712317,A Rust SHACL engine with Python bindings; experimental compatibility milestone
+2026-10-11T16:40:33Z,kopi-workers,0.1.0,,MIT,211667,Copy-editing and presentation tools for academic prose: edit a manuscript and turn a paper into a slide deck.
+2026-10-11T16:40:42Z,owlchime,0.0.1,Spellweave Labs <support@owlchime.com>,LicenseRef-Proprietary,1974,"Placeholder for the official Owlchime Python client (Spellweave Labs, LLC). Not yet functional."
+2026-10-11T16:42:09Z,ahrara,0.0.1,Ahrara contributors,MIT,40186723,Disposable email inboxes powered by the shared Ahrara Rust core
+2026-10-11T16:46:31Z,formbridge,0.0.1,Tristan Simas <tristan.simas@mail.mcgill.ca>,MIT,4216,"Toolkit-neutral reactive forms and UI bridge contracts, shared by pyqt-reactive and headless servers"
+2026-10-11T16:48:26Z,hermi,0.1.0,,,487437,A Python package for computing integrals over atom-centred Gaussian basis functions for us in quantum chemistry
+2026-10-11T16:49:51Z,alpen,0.2.1,benediktstroebl,Apache-2.0,123952,Lightweight grading toolkit for environment-based tasks.
+2026-10-11T16:50:30Z,jdg-keyforge-sdk,0.1.0,Jonathan Daniel Gomez,Apache-2.0,24956,"Python SDK for KeyForge plugins and clients: connect to the daemon, perform the hello handshake and dispatch plugin actions."
+2026-10-11T16:51:34Z,openwhale,0.1.0,OpenWhale contributors,MIT,26301,"A small, provider-neutral Python interface for chat models"
+2026-10-11T16:53:11Z,exactdoc,0.3.0b1,Ebin Babu Thomas,Apache-2.0,1225760,"High-fidelity PDF to DOCX that survives Google Docs, with a render-back diff that proves it"
+2026-10-11T16:54:28Z,claude-webdesk,0.1.0,chao5go,MIT,500374,A self-hosted browser workbench for Claude CLI; requires Node.js 22+
+2026-10-11T16:54:37Z,mcp-icloud-caldav,0.2.0,Glob0x17,MIT,48864,"MCP server for iCloud Calendar over CalDAV: list, create, update, move and delete events"
+2026-10-11T16:55:03Z,trading-research-agents,0.6.0,Bijective Labs,MIT,1865385,Autonomous trading agents for crypto that can't fudge their own results.
+2026-10-11T16:55:31Z,simple-dao-core,0.1.1,,MIT,19574,Reusable async DAO core for SQLAlchemy
+2026-10-11T16:58:30Z,dispatcher-hybrid-2,0.1.1,Alberto Cetoli <alberto@fractalego.io>,MIT,58838,An attention-light language model: gated dyadic shift-and-sum with a few sliding-window attention layers
+2026-10-11T16:59:37Z,meghana-ai-sql-data-assistant,0.1.1,,,11768,Anna Executa for the SQL Data Assistant app: ask a CSV questions in plain English.
+2026-10-11T17:01:37Z,zenmqtt,0.1.0rc1,Mikhail Turchunovich,MIT,97038,"Asyncio MQTT 5 client: automatic reconnect, persistent sessions, acknowledgement after processing"
+2026-10-11T17:04:27Z,lazyprox,0.9.1,Piotr Antczak,MIT,80537,Proxmox TUI
+2026-10-11T17:05:44Z,supersafe,0.1.0,supersafe contributors,MIT,203599,"Unified evaluation framework for agentic LLMs: security red-teaming, tool-safety guardrails and latency/cost profiling across models."
+2026-10-11T17:05:46Z,bhsim,1.0.0rc2,Rahul Byrapuneni,MIT,46419,Privacy-first synthetic behavioral health operations simulator
+2026-10-11T17:06:09Z,jaguar-vpn-architecture,1.0.0,,,2485,"100% RAM-only, diskless VPN by StacklabX Ltd engineered with custom stealth protocols to defeat DPI firewalls."
+2026-10-11T17:07:48Z,cdktn-provider-azapi,1.0.0,CDK Terrain Maintainers,MPL-2.0,1035066,Prebuilt azapi Provider for CDK Terrain (cdktn)
+2026-10-11T17:15:11Z,sltfluxpy,0.1.0,,,5317,A piss easy wrapper for the Fluxer Rest API
+2026-10-11T17:15:36Z,tree-sitter-textproto,0.3.2,,ISC AND MIT,71525,"The textproto tree-sitter grammar, for the Python tree_sitter library"
+2026-10-11T17:15:51Z,polyzon,1.0.0,Polyzon,MIT,74702,"Official Python SDK for the Polyzon API: search 3D models across Thingiverse, Printables, MakerWorld and more"
+2026-10-11T17:17:57Z,alibabacloud-epg20260715,1.0.0,Alibaba Cloud SDK,Apache License 2.0,158613,Alibaba Cloud EPG (20260715) SDK Library for Python
