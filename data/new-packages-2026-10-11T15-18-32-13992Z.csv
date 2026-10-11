@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T11:45:39Z,pepe-http,0.35.1,,MIT,12155,"HTTP load generator and latency tool: a load test, a ping split into phases, a ramp to the capacity, an OpenAPI spec, a flow, an access log"
+2026-10-11T14:21:04Z,batonsh,0.1.0,,MIT,42324,"Python SDK for Baton, the multi-agent coding TUI/daemon"
+2026-10-11T14:23:05Z,abcopt,0.2.0,Yusuf Korkmazyiğit <yusuf.korkmazyigit@gmail.com>,MIT,28275,Canonical Artificial Bee Colony (ABC) optimization with a scikit-learn compatible hyperparameter search
+2026-10-11T14:24:02Z,brewdoc,0.3.0,Maksim Kochetkov <apmatypa88@gmail.com>,MIT,5952750,"Brew any document into LLM-ready Markdown: PDF tables, spreadsheets, docx - no ML, deterministic, with a JSON receipt"
+2026-10-11T14:29:09Z,mnemonic-proxy,0.3.2,Maurizio Verde,MIT,412452,"Transparent proxy that lets local coding agents work for hours: verbatim archive, structured recall, segments with handoff notes, saved engine state."
+2026-10-11T14:29:55Z,mcp-agent-kit,0.1.0,Abhishek Kaushik <abhishekk09827@gmail.com>,MIT,76101,"Production-ready MCP server scaffold with stateless MCP 2026-07-28, A2A Agent Card, and Agent Skill packaging"
+2026-10-11T14:31:25Z,retryflake,0.1.0,AP <intertermux@gmail.com>,MIT,12460,"Run flaky commands with retries, exponential backoff, jitter, and timeouts"
+2026-10-11T14:34:31Z,llmroutes,0.1.0,AP <intertermux@gmail.com>,MIT,17198,Benchmark-driven router for OpenAI-compatible LLM endpoints
+2026-10-11T14:38:54Z,splent-feature-skin-arcade,0.3.0,,LGPL-3.0-or-later,39747,
+2026-10-11T14:42:32Z,splent-feature-editions,0.1.0,,LGPL-3.0-or-later,116086,
+2026-10-11T14:44:27Z,splent-feature-edition-staff,0.1.0,,LGPL-3.0-or-later,69795,
+2026-10-11T14:46:00Z,llm-transport,0.1.0,zsu,MIT,46414,"Run a prompt through the claude CLI or the Anthropic Messages API (direct or via a LiteLLM gateway), with one switch and one result shape."
+2026-10-11T14:47:07Z,splent-feature-survey,0.1.0,,LGPL-3.0-or-later,82077,
+2026-10-11T14:47:15Z,pandass-library,0.1.0,Pandass contributors,MIT,251370,A small importable library of course Jupyter code notebooks
+2026-10-11T14:47:30Z,inkan-standard,1.0.0,RexStarBSV <RexStarBSV@protonmail.com>,Apache-2.0 AND CC0-1.0,246831,"Verify Inkan seals, code fingerprints and warrant canaries — the Apache-2.0 verification path of the Inkan Standard (BRC-145)"
+2026-10-11T14:47:48Z,wavnote,0.1.0,CaseClosed,MIT,858465,Printable multitrack waveform illustrations with timed annotations
+2026-10-11T14:49:21Z,infinity-agent-kit,1.0.0,infinity_system: yin_bailiang,MIT,57556,智能体工程学模板与同步工具：AGENT.md + .agents 体系的单一源头。
+2026-10-11T14:52:36Z,mdict-audio,0.1.0,kibaamor,BSD-3-Clause,87649,Convert audio formats inside MDict dictionary families for playback compatibility
+2026-10-11T14:55:31Z,kite-sa,0.3.0,,MIT,27940,Official Python client for the Kite API: Saudi real-estate listings and market data.
+2026-10-11T14:57:38Z,aiscope-cli,0.1.2,Xplormity Collective,MIT,17067328,"Local audits of AI coding-agent instructions, scopes and conflicts."
+2026-10-11T14:57:56Z,pants-plugin-developer-utils,0.1.0,Zach Gottesman,Apache-2.0,10762,Collection of utilities for writing and testing pantsbuild plugins.
+2026-10-11T14:57:59Z,workbuddy-market,2.27.0,zjs105910,MIT,222600,"Local-first plugin marketplace for WorkBuddy: package local skills, register into WorkBuddy, browse & install from a 127.0.0.1-only web UI"
+2026-10-11T14:58:06Z,safexml,1.0.1,Bailey Nguyen <bailey.tan.nguyen@gmail.com>,MIT,1144997,"High-performance, secure, modern XML parser and drop-in defusedxml replacement built in Rust"
+2026-10-11T15:04:23Z,thole,0.1.0,,MIT OR Apache-2.0,580900,"Pure Rust, no C/Fortran: scientific computing with every algorithm implemented from scratch."
+2026-10-11T15:04:51Z,radia-gpu,0.1.0a1,Radia Development Team,LicenseRef-Radia,395894,Radia CUDA MEX kernels with Simulink blocks and LTspice integration
+2026-10-11T15:08:01Z,grpclette,0.1.0,,MIT,162595,Python-first gRPC services on Starlette.
+2026-10-11T15:08:35Z,pystormflow,0.1.0,Jarle Kramer <jarle.kramer@gmail.com>,GPL-3.0-only,30762,"Python interface to Stormflow, a CFD solver specialized for actuator line simulations with Stormbird."
+2026-10-11T15:09:01Z,reach-security,0.1.0,Adam,AGPL-3.0-or-later,1109825,"Prove what cloud credentials, and the AI agents holding them, can actually reach - SMT-based AWS IAM reasoning with proofs and witnesses."
+2026-10-11T15:09:31Z,pith-optimizer,0.2.0,,MIT,147441,Self-hosted output-token control plane proxy for Claude and OpenAI APIs
+2026-10-11T15:10:38Z,autodba-mcp,0.1.0,Jeff Hogg,MIT,169507,"Zero-database-connection static SQL analysis, query optimization, and execution plan diagnostics MCP server."
+2026-10-11T15:13:43Z,tracelite-logger,0.1.0,Ishoula,MIT,10405,Lightweight structured logging and exception tracking for Python applications
+2026-10-11T15:14:43Z,zesyde,1.0.0,Zoeb Chhatriwala,MIT,116921,"Calibrated, Non-Autoregressive Decision & Routing Foundation Models"
