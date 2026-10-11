@@ -8,60 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 21:18 UTC
+## Latest list — 2026-10-11 22:18 UTC
 
-New packages created between 2026-10-11 20:18 UTC and 2026-10-11 21:18 UTC.
+New packages created between 2026-10-11 21:18 UTC and 2026-10-11 22:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-11T21-18-35-926186Z.csv)
+[Full CSV](data/new-packages-2026-10-11T22-18-50-745589Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-11 20:18:38 | [noisyrng](https://pypi.org/project/noisyrng/) | 0.1.0 |  | 2.7 kB | A random number generator seeded from live system stats (CPU, RAM, disk, networ… |
-| 2026-10-11 20:18:55 | [orlydown](https://pypi.org/project/orlydown/) | 0.1.0 | Ashley Connor, Tobias Bengfort | 12.8 kB | Download O'Reilly books as epub files you can read in any reader |
-| 2026-10-11 20:19:32 | [contexteval](https://pypi.org/project/contexteval/) | 0.2.0 | aakarshan-coding | 215.0 kB | Find out why your RAG app's answer failed: label each failure as missing, irrel… |
-| 2026-10-11 20:20:33 | [holoscan-robotics-cu13](https://pypi.org/project/holoscan-robotics-cu13/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for holoscan_robotics_cu13 |
-| 2026-10-11 20:22:23 | [vra-anac](https://pypi.org/project/vra-anac/) | 0.1.0 | Peter | 52.6 kB | Pontualidade dos voos domésticos do Brasil pelo VRA da ANAC: lê o CSV do mês e… |
-| 2026-10-11 20:22:55 | [bambu-mqtt-comms](https://pypi.org/project/bambu-mqtt-comms/) | 0.1.0 | Aptimex | 64.5 kB | MQTT communication library for Bambu Lab printers |
-| 2026-10-11 20:24:30 | [mcp-event-subscriptions](https://pypi.org/project/mcp-event-subscriptions/) | 0.1.0a1 |  | 82.7 kB | Experimental portable MCP webhook subscription records and JWE envelopes |
-| 2026-10-11 20:26:56 | [qso-graph-contest-mcp](https://pypi.org/project/qso-graph-contest-mcp/) | 0.0.1 | "Greg Beam, KI7MT" <maintaine… | 187.0 kB | Amateur radio contest calendar and rules MCP server — in development |
-| 2026-10-11 20:27:31 | [edgar-ratios](https://pypi.org/project/edgar-ratios/) | 2.0.0 | Owen Alderson | 89.1 kB | Financial ratios straight from SEC filings: type a ticker, get 23 ratios over f… |
-| 2026-10-11 20:29:02 | [sdtoolkit](https://pypi.org/project/sdtoolkit/) | 0.1.0 | Ramesh-xyz | 24.7 kB | Dependency-free standard deviation, variance and relative standard deviation fo… |
-| 2026-10-11 20:29:51 | [gemba-cli](https://pypi.org/project/gemba-cli/) | 0.1.1 | Manuel Robles | 281.2 kB | Gemba: a task-based system for working with AI agents |
-| 2026-10-11 20:32:35 | [sqllocks-shape-behavior](https://pypi.org/project/sqllocks-shape-behavior/) | 0.9.1 |  | 118.9 kB | Shape plugin: behavior models (state machines on a virtual clock) |
-| 2026-10-11 20:32:37 | [sqllocks-shape-dbt](https://pypi.org/project/sqllocks-shape-dbt/) | 0.9.1 |  | 79.9 kB | Shape plugin: dbt integration (import a dbt project, compile contracts to dbt t… |
-| 2026-10-11 20:32:40 | [sqllocks-shape-databases](https://pypi.org/project/sqllocks-shape-databases/) | 0.9.1 |  | 143.4 kB | Shape plugin: live PostgreSQL, MySQL, Snowflake and Databricks sinks, and a Duc… |
-| 2026-10-11 20:36:04 | [synapse-pkg](https://pypi.org/project/synapse-pkg/) | 3.0.0 | Piyush Garg | 98.4 kB | Synapse: Repository Intelligence Engine — local-first structural analysis and r… |
-| 2026-10-11 20:37:26 | [semantic-memory-mcp](https://pypi.org/project/semantic-memory-mcp/) | 1.0.2 | Michael Logies | 41.3 kB | Single-file, self-hosted semantic memory MCP server for AI coding agents |
-| 2026-10-11 20:38:59 | [mayu](https://pypi.org/project/mayu/) | 0.1.0 | Siddid Soni <siddidsoni@gmail… | 18.4 MB | Fast Python task queue with a Rust core, built for free-threaded Python (no-GIL… |
-| 2026-10-11 20:39:07 | [myboard](https://pypi.org/project/myboard/) | 0.1 |  | 1.9 kB |  |
-| 2026-10-11 20:41:32 | [sqllocks-shape-domains](https://pypi.org/project/sqllocks-shape-domains/) | 0.9.1 |  | 2.6 MB | Shape plugin: Industry domains and reference data |
-| 2026-10-11 20:41:32 | [sqllocks-shape-eventhubs](https://pypi.org/project/sqllocks-shape-eventhubs/) | 0.9.1 |  | 42.6 kB | Shape plugin: Azure Event Hubs stream source and event emitter |
-| 2026-10-11 20:41:33 | [sqllocks-shape-fabric](https://pypi.org/project/sqllocks-shape-fabric/) | 0.9.1 |  | 442.9 kB | Shape plugin: Microsoft Fabric, Synapse and Azure Data Factory pipeline integra… |
-| 2026-10-11 20:44:20 | [coursesitetolectures](https://pypi.org/project/coursesitetolectures/) | 0.1.0 | Addison Grant | 68.6 kB | Turn a folder of course materials (lecture notes, slides, example code) into le… |
-| 2026-10-11 20:44:35 | [stt-ru](https://pypi.org/project/stt-ru/) | 0.3.0 | Шкарин Сергей <kouki.sergey@g… | 139.7 kB | Russian speech recognition: Python library, command line tool, web service and… |
-| 2026-10-11 20:45:03 | [sqllocks-shape-healthcare-codes](https://pypi.org/project/sqllocks-shape-healthcare-codes/) | 0.9.1 |  | 1.4 MB | Shape plugin: Healthcare reference code sets, validators and detectors |
-| 2026-10-11 20:45:06 | [sqllocks-shape-integrations](https://pypi.org/project/sqllocks-shape-integrations/) | 0.9.1 |  | 71.4 kB | Shape plugin: OpenLineage, MLflow, Presidio, SDMetrics, Anonymeter and Ibis/Duc… |
-| 2026-10-11 20:45:07 | [sqllocks-shape-healthcare-standards](https://pypi.org/project/sqllocks-shape-healthcare-standards/) | 0.9.1 |  | 176.2 kB | Shape plugin: healthcare standard outputs (X12 837/835/834, FHIR R4, OMOP CDM,… |
-| 2026-10-11 20:45:45 | [easyresearch](https://pypi.org/project/easyresearch/) | 0.1.0 | Ahmad Hassanat <ahmad.hassana… | 160.6 kB | Machine learning without programming: regression, time-series forecasting and s… |
-| 2026-10-11 20:46:15 | [bambu-mqtt-generator](https://pypi.org/project/bambu-mqtt-generator/) | 0.1.0 | Aptimex | 230.1 kB | Generate MQTT JSON payloads for Bambu Lab printer AMS/external spool management |
-| 2026-10-11 20:48:31 | [canvas-term](https://pypi.org/project/canvas-term/) | 0.3.0 | Linux-Viking | 48.4 kB | A command-line interface for Canvas LMS: grades, to-dos, discussions, file down… |
-| 2026-10-11 20:49:40 | [sqllocks-shape-kafka](https://pypi.org/project/sqllocks-shape-kafka/) | 0.9.1 |  | 79.3 kB | Shape plugin: Kafka stream source and event emitter |
-| 2026-10-11 20:49:41 | [sqllocks-shape-sqlserver](https://pypi.org/project/sqllocks-shape-sqlserver/) | 0.9.1 |  | 78.7 kB | Shape plugin: SQL Server, Azure SQL and Fabric SQL database profiling and source |
-| 2026-10-11 20:49:43 | [sqllocks-shape-simulation](https://pypi.org/project/sqllocks-shape-simulation/) | 0.9.1 |  | 176.9 kB | Shape plugin: Simulation scenarios |
-| 2026-10-11 20:52:26 | [eidos-ai](https://pypi.org/project/eidos-ai/) | 0.1.0 | Eidos Contributors | 216.3 kB | Git-Native, Agent-Agnostic Development AI Ecosystem & Lifecycle Orchestrator |
-| 2026-10-11 20:53:55 | [pyscopegui](https://pypi.org/project/pyscopegui/) | 0.1.0 | davhodg | 658.5 kB | Oscilloscopes and logic analysers in one view: analog and logic channels from s… |
-| 2026-10-11 20:55:46 | [inference-doctor](https://pypi.org/project/inference-doctor/) | 0.4.0 | Dundy Pasupuleti <dundysm@gma… | 117.5 kB | Performance regression gate for LLM inference benchmarks that checks measuremen… |
-| 2026-10-11 20:56:06 | [emudb-api-py](https://pypi.org/project/emudb-api-py/) | 0.1.0 | Chris Larabee | 45.5 kB | Strictly typed python library facilitating access to the Axiell EMu Collections… |
-| 2026-10-11 20:56:57 | [tupase-mcp](https://pypi.org/project/tupase-mcp/) | 0.1.1 |  | 260.2 kB | Cliente MCP no oficial para Tupase: busca, reserva y cancela actividades desde… |
-| 2026-10-11 20:58:31 | [atlantic-games](https://pypi.org/project/atlantic-games/) | 0.1.0 | Lukas Karlsson <lukwam@gmail.… | 203.8 kB | Unofficial Python client for The Atlantic's games: Bracket City, the Crossword,… |
-| 2026-10-11 20:58:57 | [claudecodestreaming](https://pypi.org/project/claudecodestreaming/) | 0.1.0 | Eliran Wong | 15.5 kB | Stream text from the signed-in Claude Code CLI |
-| 2026-10-11 21:03:34 | [titlepy](https://pypi.org/project/titlepy/) | 1.0.0 | SupremeXD4925 | 4.6 kB | A lightweight Python library for changing Windows console titles |
-| 2026-10-11 21:06:15 | [iris-harness](https://pypi.org/project/iris-harness/) | 0.1.0 | IRIS Development Team | 5.9 MB | IRIS - Intelligent Reasoning & Integration System: Privacy-first agentic AI ass… |
-| 2026-10-11 21:08:45 | [librarian-a2a](https://pypi.org/project/librarian-a2a/) | 0.10.0 | kultar | 277.8 kB | An A2A agent that learns APIs on demand and gives other agents safe, audited ac… |
-| 2026-10-11 21:08:56 | [myboard-siva](https://pypi.org/project/myboard-siva/) | 0.1.0 | Sathish Kumar | 2.9 kB | Simple BFS demo package |
-| 2026-10-11 21:09:29 | [fastnascar](https://pypi.org/project/fastnascar/) | 0.1.0 |  | 55.6 kB | Pandas-based NASCAR sessions, laps, results, and live timing |
-| 2026-10-11 21:13:56 | [powercontract](https://pypi.org/project/powercontract/) | 0.1.0 | Sidelobe | 39.7 kB | Validate oscilloscope captures against executable electrical requirements. |
-| 2026-10-11 21:14:19 | [simt-dev](https://pypi.org/project/simt-dev/) | 0.2.0 | Said Elimam | 865.3 kB | Shared agent rules, skills and git hooks for a repository: one command adopts a… |
-| 2026-10-11 21:14:53 | [weft-usd](https://pypi.org/project/weft-usd/) | 0.1.0 | Ashraf Ghoniem | 431.7 kB | weft: see a USD stage as data -- derive relationships, query surgically, certif… |
-| 2026-10-11 21:16:19 | [wechat-mcp-xiongwe](https://pypi.org/project/wechat-mcp-xiongwe/) | 0.2.1 | Banghao Chi <banghao2@illinoi… | 191.1 kB | WeChat MCP server for reading and replying to messages via macOS Accessibility… |
-| 2026-10-11 21:17:33 | [portulong](https://pypi.org/project/portulong/) | 0.0.1 | Silvio | 1.3 MB | Linguagem 100% PT-PT para desenvolvimento web — interpretador, servidor e exten… |
+| 2026-10-11 21:18:54 | [modewise](https://pypi.org/project/modewise/) | 0.2.0 | Ian Philip Eglin | 31.5 MB | Data-adaptive mode decomposition and analysis of multichannel signals (fMRI, EE… |
+| 2026-10-11 21:19:24 | [langchain-econdash](https://pypi.org/project/langchain-econdash/) | 0.1.0 | EconDash <noderguru@gmail.com> | 15.5 kB | LangChain tools for EconDash macroeconomic data. Same free trial, API key and p… |
+| 2026-10-11 21:22:10 | [mcplens-scanner](https://pypi.org/project/mcplens-scanner/) | 0.1.0 | Karmendra Pandey | 50.1 kB | MCP server security scanner with runtime behavioral verification — checks that… |
+| 2026-10-11 21:25:05 | [nz-supermarket-scraper](https://pypi.org/project/nz-supermarket-scraper/) | 0.1.0 | Liu Jie <maxazure@gmail.com> | 147.4 kB | CLI to scrape fresh produce and meat prices from PAK'nSAVE, New World and Woolw… |
+| 2026-10-11 21:28:01 | [jaro](https://pypi.org/project/jaro/) | 0.1.17 |  | 64.3 kB | JARO text and binary data format (pure Python) |
+| 2026-10-11 21:28:06 | [pyflashgui](https://pypi.org/project/pyflashgui/) | 0.1.0 | davhodg | 649.4 kB | Graphical flash programming tool: Arm Cortex-M with any probe pyOCD supports, a… |
+| 2026-10-11 21:31:01 | [threshold-opt](https://pypi.org/project/threshold-opt/) | 0.1.0 | Carlo Lemos <vitaliset@users.… | 77.8 kB | Threshold optimization for binary and multiclass classification |
+| 2026-10-11 21:32:03 | [ventimath](https://pypi.org/project/ventimath/) | 0.1.0 |  | 27.1 kB | Small standard-library client for VentiMath answer keys and profile skill tags |
+| 2026-10-11 21:32:26 | [avrik-server](https://pypi.org/project/avrik-server/) | 1.0.0 | Avrik AI | 151.8 kB | Avrik server: readout, calibration, /v1/systemone API and inference backends. |
+| 2026-10-11 21:32:29 | [avrik-sdk](https://pypi.org/project/avrik-sdk/) | 1.0.0 | Avrik AI | 31.1 kB | Python client for Avrik decision models: calibrated probabilities from /v1/syst… |
+| 2026-10-11 21:32:31 | [avrik](https://pypi.org/project/avrik/) | 1.0.0 | Avrik AI | 40.8 kB | Avrik: run the Avrik decision models locally (pull, ask, serve). |
+| 2026-10-11 21:33:54 | [glassllm](https://pypi.org/project/glassllm/) | 0.1.0 | Oséias Dias de Farias | 6.4 MB | A small Transformer written from scratch in NumPy, built to be looked at. |
+| 2026-10-11 21:36:58 | [pylumencache](https://pypi.org/project/pylumencache/) | 0.0.1 | Vamsi Krishna Adsumilli | 92.9 kB | Unofficial Python client for LumenCache ReNetA lighting |
+| 2026-10-11 21:37:59 | [gipy-gis](https://pypi.org/project/gipy-gis/) | 0.0.4 | "Saeed Behzadi , Ghazal Heyda… | 32.3 MB | a Python package for GIS and spatial data processing. |
+| 2026-10-11 21:38:13 | [llm-zipper](https://pypi.org/project/llm-zipper/) | 0.0.1 | The LLM-zipper Authors | 15.9 kB | Open-source framework for cheaper, faster, energy-efficient LLMs. Know before y… |
+| 2026-10-11 21:40:05 | [openmm-nonbonded-slicing-cuda-12](https://pypi.org/project/openmm-nonbonded-slicing-cuda-12/) | 0.3.0.post2 | Charlles Abreu | 402.1 kB | CUDA 12 platform for openmm-nonbonded-slicing |
+| 2026-10-11 21:40:06 | [openmm-nonbonded-slicing-cuda-13](https://pypi.org/project/openmm-nonbonded-slicing-cuda-13/) | 0.3.0.post2 | Charlles Abreu | 402.0 kB | CUDA 13 platform for openmm-nonbonded-slicing |
+| 2026-10-11 21:42:19 | [vitruvian-roborock](https://pypi.org/project/vitruvian-roborock/) | 0.1.0 | VitruvianSoftware | 751.9 kB | Local daemon, CLI (rrctl) and MCP server for Roborock vacuums |
+| 2026-10-11 21:44:01 | [grip-sdk](https://pypi.org/project/grip-sdk/) | 0.3.3 | theshoaib <shoaib@theshoaib.m… | 152.5 kB | Python client SDK for Grip Platform (https://grip.theshoaib.me/) |
+| 2026-10-11 21:47:57 | [openmm-nonbonded-slicing](https://pypi.org/project/openmm-nonbonded-slicing/) | 0.3.0.post2 | Charlles Abreu | 7.2 MB | An OpenMM plugin for slicing nonbonded interactions |
+| 2026-10-11 21:50:32 | [jaro-native](https://pypi.org/project/jaro-native/) | 0.1.15 |  | 998.1 kB | Optional native (Rust, PyO3) decoder for the JARO binary format |
+| 2026-10-11 21:51:17 | [scale-catal](https://pypi.org/project/scale-catal/) | 0.2.0 | SCALE contributors | 1.6 MB | SCALE — Shared Concepts, Attributes, and Links with Evidence: one shared framew… |
+| 2026-10-11 21:58:35 | [diskcache-community](https://pypi.org/project/diskcache-community/) | 5.7.0 | Grant Jenks | 154.6 kB | Disk Cache -- Disk and file backed persistent cache. |
+| 2026-10-11 22:00:36 | [yt-dlp-ge](https://pypi.org/project/yt-dlp-ge/) | 0.1.0 | yt-dlp global-extractor bridg… | 64.6 kB | yt-dlp bridge plugin for JMcrafter26/global-extractor JS extractors |
+| 2026-10-11 22:05:23 | [gamehome](https://pypi.org/project/gamehome/) | 0.0.0 |  | 1.3 kB | Name reservation |
+| 2026-10-11 22:06:44 | [cal-mcp](https://pypi.org/project/cal-mcp/) | 0.1.0 |  | 1.2 MB | Read-only MCP adapter for the Comprehensive Aramaic Lexicon |
+| 2026-10-11 22:09:48 | [octopus-sensing-plux](https://pypi.org/project/octopus-sensing-plux/) | 1.0.0 | Nastaran Saffaryazdi | 1.2 MB | PLUX devices (biosignalsplux, BITalino) support for Octopus Sensing |
+| 2026-10-11 22:11:45 | [resilientfile](https://pypi.org/project/resilientfile/) | 0.1.0 | ResilientFile Contributors | 52.7 kB | Reed-Solomon file protection and recovery library |
+| 2026-10-11 22:12:32 | [systraylist](https://pypi.org/project/systraylist/) | 0.1.8 | Hadi Cahyadi <cumulus13@gmail… | 16.6 kB | List Windows systray icons and activate one by number |
+| 2026-10-11 22:14:36 | [aap-demo](https://pypi.org/project/aap-demo/) | 2.0.0.dev0 | Red Hat | 38.6 MB | Deploy Ansible Automation Platform 2.7 to OpenShift Local (MicroShift or OpenSh… |

@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T21:18:54Z,modewise,0.2.0,Ian Philip Eglin,BSD-3-Clause,31459197,"Data-adaptive mode decomposition and analysis of multichannel signals (fMRI, EEG), with a Rust core"
+2026-10-11T21:19:24Z,langchain-econdash,0.1.0,EconDash <noderguru@gmail.com>,MIT,15462,"LangChain tools for EconDash macroeconomic data. Same free trial, API key and pay-per-call rules as the econdash client."
+2026-10-11T21:22:10Z,mcplens-scanner,0.1.0,Karmendra Pandey,MIT,50087,MCP server security scanner with runtime behavioral verification — checks that tools actually do what their descriptions claim.
+2026-10-11T21:25:05Z,nz-supermarket-scraper,0.1.0,Liu Jie <maxazure@gmail.com>,MIT,147421,"CLI to scrape fresh produce and meat prices from PAK'nSAVE, New World and Woolworths NZ (Countdown) stores."
+2026-10-11T21:28:01Z,jaro,0.1.17,,MIT,64290,JARO text and binary data format (pure Python)
+2026-10-11T21:28:06Z,pyflashgui,0.1.0,davhodg,Apache-2.0,649399,"Graphical flash programming tool: Arm Cortex-M with any probe pyOCD supports, and more through J-Link Commander"
+2026-10-11T21:31:01Z,threshold-opt,0.1.0,Carlo Lemos <vitaliset@users.noreply.github.com>,MIT,77802,Threshold optimization for binary and multiclass classification
+2026-10-11T21:32:03Z,ventimath,0.1.0,,,27076,Small standard-library client for VentiMath answer keys and profile skill tags
+2026-10-11T21:32:26Z,avrik-server,1.0.0,Avrik AI,Apache-2.0,151843,"Avrik server: readout, calibration, /v1/systemone API and inference backends."
+2026-10-11T21:32:29Z,avrik-sdk,1.0.0,Avrik AI,Apache-2.0,31145,Python client for Avrik decision models: calibrated probabilities from /v1/systemone.
+2026-10-11T21:32:31Z,avrik,1.0.0,Avrik AI,Apache-2.0,40805,"Avrik: run the Avrik decision models locally (pull, ask, serve)."
+2026-10-11T21:33:54Z,glassllm,0.1.0,Oséias Dias de Farias,MIT,6430708,"A small Transformer written from scratch in NumPy, built to be looked at."
+2026-10-11T21:36:58Z,pylumencache,0.0.1,Vamsi Krishna Adsumilli,Apache-2.0,92859,Unofficial Python client for LumenCache ReNetA lighting
+2026-10-11T21:37:59Z,gipy-gis,0.0.4,"""Saeed Behzadi , Ghazal Heydararabi"" <behzadi.saeed@gmail.com>, Ghazal Heydararabi <harabighazal85@…",MIT,32285035,a Python package for GIS and spatial data processing.
+2026-10-11T21:38:13Z,llm-zipper,0.0.1,The LLM-zipper Authors,Apache-2.0,15890,"Open-source framework for cheaper, faster, energy-efficient LLMs. Know before you compress."
+2026-10-11T21:40:05Z,openmm-nonbonded-slicing-cuda-12,0.3.0.post2,Charlles Abreu,MIT,402082,CUDA 12 platform for openmm-nonbonded-slicing
+2026-10-11T21:40:06Z,openmm-nonbonded-slicing-cuda-13,0.3.0.post2,Charlles Abreu,MIT,402048,CUDA 13 platform for openmm-nonbonded-slicing
+2026-10-11T21:42:19Z,vitruvian-roborock,0.1.0,VitruvianSoftware,MIT,751870,"Local daemon, CLI (rrctl) and MCP server for Roborock vacuums"
+2026-10-11T21:44:01Z,grip-sdk,0.3.3,theshoaib <shoaib@theshoaib.me>,MIT,152469,Python client SDK for Grip Platform (https://grip.theshoaib.me/)
+2026-10-11T21:47:57Z,openmm-nonbonded-slicing,0.3.0.post2,Charlles Abreu,MIT,7236364,An OpenMM plugin for slicing nonbonded interactions
+2026-10-11T21:50:32Z,jaro-native,0.1.15,,MIT,998093,"Optional native (Rust, PyO3) decoder for the JARO binary format"
+2026-10-11T21:51:17Z,scale-catal,0.2.0,SCALE contributors,MIT AND CC-BY-4.0,1588636,"SCALE — Shared Concepts, Attributes, and Links with Evidence: one shared framework for evidence-backed scientific knowledge graphs across domains (science kernel; catalysis first)."
+2026-10-11T21:58:35Z,diskcache-community,5.7.0,Grant Jenks,Apache-2.0,154592,Disk Cache -- Disk and file backed persistent cache.
+2026-10-11T22:00:36Z,yt-dlp-ge,0.1.0,yt-dlp global-extractor bridge contributors,MIT,64633,yt-dlp bridge plugin for JMcrafter26/global-extractor JS extractors
+2026-10-11T22:05:23Z,gamehome,0.0.0,,,1315,Name reservation
+2026-10-11T22:06:44Z,cal-mcp,0.1.0,,MIT,1176766,Read-only MCP adapter for the Comprehensive Aramaic Lexicon
+2026-10-11T22:09:48Z,octopus-sensing-plux,1.0.0,Nastaran Saffaryazdi,GPL-3.0-or-later,1245874,"PLUX devices (biosignalsplux, BITalino) support for Octopus Sensing"
+2026-10-11T22:11:45Z,resilientfile,0.1.0,ResilientFile Contributors,MIT,52740,Reed-Solomon file protection and recovery library
+2026-10-11T22:12:32Z,systraylist,0.1.8,Hadi Cahyadi <cumulus13@gmail.com>,,16602,List Windows systray icons and activate one by number
+2026-10-11T22:14:36Z,aap-demo,2.0.0.dev0,Red Hat,Apache-2.0,38623804,Deploy Ansible Automation Platform 2.7 to OpenShift Local (MicroShift or OpenShift preset)
