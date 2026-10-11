@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T01:21:33Z,microdlms,0.1.0,denpamusic,MIT,112269,"Lightweight, zero-core-dependency DLMS/COSEM meter client for Python 3.14+"
+2026-10-11T01:25:49Z,ibr-faultscreen,0.1.0,Shaibu Ibrahim,GPL-3.0-or-later,205186,Fault-scenario screening for grids with inverter-based resources
+2026-10-11T01:27:30Z,dcc-mcp-excel,0.1.1,Long Hao <hal.long@outlook.com>,MIT,99378,Excel adapter for the DCC-MCP ecosystem — headless Workbook IR to XLSX compile with read-back verification over the dcc-mcp-office runtime
+2026-10-11T01:29:45Z,vita-tree,1.0.0,Vita Tree contributors,MIT,5589382,"A local Git and LaTeX CV workspace with branch comparison, editing, and PDF previews"
+2026-10-11T01:34:16Z,exhibita,0.1.0,dhruvdumra,MIT,110665,"AI security reviewer that proves the fix: exploit it, patch it, verify it — on an open model, offline."
+2026-10-11T01:39:48Z,backpack-store,0.1.0,Ella Inng,MIT,40443,Store and retrieve typed local records with identity and provenance.
+2026-10-11T01:41:42Z,hidden-moves-mcp,0.1.0,Ella Inng,MIT,20613,Expose selected Python capabilities through the Model Context Protocol.
+2026-10-11T01:41:56Z,mm-aggr-sdk,0.1.1,MainMoney SARL,MIT,240984,Python SDK for the MainMoney aggregator merchant API
+2026-10-11T01:45:00Z,hidden-moves-openai,0.1.0,Ella Inng,MIT,13146,Export selected Python capabilities as OpenAI Responses function tools.
+2026-10-11T01:45:36Z,atif-sql,0.2.0,Laith Al-Saadoon,Apache-2.0,1017436,"ATIF-native analytics over Claude Code agent trajectories: convert, materialize, and query agent sessions with DuckDB."
+2026-10-11T01:45:48Z,phocinae-cli,0.1.0,Phocinae,MIT,59476,斑海豹 Phocinae CLI — 一行命令本地决策（phocinae-server /v1/systemone 客户端，含 fail-closed 命令审批门）
+2026-10-11T01:46:59Z,jevrake,0.1.2,RKasai127,MIT,40662,Selector-free web scraping powered by TypeSafe AI's Jev
+2026-10-11T01:47:41Z,hidden-moves-github-projects,0.1.0,Ella Inng,MIT,43169,Read and explicitly edit GitHub Projects through typed Python operations.
+2026-10-11T01:49:17Z,f-layer,2.0.1,Fuzzy Technologies,Apache-2.0,4188357,Deploy and manage cloud gateways with explicit project configuration
+2026-10-11T01:51:02Z,sip-doctor,0.3.2,Ramesh Audireddy,,210342,"Trace SIP calls (UDP, TCP, TLS, proxies, HEP) live on a Linux server or from pcap files, and explain failures"
+2026-10-11T01:53:10Z,fontpkg-encode-sans,3.2,,OFL-1.1,133800,"Encode Sans font family, packaged for Python by fontpkg"
+2026-10-11T01:53:12Z,fontpkg-geist-mono,1.701,,OFL-1.1,194966,"Geist Mono font family, packaged for Python by fontpkg"
+2026-10-11T01:53:14Z,fontpkg-saira-condensed,0.72,,OFL-1.1,420783,"Saira Condensed font family, packaged for Python by fontpkg"
+2026-10-11T01:53:17Z,fontpkg-space-mono,1.3,,OFL-1.1,204640,"Space Mono font family, packaged for Python by fontpkg"
+2026-10-11T01:55:37Z,cps-twin,0.1.2,CPS Contributors,MIT,210772,"Nereus (同衡) — deterministic digital-twin simulation kernels (warehouse + factory), layout validator, and headless CLI — CPS standard edition"
+2026-10-11T01:58:07Z,fatoority,0.4.0,mqqz,MIT OR Apache-2.0,81950468,"Python bindings for the fatoority library, providing ZATCA-compliant e-invoicing functionality."
+2026-10-11T02:09:53Z,rich-struct,0.1.0,Mirek Wiertel,MIT,23437,"rich.print with 21 popular editor themes (Tokyo Night, Dracula, Nord, ...) and print_md/json/yaml/xml/object/table helpers"
+2026-10-11T02:11:46Z,mrm-ai-detector,1.0.0,Anirudh Jayaraman,MIT,137373,"Detect AI-generated content in model risk management documentation (validation reports, model documentation, MRM policies)."
+2026-10-11T02:17:20Z,optionctl,0.1.0,jwmoss,Apache-2.0,60261,

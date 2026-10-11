@@ -8,36 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 01:18 UTC
+## Latest list — 2026-10-11 02:18 UTC
 
-New packages created between 2026-10-11 00:19 UTC and 2026-10-11 01:18 UTC.
+New packages created between 2026-10-11 01:18 UTC and 2026-10-11 02:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-11T01-18-56-406614Z.csv)
+[Full CSV](data/new-packages-2026-10-11T02-18-31-950484Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-11 00:19:48 | [dastropy](https://pypi.org/project/dastropy/) | 0.1.0a0 | Dóra Tarczay-Nehéz | 2.6 kB | Python tools for the DASTRO astrophysical simulation code |
-| 2026-10-11 00:22:23 | [ocactivity-gen](https://pypi.org/project/ocactivity-gen/) | 1.0.7 | Jiří Vik <mimic2300@gmail.com> | 24.9 MB | Nástroj pro generování obrázků aktivity z GPX/FIT nebo dle vlastního zadání. |
-| 2026-10-11 00:24:08 | [ai-handoff](https://pypi.org/project/ai-handoff/) | 0.1.0 | kdev1966 | 146.9 kB | Shared, persistent memory that lets AI assistants hand work over to each other,… |
-| 2026-10-11 00:24:24 | [AGIDMGen](https://pypi.org/project/AGIDMGen/) | 0.1.0 | Albert Gold <AlexXianZhenYuAu… | 195.8 kB | Generates identity mods (a character's own model, written out as a mod) for 3DM… |
-| 2026-10-11 00:27:54 | [articulatearena](https://pypi.org/project/articulatearena/) | 0.1.0 | Yumeng He <heyumeng0928@gmail… | 128.6 kB | A quotient metric on articulated kinematics via Lie-algebra endpoint twists |
-| 2026-10-11 00:34:24 | [boo-boo](https://pypi.org/project/boo-boo/) | 0.1.0 | Terry Eppler | 2.2 MB | GPT, Gemini, and Grok Streamlit assistant for multimodal workflows and document… |
-| 2026-10-11 00:36:15 | [cue-notify-client](https://pypi.org/project/cue-notify-client/) | 0.1.0 | Murtazo Xurramov | 145.6 kB | Python client for Cue: send events and messages, and verify Cue's signed webhoo… |
-| 2026-10-11 00:36:51 | [trustxai](https://pypi.org/project/trustxai/) | 0.1.0 | Mariam Zakaria <researcher@ex… | 34.1 kB | A Unified Diagnostic Framework for Assessing Explanation Stability, Uncertainty… |
-| 2026-10-11 00:36:55 | [afx-audio](https://pypi.org/project/afx-audio/) | 0.3.0 | Danilo Pena | 344.3 kB | Audio feature extraction for machine learning: 47 time, spectral, cepstral, har… |
-| 2026-10-11 00:37:45 | [CoreApiii](https://pypi.org/project/CoreApiii/) | 0.1.2 | Castaño | 5.8 kB | Host API Servers and More! |
-| 2026-10-11 00:37:53 | [khdl](https://pypi.org/project/khdl/) | 0.1.0 | Karel Peeters | 71.3 MB | Python bindings for KHDL, an experimental new language for hardware design. |
-| 2026-10-11 00:38:38 | [pythometer](https://pypi.org/project/pythometer/) | 0.0.0 | Aly Shmahell | 1.9 kB |  |
-| 2026-10-11 00:38:56 | [rouge-score-rs](https://pypi.org/project/rouge-score-rs/) | 0.1.0 | Alex Kholodniak <alexandrkhol… | 2.7 MB | Fast ROUGE scoring for Python: an independent Rust implementation compatible wi… |
-| 2026-10-11 00:39:08 | [gpuwm-cm1](https://pypi.org/project/gpuwm-cm1/) | 0.1.0 |  | 16.7 MB | CM1 r21.1 on one NVIDIA GPU: import a CM1 namelist, run it, get CM1-format outp… |
-| 2026-10-11 00:49:13 | [PGPCbot](https://pypi.org/project/PGPCbot/) | 0.1.0 | PGP Chat | 659.2 kB | Bots for PGP Chat: the whole Bot API, end-to-end encryption included. |
-| 2026-10-11 00:55:17 | [gipity-py](https://pypi.org/project/gipity-py/) | 0.1.0 | Terry Eppler | 43.2 MB | OpenAI GPT Streamlit assistant for multimodal workflows and document retrieval |
-| 2026-10-11 00:55:42 | [pyrfcx](https://pypi.org/project/pyrfcx/) | 0.1.0 | BougeBouge Consulting | 1.6 MB | Modern SAP NW RFC client for Python |
-| 2026-10-11 00:55:49 | [pyrfcx-compat](https://pypi.org/project/pyrfcx-compat/) | 0.1.0 | BougeBouge Consulting | 16.0 kB | pyrfc-compatible facade over pyrfcx |
-| 2026-10-11 01:00:02 | [weflow-sdk](https://pypi.org/project/weflow-sdk/) | 0.9.0 | ren-yc | 219.5 kB | Typed Python client for weflow-server's HTTP API (generated models + handwritte… |
-| 2026-10-11 01:01:13 | [qqflow-sdk](https://pypi.org/project/qqflow-sdk/) | 0.9.0 | ren-yc | 213.1 kB | Typed Python client for qqflow-server's HTTP API (generated models + handwritte… |
-| 2026-10-11 01:01:22 | [company-id-validators](https://pypi.org/project/company-id-validators/) | 0.1.0 | Prometiam | 24.5 kB | Offline validators for European company identifiers and EU VAT numbers: check d… |
-| 2026-10-11 01:01:43 | [loca-py](https://pypi.org/project/loca-py/) | 0.1.0 | Terry Eppler | 1.7 MB | Local GGUF Streamlit assistant for text generation, retrieval, and data managem… |
-| 2026-10-11 01:04:55 | [timefire](https://pypi.org/project/timefire/) | 0.1.0 | Cromwell Works LLC | 400.6 kB | Timefire's resolved forecast record as DataFrames, with local signature verific… |
-| 2026-10-11 01:08:12 | [shade-sdk](https://pypi.org/project/shade-sdk/) | 0.2.0 | ShadeOne | 22.4 kB | O runtime dos robôs da ShadeOne: ledger por chave de negócio, recuperação, rela… |
-| 2026-10-11 01:17:20 | [iyrin-py](https://pypi.org/project/iyrin-py/) | 0.2.0 | Terry Eppler | 2.6 MB | Streamlit geospatial toolkit for mapping, scientific data, AI processing, and v… |
+| 2026-10-11 01:21:33 | [microdlms](https://pypi.org/project/microdlms/) | 0.1.0 | denpamusic | 112.3 kB | Lightweight, zero-core-dependency DLMS/COSEM meter client for Python 3.14+ |
+| 2026-10-11 01:25:49 | [ibr-faultscreen](https://pypi.org/project/ibr-faultscreen/) | 0.1.0 | Shaibu Ibrahim | 205.2 kB | Fault-scenario screening for grids with inverter-based resources |
+| 2026-10-11 01:27:30 | [dcc-mcp-excel](https://pypi.org/project/dcc-mcp-excel/) | 0.1.1 | Long Hao <hal.long@outlook.co… | 99.4 kB | Excel adapter for the DCC-MCP ecosystem — headless Workbook IR to XLSX compile… |
+| 2026-10-11 01:29:45 | [vita-tree](https://pypi.org/project/vita-tree/) | 1.0.0 | Vita Tree contributors | 5.6 MB | A local Git and LaTeX CV workspace with branch comparison, editing, and PDF pre… |
+| 2026-10-11 01:34:16 | [exhibita](https://pypi.org/project/exhibita/) | 0.1.0 | dhruvdumra | 110.7 kB | AI security reviewer that proves the fix: exploit it, patch it, verify it — on… |
+| 2026-10-11 01:39:48 | [backpack-store](https://pypi.org/project/backpack-store/) | 0.1.0 | Ella Inng | 40.4 kB | Store and retrieve typed local records with identity and provenance. |
+| 2026-10-11 01:41:42 | [hidden-moves-mcp](https://pypi.org/project/hidden-moves-mcp/) | 0.1.0 | Ella Inng | 20.6 kB | Expose selected Python capabilities through the Model Context Protocol. |
+| 2026-10-11 01:41:56 | [mm-aggr-sdk](https://pypi.org/project/mm-aggr-sdk/) | 0.1.1 | MainMoney SARL | 241.0 kB | Python SDK for the MainMoney aggregator merchant API |
+| 2026-10-11 01:45:00 | [hidden-moves-openai](https://pypi.org/project/hidden-moves-openai/) | 0.1.0 | Ella Inng | 13.1 kB | Export selected Python capabilities as OpenAI Responses function tools. |
+| 2026-10-11 01:45:36 | [atif-sql](https://pypi.org/project/atif-sql/) | 0.2.0 | Laith Al-Saadoon | 1.0 MB | ATIF-native analytics over Claude Code agent trajectories: convert, materialize… |
+| 2026-10-11 01:45:48 | [phocinae-cli](https://pypi.org/project/phocinae-cli/) | 0.1.0 | Phocinae | 59.5 kB | 斑海豹 Phocinae CLI — 一行命令本地决策（phocinae-server /v1/systemone 客户端，含 fail-closed 命令审… |
+| 2026-10-11 01:46:59 | [jevrake](https://pypi.org/project/jevrake/) | 0.1.2 | RKasai127 | 40.7 kB | Selector-free web scraping powered by TypeSafe AI's Jev |
+| 2026-10-11 01:47:41 | [hidden-moves-github-projects](https://pypi.org/project/hidden-moves-github-projects/) | 0.1.0 | Ella Inng | 43.2 kB | Read and explicitly edit GitHub Projects through typed Python operations. |
+| 2026-10-11 01:49:17 | [f-layer](https://pypi.org/project/f-layer/) | 2.0.1 | Fuzzy Technologies | 4.2 MB | Deploy and manage cloud gateways with explicit project configuration |
+| 2026-10-11 01:51:02 | [sip-doctor](https://pypi.org/project/sip-doctor/) | 0.3.2 | Ramesh Audireddy | 210.3 kB | Trace SIP calls (UDP, TCP, TLS, proxies, HEP) live on a Linux server or from pc… |
+| 2026-10-11 01:53:10 | [fontpkg-encode-sans](https://pypi.org/project/fontpkg-encode-sans/) | 3.2 |  | 133.8 kB | Encode Sans font family, packaged for Python by fontpkg |
+| 2026-10-11 01:53:12 | [fontpkg-geist-mono](https://pypi.org/project/fontpkg-geist-mono/) | 1.701 |  | 195.0 kB | Geist Mono font family, packaged for Python by fontpkg |
+| 2026-10-11 01:53:14 | [fontpkg-saira-condensed](https://pypi.org/project/fontpkg-saira-condensed/) | 0.72 |  | 420.8 kB | Saira Condensed font family, packaged for Python by fontpkg |
+| 2026-10-11 01:53:17 | [fontpkg-space-mono](https://pypi.org/project/fontpkg-space-mono/) | 1.3 |  | 204.6 kB | Space Mono font family, packaged for Python by fontpkg |
+| 2026-10-11 01:55:37 | [cps-twin](https://pypi.org/project/cps-twin/) | 0.1.2 | CPS Contributors | 210.8 kB | Nereus (同衡) — deterministic digital-twin simulation kernels (warehouse + factor… |
+| 2026-10-11 01:58:07 | [fatoority](https://pypi.org/project/fatoority/) | 0.4.0 | mqqz | 82.0 MB | Python bindings for the fatoority library, providing ZATCA-compliant e-invoicin… |
+| 2026-10-11 02:09:53 | [rich-struct](https://pypi.org/project/rich-struct/) | 0.1.0 | Mirek Wiertel | 23.4 kB | rich.print with 21 popular editor themes (Tokyo Night, Dracula, Nord, ...) and… |
+| 2026-10-11 02:11:46 | [mrm-ai-detector](https://pypi.org/project/mrm-ai-detector/) | 1.0.0 | Anirudh Jayaraman | 137.4 kB | Detect AI-generated content in model risk management documentation (validation… |
+| 2026-10-11 02:17:20 | [optionctl](https://pypi.org/project/optionctl/) | 0.1.0 | jwmoss | 60.3 kB |  |
