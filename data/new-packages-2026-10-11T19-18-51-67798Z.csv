@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T18:20:57Z,busy-crew,1.1.0,,MIT,462632,Claude and Codex sessions on a BUSY Bar's front LED display
+2026-10-11T18:23:47Z,rortable,0.1.0,,,4083,
+2026-10-11T18:26:00Z,llm-wiki-kit,0.3.0,Griffin Hackley,MIT,1250283,"Start and run an LLM-maintained wiki with any agent: presets, workflow guides, search, typed relations and guided navigation."
+2026-10-11T18:26:50Z,nx-arrow,0.1.0,,BSD-3-Clause OR MIT,34389,Columnar graph storage for NetworkX backed by Apache Arrow
+2026-10-11T18:26:58Z,jackthesolo,0.2.0,,MIT,66858,"jackthesolo - downloader semua platform (video, musik, file, cloud-drive)"
+2026-10-11T18:29:07Z,harper-py,0.1.0,Maksim Burtsev <mburtsev17@gmail.com>,Apache-2.0,80553334,"Python bindings for Harper, the fast offline English grammar checker written in Rust — no Java, no server"
+2026-10-11T18:29:18Z,conformatlas,1.0.0,"Atharva Tilewale, Dhaval Patel",MIT,1189450,ConformAtlas: mapping conformational landscapes from molecular simulations
+2026-10-11T18:29:54Z,beetkeeper-api-client,0.12.0,Zach Gottesman,AGPL-3.0-or-later,89520,"Python client for the beetkeeper REST API, generated from its OpenAPI spec."
+2026-10-11T18:30:26Z,wing-font,1.0.0,Law Wai Chun,MIT,303014,"Build phonetic-annotation fonts (ruby above each character) from a base font, an annotation font and a character→reading CSV."
+2026-10-11T18:32:12Z,backlinker,2.0.0,Owen Alderson,MIT,89113,"Capture a line from your terminal into today's Obsidian daily note, with [[links]] to the people, companies and topics already in your vault."
+2026-10-11T18:32:17Z,outreach-desk,2.0.0,Owen Alderson,MIT,114041,"A self-hosted outreach desk: Claude writes the emails, Jev makes the calls, you approve every send. With an n8n node."
+2026-10-11T18:32:24Z,meeting-ledger,2.0.0,Owen Alderson,MIT,96474,"Your meetings, on the record: who decided what, who promised what, and whether it happened. Claude extracts, Jev or Kev checks, you review."
+2026-10-11T18:35:24Z,cronkit,0.2.0,Milind Shekhawat <milindshekhawat10@gmail.com>,MIT,57627,Lightweight Python framework for production cron jobs
+2026-10-11T18:35:25Z,redclaw,1.0.1,Bedrettin Cakmak,MIT,353169,"Adversarial red-team framework for AI agents, built on the AATCK taxonomy"
+2026-10-11T18:36:17Z,tracon,0.1.0,Josh Auriemma,MIT,159601,"Air traffic control for parallel Claude Code subagents: live TUI flags stuck, blocked, drifting agents, file conflicts"
+2026-10-11T18:37:43Z,bbm-atlas,1.0.0rc1,Amit Chandra,LicenseRef-BBM-Atlas,780503,"BBM-Atlas: structural code intelligence for AI assistants - parsing, graph, memory, retrieval, and compression over REST, MCP, and CLI."
+2026-10-11T18:40:22Z,rortest,0.1.0,,,4073,
+2026-10-11T18:42:18Z,cfuicli,1.0.0,Arian Omrani <arian24b@gmail.com>,MIT,94099,"cf-style terminal UI and a tiny argparse app framework (help, version, update, prompts for missing options)."
+2026-10-11T18:47:29Z,synthface,0.0.1,,MIT,6785,Face recognition model trained on facesynth
+2026-10-11T18:48:40Z,PoopywaterMods,0.2.0,Poopywater,,9024,Poopywater's black-and-orange desktop tools launcher
+2026-10-11T18:49:44Z,workconsole,0.0.1,,Apache-2.0,1865,Python SDK for the Work Console API (reserved placeholder).
+2026-10-11T18:49:46Z,aiworkforceone-hq,0.0.1,,Apache-2.0,1951,Python SDK for the AI Workforce One HQ API (reserved placeholder).
+2026-10-11T18:49:55Z,contextbridge-cli,0.3.0,Orvantia,MIT,51763,"Verified, portable, private project memory for AI coding sessions."
+2026-10-11T18:50:20Z,rn301,1.0.0,gdelaunay <admin@gdelaunay.fr>,MIT,77660,"Contrôle complet de l'ampli hi-fi Yamaha R-N301 : protocole YNC, push DLNA (MediaRenderer :8080), eventing GENA, découverte SSDP — obtenu par reverse engineering de l'app officielle, validé en live.…"
+2026-10-11T18:50:40Z,econdash,0.1.2,EconDash <noderguru@gmail.com>,MIT,31157,"Python client for the EconDash macroeconomic data API: 750+ indicators, 290+ countries, sources and licences."
+2026-10-11T18:52:47Z,kimtape,0.1.1,anarkiwi,Apache-2.0,43974,Paper tape loader for the MOS Technology KIM-1 and its replicas
+2026-10-11T18:53:42Z,ddkafka,0.0.1,davyddd,MIT,29397,"Kafka helpers: batch consumer, lock-guarded consumer maker and msgpack producer on top of aiokafka"
+2026-10-11T18:53:44Z,eme-mcp,0.1.1,"""Greg Beam, KI7MT"" <maintainers@qso-graph.io>",GPL-3.0-or-later,215145,"EME (Earth-Moon-Earth) prediction for amateur radio — moon windows, path loss and degradation, computed locally"
+2026-10-11T18:55:55Z,rorokyrr,0.1.0,,,5633,
+2026-10-11T18:59:50Z,kbgz,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6393,kbgz
+2026-10-11T19:00:32Z,erblite,0.5.0,,MIT,136480,A sandboxed template engine using ERB syntax and a subset of Ruby
+2026-10-11T19:00:43Z,mtdr,0.1.0,Jorge Yanar <jorgeyanar@gmail.com>,MIT,5681103,Model-based targeted dimensionality reduction (mTDR) for neural population data
+2026-10-11T19:03:29Z,rayoweb,0.0.1,Algorizen,,1984,Reserved for the Rayo web framework (https://pypi.org/project/rayo/).
+2026-10-11T19:03:50Z,slidestolectures,0.1.0,Addison Grant,MIT,46158,"Turn slideshow PDFs into bookmarked PDFs, slide text, lecture transcripts and narrated audio"
+2026-10-11T19:11:21Z,python-agent-core,0.2.1,akatzmann,MIT,80647,"A minimalist, non-opinionated, event-driven agent loop with cooperative interruption."
+2026-10-11T19:11:24Z,advexp-settings-base,0.0.1,Alexey Ivakin,Apache-2.0,13476,Temporary PyPI name reservation; the real advexp-settings-base package (base machinery shared by the Advexp.Settings and Advexp.Configuration family) is in development
+2026-10-11T19:12:35Z,sqlbased,0.1.0,João Pedro Nascimento,MIT,11828,Uma biblioteca Python para organizar bancos de dados SQLite usando classes e geradores.
+2026-10-11T19:13:57Z,geoextract-gee,0.2.0,Bruno Cocitto,MIT,71291,Google Earth Engine backend for geoprepare (geoextract)
