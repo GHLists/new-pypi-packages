@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T02:20:41Z,cvdb,0.1.0,,,381401,Native JSON Lines validation and compaction command
+2026-10-11T02:27:29Z,beastlink,1.0.0,VampireDev,MIT,43051,A self-contained music plugin for Python Discord bots.
+2026-10-11T02:27:37Z,mousebridge-mix,0.1.0,,MIT,48428,Windows HID movement client for MouseBridge MIX v2
+2026-10-11T02:30:47Z,latex2code,0.2.1,Thúlio Brandão,MIT,72486,A lightweight Python library and CLI tool to transpile LaTeX mathematical expressions into executable Python functions.
+2026-10-11T02:35:43Z,unibaseio-membase-core,0.3.0,,Proprietary,20498204,The Membase memory engine (compiled). Use it through unibaseio-membase.
+2026-10-11T02:36:09Z,vlmprobe,0.9.0,"Gexin Huang, Haisheng Fu, Ruinan Jin, Xiaoxiao Li",,250899,"Lens, attention, and causal probes for language, vision, and vision-language models"
+2026-10-11T02:36:11Z,unibaseio-membase,0.3.0,Unibase,Proprietary,55414,"Membase SDK: drop-in memory infrastructure for AI agents and apps, hosted or on your machine. Python client, CLI and MCP server."
+2026-10-11T02:36:32Z,renomate,0.1.0,tochikoma777 <brother.777.lei@gmail.com>,MIT,165171,"Safe, preview-first batch file renamer with one-click undo (TUI + CLI)"
+2026-10-11T02:36:43Z,membase-algo,0.3.0,Unibase,Proprietary,1041,Use unibaseio-membase-core.
+2026-10-11T02:36:44Z,membase-bench,0.0.1,Unibase,Proprietary,935,Use membase-bench: https://github.com/unibaseio/membase-bench
+2026-10-11T02:37:09Z,django-rusty-templates-agentic,2026.10.1,"Lily Foote, Jeff Triplett",BSD-3-Clause,102077892,An agentic fork of Django Rusty Templates with a compatible Python API
+2026-10-11T02:39:41Z,openpyxl-enhanced,3.2.0b3,See AUTHORS,MIT,502195,An openpyxl fork for Excel xlsx/xlsm files with formula-aware row/column edits and merged-cell formatting fixes
+2026-10-11T02:40:31Z,ernie-renderer,0.1.0.dev196,Alex Maietta,BSD-3-Clause,50336269,Efficient Renderer for Natural and Interplanetary Environments: a spectral Vulkan renderer with a USD-style scene and batched cameras
+2026-10-11T02:45:43Z,telegram-ai-cli-mcp,0.1.1,Roman T,MIT,915431,"AI-first CLI and MCP server for Telegram user accounts over MTProto, with plan-and-apply approval, chat allowlists and an audit log for every outgoing message."
+2026-10-11T02:47:09Z,stack-guardian,0.1.0,LuminariSoftwares,MIT,98962,"A health doctor for a home AI stack: Ollama nodes, GPUs and tailnet, with graded confidence."
+2026-10-11T02:48:09Z,yonga,0.5.0,Özcan Oğuz,Apache-2.0,1890550,"Linux-first local AI model manager for Intel AI PCs (OpenVINO, Optimum Intel, Hugging Face Hub)"
+2026-10-11T02:49:22Z,mantisfetch,1.9.7,ReadyForAI <opensource@readyfor.ai>,MIT,1055067,Open-source data collection and document parsing platform
+2026-10-11T02:49:32Z,wildtunnel,0.1.1,dasbd72 <twbd723@gmail.com>,MIT,139395,"Expose a local service to the internet at a wildcard subdomain, tunneled through a VPS running frps. Ships with AWS EC2 and AWS Lightsail providers."
+2026-10-11T02:50:42Z,trading-position-risk-mcp,0.1.0,Dinesh Ramalingam,MIT,64302,"Deterministic position sizing and pre-trade risk gate for trading agents, served over MCP"
+2026-10-11T02:55:37Z,colabo,0.1.0,Khursani <khursani@revolab.ai>,MIT,102298,"Work locally with Claude Code, run on a Google Colab GPU: two-way sync + SSH via the official colab CLI."
+2026-10-11T02:57:24Z,bing-webmaster-ai-cli-mcp,0.1.2,,MIT,1027353,"bing-webmaster-ai-cli-mcp gives an AI agent read access to what Bing knows about your sites — traffic, indexing, crawl issues, inbound links, keywords — and a write path you choose: direct by default…"
+2026-10-11T03:01:10Z,qwuiklib,1.0.0,qwuikky99 <qwuikky99@gmail.com>,Unlicense,8899,A lightweight terminal utility library
+2026-10-11T03:04:56Z,cfglens,0.1.0,Ofelia B Webb,MIT,40871,"Deterministic, secret-safe configuration comparisons with CLI and optional MCP"
+2026-10-11T03:05:31Z,nanosandbox-mcp,0.3.0,,MIT,4945549,MCP server (stdio) that runs commands in a nanosandbox sandbox
+2026-10-11T03:08:28Z,latris,0.3.1,Shannon Bengtson,Apache-2.0,1137113,"Latris — an AI-assisted, evidence-native causal-modelling workbench (Python CLI + server backend)."
+2026-10-11T03:17:12Z,tmp-transfer-9x7k2q,0.0.1,,,43538074,x
