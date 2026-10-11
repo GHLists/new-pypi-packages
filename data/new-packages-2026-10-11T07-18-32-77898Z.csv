@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T06:21:20Z,agent-session-analytics,0.1.0,Paul Sorensen <paulnsorensen@gmail.com>,MIT,71316,Ingest coding-agent session logs into DuckDB and query them read-only.
+2026-10-11T06:21:31Z,docsem,0.1.0a1,,MIT,106644,A python module that converts input documents into Standardized Representations
+2026-10-11T06:21:33Z,everydeck-check,0.1.0,,MIT,326261,"everydeck check for app repositories: validate the Befund, detect drift of everydeck calls, re-anchor places, publish"
+2026-10-11T06:23:11Z,b3-prosaic-runtime,0.8.1,B3 Cognition,Apache-2.0,389601,Bounded execution of neutral Prosaic agents on OpenAI-compatible and native Anthropic endpoints
+2026-10-11T06:23:12Z,ophix-theme-bundle,2026.10.11.3,Ophix Project,MIT,1684823,A bundle of demonstration color-palette themes for Ophix Project Servers
+2026-10-11T06:25:24Z,voftools,6.0,Joaquin Lopez,GPL-3.0-or-later,13713417,VOFTools: Analytical and geometrical tools for VOF methods in arbitrary grids
+2026-10-11T06:26:41Z,syntviz,0.1.0,Frederik Schulz,LicenseRef-LBNL-Non-Commercial,7530877,Local genome preparation and portable synteny figures
+2026-10-11T06:29:13Z,autoclip-mcp,1.5.7,,MIT,26675645,AutoClip — AI 长视频自动切片：CLI 与 MCP server 入口
+2026-10-11T06:30:06Z,b3-prosaic-runtime-postgres,0.2.1,,Apache-2.0,38494,Durable PostgreSQL accounting recorder for Prosaic Runtime
+2026-10-11T06:30:34Z,mypop,0.1.0,,MIT,4108,A tiny tkinter popup library
+2026-10-11T06:33:07Z,neo4j-guard,0.1.0,Zices,MIT,366831,"A guardrail for LLM-generated Cypher, built for Neo4j."
+2026-10-11T06:35:36Z,streamwright-mcp,0.0.1,Karthick Jaganathan,Apache-2.0,34506,Model Context Protocol (MCP) server for StreamWright declarative ELT framework
+2026-10-11T06:35:41Z,honehone,2.0.0,minoru-jp,"MIT License Copyright (c) 2026 minoru-jp Permission is hereby granted, free of charge, to any perso…",76856,"Write classes with a declared shape of concurrent work, and fill in only the parts you change."
+2026-10-11T06:37:25Z,b3-prosaic-harness,0.7.1,B3 Cognition,Apache-2.0,422647,Small durable workflows and validation around neutral Prosaic agents
+2026-10-11T06:38:51Z,b3-prosaic-harness-postgres,0.2.1,,Apache-2.0,71850,Explicit PostgreSQL run storage for Prosaic Harness
+2026-10-11T06:39:01Z,theatremix,0.1.0,Harpo,,28919,TheatreMix functions for python
+2026-10-11T06:40:02Z,volcenginesdk-origindefence,5.0.51.post1,volc-engine,Apache License 2.0,19959,Volcengine origindefence SDK for Python
+2026-10-11T06:41:21Z,alice-zip,2.0.0,Moroya Sakamoto <sakamoro@alicelaw.net>,Apache-2.0,174365,"ALICE Procedural Generation Compression - Store algorithms, not data"
+2026-10-11T06:41:26Z,lookahead-guard,0.1.0,lookahead-guard contributors,MIT,46108,前视偏差体检：只做可机械验证的检查（原语尾随性 / 未来盲 / 静态写法 / 置换显著性），不预测收益。
+2026-10-11T06:42:05Z,simplstorage,0.0.1,,,8262,An easy to use package that encrypts and serializes data including cross-file capabilities.
+2026-10-11T06:43:49Z,bgm-tagger,0.0.1,jiang-zhexin,,9301,Model tagger for parsing anime release filenames into BIO/XML entities
+2026-10-11T06:44:01Z,systo-search,0.2.1,Systo,MIT,15319,"Python SDK for Systo semantic search (RAG) - ingest any files, search and ask."
+2026-10-11T06:46:52Z,lex-api-mx-client,0.1.1,Lex API MX <admin@lexapi.mx>,MIT,9711,"Cliente Python de Lex API MX: legislación federal mexicana vigente con fuente, checksum y vigencia"
+2026-10-11T06:47:15Z,opencpt-mcp,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,7136,MCP server exposing opencpt CPT (cone penetration test) analysis tools to LLM clients
+2026-10-11T06:49:14Z,project-away,0.1.1,Fernando Garza <fernandogarzaaa@gmail.com>,MIT,856832,"Hands-free PC control: camera hand gestures, push-to-talk dictation, active-speaker gating and experimental Wi-Fi CSI sensing. Local-first."
+2026-10-11T06:51:59Z,lex-api-mx-mcp,0.1.1,Lex API MX <admin@lexapi.mx>,MIT,14369,Servidor MCP de Lex API MX: legislación mexicana vigente y verificable para agentes de IA
+2026-10-11T07:00:43Z,libalice,3.0.0,Moroya Sakamoto <sakamoro@alicelaw.net>,Apache-2.0,20884319,"Native (Rust) accelerator for the alice-zip Python package: generators, LZMA / zlib, quantized residuals (import libalice)"
+2026-10-11T07:07:35Z,vitna,0.1.0,COSTRINITY INC.,MIT,48846,"VITNA for agent code: check every tool call before it runs. Adapters for LangChain/LangGraph, the OpenAI Agents SDK, Pydantic AI, Microsoft Agent Framework, Google ADK and CrewAI. Calls you mark as r…"
+2026-10-11T07:13:18Z,agenthawk,0.2.0,Abhishek Ash <ash.abhishek@gmail.com>,MIT,32948,"Agent observability MCP server for querying OpenTelemetry traces, failures, tool health, security evidence, and regressions."
+2026-10-11T07:15:30Z,ttr-cli,0.0.1,Noai-oss <jiuwoxiao@outlook.com>,,41544,A small terminal translator
+2026-10-11T07:15:47Z,usend,1.0.0,,MIT,11172,"The official Python SDK for usend, the email API for developers."
