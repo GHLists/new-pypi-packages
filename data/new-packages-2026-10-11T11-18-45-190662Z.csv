@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T10:22:20Z,mllm-shap,0.3.0,Paweł Pozorski,Apache-2.0,267274,Shapley-value attributions for conversational language models.
+2026-10-11T10:24:57Z,attocode-code-intel,0.1.0,,MIT,1823909,Local code search and navigation for coding agents and people
+2026-10-11T10:32:03Z,pysmartkit-zeaul,0.1.0,,,5132,A reusable Python module with useful mathematical and utility functions
+2026-10-11T10:32:10Z,tikuu-memory,0.1.0,Utkarsh Tiwari,,16623,Tikuu memory SDK: HTTP client and LangGraph snapshot checkpointer
+2026-10-11T10:34:13Z,westquant-memory-lab,0.7.1,David Vesterlund <david@vesterlundventures.se>,MIT,836814,Evidence-aware quantum-memory modelling and network integration framework
+2026-10-11T10:37:47Z,reddrix,0.1.0,,,32700,"Reddrix is an open-source, blazing fast Reddit Scraper for Python (No API Key)"
+2026-10-11T10:41:03Z,ml-runner-exporter,1.0.0,David González León,MIT,60408,A python package for exporting machine learning models to run using the rust ml_runner crate.
+2026-10-11T10:41:39Z,aether-sim,1.0.1,c-blanding,MIT,202926,"Python SDK for persistent, character-driven simulations with action/event rules and optional LLM interact loops."
+2026-10-11T10:44:33Z,openframe-adapters-db-mariadb,0.1.0,Furious Meteors Engineering <engineering@furiousmeteors.dev>,MIT,44211,OpenFrame Microservice Suite — MariaDB database adapter.
+2026-10-11T10:45:25Z,eco-int8-opt,0.4.3,valik8937 <valikcobotar@gmail.com>,MIT,44550,"Fully-int8 ECO optimizers: int8 weights, grads and momentum with zero master weights"
+2026-10-11T10:45:45Z,loopgrid-claude-launcher,0.1.0,LoopGrid <hello@loopgrid.io>,Apache-2.0,18181,Isolated secure launcher for LoopGrid's Claude Code plugin
+2026-10-11T10:45:47Z,openframe-adapters-queue-rabbitmq,0.1.0,Furious Meteors Engineering <engineering@furiousmeteors.dev>,MIT,38061,OpenFrame Microservice Suite - RabbitMQ queue adapter.
+2026-10-11T10:47:38Z,openframe-adapters-db-qdrant,0.1.0,Furious Meteors Engineering <engineering@furiousmeteors.dev>,MIT,43254,OpenFrame Microservice Suite — Qdrant vector-store adapter.
+2026-10-11T10:48:15Z,openframe-adapters-db-milvus,0.1.0,Furious Meteors Engineering <engineering@furiousmeteors.dev>,MIT,42419,OpenFrame Microservice Suite — Milvus vector-database adapter.
+2026-10-11T10:50:04Z,vidtoolz-highlights,0.1.0,Sukhbinder Singh,Apache-2.0,35338,Make highlights from videos and Stitch videos to a song
+2026-10-11T10:52:07Z,illate-parity,0.1.0,,Apache-2.0,148363,Is a cheaper model as good as the one you run now? Accuracy with confidence intervals and a non-inferiority parity check.
+2026-10-11T10:52:29Z,blender-fx-mcp,0.7.0,Sam Choi,MIT,531759,"AI가 말로 시키면 블렌더 FX(파괴·폭발·물)를 만들어 주는 MCP 서버 / Blender FX (destruction, explosion, water) MCP server for AI clients"
+2026-10-11T10:52:34Z,wiretap-dcp,0.1.0,,Apache-2.0,77454,Transport-layer data lineage — capture provenance where data physically moves.
+2026-10-11T10:55:06Z,examplify,0.1,Peter Mawhorter,LicenseRef-LLM-hostile-BSD,11820,"Specify program behavior using examples in Markdown, then check and report on conformance. Requires Python 3.11+."
+2026-10-11T10:56:04Z,geant4-python-application,0.1.0,Luis Antonio Obis Aparicio <luis.antonio.obis@gmail.com>,,362172305,Geant4 Python Application
+2026-10-11T10:56:18Z,omnicoach,0.1.0,,MIT,14834926,"Lightweight, high-signal static analysis and command linter for Python and Rust"
+2026-10-11T10:56:34Z,intent-c,0.1.0,Sasha Yuvko <sasha.yuvko2@gmail.com>,MIT,30923,A lightweight Python framework that converts user prompts into parallel function calls using Pydantic and NumPy.
+2026-10-11T10:56:58Z,termux-bulk-sms,0.1.0,Taha Zouhair,MIT,83790,"Bulk SMS from your own Android phone through Termux:API, driven from a web page on your local network"
+2026-10-11T10:57:34Z,keepup-audit,0.4.0,,,8461,"Incoming calls, the application's events, the administrator's trail and their retention."
+2026-10-11T11:00:32Z,wiretruth,0.1.0,,MIT,139556,Replays real LLM provider responses through LLM SDKs and checks whether each SDK reports what actually happened.
+2026-10-11T11:02:14Z,sweeptune,0.1.0,Maximilian Schuh,MIT,156270,Measure your room with a sweep and get settings for a 10-band graphic EQ
+2026-10-11T11:07:06Z,reportsmith,0.1.0,Michal Stojke,MIT,41051,"A small, dependency-free library for building reports and exporting them to Markdown and HTML"
+2026-10-11T11:08:23Z,codeanim-py,0.2.0,,MIT,280597,用 Python 代码描述动画，一条命令渲染成视频。无窗口、无交互、跑完就落盘。
+2026-10-11T11:10:45Z,keycloak-mcp-server,0.1.0,Bhushan Rane,Apache-2.0,283048,"Keycloak MCP server that calls the Admin API as the signed-in user, via OAuth"
+2026-10-11T11:12:56Z,drf-react-by-schema-oauth,0.1.0,Cooperativa EITA,GNU General Public License version 3,636231,OAuth 2.1 authorization server and resource server for drf-react-by-schema projects.
+2026-10-11T11:14:37Z,rphonenumbers,0.1.0,Ville Vesilehto <ville@vesilehto.fi>,Apache-2.0,15929437,"Drop-in replacement for phonenumbers that runs parsing, formatting and validation on the rlibphonenumber Rust crate"
+2026-10-11T11:15:53Z,botbox,0.0.1,Kevin Scott <me@thekevinscott.com>,MIT,34751,Run a coding agent inside a locked-down Docker container.
+2026-10-11T11:17:01Z,gdbstub-mcp,0.1.0,0xmortuex,MIT,71350,"MCP server that lets AI agents debug kernels through QEMU's gdbstub - no gdb binary needed. Breakpoints, registers, memory, backtraces, triple-fault diagnosis."
+2026-10-11T11:17:29Z,nti-benchmark,0.1.0,Abisheak P <abisheakp197@gmail.com>,Apache-2.0,23368,Verifiable security benchmark for AI agent frameworks
+2026-10-11T11:17:31Z,simples-nacional-br,1.5.0,Peter,MIT,190434,"Simples Nacional: alíquota efetiva, valor do mês e Fator R, conferidos contra a LC 123/2006 e a LC 214/2025"
