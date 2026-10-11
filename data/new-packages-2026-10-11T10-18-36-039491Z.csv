@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T07:30:15Z,appforges,0.59.2,,MIT,89262,"Official AppForges Python SDK, generated from the OpenAPI specification."
+2026-10-11T09:18:32Z,fieldlines,0.1.2,Antonin Marchand,MIT,1625106,"Lignes de champ électrique et magnétique, équipotentielles, pour des figures de cours"
+2026-10-11T09:19:33Z,polarism,0.3.3,Jakub Rogala,MIT,214684,High-performance tools for driven-dissipative exciton-polariton simulations
+2026-10-11T09:20:19Z,h2h-dev-tools,0.2.1,Kuan-Lun Wang,GPL-3.0-only,139625,Shared development tools and reproducible repository snapshots for H2H projects
+2026-10-11T09:20:27Z,bigfix-relevance-debugger,0.1.0,JGStew <admin@jgstew.com>,MIT,348873,"A browser GUI for BigFix client and session relevance: live static analysis, evaluation with qna and besapi, and a per-level breakdown."
+2026-10-11T09:20:42Z,kosoftiks,0.2.0,kosoftiks,MIT,22992,Укороченный вызов к ИИ + запуск файлов и установка по ссылке
+2026-10-11T09:21:08Z,qplotter-native,1.0.0,,MIT,205175,Pinned native SQLite reader for qplotter
+2026-10-11T09:24:21Z,python-astro,1.10,,GPL-3.0-or-later,41224,"Astronomy utilities — celestial location, sun/moon position calculations, and geo coordinates"
+2026-10-11T09:24:29Z,qplotter,1.6.0b3,"Ben Wordsworth <b.wordsworth@lancaster.ac.uk>, Edward Laird <e.a.laird@lancaster.ac.uk>",MIT,2504523,PyQt-based viewer for completed and running QCoDeS database experiments
+2026-10-11T09:24:43Z,titrages,0.1.4,Antonin Marchand,MIT,442510,"Courbes de titrage acido-basique sans approximation : pH, polyacides, mélanges, dilution, équivalences, méthode des tangentes, et une base de couples."
+2026-10-11T09:25:46Z,cscx,0.18.1,João Cristóvão <jmacristovao@gmail.com>,Apache-2.0,383486,"Convert terminal color schemes between nine formats, and into vim, neovim, helix, emacs, VS Code and Claude Code themes"
+2026-10-11T09:30:41Z,sloy-AI,0.1.0,salyukov.gleb033,MIT,936497,Memory-aware block training for small language models on MLX
+2026-10-11T09:33:44Z,vachaka,0.1.0,Karthik <karthik.rajgopal@hotmail.com>,Apache-2.0,37714,High-level Sanskrit recitation from text: Vāgdhenu chant and prose voices with line and word timings
+2026-10-11T09:37:56Z,rustymath,0.1.4,Jeremy Howard <github@jhoward.fastmail.fm>,Apache-2.0,14989552,"Fast maths functions for f16, f32 and f64 in plain Rust."
+2026-10-11T09:39:50Z,psmpredict,0.2.0,,,27536,GPU-ready peptide MS/MS spectrum predictor trained from MaxQuant msms.txt
+2026-10-11T09:39:57Z,python-ffmpeg-fork,0.461,Karl Kroening,,52263,Python bindings for FFmpeg - with complex filtering support
+2026-10-11T09:40:12Z,economize,0.3.0,Filipe Laitenberger <f.laitenberger@gmail.com>,Apache-2.0,1544430,"Composable efficiency techniques (cross-layer jump drafting, early exit, speculative decoding, ...) for Hugging Face causal LMs."
+2026-10-11T09:41:48Z,a2a-testbed,0.2.0a1,Ravi Kiran Kadaboina,Apache-2.0,423587,"A polyglot, JSON-driven, multi-agent A2A network simulator with scenario runner, conformance contracts, Agent Control Specification (ACS) runtime governance, observer agents, time control, and failur…"
+2026-10-11T09:43:23Z,pkgmap-py,0.1.0,Levizor,MIT,29976,Cross-distribution Linux package name resolution
+2026-10-11T09:47:44Z,geomechpy,0.0.6,"Alex Kutuev, Florian Karpfinger",LGPL-3.0-only,50909,The geomechpy Python library aims to provide a comprehensive set of functions to build a Geomechanics workflow
+2026-10-11T09:49:30Z,changelogkit,0.1.4,TwhomeGH,MIT,153814,本機變更歷史 GUI 與開發索引：解析 ChangeHistory.md、唯讀索引 Git／文件／API 宣告
+2026-10-11T09:49:50Z,agentpanel,0.1.0,Anzar Ahsan,MIT,35005,Domain-agnostic multi-agent orchestration core (LangGraph) with pluggable local/cloud LLM providers.
+2026-10-11T09:50:22Z,api-shakedown,0.1.0,Anzar Ahsan,MIT,122562,"Multi-agent generator of WireMock stubs, contract tests, and chaos scenarios from an OpenAPI spec."
+2026-10-11T09:51:11Z,ray-dispatcher,0.1.2,,MIT,460764,Generic Ray-scheduled dispatcher for subprocess jobs on SSH-accessible VMs.
+2026-10-11T09:51:49Z,posokanei,0.1.0,Kostas Konstantinidis,MIT,62546,Unofficial typed Python client for the price API behind posokanei.gov.gr
+2026-10-11T09:54:07Z,namanfhirfold,0.1.0,Jain-Naman-V <namanvjain456@gmail.com>,MIT,16837,Fold the structure. Keep every detail. High-efficiency task-aware FHIR R4 token compression engine for CDS Hooks and LLMs.
+2026-10-11T09:56:04Z,tidewater,0.1.0,"Muhammad Shafeeque, tidewater contributors",BSD-3-Clause,3979550,ocean-forced frontal ablation for glacier models
+2026-10-11T09:58:23Z,auto-assessor-mcp,0.1.0,Alexandr Latushkin,LicenseRef-Proprietary,857018,MCP server for automatic assessment (grading) of tasks.
+2026-10-11T09:59:11Z,imagecompressor,1.0.0,,MIT,16304,"Client for the ImageCompressor.si image API: compress, convert, resize, remove backgrounds, upscale, OCR, pipelines and jobs."
+2026-10-11T10:00:35Z,remote-fileshare,1.1.0,chao5go,MIT,46524,远程文件共享：零依赖的网页文件共享服务器，在浏览器和远程服务器之间传文件，适合配合远程 AI agent 使用
+2026-10-11T10:01:48Z,worktrust,0.10.13,,MIT,226222030,"The WorkTrust CLI, using the same measurement engine as npm"
+2026-10-11T10:03:14Z,mlshield,0.1.0,"Hiba El Quassimi <helquassimi@gmail.com>, wail zita <wailzitazita@gmail.com>",,75108,"Security middleware for agentic LLM pipelines: input guard, action guard, and output guard"
+2026-10-11T10:03:55Z,ankiweb-api,1.0.0,Tzu-Hsien Chao,"MIT License Copyright (c) 2026 CHAO TZU-HSIEN Permission is hereby granted, free of charge, to any…",926334,Full AnkiWeb /svc/* API client plus add-on upload/download tooling for the terminal and GitHub Actions
+2026-10-11T10:08:07Z,pyconvertx,1.0.0,cobrapy-x,MIT,70938,A lightweight unit and number-base conversion library with no dependencies
+2026-10-11T10:10:20Z,byteplussdk-alb,0.0.1,byteplus-sdk,Apache License 2.0,961,Name reservation for the Byteplus Python SDK split package byteplussdk-alb
+2026-10-11T10:10:26Z,byteplussdk-apig,0.0.1,byteplus-sdk,Apache License 2.0,967,Name reservation for the Byteplus Python SDK split package byteplussdk-apig
+2026-10-11T10:10:32Z,byteplussdk-apig20221112,0.0.1,byteplus-sdk,Apache License 2.0,1030,Name reservation for the Byteplus Python SDK split package byteplussdk-apig20221112
+2026-10-11T10:13:52Z,pytrends-ng,0.1.0,,MIT,10775,"Drop-in replacement for the archived pytrends: Google Trends without 429 errors, unlimited keywords on one scale."
+2026-10-11T10:14:32Z,goodwe-modbus,0.1.0,theneweinstein,,10356,Python library to communicate to Goodwe inverter over modbus.
+2026-10-11T10:14:50Z,doneproof,0.1.0,LRNSdigital,MIT,15753,"Accept a task only when its done-ness is proven by evidence (a file exists, a human gate was resolved) — never the agent's own word. Plain data, zero dependencies, pluggable into any runner or agent."
+2026-10-11T10:16:44Z,stackvet,0.1.0,Inzamul Hoque,MIT,13080751,Universal Project Health & Static Diagnostics Engine
+2026-10-11T10:17:12Z,hsync-common,1.0.1,Alberto Basso,BSD-3-Clause,400912,"HSYNC Common - shared models, constants, and compression utilities"
+2026-10-11T10:17:20Z,djfernet-redux,1.0.0,"Carl Meyer, Jess Johnson",BSD-3-Clause,20357,Fernet-encrypted Django model fields: a maintained drop-in replacement for djfernet and django-fernet-fields.

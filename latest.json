@@ -1,61 +1,55 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-10-11T08:20:15.520082Z",
-    "path": "data/new-packages-2026-10-11T09-18-36-759842Z.csv",
-    "to": "2026-10-11T09:18:36.759842Z"
+    "count": 43,
+    "from": "2026-10-11T09:18:36.759842Z",
+    "path": "data/new-packages-2026-10-11T10-18-36-039491Z.csv",
+    "to": "2026-10-11T10:18:36.039491Z"
   },
   "pending": [
     {
-      "attempts": 2,
-      "created_at": "2026-10-11T07:30:15Z",
-      "package": "appforges",
-      "since": "2026-10-11T07:18:32.77898Z"
-    },
-    {
       "attempts": 1,
-      "created_at": "2026-10-11T09:18:32Z",
-      "package": "fieldlines",
-      "since": "2026-10-11T08:20:15.520082Z"
+      "created_at": "2026-10-11T10:00:29Z",
+      "package": "cmvn",
+      "since": "2026-10-11T09:18:36.759842Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-11T07:32:50Z",
       "package": "gru-bot",
       "since": "2026-10-11T07:18:32.77898Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-11T07:31:20Z",
       "package": "gru-bot-cli",
       "since": "2026-10-11T07:18:32.77898Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-11T07:30:26Z",
       "package": "gru-bot-skills",
       "since": "2026-10-11T07:18:32.77898Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-11T07:33:49Z",
       "package": "gru-bot-wx",
       "since": "2026-10-11T07:18:32.77898Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-11T07:36:44Z",
       "package": "guardana-reference-pack",
       "since": "2026-10-11T07:18:32.77898Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-11T06:30:21Z",
       "package": "theatremix-python",
       "since": "2026-10-11T06:19:42.655429Z"
     }
   ],
-  "serial": 42085739,
+  "serial": 42087150,
   "source_truncated": false,
-  "window": "2026-10-11T09:18:36.759842Z"
+  "window": "2026-10-11T10:18:36.039491Z"
 }
