@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T07:21:37Z,gemini-logo-remover,0.2.0,,MIT,77880,"Remove the Gemini watermark from images - runs locally, no server needed."
+2026-10-11T07:30:46Z,conf-base,0.0.2,加点盐,,18501,一个简洁的 Python 配置管理框架，支持加密存储、属性描述符、嵌套配置段等功能。
+2026-10-11T07:30:52Z,fibonacci-tdd-kata-jousset,0.1.0,Tom Jousset,,3720,Fibonacci TDD kata with an optimized fast-doubling implementation
+2026-10-11T07:31:09Z,edf-tool,0.1.0,Krushi Raj Tula,MIT,414533,Monthly export-of-services invoice + bank EDF form generator for Indian freelancers. Runs fully offline.
+2026-10-11T07:31:20Z,memcrumbs,0.3.0,,Apache-2.0,403481,"Project memory for coding agents: a small markdown wiki your agent reads first, and a local index that answers in a few hundred tokens."
+2026-10-11T07:31:55Z,tree-sitter-daslang,0.6.0,Gaijin Entertainment,BSD-3-Clause,4237789,Daslang grammar for tree-sitter
+2026-10-11T07:32:54Z,mod-audit,0.1.1,hao li,MIT,31504,"Static supply-chain auditor for Claude Code Mods — local, offline, stdlib-only"
+2026-10-11T07:33:18Z,oxython,0.1.0,Rin Arakaki,Apache-2.0,5089532,Cython with a Rust-flavoured syntax in .oxy files.
+2026-10-11T07:33:30Z,day-recap,0.2.1,Vladimir Voronov,,98055,"Саммари проделанной работы за день: задачи и принятые решения из git, транскриптов агентов и чатов Telegram"
+2026-10-11T07:33:34Z,frontmatter-guard,0.1.0,hao li,MIT,27031,Semantic linter for Claude Code skill/plugin frontmatter — catches silent key typos official validators miss
+2026-10-11T07:33:40Z,subagent-budget,0.1.0,hao li <haoli5933@gmail.com>,MIT,34113,"Hard budget caps for subagents — token/$ limits enforced by hooks, not just displayed"
+2026-10-11T07:34:43Z,mcp-runtime-audit,0.1.0,hao li <haoli5933@gmail.com>,MIT,36602,"Local runtime security scanner for MCP servers — known-CVE checks, one-click fixes"
+2026-10-11T07:40:37Z,getfaultline,0.1.0,Faultline,MIT,120883,Python SDK for Faultline error tracking
+2026-10-11T07:42:56Z,auto-semver-control,1.8.7.dev0,Guy Erreich <gerreich.dev@gmail.com>,GPL-3.0-or-later,250783,"Automatically bump semver, update changelogs, and open release PRs on merge."
+2026-10-11T07:43:55Z,typed-mujoco,3.15.0.0,,Apache-2.0,233751,Partial type stubs for the official MuJoCo 3.15.0 Python package
+2026-10-11T07:48:03Z,yeasti,0.1.0,Anthony Aylward <anthony.aylward@protonmail.com>,,247930,Small dataset of yeast chromosome I
+2026-10-11T07:53:04Z,guang-demo,0.1.3,,,3959,一个用于学习 Python 公共库构建和发布的示例工程
+2026-10-11T07:57:29Z,abcdi-config,0.0.1,Julian Kenwood <julian.kenwood@example.com>,MIT,14053,A Python library for configuration-based dependency injection using the abcdi library
+2026-10-11T07:58:03Z,servcalc,0.1.0,,MIT,104523,"Predict single-GPU LLM serving capacity (concurrency, tok/s, TTFT, ITL) from config.json with a roofline model"
+2026-10-11T07:59:43Z,hyperray,0.0.1,Jonas Eschmann <jonas.eschmann@gmail.com>,MIT,2612854,The fastest drone simulator and renderer (raytracer).
+2026-10-11T08:00:19Z,kifab,0.1.0,Max Sikström,GPL-3.0-only,390571,"Manage KiCad projects in a git-friendly way, with the fabrication service as part of the project"
+2026-10-11T08:06:35Z,ng-postcode-polars,0.1.0,Kayode Adeniyi,MIT,22969469,"Polars expressions for Nigeria's NIPOST digital postcode (NDAPS): parse, format and group by place."
+2026-10-11T08:08:16Z,podclipper,0.1.0,Loukik Naik <loukiknaik@gmail.com>,AGPL-3.0-only,219049,Local-first pipeline that turns long-form podcast videos into short vertical reels.
+2026-10-11T08:09:25Z,python-rac,0.2.0,Platform42,MIT,424914,"Direct 1C RAS protocol client with CLI, web, desktop and MCP interfaces"
+2026-10-11T08:17:33Z,hotkv-mcp,1.0.0,HotKV Ltd <support@hotkv.com>,Apache-2.0,40893,"A Model Context Protocol (MCP) server for HotKV, a RESP2/RESP3-compatible in-memory data store with built-in AI and LLM-serving features. Lets AI agents read and write keys, agent memory, prompts and…"
+2026-10-11T08:17:51Z,langgraph-checkpoint-hotkv,1.0.0,HotKV Ltd <support@hotkv.com>,Apache-2.0,67971,"LangGraph checkpointer and long-term memory store backed by HotKV, a RESP2/RESP3-compatible in-memory data store with built-in AI and LLM-serving features."
