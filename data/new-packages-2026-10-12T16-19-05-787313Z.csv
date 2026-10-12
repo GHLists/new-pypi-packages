@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T15:18:28Z,fontmerge,0.2.1,Simon Cozens <simon@simon-cozens.org>,MIT OR Apache-2.0,141692039,"Merge two font source files, copying glyphs and OpenType layout features from one font to another"
+2026-10-12T15:20:28Z,fred-capability-platform-ops,4.5.0,Thales <noreply@thalesgroup.com>,Apache-2.0,26033,Fred agent capabilities for platform introspection: read-only SQL over the platform database (platform_postgres).
+2026-10-12T15:20:31Z,fred-capability-ppt-filler,4.5.0,Thales <noreply@thalesgroup.com>,Apache-2.0,117766,Fred agent capability: fill an uploaded PowerPoint template from chat (ppt_filler).
+2026-10-12T15:20:34Z,fred-capability-team-wiki,4.5.0,Thales <noreply@thalesgroup.com>,Apache-2.0,49091,Fred agent capability for the team wiki: read the team's shared knowledge base (team_wiki).
+2026-10-12T15:20:37Z,fred-capability-web-research,4.5.0,,Apache-2.0,12743,Fred native web search and page reading tools
+2026-10-12T15:21:05Z,workpaper,0.1.0,,MIT,14011,"Cloud computers for AI agents: create, run commands, read and write files, stop, start and fork running computers."
+2026-10-12T15:26:38Z,qcmr.moldenformat,0.1,Mariusz Radon <mariusz.radon@uj.edu.pl>,MIT,25100,Read and write Molden Format
+2026-10-12T15:33:03Z,horizon-pulse,0.0.1,Horizon Pulse,All rights reserved,2484,Placeholder for Horizon Pulse (https://horizonpulse.dev). Paid APIs for AI agents.
+2026-10-12T15:34:20Z,jh-vantage-theme,1.1.0,Vantage Compute <info@vantagecompute.ai>,BSD-3-Clause,89813,Vantage Compute theme for JupyterLab
+2026-10-12T15:34:23Z,tensor0-cuda12,0.2.0,,MIT AND Apache-2.0,1571667,Experimental optional CUDA 12 C-ABI backend for Tensor0
+2026-10-12T15:36:01Z,hyperscale-pii-scanner,0.1.0,Andy Caine,MIT,67362606,"Deterministic, in-process scan for residual personal identifiers in UK English text, built on Presidio and spaCy"
+2026-10-12T15:36:49Z,gydus,0.0.1,Gydus,LicenseRef-Proprietary,4146,Gydus: run more AI on less GPU. This PyPI entry points to the official Gydus distribution.
+2026-10-12T15:36:53Z,proteomics-mcp,0.1.8,UadKLab,MIT,296032,Spectrum-level proteomics scoring tools exposed through CLI and MCP
+2026-10-12T15:37:10Z,licensd,0.1.0,Keksi,,109886,A lightweight license generator CLI.
+2026-10-12T15:38:12Z,odoo-addon-sale-order-add-byproduct,18.0.2.0.0.2,"Odoo Community Association (OCA), OBS Solutions BV",AGPL-3,48380,Add produced by-products from Manufacturing Order to the originating Sales Order as invoiceable lines.
+2026-10-12T15:38:16Z,graphydra,0.1.0,Bishwajit Prasad Gond <bishwajitprasadgond@gmail.com>,MIT OR Apache-2.0,1200181,"Embedded, local-first graph database with a declarative query language and crash-safe .graph files"
+2026-10-12T15:40:42Z,thinctx,0.1.0,Jan Rosecký (thinletter),PolyForm-Small-Business-1.0.0,3327823,"ThinCtx: inference runtime and OpenAI-compatible server for the ThinCtx models (small, constant GPU memory for the context)."
+2026-10-12T15:41:19Z,orfdata,0.1.0,OpenVax,Apache-2.0,3821536,Reference open reading frames and experimental translation evidence on annotated transcripts
+2026-10-12T15:43:51Z,rayon-sdk-py,0.1.0,Rayon API,MIT,22028,Synchronous Python client for the Rayon API
+2026-10-12T15:45:02Z,fern-beta-uat-pets-2c8d06-sc,0.0.1.dev2026101215445236,,,119750,
+2026-10-12T15:45:10Z,fern-beta-uat-pets-2c8d06-gy,0.0.1.dev2026101215444976,,,80168,
+2026-10-12T15:45:28Z,career-emulator-engine,1.0.1,Yuwei <yuwei.willow.z@gmail.com>,MIT,13019,TechArena English track: career simulation engine (CLI + MCP). PyPI: career-emulator-engine.
+2026-10-12T15:45:36Z,beta-uat-agentc-r09-20261012,0.1.0,,,117955,
+2026-10-12T15:52:19Z,PyTaskWireCheck,0.1.0,Georgi Mullassery,MIT,122710,"Local-first, dependency-aware task orchestration engine (DAG scheduler + content-addressed cache + CLI)."
+2026-10-12T15:52:43Z,archvow,0.0.1,Marc Kanani,,2258,Arch vow.
+2026-10-12T15:52:57Z,geomag-aurora,0.1.0,trice,MIT,92053,"Aurora visibility thresholds and geomagnetic outlooks for any location, from NOAA SWPC public data"
+2026-10-12T15:55:25Z,web-edit,0.1a0,Simon Willison,Apache-2.0,526956,Web app for editing files in a folder
+2026-10-12T15:56:04Z,audiolabtools,0.1.0,Nathan Renting,MIT,46752,"Measure audio from Python: loudness, true peak, voice quality and signal checks, each number with its status and margin. A small client for the AudioLab API."
+2026-10-12T15:57:46Z,pysaes-neg-power-tspspi,0.0.1,Thomas Spielauer <pypipackages01@tspi.at>,BSD-3-Clause,41537,Standalone MQTT monitoring and explicit activation control for SAES NEG POWER MINI (unofficial)
+2026-10-12T15:59:19Z,spliv,0.1.0,Akshay Sekhar,MIT,41964,Evidence-first CSV train/test split checks with offline HTML reports.
+2026-10-12T16:00:58Z,dicomstack,2.0.0,Pierre-Yves Baudin,BSD-3-Clause,119675,A pydicom wrapper for simple loading and handling of DICOM stacks
+2026-10-12T16:02:01Z,nuclogic-core,1.0.3,"Sebastian G. van Dijk, Saskia J. E. Suijkerbuijk",MIT,102530,"NucLogic 3D nuclear stitching (stitch_3d) and image I/O, minimal install"
+2026-10-12T16:02:32Z,dulle,0.1.0,16bitoni,MIT,168578,Hybrid CLI + Vision Windows desktop automation agent
+2026-10-12T16:02:33Z,nuclogic,1.0.3,"Sebastian G. van Dijk, Saskia J. E. Suijkerbuijk",MIT,2153,"NucLogic 3D nuclear stitching and image I/O, full install (all file formats and IMS writing)"
+2026-10-12T16:02:37Z,reubeninstitute-css,0.2,,,4141,Common CSS and design system for Reuben Institute projects
+2026-10-12T16:03:52Z,driftwatch-llm,0.1.0,,MIT,33552,"Command-line tool for DriftWatch, a drift monitor for LLM apps."
+2026-10-12T16:05:21Z,modelexpress-rl,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1065,Zero version placeholder for modelexpress_rl
+2026-10-12T16:06:12Z,chainwatch-payments,0.0.1,Adeniyi Oluwadamilare,MIT,76803,"Watch-only, multi-chain crypto payment detection: derive receive addresses from xpubs and confirm incoming payments. No private keys, no gateway."
+2026-10-12T16:10:57Z,gunsnprices,0.1.1,GunsNPrices <app@gunsnprices.com>,MIT AND CC-BY-4.0,210822,"Parse firearm and ammunition product titles: brand, model, caliber, magazine capacity, barrel length, rounds per box."
+2026-10-12T16:11:01Z,memgraph-context-graph,0.5.0,,MIT,183695,"Connect agent SDKs to context-graph components (actions-graph, skills-graph, etc.)"
+2026-10-12T16:13:12Z,context-graph-spaces,0.1.0,,MIT,45369,The Enterprise edition of Context Graph: personal and shared memory spaces for many users on one Memgraph
+2026-10-12T16:15:30Z,brickproof-fw,0.1.0,Adham Ehab,Apache-2.0,449487,Power-fail testing for firmware updates: cut power at every flash operation in Renode and check the device recovers
+2026-10-12T16:15:51Z,jmfts-web,0.6.0,"Fight Fire with Fire Robotics, LLC",MIT,419205,Browser front end for a JMFTS retrieval appliance
+2026-10-12T16:16:19Z,sg-python-api,0.1.0,,MIT,634636,Python client for Autodesk Flow Production Tracking
+2026-10-12T16:16:59Z,review-sensei-github,0.1.1,Mohamad Alsabbagh,MIT,491473,"GitHub Actions runtime for ReviewSensei: broker, session ledger, and publication."
+2026-10-12T16:17:20Z,sg-query-cache,0.1.0,,MIT,333665,Query caching for Autodesk Flow Production Tracking
+2026-10-12T16:18:05Z,sg-event-daemon,0.1.0,,MIT,698119,Event daemon for Autodesk Flow Production Tracking
