@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T10:22:20Z,pyniftireg,0.1.1,Chung Tin Lo <lochungtin@gmail.com>,,156550,PyTorch reimplementation of NiftyReg-style registration: affine + B-spline stationary velocity fields.
+2026-10-12T10:24:09Z,aicortex-daemon,0.1.0,AICortex,Apache-2.0,240612,AICortex Python local agent runtime daemon (no Docker)
+2026-10-12T10:25:36Z,vools-pyk,0.1.1,Victor <victortop921129@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",205433,vools 的 PySpark / PostgreSQL 集成子包（独立分发）
+2026-10-12T10:27:46Z,active-cubiomes,0.1.0,,MIT,888943,Python/Cython bindings for cubiomes — fast Minecraft biome and structure generator
+2026-10-12T10:29:38Z,cfast-bin,8.0.0.dev345,WYGAS Benoît <97663334+bewygs@users.noreply.github.com>,MIT AND NIST-Software AND GPL-3.0-or-later WITH GCC-exception-3.1,1983279,Unofficial repackaging of the NIST CFAST fire model binaries
+2026-10-12T10:30:43Z,mcp-fingerprints,1.0.0,MCP Fingerprints Contributors,MIT,232012,Open-Source MCP Server Passport & Tool Signature Knowledge Base
+2026-10-12T10:31:10Z,mcp-vulnerabilities,1.0.0,,,186256,Open-Source OSV-Compliant Model Context Protocol (MCP) Vulnerability Advisory Database
+2026-10-12T10:34:11Z,vaid-jwt-bridge,0.1.0,solara.associates,Apache-2.0,69447,"Token bridge for the VAID standard: verify a full VAID delegation chain and, only on a full pass, exchange it for a short-lived standard JWT (EdDSA or ES256) a gateway can verify against a published…"
+2026-10-12T10:37:22Z,pikauia,0.0.0,Kausable <devops@kausable.ai>,,1661,Reserved name. This package is empty.
+2026-10-12T10:38:12Z,appledger,0.1.0,Contenta Software,MIT,55202,"The ledger for the AI app explosion: honest security checks, in plain language, for apps your people build with AI."
+2026-10-12T10:44:44Z,oopgui-arsenal4eva,0.1.0,,MIT,41267,Visual OOP class designer GUI
+2026-10-12T10:45:23Z,spatialflow-mcp,0.2.0,,MIT,106126,Local read-only MCP server for the SpatialFlow API
+2026-10-12T10:46:27Z,mlbuddy-a11y,0.1.0,Your Name <your.email@example.com>,,4064,A friendly machine learning wrapper library for beginners.
+2026-10-12T10:50:09Z,livery-git,0.1.0,Willem Kokke,MIT,87807,"Git access for the livery ecosystem: every call a function of the repository's root, through the tool store's pinned git."
+2026-10-12T10:50:55Z,modux,0.1.0,Krish Patel,MIT,30781,A cross-platform AI terminal assistant
+2026-10-12T10:50:57Z,enomoto-solver,0.1.1,Kan Enomoto,MIT,15457955,"Python problem-input interface with a Rust core (CSR storage, preprocessing, optimization algorithms)"
+2026-10-12T10:52:38Z,asqueel-dbmanager,0.1.0,,Apache-2.0,36733,"Kajenn application for database migrations, backups and restores"
+2026-10-12T10:58:38Z,ravenrelay,0.1.0,RavenRelay,LicenseRef-Proprietary,10685,Server-side Python SDK for the RavenRelay email API
+2026-10-12T10:59:42Z,gpx2elev,0.3.7,,GPL-3.0-or-later,2546412,"Dénivelé GPX, MNT et protocole spatial 5 m / 20 m / 2 m"
+2026-10-12T11:03:00Z,agentevidtrace,0.0.1,,Apache-2.0,10229,"Name reservation. Tamper-evident flight recorder for AI agents — audit ledgers, forensics, compliance evidence."
+2026-10-12T11:05:17Z,ttclips,1.0.0,,MIT,88530,"Fully local TikTok clip reposter: YouTube highlight clips + generated shorts, auto-posted via Playwright."
+2026-10-12T11:06:28Z,telicent-ies-toolkit,0.1.0,Telicent Ltd <opensource@telicent.io>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",85268,"A library for building IES data, with wrapper classes generated from the IES ontology"
+2026-10-12T11:07:33Z,ftdcli,1.0.0,,,33730,
+2026-10-12T11:08:14Z,vidman-ai,0.1.1,Vidman AI,Apache-2.0,234855,The official Python library for the Vidman AI API
+2026-10-12T11:09:54Z,alienx,0.3.0,Eric Yaka,AGPL-3.0,31414,"AlienX: a general fluid solver - rotation/scale-invariant neural operators (AlienX 2D + AlienX 3D) for Darcy flow, Navier-Stokes, MHD, Gross-Pitaevskii and any fluid PDE. Pure architecture - no check…"
+2026-10-12T11:15:58Z,vozonda,0.7.3,,,1109742,Vozonda orchestrator: url to two-voice podcast dialogue
