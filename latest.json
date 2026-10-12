@@ -1,25 +1,31 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-10-12T06:19:51.570812Z",
-    "path": "data/new-packages-2026-10-12T07-19-58-894306Z.csv",
-    "to": "2026-10-12T07:19:58.894306Z"
+    "count": 35,
+    "from": "2026-10-12T07:19:58.894306Z",
+    "path": "data/new-packages-2026-10-12T08-19-03-364106Z.csv",
+    "to": "2026-10-12T08:19:03.364106Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-12T04:09:04Z",
-      "package": "arisole",
-      "since": "2026-10-12T03:19:18.7739Z"
+      "attempts": 1,
+      "created_at": "2026-10-12T07:43:00Z",
+      "package": "heal-amateure-gpsr",
+      "since": "2026-10-12T07:19:58.894306Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-12T03:34:12Z",
-      "package": "numpy-ascend",
-      "since": "2026-10-12T03:19:18.7739Z"
+      "attempts": 1,
+      "created_at": "2026-10-12T07:24:18Z",
+      "package": "kiban",
+      "since": "2026-10-12T07:19:58.894306Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-12T08:16:42Z",
+      "package": "popo-flow",
+      "since": "2026-10-12T07:19:58.894306Z"
     }
   ],
-  "serial": 42119479,
+  "serial": 42121419,
   "source_truncated": false,
-  "window": "2026-10-12T07:19:58.894306Z"
+  "window": "2026-10-12T08:19:03.364106Z"
 }

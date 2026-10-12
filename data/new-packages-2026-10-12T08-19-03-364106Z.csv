@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T07:29:17Z,flechtctl,0.16.0,"Christian Schlichtherle, Viktor Penev",MIT,59177,"Keyrings and flenc:/flsig: secret tokens for Flechtwerk, without the framework: a library and a command line tool."
+2026-10-12T07:33:07Z,langchain-wity,0.1.0,,Apache-2.0,188904,"LangChain integration for Wity, the typed-decision API"
+2026-10-12T07:36:29Z,agentbi,0.1.0,AgentBI contributors,MIT,70177,"Is your website reachable, readable and purchasable by an AI agent?"
+2026-10-12T07:36:38Z,twittrapi,0.2.0,TwittrAPI,MIT,84720,"Python client for TwittrAPI: read public Twitter/X tweets, profiles, followers and search results. Pay as you go from $0.065 per 1,000 calls."
+2026-10-12T07:40:20Z,geistr,0.3.3,,see LICENSE,2670854,Run language models in your Python process (geist-runtime)
+2026-10-12T07:41:06Z,tacet-api,0.1.2,Heonjin Jeong,Apache-2.0,27672,Find the frontend code a backend API change breaks: Python bindings and FastMCP tools for Tacet (TypeScript frontend + Spring Boot backend)
+2026-10-12T07:42:21Z,langchain-twittrapi,0.2.0,TwittrAPI,MIT,46024,"LangChain tools for TwittrAPI: read public Twitter/X tweets, profiles, followers and search results. Pay as you go from $0.065 per 1,000 calls."
+2026-10-12T07:42:37Z,llama-index-tools-twittrapi,0.2.0,TwittrAPI,MIT,41606,"LlamaIndex tools for TwittrAPI: read public Twitter/X tweets, profiles, followers and search results. Pay as you go from $0.065 per 1,000 calls."
+2026-10-12T07:48:08Z,MultiGlue,1.0.0,Siqi Chen,Apache 2.0,38491,Integrative and generative analysis of spatial multi-omics with MultiGlue
+2026-10-12T07:48:24Z,kataphi,0.0.1.dev0,Frej Dahlin <frej.dahlin@gmail.com>,,1764,Toolchain for training logic gate networks and compiling them into portable C99.
+2026-10-12T07:49:36Z,tracepanel,0.0.1a1,,MIT,217423,"Traces and logs for Python apps: every request, task and command with its SQL and log lines, N+1 queries found"
+2026-10-12T07:50:24Z,volcengine-ark-runtime,5.0.51.post2,volc-engine,Apache License 2.0,339094,Volcengine arkruntime SDK for Python
+2026-10-12T07:51:08Z,resume-budget-guard,0.2.0,hao li <haoli5933@gmail.com>,MIT,23133,"Enforce a cumulative spend cap across Claude Code resumes, with quota-aware auto-wake"
+2026-10-12T07:51:17Z,decision-log,0.2.0,hao li,MIT,9483,"Append-only decision log for coding-agent sessions, with read-time verification and a write-time gate"
+2026-10-12T07:51:22Z,privacyfence-sync,6.0.0,,Apache-2.0,102223,"Run a PrivacyFence data-sync recipe as a plain MCP client, with no AI model involved."
+2026-10-12T07:51:24Z,skill-tax-cli,0.1.0,hao li,MIT,12827,Audit the context tax of your Claude Code skills; detect silent listing-budget drops; CI gate
+2026-10-12T07:51:28Z,evalsi,0.1.0,,Apache-2.0,742239,"One entrypoint for evaluating ML models, LLMs and agents."
+2026-10-12T07:51:31Z,evalsi-harness,0.1.0,,Apache-2.0,133966,"The light built-in agent harness for Evals.si: tool loop, MCP tools, sandboxes, user simulator, record and replay."
+2026-10-12T07:51:32Z,pin-deep,0.1.0,hao li,MIT,17188,Recursive GitHub Actions pin checker: flag unpinned nested uses hiding behind your SHA-pinned actions
+2026-10-12T07:53:12Z,line-mcp,0.0.1,,,1932,"MCP server for a personal LINE account: local archive, search and messaging for coding agents. Placeholder until the first release."
+2026-10-12T07:56:31Z,apitestx,0.1.0,,MIT,20110,A synchronous pytest and HTTPX API testing layer
+2026-10-12T07:57:19Z,long-screen,0.1.0,Yi-Ting Chiu,MIT,6093842,Turn a screen recording of a page explored along any path into one big screenshot
+2026-10-12T07:59:17Z,obb-loss,0.12.1,Vadym Stupakov <vadim.stupakov@gmail.com>,,11894,Numerically stable oriented-box and quality-classification losses
+2026-10-12T08:00:40Z,mountain-sdk,0.0.1,Bjorn,MIT,3528,Name reservation stub for mountain-sdk. Not for production use.
+2026-10-12T08:03:48Z,startup-sbom,2.0.0,morpheuslord,MIT,1262475,"Root-confined static analysis of Linux root filesystems and container images: map what runs at boot to its packages, reverse vulnerabilities into concrete threats, chain attacks and trace supply-chai…"
+2026-10-12T08:05:03Z,reportpy,0.1.1,Adrian Julius Aluoch,MIT,48004,Plain-language data reports for pandas DataFrames
+2026-10-12T08:05:56Z,png2svg-viethung103,0.1.0,Viet Hung,UL/Centrale,6187,This package can transfrom the low resolution in PNG format to high resolution in SVG format.
+2026-10-12T08:06:26Z,tubulin,0.1.0,,MIT,23751622,Python-first scientific application framework powered by a Rust runtime
+2026-10-12T08:08:03Z,genealogy-mcp,0.1.0,Igor Melnikov,MIT,230355,"Genealogy research toolkit for AI assistants (MCP server): 79 archives and databases for Russia, the former USSR, Europe and Latin America, name variants and transliterations, old calendars, kinship…"
+2026-10-12T08:08:38Z,skynetworth,1.0.1,plun1331,,38034,Calculate a SkyBlock player's networth.
+2026-10-12T08:11:18Z,kshana-mcp,0.35.0,Ashforde OÜ <contact@ashforde.org>,AGPL-3.0-only,38036,"Launcher for the Kshana MCP server: downloads the prebuilt kshana-mcp binary of the same version from the GitHub release, checks it against SHA256SUMS and runs it. Advisory, not type-approved navigat…"
+2026-10-12T08:12:22Z,voxrt,0.2.0,,Apache-2.0,4329310,"Fast, deterministic speech-to-text runtime for moondream/parakeet-redux (ternary Parakeet-TDT), in Rust"
+2026-10-12T08:12:53Z,agent-trajviz,0.1.0,Rui Shu,MIT,945080,"Parse and analyze LLM agent trajectories (Claude Code, Cursor, OpenCode, CodeArts, ICode, Codex CLI, Pi, DeepSeek Harness): every metric and chart as JSON, with optional figures and dashboards"
+2026-10-12T08:14:44Z,tripwire-sec,0.1.0,Tripwire Core Team,,41708,Tripwire: Differential Dynamic Behavioral Analysis (DDBA) for Software Supply Chains
+2026-10-12T08:15:07Z,melu,0.8.0,"""moxxie.knolastname"" <moxxie@knolastna.me>",Apache-2.0,152226,A content-bound image watermarking system
