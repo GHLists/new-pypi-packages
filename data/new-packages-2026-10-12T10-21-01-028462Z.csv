@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T08:59:38Z,brulegfx,0.0.6,cubicibo <cubicibo@outlook.com>,MIT,3388561,"Bitmap utilities (RLE, RGBA quantization, Segmentation)"
+2026-10-12T09:17:39Z,reference-audit,0.1.0,,,1152810,"Audit .bib/.tex references: identify the exact artifact, screen for hallucinated references, and produce the best reference."
+2026-10-12T09:18:59Z,context-atlas,1.0.0,Fox Islam <foxislam@outlook.com>,MIT,614991,Utility library to help process large context inputs in limited context window scenarios
+2026-10-12T09:21:01Z,csvdoctor,0.1.0,csvdoctor contributors,MIT,61013,"Diagnose and repair messy CSV files: encodings, delimiters, ragged rows, Excel damage and more. Zero dependencies."
+2026-10-12T09:24:38Z,vaid-a2a,0.1.1,solara.associates,Apache-2.0,67069,"Reference verifier for the VAID A2A extension (docs/a2a/v1/extension.md): checks a VAID carried in an A2A Message against signature, expiry, chain attenuation, requested-action scope and revocation."
+2026-10-12T09:25:13Z,dega2,0.1.0,Ali Zaidi <a.zaidi@crlca.dz>,MIT,36765,DEGA-2: A optimization a function over the efficient set of multi-objective integer variables using the genetics algorithms
+2026-10-12T09:26:11Z,rogerwilco,0.2.0,Adam Field <adam@crox.io>,Apache-2.0,119806,"Program-run checks around an AI agent's irreversible actions: typed handoff lines, a readback the sender checks, and a done report checked against the plan."
+2026-10-12T09:26:30Z,agent-footprint,0.1.0,Steven Warmelink,MIT,242078,"Live environmental footprint (energy, water, carbon) of AI coding agents: Claude Code, Codex CLI, Gemini CLI, OpenCode, Mistral Vibe and GitHub Copilot, computed with EcoLogits."
+2026-10-12T09:27:48Z,odoo-addon-stock-picking-portal-owner,17.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,181249,Show consignment owner stock operations in portal
+2026-10-12T09:28:36Z,entirius-django-access,1.0.0,Entirius,MPL-2.0,343681,"Staff access module for Entirius: roles per module area, an admin API gate and hashed application tokens"
+2026-10-12T09:30:34Z,stockscreen-mcp,0.1.0,David Ten,Apache-2.0,117444,"MCP server for daily stock screens (Minervini, CANSLIM, VCP and more), RS ratings, market breadth and IBD-style group rankings across 12 markets. No API keys or setup."
+2026-10-12T09:31:46Z,seiscode-models,0.1.0,Damien Pageot <damien.pageot@gmail.com>,MIT,19392,Synthetic subsurface velocity model generators for seismic testing
+2026-10-12T09:34:17Z,marimo-logilab-helper,0.1.1,Logilab,GNU Lesser General Public License v2 or later (LGPLv2+),15510,Logilab Marimo helpers contains various functions used in Logilab training exercises implemented in Marimo notebooks
+2026-10-12T09:37:01Z,starlane,1.0.0,,MIT,986644,"A small, stdlib-only operating system around your Markdown notes and Claude Code: memory check, specialist agents, routines, local dashboard"
+2026-10-12T09:38:46Z,xincord,1.0.0,,AGPL-3.0-or-later,131961,A modular Discord bot built on discord.py.
+2026-10-12T09:39:05Z,xincord-plugins,1.0.0,,AGPL-3.0-or-later,652327,The official xincord plugins.
+2026-10-12T09:43:43Z,rag-eval-kit-avan,0.1.0,Avan Kumar J <avankumar2025@gmail.com>,MIT,6931,A lightweight Python wrapper for evaluating RAG pipelines using Ragas.
+2026-10-12T09:46:38Z,umap-art,0.1.0,Umap contributors,MIT,1048142,"Independent, keyless map artwork for Python, the command line, and MCP"
+2026-10-12T09:47:35Z,provena-audit,0.2.0,,MIT,1580696,Find duplicate and near-duplicate footage in a video library. Only small fingerprints leave your machines.
+2026-10-12T09:47:40Z,wren-agent,1.0.0,oncetrange <oncetrange@outlook.com>,MIT,396906,A coding agent for the terminal
+2026-10-12T09:48:17Z,JD-data-pipeline-helper,0.1.0,DEEPAK.J,,8770,A helper library for building and managing data pipelines
+2026-10-12T09:49:07Z,crewai-anakin,0.1.0,Anakin <support@anakin.io>,MIT,284258,"CrewAI tools for Anakin: web scraping, search, deep research, Wire site actions, monitors and browser tasks"
+2026-10-12T09:50:29Z,steersync,0.2.0,Dejan Gregor <dejan.gregor@gmail.com>,Apache-2.0,141926,Sync Kiro steering documents between developer machines and a central git repository.
+2026-10-12T09:50:53Z,scribe-ocr,1.0.0,Openwist,Apache-2.0,54648610,"Fast, low-memory, offline OCR — CLI, local web app, and Python API in one pip install. Reads images, PDFs, and DOCX; reconstructs reading order and tables as Markdown."
+2026-10-12T09:53:58Z,pynlme,0.5.0,William Lövfors <william.lovfors@liu.se>,MIT,2158801,Nonlinear mixed-effects models for Python with MATLAB nlmefit/nlmefitsa syntax
+2026-10-12T10:01:03Z,ssqp,0.1,,BSD-3-Clause,10285338,"Structure-exploiting SQP solver for nonlinear optimal control, trajectory generation and MPC"
+2026-10-12T10:02:59Z,tracera-ai,0.2.0,TRACERA Team,MIT,975483,CodePilotX — Agentic Code Intelligence & Autonomous Coding Engine
+2026-10-12T10:15:19Z,stagereg,0.1.0,"Giorgio Tosti Balducci, Intelligent System Prognostics for Operations & Maintenance Research Group",BSD-3-Clause,218121,Stage-oriented probabilistic regression
+2026-10-12T10:16:10Z,seg-sdk,0.1.0,SEG <support@sovereigneg.com>,Apache-2.0,642335,The official Python SDK for the SovereignEG (SEG) API
+2026-10-12T10:16:55Z,pywmocat,0.5.0,Tom Kralidis <tomkralidis@gmail.com>,Apache-2.0,37475,WMO WIS2 Global Discovery Catalogue / WIGOS Global Observing Facility Catalogue Python client
+2026-10-12T10:17:16Z,srebps-ai,1.0.0,SREBPS,,16723,SDK Ufficiale Python per l'integrazione di SREBPS AI in bot e siti web
+2026-10-12T10:18:34Z,django-maker-checker,0.4.0,Josephat Macharia,MIT,135746,"Maker-checker (four-eyes) approval of sensitive changes for Django: tenant-configured rules, segregation of duties, SLA escalation and a full audit trail."
+2026-10-12T10:18:38Z,vaid-adk,0.1.0,solara.associates,Apache-2.0,54625,"VAID verification for Google ADK: a BasePlugin that checks a presented VAID's signature, expiry, delegation-chain attenuation and revocation before an agent runs, is delegated to, or calls a tool, de…"
+2026-10-12T10:18:56Z,tyzarr,0.1.1,Rex,,58260,把 xarray.Dataset 存成不可变 zarr v3 快照，支持本地目录与 MinIO，用带 CAS 的 metadata.json 做原子发布
