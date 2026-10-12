@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-11T23:19:52Z,rimsavexray,1.3.0,Booyaka101,MIT,71972,"See inside your RimWorld save: a read-only report of every byte and every lag-driving count, per section and per mod, with a ranked fix list."
+2026-10-11T23:21:55Z,how-wrong-is-your-mmm,0.1.0,Ryan O'Sullivan <raz1470@hotmail.co.uk>,MIT,283282,Collinearity diagnostics and budget phasing tools for Marketing Mix Models
+2026-10-11T23:23:36Z,exmergo-dex,0.0.0,"""Exmergo, Inc."" <support@exmergo.com>",Apache-2.0,12918,Reserved by Exmergo. The dex engine is published as 'exmergo-dex-core'.
+2026-10-11T23:29:46Z,fcvm,0.7.0,Carlos Bravo,Apache-2.0,22368,A client for the fcvm HTTP API: Firecracker microVM sandboxes from Python
+2026-10-11T23:29:48Z,fcvm-mcp,0.7.0,Carlos Bravo,Apache-2.0,15487,Launches fcvm's MCP server: Firecracker microVM sandboxes as tools for AI agents
+2026-10-11T23:30:41Z,harness-policy,0.0.0,,,2813,"Placeholder for harness-policy, a framework for robotics agent harnesses. Not released yet."
+2026-10-11T23:31:36Z,gleif-keria,0.4.1,"""Philip S. Feairheller"" <pfeairheller@gmail.com>",Apache Software License 2.0,229948,KERIA: KERI Agent in the cloud
+2026-10-11T23:34:09Z,probity-verify,0.1.0,,Apache-2.0,130394,"Check claims against pinned evidence offline, with replayable decisions"
+2026-10-11T23:35:06Z,probity-ratchet,0.1.0,,Apache-2.0,1596616,"An agent harness that turns each failure into a proven guard or procedure, with every version and proof kept in MongoDB Atlas."
+2026-10-11T23:36:08Z,n11-deadbolt-client,1.1.0rc1,NextEleven LLC,Apache-2.0,48177,Local DeadBolt sidecar client and optional OpenAI Agents SDK function-tool integration
+2026-10-11T23:42:48Z,ilyrics,0.2.0,,Apache-2.0,3638335,"Lyrics videos of the iPhone Music Lyrics screen, with on-device synchronization"
+2026-10-11T23:44:04Z,prepublish-guard,0.1.1,Santiago Osorio,MIT,70369,"Find secrets, personal data (incl. Colombian formats) and other things that must not be published, in a repository's files and its git history."
+2026-10-11T23:47:49Z,antigravitystreaming,0.1.0,Eliran Wong,,15444,Stream text from the signed-in Google Antigravity CLI
+2026-10-11T23:54:02Z,picturesq,0.0.1,Eddie MG,MIT,48334,"Turn a folder of RAW photos into consistently graded exports, driven by looks and YAML."
+2026-10-11T23:57:03Z,sentra-mcp,0.1.0,mo22zy2,MIT,113161,Sentra — local-first MCP server for mock exam generation
+2026-10-11T23:58:04Z,brmunipanel,0.1.0,Lucas Guesse,MIT,302732,"ETL library for a harmonized panel of socioeconomic, fiscal, health, territorial and educational indicators for Brazilian municipalities (IBGE, Tesouro Nacional, IPEA Data, DATASUS, INEP)."
+2026-10-11T23:58:22Z,udfkit,0.1.0,kajisho5,Apache-2.0,69662,Write DVD-Video (UDF 1.02 + ISO 9660) and Blu-ray (UDF 2.50) disc images in pure Python
+2026-10-11T23:58:51Z,dl-course,2026.10.11.4,Konstantin Schekotihin,MIT,63665,Plotting and asset helpers for the AAU Machine Learning and Deep Learning course notebooks
+2026-10-12T00:00:53Z,dvdcc,0.1.1,kajisho5,Apache-2.0,40973,Line-21 (CEA-608) closed captions for DVD-Video: Scenarist SCC or subtitles into MPEG-2 GOP user data
+2026-10-12T00:01:07Z,bdmvkit,0.2.0,kajisho5,LGPL-3.0-or-later,91205,"Blu-ray (BDMV) authoring in pure Python: playlists, clip information, HDMV navigation, PGS subtitles"
+2026-10-12T00:01:32Z,wildtrax-client,0.1.0,Halter Technical,MIT,24349,Python client for the WildTrax 2027 HTTP /api control surface
+2026-10-12T00:02:15Z,cmark-render,0.1.0,Zachary Juang,BSD-2-Clause,1120685,"Fast, leak-free markdown to HTML with a vendored cmark-gfm (tables, ~~strikethrough~~, raw HTML)."
+2026-10-12T00:04:36Z,pyc-revive,1.0.0,opsecalyzer,MIT,1578446,Stdlib-only .pyc -> .py reconstructor with native and pycdas backends
+2026-10-12T00:07:12Z,ground-control-cli,0.2.0,,,90849,What runs on a developer's machine: the command line and the agent's plugin.
+2026-10-12T00:10:42Z,recon-orchestrator,1.0.0,,Apache-2.0,128151,Authorized security-scan tool orchestrator (nmap/nuclei/testssl + built-in checks) with Markdown/JSON/SARIF reports.
+2026-10-12T00:10:46Z,reprobe-agents,0.1.0,Pranith Ravella,Apache-2.0,303262,Turn an agent security failure into a reproducible regression test.
