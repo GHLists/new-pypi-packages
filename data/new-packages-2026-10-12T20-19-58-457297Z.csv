@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T19:00:19Z,flexdeck,0.1.1,,MIT,38969,"Write FlexDeck plugins in Python: declare actions, values, events and feeds; test, pack and verify them against FlexDeck itself."
+2026-10-12T19:26:07Z,vcs-versioning-pants-plugin,0.1.0,Zach Gottesman,Apache-2.0,18180,"A Pantsbuild plugin that generates version modules from git tags with vcs-versioning, with per-package tag prefixes for monorepos."
+2026-10-12T19:27:50Z,unpile,0.1.0,,MIT OR Apache-2.0,47628119,Susceptibility distortion correction for EPI: GRE fieldmap refinement and fieldmap-less correction against an anatomical reference
+2026-10-12T19:29:49Z,hangtu,0.0.1,Konner Horton,MIT,130693,"Plots and analyses for geotechnical engineers, in US or SI units; AGS4 and DIGGS data ingest planned"
+2026-10-12T19:31:03Z,anneal-run,0.0.1,Anneal <hello@anneal.run>,Apache-2.0,69280,Anneal compiles your agent's hot paths into code; the model only runs on what's new.
+2026-10-12T19:32:06Z,h2orb,0.1.1,Zoltán Hrabovszki,H2ORB Community License (Nicht-kommerzielle Nutzung) Copyright (c) 2026 Zoltán Hrabovszki 1. Begrif…,416607,A result browser and reporting tool for test-management data.
+2026-10-12T19:38:39Z,contextsql-garvit,0.1.0,,,61449,"Local, free, business-context-aware text-to-SQL agent"
+2026-10-12T19:39:00Z,ritk-python,0.12.79,Ryan Clanton <ryanclanton@outlook.com>,MIT OR Apache-2.0,143857310,Python bindings for the RITK medical imaging toolkit
+2026-10-12T19:42:13Z,crup,0.1.0,Mitja Pagon <mitja.pagon@inueni.com>,,124493106,CRusty Url Parser - a fast Rust powered URL parser for Python
+2026-10-12T19:50:13Z,liquidlm,0.1.0a0,,MIT,46892,Python client for the LiquidLM public API (sync + async)
+2026-10-12T19:50:32Z,crewai-econdash,0.1.1,EconDash <noderguru@gmail.com>,MIT,13265,"CrewAI tools for EconDash macroeconomic data. Same free trial, API key and pay-per-call rules as the econdash client."
+2026-10-12T19:52:22Z,flagstones,0.1.0rc1,,MIT,399994,"Voronoi tiles seeded on consolidated road intersections, with stable grid-cell ids"
+2026-10-12T19:52:49Z,pbsg,0.1.0,Maya Lee Milrod,"MIT License Copyright (c) 2026 Maya Lee Milrod Permission is hereby granted, free of charge, to any…",686142,"Polymer Bead Sequence Graphs: a coarse-grained, machine-interpretable polymer representation that accounts for stereochemistry."
+2026-10-12T19:53:33Z,causalmesh,0.1.0,Sagexd08,MIT,1378366,An experimental platform separating information from enforcement in distributed LLM coding agents
+2026-10-12T19:54:26Z,speaker-diarize-lite,0.1.0,Pranay Mahendrakar,MIT,83147,"Work out who spoke when in a recording, with a lightweight method or a model you supply"
+2026-10-12T19:54:49Z,aircode-code-change-worker,0.0.1,,,1127,Name reserved by Aircall (dependency-confusion defence). Contains no code.
+2026-10-12T19:54:50Z,aircode-figma-client,0.0.1,,,1087,Name reserved by Aircall (dependency-confusion defence). Contains no code.
+2026-10-12T19:54:51Z,aircode-shared,0.0.1,,,1046,Name reserved by Aircall (dependency-confusion defence). Contains no code.
+2026-10-12T19:55:18Z,voice-commands-ai,0.1.0,Pranay Mahendrakar,MIT,76415,Turn spoken or transcribed commands into structured Python actions
+2026-10-12T19:57:15Z,wcc-sim,0.1.0,Gudmundur Stefansson <gstefansson@schmidtsciences.org>,BSD-3-Clause,269351,End-to-end photometric image simulator for the Lazuli Wide-field Context Camera (WCC)
+2026-10-12T19:58:30Z,avulse,0.0.0,Fabio Falcinelli <fabio.falcinelli@gmail.com>,LGPL-3.0-or-later OR GPL-2.0-or-later,2676,"Divert, modify and re-inject network packets on Linux, Windows and macOS."
+2026-10-12T19:59:09Z,split-adjustment-tool,0.4.1,Alex Bocio (Alt Data Forge),Apache-2.0,153507,"Verify, repair and apply stock-split adjustments against your own as-traded price tape."
+2026-10-12T20:01:53Z,p1-dsmr-common,0.1.0,,,17100,Shared compatibility helpers for Home Assistant P1/DSMR integrations
+2026-10-12T20:04:40Z,types-boto3-sagemakertrainingsessionruntime,1.43.112,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,39767,Type annotations for boto3 SageMakerTrainingSessionRuntime 1.43.112 service generated with mypy-boto3-builder 8.12.0
+2026-10-12T20:09:40Z,pbatis,1.1.1,pengdeyou <82176754@qq.com>,MIT,5551196,Python 数据库工具与对象关系映射（ORM）框架
+2026-10-12T20:11:11Z,gitroster,0.2.0,firatsahn,MIT,121676,"Find the repos, virtual envs and open ports you forgot about, and how to run them."
+2026-10-12T20:12:35Z,handler-ai,0.1.0,,Apache-2.0,1042200,"Run coding agents (Claude Code, Codex, Vibe, pi) in rootless Podman sandboxes on Linux"
+2026-10-12T20:15:21Z,thepihub,0.1.0,ThePiHub,Apache-2.0,419138,The ThePiHub device SDK: connect a Raspberry Pi to a web dashboard
+2026-10-12T20:17:01Z,listenflow,0.17.6,minamik <mia@sync.dev>,MIT,42633,Engine-neutral streaming speech-to-text contracts and runtime
+2026-10-12T20:17:03Z,fde-workflow-cli,0.1.0,Marco Fura Mendoza,MIT,51198,"Direction framework for FDE customer projects: North Star, KPIs with baselines, paths, stages and decisions, on top of any execution methodology."
+2026-10-12T20:18:26Z,softcloak,1.0.0,,,22315,Replace strings in an APK and re-sign it.
+2026-10-12T20:19:18Z,mypy-boto3-sagemakertrainingsessionruntime,1.43.112,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,39763,Type annotations for boto3 SageMakerTrainingSessionRuntime 1.43.112 service generated with mypy-boto3-builder 8.12.0

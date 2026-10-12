@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-10-12T18:18:34.467745Z",
-    "path": "data/new-packages-2026-10-12T19-21-25-273801Z.csv",
-    "to": "2026-10-12T19:21:25.273801Z"
+    "count": 32,
+    "from": "2026-10-12T19:21:25.273801Z",
+    "path": "data/new-packages-2026-10-12T20-19-58-457297Z.csv",
+    "to": "2026-10-12T20:19:58.457297Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-12T18:22:18Z",
       "package": "cribl-python-sdk",
       "since": "2026-10-12T18:18:34.467745Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-12T19:00:19Z",
-      "package": "flexdeck",
-      "since": "2026-10-12T18:18:34.467745Z"
     }
   ],
-  "serial": 42147199,
+  "serial": 42149841,
   "source_truncated": false,
-  "window": "2026-10-12T19:21:25.273801Z"
+  "window": "2026-10-12T20:19:58.457297Z"
 }
