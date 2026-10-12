@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T21:21:14Z,agencast,0.19.3,,WTFPL,1928527,"AgenCast — repeatable workflows for AI agents, with MCP, CLI, validation and readable run records"
+2026-10-12T21:21:39Z,oboeru,0.4.0,,MIT,33540197,Addictive terminal kanji quiz (TUI) on KANJIDIC2 data
+2026-10-12T21:24:57Z,broadlink-async,1.1.0,DAB-LABS,MIT,136259,Python API for controlling Broadlink devices
+2026-10-12T21:25:07Z,pytorches-xpu,0.1.0,,Apache-2.0,358300,"Intel GPU (XPU) backend for PyTorches (OpenCL, loaded at runtime; Intel Arc and integrated GPUs)"
+2026-10-12T21:29:28Z,cmem-plugin-ntfy,1.0.0,eccenca GmbH,Apache-2.0,73634,Send and receive push notifications and attachments with ntfy.
+2026-10-12T21:31:22Z,pygeon-ltc,0.1.0,"Henry Hölzemann <henry.hoelzemann@fkie.fraunhofer.de>, Michael Schleiss <michael.schleiss@unibw.de>","MIT License Copyright (c) 2026 Henry Hölzemann, Michael Schleiss Permission is hereby granted, free…",131888,Python tools for working with the Leaving the City dataset
+2026-10-12T21:32:52Z,bounded-embodiment,0.1.0,Craig Merry,Apache-2.0,330152,"The Bounded Embodiment test method, executable: canonical JSON, signing, envelopes, the hostile command generator, scoring and report verification."
+2026-10-12T21:32:59Z,bounded-embodiment-kit,0.1.0,Craig Merry,Apache-2.0,549538,"The lab bench for the Bounded Embodiment tests: adapters, instruments, the runner and its watchdog."
+2026-10-12T21:33:41Z,gh-issue-lens,0.1.0,Mohammad El-Shennawy <mohamedwork216@gmail.com>,"MIT License Copyright (c) 2026 Mohammad El-Shennawy Permission is hereby granted, free of charge, t…",22442,Find beginner-friendly GitHub issues and export them as JSONL for LLM analysis.
+2026-10-12T21:34:04Z,pymarklet,0.1.0,PyMarklet contributors,MIT,18172,Generate browser bookmarklets that run Python with Pyodide.
+2026-10-12T21:35:02Z,qcdiff,0.2.0,,,2887329,"Semantic diff for OpenQASM 3 quantum circuits: compare two QASM programs at the gate level, for CI and code review"
+2026-10-12T21:38:57Z,pygraphix,0.0.2,PyCoder,,3595,Подождите... Скоро здесь будет что - то масштабное и крутое...
+2026-10-12T21:40:02Z,automation-traverse,0.1.0,Michael Renken <michaelarenken@gmail.com>,MIT,41708,Automate tasks in graph format
+2026-10-12T21:41:25Z,fujixcam,0.2.1,Masahiro Terada,MIT,148616,Python wrapper for FUJIFILM Camera Control SDK (X/GFX tethered cameras).
+2026-10-12T21:42:57Z,dataference,0.1.0,,Apache-2.0,188313,SQL cost prediction and engine comparison with local calibration
+2026-10-12T21:45:53Z,loom-ffi,2026.10.10.1,,,417436,
+2026-10-12T21:45:58Z,datbox,0.0.1,Nick Hebert,Apache-2.0,3133,"dat, the Data Analyst Toolbox: portable, zero-infrastructure utilities for data analysts."
+2026-10-12T21:45:59Z,datbox-core,0.0.1,Nick Hebert,Apache-2.0,7395,"Core of the Data Analyst Toolbox: the `dat` CLI, plugin registry, config, secrets, and output writers."
+2026-10-12T21:46:58Z,pytscheck,0.1.0,PyTSCheck contributors,Apache-2.0,67587423,"Python-native TypeScript type checking, powered by a bundled native tsgo compiler."
+2026-10-12T21:47:27Z,haaslab,0.1.0,,MIT,15731,Python SDK for the haas-lab hardware-as-a-service API
+2026-10-12T21:52:07Z,amcrest-downloader,0.3.0,Kamil Jiwa <kamil.jiwa@gmail.com>,MIT,44963,Download and merge video recordings from Amcrest IP cameras
+2026-10-12T21:52:26Z,claude-pc-control,0.6.1,PC-Control contributors,MIT,284419,"Let an AI see and operate Windows apps cheaply, without stealing focus or moving your mouse."
+2026-10-12T21:53:25Z,nookku,0.4.0,Mohan Raj,Apache-2.0,446297,"A test harness for developers of agent apps. Test your agent through Claude Code or Codex, byte for byte, and audit the record."
+2026-10-12T21:57:08Z,launchtape,0.1.0,Launch Tape <launchio48@gmail.com>,MIT,37706,"Load Launch Tape's daily Solana launch data (pump.fun graduations and launches, other launchpads, Meteora pools) in Python"
+2026-10-12T21:57:09Z,popmusic2,1.0.2,Matsvei Tsishyn <matsvei.tsishyn@protonmail.com>,MIT,54257,Run mutational DMS analysis with PoPMuSiC-2 and BeAtMuSiC.
+2026-10-12T21:57:40Z,mcpe-scaffold,1.3.1,EvilSlimeLabs,MIT,7949573,Turn a .mcstructure file into a Minecraft Bedrock resource pack of semi-transparent ghost blocks.
+2026-10-12T21:59:35Z,vouchwell,0.6.0,IdeaboticsAI,Apache-2.0,78949,"Tamper-evident receipts for AI agent actions. Python SDK, wire-compatible with the vouchwell CLI."
+2026-10-12T22:01:41Z,battery-genome,0.0.1,Simon Clark,Apache-2.0,11944,Python client for the Battery Genome. This release reserves the name; the first working release is planned for early 2027.
+2026-10-12T22:01:58Z,viihdexdash,0.2.0,Qotscha,,20007,Command line tool for downloading Elisa Viihde DASH streams with FFmpeg
+2026-10-12T22:02:18Z,fanferro,0.1.0,Carl Oscar Aaro <hello@carloscar.com>,MIT,53719980,"Fast, robust SNS + SQS messaging for Python, powered by a Rust core: fan-out, envelopes, claim checks, heartbeats, DLQs, routing and OpenTelemetry."
+2026-10-12T22:02:46Z,wulver,0.1.0a8,,MIT,22772640,A Django CMS with a configurable template manager
+2026-10-12T22:03:11Z,projectaria-debug-sharing,0.1.0,Meta Reality Labs Research,Apache-2.0,53523,Project Aria Debug Sharing Library
+2026-10-12T22:04:04Z,pytikz-diagrams,0.1.0,,,294968,"Write Python, get beautiful TikZ: diagrams for machine learning and mathematics."
+2026-10-12T22:05:45Z,snodo-validator-tool-jev,0.23.3,,,10610,TypeSafe Jev decision tool for Snodo validators
+2026-10-12T22:05:52Z,scar-calib,2.0.0,Henry Hölzemann <henry.hoelzemann@fkie.fraunhofer.de>,"MIT License Copyright (c) 2026 Henry Hölzemann, Michael Schleiss Permission is hereby granted, free…",154081,Satellite-based Calibration for Aerial Recordings
+2026-10-12T22:06:28Z,ephor,0.3.0,C1 Lab,AGPL-3.0-or-later,156692,"Passive, detect-only monitor of what AI agents do on a Linux box: where they go, what they download, and what they can access."
+2026-10-12T22:06:58Z,rbfgpu,1.0.0,Pietro Ferraiuolo <pietro.ferraiuolo@inaf.it>,MIT,66385,GPU/CPU agnostic Radial Basis Function interpolation (thin plate splines and friends) on top of XuPy.
+2026-10-12T22:09:04Z,sympytex,0.3.3,Tim Molteno <tim@physics.otago.ac.nz>,GPL-2.0-or-later,42452,Embed sympy symbolic computation into LaTeX documents
+2026-10-12T22:10:10Z,chronem,0.1.0,Kou Wang,Apache-2.0,220723,Open-source temporal memory engine for AI applications
+2026-10-12T22:10:39Z,contexory-sdk,0.1.0,,MIT,44013,"Resolve a Contexory agent's released context at runtime: cached, signature-verified, and safe when Contexory is unreachable."
+2026-10-12T22:11:14Z,iccdev,0.1.0,International Color Consortium,BSD-3-Clause,148562332,Python bindings for RefIccMAX (iccDEV) - ICC color profile library
+2026-10-12T22:11:26Z,hydroid-cli,0.2.0,,MIT,71343908,Finds blocking calls reachable on the event loop in async FastAPI code.
+2026-10-12T22:14:53Z,agentx-harness,1.0.7,"""NVIDIA Inc."" <sw-dl-dynamo@nvidia.com>",Apache-2.0,19453128,"SemiAnalysis AgentX inference benchmark harness, built on AIPerf"
+2026-10-12T22:15:40Z,oxbar,1.2.0,oxbar project,"MIT License Copyright (c) 2025 oxbar project Permission is hereby granted, free of charge, to any p…",209631,Mega HTTP/2 + TLS fingerprint toolkit with built-from-scratch JA3 / JA4 / Akamai / HTTP-2 reproduction.
+2026-10-12T22:16:25Z,terminal-gif-recorder,0.1.0,ChernegaSergiy,LicenseRef-CSSM-Unlimited-2.0,32527,"An automated terminal recording utility in Python for generating clean, artifact-free demo GIFs of interactive CLI applications."
