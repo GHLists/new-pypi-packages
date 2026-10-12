@@ -1,37 +1,49 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-10-12T16:19:05.787313Z",
-    "path": "data/new-packages-2026-10-12T17-20-02-67238Z.csv",
-    "to": "2026-10-12T17:20:02.67238Z"
+    "count": 40,
+    "from": "2026-10-12T17:20:02.67238Z",
+    "path": "data/new-packages-2026-10-12T18-18-34-467745Z.csv",
+    "to": "2026-10-12T18:18:34.467745Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-12T17:58:17Z",
+      "package": "aischemagate",
+      "since": "2026-10-12T17:20:02.67238Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-12T14:43:20Z",
       "package": "dhflagrelay2613c8a6",
       "since": "2026-10-12T14:18:32.962598Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-12T14:30:15Z",
       "package": "kspeedrun",
       "since": "2026-10-12T14:18:32.962598Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-12T13:30:08Z",
-      "package": "mcp-trace-inspector",
-      "since": "2026-10-12T13:22:14.332455Z"
+      "attempts": 1,
+      "created_at": "2026-10-12T18:17:40Z",
+      "package": "method-ai",
+      "since": "2026-10-12T17:20:02.67238Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-12T14:32:39Z",
       "package": "onetick-llmbase",
       "since": "2026-10-12T14:18:32.962598Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-12T18:12:35Z",
+      "package": "safety-protocol",
+      "since": "2026-10-12T17:20:02.67238Z"
     }
   ],
-  "serial": 42143246,
+  "serial": 42145331,
   "source_truncated": false,
-  "window": "2026-10-12T17:20:02.67238Z"
+  "window": "2026-10-12T18:18:34.467745Z"
 }

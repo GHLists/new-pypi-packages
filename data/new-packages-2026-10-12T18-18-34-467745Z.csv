@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T17:20:38Z,fauxshield-sdk,0.1.0,,MIT,48730,"Python SDK for the FauxShield anti-counterfeit platform: products, serialized units, verifications, and the fraud queue."
+2026-10-12T17:21:36Z,glassbox-agent,0.2.0,Chris <jckm14@gmail.com>,Apache-2.0,249619,Local-first receipts and safe undo for AI agents
+2026-10-12T17:28:07Z,wcc-etc,0.1.0,"Gudmundur Stefansson <gstefansson@schmidtsciences.org>, Mickael Rigault <m.rigault@ip2i.in2p3.fr>,…",BSD-3-Clause,17518521,Exposure Time Calculator for the WCC.
+2026-10-12T17:28:18Z,ty-pants-plugin,0.1.0,Zach Gottesman,Apache-2.0,14680,A Pantsbuild plugin for type checking Python code with ty.
+2026-10-12T17:29:26Z,mcp-audits-proof,0.0.1,,MIT,2511,Reserved name for the MCPAudit 3.0 package split. Install mcp-audits instead.
+2026-10-12T17:29:28Z,mcp-audits-labs,0.0.1,,MIT,2494,Reserved name for the MCPAudit 3.0 package split. Install mcp-audits instead.
+2026-10-12T17:31:41Z,refpot,0.1.1,Tugrul Guner,MIT,1852142,Experimental embedded native key-value database engine
+2026-10-12T17:33:27Z,switchboard-router,0.1.0,Switchboard,Apache-2.0,31536,"Pick the cheapest LLM that can handle each prompt, with the open Switchboard router."
+2026-10-12T17:34:08Z,lastnopezz,0.1.0,,,5714,
+2026-10-12T17:36:51Z,pipbnarha,0.1.0,,,5990,
+2026-10-12T17:39:10Z,runspec-prometheus-core,0.1.0,,,26269,"Pure-Python Prometheus HTTP API helpers — the importable core behind runspec-prometheus (no runspec dependency, no runnables)"
+2026-10-12T17:40:11Z,tablwpip,0.1.0,,,4312,
+2026-10-12T17:41:35Z,atharva,0.1.0,Akshay <akshayvr2@gmail.com>,MIT,28359,"Codeforces from your terminal: fetch problems, test locally, submit, and watch verdicts live."
+2026-10-12T17:42:44Z,runspec-prometheus,0.1.0,,,18635,"Prometheus runnable for runspec — PromQL queries, alerts, rules, targets, and server status, ported from the official Prometheus MCP server"
+2026-10-12T17:43:14Z,dagprobe,0.1.0,AndreyGor97,Apache-2.0,119551,Debug and test Apache Airflow DAGs without installing and running Airflow
+2026-10-12T17:43:35Z,konman,1.0.0,Your Name <your.email@example.com>,,38640,"🧠 konman: An automated, first-principles, LLM-agnostic codebase context engine."
+2026-10-12T17:46:03Z,visionist-client,0.1.2,"Manuel Ferreira, Joao P. Costeira",GPL-3.0-only,84728,Thin Python client to call deployed AI 'boxes' (gRPC services) by IP:port
+2026-10-12T17:48:01Z,mousecat-agent-runtime,0.0.1,MouseCat AI,,1816,Placeholder package for MouseCat AI.
+2026-10-12T17:48:02Z,mousecat-control-plane,0.0.1,MouseCat AI,,1816,Placeholder package for MouseCat AI.
+2026-10-12T17:51:01Z,datafog-mcp,1.0.0,Sid Mohan <hi@datafog.ai>,MIT,63198,Local PII and credential detection and redaction for AI agents (MCP server)
+2026-10-12T17:52:16Z,better-clear,0.1.1,,MIT,1085527,Have you ever felt that clearing the console with os.system is a bit... hacky?
+2026-10-12T17:52:29Z,rfbpy,0.1.0,Marcelo Perlin,MIT,178003,"Download, extract and load the Receita Federal open CNPJ data into SQLite or parquet"
+2026-10-12T17:54:18Z,parallax-agent,0.1.0,,MIT,156521,"Modular, model-agnostic AI coding agent runtime"
+2026-10-12T17:54:42Z,medalbot-render,0.1.1,,MIT,8191,Async Python client for the Medalbot Render API
+2026-10-12T17:54:50Z,femforge-workbench,0.0.1,Nathan Woodward,,2074,Interactive workbench for femforge. Placeholder release reserving the name; the first real release is in preparation.
+2026-10-12T17:55:30Z,alchemy-viz,0.1.0,The OpenFE developers <openfe@omsf.io>,MIT,313578,Visualization tools for gufe
+2026-10-12T17:56:17Z,pyrus-core,0.1.0,,,196531,
+2026-10-12T17:56:40Z,ittup,1.1.0,"Parzival, TehMaat",MIT,220830,ItaTorrents uploader
+2026-10-12T17:57:00Z,prepush-ci,0.0.0,,MIT,60448,Run the full CI check in the pre-push hook and let pull request CI skip commits that provably went through it
+2026-10-12T17:58:02Z,logiccore-tuhina,0.1.0,,,3629,A reusable Python library with helpful logic and utility functions
+2026-10-12T17:58:04Z,renderplan,0.1.0,,,74396,"Engine-neutral render profile, render plan, preflight, and render manifest contracts for speech pipelines."
+2026-10-12T18:00:16Z,pixi-policy,0.1.0,,Apache-2.0,16449058,Check what a pixi workspace's environments may contain against a written policy
+2026-10-12T18:01:17Z,funground,0.1.0a1,Samir Joshi,LGPL-2.1-only,13002233,Creative coding for learners: p5.js/Processing and DrawBot-style 2D drawing in Python.
+2026-10-12T18:03:42Z,nodecanvas-cli,0.1.0,Aleksandr Esipov,MIT,377884,"Read, query, lint and edit NodeCanvas graphs (Behaviour Trees, FSMs, Dialogue Trees) in Unity projects from the command line"
+2026-10-12T18:07:19Z,conatus,0.1.0,Ruben Dahan,BSD-3-Clause,55213235,A high-performance mathematical laboratory for PDEs and dynamical systems
+2026-10-12T18:08:36Z,parallaxdb,0.0.1,Parallax,,3111,"Name reserved for Parallax, a tool that shows where database time goes and compares Oracle with PostgreSQL after a migration. Not yet released here."
+2026-10-12T18:09:01Z,adhelm,0.1.0,The AdHelm authors,Apache-2.0,2946902,"Local, read-only CLI for AI agents to audit and report on your ad and analytics accounts"
+2026-10-12T18:09:19Z,jupyterlab-device-bridge-extension,0.6.18,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,691639,"Bridge serial (COM) ports and USB devices of the browser's computer into the JupyterLab container, so terminal programs and AI agents can program and read microcontroller boards"
+2026-10-12T18:09:41Z,momo-openapi,0.1.0,Dali Hillary <hillary@zem.bo>,MIT,41925,"Python client for the MTN MoMo Open API, ready for the momoapi.momo.africa platform migration."
+2026-10-12T18:12:40Z,courant-dev,0.5.0,Shivanshu Dwivedi,Apache-2.0,4681170,"Courant: physics acceptance testing for machine-produced simulation. A read-only, deterministic gate that accepts, rejects or abstains on an OpenFOAM run, with the reasons it read."
