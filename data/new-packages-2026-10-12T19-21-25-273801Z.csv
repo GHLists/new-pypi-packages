@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T17:58:17Z,aischemagate,0.1.0,"NightMoose, Inc.",MIT,6978,AISchemaGate — thin alias over `contractgate` for LLM output validation. Same engine as DataContractGate.
+2026-10-12T18:12:35Z,safety-protocol,0.3.0,Michael <michael@example.com>,MIT,135493,"Safety protocol framework for LLM agents — binding, scope, enforcement, monitoring, approval, audit, killswitch"
+2026-10-12T18:17:40Z,method-ai,0.14.3,Method,MIT,11640,Run agentic methods in discrete verifiable steps.
+2026-10-12T18:19:55Z,netbox-checkmk,0.3.2,Christian Wirtz <doc@snowheaven.de>,Apache-2.0,55478,"NetBox plugin showing live Checkmk monitoring status on devices, VMs and clusters"
+2026-10-12T18:20:13Z,agentplane-primitives,0.1.0,"Tisha Chawla, Susheem Koul",MIT,76260,"Shared, versioned domain primitives (Trace, Span, Envelope) for the AgentPlane products."
+2026-10-12T18:20:21Z,zim-pro,0.2.1,Kuldip Satpute,,694233,"Offline AI knowledge base: read, search and ask your ZIM library (Wikipedia and the Kiwix catalog) with a local or hosted model, and serve it to LLM apps over MCP."
+2026-10-12T18:20:26Z,skillgendev,0.1.0,skillgen contributors,Apache-2.0,725510,"Compile an app's code into one Agent Skills folder per page, so Claude or Cowork can fill its forms with few tokens."
+2026-10-12T18:20:56Z,casefinder,0.1.0,All Smart Accessories,MIT,17349,Phone case and screen protector compatibility lookup for 60+ smartphone models
+2026-10-12T18:21:37Z,prosefix,0.1.0,Andrew Brož,MIT,44927,"Clean, consistent prose in Markdown: stylefix's spelling and style guide plus proofix's typos, punctuation and commas, in one command."
+2026-10-12T18:25:39Z,accelana-torch-runtime,2.14.1,PyTorch Team <packages@pytorch.org>,Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND BSD-2-Clause AND BSD-3-Clause AND BSL-1.0 AND MIT,76131615,Accelana's repackaged PyTorch CPU runtime for Windows ARM64
+2026-10-12T18:28:29Z,banxicolab,0.3.0,Ana Lorena Jiménez Preciado,BSD-3-Clause,1976888,Cliente no oficial en Python para la API del SIE de Banco de México: descarga de series y transformaciones para análisis económico.
+2026-10-12T18:28:31Z,turkce-uslup,0.1.0,Mehmet Veysel Delibaş,MIT AND CC-BY-SA-4.0,2623278,"Türkçe metnin üslubu (haber, bilgi, talimat/duyuru, deneme, anlatı, masal, sohbet) ve seslendirme okuma ayarı; yalnız numpy"
+2026-10-12T18:28:37Z,seslen-tts,0.1.0,Mehmet Veysel Delibaş,MIT,28676,"İşlemcide çalışan, duygulu, vurguyu bilen açık Türkçe ses modeli (TTS): PyTorch'suz, yalnız ONNX Runtime"
+2026-10-12T18:38:01Z,ai-dlc-engineering-os,3.1.0,Jose Camargo,MIT,234193,"AI-DLC Engineering OS (by AgentShield): governed engineering memory and 26 specialist agents for Claude Code, Codex and VS Code over MCP"
+2026-10-12T18:39:56Z,koro-learn,0.2.0,Ninad Kale,,91824,"A headless teacher agent: learn books, papers and repos from any terminal, driven by the coding agent you already use."
+2026-10-12T18:41:25Z,phyprobe,0.1.0,,MIT,7561662,PhyProbe: Physical Consistency Violation Scorer for generated videos
+2026-10-12T18:42:12Z,accelana,0.1.1,,,5790866,Lana-driven adaptive SafeTensors weight residency for giant models on cheap hardware.
+2026-10-12T18:43:49Z,brownfield-cartographer,0.4.0,Yonas Mekonnen <myonas886@gmail.com>,Apache-2.0,331809,"Local-first, deterministic repository structure and data lineage analysis"
+2026-10-12T18:44:28Z,shadowlight,1.0.0,Arman Manteghi,"Proprietary, see LICENSE.txt",1203786,"Shadow AI exposure scanner: finds self-hosted AI model servers, vector databases, AI interfaces and MLOps tools that answer without authentication."
+2026-10-12T18:44:54Z,kobil-sign,3.0.0,,MIT,6084,KOBIL digital signature client for Python with automatic OAuth token management.
+2026-10-12T18:46:06Z,propuestasmorfeo-ia,0.5.0,Laboratorio de Inteligencia Artificial UNAL <amalvarezme@unal.edu.co>,Apache-2.0,4806070,CLI workspace orchestrator for AI research grant proposals (Morfeo IA)
+2026-10-12T18:50:37Z,osc7501,1.0.0,"""Y. Siva Sai Krishna"" <sivasaikrishnassk@gmail.com>",MIT,27029,Report terminal program status with OSC 7501.
+2026-10-12T18:53:41Z,linc-nerve,0.1.0,LINC Innovations,Apache-2.0,1062114,LINC Nerve — unified device control platform for mobile and beyond
+2026-10-12T18:54:08Z,pyrainbird-iq4,0.1.0,Kris Sanders,MIT,65469,Python library for communicating with Rain Bird IQ4 irrigation controllers
+2026-10-12T18:56:29Z,doormat,0.2.0,Dipan Ghosh,MIT OR Apache-2.0,8464594,"Find passwords and secrets hidden in spreadsheets (xlsx, xls, ods, csv) with spatial analysis and a fast Rust core"
+2026-10-12T18:58:07Z,invoicexml-zugferd-xrechnung,0.1.0,InvoiceXML <support@invoicexml.com>,MIT,65890,"Python client for ZUGFeRD and XRechnung e-invoices: create ZUGFeRD PDF/A-3 and XRechnung XML from EN 16931 data, validate, embed, render and extract, via the InvoiceXML API."
+2026-10-12T18:58:18Z,apsia-sdk,0.8.0,Apsia <hi@apsia.space>,Apache-2.0,57943,"Official Python SDK for the Apsia API: battery health from the telemetry you already receive, a per-orbit energy twin and energy-aware planning for satellite operations."
+2026-10-12T18:58:22Z,invoicexml-facturx,0.1.0,InvoiceXML <support@invoicexml.com>,MIT,67401,"Python client for Factur-X e-invoices: create Factur-X PDF/A-3 from EN 16931 data, validate (including the French BR-FR rules), embed and extract, via the InvoiceXML API."
+2026-10-12T18:58:32Z,contextsql,0.1.0,,,46352,"Local, free, business-context-aware text-to-SQL agent"
+2026-10-12T19:00:48Z,lab-sync-driver-protocol,0.3.0,Lab Sync,MIT,11747,Versioned stdio wire contract between the device engine and out-of-process device drivers
+2026-10-12T19:02:34Z,biject-surject,0.0.1,Adeel Khatri,MIT,5487,Placeholder for biject-surject
+2026-10-12T19:03:00Z,lab-sync-driver-sdk,0.3.0,Lab Sync,MIT,62737,"Public driver-authoring SDK for the device engine: subclass Device, decorate commands, serve() over stdio"
+2026-10-12T19:03:05Z,zotero-fulltext-mcp,0.12.1,Matthias Kloft,"MIT License Copyright (c) 2026 Matthias Kloft Permission is hereby granted, free of charge, to any…",3976149,"Convert a Zotero library's linked PDF attachments to Markdown, build a full-text search index, and expose it via an MCP server."
+2026-10-12T19:03:24Z,thisness,0.1.0,Fahad Baig,Apache-2.0,1427647,"Identity resolution for imperfect observations: evidence, stable identities, reversible history."
+2026-10-12T19:07:51Z,snapfetch,0.0.0a0.dev0,Adrien Thob <adrien.thob@gmail.com>,AGPL-3.0-or-later,2192,Placeholder release. The full snapfetch package is under development.
+2026-10-12T19:08:44Z,inversion,1.0.0,Jim Porter <itsjimporter@gmail.com>,BSD-3-Clause OR Apache-2.0,73788,Flexible version handling
+2026-10-12T19:12:24Z,tracelyai-sdk,0.0.1,,MIT,224122,"Tracely Python SDK: automatic + manual agent tracing, exported to Tracely over OTLP."
+2026-10-12T19:14:00Z,context-compression-engine,0.1.0,Shaik Kareem,MIT,114976,Memory for AI assistants: compress long conversations into topic notes and send a model only the context it needs.
+2026-10-12T19:14:39Z,picard-store,0.2.0,Christopher Neitzert,"MIT License Copyright (c) 2024-2026 Christopher Neitzert Permission is hereby granted, free of char…",1280029,"Protocol-Introspecting Chunk Adapter for Resilient Data: encrypt, chunk, and scatter data across protocol gaps."
+2026-10-12T19:15:03Z,typos-pants-plugin,0.1.0,Zach Gottesman,Apache-2.0,15438,A Pantsbuild plugin for checking and fixing spelling in source code with typos.
+2026-10-12T19:17:16Z,netrcli,0.0.1,bugproduction <bugproduction@outlook.com>,MIT,11171,Tool to work with .netrc file entries
+2026-10-12T19:18:09Z,zanii-evolve,0.1.0,zaniiai agency,Apache-2.0,242970,"Regularized self-improvement of LLM agent harnesses: gains that hold up out of distribution, with verifiable change history"
+2026-10-12T19:18:23Z,lvca,0.0.0a0.dev0,athob <adrien.thob@gmail.com>,,2035,Placeholder release. The full package is under development.
+2026-10-12T19:20:54Z,vexy-speakup,1.0.0,,Apache-2.0,55280,"Diarize, restore, level and master recorded speech with local VST3 plugins, keeping the video timeline"
+2026-10-12T19:21:06Z,vexy-subs,1.0.0,,Apache-2.0,97852,Local speaker-coloured video subtitles with contextual hints and punctuation restoration
