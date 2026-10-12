@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T12:19:16Z,pktcap,0.1.0,jose-pr <jose-pr@coqui.dev>,MIT,599737,"Read, dissect, write and replay packet captures: pcap and pcapng, pluggable dissectors, a UDP datagram view, structured records"
+2026-10-12T12:23:28Z,kloudlite,0.1.0,,,5857,Models and datasets from Hugging Face or the kloudlite hub
+2026-10-12T12:23:35Z,data-engineer-doctor,0.1.1,Aditya Singh Rathore <rathoreadityasingh40@gmail.com>,Apache-2.0,969908,"Open-source, evidence-driven diagnosis for modern data engineering failures"
+2026-10-12T12:25:34Z,betterdb-hermes-memory,0.1.0,,MIT,47423,Hermes memory provider backed by betterdb-agent-memory on Valkey / valkey-search: semantic long-term recall with recency and importance ranking.
+2026-10-12T12:26:57Z,salispay-paymentgateway,0.0.6,Salispay,,6940,A Python library for the Salispay payment gateway.
+2026-10-12T12:27:26Z,halloween-ys,0.1.0,Younes Ouloum,MIT,28172,"Gestion de la collecte de bonbons d'Halloween : habitants, enfants, visites et classement."
+2026-10-12T12:27:59Z,osmiumchem,0.1.0,"""Olivier J. M. Béquignon"" <olivier.bequignon.maintainer@gmail.com>",MIT,228789,Round-trip benchmark of molecular encodings under a hard bit budget
+2026-10-12T12:28:02Z,wiend,0.1.0,Florian Scheiber,MIT,37851,"ERA5 wind download, downscaling and bias correction using Weibull parameter maps."
+2026-10-12T12:29:11Z,yakamoz,0.0.0,Recep Kaan Karaman,Apache-2.0,2773,"Cross-platform, GPU-batched autonomous driving simulator"
+2026-10-12T12:31:06Z,pyocl-idor,0.8.3,"Julien Hazemann <julien.hazemann@idorsia.com>, Manuel Sellner <manuel.sellner@idorsia.com>, Thomas…",,17096991,OpenChemLib via python
+2026-10-12T12:31:58Z,duckctl,0.17.0,,Apache-2.0,10059601,"Talk to a Microduck robot from a laptop — over Bluetooth LE, no network needed"
+2026-10-12T12:32:25Z,polus.py,0.0.1a0,,MIT,4885,A library for reading from https://polus.wiki/.
+2026-10-12T12:33:25Z,oix,0.2.0,Tim Baek <tim@openwebui.com>,MIT,139408,Build external apps for Open WebUI
+2026-10-12T12:37:38Z,loeb,0.1.0,Ramakrishna Kompella,MIT,132287,"Löb: an autonomous, LLM-driven end-to-end tester for voice and web apps"
+2026-10-12T12:39:01Z,cloudiamond-scratch,0.1.0,,MIT,126450,"Encrypted Scratch <-> Python communication over cloud variables: X25519 + ChaCha20-Poly1305, with the Scratch client generated as an .sb3 and verified on the real Scratch VM."
+2026-10-12T12:39:54Z,pqveil,0.0.1,A. Mykhalchuk,Apache-2.0,24941,PQ-Veil — реєстр статусів постквантових стандартів (ранній фрагмент; повна система не є публічною)
+2026-10-12T12:39:56Z,lazy-inspect-offline,0.1.2,,,20722,Search locally installed Python modules for functions and classes.
+2026-10-12T12:43:37Z,octopas,0.1.1,"Oliver Markgraf <markgraf@cs.uni-kl.de>, Hongjian Jiang <hongjian.jiang@rptu.de>, Franziska Alber <…",MIT,39251885,"Python interface to OctoPAs, a library for parametric automata and transducers"
+2026-10-12T12:43:51Z,halloween-crud,0.1.1,Mohsine ELGHANDOUR,MIT,17549,"Modèles Pydantic, logique CRUD et sauvegarde JSON de l'API Halloween (collecte de bonbons)"
+2026-10-12T12:44:23Z,metalink,0.3.7,Liuyang Li,GPL-3,3744564,Metalink: Joint taxonomic and functional profiling of metagenomes and metatranscriptomes across resolution scales. Metalink can be run in different modes to obtain joint outputs of functional and tax…
+2026-10-12T12:46:45Z,fornax-cutouts,0.1.0,MAST Developers,BSD-3-Clause,113691,NASA Fornax Cutouts - Pluggable backend for Async FITS cutouts with FastAPI + Celery using the IVOA UWS standard
+2026-10-12T12:47:18Z,cnexp,0.1.0,CN Student <student@example.com>,MIT,16563,Quick CLI reference for Computer Networks lab experiment programs
+2026-10-12T12:47:50Z,jqscore,0.1.0,Arthur Zalevsky <aozalevsky@gmail.com>,MIT,980622,JAX reimplementation of Q-score (github.com/gregdp/mapq)
+2026-10-12T12:47:55Z,grind-t-cbr-ratings,0.1.0,grind-t,ISC,30585,Async Python client for the Bank of Russia credit ratings registry
+2026-10-12T12:48:54Z,localbenchmark,0.1.0,Erdogan Taskesen <erdogant@gmail.com>,MIT,60069,"localbenchmark: local LLM evaluation — coding benchmarks, long-context stress tests, and ranking plots via LM Studio."
+2026-10-12T12:51:34Z,microcloud,0.1.1,,,5013630,"microcloud: a project's configuration from a file on disk, planned and applied through the manage API"
+2026-10-12T12:52:01Z,glassvm-machines,0.2.0,,BSD-3-Clause,2657,Tested package selections for GlassVM machine bundles
+2026-10-12T12:52:45Z,chatterbox-light,1.0.1,Resemble AI,MIT,130093,"Lightweight fork of Resemble AI's Chatterbox text-to-speech and voice conversion, with fewer dependencies and no watermarking"
+2026-10-12T12:52:56Z,torchsx-native,0.1.0,Hans Peter Seidel,MIT,1873729,Native CrystFEL .stream reader/writer for torchsx
+2026-10-12T12:53:25Z,owistscribe,1.0.0,Openwist,Apache-2.0,54648317,"Fast, low-memory, offline OCR — CLI, local web app, and Python API in one pip install. Reads images, PDFs, and DOCX; reconstructs reading order and tables as Markdown."
+2026-10-12T12:53:35Z,torchsx,0.1.0,Hans Peter Seidel,MIT,703253,GPU-friendly stacked tensors for unmerged serial crystallography data
+2026-10-12T12:55:08Z,brainpfn,0.1.2,Demian Wassermann,CC-BY-NC-4.0,433939,In-context prediction of behaviour from resting-state functional connectivity with a pretrained transformer
+2026-10-12T12:55:18Z,axosim,0.1.0,Axym Labs,Apache-2.0 AND MIT,453813,"Learned single-neuron surrogates and connected neuron populations, trained on AxoBench."
+2026-10-12T12:56:09Z,physiotrace,0.1.0a1,Anuar Aimoldin,MIT,81240,"Behavioral audit of provenance reliance in frozen-encoder task heads (Recover, Stress, Intervene, Verify)."
+2026-10-12T13:01:38Z,cemacrib,0.1.0,Ulrich Bryand Tamouffe Teyo,Apache-2.0,32352,"Compute and check the CEMAC RIB check key, with a built-in bank code registry for the six member states"
+2026-10-12T13:01:56Z,cemacqr,0.1.2,Ulrich Bryand Tamouffe Teyo,Apache-2.0,92607,"Build, read and check the CEMAC common QR code (EMV QRCPS v1.1), with no dependencies"
+2026-10-12T13:01:59Z,gimacpay,0.1.0,Ulrich Bryand Tamouffe Teyo,Apache-2.0,96487,"Client Python pour GIMACPAY, le réseau de paiement interbancaire de la CEMAC. Zéro dépendance."
+2026-10-12T13:02:33Z,aviasales-mcp,0.5.2,aviasales-mcp contributors,GPL-3.0-or-later,111442,MCP server for Aviasales/Travelpayouts Flight Search API
+2026-10-12T13:11:05Z,pysaes-sip-power-tspspi,0.0.1,Thomas Spielauer <pypipackages01@tspi.at>,BSD-3-Clause,49973,SAES SIP POWER ion pump and pressure gauge Modbus driver with MQTT publisher (unofficial)
+2026-10-12T13:18:32Z,sheethead,0.1.0,Joshua Emerson,,25624,"A powerful and lightweight engine to transform Google Sheets into a structured database, template generator, and automation tool."
+2026-10-12T13:18:44Z,ideal-postcodes,0.1.0,Ideal Postcodes,LicenseRef-Proprietary,123728,Explicit Python client for Ideal Postcodes
+2026-10-12T13:19:54Z,python-hebrewdate,0.9,,GPL-3.0-or-later,47338,"Hebrew calendar utilities — dates, holidays, and Torah reading schedule"
+2026-10-12T13:21:18Z,decktale,0.0.1,Decktale Team,,2475,Presentation-to-video compiler: turn slide decks into studio-quality narrated videos.

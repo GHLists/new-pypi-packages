@@ -8,52 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 12:19 UTC
+## Latest list — 2026-10-12 13:22 UTC
 
-New packages created between 2026-10-12 11:18 UTC and 2026-10-12 12:19 UTC.
+New packages created between 2026-10-12 12:19 UTC and 2026-10-12 13:22 UTC.
 
-[Full CSV](data/new-packages-2026-10-12T12-19-07-137166Z.csv)
+[Full CSV](data/new-packages-2026-10-12T13-22-14-332455Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-12 11:18:59 | [outlier-tool-shashikant](https://pypi.org/project/outlier-tool-shashikant/) | 0.1.0 |  | 7.9 kB | A simple Python toolkit for detecting and handling outliers |
-| 2026-10-12 11:21:58 | [dukascopy-downloader](https://pypi.org/project/dukascopy-downloader/) | 1.1.0 | Tomas Charvat | 74.0 kB | Download Dukascopy historical market data (ticks, 1-minute, hourly and daily ca… |
-| 2026-10-12 11:22:30 | [meedoo-ai](https://pypi.org/project/meedoo-ai/) | 1.0.0 | MeeDoo <contact@meedoo.co> | 32.2 kB | Official MeeDoo AI Python SDK — Chat Completions, Models, MeeJudge, and more |
-| 2026-10-12 11:23:48 | [slideshow-vault](https://pypi.org/project/slideshow-vault/) | 1.3.0 | Slideshow Developer | 158.3 kB | Apresentador de slides moderno, resiliente a OneDrive Personal Vault, com trans… |
-| 2026-10-12 11:24:47 | [bannaha](https://pypi.org/project/bannaha/) | 0.1.0 | Siavash Monfared <monfared@al… | 501.7 kB | A terminal sandbox for comparing multi-agent coordination strategies across age… |
-| 2026-10-12 11:27:08 | [gmathlib](https://pypi.org/project/gmathlib/) | 0.1.0 |  | 7.6 kB |  |
-| 2026-10-12 11:29:01 | [bw-stt](https://pypi.org/project/bw-stt/) | 0.2.0 | Bandwidth | 75.1 kB | Python SDK for the Bandwidth Labs speech-to-text API |
-| 2026-10-12 11:30:55 | [valt0-client](https://pypi.org/project/valt0-client/) | 1.0.0 | BYTE 1620 | 54.3 kB | Python client for Valt0: fetch secrets from a local Valt0 vault at runtime |
-| 2026-10-12 11:31:27 | [llama-index-wity](https://pypi.org/project/llama-index-wity/) | 0.1.0 |  | 287.6 kB | LlamaIndex integration for Wity, the typed-decision API |
-| 2026-10-12 11:32:06 | [bedrok](https://pypi.org/project/bedrok/) | 0.2.0 | Andreu Paddack | 377.1 kB | Public macroeconomic data from central banks, statistics offices and internatio… |
-| 2026-10-12 11:33:07 | [rookone](https://pypi.org/project/rookone/) | 0.0.1 | Eigentic | 1.5 kB | Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone… |
-| 2026-10-12 11:33:10 | [rookone-relay](https://pypi.org/project/rookone-relay/) | 0.0.1 | Eigentic | 1.6 kB | Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone… |
-| 2026-10-12 11:33:14 | [rookone-sdk](https://pypi.org/project/rookone-sdk/) | 0.0.1 | Eigentic | 1.5 kB | Name reserved by Eigentic for RookOne. Install RookOne from https://get.rookone… |
-| 2026-10-12 11:33:26 | [siren-scale](https://pypi.org/project/siren-scale/) | 0.3.0 | Benjamin Listyg <listyg.ben@g… | 79.3 kB | SIREN - Semantic Item Reduction Engine for automated psychometric scale reducti… |
-| 2026-10-12 11:38:52 | [mateu-ui](https://pypi.org/project/mateu-ui/) | 3.0.0a412 | Miguel Pérez Colom | 602.9 kB | Mateu server-side for Python — annotate Python classes; any Mateu renderer rend… |
-| 2026-10-12 11:39:43 | [sr-aef](https://pypi.org/project/sr-aef/) | 0.1.1 | Simon Cozens <simon@simon-coz… | 10.0 MB | Uncompile OpenType fonts back into Adobe feature file (fea) source code |
-| 2026-10-12 11:41:34 | [odx-cli](https://pypi.org/project/odx-cli/) | 0.0.1 | Strategic Efficiency B.V. | 512.4 kB | Rust-native workspace manager for Odoo projects |
-| 2026-10-12 11:41:36 | [tungsten-media-library](https://pypi.org/project/tungsten-media-library/) | 0.1.0 | Prism Infoways | 45.0 kB | Media library plugin for Tungsten: every image and file in one place, upload on… |
-| 2026-10-12 11:41:38 | [tungsten-dashboards](https://pypi.org/project/tungsten-dashboards/) | 0.1.0 | Prism Infoways | 48.9 kB | Custom dashboards for Tungsten: people build their own dashboards by drag and d… |
-| 2026-10-12 11:41:40 | [tungsten-quick-create](https://pypi.org/project/tungsten-quick-create/) | 0.1.0 | Prism Infoways | 21.4 kB | Quick Create plugin for Tungsten: a + New button in the top bar to add any reco… |
-| 2026-10-12 11:41:42 | [tungsten-kanban](https://pypi.org/project/tungsten-kanban/) | 0.1.0 | Prism Infoways | 51.0 kB | Kanban boards for Tungsten: show any resource as drag-and-drop columns, with re… |
-| 2026-10-12 11:42:05 | [tech-history-today](https://pypi.org/project/tech-history-today/) | 1.0.0 | Erich Hansa <contact@useful-f… | 7.0 kB | Daily verified technology milestones, computing history, and engineering breakt… |
-| 2026-10-12 11:43:00 | [asia-zutaten](https://pypi.org/project/asia-zutaten/) | 1.0.0 | Erich Hansa <kontakt@asiakoch… | 7.1 kB | Deutschsprachiges Lexikon & CLI für asiatische Zutaten, Wok-Küche und Rezepte. |
-| 2026-10-12 11:43:12 | [twainmq](https://pypi.org/project/twainmq/) | 0.2.3 | Mike Crowe <you@example.com> | 38.7 kB | A file-based message queue. Kafka‑inspired. Twain‑simple. |
-| 2026-10-12 11:43:54 | [home-maintenance-plan](https://pypi.org/project/home-maintenance-plan/) | 1.0.0 | Erich Hansa <support@fixcosth… | 6.4 kB | Diagnostic checklists and seasonal preventative home maintenance schedules. |
-| 2026-10-12 11:46:42 | [stepix](https://pypi.org/project/stepix/) | 0.1.0 | Stepan Konev | 43.7 kB | Makes the setup instructions in your README exact and runnable |
-| 2026-10-12 11:48:20 | [rs-files-templates](https://pypi.org/project/rs-files-templates/) | 1.0.0 | Mariia Steeghs-Turchina | 106.9 kB | Reusable typed templates and renderers for research-software project files. |
-| 2026-10-12 11:48:38 | [abac-permissions](https://pypi.org/project/abac-permissions/) | 1.0.0 | Department for Business, Inno… | 8.7 kB | TBC. |
-| 2026-10-12 11:48:39 | [acira](https://pypi.org/project/acira/) | 0.1.0 |  | 1.9 MB | Open-source security and governance layer for AI browser agents. |
-| 2026-10-12 11:54:15 | [git-aggregate-rs](https://pypi.org/project/git-aggregate-rs/) | 0.0.1 | Strategic Efficiency B.V. | 338.0 kB | Drop-in replacement for git-aggregator's gitaggregate, written in Rust |
-| 2026-10-12 11:56:10 | [openbattle](https://pypi.org/project/openbattle/) | 0.0.4 | Guille-ux <guilleleiratemes@g… | 24.2 kB | something i made to run simulations of an strategy game i'm currently working on |
-| 2026-10-12 11:57:53 | [archipy-saman-ipg](https://pypi.org/project/archipy-saman-ipg/) | 5.10.0 | Hossein Nejati <hosseinnejati… | 5.0 kB | ArchiPy saman-ipg adapter. |
-| 2026-10-12 11:57:54 | [archipy-scylladb](https://pypi.org/project/archipy-scylladb/) | 5.10.0 | Hossein Nejati <hosseinnejati… | 11.8 kB | ArchiPy scylladb adapter. |
-| 2026-10-12 11:57:55 | [archipy-sqlite](https://pypi.org/project/archipy-sqlite/) | 5.10.0 | Hossein Nejati <hosseinnejati… | 5.2 kB | ArchiPy sqlite adapter. |
-| 2026-10-12 11:57:56 | [archipy-starrocks](https://pypi.org/project/archipy-starrocks/) | 5.10.0 | Hossein Nejati <hosseinnejati… | 6.6 kB | ArchiPy starrocks adapter. |
-| 2026-10-12 12:02:39 | [open-webui-apps](https://pypi.org/project/open-webui-apps/) | 0.0.1 | Timothy Jaeryang Baek <tim@op… | 2.2 kB | Open WebUI Apps — development scaffold |
-| 2026-10-12 12:02:48 | [babelfont-rs](https://pypi.org/project/babelfont-rs/) | 0.2.4 | Simon Cozens <simon@simon-coz… | 75.5 MB | A universal font format converter and processor |
-| 2026-10-12 12:08:09 | [pdraw](https://pypi.org/project/pdraw/) | 0.0.0 |  | 11.0 MB | Native patent drawing authoring, inspection, rendering, and editing |
-| 2026-10-12 12:10:22 | [skipperwalker](https://pypi.org/project/skipperwalker/) | 0.1.0 |  | 388.8 kB |  |
-| 2026-10-12 12:11:49 | [neurotabular](https://pypi.org/project/neurotabular/) | 1.0.2 | Luca Lullo | 179.2 kB | Compact neural classification and regression for pandas DataFrames |
-| 2026-10-12 12:14:08 | [hornsa-atlas](https://pypi.org/project/hornsa-atlas/) | 0.1.0 | Horn Software Architects <hel… | 19.0 kB | Atlas — local MCP server for codebase ingestion, AI-powered query, impact analy… |
+| 2026-10-12 12:19:16 | [pktcap](https://pypi.org/project/pktcap/) | 0.1.0 | jose-pr <jose-pr@coqui.dev> | 599.7 kB | Read, dissect, write and replay packet captures: pcap and pcapng, pluggable dis… |
+| 2026-10-12 12:23:28 | [kloudlite](https://pypi.org/project/kloudlite/) | 0.1.0 |  | 5.9 kB | Models and datasets from Hugging Face or the kloudlite hub |
+| 2026-10-12 12:23:35 | [data-engineer-doctor](https://pypi.org/project/data-engineer-doctor/) | 0.1.1 | Aditya Singh Rathore <rathore… | 969.9 kB | Open-source, evidence-driven diagnosis for modern data engineering failures |
+| 2026-10-12 12:25:34 | [betterdb-hermes-memory](https://pypi.org/project/betterdb-hermes-memory/) | 0.1.0 |  | 47.4 kB | Hermes memory provider backed by betterdb-agent-memory on Valkey / valkey-searc… |
+| 2026-10-12 12:26:57 | [salispay-paymentgateway](https://pypi.org/project/salispay-paymentgateway/) | 0.0.6 | Salispay | 6.9 kB | A Python library for the Salispay payment gateway. |
+| 2026-10-12 12:27:26 | [halloween-ys](https://pypi.org/project/halloween-ys/) | 0.1.0 | Younes Ouloum | 28.2 kB | Gestion de la collecte de bonbons d'Halloween : habitants, enfants, visites et… |
+| 2026-10-12 12:27:59 | [osmiumchem](https://pypi.org/project/osmiumchem/) | 0.1.0 | "Olivier J. M. Béquignon" <ol… | 228.8 kB | Round-trip benchmark of molecular encodings under a hard bit budget |
+| 2026-10-12 12:28:02 | [wiend](https://pypi.org/project/wiend/) | 0.1.0 | Florian Scheiber | 37.9 kB | ERA5 wind download, downscaling and bias correction using Weibull parameter map… |
+| 2026-10-12 12:29:11 | [yakamoz](https://pypi.org/project/yakamoz/) | 0.0.0 | Recep Kaan Karaman | 2.8 kB | Cross-platform, GPU-batched autonomous driving simulator |
+| 2026-10-12 12:31:06 | [pyocl-idor](https://pypi.org/project/pyocl-idor/) | 0.8.3 | Julien Hazemann <julien.hazem… | 17.1 MB | OpenChemLib via python |
+| 2026-10-12 12:31:58 | [duckctl](https://pypi.org/project/duckctl/) | 0.17.0 |  | 10.1 MB | Talk to a Microduck robot from a laptop — over Bluetooth LE, no network needed |
+| 2026-10-12 12:32:25 | [polus.py](https://pypi.org/project/polus.py/) | 0.0.1a0 |  | 4.9 kB | A library for reading from https://polus.wiki/. |
+| 2026-10-12 12:33:25 | [oix](https://pypi.org/project/oix/) | 0.2.0 | Tim Baek <tim@openwebui.com> | 139.4 kB | Build external apps for Open WebUI |
+| 2026-10-12 12:37:38 | [loeb](https://pypi.org/project/loeb/) | 0.1.0 | Ramakrishna Kompella | 132.3 kB | Löb: an autonomous, LLM-driven end-to-end tester for voice and web apps |
+| 2026-10-12 12:39:01 | [cloudiamond-scratch](https://pypi.org/project/cloudiamond-scratch/) | 0.1.0 |  | 126.5 kB | Encrypted Scratch <-> Python communication over cloud variables: X25519 + ChaCh… |
+| 2026-10-12 12:39:54 | [pqveil](https://pypi.org/project/pqveil/) | 0.0.1 | A. Mykhalchuk | 24.9 kB | PQ-Veil — реєстр статусів постквантових стандартів (ранній фрагмент; повна сист… |
+| 2026-10-12 12:39:56 | [lazy-inspect-offline](https://pypi.org/project/lazy-inspect-offline/) | 0.1.2 |  | 20.7 kB | Search locally installed Python modules for functions and classes. |
+| 2026-10-12 12:43:37 | [octopas](https://pypi.org/project/octopas/) | 0.1.1 | Oliver Markgraf <markgraf@cs.… | 39.3 MB | Python interface to OctoPAs, a library for parametric automata and transducers |
+| 2026-10-12 12:43:51 | [halloween-crud](https://pypi.org/project/halloween-crud/) | 0.1.1 | Mohsine ELGHANDOUR | 17.5 kB | Modèles Pydantic, logique CRUD et sauvegarde JSON de l'API Halloween (collecte… |
+| 2026-10-12 12:44:23 | [metalink](https://pypi.org/project/metalink/) | 0.3.7 | Liuyang Li | 3.7 MB | Metalink: Joint taxonomic and functional profiling of metagenomes and metatrans… |
+| 2026-10-12 12:46:45 | [fornax-cutouts](https://pypi.org/project/fornax-cutouts/) | 0.1.0 | MAST Developers | 113.7 kB | NASA Fornax Cutouts - Pluggable backend for Async FITS cutouts with FastAPI + C… |
+| 2026-10-12 12:47:18 | [cnexp](https://pypi.org/project/cnexp/) | 0.1.0 | CN Student <student@example.c… | 16.6 kB | Quick CLI reference for Computer Networks lab experiment programs |
+| 2026-10-12 12:47:50 | [jqscore](https://pypi.org/project/jqscore/) | 0.1.0 | Arthur Zalevsky <aozalevsky@g… | 980.6 kB | JAX reimplementation of Q-score (github.com/gregdp/mapq) |
+| 2026-10-12 12:47:55 | [grind-t-cbr-ratings](https://pypi.org/project/grind-t-cbr-ratings/) | 0.1.0 | grind-t | 30.6 kB | Async Python client for the Bank of Russia credit ratings registry |
+| 2026-10-12 12:48:54 | [localbenchmark](https://pypi.org/project/localbenchmark/) | 0.1.0 | Erdogan Taskesen <erdogant@gm… | 60.1 kB | localbenchmark: local LLM evaluation — coding benchmarks, long-context stress t… |
+| 2026-10-12 12:51:34 | [microcloud](https://pypi.org/project/microcloud/) | 0.1.1 |  | 5.0 MB | microcloud: a project's configuration from a file on disk, planned and applied… |
+| 2026-10-12 12:52:01 | [glassvm-machines](https://pypi.org/project/glassvm-machines/) | 0.2.0 |  | 2.7 kB | Tested package selections for GlassVM machine bundles |
+| 2026-10-12 12:52:45 | [chatterbox-light](https://pypi.org/project/chatterbox-light/) | 1.0.1 | Resemble AI | 130.1 kB | Lightweight fork of Resemble AI's Chatterbox text-to-speech and voice conversio… |
+| 2026-10-12 12:52:56 | [torchsx-native](https://pypi.org/project/torchsx-native/) | 0.1.0 | Hans Peter Seidel | 1.9 MB | Native CrystFEL .stream reader/writer for torchsx |
+| 2026-10-12 12:53:25 | [owistscribe](https://pypi.org/project/owistscribe/) | 1.0.0 | Openwist | 54.6 MB | Fast, low-memory, offline OCR — CLI, local web app, and Python API in one pip i… |
+| 2026-10-12 12:53:35 | [torchsx](https://pypi.org/project/torchsx/) | 0.1.0 | Hans Peter Seidel | 703.3 kB | GPU-friendly stacked tensors for unmerged serial crystallography data |
+| 2026-10-12 12:55:08 | [brainpfn](https://pypi.org/project/brainpfn/) | 0.1.2 | Demian Wassermann | 433.9 kB | In-context prediction of behaviour from resting-state functional connectivity w… |
+| 2026-10-12 12:55:18 | [axosim](https://pypi.org/project/axosim/) | 0.1.0 | Axym Labs | 453.8 kB | Learned single-neuron surrogates and connected neuron populations, trained on A… |
+| 2026-10-12 12:56:09 | [physiotrace](https://pypi.org/project/physiotrace/) | 0.1.0a1 | Anuar Aimoldin | 81.2 kB | Behavioral audit of provenance reliance in frozen-encoder task heads (Recover,… |
+| 2026-10-12 13:01:38 | [cemacrib](https://pypi.org/project/cemacrib/) | 0.1.0 | Ulrich Bryand Tamouffe Teyo | 32.4 kB | Compute and check the CEMAC RIB check key, with a built-in bank code registry f… |
+| 2026-10-12 13:01:56 | [cemacqr](https://pypi.org/project/cemacqr/) | 0.1.2 | Ulrich Bryand Tamouffe Teyo | 92.6 kB | Build, read and check the CEMAC common QR code (EMV QRCPS v1.1), with no depend… |
+| 2026-10-12 13:01:59 | [gimacpay](https://pypi.org/project/gimacpay/) | 0.1.0 | Ulrich Bryand Tamouffe Teyo | 96.5 kB | Client Python pour GIMACPAY, le réseau de paiement interbancaire de la CEMAC. Z… |
+| 2026-10-12 13:02:33 | [aviasales-mcp](https://pypi.org/project/aviasales-mcp/) | 0.5.2 | aviasales-mcp contributors | 111.4 kB | MCP server for Aviasales/Travelpayouts Flight Search API |
+| 2026-10-12 13:11:05 | [pysaes-sip-power-tspspi](https://pypi.org/project/pysaes-sip-power-tspspi/) | 0.0.1 | Thomas Spielauer <pypipackage… | 50.0 kB | SAES SIP POWER ion pump and pressure gauge Modbus driver with MQTT publisher (u… |
+| 2026-10-12 13:18:32 | [sheethead](https://pypi.org/project/sheethead/) | 0.1.0 | Joshua Emerson | 25.6 kB | A powerful and lightweight engine to transform Google Sheets into a structured… |
+| 2026-10-12 13:18:44 | [ideal-postcodes](https://pypi.org/project/ideal-postcodes/) | 0.1.0 | Ideal Postcodes | 123.7 kB | Explicit Python client for Ideal Postcodes |
+| 2026-10-12 13:19:54 | [python-hebrewdate](https://pypi.org/project/python-hebrewdate/) | 0.9 |  | 47.3 kB | Hebrew calendar utilities — dates, holidays, and Torah reading schedule |
+| 2026-10-12 13:21:18 | [decktale](https://pypi.org/project/decktale/) | 0.0.1 | Decktale Team | 2.5 kB | Presentation-to-video compiler: turn slide decks into studio-quality narrated v… |
