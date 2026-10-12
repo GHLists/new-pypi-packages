@@ -8,33 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 02:19 UTC
+## Latest list — 2026-10-12 03:19 UTC
 
-New packages created between 2026-10-12 01:18 UTC and 2026-10-12 02:19 UTC.
+New packages created between 2026-10-12 02:19 UTC and 2026-10-12 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-12T02-19-57-933075Z.csv)
+[Full CSV](data/new-packages-2026-10-12T03-19-18-7739Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-12 01:21:02 | [nx-ladybug](https://pypi.org/project/nx-ladybug/) | 0.1.0 |  | 20.0 kB | LadybugDB storage provider for nx-arrow columnar graphs |
-| 2026-10-12 01:24:02 | [rumo-cli](https://pypi.org/project/rumo-cli/) | 0.1.0 | Pedro Buzzi | 36.1 kB | Your dev work, past, now and later: Markdown files, a terminal Timeline, and AI… |
-| 2026-10-12 01:27:43 | [subedit](https://pypi.org/project/subedit/) | 0.1.0 | Yun-Tai Yang | 126.8 kB | A linter and formatter for the prose inside code comments, across languages. |
-| 2026-10-12 01:31:35 | [ouroboric](https://pypi.org/project/ouroboric/) | 0.0.1 | Bruno Guilhermo de Barros Val… | 14.5 kB | Identifies the Ouroboric project: open, self-improving software factories. |
-| 2026-10-12 01:35:19 | [karma-mcp-server](https://pypi.org/project/karma-mcp-server/) | 0.1.0 |  | 78.4 kB | Karma universal Agent MCP server — thin access layer over the Karma backend |
-| 2026-10-12 01:36:06 | [karma-connect](https://pypi.org/project/karma-connect/) | 1.0.0 |  | 40.0 kB | One command that wires the Karma MCP server into every agent host on this machi… |
-| 2026-10-12 01:37:37 | [karma-openclaw](https://pypi.org/project/karma-openclaw/) | 0.4.0 |  | 87.2 kB | Karma ↔ OpenClaw — stdio MCP server bridging to Karma public HTTP API |
-| 2026-10-12 01:38:04 | [yosoi-cli](https://pypi.org/project/yosoi-cli/) | 0.2.1 |  | 51.8 MB | Prebuilt Yosoi command-line tool |
-| 2026-10-12 01:41:43 | [shrinkfit](https://pypi.org/project/shrinkfit/) | 0.1.0 |  | 1.5 MB | Shrink JSON/YAML payloads to fit a character budget while preserving their sche… |
-| 2026-10-12 01:46:19 | [bioseeker](https://pypi.org/project/bioseeker/) | 2.0.1 | Facundo Martinez <fxmartinez@… | 66.7 kB | A tool for analyzing conservation of inhibitory codon pairs. |
-| 2026-10-12 01:46:41 | [standard](https://pypi.org/project/standard/) | 0.1.0 | Standard contributors | 36.0 kB | A predictable Python utility library with an agent-first interface |
-| 2026-10-12 01:49:25 | [rsm-schema](https://pypi.org/project/rsm-schema/) | 1.0.0 | Mariia Steeghs-Turchina | 52.2 kB | Python access to the RSM JSON Schema, generated Pydantic models, and schema ins… |
-| 2026-10-12 01:50:46 | [edgespeak](https://pypi.org/project/edgespeak/) | 0.6.4 |  | 62.0 kB | Python client for the local EdgeSpeak CLI runtime |
-| 2026-10-12 01:59:34 | [htmlkanaview](https://pypi.org/project/htmlkanaview/) | 0.0.1 | du7ec | 4.1 kB | read descript thag writed by korean what write in github. |
-| 2026-10-12 02:05:16 | [openavt](https://pypi.org/project/openavt/) | 0.1.0 |  | 242.3 kB | TLS over voice, built for agents: mutual TLS 1.3 over audio with WebRTC and Ope… |
-| 2026-10-12 02:10:28 | [brepgraph](https://pypi.org/project/brepgraph/) | 0.2.0 | Muhammad Usman Altaf | 89.2 kB | Turn B-rep CAD files (STEP) into ML-ready face-adjacency graphs. pip-installabl… |
-| 2026-10-12 02:16:31 | [tmol-ops-cu12](https://pypi.org/project/tmol-ops-cu12/) | 0.1.64 |  | 333.0 MB | TMol native operators for CUDA 12 |
-| 2026-10-12 02:16:52 | [tmol-ops-cu13](https://pypi.org/project/tmol-ops-cu13/) | 0.1.64 |  | 432.1 MB | TMol native operators for CUDA 13 |
-| 2026-10-12 02:18:26 | [brain-alpha-core](https://pypi.org/project/brain-alpha-core/) | 0.1.0 | Xtley001 | 14.5 kB | Core utilities, configuration, shared data-models, and logging for the Brain Al… |
-| 2026-10-12 02:18:36 | [brain-options](https://pypi.org/project/brain-options/) | 0.1.0 | Xtley001 | 150.9 kB | Options-trading alpha generation engine (implied vol, skew, term structure, bre… |
-| 2026-10-12 02:18:42 | [brain-risk-model](https://pypi.org/project/brain-risk-model/) | 0.1.0 | Xtley001 | 32.2 kB | Systematic factor premia, Betting-Against-Beta, and risk-model alpha generation… |
-| 2026-10-12 02:18:47 | [brain-sentiment](https://pypi.org/project/brain-sentiment/) | 0.1.0 | Xtley001 | 30.7 kB | Analyst revisions, PEAD, and sentiment alpha generation engine for WorldQuant B… |
+| 2026-10-12 02:21:27 | [hank-risk-client](https://pypi.org/project/hank-risk-client/) | 0.3.2 |  | 34.4 kB |  |
+| 2026-10-12 02:21:47 | [bayes-vault](https://pypi.org/project/bayes-vault/) | 0.1.0 |  | 316.3 kB | Python client for the Bayes Vault REST API. |
+| 2026-10-12 02:24:10 | [fontpkg-sarabun](https://pypi.org/project/fontpkg-sarabun/) | 1.0 |  | 730.4 kB | Sarabun font family, packaged for Python by fontpkg |
+| 2026-10-12 02:24:13 | [fontpkg-satisfy](https://pypi.org/project/fontpkg-satisfy/) | 1.1 |  | 39.7 kB | Satisfy font family, packaged for Python by fontpkg |
+| 2026-10-12 02:24:15 | [fontpkg-vollkorn](https://pypi.org/project/fontpkg-vollkorn/) | 5.1 |  | 484.3 kB | Vollkorn font family, packaged for Python by fontpkg |
+| 2026-10-12 02:24:17 | [fontpkg-alumni-sans](https://pypi.org/project/fontpkg-alumni-sans/) | 1.18 |  | 156.8 kB | Alumni Sans font family, packaged for Python by fontpkg |
+| 2026-10-12 02:27:49 | [ys_trade_sdk](https://pypi.org/project/ys_trade_sdk/) | 0.1.0 | ys <popsars@gmail.com> | 178.5 kB | YS 交易网关 SDK：账号线程、行情快照、盈亏与对账 |
+| 2026-10-12 02:35:07 | [animotion-ml](https://pypi.org/project/animotion-ml/) | 0.1.0 | Samayak Saraf <samayaksaraf7@… | 6.6 kB | A lightweight PyTorch SDK for classifying pet vocalization emotions from audio… |
+| 2026-10-12 02:39:01 | [forgefix](https://pypi.org/project/forgefix/) | 0.1.0 | ForgeFix contributors | 53.1 kB | One command to set up, health-check, and repair any open-source project |
+| 2026-10-12 02:42:13 | [ratchet-cases](https://pypi.org/project/ratchet-cases/) | 0.1.0 |  | 151.3 kB | Agent cases graded on final state: a simulated company, deterministic tool faul… |
+| 2026-10-12 02:42:59 | [aetherion-ai](https://pypi.org/project/aetherion-ai/) | 0.1.0 | Amit Singh | 1.4 MB | Aetherion - autonomous market intelligence: a multi-agent research, risk-contro… |
+| 2026-10-12 02:48:08 | [pytrio-cookbook](https://pypi.org/project/pytrio-cookbook/) | 0.1.0 |  | 126.0 kB | PyTRIO-native GRPO training utilities and recipes |
+| 2026-10-12 02:57:12 | [botica](https://pypi.org/project/botica/) | 0.7.0 |  | 21.5 MB | Deterministic linter for the house engineering standards |
+| 2026-10-12 03:03:05 | [jira-ticket-client](https://pypi.org/project/jira-ticket-client/) | 0.1.0 |  | 13.5 kB | Create Jira Cloud issues and upload attachments with an API token. |
+| 2026-10-12 03:08:28 | [magicite](https://pypi.org/project/magicite/) | 1.0.0 |  | 8.3 MB | Local-first plasticity-inspired skill router speaking MCP over stdio. |
+| 2026-10-12 03:12:20 | [rigsmith](https://pypi.org/project/rigsmith/) | 0.1.0 | Slim Frikha | 215.5 kB | Set up a fresh macOS or Linux machine from a curated, extensible library of too… |
+| 2026-10-12 03:18:26 | [producer-cli](https://pypi.org/project/producer-cli/) | 2026.10.12.2 | AceDataCloud <support@acedata… | 32.8 kB | CLI tool for Producer AI Music Generation via AceDataCloud API |

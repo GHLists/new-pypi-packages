@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T02:21:27Z,hank-risk-client,0.3.2,,,34354,
+2026-10-12T02:21:47Z,bayes-vault,0.1.0,,MIT,316282,Python client for the Bayes Vault REST API.
+2026-10-12T02:24:10Z,fontpkg-sarabun,1.0,,OFL-1.1,730411,"Sarabun font family, packaged for Python by fontpkg"
+2026-10-12T02:24:13Z,fontpkg-satisfy,1.1,,Apache-2.0,39726,"Satisfy font family, packaged for Python by fontpkg"
+2026-10-12T02:24:15Z,fontpkg-vollkorn,5.1,,OFL-1.1,484270,"Vollkorn font family, packaged for Python by fontpkg"
+2026-10-12T02:24:17Z,fontpkg-alumni-sans,1.18,,OFL-1.1,156826,"Alumni Sans font family, packaged for Python by fontpkg"
+2026-10-12T02:27:49Z,ys_trade_sdk,0.1.0,ys <popsars@gmail.com>,MIT,178509,YS 交易网关 SDK：账号线程、行情快照、盈亏与对账
+2026-10-12T02:35:07Z,animotion-ml,0.1.0,Samayak Saraf <samayaksaraf7@gmail.com>,,6604,A lightweight PyTorch SDK for classifying pet vocalization emotions from audio recordings.
+2026-10-12T02:39:01Z,forgefix,0.1.0,ForgeFix contributors,MIT,53074,"One command to set up, health-check, and repair any open-source project"
+2026-10-12T02:42:13Z,ratchet-cases,0.1.0,,Apache-2.0,151255,"Agent cases graded on final state: a simulated company, deterministic tool faults, exact graders and scripted solvers."
+2026-10-12T02:42:59Z,aetherion-ai,0.1.0,Amit Singh,All rights reserved,1386188,"Aetherion - autonomous market intelligence: a multi-agent research, risk-controlled paper-trading system with a terminal UI and web dashboard."
+2026-10-12T02:48:08Z,pytrio-cookbook,0.1.0,,,126013,PyTRIO-native GRPO training utilities and recipes
+2026-10-12T02:57:12Z,botica,0.7.0,,MIT,21536638,Deterministic linter for the house engineering standards
+2026-10-12T03:03:05Z,jira-ticket-client,0.1.0,,,13518,Create Jira Cloud issues and upload attachments with an API token.
+2026-10-12T03:08:28Z,magicite,1.0.0,,Apache-2.0,8301844,Local-first plasticity-inspired skill router speaking MCP over stdio.
+2026-10-12T03:12:20Z,rigsmith,0.1.0,Slim Frikha,MIT,215464,"Set up a fresh macOS or Linux machine from a curated, extensible library of tools and configs"
+2026-10-12T03:18:26Z,producer-cli,2026.10.12.2,AceDataCloud <support@acedata.cloud>,MIT,32796,CLI tool for Producer AI Music Generation via AceDataCloud API
