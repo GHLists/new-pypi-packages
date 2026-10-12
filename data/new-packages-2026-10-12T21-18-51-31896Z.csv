@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T20:22:39Z,boardwise,0.0.1,,,1657,BoardWise Company Brain tools. Placeholder release reserving the name; no code yet.
+2026-10-12T20:25:51Z,unsafe-eval,0.0.0,Riccardo <rick@principled-intelligence.com>,MIT,4163,Reserved name — official release coming soon
+2026-10-12T20:26:55Z,gen3logging,2.0.0,CTDS UChicago,Apache-2.0,22452,Standardized logging tool and format for Gen3
+2026-10-12T20:27:10Z,densemem,2.6.6rc12,,Apache-2.0,48087,Typed async and sync clients for Dense-Mem MCP
+2026-10-12T20:31:23Z,synapse-framework,0.2.4,Synapse Contributors,MIT,182688,Modular Multi-MCP & Hybrid RAG AI Application Framework
+2026-10-12T20:33:03Z,grok-gadgets-gateway,0.1.0a10,adidshaft,Apache-2.0,252242,Local Grok Gadgets MCP gateway and device protocol
+2026-10-12T20:33:15Z,grok-gadgets-linux-sdk,0.1.0a6,adidshaft,Apache-2.0,157796,Capability SDK and loopback agent for Grok Gadgets
+2026-10-12T20:33:16Z,grok-gadgets-home-assistant,0.1.0a5,adidshaft,Apache-2.0,100324,Read-only Home Assistant MCP compatibility diagnostics for Grok Gadgets
+2026-10-12T20:33:26Z,a12s,0.2.1,,MIT,35246,"Python client for a12s: send work to agent Computers, stream their events and Turns"
+2026-10-12T20:33:28Z,am-sdk,0.2.0,Artificial Motion,Apache-2.0,291236,"Host SDK for Artificial Motion joints: control API, simulator, EtherCAT and CAN-FD backends"
+2026-10-12T20:34:20Z,roguard-child-safety,3.0.2,RoGuard contributors,MIT,594179,Offline Romanian and Ukrainian child-safety contract and evaluation toolkit
+2026-10-12T20:35:46Z,hulder,0.1.0,Utku Özbek,Apache-2.0,6300820,"Release gate for thresholded scores, such as activation probes, across LLM serving configs"
+2026-10-12T20:37:59Z,flyshell,1.0.0,,MIT,51091,"A modular, zero-dependency command-line environment in Python."
+2026-10-12T20:38:05Z,spinagram,0.1.0rc1,Davi Ficanha Henrique <24483153+dangerousplay@users.noreply.github.com>,MIT,1047237,"Diagrams as code rendered to editable SVG, PNG, PowerPoint and Figma, with pluggable themes and backends."
+2026-10-12T20:39:18Z,learnc,0.1.1,Anmol Sharma,MIT,139546,"Auto-tune the magic numbers in C code from data: thresholds, tables and weights, written back as plain C."
+2026-10-12T20:40:32Z,langchain-scaledown,0.1.0,ScaleDown,MIT,214516,"ScaleDown summarization, compression, tool-output compression, and extraction middleware for LangChain agents"
+2026-10-12T20:42:47Z,sshtemp,2026.10.12,Umur ARSLAN <umurarslan@gmail.com>,"MIT License Copyright (c) 2026 Umur ARSLAN Permission is hereby granted, free of charge, to any per…",75590,Template-driven SSH automation using Paramiko invoke_shell
+2026-10-12T20:43:31Z,setupdoctor,0.2.0,,MIT,27239,Read a repo's setup requirements from its code and check them against your machine.
+2026-10-12T20:43:33Z,rowbit,0.0.1,,AGPL-3.0-only,2265,Rowbit: an open source safety layer for AI agents writing to databases. Name reservation; the real release is coming.
+2026-10-12T20:45:35Z,poly-harness-dispatcher,0.1.0,Stateous Labs,Apache-2.0,453641,"Spawn headless AI coding agents (Claude Code, Codex, OpenCode) from one harness-neutral spec."
+2026-10-12T20:47:44Z,waldean,0.4.0,Filip Vachek <filip.vachek@gmail.com>,MIT,179081,"Statistical-integrity linter: flags survivorship bias, leakage, multiple testing and other inference flaws in notebooks — every flag with evidence, failure scenario and fix."
+2026-10-12T20:49:04Z,callserver,0.1.0,dexman-ai,MIT,45018,Shared-memory RPC for fast inter-process function calls with numpy arrays.
+2026-10-12T20:49:06Z,spectral-arbiter,1.0.0,"Ichrak Mokhtari, Seif Attoui",Apache-2.0,64305,ARBITER: Attentive Relational Bidirectional Impartial Typed Encoder for Reasoning
+2026-10-12T20:53:28Z,dndkit,0.4.0,"Sylvain Boily, Joel Casimir",MIT,408953,"A D&D 5e campaign management MCP server, built for voice game masters"
+2026-10-12T20:57:59Z,cursorfleet,0.1.0,M9nx,MIT,977648,Unofficial local TUI and workflow harness (observe-only) for Cursor agent teams.
+2026-10-12T20:58:11Z,automation-entities,0.1.0,Michael Renken,MIT,28508,Automate routines in a descriptive way
+2026-10-12T20:58:53Z,test-pypi_zubrietovsky,0.1.0,,,2291,Add your description here
+2026-10-12T21:03:00Z,trosna-weighted-regression,0.1.0,Andrey Ferubko,MIT,35737,Time-weighted linear regression with protection against model 'falling asleep' on abrupt changes
+2026-10-12T21:05:36Z,muriel,0.2.0,"""Muriel AI, Inc."" <info@murielai.io>",MIT,56815,Muriel: ask the U.S. drinking water record in plain English (agent-first SDK)
+2026-10-12T21:07:30Z,veyra-proof,0.2.0,Antonio Cantallops Alba,MIT,193685,Evidence-based Rust workspace audit: runs the real toolchain and reports only what it can prove
+2026-10-12T21:08:12Z,trosna-gisteresis,0.1.0,Andrey Ferubko,,18629,Hysteresis decision rule with dwell time and cooldown period for streaming resource-imbalance indices
+2026-10-12T21:08:14Z,scale-forecasting,1.0.0,scale-forecasting contributors,Apache-2.0,2074890,"Time-series forecasting on Google Cloud at any scale: one JSON configuration runs every model family on Dataproc Serverless, Ray, Vertex AI, GKE, Compute Engine, or BigQuery ML and writes forecasts a…"
+2026-10-12T21:12:51Z,abakus,0.1.0,Simon Kapfer,MIT,145588,"Sparse, vectorized algebra over countably infinite bases: symmetric functions, Clifford and Weyl algebras, polynomials, with integer partitions encoded as bit patterns."
+2026-10-12T21:13:41Z,pytorches-cuda,0.1.0,,Apache-2.0,376736,NVIDIA CUDA backend for PyTorches (loads the CUDA driver at runtime; no toolkit needed)
+2026-10-12T21:15:25Z,trosna-linear-regression,0.1.0,Andrey Ferubko,MIT,54642,"Linear least-squares regression with L1, Tikhonov and point-repulsion (barrier) regularization, scikit-learn compatible"
+2026-10-12T21:15:57Z,nashpay,1.1.0,Nash Koh,MIT,27438,"Nash Pay — выплаты, чеки и приём оплаты в GRAM и USDT в Telegram-ботах через @Nashkoh_bot"
