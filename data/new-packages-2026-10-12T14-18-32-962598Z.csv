@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T13:19:46Z,addresszen,0.1.0,AddressZen,LicenseRef-Proprietary,127380,Explicit Python client for AddressZen
+2026-10-12T13:23:27Z,quantsupport,0.1.9,,MIT,57730005,Derivative pricing and risk analytics (Rust core with Python bindings).
+2026-10-12T13:24:11Z,VideoTubeEditor,1.0.1,Wilgat Wong <wilgat.wong@gmail.com>,MIT,216586,"VideoTubeEditor joins two local videos and cuts, speeds, or boomerangs an MP4, using FFmpeg."
+2026-10-12T13:25:05Z,python-daikin-itm,0.1.0,"Robbin Janssen, Robin Mulder",MIT,73851,Asynchronous Python client for the Daikin intelligent Touch Manager (iTM).
+2026-10-12T13:25:40Z,brownie1,0.1.0,,,7251,A minimalistic chat clone
+2026-10-12T13:27:16Z,slopsquat-guard,0.4.1,,MIT,81757,Block hallucinated & typosquatted package installs by AI coding agents
+2026-10-12T13:29:20Z,hydra-atlas,0.2.0,Aerthor,MIT,10552,Authenticated Greater Manchester water intelligence client for hydra. Atlas
+2026-10-12T13:29:52Z,tunping,0.1.0,mceblvn <mceblvn@users.noreply.github.com>,MIT,16110,"ping-like tool for TUN/SOCKS VPNs that answer ICMP locally (HTTPS TTFB, not ICMP)"
+2026-10-12T13:30:09Z,labforce-dementor,4.2.0,Labforce <contato@labforce.com.br>,LicenseRef-Labforce-Free-Proprietary-1.0,216168,Assessment read-only e inteligência de arquitetura para organizações Salesforce
+2026-10-12T13:32:17Z,odoo-addon-sale-insurance-caser,18.0.1.0.0.6,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,58339,Automate insurance policy request with Caser
+2026-10-12T13:32:40Z,graph-engine-memory,0.6.1,SaltKing0,MIT,410587,Self-growing idea graph: Ingest → Embed → Suggest → Visualize. A generic engine for a persistent knowledge graph backed by your own private git repo (the 'brain').
+2026-10-12T13:32:48Z,localdesk,0.3.0,Denis Samatov,MIT,1622981,"Calibrated text classification service that abstains when unsure: quality gates, immutable model registry, CPU TF-IDF and optional Qwen/Unsloth fine-tuning"
+2026-10-12T13:34:37Z,figscribe,0.0.2,f4ren <faren@researchpoint.net>,MIT,9645,"A lean desktop GUI for scientific Matplotlib plots that exports clean, standalone Python code instead of a proprietary project file."
+2026-10-12T13:35:53Z,sphinx-java-autodoc,0.2.0,Ralph Offinger,MIT,120735,Compiler-backed Java API documentation in native Sphinx nodes
+2026-10-12T13:36:46Z,nti-attack-library,0.1.0,,Apache-2.0,46983,"Executable, cryptographically signed attack framework for AI agents"
+2026-10-12T13:37:18Z,magemin,0.1.0,Ondrej Lexa,GPL-3.0-or-later,155755,"Python interface to MAGEMin, a C package that performs Gibbs energy minimization for thermodynamic equilibrium calculations."
+2026-10-12T13:40:04Z,naptrap,0.1.0,Drew Bednar <drew@runcible.io>,Apache-2.0,53642,"Local, text-defined wake word and keyword detection in PyTorch"
+2026-10-12T13:45:01Z,causalrank,0.3.0,CausalRank contributors,"MIT License Copyright (c) 2026 CausalRank contributors Permission is hereby granted, free of charge…",198971,Multi-treatment causal outcome estimation (GBM propensity + Hajek IPTW) with diagnostics and rank-ready inference scaffolding.
+2026-10-12T13:47:08Z,zibloh-ai,0.2.0,Milmoh,Apache-2.0,35459,SDK Python para el router de IA de Zibloh: un endpoint (/request) y tiers basic/medium/premium/eu.
+2026-10-12T13:47:54Z,probity-ratchet-cases,0.2.0,,Apache-2.0,181789,"Agent cases graded on final state: a simulated company, deterministic tool faults, exact graders and scripted solvers."
+2026-10-12T13:48:09Z,gene-archive,0.4.0,Igor Melnikov,MIT,628328,"Static site generator for a family history archive: tree, people, places, documents, story — in Russian, English and Romanian"
+2026-10-12T13:50:27Z,avtools,0.8,,GPL-3.0-or-later,31286,"Local media utilities (tagging, cover art, scaling, probing) and an ElevenLabs API wrapper."
+2026-10-12T13:52:00Z,dhcrypt,1.0.0,DJ Stomp,,31924,OpenSSL-interoperable Diffie-Hellman key exchange and AES-256-GCM authenticated encryption
+2026-10-12T13:57:00Z,tracktail,0.5.0,,BSD-3-Clause,443852,Multi-view 3D point tracking without depth input
+2026-10-12T13:59:46Z,synapsedx-sdk,0.3.0.dev20261012,,Apache-2.0,11744,synapsedx SDK for Python (Apache-2.0)
+2026-10-12T14:00:43Z,pystac-ext-access,0.1.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,34864,STAC Access Extension Specification pystac implementation.
+2026-10-12T14:03:05Z,SubUnicode,0.0.1,,GPL-3.0-only,29345,Unlimited subspaces in Unicode private use areas!
+2026-10-12T14:03:21Z,novi-tva,0.dev0,Novi Labs <devops@novilabs.com>,,815,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-12T14:03:22Z,novi-model-qa-paths,0.dev0,Novi Labs <devops@novilabs.com>,,832,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-12T14:03:23Z,novi-geaux,0.dev0,Novi Labs <devops@novilabs.com>,,816,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-12T14:03:24Z,novi-model-tools,0.dev0,Novi Labs <devops@novilabs.com>,,827,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-12T14:03:41Z,process-bigraph-lang,0.1.0,Jim Schaff,,164308698,"A language server, CLI and Python package for a domain specific language that describes process bigraphs."
+2026-10-12T14:04:08Z,blocktailor,0.0.1,BlockTailor <pypi@blocktailor.com>,,2265,"Official Python package for BlockTailor (blockchain indexing, API and webhooks). SDK coming soon."
+2026-10-12T14:04:52Z,qdrant-full-mcp,0.4.0,,MIT,70223,"MCP server for Qdrant: Qdrant Cloud account management (clusters, backups, API keys) plus data-plane tools (collections, points, hybrid search) and plain-text memory with local embeddings."
+2026-10-12T14:10:21Z,nti-badge,0.1.0,,Apache-2.0,28536,"Cryptographically signed, offline-verifiable compliance badge for AI agents"
+2026-10-12T14:10:29Z,localscreenshot,0.1.0,SOFTLOGIC <hello@localscreenshot.com>,MIT,30548,"Take a screenshot of any public web page from the command line or from Python, from 227 countries. The client of the localscreenshot API."
+2026-10-12T14:10:37Z,asyntai-haystack,0.1.0,Asyntai <hello@asyntai.com>,MIT,41213,"Haystack components and agent tools for Asyntai, the AI chat agent for websites"
+2026-10-12T14:10:38Z,veriphy,0.1.0,Georgios Douzas <georgios.douzas@gmail.com>,Apache-2.0,436395,Machine-verified physics and math proofs in Lean 4 with SageMath as an untrusted oracle
+2026-10-12T14:11:47Z,verdideck,1.0.4,,,283436,Keyboard-driven TUI frontend for AiiDA verdi CLI
+2026-10-12T14:15:04Z,celluvia,0.0.1,,MIT,1400,persistent actor system with a SQLite database per actor
