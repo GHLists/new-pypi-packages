@@ -1,19 +1,12 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-10-12T10:21:01.028462Z",
-    "path": "data/new-packages-2026-10-12T11-18-38-039563Z.csv",
-    "to": "2026-10-12T11:18:38.039563Z"
+    "count": 41,
+    "from": "2026-10-12T11:18:38.039563Z",
+    "path": "data/new-packages-2026-10-12T12-19-07-137166Z.csv",
+    "to": "2026-10-12T12:19:07.137166Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-10-12T07:24:18Z",
-      "package": "kiban",
-      "since": "2026-10-12T07:19:58.894306Z"
-    }
-  ],
-  "serial": 42128996,
+  "pending": [],
+  "serial": 42131199,
   "source_truncated": false,
-  "window": "2026-10-12T11:18:38.039563Z"
+  "window": "2026-10-12T12:19:07.137166Z"
 }
