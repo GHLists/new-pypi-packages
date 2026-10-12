@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T14:18:51Z,pulsar-dispatcher,0.1.0,Mark Parncutt <me@markparncutt.com>,Apache-2.0,67503,Task dispatcher using Apache Pulsar with prioritisation and timed retries
+2026-10-12T14:20:28Z,authforce-rs-labs,0.2.0,Roffer,MIT,65801,"Autenticazione riusabile per backend FastAPI: password, JWT, sessioni con refresh ruotato e hashato, verifica email, Google e Apple."
+2026-10-12T14:20:29Z,youparle,0.1.0,Franck Burlot,MIT AND BlueOak-1.0.0 AND OFL-1.1 AND Ubuntu-font-1.0,1703067,Local tooling for a YouParle language learning vault
+2026-10-12T14:20:46Z,gotauth,0.0.1,GotAuth contributors,MIT,631664,"Open-source auth for Python AI backends: sessions, social login, 2FA, passkeys, organizations, API keys, agent identities and an OAuth 2.1 server for MCP"
+2026-10-12T14:21:56Z,netbox-macadress,0.1.0,Samy Massoud <samymassoud@gmail.com>,,81056,Enrich NetBox MAC addresses with IEEE vendor data from macadress.com.
+2026-10-12T14:24:13Z,aodaisho,0.1.0,Nishizawa Takamasa,MIT,32547,自分用・非汎用
+2026-10-12T14:25:39Z,agentltl,0.2.1,,MIT,200969,FOLTL constraint verification for LLM agent traces
+2026-10-12T14:26:32Z,cli-to-tools,0.2.1,,MIT,103857,"Translate shell command lines into ordered, structured tool calls."
+2026-10-12T14:27:25Z,agentltl-coding,0.2.4,,MIT,136535,"AgentLTL rules for coding agents: the AGENTLTL.yaml language, a rule library, and a guard any harness can call."
+2026-10-12T14:28:54Z,divibe,0.6.1,Florent Gallaire,MIT,78402,"A true git history for a project written with an AI agent, rebuilt from the agent's own records"
+2026-10-12T14:31:00Z,sentry-lwa,1.0.0,,,22650,Sentry integration for ASGI apps on AWS Lambda behind the Lambda Web Adapter
+2026-10-12T14:33:01Z,dataforge-sba,0.1.0,Selim Ben Ali,MIT,118509,A local-first data science learning toolkit and notebook generator
+2026-10-12T14:33:23Z,hayate-player,0.1.1,,GPL-3.0-or-later,154677,"Fast, native anime catalog and desktop streaming client"
+2026-10-12T14:33:27Z,choiceone,1.0.1,choiceone contributors,MIT,34860,Type-safe decision layer between your Python code and any AI model (ChoiceOne protocol).
+2026-10-12T14:33:30Z,pylolm,0.1.0,AuraWay <auraway.dev@gmail.com>,MIT,4792812,"LoLm: run GGUF language models on-device on Android from Python (llama.cpp bindings for Kivy, Flet and Termux)."
+2026-10-12T14:34:34Z,openrouter-mcp-server,1.0.0,Ian Newton,MIT,11599,Dependency-free MCP server exposing an openrouter_chat tool for AI agents
+2026-10-12T14:35:09Z,openframe-adapters-db-falkordb,0.1.0,Furious Meteors Engineering <engineering@furiousmeteors.dev>,MIT,44465,OpenFrame Microservice Suite - FalkorDB graph-database adapter.
+2026-10-12T14:35:34Z,pystac-ext-generator,0.1.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,93133,Generate standalone PySTAC extension modules from STAC JSON Schemas
+2026-10-12T14:35:38Z,alfen-cli,0.1.1,LoveKapibarasan,MIT,29193,"CLI for the local HTTPS API of Alfen Eve / NG9xx EV chargers: properties, logs, transactions, reboot, signed meter values"
+2026-10-12T14:36:45Z,pyqtpass,0.5.0,Anne Jan Brouwer,GPL-3.0-or-later AND WTFPL AND OFL-1.1,2805098,"A cross-platform GUI for pass, the standard Unix password manager; a Python port of QtPass"
+2026-10-12T14:39:34Z,facebook-gql-scraper,0.5.1,,MIT,118836,"Scrape Facebook GraphQL data without an API key — profiles, posts, comments, reactions, groups, marketplace, search_engine."
+2026-10-12T14:40:34Z,python-geo,0.1,,GPL-3.0-or-later,33753,"Geo utilities — location distance/bearing, and a catalog of known places"
+2026-10-12T14:40:35Z,pydac3,3.0.0,"Mattia Galanti, Ivo Roghair, Martin van Sint Annaland",MIT,8349393,Simulation of adsorption-based direct air capture processes.
+2026-10-12T14:42:02Z,nexus-mcp-notion-supabase,0.1.0,Madhvendra Singh Solanki,MIT,293793,"Modular MCP server unifying Notion and Supabase as searchable, safely-writable knowledge sources."
+2026-10-12T14:42:04Z,loopgrid-langgraph,0.1.0,LoopGrid,Apache-2.0,70548,"Native LangGraph decision evidence, application policy, human-review gates and signed verification for LoopGrid"
+2026-10-12T14:43:39Z,anygrep,0.1.0,kuroko1t,MIT,675629,"Search your notes, PDFs and screenshots by meaning on the CPU, with one local multimodal model (EmbeddingGemma 2). No API key, no GPU."
+2026-10-12T14:44:00Z,langchain-gnews,0.1.0,GNews API <contact@gnews.io>,MIT,11803,"LangChain tools for the GNews API: top headlines by country and category, and news search over an archive since 2020."
+2026-10-12T14:44:12Z,nexion-lang,0.1.0,,,27095,The Nexion programming language interpreter
+2026-10-12T14:45:43Z,aiogram-keycloak-sso,0.1.2,Mikhail Logunov <milog7890@gmail.com>,MIT,183931,SSO (OpenID Connect / Keycloak) authentication middleware for aiogram 3
+2026-10-12T14:50:15Z,redcliff,0.1.0,Harishwar Reddy Korpol,Apache-2.0,235404,"Open-source visual pipelines with lineage built in. Legacy ETL in, clean Spark out."
+2026-10-12T14:51:47Z,safe-repo-export,0.1.0,,,96461,"Cross-platform project filtering, redaction and sanitized Git snapshot export"
+2026-10-12T14:53:12Z,gside,0.1.1,indexofire <indexofire@gmail.com>,MIT,323355,Genome Species IDentification Engine — multi-layer species identification CLI (marker genes / ANI / sketch / consensus)
+2026-10-12T14:53:21Z,theagentrouter-local-gateway,0.1.0a1,Tetrate,Apache-2.0,256302553,"Agent Router's aigw program, for theagentrouter's local gateway. Installed with pip install theagentrouter."
+2026-10-12T14:54:17Z,theagentrouter-core,0.1.0a1,Tetrate,Apache-2.0,226954,"LiteLLM's API with Agent Router underneath: the SDK alone, for use with a remote gateway. pip install theagentrouter adds the local gateway."
+2026-10-12T14:54:46Z,theagentrouter,0.1.0a1,Tetrate,Apache-2.0,11060,LiteLLM's API with Agent Router underneath: the SDK and the local gateway.
+2026-10-12T14:55:27Z,dt5215,1.0.1,Nuclear Instruments,MIT,95050,Control SDK of the Nuclear Instruments / CAEN DT5215 FERS concentrator: HTTP/JSON over Ethernet
+2026-10-12T14:55:29Z,dt5215-emulator,1.0.1,Nuclear Instruments,MIT,36327,A DT5215 control API on localhost: the firmware emulator the DT5215 Control SDK is tested against
+2026-10-12T14:56:34Z,niagara-cd,0.1.0,"Lénaïg Cornanguer, Joscha Cüppers, Jilles Vreeken",BSD-3-Clause,55081,Causal discovery from interval-based event sequences
+2026-10-12T15:03:53Z,django-due,0.1.0,Gigaverse,Apache-2.0,725190,Durable obligations for Django and PostgreSQL
+2026-10-12T15:04:02Z,pycardiolib,1.0,,GPL-2.0-or-later,82675,A python package to run simulations in cardiac electrophysiology
+2026-10-12T15:04:22Z,veilus,0.1.0,Veilus <veilusbrowser@gmail.com>,MIT OR Apache-2.0,33464,Launch Veilus browser profiles from Python and drive them with Playwright.
+2026-10-12T15:05:26Z,ariadne-data,0.2.0,,,1140539,Governed metrics for autonomous agents: OKF context layer + OSI semantic layer behind one MCP facade
+2026-10-12T15:05:29Z,ariadne-agent,0.2.0,,,84563,Installable Ariadne Agent backend: fixed-role conversations over native Ariadne tools
+2026-10-12T15:07:50Z,apiservisim,0.1.0,,,11277,Apiservisim Türkçe API'leri için bağımlılıksız Python istemcisi
+2026-10-12T15:07:56Z,homebuddy,0.1.0,Rato,MIT,137420,A companion for Home Assistant: finds device events in the sensor history
+2026-10-12T15:09:58Z,awai,0.1.1,zeocax <zeocax@zeocax.com>,MIT,141650,"Run Claude Code in tmux and drive it from your phone (Telegram) or anywhere, through one small local API."
+2026-10-12T15:10:34Z,zerolock-sdk,0.1.0b1,ZeroLock Team,Apache-2.0,56691,Python client SDK for ZeroLock - concurrency-correctness substrate for multi-agent AI systems
+2026-10-12T15:11:39Z,pinak-cli,1.0.0,Pinak Team,MIT,129233,"A powerful, aesthetic command-line media downloader using yt-dlp"
+2026-10-12T15:12:48Z,pyroll-pydantic-extensions,0.1,Max Weiner,BSD-3-Clause,9753,PyRolL Pydantic Extensions
+2026-10-12T15:12:58Z,adila-pay,0.3.0,,,241584,"SDK Adila Pay para Python, com clientes síncrono e assíncrono"
+2026-10-12T15:13:41Z,qivo-studio,0.1.0,QiVo Studio <palani@qivo.studio>,Proprietary: free to use under the QiVo Studio Licence Agreement 1.0 (LICENSE.md in the package),99472959,QiVo Studio: deterministic column-level lineage for Oracle SQL and PL/SQL estates
+2026-10-12T15:16:03Z,queravel-cli,0.9.27,Queravel,,524375,Queravel CLI — an agentic coding assistant for the terminal
+2026-10-12T15:17:19Z,agentflight-cli,1.0.0,Astel Antony <tintupro1@gmail.com>,,6761,An open-source auditing tool to prevent AI coding agents from tampering with test assertions.
+2026-10-12T15:17:29Z,pulumi-fly-machines,0.0.6,,Apache-2.0,360276,A Pulumi package for creating and managing FlyMachines resources.
+2026-10-12T15:19:31Z,redisthon,0.1.0,Andrew Istratov,MIT,96399,Telethon session storage in Redis or Dragonfly
