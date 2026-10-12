@@ -8,37 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 04:20 UTC
+## Latest list — 2026-10-12 05:19 UTC
 
-New packages created between 2026-10-12 03:19 UTC and 2026-10-12 04:20 UTC.
+New packages created between 2026-10-12 04:20 UTC and 2026-10-12 05:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-12T04-20-54-413121Z.csv)
+[Full CSV](data/new-packages-2026-10-12T05-19-20-455482Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-12 03:19:38 | [jumble-cli](https://pypi.org/project/jumble-cli/) | 0.1.0 | John Foland <johnfoland@users… | 98.0 kB | Random string generator — CLI and Textual TUI |
-| 2026-10-12 03:21:22 | [line-mcp-server](https://pypi.org/project/line-mcp-server/) | 0.0.1 |  | 2.0 kB | MCP server for a personal LINE account: local archive, search and messaging for… |
-| 2026-10-12 03:21:54 | [langchain-turn-window](https://pypi.org/project/langchain-turn-window/) | 0.1.0 | Bharat Khanna | 11.2 kB | Model-agnostic LangChain middleware that keeps only the last N conversational t… |
-| 2026-10-12 03:22:13 | [calculator-package-wdboone](https://pypi.org/project/calculator-package-wdboone/) | 0.0.2 |  | 4.6 kB | A simple calculator package |
-| 2026-10-12 03:24:01 | [pyyi](https://pypi.org/project/pyyi/) | 2.4.1 | pyyi | 9.1 kB | small python companion shell |
-| 2026-10-12 03:25:59 | [specstream-client](https://pypi.org/project/specstream-client/) | 1.0.0 | SpecStream <support@specstrea… | 53.7 kB | Python client and command line for SpecStream: ask for any list in plain words… |
-| 2026-10-12 03:26:05 | [specstream-mcp-stdio](https://pypi.org/project/specstream-mcp-stdio/) | 1.2.0 | SpecStream <support@specstrea… | 43.3 kB | Stdio proxy for the SpecStream MCP server, for Zed, Cline, and Continue. Finish… |
-| 2026-10-12 03:26:48 | [capturekit](https://pypi.org/project/capturekit/) | 0.1.0 | capturekit contributors | 252.0 kB | Python screen, exclusive-window and audio capture/recording for Windows and Lin… |
-| 2026-10-12 03:29:25 | [fastesp](https://pypi.org/project/fastesp/) | 0.1.0 | Zidong Shu | 80.3 kB | Exact electrostatic potential from a Gaussian-basis wavefunction, evaluated ana… |
-| 2026-10-12 03:30:31 | [centicodehelp](https://pypi.org/project/centicodehelp/) | 0.2.1 |  | 75.7 kB | Dein Code. Besser. Sauber. Cross-platform static and AI-assisted code & binary… |
-| 2026-10-12 03:32:17 | [aa-meta](https://pypi.org/project/aa-meta/) | 0.1.0 | Maxwell Ludden | 39.9 kB | Search and download books from Anna's Archive |
-| 2026-10-12 03:32:54 | [mdrtreadtool](https://pypi.org/project/mdrtreadtool/) | 2.0.0 | sysucai | 1.2 MB | 医疗器械警戒趋势分析工具：把分母表与不良事件表一键生成控制图 / 直方图 / 帕累托图（编译发行版，Windows x64 / Python 3.8+） |
-| 2026-10-12 03:35:36 | [qg-python](https://pypi.org/project/qg-python/) | 1.1.0 | "Elias D. Nino-Ruiz" <enino@u… | 42.7 kB | Reproducible 1.5-layer quasi-geostrophic model (port of QG-C) with a direct spa… |
-| 2026-10-12 03:39:03 | [tablelab](https://pypi.org/project/tablelab/) | 0.5.0 | Reza Berangi <rberangi@gmail.… | 194.8 kB | Notebook GUI for table inspection, query pipelines, charts, and Pandas/PySpark/… |
-| 2026-10-12 03:39:51 | [erdilrf-lrf](https://pypi.org/project/erdilrf-lrf/) | 0.2.0 |  | 43.0 kB | Host-side UART driver for ERDI 905 nm laser rangefinder modules (LR1000E2 proto… |
-| 2026-10-12 03:53:41 | [classicchess-sdk](https://pypi.org/project/classicchess-sdk/) | 0.1.1 | Christian Walls | 62.3 kB | Classic Chess archive and MasterDB API client and CLI |
-| 2026-10-12 04:01:22 | [busymeter](https://pypi.org/project/busymeter/) | 0.2.0 | The Busy Meter authors | 177.0 kB | Client and MCP server for the Busy Meter status light's local plugin API |
-| 2026-10-12 04:01:27 | [stress-test-kit](https://pypi.org/project/stress-test-kit/) | 0.1.0 | gg.zhao | 1.6 MB | 本地压测工具，基于 Locust 和 FastAPI |
-| 2026-10-12 04:04:25 | [get-nick-done](https://pypi.org/project/get-nick-done/) | 0.1.0 | Nikolaos Vasiloglou | 3.4 MB | GND — Get Nick Done: ORM-grounded agentic development runtime (model authoring,… |
-| 2026-10-12 04:05:06 | [exsdk](https://pypi.org/project/exsdk/) | 1.1.1 |  | 42.3 MB | Python futures and options market data and direct CTP trading SDK |
-| 2026-10-12 04:11:51 | [xnano-image](https://pypi.org/project/xnano-image/) | 0.1.0 | Hammad Saeed <hammad@supportv… | 6.9 MB | Image & animation loading, processing & display support for the xnano terminal… |
-| 2026-10-12 04:12:50 | [arisole-eval](https://pypi.org/project/arisole-eval/) | 0.1.0 | Arisole <move@arisole.com> | 80.7 kB | Post-process LeRobot evaluation artifacts into Arisole MotionBench reliability… |
-| 2026-10-12 04:15:37 | [verigate-verify](https://pypi.org/project/verigate-verify/) | 0.1.0 | rudimentall1 | 22.2 kB | Offline verifier for Verigate authority proofs: check a portable proof with onl… |
-| 2026-10-12 04:18:00 | [ruvic-secret-guard](https://pypi.org/project/ruvic-secret-guard/) | 0.1.1 | Ruvic AI | 72.7 kB | Detecta secretos expuestos en strings, archivos y comprimidos (.zip, .tar, ...)… |
-| 2026-10-12 04:18:40 | [vouchwell](https://pypi.org/project/vouchwell/) | 0.5.0 | IdeaboticsAI | 79.0 kB | Tamper-evident receipts for AI agent actions. Python SDK, wire-compatible with… |
-| 2026-10-12 04:19:52 | [iantirta-lazy-import](https://pypi.org/project/iantirta-lazy-import/) | 0.1.0 | "Iantirta.com" <ian@iantirta.… | 21.9 kB | A blazing-fast, zero-dependency lazy loading module framework for Python packag… |
+| 2026-10-12 04:21:29 | [community-agent-framework-postgres](https://pypi.org/project/community-agent-framework-postgres/) | 0.1.1 | Matias Suxo Salinas | 310.4 kB | PostgreSQL storage for Microsoft Agent Framework: chat history, sessions, workf… |
+| 2026-10-12 04:23:16 | [lazysusan](https://pypi.org/project/lazysusan/) | 0.1.0 | LazySusan <support@lazysusan.… | 21.4 kB | The official LazySusan SDK: every leading AI model for chat, images and video t… |
+| 2026-10-12 04:28:43 | [memstrand](https://pypi.org/project/memstrand/) | 0.1.0 | Chiran | 22.5 kB | Local-first typed memory for AI agents. Zero API keys. |
+| 2026-10-12 04:32:08 | [imgagent](https://pypi.org/project/imgagent/) | 0.1.2 | superz1402, Bilal140202, ansa… | 142.9 kB | Universal image discovery, search, listing, download and asset agent — standalo… |
+| 2026-10-12 04:36:01 | [dbt-dqm](https://pypi.org/project/dbt-dqm/) | 0.2.0a1 | Aliaksei Adamovich | 393.1 kB | Persistent dbt test issue tracking and a local review application |
+| 2026-10-12 04:36:56 | [teody-rpa-engine](https://pypi.org/project/teody-rpa-engine/) | 1.0.0 | Teody Arboneda Banagan <teody… | 25.3 kB | An enterprise object-oriented framework for UI automation, PDF parsing, macro l… |
+| 2026-10-12 04:41:04 | [ringpartner](https://pypi.org/project/ringpartner/) | 0.1.0 | Brandon Garcia | 70.5 kB | Unofficial Python SDK for the Ring Partner API (Amazon Vision): typed REST clie… |
+| 2026-10-12 04:43:01 | [cleaning-robots-gym](https://pypi.org/project/cleaning-robots-gym/) | 0.1.0a1 | Simforianus Jonathan Flonas H… | 70.1 kB | Gymnasium-compatible MDP environment for autonomous cleaning robot reinforcemen… |
+| 2026-10-12 04:44:04 | [jupyter-storage-usage](https://pypi.org/project/jupyter-storage-usage/) | 0.1.1 |  | 46.2 kB | Jupyter server extension: monitor and report home-directory storage usage |
+| 2026-10-12 04:44:45 | [jupyterhub-storage-usage](https://pypi.org/project/jupyterhub-storage-usage/) | 0.1.1 |  | 54.4 kB | JupyterHub service: monitor per-user storage, cull servers over limit, show das… |
+| 2026-10-12 04:48:53 | [kopitools](https://pypi.org/project/kopitools/) | 2.0.0 |  | 6.9 kB | Logs, painted strings, system arguments... |
+| 2026-10-12 04:50:11 | [miniraw](https://pypi.org/project/miniraw/) | 2.1.0 | Greenere | 121.6 kB | Layered RAW photo codec: a noise-calibrated near-lossless hot tier plus an opti… |
+| 2026-10-12 04:50:42 | [mu-language](https://pypi.org/project/mu-language/) | 0.10.0 | Shyal | 144.6 kB | mu: a small indentation language that transpiles to Python, with a hook for a p… |
+| 2026-10-12 04:54:57 | [graphersal](https://pypi.org/project/graphersal/) | 0.1.0 | Aleksandr Dederer <aleks@grap… | 38.5 MB | In-memory graph database and traversal engine, queried with Gremlin (Rust engin… |
+| 2026-10-12 05:02:36 | [forensic-image](https://pypi.org/project/forensic-image/) | 0.1.0 | DFIR Research Team <research@… | 168.5 kB | Professional-grade digital image forensics, evidence preservation, and provenan… |
+| 2026-10-12 05:05:12 | [mossnote](https://pypi.org/project/mossnote/) | 0.1.0b1 | Rahul Kaushal | 12.3 MB | A private, spoiler-free journal for the games you play. Runs on your computer;… |
+| 2026-10-12 05:05:23 | [dev-autopilot](https://pypi.org/project/dev-autopilot/) | 0.4.0 |  | 594.4 kB | Autopilot builds your software project while you are away. You write what you w… |
+| 2026-10-12 05:05:57 | [fortroyal2d](https://pypi.org/project/fortroyal2d/) | 1.5.1 | FortRoyal 2D | 3.4 kB | Build FortRoyal 2D group chat bots in Python (kick, ban, roles, messages, chann… |
+| 2026-10-12 05:06:02 | [hashwarden](https://pypi.org/project/hashwarden/) | 0.1.0 | Sohan Shelar <sohanshelar01@g… | 9.0 kB | A lightweight file integrity monitoring (FIM) CLI tool using SHA-256 cryptograp… |
+| 2026-10-12 05:06:08 | [kuberich](https://pypi.org/project/kuberich/) | 0.1.0 | Carlos Herrera <carloshm91@gm… | 481.2 kB | A Kubernetes terminal UI built with Python and Textual |
+| 2026-10-12 05:09:32 | [pd-features](https://pypi.org/project/pd-features/) | 0.0.0a0 | Enigmata, Inc. | 911 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-12 05:10:09 | [finzdata-mcp](https://pypi.org/project/finzdata-mcp/) | 0.1.0 | FinzData <info@finzdata.com> | 17.8 kB | FinzData MCP server: US market data (prices, intraday, COT, macro, short intere… |
+| 2026-10-12 05:10:34 | [pd-sentinel](https://pypi.org/project/pd-sentinel/) | 0.0.0a0 | Enigmata, Inc. | 910 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-12 05:10:35 | [pd-sentinel-adapters](https://pypi.org/project/pd-sentinel-adapters/) | 0.0.0a0 | Enigmata, Inc. | 920 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-12 05:10:37 | [pd-sentinel-stores](https://pypi.org/project/pd-sentinel-stores/) | 0.0.0a0 | Enigmata, Inc. | 919 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-12 05:12:39 | [pytracemodel](https://pypi.org/project/pytracemodel/) | 0.1.0 | DataYoga <oren@datayoga.io> | 212.1 kB | Traced, checked financial models in Python: every number has an address, a sour… |
+| 2026-10-12 05:14:55 | [agenteval-toolkit](https://pypi.org/project/agenteval-toolkit/) | 0.1.0 | The AgentEval Authors | 232.3 kB | Scan AI infrastructure against policy-as-code rule packs, evaluate AI agents wi… |
+| 2026-10-12 05:15:45 | [xnano-audio](https://pypi.org/project/xnano-audio/) | 0.1.0 | Hammad Saeed <hammad@supportv… | 7.3 MB | Audio input & playback support for the xnano terminal library. |
+| 2026-10-12 05:17:19 | [yxpz-tools](https://pypi.org/project/yxpz-tools/) | 0.1.0 | yxpz | 7.8 kB | 一个简单的 Python 实用工具集 |
+| 2026-10-12 05:18:08 | [deciax](https://pypi.org/project/deciax/) | 0.1.0 | Junyi Hou | 2.1 kB | High-performance decision models on TPUs, powered by JAX and Pallas. |
+| 2026-10-12 05:18:30 | [posit-python](https://pypi.org/project/posit-python/) | 0.0.1 |  | 11.2 kB |  |

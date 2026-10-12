@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T04:21:29Z,community-agent-framework-postgres,0.1.1,Matias Suxo Salinas,MIT,310444,"PostgreSQL storage for Microsoft Agent Framework: chat history, sessions, workflow checkpoints, AG-UI thread snapshots and leases."
+2026-10-12T04:23:16Z,lazysusan,0.1.0,LazySusan <support@lazysusan.ai>,MIT,21400,"The official LazySusan SDK: every leading AI model for chat, images and video through one API key."
+2026-10-12T04:28:43Z,memstrand,0.1.0,Chiran,MIT,22526,Local-first typed memory for AI agents. Zero API keys.
+2026-10-12T04:32:08Z,imgagent,0.1.2,"superz1402, Bilal140202, ansaribilal14, hamza140202",MIT,142942,"Universal image discovery, search, listing, download and asset agent — standalone, headless, deterministic, machine-friendly."
+2026-10-12T04:36:01Z,dbt-dqm,0.2.0a1,Aliaksei Adamovich,Apache-2.0,393105,Persistent dbt test issue tracking and a local review application
+2026-10-12T04:36:56Z,teody-rpa-engine,1.0.0,Teody Arboneda Banagan <teody882011@gmail.com>,MIT,25311,"An enterprise object-oriented framework for UI automation, PDF parsing, macro loops, and OCR."
+2026-10-12T04:41:04Z,ringpartner,0.1.0,Brandon Garcia,Apache-2.0,70513,"Unofficial Python SDK for the Ring Partner API (Amazon Vision): typed REST client, WHEP live video, webhook verification, signed webhook simulator and fixture replay."
+2026-10-12T04:43:01Z,cleaning-robots-gym,0.1.0a1,"Simforianus Jonathan Flonas Harefa, Farrel Athalla Muljawan, Calvin Joy Tarigan, Vektor Dewanto, Wi…",MIT,70108,Gymnasium-compatible MDP environment for autonomous cleaning robot reinforcement learning.
+2026-10-12T04:44:04Z,jupyter-storage-usage,0.1.1,,MIT,46235,Jupyter server extension: monitor and report home-directory storage usage
+2026-10-12T04:44:45Z,jupyterhub-storage-usage,0.1.1,,MIT,54441,"JupyterHub service: monitor per-user storage, cull servers over limit, show dashboard"
+2026-10-12T04:48:53Z,kopitools,2.0.0,,,6865,"Logs, painted strings, system arguments..."
+2026-10-12T04:50:11Z,miniraw,2.1.0,Greenere,MIT,121589,Layered RAW photo codec: a noise-calibrated near-lossless hot tier plus an optional layer for bit-exact recovery
+2026-10-12T04:50:42Z,mu-language,0.10.0,Shyal,MIT,144617,"mu: a small indentation language that transpiles to Python, with a hook for a project's helper library"
+2026-10-12T04:54:57Z,graphersal,0.1.0,Aleksandr Dederer <aleks@graphersal.dev>,Apache-2.0,38482740,"In-memory graph database and traversal engine, queried with Gremlin (Rust engine, no server)"
+2026-10-12T05:02:36Z,forensic-image,0.1.0,DFIR Research Team <research@forensic-image.dev>,Apache-2.0,168452,"Professional-grade digital image forensics, evidence preservation, and provenance analysis library"
+2026-10-12T05:05:12Z,mossnote,0.1.0b1,Rahul Kaushal,MIT,12279942,"A private, spoiler-free journal for the games you play. Runs on your computer; no Node.js needed."
+2026-10-12T05:05:23Z,dev-autopilot,0.4.0,,MIT,594373,"Autopilot builds your software project while you are away. You write what you want in plain words and start it once. You get working software, tested, with a record of every step."
+2026-10-12T05:05:57Z,fortroyal2d,1.5.1,FortRoyal 2D,MIT,3360,"Build FortRoyal 2D group chat bots in Python (kick, ban, roles, messages, channels)."
+2026-10-12T05:06:02Z,hashwarden,0.1.0,Sohan Shelar <sohanshelar01@gmail.com>,MIT,8996,A lightweight file integrity monitoring (FIM) CLI tool using SHA-256 cryptographic hashing.
+2026-10-12T05:06:08Z,kuberich,0.1.0,Carlos Herrera <carloshm91@gmail.com>,Apache-2.0,481250,A Kubernetes terminal UI built with Python and Textual
+2026-10-12T05:09:32Z,pd-features,0.0.0a0,"Enigmata, Inc.",,911,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-12T05:10:09Z,finzdata-mcp,0.1.0,FinzData <info@finzdata.com>,MIT,17836,"FinzData MCP server: US market data (prices, intraday, COT, macro, short interest, 13F) inside AI assistants. Free tier: last 12 months."
+2026-10-12T05:10:34Z,pd-sentinel,0.0.0a0,"Enigmata, Inc.",,910,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-12T05:10:35Z,pd-sentinel-adapters,0.0.0a0,"Enigmata, Inc.",,920,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-12T05:10:37Z,pd-sentinel-stores,0.0.0a0,"Enigmata, Inc.",,919,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-12T05:12:39Z,pytracemodel,0.1.0,DataYoga <oren@datayoga.io>,Apache-2.0,212098,"Traced, checked financial models in Python: every number has an address, a source and rules that check it."
+2026-10-12T05:14:55Z,agenteval-toolkit,0.1.0,The AgentEval Authors,Apache-2.0,232342,"Scan AI infrastructure against policy-as-code rule packs, evaluate AI agents with standard exams, and issue signed certificates when both pass."
+2026-10-12T05:15:45Z,xnano-audio,0.1.0,Hammad Saeed <hammad@supportvectors.com>,MIT,7250928,Audio input & playback support for the xnano terminal library.
+2026-10-12T05:17:19Z,yxpz-tools,0.1.0,yxpz,MIT,7760,一个简单的 Python 实用工具集
+2026-10-12T05:18:08Z,deciax,0.1.0,Junyi Hou,,2150,"High-performance decision models on TPUs, powered by JAX and Pallas."
+2026-10-12T05:18:30Z,posit-python,0.0.1,,,11180,

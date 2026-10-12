@@ -1,25 +1,31 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-10-12T03:19:18.7739Z",
-    "path": "data/new-packages-2026-10-12T04-20-54-413121Z.csv",
-    "to": "2026-10-12T04:20:54.413121Z"
+    "count": 31,
+    "from": "2026-10-12T04:20:54.413121Z",
+    "path": "data/new-packages-2026-10-12T05-19-20-455482Z.csv",
+    "to": "2026-10-12T05:19:20.455482Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-12T04:09:04Z",
       "package": "arisole",
       "since": "2026-10-12T03:19:18.7739Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-12T03:34:12Z",
       "package": "numpy-ascend",
       "since": "2026-10-12T03:19:18.7739Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-12T04:30:05Z",
+      "package": "poke-wrap-client",
+      "since": "2026-10-12T04:20:54.413121Z"
     }
   ],
-  "serial": 42115353,
+  "serial": 42116598,
   "source_truncated": false,
-  "window": "2026-10-12T04:20:54.413121Z"
+  "window": "2026-10-12T05:19:20.455482Z"
 }
