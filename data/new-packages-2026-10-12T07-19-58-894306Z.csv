@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T06:22:06Z,manta-action-kit-mcp,0.5.2,marrviin,MIT,145829,"Python MCP server for Manta Action Kit — exposes the Chrome extension's recorded API calls to agents, bridged to the extension over a local WebSocket"
+2026-10-12T06:25:52Z,manulint,0.1.0,manulint contributors,MIT,24523,Pre-submission checklist for medical/academic manuscripts — catch desk-rejection triggers before you submit
+2026-10-12T06:29:45Z,skillpluck,0.2.0,Samet <info@stemizer.net>,,16188,Install selected agent skills and relocate their static local references from Git repositories.
+2026-10-12T06:35:20Z,motrix-env-core,0.4.0b0,Motphys,Apache-2.0,156850,Backend-neutral framework APIs and runtime facilities for building reinforcement learning environments.
+2026-10-12T06:35:45Z,motrix-deploy,0.4.0b0,Motphys,Apache-2.0,42261,Framework-independent policy deployment runtime for MotrixLab.
+2026-10-12T06:36:12Z,motrix-rl,0.4.0b0,Motphys,Apache-2.0,51219,Reinforcement learning training framework with multi-backend unified training interface.
+2026-10-12T06:38:34Z,spheroidkit,1.1.0,"""Sharav A. Desai"" <sharavdesai@gmail.com>",MIT,64783,"Open, no-install toolkit for end-to-end tumour spheroid growth and drug-response analysis from brightfield microscopy"
+2026-10-12T06:40:12Z,launch-detector-mcp,0.1.0,Ali Altunar,MIT,196995,MCP server: spot unannounced products from new subdomains in certificate transparency logs (crt.sh). No API keys.
+2026-10-12T06:43:41Z,vast-dataengine-core,0.1.0,,,2344,VAST DataEngine core contracts for runtime and adapter
+2026-10-12T06:43:55Z,pubdata-mcp,1.2.0,autosha (autonomous AI agent),"MIT License Copyright (c) 2026 autosha (autonomous AI agent) Permission is hereby granted, free of…",15910,"MCP server exposing a keyless public-data API (weather, earthquakes, ISS, Base gas fees, live postcards) to any MCP-capable agent."
+2026-10-12T06:45:13Z,rulestamp-ksef-fa3-invoice-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35431,"Finds the lines KSeF will reject in a Polish structured invoice XML, before you send it (bundled Node.js runtime)"
+2026-10-12T06:45:21Z,rulestamp-fedramp-oscal-ssp-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36275,"16 checks on a system-security-plan JSON, in your editor, before a validator returns the package (bundled Node.js runtime)"
+2026-10-12T06:45:38Z,rulestamp-firebase-deploy-leak-audit,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35857,Reads firebase.json and names the files your next firebase deploy would publish to the open web (bundled Node.js runtime)
+2026-10-12T06:45:55Z,rulestamp-firestore-rules-guard,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34467,"Audits firestore.rules and storage.rules for public access, expired test-mode dates and missing owner checks — 13 rules, line by line, before you deploy. (bundled Node.js runtime)"
+2026-10-12T06:46:08Z,excelizarr,0.1.0,Charles Turner <charles.turner@anu.edu.au>,Apache Software License 2.0,99820,"A cloud-native representation of an .xlsx workbook, in Zarr. Yes, really."
+2026-10-12T06:48:01Z,file-search-system,1.0.0,,MIT,1957261,基于 Everything 的本地毫秒级文件搜索系统：Python 库 + 全功能 CLI + HTTP JSON API（非管理员文件夹索引、junction 死循环免疫、非阻塞搜索）
+2026-10-12T06:48:01Z,semantic-tool-registry,7.0.1,cc <3204624858@qq.com>,MIT,288947,语义注册表基底 + 领域子类（工具域 / 文档域）：向量与全文双检索、R1/R2 精准锚定、录入去重、CRUD、领域存储扩展（指定数据库 / 指定表 / 扩展字段，初始化期定型，注册查询自动适配）
+2026-10-12T06:48:19Z,qubopy,0.1.0,Selva Kumaran K <selvakk2k@users.noreply.github.com>,MIT,95898,Asynchronous Python client library and local BLE enabler for Qubo smart home devices
+2026-10-12T06:49:09Z,winbox-sandbox,1.0.3,winbox,"Proprietary. Any use, commercial or personal, requires prior written authorization from the copyrig…",20980828,"Windows 10/11 application sandbox: Job Object + fake C tree + Dokan drive + dedicated-account boundary + in-process API view faking + local egress controller + self-written minifilter, with automatic…"
+2026-10-12T06:51:53Z,pystemma,0.0.1,,Apache-2.0,14993,A PyTorch-based library for building modular and explainable spatio-temporal models and architectures.
+2026-10-12T06:54:01Z,dicleak,0.1.0,dicleak contributors,MIT,17726,Dataset integrity auditor for medical-imaging AI: catch patient-level data leakage and split flaws before they sink your model or paper
+2026-10-12T06:55:48Z,geosint,1.0.0,Jenil Mistry,MIT,194894,"Geospatial OSINT collection and monitoring for points of interest and organisations - OpenStreetMap by default, optionally Google Places."
+2026-10-12T06:58:59Z,umaiware,0.0.1,umaiware,,2046,Placeholder for the umaiware package.
+2026-10-12T07:00:04Z,miku-hello-demo,1.0.0,,,2267,
+2026-10-12T07:00:59Z,pi-agents-anywhere,0.1.1,Seryta,MIT,99410,Pi coding agent as an Agents Anywhere runtime (connector adapter)
+2026-10-12T07:01:30Z,linqy,0.1.1,Your Name <you@example.com>,MIT,19367,LINQ-style lazy query operators for Python
+2026-10-12T07:02:18Z,pkmrag,0.9.0,PKMRAG Contributors,MIT,681557,Local-first Hybrid GraphRAG retrieval engine and MCP server for linked knowledge bases
+2026-10-12T07:05:03Z,tracepanel-agent,0.0.1a1,,FSL-1.1-ALv2,91422689,"The Tracepanel agent: keeps your app's traces and logs, finds N+1 queries and other issues, serves the local console"
+2026-10-12T07:08:48Z,listing-watch-notificators,1.0.0,Jost Prevc <jost.prevc@gmail.com>,MIT,16443,"Email, Pushover and ntfy Notificators for Listing Watch."
+2026-10-12T07:11:32Z,staan-mcp,1.0.1,Marcin Wolny,MIT,177386,MCP server for the Staan API: web search and grounded answers over stdio or streamable HTTP.
+2026-10-12T07:13:28Z,schedium-history,0.1.0,Marc Bresson <m.bresson@mailo.eu>,,38713,"Run traces for schedium: remember when jobs started and stopped, their status, logs and errors."
+2026-10-12T07:14:34Z,fockit,0.0.2,Henry L. Nourse,MIT,82654,"Build many-body models, write your own operator algebras, and test algorithms on them"
+2026-10-12T07:15:41Z,datahub-airflow-plugin-lite,0.1.1,,,61552,Dependency-free DataHub listener plugin for Apache Airflow
+2026-10-12T07:16:56Z,unified-nexus,0.1.3,boopathiraj <boopathiraj.aideveloper@gmail.com>,MIT,52828,One decorator. Two interfaces. Build FastAPI + MCP backends with a single source of truth.
+2026-10-12T07:19:15Z,identity-hub,1.0.0a1,Identity Hub contributors,MIT,1131075,"Управление парком аккаунтов: жизненный цикл, аренда, лимиты, прокси, секреты, события."
+2026-10-12T07:19:40Z,practical08,0.1.0,PracticalPrep Contributors,MIT,10314,Searchable library of 30 AIML practical programs and concise theory notes
