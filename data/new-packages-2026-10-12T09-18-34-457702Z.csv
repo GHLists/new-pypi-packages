@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T07:43:00Z,heal-amateure-gpsr,1.0.11a0,,,2022763,Python wrapper for the GPSR symbolic-regression library (.NET)
+2026-10-12T08:16:42Z,popo-flow,0.1.0,sambaiga <sambaiga@gmail.com>,Apache-2.0,1310061,Low-voltage network simulation and state estimation for DER studies.
+2026-10-12T08:19:12Z,nagasim,0.6.0,Matteo Brunetti,Apache-2.0,3400929,"A simulation engine on SimPy for discrete-event, system-dynamics and agent-based models, with model files, experiments, a twin and agent tools"
+2026-10-12T08:19:22Z,georay,0.1.0,Henry Hölzemann,"MIT License Copyright (c) 2026 Henry Hölzemann Permission is hereby granted, free of charge, to any…",111958,Library to render reference geodata for camera poses
+2026-10-12T08:21:51Z,ediri-docker-agent,0.1.1,,Apache-2.0,430584,"A Pulumi provider for Docker Agent (docker-agent): define AI agent configurations as typed, validated code and share them as OCI artifacts, the same way `docker agent share push` does."
+2026-10-12T08:22:10Z,castpdf,0.1.0,CastPDF <support@castpdf.com>,MIT,44917,"Official Python client for the CastPDF API: PDFs from templates or HTML, EU e-invoices, batches and webhooks."
+2026-10-12T08:22:51Z,odoo-addon-maintenance-inspection,18.0.1.0.0.2,"Dixmit,Odoo Community Association (OCA)",AGPL-3,32572,Allow to manage inspections inside Preventive requests
+2026-10-12T08:24:35Z,nv-sflow,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1051,Zero version placeholder for nv_sflow
+2026-10-12T08:25:44Z,voxlock,1.0.0,Arbaz Siddiqui <arbaz00@gmail.com>,Apache-2.0,26008,"The best performing voice isolator there is: keeps the caller's voice and removes the other voices in the room. Streaming, CPU, ONNX."
+2026-10-12T08:26:21Z,django-tracepanel,0.0.1a1,,MIT,6558,"Traces and logs for Django apps: installs tracepanel with Django support, the same as tracepanel[django]"
+2026-10-12T08:30:56Z,dreamscale-transport,0.1.1a33,Dreamscale Labs,Apache-2.0,161895,"Dreamscale QUIC data plane: pinned client, UDP preflight, multi-session worker server"
+2026-10-12T08:32:42Z,tomio,0.1.1,Pierre-Yves Baudin,MIT,76487,"I/O utilities for medical images: image volumes with geometry, interpolation, label and config files"
+2026-10-12T08:33:04Z,koesub,0.1.0,ermengchao,MIT,53928,"Platform subtitles, Whisper transcription and subtitled video exports"
+2026-10-12T08:33:04Z,ytdlm,1.0.0,ytdlm <341343882+ytdlm@users.noreply.github.com>,MIT,10030,Python SDK for ytdlm — Real-Time SABR UMP WebM/Opus Audio Streamer for Discord Bots
+2026-10-12T08:33:34Z,leo-sentry-telegram,1.0.1,Viacheslav,MIT,18434,Plugin for Sentry which allows sending notification via Telegram messenger.
+2026-10-12T08:33:50Z,rmf2_scheduler,0.3.0rc1,Chen Bainian <chen_bainian@a-star.edu.sg>,Apache-2.0,175077118,Python bindings for the RMF2 Scheduler
+2026-10-12T08:34:00Z,tavernpy,1.0.0,Shadow,MIT,59023,Async Python client for the console of a self-hosted A Township Tale server
+2026-10-12T08:34:42Z,etoe,0.1.58,Aleksei Morozov <aleksei.morozov.19730316.nn.ru@gmail.com>,Apache-2.0,191613,Reference Python implementation of the ÆToE.
+2026-10-12T08:34:58Z,transcriptout,0.1.0,Artem Chuikin <support@transcriptout.com>,MIT,27114,"Drop-in replacement for youtube-transcript-api that works from servers and clouds. Hosted by TranscriptOut, no proxies to run."
+2026-10-12T08:35:20Z,legion-lock,0.1.0,,MIT,86459,"Pin MCP server tool lists in a lockfile; fail CI on tool drift, with signed evidence from the LEGION transparency log"
+2026-10-12T08:36:41Z,pyorder,0.1.0,Winipedia,MIT,10669,A Python source code ordering tool.
+2026-10-12T08:37:26Z,showco,0.3.0,,,480980,🎪 Local show control for recs and streamo 🎪
+2026-10-12T08:39:04Z,pollaris-cli,0.1.2,,,33266,Agent-friendly Pollaris CLI and MCP bridge
+2026-10-12T08:40:29Z,passagemath-mathilda,10.8.13,"Matthias Köppe, passagemath contributors",GPL-2.0-or-later,609621901,passagemath: Interface to the computer algebra system Mathilda
+2026-10-12T08:47:13Z,ichec-brand,0.3.0,Irish Centre for High End Computing <platformengineering@ichec.ie>,,1556944,"ICHEC's brand pack, and the base that project packs extend: logos, colours and fonts as design tokens, and the blocks motif."
+2026-10-12T08:50:13Z,polynet,1.0.1,Eduardo Aguilar-Bejarano,MIT,2728127,A Python package for polymer informatics: property prediction with graph neural networks and traditional machine learning
+2026-10-12T08:50:29Z,cohzen,0.2.0,Cohzen <dev@cohzen.ai>,MIT,260560,"Fast, static scanner for LangGraph architectures: detecting compiled graphs, agents, and routing edges."
+2026-10-12T08:54:09Z,talos-runtime,0.1.0,Samarth Kumar,Apache-2.0,319782,Developer-first AI agent runtime and Python SDK
+2026-10-12T08:55:42Z,winrmxfer,0.1.0,Nagy Szabolcs,MIT,17673,File transfer over WinRM using base64-encoded PowerShell commands
+2026-10-12T08:55:53Z,exactcond,0.2.0,"""M. Theodor Loots"" <theo.loots@gmail.com>",GPL-3.0-or-later,401281,Exact conditional reference distributions for tables and selected linear models
+2026-10-12T08:56:27Z,twobells,0.1.0,Albert Cornelissen,MIT,1770593,"Two Bells: know when to leave. Train and bus departures for Great Britain, on an e-paper or HDMI board on a Raspberry Pi and on a web dashboard, installed on a Pi, in Docker or on a desktop"
+2026-10-12T08:59:33Z,student-task-manager-cli,0.1.0,,,30127,A simple command-line task manager
+2026-10-12T09:00:47Z,ouro-agent,0.2.0,,MIT,3642982,Local-first personal agent runtime.
+2026-10-12T09:01:52Z,siwc-proxy,0.2.0,Nyamkhuu Demberelsuren,MIT,100078,Local OpenAI-compatible API proxy for Sign in with ChatGPT token sharing
+2026-10-12T09:02:06Z,flash-mamba,0.1.0,Jellyfish042,MIT,28086,A lightweight convenience wrapper for the official mamba-ssm package
+2026-10-12T09:02:32Z,intellabel,0.1.0rc2,INTELLABEL,Proprietary,337661,Official Python SDK for the INTELLABEL platform API
+2026-10-12T09:02:40Z,agentguard-lint,0.3.0,Muaz,MIT,85564,"Find LLM cost risks in Python agent code - unbounded loops, quadratic history growth - and estimate what a run costs."
+2026-10-12T09:02:50Z,fossil-scm-mcp,1.0.0,Relu Percan,MIT,137848,Model Context Protocol (MCP) server for Fossil SCM with 29 specialized tools for AI agents
+2026-10-12T09:06:54Z,medxfair,0.4.0,,,35860,Diagnosis-first intersectional auditing of binary clinical predictions
+2026-10-12T09:11:45Z,lowcoai-api,1.1.0,,MIT,121646,"Official Python client for the Lowco API: PDF, render, OCR, Document AI, QR and barcodes, with jobs, file inputs, webhooks and typed errors."
+2026-10-12T09:11:49Z,lowcoai-auth,0.1.0,,MIT,35688,Framework-agnostic Python helpers for the lowco OAuth 2.0 Authorization Code + PKCE flow.
+2026-10-12T09:11:53Z,lowcoai-docs,0.1.0,,MIT,70779,"Official Python client for the lowco document service (files, folders, sharing, triggers, webhooks)."
+2026-10-12T09:11:57Z,lowcoai-engage,0.1.0,,MIT,24688,Official server-side Python client for the lowco engage event-tracking service.
+2026-10-12T09:12:19Z,codepulse-cli,0.1.0,Mehouelley <fabricemehouelley43@gmail.com>,MIT,50569,"Reveal a codebase's health from its git history — hotspots, bus factor, hidden coupling, and a CI risk gate."
+2026-10-12T09:12:56Z,nexus-uav,0.1.0,Peter Breuer,Apache-2.0,724982,Flight stack simulation with Newton
+2026-10-12T09:12:59Z,jev-gate,0.0.2,,MIT,106583,Fails a pipeline when code breaks a quality rule that only a reader could check.
+2026-10-12T09:16:18Z,document-intelligence-cli,0.1.0,Michael BAG <michaelbag8@gmail.com>,MIT,25131,A CLI tool for extracting structured information from text documents.
+2026-10-12T09:17:54Z,tno.quantum.devices,1.0.1,TNO Quantum Code Lab <tnoquantum@tno.nl>,Apache-2.0,28751,Devices

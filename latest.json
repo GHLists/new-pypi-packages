@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-10-12T07:19:58.894306Z",
-    "path": "data/new-packages-2026-10-12T08-19-03-364106Z.csv",
-    "to": "2026-10-12T08:19:03.364106Z"
+    "count": 48,
+    "from": "2026-10-12T08:19:03.364106Z",
+    "path": "data/new-packages-2026-10-12T09-18-34-457702Z.csv",
+    "to": "2026-10-12T09:18:34.457702Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-12T07:43:00Z",
-      "package": "heal-amateure-gpsr",
-      "since": "2026-10-12T07:19:58.894306Z"
+      "created_at": "2026-10-12T08:59:38Z",
+      "package": "brulegfx",
+      "since": "2026-10-12T08:19:03.364106Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-12T07:24:18Z",
       "package": "kiban",
       "since": "2026-10-12T07:19:58.894306Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-12T08:16:42Z",
-      "package": "popo-flow",
-      "since": "2026-10-12T07:19:58.894306Z"
+      "created_at": "2026-10-12T09:17:39Z",
+      "package": "reference-audit",
+      "since": "2026-10-12T08:19:03.364106Z"
     }
   ],
-  "serial": 42121419,
+  "serial": 42125406,
   "source_truncated": false,
-  "window": "2026-10-12T08:19:03.364106Z"
+  "window": "2026-10-12T09:18:34.457702Z"
 }
