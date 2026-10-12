@@ -8,37 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 00:18 UTC
+## Latest list — 2026-10-12 01:18 UTC
 
-New packages created between 2026-10-11 23:18 UTC and 2026-10-12 00:18 UTC.
+New packages created between 2026-10-12 00:18 UTC and 2026-10-12 01:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-12T00-18-47-334462Z.csv)
+[Full CSV](data/new-packages-2026-10-12T01-18-34-767633Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-11 23:19:52 | [rimsavexray](https://pypi.org/project/rimsavexray/) | 1.3.0 | Booyaka101 | 72.0 kB | See inside your RimWorld save: a read-only report of every byte and every lag-d… |
-| 2026-10-11 23:21:55 | [how-wrong-is-your-mmm](https://pypi.org/project/how-wrong-is-your-mmm/) | 0.1.0 | Ryan O'Sullivan <raz1470@hotm… | 283.3 kB | Collinearity diagnostics and budget phasing tools for Marketing Mix Models |
-| 2026-10-11 23:23:36 | [exmergo-dex](https://pypi.org/project/exmergo-dex/) | 0.0.0 | "Exmergo, Inc." <support@exme… | 12.9 kB | Reserved by Exmergo. The dex engine is published as 'exmergo-dex-core'. |
-| 2026-10-11 23:29:46 | [fcvm](https://pypi.org/project/fcvm/) | 0.7.0 | Carlos Bravo | 22.4 kB | A client for the fcvm HTTP API: Firecracker microVM sandboxes from Python |
-| 2026-10-11 23:29:48 | [fcvm-mcp](https://pypi.org/project/fcvm-mcp/) | 0.7.0 | Carlos Bravo | 15.5 kB | Launches fcvm's MCP server: Firecracker microVM sandboxes as tools for AI agents |
-| 2026-10-11 23:30:41 | [harness-policy](https://pypi.org/project/harness-policy/) | 0.0.0 |  | 2.8 kB | Placeholder for harness-policy, a framework for robotics agent harnesses. Not r… |
-| 2026-10-11 23:31:36 | [gleif-keria](https://pypi.org/project/gleif-keria/) | 0.4.1 | "Philip S. Feairheller" <pfea… | 229.9 kB | KERIA: KERI Agent in the cloud |
-| 2026-10-11 23:34:09 | [probity-verify](https://pypi.org/project/probity-verify/) | 0.1.0 |  | 130.4 kB | Check claims against pinned evidence offline, with replayable decisions |
-| 2026-10-11 23:35:06 | [probity-ratchet](https://pypi.org/project/probity-ratchet/) | 0.1.0 |  | 1.6 MB | An agent harness that turns each failure into a proven guard or procedure, with… |
-| 2026-10-11 23:36:08 | [n11-deadbolt-client](https://pypi.org/project/n11-deadbolt-client/) | 1.1.0rc1 | NextEleven LLC | 48.2 kB | Local DeadBolt sidecar client and optional OpenAI Agents SDK function-tool inte… |
-| 2026-10-11 23:42:48 | [ilyrics](https://pypi.org/project/ilyrics/) | 0.2.0 |  | 3.6 MB | Lyrics videos of the iPhone Music Lyrics screen, with on-device synchronization |
-| 2026-10-11 23:44:04 | [prepublish-guard](https://pypi.org/project/prepublish-guard/) | 0.1.1 | Santiago Osorio | 70.4 kB | Find secrets, personal data (incl. Colombian formats) and other things that mus… |
-| 2026-10-11 23:47:49 | [antigravitystreaming](https://pypi.org/project/antigravitystreaming/) | 0.1.0 | Eliran Wong | 15.4 kB | Stream text from the signed-in Google Antigravity CLI |
-| 2026-10-11 23:54:02 | [picturesq](https://pypi.org/project/picturesq/) | 0.0.1 | Eddie MG | 48.3 kB | Turn a folder of RAW photos into consistently graded exports, driven by looks a… |
-| 2026-10-11 23:57:03 | [sentra-mcp](https://pypi.org/project/sentra-mcp/) | 0.1.0 | mo22zy2 | 113.2 kB | Sentra — local-first MCP server for mock exam generation |
-| 2026-10-11 23:58:04 | [brmunipanel](https://pypi.org/project/brmunipanel/) | 0.1.0 | Lucas Guesse | 302.7 kB | ETL library for a harmonized panel of socioeconomic, fiscal, health, territoria… |
-| 2026-10-11 23:58:22 | [udfkit](https://pypi.org/project/udfkit/) | 0.1.0 | kajisho5 | 69.7 kB | Write DVD-Video (UDF 1.02 + ISO 9660) and Blu-ray (UDF 2.50) disc images in pur… |
-| 2026-10-11 23:58:51 | [dl-course](https://pypi.org/project/dl-course/) | 2026.10.11.4 | Konstantin Schekotihin | 63.7 kB | Plotting and asset helpers for the AAU Machine Learning and Deep Learning cours… |
-| 2026-10-12 00:00:53 | [dvdcc](https://pypi.org/project/dvdcc/) | 0.1.1 | kajisho5 | 41.0 kB | Line-21 (CEA-608) closed captions for DVD-Video: Scenarist SCC or subtitles int… |
-| 2026-10-12 00:01:07 | [bdmvkit](https://pypi.org/project/bdmvkit/) | 0.2.0 | kajisho5 | 91.2 kB | Blu-ray (BDMV) authoring in pure Python: playlists, clip information, HDMV navi… |
-| 2026-10-12 00:01:32 | [wildtrax-client](https://pypi.org/project/wildtrax-client/) | 0.1.0 | Halter Technical | 24.3 kB | Python client for the WildTrax 2027 HTTP /api control surface |
-| 2026-10-12 00:02:15 | [cmark-render](https://pypi.org/project/cmark-render/) | 0.1.0 | Zachary Juang | 1.1 MB | Fast, leak-free markdown to HTML with a vendored cmark-gfm (tables, ~~strikethr… |
-| 2026-10-12 00:04:36 | [pyc-revive](https://pypi.org/project/pyc-revive/) | 1.0.0 | opsecalyzer | 1.6 MB | Stdlib-only .pyc -> .py reconstructor with native and pycdas backends |
-| 2026-10-12 00:07:12 | [ground-control-cli](https://pypi.org/project/ground-control-cli/) | 0.2.0 |  | 90.8 kB | What runs on a developer's machine: the command line and the agent's plugin. |
-| 2026-10-12 00:10:42 | [recon-orchestrator](https://pypi.org/project/recon-orchestrator/) | 1.0.0 |  | 128.2 kB | Authorized security-scan tool orchestrator (nmap/nuclei/testssl + built-in chec… |
-| 2026-10-12 00:10:46 | [reprobe-agents](https://pypi.org/project/reprobe-agents/) | 0.1.0 | Pranith Ravella | 303.3 kB | Turn an agent security failure into a reproducible regression test. |
+| 2026-10-12 00:21:29 | [matchapi](https://pypi.org/project/matchapi/) | 0.1.0 | Dmitriy Troyan | 29.1 kB | An HTTP service is one function: match replaces the router |
+| 2026-10-12 00:24:47 | [s-bike-training-hub](https://pypi.org/project/s-bike-training-hub/) | 1.11.0 | JHarp199345 | 58.1 MB | A free, local training hub for cycling, running, swimming and lifting, with an… |
+| 2026-10-12 00:26:47 | [gate-cache](https://pypi.org/project/gate-cache/) | 0.1.0 | Nate Landau | 30.8 kB | Skip lint and test gates that already passed on the exact same git tree. |
+| 2026-10-12 00:27:18 | [industry-slice-core](https://pypi.org/project/industry-slice-core/) | 0.1.2 |  | 76.3 kB | Shared industry, comps, source and KPI contracts |
+| 2026-10-12 00:27:53 | [hank-contracts](https://pypi.org/project/hank-contracts/) | 1.0 |  | 32.1 kB | Hank wire-contract types: commercial claims, work authorization, usage, capabil… |
+| 2026-10-12 00:31:24 | [openodd-py](https://pypi.org/project/openodd-py/) | 0.2.2 | Masaya Kataoka <ms.kataoka@gm… | 9.1 MB | ASAM OpenODD 1.0 for Python: read, evaluate, version and sample ODDs (Rust core) |
+| 2026-10-12 00:33:24 | [rank-bm25-rs](https://pypi.org/project/rank-bm25-rs/) | 0.1.0 | Alex Kholodniak <alexandrkhol… | 2.6 MB | Fast drop-in replacement for rank_bm25: the same BM25 scores, bit for bit, from… |
+| 2026-10-12 00:37:32 | [nl2data-admin-service](https://pypi.org/project/nl2data-admin-service/) | 0.1.0 | NL2Data Contributors | 79.6 kB | Optional transport-neutral admin control-plane service for the nl2data-core met… |
+| 2026-10-12 00:38:46 | [tenlab](https://pypi.org/project/tenlab/) | 0.0.1 | "Tensora, Inc." <data-pypi@te… | 3.4 kB | Reserved: tenlab, the open platform contract for multi-physics geophysical time… |
+| 2026-10-12 00:39:03 | [classifiedai](https://pypi.org/project/classifiedai/) | 0.1.0 |  | 70.0 kB | Classified trading analysis platform |
+| 2026-10-12 00:39:03 | [tuya-interpreter](https://pypi.org/project/tuya-interpreter/) | 0.1.0a1 |  | 12.0 MB | Portable Tuya device interpreter: device schemas and DPS <-> ildevice descripto… |
+| 2026-10-12 00:40:04 | [spanlight](https://pypi.org/project/spanlight/) | 0.1.0 | Dheeraj | 206.1 kB | Python SDK for Spanlight, open-source observability for LLM applications. |
+| 2026-10-12 00:44:56 | [nl2data-postgres](https://pypi.org/project/nl2data-postgres/) | 0.1.0 | NL2Data Contributors | 35.1 kB | PostgreSQL metadata discovery and governed SQL execution adapter for nl2data-co… |
+| 2026-10-12 00:48:18 | [json-to-strictdoc](https://pypi.org/project/json-to-strictdoc/) | 1.0.1 | Andrea Ciccarello | 71.9 kB | Bidirectional converter and parser between JSON and StrictDoc (.sdoc / .sgra). |
+| 2026-10-12 00:48:38 | [nl2data-mongodb](https://pypi.org/project/nl2data-mongodb/) | 0.1.0 | NL2Data Contributors | 87.8 kB | MongoDB metadata discovery and governed MQL execution adapter for nl2data-core. |
+| 2026-10-12 00:54:57 | [minecraftaccfinder](https://pypi.org/project/minecraftaccfinder/) | 2.0.0 |  | 52.4 kB |  |
+| 2026-10-12 00:58:34 | [mcprusa](https://pypi.org/project/mcprusa/) | 2026.10.11.1 | Ryan Malloy <ryan@supported.s… | 225.9 kB | MCP server for the Prusa Core One, over the on-board PrusaLink API |
+| 2026-10-12 01:02:52 | [common-slope-nmf](https://pypi.org/project/common-slope-nmf/) | 0.1.0 | Jeremy Bai | 53.0 kB | Physically constrained IS-NMF/SAGE for common-slope room-acoustic decay estimat… |

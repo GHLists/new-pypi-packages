@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T00:21:29Z,matchapi,0.1.0,Dmitriy Troyan,MIT,29070,An HTTP service is one function: match replaces the router
+2026-10-12T00:24:47Z,s-bike-training-hub,1.11.0,JHarp199345,MIT,58065217,"A free, local training hub for cycling, running, swimming and lifting, with an MCP server for your AI assistant."
+2026-10-12T00:26:47Z,gate-cache,0.1.0,Nate Landau,"MIT License Copyright (c) 2026 Nate Landau Permission is hereby granted, free of charge, to any per…",30817,Skip lint and test gates that already passed on the exact same git tree.
+2026-10-12T00:27:18Z,industry-slice-core,0.1.2,,,76259,"Shared industry, comps, source and KPI contracts"
+2026-10-12T00:27:53Z,hank-contracts,1.0,,,32138,"Hank wire-contract types: commercial claims, work authorization, usage, capability and subject shapes with JSON schemas and canonical serialization"
+2026-10-12T00:31:24Z,openodd-py,0.2.2,Masaya Kataoka <ms.kataoka@gmail.com>,Apache-2.0,9125127,"ASAM OpenODD 1.0 for Python: read, evaluate, version and sample ODDs (Rust core)"
+2026-10-12T00:33:24Z,rank-bm25-rs,0.1.0,Alex Kholodniak <alexandrkholodniak@gmail.com>,Apache-2.0,2643139,"Fast drop-in replacement for rank_bm25: the same BM25 scores, bit for bit, from a Rust core"
+2026-10-12T00:37:32Z,nl2data-admin-service,0.1.0,NL2Data Contributors,Apache-2.0,79635,Optional transport-neutral admin control-plane service for the nl2data-core metadata-to-Bundle lifecycle.
+2026-10-12T00:38:46Z,tenlab,0.0.1,"""Tensora, Inc."" <data-pypi@tensora.io>",Apache-2.0,3382,"Reserved: tenlab, the open platform contract for multi-physics geophysical time series (TensorDataset, .tnsr I/O, processing plugin API) by Tensora."
+2026-10-12T00:39:03Z,classifiedai,0.1.0,,,69950,Classified trading analysis platform
+2026-10-12T00:39:03Z,tuya-interpreter,0.1.0a1,,MIT,12014263,"Portable Tuya device interpreter: device schemas and DPS <-> ildevice descriptors, values, events and commands"
+2026-10-12T00:40:04Z,spanlight,0.1.0,Dheeraj,MIT,206127,"Python SDK for Spanlight, open-source observability for LLM applications."
+2026-10-12T00:44:56Z,nl2data-postgres,0.1.0,NL2Data Contributors,Apache-2.0,35135,PostgreSQL metadata discovery and governed SQL execution adapter for nl2data-core.
+2026-10-12T00:48:18Z,json-to-strictdoc,1.0.1,Andrea Ciccarello,MIT,71876,Bidirectional converter and parser between JSON and StrictDoc (.sdoc / .sgra).
+2026-10-12T00:48:38Z,nl2data-mongodb,0.1.0,NL2Data Contributors,Apache-2.0,87829,MongoDB metadata discovery and governed MQL execution adapter for nl2data-core.
+2026-10-12T00:54:57Z,minecraftaccfinder,2.0.0,,,52381,
+2026-10-12T00:58:34Z,mcprusa,2026.10.11.1,Ryan Malloy <ryan@supported.systems>,MIT,225880,"MCP server for the Prusa Core One, over the on-board PrusaLink API"
+2026-10-12T01:02:52Z,common-slope-nmf,0.1.0,Jeremy Bai,MIT,53033,Physically constrained IS-NMF/SAGE for common-slope room-acoustic decay estimation.
