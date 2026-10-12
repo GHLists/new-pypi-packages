@@ -1,19 +1,12 @@
 {
   "list": {
-    "count": 18,
-    "from": "2026-10-12T00:18:47.334462Z",
-    "path": "data/new-packages-2026-10-12T01-18-34-767633Z.csv",
-    "to": "2026-10-12T01:18:34.767633Z"
+    "count": 22,
+    "from": "2026-10-12T01:18:34.767633Z",
+    "path": "data/new-packages-2026-10-12T02-19-57-933075Z.csv",
+    "to": "2026-10-12T02:19:57.933075Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-10-11T21:28:12Z",
-      "package": "jaron-native",
-      "since": "2026-10-11T21:18:35.926186Z"
-    }
-  ],
-  "serial": 42110145,
+  "pending": [],
+  "serial": 42112035,
   "source_truncated": false,
-  "window": "2026-10-12T01:18:34.767633Z"
+  "window": "2026-10-12T02:19:57.933075Z"
 }

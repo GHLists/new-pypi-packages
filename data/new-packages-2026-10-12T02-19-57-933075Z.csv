@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T01:21:02Z,nx-ladybug,0.1.0,,BSD-3-Clause OR MIT,20017,LadybugDB storage provider for nx-arrow columnar graphs
+2026-10-12T01:24:02Z,rumo-cli,0.1.0,Pedro Buzzi,MIT,36051,"Your dev work, past, now and later: Markdown files, a terminal Timeline, and AI agents that keep it current"
+2026-10-12T01:27:43Z,subedit,0.1.0,Yun-Tai Yang,MIT,126822,"A linter and formatter for the prose inside code comments, across languages."
+2026-10-12T01:31:35Z,ouroboric,0.0.1,Bruno Guilhermo de Barros Valério,MIT,14541,"Identifies the Ouroboric project: open, self-improving software factories."
+2026-10-12T01:35:19Z,karma-mcp-server,0.1.0,,AGPL-3.0-only,78433,Karma universal Agent MCP server — thin access layer over the Karma backend
+2026-10-12T01:36:06Z,karma-connect,1.0.0,,,40003,One command that wires the Karma MCP server into every agent host on this machine
+2026-10-12T01:37:37Z,karma-openclaw,0.4.0,,Apache-2.0,87183,Karma ↔ OpenClaw — stdio MCP server bridging to Karma public HTTP API
+2026-10-12T01:38:04Z,yosoi-cli,0.2.1,,Apache-2.0,51765860,Prebuilt Yosoi command-line tool
+2026-10-12T01:41:43Z,shrinkfit,0.1.0,,Apache-2.0,1523705,Shrink JSON/YAML payloads to fit a character budget while preserving their schema and structure
+2026-10-12T01:46:19Z,bioseeker,2.0.1,Facundo Martinez <fxmartinez@proton.me>,GPL-3.0-or-later,66710,A tool for analyzing conservation of inhibitory codon pairs.
+2026-10-12T01:46:41Z,standard,0.1.0,Standard contributors,MIT,36027,A predictable Python utility library with an agent-first interface
+2026-10-12T01:49:25Z,rsm-schema,1.0.0,Mariia Steeghs-Turchina,Apache-2.0,52158,"Python access to the RSM JSON Schema, generated Pydantic models, and schema inspection utilities."
+2026-10-12T01:50:46Z,edgespeak,0.6.4,,,62017,Python client for the local EdgeSpeak CLI runtime
+2026-10-12T01:59:34Z,htmlkanaview,0.0.1,du7ec,,4134,read descript thag writed by korean what write in github.
+2026-10-12T02:05:16Z,openavt,0.1.0,,Apache-2.0,242279,"TLS over voice, built for agents: mutual TLS 1.3 over audio with WebRTC and OpenAI demos"
+2026-10-12T02:10:28Z,brepgraph,0.2.0,Muhammad Usman Altaf,MIT,89197,"Turn B-rep CAD files (STEP) into ML-ready face-adjacency graphs. pip-installable, no conda."
+2026-10-12T02:16:31Z,tmol-ops-cu12,0.1.64,,Apache-2.0,332987728,TMol native operators for CUDA 12
+2026-10-12T02:16:52Z,tmol-ops-cu13,0.1.64,,Apache-2.0,432145823,TMol native operators for CUDA 13
+2026-10-12T02:18:26Z,brain-alpha-core,0.1.0,Xtley001,MIT,14535,"Core utilities, configuration, shared data-models, and logging for the Brain Alpha Engine."
+2026-10-12T02:18:36Z,brain-options,0.1.0,Xtley001,MIT,150942,"Options-trading alpha generation engine (implied vol, skew, term structure, breakeven) for WorldQuant BRAIN."
+2026-10-12T02:18:42Z,brain-risk-model,0.1.0,Xtley001,MIT,32174,"Systematic factor premia, Betting-Against-Beta, and risk-model alpha generation engine for WorldQuant BRAIN."
+2026-10-12T02:18:47Z,brain-sentiment,0.1.0,Xtley001,MIT,30723,"Analyst revisions, PEAD, and sentiment alpha generation engine for WorldQuant BRAIN."

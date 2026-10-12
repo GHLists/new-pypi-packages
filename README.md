@@ -8,29 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 01:18 UTC
+## Latest list — 2026-10-12 02:19 UTC
 
-New packages created between 2026-10-12 00:18 UTC and 2026-10-12 01:18 UTC.
+New packages created between 2026-10-12 01:18 UTC and 2026-10-12 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-12T01-18-34-767633Z.csv)
+[Full CSV](data/new-packages-2026-10-12T02-19-57-933075Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-12 00:21:29 | [matchapi](https://pypi.org/project/matchapi/) | 0.1.0 | Dmitriy Troyan | 29.1 kB | An HTTP service is one function: match replaces the router |
-| 2026-10-12 00:24:47 | [s-bike-training-hub](https://pypi.org/project/s-bike-training-hub/) | 1.11.0 | JHarp199345 | 58.1 MB | A free, local training hub for cycling, running, swimming and lifting, with an… |
-| 2026-10-12 00:26:47 | [gate-cache](https://pypi.org/project/gate-cache/) | 0.1.0 | Nate Landau | 30.8 kB | Skip lint and test gates that already passed on the exact same git tree. |
-| 2026-10-12 00:27:18 | [industry-slice-core](https://pypi.org/project/industry-slice-core/) | 0.1.2 |  | 76.3 kB | Shared industry, comps, source and KPI contracts |
-| 2026-10-12 00:27:53 | [hank-contracts](https://pypi.org/project/hank-contracts/) | 1.0 |  | 32.1 kB | Hank wire-contract types: commercial claims, work authorization, usage, capabil… |
-| 2026-10-12 00:31:24 | [openodd-py](https://pypi.org/project/openodd-py/) | 0.2.2 | Masaya Kataoka <ms.kataoka@gm… | 9.1 MB | ASAM OpenODD 1.0 for Python: read, evaluate, version and sample ODDs (Rust core) |
-| 2026-10-12 00:33:24 | [rank-bm25-rs](https://pypi.org/project/rank-bm25-rs/) | 0.1.0 | Alex Kholodniak <alexandrkhol… | 2.6 MB | Fast drop-in replacement for rank_bm25: the same BM25 scores, bit for bit, from… |
-| 2026-10-12 00:37:32 | [nl2data-admin-service](https://pypi.org/project/nl2data-admin-service/) | 0.1.0 | NL2Data Contributors | 79.6 kB | Optional transport-neutral admin control-plane service for the nl2data-core met… |
-| 2026-10-12 00:38:46 | [tenlab](https://pypi.org/project/tenlab/) | 0.0.1 | "Tensora, Inc." <data-pypi@te… | 3.4 kB | Reserved: tenlab, the open platform contract for multi-physics geophysical time… |
-| 2026-10-12 00:39:03 | [classifiedai](https://pypi.org/project/classifiedai/) | 0.1.0 |  | 70.0 kB | Classified trading analysis platform |
-| 2026-10-12 00:39:03 | [tuya-interpreter](https://pypi.org/project/tuya-interpreter/) | 0.1.0a1 |  | 12.0 MB | Portable Tuya device interpreter: device schemas and DPS <-> ildevice descripto… |
-| 2026-10-12 00:40:04 | [spanlight](https://pypi.org/project/spanlight/) | 0.1.0 | Dheeraj | 206.1 kB | Python SDK for Spanlight, open-source observability for LLM applications. |
-| 2026-10-12 00:44:56 | [nl2data-postgres](https://pypi.org/project/nl2data-postgres/) | 0.1.0 | NL2Data Contributors | 35.1 kB | PostgreSQL metadata discovery and governed SQL execution adapter for nl2data-co… |
-| 2026-10-12 00:48:18 | [json-to-strictdoc](https://pypi.org/project/json-to-strictdoc/) | 1.0.1 | Andrea Ciccarello | 71.9 kB | Bidirectional converter and parser between JSON and StrictDoc (.sdoc / .sgra). |
-| 2026-10-12 00:48:38 | [nl2data-mongodb](https://pypi.org/project/nl2data-mongodb/) | 0.1.0 | NL2Data Contributors | 87.8 kB | MongoDB metadata discovery and governed MQL execution adapter for nl2data-core. |
-| 2026-10-12 00:54:57 | [minecraftaccfinder](https://pypi.org/project/minecraftaccfinder/) | 2.0.0 |  | 52.4 kB |  |
-| 2026-10-12 00:58:34 | [mcprusa](https://pypi.org/project/mcprusa/) | 2026.10.11.1 | Ryan Malloy <ryan@supported.s… | 225.9 kB | MCP server for the Prusa Core One, over the on-board PrusaLink API |
-| 2026-10-12 01:02:52 | [common-slope-nmf](https://pypi.org/project/common-slope-nmf/) | 0.1.0 | Jeremy Bai | 53.0 kB | Physically constrained IS-NMF/SAGE for common-slope room-acoustic decay estimat… |
+| 2026-10-12 01:21:02 | [nx-ladybug](https://pypi.org/project/nx-ladybug/) | 0.1.0 |  | 20.0 kB | LadybugDB storage provider for nx-arrow columnar graphs |
+| 2026-10-12 01:24:02 | [rumo-cli](https://pypi.org/project/rumo-cli/) | 0.1.0 | Pedro Buzzi | 36.1 kB | Your dev work, past, now and later: Markdown files, a terminal Timeline, and AI… |
+| 2026-10-12 01:27:43 | [subedit](https://pypi.org/project/subedit/) | 0.1.0 | Yun-Tai Yang | 126.8 kB | A linter and formatter for the prose inside code comments, across languages. |
+| 2026-10-12 01:31:35 | [ouroboric](https://pypi.org/project/ouroboric/) | 0.0.1 | Bruno Guilhermo de Barros Val… | 14.5 kB | Identifies the Ouroboric project: open, self-improving software factories. |
+| 2026-10-12 01:35:19 | [karma-mcp-server](https://pypi.org/project/karma-mcp-server/) | 0.1.0 |  | 78.4 kB | Karma universal Agent MCP server — thin access layer over the Karma backend |
+| 2026-10-12 01:36:06 | [karma-connect](https://pypi.org/project/karma-connect/) | 1.0.0 |  | 40.0 kB | One command that wires the Karma MCP server into every agent host on this machi… |
+| 2026-10-12 01:37:37 | [karma-openclaw](https://pypi.org/project/karma-openclaw/) | 0.4.0 |  | 87.2 kB | Karma ↔ OpenClaw — stdio MCP server bridging to Karma public HTTP API |
+| 2026-10-12 01:38:04 | [yosoi-cli](https://pypi.org/project/yosoi-cli/) | 0.2.1 |  | 51.8 MB | Prebuilt Yosoi command-line tool |
+| 2026-10-12 01:41:43 | [shrinkfit](https://pypi.org/project/shrinkfit/) | 0.1.0 |  | 1.5 MB | Shrink JSON/YAML payloads to fit a character budget while preserving their sche… |
+| 2026-10-12 01:46:19 | [bioseeker](https://pypi.org/project/bioseeker/) | 2.0.1 | Facundo Martinez <fxmartinez@… | 66.7 kB | A tool for analyzing conservation of inhibitory codon pairs. |
+| 2026-10-12 01:46:41 | [standard](https://pypi.org/project/standard/) | 0.1.0 | Standard contributors | 36.0 kB | A predictable Python utility library with an agent-first interface |
+| 2026-10-12 01:49:25 | [rsm-schema](https://pypi.org/project/rsm-schema/) | 1.0.0 | Mariia Steeghs-Turchina | 52.2 kB | Python access to the RSM JSON Schema, generated Pydantic models, and schema ins… |
+| 2026-10-12 01:50:46 | [edgespeak](https://pypi.org/project/edgespeak/) | 0.6.4 |  | 62.0 kB | Python client for the local EdgeSpeak CLI runtime |
+| 2026-10-12 01:59:34 | [htmlkanaview](https://pypi.org/project/htmlkanaview/) | 0.0.1 | du7ec | 4.1 kB | read descript thag writed by korean what write in github. |
+| 2026-10-12 02:05:16 | [openavt](https://pypi.org/project/openavt/) | 0.1.0 |  | 242.3 kB | TLS over voice, built for agents: mutual TLS 1.3 over audio with WebRTC and Ope… |
+| 2026-10-12 02:10:28 | [brepgraph](https://pypi.org/project/brepgraph/) | 0.2.0 | Muhammad Usman Altaf | 89.2 kB | Turn B-rep CAD files (STEP) into ML-ready face-adjacency graphs. pip-installabl… |
+| 2026-10-12 02:16:31 | [tmol-ops-cu12](https://pypi.org/project/tmol-ops-cu12/) | 0.1.64 |  | 333.0 MB | TMol native operators for CUDA 12 |
+| 2026-10-12 02:16:52 | [tmol-ops-cu13](https://pypi.org/project/tmol-ops-cu13/) | 0.1.64 |  | 432.1 MB | TMol native operators for CUDA 13 |
+| 2026-10-12 02:18:26 | [brain-alpha-core](https://pypi.org/project/brain-alpha-core/) | 0.1.0 | Xtley001 | 14.5 kB | Core utilities, configuration, shared data-models, and logging for the Brain Al… |
+| 2026-10-12 02:18:36 | [brain-options](https://pypi.org/project/brain-options/) | 0.1.0 | Xtley001 | 150.9 kB | Options-trading alpha generation engine (implied vol, skew, term structure, bre… |
+| 2026-10-12 02:18:42 | [brain-risk-model](https://pypi.org/project/brain-risk-model/) | 0.1.0 | Xtley001 | 32.2 kB | Systematic factor premia, Betting-Against-Beta, and risk-model alpha generation… |
+| 2026-10-12 02:18:47 | [brain-sentiment](https://pypi.org/project/brain-sentiment/) | 0.1.0 | Xtley001 | 30.7 kB | Analyst revisions, PEAD, and sentiment alpha generation engine for WorldQuant B… |
