@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T03:19:38Z,jumble-cli,0.1.0,John Foland <johnfoland@users.noreply.github.com>,MIT,97990,Random string generator — CLI and Textual TUI
+2026-10-12T03:21:22Z,line-mcp-server,0.0.1,,,1997,"MCP server for a personal LINE account: local archive, search and messaging for coding agents. Placeholder until the first release."
+2026-10-12T03:21:54Z,langchain-turn-window,0.1.0,Bharat Khanna,MIT,11247,"Model-agnostic LangChain middleware that keeps only the last N conversational turns, without splitting tool_call/tool_result pairs."
+2026-10-12T03:22:13Z,calculator-package-wdboone,0.0.2,,,4567,A simple calculator package
+2026-10-12T03:24:01Z,pyyi,2.4.1,pyyi,MIT,9099,small python companion shell
+2026-10-12T03:25:59Z,specstream-client,1.0.0,SpecStream <support@specstream.ai>,MIT,53711,"Python client and command line for SpecStream: ask for any list in plain words and get every match with its source, priced before anything runs."
+2026-10-12T03:26:05Z,specstream-mcp-stdio,1.2.0,SpecStream <support@specstream.ai>,MIT,43288,"Stdio proxy for the SpecStream MCP server, for Zed, Cline, and Continue. Finished lists with sources, priced before they run."
+2026-10-12T03:26:48Z,capturekit,0.1.0,capturekit contributors,MIT,252014,"Python screen, exclusive-window and audio capture/recording for Windows and Linux X11"
+2026-10-12T03:29:25Z,fastesp,0.1.0,Zidong Shu,MIT,80350,"Exact electrostatic potential from a Gaussian-basis wavefunction, evaluated analytically and solved on the GPU"
+2026-10-12T03:30:31Z,centicodehelp,0.2.1,,,75683,Dein Code. Besser. Sauber. Cross-platform static and AI-assisted code & binary analysis and auto-fixing tool
+2026-10-12T03:32:17Z,aa-meta,0.1.0,Maxwell Ludden,,39925,Search and download books from Anna's Archive
+2026-10-12T03:32:54Z,mdrtreadtool,2.0.0,sysucai,LicenseRef-Proprietary,1187948,医疗器械警戒趋势分析工具：把分母表与不良事件表一键生成控制图 / 直方图 / 帕累托图（编译发行版，Windows x64 / Python 3.8+）
+2026-10-12T03:35:36Z,qg-python,1.1.0,"""Elias D. Nino-Ruiz"" <enino@uninorte.edu.co>",MIT,42733,"Reproducible 1.5-layer quasi-geostrophic model (port of QG-C) with a direct sparse Helmholtz solver, RK4 / dp5 / Leapfrog (RA, RAW) integrators, stability diagnostics, and a stationary preset with a…"
+2026-10-12T03:39:03Z,tablelab,0.5.0,Reza Berangi <rberangi@gmail.com>,MIT,194842,"Notebook GUI for table inspection, query pipelines, charts, and Pandas/PySpark/Spark SQL code generation"
+2026-10-12T03:39:51Z,erdilrf-lrf,0.2.0,,MIT,43022,Host-side UART driver for ERDI 905 nm laser rangefinder modules (LR1000E2 protocol family)
+2026-10-12T03:53:41Z,classicchess-sdk,0.1.1,Christian Walls,MIT,62267,Classic Chess archive and MasterDB API client and CLI
+2026-10-12T04:01:22Z,busymeter,0.2.0,The Busy Meter authors,MIT,177027,Client and MCP server for the Busy Meter status light's local plugin API
+2026-10-12T04:01:27Z,stress-test-kit,0.1.0,gg.zhao,MIT,1602705,本地压测工具，基于 Locust 和 FastAPI
+2026-10-12T04:04:25Z,get-nick-done,0.1.0,Nikolaos Vasiloglou,Apache-2.0,3350790,"GND — Get Nick Done: ORM-grounded agentic development runtime (model authoring, population checking)"
+2026-10-12T04:05:06Z,exsdk,1.1.1,,,42260397,Python futures and options market data and direct CTP trading SDK
+2026-10-12T04:11:51Z,xnano-image,0.1.0,Hammad Saeed <hammad@supportvectors.com>,MIT,6876666,"Image & animation loading, processing & display support for the xnano terminal library."
+2026-10-12T04:12:50Z,arisole-eval,0.1.0,Arisole <move@arisole.com>,Apache-2.0,80717,Post-process LeRobot evaluation artifacts into Arisole MotionBench reliability comparisons
+2026-10-12T04:15:37Z,verigate-verify,0.1.0,rudimentall1,MIT,22219,Offline verifier for Verigate authority proofs: check a portable proof with only the issuer's public key.
+2026-10-12T04:18:00Z,ruvic-secret-guard,0.1.1,Ruvic AI,MIT,72672,"Detecta secretos expuestos en strings, archivos y comprimidos (.zip, .tar, ...) antes de publicarlos o construir una imagen."
+2026-10-12T04:18:40Z,vouchwell,0.5.0,IdeaboticsAI,Apache-2.0,78950,"Tamper-evident receipts for AI agent actions. Python SDK, wire-compatible with the vouchwell CLI."
+2026-10-12T04:19:52Z,iantirta-lazy-import,0.1.0,"""Iantirta.com"" <ian@iantirta.com>",Apache-2.0,21859,"A blazing-fast, zero-dependency lazy loading module framework for Python package optimization."
