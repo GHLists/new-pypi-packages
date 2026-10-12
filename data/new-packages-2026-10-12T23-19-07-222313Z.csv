@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T22:20:46Z,comparador-luz-gas,0.1.0,,MIT,49881,Consulta el comparador de ofertas de energía de la CNMC y devuelve JSON listo para un LLM
+2026-10-12T22:21:21Z,strayguard,0.1.0,Eva Hill,MIT,46069,A git pre-commit hook that asks TypeSafe Jev whether each new file belongs in your repo.
+2026-10-12T22:25:31Z,emolysis,0.0.0,,,1262,Reserved for Emolysis. Not released yet.
+2026-10-12T22:28:02Z,emolysis-template-sdk,0.0.0,,,1385,Reserved for Emolysis. Not released yet.
+2026-10-12T22:33:49Z,matrx-api,0.1.1,Matrx <admin@aimatrx.com>,MIT,918526,"Python client for every AI Matrx server, generated from the language-neutral server contract (sister of @ai-matrx/api)"
+2026-10-12T22:37:34Z,catml,0.9.0rc1,Jfenic,Apache-2.0,2367326,The Agent-Native AutoML Engine for Humans and AI Agents
+2026-10-12T22:38:00Z,codebase-brief,0.1.0,Mohamed Maggy,MIT,42080,Local-first CLI that builds task-focused context briefs from code repositories
+2026-10-12T22:39:53Z,hyperlux,0.0.1,Jonas Eschmann <jonas.eschmann@gmail.com>,MIT,2642217,The fastest drone simulator and renderer (raytracer).
+2026-10-12T22:41:13Z,lvjson,0.3.0,Javier Lianes <javier@lianes8studio.com>,MIT,49222,"Read and write LabVIEW Flatten To JSON text: verified NaN/Infinity tokens, exact number formatting, strict portable mode"
+2026-10-12T22:41:39Z,lvfxp,0.3.0,Javier Lianes <javier@lianes8studio.com>,MIT,43847,"Encode and decode LabVIEW fixed-point (FXP) numbers and their flattened bytes, exactly, in pure Python"
+2026-10-12T22:42:03Z,lvtypedesc,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,28892,"Parse LabVIEW type-descriptor byte strings into a readable, typed schema"
+2026-10-12T22:42:32Z,lvext,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,46284,Exact pure-Python codec for x87 80-bit extended-precision floats
+2026-10-12T22:47:34Z,cronwhen-cli,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,9181,explain a 5-field cron expression and list its next run times.
+2026-10-12T22:47:35Z,doc-control,0.0.1,,Apache-2.0,633356,"Deterministic, LLM-first control of Word documents: addresses, anchors, tracked-change batches and a safety layer."
+2026-10-12T22:47:37Z,mdlinks-cli,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,8953,offline Markdown link checker (relative files and #anchors). Stdlib only.
+2026-10-12T22:48:00Z,srtool-cli,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,9516,"shift, rescale, merge, renumber and clean .srt subtitle files. Stdlib only."
+2026-10-12T22:51:18Z,mock-requests-DogAPI,0.0.2,Julia Le,MIT,1377052,mock requests: pre-cached per-URL; missing URLs fetched and cached automatically.
+2026-10-12T22:54:11Z,actionlint-pants-plugin,0.1.0,Zach Gottesman,Apache-2.0,15414,A Pantsbuild plugin for linting GitHub Actions workflow files with actionlint.
+2026-10-12T23:05:24Z,golden-pit,0.1.0,Jia,MIT,231205,"Find quality US stocks that are genuinely in a price pit — with honest data handling, staged entry plans, forward tracking and optional AI research notes."
+2026-10-12T23:06:17Z,creatorloop,0.1.0,pandich,MIT,155510,"Open-source AI content studio for Instagram creators: Claude analyses what works, helps make Reels and carousels, schedules and reviews them via the official Instagram API"
+2026-10-12T23:10:45Z,pawnix,0.1.0,Pawnix contributors,"MIT License Copyright (c) 2026 Amir Shygun Permission is hereby granted, free of charge, to any per…",104687,A minimal curses chess client with Lichess API support
+2026-10-12T23:12:58Z,zelvarys-depaudit,0.1.0,Zelvarys <me.zelvarys@gmail.com>,MIT,27162,Audit project dependencies for common problems
+2026-10-12T23:13:24Z,django-pydantic-ai,6.1.0a1,Christian Hartung <6785871+hartungstenio@users.noreply.github.com>,MIT,27991,Django integrations for Pydantic AI
+2026-10-12T23:15:34Z,ihmt-memory,1.2.0,Gonzalo Román Márquez,MIT,216990,"Long-term memory for AI coding agents as a tree of plain local files, served over MCP."
