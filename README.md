@@ -8,58 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 16:19 UTC
+## Latest list — 2026-10-12 17:20 UTC
 
-New packages created between 2026-10-12 15:19 UTC and 2026-10-12 16:19 UTC.
+New packages created between 2026-10-12 16:19 UTC and 2026-10-12 17:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-12T16-19-05-787313Z.csv)
+[Full CSV](data/new-packages-2026-10-12T17-20-02-67238Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-12 15:18:28 | [fontmerge](https://pypi.org/project/fontmerge/) | 0.2.1 | Simon Cozens <simon@simon-coz… | 141.7 MB | Merge two font source files, copying glyphs and OpenType layout features from o… |
-| 2026-10-12 15:20:28 | [fred-capability-platform-ops](https://pypi.org/project/fred-capability-platform-ops/) | 4.5.0 | Thales <noreply@thalesgroup.c… | 26.0 kB | Fred agent capabilities for platform introspection: read-only SQL over the plat… |
-| 2026-10-12 15:20:31 | [fred-capability-ppt-filler](https://pypi.org/project/fred-capability-ppt-filler/) | 4.5.0 | Thales <noreply@thalesgroup.c… | 117.8 kB | Fred agent capability: fill an uploaded PowerPoint template from chat (ppt_fill… |
-| 2026-10-12 15:20:34 | [fred-capability-team-wiki](https://pypi.org/project/fred-capability-team-wiki/) | 4.5.0 | Thales <noreply@thalesgroup.c… | 49.1 kB | Fred agent capability for the team wiki: read the team's shared knowledge base… |
-| 2026-10-12 15:20:37 | [fred-capability-web-research](https://pypi.org/project/fred-capability-web-research/) | 4.5.0 |  | 12.7 kB | Fred native web search and page reading tools |
-| 2026-10-12 15:21:05 | [workpaper](https://pypi.org/project/workpaper/) | 0.1.0 |  | 14.0 kB | Cloud computers for AI agents: create, run commands, read and write files, stop… |
-| 2026-10-12 15:26:38 | [qcmr.moldenformat](https://pypi.org/project/qcmr.moldenformat/) | 0.1 | Mariusz Radon <mariusz.radon@… | 25.1 kB | Read and write Molden Format |
-| 2026-10-12 15:33:03 | [horizon-pulse](https://pypi.org/project/horizon-pulse/) | 0.0.1 | Horizon Pulse | 2.5 kB | Placeholder for Horizon Pulse (https://horizonpulse.dev). Paid APIs for AI agen… |
-| 2026-10-12 15:34:20 | [jh-vantage-theme](https://pypi.org/project/jh-vantage-theme/) | 1.1.0 | Vantage Compute <info@vantage… | 89.8 kB | Vantage Compute theme for JupyterLab |
-| 2026-10-12 15:34:23 | [tensor0-cuda12](https://pypi.org/project/tensor0-cuda12/) | 0.2.0 |  | 1.6 MB | Experimental optional CUDA 12 C-ABI backend for Tensor0 |
-| 2026-10-12 15:36:01 | [hyperscale-pii-scanner](https://pypi.org/project/hyperscale-pii-scanner/) | 0.1.0 | Andy Caine | 67.4 MB | Deterministic, in-process scan for residual personal identifiers in UK English… |
-| 2026-10-12 15:36:49 | [gydus](https://pypi.org/project/gydus/) | 0.0.1 | Gydus | 4.1 kB | Gydus: run more AI on less GPU. This PyPI entry points to the official Gydus di… |
-| 2026-10-12 15:36:53 | [proteomics-mcp](https://pypi.org/project/proteomics-mcp/) | 0.1.8 | UadKLab | 296.0 kB | Spectrum-level proteomics scoring tools exposed through CLI and MCP |
-| 2026-10-12 15:37:10 | [licensd](https://pypi.org/project/licensd/) | 0.1.0 | Keksi | 109.9 kB | A lightweight license generator CLI. |
-| 2026-10-12 15:38:12 | [odoo-addon-sale-order-add-byproduct](https://pypi.org/project/odoo-addon-sale-order-add-byproduct/) | 18.0.2.0.0.2 | Odoo Community Association (O… | 48.4 kB | Add produced by-products from Manufacturing Order to the originating Sales Orde… |
-| 2026-10-12 15:38:16 | [graphydra](https://pypi.org/project/graphydra/) | 0.1.0 | Bishwajit Prasad Gond <bishwa… | 1.2 MB | Embedded, local-first graph database with a declarative query language and cras… |
-| 2026-10-12 15:40:42 | [thinctx](https://pypi.org/project/thinctx/) | 0.1.0 | Jan Rosecký (thinletter) | 3.3 MB | ThinCtx: inference runtime and OpenAI-compatible server for the ThinCtx models… |
-| 2026-10-12 15:41:19 | [orfdata](https://pypi.org/project/orfdata/) | 0.1.0 | OpenVax | 3.8 MB | Reference open reading frames and experimental translation evidence on annotate… |
-| 2026-10-12 15:43:51 | [rayon-sdk-py](https://pypi.org/project/rayon-sdk-py/) | 0.1.0 | Rayon API | 22.0 kB | Synchronous Python client for the Rayon API |
-| 2026-10-12 15:45:02 | [fern-beta-uat-pets-2c8d06-sc](https://pypi.org/project/fern-beta-uat-pets-2c8d06-sc/) | 0.0.1.dev2026101215… |  | 119.8 kB |  |
-| 2026-10-12 15:45:10 | [fern-beta-uat-pets-2c8d06-gy](https://pypi.org/project/fern-beta-uat-pets-2c8d06-gy/) | 0.0.1.dev2026101215… |  | 80.2 kB |  |
-| 2026-10-12 15:45:28 | [career-emulator-engine](https://pypi.org/project/career-emulator-engine/) | 1.0.1 | Yuwei <yuwei.willow.z@gmail.c… | 13.0 kB | TechArena English track: career simulation engine (CLI + MCP). PyPI: career-emu… |
-| 2026-10-12 15:45:36 | [beta-uat-agentc-r09-20261012](https://pypi.org/project/beta-uat-agentc-r09-20261012/) | 0.1.0 |  | 118.0 kB |  |
-| 2026-10-12 15:52:19 | [PyTaskWireCheck](https://pypi.org/project/PyTaskWireCheck/) | 0.1.0 | Georgi Mullassery | 122.7 kB | Local-first, dependency-aware task orchestration engine (DAG scheduler + conten… |
-| 2026-10-12 15:52:43 | [archvow](https://pypi.org/project/archvow/) | 0.0.1 | Marc Kanani | 2.3 kB | Arch vow. |
-| 2026-10-12 15:52:57 | [geomag-aurora](https://pypi.org/project/geomag-aurora/) | 0.1.0 | trice | 92.1 kB | Aurora visibility thresholds and geomagnetic outlooks for any location, from NO… |
-| 2026-10-12 15:55:25 | [web-edit](https://pypi.org/project/web-edit/) | 0.1a0 | Simon Willison | 527.0 kB | Web app for editing files in a folder |
-| 2026-10-12 15:56:04 | [audiolabtools](https://pypi.org/project/audiolabtools/) | 0.1.0 | Nathan Renting | 46.8 kB | Measure audio from Python: loudness, true peak, voice quality and signal checks… |
-| 2026-10-12 15:57:46 | [pysaes-neg-power-tspspi](https://pypi.org/project/pysaes-neg-power-tspspi/) | 0.0.1 | Thomas Spielauer <pypipackage… | 41.5 kB | Standalone MQTT monitoring and explicit activation control for SAES NEG POWER M… |
-| 2026-10-12 15:59:19 | [spliv](https://pypi.org/project/spliv/) | 0.1.0 | Akshay Sekhar | 42.0 kB | Evidence-first CSV train/test split checks with offline HTML reports. |
-| 2026-10-12 16:00:58 | [dicomstack](https://pypi.org/project/dicomstack/) | 2.0.0 | Pierre-Yves Baudin | 119.7 kB | A pydicom wrapper for simple loading and handling of DICOM stacks |
-| 2026-10-12 16:02:01 | [nuclogic-core](https://pypi.org/project/nuclogic-core/) | 1.0.3 | Sebastian G. van Dijk, Saskia… | 102.5 kB | NucLogic 3D nuclear stitching (stitch_3d) and image I/O, minimal install |
-| 2026-10-12 16:02:32 | [dulle](https://pypi.org/project/dulle/) | 0.1.0 | 16bitoni | 168.6 kB | Hybrid CLI + Vision Windows desktop automation agent |
-| 2026-10-12 16:02:33 | [nuclogic](https://pypi.org/project/nuclogic/) | 1.0.3 | Sebastian G. van Dijk, Saskia… | 2.2 kB | NucLogic 3D nuclear stitching and image I/O, full install (all file formats and… |
-| 2026-10-12 16:02:37 | [reubeninstitute-css](https://pypi.org/project/reubeninstitute-css/) | 0.2 |  | 4.1 kB | Common CSS and design system for Reuben Institute projects |
-| 2026-10-12 16:03:52 | [driftwatch-llm](https://pypi.org/project/driftwatch-llm/) | 0.1.0 |  | 33.6 kB | Command-line tool for DriftWatch, a drift monitor for LLM apps. |
-| 2026-10-12 16:05:21 | [modelexpress-rl](https://pypi.org/project/modelexpress-rl/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for modelexpress_rl |
-| 2026-10-12 16:06:12 | [chainwatch-payments](https://pypi.org/project/chainwatch-payments/) | 0.0.1 | Adeniyi Oluwadamilare | 76.8 kB | Watch-only, multi-chain crypto payment detection: derive receive addresses from… |
-| 2026-10-12 16:10:57 | [gunsnprices](https://pypi.org/project/gunsnprices/) | 0.1.1 | GunsNPrices <app@gunsnprices.… | 210.8 kB | Parse firearm and ammunition product titles: brand, model, caliber, magazine ca… |
-| 2026-10-12 16:11:01 | [memgraph-context-graph](https://pypi.org/project/memgraph-context-graph/) | 0.5.0 |  | 183.7 kB | Connect agent SDKs to context-graph components (actions-graph, skills-graph, et… |
-| 2026-10-12 16:13:12 | [context-graph-spaces](https://pypi.org/project/context-graph-spaces/) | 0.1.0 |  | 45.4 kB | The Enterprise edition of Context Graph: personal and shared memory spaces for… |
-| 2026-10-12 16:15:30 | [brickproof-fw](https://pypi.org/project/brickproof-fw/) | 0.1.0 | Adham Ehab | 449.5 kB | Power-fail testing for firmware updates: cut power at every flash operation in… |
-| 2026-10-12 16:15:51 | [jmfts-web](https://pypi.org/project/jmfts-web/) | 0.6.0 | Fight Fire with Fire Robotics… | 419.2 kB | Browser front end for a JMFTS retrieval appliance |
-| 2026-10-12 16:16:19 | [sg-python-api](https://pypi.org/project/sg-python-api/) | 0.1.0 |  | 634.6 kB | Python client for Autodesk Flow Production Tracking |
-| 2026-10-12 16:16:59 | [review-sensei-github](https://pypi.org/project/review-sensei-github/) | 0.1.1 | Mohamad Alsabbagh | 491.5 kB | GitHub Actions runtime for ReviewSensei: broker, session ledger, and publicatio… |
-| 2026-10-12 16:17:20 | [sg-query-cache](https://pypi.org/project/sg-query-cache/) | 0.1.0 |  | 333.7 kB | Query caching for Autodesk Flow Production Tracking |
-| 2026-10-12 16:18:05 | [sg-event-daemon](https://pypi.org/project/sg-event-daemon/) | 0.1.0 |  | 698.1 kB | Event daemon for Autodesk Flow Production Tracking |
+| 2026-10-12 16:19:36 | [sg-token-broker](https://pypi.org/project/sg-token-broker/) | 0.1.0 |  | 135.6 kB | Authentication broker for Autodesk Flow Production Tracking |
+| 2026-10-12 16:20:30 | [sg-mcp-server](https://pypi.org/project/sg-mcp-server/) | 0.1.0 |  | 112.0 kB | Read-only MCP server for Autodesk Flow Production Tracking |
+| 2026-10-12 16:21:18 | [lazuli-exo](https://pypi.org/project/lazuli-exo/) | 0.1.2 | Gudmundur Stefansson <gstefan… | 62.2 MB | Lazuli IFS exoplanet transmission spectroscopy simulator (lookup-table runtime) |
+| 2026-10-12 16:21:22 | [sgalchemy](https://pypi.org/project/sgalchemy/) | 0.1.0 |  | 270.5 kB | SQLAlchemy-style ORM for Autodesk Flow Production Tracking |
+| 2026-10-12 16:22:24 | [unprofane](https://pypi.org/project/unprofane/) | 0.1.0 | Unprofane <hello@unprofane.co… | 11.3 kB | Unprofane: a profanity and toxicity API that is hard to fool. Sync and async cl… |
+| 2026-10-12 16:22:53 | [cfdrs-python](https://pypi.org/project/cfdrs-python/) | 0.3.0 | Ryan Clanton <ryan@clanton.de… | 81.6 MB | Python bindings for CFD-rs CFD solvers |
+| 2026-10-12 16:27:02 | [swarmly](https://pypi.org/project/swarmly/) | 0.9.0 | swarmly contributors | 727.2 kB | Coordinate coding-agent CLIs (Claude Code, Codex, Antigravity, Hermes) across m… |
+| 2026-10-12 16:32:01 | [streamo](https://pypi.org/project/streamo/) | 0.2.0 |  | 236.4 kB | 🚰 Stream audio to all services 🚰 |
+| 2026-10-12 16:32:15 | [motion-reference-prep](https://pypi.org/project/motion-reference-prep/) | 0.1.0 |  | 14.9 kB | Prepare local dance and motion-reference clips with FFmpeg: trim, resize, inspe… |
+| 2026-10-12 16:33:21 | [pybatis-plus](https://pypi.org/project/pybatis-plus/) | 1.0.1 | pengdeyou <82176754@qq.com> | 7.6 MB | Python 数据库工具与对象关系映射（ORM）框架 |
+| 2026-10-12 16:34:07 | [pyengines](https://pypi.org/project/pyengines/) | 1.0.0b1 |  | 6.0 kB | A Python library for engines. |
+| 2026-10-12 16:34:37 | [ascii-figures](https://pypi.org/project/ascii-figures/) | 1.0.6 | Muhəmməd Zeynallı | 5.3 kB | Generate ASCII figures and mathematical fractals |
+| 2026-10-12 16:35:38 | [fluid-decisions](https://pypi.org/project/fluid-decisions/) | 0.1.0 |  | 118.0 kB | Typed d1 decisions with policy, runtime hooks, CLI and MCP |
+| 2026-10-12 16:38:48 | [transfermarkt-api](https://pypi.org/project/transfermarkt-api/) | 5.0.0 | Felipe Allegretti <felipe@all… | 95.8 kB | Async Python SDK and HTTP service for Transfermarkt data |
+| 2026-10-12 16:40:54 | [xenium-splitter](https://pypi.org/project/xenium-splitter/) | 0.2.1 | xenium-splitter contributors | 245.5 kB | Split Xenium outputs by LASSO regions and optionally process matching H&E image… |
+| 2026-10-12 16:41:05 | [cybora](https://pypi.org/project/cybora/) | 0.1.0 | Cybora Contributors | 43.5 kB | Free modular defensive cybersecurity assessment platform. |
+| 2026-10-12 16:43:15 | [skillprint](https://pypi.org/project/skillprint/) | 0.1.0 | mekala | 25.1 kB | See what an agent skill pack loads and runs before you install it. |
+| 2026-10-12 16:43:44 | [vmware-neutron-driver](https://pypi.org/project/vmware-neutron-driver/) | 1.0.0 |  | 4.1 kB | VMware Workstation ML2 mechanism driver |
+| 2026-10-12 16:48:17 | [janissary](https://pypi.org/project/janissary/) | 7.3.0 | Hetaireia <hetaireia.it@gmail… | 205.4 kB | Differential DAST for teams who need results they can trust. |
+| 2026-10-12 16:48:53 | [varinder-student-tools](https://pypi.org/project/varinder-student-tools/) | 1.0.0 | Varinder Yadav | 10.4 kB | Useful CGPA, marks, percentage, Python utility and study planner tools |
+| 2026-10-12 16:49:00 | [mysa-client](https://pypi.org/project/mysa-client/) | 0.1.0 | Nikita Sokolsky | 193.6 kB | Standalone async cloud and HomeKit clients for Mysa thermostats |
+| 2026-10-12 16:49:06 | [furnace-api](https://pypi.org/project/furnace-api/) | 0.0.0 | Furnace | 2.9 kB | Name reservation. The Furnace Python client is distributed through Furnace's ow… |
+| 2026-10-12 16:51:05 | [arc56-generated-filip-2b38c81d](https://pypi.org/project/arc56-generated-filip-2b38c81d/) | 1.2.2026072010 | filippofalleroni | 20.9 kB | Generated ARC-56 Algorand smart-contract clients for filippofalleroni/Trait-swa… |
+| 2026-10-12 16:51:41 | [anrixa-audit](https://pypi.org/project/anrixa-audit/) | 0.1.0 | Anrixa | 41.8 kB | Deterministic audit gates, SHA-256 evidence, and file manifests for controlled… |
+| 2026-10-12 16:52:09 | [arc56-generated-folks-a9b8effc](https://pypi.org/project/arc56-generated-folks-a9b8effc/) | 1.2.2026072010 | Folks-Finance | 13.9 kB | Generated ARC-56 Algorand smart-contract clients for Folks-Finance/algorand-wor… |
+| 2026-10-12 16:52:33 | [controlvar](https://pypi.org/project/controlvar/) | 0.0.0 |  | 2.7 kB | Name reserved for the Controlvar SDK. Not yet released. |
+| 2026-10-12 16:52:34 | [controlvar-openfeature](https://pypi.org/project/controlvar-openfeature/) | 0.0.0 |  | 2.9 kB | Name reserved for the Controlvar SDK. Not yet released. |
+| 2026-10-12 16:53:14 | [arc56-generated-fulls-40d31135](https://pypi.org/project/arc56-generated-fulls-40d31135/) | 1.2.2026072010 | fullstackferris | 14.7 kB | Generated ARC-56 Algorand smart-contract clients for fullstackferris/algorand-p… |
+| 2026-10-12 16:54:19 | [arc56-generated-funk-cdc4eedf](https://pypi.org/project/arc56-generated-funk-cdc4eedf/) | 1.2.2026072010 | funk-af | 20.3 kB | Generated ARC-56 Algorand smart-contract clients for funk-af/zk-colorsort. |
+| 2026-10-12 16:55:08 | [agentcore-cli](https://pypi.org/project/agentcore-cli/) | 0.31.2 |  | 2.6 MB | Unofficial Python port of the AgentCore CLI (@aws/agentcore) for Amazon Bedrock… |
+| 2026-10-12 16:55:17 | [proveit-mcp](https://pypi.org/project/proveit-mcp/) | 0.1.0 | ArkForge | 44.9 kB | MCP server (stdio) to take part in PROVE IT, a public challenge for agents. It… |
+| 2026-10-12 16:56:07 | [shotfable](https://pypi.org/project/shotfable/) | 0.1.0a1 | ShotFable | 55.7 kB | Official command-line client for the ShotFable API (preview): one sentence in,… |
+| 2026-10-12 16:56:31 | [noren](https://pypi.org/project/noren/) | 0.1.0 | minamik <10973755+minamikik@u… | 47.1 kB | Send selected files from one git repository to another as a single commit |
+| 2026-10-12 16:58:49 | [livekit-plugins-tts-cache-router](https://pypi.org/project/livekit-plugins-tts-cache-router/) | 0.1.0 | Oggnai Technologies Private L… | 34.5 kB | LiveKit Agents plugin for tts-cache-router, a caching TTS router for Sarvam, Ra… |
+| 2026-10-12 17:00:53 | [sopel-doujinshi](https://pypi.org/project/sopel-doujinshi/) | 1.0.0 | dgw <dgw@technobabbl.es> | 9.5 kB | Sopel plugin to fetch info about doujins linked on IRC |
+| 2026-10-12 17:01:55 | [agentapprovalprotocol](https://pypi.org/project/agentapprovalprotocol/) | 0.2.0 |  | 541.8 kB | Put an AI agent's tool calls behind an Agent Approval Protocol (AAP) approval p… |
+| 2026-10-12 17:04:25 | [inerthtml](https://pypi.org/project/inerthtml/) | 0.1.0 | Hobglobin | 1.3 MB | Turn AI-generated HTML into a static, script-free file that is safe to share. S… |
+| 2026-10-12 17:04:48 | [timr-api](https://pypi.org/project/timr-api/) | 1.0.0 | troii Software GmbH | 397.4 kB | timr API |
+| 2026-10-12 17:05:15 | [paperseek-mcp](https://pypi.org/project/paperseek-mcp/) | 1.0.0b1 | PaperSeek Development Team <s… | 18.9 kB | Model Context Protocol integration for PaperSeek |
+| 2026-10-12 17:09:15 | [juglow-saying](https://pypi.org/project/juglow-saying/) | 20250625 | Juglow, Haijun | 1.6 MB | Robust Speech Recognition via Large-Scale Weak Supervision |
+| 2026-10-12 17:10:16 | [dcc-mcp-rizomuv](https://pypi.org/project/dcc-mcp-rizomuv/) | 0.1.1 | loonghao <hal.long@outlook.co… | 46.0 kB | Headless RizomUV adapter for batch UV unwrapping and packing through RizomUVLink |
+| 2026-10-12 17:11:44 | [bossac-wrapper](https://pypi.org/project/bossac-wrapper/) | 0.1.0 | Florian Rau <bimac@users.nore… | 1.1 MB | A Python wrapper for bossac |
+| 2026-10-12 17:11:46 | [scrapely-python](https://pypi.org/project/scrapely-python/) | 0.1.0 | Scrapely <support@scrape.ly> | 331.0 kB | Scrapely Python SDK - A toolkit for building Actors on the Scrapely platform |
+| 2026-10-12 17:12:01 | [wadaya-moving-kit](https://pypi.org/project/wadaya-moving-kit/) | 0.1.0 | Wadaya Self Storage <hello@wa… | 48.2 kB | Volumes and CSV inventories for the contents of a storage unit, by Wadaya Self… |
+| 2026-10-12 17:12:08 | [xpushstream](https://pypi.org/project/xpushstream/) | 0.1.0 |  | 118.0 kB | Python SDK for real-time X (formerly Twitter) notifications: new posts from acc… |
+| 2026-10-12 17:12:12 | [keycloak-sso-gateway](https://pypi.org/project/keycloak-sso-gateway/) | 0.1.0 | Mikhail Logunov <milog7890@gm… | 85.8 kB | Ready-to-run OIDC / Keycloak SSO callback server for Telegram bots and web apps |
+| 2026-10-12 17:13:23 | [smlibpy](https://pypi.org/project/smlibpy/) | 0.0.0 | AWV Informatik AG | 3.6 kB | Python CAD modelling on the SMLib B-rep kernel (name reserved, not yet released) |
+| 2026-10-12 17:16:32 | [amazon-lunchmoney](https://pypi.org/project/amazon-lunchmoney/) | 0.1.0 | Michael Bianco | 35.0 kB | Enhance and categorize Amazon transactions in Lunch Money using your order hist… |
+| 2026-10-12 17:18:20 | [PyCDFt](https://pypi.org/project/PyCDFt/) | 0.1.0 | PyCDFt contributors | 391.0 kB | CDF-t statistical downscaling / bias correction, vectorized over grid cells (pu… |
+| 2026-10-12 17:18:25 | [kinship](https://pypi.org/project/kinship/) | 0.1.0 | Nikola Stankovic | 9.7 MB | SWIM membership and failure detection with Lifeguard, for Python |

@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T16:19:36Z,sg-token-broker,0.1.0,,MIT,135552,Authentication broker for Autodesk Flow Production Tracking
+2026-10-12T16:20:30Z,sg-mcp-server,0.1.0,,MIT,112036,Read-only MCP server for Autodesk Flow Production Tracking
+2026-10-12T16:21:18Z,lazuli-exo,0.1.2,Gudmundur Stefansson <gstefansson@schmidtsciences.org>,BSD-3-Clause,62199611,Lazuli IFS exoplanet transmission spectroscopy simulator (lookup-table runtime)
+2026-10-12T16:21:22Z,sgalchemy,0.1.0,,MIT,270475,SQLAlchemy-style ORM for Autodesk Flow Production Tracking
+2026-10-12T16:22:24Z,unprofane,0.1.0,Unprofane <hello@unprofane.com>,MIT,11347,Unprofane: a profanity and toxicity API that is hard to fool. Sync and async client with retries and a batch helper.
+2026-10-12T16:22:53Z,cfdrs-python,0.3.0,Ryan Clanton <ryan@clanton.dev>,MIT OR Apache-2.0,81576256,Python bindings for CFD-rs CFD solvers
+2026-10-12T16:27:02Z,swarmly,0.9.0,swarmly contributors,MIT,727244,"Coordinate coding-agent CLIs (Claude Code, Codex, Antigravity, Hermes) across machines over Telegram and a git-backed message bus"
+2026-10-12T16:32:01Z,streamo,0.2.0,,,236381,🚰 Stream audio to all services 🚰
+2026-10-12T16:32:15Z,motion-reference-prep,0.1.0,,MIT,14948,"Prepare local dance and motion-reference clips with FFmpeg: trim, resize, inspect, and preview."
+2026-10-12T16:33:21Z,pybatis-plus,1.0.1,pengdeyou <82176754@qq.com>,MIT,7638344,Python 数据库工具与对象关系映射（ORM）框架
+2026-10-12T16:34:07Z,pyengines,1.0.0b1,,,6012,A Python library for engines.
+2026-10-12T16:34:37Z,ascii-figures,1.0.6,Muhəmməd Zeynallı,MIT,5338,Generate ASCII figures and mathematical fractals
+2026-10-12T16:35:38Z,fluid-decisions,0.1.0,,,118015,"Typed d1 decisions with policy, runtime hooks, CLI and MCP"
+2026-10-12T16:38:48Z,transfermarkt-api,5.0.0,Felipe Allegretti <felipe@allegretti.me>,MIT,95835,Async Python SDK and HTTP service for Transfermarkt data
+2026-10-12T16:40:54Z,xenium-splitter,0.2.1,xenium-splitter contributors,MIT,245502,Split Xenium outputs by LASSO regions and optionally process matching H&E images.
+2026-10-12T16:41:05Z,cybora,0.1.0,Cybora Contributors,"MIT License Copyright (c) 2026 Cybora Contributors Permission is hereby granted, free of charge, to…",43451,Free modular defensive cybersecurity assessment platform.
+2026-10-12T16:43:15Z,skillprint,0.1.0,mekala,MIT,25121,See what an agent skill pack loads and runs before you install it.
+2026-10-12T16:43:44Z,vmware-neutron-driver,1.0.0,,Apache-2.0,4142,VMware Workstation ML2 mechanism driver
+2026-10-12T16:48:17Z,janissary,7.3.0,Hetaireia <hetaireia.it@gmail.com>,Apache-2.0,205428,Differential DAST for teams who need results they can trust.
+2026-10-12T16:48:53Z,varinder-student-tools,1.0.0,Varinder Yadav,MIT,10439,"Useful CGPA, marks, percentage, Python utility and study planner tools"
+2026-10-12T16:49:00Z,mysa-client,0.1.0,Nikita Sokolsky,MIT,193552,Standalone async cloud and HomeKit clients for Mysa thermostats
+2026-10-12T16:49:06Z,furnace-api,0.0.0,Furnace,LicenseRef-Proprietary,2915,Name reservation. The Furnace Python client is distributed through Furnace's own package index to API-key holders; see https://furnaceinfra.com/api-docs.
+2026-10-12T16:51:05Z,arc56-generated-filip-2b38c81d,1.2.2026072010,filippofalleroni,,20908,Generated ARC-56 Algorand smart-contract clients for filippofalleroni/Trait-swap-and-Loot-Box.
+2026-10-12T16:51:41Z,anrixa-audit,0.1.0,Anrixa,Apache-2.0,41806,"Deterministic audit gates, SHA-256 evidence, and file manifests for controlled Python workflows."
+2026-10-12T16:52:09Z,arc56-generated-folks-a9b8effc,1.2.2026072010,Folks-Finance,,13908,Generated ARC-56 Algorand smart-contract clients for Folks-Finance/algorand-wormhole-example.
+2026-10-12T16:52:33Z,controlvar,0.0.0,,MIT,2729,Name reserved for the Controlvar SDK. Not yet released.
+2026-10-12T16:52:34Z,controlvar-openfeature,0.0.0,,MIT,2933,Name reserved for the Controlvar SDK. Not yet released.
+2026-10-12T16:53:14Z,arc56-generated-fulls-40d31135,1.2.2026072010,fullstackferris,,14701,Generated ARC-56 Algorand smart-contract clients for fullstackferris/algorand-python-workshop.
+2026-10-12T16:54:19Z,arc56-generated-funk-cdc4eedf,1.2.2026072010,funk-af,,20266,Generated ARC-56 Algorand smart-contract clients for funk-af/zk-colorsort.
+2026-10-12T16:55:08Z,agentcore-cli,0.31.2,,Apache-2.0,2602620,Unofficial Python port of the AgentCore CLI (@aws/agentcore) for Amazon Bedrock AgentCore
+2026-10-12T16:55:17Z,proveit-mcp,0.1.0,ArkForge,MIT,44927,"MCP server (stdio) to take part in PROVE IT, a public challenge for agents. It runs on your machine and keeps your keys there."
+2026-10-12T16:56:07Z,shotfable,0.1.0a1,ShotFable,Proprietary (preview),55693,"Official command-line client for the ShotFable API (preview): one sentence in, a finished short film out."
+2026-10-12T16:56:31Z,noren,0.1.0,minamik <10973755+minamikik@users.noreply.github.com>,MIT,47088,Send selected files from one git repository to another as a single commit
+2026-10-12T16:58:49Z,livekit-plugins-tts-cache-router,0.1.0,Oggnai Technologies Private Limited,Apache-2.0,34468,"LiveKit Agents plugin for tts-cache-router, a caching TTS router for Sarvam, Raya and ElevenLabs"
+2026-10-12T17:00:53Z,sopel-doujinshi,1.0.0,dgw <dgw@technobabbl.es>,EFL-2.0,9525,Sopel plugin to fetch info about doujins linked on IRC
+2026-10-12T17:01:55Z,agentapprovalprotocol,0.2.0,,Apache-2.0,541815,Put an AI agent's tool calls behind an Agent Approval Protocol (AAP) approval provider.
+2026-10-12T17:04:25Z,inerthtml,0.1.0,Hobglobin,MIT,1264117,"Turn AI-generated HTML into a static, script-free file that is safe to share. Same look, no scripts, verifiable."
+2026-10-12T17:04:48Z,timr-api,1.0.0,troii Software GmbH,Apache 2.0,397367,timr API
+2026-10-12T17:05:15Z,paperseek-mcp,1.0.0b1,PaperSeek Development Team <support@paperseek.app>,Apache-2.0,18871,Model Context Protocol integration for PaperSeek
+2026-10-12T17:09:15Z,juglow-saying,20250625,"Juglow, Haijun",MIT,1623060,Robust Speech Recognition via Large-Scale Weak Supervision
+2026-10-12T17:10:16Z,dcc-mcp-rizomuv,0.1.1,loonghao <hal.long@outlook.com>,MIT,45982,Headless RizomUV adapter for batch UV unwrapping and packing through RizomUVLink
+2026-10-12T17:11:44Z,bossac-wrapper,0.1.0,Florian Rau <bimac@users.noreply.github.com>,MIT,1148939,A Python wrapper for bossac
+2026-10-12T17:11:46Z,scrapely-python,0.1.0,Scrapely <support@scrape.ly>,MIT,331022,Scrapely Python SDK - A toolkit for building Actors on the Scrapely platform
+2026-10-12T17:12:01Z,wadaya-moving-kit,0.1.0,Wadaya Self Storage <hello@wadayaselfstorage.com>,MIT,48217,"Volumes and CSV inventories for the contents of a storage unit, by Wadaya Self Storage in Bahrain"
+2026-10-12T17:12:08Z,xpushstream,0.1.0,,MIT,117968,"Python SDK for real-time X (formerly Twitter) notifications: new posts from accounts with notifications enabled, likes on your posts, and new followers."
+2026-10-12T17:12:12Z,keycloak-sso-gateway,0.1.0,Mikhail Logunov <milog7890@gmail.com>,MIT,85756,Ready-to-run OIDC / Keycloak SSO callback server for Telegram bots and web apps
+2026-10-12T17:13:23Z,smlibpy,0.0.0,AWV Informatik AG,MIT,3628,"Python CAD modelling on the SMLib B-rep kernel (name reserved, not yet released)"
+2026-10-12T17:16:32Z,amazon-lunchmoney,0.1.0,Michael Bianco,,34951,Enhance and categorize Amazon transactions in Lunch Money using your order history and AI
+2026-10-12T17:18:20Z,PyCDFt,0.1.0,PyCDFt contributors,Apache-2.0,391034,"CDF-t statistical downscaling / bias correction, vectorized over grid cells (pure numpy)"
+2026-10-12T17:18:25Z,kinship,0.1.0,Nikola Stankovic,Apache-2.0 OR MIT,9653221,"SWIM membership and failure detection with Lifeguard, for Python"
