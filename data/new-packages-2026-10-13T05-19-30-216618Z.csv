@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T04:18:36Z,fwsbom,0.3.0,Chen Embedded Software LLC,Apache-2.0,33243,"CycloneDX SBOMs for bare-metal and RTOS C firmware, verified against the linker map"
+2026-10-13T04:19:24Z,proof9,0.0.1,Frank Bria <hello@codeframe.sh>,,3195,"PROOF9: the 9-gate, evidence-based quality system from CodeFRAME. Placeholder release; use codeframe-ai today."
+2026-10-13T04:21:08Z,SohanCore,0.0.0,,,2549,
+2026-10-13T04:21:12Z,waqt-core,0.7.0,Waqt project,MIT,218667,"Independently distributable computation layer for Waqt (Maghrib-to-Maghrib civil time and Hijri calendar): astronomy, Hijri calendars, scheduling, institutional calendars."
+2026-10-13T04:22:24Z,waqt-local,0.7.0,Waqt project,MIT,43795,"Embeddable, no-server local computation library for Waqt (Maghrib-to-Maghrib civil time and Hijri calendar)."
+2026-10-13T04:22:52Z,waqt-api,0.6.0,Waqt project,MIT,147389,"Waqt HTTP API v1 — a Makkah-anchored, Maghrib-to-Maghrib civil time and Hijri calendar API, built on the waqt-core computation package."
+2026-10-13T04:23:30Z,waqt-client,0.3.1,Waqt project,MIT,58195,Official thin Python SDK for the Waqt API (Maghrib-to-Maghrib civil time and Hijri calendar).
+2026-10-13T04:26:57Z,esc-etc,0.1.0,"Aaron Goldtooth <gold1992@arizona.edu>, Justin Hom <jrhom@arizona.edu>, Jess Johnson <jajohnson@ari…",BSD-3-Clause,1819546,Exposure time calculator for the ExtraSolar Camera (ESC) on Lazuli
+2026-10-13T04:33:16Z,ios-app-container,0.2.0,Tu Do,GPL-3.0-or-later,73820,"Extract one iPhone app's data container (Documents, Library, App Groups) over USB or Wi-Fi, via direct copy or a Finder-style backup. macOS only."
+2026-10-13T04:36:44Z,rooms-a2a,0.1.0,Rooms by Aurmada <team@aurmada.com>,MIT,29924,"One endpoint to reach, pay and trust any AI agent. A2A switchboard, agent directory, specialist agents and x402 payments via Rooms by Aurmada. No dependencies."
+2026-10-13T04:43:59Z,question-kit,0.1.0,Nick Gideo,MIT,65214,"The standard library for System One models, starting with Jev: ready-made, measured methods that write the questions and read the answers."
+2026-10-13T04:46:15Z,managed-spark-cell-monitoring,1.0.0,Google LLC,Apache-2.0,13140782,Real-time cell monitoring and event visualization for Apache Spark in Jupyter notebooks.
+2026-10-13T04:47:13Z,long-toolkit,0.0.5,"Simon Provost <simon.g.provost@mcgill.ca>, Bianca Branco <s2714881@sms.ed.ac.uk>, Alex Kwong <akwon…","MIT License Copyright (c) 2026 Simon Gilbert Provost Permission is hereby granted, free of charge,…",403225,"A hub of Python toolkits for longitudinal data, from preparation and preprocessing to benchmarking and modelling."
+2026-10-13T04:51:52Z,biosim-toolkit,0.1.0,,MIT,189786,"Trusted utilities for process-bigraph simulations: SED-ML adapters, reports, data manipulation, visualization"
+2026-10-13T04:54:46Z,WaseemDev,0.1.0,,,3145,A reusable Python library with helpful logic and utility functions
+2026-10-13T04:56:15Z,aucove,0.1.0rc1,The aucove Authors,Apache-2.0 AND MIT-0 AND CC0-1.0,2974508,"Núcleo de un framework para equipos de investigación que trabajan con IA en git, con evidencia verificable de autoría y LaTeX opcional."
+2026-10-13T04:56:24Z,anyo,0.1.0a3,,MIT,964538,A Python framework for event-driven AI pipelines
+2026-10-13T04:57:51Z,token-tv,0.2.0,,MIT,561921,"Your AI usage limits on a $5 desk clock: Claude, Codex and Grok on a 240x240 Wi-Fi clock"
+2026-10-13T05:11:51Z,pugs-plasma,0.1.0,Zachary Gottlieb,MIT,24299,Postprocessing Utilities for Gyrokinetic Simulations
+2026-10-13T05:13:38Z,runcrawl,0.1.0,RUNCrawl <runcrawl@runsystem.net>,MIT,22334,Official Python SDK for RunCrawl — Web + Video Intelligence API for AI
