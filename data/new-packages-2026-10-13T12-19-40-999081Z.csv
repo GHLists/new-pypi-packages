@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T09:17:53Z,onetick-mcp,0.19.0b1,,MIT,69512,"Model Context Protocol server for OneTick, built on onetick-llmbase"
+2026-10-13T11:22:28Z,fs-assets,0.1.0,Jorge García,MIT,11917788,"Foxhole game asset tools: pak extraction, item catalog and icon-template database"
+2026-10-13T11:24:22Z,qrfile-mcp,0.2.3,,,29628,QRFile: single-use local file downloads with QR codes for MCP clients
+2026-10-13T11:29:44Z,firefly-meadow,0.1.0,Rahul Bantupalli,MIT,12013,"A terminal ASCII firefly meadow. Wave your mouse, leave a rainbow trail."
+2026-10-13T11:32:08Z,quantiqen-sdk,0.1.0,QUANTIQEN,MIT,33800,QUANTIQEN telemetry ingestion SDK for Python
+2026-10-13T11:33:09Z,cohaerum-config,0.1.0,,,5704,
+2026-10-13T11:33:31Z,vocalstack,1.0.0a0,,MIT,75610,"VocalStack speech API SDK (asyncio): one client grouped by resource, typed models from the API contract, realtime WebSocket streaming."
+2026-10-13T11:33:35Z,codadapt,1.0.0rc1,Luca Lullo,MIT,180891,Experimental tabular learning with adaptive coded memory and shared multi-resolution encoding
+2026-10-13T11:34:01Z,normahub-cli,1.0.0,NormaHub Core Team <manager@normahub.cc>,MIT,56133,"Local AI Gateway daemon with SQLite caching, Pareto router, Web UI and IDE patcher for NormaHub API."
+2026-10-13T11:34:06Z,openaevc,0.1.0,,Apache-2.0,36104,OpenAEVC Python client SDK (protocol 0.1.0); standard library only
+2026-10-13T11:34:18Z,aspose-psd-foss,26.10.0,"Aspose Pty <sales@aspose.com>, Aspose PSD Team <psd@aspose.com>",MIT,58220,Aspose.PSD FOSS For Python provides PSD/PSB files processing capabilities
+2026-10-13T11:34:21Z,seedance-video-api,0.2.0,NormaHub Team <manager@normahub.cc>,MIT,33046,Python SDK & CLI для генерации видео нейросетями SeeDance 2.5 / 2.0 и Grok Video через NormaHub API без VPN
+2026-10-13T11:35:16Z,agentl-etl,0.1.1,Yuji Arima,MIT,52563,"Agentic ETL for Python: YAML pipelines where each step is a connector, a function or an LLM agent."
+2026-10-13T11:38:49Z,tavan,0.1.0,Ali Peivand,MIT,258339,"Lightweight time-series scenario generation and forecasting for power systems, energy and finance — NumPy-only, CPU, no deep-learning framework."
+2026-10-13T11:42:45Z,retrosheetpy,2.1.0,C. B. Winslow,GPL-3.0-or-later,128257,"Fast, modular, and strongly-typed Retrosheet baseball data downloader, parser, and database ingestor."
+2026-10-13T11:43:56Z,clean-dom,0.1.0,,MIT,10727,A lightweight Python library for pruning and cleaning DOM for LLMs
+2026-10-13T11:44:10Z,urban-infra-access,0.1.0,Elizaveta Teniatova,MIT,10927,Оценка доступности социальной инфраструктуры для жилых домов
+2026-10-13T11:45:09Z,pytest-torch,0.1.0,,,30698,pytest plugin that eases inference testing of PyTorch models
+2026-10-13T11:45:47Z,jevcrawl,0.1.0,Rayen Mlayeh,Apache-2.0,163422,"MCP server and CLI that crawls websites for AI agents: a small decision model (Jev) picks the pages and passages, so the agent's LLM only reads what answers its question."
+2026-10-13T11:45:58Z,tokenleak,1.9.0,Pazificateur69,MIT,93326,Find and plug your coding agent's token leaks: audit Claude Code and Codex transcripts locally.
+2026-10-13T11:49:15Z,scverse-doc,0.1.0.post0,"Lukas Heumos, Philipp Angerer",MPL-2.0,78413,Scverse documentation theme and utilities.
+2026-10-13T11:52:40Z,tungsten-calendar,0.1.0,Prism Infoways,MIT,70911,"Calendar plugin for Tungsten: month, week, day and list views, repeating events, drag and drop, phone sync, and dates from HR, Leads, Tickets, Finance and Blog."
+2026-10-13T11:52:43Z,tungsten-tags,0.1.0,Prism Infoways,MIT,40249,"Tags plugin for Tungsten: put colored tags on any record (leads, tickets, employees, invoices) and filter by them."
+2026-10-13T11:52:45Z,tungsten-pwa,0.1.0,Prism Infoways,MIT,513550,"PWA plugin for Tungsten: install your FastAPI admin panel like an app on phones and computers, with app icons, shortcuts, faster loading and an offline page."
+2026-10-13T11:52:48Z,tungsten-backups,0.1.0,Prism Infoways,MIT,57236,Backups plugin for Tungsten: back up your database and uploaded files from the panel and download the zip.
+2026-10-13T11:56:30Z,vfWorks,0.0.1b1,Jan Gladiné & Bert Van Acker,Apache License 2.0,88433,vfWorks - your gateway to valid model (re-)use.
+2026-10-13T11:57:03Z,airmkit,0.1.0,Thanatchon Chongmankhong,Apache-2.0,383356,"Operationalise the MAS Guidelines on AI Risk Management (2026) for LLM and agentic AI systems: inventory, materiality, controls, evidence and audit packs."
+2026-10-13T11:59:20Z,dynamoxy,0.1.0,Carl Oscar Aaro <hello@carloscar.com>,MIT,52468430,"A typed, async DynamoDB ORM for Python with a Rust core: models with descriptors or pydantic, repositories, transactions, unique constraints, OpenTelemetry and an in-memory DynamoDB for tests."
+2026-10-13T12:00:26Z,threatsketch,0.3.1,Eric Sunu,MIT,222267,Microsoft TMT-style automatic threat generation for OWASP Threat Dragon models
+2026-10-13T12:00:27Z,cohaerum-uuid,0.1.0,,,10353,
+2026-10-13T12:04:17Z,eventbase,1.0.0,Parker,,36835,"Couriers that publish and poll events over kafka, s3 and directories"
+2026-10-13T12:04:36Z,driveri-python-sdk,1.0.0,Netradyne,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",625370,Official Python client for the Netradyne Driveri Platform API.
+2026-10-13T12:05:53Z,smol-bytes,0.1.7,,MIT OR Apache-2.0,1122173,"High-performance, clone-efficient byte buffers optimized for small data"
+2026-10-13T12:06:58Z,actionlint-kjanat,1.17.0,Kaj Kowalski <info+actionlint@kajkowalski.nl>,MIT,33874468,Static checker for GitHub Actions workflow files
+2026-10-13T12:07:40Z,packdiff,0.3.0,muguang1224 <137096726+muguang1224@users.noreply.github.com>,MIT,90067,"Pack a repository into a single, LLM-friendly Markdown file."
+2026-10-13T12:10:02Z,zendev-core,0.5.0,,MIT,7833,"Configuration, diagnostics, and Markdown source facts"
+2026-10-13T12:10:04Z,lupaxa-chat-client,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",33835,"A terminal client for the chat server, keeping server text separate from what you are typing."
+2026-10-13T12:10:30Z,zendev-evolution,0.5.0,,MIT,5514,Single-file project intent and evolution records
+2026-10-13T12:10:33Z,zendev-message,0.5.0,,MIT,19221,Commit and pull-request message validation
+2026-10-13T12:13:05Z,kreuzberg-gvaxx,4.9.6,Na'aman Hirschfeld <naaman@kreuzberg.dev>,Elastic-2.0,35607354,"Security-patched fork of kreuzberg 4.9 (updated vulnerable Rust dependencies, bounded HWP decompression). High-performance document intelligence library for Python. Extract text, metadata, and struct…"
+2026-10-13T12:19:24Z,serpx-seo-tools,1.0.0,SerpX,MIT,32604,Practical technical SEO audits and offline competitor keyword gap analysis for Python and the CLI.
