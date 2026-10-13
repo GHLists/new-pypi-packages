@@ -1,37 +1,37 @@
 {
   "list": {
-    "count": 49,
-    "from": "2026-10-13T09:20:22.864868Z",
-    "path": "data/new-packages-2026-10-13T10-20-16-292538Z.csv",
-    "to": "2026-10-13T10:20:16.292538Z"
+    "count": 29,
+    "from": "2026-10-13T10:20:16.292538Z",
+    "path": "data/new-packages-2026-10-13T11-18-42-771825Z.csv",
+    "to": "2026-10-13T11:18:42.771825Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-13T09:42:40Z",
       "package": "djanquiltdb-plugin-pghistory",
       "since": "2026-10-13T09:20:22.864868Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-13T08:42:36Z",
       "package": "jsonvet",
       "since": "2026-10-13T08:21:23.190993Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-13T09:17:53Z",
       "package": "onetick-mcp",
       "since": "2026-10-13T08:21:23.190993Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-13T10:02:18Z",
       "package": "zgc-runtime",
       "since": "2026-10-13T09:20:22.864868Z"
     }
   ],
-  "serial": 42173276,
+  "serial": 42175639,
   "source_truncated": false,
-  "window": "2026-10-13T10:20:16.292538Z"
+  "window": "2026-10-13T11:18:42.771825Z"
 }
