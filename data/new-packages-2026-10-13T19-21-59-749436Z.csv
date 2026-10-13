@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T18:21:03Z,hivemind-imagestudio,0.2.0,Hivemind,Apache-2.0,294513,"Free, local, permissively licensed image MCP server. Quality is a setting, never a consequence."
+2026-10-13T18:23:52Z,coinscan-sdk,0.1.0,PIRB <contact@pirb.tech>,MIT,59304,"Official Python client for the CoinScan API: token scans, holders, bubble maps, wallets, charts and market data for Solana, Ethereum, BSC and Base."
+2026-10-13T18:24:04Z,all-classifier-cls666,0.1.1,Arı Bilgi,,18579,
+2026-10-13T18:24:24Z,crdistr,0.4.1,,MIT,171344,"erfinv, erfcinv and probit (the inverse normal distribution) over NumPy arrays, correctly rounded in binary32, binary16 and bfloat16, on crnumerics' libcrdist"
+2026-10-13T18:28:08Z,synths,0.1.0b1,John Wylie,MIT,77569,"Make sounds and music in Python: synths, samples, effects and tracker songs, for games and for fun. The sound sibling of Pyctures."
+2026-10-13T18:28:09Z,pysynths,0.1.0b1,,MIT,1485,Another name for synths: sound and music in Python (pip install synths).
+2026-10-13T18:28:11Z,pydials,0.1.0b1,John Wylie,MIT,129531,"Dials, sliders, buttons, a piano keyboard, a scope and meters to put on a Pyctures scene. They lay themselves out, work by touch, mouse and keyboard, and can be tied to a synth's settings."
+2026-10-13T18:28:12Z,pyvisualfx,0.1.0b1,John Wylie,MIT,60957,"Effects for a Pyctures scene, done by the graphics card: kaleidoscopes, glow, trails, blurs, old televisions, glitches and backdrops that need no drawing, each one line to turn on, with settings you…"
+2026-10-13T18:28:24Z,ai-desktop,0.4.0,Michael Kulka,MIT,111643,"CLI that lets any AI agent see the screen through a coordinate grid and control the mouse, keyboard and clipboard"
+2026-10-13T18:29:10Z,snipbg,2.0.0,Asim Mahmudov,MIT,69308,"Remove image backgrounds with ONNX segmentation models. Library, CLI and HTTP API."
+2026-10-13T18:33:09Z,autohybts,1.0.0rc2,João Ataíde,MIT,549808,Automated Hybrid Time Series Forecasting: guarded search and incremental selection of standalone and hybrid forecasters.
+2026-10-13T18:33:11Z,promptbadger,0.3.1,Dylan Wood,MIT,1076493,Detection-as-code for LLM prompt injection: Sigma-style YAML rules mapped to MITRE ATLAS and the OWASP LLM Top 10.
+2026-10-13T18:35:23Z,clamav-tray,0.2.0,,MIT,94305,Indicador de bandeja para ClamAV gerenciado por systemd
+2026-10-13T18:37:13Z,flight-fare-history,0.1.0,,MIT,6030,"Load the open Flight Fare History dataset (observed airfares by route and departure month, CC BY 4.0) in one line."
+2026-10-13T18:37:42Z,method-emitter,0.1.0,,,4035,Prints Java data structure method snippets from one public function.
+2026-10-13T18:41:21Z,volvoxdb,0.0.1,,,1645,VolvoxDB: the document database for AI agents. Coming soon.
+2026-10-13T18:42:28Z,phocinae-rulepack,0.1.0,Phocinae,Apache-2.0,85281,"Deterministic rule-pack engine: read a ledger, apply a versioned rule pack, emit only the differences for human review. Zero model calls, zero third-party runtime dependencies."
+2026-10-13T18:42:28Z,recall-pydantic-ai,0.1.0,Polign,Apache-2.0,32930,"Typed, correctable long-term memory for Pydantic AI agents, backed by Recall by Polign"
+2026-10-13T18:43:46Z,hermes-claude-bridge,0.5.0,,MIT,38537,Hermes provider plugin for the pi-claude-cli Claude worker
+2026-10-13T18:45:08Z,git-epic,0.1.1,Wonderteam,,32925,Epic-based Git workflows and GitLab merge requests
+2026-10-13T18:47:13Z,tensorgami,0.1.0,Andrei Utina,MIT,258416,"Draw the architecture and information flow of PyTorch models: figures for papers, reports and slides"
+2026-10-13T18:47:23Z,lazy-scs,1.0.0,"Krushna Dere, Svyatoblood",MIT,1611572,"Scalable factor-2 approximation for the shortest common superstring, with a certified lower bound"
+2026-10-13T18:49:33Z,typerace,0.1.1,Elliott Kobelansky,GPL-3.0-or-later,1500445,TypeRacer-style typing races in the terminal
+2026-10-13T18:51:32Z,everybench,0.1.0,,Apache-2.0,3522,"EveryBench by Eva AI: run any benchmark, trace every task, compare runs with paired statistics."
+2026-10-13T18:55:29Z,py-mea-flow,0.5.0,George (Zhuang) Han,MIT,217736,End-to-end MEA data analysis for Axion Biosystems instruments
+2026-10-13T19:00:00Z,wpdm-Dominika-H,0.1.0,Szymon Bobek <szymon.bobek@gmail.com>,"MIT License Copyright (c) 2024 Szymon Bobek Permission is hereby granted, free of charge, to any pe…",6132,Warsztat Praktyka Data Mining
+2026-10-13T19:00:21Z,supporth,0.4.0,Fabian Moreno-Avitia,MIT,131117,Support-based orthologue integration: runs multiple orthology predictors and unifies their calls into a consensus table
+2026-10-13T19:01:16Z,ampio-python,0.1.0,,Apache-2.0,26177,Local MQTT client for Ampio smart-home servers
+2026-10-13T19:01:58Z,biocatalystfeed,0.2.0,,Apache-2.0,121368,"Open-source monitors for biotech catalysts: ClinicalTrials.gov, openFDA, NIH RePORTER, PubMed/Europe PMC/bioRxiv, SEC EDGAR. CLI + MCP server."
+2026-10-13T19:04:47Z,habemus-papadum-codex-launcher,0.1.0,Nehal Patel <nehal@alum.mit.edu>,,126148,
+2026-10-13T19:04:49Z,habemus-papadum-hostfork,0.1.0,Nehal Patel <nehal@alum.mit.edu>,,134887,Host-derived environments with independent process ownership and recoverable private storage
+2026-10-13T19:04:50Z,habemus-papadum-mitm,0.1.0,Nehal Patel <nehal@alum.mit.edu>,,36199,
+2026-10-13T19:07:07Z,pyktane,0.1.1,Micael Jarniac <micael@jarniac.dev>,MIT,139130,Python KTANE utilities.
+2026-10-13T19:09:00Z,agentperf,0.2.2,agentperf contributors,MIT,267501,Measure how well a computer serves AI coding agents - and explain why
+2026-10-13T19:09:30Z,fluxion-dsp,0.3.0,Matteo Spanio,MIT,7886511,"GPU-accelerated, differentiable audio DSP — Python bindings"
+2026-10-13T19:14:25Z,contractwatch,1.0.0,ContractWatch,MIT,248606,API contract guard for FastAPI: catch breaking changes and schema-name collisions before they ship.
+2026-10-13T19:14:31Z,certanix-verify,0.14.0,GovStrat SRL,BSD-3-Clause-Clear,87571,Offline verification of Certanix evidence packs.
+2026-10-13T19:17:15Z,faker-cti,0.1.0,Mariot Tsitoara <mariot.tsitoara@filigran.io>,Apache-2.0,74595,"Faker providers for cyber threat intelligence and adversarial exposure validation test data (STIX 2.1, OpenCTI, OpenAEV, MITRE ATT&CK, EDR alerts)."
+2026-10-13T19:17:48Z,vigie,0.1.0,Stefane Fermigier,,2220,Add your description here
+2026-10-13T19:20:17Z,xrp-usb-controller,0.1.0,Michael Solberg <mpsolberg@gmail.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",72627,Control an XRP robot over a USB serial connection.
+2026-10-13T19:20:24Z,bhshell,0.1.0,kr0no <kr0no@ka0labs.net>,MIT,224740,Interactive shell for BloodHound
+2026-10-13T19:20:32Z,gpumedic,0.1.0,Samarth Urs,Apache-2.0,102485,"A health check for GPU machines: what's wrong, what to check, and whether each GPU should keep taking work"
+2026-10-13T19:21:51Z,ndx-cell-culture,1.0.0,David Parks <dfparks@ucsc.edu>,BSD-3-Clause,81537,"NWB extension for cultured neural preparations, organoids, cell lines, variants, constructs, protocols, recording context, and pharmacology."

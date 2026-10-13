@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-10-13T17:19:24.273328Z",
-    "path": "data/new-packages-2026-10-13T18-19-21-001264Z.csv",
-    "to": "2026-10-13T18:19:21.001264Z"
+    "count": 43,
+    "from": "2026-10-13T18:19:21.001264Z",
+    "path": "data/new-packages-2026-10-13T19-21-59-749436Z.csv",
+    "to": "2026-10-13T19:21:59.749436Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-13T17:07:54Z",
       "package": "amap-python",
       "since": "2026-10-13T16:18:35.79594Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-13T16:24:34Z",
       "package": "helia-ml",
       "since": "2026-10-13T16:18:35.79594Z"
     }
   ],
-  "serial": 42193472,
+  "serial": 42195535,
   "source_truncated": false,
-  "window": "2026-10-13T18:19:21.001264Z"
+  "window": "2026-10-13T19:21:59.749436Z"
 }
