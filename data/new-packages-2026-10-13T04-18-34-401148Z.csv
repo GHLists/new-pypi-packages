@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T03:20:39Z,vlastudio,0.2.0,VLAStudio contributors,"You are free to: Share — copy and redistribute the material in any medium or format Adapt — remix,…",86072258,Extensible robotics policy training and deployment
+2026-10-13T03:22:15Z,radiens-data-catalog,0.1.0,,,95500,
+2026-10-13T03:24:39Z,exactsampler,0.1.0,Groundplane Labs,MIT,15167,Exact Fisher p-values for r-by-c contingency tables (free core)
+2026-10-13T03:24:44Z,exactpower,0.1.0,Groundplane Labs,MIT,15376,Exact power of Fisher's exact test for a planned 2x2 study (free core)
+2026-10-13T03:24:46Z,barnard-exact,0.1.0,Groundplane Labs,MIT,19422,Barnard's and Boschloo's exact tests for 2x2 tables (free core)
+2026-10-13T03:24:46Z,bumpy-cli,0.1.0,Daniel Felipe Santana Batista,,12864,CLI para gerenciar versoes de jobs em pipelines.
+2026-10-13T03:25:57Z,saddleflow,0.1.0,"Ilgar Baghishov, Sung Hoon Jung, Graeme Henkelman",MIT,497076,Flow-matching generation of transition-state structures for periodic materials.
+2026-10-13T03:29:48Z,adr-check,0.1.0,Stuart Langley,MIT,75823,Checks architecture decision records (ADRs) in docs/adr
+2026-10-13T03:33:11Z,cf-mcp-package2,0.1.0,,,2910,Add your description here
+2026-10-13T03:33:42Z,fontpkg-catamaran,2.0,,OFL-1.1,109577,"Catamaran font family, packaged for Python by fontpkg"
+2026-10-13T03:33:44Z,fontpkg-press-start-2p,3.0,,OFL-1.1,47166,"Press Start 2P font family, packaged for Python by fontpkg"
+2026-10-13T03:33:46Z,fontpkg-noto-kufi-arabic,2.109,,OFL-1.1,220369,"Noto Kufi Arabic font family, packaged for Python by fontpkg"
+2026-10-13T03:33:48Z,fontpkg-signika,2.3,,OFL-1.1,327079,"Signika font family, packaged for Python by fontpkg"
+2026-10-13T03:33:52Z,cbrm,0.1.1,Julian Y. Richard Corbet,LGPL-3.0-only WITH LGPL-3.0-linking-exception,85328,"BERO HOST management: the customer panel and its VNC console, as a library and a CLI"
+2026-10-13T03:34:23Z,denseclass,0.1.0,linlian,MIT,115333,
+2026-10-13T03:42:00Z,tradekart-backtester,0.1.0,"Vikalp <tradekart@gmail.com>, Siddhant <tradekart@gmail.com>, Lakshay <tradekart@gmail.com>",,22685,Backtesting engine for TradeKart strategies
+2026-10-13T03:42:20Z,bev-decisions,0.2.0,Dr. Sathiskumar JOTHI,Apache-2.0,76454,"Bev: System One decision models with open weights. Typed yes/no, choice and score decisions with calibrated probabilities"
+2026-10-13T03:43:08Z,dgf-nightly,0.1.1.dev20261013,"Mathieu Guillame-Bert, Brandon Mayer",Apache 2.0,13648476,Distributed Graph Flow
+2026-10-13T03:43:12Z,pdf-modifier,1.9.1,Manu <mlorentedev@gmail.com>,MIT,308713,PDF modification tool with CLI and MCP interfaces for AI agents.
+2026-10-13T03:46:23Z,saddlemill,0.1.0,"Ilgar Baghishov, Sung Hoon Jung, Graeme Henkelman",MIT,314429,High-throughput transition state search using neural network potentials or DFT
+2026-10-13T03:56:49Z,passive-experiment-csv-header-preview,0.1.0,,MIT,8932,"Preview ASCII header renames and collisions before using CSV Cleanup. Offline Python, original names visible; no file writes."
+2026-10-13T03:57:26Z,lanternkb,0.1.0,ankitb073,Apache-2.0,1603042,"Local-only search over your own files, with a secret-safe ingestion layer and visibility tiers."
+2026-10-13T03:57:46Z,lanternkb-ui,0.1.0,ankitb073,Apache-2.0,43604,"Optional settings page for lanternkb: runs only on demand, on loopback, and exits when closed."
+2026-10-13T03:58:02Z,atengk-mcp-server-traffic-inspector,1.0.0,Ateng,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",332089,专为 AI Agent 打造的网络流量抓包、会话检索、链路质量诊断、请求重放与规则 Mock 的全功能 MCP Server
+2026-10-13T03:58:10Z,atengk-mcp-server-tcp,1.2.0,Ateng,Apache-2.0,190199,A versatile TCP client/server proxy MCP server for LLMs
+2026-10-13T04:00:06Z,p835,0.1.0,Evgeny Gennadievich Prutkov <sviazist.pr@gmail.com>,MIT,31471,ITU-R P.835-7 reference standard atmospheres
+2026-10-13T04:00:09Z,p676,0.1.0,Evgeny Gennadievich Prutkov <sviazist.pr@gmail.com>,MIT,44427,ITU-R P.676-13 atmospheric gaseous attenuation
+2026-10-13T04:00:12Z,p528,0.1.0,Evgeny Gennadievich Prutkov <sviazist.pr@gmail.com>,MIT,54631,ITU-R P.528-5 aeronautical propagation prediction
+2026-10-13T04:00:37Z,astraea-atomic,0.1.0,Astraea,,197731,Procedural construction benchmarks with exact verification and experimental ratings
+2026-10-13T04:00:53Z,crewai-rooms,0.1.0,Rooms by Aurmada <team@aurmada.com>,MIT,30522,"CrewAI tools for Rooms by Aurmada: find, message and hire AI agents (A2A, MCP), price pay-per-call x402 APIs, verify signed receipts."
+2026-10-13T04:02:15Z,captcha-whisperer,0.1.0,fxaxg <99973797+fxaxg@users.noreply.github.com>,MIT,12724587,"Read image-based character captchas with a CRNN + CTC model on ONNX Runtime. No PyTorch, no OpenCV."
+2026-10-13T04:03:09Z,rerunner,0.1.1,Rerunner Authors,Apache-2.0,60564,"Deterministic flight recorder, replay engine, and CI test runner for AI agents."
+2026-10-13T04:07:32Z,miochin,0.0.1,Miochin,Proprietary,1623,Reserved.
+2026-10-13T04:07:49Z,cjkfold,0.1.1,cdcailf,MIT,49962,"Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again."
+2026-10-13T04:08:04Z,corpusfold,0.1.1,cdcailf,MIT,55679,"Turn messy Chinese documents (PDFs) into a clean, traceable knowledge base."
+2026-10-13T04:09:28Z,colabutilscs4337,0.1.0,CS4337 Course Staff,MIT,80447,"Google Colab utilities for CS4337: Drive run folders, model inspection, and CNN visualization (Grad-CAM, activations)."
+2026-10-13T04:12:17Z,lumenfetch,2.0.0,Nicolas Dwi Dharma,MIT,89111,YouTube downloader buat terminal - MP4 & MP3.
+2026-10-13T04:13:51Z,alethex,0.1.0,Yugendhar S <jeevithamproject@gmail.com>,Apache-2.0,187429,Temporal Belief Consistency Engine — catch AI self-contradictions in real time
+2026-10-13T04:15:14Z,hrx-solutions,0.3.0,The HRX Authors,MIT,14172282,Loom Serve application built on the HRX runtime
+2026-10-13T04:17:56Z,life-of-ideas,0.2.1,Daking Rai,Apache-2.0,108870,"Back up every Claude Code session of a repo, and the metadata needed to see how the idea evolved."
