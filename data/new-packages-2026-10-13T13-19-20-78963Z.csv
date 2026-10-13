@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T12:19:45Z,changenote,0.0.0,narumi,,3999,
+2026-10-13T12:22:46Z,bynn-decisionnode,0.3.2,"Bynn Intelligence, Inc.",MIT,207257,"The official Python client for DecisionNode, a decision engine that answers questions about text, JSON and images with calibrated probabilities."
+2026-10-13T12:24:27Z,franklinwh-modbus-async,0.0.1,david2069 <david2069@users.noreply.github.com>,MIT,12216,Async FranklinWH aGate Modbus TCP library (SunSpec + extension registers) built on modbus-connection
+2026-10-13T12:27:47Z,lauschkiste-plugins,0.1.0a7,the Lauschkiste contributors,MIT,103448,"Lauschkiste plugins: computers as devices, RFID readers, Samba, Audiobookshelf, podcast and radio directories"
+2026-10-13T12:28:01Z,lauschkiste-plugins-raspberry-pi,0.1.0a7,the Lauschkiste contributors,MIT,61711,"Lauschkiste plugins for the Raspberry Pi: the device and its peripherals (buttons, LEDs, battery, power button, pHAT BEAT)"
+2026-10-13T12:28:17Z,bynn-decisionnode-mcp,0.1.2,"Bynn Intelligence, Inc.",MIT,79164,"The DecisionNode MCP server: the decision engine's calibrated yes-or-no, choice, scale, number, point and box judgments as tools for AI agents."
+2026-10-13T12:31:16Z,hydra-qol,0.1.0,Thomas M Kehrenberg,Apache-2.0,29347,Quality-of-life helpers for Hydra: register dataclass configs and check that all YAML config files are valid.
+2026-10-13T12:36:34Z,bannerforge,0.1.0,Himanta Bhuyan <realximanta@users.noreply.github.com>,See LICENSE,8262,Colorful terminal banner generator with automatic rendering.
+2026-10-13T12:39:28Z,h2ofm,0.42.0,H2O.ai,Apache-2.0,95155,H2O.ai Foundation Models — standalone inference
+2026-10-13T12:40:55Z,market-sources,0.1.1,Daniil Petrov,MIT,94252,"Async Python scrapers for Kaspi.kz, OLX.kz and Ozon.kz behind one ProductSource protocol: search, offers, reviews"
+2026-10-13T12:41:55Z,tktl-analytics-pins,0.0.0,,,1695,
+2026-10-13T12:43:29Z,cvo261013,0.1.0,Paleofuturistic Python,,4379,Development flow as Paleofuturistic Python
+2026-10-13T12:45:19Z,nbd-jev3,0.1.0,Shaked Degani <shaked@webz.io>,,7220,Jev classifiers for text_classifier and Parseer pages
+2026-10-13T12:46:17Z,python-interactive-courses,1.0.1,johannes-langer,MIT,277908,"PyICs (Python Interactive Courses) is a modular framework for teaching programming in Python locally, allowing for co-learning of a programming environment."
+2026-10-13T12:47:21Z,kirha,0.1.0,Kirha,MIT,16441,Official Python SDK for the Kirha Search and Tools API
+2026-10-13T12:49:03Z,tzclock-cli,0.1.0,,MIT,16264,A small live timezone clock with a searchable terminal menu
+2026-10-13T12:51:23Z,oxfordledge,0.0.1,Oxford Ledge LLC <support@oxfordledge.com>,MIT,4835,"Reserved name, not the Oxford Ledge SDK. Install ol-sdk instead (import oxford_ledge_sdk)."
+2026-10-13T12:52:12Z,gitgraf,0.1.0,,,2146,Add your description here
+2026-10-13T12:52:26Z,btyscan,0.1.0,,,7831,
+2026-10-13T12:52:29Z,netdocai,0.1.0,Abhishek Anand,,43001,Autonomous AI-powered network troubleshooting CLI
+2026-10-13T12:55:20Z,ranq,0.3.0,NodeKraft,MIT,358499,"Free, open-source CLI that audits and optimizes websites for SEO, AEO and GEO."
+2026-10-13T12:57:57Z,context-graph-viewer,0.1.0,,MIT,78979,"Read-only terminal viewer for a Context Graph: capture health, pipeline state, session anatomy and the knowledge graph"
+2026-10-13T13:00:08Z,spectralaudit,0.1.0,Eduardo J. Barrios,Apache-2.0,50168,"Explainable, offline DSP for spectral audio forensics and mastering comparisons"
+2026-10-13T13:03:55Z,simplibs-path,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,220399,"Safe path handling and directory scanning: normalize, check, ensure and collect paths — as plain functions, composable rules and pipeline actions."
+2026-10-13T13:04:19Z,dlt-source-elhub,0.1.0,Havbruksdataforeningen,Apache-2.0,38077,"dlt source package for Elhub's Energy Data API: metering points and hourly metering values, via Maskinporten"
+2026-10-13T13:04:44Z,underhood,0.1.0,,,2166,Add your description here
+2026-10-13T13:06:18Z,idiscord,0.1.0,,MIT,3905,Discord API wrapper
+2026-10-13T13:07:12Z,accentuk,0.1.0,,Apache-2.0,131374,Offline Ukrainian stress marking and optional TTS preparation
+2026-10-13T13:09:18Z,tuxwhisper,0.2.0,Ibrahim Almajai,MIT,50943,"Private, offline push-to-talk dictation for Linux, on X11 and Wayland"
+2026-10-13T13:11:07Z,paulrun,0.1.0,Paul Hallett <paulandrewhallett@gmail.com>,MIT,188682,Run hand-written markdown runbooks
+2026-10-13T13:11:45Z,MultiGlue-3M,1.0.0,Siqi Chen,Apache 2.0,4060,Integrative and generative analysis of spatial multi-omics with MultiGlue
+2026-10-13T13:12:18Z,jibsa,0.2.0,,MIT,1006763,네이버·직방·당근 부동산 매물을 조회하는 LLM 친화 CLI
+2026-10-13T13:14:14Z,zoo-framework-native,0.1.0,,,107222,zoo-framework 原生任务执行扩展（可选安装；未安装时框架一切如旧；内置任务为样例负载，非框架功能）
+2026-10-13T13:15:10Z,groupchat-tg-bot,0.0.2,,MIT,63852,"A small library for Telegram group-chat AI bots (OpenAI-compatible LLMs), extended with modules"
+2026-10-13T13:15:51Z,ruvector-core,0.2.0,RuVector Team,MIT,4099,Native vector search with ergonomic batch ingestion.
+2026-10-13T13:15:52Z,ruvector-gnn,0.2.0,RuVector Team,MIT,4094,Native graph neural network neighborhood encoding.
+2026-10-13T13:15:55Z,ruvector-router,0.2.0,RuVector Team,MIT,4368,Semantic embedding routing backed by native RuVector HNSW
+2026-10-13T13:15:56Z,ruvector-ruvllm,0.2.0,RuVector Team,MIT,5085,Bounded native Rust key value cache and attention primitives for Python LLM pipelines
+2026-10-13T13:17:09Z,batipathway,0.1.0,Seddik Yassine Abdelouadoud <yassine.abdelouadoud@gmail.com>,"MIT License Copyright (c) 2026 Seddik Yassine Abdelouadoud Permission is hereby granted, free of ch…",198996,Renovation pathway optimizer for residential building stocks (MMCKP via linopy/HiGHS)
+2026-10-13T13:17:16Z,idems-gitstore,0.1.0,IDEMS International,MIT,205705,"Git as the store: branches as units of work, pull requests as results, history as the record."
+2026-10-13T13:17:23Z,baticlust,0.1.0,Yassine Abdelouadoud <yassine.abdelouadoud@gmail.com>,MIT,17223,Building stock archetype generation using stratified clustering
+2026-10-13T13:18:15Z,us-gov-data-dictionary,0.1.0,Alex Bocio (Alt Data Forge),Apache-2.0 AND CC-BY-4.0,357554,"Machine-readable data dictionaries for U.S. government datasets (SEC N-PORT, 13F, Forms 3/4/5, Form D, N-MFP, Reg A, N-CEN): official field definitions with citations, code lists and observed values."
+2026-10-13T13:18:18Z,isa9000,0.1.0,Isabela and Alex @ girlea.ro,Apache-2.0,2447521,"Turn your organization's documents into short, fact-checked podcasts. Self-hosted and white-label."
+2026-10-13T13:18:53Z,homeward,0.1.0,Sebastian Goscinski,MIT,99865,Native Synology DSM package that syncs iCloud Photos and iCloud Drive with the NAS.
+2026-10-13T13:19:13Z,ziho-autoresearch,0.2.0,,MIT,333016,Lightweight local ML project records and validation
