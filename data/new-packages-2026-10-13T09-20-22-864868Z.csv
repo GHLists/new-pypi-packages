@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T08:24:30Z,matview-cache,0.1.0,Tiago Tresoldi <tresoldi@gmail.com>,MIT,274705,Materialized views for derived values: a content-addressed compute cache over a dependency graph.
+2026-10-13T08:25:06Z,agent-reliability-ci,0.8.0,,Apache-2.0,289097,"Regression testing for stochastic AI agents: frozen experiments, fault injection, replayable reduced failures."
+2026-10-13T08:26:32Z,signalops-sigint,2.2.0,Emre Kybs,MIT,2603861,"Local-first SIGINT / OSINT workbench: WiFi, cell, cameras, aircraft, satellites, vessels and RF layers on one map"
+2026-10-13T08:26:40Z,uniwire,0.1.0,uniwire contributors,Apache-2.0,690895,"Electrical diagrams, as code: an open standard to describe electrical installations, with validation, rules, BOM, wire lists and single-line / multi-line SVG/PDF drawings"
+2026-10-13T08:30:13Z,mailganer,0.1.0,Mailganer <api@mailganer.com>,MIT,38443,"Официальный клиент REST API Mailganer: подписчики, списки, рассылки, триггеры, отчёты"
+2026-10-13T08:31:06Z,render-pptx,0.1.0,Robert Haase <robert.haase@uni-leipzig.de>,BSD-3-Clause,29614,Render PowerPoint slides as PNG images using python-pptx and Pillow
+2026-10-13T08:31:26Z,envai-teams-sdk,1.0.0a2,DigItalyGo,MIT,283719,Typed synchronous and asynchronous Envai Teams client with ATP v2 streaming
+2026-10-13T08:32:08Z,uniwire-data-iec81346,0.1.0,uniwire contributors,CC-BY-SA-4.0,46811,"IEC 81346-2:2019 component classes (from Wikipedia, CC BY-SA 4.0) for the uniwire registry"
+2026-10-13T08:33:31Z,pysqlfunc,0.1.0,Arian Nameii,,47587,Reusable Python utilities for SQL & python functions.
+2026-10-13T08:34:54Z,evgprotect,0.2.1,worldofpets <polivanov004@gmail.com>,MIT,14105,Периодические скриншоты с проверкой целостности файлов
+2026-10-13T08:36:31Z,physicalai-trossen-plugin,0.1.0,,Apache-2.0,2517752,Trossen WidowX AI robot arm plugin for PhysicalAI
+2026-10-13T08:38:59Z,aboa,0.1.0,Daniel Brosnan Blázquez,MIT,101917,Archive for Business Operations Analysis
+2026-10-13T08:39:35Z,cosmocompare,0.0.12,Dily Duan Yi Ong <dlo26@cam.ac.uk>,MIT,60665,Bayesian model comparison by importance sampling of existing nested-sampling chains
+2026-10-13T08:40:23Z,physicalai-so101-plugin,0.1.0,,Apache-2.0,22698237,SO-101 robot catalog plugin for PhysicalAI
+2026-10-13T08:44:45Z,odoo-addon-sale-order-line-route-visible,19.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",AGPL-3,20596,Show the Routes column by default on sale order lines
+2026-10-13T08:46:30Z,tech-docs-mcp,0.1.0,,,14076,MCP server connecting AI assistants to verified library documentation via Context7
+2026-10-13T08:47:55Z,kinetickit,1.0.0b1,EconViz,MIT,357659,"Domain-neutral engine for precise, deterministic 2D and 3D animation."
+2026-10-13T08:48:47Z,simple-module-records,0.0.9,Anto Subash <antosubash@live.com>,MIT,2304724,Generic structured content: admin-defined record types stored as JSON documents with typed SQL indexes (YesSql-style document/index split)
+2026-10-13T08:49:22Z,glyphkit,1.0.0b2,EconViz,MIT,157973,"Renderer-independent font selection, shaping, and text layout"
+2026-10-13T08:50:14Z,simple-module-billing,0.0.9,Anto Subash <antosubash@live.com>,MIT,188710,"Plans, subscriptions and Stripe billing for multi-tenant SimpleModule apps"
+2026-10-13T08:51:43Z,agx-bus,0.0.1,,,491364,
+2026-10-13T08:57:29Z,iitkquotes,0.1.0,Saurav Mishra <hello@sauravmishra.in>,MIT,7335,A lightweight package for random or indexed IIT Kanpur quotes.
+2026-10-13T08:58:47Z,membrane-seat,0.3.2,Dmitrii Chechetkin,LicenseRef-Membrane-Private-Use-1.0,7497755,Membrane: a local-first memory field and seat for AI -- its own web UI (`membrane standalone`) or inside Home Assistant (HACS).
+2026-10-13T08:59:32Z,log-ctrl,0.0.1,Kengo NAKADA <kengo.nakada@email.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",36841,gRPC server and proxy for reading x_logger rotating log files by device class.
+2026-10-13T09:00:29Z,shielda-captcha,1.0.0,Shielda Team <support@shielda.ir>,MIT,11268,Official Python SDK for Shielda Captcha (کتابخانه رسمی پایتون برای شیلدا کپچا)
+2026-10-13T09:02:18Z,neopat-mcp,0.1.0,neopat-mcp contributors,MIT,169199,MCP server for the NeoPAT campus placement portal.
+2026-10-13T09:03:34Z,lfs-insim,0.1.0,Adrian Pascarella,MIT,163617,"A Python library for the Live for Speed InSim protocol (InSim, OutSim, OutGauge)."
+2026-10-13T09:03:51Z,sarand-cli,0.6.19,,MIT,6310201,"Cross-platform CLI that scans any project, detects its architecture, runs its tests, and generates an AI-ready intelligence report."
+2026-10-13T09:03:54Z,tracecost,0.1.0,Thanatchon,MIT,372641,"Recompute what your LLM traces cost, offline, from OTLP, Langfuse or Phoenix exports, with cache and reasoning tokens priced, and see where your observability tool's totals disagree."
+2026-10-13T09:03:59Z,PathwayVI,0.1.2,Feng Zeng,,27220,Variational inference for pathway-based perturbation prediction
+2026-10-13T09:04:38Z,entropy-data-sdk,0.1.0,Entropy Data,MIT,131495,Python SDK for the Entropy Data API and for building connectors
+2026-10-13T09:04:47Z,asao-erp,0.1.0,Nguyễn Hữu Hoàng <nguyenhuuhoang711@gmail.com>,Apache-2.0,56370,"Odoo Community from Python, through a verified command line: reads, groups, prints."
+2026-10-13T09:07:35Z,gsc-triage,1.1.0,Mohit Sapat,MIT,53583,"Find pages Google hasn't indexed and pick which deserve today's few Search Console ""Request indexing"" clicks."
+2026-10-13T09:10:40Z,licentivo-sdk,0.10.0,,"MIT License Copyright (c) 2026 spf86 and Licentivo contributors Permission is hereby granted, free…",31637,Licentivo software licensing client
+2026-10-13T09:14:16Z,m2m-monster,0.1.0,,Apache-2.0,127138,Python SDK for m2m.monster: non-custodial agent-to-agent payments over x402 (m2m-split) on Solana.
+2026-10-13T09:15:23Z,loudness-audio-kit,1.0.0,Loudness.ai,LicenseRef-Loudness-Audio-Kit-Distribution,19071296,"Local speech denoising, enhancement, loudness normalization, audio conversion and measurement for Python."
+2026-10-13T09:15:33Z,talocode-tokenlane,0.1.2,Talocode <updates@updates.teraai.chat>,MIT,14779,"TokenLane plans a real-world asset workflow, keeps a local ownership registry, and writes a receipt. CLI and SDK. It does not issue a token, deploy a contract, or move legal title."
+2026-10-13T09:16:33Z,one-stop-analytics,1.13.11,Srijan Das <otanalytics.contact@gmail.com>,AGPL-3.0-only,301498,Cross-platform one-stop data analytics toolkit for Python.
