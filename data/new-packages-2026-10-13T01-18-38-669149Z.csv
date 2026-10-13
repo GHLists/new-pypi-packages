@@ -1,0 +1,16 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T00:25:29Z,isovita,0.1.0,Daniel Chen,MIT,326885,Interpretable detection of temporal variation in isoform composition
+2026-10-13T00:25:33Z,torch-world,0.0.1,,Apache-2.0,4374755,World models library for PyTorch
+2026-10-13T00:26:23Z,il-supply-chain-security,999.999.9999,Jonathan <project@example.com>,,3168,A simple hello world package
+2026-10-13T00:31:53Z,mcp-stockpile,2.0.0,Stockpile Market <contact-stockpile@designiscasual.com>,MIT,29546,Official Model Context Protocol (MCP) server for Stockpile Market - Autonomous Agent Commerce & Curation.
+2026-10-13T00:35:01Z,flggd,0.0.1,"Flagged PBC, Inc.",Apache-2.0,9933,Reserved for the Flggd SDK. Not yet released.
+2026-10-13T00:43:09Z,llmtyped,0.0.1,,MIT,30060,Typed structured outputs from LLMs
+2026-10-13T00:54:37Z,ipdbg,0.1.1,The IPDBG authors,MPL-2.0,36881462,IPDBG BusAccess and WaveformGenerator: control IPDBG debug cores in an FPGA from Python
+2026-10-13T00:55:00Z,endura,0.1.0,Endura contributors,MIT,121236,"Measured, reversible battery-life tuning for Linux laptops, with a GUI"
+2026-10-13T01:00:42Z,check-json5,1.3.0,Simon van Lierde <30519500-simonvanlierde@users.noreply.gitlab.com>,MIT,21948,pre-commit hook to check json files for syntax parseable as json5 (with comments)
+2026-10-13T01:03:04Z,standard-aws,0.2.0,Standard contributors,MIT,38513,Async AWS clients and credential providers for Standard
+2026-10-13T01:07:05Z,confirm-env,0.1.0,confirm-env contributors,MIT,64084,Run commands with environment variables kept in an encrypted SQLCipher database.
+2026-10-13T01:07:27Z,pyrite-mc,0.13.2,,Academic Software License: © 2026 UCLA (“Institution”). Academic or nonprofit researchers are permi…,11041394,Coherent X-ray radiation and electron transport in crystals.
+2026-10-13T01:07:46Z,homological-observability,1.1.0,"HongZheng Liu, YiNuo Tian, Zhiyue Wu, Jianqun Cheng",MIT,369036,Homological observability and asymptotic sampling requirements for finite-state Markov jump processes
+2026-10-13T01:08:41Z,driveloop,0.0.1,,Proprietary,2570,DriveLoop — a local task engine that keeps your Claude Code / Codex working on your backlog with code-enforced approvals. Name reserved; first release coming.
+2026-10-13T01:18:14Z,parascape,0.0.1.0,Einar Olafsson <einar.olafsson@gmail.com>,MIT,156775541,Explore gene evidence and screen results in Toxoplasma and Plasmodium
