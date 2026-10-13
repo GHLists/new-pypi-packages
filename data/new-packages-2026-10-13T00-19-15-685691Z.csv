@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-12T23:17:30Z,iccdev-mcp,0.1.0,International Color Consortium,BSD-3-Clause,109578,MCP server for ICC color profile tools (iccDEV)
+2026-10-12T23:20:05Z,sloptools,0.2.0,sjtechdev,MIT,51699,Deterministic code-quality tools for Python codebases: sloptrace (complexity erosion over git history).
+2026-10-12T23:20:15Z,okrag,0.1.0,juancc1001 <carvallojuanc@gmail.com>,Apache-2.0,691875,Turn a folder of files into a conformant OKF v0.2 knowledge bundle
+2026-10-12T23:21:52Z,stk-lite,2026.10.13.2,"Lukas Turcani <lukasturcani93@gmail.com>, Andrew Tarzia <andrew.tarzia@gmail.com>",,2201701,Automatic molecular construction and design.
+2026-10-12T23:23:12Z,whisper-data,1.0.3,the-can-of-soup,,59118,A simple command-line utility to securely transfer files or data over WebSocket.
+2026-10-12T23:24:43Z,gocream-pysberbank,1.0.0rc1,Dmitry Dobrynin <dd@tovarisch.engineer>,MPL-2.0,65733,Python client for the legacy SberBank payment API maintained by YooKassa.
+2026-10-12T23:26:41Z,falsealpha,0.1.0,Owen Alderson,MIT,6329603,"A C++ alpha-mining engine that searches formulaic trading signals, then tells you which of its discoveries are fake."
+2026-10-12T23:27:09Z,litert-quantizer,0.11.0,,Apache-2.0,753313,A quantizer for advanced developers to quantize converted AI Edge models.
+2026-10-12T23:27:12Z,pmt4api,1.0.0,Sen Trading,,33838053,"Complete Python interface to the wmt4api MetaTrader 4 client library (market data, account, sizing, order entry, events)."
+2026-10-12T23:27:29Z,pmt5api,1.0.0,Sen Trading,,33955409,"Complete Python interface to the wmt5api MetaTrader 5 client library (market data, account, sizing, order entry, events)."
+2026-10-12T23:27:38Z,reep,0.0.1,Withqwerty Ltd <getintouch@withqwerty.com>,MIT,10302,Python SDK and CLI for the Reep football entity register (in development)
+2026-10-12T23:29:55Z,otx-mcp,1.2.0,w0h1v,MIT,77471,MCP server for AlienVault OTX / LevelBlue Open Threat Exchange threat intelligence
+2026-10-12T23:30:42Z,classive-sdk,0.1.2,Classive Ltd,MIT,49933,Official synchronous and asynchronous Python SDK for the Classive educational content API
+2026-10-12T23:32:28Z,tokenwright,0.1.0,LRNSdigital,MIT,17063,"A token-cost ledger and a budget cap that refuses BEFORE you spend: fail-closed on an unknown model price, and a projective guard that blocks the next call when it would cross the cap. Zero dependenc…"
+2026-10-12T23:32:30Z,groundwright,0.1.0,LRNSdigital,MIT,19347,"A retrieval grounding gate: for a golden set, check that retrieval returns the expected source (provenance) and the anchor chunk, and that the run stays above a regression threshold. Not answer-quali…"
+2026-10-12T23:35:16Z,pink-agentic-payments,0.1.0,PinkWallet <support@pinkwallet.com>,MIT,21564,Python client for Pink Agentic AI Payments: the approval layer between AI agents and company money (sandbox).
+2026-10-12T23:36:03Z,serial-ledger,0.1.0b1,Raven Magbanua <magbanuaraven08@gmail.com>,MIT,26959,SerialLedger serial capture and spreadsheet export companion
+2026-10-12T23:36:18Z,langchain-pink,0.1.0,PinkWallet <support@pinkwallet.com>,MIT,16211,LangChain tools for Pink Agentic AI Payments: let agents request payments within company spending rules.
+2026-10-12T23:36:33Z,hitlwright,0.1.0,LRNSdigital,MIT,21685,"A typed, versioned, auditable human-in-the-loop approval contract: write a request when a run pauses for a human, read the decision back, as append-only JSONL both a Python and a Node side can share.…"
+2026-10-12T23:39:06Z,brandman,0.1.0,,,1860013,AI-native canonical brand and content control plane
+2026-10-12T23:41:33Z,squid-core,0.1.0,,"MIT License Copyright (c) 2026 Aaron Slater Permission is hereby granted, free of charge, to any pe…",408152,A reusable Python runtime for building tool-using AI agents.
+2026-10-12T23:42:10Z,tunepac,0.1.0,Tunepac contributors,MIT,78953,"YAML-configurable LLM fine-tuning harness built on TRL, PEFT, and Accelerate."
+2026-10-12T23:42:13Z,intarsiaml,0.0.1,,Apache-2.0,2048,"Intarsia: a modular, pluggable inference engine (name reservation, under development)."
+2026-10-12T23:49:00Z,tuning-client,0.1.0,,MIT AND Apache-2.0,116119,Python SDK and neural-network tuning demo for the hyperopt.dev AutoML service
+2026-10-12T23:49:48Z,tenir-governance,5.3.0,Abdelaziz Skiredj <skiredj@gmail.com>,Apache-2.0,255092,TENIR-Gov: Governance Middleware for AI-Enabled Operational Systems
+2026-10-12T23:52:04Z,squid-providers,0.1.0,Aaron Slater,MIT,51528,"First-party model transports, configuration, and discovery for Squid Core"
+2026-10-12T23:55:04Z,closedmcp,0.1.0,,Apache-2.0,21751,ClosedMCP sign-in for Python MCP servers
+2026-10-13T00:00:58Z,rillfacet,0.1.0,,MIT,54429599,
+2026-10-13T00:03:33Z,xmlstreamer-ng,1.0.0,"""Carlos A. Planchón"" <carlosandresplanchonprestes@gmail.com>",MIT,11689258,"Stream large or malformed XML feeds from HTTP, HTTPS, FTP, local files or standard input without loading them into memory."
+2026-10-13T00:11:57Z,adk-smart-router,1.0.0,Mike Henderson,Apache-2.0,1256270,"A predictive semantic router for Google ADK agents: prune the tool menu once per session, and skip tool calls whose answer is already known."
+2026-10-13T00:12:08Z,pyfortiaigate,0.1.0,Dylan Spille,MIT,49566,"Python client for the FortiAIGate 8.x management and gateway API, standard library only"
+2026-10-13T00:12:53Z,forgex-cli,0.1.0,FORGEX Contributors,MIT,314511,FORGEX — multi-agent AI software engineering. Plan. Build. Refine. Verify.
+2026-10-13T00:13:55Z,il-test-deuxdeuxdeux,999.999.9999,Jonathan <project@example.com>,,3225,A simple hello world package
+2026-10-13T00:15:48Z,listenflow-faster-whisper,0.8.2,minamik <mia@sync.dev>,MIT,483008,faster-whisper engine module for listenflow
