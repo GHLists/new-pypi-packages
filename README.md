@@ -8,49 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 14:19 UTC
+## Latest list — 2026-10-13 15:18 UTC
 
-New packages created between 2026-10-13 13:19 UTC and 2026-10-13 14:19 UTC.
+New packages created between 2026-10-13 14:19 UTC and 2026-10-13 15:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-13T14-19-22-342945Z.csv)
+[Full CSV](data/new-packages-2026-10-13T15-18-37-632845Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-13 13:12:02 | [hermes-nanogpt-provider](https://pypi.org/project/hermes-nanogpt-provider/) | 0.4.6 | Daya Adianto | 9.3 kB | Hermes Agent plugin for NanoGPT as model provider. |
-| 2026-10-13 13:19:55 | [ultralight-py](https://pypi.org/project/ultralight-py/) | 0.4.0 |  | 376.6 MB | Python bindings for Ultralight |
-| 2026-10-13 13:22:01 | [pandion](https://pypi.org/project/pandion/) | 0.1.0 | Nadeem Khan | 410.9 kB | Retrieval pipelines you can inspect, step by step |
-| 2026-10-13 13:29:30 | [abap-parser](https://pypi.org/project/abap-parser/) | 0.1.0 |  | 10.3 MB | ABAP parser: symbols, database access, calls and logic of ABAP code, sources fr… |
-| 2026-10-13 13:29:52 | [graphoskop](https://pypi.org/project/graphoskop/) | 0.4.8 |  | 340.6 kB | Analysis of networks and of vectors defined on their nodes. |
-| 2026-10-13 13:33:38 | [decane-sdk](https://pypi.org/project/decane-sdk/) | 0.8.0 | Decane <dev@decane.io> | 32.3 kB | Official Python SDK for Decane — institutional liquidity rail for crypto settle… |
-| 2026-10-13 13:35:39 | [pyw-algebra](https://pypi.org/project/pyw-algebra/) | 0.1.0 | pyw contributors | 241.5 kB | SageMath-based root system and affine Lie algebra computations |
-| 2026-10-13 13:38:45 | [sysdiagd](https://pypi.org/project/sysdiagd/) | 1.2.1 | dev <dev@example.com> | 26.9 kB | Herramienta de diagnostico y monitoreo de sistema |
-| 2026-10-13 13:39:33 | [ownSQL](https://pypi.org/project/ownSQL/) | 1.0.0 | TimonW-Dev | 17.9 kB | A MySQL database driver for MicroPython, supporting MySQL Server 8.x and 9.x. |
-| 2026-10-13 13:44:50 | [mixradix](https://pypi.org/project/mixradix/) | 0.1.0 | yilmazhasan | 71.1 kB | Add, subtract and convert integers of any size in mixed radix bases (like 24:60… |
-| 2026-10-13 13:46:39 | [retrievalci](https://pypi.org/project/retrievalci/) | 0.2.0 |  | 138.8 kB | Evidence-aware regression checks for retrieval systems |
-| 2026-10-13 13:46:44 | [patchproof-ai](https://pypi.org/project/patchproof-ai/) | 0.2.0 |  | 123.1 kB | Evidence-backed fail-before/pass-after verification for Python patches |
-| 2026-10-13 13:48:12 | [blendedUx-Lang-Test](https://pypi.org/project/blendedUx-Lang-Test/) | 0.0.1 | DBM | 462.3 kB | Blended Command Line Application |
-| 2026-10-13 13:48:25 | [memorylint-ai](https://pypi.org/project/memorylint-ai/) | 0.2.0 |  | 176.2 kB | Evidence-backed checks for explicit repository memory claims |
-| 2026-10-13 13:53:46 | [citysmith](https://pypi.org/project/citysmith/) | 0.2.0 | banecronotse | 1.1 MB | Command line toolkit for CityGML 2.0 buildings: derive lower LODs, complete sem… |
-| 2026-10-13 13:56:13 | [langchain-recall](https://pypi.org/project/langchain-recall/) | 0.1.0 |  | 32.6 kB | LangChain and LangGraph integration for Recall, long-term memory for AI agents:… |
-| 2026-10-13 13:56:34 | [openai-agents-recall](https://pypi.org/project/openai-agents-recall/) | 0.1.0 |  | 22.5 kB | OpenAI Agents SDK integration for Recall, long-term memory for AI agents: a ses… |
-| 2026-10-13 13:57:00 | [crewai-recall](https://pypi.org/project/crewai-recall/) | 0.1.0 |  | 15.2 kB | CrewAI integration for Recall, long-term memory for AI agents: tools to search,… |
-| 2026-10-13 13:57:28 | [evalstone](https://pypi.org/project/evalstone/) | 0.1.0 | Marcelo Ribeiro | 148.3 kB | The plug-and-play evals layer for LLM-based projects: datasets, checks, suites,… |
-| 2026-10-13 13:57:40 | [slim-serve](https://pypi.org/project/slim-serve/) | 0.1.0 |  | 244.5 kB | A small, observable inference server for local small language models (llama.cpp… |
-| 2026-10-13 14:02:18 | [py-azure-devops-sdk](https://pypi.org/project/py-azure-devops-sdk/) | 0.1.0 | "ZenProgramming.it" <zenprogr… | 15.7 kB | A typed Python SDK for Azure DevOps Work Item management |
-| 2026-10-13 14:02:37 | [ournotes-sim](https://pypi.org/project/ournotes-sim/) | 0.0.7 |  | 6.0 MB | The BanG Dream! Our Notes deck model (ournotes-sim) for Python: chart statistic… |
-| 2026-10-13 14:03:51 | [novi-confidence-intervals](https://pypi.org/project/novi-confidence-intervals/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 832 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
-| 2026-10-13 14:03:52 | [novi-model-serialization](https://pypi.org/project/novi-model-serialization/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 837 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
-| 2026-10-13 14:03:53 | [novi-pmi-paths](https://pypi.org/project/novi-pmi-paths/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 824 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
-| 2026-10-13 14:03:54 | [novi-survey-features](https://pypi.org/project/novi-survey-features/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 834 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
-| 2026-10-13 14:05:24 | [slom](https://pypi.org/project/slom/) | 0.1.0 |  | 203.8 kB | Durable, tool-using agents for small language models, with a SQLite-journaled e… |
-| 2026-10-13 14:06:55 | [dumph](https://pypi.org/project/dumph/) | 1.1.2 |  | 3.2 MB | Philippine mock data generator and python bindings for local dataset seeding, d… |
-| 2026-10-13 14:09:21 | [gemsmap](https://pypi.org/project/gemsmap/) | 0.3.0b1 | Bruno Batista | 985.4 kB | GEMs MAP: an interactive workbench for genome-scale metabolic models (COBRApy a… |
-| 2026-10-13 14:10:31 | [fair-ca-visualization](https://pypi.org/project/fair-ca-visualization/) | 0.4.0 | Matthias König <konigmatt@goo… | 829.9 kB | Interactive visualization of the FAIR COMBINE Archive Indicators (FAIR-CA) for… |
-| 2026-10-13 14:11:01 | [wiltech-labs-ai](https://pypi.org/project/wiltech-labs-ai/) | 1.0.1 | Wiliam Ferraciolli | 44.1 kB | AI building blocks for Wiltech FastAPI apps: Workers AI / Groq / Ollama behind… |
-| 2026-10-13 14:11:45 | [wiltech-labs-auth](https://pypi.org/project/wiltech-labs-auth/) | 1.0.1 | Wiliam Ferraciolli | 29.1 kB | Authentication and authorization for Wiltech FastAPI apps: Clerk JWT verificati… |
-| 2026-10-13 14:12:09 | [wiltech-labs-core](https://pypi.org/project/wiltech-labs-core/) | 1.0.1 | Wiliam Ferraciolli | 27.7 kB | Runtime plumbing for Wiltech FastAPI apps: config from Worker env or .env, a po… |
-| 2026-10-13 14:13:25 | [rustgis](https://pypi.org/project/rustgis/) | 0.2.0 | Qiusheng Wu <giswqs@gmail.com> | 53.2 MB | Python bindings to RustGIS, a fast, free and open-source GIS in pure Rust |
-| 2026-10-13 14:14:09 | [r9cam-models](https://pypi.org/project/r9cam-models/) | 0.6.0 | Simon van Lierde | 29.6 kB | Shared Pydantic models for R9lab Raspberry Pi Camera plugin models |
-| 2026-10-13 14:16:47 | [llama-index-tools-econdash](https://pypi.org/project/llama-index-tools-econdash/) | 0.1.1 | EconDash <noderguru@gmail.com> | 17.2 kB | LlamaIndex tools and a reader for EconDash time series across ten categories: m… |
-| 2026-10-13 14:17:12 | [tros](https://pypi.org/project/tros/) | 0.1.0 |  | 37.9 kB |  |
-| 2026-10-13 14:17:54 | [pipecat-sprag](https://pypi.org/project/pipecat-sprag/) | 0.1.0 | Sprag AI Inc. | 20.8 kB | Sprag speech and language models for Pipecat: Rhythm STT, Symphony LLM, and Cho… |
+| 2026-10-13 14:13:42 | [wagtail-streamfield-presets](https://pypi.org/project/wagtail-streamfield-presets/) | 0.1.0 |  | 16.0 kB | Predefined sets of blocks that editors can load into a Wagtail StreamField. |
+| 2026-10-13 14:20:16 | [meetnote](https://pypi.org/project/meetnote/) | 1.0.0 | Giovanni Ciatto | 33.2 kB | A template for Python projects, using Poetry |
+| 2026-10-13 14:21:45 | [cardkit-anim](https://pypi.org/project/cardkit-anim/) | 0.1.0 | Carlo Alberto Barbano | 72.9 kB | Write an animated scene once in Python and export it as GIF, WebP, MP4 and a lo… |
+| 2026-10-13 14:21:55 | [zapserve](https://pypi.org/project/zapserve/) | 0.0.1 | Seu Nome <seuemail@dominio.co… | 23.3 kB | Sistema de atendimento e agendamento via WhatsApp. |
+| 2026-10-13 14:22:22 | [thewariend-musclememory](https://pypi.org/project/thewariend-musclememory/) | 0.1.1 | TheWariend | 1.5 MB | Open-source procedural memory for AI agents: learns from what worked and what f… |
+| 2026-10-13 14:22:30 | [rdm-ppl](https://pypi.org/project/rdm-ppl/) | 0.1.0 |  | 4.0 kB | Create random personal data. |
+| 2026-10-13 14:24:08 | [insta-shop-decoder](https://pypi.org/project/insta-shop-decoder/) | 0.1.0 |  | 250.0 kB | Binary-only SecureDecode JSON response decoder |
+| 2026-10-13 14:24:57 | [digital-land-frontend](https://pypi.org/project/digital-land-frontend/) | 0.8.0 | MHCLG Planning Data Team <Dig… | 478.6 kB | Reusable frontend code for digital land services and products |
+| 2026-10-13 14:26:12 | [numerical-analysis-team](https://pypi.org/project/numerical-analysis-team/) | 0.0.1 | NOISYMOON | 7.3 kB | Textbook numerical analysis methods for a university course, with iteration his… |
+| 2026-10-13 14:27:12 | [hushscript](https://pypi.org/project/hushscript/) | 1.0.0 | Hushscript <support@hushscrip… | 416.8 kB | The official Python SDK for the Hushscript transcription API. |
+| 2026-10-13 14:28:05 | [ms-service-utils](https://pypi.org/project/ms-service-utils/) | 1.0.2 | Ms Service Technology, co., l… | 3.2 MB | Desktop service infrastructure library (C++ protected) |
+| 2026-10-13 14:31:40 | [aimlexp](https://pypi.org/project/aimlexp/) | 0.1.0 | AIML Student <student@example… | 25.9 kB | Quick CLI reference, runner, and exporter for AIML and Machine Learning lab exp… |
+| 2026-10-13 14:33:13 | [uvloop-te2](https://pypi.org/project/uvloop-te2/) | 0.23.0.post1 | Yury Selivanov <yury@magic.io> | 2.6 MB | TE2 Termux build of upstream uvloop (Android arm64, CPython 3.14) |
+| 2026-10-13 14:35:08 | [archipy-temporal](https://pypi.org/project/archipy-temporal/) | 5.11.0 | Hossein Nejati <hosseinnejati… | 36.7 kB | ArchiPy temporal adapter. |
+| 2026-10-13 14:35:09 | [archipy-vault](https://pypi.org/project/archipy-vault/) | 5.11.0 | Hossein Nejati <hosseinnejati… | 14.6 kB | ArchiPy vault adapter. |
+| 2026-10-13 14:35:28 | [gympn](https://pypi.org/project/gympn/) | 0.1.0 | Riccardo Lo Bianco <r.lo.bian… | 263.8 kB | Reinforcement learning on Action-Evolution Petri Nets: model business processes… |
+| 2026-10-13 14:36:42 | [migatte](https://pypi.org/project/migatte/) | 0.3.1 |  | 393.9 kB | Allow what you trust, ask when it matters, block everything else. Access contro… |
+| 2026-10-13 14:36:45 | [sitetus-collector](https://pypi.org/project/sitetus-collector/) | 0.1.1 | Codemarkt | 71.8 kB | Read-only Sitetus collector for Python web applications: answers the panel's si… |
+| 2026-10-13 14:38:17 | [pyonset](https://pypi.org/project/pyonset/) | 1.2.2 | Christian Palmroos <chospa@ut… | 1.3 MB |  |
+| 2026-10-13 14:41:23 | [scipion-em-pytom-tm](https://pypi.org/project/scipion-em-pytom-tm/) | 3.0.1 | Scipion Team <scipion@cnb.csi… | 99.1 kB | Plugin to use pytom_tm within the Scipion framework |
+| 2026-10-13 14:41:34 | [binaryrain-fabric-local-pyspark](https://pypi.org/project/binaryrain-fabric-local-pyspark/) | 0.1.3 | Binary Rain, Marcel T.O | 19.0 kB | This tool can be used for local fabric development by providing a local caching… |
+| 2026-10-13 14:42:46 | [loopgrid-langchain](https://pypi.org/project/loopgrid-langchain/) | 0.1.0 | LoopGrid | 62.7 kB | Native LangChain agent middleware for LoopGrid signed decision evidence, policy… |
+| 2026-10-13 14:45:06 | [fine-t-cell](https://pypi.org/project/fine-t-cell/) | 1.0 | Josua Stadelmaier <josua.stad… | 677.0 kB | Predict T-cell response for peptide sequences with the FINE-T model |
+| 2026-10-13 14:46:02 | [bria-vgl](https://pypi.org/project/bria-vgl/) | 0.1.0 | Bria AI | 88.2 kB | Turn a prompt, or images plus a prompt, into a structured JSON scene descriptio… |
+| 2026-10-13 14:47:09 | [wodbuster-mcp-bridge](https://pypi.org/project/wodbuster-mcp-bridge/) | 0.1.0 |  | 13.1 kB | Unofficial: connect MCP clients to a wodbuster-api server, logging in from envi… |
+| 2026-10-13 14:47:57 | [veydeck-suite-runtime-sdk](https://pypi.org/project/veydeck-suite-runtime-sdk/) | 0.1.0a1 |  | 37.9 kB | Veydeck trusted suite backend runtime SDK |
+| 2026-10-13 14:48:23 | [simuten](https://pypi.org/project/simuten/) | 0.2.0rc1 | The SimUTeN Authors | 717.5 kB | SimUTeN: motor de simulación multiparadigma (DES, SD, ABM) para docencia e inve… |
+| 2026-10-13 14:48:41 | [sensityper](https://pypi.org/project/sensityper/) | 1.0.1 | Daniel Golparian, Leonor Sánc… | 558.5 kB | Genomic antimicrobial susceptibility prediction and treatment recommendation fo… |
+| 2026-10-13 14:49:54 | [odoo-addon-maintenance-location-hr](https://pypi.org/project/odoo-addon-maintenance-location-hr/) | 18.0.1.0.0.3 | Dixmit,Odoo Community Associa… | 26.1 kB | Assign equipments to locations |
+| 2026-10-13 14:50:10 | [kompend](https://pypi.org/project/kompend/) | 2026.10.4 | Jan Reimes <jan@reimes.de> | 15.2 MB | Compile a document corpus into an interlinked, OKF-conformant markdown wiki |
+| 2026-10-13 14:50:23 | [moodlectl](https://pypi.org/project/moodlectl/) | 1.1.0 | Giovanni Ciatto <giovanni.cia… | 87.0 kB | Moodle course resources CLI and Python API with browser SSO and optional REST w… |
+| 2026-10-13 14:50:29 | [indra-ocr](https://pypi.org/project/indra-ocr/) | 0.3.0 |  | 156.2 kB | Fast CPU OCR: line detection, CTC recognition, reading order and markdown, on O… |
+| 2026-10-13 14:51:32 | [catalog-normalizer](https://pypi.org/project/catalog-normalizer/) | 0.1.0 | Diondre Edwards <diondredev@g… | 52.8 kB | Fault-tolerant normalization and validation for messy product CSV data |
+| 2026-10-13 14:52:45 | [caddforge-core](https://pypi.org/project/caddforge-core/) | 0.22.0 | Manuel Sellner <manuel.sellne… | 285.7 kB | Core abstractions, CLI, and plugin system for the CADDForge toolbox. |
+| 2026-10-13 14:53:05 | [simuten-server](https://pypi.org/project/simuten-server/) | 0.2.0rc1 | The SimUTeN Authors | 2.2 MB | Servidor local de SimUTeN Studio: API HTTP/WS, gestor de corridas y CLI «simute… |
+| 2026-10-13 14:53:30 | [mdmint](https://pypi.org/project/mdmint/) | 0.2.0rc1 | Antonio Olleros <antonio.olle… | 111.7 kB | Export Markdown files to DOCX and/or PDF. Pure-Python, cross-platform, minimal… |
+| 2026-10-13 14:53:52 | [phtm403](https://pypi.org/project/phtm403/) | 0.1.0 | GL3NN | 2.8 kB | A lightweight Python utility library |
+| 2026-10-13 14:54:09 | [zals](https://pypi.org/project/zals/) | 0.1.0 | kksat | 7.5 MB | Zig Ansible Language Server |
+| 2026-10-13 14:54:59 | [mcptui](https://pypi.org/project/mcptui/) | 0.1.2 | kimarsen, mcptui contributors | 334.5 kB | The Postman for MCP — Terminal UI & playground for Model Context Protocol |
+| 2026-10-13 14:56:28 | [ClimateGraph](https://pypi.org/project/ClimateGraph/) | 0.4.0 | Antonio Andrés Torga Mellado… | 139.3 kB | A CLI tool for graphing Climate Data |
+| 2026-10-13 14:56:58 | [topian](https://pypi.org/project/topian/) | 0.1.2 | Tim Lebel | 48.8 kB | SDK for Topian AI |
+| 2026-10-13 15:01:38 | [hpptest123](https://pypi.org/project/hpptest123/) | 0.1.0 |  | 2.3 kB | Add your description here |
+| 2026-10-13 15:01:39 | [caddforge-qm](https://pypi.org/project/caddforge-qm/) | 0.3.0 | Manuel Sellner <manuel.sellne… | 37.5 kB | Quantum mechanics workflows for the CADDForge toolbox. |
+| 2026-10-13 15:02:03 | [caddforge-ml](https://pypi.org/project/caddforge-ml/) | 0.4.0 | Manuel Sellner <manuel.sellne… | 92.0 kB | Machine learning workflows for the CADDForge toolbox. |
+| 2026-10-13 15:02:42 | [tributo](https://pypi.org/project/tributo/) | 1.1.0 | Tributo Contributors | 2.5 MB | Ray-native machine learning SDK for distributed data, training, model bundles,… |
+| 2026-10-13 15:02:54 | [mcp-server-taxcode](https://pypi.org/project/mcp-server-taxcode/) | 0.1.2 | Christian Claudio <christianc… | 454.1 kB | Enterprise Model Context Protocol (MCP) server for Tax Code |
+| 2026-10-13 15:04:18 | [caddforge-gui](https://pypi.org/project/caddforge-gui/) | 0.6.0 | Manuel Sellner <manuel.sellne… | 191.3 kB | FastAPI-based GUI server and web UI for CADDForge. |
+| 2026-10-13 15:05:01 | [caddforge-datascience](https://pypi.org/project/caddforge-datascience/) | 0.5.0 | Manuel Sellner <manuel.sellne… | 41.5 kB | Data science utilities for the CADDForge toolbox (CSV plotting, profiling, etc.… |
+| 2026-10-13 15:08:34 | [caddforge-descriptors](https://pypi.org/project/caddforge-descriptors/) | 0.11.0 | Manuel Sellner <manuel.sellne… | 78.6 kB | Molecular descriptor workflows for the CADDForge toolbox. |
+| 2026-10-13 15:09:49 | [spanhound](https://pypi.org/project/spanhound/) | 0.4.1 | Abhishek Ash <ash.abhishek@gm… | 10.5 MB | Read-only MCP queries for local agent JSONL and OTLP JSON traces, approvals, an… |
+| 2026-10-13 15:10:12 | [cumulus-library-pcx](https://pypi.org/project/cumulus-library-pcx/) | 0.4.0 |  | 317.7 kB | PCX methotrexate study: rendered Cumulus SQL and data files, no Python code. |
+| 2026-10-13 15:10:20 | [django-admin-filter-kit](https://pypi.org/project/django-admin-filter-kit/) | 0.1.0 | Nick | 20.1 kB | Админка Django: фильтр с подсказками и сворачиваемая панель фильтров · Django a… |
+| 2026-10-13 15:11:15 | [prproj-parser](https://pypi.org/project/prproj-parser/) | 0.1.0 | catastrofia | 106.5 kB | Efficient parser for Adobe Premiere Pro .prproj project files |
+| 2026-10-13 15:13:57 | [dejabug](https://pypi.org/project/dejabug/) | 0.1.0 | Ferrey Adinarta | 70.7 kB | Turn a screen recording of a bug into a test that fails the same way. |
+| 2026-10-13 15:14:44 | [undata](https://pypi.org/project/undata/) | 0.1.0 | Nerd Lab contributors | 78.2 kB | UN data in Python, without the guessing: a friendly, unofficial client for the… |
+| 2026-10-13 15:15:54 | [hece-gdal](https://pypi.org/project/hece-gdal/) | 3.10.2 | Frank Warmerdam, Howard Butle… | 187.2 MB | GDAL 3.10.2 Python bindings for Windows: the wheels of Christoph Gohlke repacka… |
+| 2026-10-13 15:17:12 | [pandaaas](https://pypi.org/project/pandaaas/) | 0.1.0 | pandaaas maintainers | 28.5 kB | A Python code exporter package for predefined experiment templates. |

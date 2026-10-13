@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-10-13T13:19:20.78963Z",
-    "path": "data/new-packages-2026-10-13T14-19-22-342945Z.csv",
-    "to": "2026-10-13T14:19:22.342945Z"
+    "count": 57,
+    "from": "2026-10-13T14:19:22.342945Z",
+    "path": "data/new-packages-2026-10-13T15-18-37-632845Z.csv",
+    "to": "2026-10-13T15:18:37.632845Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-13T14:23:52Z",
+      "package": "adaptive-rag-py",
+      "since": "2026-10-13T14:19:22.342945Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-13T11:54:30Z",
       "package": "alqari-mcp",
       "since": "2026-10-13T11:18:42.771825Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-13T11:20:32Z",
       "package": "likertia",
       "since": "2026-10-13T11:18:42.771825Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-13T14:13:42Z",
-      "package": "wagtail-streamfield-presets",
-      "since": "2026-10-13T13:19:20.78963Z"
     }
   ],
-  "serial": 42183162,
+  "serial": 42186807,
   "source_truncated": false,
-  "window": "2026-10-13T14:19:22.342945Z"
+  "window": "2026-10-13T15:18:37.632845Z"
 }
