@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T03:19:32Z,matcorr,3.10.0,Isaías Rodríguez <isurwars@gmail.com>,AGPL-3.0-only,5549187,"Materials Correlation: high-performance structural analysis for liquids, amorphous solids, and nanostructures"
+2026-10-13T06:21:14Z,vnpykit,0.1.0a1,VNPyKit contributors,Apache-2.0,27013,Browser-native Python application framework
+2026-10-13T06:22:15Z,rapidocr-ng,5.0.0a1,SWHL <liekkaskono@163.com>,Apache-2.0,34543152,RapidOCR 5 (rapidocr_ng): PP-OCRv6 with the native engine; import name rapidocr
+2026-10-13T06:24:25Z,clistech-authkit,0.8.1,Khajan Singh,MIT,310072,"Async, reusable Django accounts: password auth, email verification, 2FA, Firebase phone auth and JWT sessions, with a Django Bolt API (JSON + MessagePack)."
+2026-10-13T06:25:16Z,veefore-py,1.1.0,VEEFORE,Apache-2.0,45333,VEEFORE SDK for Python agent runtimes.
+2026-10-13T06:25:38Z,murmurvault,0.1.0,Isaac C. F. Wong,BSD-3-Clause,396337,"Local-first recording, transcription and semantic search for meetings and voice notes."
+2026-10-13T06:26:56Z,sl-economy-mcp,0.1.0,Akash Wimalananda,MIT,137650,Unofficial MCP server for live Sri Lankan economic data from the Central Bank of Sri Lanka (CBSL).
+2026-10-13T06:28:41Z,omnidecision,0.0.1,,Apache-2.0,10673,OmniDecision
+2026-10-13T06:28:57Z,truedemo,2.0.0,Anindyasundar Bera,Apache-2.0,532322,"Create narrated, captioned demo videos of software — a real browser UI, a real terminal command, or a document it produces — from a declarative spec plus your own data; then reopen the .mp4 and verif…"
+2026-10-13T06:29:40Z,hermes-plugin-qdrant-memory,0.2.0,,MIT,200370,"Durable Qdrant memory for Hermes, standalone CLI and local MCP"
+2026-10-13T06:31:24Z,vishap-analyzer,5.8.0,David <hndavid9@yahoo.com>,AGPL-3.0-or-later,144753,"Vishap - multi-material IT analyst (code, config, spec, logs, data). 6-stage LLM pipeline with SAST/SCA, SARIF 2.1.0, OWASP Top 10, audit trail (SHA-256), provenance, exploitability."
+2026-10-13T06:34:02Z,neurocran,0.1.0,Anurodh Lodhi,LicenseRef-NeuroCran-Proprietary,34022,"A custom deep learning framework requiring NumPy, Pandas, and CuPy."
+2026-10-13T06:34:49Z,qdrant-memory-mcp,0.1.0,,MIT,36476,Metadata-only stdio MCP distribution of the Qdrant Memory Runtime
+2026-10-13T06:39:38Z,vllm-torchtpu-core-test,0.29.0rc1,vLLM TorchTPU Contributors,,1715312,
+2026-10-13T06:45:38Z,pynatlas,0.1.0,Nazeh Abel,Apache-2.0,129413,"Python SDK, OpenAI-compatible server and benchmark kit for N-ATLaS, Nigeria's open multilingual LLM"
+2026-10-13T06:46:00Z,figen-connect-service,0.0.1,Figen SAS,,2254,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-13T06:46:06Z,figenai-docs-library,0.0.1,Figen SAS,,2237,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-13T06:46:12Z,figenai-newsletter,0.0.1,Figen SAS,,2203,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-13T06:46:17Z,figenai-calculator,0.0.1,Figen SAS,,2208,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-13T06:47:40Z,autotype-input,0.1.0,DEBAYAN DEY,,5972,Automatic datatype detection and conversion for python input
+2026-10-13T06:49:22Z,mtex,1.0.0,Ralf Hielscher,GPL-2.0-only,5669517,"MTEX, the crystallographic texture analysis toolbox, in Python"
+2026-10-13T06:49:52Z,mcp-guard-audit,0.3.0,ianewsfr-a11y,MIT,87636,"Security audit CLI for MCP servers and AI agents: risky tools, tool poisoning, leaked secrets"
+2026-10-13T06:54:14Z,keystone-mcp-gateway,0.5.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",646910,OAuth 2.1 MCP server that fronts one or more upstream MCP servers with policy-file-driven RBAC
+2026-10-13T06:57:12Z,payshen,0.1.0,Sodasoft LLC,MIT,32166,"Python client for the Payshen payment orchestration API: payments, captures, voids, refunds, events and webhook verification."
+2026-10-13T06:57:49Z,hmcpctl,0.0.0,,MIT,1838,Name reserved for the hmc-mcp project. Install from https://github.com/randomparity/hmc-mcp at a release tag.
+2026-10-13T06:59:16Z,file-upload-rpa,0.1.0,Ishan Dutta <ishandutta2007@gmail.com>,MIT,38380,Automated vision-based file upload CLI and library using PyAutoGUI and PyGetWindow.
+2026-10-13T07:00:49Z,asp-iam,0.1.1,Kxvya18,MIT,131323,Agent Scoped Permissions: record the AWS calls your code (or AI agent) makes and get the least-privilege IAM policy
+2026-10-13T07:01:04Z,sha-1024,1.0.0,TheUltimateGenius4999,Apache-2.0,7472,A potential build for a 1024-bit SHA2 implementation.
+2026-10-13T07:03:03Z,glue-doctor,0.1.0,Vinicius Pereira <vp.vinicius.pereira@gmail.com>,Apache-2.0,56251,"Audit CLI for AWS Glue jobs: timeouts, Glue versions and observability settings"
+2026-10-13T07:04:06Z,aa-tui,0.1.0,Maxwell Ludden,,34876,Add your description here
+2026-10-13T07:06:04Z,vitruvian-tool-kit,0.10.0,VitruvianSoftware,MIT,44019,"Write a tool for the Vitruvian app in Python: declare its commands, handle them, call the app."
+2026-10-13T07:07:48Z,zcbot,1.8.8,kuangxing6367,MIT OR Apache-2.0,11416602,ZCBOT 事件驱动 IM 平台：内核 + 扩展点契约 + 协议无关接入端（内置 OneBot 11 / QQ 官方 / Telegram / Discord）
+2026-10-13T07:08:23Z,nl2data-workflow-postgres,0.1.0,NL2Data Contributors,Apache-2.0,55413,PostgreSQL-backed durable workflow state backend for nl2data-core.
+2026-10-13T07:09:01Z,PyAETNA,4.0.0,Gaetano Scandariato <gaetano.scandariato@inaf.it>,MIT,988683,Python Accelerated Exoplanet Toolkit and Noise Analysis - JAX-accelerated joint modelling of exoplanet light curves and radial velocities
+2026-10-13T07:13:13Z,rnaverse,0.1.0,Jianbo Ma <majbchiya@outlook.com>,"MIT License Copyright (c) 2026 RNAverse Permission is hereby granted, free of charge, to any person…",76047,"A multimodal RNA foundation model that jointly learns from sequence, structural, and functional data to enable both predictive modeling and generative design."

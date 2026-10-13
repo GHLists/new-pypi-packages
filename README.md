@@ -8,41 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 06:20 UTC
+## Latest list — 2026-10-13 07:18 UTC
 
-New packages created between 2026-10-13 05:19 UTC and 2026-10-13 06:20 UTC.
+New packages created between 2026-10-13 06:20 UTC and 2026-10-13 07:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-13T06-20-01-913676Z.csv)
+[Full CSV](data/new-packages-2026-10-13T07-18-38-479478Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-13 05:24:34 | [shipfast-mcp](https://pypi.org/project/shipfast-mcp/) | 0.1.0 | QuocTang | 130.5 kB | MCP server phân phối quy trình làm việc theo đợt giữa PO và AI (Điều hành, agen… |
-| 2026-10-13 05:25:28 | [enigmata-demo-api](https://pypi.org/project/enigmata-demo-api/) | 0.0.0a0 | Enigmata, Inc. | 913 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-13 05:26:30 | [enigmata-gtm-api](https://pypi.org/project/enigmata-gtm-api/) | 0.0.0a0 | Enigmata, Inc. | 917 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-13 05:26:32 | [enigmata-platform-control](https://pypi.org/project/enigmata-platform-control/) | 0.0.0a0 | Enigmata, Inc. | 923 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-13 05:26:33 | [enigmata-platform-edge-agents](https://pypi.org/project/enigmata-platform-edge-agents/) | 0.0.0a0 | Enigmata, Inc. | 931 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-13 05:26:37 | [toy-cli-shatvik](https://pypi.org/project/toy-cli-shatvik/) | 0.1.0 |  | 2.9 kB | A tiny package practice |
-| 2026-10-13 05:27:18 | [aema](https://pypi.org/project/aema/) | 0.1.0 | Sumit Das <sumitds2005@gmail.… | 40.3 kB | Adaptive Experience Memory Agent — reliability-aware experiential memory with t… |
-| 2026-10-13 05:27:43 | [SQL-functions](https://pypi.org/project/SQL-functions/) | 0.1.0 | Arian Nameii | 54.2 kB | Reusable SQL query utilities |
-| 2026-10-13 05:29:09 | [pymecheye](https://pypi.org/project/pymecheye/) | 0.1.0 |  | 273.3 kB | High-performance nanobind bindings and NumPy utilities for Mech-Eye 3D cameras,… |
-| 2026-10-13 05:40:05 | [xmtr](https://pypi.org/project/xmtr/) | 0.2.5 | Alice39s <xmtr.opensource@xms… | 20.9 MB | Concurrent traceroute that maps every hop on xmsl.dev IPMap |
-| 2026-10-13 05:41:22 | [pyscrh](https://pypi.org/project/pyscrh/) | 0.1.0 | 魔丸编程 <17516332069@163.com> | 14.4 kB | A tiny Scratch-style sprite library built on pygame, for people moving from Scr… |
-| 2026-10-13 05:45:14 | [oxidmol](https://pypi.org/project/oxidmol/) | 0.1.1 | alxndrpi | 24.8 MB | Add your description here |
-| 2026-10-13 05:45:25 | [axiomere](https://pypi.org/project/axiomere/) | 0.1.0 |  | 163.6 kB |  |
-| 2026-10-13 05:45:35 | [tekmerion](https://pypi.org/project/tekmerion/) | 0.1.0 |  | 568.5 kB |  |
-| 2026-10-13 05:50:06 | [portlab](https://pypi.org/project/portlab/) | 0.1.0 |  | 149.1 kB |  |
-| 2026-10-13 05:50:44 | [piloop](https://pypi.org/project/piloop/) | 0.1.0 | Autoresearch, Inc. | 892.5 kB | Autoresearch for any repo: coding agents try ideas, piloop scores every commit… |
-| 2026-10-13 05:51:07 | [afsar](https://pypi.org/project/afsar/) | 1.0 |  | 83.2 kB | LLM API library for students utilizing local agents or remote APIs |
-| 2026-10-13 05:51:13 | [atengk-mcp-server-reverse](https://pypi.org/project/atengk-mcp-server-reverse/) | 1.0.0 | Ateng | 283.0 kB | 专为 AI Agent 打造的跨平台二进制静态逆向分析与数字取证 MCP Server（原生支持 PE / ELF / Mach-O，内置 LIEF + Ca… |
-| 2026-10-13 06:01:58 | [rust-motion](https://pypi.org/project/rust-motion/) | 1.0.0 | Rust Motion Contributors | 28.5 MB | High-performance browser-free programmatic video rendering engine for Python |
-| 2026-10-13 06:03:37 | [upfront](https://pypi.org/project/upfront/) | 0.1.0 | Thanatchon | 386.6 kB | See how many tokens your MCP servers, skills and instruction files cost a codin… |
-| 2026-10-13 06:04:07 | [nginx-proxy-manager-mcp-server](https://pypi.org/project/nginx-proxy-manager-mcp-server/) | 0.5.1 | Euisuh Jeong | 49.0 kB | MCP server for Nginx Proxy Manager: proxy hosts, certificates, streams and acce… |
-| 2026-10-13 06:07:26 | [arczk-agent](https://pypi.org/project/arczk-agent/) | 0.1.1 | Trymbak Mahant <trymbakmahant… | 28.6 kB | Autonomous AI Agent SDK for ArcNano Shielded Zero-Knowledge Nanopayments on Arc |
-| 2026-10-13 06:08:17 | [anything-helper](https://pypi.org/project/anything-helper/) | 1.0.0 |  | 4.9 kB | 这是一个万能助手 |
-| 2026-10-13 06:08:25 | [seisvtk](https://pypi.org/project/seisvtk/) | 0.1.0 | Aashrit <aashrith12345@gmail.… | 131.6 kB | Server-side 3D seismic cross-section viewer (trame + VTK) with a VTK-free I/O c… |
-| 2026-10-13 06:09:16 | [pypad-notebook](https://pypi.org/project/pypad-notebook/) | 0.1.0 | Philip Lewis | 84.4 kB | Read, write and convert PyPad notebooks (.pypad.py) and Jupyter notebooks (.ipy… |
-| 2026-10-13 06:09:44 | [tree-police](https://pypi.org/project/tree-police/) | 0.2.0 |  | 80.8 MB | Ripgrep-style AST scanner with baked-in tree-sitter queries and severity levels |
-| 2026-10-13 06:11:51 | [preflight-check-cli](https://pypi.org/project/preflight-check-cli/) | 1.0.1 | 刘达 <1036179451@qq.com> | 733.4 kB | 上线前的自动评审：把自动检查、文档漂移和人工签核收拢成一次运行 |
-| 2026-10-13 06:11:57 | [sciwidgets](https://pypi.org/project/sciwidgets/) | 0.1.2 | Vahid Anari <vahid.anari8@gma… | 153.4 kB | PySide6 widgets for scientific desktop apps: math labels, sliders, parameter in… |
-| 2026-10-13 06:12:08 | [secintel-mcp](https://pypi.org/project/secintel-mcp/) | 0.0.1 | Changhyun Kim | 9.7 kB | MCP server for public vulnerability intelligence (NVD, OSV, FIRST EPSS, CISA KE… |
-| 2026-10-13 06:18:04 | [speexdsp-aec](https://pypi.org/project/speexdsp-aec/) | 0.1.0 | Xmov | 10.7 kB | ctypes 封装 libspeexdsp (Xiph) 的流式声学回声消除 (AEC) — 零编译纯 Python 轮子 |
+| 2026-10-13 03:19:32 | [matcorr](https://pypi.org/project/matcorr/) | 3.10.0 | Isaías Rodríguez <isurwars@gm… | 5.5 MB | Materials Correlation: high-performance structural analysis for liquids, amorph… |
+| 2026-10-13 06:21:14 | [vnpykit](https://pypi.org/project/vnpykit/) | 0.1.0a1 | VNPyKit contributors | 27.0 kB | Browser-native Python application framework |
+| 2026-10-13 06:22:15 | [rapidocr-ng](https://pypi.org/project/rapidocr-ng/) | 5.0.0a1 | SWHL <liekkaskono@163.com> | 34.5 MB | RapidOCR 5 (rapidocr_ng): PP-OCRv6 with the native engine; import name rapidocr |
+| 2026-10-13 06:24:25 | [clistech-authkit](https://pypi.org/project/clistech-authkit/) | 0.8.1 | Khajan Singh | 310.1 kB | Async, reusable Django accounts: password auth, email verification, 2FA, Fireba… |
+| 2026-10-13 06:25:16 | [veefore-py](https://pypi.org/project/veefore-py/) | 1.1.0 | VEEFORE | 45.3 kB | VEEFORE SDK for Python agent runtimes. |
+| 2026-10-13 06:25:38 | [murmurvault](https://pypi.org/project/murmurvault/) | 0.1.0 | Isaac C. F. Wong | 396.3 kB | Local-first recording, transcription and semantic search for meetings and voice… |
+| 2026-10-13 06:26:56 | [sl-economy-mcp](https://pypi.org/project/sl-economy-mcp/) | 0.1.0 | Akash Wimalananda | 137.7 kB | Unofficial MCP server for live Sri Lankan economic data from the Central Bank o… |
+| 2026-10-13 06:28:41 | [omnidecision](https://pypi.org/project/omnidecision/) | 0.0.1 |  | 10.7 kB | OmniDecision |
+| 2026-10-13 06:28:57 | [truedemo](https://pypi.org/project/truedemo/) | 2.0.0 | Anindyasundar Bera | 532.3 kB | Create narrated, captioned demo videos of software — a real browser UI, a real… |
+| 2026-10-13 06:29:40 | [hermes-plugin-qdrant-memory](https://pypi.org/project/hermes-plugin-qdrant-memory/) | 0.2.0 |  | 200.4 kB | Durable Qdrant memory for Hermes, standalone CLI and local MCP |
+| 2026-10-13 06:31:24 | [vishap-analyzer](https://pypi.org/project/vishap-analyzer/) | 5.8.0 | David <hndavid9@yahoo.com> | 144.8 kB | Vishap - multi-material IT analyst (code, config, spec, logs, data). 6-stage LL… |
+| 2026-10-13 06:34:02 | [neurocran](https://pypi.org/project/neurocran/) | 0.1.0 | Anurodh Lodhi | 34.0 kB | A custom deep learning framework requiring NumPy, Pandas, and CuPy. |
+| 2026-10-13 06:34:49 | [qdrant-memory-mcp](https://pypi.org/project/qdrant-memory-mcp/) | 0.1.0 |  | 36.5 kB | Metadata-only stdio MCP distribution of the Qdrant Memory Runtime |
+| 2026-10-13 06:39:38 | [vllm-torchtpu-core-test](https://pypi.org/project/vllm-torchtpu-core-test/) | 0.29.0rc1 | vLLM TorchTPU Contributors | 1.7 MB |  |
+| 2026-10-13 06:45:38 | [pynatlas](https://pypi.org/project/pynatlas/) | 0.1.0 | Nazeh Abel | 129.4 kB | Python SDK, OpenAI-compatible server and benchmark kit for N-ATLaS, Nigeria's o… |
+| 2026-10-13 06:46:00 | [figen-connect-service](https://pypi.org/project/figen-connect-service/) | 0.0.1 | Figen SAS | 2.3 kB | Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code. |
+| 2026-10-13 06:46:06 | [figenai-docs-library](https://pypi.org/project/figenai-docs-library/) | 0.0.1 | Figen SAS | 2.2 kB | Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code. |
+| 2026-10-13 06:46:12 | [figenai-newsletter](https://pypi.org/project/figenai-newsletter/) | 0.0.1 | Figen SAS | 2.2 kB | Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code. |
+| 2026-10-13 06:46:17 | [figenai-calculator](https://pypi.org/project/figenai-calculator/) | 0.0.1 | Figen SAS | 2.2 kB | Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code. |
+| 2026-10-13 06:47:40 | [autotype-input](https://pypi.org/project/autotype-input/) | 0.1.0 | DEBAYAN DEY | 6.0 kB | Automatic datatype detection and conversion for python input |
+| 2026-10-13 06:49:22 | [mtex](https://pypi.org/project/mtex/) | 1.0.0 | Ralf Hielscher | 5.7 MB | MTEX, the crystallographic texture analysis toolbox, in Python |
+| 2026-10-13 06:49:52 | [mcp-guard-audit](https://pypi.org/project/mcp-guard-audit/) | 0.3.0 | ianewsfr-a11y | 87.6 kB | Security audit CLI for MCP servers and AI agents: risky tools, tool poisoning,… |
+| 2026-10-13 06:54:14 | [keystone-mcp-gateway](https://pypi.org/project/keystone-mcp-gateway/) | 0.5.0 |  | 646.9 kB | OAuth 2.1 MCP server that fronts one or more upstream MCP servers with policy-f… |
+| 2026-10-13 06:57:12 | [payshen](https://pypi.org/project/payshen/) | 0.1.0 | Sodasoft LLC | 32.2 kB | Python client for the Payshen payment orchestration API: payments, captures, vo… |
+| 2026-10-13 06:57:49 | [hmcpctl](https://pypi.org/project/hmcpctl/) | 0.0.0 |  | 1.8 kB | Name reserved for the hmc-mcp project. Install from https://github.com/randompa… |
+| 2026-10-13 06:59:16 | [file-upload-rpa](https://pypi.org/project/file-upload-rpa/) | 0.1.0 | Ishan Dutta <ishandutta2007@g… | 38.4 kB | Automated vision-based file upload CLI and library using PyAutoGUI and PyGetWin… |
+| 2026-10-13 07:00:49 | [asp-iam](https://pypi.org/project/asp-iam/) | 0.1.1 | Kxvya18 | 131.3 kB | Agent Scoped Permissions: record the AWS calls your code (or AI agent) makes an… |
+| 2026-10-13 07:01:04 | [sha-1024](https://pypi.org/project/sha-1024/) | 1.0.0 | TheUltimateGenius4999 | 7.5 kB | A potential build for a 1024-bit SHA2 implementation. |
+| 2026-10-13 07:03:03 | [glue-doctor](https://pypi.org/project/glue-doctor/) | 0.1.0 | Vinicius Pereira <vp.vinicius… | 56.3 kB | Audit CLI for AWS Glue jobs: timeouts, Glue versions and observability settings |
+| 2026-10-13 07:04:06 | [aa-tui](https://pypi.org/project/aa-tui/) | 0.1.0 | Maxwell Ludden | 34.9 kB | Add your description here |
+| 2026-10-13 07:06:04 | [vitruvian-tool-kit](https://pypi.org/project/vitruvian-tool-kit/) | 0.10.0 | VitruvianSoftware | 44.0 kB | Write a tool for the Vitruvian app in Python: declare its commands, handle them… |
+| 2026-10-13 07:07:48 | [zcbot](https://pypi.org/project/zcbot/) | 1.8.8 | kuangxing6367 | 11.4 MB | ZCBOT 事件驱动 IM 平台：内核 + 扩展点契约 + 协议无关接入端（内置 OneBot 11 / QQ 官方 / Telegram / Discord） |
+| 2026-10-13 07:08:23 | [nl2data-workflow-postgres](https://pypi.org/project/nl2data-workflow-postgres/) | 0.1.0 | NL2Data Contributors | 55.4 kB | PostgreSQL-backed durable workflow state backend for nl2data-core. |
+| 2026-10-13 07:09:01 | [PyAETNA](https://pypi.org/project/PyAETNA/) | 4.0.0 | Gaetano Scandariato <gaetano.… | 988.7 kB | Python Accelerated Exoplanet Toolkit and Noise Analysis - JAX-accelerated joint… |
+| 2026-10-13 07:13:13 | [rnaverse](https://pypi.org/project/rnaverse/) | 0.1.0 | Jianbo Ma <majbchiya@outlook.… | 76.0 kB | A multimodal RNA foundation model that jointly learns from sequence, structural… |
