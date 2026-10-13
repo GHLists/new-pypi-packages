@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T21:21:22Z,dejo,0.0.1,Rohit Kashyap,MIT,2350,"Dejo (formerly Cairn): a browser memory for AI agents. Learn a site once, replay it with zero model calls."
+2026-10-13T21:21:23Z,dejo-mcp,0.0.1,Rohit Kashyap,MIT,2455,"Dejo (formerly Cairn) as an MCP server: a browser that remembers websites, for Claude Code, Cursor and Codex."
+2026-10-13T21:24:16Z,dai-asr-i18n,1.2.0,David AI,"MIT License Copyright (c) 2026 David AI Permission is hereby granted, free of charge, to any person…",549651,Reproducible multilingual automatic speech recognition benchmarking
+2026-10-13T21:26:10Z,apivault-1688-image-search,0.1.0,ApiVault Labs,MIT,11502,"Python client for 1688 Reverse Image Search on Apify. Run, resume and download results with diagnostics."
+2026-10-13T21:27:15Z,apivault-ai-background-changer,0.1.0,ApiVault Labs,MIT,11654,"Python client for AI Background Changer on Apify. Run, resume and download results with diagnostics."
+2026-10-13T21:27:36Z,apivault-ad-library-scraper-facebook-tiktok-google-ads,0.1.0,ApiVault Labs,MIT,12241,"Python client for Ad Library Scraper on Apify. Run, resume and download results with diagnostics."
+2026-10-13T21:28:41Z,apivault-adobe-stock-scraper,0.1.0,ApiVault Labs,MIT,11592,"Python client for Adobe Stock Scraper on Apify. Run, resume and download results with diagnostics."
+2026-10-13T21:33:12Z,llm-lid,0.1.0,Debby Oluwatuyi,MIT,30124,Token-level language identification with any LLM provider
+2026-10-13T21:34:30Z,bimdelta-core,0.4.0,,MIT,48660,Element-level diff engine for IFC building models
+2026-10-13T21:34:56Z,bimdelta,0.4.0,,MIT,38499,Code review for building models: element-level IFC diffs in the terminal and in Git
+2026-10-13T21:41:12Z,herald-browser-use,0.1.0,Siddhi Bansal,MIT,24680,Let your browser-use agent report where it got stuck on a website
+2026-10-13T21:41:35Z,trailpointer-sdk,0.0.0,Aurogale Technologies Private Limited <akhilmv@aurogale.com>,,2648,Reserved by Aurogale Technologies; official Trailpointer SDK coming.
+2026-10-13T21:44:16Z,scigantic-ucsc,0.1.0,Scigantic,MIT-0,28884,"Read UCSC Genome Browser conservation scores, multiz alignments and mammal assembly lists straight from UCSC's public S3 bucket, without downloading the files."
+2026-10-13T21:48:03Z,stateous,0.1.0,The Stateous Authors,Apache-2.0,382935,A process as a graph of states. A control plane keeps every token durable.
+2026-10-13T21:51:51Z,trailpointer,0.0.0,Aurogale Technologies Private Limited <akhilmv@aurogale.com>,,2597,Reserved by Aurogale Technologies; official Trailpointer packages coming.
+2026-10-13T21:52:38Z,weather-skills-core,0.1.0,,MIT,427138,"Core library for weather skills: the @weather_skill decorator owning CLI construction, standard-dataset validation, provenance, and output writing."
+2026-10-13T22:00:07Z,maeves-ecosphere,0.1.2,MolassesLover,,8427,"A tile-based procedural ecosystem simulation, with an object component system."
+2026-10-13T22:01:21Z,escalate-anything,0.2.1,Alex Gao,MIT AND CC-BY-4.0,2645943,"Get the upper hand on any big US company when they wrong you. An MCP server that gives your AI agent the contacts, playbooks and escalation paths for 270+ companies."
+2026-10-13T22:04:01Z,mangacutter-mcp,0.1.0,MangaCutter,Proprietary,75238,"MCP server for MangaCutter: cut manga pages into panels and characters into parts from Claude, Cursor and other AI apps."
+2026-10-13T22:04:32Z,syntri-sdk,0.1.0,Domani Labs,Proprietary,17523,Syntri client SDK for Python
+2026-10-13T22:07:28Z,semcer,0.1.1,"Nguyen Nguyen, Yongyi Zang",Apache-2.0,108496,"semcer: a character error rate for OCR that weights each edit by its severity, scored by a local model."
+2026-10-13T22:18:50Z,fastapi-runner,0.0.0,Dave Shawley <daveshawley@gmail.com>,BSD-3-Clause,26961,Production-ready uvicorn runner for FastAPI applications
+2026-10-13T22:20:09Z,cwtrain,0.1.0,CoreWeave Applied Training,Apache-2.0,334123,"Train against CoreWeave Dedicated Inference: deployments, checkpoint hot-load and rollouts for RL training loops"
