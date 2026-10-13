@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T19:27:45Z,sezgi-cli,0.0.1,Aykut Atabay,Apache-2.0,12195,Sezgi: wraps any application into a single API for AI agents and writes its Benlik Card. Early development.
+2026-10-13T19:27:48Z,benlik,0.1.0,Aykut Atabay,Apache-2.0,17284,Benlik Card: an application's signed self-description for AI agents. JSON Schema and validator.
+2026-10-13T19:28:06Z,lupaxa-chat-server,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",108726,Multi-room TCP chat server.
+2026-10-13T19:32:12Z,brainf-ckery-mindstormpro3,1.0.0,"""Elio A."" <elioanon20@Proton.me>",MIT,8025,A compiler to compile brainf#ck into assembly and then a native executable for windows. Requires NASM and gcc.
+2026-10-13T19:34:15Z,odoobuddy,0.1.0,niyasraphy <niyasraphyk@gmail.com>,MIT,109396,"Install and manage multiple Odoo instances (any version, Community or Enterprise) on your computer or on production servers, with Nginx, SSL and IDE setup."
+2026-10-13T19:36:45Z,gemini-model-runner,0.0.2,MrPsyghost (Shivay),,4449,A lightweight Python wrapper for Google's Gemini API
+2026-10-13T19:38:27Z,py-aliexpress-affiliate,0.2.2,Mohammed BADI <badimohammed2019@gmail.com>,MIT License Copyright (c) 2026 Mohammed BADI Portions of the TOP request signing algorithm and para…,115681,"Production-quality, fully typed synchronous and asynchronous Python client for the AliExpress Affiliate (AE Affiliate) API."
+2026-10-13T19:43:32Z,dotymarket,1.0.1,,MIT,8417,Python client for the dotymarket agent API.
+2026-10-13T19:44:37Z,twinfi,0.13.0,twinfi contributors,MIT,257166,Run a Wi-Fi hotspot on Linux while staying connected to Wi-Fi (AP+STA)
+2026-10-13T19:46:55Z,refkv,0.1.0,Davis Vann Bennett <davis.v.bennett@gmail.com>,MIT OR Apache-2.0,9440644,"refkv: a reference value type for key-value stores, its ZIP binding (vzip archives), and virtualization of image files and stores"
+2026-10-13T19:48:36Z,1password-agent-broker,0.1.0,Astrivant,Apache-2.0,129771,Let agents use approved 1Password-backed capabilities without receiving secret values
+2026-10-13T19:48:38Z,sabatark,0.1.0,,MIT,60656,Unofficial async Python client for Agatark (EnLife) home automation controllers
+2026-10-13T19:51:43Z,mcp-gtm-audit,0.2.0,Andrea Camolese,MIT,62261,"MCP server for Google Tag Manager: audit containers, validate GA4/Google Ads/Meta tracking, diff workspaces against versions, export importable container JSON and, in opt-in write mode, apply reviewe…"
+2026-10-13T19:52:15Z,callbus,0.3.1,CallBus contributors,Apache-2.0,627983,"Tool retrieval for LLM agents with hundreds of tools: an embedding model plus small learned heads picks the few tools a request needs, served over MCP and REST."
+2026-10-13T19:53:21Z,pykentron,0.11.1,,(MIT OR Apache-2.0) AND Apache-2.0,3891704,"kentron, a B-rep CAD kernel in Rust, from Python, with a CadQuery-compatible API: CadQuery scripts run on it unchanged."
+2026-10-13T19:54:37Z,listenflow-fastest-whisper,0.4.0,minamik <mia@sync.dev>,MIT,87767,Whisper-family TensorRT inference for listenflow
+2026-10-13T19:57:32Z,dynamic-systems-testing-framework,1.0.1,Scott Greenwood,MIT,2677069,"Dynamic Systems Testing Framework — regression & unit testing for time-dependent system behavior across Modelica (Dymola, OpenModelica), FMU (FMPy), Julia (ModelingToolkit), and Python backends"
+2026-10-13T19:57:38Z,behaviorgpt,0.1.0,Unbox AI,MIT,36799,"Python client for BehaviorGPT, UnboxAI's Large Behavioral Model for search, recommendations and personalization"
+2026-10-13T20:00:15Z,islenska-data,5.0.0,"""Miðeind ehf."" <mideind@mideind.is>",CC BY-SA 4.0 (the BÍN data); MIT (the package code),30114471,"The vocabulary data of the islenska package: the Database of Icelandic Morphology (BÍN), compressed"
+2026-10-13T20:02:52Z,battinfo,0.0.1,"Simon Clark, Jesper Friis, Francesca Lønstad Bleken, Casper Welzel Andersen, Eibar Flores, Hendrik…",Apache-2.0,12386,"Placeholder that reserves the name. Install BattINFO from GitHub until 0.8.0, its first working release on PyPI."
+2026-10-13T20:05:51Z,gtt-cli,1.1.1,,Apache-2.0,11215647,GTT CLI - the operational doorway into GTT Bootstrap
+2026-10-13T20:07:52Z,zensical-i18n,0.1.0,Humberto Sandmann,MIT,51713,"Multi-language sites for Zensical, compatible with mkdocs-static-i18n"
+2026-10-13T20:09:18Z,pyosascript,0.1.0,ml-lubich,MIT,12771,"Type-safe, robust Python bindings and CLI for macOS AppleScript and JXA (JavaScript for Automation)"
+2026-10-13T20:09:25Z,warehouse-sdk,0.1.0,,,79295,Python SDK for the Warehouse platform HTTP API.
+2026-10-13T20:10:11Z,strsimpy-rust,0.2.1,strsimpy-rust publishers,MIT,377958,Pure-Rust string similarity library (rustsmith Stage-1 mirror of luozhouyang/python-string-similarity)
+2026-10-13T20:11:24Z,gwbpy,0.1.0a1,Ellis Eisenberg,,28295,Gravitational-wave visualizations for Blender (alpha)
+2026-10-13T20:11:24Z,qforge-sdk,0.1.0,QForge,MIT,25671,Python client for QForge: generate crystal structures with target properties.
+2026-10-13T20:11:47Z,pysr-rs,0.0.1,Miles Cranmer <miles.cranmer@gmail.com>,Apache-2.0,2219,Reserved name. This placeholder contains no code.
+2026-10-13T20:11:49Z,pysr-rust,0.0.1,Miles Cranmer <miles.cranmer@gmail.com>,Apache-2.0,2241,Reserved name. This placeholder contains no code.
+2026-10-13T20:11:51Z,symbolic-regression,0.0.1,Miles Cranmer <miles.cranmer@gmail.com>,Apache-2.0,2336,Reserved name. This placeholder contains no code.
+2026-10-13T20:11:52Z,symbolic-regression-rs,0.0.1,Miles Cranmer <miles.cranmer@gmail.com>,Apache-2.0,2365,Reserved name. This placeholder contains no code.
+2026-10-13T20:13:19Z,charset-normalizer-rust,3.5.1,Ahmed R. TAHRI,MIT,3114043,Pure-Rust charset detection (rustsmith Stage-1 mirror of Ousret/charset_normalizer)
+2026-10-13T20:13:51Z,packaging-rust,26.4.0,Donald Stufft and individual contributors,Apache-2.0 OR BSD-2-Clause,1085192,Pure-Rust packaging utilities (rustsmith Stage-1 mirror of pypa/packaging)
+2026-10-13T20:14:56Z,minecraft-server-launcher,1.0.0,Давид,MIT,84924,"Графический лаунчер для серверов Minecraft с поддержкой ядер, автозагрузкой Java и VPN"
+2026-10-13T20:15:29Z,coilem,0.3.0,coilEM contributors,AGPL-3.0-or-later,23089844,"Local, open-source motor design with Magneto2D and optional Elmer analysis"
+2026-10-13T20:15:51Z,markdown-it-py-rust,4.2.0,Chris Sewell,MIT,1735201,"Markdown parsing, done right! (rustsmith Stage-1 Rust mirror of executablebooks/markdown-it-py)"
+2026-10-13T20:16:19Z,imap-thingy,0.4.0,Alessandro Clerici Lorenzini <code@aclerici.me>,GPL-3.0-or-later,84167,An IMAP scripting library for creating advanced email filters and automation
+2026-10-13T20:16:49Z,byt3d4nc3-linux64,0.2.3,,Proprietary,5737563,"byt3d4nc3 runtime for linux64 (one bundled interpreter, host stdlib)"
+2026-10-13T20:16:59Z,byt3d4nc3-armv8,0.2.3,,Proprietary,4772801,"byt3d4nc3 runtime for armv8 (one bundled interpreter, host stdlib)"
+2026-10-13T20:17:07Z,byt3d4nc3-armv7,0.2.3,,Proprietary,4510643,"byt3d4nc3 runtime for armv7 (one bundled interpreter, host stdlib)"
