@@ -1,12 +1,25 @@
 {
   "list": {
-    "count": 15,
-    "from": "2026-10-13T00:19:15.685691Z",
-    "path": "data/new-packages-2026-10-13T01-18-38-669149Z.csv",
-    "to": "2026-10-13T01:18:38.669149Z"
+    "count": 41,
+    "from": "2026-10-13T01:18:38.669149Z",
+    "path": "data/new-packages-2026-10-13T02-18-36-970228Z.csv",
+    "to": "2026-10-13T02:18:36.970228Z"
   },
-  "pending": [],
-  "serial": 42158371,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-13T02:17:46Z",
+      "package": "benostreamdb-search",
+      "since": "2026-10-13T01:18:38.669149Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-13T02:16:00Z",
+      "package": "yggdryl-cli",
+      "since": "2026-10-13T01:18:38.669149Z"
+    }
+  ],
+  "serial": 42159792,
   "source_truncated": false,
-  "window": "2026-10-13T01:18:38.669149Z"
+  "window": "2026-10-13T02:18:36.970228Z"
 }
