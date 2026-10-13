@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T08:12:00Z,odoo-addon-shopfloor-product-expiry-assign,18.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,26743,Allow reserving expired lots from Shopfloor scenarios
+2026-10-13T09:20:34Z,xcl-lang,0.5.3,Jumppad Labs,Apache-2.0,59364239,"XCL, the declarative configuration language, for Python: the xcl engine run as a bundled subprocess on every platform, imported as xcl"
+2026-10-13T09:22:05Z,envdiff-lint,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,8211,compare .env files and find undocumented/unused variables.
+2026-10-13T09:22:08Z,vortfoil,2.0.0,"Sang-Hyun Rhie, Gyuwon Kim, Suhyeong Lim, Jeongsu Lee",GPL-3.0-or-later,14290377,"A vortex-panel-informed neural operator for steady airfoil flow: surface pressure, lift, moment and the stagnation point from a predicted vortex sheet, drag and a lift correction from a parallel boun…"
+2026-10-13T09:27:45Z,isodrome,0.0.2,Isodrome <james@isodrome.ai>,,4066,Python SDK for Isodrome: deterministic real-time feature infrastructure for trading.
+2026-10-13T09:28:38Z,IMC-HistoTools,0.1.1,Guojun Han Laboratory @PKU,MIT,38168,"Digital pathology analysis tools for the Selenium (Se) IMC paper: virtual IHC rendering, Qupath ROI annotation, and pixel-wise H-score classification."
+2026-10-13T09:29:28Z,chigi,0.0.1,Gyeongjae Choi,MIT,1454704,Python bundle optimizer and generator
+2026-10-13T09:30:11Z,untraded,0.0.1,,MIT,5947,"Open, transparent Counter-Strike 2 match metrics (early preview)."
+2026-10-13T09:32:36Z,rosa-chunking,0.1.0a1,,MIT,109662,Six composable RAG chunking strategies with source provenance
+2026-10-13T09:34:42Z,azure-mgmt-digitalassets,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3252,This package will be released in the near future. Stay tuned!
+2026-10-13T09:34:42Z,qenvs,0.0.1,Beomdo Park <pbeomdo@gmail.com>,Apache-2.0,54425,"QEnvS: physically validated quantum control environments (quantum batteries, state transfer, open systems) for RL and optimal control, built on JAX + dynamiqs."
+2026-10-13T09:35:50Z,permaura,0.0.1,Permaura,Apache-2.0,2412,Reserved for the Permaura Python SDK; the real package arrives with the public release
+2026-10-13T09:36:49Z,geom180to360,1.0.1,Jean-Christophe MALAPERT,Apache-2.0,43483,"Conversion tool of geometries from longitudes [-180, 180] to [0, 360]"
+2026-10-13T09:38:20Z,eubi-bridge-lite,0.1.4,Bugra Ã–zdemir <bugraa.ozdemir@gmail.com>,MIT,770614,Convert microscopy images to OME-Zarr: eubi-bridge without Java and Bio-Formats.
+2026-10-13T09:40:06Z,mlbundle,0.1.0a1,Pablo Ulloa Santín,MIT,251665,"Pickle-free, verifiable model bundles with a manifest, schema and structure."
+2026-10-13T09:40:56Z,openframe-protocol-base,0.3.0,Furious Meteors Engineering <engineering@furiousmeteors.dev>,MIT,28091,"OpenFrame Microservice Suite - shared transport-neutral protocol mechanics (error mapping, RequestContext construction, inbound conformance suite)."
+2026-10-13T09:41:18Z,openframe-protocol-http,0.5.0,Furious Meteors Engineering <engineering@furiousmeteors.dev>,MIT,31267,OpenFrame Microservice Suite - HTTP/ASGI server binding for openframe.core.inbound handlers.
+2026-10-13T09:41:41Z,openframe-protocol-grpc,0.2.0,Furious Meteors Engineering <engineering@furiousmeteors.dev>,MIT,28670,OpenFrame Microservice Suite - gRPC server and client binding for openframe.core.inbound/remote.
+2026-10-13T09:42:00Z,pizza-lib,0.1.0,Shyal,MIT,60623,"Data structure and algorithm helpers for LeetCode-style Python: grids, adjacency, binary search bounds, heaps, trees, linked lists."
+2026-10-13T09:42:19Z,app-preview,0.1.0,,MIT,1115879,"Generate and validate store-compliant App Store and Google Play screenshots, graphics and app preview videos."
+2026-10-13T09:42:35Z,aidevops,0.1.0,,,59952,Terminal client (CLI + TUI) for the AI DevOps / QA Copilot API
+2026-10-13T09:44:55Z,pagesystems,0.4.0,,MIT,26267,Page Systems for Python agents: hosted pages that collect a person's answer and deliver it to your agent as a new turn.
+2026-10-13T09:48:32Z,robotframework-harness,1.0.0,Many Kasiriha,Apache-2.0,641170,"Agent harness for Robot Framework: an Agent Skill, agent hooks and a local robotcode-based live session for Claude Code, Codex, GitHub Copilot, VS Code and OpenCode."
+2026-10-13T09:50:49Z,biomero-converter,0.2.0,"Joost de Folter <folterj@gmail.com>, Maarten Paul <maarten.paul@gmail.com>",Apache-2.0,479855,"Convert source images to OME-TIFF or OME-Zarr, with RO-Crate metadata"
+2026-10-13T09:54:17Z,zgc-compiler,0.1.0,,,17336,Python graph frontend and external compiler for ZGC executables
+2026-10-13T09:54:58Z,smart-emulator,1.0.1,,,16070,
+2026-10-13T09:55:26Z,vin-guard-sdk,0.3.1,,,57358,Sync and async AI Gateway clients with routing metadata and dashboard reads
+2026-10-13T09:56:35Z,view-scheduler,0.4.0,Kiran B,MIT,78083,Recommend when a Unity Catalog view can be materialized with every dependency already refreshed
+2026-10-13T09:58:47Z,gmumcl,1.0.0,,"MIT License Copyright (c) 2024-2026 GMUM Permission is hereby granted, free of charge, to any perso…",104257,"A generic continual-learning framework: scenarios, methods, metrics"
+2026-10-13T09:59:55Z,validfilepath,0.1,Mariusz Radon <mariusz.radon@gmail.com>,MIT,5001,Path validators to be used with argparse
+2026-10-13T10:01:58Z,jupyter-cell-logger,0.1.0,Jupyter Cell Logger Contributors,BSD-3-Clause,25292,Jupyter server extension that logs the code of every executed cell to JSONL files under the user's home directory.
+2026-10-13T10:02:45Z,aver-bio,0.1.0,,Apache-2.0,57408,Aver open-source CLI (PRD §16). Arrives in M0.
+2026-10-13T10:02:46Z,aver-comparator,0.1.0,,Apache-2.0,18822,Aver hap.py/vcfeval wrapper and metric normalisation (F-31). Arrives in M0.
+2026-10-13T10:02:47Z,aver-core,0.1.0,,Apache-2.0,20763,"Aver domain models, RFC 8785 canonical JSON and hashing (PRD §11). Arrives in M0."
+2026-10-13T10:02:49Z,aver-drift,0.1.0,,Apache-2.0,16765,"Aver drift detection and rule-derived severity (F-40, F-41). Arrives in M2."
+2026-10-13T10:05:15Z,canairy,0.3.0rc1,Michael Blaß <m.blass@uke.de>,,31169,"Client for German public air-quality APIs (UBA, Hamburger Luftmessnetz)"
+2026-10-13T10:05:16Z,wpdm-gabriela,0.1.0,Szymon Bobek <szymon.bobek@gmail.com>,"MIT License Copyright (c) 2024 Szymon Bobek Permission is hereby granted, free of charge, to any pe…",6306,Warsztat Praktyka Data Mining
+2026-10-13T10:07:15Z,tsexplorer,0.1.0,"""Diego J. Pedregal"" <diego.pedregal@uclm.es>",GPL-3.0-only,310243,Exploratory and diagnostic tools for time series and forecasts
+2026-10-13T10:08:44Z,bitsim,0.0.0,Development Team,MIT,2995,This name has been reserved using Reserver
+2026-10-13T10:10:20Z,byteplussdk-ark,0.0.1,byteplus-sdk,Apache License 2.0,960,Name reservation for the Byteplus Python SDK split package byteplussdk-ark
+2026-10-13T10:10:24Z,pdfcrowd-cli,1.0.0,PDFCrowd Team,MIT,91895,Command-line converters for the PDFCrowd API.
+2026-10-13T10:10:26Z,byteplussdk-arkruntime,0.0.1,byteplus-sdk,Apache License 2.0,1011,Name reservation for the Byteplus Python SDK split package byteplussdk-arkruntime
+2026-10-13T10:10:32Z,byteplussdk-autoscaling,0.0.1,byteplus-sdk,Apache License 2.0,1019,Name reservation for the Byteplus Python SDK split package byteplussdk-autoscaling
+2026-10-13T10:10:38Z,byteplussdk-billing,0.0.1,byteplus-sdk,Apache License 2.0,992,Name reservation for the Byteplus Python SDK split package byteplussdk-billing
+2026-10-13T10:10:52Z,digix,0.0.0,Development Team,MIT,2989,This name has been reserved using Reserver
+2026-10-13T10:13:24Z,stario-create,5.0.0,Adam Bobowski <adam.bobowski@wratilabs.com>,MIT,107673,"Create and grow Stario apps: scaffold, screens, skills, dev tasks."
+2026-10-13T10:13:43Z,grapholog,0.5.1,Grapholog contributors,Apache-2.0,240382,"One-shot terminal project graphs, syntax fingerprints and project comparison"
+2026-10-13T10:14:22Z,fcling,0.1.0,Walter De Smedt <walter.de.smedt@gmail.com>,BSD-3-Clause,2569769,"Fabric CLI: what an SR Linux fabric looks like, what is wrong with it, and what changed"
+2026-10-13T10:19:56Z,iterm2-mcp-zanlan,0.1.0,Zane-lan,MIT,19464,"An iTerm2 MCP server with visible-execution design — send-only, profile-based multi-session management"
