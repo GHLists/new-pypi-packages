@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T13:12:02Z,hermes-nanogpt-provider,0.4.6,Daya Adianto,MIT,9311,Hermes Agent plugin for NanoGPT as model provider.
+2026-10-13T13:19:55Z,ultralight-py,0.4.0,,,376634044,Python bindings for Ultralight
+2026-10-13T13:22:01Z,pandion,0.1.0,Nadeem Khan,MIT,410942,"Retrieval pipelines you can inspect, step by step"
+2026-10-13T13:29:30Z,abap-parser,0.1.0,,,10347727,"ABAP parser: symbols, database access, calls and logic of ABAP code, sources from folders or an SAP system"
+2026-10-13T13:29:52Z,graphoskop,0.4.8,,,340616,Analysis of networks and of vectors defined on their nodes.
+2026-10-13T13:33:38Z,decane-sdk,0.8.0,Decane <dev@decane.io>,MIT,32281,Official Python SDK for Decane — institutional liquidity rail for crypto settlement
+2026-10-13T13:35:39Z,pyw-algebra,0.1.0,pyw contributors,"MIT License Copyright (c) 2026 panyw5 Permission is hereby granted, free of charge, to any person o…",241453,SageMath-based root system and affine Lie algebra computations
+2026-10-13T13:38:45Z,sysdiagd,1.2.1,dev <dev@example.com>,MIT,26904,Herramienta de diagnostico y monitoreo de sistema
+2026-10-13T13:39:33Z,ownSQL,1.0.0,TimonW-Dev,,17892,"A MySQL database driver for MicroPython, supporting MySQL Server 8.x and 9.x."
+2026-10-13T13:44:50Z,mixradix,0.1.0,yilmazhasan,MIT OR Apache-2.0,71123,"Add, subtract and convert integers of any size in mixed radix bases (like 24:60:60), with a CLI"
+2026-10-13T13:46:39Z,retrievalci,0.2.0,,MIT,138827,Evidence-aware regression checks for retrieval systems
+2026-10-13T13:46:44Z,patchproof-ai,0.2.0,,MIT,123126,Evidence-backed fail-before/pass-after verification for Python patches
+2026-10-13T13:48:12Z,blendedUx-Lang-Test,0.0.1,DBM,BSD,462319,Blended Command Line Application
+2026-10-13T13:48:25Z,memorylint-ai,0.2.0,,MIT,176169,Evidence-backed checks for explicit repository memory claims
+2026-10-13T13:53:46Z,citysmith,0.2.0,banecronotse,"MIT License Copyright (c) 2026 banecronotse Permission is hereby granted, free of charge, to any pe…",1142957,"Command line toolkit for CityGML 2.0 buildings: derive lower LODs, complete semantics, validate, crop, merge and convert to CityJSON."
+2026-10-13T13:56:13Z,langchain-recall,0.1.0,,MIT,32566,"LangChain and LangGraph integration for Recall, long-term memory for AI agents: chat history, retriever, tools and agent middleware."
+2026-10-13T13:56:34Z,openai-agents-recall,0.1.0,,MIT,22524,"OpenAI Agents SDK integration for Recall, long-term memory for AI agents: a session backed by Recall, memory tools and instructions."
+2026-10-13T13:57:00Z,crewai-recall,0.1.0,,MIT,15211,"CrewAI integration for Recall, long-term memory for AI agents: tools to search, ask and remember, and memory as task context."
+2026-10-13T13:57:28Z,evalstone,0.1.0,Marcelo Ribeiro,MIT,148254,"The plug-and-play evals layer for LLM-based projects: datasets, checks, suites, runs and gates."
+2026-10-13T13:57:40Z,slim-serve,0.1.0,,MIT,244531,"A small, observable inference server for local small language models (llama.cpp / MLX backends)."
+2026-10-13T14:02:18Z,py-azure-devops-sdk,0.1.0,"""ZenProgramming.it"" <zenprogramming.it@gmail.com>",MIT,15674,A typed Python SDK for Azure DevOps Work Item management
+2026-10-13T14:02:37Z,ournotes-sim,0.0.7,,MIT OR Apache-2.0,6007632,The BanG Dream! Our Notes deck model (ournotes-sim) for Python: chart statistics of deck data documents
+2026-10-13T14:03:51Z,novi-confidence-intervals,0.dev0,Novi Labs <devops@novilabs.com>,,832,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-13T14:03:52Z,novi-model-serialization,0.dev0,Novi Labs <devops@novilabs.com>,,837,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-13T14:03:53Z,novi-pmi-paths,0.dev0,Novi Labs <devops@novilabs.com>,,824,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-13T14:03:54Z,novi-survey-features,0.dev0,Novi Labs <devops@novilabs.com>,,834,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-13T14:05:24Z,slom,0.1.0,,MIT,203772,"Durable, tool-using agents for small language models, with a SQLite-journaled execution engine."
+2026-10-13T14:06:55Z,dumph,1.1.2,,,3196674,"Philippine mock data generator and python bindings for local dataset seeding, development workflows and automated testing."
+2026-10-13T14:09:21Z,gemsmap,0.3.0b1,Bruno Batista,MIT,985386,"GEMs MAP: an interactive workbench for genome-scale metabolic models (COBRApy analyses, editable metabolic maps, identity-aware pathway templates)"
+2026-10-13T14:10:31Z,fair-ca-visualization,0.4.0,Matthias König <konigmatt@googlemail.com>,MIT,829939,Interactive visualization of the FAIR COMBINE Archive Indicators (FAIR-CA) for computational models.
+2026-10-13T14:11:01Z,wiltech-labs-ai,1.0.1,Wiliam Ferraciolli,Apache-2.0,44059,"AI building blocks for Wiltech FastAPI apps: Workers AI / Groq / Ollama behind one protocol, OpenAI-compatible tool calling over httpx, embeddings, portable vector stores (database, Vectorize, Qdrant…"
+2026-10-13T14:11:45Z,wiltech-labs-auth,1.0.1,Wiliam Ferraciolli,Apache-2.0,29075,"Authentication and authorization for Wiltech FastAPI apps: Clerk JWT verification, the Caller with saved roles, require_admin / require_owner, service API keys and Clerk webhook verification."
+2026-10-13T14:12:09Z,wiltech-labs-core,1.0.1,Wiliam Ferraciolli,Apache-2.0,27715,"Runtime plumbing for Wiltech FastAPI apps: config from Worker env or .env, a portable Database (SQLite, Cloudflare D1 binding, D1 over HTTP), errors, CORS and health."
+2026-10-13T14:13:25Z,rustgis,0.2.0,Qiusheng Wu <giswqs@gmail.com>,Apache-2.0,53155277,"Python bindings to RustGIS, a fast, free and open-source GIS in pure Rust"
+2026-10-13T14:14:09Z,r9cam-models,0.6.0,Simon van Lierde,Apache-2.0,29587,Shared Pydantic models for R9lab Raspberry Pi Camera plugin models
+2026-10-13T14:16:47Z,llama-index-tools-econdash,0.1.1,EconDash <noderguru@gmail.com>,MIT,17157,"LlamaIndex tools and a reader for EconDash time series across ten categories: macroeconomics, financial markets, labor, demographics, real estate, energy, transport, healthcare, education and technol…"
+2026-10-13T14:17:12Z,tros,0.1.0,,,37910,
+2026-10-13T14:17:54Z,pipecat-sprag,0.1.0,Sprag AI Inc.,BSD-2-Clause,20840,"Sprag speech and language models for Pipecat: Rhythm STT, Symphony LLM, and Chorus TTS"

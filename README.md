@@ -8,56 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 13:19 UTC
+## Latest list — 2026-10-13 14:19 UTC
 
-New packages created between 2026-10-13 12:19 UTC and 2026-10-13 13:19 UTC.
+New packages created between 2026-10-13 13:19 UTC and 2026-10-13 14:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-13T13-19-20-78963Z.csv)
+[Full CSV](data/new-packages-2026-10-13T14-19-22-342945Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-13 12:19:45 | [changenote](https://pypi.org/project/changenote/) | 0.0.0 | narumi | 4.0 kB |  |
-| 2026-10-13 12:22:46 | [bynn-decisionnode](https://pypi.org/project/bynn-decisionnode/) | 0.3.2 | Bynn Intelligence, Inc. | 207.3 kB | The official Python client for DecisionNode, a decision engine that answers que… |
-| 2026-10-13 12:24:27 | [franklinwh-modbus-async](https://pypi.org/project/franklinwh-modbus-async/) | 0.0.1 | david2069 <david2069@users.no… | 12.2 kB | Async FranklinWH aGate Modbus TCP library (SunSpec + extension registers) built… |
-| 2026-10-13 12:27:47 | [lauschkiste-plugins](https://pypi.org/project/lauschkiste-plugins/) | 0.1.0a7 | the Lauschkiste contributors | 103.4 kB | Lauschkiste plugins: computers as devices, RFID readers, Samba, Audiobookshelf,… |
-| 2026-10-13 12:28:01 | [lauschkiste-plugins-raspberry-pi](https://pypi.org/project/lauschkiste-plugins-raspberry-pi/) | 0.1.0a7 | the Lauschkiste contributors | 61.7 kB | Lauschkiste plugins for the Raspberry Pi: the device and its peripherals (butto… |
-| 2026-10-13 12:28:17 | [bynn-decisionnode-mcp](https://pypi.org/project/bynn-decisionnode-mcp/) | 0.1.2 | Bynn Intelligence, Inc. | 79.2 kB | The DecisionNode MCP server: the decision engine's calibrated yes-or-no, choice… |
-| 2026-10-13 12:31:16 | [hydra-qol](https://pypi.org/project/hydra-qol/) | 0.1.0 | Thomas M Kehrenberg | 29.3 kB | Quality-of-life helpers for Hydra: register dataclass configs and check that al… |
-| 2026-10-13 12:36:34 | [bannerforge](https://pypi.org/project/bannerforge/) | 0.1.0 | Himanta Bhuyan <realximanta@u… | 8.3 kB | Colorful terminal banner generator with automatic rendering. |
-| 2026-10-13 12:39:28 | [h2ofm](https://pypi.org/project/h2ofm/) | 0.42.0 | H2O.ai | 95.2 kB | H2O.ai Foundation Models — standalone inference |
-| 2026-10-13 12:40:55 | [market-sources](https://pypi.org/project/market-sources/) | 0.1.1 | Daniil Petrov | 94.3 kB | Async Python scrapers for Kaspi.kz, OLX.kz and Ozon.kz behind one ProductSource… |
-| 2026-10-13 12:41:55 | [tktl-analytics-pins](https://pypi.org/project/tktl-analytics-pins/) | 0.0.0 |  | 1.7 kB |  |
-| 2026-10-13 12:43:29 | [cvo261013](https://pypi.org/project/cvo261013/) | 0.1.0 | Paleofuturistic Python | 4.4 kB | Development flow as Paleofuturistic Python |
-| 2026-10-13 12:45:19 | [nbd-jev3](https://pypi.org/project/nbd-jev3/) | 0.1.0 | Shaked Degani <shaked@webz.io> | 7.2 kB | Jev classifiers for text_classifier and Parseer pages |
-| 2026-10-13 12:46:17 | [python-interactive-courses](https://pypi.org/project/python-interactive-courses/) | 1.0.1 | johannes-langer | 277.9 kB | PyICs (Python Interactive Courses) is a modular framework for teaching programm… |
-| 2026-10-13 12:47:21 | [kirha](https://pypi.org/project/kirha/) | 0.1.0 | Kirha | 16.4 kB | Official Python SDK for the Kirha Search and Tools API |
-| 2026-10-13 12:49:03 | [tzclock-cli](https://pypi.org/project/tzclock-cli/) | 0.1.0 |  | 16.3 kB | A small live timezone clock with a searchable terminal menu |
-| 2026-10-13 12:51:23 | [oxfordledge](https://pypi.org/project/oxfordledge/) | 0.0.1 | Oxford Ledge LLC <support@oxf… | 4.8 kB | Reserved name, not the Oxford Ledge SDK. Install ol-sdk instead (import oxford_… |
-| 2026-10-13 12:52:12 | [gitgraf](https://pypi.org/project/gitgraf/) | 0.1.0 |  | 2.1 kB | Add your description here |
-| 2026-10-13 12:52:26 | [btyscan](https://pypi.org/project/btyscan/) | 0.1.0 |  | 7.8 kB |  |
-| 2026-10-13 12:52:29 | [netdocai](https://pypi.org/project/netdocai/) | 0.1.0 | Abhishek Anand | 43.0 kB | Autonomous AI-powered network troubleshooting CLI |
-| 2026-10-13 12:55:20 | [ranq](https://pypi.org/project/ranq/) | 0.3.0 | NodeKraft | 358.5 kB | Free, open-source CLI that audits and optimizes websites for SEO, AEO and GEO. |
-| 2026-10-13 12:57:57 | [context-graph-viewer](https://pypi.org/project/context-graph-viewer/) | 0.1.0 |  | 79.0 kB | Read-only terminal viewer for a Context Graph: capture health, pipeline state,… |
-| 2026-10-13 13:00:08 | [spectralaudit](https://pypi.org/project/spectralaudit/) | 0.1.0 | Eduardo J. Barrios | 50.2 kB | Explainable, offline DSP for spectral audio forensics and mastering comparisons |
-| 2026-10-13 13:03:55 | [simplibs-path](https://pypi.org/project/simplibs-path/) | 0.1.0 | "Dalibor Sova (Sudip2708)" <d… | 220.4 kB | Safe path handling and directory scanning: normalize, check, ensure and collect… |
-| 2026-10-13 13:04:19 | [dlt-source-elhub](https://pypi.org/project/dlt-source-elhub/) | 0.1.0 | Havbruksdataforeningen | 38.1 kB | dlt source package for Elhub's Energy Data API: metering points and hourly mete… |
-| 2026-10-13 13:04:44 | [underhood](https://pypi.org/project/underhood/) | 0.1.0 |  | 2.2 kB | Add your description here |
-| 2026-10-13 13:06:18 | [idiscord](https://pypi.org/project/idiscord/) | 0.1.0 |  | 3.9 kB | Discord API wrapper |
-| 2026-10-13 13:07:12 | [accentuk](https://pypi.org/project/accentuk/) | 0.1.0 |  | 131.4 kB | Offline Ukrainian stress marking and optional TTS preparation |
-| 2026-10-13 13:09:18 | [tuxwhisper](https://pypi.org/project/tuxwhisper/) | 0.2.0 | Ibrahim Almajai | 50.9 kB | Private, offline push-to-talk dictation for Linux, on X11 and Wayland |
-| 2026-10-13 13:11:07 | [paulrun](https://pypi.org/project/paulrun/) | 0.1.0 | Paul Hallett <paulandrewhalle… | 188.7 kB | Run hand-written markdown runbooks |
-| 2026-10-13 13:11:45 | [MultiGlue-3M](https://pypi.org/project/MultiGlue-3M/) | 1.0.0 | Siqi Chen | 4.1 kB | Integrative and generative analysis of spatial multi-omics with MultiGlue |
-| 2026-10-13 13:12:18 | [jibsa](https://pypi.org/project/jibsa/) | 0.2.0 |  | 1.0 MB | 네이버·직방·당근 부동산 매물을 조회하는 LLM 친화 CLI |
-| 2026-10-13 13:14:14 | [zoo-framework-native](https://pypi.org/project/zoo-framework-native/) | 0.1.0 |  | 107.2 kB | zoo-framework 原生任务执行扩展（可选安装；未安装时框架一切如旧；内置任务为样例负载，非框架功能） |
-| 2026-10-13 13:15:10 | [groupchat-tg-bot](https://pypi.org/project/groupchat-tg-bot/) | 0.0.2 |  | 63.9 kB | A small library for Telegram group-chat AI bots (OpenAI-compatible LLMs), exten… |
-| 2026-10-13 13:15:51 | [ruvector-core](https://pypi.org/project/ruvector-core/) | 0.2.0 | RuVector Team | 4.1 kB | Native vector search with ergonomic batch ingestion. |
-| 2026-10-13 13:15:52 | [ruvector-gnn](https://pypi.org/project/ruvector-gnn/) | 0.2.0 | RuVector Team | 4.1 kB | Native graph neural network neighborhood encoding. |
-| 2026-10-13 13:15:55 | [ruvector-router](https://pypi.org/project/ruvector-router/) | 0.2.0 | RuVector Team | 4.4 kB | Semantic embedding routing backed by native RuVector HNSW |
-| 2026-10-13 13:15:56 | [ruvector-ruvllm](https://pypi.org/project/ruvector-ruvllm/) | 0.2.0 | RuVector Team | 5.1 kB | Bounded native Rust key value cache and attention primitives for Python LLM pip… |
-| 2026-10-13 13:17:09 | [batipathway](https://pypi.org/project/batipathway/) | 0.1.0 | Seddik Yassine Abdelouadoud <… | 199.0 kB | Renovation pathway optimizer for residential building stocks (MMCKP via linopy/… |
-| 2026-10-13 13:17:16 | [idems-gitstore](https://pypi.org/project/idems-gitstore/) | 0.1.0 | IDEMS International | 205.7 kB | Git as the store: branches as units of work, pull requests as results, history… |
-| 2026-10-13 13:17:23 | [baticlust](https://pypi.org/project/baticlust/) | 0.1.0 | Yassine Abdelouadoud <yassine… | 17.2 kB | Building stock archetype generation using stratified clustering |
-| 2026-10-13 13:18:15 | [us-gov-data-dictionary](https://pypi.org/project/us-gov-data-dictionary/) | 0.1.0 | Alex Bocio (Alt Data Forge) | 357.6 kB | Machine-readable data dictionaries for U.S. government datasets (SEC N-PORT, 13… |
-| 2026-10-13 13:18:18 | [isa9000](https://pypi.org/project/isa9000/) | 0.1.0 | Isabela and Alex @ girlea.ro | 2.4 MB | Turn your organization's documents into short, fact-checked podcasts. Self-host… |
-| 2026-10-13 13:18:53 | [homeward](https://pypi.org/project/homeward/) | 0.1.0 | Sebastian Goscinski | 99.9 kB | Native Synology DSM package that syncs iCloud Photos and iCloud Drive with the… |
-| 2026-10-13 13:19:13 | [ziho-autoresearch](https://pypi.org/project/ziho-autoresearch/) | 0.2.0 |  | 333.0 kB | Lightweight local ML project records and validation |
+| 2026-10-13 13:12:02 | [hermes-nanogpt-provider](https://pypi.org/project/hermes-nanogpt-provider/) | 0.4.6 | Daya Adianto | 9.3 kB | Hermes Agent plugin for NanoGPT as model provider. |
+| 2026-10-13 13:19:55 | [ultralight-py](https://pypi.org/project/ultralight-py/) | 0.4.0 |  | 376.6 MB | Python bindings for Ultralight |
+| 2026-10-13 13:22:01 | [pandion](https://pypi.org/project/pandion/) | 0.1.0 | Nadeem Khan | 410.9 kB | Retrieval pipelines you can inspect, step by step |
+| 2026-10-13 13:29:30 | [abap-parser](https://pypi.org/project/abap-parser/) | 0.1.0 |  | 10.3 MB | ABAP parser: symbols, database access, calls and logic of ABAP code, sources fr… |
+| 2026-10-13 13:29:52 | [graphoskop](https://pypi.org/project/graphoskop/) | 0.4.8 |  | 340.6 kB | Analysis of networks and of vectors defined on their nodes. |
+| 2026-10-13 13:33:38 | [decane-sdk](https://pypi.org/project/decane-sdk/) | 0.8.0 | Decane <dev@decane.io> | 32.3 kB | Official Python SDK for Decane — institutional liquidity rail for crypto settle… |
+| 2026-10-13 13:35:39 | [pyw-algebra](https://pypi.org/project/pyw-algebra/) | 0.1.0 | pyw contributors | 241.5 kB | SageMath-based root system and affine Lie algebra computations |
+| 2026-10-13 13:38:45 | [sysdiagd](https://pypi.org/project/sysdiagd/) | 1.2.1 | dev <dev@example.com> | 26.9 kB | Herramienta de diagnostico y monitoreo de sistema |
+| 2026-10-13 13:39:33 | [ownSQL](https://pypi.org/project/ownSQL/) | 1.0.0 | TimonW-Dev | 17.9 kB | A MySQL database driver for MicroPython, supporting MySQL Server 8.x and 9.x. |
+| 2026-10-13 13:44:50 | [mixradix](https://pypi.org/project/mixradix/) | 0.1.0 | yilmazhasan | 71.1 kB | Add, subtract and convert integers of any size in mixed radix bases (like 24:60… |
+| 2026-10-13 13:46:39 | [retrievalci](https://pypi.org/project/retrievalci/) | 0.2.0 |  | 138.8 kB | Evidence-aware regression checks for retrieval systems |
+| 2026-10-13 13:46:44 | [patchproof-ai](https://pypi.org/project/patchproof-ai/) | 0.2.0 |  | 123.1 kB | Evidence-backed fail-before/pass-after verification for Python patches |
+| 2026-10-13 13:48:12 | [blendedUx-Lang-Test](https://pypi.org/project/blendedUx-Lang-Test/) | 0.0.1 | DBM | 462.3 kB | Blended Command Line Application |
+| 2026-10-13 13:48:25 | [memorylint-ai](https://pypi.org/project/memorylint-ai/) | 0.2.0 |  | 176.2 kB | Evidence-backed checks for explicit repository memory claims |
+| 2026-10-13 13:53:46 | [citysmith](https://pypi.org/project/citysmith/) | 0.2.0 | banecronotse | 1.1 MB | Command line toolkit for CityGML 2.0 buildings: derive lower LODs, complete sem… |
+| 2026-10-13 13:56:13 | [langchain-recall](https://pypi.org/project/langchain-recall/) | 0.1.0 |  | 32.6 kB | LangChain and LangGraph integration for Recall, long-term memory for AI agents:… |
+| 2026-10-13 13:56:34 | [openai-agents-recall](https://pypi.org/project/openai-agents-recall/) | 0.1.0 |  | 22.5 kB | OpenAI Agents SDK integration for Recall, long-term memory for AI agents: a ses… |
+| 2026-10-13 13:57:00 | [crewai-recall](https://pypi.org/project/crewai-recall/) | 0.1.0 |  | 15.2 kB | CrewAI integration for Recall, long-term memory for AI agents: tools to search,… |
+| 2026-10-13 13:57:28 | [evalstone](https://pypi.org/project/evalstone/) | 0.1.0 | Marcelo Ribeiro | 148.3 kB | The plug-and-play evals layer for LLM-based projects: datasets, checks, suites,… |
+| 2026-10-13 13:57:40 | [slim-serve](https://pypi.org/project/slim-serve/) | 0.1.0 |  | 244.5 kB | A small, observable inference server for local small language models (llama.cpp… |
+| 2026-10-13 14:02:18 | [py-azure-devops-sdk](https://pypi.org/project/py-azure-devops-sdk/) | 0.1.0 | "ZenProgramming.it" <zenprogr… | 15.7 kB | A typed Python SDK for Azure DevOps Work Item management |
+| 2026-10-13 14:02:37 | [ournotes-sim](https://pypi.org/project/ournotes-sim/) | 0.0.7 |  | 6.0 MB | The BanG Dream! Our Notes deck model (ournotes-sim) for Python: chart statistic… |
+| 2026-10-13 14:03:51 | [novi-confidence-intervals](https://pypi.org/project/novi-confidence-intervals/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 832 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
+| 2026-10-13 14:03:52 | [novi-model-serialization](https://pypi.org/project/novi-model-serialization/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 837 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
+| 2026-10-13 14:03:53 | [novi-pmi-paths](https://pypi.org/project/novi-pmi-paths/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 824 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
+| 2026-10-13 14:03:54 | [novi-survey-features](https://pypi.org/project/novi-survey-features/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 834 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
+| 2026-10-13 14:05:24 | [slom](https://pypi.org/project/slom/) | 0.1.0 |  | 203.8 kB | Durable, tool-using agents for small language models, with a SQLite-journaled e… |
+| 2026-10-13 14:06:55 | [dumph](https://pypi.org/project/dumph/) | 1.1.2 |  | 3.2 MB | Philippine mock data generator and python bindings for local dataset seeding, d… |
+| 2026-10-13 14:09:21 | [gemsmap](https://pypi.org/project/gemsmap/) | 0.3.0b1 | Bruno Batista | 985.4 kB | GEMs MAP: an interactive workbench for genome-scale metabolic models (COBRApy a… |
+| 2026-10-13 14:10:31 | [fair-ca-visualization](https://pypi.org/project/fair-ca-visualization/) | 0.4.0 | Matthias König <konigmatt@goo… | 829.9 kB | Interactive visualization of the FAIR COMBINE Archive Indicators (FAIR-CA) for… |
+| 2026-10-13 14:11:01 | [wiltech-labs-ai](https://pypi.org/project/wiltech-labs-ai/) | 1.0.1 | Wiliam Ferraciolli | 44.1 kB | AI building blocks for Wiltech FastAPI apps: Workers AI / Groq / Ollama behind… |
+| 2026-10-13 14:11:45 | [wiltech-labs-auth](https://pypi.org/project/wiltech-labs-auth/) | 1.0.1 | Wiliam Ferraciolli | 29.1 kB | Authentication and authorization for Wiltech FastAPI apps: Clerk JWT verificati… |
+| 2026-10-13 14:12:09 | [wiltech-labs-core](https://pypi.org/project/wiltech-labs-core/) | 1.0.1 | Wiliam Ferraciolli | 27.7 kB | Runtime plumbing for Wiltech FastAPI apps: config from Worker env or .env, a po… |
+| 2026-10-13 14:13:25 | [rustgis](https://pypi.org/project/rustgis/) | 0.2.0 | Qiusheng Wu <giswqs@gmail.com> | 53.2 MB | Python bindings to RustGIS, a fast, free and open-source GIS in pure Rust |
+| 2026-10-13 14:14:09 | [r9cam-models](https://pypi.org/project/r9cam-models/) | 0.6.0 | Simon van Lierde | 29.6 kB | Shared Pydantic models for R9lab Raspberry Pi Camera plugin models |
+| 2026-10-13 14:16:47 | [llama-index-tools-econdash](https://pypi.org/project/llama-index-tools-econdash/) | 0.1.1 | EconDash <noderguru@gmail.com> | 17.2 kB | LlamaIndex tools and a reader for EconDash time series across ten categories: m… |
+| 2026-10-13 14:17:12 | [tros](https://pypi.org/project/tros/) | 0.1.0 |  | 37.9 kB |  |
+| 2026-10-13 14:17:54 | [pipecat-sprag](https://pypi.org/project/pipecat-sprag/) | 0.1.0 | Sprag AI Inc. | 20.8 kB | Sprag speech and language models for Pipecat: Rhythm STT, Symphony LLM, and Cho… |
