@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T16:13:25Z,st3215-bus,0.1.0,Jan Nogga <jan@nogga.eu>,MIT,1256618,"Python bindings for Feetech ST3215 servo buses, built in Rust on NormaCore's st3215 protocol."
+2026-10-13T16:19:10Z,deploykar-mcp,0.1.0,DeployKar,MIT,40160,"MCP server for DeployKar: deploy, monitor and debug your apps from your IDE."
+2026-10-13T16:19:16Z,edifabric-x12,1.1.1,EdiFabric <support@edifabric.com>,LicenseRef-EdiFabric-EULA,15636533,"Python bindings for ediFabric Native X12: convert X12 EDI to JSON and back, validate, and generate acknowledgments."
+2026-10-13T16:21:30Z,frutebox,0.0.1,Frutebox,MIT,9481,Official Frutebox SDK for Python — call the Frutebox network. No third-party AI SDK required.
+2026-10-13T16:28:09Z,partworth,0.0.1,Koji Miyazawa,Apache-2.0,1237909,"Hierarchical Bayes choice-based conjoint analysis in Python, with Sawtooth-style outputs and a market simulator"
+2026-10-13T16:29:22Z,findermiss,0.1.0,NOPPARAT CHEUNARROM,MIT,17546,Fill missing values in time series (linear / harmonic / snap)
+2026-10-13T16:30:19Z,radionuclide-emission-db,0.4.5,Konstantinos Karafasoulis <ckaraf@gmail.com>,MIT,51858,"Ideal photon emission line spectra from MIRDspecs CSV data, source mixtures and narrow-beam filtering"
+2026-10-13T16:31:10Z,udbmcp,0.2.0,universal-db-mcp maintainers,Apache-2.0,513126,Read-only MCP server that gives AI agents safe access to your databases
+2026-10-13T16:31:26Z,iclub-api,0.1.0,,GPL-3.0-only,57646,Unofficial async iClub client SDK with SignalR and optional Playwright
+2026-10-13T16:32:40Z,amber-lang,2.9.3,Bonucci Andrea,AGPL-3.0-or-later,13981168,"The Amber columnar time-series engine, in process, with zero-copy NumPy/Arrow/pandas interop"
+2026-10-13T16:32:50Z,jpomop,0.0.1,Koji Miyazawa,Apache-2.0,122256,Convert Japanese DPC inpatient data to the OMOP Common Data Model v5.4
+2026-10-13T16:33:40Z,mail-notify,1.0.1,mail-notify contributors,MIT,413293,"Local daemon that e-mails you about Claude Code events, with a local settings web app."
+2026-10-13T16:34:45Z,sp-rtk-portal-protocol,0.9.0,John Roden,MIT,37757,Agent-to-Portal protocol shared by sp-rtk-portal and sp-rtk-base's Portal agent
+2026-10-13T16:37:42Z,sciencehub,0.1.1,ScienceHub,Apache-2.0,27275,Load the functions and data of ScienceHub projects in Python.
+2026-10-13T16:38:22Z,protoreel,0.1.0,Kingsley Mkpandiok,MIT,182513,Turn HTML prototypes into frame-perfect social videos — from a Studio app or any MCP client.
+2026-10-13T16:39:11Z,nemo-agent-toolkit-memanto,0.1.0,Memanto <info@memanto.ai>,Apache-2.0,181538,Memanto long-term memory backend for NVIDIA NeMo Agent Toolkit
+2026-10-13T16:40:02Z,source-emitter,0.1.0,,,4832,Prints a complete Python source example from one public function.
+2026-10-13T16:42:24Z,birling,0.1.0,Berislav Lopac <berislav@lopac.net>,MIT,142635,Measure how well Python code is covered by log calls.
+2026-10-13T16:44:53Z,mdok,0.1.0,Anton,MIT,33542,A document-grade terminal markdown reader with responsive centering and clean tables
+2026-10-13T16:45:44Z,adanvil,0.2.0,maxbuildog,MIT,8833500,Agentic video ad editor: an MCP server that turns your brand's footage into ready-to-run 9:16 ads.
+2026-10-13T16:45:45Z,dailydotsnek,1.0.0,,,11758,Python SDK for Daily.dev api
+2026-10-13T16:47:36Z,common-fonts,0.12,,,15835706,Third-party and custom fonts used by Reuben Institute projects
+2026-10-13T16:50:33Z,bump-my-version-gh-safe-release,0.1.0,Edvard Rejthar <edvard.rejthar@nic.cz>,LGPL-3.0-or-later,19159,Release only what passed the GitHub CI: a thin layer over bump-my-version.
+2026-10-13T16:50:56Z,memoflow-agent,0.1.0,"Nanjing Junhe E-Commerce Co., Ltd.",Apache-2.0,174323,"A lightweight, extensible Python AI agent framework with model-driven tool calling, durable execution, permission-aware tools, and human-in-the-loop workflows."
+2026-10-13T16:51:16Z,hilrp,0.2.0,Nishankar Sathiyamohan <e17230@eng.pdn.ac.lk>,MIT,109637,HiLRP: relevance propagation that explains hierarchical and hybrid Vision Transformers in one backward pass.
+2026-10-13T16:51:24Z,nwer,0.1.0,Your Name,,14982,A Python package for the nwer project
+2026-10-13T16:52:11Z,m3-score,0.1.0,Nishankar Sathiyamohan,MIT,94136,"M3-Score: fidelity, memorization and coverage as separate axes for evaluating generative radiology image models"
+2026-10-13T16:53:24Z,fastapi-openapi-overrides,0.1.0,Laurent Mignon <laurent.mignon@acsone.eu>,MIT,75436,Document the dependency overrides of a FastAPI application into its OpenAPI schema.
+2026-10-13T16:55:52Z,depii,0.1.0,depii contributors,Apache-2.0,106990,"Detect and redact personally identifiable information (PII) in text, nested data, logs, files and DataFrames."
+2026-10-13T16:57:49Z,hebrew-scriptures,0.31,,GPL-3.0-or-later,26029494,"Hebrew scripture text classes (Bible, Mishnah, Talmud, Zohar)."
+2026-10-13T16:57:51Z,scriptures-dev,0.31,,GPL-3.0-or-later,35011,Build the Scriptures JSON database from Sefaria sources
+2026-10-13T16:57:52Z,scriptures-web,0.31,,GPL-3.0-or-later,31525,Web viewer for scripture corpus
+2026-10-13T17:00:17Z,torchwavelets,0.1.0,Rachid El Montassir,BSD-3-Clause,9675084,"Torch-native successor to pytorch_wavelets: differentiable DWT (1D/2D), dual-tree complex wavelet transform (1D/2D/3D), DTCWT scattering, SWT and wavelet packets."
+2026-10-13T17:00:25Z,jupyterlab-gruvbox-material,1.1.0,mergelangelo,BSD-3-Clause,81254,Gruvbox Material (dark) theme for JupyterLab 3.
+2026-10-13T17:00:49Z,teiforge,0.3.0,Hồ Du Tuấn Đạt (Teichi),MIT,81226,"Lightweight toolkit for building AI agents with tools, memory and workflows"
+2026-10-13T17:04:39Z,stackapi-sdk,1.0.0,Stack Technology Limited,MIT,20955,"Official Python SDK for StackApi: payments, payouts, messaging, identity, bills, virtual cards, logistics and more behind one key."
+2026-10-13T17:07:03Z,pvsld,0.6.0,edu3250 <edu3250@gmail.com>,MIT,906284,PvUnifilar: MCP server and CLI that design and draw Mexican photovoltaic single-line diagrams.
+2026-10-13T17:07:26Z,queryearth,0.0.1,Manish Venumuddula,Apache-2.0,134059,"Match rules scoped by area, time and other dimensions to a request, and get caveats, coverage gaps and recommendations."
+2026-10-13T17:07:55Z,amap-python-sdk,0.1.2,KunxiSun <sunkunxi@qq.com>,MIT,22828,A Python SDK for the Amap Web Service APIs
+2026-10-13T17:08:07Z,locker-cli,1.0.0,Uncle Yam,MIT,31449,Set an iPhone Screen Time passcode (or any keypad code) that you yourself don't know
+2026-10-13T17:09:22Z,turkish-linguistic-features,0.2.0,Efe Ziya Okul <efeziya@live.com>,MIT,448118,A comprehensive toolkit for extracting quantitative linguistic features from Turkish and English text.
+2026-10-13T17:11:14Z,gdm-reduce,0.1.0a2,,BSD-3-Clause,127528,Phase-aware Kron reduction for grid-data-models distribution systems
+2026-10-13T17:11:48Z,moodlesolver,1.0.0,,MIT,15864,Async Moodle quiz automation client with a Telethon-style session API
+2026-10-13T17:15:46Z,mywebscrcpy-sdk,1.20.1,,,17233,Python client for MyWebScrcpy device automation
+2026-10-13T17:16:21Z,wgpudawn,0.0.1,"Mark Harfouche, Almar Klein, Korijn van Golen",BSD-2-Clause,27565798,"WebGPU for Python, on Dawn. A standalone build of the wgpu-py API with a Dawn backend."
+2026-10-13T17:17:25Z,s1wvcalibration,2026.10.13,Antoine Grouazel <antoine.grouazel@ifremer.fr>,MIT,82675,Geophysical calibration of Sentinel-1 Wave Mode (WV) observations

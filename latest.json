@@ -1,19 +1,25 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-10-13T15:18:37.632845Z",
-    "path": "data/new-packages-2026-10-13T16-18-35-79594Z.csv",
-    "to": "2026-10-13T16:18:35.79594Z"
+    "count": 46,
+    "from": "2026-10-13T16:18:35.79594Z",
+    "path": "data/new-packages-2026-10-13T17-19-24-273328Z.csv",
+    "to": "2026-10-13T17:19:24.273328Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-13T16:13:25Z",
-      "package": "st3215-bus",
-      "since": "2026-10-13T15:18:37.632845Z"
+      "created_at": "2026-10-13T17:07:54Z",
+      "package": "amap-python",
+      "since": "2026-10-13T16:18:35.79594Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-13T16:24:34Z",
+      "package": "helia-ml",
+      "since": "2026-10-13T16:18:35.79594Z"
     }
   ],
-  "serial": 42188933,
+  "serial": 42191379,
   "source_truncated": false,
-  "window": "2026-10-13T16:18:35.79594Z"
+  "window": "2026-10-13T17:19:24.273328Z"
 }
