@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T07:04:28Z,odoo-addon-web-widget-sub-view,16.0.1.0.0.2,"Dixmit,Odoo Community Association (OCA)",AGPL-3,24032,Create a subview widget
+2026-10-13T07:21:35Z,labschema,0.1.0,LabSchema Contributors,MIT,66295,A Python library that turns messy lab-style tables into typed schemas with physical units and validation
+2026-10-13T07:23:03Z,wred,0.2,Harrison Erd <harrisonerd@gmail.com>,,339186,An ultra-minimal ASGI framework for JSON APIs.
+2026-10-13T07:23:40Z,pywebbridge,0.1.0,,,2479,
+2026-10-13T07:24:29Z,termfits,0.1.0,Ian Heywood <email.ian.heywood@gmail.com>,MIT,37603,"A terminal FITS image viewer with zoom and pan, tuned for radio images"
+2026-10-13T07:24:37Z,framework-agents,0.1.1,Framework Agents,MIT,334696,"Python agent framework: ReAct loop, tools, memory, streaming, budgets, middleware, multi-agent, semantic graph, A2A serving - parity with the TypeScript package"
+2026-10-13T07:25:45Z,flash-images-builder-core,1.0.72,Texas Instruments,,93094,Python flash images builder implementation for CC33xx/CC35xx/CC36xx/CC37xx devices
+2026-10-13T07:25:48Z,programmer-core,1.0.29,Texas Instruments,,56017,Python flash images builder implementation for CC33xx/CC35xx/CC37xx
+2026-10-13T07:25:51Z,ti-cc33xx-pyxds110,1.0.8,Texas Instruments,,611532,Python XDS110 implementation for CC33xx
+2026-10-13T07:25:53Z,ti-cc3xxx-pycmsisdap,1.0.0,Texas Instruments,,7816,Python CMSIS-DAP implementation for CC33xx/CC35xx
+2026-10-13T07:29:01Z,infralayer,0.2.0,InfraLayer Team,MIT,46304,"InfraLayer Python SDK - Pre-LLM security filtering, sanitization, and telemetry client"
+2026-10-13T07:30:15Z,librecoding,0.7.0,ar,MIT,13925,"Agent library: chat prompts answered, file prompts processed files/ -> files2/"
+2026-10-13T07:30:30Z,kmedsecting,0.1.0,Rangga Wahyu Pratama <ranggawahyupratama986@gmail.com>,MIT,22673,Implementasi Teknis Bisecting pada Algoritma K-Medoids
+2026-10-13T07:33:01Z,vexy-co-model-catalog,1.0.5,"Adam Twardoch <adam+github@twardoch.com>, ""Fontlab Ltd."" <opensource@vexy.art>",MIT,443686,"Fetch, normalize and store AI model catalogs from 40 providers, and generate model configs for aichat, codex and mods"
+2026-10-13T07:33:12Z,vexy-mkdocs-markdown-in-template,1.0.6,Adam Twardoch <adam+github@twardoch.com>,MIT,12391,A MkDocs plugin that lets you use Markdown inside the theme's Jinja2 template files.
+2026-10-13T07:35:20Z,base-to-base-number,0.0.2,Tima Chuduk <tima-chuduk@timthewebmaster.com>,MIT,37279,"A package for converting numbers from one base to another. It supports bases from 2 to 36, as well as positive and negative numbers, including both integers and fractions."
+2026-10-13T07:35:50Z,ascend-quant-toolkit,0.4.2,Ascend Quantization Team,Apache-2.0,119149,"Offline calibration, conversion, artifact export, and evaluation tools for Ascend quantization"
+2026-10-13T07:36:33Z,django-derived-relation,0.1.0,,BSD-3-Clause,37507,Ordinary and lateral derived-query joins for Django
+2026-10-13T07:36:47Z,auth-paseto,0.1.0,Kohio Deflesselle,MIT,16705,"Access/refresh token authentication built on PASETO, a safer alternative to JWT."
+2026-10-13T07:37:28Z,odoo-addon-sale-order-import-address-extended,18.0.1.0.1,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,23116,Glue module to use sale orders' import with extended addresses
+2026-10-13T07:39:35Z,a2amx,0.0.0.dev0,PSQR,FSL-1.1-ALv2,4504,"a2amx: agent-to-agent message exchange between the agents you already run, across vendors and apps. Placeholder release holding the name; the product's 0.0.0 follows."
+2026-10-13T07:41:37Z,audiobook-kit,0.1.0,,,149880,Convert single-file audiobooks plus EPUBs into chaptered M4B files
+2026-10-13T07:42:18Z,pyCEURsemantify,0.0.1,Wolfgang Fahl <wf@bitplan.com>,Apache-2.0,115863,Semantification of the CEUR-WS publication workflow
+2026-10-13T07:43:05Z,pyblade-ui,0.1.0,princelulinda <princelulinda@gmail.com>,MIT,185030,"Copy-paste UI components and themes for PyBlade, in the spirit of shadcn/ui."
+2026-10-13T07:43:50Z,hawkopsec,2.0.0,EmreKybs,MIT,6894458,"One-tap Linux OPSEC hardening & anonymity toolkit — Tor routing, DNS/IP leak tests, identity spoofing, trace cleaning (PyQt6)."
+2026-10-13T07:44:36Z,subsampler,0.6.12,Simon Holliday <simon.holliday@protonmail.com>,AGPL-3.0-or-later,1908320,"Automatic sample harvester, analyser, and MIDI instrument"
+2026-10-13T07:45:14Z,rulestamp-gnu-global-cpp-vscode-config-pack,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33303,"21 rules that read the values in a shared .vscode folder, plus 45 snippets. VS Code loads a wrong value without a word - this names the line and the fix. (bundled Node.js runtime)"
+2026-10-13T07:45:22Z,rulestamp-geg-87-listing-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38458,"13 rules over German property-ad HTML: the five mandatory Section 87 GModG fields, the ten-year certificate limit, and the Anlage 10 class band that has to match the kWh value. The bundled broken Lei…"
+2026-10-13T07:45:39Z,rulestamp-gerichtskosten-tabelle-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35092,"Veraltete Gebührenwerte seit 1.6.2025 (KostRÄG 2025, BGBl. 2025 I Nr. 109): GKG Anlage 2, RVG Anlage 2, Mahnbescheid-Mindestgebühr Nr. 1100 KV GKG 38,00 € statt 36,00 €. (bundled Node.js runtime)"
+2026-10-13T07:45:54Z,rulestamp-gitlab-ci-break-lint,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35021,Names the .gitlab-ci.yml lines your runner will reject after the next GitLab major upgrade (bundled Node.js runtime)
+2026-10-13T07:45:58Z,mcp-check-server,0.1.0,,,1831,Minimal MCP server demo (say_hello tool)
+2026-10-13T07:48:50Z,pydsh,0.1.0.dev1,,,2543,
+2026-10-13T07:50:48Z,fastapi-user-manager,0.1.0,Kohio Deflesselle,MIT,33917,"User management for FastAPI with SQLModel: registration, verification, password reset and OAuth accounts, using PASETO tokens."
+2026-10-13T07:52:15Z,phantom-deps,0.1.0,hao li,MIT,28512,Hallucinated-dependency scanner: verify every package in your manifests and imports actually exists on PyPI/npm before you install
+2026-10-13T07:53:05Z,contextleak,0.1.0,hao li,MIT,24020,Check which sensitive files your Docker build context would leak into the image
+2026-10-13T07:53:54Z,skill-pin-verify,0.1.0,hao li,MIT,26720,"Integrity verifier for AI agent skill packages: pin tarballs by SHA-256 and scan for install hooks, exfiltration, and obfuscation."
+2026-10-13T07:54:43Z,webmcp-bridge,0.1.0,hao li,MIT,24315,Expose Browser Buddy's logged-in-browser tools as WebMCP-callable endpoints (stdlib only)
+2026-10-13T07:59:29Z,Ownbox,0.0.1,,,3507,The Ownbox developer kit: build a machine for an Ownbox. This release reserves the name; the kit follows.
+2026-10-13T07:59:43Z,byoe-ontology,0.1.0,"""byoe.net"" <hi@byoe.net>",MIT,15012,BYOE 本体核心包——企业系统语义层的格式、校验、版本化存储与 SimRep/SimAct 互通
+2026-10-13T08:00:22Z,imaging-metadata-converter,2.0.1,,"MIT License Copyright (c) 2026 NL-BioImaging AM Permission is hereby granted, free of charge, to an…",342623,Convert custom imaging acquisition metadata to common metadata
+2026-10-13T08:02:22Z,openbacktesting,0.2.0,,Apache-2.0,1508025,OpenBacktesting native historical backtesting engine
+2026-10-13T08:09:23Z,livekit-plugins-bodhi,0.1.0,Navana Tech,Apache-2.0,7516,LiveKit Agents plugin for Bodhi (Navana Tech) STT and TTS
+2026-10-13T08:09:24Z,pipecat-bodhi,0.1.0,Navana Tech,Apache-2.0,6128,Pipecat services for Bodhi (Navana Tech) STT and TTS
+2026-10-13T08:10:02Z,furiosa-kernels-contrib,2026.4.0,"""FuriosaAI, Inc."" <pkg@furiosa.ai>",LicenseRef-Proprietary,1857,Furiosa Runtime-owned TCL kernels
+2026-10-13T08:10:41Z,cpu-llm,1.7.0,Amin Parva <parvaamin@gmail.com>,,9341421,"CPU epistemic text engine. Answers from stored paragraphs, with no GPU decoder."
+2026-10-13T08:10:44Z,furiosa-smi,2026.4.0,,,11960161,
+2026-10-13T08:11:45Z,zipfolio,0.1.0,Ziplime,Apache-2.0,136991,"Backtest tearsheets that read the book, not just the returns: positions, instruments, sectors, factors, execution realism and trading costs. Part of the ZipLime ecosystem."
+2026-10-13T08:12:12Z,caddforge-opencosmors,0.0.1,thmsg,LGPL-3.0-only,504641,CADDForge-maintained redistribution of the openCOSMO-RS Python implementation.
+2026-10-13T08:12:18Z,decision-ui,0.1.0,panuthept,,22360,Add your description here
+2026-10-13T08:12:41Z,caddforge-unidock-tools,1.1.3,"Yannan Yuan <yuanyn@dp.tech>, Hang Zheng <zhengh@dp.tech>, Hong-Rui Lin <linhongrui@dp.tech>, Pengl…",Apache-2.0 AND GPL-2.0-or-later AND (GPL-3.0-or-later WITH GCC-exception-3.1),21840257,CADDForge-maintained redistribution of Uni-Dock Tools.
+2026-10-13T08:14:52Z,vetter,0.2.0,Daniele Linguaglossa,Apache-2.0,4417229,"Vets every command your AI agent wants to run: bash, PowerShell, cmd.exe and inline Python read as they run, decided by a policy you can test."
+2026-10-13T08:15:00Z,lucen-sdk,0.1.0,,Apache-2.0,1661773,MouseMouse API client (generated from the hub's OpenAPI contract)
+2026-10-13T08:15:21Z,lucen-mcp,0.1.0,,Apache-2.0,131037,"MouseMouse MCP server (`lucen-mcp`) — the hub's tools, for an agent"
+2026-10-13T08:15:30Z,lucen-cli,0.1.0,,Apache-2.0,854088,"MouseMouse CLI (`lucen`): push robot data, train and sim-test policies, hand them to a robot through a consent gate"
+2026-10-13T08:19:21Z,kicksdk-py,0.1.0,,MIT OR Apache-2.0,3850469,"Kick (kick.com) without the I/O: requests, parsers, the realtime chat protocol and webhook verification, from one Rust core"
+2026-10-13T08:19:52Z,fair-metadata-integration,0.1.0,Joost de Folter <folterj@gmail.com>,MIT,12833,"Integrate and package all metadata into RO-Crate, linking to other metadata files"
