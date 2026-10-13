@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T17:19:37Z,easycaptcha-sdk,0.1.0,,MIT,33482,Easycaptcha API SDK with interchangeable sync and async transports
+2026-10-13T17:21:15Z,sdccdif,4.1.0,"Axius SDC, Inc.",Apache-2.0,49319,"Describe a published Semantic Data Charter model's governed data records in CDIF JSON-LD (Core, Discovery, Data Description, Codelist)."
+2026-10-13T17:21:28Z,langchain-openpath,0.1.0,Openpath <contact@openpath.sh>,MIT,10187,"LangChain tools for Openpath: live listings across the US (jobs, local businesses and services, homes, products) for your agent. No key and no sign-up."
+2026-10-13T17:21:29Z,sdcdcatap,4.1.0,"Axius SDC, Inc.",Apache-2.0,46266,Describe published Semantic Data Charter models' governed data records in a DCAT-AP 3.0.1 catalog.
+2026-10-13T17:21:32Z,sdcdcatus,4.1.0,"Axius SDC, Inc.",Apache-2.0,43242,Describe published Semantic Data Charter models' governed data records in a DCAT-US 3.0 catalog (data.json).
+2026-10-13T17:24:30Z,sdchealthdcatap,4.1.0,"Axius SDC, Inc.",Apache-2.0,64815,Describe published Semantic Data Charter models' governed data records in a HealthDCAT-AP (Release 8) catalog.
+2026-10-13T17:25:51Z,simcheck,0.1.0,Jash Shah <jashshah.999@gmail.com>,Apache-2.0,224298,"Check that robot and object assets (URDF, MJCF) actually behave in physics engines"
+2026-10-13T17:27:34Z,slate-client,0.2.0,slate-orm contributors,Apache-2.0,395536,A typed Python client for the slate-orm gRPC head node
+2026-10-13T17:27:48Z,odoo-addon-sale-product-catalog-extended,18.0.1.0.0.18,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,66652,Sale Product Catalog Extended
+2026-10-13T17:30:48Z,dakota-app-surface,0.0.0,Dakota (OLV),Proprietary,2981,Placeholder for the Dakota self-hosted OLV distribution (dakota-app-surface). Real releases ship with byob-dist phase 3.
+2026-10-13T17:30:49Z,dakota-hermes-plugin,0.0.0,Dakota (OLV),Proprietary,3009,Placeholder for the Dakota self-hosted OLV distribution (dakota-hermes-plugin). Real releases ship with byob-dist phase 3.
+2026-10-13T17:33:43Z,imtypeset,0.4.1.192900,Walter Reel,MIT,4776659,"Typeset text for Dear ImGui, on TeX's box-and-glue model: the build for imgui-bundle 1.92.900"
+2026-10-13T17:35:07Z,dashwire,0.1.0,Mees Akveld,ISC,18428,Connect a Python project to a Dashwire control plane.
+2026-10-13T17:35:12Z,geomcore-viewer,0.2.0,,MIT OR Apache-2.0,3071215,"Live, geometry-aware browser viewer for geomcore: Python client + local server. Stdlib only."
+2026-10-13T17:36:01Z,pytest-django-admin-kit,1.0.0,Yevhen Nosolenko,"MIT License Copyright (c) 2026 Yevhen Nosolenko Permission is hereby granted, free of charge, to an…",193274,A pytest toolkit for writing conscious tests against the Django admin.
+2026-10-13T17:36:37Z,open-fpv-sim,0.1.0,,GPL-3.0-or-later,76467,Python client for Open FPV Sim: an FPV drone simulator that runs real Betaflight
+2026-10-13T17:39:27Z,surecheck-mcp,0.1.1,,,3189,Local stdio MCP wrapper for SureCheck phone metadata and email syntax/DNS
+2026-10-13T17:40:38Z,addy-mcp,0.1.0,AJ <845325+Former-Stranger@users.noreply.github.com>,MIT,32575,"MCP server for managing an addy.io account (aliases, recipients, domains, rules, and more)"
+2026-10-13T17:42:02Z,btcmonitor,0.9.0,Alexander Falk,MIT,95789,"Terminal dashboard for a local Bitcoin Core node: mempool, fees, blocks, peers and sync progress"
+2026-10-13T17:44:08Z,unitchain,0.1.0,,,8468,"One decorator. Every call gets a signed, hash-chained receipt."
+2026-10-13T17:44:28Z,thailandhosting-object-storage,1.0.0,,MIT,43020,Python SDK for ThailandHosting Object Storage
+2026-10-13T17:44:35Z,thailandhosting-queue-service,1.0.0,,MIT,23992,Python SDK for ThailandHosting Queue Service
+2026-10-13T17:46:45Z,uv-wheel-download,0.1.1,,MIT,42773,Download every wheel/sdist pinned in uv.lock into a local folder for offline installs (a pip-free `pip download`)
+2026-10-13T17:48:12Z,giggy,0.1.3,Giggy,ISC,24005,Official Python SDK for Giggy text-to-speech and speech-to-text.
+2026-10-13T17:48:44Z,zion-60eb,25.0.1,,MIT,1671,OMETEOTL v25 FUSED INT2 8x Prefill 2048 Triton
+2026-10-13T17:50:53Z,elome,0.16.1,David Kipping,MIT,386559,"Elómë: analytic, differentiable transit light curves on Apple Silicon (MLX), with a batman-style frontend"
+2026-10-13T17:53:53Z,canada-tax-toolkit,0.2.0,Ronit Gupta,MIT,14136,"Simple, transparent Canadian (federal + Ontario) income tax calculations"
+2026-10-13T17:54:12Z,vibetyping,0.0.1,,,1258,
+2026-10-13T17:54:50Z,layaeval,0.1.2,Vinay Chaudhari,Apache-2.0,66831,Agent and RAG evaluation metrics powered by the Laya MCP server
+2026-10-13T17:54:57Z,ration-cli,0.3.0,Karthik Nambiar,MIT,458333,Spend intelligence where it matters. The inference control plane for coding agents.
+2026-10-13T17:57:54Z,pybot3,0.1.0,PyBot3 Contributors,AGPL-3.0-or-later,56123,A modular Python toolkit for building bots across multiple platforms.
+2026-10-13T18:10:54Z,geometrykit,0.0.2,Sander Boer,"MIT License Copyright (c) 2026 Sander Boer Permission is hereby granted, free of charge, to any per…",7373,Geometry primitives and NURBS data model — the geometry substrate for the ifckit family
+2026-10-13T18:19:12Z,automationprime,1.0.0,Michael Mintz,MIT,5147,AutomationPrime: Special projects for SeleniumBase.
