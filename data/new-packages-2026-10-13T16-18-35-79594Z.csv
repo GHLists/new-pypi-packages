@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T14:23:52Z,adaptive-rag-py,0.17.0,Adaptive RAG contributors,Apache-2.0,785766,CPU-first RAG retrieval for everyone. No GPU. No embedding API. No cloud bill.
+2026-10-13T15:18:47Z,storelimitless,0.1.1,,,181279616,Python SDK for StoreLimitless
+2026-10-13T15:19:29Z,mongospecs-web,0.2.0,Jay <jay.github0@gmail.com>,MIT,125593,Framework-neutral REST resources for mongospecs models
+2026-10-13T15:20:39Z,caddforge-fep,0.7.0,"Manuel Sellner <manuel.sellner@idorsia.com>, Christoph Sager <christoph.sager@idorsia.com>",MIT,168627,Free energy perturbation workflows for the CADDForge toolbox.
+2026-10-13T15:21:35Z,caddforge-docking,0.7.0,"Manuel Sellner <manuel.sellner@idorsia.com>, Christoph Sager <christoph.sager@idorsia.com>",MIT,198835,Molecular docking workflows for the CADDForge toolbox.
+2026-10-13T15:21:38Z,ezpiizi,0.1.0,Reda Mountassir <redtius@gmail.com>,MIT,65869,"Reversible PII pseudonymisation for French / Moroccan LLM assistants: Presidio, or Presidio + PII-Tracer"
+2026-10-13T15:21:46Z,Orange3-DeepSeek-Constructor,0.0.2,Zuo Zhang and Yuxin Zhang,MIT,18913,DeepSeek add-on for Orange3: construct a text field with the DeepSeek LLM.
+2026-10-13T15:22:06Z,zephyr-installer,1.0.0,"""Nima Askari (NimaLTD)"" <nima.askari@gmail.com>",Apache-2.0,140430,"Install embedded C libraries into a Zephyr application, as Zephyr modules"
+2026-10-13T15:22:48Z,pettec-xlink,0.1.0,,MIT,30117,Async local Xlink client for PetTec PF 05WD pet feeders
+2026-10-13T15:24:45Z,mdapy-v2,2.0.0,Pablo Garcia,MIT,13817,Maximum Dissimilarity Algorithm in Python
+2026-10-13T15:25:26Z,storypy-climate,0.0.1,Richard Alawode <richard.alawode@uni-leipzig.de>,MIT,30206945,A Python package to compute climate storylines
+2026-10-13T15:25:44Z,wolfhece-core,3.0.0,Pierre Archambeau <pierre.archambeau@uliege.be>,LicenseRef-Proprietary,387511,"Data models of the WOLF toolkit (HECE, University of Liege): arrays, vectors, parameters, 2D simulation files - no GUI, no native library"
+2026-10-13T15:27:17Z,cheburek-core,0.1.1,,,7598,A core library for the Cheburek text generation bot.
+2026-10-13T15:31:24Z,run-dig,0.2.0,,MIT,105052,Find experiments and trace their relationships.
+2026-10-13T15:32:45Z,ckanext-zenodo,0.1.1,ICS <groupe-info-ics@igbmc.fr>,AGPL-3.0-or-later,43559,"Publishes large or non-tabular dataset files to Zenodo (sandbox or production) instead of CKAN storage, mapping FDF metadata into the Zenodo deposition."
+2026-10-13T15:33:15Z,wpdm,0.1.1,Szymon Bobek <szymon.bobek@gmail.com>,"MIT License Copyright (c) 2024 Szymon Bobek Permission is hereby granted, free of charge, to any pe…",6046,Warsztat Praktyka Data Mining
+2026-10-13T15:33:40Z,ccssh,1.0.0,MishaKorzhik_He1Zen,MIT,272636,"From-scratch SSH client in Python (sync + async + CLI), OpenSSH-interop verified"
+2026-10-13T15:33:55Z,remic,0.0.0,,,2431,Name reserved. The package is not yet released.
+2026-10-13T15:35:58Z,diagnos,0.1.0,diagnos,Apache-2.0,5465203,"🇺🇸 The diagnos vault from Python: zero-knowledge SDK, CLI and REST API · 🇧🇷 O cofre diagnos no Python: SDK zero-knowledge, CLI e API REST"
+2026-10-13T15:37:35Z,apipj,0.1.0,MASTER BI TECNOLOGIA LTDA,MIT,46539,"API CNPJ gratuita para Python: consultar CNPJ na Receita Federal, validar CNPJ e CNPJ alfanumérico. Razão social, situação, endereço, CNAE, sócios. Plano grátis com 50 mil consultas/mês."
+2026-10-13T15:37:53Z,hlaont,0.1.0,Aleix Canalda,MIT AND GPL-3.0-only,8080604,Confidence-aware full-field HLA typing from ONT R10 long reads
+2026-10-13T15:39:38Z,frozentrace,0.1.0,muguang1224,MIT,35158,Deterministic record & replay for AI agent runs — stable even under concurrency and streaming.
+2026-10-13T15:40:16Z,vquanty,0.1.1,,,9744,Client for a Taiwan market data API (wide date x security frames with local cache)
+2026-10-13T15:40:43Z,wibechat,0.1.0,,MIT,2864,Wibechat Python SDK — token generation for Wibechat calling
+2026-10-13T15:41:45Z,honestboard,0.1.0,David Banahene,MIT,68443,"Statistical checks for AI leaderboards: a selective record test with online certification, rank intervals, a confidence set of the best system and a winner's-curse correction, from per-task results."
+2026-10-13T15:41:55Z,dotslot,0.2.1,,MIT,41822,"Let agents fill the blanks in a file, and prove they touched nothing else."
+2026-10-13T15:42:48Z,gen3pyutils,3.0.0,CTDS UChicago,Apache-2.0,179944,This package includes several utility Python tools for the Gen3 stack.
+2026-10-13T15:43:55Z,vaezip,0.1.0,,Unlicense,50242,Compression of VAE latents: low-bit quantization codecs on PyTorch and safetensors
+2026-10-13T15:44:44Z,sf-smartgate,0.1.0,SmartTasks Lab,Apache-2.0,130753,"Decision friction and a human override for AI agents: score each action, ask a person before risky ones, kill any action or agent with one logged call."
+2026-10-13T15:49:04Z,locketlam,1.1.0,Lam Dev <lamdev2104@gmail.com>,MIT,39488,Unofficial Python API client for Locket Camera with full iOS device emulation.
+2026-10-13T15:49:39Z,ct-setting-sdk,4.0.0rc1,,MIT,131103,The environment side of the Control Tower env API
+2026-10-13T15:50:50Z,vibes-client,0.1.0,drek124 <drek.dev124@gmail.com>,MIT,58952,The VIBES Streaming API Wrapper
+2026-10-13T15:53:35Z,fontcase,0.1.2,unicodeces <none@email.com>,MIT,28539,"Offline catalog of 150 Google Fonts, organized by category, with API and CLI."
+2026-10-13T15:55:28Z,social-jev,0.1.0a1,,MIT,25988,Jev-like classification foundation models for the social sciences
+2026-10-13T15:56:56Z,control-tower,6.0.0rc3,LinuxArena,MIT,1868697,Control Tower evaluation framework for AI control research
+2026-10-13T16:00:44Z,napari-profilometry,0.1.1,Paolo Maran,MIT,58889718,Napari plugin for extracting and unwrapping phase from Fringe Projection Profilometry images.
+2026-10-13T16:00:56Z,aicir,0.0.1,Future Team,,1150,Placeholder for aicir quantum simulator
+2026-10-13T16:01:16Z,lita-tokenizers-kytea-py,0.1.0,,,8017610,KyTea bindings for Python.
+2026-10-13T16:04:06Z,aicir-mcp,0.0.1,Future Team,,1023,Placeholder for aicir quantum simulator
+2026-10-13T16:10:42Z,anagrapheus,0.1.0,Anentropic,,264627,"Event-sourced timeline, belief store, and identity layer for long-running agents."
+2026-10-13T16:11:30Z,glyphguard,0.1.0,Nic Jones,Apache-2.0,167695,"See what the machine sees. Unicode security for humans, filters, and models."
+2026-10-13T16:13:14Z,karmadue-guard,0.1.0,,MIT,35891,Thin wrapper for the karmadue-guard Node CLI: checks npm/npx/pnpm/yarn and pip/uv installs with KarmaDue's public check before they run. Requires Node.js 18+.
+2026-10-13T16:14:20Z,pagewise,0.1.0,Pagewise Contributors,MIT,36047,"Answer questions from a PDF/DOCX/TXT by finding the passage that already contains the answer. No LLM, no API key."
+2026-10-13T16:14:47Z,llm-security-scanner-skill,0.1.0,Konrad Malinowski,MIT,257397,"Cross-platform AI agent skill for llm-security-scanner - OWASP Top 10 for LLMs scanning from Claude, Gemini, Codex and MCP"
+2026-10-13T16:14:55Z,smogon-stats,0.1.0,Martin,MIT,9651,Load the Smogon usage stats datasets published on Kaggle as polars LazyFrames.
