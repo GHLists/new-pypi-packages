@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T09:36:34Z,docling-rs-mcp,2.22.0,,MIT,6855,"MCP server that converts documents to Markdown for AI agents: PDF with layout, tables and OCR, DOCX, PPTX, XLSX, HTML, scans. docling in Rust, MarkItDown's convert_to_markdown tool."
+2026-10-14T11:21:09Z,flask-inbound-email,0.1.0,Enjinia,Apache-2.0,59080,"Give every user of your Flask app their own email address: forwarded emails, attachments and calendar invites arrive already read."
+2026-10-14T11:22:56Z,anchorpin,0.0.1,,MIT,3188,Reserved for the Anchorpin agent install guard
+2026-10-14T11:25:02Z,toolframe-testkit,0.1.2,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,78602,Public contract checks and installed-application tests for Toolframe developers
+2026-10-14T11:25:57Z,multigeom,0.1.0.dev1,"Steeve Laquitaine, Ulisse Ferrari",MIT,291750,"Multi-scale Fisher information geometry of neural population codes, estimated with conditional diffusion models."
+2026-10-14T11:26:44Z,payriff-python,0.1.2,,MIT,44610,Python client for the Payriff merchant API
+2026-10-14T11:27:51Z,saltapp-langflow,0.1.1,0x0000F8 <0000F8@proton.me>,MIT,74711,"Langflow custom components exposing Salt (saltapp.ai) agent actions: send a message (encrypted or, in an open room, plain), ask a human and check for the tap, request payment, read a room on demand,…"
+2026-10-14T11:27:53Z,baenggipyo,0.1.0,,MIT,313331,네이버 항공권·스카이스캐너 항공권을 조회하는 LLM 친화 CLI
+2026-10-14T11:28:00Z,yantraxa-bridge,0.1.0,,Apache-2.0,219150,Connects a locally hosted AI to Yantraxa meetings over an outbound WebSocket.
+2026-10-14T11:30:00Z,aiolauntel,0.1.0,,MIT,22988,Asynchronous client for the My Launtel mobile API
+2026-10-14T11:30:50Z,ub-needs-exchange,1.0.0,team useblocks <info@useblocks.com>,,15669,"The record of the needs.json exchange format, and its reader, for the sphinx-needs family and ubCode"
+2026-10-14T11:31:15Z,dxts-http,0.1.0b1,DeX 25hz,MIT,38224,A custom HTTP client and networking engine by DeXThrone Studio
+2026-10-14T11:31:47Z,openbacktesting-studio,0.1.0,,Apache-2.0,2775396,Local strategy workspace for OpenBacktesting
+2026-10-14T11:32:43Z,proof-holdings-sdk,1.1.0,proof.holdings,MIT,178849,Official Python SDK for the proof.holdings verification API
+2026-10-14T11:32:56Z,edgeorluck,2.1.0,edge or luck,MIT,721660,"Is a trading strategy's record a real edge, or luck? An honest, reproducible judge for traders and their AI assistants."
+2026-10-14T11:33:24Z,dinemic-cli,0.0.19,,AGPL-3.0 OR LicenseRef-CloudOver-Commercial,146981,CLI for the Dinemic control plane
+2026-10-14T11:33:39Z,smartera-agentkit,0.1.0.dev1,,MIT,40358,Conservative repository scaffolding for coding agents
+2026-10-14T11:35:21Z,company-portfolio-package,0.1.0,puzzllium <puzzllium@gmail.com>,MIT,49438,Company/group site package for the Core boilerplate: a company profile plus members with public pages and downloadable (uploaded or auto-generated PDF) CVs.
+2026-10-14T11:36:22Z,python-traceprint,0.1.2,Lucas Lopez,MIT,115530,"Readable print and logging traces with timing, labels, and nesting."
+2026-10-14T11:38:32Z,secret-stat,1.0.0,,,65925,Vérification du secret statistique : secret primaire et secret secondaire par pivot de Gauss
+2026-10-14T11:38:48Z,pycatia3dx,0.1.1,Paul Bourne <evereux@gmail.com>,MIT,3973138,A python package for automation of the CATIA 3DEXPERIENCE cad application.
+2026-10-14T11:43:14Z,ecommerce-package,0.1.0,puzzllium <puzzllium@gmail.com>,MIT,82280,"Ecommerce site package for the Core boilerplate: catalog with filtering, cart, checkout/orders with PDF invoices, wallet, a pluggable payment gateway (mock by default), a support-ticket system, and c…"
+2026-10-14T11:43:57Z,bothy,0.0.1,The Bothy Contributors,MIT OR Apache-2.0,14896,"Serverless, local-first sync engine that uses your own Google Drive as the transport. Early development."
+2026-10-14T11:46:14Z,claims-cli,0.6.0,Elliot Tower <elliot@elliottower.ai>,MIT,396280,"Check what a manuscript states against the files it names: numbers, table cells and quotations"
+2026-10-14T11:46:24Z,crawlora-spotify,0.2.0,Crawlora,MIT,72156,"Crawlora Spotify API client with 38 endpoints for search, tracks, albums, artists, playlists, profiles, audiobooks, charts, and podcast shows and episodes"
+2026-10-14T11:46:55Z,bsa-linter,0.1.0b2,,MIT,99525,BSA architecture linter for Python applications
+2026-10-14T11:49:28Z,tomoconverter,1.0.0,"""Neville B.-y. Yee"" <neville.yee@rfi.ac.uk>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",36705,A mini tool for converting volumetric images from one format to another
+2026-10-14T11:49:43Z,wthaiq,1.0.0,Wthaiq <support@wthaiq.com>,MIT,126908,Official Python library for the Wthaiq e-signature API.
+2026-10-14T11:50:20Z,mcp-trust-monitor,0.2.0a1,,MIT,594877,Managed MCP client that binds tool trust to reviewed metadata revisions and enforces quarantine before dispatch.
+2026-10-14T11:51:32Z,sf-smartwatch,0.1.0,SmartTasks Lab,Apache-2.0,174522,"Coupling-density monitor for multi-agent systems: measures how densely agents talk to each other, raises graded alerts, and proposes or issues resets before coordination outgrows human oversight."
+2026-10-14T11:52:22Z,leakhunterx-agent,1.1.0rc1,LeakHunterX,MIT,532300,LeakHunterX Security Scanning Agent
+2026-10-14T11:54:13Z,dkitchen,0.1.1,917Dhj,MIT,77421,"A multi-agent workflow for research repos, with the ding CLI for messaging and waking agent sessions"
+2026-10-14T11:54:52Z,kade-agent-sdk,0.1.0,,LicenseRef-PolyForm-Shield-1.0.0,19644,Creator SDK for Kade: verify gateway requests and report billable events
+2026-10-14T12:04:26Z,nmrglue-ng,1.0.0,"""Jonathan J. Helmus"" <jjhelmus@gmail.com>",BSD-3-Clause,51238986,An independent continuation of nmrglue for working with NMR data in Python
+2026-10-14T12:04:31Z,ramllm,0.1.0,RAMLLM Authors,Apache-2.0,509045,"Run bigger models on smaller machines — RAM-adaptive, GPU-aware LLM inference manager"
+2026-10-14T12:09:42Z,dynamic-document-api,0.1.0,N.M.M. Noble Minds Media Ltd,MIT,233628,"Official Dynamic Document API SDK: turn templates and JSON into PDFs, images and e-invoices."
+2026-10-14T12:09:48Z,peptide-mass,0.1.0,"""Peptide.Express"" <info@peptide.express>",MIT,10305,"No-dependency calculator for average and monoisotopic peptide masses and ESI [M+nH]n+ m/z values, for checking the identity section of a certificate of analysis."
+2026-10-14T12:10:44Z,doc-ai-slopcheck,1.2.0,Euraika,MIT,243823,"Deterministic scanner for AI-style code failures. 73 rules for Python, JS/TS, Go, C/C++, SQL."
