@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T14:22:19Z,repsapi,0.1.0,RepsApi.pl,MIT,30662,"Official RepsApi.pl client: parcel tracking, QC photos, product lookup, agent links and shipping estimates."
+2026-10-14T14:23:24Z,coderill,0.1.0,Ye Chenglin,MIT,139016,"A small, readable AI coding agent that reads, writes, edits and runs code from your terminal."
+2026-10-14T14:25:08Z,techbridge-agentpulse,0.6.1,,MIT,234753,"Records what an AI agent spent, from inside the agent's own process, for Agent Pulse."
+2026-10-14T14:27:26Z,authority-risk-mcp,0.1.0,RealSpap,MIT,89339,"Read-only MCP server: who can change a smart contract, how fast, and how strong the setup is. Reads the signed files of the Authority Risk Oracle Watch."
+2026-10-14T14:27:55Z,inpmap,0.2.0,unoctanium,MIT,312235,"Configuration-driven input remapper (own configuration language, multiple virtual output devices)"
+2026-10-14T14:28:38Z,behave-playwright,1.0.0,Mathias Paulenko,MIT,68608,BDD web testing with Behave and Playwright: reusable Gherkin step definitions and browser lifecycle hooks
+2026-10-14T14:29:20Z,nsvq,0.1.0,Mohammad Hassan Vali,"MIT License Copyright (c) 2026-present Mohammad Hassan Vali Permission is hereby granted, free of c…",24409,A PyTorch class for end-to-end training of vector quantization codebook in a deep neural network.
+2026-10-14T14:29:26Z,meshcall,0.1.0,t4wefan,MIT,106672933,Async typed RPC for Python services: WebSocket direct or through the MeshCall Router
+2026-10-14T14:30:56Z,saveapi,0.1.0,"""saveapi.org"" <hello@saveapi.org>",MIT,17821,"Official Python client for saveapi.org — download media from Instagram, TikTok, YouTube, Facebook, X, Pinterest and 7 more platforms with one API."
+2026-10-14T14:32:21Z,skore-skills,0.8.0,Probabl <contact@probabl.ai>,BSD-3-Clause,2336175,Deterministic CLI helpers for Probabl ML agent skills.
+2026-10-14T14:34:35Z,atx-ai-govern,0.0.2,ATX Labs <genai@atxlabs.ai>,LicenseRef-Proprietary,29870,"Python client for ATX Agent Governance: AI evaluation, prompt firewall and RBAC"
+2026-10-14T14:37:02Z,exp-runtime,0.5.0,,"MIT License Copyright (c) 2025 Josh Mcdaniel Permission is hereby granted, free of charge, to any p…",628320,A compatible EXP engine for Surviving High School and Cause of Death using player-supplied game files
+2026-10-14T14:38:07Z,enhance-telemetry,0.0.1,EnhanceMD Engineering,MIT,2178,Name reserved by EnhanceMD. The Enhance Telemetry SDK is distributed from EnhanceMD's private Artifact Registry; this placeholder exists so nobody else can publish under this name.
+2026-10-14T14:38:37Z,energyml-rust,0.1.2,Geosiris,Apache-2.0,364497878,"Read and write EnergyML packages (EPC + HDF5: RESQML, WITSML, PRODML) from Python, over energyml-rust"
+2026-10-14T14:39:31Z,pydantic-ai-otari,0.1.0,,Apache-2.0,17182,Pydantic AI models served through an Otari gateway
+2026-10-14T14:39:31Z,widgets-sdk-10140707,0.2.0,,,78549,
+2026-10-14T14:39:48Z,langchain-otari,0.1.0,,Apache-2.0,15445,LangChain chat models served through an Otari gateway
+2026-10-14T14:40:30Z,archive-ferry,0.1.0,,AGPL-3.0-or-later,887581,"Archive your YouTube channel to the Internet Archive (archive.org): resumable, one video at a time, with a local web UI."
+2026-10-14T14:41:00Z,exp-runtime-formats,0.5.0,,"MIT License Copyright (c) 2025 Josh Mcdaniel Permission is hereby granted, free of charge, to any p…",43311,"EXP containers, KiWi decoding and native resource parsers"
+2026-10-14T14:41:54Z,pavao,0.10.1,Gustavo Venturini <gustavo.c.venturini@gmail.com>,MIT,131606,"Modular, injection based, Python ASGI web framework"
+2026-10-14T14:42:02Z,pelta,0.0.0,,,10399,
+2026-10-14T14:42:13Z,fitatu-api,0.5.0,Adam Gajewski,MIT,485956,Unofficial Python API client for Fitatu — built for AI agents and automation.
+2026-10-14T14:42:16Z,pboy,0.1.0,fritzprix,Apache-2.0,305510,Zero-Ops Agent Event Orchestrator & Dispatcher
+2026-10-14T14:42:17Z,exp-runtime-shs,0.5.0,,"MIT License Copyright (c) 2025 Josh Mcdaniel Permission is hereby granted, free of charge, to any p…",76212,Surviving High School adapter for EXP Runtime
+2026-10-14T14:43:53Z,exp-runtime-cod,0.5.0,,"MIT License Copyright (c) 2025 Josh Mcdaniel Permission is hereby granted, free of charge, to any p…",14918,Cause of Death adapter for EXP Runtime
+2026-10-14T14:45:00Z,exp-runtime-engine,0.5.0,,"MIT License Copyright (c) 2025 Josh Mcdaniel Permission is hereby granted, free of charge, to any p…",156508,"Headless KiWi VM, sessions, content libraries and saves"
+2026-10-14T14:46:09Z,exp-runtime-player,0.5.0,,"MIT License Copyright (c) 2025 Josh Mcdaniel Permission is hereby granted, free of charge, to any p…",128672,Shared EXP Runtime player and native/desktop rendering
+2026-10-14T14:48:59Z,widgets.sdk-dot10140707,0.2.0,,,78762,
+2026-10-14T14:49:34Z,nomogram,0.1.0,miki4ia,BSD-3-Clause AND CC-BY-4.0 AND CC0-1.0,76580,"Repository of scientific formulas: notations, units, validity domains"
+2026-10-14T14:53:25Z,vigrise,0.1.1,,Apache-2.0,102895,"Official ViGrise SDK for Python: request signing, credentials and clients for ViGrise services"
+2026-10-14T15:00:41Z,privatecontext,0.1.0,,MIT,71645,"Lightweight, local-first activity tracker"
+2026-10-14T15:03:27Z,columbina,0.1.0,Yueran Ma,MIT,2357239,A plugin-based agent harness for Python.
+2026-10-14T15:03:49Z,stataudit,1.0.0,Bhaskar Gurram <gurrambhaskar.ai@gmail.com>,MIT,408998,"Check AI-written statistics with evidence: re-run the analysis, audit each test's assumptions on the real data, recompute reported p-values, lint analysis code, and verify proposed fixes."
+2026-10-14T15:05:16Z,nomadpy,0.1.0,,MPL-2.0,150928,Python client for the HashiCorp Nomad HTTP API
+2026-10-14T15:07:01Z,biomorphx,1.0.0,BioMorphX Research Consortium,MIT,95481,"Cross-Scale Mechano-Genomic, Biomaterial, Nanofabrication & Life-Critical Biomedical Engineering SDK"
+2026-10-14T15:07:12Z,synadia-ai-agent-fabric,0.1.0,Synadia,Apache-2.0,188511,"The SDK for agents on the Synadia Agent Fabric — tracing and the agent tools' ScratchPad extension, on the hooks of the Synadia Agent Protocol SDK"
+2026-10-14T15:07:52Z,spacify,0.1.0,,MIT,8587988,"A fast formatter for the vertical rhythm of Python code, complementary to ruff"
+2026-10-14T15:09:02Z,zeroclaw-api-client,0.1.0,RustLangLatam <rust.lang.latam@gmail.com>,MIT OR Apache-2.0,184837,"Independent, typed, resilient async Python client for the ZeroClaw gateway: HTTP API, events and chat."
+2026-10-14T15:12:36Z,juice-spark,0.1.1,Pilar Esquej,,149728,
+2026-10-14T15:13:27Z,pytraf,0.3.1,Haris Ballis,MIT,3143914,Path-based traffic assignment with turn delays and multiple vehicle classes.
+2026-10-14T15:16:17Z,buntubi,0.5.0,Ibrahima Touré,MIT,2422059,OAuth 2.1 and OpenID Connect provider
+2026-10-14T15:16:57Z,typesafe-decisions,0.1.0,Kai Schinnen <k.schinnen@proton.me>,MIT,18401,"Small, typed building blocks for semantic decisions in Python."
+2026-10-14T15:18:29Z,proofcheck-ai,1.0.0,Bhaskar Gurram <gurrambhaskar.ai@gmail.com>,MIT,473092,"Evidence, not authorship: check whether a pull request actually does what it claims."
+2026-10-14T15:18:47Z,redisctl,0.1.0,,,19512,Redis MCP Gateway 命令行客户端 —— 从不直连 Redis
+2026-10-14T15:18:53Z,astroclr,1.0.0,Mark Hollands <mhollands14@gmail.com>,MIT,3369214,Calculate the perceived colours of astrophysical spectra
+2026-10-14T15:19:13Z,numguard-ci,1.0.0,Bhaskar Gurram <gurrambhaskar.ai@gmail.com>,MIT,413817,"Numerical edge-case testing for array code: catch the NaNs, overflows and precision bugs that happy-path tests miss, in pytest and CI, with an optional agent whose fixes are verified by execution."
