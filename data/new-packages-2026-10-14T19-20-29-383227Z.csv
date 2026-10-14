@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T17:04:39Z,calcifier,0.1.1,Scott Arciszewski <scott.arciszewski@trailofbits.com>,MIT,678582,Compile agent skills into runnable Python workflows.
+2026-10-14T18:18:36Z,navig-agentctl,0.2.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,43747,"Agent Control Center (devops section): sessions, worktrees & tasks — one read-only view, then a controller."
+2026-10-14T18:18:47Z,navig-devnet,0.5.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,59474,"Developer/ops network inspection: DNS/WHOIS/SSL lookups and an SSRF-guarded HTTP repeater — its own navig-devnet command, and `navig devnet` inside navig."
+2026-10-14T18:18:58Z,navig-video,0.2.2,NAVIG Development Team <opensource@navig.run>,Apache-2.0,81764,"NAVIG Video module — render a channel's video formats (kinetic episodes, bulletins, motion cards) from its workspace of texts, plates and voice: timeline → frames → ffmpeg, with per-destination encod…"
+2026-10-14T18:19:23Z,ipscanner-io,0.3.0,IPScanner,MIT,49312,Official Python client for the IPScanner API
+2026-10-14T18:19:44Z,agentharbor,0.1.0,Agent Harbor LLC,MIT,39095,Client for Agent Harbor's pay-per-call x402 API (USDC on Base) with a client-side budget guard
+2026-10-14T18:20:57Z,rinthdown,0.1.0,Aintdev,MIT,21846,A command-line Modrinth mod and modpack downloader
+2026-10-14T18:21:07Z,khive-computer,0.1.0,OceanLi,MIT,81009,"A computer for agents over MCP: trees as values, refs with history, sandboxed actions, git at the edge"
+2026-10-14T18:21:20Z,jaxogo,0.1.0,Lawrence Berry <lawrenceberry@outlook.com>,MIT,84373,Voxel SVG logos in the style of the JAX logo
+2026-10-14T18:25:14Z,ICBM,1.0,,,19800,Interactive Consistency Broadcast Machine
+2026-10-14T18:25:32Z,adbc-replicate,0.1.0,GizmoData LLC <info@gizmodata.com>,Apache-2.0,148456,"Config-driven ADBC-to-ADBC replication: stream whole schemas from Oracle, PostgreSQL, Snowflake or DuckDB into GizmoSQL, with no data materialised on the client."
+2026-10-14T18:26:58Z,nopanic-otel,0.1.0,Emre Kadir Dağdelen <dagdelen.cyber@gmail.com>,MIT,13724,"OpenTelemetry metrics, span events and live gauges for nopanic resilience policies."
+2026-10-14T18:27:00Z,nopanic-redis,0.1.0,Emre Kadir Dağdelen <dagdelen.cyber@gmail.com>,MIT,18942,"Redis-backed circuit breakers and rate limits for nopanic, shared across processes and hosts."
+2026-10-14T18:29:45Z,runlength,0.1.0,,MIT,23656166,"Run-length encoded sequences of any type, backed by Rust and Apache Arrow."
+2026-10-14T18:30:56Z,dnsid,0.26.0,"Known Systems AI, Inc.",Apache-2.0,821505,Python SDK for the DNSid Protocol — agent identity management and verification
+2026-10-14T18:31:34Z,squoredata,0.1.0,"""martin f. krafft"" <squoredata@pobox.madduck.net>",,27145,Self-contained Pydantic data structures used by Squore tablets
+2026-10-14T18:31:47Z,extendlog,0.0.2,Benjamin Winter,MIT,32011,"extendlog, a Python module providing customized, high-level logging functions."
+2026-10-14T18:33:00Z,tplink-deco-mcp-server,1.0.0,Rodrigo Roque <rodrigogoncalvesroque@gmail.com>,MIT,115619,"MCP server exposing TP-Link Deco mesh routers (nodes, clients, Wi-Fi, blocklist, fixed IPs) as tools for LLM clients"
+2026-10-14T18:36:20Z,agent-runloop,0.1.0,KirillOstapenko <djkroq@gmail.com>,MIT,53585,"Explicit, durable agent loop: validated tool calls, human approval, budgets, crash recovery, and composable router / waterfall / parallel / handoff / refine blocks."
+2026-10-14T18:36:31Z,zelt-ai,0.2.2,"""Ulavayya K. Karaguppi"" <ulaveshk2@gmail.com>",MIT,1266725,"Calibrated, risk-controlled early exit for reasoning LLMs — stop thinking when the answer is ready"
+2026-10-14T18:38:01Z,vycari-pepper,0.1.0,Allen Hutchison,Apache-2.0,483708,Command-line client for Pepper — bearer-token API access to /api/v1/.
+2026-10-14T18:38:33Z,polyclustx,1.4.1,Abdelheq Mokhtari <mokhtari.abdelheq@gmail.com>,MIT,1414301,A Unified Framework for Multi-View and Multimodal Representation Learning and Clustering from Feature Views to Attributed Graphs
+2026-10-14T18:42:43Z,9Volt,0.0.1,,,19001,A tiny Oblivious Compute halting-machine specimen
+2026-10-14T18:45:15Z,qls-lime-go-agentic,26.10.14,QLS quality solutions AB,MIT,79961,"Python SDK for the Lime Go Agentic public CRM API (JSON:API, OAuth2 client credentials)."
+2026-10-14T18:49:14Z,octogen-ai-sdk,0.4.0,Octogen AI,Apache-2.0,133533,Async Python SDK for the Octogen AI commerce API
+2026-10-14T18:49:37Z,pydirs,0.1.1,,MIT,3389587,"Lightweight, fast, Redis-like in-memory cache written in Rust"
+2026-10-14T18:52:52Z,sonar-c,0.4.0,Tim Reznicek,BSD-3-Clause,235509,Hi-C noise analysis toolkit for .hic/.cool matrices
+2026-10-14T18:53:01Z,deweloperuch-mcp,0.1.1,deweloperuch-mcp contributors,MIT,523568,"MCP server and CLI over deweloperuch.pl data (developer offer prices, RCN transactions, market statistics)"
+2026-10-14T18:55:13Z,homuncul,0.0.1,,MIT,3562,homuncul — https://homuncul.com
+2026-10-14T18:56:41Z,hotkernel,0.1.0,Xinhua Gu,Apache-2.0,65159,"Find the hot kernel, cool it down: an Nsight/SASS MCP server with a verify-and-record contract and a kernel-speedrun loop for coding agents."
+2026-10-14T18:58:04Z,alqari-mcp,1.0.0,VoltStack <dev@voltstack.tech>,MIT,27644,"Official MCP server for AlQari, the Arabic and English document intelligence platform"
+2026-10-14T19:02:23Z,honkio,0.1.0,somethingcorporate,MIT,68003,"Official Python SDK for HonkIO: Canadian SMS and email, CASL built in."
+2026-10-14T19:03:00Z,simmail,0.1.0,Plexus Labs,Apache-2.0,19049,"Client for simmail: wait for the email your app sends, pull out codes and links, and get replies from simulated people."
+2026-10-14T19:05:22Z,vnma,0.1.0,VNMA Team,"Copyright (c) 2026, GrandKenzy / VNMA Team and Contributors. All rights reserved. Redistribution an…",96101,"Vendor Manager for Python — hermetic, zero-venv dependency management."
+2026-10-14T19:07:43Z,figgyplot,0.2.1,,MIT OR Apache-2.0,877556267,GPU plotting for NumPy with interactive editing and reusable Python settings
+2026-10-14T19:09:31Z,msty-admin-mcp,6.1.2,M-Pineapple 🍍 <128090761+M-Pineapple@users.noreply.github.com>,MIT,170449,"Comprehensive MCP server for administering Msty Studio Desktop 2.9+ with 56 tools, Studio entity inventory, insights analytics, Nexus bridge, Bloom evaluation, and a Cursor-agent handoff for local mo…"
+2026-10-14T19:11:34Z,mvdb,0.1.0,FabrizioSandri <dev.fabriziosandri@gmail.com>,GPL-3.0-only,9045151,MVDB (Mini Vector DB): a mini implementation of a Vector DB based on HNSW
+2026-10-14T19:14:28Z,lavlab-adc,0.1.0,,MIT,2247433,Convert diffusion-weighted MRI data to ADC maps
+2026-10-14T19:14:41Z,funasr-mlx,0.1.0,baicai1145,Apache-2.0,588380,"Native MLX speech inference (SenseVoice, Paraformer, Whisper, Qwen3-ASR, GLM, MoSS, Fun-ASR-Nano) with W4A16 quantization, an OpenAI-compatible server and pseudo-streaming, for Apple Silicon"
+2026-10-14T19:14:48Z,completype,0.1.0,Saiful Islam,MIT,104146383,"Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abbreviation, spelling-tolerant, word-decomposing and semantic completions from object storage"
+2026-10-14T19:16:01Z,continuum-ai-sdk,0.1.0,,"MIT License Copyright (c) 2026 Continuum AI Permission is hereby granted, free of charge, to any pe…",15473,"Thin client for the Continuum AI gateway: preconfigures the official OpenAI/Anthropic SDKs with the gateway's base_url and x-continuum-* headers (project, session, memory, compression)."
+2026-10-14T19:17:04Z,graftpunk-lite,1.20.0,stavxyz <stavxyz@users.noreply.github.com>,MIT,933780,"Authenticated browser sessions, captured once and replayed over plain HTTP: stealth login, encrypted at rest, pluggable storage. Lite install: no browser stack, so it resolves under Pyodide and Cloud…"
+2026-10-14T19:17:57Z,command-bridge,0.3.0,JuanjoFuchs,MIT,1669749,"A local command bridge: talk to your coding agent from a phone browser, no app"
+2026-10-14T19:20:05Z,pingio,0.1.0,IOServicesLabs,MIT,30455,"Python client SDK for the Pingio secure messaging relay (register/login, WebSocket DMs, presence)"

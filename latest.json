@@ -1,43 +1,37 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-10-14T17:19:54.942759Z",
-    "path": "data/new-packages-2026-10-14T18-19-16-446941Z.csv",
-    "to": "2026-10-14T18:19:16.446941Z"
+    "count": 44,
+    "from": "2026-10-14T18:19:16.446941Z",
+    "path": "data/new-packages-2026-10-14T19-20-29-383227Z.csv",
+    "to": "2026-10-14T19:20:29.383227Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-14T18:36:34Z",
+      "package": "RSWallScripting",
+      "since": "2026-10-14T18:19:16.446941Z"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-14T17:06:28Z",
       "package": "board-pinout",
       "since": "2026-10-14T16:20:30.337123Z"
     },
     {
-      "attempts": 2,
-      "created_at": "2026-10-14T17:04:39Z",
-      "package": "calcifier",
-      "since": "2026-10-14T16:20:30.337123Z"
+      "attempts": 1,
+      "created_at": "2026-10-14T19:17:08Z",
+      "package": "girder-flycut-studio",
+      "since": "2026-10-14T18:19:16.446941Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-14T18:18:36Z",
-      "package": "navig-agentctl",
-      "since": "2026-10-14T17:19:54.942759Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-14T18:18:47Z",
-      "package": "navig-devnet",
-      "since": "2026-10-14T17:19:54.942759Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-14T18:18:58Z",
-      "package": "navig-video",
-      "since": "2026-10-14T17:19:54.942759Z"
+      "created_at": "2026-10-14T19:19:50Z",
+      "package": "openenergy",
+      "since": "2026-10-14T18:19:16.446941Z"
     }
   ],
-  "serial": 42238989,
+  "serial": 42241122,
   "source_truncated": false,
-  "window": "2026-10-14T18:19:16.446941Z"
+  "window": "2026-10-14T19:20:29.383227Z"
 }
