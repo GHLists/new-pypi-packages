@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T20:03:05Z,alipay-mp-extractor,1.1.0,RYF5584,MIT,56804,"Extract and decompile Alipay (Android) mini-program packages from a rooted device - search, query and export mini-programs and plugins"
+2026-10-14T20:23:56Z,probative-labs,0.1.0,Vivek Reddy Gaddam,Apache-2.0,194016,"Measure what AI actually changed: causal, graded, reproducible ROI evidence for enterprise AI programs."
+2026-10-14T20:24:10Z,superpdf,0.1.0,Arjun Prabhulal <arjun.prabhulal@gmail.com>,Apache-2.0,27548,"PDFs to Markdown, HTML or JSON on your computer: headings, tables, charts as data and OCR. Python wrapper for the superPDF CLI."
+2026-10-14T20:25:20Z,pytest-numguard,1.0.1,Bhaskar Gurram <gurrambhaskar.ai@gmail.com>,MIT,6258,"pytest plugin for numerical edge-case testing: NaN, inf, overflow, cancellation and dtype bugs in array code (installs numguard-ci)."
+2026-10-14T20:29:34Z,ragleap-ansible,0.1.0,RagLeap Contributors,MIT,15542,"Ansible roles that prepare and harden a fresh Ubuntu server: user, sudo, updates, SSH and firewall"
+2026-10-14T20:31:56Z,btt-cloud-mask-example,0.1.0,Jack Savage,MIT,47513,"Reference cloud masks for Maxar Open Data imagery from prebuilt models (OmniCloudMask, ukis-csmask, CloudSEN12)."
+2026-10-14T20:33:18Z,iful,1.0.0,William Sheu,MIT,75483,Integral Field Unit Lensing pipeline for joint-modeling strong lens convergence and source kinematics
+2026-10-14T20:38:11Z,tsgettoolbox-coops,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,30421,Plugin for tsgettoolbox to retrieve data from the US National Oceanic and Atmospheric Administration (NOAA) Center for Operational Oceanographic Products and Services (CO-OPS).
+2026-10-14T20:45:28Z,local-coding-agent,1.1.0,Local Coding Agent Contributors,MIT,881435,"Harness-agnostic controller delegating atomic coding tasks to local Ollama & llama.cpp models via MCP, Agent Skills, and direct CLI."
+2026-10-14T20:48:03Z,twinsweep,1.0.1,,MIT,60251,Find duplicate files by content and clean them up safely.
+2026-10-14T20:48:16Z,inboxtrue,0.1.0,,MIT,26879,Command-line client for the InboxTrue email validation API
+2026-10-14T20:48:49Z,autonomous-agent-algos,0.1.0,Innerkore Technologies,MIT,758808,"Async, event-driven library of production-deployable agent algorithms over arbitrary data."
+2026-10-14T20:50:31Z,frugal-blender-mcp,0.2.0,Mohak Malviya,MIT,152887,Blender MCP server with 4 tools: batched scene edits at a fraction of the context cost
+2026-10-14T20:52:00Z,pytestmut,0.1.0,Martin Jespersen <martincjespersen@gmail.com>,MIT,483355,"Mutation testing for pytest: correct verdicts on every OS, parallel runs, and per-path policies for critical code"
+2026-10-14T20:53:28Z,boko-python,0.1.2,,,4730962,Python bindings for the boko ebook conversion engine
+2026-10-14T20:58:08Z,cadabra2,2.6.0,Kasper Peeters,GPL-3.0-or-later,21880243,A field-theory motivated approach to computer algebra
+2026-10-14T20:58:55Z,taskpace-dev,1.0.1,sumitdevs,,6695,"A simple command-line task manager for creating, organizing, searching, and tracking tasks."
+2026-10-14T20:59:09Z,dsp-props,0.1.0,Clément Basdevant,BSD-3-Clause,62404,Property-based testing for digital signal processing code
+2026-10-14T21:01:16Z,porttree,1.0.0,Umut Güngör <umutgungor.dev@gmail.com>,MIT,131385,"Zero-dependency cross-platform socket scanner and process tree resolver. Maps ports to processes, Git branches, CWD, and Docker containers."
+2026-10-14T21:01:35Z,logshrink,1.0.0,Umut Güngör <umutgungor.dev@gmail.com>,MIT,78752,A zero-config CLI that deduplicates repetitive polling noise and auto-highlights real errors in live terminal logs.
+2026-10-14T21:01:55Z,mcp-jenkins-pipeline,1.0.0,Pedro Calixto,MPL-2.0,132620,"Servidor MCP do Jenkins: consulta de builds, detecção por commit, navegação de multibranch e input de promoção."
+2026-10-14T21:03:00Z,papersseum,0.5.1,Dhairya Pandya,MIT,105939,"Papersseum, a multi-agent territory-capture tournament."
+2026-10-14T21:03:29Z,git-repopulse,1.0.0,Umut Güngör <umutgungor.dev@gmail.com>,MIT,102002,"Zero-dependency Git forensic health, architectural hotspot churn, and bus-factor risk engine."
+2026-10-14T21:07:14Z,vedrfolnir,0.3.0rc1,Vedrfolnir contributors,0BSD,225221,"Self-hosted, ML-powered ETA prediction for concurrent workloads"
+2026-10-14T21:07:25Z,bixverse,0.1.0,Gregor Lueg <gregorlueg@me.com>,MIT,5269349,"Single-cell streaming and numerics for Python, in Rust."
+2026-10-14T21:09:45Z,pydantic-ai-provared,0.1.0,Pavel Izmaylov,Apache-2.0 AND CC-BY-4.0,41411,"A Pydantic AI capability that checks each tool call of an agent against the permission a person signed, and records it with Provared. Evidence, not a verdict."
+2026-10-14T21:11:15Z,scopeproof,0.1.4,ScopeProof Contributors,MIT,57997,A tiny scope and architecture guardrail for AI coding agents.
+2026-10-14T21:12:01Z,spearhead-vda,1.0.0,"George Vasalos, Jan Gieseler",BSD-3-Clause,117313,"Velocity Dispersion Analysis (VDA) of Solar Energetic Particle events with data of Solar Orbiter, STEREO-A, Parker Solar Probe, SOHO, Wind and BepiColombo"
+2026-10-14T21:14:40Z,tsgettoolbox-daymet,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,17711,Plugin for tsgettoolbox to retrieve Daymet data from the Daymet REST API.
+2026-10-14T21:18:33Z,Jota-hack4u-project,0.0.1,JotaBWF,,4554,Una libreria para consultar cursos de la academia Hack4U
+2026-10-14T21:18:39Z,qvapaykit,0.1.0,RolandoJV,MIT,27207,"QvaPayKit: SDK Python para integrar pagos con QvaPay — facturas, webhooks verificados, dinero en Decimal"
