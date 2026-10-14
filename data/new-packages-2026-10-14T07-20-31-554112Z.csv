@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T06:25:10Z,qnap-tools,0.4.0,,MIT,234190,Servidores MCP de solo lectura para consultar una flota de NAS QNAP por SSH
+2026-10-14T06:26:06Z,fast-linsolve,0.1.1,lielielie,MIT,25547,高性能线性方程组求解器库：3 种直接法 + 3 种迭代法，Numba JIT 与 Cython 深度优化。
+2026-10-14T06:29:10Z,flpq-data,6.0.0,"Vadim Abzalov <vadim.i.abzalov@gmail.com>, Nikita Kovalev <Nikitoskova123@gmail.com>",Apache-2.0 AND CC-BY-4.0,138251,Python package containing Graphs and Grammars for experimental analysis of Formal Language constrained Path Querying algorithms
+2026-10-14T06:29:49Z,scan-reader,0.9.6,ScanReader Contributors,MIT,608912,"AI legal document recognition, Zero-Trust verification, and 1C/Excel registry orchestration"
+2026-10-14T06:29:55Z,disrated,0.1.0,,,49792,Add your description here
+2026-10-14T06:31:15Z,xyberos-templates,0.1.0,,Apache-2.0,19127,"Server-rendered pages for a Xyberos application: render off the event loop, autoescape stated rather than inherited"
+2026-10-14T06:33:43Z,polars-datapulse,0.2.0,Biswarup Majumdar <majumdarb107@gmail.com>,MIT,168735,Blazing-fast automated tabular exploratory data analysis (EDA) toolkit powered solely by Polars.
+2026-10-14T06:34:40Z,ville,0.1.0,Shiv Bhaduri <shiv.bhaduri@gmail.com>,BSD-3-Clause,420550,"Anytime valid inference in Python: confidence sequences, e-processes and e-values"
+2026-10-14T06:35:31Z,nori-rel,0.3.0,Synthefy,MIT AND Apache-2.0,468967,Relational database prediction with Nori
+2026-10-14T06:37:12Z,secretforge,0.1.0,G-Tools-Spaces,MIT,8913,SecretForge Python SDK — load vault secrets into os.environ at boot; no more .env files.
+2026-10-14T06:38:49Z,docustay,0.1.0,Docustay <support@docustay.app>,MIT,23662,Docustay API client for Python. Standard library only.
+2026-10-14T06:39:50Z,sen2chain,1.4.1,"Jérémy Commins <jebins@openmailbox.org>, Christophe Revillion <christophe.revillion@univ-reunion.fr…",GPL-3.0-or-later,19635028,Download and process Sentinel-2 images
+2026-10-14T06:40:02Z,whisper-gpu-kit,0.1.1,Daniil Petrov,MIT,21301,"GPU (faster-whisper) transcription primitives: cuDNN/cuBLAS preload, lazy model cache, GPU-OOM detection with CPU fallback, plus VTT/SRT caption parsing"
+2026-10-14T06:40:05Z,claude-subprocess,0.1.1,Daniil Petrov,MIT,72664,"Hardened wrapper around the local `claude -p` CLI (subscription auth), + JSON extraction and response cache"
+2026-10-14T06:40:10Z,tinycommons,0.2.0,Daniil Petrov,MIT,36303,"The small utilities duplicated across ~7 repos: setup_logging, load_env, sqlite open, atomic JSON store, slugify"
+2026-10-14T06:42:45Z,langchain-meragpt,0.1.0,meraGPT,MIT,39544,"LangChain integration for meraGPT Decider 1: typed decisions with calibrated probabilities, as a Runnable, a tool and agent middleware"
+2026-10-14T06:49:06Z,scrinium,3.1.0,"Zhou Qiankang <wszqkzqk@qq.com>, Zimo Liao <zimoliao@mail.ustc.edu.cn>",GPL-3.0-or-later,583437,Scrinium — a research infrastructure for AI agents (hard fork of ScholarAIO)
+2026-10-14T06:49:20Z,pyinto,0.0.1,minoru-jp,MIT,448161,Experimental Python-to-Model normalization and target-defined artifact realization
+2026-10-14T06:52:53Z,ml-data-guard,0.1.0,Sławomir Strzelec,MIT,140715,"Data validation for ML pipelines, benchmarked with injected faults."
+2026-10-14T06:53:57Z,pommes-assistant,0.1.0,Robin Girard <robin.girard@minesparis.psl.eu>,MIT,892126,"Deterministic backbone of a conversational assistant for pommes energy-system studies: StudySpec with provenance, validator, catalogue, tools"
+2026-10-14T06:54:20Z,xyberos-postgres,0.1.0,,Apache-2.0,18748,"A DatabaseProvider for PostgreSQL, proved against the shipped conformance suite"
+2026-10-14T06:56:26Z,tiktok-lazy-follower,0.2.0,,MIT,1244507,Follow AI and LLM creators on TikTok without the feed: local transcription and a weekly Claude-setup digest.
+2026-10-14T06:56:41Z,kellian,1.0.0,Kellian <hello@kellian.si>,Apache-2.0,186800,Python SDK for the Kellian Agent API
+2026-10-14T07:03:05Z,agentinfer-zmj-test,0.1.0,,,626980,
+2026-10-14T07:05:36Z,fastapi-cordis,0.2.2,byfb <62798989+byfb@users.noreply.github.com>,MIT,92635,Cordis-inspired plugin lifecycles and service leases for FastAPI
+2026-10-14T07:10:07Z,up2fireshare,1.0.0,LittleBit,MIT,8569,Add your description here
+2026-10-14T07:10:19Z,capturethenarrative,0.3.0,Capture the Narrative,MIT,35717,"Python client for the Capture the Narrative game world: Legit Social, the in-universe news sites and the competition LLM"
+2026-10-14T07:14:51Z,foml,0.1.0,FOML Study Library contributors,MIT,2445168,"A simple command-line study library for FOML code notebooks, exam papers, and theory PDFs."
+2026-10-14T07:17:17Z,stbkit-native,0.1.0b4,"""STB-KIT Development Team (TAISEI CORPORATION)"" <oss-dev@pub.taisei.co.jp>",MPL-2.0,10371238,STB-KITのグラフィック機能を提供するネイティブ（Rust）拡張
+2026-10-14T07:19:22Z,pgddl,0.1.0,Evan Q,MIT,31421,Export PostgreSQL schema definitions as executable SQL.

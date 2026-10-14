@@ -8,44 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 06:20 UTC
+## Latest list — 2026-10-14 07:20 UTC
 
-New packages created between 2026-10-14 05:19 UTC and 2026-10-14 06:20 UTC.
+New packages created between 2026-10-14 06:20 UTC and 2026-10-14 07:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-14T06-20-35-202946Z.csv)
+[Full CSV](data/new-packages-2026-10-14T07-20-31-554112Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-14 05:04:06 | [sauron-verifier](https://pypi.org/project/sauron-verifier/) | 1.0.1 | Reza Sanayei <rsanayei@arizon… | 318.7 kB | Evidence-first agentic verifier for rubric-based evaluation. |
-| 2026-10-14 05:21:32 | [mangono-addon-fix_queue_job_set_to_done](https://pypi.org/project/mangono-addon-fix_queue_job_set_to_done/) | 20.0.1.0.0 | Mangono <opensource+odoo@mang… | 6.5 kB |  |
-| 2026-10-14 05:21:33 | [mangono-addon-ir_cron_manual_schedule](https://pypi.org/project/mangono-addon-ir_cron_manual_schedule/) | 20.0.1.0.0 | Mangono <opensource+odoo@mang… | 8.9 kB |  |
-| 2026-10-14 05:21:33 | [mangono-addon-web_list_sticky_columns](https://pypi.org/project/mangono-addon-web_list_sticky_columns/) | 20.0.1.0.0 | Mangono <opensource+odoo@mang… | 21.4 kB |  |
-| 2026-10-14 05:21:34 | [mangono-addon-queue_job_silence_runjob_logs](https://pypi.org/project/mangono-addon-queue_job_silence_runjob_logs/) | 20.0.1.0.0 | Mangono <opensource+odoo@mang… | 7.9 kB |  |
-| 2026-10-14 05:29:37 | [scrapy-tor](https://pypi.org/project/scrapy-tor/) | 2026.10.14.1 | Rustam Vanchugov | 21.5 kB | Scrapy downloader middleware that sends requests through Tor |
-| 2026-10-14 05:30:32 | [enigmata-publish-scope-probe](https://pypi.org/project/enigmata-publish-scope-probe/) | 0.0.0a0 | Enigmata, Inc. | 927 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-14 05:31:33 | [enigmata-sentinel-chat](https://pypi.org/project/enigmata-sentinel-chat/) | 0.0.0a0 | Enigmata, Inc. | 916 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-14 05:31:35 | [enigmata-sentinel-corpus](https://pypi.org/project/enigmata-sentinel-corpus/) | 0.0.0a0 | Enigmata, Inc. | 921 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-14 05:31:36 | [enigmata-sentinel-document](https://pypi.org/project/enigmata-sentinel-document/) | 0.0.0a0 | Enigmata, Inc. | 920 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-14 05:37:09 | [mcptoolshop-interlock](https://pypi.org/project/mcptoolshop-interlock/) | 0.1.0 |  | 4.0 MB | Local AI device router: a prototype that sends each job to a model, an engine a… |
-| 2026-10-14 05:38:40 | [OpenRbac](https://pypi.org/project/OpenRbac/) | 1.0.5 | Wong Chun Fai <cloudgen.wong@… | 174.3 kB | OpenRbac is online RBAC and centralized configuration for the terminal and a lo… |
-| 2026-10-14 05:40:29 | [opengl-decimate](https://pypi.org/project/opengl-decimate/) | 0.2.0a5 | "Mike C. Fletcher" <mcfletch@… | 17.3 MB | Triangle mesh decimation over glTF-shaped NumPy arrays |
-| 2026-10-14 05:42:22 | [imap-foml-study-library](https://pypi.org/project/imap-foml-study-library/) | 0.1.0 | Kalesh contributors | 6.0 MB | Offline IMAP and FOML study library with searchable PDFs and Jupyter notebook s… |
-| 2026-10-14 05:43:04 | [disaster-fund-plan](https://pypi.org/project/disaster-fund-plan/) | 0.1.0 | Pujan Pandey <arghakhanchipuj… | 25.0 kB | Disaster Reconstruction & Relief Fund Implementation Plan Builder and Validator |
-| 2026-10-14 05:44:00 | [disaster-fund-calculation-engine](https://pypi.org/project/disaster-fund-calculation-engine/) | 0.1.0 | Pujan Pandey <arghakhanchipuj… | 32.2 kB | Disaster Reconstruction & Relief Fund Calculation Engine: Multi-Tranche Liabili… |
-| 2026-10-14 05:44:02 | [aden-tools](https://pypi.org/project/aden-tools/) | 1.0.3 | Aden <team@aden.ai> | 4.7 MB | Tools library for the Aden agent framework |
-| 2026-10-14 05:46:02 | [bonafide-raas-cli](https://pypi.org/project/bonafide-raas-cli/) | 0.1.0 |  | 28.2 kB | Command-line client for Bonafide RaaS (retrieval-as-a-service): cited answers,… |
-| 2026-10-14 05:46:09 | [saniutil](https://pypi.org/project/saniutil/) | 0.1.0 | BruceZhang0808 | 26.8 kB | 遮蔽心电图 PDF 中的患者隐私信息（姓名/住院号/床号/医生签名） |
-| 2026-10-14 05:46:41 | [focuspack](https://pypi.org/project/focuspack/) | 0.2.0 | focuspack contributors | 78.2 kB | Focus-driven, budget-aware codebase context packager for LLMs |
-| 2026-10-14 05:46:49 | [vfvfa](https://pypi.org/project/vfvfa/) | 2.0.0a1 | TG11 | 1.0 MB | VFA (VulpFin Archive): archiver with a deterministic integer-only codec (vulp-l… |
-| 2026-10-14 05:51:30 | [android-skeleton](https://pypi.org/project/android-skeleton/) | 0.3.0 | arsindedetoulouse-tech | 258.9 kB | Generate modular Android application projects |
-| 2026-10-14 05:52:38 | [trainsight-preflight](https://pypi.org/project/trainsight-preflight/) | 0.2.0 | Aravind Sundaresan | 73.2 kB | Preflight checks for LLM training inputs and loss contracts |
-| 2026-10-14 05:54:49 | [linkbox-tools](https://pypi.org/project/linkbox-tools/) | 0.1.0 | Your Name <you@example.com> | 6.0 kB | Simple URL validation and normalization utilities for LinkBox |
-| 2026-10-14 05:56:40 | [cloud-uit2702-lab](https://pypi.org/project/cloud-uit2702-lab/) | 0.1.0 | Your Name | 12.5 kB | Python package for Cloud Computing lab exercises |
-| 2026-10-14 05:56:48 | [pyqtgraph-styler](https://pypi.org/project/pyqtgraph-styler/) | 0.1.0 |  | 96.5 kB | Matplotlib-inspired styles and vector sketch drawing for pyqtgraph |
-| 2026-10-14 05:57:01 | [lilrae](https://pypi.org/project/lilrae/) | 8.0.0 | Brad Edwards | 15.7 MB | Advanced Purple Team Lab CLI |
-| 2026-10-14 06:03:47 | [mcp-groundtruth](https://pypi.org/project/mcp-groundtruth/) | 0.2.0 |  | 194.6 kB | Behavioral conformance harness for Model Context Protocol tool annotations. |
-| 2026-10-14 06:06:52 | [yyds-port](https://pypi.org/project/yyds-port/) | 1.1.0 | yyds-fast <yyds.fast@gmail.co… | 73.1 kB | Zero-dependency port diagnostics, safe allocation, graceful freeing, and readin… |
-| 2026-10-14 06:09:01 | [qivo-parseora](https://pypi.org/project/qivo-parseora/) | 0.1.5 | QiVo Studio <admin@qivo.studi… | 5.0 MB | ParseOra: a fast, lossless parser for Oracle SQL, PL/SQL and SQL*Plus scripts (… |
-| 2026-10-14 06:09:05 | [qivo-scanora](https://pypi.org/project/qivo-scanora/) | 0.1.5 | QiVo Studio <admin@qivo.studi… | 2.7 MB | ScanOra: export an Oracle database's catalogue and code to one file, read-only,… |
-| 2026-10-14 06:17:27 | [qrcli-toolkit](https://pypi.org/project/qrcli-toolkit/) | 0.1.0 |  | 14.0 kB | A command-line QR code generator written in Python |
-| 2026-10-14 06:18:18 | [anymsg](https://pypi.org/project/anymsg/) | 0.9.8 | GoSync | 675.1 kB | A self-hosted messaging archive and MCP interface for agents |
+| 2026-10-14 06:25:10 | [qnap-tools](https://pypi.org/project/qnap-tools/) | 0.4.0 |  | 234.2 kB | Servidores MCP de solo lectura para consultar una flota de NAS QNAP por SSH |
+| 2026-10-14 06:26:06 | [fast-linsolve](https://pypi.org/project/fast-linsolve/) | 0.1.1 | lielielie | 25.5 kB | 高性能线性方程组求解器库：3 种直接法 + 3 种迭代法，Numba JIT 与 Cython 深度优化。 |
+| 2026-10-14 06:29:10 | [flpq-data](https://pypi.org/project/flpq-data/) | 6.0.0 | Vadim Abzalov <vadim.i.abzalo… | 138.3 kB | Python package containing Graphs and Grammars for experimental analysis of Form… |
+| 2026-10-14 06:29:49 | [scan-reader](https://pypi.org/project/scan-reader/) | 0.9.6 | ScanReader Contributors | 608.9 kB | AI legal document recognition, Zero-Trust verification, and 1C/Excel registry o… |
+| 2026-10-14 06:29:55 | [disrated](https://pypi.org/project/disrated/) | 0.1.0 |  | 49.8 kB | Add your description here |
+| 2026-10-14 06:31:15 | [xyberos-templates](https://pypi.org/project/xyberos-templates/) | 0.1.0 |  | 19.1 kB | Server-rendered pages for a Xyberos application: render off the event loop, aut… |
+| 2026-10-14 06:33:43 | [polars-datapulse](https://pypi.org/project/polars-datapulse/) | 0.2.0 | Biswarup Majumdar <majumdarb1… | 168.7 kB | Blazing-fast automated tabular exploratory data analysis (EDA) toolkit powered… |
+| 2026-10-14 06:34:40 | [ville](https://pypi.org/project/ville/) | 0.1.0 | Shiv Bhaduri <shiv.bhaduri@gm… | 420.6 kB | Anytime valid inference in Python: confidence sequences, e-processes and e-valu… |
+| 2026-10-14 06:35:31 | [nori-rel](https://pypi.org/project/nori-rel/) | 0.3.0 | Synthefy | 469.0 kB | Relational database prediction with Nori |
+| 2026-10-14 06:37:12 | [secretforge](https://pypi.org/project/secretforge/) | 0.1.0 | G-Tools-Spaces | 8.9 kB | SecretForge Python SDK — load vault secrets into os.environ at boot; no more .e… |
+| 2026-10-14 06:38:49 | [docustay](https://pypi.org/project/docustay/) | 0.1.0 | Docustay <support@docustay.ap… | 23.7 kB | Docustay API client for Python. Standard library only. |
+| 2026-10-14 06:39:50 | [sen2chain](https://pypi.org/project/sen2chain/) | 1.4.1 | Jérémy Commins <jebins@openma… | 19.6 MB | Download and process Sentinel-2 images |
+| 2026-10-14 06:40:02 | [whisper-gpu-kit](https://pypi.org/project/whisper-gpu-kit/) | 0.1.1 | Daniil Petrov | 21.3 kB | GPU (faster-whisper) transcription primitives: cuDNN/cuBLAS preload, lazy model… |
+| 2026-10-14 06:40:05 | [claude-subprocess](https://pypi.org/project/claude-subprocess/) | 0.1.1 | Daniil Petrov | 72.7 kB | Hardened wrapper around the local `claude -p` CLI (subscription auth), + JSON e… |
+| 2026-10-14 06:40:10 | [tinycommons](https://pypi.org/project/tinycommons/) | 0.2.0 | Daniil Petrov | 36.3 kB | The small utilities duplicated across ~7 repos: setup_logging, load_env, sqlite… |
+| 2026-10-14 06:42:45 | [langchain-meragpt](https://pypi.org/project/langchain-meragpt/) | 0.1.0 | meraGPT | 39.5 kB | LangChain integration for meraGPT Decider 1: typed decisions with calibrated pr… |
+| 2026-10-14 06:49:06 | [scrinium](https://pypi.org/project/scrinium/) | 3.1.0 | Zhou Qiankang <wszqkzqk@qq.co… | 583.4 kB | Scrinium — a research infrastructure for AI agents (hard fork of ScholarAIO) |
+| 2026-10-14 06:49:20 | [pyinto](https://pypi.org/project/pyinto/) | 0.0.1 | minoru-jp | 448.2 kB | Experimental Python-to-Model normalization and target-defined artifact realizat… |
+| 2026-10-14 06:52:53 | [ml-data-guard](https://pypi.org/project/ml-data-guard/) | 0.1.0 | Sławomir Strzelec | 140.7 kB | Data validation for ML pipelines, benchmarked with injected faults. |
+| 2026-10-14 06:53:57 | [pommes-assistant](https://pypi.org/project/pommes-assistant/) | 0.1.0 | Robin Girard <robin.girard@mi… | 892.1 kB | Deterministic backbone of a conversational assistant for pommes energy-system s… |
+| 2026-10-14 06:54:20 | [xyberos-postgres](https://pypi.org/project/xyberos-postgres/) | 0.1.0 |  | 18.7 kB | A DatabaseProvider for PostgreSQL, proved against the shipped conformance suite |
+| 2026-10-14 06:56:26 | [tiktok-lazy-follower](https://pypi.org/project/tiktok-lazy-follower/) | 0.2.0 |  | 1.2 MB | Follow AI and LLM creators on TikTok without the feed: local transcription and… |
+| 2026-10-14 06:56:41 | [kellian](https://pypi.org/project/kellian/) | 1.0.0 | Kellian <hello@kellian.si> | 186.8 kB | Python SDK for the Kellian Agent API |
+| 2026-10-14 07:03:05 | [agentinfer-zmj-test](https://pypi.org/project/agentinfer-zmj-test/) | 0.1.0 |  | 627.0 kB |  |
+| 2026-10-14 07:05:36 | [fastapi-cordis](https://pypi.org/project/fastapi-cordis/) | 0.2.2 | byfb <62798989+byfb@users.nor… | 92.6 kB | Cordis-inspired plugin lifecycles and service leases for FastAPI |
+| 2026-10-14 07:10:07 | [up2fireshare](https://pypi.org/project/up2fireshare/) | 1.0.0 | LittleBit | 8.6 kB | Add your description here |
+| 2026-10-14 07:10:19 | [capturethenarrative](https://pypi.org/project/capturethenarrative/) | 0.3.0 | Capture the Narrative | 35.7 kB | Python client for the Capture the Narrative game world: Legit Social, the in-un… |
+| 2026-10-14 07:14:51 | [foml](https://pypi.org/project/foml/) | 0.1.0 | FOML Study Library contributo… | 2.4 MB | A simple command-line study library for FOML code notebooks, exam papers, and t… |
+| 2026-10-14 07:17:17 | [stbkit-native](https://pypi.org/project/stbkit-native/) | 0.1.0b4 | "STB-KIT Development Team (TA… | 10.4 MB | STB-KITのグラフィック機能を提供するネイティブ（Rust）拡張 |
+| 2026-10-14 07:19:22 | [pgddl](https://pypi.org/project/pgddl/) | 0.1.0 | Evan Q | 31.4 kB | Export PostgreSQL schema definitions as executable SQL. |
