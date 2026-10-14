@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T09:59:18Z,toolforge-replica-cnf,0.1.0,David CAro,Apache 2.0,22363,Thin API to handle replica credentials on toolforge and paws.
+2026-10-14T12:11:54Z,CTranslate2-rapid-whisper,0.1.1,Plavno (based on OpenNMT CTranslate2),MIT,66045715,rapido-whisper: Whisper-only CTranslate2 engine for NVIDIA GPUs (import ctranslate2; faster-whisper and CrisperWhisper compatible)
+2026-10-14T12:21:08Z,retrainopt,0.2.0,,Apache-2.0,223171,RetrainOpt - Cost-aware retraining planning
+2026-10-14T12:24:47Z,pytest-reqmark,0.1.0,,MIT,61160,Executable acceptance criteria for pytest
+2026-10-14T12:26:00Z,methunmix,1.0.0,"Mochen Zhang, Xiangyu Yu, Yaoke Wei","MIT License Copyright (c) 2026 Mochen Zhang Permission is hereby granted, free of charge, to any pe…",978019,Offline DNA methylation deconvolution workflow
+2026-10-14T12:26:37Z,meerkat-meta,0.9.0,Luka Crnkovic-Friis,MIT OR Apache-2.0,490013,Python SDK for Meta — companion orchestration platform for the Meerkat multi-agent runtime
+2026-10-14T12:28:48Z,bellator-si,0.4.0,OpenAPI Generator community,,970145,Bellator Schedule Intelligence APIs
+2026-10-14T12:32:23Z,swarmr-kubiq,0.1.0,,,133221,Agent team that authors Kubernetes mock exams for kubiq and proves every question on a live cluster before opening a PR
+2026-10-14T12:35:08Z,entitydb,0.1.0,,,2154,Add your description here
+2026-10-14T12:37:09Z,aspose-font-foss,26.10.4,Aspose <support@aspose.com>,MIT,1449048,"Pure-Python font library — TrueType, OpenType, CFF, Type1, WOFF, WOFF2"
+2026-10-14T12:39:43Z,exobrain-health,0.1.0,Laurent LAPORTE <laurent.laporte.pro@gmail.com>,,37183,Heartbeat-based HTTP health probe for MyExobrain background workers
+2026-10-14T12:47:26Z,storage-kernel-testing,0.1.0a4,,MIT,7992,Testing utilities for Storage Kernel providers.
+2026-10-14T12:47:27Z,mapcan,0.21.0,,Apache-2.0,4001841,"A YAML map of CAN signals as the single source of truth: validation, Excel/PDF/Markdown/HTML, DBC, C/Python code"
+2026-10-14T12:47:33Z,accountlens-mcp,0.2.0,,,11186,MCP server for querying AccountLens analytics data from Claude Desktop
+2026-10-14T12:47:52Z,abba-mcp,0.25.0.post1,Nicolas Chiaruttini <nicolas.chiaruttini@unige.ch>,MIT,176497,MCP server for ABBA (Aligning Big Brains and Atlases): an AI assistant registers brain sections to atlases in a pinned Fiji
+2026-10-14T12:48:16Z,dao-modman,0.1.0,Sebastian Mahr,MIT,406306,Terminal mod manager for Dragon Age: Origins
+2026-10-14T12:51:44Z,qt-md3,0.1.0,qt-md3 contributors,Apache-2.0,66949,"Material Design 3 theming, controls and QML components for PySide6/PyQt6 applications."
+2026-10-14T12:51:53Z,tiny-jepa,0.1.0,,MIT,1051816,"A tiny, hackable, action-conditioned JEPA world model in pure numpy"
+2026-10-14T12:52:40Z,commovision,0.1.0,,MIT,47298,Python client and command line for the CommoVision oil and gas data API
+2026-10-14T12:54:41Z,py-azure-devops-mcp,0.1.1,"""ZenProgramming.it"" <zenprogramming.it@gmail.com>",MIT,14747,MCP Server for Azure DevOps integration with AI agents
+2026-10-14T12:55:17Z,arc56-generated-chain-24749f01,1.1.2026101314,chainaim3003,,454027,Generated ARC-56 Algorand smart-contract clients for chainaim3003/algoTITANV6.
+2026-10-14T12:56:19Z,xtr-cli,4.0.2,Xterr,MIT,106581,"Scaffolds a new xtr application — a console application or a web application — in one command, and serves it."
+2026-10-14T12:56:19Z,xtr-security-oauth2-server,4.0.2,Xterr,MIT,436831,An OAuth 2.0 authorization server and resource-server authenticator for xtr security.
+2026-10-14T12:56:20Z,xtr-http-message,4.0.2,Xterr,MIT,87555,"A strict, framework-free implementation of the HTTP message contract: requests, responses, streams, URIs, uploaded files and one factory for all six."
+2026-10-14T12:56:21Z,arc56-generated-logiq-4144cb83,1.1.2026101314,LogiqueClergyman,,84203,Generated ARC-56 Algorand smart-contract clients for LogiqueClergyman/AssurePay.
+2026-10-14T12:56:46Z,cbtone,0.1.0,Thanatchon Chongmankhong,Apache-2.0,1064256,"Hawkish/dovish tone signals from public central-bank communication, with contamination-aware evaluation and event-study tools."
+2026-10-14T12:57:51Z,qmc-sampler,1.0.1,,MIT,20797,QMC sampling methods based on blue_sampler
+2026-10-14T12:58:42Z,xtr-http-client,4.0.2,Xterr,MIT,187624,"An async HTTP client behind one interface: typed request options, bodies read on demand, scoped clients, a private-network guard and a mock client for tests."
+2026-10-14T12:58:43Z,xtr-http-client-contracts,4.0.2,Xterr,MIT,83631,"The async HTTP client contract alone: a request call, a response read on demand, typed options and the errors they raise."
+2026-10-14T12:58:44Z,xtr-http-message-contracts,4.0.2,Xterr,MIT,46550,"The HTTP message contract alone: requests, responses, streams, URIs, uploaded files and the six factories that build them."
+2026-10-14T13:00:48Z,xtr-webhook,4.0.2,Xterr,MIT,147773,"Receive webhooks — verified, replay-bounded, turned into events — and send them signed, in the legacy or the Standard Webhooks format."
+2026-10-14T13:00:49Z,xtr-http-foundation,4.0.2,Xterr,MIT,54639,"Matchers that answer one question each about a request that arrived — method, path, host, port, scheme, headers, query, client address, JSON body — and the helpers that place an IP in a network."
+2026-10-14T13:00:51Z,xtr-security-oauth2-server-core,4.0.2,Xterr,MIT,241516,"The OAuth 2.0 authorization-server library: grants, servers, entities, response types and the resource server."
+2026-10-14T13:01:31Z,arc56-generated-g30tr1x-tracer,1.2.2026072010,G30TR1X,,16338,Generated ARC-56 Algorand smart-contract clients for G30TR1X/Tracer.
+2026-10-14T13:01:40Z,semantic-layers,0.1.0,Synalinks,Apache-2.0,154722,"Install and connect semantic layers: business definitions as verified, executable synalog predicates."
+2026-10-14T13:01:50Z,xtr-remote-event,4.0.2,Xterr,MIT,50282,"Events received from another system, as one value type, handed to the consumer registered under their source's name — directly or through a message bus."
+2026-10-14T13:02:35Z,arc56-generated-gabri-ca5a4c5a,1.2.2026072010,gabrielkuettel,,39576,Generated ARC-56 Algorand smart-contract clients for gabrielkuettel/algochi.
+2026-10-14T13:02:41Z,slife2,0.1.0,juzcn <zhangjun@cueb.edu.cn>,MIT,2007105,"Terminal-based AI agent — slife v2, a clean-slate rebuild"
+2026-10-14T13:04:17Z,frontier-scholar,0.1.0,FrontierScholar,Apache-2.0,43058,FrontierScholar (知沿学术): a research-frontier wiki of the scientific literature for agents - Python client and CLI
+2026-10-14T13:04:30Z,liberrex-copilot,0.2.0,Liberrex,Liberrex Embedded Copilot SDK — Proprietary License Copyright (c) 2026 Liberrex. All rights reserve…,109120,"Embed the Liberrex AI copilot in your product: expose your functions as tools, mint end-user sessions, run the bridge."
+2026-10-14T13:10:55Z,chatgpt-plan-auth,1.0.0,Michael Guber <michael@guber.dev>,MIT,40540,Sign in with ChatGPT (ChatGPT plan usage) for locally hosted apps
+2026-10-14T13:12:16Z,nl2sql-sdk,0.5.0,,MIT,15288,Interfaces for nl2sql extensions: adapters and secret providers
+2026-10-14T13:12:34Z,rudin-osher-fatemi,0.1.0,Your Name,,3604,Total variation (Rudin-Osher-Fatemi) image denoising in NumPy
+2026-10-14T13:13:32Z,sesy,0.1.0,Deni Bertovic,MIT,13703,Python SDK for SESY email service
+2026-10-14T13:14:55Z,phyx,1.6.1,Brage,MIT,175817,φyrx (PhyrxScript / PhyrexianScript) — a programming language written in Phyrexian
+2026-10-14T13:16:45Z,fftp,0.4.0,FFTP contributors,MIT,86959,"FFTP — Food From Terminal Protocol: the open protocol for ordering food. Terminal-native ordering for devs, dead-simple setup for restaurants."
+2026-10-14T13:19:56Z,uu-crab-r,0.2.0,lituus-io <support@lituus.io>,AGPL-3.0-or-later OR LicenseRef-Proprietary,14949987,"Generative technical metadata for BigQuery: describe a project, dataset, table or SQL from its producing queries, lineage and values, validated by its own checks."
+2026-10-14T13:19:56Z,uu-objstore-r,0.2.0,lituus-io <support@lituus.io>,AGPL-3.0-or-later OR LicenseRef-Proprietary,9987569,"One object-store API over Google Cloud Storage, a local directory and memory: generation preconditions (compare-and-swap), ranged reads, zero-copy buffers."
+2026-10-14T13:21:16Z,replicar,2.0.4,,MIT,26937,Read replicar files: Rocket League replays reconstructed as RocketSim states

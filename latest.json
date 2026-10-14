@@ -1,43 +1,37 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-10-14T11:20:54.809475Z",
-    "path": "data/new-packages-2026-10-14T12-19-14-222866Z.csv",
-    "to": "2026-10-14T12:19:14.222866Z"
+    "count": 49,
+    "from": "2026-10-14T12:19:14.222866Z",
+    "path": "data/new-packages-2026-10-14T13-21-44-895012Z.csv",
+    "to": "2026-10-14T13:21:44.895012Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-10-14T12:11:54Z",
-      "package": "CTranslate2-rapid-whisper",
-      "since": "2026-10-14T11:20:54.809475Z"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-14T10:00:25Z",
       "package": "beet-future",
       "since": "2026-10-14T09:19:56.169295Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T11:22:25Z",
       "package": "bsa-architecture-linter",
       "since": "2026-10-14T11:20:54.809475Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T11:44:35Z",
       "package": "kade-agents-sdk",
       "since": "2026-10-14T11:20:54.809475Z"
     },
     {
-      "attempts": 3,
-      "created_at": "2026-10-14T09:59:18Z",
-      "package": "toolforge-replica-cnf",
-      "since": "2026-10-14T09:19:56.169295Z"
+      "attempts": 1,
+      "created_at": "2026-10-14T12:39:27Z",
+      "package": "replica-cnf",
+      "since": "2026-10-14T12:19:14.222866Z"
     }
   ],
-  "serial": 42224904,
+  "serial": 42227420,
   "source_truncated": false,
-  "window": "2026-10-14T12:19:14.222866Z"
+  "window": "2026-10-14T13:21:44.895012Z"
 }
