@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T19:17:08Z,girder-flycut-studio,1.0.3,Max Berner,BSD-3-Clause,356856,"Flyer Studio configuration, generation, and IGSN registration for Girder"
+2026-10-14T19:19:50Z,openenergy,4.1.0,Akhilesh Koul,MIT,227878,Backtest battery storage and renewables against real power-market data.
+2026-10-14T19:22:04Z,sourcesift,0.0.1,Jake Van Slyke,Apache-2.0,12827,An agent for personalized newsletter and article discovery (initial scaffold).
+2026-10-14T19:24:14Z,lakelogic-mcp,0.1.0,,Apache-2.0,27357,"A local MCP server that lets AI assistants validate, lint and explain Open Lakehouse Contracts."
+2026-10-14T19:28:00Z,tsgettoolbox-cdec,27.0.1,Tim Cera <tim@cerazone.net>,BSD-3-Clause,22856,Will get time series from different sources on the internet
+2026-10-14T19:34:02Z,millid,0.2.0,Baobab Tech,Apache-2.0,54762,"Detect the language of any text, offline: 1,550 languages in 56 scripts, many of them low-resource, with ONNX Runtime (no PyTorch, no server)."
+2026-10-14T19:38:03Z,etude-sdk,0.1.0,,MIT,570152,Launch training runs on your own or rented machines and track what they record
+2026-10-14T19:38:18Z,casebench,0.1.1,Casebench maintainers,Apache-2.0,466561,Measure the legal accuracy of an AI system against court decisions and lawyer-written references.
+2026-10-14T19:44:39Z,dane-data,0.2.1,Luis Ramírez,MIT,257947,"Descarga, carga y análisis de microdatos del DANE (GEIH y EAM) para estudiantes de economía."
+2026-10-14T19:46:14Z,egress-proxy,0.1.0,botifyex,Apache-2.0,50589,Self-hosted egress proxy with drop-in integrations for Python HTTP clients and upstream HTTP/SOCKS rotation
+2026-10-14T19:47:35Z,hypercube-hopfield1984,1.0.0,,Apache-2.0,3871629,Python bindings for HypercubeHopfield1984: Hopfield's 1984 graded associative memory on a Boolean hypercube
+2026-10-14T19:52:13Z,bikem,0.1.2,Kelchy,MIT,52541,Local-first memory and drift detection for long AI sessions
+2026-10-14T19:55:22Z,nvisionx,0.1.0,NVISIONx,MIT,59053,"Python client for the NVISIONx Nx Platform API: ingest, search, agents and chat over your business records."
+2026-10-14T19:58:02Z,nas-lang,1.0.0,Edward Kelly,,10058,"NAS Language - Java power with Python easy yarn printing, by Kelly"
+2026-10-14T19:58:05Z,diskmelts,2.1,"Chengyan Xie, Dingshan Deng",MIT,19263702,Machine-learning Enabled Line fitting Tool for Spectra of protoplanetary disks
+2026-10-14T19:58:44Z,django-jsonsson,0.1.2,Pavlo K.,MIT,48411,"Django form widgets that turn JSONField values into plain, editable inputs."
+2026-10-14T20:00:30Z,aiokilowattlas,0.1.0,SmilingSweetSwede,MIT,17678,"Async client for the Kilowattlas contributed-solar API (device linking, raw-sample ingest)."
+2026-10-14T20:00:58Z,jinja-macro-tags-pakal,1.0.0,"Maxime Bouroumeau-Fuseau, Pascal Chambon",MIT,27109,Macro loader and HTML-like tag syntax to call Jinja macros
+2026-10-14T20:01:08Z,factusmart,0.1.0,FactuSmart,MIT,40912,"SDK oficial de Python del API de facturación electrónica de FactuSmart (SUNAT, Perú)."
+2026-10-14T20:01:27Z,ciplink-tagserver,0.2.0,Rowan Ramamurthy <rramamurthy@factoryautomation.com>,MIT,68953,One server per site that owns the PLC connections and serves tag values over a WebSocket
+2026-10-14T20:02:13Z,trustlist-badge,0.1.0,TrustList,MIT,8388,"Show your TrustList rank badge on your website: the badge image, linked to the ranking it cites."
+2026-10-14T20:02:47Z,json-compress,1.0.3,Ejaz Hussain Arain <hello@tech-style.co>,"MIT License Copyright (c) 2026 Tech Style Ltd Permission is hereby granted, free of charge, to any…",93454,"Lossless, dependency-free JSON compression for Python. Hoists repeated object keys into a catalogue, packs lists of dicts into columnar tables, and de-duplicates repeated string values - typically 40…"
+2026-10-14T20:03:11Z,secure-keystore,3.0.0,Ejaz Hussain Arain <hello@tech-style.co>,MIT,64362,"Encrypted secrets at rest for Python, with no service to run. Two-layer AES-256-GCM over PBKDF2-SHA256 and HKDF-SHA256, with a documented cross-language format."
+2026-10-14T20:07:41Z,monarchmoney-maten,0.10.3,keithah,MIT,272279,"Enhanced Monarch Money API with bulk transaction operations, GraphQL optimizations, intelligent caching, query variants, and service-oriented architecture"
+2026-10-14T20:09:49Z,shiori-archiver,0.1.0,,MIT,70620,Archive a YouTube channel to local mp4 files with embedded soft subtitles
+2026-10-14T20:09:59Z,daknode,0.1.0,,,111017,A client library for accessing DakNode
+2026-10-14T20:11:13Z,daknode-mcp,0.1.0,,,11443,"DakNode's email API as MCP tools for AI agents, over stdio."
+2026-10-14T20:12:24Z,daknode-cli,0.1.0,,,10381,DakNode's email API from a terminal. JSON to stdout by default.
+2026-10-14T20:12:26Z,openduck-cli,0.1.0,Bertatron,MIT,70532,"The Modern, Lightning-Fast Terminal SQL IDE & Data Explorer for DuckDB"
+2026-10-14T20:13:05Z,officeagent-mcp,1.2.0,Ilia Sokolov,MIT,287249166,"MCP server for inspecting and editing Word, PowerPoint and Excel files, with no .NET install"
+2026-10-14T20:14:13Z,couchbase-operational-insights,1.0.0rc1,"""Couchbase, Inc."" <PythonPackage@couchbase.com>",,241575,Python Client for Couchbase Operational Insights
+2026-10-14T20:16:23Z,runomine,0.1.0,runomine,MIT,50252,"Cookieless analytics that counts money, not just visits: the Python library for runomine."
+2026-10-14T20:16:27Z,helpvox,0.1.0,HelpVox,MIT,30144,Official Python SDK for the HelpVox app platform
+2026-10-14T20:17:02Z,langchain-send21,0.1.0,send21 <info@send21.io>,MIT,9482,send21 tools for LangChain: prepare non-custodial pay links. The payer signs in their own wallet.
+2026-10-14T20:18:16Z,langchain-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,22405,"Give a LangChain agent any list from the live web: ask in plain words, get every matching row with the page it came from, within a price you set in code."
+2026-10-14T20:20:50Z,pistachiots,0.1.0,Daniel José Aguilar Paniagua <danieljoseaguilar@gmail.com>,MIT,17854,"Time series cleaning, lag handling and validation on top of polars"

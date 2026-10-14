@@ -1,37 +1,31 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-10-14T18:19:16.446941Z",
-    "path": "data/new-packages-2026-10-14T19-20-29-383227Z.csv",
-    "to": "2026-10-14T19:20:29.383227Z"
+    "count": 36,
+    "from": "2026-10-14T19:20:29.383227Z",
+    "path": "data/new-packages-2026-10-14T20-21-36-600509Z.csv",
+    "to": "2026-10-14T20:21:36.600509Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T18:36:34Z",
       "package": "RSWallScripting",
       "since": "2026-10-14T18:19:16.446941Z"
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-14T20:03:05Z",
+      "package": "alipay-mp-extractor",
+      "since": "2026-10-14T19:20:29.383227Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-14T17:06:28Z",
       "package": "board-pinout",
       "since": "2026-10-14T16:20:30.337123Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-14T19:17:08Z",
-      "package": "girder-flycut-studio",
-      "since": "2026-10-14T18:19:16.446941Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-14T19:19:50Z",
-      "package": "openenergy",
-      "since": "2026-10-14T18:19:16.446941Z"
     }
   ],
-  "serial": 42241122,
+  "serial": 42243258,
   "source_truncated": false,
-  "window": "2026-10-14T19:20:29.383227Z"
+  "window": "2026-10-14T20:21:36.600509Z"
 }
