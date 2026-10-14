@@ -8,41 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 07:20 UTC
+## Latest list — 2026-10-14 08:19 UTC
 
-New packages created between 2026-10-14 06:20 UTC and 2026-10-14 07:20 UTC.
+New packages created between 2026-10-14 07:20 UTC and 2026-10-14 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-14T07-20-31-554112Z.csv)
+[Full CSV](data/new-packages-2026-10-14T08-19-16-405553Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-14 06:25:10 | [qnap-tools](https://pypi.org/project/qnap-tools/) | 0.4.0 |  | 234.2 kB | Servidores MCP de solo lectura para consultar una flota de NAS QNAP por SSH |
-| 2026-10-14 06:26:06 | [fast-linsolve](https://pypi.org/project/fast-linsolve/) | 0.1.1 | lielielie | 25.5 kB | 高性能线性方程组求解器库：3 种直接法 + 3 种迭代法，Numba JIT 与 Cython 深度优化。 |
-| 2026-10-14 06:29:10 | [flpq-data](https://pypi.org/project/flpq-data/) | 6.0.0 | Vadim Abzalov <vadim.i.abzalo… | 138.3 kB | Python package containing Graphs and Grammars for experimental analysis of Form… |
-| 2026-10-14 06:29:49 | [scan-reader](https://pypi.org/project/scan-reader/) | 0.9.6 | ScanReader Contributors | 608.9 kB | AI legal document recognition, Zero-Trust verification, and 1C/Excel registry o… |
-| 2026-10-14 06:29:55 | [disrated](https://pypi.org/project/disrated/) | 0.1.0 |  | 49.8 kB | Add your description here |
-| 2026-10-14 06:31:15 | [xyberos-templates](https://pypi.org/project/xyberos-templates/) | 0.1.0 |  | 19.1 kB | Server-rendered pages for a Xyberos application: render off the event loop, aut… |
-| 2026-10-14 06:33:43 | [polars-datapulse](https://pypi.org/project/polars-datapulse/) | 0.2.0 | Biswarup Majumdar <majumdarb1… | 168.7 kB | Blazing-fast automated tabular exploratory data analysis (EDA) toolkit powered… |
-| 2026-10-14 06:34:40 | [ville](https://pypi.org/project/ville/) | 0.1.0 | Shiv Bhaduri <shiv.bhaduri@gm… | 420.6 kB | Anytime valid inference in Python: confidence sequences, e-processes and e-valu… |
-| 2026-10-14 06:35:31 | [nori-rel](https://pypi.org/project/nori-rel/) | 0.3.0 | Synthefy | 469.0 kB | Relational database prediction with Nori |
-| 2026-10-14 06:37:12 | [secretforge](https://pypi.org/project/secretforge/) | 0.1.0 | G-Tools-Spaces | 8.9 kB | SecretForge Python SDK — load vault secrets into os.environ at boot; no more .e… |
-| 2026-10-14 06:38:49 | [docustay](https://pypi.org/project/docustay/) | 0.1.0 | Docustay <support@docustay.ap… | 23.7 kB | Docustay API client for Python. Standard library only. |
-| 2026-10-14 06:39:50 | [sen2chain](https://pypi.org/project/sen2chain/) | 1.4.1 | Jérémy Commins <jebins@openma… | 19.6 MB | Download and process Sentinel-2 images |
-| 2026-10-14 06:40:02 | [whisper-gpu-kit](https://pypi.org/project/whisper-gpu-kit/) | 0.1.1 | Daniil Petrov | 21.3 kB | GPU (faster-whisper) transcription primitives: cuDNN/cuBLAS preload, lazy model… |
-| 2026-10-14 06:40:05 | [claude-subprocess](https://pypi.org/project/claude-subprocess/) | 0.1.1 | Daniil Petrov | 72.7 kB | Hardened wrapper around the local `claude -p` CLI (subscription auth), + JSON e… |
-| 2026-10-14 06:40:10 | [tinycommons](https://pypi.org/project/tinycommons/) | 0.2.0 | Daniil Petrov | 36.3 kB | The small utilities duplicated across ~7 repos: setup_logging, load_env, sqlite… |
-| 2026-10-14 06:42:45 | [langchain-meragpt](https://pypi.org/project/langchain-meragpt/) | 0.1.0 | meraGPT | 39.5 kB | LangChain integration for meraGPT Decider 1: typed decisions with calibrated pr… |
-| 2026-10-14 06:49:06 | [scrinium](https://pypi.org/project/scrinium/) | 3.1.0 | Zhou Qiankang <wszqkzqk@qq.co… | 583.4 kB | Scrinium — a research infrastructure for AI agents (hard fork of ScholarAIO) |
-| 2026-10-14 06:49:20 | [pyinto](https://pypi.org/project/pyinto/) | 0.0.1 | minoru-jp | 448.2 kB | Experimental Python-to-Model normalization and target-defined artifact realizat… |
-| 2026-10-14 06:52:53 | [ml-data-guard](https://pypi.org/project/ml-data-guard/) | 0.1.0 | Sławomir Strzelec | 140.7 kB | Data validation for ML pipelines, benchmarked with injected faults. |
-| 2026-10-14 06:53:57 | [pommes-assistant](https://pypi.org/project/pommes-assistant/) | 0.1.0 | Robin Girard <robin.girard@mi… | 892.1 kB | Deterministic backbone of a conversational assistant for pommes energy-system s… |
-| 2026-10-14 06:54:20 | [xyberos-postgres](https://pypi.org/project/xyberos-postgres/) | 0.1.0 |  | 18.7 kB | A DatabaseProvider for PostgreSQL, proved against the shipped conformance suite |
-| 2026-10-14 06:56:26 | [tiktok-lazy-follower](https://pypi.org/project/tiktok-lazy-follower/) | 0.2.0 |  | 1.2 MB | Follow AI and LLM creators on TikTok without the feed: local transcription and… |
-| 2026-10-14 06:56:41 | [kellian](https://pypi.org/project/kellian/) | 1.0.0 | Kellian <hello@kellian.si> | 186.8 kB | Python SDK for the Kellian Agent API |
-| 2026-10-14 07:03:05 | [agentinfer-zmj-test](https://pypi.org/project/agentinfer-zmj-test/) | 0.1.0 |  | 627.0 kB |  |
-| 2026-10-14 07:05:36 | [fastapi-cordis](https://pypi.org/project/fastapi-cordis/) | 0.2.2 | byfb <62798989+byfb@users.nor… | 92.6 kB | Cordis-inspired plugin lifecycles and service leases for FastAPI |
-| 2026-10-14 07:10:07 | [up2fireshare](https://pypi.org/project/up2fireshare/) | 1.0.0 | LittleBit | 8.6 kB | Add your description here |
-| 2026-10-14 07:10:19 | [capturethenarrative](https://pypi.org/project/capturethenarrative/) | 0.3.0 | Capture the Narrative | 35.7 kB | Python client for the Capture the Narrative game world: Legit Social, the in-un… |
-| 2026-10-14 07:14:51 | [foml](https://pypi.org/project/foml/) | 0.1.0 | FOML Study Library contributo… | 2.4 MB | A simple command-line study library for FOML code notebooks, exam papers, and t… |
-| 2026-10-14 07:17:17 | [stbkit-native](https://pypi.org/project/stbkit-native/) | 0.1.0b4 | "STB-KIT Development Team (TA… | 10.4 MB | STB-KITのグラフィック機能を提供するネイティブ（Rust）拡張 |
-| 2026-10-14 07:19:22 | [pgddl](https://pypi.org/project/pgddl/) | 0.1.0 | Evan Q | 31.4 kB | Export PostgreSQL schema definitions as executable SQL. |
+| 2026-10-14 07:06:14 | [ucgmsim-srf](https://pypi.org/project/ucgmsim-srf/) | 2026.10.1 | ucgmsim | 15.0 MB | Read and write Standard Rupture Format (SRF) files. |
+| 2026-10-14 07:22:11 | [pixxio-client](https://pypi.org/project/pixxio-client/) | 0.4.2 | Claudius Hansch | 147.7 kB | PIXX!O API Python Client |
+| 2026-10-14 07:30:54 | [gitguard-cli-blxss](https://pypi.org/project/gitguard-cli-blxss/) | 0.1.0 |  | 6.4 kB | A lightweight Git safety assistant that asks before committing changes. |
+| 2026-10-14 07:32:29 | [gushwork-relay](https://pypi.org/project/gushwork-relay/) | 0.2.1 |  | 39.0 kB | The OpenAI Python SDK with Relay's headers and stored prompts. |
+| 2026-10-14 07:35:22 | [eigenorbit-router-client](https://pypi.org/project/eigenorbit-router-client/) | 0.0.0 | EigenOrbit | 11.2 kB | Run eigenkit circuits on real quantum hardware through EigenOrbit Router. |
+| 2026-10-14 07:35:25 | [trc-eval](https://pypi.org/project/trc-eval/) | 0.0.1 |  | 484 B | Reserved name. |
+| 2026-10-14 07:35:26 | [eigensim](https://pypi.org/project/eigensim/) | 0.0.0 | EigenOrbit | 2.6 kB | Fast, batched state-vector quantum circuit simulator. |
+| 2026-10-14 07:37:19 | [beveridge](https://pypi.org/project/beveridge/) | 0.2.4 | Dr. Sathiskumar JOTHI | 13.4 kB | Beveridge: System One decision models with open weights. Alias of bev-decisions… |
+| 2026-10-14 07:38:15 | [houdini-asset-library](https://pypi.org/project/houdini-asset-library/) | 0.6.0 | hamu-dev | 724.3 kB | Houdini Asset Library: save Houdini nodes as Hscript (cmd) and whole scenes as… |
+| 2026-10-14 07:39:42 | [xyberos-storage-s3](https://pypi.org/project/xyberos-storage-s3/) | 0.1.1 |  | 28.6 kB | A Storage provider for S3-compatible object stores, proved against the shipped… |
+| 2026-10-14 07:40:12 | [regnetwork-mcp](https://pypi.org/project/regnetwork-mcp/) | 0.1.0 | qi-717abc | 51.9 kB | Online-first, read-only research tools for RegNetwork |
+| 2026-10-14 07:41:21 | [dspy-wity](https://pypi.org/project/dspy-wity/) | 0.1.0 |  | 275.6 kB | DSPy integration for Wity, the typed-decision API |
+| 2026-10-14 07:41:45 | [xyberos-openai-compatible](https://pypi.org/project/xyberos-openai-compatible/) | 0.1.1 |  | 48.7 kB | A ModelProvider for OpenAI-compatible chat and embedding endpoints, proved agai… |
+| 2026-10-14 07:43:23 | [ssh-ls](https://pypi.org/project/ssh-ls/) | 0.1.0 | Moviw | 125.1 kB | A keyboard-first SSH host picker with config and history discovery |
+| 2026-10-14 07:47:25 | [aha-python](https://pypi.org/project/aha-python/) | 0.1.0 | migo | 46.6 kB | Audio Harness 同步与异步 Python SDK 及共享 Realtime 契约 |
+| 2026-10-14 07:53:35 | [vertiq](https://pypi.org/project/vertiq/) | 0.2.0 | Biswajit Tripathy | 297.3 kB | Self-improving decision intelligence: a local language model that maps any oper… |
+| 2026-10-14 07:53:46 | [nullify-guard](https://pypi.org/project/nullify-guard/) | 0.1.0 | Aryavvij | 60.5 kB | Stops AI browser agents from being clickjacked: every Playwright click lands on… |
+| 2026-10-14 07:57:25 | [hindsight-vapi](https://pypi.org/project/hindsight-vapi/) | 0.1.1 | Vectorize <support@vectorize.… | 106.9 kB | Hindsight persistent memory integration for Vapi voice AI |
+| 2026-10-14 07:58:01 | [evenkeel](https://pypi.org/project/evenkeel/) | 0.1.1 | yodablocks | 43.7 kB | Failure classification, retries with hints, dollar budgets and escalation for L… |
+| 2026-10-14 07:58:46 | [warninglists](https://pypi.org/project/warninglists/) | 0.1.0 | Mario Trerotola | 73.7 kB | Regulator warning lists (IOSCO I-SCAN, CONSOB website blocking orders, FCA) in… |
+| 2026-10-14 07:59:19 | [hindsight-meta-muse](https://pypi.org/project/hindsight-meta-muse/) | 0.1.1 |  | 90.3 kB | Hindsight integration for Meta Muse — connect prompt, docs and an MCP endpoint… |
+| 2026-10-14 08:00:13 | [slyde](https://pypi.org/project/slyde/) | 0.0.1 |  | 108.9 kB | Native wxPython slideshows backed by editable Python percent notebooks |
+| 2026-10-14 08:03:40 | [aimarket-hestia](https://pypi.org/project/aimarket-hestia/) | 0.1.0 |  | 786.9 kB | HESTIA — the hearth: isolated hosted runtime for AIMarket capability providers |
+| 2026-10-14 08:03:48 | [floorplan-scene](https://pypi.org/project/floorplan-scene/) | 0.1.0 |  | 64.8 kB | Floor plan data structures and semantic SVG, FPI and Legend conversion |
+| 2026-10-14 08:03:53 | [floorplan-recognition-kit](https://pypi.org/project/floorplan-recognition-kit/) | 0.1.0 |  | 61.7 kB | Offline CAD preparation, semantic floor plan delivery and HTML preview |
+| 2026-10-14 08:05:50 | [sf-smartswitch](https://pypi.org/project/sf-smartswitch/) | 0.1.0 | SmartTasks Lab | 195.7 kB | A quorum kill switch for AI agent fleets: no single keyholder can halt the flee… |
+| 2026-10-14 08:06:35 | [docharvest](https://pypi.org/project/docharvest/) | 11.3.1 | Rohan Shetty <shettyrohan2@gm… | 3.0 MB | DocHarvest — Turn any documentation site into LLM-ready Markdown, vector RAG JS… |
+| 2026-10-14 08:10:06 | [storypy](https://pypi.org/project/storypy/) | 0.1.7 | Richard Alawode <richard.alaw… | 30.2 MB | A Python package to compute climate storylines |
+| 2026-10-14 08:11:58 | [getmux](https://pypi.org/project/getmux/) | 0.1.0 | Mux <support@getmux.io> | 19.0 kB | One API, one key and one bill for Exa, Parallel and Keenable web search. |
+| 2026-10-14 08:12:21 | [jupyterlab-cell-studio](https://pypi.org/project/jupyterlab-cell-studio/) | 0.1.0 | PatriotEver Lab contributors | 103.2 kB | Privacy-first debugging and per-cell notebook actions for JupyterLab |
+| 2026-10-14 08:13:17 | [jacopy](https://pypi.org/project/jacopy/) | 0.1.0 | Oğuzhan Selçuk | 1.7 MB | Graded algebra, bracket calculus, and metric-affine and generalized geometry wi… |
+| 2026-10-14 08:13:42 | [nightward](https://pypi.org/project/nightward/) | 0.3.0 | nightward authors | 301.0 kB | Regression firewall for AI-driven changes — capture, approve, and gate behavior… |
+| 2026-10-14 08:16:45 | [stko-lite](https://pypi.org/project/stko-lite/) | 2026.10.14.0 | Andrew Tarzia <andrew.tarzia@… | 21.8 MB | Automatic molecular optimisation and analysis. |
