@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T10:04:47Z,boolean-string-integer-parser,0.1.2,David Ivanov <davidivanov.2413@mail.ru>,,4800,Can convert strings and numbers to boolean
+2026-10-14T10:19:46Z,rstsr-faer-py,0.10.0,,Apache-2.0,39075490,Python array-API binding of rstsr (faer device); validation instrument for the Python array API standard
+2026-10-14T10:21:12Z,fred-capability-writable-document,4.5.0,Thales <noreply@thalesgroup.com>,Apache-2.0,54709,Fred agent capability: co-author a session-scoped Markdown document from chat (writable_document).
+2026-10-14T10:22:18Z,pintree-guard,0.0.1,Adam Dunn,MIT,4209,PinTree: fast pre-install safety and fix-it checks for AI agents (formerly karmadue-guard). Name reserved.
+2026-10-14T10:23:53Z,tikv-python,0.1.0,Slava Bobik,Apache-2.0,166344,Pure-Python client for TiKV's raw key-value API
+2026-10-14T10:28:14Z,active-learning-step,2026.10.14,Paul Saxe,BSD-3-Clause,474293,A SEAMM plug-in for Active Learning
+2026-10-14T10:28:28Z,cfa-frm-formula-sheets,1.0.1,UniPrep2Go,MIT (code); CC-BY-4.0 (data),38155,"Open formula reference for CFA Level I, CFA Level II and FRM Part I: LaTeX, variables, use cases, official topic weights. JSON/CSV + KaTeX pages. By UniPrep2Go."
+2026-10-14T10:28:32Z,dubai-dld-monthly-stats,1.0.1,UAE Property,MIT (code); CC-BY-4.0 (data),180086,"Monthly Dubai Land Department (DLD) open-data property sales aggregates by area and property type, 2026 YTD (Jan–Aug). Not an official DLD product."
+2026-10-14T10:28:37Z,passport-photo-specs-data,1.0.1,PixID,MIT (code); CC-BY-4.0 (data),21588,"Official passport & visa photo specifications by country (JSON/CSV), sourced from government pages"
+2026-10-14T10:28:42Z,prep2go-exam-facts,1.0.1,Prep2Go,MIT (code); CC-BY-4.0 (data),20320,"Open, source-linked facts on citizenship language exams: CIPLE, DELE, DELF, CELI + PT/ES/FR/IT language requirements"
+2026-10-14T10:30:32Z,shvgroups-veto,1.0.0,,Apache-2.0,25212,"Python client for Veto, the approval layer between AI agents and the actions they take."
+2026-10-14T10:32:08Z,pyside6-native-titlebar,1.0.0,Wuerfelhusten,MIT,151857,Native Windows title bar integration for PySide6 applications
+2026-10-14T10:33:28Z,eonrise,0.9.0,Mohamed Amine NAJI,MIT,354463,"Finds where other research fields already solved your problem, from scholarly sources"
+2026-10-14T10:33:37Z,pyM4E,2.1.1,"Alvaro Diaz Flores Caminero, Sahand Sabet",,257224,Symbolic multibody dynamics framework for planar systems
+2026-10-14T10:34:17Z,saltapp,0.6.0,0x0000F8 <0000F8@proton.me>,MIT,291630,"Python SDK for Salt (saltapp.ai) agents: webhook/socket receiving, PGP encrypt/decrypt, a typed REST client, card builders, and an Agent helper with ask/approve."
+2026-10-14T10:36:17Z,rshellcheck,0.11.0,,GPL-3.0-or-later,26475905,Native Rust ShellCheck command-line tool
+2026-10-14T10:38:07Z,acid-cat-catalog,0.1.0,Hebilicious,MIT,11521,Write an AcidCat catalog in Python and render it in canonical form.
+2026-10-14T10:40:14Z,tono-py,1.11.0,,MIT,2606053,"Live procedural audio, adaptive music, and zero-asset SFX for Python games — a deterministic, Rust-grade synthesis engine."
+2026-10-14T10:40:56Z,libsonic,0.1.0,,Apache-2.0,867083,"Pitch-synchronous speech speed, pitch and volume changer, a Rust port of Sonic"
+2026-10-14T10:44:03Z,toolframe,0.6.2,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,9161198,Native launcher for local Toolframe applications and isolated Python plugins
+2026-10-14T10:44:06Z,toolframe-core,0.6.2,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0 AND MIT,472705,Persistent control host for isolated Toolframe plugins
+2026-10-14T10:48:32Z,graph-attention-engine,0.7.25,Arindam Banerji <banerji.arindam@gmail.com>,Apache-2.0,352854,Standalone numpy-only graph attention library (GAE v5)
+2026-10-14T10:54:00Z,data-science-concepts,2026.0.0,,MIT,11806,Helper functions for the Concepts in Data Science practicals (Wageningen University)
+2026-10-14T10:59:57Z,pyephemera,0.4.1,Intellecat,MIT,12428407,"Pocket-sized ephemeris for astrology and astronomy: planets, Moon, Chiron, nodes, houses, ayanamsas, stars, eclipses, Uranian points and 1,000+ asteroids. No dependencies, MIT."
+2026-10-14T11:02:35Z,local-terminal-summarizer,0.7.0,summarizer contributors,MIT,353189,"A local-first, Unix-native terminal summarizer for local LLM servers."
+2026-10-14T11:05:37Z,wynd,0.1.0,Viswa Marepalli,,37105,Alternative to pywrangler for Crosswind
+2026-10-14T11:05:52Z,crosswind-workers,0.1.0,Viswa Marepalli,,83903,"Typed, Pythonic drop-in replacement for Cloudflare's workers-runtime-sdk"
+2026-10-14T11:06:34Z,readmegen-agent,0.2.0,Amine Ferjani,MIT,365849,Generate evidence-based project READMEs from your terminal or browser.
+2026-10-14T11:07:05Z,astryx,0.1.0,Umair Bin Fiaz,MIT,2663253,"An org of Claude Code agents: a postgres wire, a pulse, and a seed that builds the rest."
+2026-10-14T11:08:07Z,toolframe-object-store-local,0.1.0,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,41457,Private local object storage for Toolframe plugins
+2026-10-14T11:08:09Z,toolframe-jobs,0.1.0,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,93995,Durable owner-fenced jobs and bounded worker helpers for Toolframe
+2026-10-14T11:08:30Z,toolframe-object-store-s3,0.1.0,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,45505,S3-compatible object storage for Toolframe plugins
+2026-10-14T11:08:56Z,zibloh,0.1.0,Milmoh,Apache-2.0,81383,"Zibloh CLI and MCP server: build, deploy and run Zibloh robots from the terminal or Claude Code"
+2026-10-14T11:11:01Z,toolframe-audit,0.1.0,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,148045,Durable source-fenced audit events and transactional outbox helpers for Toolframe
+2026-10-14T11:11:03Z,toolframe-backup,0.1.0,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,104445,Stopped-application recovery archives and a local Backup catalog for Toolframe
+2026-10-14T11:11:58Z,pulumi-tui,0.1.0,Fabio Todaro,Apache-2.0,49154,Pulumi Textual User Interface
+2026-10-14T11:13:35Z,cmem-plugin-s3,1.0.0,eccenca GmbH,Apache-2.0,51244,"List, download and upload files in S3 and S3-compatible object storage."
+2026-10-14T11:14:23Z,pamd-eurocodes,0.2.0,Abstergo2003,,2443,Eurocodes ported to python library.
+2026-10-14T11:15:08Z,autogrid,0.0.1,,,2299,Add your description here

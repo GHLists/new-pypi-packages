@@ -1,49 +1,31 @@
 {
   "list": {
-    "count": 51,
-    "from": "2026-10-14T09:19:56.169295Z",
-    "path": "data/new-packages-2026-10-14T10-19-52-942363Z.csv",
-    "to": "2026-10-14T10:19:52.942363Z"
+    "count": 39,
+    "from": "2026-10-14T10:19:52.942363Z",
+    "path": "data/new-packages-2026-10-14T11-20-54-809475Z.csv",
+    "to": "2026-10-14T11:20:54.809475Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T10:00:25Z",
       "package": "beet-future",
       "since": "2026-10-14T09:19:56.169295Z"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-10-14T10:04:47Z",
-      "package": "boolean-string-integer-parser",
-      "since": "2026-10-14T09:19:56.169295Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T09:36:34Z",
       "package": "docling-rs-mcp",
       "since": "2026-10-14T09:19:56.169295Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-14T07:16:50Z",
-      "package": "p-v-q",
-      "since": "2026-10-14T06:20:35.202946Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-14T10:19:46Z",
-      "package": "rstsr-faer-py",
-      "since": "2026-10-14T09:19:56.169295Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T09:59:18Z",
       "package": "toolforge-replica-cnf",
       "since": "2026-10-14T09:19:56.169295Z"
     }
   ],
-  "serial": 42220981,
+  "serial": 42222872,
   "source_truncated": false,
-  "window": "2026-10-14T10:19:52.942363Z"
+  "window": "2026-10-14T11:20:54.809475Z"
 }
