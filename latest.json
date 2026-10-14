@@ -1,43 +1,49 @@
 {
   "list": {
-    "count": 48,
-    "from": "2026-10-14T08:19:16.405553Z",
-    "path": "data/new-packages-2026-10-14T09-19-56-169295Z.csv",
-    "to": "2026-10-14T09:19:56.169295Z"
+    "count": 51,
+    "from": "2026-10-14T09:19:56.169295Z",
+    "path": "data/new-packages-2026-10-14T10-19-52-942363Z.csv",
+    "to": "2026-10-14T10:19:52.942363Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-14T05:26:19Z",
-      "package": "node-wire-fhir-cerner",
-      "since": "2026-10-14T05:19:09.0799Z"
+      "attempts": 1,
+      "created_at": "2026-10-14T10:00:25Z",
+      "package": "beet-future",
+      "since": "2026-10-14T09:19:56.169295Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-14T10:04:47Z",
+      "package": "boolean-string-integer-parser",
+      "since": "2026-10-14T09:19:56.169295Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-14T09:36:34Z",
+      "package": "docling-rs-mcp",
+      "since": "2026-10-14T09:19:56.169295Z"
     },
     {
       "attempts": 4,
-      "created_at": "2026-10-14T05:26:05Z",
-      "package": "node-wire-google-drive",
-      "since": "2026-10-14T05:19:09.0799Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-14T05:25:53Z",
-      "package": "node-wire-smtp",
-      "since": "2026-10-14T05:19:09.0799Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-14T05:24:39Z",
-      "package": "node-wire-stripe",
-      "since": "2026-10-14T05:19:09.0799Z"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-10-14T07:16:50Z",
       "package": "p-v-q",
       "since": "2026-10-14T06:20:35.202946Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-14T10:19:46Z",
+      "package": "rstsr-faer-py",
+      "since": "2026-10-14T09:19:56.169295Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-14T09:59:18Z",
+      "package": "toolforge-replica-cnf",
+      "since": "2026-10-14T09:19:56.169295Z"
     }
   ],
-  "serial": 42218935,
+  "serial": 42220981,
   "source_truncated": false,
-  "window": "2026-10-14T09:19:56.169295Z"
+  "window": "2026-10-14T10:19:52.942363Z"
 }
