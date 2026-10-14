@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T02:21:41Z,oi-workforce-dml,0.2.0,DML Pipeline Contributors,,79827,Cross-fitted estimation and plotting for program evaluation.
+2026-10-14T02:24:12Z,pulsecrawl,0.1.0,PulseCrawl contributors,AGPL-3.0-only,506921,PulseCrawl crawler and SDK: run locally or submit hosted jobs through the PulseCrawl API.
+2026-10-14T02:24:59Z,napier,0.1.1,The napier authors,Apache-2.0,1053398,"Page-cited answers from your music gear's manuals, for you and your AI assistant: a CLI and MCP server, with a ledger of checked facts and a Eurorack rack planner"
+2026-10-14T02:26:23Z,ribline,0.3.0,Quan Wang,MIT,807985,"Hybrid Semantic Context Forests, 3D U-Net, and Kyphosis-Aware Deformable Topology Matching for 3D Rib Centerline Tracing and Anatomical Labeling"
+2026-10-14T02:28:30Z,buntu,0.2.0,Ibrahima Touré,MIT,2413723,OAuth 2.1 and OpenID Connect provider
+2026-10-14T02:30:13Z,prismcv,0.1.1,Andy Zhang,MIT,38194,"One source, every CV: build multilingual, tailored CVs with RenderCV."
+2026-10-14T02:30:32Z,sciaiot-rivet,0.1.7,Nick Yao <ipaddict@outlook.com>,Apache License 2.0,461675,Rivet: OpenVPN control plane from SCIA IoT.
+2026-10-14T02:37:36Z,local-image-gen-security,0.1.0,33rd-kk,Apache-2.0,56508,"Checks a local image-generation setup (ComfyUI, A1111 / Forge, hubs, model folders) against the Local Image Generation Security Profile: read-only, only where you point it"
+2026-10-14T02:38:10Z,duyi-utils-473463237,0.1.3,,,4755,一个用于学习 Python 公共库构建和发布的示例工程
+2026-10-14T02:38:34Z,agent-hygiene,0.1.2,Udaya Nirogi <data.pycap@gmail.com>,GPL-3.0-or-later,115866,"Inventory and clean up what coding-agent CLIs (Codex, Claude Code, Cursor, Gemini, ...) leave behind on macOS and Linux."
+2026-10-14T02:39:46Z,openslope,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,5700,Open-source slope stability analysis
+2026-10-14T02:39:49Z,openseep,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,5689,Open-source seepage and groundwater flow analysis
+2026-10-14T02:39:51Z,openpiles,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,5703,Open-source pile foundation analysis and design
+2026-10-14T02:40:14Z,qilt-ai,0.0.0.dev0,PSQR Technologies LLC,,2531,Name reserved by PSQR Technologies LLC for a forthcoming product. Not for use.
+2026-10-14T02:40:53Z,sciaiot-rivet-agent,0.1.7,Nick Yao <ipaddict@outlook.com>,Apache License 2.0,3478,Rivet VPN agent from SCIA IoT.
+2026-10-14T02:41:39Z,libero-pro-benchmark-assets-1,0.1.0,,MIT,142600077,"Bundled LIBERO and LIBERO-PRO model resources, part 1 of 5"
+2026-10-14T02:43:21Z,libero-pro-benchmark-assets-2,0.1.0,,MIT,142610918,"Bundled LIBERO and LIBERO-PRO model resources, part 2 of 5"
+2026-10-14T02:44:24Z,datagoat-decide,0.2.0,,MIT,189435,"Let Datagoat answer a decision step in your agent, with your AI as the fallback."
+2026-10-14T02:44:48Z,roomkit-ui,0.3.0,,,25298998,Voice Assistant — PySide6 desktop app wrapping roomkit
+2026-10-14T02:44:53Z,wb-voice-intent-mcp,1.0.0,,,291373,语音消息智能处理助手 MCP 连接器（13 个语音处理工具）
+2026-10-14T02:46:20Z,bayanat-labelbench,0.1.1,Bayanat Labs Research,Apache-2.0,107978,"LabelBench by Bayanat Labs, a reproducible audit of automated Arabic data labeling."
+2026-10-14T02:46:43Z,libero-pro-benchmark-assets-3,0.1.0,,MIT,142517020,"Bundled LIBERO and LIBERO-PRO model resources, part 3 of 5"
+2026-10-14T02:47:04Z,shadewire,0.1.0,Roberto De Ioris,MIT AND Apache-2.0 AND BSD-3-Clause,8326791,"Compile MaterialX materials to WGSL, GLSL, HLSL and Metal shader code, with reflection"
+2026-10-14T02:48:28Z,libero-pro-benchmark-assets-4,0.1.0,,MIT,142604049,"Bundled LIBERO and LIBERO-PRO model resources, part 4 of 5"
+2026-10-14T02:48:38Z,pythonboot,0.1.0,,,9952044,"A Spring Boot-inspired Python application core with IoC, AOP, and lifecycle management"
+2026-10-14T02:53:31Z,hipp-https-agent,0.2.1,,,42092,在本机申请和续期 HTTPS 证书，并用令牌向服务端上报
+2026-10-14T02:58:01Z,pysanepic,0.2.1,"Luca Pagano, Guillaume Patanchon",GPL-3.0,61724,GLS map-making with correlated noise (SANEPIC algorithm) in Python
+2026-10-14T02:58:26Z,pythonboot-web,0.1.0,,,25531,FastAPI integration and Web application startup for PythonBoot
+2026-10-14T02:58:30Z,pythonboot-sqlalchemy,0.1.0,,,19046,Native SQLAlchemy ORM configuration and lifecycle integration for PythonBoot
+2026-10-14T02:58:35Z,pythonboot-redis,0.1.0,,,14516,"Native redis-py clients, utilities and distributed locks for PythonBoot"
+2026-10-14T02:59:41Z,verdi-bridge,0.3.1,Ruihong Yin,MIT,1574980,Let AI agents inspect waveforms and navigate RTL in a live Synopsys Verdi session
+2026-10-14T03:04:37Z,subtask-mcp,0.2.3,,MIT,203269,"Background sub-agents for Claude Code, Codex, Kimi and OpenCode, over MCP or CLI, with a spend cap"
+2026-10-14T03:09:00Z,poundlock-toolkit,0.4.0,Michael Anderson,Apache-2.0,330999,"Bounded, evidence-led inference and coding harness qualification"
+2026-10-14T03:17:36Z,rapidocrlite,5.0.0a6,SWHL <liekkaskono@163.com>,Apache-2.0,57522847,"RapidOCRLite: lightweight, fast PP-OCRv6 native engine, API-compatible with RapidOCR; import name rapidocr"
+2026-10-14T03:17:50Z,language2drive,0.1.0,,MIT,4988279,Five-track paired counterfactual benchmark for language-conditioned driving
