@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T08:09:24Z,odoo-addon-edi-exchange-record-file-manager,18.0.1.0.0.2,"Camptocamp,Odoo Community Association (OCA)",LGPL-3,37674,Adds a wizard to manage the file of an EDI exchange record
+2026-10-14T08:20:46Z,adx-environment,0.1.0rc1,,Apache-2.0,229525,Python SDK for Agent DX environments with EXECD HTTP and reverse-tunnel transport
+2026-10-14T08:26:25Z,figenai-mcp,0.0.1,Figen SAS,,2104,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-14T08:26:29Z,sketchflow,0.1.0,,MIT,13069,A Python pencil sketch and outline processing library
+2026-10-14T08:26:31Z,figenai-crm,0.0.1,Figen SAS,,2104,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-14T08:26:34Z,fastship-py,0.4.0,taiyo tamura <gtaiyou24@gmail.com>,MIT,146015,モジュラモノリス + DDD のカーネル。集約・ドメインイベント・UnitOfWork・トランザクショナル outbox/inbox を業務語彙ゼロで提供する
+2026-10-14T08:26:37Z,figenai-billing,0.0.1,Figen SAS,,2160,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-14T08:26:42Z,figenai-aggregation,0.0.1,Figen SAS,,2219,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-14T08:29:29Z,senswear-heartrate,0.1.0,Sensera Technologies,MIT,83153,"Real-time heart rate, SpO2, pulse waveform and body temperature monitor for SensWear devices."
+2026-10-14T08:32:07Z,yakbox,0.3.0,yakbox contributors,MIT,21416764,"A local-first, reproducible audiobook build system"
+2026-10-14T08:33:59Z,cancellens,0.1.0,0then0,Apache-2.0,123227,Replay observed asyncio suspension points and check cancellation invariants.
+2026-10-14T08:35:34Z,daybook-suite,3.0.0rc1,手艺人老宋 <songliansheng@vip.sina.com>,MIT,110000,DAYBOOK 起居注：纯文本、零依赖、只增不改的长期记忆账本（pip 发行版）
+2026-10-14T08:36:10Z,starsift,0.1.0,Intikhab Azam,MIT,57560,"Check whether the accounts behind a GitHub repo's stars look real, now that GitHub hides the stargazer list. Compares live stargazers, archived stars and fork owners with a time-matched control group."
+2026-10-14T08:37:25Z,slmrouter,0.1.0,Dhyanesh Mahendiran,Apache-2.0,72987,"A bounded, zero-runtime-dependency tool router for local language models"
+2026-10-14T08:37:37Z,pillow-wash,0.1.0,pillow-wash contributors,MIT,86343,"Sanitize untrusted images by whitelist-rebuild: clean pixels, vetted metadata, nothing inherited from the input."
+2026-10-14T08:39:31Z,xyberos-crud,0.1.0,,Apache-2.0,24285,"Query construction over the provider contract: filtering, sorting, and pagination as values rather than entities"
+2026-10-14T08:41:26Z,cn-shop-mcp,0.1.0,wangkehao,MIT,142362,Compliant product search & price comparison MCP server for Taobao/JD/PDD
+2026-10-14T08:41:31Z,suken-cite,0.1.0,suken,MIT,1368851,"Circle a quote in a web page, PDF, Word, CSV or code file, add a translation, and get a screenshot link to cite it."
+2026-10-14T08:43:45Z,fatcat-metadata,0.1.0,,AGPL-3.0-only,83175164,C++ metadata and project-settings composition for slicer 3MF projects
+2026-10-14T08:45:14Z,rulestamp-pld-liability-window-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37954,"12 rules read your CHANGELOG.md the way Directive (EU) 2024/2853 will read it from 2026-12-09: undated releases lose the start of the 10-year window in Art. 17(2), and the AS-IS clause is void under…"
+2026-10-14T08:45:31Z,rulestamp-docker-hub-pull-limit-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36456,"Finds every anonymous Docker Hub pull in GitHub Actions, compose, GitLab CI, Kubernetes and Dockerfiles, including the service containers your login step never covers. Docker Hub limit: 100 pulls per…"
+2026-10-14T08:45:38Z,rulestamp-gpsr-listing-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38719,Audits a product feed row by row against Article 19 of the EU General Product Safety Regulation (bundled Node.js runtime)
+2026-10-14T08:45:56Z,rulestamp-i18n-fr-ca-bill96-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35893,Finds the France-French and left-over English lines in your fr-CA locale file before an OQLF complaint does. (bundled Node.js runtime)
+2026-10-14T08:48:38Z,go-judge-client,0.1.1,,MIT,201465,Typed asynchronous streaming client for go-judge
+2026-10-14T08:49:25Z,erp-call-qc-mcp,1.0.0,,Proprietary,27925,鼎尖 ERP 通话录音质检 MCP：脱敏查询、违规预检，配合 Skill 做 SABCD 作业评级
+2026-10-14T08:51:54Z,lantai,0.0.1,,,819,Reserved.
+2026-10-14T08:51:55Z,sushu,0.0.1,,,822,Reserved.
+2026-10-14T08:51:57Z,xinchuan,0.0.1,,,824,Reserved.
+2026-10-14T08:52:22Z,sythra,0.1.0,Sythra <sythra.hq@gmail.com>,,17823,"Runtime intelligence for AI agents: find the first point where a run went wrong, what it cost, and how to fix it."
+2026-10-14T08:52:36Z,leap-oauth-sdk,0.1.0,Llugaes <249094896@qq.com>,"MIT License Copyright (c) 2026 Llugaes Permission is hereby granted, free of charge, to any person…",49688,Business-side SDK for services that accept Leap Auth OAuth access tokens
+2026-10-14T08:54:35Z,xiange,0.0.1,,,809,Reserved.
+2026-10-14T08:54:47Z,gpugem,0.1.2,Digital Metabolic Twin Centre,MIT,90059,GPU-accelerated Flux Balance Analysis for genome-scale metabolic models
+2026-10-14T08:56:19Z,ritvo,0.0.1.dev0,Sunil Kalkunte <11992509+sunilkalkunte@users.noreply.github.com>,Apache-2.0,47676,"An open-source authority layer for AI agents: who may approve what, how decisions escalate, and the evidence."
+2026-10-14T08:57:58Z,raster-mosaic,0.1.0,rdenham <robert.denham@uq.edu.au>,MIT,187055,"Generic reproject + mosaic tool for GDAL-readable rasters, respecting each input's own internal valid-data mask band, run on PBS Pro or SLURM"
+2026-10-14T09:00:02Z,pakdatakit,2.2.0,Muzamil Chaudhery,MIT,92044,"Utilities for Pakistani data: CNIC, phone, IBAN, postal codes, address parsing, Hijri dates, holidays, amounts in words and Raast QR codes"
+2026-10-14T09:01:08Z,data-product-portal-plugins,0.8.0,,,122510,First-party technical asset plugins for Data Product Portal
+2026-10-14T09:01:37Z,block58,0.4.1,,MIT,381934,Rust-backed ordinary and Monero block Base58
+2026-10-14T09:02:44Z,langchain-lizard,0.1.0,Lizard (lizard.build),Apache-2.0,22979,Lizard Sandboxes integration for LangChain Deep Agents
+2026-10-14T09:03:32Z,discount-nepal,0.1.0,Discount Nepal,MIT,22319,"Web app that lists discounted trekking gear from Nepali outdoor stores (Dolpo, Sonam Gear)."
+2026-10-14T09:04:06Z,stepxmlclient,1.0.0,everleah <everleah@hansch.info>,MIT,224977,Python client for Stibo Systems STEP XML and REST API v2
+2026-10-14T09:07:55Z,lean-sdd,0.1.0,,MIT,186530,Install an issue-driven GitHub workflow for coding agents
+2026-10-14T09:10:21Z,wpr-runtime-core,0.2.0,,MPL-2.0-compatible client; see runtime bundle notices,45575,"Shared process, IPC and versioned runtime support for WPR clients"
+2026-10-14T09:13:42Z,wpr-http,0.2.0,,MPL-2.0-compatible client; see runtime bundle notices,34559,Standalone HTTP client using version-selected Firefox Necko/NSS Workers
+2026-10-14T09:14:22Z,mkdocs-ai-chatbot,1.0.0,Asyntai <hello@asyntai.com>,MIT,14319,Add the Asyntai AI chat assistant to your MkDocs site. It answers visitor questions from your own documentation.
+2026-10-14T09:14:53Z,cogstat,2.6.0a2,Attila Krajcsi <krajcsi@proton.me>,GNU GPL 3,38986021,Simple statistics for researchers.
+2026-10-14T09:15:45Z,matchum,0.1.0,서주원 (OMEGA SYSTEMS),MIT,25512,규칙 기반 오프라인 한국어 맞춤법 검사 라이브러리
+2026-10-14T09:16:48Z,wavewash,0.1.0a1,Boobalan Arjunan <boobalan.it@gmail.com>,MIT,693369,"WaveWash: audio QC & data prep - check, repair, dedupe and audit audio datasets for ML training (ASR, TTS, speaker ID, music generation), with a local web UI."
+2026-10-14T09:17:07Z,pybamm-model-zoo,0.1.0,The PyBaMM Team <pybamm@pybamm.org>,BSD-3-Clause,145940,Community- and partner-contributed battery models for PyBaMM
