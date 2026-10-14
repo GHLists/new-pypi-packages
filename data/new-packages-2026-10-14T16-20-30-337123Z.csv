@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T15:15:26Z,django-file-finder,4.0.dev0,Jacob Rief <jacob.rief@gmail.com>,MIT,3716995,A media asset management application for Django.
+2026-10-14T15:21:07Z,sigillion,0.0.1,Steddy Nova SRL <info@yuyai.pro>,,2790,"Sigillion: lossless, compressed, verifiable memory for AI agents. This name is reserved by Steddy Nova SRL; the package is published here when it is released."
+2026-10-14T15:21:08Z,sigillion-format,0.0.1,Steddy Nova SRL <info@yuyai.pro>,,2891,"Sigillion: lossless, compressed, verifiable memory for AI agents. This name is reserved by Steddy Nova SRL; the package is published here when it is released."
+2026-10-14T15:21:10Z,sigillion-capture,0.0.1,Steddy Nova SRL <info@yuyai.pro>,,2881,"Sigillion: lossless, compressed, verifiable memory for AI agents. This name is reserved by Steddy Nova SRL; the package is published here when it is released."
+2026-10-14T15:21:11Z,sigillion-reader,0.0.1,Steddy Nova SRL <info@yuyai.pro>,,2886,"Sigillion: lossless, compressed, verifiable memory for AI agents. This name is reserved by Steddy Nova SRL; the package is published here when it is released."
+2026-10-14T15:22:58Z,easyfuncplot,0.1.2,Your Name <you@example.com>,MIT,12769,Plot mathematical functions from strings or Python callables
+2026-10-14T15:23:07Z,scatrs,0.1.0,,MIT,8729267,"Fast, linearized, rigorously validated single-scattering calculations for spherical particles"
+2026-10-14T15:27:01Z,glpbench,0.1.0a1,Kaan Yorgancioglu,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",153660,Evaluation pipelines for transductive and semi-inductive graph link prediction
+2026-10-14T15:30:05Z,phocinae-publish-gate,0.1.1,PerryLink,Apache-2.0,70388,"Pre-publication checks for media deliverables: measure facts, delegate every verdict to the phocinae-rulepack engine, and never write to the target."
+2026-10-14T15:31:29Z,simple-scaling-laws,0.1.0,Matthew McDermott <mattmcdermott8@gmail.com>,MIT,336693,"Fit empirical ML scaling laws, with conservative uncertainty, from repeated training/evaluation records."
+2026-10-14T15:32:48Z,typemind,0.1.0,Saiful Islam,MIT,104036604,"Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abbreviation, spelling-tolerant, word-decomposing and semantic completions from object storage"
+2026-10-14T15:32:57Z,gaslit,0.0.0,,Apache-2.0,10457,"Placeholder. Passive reliability metrics for AI model calls, coming soon."
+2026-10-14T15:34:16Z,shortcut-forge,0.2.1,Robert Kim (김현기),MIT,1535822,"Apple Shortcuts MCP server: let Claude, Codex or any LLM build, lint and sign real iOS Shortcuts (.shortcut) that run on iPhone. iOS 27 aware."
+2026-10-14T15:34:33Z,cheztui,0.1.0,John Foland <john@johnfoland.net>,MIT,250227,"A clean, fast TUI for chezmoi: see what drifted, which side changed, and fix it with one key."
+2026-10-14T15:38:31Z,anybox-rs,0.8.0,ethereal,MPL-2.0,2704182,one API for the most popular passthrough boxes
+2026-10-14T15:38:32Z,roicai,0.2.0,ROIC.ai,MIT,407364,"Official Python SDK for the ROIC.ai financial data and stock API: fundamentals, earnings call transcripts, stock prices"
+2026-10-14T15:38:33Z,exiryab-mcp,0.1.0,ExirYab,MIT,113609,"Official read-only MCP server for ExirYab (exiryab.com): find Iranian doctors by name, city and specialty, with profile links, clinic phones, hours and map locations."
+2026-10-14T15:39:32Z,sphinx-unified-search,0.1.0,Canonical,Apache-2.0,57722,Merge search indexes from multiple Sphinx documentation projects.
+2026-10-14T15:40:46Z,click-tools,0.1.0a0,Christoph Dörrer,MIT,124250,options for click commands.
+2026-10-14T15:41:33Z,ai-llm-kernel-contracts,0.1.0a5,,MIT,24578,Provider-agnostic contracts for AI LLM Kernel.
+2026-10-14T15:41:36Z,ai-llm-kernel-core,0.1.0a5,,MIT,47942,Shared implementation for AI LLM Kernel providers.
+2026-10-14T15:41:38Z,ai-llm-kernel-factory,0.1.0a5,,MIT,8705,Provider selection and dynamic loading for AI LLM Kernel.
+2026-10-14T15:43:20Z,pocketsync,0.10.0,AgentCulture,Apache-2.0,260224,"Sync Pocket voice-recorder recordings, transcripts (STT) and summaries from the Pocket cloud to local disk or S3 - a durable landing zone that culture-rules workflows fan out to anywhere."
+2026-10-14T15:44:50Z,stratarc,0.1.1,Kevin Lappe,MIT,1375478,"One agent configuration source, rendered into every agent runtime."
+2026-10-14T15:46:55Z,industream-eventhub-client,1.0.0rc1,Sullivan Vanet,MIT,124448,EventHub client for Python: publishes and subscribes to Industream events stored in NATS JetStream.
+2026-10-14T15:47:10Z,certo,0.0.1,Alessio Ricco,MIT,2205,Model-agnostic coding agent that verifies its own work. Early development.
+2026-10-14T15:50:43Z,qisdebug,0.1.0,Krishna Upadhyay <krishnaupadhyay1997@gmail.com>,MIT,340447,Zero-touch instrumentation and timeline debugging for Qiskit circuits
+2026-10-14T15:51:45Z,concordiahub,0.2.1,Alex Little <alex@alexlittle.net>,,136833,ConcordiaHub dashboard and utilities
+2026-10-14T15:52:08Z,londonaicentre-mesa-runtime,0.1.0,Martin Chapman,,12082,
+2026-10-14T15:54:18Z,consequa-x,0.1.0a2,Devrajsinh Jhala,MIT,417061,Evidence-aware explanation of consequential agent actions
+2026-10-14T15:54:45Z,lcprop,0.3.0,,BSD-3-Clause,1405072,Optical beam propagation in liquid-crystal and photorefractive media
+2026-10-14T15:54:59Z,jactionlint,2.2.0,,MIT,101449995,Static checker for GitHub Actions workflow files
+2026-10-14T15:56:13Z,ediarum-sdk,0.2.1,Malte Vogl,MIT,21506,Shared platform integration pieces for ediarum backend services.
+2026-10-14T15:59:21Z,vexioauth-logger,1.0.0,,MIT,32034,VexioAuth structured logging SDK — log events from any Python project.
+2026-10-14T16:00:23Z,tellmark,0.0.0,Digital Elevation,Copyright (c) 2026 Digital Elevation. All rights reserved. This placeholder package contains no sof…,3370,Placeholder. The Tellmark SDK is available to Tellmark customers from tellmark.si.
+2026-10-14T16:00:24Z,pachifast,0.15.0,ilPachi,MIT,396695,"Modular FastAPI core and scaffolding CLI: projects, apps, auth, migrations."
+2026-10-14T16:02:23Z,prime-importance,0.2.1,"Youngseo Cho, V. Roshan Joseph",MIT,435610,Response-relevant selection and proportional global variable importance
+2026-10-14T16:03:04Z,empty-mask-conventions,1.3.0,"Yurong Song, Zhewei Chen, Jianbin Wu",MIT,130527,"Score segmentation masks under every empty-mask convention (Dice, Boundary IoU, HD95)"
+2026-10-14T16:03:50Z,trident-windows,0.9.0,"Aalok Singh, Pravinkumar Yadav",MIT,83750,Local AI process security for Windows
+2026-10-14T16:04:40Z,openmoderate,1.0.1,openmoderate contributors,Apache-2.0,470085,"Open-source, self-hosted image and video content moderation (nudity, violence, hate, weapons, drugs...) — a pip-installable alternative to cloud moderation APIs."
+2026-10-14T16:13:24Z,duckdb-vectors,261014,Bernard Paques <bernard.paques@gmail.com>,MIT,167100,Embeddable semantic-search building block for agentic systems: an S3-Vectors-like interface over a local DuckDB database with hybrid vector + exact-token BM25 search.
+2026-10-14T16:14:37Z,certipy-nxc,5.1.0.post1,ly4k,MIT,340878,"Certipy (ly4k/Certipy) packaged for NetExec, with relaxed Python and impacket pins"
+2026-10-14T16:14:49Z,django-word-battle,0.1.0,Ifeanyi Stanley Nnamani <nnamaniifeanyi10@gmail.com>,MIT,582231,"Reusable Django REST Framework + Channels backend for competitive multiplayer word-change games (rules engine, matchmaking, ratings, rewards, store and ad verification)."
