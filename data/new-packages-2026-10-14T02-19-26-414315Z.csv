@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T01:23:09Z,aitana-features,0.1.0,Yannik Behr <y.behr@gns.cri.nz>,,45099,"Algorithms over in-memory waveforms for volcano monitoring (RSAM, DSAR, SSAM)."
+2026-10-14T01:30:04Z,shift-schedula,0.2.0,,MIT,1252151,
+2026-10-14T01:32:24Z,ai-crawler-radar,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,240025,"Autonomous AI Search, Training & Agent Crawler Diagnostic Engine"
+2026-10-14T01:32:42Z,competitor-radar,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,77805,"Local-First Competitive Intelligence Radar: Web Deltas, Pricing Shifts, Sitemap Traversal & ATS Hiring Signals"
+2026-10-14T01:33:46Z,threadvault,0.1.0,Mahiro Sakaue,MIT,158353,Back up a Slack workspace to a GitHub repository as an AI-readable vault.
+2026-10-14T01:33:48Z,aitana-volcanoes,0.1.0,Yannik Behr <y.behr@gns.cri.nz>,,237309,"Per-volcano domain aggregates for Ruapehu, Whakaari, and Taupo."
+2026-10-14T01:39:25Z,qlee,0.0.1,,,2830,"Work flows, never floods: a system to manage work in the AI era, at a sustainable pace."
+2026-10-14T01:39:35Z,amazon-orders-mcp,0.0.1,Alex Laird <contact@alexlaird.com>,MIT,5616,"An MCP server for Amazon order history, built on amazon-orders"
+2026-10-14T01:42:38Z,docx-color-cli,1.0.1,lzj1769 <lzj1769@gmail.com>,MIT,196791,Convert DOCX tracked text revisions into permanent font colors
+2026-10-14T01:47:06Z,sentryward,0.1.0,Zhihao Jia,Apache-2.0,79741434,"Static verifier for synchronization, memory lifetime, and memory races in PTX kernels"
+2026-10-14T01:52:57Z,easy-ml-studio,0.4.0,"Yatrikkumar Shah <yatriksshah@gmail.com>, Pawan Kumar J <pawanjain72002@gmail.com>, Esha Mishra <em…",Apache-2.0,923749,"A no-code machine learning studio: train, evaluate, explain and export tabular, NLP and image models from your browser."
+2026-10-14T01:54:13Z,imscribe,0.2.0b1,Walter Reel,MIT,1141084,"Markdown, streaming and diff views for Dear ImGui, typeset by imtypeset"
+2026-10-14T01:56:22Z,gitignore-check,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,9819,"find tracked files that should be gitignored (junk, build output, secret-looking files). Stdlib only."
+2026-10-14T01:56:28Z,csv-conflict,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,14294,Fix a CSV file broken by git conflict markers: merge cell by cell or keep one side. Stdlib only.
+2026-10-14T01:57:19Z,openthree,0.1.0,Yang Yifei,MIT,285994,三生万物 —— 极简 LLM Agent Harness，agent 天然自我演化
+2026-10-14T01:57:44Z,stencil-mcp,0.2.1,Malinda Rathnayake,Apache-2.0,491566,"Original SVG architecture assets, deterministic compositor, and local MCP server"
+2026-10-14T01:57:49Z,plyght,1.0.0,Parker,,1754504,"Typed connectors for kafka, redis, postgres, s3 and sqlite, env driven settings, logging, and a fastapi service spine"
+2026-10-14T01:59:23Z,maxsql,0.1.0,,,56007,MySQL in one line per operation.
+2026-10-14T01:59:54Z,agentpulse-asgi,0.1.0,,MIT,153177,"AgentPulse for Python: detect AI agents, negotiate Markdown and declare Content Signals (FastAPI/Starlette)."
+2026-10-14T02:02:17Z,asteroidbelt,1.0.0,Parker,,79211,"Named jobs with ttls, eviction, resource budgets and a durable journal on local processes, threads or Ray"
+2026-10-14T02:02:45Z,kontra-sdk,0.1.0,Mohamed Mahmoudi,Apache-2.0,702862,"Sell and hire durable, quoted jobs: plain Temporal workers behind Nexus, with escrow and end-to-end encryption."
+2026-10-14T02:03:18Z,delightql-duckdb,0.1.0a1,,Apache-2.0,46564661,The DuckDB adapter for the delightql library
+2026-10-14T02:03:53Z,astromesh-okf,0.1.0,Juan Carlos Romero <jc@fulfaro.dev>,Apache-2.0,80329,"Let AI agents navigate Open Knowledge Format (OKF) bundles: tools for LangChain/LangGraph, CrewAI, Google ADK, OpenAI Agents, PydanticAI, LlamaIndex, smolagents, Microsoft Agent Framework and MCP."
+2026-10-14T02:05:09Z,hyperwire,1.0.0,Parker,,119103,"Async event pipelines wired with >>: backpressure, parallel workers, shared state and remote compute stages"
+2026-10-14T02:05:30Z,donksolver,0.1.0,,"MIT License Copyright (c) 2026 tie.yob Permission is hereby granted, free of charge, to any person…",3877878,"Tabular Monte Carlo CFR solver for no-limit hold'em, with frozen policy bundles and a batch action server"
+2026-10-14T02:07:29Z,claimproofkit,0.1.0,ClaimProofKit,Apache-2.0,66683,"Apache-2.0 licensed, evidence-bound claim verification that blocks generated documents whose material claims the supplied evidence does not support. Python implementation of Claim Proof Specification…"
+2026-10-14T02:09:53Z,sos-speeches,0.1.0,"Benjamin Yoel, Jay Revolinsky",MIT,15885,"U.S. Secretary of State speech corpus, 1997-present, updated weekly with new Rubio-era speeches"
+2026-10-14T02:10:53Z,aon-agent,1.0.0,Sithu Htun,MIT,1674792,"Self-contained, obliterated AI agent on your own GPU: memory, document RAG, tools, MCP, maps, multi-user via vLLM."
+2026-10-14T02:16:13Z,opendrill,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,3923,Open-source tools for generating geotechnical borehole logs

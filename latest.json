@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-10-14T00:20:07.325278Z",
-    "path": "data/new-packages-2026-10-14T01-19-08-781954Z.csv",
-    "to": "2026-10-14T01:19:08.781954Z"
+    "count": 29,
+    "from": "2026-10-14T01:19:08.781954Z",
+    "path": "data/new-packages-2026-10-14T02-19-26-414315Z.csv",
+    "to": "2026-10-14T02:19:26.414315Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-13T22:25:36Z",
       "package": "crelic-bqwheel-52f66a3f1d",
       "since": "2026-10-13T22:20:34.796094Z"
     }
   ],
-  "serial": 42205928,
+  "serial": 42207342,
   "source_truncated": false,
-  "window": "2026-10-14T01:19:08.781954Z"
+  "window": "2026-10-14T02:19:26.414315Z"
 }
