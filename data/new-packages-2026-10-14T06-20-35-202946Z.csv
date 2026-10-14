@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T05:04:06Z,sauron-verifier,1.0.1,Reza Sanayei <rsanayei@arizona.edu>,MIT,318685,Evidence-first agentic verifier for rubric-based evaluation.
+2026-10-14T05:21:32Z,mangono-addon-fix_queue_job_set_to_done,20.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,6512,
+2026-10-14T05:21:33Z,mangono-addon-ir_cron_manual_schedule,20.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,8887,
+2026-10-14T05:21:33Z,mangono-addon-web_list_sticky_columns,20.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,21380,
+2026-10-14T05:21:34Z,mangono-addon-queue_job_silence_runjob_logs,20.0.1.0.0,Mangono <opensource+odoo@mangono.fr>,AGPL-3.0,7923,
+2026-10-14T05:29:37Z,scrapy-tor,2026.10.14.1,Rustam Vanchugov,"MIT License Copyright (c) 2026 ruvn-1fgas Permission is hereby granted, free of charge, to any pers…",21459,Scrapy downloader middleware that sends requests through Tor
+2026-10-14T05:30:32Z,enigmata-publish-scope-probe,0.0.0a0,"Enigmata, Inc.",,927,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-14T05:31:33Z,enigmata-sentinel-chat,0.0.0a0,"Enigmata, Inc.",,916,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-14T05:31:35Z,enigmata-sentinel-corpus,0.0.0a0,"Enigmata, Inc.",,921,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-14T05:31:36Z,enigmata-sentinel-document,0.0.0a0,"Enigmata, Inc.",,920,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-14T05:37:09Z,mcptoolshop-interlock,0.1.0,,MIT,4042856,"Local AI device router: a prototype that sends each job to a model, an engine and a device named by a measured receipt."
+2026-10-14T05:38:40Z,OpenRbac,1.0.5,Wong Chun Fai <cloudgen.wong@gmail.com>,MIT,174251,OpenRbac is online RBAC and centralized configuration for the terminal and a local web page.
+2026-10-14T05:40:29Z,opengl-decimate,0.2.0a5,"""Mike C. Fletcher"" <mcfletch@vrplumber.com>",MIT,17344387,Triangle mesh decimation over glTF-shaped NumPy arrays
+2026-10-14T05:42:22Z,imap-foml-study-library,0.1.0,Kalesh contributors,MIT,6009603,Offline IMAP and FOML study library with searchable PDFs and Jupyter notebook solutions
+2026-10-14T05:43:04Z,disaster-fund-plan,0.1.0,Pujan Pandey <arghakhanchipujan@gmail.com>,MIT,25015,Disaster Reconstruction & Relief Fund Implementation Plan Builder and Validator
+2026-10-14T05:44:00Z,disaster-fund-calculation-engine,0.1.0,Pujan Pandey <arghakhanchipujan@gmail.com>,MIT,32250,"Disaster Reconstruction & Relief Fund Calculation Engine: Multi-Tranche Liabilities, Donation Offsets, and District Pooling"
+2026-10-14T05:44:02Z,aden-tools,1.0.3,Aden <team@aden.ai>,Apache-2.0,4672123,Tools library for the Aden agent framework
+2026-10-14T05:46:02Z,bonafide-raas-cli,0.1.0,,Apache-2.0,28249,"Command-line client for Bonafide RaaS (retrieval-as-a-service): cited answers, agents, skills and MCP tools."
+2026-10-14T05:46:09Z,saniutil,0.1.0,BruceZhang0808,MIT,26842,遮蔽心电图 PDF 中的患者隐私信息（姓名/住院号/床号/医生签名）
+2026-10-14T05:46:41Z,focuspack,0.2.0,focuspack contributors,MIT,78230,"Focus-driven, budget-aware codebase context packager for LLMs"
+2026-10-14T05:46:49Z,vfvfa,2.0.0a1,TG11,AGPL-3.0-or-later,1046712,"VFA (VulpFin Archive): archiver with a deterministic integer-only codec (vulp-lz), dedup and encryption"
+2026-10-14T05:51:30Z,android-skeleton,0.3.0,arsindedetoulouse-tech,MIT,258935,Generate modular Android application projects
+2026-10-14T05:52:38Z,trainsight-preflight,0.2.0,Aravind Sundaresan,Apache-2.0,73190,Preflight checks for LLM training inputs and loss contracts
+2026-10-14T05:54:49Z,linkbox-tools,0.1.0,Your Name <you@example.com>,MIT,6030,Simple URL validation and normalization utilities for LinkBox
+2026-10-14T05:56:40Z,cloud-uit2702-lab,0.1.0,Your Name,,12482,Python package for Cloud Computing lab exercises
+2026-10-14T05:56:48Z,pyqtgraph-styler,0.1.0,,MIT,96497,Matplotlib-inspired styles and vector sketch drawing for pyqtgraph
+2026-10-14T05:57:01Z,lilrae,8.0.0,Brad Edwards,MIT,15660102,Advanced Purple Team Lab CLI
+2026-10-14T06:03:47Z,mcp-groundtruth,0.2.0,,Apache-2.0,194564,Behavioral conformance harness for Model Context Protocol tool annotations.
+2026-10-14T06:06:52Z,yyds-port,1.1.0,yyds-fast <yyds.fast@gmail.com>,MIT,73098,"Zero-dependency port diagnostics, safe allocation, graceful freeing, and readiness waiter for modern Python."
+2026-10-14T06:09:01Z,qivo-parseora,0.1.5,QiVo Studio <admin@qivo.studio>,Proprietary: free to use under the QiVo Studio Licence Agreement 1.0 (LICENSE.md in the package),5001247,"ParseOra: a fast, lossless parser for Oracle SQL, PL/SQL and SQL*Plus scripts (12.2 to 26ai), with a command line"
+2026-10-14T06:09:05Z,qivo-scanora,0.1.5,QiVo Studio <admin@qivo.studio>,Proprietary: free to use under the QiVo Studio Licence Agreement 1.0 (LICENSE.md in the package),2744944,"ScanOra: export an Oracle database's catalogue and code to one file, read-only, for QiVo Studio"
+2026-10-14T06:17:27Z,qrcli-toolkit,0.1.0,,MIT,13957,A command-line QR code generator written in Python
+2026-10-14T06:18:18Z,anymsg,0.9.8,GoSync,MIT,675056,A self-hosted messaging archive and MCP interface for agents
