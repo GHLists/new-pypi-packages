@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T13:24:09Z,django-sesy,0.1.0,Deni Bertovic,MIT,11295,Django email backend integration for SESY email service
+2026-10-14T13:25:15Z,replicar-native,2.0.4,,MIT,20111487,The native part of replicar: convert Rocket League replays to replicar files and resimulate them
+2026-10-14T13:25:33Z,tungsten-filament,0.1.0,Prism Infoways,MIT,131032,"Move a Laravel Filament admin to Tungsten: converts models, resources, forms, tables, filters, actions and relation managers, on the same database and logins."
+2026-10-14T13:25:35Z,tungsten-environment-indicator,0.1.0,Prism Infoways,MIT,23157,"Tungsten plugin: a Local / Staging / Live badge and colored line in your admin panel, so nobody works on live by mistake."
+2026-10-14T13:27:17Z,weil-wallet,0.1.0,,,86250,Python SDK for building clients that interact with smart contracts on WeilChain
+2026-10-14T13:27:23Z,pipetree-meta,0.1.0,David Fengler,MIT,240463,"Metadata-driven pipeline orchestration: YAML in, a runnable dependency tree out."
+2026-10-14T13:27:30Z,weil-ai,0.1.0,,,63995,MCP and AI integrations for WeilChain
+2026-10-14T13:35:51Z,lannotex,0.1.1,Lourdhu Raju,MIT,145556,"Fast, offline-first image annotation for classifications, boxes, and polygons."
+2026-10-14T13:37:48Z,irnoti,1.2.0,irnoti <support@irnoti.com>,MIT,25161,"Official Python SDK for the irnoti platform API (SMS, pattern, SOS, phonebook, services, verify, bots, VoIP, webhooks)."
+2026-10-14T13:38:14Z,polivor,0.1.0,,Apache-2.0,165503,"Python client for the Polivor API, generated from its OpenAPI file."
+2026-10-14T13:38:54Z,junctionary-pulse-langchain,0.1.1,Junctionary Systems LLC,MIT,27557,LangChain toolkit for Junctionary Pulse — finished stock-market briefings for AI agents
+2026-10-14T13:41:51Z,scriptit-cli,0.2.2,Script.it,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",260881,"Run and manage your Script.it automations from the terminal, or from a coding agent"
+2026-10-14T13:42:08Z,ledgerworks,0.2.0,Gabin Taibi,MIT,164451,"Run, record, verify and trace pipeline artifacts: immutable outputs with provenance sidecars, lineage and a rebuildable index"
+2026-10-14T13:44:42Z,snapdelta,0.1.0,Antoine Keranflec'h <antoine.keranflech@gmail.com>,Apache-2.0,120540,"Snapshot your devices and services, then see exactly what changed: CLI and Python API, built on diffsync"
+2026-10-14T13:47:45Z,snapdelta-web,0.1.0,Antoine Keranflec'h <antoine.keranflech@gmail.com>,Apache-2.0,1480524,"Web UI, JSON API and MCP server for snapdelta: snapshot your devices and services, then see exactly what changed"
+2026-10-14T13:49:11Z,keybridge,1.0.0,"Micaella Bruton, Meriem Beloucif, Beáta Megyesi",MIT,4763248,Shared-space neural decipherment of historical simple and homophonic substitution ciphers
+2026-10-14T13:51:25Z,colorful-log,0.5.0,Finsa-SC,,10015,tools that allow you to manipulate the style of the string
+2026-10-14T13:52:37Z,llmwiki2,0.4.1,"Federico Cesarini, Marco Sassarini",AGPL-3.0-or-later,1193657,"LLM wiki in a Markdown format derived from the Open Knowledge Format: librarian, researcher and CROW classifier routing"
+2026-10-14T13:54:22Z,chatgpt-auth,0.1.0,ftnext,Apache-2.0,78582,Sign in with ChatGPT: CLI and Python API for a single stored OAuth connection
+2026-10-14T13:54:27Z,weaponlab-mcp,0.1.0,Khoa Hoang,MIT,83922,"An MCP server that finds and fixes first-person weapon bugs behind a gate: your game's probe measures, the Gate judges, Rig Lab and Motion Lab read and mend."
+2026-10-14T13:55:00Z,openbeaver,0.0.0,Shravan Khunti,Apache-2.0,10696,"Reserved for OpenBeaver, an open-source platform that investigates production incidents. In development."
+2026-10-14T14:01:11Z,brickly-core,1.0.0,"Sargsian Serj <serj.sargsian@gmail.com>, Taraskin Anton <antonnidhoggr@me.com>",,20710,Base classes and services for a backend application
+2026-10-14T14:02:11Z,passport-gooyoit,0.1.0,Gooyoit,Apache-2.0,42757,Client SDK for Passport Gooyoit SSO (OAuth 2.0 authorization code flow).
+2026-10-14T14:02:33Z,MaiBot,1.3.8,,,4598210,MaiCore 是一个基于大语言模型的可交互智能体
+2026-10-14T14:02:55Z,fastomni,0.0.1,,Apache-2.0,10640,FastOmni
+2026-10-14T14:02:58Z,onyx-sdk,0.0.1,,Proprietary,1874,"Name reservation by Onyx Security. The Onyx Python SDK is available only to Onyx customers, from Onyx's private package repository."
+2026-10-14T14:03:35Z,lizard-adk,0.1.0,Lizard,Apache-2.0,20423,ADK tools and lifecycle hooks for Lizard Sandboxes.
+2026-10-14T14:04:06Z,amis-tool,6.0.1,Gennadiy Kravtsov,PolyForm Noncommercial 1.0.0,146322,Adaptive Multi-Interval Scale (AMIS) - normalization and comparison of heterogeneous metrics
+2026-10-14T14:05:12Z,novi-subsurface-features,0.dev0,Novi Labs <devops@novilabs.com>,,835,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-14T14:05:14Z,novi-spacing-features,0.dev0,Novi Labs <devops@novilabs.com>,,832,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-14T14:05:15Z,novi-qa-data-validators,0.dev0,Novi Labs <devops@novilabs.com>,,836,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-14T14:05:16Z,novi-lib-proto,0.dev0,Novi Labs <devops@novilabs.com>,,825,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-14T14:05:55Z,fereg,0.4.0,Leo Liu <auleo.liu@gmail.com>,MIT,87764140,"Fast high-dimensional fixed-effects regressions (OLS, IV, Poisson, logit) with pyfixest-compatible results"
+2026-10-14T14:08:57Z,modellab-mcp,0.1.0,Khoa Hoang,MIT,5793161,"An MCP server that draws game gun models in Blender from parameters, real parts at real proportions, rigged and animated, and checks each build against a photo of the real gun."
+2026-10-14T14:09:38Z,easydown-api-client,0.1.0,Zhang Bo <contactus@easydown.org>,ISC,16026,Server-side Python client for EasyDown public-media parsing API
+2026-10-14T14:10:36Z,komos,0.0.1,,MIT,18925,Korean speech quality MOS prediction
+2026-10-14T14:10:37Z,measurement-mechanistic-rca,0.1.0,,CC-BY-4.0,317074,Python interface for measurement-mechanistic root cause analysis.
+2026-10-14T14:10:44Z,dsainvg-decide-extractor-sdk,0.3.0,Durga Sai,Apache-2.0,122758,Python client for the Decider-Extractor API. Run decider and extractor tasks against one context in a single request.
+2026-10-14T14:11:07Z,meetspec,0.1.1,Exarth Labs,MIT,100409,"Transcribe client calls locally, turn them into requirements, and check code against them."
+2026-10-14T14:15:35Z,bb-sync,1.9.0,,"MIT License Copyright (c) 2026 bb-sync contributors Permission is hereby granted, free of charge, t…",232883,港中深（CUHK-Shenzhen）Blackboard 课件下载与课程资源自动同步：登录 ADFS SSO，增量下载课件/作业/指导、公告与待办
+2026-10-14T14:15:55Z,frostcap,0.1.0,,,13755,Capture outgoing request payloads and session cookies from requests/httpx
+2026-10-14T14:16:01Z,maskflow-agent,0.1.0,,MIT,55994,"MaskFlow guard for AI coding agents: Claude Code hooks that mask PII (Aadhaar, PAN, UPI, mobile, ...) in tool output before the model sees it, and restore values only inside allowlisted commands at r…"
+2026-10-14T14:16:02Z,aegiscore-ai,0.1.0,Sandeep Hipparagi & AegisCore Contributors,Apache-2.0,20088,Deterministic Agent Governance Gateway - Zero-Trust Policy Enclave for AI Agents
+2026-10-14T14:18:26Z,cosys-chirppy,2.0.0,Cosys-Lab <wouter.jansen@uantwerpen.be>,CC-BY-NC-SA-4.0,123691,A modular reader for CHIRP HDF5 datasets
+2026-10-14T14:18:31Z,github-issue-list,0.0.1,Kaizten Analytics,LicenseRef-Proprietary,11665,List open GitHub issues assigned to a user in an organization.
+2026-10-14T14:19:27Z,mohamed-agentic-terminal,0.1.0,Mohamed Mahmoud <mohamedmahmoud8801@gmail.com>,,5997,An MCP server that adds terminal capabilities to an agent
+2026-10-14T14:20:03Z,mmd-bone-tools,1.0.0,QIangIQ,MIT,95797,"Translate Japanese MMD bone names to English, map bones between MMD, Blender, Unity Humanoid, VRM and Mixamo, and retarget VMD motions (PMX, PMD, VMD)"
+2026-10-14T14:20:14Z,voicefolio,0.1.1,buchwandler,Apache-2.0,518811,"Stable, previewable, integrity-pinned reference voice catalog for speech renderers."
+2026-10-14T14:20:28Z,zidorouter,1.0.0,ZidoCode,MIT,89249,"Self-hosted multi-provider LLM gateway: failover, caching, token savings, dashboard. Pure stdlib."
+2026-10-14T14:20:34Z,gamspy-mkl,54.5.0,,,81808224,
