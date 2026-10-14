@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T00:27:07Z,conversational-morse,0.1.0,Michael Bridak <michael.bridak@gmail.com>,MIT,67005,Practice realistic CW QSOs with a K1EL WinKeyer USB
+2026-10-14T00:30:06Z,discord-voice-reception,1.0.0,,GPL-3.0-only,280857,Reusable Discord voice reception for Python.
+2026-10-14T00:31:31Z,ssc-app,0.0.3,,MIT,38057,"The helper an app on Small Software Cloud installs: who is signed in, streams that reconnect, files and company data."
+2026-10-14T00:31:45Z,fam-mcp,0.5.0,Petri,MIT,88187,MCP server for FAM (Faculdade de Americana) University.
+2026-10-14T00:35:29Z,promptgenie,1.8.2,Myles Agnew,MIT,896776,Secure prompt engineering for AI agents and engineering teams
+2026-10-14T00:40:28Z,dyng-cu13,0.2.0,S M Shovan <sm.shovan@gmail.com>,Apache-2.0 AND BSD-3-Clause AND MIT AND GPL-3.0-or-later WITH GCC-exception-3.1 AND Apache-2.0 WITH…,5837844,"dynG's CUDA 13 backends: the CUDA plugin of the dyng package (pip install ""dyng[cu13]"")"
+2026-10-14T00:40:29Z,dyng-cu12,0.2.0,S M Shovan <sm.shovan@gmail.com>,Apache-2.0 AND BSD-3-Clause AND MIT AND GPL-3.0-or-later WITH GCC-exception-3.1 AND Apache-2.0 WITH…,5592956,"dynG's CUDA 12 backends: the CUDA plugin of the dyng package (pip install ""dyng[cu12]"")"
+2026-10-14T00:41:10Z,webpygame,1.0.0,Brodie,MIT,28174,Stream Pygame windows directly to an HTML browser viewport.
+2026-10-14T00:42:08Z,agenthealth,0.13.2,TheAgentHealth,Apache-2.0,33309,Typed synchronous and asynchronous Python access to the AgentHealth CLI
+2026-10-14T00:42:22Z,oras-pants-plugin,0.1.0,Zach Gottesman,Apache-2.0,16472,A Pantsbuild plugin for publishing PEX binaries to OCI registries as OCI artifacts with oras.
+2026-10-14T00:42:35Z,arxivdigest,0.4.1,Thad Reber,"MIT License Copyright (c) 2026 Thad Reber Permission is hereby granted, free of charge, to any pers…",728099,"Turn AI/ML papers into plain-English Obsidian notes and reproduction-ready project scaffolds — local-first, runs on a 9B model"
+2026-10-14T00:44:40Z,spirotrace,0.0.1,Kirsty Hawke,,13315,Traceable extraction of lung function data from printed and scanned reports
+2026-10-14T00:44:58Z,lucen-device,0.3.0,,Apache-2.0,189576,"MouseMouse robot-side driver (`lucen-device`): runs only what a person approved, verified offline"
+2026-10-14T00:44:59Z,mousemouse,0.1.0,,Apache-2.0,13124,"MouseMouse — the `lucen` CLI under its product name: push robot data, train and sim-test policies, hand them to a robot through a consent gate"
+2026-10-14T00:45:30Z,retok,0.1.0,Tim Hörmann <pypi@audivir.de>,MIT,18340431,Regex tokenizer and token encoder/decoder in Rust.
+2026-10-14T00:50:11Z,dde-cargo,0.1.0,Tim Molteno <tim@elec.ac.nz>,GPLv3,112022,Stimela cab definitions for DDFacet and killMS
+2026-10-14T00:52:45Z,videorouter-live,0.2.0,,MIT,30236,"Python SDK for videorouter.sh: live video & world models (open, keep alive, settle a real-time session) and the /v1/videos generation API."
+2026-10-14T00:53:30Z,proc-executor,0.1.2,Kengo NAKADA <kengo.nakada@email.com>,,39127,Reusable multiprocessing execution support for controller classes
+2026-10-14T00:53:32Z,modal-toolkit,1.9.0,,,13385429,"One operator CLI for the full Modal Toolkit lifecycle: deploy, warm, doctor, shutdown, cost, and flows across all four packages"
+2026-10-14T00:53:37Z,madipy,0.1.0,,MIT OR Apache-2.0,3813902,madi(마디): 순수 Rust 한국어 형태소 분석기
+2026-10-14T00:54:48Z,lsdisk,0.1.1,,,40597,Cross-distro Linux Storage Explorer
+2026-10-14T00:55:56Z,django-qbe2,0.1.0a1,Carlos A. Rocha,MIT,43913,A reusable Django app for authorized query-by-example reports.
+2026-10-14T00:56:33Z,kyosei,0.1.0,James Bullard,Apache-2.0,1470960,"A provenance-first command-line tracker for ideas, tasks and evidence in agentic software development."
+2026-10-14T00:58:37Z,brain-store,0.1.0,Xtley001,MIT,26697,Dual-mode persistence layer (PostgreSQL + file-backed) and RL state store for Brain Alpha pipelines.
+2026-10-14T01:13:29Z,envbase,1.0.0,Parker,,8544,Pydantic settings with class name prefixes and per environment dotenv files
+2026-10-14T01:16:22Z,aitana-testing,0.1.0,Yannik Behr <y.behr@gns.cri.nz>,,5203,Synthetic seismic waveforms with known spectral content for testing aitana packages.
