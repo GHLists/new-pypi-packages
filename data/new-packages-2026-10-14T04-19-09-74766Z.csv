@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T03:22:05Z,axorn,0.1.0,,MIT,16016,"Pāli script converter, roman ↔ Thai, for Python and JS from one shared table"
+2026-10-14T03:23:55Z,whiteroom-bedrock,0.1.0,,BSL-1.1,16662,Attaches WhiteRoom session attestation to a boto3 bedrock-runtime client
+2026-10-14T03:27:26Z,sensecap-lorawan,0.1.0,Paulus Schoutsen,Apache-2.0,31222,SenseCAP LoRaWAN device models and command-line reader
+2026-10-14T03:28:02Z,jig-dsl,0.1.0a1,Graham Power,MIT,722752,A test language and harness for firmware running on the Renode emulator
+2026-10-14T03:33:05Z,datanonymous,0.1.0rc1,Kelly Williams,Apache-2.0,2704054,Profile tabular files and write shape-faithful synthetic copies for building code against student data without exposing it
+2026-10-14T03:34:21Z,speechflow-qwen3,0.6.1,,MIT,52852557,Qwen3-TTS in-process engine module for SpeechFlow
+2026-10-14T03:36:38Z,pgalign,2.0.0,"Anji Deng, Yuyang Zhang",MIT,1007118,Peak group alignment of mass spectrometry imaging data onto a reference m/z grid.
+2026-10-14T03:38:27Z,hostlib,1.1.0,FNNDSC <dev@babyMRI.org>,MIT,78090,"Run a program, stream its output, and keep the record: what a Python program stands on to run other programs"
+2026-10-14T03:44:58Z,wikller,0.4.1,,MIT,43745,"Tuong lua tang ung dung cho web (WSGI/ASGI), chi dung thu vien chuan Python."
+2026-10-14T03:45:49Z,PyAnyCADQt6,2026.10.14,AnyCAD,AnyCAD License,2214,The 3D Graphics/Geometry library for Python Developer
+2026-10-14T03:47:57Z,fastmcp-obo,0.1.0,garland3,Apache-2.0,65351,On-behalf-of token exchange for FastMCP servers using Microsoft Entra ID
+2026-10-14T03:51:55Z,commandport,0.1.1,Brian Powers,MIT,30985,"A pure contract for running commands and background processes, plus a scan that enforces it."
+2026-10-14T03:51:59Z,proclaunch,0.1.1,Brian Powers,MIT,23200,"Start, stop and supervise long-running background processes with a contract (implements commandport)."
+2026-10-14T03:53:52Z,lifecycle-runner,0.1.1,Brian Powers,MIT,28209,"Run a command to completion with a time limit: capture it, stream it, or log it (implements commandport)."
+2026-10-14T03:53:57Z,launch-runner,0.1.1,Brian Powers,MIT,5116,"Everything for running processes safely: the commandport contract, lifecycle-runner and proclaunch."
+2026-10-14T03:56:17Z,moviola-protocol-mcp,0.3.0,Saimonokuma,AGPL-3.0-or-later OR EUPL-1.2,914305,"MCP server and CLI converting video and images through the Moviola Protocol grey presets, with an always-seeable SQLite index of every conversion."
+2026-10-14T03:56:55Z,yace-codec,0.1.0,Mudith Daga,MIT,83419,"YACE (Yet Another Custom Encoder): a reversible text encoder built on random substitution tables, layered re-encoding, noise chunks and chunk shuffling (obfuscation, not encryption)."
+2026-10-14T03:59:29Z,romledger,0.2.0,Kamil Jiwa,MIT,259811,"Track which retro games you have and which are missing, verified against No-Intro and Redump DATs."
+2026-10-14T04:06:14Z,anysolv,0.1.0,Anton Z. Ni,MIT,47510591,Standalone implicit solvation model for machine-learning interatomic potentials
+2026-10-14T04:08:30Z,esha-statistics-toolkit,1.0.0,Esha Kumari,MIT,4442,"Mean, median and mode calculator by Esha Kumari"
+2026-10-14T04:13:01Z,doc-files,0.1.0,craftware,MIT,65414,"Read what PDF, Office, OpenDocument and EPUB files say, as a document model, text or Markdown"
+2026-10-14T04:13:35Z,nautobot-workflow-engine,1.0.1,Eric Fetty,,207437,Workflow Engine
+2026-10-14T04:18:11Z,pigeon-home,1.2.0,ctf-gooo-003,Apache-2.0,30263,"Self-hosted, email-driven agent: tell your cloud SI to send signed jobs via email that execute on your machine."
