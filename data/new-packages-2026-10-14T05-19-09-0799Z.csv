@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T04:20:08Z,belazywithreact,0.1.0,,MIT,32198,A Python CLI that scaffolds ready-to-use React projects.
+2026-10-14T04:24:37Z,phocinae-formulate,0.1.2,Phocinae,Apache-2.0,99807,"Measure which way of asking a decision model actually works: run four formulations over one labelled set and report recall, calibration and a usable escalation threshold."
+2026-10-14T04:24:54Z,ms-env,0.2.0,"Mario S. Valdés-Tresanco, Mario E. Valdés-Tresanco",MIT,44212,"Environments for MolSuite apps: find or install external tools, on this machine or over ssh."
+2026-10-14T04:26:54Z,skillsentinel-cli,0.3.1,Artem Kuznetsov,MIT,149377,"Post-install security scanner for AI-agent skills and prompt configs: prompt injection, unicode smuggling, exfil, miners, persistence, MCP backdoors, drift detection and sandboxed detonation."
+2026-10-14T04:27:19Z,surya-siddhanta,2.0.0,Ashutosh Nigam,MIT,248522,Complete Python implementation of all 14 chapters of the Surya Siddhanta ancient Indian astronomical system
+2026-10-14T04:29:37Z,nomass,1.0.0,Aurélien Pélissier <aurelien.pelissier.38@gmail.com>,MIT,54506,Non-Markovian Stochastic Simulation: Gillespie-based simulation of reaction networks with arbitrary inter-event time distributions
+2026-10-14T04:37:04Z,exportkit,0.1.1,codewithmugisha <bright001it@gmail.com>,MIT,25982,"Render declarative tabular reports to Excel, Word and PDF from plain Python data."
+2026-10-14T04:40:52Z,veela,0.3.1,Harrison Erd <harrisonerd@gmail.com>,,2964681,"A magical, single-file ASGI API framework and web server"
+2026-10-14T04:42:29Z,claude-cache-audit,0.1.0,Ahmed Kamal,MIT,68305,"Audit Claude Code's prompt-cache usage from local transcripts: subagents, cache rebuilds by cause, idle compactions."
+2026-10-14T04:51:42Z,wavoice,0.1.0,Amit Bhakt,,57766,One-command WhatsApp Voice AI with Pipecat and automated Cloudflare Quick Tunnels
+2026-10-14T04:51:56Z,synauson-api,1.0.1,,Apache-2.0,201303,Generated Python code for the synauson gRPC API
+2026-10-14T04:52:34Z,ccsession-cli,2.1.0,Rui Shu,MIT,105136,"Export, import, and restore Claude Code sessions"
+2026-10-14T04:52:39Z,js-binary,1.2.0,"""Guilherme Souza (Sitegui)"" <sitegui@sitegui.com.br>","The MIT License (MIT) Copyright (c) 2015 Guilherme Souza — original JavaScript library ""js-binary""…",24985,"Unofficial Python port of the js-binary binary format: compact, schema-driven encode/decode, smaller and faster than JSON/BSON."
+2026-10-14T04:53:17Z,agentic-consulting-os,0.1.0,,,160522,Compiler portable de workspaces de consultoría Data & AI
+2026-10-14T04:56:40Z,variax,0.1.0,Peter Hulst,MIT,81476,Unofficial command line control for Line 6 James Tyler Variax guitars through the Variax USB Interface
+2026-10-14T04:58:46Z,redis-ratekit,0.1.0,Naman Dadhich,MIT,22251,"Atomic, Redis-backed rate limiting for Python: token bucket, leaky bucket, and sliding window algorithms in Lua."
+2026-10-14T05:00:06Z,agenttelex,0.0.1,,MIT,2825,"AgentTelex: a message exchange for AI agents. Placeholder, work in progress."
+2026-10-14T05:00:26Z,peerkin,0.0.1,,MIT,2423,Peerkin placeholder. Work in progress.
+2026-10-14T05:05:37Z,pycontextfold,0.1.0,Georgi Mammen Mullassery <mullassery@gmail.com>,,1029456,"Local-first, structure-aware context optimization engine for LLM consumption. Rust core with Tree-sitter parsing, conservative profiles, preservation policies, budget-aware folding and transformation…"
+2026-10-14T05:08:54Z,whimsy,0.1.0,,Apache-2.0,46849,"Docker-style whimsical name generator (admiring_agnesi, clever_ramanujan, ...)"
+2026-10-14T05:09:32Z,localforge-inference-lab,0.1.0,,,5499055,Local-first LLM inference benchmarking workbench
+2026-10-14T05:09:35Z,nace-kit,0.2.0,,MIT,107687,"Community toolkit for the nace.ai Drex API: multi-key client with caching and metering, presets, CLI and MCP server"
+2026-10-14T05:11:50Z,allmail-mcp,0.1.0,Efe Lazut,MIT,147222,"All your mailboxes in any AI agent, over MCP. Runs locally; nothing is sent or trashed without your click."
+2026-10-14T05:13:29Z,mcp-switchboard,0.1.0,,PolyForm-Noncommercial-1.0.0 OR PolyForm-Small-Business-1.0.0,498335,AI Tool Gateway: one MCP connector fronting a registry of downstream MCP servers
+2026-10-14T05:14:16Z,medagentrx,0.1.0,Ahmed Hemedan,Apache-2.0,280492,"The prescription for self-improving medical AI. Every model update, by an engineer, a pipeline or an AI agent, is checked against its approved change plan (FDA PCCP, EU AI Act Art. 43(4))."
+2026-10-14T05:15:00Z,crfix,0.8.0,,MIT,104845,"Correctly rounded fixed-point functions on NumPy integer arrays: exp, exp2, log, log2, sigmoid, tanh, sqrt, rsqrt, reciprocal and division in four rounding modes, int8 kernels' lookup tables, TFLite'…"
+2026-10-14T05:15:12Z,kiln-gl,0.2.0,Sisyphe,Apache-2.0,2072981,Shape ideas in code. Fire them into art. A fast creative-coding framework for Python; macOS (Apple Silicon) only for now.
+2026-10-14T05:15:17Z,aden-hive,1.0.1,Aden <team@aden.ai>,Apache-2.0,6865196,Hive: a goal-driven agent runtime. Build on its primitives with `from hive import ...`.
+2026-10-14T05:16:02Z,martingale,0.2.0,,Apache-2.0,6388635,Per-token diagnostics for rollout staleness and trainer-engine mismatch in RL
+2026-10-14T05:16:07Z,zcode-acp,0.9.0,zcode-acp contributors,Apache-2.0,217743,Bridge ZCode's private app-server protocol to the Agent Client Protocol (ACP).
+2026-10-14T05:18:29Z,lerobot-robot-ugo-nova,0.1.0,ugo,Apache-2.0,21850,LeRobot robot plugin for ugo Nova

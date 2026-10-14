@@ -1,12 +1,19 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-10-14T03:21:04.903105Z",
-    "path": "data/new-packages-2026-10-14T04-19-09-74766Z.csv",
-    "to": "2026-10-14T04:19:09.74766Z"
+    "count": 31,
+    "from": "2026-10-14T04:19:09.74766Z",
+    "path": "data/new-packages-2026-10-14T05-19-09-0799Z.csv",
+    "to": "2026-10-14T05:19:09.0799Z"
   },
-  "pending": [],
-  "serial": 42210200,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-14T05:04:06Z",
+      "package": "sauron-verifier",
+      "since": "2026-10-14T04:19:09.74766Z"
+    }
+  ],
+  "serial": 42212053,
   "source_truncated": false,
-  "window": "2026-10-14T04:19:09.74766Z"
+  "window": "2026-10-14T05:19:09.0799Z"
 }
