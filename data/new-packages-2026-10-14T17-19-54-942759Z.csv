@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T16:21:18Z,microsoft-antissrf,1.0.0,Microsoft,MIT,32018,Microsoft AntiSSRF Python Library
+2026-10-14T16:21:26Z,ur5-lab-helper,1.0.0,,,3681,Common helper for the CoppeliaSim UR5 lab experiments (from helper import *)
+2026-10-14T16:25:37Z,routeros-lsp,0.2.0,WireSage <sir.jeff.nasseri@gmail.com>,MIT,396976,Language server for MikroTik RouterOS scripts (.rsc)
+2026-10-14T16:26:56Z,agenttrafficcop,0.1.0,AgentTrafficCop,MIT,27527,Python SDK for AgentTrafficCop — a runtime circuit breaker and schema shield for multi-agent systems.
+2026-10-14T16:27:25Z,sessionpulse,0.1.2,Vijay Shukla,MIT,130863,"A quiet instrument panel for Claude Code: live sessions, usage, and a to-do board that fills itself from your sessions. Local only."
+2026-10-14T16:28:28Z,folio-deck,0.1.3,,Apache-2.0,5550533,"folio: an agent-first slide deck framework. Installs the folio CLI, folio_hook (plot hooks) and folio_client (the HTTP client)."
+2026-10-14T16:31:02Z,correct-hooks,0.1.0,Phillip Diffley,MIT,11053,"Asymmetric signing, verification, and key management for webhooks"
+2026-10-14T16:32:38Z,paypaypay,4.3.0,,MIT,24073,Python client for PayPay mobile API
+2026-10-14T16:33:46Z,microcosm-emitter,0.2.1,,MIT,204425,Local emitter process host with required build telemetry support
+2026-10-14T16:37:08Z,funseek,0.1.1,,MIT,14435180,"Find the Python function that does X, without knowing its name or where it resides."
+2026-10-14T16:40:11Z,eryma,0.2.0,,MIT,45304,Model-agnostic input and output security middleware
+2026-10-14T16:43:25Z,dsainvg-dexa-sdk,0.3.1,Durga Sai,Apache-2.0,119303,Dexa is the Python client for the Decide + Extract API. Run decide and extract tasks against one context in a single request.
+2026-10-14T16:44:55Z,zarrcurator,1.0.0b1,Kameswarrao Modali,GPL-3.0-only,143069,"Analyze Zarr stores for completeness, sizing, and archival distribution workflows"
+2026-10-14T16:46:02Z,ciplink,0.1.0,Rowan Ramamurthy <rramamurthy@factoryautomation.com>,MIT,243699,"Ethernet/IP library for Allen-Bradley PLCs, a pycomm3 fork with instance-ID reads and tag-table change detection."
+2026-10-14T16:48:04Z,django-attachments-framework,0.1.0,,,196425,"Django models, form fields, views, and Vue components for direct-to-storage file attachments"
+2026-10-14T16:48:30Z,bioampexgpillclib,0.1.0,,# Samuel Saylor's Free Use License (SSFUL) Copyright (c) [2026] Samuel Saylor ## 1. Grant of Use Pe…,515710,Fast C-backed reader for the BioAmp EXG Pill (ADS1115) over I2C on Linux
+2026-10-14T16:49:30Z,odoo-addon-l10n-fr-hr-rup,18.0.1.0.0.2,"Akretion, Odoo Community Association (OCA)",AGPL-3,31182,French fields and report for Registre Unique du Personnel
+2026-10-14T16:50:20Z,tiny-paper-display,0.1.0,,MIT,126011,Show pictures on a tiny-paper display over its USB cable
+2026-10-14T16:53:43Z,jarvix-core,0.1.0,loctvl842 <loclepnvx@gmail.com>,MIT,21401,Jarvix core: graph primitives
+2026-10-14T16:54:05Z,jarvix-mux,0.1.0,loctvl842 <loclepnvx@gmail.com>,MIT,19224,Jarvix terminal multiplexer drivers
+2026-10-14T16:54:13Z,jarvix-hub,0.1.0,loctvl842 <loclepnvx@gmail.com>,MIT,22248,Jarvix hub: agent state tracking server and client
+2026-10-14T16:54:24Z,jarvix-cli,0.1.0,loctvl842 <loclepnvx@gmail.com>,MIT,14444,Jarvix command line interface
+2026-10-14T16:54:50Z,pyrebasis,0.1.0,,MIT,4992179,"Linear maps between function bases: instrument line shapes, regridding, projection"
+2026-10-14T16:55:37Z,EMDataBridge,0.1.0,Roberto dos Reis <roberto.reis@northwestern.edu>,MIT,72692,"Electron-microscopy data formats (standardize, translate, discover) and the shared researcher identity (ORCID, signing keys) for the NUANCE tools"
+2026-10-14T16:56:39Z,slow-query-doctor,1.0.0,,MIT,116596,Explains why a SQL query is slow in plain words and proves the fix with timings.
+2026-10-14T16:57:07Z,nuscope,0.4.1,Roberto dos Reis (@rmsreis),MIT,199579,"Read, analyze, save and trace electron-microscopy data at the NUANCE Center, Northwestern University"
+2026-10-14T17:01:16Z,gensolid,0.1.0,,Apache-2.0,348136,Python bindings of the Gensolid geometric modelling kernel
+2026-10-14T17:01:52Z,robotframework-desktop,0.1.0,,Apache-2.0,49504,Robot Framework library for Windows desktop automation with hybrid image (pyautogui) and UI Automation (pywinauto) engines.
+2026-10-14T17:05:55Z,rooms-x402-tools,0.1.0,Rooms by Aurmada <team@aurmada.com>,MIT,25207,"Pay-per-call x402 tools for trading and crypto agents: token verdict ($0.015 USDC on Base), Fear & Greed, prompt-injection check, URL reads. Paid from your own wallet. By Rooms by Aurmada."
+2026-10-14T17:07:21Z,blockwatch-cli,0.11.1,,MIT,46738375,Language agnostic linter that keeps your code and documentation in sync and valid
+2026-10-14T17:07:37Z,collossal,0.1.0,Vipul,,144452,"Collossal CLI: connects your coding agent to your team's sessions, memory and rooms."
+2026-10-14T17:10:06Z,qagent-pytest,0.1.0,Equipo QAgent - Taller Integrador I (UPAO),MIT,924798,Sistema multiagente que genera y valida pruebas pytest para código Python 3.10+
+2026-10-14T17:10:23Z,nuscope-tomo,0.3.1,Roberto dos Reis (@rmsreis),MIT,309259,"Open FIB-SEM slice-and-view tomography: alignment, artifact correction, ML segmentation, 3D quantification and correlative EDS chemistry, with a browser-based Studio."
+2026-10-14T17:13:07Z,atombatch,0.1.1,Zeyu Deng,GPL-3.0-or-later,86814,Batch energy and force evaluations from many independent ASE tasks into shared model calls.
+2026-10-14T17:17:44Z,aws-durable-execution-sdk-python-insight,0.0.1,AWS durable-execution-dev <durable-execution-dev@amazon.com>,Apache-2.0,100065,Workflow Insight instrumentation plugin for the AWS Durable Execution SDK for Python

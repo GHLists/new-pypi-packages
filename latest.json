@@ -1,25 +1,31 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-14T15:20:29.406858Z",
-    "path": "data/new-packages-2026-10-14T16-20-30-337123Z.csv",
-    "to": "2026-10-14T16:20:30.337123Z"
+    "count": 35,
+    "from": "2026-10-14T16:20:30.337123Z",
+    "path": "data/new-packages-2026-10-14T17-19-54-942759Z.csv",
+    "to": "2026-10-14T17:19:54.942759Z"
   },
   "pending": [
     {
-      "attempts": 3,
-      "created_at": "2026-10-14T14:03:29Z",
-      "package": "grid-process",
-      "since": "2026-10-14T13:21:44.895012Z"
+      "attempts": 1,
+      "created_at": "2026-10-14T17:06:28Z",
+      "package": "board-pinout",
+      "since": "2026-10-14T16:20:30.337123Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-14T17:04:39Z",
+      "package": "calcifier",
+      "since": "2026-10-14T16:20:30.337123Z"
     },
     {
       "attempts": 4,
-      "created_at": "2026-10-14T12:39:27Z",
-      "package": "replica-cnf",
-      "since": "2026-10-14T12:19:14.222866Z"
+      "created_at": "2026-10-14T14:03:29Z",
+      "package": "grid-process",
+      "since": "2026-10-14T13:21:44.895012Z"
     }
   ],
-  "serial": 42234595,
+  "serial": 42236762,
   "source_truncated": false,
-  "window": "2026-10-14T16:20:30.337123Z"
+  "window": "2026-10-14T17:19:54.942759Z"
 }
