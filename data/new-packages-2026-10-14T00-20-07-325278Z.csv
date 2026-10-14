@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-13T22:21:41Z,textfold,0.10.0,Xia Chen,Apache-2.0,4612279,"Zoom any text from every word to a one-screen map: papers, READMEs, Wikipedia and your agent's replies"
+2026-10-13T22:22:02Z,mem-os-python,1.6.27,Markgatcha,MIT,810737,"Universal, local-first, persistent memory layer for AI agents, LLM apps, and chatbots."
+2026-10-13T22:23:39Z,oepolars-mae,0.1.0,Scott Arne Johnson <scott.arne.johnson@gmail.com>,MIT,9515,Schrodinger file format support for OEPolars
+2026-10-13T22:29:12Z,binary-galactica,0.5.0,"Tyson B. Littenberg, Neil J. Cornish, Robert Rosati",Apache-2.0 AND BSD-3-Clause,1533166,Differentiable LISA galactic-binary TDI waveforms in JAX
+2026-10-13T22:30:25Z,skb-arrow,0.1.0,Daniel McDonald <damcdonald@ucsd.edu>,BSD-3-Clause,185235,Process host exposing scikit-bio to non-Python callers over Arrow
+2026-10-13T22:36:53Z,lichen-chat,0.1.0,Afrika McClintock,Apache-2.0,229707,"Decentralized, end-to-end encrypted chat: gossiped phonebooks, hubs that store only IOUs, peer-to-peer hole punching, file sharing, terminal UI"
+2026-10-13T22:41:51Z,kemory,0.6.12,SeKondBrain Engineering <engineering@sekondbrain.ai>,MIT,84641,"Kemory CLI: connect Claude Code, Cursor and other MCP clients to your Kemory memory vault"
+2026-10-13T22:47:52Z,specmangle,0.1.0b1,Caden Gobat <cgobat@sdsu.edu>,BSD-3-Clause,33558,Photometry-based 'mangling' (calibration) of astronomical spectra
+2026-10-13T22:51:55Z,freetranscribe,0.1.0,,MIT,386372,"Open tooling from FreeTranscribe.org: decoding for NVIDIA Parakeet models, including long recordings"
+2026-10-13T22:53:01Z,lvmio,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,30467,"Typed reader and writer for the LabVIEW Measurement (.lvm) file format, stdlib only"
+2026-10-13T22:53:21Z,lvxml,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,65405,Codec for LabVIEW Flatten To XML / Unflatten From XML between its fixed schema and native Python values
+2026-10-13T22:53:39Z,tdmread,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,43538,"Zero-dependency, typed reader for NI TDM/TDX files (XML .tdm header plus binary .tdx), using only the Python standard library"
+2026-10-13T22:56:10Z,call-ai-metrics,0.1.0,Pranay Mahendrakar,MIT,89199,"Measure talk time, interruptions, silence and pace in a two-party call"
+2026-10-13T22:57:01Z,offline-stt-router,0.1.0,Pranay Mahendrakar,MIT,136892,Find which speech-to-text engines are installed locally and pick the right one for this machine and language
+2026-10-13T22:57:16Z,soulrun,0.0.1,,,2113,
+2026-10-13T22:57:51Z,trusty-sim,0.1.0a5,Ty Trusty,LicenseRef-Trusty-Proprietary,10272244,"A modular physics simulation library (FEM, IPC contact, ...) — binary distribution"
+2026-10-13T22:57:55Z,trusty-sim-cuda12,0.1.0a5,Ty Trusty,LicenseRef-Trusty-Proprietary,52423256,"A modular physics simulation library (FEM, IPC contact, ...) — binary distribution"
+2026-10-13T22:59:10Z,aihp-protocol,0.0.1,,,2214,
+2026-10-13T23:00:18Z,aihp,0.0.1,,,2077,
+2026-10-13T23:01:20Z,soulrun-cli,0.0.1,,,2171,
+2026-10-13T23:05:06Z,agent-bus-coord,0.3.1,Yasmany Castillo <yasmany003@gmail.com>,MIT,961829,Protocolo de comunicacion entre agentes IA sin dependencia de tmux
+2026-10-13T23:05:16Z,brepy,0.1.2,Brandon Helwig,MIT,144927,"Build, export and preview build123d model scripts"
+2026-10-13T23:06:00Z,curvefit-stats,0.1.1,Abhinav Mishra <mishraabhinav36@gmail.com>,MIT,1218520,"Statistical inference, shared-parameter fitting, and errors-in-variables regression for SciPy models"
+2026-10-13T23:06:49Z,ph-clm,0.9.0,Charles Tabor,MIT,90904,"pH plugin: the model edits its own context — tombstone, replace and rewrite sections of the surface, with the originals kept in the log."
+2026-10-13T23:14:34Z,django-reusable-auth,1.0.1,Joel Sam Donkor <donkorjoel203@gmail.com>,MIT,71293,"JWT authentication API for Django REST Framework, with sessions, email verification and brute-force protection."
+2026-10-13T23:18:41Z,pyBKR,0.0.1,Mason Krause,,20009,An IBKR web API python library built for active stock trading
+2026-10-13T23:21:44Z,mbo-queue,0.6.0,Ansh Dani <adani2@uchicago.edu>,MIT,3118568,"Exact FIFO queue reconstruction from CME market-by-order data, and a benchmark of the queue-position estimators used in market-making backtests"
+2026-10-13T23:23:08Z,crlin,0.6.0,,MIT,379572,"Verified linear algebra over NumPy arrays: enclosures of exact solutions (linear systems, interval data, least squares, very ill-conditioned systems) and of symmetric eigenvalues, and proofs of posit…"
+2026-10-13T23:26:09Z,haikeilabs-agentware,0.1.0,HaikeiLabs,Apache-2.0,299344,Policy enforcement and audit middleware for LLM agent tool calls
+2026-10-13T23:30:58Z,domainkit,0.1.0,karim magdy,MIT,217750,A Django-style framework for domain-driven FastAPI services.
+2026-10-13T23:33:27Z,farohq,0.2.0,,MIT,14368,"Envia os erros de aplicações Python (Django, Flask, FastAPI...) para o FaroHQ: análise de causa raiz lendo o seu código."
+2026-10-13T23:53:53Z,lvpath,0.3.1,Javier Lianes <javier@lianes8studio.com>,MIT,40622,"Convert LabVIEW path strings, the portable /C/DIR form of config and project files, and the flattened PTH0 form to and from native paths."
+2026-10-13T23:54:07Z,overloaded,0.1.0,abkwreu,,14593,Dynamically dispatched overloaded functions
+2026-10-13T23:58:50Z,tekmeria,0.1.0,Pedro Markovicz,Apache-2.0,1939739,"Biomedical evidence over MCP, cited by handle: every passage is citable and every citation is auditable."
+2026-10-14T00:13:47Z,cc-observatory,0.1.0,Luanderson Pimenta Mendes,MIT,16636,"Local observability for Claude Code: sessions, subagents, blocks, logs, tokens and cost on OpenTelemetry, Prometheus, Loki and Grafana."
+2026-10-14T00:16:30Z,xpublish-erddap,0.1.0,Eli Holmes <eli.holmes@noaa.gov>,BSD-3-Clause,141976,ERDDAP-compatible griddap router for Xpublish
+2026-10-14T00:17:16Z,bistra,0.0.1a1,,,3690,Coming soon.
+2026-10-14T00:17:32Z,PTS-WFM4Cities,3.0.0,"Zuo Zhang, Zhe Wang",MIT,66653,DEM-inspired urban scalar surfaces and progressive threshold scanning
+2026-10-14T00:19:19Z,wiki-studio,0.1.0,EGOGE,Apache-2.0,194252,"Karpathy-pattern LLM wiki maintainer: ingest, promote, query, lint and audit a curated markdown knowledge base."
