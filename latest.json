@@ -1,31 +1,43 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-10-14T16:20:30.337123Z",
-    "path": "data/new-packages-2026-10-14T17-19-54-942759Z.csv",
-    "to": "2026-10-14T17:19:54.942759Z"
+    "count": 37,
+    "from": "2026-10-14T17:19:54.942759Z",
+    "path": "data/new-packages-2026-10-14T18-19-16-446941Z.csv",
+    "to": "2026-10-14T18:19:16.446941Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T17:06:28Z",
       "package": "board-pinout",
       "since": "2026-10-14T16:20:30.337123Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T17:04:39Z",
       "package": "calcifier",
       "since": "2026-10-14T16:20:30.337123Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-14T14:03:29Z",
-      "package": "grid-process",
-      "since": "2026-10-14T13:21:44.895012Z"
+      "attempts": 1,
+      "created_at": "2026-10-14T18:18:36Z",
+      "package": "navig-agentctl",
+      "since": "2026-10-14T17:19:54.942759Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-14T18:18:47Z",
+      "package": "navig-devnet",
+      "since": "2026-10-14T17:19:54.942759Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-14T18:18:58Z",
+      "package": "navig-video",
+      "since": "2026-10-14T17:19:54.942759Z"
     }
   ],
-  "serial": 42236762,
+  "serial": 42238989,
   "source_truncated": false,
-  "window": "2026-10-14T17:19:54.942759Z"
+  "window": "2026-10-14T18:19:16.446941Z"
 }

@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T17:20:17Z,tramage,0.2.0,Michail Semoglou <hello@qide.studio>,"MIT License Copyright (c) 2026 Michail Semoglou Permission is hereby granted, free of charge, to an…",13237139,Palette-structure-aware error diffusion dithering.
+2026-10-14T17:21:20Z,django-listmonk-mailer,0.1.0,Andrew Dzobko <mytyber@gmail.com>,MIT,18050,A Django email backend (MAILERS) that delivers mail through listmonk's transactional API.
+2026-10-14T17:22:05Z,aegis-guardrails,2.1.0,Aegis Contributors,Apache-2.0,867767,Governance framework that makes AI coding agents trustworthy
+2026-10-14T17:22:27Z,subagent-mail,0.1.0,Subagent <contact@subagent.fr>,MIT,89733,"SDK Python de Subagent Mail : des boîtes mail pour agents IA, avec des règles d'envoi appliquées par le serveur."
+2026-10-14T17:22:47Z,kormem,0.1.1,Kushal Sinha,MIT,318287,"Local memory for AI agents: index, linked vault and recall agent. QMD-compatible commands."
+2026-10-14T17:23:59Z,dexa-ai-sdk,0.3.2,Durga Sai,Apache-2.0,119861,Dexa is the Python client for the Decide + Extract API. Run decide and extract tasks against one context in a single request.
+2026-10-14T17:25:11Z,conformalforecast,0.1.0,Nixtla <business@nixtla.io>,Apache-2.0,457813,Conformal prediction for time series forecasting
+2026-10-14T17:28:34Z,treetensor,0.1.0,,,40424360,Kinetic plasma simulation on tree tensor networks
+2026-10-14T17:29:29Z,pysentix,0.1.1,,,83243,Pre-install supply-chain malware and typosquat detection for PyPI packages
+2026-10-14T17:29:51Z,lammps-jax-pjrt-cpu,0.11.2,,Apache-2.0,62711338,XLA CPU PJRT plugin for pair_style jax/kk on host Kokkos builds of LAMMPS
+2026-10-14T17:30:16Z,elastemp,0.2.0,Karthik Balasubramanian,MIT,112689,Quasi-harmonic temperature-dependent elastic constants from VASP and phonopy
+2026-10-14T17:30:36Z,atgent,0.3.0,Compound Labs,MIT,116566,Email an idea. Your local coding agent gets to work.
+2026-10-14T17:32:03Z,soprosynth,0.1.1,,Apache-2.0,125550,Stable Python API for ONNXVoice's Sopro V2 Turbo runtime
+2026-10-14T17:34:16Z,llmstream,0.1.0,llmstream contributors,MIT,55704,"Lightweight multi-provider LLM streaming parser with sentence buffering for Voice AI, tag guarding, and streaming tool-call assembly. Zero runtime dependencies."
+2026-10-14T17:34:30Z,ansgarLS-histplots,0.1.2,Ansgar <ansgar.specht.e@sew-eurodrive.de>,,17108,This module allows for creating quick seaborn plots from histogram data
+2026-10-14T17:35:14Z,boolean-otel-sdk,0.1.0,Boolean,MIT,13935,"Bootstrap estandar de OpenTelemetry para apps Python de Boolean (Django, Celery, FastAPI): no-op sin endpoint, defaults de plataforma y correlacion de logs"
+2026-10-14T17:37:55Z,orionmoe,1.0.0,"Mohamed Bouadi, Nassim Bouarour, Aditya Tanna, Vinay Kumar Sankarapu",LicenseRef-LSAL-1.2-OrionMoE,160314,OrionMoE: A Mixture-of-Experts Foundation Model for Tabular In-Context Learning
+2026-10-14T17:41:54Z,safetype,1.5.0,SafeType.js contributors,MIT,59613,"Rule-based content moderation (profanity, hate, harassment) for Python servers. Same engine as SafeType.js."
+2026-10-14T17:43:03Z,pdk-perspective,0.3.0,Francisco Castel,Apache-2.0,1227645,"PDK for Ignition Perspective: lets an AI agent build, validate, deploy and inspect Perspective views on a development gateway."
+2026-10-14T17:43:29Z,openmaterica,0.1.0.dev1,,Apache-2.0,682795,"Material records for simulation, and the reader of their specification"
+2026-10-14T17:45:49Z,enjinering,0.0.1,Rifqi D. Panuluh,MIT,89904,"Open-source, data-agnostic reinforced concrete design library (SNI)"
+2026-10-14T17:46:54Z,sitemend,1.2.1,surendhar-v,MIT,148219,"Technical SEO audit and repair: crawls a site folder or live URL, finds indexing, duplicate-content, link, hreflang and schema problems, and never invents a number it did not measure."
+2026-10-14T17:48:00Z,pharmaskills,0.6.0,The PharmaSkills Authors,Apache-2.0,2508289,"Pharma skills for AI agents: open source skills, deterministic tools and an SDTM mapper."
+2026-10-14T17:48:57Z,cxone-sbom-tools,1.0.0,,,19379,CheckmarxOne SBOM Tools
+2026-10-14T17:49:52Z,anna-aac,1.0.0,Carlos Máñez-Carvajal,GPL-3.0-or-later,135778119,Interactive Video Activities for Augmentative and Alternative Communication
+2026-10-14T17:51:35Z,twin-me-up,0.1.0,GitDakky,Apache-2.0,634545,"A personal work twin for every AI agent: it learns how you decide, and agents act only within the authority you grant."
+2026-10-14T17:53:30Z,pyfilepulse,1.2.0,Kinan,,12567,"A professional, lightweight Python micro-utility to track added, modified, and deleted files with smart filtering."
+2026-10-14T17:55:33Z,shexec,2.2.0,FNNDSC,MIT,33335,Run a shell-type command over every file of an input tree: a ChRIS DS plugin on pfdo_run
+2026-10-14T17:57:50Z,tplx,0.1.0,jose-pr,MIT,112579,Render a tree of templates with whichever engine each file's suffix names.
+2026-10-14T18:03:41Z,stagehand-openai-sdk,0.0.1,,MIT,4528,Stagehand integration for the OpenAI SDK (coming soon).
+2026-10-14T18:08:24Z,gym-taskboard,0.1.0,Andrea Ritossa <andre.ritossa@gmail.com>,MIT,10073885,MuJoCo Gymnasium environments for the NIST robotic assembly task boards
+2026-10-14T18:08:26Z,pytest-tracereq,0.3.0,,MIT,63131,Executable acceptance criteria for pytest
+2026-10-14T18:12:50Z,lammps-jax,0.2.0,,MIT,162173,CUDA-first LAMMPS/Kokkos plugin support for exported JAX models
+2026-10-14T18:13:14Z,open-gsc-mcp,1.0.0,Moein Saharkhiz,MIT,89322,"Local MCP server for the Google Search Console API: search analytics, URL inspection, sitemaps and sites, with guards for the API's known quirks."
+2026-10-14T18:15:25Z,xlaxiom,0.6.1,XLAxiom contributors,Apache-2.0,746386,Evidence-first differential testing and failure minimization for JAX and OpenXLA numerical workloads.
+2026-10-14T18:17:38Z,navig-media-core,0.1.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,123866,"The shared media engine NAVIG's media packages run on — media types and the generator registry, the generation service, the refs library, the variant store, the provider key catalog, and the ffmpeg p…"
+2026-10-14T18:19:12Z,diogenes,0.1.0,,MIT,10079,"Diogenes agents from code: agents with their own JARs, tools and budget."
