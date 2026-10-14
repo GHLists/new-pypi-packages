@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T22:20:52Z,frugal-llm,0.1.0,Leke-Oduoye Erioluwa,Apache-2.0,60290,"Benchmark latency, throughput and cost of any OpenAI-compatible LLM endpoint."
+2026-10-14T22:21:00Z,musicbrainz-helper,0.4.0,,,127173,"Ratings, genres, and catalog contributions to MusicBrainz"
+2026-10-14T22:21:04Z,sonicratings,1.4.0,,"MIT License Copyright (c) 2024 Kevin Restaino Permission is hereby granted, free of charge, to any…",75357,Sync provider ratings to Navidrome and Subsonic libraries
+2026-10-14T22:26:38Z,onestop-antibot,0.1.0,onestopantibot,MIT,34384,"OneStop Antibot SDK: generate Akamai, SBSD, Pixel, DataDome, Cloudflare and Kasada payloads through the /generate API."
+2026-10-14T22:26:52Z,gadbad,1.0.0,Kirtan Bhatt <kirtan11bhatt@gmail.com>,MIT,48371,"Kuch toh gadbad hai: static analysis for scam APKs spreading over WhatsApp in India (SMS/OTP theft, accessibility abuse, call forwarding, Telegram/C2 exfiltration)."
+2026-10-14T22:27:28Z,plynt,0.11.0,Erik Schaareman,MIT,928643,Framework-agnostic Python library for building external HTTP API clients and service integrations
+2026-10-14T22:33:21Z,scyllapy-tmp,1.3.4,,,3647124,Async scylla driver for python
+2026-10-14T22:35:23Z,pulsarlm,0.1.0a1,,Apache-2.0,8586638,LLM inference engine with unbounded context.
+2026-10-14T22:36:46Z,fastprox,0.1.0rc2,David Villacís <david@villacis.net>,MIT,1545535,Exact proximal operators and projections with derivatives
+2026-10-14T22:37:26Z,unboxr,0.1.0,RοdοƖphе Dеȷеᴜnеѕ,MIT,323821,"Deterministic recursive archive extraction, standard library only."
+2026-10-14T22:38:21Z,battery-data-steward,0.4.0,Battery Data Steward contributors,MIT,267426,"Evidence-aware battery data inspection, quality assurance, and preprocessing."
+2026-10-14T22:42:21Z,getpubip,0.1.0,,,3052,Get the public IP address
+2026-10-14T22:46:55Z,socials-homes,1.0.0,Socials BV <hello@socials.homes>,MIT,47748,"Official Python SDK and CLI for the Socials Homes API: covered cities, plans and prices, and live rental listing counts per city and budget. Read-only, no API key."
+2026-10-14T22:47:53Z,et-ws,0.1.0,John Vandenberg,Apache-2.0 OR MIT,7177,Generated Pydantic models for the Edge Toolkit WS protocol
+2026-10-14T22:47:56Z,edge-toolkit,0.1.0,John Vandenberg,Apache-2.0 OR MIT,5406,A collection of utilities and common code for Edge Toolkit Python modules
+2026-10-14T22:47:59Z,llama-index-tools-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,24184,"Give a LlamaIndex agent any list from the live web: ask in plain words, get every matching row with the page it came from, within a price you set in code."
+2026-10-14T22:48:00Z,crewai-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,24607,"Give a CrewAI agent any list from the live web: ask in plain words, get every matching row with the page it came from, within a price you set in code."
+2026-10-14T22:49:10Z,warderbox,0.3.0,Ali Çelik <alicelik1980@gmail.com>,MIT,397841,"AI agent safety platform: rollback, cost control, circuit breakers, tracing, compliance, and chaos testing."
+2026-10-14T22:49:58Z,pysystemc,0.2.1,Amal Khailtash,MIT,3391669,SystemC Python Binding using cppyy
+2026-10-14T22:50:12Z,rustedscithe,0.1.1,RustedSciThe contributors,,20651524,Python bindings for RustedSciThe symbolic and numerical computing
+2026-10-14T22:50:33Z,providus-parse-tools,1.0.0,Providus AI,Apache-2.0,75260,"providus-parse-tools: the document pipeline of providus-vl-mini, built on OpenDataLab's mineru-vl-utils"
+2026-10-14T22:52:57Z,brain-wiki,0.1.0.dev0,brain-wiki contributors,Apache-2.0,1206523,"A local-first second brain for AI agents, kept as plain Markdown that you own."
+2026-10-14T22:57:48Z,enzan,0.1.0,VanL,,2334,Add your description here
+2026-10-14T22:58:46Z,agent-money-primitives,1.0.0,,MIT,27776,"Money primitives, fee curves, and reference-bound paywalls for AI agents"
+2026-10-14T23:02:59Z,aurivis-simd,0.1.0,Aurivis,Apache-2.0,12916195,"CPU feature detection, runtime SIMD dispatch and aligned memory for C++20 and Python."
+2026-10-14T23:10:30Z,hyper-vyper,0.1.0,CrowdCent,MIT,68298,"Vyper library for HyperEVM: HyperCore precompile reads, CoreWriter actions, unit conversions and bridging between HyperEVM and HyperCore"
+2026-10-14T23:10:34Z,privacy-flow-inspector,0.1.1,Sushant Nemade,MIT,82081,"Local privacy gate for recorded web traffic: which personal data leaves the browser, to whom, with redacted evidence."
+2026-10-14T23:10:45Z,software-intake-gatekeeper,0.2.1,Sushant Nemade,MIT,106964,"Local, evidence-first intake checks for third-party apps and binaries: SBOM, known vulnerabilities and Electron hardening."
+2026-10-14T23:15:32Z,marocolor,1.0.0,MarocoColor Dev,,4165,Enhanced color palette utilities for terminal UI
+2026-10-14T23:17:38Z,sendermap,0.1.0,Neil Anuskiewicz,MIT,731518,"Type a domain, see every service that sends email as it, with the public evidence for each."
