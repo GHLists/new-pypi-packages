@@ -1,43 +1,43 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-10-15T05:20:42.252605Z",
-    "path": "data/new-packages-2026-10-15T06-19-07-624958Z.csv",
-    "to": "2026-10-15T06:19:07.624958Z"
+    "count": 26,
+    "from": "2026-10-15T06:19:07.624958Z",
+    "path": "data/new-packages-2026-10-15T07-21-34-644038Z.csv",
+    "to": "2026-10-15T07:21:34.644038Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-15T05:39:12Z",
       "package": "node-wire-connectors",
       "since": "2026-10-15T05:20:42.252605Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-15T05:38:47Z",
       "package": "node-wire-fhir-epic",
       "since": "2026-10-15T05:20:42.252605Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-15T05:39:01Z",
       "package": "node-wire-salesforce",
       "since": "2026-10-15T05:20:42.252605Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-15T05:39:21Z",
       "package": "node-wire-slack",
       "since": "2026-10-15T05:20:42.252605Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-15T04:10:57Z",
       "package": "rupture-generator",
       "since": "2026-10-15T03:19:14.091028Z"
     }
   ],
-  "serial": 42259953,
+  "serial": 42262019,
   "source_truncated": false,
-  "window": "2026-10-15T06:19:07.624958Z"
+  "window": "2026-10-15T07:21:34.644038Z"
 }

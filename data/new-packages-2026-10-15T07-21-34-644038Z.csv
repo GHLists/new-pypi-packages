@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T06:23:27Z,connect-four-ai-linux,1.0.0,"""Universal, Open, Free, and Transparent Computer Poker Research Group"" <juhok@cs.cmu.edu>",,925752,"A high performance implementation of a perfect Connect Four solver, written in Rust, ported to Linux."
+2026-10-15T06:28:39Z,hk-dsl,0.3.1,,MIT,22748830,"Radeon kernels in Python over an MLIR dialect, generating HipKittens C++"
+2026-10-15T06:28:49Z,nybulah,0.1.1,,Apache-2.0,791890,Commodore 1541/1571 nibbler over OpenCBM without a parallel cable
+2026-10-15T06:33:29Z,caddforge-md,0.13.0,"Manuel Sellner <manuel.sellner@idorsia.com>, Christoph Sager <christoph.sager@idorsia.com>",MIT,796266,Molecular dynamics workflows for the CADDForge toolbox.
+2026-10-15T06:34:46Z,gw-sonification,0.1.0,Daniel Williams <mail@daniel-williams.co.uk>,MIT,30493,Audio sonifications of gravitational wave events
+2026-10-15T06:34:47Z,kirollm,1.0.0,thoaikhmt,MIT,82295,Python and LangChain client for Kiro's streaming LLM API
+2026-10-15T06:34:47Z,paramita-defaults,20261013,,,49443572,
+2026-10-15T06:35:13Z,scgeo,0.1.0,Yu-Chen Liu,MIT,399970,Geometric analysis of single-cell representations
+2026-10-15T06:38:56Z,ocean-study-utils,0.1.0,,,3413,一个用于学习 Python 公共库构建和发布的示例工程
+2026-10-15T06:39:57Z,threadstone,1.2.2,Soroush Yousefpour,MIT,47545,Offline terminal chat for local MLX language models on Apple Silicon
+2026-10-15T06:52:17Z,caddforge-docs,0.3.0,"Manuel Sellner <manuel.sellner@idorsia.com>, Christoph Sager <christoph.sager@idorsia.com>",MIT,1146827,Central documentation site for the CADDForge toolbox.
+2026-10-15T06:52:29Z,koncurrent,0.0.20261015,"""Dima Gerasimov (@karlicoss)"" <karlicoss@gmail.com>","MIT License Copyright (c) 2026 Dima Gerasimov Permission is hereby granted, free of charge, to any…",22128,"Parallel map for libraries, through a process-wide executor that the app controls"
+2026-10-15T06:57:29Z,printeasy-sdk,0.1.0,,MIT,215144,Python client for the PrintEasy cloud printing API
+2026-10-15T06:58:42Z,pytest-xspec,0.5.0,,MIT,138096,Executable acceptance criteria for pytest
+2026-10-15T07:00:31Z,multabench,0.0.1,"Alan Arazi, Eilam Shapira, Shoham Grunblat, Mor Ventura, Elad Hoffer, Gioia Blayer, David Holzmülle…",MIT,182975,Benchmarking multimodal tabular learning: tables whose columns include text or images
+2026-10-15T07:01:43Z,vagrant-moses,0.2.0,Josh Bailey,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",45445,"Standalone C64 machine model: VIC-II and CIA volatile I/O over a two-phase event scheduler, power-on RAM, interrupt-vector discovery, and the ROM-free IRQ dispatch path"
+2026-10-15T07:03:29Z,agentic-terminal-sk,0.1.0,SahilKumar-gitrepo <SahilKumar@identifyyou.in>,,5278,An MCP which adds terminal capabilites to the agent
+2026-10-15T07:03:55Z,s3w,0.1.0,,Apache-2.0,85569,"S3Wear mini app CLI: new, build, pack, sign, run-sim, install, logs"
+2026-10-15T07:03:57Z,carl-merge,0.1.1,,MIT,576946,"A merge bot for repositories where several AI coding agents open pull requests in parallel: it bypass-merges a behind pull request when main changed nothing it touches, so CI is not rerun for nothing."
+2026-10-15T07:04:26Z,JoyIT-MotoPi,1.0.1,Joy-IT <service@joy-it.net>,,20724,This library enables usage of RB-Moto3 with the Raspberry Pi.
+2026-10-15T07:05:10Z,liturgical-calendar-tec,0.1.0,William Chen,,37840,Library to determine liturgical dates and colours for the Episcopal Church of the USA
+2026-10-15T07:06:05Z,desilofhe-cu134,2.0.0,"Desilo Library Team <library@desilo.ai>, Eunmo Yang <eunmo.yang@desilo.ai>",,13504412,The DESILO Fully Homomorphic Encryption (FHE) library
+2026-10-15T07:07:45Z,lfp-swarm-consul,0.1.0,,,29353,Fence-aware Consul server reconciler for Docker Swarm
+2026-10-15T07:08:12Z,astrocult,0.0.3,"Maitane Urrutia-Aparicio <m.urrutia.aparicio@gmail.com>, Marc Frincu <frincu.marc@gmail.com>",GPL-3.0-or-later,95933,"Package providing the building blocks for performing statistical, machine learning, and visual archaeoastronomical analysis of sites."
+2026-10-15T07:09:00Z,krites,0.0.1,Harnick Khera,Apache-2.0,10468,"Name reservation for Krites, a framework for calibrated decision models by Empsychia Ltd. First release coming soon."
+2026-10-15T07:09:58Z,oscaraccountant,0.1.0,OscarAI OÜ,MIT,118074,The Python SDK of the Oscar accounting API.

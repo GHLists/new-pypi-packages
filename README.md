@@ -8,51 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 06:19 UTC
+## Latest list — 2026-10-15 07:21 UTC
 
-New packages created between 2026-10-15 05:20 UTC and 2026-10-15 06:19 UTC.
+New packages created between 2026-10-15 06:19 UTC and 2026-10-15 07:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-15T06-19-07-624958Z.csv)
+[Full CSV](data/new-packages-2026-10-15T07-21-34-644038Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-15 04:53:34 | [livekit-plugins-typesafe](https://pypi.org/project/livekit-plugins-typesafe/) | 1.8.8 | LiveKit <hello@livekit.io> | 13.3 kB | Agent Framework plugin for TypeSafe Jev decision models. |
-| 2026-10-15 05:24:03 | [idamcp-hub](https://pypi.org/project/idamcp-hub/) | 0.9.1 |  | 248.0 kB | IDA Pro MCP server: stdio by default (http optional), headless idalib workers,… |
-| 2026-10-15 05:24:17 | [marlion](https://pypi.org/project/marlion/) | 0.1.0 | weigang | 1.4 MB | 神笔码靓，意如其神笔般神奇，融合代码与艺术魅力，呈现靓丽精彩绘图效果。如神笔马良般，能使虚拟创作成实体物件，让作品跃然纸上，生动呈现世人眼前。 |
-| 2026-10-15 05:28:02 | [oracle-varx](https://pypi.org/project/oracle-varx/) | 0.1.0 | Merwan Roudane <merwanroudane… | 299.3 kB | Causal lag discovery in confounded time series: DML, adaptive lag selection, FD… |
-| 2026-10-15 05:35:03 | [enigmata-sentinel-funding](https://pypi.org/project/enigmata-sentinel-funding/) | 0.0.0a0 | Enigmata, Inc. | 923 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-15 05:36:05 | [enigmata-sentinel-httperrors](https://pypi.org/project/enigmata-sentinel-httperrors/) | 0.0.0a0 | Enigmata, Inc. | 923 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-15 05:36:06 | [enigmata-sentinel-policy](https://pypi.org/project/enigmata-sentinel-policy/) | 0.0.0a0 | Enigmata, Inc. | 921 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-15 05:36:08 | [enigmata-sentinel-redact](https://pypi.org/project/enigmata-sentinel-redact/) | 0.0.0a0 | Enigmata, Inc. | 920 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-10-15 05:37:33 | [loopy-agent-fs](https://pypi.org/project/loopy-agent-fs/) | 0.0.2 | loopy contributors | 367.2 kB | An extensible, evaluable agent SDK built on the Anthropic API. |
-| 2026-10-15 05:38:16 | [wechat-cli](https://pypi.org/project/wechat-cli/) | 0.1.0 |  | 168.6 kB | Local Python CLI, REST API and web interface for macOS WeChat |
-| 2026-10-15 05:39:09 | [zktally](https://pypi.org/project/zktally/) | 0.1.0 | Muhammad Faiz Atharrahman | 140.5 kB | Privacy-preserving, anonymously verifiable e-voting: linkable ring signatures,… |
-| 2026-10-15 05:41:38 | [clickup-rest-mcp](https://pypi.org/project/clickup-rest-mcp/) | 2026.10.15.1 | Joel Thornton | 114.6 kB | ClickUp MCP server + CLI — direct ClickUp REST API v2 wrapper exposed as Model… |
-| 2026-10-15 05:43:04 | [pathapi-uri](https://pypi.org/project/pathapi-uri/) | 0.1.0 | Jose A | 515.6 kB | pathlib-style paths for URIs: file:, data:, ftp:, zip:, tar:, http:, dav: |
-| 2026-10-15 05:46:13 | [argonaut-translator-gui](https://pypi.org/project/argonaut-translator-gui/) | 2.0.0 | Sergio Rodríguez <srodriguez3… | 218.1 kB | Minimalist offline document translator for the desktop (PyQt5, Argos Translate… |
-| 2026-10-15 05:48:32 | [pyxbuild](https://pypi.org/project/pyxbuild/) | 0.1.0 | Sergei | 556.9 kB | Build Windows x64 and Linux applications from a standard Python project on any… |
-| 2026-10-15 05:48:48 | [lfp-swarm-lease](https://pypi.org/project/lfp-swarm-lease/) | 0.1.1 | lfp-swarm-lease contributors | 106.0 kB | Docker Swarm leader election with fencing, supervision, and an observation API |
-| 2026-10-15 05:50:42 | [spark-cell-runner](https://pypi.org/project/spark-cell-runner/) | 0.7.0 | Iamprashanth-1 | 63.7 kB | Run Databricks notebook-source .py cells and SQL against Databricks (Databricks… |
-| 2026-10-15 05:52:15 | [yapbook](https://pypi.org/project/yapbook/) | 0.0.1 | Abinesh Lingeswaran | 3.6 kB | yapbook runs in your browser at https://yapbook.app. The installable version is… |
-| 2026-10-15 05:53:20 | [soulaihp](https://pypi.org/project/soulaihp/) | 0.0.1 |  | 2.1 kB |  |
-| 2026-10-15 05:53:36 | [aihp-cli](https://pypi.org/project/aihp-cli/) | 0.0.1 |  | 2.1 kB |  |
-| 2026-10-15 05:53:50 | [soulaihp-cli](https://pypi.org/project/soulaihp-cli/) | 0.0.1 |  | 2.2 kB |  |
-| 2026-10-15 05:54:03 | [soulrun-py](https://pypi.org/project/soulrun-py/) | 0.0.1 |  | 2.2 kB |  |
-| 2026-10-15 05:57:18 | [mausam-mesh](https://pypi.org/project/mausam-mesh/) | 1.0.0 | Mr. Mohit Donawat (Founder &… | 75.5 kB | Sovereign Edge Meteorological Compression, Spatial Slicing & Disaster Early-War… |
-| 2026-10-15 05:58:47 | [axiom-meridian](https://pypi.org/project/axiom-meridian/) | 0.1.0 | Juan Manuel Rojas González, A… | 259.9 kB | Knowledge audit MCP server — Code drifts. Meridian doesn't. |
-| 2026-10-15 06:01:02 | [gold-api](https://pypi.org/project/gold-api/) | 1.0.0 | GoldAPI <721449117@qq.com> | 11.0 kB | GoldAPI (gold-api.cn) 贵金属行情 Python SDK —— 黄金/白银/铂金/钯金等 70+ 品种实时行情，一次请求批量 50 个品种 |
-| 2026-10-15 06:01:48 | [quota-floor](https://pypi.org/project/quota-floor/) | 0.1.0a1 | Landing contributors | 246.8 kB | Quota-budgeted graceful landing for coding agents. |
-| 2026-10-15 06:04:05 | [tolint](https://pypi.org/project/tolint/) | 0.1.0 | Groundplane Labs | 14.9 kB | Tolerance intervals for normal data (free core) |
-| 2026-10-15 06:04:34 | [r-ggpi](https://pypi.org/project/r-ggpi/) | 0.1.0 | Deepak Pandey <eaheog@gmail.c… | 13.9 kB | Robust Graph-Grouped Permutation Importance for collinearity-resilient feature… |
-| 2026-10-15 06:06:02 | [sagari](https://pypi.org/project/sagari/) | 1.0.0 | "Thomas K. Waters" <waterstk@… | 138.5 kB | SAGARI: Schwarzschild Adaptive Gaussian-process Acquisition, Refinement, and In… |
-| 2026-10-15 06:06:16 | [exactci](https://pypi.org/project/exactci/) | 0.1.0 | Groundplane Labs | 19.4 kB | Exact confidence intervals for odds ratios and relative risk in 2x2 tables (fre… |
-| 2026-10-15 06:08:18 | [orthomni-codeco](https://pypi.org/project/orthomni-codeco/) | 0.1.0 | "Nhat H. Pham" <nhatho1999.ai… | 45.6 kB | Vietnamese spelling correction (BARTpho seq2seq) on CPU with ONNX Runtime INT8… |
-| 2026-10-15 06:09:46 | [redpilot](https://pypi.org/project/redpilot/) | 2.0.0 | geevarghese | 285.8 kB | RedPilot — AI-orchestrated offensive security automation |
-| 2026-10-15 06:09:51 | [fileapi-sdk](https://pypi.org/project/fileapi-sdk/) | 0.1.0 |  | 162.6 kB | FileApi Open API 的 Python 客户端：请求签名、代理上传、直传与分片续传、秒传、游标列表、下载、访问链接与 Webhook 验签 |
-| 2026-10-15 06:15:07 | [sftppath](https://pypi.org/project/sftppath/) | 0.1.0 | Jose A | 260.2 kB | pathlib-style paths for SFTP servers, on paramiko or asyncssh, and the sftp: sc… |
-| 2026-10-15 06:15:13 | [cambridge-dictionary-audio](https://pypi.org/project/cambridge-dictionary-audio/) | 0.2.1 |  | 74.9 kB | Download UK and US pronunciations from Cambridge Dictionary |
-| 2026-10-15 06:15:39 | [repopath](https://pypi.org/project/repopath/) | 0.1.0 | Jose A | 142.0 kB | pathlib-style, read-only paths for the repository trees of GitHub and GitLab, a… |
-| 2026-10-15 06:16:36 | [py-sock2](https://pypi.org/project/py-sock2/) | 0.1.0 | Your Name <you@example.com> | 30.5 kB | AgentAIX - autonomous code synthesis unit (GUI). |
-| 2026-10-15 06:16:37 | [py-worm](https://pypi.org/project/py-worm/) | 0.1.0 | Your Name <you@example.com> | 30.5 kB | AgentAIX - autonomous code synthesis unit (GUI). |
-| 2026-10-15 06:16:55 | [objpath](https://pypi.org/project/objpath/) | 0.1.0 | Jose A | 243.9 kB | pathlib-style paths for S3, Google Cloud Storage and Azure Blob Storage, and th… |
-| 2026-10-15 06:18:11 | [jointhestudentlife](https://pypi.org/project/jointhestudentlife/) | 1.0.0 | The Student Life <support@joi… | 12.3 kB | Official Python SDK for The Student Life: student events, ticket prices, city g… |
+| 2026-10-15 06:23:27 | [connect-four-ai-linux](https://pypi.org/project/connect-four-ai-linux/) | 1.0.0 | "Universal, Open, Free, and T… | 925.8 kB | A high performance implementation of a perfect Connect Four solver, written in… |
+| 2026-10-15 06:28:39 | [hk-dsl](https://pypi.org/project/hk-dsl/) | 0.3.1 |  | 22.7 MB | Radeon kernels in Python over an MLIR dialect, generating HipKittens C++ |
+| 2026-10-15 06:28:49 | [nybulah](https://pypi.org/project/nybulah/) | 0.1.1 |  | 791.9 kB | Commodore 1541/1571 nibbler over OpenCBM without a parallel cable |
+| 2026-10-15 06:33:29 | [caddforge-md](https://pypi.org/project/caddforge-md/) | 0.13.0 | Manuel Sellner <manuel.sellne… | 796.3 kB | Molecular dynamics workflows for the CADDForge toolbox. |
+| 2026-10-15 06:34:46 | [gw-sonification](https://pypi.org/project/gw-sonification/) | 0.1.0 | Daniel Williams <mail@daniel-… | 30.5 kB | Audio sonifications of gravitational wave events |
+| 2026-10-15 06:34:47 | [kirollm](https://pypi.org/project/kirollm/) | 1.0.0 | thoaikhmt | 82.3 kB | Python and LangChain client for Kiro's streaming LLM API |
+| 2026-10-15 06:34:47 | [paramita-defaults](https://pypi.org/project/paramita-defaults/) | 20261013 |  | 49.4 MB |  |
+| 2026-10-15 06:35:13 | [scgeo](https://pypi.org/project/scgeo/) | 0.1.0 | Yu-Chen Liu | 400.0 kB | Geometric analysis of single-cell representations |
+| 2026-10-15 06:38:56 | [ocean-study-utils](https://pypi.org/project/ocean-study-utils/) | 0.1.0 |  | 3.4 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
+| 2026-10-15 06:39:57 | [threadstone](https://pypi.org/project/threadstone/) | 1.2.2 | Soroush Yousefpour | 47.5 kB | Offline terminal chat for local MLX language models on Apple Silicon |
+| 2026-10-15 06:52:17 | [caddforge-docs](https://pypi.org/project/caddforge-docs/) | 0.3.0 | Manuel Sellner <manuel.sellne… | 1.1 MB | Central documentation site for the CADDForge toolbox. |
+| 2026-10-15 06:52:29 | [koncurrent](https://pypi.org/project/koncurrent/) | 0.0.20261015 | "Dima Gerasimov (@karlicoss)"… | 22.1 kB | Parallel map for libraries, through a process-wide executor that the app contro… |
+| 2026-10-15 06:57:29 | [printeasy-sdk](https://pypi.org/project/printeasy-sdk/) | 0.1.0 |  | 215.1 kB | Python client for the PrintEasy cloud printing API |
+| 2026-10-15 06:58:42 | [pytest-xspec](https://pypi.org/project/pytest-xspec/) | 0.5.0 |  | 138.1 kB | Executable acceptance criteria for pytest |
+| 2026-10-15 07:00:31 | [multabench](https://pypi.org/project/multabench/) | 0.0.1 | Alan Arazi, Eilam Shapira, Sh… | 183.0 kB | Benchmarking multimodal tabular learning: tables whose columns include text or… |
+| 2026-10-15 07:01:43 | [vagrant-moses](https://pypi.org/project/vagrant-moses/) | 0.2.0 | Josh Bailey | 45.4 kB | Standalone C64 machine model: VIC-II and CIA volatile I/O over a two-phase even… |
+| 2026-10-15 07:03:29 | [agentic-terminal-sk](https://pypi.org/project/agentic-terminal-sk/) | 0.1.0 | SahilKumar-gitrepo <SahilKuma… | 5.3 kB | An MCP which adds terminal capabilites to the agent |
+| 2026-10-15 07:03:55 | [s3w](https://pypi.org/project/s3w/) | 0.1.0 |  | 85.6 kB | S3Wear mini app CLI: new, build, pack, sign, run-sim, install, logs |
+| 2026-10-15 07:03:57 | [carl-merge](https://pypi.org/project/carl-merge/) | 0.1.1 |  | 576.9 kB | A merge bot for repositories where several AI coding agents open pull requests… |
+| 2026-10-15 07:04:26 | [JoyIT-MotoPi](https://pypi.org/project/JoyIT-MotoPi/) | 1.0.1 | Joy-IT <service@joy-it.net> | 20.7 kB | This library enables usage of RB-Moto3 with the Raspberry Pi. |
+| 2026-10-15 07:05:10 | [liturgical-calendar-tec](https://pypi.org/project/liturgical-calendar-tec/) | 0.1.0 | William Chen | 37.8 kB | Library to determine liturgical dates and colours for the Episcopal Church of t… |
+| 2026-10-15 07:06:05 | [desilofhe-cu134](https://pypi.org/project/desilofhe-cu134/) | 2.0.0 | Desilo Library Team <library@… | 13.5 MB | The DESILO Fully Homomorphic Encryption (FHE) library |
+| 2026-10-15 07:07:45 | [lfp-swarm-consul](https://pypi.org/project/lfp-swarm-consul/) | 0.1.0 |  | 29.4 kB | Fence-aware Consul server reconciler for Docker Swarm |
+| 2026-10-15 07:08:12 | [astrocult](https://pypi.org/project/astrocult/) | 0.0.3 | Maitane Urrutia-Aparicio <m.u… | 95.9 kB | Package providing the building blocks for performing statistical, machine learn… |
+| 2026-10-15 07:09:00 | [krites](https://pypi.org/project/krites/) | 0.0.1 | Harnick Khera | 10.5 kB | Name reservation for Krites, a framework for calibrated decision models by Emps… |
+| 2026-10-15 07:09:58 | [oscaraccountant](https://pypi.org/project/oscaraccountant/) | 0.1.0 | OscarAI OÜ | 118.1 kB | The Python SDK of the Oscar accounting API. |
