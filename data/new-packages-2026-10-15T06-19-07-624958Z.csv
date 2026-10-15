@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T04:53:34Z,livekit-plugins-typesafe,1.8.8,LiveKit <hello@livekit.io>,Apache-2.0,13328,Agent Framework plugin for TypeSafe Jev decision models.
+2026-10-15T05:24:03Z,idamcp-hub,0.9.1,,GPL-3.0-only,248006,"IDA Pro MCP server: stdio by default (http optional), headless idalib workers, and official IDAPython reference."
+2026-10-15T05:24:17Z,marlion,0.1.0,weigang,# 免责声明 * 本项目的代码和资料来源于多方面的信息和知识，作者已尽力确保其准确性和完整性。然而，由于人为因素或其他不可抗力因素，本项目无法保证其内容的完全准确性和及时性。 使用者应该自行验证和核…,1396956,神笔码靓，意如其神笔般神奇，融合代码与艺术魅力，呈现靓丽精彩绘图效果。如神笔马良般，能使虚拟创作成实体物件，让作品跃然纸上，生动呈现世人眼前。
+2026-10-15T05:28:02Z,oracle-varx,0.1.0,Merwan Roudane <merwanroudane920@gmail.com>,MIT,299290,"Causal lag discovery in confounded time series: DML, adaptive lag selection, FDR-controlled edges"
+2026-10-15T05:35:03Z,enigmata-sentinel-funding,0.0.0a0,"Enigmata, Inc.",,923,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-15T05:36:05Z,enigmata-sentinel-httperrors,0.0.0a0,"Enigmata, Inc.",,923,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-15T05:36:06Z,enigmata-sentinel-policy,0.0.0a0,"Enigmata, Inc.",,921,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-15T05:36:08Z,enigmata-sentinel-redact,0.0.0a0,"Enigmata, Inc.",,920,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-15T05:37:33Z,loopy-agent-fs,0.0.2,loopy contributors,MIT,367155,"An extensible, evaluable agent SDK built on the Anthropic API."
+2026-10-15T05:38:16Z,wechat-cli,0.1.0,,ISC,168648,"Local Python CLI, REST API and web interface for macOS WeChat"
+2026-10-15T05:39:09Z,zktally,0.1.0,Muhammad Faiz Atharrahman,"MIT License Copyright (c) 2025 Muhammad Faiz A <m@faiz.at> Permission is hereby granted, free of ch…",140491,"Privacy-preserving, anonymously verifiable e-voting: linkable ring signatures, Paillier homomorphic encryption, and NIZK vote-correctness proofs. UNAUDITED ACADEMIC SOFTWARE - not for binding electio…"
+2026-10-15T05:41:38Z,clickup-rest-mcp,2026.10.15.1,Joel Thornton,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",114586,ClickUp MCP server + CLI — direct ClickUp REST API v2 wrapper exposed as Model Context Protocol tools.
+2026-10-15T05:43:04Z,pathapi-uri,0.1.0,Jose A,MIT,515643,"pathlib-style paths for URIs: file:, data:, ftp:, zip:, tar:, http:, dav:"
+2026-10-15T05:46:13Z,argonaut-translator-gui,2.0.0,Sergio Rodríguez <srodriguez3441@gmail.com>,GPL-3.0-only,218073,"Minimalist offline document translator for the desktop (PyQt5, Argos Translate and NLLB-200)"
+2026-10-15T05:48:32Z,pyxbuild,0.1.0,Sergei,Apache-2.0,556918,Build Windows x64 and Linux applications from a standard Python project on any OS
+2026-10-15T05:48:48Z,lfp-swarm-lease,0.1.1,lfp-swarm-lease contributors,MIT,106023,"Docker Swarm leader election with fencing, supervision, and an observation API"
+2026-10-15T05:50:42Z,spark-cell-runner,0.7.0,Iamprashanth-1,MIT,63743,"Run Databricks notebook-source .py cells and SQL against Databricks (Databricks Connect) or a local Sail Spark pool, with Unity Catalog sync and a local Delta / Iceberg warehouse."
+2026-10-15T05:52:15Z,yapbook,0.0.1,Abinesh Lingeswaran,,3642,yapbook runs in your browser at https://yapbook.app. The installable version is not published yet.
+2026-10-15T05:53:20Z,soulaihp,0.0.1,,,2125,
+2026-10-15T05:53:36Z,aihp-cli,0.0.1,,,2135,
+2026-10-15T05:53:50Z,soulaihp-cli,0.0.1,,,2190,
+2026-10-15T05:54:03Z,soulrun-py,0.0.1,,,2171,
+2026-10-15T05:57:18Z,mausam-mesh,1.0.0,"Mr. Mohit Donawat (Founder & CEO, WildUs | MSD Innovations)",MIT,75455,"Sovereign Edge Meteorological Compression, Spatial Slicing & Disaster Early-Warning Engine"
+2026-10-15T05:58:47Z,axiom-meridian,0.1.0,"Juan Manuel Rojas González, Axiom JUMA",Apache-2.0,259903,Knowledge audit MCP server — Code drifts. Meridian doesn't.
+2026-10-15T06:01:02Z,gold-api,1.0.0,GoldAPI <721449117@qq.com>,MIT,10988,GoldAPI (gold-api.cn) 贵金属行情 Python SDK —— 黄金/白银/铂金/钯金等 70+ 品种实时行情，一次请求批量 50 个品种
+2026-10-15T06:01:48Z,quota-floor,0.1.0a1,Landing contributors,MIT,246829,Quota-budgeted graceful landing for coding agents.
+2026-10-15T06:04:05Z,tolint,0.1.0,Groundplane Labs,MIT,14891,Tolerance intervals for normal data (free core)
+2026-10-15T06:04:34Z,r-ggpi,0.1.0,Deepak Pandey <eaheog@gmail.com>,MIT,13936,Robust Graph-Grouped Permutation Importance for collinearity-resilient feature attribution
+2026-10-15T06:06:02Z,sagari,1.0.0,"""Thomas K. Waters"" <waterstk@umich.edu>","MIT License Copyright (c) 2026 Thomas K. Waters Permission is hereby granted, free of charge, to an…",138487,"SAGARI: Schwarzschild Adaptive Gaussian-process Acquisition, Refinement, and Inference -- adaptive sampling for orbit-superposition modeling and other expensive, noisy chi2 surfaces"
+2026-10-15T06:06:16Z,exactci,0.1.0,Groundplane Labs,MIT,19413,Exact confidence intervals for odds ratios and relative risk in 2x2 tables (free core)
+2026-10-15T06:08:18Z,orthomni-codeco,0.1.0,"""Nhat H. Pham"" <nhatho1999.ai@gmail.com>",MIT,45631,Vietnamese spelling correction (BARTpho seq2seq) on CPU with ONNX Runtime INT8 - no PyTorch needed
+2026-10-15T06:09:46Z,redpilot,2.0.0,geevarghese,MIT,285757,RedPilot — AI-orchestrated offensive security automation
+2026-10-15T06:09:51Z,fileapi-sdk,0.1.0,,,162551,FileApi Open API 的 Python 客户端：请求签名、代理上传、直传与分片续传、秒传、游标列表、下载、访问链接与 Webhook 验签
+2026-10-15T06:15:07Z,sftppath,0.1.0,Jose A,MIT,260231,"pathlib-style paths for SFTP servers, on paramiko or asyncssh, and the sftp: scheme for uripath"
+2026-10-15T06:15:13Z,cambridge-dictionary-audio,0.2.1,,Apache-2.0,74937,Download UK and US pronunciations from Cambridge Dictionary
+2026-10-15T06:15:39Z,repopath,0.1.0,Jose A,MIT,142016,"pathlib-style, read-only paths for the repository trees of GitHub and GitLab, and the repo:, github: and gitlab: schemes for uripath"
+2026-10-15T06:16:36Z,py-sock2,0.1.0,Your Name <you@example.com>,"MIT License Copyright (c) 2025 Your Name Permission is hereby granted, free of charge, to any perso…",30537,AgentAIX - autonomous code synthesis unit (GUI).
+2026-10-15T06:16:37Z,py-worm,0.1.0,Your Name <you@example.com>,"MIT License Copyright (c) 2025 Your Name Permission is hereby granted, free of charge, to any perso…",30503,AgentAIX - autonomous code synthesis unit (GUI).
+2026-10-15T06:16:55Z,objpath,0.1.0,Jose A,MIT,243918,"pathlib-style paths for S3, Google Cloud Storage and Azure Blob Storage, and the s3:, gs: and az: schemes for uripath"
+2026-10-15T06:18:11Z,jointhestudentlife,1.0.0,The Student Life <support@jointhestudentlife.com>,MIT,12270,"Official Python SDK for The Student Life: student events, ticket prices, city guides and student deals in 85+ cities."
