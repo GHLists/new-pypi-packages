@@ -1,31 +1,37 @@
 {
   "list": {
-    "count": 42,
-    "from": "2026-10-15T09:22:43.507267Z",
-    "path": "data/new-packages-2026-10-15T10-19-49-511427Z.csv",
-    "to": "2026-10-15T10:19:49.511427Z"
+    "count": 44,
+    "from": "2026-10-15T10:19:49.511427Z",
+    "path": "data/new-packages-2026-10-15T11-19-42-568505Z.csv",
+    "to": "2026-10-15T11:19:42.568505Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-15T08:35:27Z",
       "package": "binary-decimal-conversions",
       "since": "2026-10-15T08:20:15.770547Z"
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-15T11:18:08Z",
+      "package": "biodivine-sys",
+      "since": "2026-10-15T10:19:49.511427Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-15T09:54:40Z",
       "package": "polyllm-ollama",
       "since": "2026-10-15T09:22:43.507267Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-15T10:07:07Z",
-      "package": "structure-analysis-environment",
-      "since": "2026-10-15T09:22:43.507267Z"
+      "created_at": "2026-10-15T11:18:59Z",
+      "package": "station-player",
+      "since": "2026-10-15T10:19:49.511427Z"
     }
   ],
-  "serial": 42268552,
+  "serial": 42270772,
   "source_truncated": false,
-  "window": "2026-10-15T10:19:49.511427Z"
+  "window": "2026-10-15T11:19:42.568505Z"
 }

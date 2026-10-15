@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T10:07:07Z,structure-analysis-environment,0.1.2,Kengo NAKADA <kengo.nakada@email.com>,,2179052,StructureAnalysisEnvironment (SAE)
+2026-10-15T10:19:54Z,samplab-url-tools,0.1.0,bbwdadfg,MIT,6228,"Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not an official SDK."
+2026-10-15T10:20:35Z,studyguidemaker-url-tools,0.1.0,bbwdadfg,MIT,6539,"Offline URL builder for Study Guide Maker source, audience, flashcard, and quiz pages. Not an official SDK."
+2026-10-15T10:21:01Z,ply-rs,0.1.0,Flowsink,,44642060,Modern successor to PLY and SLY with a native Rust engine and Python APIs
+2026-10-15T10:21:14Z,trystencil-url-tools,0.1.0,bbwdadfg,MIT,6361,"Offline URL builder for TryStencil tattoo generator, try-on, stencil, and idea pages. Not an official SDK."
+2026-10-15T10:21:15Z,email-thread-mcp,0.2.0,,MIT,41080,MCP server for the AR email agent: parses an inbound email thread into the thread contract and validates the agent's output envelope.
+2026-10-15T10:21:54Z,aiautocropper-url-tools,0.1.0,bbwdadfg,MIT,6258,Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an official SDK.
+2026-10-15T10:22:56Z,nagent,1.0.0,,MIT,12389,Run your Nagent agents from Python: a thin client over the Nagent REST API.
+2026-10-15T10:26:03Z,jhy-tools,0.1.0,jianghy <572372540@qq.com>,MIT,6357,工具包示例
+2026-10-15T10:28:48Z,cosmosdb-spark-datasource,1.0.0,Mehdi Modarressi,Apache-2.0,284867,PySpark Python data source for Azure Cosmos DB for NoSQL: parallel batch reads and change-feed streaming for Databricks serverless and Lakeflow Spark Declarative Pipelines.
+2026-10-15T10:30:43Z,drb-driver-iceberg,0.0.0,GAEL Systems <drb-python@gael.fr>,Apache-2.0,1329,Name reserved by GAEL Systems - not for installation
+2026-10-15T10:31:46Z,drb-image-sentinel1,0.0.0,GAEL Systems <drb-python@gael.fr>,Apache-2.0,1337,Name reserved by GAEL Systems - not for installation
+2026-10-15T10:32:48Z,drb-image-sentinel3,0.0.0,GAEL Systems <drb-python@gael.fr>,Apache-2.0,1336,Name reserved by GAEL Systems - not for installation
+2026-10-15T10:33:51Z,drb-topic-editor,0.0.0,GAEL Systems <drb-python@gael.fr>,Apache-2.0,1310,Name reserved by GAEL Systems - not for installation
+2026-10-15T10:37:00Z,laia-ai,0.0.1,Roger Vilà <rogervila@me.com>,"BSD 3-Clause License Copyright (c) 2026, Roger Vilà Redistribution and use in source and binary for…",5289,Python implementation for LAIA programming language.
+2026-10-15T10:38:13Z,coopagents,0.7.0rc1,,"MIT License Copyright (c) 2026 Weichen Li Permission is hereby granted, free of charge, to any pers…",3303565,Shared coordination for teammates using their own coding agents
+2026-10-15T10:39:44Z,space-standards-mcp,0.2.2,Manoj Naikade,Apache-2.0,198601,"MCP server for cited, requirement-level Q&A over ECSS and NASA standards (bring your own documents)"
+2026-10-15T10:39:53Z,zoo-kcl-check-cli,0.1.0,,MIT,47480,Strict local checks for Zoo / KittyCAD KCL
+2026-10-15T10:42:47Z,oeri,0.1.1,Odd Eirik Igland,,2541,Add your description here
+2026-10-15T10:43:17Z,pigeon-home-runner,1.4.7,ctf-gooo-003,Apache-2.0,94606,"Self-hosted, email-driven agent: tell your cloud SI to send signed jobs via email that execute on your machine."
+2026-10-15T10:44:31Z,ifed,6.0.10,,Apache-2.0,164704,"IFED federated learning SDK for PyTorch: plan authoring, compiler, server phases, agent runtime and local player"
+2026-10-15T10:45:38Z,pipecat-tts-cache-router,0.1.0,Oggnai Technologies Private Limited,Apache-2.0,36726,"Pipecat TTS service for tts-cache-router, a caching TTS router for Sarvam, Raya, ElevenLabs, OpenAI, Deepgram, xAI, Soniox, Smallest AI and Cartesia"
+2026-10-15T10:48:26Z,ktex,0.1.0,Gaël de Chalendar,MIT,73674,"Full LaTeX build (passes, Biber/BibTeX, atomic PDF) and report of errors located as file:line"
+2026-10-15T10:50:54Z,sleuth-sec,0.4.1,kruthikiran2007,MIT,156229,Instant binary triage: is this file safe? Verdict in 10 seconds.
+2026-10-15T10:51:45Z,submilli,0.1.0,Submilli,Apache-2.0,56304,"The Python SDK for submilli-server: run TypeScript programs under a Blueprint's policy, from any Python harness."
+2026-10-15T10:53:50Z,langchain-submilli,0.1.0,Submilli,Apache-2.0,80594,"Submilli code mode for LangChain: run an agent's tool calls as TypeScript programs on submilli-server, under a Blueprint's policy."
+2026-10-15T10:54:14Z,birdlife-ont-core,0.1.0,BirdLife Tools Community,MIT,78150,Extract structured data from bird observation notes using LLMs
+2026-10-15T10:54:55Z,cheque-print-online-tool,1.0.2,FreeChequePrint,,7252,"Free online CTS-2010 cheque printing software for Indian bank cheque leaves (SBI, HDFC, ICICI, Axis, PNB)."
+2026-10-15T10:55:20Z,wme-watermark-eraser,1.0.0,AI Watermark Eraser Workbench,,2145848,AI 智能水印擦除工作台：本地离线、免手涂的 AI 图片/PDF/视频可见水印检测与修复工具
+2026-10-15T10:55:48Z,proxyrobika,0.1.0,,MIT,5935,
+2026-10-15T10:57:25Z,pi-module-pins,0.1.0,,,5773,Raspberry Pi module pin configurations
+2026-10-15T10:58:16Z,krixs-test-for-complet-complaition,0.1.0,TestGraph Maintainers <maintainers@testgraph.dev>,Apache-2.0,95977,Krix's test for complet complaition - Unified software test reporting and AI/ML evaluation analytics with regression diagnostics.
+2026-10-15T10:59:09Z,silver-doodle,0.1.0,OERI,,2722,Add your description here
+2026-10-15T10:59:43Z,etlgen-client,0.1.0,Fibtec Limited,Apache-2.0,61131,Python SDK and CLI for Fibtec's ETL Integrator (etlgen.fibtec.co.uk)
+2026-10-15T11:04:31Z,ssh-tunnel-switch,0.1.0,,MIT,35893,SSH SOCKS5 tunnel rotation service with an HTTP proxy and REST API
+2026-10-15T11:05:41Z,qpsgen,0.5.1,"Yu Xue-Hao, Qiao Cong-Feng",MIT,105650,Symbolic quantum phase-space dynamics toolkit for open-system master equations.
+2026-10-15T11:06:26Z,spyglass-pro,1.0.0,TeamLeader <teamleadertrue@gmail.com>,MIT,449912,"Spyglass-Pro — unified OSINT superpower wiring Spyglass-OSINT, InstaCloak, and Lens-Extender into one platform"
+2026-10-15T11:07:38Z,pynotation,0.1.0b1,John Wylie,MIT,123147,"Music written as notes on a staff, for a Pyctures scene: a tune, a tracker song or plain data is drawn as sheet music that lights up as it plays, and a learner can play along."
+2026-10-15T11:13:57Z,bayesflow-hpo,0.5.3,matthiaskloft,MIT,512137,Generic hyperparameter optimization for BayesFlow neural posterior estimation
+2026-10-15T11:15:16Z,arcadedb,0.0.1,,Apache-2.0,2530,"ArcadeDB for Python: installs arcadedb-embedded, the embedded multi-model database with a bundled JRE."
+2026-10-15T11:16:50Z,automationpro,0.4.1,Profectum,LicenseRef-Proprietary,21806,Secure bootstrap for the Automation PRO Python SDK
+2026-10-15T11:17:22Z,mfethuls,0.3.1,Luca Bertossi <lucabertossi@gmail.com>,Apache-2.0,1497631,"From scattered instrument files to analysis-ready data: a Python framework and app that read, clean and organise experimental lab data."
+2026-10-15T11:19:02Z,spendslicer,1.0.0,Tirth Teraiya,MIT,1311176,"Self-hosted AWS cost visibility and waste audit — runs on your machine, against your own AWS credentials."
+2026-10-15T11:19:06Z,Current-temp,0.0.1,Sahar Rahmani,,5986,return a specified tempreture using API
