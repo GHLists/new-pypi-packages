@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T01:20:54Z,styled-scriptures,0.21,,GPL-3.0-or-later,1085795,"Psalms and Parashot, typeset by Reuben Institute as poetry and narrative prose with print-quality typography, presented consistently across print, web, and video"
+2026-10-15T01:20:56Z,styled-scriptures-web,0.21,,GPL-3.0-or-later,27348,Web viewer for Reuben Institute's styled scripture text
+2026-10-15T01:27:55Z,tsgettoolbox-ldas,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,44391,Plugin for tsgettoolbox to retrieve data from the Land Data Assimmilation System (LDAS) web service.
+2026-10-15T01:28:26Z,fontpkg-antic-slab,1.2,,OFL-1.1,25128,"Antic Slab font family, packaged for Python by fontpkg"
+2026-10-15T01:28:28Z,fontpkg-amiri,1.2,,OFL-1.1,830713,"Amiri font family, packaged for Python by fontpkg"
+2026-10-15T01:28:30Z,fontpkg-rethink-sans,1.1,,OFL-1.1,130256,"Rethink Sans font family, packaged for Python by fontpkg"
+2026-10-15T01:28:33Z,fontpkg-literata,3.103,,OFL-1.1,1022315,"Literata font family, packaged for Python by fontpkg"
+2026-10-15T01:31:01Z,verknode,0.0.1,Shin Wachi <shinwachi@gmail.com>,BSD-3-Clause,2969,Visual node-based workflow editor for JupyterLab (placeholder release)
+2026-10-15T01:33:55Z,depfix-ai,0.2.0,Tohir Saidzoda,LicenseRef-depfix-Source-Available,941932,AI-powered automatic fixing of breaking dependency changes.
+2026-10-15T01:34:29Z,huella,0.0.1,Samuil Petrov,Apache-2.0,116452,"Open-source Verifactu core: record formatting, huella (SHA-256 chain hash), XML, QR and AEAT client."
+2026-10-15T01:36:30Z,nexalayer,0.1.0,NexaLayer,MIT,18494,NexaLayer SDK — The Network Execution Layer for AI Agents
+2026-10-15T01:38:07Z,aksvm,0.1.0,Wanbitching Eric Wansouwé,MIT,39389,"Associated-kernel support vector machines: PSD kernels from Beta, Gamma and discrete associated kernels"
+2026-10-15T01:40:13Z,wewu,0.0.1,Mars Ausili <mars@cruxia.ai>,Apache-2.0,3250,Reserved name held by Cruxia-Labs. Contains no implementation; installing it does nothing.
+2026-10-15T01:40:47Z,taskproof,0.3.0,HaoHaoP <HaoHaoP@HaoHaoP.com>,Apache-2.0,3062040,"A conveyor belt for AI coding agents: dispatch, independently verify, record."
+2026-10-15T01:41:13Z,skills-manager-cli,0.1.0,,MIT,925437,A CLI to handle agent skills
+2026-10-15T01:43:56Z,deploynator,1.1.5,Gris Iscomeback,AGPL-3.0,107473,"Multi-platform deployer for GitHub, GitLab, and Bitbucket"
+2026-10-15T01:44:09Z,tsgettoolbox-metdata,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,21314,Plugin for tsgettoolbox to retrieve time series data from Metdata.
+2026-10-15T01:46:43Z,impersonation-detector,0.2.0,Sochima Ezema,MIT,839125,"Detect lookalike domains, spoofed senders, and brand/support-team impersonation in messages — Unicode confusables (UTS #39), mixed-script checks, and learned scoring, built as middleware for messagin…"
+2026-10-15T01:47:08Z,alpaca2,1.0.2,,CC-BY-4.0,67940,Libraries for ALPACA 2.0 - NB2420 Electronic Instrumentation
+2026-10-15T01:47:11Z,port49,0.0.0a0,,Apache-2.0,2758,Placeholder for the port49 Python client (TACACS+ identity for network automation). Not yet released.
+2026-10-15T01:49:02Z,alpaca2-stubs,1.0.2,,CC-BY-4.0,13555,Stub files for ALPACA 2.0 for NB2420 Electronic Instrumentation course of TU Delft
+2026-10-15T01:49:24Z,polydisc,0.4.0,Mirza Arnaut,MIT,105371,Polydisperse Poisson-disc sampling for discs and spheres
+2026-10-15T01:54:14Z,awesomeplasmatray,0.0.2,,GPL-3.0-or-later,40100,Displays the awesome tiling mode in the KDE Plasma tray
+2026-10-15T01:55:21Z,paleopy,0.1.0,"Danielle Sicotte, Alex Moorhouse",MIT,175520,Radiocarbon-dating and paleodemography analysis pipeline (p3k14c)
+2026-10-15T01:57:47Z,lumina-svg-core,0.3.2,Lumina Layer Studio,AGPL-3.0-only,12605335,Print-oriented native SVG geometry analysis
+2026-10-15T01:58:49Z,cozy-counter,1.0,Nathaniel Poor,MIT,38740,Counts cozy and nostalgic words in a text.
+2026-10-15T02:03:27Z,rurex,0.0.1,,MIT OR Apache-2.0,2766,Python bindings to Rust's regex crate - placeholder release reserving the name; the Rust-backed package is under development
+2026-10-15T02:07:50Z,uj-capdpy,0.4.0,,GPL-3.0-only,91436931,CAPD Python bindings
+2026-10-15T02:09:55Z,mbsolver,0.2.0,Vahid Anari <vahid.anari8@gmail.com>,MIT,23872,"Fast Maxwell-Bloch solvers for masers, superradiance and coherent pulse propagation"
+2026-10-15T02:11:07Z,vlei,1.0.4,Samuel M. Smith,Apache Software License 2.0,36743,Verifiable Legal Entity Identifier
+2026-10-15T02:11:51Z,jev-graph-builder,0.1.0,Greg Havens,Apache-2.0,783392,"Jev-decided, harness-enriched, resumable vector property graph over PostgreSQL + pgvector"
+2026-10-15T02:13:04Z,disp-xr,0.5.0,Marin Govorcin <marin.govorcin@jpl.nasa.gov>,"BSD 3-Clause License Copyright (c) 2025, Marin Govorcin Redistribution and use in source and binary…",6237857,OPERA DISP xarray tools
+2026-10-15T02:14:07Z,tabella-docs,2.0.1,D Yiapanis <d@yiapanis.co>,MIT,42889,"Portable document lifecycle suite — create (.docx/.xlsx/.pptx/.pdf/.odt/.ods/.odp), convert (pandoc), and read (anydoc + LiteParse OCR) documents. Agent Plugins v1 compatible."
+2026-10-15T02:15:38Z,omnimd,1.0.0,Junwei Zuo <zjw010519@gmail.com>,MIT,115492,把任意文件转成 LLM 可用的 Markdown——正文、图片公开链接与图片转写文本齐全，图片里的信息同样可看、可检索
