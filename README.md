@@ -8,43 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 09:22 UTC
+## Latest list — 2026-10-15 10:19 UTC
 
-New packages created between 2026-10-15 08:20 UTC and 2026-10-15 09:22 UTC.
+New packages created between 2026-10-15 09:22 UTC and 2026-10-15 10:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-15T09-22-43-507267Z.csv)
+[Full CSV](data/new-packages-2026-10-15T10-19-49-511427Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-15 08:12:18 | [odoo-addon-pos-barcode-block](https://pypi.org/project/odoo-addon-pos-barcode-block/) | 18.0.1.0.0.2 | APSL - Nagarro, Odoo Communit… | 24.6 kB | Block the POS when an unknown barcode is scanned |
-| 2026-10-15 08:21:23 | [wagtail-seeder](https://pypi.org/project/wagtail-seeder/) | 1.0.0 | Four Digits | 86.8 kB | Safe development-data seeding for Wagtail projects. |
-| 2026-10-15 08:22:07 | [litestar-events](https://pypi.org/project/litestar-events/) | 0.1.0 | Hasan Sezer Taşan <hasansezer… | 153.4 kB | Event Emitter Backends for Litestar. |
-| 2026-10-15 08:24:58 | [sima-tseries](https://pypi.org/project/sima-tseries/) | 0.1.0 | "David E. Guerrero" <davidesg… | 424.1 kB | sima — the MCP assistant for simultaneous VARMA models on the ATSW ladder (engi… |
-| 2026-10-15 08:28:11 | [hylogic](https://pypi.org/project/hylogic/) | 1.0.0 | Marko Manninen <elonmedia@gma… | 76.2 kB | Propositional and first-order logic in Hy: truth tables, arguments, models and… |
-| 2026-10-15 08:35:07 | [promises-yaml](https://pypi.org/project/promises-yaml/) | 0.1.1 | Will Pope | 58.0 kB | Declare the cross-repo contracts your repos share, with a meaning and an invari… |
-| 2026-10-15 08:40:53 | [rezult](https://pypi.org/project/rezult/) | 0.1.1 | Sequence | 6.5 kB | Add your description here |
-| 2026-10-15 08:41:41 | [cerilog](https://pypi.org/project/cerilog/) | 0.1.1 | R0mba-Na11avan | 59.5 kB | A C-flavored HDL that transpiles to SystemVerilog or Verilog-2005 |
-| 2026-10-15 08:45:42 | [eary-start-llama](https://pypi.org/project/eary-start-llama/) | 0.1.1 | Ashitaka-Laputa-IV | 34.4 kB | Manage local llama.cpp model servers with a JSON manifest and an interactive TU… |
-| 2026-10-15 08:46:29 | [pyfenixcontrol](https://pypi.org/project/pyfenixcontrol/) | 0.1.0 | Stanislav Likavčan <likavcan@… | 39.7 kB | Asynchronous Python client for the FENIX Control cloud API (FENIX TFT WiFi ther… |
-| 2026-10-15 08:46:58 | [voices-az](https://pypi.org/project/voices-az/) | 0.1.0 | Learning Machine <salam@learn… | 129.5 kB | Official Python client for the Voices.az API: text-to-speech, speech-to-text an… |
-| 2026-10-15 08:51:56 | [studip-router](https://pypi.org/project/studip-router/) | 0.2.1 | Noah Bomers | 372.1 kB | Sync Stud.IP course files into your own folder structure, with per-course routi… |
-| 2026-10-15 08:58:18 | [zendure](https://pypi.org/project/zendure/) | 0.1.0 | Zendure | 231.5 kB | Async local-network client for Zendure energy devices over the zenSDK HTTP prot… |
-| 2026-10-15 08:58:54 | [benchset](https://pypi.org/project/benchset/) | 0.0.2 | Evgeniy Blinov <zheni-b@yande… | 1.2 MB | Sustained scalar CPU benchmarks with an embeddable Rust core |
-| 2026-10-15 09:02:32 | [confeature-client](https://pypi.org/project/confeature-client/) | 0.0.0 | MakerLabs | 3.6 kB | Name reserved for the Confeature Python SDK (ConfigCat-compatible). The first r… |
-| 2026-10-15 09:05:36 | [cabalspy-id](https://pypi.org/project/cabalspy-id/) | 0.5.1 | CabalSpy <contact@cabalspy.xy… | 134.5 kB | SocialFi API & SDK for CabalSpy ID — add a social layer to any app: login with… |
-| 2026-10-15 09:06:08 | [yuchi](https://pypi.org/project/yuchi/) | 0.0.1 |  | 812 B | Reserved. |
-| 2026-10-15 09:06:22 | [socialfi-api](https://pypi.org/project/socialfi-api/) | 0.5.0 | CabalSpy <contact@cabalspy.xy… | 7.6 kB | SocialFi API — add a social layer to any app: login with X + verified wallets,… |
-| 2026-10-15 09:06:24 | [crewai-twitterapi-io](https://pypi.org/project/crewai-twitterapi-io/) | 0.1.0 | "TwitterAPI.io" <hello@twitte… | 11.9 kB | CrewAI tools for reading X (Twitter) data through the TwitterAPI.io REST API: t… |
-| 2026-10-15 09:06:25 | [socialfi-thesis](https://pypi.org/project/socialfi-thesis/) | 0.5.0 | CabalSpy <contact@cabalspy.xy… | 7.5 kB | SocialFi token theses — holders-only opinions on a token with the author's real… |
-| 2026-10-15 09:06:27 | [caishi](https://pypi.org/project/caishi/) | 0.0.1 |  | 822 B | Reserved. |
-| 2026-10-15 09:06:34 | [chinese-agent-pack](https://pypi.org/project/chinese-agent-pack/) | 0.0.1 |  | 848 B | Reserved. |
-| 2026-10-15 09:09:40 | [cryobalance](https://pypi.org/project/cryobalance/) | 0.1.0 | Krishna Kant Gupta <krishnaka… | 7.7 kB | Regularized spherical harmonic orientation balancing for single-particle cryo-EM |
-| 2026-10-15 09:10:47 | [eu-ai-act-classifier](https://pypi.org/project/eu-ai-act-classifier/) | 0.2.0 | Sebastian Förste | 1.7 MB | Deterministic EU AI Act (Reg (EU) 2024/1689) risk-tier and obligation classifie… |
-| 2026-10-15 09:10:51 | [micar-whitepaper-linter](https://pypi.org/project/micar-whitepaper-linter/) | 0.2.0 | Sebastian Förste | 472.8 kB | Deterministic first-pass linter for MiCAR crypto-asset white paper drafts. |
-| 2026-10-15 09:13:05 | [labharness](https://pypi.org/project/labharness/) | 0.1.0 | AIAYN-creator | 280.8 kB | Local-first Data-to-Paper harness: raw lab data to publication-ready LaTeX figu… |
-| 2026-10-15 09:13:23 | [konexp](https://pypi.org/project/konexp/) | 0.1.0 | Marco | 156.2 kB | Linux-Konfiguration für die ROCCAT Kone XP (DPI, Sensor, Beleuchtung, Tasten) |
-| 2026-10-15 09:13:37 | [eu-reg-mcp](https://pypi.org/project/eu-reg-mcp/) | 0.1.0 | Sebastian Förste | 58.1 kB | MCP server giving AI agents cited, review-gated grounding in EU regulation: ESM… |
-| 2026-10-15 09:15:04 | [dots-agent](https://pypi.org/project/dots-agent/) | 0.1.0 |  | 120.8 kB | 常驻主动式 agent —— 给一个目标,它自己在后台推 |
-| 2026-10-15 09:16:09 | [present-day](https://pypi.org/project/present-day/) | 0.14.0 | Ruslan Tiahniienko | 511.1 kB | Tamper-evident signed memory, provenance and trust for AI agents |
-| 2026-10-15 09:17:46 | [es-python](https://pypi.org/project/es-python/) | 1.0.0 | EyalSec <support@eyalsec.com> | 7.5 kB | es-python is the EyalSec Python runtime, installed from your EyalSec dashboard,… |
-| 2026-10-15 09:20:11 | [eyalsec](https://pypi.org/project/eyalsec/) | 1.0.0 | EyalSec <support@eyalsec.com> | 7.7 kB | EyalSec makes es-python, a Python runtime that reports or blocks attacker-contr… |
+| 2026-10-15 09:23:19 | [mifit](https://pypi.org/project/mifit/) | 0.2.0 |  | 239.4 kB | Read your own Mi Fitness data from the Xiaomi cloud. |
+| 2026-10-15 09:28:40 | [agent-observatory-cli](https://pypi.org/project/agent-observatory-cli/) | 0.1.0 |  | 242.5 kB | Local agent trace receiver and investigation dashboard |
+| 2026-10-15 09:28:40 | [india-market-holidays](https://pypi.org/project/india-market-holidays/) | 0.1.0 | "marketholidays.in" <contact@… | 12.7 kB | Indian market and bank holidays and business day adjustment (NSE, BSE, MCX, RBI… |
+| 2026-10-15 09:33:36 | [tclake-cli](https://pypi.org/project/tclake-cli/) | 0.0.2 |  | 30.3 kB | Command-line tool for Tencent Cloud TCLake |
+| 2026-10-15 09:36:22 | [qec-qem](https://pypi.org/project/qec-qem/) | 0.1.0 |  | 45.8 kB | Low-distance surface-code QEC simulation with Stim, plus zero-noise extrapolati… |
+| 2026-10-15 09:37:40 | [RNAmotiFold](https://pypi.org/project/RNAmotiFold/) | 1.0.0 | Marius Sebeke <marius.sebeke@… | 21.0 MB | Wrapper for RNAmotiFold |
+| 2026-10-15 09:39:03 | [kyoo](https://pypi.org/project/kyoo/) | 0.1.0 | Lawrence Godfrey | 92.8 kB | A local job queue for agents and people: enqueue commands with locks, dependenc… |
+| 2026-10-15 09:43:32 | [figen-encyclopedia-atlas](https://pypi.org/project/figen-encyclopedia-atlas/) | 0.0.1 | Figen SAS | 2.3 kB | Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code. |
+| 2026-10-15 09:43:40 | [figen-deploy](https://pypi.org/project/figen-deploy/) | 0.0.1 | Figen SAS | 2.1 kB | Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code. |
+| 2026-10-15 09:43:45 | [figen-fcli](https://pypi.org/project/figen-fcli/) | 0.0.1 | Figen SAS | 2.1 kB | Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code. |
+| 2026-10-15 09:43:51 | [figenai-email](https://pypi.org/project/figenai-email/) | 0.0.1 | Figen SAS | 2.1 kB | Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code. |
+| 2026-10-15 09:44:05 | [napari-meta-tiff](https://pypi.org/project/napari-meta-tiff/) | 0.1.1 | Joost de Folter <folterj@gmai… | 52.7 kB | napari tiff reader with extended metadata |
+| 2026-10-15 09:45:05 | [rulestamp-ingress-nginx-retirement-lint](https://pypi.org/project/rulestamp-ingress-nginx-retirement-lint/) | 1.0.7 | Rulestamp <support@getreadyst… | 35.5 kB | Names the Gateway API field that replaces each retired ingress-nginx annotation… |
+| 2026-10-15 09:45:23 | [rulestamp-kokuho-dasshutsu-kigen-lint-jp](https://pypi.org/project/rulestamp-kokuho-dasshutsu-kigen-lint-jp/) | 1.0.2 | Rulestamp <support@getreadyst… | 36.8 kB | 国保 脱退14日・健保 資格取得届5日・任意継続20日・雇用保険 翌月10日を、入退社チェックリストの行ごとに条文と照合する 13 rules (bundle… |
+| 2026-10-15 09:45:41 | [rulestamp-lectura-facil-lint-es](https://pypi.org/project/rulestamp-lectura-facil-lint-es/) | 1.0.3 | Rulestamp <support@getreadyst… | 35.1 kB | 12 reglas de lectura fácil para guías y formularios de trámite (RD 707/2026, UN… |
+| 2026-10-15 09:45:57 | [rulestamp-license-flip-audit](https://pypi.org/project/rulestamp-license-flip-audit/) | 0.1.8 | Rulestamp <support@getreadyst… | 32.3 kB | Finds the dependencies whose licence changed under you - Terraform 1.6+ BUSL, R… |
+| 2026-10-15 09:47:48 | [itis-sumo](https://pypi.org/project/itis-sumo/) | 0.1.0 | Javier Garcia Ordonez | 153.3 kB | Surrogate Modeling functionality for IT'IS Foundation / ZMT Modeling Intelligen… |
+| 2026-10-15 09:49:44 | [gkphomepython](https://pypi.org/project/gkphomepython/) | 0.2.0 | Théo BRILLAND <theo.brilland@… | 28.4 kB | Python API wrapper for GKP Wi-Fi radiators |
+| 2026-10-15 09:53:30 | [polyllm-gemini](https://pypi.org/project/polyllm-gemini/) | 0.3.0 | PolyLLM contributors | 15.1 kB | Google Gemini plugin for PolyLLM. |
+| 2026-10-15 09:54:15 | [langchain-proxmint](https://pypi.org/project/langchain-proxmint/) | 0.1.0 | Proxmint <support@proxmint.co… | 23.2 kB | LangChain tool and document loader that read web pages through Proxmint residen… |
+| 2026-10-15 09:54:33 | [biodivine](https://pypi.org/project/biodivine/) | 0.1.0 | Sybila | 23.8 kB | Python interface of the Biodivine libraries for systems biology. |
+| 2026-10-15 09:56:24 | [trustqe](https://pypi.org/project/trustqe/) | 0.0.1 | TrustQE <contact@trustassay.c… | 3.9 kB | Test your AI app before you ship it, and prove it is safe. Early release. |
+| 2026-10-15 09:57:29 | [streamstudio](https://pypi.org/project/streamstudio/) | 0.1.0a1 | Gert Behiels | 981.7 kB | A graph editor for recordstream pipelines written as confluid YAML. |
+| 2026-10-15 09:58:16 | [pamone-obs](https://pypi.org/project/pamone-obs/) | 0.1.1 | PAM Team | 19.6 kB | Reusable pamone sidecar helper: cgroup metrics + stdout log tee, plus optional… |
+| 2026-10-15 10:00:03 | [candle-tts](https://pypi.org/project/candle-tts/) | 0.1.0 |  | 12.5 MB | Modular native speech synthesis and voice conditioning with Rust and Candle |
+| 2026-10-15 10:01:57 | [aiforge-kit](https://pypi.org/project/aiforge-kit/) | 0.2.0 | Kushang Patel | 519.6 kB | Plug-and-play AI toolkit for product teams |
+| 2026-10-15 10:03:40 | [proxyrubika](https://pypi.org/project/proxyrubika/) | 0.1.0 |  | 5.5 kB |  |
+| 2026-10-15 10:03:45 | [id525](https://pypi.org/project/id525/) | 0.2.2 | Luca Cirillo | 649.5 kB | Async Python client and CLI for the General Mobile ID525 5G FWA router web API… |
+| 2026-10-15 10:03:56 | [crosspoint](https://pypi.org/project/crosspoint/) | 0.1.0 |  | 9.3 kB | Crosspoint API client: the Polar SDK, pointed at Crosspoint |
+| 2026-10-15 10:06:00 | [cadence-mcp](https://pypi.org/project/cadence-mcp/) | 0.1.0 | Cadence AI Team | 15.5 kB | Official Model Context Protocol (MCP) server for Cadence Meeting Intelligence |
+| 2026-10-15 10:09:08 | [ai-agent-axon](https://pypi.org/project/ai-agent-axon/) | 0.4.19 |  | 318.2 kB | Axon — 单用户 CLI Agent Harness：沙箱工具网关、双模型接入、可续跑与项目记忆 |
+| 2026-10-15 10:10:21 | [byteplussdk-cen](https://pypi.org/project/byteplussdk-cen/) | 0.0.1 | byteplus-sdk | 958 B | Name reservation for the Byteplus Python SDK split package byteplussdk-cen |
+| 2026-10-15 10:10:27 | [byteplussdk-clawsentry](https://pypi.org/project/byteplussdk-clawsentry/) | 0.0.1 | byteplus-sdk | 1.0 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-clawsent… |
+| 2026-10-15 10:10:33 | [byteplussdk-clb](https://pypi.org/project/byteplussdk-clb/) | 0.0.1 | byteplus-sdk | 961 B | Name reservation for the Byteplus Python SDK split package byteplussdk-clb |
+| 2026-10-15 10:10:37 | [py-wormgpt](https://pypi.org/project/py-wormgpt/) | 1.0.0 | Your Name <you@example.com> | 31.1 kB | AgentAIX - autonomous code synthesis unit (GUI). |
+| 2026-10-15 10:10:39 | [byteplussdk-cloudmonitor](https://pypi.org/project/byteplussdk-cloudmonitor/) | 0.0.1 | byteplus-sdk | 1.0 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-cloudmon… |
+| 2026-10-15 10:13:23 | [encore-dev](https://pypi.org/project/encore-dev/) | 2.0.0a7 | Encore | 196.5 kB | Encore SDK for Python — infrastructure resources |
+| 2026-10-15 10:16:06 | [leanelpi](https://pypi.org/project/leanelpi/) | 0.3.0 |  | 210.8 MB | Python bindings for LeanElpi, the ELPI dialect of λProlog implemented in Lean 4 |
+| 2026-10-15 10:16:50 | [herald-run](https://pypi.org/project/herald-run/) | 0.3.0b1 |  | 34.1 kB | Python client for Herald, the human-in-the-loop inbox for agents |
+| 2026-10-15 10:18:12 | [variancelabs-mcp](https://pypi.org/project/variancelabs-mcp/) | 0.3.1 | VarianceLabs | 4.3 MB | VarianceLabs MCP server — mineral estimation & reporting tools (QAQC + 3D viewe… |
+| 2026-10-15 10:18:38 | [modalitycheck](https://pypi.org/project/modalitycheck/) | 0.1.0 | ModalityCheck contributors | 33.6 kB | Test multimodal data pipelines with reproducible fault injection and cross-moda… |
+| 2026-10-15 10:18:58 | [plasmasds-utility](https://pypi.org/project/plasmasds-utility/) | 0.1.0 |  | 148.1 kB | Move data between the plasma-sds data server and a local working directory. |

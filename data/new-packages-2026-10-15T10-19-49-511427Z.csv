@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T09:23:19Z,mifit,0.2.0,,MIT,239405,Read your own Mi Fitness data from the Xiaomi cloud.
+2026-10-15T09:28:40Z,agent-observatory-cli,0.1.0,,MIT,242515,Local agent trace receiver and investigation dashboard
+2026-10-15T09:28:40Z,india-market-holidays,0.1.0,"""marketholidays.in"" <contact@retailbonds.in>",MIT,12740,"Indian market and bank holidays and business day adjustment (NSE, BSE, MCX, RBI city bank calendars) via the marketholidays.in API."
+2026-10-15T09:33:36Z,tclake-cli,0.0.2,,,30295,Command-line tool for Tencent Cloud TCLake
+2026-10-15T09:36:22Z,qec-qem,0.1.0,,,45817,"Low-distance surface-code QEC simulation with Stim, plus zero-noise extrapolation (quantum error mitigation) of the logical error rate."
+2026-10-15T09:37:40Z,RNAmotiFold,1.0.0,Marius Sebeke <marius.sebeke@ibmg.uni-stuttgart.de>,GPL-3.0-or-later,20971855,Wrapper for RNAmotiFold
+2026-10-15T09:39:03Z,kyoo,0.1.0,Lawrence Godfrey,MIT,92809,"A local job queue for agents and people: enqueue commands with locks, dependencies and preflight checks; watch them from the CLI, an MCP server or a web page."
+2026-10-15T09:43:32Z,figen-encyclopedia-atlas,0.0.1,Figen SAS,,2296,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-15T09:43:40Z,figen-deploy,0.0.1,Figen SAS,,2123,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-15T09:43:45Z,figen-fcli,0.0.1,Figen SAS,,2093,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-15T09:43:51Z,figenai-email,0.0.1,Figen SAS,,2133,Nom réservé par Figen SAS (bibliothèque interne non publiée). Aucun code.
+2026-10-15T09:44:05Z,napari-meta-tiff,0.1.1,Joost de Folter <folterj@gmail.com>,MIT,52716,napari tiff reader with extended metadata
+2026-10-15T09:45:05Z,rulestamp-ingress-nginx-retirement-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35537,Names the Gateway API field that replaces each retired ingress-nginx annotation — or tells you there isn't one (bundled Node.js runtime)
+2026-10-15T09:45:23Z,rulestamp-kokuho-dasshutsu-kigen-lint-jp,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36777,国保 脱退14日・健保 資格取得届5日・任意継続20日・雇用保険 翌月10日を、入退社チェックリストの行ごとに条文と照合する 13 rules (bundled Node.js runtime)
+2026-10-15T09:45:41Z,rulestamp-lectura-facil-lint-es,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35103,"12 reglas de lectura fácil para guías y formularios de trámite (RD 707/2026, UNE 153101) (bundled Node.js runtime)"
+2026-10-15T09:45:57Z,rulestamp-license-flip-audit,0.1.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32335,"Finds the dependencies whose licence changed under you - Terraform 1.6+ BUSL, Redis 7.4+ SSPL, Bitnami's August 2025 move, Elastic 7.11 - and names the exact version where each flip happened. (bundle…"
+2026-10-15T09:47:48Z,itis-sumo,0.1.0,Javier Garcia Ordonez,Copyright (C) IT'IS Foundation - All Rights Reserved Unless required by applicable law or agreed to…,153309,"Surrogate Modeling functionality for IT'IS Foundation / ZMT Modeling Intelligence suite: build, evaluate, cross-validate surrogates + UQ + sampling, headless or embedded"
+2026-10-15T09:49:44Z,gkphomepython,0.2.0,Théo BRILLAND <theo.brilland@wattswater.com>,MIT,28405,Python API wrapper for GKP Wi-Fi radiators
+2026-10-15T09:53:30Z,polyllm-gemini,0.3.0,PolyLLM contributors,MIT,15090,Google Gemini plugin for PolyLLM.
+2026-10-15T09:54:15Z,langchain-proxmint,0.1.0,Proxmint <support@proxmint.com>,MIT,23188,"LangChain tool and document loader that read web pages through Proxmint residential, datacenter and mobile proxies, with country, city and ASN targeting and sticky sessions."
+2026-10-15T09:54:33Z,biodivine,0.1.0,Sybila,MIT,23756,Python interface of the Biodivine libraries for systems biology.
+2026-10-15T09:56:24Z,trustqe,0.0.1,TrustQE <contact@trustassay.com>,LicenseRef-Proprietary,3916,"Test your AI app before you ship it, and prove it is safe. Early release."
+2026-10-15T09:57:29Z,streamstudio,0.1.0a1,Gert Behiels,MIT,981654,A graph editor for recordstream pipelines written as confluid YAML.
+2026-10-15T09:58:16Z,pamone-obs,0.1.1,PAM Team,Proprietary,19627,"Reusable pamone sidecar helper: cgroup metrics + stdout log tee, plus optional trace mirroring."
+2026-10-15T10:00:03Z,candle-tts,0.1.0,,MIT,12502917,Modular native speech synthesis and voice conditioning with Rust and Candle
+2026-10-15T10:01:57Z,aiforge-kit,0.2.0,Kushang Patel,MIT,519589,Plug-and-play AI toolkit for product teams
+2026-10-15T10:03:40Z,proxyrubika,0.1.0,,MIT,5469,
+2026-10-15T10:03:45Z,id525,0.2.2,Luca Cirillo,MIT,649505,"Async Python client and CLI for the General Mobile ID525 5G FWA router web API (read-only by default, writes opt-in)"
+2026-10-15T10:03:56Z,crosspoint,0.1.0,,MIT,9323,"Crosspoint API client: the Polar SDK, pointed at Crosspoint"
+2026-10-15T10:06:00Z,cadence-mcp,0.1.0,Cadence AI Team,,15464,Official Model Context Protocol (MCP) server for Cadence Meeting Intelligence
+2026-10-15T10:09:08Z,ai-agent-axon,0.4.19,,MIT,318238,Axon — 单用户 CLI Agent Harness：沙箱工具网关、双模型接入、可续跑与项目记忆
+2026-10-15T10:10:21Z,byteplussdk-cen,0.0.1,byteplus-sdk,Apache License 2.0,958,Name reservation for the Byteplus Python SDK split package byteplussdk-cen
+2026-10-15T10:10:27Z,byteplussdk-clawsentry,0.0.1,byteplus-sdk,Apache License 2.0,1012,Name reservation for the Byteplus Python SDK split package byteplussdk-clawsentry
+2026-10-15T10:10:33Z,byteplussdk-clb,0.0.1,byteplus-sdk,Apache License 2.0,961,Name reservation for the Byteplus Python SDK split package byteplussdk-clb
+2026-10-15T10:10:37Z,py-wormgpt,1.0.0,Your Name <you@example.com>,"MIT License Copyright (c) 2025 Your Name Permission is hereby granted, free of charge, to any perso…",31096,AgentAIX - autonomous code synthesis unit (GUI).
+2026-10-15T10:10:39Z,byteplussdk-cloudmonitor,0.0.1,byteplus-sdk,Apache License 2.0,1027,Name reservation for the Byteplus Python SDK split package byteplussdk-cloudmonitor
+2026-10-15T10:13:23Z,encore-dev,2.0.0a7,Encore,MPL-2.0,196483,Encore SDK for Python — infrastructure resources
+2026-10-15T10:16:06Z,leanelpi,0.3.0,,Apache-2.0,210828166,"Python bindings for LeanElpi, the ELPI dialect of λProlog implemented in Lean 4"
+2026-10-15T10:16:50Z,herald-run,0.3.0b1,,MIT,34138,"Python client for Herald, the human-in-the-loop inbox for agents"
+2026-10-15T10:18:12Z,variancelabs-mcp,0.3.1,VarianceLabs,Copyright (c) 2026 VarianceLabs. All rights reserved. This software is proprietary. No license is g…,4250584,"VarianceLabs MCP server — mineral estimation & reporting tools (QAQC + 3D viewer + property modelling: NEXUS, LVA-DKNN + geometry + EDA)"
+2026-10-15T10:18:38Z,modalitycheck,0.1.0,ModalityCheck contributors,"MIT License Copyright (c) 2026 ModalityCheck contributors Permission is hereby granted, free of cha…",33635,Test multimodal data pipelines with reproducible fault injection and cross-modal invariants.
+2026-10-15T10:18:58Z,plasmasds-utility,0.1.0,,LGPL-2.1-only,148116,Move data between the plasma-sds data server and a local working directory.
