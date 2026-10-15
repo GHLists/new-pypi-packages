@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T15:56:41Z,nsb-py,0.1.0,VPRamon <vallespuigramon@gmail.com>,AGPL-3.0-only,48227342,Night-sky background evaluation and observation planning for ground-based astronomy.
+2026-10-15T18:18:06Z,frdocsearch,1.3.0,Omena0 <omena0mc@gmail.com>,# PolyForm Noncommercial License 1.0.0 <https://polyformproject.org/licenses/noncommercial/1.0.0> #…,57859,Fast local semantic search engine for Markdown documentation and source code for agentic or human use
+2026-10-15T18:20:13Z,ingenium-lib-cosmos,0.1.1,Christopher Swan <open-ingenium@jpl.nasa.gov>,Apache-2.0,73075,Python libraries supporting OpenIngenium and COSMOS
+2026-10-15T18:22:15Z,pydegas,0.0.1,"Oguzhan Merttürk, Francesca Randone",MIT,252345,"Fit the parameters of probabilistic programs with gradient descent, without sampling."
+2026-10-15T18:24:03Z,proyecto-JotaBWF,0.1.2,JotaBWF,,4386,Una libreria para consultar los cursos de la academia Hack4U.
+2026-10-15T18:24:07Z,elenjical-sdk,0.1.0,Elenjical,MIT,22155,"Elenjical error tracking and logs for Python: Django, Flask, FastAPI, Celery and plain scripts."
+2026-10-15T18:24:50Z,y2cli,1.0.0,,,17056,"Offline YouTube downloader CLI — like Y2Mate, no browser needed"
+2026-10-15T18:25:08Z,omnipress-mcp,0.1.0,OmniPress Team,MIT,452353,Agentic multi-channel publishing engine for Antigravity via Model Context Protocol (MCP)
+2026-10-15T18:30:08Z,stablemate-groom,1.3.0,Gabriel Côté,MIT,519001,Local push-driven dashboard for workhorse agent-workflow operator gates — tends the horses while they run.
+2026-10-15T18:31:02Z,spatial-ui,0.1.0,ellainng,MIT,53887,A Python spatial UI engine with square grids and t-string templates.
+2026-10-15T18:31:08Z,zeambridge,2.0.0,"""ZEAM Labs, LLC"" <info@zeamlabs.com>",Apache-2.0,261279,"ZEAM :: Bridge for your own server: a paywall (x402 and MPP; you keep 90.01%), a key gate, or both, for your MCP and HTTP tools. Runs in your process with your keys."
+2026-10-15T18:34:15Z,toolsudo,0.0.1,Lunsee,Apache-2.0,3736,"sudo for AI agents: a policy gateway for MCP tool calls (allow, deny, require human approval)."
+2026-10-15T18:36:13Z,OpenRepKernel,0.1.0a1,SheafLab,MIT,6595,Finite local representations with restriction and overlap gluing.
+2026-10-15T18:37:33Z,acceptlicense,0.1.0,Scratch_2_0_2_4 <scratch.20.24.0@gmail.com>,MIT,39324,Un outil simple pour gérer et accepter les licences logicielles.
+2026-10-15T18:41:50Z,getlurk,0.2.1,,Apache-2.0,90561,The Lurk API for Python
+2026-10-15T18:43:38Z,pollakcord,0.1.0,,,11902,Async client for user-hosted PollákCord bots
+2026-10-15T18:44:27Z,update-kit,0.1.0,,MIT,39330,Self-update for git-tag-released Python CLIs (uv tool / pipx). Stdlib only.
+2026-10-15T18:48:22Z,ragleap-voice,0.0.1,Antony <antony@ragleap.com>,MIT,72004,"Pre-alpha model manager for open, local speech-to-text and text-to-speech: licence-checked manifest, hash-verified downloads. No speech engines yet."
+2026-10-15T18:48:35Z,spark-kindling,0.14.0rc1,SEP Engineering,MIT,375041,"A unified framework for data apps across Fabric, Synapse, and Databricks"
+2026-10-15T18:48:37Z,spark-kindling-cli,0.14.0rc1,SEP Engineering,MIT,190892,Command-line tooling for Kindling
+2026-10-15T18:48:38Z,spark-kindling-ext-cosmos,0.14.0rc1,SEP Engineering,MIT,17184,Azure Cosmos DB entity provider extension for Kindling
+2026-10-15T18:48:39Z,spark-kindling-ext-databricks,0.14.0rc1,SEP Engineering,MIT,33516,Databricks Lakeflow adapter for Kindling's SDP declaration engine
+2026-10-15T18:59:46Z,singularis-mcp,0.1.1,Type 1 Civilization Laboratories LLC,Proprietary shell; free to install and use with a Singularis key,28862,Singularis is unlimited computation. Bring us your hardest problems. Free tryout. Results depend on your equipment. GPU optional for even greater results. MCP server for AI agents; free tryout credit…
+2026-10-15T19:00:45Z,agento11y-harbor,0.20.0,,SPDX-License-Identifier: Apache-2.0 See /LICENSE at repository root for full license text.,57388,Harbor live evaluation and job import for the Grafana Agent Observability Python SDK
+2026-10-15T19:01:26Z,mlx-geospatial,0.1.0,Bojan Tunguz,MIT,229826,"GPU-accelerated spatial operations for Apple silicon, built on MLX: haversine distances, point-in-polygon, and grid-indexed spatial joins"
+2026-10-15T19:01:44Z,opendeck-mcp,0.3.1,kastro5,MIT,298340,MCP server for configuring OpenDeck (open-source Stream Deck software) in natural language
+2026-10-15T19:01:52Z,pybearings,0.1.0,Juan Pablo Scaletti <juanpablo@jpscaletti.com>,MIT,1211037,"Bearings, the Free Pascal HTTP/1.1 server, as a WSGI server for Python"
+2026-10-15T19:02:55Z,agentifyapi,0.1.0,Somil Aggarwal,MIT,173710,Make your FastAPI services agent-ready with owner-approved MCP tools.
+2026-10-15T19:03:38Z,onmt-runner,1.0.0,Mika Hämäläinen,Apache 2.0,20453,Standalone inference for legacy OpenNMT-py recurrent checkpoints
+2026-10-15T19:04:02Z,flet-shadcn-ui,1.1.0.dev0,Flet contributors <hello@flet.dev>,Apache-2.0,191891,Shadcn components for Flet apps.
+2026-10-15T19:04:25Z,intentline,0.1.0,Mahamudul Hasan,Apache-2.0,308939,"Git-native intent ledger. Capture why a change exists, and get it back at review and debug time."
+2026-10-15T19:05:32Z,RepGeom,0.1.0a1,SheafLab,MIT,7112,Small geometry primitives for labelled vector representations.
+2026-10-15T19:05:48Z,membrick,0.6.0,,Apache-2.0,116753741,"Persistent agent memory API and CLI, backed by Membrick's Rust MemoryService"
+2026-10-15T19:12:17Z,atlas-hsi,0.1.0a1,Jacob Rempel,MIT AND Apache-2.0,146513,ATLAS (Adaptive Transfer of Low-rank Abundance Splatting): hyperspectral image compression via low-rank spectral Gaussian splatting.
+2026-10-15T19:12:57Z,django-school-framework,0.2.2,,MIT,132925,Відкритий веб-фреймворк для офіційних сайтів закладів загальної середньої освіти України (ст. 30 ЗУ «Про освіту»)
+2026-10-15T19:13:26Z,modern-httplib2,1.32.0,Jay Lee <jay0lee@gmail.com>,Apache-2.0 AND MIT,247716,A modern drop-in replacement for httplib2 powered by httpx
+2026-10-15T19:14:44Z,failmode,0.0.1,Srushti Lohiya,Apache-2.0,45227,"Instrument LLM agents and ship their traces to failmode, which finds, clusters and regression-tests agent failures."
+2026-10-15T19:15:00Z,fortran-mcp,0.1.0,Minh Dao,MIT,420904,Compact MCP server for cited modern and legacy Fortran documentation
+2026-10-15T19:17:31Z,i-attp,0.1.0,Jabulani Monchwe <MonchweJ.25@gmail.com>,MIT,13643,S-ATTP: cluster-stratified train/test splitting on an LDA-reduced feature space.
+2026-10-15T19:18:37Z,pyxpo,0.1.0a1,Vishal Chaubey,MIT,631561,Python-first mobile app framework with React-style components and native widgets
