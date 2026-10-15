@@ -1,0 +1,61 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T12:22:56Z,sparc-xai,0.1.2,Charis Ntakolia <cntakolia@hafa.gr>,MIT,161097,"SPARC: Shapley Pareto Robust Concept attribution with fuzzy logic, post hoc explanations of tabular black box models"
+2026-10-15T13:14:06Z,datanivra-sdk,0.1.0,,Proprietary,86342,Typed Python SDK for the DataNivra control-plane API.
+2026-10-15T13:14:09Z,datanivra-cli,0.1.0,,Proprietary,130968,The `datanivra` command line (metadata/orchestration only).
+2026-10-15T13:14:17Z,datanivra-contracts,1.0.0,,Proprietary,536442,Versioned v1 domain schemas and the control-plane <-> agent protocol.
+2026-10-15T13:19:11Z,directing-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49064,A machine that regulates the course of...
+2026-10-15T13:19:16Z,joinhound,0.0.1,Joinhound contributors,Apache-2.0,13209,Find and traverse hidden relationships across databases and documents.
+2026-10-15T13:20:07Z,atracker,2.0.0,Jolle Jolles,Apache-2.0,368771,A flexible Python toolkit for animal tracking
+2026-10-15T13:20:51Z,vibeci,0.3.0,Piyush Kumar,,79841,VibeCI — Local Verification for AI-Written Code
+2026-10-15T13:20:59Z,workflint,0.0.1,,MIT,2418,"A fast linter for GitHub Actions workflows, compatible with actionlint. Placeholder; the first real release is in development."
+2026-10-15T13:22:36Z,keepup-http,0.5.0,,,721471,"The way into the application over HTTP: the application, its routes and its middleware."
+2026-10-15T13:23:59Z,veritas-tms,0.11.0,RAGS,MIT,185247,Truth maintenance for AI agents: automated principled belief retraction
+2026-10-15T13:25:10Z,keepup-cluster,0.5.0,,,26769,"The replicas of this deployment, their state and the commands addressed to them."
+2026-10-15T13:26:27Z,keepup-modules,0.5.0,,,36351,"The catalogue of panel sections, and the decision about backend plugins."
+2026-10-15T13:26:42Z,inkrelay,0.2.0,,MIT,218902,Python client for the InkRelay cloud printing API
+2026-10-15T13:27:54Z,keepup-tasks,0.5.0,,,16158,"The one scheduler, the declared jobs and the distributed locks they run under."
+2026-10-15T13:28:01Z,sourcesql,0.1.0,,Apache-2.0,3271933,Provider-independent SQL research with durable evidence
+2026-10-15T13:29:07Z,huri-core,0.4.0.dev0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",137932,"HuRI core: the framework of a realtime, modular conversational pipeline for robots"
+2026-10-15T13:29:09Z,huri-events,0.1.0.dev0,,,13588,The curated HuRI event vocabulary: the huri.* topics and their wire formats
+2026-10-15T13:29:12Z,huri-hub,0.2.0.dev0,,,38248,`huri hub`: find and install HuRI modules from the verified registry and the community
+2026-10-15T13:29:15Z,huri-module-vad,0.1.0.dev0,,,7299,"HuRI module: Voice activity detection (WebRTC VAD): microphone frames in, speech segments out"
+2026-10-15T13:29:37Z,keepup-log-shipping,0.5.0,,,21300,"The application's own log, queued and shipped to a collector."
+2026-10-15T13:29:45Z,otari-haystack,1.0.0,deepset GmbH <info@deepset.ai>,Apache-2.0,55974,An integration between the Otari LLM gateway and Haystack
+2026-10-15T13:30:16Z,delta-arrow-reader,0.7.0,,Apache-2.0,181022164,Read-only Delta Lake to Apache Arrow reader
+2026-10-15T13:31:29Z,hil-platform,0.1.0,,,255937,"Device drivers, HAL blocks and station configuration for the HIL test platform"
+2026-10-15T13:32:32Z,opengrade-ai,0.1.0,,,383567,Python SDK for AI Evaluation & Observability Platform (OTLP + OpenInference)
+2026-10-15T13:32:37Z,cdk8s-plus-36,2.0.0,Amazon Web Services,Apache-2.0,7061945,cdk8s+ is a software development framework that provides high level abstractions for authoring Kubernetes applications. cdk8s-plus-36 synthesizes Kubernetes manifests for Kubernetes 1.36.0
+2026-10-15T13:34:06Z,rendergrid,0.0.0,,MIT,768,Reserved.
+2026-10-15T13:34:45Z,tsgettoolbox-nldas3,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,26805,Plugin for tsgettoolbox to access NLDAS-3 data from AWS S3.
+2026-10-15T13:35:55Z,git-deai,0.1.0,Isaac Yong <isaacyong@naver.com>,MIT,25676,Find and remove AI co-author credits from git history
+2026-10-15T13:35:56Z,elenvind,1.0.1,Hao Wu <hao.wu@ortzikantu.com>,GPL-3.0-only,526118,"A security-first personal website and blog server built on the Python standard library, WSGI, SQLite and Jinja2."
+2026-10-15T13:36:41Z,vextorium,0.1.2,Vextorium,MIT,18533,"550+ pay-per-call data services for trading bots and AI agents, paid automatically in USDC on Base via x402. No API keys."
+2026-10-15T13:37:42Z,opengrade-ai-server,0.1.0,,,2277696,AI Evaluation & Observability Platform server (FastAPI backend)
+2026-10-15T13:39:12Z,structuredLanguageDB,0.1.1,,MIT,788476,Structured Language Database - structured Markdown to Pydantic and back
+2026-10-15T13:40:46Z,dragon.com,0.0.1,rococo,,2604,Projects content to dragon.com
+2026-10-15T13:42:49Z,tratt,0.1.0,Isaac Yong <isaacyong@naver.com>,MIT,50130,Transient formation dynamics of acoustic Bragg satellites in dynamical X-ray diffraction
+2026-10-15T13:42:52Z,qoraphase,0.1.0,Isaac Yong <isaacyong@naver.com>,MIT,58780,"A JAX-native, composable phase-retrieval framework for coherent diffraction imaging"
+2026-10-15T13:44:58Z,figtools,0.8.0,Francisco Queiró,MIT,788139,"Matplotlib figure style inspired by Kieran Healy's Data Visualization: direct labels placed clear of each other and of the data, a measured overlap check, export at each destination's physical size,…"
+2026-10-15T13:48:48Z,carla-canvas,0.1.1,,MIT,15194158,"Swap CARLA's camera and LiDAR rendering (3D Gaussian splatting or any renderer) behind the CARLA API, for typesafe_carla programs"
+2026-10-15T13:49:15Z,napari-cellposesam,0.1.1,"Carsen Stringer <stringerc@janelia.hhmi.org>, Jesko Wagner <35219306+jeskowagner@users.noreply.gith…",BSD-3-Clause,342546,napari plugin for cellpose and Cellpose-SAM segmentation
+2026-10-15T13:50:19Z,arc56-generated-joe-p-dc1b6a5a,1.1.2026101512,joe-p,,182614,Generated ARC-56 Algorand smart-contract clients for joe-p/algokit-monorepo-ts.
+2026-10-15T13:51:25Z,arc56-generated-marsh-b2871e27,1.1.2026101512,Marshal-AM,,76259,Generated ARC-56 Algorand smart-contract clients for Marshal-AM/x500-algorand.
+2026-10-15T13:53:36Z,ferrox-py-aspyre,1.0.0,Principal Software Architect & Financial Systems Integrator,,117355,"Enterprise Financial Integration Engine for Aspyre: Exact Online Fair-Queuing, Twinfield Stateful Session Pooling, Dutch SBR/BTW Validation, Anti-Ping-Pong Sync."
+2026-10-15T13:54:13Z,py-ikgeo-kinematics,0.0.2,CEAD Group <software@ceadgroup.com>,,8680405,General 6R inverse kinematics (IK-Geo) for industrial robots whose wrist is not spherical
+2026-10-15T13:55:23Z,masguardeval,0.1.0,,MIT,177791,Risk-aware evaluation and observability framework for multi-agent LLM systems.
+2026-10-15T13:56:42Z,arc56-generated-gabri-7b66819d,1.2.2026072010,gabrielkuettel,,23529,Generated ARC-56 Algorand smart-contract clients for gabrielkuettel/algorand-starter-templates.
+2026-10-15T13:57:46Z,arc56-generated-gabri-15caa99c,1.2.2026072010,gabrielkuettel,,18802,Generated ARC-56 Algorand smart-contract clients for gabrielkuettel/create-child-with-box.
+2026-10-15T14:02:06Z,quantumbox-sdk,2026.10.15.3,,,39885,
+2026-10-15T14:04:09Z,brokk-slopcop,0.0.3,,Apache-2.0,26812658,Check a change through the hosted SlopCop check API
+2026-10-15T14:04:37Z,PyMPR,0.0.1,,,1077,
+2026-10-15T14:05:58Z,datalayer-agent-shield,0.1.0,Datalayer <info@datalayer.io>,"BSD 3-Clause License Copyright (c) 2025, Datalayer All rights reserved. Redistribution and use in s…",4537,Datalayer Agent Shield: a runtime firewall for every agent
+2026-10-15T14:10:06Z,vikron-nautilus,0.1.0,,MIT,18703,Read Vikron Catalog data with NautilusTrader Python
+2026-10-15T14:12:26Z,PyMPR,0.0.1,,,1077,
+2026-10-15T14:15:09Z,singlens,0.1.0,Shota Miyazaki <miyazaki@ir.isas.jaxa.jp>,MIT AND Apache-2.0 AND BSD-3-Clause,23841704,Differentiable single-lens microlensing in JAX
+2026-10-15T14:15:39Z,cooloo,0.1.0,cooloo contributors,MIT,2605525,Python API and launcher for the cooloo GUI and CLI client
+2026-10-15T14:15:47Z,thegrind,0.0.0,krn1cwby <grind@mainframe.network>,,3932,Placeholder. Client tooling for The Grind; the first real release follows shortly.
+2026-10-15T14:17:25Z,backtest-audit-kit,0.1.0,rytjy,MIT,42172,"Audit a backtest: look-ahead lint, ledger invariants, mutation coverage, cost checks. Pure standard library."
+2026-10-15T14:17:25Z,jev-claude,0.5.0,Thiago Lage,MIT,156848,"Decisões estruturadas para o código (TypeSafe Jev) e texto livre para pessoas (LLM), com custo zero por padrão."
+2026-10-15T14:17:54Z,coconnect,1.0.0,,MIT,8217,"Send your platform's events to CoConnect Hub, in your own words. Server side."
+2026-10-15T14:18:18Z,dooms-cpp,0.3.0,,Apache-2.0,4896977,"dooms.cpp on Apple Silicon: LLM text generation (any GGUF) with an OpenAI-compatible server, image question answering (SmolVLM) and robot actions (SmolVLA)"
+2026-10-15T14:18:19Z,tcaicc,1.4.0rc1,Tencent,Apache-2.0,236717,Tencent AICC confidential-model SDK for Python
