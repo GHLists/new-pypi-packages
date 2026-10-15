@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T15:20:12Z,bsb-native,8.0.0,"Robin De Schepper <robin@alexandria.sc>, Dimitri Rodarie <dimitri.rodarie@unipv.it>",,1625884,Native (Rust) numerical kernels for the BSB: Poisson-disk placement sampling and segment-intersection connectivity.
+2026-10-15T15:21:59Z,xpu-shell,0.6.1,,Apache-2.0,105207,A Python command-line interface to manage and supervise AI accelerators
+2026-10-15T15:22:47Z,aesthete-agent-mcp,0.4.0,SorSor,MIT,39934,"aesthete-agent MCP server — mechanically validated frontend aesthetics: palette library ranking, OKLCH generation, WCAG/APCA contrast, color-blind-safe data colors, theme packs, token exports (w3c/co…"
+2026-10-15T15:23:35Z,rolefence-scan,0.1.1,VTSOL INC,Apache-2.0,170286,Read-only exposure scanner for MCP servers in front of databases: reports what an AI model could reach that it should not.
+2026-10-15T15:26:05Z,ivserial,1.0.0,Emad Ashtari Nezhad <emaad7@gmail.com>,MIT,63541,Exact symbolic tests of serial independence (information variance)
+2026-10-15T15:26:11Z,lendquant,0.1.0,Jean-Paul Ndong <jp@lendquant.com>,Apache-2.0,55987,"Open-source loan-pool math: amortization, IRR/XIRR, static-pool loss curves, SIFMA conventions."
+2026-10-15T15:27:24Z,wulu-geetest-bypass-phrase,0.1.0,wulu007,MIT,16404,"Offline phrase captcha solver for Geetest v4 (detection, OCR, ordering)"
+2026-10-15T15:27:28Z,io-magiclinks,0.1.1,,,78490,Upload browser experiments and retrieve their data with MagicLinks
+2026-10-15T15:28:05Z,pdf-to-speech,0.1.1,Hamed Abdollahpour,MIT,8920,Read a PDF and write it out as spoken audio.
+2026-10-15T15:28:48Z,my-llm-py,0.1.3,JJJJSTIYYYY <wavejustiy@gmail.com>,,146158,"Profile-driven async LLM adapter for OpenAI, Anthropic, Gemini and Ollama."
+2026-10-15T15:29:34Z,heyecco,0.1.0,,AGPL-3.0-only,45596,Start and resume an Ecco agent board without an account
+2026-10-15T15:32:46Z,python-ferryclient,0.17.0,The Ferry Authors,Apache-2.0,136699,"OpenStackClient plugin for Ferry backup, recovery and DR"
+2026-10-15T15:34:04Z,teody-vision,0.1.0,Teody Arboneda Banagan <teody882011@gmail.com>,,10564,"A deterministic, non-neural topological tensor framework for real-time UI text and field localization."
+2026-10-15T15:41:10Z,conceptembeddings,2.0,Arne Rubehn,MIT,29017,Inductive Learning of Concept Embeddings
+2026-10-15T15:41:20Z,levrouter,0.1.0,Sathya,Apache-2.0,458585,"Per-request model routing for LangChain chat models (Anthropic, OpenAI, Gemini, Groq, DeepSeek, Mistral, xAI, Hugging Face), powered by lev from InterfazeAI"
+2026-10-15T15:41:34Z,taskpenny,0.7.1,Cinto Casals,MIT,945437,"Sends each prompt, or each part of it when splitting pays, to the cheapest model that can do it well. Jev decides and checks every step."
+2026-10-15T15:42:18Z,ai-llm-kernel-provider-anthropic,0.1.0a5,,MIT,20830,Anthropic provider for AI LLM Kernel.
+2026-10-15T15:42:21Z,ai-llm-kernel-provider-openai,0.1.0a5,,MIT,21714,OpenAI provider for AI LLM Kernel.
+2026-10-15T15:42:23Z,ai-llm-kernel-provider-lmstudio,0.1.0a5,,MIT,8744,LM Studio provider for AI LLM Kernel.
+2026-10-15T15:43:36Z,prettypython-core,0.1.1,Eduardo Amorim Pereira,,8159,`prettypython` core for building UI on terminal
+2026-10-15T15:43:51Z,chromaverity,0.1.0,Mezzframe,Apache-2.0,134644,Check whether a video's color labels match its pixels.
+2026-10-15T15:43:55Z,conning,0.2.0,Eran Yonai,Apache-2.0,241420,A control room for your agent's test machines: an MCP server and CLI that run commands on remote targets without the agent ever seeing a secret.
+2026-10-15T15:44:04Z,lws-mcp,0.1.0,Nouhan Kourouma,MIT,33063,"MCP server for the LWS (lws.fr) API: manage domains, DNS zones, hosting and your account from any AI assistant."
+2026-10-15T15:45:22Z,financial-evidence,0.1.9,Liquidity Lab,MIT,3707413,"MCP and API research infrastructure for AI finance agents, with persistent sessions and source-status streams"
+2026-10-15T15:48:10Z,e77,0.0.1a0,,Apache-2.0,1822,Element 77 — Governed AI Execution Infrastructure & Cassette SDK
+2026-10-15T15:48:13Z,element77,0.0.1a0,,Apache-2.0,1878,Element 77 — Governed AI Execution Infrastructure & Cassette SDK
+2026-10-15T15:48:15Z,e77-cassette,0.0.1a0,,Apache-2.0,1917,Element 77 — Governed AI Execution Infrastructure & Cassette SDK
+2026-10-15T15:49:20Z,ruvio-client,0.1.0,Salih Cantekin,MIT,193855,Fast sync and asyncio Python client for the Ruvio key-value server (RESP2/RESP3)
+2026-10-15T15:49:54Z,ingenium-lib,0.1.2,Christopher Swan <open-ingenium@jpl.nasa.gov>,Apache-2.0,132555,Python libraries supporting OpenIngenium
+2026-10-15T15:50:45Z,agent-memory-git,0.1.1,Shichao Song,MIT,135723,"Shared, git-backed memory for Claude Code and Codex."
+2026-10-15T15:51:20Z,django-forge-core,0.1.0,Cédric Hervé Youan <hervecedricyouan@gmail.com>,MIT,37218,"Socle runtime des projets Django Forge : configuration par l'environnement, modeles abstraits et erreurs typees avec pycatch."
+2026-10-15T15:51:35Z,evstats,0.2,Chris Lovell <chris.lovell.astro@gmail.com>,GPL-3.0-or-later,46850,Calculate extreme value statistics of the halo and galaxy mass distributions
+2026-10-15T15:53:07Z,PkdGrav-snapshot,1.0.0,John Hennig,GPL-3.0-or-later,19263,Input/output of PkdGrav particle snapshots
+2026-10-15T15:54:50Z,garmcli,1.0.0,Matheus Coêlho,MIT,46194,"Read-only Garmin history, resumable sync, and JSON exports"
+2026-10-15T15:56:04Z,easyannotate,0.4.0,Shivpratap Singh Panwar,MIT,752873,"Image annotation with nothing to set up: draw, review model predictions fast, export a correct dataset"
+2026-10-15T16:00:06Z,tlg-rs,0.1.0,,,24683464,
+2026-10-15T16:07:28Z,ryan-functions,26.10.15.5,Chain Frost <chainfrost@outlook.com>,SUL-1.0,708125,Collection of TUFLOW and data processing functions.
+2026-10-15T16:09:11Z,open-net-worth,0.1.19,,AGPL-3.0-only,18184889,Open-source self-hosted wealth manager with an AI assistant (Lucius).
+2026-10-15T16:10:23Z,svstyle,0.1.0,Leandro Tozzi,MIT,489670,SystemVerilog RTL style checker/formatter and rules database
+2026-10-15T16:12:31Z,markdowneditor-ldxs,1.1.0,wUwproject,AGPL-3.0-or-later,2887243,"Local Markdown editor: single-page live preview (KaTeX, image, block-incremental render), typography panel, Paged.js paged export, local HTTP backend."
+2026-10-15T16:15:26Z,mjolnir-cli,0.2.0,Mieszko Syty <mieszko@ms1design.pl>,Apache-2.0,3250303,"Serve, benchmark and document LLMs on NVIDIA Jetson AGX Thor: YAML model configs, the Mjolnir vLLM image, KV-cache calibration, kernel / serving / accuracy benchmarks and auto-rendered reports."
+2026-10-15T16:16:47Z,mjolnir-kernel,0.1.0,Mieszko Syty <mieszko@ms1design.pl>,Apache-2.0 AND BSD-3-Clause,182250,"Mjolnir: a paged decode-attention kernel for NVIDIA Jetson AGX Thor (sm_110) on tcgen05 / TMEM / TMA (CuTe DSL), with fp8 and 6-bit (e2m3) KV caches — packaged as the vLLM MJOLNIR attention backend."
+2026-10-15T16:16:59Z,desy-fssc-ci-python,0.1.0a2,Marc-Olivier Andrez,MIT,10703,Project to test the GitLab CI components implemented in https://gitlab.desy.de/fs-sc/ci/python
+2026-10-15T16:18:32Z,benostreamdb-flight,0.12.0,Richard Albright and BenoStreamDB Contributors,MIT AND Apache-2.0,274847382,BenoStreamDB Flight SQL - Arrow Flight SQL gateway over BenoStreamDB
+2026-10-15T16:18:59Z,benostreamdb-mcp,0.12.0,Richard Albright and BenoStreamDB Contributors,MIT AND Apache-2.0,247828283,BenoStreamDB Model Context Protocol (MCP) Server
