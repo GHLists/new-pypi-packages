@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T21:28:10Z,chaperone-pipelines,1.0.0,,MIT AND BSD-3-Clause AND CC-BY-NC-SA-4.0,4080738,Chaperone: a framework for protein design and benchmarking
+2026-10-15T21:30:57Z,sficheck,0.2.0,Asterios Zervos <azerv1@users.noreply.github.com>,GPL-3.0-or-later,216332,Find proprietary software installed through your system and language package managers.
+2026-10-15T21:32:57Z,exelichai,0.1.0,Masked Fox Productions,,36822,"Sync an Exelichai game with a GitHub repository: validate, push the draft, publish from CI, pull the Art Studio presentation."
+2026-10-15T21:33:33Z,unseenet,0.1.0,Andreas Lorensen,Apache-2.0,107057,"A Usenet-style, decentralized and encrypted discussion network over Tor onion services"
+2026-10-15T21:33:36Z,morbit,1.1.1,Morbit contributors,MIT,22860,"Morbit: reversible layered encoding, decoding, file processing, and Python runtime protection"
+2026-10-15T21:36:34Z,aedb,0.1.0,,,188378,"Python SDK for event-driven services: NATS daemons, contracts, storage, and infrastructure clients"
+2026-10-15T21:36:59Z,inbox-jev,0.1.0,Litebox,MIT,467773,"Triage your Gmail inbox with TypeSafe Jev: label, archive, and auto-unsubscribe from marketing."
+2026-10-15T21:38:12Z,senseplane,0.1.0,oludare odedoyin,,2385,Add your description here
+2026-10-15T21:39:06Z,data-designer-slurm,1.0.0rc1,,Apache-2.0,858359,Slurm execution for Data Designer
+2026-10-15T21:39:40Z,ai-rpa-framework-proteccion,3.0.0,,,2001,Una libreria simple de python
+2026-10-15T21:41:37Z,lastorders,0.4.0,Burnt & Toast Studios,,163166,"Free scanner for retiring AI model IDs (OpenAI, Anthropic, ...) in your code, with CI support."
+2026-10-15T21:41:57Z,osrmroute,1.1.1,MAMMADOFF LLC,MIT,22565,"Official Python SDK for the OSRMRoute Maps, Routing & Geocoding API"
+2026-10-15T21:44:30Z,quicksat,0.1.0,Egemen Imre,GPL-3.0-or-later,1117341,"First-pass satellite sizing: mass, data, delta-V and agility budgets, a scenario on a real orbit, power and battery checks, a 3D viewer and file editors"
+2026-10-15T21:44:32Z,ifdd-be-core,26.10.2,,BSD-3-Clause,1744609,Shared runtime for IFDD JSON-LD micro services
+2026-10-15T21:47:56Z,eelang,0.1.0,,MIT,2041886,"eelang — надмножество Python 3.15: паттерн-матчинг в присваиваниях, match def, пайплайны"
+2026-10-15T21:48:54Z,copilot365,0.1.2,,MIT,90589,Coding agent driven by Microsoft 365 Copilot web chat via headless Playwright.
+2026-10-15T21:52:05Z,ethosoftlib,0.4.0,Ethosoft,,126554,Extensible Python SDK for independent Ethosoft products and integrations
+2026-10-15T21:55:24Z,zaff,0.1.0,Nolan Love <nolanlove@yahoo.com>,MIT,43004,Zaff CLI — your personal knowledge graph from the command line
+2026-10-15T21:55:32Z,zootella-ergo,0.1.0,zootella <zootella@zootella.com>,MIT,21198,"Simple, dependency-free helper functions, the same in JavaScript, Python, Rust, and Go."
+2026-10-15T21:57:49Z,tan-cli,0.7.0,Alp Lab AB,Apache-2.0,4366276,"The Alp Lab build CLI: one board.yaml to firmware, across MCU and MPU cores."
+2026-10-15T22:01:17Z,lua-virtualizer,1.0.0,Bartosz Wójcik <support@pelock.com>,Apache-2.0,47876,"Lua Virtualizer Web API interface can help you obfuscate and protect Lua .lua source code against analysis, reverse engineering and technology theft. Lua Virtualizer provides advanced Lua source code…"
+2026-10-15T22:04:14Z,cresschrom1,0.1.0,Anthony Aylward <anthony.aylward@protonmail.com>,,174243719,Small dataset of Arabidopsis chromosome 1
+2026-10-15T22:04:31Z,everbary,1.0.0,"""eVerbary, LLC"" <support@everbary.com>",MIT,10338,Python client for the eVerbary Order API: place and track USCIS-ready certified translations.
+2026-10-15T22:11:38Z,chvideo,0.1.0,,MIT,76479,Download music videos and sync them to Clone Hero songs automatically
+2026-10-15T22:12:15Z,gridfinity-rebase,0.1.0,,MIT,2344667,"Fast, validated Gridfinity STL foot replacement"
+2026-10-15T22:12:54Z,vidova-platform,0.1.0,Vidova,MIT,15438,Vidova Platform API client: render films and motion graphics from code.
+2026-10-15T22:14:38Z,netbox-checkmk-sync,0.0.1,Christian Wirtz <doc@snowheaven.de>,Apache-2.0,12878,"NetBox plugin that creates, changes and deletes hosts in Checkmk from NetBox (in development)"
+2026-10-15T22:15:25Z,emutrust,0.1.0,Muhammad Qurban <mianqurban525@gmail.com>,MIT,50310,"Neural network emulators for slow scientific models, with calibrated uncertainty you can trust in Bayesian inference."
+2026-10-15T22:16:15Z,cefont,1.0.0,Akhilesh Gollapudi,MIT,22088,Turn TTF/OTF fonts into FontLibC fonts for the TI-84 Plus CE
+2026-10-15T22:17:11Z,agent-evidence-vocabulary,0.4.0,Sankalp Gilda,Apache-2.0 AND CC0-1.0,22878,Versioned terms for claims about agent execution evidence
+2026-10-15T22:20:04Z,rvtkit,0.2.0,Badi Hamid <badi.hamid@gmail.com>,MIT,16196960,Pythonic wrapper for the Autodesk Revit API (2025-2027) on CPython 3.12 + pythonnet
