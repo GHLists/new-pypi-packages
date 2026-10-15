@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T11:18:08Z,biodivine-sys,0.1.0,Sybila,MIT,15313680,Native extension of the Biodivine Python bindings. Install `biodivine` instead.
+2026-10-15T11:18:59Z,station-player,0.1.0,Raby Whyte <rabywhyte@gmail.com>,"MIT License Copyright (c) 2025-2026 Raby Whyte Permission is hereby granted, free of charge, to any…",64560,Local music and radio player for station-studio playlists
+2026-10-15T11:19:43Z,retp,0.2.0,Geosiris,Apache-2.0,373683359,"An ETP v1.2 client for Python, over retp: sessions, dataspaces, EnergyML objects and data arrays"
+2026-10-15T11:20:54Z,pytest-jira-xray-plus,0.1.0a1,Lukasz Fundakowski <fundakol@yahoo.com>,Apache-2.0,74233,Offline pytest case and attempt reporting with an optional Jira Xray comment fallback
+2026-10-15T11:21:03Z,anytomd,1.3.1,damvolkov <damvolkovv@gmail.com>,,2486911,Any document to clean Markdown — thin Python binding of the pure-Rust anytomd-rs engine.
+2026-10-15T11:21:39Z,northnoir,1.0.0,North Noir,Proprietary,1260704,"Local CLI for making AI-drawn videos with your own AI coding agent — check and render scene.html with headless Chromium and ffmpeg. No API keys, no account."
+2026-10-15T11:21:57Z,scythe-hermes-plugin,0.20.0,,MIT,23499,"Generate typed database access code from SQL, configure drivers, lint and format queries. Skills only; install the Scythe CLI separately."
+2026-10-15T11:24:27Z,uncomment-hermes-plugin,3.10.3,,MIT,8810,"Inventory, preserve and remove source comments with AST parsing. Skills only; install the Uncomment CLI separately."
+2026-10-15T11:24:36Z,py-serverless-kit,0.1.1,Asif Khan @ Kavion.ai,MIT,390819,"Write a Python serverless function once and deploy it to AWS, Azure, GCP and 7 more clouds with one YAML file, powered by Terraform."
+2026-10-15T11:24:38Z,rwa-sdk,0.0.1,,MIT,2408,Official Python SDK for Tokenized Real World Assets (RWA)
+2026-10-15T11:25:16Z,polars-iceberg,0.1.0,,MIT,9377325,Native Iceberg scan planning plugin for Polars (dependency of the polars package)
+2026-10-15T11:25:24Z,poly-hermes-plugin,0.29.0,,MIT,25758,"Zero-dependency lint & format orchestrator over MCP — one pure-Rust binary wrapping ruff/oxc/taplo/rumdl and more as in-process backends, plus a tree-sitter generic tier for everything else. Exposes…"
+2026-10-15T11:29:22Z,spikard-hermes-plugin,0.17.2,,MIT,13657,"Generate HTTP applications, schema handlers and fixtures using Spikard's local CLI and MCP server."
+2026-10-15T11:34:06Z,eyalsec-mcp,0.1.0,EyalSec <support@eyalsec.com>,MIT,34850,"MCP server for reading your EyalSec security events, machines, runs and rules from an AI assistant."
+2026-10-15T11:34:21Z,acadsharp,0.1.0,Wiesław Šoltés,MIT,2051701,"Complete ACadSharp CAD object model for Python, with managed and native backends"
+2026-10-15T11:34:24Z,acadsharp-native,0.1.0,Wiesław Šoltés,MIT,23106070,Self-contained NativeAOT shared library for the acadsharp Python package
+2026-10-15T11:37:17Z,uv-test-123,0.1.0,libowen,,2467,Add your description here
+2026-10-15T11:38:54Z,kpipeliner,1.12.1,,,499652,kpipeliner (kpl) is a node-based pipeline manager.
+2026-10-15T11:39:48Z,lazyalembic,0.1.0,Muhammad Bilal,MIT,48865,"A terminal UI for Alembic migrations: the chain as a graph, what your database has applied, and which steps are risky on MySQL."
+2026-10-15T11:46:30Z,obsei-teams,0.1.0,,Apache-2.0,12120,Post matching obsei feedback to a Microsoft Teams channel as Adaptive Cards.
+2026-10-15T11:47:38Z,sea_level_response,1.0.0,DTC-IS consortium,MIT,83698,DTC-IS module to calculate sea-level changes arising from water mass inputs to the oceans.
+2026-10-15T11:50:54Z,docwright-ai-toolkit,1.0.0,YukiiMin,BSL-1.1,6330474,The AI-Native Office & Diagram Toolkit Plugin for AI Agents
+2026-10-15T11:51:58Z,chab3,0.1.0,,MIT,94631,"ChaCha20-Blake3 AEAD boxes, counter-nonce channels, and a fast CSPRNG — everything supports in-place operation into caller buffers"
+2026-10-15T11:53:20Z,github-activity-graph-populator,1.0.0,Evgeny Kolyakov <thenetfreaker@gmail.com>,,34052,A fun tool to populate GitHub activity graph the way you like or make it look super busy :)
+2026-10-15T11:53:25Z,mangono-odoo-clevercloud-compat,1.0.0,,,76408,
+2026-10-15T11:54:37Z,polarobi,0.1.0,,,679731,"Build gurobipy models from polars frames, passing Arrow memory straight to Gurobi's C API."
+2026-10-15T11:55:30Z,napari-kavel,1.0.0,Kavel <support@kavel.ai>,MIT,8905,"Generate an AI image from a prompt with Kavel and add it to napari as an image layer. Free tier, no API key needed."
+2026-10-15T11:57:02Z,kidlat,0.1.0a1,JoshLei,,5415,A Python web framework
+2026-10-15T11:57:22Z,trainlab-optimize,0.5.2,Alpesh Sonar <alpeshsonar@trainlab.ai>,Apache-2.0,566559,"Find and prove LLM cost savings in your codebase. Scan code, import usage, record calls per line, test cheaper models on real inputs."
+2026-10-15T11:59:01Z,langchain-agent-hints,0.1.0,evan7ang,MIT,49043,"Per-request serving-intent hints (X-Agent-Hint) and out-of-band agent status events, as LangChain agent middleware."
+2026-10-15T12:00:18Z,mcp-server1,0.1.0,,,2387,Add your description here
+2026-10-15T12:00:58Z,iaexplore-llm-profiler,1.0.0,IAExplore AI Infrastructure Research <engineering@iaexplore.com>,MIT,25470,"Deterministic high-precision VRAM, GQA KV-Cache, MoE Memory Bandwidth, and llama.cpp layer offloading profiler for 2026 AI models and silicon."
+2026-10-15T12:02:41Z,gh-download-embedai,0.1.0,"""embedai.com.cn"" <zishuowang696@gmail.com>",MIT,16700,"China-friendly GitHub Release downloader: multi-mirror parallel ranged download + sha256, zero external binaries (no aria2/curl/gh/jq). By embedai.com.cn"
+2026-10-15T12:02:52Z,fluss-monty,1.0.0,jhnnsrs <jhnnsrs@gmail.com>,GPL-3.0-or-later,57008,Check and run flows written as Python source in a Monty sandbox: the core fluss and its server share
+2026-10-15T12:02:55Z,jevreel,0.1.0,Madhav Gupta,MIT,106270,"Zero-embedding video intelligence: contact sheets + Jev typed decisions, as tools for any coding agent."
+2026-10-15T12:04:13Z,agentloop-experiment-sdk,0.1.0,,Apache-2.0,74448,Lightweight AgentLoop offline experiment SDK
+2026-10-15T12:05:48Z,latex-docx,0.1.0,Ivan Sukach,MIT,94156,"LaTeX and Markdown to DOCX or PPTX, with TD-J layout, OMML math, and DOCX diff"
+2026-10-15T12:07:37Z,db-apimatic-sdk,0.0.1,Muhammad Rafay,MIT,747478,Sample SDKs for DB by APIMatic
+2026-10-15T12:09:50Z,dobiss-nxt-client,0.1.0,,Apache-2.0,20805,Asynchronous client for the documented Dobiss NXT REST API
+2026-10-15T12:10:15Z,hola-harness,0.0.1,k98kurz <k98kurz@gmail.com>,LicenseRef-Pycelium-Reciprocal-License,155566,Extensible Ollama Harness for Robust Local Agents
+2026-10-15T12:13:36Z,entropass,0.1.0,Kwabena Sasu-Boakye <kwabenasasuboakye@gmail.com>,MIT AND CC-BY-4.0,151184,"Password and passphrase generator that reports its strength honestly, in bits."
+2026-10-15T12:17:47Z,mistralai-capabilities-feature-observability,0.1.28,,Apache-2.0,11414,Telemetry dependencies for the Mistral Apps Observability capability.
+2026-10-15T12:17:56Z,biodrug-intelligence,1.0.0,,,66148,A local pharmacogenomics evidence research workbench
+2026-10-15T12:19:55Z,devsync-ai,0.0.1,DevSync,,2121,Name reservation for DevSync (devsync.ai): a neutral command surface for AI coding agents. Under development.

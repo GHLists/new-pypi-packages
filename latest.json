@@ -1,37 +1,31 @@
 {
   "list": {
     "count": 44,
-    "from": "2026-10-15T10:19:49.511427Z",
-    "path": "data/new-packages-2026-10-15T11-19-42-568505Z.csv",
-    "to": "2026-10-15T11:19:42.568505Z"
+    "from": "2026-10-15T11:19:42.568505Z",
+    "path": "data/new-packages-2026-10-15T12-20-25-520848Z.csv",
+    "to": "2026-10-15T12:20:25.520848Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-15T08:35:27Z",
       "package": "binary-decimal-conversions",
       "since": "2026-10-15T08:20:15.770547Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-15T11:18:08Z",
-      "package": "biodivine-sys",
-      "since": "2026-10-15T10:19:49.511427Z"
+      "created_at": "2026-10-15T12:00:37Z",
+      "package": "odoo-addon-pos-customer-required",
+      "since": "2026-10-15T11:19:42.568505Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-15T09:54:40Z",
       "package": "polyllm-ollama",
       "since": "2026-10-15T09:22:43.507267Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-15T11:18:59Z",
-      "package": "station-player",
-      "since": "2026-10-15T10:19:49.511427Z"
     }
   ],
-  "serial": 42270772,
+  "serial": 42272984,
   "source_truncated": false,
-  "window": "2026-10-15T11:19:42.568505Z"
+  "window": "2026-10-15T12:20:25.520848Z"
 }
