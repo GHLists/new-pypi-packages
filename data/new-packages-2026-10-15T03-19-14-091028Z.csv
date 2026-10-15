@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T02:19:57Z,radroots,0.0.0,Tyson Lupul <tyson@radroots.org>,MIT OR Apache-2.0,639816,Python FFI library for Radroots.
+2026-10-15T02:24:49Z,mogent,0.1.0,malhusse,,2169,Python SDK for Mogent (early placeholder release)
+2026-10-15T02:25:24Z,gato-mpc,0.1.1,"Alexander Du, Emre Adabag, Gabriel Bravo, Brian Plancher",MIT,24641766,GPU-accelerated batched trajectory optimization
+2026-10-15T02:26:24Z,skillpack-cli,0.1.0,Lucas Bertolini,MIT,50449,A proof-of-concept CLI for managing AI agent skills
+2026-10-15T02:27:57Z,pathapi,0.1.0,Jose A,MIT,900838,Generic Path Protocol based pathlib
+2026-10-15T02:28:28Z,psdm,0.1.0,Matt Zuo,MIT,787815,Pore and Surface Diffusion Model (PSDM) for fixed-bed granular activated carbon adsorbers
+2026-10-15T02:32:19Z,uj-capdpy,0.5.0,Przemysław Szewczak,GPL-3.0-only,113541191,Python bindings for the CAPD library
+2026-10-15T02:32:22Z,verzi,0.1.0,Verzi Health <adrian@verzi.io>,MIT,7237,"Verzi Health: Medicare DME coverage on the date of service, with receipts. A small client for the public code check and the MCP config."
+2026-10-15T02:33:33Z,aigora,0.13.1,,,1665980,LLM-agent market experiment framework
+2026-10-15T02:36:43Z,antchain-antdigital-datacollection,1.0.1,Ant Chain SDK,Apache License 2.0,13829,Ant Chain DATACOLLECTION SDK Library for Python
+2026-10-15T02:37:42Z,coatinglab-mcp,0.1.0,Khoa Hoang,MIT,2169731,"An MCP server that gives game gun models real surface finishes: a sourced finish library, coating variants per material slot, wear baked from where use wears a gun, and checks that hold both to the e…"
+2026-10-15T02:38:38Z,snakemake-executor-plugin-shared-local,0.1.3,ymq,MIT,139877,A Snakemake executor plugin that coordinates multiple local Snakemake instances sharing one machine.
+2026-10-15T02:39:28Z,void-os,0.1.0,,Apache-2.0,126591,
+2026-10-15T02:45:17Z,seren-symposium,5.1.0,Chad Roesler,AGPL-3.0-or-later,439518,"Desktop front door for the Seren stack - chat, plus every service's viewer in one window."
+2026-10-15T02:51:36Z,Adafruit-Blinka-Raspberry-Pi-PWM,1.0.1,Melissa LeBlanc-Williams,MIT,55575,Experimental CircuitPython-compatible Raspberry Pi PWM backends
+2026-10-15T02:57:17Z,specstream-haystack,0.1.1,SpecStream <support@specstream.ai>,MIT,21372,"Give a Haystack pipeline or agent lead lists, company lists and grants from the live web. Every row comes with its source, priced per match in code."
+2026-10-15T02:59:48Z,tinydbjoin,0.1.0,Ferdina Kusumah,MIT,16728,"Join TinyDB tables in memory, across databases and storages."
+2026-10-15T03:01:25Z,libero-pro-benchmark-assets-5,0.1.0,,MIT,142558112,"Bundled LIBERO and LIBERO-PRO model resources, part 5 of 5"
+2026-10-15T03:02:56Z,libero-pro-benchmark,0.1.0,,MIT,10349298,Standalone NumPy-based LIBERO and LIBERO-PRO simulation benchmark
+2026-10-15T03:10:09Z,ai-inference,0.2.1,,MIT,466748,Pipeline-based model inference SDK with a transport-independent engine boundary
+2026-10-15T03:10:59Z,engiscope,0.1.0,Abhayankar Bellur <abhayankar@example.com>,MIT,133850,Software Engineering Metrics & Intelligence CLI (ISWE402L)
+2026-10-15T03:11:33Z,agentinfer,0.2.0,,,626217,
+2026-10-15T03:12:12Z,maxwell-bloch-studio,10.0.0,Vahid Anari <vahid.anari8@gmail.com>,MIT,3253000,Desktop app for simulating and fitting Maxwell-Bloch models of astrophysical maser light curves
+2026-10-15T03:12:43Z,omnimd,1.0.1,Junwei Zuo <zjw010519@gmail.com>,MIT,116310,把任意文件转成 LLM 可用的 Markdown——正文、图片公开链接与图片转写文本齐全，图片里的信息同样可看、可检索
+2026-10-15T03:18:48Z,pathapi-requests,0.1.0,Jose A,MIT,45942,"The requests HTTP transport for pathapi: your own requests.Session, ~/.netrc, REQUESTS_CA_BUNDLE and SOCKS proxies"

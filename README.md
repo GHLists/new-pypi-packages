@@ -8,45 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 02:19 UTC
+## Latest list — 2026-10-15 03:19 UTC
 
-New packages created between 2026-10-15 01:19 UTC and 2026-10-15 02:19 UTC.
+New packages created between 2026-10-15 02:19 UTC and 2026-10-15 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-15T02-19-53-069061Z.csv)
+[Full CSV](data/new-packages-2026-10-15T03-19-14-091028Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-15 01:20:54 | [styled-scriptures](https://pypi.org/project/styled-scriptures/) | 0.21 |  | 1.1 MB | Psalms and Parashot, typeset by Reuben Institute as poetry and narrative prose… |
-| 2026-10-15 01:20:56 | [styled-scriptures-web](https://pypi.org/project/styled-scriptures-web/) | 0.21 |  | 27.3 kB | Web viewer for Reuben Institute's styled scripture text |
-| 2026-10-15 01:27:55 | [tsgettoolbox-ldas](https://pypi.org/project/tsgettoolbox-ldas/) | 27.0.0 | Tim Cera <tim@cerazone.net> | 44.4 kB | Plugin for tsgettoolbox to retrieve data from the Land Data Assimmilation Syste… |
-| 2026-10-15 01:28:26 | [fontpkg-antic-slab](https://pypi.org/project/fontpkg-antic-slab/) | 1.2 |  | 25.1 kB | Antic Slab font family, packaged for Python by fontpkg |
-| 2026-10-15 01:28:28 | [fontpkg-amiri](https://pypi.org/project/fontpkg-amiri/) | 1.2 |  | 830.7 kB | Amiri font family, packaged for Python by fontpkg |
-| 2026-10-15 01:28:30 | [fontpkg-rethink-sans](https://pypi.org/project/fontpkg-rethink-sans/) | 1.1 |  | 130.3 kB | Rethink Sans font family, packaged for Python by fontpkg |
-| 2026-10-15 01:28:33 | [fontpkg-literata](https://pypi.org/project/fontpkg-literata/) | 3.103 |  | 1.0 MB | Literata font family, packaged for Python by fontpkg |
-| 2026-10-15 01:31:01 | [verknode](https://pypi.org/project/verknode/) | 0.0.1 | Shin Wachi <shinwachi@gmail.c… | 3.0 kB | Visual node-based workflow editor for JupyterLab (placeholder release) |
-| 2026-10-15 01:33:55 | [depfix-ai](https://pypi.org/project/depfix-ai/) | 0.2.0 | Tohir Saidzoda | 941.9 kB | AI-powered automatic fixing of breaking dependency changes. |
-| 2026-10-15 01:34:29 | [huella](https://pypi.org/project/huella/) | 0.0.1 | Samuil Petrov | 116.5 kB | Open-source Verifactu core: record formatting, huella (SHA-256 chain hash), XML… |
-| 2026-10-15 01:36:30 | [nexalayer](https://pypi.org/project/nexalayer/) | 0.1.0 | NexaLayer | 18.5 kB | NexaLayer SDK — The Network Execution Layer for AI Agents |
-| 2026-10-15 01:38:07 | [aksvm](https://pypi.org/project/aksvm/) | 0.1.0 | Wanbitching Eric Wansouwé | 39.4 kB | Associated-kernel support vector machines: PSD kernels from Beta, Gamma and dis… |
-| 2026-10-15 01:40:13 | [wewu](https://pypi.org/project/wewu/) | 0.0.1 | Mars Ausili <mars@cruxia.ai> | 3.2 kB | Reserved name held by Cruxia-Labs. Contains no implementation; installing it do… |
-| 2026-10-15 01:40:47 | [taskproof](https://pypi.org/project/taskproof/) | 0.3.0 | HaoHaoP <HaoHaoP@HaoHaoP.com> | 3.1 MB | A conveyor belt for AI coding agents: dispatch, independently verify, record. |
-| 2026-10-15 01:41:13 | [skills-manager-cli](https://pypi.org/project/skills-manager-cli/) | 0.1.0 |  | 925.4 kB | A CLI to handle agent skills |
-| 2026-10-15 01:43:56 | [deploynator](https://pypi.org/project/deploynator/) | 1.1.5 | Gris Iscomeback | 107.5 kB | Multi-platform deployer for GitHub, GitLab, and Bitbucket |
-| 2026-10-15 01:44:09 | [tsgettoolbox-metdata](https://pypi.org/project/tsgettoolbox-metdata/) | 27.0.0 | Tim Cera <tim@cerazone.net> | 21.3 kB | Plugin for tsgettoolbox to retrieve time series data from Metdata. |
-| 2026-10-15 01:46:43 | [impersonation-detector](https://pypi.org/project/impersonation-detector/) | 0.2.0 | Sochima Ezema | 839.1 kB | Detect lookalike domains, spoofed senders, and brand/support-team impersonation… |
-| 2026-10-15 01:47:08 | [alpaca2](https://pypi.org/project/alpaca2/) | 1.0.2 |  | 67.9 kB | Libraries for ALPACA 2.0 - NB2420 Electronic Instrumentation |
-| 2026-10-15 01:47:11 | [port49](https://pypi.org/project/port49/) | 0.0.0a0 |  | 2.8 kB | Placeholder for the port49 Python client (TACACS+ identity for network automati… |
-| 2026-10-15 01:49:02 | [alpaca2-stubs](https://pypi.org/project/alpaca2-stubs/) | 1.0.2 |  | 13.6 kB | Stub files for ALPACA 2.0 for NB2420 Electronic Instrumentation course of TU De… |
-| 2026-10-15 01:49:24 | [polydisc](https://pypi.org/project/polydisc/) | 0.4.0 | Mirza Arnaut | 105.4 kB | Polydisperse Poisson-disc sampling for discs and spheres |
-| 2026-10-15 01:54:14 | [awesomeplasmatray](https://pypi.org/project/awesomeplasmatray/) | 0.0.2 |  | 40.1 kB | Displays the awesome tiling mode in the KDE Plasma tray |
-| 2026-10-15 01:55:21 | [paleopy](https://pypi.org/project/paleopy/) | 0.1.0 | Danielle Sicotte, Alex Moorho… | 175.5 kB | Radiocarbon-dating and paleodemography analysis pipeline (p3k14c) |
-| 2026-10-15 01:57:47 | [lumina-svg-core](https://pypi.org/project/lumina-svg-core/) | 0.3.2 | Lumina Layer Studio | 12.6 MB | Print-oriented native SVG geometry analysis |
-| 2026-10-15 01:58:49 | [cozy-counter](https://pypi.org/project/cozy-counter/) | 1.0 | Nathaniel Poor | 38.7 kB | Counts cozy and nostalgic words in a text. |
-| 2026-10-15 02:03:27 | [rurex](https://pypi.org/project/rurex/) | 0.0.1 |  | 2.8 kB | Python bindings to Rust's regex crate - placeholder release reserving the name;… |
-| 2026-10-15 02:07:50 | [uj-capdpy](https://pypi.org/project/uj-capdpy/) | 0.4.0 |  | 91.4 MB | CAPD Python bindings |
-| 2026-10-15 02:09:55 | [mbsolver](https://pypi.org/project/mbsolver/) | 0.2.0 | Vahid Anari <vahid.anari8@gma… | 23.9 kB | Fast Maxwell-Bloch solvers for masers, superradiance and coherent pulse propaga… |
-| 2026-10-15 02:11:07 | [vlei](https://pypi.org/project/vlei/) | 1.0.4 | Samuel M. Smith | 36.7 kB | Verifiable Legal Entity Identifier |
-| 2026-10-15 02:11:51 | [jev-graph-builder](https://pypi.org/project/jev-graph-builder/) | 0.1.0 | Greg Havens | 783.4 kB | Jev-decided, harness-enriched, resumable vector property graph over PostgreSQL… |
-| 2026-10-15 02:13:04 | [disp-xr](https://pypi.org/project/disp-xr/) | 0.5.0 | Marin Govorcin <marin.govorci… | 6.2 MB | OPERA DISP xarray tools |
-| 2026-10-15 02:14:07 | [tabella-docs](https://pypi.org/project/tabella-docs/) | 2.0.1 | D Yiapanis <d@yiapanis.co> | 42.9 kB | Portable document lifecycle suite — create (.docx/.xlsx/.pptx/.pdf/.odt/.ods/.o… |
-| 2026-10-15 02:15:38 | [omnimd](https://pypi.org/project/omnimd/) | 1.0.0 | Junwei Zuo <zjw010519@gmail.c… | 115.5 kB | 把任意文件转成 LLM 可用的 Markdown——正文、图片公开链接与图片转写文本齐全，图片里的信息同样可看、可检索 |
+| 2026-10-15 02:19:57 | [radroots](https://pypi.org/project/radroots/) | 0.0.0 | Tyson Lupul <tyson@radroots.o… | 639.8 kB | Python FFI library for Radroots. |
+| 2026-10-15 02:24:49 | [mogent](https://pypi.org/project/mogent/) | 0.1.0 | malhusse | 2.2 kB | Python SDK for Mogent (early placeholder release) |
+| 2026-10-15 02:25:24 | [gato-mpc](https://pypi.org/project/gato-mpc/) | 0.1.1 | Alexander Du, Emre Adabag, Ga… | 24.6 MB | GPU-accelerated batched trajectory optimization |
+| 2026-10-15 02:26:24 | [skillpack-cli](https://pypi.org/project/skillpack-cli/) | 0.1.0 | Lucas Bertolini | 50.4 kB | A proof-of-concept CLI for managing AI agent skills |
+| 2026-10-15 02:27:57 | [pathapi](https://pypi.org/project/pathapi/) | 0.1.0 | Jose A | 900.8 kB | Generic Path Protocol based pathlib |
+| 2026-10-15 02:28:28 | [psdm](https://pypi.org/project/psdm/) | 0.1.0 | Matt Zuo | 787.8 kB | Pore and Surface Diffusion Model (PSDM) for fixed-bed granular activated carbon… |
+| 2026-10-15 02:32:19 | [uj-capdpy](https://pypi.org/project/uj-capdpy/) | 0.5.0 | Przemysław Szewczak | 113.5 MB | Python bindings for the CAPD library |
+| 2026-10-15 02:32:22 | [verzi](https://pypi.org/project/verzi/) | 0.1.0 | Verzi Health <adrian@verzi.io> | 7.2 kB | Verzi Health: Medicare DME coverage on the date of service, with receipts. A sm… |
+| 2026-10-15 02:33:33 | [aigora](https://pypi.org/project/aigora/) | 0.13.1 |  | 1.7 MB | LLM-agent market experiment framework |
+| 2026-10-15 02:36:43 | [antchain-antdigital-datacollection](https://pypi.org/project/antchain-antdigital-datacollection/) | 1.0.1 | Ant Chain SDK | 13.8 kB | Ant Chain DATACOLLECTION SDK Library for Python |
+| 2026-10-15 02:37:42 | [coatinglab-mcp](https://pypi.org/project/coatinglab-mcp/) | 0.1.0 | Khoa Hoang | 2.2 MB | An MCP server that gives game gun models real surface finishes: a sourced finis… |
+| 2026-10-15 02:38:38 | [snakemake-executor-plugin-shared-local](https://pypi.org/project/snakemake-executor-plugin-shared-local/) | 0.1.3 | ymq | 139.9 kB | A Snakemake executor plugin that coordinates multiple local Snakemake instances… |
+| 2026-10-15 02:39:28 | [void-os](https://pypi.org/project/void-os/) | 0.1.0 |  | 126.6 kB |  |
+| 2026-10-15 02:45:17 | [seren-symposium](https://pypi.org/project/seren-symposium/) | 5.1.0 | Chad Roesler | 439.5 kB | Desktop front door for the Seren stack - chat, plus every service's viewer in o… |
+| 2026-10-15 02:51:36 | [Adafruit-Blinka-Raspberry-Pi-PWM](https://pypi.org/project/Adafruit-Blinka-Raspberry-Pi-PWM/) | 1.0.1 | Melissa LeBlanc-Williams | 55.6 kB | Experimental CircuitPython-compatible Raspberry Pi PWM backends |
+| 2026-10-15 02:57:17 | [specstream-haystack](https://pypi.org/project/specstream-haystack/) | 0.1.1 | SpecStream <support@specstrea… | 21.4 kB | Give a Haystack pipeline or agent lead lists, company lists and grants from the… |
+| 2026-10-15 02:59:48 | [tinydbjoin](https://pypi.org/project/tinydbjoin/) | 0.1.0 | Ferdina Kusumah | 16.7 kB | Join TinyDB tables in memory, across databases and storages. |
+| 2026-10-15 03:01:25 | [libero-pro-benchmark-assets-5](https://pypi.org/project/libero-pro-benchmark-assets-5/) | 0.1.0 |  | 142.6 MB | Bundled LIBERO and LIBERO-PRO model resources, part 5 of 5 |
+| 2026-10-15 03:02:56 | [libero-pro-benchmark](https://pypi.org/project/libero-pro-benchmark/) | 0.1.0 |  | 10.3 MB | Standalone NumPy-based LIBERO and LIBERO-PRO simulation benchmark |
+| 2026-10-15 03:10:09 | [ai-inference](https://pypi.org/project/ai-inference/) | 0.2.1 |  | 466.7 kB | Pipeline-based model inference SDK with a transport-independent engine boundary |
+| 2026-10-15 03:10:59 | [engiscope](https://pypi.org/project/engiscope/) | 0.1.0 | Abhayankar Bellur <abhayankar… | 133.8 kB | Software Engineering Metrics & Intelligence CLI (ISWE402L) |
+| 2026-10-15 03:11:33 | [agentinfer](https://pypi.org/project/agentinfer/) | 0.2.0 |  | 626.2 kB |  |
+| 2026-10-15 03:12:12 | [maxwell-bloch-studio](https://pypi.org/project/maxwell-bloch-studio/) | 10.0.0 | Vahid Anari <vahid.anari8@gma… | 3.3 MB | Desktop app for simulating and fitting Maxwell-Bloch models of astrophysical ma… |
+| 2026-10-15 03:12:43 | [omnimd](https://pypi.org/project/omnimd/) | 1.0.1 | Junwei Zuo <zjw010519@gmail.c… | 116.3 kB | 把任意文件转成 LLM 可用的 Markdown——正文、图片公开链接与图片转写文本齐全，图片里的信息同样可看、可检索 |
+| 2026-10-15 03:18:48 | [pathapi-requests](https://pypi.org/project/pathapi-requests/) | 0.1.0 | Jose A | 45.9 kB | The requests HTTP transport for pathapi: your own requests.Session, ~/.netrc, R… |
