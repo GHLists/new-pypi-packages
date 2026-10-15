@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T12:24:02Z,ciaonovel,0.0.1,,AGPL-3.0-or-later,32015,"CiaoNovel da terminale: scrivi, leggi e gioca con i tuoi romanzi."
+2026-10-15T12:28:12Z,knut,2026.10.3,,MIT,15038951,"Fast access to OpenStreetMap history in knut databases, and the knut query language"
+2026-10-15T12:28:44Z,enact-compliance,0.1.2,,,1930343,"The Enact enforcement package: registry rows, checks, verdicts."
+2026-10-15T12:29:21Z,etims,0.1.0a1,MutaiT,MIT,108526,Open-source Python client for KRA eTIMS (OSCU): register items and sign invoices and credit notes directly with the Kenya Revenue Authority.
+2026-10-15T12:30:07Z,aps-kernel,0.0.1,APS Contributors,MIT,8654,"Metis (谋序) — deterministic CP-SAT scheduling kernel, independent schedule validator, and headless CLI — APS standard edition"
+2026-10-15T12:32:25Z,robo-watson,0.1.0,"Lorenzo Magnino <lorenzo.magnino@gmail.com>, Antonio Terpin <aterpin@ethz.ch>, Francesco Banelli <f…",MIT,223738,"Robotics logging, bag storage and experiment retrieval"
+2026-10-15T12:33:00Z,graphlay,0.2.1,,MIT OR Apache-2.0,7712125,"Deterministic layered graph layout, tidy trees and SVG rendering, in Rust"
+2026-10-15T12:34:28Z,gnd-wikidata-resolver,0.1.1,Gentiana Rashiti <gentiana.rashiti@library.ethz.ch>,MIT,24601,Resolve Wikidata Q-IDs to GND IDs and classify items with multiple GND IDs
+2026-10-15T12:35:08Z,sceptre-hermes-plugin,0.8.0,,MIT,14222,Local OCR with CRAFT detection and multilingual CRNN recognition.
+2026-10-15T12:35:16Z,simulusion,1.0.0,Param Thakkar,MIT,958364,A Modular Pytorch Based library for training world models
+2026-10-15T12:36:49Z,recall-bench,0.2.1,Akshat Balyan,MIT,780842,Zero-shot long-range recall benchmark for genomic language models
+2026-10-15T12:38:22Z,android-mcp-lite,0.1.2,ouchi-dev,MIT,18456,Let Claude see and drive an Android phone over adb (MCP server)
+2026-10-15T12:38:25Z,pdfforge-pro,1.2.2,ouchi-dev,AGPL-3.0-or-later,963847,"Professional PDF editor for Linux, with an MCP server that lets AI assistants edit, OCR, redact and convert PDFs locally"
+2026-10-15T12:38:28Z,quran-mcp,0.1.1,ouchi-dev,MIT,24548,"Quran, hadith and prayer times for Claude and other AI assistants (MCP server)"
+2026-10-15T12:41:46Z,fruitfly4,0.1.0,Anthony Aylward <anthony.aylward@protonmail.com>,,14982414,Small dataset of fruit fly chromosome 4
+2026-10-15T12:42:10Z,yumeclient,0.1.6,,MIT,118629839,Async Python facade for bogdanfinn/tls-client
+2026-10-15T12:45:25Z,sphragis,1.0.0,Pasquale Ruotolo,GPL-3.0-or-later,267781,Cryptographic clone-detection engine for NXP NTAG 424 DNA (SUN/SDM)
+2026-10-15T12:57:41Z,pyhtml2text,0.1.0,Jared Lynskey <jared@lynskey.co.nz>,MIT,18392728,"Fast HTML to plain text, with relative link resolution (Python bindings to rust-html2text)"
+2026-10-15T12:58:15Z,gravit-verifier-client,0.2.0,,Apache-2.0,9311,"Client for the hosted Gravit Verifier API, with offline verification of signed receipts and exports"
+2026-10-15T13:00:58Z,binance-sdk-cms,1.0.0,Binance,MIT,17944,Official Binance Cms Connector - A lightweight library that provides a convenient interface to Binance's Cms REST API and WebSocket Streams.
+2026-10-15T13:01:42Z,kinopub-history,0.1.0,smoke0leg,MIT,70840,"Выгрузка своей истории просмотров kinopub: фильмы, серии, «Я смотрю», закладки — в JSON, CSV, Letterboxd, Trakt"
+2026-10-15T13:03:24Z,learnstat,0.1.0,,MIT,59184,"An AI-assisted learning companion for statistical analysis with pandas, NumPy, SciPy and Matplotlib."
+2026-10-15T13:04:40Z,supernova-lang,0.1.0,Supernova,Apache-2.0,1612199,Deterministic multilingual language detection by Supernova
+2026-10-15T13:05:07Z,quarb-calc,0.38.1,Bojan Đuričković,MIT OR Apache-2.0,23306459,"qc, the Quarb calculator, prebuilt: the value grammar, the value space (scalars, lists, records, typed tables) and the value commands as one command, with every adapter off"
+2026-10-15T13:05:51Z,tsgettoolbox-ndbc,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,25432,Plugin for tsgettoolbox to retrieve time series data from the National Data Buoy Center (NDBC).
+2026-10-15T13:06:20Z,django-object-preferences,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,36724,"Preferences stored on any Django model instance, declared with forms"
+2026-10-15T13:07:10Z,BeddrokClient,2.0.3,Alexander Koutakis,GPL-3.0,11668,Client for interacting with Beddrok
+2026-10-15T13:09:33Z,wagtail-visual-editor,0.1.1,Eric Kersten <eric.kersten@egodesign.io>,MIT,57923,Visual editor for headless Wagtail: edit a StreamField on top of your frontend's live preview.
+2026-10-15T13:10:03Z,ray-qdrant,0.1.1,Qdrant Team,Apache-2.0,28053,Write Ray datasets to Qdrant in parallel
+2026-10-15T13:10:15Z,seamm-md-analysis,2026.10.14,Paul Saxe <psaxe@molssi.org>,BSD-3-Clause,84338,"Analysis of molecular dynamics output for SEAMM: time-series statistics, correlation functions, Green-Kubo and Helfand transport coefficients, and trajectory readers"
+2026-10-15T13:10:30Z,moin-skynetA11y-pdf-remediation,1.0.0,Skynet Technologies USA LLC,BSD,147941,"Upload, scan and AI-remediate PDFs for accessibility (WCAG/PDF-UA) compliance."
+2026-10-15T13:10:35Z,counterfix,0.0.1,Shubham Kansadwala,MIT,26547,Find why an LLM call failed and get a fix that was tested to work.
+2026-10-15T13:11:12Z,pathology-Belov-eshkere,1.0.1,,,2659,Библиотека для определения папки скрипта
+2026-10-15T13:14:45Z,mosalib,0.1.0,,"BSD 3-Clause License Copyright (c) 2026, MOSA contributors Redistribution and use in source and bin…",230189,Generative Multi-Omics Data Integration
