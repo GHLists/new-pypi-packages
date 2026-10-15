@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-10-14T23:19:09.896912Z",
-    "path": "data/new-packages-2026-10-15T00-19-08-032554Z.csv",
-    "to": "2026-10-15T00:19:08.032554Z"
+    "count": 29,
+    "from": "2026-10-15T00:19:08.032554Z",
+    "path": "data/new-packages-2026-10-15T01-19-23-635177Z.csv",
+    "to": "2026-10-15T01:19:23.635177Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-14T23:26:20Z",
       "package": "Spacelab",
       "since": "2026-10-14T23:19:09.896912Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-14T21:34:19Z",
       "package": "cgr-graph-rs",
       "since": "2026-10-14T21:19:51.554581Z"
     }
   ],
-  "serial": 42250652,
+  "serial": 42252008,
   "source_truncated": false,
-  "window": "2026-10-15T00:19:08.032554Z"
+  "window": "2026-10-15T01:19:23.635177Z"
 }

@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T00:19:37Z,torchisotonic,0.1.0,Lena Barretta,MIT,82077,"Batched isotonic regression for PyTorch tensors, fast on GPU."
+2026-10-15T00:31:50Z,cuemodo,0.0.1,,MIT,2827,"Open-source show control: light, sound, video (early development)"
+2026-10-15T00:36:57Z,grade-client,1.2.0,Xia Binbin,MIT,293942,GRADE: GPCR-peptide ranking with Cloud and optional local inference
+2026-10-15T00:38:09Z,tinyharness-lm,0.1.0,Anuj Dutt,Apache-2.0,3329884,"A small, readable coding agent for your terminal, and a Python SDK to build your own: tools, permissions, skills, subagents and context management, for any major model provider."
+2026-10-15T00:41:22Z,ovos-switchboard-pipeline-plugin,1.0.0,Oscillate Labs <mike@oscillatelabs.net>,Apache-2.0,280299,"An OVOS intent pipeline: deterministic exact matches, a small classifier, an LLM with manifest-derived tools, and silence when speech wasn't meant for the assistant"
+2026-10-15T00:41:27Z,ovos-skill-doublecheck,1.0.0,Oscillate Labs <mike@oscillatelabs.net>,Apache-2.0,119230,"An OVOS skill that asks before running a high-risk request Switchboard held, and runs it only on a clear yes"
+2026-10-15T00:41:28Z,ovos-skill-hangup,1.0.0,Oscillate Labs <mike@oscillatelabs.net>,Apache-2.0,101457,"An OVOS skill that silently absorbs utterances Switchboard declines, logging each decline and speaking nothing"
+2026-10-15T00:41:36Z,interpies-lite,0.1.1,Yantao XI <xyt556@gmail.com>,"BSD 3-Clause License Copyright (c) 2026, interpies-lite contributors All rights reserved. Redistrib…",9648042,"Lightweight reimplementation of interpies: potential-field grid transforms and plotting (derivatives, ISVD, upward continuation, edge enhancement)."
+2026-10-15T00:44:21Z,desktidy,1.4.1,Di Filippo Davide,GPL-3.0-or-later,603818,"Keeps Downloads, Desktop and Documents tidy on Windows, macOS and Linux: understands what each file is about, renames it and files it in the right folder - offline first, with a free or paid AI (Groq…"
+2026-10-15T00:44:45Z,yhatlabs,0.1.1,YHat Labs <founders@yhatlabs.com>,Apache-2.0,271977,The official Python library for the YHat Labs time-series and tabular foundation models.
+2026-10-15T00:48:49Z,web-checkin,1.1.0,S-GGbond,MIT,306583,WorkBuddy / Trae / Qoder 多账号签到与用量查询的本地 Web 中枢
+2026-10-15T00:48:59Z,pygfmc,0.1.0,Robin Schaefer,Apache-2.0,423180,JAX-based Green's Function Monte Carlo for quantum lattice models
+2026-10-15T00:49:10Z,topicsleuth,0.1.0,Dachary Carey <dc@dacharycarey.com>,MIT,283632,"Topic detection and tracking over a stream of documents: link each item to a topic or open a new one, keep the evidence, and measure how topics move."
+2026-10-15T00:49:28Z,runall,0.1.0,Roberto Fernandes Tavares Neto,MIT,52214,Run functions registered by @runthat decorator with a set of progress bars.
+2026-10-15T00:49:40Z,packetfabric-mcp,0.2.1,PacketFabric,MPL-2.0,357587,MCP server for the PacketFabric NaaS API
+2026-10-15T00:52:53Z,backplane-tracecheck,0.2.0,Backplane Robotics LLC,Apache-2.0,304671,"Check robot recordings (MCAP) against an explicit, versioned recording contract."
+2026-10-15T00:54:38Z,testinghq,1.0.0,Saifullah Khan <saifullah4khan@gmail.com>,MIT,624948,"Fuzz, load-test and verify your inbound email webhook. Catches lost, duplicated, mis-threaded and looped mail that a 200 OK hides."
+2026-10-15T00:58:25Z,asp-fzn,0.3.0,"Tobias Geibinger <tobias.geibinger@tuwien.ac.at>, Thomas Eiter <thomas.eiter@tuwien.ac.at>, Tobias…",,5235157,asp-fzn: A tool that enables solving ASP programs via FlatZinc solvers
+2026-10-15T00:59:56Z,brainforge-inference-utils,0.0.1a1,NeonGecko,AGPL-3.0-only,47276,Pluggable request/response pipelines for BrainForge LLM inference
+2026-10-15T01:03:05Z,tsgettoolbox-hydstra,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,26952,Plugin for tsgettoolbox to retrieve time series data from Hydstra web services.
+2026-10-15T01:03:09Z,hilspy,0.2.0,Masaya Kataoka <ms.kataoka@gmail.com>,Apache-2.0,4065167,"HILS I/O for Python on a Rust core: CAN/CAN FD over SocketCAN (vcan) or an in-process virtual bus, DBC encoding, and Septentrio Binary Format (SBF) parsing"
+2026-10-15T01:08:34Z,nvueschema,0.1.0,,MIT,2271985,NVUE Pydantic models and optional Go-backed configuration validation
+2026-10-15T01:08:37Z,nvueschema-binary,0.1.0,,MIT,20570495,Native nvueschema CLI and Go validation backend
+2026-10-15T01:08:50Z,kelvinzero,0.1.0,"Kyle Cooper, Yanni Nikas",MIT,1911309,Eclipse-minimising sun-synchronous orbits in a mean-Sun rotating frame: the model and the visualizer behind the Kelvin Zero paper.
+2026-10-15T01:11:09Z,reubeninstitute-brand,0.6,,,741673,"Common brand assets (CSS, design system, logo) for Reuben Institute projects"
+2026-10-15T01:11:38Z,agent-work-layer,0.1.0,Probita,Apache-2.0,24086,Work Orders and Work Reports for AI agents: Pydantic models and the spec's validation rules.
+2026-10-15T01:12:48Z,rapidxlsx,0.1.0,Amin Fathullah <amin_fathullah@yahoo.com>,MIT,322310,High-performance parallel Excel (XLSX) spreadsheet writer
+2026-10-15T01:13:35Z,3dworld,0.1.0,siwpan,"MIT License Copyright (c) 2026 siwpan Permission is hereby granted, free of charge, to any person o…",1281546,程序化优先、确定性、可 headless 验证的纯 Python 3D 场景/动画引擎（零外部素材）
+2026-10-15T01:15:42Z,qcref,0.3.0,Colton Hicks <github@coltonhicks.com>,"The MIT License (MIT) Copyright (c) 2025 Colton Hicks Permission is hereby granted, free of charge,…",195631,"Lightweight, dependency-free chemistry reference data (CODATA constants, periodic table, solvents) where every value carries its source."
