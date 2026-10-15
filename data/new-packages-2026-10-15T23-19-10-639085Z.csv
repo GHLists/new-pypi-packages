@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T22:23:01Z,browser-stealth,0.1.1,Chu4hel,MIT,352623,"Next-generation browser antidetect, human-like behavior emulation (WindMouse), and profile warmer for Playwright, nodriver, and Selenium."
+2026-10-15T22:23:45Z,pycaptcha-hub,0.1.0,Chu4hel,MIT,32084,"Universal async and sync Python client for popular captcha solving services (RuCaptcha/2Captcha, Anti-Captcha, CapMonster, GeeTest, ReCaptcha Enterprise)."
+2026-10-15T22:23:52Z,langchain-agentsearch,0.1.0,,MIT,17612,"LangChain tools for AgentSearch: free live web search, plus pay-per-call extract and JS render ($0.005 USDC on Base via x402)"
+2026-10-15T22:27:03Z,backstage-agents,3.3.0,Khal,,86521,"Backstage Agents SDK — conversas, custo e eventos de agentes Python para o Backstage"
+2026-10-15T22:28:24Z,alembra,0.1.0,Victor Gomes,,38334,
+2026-10-15T22:30:17Z,nudge-policy,0.1.0,,MIT,302309,Interpretable contextual-bandit learning from questions and action feedback
+2026-10-15T22:33:54Z,loom-torch,0.1.0,Anshul Verma,MIT,22450,"Offline PyTorch model loops: train, evaluate, predict, batch inference."
+2026-10-15T22:34:07Z,loudness-tts,0.1.1,Asad Shehzad <asad@loudness.ai>,GPL-3.0-or-later,219788,"Fast, natural text to speech on your own computer or server: 1,683 ranked Piper voices, smart text reading, subtitles, loudness normalization and an OpenAI-compatible server. No API key."
+2026-10-15T22:35:38Z,translatorio-sdk,1.0.0,Edu Lazaro,MIT,69414,The official Python client for the Translatorio translation API.
+2026-10-15T22:39:12Z,agent-evidence-observer,0.0.1,Sankalp Gilda,Apache-2.0,402446,Record brokered agent writes and check selected native reports offline
+2026-10-15T22:42:47Z,bamsolve,0.1.0,,MIT,6167,"Predict photonic circuits with AI: fields, S-parameters and n_eff from a GDS in about a second."
+2026-10-15T22:53:33Z,exp-runtime-creator,0.6.0,,"MIT License Copyright (c) 2025 Josh Mcdaniel Permission is hereby granted, free of charge, to any p…",158700,Visual desktop episode creator and native EXP compiler for EXP Runtime
+2026-10-15T22:54:44Z,gh-release-mcp,0.1.1,"""embedai.com.cn"" <zishuowang696@gmail.com>",MIT,14100,"MCP server to list and download GitHub release assets — multi-mirror parallel ranged download, zero external binaries (no aria2/curl/gh/jq). By embedai.com.cn"
+2026-10-15T22:58:16Z,ctranslate2-reborn,4.8.3.post1,Blair Chintella,MIT,656014126,"Unofficial fork of CTranslate2, a fast inference engine for Transformer models"
+2026-10-15T23:04:53Z,aether-cache,0.1.0,Anish Chugh,,138423,Shared memory for AI coding tools that stays true to your code.
+2026-10-15T23:09:40Z,huestep,1.0.0,,MIT,9230,RGB colors and smooth text gradients for the Python terminal.
+2026-10-15T23:13:26Z,fake-py-cloudpathlib-storage,0.1.0,Artur Barseghyan,MIT,46338,cloudpathlib storage for fake.py
+2026-10-15T23:13:33Z,code-guardian-mcp,0.2.0,LuminariSoftwares,MIT,249773,"Is this codebase safe to run, will it work, and is it complete? Deterministic Safe, Works and Complete scores with an A-F grade, from static analysis only; the code is never run."
