@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T08:12:18Z,odoo-addon-pos-barcode-block,18.0.1.0.0.2,"APSL - Nagarro, Odoo Community Association (OCA)",AGPL-3,24611,Block the POS when an unknown barcode is scanned
+2026-10-15T08:21:23Z,wagtail-seeder,1.0.0,Four Digits,BSD-3-Clause,86789,Safe development-data seeding for Wagtail projects.
+2026-10-15T08:22:07Z,litestar-events,0.1.0,Hasan Sezer Taşan <hasansezertasan@gmail.com>,MIT,153440,Event Emitter Backends for Litestar.
+2026-10-15T08:24:58Z,sima-tseries,0.1.0,"""David E. Guerrero"" <davidesg@ucm.es>",GPL-2.0-or-later,424062,sima — the MCP assistant for simultaneous VARMA models on the ATSW ladder (engine: drvarma)
+2026-10-15T08:28:11Z,hylogic,1.0.0,Marko Manninen <elonmedia@gmail.com>,MIT,76170,"Propositional and first-order logic in Hy: truth tables, arguments, models and a resolution prover"
+2026-10-15T08:35:07Z,promises-yaml,0.1.1,Will Pope,MIT,58039,"Declare the cross-repo contracts your repos share, with a meaning and an invariant each, and lint them."
+2026-10-15T08:40:53Z,rezult,0.1.1,Sequence,,6483,Add your description here
+2026-10-15T08:41:41Z,cerilog,0.1.1,R0mba-Na11avan,MIT,59472,A C-flavored HDL that transpiles to SystemVerilog or Verilog-2005
+2026-10-15T08:45:42Z,eary-start-llama,0.1.1,Ashitaka-Laputa-IV,MIT,34357,Manage local llama.cpp model servers with a JSON manifest and an interactive TUI.
+2026-10-15T08:46:29Z,pyfenixcontrol,0.1.0,Stanislav Likavčan <likavcan@gmail.com>,MIT,39723,Asynchronous Python client for the FENIX Control cloud API (FENIX TFT WiFi thermostats).
+2026-10-15T08:46:58Z,voices-az,0.1.0,Learning Machine <salam@learningmachine.az>,MIT,129541,"Official Python client for the Voices.az API: text-to-speech, speech-to-text and video dubbing."
+2026-10-15T08:51:56Z,studip-router,0.2.1,Noah Bomers,MIT,372143,"Sync Stud.IP course files into your own folder structure, with per-course routing and renaming rules."
+2026-10-15T08:58:18Z,zendure,0.1.0,Zendure,Apache-2.0,231540,"Async local-network client for Zendure energy devices over the zenSDK HTTP protocol (no cloud, no app token)."
+2026-10-15T08:58:54Z,benchset,0.0.2,Evgeniy Blinov <zheni-b@yandex.ru>,,1164286,Sustained scalar CPU benchmarks with an embeddable Rust core
+2026-10-15T09:02:32Z,confeature-client,0.0.0,MakerLabs,MIT,3650,Name reserved for the Confeature Python SDK (ConfigCat-compatible). The first real release is coming; do not depend on 0.0.0.
+2026-10-15T09:05:36Z,cabalspy-id,0.5.1,CabalSpy <contact@cabalspy.xyz>,MIT,134526,"SocialFi API & SDK for CabalSpy ID — add a social layer to any app: login with X + verified wallets, live trades and PnL of your users, token theses, leaderboards and copy trading on Solana, BNB Chai…"
+2026-10-15T09:06:08Z,yuchi,0.0.1,,,812,Reserved.
+2026-10-15T09:06:22Z,socialfi-api,0.5.0,CabalSpy <contact@cabalspy.xyz>,MIT,7638,"SocialFi API — add a social layer to any app: login with X + verified wallets, live trades and PnL of your users, leaderboards and copy trading on Solana, BNB Chain, Base, Ethereum and Robinhood Chai…"
+2026-10-15T09:06:24Z,crewai-twitterapi-io,0.1.0,"""TwitterAPI.io"" <hello@twitterapi.io>",MIT,11929,CrewAI tools for reading X (Twitter) data through the TwitterAPI.io REST API: tweet search and user profiles with recent tweets.
+2026-10-15T09:06:25Z,socialfi-thesis,0.5.0,CabalSpy <contact@cabalspy.xyz>,MIT,7495,"SocialFi token theses — holders-only opinions on a token with the author's real position and live PnL, replies, reactions and a drop-in thesis widget for any crypto app. By CabalSpy ID."
+2026-10-15T09:06:27Z,caishi,0.0.1,,,822,Reserved.
+2026-10-15T09:06:34Z,chinese-agent-pack,0.0.1,,,848,Reserved.
+2026-10-15T09:09:40Z,cryobalance,0.1.0,Krishna Kant Gupta <krishnakant.gupta@gmail.com>,,7735,Regularized spherical harmonic orientation balancing for single-particle cryo-EM
+2026-10-15T09:10:47Z,eu-ai-act-classifier,0.2.0,Sebastian Förste,MIT,1698430,Deterministic EU AI Act (Reg (EU) 2024/1689) risk-tier and obligation classifier with pinpoint citations and a lawyer review gate.
+2026-10-15T09:10:51Z,micar-whitepaper-linter,0.2.0,Sebastian Förste,"MIT License Copyright (c) 2026 Sebastian Förste Permission is hereby granted, free of charge, to an…",472835,Deterministic first-pass linter for MiCAR crypto-asset white paper drafts.
+2026-10-15T09:13:05Z,labharness,0.1.0,AIAYN-creator,MIT,280762,Local-first Data-to-Paper harness: raw lab data to publication-ready LaTeX figures.
+2026-10-15T09:13:23Z,konexp,0.1.0,Marco,GPL-3.0-or-later,156176,"Linux-Konfiguration für die ROCCAT Kone XP (DPI, Sensor, Beleuchtung, Tasten)"
+2026-10-15T09:13:37Z,eu-reg-mcp,0.1.0,Sebastian Förste,MIT,58144,"MCP server giving AI agents cited, review-gated grounding in EU regulation: ESMA MiCAR register search, register change tracking, white paper linting, EU AI Act classification."
+2026-10-15T09:15:04Z,dots-agent,0.1.0,,MIT,120765,"常驻主动式 agent —— 给一个目标,它自己在后台推"
+2026-10-15T09:16:09Z,present-day,0.14.0,Ruslan Tiahniienko,Apache-2.0,511060,"Tamper-evident signed memory, provenance and trust for AI agents"
+2026-10-15T09:17:46Z,es-python,1.0.0,EyalSec <support@eyalsec.com>,Copyright (c) 2026 EyalSec. All rights reserved. This notice package is published by EyalSec so tha…,7530,"es-python is the EyalSec Python runtime, installed from your EyalSec dashboard, not from pip. This package points you to it."
+2026-10-15T09:20:11Z,eyalsec,1.0.0,EyalSec <support@eyalsec.com>,Copyright (c) 2026 EyalSec. All rights reserved. This notice package is published by EyalSec so tha…,7658,"EyalSec makes es-python, a Python runtime that reports or blocks attacker-controlled data reaching risky operations. Installed from your EyalSec dashboard, not from pip."
