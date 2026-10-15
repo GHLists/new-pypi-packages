@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T03:22:51Z,cobie-agent,0.1.0,Xitiz mgr,,14143,Your local AI coding agent
+2026-10-15T03:24:55Z,lanczos-triton,0.1.0,,MIT,685890,Antialiased separable Lanczos image resizing in Triton
+2026-10-15T03:25:00Z,bm3d-triton,0.1.1,BM3D Triton contributors,BSD-2-Clause,4296764,"GPU BM3D image denoising with PyTorch and Triton, without a compiled CUDA extension"
+2026-10-15T03:25:28Z,colortransfer-triton,0.1.0,,MIT,76984991,"GPU color transfer without pretrained weights: AdaIN, wavelet, OT and ColorFM-O"
+2026-10-15T03:30:30Z,odoo-addon-l10n-py-libros,20.0.1.0.0.5,"KMEE, Odoo Community Association (OCA)",LGPL-3,70812,Registro de comprobantes Ventas/Compras/Ingresos/Egresos (DNIT)
+2026-10-15T03:30:32Z,odoo-addon-l10n-py-maquila-ops,19.0.1.0.0.5,"KMEE, Odoo Community Association (OCA)",AGPL-3,66717,"Temporary admission, export, guarantees and fiscal ops for Maquila"
+2026-10-15T03:30:39Z,odoo-addon-l10n-py-maquila-report,19.0.1.0.0.4,"KMEE, Odoo Community Association (OCA)",AGPL-3,36524,"CNIME reports, dashboard, SIFEN extension, and SIMEX for Maquila"
+2026-10-15T03:39:43Z,airflow-provider-inbound-webhooks,0.1.0,Dheeraj Turaga,Apache-2.0,151745,"Inbound webhooks for Apache Airflow: deliveries from GitHub, GitLab, Jira and other services become asset events"
+2026-10-15T03:43:49Z,peft-kt,0.18.1,The HuggingFace team,Apache,557030,KT-compatible build of Hugging Face PEFT 0.18.1
+2026-10-15T03:44:00Z,trl-kt,0.24.0,Leandro von Werra <leandro.vonwerra@gmail.com>,Apache-2.0,423204,KT-compatible build of Hugging Face TRL 0.24.0.
+2026-10-15T03:44:12Z,llamafactory-kt,0.9.6.dev0,hiyouga <hiyouga@buaa.edu.cn>,Apache-2.0,590557,Unified Efficient Fine-Tuning of 100+ LLMs
+2026-10-15T03:48:12Z,powermonitor-hvpm,0.1.0,XuNeo,MIT,170146,Offline-first Monsoon HVPM desktop capture and analysis
+2026-10-15T03:49:04Z,forge-worker-sdk,0.0.12,Organizyio <opensource@organizy.io>,Apache-2.0,18111,"Organizyio Forge — Python worker IPC SDK (framing, server runtime, job registry, dispatcher)."
+2026-10-15T03:50:02Z,matplotlibpd,0.1.0,matplotlibpd contributors,MIT,9391,A small package containing the Pgm6 label and example statistical programs.
+2026-10-15T03:56:07Z,awdiscord,0.2.1,,Apache-2.0,159136,"Put any agent on Discord as a real bot - slash commands, approval buttons only your operators can press, rate limits, and no self-bots."
+2026-10-15T03:57:36Z,mylab-theme,0.1.0,Afonso Lucas <ifonso.developer@gmail.com>,BSD-3-Clause,1552635,A JupyterLab minimalist theme based on RStudio and Datalore.
+2026-10-15T03:58:06Z,azsnapshot-explorer,0.2.0,,MIT,173279,"Evidence-grounded, offline Azure snapshot exploration over stdio MCP"
+2026-10-15T03:59:17Z,zm-ai,1.0.0,ZM AI Team,,84940,大模型+语音封装包，包含语音识别、语音合成、大模型对话功能
+2026-10-15T04:00:29Z,open-ready,0.1.0,Socraticblock,MIT,403585,"Private-first project care and release-candidate preparation: inspect, prepare and verify a private Git repository for public release without shipping secrets or its development history."
+2026-10-15T04:01:02Z,turno,0.1.0,Paulo Martins,MIT,245367,"Runs the Codex CLI and Claude Code unattended on your repositories, inside your subscription quota, with a local web panel."
+2026-10-15T04:02:23Z,sentry-v2,0.1.0,,AGPL-3.0-or-later,198396,"Correlates PSI, journal failures and SELinux denials, and applies reversible remediation."
+2026-10-15T04:06:18Z,datashader-browser,0.1.0a2,Sumaiya Islam,BSD-3-Clause,397459,Bounded-memory Datashader pipelines for Python running in the browser
+2026-10-15T04:11:28Z,decide-anything,0.0.1,,Apache-2.0,10676,DecideAnything
+2026-10-15T04:15:00Z,modal-progress,0.1.0,Enes Yilmaz,MIT,31583,"Live progress from inside Modal containers, for people at a terminal and agents reading a log"
+2026-10-15T04:15:44Z,agentmesh-p2p,0.1.0rc10,,Apache-2.0,237360,Native SDK for joining an Agent Mesh from inside a Python agent process
+2026-10-15T04:18:21Z,tsgettoolbox-modis,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,49793,Plugin for tsgettoolbox to retrieve MODIS data from the LP DAAC Data Pool.
+2026-10-15T04:19:00Z,hypermotion,1.0.0,sayeeddesignerz-creator,MIT,194984,"Multi-Agent Autonomous Content Research, Scriptwriting, SEO & Facebook Growth Engine"

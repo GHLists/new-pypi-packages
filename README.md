@@ -8,36 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 03:19 UTC
+## Latest list — 2026-10-15 04:19 UTC
 
-New packages created between 2026-10-15 02:19 UTC and 2026-10-15 03:19 UTC.
+New packages created between 2026-10-15 03:19 UTC and 2026-10-15 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-15T03-19-14-091028Z.csv)
+[Full CSV](data/new-packages-2026-10-15T04-19-05-537662Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-15 02:19:57 | [radroots](https://pypi.org/project/radroots/) | 0.0.0 | Tyson Lupul <tyson@radroots.o… | 639.8 kB | Python FFI library for Radroots. |
-| 2026-10-15 02:24:49 | [mogent](https://pypi.org/project/mogent/) | 0.1.0 | malhusse | 2.2 kB | Python SDK for Mogent (early placeholder release) |
-| 2026-10-15 02:25:24 | [gato-mpc](https://pypi.org/project/gato-mpc/) | 0.1.1 | Alexander Du, Emre Adabag, Ga… | 24.6 MB | GPU-accelerated batched trajectory optimization |
-| 2026-10-15 02:26:24 | [skillpack-cli](https://pypi.org/project/skillpack-cli/) | 0.1.0 | Lucas Bertolini | 50.4 kB | A proof-of-concept CLI for managing AI agent skills |
-| 2026-10-15 02:27:57 | [pathapi](https://pypi.org/project/pathapi/) | 0.1.0 | Jose A | 900.8 kB | Generic Path Protocol based pathlib |
-| 2026-10-15 02:28:28 | [psdm](https://pypi.org/project/psdm/) | 0.1.0 | Matt Zuo | 787.8 kB | Pore and Surface Diffusion Model (PSDM) for fixed-bed granular activated carbon… |
-| 2026-10-15 02:32:19 | [uj-capdpy](https://pypi.org/project/uj-capdpy/) | 0.5.0 | Przemysław Szewczak | 113.5 MB | Python bindings for the CAPD library |
-| 2026-10-15 02:32:22 | [verzi](https://pypi.org/project/verzi/) | 0.1.0 | Verzi Health <adrian@verzi.io> | 7.2 kB | Verzi Health: Medicare DME coverage on the date of service, with receipts. A sm… |
-| 2026-10-15 02:33:33 | [aigora](https://pypi.org/project/aigora/) | 0.13.1 |  | 1.7 MB | LLM-agent market experiment framework |
-| 2026-10-15 02:36:43 | [antchain-antdigital-datacollection](https://pypi.org/project/antchain-antdigital-datacollection/) | 1.0.1 | Ant Chain SDK | 13.8 kB | Ant Chain DATACOLLECTION SDK Library for Python |
-| 2026-10-15 02:37:42 | [coatinglab-mcp](https://pypi.org/project/coatinglab-mcp/) | 0.1.0 | Khoa Hoang | 2.2 MB | An MCP server that gives game gun models real surface finishes: a sourced finis… |
-| 2026-10-15 02:38:38 | [snakemake-executor-plugin-shared-local](https://pypi.org/project/snakemake-executor-plugin-shared-local/) | 0.1.3 | ymq | 139.9 kB | A Snakemake executor plugin that coordinates multiple local Snakemake instances… |
-| 2026-10-15 02:39:28 | [void-os](https://pypi.org/project/void-os/) | 0.1.0 |  | 126.6 kB |  |
-| 2026-10-15 02:45:17 | [seren-symposium](https://pypi.org/project/seren-symposium/) | 5.1.0 | Chad Roesler | 439.5 kB | Desktop front door for the Seren stack - chat, plus every service's viewer in o… |
-| 2026-10-15 02:51:36 | [Adafruit-Blinka-Raspberry-Pi-PWM](https://pypi.org/project/Adafruit-Blinka-Raspberry-Pi-PWM/) | 1.0.1 | Melissa LeBlanc-Williams | 55.6 kB | Experimental CircuitPython-compatible Raspberry Pi PWM backends |
-| 2026-10-15 02:57:17 | [specstream-haystack](https://pypi.org/project/specstream-haystack/) | 0.1.1 | SpecStream <support@specstrea… | 21.4 kB | Give a Haystack pipeline or agent lead lists, company lists and grants from the… |
-| 2026-10-15 02:59:48 | [tinydbjoin](https://pypi.org/project/tinydbjoin/) | 0.1.0 | Ferdina Kusumah | 16.7 kB | Join TinyDB tables in memory, across databases and storages. |
-| 2026-10-15 03:01:25 | [libero-pro-benchmark-assets-5](https://pypi.org/project/libero-pro-benchmark-assets-5/) | 0.1.0 |  | 142.6 MB | Bundled LIBERO and LIBERO-PRO model resources, part 5 of 5 |
-| 2026-10-15 03:02:56 | [libero-pro-benchmark](https://pypi.org/project/libero-pro-benchmark/) | 0.1.0 |  | 10.3 MB | Standalone NumPy-based LIBERO and LIBERO-PRO simulation benchmark |
-| 2026-10-15 03:10:09 | [ai-inference](https://pypi.org/project/ai-inference/) | 0.2.1 |  | 466.7 kB | Pipeline-based model inference SDK with a transport-independent engine boundary |
-| 2026-10-15 03:10:59 | [engiscope](https://pypi.org/project/engiscope/) | 0.1.0 | Abhayankar Bellur <abhayankar… | 133.8 kB | Software Engineering Metrics & Intelligence CLI (ISWE402L) |
-| 2026-10-15 03:11:33 | [agentinfer](https://pypi.org/project/agentinfer/) | 0.2.0 |  | 626.2 kB |  |
-| 2026-10-15 03:12:12 | [maxwell-bloch-studio](https://pypi.org/project/maxwell-bloch-studio/) | 10.0.0 | Vahid Anari <vahid.anari8@gma… | 3.3 MB | Desktop app for simulating and fitting Maxwell-Bloch models of astrophysical ma… |
-| 2026-10-15 03:12:43 | [omnimd](https://pypi.org/project/omnimd/) | 1.0.1 | Junwei Zuo <zjw010519@gmail.c… | 116.3 kB | 把任意文件转成 LLM 可用的 Markdown——正文、图片公开链接与图片转写文本齐全，图片里的信息同样可看、可检索 |
-| 2026-10-15 03:18:48 | [pathapi-requests](https://pypi.org/project/pathapi-requests/) | 0.1.0 | Jose A | 45.9 kB | The requests HTTP transport for pathapi: your own requests.Session, ~/.netrc, R… |
+| 2026-10-15 03:22:51 | [cobie-agent](https://pypi.org/project/cobie-agent/) | 0.1.0 | Xitiz mgr | 14.1 kB | Your local AI coding agent |
+| 2026-10-15 03:24:55 | [lanczos-triton](https://pypi.org/project/lanczos-triton/) | 0.1.0 |  | 685.9 kB | Antialiased separable Lanczos image resizing in Triton |
+| 2026-10-15 03:25:00 | [bm3d-triton](https://pypi.org/project/bm3d-triton/) | 0.1.1 | BM3D Triton contributors | 4.3 MB | GPU BM3D image denoising with PyTorch and Triton, without a compiled CUDA exten… |
+| 2026-10-15 03:25:28 | [colortransfer-triton](https://pypi.org/project/colortransfer-triton/) | 0.1.0 |  | 77.0 MB | GPU color transfer without pretrained weights: AdaIN, wavelet, OT and ColorFM-O |
+| 2026-10-15 03:30:30 | [odoo-addon-l10n-py-libros](https://pypi.org/project/odoo-addon-l10n-py-libros/) | 20.0.1.0.0.5 | KMEE, Odoo Community Associat… | 70.8 kB | Registro de comprobantes Ventas/Compras/Ingresos/Egresos (DNIT) |
+| 2026-10-15 03:30:32 | [odoo-addon-l10n-py-maquila-ops](https://pypi.org/project/odoo-addon-l10n-py-maquila-ops/) | 19.0.1.0.0.5 | KMEE, Odoo Community Associat… | 66.7 kB | Temporary admission, export, guarantees and fiscal ops for Maquila |
+| 2026-10-15 03:30:39 | [odoo-addon-l10n-py-maquila-report](https://pypi.org/project/odoo-addon-l10n-py-maquila-report/) | 19.0.1.0.0.4 | KMEE, Odoo Community Associat… | 36.5 kB | CNIME reports, dashboard, SIFEN extension, and SIMEX for Maquila |
+| 2026-10-15 03:39:43 | [airflow-provider-inbound-webhooks](https://pypi.org/project/airflow-provider-inbound-webhooks/) | 0.1.0 | Dheeraj Turaga | 151.7 kB | Inbound webhooks for Apache Airflow: deliveries from GitHub, GitLab, Jira and o… |
+| 2026-10-15 03:43:49 | [peft-kt](https://pypi.org/project/peft-kt/) | 0.18.1 | The HuggingFace team | 557.0 kB | KT-compatible build of Hugging Face PEFT 0.18.1 |
+| 2026-10-15 03:44:00 | [trl-kt](https://pypi.org/project/trl-kt/) | 0.24.0 | Leandro von Werra <leandro.vo… | 423.2 kB | KT-compatible build of Hugging Face TRL 0.24.0. |
+| 2026-10-15 03:44:12 | [llamafactory-kt](https://pypi.org/project/llamafactory-kt/) | 0.9.6.dev0 | hiyouga <hiyouga@buaa.edu.cn> | 590.6 kB | Unified Efficient Fine-Tuning of 100+ LLMs |
+| 2026-10-15 03:48:12 | [powermonitor-hvpm](https://pypi.org/project/powermonitor-hvpm/) | 0.1.0 | XuNeo | 170.1 kB | Offline-first Monsoon HVPM desktop capture and analysis |
+| 2026-10-15 03:49:04 | [forge-worker-sdk](https://pypi.org/project/forge-worker-sdk/) | 0.0.12 | Organizyio <opensource@organi… | 18.1 kB | Organizyio Forge — Python worker IPC SDK (framing, server runtime, job registry… |
+| 2026-10-15 03:50:02 | [matplotlibpd](https://pypi.org/project/matplotlibpd/) | 0.1.0 | matplotlibpd contributors | 9.4 kB | A small package containing the Pgm6 label and example statistical programs. |
+| 2026-10-15 03:56:07 | [awdiscord](https://pypi.org/project/awdiscord/) | 0.2.1 |  | 159.1 kB | Put any agent on Discord as a real bot - slash commands, approval buttons only… |
+| 2026-10-15 03:57:36 | [mylab-theme](https://pypi.org/project/mylab-theme/) | 0.1.0 | Afonso Lucas <ifonso.develope… | 1.6 MB | A JupyterLab minimalist theme based on RStudio and Datalore. |
+| 2026-10-15 03:58:06 | [azsnapshot-explorer](https://pypi.org/project/azsnapshot-explorer/) | 0.2.0 |  | 173.3 kB | Evidence-grounded, offline Azure snapshot exploration over stdio MCP |
+| 2026-10-15 03:59:17 | [zm-ai](https://pypi.org/project/zm-ai/) | 1.0.0 | ZM AI Team | 84.9 kB | 大模型+语音封装包，包含语音识别、语音合成、大模型对话功能 |
+| 2026-10-15 04:00:29 | [open-ready](https://pypi.org/project/open-ready/) | 0.1.0 | Socraticblock | 403.6 kB | Private-first project care and release-candidate preparation: inspect, prepare… |
+| 2026-10-15 04:01:02 | [turno](https://pypi.org/project/turno/) | 0.1.0 | Paulo Martins | 245.4 kB | Runs the Codex CLI and Claude Code unattended on your repositories, inside your… |
+| 2026-10-15 04:02:23 | [sentry-v2](https://pypi.org/project/sentry-v2/) | 0.1.0 |  | 198.4 kB | Correlates PSI, journal failures and SELinux denials, and applies reversible re… |
+| 2026-10-15 04:06:18 | [datashader-browser](https://pypi.org/project/datashader-browser/) | 0.1.0a2 | Sumaiya Islam | 397.5 kB | Bounded-memory Datashader pipelines for Python running in the browser |
+| 2026-10-15 04:11:28 | [decide-anything](https://pypi.org/project/decide-anything/) | 0.0.1 |  | 10.7 kB | DecideAnything |
+| 2026-10-15 04:15:00 | [modal-progress](https://pypi.org/project/modal-progress/) | 0.1.0 | Enes Yilmaz | 31.6 kB | Live progress from inside Modal containers, for people at a terminal and agents… |
+| 2026-10-15 04:15:44 | [agentmesh-p2p](https://pypi.org/project/agentmesh-p2p/) | 0.1.0rc10 |  | 237.4 kB | Native SDK for joining an Agent Mesh from inside a Python agent process |
+| 2026-10-15 04:18:21 | [tsgettoolbox-modis](https://pypi.org/project/tsgettoolbox-modis/) | 27.0.0 | Tim Cera <tim@cerazone.net> | 49.8 kB | Plugin for tsgettoolbox to retrieve MODIS data from the LP DAAC Data Pool. |
+| 2026-10-15 04:19:00 | [hypermotion](https://pypi.org/project/hypermotion/) | 1.0.0 | sayeeddesignerz-creator | 195.0 kB | Multi-Agent Autonomous Content Research, Scriptwriting, SEO & Facebook Growth E… |
