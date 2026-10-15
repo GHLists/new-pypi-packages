@@ -1,31 +1,37 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-10-15T18:19:05.680674Z",
-    "path": "data/new-packages-2026-10-15T19-19-10-070809Z.csv",
-    "to": "2026-10-15T19:19:10.070809Z"
+    "count": 45,
+    "from": "2026-10-15T19:19:10.070809Z",
+    "path": "data/new-packages-2026-10-15T20-19-09-637124Z.csv",
+    "to": "2026-10-15T20:19:09.637124Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-15T18:41:02Z",
-      "package": "asnkitrt",
-      "since": "2026-10-15T18:19:05.680674Z"
+      "created_at": "2026-10-15T20:18:44Z",
+      "package": "altk-evolve-core",
+      "since": "2026-10-15T19:19:10.070809Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-15T19:19:05Z",
-      "package": "stablemate",
-      "since": "2026-10-15T18:19:05.680674Z"
+      "created_at": "2026-10-15T19:49:00Z",
+      "package": "maf-sandbox-mcp",
+      "since": "2026-10-15T19:19:10.070809Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-15T15:38:41Z",
-      "package": "stockiq",
-      "since": "2026-10-15T15:19:49.183096Z"
+      "attempts": 1,
+      "created_at": "2026-10-15T20:18:37Z",
+      "package": "openmm-cpp-forces",
+      "since": "2026-10-15T19:19:10.070809Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-15T19:31:58Z",
+      "package": "rustual",
+      "since": "2026-10-15T19:19:10.070809Z"
     }
   ],
-  "serial": 42290382,
+  "serial": 42292667,
   "source_truncated": false,
-  "window": "2026-10-15T19:19:10.070809Z"
+  "window": "2026-10-15T20:19:09.637124Z"
 }

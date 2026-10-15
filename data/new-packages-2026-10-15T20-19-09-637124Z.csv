@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T18:41:02Z,asnkitrt,1.0.1,xadaemon,MIT,230254,Encode and decode ASN.1 with compiled specifications
+2026-10-15T19:19:05Z,stablemate,0.1.1,Gabriel Côté,MIT,7718,"One install for the stablemate agent tools: the workhorse workflows, farrier and groom, at versions that work together."
+2026-10-15T19:20:09Z,izap,0.3.0,iZap <support@izap.ai>,MIT,314868,Python SDK for the iZap API
+2026-10-15T19:20:34Z,bid-deadline-check,0.1.0,IT Custom Solution,MIT,23064,"Extract deadlines (with timezone), page limits, forms and a compliance checklist from government solicitations. Rule-based, local, no LLM."
+2026-10-15T19:20:36Z,task-handoff-check,0.1.0,IT Custom Solution LLC,"MIT License Copyright (c) 2026 IT Custom Solution LLC Permission is hereby granted, free of charge,…",27409,Check structured task handoffs for missing and contradictory claims.
+2026-10-15T19:20:39Z,delivery-evidence-check,0.1.0,IT Custom Solution LLC,"MIT License Copyright (c) 2026 IT Custom Solution LLC Permission is hereby granted, free of charge,…",24000,Check SHA-256 integrity of explicitly listed local evidence files.
+2026-10-15T19:22:30Z,pyxpo-storage,0.1.0a1,Vishal Chaubey,MIT,18995,"Fast synchronous key-value storage for pyxpo apps (react-native-mmkv shape, AsyncStorage method names)."
+2026-10-15T19:29:27Z,evd-convert,0.0.1,Gavin Macaulay,,40089,Add your description here
+2026-10-15T19:29:33Z,asnkit-gen-python,1.0.1,xadaemon,Apache-2.0,28621,asnkit plugin that makes Python code with data classes from ASN.1
+2026-10-15T19:29:52Z,image-rs,0.2.1,Ralph Schlett,MIT,2211689,A binding for the image crate from the Rust ecosystem.
+2026-10-15T19:31:09Z,pyxpo-file-system,0.1.0a1,Vishal Chaubey,MIT,31851,"Files and folders for pyxpo apps: read, write, copy, move, list and download (expo-file-system shape)."
+2026-10-15T19:31:17Z,fjc-idb,0.0.2,Corey Rayburn Yung <coreyrayburnyung@gmail.com>,Apache Software License 2.0,227245,Makes using the FJC Integrated Database easier
+2026-10-15T19:32:49Z,getricky,0.1.0,Ricky <ricardo@getricky.ai>,MIT,40225,Official Python SDK for the Ricky REST API
+2026-10-15T19:32:50Z,starbem-agentic-integration,0.0.0,,,1668,"Reserva de nome. O pacote real e privado, da Starbem — este nao tem funcionalidade."
+2026-10-15T19:34:15Z,cc-progress,1.0.0,Rafael Pérez,MIT,54993,"Progress bars with count, elapsed time and ETA in the Claude Code status line."
+2026-10-15T19:34:22Z,antigravity-mcp,1.0.1,Haider Muhib,"MIT License Copyright (c) 2026 Haider Ali Tariq Permission is hereby granted, free of charge, to an…",62857,Model Context Protocol (MCP) server connecting Google Gemini to Antigravity IDE and workspace workflows.
+2026-10-15T19:35:32Z,squord.py,0.1.0,Squord,MIT,267635,"O SDK oficial do Squord para criar bots em Python: REST tipado, gateway em tempo real, comandos, interações e moderação."
+2026-10-15T19:35:42Z,pyxpo-secure-store,0.1.0a1,Vishal Chaubey,MIT,24153,Encrypted key-value storage for pyxpo apps: iOS Keychain and Android Keystore (expo-secure-store shape).
+2026-10-15T19:37:04Z,jev-harness-sdk,1.2.0,Aditya Kumar Singh,MIT,474235,"Test your AI coding-agent setup the way you test your code: guards, gates, compaction survival, reviewers."
+2026-10-15T19:37:25Z,torch-vn-algebra,1.0.0,"Irina Nikolaeva, Andrej Novikov",MIT,796392,"PyTorch library for block-diagonal matrices with symmetry sectors (Type I von Neumann algebras): Haar random unitaries, quantum states, channels, Lindblad dynamics, spin chains; batched on GPU"
+2026-10-15T19:38:07Z,rustual-py,0.3.0,,MIT,11257203,A Textual-compatible Python API backed by the rustual Rust engine
+2026-10-15T19:38:55Z,koebelt-link,1.0.0,Thomas Koebel <contact@koebelt.com>,MIT,48215,"Connect drones, robots and test rigs to the koebelt/dash app."
+2026-10-15T19:41:07Z,sqlite-graph-memory,0.3.0,Anton Dziatkovskii,"MIT License Copyright (c) 2026 Palo Alto AI Research Lab Permission is hereby granted, free of char…",92064,"Associative memory for LLM agents: Graph RAG over a folder of markdown notes, in one SQLite file, with no server to run."
+2026-10-15T19:41:44Z,pyxpo-image-picker,0.1.0a1,Vishal Chaubey,MIT,32215,Photo library picker for pyxpo apps (expo-image-picker shape).
+2026-10-15T19:45:17Z,pyxpo-image-manipulator,0.1.0a1,Vishal Chaubey,MIT,30697,"On-device image processing for pyxpo apps: info, crop, resize, convert, strip metadata, compress under a size."
+2026-10-15T19:48:01Z,repoharvester,0.2.1,,MIT,29003,Clone a git repo (or read a folder) and compile its text files into a single file
+2026-10-15T19:48:52Z,pyxpo-media-library,0.1.0a1,Vishal Chaubey,MIT,22868,Save files to the device photo library from pyxpo apps (expo-media-library shape).
+2026-10-15T19:49:29Z,ermis-voice,0.1.0a1,Ermis,MIT,46343,SDK Python da Ermis Voice API: crie sessões de voz e conduza a conversa pelo canal de controle.
+2026-10-15T19:49:40Z,lockwire,0.2.0,Shivansh,Apache-2.0,639590,The physical-assumption contract for robots: physics lockfile + preflight gate
+2026-10-15T19:50:44Z,scodoc-api,1.0.0,Raphaël Namur,,26522,Bibliothèque Python non officielle pour interagir avec l'API ScoDoc (passerelle Scodoc-Notes v7:2:3).
+2026-10-15T19:52:46Z,pyxpo-sharing,0.1.0a1,Vishal Chaubey,MIT,17693,System share sheet for pyxpo apps (react-native Share and expo-sharing shapes).
+2026-10-15T19:52:57Z,rotulo,0.1.0,Edgar Villarreal,OFL-1.1,123988,Monoline typeface generated from skeletons: strokes of lines and arcs expanded with a round pen.
+2026-10-15T19:55:18Z,odoo-addon-account-invoice-discount-amount,19.0.1.0.0.3,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,25357,Show the early payment discount amounts on invoices
+2026-10-15T19:55:50Z,viscosity-step,2026.10.15,Paul Saxe,BSD-3-Clause,339297,A SEAMM plug-in for Viscosity
+2026-10-15T19:56:56Z,pulumi-atlasauth,0.8.0,,Apache-2.0,195624,"A Pulumi package for managing Atlas authentication-platform resources (OAuth clients, SSO connections, resource servers, JWT templates, webhooks, roles, organizations, custom domains, sign-in page de…"
+2026-10-15T19:57:36Z,mpxnk-auth,2.0.0,meowthpxnk,MIT,33100,Multisession python authorisation library
+2026-10-15T20:02:08Z,converger-agent,0.1.0,AimTune,MIT,62057,"Agent SDK for Converger: serve every conversation of a channel over one Protocol v1 socket (turns, streaming, tool traces, GenUI, interrupts), with a LangChain / LangGraph adapter."
+2026-10-15T20:02:11Z,converger,0.1.0,AimTune,MIT,40824,"Server-side Python SDK for Converger: REST client (sync and async), Protocol v1 WebSocket client with resume, and webhook signature verification."
+2026-10-15T20:02:37Z,ml-lab-prep,0.1.0,,,3273492,"Practice and solved Jupyter notebooks for an ML lab exam: EDA, tuning, CV, PCA, significance tests."
+2026-10-15T20:06:34Z,ngrok-fastapi,0.1.0,,MIT OR Apache-2.0,20566,"Bring ngrok Traffic Policy, pooling, and binding config to FastAPI, via its own lifespan hook."
+2026-10-15T20:08:05Z,openroles,0.1.0,Aran Culleton,MIT,57498,"Every open role, straight from the employer's own ATS: Greenhouse, Lever, Ashby and Workday, with no key and no dependencies. CLI, Python API and MCP server."
+2026-10-15T20:08:09Z,her-sync,0.3.0,,,105615,"Linux-native Sync-Tool für Agent-Share-Filesysteme (BDE, Email, CalDAV)"
+2026-10-15T20:14:20Z,meegxer,0.1.0a4,"Thawirasm Jungrungrueang, TrimLAB, Prince of Songkla University",GPL-3.0-or-later,30181,"MeegXer, a user-friendly mixer for EEG processing: live and offline pipelines with audited built-in nodes (the sterile build: core, built-ins, GUI and CLI)."
+2026-10-15T20:14:40Z,acore-utils,0.1.2,David Mortensen <dmortens@cs.cmu.edu>,MIT,73521,Agent-based Comparative Reconstruction library.
+2026-10-15T20:18:24Z,meegxer-core,0.1.0a4,"Thawirasm Jungrungrueang, TrimLAB, Prince of Songkla University",GPL-3.0-or-later,152560,"Headless engine: graph, schedulers, plugin spec, I/O and control API (no GUI)."
