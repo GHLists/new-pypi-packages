@@ -8,41 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 23:19 UTC
+## Latest list — 2026-10-15 00:19 UTC
 
-New packages created between 2026-10-14 22:19 UTC and 2026-10-14 23:19 UTC.
+New packages created between 2026-10-14 23:19 UTC and 2026-10-15 00:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-14T23-19-09-896912Z.csv)
+[Full CSV](data/new-packages-2026-10-15T00-19-08-032554Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-14 22:20:52 | [frugal-llm](https://pypi.org/project/frugal-llm/) | 0.1.0 | Leke-Oduoye Erioluwa | 60.3 kB | Benchmark latency, throughput and cost of any OpenAI-compatible LLM endpoint. |
-| 2026-10-14 22:21:00 | [musicbrainz-helper](https://pypi.org/project/musicbrainz-helper/) | 0.4.0 |  | 127.2 kB | Ratings, genres, and catalog contributions to MusicBrainz |
-| 2026-10-14 22:21:04 | [sonicratings](https://pypi.org/project/sonicratings/) | 1.4.0 |  | 75.4 kB | Sync provider ratings to Navidrome and Subsonic libraries |
-| 2026-10-14 22:26:38 | [onestop-antibot](https://pypi.org/project/onestop-antibot/) | 0.1.0 | onestopantibot | 34.4 kB | OneStop Antibot SDK: generate Akamai, SBSD, Pixel, DataDome, Cloudflare and Kas… |
-| 2026-10-14 22:26:52 | [gadbad](https://pypi.org/project/gadbad/) | 1.0.0 | Kirtan Bhatt <kirtan11bhatt@g… | 48.4 kB | Kuch toh gadbad hai: static analysis for scam APKs spreading over WhatsApp in I… |
-| 2026-10-14 22:27:28 | [plynt](https://pypi.org/project/plynt/) | 0.11.0 | Erik Schaareman | 928.6 kB | Framework-agnostic Python library for building external HTTP API clients and se… |
-| 2026-10-14 22:33:21 | [scyllapy-tmp](https://pypi.org/project/scyllapy-tmp/) | 1.3.4 |  | 3.6 MB | Async scylla driver for python |
-| 2026-10-14 22:35:23 | [pulsarlm](https://pypi.org/project/pulsarlm/) | 0.1.0a1 |  | 8.6 MB | LLM inference engine with unbounded context. |
-| 2026-10-14 22:36:46 | [fastprox](https://pypi.org/project/fastprox/) | 0.1.0rc2 | David Villacís <david@villaci… | 1.5 MB | Exact proximal operators and projections with derivatives |
-| 2026-10-14 22:37:26 | [unboxr](https://pypi.org/project/unboxr/) | 0.1.0 | RοdοƖphе Dеȷеᴜnеѕ | 323.8 kB | Deterministic recursive archive extraction, standard library only. |
-| 2026-10-14 22:38:21 | [battery-data-steward](https://pypi.org/project/battery-data-steward/) | 0.4.0 | Battery Data Steward contribu… | 267.4 kB | Evidence-aware battery data inspection, quality assurance, and preprocessing. |
-| 2026-10-14 22:42:21 | [getpubip](https://pypi.org/project/getpubip/) | 0.1.0 |  | 3.1 kB | Get the public IP address |
-| 2026-10-14 22:46:55 | [socials-homes](https://pypi.org/project/socials-homes/) | 1.0.0 | Socials BV <hello@socials.hom… | 47.7 kB | Official Python SDK and CLI for the Socials Homes API: covered cities, plans an… |
-| 2026-10-14 22:47:53 | [et-ws](https://pypi.org/project/et-ws/) | 0.1.0 | John Vandenberg | 7.2 kB | Generated Pydantic models for the Edge Toolkit WS protocol |
-| 2026-10-14 22:47:56 | [edge-toolkit](https://pypi.org/project/edge-toolkit/) | 0.1.0 | John Vandenberg | 5.4 kB | A collection of utilities and common code for Edge Toolkit Python modules |
-| 2026-10-14 22:47:59 | [llama-index-tools-specstream](https://pypi.org/project/llama-index-tools-specstream/) | 0.1.0 | SpecStream <support@specstrea… | 24.2 kB | Give a LlamaIndex agent any list from the live web: ask in plain words, get eve… |
-| 2026-10-14 22:48:00 | [crewai-specstream](https://pypi.org/project/crewai-specstream/) | 0.1.0 | SpecStream <support@specstrea… | 24.6 kB | Give a CrewAI agent any list from the live web: ask in plain words, get every m… |
-| 2026-10-14 22:49:10 | [warderbox](https://pypi.org/project/warderbox/) | 0.3.0 | Ali Çelik <alicelik1980@gmail… | 397.8 kB | AI agent safety platform: rollback, cost control, circuit breakers, tracing, co… |
-| 2026-10-14 22:49:58 | [pysystemc](https://pypi.org/project/pysystemc/) | 0.2.1 | Amal Khailtash | 3.4 MB | SystemC Python Binding using cppyy |
-| 2026-10-14 22:50:12 | [rustedscithe](https://pypi.org/project/rustedscithe/) | 0.1.1 | RustedSciThe contributors | 20.7 MB | Python bindings for RustedSciThe symbolic and numerical computing |
-| 2026-10-14 22:50:33 | [providus-parse-tools](https://pypi.org/project/providus-parse-tools/) | 1.0.0 | Providus AI | 75.3 kB | providus-parse-tools: the document pipeline of providus-vl-mini, built on OpenD… |
-| 2026-10-14 22:52:57 | [brain-wiki](https://pypi.org/project/brain-wiki/) | 0.1.0.dev0 | brain-wiki contributors | 1.2 MB | A local-first second brain for AI agents, kept as plain Markdown that you own. |
-| 2026-10-14 22:57:48 | [enzan](https://pypi.org/project/enzan/) | 0.1.0 | VanL | 2.3 kB | Add your description here |
-| 2026-10-14 22:58:46 | [agent-money-primitives](https://pypi.org/project/agent-money-primitives/) | 1.0.0 |  | 27.8 kB | Money primitives, fee curves, and reference-bound paywalls for AI agents |
-| 2026-10-14 23:02:59 | [aurivis-simd](https://pypi.org/project/aurivis-simd/) | 0.1.0 | Aurivis | 12.9 MB | CPU feature detection, runtime SIMD dispatch and aligned memory for C++20 and P… |
-| 2026-10-14 23:10:30 | [hyper-vyper](https://pypi.org/project/hyper-vyper/) | 0.1.0 | CrowdCent | 68.3 kB | Vyper library for HyperEVM: HyperCore precompile reads, CoreWriter actions, uni… |
-| 2026-10-14 23:10:34 | [privacy-flow-inspector](https://pypi.org/project/privacy-flow-inspector/) | 0.1.1 | Sushant Nemade | 82.1 kB | Local privacy gate for recorded web traffic: which personal data leaves the bro… |
-| 2026-10-14 23:10:45 | [software-intake-gatekeeper](https://pypi.org/project/software-intake-gatekeeper/) | 0.2.1 | Sushant Nemade | 107.0 kB | Local, evidence-first intake checks for third-party apps and binaries: SBOM, kn… |
-| 2026-10-14 23:15:32 | [marocolor](https://pypi.org/project/marocolor/) | 1.0.0 | MarocoColor Dev | 4.2 kB | Enhanced color palette utilities for terminal UI |
-| 2026-10-14 23:17:38 | [sendermap](https://pypi.org/project/sendermap/) | 0.1.0 | Neil Anuskiewicz | 731.5 kB | Type a domain, see every service that sends email as it, with the public eviden… |
+| 2026-10-14 23:20:47 | [limelijourney-mcp](https://pypi.org/project/limelijourney-mcp/) | 0.1.0 | LimeliJourney | 56.7 kB | LimeliJourney MCP server — tenant-scoped tools over the key-authed PartnerApi /… |
+| 2026-10-14 23:27:48 | [pyloaderv](https://pypi.org/project/pyloaderv/) | 0.9.0 | meumeuh007 | 227.2 kB | Autocomplete and type stubs for PyloaderV (Python mods for GTA V), plus tools t… |
+| 2026-10-14 23:32:49 | [coralmap](https://pypi.org/project/coralmap/) | 0.0.0 | CoralMind | 2.6 kB | Placeholder. Reserved for the CoralMind Knowledge Library; not yet released. |
+| 2026-10-14 23:32:50 | [corallab](https://pypi.org/project/corallab/) | 0.0.0 | CoralMind | 2.6 kB | Placeholder. Reserved for a CoralMind project; not yet released. |
+| 2026-10-14 23:32:54 | [keel-context](https://pypi.org/project/keel-context/) | 0.2.1 | Angel Kürten <angel@angelkurt… | 727.9 kB | Context layer for AI agents in vertical SaaS: domain events in, a per-tenant bi… |
+| 2026-10-14 23:33:15 | [maxwell-bloch-solver](https://pypi.org/project/maxwell-bloch-solver/) | 9.0.0 | Vahid Anari <vahid.anari8@gma… | 3.2 MB | Desktop app for simulating and fitting Maxwell-Bloch models of astrophysical ma… |
+| 2026-10-14 23:35:29 | [plantcatalog](https://pypi.org/project/plantcatalog/) | 0.0.1 |  | 77.0 kB | Evidence-backed orchid curation and reviewable catalog updates |
+| 2026-10-14 23:39:09 | [openlab-research](https://pypi.org/project/openlab-research/) | 1.3.0 |  | 3.0 MB | A research framework you can trust: your coding agents run the research, openla… |
+| 2026-10-14 23:41:02 | [langchain-superpdf](https://pypi.org/project/langchain-superpdf/) | 0.1.1 | Arjun Prabhulal <arjun.prabhu… | 23.2 kB | LangChain document loader for superPDF AI: local PDFs as Markdown with tables,… |
+| 2026-10-14 23:41:20 | [llm-tools-shodo](https://pypi.org/project/llm-tools-shodo/) | 0.1 | Iqbal Abdullah | 24.4 kB | Proofread Japanese text with the Shodo AI proofreading API |
+| 2026-10-14 23:41:48 | [baby-llm](https://pypi.org/project/baby-llm/) | 0.1.0 | Baby LLM contributors | 72.7 kB | A developer-first PyTorch engine for explicit, modular LLM training. Zero magic. |
+| 2026-10-14 23:42:33 | [llama-index-readers-superpdf](https://pypi.org/project/llama-index-readers-superpdf/) | 0.1.0 | Arjun Prabhulal <arjun.prabhu… | 15.9 kB | LlamaIndex reader for superPDF AI: local PDFs as Markdown with tables, charts a… |
+| 2026-10-14 23:46:03 | [alayasiki-mcp](https://pypi.org/project/alayasiki-mcp/) | 0.3.0 |  | 14.7 MB | Autonomous GraphRAG database MCP server for AI agents |
+| 2026-10-14 23:47:32 | [pygments-carve](https://pypi.org/project/pygments-carve/) | 0.1.1 | Mark Scherer | 123.5 kB | Carve markup language lexer for Pygments |
+| 2026-10-14 23:51:17 | [xrobotoolkit-sdk](https://pypi.org/project/xrobotoolkit-sdk/) | 1.1.0 | Zhigen Zhao <zhigen.zhao@byte… | 53.4 MB | Python bindings for the XRoboToolkit PC Service SDK (PICO XR controller, hand,… |
+| 2026-10-14 23:54:36 | [desflow](https://pypi.org/project/desflow/) | 0.0.1 | Jaehyeon Kim | 4.6 kB | Discrete-event simulation that streams its events to data platforms; the new na… |
+| 2026-10-14 23:57:05 | [secretmask](https://pypi.org/project/secretmask/) | 0.2.0 | Javier Lianes <javier@lianes8… | 34.4 kB | Typed, zero-dependency secret masker: redact API keys, tokens, emails and card… |
+| 2026-10-14 23:57:19 | [durablewrite](https://pypi.org/project/durablewrite/) | 0.2.0 | Javier Lianes <javier@lianes8… | 53.8 kB | Durable, cross-platform atomic file writes: temp-same-dir plus os.replace plus… |
+| 2026-10-14 23:57:42 | [backoffs](https://pypi.org/project/backoffs/) | 0.2.0 | Javier Lianes <javier@lianes8… | 57.2 kB | Typed backoff delays: exponential, linear and Fibonacci growth, AWS, gRPC and G… |
+| 2026-10-14 23:57:56 | [latchkit](https://pypi.org/project/latchkit/) | 0.2.0 | Javier Lianes <javier@lianes8… | 41.2 kB | One-shot synchronization primitives for threads and asyncio: count-down latch,… |
+| 2026-10-14 23:59:22 | [pipecat-akapulu](https://pypi.org/project/pipecat-akapulu/) | 0.1.0 | Akapulu Labs | 22.3 kB | Pipecat processor that sends assistant audio to an Akapulu avatar. |
+| 2026-10-14 23:59:32 | [niva-connector](https://pypi.org/project/niva-connector/) | 0.4.0 |  | 102.0 kB | Private two-person rooms inside Claude Code and Codex |
+| 2026-10-14 23:59:51 | [anest-asyncio](https://pypi.org/project/anest-asyncio/) | 2.0.0 | Ewald R. de Wit | 19.8 kB | Patch asyncio to allow nested event loops |
+| 2026-10-15 00:00:54 | [fwshift](https://pypi.org/project/fwshift/) | 0.31.0 | Jurgen Kobierczynski | 2.4 MB | FWShift: multi-vendor firewall policy converter, auditor and zone matrix (PAN-O… |
+| 2026-10-15 00:02:33 | [etlantic-rsconnect](https://pypi.org/project/etlantic-rsconnect/) | 0.60.0 | Odo Matthews <odosmatthews@gm… | 73.3 kB | Optional Posit Connect schedule and HTTPS trigger adapter for ETLantic. |
+| 2026-10-15 00:06:30 | [conflict-split](https://pypi.org/project/conflict-split/) | 0.1.0 | agent-one <rafal.baranowski.i… | 8.7 kB | Resolve git conflict markers in any file by keeping ours, theirs, both or the d… |
+| 2026-10-15 00:07:25 | [jsondelta-cli](https://pypi.org/project/jsondelta-cli/) | 0.1.0 | agent-one <rafal.baranowski.i… | 9.1 kB | Semantic JSON diff: ignores key order, reports paths, optional unordered arrays… |
+| 2026-10-15 00:12:31 | [pixel-clarity](https://pypi.org/project/pixel-clarity/) | 0.1.0 | Clarity Orbital | 3.9 MB | Pixel Clarity in Jupyter: a fast viewer for large astronomical images, mosaics,… |
+| 2026-10-15 00:15:59 | [mini-atlas-graph-app](https://pypi.org/project/mini-atlas-graph-app/) | 0.1.0 |  | 1.6 MB | Local Mini Atlas Graph app. One Waitress process serves the Flask API and the v… |
+| 2026-10-15 00:16:12 | [terrio](https://pypi.org/project/terrio/) | 0.1.1 | Qiusheng Wu <giswqs@gmail.com> | 82.7 MB | Pure-Rust geospatial raster and vector data I/O, without GDAL |
+| 2026-10-15 00:18:22 | [anygoal](https://pypi.org/project/anygoal/) | 0.1.0b1 |  | 623.4 kB | Benchmarking state-action recombination in world models |

@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-14T23:20:47Z,limelijourney-mcp,0.1.0,LimeliJourney,Proprietary,56721,LimeliJourney MCP server — tenant-scoped tools over the key-authed PartnerApi /v1 (API key) or the Cognito AdminApi/AiApi (token).
+2026-10-14T23:27:48Z,pyloaderv,0.9.0,meumeuh007,MIT,227218,"Autocomplete and type stubs for PyloaderV (Python mods for GTA V), plus tools to create, pack and set up mods."
+2026-10-14T23:32:49Z,coralmap,0.0.0,CoralMind,Apache-2.0,2588,Placeholder. Reserved for the CoralMind Knowledge Library; not yet released.
+2026-10-14T23:32:50Z,corallab,0.0.0,CoralMind,Apache-2.0,2564,Placeholder. Reserved for a CoralMind project; not yet released.
+2026-10-14T23:32:54Z,keel-context,0.2.1,Angel Kürten <angel@angelkurten.com>,Apache-2.0,727937,"Context layer for AI agents in vertical SaaS: domain events in, a per-tenant bitemporal context graph out, shared by every agent through five MCP tools."
+2026-10-14T23:33:15Z,maxwell-bloch-solver,9.0.0,Vahid Anari <vahid.anari8@gmail.com>,MIT,3234087,Desktop app for simulating and fitting Maxwell-Bloch models of astrophysical maser light curves
+2026-10-14T23:35:29Z,plantcatalog,0.0.1,,,77027,Evidence-backed orchid curation and reviewable catalog updates
+2026-10-14T23:39:09Z,openlab-research,1.3.0,,PolyForm-Shield-1.0.0,3019021,"A research framework you can trust: your coding agents run the research, openlab manages and monitors them and keeps sealed plans, point-in-time data, counted trials, person-only holdout looks and a…"
+2026-10-14T23:41:02Z,langchain-superpdf,0.1.1,Arjun Prabhulal <arjun.prabhulal@gmail.com>,Apache-2.0,23199,"LangChain document loader for superPDF AI: local PDFs as Markdown with tables, charts as data and OCR."
+2026-10-14T23:41:20Z,llm-tools-shodo,0.1,Iqbal Abdullah,Apache-2.0,24371,Proofread Japanese text with the Shodo AI proofreading API
+2026-10-14T23:41:48Z,baby-llm,0.1.0,Baby LLM contributors,MIT,72662,"A developer-first PyTorch engine for explicit, modular LLM training. Zero magic."
+2026-10-14T23:42:33Z,llama-index-readers-superpdf,0.1.0,Arjun Prabhulal <arjun.prabhulal@gmail.com>,Apache-2.0,15946,"LlamaIndex reader for superPDF AI: local PDFs as Markdown with tables, charts as data and OCR."
+2026-10-14T23:46:03Z,alayasiki-mcp,0.3.0,,MIT OR Apache-2.0,14712043,Autonomous GraphRAG database MCP server for AI agents
+2026-10-14T23:47:32Z,pygments-carve,0.1.1,Mark Scherer,"MIT License Copyright (c) 2026 Mark Scherer Permission is hereby granted, free of charge, to any pe…",123472,Carve markup language lexer for Pygments
+2026-10-14T23:51:17Z,xrobotoolkit-sdk,1.1.0,Zhigen Zhao <zhigen.zhao@bytedance.com>,MIT,53357522,"Python bindings for the XRoboToolkit PC Service SDK (PICO XR controller, hand, and body tracking)."
+2026-10-14T23:54:36Z,desflow,0.0.1,Jaehyeon Kim,MIT,4647,Discrete-event simulation that streams its events to data platforms; the new name of dynamic-des.
+2026-10-14T23:57:05Z,secretmask,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,34368,"Typed, zero-dependency secret masker: redact API keys, tokens, emails and card numbers in strings and nested data before logging"
+2026-10-14T23:57:19Z,durablewrite,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,53770,"Durable, cross-platform atomic file writes: temp-same-dir plus os.replace plus file and dir fsync"
+2026-10-14T23:57:42Z,backoffs,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,57205,"Typed backoff delays: exponential, linear and Fibonacci growth, AWS, gRPC and Google Cloud jitter, budgets, Retry-After, retry helpers and a CLI"
+2026-10-14T23:57:56Z,latchkit,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,41164,"One-shot synchronization primitives for threads and asyncio: count-down latch, gates, abort with reason, zero-dependency and typed"
+2026-10-14T23:59:22Z,pipecat-akapulu,0.1.0,Akapulu Labs,BSD-2-Clause,22286,Pipecat processor that sends assistant audio to an Akapulu avatar.
+2026-10-14T23:59:32Z,niva-connector,0.4.0,,MIT,102014,Private two-person rooms inside Claude Code and Codex
+2026-10-14T23:59:51Z,anest-asyncio,2.0.0,Ewald R. de Wit,BSD-2-Clause,19785,Patch asyncio to allow nested event loops
+2026-10-15T00:00:54Z,fwshift,0.31.0,Jurgen Kobierczynski,GPL-3.0-or-later,2371330,"FWShift: multi-vendor firewall policy converter, auditor and zone matrix (PAN-OS, FortiOS, Check Point, Cisco ASA, Cisco Secure Firewall, Sophos Firewall, pfSense, SonicWall, WatchGuard, Barracuda, J…"
+2026-10-15T00:02:33Z,etlantic-rsconnect,0.60.0,Odo Matthews <odosmatthews@gmail.com>,MIT,73326,Optional Posit Connect schedule and HTTPS trigger adapter for ETLantic.
+2026-10-15T00:06:30Z,conflict-split,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,8734,"Resolve git conflict markers in any file by keeping ours, theirs, both or the diff3 base. Stdlib only."
+2026-10-15T00:07:25Z,jsondelta-cli,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,9060,"Semantic JSON diff: ignores key order, reports paths, optional unordered arrays. Stdlib only."
+2026-10-15T00:12:31Z,pixel-clarity,0.1.0,Clarity Orbital,MIT,3852309,"Pixel Clarity in Jupyter: a fast viewer for large astronomical images, mosaics, cubes and tables, with the data kept on the server"
+2026-10-15T00:15:59Z,mini-atlas-graph-app,0.1.0,,Apache-2.0,1616546,Local Mini Atlas Graph app. One Waitress process serves the Flask API and the vendored compiled UI.
+2026-10-15T00:16:12Z,terrio,0.1.1,Qiusheng Wu <giswqs@gmail.com>,MIT,82723784,"Pure-Rust geospatial raster and vector data I/O, without GDAL"
+2026-10-15T00:18:22Z,anygoal,0.1.0b1,,Apache-2.0,623362,Benchmarking state-action recombination in world models
