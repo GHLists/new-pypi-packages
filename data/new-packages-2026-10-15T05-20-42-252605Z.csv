@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T04:20:40Z,auth-md,0.1.0,,MIT,13203,"Minimal helpers for the auth.md agent-registration protocol: discovery metadata, auth.md generation, and ID-JAG verification."
+2026-10-15T04:23:26Z,fastdecide,0.0.1,,Apache-2.0,10606,FastDecide
+2026-10-15T04:26:40Z,brisvox-agent,0.1.0,brisvox contributors,MIT OR Apache-2.0,120148,"Python SDK for the brisvox agent protocol: the application logic of a real-time voice call (tools, events, commands) in async Python."
+2026-10-15T04:27:09Z,brisvox,0.1.0,brisvox contributors,MIT OR Apache-2.0,16114,"Brisvox for Python: pip install brisvox. The agent SDK of the brisvox real-time voice engine (the brisvox-agent package), under the short name."
+2026-10-15T04:27:58Z,ablation-tool,2.81.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",4760705,Semantic function matching for stripped firmware. No symbols. No source. No setup.
+2026-10-15T04:32:26Z,poe-tasks-common,0.1,Jonathan King,MIT,13949,An opinionated collection of common poe tasks
+2026-10-15T04:32:50Z,aind-codeocean-dispatch,0.2.2,Allen Institute for Neural Dynamics,MIT,122551,"Launch, monitor, and capture batches of Code Ocean capsule runs"
+2026-10-15T04:35:50Z,dermestes,0.1.0,mojzis <mojzisek@gmail.com>,MIT,4929582,"Finds Python abstractions that have not earned their keep, and reports them as deletion candidates"
+2026-10-15T04:40:03Z,understand-py,0.1.0,Understand,MIT,27955,Framework-neutral Python SDK for sending logs and exceptions to Understand.io.
+2026-10-15T04:42:53Z,modelfill,0.1.0,Juho Lauri,MIT,65967,Complete Pydantic models and dataclasses from their existing constraints
+2026-10-15T04:44:05Z,tsgettoolbox-ncei,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,84150,Plugin for tsgettoolbox to access NOAA National Centers for Environmental Information (NCEI) data.
+2026-10-15T04:45:26Z,timelake,0.4.0,,Apache-2.0,262070399,"The open time-series lakehouse: fast queries on your own object storage, with no database and no maintenance jobs"
+2026-10-15T04:46:11Z,docparity,0.1.0,Jay,MIT,16767,"Detects drift between a function's docstring parameters and its real signature (Google, NumPy, and Sphinx styles)."
+2026-10-15T04:46:26Z,spartan-tables,2.0.0,Shlok Nandurbarkar,MIT,155734,"SPARTAN: heuristic, training-free table detection and extraction for PDF documents"
+2026-10-15T04:47:04Z,waypoint-mcp,0.2.0,,Apache-2.0,118421,"Every voyage, every navigator, one chart: track your projects across Claude Code, Codex, Gemini CLI, Copilot CLI and ChatGPT."
+2026-10-15T04:49:30Z,gridpin-mcp,0.1.0,,Apache-2.0,32330,"MCP server for offline geocoding with GridPin: addresses to coordinates and back from one local file per country, no API key"
+2026-10-15T04:53:45Z,py-storebridge,1.0.0,Asif Khan <ak2311581@gmail.com>,MIT,92370,"A unified, production-ready cloud storage SDK for Python. Switch providers with one config line."
+2026-10-15T04:55:43Z,corkern,2.0.0rc2,SCPG,MIT,219741,"Collective knowledge for Claude Code: syncs its memory across projects, devices and people through a private git repository"
+2026-10-15T04:59:40Z,sov-jobs,0.0.1,,Apache-2.0,2344,
+2026-10-15T05:00:00Z,dimos-cdrgen,0.1.0,,Apache-2.0,145193,"ROS-free message generation and CDR codecs for Python, C++ and Rust"
+2026-10-15T05:00:19Z,jax-snana,0.1.0,Matthew Grayling <mg2102@cam.ac.uk>,MIT,19766038,"A JAX implementation of SNANA: supernova simulation, light-curve fitting and cosmology"
+2026-10-15T05:07:06Z,1password-agent-broker-sdk,0.4.0,Astrivant,Apache-2.0,23683,Typed mTLS client for independently deployed 1Password Agent Broker services
+2026-10-15T05:07:13Z,orthomni-slm-onnx,0.1.2,"""Nhat H. Pham"" <nhatho1999.ai@gmail.com>",MIT,45766,Vietnamese spelling correction (BARTpho seq2seq) on CPU with ONNX Runtime INT8 - no PyTorch needed
+2026-10-15T05:09:19Z,mujoco-stubs,3.4.0.1,Xiaoyan Wang,Apache-2.0,249002,"An unofficial stub-only package providing type hints for MuJoCo, a physics engine for robotics and biomechanics."
+2026-10-15T05:10:39Z,pythonparts-mcp,0.2.0,,,60451,MCP server exposing the ALLPLAN Python runtime to AI coding assistants
+2026-10-15T05:10:43Z,cedrodb,0.5.0,Luis Tavarez,MIT,2272664,"Experimental embedded Rust database with guarded transactions, verified backups and persistent local job queues"
+2026-10-15T05:11:27Z,ecginterpret,0.2.0,humansys-lab,Apache-2.0,394703,Rule-based ECG interpretation statements over ecg-records measurements (research and engineering software; not a medical device)
+2026-10-15T05:12:28Z,argonaut-translator-cli,2.0.0,Sergio Rodríguez <srodriguez3441@gmail.com>,GPL-3.0-only,118617,Offline document translator for the command line (Argos Translate and NLLB-200)
+2026-10-15T05:17:03Z,ertkit,0.1.0,Abd'gafar Tunde Tiamiyu,MIT,259749,"Resistivity inversion for groundwater exploration (VES now, 2.5-D ERT planned), with uncertainty and depth of investigation."
+2026-10-15T05:19:20Z,model-library-client,0.1.35,"""Vals AI, Inc."" <contact@vals.ai>",MIT,1230921,SDK-free Gateway client for model-library
+2026-10-15T05:19:22Z,xpectral-utils,0.1.0,BayQuant,"MIT License Copyright (c) 2025 BayQuant Permission is hereby granted, free of charge, to any person…",1602917,Shared utility functions for xpectral projects
