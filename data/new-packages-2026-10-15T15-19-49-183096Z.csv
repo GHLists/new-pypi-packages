@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T12:00:37Z,odoo-addon-pos-customer-required,16.0.1.0.0.2,"Apertoso NV, La Louve, NuoBiT, Odoo Community Association (OCA)",AGPL-3,42442,Point of Sale Require Customer
+2026-10-15T14:19:30Z,valtu,0.1.0,Valtu <hello@valtu.io>,MIT,42578,"Valtu Wallet SDK for Python: signed API client, webhook verification, enclave attestation checks."
+2026-10-15T14:19:37Z,supernova-norm,2.0.0,Supernova11c,Apache-2.0,6451,Unicode text normalization for Nepali and English
+2026-10-15T14:20:35Z,tsgettoolbox-nwis,27.0.0,Tim Cera <tim@cerazone.net>,BSD-3-Clause,57584,DEPRECATED: Replaced by functions in tsgettoobox_wdfn plugin. USGS will remove all NWIS data services between 11-2026 and 02-2027.
+2026-10-15T14:27:40Z,capsule-litellm,0.1.0,Capsule Security,"Capsule Security Commercial License Copyright (c) Capsule Security, Inc. All rights reserved. This…",16852,Capsule plugin for the LiteLLM gateway — forwards completion requests to the Capsule agentsecurity service for centralized policy enforcement and audit.
+2026-10-15T14:27:59Z,pydez,0.1.0,Mathieu Giraud,LGPL-3.0-or-later,23204,Python bindings for Dezrann
+2026-10-15T14:28:54Z,novi-econml,0.dev0,Novi Labs <devops@novilabs.com>,,819,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-15T14:28:55Z,novi-nowcast,0.dev0,Novi Labs <devops@novilabs.com>,,821,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-15T14:28:56Z,novi-reports,0.dev0,Novi Labs <devops@novilabs.com>,,818,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-15T14:28:57Z,type-curve-workflows,0.dev0,Novi Labs <devops@novilabs.com>,,836,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-15T14:30:00Z,caddforge,0.23.1,"Manuel Sellner <manuel.sellner@idorsia.com>, Christoph Sager <christoph.sager@idorsia.com>",MIT,21211,"The complete public CADDForge toolbox: core, scientific plugins, GUI, and documentation."
+2026-10-15T14:32:13Z,timeseries-zarr,0.1.0a2,Rohan Shah,Apache-2.0,131310,Produces Zarr v3 viewer bundles from neurophysiology time series
+2026-10-15T14:32:55Z,scd-studio,0.2.0,Agnese Grison <agnese.grison16@imperial.ac.uk>,BSD-3-Clause,41692078,"Desktop application for SCD decomposition, editing, and visualisation"
+2026-10-15T14:37:17Z,proofcli,0.4.1,ProofCLI contributors,MIT,169035,Verify command output contracts instead of trusting exit code zero.
+2026-10-15T14:38:11Z,dataquantum-column-cleaner,0.2.0,jcarlossc,MIT,11133,Clean and standardize Pandas DataFrame column names.
+2026-10-15T14:38:13Z,dim-go2-sim,0.1.2,Jeff Hykin <jeff.hykin@gmail.com>,Apache-2.0,10683148,"A simulated Unitree Go2 for dimOS: cmd_vel in; Mid-360 lidar, textured camera, IMU, odometry and contacts out"
+2026-10-15T14:38:17Z,Jarvis-HEP-Sampler,1.0.0,Pengxuan Zhu,MIT,90086,Plug-in SDK for user-defined Jarvis-HEP samplers
+2026-10-15T14:38:51Z,ai-llm-kernel-provider-google-genai,0.1.0a5,,MIT,21412,Google GenAI provider for AI LLM Kernel.
+2026-10-15T14:41:38Z,datanivra-mcp,0.1.0,,Proprietary,24339,Local stdio MCP adapter for the DataNivra Test Data API (metadata/orchestration only).
+2026-10-15T14:42:30Z,djot-py,0.1.0,Victor Nee,MIT,168544,A pure Python implementation of the Jot markup language
+2026-10-15T14:42:44Z,proofline-sdk,1.0.0,,Apache-2.0 AND MIT,387808,Typed synchronous and asynchronous clients for the Proofline review API
+2026-10-15T14:46:01Z,drupal-mcp-server,0.1.0,Loganathane V,MIT,380130,"MCP server for Drupal operations - JSON:API, GraphQL, Drush, AI-powered migration"
+2026-10-15T14:46:52Z,competence,0.1.0,Novica Nakov,AGPL-3.0-or-later,280788,Competence: a local skills-matrix app for teams
+2026-10-15T14:55:08Z,url2regex,0.1.0,,MIT,23450,Generate compact regular expressions from lists of URLs or paths.
+2026-10-15T14:57:59Z,bedrock-fallback-engine,0.1.0,Jamie643,MIT,34335,AWS-native resilience for Amazon Bedrock: cross-region and cross-model failover with schema validation and per-route telemetry.
+2026-10-15T14:58:51Z,pydepaudit,1.0.0,Mathias Paulenko,"MIT License Copyright (c) 2026 Mathias Paulenko Permission is hereby granted, free of charge, to an…",100133,"Audit Python dependencies for CVEs, licenses, staleness and maintainer health in one command."
+2026-10-15T15:03:14Z,fontu,0.0.1,automatonomy.net,,6691,"A CLI tool to shuffle glyphs in a local font and encrypt text (e.g., HTML files) using the shuffled font."
+2026-10-15T15:04:12Z,stripe-link-sdk,0.1.0,Stripe,MIT,44145,Typed synchronous and asynchronous clients for the Link API
+2026-10-15T15:04:23Z,token-speed-test,0.1.0,,,19499,Measure standardized Codex prefill and decode through the local app-server
+2026-10-15T15:04:59Z,paperwork-mcp,0.1.0,ouchi-dev,MIT,45744,"Read your letters and bills locally: deadlines, amounts, checked IBANs and Belgian payment references, payment QR codes (MCP server)"
+2026-10-15T15:06:21Z,OpenCyVer,3.0.0,"Kwaku Yeboah-Antwi, Ioanna Mandilara, Christina-Maria Androna",Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License Copyright (c) 2025…,68396,"Cypher queries Validators against a given FalkorDB Knowledge Graph schema, in terms of syntax, schema validity, and property access."
+2026-10-15T15:07:34Z,pawzip,1.0.0,Pawel Stalowczyk,MIT,1708805,Lossless compressor that records where each byte value occurs and describes those positions with series. Writes .paw files.
+2026-10-15T15:08:41Z,csm-arguments,0.1,NEVSTOP-LAB,MIT,148569,CSM 参数编解码：SAFESTR / ERRSTR / HEXSTR 与 CSM API String 的 Python 实现
+2026-10-15T15:09:34Z,halley,0.0.1,Sahil Haridas,Apache-2.0,16722,Actuarial projection engine in Python: models are checked before they run and compiled when they do.
+2026-10-15T15:12:14Z,ai-kb-mcp,1.1.1,AI KB Team,MIT,56194,AI KB MCP Server - Model Context Protocol server for AI KB API
+2026-10-15T15:12:36Z,mcpproducts-media,0.1.0,,,12956,MediaMCP — audio/video/image toolkit + video-to-knowledge for AI agents (local free tools + optional cloud tier)
+2026-10-15T15:12:59Z,mcpproducts-extract,0.1.0,,,9452,"ExtractMCP — turn any URL or HTML into clean data for agents (markdown, tables, links, JSON)"
+2026-10-15T15:13:01Z,mcpproducts-office,0.1.0,,,11186,"OfficeMCP — read, create and convert Office + PDF documents (local, pure Python)"
+2026-10-15T15:13:03Z,mcpproducts-mail,0.1.0,,,9472,"MailMCP — read, search and DRAFT email for agents over IMAP (never sends)"
+2026-10-15T15:18:42Z,aia-classify,999.9.9,,,1508,
+2026-10-15T15:18:57Z,localhost-doctor,0.1.0,"""Jazzfer Q. Inigo"" <206848186+Jazzfer-2003@users.noreply.github.com>",MIT,32123,MCP server that diagnoses broken XAMPP/WAMP localhost stacks
