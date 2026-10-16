@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T09:19:30Z,sentinel-gate-sdk,0.1.0,Thohat Ventures <info@thohatventures.com>,Apache-2.0,16185,Official Python SDK for SentinelGate — Token-0 Prefill Kinematics & Cryptographic Attestation
+2026-10-16T09:20:17Z,awsce,0.1.0,Pham Huy Hoang (HoangBeard),MIT,57621,"A command-line tool to check, summarize and analyze your AWS costs."
+2026-10-16T09:21:37Z,openbalance,0.1.0,Otto Hofstätter <otto.hofstatter@miun.se>,,32472,A hardware-agnostic Python library for processing and analyzing posturography data.
+2026-10-16T09:22:18Z,ryde-cli,0.1.1,Helge Sverre,MIT,5119980,"Unofficial Ryde CLI, local ride-map dashboard, and read-only MCP server"
+2026-10-16T09:22:28Z,lp-auto,0.1.1,Chandler <275737875@qq.com>,MIT,65472,基于 DrissionPage 的自动化工具包：浏览器复用、登录、搜索筛选、翻页与简历信息导出
+2026-10-16T09:23:15Z,minion-desktop,1.0.0,Minion contributors,MIT,674971,"Instant, featherweight Linux desktops for AI agents: office, dev, research and browser profiles, controlled through MCP, a CLI, Python or HTTP."
+2026-10-16T09:24:16Z,ragmortem,0.2.0,Devesh Kolte,Apache-2.0,227103,"A local failure debugger for RAG applications: isolates retrieval, ranking, generation, and abstention failures."
+2026-10-16T09:26:10Z,sophons,0.1.0,,,1389779,Agent memory and retrieval SDK
+2026-10-16T09:28:20Z,strike-ai,0.1.1,Strike <hello@strike-ai.eu>,MIT,7116,"Client for the Strike API: typed yes/no, choice, and score decisions."
+2026-10-16T09:31:03Z,nblibram,2026.10.0,,,23570677,"Query, edit, and sanitize Jupyter notebooks from the shell"
+2026-10-16T09:31:56Z,velgix,0.1.0,VanschoorStephanie <leurquinstephanie@gmail.com>,MIT,11349,"Couteau suisse Python pour la Belgique : jours fériés, codes postaux, TVA, NISS..."
+2026-10-16T09:35:22Z,lerobot-robot-oy-openarm,26.10.16,,Apache-2.0,43826,LeRobot robot plugin for the dual-arm OY OpenArm follower
+2026-10-16T09:35:23Z,lerobot-teleoperator-oy-openarm,26.10.16,,Apache-2.0,24228,LeRobot teleoperator plugin for the dual-arm OY OpenArm leader
+2026-10-16T09:36:59Z,SHOTpy,2.0.0rc0,The SHOT contributors,EPL-2.0,146841103,Python bindings for the SHOT MINLP solver
+2026-10-16T09:40:57Z,ukvet-mcp,0.0.1,Fraidoon Omarzai,MIT,54041,MCP server for UK Companies House data — part of ukvet.
+2026-10-16T09:43:30Z,devguard-scanner,0.1.0,yilmazhasan,Apache-2.0,270854,"Scan untrusted code repositories for malware before you open, install, or run them. Files are analyzed as data and never executed."
+2026-10-16T09:45:18Z,praytime,0.1.0,Milad Khajavi,MIT,62244,Zero-dependency Islamic prayer times calculator (Python port of zarrabi/praytime)
+2026-10-16T09:45:48Z,hhi-inp-oband,7.44.0.2,GDSFactory <contact@gdsfactory.com>,"The MIT License (MIT) Copyright (c) 2024 gdsfactory Permission is hereby granted, free of charge, t…",302892,HHI InP O-band MPW layout and technology PDK
+2026-10-16T09:47:08Z,kinro-sdk,0.1.1,,Apache-2.0,68600,"Write Kinro project files, rules and parsers; emit the Kinro log contract"
+2026-10-16T09:50:06Z,kinro,0.0.2,,Apache-2.0,10226,"The Kinro engine ships as a Docker image. To write rules and project files, install kinro-sdk."
+2026-10-16T09:53:32Z,tinkerfin-contracts,0.1.1,,Apache-2.0,46466,Protocol-neutral runtime observation contracts for TinkerFin integrations.
+2026-10-16T09:54:04Z,litmusiq,0.1.0rc1,,LicenseRef-Proprietary,62990,"The litmus command: check, plan and deploy a Litmus project from its clone."
+2026-10-16T09:55:49Z,tinkerfin-notifications,0.1.1,,Apache-2.0,43223,Bounded resource-change notifications for asynchronous applications.
+2026-10-16T09:58:22Z,kurukuru,0.1.5,Paul Nwokolo,Apache-2.0,641749,Kurukuru — local cloud infrastructure: a single-host cloud platform over QEMU
+2026-10-16T09:58:23Z,ExeWatchCLI,0.1.0,,,13518,Read-only command line for AI agents and scripts: reads logs from the ExeWatch public API.
+2026-10-16T09:59:28Z,tinkerfin-sqlalchemy,0.1.1,,Apache-2.0,36466,Async SQL transaction and connection ownership for TinkerFin storage integrations.
+2026-10-16T09:59:44Z,verda-inferno,0.4.4,Verda,Apache-2.0,38444,Python worker framework for the Verda inference orchestrator
+2026-10-16T10:01:05Z,tinkerfin-langgraph-store,0.1.1,,MIT,51042,Async persistent LangGraph memory with exact namespaces and structured search.
+2026-10-16T10:01:33Z,ferrygl,0.1.0,Oussama Batouche,MIT,77941,"Copy your GitHub work into your own Linear workspace, from repositories you can read but don't administer."
+2026-10-16T10:02:44Z,talocode-vaultlane,0.1.1,Talocode <updates@updates.teraai.chat>,MIT,14473,"VaultLane plans a multi-token vault and a permissionless keeper intent. It does not deploy a Solana program, mint a vault token, or move funds."
+2026-10-16T10:02:49Z,exewatch-sdk,0.0.1,,,2757,Reserved name for the ExeWatch Python SDK. The SDK itself is not published here yet.
+2026-10-16T10:03:06Z,locketnoni,1.0.2,LAMDev x DaLyMMO.com,MIT,108554,Unofficial Python API client for Locket Camera with full iOS device emulation. Developed by LAMDev x DaLyMMO.com
+2026-10-16T10:09:29Z,izinum-devops-builder,0.19.0,Vincent Denise,Apache-2.0,5689495,Application graphique Material pour composer des pipelines DevOps cohérents à partir du CNCF Landscape.
+2026-10-16T10:16:36Z,airflow-provider-anakin,0.2.0,Anakin <support@anakin.io>,Apache-2.0,58304,"Apache Airflow provider for Anakin: scrape, crawl, search, Wire site actions, website monitors and AI browser tasks from your DAGs"
+2026-10-16T10:17:29Z,rulelearn-ripper-interactive,0.2.3,"Aaron Kurz <aaron.kurz@unisg.ch>, Hagen Voelzer <hagen.voelzer@unisg.ch>",Apache-2.0,157093,"Rule induction toolkit (fork of IBM rulelearn) with interactive, constrained single-rule RIPPER optimization"
+2026-10-16T10:17:49Z,stitch-durable,0.1.0,Yuvraj Singh Pathania,MIT,79190,"Resumable async Python workflows from the standard library alone: checkpoints, retries, audit trail, provider fallbacks"
