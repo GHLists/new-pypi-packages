@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T16:21:42Z,localpilot,0.1.0,Mohamed Fouad Fakhruldeen <fakhruldeen@gmail.com>,GPL-3.0-only,4819498,"A friendly application that helps you discover, install, run, monitor, update and remove local AI models."
+2026-10-16T16:25:01Z,unitycatalog-rs,0.0.0,Ion Koutsouris,Apache-2.0,1071,"Placeholder for unitycatalog-rs, part of unitycatalog-rs (Rust reimplementation of Unity Catalog OSS)."
+2026-10-16T16:25:02Z,unitycatalog-rs-cli,0.0.0,Ion Koutsouris,Apache-2.0,1104,"Placeholder for unitycatalog-rs-cli, part of unitycatalog-rs (Rust reimplementation of Unity Catalog OSS)."
+2026-10-16T16:25:03Z,unitycatalog-rs-server,0.0.0,Ion Koutsouris,Apache-2.0,1130,"Placeholder for unitycatalog-rs-server, part of unitycatalog-rs (Rust reimplementation of Unity Catalog OSS)."
+2026-10-16T16:25:04Z,unitycatalog-rs-ui,0.0.0,Ion Koutsouris,Apache-2.0,1096,"Placeholder for unitycatalog-rs-ui, part of unitycatalog-rs (Rust reimplementation of Unity Catalog OSS)."
+2026-10-16T16:25:08Z,lakana-core,0.12.0,Christopher Schymura,Apache-2.0,1895983,Lakana domain and persistence layer.
+2026-10-16T16:25:34Z,lakana-worker,0.12.0,Christopher Schymura,Apache-2.0,886798,Lakana's DuckDB query executor and dequeue loop.
+2026-10-16T16:25:41Z,lakana-server,0.12.0,Christopher Schymura,Apache-2.0,553976,"Lakana control plane: REST API, Iceberg REST catalog, worker."
+2026-10-16T16:27:08Z,mcp-retail-sim,0.1.0,vish063,MIT,60226,Synthetic retail MCP server for shopping-agent demos and evaluation
+2026-10-16T16:29:39Z,groundmail,0.8.3,Groundmail,MIT,14916,Groundmail transactional email API client for Python
+2026-10-16T16:30:06Z,grstbx,2.4.0,"""T. Harmel"" <tristan.harmel@gmail.com>",,934176,Visualization and post-processing of GRS (Glint Removal for Sentinel-2-like sensors) L2A and L2B images
+2026-10-16T16:32:28Z,fourcolors,0.0.1,4colors,LicenseRef-Proprietary,2151,The Python client for 4colors. Placeholder: the first release is coming soon.
+2026-10-16T16:32:39Z,jupyter-mcp-live,0.0.1,Zhuoqing Fang <fzq518@gmail.com>,BSD-3-Clause,4865,"MCP server built into Jupyter Server: AI agents edit and run the notebooks open in JupyterLab, with outputs streaming into cells live."
+2026-10-16T16:35:31Z,heatwave3,1.4.0,"""Robert W. Schlegel"" <robwschlegel@gmail.com>, ""Albertus J. Smit"" <albertus.smit@gmail.com>",MIT,47831227,Detect marine heatwaves and cold-spells directly in gridded NetCDF data
+2026-10-16T16:36:37Z,barewingui,0.2.0b1,Bastian Flügel,,126636,Pure GUI framework for native Windows apps in Python. No dependencies.
+2026-10-16T16:38:34Z,liumi-vectorcore,1.0.0,Liumi Corporation,,89250,"Liumi VectorCore (.lvc) - sub-2ms SIMD INT8 vector search, zero-copy on-device AI"
+2026-10-16T16:41:13Z,tinker-payments,0.3.0,Tinker Digital LTD <create@tinker.co.ke>,MIT,40806,Python SDK for the standardized Tinker Payments API
+2026-10-16T16:42:03Z,gzw-data,0.1.3,,MIT,11942,Python client for the free Gray Zone Warfare data API (gzw-data.dev)
+2026-10-16T16:51:05Z,aseprite-agent-mcp,0.3.0,Aseprite Agent MCP contributors,MIT,403400,An extensive Model Context Protocol (MCP) server for driving Aseprite (pixel-art editor) headlessly via Lua scripting and the Aseprite CLI.
+2026-10-16T16:52:58Z,nura-campfire,0.1.0,,"MIT License Copyright (c) 2026 Nura Studios Permission is hereby granted, free of charge, to any pe…",370631,"Write inference workers for Campfire, Nura's single-host inference control plane."
+2026-10-16T16:56:29Z,corellium,1.0.0,OpenAPI Generator community,Proprietary,2279119,Corellium API
+2026-10-16T16:57:15Z,voting-age-validator-Ayush-Dombivali,0.1.0,Ayush,MIT,4149,Check minimum voting age by country
+2026-10-16T16:58:02Z,optmat,0.8.0,"""John C. Travers"" <jtravs@gmail.com>",MIT AND CC0-1.0 AND LicenseRef-optmat-third-party,35169078,"Curated, validated optical properties of gases, glasses, crystals and metals: dispersion, absorption, the nonlinear and Raman response, and ionisation, with the provenance of every value"
+2026-10-16T16:59:14Z,paintext,1.0.0,,,3320,
+2026-10-16T16:59:54Z,boardgame-rules-mcp,0.1.0,,MIT,229825,"MCP server that answers board game rules questions from official rulebooks, with exact citations"
+2026-10-16T17:02:11Z,autodev-orchestrator,4.0.0,SpeiiDev Team,MIT,74270,"Interactive Multi-Agent TUI with pluggable agents, model switcher, diff gate, and conversation memory."
+2026-10-16T17:02:59Z,PyClsProps,0.1.1,,,3247,Lightweight library for class properties in CPython
+2026-10-16T17:05:21Z,akp02d,1.0.0,Deon Spengler <deon@spengler.co.za>,GPL-3.0-or-later,1228227,"Themed system stats display for the Ajazz AKP02 panel, with a live theme editor"
+2026-10-16T17:05:48Z,madformats,0.1.0,,,152294,"Modding and file tools for - Madagascar the game, 2005 -"
+2026-10-16T17:05:49Z,madkit,0.1.0,,,59266,CLI and tools for modding Madagascar (2005)
+2026-10-16T17:05:50Z,madlysimple,0.1.0,,,16348,Tools to make modding with the madformats package easier
+2026-10-16T17:05:52Z,tfbpseudo,0.1.0,,,90233,"Compiler and decompiler for TfbPseudo, a text version of Madagascar AI scripts"
+2026-10-16T17:07:53Z,tide-binning,0.6.0,Leonid Garin <leonidgarin97@gmail.com>,MIT,789543,TIDE - Time Invariant Discretization Engine: time-stable binning for credit scorecards
+2026-10-16T17:09:21Z,joomha,1.0.0,,MIT,135964,AI-powered CLI for understanding any codebase through conversation
+2026-10-16T17:11:05Z,voting-age-validator-sharvarikamble-worli,0.1.0,Sharvari Kamble,MIT,4595,Check minimum voting age by country
+2026-10-16T17:12:32Z,voting-age-validator-khush-borivali,0.1.0,Khush,MIT,4549,Check minimum voting age by country
+2026-10-16T17:12:39Z,ruling,0.2.1,,MIT,198092,"Open-weight recreation of TypeSafe AI's Jev: typed, probabilistic decisions from a local model, no text generation."
+2026-10-16T17:13:17Z,localtools-font-subsetter,1.0.0,,MIT,165607,"Subset fonts to the characters you use, instance variable fonts, and convert to WOFF2 (localtools, offline, fontTools)"
+2026-10-16T17:14:59Z,voting-age-validator-jalaja-meadows,0.1.0,Yourname Sir,MIT,4521,Check minimum voting age by country
+2026-10-16T17:15:20Z,ce3x-mcp-server,1.3.0,Jose Manuel Caamaño González <jmc@example.com>,MIT,111322,Servidor MCP Oficial para Certificación de Eficiencia Energética de Edificios (CE3X / CTE DB-HE / RD 390/2021)
+2026-10-16T17:16:19Z,baldanders,0.1.0,Baldanders contributors,MIT,94681,"Local personal-data firewall for cloud LLMs — scrubs names, emails, IDs and other private details before they leave your machine"
+2026-10-16T17:19:23Z,voting-age-validator-bhavya-mumbai,0.1.0,Bhavya Khetia Sir,MIT,4395,Check minimum voting age by country
+2026-10-16T17:19:37Z,hugo-writer,1.20261017.1000000,Yuan-Yi Chang <changyy.csie@gmail.com>,MIT,655336,"A local, browser-based writing tool for Hugo sites: list posts, edit Markdown, drop in images (auto-resized), preview with the real theme."
