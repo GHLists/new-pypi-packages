@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T10:05:33Z,lst-builder,0.0.2,Bryan,,412811,Litestar project builder
+2026-10-16T10:17:06Z,tackboard,0.1.0,sangingeum,MIT,135519,"Project-scoped task board for coordinating multiple AI agents: CLI-first, SQLite-backed, with a read-only board and dependency-DAG view"
+2026-10-16T10:25:30Z,ripex,0.3.1,Neeraj Sathish Kumar <neerajcodz@gmail.com>,MIT,1622771,Native multi-language structural parsing and fact extraction for Python.
+2026-10-16T10:26:22Z,vecwire,0.3.0,Andrea Maiani <dev@andreamaiani.com>,MIT,55966,"Readable, editable SVG schematics for electrical and circuit-QED circuits"
+2026-10-16T10:28:02Z,offline-translate,0.1.0,asimon655,MIT,33051,Offline machine translation using Google Translate's on-device language packs
+2026-10-16T10:29:33Z,nexqus-sdk,1.0.0,NexQus,MIT,138812,"Quantum circuit, noise, dynamic protocol and learning simulation on NumPy or PyTorch"
+2026-10-16T10:31:14Z,rwanda-geo-data,1.1.0,LinkFy Connect,MIT,155760,"Rwanda administrative divisions: provinces, districts, sectors, cells and villages."
+2026-10-16T10:35:07Z,epistemic-graph-server,2.27.1,Repository Maintainers <maintainers@knuckles.team>,MIT,62122272,"The native epistemic-graph-server executable, built from the epistemic-graph source at the same version"
+2026-10-16T10:35:17Z,ilink-sdk,2.4.11,iLink SDK contributors,MIT,8987778,"Python bindings for the iLink (Weixin) SDK, with the native library bundled"
+2026-10-16T10:38:35Z,docxtpl-lint,1.5.0,docxtpl-lint contributors,MIT,493714,"Static linter for docxtpl / python-docx-template Word templates: pinpoints errors to the table cell, CI-ready."
+2026-10-16T10:40:26Z,pushmetrics-cli,0.1.0,,,334770,Command-line interface for PushMetrics
+2026-10-16T10:40:39Z,autonomous-agent-architecture,0.3.1,Innerkore Technologies,MIT,1419185,"Autonomous Agent Architecture (AAA): an async, event-driven architecture and library for production agents: algorithms, tools, memory, evals and guardrails over arbitrary data."
+2026-10-16T10:40:55Z,aaa-server,0.1.0,Innerkore Technologies,MIT,49141,"HTTP/SSE server for AAA agents: authentication, tenant isolation, rate limits, quotas, approvals."
+2026-10-16T10:45:14Z,rulestamp-datenschutzerklaerung-tdddg-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34907,"Veraltete Zitate (TMG, TTDSG, Privacy Shield, alte SCC) und fehlende Art.-13-Angaben finden – 16 rules, mit Zeile und Ersatz (bundled Node.js runtime)"
+2026-10-16T10:45:30Z,rulestamp-dora-register-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,40621,"24 checks on the register CSV before it reaches the supervisor — LEI check digits, ISO dates and codes, references that resolve (bundled Node.js runtime)"
+2026-10-16T10:45:46Z,rulestamp-eaa-form-lint-wcag22,1.0.9,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36896,"Names every WCAG 2.2 AA form failure on its line, with the criterion and the fix (bundled Node.js runtime)"
+2026-10-16T10:45:54Z,rulestamp-livewire-client-surface-audit,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35874,"Marks every line of a Livewire or Blade file that the visitor's browser can call, rewrite or read (bundled Node.js runtime)"
+2026-10-16T10:53:44Z,py-mea-span,0.6.0,George (Zhuang) Han,MIT,217481,End-to-end multi-electrode array (MEA) analysis for .spk files
+2026-10-16T10:55:14Z,bentocal,0.1.0,,MIT,64317,"The BentoCal API client for Python: connect Google and Microsoft calendars, find availability, write events, verify webhooks."
+2026-10-16T10:55:24Z,food-distribution-gym,0.1.0a1,Food Distribution Gym contributors,MIT,87526526,Gymnasium environment for reinforcement learning in food distribution and security logistics.
+2026-10-16T10:57:52Z,sanjiu-apk-builder,0.1.0,,MIT,321315,一键生成三元九维诗词分类 APK 的开源脚手架 + 构建器
+2026-10-16T11:00:37Z,mediashrink,0.1.0,easyliu <342643607+elon680@users.noreply.github.com>,MIT,63967,"Transcode and shrink video, audio, image and PDF files."
+2026-10-16T11:01:38Z,studiorelay,0.3.0,StudioRelay contributors,MIT,127098,"An OpenAI-compatible gateway that bridges Android Studio's AI agent with multiple LLM providers, handling API compatibility, request translation, streaming, and response normalization."
+2026-10-16T11:04:41Z,nac-artifacts,0.1.0,Daniel Schmidt <danischm@cisco.com>,MPL-2.0,73610,"A Python library to discover and layer the schema, rules and test artifacts packaged with Network-as-Code modules and bundles."
+2026-10-16T11:05:04Z,vllm-service-ple,0.2.1,Jorge Ramírez Espejo,Apache-2.0,124042,"vLLM plugin: keeps the Flash-Next PLE table out of the vLLM process (per-machine agent with a shared cache, local file and/or central server)"
+2026-10-16T11:06:37Z,luma-audit,0.3.0,Alesson Abreu <abreu.tech.contabilidade@gmail.com>,MIT,27589,Deterministic governance for AI actions. No LLM in the decision path.
+2026-10-16T11:07:13Z,ai-kit-python,1.4.2,Igor Sazonov,MIT AND Apache-2.0,1095618,"Offline installer and portable instructions that give AI coding agents project memory, stack rules, guardrails, and adaptive model routing."
+2026-10-16T11:12:05Z,robot-console-cli,1.0.0,,LicenseRef-Proprietary,248110,机器人控制台（robot-console）连接器的 CLI 执行体：用命令行控制宇树 Unitree 人形与四足机器人
+2026-10-16T11:13:55Z,ybgix,0.1.0,Ilhan Uysal,MIT,45598,A local group-interaction explanation method for nonlinear correlated tabular data.
+2026-10-16T11:15:23Z,realworld-sim,0.30,kalincomDB,MIT,744056,真实世界工程仿真沙盒：感应淬火、PLC/单片机虚拟调试、三维装配物理、流体管网、电路仿真（AI 代理与人类工程师通用）
