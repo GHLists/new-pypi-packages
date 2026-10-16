@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T04:19:38Z,mdb-ducklake,0.1.0,Josh Brooks <josh@catalpa.io>,MIT,64948,Sync an MS Access database into an updatable DuckLake mirror
+2026-10-16T04:20:41Z,sukko,0.1.0,Sukko Contributors,MIT,158959,Asyncio-first Python client SDK for the Sukko real-time platform
+2026-10-16T04:21:42Z,memflow-relay,0.1.1,LamoonAGI <dev@lamoonagi.com>,"MIT License Copyright (c) 2024 LamoonAGI Permission is hereby granted, free of charge, to any perso…",50453,MemFlow Relay — local Gemini proxy with shadow/safe/optimize modes by LamoonAGI
+2026-10-16T04:23:22Z,wrinklefe,1.4.0,Rani F. Elhajjar,MIT,1876208,Finite element analysis of wrinkled composite laminates with advanced failure theories
+2026-10-16T04:24:33Z,emaki,0.1.0,emaki,MIT,14453,"Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for Seedance 2.5 and Seedance 2.0"
+2026-10-16T04:26:30Z,toposync-ext-ptz-attention,0.9.0,,MIT,390194,Toposync first-party extension for lifecycle-aware PTZ attention arbitration.
+2026-10-16T04:30:00Z,ckpoint,0.1.0,,MIT,2066767,"Who can poison your app? Maps every npm account that can publish code into your project, watches their releases, and acts before any advisory exists. Runs locally on an embedded FalkorDB graph."
+2026-10-16T04:30:06Z,autoforge-trainer,1.0.2,Honguan,MIT,274854,"AI that trains AI: analyse your data and hardware, pick a method, train, tune and deploy models on your own machine — from a CLI, MCP, a web GUI or one sentence."
+2026-10-16T04:32:25Z,vbar,0.0.1,Jamil Hammoudeh <j.hammoudeh@outlook.com>,MIT,27942,"A fast, headless, cross-platform benchmark for testing AI and classical spacecraft controllers, with safety filters."
+2026-10-16T04:34:22Z,navig-vm,0.1.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,74007,"NAVIG VM module — local VMware Workstation VMs from verified cloud images, provisioned on first boot with cloud-init and driven from `navig vm` (create, start, ssh, snapshots). A first-party navig pl…"
+2026-10-16T04:37:00Z,tiggy-cli,0.1.0,Henry Upton,MIT,47047,"Declarative Google Tag Manager: validate, plan and apply GTM containers from a YAML spec."
+2026-10-16T04:37:24Z,handoverlab,1.0.1,"Mostafa Jalili Sanjarani, Yasser Elmi Sola",MIT,778354,System-level simulator of handover and mobility procedures in dense 5G and beyond-5G networks
+2026-10-16T04:44:17Z,quantx-engine,0.1.0,Marshall WU <wujian.thu@gmail.com>,MIT,10333452,"Block-sparse tensor-network engine for quantum many-body physics: symmetric DMRG, TDVP and fermionic HVA circuits, with a Python API"
+2026-10-16T04:45:03Z,seeplot,0.1.0,,,1973387,Four ML lab pipeline notebooks with an interactive picker
+2026-10-16T04:46:40Z,unmaskip,0.1.0,checkip.me,MIT,26374,"IP lookup with proxy, VPN, Tor and hosting detection, powered by checkip.me"
+2026-10-16T04:47:37Z,lukestack-db-semantic-mcp,0.8.0,Luke <popo555155@gmail.com>,MIT,496670,"Semantic intelligence layer for SQL Server and Oracle databases, exposed via MCP. A database understanding engine for AI agents (Claude Code CLI, Codex CLI, Claude Desktop, etc.)."
+2026-10-16T04:48:10Z,langchain-emaki,0.1.0,emaki,MIT,10895,"LangChain tools for emaki (emaki.ai), the Japanese-language AI video generator for Seedance 2.5 and Seedance 2.0: text to video, image to video and AI images from an agent"
+2026-10-16T04:51:33Z,emaki-haystack,0.1.0,emaki,MIT,9719,"Haystack components for emaki (emaki.ai), the Japanese-language AI video generator for Seedance 2.5 and Seedance 2.0: text to video, image to video and AI images in a pipeline"
+2026-10-16T04:55:55Z,modbus-studio,0.1.0,modbus-studio contributors,MIT,370146,"Open-source Modbus master for polling, monitoring and testing Modbus TCP/RTU devices from the browser."
+2026-10-16T04:57:52Z,azure-mgmt-koreaiartemis,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3217,This package will be released in the near future. Stay tuned!
+2026-10-16T04:58:42Z,deeplearning-tharu,0.0.1,Tharu <you@example.com>,MIT,19022,Deep learning exercise snippets — study helper library.
+2026-10-16T04:58:56Z,benzene-codegen-client,0.1.0b2,Benzene,MIT,36580,"Generates a typed, topic-scoped Python client SDK from a Benzene Contract Document (.spec.json) — no .NET SDK required."
+2026-10-16T05:01:26Z,namedaemon,0.1.0,Krasen Slavov,MIT,16051,"Client and CLI for NameDaemon: .com domain availability, brandability scores, name ideas, TLD costs and domain health."
+2026-10-16T05:07:56Z,solar-flare-forecast,0.1.0,Kritika,,85278,Tools for downloading and evaluating historical solar flare forecasts.
+2026-10-16T05:13:56Z,ix-locations-api,0.0.0.dev38854028725,IX Developers <devs@infoxchange.net.au>,,215165,"Python client for the Infoxchange Locations API, generated from its OpenAPI schema."
+2026-10-16T05:14:48Z,DRMsgClient,0.1.1,,,24724,与 DataRelay 的 MsgServer（sharedmsg）通信的 Python 客户端
+2026-10-16T05:15:59Z,fromthehotel-poems,0.1.0,,,5496,Python client for the From the Hotel public poem API
