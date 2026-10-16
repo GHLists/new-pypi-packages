@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-15T23:21:04Z,reqmd-io,0.1.0,Daniel Vollrath <info@reqmd.dev>,GPL-3.0-only,34576,"Build reqmd-import/v1 exchange bundles from Python — write importers for DOORS, codeBeamer, ReqIF, CSV, or any API without hand-writing reqmd Markdown."
+2026-10-15T23:22:20Z,kiwimatecoder,0.1.0,,"MIT License Copyright (c) 2026 Kyle8933 Permission is hereby granted, free of charge, to any person…",1103201,AI-powered coding assistant CLI. Bring your own API key.
+2026-10-15T23:22:48Z,sweef-browser,0.2.0,,Apache-2.0,34635,"Python SDK for Sweef, the lightweight browser engine for AI agents: Playwright-shaped, synchronous, standard library only"
+2026-10-15T23:25:08Z,bydtech-model-retire,0.1.1,BYD Tech <sales.bydtech@gmail.com>,MIT,47409,"Find deprecated, retiring and retired LLM model IDs in a codebase before a provider shuts them off."
+2026-10-15T23:28:18Z,ray-vast,0.1.0,Duc Pham <thiel.pham@gmail.com>,MIT,177360,A Ray autoscaler node provider for vast.ai workers with an AWS EC2 head.
+2026-10-15T23:32:33Z,hyperagents,1.2.3rc5.post3,,MIT,1732937,Unlimited-domain multi-agent AI swarm platform
+2026-10-15T23:34:28Z,sandboxer-sdk,0.1.0,Sandboxer <support@sandboxer.com>,MIT,252444,Python SDK for Sandboxer: cloud sandboxes for AI agents and humans.
+2026-10-15T23:42:52Z,arxo-codegen,0.4.0,,Apache-2.0,797926,CLIR code-generation backends and delivery CLI
+2026-10-15T23:46:28Z,modify-csv,2026.10.4,,,18096,"Apply a user-supplied Python function to a CSV row, column, or cell."
+2026-10-15T23:52:51Z,biblemedia,0.2,,GPL-3.0-or-later,63073,"Bible media — audio, graphic and video generation, and a web viewer, for Reuben Institute's Bible media series."
+2026-10-15T23:54:58Z,openquantum-sdk-cirq,0.5.0,,Apache-2.0,26589,Cirq Python SDK for Open Quantum
+2026-10-15T23:55:04Z,openquantum-sdk-qrisp,0.5.0,,Apache-2.0,21949,Qrisp Python SDK for Open Quantum
+2026-10-15T23:56:58Z,zuspec-rt-core,0.1.0,Matthew Ballance <matt.ballance@gmail.com>,Apache-2.0,22661,Zuspec runtime core: shared substrate and generated ABI headers for the ZBC runtime/engine
+2026-10-15T23:58:48Z,cs-printt,20261016,Cameron Simpson <cs@cskk.id.au>,,13510,"Print text tables, in the terminal or to a file, using `printt()` and its supporting functions."
+2026-10-16T00:01:51Z,lvbitpack,1.0.0,Javier Lianes <javier@lianes8studio.com>,MIT,73702,"LabVIEW Boolean arrays in pure Python: Boolean Array To Number with its sign extension modes, Number To Boolean Array, flattening and bit packing"
+2026-10-16T00:02:53Z,httpquoted,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,42482,"Strict, typed and zero-dependency codec for HTTP quoted-strings, comments and tokens (RFC 9110): safe quoting, strict parsing, scanners and quote-aware list splitting"
+2026-10-16T00:03:17Z,zuspec-solver,0.1.1,Matthew Ballance <matt.ballance@gmail.com>,Apache-2.0,23498,"Zuspec IR solve problems, translated for constraint solvers (dv-solve)"
+2026-10-16T00:04:43Z,typedmultidict,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,37510,Pure-Python typed ordered multi-value dictionary with a case-insensitive variant
+2026-10-16T00:06:26Z,mediaparse,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,51361,"Parse and build HTTP media types, Content-Type and Accept headers, exactly"
+2026-10-16T00:06:55Z,boxwire,0.0.1,,MIT OR Apache-2.0,2857,"Reserved for boxwire, a visual editor and checker for programs built from black-box units. The real package arrives with phase 1."
+2026-10-16T00:09:42Z,token-hunt,0.1.0,Jordan Newell <jordan@jordannewell.com>,BUSL-1.1,118693,"Catch secrets at chat time, not commit time. Hook-based scanner for Claude Code / Cursor / Aider."
+2026-10-16T00:11:33Z,runflect,0.1.0,,,266552,Local-first evidence capture for AI agent executions
+2026-10-16T00:12:54Z,zuspec-rt-eng,0.1.0,Matthew Ballance <matt.ballance@gmail.com>,Apache-2.0,28803,Zuspec runtime engine: native ZBC (.zbc) loader + bytecode interpreter over the rt-core substrate
+2026-10-16T00:13:12Z,zuspec-synth,0.1.0,Matthew Ballance <matt.ballance@gmail.com>,Apache-2.0,381839,Synthesis transformations for Zuspec IR
+2026-10-16T00:15:38Z,vigilante-scan,0.1.0,,MIT OR Apache-2.0,22921516,"Shows the new powers that a pull request gives to code, CI, build, and AI agents"

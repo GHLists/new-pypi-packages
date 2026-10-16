@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 18,
-    "from": "2026-10-15T22:21:43.479812Z",
-    "path": "data/new-packages-2026-10-15T23-19-10-639085Z.csv",
-    "to": "2026-10-15T23:19:10.639085Z"
+    "count": 25,
+    "from": "2026-10-15T23:19:10.639085Z",
+    "path": "data/new-packages-2026-10-16T00-19-06-333649Z.csv",
+    "to": "2026-10-16T00:19:06.333649Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-15T19:31:58Z",
-      "package": "rustual",
-      "since": "2026-10-15T19:19:10.070809Z"
+      "attempts": 1,
+      "created_at": "2026-10-15T23:59:49Z",
+      "package": "rtems-eco-tools",
+      "since": "2026-10-15T23:19:10.639085Z"
     }
   ],
-  "serial": 42297862,
+  "serial": 42299191,
   "source_truncated": false,
-  "window": "2026-10-15T23:19:10.639085Z"
+  "window": "2026-10-16T00:19:06.333649Z"
 }
