@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T07:04:03Z,honeyplaybox-opensdk,1.0.3,HoneyPlayBox,,41262,"Python SDK for discovering, connecting, and controlling HoneyPlayBox toys."
+2026-10-16T07:19:30Z,odoo-addon-delivery-fee,18.0.1.0.1,"Moduon, Odoo Community Association (OCA)",LGPL-3,38334,Charge extra fees on deliveries
+2026-10-16T07:23:12Z,notion-search,0.1.2,Dipanshu Daga,,51055,"Offline, private hybrid search (exact words + meaning) for Notion Desktop's Cmd+K, running on your Mac"
+2026-10-16T07:25:29Z,odoo-addon-uom-qty-unique,19.0.1.0.0.2,"ACSONE SA/NV,Odoo Community Association (OCA)",AGPL-3,22828,This constrains unit of measure per quantity and per category
+2026-10-16T07:30:39Z,nitelos,0.1.0,Nitelos contributors,Apache-2.0,550903,"Verify the outcome, not the attempt: evidence-based success verification for AI agents."
+2026-10-16T07:32:31Z,uenv-sdk,0.1.0,,,467165,Python SDK for UEnv environments and task execution
+2026-10-16T07:32:42Z,obox-builder,1.0.3,vinhgiga,MIT,2596004,"Fast, beautiful and extensible administrative interface framework for FastAPI & Starlette applications"
+2026-10-16T07:33:03Z,local-dark-factory,0.1.0,Dark Factory Team,MIT,203756,"Sovereign, local-first autonomous AI Software Factory orchestrator"
+2026-10-16T07:33:05Z,pyxpo-haptics,0.1.0a1,Vishal Chaubey,MIT,17135,"Haptic feedback for pyxpo apps: impact, notification and selection feedback (expo-haptics shape)."
+2026-10-16T07:36:20Z,uenv-bridge,0.2.1,,,291188,Unified UEnv submission client
+2026-10-16T07:37:29Z,pyxpo-device,0.1.0a1,Vishal Chaubey,MIT,21775,"Device facts for pyxpo apps: brand, model, OS, memory, device type (expo-device shape)."
+2026-10-16T07:44:22Z,kiln-cli,0.3.1,antoine-tena,MIT,606050,"Make Claude Code build production-grade repos, and keep them that way"
+2026-10-16T07:45:24Z,navig-chats,0.1.0,navig,MIT,123844,"navig chats -- a local library for your AI conversations: import your ChatGPT data export, save chats from the page with the NAVIG Dock, search every message offline, organise them in folders, and ex…"
+2026-10-16T07:47:22Z,pyxpo-application,0.1.0a1,Vishal Chaubey,MIT,18245,"App identity for pyxpo apps: name, id, version, build, install time (expo-application shape)."
+2026-10-16T07:48:22Z,fubon-neo,2.3.1,Fubon Securities,,19118682,Fubon Securities Neo SDK — Python bindings for trading and market data.
+2026-10-16T07:48:24Z,falsepass,0.4.0,,Apache-2.0,680496,Probe RL environment verifiers for false passes and false fails.
+2026-10-16T07:49:52Z,pyxpo-localization,0.1.0a1,Vishal Chaubey,MIT,19987,The device's locales and calendars: the expo-localization API for pyxpo.
+2026-10-16T07:52:48Z,stockiq,0.0.6,"Luong Duc Minh, Do Huu Quan, Ngo Hoang Anh Vy",MIT,90366,"Thư viện Python cung cấp dữ liệu tài chính và công cụ phân tích chuyên sâu cho thị trường chứng khoán, quỹ đầu tư, hàng hóa và kinh tế vĩ mô; được phát triển và sở hữu bởi DNLcapital."
+2026-10-16T07:54:56Z,pyxpo-network,0.1.0a1,Vishal Chaubey,MIT,19834,"Network state, IP address and connectivity changes: the expo-network API for pyxpo."
+2026-10-16T07:57:05Z,pyxpo-fetch,0.1.0a1,Vishal Chaubey,MIT,30026,Streaming HTTP requests with native networking: the expo/fetch API for pyxpo.
+2026-10-16T07:57:46Z,dpe-conformance,0.4.0,TuringFocus Team <dev@turingfocus.cn>,MIT,196449,DPE 服务端一致性跑分器：对任意 remote 黑盒运行协议检查，输出 JUnit XML 与执行/跳过计数
+2026-10-16T07:59:25Z,jlens,0.17.0,jlens contributors,MIT,16698064,JSONata for Python: a Rust engine with evaluation audits
+2026-10-16T07:59:26Z,pyxpo-sqlite,0.1.0a1,Vishal Chaubey,MIT,22309,SQLite databases for pyxpo apps (expo-sqlite API)
+2026-10-16T08:00:58Z,awp-runner,0.1.0,,,477114,AWP runner: install/run a remote execution host for the Agent Workflow Platform
+2026-10-16T08:01:50Z,pyxpo-web-browser,0.1.0a1,Vishal Chaubey,MIT,27239,"In-app browser and OAuth sign-in sessions for pyxpo apps (SFSafariViewController, Custom Tabs)"
+2026-10-16T08:04:04Z,hydrosebench,0.1.2,HydroSEBench,MIT,3666447,A Python package for evaluating model performance on the HydroSEBench benchmark dataset.
+2026-10-16T08:04:45Z,pyxpo-location,0.1.0a1,Vishal Chaubey,MIT,39084,"Device location, heading and geocoding for pyxpo apps (the expo-location API)."
+2026-10-16T08:06:43Z,polars-sexp,0.1.0,Joseph Li,,59609177,Parse S-expressions in Polars
+2026-10-16T08:07:36Z,rj-api,0.0.1,rahul,,2875,
+2026-10-16T08:07:44Z,pyxpo-notifications,0.1.0a1,Vishal Chaubey,MIT,55587,"Local notifications for pyxpo apps: schedule, show, tap handling and Android channels (the expo-notifications API)."
+2026-10-16T08:09:21Z,pleos-client,0.1.0,Jordan Harrison,MIT,16216,Async Python client for the Pleos personal Vehicle Data API
+2026-10-16T08:10:20Z,agentfork-cli,0.1.0,Bimal Kumal,MIT,31544,"Fork your LLM agent at any step and sweep prompts, models or tool results to find what fixes it."
+2026-10-16T08:10:29Z,irspec,0.1.0,Ali Perdekhan,MIT,2405793,"Infrared spectra for chemistry students: OMNIC .SPA and JCAMP-DX in, tidy CSVs, peak lists and report-ready figures out."
+2026-10-16T08:11:08Z,pyxpo-camera,0.1.0a1,Vishal Chaubey,MIT,50204,"Camera preview, photos, videos and barcode scanning for pyxpo apps (the expo-camera API)."
+2026-10-16T08:11:12Z,vdiskprobe,1.0.0,SteveJobz@isarvin.com,MIT,91668,"A lightweight Python library and CLI for detecting virtual disk image formats and reading size metadata from local files, custom readers, and HTTP/HTTPS URLs."
+2026-10-16T08:12:01Z,naija-data,0.1.0,Akanji Oluwaseun Gabriel,MIT AND CC-BY-4.0,392054,"Accurate, sourced Nigerian reference data: states, LGAs, wards, banks, NUBAN and phone helpers."
+2026-10-16T08:13:10Z,usb-rea,0.2.1,,MIT,420965,"Reverse Engineer any USB gadget: capture, diff, infer, and generate open drivers with evidence"
+2026-10-16T08:14:23Z,django-naija,0.1.0,Akanji Oluwaseun Gabriel,MIT,23167,"Django and DRF fields for Nigerian phone numbers, NUBAN, plate numbers, states and LGAs."
