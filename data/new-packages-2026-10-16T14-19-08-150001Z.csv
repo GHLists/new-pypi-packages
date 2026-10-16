@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T12:48:14Z,kurocode,0.2.1,Abdo Omran,MIT,389034,KURO 2.0 — Local-first autonomous AI agent & desktop system assistant
+2026-10-16T13:23:47Z,laminite,0.1.0,Hirokazu Miyaji,MIT,36692,A minimal ASGI web framework with msgspec and startup-time compilation
+2026-10-16T13:23:57Z,Younger-Logics-IR,0.1.0,Jason-Young-AI <AI.Jason.Young@outlook.com>,Apache-2.0,213121,"Provides a Unified Intermediate Representation For Neural Networks, Enabling Framework-Agnostic Analysis, Conversion, and Optimization."
+2026-10-16T13:24:02Z,vacuum-console-cli,1.0.0,,LicenseRef-Proprietary,30130,扫地机器人控制台（vacuum-console）连接器的 CLI 执行体：用命令行控制米家生态扫地/拖地机器人
+2026-10-16T13:24:43Z,wiringmap,0.1.0,Burnaviour <meharmuzafar760@gmail.com>,MIT,1046444,"See how your code is wired: an interactive, offline map of any Python project."
+2026-10-16T13:26:10Z,lotic,0.0.1,fisher <i@yf.io>,,2099,"Placeholder: this name is reserved for lotic, a data-pipeline SDK and runner. Nothing to use yet."
+2026-10-16T13:26:41Z,vapoursynth-blur-frameblender,3.2.0,f0e,,3761920,Temporal weighted average for VapourSynth with no cap on the number of weights
+2026-10-16T13:28:36Z,hdmi-monitor,1.0.0,Prosper Magara <prospermagara@gmail.com>,MIT,48642,"Use your laptop as a monitor for another computer through a USB HDMI capture card - low latency, full screen, with audio."
+2026-10-16T13:28:52Z,myges-api,0.3.1,Arnaudmyges,MIT,147390,"Client Python typé (sync + async), CLI et spécification OpenAPI de l'API myGES / Kordis (non officielle)."
+2026-10-16T13:31:31Z,rfnry-thread,0.1.0,rfnry <contact@rfnry.dev>,MIT,174596,Conversational text interfaces for humans and machines
+2026-10-16T13:31:37Z,measure-mcp,0.1.0,Puya Rahmanian,MIT,2367374,"MCP server that turns photos, depth maps and 3D scans into real-world measurements for AI assistants: cookware capacity and recipe scaling, room fit, Amazon FBA size tiers, moving volume."
+2026-10-16T13:31:37Z,rfnry-senses,0.1.0,rfnry <contact@rfnry.dev>,MIT,139003,Vision and speech interfaces for human-machine interaction
+2026-10-16T13:31:44Z,rfnry-engine,0.1.0,rfnry <contact@rfnry.dev>,MIT,280113,Agent harness with built-in dataset generation
+2026-10-16T13:32:39Z,siva-toolkit,0.7.0,Sivamukilan,MIT,18775,"Simple tools for easy use, made by siva"
+2026-10-16T13:36:50Z,webrunc,0.0.1,Leo <Leo@pop.rasberrypi>,MIT,5220,
+2026-10-16T13:38:07Z,takestock,0.1.0,Mike Clements,Apache-2.0,1231774,"Take stock of an IT estate: a cryptographic bill of materials, a configuration register and an IP plan."
+2026-10-16T13:40:17Z,internetbook-analysis,0.1.0,Gyldendal Solutions,MIT,42657,Text analysis and BM25 weighting shared by internetbook indexing and search
+2026-10-16T13:40:32Z,treemap-cli,0.1.0,,MIT,5471580,"Fast disk usage analyzer: reads the NTFS Master File Table directly (like WizTree), with squarified treemaps"
+2026-10-16T13:42:14Z,zju-scatt-interface,0.9.0,Senyi Kong,MIT,2926233,"Search, retrieve, integrate, and visualize ZJU-SCATT optical data"
+2026-10-16T13:43:41Z,tillcast,0.1.1,w3center Daniel Miedzik,MIT,225430,Python client for the Tillcast print API (pre-release).
+2026-10-16T13:48:56Z,expres,0.2.0,Conrad Haupt,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",128660,"Manage experiments and associated artifacts easily, without having to worry about Pickle."
+2026-10-16T13:50:10Z,huri-module-stt,0.1.0,,,11599,HuRI module: Speech to text (faster-whisper) as a Ray Serve deployment
+2026-10-16T13:50:12Z,huri-module-tag,0.1.0,,,7691,HuRI module: Text aggregator: stitches overlapping transcripts into one question
+2026-10-16T13:50:15Z,huri-module-emo,0.1.0,,,12021,"HuRI module: Speech emotion from prosody (wav2vec2 classifier), and its aggregator"
+2026-10-16T13:50:15Z,pachifast-metrics,0.1.1,ilPachi,MIT,14848,"Prometheus metrics endpoint for pachifast projects: request count, latency and requests in progress."
+2026-10-16T13:50:18Z,huri-module-rag,0.1.0,,,47722,"HuRI module: Retrieval-augmented answers with long-term memory (Qdrant + an OpenAI-compatible LLM), and the question aggregator"
+2026-10-16T13:50:39Z,crewai-agentsearch,0.1.0,,MIT,17699,"CrewAI tools for AgentSearch: free live web search, plus pay-per-call extract and JS render ($0.005 USDC on Base via x402)"
+2026-10-16T13:50:42Z,llama-index-tools-agentsearch,0.1.0,,MIT,17570,"llama-index tools agentsearch integration: free live web search, plus pay-per-call extract and JS render"
+2026-10-16T13:50:45Z,openai-agents-agentsearch,0.1.0,,MIT,17327,"OpenAI Agents SDK function tools for AgentSearch: free live web search, plus pay-per-call extract and JS render"
+2026-10-16T13:51:49Z,tw-jobs-mcp,1.1.2,HsuanC0921,MIT,187678,"MCP server for searching Taiwan job boards (104, Yourator, foreign-company career boards) by Chinese area and job-category names"
+2026-10-16T13:52:51Z,langchain-openalex,0.1.0,OpenAlex <team@openalex.org>,MIT,19097,"LangChain tools and retriever for OpenAlex, the free index of the world's scholarly research"
+2026-10-16T13:53:47Z,fastmoda,2026.10.16,Steve Mander,GPL-3.0-only,263312,"MODA's time-frequency, coherence, bispectrum, ridge and Bayesian coupling analyses in Python, with ports checked against MODA's MATLAB output"
+2026-10-16T13:58:26Z,zoorik,1.0.0,Zoorik <founders@zoorik.com>,Apache-2.0,131863,"Zoorik's free cost assessments for Kubernetes (AKS, EKS) and Azure disks: one Excel file of what you could save."
+2026-10-16T13:59:11Z,agentradar-sdk,0.1.0,AgentRadar <sdk@agentradar.dev>,MIT,34164,"AI agent observability SDK — track runs, LLM calls, tool calls, and errors."
+2026-10-16T14:03:12Z,robot-msg-irsl,0.3.0,,MIT,370425,Typed JSON and binary robot messages shared by C++ and Python
+2026-10-16T14:10:45Z,inferenceport-cli,1.0.0,"""InferencePort LLC."" <admin@inferenceport.ai>",Apache-2.0,250080,"ipx - the InferencePort AI command line: cloud P2G, Lightning, organizations, local models and the desktop host server."
+2026-10-16T14:12:14Z,django-admin-rows,0.1.0,Rodolfo Becerra <rodolvbg@gmail.com>,MIT,511225,"Row-level extras for the Django admin: exclusive radio fields across rows, foreign keys as links, on changelists and inlines."
+2026-10-16T14:13:11Z,dataset-registry,0.1.1,Caroline Malin-Mayor <malinmayorc@janelia.hhmi.org>,BSD 3-Clause License,186833,Registry for imaging dataset metadata and provenance.
+2026-10-16T14:14:06Z,plumbline-agent,0.2.0,Lumetrix,Apache-2.0,20214788,"The Plumbline evidence agent: a signed, content-free record of how your AI system runs, with a local dashboard."
+2026-10-16T14:14:41Z,persread,0.0.1,Toni Prug,GPL-3.0-or-later,36519,"Perspective Reading: reading a large literature through one author's theoretical perspective, with every passage counted and page-mapped."
+2026-10-16T14:16:32Z,screenvideo,2.1.1,eminsk <M_N_Nik@yahoo.com>,MIT,111451,"ScreenCapture Pro - Professional zero-memory screen recorder with modern UI, hotkey controls, and native MCP Server"
