@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T02:19:32Z,pytest-threadbudget,0.1.1,Amogh Atreya,MIT,389482,Opt-in native thread budgets for local pytest-xdist workers
+2026-10-16T02:19:33Z,spatialdds,0.0.1,Open AR Cloud,MIT,3170,Client library for the SpatialDDS web binding. Placeholder release; the package is in active development.
+2026-10-16T02:20:45Z,vllm-torchtpu-core,0.0.0,,,1032,
+2026-10-16T02:21:05Z,gliders,0.1.3,Alejandro Erostegui <alexeros90@gmail.com>,"Copyright (c) 2026 Alejandro Erostegui Losantos Permission is hereby granted, free of charge, to an…",137506,GaLaxy Image DEcontamination Scripts - GLIDErS: Galaxy image cleaning and deblending pipeline
+2026-10-16T02:22:11Z,harnesswatch,0.1.0,Thanatchon Chongmankhong,Apache-2.0,586015,"Security audit toolkit for AI coding-agent harnesses: configs, MCP servers, instruction files, secrets residue, CI usage, and an inert canary prompt-injection benchmark."
+2026-10-16T02:23:24Z,vllm-torchtpu,0.0.0,,,983,
+2026-10-16T02:24:52Z,boxmunge,0.2.0,boxmunge,Apache-2.0,127354,Local CLI for boxmunge — deploy to your VPS in one command
+2026-10-16T02:28:23Z,plex-pipe,0.1.0,Kasia Kedziora <kedziorak@psc.edu>,BSD-3-Clause,1434695,"A pipeline from multiplexed whole-slide images to single-cell data, with human-in-the-loop ROI definition and quality control."
+2026-10-16T02:29:10Z,exactbj,0.1.0,mame1839,MIT,17328,Exact composition-dependent hit/stand decisions and pre-deal expected value for single-deck blackjack
+2026-10-16T02:35:41Z,praxis-agent,0.1.0,,MIT,6539836,"Praxis — a trusted-local workspace agent runtime for files, code, data, and private knowledge."
+2026-10-16T02:38:08Z,llm-flexai,0.1.0,FlexAI <sundar.bala@flex.ai>,MIT,13494,LLM plugin for models hosted by FlexAI
+2026-10-16T02:42:18Z,structured-data-models-api,1.0.0,NVIDIA,Apache-2.0,29247,Universal TFM API wire types for the NVIDIA Structured Data Models client
+2026-10-16T02:42:29Z,localagentbrowser,1.41,SnowFX,MIT,88580,An autonomous web agent driven by a local LLM (LM Studio) and Playwright. Runs entirely on your own machine.
+2026-10-16T02:42:37Z,shadowcordv2,1.8.1,bipolarfedd,"The MIT License (MIT) Copyright (c) 2015-present Rapptz Permission is hereby granted, free of charg…",1735358,A Discord.py 1.7.3 fork tailored for selfbot usage
+2026-10-16T02:43:27Z,structured-data-models-pql,1.0.0,NVIDIA,Apache-2.0,275972,Predictive Query Language parser and validator used inside the NVIDIA Structured Data Models client; not a supported API
+2026-10-16T02:44:30Z,structured-data-models-connectors,1.0.0,NVIDIA,Apache-2.0,129069,"Shared data-source connectors (connect, read, SQL quoting) for the structured-data-models-client and its engines"
+2026-10-16T02:45:02Z,autogen-warppay402,0.1.0,WarpPay402,,5355,Microsoft AutoGen tool integration for WarpPay402 x402 monetized APIs
+2026-10-16T02:45:02Z,ossdbutil,1.0.1,Alibaba Cloud AnalyticDB for PostgreSQL,Apache-2.0,55014,OSS + AnalyticDB for PostgreSQL file sync tool with metadata (adbpg_filestore SDK)
+2026-10-16T02:45:36Z,structured-data-models-relational-engine,1.0.0,NVIDIA,Apache-2.0,10968746,"Relational driver (graph building, samplers, PQL, native neighbor-sampler) for the NVIDIA Structured Data Models client"
+2026-10-16T02:45:58Z,semantic-kernel-warppay402,0.1.0,WarpPay402,,4690,Microsoft Semantic Kernel plugin integration for WarpPay402 x402 monetized APIs
+2026-10-16T02:47:23Z,gridpack,0.5.3,gridpack contributors,MIT,76035,Lossless compression for gridded scientific data (ERA5 and friends)
+2026-10-16T02:52:36Z,drfast-api,0.1.0,DRFast API contributors,MIT,190437,DRF-inspired async APIs for FastAPI and Tortoise ORM
+2026-10-16T03:04:06Z,pyvexfile,2.0.1,"""B. Marcote"" <marcote@jive.eu>",GPL-3.0-or-later,117447,Parser for .vex files.
+2026-10-16T03:09:23Z,unbolt,0.0.1,,Apache-2.0,40378,Turn COBOL copybooks into a versioned DSL and explainable Go/Java type mappings
+2026-10-16T03:11:23Z,immaterium,0.0.0,,,1384,Immaterium
