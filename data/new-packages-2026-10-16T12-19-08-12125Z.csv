@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T08:33:38Z,nexus-raw,0.18.0,lipen,MIT,29315,The Python reference client for nexus-raw: a minimal Nexus raw-storage client on the Python standard library
+2026-10-16T11:25:03Z,hiew,1.0.0,s1ngs0ng <7ingsong@gmail.com>,MIT,171957,"Hiew - cross-platform Hacker's View: hex viewer, editor and disassembler for the terminal"
+2026-10-16T11:25:10Z,framelift,0.0.1,rysk-tanaka,MIT,26105,Extract structured data from screen recordings and screenshots with vision LLMs.
+2026-10-16T11:26:40Z,aex-brain,1.0.0,AEX,MIT,9842,"Typed Python client for Brain sessions, tools, checkpoints, and event streams"
+2026-10-16T11:26:52Z,lumos-maxima,0.0.1,Vincent Foriel <vincent.foriel@gmail.com>,MIT,11399,Lumos is a Universal and Modular Optical Simulator & Operating System
+2026-10-16T11:27:16Z,mkdocs-webis,0.1.2,Jan Heinrich Merker <heinrich.merker@uni-jena.de>,MIT,47758,Webis style and BibTeX citations for MkDocs Material.
+2026-10-16T11:29:02Z,service-ple,0.2.2,Jorge Ramírez Espejo,Apache-2.0,161817,"service-ple server and agent (C++): the Flash-Next PLE table out of the inference engines, from a local file and/or a central server"
+2026-10-16T11:32:15Z,wyrd-ai,0.1.0,Wyrd contributors,Apache-2.0,65260661,Python bindings for Wyrd
+2026-10-16T11:32:47Z,mkswifi,0.1.0,Alexandre Duval <kannarfr@gmail.com>,MIT,19298,Asyncio client for 3D printers with a Makerbase MKS WIFI module (MKS Robin boards)
+2026-10-16T11:34:24Z,booking-agent-cli,0.1.0,Wix.com,Apache-2.0,714351,"The Booking Agent CLI: a stateful USP booking flow with hard gates, plus its USP protocol library."
+2026-10-16T11:38:02Z,facesign-sdk,0.0.3,FaceSign,,27998,A Python client for the FaceSign API.
+2026-10-16T11:38:29Z,yang2sdk,2026.10.16,Matteo Colantonio,Apache-2.0,437855,Generate a Pydantic-based IDE-friendly SDK from YANG modules.
+2026-10-16T11:40:06Z,kolossus-chat-django,1.3.1,Kolossus AI,BSD-3-Clause,53252,Add a KolossusAI chat assistant to your Django site with one command.
+2026-10-16T11:41:10Z,dimavpn,0.1.1,Dima,,4507,High-speed encrypted VPN core and IP masking utility
+2026-10-16T11:48:15Z,xrechnung,0.1.0,"""xrechnung.dev"" <dev@xrechnung.dev>",MIT,15696,"Python client for the xrechnung.dev API: generate, validate (official KoSIT rules) and parse XRechnung and ZUGFeRD e-invoices. Zero dependencies, no JVM required."
+2026-10-16T11:48:18Z,zugferd,0.1.0,"""xrechnung.dev"" <dev@xrechnung.dev>",MIT,5210,"Generate, validate (official KoSIT rules) and parse ZUGFeRD / Factur-X e-invoices via the xrechnung.dev API. Alias of the `xrechnung` package. No JVM required."
+2026-10-16T11:48:38Z,shadow-sentinel,1.0.1,automatician <235166879+automatician@users.noreply.github.com>,CC-BY-SA-3.0,30038,Autonomous OS-level revision & backup guard with decentralized marker control and loop-coupling
+2026-10-16T11:49:44Z,myxo,0.1.0,Stefane Fermigier,,2197,Add your description here
+2026-10-16T11:50:49Z,te-ignite,0.0.0,Technica Engineering GmbH,Proprietary,3787,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-10-16T11:51:10Z,captnseq-toolkit,0.1.1,Simon Jeanneau,MIT,26772,Analysis tools for CAPTn-seq transposon-insertion sequencing data (used by nf-core/captnseq)
+2026-10-16T11:51:28Z,te-analytics,0.0.0,Technica Engineering GmbH,Proprietary,3841,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-10-16T11:51:30Z,te-authorix,0.0.0,Technica Engineering GmbH,Proprietary,3833,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-10-16T11:51:32Z,te-Config,0.0.0,Technica Engineering GmbH,Proprietary,3816,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-10-16T11:53:13Z,httpee,0.1.0,,MIT,15609,httpee — thin httpx wrapper for eelang pipelines
+2026-10-16T11:53:32Z,pymumble-rev,0.1.0,Aiden Wong,MIT,121729,"Asyncio Mumble client library for Python — sans-IO protocol core and pull-based Opus audio, built for music and voice bots."
+2026-10-16T11:55:31Z,mirasoth-agentspace,0.1.0,Mirasoth Inc.,Dual-licensed: AGPL-3.0-or-later or Mirasoth Commercial License,57146,Python SDK and CLI for the Mirasoth AgentSpace API - isolated cloud workspaces for agent execution
+2026-10-16T11:56:01Z,kronotop-py,0.1.0,Burak Sezer <burak.sezer@kronotop.com>,Apache-2.0,413131,Python client for Kronotop
+2026-10-16T12:00:51Z,mem0-kronotop,0.1.0,Burak Sezer <burak.sezer@kronotop.com>,Apache-2.0,28775,Kronotop backend for mem0
+2026-10-16T12:01:34Z,labnotes,0.0.2,Kevin Scott <me@thekevinscott.com>,MIT,36387,"Browse experiment designs, notes, and run data from a folder."
+2026-10-16T12:01:55Z,contraagent,0.1.0,Tomoaki Tani,MIT,4048926,"Run coding-agent CLIs (claude -p, omp) as typed, supervised, observable tasks: contracts, failover, scheduling, resume, live monitor"
+2026-10-16T12:02:53Z,langchain-docling-rs,2.34.0,,MIT,6199,"LangChain document loader for docling.rs: PDF with layout, tables and OCR, DOCX, PPTX, XLSX, HTML and 40-odd formats into LangChain Documents, chunked with docling's metadata. docling in Rust, langch…"
+2026-10-16T12:03:38Z,truth-firewall,0.1.0,Truth Firewall Contributors,MIT,315680,Independently verify bounded local Python coding tasks completed by Codex.
+2026-10-16T12:06:03Z,brokerclock,0.1.0,Raeez alshamaly <github@raeez-alshamaly.com>,Apache-2.0,52813,"MetaTrader broker server time to UTC and back, with daylight saving done right."
+2026-10-16T12:06:37Z,validalatam-mcp,0.1.1,Matias Pengue <matias.pengue@gmail.com>,MIT,10915,"MCP server for the ValidaLatam API: validate CUIT, CPF, CNPJ, RFC, CURP, RUT, NIT, RUC, CLABE, CBU, IBAN"
+2026-10-16T12:13:50Z,fiberbrowser,3.0.0,FiberBrowser Authors,MIT,37226322,Interactive genome browser for fiber-seq and DAF-seq footprints at single-molecule resolution
+2026-10-16T12:18:52Z,mark-geometry,0.1,Student,MIT,5984,Библиотека для вычисления площадей и объёмов геометрических фигур
