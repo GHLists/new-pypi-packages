@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T21:19:12Z,evidence-depletion,1.0.0,Niklas Houba,MIT,89703,Evidence depletion for slot attention: residual evidence tracking against slot collapse in additive mixtures (NeurIPS 2026).
+2026-10-16T21:20:39Z,revdoku,2.1.0,Revdoku <support@revdoku.com>,MIT,461485,"Revdoku API client for Python: mailboxes for AI agents, with attachments and private file storage."
+2026-10-16T21:21:59Z,agentcomms-secure,0.2.1,web3wes,MIT,34274,"Experimental agent-to-agent messaging over a public hub: DH key agreement, directory-anchored fingerprints, and an MCP server. Stdlib only."
+2026-10-16T21:23:28Z,fastretry,0.5.1,Gleb Mikhalev <gleb1@bk.ru>,MIT,147547,Retry decorator for synchronous and asynchronous functions.
+2026-10-16T21:25:58Z,sgnl-config,0.1.0,"Chad Hanna <crh184@psu.edu>, Cort Posnansky <cort.posnansky@ligo.org>",MPL-2.0,68640,Unified configuration for the SGNL inspiral search pipeline
+2026-10-16T21:28:19Z,dtree-encoding,1.5.0,Enis Olgac <enis@digraphs.info>,MIT,31263,"DTree: incremental encoding of directed trees by two projections (Q1, Q2) with O(1) reachability and set queries"
+2026-10-16T21:29:15Z,rdflib-turbo,0.1.0a2,"DataRoad Inc, Delaware, USA, trading as Legra",MIT OR Apache-2.0,12579674,"Native exact-term RDF datasets, parsing and SPARQL for Python"
+2026-10-16T21:33:11Z,a4sx,0.11.0,crossVault GmbH,Apache-2.0,206873,"Save, share and resume coding-agent sessions: the a4sx command-line tool and session SDK."
+2026-10-16T21:34:51Z,toxi,0.5.0,Jeffery Li <zhipeng.li@gmail.com>,,332339,"Decentralized messaging for AI coding agents, over Tox"
+2026-10-16T21:35:30Z,distribatch,0.1.0a1,Adrian Galik,Apache-2.0,161261,"Batch LLM generation, embeddings and speech transcription over DataFrames with Spark or multiprocessing — Unity Catalog, local/Volume weights or OpenAI-compatible APIs"
+2026-10-16T21:36:02Z,verifactu-sdk,0.1.0,ldiazcuadrado,MIT,172845,"Librería Python para VERI*FACTU (AEAT): huella SHA-256 encadenada, XML validado contra el XSD oficial, código QR y envío SOAP a la Agencia Tributaria."
+2026-10-16T21:36:05Z,owlrl-turbo,0.1.0a2,"DataRoad Inc, Delaware, USA, trading as Legra",MIT OR Apache-2.0,28574,Native RDFS and OWL-RL inference using the rdflib-turbo runtime
+2026-10-16T21:37:02Z,swarmax,0.0.1,Sahand Nazarzadeh,MIT,6532,"Infrastructure for building complex software, end to end."
+2026-10-16T21:37:07Z,londonaicentre-oncoradschema,0.5.1,"""Dr. Joe Zhang"" <jzhang@nhs.net>, ""Dr. Emily Jin"" <emily.jin@gstt.nhs.uk>",LicenseRef-Proprietary,54055,Radiology
+2026-10-16T21:39:16Z,pyvar-jupyter,0.1.0,Fibtec Limited,Apache-2.0,35050,%pyvar / %%pyvar IPython magics and rich display for pyvar.com's risk computation API
+2026-10-16T21:40:00Z,agent-workflow-contracts,1.0.0,,MIT,184801,Shared frozen wire contracts for agent workflows
+2026-10-16T21:42:43Z,a4sx-mcp,0.1.0rc2,crossVault GmbH,Apache-2.0,87366,"Local MCP server (stdio) for a4sx: search, load and save coding-agent sessions from any MCP client."
+2026-10-16T21:43:15Z,langchain-printfriendly,0.1.0,PrintFriendly,MIT,36332,"LangChain integration for the PrintFriendly API: load any web page as clean, ad-free Markdown."
+2026-10-16T21:43:30Z,llama-index-readers-printfriendly,0.1.0,PrintFriendly,MIT,31886,"llama-index readers printfriendly integration: load any web page as clean, ad-free Markdown"
+2026-10-16T21:44:39Z,kettle-x2p-cli,1.0.0,Ilia Petrov-Komotskii <ilia@inkedkettle.art>,MIT,53295,"Local control of the Xiaomi Smart Kettle 2 Pro over your Wi-Fi, no cloud at runtime."
+2026-10-16T21:44:46Z,mrly,0.0.1,,MIT,1817,"MrlyProd; or, Marley Productions"
+2026-10-16T21:45:04Z,reachweaver,0.5.2,Mohsen Seyedkazemi Ardebili <mohsen.seyedkazemi@gmail.com>,Apache-2.0,2068516,Approval-first social publishing and evidence-driven audience growth for Claude Code
+2026-10-16T21:48:19Z,imbik-rectifier,0.2.0,imbik,,21638,"Review the changes in a git checkout with rectifier, imbik's code reviewer"
+2026-10-16T21:49:41Z,patchwork-postponer,1.0.0,Paweł Pecio,MIT,182359,Delayed delivery service for Patchwork - The distributed asynchronous microframework
+2026-10-16T21:49:44Z,otql,0.1.0,Paulo Tanaka,MIT,124058,"Open Terminal Query Language (OTQL) — Python SDK for financial statements, valuation multiples, peer analytics, and SEC EDGAR provenance."
+2026-10-16T21:49:58Z,aso,0.2.1,Abubeker Afdel <ibnuafdel@gmail.com>,MIT,1009394,The Aso framework: a Laravel-style web framework for Python (FastAPI + Inertia.js + an artisan-like CLI)
+2026-10-16T21:50:45Z,comfy-ui-api-workflow,0.0.1,Fabio Antonio Astore,MIT,303590,Run ComfyUI workflows through the ComfyUI API.
+2026-10-16T21:51:07Z,remoterf-device-core,0.1.0,,GPL-3.0-or-later,179067,"RemoteRF device protocol, IDL and built-in driver schemas shared by the lab Server and Host"
+2026-10-16T21:53:44Z,scitex-agentic-journal,0.1.0a0,Yusuke Watanabe <noreply@scitex.ai>,AGPL-3.0-only,374936,ARA-native AI-reviewed open publishing on top of Clew. Part of SciTeX.
+2026-10-16T21:54:17Z,judgeswap,0.1.0,,Apache-2.0,49950,"Position-swapped LLM-as-judge, rubric scoring, regression floors, structured-output parsing and an embedding A/B scorer for evaluating generation pipelines."
+2026-10-16T21:59:14Z,pace-spatial,0.1.0,Elijah Willie,GPL-3.0-or-later,10020295,"PACE: proximity-associated changes in expression, for imaging spatial transcriptomics"
+2026-10-16T22:02:01Z,polestar-dpapi-client,1.0.0,Kim-Eirik Karlsen <kim.eirik@gmail.com>,MIT,52820,A Python module for interfacing with the Polestar data platform.
+2026-10-16T22:03:07Z,certbot-dns-godaddy-v3,3.0.0,Dustyn Gibson,Apache-2.0,33372,A certbot plugin that implements letsencrypt dns wildcard support for godaddy using the GoDaddy Domains v3 API and Personal Access Tokens (fork of certbot-dns-godaddy)
+2026-10-16T22:04:46Z,eden-graspgenx,0.1.0,Adithya Murali <admurali@nvidia.com>,Apache-2.0,224698,"GraspGenX (cross-embodiment diffusion-based 6-DOF grasp generation), inference-only, packaged for Eden"
+2026-10-16T22:07:14Z,smart-astro,1.0.0,Chih-Chun Hsu,MIT,357613,The Spectral Modeling Analysis and RV Tool
+2026-10-16T22:14:14Z,tinkerbox-ane,1.0.0,,,166923,LiquidAI d1-3B decision model on the Apple Neural Engine via Core AI
+2026-10-16T22:16:21Z,unisson,0.1.0,Amine Sehili,MIT,25040851,Fast consensus decoding and Minimum Bayes Risk selection over multiple hypotheses
+2026-10-16T22:17:16Z,decider-main,3.4.2,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,62246,
+2026-10-16T22:17:31Z,estop,2.1.0,Chitender Kumar,MIT,58280,"htop for Elasticsearch search performance: live thread-pool, hot-shard, slow-task and config-audit monitor. Stdlib-only, read-only."
+2026-10-16T22:17:45Z,yama-client,0.1.0,Yama Access Software Systems Ltd.,MIT,45069,The official Python client for the Yama access-control API
+2026-10-16T22:17:47Z,confluence-knowledge,0.3.1,,MIT,65832,"Local, GET-only Confluence subtree indexer + grounded-Q&A MCP service"
+2026-10-16T22:18:25Z,bbi-variant-annotation,1.2.0b3,Jeremy Stone <74574922+jstone-dev@users.noreply.github.com>,GNU Affero General Public License v3 or later (AGPL-3.0-or-later),207873,Genetic variant mapping and annotation pipeline
+2026-10-16T22:19:33Z,vng-api,1.140.0b6,Lena During,MIT,54033,"An async API client for the game ""Von Neumann Game"" (https://neumann-probe.net)"
