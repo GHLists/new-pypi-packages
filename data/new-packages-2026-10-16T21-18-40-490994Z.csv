@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T20:19:01Z,cytebase,0.1.0,Parashar Dhapola <parashar.dhapola@gmail.com>,BSD-3-Clause,301515,Search a catalog of public single-cell datasets and open them as cloud-hosted CyteArc DataStores
+2026-10-16T20:19:02Z,mxflashattn,1.4.1,,Apache-2.0,377627,FlashAttention-compatible forward APIs and MXMACA bring-up backend
+2026-10-16T20:19:08Z,cps-sampling,0.1.0,"Erik Skalnes <eskalne1@jhu.edu>, Michael Oberst <moberst@jhu.edu>",MIT,22043,Conditional Poisson sampling: fixed-size samples with given inclusion probabilities
+2026-10-16T20:20:50Z,serverlex,1.0.0,Serverlex Team,,52511,"End-to-End Automated Data Cleaning, ML Preprocessing, Diagnostics, and Deployment Platform"
+2026-10-16T20:20:56Z,widestats,0.1.0,Josh Buckner <nullsatz@gmail.com>,GPL-3.0-or-later,97160,"Statistics for wide data on a GPU, on PyTorch: strongest correlated pairs, permutation and maxT tests, Granger causality and mutual information of every pair"
+2026-10-16T20:21:46Z,tt-studio,2.12.0,,Apache-2.0,10288896,Web interface for running AI models on Tenstorrent hardware
+2026-10-16T20:22:25Z,saadi,0.1.0,"Zeinab Sadat Taghavi, Lars Klein, Mary-Anne Hartley, Andreas Marfurt",MIT,735647,"Understand a long document once, retrieve many times: an index-time entity memory and summary hierarchy for single-pass retrieval"
+2026-10-16T20:23:41Z,chrome-dino-runner,0.1.0,,,8667577,A Python and Pygame recreation of the Chrome dinosaur runner game.
+2026-10-16T20:23:58Z,scaracom,1.0.1,Vladimir Roncevic,GNU General Public License (GPL),143407,SCARA Robot Communication Library — Layer 0 Hardware Transport & Layer 1 Protocol Bridge.
+2026-10-16T20:24:39Z,wabt-package,1.0.42.0b1,o-murphy <thehelixpg@gmail.com>,Apache-2.0,31616700,"WABT, the WebAssembly Binary Toolkit (wasm2c, wat2wasm, wasm2wat, ...) as prebuilt binaries and the wasm2c runtime"
+2026-10-16T20:27:00Z,aimarket-emporion,0.1.0,,MIT,499605,"EMPORION — public-record facts for agents that trade: EU VAT validity (VIES), legal entities (GLEIF LEI), ECB reference rates, sanctions-list lookups (OFAC, EU, UN), and Bitcoin-anchored timestamps (…"
+2026-10-16T20:30:33Z,rhizaeon,0.1.0b1,"""Sergei L. Kosakovsky Pond"" <spond@temple.edu>",MIT,3207375,RhizAeon PA-FF v2.1: Phylo-Attention Force Field Recombination Scanner
+2026-10-16T20:32:26Z,freedomridge,0.0.0,Freedom Ridge Contributors,MIT,4471,Placeholder for the Freedom Ridge (FRIDGE) Python SDK — no code yet.
+2026-10-16T20:33:56Z,pyvar-mcp,0.2.0,Fibtec Limited,Apache-2.0,186253,MCP server exposing pyvar.com's 385 risk functions as Claude Code tools
+2026-10-16T20:34:53Z,bylaw,0.1.1,Tunahan Ali Ozturk,MIT,207971,Reviews pull requests against your repository's own rules and requirements.
+2026-10-16T20:35:18Z,mode-mcp,0.1.1,Natalie Mona Matthews,MIT,27978,"MCP server for Mode Analytics — browse reports, manage queries, and fetch results"
+2026-10-16T20:35:39Z,iowap-client-mcp,0.1.1,,MIT,14800,MCP stdio toolkit for IOWAP — curated agent tools over the IOWAP node CLI
+2026-10-16T20:40:19Z,agents-voice,0.0.1,Lolaplex,MIT,36749,"Fast, minimal speech output MCP server and CLI for AI coding agents"
+2026-10-16T20:43:40Z,retro-slam,0.0.1,Saurabh Gupta <saurabh.gupta1002@gmail.com>,MIT,271823124,Improving Map Consistency in Graph-Based LiDAR SLAM Through Information-Aware Odometry and Retroactive Loop Closure
+2026-10-16T20:45:08Z,numba-vulkan,0.1.0,Mirza Arnaut,BSD-2-Clause AND Apache-2.0 WITH LLVM-exception,1629915,A Vulkan compute target for Numba: Python kernels on any GPU with a Vulkan driver
+2026-10-16T20:45:55Z,aijp-cli,0.0.1,,,2139,
+2026-10-16T20:46:31Z,aikp-cli,0.0.1,,,2115,
+2026-10-16T20:46:36Z,django-image-sec-validator,0.1.1,wsl-pc,,6683,Secure image validation and auto WebP conversion for Django
+2026-10-16T20:46:36Z,iowap-node,2.3.20,,MIT,114937,"IOWAP Node Framework — daemon, CLI, and handler runner for distributed agent nodes"
+2026-10-16T20:46:40Z,iowap-server,2.0.0,,MIT,299664,"IOWAP Relay Server — API, Scheduler, Auth, Dashboard, Metrics"
+2026-10-16T20:46:52Z,teqconnect,0.0.1,IO-TEQ,Apache-2.0,10199,"TeqConnect Python SDK (placeholder, first release coming soon)"
+2026-10-16T20:46:54Z,teqconnect-cli,0.0.1,IO-TEQ,Apache-2.0,10228,"TeqConnect CLI (placeholder, first release coming soon)"
+2026-10-16T20:48:47Z,truse,0.0.1,Mars Ausili <mars@cruxia.ai>,Apache-2.0,3257,Reserved name held by Cruxia-Labs. Contains no implementation; installing it does nothing.
+2026-10-16T20:52:26Z,ncrypted,0.1.0,Seidl Family,MIT,18638,"One-time, end-to-end encrypted secrets for AI agents. 3 free per day, then 0.005 USDC per secret via x402."
+2026-10-16T20:52:34Z,soulrun-dev,0.0.1,,,2187,
+2026-10-16T20:53:39Z,aihp-dev,0.0.1,,,2153,
+2026-10-16T20:54:37Z,divar-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,265366,"Unofficial read-only MCP server for Divar (divar.ir): search classified ads in any Iranian city, compare, find the cheapest and best deals, appraise prices, browse the map."
+2026-10-16T20:55:31Z,patchwork-client-redis,1.0.0,Paweł Pecio,MIT,118438,Redis Streams client for Patchwork - The distributed asynchronous microframework
+2026-10-16T20:56:02Z,saltext-winshell,1.0.1,Norbert <jaegerbomber@gmail.com>,Apache Software License,85119,Salt Extension for interacting with windows via salt-ssh
+2026-10-16T20:56:04Z,fleetq,0.2.1,Mohsen Seyedkazemi Ardebili,Apache-2.0,122485,"Run many Claude Code sessions in parallel against one shared task queue, sized to the work and the machine."
+2026-10-16T20:59:43Z,django-mcp-oauth,0.1.0,,Apache-2.0,65822,"An OAuth 2.1 authorization server for MCP resource servers, as a Django app: RFC 9728/8414/7591/7517/6750 profile, PKCE, refresh rotation, client-credentials service accounts."
+2026-10-16T21:04:33Z,facturacion-electronica-sunat-sdk,0.1.0b3,,MIT,4448823,"SUNAT (Peru) electronic invoicing: builds the UBL XML of invoices, receipts, credit and debit notes, daily summaries and void communications, signs it, zips it and reads SUNAT's answers."
+2026-10-16T21:05:17Z,seattle-open-data,0.1.0,Brian Connelly,MIT,105495,"Agent-friendly MCP server for Seattle Open Data (data.seattle.gov, Socrata SODA)."
+2026-10-16T21:06:29Z,watchby,0.0.1,devEstivenValencia,Apache-2.0,52854,"What a screen recording showed, next to what was said: stable screens, their text and a transcript that points at them"
+2026-10-16T21:07:38Z,safetygence-mad,0.1.1,SAFETYGENCE,0BSD,1196450,"Markdown reports and Vue slides: Quarto/Typst, Slidev, shared caches and incremental builds"
+2026-10-16T21:08:14Z,metanolo,0.1.0,festomanolo,MIT,8292267,"Fast, local CLI and interactive TUI for metadata extraction, inspection, search, and forensics."
+2026-10-16T21:09:21Z,django-realtime-search,0.1.0,,MIT,32424,Filter Django admin changelists in realtime as you type in the search box.
+2026-10-16T21:14:38Z,keelcodes,1.0.0,Keel,MIT,12991,Keel SDK — unified access to payment / wallet / data / account modules over https://keel.codes
+2026-10-16T21:17:35Z,roygbviz,0.1.0,Khai Dye-Brinkman,MIT,765607,"A rainbow theme and palette for plotnine: twelve colours, light and dark, made for research figures people can actually follow."
