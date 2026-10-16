@@ -8,38 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 05:19 UTC
+## Latest list — 2026-10-16 06:19 UTC
 
-New packages created between 2026-10-16 04:19 UTC and 2026-10-16 05:19 UTC.
+New packages created between 2026-10-16 05:19 UTC and 2026-10-16 06:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-16T05-19-23-30651Z.csv)
+[Full CSV](data/new-packages-2026-10-16T06-19-06-058858Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-16 04:19:38 | [mdb-ducklake](https://pypi.org/project/mdb-ducklake/) | 0.1.0 | Josh Brooks <josh@catalpa.io> | 64.9 kB | Sync an MS Access database into an updatable DuckLake mirror |
-| 2026-10-16 04:20:41 | [sukko](https://pypi.org/project/sukko/) | 0.1.0 | Sukko Contributors | 159.0 kB | Asyncio-first Python client SDK for the Sukko real-time platform |
-| 2026-10-16 04:21:42 | [memflow-relay](https://pypi.org/project/memflow-relay/) | 0.1.1 | LamoonAGI <dev@lamoonagi.com> | 50.5 kB | MemFlow Relay — local Gemini proxy with shadow/safe/optimize modes by LamoonAGI |
-| 2026-10-16 04:23:22 | [wrinklefe](https://pypi.org/project/wrinklefe/) | 1.4.0 | Rani F. Elhajjar | 1.9 MB | Finite element analysis of wrinkled composite laminates with advanced failure t… |
-| 2026-10-16 04:24:33 | [emaki](https://pypi.org/project/emaki/) | 0.1.0 | emaki | 14.5 kB | Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for… |
-| 2026-10-16 04:26:30 | [toposync-ext-ptz-attention](https://pypi.org/project/toposync-ext-ptz-attention/) | 0.9.0 |  | 390.2 kB | Toposync first-party extension for lifecycle-aware PTZ attention arbitration. |
-| 2026-10-16 04:30:00 | [ckpoint](https://pypi.org/project/ckpoint/) | 0.1.0 |  | 2.1 MB | Who can poison your app? Maps every npm account that can publish code into your… |
-| 2026-10-16 04:30:06 | [autoforge-trainer](https://pypi.org/project/autoforge-trainer/) | 1.0.2 | Honguan | 274.9 kB | AI that trains AI: analyse your data and hardware, pick a method, train, tune a… |
-| 2026-10-16 04:32:25 | [vbar](https://pypi.org/project/vbar/) | 0.0.1 | Jamil Hammoudeh <j.hammoudeh@… | 27.9 kB | A fast, headless, cross-platform benchmark for testing AI and classical spacecr… |
-| 2026-10-16 04:34:22 | [navig-vm](https://pypi.org/project/navig-vm/) | 0.1.0 | NAVIG Development Team <opens… | 74.0 kB | NAVIG VM module — local VMware Workstation VMs from verified cloud images, prov… |
-| 2026-10-16 04:37:00 | [tiggy-cli](https://pypi.org/project/tiggy-cli/) | 0.1.0 | Henry Upton | 47.0 kB | Declarative Google Tag Manager: validate, plan and apply GTM containers from a… |
-| 2026-10-16 04:37:24 | [handoverlab](https://pypi.org/project/handoverlab/) | 1.0.1 | Mostafa Jalili Sanjarani, Yas… | 778.4 kB | System-level simulator of handover and mobility procedures in dense 5G and beyo… |
-| 2026-10-16 04:44:17 | [quantx-engine](https://pypi.org/project/quantx-engine/) | 0.1.0 | Marshall WU <wujian.thu@gmail… | 10.3 MB | Block-sparse tensor-network engine for quantum many-body physics: symmetric DMR… |
-| 2026-10-16 04:45:03 | [seeplot](https://pypi.org/project/seeplot/) | 0.1.0 |  | 2.0 MB | Four ML lab pipeline notebooks with an interactive picker |
-| 2026-10-16 04:46:40 | [unmaskip](https://pypi.org/project/unmaskip/) | 0.1.0 | checkip.me | 26.4 kB | IP lookup with proxy, VPN, Tor and hosting detection, powered by checkip.me |
-| 2026-10-16 04:47:37 | [lukestack-db-semantic-mcp](https://pypi.org/project/lukestack-db-semantic-mcp/) | 0.8.0 | Luke <popo555155@gmail.com> | 496.7 kB | Semantic intelligence layer for SQL Server and Oracle databases, exposed via MC… |
-| 2026-10-16 04:48:10 | [langchain-emaki](https://pypi.org/project/langchain-emaki/) | 0.1.0 | emaki | 10.9 kB | LangChain tools for emaki (emaki.ai), the Japanese-language AI video generator… |
-| 2026-10-16 04:51:33 | [emaki-haystack](https://pypi.org/project/emaki-haystack/) | 0.1.0 | emaki | 9.7 kB | Haystack components for emaki (emaki.ai), the Japanese-language AI video genera… |
-| 2026-10-16 04:55:55 | [modbus-studio](https://pypi.org/project/modbus-studio/) | 0.1.0 | modbus-studio contributors | 370.1 kB | Open-source Modbus master for polling, monitoring and testing Modbus TCP/RTU de… |
-| 2026-10-16 04:57:52 | [azure-mgmt-koreaiartemis](https://pypi.org/project/azure-mgmt-koreaiartemis/) | 0.0.0b1 | Microsoft Corporation <azures… | 3.2 kB | This package will be released in the near future. Stay tuned! |
-| 2026-10-16 04:58:42 | [deeplearning-tharu](https://pypi.org/project/deeplearning-tharu/) | 0.0.1 | Tharu <you@example.com> | 19.0 kB | Deep learning exercise snippets — study helper library. |
-| 2026-10-16 04:58:56 | [benzene-codegen-client](https://pypi.org/project/benzene-codegen-client/) | 0.1.0b2 | Benzene | 36.6 kB | Generates a typed, topic-scoped Python client SDK from a Benzene Contract Docum… |
-| 2026-10-16 05:01:26 | [namedaemon](https://pypi.org/project/namedaemon/) | 0.1.0 | Krasen Slavov | 16.1 kB | Client and CLI for NameDaemon: .com domain availability, brandability scores, n… |
-| 2026-10-16 05:07:56 | [solar-flare-forecast](https://pypi.org/project/solar-flare-forecast/) | 0.1.0 | Kritika | 85.3 kB | Tools for downloading and evaluating historical solar flare forecasts. |
-| 2026-10-16 05:13:56 | [ix-locations-api](https://pypi.org/project/ix-locations-api/) | 0.0.0.dev38854028725 | IX Developers <devs@infoxchan… | 215.2 kB | Python client for the Infoxchange Locations API, generated from its OpenAPI sch… |
-| 2026-10-16 05:14:48 | [DRMsgClient](https://pypi.org/project/DRMsgClient/) | 0.1.1 |  | 24.7 kB | 与 DataRelay 的 MsgServer（sharedmsg）通信的 Python 客户端 |
-| 2026-10-16 05:15:59 | [fromthehotel-poems](https://pypi.org/project/fromthehotel-poems/) | 0.1.0 |  | 5.5 kB | Python client for the From the Hotel public poem API |
+| 2026-10-16 05:19:00 | [openmpm](https://pypi.org/project/openmpm/) | 0.0.1 | jadinata <jamesadinata@gmail.… | 5.7 kB | Open-source material point method for geomechanics |
+| 2026-10-16 05:19:02 | [openhaz](https://pypi.org/project/openhaz/) | 0.0.1 | jadinata <jamesadinata@gmail.… | 5.7 kB | Open-source seismic hazard analysis |
+| 2026-10-16 05:19:04 | [opengra](https://pypi.org/project/opengra/) | 0.0.1 | jadinata <jamesadinata@gmail.… | 5.7 kB | Open-source ground response analysis |
+| 2026-10-16 05:19:06 | [openfem](https://pypi.org/project/openfem/) | 0.0.1 | jadinata <jamesadinata@gmail.… | 5.7 kB | Open-source finite element analysis for geotechnical engineering |
+| 2026-10-16 05:19:10 | [ai-stp](https://pypi.org/project/ai-stp/) | 0.1.2 |  | 35.8 MB | Native Rust engine for AI harness configurations |
+| 2026-10-16 05:26:10 | [mass_balance_module](https://pypi.org/project/mass_balance_module/) | 1.0.2 | DTC-IS consortium | 39.7 kB | DTC-IS module to fetch EO data and derive current and future mass balance predi… |
+| 2026-10-16 05:27:18 | [rapidpdftrans](https://pypi.org/project/rapidpdftrans/) | 0.1.0 | RapidAI | 39.0 MB | Format-preserving PDF translation |
+| 2026-10-16 05:27:41 | [gulzar-techlogix-logging-utils](https://pypi.org/project/gulzar-techlogix-logging-utils/) | 0.1.0 |  | 2.4 kB | Shared Python logging and business utilities |
+| 2026-10-16 05:27:42 | [gulzar-techlogix-text-utils](https://pypi.org/project/gulzar-techlogix-text-utils/) | 0.1.0 |  | 2.4 kB | Shared Python utilities |
+| 2026-10-16 05:32:12 | [nodea](https://pypi.org/project/nodea/) | 0.0.1 | vicTop-cw | 1.8 kB | nodea — name reservation placeholder on PyPI (occupied to protect the nodea eco… |
+| 2026-10-16 05:33:08 | [actus-lang](https://pypi.org/project/actus-lang/) | 0.0.1 | vicTop-cw | 1.9 kB | actus — name reservation placeholder on PyPI (occupied to protect the actus eco… |
+| 2026-10-16 05:35:07 | [fofq](https://pypi.org/project/fofq/) | 0.0.0 | the authors | 3.6 kB | A package for scattering simulation in crystallography |
+| 2026-10-16 05:36:54 | [secondstrike](https://pypi.org/project/secondstrike/) | 1.0.0 | "Kyle Clouthier (Clouthier Si… | 20.3 kB | Put your AI agent in command of a nation in SECOND STRIKE, a real-time world wa… |
+| 2026-10-16 05:37:20 | [fromthehotel-songs](https://pypi.org/project/fromthehotel-songs/) | 0.1.0 |  | 5.6 kB | Python client for From the Hotel songs |
+| 2026-10-16 05:37:23 | [fromthehotel-lyrics](https://pypi.org/project/fromthehotel-lyrics/) | 0.1.0 |  | 5.4 kB | Python client for From the Hotel lyrics |
+| 2026-10-16 05:37:25 | [fromthehotel-short-novels](https://pypi.org/project/fromthehotel-short-novels/) | 0.1.0 |  | 5.5 kB | Python client for From the Hotel short-novels |
+| 2026-10-16 05:39:19 | [frontlatch](https://pypi.org/project/frontlatch/) | 0.1.0 |  | 9.8 kB | Typed client for the Frontlatch gateway: find a business, run an action, poll t… |
+| 2026-10-16 05:39:20 | [enigmata-sentinel-rooms](https://pypi.org/project/enigmata-sentinel-rooms/) | 0.0.0a0 | Enigmata, Inc. | 921 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-16 05:40:21 | [bitcurve](https://pypi.org/project/bitcurve/) | 0.0.1 | dni <office@dnilabs.com> | 12.3 MB | Fast libsecp256k1 bindings for Python with a coincurve compatible API. |
+| 2026-10-16 05:40:22 | [enigmata-sentinel-router](https://pypi.org/project/enigmata-sentinel-router/) | 0.0.0a0 | Enigmata, Inc. | 921 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-16 05:40:24 | [enigmata-sentinel-seal-receipt](https://pypi.org/project/enigmata-sentinel-seal-receipt/) | 0.0.0a0 | Enigmata, Inc. | 923 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-16 05:40:25 | [enigmata-sentinel-shield](https://pypi.org/project/enigmata-sentinel-shield/) | 0.0.0a0 | Enigmata, Inc. | 922 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-10-16 05:43:38 | [antasena](https://pypi.org/project/antasena/) | 0.0.1 | Iwan P. Anwar, Andini Alifah,… | 298.6 kB | Rigorous, educational nitrox diving calculations and desktop app in pure Python |
+| 2026-10-16 05:48:25 | [py-aniliberty](https://pypi.org/project/py-aniliberty/) | 0.1.0 | LLIJIYAPNIK | 58.0 kB | Async Python SDK for the AniLibria API: releases, episodes with HLS links, quic… |
+| 2026-10-16 05:48:47 | [agenticu](https://pypi.org/project/agenticu/) | 0.1.1 | AgentICU Contributors | 106.8 kB | Multi-Agent Observability & Auto-Recovery |
+| 2026-10-16 05:54:40 | [autocurate](https://pypi.org/project/autocurate/) | 0.3.0 |  | 458.9 kB | Automatic data curation and curation auto-research: signals as zero-copy column… |
+| 2026-10-16 05:54:59 | [text-adventure-mcp](https://pypi.org/project/text-adventure-mcp/) | 0.1.0 | Anthony Nguyen <portablestew@… | 9.0 MB | MCP server that holds a TCP connection open to a line-oriented text service. |
+| 2026-10-16 05:56:42 | [m3u8-dl-tool](https://pypi.org/project/m3u8-dl-tool/) | 0.1.1 | jxwubin <549719522@qq.com> | 13.9 kB | 跨平台m3u8下载工具，自动过滤广告分片，多线程下载 |
+| 2026-10-16 05:59:07 | [docuhook-client](https://pypi.org/project/docuhook-client/) | 1.0.0 | DocuHook | 7.6 kB | Official DocuHook Python client — merge JSON into HTML templates via the DocuHo… |
+| 2026-10-16 05:59:11 | [nk-python-style](https://pypi.org/project/nk-python-style/) | 0.1.0 |  | 22.8 kB | Python formatter and linter following the repository's conventions |
+| 2026-10-16 05:59:48 | [disability-access-charts](https://pypi.org/project/disability-access-charts/) | 0.0.1 |  | 7.8 kB | Accessible Plotly charts: alt-text checked against the data, a CI-ready audit,… |
+| 2026-10-16 06:00:52 | [proxmint-haystack](https://pypi.org/project/proxmint-haystack/) | 0.1.0 | Proxmint <support@proxmint.co… | 21.9 kB | Haystack component that fetches web pages through Proxmint residential, datacen… |
+| 2026-10-16 06:00:55 | [microheart](https://pypi.org/project/microheart/) | 0.1.0 | Ajay Kumar | 30.8 kB | Boot Firecracker microVMs from Python or the command line. Zero dependencies, L… |
+| 2026-10-16 06:10:33 | [imgstrip](https://pypi.org/project/imgstrip/) | 1.0.0 |  | 610.6 kB | Remove all metadata and hidden data from images by rebuilding them from their p… |
+| 2026-10-16 06:11:49 | [estorides](https://pypi.org/project/estorides/) | 1.3.0 | Gris Iscomeback <grisiscomeba… | 796.8 kB | State-level OSINT orchestrator. 99+ free public sources, async fanout, knowledg… |
+| 2026-10-16 06:12:22 | [kestrel-data-sdk](https://pypi.org/project/kestrel-data-sdk/) | 0.3.2 | Kestrel Data | 14.1 kB | Kestrel Data on-demand download SDK |
+| 2026-10-16 06:17:06 | [theon-publish-test](https://pypi.org/project/theon-publish-test/) | 0.1.0 | nat-wcx | 3.4 kB | Add your description here |
+| 2026-10-16 06:17:54 | [kamal-indian-states](https://pypi.org/project/kamal-indian-states/) | 0.1.0 | Kamal Sir | 3.7 kB | A list of Indian state names |
+| 2026-10-16 06:17:55 | [kamal-indian-states-thane](https://pypi.org/project/kamal-indian-states-thane/) | 0.1.0 | Kamal Sir | 3.8 kB | A list of Indian state names |
+| 2026-10-16 06:17:56 | [kamal-indian-states-thane-nav](https://pypi.org/project/kamal-indian-states-thane-nav/) | 0.1.0 | Kamal Sir | 3.9 kB | A list of Indian state names |
+| 2026-10-16 06:18:00 | [django-widget-hub](https://pypi.org/project/django-widget-hub/) | 0.1.0 | Hoowsed | 148.9 kB | Declare dashboard widgets once in Python; get validation, caching, owner-scoped… |
+| 2026-10-16 06:18:54 | [devready-cli](https://pypi.org/project/devready-cli/) | 0.0.1 | Evalogical Inc | 40.0 kB | A local-first, read-only CLI that checks a project's environment requirements a… |

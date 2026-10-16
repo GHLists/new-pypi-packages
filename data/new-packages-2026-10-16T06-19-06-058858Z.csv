@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T05:19:00Z,openmpm,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,5679,Open-source material point method for geomechanics
+2026-10-16T05:19:02Z,openhaz,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,5664,Open-source seismic hazard analysis
+2026-10-16T05:19:04Z,opengra,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,5687,Open-source ground response analysis
+2026-10-16T05:19:06Z,openfem,0.0.1,jadinata <jamesadinata@gmail.com>,MIT,5696,Open-source finite element analysis for geotechnical engineering
+2026-10-16T05:19:10Z,ai-stp,0.1.2,,AGPL-3.0-or-later,35762599,Native Rust engine for AI harness configurations
+2026-10-16T05:26:10Z,mass_balance_module,1.0.2,DTC-IS consortium,MIT,39711,DTC-IS module to fetch EO data and derive current and future mass balance predictions into the future.
+2026-10-16T05:27:18Z,rapidpdftrans,0.1.0,RapidAI,MIT,38969516,Format-preserving PDF translation
+2026-10-16T05:27:41Z,gulzar-techlogix-logging-utils,0.1.0,,,2412,Shared Python logging and business utilities
+2026-10-16T05:27:42Z,gulzar-techlogix-text-utils,0.1.0,,,2364,Shared Python utilities
+2026-10-16T05:32:12Z,nodea,0.0.1,vicTop-cw,MIT,1783,nodea — name reservation placeholder on PyPI (occupied to protect the nodea ecosystem family)
+2026-10-16T05:33:08Z,actus-lang,0.0.1,vicTop-cw,MIT,1877,actus — name reservation placeholder on PyPI (occupied to protect the actus ecosystem family)
+2026-10-16T05:35:07Z,fofq,0.0.0,the authors,0BSD,3556,A package for scattering simulation in crystallography
+2026-10-16T05:36:54Z,secondstrike,1.0.0,"""Kyle Clouthier (Clouthier Simulation Labs)"" <kyle@simgen.dev>",MIT,20275,"Put your AI agent in command of a nation in SECOND STRIKE, a real-time world war on a 3D globe with a nuclear doomsday clock. Client, starter bot and an LLM agent for any OpenAI-compatible model."
+2026-10-16T05:37:20Z,fromthehotel-songs,0.1.0,,,5611,Python client for From the Hotel songs
+2026-10-16T05:37:23Z,fromthehotel-lyrics,0.1.0,,,5371,Python client for From the Hotel lyrics
+2026-10-16T05:37:25Z,fromthehotel-short-novels,0.1.0,,,5475,Python client for From the Hotel short-novels
+2026-10-16T05:39:19Z,frontlatch,0.1.0,,MIT,9801,"Typed client for the Frontlatch gateway: find a business, run an action, poll the receipt. Standard library only."
+2026-10-16T05:39:20Z,enigmata-sentinel-rooms,0.0.0a0,"Enigmata, Inc.",,921,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-16T05:40:21Z,bitcurve,0.0.1,dni <office@dnilabs.com>,MIT,12337601,Fast libsecp256k1 bindings for Python with a coincurve compatible API.
+2026-10-16T05:40:22Z,enigmata-sentinel-router,0.0.0a0,"Enigmata, Inc.",,921,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-16T05:40:24Z,enigmata-sentinel-seal-receipt,0.0.0a0,"Enigmata, Inc.",,923,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-16T05:40:25Z,enigmata-sentinel-shield,0.0.0a0,"Enigmata, Inc.",,922,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-16T05:43:38Z,antasena,0.0.1,"Iwan P. Anwar, Andini Alifah, Faruq Khadami, Karina A. Sujatmiko, Sito F. Biosa, Alfita P. Handayan…",MIT,298583,"Rigorous, educational nitrox diving calculations and desktop app in pure Python"
+2026-10-16T05:48:25Z,py-aniliberty,0.1.0,LLIJIYAPNIK,MIT,58016,"Async Python SDK for the AniLibria API: releases, episodes with HLS links, quick search"
+2026-10-16T05:48:47Z,agenticu,0.1.1,AgentICU Contributors,MIT,106756,Multi-Agent Observability & Auto-Recovery
+2026-10-16T05:54:40Z,autocurate,0.3.0,,Apache-2.0,458939,"Automatic data curation and curation auto-research: signals as zero-copy columns, recipes as views, agents that search recipes against a fixed eval."
+2026-10-16T05:54:59Z,text-adventure-mcp,0.1.0,Anthony Nguyen <portablestew@gmail.com>,MIT,9007849,MCP server that holds a TCP connection open to a line-oriented text service.
+2026-10-16T05:56:42Z,m3u8-dl-tool,0.1.1,jxwubin <549719522@qq.com>,,13940,跨平台m3u8下载工具，自动过滤广告分片，多线程下载
+2026-10-16T05:59:07Z,docuhook-client,1.0.0,DocuHook,MIT,7553,Official DocuHook Python client — merge JSON into HTML templates via the DocuHook API
+2026-10-16T05:59:11Z,nk-python-style,0.1.0,,,22799,Python formatter and linter following the repository's conventions
+2026-10-16T05:59:48Z,disability-access-charts,0.0.1,,MIT,7780,"Accessible Plotly charts: alt-text checked against the data, a CI-ready audit, and a data-table fallback for every chart"
+2026-10-16T06:00:52Z,proxmint-haystack,0.1.0,Proxmint <support@proxmint.com>,MIT,21939,"Haystack component that fetches web pages through Proxmint residential, datacenter and mobile proxies, with country, city and ASN targeting and sticky sessions."
+2026-10-16T06:00:55Z,microheart,0.1.0,Ajay Kumar,MIT,30842,"Boot Firecracker microVMs from Python or the command line. Zero dependencies, Linux/KVM, Docker only to build the disk."
+2026-10-16T06:10:33Z,imgstrip,1.0.0,,AGPL-3.0-or-later,610622,"Remove all metadata and hidden data from images by rebuilding them from their pixels, with fail-closed verification."
+2026-10-16T06:11:49Z,estorides,1.3.0,Gris Iscomeback <grisiscomeback@gmail.com>,GPL-3.0,796773,"State-level OSINT orchestrator. 99+ free public sources, async fanout, knowledge graph, multi-LLM analyst."
+2026-10-16T06:12:22Z,kestrel-data-sdk,0.3.2,Kestrel Data,Proprietary,14082,Kestrel Data on-demand download SDK
+2026-10-16T06:17:06Z,theon-publish-test,0.1.0,nat-wcx,,3396,Add your description here
+2026-10-16T06:17:54Z,kamal-indian-states,0.1.0,Kamal Sir,MIT,3748,A list of Indian state names
+2026-10-16T06:17:55Z,kamal-indian-states-thane,0.1.0,Kamal Sir,MIT,3824,A list of Indian state names
+2026-10-16T06:17:56Z,kamal-indian-states-thane-nav,0.1.0,Kamal Sir,MIT,3876,A list of Indian state names
+2026-10-16T06:18:00Z,django-widget-hub,0.1.0,Hoowsed,MIT,148866,"Declare dashboard widgets once in Python; get validation, caching, owner-scoped CRUD, /about.json and a front for free."
+2026-10-16T06:18:54Z,devready-cli,0.0.1,Evalogical Inc,MIT,39967,"A local-first, read-only CLI that checks a project's environment requirements against what is installed."
