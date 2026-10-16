@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T01:21:35Z,mcp-piazza,0.1.0,jadenpxrk,MIT,221409,"Read-only MCP server for Piazza: courses, feeds, search, and full threads"
+2026-10-16T01:23:16Z,rpi-lcd-i2c-micropython,0.1.0,Samarth Joneja,MIT,8971,MicroPython driver for HD44780 character LCDs with PCF8574 I2C backpacks
+2026-10-16T01:33:12Z,collective-sphinxextexternalpackageversion,0.1.0,Silviu Bogan,MIT,8795,Sphinx extension to show the version of an external package through a special syntax in the documentation
+2026-10-16T01:38:52Z,splogo,1.0.0,Shawpon Sp,MIT,62971,"A professional, ultra-reliable terminal banner and shell customizer."
+2026-10-16T01:38:58Z,mlfont,0.1.0,"Quan Wang, Yiran Mao",,306926,"Machine-Learning-Guided Range-Compact Web Font Slicing (Frequency Slicing, Online LDA, DNN Topic Modeling, and Range-Compact Genetic Algorithm)"
+2026-10-16T01:41:13Z,thonny-classinus,0.6.0,,,120073,"Classinus dans Thonny : un assistant de cours dans un panneau, a cote de ton code."
+2026-10-16T01:42:38Z,pleiad,0.1.0,,MIT,311580,A provider-neutral runtime for building and executing Agents.
+2026-10-16T01:43:07Z,pv2n,0.2.0,Takahide Nogayama,,39545,"Presentation Video to Notes (PV2N) turns recorded presentations into structured, visual notes."
+2026-10-16T01:47:24Z,ecg-records-engine,0.3.0,humansys-lab,PolyForm-Noncommercial-1.0.0 OR LicenseRef-Commercial,116822991,"Compiled numerical engine of ecg-records: QRS detection, delineation and measurement of 12-lead ECGs (research and engineering software; not a medical device)"
+2026-10-16T01:52:34Z,tributo-algorithms,0.1.0,Tributo Contributors,Apache-2.0,467985,Official algorithm implementations and optional dependency extras for Tributo
+2026-10-16T01:57:18Z,vixipy,3.5.1,Vyxie <kitakita@disroot.org>,AGPL-3.0-or-later,1143594,An alternative pixiv frontend
+2026-10-16T02:03:53Z,pertrank,0.2.0rc2,,Private review distribution; public license pending author selection,5899983,Reusable control-geometry reliability for gene-specific perturbation prioritization
+2026-10-16T02:04:56Z,audioval,1.0.4,Hadi Cahyadi <cumulus13@gmail.com>,MIT,14354,Advanced Audio Validator: Detect corrupted files and empty tags.
+2026-10-16T02:08:38Z,praxis-agent-runtime,0.1.0,,MIT,6539500,"Praxis — a trusted-local workspace agent runtime for files, code, data, and private knowledge."
+2026-10-16T02:10:07Z,lingcore,0.1.0,David Jiménez,GPL-3.0-or-later,69151,"Abstract linguistic structures: segments, inventories, features."
+2026-10-16T02:13:33Z,img2cad,0.12.0,YUI-TIEN,MIT,739046,"Turn images, sketches and drawings into editable, coloured CAD (STEP/GLB/STL/3MF) with an agent workflow."
+2026-10-16T02:13:39Z,xpint,0.1.0b1,Matthias C. Schabel,BSD-3-Clause,96833,xpint extends Pint with quantity kinds and unit designations: semantic information that keeps energy distinct from torque and mL[blood]/mL[tissue] distinct from a plain ratio.
+2026-10-16T02:17:24Z,study-station,0.1.0,Study Station Contributors,MIT,697424,A Schedule-Aware Academic Preparation Station & Focus Cockpit for University Students
+2026-10-16T02:18:12Z,iagent-skill-hub,0.1.0,,,16704,Python CLI for mushroomAgentHub skills

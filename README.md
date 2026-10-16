@@ -8,27 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:20 UTC
+## Latest list — 2026-10-16 02:19 UTC
 
-New packages created between 2026-10-16 00:19 UTC and 2026-10-16 01:20 UTC.
+New packages created between 2026-10-16 01:20 UTC and 2026-10-16 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-16T01-20-07-097416Z.csv)
+[Full CSV](data/new-packages-2026-10-16T02-19-15-136444Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-16 00:21:08 | [useful-views](https://pypi.org/project/useful-views/) | 0.1.0 | James Horine | 662.9 kB | A framework and data project structure in which every derived table records the… |
-| 2026-10-16 00:24:01 | [logsquash](https://pypi.org/project/logsquash/) | 0.1.0 | agent-one <rafal.baranowski.i… | 8.3 kB | Collapse repeated log lines (ignoring timestamps, numbers, ids) into counted gr… |
-| 2026-10-16 00:25:01 | [onekit-tools](https://pypi.org/project/onekit-tools/) | 0.1.0 | Mattia Piazzalunga <hello@mat… | 328.8 kB | One simple toolkit. An offline CLI and shared browser processing core. |
-| 2026-10-16 00:27:54 | [mmo-runtime](https://pypi.org/project/mmo-runtime/) | 0.1.3 | tool-mmo <tranduythuc2003@gma… | 47.0 kB | Runtime library for MMO gRPC tools |
-| 2026-10-16 00:34:24 | [flashmap](https://pypi.org/project/flashmap/) | 0.1.0 | Jeff Shen, Zhejian Zhou, Ryan… | 151.0 kB | FlashMap: flow map speculative decoding for Hugging Face transformers |
-| 2026-10-16 00:35:22 | [pbt-extra-model-kinds](https://pypi.org/project/pbt-extra-model-kinds/) | 0.1.0 |  | 178.7 kB | Extra pbt model kinds: python_modal, agent_modal and agent37. |
-| 2026-10-16 00:36:49 | [framerudiments](https://pypi.org/project/framerudiments/) | 0.1.1 | Kieran Simkin | 76.8 kB | Deterministic Shorts and lyric visualisers using DanceRudiments and StemLab evi… |
-| 2026-10-16 00:44:36 | [mocodraw](https://pypi.org/project/mocodraw/) | 0.1.0 | Chenghao Wang | 557.4 kB | Draw entity-relationship diagrams (MCD) from a text description, as self-contai… |
-| 2026-10-16 00:45:07 | [molseal](https://pypi.org/project/molseal/) | 0.0.0 | Siddhant Rath | 4.2 kB | Encrypted molecular storage with RDKit (name reservation; first release coming… |
-| 2026-10-16 00:53:41 | [vibeinc-ai-art-team](https://pypi.org/project/vibeinc-ai-art-team/) | 0.2.1 | VibeInc | 276.3 kB | AI-first Blender art-team toolkit driven by MCP: concept, 3D, art-director revi… |
-| 2026-10-16 00:54:27 | [rasgapdf](https://pypi.org/project/rasgapdf/) | 0.1.2 | Messias Martins | 9.7 MB | Ultra-fast 2D spatial PDF parser powered by Rust |
-| 2026-10-16 00:58:18 | [tbcore](https://pypi.org/project/tbcore/) | 0.2.0 | Aditya Arakeri | 196.8 kB | Token-build core: accounted model clients, resumable execution pools, sandboxin… |
-| 2026-10-16 01:02:01 | [mivia-verify](https://pypi.org/project/mivia-verify/) | 1.0.0 | Mivia Software Ltd | 34.1 kB | Check a Mivia evidence pack without relying on Mivia. |
-| 2026-10-16 01:02:29 | [respan-instrumentation-browser-use](https://pypi.org/project/respan-instrumentation-browser-use/) | 0.1.1 | Respan | 28.8 kB | Respan instrumentation plugin for browser-use agents |
-| 2026-10-16 01:16:06 | [folklore-clumps](https://pypi.org/project/folklore-clumps/) | 0.1.0 | Andressa Wille | 56.5 kB | Detection, cross-filter matching and photometry of star-forming clumps in multi… |
-| 2026-10-16 01:19:22 | [portable-dataclass-mpy](https://pypi.org/project/portable-dataclass-mpy/) | 0.1.0 | MrCodeGameAndAnime | 53.2 kB | Host-generated dataclass metadata and a MicroPython dataclasses overlay |
+| 2026-10-16 01:21:35 | [mcp-piazza](https://pypi.org/project/mcp-piazza/) | 0.1.0 | jadenpxrk | 221.4 kB | Read-only MCP server for Piazza: courses, feeds, search, and full threads |
+| 2026-10-16 01:23:16 | [rpi-lcd-i2c-micropython](https://pypi.org/project/rpi-lcd-i2c-micropython/) | 0.1.0 | Samarth Joneja | 9.0 kB | MicroPython driver for HD44780 character LCDs with PCF8574 I2C backpacks |
+| 2026-10-16 01:33:12 | [collective-sphinxextexternalpackageversion](https://pypi.org/project/collective-sphinxextexternalpackageversion/) | 0.1.0 | Silviu Bogan | 8.8 kB | Sphinx extension to show the version of an external package through a special s… |
+| 2026-10-16 01:38:52 | [splogo](https://pypi.org/project/splogo/) | 1.0.0 | Shawpon Sp | 63.0 kB | A professional, ultra-reliable terminal banner and shell customizer. |
+| 2026-10-16 01:38:58 | [mlfont](https://pypi.org/project/mlfont/) | 0.1.0 | Quan Wang, Yiran Mao | 306.9 kB | Machine-Learning-Guided Range-Compact Web Font Slicing (Frequency Slicing, Onli… |
+| 2026-10-16 01:41:13 | [thonny-classinus](https://pypi.org/project/thonny-classinus/) | 0.6.0 |  | 120.1 kB | Classinus dans Thonny : un assistant de cours dans un panneau, a cote de ton co… |
+| 2026-10-16 01:42:38 | [pleiad](https://pypi.org/project/pleiad/) | 0.1.0 |  | 311.6 kB | A provider-neutral runtime for building and executing Agents. |
+| 2026-10-16 01:43:07 | [pv2n](https://pypi.org/project/pv2n/) | 0.2.0 | Takahide Nogayama | 39.5 kB | Presentation Video to Notes (PV2N) turns recorded presentations into structured… |
+| 2026-10-16 01:47:24 | [ecg-records-engine](https://pypi.org/project/ecg-records-engine/) | 0.3.0 | humansys-lab | 116.8 MB | Compiled numerical engine of ecg-records: QRS detection, delineation and measur… |
+| 2026-10-16 01:52:34 | [tributo-algorithms](https://pypi.org/project/tributo-algorithms/) | 0.1.0 | Tributo Contributors | 468.0 kB | Official algorithm implementations and optional dependency extras for Tributo |
+| 2026-10-16 01:57:18 | [vixipy](https://pypi.org/project/vixipy/) | 3.5.1 | Vyxie <kitakita@disroot.org> | 1.1 MB | An alternative pixiv frontend |
+| 2026-10-16 02:03:53 | [pertrank](https://pypi.org/project/pertrank/) | 0.2.0rc2 |  | 5.9 MB | Reusable control-geometry reliability for gene-specific perturbation prioritiza… |
+| 2026-10-16 02:04:56 | [audioval](https://pypi.org/project/audioval/) | 1.0.4 | Hadi Cahyadi <cumulus13@gmail… | 14.4 kB | Advanced Audio Validator: Detect corrupted files and empty tags. |
+| 2026-10-16 02:08:38 | [praxis-agent-runtime](https://pypi.org/project/praxis-agent-runtime/) | 0.1.0 |  | 6.5 MB | Praxis — a trusted-local workspace agent runtime for files, code, data, and pri… |
+| 2026-10-16 02:10:07 | [lingcore](https://pypi.org/project/lingcore/) | 0.1.0 | David Jiménez | 69.2 kB | Abstract linguistic structures: segments, inventories, features. |
+| 2026-10-16 02:13:33 | [img2cad](https://pypi.org/project/img2cad/) | 0.12.0 | YUI-TIEN | 739.0 kB | Turn images, sketches and drawings into editable, coloured CAD (STEP/GLB/STL/3M… |
+| 2026-10-16 02:13:39 | [xpint](https://pypi.org/project/xpint/) | 0.1.0b1 | Matthias C. Schabel | 96.8 kB | xpint extends Pint with quantity kinds and unit designations: semantic informat… |
+| 2026-10-16 02:17:24 | [study-station](https://pypi.org/project/study-station/) | 0.1.0 | Study Station Contributors | 697.4 kB | A Schedule-Aware Academic Preparation Station & Focus Cockpit for University St… |
+| 2026-10-16 02:18:12 | [iagent-skill-hub](https://pypi.org/project/iagent-skill-hub/) | 0.1.0 |  | 16.7 kB | Python CLI for mushroomAgentHub skills |
