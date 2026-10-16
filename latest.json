@@ -1,37 +1,37 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-16T21:18:40.490994Z",
-    "path": "data/new-packages-2026-10-16T22-19-51-852174Z.csv",
-    "to": "2026-10-16T22:19:51.852174Z"
+    "count": 22,
+    "from": "2026-10-16T22:19:51.852174Z",
+    "path": "data/new-packages-2026-10-16T23-19-09-939379Z.csv",
+    "to": "2026-10-16T23:19:09.939379Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-16T20:27:59Z",
       "package": "bin-dec-conversions",
       "since": "2026-10-16T20:18:37.405456Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-16T18:20:46Z",
-      "package": "corellium-api-client",
-      "since": "2026-10-16T18:20:40.795119Z"
+      "attempts": 1,
+      "created_at": "2026-10-16T23:18:45Z",
+      "package": "openfactsheet",
+      "since": "2026-10-16T22:19:51.852174Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-16T22:02:00Z",
       "package": "polestar-api",
       "since": "2026-10-16T21:18:40.490994Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-16T20:19:06Z",
       "package": "sugarai-erp-connector-prophet21",
       "since": "2026-10-16T20:18:37.405456Z"
     }
   ],
-  "serial": 42342106,
+  "serial": 42343575,
   "source_truncated": false,
-  "window": "2026-10-16T22:19:51.852174Z"
+  "window": "2026-10-16T23:19:09.939379Z"
 }
