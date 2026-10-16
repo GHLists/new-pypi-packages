@@ -8,36 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 00:19 UTC
+## Latest list — 2026-10-16 01:20 UTC
 
-New packages created between 2026-10-15 23:19 UTC and 2026-10-16 00:19 UTC.
+New packages created between 2026-10-16 00:19 UTC and 2026-10-16 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-16T00-19-06-333649Z.csv)
+[Full CSV](data/new-packages-2026-10-16T01-20-07-097416Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-15 23:21:04 | [reqmd-io](https://pypi.org/project/reqmd-io/) | 0.1.0 | Daniel Vollrath <info@reqmd.d… | 34.6 kB | Build reqmd-import/v1 exchange bundles from Python — write importers for DOORS,… |
-| 2026-10-15 23:22:20 | [kiwimatecoder](https://pypi.org/project/kiwimatecoder/) | 0.1.0 |  | 1.1 MB | AI-powered coding assistant CLI. Bring your own API key. |
-| 2026-10-15 23:22:48 | [sweef-browser](https://pypi.org/project/sweef-browser/) | 0.2.0 |  | 34.6 kB | Python SDK for Sweef, the lightweight browser engine for AI agents: Playwright-… |
-| 2026-10-15 23:25:08 | [bydtech-model-retire](https://pypi.org/project/bydtech-model-retire/) | 0.1.1 | BYD Tech <sales.bydtech@gmail… | 47.4 kB | Find deprecated, retiring and retired LLM model IDs in a codebase before a prov… |
-| 2026-10-15 23:28:18 | [ray-vast](https://pypi.org/project/ray-vast/) | 0.1.0 | Duc Pham <thiel.pham@gmail.co… | 177.4 kB | A Ray autoscaler node provider for vast.ai workers with an AWS EC2 head. |
-| 2026-10-15 23:32:33 | [hyperagents](https://pypi.org/project/hyperagents/) | 1.2.3rc5.post3 |  | 1.7 MB | Unlimited-domain multi-agent AI swarm platform |
-| 2026-10-15 23:34:28 | [sandboxer-sdk](https://pypi.org/project/sandboxer-sdk/) | 0.1.0 | Sandboxer <support@sandboxer.… | 252.4 kB | Python SDK for Sandboxer: cloud sandboxes for AI agents and humans. |
-| 2026-10-15 23:42:52 | [arxo-codegen](https://pypi.org/project/arxo-codegen/) | 0.4.0 |  | 797.9 kB | CLIR code-generation backends and delivery CLI |
-| 2026-10-15 23:46:28 | [modify-csv](https://pypi.org/project/modify-csv/) | 2026.10.4 |  | 18.1 kB | Apply a user-supplied Python function to a CSV row, column, or cell. |
-| 2026-10-15 23:52:51 | [biblemedia](https://pypi.org/project/biblemedia/) | 0.2 |  | 63.1 kB | Bible media — audio, graphic and video generation, and a web viewer, for Reuben… |
-| 2026-10-15 23:54:58 | [openquantum-sdk-cirq](https://pypi.org/project/openquantum-sdk-cirq/) | 0.5.0 |  | 26.6 kB | Cirq Python SDK for Open Quantum |
-| 2026-10-15 23:55:04 | [openquantum-sdk-qrisp](https://pypi.org/project/openquantum-sdk-qrisp/) | 0.5.0 |  | 21.9 kB | Qrisp Python SDK for Open Quantum |
-| 2026-10-15 23:56:58 | [zuspec-rt-core](https://pypi.org/project/zuspec-rt-core/) | 0.1.0 | Matthew Ballance <matt.ballan… | 22.7 kB | Zuspec runtime core: shared substrate and generated ABI headers for the ZBC run… |
-| 2026-10-15 23:58:48 | [cs-printt](https://pypi.org/project/cs-printt/) | 20261016 | Cameron Simpson <cs@cskk.id.a… | 13.5 kB | Print text tables, in the terminal or to a file, using `printt()` and its suppo… |
-| 2026-10-16 00:01:51 | [lvbitpack](https://pypi.org/project/lvbitpack/) | 1.0.0 | Javier Lianes <javier@lianes8… | 73.7 kB | LabVIEW Boolean arrays in pure Python: Boolean Array To Number with its sign ex… |
-| 2026-10-16 00:02:53 | [httpquoted](https://pypi.org/project/httpquoted/) | 0.2.0 | Javier Lianes <javier@lianes8… | 42.5 kB | Strict, typed and zero-dependency codec for HTTP quoted-strings, comments and t… |
-| 2026-10-16 00:03:17 | [zuspec-solver](https://pypi.org/project/zuspec-solver/) | 0.1.1 | Matthew Ballance <matt.ballan… | 23.5 kB | Zuspec IR solve problems, translated for constraint solvers (dv-solve) |
-| 2026-10-16 00:04:43 | [typedmultidict](https://pypi.org/project/typedmultidict/) | 0.2.0 | Javier Lianes <javier@lianes8… | 37.5 kB | Pure-Python typed ordered multi-value dictionary with a case-insensitive variant |
-| 2026-10-16 00:06:26 | [mediaparse](https://pypi.org/project/mediaparse/) | 0.2.0 | Javier Lianes <javier@lianes8… | 51.4 kB | Parse and build HTTP media types, Content-Type and Accept headers, exactly |
-| 2026-10-16 00:06:55 | [boxwire](https://pypi.org/project/boxwire/) | 0.0.1 |  | 2.9 kB | Reserved for boxwire, a visual editor and checker for programs built from black… |
-| 2026-10-16 00:09:42 | [token-hunt](https://pypi.org/project/token-hunt/) | 0.1.0 | Jordan Newell <jordan@jordann… | 118.7 kB | Catch secrets at chat time, not commit time. Hook-based scanner for Claude Code… |
-| 2026-10-16 00:11:33 | [runflect](https://pypi.org/project/runflect/) | 0.1.0 |  | 266.6 kB | Local-first evidence capture for AI agent executions |
-| 2026-10-16 00:12:54 | [zuspec-rt-eng](https://pypi.org/project/zuspec-rt-eng/) | 0.1.0 | Matthew Ballance <matt.ballan… | 28.8 kB | Zuspec runtime engine: native ZBC (.zbc) loader + bytecode interpreter over the… |
-| 2026-10-16 00:13:12 | [zuspec-synth](https://pypi.org/project/zuspec-synth/) | 0.1.0 | Matthew Ballance <matt.ballan… | 381.8 kB | Synthesis transformations for Zuspec IR |
-| 2026-10-16 00:15:38 | [vigilante-scan](https://pypi.org/project/vigilante-scan/) | 0.1.0 |  | 22.9 MB | Shows the new powers that a pull request gives to code, CI, build, and AI agents |
+| 2026-10-16 00:21:08 | [useful-views](https://pypi.org/project/useful-views/) | 0.1.0 | James Horine | 662.9 kB | A framework and data project structure in which every derived table records the… |
+| 2026-10-16 00:24:01 | [logsquash](https://pypi.org/project/logsquash/) | 0.1.0 | agent-one <rafal.baranowski.i… | 8.3 kB | Collapse repeated log lines (ignoring timestamps, numbers, ids) into counted gr… |
+| 2026-10-16 00:25:01 | [onekit-tools](https://pypi.org/project/onekit-tools/) | 0.1.0 | Mattia Piazzalunga <hello@mat… | 328.8 kB | One simple toolkit. An offline CLI and shared browser processing core. |
+| 2026-10-16 00:27:54 | [mmo-runtime](https://pypi.org/project/mmo-runtime/) | 0.1.3 | tool-mmo <tranduythuc2003@gma… | 47.0 kB | Runtime library for MMO gRPC tools |
+| 2026-10-16 00:34:24 | [flashmap](https://pypi.org/project/flashmap/) | 0.1.0 | Jeff Shen, Zhejian Zhou, Ryan… | 151.0 kB | FlashMap: flow map speculative decoding for Hugging Face transformers |
+| 2026-10-16 00:35:22 | [pbt-extra-model-kinds](https://pypi.org/project/pbt-extra-model-kinds/) | 0.1.0 |  | 178.7 kB | Extra pbt model kinds: python_modal, agent_modal and agent37. |
+| 2026-10-16 00:36:49 | [framerudiments](https://pypi.org/project/framerudiments/) | 0.1.1 | Kieran Simkin | 76.8 kB | Deterministic Shorts and lyric visualisers using DanceRudiments and StemLab evi… |
+| 2026-10-16 00:44:36 | [mocodraw](https://pypi.org/project/mocodraw/) | 0.1.0 | Chenghao Wang | 557.4 kB | Draw entity-relationship diagrams (MCD) from a text description, as self-contai… |
+| 2026-10-16 00:45:07 | [molseal](https://pypi.org/project/molseal/) | 0.0.0 | Siddhant Rath | 4.2 kB | Encrypted molecular storage with RDKit (name reservation; first release coming… |
+| 2026-10-16 00:53:41 | [vibeinc-ai-art-team](https://pypi.org/project/vibeinc-ai-art-team/) | 0.2.1 | VibeInc | 276.3 kB | AI-first Blender art-team toolkit driven by MCP: concept, 3D, art-director revi… |
+| 2026-10-16 00:54:27 | [rasgapdf](https://pypi.org/project/rasgapdf/) | 0.1.2 | Messias Martins | 9.7 MB | Ultra-fast 2D spatial PDF parser powered by Rust |
+| 2026-10-16 00:58:18 | [tbcore](https://pypi.org/project/tbcore/) | 0.2.0 | Aditya Arakeri | 196.8 kB | Token-build core: accounted model clients, resumable execution pools, sandboxin… |
+| 2026-10-16 01:02:01 | [mivia-verify](https://pypi.org/project/mivia-verify/) | 1.0.0 | Mivia Software Ltd | 34.1 kB | Check a Mivia evidence pack without relying on Mivia. |
+| 2026-10-16 01:02:29 | [respan-instrumentation-browser-use](https://pypi.org/project/respan-instrumentation-browser-use/) | 0.1.1 | Respan | 28.8 kB | Respan instrumentation plugin for browser-use agents |
+| 2026-10-16 01:16:06 | [folklore-clumps](https://pypi.org/project/folklore-clumps/) | 0.1.0 | Andressa Wille | 56.5 kB | Detection, cross-filter matching and photometry of star-forming clumps in multi… |
+| 2026-10-16 01:19:22 | [portable-dataclass-mpy](https://pypi.org/project/portable-dataclass-mpy/) | 0.1.0 | MrCodeGameAndAnime | 53.2 kB | Host-generated dataclass metadata and a MicroPython dataclasses overlay |
