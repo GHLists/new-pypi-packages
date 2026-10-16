@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T18:26:31Z,lepidoptera,0.1.0,"""Danilo A. Sarti"" <danilosarti@rcsi.ie>",MIT,47338,"Domain-agnostic causal simulation engine with mixed variable types, vine copula dependence, and individual-level counterfactual propagation."
+2026-10-16T18:27:38Z,lefsim,0.1.0,Nezar Abdennur,MIT,22842641,Stochastic simulation of loop-extrusion factors on a 1D lattice
+2026-10-16T18:28:35Z,provellm-verify,1.2.0,ProveLLM,Proprietary,66926,"Verify ProveLLM agent credentials and signed receipts — offline, with the issuer's public key only."
+2026-10-16T18:28:39Z,provellm-mcp,2.1.2,ProveLLM,Proprietary,76852,"ProveLLM MCP Gateway — every MCP tool call checked against an agent passport, and signed into a receipt."
+2026-10-16T18:30:35Z,vericto,0.2.0,Vericto <security@vericto.com>,Elastic-2.0,156558,"Official Vericto SDK for Python: check SQL before it runs. Wrappers for snowflake-connector-python, sqlite3, SQLAlchemy and any DB-API driver; integrations for LangChain, LlamaIndex, dbt and Airflow."
+2026-10-16T18:31:34Z,nuskills,0.1.0,Gor Arakelyan <gorarkln@gmail.com>,Apache-2.0,142873,Tested prompt pieces and agent skills for Nu and nuspace.
+2026-10-16T18:32:04Z,leona-mcp,0.3.0,,MIT,64789,"An MCP server over the public Quantum Atlas at leonaqt.com, and, with a token, verified runs"
+2026-10-16T18:32:33Z,aynigma,0.3.1,,,147178,Python SDK for Aynigma: IAM for AI agents and AI security guardrails
+2026-10-16T18:33:50Z,jupyter-ai-lite,0.0.0a0,,,685,
+2026-10-16T18:33:53Z,threatpulse-cli,1.0.0,Aleksei Zharkou <lyosha.zharkov.98@mail.ru>,MIT,52682,"Fast, zero-dependency Threat Intelligence & IOC enrichment CLI for SOC Analysts & Incident Responders"
+2026-10-16T18:35:21Z,cidermill-airplay,0.1.0,,GPL-3.0-or-later,1290485,"Sans-io AirPlay 2 building blocks: RTSP codec, HAP pairing (both sides), cipher framing, /info parsing."
+2026-10-16T18:36:16Z,sidejob,0.1.0,Yash Jindal <ykjindal4@gmail.com>,MIT,106318,"Simple, observable, fail-loud background jobs for data analysts (threads, retries, mandatory wait_all barrier)."
+2026-10-16T18:36:32Z,doeff-hy-pytest,0.5.0,,MIT,92698,pytest plugin for doeff-hy tests: a Python 3.14 fix for Hy and optional per-test time limits
+2026-10-16T18:36:56Z,doeff-hy,0.5.0,,MIT,914481,"Hy macros for writing doeff programs, effects, handlers and tests"
+2026-10-16T18:37:20Z,forkdb,0.1.0,,MIT OR Apache-2.0,162523,"Branch-per-test SQLite databases: the forkdb loadable extension, prebuilt for Linux x86_64, macOS arm64 and Windows x86_64"
+2026-10-16T18:39:33Z,cidermill-apple-ble,0.1.0,,GPL-3.0-or-later,318422,"A decoder for Apple BLE proximity-pairing advertisements (AirPods, Beats, etc.). Rust core, Python bindings."
+2026-10-16T18:42:14Z,langchain-cyborgdb,0.1.0,Cyborg Inc.,MIT,10065,LangChain integration for CyborgDB: The Confidential Vector Database
+2026-10-16T18:43:37Z,brainforge-inference-plugin-history,0.0.1a1,NeonGecko,AGPL-3.0-only,36289,Request history step for BrainForge inference pipelines
+2026-10-16T18:44:33Z,brainforge-inference-plugin-locale,0.0.1a1,NeonGecko,AGPL-3.0-only,36540,Locale request step for BrainForge inference pipelines
+2026-10-16T18:48:13Z,flexcompute-flow,0.0.1.dev0,"""Flexcompute Inc."" <support@flexcompute.com>",,21243,Reserved for the Flexcompute Flow Python client.
+2026-10-16T18:49:45Z,brainforge-inference-plugin-rag,0.0.1a1,NeonGecko,AGPL-3.0-only,40039,RAG retrieval and citation steps for BrainForge inference pipelines
+2026-10-16T18:50:23Z,spark-kindling-sdk,0.14.0rc1,SEP Engineering,MIT,131997,Design-time platform SDK for Kindling
+2026-10-16T18:50:26Z,spark-kindling-ext-sdp,0.14.0rc1,SEP Engineering,MIT,58296,Spark Declarative Pipelines (SDP) declaration engine for Kindling
+2026-10-16T18:50:28Z,spark-kindling-ext-temporal,0.14.0rc1,SEP Engineering,MIT,72023,"Temporal event, condition, and episode primitives for Kindling"
+2026-10-16T18:50:30Z,spark-kindling-ext-otel-azure,0.14.0rc1,SEP Engineering,MIT,17403,Azure Monitor OpenTelemetry integration for Kindling framework
+2026-10-16T18:57:18Z,monorepoly,0.2.0,,LicenseRef-Monorepoly,114481,Org-wide code and activity index for LLM agents
+2026-10-16T18:58:54Z,reeprov-client,0.1.0b1,Reeprov Contributors,Apache-2.0,28985,Python client SDK for Reeprov — local-first debugging and reproducibility infrastructure for AI agents.
+2026-10-16T19:04:50Z,scribe-client,0.1.0,Pneuma Solutions,MIT OR Apache-2.0,22753112,"Python client for the Scribe for Documents API, which converts documents into accessible formats"
+2026-10-16T19:05:20Z,bootstrap-agent-sdk,0.1.0,Indunil Udayangana <induniludayangana.18@cse.mrt.ac.lk>,Apache-2.0,83629,An agent SDK for config-driven chat agents
+2026-10-16T19:07:24Z,mcp-redteam-harness,0.1.0,Srihaasa Karyampudi,MIT,190808,"Dynamic red-team harness for MCP agents: a transparent proxy that injects attacks, measures attack success rate, and ships an information-flow mitigation layer."
+2026-10-16T19:07:35Z,mujoco_warp_lucidrains_fork,0.0.3,lucidrains,Apache-2.0,1129710,MuJoCo Warp fork with an MLX (Metal) rigid-body engine and Nim CPU fast paths
+2026-10-16T19:08:21Z,voting-age-validator-Meenakshi-Airoli,0.1.0,Meenakshi Sir,MIT,4450,Check minimum voting age by country
+2026-10-16T19:08:31Z,platformforge,0.1.0,Edgar Socrates Caria,"MIT License Copyright (c) 2026 Edgar Socrates Caria Permission is hereby granted, free of charge, t…",59527490,"Agentic Platform Engineering intelligence platform — deterministic, offline-first, evidence-first"
+2026-10-16T19:08:45Z,JavaScript-Fetch-API,0.1.0,ellainng,,25638,JavaScript-style Fetch API and promises for Python using the standard library
+2026-10-16T19:08:48Z,JavaScript-JSON,0.1.0,ellainng,,9220,Parse JSON with JavaScript-style object traversal in Python.
+2026-10-16T19:09:47Z,session-vault-sync,0.1.0,Thomas Halfman,MIT,45232,Local Claude Code session notes and optional transcript archives for Markdown vaults
+2026-10-16T19:11:28Z,sparkforge-aws,0.5.0,Edgar Socrates Caria,"MIT License Copyright (c) 2026 Edgar Socrates Caria Permission is hereby granted, free of charge, t…",8120827,"Agent skills and deterministic analyzers for AWS Glue PySpark, Parquet, Iceberg and Athena performance engineering"
+2026-10-16T19:11:57Z,sparkforge-azure,0.1.0,Edgar Socrates Caria,"MIT License Copyright (c) 2026 Edgar Socrates Caria Permission is hereby granted, free of charge, t…",3084736,"Agentic Engineering OS for Azure Data Engineering: deterministic facts, rules and evidence for Databricks, Fabric, Synapse, ADF, ADLS, Event Hubs, Unity Catalog and Purview"
+2026-10-16T19:12:07Z,forge-doctor-data,1.0.0,Forge Doctor Data contributors,MIT,2298160,Deterministic diagnostics for data engineering projects
+2026-10-16T19:12:07Z,pastemesh,0.10.1,PasteMesh Authors,MIT OR Apache-2.0,104533550,"Sovereign, End-to-End Encrypted Peer-to-Peer Clipboard Mesh"
+2026-10-16T19:12:08Z,hybriqx-workout-assistant,0.1.0,LKennedyShare,MIT,49841,"Privacy-first, explicitly capped x402 client for HYBRIQX workout adaptation"
+2026-10-16T19:13:59Z,pacejka,0.1.0,2023popn,MIT,31261,Calculate tire forces with the Pacejka magic formula
+2026-10-16T19:15:14Z,ttsem,0.1.0,Alessandro Potenza,MIT,1064886,Run Triton kernel tests without a GPU: out-of-bounds accesses and races at the kernel's line
+2026-10-16T19:15:28Z,densecore,0.10.0,,MIT,9322995,Rust-backed CPU float32 training and guarded graph compilation

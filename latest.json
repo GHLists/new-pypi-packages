@@ -1,31 +1,37 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-10-16T17:20:13.013054Z",
-    "path": "data/new-packages-2026-10-16T18-20-40-795119Z.csv",
-    "to": "2026-10-16T18:20:40.795119Z"
+    "count": 44,
+    "from": "2026-10-16T18:20:40.795119Z",
+    "path": "data/new-packages-2026-10-16T19-18-27-720516Z.csv",
+    "to": "2026-10-16T19:18:27.720516Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-10-16T18:20:46Z",
+      "package": "corellium-api-client",
+      "since": "2026-10-16T18:20:40.795119Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-16T18:06:50Z",
       "package": "coss-laravel",
       "since": "2026-10-16T17:20:13.013054Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-16T15:35:29Z",
       "package": "index4ai-sdk",
       "since": "2026-10-16T15:19:50.217859Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-16T16:09:31Z",
       "package": "python-schema-viewer",
       "since": "2026-10-16T15:19:50.217859Z"
     }
   ],
-  "serial": 42332989,
+  "serial": 42336217,
   "source_truncated": false,
-  "window": "2026-10-16T18:20:40.795119Z"
+  "window": "2026-10-16T19:18:27.720516Z"
 }
