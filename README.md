@@ -8,49 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 08:19 UTC
+## Latest list — 2026-10-16 09:19 UTC
 
-New packages created between 2026-10-16 07:19 UTC and 2026-10-16 08:19 UTC.
+New packages created between 2026-10-16 08:19 UTC and 2026-10-16 09:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-16T08-19-08-942953Z.csv)
+[Full CSV](data/new-packages-2026-10-16T09-19-04-529782Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-16 07:04:03 | [honeyplaybox-opensdk](https://pypi.org/project/honeyplaybox-opensdk/) | 1.0.3 | HoneyPlayBox | 41.3 kB | Python SDK for discovering, connecting, and controlling HoneyPlayBox toys. |
-| 2026-10-16 07:19:30 | [odoo-addon-delivery-fee](https://pypi.org/project/odoo-addon-delivery-fee/) | 18.0.1.0.1 | Moduon, Odoo Community Associ… | 38.3 kB | Charge extra fees on deliveries |
-| 2026-10-16 07:23:12 | [notion-search](https://pypi.org/project/notion-search/) | 0.1.2 | Dipanshu Daga | 51.1 kB | Offline, private hybrid search (exact words + meaning) for Notion Desktop's Cmd… |
-| 2026-10-16 07:25:29 | [odoo-addon-uom-qty-unique](https://pypi.org/project/odoo-addon-uom-qty-unique/) | 19.0.1.0.0.2 | ACSONE SA/NV,Odoo Community A… | 22.8 kB | This constrains unit of measure per quantity and per category |
-| 2026-10-16 07:30:39 | [nitelos](https://pypi.org/project/nitelos/) | 0.1.0 | Nitelos contributors | 550.9 kB | Verify the outcome, not the attempt: evidence-based success verification for AI… |
-| 2026-10-16 07:32:31 | [uenv-sdk](https://pypi.org/project/uenv-sdk/) | 0.1.0 |  | 467.2 kB | Python SDK for UEnv environments and task execution |
-| 2026-10-16 07:32:42 | [obox-builder](https://pypi.org/project/obox-builder/) | 1.0.3 | vinhgiga | 2.6 MB | Fast, beautiful and extensible administrative interface framework for FastAPI &… |
-| 2026-10-16 07:33:03 | [local-dark-factory](https://pypi.org/project/local-dark-factory/) | 0.1.0 | Dark Factory Team | 203.8 kB | Sovereign, local-first autonomous AI Software Factory orchestrator |
-| 2026-10-16 07:33:05 | [pyxpo-haptics](https://pypi.org/project/pyxpo-haptics/) | 0.1.0a1 | Vishal Chaubey | 17.1 kB | Haptic feedback for pyxpo apps: impact, notification and selection feedback (ex… |
-| 2026-10-16 07:36:20 | [uenv-bridge](https://pypi.org/project/uenv-bridge/) | 0.2.1 |  | 291.2 kB | Unified UEnv submission client |
-| 2026-10-16 07:37:29 | [pyxpo-device](https://pypi.org/project/pyxpo-device/) | 0.1.0a1 | Vishal Chaubey | 21.8 kB | Device facts for pyxpo apps: brand, model, OS, memory, device type (expo-device… |
-| 2026-10-16 07:44:22 | [kiln-cli](https://pypi.org/project/kiln-cli/) | 0.3.1 | antoine-tena | 606.0 kB | Make Claude Code build production-grade repos, and keep them that way |
-| 2026-10-16 07:45:24 | [navig-chats](https://pypi.org/project/navig-chats/) | 0.1.0 | navig | 123.8 kB | navig chats -- a local library for your AI conversations: import your ChatGPT d… |
-| 2026-10-16 07:47:22 | [pyxpo-application](https://pypi.org/project/pyxpo-application/) | 0.1.0a1 | Vishal Chaubey | 18.2 kB | App identity for pyxpo apps: name, id, version, build, install time (expo-appli… |
-| 2026-10-16 07:48:22 | [fubon-neo](https://pypi.org/project/fubon-neo/) | 2.3.1 | Fubon Securities | 19.1 MB | Fubon Securities Neo SDK — Python bindings for trading and market data. |
-| 2026-10-16 07:48:24 | [falsepass](https://pypi.org/project/falsepass/) | 0.4.0 |  | 680.5 kB | Probe RL environment verifiers for false passes and false fails. |
-| 2026-10-16 07:49:52 | [pyxpo-localization](https://pypi.org/project/pyxpo-localization/) | 0.1.0a1 | Vishal Chaubey | 20.0 kB | The device's locales and calendars: the expo-localization API for pyxpo. |
-| 2026-10-16 07:52:48 | [stockiq](https://pypi.org/project/stockiq/) | 0.0.6 | Luong Duc Minh, Do Huu Quan,… | 90.4 kB | Thư viện Python cung cấp dữ liệu tài chính và công cụ phân tích chuyên sâu cho… |
-| 2026-10-16 07:54:56 | [pyxpo-network](https://pypi.org/project/pyxpo-network/) | 0.1.0a1 | Vishal Chaubey | 19.8 kB | Network state, IP address and connectivity changes: the expo-network API for py… |
-| 2026-10-16 07:57:05 | [pyxpo-fetch](https://pypi.org/project/pyxpo-fetch/) | 0.1.0a1 | Vishal Chaubey | 30.0 kB | Streaming HTTP requests with native networking: the expo/fetch API for pyxpo. |
-| 2026-10-16 07:57:46 | [dpe-conformance](https://pypi.org/project/dpe-conformance/) | 0.4.0 | TuringFocus Team <dev@turingf… | 196.4 kB | DPE 服务端一致性跑分器：对任意 remote 黑盒运行协议检查，输出 JUnit XML 与执行/跳过计数 |
-| 2026-10-16 07:59:25 | [jlens](https://pypi.org/project/jlens/) | 0.17.0 | jlens contributors | 16.7 MB | JSONata for Python: a Rust engine with evaluation audits |
-| 2026-10-16 07:59:26 | [pyxpo-sqlite](https://pypi.org/project/pyxpo-sqlite/) | 0.1.0a1 | Vishal Chaubey | 22.3 kB | SQLite databases for pyxpo apps (expo-sqlite API) |
-| 2026-10-16 08:00:58 | [awp-runner](https://pypi.org/project/awp-runner/) | 0.1.0 |  | 477.1 kB | AWP runner: install/run a remote execution host for the Agent Workflow Platform |
-| 2026-10-16 08:01:50 | [pyxpo-web-browser](https://pypi.org/project/pyxpo-web-browser/) | 0.1.0a1 | Vishal Chaubey | 27.2 kB | In-app browser and OAuth sign-in sessions for pyxpo apps (SFSafariViewControlle… |
-| 2026-10-16 08:04:04 | [hydrosebench](https://pypi.org/project/hydrosebench/) | 0.1.2 | HydroSEBench | 3.7 MB | A Python package for evaluating model performance on the HydroSEBench benchmark… |
-| 2026-10-16 08:04:45 | [pyxpo-location](https://pypi.org/project/pyxpo-location/) | 0.1.0a1 | Vishal Chaubey | 39.1 kB | Device location, heading and geocoding for pyxpo apps (the expo-location API). |
-| 2026-10-16 08:06:43 | [polars-sexp](https://pypi.org/project/polars-sexp/) | 0.1.0 | Joseph Li | 59.6 MB | Parse S-expressions in Polars |
-| 2026-10-16 08:07:36 | [rj-api](https://pypi.org/project/rj-api/) | 0.0.1 | rahul | 2.9 kB |  |
-| 2026-10-16 08:07:44 | [pyxpo-notifications](https://pypi.org/project/pyxpo-notifications/) | 0.1.0a1 | Vishal Chaubey | 55.6 kB | Local notifications for pyxpo apps: schedule, show, tap handling and Android ch… |
-| 2026-10-16 08:09:21 | [pleos-client](https://pypi.org/project/pleos-client/) | 0.1.0 | Jordan Harrison | 16.2 kB | Async Python client for the Pleos personal Vehicle Data API |
-| 2026-10-16 08:10:20 | [agentfork-cli](https://pypi.org/project/agentfork-cli/) | 0.1.0 | Bimal Kumal | 31.5 kB | Fork your LLM agent at any step and sweep prompts, models or tool results to fi… |
-| 2026-10-16 08:10:29 | [irspec](https://pypi.org/project/irspec/) | 0.1.0 | Ali Perdekhan | 2.4 MB | Infrared spectra for chemistry students: OMNIC .SPA and JCAMP-DX in, tidy CSVs,… |
-| 2026-10-16 08:11:08 | [pyxpo-camera](https://pypi.org/project/pyxpo-camera/) | 0.1.0a1 | Vishal Chaubey | 50.2 kB | Camera preview, photos, videos and barcode scanning for pyxpo apps (the expo-ca… |
-| 2026-10-16 08:11:12 | [vdiskprobe](https://pypi.org/project/vdiskprobe/) | 1.0.0 | SteveJobz@isarvin.com | 91.7 kB | A lightweight Python library and CLI for detecting virtual disk image formats a… |
-| 2026-10-16 08:12:01 | [naija-data](https://pypi.org/project/naija-data/) | 0.1.0 | Akanji Oluwaseun Gabriel | 392.1 kB | Accurate, sourced Nigerian reference data: states, LGAs, wards, banks, NUBAN an… |
-| 2026-10-16 08:13:10 | [usb-rea](https://pypi.org/project/usb-rea/) | 0.2.1 |  | 421.0 kB | Reverse Engineer any USB gadget: capture, diff, infer, and generate open driver… |
-| 2026-10-16 08:14:23 | [django-naija](https://pypi.org/project/django-naija/) | 0.1.0 | Akanji Oluwaseun Gabriel | 23.2 kB | Django and DRF fields for Nigerian phone numbers, NUBAN, plate numbers, states… |
+| 2026-10-16 08:22:21 | [kerux](https://pypi.org/project/kerux/) | 0.1.1 | Dylan Gyesbreghs | 25.5 kB | Minimal in-process mediator for Python: requests, notifications and pipeline be… |
+| 2026-10-16 08:22:41 | [verialign](https://pypi.org/project/verialign/) | 0.2.1 | Anandhasasidharan <Anandhasas… | 175.3 kB | OpenAI-compatible verification support proxy for LLM outputs |
+| 2026-10-16 08:23:22 | [gknowledge-mcp](https://pypi.org/project/gknowledge-mcp/) | 0.2.2 | gknowledge contributors | 81.2 kB | MCP server for gknowledge: let Claude Code, Codex or Cursor search, read and gr… |
+| 2026-10-16 08:26:26 | [flyteplugins-nextflow](https://pypi.org/project/flyteplugins-nextflow/) | 0.0.0a0 | Kyle Hazen <kyle@union.ai> | 9.7 kB | Run Nextflow pipelines on Flyte, with every Nextflow task as a Flyte action |
+| 2026-10-16 08:27:31 | [ruijian-openapi-sdk](https://pypi.org/project/ruijian-openapi-sdk/) | 1.0.0 |  | 43.2 kB | Python SDK for Ruijian OpenAPI V2 |
+| 2026-10-16 08:28:01 | [odoo14-addon-sale-order-line-display-stock-per-warehouse](https://pypi.org/project/odoo14-addon-sale-order-line-display-stock-per-warehouse/) | 14.0.1.0.1.dev3 | Akretion, Odoo Community Asso… | 29.9 kB | Sale Order Line Display Stock Per Warehouse |
+| 2026-10-16 08:31:09 | [euromind-safeops](https://pypi.org/project/euromind-safeops/) | 0.3.0a8 | Sérgio Ribeiro | 181.1 kB | Provider-agnostic, safety-focused AI engineering orchestration CLI |
+| 2026-10-16 08:32:24 | [traceguard-core](https://pypi.org/project/traceguard-core/) | 0.1.7 | Sigilith <sigilith@github.com> | 36.3 kB | Action governance, tamper-evident evidence, and an optional MCP policy gate. |
+| 2026-10-16 08:33:42 | [shopee-equator-connector-sdk](https://pypi.org/project/shopee-equator-connector-sdk/) | 0.0.0 | sc | 2.6 kB | A small example package |
+| 2026-10-16 08:33:58 | [qwen3synth](https://pypi.org/project/qwen3synth/) | 0.1.0 | qwen3synth contributors | 83.7 kB | Qwen3-TTS synthesis and voice cloning directly from ONNX bundles |
+| 2026-10-16 08:35:42 | [rosetta-eclab](https://pypi.org/project/rosetta-eclab/) | 0.1.1 | Nataniel Ataseven | 222.1 kB | Name the columns of BioLogic EC-Lab .mpr files that your parser does not know -… |
+| 2026-10-16 08:35:42 | [smolagents-lizard](https://pypi.org/project/smolagents-lizard/) | 0.1.0 | Lizard | 17.9 kB | Run smolagents Python code in Lizard Sandboxes. |
+| 2026-10-16 08:36:56 | [inspect-lizard](https://pypi.org/project/inspect-lizard/) | 0.1.0 | Lizard | 29.2 kB | Lizard Sandboxes provider for Inspect AI. |
+| 2026-10-16 08:40:00 | [sahara-recsys](https://pypi.org/project/sahara-recsys/) | 2.0.0 | massquantity <jinxin_madie@16… | 633.5 kB | Versatile end-to-end recommender system. |
+| 2026-10-16 08:41:03 | [codesurgery](https://pypi.org/project/codesurgery/) | 0.1.0 |  | 604.8 kB | Matrix constructions of deformed quantum error-correcting codes |
+| 2026-10-16 08:42:58 | [lanetrace](https://pypi.org/project/lanetrace/) | 0.3.0 |  | 2.1 MB | LaneTrace - observability for AI agents, MLflow-style: fluent tracking API, loc… |
+| 2026-10-16 08:44:38 | [ArtinKit](https://pypi.org/project/ArtinKit/) | 0.1.0 | Artin Karimian | 15.0 kB | Lightweight Python utilities with secure defaults and zero mandatory third-part… |
+| 2026-10-16 08:44:59 | [speechscope](https://pypi.org/project/speechscope/) | 0.1.0 | Holger Nahrstaedt | 96.9 kB | Timestamped speech transcription, word alignment, and reference-based speech an… |
+| 2026-10-16 08:45:02 | [crowdsec-blocklist-import](https://pypi.org/project/crowdsec-blocklist-import/) | 3.9.0 | wolffcatskyy | 114.9 kB | Memory-efficient importer for public threat feeds into CrowdSec via LAPI |
+| 2026-10-16 08:46:36 | [mpt](https://pypi.org/project/mpt/) | 1.3.8 |  | 194.2 MB | Generate short videos from prompts, local assets, subtitles, and TTS. |
+| 2026-10-16 08:47:00 | [deterministic-search](https://pypi.org/project/deterministic-search/) | 0.2.0 | Anthony Lu | 687.8 kB | Local-first semantic evidence search for academic PDFs. Retrieval only — it nev… |
+| 2026-10-16 08:48:22 | [architecture-primitives](https://pypi.org/project/architecture-primitives/) | 0.1.0 | Vitalijs Levasins | 30.1 kB | Pydantic primitives for describing architecture of software solutions |
+| 2026-10-16 08:53:11 | [agent-team](https://pypi.org/project/agent-team/) | 0.5.1 | Lakeba | 358.0 kB | A configurable team of AI agents (any model, any machine) that plans, builds, r… |
+| 2026-10-16 08:54:24 | [notelight](https://pypi.org/project/notelight/) | 0.1.0 | Sergey Nefedyev | 2.9 MB | Private semantic search over your own files, for you and your AI agents. |
+| 2026-10-16 08:55:02 | [gridfm-trustlayer](https://pypi.org/project/gridfm-trustlayer/) | 0.1.0 | Antonio Alcántara <antonio.al… | 273.5 kB | Conformal trustworthiness layer for GridFM foundation models |
+| 2026-10-16 08:56:15 | [portbug](https://pypi.org/project/portbug/) | 0.1.0 | portbug | 19.8 kB | Port-level network measurement client for registered portbug nodes |
+| 2026-10-16 08:57:01 | [solid-jobs-py](https://pypi.org/project/solid-jobs-py/) | 0.1.0 |  | 87.1 kB | SolidJobs for Python: Redis task runner on PEP 734 subinterpreters, backed by t… |
+| 2026-10-16 08:58:36 | [wsbypass](https://pypi.org/project/wsbypass/) | 0.1.0 | aro22 | 6.6 kB | Universal Cloudflare-bypassing WebSocket client using TLS impersonation |
+| 2026-10-16 08:58:55 | [memkernel-mcp](https://pypi.org/project/memkernel-mcp/) | 0.1.0 | Varad Ganjoo | 106.8 kB | Event-sourced, branchable memory kernel and MCP server for multi-agent coding s… |
+| 2026-10-16 09:05:41 | [taylor-suit](https://pypi.org/project/taylor-suit/) | 0.2.1 |  | 6.9 MB | Generates IETF SUIT manifests, CBOR-encoded, from a JSON description |
+| 2026-10-16 09:06:56 | [tmap-agents](https://pypi.org/project/tmap-agents/) | 0.1.0 | JoeyZzZzZz <86097996+JoeyZzZz… | 1.6 MB | A firmware map for your AI agent. Treasure Map draws the map; your agent finds… |
+| 2026-10-16 09:12:10 | [semdex](https://pypi.org/project/semdex/) | 1.5.6 | bitranox <bitranox@gmail.com> | 36.1 MB | Read-only, file-watching semantic-search MCP server and CLI over local files |
+| 2026-10-16 09:14:58 | [paperful](https://pypi.org/project/paperful/) | 1.1.0 | Glen Wright | 1.3 MB | Research helper for a reference library: clean records, find missing PDFs, summ… |
+| 2026-10-16 09:18:11 | [portapyc](https://pypi.org/project/portapyc/) | 3.3.0.post4 | Tomer Filiba <tomerfiliba@gma… | 124.8 kB | PortaPyC, a python 3 port of RPyC version 3.3.0, allows communicating with pyth… |

@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T08:22:21Z,kerux,0.1.1,Dylan Gyesbreghs,MIT,25487,"Minimal in-process mediator for Python: requests, notifications and pipeline behaviors. Async first, fully typed."
+2026-10-16T08:22:41Z,verialign,0.2.1,Anandhasasidharan <Anandhasasidharan@users.noreply.github.com>,MIT,175317,OpenAI-compatible verification support proxy for LLM outputs
+2026-10-16T08:23:22Z,gknowledge-mcp,0.2.2,gknowledge contributors,"MIT License Copyright (c) 2026 Openapi® Permission is hereby granted, free of charge, to any person…",81174,"MCP server for gknowledge: let Claude Code, Codex or Cursor search, read and grow a Karpathy-style LLM wiki."
+2026-10-16T08:26:26Z,flyteplugins-nextflow,0.0.0a0,Kyle Hazen <kyle@union.ai>,,9705,"Run Nextflow pipelines on Flyte, with every Nextflow task as a Flyte action"
+2026-10-16T08:27:31Z,ruijian-openapi-sdk,1.0.0,,,43164,Python SDK for Ruijian OpenAPI V2
+2026-10-16T08:28:01Z,odoo14-addon-sale-order-line-display-stock-per-warehouse,14.0.1.0.1.dev3,"Akretion, Odoo Community Association (OCA)",AGPL-3,29860,Sale Order Line Display Stock Per Warehouse
+2026-10-16T08:31:09Z,euromind-safeops,0.3.0a8,Sérgio Ribeiro,Apache-2.0,181113,"Provider-agnostic, safety-focused AI engineering orchestration CLI"
+2026-10-16T08:32:24Z,traceguard-core,0.1.7,Sigilith <sigilith@github.com>,MIT,36290,"Action governance, tamper-evident evidence, and an optional MCP policy gate."
+2026-10-16T08:33:42Z,shopee-equator-connector-sdk,0.0.0,sc,BSD License,2558,A small example package
+2026-10-16T08:33:58Z,qwen3synth,0.1.0,qwen3synth contributors,Apache-2.0,83652,Qwen3-TTS synthesis and voice cloning directly from ONNX bundles
+2026-10-16T08:35:42Z,rosetta-eclab,0.1.1,Nataniel Ataseven,GPL-3.0-or-later,222112,"Name the columns of BioLogic EC-Lab .mpr files that your parser does not know - no language model, evidence for every answer"
+2026-10-16T08:35:42Z,smolagents-lizard,0.1.0,Lizard,Apache-2.0,17871,Run smolagents Python code in Lizard Sandboxes.
+2026-10-16T08:36:56Z,inspect-lizard,0.1.0,Lizard,Apache-2.0,29155,Lizard Sandboxes provider for Inspect AI.
+2026-10-16T08:40:00Z,sahara-recsys,2.0.0,massquantity <jinxin_madie@163.com>,MIT,633459,Versatile end-to-end recommender system.
+2026-10-16T08:41:03Z,codesurgery,0.1.0,,MIT,604843,Matrix constructions of deformed quantum error-correcting codes
+2026-10-16T08:42:58Z,lanetrace,0.3.0,,"MIT License Copyright (c) 2026 LaneTrace contributors Permission is hereby granted, free of charge,…",2145618,"LaneTrace - observability for AI agents, MLflow-style: fluent tracking API, local SQLite by default, `lanetrace ui` for the live dashboard."
+2026-10-16T08:44:38Z,ArtinKit,0.1.0,Artin Karimian,MIT,14958,Lightweight Python utilities with secure defaults and zero mandatory third-party dependencies.
+2026-10-16T08:44:59Z,speechscope,0.1.0,Holger Nahrstaedt,Apache-2.0,96898,"Timestamped speech transcription, word alignment, and reference-based speech analysis"
+2026-10-16T08:45:02Z,crowdsec-blocklist-import,3.9.0,wolffcatskyy,MIT,114879,Memory-efficient importer for public threat feeds into CrowdSec via LAPI
+2026-10-16T08:46:36Z,mpt,1.3.8,,MIT,194210434,"Generate short videos from prompts, local assets, subtitles, and TTS."
+2026-10-16T08:47:00Z,deterministic-search,0.2.0,Anthony Lu,"MIT License Copyright (c) 2026 Anthony Lu Permission is hereby granted, free of charge, to any pers…",687766,Local-first semantic evidence search for academic PDFs. Retrieval only — it never generates text.
+2026-10-16T08:48:22Z,architecture-primitives,0.1.0,Vitalijs Levasins,MIT,30077,Pydantic primitives for describing architecture of software solutions
+2026-10-16T08:53:11Z,agent-team,0.5.1,Lakeba,MIT,357954,"A configurable team of AI agents (any model, any machine) that plans, builds, reviews, markets and ships a software project through GitHub."
+2026-10-16T08:54:24Z,notelight,0.1.0,Sergey Nefedyev,MIT OR Apache-2.0,2927595,"Private semantic search over your own files, for you and your AI agents."
+2026-10-16T08:55:02Z,gridfm-trustlayer,0.1.0,Antonio Alcántara <antonio.alcantara@cunef.edu>,Apache-2.0,273489,Conformal trustworthiness layer for GridFM foundation models
+2026-10-16T08:56:15Z,portbug,0.1.0,portbug,MIT,19769,Port-level network measurement client for registered portbug nodes
+2026-10-16T08:57:01Z,solid-jobs-py,0.1.0,,,87064,"SolidJobs for Python: Redis task runner on PEP 734 subinterpreters, backed by the Ruby solid-redis gem through a sidecar."
+2026-10-16T08:58:36Z,wsbypass,0.1.0,aro22,MIT,6638,Universal Cloudflare-bypassing WebSocket client using TLS impersonation
+2026-10-16T08:58:55Z,memkernel-mcp,0.1.0,Varad Ganjoo,MIT,106756,"Event-sourced, branchable memory kernel and MCP server for multi-agent coding systems"
+2026-10-16T09:05:41Z,taylor-suit,0.2.1,,MIT OR Apache-2.0,6948508,"Generates IETF SUIT manifests, CBOR-encoded, from a JSON description"
+2026-10-16T09:06:56Z,tmap-agents,0.1.0,JoeyZzZzZz <86097996+JoeyZzZzZz@users.noreply.github.com>,Apache-2.0,1628027,A firmware map for your AI agent. Treasure Map draws the map; your agent finds the treasure.
+2026-10-16T09:12:10Z,semdex,1.5.6,bitranox <bitranox@gmail.com>,MIT,36102577,"Read-only, file-watching semantic-search MCP server and CLI over local files"
+2026-10-16T09:14:58Z,paperful,1.1.0,Glen Wright,MIT,1252892,"Research helper for a reference library: clean records, find missing PDFs, summarise papers, keep a platform-agnostic mirror. Zotero is the well-tested adapter; Mendeley and EndNote are seeking teste…"
+2026-10-16T09:18:11Z,portapyc,3.3.0.post4,Tomer Filiba <tomerfiliba@gmail.com>,MIT,124786,"PortaPyC, a python 3 port of RPyC version 3.3.0, allows communicating with python 2 clients and servers."
