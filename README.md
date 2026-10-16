@@ -8,36 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 03:19 UTC
+## Latest list — 2026-10-16 04:19 UTC
 
-New packages created between 2026-10-16 02:19 UTC and 2026-10-16 03:19 UTC.
+New packages created between 2026-10-16 03:19 UTC and 2026-10-16 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-16T03-19-09-614298Z.csv)
+[Full CSV](data/new-packages-2026-10-16T04-19-25-785445Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-16 02:19:32 | [pytest-threadbudget](https://pypi.org/project/pytest-threadbudget/) | 0.1.1 | Amogh Atreya | 389.5 kB | Opt-in native thread budgets for local pytest-xdist workers |
-| 2026-10-16 02:19:33 | [spatialdds](https://pypi.org/project/spatialdds/) | 0.0.1 | Open AR Cloud | 3.2 kB | Client library for the SpatialDDS web binding. Placeholder release; the package… |
-| 2026-10-16 02:20:45 | [vllm-torchtpu-core](https://pypi.org/project/vllm-torchtpu-core/) | 0.0.0 |  | 1.0 kB |  |
-| 2026-10-16 02:21:05 | [gliders](https://pypi.org/project/gliders/) | 0.1.3 | Alejandro Erostegui <alexeros… | 137.5 kB | GaLaxy Image DEcontamination Scripts - GLIDErS: Galaxy image cleaning and deble… |
-| 2026-10-16 02:22:11 | [harnesswatch](https://pypi.org/project/harnesswatch/) | 0.1.0 | Thanatchon Chongmankhong | 586.0 kB | Security audit toolkit for AI coding-agent harnesses: configs, MCP servers, ins… |
-| 2026-10-16 02:23:24 | [vllm-torchtpu](https://pypi.org/project/vllm-torchtpu/) | 0.0.0 |  | 983 B |  |
-| 2026-10-16 02:24:52 | [boxmunge](https://pypi.org/project/boxmunge/) | 0.2.0 | boxmunge | 127.4 kB | Local CLI for boxmunge — deploy to your VPS in one command |
-| 2026-10-16 02:28:23 | [plex-pipe](https://pypi.org/project/plex-pipe/) | 0.1.0 | Kasia Kedziora <kedziorak@psc… | 1.4 MB | A pipeline from multiplexed whole-slide images to single-cell data, with human-… |
-| 2026-10-16 02:29:10 | [exactbj](https://pypi.org/project/exactbj/) | 0.1.0 | mame1839 | 17.3 kB | Exact composition-dependent hit/stand decisions and pre-deal expected value for… |
-| 2026-10-16 02:35:41 | [praxis-agent](https://pypi.org/project/praxis-agent/) | 0.1.0 |  | 6.5 MB | Praxis — a trusted-local workspace agent runtime for files, code, data, and pri… |
-| 2026-10-16 02:38:08 | [llm-flexai](https://pypi.org/project/llm-flexai/) | 0.1.0 | FlexAI <sundar.bala@flex.ai> | 13.5 kB | LLM plugin for models hosted by FlexAI |
-| 2026-10-16 02:42:18 | [structured-data-models-api](https://pypi.org/project/structured-data-models-api/) | 1.0.0 | NVIDIA | 29.2 kB | Universal TFM API wire types for the NVIDIA Structured Data Models client |
-| 2026-10-16 02:42:29 | [localagentbrowser](https://pypi.org/project/localagentbrowser/) | 1.41 | SnowFX | 88.6 kB | An autonomous web agent driven by a local LLM (LM Studio) and Playwright. Runs… |
-| 2026-10-16 02:42:37 | [shadowcordv2](https://pypi.org/project/shadowcordv2/) | 1.8.1 | bipolarfedd | 1.7 MB | A Discord.py 1.7.3 fork tailored for selfbot usage |
-| 2026-10-16 02:43:27 | [structured-data-models-pql](https://pypi.org/project/structured-data-models-pql/) | 1.0.0 | NVIDIA | 276.0 kB | Predictive Query Language parser and validator used inside the NVIDIA Structure… |
-| 2026-10-16 02:44:30 | [structured-data-models-connectors](https://pypi.org/project/structured-data-models-connectors/) | 1.0.0 | NVIDIA | 129.1 kB | Shared data-source connectors (connect, read, SQL quoting) for the structured-d… |
-| 2026-10-16 02:45:02 | [autogen-warppay402](https://pypi.org/project/autogen-warppay402/) | 0.1.0 | WarpPay402 | 5.4 kB | Microsoft AutoGen tool integration for WarpPay402 x402 monetized APIs |
-| 2026-10-16 02:45:02 | [ossdbutil](https://pypi.org/project/ossdbutil/) | 1.0.1 | Alibaba Cloud AnalyticDB for… | 55.0 kB | OSS + AnalyticDB for PostgreSQL file sync tool with metadata (adbpg_filestore S… |
-| 2026-10-16 02:45:36 | [structured-data-models-relational-engine](https://pypi.org/project/structured-data-models-relational-engine/) | 1.0.0 | NVIDIA | 11.0 MB | Relational driver (graph building, samplers, PQL, native neighbor-sampler) for… |
-| 2026-10-16 02:45:58 | [semantic-kernel-warppay402](https://pypi.org/project/semantic-kernel-warppay402/) | 0.1.0 | WarpPay402 | 4.7 kB | Microsoft Semantic Kernel plugin integration for WarpPay402 x402 monetized APIs |
-| 2026-10-16 02:47:23 | [gridpack](https://pypi.org/project/gridpack/) | 0.5.3 | gridpack contributors | 76.0 kB | Lossless compression for gridded scientific data (ERA5 and friends) |
-| 2026-10-16 02:52:36 | [drfast-api](https://pypi.org/project/drfast-api/) | 0.1.0 | DRFast API contributors | 190.4 kB | DRF-inspired async APIs for FastAPI and Tortoise ORM |
-| 2026-10-16 03:04:06 | [pyvexfile](https://pypi.org/project/pyvexfile/) | 2.0.1 | "B. Marcote" <marcote@jive.eu> | 117.4 kB | Parser for .vex files. |
-| 2026-10-16 03:09:23 | [unbolt](https://pypi.org/project/unbolt/) | 0.0.1 |  | 40.4 kB | Turn COBOL copybooks into a versioned DSL and explainable Go/Java type mappings |
-| 2026-10-16 03:11:23 | [immaterium](https://pypi.org/project/immaterium/) | 0.0.0 |  | 1.4 kB | Immaterium |
+| 2026-10-16 02:44:12 | [pftw](https://pypi.org/project/pftw/) | 0.1.4 | Matthew Dean Martin | 15.3 MB | Install official Python on Windows without the Store, MSI or Python Install Man… |
+| 2026-10-16 03:19:11 | [ghidra-bizhawk-mcp](https://pypi.org/project/ghidra-bizhawk-mcp/) | 1.1.0 |  | 112.7 kB | A unified Model Context Protocol (MCP) server bridging Ghidra's static analysis… |
+| 2026-10-16 03:22:02 | [querycleaner](https://pypi.org/project/querycleaner/) | 0.1.0 | QC Contributors | 537.0 kB | QueryCleaner/QC - local-first data profiling, sanitization, and synthetic data… |
+| 2026-10-16 03:24:40 | [nano-mcp-termux](https://pypi.org/project/nano-mcp-termux/) | 1.1.1 | Lmeng486 | 30.1 kB | Zero-dependency single-file MCP server for Termux/Android, Raspberry Pi and Lin… |
+| 2026-10-16 03:26:14 | [ohapi](https://pypi.org/project/ohapi/) | 0.1.0 | Obsidian Heron | 39.7 kB | Python client for the ohapi secrets API. |
+| 2026-10-16 03:26:50 | [plotline](https://pypi.org/project/plotline/) | 0.1.0.dev0 |  | 10.6 MB | Turn images into drawings for pen plotters. |
+| 2026-10-16 03:27:56 | [roboskills](https://pypi.org/project/roboskills/) | 0.0.0 | Jianglong Ye | 1.4 kB | RoboSkills (placeholder). |
+| 2026-10-16 03:30:14 | [wandura](https://pypi.org/project/wandura/) | 0.0.1 |  | 2.8 kB | Name reserved for the official Python SDK of the Wandura API (not released yet). |
+| 2026-10-16 03:34:20 | [thumbtalk](https://pypi.org/project/thumbtalk/) | 0.1.0 | Valentino Margarit | 501.0 kB | Hold a mouse button, talk, let go. Private, offline dictation for Windows that… |
+| 2026-10-16 03:35:51 | [giove-pdf](https://pypi.org/project/giove-pdf/) | 0.2.0 | Giove | 2.2 MB | Giove PDF: PDF a Markdown con motor nativo en Rust, OCR local y firma. De Giove. |
+| 2026-10-16 03:43:40 | [colab-cli-mcp](https://pypi.org/project/colab-cli-mcp/) | 0.1.0 | amgallego8 <info@angelgallego… | 126.2 kB | MCP server that wraps the official Google Colab CLI so an AI agent can use Cola… |
+| 2026-10-16 03:48:22 | [iceberg-studio](https://pypi.org/project/iceberg-studio/) | 0.1.0 |  | 1.5 MB | Explorador web de tabelas Apache Iceberg: schema, snapshots, arquivos, time tra… |
+| 2026-10-16 03:50:29 | [neuroviewer](https://pypi.org/project/neuroviewer/) | 0.1.0 | Rodrigo Debona <r.debona@ufrj… | 143.1 kB | Freeview-like neuroimaging viewer in pure Python (PySide6 + vedo/VTK + nibabel) |
+| 2026-10-16 03:51:47 | [flux3-mlx](https://pypi.org/project/flux3-mlx/) | 0.1.0 |  | 63.7 kB | FLUX 3 Image Klein on Apple Silicon: text-to-image, editing with up to 10 refer… |
+| 2026-10-16 03:52:19 | [cryptcheck](https://pypi.org/project/cryptcheck/) | 0.1.0 | Sohan Shelar <sohanshelar01@g… | 9.1 kB | A cybersecurity CLI tool to analyze password complexity and verify breach expos… |
+| 2026-10-16 03:54:18 | [cgwa](https://pypi.org/project/cgwa/) | 0.1.0 | Your Name | 8.9 kB | CGWA Python package |
+| 2026-10-16 03:57:38 | [volume-remesher](https://pypi.org/project/volume-remesher/) | 1.0.0 | Marco Attene, Daniele Panozzo | 8.2 MB | Exact volume meshing of triangle soups: polyhedral and tetrahedral meshes, bool… |
+| 2026-10-16 04:00:35 | [schemmy](https://pypi.org/project/schemmy/) | 0.1.0 | Ruslan Glotov | 18.6 kB | Validate data with plain type annotations. No dependencies. |
+| 2026-10-16 04:06:31 | [bigyahu](https://pypi.org/project/bigyahu/) | 0.1.0 | bigyahu | 6.6 kB | Retrieve code snippets stored as ipynb notebooks via by.list() and by.get() |
+| 2026-10-16 04:12:28 | [k3q-arxml](https://pypi.org/project/k3q-arxml/) | 2.1.0 |  | 15.6 MB | A lightweight Python library for reading and editing AUTOSAR ARXML files |

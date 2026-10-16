@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T02:44:12Z,pftw,0.1.4,Matthew Dean Martin,MIT,15284691,"Install official Python on Windows without the Store, MSI or Python Install Manager"
+2026-10-16T03:19:11Z,ghidra-bizhawk-mcp,1.1.0,,Apache-2.0,112692,A unified Model Context Protocol (MCP) server bridging Ghidra's static analysis with BizHawk's live emulation for retro-reversing and bare-metal firmware analysis.
+2026-10-16T03:22:02Z,querycleaner,0.1.0,QC Contributors,Apache-2.0,537008,"QueryCleaner/QC - local-first data profiling, sanitization, and synthetic data generation with CLI and MCP interfaces"
+2026-10-16T03:24:40Z,nano-mcp-termux,1.1.1,Lmeng486,MIT,30054,"Zero-dependency single-file MCP server for Termux/Android, Raspberry Pi and Linux"
+2026-10-16T03:26:14Z,ohapi,0.1.0,Obsidian Heron,MIT,39718,Python client for the ohapi secrets API.
+2026-10-16T03:26:50Z,plotline,0.1.0.dev0,,MIT,10611711,Turn images into drawings for pen plotters.
+2026-10-16T03:27:56Z,roboskills,0.0.0,Jianglong Ye,,1353,RoboSkills (placeholder).
+2026-10-16T03:30:14Z,wandura,0.0.1,,,2833,Name reserved for the official Python SDK of the Wandura API (not released yet).
+2026-10-16T03:34:20Z,thumbtalk,0.1.0,Valentino Margarit,GPL-3.0-only,500980,"Hold a mouse button, talk, let go. Private, offline dictation for Windows that runs Whisper on your own PC."
+2026-10-16T03:35:51Z,giove-pdf,0.2.0,Giove,Apache-2.0,2218104,"Giove PDF: PDF a Markdown con motor nativo en Rust, OCR local y firma. De Giove."
+2026-10-16T03:43:40Z,colab-cli-mcp,0.1.0,amgallego8 <info@angelgallego.com>,Apache-2.0,126196,"MCP server that wraps the official Google Colab CLI so an AI agent can use Colab end to end: runtimes, code, long jobs, files and notebooks."
+2026-10-16T03:48:22Z,iceberg-studio,0.1.0,,Apache-2.0,1535291,"Explorador web de tabelas Apache Iceberg: schema, snapshots, arquivos, time travel e SQL sobre o catálogo."
+2026-10-16T03:50:29Z,neuroviewer,0.1.0,Rodrigo Debona <r.debona@ufrj.br>,MIT,143149,Freeview-like neuroimaging viewer in pure Python (PySide6 + vedo/VTK + nibabel)
+2026-10-16T03:51:47Z,flux3-mlx,0.1.0,,Apache-2.0,63695,"FLUX 3 Image Klein on Apple Silicon: text-to-image, editing with up to 10 references, bounding-box layout (MLX)"
+2026-10-16T03:52:19Z,cryptcheck,0.1.0,Sohan Shelar <sohanshelar01@gmail.com>,MIT,9094,A cybersecurity CLI tool to analyze password complexity and verify breach exposure using k-Anonymity.
+2026-10-16T03:54:18Z,cgwa,0.1.0,Your Name,,8929,CGWA Python package
+2026-10-16T03:57:38Z,volume-remesher,1.0.0,"Marco Attene, Daniele Panozzo",LGPL-3.0-or-later,8198439,"Exact volume meshing of triangle soups: polyhedral and tetrahedral meshes, booleans, surface embedding and 2D segment arrangements, with provenance tracking"
+2026-10-16T04:00:35Z,schemmy,0.1.0,Ruslan Glotov,MIT,18611,Validate data with plain type annotations. No dependencies.
+2026-10-16T04:06:31Z,bigyahu,0.1.0,bigyahu,,6583,Retrieve code snippets stored as ipynb notebooks via by.list() and by.get()
+2026-10-16T04:12:28Z,k3q-arxml,2.1.0,,Apache-2.0,15559210,A lightweight Python library for reading and editing AUTOSAR ARXML files

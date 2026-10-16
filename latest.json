@@ -1,31 +1,19 @@
 {
   "list": {
-    "count": 25,
-    "from": "2026-10-16T02:19:15.136444Z",
-    "path": "data/new-packages-2026-10-16T03-19-09-614298Z.csv",
-    "to": "2026-10-16T03:19:09.614298Z"
+    "count": 20,
+    "from": "2026-10-16T03:19:09.614298Z",
+    "path": "data/new-packages-2026-10-16T04-19-25-785445Z.csv",
+    "to": "2026-10-16T04:19:25.785445Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-16T02:16:26Z",
       "package": "bankai-bourta",
       "since": "2026-10-16T01:20:07.097416Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-16T02:44:12Z",
-      "package": "pftw",
-      "since": "2026-10-16T02:19:15.136444Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-15T23:59:49Z",
-      "package": "rtems-eco-tools",
-      "since": "2026-10-15T23:19:10.639085Z"
     }
   ],
-  "serial": 42303862,
+  "serial": 42305355,
   "source_truncated": false,
-  "window": "2026-10-16T03:19:09.614298Z"
+  "window": "2026-10-16T04:19:25.785445Z"
 }
