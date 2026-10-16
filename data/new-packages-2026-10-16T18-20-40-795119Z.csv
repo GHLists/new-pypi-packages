@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T17:19:43Z,pysual,0.1.2,Pysual contributors,MIT,16255971,"Python interfaces for native windows, terminals, and the web"
+2026-10-16T17:20:10Z,actuator-lint,0.4.2,the actuator-lint contributors,BSD-3-Clause,142102,Offline review aid for PX4 control allocation parameters
+2026-10-16T17:21:34Z,unmute-core,0.14.0,Nicola Croon,MIT,916194,"Typed call state, tasks, tools, handoffs and tracing for voice agents on LiveKit and Pipecat"
+2026-10-16T17:24:24Z,boardforge,0.1.0,Dave Vandenbout <dave@vdb.name>,MIT,4106434,"Turn a SKiDL circuit into a routed, manufacturable KiCad board, headless."
+2026-10-16T17:24:27Z,typebind,0.1.0a1,,MIT,173418,"Typed Pydantic model families, plugin discovery, and scoped behavior adapters."
+2026-10-16T17:25:58Z,dagger-pytest-otel,0.1.0rc1,Dagger <hello@dagger.io>,Apache-2.0,40659,Pytest plugin for OpenTelemetry instrumentation with Dagger
+2026-10-16T17:27:25Z,botorch-rust,0.1.0,The botorch-rust authors,MIT,21012793,A fast Rust implementation of BoTorch with the same Python API
+2026-10-16T17:31:04Z,gamecode,0.0.1,GameCode AI <accounts@gamecode.ai>,MIT,3602,GameCode SDK name reservation by GameCode AI. The SDK itself is not published yet.
+2026-10-16T17:31:48Z,dubfit,0.1.0,Ed Nunez <cryptotech407@users.noreply.github.com>,MIT,26600,"Fit dubbed narration to a video scene by scene, capping speed and carrying drift so timing never slides."
+2026-10-16T17:31:52Z,voting-age-validator-nikhil-kanjurmarg,0.1.0,Nikhil Gupta,MIT,4445,Check minimum voting age by country
+2026-10-16T17:33:07Z,JotaBWF-hack4u-project,0.0.2,JotaBWF,,4526,Un paquete para mostrar los cursos de Hack4U.
+2026-10-16T17:36:53Z,mosaic-credential,0.1.0,Mosaic Credential Team,MPL-2.0,20060,Python bindings and reference implementation for Mosaic Credential v1
+2026-10-16T17:37:46Z,teachify,0.3.0,Aman Siddiqui <aman.siddiqui114@gmail.com>,MIT,76620,"Teach Mode for any LLM — the AI guides, you type, you learn"
+2026-10-16T17:38:18Z,openbim-xplanung,0.1.0,,MIT,814894,Exchange standard for spatial and land-use plans (XPlanGML) -- Python bindings for the openbim-xplanung Rust crate.
+2026-10-16T17:38:25Z,openbim-xrechnung,0.1.0,,MIT,815198,German CIUS of the EN 16931 electronic invoice -- Python bindings for the openbim-xrechnung Rust crate.
+2026-10-16T17:38:30Z,openbim-xvergabe,0.1.0,,MIT,814658,Interface standard between e-procurement platforms and bidder tools -- Python bindings for the openbim-xvergabe Rust crate.
+2026-10-16T17:38:39Z,openbim-xbestellung,0.1.0,,MIT,815368,Standard for electronic purchase orders in public procurement -- Python bindings for the openbim-xbestellung Rust crate.
+2026-10-16T17:39:25Z,ytmla,0.1.0,Ed Nunez <cryptotech407@users.noreply.github.com>,MIT,34717,Multi-language audio tracks for YouTube: API tooling plus the Studio automation the API does not expose.
+2026-10-16T17:43:11Z,evalproof,0.2.1,Basant Bhattarai,Apache-2.0,112147,"Treat LLM evaluation as measurement: calibrate the judge, correct the pass rate, gate CI on significant regressions."
+2026-10-16T17:44:15Z,agenticexperience,0.1.0a14,AgentExperience contributors,Apache-2.0,348485,Verified agent experience for Python: a pure-Python core that passes the AgentExperience.NET language-neutral contract 1.5.
+2026-10-16T17:44:16Z,redlatex,0.2.0,Aref Azizian,MIT,2014973,"Side-by-side, word-level visual diff of two compiled versions of a LaTeX document"
+2026-10-16T17:45:05Z,decisionact,0.1.0,AnilKumarBorige,MIT,67432,"Build agents with typed decisions, Python tools, and predefined replies."
+2026-10-16T17:45:08Z,lakana,0.12.0,Christopher Schymura,Apache-2.0,762062,Lakana SDK and command-line interface.
+2026-10-16T17:45:29Z,cobie,1.0,Xitiz mgr,,14077,Your local AI coding agent
+2026-10-16T17:47:00Z,model-configbuilder,0.1.0,Fabien RÉTIF <fabien.retif@snale.net>,MIT,55191,
+2026-10-16T17:49:29Z,rlsandbox,0.1.0,Xiaokai Cui,Apache-2.0,9981,RLSandbox
+2026-10-16T17:52:34Z,esp32-installer,1.0.0,"""Nima Askari (NimaLTD)"" <nima.askari@gmail.com>",Apache-2.0,158647,"Install embedded C libraries into an ESP-IDF project, as components"
+2026-10-16T17:52:40Z,acoustic-spaces,3.2.0,acoustic_spaces contributors,GPL-3.0-or-later,17224529,"Open-source room acoustics simulator: geometric acoustics, spatial impulse responses and auralisation"
+2026-10-16T17:54:35Z,physim-gate,0.2.0,Kiyeon Jeon <kiyeon.jeon.21@gmail.com>,Apache-2.0,584644,Test physical AI like software. Catch behavioral regressions in simulation results before deployment.
+2026-10-16T17:55:03Z,quotable,0.1.0,Chris Hacker,,167579,"Extract tables from PDFs with a vision LLM, then check every value against the PDF's text layer."
+2026-10-16T17:59:37Z,model-configbuilder-core,0.1.0,Fabien RÉTIF <fabien.retif@snale.net>,MIT,27570,
+2026-10-16T17:59:38Z,lampson,0.2.10,,MIT,10819,Lampson SDK: talk to Lampson agents from Python — server mode (HTTP API) or local mode (Lampson as a child process).
+2026-10-16T18:00:47Z,drift-control,1.0.1,,AGPL-3.0-or-later,5128324,"A local, policy-driven Terraform-to-AWS drift detection engine."
+2026-10-16T18:00:49Z,home-tcl-dashboard,0.2.3,Rodolphe Momier <momier.rodolphe@gmail.com>,MIT,204042,"Self-hosted wall dashboard of the next TCL departures (Lyon), for a tablet."
+2026-10-16T18:02:40Z,relulayer,0.2.0,Ishmael Amin <ishmael.amin@outlook.com>,MIT OR Apache-2.0,1057579,Deterministic zero-heap edge governor and execution gatekeeper for physical autonomous systems.
+2026-10-16T18:04:48Z,sugarai-erp-connector-sage-x3,1.39rc1,,,195368,"Sage X3 mapping layer for the SugarAI ERP connector — resources, normalization, and Sell transformer/pipeline registration. Not agnostic core."
+2026-10-16T18:05:24Z,guardrails-mcp,0.1.1,Tracy Anne Griffin Manning,MIT,38591,"Small, evidence-first prompt regression tracker with MCP tools"
+2026-10-16T18:11:19Z,axonsec-sdk,0.1.0,,MIT,4044,AxonSec SDK — Morphogenetic AI · NDR API client
+2026-10-16T18:11:25Z,agent-project-launchpad,1.0.0,Stephen Sebro,MIT,300000,"A project launcher and shared context for Codex, Claude Code, and GitHub Copilot CLI."
+2026-10-16T18:14:08Z,downctl,0.1.0,ThzxxArt,"MIT License Copyright (c) 2026 ThzxxArt Permission is hereby granted, free of charge, to any person…",176035,"A plugin-based universal command-line downloader with resumable, multi-connection accelerated and self-healing downloads."
+2026-10-16T18:15:18Z,coss-django,0.1.0,"Cal.com, Inc.",,33821,A Django email backend that sends through the coss.com API.
+2026-10-16T18:15:32Z,provely,0.0.1,,Proprietary,1883,Reserved name for Provely by Macleod Labs. No code.
+2026-10-16T18:15:33Z,provely-instrumentations,0.0.1,,Proprietary,2061,Reserved name for Provely by Macleod Labs. No code.
+2026-10-16T18:19:46Z,findmyway,0.0.1,Xu Yang <shi_liu_zhi@sina.com>,MIT,57317,基于高德地图的多点最短路径（TSP）规划工具
+2026-10-16T18:20:23Z,arduino-installer,1.0.0,"""Nima Askari (NimaLTD)"" <nima.askari@gmail.com>",Apache-2.0,137826,"Install embedded C and C++ libraries for Arduino: into the libraries folder, or into a sketch"

@@ -8,54 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 17:20 UTC
+## Latest list — 2026-10-16 18:20 UTC
 
-New packages created between 2026-10-16 16:20 UTC and 2026-10-16 17:20 UTC.
+New packages created between 2026-10-16 17:20 UTC and 2026-10-16 18:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-16T17-20-13-013054Z.csv)
+[Full CSV](data/new-packages-2026-10-16T18-20-40-795119Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-16 16:21:42 | [localpilot](https://pypi.org/project/localpilot/) | 0.1.0 | Mohamed Fouad Fakhruldeen <fa… | 4.8 MB | A friendly application that helps you discover, install, run, monitor, update a… |
-| 2026-10-16 16:25:01 | [unitycatalog-rs](https://pypi.org/project/unitycatalog-rs/) | 0.0.0 | Ion Koutsouris | 1.1 kB | Placeholder for unitycatalog-rs, part of unitycatalog-rs (Rust reimplementation… |
-| 2026-10-16 16:25:02 | [unitycatalog-rs-cli](https://pypi.org/project/unitycatalog-rs-cli/) | 0.0.0 | Ion Koutsouris | 1.1 kB | Placeholder for unitycatalog-rs-cli, part of unitycatalog-rs (Rust reimplementa… |
-| 2026-10-16 16:25:03 | [unitycatalog-rs-server](https://pypi.org/project/unitycatalog-rs-server/) | 0.0.0 | Ion Koutsouris | 1.1 kB | Placeholder for unitycatalog-rs-server, part of unitycatalog-rs (Rust reimpleme… |
-| 2026-10-16 16:25:04 | [unitycatalog-rs-ui](https://pypi.org/project/unitycatalog-rs-ui/) | 0.0.0 | Ion Koutsouris | 1.1 kB | Placeholder for unitycatalog-rs-ui, part of unitycatalog-rs (Rust reimplementat… |
-| 2026-10-16 16:25:08 | [lakana-core](https://pypi.org/project/lakana-core/) | 0.12.0 | Christopher Schymura | 1.9 MB | Lakana domain and persistence layer. |
-| 2026-10-16 16:25:34 | [lakana-worker](https://pypi.org/project/lakana-worker/) | 0.12.0 | Christopher Schymura | 886.8 kB | Lakana's DuckDB query executor and dequeue loop. |
-| 2026-10-16 16:25:41 | [lakana-server](https://pypi.org/project/lakana-server/) | 0.12.0 | Christopher Schymura | 554.0 kB | Lakana control plane: REST API, Iceberg REST catalog, worker. |
-| 2026-10-16 16:27:08 | [mcp-retail-sim](https://pypi.org/project/mcp-retail-sim/) | 0.1.0 | vish063 | 60.2 kB | Synthetic retail MCP server for shopping-agent demos and evaluation |
-| 2026-10-16 16:29:39 | [groundmail](https://pypi.org/project/groundmail/) | 0.8.3 | Groundmail | 14.9 kB | Groundmail transactional email API client for Python |
-| 2026-10-16 16:30:06 | [grstbx](https://pypi.org/project/grstbx/) | 2.4.0 | "T. Harmel" <tristan.harmel@g… | 934.2 kB | Visualization and post-processing of GRS (Glint Removal for Sentinel-2-like sen… |
-| 2026-10-16 16:32:28 | [fourcolors](https://pypi.org/project/fourcolors/) | 0.0.1 | 4colors | 2.2 kB | The Python client for 4colors. Placeholder: the first release is coming soon. |
-| 2026-10-16 16:32:39 | [jupyter-mcp-live](https://pypi.org/project/jupyter-mcp-live/) | 0.0.1 | Zhuoqing Fang <fzq518@gmail.c… | 4.9 kB | MCP server built into Jupyter Server: AI agents edit and run the notebooks open… |
-| 2026-10-16 16:35:31 | [heatwave3](https://pypi.org/project/heatwave3/) | 1.4.0 | "Robert W. Schlegel" <robwsch… | 47.8 MB | Detect marine heatwaves and cold-spells directly in gridded NetCDF data |
-| 2026-10-16 16:36:37 | [barewingui](https://pypi.org/project/barewingui/) | 0.2.0b1 | Bastian Flügel | 126.6 kB | Pure GUI framework for native Windows apps in Python. No dependencies. |
-| 2026-10-16 16:38:34 | [liumi-vectorcore](https://pypi.org/project/liumi-vectorcore/) | 1.0.0 | Liumi Corporation | 89.2 kB | Liumi VectorCore (.lvc) - sub-2ms SIMD INT8 vector search, zero-copy on-device… |
-| 2026-10-16 16:41:13 | [tinker-payments](https://pypi.org/project/tinker-payments/) | 0.3.0 | Tinker Digital LTD <create@ti… | 40.8 kB | Python SDK for the standardized Tinker Payments API |
-| 2026-10-16 16:42:03 | [gzw-data](https://pypi.org/project/gzw-data/) | 0.1.3 |  | 11.9 kB | Python client for the free Gray Zone Warfare data API (gzw-data.dev) |
-| 2026-10-16 16:51:05 | [aseprite-agent-mcp](https://pypi.org/project/aseprite-agent-mcp/) | 0.3.0 | Aseprite Agent MCP contributo… | 403.4 kB | An extensive Model Context Protocol (MCP) server for driving Aseprite (pixel-ar… |
-| 2026-10-16 16:52:58 | [nura-campfire](https://pypi.org/project/nura-campfire/) | 0.1.0 |  | 370.6 kB | Write inference workers for Campfire, Nura's single-host inference control plan… |
-| 2026-10-16 16:56:29 | [corellium](https://pypi.org/project/corellium/) | 1.0.0 | OpenAPI Generator community | 2.3 MB | Corellium API |
-| 2026-10-16 16:57:15 | [voting-age-validator-Ayush-Dombivali](https://pypi.org/project/voting-age-validator-Ayush-Dombivali/) | 0.1.0 | Ayush | 4.1 kB | Check minimum voting age by country |
-| 2026-10-16 16:58:02 | [optmat](https://pypi.org/project/optmat/) | 0.8.0 | "John C. Travers" <jtravs@gma… | 35.2 MB | Curated, validated optical properties of gases, glasses, crystals and metals: d… |
-| 2026-10-16 16:59:14 | [paintext](https://pypi.org/project/paintext/) | 1.0.0 |  | 3.3 kB |  |
-| 2026-10-16 16:59:54 | [boardgame-rules-mcp](https://pypi.org/project/boardgame-rules-mcp/) | 0.1.0 |  | 229.8 kB | MCP server that answers board game rules questions from official rulebooks, wit… |
-| 2026-10-16 17:02:11 | [autodev-orchestrator](https://pypi.org/project/autodev-orchestrator/) | 4.0.0 | SpeiiDev Team | 74.3 kB | Interactive Multi-Agent TUI with pluggable agents, model switcher, diff gate, a… |
-| 2026-10-16 17:02:59 | [PyClsProps](https://pypi.org/project/PyClsProps/) | 0.1.1 |  | 3.2 kB | Lightweight library for class properties in CPython |
-| 2026-10-16 17:05:21 | [akp02d](https://pypi.org/project/akp02d/) | 1.0.0 | Deon Spengler <deon@spengler.… | 1.2 MB | Themed system stats display for the Ajazz AKP02 panel, with a live theme editor |
-| 2026-10-16 17:05:48 | [madformats](https://pypi.org/project/madformats/) | 0.1.0 |  | 152.3 kB | Modding and file tools for - Madagascar the game, 2005 - |
-| 2026-10-16 17:05:49 | [madkit](https://pypi.org/project/madkit/) | 0.1.0 |  | 59.3 kB | CLI and tools for modding Madagascar (2005) |
-| 2026-10-16 17:05:50 | [madlysimple](https://pypi.org/project/madlysimple/) | 0.1.0 |  | 16.3 kB | Tools to make modding with the madformats package easier |
-| 2026-10-16 17:05:52 | [tfbpseudo](https://pypi.org/project/tfbpseudo/) | 0.1.0 |  | 90.2 kB | Compiler and decompiler for TfbPseudo, a text version of Madagascar AI scripts |
-| 2026-10-16 17:07:53 | [tide-binning](https://pypi.org/project/tide-binning/) | 0.6.0 | Leonid Garin <leonidgarin97@g… | 789.5 kB | TIDE - Time Invariant Discretization Engine: time-stable binning for credit sco… |
-| 2026-10-16 17:09:21 | [joomha](https://pypi.org/project/joomha/) | 1.0.0 |  | 136.0 kB | AI-powered CLI for understanding any codebase through conversation |
-| 2026-10-16 17:11:05 | [voting-age-validator-sharvarikamble-worli](https://pypi.org/project/voting-age-validator-sharvarikamble-worli/) | 0.1.0 | Sharvari Kamble | 4.6 kB | Check minimum voting age by country |
-| 2026-10-16 17:12:32 | [voting-age-validator-khush-borivali](https://pypi.org/project/voting-age-validator-khush-borivali/) | 0.1.0 | Khush | 4.5 kB | Check minimum voting age by country |
-| 2026-10-16 17:12:39 | [ruling](https://pypi.org/project/ruling/) | 0.2.1 |  | 198.1 kB | Open-weight recreation of TypeSafe AI's Jev: typed, probabilistic decisions fro… |
-| 2026-10-16 17:13:17 | [localtools-font-subsetter](https://pypi.org/project/localtools-font-subsetter/) | 1.0.0 |  | 165.6 kB | Subset fonts to the characters you use, instance variable fonts, and convert to… |
-| 2026-10-16 17:14:59 | [voting-age-validator-jalaja-meadows](https://pypi.org/project/voting-age-validator-jalaja-meadows/) | 0.1.0 | Yourname Sir | 4.5 kB | Check minimum voting age by country |
-| 2026-10-16 17:15:20 | [ce3x-mcp-server](https://pypi.org/project/ce3x-mcp-server/) | 1.3.0 | Jose Manuel Caamaño González… | 111.3 kB | Servidor MCP Oficial para Certificación de Eficiencia Energética de Edificios (… |
-| 2026-10-16 17:16:19 | [baldanders](https://pypi.org/project/baldanders/) | 0.1.0 | Baldanders contributors | 94.7 kB | Local personal-data firewall for cloud LLMs — scrubs names, emails, IDs and oth… |
-| 2026-10-16 17:19:23 | [voting-age-validator-bhavya-mumbai](https://pypi.org/project/voting-age-validator-bhavya-mumbai/) | 0.1.0 | Bhavya Khetia Sir | 4.4 kB | Check minimum voting age by country |
-| 2026-10-16 17:19:37 | [hugo-writer](https://pypi.org/project/hugo-writer/) | 1.20261017.1000000 | Yuan-Yi Chang <changyy.csie@g… | 655.3 kB | A local, browser-based writing tool for Hugo sites: list posts, edit Markdown,… |
+| 2026-10-16 17:19:43 | [pysual](https://pypi.org/project/pysual/) | 0.1.2 | Pysual contributors | 16.3 MB | Python interfaces for native windows, terminals, and the web |
+| 2026-10-16 17:20:10 | [actuator-lint](https://pypi.org/project/actuator-lint/) | 0.4.2 | the actuator-lint contributors | 142.1 kB | Offline review aid for PX4 control allocation parameters |
+| 2026-10-16 17:21:34 | [unmute-core](https://pypi.org/project/unmute-core/) | 0.14.0 | Nicola Croon | 916.2 kB | Typed call state, tasks, tools, handoffs and tracing for voice agents on LiveKi… |
+| 2026-10-16 17:24:24 | [boardforge](https://pypi.org/project/boardforge/) | 0.1.0 | Dave Vandenbout <dave@vdb.nam… | 4.1 MB | Turn a SKiDL circuit into a routed, manufacturable KiCad board, headless. |
+| 2026-10-16 17:24:27 | [typebind](https://pypi.org/project/typebind/) | 0.1.0a1 |  | 173.4 kB | Typed Pydantic model families, plugin discovery, and scoped behavior adapters. |
+| 2026-10-16 17:25:58 | [dagger-pytest-otel](https://pypi.org/project/dagger-pytest-otel/) | 0.1.0rc1 | Dagger <hello@dagger.io> | 40.7 kB | Pytest plugin for OpenTelemetry instrumentation with Dagger |
+| 2026-10-16 17:27:25 | [botorch-rust](https://pypi.org/project/botorch-rust/) | 0.1.0 | The botorch-rust authors | 21.0 MB | A fast Rust implementation of BoTorch with the same Python API |
+| 2026-10-16 17:31:04 | [gamecode](https://pypi.org/project/gamecode/) | 0.0.1 | GameCode AI <accounts@gamecod… | 3.6 kB | GameCode SDK name reservation by GameCode AI. The SDK itself is not published y… |
+| 2026-10-16 17:31:48 | [dubfit](https://pypi.org/project/dubfit/) | 0.1.0 | Ed Nunez <cryptotech407@users… | 26.6 kB | Fit dubbed narration to a video scene by scene, capping speed and carrying drif… |
+| 2026-10-16 17:31:52 | [voting-age-validator-nikhil-kanjurmarg](https://pypi.org/project/voting-age-validator-nikhil-kanjurmarg/) | 0.1.0 | Nikhil Gupta | 4.4 kB | Check minimum voting age by country |
+| 2026-10-16 17:33:07 | [JotaBWF-hack4u-project](https://pypi.org/project/JotaBWF-hack4u-project/) | 0.0.2 | JotaBWF | 4.5 kB | Un paquete para mostrar los cursos de Hack4U. |
+| 2026-10-16 17:36:53 | [mosaic-credential](https://pypi.org/project/mosaic-credential/) | 0.1.0 | Mosaic Credential Team | 20.1 kB | Python bindings and reference implementation for Mosaic Credential v1 |
+| 2026-10-16 17:37:46 | [teachify](https://pypi.org/project/teachify/) | 0.3.0 | Aman Siddiqui <aman.siddiqui1… | 76.6 kB | Teach Mode for any LLM — the AI guides, you type, you learn |
+| 2026-10-16 17:38:18 | [openbim-xplanung](https://pypi.org/project/openbim-xplanung/) | 0.1.0 |  | 814.9 kB | Exchange standard for spatial and land-use plans (XPlanGML) -- Python bindings… |
+| 2026-10-16 17:38:25 | [openbim-xrechnung](https://pypi.org/project/openbim-xrechnung/) | 0.1.0 |  | 815.2 kB | German CIUS of the EN 16931 electronic invoice -- Python bindings for the openb… |
+| 2026-10-16 17:38:30 | [openbim-xvergabe](https://pypi.org/project/openbim-xvergabe/) | 0.1.0 |  | 814.7 kB | Interface standard between e-procurement platforms and bidder tools -- Python b… |
+| 2026-10-16 17:38:39 | [openbim-xbestellung](https://pypi.org/project/openbim-xbestellung/) | 0.1.0 |  | 815.4 kB | Standard for electronic purchase orders in public procurement -- Python binding… |
+| 2026-10-16 17:39:25 | [ytmla](https://pypi.org/project/ytmla/) | 0.1.0 | Ed Nunez <cryptotech407@users… | 34.7 kB | Multi-language audio tracks for YouTube: API tooling plus the Studio automation… |
+| 2026-10-16 17:43:11 | [evalproof](https://pypi.org/project/evalproof/) | 0.2.1 | Basant Bhattarai | 112.1 kB | Treat LLM evaluation as measurement: calibrate the judge, correct the pass rate… |
+| 2026-10-16 17:44:15 | [agenticexperience](https://pypi.org/project/agenticexperience/) | 0.1.0a14 | AgentExperience contributors | 348.5 kB | Verified agent experience for Python: a pure-Python core that passes the AgentE… |
+| 2026-10-16 17:44:16 | [redlatex](https://pypi.org/project/redlatex/) | 0.2.0 | Aref Azizian | 2.0 MB | Side-by-side, word-level visual diff of two compiled versions of a LaTeX docume… |
+| 2026-10-16 17:45:05 | [decisionact](https://pypi.org/project/decisionact/) | 0.1.0 | AnilKumarBorige | 67.4 kB | Build agents with typed decisions, Python tools, and predefined replies. |
+| 2026-10-16 17:45:08 | [lakana](https://pypi.org/project/lakana/) | 0.12.0 | Christopher Schymura | 762.1 kB | Lakana SDK and command-line interface. |
+| 2026-10-16 17:45:29 | [cobie](https://pypi.org/project/cobie/) | 1.0 | Xitiz mgr | 14.1 kB | Your local AI coding agent |
+| 2026-10-16 17:47:00 | [model-configbuilder](https://pypi.org/project/model-configbuilder/) | 0.1.0 | Fabien RÉTIF <fabien.retif@sn… | 55.2 kB |  |
+| 2026-10-16 17:49:29 | [rlsandbox](https://pypi.org/project/rlsandbox/) | 0.1.0 | Xiaokai Cui | 10.0 kB | RLSandbox |
+| 2026-10-16 17:52:34 | [esp32-installer](https://pypi.org/project/esp32-installer/) | 1.0.0 | "Nima Askari (NimaLTD)" <nima… | 158.6 kB | Install embedded C libraries into an ESP-IDF project, as components |
+| 2026-10-16 17:52:40 | [acoustic-spaces](https://pypi.org/project/acoustic-spaces/) | 3.2.0 | acoustic_spaces contributors | 17.2 MB | Open-source room acoustics simulator: geometric acoustics, spatial impulse resp… |
+| 2026-10-16 17:54:35 | [physim-gate](https://pypi.org/project/physim-gate/) | 0.2.0 | Kiyeon Jeon <kiyeon.jeon.21@g… | 584.6 kB | Test physical AI like software. Catch behavioral regressions in simulation resu… |
+| 2026-10-16 17:55:03 | [quotable](https://pypi.org/project/quotable/) | 0.1.0 | Chris Hacker | 167.6 kB | Extract tables from PDFs with a vision LLM, then check every value against the… |
+| 2026-10-16 17:59:37 | [model-configbuilder-core](https://pypi.org/project/model-configbuilder-core/) | 0.1.0 | Fabien RÉTIF <fabien.retif@sn… | 27.6 kB |  |
+| 2026-10-16 17:59:38 | [lampson](https://pypi.org/project/lampson/) | 0.2.10 |  | 10.8 kB | Lampson SDK: talk to Lampson agents from Python — server mode (HTTP API) or loc… |
+| 2026-10-16 18:00:47 | [drift-control](https://pypi.org/project/drift-control/) | 1.0.1 |  | 5.1 MB | A local, policy-driven Terraform-to-AWS drift detection engine. |
+| 2026-10-16 18:00:49 | [home-tcl-dashboard](https://pypi.org/project/home-tcl-dashboard/) | 0.2.3 | Rodolphe Momier <momier.rodol… | 204.0 kB | Self-hosted wall dashboard of the next TCL departures (Lyon), for a tablet. |
+| 2026-10-16 18:02:40 | [relulayer](https://pypi.org/project/relulayer/) | 0.2.0 | Ishmael Amin <ishmael.amin@ou… | 1.1 MB | Deterministic zero-heap edge governor and execution gatekeeper for physical aut… |
+| 2026-10-16 18:04:48 | [sugarai-erp-connector-sage-x3](https://pypi.org/project/sugarai-erp-connector-sage-x3/) | 1.39rc1 |  | 195.4 kB | Sage X3 mapping layer for the SugarAI ERP connector — resources, normalization,… |
+| 2026-10-16 18:05:24 | [guardrails-mcp](https://pypi.org/project/guardrails-mcp/) | 0.1.1 | Tracy Anne Griffin Manning | 38.6 kB | Small, evidence-first prompt regression tracker with MCP tools |
+| 2026-10-16 18:11:19 | [axonsec-sdk](https://pypi.org/project/axonsec-sdk/) | 0.1.0 |  | 4.0 kB | AxonSec SDK — Morphogenetic AI · NDR API client |
+| 2026-10-16 18:11:25 | [agent-project-launchpad](https://pypi.org/project/agent-project-launchpad/) | 1.0.0 | Stephen Sebro | 300.0 kB | A project launcher and shared context for Codex, Claude Code, and GitHub Copilo… |
+| 2026-10-16 18:14:08 | [downctl](https://pypi.org/project/downctl/) | 0.1.0 | ThzxxArt | 176.0 kB | A plugin-based universal command-line downloader with resumable, multi-connecti… |
+| 2026-10-16 18:15:18 | [coss-django](https://pypi.org/project/coss-django/) | 0.1.0 | Cal.com, Inc. | 33.8 kB | A Django email backend that sends through the coss.com API. |
+| 2026-10-16 18:15:32 | [provely](https://pypi.org/project/provely/) | 0.0.1 |  | 1.9 kB | Reserved name for Provely by Macleod Labs. No code. |
+| 2026-10-16 18:15:33 | [provely-instrumentations](https://pypi.org/project/provely-instrumentations/) | 0.0.1 |  | 2.1 kB | Reserved name for Provely by Macleod Labs. No code. |
+| 2026-10-16 18:19:46 | [findmyway](https://pypi.org/project/findmyway/) | 0.0.1 | Xu Yang <shi_liu_zhi@sina.com> | 57.3 kB | 基于高德地图的多点最短路径（TSP）规划工具 |
+| 2026-10-16 18:20:23 | [arduino-installer](https://pypi.org/project/arduino-installer/) | 1.0.0 | "Nima Askari (NimaLTD)" <nima… | 137.8 kB | Install embedded C and C++ libraries for Arduino: into the libraries folder, or… |
