@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T19:19:03Z,openbq-eodhd,9.0.0,,Apache-2.0,276430,"EODHD provider extension for OpenBB (equity/crypto/currency historical, fundamentals, corporate actions, ownership, insider trading, analyst estimates)"
+2026-10-16T19:19:04Z,openbq-yfinance,3.0.0,SecretoftheUniverse.com LLC,Apache-2.0,268646,Original Apache-2.0 Yahoo Finance router and provider extensions for OpenBQ
+2026-10-16T19:20:18Z,is-it-ai,0.1.0,Ben Needful <doing_the_needful@yahoo.com>,MIT,4215,Detect and verify if packages is executed within an AI agent environment
+2026-10-16T19:29:07Z,infinitydb-ai,1.0.0,InfinityDB AI <team@infinitydb.ai>,Apache-2.0,55798,InfinityDB - High-performance open-source agent memory engine
+2026-10-16T19:30:18Z,profile-wrap,0.2.1,profile-wrap contributors,MIT,8835542,"A fact-gated, compliance-first LinkedIn content pipeline for Claude Code (official API only)."
+2026-10-16T19:30:42Z,profile-wrap-mcp,0.2.1,profile-wrap contributors,MIT,30682,"MCP server (stdio) for Profile-Wrap: workspace status, drafts, gate, facts, review state, and posting of board-Allowed drafts only. Not affiliated with LinkedIn."
+2026-10-16T19:32:14Z,fastapi-authn,0.1.0,Yurii Karabas,,2522,Add your description here
+2026-10-16T19:33:51Z,lazyownbt,1.0.0,Gris Uno <grisuno@example.com>,GPL-3.0,68867,LazyOwnBT — Blue Team defensive framework for Linux
+2026-10-16T19:36:54Z,ddo-vmm-allocator,0.1.0rc2,DDO contributors,Apache-2.0,508087,DDO CUDA VMM allocator primitives for demand-paged model weights
+2026-10-16T19:36:57Z,diffusers-dynamic-offloader,0.1.0rc2,,,99656,Model-agnostic dynamic offload helpers for Diffusers-style low-VRAM inference.
+2026-10-16T19:37:25Z,ml-space-benchmark-ky135,0.1.0,,LicenseRef-Apple-Sample-Code,1036610,Unofficial Python distribution of the SPACE benchmark
+2026-10-16T19:37:33Z,sorrypar,0.1.0,sorrypar contributor,MIT,6615,One-line Groq prompt to Jupyter Markdown display
+2026-10-16T19:39:18Z,quietos,0.1.0,DeanWay Labs,MIT,58930,QuietOS — The Governor. Brain-agnostic runtime governor for AI agents: deterministic safety gates on every action.
+2026-10-16T19:39:27Z,strawberry-graphql-resolver,0.1.0b0,Gil-Ad Shay,,27916,Resolve and map Pydantic models to Strawberry GraphQL types.
+2026-10-16T19:42:41Z,nolo-scrap,1.5.2,festomanolo,MIT,287722,"MANOLO Scrap — AI-driven TUI to search, scrape, download and extract data from the web."
+2026-10-16T19:42:47Z,gitnolo,0.6.0,festomanolo,MIT,282036,Autonomous git for coding agents on public GitHub repositories
+2026-10-16T19:43:07Z,jaadu,0.1.0,jaadu contributor,MIT,6517,One-line Groq prompt to Jupyter Markdown display
+2026-10-16T19:44:51Z,mpl-pointpicker,0.1.0,Joan Caceres <contact@joancaceres.com>,MIT,91668,Interactive Matplotlib point selection and image digitization
+2026-10-16T19:45:39Z,geoquery-py,0.0.0,,,2108,placeholder
+2026-10-16T19:49:48Z,doxtr-xlink,2.0.0,Jens Frey <jens.frey@coffeecrew.org>,"MIT License Copyright (c) 2026 Jens Frey Permission is hereby granted, free of charge, to any perso…",98708,A Sphinx extension for external link management via .xlink files.
+2026-10-16T19:50:31Z,timecopilot-timestral,0.1.0,,Apache-2.0,65987,Standalone inference for Timestral time-series forecasting models
+2026-10-16T19:50:53Z,bioio-vsi,0.1.0,Srdjan Sarikas,BSD-3-Clause,775085,JVM-free reader for Olympus/Evident cellSens VSI microscopy images
+2026-10-16T19:54:27Z,langchain-ivoire,0.1.0a3,Abyshire Technology Ltd,MIT,173761,"LangChain integration for Ivorian languages (Baoulé first): speech recognition, translation, speech synthesis, a language wrapper for any chat model and a voice agent."
+2026-10-16T19:55:02Z,cadjoint,0.1.0,Andrin Rehmann,Apache-2.0,2330532,Fully differentiable CAD software built with JAX
+2026-10-16T19:57:13Z,liquid-structure-step,2026.10.16,Paul Saxe,BSD-3-Clause,361773,A SEAMM plug-in for Liquid Structure
+2026-10-16T19:58:24Z,pytest-mockrot,0.1.0,Adem Boukabes <adamboukabes1@gmail.com>,MIT,135140,"Detect rotting mocks by validating call signatures, return types, and zombie fields against real contracts"
+2026-10-16T19:59:04Z,launchables,0.4.0,,Apache-2.0,52273,Python client for the Launchables Decision API
+2026-10-16T20:01:12Z,nudemos,0.1.0,Gor Arakelyan <gorarkln@gmail.com>,Apache-2.0,246583,"The Nu demos as nuspace Planes: a counter, a sampled series, a film base and MNIST trained live."
+2026-10-16T20:01:13Z,hsbc-tradetrack-mcp,0.1.1,BukeLy,MIT,19047,"Unofficial MCP server for HSBC TradeTrack (汇丰交易追踪): trending stocks and top-5% traders' buy/sell/hold lists for US & HK, from HSBC's public no-login endpoints."
+2026-10-16T20:04:56Z,sendclipper,0.1.0,SendClipper <support@sendclipper.com>,MIT,66120,"Official Python SDK for the SendClipper email API: send mail, manage domains, templates, sandboxes, webhooks, contacts and suppressions."
+2026-10-16T20:06:15Z,mmorph,2.0.0,,LicenseRef-SDC-Morphology-Toolbox,28129138,"Mathematical morphology for NumPy images, successor of the SDC Morphology Toolbox"
+2026-10-16T20:06:44Z,Python-JavaScript,0.1.0,ellainng,,42379,"JavaScript-style objects, methods and functions for Python"
+2026-10-16T20:09:22Z,launchsafe-firewall,0.1.0,LaunchSafe,Apache-2.0,113407,Python SDK for the LaunchSafe Agent Firewall's local API sidecar
+2026-10-16T20:10:03Z,blitzfft,0.1.0,Colby Leider <colby@leider.org>,MIT,5675338,Native Rust FFT analysis and benchmarking CLI for audio
+2026-10-16T20:14:46Z,relq-migrate,0.1.0,,Apache-2.0,41178,Forward-only schema migrations for relq SQLite and PostgreSQL applications
+2026-10-16T20:17:01Z,orgindex-schema,0.1.0,Continuous Release Tooling - Red Hat,Apache-2.0,41960,"Canonical, versioned pydantic schema for the organizational data comprehensive index (the on-disk contract between the cyborg producer and cyborg-data consumers). Primarily for internal Red Hat / ope…"
+2026-10-16T20:17:38Z,shoud-bots,1.0.0,Vantyrix Tek <dev@shoud.online>,Apache-2.0,9136,Official Python SDK for Shoud Bots — Hardware-isolated microVM sandboxes for AI agents
