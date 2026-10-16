@@ -1,0 +1,59 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T14:20:18Z,threecrate-mcp,0.1.0,,MIT OR Apache-2.0,33160,MCP server that gives AI agents threecrate's 3D point cloud and mesh tools
+2026-10-16T14:21:01Z,llama-index-readers-docling-rs,2.35.0,docling.rs contributors,MIT,6503,"LlamaIndex reader for docling.rs: PDF with layout, tables and OCR, DOCX, PPTX, XLSX, HTML and 40-odd formats into LlamaIndex Documents as Markdown or docling JSON. docling in Rust, no PyTorch."
+2026-10-16T14:21:58Z,jupyter-ai-core,0.0.0a0,,,681,
+2026-10-16T14:22:32Z,anki-mcp-server,0.2.0,MeisamHakimi,MIT,112788,"MCP server for Anki (via AnkiConnect): add, import, search, edit and organize notes and decks from Claude or any MCP client."
+2026-10-16T14:22:59Z,shamash-orogen,0.2.0,,MIT,87993,"Algorithms that turn a plate-tectonic history into terrain: seafloor age and depth, collision history, and from there a global DEM."
+2026-10-16T14:23:26Z,xml-audit-viewer,1.1.1,Umit Ozdemir <umitozdemir@gmail.com>,"MIT License Copyright (c) 2026 Ümit Özdemir Permission is hereby granted, free of charge, to any pe…",64736,"Python GUI viewer and live-tail tool for NetApp ONTAP and Huawei OceanStor CIFS Security Audit XML logs — stdlib only, no install."
+2026-10-16T14:25:10Z,ai-auto-router-client,1.0.0,AI Auto Router Team <dev@ai-auto-router.io>,Apache-2.0,13306,"Thin, zero-dependency BYOK Python client for AI Auto Router"
+2026-10-16T14:25:21Z,epita-ease,0.2.3,,,15296,EASE (Epita Auriga Schedule Exporter) is a tool to export your schedule from the Auriga platform.
+2026-10-16T14:25:43Z,jev-aicore,1.0.1,,,12079,"Call Jev via SAP AI Core — one function, zero setup"
+2026-10-16T14:26:05Z,browser-download-filename,0.1.0,birdhackor,(MIT OR Apache-2.0) AND BSD-3-Clause AND Unicode-3.0,116889,"Name downloaded files exactly as Chromium does: Content-Disposition, URL fallback and filename sanitization in pure Python"
+2026-10-16T14:27:09Z,hydradb-hermes,1.0.2,HydraDB <support@hydradb.com>,Apache-2.0,27772,HydraDB memory provider for Hermes Agent.
+2026-10-16T14:27:55Z,plumbline-sdk,0.1.0,Lumetrix,Apache-2.0,55059,One-line evidence telemetry for AI products: sends model-call facts (never content) to the local Plumbline agent.
+2026-10-16T14:28:04Z,pareto-router,0.1.0,Pareto Router Authors,,148982,A 2D Model Tier & Reasoning Effort Routing Engine
+2026-10-16T14:28:15Z,cognivoy,1.5.11,Cognivoy contributors,Apache-2.0,26197769,An agent-native intelligent learning companion with multi-agent collaboration and RAG
+2026-10-16T14:29:20Z,arps-py,0.dev0,Novi Labs <devops@novilabs.com>,,816,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-16T14:29:20Z,pasteup,0.1.0,,Apache-2.0 AND OFL-1.1,318627,"Turn a folder of clip art into listing images: preview sheets, cover collages and preview videos."
+2026-10-16T14:29:22Z,eva-unit-core,0.dev0,Novi Labs <devops@novilabs.com>,,825,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-16T14:29:23Z,moneybin,0.dev0,Novi Labs <devops@novilabs.com>,,814,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-16T14:29:24Z,novilabs,0.dev0,Novi Labs <devops@novilabs.com>,,805,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-16T14:29:48Z,madhav-anthropic,0.1.1,,,19374,"Madhav's Act and Transform instruction skill, with a CLI to display and export it."
+2026-10-16T14:29:59Z,kassette-k8s,0.0.1,Lifen,Apache-2.0,27799,Another kubernetes snapshot testing tool
+2026-10-16T14:30:32Z,interox,0.1.0,Aaron Kurz,,575711,"Interactive, rule-based outcome explanation for process-mining case logs, as notebook widgets"
+2026-10-16T14:34:36Z,rateguard-client,0.5.0,,MIT OR Apache-2.0,8843,"Client for rateguard-sidecar: one global rate limit across a fleet, enforced locally"
+2026-10-16T14:35:05Z,outcomebound,1.6.0,Rajas Abhyankar,Apache-2.0,1169860,"An operating contract for coding agents, and the engine that installs it into a repository."
+2026-10-16T14:37:34Z,fbfast,0.1.0,,,743270725,Read-only Firebird 5 client with a Rust execution core
+2026-10-16T14:44:14Z,spillsort,0.1.0,Clint Valentine <valentine.clint@gmail.com>,MIT,6095343,Sort more items than fit in memory: sorted runs spill to disk and merge as they are read.
+2026-10-16T14:44:51Z,indiaid,0.1.0,IndiaID Contributors,MIT,48528,"Comprehensive, zero-dependency validation and masking library for Indian IDs and documents."
+2026-10-16T14:45:38Z,icegrams-data,0.0.0,"""Miðeind ehf."" <mideind@mideind.is>",MIT,2821,Placeholder for the trigram model of icegrams (not yet published)
+2026-10-16T14:47:49Z,portcloud-notify,0.1.1,,WTFPL,39856,Python SDK for the Portcloud Notify public HTTP API (email and ntfy notifications).
+2026-10-16T14:48:45Z,tsbt,0.1.0,,,2092,Add your description here
+2026-10-16T14:49:23Z,dxcad,0.1.0,Faizal Khan <faizal@designmatix.co.uk>,LicenseRef-DX-CAD-EULA,56200094,"Parametric CAD on the OpenCASCADE kernel, with an open-source SDK; free until 15 November 2026, then a 30-day trial"
+2026-10-16T14:52:04Z,irish-car-import-assistant,0.1.1,LKennedyShare,MIT,46735,Free-first UK and Northern Ireland to Ireland car-import comparison client
+2026-10-16T14:52:19Z,supplier-payment-assistant,0.1.0,LKennedyShare,MIT,40318,Explicitly capped x402 buyer workflow for advisory supplier payment verification
+2026-10-16T14:52:48Z,dxcad-sdk,0.1.0,Designmatix Ltd,Apache-2.0,84232,"The DX-CAD SDK: plugin API, model.py type stubs, docs and examples"
+2026-10-16T14:56:30Z,legacy-of-kronii,0.1.1,,,10350,Reusable Python utilities for Pygame projects
+2026-10-16T14:56:55Z,einargate,0.1.0,,MIT,100003,"The official Python client of the Einar Gate API: typed results, safe retries, built for coding agents"
+2026-10-16T14:57:31Z,lokal-id,0.2.3,Lokal contributors,MIT,1898991,"Indonesian data primitives for apps and AI agents: NIK, NPWP, phone numbers, Rupiah, terbilang, holidays, Kemendagri regions with postal codes, and Samaran PII masking (UU PDP)."
+2026-10-16T14:58:09Z,aigc-detect,0.1.0,sbnew.top,MIT,33867,AIGC 检测 API（文本 / 图片 AI 生成内容检测）的 Python SDK：提交、幂等重试、自动轮询、结果解析与错误分类
+2026-10-16T14:59:38Z,country-timezone-phone-kamal-nav,0.1.0,Kamal Sir,MIT,5997,Get country time zones and international calling codes
+2026-10-16T15:00:57Z,opencode-deharness,0.1.0,,,50017,"OpenCode deHarness: use the opencode provider from Python, shaped exactly like the desktop client. No harness, no login."
+2026-10-16T15:03:21Z,machinechecked,0.1.0,,Apache-2.0,1959850,"Read a mathematical paper beside its Lean formalisation, and see claim by claim what Lean establishes."
+2026-10-16T15:04:11Z,rlp-cli,0.1.0,rdlucas2,Apache-2.0,76162,"The rlp command-line tool: validate contracts, check policy, run the standard verbs and scaffold from templates."
+2026-10-16T15:05:27Z,nxnauty,1.0.0,knv,,1797316,"Canonical labelling and automorphism groups of NetworkX graphs, via nauty"
+2026-10-16T15:05:58Z,arm-ai-model-optimizer,2.1.5,Nota Inc.,LicenseRef-Proprietary,1855813,Arm AI Model Optimizer command-line client and Python API for ML model optimization
+2026-10-16T15:06:29Z,ol-llm,0.0.1,MIT Open Learning <odl-devops@mit.edu>,BSD-3-Clause,101076,"Shared library for LLM calls at MIT Open Learning, with Opik tracing, prompt management, and evaluation built in"
+2026-10-16T15:08:47Z,lmtwt,0.2.0,Tanuphat Tin <tanuphat.chai@gmail.com>,MIT,675355,Let Me Talk With Them — security testing framework for LLM prompt injection and jailbreak resistance
+2026-10-16T15:10:32Z,hanging-context,0.1.0,Synorb Inc.,MIT,13838,"Tiny client and CLI for Hanging Context: free, keyless stories for AI agents, with cited sources."
+2026-10-16T15:10:40Z,pgdeclare,0.0.1,Powertime <info@powertime.org>,Apache-2.0,11392,"Declarative Postgres schemas: diff the live database against your SQL files, with before/after migration blocks and a hash ledger."
+2026-10-16T15:11:34Z,xactflow-archidesc,0.1.0,Maxime Travaillard,LGPL-3.0-only,36893,XactFlow importer plugin that serializes an architecture description into an ipxact.Design.
+2026-10-16T15:14:49Z,imgproxykit,0.1.0,Alexander Kondratev,MIT,65923,A typed Python toolkit for building imgproxy URLs
+2026-10-16T15:14:57Z,gazzetta-mcp,0.1.0,Giovanna Filippini,MIT,352908,"Free, local MCP server to consult and search the Italian Gazzetta Ufficiale. Unofficial."
+2026-10-16T15:15:16Z,paralify,0.1.0,hrosmendez,MIT,18075,"Parallelize a function over pandas DataFrames, lists, tuples, sets and dicts — with retries, periodic checkpoints and crash-safe resume."
+2026-10-16T15:15:40Z,skilluno,1.12.1,,MIT,181771,一个基于 Python 的 UNO 卡牌游戏框架
+2026-10-16T15:16:26Z,agent-connector-sdk,0.1.0,Repository Maintainers <maintainers@knuckles.team>,MIT,437881,"Connector SDK for the agent-packages fleet: MCP server scaffolding, connector manifests, and typed source/content extension ports"
+2026-10-16T15:16:44Z,orange3-text-analysis,0.0.1,"Mayki dos Santos Oliveira, Brasil BR",,72099,"Add-on do Orange: limpeza, tradução e classificação de textos com modelos do Hugging Face"
+2026-10-16T15:18:11Z,tenkyu,0.1.0,,MIT,52257,Stop credit farming in AI apps: link fake accounts to one person and give them one free budget.
+2026-10-16T15:18:24Z,vzrecon,3.0.0,,,27673,
+2026-10-16T15:19:38Z,needtoknow,1.0.0rc1,Syed Muzakkir Hussain,MIT,78795,Permission-aware retrieval for RAG: every user gets only the chunks they are allowed to read.
