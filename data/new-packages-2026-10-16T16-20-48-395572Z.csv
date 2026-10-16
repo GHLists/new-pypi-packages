@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T15:20:56Z,gromo,0.1.0,"Théo Rudkiewicz, Manon Verbockhaven, Stella Douka, Maxence Tekou, Ying Jin, Hugo Mousset, Félix Hou…",BSD-3-Clause,405484,Growing module for pytorch
+2026-10-16T15:21:12Z,kaktus-timespan,1.2.0,3elenyi Kaktus,MIT,81616,A collection of different small things
+2026-10-16T15:23:50Z,selene-formats,0.1.1,Quantinuum,Apache-2.0,55635,Selene formats for Python
+2026-10-16T15:24:22Z,agent-junction,0.1.0,hypnoticproductions,MIT,32154,"Failover and credential-routing layer for AI agent stacks: probe agents with real requests, classify failures with a zero-token gate, switch on collapse, fail back on recovery."
+2026-10-16T15:24:44Z,err-codes,1.0.0,,,3358,
+2026-10-16T15:26:42Z,simple-http-checker-python,1.4.0,,,7674,A simple CLI tool to check the status of URLs.
+2026-10-16T15:28:12Z,zenpilot,0.2.1,beSaif,MIT,67500,MCP server that lets Claude drive a running Zen Browser over WebDriver BiDi
+2026-10-16T15:28:54Z,err-418,1.0.0,,,2824,
+2026-10-16T15:31:57Z,casebench-ee,0.3.0,,Elastic-2.0,961663,"Casebench's team server: logins, roles, an audit log and admin pages on the workbench"
+2026-10-16T15:33:05Z,mcp-vitrine,0.1.0,Edgar Pino,MIT,170675,"Self-hosted MCP server that turns agent output into private (signed, expiring, revocable) or public links."
+2026-10-16T15:34:04Z,tidegap,0.18.0,Vitalii Borovyk,Apache-2.0,271952,"Run non-urgent LLM tasks at the cleanest grid hour before a deadline, via Batch APIs when allowed."
+2026-10-16T15:36:13Z,hot-open,0.2.1,Alex Clerc <alex.clerc@res-group.com>,BSD-3-Clause,72287,Project for open analysis of the Hill of Towie SCADA open source dataset
+2026-10-16T15:37:59Z,jiayang-client,0.1.0,The Jiayang Cloud Authors,Apache-2.0,77016,"Call the Jiayang Cloud API from code: deploy, share, read the audit log and manage tokens."
+2026-10-16T15:39:26Z,myelinate,0.2.2,arrondavide,MIT,195086,"Self-improving skills and memory for any AI agent framework, with governance built in"
+2026-10-16T15:39:41Z,meegxer-nodes,0.2.1a2,"Thawirasm Jungrungrueang, TrimLAB, Prince of Songkla University",GPL-3.0-or-later,55497,"Built-in processing nodes (filters, re-referencing, ICA/ICLabel, features)."
+2026-10-16T15:41:16Z,meegxer-plugins,0.2.1a2,"Thawirasm Jungrungrueang, TrimLAB, Prince of Songkla University",GPL-3.0-or-later,71956,Plugin runtime and SDKs: Python (MNE) and Octave (EEGLAB) plugins as MeegXer strips.
+2026-10-16T15:43:38Z,trekr,0.1.1,Koen Freerks,MIT,65030,"Early release of TREKR, a pose-tracking tool: its label checker (a window to find and fix label errors; reads DeepLabCut projects for now), and checks of the GPU against the PyTorch build, of OpenCV'…"
+2026-10-16T15:45:00Z,ai-llm-kernel-provider-cohere,0.1.0a5,,MIT,20695,Cohere provider for AI LLM Kernel.
+2026-10-16T15:45:03Z,ai-llm-kernel-provider-groq,0.1.0a5,,MIT,8032,Groq provider for AI LLM Kernel.
+2026-10-16T15:45:05Z,ai-llm-kernel-provider-mistral,0.1.0a5,,MIT,8120,Mistral provider for AI LLM Kernel.
+2026-10-16T15:45:08Z,ai-llm-kernel-provider-ollama,0.1.0a5,,MIT,19779,Ollama provider for AI LLM Kernel.
+2026-10-16T15:48:15Z,CharmPkk,0.4.0,Your Name <you@example.com>,MIT,130404,"Красивые, плавные и настраиваемые интерфейсы для Python: консоль (TUI) и оконные приложения (GUI) с акрилом, стеклом, частицами и эффектами."
+2026-10-16T15:49:05Z,kryncord,0.1.0b1,kruldevb,MIT,838607,Async-first Discord API library for Python
+2026-10-16T15:49:51Z,pineuro,1.0.0,Marlee M Vandewouw <marlee.vandewouw@outlook.com>,Apache-2.0,609499,Python for Individualized Neurofeedback
+2026-10-16T15:50:13Z,sram-engine,1.0.0,Developer,,7665,High-speed virtual SRAM engine with C/NEON backend
+2026-10-16T15:51:42Z,cowboy-protocol-py,0.6.0,Cowboy Foundation,MIT OR Apache-2.0,1849264,"Pure-Python wrapper over the cowboy-protocol-wasm-ffi codec wasm (the canonical Cowboy transaction codec, via wasmtime). The Python analog of @cowboyinc/protocol-wasm."
+2026-10-16T15:52:17Z,index4ai,0.1.0,"POMA AI GmbH, Berlin",MPL-2.0,56992,Official Python SDK for index4ai: document indexing and hybrid search with prompt-ready context
+2026-10-16T15:54:06Z,ming-tomarkdown,0.1.2,,,16735,Convert documents and folders to Markdown with vision OCR
+2026-10-16T15:56:08Z,multi-weighted-graph,0.3.0,Gabriele Gatti <gabrielegatti432@gmail.com>,Apache License,17705,A data type representing a graph in which edges can be associated to more weights.
+2026-10-16T15:59:24Z,angela-sdk,0.1.0,Mezbaul Anam,MIT,58579,Official Python SDK for Angela Games Ecosystem cartridges
+2026-10-16T16:02:04Z,lexframe,0.1.0,Jian Gu <jianguda@gmail.com>,Apache-2.0,50880,A toolkit for interpreting LM residual streams in their native semantics
+2026-10-16T16:07:45Z,mcp-defense-bench,0.1.0,Gowthaman Arumugam,Apache-2.0,775528,"Score Python MCP defences on the mcp-defense-bench corpus, with the same metrics as the JS leaderboard."
+2026-10-16T16:13:44Z,citate,1.0.0,,,3102,
+2026-10-16T16:13:52Z,laranex-schema-viewer,0.1.0,Soe Thura <thixpin@gmail.com>,MIT,124960,"Framework-independent SQLAlchemy and SQLModel schema snapshots, ERD viewer, and read-only MCP tools"
+2026-10-16T16:16:47Z,luci-sitelle,2.0.1,Carter Rhea <carterrhea93@gmail.com>,MIT,130933348,General-purpose emission-line fitting pipeline built for SITELLE IFU data cubes
+2026-10-16T16:18:05Z,wagtail-sharepoint,0.0.1,Dan Braghis <dan.braghis@torchbox.com>,GPL-3.0-or-later,57122,A SharePoint document integration for Wagtail
+2026-10-16T16:19:49Z,pkt-core,0.2.0,aacanadaa,GPL-3.0-or-later,2001041,Type-safe Python SDK and reverse-engineering codec for Cisco Packet Tracer .pkt and .pka files
+2026-10-16T16:19:59Z,voting-age-validator-sameera-borivali,0.1.0,Sameera Sir,MIT,4413,Check minimum voting age by country
