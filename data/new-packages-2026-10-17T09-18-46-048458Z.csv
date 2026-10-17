@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T08:18:36Z,dagents,0.1.0a1,Pradyun Devarakonda,MIT,3762760,"Governed analytics and federated learning across data sources that cannot be pooled: a local agent per source, a global agent, and typed OCaml planners."
+2026-10-17T08:19:34Z,lighthouse-graph,0.1.0,Mitudru Dutta <mitudrudutta72@gmail.com>,Apache-2.0,350127,"Agent memory on FalkorDB for structured events: versioned by rule, no LLM on the write path"
+2026-10-17T08:19:57Z,smart-shell-cli,1.1.0,Lusan Sapkota <sapkotalusan@gmail.com>,Apache-2.0,63280,An intelligent terminal assistant that converts natural language into executable Bash or Zsh commands.
+2026-10-17T08:21:07Z,probiolens,0.1.0,Pratik Shinde <pratiks@iiitd.ac.in>,GPL-3.0-only,101785902,Genome-based prediction of probiotic potential and safety
+2026-10-17T08:22:01Z,pyyapper,1.0.0,PyYapper contributors,MIT,37351,"An intuitive, async Python library for the Yapper bot API."
+2026-10-17T08:24:09Z,tango-frame,0.1.3,,,34805,Automatic TANGO dispatch framework for ordinary Python device classes
+2026-10-17T08:24:42Z,devpulse-ai,0.1.2,Najeeb <iiam.ihsan01@gmail.com>,MIT,19780,Offline AI-powered developer assistant powered by Ollama for git repository analysis
+2026-10-17T08:25:45Z,bulkgrid,0.4.0,Bulkgrid,LicenseRef-Proprietary,35733,"Python SDK for Bulkgrid search, sources, and crawl workflows"
+2026-10-17T08:30:02Z,omi-kit,1.0.0,,MIT AND LicenseRef-Omi-Design,74836,"Omi, the Omarchy mascot: its kit (every mode, as data) and a player that plays it, as a list of rects to fill"
+2026-10-17T08:32:16Z,pykiln,0.0.1,biface,,5068,"Set up new or existing projects at professional quality: configuration, CI/CD, documentation, tests and IDE run configurations."
+2026-10-17T08:34:52Z,causal-automata,0.1.0,Masakazu Yamagiwa <myamagiwa@gmail.com>,MIT,42345,"A blazing-fast, JAX-accelerated Cellular Automaton engine for causal discovery."
+2026-10-17T08:37:41Z,uroboro,0.1.0,Asif Sayyed <asifdotexe@gmail.com>,MPL-2.0,21329,"Let python eat it's tail, python code re-visualiser"
+2026-10-17T08:44:37Z,hydrogen-ai-neo4j,0.1.0,phillychi3,MIT,4152,Neo4j graph store for hydrogen-ai
+2026-10-17T08:44:55Z,hydrogen-ai-qdrant,0.1.0,phillychi3,MIT,8786,Qdrant vector store for hydrogen-ai
+2026-10-17T08:45:06Z,hydrogen-ai-sqlitevec,0.1.0,phillychi3,MIT,9354,sqlite-vec vector store for hydrogen-ai
+2026-10-17T08:47:08Z,goals-iterm-mcp,0.1.0,,MIT,85287,MCP tools backed by the iTerm2 Python API
+2026-10-17T08:51:10Z,speiidev,1.4.0,SpeiiDev Team,MIT,86688,"Interactive Multi-Agent TUI with pluggable agents, model switcher, diff gate, and conversation memory."
+2026-10-17T08:54:06Z,kblock,0.1.0rc1,K-Block,LicenseRef-KBlock-SDK-1.1,112195,"Python client for the K-Block Gateway (MCP over Streamable HTTP) with thin LangChain, AutoGen and CrewAI adapters"
+2026-10-17T08:55:13Z,clawtop,0.4.1,Gishant Singh,MIT,70313,"htop for OpenClaw: see gateway memory per agent run, kill runaway runs, and manage open sessions."
+2026-10-17T08:58:47Z,cof-cli,1.0.0,Yann Souetre,MIT,156533,"COF — Character Open File: validate, pack, unpack and convert .cof character containers"
+2026-10-17T08:59:12Z,paybox-robot,0.1.0,,MIT,27672,"Give a robot a wallet it cannot spend alone: tasks, budgets and payment requests the owner approves in PayBox."
+2026-10-17T09:00:24Z,aia-connector,0.1.8,013a,,3110,Renamed to aia-cli: installing this installs aia-cli
+2026-10-17T09:00:44Z,plaisio-pinaka,0.2.0,,MIT,15827,Native Python GUI framework with macOS Touch Bar support
+2026-10-17T09:02:12Z,openclip-gemma,0.1.0,kotadymo,Apache-2.0,39531,OpenCLIP-style image and text inference with EmbeddingGemma 2
+2026-10-17T09:02:20Z,desktop_flask,0.1.0.dev1,mzy <453778839@qq.com>,BSD-3-Clause,1755708,"Run Flask apps in a desktop window: WebView2 renders, an in-process WSGI bridge serves, no TCP port is opened."
+2026-10-17T09:03:25Z,mdscrape,1.0.0,Sourav Agarwal,MIT,29081,"Turn any webpage or sitemap into clean Markdown for LLMs, AI agents, and RAG pipelines."
+2026-10-17T09:08:50Z,tellproof,0.2.0,Lumetrix,Apache-2.0,61350,One-line evidence telemetry for AI products: sends model-call facts (never content) to the local Tellproof agent.
+2026-10-17T09:16:14Z,bk-request-library,0.1.0,,,3921,Small requests-based HTTP client and JSON file helpers
+2026-10-17T09:16:49Z,iotaudit,0.1.0,Emir Mrkaljevic,MIT,10217448,"Audit your own smart-home devices: who they talk to, plaintext vs TLS, open ports, and an A-F grade with an HTML report."
+2026-10-17T09:18:05Z,misardev,1.0.0,"""Misar.AI"" <hello@misar.io>",MIT,75086,"Build, ship and run apps on MisarDev from Python: projects, files, builds, deploys, templates, OpenAI-compatible chat, code search, usage and billing — every API route, sync and async, with retries,…"
+2026-10-17T09:18:08Z,misarpost,1.0.0,"""Misar.AI"" <hello@misar.io>",MIT,33426,"MisarPost's social publishing API from Python: schedule and publish posts across every connected channel, generate and repurpose content with AI, research trends, run PersonaForge and read analytics…"
+2026-10-17T09:18:12Z,misarseo,1.0.0,"""Misar.AI"" <noreply@misar.io>",MIT,72230,"MisarSEO's API from Python: keyword research, site audits, rank tracking, backlinks, AI search visibility, Search Console, GA4 and Business Profile data — 221 methods, retries, typed plan-limit error…"
+2026-10-17T09:18:38Z,fastapi-streams,0.0.1,Mathis Arends,MIT,199600,Typed FastAPI streams with generated TypeScript and Python clients.

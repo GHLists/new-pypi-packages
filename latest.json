@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 34,
-    "from": "2026-10-17T07:19:20.448879Z",
-    "path": "data/new-packages-2026-10-17T08-19-13-197565Z.csv",
-    "to": "2026-10-17T08:19:13.197565Z"
+    "count": 33,
+    "from": "2026-10-17T08:19:13.197565Z",
+    "path": "data/new-packages-2026-10-17T09-18-46-048458Z.csv",
+    "to": "2026-10-17T09:18:46.048458Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-17T08:18:36Z",
-      "package": "dagents",
-      "since": "2026-10-17T07:19:20.448879Z"
+      "created_at": "2026-10-17T08:58:46Z",
+      "package": "trace50",
+      "since": "2026-10-17T08:19:13.197565Z"
     }
   ],
-  "serial": 42354166,
+  "serial": 42355429,
   "source_truncated": false,
-  "window": "2026-10-17T08:19:13.197565Z"
+  "window": "2026-10-17T09:18:46.048458Z"
 }
