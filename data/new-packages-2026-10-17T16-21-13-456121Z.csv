@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T15:26:41Z,steero,0.0.1,Pandiyaraj Karuppasamy <pandiyarajk@live.com>,MIT,8497,"Typed, async-first Python driver for stock Chrome and Firefox over W3C WebDriver BiDi, with auto-waiting and self-healing locators"
+2026-10-17T15:27:37Z,jetbrains-nes-gitleaks-bin,999.9.9,,,1552,
+2026-10-17T15:28:07Z,contextdoc,0.4.0,Mauto82,MIT,84151,"ContextDoc tools: run and generate conceptual tests (ctx-run), detect .ctx drift (ctx-watch), lint .ctx files (ctx-lint), expose them to agents over MCP (ctx-mcp)"
+2026-10-17T15:29:00Z,evalr,0.1.0,Alex Nodeland,MIT,170244,"Typed evaluation of agent systems: DSPy judges optimized with GEPA, TypeSafe Jev decision models, datasets and experiments in Langfuse."
+2026-10-17T15:29:47Z,game-banking-sdk,0.5.3,,,57934,game-banking-sdk — server-side Python client for the Game Banking Engine API
+2026-10-17T15:33:04Z,fastapi-rpckit,0.1.0,Mathis Arends <mathisarends27@gmail.com>,MIT,613694,Typed WebSocket RPC for FastAPI with OpenRPC and generated clients
+2026-10-17T15:44:45Z,helixor-agent-sdk,0.4.33,,,294495,"Public Helixor agent authoring, client SDK, CLI and Pi bridge."
+2026-10-17T15:46:01Z,ai-llm-kernel-testing,0.1.0a5,,MIT,19978,Shared provider contract suite and fakes for AI LLM Kernel.
+2026-10-17T15:46:04Z,ai-llm-kernel-router,0.1.0a5,,MIT,13947,Chooses a client and model before the call.
+2026-10-17T15:46:07Z,ai-llm-kernel-tool-calling,0.1.0a5,,MIT,19927,Runs injected tools in bounded generation loops.
+2026-10-17T15:46:09Z,ai-llm-kernel-fallback,0.1.0a5,,MIT,11643,Moves to another candidate after a retryable failure.
+2026-10-17T15:49:18Z,panini-parser,0.1.0,People of Product,Apache-2.0,58466,"Deterministic, privacy-preserving parser for Indian bank narrations — Python port of @panini/rules-engine"
+2026-10-17T15:50:21Z,valqore-qed,0.0.0,Tunc Celik <tunc@valqore.io>,Apache-2.0,3619,Name reservation for Valqore QED -- a self-hosted policy and evidence kernel for AI-agent actions
+2026-10-17T15:50:23Z,qed-verify,0.0.0,Tunc Celik <tunc@valqore.io>,Apache-2.0,3507,Name reservation for qed-verify -- the independent verifier for Valqore QED evidence chains
+2026-10-17T15:50:26Z,valqore,0.0.0,Tunc Celik <tunc@valqore.io>,Apache-2.0,3335,Name reservation held by Valqore -- see the valqore-qed package
+2026-10-17T15:50:39Z,TurtleExtension,1.0.0,"""Miah M. Sabiq"" <miah.sabiq@gibs.at>",,19727,A Python utility library providing turtle extensions on top of Python's original turtle feature.
+2026-10-17T15:53:08Z,sharkeyes,0.1.0,,AGPL-3.0-or-later,33354,"Local PII/secret redaction and prompt-injection guard for LLM calls. Hebrew-aware. Zero dependencies, zero servers."
+2026-10-17T15:53:51Z,pragdml,0.1.1,Dr Merwan Roudane <merwanroudane920@gmail.com>,MIT,516517,"Pragmatic double machine learning with AI-learned representations: Riesz regression, star aggregation and omitted-information sensitivity analysis"
+2026-10-17T15:55:00Z,proxytool,2.0.1,Dave Holden,,77433,FastAPI middleware conduit standing between agent clients and Qwen servers
+2026-10-17T15:56:03Z,heyasa,0.1.1,Tom Sapletta,Apache-2.0,109987,"Hey Asa — Unified Autonomous CLI Shell & Multi-Protocol Gateway for willman, willpad (willmux), and subactor standardized by wellmanifest/wellman and wellmanifest/nl-*"
+2026-10-17T15:56:08Z,actor-gatherer,0.1.0,Sepanta Zeighami,MIT,496314,The Actor-Gatherer framework: a context management framework for AI agents.
+2026-10-17T15:57:14Z,bizpuls-ai-toolkit,0.1.2,Irena Popova,,7545,A configurable business intelligence toolkit for AI assistants.
+2026-10-17T15:57:23Z,ignorecraft,0.0.2,Astrivant LLC,Apache-2.0,882536,Compile Git ignore policies with preserved custom rules and versioned upstream templates
+2026-10-17T15:59:22Z,pyramids-mesh,0.1.0,Mostafa Farrag <moah.farag@gmail.com>,GNU General Public License v3,210028,"Mesh file-format drivers for pyramids: 2DM, Selafin, DFSU, XMDF, PLY and more"
+2026-10-17T16:02:08Z,HeaderNews,0.1,,,14447,
+2026-10-17T16:02:49Z,runspec-grafana-core,0.1.0,,,52425,"Pure-Python Grafana HTTP API helpers — the importable core behind runspec-grafana (no runspec dependency, no runnables)"
+2026-10-17T16:02:52Z,qdir,1.0.0rc1,Carl Osterwisch <costerwi@gmail.com>,MIT,34125,"A very low overhead first-in, first-out job queue for the local machine"
+2026-10-17T16:04:02Z,supernovattt,1.0.0,Supernova,MIT,7387,A simple Python Tic Tac Toe game with a Supernova AI bot
+2026-10-17T16:05:28Z,runspec-grafana,0.1.0,,,29254,"Grafana runnable for runspec — dashboards, datasources, PromQL and LogQL through Grafana, alert rules, silences, and annotations, ported from the Grafana MCP server"
+2026-10-17T16:07:02Z,trellix-epo,2.0.0,Benjamin Marandel,Apache-2.0,977879,Trellix ePolicy Orchestrator policies and Web API Python library
+2026-10-17T16:09:04Z,openworldformat,0.4.4,The Open World Format contributors,Apache-2.0,118559,"The Open World Format research package: parse and fold a .world in pure Python, no engine required."
+2026-10-17T16:09:47Z,uncrash,0.1.2,Tomasz Sapletta Prototypowanie.pl,Apache-2.0,326454,Fast local recovery snapshots with optional encryption
+2026-10-17T16:10:21Z,byteplussdk-ecopartner,0.0.1,byteplus-sdk,Apache License 2.0,1011,Name reservation for the Byteplus Python SDK split package byteplussdk-ecopartner
+2026-10-17T16:10:28Z,byteplussdk-ecs,0.0.1,byteplus-sdk,Apache License 2.0,960,Name reservation for the Byteplus Python SDK split package byteplussdk-ecs
+2026-10-17T16:10:34Z,byteplussdk-ecs20251101,0.0.1,byteplus-sdk,Apache License 2.0,1021,Name reservation for the Byteplus Python SDK split package byteplussdk-ecs20251101
+2026-10-17T16:10:40Z,byteplussdk-escloud,0.0.1,byteplus-sdk,Apache License 2.0,992,Name reservation for the Byteplus Python SDK split package byteplussdk-escloud
+2026-10-17T16:10:49Z,artifactr-ai,0.2.0,Alex Nodeland,MIT,298179,"Build chat applications where people and agents collaborate through shared, versioned artifacts."
+2026-10-17T16:10:54Z,grantr,0.1.0,Alex Nodeland,MIT,113224,"Identity and access for artifactr and reflexr: tenants, members, groups, roles, service principals and grants, checked before every command and read."
+2026-10-17T16:14:54Z,django-debug-toolbar-datastar,0.1.0,,BSD-3-Clause,20547,Community-maintained Datastar signal projection panel for Django Debug Toolbar
+2026-10-17T16:15:40Z,aimarket-oracle-betti,0.1.0,,,29164,Betti — persistent-homology / topological-shape oracle on oracle-core
+2026-10-17T16:15:42Z,core-web-vitals-mcp,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,53908,"FastMCP server for Google Chrome UX Report (CrUX) and PageSpeed Insights: Core Web Vitals (LCP, INP, CLS), field history, and Lighthouse lab audits."
+2026-10-17T16:16:46Z,jobstate,0.1.0,,MIT,162495,"Submit, watch and report on Slurm jobs from AI agents: an MCP server and CLI for JSC's JUPITER, JURECA, JUWELS and JUSUF"
+2026-10-17T16:17:12Z,lonoboard,0.1.0,,MIT,292410,"A live dashboard for the machines running your AI models, drawn like a 1990s ANSI BBS"

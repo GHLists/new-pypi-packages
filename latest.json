@@ -1,25 +1,25 @@
 {
   "list": {
     "count": 43,
-    "from": "2026-10-17T14:19:55.798869Z",
-    "path": "data/new-packages-2026-10-17T15-20-32-879432Z.csv",
-    "to": "2026-10-17T15:20:32.879432Z"
+    "from": "2026-10-17T15:20:32.879432Z",
+    "path": "data/new-packages-2026-10-17T16-21-13-456121Z.csv",
+    "to": "2026-10-17T16:21:13.456121Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-17T13:37:01Z",
       "package": "patctl",
       "since": "2026-10-17T13:21:03.266607Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-17T14:12:42Z",
       "package": "zwift-jersey-automator-tool",
       "since": "2026-10-17T13:21:03.266607Z"
     }
   ],
-  "serial": 42365794,
+  "serial": 42367443,
   "source_truncated": false,
-  "window": "2026-10-17T15:20:32.879432Z"
+  "window": "2026-10-17T16:21:13.456121Z"
 }
