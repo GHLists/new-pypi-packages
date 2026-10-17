@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T22:19:56Z,lighthive,0.4.4,emrebeylerhive,MIT,34157,A light python client to interact with the HIVE blockchain
+2026-10-17T22:24:04Z,transmitter,0.2.12,emrebeylerhive,MIT,19316,HIVE Witness updates made easy.
+2026-10-17T22:29:00Z,reactjs-clean-gen,0.4.0,Maher Ben Abdessalem <ba.maher94@gmail.com>,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",129737,Generate production-grade NestJS Clean Architecture & DDD modules from YAML.
+2026-10-17T22:29:06Z,withlore,0.2.0a15,"""Lore AI Labs, Inc."" <hi@lore-labs.ai>",Apache-2.0,515832,Python SDK for Lore.
+2026-10-17T22:29:11Z,llmledger-mcp,0.1.1,,MIT,632904,"Which AI model, and what it costs: LiteLLM prices, Arena ratings and price history, inside Claude and other AI apps."
+2026-10-17T22:29:15Z,esgo,0.1.0,ESGO Logistics UG (haftungsbeschränkt),MIT,70819,Official Python SDK for the ESGO API (empty-run matching for road freight)
+2026-10-17T22:29:37Z,arena-bridge,0.6.2,,MIT,119669,"Give a cloud AI agent (Arena.ai Agent Mode, Claude, Cursor, ...) controlled access to your own machine over HTTP/MCP: files, shell, Chrome and the macOS desktop, with an approval gate, trust windows…"
+2026-10-17T22:31:47Z,gutcheck,0.1.0,Phill Clapham,Apache-2.0,421320,"A poker reading trainer: commit your read, then see the real equity."
+2026-10-17T22:34:49Z,recto,0.1.1,Thibault Djaballah,MIT,62680,Learn things by heart with flashcards in the terminal
+2026-10-17T22:34:51Z,verisec,1.0.0,VeriSec Labs,MIT,172461,The official Python library for the VeriSec API: identity (KYC) and Financial checks.
+2026-10-17T22:35:49Z,arc-connect,0.1.0,Arc,MIT,73602,Deterministic Git-to-Arc Item links using literal source markers
+2026-10-17T22:36:27Z,raven-hydro-meta-marl,0.1.1,,,33753988,Python distribution for the Raven hydrological modeling framework
+2026-10-17T22:51:13Z,tree-sitter-macaulay2,6.3.1,Alexander Golys <alexandergolys@gmail.com>,MIT,271804,Macaulay2 grammar for tree-sitter
+2026-10-17T22:52:58Z,overturn,0.1.1,Overturn contributors,Apache-2.0,94657,"Overturn SDK: record agent runs, turn human corrections into regression cases, replay safely"
+2026-10-17T22:55:02Z,kayden,0.1.0,K5031,Apache-2.0,161695,"A modular desktop AI assistant with swappable models, memory, actions, tools, and interfaces."
+2026-10-17T22:56:27Z,nxa,0.0.0,,,1403,"Reserved by Nexplora (nexplora.ai). Placeholder, no code."
+2026-10-17T22:56:29Z,nexplora-nxa,0.0.0,,,1480,"Reserved by Nexplora (nexplora.ai). Placeholder, no code."
+2026-10-17T22:57:44Z,driftmark,0.0.0,,MIT OR Apache-2.0,2373,"See what your AI agents changed in your Markdown docs, whether it matters, and answer back with notes. Under development."
+2026-10-17T22:58:07Z,grantry-sdk,0.1.0,Grantry,MIT,229561,"Identity, access and licensing for Python applications."
+2026-10-17T22:59:32Z,agent-audit-mcp,1.0.0,润泽 · 灵助（三元九维） <runze@lingzhu.ai>,MIT,35086,九维认知空间 Agent 审计层 MCP 插件：决策步骤→九位平衡三进制状态序列→审计报告 (Audit AI agent decisions as balanced-ternary cognitive states via MCP)
+2026-10-17T22:59:33Z,strands-pixeltable,0.1.0,Pixeltable <contact@pixeltable.com>,Apache-2.0,52490,Strands Agents memory store and read-only Pixeltable tools.
+2026-10-17T23:01:16Z,better-sitl,1.0.0,"TCHS-aero <tchsaero@tcusd.net>, Matthew Hannon <matthannon.dev@gmail.com>",MIT,12306,A Python CLI wrapper built with click for PX4's SIH and Gazebo SITL docker images; designed for a smoother integrated workflow.
+2026-10-17T23:01:28Z,yaal-sql,0.12.0,Kiruba Sankar Swaminathan,MIT,923396,Yaal SQL compiler. Compiles Yaal SQL and a JSON parameter object into dialect SQL and ordered binds.
+2026-10-17T23:04:25Z,model-context-protocol-gateway,0.1.0b62,,Apache-2.0,238077260,Model Context Protocol Gateway — the mcpg CLI suite (prebuilt binaries)
+2026-10-17T23:04:58Z,pybingraph,0.2.5,Manel Fernandez <manel.fernandez@gmail.com>,BSD-2-Clause,356084,Binary inspection API and UI using angr
+2026-10-17T23:05:09Z,mqtwister,0.1.0rc1,Daniel Feito Pin <danielfeitopin+github@protonmail.com>,GPL-2.0-only,304326,A Tool for Man-in-the-Middle (MitM) Attacks on the MQTT Protocol
+2026-10-17T23:05:10Z,freehold-agent,0.2.0,PCI Contributors,Apache-2.0,112607,Layer 2: Local AI agent for Personal Context Infrastructure
+2026-10-17T23:06:44Z,freehold-preimage,0.2.0,Peter Wilson,Apache-2.0,22743,Reference implementation of the Freehold canonical preimage encoding
+2026-10-17T23:07:40Z,no-ai-marks,0.2.1,,MIT,100214,"Find AI attribution and hidden watermarks in commits, pull requests, branches, and files."
+2026-10-17T23:09:50Z,common-encryption,2.2.11,Francesco Baldi <francesco.baldi1987@gmail.com>,MIT,91200,Python port of the common-encryption Java module: transparent field-level encryption and decryption
+2026-10-17T23:12:06Z,poikilos,1.0.0,Christian Samuel Ramirez <chrisram0403@proton.me>,MIT,571033,Matplotlib themes and figure helpers
+2026-10-17T23:13:43Z,scinspect,0.1.0,Yash Bhida,MIT,78231,"Find out what is really inside a single-cell dataset (raw counts or normalized, log base, scaled, gene ID problems) before you analyze it."
+2026-10-17T23:16:00Z,datarecon,0.1.0,,MIT,20314,Explainable dataset reconciliation: find out why two datasets do not match.
+2026-10-17T23:16:38Z,dothedev-sandbox,0.1.0,shahraiz ali,MIT,17067,Deep agents sandbox backend for DoTheDev Agent Platform sandboxes
+2026-10-17T23:17:08Z,robustmargin,0.1.1,robustmargin contributors,Apache-2.0,234120,"Robustness margins with confidence intervals, via dose-response threshold estimation."
+2026-10-17T23:17:22Z,ddg-langchain,0.1.0,Daedalus Development Group,MIT,32084,"LangChain + CrewAI tools for DDG Agent Services (x402-payable, USDC on Base, no API key)"

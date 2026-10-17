@@ -8,39 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 22:18 UTC
+## Latest list — 2026-10-17 23:18 UTC
 
-New packages created between 2026-10-17 21:19 UTC and 2026-10-17 22:18 UTC.
+New packages created between 2026-10-17 22:18 UTC and 2026-10-17 23:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-17T22-18-24-947537Z.csv)
+[Full CSV](data/new-packages-2026-10-17T23-18-24-658227Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-17 21:19:54 | [wasi-python](https://pypi.org/project/wasi-python/) | 0.1.0a3 | Clay Gendron | 38.8 MB | A statically linked CPython for WebAssembly hosts (wasm32-wasip1) with numpy an… |
-| 2026-10-17 21:21:57 | [arct-cloud](https://pypi.org/project/arct-cloud/) | 0.1.0rc1 |  | 89.8 kB | Synchronous and asynchronous Arct Cloud API clients |
-| 2026-10-17 21:25:38 | [simplibs-file](https://pypi.org/project/simplibs-file/) | 0.1.0 | "Dalibor Sova (Sudip2708)" <d… | 216.9 kB | Safe file handling: read, write, copy, move, back up and inspect files — atomic… |
-| 2026-10-17 21:31:52 | [ambientprecision](https://pypi.org/project/ambientprecision/) | 1.0.0 | Enriching Ventures | 9.9 kB | Typed client for the Human Handoff API: send a typed question to a person, get… |
-| 2026-10-17 21:33:50 | [astrax-mcp](https://pypi.org/project/astrax-mcp/) | 0.2.0 |  | 51.9 kB | Agentic System Telemetry, Realtime Automation & X-control: servidor MCP que da… |
-| 2026-10-17 21:35:29 | [fastflow-sdk](https://pypi.org/project/fastflow-sdk/) | 0.0.1 | Advanced Micro Devices, Inc. | 2.6 kB | AMD FastFlow SDK for AI inference and compilation on XDNA NPUs |
-| 2026-10-17 21:37:49 | [ttprism](https://pypi.org/project/ttprism/) | 0.1.0 | 李語晨 | 307.2 kB | Extract IOCs from threat reports and sandbox output, and map behaviour to MITRE… |
-| 2026-10-17 21:38:51 | [spyglass-sdk](https://pypi.org/project/spyglass-sdk/) | 0.1.2 |  | 181.0 kB |  |
-| 2026-10-17 21:42:28 | [acctswap](https://pypi.org/project/acctswap/) | 0.2.3 |  | 1.8 MB | Switch the account every Claude Code session on a machine uses, from saved logi… |
-| 2026-10-17 21:52:48 | [swissbitcoinpay-checkout](https://pypi.org/project/swissbitcoinpay-checkout/) | 0.1.0 | Swiss Bitcoin Pay Sàrl <hello… | 590.5 kB | Take Lightning and on-chain payments for a Swiss Bitcoin Pay merchant from an o… |
-| 2026-10-17 21:52:52 | [openreposhape](https://pypi.org/project/openreposhape/) | 1.1.0 | opensoft | 70.6 kB | openRepoShape's commands, run from a clone of the standard at the release's own… |
-| 2026-10-17 21:53:18 | [gotoconnect](https://pypi.org/project/gotoconnect/) | 0.1.0 |  | 40.3 kB | Async Python client for GoTo Connect: SMS via Messaging v2, outbound TTS voice… |
-| 2026-10-17 21:56:40 | [aec-modelling](https://pypi.org/project/aec-modelling/) | 0.1.0 | Lingkang Jin <l.jin@tue.nl>,… | 64.5 kB | Four-parameter semi-empirical electrochemical and thermal model of alkaline wat… |
-| 2026-10-17 21:57:44 | [venv-match](https://pypi.org/project/venv-match/) | 0.1.0 | Ishaan Tidke | 43.9 kB | Compare Python runtime environments and investigate environment drift |
-| 2026-10-17 21:57:47 | [positronic-wire](https://pypi.org/project/positronic-wire/) | 0.12.0 |  | 71.0 kB | The client side of the transports a Positronic inference session runs over |
-| 2026-10-17 21:57:53 | [positronic-eval-vocabulary](https://pypi.org/project/positronic-eval-vocabulary/) | 0.4.0 |  | 13.4 kB | The vocabulary an attended rollout records: the operator's verdict and the prog… |
-| 2026-10-17 21:58:22 | [positronic-evals](https://pypi.org/project/positronic-evals/) | 0.1.0 |  | 197.9 kB | The public evals of the Positronic platform: their definitions, labelers, scori… |
-| 2026-10-17 21:58:22 | [positronic-model-server](https://pypi.org/project/positronic-model-server/) | 0.2.2 |  | 59.2 kB | Model serving, session lifecycle and serialization without Positronic dependenc… |
-| 2026-10-17 21:59:26 | [model-finder-mcp](https://pypi.org/project/model-finder-mcp/) | 1.3.5 | Indigloo | 148.9 kB | Local MCP server: find the cheapest AI model that passes your own tests |
-| 2026-10-17 22:01:50 | [snapchat-dl-community](https://pypi.org/project/snapchat-dl-community/) | 2.1.0 | Aakash Gajjar | 67.7 kB | Community-maintained Snapchat public stories downloader. |
-| 2026-10-17 22:03:24 | [curupira-sdk](https://pypi.org/project/curupira-sdk/) | 0.1.0.dev0 |  | 27.9 kB | Declarative SDK for Curupira JSON-RPC process extensions |
-| 2026-10-17 22:04:38 | [tallyprime](https://pypi.org/project/tallyprime/) | 0.0.1 | Chirag Jain <chirag@jumpfast.… | 66.3 kB | Python client for the TallyPrime API |
-| 2026-10-17 22:05:49 | [rightra](https://pypi.org/project/rightra/) | 0.1.0 | OLIVIUUS Ltd <contact@oliviuu… | 21.4 kB | Server-side helpers for Rightra: upload tokens, presigned storage URLs, and the… |
-| 2026-10-17 22:08:33 | [curupira-plugins](https://pypi.org/project/curupira-plugins/) | 0.1.0.dev0 |  | 25.0 kB | Official Curupira trigger extensions (GitHub, Azure, Trello, monday.com) |
-| 2026-10-17 22:15:34 | [temporal2mistral](https://pypi.org/project/temporal2mistral/) | 0.1.0 | Louis Cauret <louiscauret@gma… | 118.9 kB | Migrate Temporal Python workflows to Mistral Workflows (codemod + migration rep… |
-| 2026-10-17 22:16:15 | [orion-phone](https://pypi.org/project/orion-phone/) | 0.2.0 | Dan Mercede | 405.5 kB | Android emulator phones for AI agents: leases, a locked tier, and an audit trai… |
-| 2026-10-17 22:17:39 | [mailcheckr](https://pypi.org/project/mailcheckr/) | 0.1.0 | Ridwan Kasim | 14.2 kB | Server-side Python client for the MailCheckr email verification API |
-| 2026-10-17 22:17:50 | [netsi](https://pypi.org/project/netsi/) | 0.1.0 | Blue Dot | 8.9 kB | Python SDK for netsi, the personal agent network, and SplitSI, its shared-expen… |
+| 2026-10-17 22:19:56 | [lighthive](https://pypi.org/project/lighthive/) | 0.4.4 | emrebeylerhive | 34.2 kB | A light python client to interact with the HIVE blockchain |
+| 2026-10-17 22:24:04 | [transmitter](https://pypi.org/project/transmitter/) | 0.2.12 | emrebeylerhive | 19.3 kB | HIVE Witness updates made easy. |
+| 2026-10-17 22:29:00 | [reactjs-clean-gen](https://pypi.org/project/reactjs-clean-gen/) | 0.4.0 | Maher Ben Abdessalem <ba.mahe… | 129.7 kB | Generate production-grade NestJS Clean Architecture & DDD modules from YAML. |
+| 2026-10-17 22:29:06 | [withlore](https://pypi.org/project/withlore/) | 0.2.0a15 | "Lore AI Labs, Inc." <hi@lore… | 515.8 kB | Python SDK for Lore. |
+| 2026-10-17 22:29:11 | [llmledger-mcp](https://pypi.org/project/llmledger-mcp/) | 0.1.1 |  | 632.9 kB | Which AI model, and what it costs: LiteLLM prices, Arena ratings and price hist… |
+| 2026-10-17 22:29:15 | [esgo](https://pypi.org/project/esgo/) | 0.1.0 | ESGO Logistics UG (haftungsbe… | 70.8 kB | Official Python SDK for the ESGO API (empty-run matching for road freight) |
+| 2026-10-17 22:29:37 | [arena-bridge](https://pypi.org/project/arena-bridge/) | 0.6.2 |  | 119.7 kB | Give a cloud AI agent (Arena.ai Agent Mode, Claude, Cursor, ...) controlled acc… |
+| 2026-10-17 22:31:47 | [gutcheck](https://pypi.org/project/gutcheck/) | 0.1.0 | Phill Clapham | 421.3 kB | A poker reading trainer: commit your read, then see the real equity. |
+| 2026-10-17 22:34:49 | [recto](https://pypi.org/project/recto/) | 0.1.1 | Thibault Djaballah | 62.7 kB | Learn things by heart with flashcards in the terminal |
+| 2026-10-17 22:34:51 | [verisec](https://pypi.org/project/verisec/) | 1.0.0 | VeriSec Labs | 172.5 kB | The official Python library for the VeriSec API: identity (KYC) and Financial c… |
+| 2026-10-17 22:35:49 | [arc-connect](https://pypi.org/project/arc-connect/) | 0.1.0 | Arc | 73.6 kB | Deterministic Git-to-Arc Item links using literal source markers |
+| 2026-10-17 22:36:27 | [raven-hydro-meta-marl](https://pypi.org/project/raven-hydro-meta-marl/) | 0.1.1 |  | 33.8 MB | Python distribution for the Raven hydrological modeling framework |
+| 2026-10-17 22:51:13 | [tree-sitter-macaulay2](https://pypi.org/project/tree-sitter-macaulay2/) | 6.3.1 | Alexander Golys <alexandergol… | 271.8 kB | Macaulay2 grammar for tree-sitter |
+| 2026-10-17 22:52:58 | [overturn](https://pypi.org/project/overturn/) | 0.1.1 | Overturn contributors | 94.7 kB | Overturn SDK: record agent runs, turn human corrections into regression cases,… |
+| 2026-10-17 22:55:02 | [kayden](https://pypi.org/project/kayden/) | 0.1.0 | K5031 | 161.7 kB | A modular desktop AI assistant with swappable models, memory, actions, tools, a… |
+| 2026-10-17 22:56:27 | [nxa](https://pypi.org/project/nxa/) | 0.0.0 |  | 1.4 kB | Reserved by Nexplora (nexplora.ai). Placeholder, no code. |
+| 2026-10-17 22:56:29 | [nexplora-nxa](https://pypi.org/project/nexplora-nxa/) | 0.0.0 |  | 1.5 kB | Reserved by Nexplora (nexplora.ai). Placeholder, no code. |
+| 2026-10-17 22:57:44 | [driftmark](https://pypi.org/project/driftmark/) | 0.0.0 |  | 2.4 kB | See what your AI agents changed in your Markdown docs, whether it matters, and… |
+| 2026-10-17 22:58:07 | [grantry-sdk](https://pypi.org/project/grantry-sdk/) | 0.1.0 | Grantry | 229.6 kB | Identity, access and licensing for Python applications. |
+| 2026-10-17 22:59:32 | [agent-audit-mcp](https://pypi.org/project/agent-audit-mcp/) | 1.0.0 | 润泽 · 灵助（三元九维） <runze@lingzhu.… | 35.1 kB | 九维认知空间 Agent 审计层 MCP 插件：决策步骤→九位平衡三进制状态序列→审计报告 (Audit AI agent decisions as bala… |
+| 2026-10-17 22:59:33 | [strands-pixeltable](https://pypi.org/project/strands-pixeltable/) | 0.1.0 | Pixeltable <contact@pixeltabl… | 52.5 kB | Strands Agents memory store and read-only Pixeltable tools. |
+| 2026-10-17 23:01:16 | [better-sitl](https://pypi.org/project/better-sitl/) | 1.0.0 | TCHS-aero <tchsaero@tcusd.net… | 12.3 kB | A Python CLI wrapper built with click for PX4's SIH and Gazebo SITL docker imag… |
+| 2026-10-17 23:01:28 | [yaal-sql](https://pypi.org/project/yaal-sql/) | 0.12.0 | Kiruba Sankar Swaminathan | 923.4 kB | Yaal SQL compiler. Compiles Yaal SQL and a JSON parameter object into dialect S… |
+| 2026-10-17 23:04:25 | [model-context-protocol-gateway](https://pypi.org/project/model-context-protocol-gateway/) | 0.1.0b62 |  | 238.1 MB | Model Context Protocol Gateway — the mcpg CLI suite (prebuilt binaries) |
+| 2026-10-17 23:04:58 | [pybingraph](https://pypi.org/project/pybingraph/) | 0.2.5 | Manel Fernandez <manel.fernan… | 356.1 kB | Binary inspection API and UI using angr |
+| 2026-10-17 23:05:09 | [mqtwister](https://pypi.org/project/mqtwister/) | 0.1.0rc1 | Daniel Feito Pin <danielfeito… | 304.3 kB | A Tool for Man-in-the-Middle (MitM) Attacks on the MQTT Protocol |
+| 2026-10-17 23:05:10 | [freehold-agent](https://pypi.org/project/freehold-agent/) | 0.2.0 | PCI Contributors | 112.6 kB | Layer 2: Local AI agent for Personal Context Infrastructure |
+| 2026-10-17 23:06:44 | [freehold-preimage](https://pypi.org/project/freehold-preimage/) | 0.2.0 | Peter Wilson | 22.7 kB | Reference implementation of the Freehold canonical preimage encoding |
+| 2026-10-17 23:07:40 | [no-ai-marks](https://pypi.org/project/no-ai-marks/) | 0.2.1 |  | 100.2 kB | Find AI attribution and hidden watermarks in commits, pull requests, branches,… |
+| 2026-10-17 23:09:50 | [common-encryption](https://pypi.org/project/common-encryption/) | 2.2.11 | Francesco Baldi <francesco.ba… | 91.2 kB | Python port of the common-encryption Java module: transparent field-level encry… |
+| 2026-10-17 23:12:06 | [poikilos](https://pypi.org/project/poikilos/) | 1.0.0 | Christian Samuel Ramirez <chr… | 571.0 kB | Matplotlib themes and figure helpers |
+| 2026-10-17 23:13:43 | [scinspect](https://pypi.org/project/scinspect/) | 0.1.0 | Yash Bhida | 78.2 kB | Find out what is really inside a single-cell dataset (raw counts or normalized,… |
+| 2026-10-17 23:16:00 | [datarecon](https://pypi.org/project/datarecon/) | 0.1.0 |  | 20.3 kB | Explainable dataset reconciliation: find out why two datasets do not match. |
+| 2026-10-17 23:16:38 | [dothedev-sandbox](https://pypi.org/project/dothedev-sandbox/) | 0.1.0 | shahraiz ali | 17.1 kB | Deep agents sandbox backend for DoTheDev Agent Platform sandboxes |
+| 2026-10-17 23:17:08 | [robustmargin](https://pypi.org/project/robustmargin/) | 0.1.1 | robustmargin contributors | 234.1 kB | Robustness margins with confidence intervals, via dose-response threshold estim… |
+| 2026-10-17 23:17:22 | [ddg-langchain](https://pypi.org/project/ddg-langchain/) | 0.1.0 | Daedalus Development Group | 32.1 kB | LangChain + CrewAI tools for DDG Agent Services (x402-payable, USDC on Base, no… |
