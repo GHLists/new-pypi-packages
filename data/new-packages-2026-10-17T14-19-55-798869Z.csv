@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T13:22:44Z,corvo-nfse,0.1.1,Corvo Technology,MIT,55442,"Python SDK for the Corvo NFS-e API: issue Brazilian service invoices, with result-style errors, cursor pagination and webhook verification."
+2026-10-17T13:24:09Z,ocf-containers,1.0.0,OCF Contributors,"MIT License Copyright (c) 2026 OCF Contributors Permission is hereby granted, free of charge, to an…",49770,"Open Container Format - encrypted, seekable media container with passwords, machine binding, expiry, play limits and Ed25519 signed policy"
+2026-10-17T13:25:02Z,melecho,1.0.0,Rusaell,GPL-3.0-or-later,907308,Local-first Linux SSH control panel with HMAC audit and LLM-assisted anomaly interpretation
+2026-10-17T13:26:30Z,aiogram-stars,0.1.0,sinnercode228,MIT,121451,"Telegram Stars payments for aiogram 3: signed invoice payloads, exactly-once payment handling and a durable refund outbox"
+2026-10-17T13:26:57Z,supernova-mathos,6.1.0,Supernova,Apache-2.0,131953,NumPy-based learned arithmetic and BODMAS engine
+2026-10-17T13:27:43Z,pydabs-genie-agent-retarget,0.1.1,Alex Ott <alexott@gmail.com>,"Databricks License Copyright (2026) Databricks, Inc. Definitions. Agreement: The agreement between…",53618,Rewrite Unity Catalog references in Genie Agent (Genie space) definitions; a PyDABs mutator for Declarative Automation Bundles
+2026-10-17T13:28:15Z,liberrex-mcp-server,0.1.0,Liberrex,Liberrex MCP server — Proprietary License Copyright (c) 2026 Liberrex. All rights reserved. 1. Gran…,82120,"Publish a platform's tools on the Liberrex MCP mesh (peer keys, per-call user identity, permissions), plus the Liberrex AI MCP server."
+2026-10-17T13:29:17Z,wb-personal-drive-query-mcp,1.0.0,,,27470,个人云盘文件查询 MCP 连接器（personal-drive-query）：只读查询你自己的百度网盘文件与容量
+2026-10-17T13:29:27Z,term2gif-rs,0.1.0,,MIT,3689593,"Record a terminal session and save it as a GIF, in a single binary"
+2026-10-17T13:29:58Z,agentguard-linter,0.1.0,Samarth,"MIT License Copyright (c) 2026 Samarth Permission is hereby granted, free of charge, to any person…",482681,"Static analysis for reliability, cost, and security bugs in AI agents"
+2026-10-17T13:31:08Z,athar,0.1.0,Abdur-Rafay-AR,MIT,46041,"A local-first, time-travel debugger for multi-agent LLM systems."
+2026-10-17T13:32:26Z,woodwright,0.1.0,Bohumir Zamecnik <bohumir.zamecnik@gmail.com>,MIT,113354,A semantic CAD library for woodworking.
+2026-10-17T13:35:51Z,pdfluent-extract,0.1.0,"""Innovation Trigger B.V."" <team@pdfluent.com>",AGPL-3.0-only OR LicenseRef-PDFluent-Commercial,55313,"PDF to Markdown, JSON and RAG chunks — fast, local, no system dependencies"
+2026-10-17T13:35:52Z,langchain-pdfluent,0.1.0,"""Innovation Trigger B.V."" <team@pdfluent.com>",AGPL-3.0-only OR LicenseRef-PDFluent-Commercial,41901,"LangChain document loader for PDFluent: PDF blocks and tables with page, box, kind and confidence per chunk."
+2026-10-17T13:35:54Z,llama-index-readers-pdfluent,0.1.0,"""Innovation Trigger B.V."" <team@pdfluent.com>",AGPL-3.0-only OR LicenseRef-PDFluent-Commercial,42848,"LlamaIndex reader for PDFluent: PDF blocks and tables with page, box, kind and confidence per document."
+2026-10-17T13:36:50Z,lerobot-robot-so-arm102,0.1.0a1,,Apache-2.0,36072,SO-ARM 102 follower integration for LeRobot
+2026-10-17T13:40:12Z,opdoc,0.1.0,,MIT,22968,"Opinionated, self-contained pdoc documentation sites"
+2026-10-17T13:40:57Z,said-core,0.0.1,SAIDHOME,Apache-2.0,1806,Reader and writer for the open .said memory format. Name reserved; the first release is coming.
+2026-10-17T13:41:04Z,asksaid,0.0.1,SAIDHOME,Apache-2.0,1789,"Python SDK for .said, the memory file any AI can use. Name reserved; the first release is coming."
+2026-10-17T13:42:08Z,dielectric-constant-step,2026.10.17,Paul Saxe,BSD-3-Clause,332319,A SEAMM plug-in for Dielectric Constant
+2026-10-17T13:42:20Z,ionic-conductivity-step,2026.10.17,Paul Saxe,BSD-3-Clause,334974,A SEAMM plug-in for Ionic Conductivity
+2026-10-17T13:44:22Z,liberrex-mcp-client,0.1.0,Liberrex,Liberrex MCP client — Proprietary License Copyright (c) 2026 Liberrex. All rights reserved. 1. Gran…,21645,"Call other platforms' tools on the Liberrex MCP mesh, from async or sync code, and hand them to an LLM as function-calling tools."
+2026-10-17T13:47:20Z,git-cities,0.1.0,elwoodradley,MIT,387821,"Turn a git repository's history into an animated 3D neon city, live in the browser or exported to 4K video."
+2026-10-17T13:48:09Z,hadith-detector,0.1.0,Mohamed Rayen Fekih,MIT,37868623,Deterministic offline Arabic textual matching against Sahih Bukhari and Sahih Muslim
+2026-10-17T13:48:14Z,cmem-plugin-querycatalog,0.5.0,eccenca GmbH,Apache-2.0,58796,Use queries from the Corporate Memory query catalog in workflows.
+2026-10-17T13:48:44Z,rismik-partner,0.1.0,Рисмик <partner@rismik.ru>,MIT,10175,"The Рисмик partner API for Python servers: lessons, links, minutes, webhooks"
+2026-10-17T13:51:48Z,tensemem,0.0.1,Shubham,Apache-2.0,12139,"Memory that knows its tenses: an embedded, deterministic state memory engine for AI agents."
+2026-10-17T13:52:37Z,pathctl,0.2.4,,,81442,"Inspect and repair the Windows global PATH, and list the tools that are usable globally (via mise, winget, npm or directly)"
+2026-10-17T13:53:02Z,billing-e2e,0.1.0,Nouhan Kourouma,MIT,56859,"End-to-end tests for Stripe subscriptions: renewals, failed payments, proration and cancellations on test clocks, checked against your own app."
+2026-10-17T13:54:22Z,quickdbd-cli,0.1.0,Minh (Mark) Pham,Apache-2.0,2320781,"Compile QuickDBD-syntax schema files into interactive HTML ER diagrams, with no table limit."
+2026-10-17T13:55:00Z,mpdt,0.2.2,ttxs69,MIT,115206,公众号运营数据本地 CLI：把后台三源数据抓回本机 SQLite，一键生成周报
+2026-10-17T13:55:35Z,aimarket-oracle-aestus,0.1.0,,,30908,Aestus — RSW time-lock puzzle oracle on oracle-core
+2026-10-17T13:57:04Z,pointpca3,1.0.0,,,3651982,A Rust-based Python library for extracting pointpca3 features from Point Clouds.
+2026-10-17T13:57:33Z,mac-storage-dashboard,1.1.1,Mac Storage Dashboard contributors,"MIT License Copyright (c) 2026 Mac Storage Dashboard contributors Permission is hereby granted, fre…",112369,"Local, privacy-friendly macOS disk dashboard: treemap, junk detection, safe cleanup."
+2026-10-17T13:57:38Z,aioamocrm,0.1.0,sinnercode228,MIT,214798,"Async client for the amoCRM / Kommo API v4: OAuth2 with token rotation, rate limiting, retries, pagination, typed models and webhook parsing"
+2026-10-17T13:58:05Z,cudabom,0.1.0,Chris Peoples,Apache-2.0,8791685,Find the CUDA your SBOM missed: evidence-backed CUDA identity and security-grade SBOM/VEX for artifacts.
+2026-10-17T13:59:19Z,bing-webmaster-mcp,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,41511,"Bing Webmaster Tools & IndexNow API MCP server for AI agents: search performance, crawl issues, and instant URL indexing."
+2026-10-17T13:59:25Z,microsoft-clarity-mcp,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,44310,"FastMCP server for Microsoft Clarity: behavioral UX diagnostics, rage clicks, dead clicks, quick backs, excessive scroll, and JavaScript errors."
+2026-10-17T13:59:27Z,plumerise,1.0.0,Mark Woodhouse,BSD-3-Clause,492904,Model of wind-blown volcanic plumes
+2026-10-17T13:59:32Z,plausible-mcp,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,31664,"Plausible Analytics MCP server: privacy-first website statistics, real-time visitors, breakdowns, and trendlines for AI agents."
+2026-10-17T14:03:47Z,mesh-projector,1.0.0,,,23009583,
+2026-10-17T14:04:38Z,py4uv,0.1.0,,MIT,367888,"Portable `py` launcher shim, backed by uv (no Python installation needed)"
+2026-10-17T14:08:14Z,llmsrt,0.1.0,ivershuo,MIT,101829,Extract video subtitles and translate them into one multilingual SRT.
+2026-10-17T14:09:43Z,localtrv,0.2.0,jurgenj136,MIT,983629,Local Bluetooth control for Viessmann ViCare radiator valves through a ubisys R0.
+2026-10-17T14:09:58Z,ukraine69,1.2.0,,MIT,4086,"Ukrainian locale helpers, transliteration, date formatting and emoji flags"
+2026-10-17T14:10:37Z,volt-ai,1.0.0,S Sanjai (Baizo),Apache-2.0,211668,"VOLT-AI: Autonomous Multi-Model AI Coordination, Routing, and Observability Engine"
+2026-10-17T14:12:50Z,claude-code-bridge-mcp,1.0.0,Rutyro,MIT,20246,MCP bridge for coding-agent sessions over SSH
+2026-10-17T14:12:55Z,zwift-jersey-automator,0.1.0,Chrismettal <chrismettal@binary-6.de>,,31689,Automates the entry of Zwift jersey promo codes using simulated keyboard input.
+2026-10-17T14:15:33Z,mcp-session-audit,0.1.0,ZidoCode,MIT,12008,"Audit a recorded MCP session for dangling tool calls, swallowed isError, and error-channel confusion. Zero dependencies."
