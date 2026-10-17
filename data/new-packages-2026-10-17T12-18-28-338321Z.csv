@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T11:17:16Z,mnimi-mcp,0.2.0,Iasonas Kokkalos <iasonaskokkalos@gmail.com>,Apache-2.0,39701,"A stdio MCP server over mnimi: remember, recall, context, export, consolidate; one SQLite file, no server process beyond this one."
+2026-10-17T11:23:15Z,otel-log-span-status,0.1.0,Nishant Jani <nishantjani10@gmail.com>,Apache-2.0,22444,"Mark the active OpenTelemetry span as ERROR when an error-level log is emitted, with a YAML ignore list."
+2026-10-17T11:23:17Z,mnimi-memory,3.1.1,Iasonas Kokkalos <iasonaskokkalos@gmail.com>,Apache-2.0,229910,"Embeddable, local-first agent memory. One SQLite file, zero infra."
+2026-10-17T11:23:39Z,yantraa-evidence,0.3.0,Yantraa Evidence contributors,Apache-2.0,98386,"Measure whether AI decisions can check less evidence, cost less, and stay correct. Pluggable domains, strategies and benchmarks."
+2026-10-17T11:24:03Z,kyvvu-langchain,0.1.0,"""Kyvvu B.V."" <info@kyvvu.com>","Copyright 2026 Kyvvu B.V. Licensed under the Apache License, Version 2.0 (the ""License""); you may n…",38254,Kyvvu callback handlers for LangChain and LangGraph
+2026-10-17T11:24:09Z,kyvvu-crewai,0.1.0,"""Kyvvu B.V."" <info@kyvvu.com>","Copyright 2026 Kyvvu B.V. Licensed under the Apache License, Version 2.0 (the ""License""); you may n…",49033,Kyvvu listener for CrewAI
+2026-10-17T11:28:09Z,mokosh,0.1.1,,,147869,"Gathers the dataset a code-search study starts from: the commits of a git repository and the tasks of its tracker (Jira, GitHub, GitLab, YouTrack) in one SQLite database. No GPU, no LLM."
+2026-10-17T11:28:52Z,catzprint,2.1.3,Catalizo <info@catalizo.com>,MIT,67476,Official Python SDK for the CatzPrint cloud printing API (sync and async).
+2026-10-17T11:29:18Z,termstyle-uz,0.2.0,xasanboy,MIT,15208,"Terminal uchun yengil rang berish, jadval, spinner va progress bar kutubxonasi"
+2026-10-17T11:30:05Z,toolpatch,2.0.0,Dave Holden,,35213,"LLM tool-calling protocol repairer (pure logic, offline-testable)"
+2026-10-17T11:31:54Z,gamayun-ontology,0.1.1,,,286582,"Task-to-code search over an ontology built WITHOUT an LLM from a task tracker and git history, or from a folder of documents and code: every triple is a significance test with its numbers attached."
+2026-10-17T11:33:18Z,kayan-aos,1.0.1,,,2373342,A provider-neutral intelligence kernel and project-brain runtime for software-engineering agents
+2026-10-17T11:34:15Z,heapwise,0.1.0,Thomas Chardonnens,Apache-2.0,52715951,"A Python memory profiler that tells you what is using your memory, and why it is still alive."
+2026-10-17T11:35:51Z,sigvu,0.1.0,Jeremy Trimble,specview: A SigMF file viewer and annotation editor. Copyright (C) 2026 Jeremy Trimble This program…,89237,SigMF File Viewer and Annotation Editor
+2026-10-17T11:35:57Z,tinkerfin-native-stream,0.1.1,,Apache-2.0,55511,Validated Deep Agents native stream contracts for TinkerFin.
+2026-10-17T11:36:27Z,bazis-front,0.1.0,Ilya Kharyn <ilya.tt07@gmail.com>,Apache-2.0,1279954,"Frontend layer of Bazis: the contract, the specs and the TypeScript code copied into the frontend of a product."
+2026-10-17T11:37:47Z,arc56-generated-algor-722d02c9,1.1.2026101711,algorandfoundation,,31445,Generated ARC-56 Algorand smart-contract clients for algorandfoundation/algosdk-future-ts.
+2026-10-17T11:37:48Z,authsms,1.0.0,AuthSMS,MIT,13256,"Official Python client for the AuthSMS API: virtual numbers, SMS verification codes, rentals and webhooks."
+2026-10-17T11:38:44Z,slack-remote,0.0.1b3648,Circles,,8755,PyPI slack-remote Python Package owned by Circlez.ai
+2026-10-17T11:38:52Z,arc56-generated-sambh-b2a60dc7,1.1.2026101612,sambhavverma2004,,71233,Generated ARC-56 Algorand smart-contract clients for sambhavverma2004/aircargo-provenance.
+2026-10-17T11:39:13Z,tinkerfin-sandbox,0.1.1,,Apache-2.0,418111,Sandbox integration package for TinkerFin.
+2026-10-17T11:39:57Z,arc56-generated-joe-p-cb0e46ad,1.1.2026101612,joe-p,,31460,Generated ARC-56 Algorand smart-contract clients for joe-p/algosdk-future-ts.
+2026-10-17T11:42:59Z,cc-continuity,0.1.0,,,453990,Zero-touch session rotation for Claude Code (local large-context model)
+2026-10-17T11:43:39Z,hadamask,0.1.0,Ionut Cernica,Apache-2.0,191624,Client-side protection for vector databases: keyed orthogonal transformation of embeddings and AES-GCM encryption of metadata.
+2026-10-17T11:43:45Z,tinkerfin-tracing,0.1.1,,Apache-2.0,426182,Semantic Runtime tracing with bounded memory and durable database persistence.
+2026-10-17T11:45:04Z,deploypod,0.1.0,Deploypod,MIT,50949,"Python client for the Deploypod API: run AI agents, manage their tools and knowledge bases."
+2026-10-17T11:45:40Z,hebog,0.22.0,Gemma Danks,BSD-3-Clause,887188,A scalable source finder for radio continuum images
+2026-10-17T11:46:08Z,arc56-generated-gabri-62c3cff0,1.2.2026072010,gabrielkuettel,,14960,Generated ARC-56 Algorand smart-contract clients for gabrielkuettel/delfi.
+2026-10-17T11:46:21Z,pdf-hidden-text-inspector,0.2.0,,MIT,27042,Local PDF hidden-text inspection with visual evidence
+2026-10-17T11:51:16Z,tinkerfin-messaging,0.1.1,,Apache-2.0,335297,Replayable messaging for TinkerFin Native and AG-UI streams.
+2026-10-17T11:56:38Z,prehnite,0.1.0a1,Studio Zettlerei,MIT,271087,"Local-first, quality-gated visual asset production with model-agnostic providers and MCP."
+2026-10-17T11:58:06Z,mcp-magento-audit,0.1.1,Michal Per,MIT,48424,"MCP server for auditing Magento projects: update compatibility, module quality, dependency security"
+2026-10-17T12:01:23Z,causalphylo,0.1.0,Kelyn Paul Njeri,LicenseRef-CausalPhylo-NonCommercial,31161,Pearl's backdoor criterion over knowledge graphs — separates edges that may carry a causal claim from those that only assert co-occurrence
+2026-10-17T12:04:10Z,higgsfield-mcp-unified,0.1.0,Hikhakk,MIT,85606,"Unified MCP server for Higgsfield AI: official api.higgsfield.ai API + opt-in cloud.higgsfield.ai web backend, exposing 119 image and video models."
+2026-10-17T12:07:33Z,holder-python,0.2.5,,GPL-3.0-only,510482,Control your knowledge using Python
+2026-10-17T12:07:59Z,whodoneit,2026.41.2,,,16039130,
+2026-10-17T12:08:50Z,port-detective,1.1.0,port-detective Maintainers,MIT,15668,"Lightweight Python SDK for port-detective: inspect ports, detect framework fingerprints, and clean project-scoped listeners."
+2026-10-17T12:09:34Z,Original-STT,0.1,Amaar Hussain,,3658,This is speech to text package created by Amaar
+2026-10-17T12:09:46Z,idslab,0.3.0,hashtagRR,AGPL-3.0-or-later,1229930,Evaluation framework for staged intrusion detection systems
+2026-10-17T12:12:14Z,channel-bot-cli-antigravity,0.1.0,Martin <qule520@126.com>,,260721,一个使用Antigravity SDK驱动的即时通讯平台AI助手机器人工具
+2026-10-17T12:12:18Z,tether-sdk,0.0.3,Igor Souza <igormcsouza@gmail.com>,MIT,208747,"General-purpose, headless-first LLM-Native micro-harness for small language models"
+2026-10-17T12:12:52Z,saxil-core,0.1.0,Pedram Niloofari,Apache-2.0,74115,SAXIL Core SDK — W2 encode/decode (Apache-2.0)
+2026-10-17T12:15:13Z,harfix,0.1.0,Ahmad Sebaq <ahmad.sebaq@gmail.com>,Apache-2.0,738634,"Quality gate for Arabic PDF text layers: detect garbled, reversed, or unmapped Arabic before it reaches your index."

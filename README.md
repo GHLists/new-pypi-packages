@@ -8,43 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 11:19 UTC
+## Latest list — 2026-10-17 12:18 UTC
 
-New packages created between 2026-10-17 10:18 UTC and 2026-10-17 11:19 UTC.
+New packages created between 2026-10-17 11:19 UTC and 2026-10-17 12:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-17T11-19-15-556983Z.csv)
+[Full CSV](data/new-packages-2026-10-17T12-18-28-338321Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-17 10:19:09 | [dingtalk-open-stream](https://pypi.org/project/dingtalk-open-stream/) | 0.1.3 |  | 32.2 kB | Async DingTalk Stream Mode client for Python 3.12 |
-| 2026-10-17 10:21:06 | [jbt-mcpcheck](https://pypi.org/project/jbt-mcpcheck/) | 0.1.0 | Suresh B <suresh@jarvisbitz.c… | 645.9 kB | Validate an MCP server's conformance to the MCP 2026-07-28 revision over Stream… |
-| 2026-10-17 10:21:39 | [cwi-langchain](https://pypi.org/project/cwi-langchain/) | 1.0.0 | Cumulative Web Inc <hp@cumula… | 7.5 kB | LangChain tools for the CWI Discovery Engine — music catalog search, track meta… |
-| 2026-10-17 10:22:06 | [streamform](https://pypi.org/project/streamform/) | 0.9.1 |  | 48.2 MB | Streaming SQL models, tested in a simulator and run on Apache Flink. |
-| 2026-10-17 10:23:28 | [avaril-cli](https://pypi.org/project/avaril-cli/) | 0.1.0 | Avaril | 212.7 kB | Command-line tool that checks your codebase against privacy constraints, verifi… |
-| 2026-10-17 10:27:01 | [gagaku-player](https://pypi.org/project/gagaku-player/) | 0.1.0 | ZiTengXiang | 175.9 kB | 雅楽の譜字をテキストで書くと、笙・篳篥・竜笛・琵琶・筝・鞨鼓・鉦鼓・太鼓の合奏として再生するデスクトップアプリ |
-| 2026-10-17 10:29:50 | [streamform-test](https://pypi.org/project/streamform-test/) | 0.1.0 |  | 40.4 kB | Write streaming tests in Python; run them in the free streamform binary. |
-| 2026-10-17 10:31:37 | [ptsip-engine-context](https://pypi.org/project/ptsip-engine-context/) | 0.2.1 |  | 4.1 MB | Independently versioned official PTSIP native engine |
-| 2026-10-17 10:31:40 | [ptsip-engine-discovery](https://pypi.org/project/ptsip-engine-discovery/) | 0.3.1 |  | 4.2 MB | Independently versioned official PTSIP native engine |
-| 2026-10-17 10:31:42 | [ptsip-engine-execution](https://pypi.org/project/ptsip-engine-execution/) | 0.3.1 |  | 4.3 MB | Independently versioned official PTSIP native engine |
-| 2026-10-17 10:31:45 | [ptsip-engine-planning](https://pypi.org/project/ptsip-engine-planning/) | 0.3.1 |  | 4.2 MB | Independently versioned official PTSIP native engine |
-| 2026-10-17 10:34:58 | [flone](https://pypi.org/project/flone/) | 0.0.1 | FLONE | 7.2 kB | Command-line tool that lets AI agents connect to a user's phone through FLONE (… |
-| 2026-10-17 10:35:52 | [acumulus-mcp](https://pypi.org/project/acumulus-mcp/) | 0.1.0 | Nick Aldewereld <nick@easeo.n… | 43.5 kB | MCP server for Acumulus — let Claude (Desktop, Code, Cursor) read and modify yo… |
-| 2026-10-17 10:36:25 | [kallfi-sdk](https://pypi.org/project/kallfi-sdk/) | 0.2.0 | Kallfi | 112.4 kB | Server-side Python SDK for the Kallfi API. |
-| 2026-10-17 10:40:28 | [leak-audit](https://pypi.org/project/leak-audit/) | 0.1.0 |  | 751.7 kB | Local-first AI agent that finds recurring charges, hidden fees and forgotten su… |
-| 2026-10-17 10:42:36 | [pyprobe-scan](https://pypi.org/project/pyprobe-scan/) | 0.1.0 | Ronak Pal | 21.8 kB | A Python network probing and asynchronous port scanning tool |
-| 2026-10-17 10:47:36 | [bitongue](https://pypi.org/project/bitongue/) | 0.1.0 | Ahsen17 <mesailedward@qq.com> | 330.7 kB | Bitongue - A message flowing noting library. |
-| 2026-10-17 10:48:04 | [scraperack](https://pypi.org/project/scraperack/) | 0.1.0a1 |  | 19.2 kB | Python SDK for self-hosted ScrapeRack clusters |
-| 2026-10-17 10:50:41 | [daftarche](https://pypi.org/project/daftarche/) | 0.3.0 | Vahid Anari <vahid.anari8@gma… | 931.8 kB | Daftarche: personal bookkeeping for bank transactions imported from QFX and Exc… |
-| 2026-10-17 10:51:34 | [peppier](https://pypi.org/project/peppier/) | 2026.41.1 |  | 29.5 kB | Python utilities including PEP-8 wrappers |
-| 2026-10-17 10:51:45 | [debatr](https://pypi.org/project/debatr/) | 0.1.0 | Khoren Markosyan | 88.5 kB | Run AI debates from your terminal and give AI agents a debate tool (MCP): the c… |
-| 2026-10-17 10:57:10 | [paperlab-space](https://pypi.org/project/paperlab-space/) | 0.1.1 | PaperLab.space contributors | 334.8 kB | Open-source engine for evaluating LLMs on spreadsheet data and producing paper-… |
-| 2026-10-17 10:57:11 | [fastpocketoption-api](https://pypi.org/project/fastpocketoption-api/) | 1.0.0 | Your Name <you@example.com> | 31.5 kB | Fast, reliable, from-scratch Pocket Option API client with real-time sentiment. |
-| 2026-10-17 10:57:32 | [preciso-graphrag](https://pypi.org/project/preciso-graphrag/) | 0.3.0rc1 |  | 231.9 kB | Local-first GraphRAG system exposed as an MCP server |
-| 2026-10-17 10:57:39 | [valk-db](https://pypi.org/project/valk-db/) | 0.1.1 | ValkPy <valk.py.dev@gmail.com> | 5.1 kB |  |
-| 2026-10-17 10:59:04 | [bytestruct](https://pypi.org/project/bytestruct/) | 0.1.0 | doronz88 <doron88@gmail.com> | 78.8 kB | Declarative binary records and composable codecs, using only the standard libra… |
-| 2026-10-17 11:03:18 | [zenmoney-python](https://pypi.org/project/zenmoney-python/) | 0.7.0 |  | 84.6 kB | Independent sync and async Python client for the public ZenMoney API |
-| 2026-10-17 11:04:52 | [jasd](https://pypi.org/project/jasd/) | 1.0.0 | Xlueisadev | 11.1 kB | Just Another Static Database - A human-readable, zero-ceremony data format for… |
-| 2026-10-17 11:06:14 | [jarvis-sec](https://pypi.org/project/jarvis-sec/) | 0.1.0 | skyfireitdiy | 234.8 kB | Jarvis Security Scanner: C/C++/Rust security audit tool with heuristic scan and… |
-| 2026-10-17 11:08:12 | [morx-gms2-mcp](https://pypi.org/project/morx-gms2-mcp/) | 0.4.0 | MKTLMORX | 189.6 kB | MORX GMS2 MCP: GameMaker authoring, isolated runs and runtime observation over… |
-| 2026-10-17 11:11:21 | [ridian-mailbox](https://pypi.org/project/ridian-mailbox/) | 0.1.0a3 | Ridian | 19.2 kB | Private Ridian mailbox access for Python agents and the command line |
-| 2026-10-17 11:17:59 | [vicare-local-ble](https://pypi.org/project/vicare-local-ble/) | 0.1.0 | jurgenj136 | 985.8 kB | Local Zigbee Direct (BLE) client for Viessmann ZK03840 radiator valves. |
+| 2026-10-17 11:17:16 | [mnimi-mcp](https://pypi.org/project/mnimi-mcp/) | 0.2.0 | Iasonas Kokkalos <iasonaskokk… | 39.7 kB | A stdio MCP server over mnimi: remember, recall, context, export, consolidate;… |
+| 2026-10-17 11:23:15 | [otel-log-span-status](https://pypi.org/project/otel-log-span-status/) | 0.1.0 | Nishant Jani <nishantjani10@g… | 22.4 kB | Mark the active OpenTelemetry span as ERROR when an error-level log is emitted,… |
+| 2026-10-17 11:23:17 | [mnimi-memory](https://pypi.org/project/mnimi-memory/) | 3.1.1 | Iasonas Kokkalos <iasonaskokk… | 229.9 kB | Embeddable, local-first agent memory. One SQLite file, zero infra. |
+| 2026-10-17 11:23:39 | [yantraa-evidence](https://pypi.org/project/yantraa-evidence/) | 0.3.0 | Yantraa Evidence contributors | 98.4 kB | Measure whether AI decisions can check less evidence, cost less, and stay corre… |
+| 2026-10-17 11:24:03 | [kyvvu-langchain](https://pypi.org/project/kyvvu-langchain/) | 0.1.0 | "Kyvvu B.V." <info@kyvvu.com> | 38.3 kB | Kyvvu callback handlers for LangChain and LangGraph |
+| 2026-10-17 11:24:09 | [kyvvu-crewai](https://pypi.org/project/kyvvu-crewai/) | 0.1.0 | "Kyvvu B.V." <info@kyvvu.com> | 49.0 kB | Kyvvu listener for CrewAI |
+| 2026-10-17 11:28:09 | [mokosh](https://pypi.org/project/mokosh/) | 0.1.1 |  | 147.9 kB | Gathers the dataset a code-search study starts from: the commits of a git repos… |
+| 2026-10-17 11:28:52 | [catzprint](https://pypi.org/project/catzprint/) | 2.1.3 | Catalizo <info@catalizo.com> | 67.5 kB | Official Python SDK for the CatzPrint cloud printing API (sync and async). |
+| 2026-10-17 11:29:18 | [termstyle-uz](https://pypi.org/project/termstyle-uz/) | 0.2.0 | xasanboy | 15.2 kB | Terminal uchun yengil rang berish, jadval, spinner va progress bar kutubxonasi |
+| 2026-10-17 11:30:05 | [toolpatch](https://pypi.org/project/toolpatch/) | 2.0.0 | Dave Holden | 35.2 kB | LLM tool-calling protocol repairer (pure logic, offline-testable) |
+| 2026-10-17 11:31:54 | [gamayun-ontology](https://pypi.org/project/gamayun-ontology/) | 0.1.1 |  | 286.6 kB | Task-to-code search over an ontology built WITHOUT an LLM from a task tracker a… |
+| 2026-10-17 11:33:18 | [kayan-aos](https://pypi.org/project/kayan-aos/) | 1.0.1 |  | 2.4 MB | A provider-neutral intelligence kernel and project-brain runtime for software-e… |
+| 2026-10-17 11:34:15 | [heapwise](https://pypi.org/project/heapwise/) | 0.1.0 | Thomas Chardonnens | 52.7 MB | A Python memory profiler that tells you what is using your memory, and why it i… |
+| 2026-10-17 11:35:51 | [sigvu](https://pypi.org/project/sigvu/) | 0.1.0 | Jeremy Trimble | 89.2 kB | SigMF File Viewer and Annotation Editor |
+| 2026-10-17 11:35:57 | [tinkerfin-native-stream](https://pypi.org/project/tinkerfin-native-stream/) | 0.1.1 |  | 55.5 kB | Validated Deep Agents native stream contracts for TinkerFin. |
+| 2026-10-17 11:36:27 | [bazis-front](https://pypi.org/project/bazis-front/) | 0.1.0 | Ilya Kharyn <ilya.tt07@gmail.… | 1.3 MB | Frontend layer of Bazis: the contract, the specs and the TypeScript code copied… |
+| 2026-10-17 11:37:47 | [arc56-generated-algor-722d02c9](https://pypi.org/project/arc56-generated-algor-722d02c9/) | 1.1.2026101711 | algorandfoundation | 31.4 kB | Generated ARC-56 Algorand smart-contract clients for algorandfoundation/algosdk… |
+| 2026-10-17 11:37:48 | [authsms](https://pypi.org/project/authsms/) | 1.0.0 | AuthSMS | 13.3 kB | Official Python client for the AuthSMS API: virtual numbers, SMS verification c… |
+| 2026-10-17 11:38:44 | [slack-remote](https://pypi.org/project/slack-remote/) | 0.0.1b3648 | Circles | 8.8 kB | PyPI slack-remote Python Package owned by Circlez.ai |
+| 2026-10-17 11:38:52 | [arc56-generated-sambh-b2a60dc7](https://pypi.org/project/arc56-generated-sambh-b2a60dc7/) | 1.1.2026101612 | sambhavverma2004 | 71.2 kB | Generated ARC-56 Algorand smart-contract clients for sambhavverma2004/aircargo-… |
+| 2026-10-17 11:39:13 | [tinkerfin-sandbox](https://pypi.org/project/tinkerfin-sandbox/) | 0.1.1 |  | 418.1 kB | Sandbox integration package for TinkerFin. |
+| 2026-10-17 11:39:57 | [arc56-generated-joe-p-cb0e46ad](https://pypi.org/project/arc56-generated-joe-p-cb0e46ad/) | 1.1.2026101612 | joe-p | 31.5 kB | Generated ARC-56 Algorand smart-contract clients for joe-p/algosdk-future-ts. |
+| 2026-10-17 11:42:59 | [cc-continuity](https://pypi.org/project/cc-continuity/) | 0.1.0 |  | 454.0 kB | Zero-touch session rotation for Claude Code (local large-context model) |
+| 2026-10-17 11:43:39 | [hadamask](https://pypi.org/project/hadamask/) | 0.1.0 | Ionut Cernica | 191.6 kB | Client-side protection for vector databases: keyed orthogonal transformation of… |
+| 2026-10-17 11:43:45 | [tinkerfin-tracing](https://pypi.org/project/tinkerfin-tracing/) | 0.1.1 |  | 426.2 kB | Semantic Runtime tracing with bounded memory and durable database persistence. |
+| 2026-10-17 11:45:04 | [deploypod](https://pypi.org/project/deploypod/) | 0.1.0 | Deploypod | 50.9 kB | Python client for the Deploypod API: run AI agents, manage their tools and know… |
+| 2026-10-17 11:45:40 | [hebog](https://pypi.org/project/hebog/) | 0.22.0 | Gemma Danks | 887.2 kB | A scalable source finder for radio continuum images |
+| 2026-10-17 11:46:08 | [arc56-generated-gabri-62c3cff0](https://pypi.org/project/arc56-generated-gabri-62c3cff0/) | 1.2.2026072010 | gabrielkuettel | 15.0 kB | Generated ARC-56 Algorand smart-contract clients for gabrielkuettel/delfi. |
+| 2026-10-17 11:46:21 | [pdf-hidden-text-inspector](https://pypi.org/project/pdf-hidden-text-inspector/) | 0.2.0 |  | 27.0 kB | Local PDF hidden-text inspection with visual evidence |
+| 2026-10-17 11:51:16 | [tinkerfin-messaging](https://pypi.org/project/tinkerfin-messaging/) | 0.1.1 |  | 335.3 kB | Replayable messaging for TinkerFin Native and AG-UI streams. |
+| 2026-10-17 11:56:38 | [prehnite](https://pypi.org/project/prehnite/) | 0.1.0a1 | Studio Zettlerei | 271.1 kB | Local-first, quality-gated visual asset production with model-agnostic provider… |
+| 2026-10-17 11:58:06 | [mcp-magento-audit](https://pypi.org/project/mcp-magento-audit/) | 0.1.1 | Michal Per | 48.4 kB | MCP server for auditing Magento projects: update compatibility, module quality,… |
+| 2026-10-17 12:01:23 | [causalphylo](https://pypi.org/project/causalphylo/) | 0.1.0 | Kelyn Paul Njeri | 31.2 kB | Pearl's backdoor criterion over knowledge graphs — separates edges that may car… |
+| 2026-10-17 12:04:10 | [higgsfield-mcp-unified](https://pypi.org/project/higgsfield-mcp-unified/) | 0.1.0 | Hikhakk | 85.6 kB | Unified MCP server for Higgsfield AI: official api.higgsfield.ai API + opt-in c… |
+| 2026-10-17 12:07:33 | [holder-python](https://pypi.org/project/holder-python/) | 0.2.5 |  | 510.5 kB | Control your knowledge using Python |
+| 2026-10-17 12:07:59 | [whodoneit](https://pypi.org/project/whodoneit/) | 2026.41.2 |  | 16.0 MB |  |
+| 2026-10-17 12:08:50 | [port-detective](https://pypi.org/project/port-detective/) | 1.1.0 | port-detective Maintainers | 15.7 kB | Lightweight Python SDK for port-detective: inspect ports, detect framework fing… |
+| 2026-10-17 12:09:34 | [Original-STT](https://pypi.org/project/Original-STT/) | 0.1 | Amaar Hussain | 3.7 kB | This is speech to text package created by Amaar |
+| 2026-10-17 12:09:46 | [idslab](https://pypi.org/project/idslab/) | 0.3.0 | hashtagRR | 1.2 MB | Evaluation framework for staged intrusion detection systems |
+| 2026-10-17 12:12:14 | [channel-bot-cli-antigravity](https://pypi.org/project/channel-bot-cli-antigravity/) | 0.1.0 | Martin <qule520@126.com> | 260.7 kB | 一个使用Antigravity SDK驱动的即时通讯平台AI助手机器人工具 |
+| 2026-10-17 12:12:18 | [tether-sdk](https://pypi.org/project/tether-sdk/) | 0.0.3 | Igor Souza <igormcsouza@gmail… | 208.7 kB | General-purpose, headless-first LLM-Native micro-harness for small language mod… |
+| 2026-10-17 12:12:52 | [saxil-core](https://pypi.org/project/saxil-core/) | 0.1.0 | Pedram Niloofari | 74.1 kB | SAXIL Core SDK — W2 encode/decode (Apache-2.0) |
+| 2026-10-17 12:15:13 | [harfix](https://pypi.org/project/harfix/) | 0.1.0 | Ahmad Sebaq <ahmad.sebaq@gmai… | 738.6 kB | Quality gate for Arabic PDF text layers: detect garbled, reversed, or unmapped… |
