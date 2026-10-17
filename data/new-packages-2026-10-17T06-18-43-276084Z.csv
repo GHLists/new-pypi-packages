@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T05:25:13Z,flattype,1.11.0,karammm,MIT,47980,JSON <-> Flat Notation: compact key: value text for APIs and LLM prompts. The Python side of @flattype/* on npm.
+2026-10-17T05:26:44Z,endstation,0.2.0,Jake McCoy,BSD-3-Clause,121088,"Shared scaffolding for desktop scientific applications: optional-dependency guards, cancellable workers, Qt/matplotlib panes, and macOS app bundling"
+2026-10-17T05:29:58Z,sustech-survival,2026.10.17,dumixthestpd <dumixthestpd@hotmail.com>,PolyForm-Noncommercial-1.0.0,1661768,"sustech_survival is a Python module that allows API-level SUSTech service calls. It satisfies everyday needs of SUSTech students including BB, TIS, library, PMS, and more."
+2026-10-17T05:30:47Z,tractum,0.5.0,Jordan Newell,BUSL-1.1,2088375,Verifiable multi-agent consensus for Claude. A coordination layer built around signed agreement.
+2026-10-17T05:30:53Z,omnimux,0.1.0,,,641039,"Local intelligent LLM multiplexer, proxy, and router"
+2026-10-17T05:30:57Z,nuvec,0.0.1,hupe1980,MIT OR Apache-2.0,3009,"Placeholder for Python bindings to nuvec, a pure-Rust array framework for Apple Silicon in the spirit of MLX."
+2026-10-17T05:31:27Z,chrome-downloader-client,0.3.0,article4 research-verify,,348081,让 Chrome 替你下载：本机 Bridge + 扩展搬运字节的零依赖客户端（Bridge/CLI/MCP 都不碰文件字节）
+2026-10-17T05:31:36Z,franco,0.5.0,Gortex <hello@gortex.ai>,MIT,1141808,Autonomous AI sales agent. Always Be Closing.
+2026-10-17T05:37:48Z,ai-computer-brain,0.1.1,AI Computer Brain contributors,MIT,515102,"Self-hosted, multi-tenant MCP second brain that keeps every AI agent in a company in sync"
+2026-10-17T05:38:08Z,mcp-server-sofabaton,0.2.0,Nicholas E. Andrade,MIT,183294,"MCP server for Sofabaton universal remote hubs: an X2 over its own MQTT link, or any model via sofabaton-x-server"
+2026-10-17T05:38:40Z,contract-assay,0.1.3,Boik Su <boik.su@cycraft.com>,MIT,923447,"Benchmark infrastructure for LLM smart contract auditing: verified findings, deterministic evidence, attributable scoring."
+2026-10-17T05:39:58Z,GLPwnIou,1.0.0,Raphael LACROIX - Fenrisk <contact@fenrisk.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",67976,Rogue Man-in-The-Middle GLPI server used to obtain RCE on managed devices. For AUTHORIZED USE only
+2026-10-17T05:41:30Z,octpo,0.1.0,Aadil Fazal,"MIT License Copyright (c) 2026 Aadil Fazal Permission is hereby granted, free of charge, to any per…",19029,Official Python client for the Octpo hosted model API
+2026-10-17T05:42:20Z,synodcode,0.0.1,,,1927,SynodCode: 3-Model Adversarial AI Software Engineering Engine
+2026-10-17T05:43:12Z,enigmata-sentinel-tenancy,0.0.0a0,"Enigmata, Inc.",,923,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-17T05:44:07Z,govm,0.1.0,arief minardi,GPL-3.0-or-later,43546,Go version manager - install and switch between multiple Go versions
+2026-10-17T05:44:14Z,enigmata-sentinel-testkit,0.0.0a0,"Enigmata, Inc.",,922,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-17T05:44:15Z,enigmata-sentinel-wire-observer,0.0.0a0,"Enigmata, Inc.",,929,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-17T05:44:17Z,enigmata,0.0.0a0,"Enigmata, Inc.",,900,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-10-17T05:47:11Z,pathapi-httpx,0.1.0,Jose A,MIT,41110,"The httpx HTTP transports for pathapi: a synchronous one and a native async one, with HTTP/2, your own httpx client and its mounts"
+2026-10-17T05:49:56Z,devdoctor-cli,0.1.0,Souran Jash,MIT,99687,Deterministic developer machine and project diagnostic doctor.
+2026-10-17T05:50:25Z,globalproof-ai,0.2.3,Mandla Lucky <mandlalucky99@gmail.com>,Apache-2.0,27329,Local-first AI training data compliance scanner
+2026-10-17T05:52:05Z,metamuse-cli,0.1.0a1,,Apache-2.0,5203846,Turn comments and transcripts into checkable drafts with source citations
+2026-10-17T05:53:11Z,jobsearch-pipeline,1.0.0,Socraticblock,MIT,340976,"Local-first job-search assistant: a sieve, not a robot."
+2026-10-17T05:55:30Z,voting-age-validator-yash-ghatkopar,0.1.0,Yourname Sir,MIT,5805013,Check minimum voting age by country
+2026-10-17T06:01:52Z,kerneltests,0.0.1,Ankith Burki,MIT,42080,"Unified, tested implementations of modern kernel hypothesis tests (MMDAgg, ...)"
+2026-10-17T06:03:13Z,a11yhat,0.1.0,Vincent Gonzalez,MIT,38149,"a11yhat: a WCAG 2.2 accessibility machine, structured by POUR — four crew leads, every success criterion a recorded check. A hardHats crew."
+2026-10-17T06:04:39Z,align-agent,0.4.4,,"MIT License Copyright (c) 2026 The ALIGN authors Permission is hereby granted, free of charge, to a…",912812,"Find edits a coding agent made against a stale view of a file, and keep agents' views current with a write-through hook (Claude Code, any hook system, any MCP client, mini-swe-agent)"
+2026-10-17T06:06:50Z,llama-index-readers-datasinking,0.1.1,heubme2020,MIT,9238,LlamaIndex reader for DataSinking — full-text financial reports as documents
+2026-10-17T06:06:59Z,mazip,0.1.4,,,28401,Interactive local network information and verified SSH connections
+2026-10-17T06:13:24Z,hardhats,0.1.0,Vincent Gonzalez,MIT,17288,"hardHats: a framework for crews of agents, each wearing a hat — an LLM instruction or a deterministic gate — run across a federation of free model backends."
+2026-10-17T06:13:35Z,tkblend,0.4.0b1,Mateus GP,MIT,84254767,High-performance Blend2D vector graphics engine and UI widgets for Tkinter via zero-copy blitting
+2026-10-17T06:15:00Z,triton-utlx-rocm,3.8.0.post1,,MIT,780530,uTLX: Triton Language Extensions distributed as a Plugin
+2026-10-17T06:15:12Z,ag-cli-py,0.7.4,,MulanPSL-2.0 AND Apache-2.0 AND BSD-3-Clause AND BSD-1-Clause AND MIT AND SunPro AND LicenseRef-Go-…,36736250,Unofficial PyPI distribution of the original AtomGit CLI binaries
+2026-10-17T06:16:17Z,hk-ipo-fee-mcp,0.1.0,Tiezheng Zhang <ztz1024666@gmail.com>,MIT,45135,"MCP server for exact Hong Kong IPO costs: entry fee, margin interest, break-even, scenarios, selling costs + open (CC0) HK listing lookups"
+2026-10-17T06:17:11Z,chipflow,1.1.1,Shreenidhi V,Apache-2.0,200415,Local RTL-to-GDS workflow manager with terminal and browser dashboards
+2026-10-17T06:18:12Z,label-image-mcp,0.1.0,Sachin Kale,MIT,219095,MCP server and LangGraph agent for the Image Label annotation app (labels.sachin-kale.com)
