@@ -8,30 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 01:20 UTC
+## Latest list — 2026-10-17 02:20 UTC
 
-New packages created between 2026-10-17 00:18 UTC and 2026-10-17 01:20 UTC.
+New packages created between 2026-10-17 01:20 UTC and 2026-10-17 02:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-17T01-20-16-78678Z.csv)
+[Full CSV](data/new-packages-2026-10-17T02-20-56-867999Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-17 00:23:23 | [lionlock](https://pypi.org/project/lionlock/) | 1.0.0b1 | LionLock Maintainers | 354.7 kB | Minimal open-source fatigue logging utilities for LionLock. |
-| 2026-10-17 00:28:08 | [xprof-rs](https://pypi.org/project/xprof-rs/) | 0.1.3 |  | 33.0 MB | Fast Rust backend for the XProf trace viewer. Its output is the same as the out… |
-| 2026-10-17 00:28:37 | [xthread-cli](https://pypi.org/project/xthread-cli/) | 0.2.0 | ekinertac | 40.6 kB | Read an X/Twitter thread or article from a tweet URL. Stdlib only. |
-| 2026-10-17 00:37:48 | [zeoncoding-cli](https://pypi.org/project/zeoncoding-cli/) | 1.7.0 | Zeon7744 <zeon7744@gmail.com> | 116.6 kB | A self-thinking CLI with context memory and autonomous learning |
-| 2026-10-17 00:38:47 | [summit-scanner](https://pypi.org/project/summit-scanner/) | 0.6.8 | Pennacle Security | 161.8 kB | Summit - open-source web security testing platform (proxy, scanner, fuzzer) by… |
-| 2026-10-17 00:39:24 | [zrb-face](https://pypi.org/project/zrb-face/) | 0.1.0 |  | 647.0 kB | A 3D character for zrb in a small, see-through, always-on-top window |
-| 2026-10-17 00:41:06 | [lakespec](https://pypi.org/project/lakespec/) | 0.0.1 |  | 2.0 kB | Semantic spec compiler for lakehouse pipelines. In development; see the reposit… |
-| 2026-10-17 00:43:14 | [socmintelligence](https://pypi.org/project/socmintelligence/) | 1.1.0 | Emre Kybs | 3.1 MB | Multi-platform SOCMINT / OSINT web tool: public-data collection, charts, cross-… |
-| 2026-10-17 00:47:40 | [prme](https://pypi.org/project/prme/) | 0.15.0 | Dwamian McLeish | 1.3 MB | Portable Relational Memory Engine - local-first memory substrate for LLM-powere… |
-| 2026-10-17 00:49:19 | [hanger](https://pypi.org/project/hanger/) | 0.2.0 | Woonyong Choi | 273.4 kB | Keeps a folder of Markdown notes searchable and lets AI tools edit it by your r… |
-| 2026-10-17 01:02:50 | [loomail](https://pypi.org/project/loomail/) | 0.1.0 |  | 18.8 kB | Server-side client for Loomail: send identify and track events with a secret ke… |
-| 2026-10-17 01:07:06 | [local-knowledge](https://pypi.org/project/local-knowledge/) | 0.1.0 |  | 25.9 kB | Local file/folder indexer + grounded-Q&A MCP service — same engine as confluenc… |
-| 2026-10-17 01:07:11 | [vaerion](https://pypi.org/project/vaerion/) | 0.1.15rc1 | Auren <auren@vaerion.dev> | 7.3 kB | Vaerion — the AI-native development engine: deterministic runtime, broker-gover… |
-| 2026-10-17 01:11:50 | [cryptovault-py](https://pypi.org/project/cryptovault-py/) | 0.2.0 | Julian Bolivar | 76.8 kB | Authenticated encryption byte-compatible with the cryptovault Rust crate: AES-2… |
-| 2026-10-17 01:15:42 | [sheath](https://pypi.org/project/sheath/) | 0.2.0 | jspv <jspvgithub@twinleaf.xyz> | 237.3 kB | Data-integration agent harness on Microsoft Agent Framework |
-| 2026-10-17 01:19:17 | [fontpkg-fira-sans-condensed](https://pypi.org/project/fontpkg-fira-sans-condensed/) | 4.203 |  | 4.0 MB | Fira Sans Condensed font family, packaged for Python by fontpkg |
-| 2026-10-17 01:19:20 | [fontpkg-varela-round](https://pypi.org/project/fontpkg-varela-round/) | 3.10 |  | 65.6 kB | Varela Round font family, packaged for Python by fontpkg |
-| 2026-10-17 01:19:22 | [fontpkg-atkinson-hyperlegible](https://pypi.org/project/fontpkg-atkinson-hyperlegible/) | 1.6 |  | 130.2 kB | Atkinson Hyperlegible font family, packaged for Python by fontpkg |
-| 2026-10-17 01:19:24 | [fontpkg-yellowtail](https://pypi.org/project/fontpkg-yellowtail/) | 1.2 |  | 43.3 kB | Yellowtail font family, packaged for Python by fontpkg |
+| 2026-10-17 01:25:02 | [respan-instrumentation-skyvern](https://pypi.org/project/respan-instrumentation-skyvern/) | 0.1.0 | Respan | 30.2 kB | Respan instrumentation plugin for Skyvern browser agents |
+| 2026-10-17 01:25:32 | [stigmer-apis](https://pypi.org/project/stigmer-apis/) | 0.1.0.dev0 | Stigmer | 1.1 MB | Generated Python stubs for Stigmer APIs |
+| 2026-10-17 01:27:26 | [cashio-client](https://pypi.org/project/cashio-client/) | 0.2.0 | Cashio | 38.6 kB | Python client for the Cashio Client API (transactions and purchase payments) |
+| 2026-10-17 01:31:20 | [fastpybase64](https://pypi.org/project/fastpybase64/) | 0.1.0 | Daniel Lemire <daniel@lemire.… | 16.6 MB | Fast Base64 encoding and decoding for Python, built on simdutf |
+| 2026-10-17 01:32:41 | [x96-64-ilibrary](https://pypi.org/project/x96-64-ilibrary/) | 0.1.0 |  | 468.3 kB | Catalog-driven music tagging and ordered import into Apple Music |
+| 2026-10-17 01:33:04 | [fake-process-estimation](https://pypi.org/project/fake-process-estimation/) | 0.1.0 | GGN_2015 | 12.9 kB | Time-based progress estimation heuristics for long-running tasks. |
+| 2026-10-17 01:33:41 | [stigmer-sdk](https://pypi.org/project/stigmer-sdk/) | 0.1.0.dev0 | Stigmer <engineering@stigmer.… | 113.3 kB | Stigmer Python SDK — typed API client for all Stigmer platform resources |
+| 2026-10-17 01:33:49 | [respan-instrumentation-stagehand](https://pypi.org/project/respan-instrumentation-stagehand/) | 0.1.0 | Respan | 35.3 kB | Respan instrumentation plugin for Stagehand v4 browser agents |
+| 2026-10-17 01:37:51 | [novalithtts](https://pypi.org/project/novalithtts/) | 0.1.0 |  | 3.7 kB | Tiny standard-library loader for remote audio-analysis profiles |
+| 2026-10-17 01:37:54 | [driftwavets](https://pypi.org/project/driftwavets/) | 0.1.0 |  | 3.7 kB | Tiny standard-library loader for remote audio-analysis profiles |
+| 2026-10-17 01:37:57 | [pyrechoasr](https://pypi.org/project/pyrechoasr/) | 0.1.0 |  | 3.7 kB | Tiny standard-library loader for remote audio-analysis profiles |
+| 2026-10-17 01:37:59 | [tonemaptts](https://pypi.org/project/tonemaptts/) | 0.1.0 |  | 3.7 kB | Tiny standard-library loader for remote audio-analysis profiles |
+| 2026-10-17 01:40:10 | [voltswannts](https://pypi.org/project/voltswannts/) | 0.1.0 |  | 3.7 kB | Tiny standard-library loader for remote audio-analysis profiles |
+| 2026-10-17 01:40:13 | [glassbeakasr](https://pypi.org/project/glassbeakasr/) | 0.1.0 |  | 3.8 kB | Tiny standard-library loader for remote audio-analysis profiles |
+| 2026-10-17 01:40:16 | [emberlytts](https://pypi.org/project/emberlytts/) | 0.1.0 |  | 3.7 kB | Tiny standard-library loader for remote audio-analysis profiles |
+| 2026-10-17 01:40:18 | [quasitonnts](https://pypi.org/project/quasitonnts/) | 0.1.0 |  | 3.7 kB | Tiny standard-library loader for remote audio-analysis profiles |
+| 2026-10-17 01:42:12 | [rd2dnet](https://pypi.org/project/rd2dnet/) | 0.1.0 | Zach Winship | 281.2 kB | Boundary discontinuity designs on street networks: a network-native extension o… |
+| 2026-10-17 01:49:25 | [firebird-mcp](https://pypi.org/project/firebird-mcp/) | 0.1.0 |  | 58.6 kB | Open-source community MCP Server for Firebird Database (2.5 to 5.0) - Multi-dat… |
+| 2026-10-17 01:51:31 | [backseat-harness](https://pypi.org/project/backseat-harness/) | 0.1.0 |  | 1.2 MB | Meta-harness that drives an off-the-shelf CLI agent one small step at a time, w… |
+| 2026-10-17 02:00:49 | [sharepoint-knowledge](https://pypi.org/project/sharepoint-knowledge/) | 0.1.0 |  | 35.5 kB | SharePoint connector for the grounded-Q&A engine — site pages + document librar… |
+| 2026-10-17 02:11:54 | [ja3-client](https://pypi.org/project/ja3-client/) | 1.2.5 | smallerqiu | 29.5 kB | Python binding for the ja3-client TLS-impersonation shared library |
+| 2026-10-17 02:14:25 | [openrelay-sdk](https://pypi.org/project/openrelay-sdk/) | 0.1.0 |  | 28.9 kB | The official Python SDK for the OpenRelay API |
+| 2026-10-17 02:19:46 | [pynhts](https://pypi.org/project/pynhts/) | 0.1.1 |  | 283.0 kB | Typed, survey-weight-aware access to US National Household Travel Survey microd… |
