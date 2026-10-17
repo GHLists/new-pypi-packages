@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T02:20:43Z,datalake-medallion-sdk,0.1.0,Igor Ramirez Almanza,MIT OR Apache-2.0,37065330,"Contract-enforced Bronze-layer ingestion for medallion data lakes: JSON Schema validation, PII pseudonymization, dead-letter quarantine and Hive-partitioned Parquet on S3"
+2026-10-17T02:21:11Z,metisprism,0.0.2,MetisAI Labs,Apache-2.0,4437,MetisPrism setup helper: shows how to install MetisPrism tools from your account and checks your local Python and GPU setup.
+2026-10-17T02:21:13Z,metisprism-sdk,0.0.2,MetisAI Labs,Apache-2.0,4220,MetisPrism setup helper: shows how to install MetisPrism tools from your account and checks your local Python and GPU setup.
+2026-10-17T02:21:15Z,LunaEquivariance,0.1.0,HPC-AI-Team,BSD-3-Clause,6826872,High-performance SO(3)-equivariant operators for graph neural networks.
+2026-10-17T02:21:16Z,metisprism-cli,0.0.2,MetisAI Labs,Apache-2.0,4222,MetisPrism setup helper: shows how to install MetisPrism tools from your account and checks your local Python and GPU setup.
+2026-10-17T02:21:18Z,metisprism-contracts,0.0.2,MetisAI Labs,Apache-2.0,4296,MetisPrism setup helper: shows how to install MetisPrism tools from your account and checks your local Python and GPU setup.
+2026-10-17T02:22:40Z,tmaudit,0.5.0,Liu Zewen <aidless@example.com>,MIT,185521,Config-driven TMLR paper audit + LaTeX compile pipeline
+2026-10-17T02:32:57Z,kervo-mcp,0.1.0,,,20225,MCP server for the Kervo public API (stdio).
+2026-10-17T02:35:33Z,applepodbar,0.1.0,Christopher Patti,MIT,69532,A command-line TUI podcast player for Apple Podcasts
+2026-10-17T02:39:20Z,rdp-pipe,0.1.1,,,161929,PyQt6 desktop RDP client with seamless resize (MS-RDPEDISP)
+2026-10-17T02:40:08Z,harness-lock,0.1.2,Niels Bantilan <niels.bantilan@gmail.com>,Apache-2.0,5086602,Lock your agent into place — tune your agent stack and pin it (Rust core + Python bindings).
+2026-10-17T02:40:51Z,gmatpy,0.2.0,,,391827673,Standalone Python access to the GMAT astrodynamics engine
+2026-10-17T02:48:59Z,sengol-verify,2.1.0,Sengol,Apache-2.0,145729,"Standalone, offline verifier for sengol signed evidence bundles"
+2026-10-17T02:50:15Z,yardage-hub,0.1.1,lukhed,,15405,Python client for the yardage-hub golf course API
+2026-10-17T02:50:51Z,pverbs,0.1.0,Patrick Beam,MIT,6571,"Explicit, named constraints for more verifiable agent-written code"
+2026-10-17T02:51:48Z,mcp-chinese-counter,0.1.0,,,4262,MCP 服务：统计一段话里的中文字数（不含标点、空格、英文字母、数字）
+2026-10-17T02:54:43Z,rekursiv-ai-typings,2026.10.17.2,"""rekursiv.ai"" <hello@rekursiv.ai>",Apache-2.0,7072904,"Hand-written type stubs for third-party libraries, for basedpyright and ty."
+2026-10-17T02:54:45Z,rekursiv-ai-typeshed,2026.10.17.2,rekursiv.ai,Apache-2.0,11159,"typeshed for basedpyright and ty with int/float ** returning float, not Any."
+2026-10-17T02:55:41Z,ifx-core,0.1.0,IFX Contributors,MPL-2.0,7143262,"IFC extraction and geometry for Rust, Python, and WebAssembly"
+2026-10-17T02:59:03Z,fiscallm,0.1.0,,MIT,16015,Track AI cost per user against subscription revenue. Zero-dependency SDK for your backend.
+2026-10-17T02:59:44Z,renoise-kit,0.5.0,,MIT,250830,"rn: frame-exact probing, contact sheets, EDL assembly, finishing and QA for AI video edits"
+2026-10-17T03:00:10Z,spatial-extremes,0.1.1,Andy Yuan,MIT,186908,Tools for simulating and fitting max-stable spatial extreme-value models
+2026-10-17T03:00:35Z,kumo-glove-6b-50d,1.0.0,"""Kumo.AI"" <hello@kumo.ai>",Apache-2.0 AND PDDL-1.0,76067791,GloVe 6B 50d word vectors in Kumo's embedding-model format
+2026-10-17T03:04:41Z,hardcharger,0.0.1,GizmoData LLC,Apache-2.0,20938,"Hardcharger, the analytics server from GizmoData (coming soon)"
+2026-10-17T03:05:07Z,gvu,0.3.0,Giovanni Gravili,MIT,70109,Python automation for GaussView 6 on macOS
+2026-10-17T03:06:22Z,clear-dsp,0.1.0,Andrew Wilwerding,MIT,9328,A lightweight JAX-optimized package of pure functions for digital signal processing
+2026-10-17T03:07:05Z,browserfish,0.0.1,,MIT,2169,"Make browser agents cheaper and faster every time they run, on any browser. Coming soon."
+2026-10-17T03:07:22Z,vpn-tool-cli,1.0.0,getyu565-cyber <your-email@example.com>,MIT,13349,VPN Gateway Manager CLI
+2026-10-17T03:11:12Z,smart-kh-ocr,0.1.0,,MIT,169156618,SmartKhOCR: High-Accuracy Vision OCR and Language Engine for Khmer Documents
+2026-10-17T03:15:00Z,hlock,0.1.2,Niels Bantilan <niels.bantilan@gmail.com>,Apache-2.0,13079,Short name for harness-lock: lock your agent into place.
+2026-10-17T03:15:14Z,icu-leakage-check,0.1.0,Krutarth Patel,MIT,172867,"Detect, explain and quantify data leakage in clinical prediction pipelines built on electronic health records, with schema-aware support for MIMIC-IV and eICU-CRD."
