@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T16:21:59Z,sihi-mem,0.0.1,YugmaF <fyugma@gmail.com>,Apache-2.0,10436,Code-aware memory for coding agents
+2026-10-17T16:25:07Z,reflexr,0.1.0,Alex Nodeland,MIT,317625,"Rules over event streams that run LLM workflows: pydantic-ai agents, pydantic-graph graphs and functions."
+2026-10-17T16:25:08Z,pyTooling.Sphinx,0.1.0rc2,Patrick Lehmann,Apache-2.0,390403,"More Sphinx roles, directives and domains."
+2026-10-17T16:29:01Z,agent-box-tool,1.0.1,,MIT,1357107,Run coding agents in rootless Podman workspace boxes
+2026-10-17T16:31:43Z,overwatcher-ai,0.1.0,Fahad Bin Nasir <fahad@fahadbinnasir.tech>,MIT,24831,Hierarchical Multi-Agent Supervisor & Adversarial Red-Team Cross-Examiner
+2026-10-17T16:35:07Z,moonlighting,0.1.0,junjunni,MIT,142456,"Invisible hands for your AI agent: a real Chrome on a hidden desktop, ref-based control, credentials that never reach the model."
+2026-10-17T16:35:26Z,code-jig,0.12.0,,Apache-2.0,126252,Personal harness core for Codex and Claude Code
+2026-10-17T16:36:19Z,fsspec-lamindb,0.1.0,Andreas Poehlmann <andreas@poehlmann.io>,MIT,89666,Read-only fsspec filesystem for LaminDB instances: lamin://<owner>/<instance>/... URIs resolved through the LaminHub REST API.
+2026-10-17T16:37:07Z,apphelm,0.5.0,SansaVision <support@sansavision.com>,LicenseRef-Proprietary,22900,"Official Python server SDK for Apphelm: events, identify, fail-closed feature flags, errors and tracing."
+2026-10-17T16:38:42Z,pando-vcs,3.3.0,,Apache-2.0,66425,"Python client for Pando, source control for monorepos at agent scale"
+2026-10-17T16:43:15Z,PythonAutomataLibrary,1.0.0,,Apache-2.0,2396301,
+2026-10-17T16:44:49Z,oncotracer,2.1.0,OncoTracer developers,MIT,1962308,"Native, auditable LP-WGS CNA analysis for Illumina and Oxford Nanopore data"
+2026-10-17T16:46:09Z,portalr,0.1.0,Alex Nodeland,MIT AND OFL-1.1 AND Apache-2.0 AND ISC AND BSD-2-Clause AND BSD-3-Clause AND 0BSD,2962927,"The portal into an application built on lattice: an app UI to chat with its agents and see their work, and an admin UI to manage access and see feedback, evaluations, usage and spend."
+2026-10-17T16:47:46Z,binade,0.1.0,Guy Shafir,Apache-2.0,184651,"Lossless compression of BF16 LLM weights whose outputs stay bit-identical to the original, for MLX on Apple Silicon and NVIDIA GPUs"
+2026-10-17T16:48:01Z,glovebox-hosts,0.4.0,AlexanderMattTurner,Apache-2.0,25101,The one hostname spelling and host-matching rules every glovebox component applies
+2026-10-17T16:48:40Z,valiantflow,0.0.1,ValiantFlow Team,MIT,495958,Developer-first Python Workflow Automation & Orchestration Platform
+2026-10-17T16:49:02Z,sigpyproc,2.0.0,"Pravir Kumar, Ewan Barr",MIT,464930,Python FRB/pulsar data toolbox
+2026-10-17T16:50:37Z,time-assurance-doc-scanner,0.6.0rc4,Y2038.com LLC,Apache-2.0,356771,AI-assisted scanner that supports long-horizon time assurance by identifying potential issues in standards and technical documentation.
+2026-10-17T16:51:27Z,tabloom,0.0.0,Michal Szczygiel,Apache-2.0,15464,"A Python library for visually appealing tables, charts, and reports with minimal configuration."
+2026-10-17T16:52:45Z,qrisp-cudaq,0.1.0,The Qrisp authors,EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0,169442,CUDA-Q backend for Eclipse Qrisp
+2026-10-17T16:54:02Z,seahaven-stripe-world,0.3.0,,MIT,2483081,"StripeAPI: a Seahaven world — a faithful, stateful replica of Stripe's Billing and Payments core. Not affiliated with Stripe."
+2026-10-17T16:55:18Z,noio,0.1,,MIT,25655,Experimental coroutine libraries for ordinary-function applications
+2026-10-17T16:57:32Z,flowstack-connector,0.0.1,ATTMOS Discovery <madu@attmosdiscovery.com>,,3146,Placeholder reserving the flowstack-connector name for the ATTMOS FlowStack connector library: not published here — use the ATTMOS index.
+2026-10-17T16:58:48Z,shirabe-profiling,0.1.0,shuretokki,Apache-2.0 AND OFL-1.1-RFN AND OFL-1.1-no-RFN AND ISC AND MIT,859765,High-performance Polars data profiling with web reports and quality warnings.
+2026-10-17T16:58:55Z,relayr-ai,0.1.0,Alex Nodeland,MIT,108870,"The bridge between artifactr and reflexr: events from chats and artifacts become events for rules, and runs act back in the chat as proposals and notices."
+2026-10-17T16:59:21Z,kivy-screenshot-generator,1.0.0,Viachaslau Lyskouski,"MIT License Copyright (c) 2026 Viachaslau Lyskouski Permission is hereby granted, free of charge, t…",32304,Generate screenshots for a Kivy application across different screens and languages.
+2026-10-17T17:01:25Z,Custom-message-box,1.0.0,Xibuoya Buoya,,8854,Custom Message Box is an easy-to-use library for creating dialog boxes
+2026-10-17T17:01:27Z,factorion-server,0.7.0,,MIT,1183257,Model server for the Factorion Factorio mod: designs factories around your sources and sinks.
+2026-10-17T17:01:38Z,web2md-client,0.1.0,Kanav Singla,MIT,352282,"Python client for the Web2MD API: web pages to clean Markdown and heading-aware RAG chunks, with LangChain and LlamaIndex loaders."
+2026-10-17T17:01:54Z,BWM,1.0.0,,,6476,کتابخانه دریافت اطلاعات آب‌وهوا به زبان فارسی
+2026-10-17T17:02:45Z,quality-loop,0.1.0,craftware,MIT,95413,"Measure what an agent-facing product teaches: isolated agent runs of real tasks, reported by an operator agent"
+2026-10-17T17:09:55Z,pysnape,0.1.0,Sutanu Bhowmick <sutanu@sutanubhowmick.com>,Apache-2.0,179467,SimultaNeous basis function Approximation and Parameter Estimation for ODE/PDE models
+2026-10-17T17:10:04Z,expose-synq,0.1.0,,GPL-3.0-or-later,180233,"Expose a local workspace (files, sandboxed exec) to remote agents over SpiriSynq"
+2026-10-17T17:11:09Z,llm-assayer-eval,0.1.0,,MIT,162946,Evaluate and observe LLM-powered applications with deterministic metrics and LLM-as-Judge.
+2026-10-17T17:11:26Z,pytest-databricks-lakeflow,0.1.0,Steven Ayers <steven@ayers.io>,,100502,Run Lakeflow Jobs from a Databricks Asset Bundle as throwaway jobs inside pytest tests.
+2026-10-17T17:14:20Z,iqobi,0.0.1,,,1982,Name reserved by iqobi. The iqobi CLI ships on npm (npx iqobi) and Homebrew (brew install iqobi/tap/iqobi).
+2026-10-17T17:15:35Z,leadgen-mcp,0.1.1,Adrian Oaida,MIT,58847,"Open-source local MCP server for Leadgen: Romanian company data (ONRC, ANAF, financial statements) through Leadgen's public REST API."
+2026-10-17T17:15:55Z,caen-romania,1.0.0,Adrian Oaida,MIT AND CC-BY-4.0 AND LicenseRef-OGL-ROU-1.0,128936,Romanian CAEN Rev.2 <-> Rev.3 crosswalk (official INS table) with Romanian and English titles. Zero dependencies.
+2026-10-17T17:16:07Z,cui-ro,1.0.0,Adrian Oaida,MIT,15693,"Romanian CUI / CIF validation with the official control digit: is_valid, normalize, check_digit, format_vat. Zero dependencies."
+2026-10-17T17:17:30Z,numeric-claim,0.1.0,Abhigyan Rathi,MIT,136466,Tie numbers published in documents to values computed from a project's own code.
+2026-10-17T17:17:39Z,harbor-glovebox,0.1.0,AlexanderMattTurner,Apache-2.0,30853,"Run a Harbor trial in a hypervisor-isolated, egress-filtered glovebox microVM"
