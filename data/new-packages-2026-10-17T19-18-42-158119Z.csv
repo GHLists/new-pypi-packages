@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T18:18:28Z,sitsolar-dongle,0.1.0,sitsolar-dongle-reader contributors,GPL-3.0-or-later,87478,Read-only Modbus polling client for the SiNeng / FuturaPulse WiFi dongle (TCP port 7078)
+2026-10-17T18:18:33Z,dokk,0.0.1,,,1955,Tiny docs generator
+2026-10-17T18:23:30Z,doxysip,0.1,"""C. Savergne"" <csavergne@yahoo.com>",BSD-3-Clause,43047,A Sphinx extension for semi-automatic class documentation from SIP bindings and Doxygen
+2026-10-17T18:28:38Z,pysetup-ai,0.1.2,Imaaann,MIT,8678,Add your description here
+2026-10-17T18:30:14Z,unofficial-api-for-tnaflix,1.0,Johannes Habel,AGPL-3.0-only,54286,An asynchronous Python API Wrapper and Scraper for tnaflix.com
+2026-10-17T18:30:29Z,unofficial-api-for-empflix,1.0,Johannes Habel,AGPL-3.0-only,53298,An asynchronous Python API Wrapper and Scraper for empflix.com
+2026-10-17T18:35:18Z,geniekit,0.0.1,Muntaser Syed <jemsbhai@gmail.com>,MIT,815787,"Harmonise the AACR Project GENIE BPC cohorts, compute lines of therapy, and run aggregate-only analyses."
+2026-10-17T18:36:32Z,osp-provider-sdk,0.1.0,OSP Team,MIT,48516,"Optional declaration, planning and progress helpers for OSP providers."
+2026-10-17T18:36:38Z,openpx-sdk,0.0.1,OpenPX <packages@openpx.com>,MIT,27560,OpenPX SDK (early release): the OpenPX schema for describing products once and publishing them to every channel.
+2026-10-17T18:36:40Z,openpx-cli,0.0.1,OpenPX <packages@openpx.com>,MIT,8185,OpenPX command line (early release).
+2026-10-17T18:37:26Z,navax,1.0.0,navax contributors,MIT,17980,Python-native messaging client with an embedded runtime
+2026-10-17T18:38:02Z,aisot,0.1.0,,Apache-2.0,12042,"Publisher SDK for aisourceoftruth.com, the public record of the AI agent economy."
+2026-10-17T18:44:19Z,hatcheck,0.1.0,Yi Wang,MIT,253991,"Claude Code and Codex accounts on one computer, each kept apart: recent sessions, plan usage, resume commands and moves across all of them."
+2026-10-17T18:46:52Z,visru,0.0.1,,MIT,167190,"Agentic harness giving a vision-language model tools to search, zoom, measure, annotate, and verify over images and video"
+2026-10-17T18:48:27Z,decisions-reranker,0.2.0,Malte Weber,MIT,8329,"A simple reranker for RAG systems, built on the OpenAI Decisions API. Requires an OpenAI API key."
+2026-10-17T18:49:50Z,mipy-impute,2.1.0,"Atanu Bhattacharjee, Gajendra K. Vishwakarma, Tanmoy Majumdar",MIT,578071,MIPY: missing-data imputation and benchmarking in Python for high-dimensional longitudinal data
+2026-10-17T18:52:54Z,fidmeter,0.1.0,,Apache-2.0,2852866,Information fidelity measurement: how much a stored fact can still be trusted
+2026-10-17T18:53:56Z,py2apk,0.3.0,TwoPlasmaStudios,LicenseRef-Proprietary,35654,"Turn a Python script into an Android APK with a GUI - no Docker, no compiling on your machine"
+2026-10-17T18:53:59Z,loams,0.1.0a2,Ostrium Labs,Apache-2.0,353758,"The Loams SDK for Python: one Loams object with namespaced modules over the unified Connect API, generated from proto/."
+2026-10-17T18:54:16Z,spotifysaverdn,0.7.5.post1,Gabriel Baute,MIT,388102,Download audio and video from YouTube Music to your media server.
+2026-10-17T18:55:21Z,livery-extensions-lfs,0.0.0,Willem Kokke,MIT,10158,"Git LFS for the livery workshop: the git-lfs tool locked, its hooks installed by every sync, and the LFS objects fetched by the rendered CI checkout."
+2026-10-17T18:55:50Z,skillproof,0.1.0,Akhil Garg,MIT,409190,pytest for agent skills: prove your skill actually works.
+2026-10-17T18:56:38Z,arabic-layout-fixer,0.5.1,Abdulrahman Elassal,MIT,78920,Fix text typed on the wrong keyboard layout (Arabic <-> English) with one hotkey.
+2026-10-17T18:57:42Z,abq2ccx,1.2.0,Sander van den Broek,MIT,811317,Convert Abaqus .inp decks to CalculiX (ccx) decks
+2026-10-17T18:58:34Z,telegram-cli-local,0.1.0,BYxarek,Apache-2.0,81409,Telegram CLI for a personal account
+2026-10-17T19:01:16Z,prettycsharp,1.0.0,William Smith Edward,MIT,234084,"An opinionated formatter for C#, in the spirit of Prettier"
+2026-10-17T19:02:34Z,uma-finetune-wrapper,0.1.0.dev2,Timmo-hendrik Pukk,MIT,34044,A simple Python interface for UMA dataset preparation and fine-tuning with FAIRChem.
+2026-10-17T19:03:23Z,langchain-acedatacloud,0.1.0rc1,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,9737,Ace Data Cloud chat model and shared LangChain service runtime
+2026-10-17T19:03:24Z,langchain-gpt-image-acedatacloud,0.1.0rc1,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,5189,GPT Image by Ace Data Cloud LangChain toolkit
+2026-10-17T19:03:25Z,langchain-happyhorse-acedatacloud,0.1.0rc1,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,5216,HappyHorse by Ace Data Cloud LangChain toolkit
+2026-10-17T19:03:27Z,langchain-nano-banana-acedatacloud,0.1.0rc1,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,5223,Nano Banana by Ace Data Cloud LangChain toolkit
+2026-10-17T19:06:02Z,ownerloom,0.0.1,Astrivant LLC,Apache-2.0,27863,Compile readable CODEOWNERS policies without changing ownership precedence
+2026-10-17T19:07:40Z,x-nava,1.0.0,x_nava contributors,MIT,19705,Python-native messaging client with an embedded runtime
+2026-10-17T19:08:52Z,senpy-linter,0.1.0,Your Name,,41889,Fast semantic linter for Ren'Py
+2026-10-17T19:10:16Z,earthsciencekit,0.2.0,Charles Poli <cpoli374@gmail.com>,MIT,234593,Inspectable Earth-system models for learning and teaching.
+2026-10-17T19:10:46Z,vulnlens,0.3.0,Harish Akshay H,MIT,919721,"Security scanner that sorts code, dependency and secret findings into Act now / Review / Context, using CISA KEV, EPSS and CVSS."
+2026-10-17T19:14:16Z,unienv-tianji,0.0.1a1,,Apache-2.0,343338,
+2026-10-17T19:14:18Z,unienv-input-devices,0.0.1a1,,Apache-2.0,67377,
+2026-10-17T19:14:19Z,unienv-wuji,0.0.1a1,,Apache-2.0,38884,
+2026-10-17T19:15:41Z,line-markdown-parser,0.1.2,line-markdown-parser contributors,MIT,46612,Convert LLM Markdown into readable LINE Flex Messages without runtime dependencies.
