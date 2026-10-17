@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T12:19:51Z,psimager,0.1,Florent Mertens,GPL-3.0-or-later,48896,"Fast dirty imaging of measurement sets for power spectrum analyses, with the ducc0 w-gridder and WSClean's options"
+2026-10-17T12:21:22Z,lumni-sdk,0.3.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",17854,Python client for the Lumni coordination protocol
+2026-10-17T12:21:49Z,a2a-doctor,0.2.0,ZidoCode,MIT,68324,"One command, every A2A audit - replay recorded streams offline and health-check agent-to-agent traffic: token tax, artifact loss, task lifecycle, context correlation, webhook SSRF, MCP collisions."
+2026-10-17T12:24:21Z,trivikrama,0.1.0,Vadhyar Sai Charan,Apache-2.0,26966,Run full-size transformer encoders on microcontrollers by streaming weights from an SD card.
+2026-10-17T12:28:34Z,hittekaart-py,0.2.1,Daniel Schadt <fietsboek@kingdread.de>,,4725370,
+2026-10-17T12:28:44Z,action0-pipeline,0.1.0,Simon Lachinger,MIT,91197,asyncio pipelines with per-step parallelism for blocking-IO workloads
+2026-10-17T12:29:25Z,mdgraph-ai,0.1.0,MdGraph Contributors <info@mdgraph.dev>,Apache-2.0,102147,A vectorless Open Knowledge Format (OKF) context engine for agentic AI
+2026-10-17T12:30:16Z,dossier-bench,0.2.0,Kallam,Apache-2.0,10964511,Quality / latency / cost benchmark for AI systems that ingest and answer questions over case files
+2026-10-17T12:32:02Z,lattice-core-ai,0.1.0,Alex Nodeland,MIT,44773,What lattice's packages share and must keep identical.
+2026-10-17T12:33:48Z,dreamgate,0.3.0,Rudolph van Rensburg,MIT,29189,Thermodynamic signal intelligence — detect when a signal has genuinely changed state
+2026-10-17T12:34:12Z,seamc-xmath,0.0.1.1,SeaMc <sauthm_2015@qq.com>,,2437,Extended math utilities for Python
+2026-10-17T12:34:34Z,wb-work-todo-query-mcp,1.0.2,,,34386,企业待办与审批查询 MCP 连接器（work-todo-query）：只读查询钉钉企业内部应用的待办、审批、日程与云盘文件
+2026-10-17T12:36:00Z,aimarket-oracle-ablation,0.1.0,,,36132,Ablation — systemic cascade-risk oracle (abelian sandpile / self-organized criticality) on oracle-core
+2026-10-17T12:36:15Z,lattice-vdb,0.2.0,,Apache-2.0,1257279,"Disk-resident vector index: Vamana graph, SQ8 codes, zero-copy mmap storage"
+2026-10-17T12:38:46Z,sereno-sdk,0.1.0,,MIT,67190,Official Python SDK for Sereno: sends logs and exceptions to your Sereno projects.
+2026-10-17T12:39:01Z,kalopa,0.2.3,Kalopa Robotics <dtynan@kalopa.com>,Apache-2.0,45313,Kalopa Robotics payload interface and command module simulator
+2026-10-17T12:41:30Z,aiomatrix,0.2.0,ElectoroneXSS,"MIT License Copyright (c) 2026 ElectoroneXSS Permission is hereby granted, free of charge, to any p…",30500,Fast async Python client and polling framework for Telegram-like Bot APIs
+2026-10-17T12:44:54Z,assayed,0.0.1,Everyday AI Ltd <mblake@everydayai.link>,MIT,6549,Wilson score confidence intervals for measured success rates. Dependency-free.
+2026-10-17T12:49:12Z,django-rust-templates,0.1.0,Mason Lyons <admin@masonlyons.net>,BSD-3-Clause,19646266,A drop-in Django template engine implemented natively in Rust
+2026-10-17T12:50:15Z,pycheck-neuron,1.0.1,NEURON Team,MIT,61077,"32-rule static AST analyzer catching temporal lookahead bias, causal confusion, and uncertainty bugs in Python ML code. Zero dependencies."
+2026-10-17T12:50:56Z,taxvett,0.1.0,TaxVett,MIT,10745,Official TaxVett API client for Python
+2026-10-17T12:51:43Z,MiniBpeRust,0.1.0,Abhinav <abhinav33303@gmail.com>,MIT,18325293,"minbpe's byte-level BPE tokenizers, with training and encoding in Rust"
+2026-10-17T12:52:31Z,pazair,0.2.0,Kula Labs <hallo@kulalabs.ch>,MIT,23626,"PazAIr for Python agents (CrewAI, LangGraph, anything): search the agent marketplace, buy, get the result, check the receipt."
+2026-10-17T12:54:12Z,jsbox,0.1.0,BMSuisse <dominik.peter@bmsuisse.ch>,MIT,5461223,"Embedded JavaScript for Python, powered by QuickJS (rquickjs) and Rust."
+2026-10-17T12:56:03Z,strhide,0.1.0,mcxiaoke <mcxiaoke@live.com>,Apache-2.0,131734,"Smart format-preserving lossless data hiding library and CLI (PNG/JPEG/MP4/ZIP/PDF/PE carriers, AES-256-GCM, stealth mode)"
+2026-10-17T12:56:42Z,langchain-liquidvision,0.1.0,,MIT,13453,"LangChain tools for LiquidVision.app crypto derivatives data: open interest, funding and liquidations on 13 venues, liquidation cascades, positioning regime, measured Hyperliquid liquidation maps, fu…"
+2026-10-17T12:57:09Z,crewai-liquidvision,0.1.0,,MIT,13821,"CrewAI tools for LiquidVision.app crypto derivatives data: open interest, funding and liquidations on 13 venues, liquidation cascades, positioning regime, measured Hyperliquid liquidation maps, fundi…"
+2026-10-17T12:57:53Z,agreelogic,0.0.1,Sajid Siraj <info@agreelogic.com>,,2750,"AgreeLogic: helping groups weigh options and reach decisions they can explain and repeat. Name reserved, in development."
+2026-10-17T12:59:50Z,trading-matrix-dashboard,1.0.0,Your Name <your.email@example.com>,MIT,12818,An algorithmic crypto & commodities auto-execution Streamlit dashboard.
+2026-10-17T13:00:58Z,imagescv,0.1.0,images.cv,MIT,20290,Download labeled image datasets in one line of Python.
+2026-10-17T13:01:50Z,sci-solver,0.1.0,Jan Kamm,Apache-2.0,1053279,Sequential Contact Insertion for continuous-time robot fleet planning.
+2026-10-17T13:06:25Z,call4agents,0.1.0,Salah Eddine Makboul,Apache-2.0,95797,"Once-only actions, approvals bound to exact arguments, and record/replay for Python AI agents"
+2026-10-17T13:09:27Z,guard-cli,0.1.0rc1,,,62354,Graph-powered safety layer for AI coding agents built on FalkorDB
+2026-10-17T13:14:53Z,anontestlab,0.5.1,,GPL-3.0-or-later,375431,A simulation and experimentation framework for evaluating anonymous communication network designs
+2026-10-17T13:14:56Z,ids2eval,0.2.2,,AGPL-3.0-only,395395,Config-driven data-quality-audit and benchmarking toolkit for NIDS datasets
+2026-10-17T13:16:56Z,reverse-lookup,1.0.0,Matias David Szlajen <matiasszlajen@tutamail.com>,MIT,7677,Implementation of reversed lookup allowing classes to decide when to allow control to its subclasses
+2026-10-17T13:19:01Z,karaoky,0.0.0,,,1826,
