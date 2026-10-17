@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T13:54:19Z,srrt,0.1.1,,MIT,24725,Recolor a person image toward a reference skin colour inside a mask.
+2026-10-17T14:21:22Z,acbr-python,0.1.0a3,,LGPL-2.1-or-later,168754,Cliente Python independente de framework para o runtime ACBr NF-e/NFC-e
+2026-10-17T14:22:47Z,ghostkey-core,1.0.0,,,14847,Decentralized Zero-Knowledge Hardware-Bound Biometric Identity Protocol
+2026-10-17T14:22:55Z,django-templatetag-renderer,0.1.0,mandalay-rp,MIT,21643,"Динамический рендерер для получения html-кода, возвращаемого шаблонными тегами Django (templatetags)."
+2026-10-17T14:27:53Z,mcp-schema-audit,0.1.0,ZidoCode,MIT,11999,Audit recorded MCP listings for wire shapes that make clients silently reject tools. Zero dependencies.
+2026-10-17T14:28:58Z,local-agent-bus,0.1.0,agent-bus maintainers,Apache-2.0,209748,"Local-first message bus that lets multiple interactive AI coding agents on one machine discover each other, talk in rooms, and run a human-in-the-loop-by-default task flow — pure stdlib, zero runtime…"
+2026-10-17T14:32:31Z,swarm-sdk,0.1.1,Blackscale Technologies,Apache-2.0,212994,Swarm Python SDK for agent and operator integrations.
+2026-10-17T14:33:43Z,ufedmm,0.4.0,Charlles Abreu <craabreu@gmail.com>,MIT,133938,Unified Free Energy Dynamics with OpenMM
+2026-10-17T14:34:22Z,novilabs-event-horizon,0.dev0,Novi Labs <devops@novilabs.com>,,829,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-17T14:34:24Z,novilabs-free-lunch,0.dev0,Novi Labs <devops@novilabs.com>,,828,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-17T14:34:25Z,novilabs-noviquery,0.dev0,Novi Labs <devops@novilabs.com>,,826,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-17T14:34:26Z,novilabs-pmi-lab,0.dev0,Novi Labs <devops@novilabs.com>,,822,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-17T14:36:22Z,PyWKSpectra,1.0,Alejandro Jaramillo-Moreno <ajaramillo@atmosfera.unam.mx>,GPL-3.0-only,75713,Wheeler-Kiladis Space-Time Spectral Analysis in Python
+2026-10-17T14:38:07Z,syncdot,1.0.0,Ariel Shatil,MIT,117047,"Bidirectional dotfiles sync with git, profiles, and templating"
+2026-10-17T14:41:54Z,mcpmedic,0.1.0,ZidoCode,MIT,26470,"One command, every MCP audit - session hygiene, wire shapes, name collisions. Zero dependencies."
+2026-10-17T14:43:19Z,mappe,1.0.0,,,13060,Full-reference mesh quality assessment using point cloud and projection features.
+2026-10-17T14:43:20Z,lanternfish,0.3.0,,MIT,87944,"Lanternfish SDK: trace AI agent runs, decisions and releases with OpenTelemetry."
+2026-10-17T14:44:01Z,jupyterlab-asyntai-ai-assistant,1.0.0,Asyntai <hello@asyntai.com>,MIT,188985,Ask your Asyntai knowledge base from a JupyterLab side panel.
+2026-10-17T14:45:33Z,cloudxpl-forge,3.0.0,André Henrique <henrique.santos@uniaogeek.com.br>,MIT,460432,"CloudXPL-Forge (CXF) — Cloud security assessment framework. 296 modules across 17 categories: AWS, Azure, GCP, OCI, Alibaba, Tencent, IBM, DigitalOcean, OVHcloud, Hetzner, Kubernetes, serverless, sto…"
+2026-10-17T14:45:37Z,adxpl-forge,2.0.0,André Henrique <henrique.santos@uniaogeek.com.br>,MIT,346538,"ADXPL-Forge (AXF) — Active Directory attack and audit framework with 219 modules across 25 categories. Enumeration, Kerberos, ADCS, lateral movement, credential theft, coercion, relay, ACL abuse, tru…"
+2026-10-17T14:46:24Z,geo-location-bd,0.1.0,Pickatoz,MIT,6231,"Bangladesh geo-location data package with division, district and thana lookup"
+2026-10-17T14:48:47Z,linkbudget-rf,0.1.0,Chris Hall <chris93hall@gmail.com>,MIT,116485,A small Python library for building RF/communications link budgets
+2026-10-17T14:54:19Z,ankitpdf,1.0,,,27513,
+2026-10-17T14:57:02Z,deepseek-scout-mcp,0.1.1,weigu77 <3444567034@qq.com>,,79608,FastMCP server wrapping DeepSeek's Search and Fetch APIs
+2026-10-17T14:58:45Z,janus-requests,0.2.0,Mignon Rex,MIT AND Apache-2.0,9515018,HTTP client with an exactly specified TLS ClientHello and HTTP/2 fingerprint
+2026-10-17T15:00:35Z,arcsort,0.1.0,Girish Kumar Adari <girish@athlitix.com>,Apache-2.0,181491,ARC-SORT: uncertainty-adaptive multi-object tracking for fast motion under moving cameras
+2026-10-17T15:01:29Z,synomosai-governance-mcp,1.2.0,SynomosAI <contact@synomos.ai>,MIT,14831,"SynomosAI Governance MCP — AI governance assessment tools for AI agents (A³ scorecard, ISO 42001 evidence chain, compliance checklist, passport lookup, PII scan, LGD knowledge). Pure stdlib, zero dep…"
+2026-10-17T15:01:31Z,cardine,0.0.1,Biagio Liberto,MIT,4688,Delivery discipline for AI coding agents. Placeholder release; Cardine is in development.
+2026-10-17T15:01:31Z,voidcaptcha,0.1.0,VoidCaptcha <support@voidcaptcha.com>,MIT,29272,"Official Python client for the VoidCaptcha CAPTCHA solving API: Turnstile, reCAPTCHA, Cloudflare Clearance, AWS WAF, DataDome and more."
+2026-10-17T15:04:18Z,astracompass,0.1.0,Irena Popova,MIT,7886,"A modular framework for evaluating, training, and improving large language models."
+2026-10-17T15:06:26Z,khipu-python-sdk,0.3.3,Yasel Couce,MIT,195097,"Community-maintained, unofficial Python SDK for the Khipu Instant Payments (v3) and Automatic Payments (v1) APIs"
+2026-10-17T15:06:29Z,amplabs-playground,1.2.0,AmpLabs.ai Inc,,31931354,"AmpLabs Playground and BatteryLab SDK — simulate, parameterize, and validate battery cells"
+2026-10-17T15:09:50Z,vishap-analyzer,6.2.0,"""David (dvddv9)"" <hndav9@yahoo.com>",AGPL-3.0-or-later,306955,"Vishap - multi-material IT analyst (code, config, spec, logs, data). 6-stage LLM pipeline with SAST/SCA, SARIF 2.1.0, OWASP Top 10, audit trail (SHA-256), provenance, exploitability."
+2026-10-17T15:09:56Z,pytes-thermal,0.1.0a1,,BSD-3-Clause,386852,"Models and tools for heat batteries (thermal energy storage), built on PyBaMM"
+2026-10-17T15:11:08Z,xyz17711,0.1.0,,MIT,19235,"Core HTTP client (transport, auth, x402 payment, standardized error envelope) for the 17711.xyz microservice fleet."
+2026-10-17T15:11:18Z,taktwerk,0.6.0,,MIT OR Apache-2.0,14467,"Read taktwerk run records and campaigns into arrays and data frames, and start runs"
+2026-10-17T15:11:18Z,xyz17711-ping,0.1.0,,MIT,8546,Generated typed client for the ping-service 17711.xyz microservice.
+2026-10-17T15:11:28Z,xyz17711-proxy-pool,0.1.0,,MIT,8908,Generated typed client for the proxy-pool 17711.xyz microservice.
+2026-10-17T15:11:38Z,xyz17711-web-scraper,0.1.0,,MIT,11818,Generated typed client for the web-scraper 17711.xyz microservice.
+2026-10-17T15:11:39Z,jvmind-mat-mcp,0.1.0,JVMind,,354989,Local MCP server for Eclipse MAT heapdump analysis
+2026-10-17T15:11:52Z,rustinpy,0.1.0,Mirahmad,MIT,552005,"ICPC / CSES algorithms cheat sheet: self-contained, tested, copy-paste ready Python implementations"
+2026-10-17T15:13:31Z,parsatabchi,1.9.54,MohammadAhmadiRad <mohammadahmadirad69@gmail.com>,MIT,222787,Remote client framework for Telegram automation using Pyrogram
+2026-10-17T15:19:24Z,croatian-stemmer,0.1.0,Bruno Rahle,LGPL-3.0-or-later,171760,Croatian language stemmer based on the Ljubešić-Pandžić algorithm
