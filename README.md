@@ -8,42 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 03:20 UTC
+## Latest list — 2026-10-17 04:18 UTC
 
-New packages created between 2026-10-17 02:20 UTC and 2026-10-17 03:20 UTC.
+New packages created between 2026-10-17 03:20 UTC and 2026-10-17 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-17T03-20-06-516481Z.csv)
+[Full CSV](data/new-packages-2026-10-17T04-18-28-530705Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-17 02:20:43 | [datalake-medallion-sdk](https://pypi.org/project/datalake-medallion-sdk/) | 0.1.0 | Igor Ramirez Almanza | 37.1 MB | Contract-enforced Bronze-layer ingestion for medallion data lakes: JSON Schema… |
-| 2026-10-17 02:21:11 | [metisprism](https://pypi.org/project/metisprism/) | 0.0.2 | MetisAI Labs | 4.4 kB | MetisPrism setup helper: shows how to install MetisPrism tools from your accoun… |
-| 2026-10-17 02:21:13 | [metisprism-sdk](https://pypi.org/project/metisprism-sdk/) | 0.0.2 | MetisAI Labs | 4.2 kB | MetisPrism setup helper: shows how to install MetisPrism tools from your accoun… |
-| 2026-10-17 02:21:15 | [LunaEquivariance](https://pypi.org/project/LunaEquivariance/) | 0.1.0 | HPC-AI-Team | 6.8 MB | High-performance SO(3)-equivariant operators for graph neural networks. |
-| 2026-10-17 02:21:16 | [metisprism-cli](https://pypi.org/project/metisprism-cli/) | 0.0.2 | MetisAI Labs | 4.2 kB | MetisPrism setup helper: shows how to install MetisPrism tools from your accoun… |
-| 2026-10-17 02:21:18 | [metisprism-contracts](https://pypi.org/project/metisprism-contracts/) | 0.0.2 | MetisAI Labs | 4.3 kB | MetisPrism setup helper: shows how to install MetisPrism tools from your accoun… |
-| 2026-10-17 02:22:40 | [tmaudit](https://pypi.org/project/tmaudit/) | 0.5.0 | Liu Zewen <aidless@example.co… | 185.5 kB | Config-driven TMLR paper audit + LaTeX compile pipeline |
-| 2026-10-17 02:32:57 | [kervo-mcp](https://pypi.org/project/kervo-mcp/) | 0.1.0 |  | 20.2 kB | MCP server for the Kervo public API (stdio). |
-| 2026-10-17 02:35:33 | [applepodbar](https://pypi.org/project/applepodbar/) | 0.1.0 | Christopher Patti | 69.5 kB | A command-line TUI podcast player for Apple Podcasts |
-| 2026-10-17 02:39:20 | [rdp-pipe](https://pypi.org/project/rdp-pipe/) | 0.1.1 |  | 161.9 kB | PyQt6 desktop RDP client with seamless resize (MS-RDPEDISP) |
-| 2026-10-17 02:40:08 | [harness-lock](https://pypi.org/project/harness-lock/) | 0.1.2 | Niels Bantilan <niels.bantila… | 5.1 MB | Lock your agent into place — tune your agent stack and pin it (Rust core + Pyth… |
-| 2026-10-17 02:40:51 | [gmatpy](https://pypi.org/project/gmatpy/) | 0.2.0 |  | 391.8 MB | Standalone Python access to the GMAT astrodynamics engine |
-| 2026-10-17 02:48:59 | [sengol-verify](https://pypi.org/project/sengol-verify/) | 2.1.0 | Sengol | 145.7 kB | Standalone, offline verifier for sengol signed evidence bundles |
-| 2026-10-17 02:50:15 | [yardage-hub](https://pypi.org/project/yardage-hub/) | 0.1.1 | lukhed | 15.4 kB | Python client for the yardage-hub golf course API |
-| 2026-10-17 02:50:51 | [pverbs](https://pypi.org/project/pverbs/) | 0.1.0 | Patrick Beam | 6.6 kB | Explicit, named constraints for more verifiable agent-written code |
-| 2026-10-17 02:51:48 | [mcp-chinese-counter](https://pypi.org/project/mcp-chinese-counter/) | 0.1.0 |  | 4.3 kB | MCP 服务：统计一段话里的中文字数（不含标点、空格、英文字母、数字） |
-| 2026-10-17 02:54:43 | [rekursiv-ai-typings](https://pypi.org/project/rekursiv-ai-typings/) | 2026.10.17.2 | "rekursiv.ai" <hello@rekursiv… | 7.1 MB | Hand-written type stubs for third-party libraries, for basedpyright and ty. |
-| 2026-10-17 02:54:45 | [rekursiv-ai-typeshed](https://pypi.org/project/rekursiv-ai-typeshed/) | 2026.10.17.2 | rekursiv.ai | 11.2 kB | typeshed for basedpyright and ty with int/float ** returning float, not Any. |
-| 2026-10-17 02:55:41 | [ifx-core](https://pypi.org/project/ifx-core/) | 0.1.0 | IFX Contributors | 7.1 MB | IFC extraction and geometry for Rust, Python, and WebAssembly |
-| 2026-10-17 02:59:03 | [fiscallm](https://pypi.org/project/fiscallm/) | 0.1.0 |  | 16.0 kB | Track AI cost per user against subscription revenue. Zero-dependency SDK for yo… |
-| 2026-10-17 02:59:44 | [renoise-kit](https://pypi.org/project/renoise-kit/) | 0.5.0 |  | 250.8 kB | rn: frame-exact probing, contact sheets, EDL assembly, finishing and QA for AI… |
-| 2026-10-17 03:00:10 | [spatial-extremes](https://pypi.org/project/spatial-extremes/) | 0.1.1 | Andy Yuan | 186.9 kB | Tools for simulating and fitting max-stable spatial extreme-value models |
-| 2026-10-17 03:00:35 | [kumo-glove-6b-50d](https://pypi.org/project/kumo-glove-6b-50d/) | 1.0.0 | "Kumo.AI" <hello@kumo.ai> | 76.1 MB | GloVe 6B 50d word vectors in Kumo's embedding-model format |
-| 2026-10-17 03:04:41 | [hardcharger](https://pypi.org/project/hardcharger/) | 0.0.1 | GizmoData LLC | 20.9 kB | Hardcharger, the analytics server from GizmoData (coming soon) |
-| 2026-10-17 03:05:07 | [gvu](https://pypi.org/project/gvu/) | 0.3.0 | Giovanni Gravili | 70.1 kB | Python automation for GaussView 6 on macOS |
-| 2026-10-17 03:06:22 | [clear-dsp](https://pypi.org/project/clear-dsp/) | 0.1.0 | Andrew Wilwerding | 9.3 kB | A lightweight JAX-optimized package of pure functions for digital signal proces… |
-| 2026-10-17 03:07:05 | [browserfish](https://pypi.org/project/browserfish/) | 0.0.1 |  | 2.2 kB | Make browser agents cheaper and faster every time they run, on any browser. Com… |
-| 2026-10-17 03:07:22 | [vpn-tool-cli](https://pypi.org/project/vpn-tool-cli/) | 1.0.0 | getyu565-cyber <your-email@ex… | 13.3 kB | VPN Gateway Manager CLI |
-| 2026-10-17 03:11:12 | [smart-kh-ocr](https://pypi.org/project/smart-kh-ocr/) | 0.1.0 |  | 169.2 MB | SmartKhOCR: High-Accuracy Vision OCR and Language Engine for Khmer Documents |
-| 2026-10-17 03:15:00 | [hlock](https://pypi.org/project/hlock/) | 0.1.2 | Niels Bantilan <niels.bantila… | 13.1 kB | Short name for harness-lock: lock your agent into place. |
-| 2026-10-17 03:15:14 | [icu-leakage-check](https://pypi.org/project/icu-leakage-check/) | 0.1.0 | Krutarth Patel | 172.9 kB | Detect, explain and quantify data leakage in clinical prediction pipelines buil… |
+| 2026-10-17 03:20:15 | [SiChuan-pinyin](https://pypi.org/project/SiChuan-pinyin/) | 1.0.0 | SiChuan-pinyin contributors | 257.2 kB | 汉字 -> 四川话拼音(蜀拼)转换: 三档口音(老派通音/成都/重庆), 声调 1-5 或装饰音 |
+| 2026-10-17 03:25:01 | [odoo-addon-l10n-py-maquila-mrp](https://pypi.org/project/odoo-addon-l10n-py-maquila-mrp/) | 19.0.1.0.0.4 | KMEE, Odoo Community Associat… | 45.0 kB | BOM coefficients, VAN calculation, and waste management for Maquila |
+| 2026-10-17 03:26:42 | [linode-oauth-mcp-server](https://pypi.org/project/linode-oauth-mcp-server/) | 0.1.1 | Marques Johansson | 89.9 kB | Linode API v4 MCP server with per-tool OAuth scopes and in-client sign-in |
+| 2026-10-17 03:27:32 | [banto](https://pypi.org/project/banto/) | 5.2.2 | AllNew LLC | 513.5 kB | Local-first secret management with optional budget gating and dynamic leases |
+| 2026-10-17 03:27:56 | [evidence-gate-evaluator](https://pypi.org/project/evidence-gate-evaluator/) | 0.0.1 | 合同会社AllNew | 4.2 kB | Name reserved by AllNew LLC for Evidence Gate. Not for use; see https://github.… |
+| 2026-10-17 03:34:16 | [fectp](https://pypi.org/project/fectp/) | 0.2.1 |  | 763.4 kB | FECTP from Python: the sans-IO encrypted session layer, over its C ABI. Not sec… |
+| 2026-10-17 03:36:15 | [sinatra-dev](https://pypi.org/project/sinatra-dev/) | 0.1.0 | Sinatra <contact@sinatra.dev> | 85.1 kB | Python client for the Sinatra API: start, follow and stop Sinatra tasks, and de… |
+| 2026-10-17 03:39:11 | [legendkeeper-mcp](https://pypi.org/project/legendkeeper-mcp/) | 0.1.2 | Chase Roohms <chaseroohms@gma… | 178.6 kB | Unofficial Model Context Protocol (MCP) server for the LegendKeeper worldbuildi… |
+| 2026-10-17 03:43:47 | [dreamguard](https://pypi.org/project/dreamguard/) | 0.1.0 | Manojkumar V | 45.3 kB | Reversible memory compilation for AI agents: compress memory without losing the… |
+| 2026-10-17 03:46:47 | [deviant-scan](https://pypi.org/project/deviant-scan/) | 0.1.0 |  | 70.0 kB | Finds bugs where code breaks the project's own patterns. |
+| 2026-10-17 03:50:48 | [openframe-protocol](https://pypi.org/project/openframe-protocol/) | 0.2.0 | Furious Meteors Engineering <… | 3.5 kB | OpenFrame Microservice Suite - communication protocol meta-package. Install tra… |
+| 2026-10-17 03:53:49 | [slidetwin](https://pypi.org/project/slidetwin/) | 0.1.0 | Wenhao Zhang <bdu8us@virginia… | 2.7 MB | Agent-operable digital pathology viewer simulator (research prototype, not for… |
+| 2026-10-17 03:56:15 | [agentdrift-mcp](https://pypi.org/project/agentdrift-mcp/) | 2.0.0 |  | 145.4 kB | Runtime supervisor and circuit breaker for autonomous coding agents |
+| 2026-10-17 03:59:22 | [leankedin-park](https://pypi.org/project/leankedin-park/) | 0.1.0a1 |  | 20.8 MB | Python bindings for leankedin-park (LinkedIn Voyager API) |
+| 2026-10-17 04:08:18 | [BayesianEstimationTool](https://pypi.org/project/BayesianEstimationTool/) | 1.0.0 |  | 52.3 kB | Hierarchical Bayesian estimation and prediction for mechanistic models |
+| 2026-10-17 04:11:15 | [dreamscale-pyrealsense2](https://pypi.org/project/dreamscale-pyrealsense2/) | 2.58.4 | Dreamscale Labs | 22.9 MB | pyrealsense2 for Linux aarch64 (Jetson), built from unmodified librealsense wit… |
+| 2026-10-17 04:14:52 | [fmhpyservicebase](https://pypi.org/project/fmhpyservicebase/) | 0.0.0 | Free Market Health <security@… | 2.8 kB | Name reserved by Free Market Health. Install the real package from the company… |
+| 2026-10-17 04:15:59 | [fmhkafkacontracts](https://pypi.org/project/fmhkafkacontracts/) | 0.0.0 | Free Market Health <security@… | 2.8 kB | Name reserved by Free Market Health. Install the real package from the company… |
