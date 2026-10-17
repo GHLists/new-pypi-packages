@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T00:23:23Z,lionlock,1.0.0b1,LionLock Maintainers,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",354662,Minimal open-source fatigue logging utilities for LionLock.
+2026-10-17T00:28:08Z,xprof-rs,0.1.3,,Apache-2.0,32999345,Fast Rust backend for the XProf trace viewer. Its output is the same as the output of XProf 2.23.2.
+2026-10-17T00:28:37Z,xthread-cli,0.2.0,ekinertac,MIT,40641,Read an X/Twitter thread or article from a tweet URL. Stdlib only.
+2026-10-17T00:37:48Z,zeoncoding-cli,1.7.0,Zeon7744 <zeon7744@gmail.com>,MIT,116627,A self-thinking CLI with context memory and autonomous learning
+2026-10-17T00:38:47Z,summit-scanner,0.6.8,Pennacle Security,MIT,161768,"Summit - open-source web security testing platform (proxy, scanner, fuzzer) by Pennacle Security"
+2026-10-17T00:39:24Z,zrb-face,0.1.0,,,647005,"A 3D character for zrb in a small, see-through, always-on-top window"
+2026-10-17T00:41:06Z,lakespec,0.0.1,,Apache-2.0,1984,Semantic spec compiler for lakehouse pipelines. In development; see the repository.
+2026-10-17T00:43:14Z,socmintelligence,1.1.0,Emre Kybs,Apache-2.0,3065897,"Multi-platform SOCMINT / OSINT web tool: public-data collection, charts, cross-platform relationship graph, cases and reports."
+2026-10-17T00:47:40Z,prme,0.15.0,Dwamian McLeish,Apache-2.0,1348867,Portable Relational Memory Engine - local-first memory substrate for LLM-powered systems
+2026-10-17T00:49:19Z,hanger,0.2.0,Woonyong Choi,MIT,273351,Keeps a folder of Markdown notes searchable and lets AI tools edit it by your rules
+2026-10-17T01:02:50Z,loomail,0.1.0,,MIT,18807,Server-side client for Loomail: send identify and track events with a secret key.
+2026-10-17T01:07:06Z,local-knowledge,0.1.0,,MIT,25908,"Local file/folder indexer + grounded-Q&A MCP service — same engine as confluence-knowledge, no credentials needed"
+2026-10-17T01:07:11Z,vaerion,0.1.15rc1,Auren <auren@vaerion.dev>,Apache-2.0,7349,"Vaerion — the AI-native development engine: deterministic runtime, broker-governed autonomy, hash-chained journals, receipts, and permanent provenance. Evidence, not branding."
+2026-10-17T01:11:50Z,cryptovault-py,0.2.0,Julian Bolivar,MIT OR Apache-2.0,76845,Authenticated encryption byte-compatible with the cryptovault Rust crate: AES-256-GCM-SIV over Argon2id/HKDF.
+2026-10-17T01:15:42Z,sheath,0.2.0,jspv <jspvgithub@twinleaf.xyz>,MIT,237309,Data-integration agent harness on Microsoft Agent Framework
+2026-10-17T01:19:17Z,fontpkg-fira-sans-condensed,4.203,,OFL-1.1,3961173,"Fira Sans Condensed font family, packaged for Python by fontpkg"
+2026-10-17T01:19:20Z,fontpkg-varela-round,3.10,,OFL-1.1,65593,"Varela Round font family, packaged for Python by fontpkg"
+2026-10-17T01:19:22Z,fontpkg-atkinson-hyperlegible,1.6,,OFL-1.1,130156,"Atkinson Hyperlegible font family, packaged for Python by fontpkg"
+2026-10-17T01:19:24Z,fontpkg-yellowtail,1.2,,Apache-2.0,43304,"Yellowtail font family, packaged for Python by fontpkg"
