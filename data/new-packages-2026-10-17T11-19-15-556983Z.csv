@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T10:19:09Z,dingtalk-open-stream,0.1.3,,,32247,Async DingTalk Stream Mode client for Python 3.12
+2026-10-17T10:21:06Z,jbt-mcpcheck,0.1.0,Suresh B <suresh@jarvisbitz.com>,MIT,645866,Validate an MCP server's conformance to the MCP 2026-07-28 revision over Streamable HTTP (read-only).
+2026-10-17T10:21:39Z,cwi-langchain,1.0.0,Cumulative Web Inc <hp@cumulativeweb.com>,Proprietary — Cumulative Web Inc,7481,"LangChain tools for the CWI Discovery Engine — music catalog search, track metadata, and live radio for AI agents."
+2026-10-17T10:22:06Z,streamform,0.9.1,,,48179463,"Streaming SQL models, tested in a simulator and run on Apache Flink."
+2026-10-17T10:23:28Z,avaril-cli,0.1.0,Avaril,ISC,212711,"Command-line tool that checks your codebase against privacy constraints, verifies enforcement of your processing activities and reports results to Avaril."
+2026-10-17T10:27:01Z,gagaku-player,0.1.0,ZiTengXiang,MIT,175947,雅楽の譜字をテキストで書くと、笙・篳篥・竜笛・琵琶・筝・鞨鼓・鉦鼓・太鼓の合奏として再生するデスクトップアプリ
+2026-10-17T10:29:50Z,streamform-test,0.1.0,,Apache-2.0,40390,Write streaming tests in Python; run them in the free streamform binary.
+2026-10-17T10:31:37Z,ptsip-engine-context,0.2.1,,LicenseRef-PTSIP-Community-Reciprocity-1.0,4065039,Independently versioned official PTSIP native engine
+2026-10-17T10:31:40Z,ptsip-engine-discovery,0.3.1,,LicenseRef-PTSIP-Community-Reciprocity-1.0,4164332,Independently versioned official PTSIP native engine
+2026-10-17T10:31:42Z,ptsip-engine-execution,0.3.1,,LicenseRef-PTSIP-Community-Reciprocity-1.0,4256215,Independently versioned official PTSIP native engine
+2026-10-17T10:31:45Z,ptsip-engine-planning,0.3.1,,LicenseRef-PTSIP-Community-Reciprocity-1.0,4239619,Independently versioned official PTSIP native engine
+2026-10-17T10:34:58Z,flone,0.0.1,FLONE,MIT,7161,Command-line tool that lets AI agents connect to a user's phone through FLONE (preview).
+2026-10-17T10:35:52Z,acumulus-mcp,0.1.0,Nick Aldewereld <nick@easeo.nl>,AGPL-3.0-or-later,43525,"MCP server for Acumulus — let Claude (Desktop, Code, Cursor) read and modify your Acumulus administration via natural language."
+2026-10-17T10:36:25Z,kallfi-sdk,0.2.0,Kallfi,MIT,112370,Server-side Python SDK for the Kallfi API.
+2026-10-17T10:40:28Z,leak-audit,0.1.0,,MIT,751665,"Local-first AI agent that finds recurring charges, hidden fees and forgotten subscriptions in your email, bank statements and SMS."
+2026-10-17T10:42:36Z,pyprobe-scan,0.1.0,Ronak Pal,MIT,21844,A Python network probing and asynchronous port scanning tool
+2026-10-17T10:47:36Z,bitongue,0.1.0,Ahsen17 <mesailedward@qq.com>,,330735,Bitongue - A message flowing noting library.
+2026-10-17T10:48:04Z,scraperack,0.1.0a1,,Apache-2.0,19173,Python SDK for self-hosted ScrapeRack clusters
+2026-10-17T10:50:41Z,daftarche,0.3.0,Vahid Anari <vahid.anari8@gmail.com>,MIT,931805,Daftarche: personal bookkeeping for bank transactions imported from QFX and Excel statements
+2026-10-17T10:51:34Z,peppier,2026.41.1,,,29484,Python utilities including PEP-8 wrappers
+2026-10-17T10:51:45Z,debatr,0.1.0,Khoren Markosyan,MIT,88467,Run AI debates from your terminal and give AI agents a debate tool (MCP): the command-line client for Debatr.
+2026-10-17T10:57:10Z,paperlab-space,0.1.1,PaperLab.space contributors,Apache-2.0,334837,Open-source engine for evaluating LLMs on spreadsheet data and producing paper-ready results.
+2026-10-17T10:57:11Z,fastpocketoption-api,1.0.0,Your Name <you@example.com>,MIT,31548,"Fast, reliable, from-scratch Pocket Option API client with real-time sentiment."
+2026-10-17T10:57:32Z,preciso-graphrag,0.3.0rc1,,Apache-2.0,231926,Local-first GraphRAG system exposed as an MCP server
+2026-10-17T10:57:39Z,valk-db,0.1.1,ValkPy <valk.py.dev@gmail.com>,,5055,
+2026-10-17T10:59:04Z,bytestruct,0.1.0,doronz88 <doron88@gmail.com>,MIT,78822,"Declarative binary records and composable codecs, using only the standard library"
+2026-10-17T11:03:18Z,zenmoney-python,0.7.0,,MIT,84647,Independent sync and async Python client for the public ZenMoney API
+2026-10-17T11:04:52Z,jasd,1.0.0,Xlueisadev,MIT,11081,"Just Another Static Database - A human-readable, zero-ceremony data format for Python."
+2026-10-17T11:06:14Z,jarvis-sec,0.1.0,skyfireitdiy,MIT,234774,Jarvis Security Scanner: C/C++/Rust security audit tool with heuristic scan and taint analysis
+2026-10-17T11:08:12Z,morx-gms2-mcp,0.4.0,MKTLMORX,MIT,189559,"MORX GMS2 MCP: GameMaker authoring, isolated runs and runtime observation over stdio"
+2026-10-17T11:11:21Z,ridian-mailbox,0.1.0a3,Ridian,MIT,19197,Private Ridian mailbox access for Python agents and the command line
+2026-10-17T11:17:59Z,vicare-local-ble,0.1.0,jurgenj136,MIT,985800,Local Zigbee Direct (BLE) client for Viessmann ZK03840 radiator valves.
