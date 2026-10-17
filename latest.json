@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-10-17T08:19:13.197565Z",
-    "path": "data/new-packages-2026-10-17T09-18-46-048458Z.csv",
-    "to": "2026-10-17T09:18:46.048458Z"
+    "count": 25,
+    "from": "2026-10-17T09:18:46.048458Z",
+    "path": "data/new-packages-2026-10-17T10-18-34-76049Z.csv",
+    "to": "2026-10-17T10:18:34.76049Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-17T08:58:46Z",
       "package": "trace50",
       "since": "2026-10-17T08:19:13.197565Z"
     }
   ],
-  "serial": 42355429,
+  "serial": 42356844,
   "source_truncated": false,
-  "window": "2026-10-17T09:18:46.048458Z"
+  "window": "2026-10-17T10:18:34.76049Z"
 }

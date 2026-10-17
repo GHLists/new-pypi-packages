@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T09:19:41Z,aiforge-studio,0.1.2,Duc Dinh <dinhduc4work@gmail.com>,MIT,285215,"No-code neural network studio in your terminal: build, train, fine-tune and export PyTorch models."
+2026-10-17T09:20:04Z,claude-code-router,0.1.1,Satya Prakash Tiwari,MIT,1172204,Route Claude Code tasks to the cheapest sufficient model and effort
+2026-10-17T09:21:28Z,palanit-core,0.1.0,Stanislav Miziyev <stas.m@palanit.com>,Apache-2.0,42770,A watchtower for AI agents — scan MCP servers and agent tool manifests for hidden risk.
+2026-10-17T09:33:40Z,gitd,0.7.0,,Apache-2.0,26082,"Client for gitd: instant, secretless git checkouts for agent sandboxes"
+2026-10-17T09:33:51Z,triplexanalytics,0.2.2,,Apache-2.0,19826561,"Triplex Analytics in plain Python: schema contracts, anonymization and synthetic data, run locally."
+2026-10-17T09:33:59Z,alguna,0.1.0,Alguna <support@alguna.io>,Apache-2.0,729975,Python SDK for the Alguna billing API
+2026-10-17T09:39:10Z,synapsek-claims,0.1.0,Synapsek Labs,Apache-2.0,4142713,"SVC — Synapsek Verified Claims: neutral, cryptographic verification of measured claims about AI artifacts and pipelines"
+2026-10-17T09:42:33Z,physics-ai999x,1.1.1,Ibnul Jaif Farabi,Apache-2.0,1680591,"Offline, verified physics solver: natural-language questions to typed quantities, certified relations, step-by-step working, LaTeX and honest refusals (zero wrong answers by design)"
+2026-10-17T09:43:16Z,civitascope-data,0.0.1,András Horváth <github@andrashorvath.dev>,MIT,544601,"Civitascope data engine: fetches Eurostat data, checks it against dataset cards and computes verifiable, sourced figures for infographics. Early development."
+2026-10-17T09:43:21Z,algebra-ai999x,1.0.1,Ibnul Jaif Farabi,Apache-2.0,572492,"Offline, verified algebra solver: quadratics, linear systems, inequalities, logarithms, sequences, matrices and machine-checked proofs, with steps, LaTeX and honest refusals"
+2026-10-17T09:43:28Z,civitascope-render,0.0.1,András Horváth <github@andrashorvath.dev>,MIT,5059,"Civitascope infographic renderer: draws charts, map SVGs and social images from verified Eurostat figures. Early development."
+2026-10-17T09:43:37Z,civitascope,0.0.1,András Horváth <github@andrashorvath.dev>,MIT,4644,"Verifiable, sourced infographics from Eurostat data. Meta-package: installs civitascope-data and civitascope-render. Early development."
+2026-10-17T09:50:24Z,trace-sec,2.2.0,TRACE Core Team,Apache-2.0,1542264,Threat Reconnaissance & Attack-path Correlation Engine
+2026-10-17T09:55:06Z,ag-cache,1.0.0,Dhruv Dankhara,MIT,24577,Multi-agent build & test command deduplicator and token saver for Antigravity and Claude Code.
+2026-10-17T09:56:18Z,skill-evals,0.1.0,Max van den Hoven,MIT,84485,"Evaluate how coding-agent harnesses load and follow skills, in Docker sandboxes, traced with MLflow."
+2026-10-17T10:00:06Z,binomial-expander,0.1.1,,,5707,A python calculator to expand binomial expression
+2026-10-17T10:01:52Z,hirepulse-tools,0.1.0,,MIT,87352,Python functions and a customizable MCP server for eight HirePulse Apify tools
+2026-10-17T10:04:04Z,youtube-kit,0.2.0,Eugene Kosharnyi,MIT,85288,"A CLI (ytk) and MCP server for the YouTube Data and Analytics APIs, built for agents and humans."
+2026-10-17T10:05:38Z,ray-klein,0.1.0a1,Klein Authors,Apache-2.0,12227287,Stateful stream processing for Ray
+2026-10-17T10:11:07Z,traceguard-pro,0.4.0,TraceGuard Contributors,LicenseRef-TraceGuard-Pro-Commercial,46085,"TraceGuard Pro — payload inspection, budgets, approvals and Ed25519 offline licensing"
+2026-10-17T10:11:33Z,ExeWatchMCP,0.1.0,,,64891,"ExeWatch for AI agents: an MCP server (and a command line) that reads errors, timings, metrics and versions from the ExeWatch public API."
+2026-10-17T10:13:08Z,kipango,0.0.1,Kipango,MIT,2622,Minimal Kipango Python utilities (initial developer preview)
+2026-10-17T10:15:39Z,madeitpx,0.1.0,TamKungZ_ <dev@tamkungz.me>,MPL-2.0,1495542,Python binding for the madeitpx pixel-art image conversion library
+2026-10-17T10:16:20Z,sankey-studio,0.1.0,Giovanni Manzoni <dev@giovannimanzoni.com>,GPL-3.0-only,1456529,"Draw, store and manage Sankey graphs from text files or MongoDB, with a local web UI."
+2026-10-17T10:17:28Z,azoic,0.5.0,thomas-bury,MIT,114776,scikit-learn-compatible toolkit for non-life technical tariff (pure premium) modelling
