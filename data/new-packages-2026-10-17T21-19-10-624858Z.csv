@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T20:25:34Z,ai-project-memory,0.1.0,falconsw,MIT,68395,"Shared, local, plain-Markdown memory for AI coding agents: Claude Code, Cursor, Antigravity/Gemini and Codex read and write the same notes."
+2026-10-17T20:30:23Z,initiative-tracker,0.1.0,Quaeren,MIT,11950,A simple cli based initiative tracker for dnd or other ttrpgs
+2026-10-17T20:31:08Z,by-tiny-agents,0.2.3,,MIT,59890,Small building blocks for Python agents and harnesses
+2026-10-17T20:33:03Z,sdigest,0.2.1,Reece Hart <reecehart@gmail.com>,MIT,4425370,"Fast, tunable sparse digests: fingerprint files by hashing their size and a sample of their content"
+2026-10-17T20:33:17Z,agriql,3.10.1,Sbruice Singh <sbruicesingh@haclon.in>,Apache-2.0,11278,Client for the AgriQL engine. This package is not a database.
+2026-10-17T20:33:33Z,kentaro,0.1.0,Maysano,MIT,73160,Read-only Agentic Maysano Harness for sourced portfolio context and local governance validation
+2026-10-17T20:34:04Z,hitspy,0.1.0,Kostas Florios <cflorios@aueb.gr>,MIT,98086,Fast OpenMP-parallelized discrete tabu search with pybind11 C++ bindings for maximum score estimator
+2026-10-17T20:34:34Z,droidoc,0.0.1,Dinil Bose Palakkatharappil,MIT,279564,Droids Documentation fo Humanoids
+2026-10-17T20:35:31Z,stealth-google-search,0.1.2,Moazam Ali <moazamshahid555@gmail.com>,MIT,44047,Stealthy Google Search and AI Overview scraper with anti-bot evasion and automatic redirect resolution.
+2026-10-17T20:35:59Z,iheap,0.1.0,Ryan Huang <ryan.huang@noetik.ai>,MIT,2040444,Fast indexed priority queue (pqdict-style) with a Rust core
+2026-10-17T20:37:20Z,os-brick-freebsd,0.9.0,joshiggins,Apache-2.0,8931,FreeBSD iSCSI connector for os-brick
+2026-10-17T20:37:21Z,sftp-pilot,2.0.2,Pandiyaraj Karuppasamy,MIT,66972,"SFTP file transfer manager with a GUI, a console menu and a persistent task scheduler"
+2026-10-17T20:37:53Z,mineru-magika,1.0.3,Magika Developers <magika-dev@google.com>,Apache-2.0,5938844,Magika 1.0.3 Python fork with caller-managed ONNX Runtime
+2026-10-17T20:39:24Z,odt-waffles,0.1.0,,MIT,4166,Ordered Dictionary Tools for Python
+2026-10-17T20:44:45Z,zensical-slides,1.0.2,,LGPL-3.0-or-later,79655,A Zensical plugin to add a focus-slide button for sections.
+2026-10-17T20:46:35Z,pyscriptc,0.1.0,Joaquin Terrasa,Apache-2.0,475715,"Lower a typed subset of Python to LLVM, with CPython as the island."
+2026-10-17T20:48:35Z,fast-math-rs,0.1.0,Dmitriy Troyan,MIT,3324391,"Arithmetic and number theory on Python numbers, implemented in Rust"
+2026-10-17T20:49:54Z,homelabscribe,0.2.1,HoneyBearTech,AGPL-3.0-only,120066,Documentation for your homelab that writes itself — and keeps your notes.
+2026-10-17T20:51:41Z,artdo-ai,0.1.0,ArtDo Team <support@artdo.ai>,MIT,7536,Official Python client and workflow utilities for ArtDo AI Photo Editor (https://artdo.ai/).
+2026-10-17T20:52:27Z,deepl-free,1.0.0,Ahmed Negm,MIT,12072,"Translate text and documents via DeepL with requests, no login or API key"
+2026-10-17T20:53:31Z,gligabao,0.7.0,,MIT,12733,Python client for the gligabao server
+2026-10-17T21:01:27Z,agent-foundry-runtime,0.4.2,Agent Foundry Contributors,MIT,88351,"Curated runtime skill orchestrator for AI coding assistants: plan, execute, verify."
+2026-10-17T21:05:46Z,penguineer,0.1.0,KausalFlow,Apache-2.0,172990,"Find the root cause of off-spec lots from historian and LIMS exports, offline"
+2026-10-17T21:05:54Z,zen-profile-selector,0.1.2,Federico Grimaldi,GPL-3.0-or-later,2364503,Unofficial profile picker for Zen Browser on Linux
+2026-10-17T21:07:30Z,sn1per-mcp,0.9.0,Sn1perSecurity LLC <support@sn1persecurity.com>,Apache-2.0,656565,"Run scoped, authorized Sn1per pentest, recon and attack surface scans from AI agents; read findings."
+2026-10-17T21:10:44Z,logsite,0.1.0,Raj Paynaik <rajpaynaik18@gmail.com>,MIT,325779,"See production log volume and log-quality issues inline, next to the log calls in your code."
+2026-10-17T21:11:23Z,textual-console,0.1.0,spicybyte <spicybyte@git.sbs>,MIT,68714,"Console widgets for Textual: color output with word/line mouse selection and OSC 52 copy, a command input with history and autocomplete, and a plain-text transcript."
+2026-10-17T21:12:30Z,mcp-master-toolkit-2026,0.1.0,,,9812,"MCP server, client, and LangChain integration"
+2026-10-17T21:13:07Z,st-flow,1.0.0,"Suhail Basalama, Stéphane Pouget, Jason Cong",Apache-2.0,60037615,ST-Flow: a hardware compiler for automating spatial-temporal dataflow acceleration on FPGAs
+2026-10-17T21:13:13Z,bondbyisin,0.1.0,Bond by ISIN,MIT,33556,Standalone Python client for the Bond by ISIN API.
+2026-10-17T21:14:17Z,blaueis-core,0.1.0rc1,Fabian Schwamborn,MIT,423506,"Midea HVAC serial protocol library — codec, glossary, state, query, command"
+2026-10-17T21:14:18Z,blaueis-gateway,0.1.0rc1,Fabian Schwamborn,MIT,82792,Blaueis HVAC gateway — WebSocket ↔ UART bridge for Midea AC units
+2026-10-17T21:14:21Z,blaueis-client,0.1.0rc1,Fabian Schwamborn,MIT,93191,Blaueis HVAC gateway — WebSocket client library and CLI
+2026-10-17T21:14:24Z,plantgraph,0.1.0,KausalFlow,Apache-2.0,17618,Typed plant context graph schema shared by penguineer and homeostat
+2026-10-17T21:18:52Z,stampbarcode,0.1.0,Matthew Leingang <leingang@nyu.edu>,MIT,15698,Duplicate a PDF with serial barcode stamps
