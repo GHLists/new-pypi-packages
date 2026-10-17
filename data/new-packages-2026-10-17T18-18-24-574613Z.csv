@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T17:18:41Z,drf-pollable,1.0.0,Abdul Wajid,MIT,118171,"Auto-generate polling (status) APIs for Django REST Framework from a model field, instance, queryset, or function."
+2026-10-17T17:20:23Z,th-file-utils,0.1.1,"""T.H (Tech Lab Works)"" <jcc00456biz@gmail.com>",Apache-2.0,20136,A utility package for safely and efficiently performing file operations
+2026-10-17T17:22:01Z,glovebox-egress-gateway,0.2.0,AlexanderMattTurner,Apache-2.0,285293,The host-side egress verdict service and TLS certificate helper Envoy asks for glovebox's Kata sandbox
+2026-10-17T17:31:19Z,vkuxt,0.1.0,,MIT,68149,Асинхронный каркас для приложений и ботов VK
+2026-10-17T17:31:30Z,mmaemu,0.1.0,Xun Ding <dxun1@alumni.jh.edu>,Apache-2.0,17991323,"Bit-exact emulation of NVIDIA tensor-core FP8 GEMMs (torch._scaled_mm, Transformer Engine) as an H100 PCIe or RTX 4060 computes them, on the CPU or another CUDA GPU"
+2026-10-17T17:32:05Z,strprob,1.0.3,spmather <spm-pypi-issues@pm.me>,MIT,11555,A string comparison tool
+2026-10-17T17:33:40Z,orcha-metabot,0.1.0,,Apache-2.0,534408,"A local bot for the coding agents you already use. Every connection gated, every run signed, every receipt checkable offline."
+2026-10-17T17:36:22Z,wesl-py,0.1.0,,MIT,7385306,Python bindings for the Rust WESL compiler
+2026-10-17T17:37:26Z,tfbscript,0.1.0,Max Stache,Apache-2.0,153820,Parser and decompiler for TFB script (.ai) files used by Madagascar - The Game (2005)
+2026-10-17T17:39:56Z,navapro,0.2.0,NaVaPro contributors,MIT,276392301,Python-native messaging client with an embedded runtime
+2026-10-17T17:40:18Z,ledgerwash,0.5.0,taipei49314,Apache-2.0,288033,Flags mechanically-checkable patterns of weakened evidence in agent work ledgers and handoff receipts.
+2026-10-17T17:44:07Z,pidgen-worker,2.11.0b1,Stephen Rhoades,LicenseRef-Pidgen-EULA,122078151,Pidgen workstation runtime for autonomous software delivery
+2026-10-17T17:44:22Z,cctv-stack,0.3.0,Jothika Raja,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",255823,A packaging-first self-hosted CCTV stack built on Frigate.
+2026-10-17T17:44:36Z,b123d-print,0.1.0,"KD5RYN, b123d-print contributors",MIT,154080,"Design, check and export 3D-printable parts with build123d, from any LLM via MCP"
+2026-10-17T17:44:58Z,precleared,0.1.0,Precleared <support@precleared.dev>,MIT,66394,"Cold-email legality check for AI agents: a Python client for the Precleared API, with LangChain, CrewAI, LlamaIndex and OpenAI Agents tools."
+2026-10-17T17:47:20Z,myfirstnn,0.1.0,Alessio Parolini <alepar.ap9@gmail.com>,,17261,A simple TUI tool to creates and train NN from random data
+2026-10-17T17:50:55Z,forgemesh-pay-per-crawl,0.1.2,ForgeMesh Labs <hello@forgemesh.io>,MIT,77763,"Charge AI crawlers and bots per page with x402 USDC micropayments on Base. ASGI, WSGI and Django middleware; you keep 100%."
+2026-10-17T17:54:54Z,spark-agent,0.9.6,,MIT,1377660,Spark [Ember] — local-first coding agent with a Codex-style loop
+2026-10-17T17:55:49Z,chatify-app,0.2.0,,MIT,18564629,"Chat with your documents. One YAML file, cited answers, offline demo."
+2026-10-17T17:56:54Z,python-polsen,0.1.1,Matt Moore,MIT,23374,"An asynchronous Python client for the [Polsen Health API](https://docs.research-api.nowatch.com/), the service exposing physiological and contextual data collected by Polsen devices and processed by…"
+2026-10-17T17:57:51Z,abacuslite,1.1.0,"Yuyang Ji, Zhenxiong Shen, Yike Huang, Zhaoqing Liu",LGPL-3.0-only,212714,A lightweight ABACUS calculator and I/O plugin for ASE
+2026-10-17T18:02:45Z,igsight-mcp,0.0.1,Vinícius Hugenthobler,MIT,3951,Open-source MCP server to read and analyze Instagram posts and profiles for AI agents (WIP). Not affiliated with Meta.
+2026-10-17T18:04:09Z,agenttelemetry-app,2.0.0,,MIT,738389,"A private, local dashboard for AI coding agent usage"
+2026-10-17T18:05:41Z,cistula,0.1.0,Lusoris <lusoris@proton.me>,EUPL-1.2,398052,Shared Python helpers of the Plurano framework family.
+2026-10-17T18:05:43Z,agents28,0.1.0,,MIT,39805,See what every AI agent in your business is working on. The official Python SDK for Agents28.
+2026-10-17T18:06:45Z,aegis-2b,0.2.1,Mohamed Makhlouf <muhamedomar.g@gmail.com>,MIT,768057,Sub-Second Safety Circuit Breaker for Autonomous Cloud Ops Agents using Strands Decider 2B & Amazon Bedrock
+2026-10-17T18:08:12Z,tanzania-postcodes,0.1.0,Freddy Nyanda <freddynyanda@proton.me>,MIT,1141412,"Real Tanzania postal codes, sourced directly from TCRA's official gazetted National Postcode System -- not a third-party compilation."
+2026-10-17T18:08:13Z,pyrite-web,0.1.0,,MIT,40866,"Code websites in Python 3, without writing JavaScript or CSS."
+2026-10-17T18:14:03Z,napari-foambryo,0.1.0,Hervé Turlier <herve.turlier@cnrs.fr>,GPL-3.0-or-later,1581828,"Surface tensions and cell pressures of a 3-D segmentation, in napari: delaunay-watershed-3d and foambryo"
+2026-10-17T18:16:04Z,arbora,0.1.0,Repository Maintainers <maintainers@knuckles.team>,MIT,2913296,"The deployable MCP, REST, control-plane, fleet, WebUI, and operations composition for the Knuckles agent platform."
