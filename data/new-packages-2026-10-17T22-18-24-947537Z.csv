@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T21:19:54Z,wasi-python,0.1.0a3,Clay Gendron,Apache-2.0,38787514,A statically linked CPython for WebAssembly hosts (wasm32-wasip1) with numpy and pandas compiled in.
+2026-10-17T21:21:57Z,arct-cloud,0.1.0rc1,,MIT,89821,Synchronous and asynchronous Arct Cloud API clients
+2026-10-17T21:25:38Z,simplibs-file,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,216930,"Safe file handling: read, write, copy, move, back up and inspect files — atomically, with deterministic defaults and structured errors — as plain functions, composable rules and pipeline actions."
+2026-10-17T21:31:52Z,ambientprecision,1.0.0,Enriching Ventures,MIT,9911,"Typed client for the Human Handoff API: send a typed question to a person, get a typed answer back."
+2026-10-17T21:33:50Z,astrax-mcp,0.2.0,,,51889,"Agentic System Telemetry, Realtime Automation & X-control: servidor MCP que da ojos y manos a tu IA"
+2026-10-17T21:35:29Z,fastflow-sdk,0.0.1,"Advanced Micro Devices, Inc.",MIT,2649,AMD FastFlow SDK for AI inference and compilation on XDNA NPUs
+2026-10-17T21:37:49Z,ttprism,0.1.0,李語晨,MIT,307215,"Extract IOCs from threat reports and sandbox output, and map behaviour to MITRE ATT&CK."
+2026-10-17T21:38:51Z,spyglass-sdk,0.1.2,,,180980,
+2026-10-17T21:42:28Z,acctswap,0.2.3,,MIT OR Apache-2.0,1753184,"Switch the account every Claude Code session on a machine uses, from saved logins, without a browser"
+2026-10-17T21:52:48Z,swissbitcoinpay-checkout,0.1.0,Swiss Bitcoin Pay Sàrl <hello@swiss-bitcoin-pay.ch>,MIT,590504,"Take Lightning and on-chain payments for a Swiss Bitcoin Pay merchant from an online shop's server: invoices, deposit addresses, registry declarations, payment checks."
+2026-10-17T21:52:52Z,openreposhape,1.1.0,opensoft,Apache-2.0,70649,"openRepoShape's commands, run from a clone of the standard at the release's own commit"
+2026-10-17T21:53:18Z,gotoconnect,0.1.0,,MIT,40315,"Async Python client for GoTo Connect: SMS via Messaging v2, outbound TTS voice calls via SIP"
+2026-10-17T21:56:40Z,aec-modelling,0.1.0,"Lingkang Jin <l.jin@tue.nl>, Rafael Nogueira Nakashima <rafnn@dtu.dk>",MIT,64462,"Four-parameter semi-empirical electrochemical and thermal model of alkaline water electrolysers (AWE/AEC), with fitting tools and literature datasets."
+2026-10-17T21:57:44Z,venv-match,0.1.0,Ishaan Tidke,MIT,43927,Compare Python runtime environments and investigate environment drift
+2026-10-17T21:57:47Z,positronic-wire,0.12.0,,Apache-2.0,70960,The client side of the transports a Positronic inference session runs over
+2026-10-17T21:57:53Z,positronic-eval-vocabulary,0.4.0,,Apache-2.0,13434,The vocabulary an attended rollout records: the operator's verdict and the progress ladder
+2026-10-17T21:58:22Z,positronic-evals,0.1.0,,Apache-2.0,197882,"The public evals of the Positronic platform: their definitions, labelers, scoring rules and episode lists"
+2026-10-17T21:58:22Z,positronic-model-server,0.2.2,,Apache-2.0,59168,"Model serving, session lifecycle and serialization without Positronic dependencies"
+2026-10-17T21:59:26Z,model-finder-mcp,1.3.5,Indigloo,MIT,148886,Local MCP server: find the cheapest AI model that passes your own tests
+2026-10-17T22:01:50Z,snapchat-dl-community,2.1.0,Aakash Gajjar,MIT license,67706,Community-maintained Snapchat public stories downloader.
+2026-10-17T22:03:24Z,curupira-sdk,0.1.0.dev0,,,27863,Declarative SDK for Curupira JSON-RPC process extensions
+2026-10-17T22:04:38Z,tallyprime,0.0.1,Chirag Jain <chirag@jumpfast.tech>,MIT,66252,Python client for the TallyPrime API
+2026-10-17T22:05:49Z,rightra,0.1.0,OLIVIUUS Ltd <contact@oliviuus.com>,LicenseRef-Proprietary,21422,"Server-side helpers for Rightra: upload tokens, presigned storage URLs, and the Rightra API client for Django, Flask, and any Python backend."
+2026-10-17T22:08:33Z,curupira-plugins,0.1.0.dev0,,MIT,25049,"Official Curupira trigger extensions (GitHub, Azure, Trello, monday.com)"
+2026-10-17T22:15:34Z,temporal2mistral,0.1.0,Louis Cauret <louiscauret@gmail.com>,MIT,118855,Migrate Temporal Python workflows to Mistral Workflows (codemod + migration report)
+2026-10-17T22:16:15Z,orion-phone,0.2.0,Dan Mercede,MIT,405515,"Android emulator phones for AI agents: leases, a locked tier, and an audit trail."
+2026-10-17T22:17:39Z,mailcheckr,0.1.0,Ridwan Kasim,MIT,14235,Server-side Python client for the MailCheckr email verification API
+2026-10-17T22:17:50Z,netsi,0.1.0,Blue Dot,MIT,8911,"Python SDK for netsi, the personal agent network, and SplitSI, its shared-expense app. Tools are read live from the API."
