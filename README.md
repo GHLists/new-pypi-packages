@@ -8,32 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 07:19 UTC
+## Latest list — 2026-10-17 08:19 UTC
 
-New packages created between 2026-10-17 06:18 UTC and 2026-10-17 07:19 UTC.
+New packages created between 2026-10-17 07:19 UTC and 2026-10-17 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-17T07-19-20-448879Z.csv)
+[Full CSV](data/new-packages-2026-10-17T08-19-13-197565Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-17 06:20:51 | [ayna](https://pypi.org/project/ayna/) | 0.1.0 | Aslan Satary Dizaji | 95.9 kB | Know whether your inferred neural dynamics are real, before you interpret them.… |
-| 2026-10-17 06:21:34 | [healthy-guard](https://pypi.org/project/healthy-guard/) | 0.1.1 | CrazyXXi | 384.4 kB | Audit de gouvernance et d'éthique pour chatbots de santé |
-| 2026-10-17 06:26:15 | [provably-fast](https://pypi.org/project/provably-fast/) | 1.0.0 | provably.fast | 10.9 kB | Another name for pvfast, the command line for provably.fast. |
-| 2026-10-17 06:27:17 | [p2e-2t](https://pypi.org/project/p2e-2t/) | 2.0.0 | P2E-2T contributors | 39.0 kB | P2E-2T: explain Python code in understandable English |
-| 2026-10-17 06:28:02 | [arc-engineering-mcp](https://pypi.org/project/arc-engineering-mcp/) | 0.2.1 |  | 2.0 MB | 100 AI skills for systems and hardware engineers with local MCP file tools |
-| 2026-10-17 06:30:16 | [tmailor-sdk](https://pypi.org/project/tmailor-sdk/) | 0.1.0 | Tmailor | 163.5 kB | Python SDK for the Tmailor Open API: create temporary email addresses and read… |
-| 2026-10-17 06:32:43 | [sessionintent](https://pypi.org/project/sessionintent/) | 0.4.3 |  | 143.1 kB | A declarative session orchestration system for GNOME Wayland |
-| 2026-10-17 06:33:12 | [traceguard-mcp](https://pypi.org/project/traceguard-mcp/) | 0.1.0 | TraceGuard Contributors | 10.1 kB | TraceGuard MCP Server — 让任何 MCP 客户端（Claude Desktop / Cursor / OpenCode）在工具执行前先问… |
-| 2026-10-17 06:34:49 | [monosmith](https://pypi.org/project/monosmith/) | 1.0.0 |  | 31.8 MB | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases |
-| 2026-10-17 06:34:54 | [qca-compiler](https://pypi.org/project/qca-compiler/) | 0.1.0 | 11-qlab | 13.0 kB | Compile QCA circuits to Qiskit using native Rz/Rx/CZ gates |
-| 2026-10-17 06:40:54 | [trainstream](https://pypi.org/project/trainstream/) | 0.1.0 | John Anish G | 60.5 kB | Zero-dependency PCIe offloading engine for PyTorch training (optimizer, gradien… |
-| 2026-10-17 06:42:19 | [warp-language](https://pypi.org/project/warp-language/) | 1.3.0 |  | 44.5 MB | Warp: a data notation that is also a programming language, compiled to WebAssem… |
-| 2026-10-17 06:43:21 | [nocto-mcp](https://pypi.org/project/nocto-mcp/) | 0.3.6 | NeoSage | 38.8 kB | Nocto, the teaching assistant for the Engineer's AI Accelerator, as an MCP serv… |
-| 2026-10-17 06:50:12 | [magli](https://pypi.org/project/magli/) | 0.3.0 | David Ávila Cortés | 110.9 kB | magli (Modelo Aditivo Generalizado Lineal) — Modern Pythonic Generalized Additi… |
-| 2026-10-17 06:51:34 | [arc-free-skills](https://pypi.org/project/arc-free-skills/) | 1.0.0 | Arc | 2.0 MB | 100 AI skills for systems and hardware engineers with local MCP file tools |
-| 2026-10-17 06:55:13 | [accim-samples](https://pypi.org/project/accim-samples/) | 0.8.0 | Daniel Sánchez-García | 22.4 MB | Sample files for accim: Jupyter notebooks, IDFs, EPWs, CSVs, figures and scripts |
-| 2026-10-17 07:03:01 | [astrix-code](https://pypi.org/project/astrix-code/) | 1.1.0 | Astrix AI Team | 135.5 kB | Local-First AST & Compiler-Backed Deterministic AI Code Infrastructure (Support… |
-| 2026-10-17 07:10:23 | [pricewright](https://pypi.org/project/pricewright/) | 0.0.2 | Thor Whalen | 250.5 kB | Price services and products from a model of their costs and effort, with travel… |
-| 2026-10-17 07:11:40 | [nolo-apps](https://pypi.org/project/nolo-apps/) | 2.0.0 |  | 22.4 kB | macOS terminal manager for installing, removing, and auditing Antigravity IDE a… |
-| 2026-10-17 07:16:51 | [browser-use-turnstile](https://pypi.org/project/browser-use-turnstile/) | 0.1.0 | Peak | 17.7 kB | A browser-use action that solves Cloudflare Turnstile via the Peak API: reads t… |
-| 2026-10-17 07:19:12 | [fastmcp-seaworthy](https://pypi.org/project/fastmcp-seaworthy/) | 0.1.0 | Stephan Eberle <stephaneberle… | 326.2 kB | Production building blocks for FastMCP servers: serve one server under several… |
+| 2026-10-17 07:19:10 | [moraine3d](https://pypi.org/project/moraine3d/) | 0.2.1 | ms-elk | 2.2 MB | AI-native procedural modeling tool for real-time 3D assets |
+| 2026-10-17 07:22:28 | [saysafe](https://pypi.org/project/saysafe/) | 0.1.0 | Ratnam Ojha | 636.1 kB | Privacy and approval guardrails for voice agents: who's speaking, and who's lis… |
+| 2026-10-17 07:22:35 | [tellproof-agent](https://pypi.org/project/tellproof-agent/) | 0.3.0 | Lumetrix | 22.4 MB | The Tellproof evidence agent: a signed, content-free record of how your AI syst… |
+| 2026-10-17 07:23:47 | [tdee-calculator](https://pypi.org/project/tdee-calculator/) | 1.0.0 | Free TDEE Calculator | 7.4 kB | Lightweight Python utility for TDEE, BMR (Mifflin-St Jeor, Harris-Benedict, Kat… |
+| 2026-10-17 07:24:44 | [label-filter](https://pypi.org/project/label-filter/) | 0.3.1 | Steven Spungin | 29.3 kB | A small glob-like pattern language for filtering lists of objects by their labe… |
+| 2026-10-17 07:26:47 | [assayflux](https://pypi.org/project/assayflux/) | 0.4.0 | AssayFlux contributors | 39.0 kB | Python-driven multi-language project generation, testing, and build orchestrati… |
+| 2026-10-17 07:29:26 | [unique-fridge](https://pypi.org/project/unique-fridge/) | 0.1.1 | TheWandrr <TheWandrr.Code@gma… | 21.4 kB | Validated BLE client for the characterized portable refrigerator protocol |
+| 2026-10-17 07:30:19 | [pio-installer](https://pypi.org/project/pio-installer/) | 1.0.0 | "Nima Askari (NimaLTD)" <nima… | 139.2 kB | Install embedded C and C++ libraries into a PlatformIO project, for any framewo… |
+| 2026-10-17 07:30:47 | [obfusai](https://pypi.org/project/obfusai/) | 0.11.0 |  | 187.3 kB | Prompt-hygiene toolkit for LLM apps: audit prompts for secrets, detect and meas… |
+| 2026-10-17 07:35:41 | [liquidvision](https://pypi.org/project/liquidvision/) | 0.2.0 |  | 18.6 kB | Client for LiquidVision.app, exchange-exact crypto derivatives data for bots an… |
+| 2026-10-17 07:37:53 | [qasd](https://pypi.org/project/qasd/) | 0.0.1 | Esameldin Bashir | 29.9 kB | Qasd (قصد): understanding what Arabic shoppers mean, in any dialect. Normalizat… |
+| 2026-10-17 07:38:07 | [prebounce](https://pypi.org/project/prebounce/) | 0.1.0 | Raghul Jagannathan | 1.4 MB | Know before it bounces: self-contained email address verification for Python (p… |
+| 2026-10-17 07:38:31 | [agentprobe-eval](https://pypi.org/project/agentprobe-eval/) | 0.1.0 | Abhilash Yaragal | 52.9 kB | Evaluation and regression testing for AI agents |
+| 2026-10-17 07:42:22 | [pytexl](https://pypi.org/project/pytexl/) | 0.1.0 | Marcello Del Buono | 767.0 kB | Text templates with Swan expressions: the Python library of Texl |
+| 2026-10-17 07:44:42 | [recu-momo](https://pypi.org/project/recu-momo/) | 0.1.0 | Gilles MEDENOU | 64.6 kB | Transforme des SMS de confirmation mobile money en transactions structurées, sa… |
+| 2026-10-17 07:47:28 | [agentsvc](https://pypi.org/project/agentsvc/) | 0.1.0 |  | 11.8 kB | Pay-per-call tools for AI agents: 120+ web, data and crypto APIs paid in USDC v… |
+| 2026-10-17 07:49:19 | [unsatstab](https://pypi.org/project/unsatstab/) | 1.0.0 | Exneyder A. Montoya-Araque, D… | 5.7 MB | Spatially distributed unsaturated infiltration and infinite-slope stability mod… |
+| 2026-10-17 07:51:18 | [simplicio-video](https://pypi.org/project/simplicio-video/) | 0.5.0 | Wesley Simplicio | 13.1 MB | Simplicio Runtime video plugin: deterministic contract (YAML) -> HyperFrames ->… |
+| 2026-10-17 07:55:26 | [damga](https://pypi.org/project/damga/) | 1.0.0 | mihu.ai | 485.7 MB | Damga: open-source Turkish-first text normalization (TN) and inverse text norma… |
+| 2026-10-17 07:56:22 | [swarmfl](https://pypi.org/project/swarmfl/) | 0.1.0a1 | SwarmFL contributors | 505.5 kB | Federated multi-agent research framework for authorized specialist consultation |
+| 2026-10-17 07:56:23 | [routine-sweeper](https://pypi.org/project/routine-sweeper/) | 0.1.0 | hao li | 32.2 kB | Unattended cleanup of Claude Code routine (scheduled task) run sessions: batch-… |
+| 2026-10-17 07:57:14 | [vibe-shipcheck](https://pypi.org/project/vibe-shipcheck/) | 0.1.0 | hao li | 27.1 kB | Pre-publish security config check for vibe-coded apps: committed .env files, ha… |
+| 2026-10-17 07:57:27 | [skabm](https://pypi.org/project/skabm/) | 0.1.0 |  | 690.0 kB | Agent-based models as SymPy rules, run on a knowledge graph or in JAX |
+| 2026-10-17 07:58:05 | [canarygate](https://pypi.org/project/canarygate/) | 0.1.0 | hao li | 35.4 kB | Hook/gate liveness validator: canary probes + synthetic events that catch wired… |
+| 2026-10-17 07:58:36 | [mac-stickies-mcp](https://pypi.org/project/mac-stickies-mcp/) | 1.0.0 | Jui-Yang Wang | 143.5 kB | A local MCP server for Apple Stickies on macOS. |
+| 2026-10-17 07:58:58 | [session-archive](https://pypi.org/project/session-archive/) | 0.1.0 | hao li <haoli5933@gmail.com> | 21.3 kB | Archive Claude Code session logs before the 30-day auto-delete: gzip + searchab… |
+| 2026-10-17 08:01:56 | [ecadlib](https://pypi.org/project/ecadlib/) | 0.3.0 | oliver browne | 4.2 MB | AI-assisted living ECAD component library: BOM triage, IPC-7351B footprints, Al… |
+| 2026-10-17 08:04:54 | [kjnlae](https://pypi.org/project/kjnlae/) | 0.3.0 |  | 484.4 kB | Prompt injection inspection and independent action authorization gateway |
+| 2026-10-17 08:05:51 | [groovyscope](https://pypi.org/project/groovyscope/) | 0.1.0 | SCGIS-Wales | 18.5 MB | Groovy 5/6 code intelligence for AI coding agents: LSP and MCP front ends over… |
+| 2026-10-17 08:07:05 | [khagole-engine](https://pypi.org/project/khagole-engine/) | 0.0.12 |  | 7.9 MB | Vedic Jyotish & Astrometric chart calculation on JPL ephemerides (Rust, via PyO… |
+| 2026-10-17 08:07:07 | [verbx](https://pypi.org/project/verbx/) | 0.9.10 | verbx contributors | 1.2 MB | Research-grade CLI for extreme reverb processing and analysis. |
+| 2026-10-17 08:10:59 | [two-key](https://pypi.org/project/two-key/) | 0.7.0 | Insomniac-VibeLabs | 2.2 MB | Two-Key: a security and dual-authorization layer for AI agents that separates t… |
+| 2026-10-17 08:16:29 | [spain-open-data-mcp](https://pypi.org/project/spain-open-data-mcp/) | 0.1.0 | Digvijay Singh | 691.2 kB | MCP server for market questions about Spain from public data (INE, OpenStreetMa… |
+| 2026-10-17 08:18:58 | [jarvis-c2rust](https://pypi.org/project/jarvis-c2rust/) | 0.1.0 | skyfire <skyfireitdiy@hotmail… | 437.0 kB | Jarvis C2Rust: C/C++ to Rust migration pipeline with progressive migration and… |

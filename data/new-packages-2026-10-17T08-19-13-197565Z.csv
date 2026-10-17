@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T07:19:10Z,moraine3d,0.2.1,ms-elk,Apache-2.0 AND MIT AND ISC AND BSD-3-Clause,2202876,AI-native procedural modeling tool for real-time 3D assets
+2026-10-17T07:22:28Z,saysafe,0.1.0,Ratnam Ojha,Apache-2.0,636083,"Privacy and approval guardrails for voice agents: who's speaking, and who's listening."
+2026-10-17T07:22:35Z,tellproof-agent,0.3.0,Lumetrix,Apache-2.0,22374797,"The Tellproof evidence agent: a signed, content-free record of how your AI system runs, with a local dashboard."
+2026-10-17T07:23:47Z,tdee-calculator,1.0.0,Free TDEE Calculator,MIT,7386,"Lightweight Python utility for TDEE, BMR (Mifflin-St Jeor, Harris-Benedict, Katch-McArdle) and macronutrient calculations."
+2026-10-17T07:24:44Z,label-filter,0.3.1,Steven Spungin,MIT,29339,"A small glob-like pattern language for filtering lists of objects by their labels. Parsed to an IR, never compiled to a regex."
+2026-10-17T07:26:47Z,assayflux,0.4.0,AssayFlux contributors,MIT,38983,"Python-driven multi-language project generation, testing, and build orchestration"
+2026-10-17T07:29:26Z,unique-fridge,0.1.1,TheWandrr <TheWandrr.Code@gmail.com>,MIT,21412,Validated BLE client for the characterized portable refrigerator protocol
+2026-10-17T07:30:19Z,pio-installer,1.0.0,"""Nima Askari (NimaLTD)"" <nima.askari@gmail.com>",Apache-2.0,139214,"Install embedded C and C++ libraries into a PlatformIO project, for any framework"
+2026-10-17T07:30:47Z,obfusai,0.11.0,,MIT,187340,"Prompt-hygiene toolkit for LLM apps: audit prompts for secrets, detect and measure prompt leaks, optionally obfuscate; any language via a local gateway."
+2026-10-17T07:35:41Z,liquidvision,0.2.0,,MIT,18576,"Client for LiquidVision.app, exchange-exact crypto derivatives data for bots and AI agents: open interest, funding, liquidations, measured Hyperliquid and Lighter liquidation maps, cascades, tokenize…"
+2026-10-17T07:37:53Z,qasd,0.0.1,Esameldin Bashir,Apache-2.0,29950,"Qasd (قصد): understanding what Arabic shoppers mean, in any dialect. Normalization, dialect-aware retrieval and evaluation."
+2026-10-17T07:38:07Z,prebounce,0.1.0,Raghul Jagannathan,MIT,1421331,Know before it bounces: self-contained email address verification for Python (pre-alpha).
+2026-10-17T07:38:31Z,agentprobe-eval,0.1.0,Abhilash Yaragal,MIT,52870,Evaluation and regression testing for AI agents
+2026-10-17T07:42:22Z,pytexl,0.1.0,Marcello Del Buono,,767007,Text templates with Swan expressions: the Python library of Texl
+2026-10-17T07:44:42Z,recu-momo,0.1.0,Gilles MEDENOU,MIT,64649,"Transforme des SMS de confirmation mobile money en transactions structurées, sans qu'aucune donnée ne quitte la machine."
+2026-10-17T07:47:28Z,agentsvc,0.1.0,,MIT,11759,"Pay-per-call tools for AI agents: 120+ web, data and crypto APIs paid in USDC via x402, with ready-made LangChain and CrewAI tools"
+2026-10-17T07:49:19Z,unsatstab,1.0.0,"Exneyder A. Montoya-Araque, Daniel F. Ruiz, Emanuel Castillo-Cardona",MIT,5660723,Spatially distributed unsaturated infiltration and infinite-slope stability modeling.
+2026-10-17T07:51:18Z,simplicio-video,0.5.0,Wesley Simplicio,AGPL-3.0-or-later,13101771,Simplicio Runtime video plugin: deterministic contract (YAML) -> HyperFrames -> MP4 CLI
+2026-10-17T07:55:26Z,damga,1.0.0,mihu.ai,Apache-2.0,485660465,"Damga: open-source Turkish-first text normalization (TN) and inverse text normalization (ITN), also for English, German, French, Spanish, Italian and Russian"
+2026-10-17T07:56:22Z,swarmfl,0.1.0a1,SwarmFL contributors,Apache-2.0,505526,Federated multi-agent research framework for authorized specialist consultation
+2026-10-17T07:56:23Z,routine-sweeper,0.1.0,hao li,MIT,32186,"Unattended cleanup of Claude Code routine (scheduled task) run sessions: batch-prune old runs by policy, with dry-run preview and whitelist protection"
+2026-10-17T07:57:14Z,vibe-shipcheck,0.1.0,hao li,MIT,27150,"Pre-publish security config check for vibe-coded apps: committed .env files, hardcoded secrets, exposed Supabase URLs, missing RLS, wildcard CORS, debug flags."
+2026-10-17T07:57:27Z,skabm,0.1.0,,,689982,"Agent-based models as SymPy rules, run on a knowledge graph or in JAX"
+2026-10-17T07:58:05Z,canarygate,0.1.0,hao li,MIT,35421,Hook/gate liveness validator: canary probes + synthetic events that catch wired-but-dead gates
+2026-10-17T07:58:36Z,mac-stickies-mcp,1.0.0,Jui-Yang Wang,"MIT License Copyright (c) 2026 wangwang0204 Permission is hereby granted, free of charge, to any pe…",143456,A local MCP server for Apple Stickies on macOS.
+2026-10-17T07:58:58Z,session-archive,0.1.0,hao li <haoli5933@gmail.com>,MIT,21266,Archive Claude Code session logs before the 30-day auto-delete: gzip + searchable index + restore
+2026-10-17T08:01:56Z,ecadlib,0.3.0,oliver browne,MIT,4205998,"AI-assisted living ECAD component library: BOM triage, IPC-7351B footprints, Altium and KiCad export"
+2026-10-17T08:04:54Z,kjnlae,0.3.0,,MIT,484397,Prompt injection inspection and independent action authorization gateway
+2026-10-17T08:05:51Z,groovyscope,0.1.0,SCGIS-Wales,Apache-2.0,18485283,Groovy 5/6 code intelligence for AI coding agents: LSP and MCP front ends over one JVM engine
+2026-10-17T08:07:05Z,khagole-engine,0.0.12,,MIT OR Apache-2.0,7933500,"Vedic Jyotish & Astrometric chart calculation on JPL ephemerides (Rust, via PyO3)"
+2026-10-17T08:07:07Z,verbx,0.9.10,verbx contributors,"MIT License Copyright (c) 2026 Colby Leider (testing) Permission is hereby granted, free of charge,…",1221960,Research-grade CLI for extreme reverb processing and analysis.
+2026-10-17T08:10:59Z,two-key,0.7.0,Insomniac-VibeLabs,Apache-2.0,2249098,"Two-Key: a security and dual-authorization layer for AI agents that separates tool access from action authorization with a policy VM, judge quorum, single-use tokens, and an encrypted ledger."
+2026-10-17T08:16:29Z,spain-open-data-mcp,0.1.0,Digvijay Singh,MIT,691167,"MCP server for market questions about Spain from public data (INE, OpenStreetMap, datos.gob.es), with every figure sourced, dated and checked."
+2026-10-17T08:18:58Z,jarvis-c2rust,0.1.0,skyfire <skyfireitdiy@hotmail.com>,"MIT License Copyright (c) 2025 skyfire Permission is hereby granted, free of charge, to any person…",437047,Jarvis C2Rust: C/C++ to Rust migration pipeline with progressive migration and checkpoint resume
