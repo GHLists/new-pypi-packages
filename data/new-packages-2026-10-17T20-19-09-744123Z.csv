@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T19:07:10Z,fastboot-oem-extractor,1.0.2,chkndrp <chkndrp@gmail.com>,LGPL-3.0-only,21805,"Extract hidden ""fastboot oem"" commands from firmware blobs"
+2026-10-17T19:18:12Z,leangate,0.1.1,lambdabypi,MIT,595546,"The referee inside a coding agent's loop: catches AI-written code a production codebase doesn't need (reimplemented helpers, dead code) or can't survive (missing error handling, security holes, inven…"
+2026-10-17T19:20:40Z,agent-sofi,0.0.1,Dimitris Klis,MIT,5876,A terminal coding assistant that runs agent pipelines defined as graphs.
+2026-10-17T19:20:56Z,hellpy-og,0.1.4,,,3221,A custom framework for hardware and games
+2026-10-17T19:27:37Z,exceptions_with_structure,1.0.0,Vedansh Shetti <vedansh.shetti@gmail.com>,EUPL-1.2,2775,A standardized error class with ISO-8601 timestamps and machine-readable codes.
+2026-10-17T19:27:37Z,lineleaf,0.0.1,,Apache-2.0,1677,Lineage for AI memory. Early preview.
+2026-10-17T19:28:05Z,system-energy,0.1.0,11-qlab,Apache-2.0,12525,System-level energy comparison across post-CMOS technologies
+2026-10-17T19:33:09Z,qellaris,0.5.0,Qellaris benchmark team,MIT,3929296,"Decision-focused evaluation harness for cellular sleep control: synthetic demand, interchangeable forecasters/controllers, shared capacity-flow scoring."
+2026-10-17T19:34:43Z,forgegraph,0.0.1,Steven Kaye,MIT,1670112,"Low-labor, consistent, high-quality graphs from many data sources, for people and AI agents. Early development."
+2026-10-17T19:36:24Z,md4a-fastapi,0.1.0,,MIT,67280,"Markdown for Agents content negotiation for FastAPI, Flask, and other WSGI apps"
+2026-10-17T19:39:08Z,django-daisy-theme,0.1.0,Django Daisy Theme Contributors,MIT,650775,"A modern, responsive DaisyUI & Tailwind CSS theme for Django Admin with native bi-directional RTL/LTR support"
+2026-10-17T19:41:57Z,legion-guard,0.1.0,,MIT,80892,Verify before connect: check the MCP tools your client receives against your approvals and LEGION's signed log
+2026-10-17T19:42:07Z,caramelldansen,1.0.0,Ohualtex,MIT,58374,Caramell Dansen Terminal Player — High Performance TrueColor & Unicode with Dansen Loop
+2026-10-17T19:42:28Z,openphysicalai,0.2.1,,Apache-2.0,79104,"OpenPhysicalAI Lab core: budget-aware, latency-coupled evaluation for Physical AI"
+2026-10-17T19:45:43Z,vmnet-cli,0.1.0,fl0l0u,Apache-2.0,65862,"Unofficial CLI clone of VMware Workstation's Virtual Network Editor (vmnetcfg.exe), built on the reverse-engineered vnetlib.dll VNL_* API"
+2026-10-17T19:52:39Z,3tears-evals,0.70.0,pace,MIT,6698191,"Evaluate LLM-backed products: campaigns over levers, judged and code-graded trials, cost and latency accounting, and analysis reports"
+2026-10-17T19:54:10Z,rconx,0.1.0,Fallen_Breath,LGPL-3.0-only,76051,"A Python implementation of the Source RCON protocol with client, server, and Minecraft compatibility"
+2026-10-17T19:54:32Z,samlang,0.1.0,Samrane Ahmed,LicenseRef-Proprietary,124123,"SamLang — A modern, high-performance programming language blending Python simplicity with C# elegance."
+2026-10-17T19:55:36Z,rconx_cli,0.1.0,Fallen_Breath,LGPL-3.0-only,8699,Command-line entry point for rconx
+2026-10-17T19:55:48Z,ytm-tui-player,1.5.0,shuka0158 <shukakidze.davit2010@gmail.com>,GPL-3.0-or-later,140084,A terminal music player for your YouTube Music account
+2026-10-17T19:56:05Z,eitri-hdl,0.1.0,,GPL-3.0-or-later,89476096,"A VHDL workspace for editing, simulation, and circuit visualization"
+2026-10-17T19:56:52Z,tasks-toolkit,0.1.3,prachwal,"MIT License Copyright (c) 2026 prachwal Permission is hereby granted, free of charge, to any person…",307772,"Task tracker toolkit: CLI + MCP server for sprint/task/subtask management, delegation helpers."
+2026-10-17T19:57:58Z,nava-link,1.0.0,nava_link contributors,MIT,25834,Python-native messaging client with an embedded runtime
+2026-10-17T19:58:45Z,github-actions-logger,0.1.0,Cyb3r-Jak3,,8272,
+2026-10-17T20:00:40Z,sshfleet,0.1.0,Issam Alshamaly,MIT,1402573,"Fleet monitor and support tool for servers reached over SSH: status, containers, logs, files, tunnels"
+2026-10-17T20:01:28Z,secfeed,0.1.1,,MIT,7625,Python SDK for the SecFeed SEC EDGAR API
+2026-10-17T20:11:17Z,chatsorter-local,2.2.0,,Commercial,3601947,ChatSorter Self-Hosted — local memory layer for AI chatbots
+2026-10-17T20:14:56Z,zappyquote,0.2.0,Zappy,MIT,18526,Official Zappy API client for Python - a thin wrapper over the documented Zappy API v1.
+2026-10-17T20:15:06Z,openmc-fusion-chain-generator,0.1.0,Hridoy Kabiraj,,15588,Generate reduced OpenMC depletion chains for fusion breeder materials

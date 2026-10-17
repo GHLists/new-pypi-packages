@@ -1,31 +1,19 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-10-17T18:18:24.574613Z",
-    "path": "data/new-packages-2026-10-17T19-18-42-158119Z.csv",
-    "to": "2026-10-17T19:18:42.158119Z"
+    "count": 29,
+    "from": "2026-10-17T19:18:42.158119Z",
+    "path": "data/new-packages-2026-10-17T20-19-09-744123Z.csv",
+    "to": "2026-10-17T20:19:09.744123Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-17T17:22:32Z",
       "package": "Hack4U-Project-JotaBWF",
       "since": "2026-10-17T17:18:35.365985Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-17T19:07:10Z",
-      "package": "fastboot_oem_extractor",
-      "since": "2026-10-17T18:18:24.574613Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-17T19:18:12Z",
-      "package": "leangate",
-      "since": "2026-10-17T18:18:24.574613Z"
     }
   ],
-  "serial": 42374196,
+  "serial": 42375507,
   "source_truncated": false,
-  "window": "2026-10-17T19:18:42.158119Z"
+  "window": "2026-10-17T20:19:09.744123Z"
 }
