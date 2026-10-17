@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T03:48:45Z,captix,2.0.0,Julio Trecenti <jtrecenti@gmail.com>,"MIT License Copyright (c) 2026 Julio Trecenti Permission is hereby granted, free of charge, to any…",65474,"Read, annotate, train and decrypt text captchas with a CRNN+CTC model."
+2026-10-17T04:19:56Z,phonon-charge-pdf,2.0.2,,BSD-3-Clause,424027,"Neganov-Luke phonon / ionization-charge band PDF and event simulator for cryogenic detector NR/ER recoils, with an optional Fortran-accelerated backend."
+2026-10-17T04:27:32Z,kumo-engine,1.0.0,"""Kumo.AI"" <hello@kumo.ai>",Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND BSD-3-Clause AND BSL-1.0 AND ISC AND MIT AND Unic…,34135223,"Local, in-process relational deep learning with Kumo"
+2026-10-17T04:29:26Z,qca-sim,1.7.0,11-qlab,Apache-2.0,15247,"Quantum-dot Cellular Automata simulator: Hubbard cell exact diagonalization, native quantum gates, STA clocking"
+2026-10-17T04:37:49Z,ai-traceguard,0.1.0,TraceGuard Contributors,MIT,34957,Runtime guardrail for AI agents — intercept dangerous tool calls before execution
+2026-10-17T04:44:10Z,linecat,0.9.0,Vahid Anari <vahid.anari8@gmail.com>,MIT,8575418,Line Catalog Explorer: filter CDMS spectral line catalogs and draw energy-level diagrams
+2026-10-17T04:45:47Z,motui,1.0.0,Shingwha,MIT,875373,"A layered full-screen TUI toolkit for Python: alternate-screen rendering, addressable blocks, viewport scrollback, themeable components, configurable keymaps, and a pointer-aware widget library (wcwi…"
+2026-10-17T04:46:40Z,filegoblin,1.15.0,,MIT,124880604,"Converts PDFs, Office documents, web pages and more into clean Markdown for LLMs"
+2026-10-17T04:47:04Z,cryptonly-x402,0.1.0,Cryptonly <noreply@cryptonly.net>,MIT,7022,Cryptonly facilitator client for the x402 payment protocol.
+2026-10-17T04:49:19Z,krabby-data-collection,0.1.1,Your Name <your.email@example.com>,Apache-2.0,11719,HAL data collector: rosbag2 (mcap) from HalClient observations
+2026-10-17T04:51:53Z,shake-movie,2026.10.1,ucgmsim,MIT,261134,Public-facing earthquake videos from SW4 ground-motion simulations
+2026-10-17T04:55:35Z,model-d,0.4.0,Devieswar Kancheti,Apache-2.0,147836,A shared workspace memory a team's AI agents ask first and teach back: fewer model requests at the same accuracy.
+2026-10-17T04:56:16Z,magpy-lite,0.1.0,John McMeen <johnmcmeen@gmail.com>,MIT,44392,Terminal interface for the bioamla bioacoustics toolkit
+2026-10-17T04:59:02Z,annoray,0.0.1rc0,"""Sunip K. Mukherjee"" <sunipkmukherjee@gmail.com>",MIT OR Apache-2.0,27897499,"Annotated arrays: labelled, units-aware N-dimensional arrays with netCDF and HDF5 I/O, in Rust"
+2026-10-17T05:05:34Z,ehr2trace,0.7.0,Xinye Yang <xinye_yang@alumni.brown.edu>,Apache-2.0,718189,Deterministic local EHR (txt/xlsx) -> OMOP CDM 5.4 + MEDS converter with row-level lineage
+2026-10-17T05:05:48Z,commentail,0.1.0,,MIT,1612660,"Self-hosted Wagtail comments with moderation, verified guests and threaded replies"
+2026-10-17T05:13:01Z,generesearcher,0.1.0,,BSD-2-Clause,228728,Gene-centered biomedical literature retrieval and analysis pipeline
+2026-10-17T05:16:59Z,peerlace,0.1.0,,LicenseRef-Proprietary,7369,"Python SDK for Peerlace, the matchmaking network for AI agents"
