@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-16T23:18:45Z,openfactsheet,0.1.0a1,"Andrés A. Bagnasco, OpenFactsheet contributors",Apache-2.0,3857596,"Standardized, transparent investment performance analytics without metric cherry-picking."
+2026-10-16T23:20:09Z,cocoindex-plus,0.0.0.dev0,CocoIndex <cocoindex.io@gmail.com>,,2692,Placeholder that installs nothing: CocoIndex Plus is published only to its own package index.
+2026-10-16T23:22:43Z,vtk-demo,0.1.1,Sebastien Jourdain <sebastien.jourdain@kitware.com>,Apache-2.0,115485,Fancy VTK / PyVista scenes and demo applications that show off VTK capabilities and performance
+2026-10-16T23:26:42Z,hamkit-aprs,0.0.1a1,Adam Fourney <adam.fourney@gmail.com>,MIT,6824,Scaffolding for future APRS packet parsing and composition.
+2026-10-16T23:26:47Z,offline-sync-sdk,0.2.0,VivekReddy10-08-2004,MIT,107199,Embeddable synchronization pipelines with pluggable storage and transports
+2026-10-16T23:27:25Z,beam-verifier,0.1.0rc1,,Apache-2.0,322334,Basic eval library: reproduce benchmark scores and verify endpoint behavior against any OpenAI-compatible endpoint.
+2026-10-16T23:28:24Z,hobkin,0.1.0,Frank Lynam,MIT,65411,"Unattended AI agents you run, talk to and inspect through plain files: one process each, no ports, one stdlib-only file."
+2026-10-16T23:29:30Z,mosaic-behavior,0.17.0,"Jacob Davidson, Paul Nuehrenberg",AGPL-3.0-or-later,3663824,"Mosaic — behavior analysis toolkit for animal tracking, feature extraction, and modeling."
+2026-10-16T23:30:16Z,aldwin,0.0.1.dev0,Folarin Akinloye <me@folarin.dev>,MIT,158477,"An open-source personal assistant that runs on your own computer, built on Agentling."
+2026-10-16T23:30:45Z,langchain-recruitmcp,0.1.0,RecruitMCP,MIT,11439,LangChain integration for RecruitMCP: load RecruitMCP's MCP tools as LangChain tools.
+2026-10-16T23:33:39Z,msgspec-fastapi,0.0.1,Aleksandr Tseluiko,BSD-3-Clause,27062,Experimental FastAPI router that decodes request bodies and encodes responses with msgspec
+2026-10-16T23:34:23Z,torchpass,0.0.0,,,2112,Name-reservation placeholder only; not the Clockwork TorchPass distribution.
+2026-10-16T23:35:31Z,openai-translate,1.0.2,Ahmed Negm,MIT,10584,"Translate via OpenAI ChatGPT Translate with requests, no login or API key"
+2026-10-16T23:36:25Z,scictl,0.0.1,Purna Doddapaneni,MIT,15314,Sciforium command-line interface tool
+2026-10-16T23:36:33Z,sysml-windtrader,0.2.1,Westfall-io,"MIT License Copyright (c) 2026 chriscox-westfall Permission is hereby granted, free of charge, to a…",38897,Python wrapper around windtrader-java for SysML v2 parse-only validation.
+2026-10-16T23:37:44Z,rea-mcp,0.1.3,rea-mcp contributors,MIT,224582,"rea-mcp - reverse engineer anything from your terminal or agent, with one CLI and MCP server."
+2026-10-16T23:41:54Z,totedb,0.1.0,woonyong-choi,MIT,2126291,Embedded SQL database with a job queue that commits in the same transaction (Transactional Outbox Table Engine)
+2026-10-16T23:42:14Z,ranch-network-wrangler,0.0.1,,Apache-2.0,91586,A Python package for making travel model networks
+2026-10-16T23:42:17Z,brandgen,2.0.0,,Apache-2.0,53108,Generate every distribution variant of a brand's marks
+2026-10-16T23:43:18Z,canot,0.1.0,Vincent Fraillon,Apache-2.0,575175,"Prouvez que vous pouvez partir : exercice de sortie Snowflake/Databricks vers Apache Iceberg, avec dossier de preuve."
+2026-10-16T23:43:58Z,office-translate,0.2.0,Hamid Mergan,MIT,51725,"Translate DOCX, PPTX and Markdown files with any OpenAI-compatible model while keeping the formatting, with glossary support"
+2026-10-16T23:45:15Z,schedule-bit,0.1.0,Ontology.io,MIT,70309,"Python SDK for the schedule-bit API: read and write time as bitmasks, with retries, rate limits and live watches handled."
+2026-10-16T23:47:01Z,nwaves-leader,0.1.1,NWaves,Proprietary,12090,NWaves leader bridge: drive the NWaves SO-101 simulation with the leader arm plugged into your computer
+2026-10-16T23:47:19Z,codetherapy,0.1.0,Rapideo,MIT,87029,"Talk to your Claude Code projects — by voice, from the Claude app — about how they're doing."
+2026-10-16T23:49:27Z,statute,0.1.18,,Apache-2.0,15318387,Compile a constitution and chosen rules into the instruction files coding agents read.
+2026-10-16T23:50:24Z,pyplines-installer,2026.10.3rc1,,,32294,Install and diagnose supported Pyplines server and runner deployments
+2026-10-16T23:52:13Z,ratchet-ci,0.1.0,Ratchet contributors,Apache-2.0,1563775,"Regression CI for self-improving agents: replay blessed tasks against every skill edit, judge with a Nemotron cascade, block what breaks."
+2026-10-17T00:01:05Z,epochize,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,9641,Annotate or replace Unix timestamps (s/ms/us/ns) in logs and text with readable dates. Stdlib only.
+2026-10-17T00:02:53Z,langchain-s1,0.1.0,,MIT,3856,A langchain wrapper for s1 decisions
+2026-10-17T00:03:47Z,pycip4,0.1.1,Ramiro Ramirez Garcia <ramiro.ramirez.garcia85@gmail.com>,Apache-2.0,85752,"A modern, high-performance Python library for CIP4 JDF, XJDF, JMF and PrintTalk print-workflow automation."
+2026-10-17T00:04:33Z,agent-lease-mcp,0.2.0,Michal Bugy <michalbugy12@gmail.com>,MIT,313527,"Keep Claude Code and Codex from overwriting each other's work: hook-enforced path leases, presence and a shared message log over MCP."
+2026-10-17T00:09:22Z,llmpro,0.0.1,"Yantrakar, Sandeep Shelke",MIT,4225,"Keep your AI tools' skills, memory and history in one place, and keep secrets and the wrong git identity out of them. Not released yet."
+2026-10-17T00:09:39Z,ccdirectives,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,67499,"Parse, validate and build HTTP Cache-Control and CDN-Cache-Control, and decide freshness, typed and zero-dependency"
+2026-10-17T00:09:55Z,etag,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,30438,"Create, parse and compare HTTP entity-tags and evaluate conditional requests per RFC 9110"
+2026-10-17T00:10:12Z,httprange,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,64623,"Parse and build HTTP Range and Content-Range headers (RFC 9110), zero dependencies, fully typed"
+2026-10-17T00:10:27Z,retryheader,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,59055,"Parse and build HTTP Retry-After, HTTP-date, RateLimit and RateLimit-Policy headers, zero dependencies and typed"
+2026-10-17T00:12:01Z,abtestify,0.3.0,Pranav Agarwal <p2012agarwal@gmail.com>,MIT,9720,"Deterministic A/B test bucketing with per-experiment hashing, exposure and split control; identical assignments to the abtestify npm package"
+2026-10-17T00:13:02Z,spikart,0.1.0,spikart contributors,MIT,39098,Spiking Neural Network research library using Adaptive Resonance Theory and DPP slot allocation
+2026-10-17T00:15:19Z,document-chunker,0.1.0,Hamid Mergan,MIT,24333,"Split PDF, DOCX, PPTX, TXT and Markdown into clean text chunks for RAG"
+2026-10-17T00:15:22Z,doc-extract-llm,0.1.0,Hamid Mergan,MIT,27255,"Extract text as Markdown from scans, images and PDFs with a vision model"
+2026-10-17T00:15:23Z,mpris-rpc,0.1.0,Zuzanna,,29405,Discord rich presence for any app using mpris2
+2026-10-17T00:17:33Z,khaled-dsml,0.1.0,Khaled Ali <ali-khaled@univ-eloued.dz>,MIT,62896,"Educational data science, machine learning and big-data analysis toolkit with Arabic interpretations"

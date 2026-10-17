@@ -1,37 +1,31 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-10-16T22:19:51.852174Z",
-    "path": "data/new-packages-2026-10-16T23-19-09-939379Z.csv",
-    "to": "2026-10-16T23:19:09.939379Z"
+    "count": 42,
+    "from": "2026-10-16T23:19:09.939379Z",
+    "path": "data/new-packages-2026-10-17T00-18-48-46381Z.csv",
+    "to": "2026-10-17T00:18:48.46381Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-16T20:27:59Z",
       "package": "bin-dec-conversions",
       "since": "2026-10-16T20:18:37.405456Z"
     },
     {
-      "attempts": 1,
-      "created_at": "2026-10-16T23:18:45Z",
-      "package": "openfactsheet",
-      "since": "2026-10-16T22:19:51.852174Z"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-16T22:02:00Z",
       "package": "polestar-api",
       "since": "2026-10-16T21:18:40.490994Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-16T20:19:06Z",
       "package": "sugarai-erp-connector-prophet21",
       "since": "2026-10-16T20:18:37.405456Z"
     }
   ],
-  "serial": 42343575,
+  "serial": 42344882,
   "source_truncated": false,
-  "window": "2026-10-16T23:19:09.939379Z"
+  "window": "2026-10-17T00:18:48.46381Z"
 }
