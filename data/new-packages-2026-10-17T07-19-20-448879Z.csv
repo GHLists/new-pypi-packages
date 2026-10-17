@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-17T06:20:51Z,ayna,0.1.0,Aslan Satary Dizaji,Apache-2.0,95883,"Know whether your inferred neural dynamics are real, before you interpret them. Diagnoses underfitting, feature invention and dynamical misattribution in data-driven dynamics models."
+2026-10-17T06:21:34Z,healthy-guard,0.1.1,CrazyXXi,MIT,384356,Audit de gouvernance et d'éthique pour chatbots de santé
+2026-10-17T06:26:15Z,provably-fast,1.0.0,provably.fast,Apache-2.0,10939,"Another name for pvfast, the command line for provably.fast."
+2026-10-17T06:27:17Z,p2e-2t,2.0.0,P2E-2T contributors,MIT,39034,P2E-2T: explain Python code in understandable English
+2026-10-17T06:28:02Z,arc-engineering-mcp,0.2.1,,MIT,1994766,100 AI skills for systems and hardware engineers with local MCP file tools
+2026-10-17T06:30:16Z,tmailor-sdk,0.1.0,Tmailor,MIT,163483,Python SDK for the Tmailor Open API: create temporary email addresses and read incoming messages.
+2026-10-17T06:32:43Z,sessionintent,0.4.3,,MIT,143098,A declarative session orchestration system for GNOME Wayland
+2026-10-17T06:33:12Z,traceguard-mcp,0.1.0,TraceGuard Contributors,MIT,10110,TraceGuard MCP Server — 让任何 MCP 客户端（Claude Desktop / Cursor / OpenCode）在工具执行前先问一句是否允许
+2026-10-17T06:34:49Z,monosmith,1.0.0,,MIT,31833645,"Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases"
+2026-10-17T06:34:54Z,qca-compiler,0.1.0,11-qlab,Apache-2.0,13010,Compile QCA circuits to Qiskit using native Rz/Rx/CZ gates
+2026-10-17T06:40:54Z,trainstream,0.1.0,John Anish G,Apache-2.0,60546,"Zero-dependency PCIe offloading engine for PyTorch training (optimizer, gradients, activations)."
+2026-10-17T06:42:19Z,warp-language,1.3.0,,LicenseRef-Proprietary,44516830,"Warp: a data notation that is also a programming language, compiled to WebAssembly GC"
+2026-10-17T06:43:21Z,nocto-mcp,0.3.6,NeoSage,Proprietary,38813,"Nocto, the teaching assistant for the Engineer's AI Accelerator, as an MCP server for your AI assistant."
+2026-10-17T06:50:12Z,magli,0.3.0,David Ávila Cortés,GPL-3.0-or-later,110871,magli (Modelo Aditivo Generalizado Lineal) — Modern Pythonic Generalized Additive Models (GAMs) with Eilers-Marx (1996) and Wood (2011) backends
+2026-10-17T06:51:34Z,arc-free-skills,1.0.0,Arc,MIT,1981089,100 AI skills for systems and hardware engineers with local MCP file tools
+2026-10-17T06:55:13Z,accim-samples,0.8.0,Daniel Sánchez-García,GPL-3.0-or-later,22389060,"Sample files for accim: Jupyter notebooks, IDFs, EPWs, CSVs, figures and scripts"
+2026-10-17T07:03:01Z,astrix-code,1.1.0,Astrix AI Team,MIT,135528,Local-First AST & Compiler-Backed Deterministic AI Code Infrastructure (Supported by NVIDIA Inception)
+2026-10-17T07:10:23Z,pricewright,0.0.2,Thor Whalen,MIT,250520,"Price services and products from a model of their costs and effort, with travel, rate-card consistency checks and market comparables"
+2026-10-17T07:11:40Z,nolo-apps,2.0.0,,,22351,"macOS terminal manager for installing, removing, and auditing Antigravity IDE and CLI."
+2026-10-17T07:16:51Z,browser-use-turnstile,0.1.0,Peak,MIT,17665,"A browser-use action that solves Cloudflare Turnstile via the Peak API: reads the sitekey, solves it, puts the token back in the page."
+2026-10-17T07:19:12Z,fastmcp-seaworthy,0.1.0,Stephan Eberle <stephaneberle9@gmail.com>,Apache-2.0,326246,"Production building blocks for FastMCP servers: serve one server under several public hostnames, each a full OAuth identity, and keep the OAuth proxy's state across restarts and secret rotations."

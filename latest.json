@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-10-17T05:18:28.140203Z",
-    "path": "data/new-packages-2026-10-17T06-18-43-276084Z.csv",
-    "to": "2026-10-17T06:18:43.276084Z"
+    "count": 21,
+    "from": "2026-10-17T06:18:43.276084Z",
+    "path": "data/new-packages-2026-10-17T07-19-20-448879Z.csv",
+    "to": "2026-10-17T07:19:20.448879Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-17T03:08:44Z",
-      "package": "xiaolong-duyi-utils",
-      "since": "2026-10-17T02:20:56.867999Z"
+      "attempts": 1,
+      "created_at": "2026-10-17T07:19:10Z",
+      "package": "moraine3d",
+      "since": "2026-10-17T06:18:43.276084Z"
     }
   ],
-  "serial": 42352078,
+  "serial": 42353096,
   "source_truncated": false,
-  "window": "2026-10-17T06:18:43.276084Z"
+  "window": "2026-10-17T07:19:20.448879Z"
 }
