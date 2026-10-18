@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T21:20:06Z,colombia-open,0.3.0,David Castro <david.castroruiz@gmail.com>,MIT,93182,"Datasets públicos de Colombia, curados, normalizados y validados — sin lidiar con los portales/APIs/Excel de cada institución oficial."
+2026-10-18T21:20:57Z,agentpdf,0.1.0,Manuel Stocker,MIT,65157,"Convert large PDF documents into small, searchable files for AI coding agents"
+2026-10-18T21:21:05Z,oraql,0.1.0,The oraql-stack Authors,Apache-2.0,11280,"The oraql neutral-atom stack in one install: contracts, atom physics, native compiler, QEC, PPVM backend and research runner"
+2026-10-18T21:21:06Z,oraql-atoms,0.1.0,The oraql-stack Authors,Apache-2.0,70841,Neutral-atom device profiles (L1) and pulse-level noise models with Pauli twirling (L2)
+2026-10-18T21:21:08Z,oraql-contracts,0.1.0,The oraql-stack Authors,Apache-2.0,84939,"JSON Schema contracts between the layers of the oraql neutral-atom stack: schemas, examples, validation"
+2026-10-18T21:21:52Z,shi-saash,0.3.0,,Proprietary,1357028,"SHI (SaaS H Intelligence) : diagnostic d'incidents logiciels en conseil seulement, avec masquage des secrets, preuves et journal d'audit."
+2026-10-18T21:26:23Z,evidome,1.0,"""Kenneth L. Jones"" <Ken.Jones@bioinformaticsolutions.com>",AGPL-3.0-only,471592,Cross-species functional evidence reports for pathway and upstream-regulator analysis
+2026-10-18T21:27:46Z,fourtune,0.0.1,Bowen Xue <kbrask@ustc.edu>,Apache-2.0,3300,"FourTune: fully 4-bit LoRA training and inference for diffusion models (placeholder, release coming soon)"
+2026-10-18T21:29:48Z,skillgram,1.2.1,Xhuk,MIT,109340,"Skill management for AI agents: one SKILL.md library (a skill hub and registry) linked into Claude Code, Codex, Cursor, Hermes, Reasonix and any harness that reads skills. No copies, no drift."
+2026-10-18T21:30:26Z,pocket-python,0.1.0,ellainng,MIT,28390,Auditable Python runtime assets and offline MicroPython application bundles
+2026-10-18T21:30:50Z,juiz-cli,0.0.16,ysuga <ysuga@ysuga.net>,MIT OR Apache-2.0,33674535,JUIZ robot middleware: the juiz command for Python users (no Rust toolchain needed)
+2026-10-18T21:31:52Z,vhotseat,0.1.0,wandermyz,MIT,200482,"Take turns on one GPU: hand it between a local LLM (e.g. Strata, driven by an agent like pi), ComfyUI and any other workload, never interrupting running work."
+2026-10-18T21:32:23Z,rocket-aymen,1.0.0,<author_name>,LICENSE.txt,5658,An awesome package that does something
+2026-10-18T21:39:09Z,straplog,0.2.0,Richard Sprague,MIT,135853,Read StrapLog exports (Polar H10 RR intervals in SQLite) and compute HRV: library and CLI.
+2026-10-18T21:39:59Z,qbt-kit,0.1.1,mt,MIT,101687,"Spec-driven client, 1:1 CLI and MCP server for the qBittorrent WebUI API"
+2026-10-18T21:40:35Z,calper,0.1.0,ivanyha <ivan.victorowitch@gmail.com>,MIT,6372,"Проценты: прямые и обратные задачи (add, subtract, find_part, find_rate, find_whole, percent_diff)"
+2026-10-18T21:42:13Z,pagesequence,2.0.0rc2,Lasse Hellman,MIT,28280,Map the pages of a document (like a PDF) to the labels printed on them.
+2026-10-18T21:43:07Z,kintsua,0.1.0,Himanshu Raj <himanshuraj.tn@gmail.com>,Apache-2.0,775821,"Self-maintaining integrations for AI agents: watch every external API and MCP tool your agent depends on, detect breaking changes upstream, and open a tested fix PR."
+2026-10-18T21:46:24Z,seds-rocket-lab3-alifiche20,1.0.0,,,5427,"Rocket, Shuttle and CircleRocket classes for SEDS Lab 03"
+2026-10-18T21:50:05Z,loopcut,0.1.0,,GPL-3.0-or-later,162763,"Loopcut's cloud tools for Claude Code, Codex and other agents: render .blend files on cloud GPUs, search free assets, make 3D models, sound effects and voice lines, billed to your Loopcut credits."
+2026-10-18T21:50:32Z,go2rtc-mcp,0.1.1,Armen,MIT,34741,Production-grade Model Context Protocol (MCP) server for go2rtc streaming servers
+2026-10-18T21:52:12Z,fly-hour-timer,1.1.5,fly,MIT,14948,A timezone-free Python time library: represents time as <hour>.<min_sec>
+2026-10-18T21:53:14Z,jaxknn,0.1.0,Nathaniel Starkman <nstarman@users.noreply.github.com>,MIT,134837,"Exact k-nearest neighbours in JAX: a kd-tree that traces under jit, vmap and grad."
+2026-10-18T21:57:07Z,pytest-rowsmith,0.1.0,meiorz,MIT,37893,"pytest fixture for reproducible fake test data (CSV, JSON, SQL) from the free Rowsmith API, cached for offline runs."
+2026-10-18T21:59:15Z,pocketnet,0.1.0,"Stalin Arulsamy, Kiruthiga Natarajan",MIT,38549585,"Ligand-binding pocket prediction from protein structures with a message-passing / attention-pooling network (five-model ensemble, weights included)."
+2026-10-18T22:02:28Z,lakewave-mcp,1.0.1,"""Lakewave.ai"" <support@lakewave.ai>",MIT,15069,"Lakewave MCP server: verified people at named accounts, email verdicts, public-sector contract signals and drafted campaigns as tools for agents."
+2026-10-18T22:03:23Z,url-unwrap,0.1.1,Jan Heinrich Merker <heinrich.merker@uni-jena.de>,MIT,16352,Unwrap redirect links and remove tracking parameters with the ClearURLs rules.
+2026-10-18T22:04:16Z,theme-forge-solar-sail,0.2.1,,AGPL-3.0-or-later,842535,Python adapter for the frozen Theme Forge Node CLI
+2026-10-18T22:04:16Z,theme-forge-stellar-loom,0.4.0,,AGPL-3.0-or-later,2035908,Python adapter for the frozen Theme Forge Node CLI
+2026-10-18T22:04:21Z,theme-forge-stellar-burst,0.6.1,,AGPL-3.0-or-later AND MIT AND BSD-3-Clause,6012032,Python adapter for the frozen Theme Forge Node CLI
+2026-10-18T22:05:43Z,gh-inference,0.5.0,Tanish Chauhan,MIT,120120,Tiny agents and quantized AI inference running entirely on GitHub Actions
+2026-10-18T22:07:25Z,uarp-sdk,0.12.0,Snaga,MIT,1159626,Python client for the UARP (Snaga) Universal Agent Runtime Platform API
+2026-10-18T22:09:31Z,opencorp,0.0.1,,,577817,"OpenCorp office: daemon, run workers, sandbox, permissions."
+2026-10-18T22:12:24Z,agent-as-model,0.1.1,Fernando Garza,MIT,15915,A true MCP server where the agent is the model and the API key.
+2026-10-18T22:12:53Z,mcp-pastebin,0.1.0,Carter <carter@cartercole.com>,MIT,11360,MCP server for the Pastebin API
+2026-10-18T22:16:14Z,oraql-lab,0.1.0,The oraql-stack Authors,Apache-2.0,108800,"Research runner for the oraql neutral-atom stack: bring your own CZ pulses and codes, sweep them with sinter, sample with PPVM"
+2026-10-18T22:16:16Z,oraql-qec,0.1.0,The oraql-stack Authors,Apache-2.0,59546,"Stim-framed QEC memory experiments (L4, L5): codes, gadgets, detectors, decoders"
+2026-10-18T22:16:22Z,oraql-ppvm,0.1.0,The oraql-stack Authors,Apache-2.0,48171,Lowering of oraql NativePrograms to the PPVM Pauli-propagation simulator
+2026-10-18T22:17:17Z,positronic-platform-client,0.37.1,,Apache-2.0,222727,Typed wire contract and HTTP client for the Positronic evaluation platform API

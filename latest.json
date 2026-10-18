@@ -1,43 +1,37 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-18T20:22:12.544402Z",
-    "path": "data/new-packages-2026-10-18T21-18-55-48276Z.csv",
-    "to": "2026-10-18T21:18:55.48276Z"
+    "count": 39,
+    "from": "2026-10-18T21:18:55.48276Z",
+    "path": "data/new-packages-2026-10-18T22-19-33-264276Z.csv",
+    "to": "2026-10-18T22:19:33.264276Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-18T18:26:57Z",
       "package": "Hack4U-Library-Project",
       "since": "2026-10-18T18:18:28.621444Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-18T20:44:21Z",
       "package": "decodetick-mcp",
       "since": "2026-10-18T20:22:12.544402Z"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-18T20:05:02Z",
       "package": "google-keep-mcp-github",
       "since": "2026-10-18T19:19:48.02743Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-18T20:25:08Z",
       "package": "perata",
       "since": "2026-10-18T20:22:12.544402Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-18T17:47:16Z",
-      "package": "proteworks-cli",
-      "since": "2026-10-18T17:20:15.957641Z"
     }
   ],
-  "serial": 42412214,
+  "serial": 42413846,
   "source_truncated": false,
-  "window": "2026-10-18T21:18:55.48276Z"
+  "window": "2026-10-18T22:19:33.264276Z"
 }
