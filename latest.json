@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 20,
-    "from": "2026-10-18T04:18:28.869146Z",
-    "path": "data/new-packages-2026-10-18T05-18-28-967215Z.csv",
-    "to": "2026-10-18T05:18:28.967215Z"
+    "count": 21,
+    "from": "2026-10-18T05:18:28.967215Z",
+    "path": "data/new-packages-2026-10-18T06-18-24-996938Z.csv",
+    "to": "2026-10-18T06:18:24.996938Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-18T04:41:07Z",
       "package": "agenote",
       "since": "2026-10-18T04:18:28.869146Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-18T03:14:59Z",
       "package": "cdk-udp-gateway",
       "since": "2026-10-18T02:18:45.206239Z"
     }
   ],
-  "serial": 42387094,
+  "serial": 42388355,
   "source_truncated": false,
-  "window": "2026-10-18T05:18:28.967215Z"
+  "window": "2026-10-18T06:18:24.996938Z"
 }

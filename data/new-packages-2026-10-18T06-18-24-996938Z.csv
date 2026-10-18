@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T05:20:40Z,securescope,2.0.1,Mohamed Moataz,"MIT License Copyright (c) 2026 Mohamed Moataz Permission is hereby granted, free of charge, to any…",140156,"Web security posture scanner with evidence-backed findings, grades, and SARIF/JSON/HTML/Markdown reports for CI."
+2026-10-18T05:21:40Z,deadcode-hunter,0.4.0,,MIT,148943,"Find dead code in Python, Java and TypeScript projects — and prove it's safe to delete."
+2026-10-18T05:22:53Z,kernel-port-agent,1.0.0,,MIT,558339,"Agent-callable toolchain: mine pure-compute kernels from Java repos, extract them with purity proofs, generate JNI glue, and verify + benchmark C++ translations."
+2026-10-18T05:26:20Z,chevron-ng,0.15.0,Noah Morrison,MIT,32241,Mustache templating language renderer
+2026-10-18T05:27:37Z,html5lib-free-threaded,1.1.2,sunyiyao <sunwh1102@qq.com>,MIT,390028,A C-accelerated html5lib fork with auto-fallback and free-threading support for Python 3.15t.
+2026-10-18T05:28:14Z,keel-mcp-ingress,0.1.0,,,6588,Thin MCP stdio protocol ingress into Keel managed MCP execution
+2026-10-18T05:30:52Z,sshvault,0.1.0,Peng Ding <pding.dp@foxmail.com>,MIT,43725,Back up and restore SSH keys and SSH config files with Bitwarden
+2026-10-18T05:33:23Z,open-source-repository-sampler,0.1.0,Daniel Sagenschneider,Apache-2.0,94521,"Reproducible, seeded, stratified sampling of open-source GitHub repositories for empirical software engineering studies, each repository pinned to the commit that met the criteria."
+2026-10-18T05:39:36Z,riskgate,1.0.0rc3,Saurabh Gupta <saurabhgupta3012@gmail.com>,Apache-2.0,215887,"Certify, reject or ask: distribution-free risk control for the actions of LLM agents"
+2026-10-18T05:55:37Z,dyno-lab,0.3.0,Cason Konzer <casonk@umich.edu>,MIT,71991,"Portfolio-wide test bench utilities: fixtures, mocks, assertions, and smoke scaffolding."
+2026-10-18T05:55:45Z,archility,0.1.1,Cason Konzer <casonk@umich.edu>,MIT,98447,Architecture inventory and blueprint audit helpers for portfolio repositories.
+2026-10-18T06:03:35Z,quorus-ai,0.5.0,Aarya,MIT,1471436,"Real-time coordination layer for AI agent swarms — rooms, messaging, distributed locks"
+2026-10-18T06:06:34Z,kitsune-browser-mcp,0.1.0,junyeong-nero,MIT,121521,MCP server that lets AI agents drive your running Firefox or Zen browser through an extension.
+2026-10-18T06:08:34Z,mcpad,0.1.0,Matteo Redaelli,GPL-3.0-or-later,18761,A FastMCP server exposing the msad Active Directory / LDAP library
+2026-10-18T06:11:14Z,agentscan-si,0.1.0,Mayur Sonawane <mayurs1690@gmail.com>,MIT,33917,Security scanner for AI agents and MCP server configurations
+2026-10-18T06:11:26Z,tezz-auth,1.0.0,"""TezzCorp Pvt. Ltd."" <dev@tezzcorp.com>",MIT,14026,Official Python SDK for Tezz Auth
+2026-10-18T06:13:28Z,nordility,0.1.0,Cason Konzer <casonk@umich.edu>,MIT,85169,Simple NordVPN automation helpers extracted from citegres.
+2026-10-18T06:14:09Z,crew-chief,0.1.0,Cason Konzer <casonk@umich.edu>,MIT,117816,Local Ollama LLM service and Python client for portfolio-wide trivial inference tasks.
+2026-10-18T06:14:14Z,tachometer,0.1.0,Cason Konzer <casonk@umich.edu>,MIT,141634,Shared repo and resource profiling helpers for portfolio repos.
+2026-10-18T06:14:53Z,bit-byte-block,0.1.1,Cason Konzer <casonk@umich.edu>,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",39641,Local Bitcoin Stratum proxy and upstream status tooling for solo.ckpool.org.
+2026-10-18T06:15:06Z,DefStream,0.1.2,Heo Yongseon,,215176,Synchronous message processing with pluggable broker adapters
