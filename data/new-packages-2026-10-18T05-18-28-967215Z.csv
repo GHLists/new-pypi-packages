@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T04:19:35Z,harnis,1.0.0,Ahmad Karawash,Apache-2.0,372682,"Harnis: an open-source, multi-tenant agent harness for companies: coding agents, multi-agent workflows and stateful apps with approvals, sandboxing and tenant isolation."
+2026-10-18T04:24:14Z,pretix-venuemap,0.2.0,ET15 <37038563+et15@users.noreply.github.com>,Apache-2.0,24362,Shows a map of the event location using the tile server
+2026-10-18T04:27:17Z,pretix-participantlist,0.2.0,JDAV Hessen,Apache-2.0,74220,Exports attendees as customizable participant lists (PDF and CSV)
+2026-10-18T04:28:13Z,rdq,0.3.0,,Apache-2.0,301986,Quality and provenance checks for robot-learning datasets (LeRobot format)
+2026-10-18T04:31:44Z,wisp-vpn,0.1.0,"dosquisd <pereznjuandiego@gmail.com>, SantiagoQP31 <santiagoqp3103@gmail.com>",MIT,248951,Wisp — ephemeral WireGuard VPNs on your own cloud
+2026-10-18T04:36:37Z,logoxide,0.1.0,,CC0-1.0,113768937,"Bibles, commentaries, lexicons, and books as versioned packages, with topos's Bible references"
+2026-10-18T04:38:31Z,aio-rfcomm,1.0.0,David Lechner,MIT,247288,"Cross-platform asyncio RFCOMM (Bluetooth Classic serial port) for Linux, macOS and Windows"
+2026-10-18T04:41:15Z,uplinkswitch,0.1.0,Uplink Switch LLC <hello@uplinkswitch.com>,MIT,7160,"One API key for Claude, GPT, Gemini, DeepSeek and 80+ models, through the OpenAI and Anthropic SDKs."
+2026-10-18T04:42:08Z,sevenmlabs-astrology,1.0.0,,AGPL-3.0-only,5216938,"7mlabs Astro SDK: offline astrology calculations, IANA birth-time conversion and modular SVG charts"
+2026-10-18T04:42:47Z,printsection,0.1.0,,MIT,7809,출력 구간을 나누는 위아래 빈 줄 + 가운데 정렬 구분선 (한글 폭 자동 보정)
+2026-10-18T04:43:57Z,personal-finance-mcp-sanketk,0.1.2,,MIT,7194746,An MCP server for personal finance analysis- Sanket Kadam
+2026-10-18T04:45:14Z,rulestamp-stema-kisei-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36324,記事1本を12ルールで検査し、広告表記の欠落と不明瞭表示を行番号で出す VS Code 拡張 (bundled Node.js runtime)
+2026-10-18T04:45:55Z,headpat-gif,0.1.0,NotKeKe <149957866+NotKeKe@users.noreply.github.com>,MIT,88825,"Generate ""pet-pet"" GIFs: a hand pats the head of any image while the subject squashes and springs back. Returns an object you can hand straight to discord.py."
+2026-10-18T04:50:21Z,ordena-cli,0.1.0,Juan Diego Mahecha Martinez,MIT,88951,"Tidy your Downloads folder safely: dry run by default, never overwrites, every run can be undone."
+2026-10-18T04:53:29Z,swarm-arena,0.0.0a1,Shreyas Vinaya,MIT,4158,Placeholder: reserves the name for an upcoming open-source agent-swarm library. Not usable yet.
+2026-10-18T05:00:28Z,doorplate,0.1.0,Jeremey Bingham <38598572+jeremeybingham@users.noreply.github.com>,MIT OR Apache-2.0,9384422,"Parse US addresses into components; USPS Publication 28 and RESO output, a match key and a slug. Does not validate deliverability."
+2026-10-18T05:03:17Z,harspec,0.1.0,Ayush Pandey,MIT,52931,Turn a browser HAR capture into an OpenAPI spec and typed TypeScript/Python clients. Zero dependencies.
+2026-10-18T05:13:02Z,litestar-faststream,0.1.0,Hasan Sezer Taşan <hasansezertasan@gmail.com>,MIT,141572,Litestar integration for FastStream message brokers
+2026-10-18T05:16:46Z,tgcrypto-gmanka,1.2.8,wulan17,LGPLv3+,39010,Fast and Portable Cryptography Extension Library for Pyrofork
+2026-10-18T05:17:11Z,platmon-hub,1.1.1,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",578614,Read-only fleet monitoring for independent platmon agents
