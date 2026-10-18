@@ -8,47 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 23:18 UTC
+## Latest list — 2026-10-18 00:18 UTC
 
-New packages created between 2026-10-17 22:18 UTC and 2026-10-17 23:18 UTC.
+New packages created between 2026-10-17 23:18 UTC and 2026-10-18 00:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-17T23-18-24-658227Z.csv)
+[Full CSV](data/new-packages-2026-10-18T00-18-45-841455Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-17 22:19:56 | [lighthive](https://pypi.org/project/lighthive/) | 0.4.4 | emrebeylerhive | 34.2 kB | A light python client to interact with the HIVE blockchain |
-| 2026-10-17 22:24:04 | [transmitter](https://pypi.org/project/transmitter/) | 0.2.12 | emrebeylerhive | 19.3 kB | HIVE Witness updates made easy. |
-| 2026-10-17 22:29:00 | [reactjs-clean-gen](https://pypi.org/project/reactjs-clean-gen/) | 0.4.0 | Maher Ben Abdessalem <ba.mahe… | 129.7 kB | Generate production-grade NestJS Clean Architecture & DDD modules from YAML. |
-| 2026-10-17 22:29:06 | [withlore](https://pypi.org/project/withlore/) | 0.2.0a15 | "Lore AI Labs, Inc." <hi@lore… | 515.8 kB | Python SDK for Lore. |
-| 2026-10-17 22:29:11 | [llmledger-mcp](https://pypi.org/project/llmledger-mcp/) | 0.1.1 |  | 632.9 kB | Which AI model, and what it costs: LiteLLM prices, Arena ratings and price hist… |
-| 2026-10-17 22:29:15 | [esgo](https://pypi.org/project/esgo/) | 0.1.0 | ESGO Logistics UG (haftungsbe… | 70.8 kB | Official Python SDK for the ESGO API (empty-run matching for road freight) |
-| 2026-10-17 22:29:37 | [arena-bridge](https://pypi.org/project/arena-bridge/) | 0.6.2 |  | 119.7 kB | Give a cloud AI agent (Arena.ai Agent Mode, Claude, Cursor, ...) controlled acc… |
-| 2026-10-17 22:31:47 | [gutcheck](https://pypi.org/project/gutcheck/) | 0.1.0 | Phill Clapham | 421.3 kB | A poker reading trainer: commit your read, then see the real equity. |
-| 2026-10-17 22:34:49 | [recto](https://pypi.org/project/recto/) | 0.1.1 | Thibault Djaballah | 62.7 kB | Learn things by heart with flashcards in the terminal |
-| 2026-10-17 22:34:51 | [verisec](https://pypi.org/project/verisec/) | 1.0.0 | VeriSec Labs | 172.5 kB | The official Python library for the VeriSec API: identity (KYC) and Financial c… |
-| 2026-10-17 22:35:49 | [arc-connect](https://pypi.org/project/arc-connect/) | 0.1.0 | Arc | 73.6 kB | Deterministic Git-to-Arc Item links using literal source markers |
-| 2026-10-17 22:36:27 | [raven-hydro-meta-marl](https://pypi.org/project/raven-hydro-meta-marl/) | 0.1.1 |  | 33.8 MB | Python distribution for the Raven hydrological modeling framework |
-| 2026-10-17 22:51:13 | [tree-sitter-macaulay2](https://pypi.org/project/tree-sitter-macaulay2/) | 6.3.1 | Alexander Golys <alexandergol… | 271.8 kB | Macaulay2 grammar for tree-sitter |
-| 2026-10-17 22:52:58 | [overturn](https://pypi.org/project/overturn/) | 0.1.1 | Overturn contributors | 94.7 kB | Overturn SDK: record agent runs, turn human corrections into regression cases,… |
-| 2026-10-17 22:55:02 | [kayden](https://pypi.org/project/kayden/) | 0.1.0 | K5031 | 161.7 kB | A modular desktop AI assistant with swappable models, memory, actions, tools, a… |
-| 2026-10-17 22:56:27 | [nxa](https://pypi.org/project/nxa/) | 0.0.0 |  | 1.4 kB | Reserved by Nexplora (nexplora.ai). Placeholder, no code. |
-| 2026-10-17 22:56:29 | [nexplora-nxa](https://pypi.org/project/nexplora-nxa/) | 0.0.0 |  | 1.5 kB | Reserved by Nexplora (nexplora.ai). Placeholder, no code. |
-| 2026-10-17 22:57:44 | [driftmark](https://pypi.org/project/driftmark/) | 0.0.0 |  | 2.4 kB | See what your AI agents changed in your Markdown docs, whether it matters, and… |
-| 2026-10-17 22:58:07 | [grantry-sdk](https://pypi.org/project/grantry-sdk/) | 0.1.0 | Grantry | 229.6 kB | Identity, access and licensing for Python applications. |
-| 2026-10-17 22:59:32 | [agent-audit-mcp](https://pypi.org/project/agent-audit-mcp/) | 1.0.0 | 润泽 · 灵助（三元九维） <runze@lingzhu.… | 35.1 kB | 九维认知空间 Agent 审计层 MCP 插件：决策步骤→九位平衡三进制状态序列→审计报告 (Audit AI agent decisions as bala… |
-| 2026-10-17 22:59:33 | [strands-pixeltable](https://pypi.org/project/strands-pixeltable/) | 0.1.0 | Pixeltable <contact@pixeltabl… | 52.5 kB | Strands Agents memory store and read-only Pixeltable tools. |
-| 2026-10-17 23:01:16 | [better-sitl](https://pypi.org/project/better-sitl/) | 1.0.0 | TCHS-aero <tchsaero@tcusd.net… | 12.3 kB | A Python CLI wrapper built with click for PX4's SIH and Gazebo SITL docker imag… |
-| 2026-10-17 23:01:28 | [yaal-sql](https://pypi.org/project/yaal-sql/) | 0.12.0 | Kiruba Sankar Swaminathan | 923.4 kB | Yaal SQL compiler. Compiles Yaal SQL and a JSON parameter object into dialect S… |
-| 2026-10-17 23:04:25 | [model-context-protocol-gateway](https://pypi.org/project/model-context-protocol-gateway/) | 0.1.0b62 |  | 238.1 MB | Model Context Protocol Gateway — the mcpg CLI suite (prebuilt binaries) |
-| 2026-10-17 23:04:58 | [pybingraph](https://pypi.org/project/pybingraph/) | 0.2.5 | Manel Fernandez <manel.fernan… | 356.1 kB | Binary inspection API and UI using angr |
-| 2026-10-17 23:05:09 | [mqtwister](https://pypi.org/project/mqtwister/) | 0.1.0rc1 | Daniel Feito Pin <danielfeito… | 304.3 kB | A Tool for Man-in-the-Middle (MitM) Attacks on the MQTT Protocol |
-| 2026-10-17 23:05:10 | [freehold-agent](https://pypi.org/project/freehold-agent/) | 0.2.0 | PCI Contributors | 112.6 kB | Layer 2: Local AI agent for Personal Context Infrastructure |
-| 2026-10-17 23:06:44 | [freehold-preimage](https://pypi.org/project/freehold-preimage/) | 0.2.0 | Peter Wilson | 22.7 kB | Reference implementation of the Freehold canonical preimage encoding |
-| 2026-10-17 23:07:40 | [no-ai-marks](https://pypi.org/project/no-ai-marks/) | 0.2.1 |  | 100.2 kB | Find AI attribution and hidden watermarks in commits, pull requests, branches,… |
-| 2026-10-17 23:09:50 | [common-encryption](https://pypi.org/project/common-encryption/) | 2.2.11 | Francesco Baldi <francesco.ba… | 91.2 kB | Python port of the common-encryption Java module: transparent field-level encry… |
-| 2026-10-17 23:12:06 | [poikilos](https://pypi.org/project/poikilos/) | 1.0.0 | Christian Samuel Ramirez <chr… | 571.0 kB | Matplotlib themes and figure helpers |
-| 2026-10-17 23:13:43 | [scinspect](https://pypi.org/project/scinspect/) | 0.1.0 | Yash Bhida | 78.2 kB | Find out what is really inside a single-cell dataset (raw counts or normalized,… |
-| 2026-10-17 23:16:00 | [datarecon](https://pypi.org/project/datarecon/) | 0.1.0 |  | 20.3 kB | Explainable dataset reconciliation: find out why two datasets do not match. |
-| 2026-10-17 23:16:38 | [dothedev-sandbox](https://pypi.org/project/dothedev-sandbox/) | 0.1.0 | shahraiz ali | 17.1 kB | Deep agents sandbox backend for DoTheDev Agent Platform sandboxes |
-| 2026-10-17 23:17:08 | [robustmargin](https://pypi.org/project/robustmargin/) | 0.1.1 | robustmargin contributors | 234.1 kB | Robustness margins with confidence intervals, via dose-response threshold estim… |
-| 2026-10-17 23:17:22 | [ddg-langchain](https://pypi.org/project/ddg-langchain/) | 0.1.0 | Daedalus Development Group | 32.1 kB | LangChain + CrewAI tools for DDG Agent Services (x402-payable, USDC on Base, no… |
+| 2026-10-17 23:23:35 | [antibody](https://pypi.org/project/antibody/) | 0.2.0 |  | 170.6 kB | Turn every fix into a verified rule that stops the mistake coming back, enforce… |
+| 2026-10-17 23:27:10 | [gpflash](https://pypi.org/project/gpflash/) | 0.2.0 | André Marchildon | 167.9 MB | Fast, exact Gaussian process regression: marginal log-likelihood with analytic… |
+| 2026-10-17 23:39:41 | [wineprefixvault](https://pypi.org/project/wineprefixvault/) | 1.0.5 | Dengesiz Kokarca | 32.5 kB | A Wine Prefix and Native Linux Application Manager |
+| 2026-10-17 23:40:53 | [usgs-stage-peaks](https://pypi.org/project/usgs-stage-peaks/) | 0.1.0 | Gonzalo Buitrago | 47.8 kB | Gap-aware USGS water-stage event and peak detection |
+| 2026-10-17 23:42:27 | [layer8-secretscan](https://pypi.org/project/layer8-secretscan/) | 0.1.0 |  | 80.3 kB | Scan your machine for accidentally exposed secrets — API keys, tokens, password… |
+| 2026-10-17 23:43:35 | [notifig](https://pypi.org/project/notifig/) | 0.1.0 | Francisco | 122.0 kB | Reactive typed configuration for Pydantic: a config tree that tells you what ch… |
+| 2026-10-17 23:44:00 | [secretscan-report](https://pypi.org/project/secretscan-report/) | 0.1.2 |  | 84.0 kB | Scan your computer for secrets and generate a report. |
+| 2026-10-17 23:49:04 | [magiqa-mcp](https://pypi.org/project/magiqa-mcp/) | 0.1.0 | Magiqa <info@magiqa.us> | 14.6 kB | MCP server for MagiQa Options: covered calls, cash-secured puts, spreads, iron… |
+| 2026-10-17 23:55:27 | [trendify2](https://pypi.org/project/trendify2/) | 2.0.4 | Talbot Knighton <talbotknight… | 4.4 MB | Tools for generating data products, storing, and interacting with them |
+| 2026-10-17 23:59:19 | [vedika-agent-sdk](https://pypi.org/project/vedika-agent-sdk/) | 0.2.0 | XALEN Technology Private Limi… | 40.5 kB | Python client for the Vedika agent harness. |
+| 2026-10-18 00:00:06 | [hpikit](https://pypi.org/project/hpikit/) | 0.1.20261018 | "Dima Gerasimov (@karlicoss)"… | 53.2 kB | Library shared by HPI and its personal-data exporters (not HPI itself) |
+| 2026-10-18 00:00:45 | [responsio](https://pypi.org/project/responsio/) | 1.15.6 | Helmut Konrad Schewe <helmutu… | 53.7 kB |  |
+| 2026-10-18 00:02:36 | [backtest-auditor](https://pypi.org/project/backtest-auditor/) | 0.6.0 |  | 565.5 kB | Backtest Auditor: a red-team lint for trading strategies (static lookahead/bias… |
+| 2026-10-18 00:04:01 | [pathdoctor](https://pypi.org/project/pathdoctor/) | 0.1.0 | agent-one <rafal.baranowski.i… | 8.3 kB | Audit your PATH: duplicates, missing dirs, relative or world-writable entries,… |
+| 2026-10-18 00:13:46 | [contentdisp](https://pypi.org/project/contentdisp/) | 0.2.1 | Javier Lianes <javier@lianes8… | 36.6 kB | Parse and build HTTP Content-Disposition headers per RFC 6266 and RFC 8187, wit… |
+| 2026-10-18 00:14:04 | [contentdigest](https://pypi.org/project/contentdigest/) | 0.2.0 | Javier Lianes <javier@lianes8… | 45.9 kB | Build and verify RFC 9530 Content-Digest, Repr-Digest and Want-* fields: typed,… |
+| 2026-10-18 00:14:20 | [forwarded](https://pypi.org/project/forwarded/) | 0.2.0 | Javier Lianes <javier@lianes8… | 50.3 kB | Parse and build the HTTP Forwarded header (RFC 7239), read X-Forwarded-For, and… |
+| 2026-10-18 00:14:57 | [preferhdr](https://pypi.org/project/preferhdr/) | 0.2.0 | Javier Lianes <javier@lianes8… | 44.6 kB | Parse and build HTTP Prefer and Preference-Applied headers per RFC 7240, typed… |
+| 2026-10-18 00:16:07 | [langstage-codraft](https://pypi.org/project/langstage-codraft/) | 0.1.0 | Kedar Dabhadkar <kdabhadk@gma… | 5.9 MB | The document stage for your LangGraph agent: co-author paged documents block by… |
+| 2026-10-18 00:16:44 | [onekbgz](https://pypi.org/project/onekbgz/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.4 kB | onekbgz |
+| 2026-10-18 00:17:51 | [symphony-code](https://pypi.org/project/symphony-code/) | 0.0.1 | Sarthak Chauhan | 592.2 kB | Symphony coding agent: workspace tools, JSONL sessions, and a Textual TUI on to… |
+| 2026-10-18 00:17:52 | [symphony-harness](https://pypi.org/project/symphony-harness/) | 0.0.1 | Sarthak Chauhan | 95.3 kB | Symphony agent harness: provider-agnostic tool loop, control-plane events, run… |
+| 2026-10-18 00:17:56 | [symphony-core](https://pypi.org/project/symphony-core/) | 0.0.1 | Sarthak Chauhan <sarthakchauh… | 100.5 kB | Symphony provider layer: model registry, generated model catalog, and streaming… |
