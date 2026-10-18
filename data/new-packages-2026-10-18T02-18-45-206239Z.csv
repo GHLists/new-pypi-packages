@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T01:19:21Z,decbackup,0.1.0,fl0l0u,Apache-2.0,60503,Python clone of Stormshield SNS's decbackup: decrypt and verify .bkup appliance backups without the device
+2026-10-18T01:29:43Z,msclabs.devsecops-cicd-mcp-server,1.0.0,,,8552,"Connects an MCP client over stdio to the AI-DLC DevSecOps CI/CD deploy workflow, hosted by the MSC Labs CoE."
+2026-10-18T01:29:44Z,msclabs.bpmn-creator-mcp-server,1.0.0,,,8486,"Connects an MCP client over stdio to the BPMN swimlane modelling workflow, hosted by the MSC Labs CoE."
+2026-10-18T01:29:46Z,msclabs.html-creator-mcp-server,1.0.0,,,8476,"Connects an MCP client over stdio to the html-creator assessment site workflow, hosted by the MSC Labs CoE."
+2026-10-18T01:31:00Z,agent-interface-model,0.0.1,,Apache-2.0,1895,Reserved for the Agent Interface Model (AIM) specification. Not yet released.
+2026-10-18T01:33:45Z,bytesim,0.1.0,Michael Yazdani,MIT,207799,"A text-mode network simulator: cable up gateways, routers, switches and computers, then watch DHCP, routing, multicast and HA failover in your terminal."
+2026-10-18T01:34:43Z,agent-bootstrap,0.1.0,marcelodevops,"MIT License Copyright (c) 2025 marcelodevops Permission is hereby granted, free of charge, to any p…",51880,"Scaffold AI-agent-ready projects from curated templates, presets, or a dirtree layout"
+2026-10-18T01:34:53Z,promptmap,0.5.13,,,379524,A dbt-inspired prompt orchestration tool for LLMs
+2026-10-18T01:39:01Z,bitcomposer,1.0.0rc1,CatDogBark <186357707+CatDogBark@users.noreply.github.com>,MIT,271225,Procedural 16-bit chiptune music generator — creates Impulse Tracker (.it) files
+2026-10-18T01:40:38Z,stokasta,0.0.1,Ziang Liu,MIT,9436,Inventory-control problems as Gymnasium environments (0.0.1: one environment; first full release in preparation)
+2026-10-18T01:41:15Z,reqthread,0.2.0,James Watson,Apache-2.0,128755,Requirements traceability and certification evidence for safety-critical embedded software.
+2026-10-18T01:41:38Z,statspai-hdfe,0.8.0,Biaoyue Wang <brycew6m@stanford.edu>,MIT,2429318,"Rust kernels for StatsPAI: HDFE demeaning, Poisson IRLS, cluster-robust meat"
+2026-10-18T01:41:45Z,edgegate,0.2.0,James Watson,Apache-2.0,73966,"CI gate for model-plus-firmware builds on edge devices: latency, memory, power, accuracy, compared to a baseline."
+2026-10-18T01:42:17Z,promptmap-extra-model-kinds,0.1.0,,,179002,"Extra promptmap model kinds: python_modal, agent_modal and agent37."
+2026-10-18T01:45:25Z,craft-suite-api,0.2.0,Repository Maintainers,MIT,42413,Craft suite API connector and MCP server; current ArtCraft backend subset
+2026-10-18T01:57:01Z,nullcheck,0.2.5,No Hindsight,MIT,188449,Find look-ahead leaks by re-running your feature code on truncated history.
+2026-10-18T01:57:39Z,operate-hermes-plugin,1.1.0,Operate Technology R&D LLC <support@operate.center>,MIT,10957,Official Operate.Center Agent Marketplace plugin and Python SDK for Hermes Agent.
+2026-10-18T02:03:56Z,freedomspeech,0.1.0,Freedom Speech,MIT,64697,"Python SDK for the Freedom Speech API: Kazakh, Russian and English speech recognition, synthesis, voice cloning and translation"
+2026-10-18T02:05:01Z,metal-gpu-trace,0.4.0,,MIT,54569,"Measure Wine and macOS programs' GPU use on Apple silicon with Metal System Trace, from the shell or an MCP client"
+2026-10-18T02:05:19Z,dse-core,0.1.0,全哥 (siwpan),MIT,83278,字典场景引擎（Dictionary Scene Engine）—— 场景即字典，能力即插件
+2026-10-18T02:10:04Z,sciproof,0.1.0,HayagrivAI Labs,MIT,76283,Record computational experiments and create machine-verifiable evidence for checking their results.
+2026-10-18T02:10:41Z,threatlens-cti,0.2.0,"Tyler Passey, Ben King, Ethan McLachlan",AGPL-3.0-or-later,672876,Extract and assess indicators of compromise from cyber threat intelligence reports.
+2026-10-18T02:13:45Z,surucucu,0.1.0,Erik,MIT,64577,"High-performance Glassmorphic AI, GPU (VRAM/CUDA), Docker & System Observability HUD for Linux"

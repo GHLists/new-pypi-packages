@@ -1,19 +1,25 @@
 {
   "list": {
     "count": 23,
-    "from": "2026-10-18T00:18:45.841455Z",
-    "path": "data/new-packages-2026-10-18T01-18-28-403624Z.csv",
-    "to": "2026-10-18T01:18:28.403624Z"
+    "from": "2026-10-18T01:18:28.403624Z",
+    "path": "data/new-packages-2026-10-18T02-18-45-206239Z.csv",
+    "to": "2026-10-18T02:18:45.206239Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-18T02:10:35Z",
+      "package": "ReliableML",
+      "since": "2026-10-18T01:18:28.403624Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-17T23:01:00Z",
       "package": "freehold-earth",
       "since": "2026-10-17T22:18:24.947537Z"
     }
   ],
-  "serial": 42382255,
+  "serial": 42383301,
   "source_truncated": false,
-  "window": "2026-10-18T01:18:28.403624Z"
+  "window": "2026-10-18T02:18:45.206239Z"
 }
