@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T02:10:35Z,ReliableML,0.1.0,Jabulani Monchwe,MIT,139739,Tools for assessing machine-learning reliability alongside predictions.
+2026-10-18T02:19:01Z,t6-canary-poc,0.0.1,,,222,canary
+2026-10-18T02:20:25Z,terraingenpy,0.1.0.dev279,Alex Maietta,"BSD 3-Clause License Copyright (c) 2026, Alex Maietta Redistribution and use in source and binary f…",49168593,Scientific terrain generation for planetary surfaces
+2026-10-18T02:20:40Z,lakekeeper-mcp,0.2.0,Project Maintainers <maintainers@users.noreply.github.com>,MIT,49105,Lakekeeper (Apache Iceberg REST catalog) API + MCP Server for Agentic AI!
+2026-10-18T02:30:50Z,sonicproof,0.1.0,Sonicproof contributors,Apache-2.0,686206,"The audio QA layer for generative audio — check, rank and QC AI-generated sound with EmbeddingGemma 2."
+2026-10-18T02:31:01Z,webscope-mcp,0.2.0,,MIT,132654,"MCP server (stdio, standard library only) that gives a coding agent short answers about a project"
+2026-10-18T02:32:46Z,gradientmail,0.0.1,Gabriel Francisco,MIT,141660,Distributed training through asynchronous message exchange
+2026-10-18T02:34:09Z,dreamlabs,0.0.1,Dream Labs,Apache-2.0,10662,"Placeholder for the Dream Labs library, whose first release, 1.0.0, is coming."
+2026-10-18T02:38:50Z,atlas-vault,0.1.0,Ryan Mattson <ramattson5@gmail.com>,MIT,54177,A command-line tool for managing and validating Markdown-based worldbuilding vaults.
+2026-10-18T02:41:32Z,dji-thermal-cli,0.1.0rc1,Winxu Nomacs,AGPL-3.0-only AND (MIT OR Apache-2.0 WITH LLVM-exception),558119,"DJI R-JPEG thermal images to temperatures, in pure Python: CLI and API for datasets, mosaics and WebODM"
+2026-10-18T02:43:12Z,sphinx-pele,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6465,sphinx-pele
+2026-10-18T02:46:38Z,sec-gofer-agent,0.1.0,Colin-zh,,2841482,"Your gofer. A second you, in a second."
+2026-10-18T02:46:52Z,iam-to-english,1.0.0,Tarek CHEIKH <tarek@kloudsec.io>,MIT,898373,Translate AWS IAM policies into plain English and detect privilege escalation paths
+2026-10-18T02:47:09Z,dea-agents,0.1.0,Shreyas Sawant,MIT,18442,"Debug Anything from Python agents: observe running processes (strace, py-spy, perf, lsof, tcpdump, gdb/lldb, heap snapshots) and get evidence-backed findings. Wraps the DEA CLI/MCP server; tool adapt…"
+2026-10-18T02:49:55Z,django-newadmin,0.1.0a1,,BSD-3-Clause,940332,"A polished, extensible theme for Django's built-in admin."
+2026-10-18T02:53:34Z,orion-handoff,0.1.0,Dan Mercede,MIT,55782,"Carry bounded, unverified task context between local sessions"
+2026-10-18T02:55:28Z,namedquery,0.1.0,Gustavo Venturini <gustavo.c.venturini@gmail.com>,"MIT License Copyright (c) 2026 Gustavo Venturini Permission is hereby granted, free of charge, to a…",8430,Named SQL parameters with once-at-definition parsing
+2026-10-18T02:55:56Z,sourceledger,0.1.0,Simon van Lierde,MIT,33810,"Fetch, verify and validate the public sources a dataset is built from, with a provenance record for every download"
+2026-10-18T02:56:25Z,elektro-cli,0.7.2,Ahmet Enes KAYMAK <kaymakahmetenes@gmail.com>,GPL-3.0-or-later,706685,Terminal tabanlı Elektrik-Elektronik Mühendisliği aracı
+2026-10-18T02:56:46Z,necoherence,0.2.0,,MIT,155122,Revision-aware state transition utilities for Python
+2026-10-18T03:04:38Z,vec-eval,0.0.0,Praneeth Vadlapati,MIT,2777,A new package under development
+2026-10-18T03:05:28Z,pycoode,1.0.0,pycoode,MIT,44643,让做游戏像写一行代码一样简单 —— 基于 pygame 的极简 2D 游戏开发包
+2026-10-18T03:12:58Z,structured-data-models-client,1.0.0,NVIDIA,Apache-2.0,599760,One Python client for NVIDIA's structured-data foundation model NIMs
+2026-10-18T03:14:28Z,tds-core,0.2.0,BY LAOMENG 网络工作室,Copyright (c) 2026 BY LAOMENG 网络工作室（孟祥辉） 太极调度层 TDS（Taiji Dispatch Scheduler） 保留所有权利（All Rights Rese…,110202,太极调度层 TDS 引擎核心：大模型权重-显存动态调度与 KV 分页中间层（零宿主依赖，可独立安装/授权）

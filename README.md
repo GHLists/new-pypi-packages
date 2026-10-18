@@ -8,34 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 02:18 UTC
+## Latest list — 2026-10-18 03:18 UTC
 
-New packages created between 2026-10-18 01:18 UTC and 2026-10-18 02:18 UTC.
+New packages created between 2026-10-18 02:18 UTC and 2026-10-18 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-18T02-18-45-206239Z.csv)
+[Full CSV](data/new-packages-2026-10-18T03-18-27-888886Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-18 01:19:21 | [decbackup](https://pypi.org/project/decbackup/) | 0.1.0 | fl0l0u | 60.5 kB | Python clone of Stormshield SNS's decbackup: decrypt and verify .bkup appliance… |
-| 2026-10-18 01:29:43 | [msclabs.devsecops-cicd-mcp-server](https://pypi.org/project/msclabs.devsecops-cicd-mcp-server/) | 1.0.0 |  | 8.6 kB | Connects an MCP client over stdio to the AI-DLC DevSecOps CI/CD deploy workflow… |
-| 2026-10-18 01:29:44 | [msclabs.bpmn-creator-mcp-server](https://pypi.org/project/msclabs.bpmn-creator-mcp-server/) | 1.0.0 |  | 8.5 kB | Connects an MCP client over stdio to the BPMN swimlane modelling workflow, host… |
-| 2026-10-18 01:29:46 | [msclabs.html-creator-mcp-server](https://pypi.org/project/msclabs.html-creator-mcp-server/) | 1.0.0 |  | 8.5 kB | Connects an MCP client over stdio to the html-creator assessment site workflow,… |
-| 2026-10-18 01:31:00 | [agent-interface-model](https://pypi.org/project/agent-interface-model/) | 0.0.1 |  | 1.9 kB | Reserved for the Agent Interface Model (AIM) specification. Not yet released. |
-| 2026-10-18 01:33:45 | [bytesim](https://pypi.org/project/bytesim/) | 0.1.0 | Michael Yazdani | 207.8 kB | A text-mode network simulator: cable up gateways, routers, switches and compute… |
-| 2026-10-18 01:34:43 | [agent-bootstrap](https://pypi.org/project/agent-bootstrap/) | 0.1.0 | marcelodevops | 51.9 kB | Scaffold AI-agent-ready projects from curated templates, presets, or a dirtree… |
-| 2026-10-18 01:34:53 | [promptmap](https://pypi.org/project/promptmap/) | 0.5.13 |  | 379.5 kB | A dbt-inspired prompt orchestration tool for LLMs |
-| 2026-10-18 01:39:01 | [bitcomposer](https://pypi.org/project/bitcomposer/) | 1.0.0rc1 | CatDogBark <186357707+CatDogB… | 271.2 kB | Procedural 16-bit chiptune music generator — creates Impulse Tracker (.it) files |
-| 2026-10-18 01:40:38 | [stokasta](https://pypi.org/project/stokasta/) | 0.0.1 | Ziang Liu | 9.4 kB | Inventory-control problems as Gymnasium environments (0.0.1: one environment; f… |
-| 2026-10-18 01:41:15 | [reqthread](https://pypi.org/project/reqthread/) | 0.2.0 | James Watson | 128.8 kB | Requirements traceability and certification evidence for safety-critical embedd… |
-| 2026-10-18 01:41:38 | [statspai-hdfe](https://pypi.org/project/statspai-hdfe/) | 0.8.0 | Biaoyue Wang <brycew6m@stanfo… | 2.4 MB | Rust kernels for StatsPAI: HDFE demeaning, Poisson IRLS, cluster-robust meat |
-| 2026-10-18 01:41:45 | [edgegate](https://pypi.org/project/edgegate/) | 0.2.0 | James Watson | 74.0 kB | CI gate for model-plus-firmware builds on edge devices: latency, memory, power,… |
-| 2026-10-18 01:42:17 | [promptmap-extra-model-kinds](https://pypi.org/project/promptmap-extra-model-kinds/) | 0.1.0 |  | 179.0 kB | Extra promptmap model kinds: python_modal, agent_modal and agent37. |
-| 2026-10-18 01:45:25 | [craft-suite-api](https://pypi.org/project/craft-suite-api/) | 0.2.0 | Repository Maintainers | 42.4 kB | Craft suite API connector and MCP server; current ArtCraft backend subset |
-| 2026-10-18 01:57:01 | [nullcheck](https://pypi.org/project/nullcheck/) | 0.2.5 | No Hindsight | 188.4 kB | Find look-ahead leaks by re-running your feature code on truncated history. |
-| 2026-10-18 01:57:39 | [operate-hermes-plugin](https://pypi.org/project/operate-hermes-plugin/) | 1.1.0 | Operate Technology R&D LLC <s… | 11.0 kB | Official Operate.Center Agent Marketplace plugin and Python SDK for Hermes Agen… |
-| 2026-10-18 02:03:56 | [freedomspeech](https://pypi.org/project/freedomspeech/) | 0.1.0 | Freedom Speech | 64.7 kB | Python SDK for the Freedom Speech API: Kazakh, Russian and English speech recog… |
-| 2026-10-18 02:05:01 | [metal-gpu-trace](https://pypi.org/project/metal-gpu-trace/) | 0.4.0 |  | 54.6 kB | Measure Wine and macOS programs' GPU use on Apple silicon with Metal System Tra… |
-| 2026-10-18 02:05:19 | [dse-core](https://pypi.org/project/dse-core/) | 0.1.0 | 全哥 (siwpan) | 83.3 kB | 字典场景引擎（Dictionary Scene Engine）—— 场景即字典，能力即插件 |
-| 2026-10-18 02:10:04 | [sciproof](https://pypi.org/project/sciproof/) | 0.1.0 | HayagrivAI Labs | 76.3 kB | Record computational experiments and create machine-verifiable evidence for che… |
-| 2026-10-18 02:10:41 | [threatlens-cti](https://pypi.org/project/threatlens-cti/) | 0.2.0 | Tyler Passey, Ben King, Ethan… | 672.9 kB | Extract and assess indicators of compromise from cyber threat intelligence repo… |
-| 2026-10-18 02:13:45 | [surucucu](https://pypi.org/project/surucucu/) | 0.1.0 | Erik | 64.6 kB | High-performance Glassmorphic AI, GPU (VRAM/CUDA), Docker & System Observabilit… |
+| 2026-10-18 02:10:35 | [ReliableML](https://pypi.org/project/ReliableML/) | 0.1.0 | Jabulani Monchwe | 139.7 kB | Tools for assessing machine-learning reliability alongside predictions. |
+| 2026-10-18 02:19:01 | [t6-canary-poc](https://pypi.org/project/t6-canary-poc/) | 0.0.1 |  | 222 B | canary |
+| 2026-10-18 02:20:25 | [terraingenpy](https://pypi.org/project/terraingenpy/) | 0.1.0.dev279 | Alex Maietta | 49.2 MB | Scientific terrain generation for planetary surfaces |
+| 2026-10-18 02:20:40 | [lakekeeper-mcp](https://pypi.org/project/lakekeeper-mcp/) | 0.2.0 | Project Maintainers <maintain… | 49.1 kB | Lakekeeper (Apache Iceberg REST catalog) API + MCP Server for Agentic AI! |
+| 2026-10-18 02:30:50 | [sonicproof](https://pypi.org/project/sonicproof/) | 0.1.0 | Sonicproof contributors | 686.2 kB | The audio QA layer for generative audio — check, rank and QC AI-generated sound… |
+| 2026-10-18 02:31:01 | [webscope-mcp](https://pypi.org/project/webscope-mcp/) | 0.2.0 |  | 132.7 kB | MCP server (stdio, standard library only) that gives a coding agent short answe… |
+| 2026-10-18 02:32:46 | [gradientmail](https://pypi.org/project/gradientmail/) | 0.0.1 | Gabriel Francisco | 141.7 kB | Distributed training through asynchronous message exchange |
+| 2026-10-18 02:34:09 | [dreamlabs](https://pypi.org/project/dreamlabs/) | 0.0.1 | Dream Labs | 10.7 kB | Placeholder for the Dream Labs library, whose first release, 1.0.0, is coming. |
+| 2026-10-18 02:38:50 | [atlas-vault](https://pypi.org/project/atlas-vault/) | 0.1.0 | Ryan Mattson <ramattson5@gmai… | 54.2 kB | A command-line tool for managing and validating Markdown-based worldbuilding va… |
+| 2026-10-18 02:41:32 | [dji-thermal-cli](https://pypi.org/project/dji-thermal-cli/) | 0.1.0rc1 | Winxu Nomacs | 558.1 kB | DJI R-JPEG thermal images to temperatures, in pure Python: CLI and API for data… |
+| 2026-10-18 02:43:12 | [sphinx-pele](https://pypi.org/project/sphinx-pele/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.5 kB | sphinx-pele |
+| 2026-10-18 02:46:38 | [sec-gofer-agent](https://pypi.org/project/sec-gofer-agent/) | 0.1.0 | Colin-zh | 2.8 MB | Your gofer. A second you, in a second. |
+| 2026-10-18 02:46:52 | [iam-to-english](https://pypi.org/project/iam-to-english/) | 1.0.0 | Tarek CHEIKH <tarek@kloudsec.… | 898.4 kB | Translate AWS IAM policies into plain English and detect privilege escalation p… |
+| 2026-10-18 02:47:09 | [dea-agents](https://pypi.org/project/dea-agents/) | 0.1.0 | Shreyas Sawant | 18.4 kB | Debug Anything from Python agents: observe running processes (strace, py-spy, p… |
+| 2026-10-18 02:49:55 | [django-newadmin](https://pypi.org/project/django-newadmin/) | 0.1.0a1 |  | 940.3 kB | A polished, extensible theme for Django's built-in admin. |
+| 2026-10-18 02:53:34 | [orion-handoff](https://pypi.org/project/orion-handoff/) | 0.1.0 | Dan Mercede | 55.8 kB | Carry bounded, unverified task context between local sessions |
+| 2026-10-18 02:55:28 | [namedquery](https://pypi.org/project/namedquery/) | 0.1.0 | Gustavo Venturini <gustavo.c.… | 8.4 kB | Named SQL parameters with once-at-definition parsing |
+| 2026-10-18 02:55:56 | [sourceledger](https://pypi.org/project/sourceledger/) | 0.1.0 | Simon van Lierde | 33.8 kB | Fetch, verify and validate the public sources a dataset is built from, with a p… |
+| 2026-10-18 02:56:25 | [elektro-cli](https://pypi.org/project/elektro-cli/) | 0.7.2 | Ahmet Enes KAYMAK <kaymakahme… | 706.7 kB | Terminal tabanlı Elektrik-Elektronik Mühendisliği aracı |
+| 2026-10-18 02:56:46 | [necoherence](https://pypi.org/project/necoherence/) | 0.2.0 |  | 155.1 kB | Revision-aware state transition utilities for Python |
+| 2026-10-18 03:04:38 | [vec-eval](https://pypi.org/project/vec-eval/) | 0.0.0 | Praneeth Vadlapati | 2.8 kB | A new package under development |
+| 2026-10-18 03:05:28 | [pycoode](https://pypi.org/project/pycoode/) | 1.0.0 | pycoode | 44.6 kB | 让做游戏像写一行代码一样简单 —— 基于 pygame 的极简 2D 游戏开发包 |
+| 2026-10-18 03:12:58 | [structured-data-models-client](https://pypi.org/project/structured-data-models-client/) | 1.0.0 | NVIDIA | 599.8 kB | One Python client for NVIDIA's structured-data foundation model NIMs |
+| 2026-10-18 03:14:28 | [tds-core](https://pypi.org/project/tds-core/) | 0.2.0 | BY LAOMENG 网络工作室 | 110.2 kB | 太极调度层 TDS 引擎核心：大模型权重-显存动态调度与 KV 分页中间层（零宿主依赖，可独立安装/授权） |

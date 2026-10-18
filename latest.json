@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-10-18T01:18:28.403624Z",
-    "path": "data/new-packages-2026-10-18T02-18-45-206239Z.csv",
-    "to": "2026-10-18T02:18:45.206239Z"
+    "count": 24,
+    "from": "2026-10-18T02:18:45.206239Z",
+    "path": "data/new-packages-2026-10-18T03-18-27-888886Z.csv",
+    "to": "2026-10-18T03:18:27.888886Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-18T02:10:35Z",
-      "package": "ReliableML",
-      "since": "2026-10-18T01:18:28.403624Z"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-17T23:01:00Z",
-      "package": "freehold-earth",
-      "since": "2026-10-17T22:18:24.947537Z"
+      "created_at": "2026-10-18T03:14:59Z",
+      "package": "cdk-udp-gateway",
+      "since": "2026-10-18T02:18:45.206239Z"
     }
   ],
-  "serial": 42383301,
+  "serial": 42384297,
   "source_truncated": false,
-  "window": "2026-10-18T02:18:45.206239Z"
+  "window": "2026-10-18T03:18:27.888886Z"
 }
