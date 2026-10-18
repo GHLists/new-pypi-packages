@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T00:23:55Z,cds-interpret,0.1.0,adventure-gpt,MIT,1778651,"Look inside any PyTorch Rocket League bot: concept labels, robust probes, sparse-autoencoder features, causal tests and a live in-game thoughts overlay"
+2026-10-18T00:27:09Z,oatschema,0.8.0,OATS maintainers <maintainers@oatschema.org>,Apache-2.0,191903,"OATS (Open Annotation Task Schemas) JSON schemas, bundled for Python."
+2026-10-18T00:31:38Z,meridian-client,0.1.0,,MIT,29423,Python SDK for Meridian Governance Router
+2026-10-18T00:31:47Z,meridian-governance-cli,0.1.0,,MIT,15088,Command-line client for Meridian Governance Router — not the unrelated 'meridian-cli' package also on PyPI
+2026-10-18T00:40:19Z,etabs-mcp,0.3.2,,Apache-2.0,348443,"Model Context Protocol server that lets AI agents drive CSI ETABS (v22+) through its official API: modeling, loads, analysis, design, results and the interactive database."
+2026-10-18T00:40:59Z,pzmap,0.1.0,Jorge López,MIT OR Apache-2.0,5551186,"Parsers for Project Zomboid's on-disk map formats: lotheader, lotpack and texture packs."
+2026-10-18T00:48:49Z,kvn,0.1.0.dev1,Kevin Wakhisi,MIT,4473,Add your description here
+2026-10-18T00:51:11Z,leakdeep,2.6.0,LeakDeep Intelligence,,12357,Professional OSINT & Credential Leak Intelligence Framework
+2026-10-18T01:02:26Z,facebook-mcp,0.1.0,Salinda Hulangamuwa,MIT,56587,"MCP server that lets AI assistants (Claude, ChatGPT, Gemini, Cursor, ...) manage Facebook Pages through the Graph API."
+2026-10-18T01:02:36Z,world-reference-mcp,0.2.0,Project Maintainers <maintainers@users.noreply.github.com>,MIT,79166,"World-reference data (taxonomy, OBO terms, nutrition, observations, Wikidata alignment) MCP server and agent-connector-sdk source adapters"
+2026-10-18T01:04:38Z,aiogotoconnect,0.2.0,,MIT,40730,"Async Python client for GoTo Connect: SMS via Messaging v2, outbound TTS voice calls via SIP"
+2026-10-18T01:05:18Z,pickle-debug,1.0,Gerard,MIT,11543,Store expensive objects from debugging
+2026-10-18T01:05:49Z,pg-maker,0.1.0,O2eg <oleg.ispu@gmail.com>,MIT,676952,"Build PostgreSQL distributions, documentation and patches in isolated environments"
+2026-10-18T01:13:11Z,boundra-mcp,0.1.0,Boundra,Apache-2.0,70777,Boundra — policy-guarded payment approval gateway for AI agents (MCP server)
+2026-10-18T01:15:09Z,odoo-addon-community-meetings,18.0.6.1.0.24,=?utf-8?q?Pelayo_Garc=C3=ADa?=,AGPL-3,265721,"Operational meetings, agendas, resolutions and minutes"
+2026-10-18T01:15:12Z,odoo-addon-community-meetings-calendar,18.0.1.0.0.8,=?utf-8?q?Pelayo_Garc=C3=ADa?=,AGPL-3,23406,Create private Calendar invitations for scheduled community meetings
+2026-10-18T01:15:12Z,odoo-meetings-minutes,18.0.20261018.1,,,1475,Install the Odoo 18 Community Meetings addon suite
+2026-10-18T01:17:05Z,aa-moonregistry,0.1.0,CMBrando <CMBrando999@gmail.com>,,56799,Moon Registry for Alliance Auth.
+2026-10-18T01:17:34Z,hashsign-python,0.1.0,HashSign,Proprietary,6426439,"Official Python SDK for HashSign — programmatic document hashing, signing, and Hedera ledger verification for AI agents."
+2026-10-18T01:17:42Z,subsurfix,0.0.1,"""Syu-Heng (Larry) Lai"" <larrysyuhenglai@gmail.com>",AGPL-3.0-or-later,3224,High-performance subsurface stratigraphic analytics and well-log workflows
+2026-10-18T01:17:44Z,welllas,0.0.1,"""Syu-Heng (Larry) Lai"" <larrysyuhenglai@gmail.com>",Apache-2.0,3058,Read LAS well-log files
+2026-10-18T01:17:52Z,odoo-addon-community-meetings-extension-demo,18.0.1.0.0.6,=?utf-8?q?Pelayo_Garc=C3=ADa?=,AGPL-3,10665,Synthetic example of meeting-kind and snapshot extension hooks
+2026-10-18T01:17:57Z,odoo-addon-community-meetings-project,18.0.3.1.0.12,=?utf-8?q?Pelayo_Garc=C3=ADa?=,AGPL-3,35776,Link existing Odoo Project tasks to meetings
