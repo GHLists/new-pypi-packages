@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T09:23:01Z,fl-data-generator,0.1.0,Mostafa Khastkhodaei <dev.khastkhodaei@gmail.com>,MIT,42833,"A lightweight, framework-agnostic library for IID and non-IID data partitioning in Federated Learning."
+2026-10-18T09:23:36Z,jej-when,1.0.0,Jej111,,4273,A stupidly simple CLI to tell time across timezones.
+2026-10-18T09:27:43Z,navig-matrix,0.1.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,44540,"Matrix messaging surface for navig — rooms, invites, tokens, admin and the inbox bridge, as its own plugin."
+2026-10-18T09:27:50Z,stuckbot,0.1.1,StuckBot,MIT,36203,"Python client and fleet helper for the StuckBot API, a help desk for AI agents."
+2026-10-18T09:28:15Z,navig-ahk,0.1.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,38593,"AutoHotkey v2 automation for navig — click, type, open, windows and AI-written scripts, as its own plugin."
+2026-10-18T09:28:21Z,navig-telegram,0.1.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,63254,"Telegram surface for navig — bot management, sessions, status and the MTProto user-account verbs, as its own plugin."
+2026-10-18T09:31:56Z,md4a,0.1.0,,MIT,4239,"Markdown for Agents content negotiation for FastAPI, Flask, and other WSGI apps (installs md4a-fastapi)"
+2026-10-18T09:39:11Z,osintcase,0.3.2,OSINT Case contributors,GPL-3.0-only,9195001,"OSINT Case: investigation case workspace for profiling, notes, link analysis and reports. Runs locally."
+2026-10-18T09:42:31Z,localtools-postgres-migration-checker,1.0.0,,MIT,215896,"Check PostgreSQL migrations for the lock each statement takes, what it blocks, and a safe rewrite (localtools, offline)"
+2026-10-18T09:43:03Z,localtools-cli-output-to-json,1.0.0,,MIT,184887,"Turn command output (df, ps, dig, ip, netstat, Cisco/Juniper/Arista show commands, ...) into JSON, offline (localtools, jc + TextFSM/ntc-templates)"
+2026-10-18T09:43:35Z,authguard-sdk,1.0.0,AuthGuard,MIT,9986,"Client SDK for AuthGuard, a software licensing platform with Ed25519-signed responses"
+2026-10-18T09:49:13Z,bot-for-opensource-funding,1.0.0,Bhargav Bhatt,MIT,484035,Fundraising / developer-relations bot: GitHub sponsor outreach and content syndication for promoting an open-source Genesys Cloud plugin.
+2026-10-18T09:49:32Z,rocket-demo-khatir-Redha,0.1.0,Your Name,MIT,5589,A tiny rocket simulation package
+2026-10-18T09:52:29Z,deepdna-mcp,0.1.1,,MIT,33774,"Local MCP server that reads a raw DNA file on your computer and reports what it shows at the variants DeepDNA curates, with cited records. Nothing from the file is sent to deepdna.ai."
+2026-10-18T09:53:31Z,linreg-esi-demo,1.0.0,Iman,LICENSE.txt,3033,Simple linear regression from scratch
+2026-10-18T09:53:59Z,enoncepdf,0.1.0,antnardo <antnardo@users.noreply.github.com>,MIT,121776,"Read exam statements in PDF: find their headings and questions, and crop them into slices without headers, footers or line numbers."
+2026-10-18T09:54:06Z,texformules,0.1.0,antnardo <antnardo@users.noreply.github.com>,MIT,76555,"LaTeX formulas typeset in one batch, cached as PNG and one-page PDF with their baseline; matplotlib figures styled for LaTeX documents."
+2026-10-18T09:55:47Z,osint-combo,1.0.1,Nama Anda <email_anda@example.com>,,33614,Framework Gabungan Intelijen Siber dan Validasi Akun Real-Time
+2026-10-18T09:57:53Z,fluentpy-qt,0.6.9,性邓的小馒头,MIT,2326867,Independent MIT-licensed Fluent-inspired UI toolkit for Qt for Python.
+2026-10-18T09:58:33Z,rocket-seds-naoufel,1.0.0,Naoufel,LICENSE.txt,1713,An awesome package that does something
+2026-10-18T09:58:48Z,regression-model-ibrahim,0.1.0,,,5808,A simple linear regression model
+2026-10-18T09:58:49Z,rocket-package-ibrahim,0.1.0,,,5064,A simple Rocket simulation package
+2026-10-18T10:01:11Z,rocket-moo7,1.0.0,Mohamed Belghait,LICENSE.txt,2874,"A package simulating rockets, space shuttles, and circle rockets with physics and geometry calculations."
+2026-10-18T10:02:08Z,collieai-litellm-guardrail,0.1.0,CollieAi <sdk@collieai.io>,MIT,99683,"CollieAi guardrail for the LiteLLM proxy: checks every chat completion against your CollieAi policy, in Monitor mode."
+2026-10-18T10:02:25Z,manim-marimo,0.0.0,,MIT,3899,Coming soon
+2026-10-18T10:04:04Z,khaled-rocketpack,1.0.0,Your Name,MIT,3233,A package for simulating rockets and space shuttles
+2026-10-18T10:06:23Z,notth,0.18.0,,MIT,1038900,"Notth shared workflows and Node.js CLI, installable without npm"
+2026-10-18T10:06:55Z,rocket-Bouabdellah,1.0.0,Beloued Bouabdellah,LICENSE.txt,1907,An awesome package that does something
+2026-10-18T10:07:04Z,lekhaka,0.0.2,Karthik <karthik.rajgopal@hotmail.com>,Apache-2.0,21648,"Books of verses read into chapters: verse numbers mended, chapters assembled, akṣaras repaired. On vishalakshi."
+2026-10-18T10:07:30Z,workly,0.1.0,,Apache-2.0,51006,"Python SDK for Workly, the open-source HTTP task queue"
+2026-10-18T10:07:51Z,seds-rocket,1.0.0,amineachir,MIT,6538,"Rockets, shuttles and circular rockets for simulations"
+2026-10-18T10:10:05Z,libsocial-core,1.0.0,LLIJIYAPNIK,MIT,64941,"Async core shared by the lib.social site SDKs: api.cdnlibs.org client, caching, titles, chapters and catalog"
+2026-10-18T10:10:17Z,symmclimatenet,1.0.0,Dimitrios Galiatsatos,MIT,31292,Symmetry-Guided Spatio-Temporal Climate Network
+2026-10-18T10:10:57Z,workly-cli,0.1.0,,Apache-2.0,42621049,The Workly server and CLI: an open-source HTTP task queue
+2026-10-18T10:11:28Z,voiceledger,0.1.3,Digvijay Singh,MIT,143562,"Hash-chained, signed event ledger with pluggable rules and a standalone verifier."
+2026-10-18T10:11:35Z,voiceops,0.1.3,Digvijay Singh,MIT,123328,"Deployment discipline for voice agents: safe defaults, a release gate, an audit ledger, deploy checks and call review."
+2026-10-18T10:12:37Z,cs-image-system,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,7850,"Declarative provisioning of identities, storages, base images and instance images on AWS and GCE, from one YAML tree through gates: every cs-image-system package in one install"
+2026-10-18T10:12:38Z,cs-image-system-ansible-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,23585,The Ansible modification plugin: an image's playbooks become Packer provisioners on its build
+2026-10-18T10:12:40Z,cs-image-system-aws-runtime-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,61136,The aws runtime type: Amazon EC2 as a place where images bake and instances run
+2026-10-18T10:12:41Z,cs-image-system-base,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,467662,"The core library of cs-image-system: the configuration models, the plugin contract, the lifecycle runner, meta-state and the rules"
+2026-10-18T10:14:20Z,pi-ai-python,1.3.0,nivalume,MIT,996424,Python port of pi's AI libraries: a unified LLM API (pi_ai) and a stateful agent runtime (pi_agent)
+2026-10-18T10:14:24Z,odoo-addon-sy-web-widget-remaining-days-reformat-state,17.0.1.0.0.1,"Sygel, Odoo Community Association (OCA)",AGPL-3,40314,Reformat text shown with remaining_days widget
+2026-10-18T10:14:54Z,examlepypi,1.107.0,BerriAI,MIT,57518058,Library to easily interface with LLM API providers
+2026-10-18T10:15:16Z,odoo-addon-sy-product-name-with-country,17.0.1.0.0.1,Sygel,AGPL-3,37317,Product Name With Country
+2026-10-18T10:15:18Z,odoo-addon-sy-stock-manual-shipping-weight,17.0.1.0.0.1,Sygel,AGPL-3,38966,The shipping weight field in pickings can be manually edited.
+2026-10-18T10:15:42Z,oneprocess,0.1.0,Merwin Pinto,MIT,23899,"A unified data processing, cleaning, and analytics toolkit with Streamlit support."
+2026-10-18T10:16:39Z,xtoml,1.0.0,"""M.P. van de Weerd"" <michael@parcifal.dev>",GPL-3.0-only,34231,Quick access to TOML files
+2026-10-18T10:17:01Z,rocket-esi-package,0.1.0,Student,,3054,A simple Python package for rockets
+2026-10-18T10:17:52Z,pyapi-diff,0.0.1,Prashant Sharma <prashant.ps9833@gmail.com>,MIT,18933,python tool to indentify breaking changes in apis.
