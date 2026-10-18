@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T03:19:10Z,pyportscan,1.2.1,JinGu123123 <gujin123123@outlook.com>,MIT,23935,A multi-threaded Python port scanner with async support and banner grabbing.
+2026-10-18T03:19:20Z,pyrenyi,0.1.0,Cristiano G. Sabiu,MIT,195160,"Renyi generalised dimensions D_q of point distributions, for periodic boxes and surveys with randoms and weights"
+2026-10-18T03:20:39Z,edith-pc,0.3.0,Shuvo,MIT,477928,"EDITH on this PC: a body of your EDITH server, linked with a Google Authenticator code"
+2026-10-18T03:20:45Z,flashdata-google-search,0.1.0,FlashData <support@flashdata.dev>,MIT,28259,Collect current web evidence for an AI research agent with the FlashData JSON CLI
+2026-10-18T03:21:31Z,necoherence-http-adapter,0.2.0,,MIT,16499,HTTP host adapter for Necoherence
+2026-10-18T03:23:16Z,flashdata-google-news,0.1.0,FlashData <support@flashdata.dev>,MIT,28167,Save a news topic snapshot for a daily briefing with the FlashData JSON CLI
+2026-10-18T03:24:54Z,flashdata-google-images,0.1.0,FlashData <support@flashdata.dev>,MIT,28223,Build an image-reference inventory for manual review with the FlashData JSON CLI
+2026-10-18T03:26:27Z,flashdata-google-shopping,0.1.0,FlashData <support@flashdata.dev>,MIT,28328,Compare product offers in a purchasing research pipeline with the FlashData JSON CLI
+2026-10-18T03:27:01Z,proxylity-cdk-udp-gateway,0.1.2,Proxylity,Apache-2.0,162564,L1 (CloudFormation-faithful) AWS CDK construct library for the Proxylity UDP Gateway custom resources.
+2026-10-18T03:28:43Z,flashdata-google-videos,0.1.0,FlashData <support@flashdata.dev>,MIT,28228,Find video tutorials across websites with the FlashData JSON CLI
+2026-10-18T03:30:26Z,flashdata-google-places,0.1.0,FlashData <support@flashdata.dev>,MIT,28248,Create a local-business research dataset with the FlashData JSON CLI
+2026-10-18T03:32:33Z,flashdata-youtube-search,0.1.0,FlashData <support@flashdata.dev>,MIT,28378,Discover videos for a research shortlist with the FlashData JSON CLI
+2026-10-18T03:34:30Z,flashdata-youtube-search-extended,0.1.0,FlashData <support@flashdata.dev>,MIT,28644,Build a larger video discovery dataset with the FlashData JSON CLI
+2026-10-18T03:35:59Z,flashdata-youtube-metadata,0.1.0,FlashData <support@flashdata.dev>,MIT,28024,Inspect video metadata and chapters before ingestion with the FlashData JSON CLI
+2026-10-18T03:37:54Z,flashdata-youtube-transcript,0.1.0,FlashData <support@flashdata.dev>,MIT,28133,Export timestamped automatic captions for retrieval with the FlashData JSON CLI
+2026-10-18T03:38:56Z,os-hybrid-kit,0.5.4,Zhu Lei <woicyou@gmail.com>,MIT,57296,Portable OpenSearch hybrid search (BM25 + kNN + RRF / weighted normalization) with a thin Dify adapter and optional LangChain / LlamaIndex retrievers.
+2026-10-18T03:39:55Z,flashdata-youtube-captions,0.1.0,FlashData <support@flashdata.dev>,MIT,28068,Export uploader captions for subtitle review with the FlashData JSON CLI
+2026-10-18T03:40:41Z,tidelight,0.1.0,TidelightOrg,Apache-2.0,11344,Official Tidelight Intelligence Cloud Python client
+2026-10-18T03:42:06Z,wolfzbr,0.4.0,Rafael Gomide,MIT,598173,"Limpeza de planilhas brasileiras com receitas reproduzíveis e exportação para Power Query M, Python, Tableau e Power BI."
+2026-10-18T03:42:36Z,flashdata-youtube-trainability,0.1.0,FlashData <support@flashdata.dev>,MIT,27971,Record Creative Commons license-label evidence with the FlashData JSON CLI
+2026-10-18T03:44:28Z,flashdata-youtube-channel,0.1.0,FlashData <support@flashdata.dev>,MIT,27957,Snapshot channel metadata and recent videos with the FlashData JSON CLI
+2026-10-18T03:45:21Z,rulestamp-mahnung-vorlagen-check-de,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36173,"Widerspruch gegen den Mahnbescheid zwei Wochen (§ 692 Abs. 1 Nr. 3 ZPO), Einspruch gegen den Vollstreckungsbescheid zwei Wochen (§ 339 ZPO), Verzugszins 5 oder 9 Prozentpunkte und 40-Euro-Pauschale (…"
+2026-10-18T03:45:29Z,rulestamp-spf-dmarc-record-lint,1.1.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37126,"19 offline checks on the SPF, DMARC and DKIM records in your branch — including the DMARC rewrite of May 2026 (bundled Node.js runtime)"
+2026-10-18T03:45:46Z,rulestamp-ssdf-attestation-workflow-audit,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32729,"14 rules, four CISA attestation sections, one workflow file (bundled Node.js runtime)"
+2026-10-18T03:47:39Z,flashdata-youtube-suggestions,0.1.0,FlashData <support@flashdata.dev>,MIT,28094,Expand research topics with localized autocomplete with the FlashData JSON CLI
+2026-10-18T03:48:21Z,dependency-update-metrics,0.1.0,"Imranur Rahman <irahman3@ncsu.edu>, Mahzabina Tamanna <mtamman@ncsu.edu>, Laurie Williams <lawilli3…",MIT,166108,A tool for analyzing time-to-update and time-to-remediate metrics for package dependencies
+2026-10-18T03:48:57Z,checkoutmain-inventory-api,1.0.0,,MIT,8592,"Client for the CheckoutMain Inventory API (LiquidCulture POS, High Spirits POS)"
+2026-10-18T03:49:44Z,flashdata-youtube-cloud-storage,0.1.0,FlashData <support@flashdata.dev>,MIT,29702,Deliver authorized YouTube media to your cloud storage with the FlashData JSON CLI
+2026-10-18T03:55:05Z,convertaja,0.1.0,Convertajá <contato@convertaja.com.br>,MIT,41497,"SDK oficial da API do Convertajá: PDF, DANFE, etiquetas ZPL, assinatura eletrônica, CNPJ, CEP, boleto e Pix."
+2026-10-18T03:57:34Z,rimulabs-trends,0.1.0,Rimu Labs <support@rimulabs.com>,MIT,23415,"Drop-in replacement for pytrends' TrendReq, backed by a maintained Google Trends API (no more 429 errors)."
+2026-10-18T04:00:32Z,promptbreaker,1.2.0,,Apache-2.0,7705336,PromptBreaker AI — adversarial assessment engine for LLM applications (authorized testing only)
+2026-10-18T04:00:46Z,open-agentpay,0.1.0,AgentPay Contributors,Apache-2.0,135129,The Open-Source Payment Infrastructure & Financial Firewall for Autonomous AI Agents
+2026-10-18T04:00:58Z,agentpay-gateway,0.1.0,AgentPay Contributors,Apache-2.0,180565,AgentPay Reverse Proxy & Seller Gateway for Autonomous Agent Micro-Payments
+2026-10-18T04:01:22Z,agentpay-core,0.1.0,AgentPay Contributors,Apache-2.0,2371,Core payment infrastructure for AI agents (Official alias for open-agentpay)
+2026-10-18T04:01:47Z,shanghanlun-assistant,0.6.1,,Apache-2.0,13525244,傷寒論臨床決策輔助 WebUI — 八綱/六經/方證推論、七典RAG、LLM追問/選方/加減分析
+2026-10-18T04:02:42Z,prism-news,0.1.1,Fliar Research <b2b@fliarbi.com>,MIT,32283,"Python client, CLI and open topic datasets (2019-2026) for the Prism News API by Fliar"
+2026-10-18T04:02:58Z,agentpay-firewall,0.1.0,AgentPay Contributors,Apache-2.0,2435,Financial firewall & runaway circuit breaker for AI agents (Official alias for open-agentpay)
+2026-10-18T04:06:21Z,bigfix-remote-session-relevance,0.2.0,JGStew <admin@jgstew.com>,"MIT License Copyright (c) 2026 JGStew Permission is hereby granted, free of charge, to any person o…",233358,"Evaluate BigFix session relevance through the REST API, Web Reports SOAP API, or BigFix Explorer, with one common result type."
+2026-10-18T04:09:34Z,tokenfold-select,0.5.2,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",56467,Opt-in ONNX Select v2 scorer for Tokenfold
+2026-10-18T04:12:16Z,medfunnels,1.0.0,medFunnels,MIT,25098,"Run medFunnels patient questionnaires on your own platform: fetch, verify, host and validate them server-side."
+2026-10-18T04:14:37Z,maskguard,1.0.0,"G. Harshith, G. Praneeth, D. Mandeep, K. Surya Srinivas",Apache-2.0,23659986,"AI-powered PII discovery and query-time, role-based masking gateway for PostgreSQL, MySQL and SQLite"
