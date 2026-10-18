@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T20:19:11Z,schemawatch-core,0.1.0,Mohd Obaidullah,MIT,57695,"Pure Python engine for schema inference, diffing, PII redaction, drift severity classification, and sampling watchdog"
+2026-10-18T20:23:27Z,schemawatch-api,0.1.0,Mohd Obaidullah,MIT,54671,FastAPI server and API for schemawatch
+2026-10-18T20:26:18Z,thalamus-memory,0.1.0,Jackson Porter,MIT,2158609,Federated graph memory for coding agents — with a trust model and a measured utility loop
+2026-10-18T20:26:20Z,tunaxis-codegen,0.0.1,,Proprietary,1828,Tunaxis: first release coming soon.
+2026-10-18T20:26:21Z,lapviz,1.0.0,Mengal SRL <support@lapviz.com>,MIT,24635,"Official Python client of the LapViz API: lap timing sessions, telemetry, imports, webhooks and circuits."
+2026-10-18T20:26:27Z,tunaxis-data,0.0.1,,Apache-2.0,1822,Tunaxis: first release coming soon.
+2026-10-18T20:27:45Z,dft2hd2reliabilityr,0.2.1,"""Dr. Fotsa-Mbogne David Jaures"" <jauresfotsa@gmail.com>","MIT License Copyright (c) 2022 ARDIS4SD Permission is hereby granted, free of charge, to any person…",66746,"Dynamic Fault Tree -> Hasse diagram -> Reliability: minimal cut sets, minimal links and system reliability polynomials"
+2026-10-18T20:27:58Z,cgelab,0.5.0,Gustavo Hoffmann Moreira <gustavo@gakusai.net>,MIT,323582,"General-purpose toolkit for SAM-based computable general equilibrium models: balancing, calibration, closures, CET trade, institutions and foreign ownership, recursive dynamics with several capital s…"
+2026-10-18T20:28:12Z,countercheck,0.1.0,,MIT,5472333,"Proof that AI work really happened: re-runs your checks in a clean copy the worker can't edit, and writes a receipt."
+2026-10-18T20:29:32Z,sheet-lint,0.1.0,devops-gm88,MIT,133523,Audit one CSV or Excel workbook for the quiet defects that make a spreadsheet return a slightly wrong number.
+2026-10-18T20:29:34Z,sheets-data-validation-kit,0.1.0,,MIT,20396,"Validation, reconciliation and entity-resolution primitives for spreadsheet and CSV pipelines"
+2026-10-18T20:30:41Z,loglu-pytorch,0.1.1,Murumuri Naga Poorni,Apache-2.0,4993,LogLU Activation Function - PyTorch
+2026-10-18T20:30:49Z,sjaandi-kista,0.8.2,shakeyourbunny <kista-project@trinity2k.net>,GPL-3.0-or-later,96169,"Reusable Python modules for file operations, HTTP identity, path safety, and platform detection"
+2026-10-18T20:31:21Z,attnread,0.1.1,,MIT,21423,Recover attention weights without changing the attention backend.
+2026-10-18T20:31:35Z,AssayFluxScientificSystems,0.1.1,AssayFlux Contributors,MIT,1630393,"A unified scientific programming ecosystem with the AssayFlux language, 34-language interoperability, scientific Python tools, AssayFluxOS, and Gradle-powered Android builds."
+2026-10-18T20:32:17Z,sandtable-ai,0.0.1,,MIT,2084,Rehearse AI agents on a simulated copy of your customer's world before they go live. Placeholder: the first release is coming soon.
+2026-10-18T20:34:50Z,dotmatrix-unlocked,0.1.1,,GPL-3.0-or-later,210203,"Drive an iDotMatrix-compatible 32x32 LED panel from your computer: dashboard, Claude Code activity, music, visualizer, games and a mischievous cat."
+2026-10-18T20:38:43Z,hydrogen-station-sim,0.1.2,Ugwiyeon Lee,MIT,39327792,First-principles dynamic models for gaseous hydrogen refueling stations
+2026-10-18T20:39:25Z,nnflow,0.1.0,,,1038190,NNFlow
+2026-10-18T20:40:25Z,neva256,0.1.0,EWX-AI,MIT,16790,NEVA-256: experimental self-synchronizing cipher (NOT for production secrets)
+2026-10-18T20:40:36Z,neva256-native,0.1.0,EWX-AI,MIT,230955,"NEVA-256 native accelerator (Rust/PyO3) — experimental cipher, NOT for production secrets"
+2026-10-18T20:43:39Z,countwatch,0.0.1,,,1578,"Reserved for Countwatch: alerts when a count spikes, drops or goes silent. https://countwatch.com"
+2026-10-18T20:44:21Z,doxtr-hugo,0.1.0,Jens Frey,MIT,222269,Sphinx builder that generates Hugo-ready Markdown and assets from a Sphinx project.
+2026-10-18T20:48:14Z,visionary-sdk,0.4.0,styropyr0,Apache-2.0,126962,"Visionary collector: logs API requests, database and HTTP spans, errors and system metrics into your database."
+2026-10-18T20:48:28Z,qerexa,0.1.0,Qerexa,MIT,18446,Qerexa clients for verifiable credentials and fail-closed gate checks (preview).
+2026-10-18T20:48:36Z,lean-lockstep,0.1.0,Gavin Litchfield,MIT,312910,"Coordinate several agents on a Lean 4 formalization: state derived from the compiled environment, locked statements, recorded claims and memory-guarded jobs"
+2026-10-18T20:50:20Z,jsoncrm,1.0.0,,AGPL-3.0-only,131218,"A git-tracked, JSON-file CRM built for AI agents — CLI, local web UI, and a first-party MCP server"
+2026-10-18T20:53:19Z,parla,0.0.1,ptonso,Apache-2.0,1505198,"Agent-first tool for writing papers, slides, posts and diagrams in their final format, guided by the author's guides and corrections."
+2026-10-18T20:53:23Z,BinaryPacking,1.0.2,ItsRealAwi,MIT,34161,Fast C extension for packing and unpacking numeric values as binary data.
+2026-10-18T20:56:58Z,flyteplugins-omlx,0.0.0a0,Flyte authors,,10031,oMLX plugin for flyte — serve LLMs on Apple Silicon
+2026-10-18T20:58:39Z,pxsteamdl,0.4.0,,LGPL-3.0-or-later,10648014,Anonymous Steam Workshop (RimWorld) downloader
+2026-10-18T21:00:08Z,relations-unifist,0.1.0,Gaffer Fitch,,11690,Relations Models for local generation ready for global adressing
+2026-10-18T21:02:34Z,baleRobot,0.1.0,Hamidreza <h4midrezam@gmail.com>,MIT,110412,کتابخانه کامل پایتون برای API بازو (ربات‌ساز پیام‌رسان بله) | Complete Python SDK for the Bale Bot API
+2026-10-18T21:06:35Z,relations-unum,0.1.0,Gaffer Fitch,,13569,Source for locally using multiple Unifist sources as a single Unum
+2026-10-18T21:07:33Z,agentic-ops,0.1.0,,MIT,5876674,"A generic, plug-and-play Agentic Control Plane for MLOps Governance"
+2026-10-18T21:08:16Z,hdw-ta,0.1.0,Hans De Weme,MIT,9418,Reusable technical-analysis functions for market time-series data.
+2026-10-18T21:08:46Z,perata-sdk,0.1.1,,MIT,20170,"Peráta's SDK for Python: products, customers, checkouts, payments, subscriptions and webhooks."
+2026-10-18T21:08:58Z,msks,0.1.0,,,2086415,Microvm workspace daemon (klangkd analogue on cloud-hypervisor)
+2026-10-18T21:09:38Z,sdcmodeler,4.0.0,"Axius SDC, Inc.",Apache-2.0,47547,"The modeler's client for SDCStudio: search the catalog, estimate, assemble and publish SDC4 data models, generate applications; a CLI and an MCP server over one client"
+2026-10-18T21:09:43Z,pptmstr,0.1.0,Walter Reel,MIT,2372408,Puppet Master — a multi-agent LLM orchestrator with an immediate-mode UI
+2026-10-18T21:11:36Z,callstorm,0.1.0,I&D Tecnology SpA <support@callstorm.ai>,MIT,58386,"Official Python SDK for the Callstorm API: outbound voice campaigns (audio, voicebot, AI agent, human agents), leads, calls, exports and webhooks."
+2026-10-18T21:13:45Z,popia-kit,1.1.0,"Venus ARC (Pty) Ltd, trading as Venus One",MIT (code); CC BY 4.0 (guidance and templates),408466,"POPIA Kit: scanner, site check, compliance pack generator and MCP server for South African builders. Engineering guidance, not legal advice."
+2026-10-18T21:17:34Z,httpx2-audit,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,25791,"Find what breaks when your Python stack moves from httpx to httpx2: static audit, import/dependency codemod and a mixed-stack/TLS environment report."
