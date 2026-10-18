@@ -8,32 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 06:18 UTC
+## Latest list — 2026-10-18 07:18 UTC
 
-New packages created between 2026-10-18 05:18 UTC and 2026-10-18 06:18 UTC.
+New packages created between 2026-10-18 06:18 UTC and 2026-10-18 07:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-18T06-18-24-996938Z.csv)
+[Full CSV](data/new-packages-2026-10-18T07-18-24-714289Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-18 05:20:40 | [securescope](https://pypi.org/project/securescope/) | 2.0.1 | Mohamed Moataz | 140.2 kB | Web security posture scanner with evidence-backed findings, grades, and SARIF/J… |
-| 2026-10-18 05:21:40 | [deadcode-hunter](https://pypi.org/project/deadcode-hunter/) | 0.4.0 |  | 148.9 kB | Find dead code in Python, Java and TypeScript projects — and prove it's safe to… |
-| 2026-10-18 05:22:53 | [kernel-port-agent](https://pypi.org/project/kernel-port-agent/) | 1.0.0 |  | 558.3 kB | Agent-callable toolchain: mine pure-compute kernels from Java repos, extract th… |
-| 2026-10-18 05:26:20 | [chevron-ng](https://pypi.org/project/chevron-ng/) | 0.15.0 | Noah Morrison | 32.2 kB | Mustache templating language renderer |
-| 2026-10-18 05:27:37 | [html5lib-free-threaded](https://pypi.org/project/html5lib-free-threaded/) | 1.1.2 | sunyiyao <sunwh1102@qq.com> | 390.0 kB | A C-accelerated html5lib fork with auto-fallback and free-threading support for… |
-| 2026-10-18 05:28:14 | [keel-mcp-ingress](https://pypi.org/project/keel-mcp-ingress/) | 0.1.0 |  | 6.6 kB | Thin MCP stdio protocol ingress into Keel managed MCP execution |
-| 2026-10-18 05:30:52 | [sshvault](https://pypi.org/project/sshvault/) | 0.1.0 | Peng Ding <pding.dp@foxmail.c… | 43.7 kB | Back up and restore SSH keys and SSH config files with Bitwarden |
-| 2026-10-18 05:33:23 | [open-source-repository-sampler](https://pypi.org/project/open-source-repository-sampler/) | 0.1.0 | Daniel Sagenschneider | 94.5 kB | Reproducible, seeded, stratified sampling of open-source GitHub repositories fo… |
-| 2026-10-18 05:39:36 | [riskgate](https://pypi.org/project/riskgate/) | 1.0.0rc3 | Saurabh Gupta <saurabhgupta30… | 215.9 kB | Certify, reject or ask: distribution-free risk control for the actions of LLM a… |
-| 2026-10-18 05:55:37 | [dyno-lab](https://pypi.org/project/dyno-lab/) | 0.3.0 | Cason Konzer <casonk@umich.ed… | 72.0 kB | Portfolio-wide test bench utilities: fixtures, mocks, assertions, and smoke sca… |
-| 2026-10-18 05:55:45 | [archility](https://pypi.org/project/archility/) | 0.1.1 | Cason Konzer <casonk@umich.ed… | 98.4 kB | Architecture inventory and blueprint audit helpers for portfolio repositories. |
-| 2026-10-18 06:03:35 | [quorus-ai](https://pypi.org/project/quorus-ai/) | 0.5.0 | Aarya | 1.5 MB | Real-time coordination layer for AI agent swarms — rooms, messaging, distribute… |
-| 2026-10-18 06:06:34 | [kitsune-browser-mcp](https://pypi.org/project/kitsune-browser-mcp/) | 0.1.0 | junyeong-nero | 121.5 kB | MCP server that lets AI agents drive your running Firefox or Zen browser throug… |
-| 2026-10-18 06:08:34 | [mcpad](https://pypi.org/project/mcpad/) | 0.1.0 | Matteo Redaelli | 18.8 kB | A FastMCP server exposing the msad Active Directory / LDAP library |
-| 2026-10-18 06:11:14 | [agentscan-si](https://pypi.org/project/agentscan-si/) | 0.1.0 | Mayur Sonawane <mayurs1690@gm… | 33.9 kB | Security scanner for AI agents and MCP server configurations |
-| 2026-10-18 06:11:26 | [tezz-auth](https://pypi.org/project/tezz-auth/) | 1.0.0 | "TezzCorp Pvt. Ltd." <dev@tez… | 14.0 kB | Official Python SDK for Tezz Auth |
-| 2026-10-18 06:13:28 | [nordility](https://pypi.org/project/nordility/) | 0.1.0 | Cason Konzer <casonk@umich.ed… | 85.2 kB | Simple NordVPN automation helpers extracted from citegres. |
-| 2026-10-18 06:14:09 | [crew-chief](https://pypi.org/project/crew-chief/) | 0.1.0 | Cason Konzer <casonk@umich.ed… | 117.8 kB | Local Ollama LLM service and Python client for portfolio-wide trivial inference… |
-| 2026-10-18 06:14:14 | [tachometer](https://pypi.org/project/tachometer/) | 0.1.0 | Cason Konzer <casonk@umich.ed… | 141.6 kB | Shared repo and resource profiling helpers for portfolio repos. |
-| 2026-10-18 06:14:53 | [bit-byte-block](https://pypi.org/project/bit-byte-block/) | 0.1.1 | Cason Konzer <casonk@umich.ed… | 39.6 kB | Local Bitcoin Stratum proxy and upstream status tooling for solo.ckpool.org. |
-| 2026-10-18 06:15:06 | [DefStream](https://pypi.org/project/DefStream/) | 0.1.2 | Heo Yongseon | 215.2 kB | Synchronous message processing with pluggable broker adapters |
+| 2026-10-18 04:41:07 | [agenote](https://pypi.org/project/agenote/) | 0.2.1 | BrokenShine <xchai404@gmail.c… | 616.5 kB | 跨 Agent 经验平台 CLI — 知识卡片、记忆、策展与工作流蒸馏 |
+| 2026-10-18 06:20:22 | [DefStream-Redis](https://pypi.org/project/DefStream-Redis/) | 0.1.2 | Heo Yongseon | 48.5 kB | Redis Streams broker adapter for DefStream |
+| 2026-10-18 06:22:04 | [cucumber-json-aggregator](https://pypi.org/project/cucumber-json-aggregator/) | 0.1.0 |  | 65.1 kB | Aggregate multiple Cucumber JSON reports (Cucumber-JVM, cucumber-js) into a sin… |
+| 2026-10-18 06:24:58 | [session-control](https://pypi.org/project/session-control/) | 0.2.0 | Cason Konzer <casonk@umich.ed… | 115.2 kB | Private web control plane for local AI assistant session files. |
+| 2026-10-18 06:27:28 | [DefStream-RabbitMQ](https://pypi.org/project/DefStream-RabbitMQ/) | 0.1.1 | Heo Yongseon | 60.0 kB | RabbitMQ broker adapter for DefStream |
+| 2026-10-18 06:27:59 | [grillspec](https://pypi.org/project/grillspec/) | 0.1.1 | forbxpg | 524.3 kB | Spec-driven agentic development: grill the user, write the spec, plan, execute.… |
+| 2026-10-18 06:33:34 | [india-address-parser](https://pypi.org/project/india-address-parser/) | 0.1.0 |  | 19.9 kB | Parse messy Indian addresses into structured JSON with a small local model (GGU… |
+| 2026-10-18 06:34:08 | [carrot-leaf](https://pypi.org/project/carrot-leaf/) | 0.2.0 | Yore Des | 60.7 kB | A good-looking terminal app for downloading and converting YouTube (and 1000+ o… |
+| 2026-10-18 06:34:49 | [credit-card-agent-recommender](https://pypi.org/project/credit-card-agent-recommender/) | 0.1.1 | AJoelCastro | 26.4 kB | Analyze and compare credit cards from their product pages, then recommend one c… |
+| 2026-10-18 06:35:17 | [ezop-agentcost](https://pypi.org/project/ezop-agentcost/) | 0.1.0 | Baris Simsek <simsek@gmx.us> | 137.6 kB | Agent cost regression CI: tells you which change in a pull request made your LL… |
+| 2026-10-18 06:36:01 | [contextlayer-mcp-server](https://pypi.org/project/contextlayer-mcp-server/) | 0.1.6 | Rudra Nalawade | 13.7 kB | Invisible intelligence layer for AI coding tools (MCP) |
+| 2026-10-18 06:36:31 | [eurycleia](https://pypi.org/project/eurycleia/) | 0.6.0 | AgentP-Codes | 515.9 kB | A task-scoped data vault for AI agents: contain prompt injection by limiting wh… |
+| 2026-10-18 06:36:56 | [greybox-monitor](https://pypi.org/project/greybox-monitor/) | 0.4.1 | Arya Fayyazi <108017682+AryaF… | 161.1 kB | Monitor tool-calling agents (open or closed) from their transcripts: score each… |
+| 2026-10-18 06:38:07 | [baremacgui](https://pypi.org/project/baremacgui/) | 0.1.0b1 | bastian-fluegel | 167.7 kB | BareMacGUI: a thin Python layer for native macOS GUIs on AppKit via PyObjC. |
+| 2026-10-18 06:38:27 | [pysd10](https://pypi.org/project/pysd10/) | 0.2.1 |  | 96.2 kB | Python client for the Epson SD-10 spectrophotometer over Bluetooth LE (spectrum… |
+| 2026-10-18 06:42:29 | [tradility](https://pypi.org/project/tradility/) | 0.1.0 | Cason Konzer <casonk@umich.ed… | 19.2 kB | Technical analytics on investment ticker holdings and watchlists. |
+| 2026-10-18 06:43:22 | [looree](https://pypi.org/project/looree/) | 0.1.0 | digitalblack210 | 161.7 kB | Offline push-to-talk dictation for Windows, powered by NVIDIA Parakeet. |
+| 2026-10-18 06:46:25 | [qivaryn-engine](https://pypi.org/project/qivaryn-engine/) | 0.1.0 | Usama Nadeem (@usamanadim) | 70.3 kB | A media download engine designed for multiple platforms, currently supporting I… |
+| 2026-10-18 06:47:29 | [usefluency-workflow-telemetry](https://pypi.org/project/usefluency-workflow-telemetry/) | 0.1.1 |  | 54.6 kB |  |
+| 2026-10-18 06:52:32 | [assayfluxos](https://pypi.org/project/assayfluxos/) | 0.1.0 | AssayFluxOS contributors | 37.9 kB | A thoughtfully designed Python shell and FluxScript workspace for Termux, Andro… |
+| 2026-10-18 06:53:42 | [codeatlas-bundle](https://pypi.org/project/codeatlas-bundle/) | 0.1.0 | Mullassery | 13.8 kB | Bundle CodeAtlas architecture maps into any repository |
+| 2026-10-18 06:53:45 | [codeatlas-rs](https://pypi.org/project/codeatlas-rs/) | 0.1.0 | Mullassery | 3.3 MB | Rust-native architecture maps for codebases |
+| 2026-10-18 06:56:06 | [llama-index-tools-flashdata](https://pypi.org/project/llama-index-tools-flashdata/) | 0.1.0 | FlashData | 262.2 kB | Google and YouTube search tools and citation-aware readers for LlamaIndex |
+| 2026-10-18 06:57:53 | [torchlight-spark](https://pypi.org/project/torchlight-spark/) | 0.1.0 | Kyle Bush | 28.6 kB | Scan Python files and Jupyter notebooks for Spark method calls. |
+| 2026-10-18 06:59:12 | [neurarch-skypilot](https://pypi.org/project/neurarch-skypilot/) | 0.1.0 | neurarch-ai | 20.7 kB | A SkyPilot admin policy that sizes a training job's model before it takes a GPU… |
+| 2026-10-18 07:00:11 | [tirotir](https://pypi.org/project/tirotir/) | 2.0.1 | Tirotir Team | 39.0 kB | زبان برنامه‌نویسی فارسی تیروتیر |
+| 2026-10-18 07:03:56 | [orderbook-dbengine](https://pypi.org/project/orderbook-dbengine/) | 0.1.0 | kmacewicz | 296.5 kB | Low-latency Level 2 orderbook database engine for HFT |
+| 2026-10-18 07:16:16 | [molviewer](https://pypi.org/project/molviewer/) | 0.1.1 | Chanin Nantasenamat | 22.9 kB | 2D and 3D molecular visualization for Jupyter, Colab, and Streamlit |
+| 2026-10-18 07:16:17 | [jsk-resume](https://pypi.org/project/jsk-resume/) | 6.0.0 | Basilin Joe | 1.4 MB | Render verified, ATS-safe resumes from a career kept as one validated graph sto… |
+| 2026-10-18 07:18:03 | [bwo-io](https://pypi.org/project/bwo-io/) | 0.1.0 | Arthur Gouhier <ajgouhier@gma… | 91.8 kB | Compressed genome coverage tracks (.bwo), with bigWig conversion (Rust) |

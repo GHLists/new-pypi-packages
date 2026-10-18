@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T04:41:07Z,agenote,0.2.1,BrokenShine <xchai404@gmail.com>,MIT,616471,跨 Agent 经验平台 CLI — 知识卡片、记忆、策展与工作流蒸馏
+2026-10-18T06:20:22Z,DefStream-Redis,0.1.2,Heo Yongseon,,48517,Redis Streams broker adapter for DefStream
+2026-10-18T06:22:04Z,cucumber-json-aggregator,0.1.0,,MIT,65092,"Aggregate multiple Cucumber JSON reports (Cucumber-JVM, cucumber-js) into a single report."
+2026-10-18T06:24:58Z,session-control,0.2.0,Cason Konzer <casonk@umich.edu>,MIT,115216,Private web control plane for local AI assistant session files.
+2026-10-18T06:27:28Z,DefStream-RabbitMQ,0.1.1,Heo Yongseon,,59953,RabbitMQ broker adapter for DefStream
+2026-10-18T06:27:59Z,grillspec,0.1.1,forbxpg,MIT,524330,"Spec-driven agentic development: grill the user, write the spec, plan, execute. Skills and hooks for Claude Code, Cursor, Codex, Antigravity and GigaCode."
+2026-10-18T06:33:34Z,india-address-parser,0.1.0,,Apache-2.0,19930,Parse messy Indian addresses into structured JSON with a small local model (GGUF).
+2026-10-18T06:34:08Z,carrot-leaf,0.2.0,Yore Des,MIT,60703,"A good-looking terminal app for downloading and converting YouTube (and 1000+ other sites) videos, powered by yt-dlp."
+2026-10-18T06:34:49Z,credit-card-agent-recommender,0.1.1,AJoelCastro,,26415,"Analyze and compare credit cards from their product pages, then recommend one card."
+2026-10-18T06:35:17Z,ezop-agentcost,0.1.0,Baris Simsek <simsek@gmx.us>,Apache-2.0,137582,"Agent cost regression CI: tells you which change in a pull request made your LLM agent more expensive, and by how much."
+2026-10-18T06:36:01Z,contextlayer-mcp-server,0.1.6,Rudra Nalawade,,13702,Invisible intelligence layer for AI coding tools (MCP)
+2026-10-18T06:36:31Z,eurycleia,0.6.0,AgentP-Codes,AGPL-3.0-only,515866,A task-scoped data vault for AI agents: contain prompt injection by limiting what a hijacked agent can reach and where data can go.
+2026-10-18T06:36:56Z,greybox-monitor,0.4.1,Arya Fayyazi <108017682+AryaFayyazi@users.noreply.github.com>,MIT,161108,Monitor tool-calling agents (open or closed) from their transcripts: score each proposed action before it runs
+2026-10-18T06:38:07Z,baremacgui,0.1.0b1,bastian-fluegel,MIT,167729,BareMacGUI: a thin Python layer for native macOS GUIs on AppKit via PyObjC.
+2026-10-18T06:38:27Z,pysd10,0.2.1,,,96245,Python client for the Epson SD-10 spectrophotometer over Bluetooth LE (spectrum and L*a*b*)
+2026-10-18T06:42:29Z,tradility,0.1.0,Cason Konzer <casonk@umich.edu>,MIT,19193,Technical analytics on investment ticker holdings and watchlists.
+2026-10-18T06:43:22Z,looree,0.1.0,digitalblack210,MIT,161730,"Offline push-to-talk dictation for Windows, powered by NVIDIA Parakeet."
+2026-10-18T06:46:25Z,qivaryn-engine,0.1.0,Usama Nadeem (@usamanadim),"QIVARYN ATTRIBUTION LICENSE Version 1.0, 2026-10-17 Copyright (c) 2026 Usama Nadeem (@usamanadim) I…",70266,"A media download engine designed for multiple platforms, currently supporting Instagram."
+2026-10-18T06:47:29Z,usefluency-workflow-telemetry,0.1.1,,Proprietary,54608,
+2026-10-18T06:52:32Z,assayfluxos,0.1.0,AssayFluxOS contributors,MIT,37919,"A thoughtfully designed Python shell and FluxScript workspace for Termux, Android-oriented workflows, and desktop Python."
+2026-10-18T06:53:42Z,codeatlas-bundle,0.1.0,Mullassery,MIT,13773,Bundle CodeAtlas architecture maps into any repository
+2026-10-18T06:53:45Z,codeatlas-rs,0.1.0,Mullassery,MIT,3325928,Rust-native architecture maps for codebases
+2026-10-18T06:56:06Z,llama-index-tools-flashdata,0.1.0,FlashData,MIT,262174,Google and YouTube search tools and citation-aware readers for LlamaIndex
+2026-10-18T06:57:53Z,torchlight-spark,0.1.0,Kyle Bush,Apache-2.0,28606,Scan Python files and Jupyter notebooks for Spark method calls.
+2026-10-18T06:59:12Z,neurarch-skypilot,0.1.0,neurarch-ai,MIT,20728,"A SkyPilot admin policy that sizes a training job's model before it takes a GPU: refuses a request that cannot hold it, right-sizes one that asks for far more, and enforces a cost cap."
+2026-10-18T07:00:11Z,tirotir,2.0.1,Tirotir Team,,39000,زبان برنامه‌نویسی فارسی تیروتیر
+2026-10-18T07:03:56Z,orderbook-dbengine,0.1.0,kmacewicz,Apache-2.0,296510,Low-latency Level 2 orderbook database engine for HFT
+2026-10-18T07:16:16Z,molviewer,0.1.1,Chanin Nantasenamat,MIT,22886,"2D and 3D molecular visualization for Jupyter, Colab, and Streamlit"
+2026-10-18T07:16:17Z,jsk-resume,6.0.0,Basilin Joe,MIT,1387140,"Render verified, ATS-safe resumes from a career kept as one validated graph store"
+2026-10-18T07:18:03Z,bwo-io,0.1.0,Arthur Gouhier <ajgouhier@gmail.com>,BSD-3-Clause,91774,"Compressed genome coverage tracks (.bwo), with bigWig conversion (Rust)"
