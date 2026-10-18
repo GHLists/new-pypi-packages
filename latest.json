@@ -1,25 +1,37 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-18T17:20:15.957641Z",
-    "path": "data/new-packages-2026-10-18T18-18-28-621444Z.csv",
-    "to": "2026-10-18T18:18:28.621444Z"
+    "count": 49,
+    "from": "2026-10-18T18:18:28.621444Z",
+    "path": "data/new-packages-2026-10-18T19-19-48-02743Z.csv",
+    "to": "2026-10-18T19:19:48.02743Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-18T18:18:27Z",
-      "package": "aimarket-oracle-fermat",
+      "created_at": "2026-10-18T18:26:57Z",
+      "package": "Hack4U-Library-Project",
+      "since": "2026-10-18T18:18:28.621444Z"
+    },
+    {
+      "attempts": 2,
+      "created_at": "2026-10-18T17:47:16Z",
+      "package": "proteworks-cli",
       "since": "2026-10-18T17:20:15.957641Z"
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-18T17:47:16Z",
-      "package": "proteworks-cli",
-      "since": "2026-10-18T17:20:15.957641Z"
+      "created_at": "2026-10-18T19:10:49Z",
+      "package": "web-content-extractor",
+      "since": "2026-10-18T18:18:28.621444Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-18T18:50:53Z",
+      "package": "zengrad-pytorch",
+      "since": "2026-10-18T18:18:28.621444Z"
     }
   ],
-  "serial": 42407193,
+  "serial": 42409053,
   "source_truncated": false,
-  "window": "2026-10-18T18:18:28.621444Z"
+  "window": "2026-10-18T19:19:48.02743Z"
 }

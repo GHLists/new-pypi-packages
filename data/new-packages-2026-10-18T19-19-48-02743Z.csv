@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T18:18:27Z,aimarket-oracle-fermat,0.1.0,,,25486,"Fermat — least-time routing/composition oracle with a dual optimality certificate, on oracle-core"
+2026-10-18T18:18:53Z,venus-os-observability,0.1.11,,MIT,109851,"OpenTelemetry/Prometheus observability for Venus OS - D-Bus event tracing, inverter metrics, distributed tracing"
+2026-10-18T18:18:56Z,hmh,0.1.0,Hamidreza <h4midrezam@gmail.com>,"MIT License Copyright (c) 2026 Hamidreza Permission is hereby granted, free of charge, to any perso…",47629,"Read-only project analyzer: lines of code, languages, sizes and structure — without ever touching your files."
+2026-10-18T18:20:05Z,pyxpo-google-mobile-ads,0.1.0a1,Vishal Chaubey,MIT,128621,"Google AdMob ads for pyxpo apps: banner, interstitial, rewarded, rewarded interstitial, app open and native ads, consent (UMP) and request settings."
+2026-10-18T18:20:32Z,rocket-course-package,1.0.0,chebourou yassine,LICENSE.txt,5781,An awesome package that does something
+2026-10-18T18:20:47Z,digii-campus-mcp,0.1.1,Sheikh Abdullah,MIT,60028,MCP server wrapping the Digii/CollPoll student portal REST API (any college)
+2026-10-18T18:24:47Z,every-app-is-open-source,0.1.0,thomasisalwayslate <148886635+thomasisalwayslate@users.noreply.github.com>,Apache-2.0,51801,"Small, evidence-linked reverse-engineering tools for agents"
+2026-10-18T18:25:00Z,dietr,0.2.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6005513,DIETR project
+2026-10-18T18:26:24Z,jcollab,0.1.2,,MIT,113583,"MCP server for live co-editing and running of JupyterLab notebooks (Yjs, verified writes, multi-instance discovery)"
+2026-10-18T18:27:57Z,dpa-phonon,0.4.0,phonon-kit contributors,MIT,8312221,"Phonon and thermal-property workflows powered by DPA models, with VASP support"
+2026-10-18T18:28:11Z,tts-studio,1.0.0,opengptloop,,340358,"Local-first text-to-speech studio: run 'tts-studio' and your browser opens - Kokoro, Kitten, Pocket and Piper in one app, no API keys"
+2026-10-18T18:29:57Z,behave-hive,0.1.0,Alberto Zapata,MIT,104110,"Run behave scenarios in parallel with Examples read from CSV files, and get Allure, Cucumber JSON and HTML reports"
+2026-10-18T18:31:29Z,coloqo,0.0.1,Pavel Bass,Apache-2.0,13806,"Coloqo plugin: connects an AI agent to Coloqo, where a team's assistants work with each other"
+2026-10-18T18:32:20Z,connected-phone-forensics,0.1.3,Connected Phone Forensics contributors,MIT,417967,Recover smartphone evidence from the computers a phone was connected to.
+2026-10-18T18:36:20Z,evalguard-qe,0.1.0,Krishna KV <qe-community@evalguard.io>,Apache-2.0,79482,CI/CD Quality Gate & Automated Red-Teaming for GenAI & LLM Applications
+2026-10-18T18:36:41Z,pydhcpctl,0.1.0,jose-pr,MIT,215162,"One interface to DHCP servers: arm a reservation on dnsmasq, Kea, ISC dhcpd or Windows DHCP, then remove or keep it."
+2026-10-18T18:38:50Z,instagram-edits-sdk,0.2.2,,MIT,925990,"Unofficial, evidence-based Instagram Edits API research client"
+2026-10-18T18:39:13Z,avmosaic,0.1.0,avmosaic contributors,MIT,118735,Detect and mosaic explicit regions in images and videos (CLI + Python API).
+2026-10-18T18:39:21Z,python-yappy,0.1.0,H1387Lmao,,12073,API Bindings for Yapper!
+2026-10-18T18:40:27Z,aimarket-oracle-fourier,0.1.0,,,32183,Fourier — graph-spectral (Laplacian spectrum / Fiedler) oracle on oracle-core
+2026-10-18T18:41:40Z,safepyguard,0.1.0,Shivam Yadav,MIT,83308,Scan Python dependencies for license policy violations and known vulnerabilities in one CI-gatable report
+2026-10-18T18:41:58Z,snapdelta-postgres,0.2.0,Antoine Keranflec'h <antoine.keranflech@gmail.com>,Apache-2.0,19330,"PostgreSQL store backend for snapdelta: snapshots, diffs and runs in a database that many servers share"
+2026-10-18T18:42:41Z,fairland-modbus,0.0.1,Ringo De Smet,Apache-2.0,12898,"Manage inverter pumps, heat pumps & water treatment devices from Fairland Group"
+2026-10-18T18:44:10Z,videolyzer,0.1.0,Neguiolidas,Apache-2.0,37314,give agents the ability to understand and deep analyze videos
+2026-10-18T18:46:13Z,suwar,0.1.0,,MIT,6047,"Client for the Suwar API: template renders, datasets, signed callbacks."
+2026-10-18T18:49:07Z,aioecam,0.1.0b2,Christoph Berliner,AGPL-3.0-or-later,115149,Async local-first client for De'Longhi ECAM coffee machines (Coffee Link / Ayla LAN mode)
+2026-10-18T18:50:48Z,ai-robo-hub-knowledge-core,0.1.0,,,24354,Shared contracts for AI ROBO HUB knowledge pipelines
+2026-10-18T18:52:59Z,ai-robo-hub-knowledge-ingestion,0.1.0,,,10089,AI ROBO HUB knowledge ingestion pipeline
+2026-10-18T18:53:58Z,ai-robo-hub-knowledge-retrieval,0.1.0,,,17317,AI ROBO HUB knowledge retrieval pipeline
+2026-10-18T18:55:08Z,whispero,0.1.0,Neguiolidas,Apache-2.0,19955,Universal audio transcription and deep analysis - Gemini native audio plus any OpenAI-compatible API
+2026-10-18T18:57:03Z,rocket-saja,1.0.0,Saja,LICENSE.txt,5520,A simple Python rocket package
+2026-10-18T18:58:51Z,datasette-xlsx,0.2.2,Svenska kyrkans arkiv i Uppsala,MIT,23443,Exportera tabeller och frågeresultat från Datasette som Excel (.xlsx)
+2026-10-18T18:59:34Z,graphnexus-core,0.1.0,Pedro Sordo Martínez <amurlaniakea@gmail.com>,AGPL-3.0-or-later,37579,Agnostic framework transforming tabular datasets into interactive 3D graphs with Louvain community detection.
+2026-10-18T18:59:53Z,myoreachers,0.1.0,Nathaniel Ward <nathaniel@zoticus.network>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",47454134,Adds extra reaching environments to myosuite
+2026-10-18T19:01:13Z,pyagenthound,0.1.0,Georgi Mammen Mullassery <mullassery@gmail.com>,Apache-2.0,156530,Evidence-based debugging and root-cause analysis for AI agents and LLM applications
+2026-10-18T19:01:37Z,INSLIB,1.4.0,Jan Zwiener <jan@zwiener.org>,AGPL-3.0-or-later,1535703,Python bindings and telemetry for the INSLIB navigation filter
+2026-10-18T19:02:12Z,pydeepmesh,0.1.0,PyDeepMesh Contributors,Apache-2.0,212092,"Deterministic, extensible dependency-graph, vulnerability, and attack-surface intelligence for Python, Rust, Node.js, and container projects."
+2026-10-18T19:02:37Z,nullcheck-trace-bt,0.1.1,No Hindsight,MIT,36620,Standalone scalar execution trace producer for backtesting.py 0.6.6
+2026-10-18T19:03:03Z,duck-native,1.0.0,Brian Musakwa <digreatbrian@gmail.com>,BSD-3-Clause,2193523,Build platform-specific native apps from Duck Framework web apps.
+2026-10-18T19:04:49Z,calendaring-config,0.1.0,Tobias Brox <tobias@redpill-linpro.com>,GPL-3.0-or-later OR Apache-2.0,59851,"The shared configuration file of caldav, calendaring and calendaring-jmap: format, discovery and credentials"
+2026-10-18T19:05:14Z,deepmolecularnetwork,0.2.0,Giuseppe Marco Randazzo <gmrandazzo@gmail.com>,GPL-3.0-or-later,153389,"A deep learning framework for QSAR/QSPR modeling with 3D voxels, tabular descriptors, and molecular representations"
+2026-10-18T19:06:49Z,retatrutide-stoichiometry,0.1.1,BulkGLP contributors,MIT AND CC-BY-4.0,19070,Dependency-free nominal retatrutide mass-to-molarity arithmetic
+2026-10-18T19:08:46Z,enyal-verify,0.1.2,,Apache-2.0,9486,Check that an ENYAL SDK or web page is exactly what ENYAL signed (pinned release key) and anchored on BSV.
+2026-10-18T19:09:16Z,egekit-study,1.0.0,,MIT,69514,Алгоритмические инструменты для подготовки к ЕГЭ по информатике
+2026-10-18T19:11:13Z,qec-qem,0.2.0,,,68520,"Low-distance surface-code QEC simulated in pure Python (numpy), plus zero-noise extrapolation (quantum error mitigation) of the logical error rate. No Stim or PyMatching needed."
+2026-10-18T19:11:49Z,naget,0.3.1,Naget,MIT,163627,Official Python client and command-line interface for Naget
+2026-10-18T19:14:58Z,atm-bd,0.17.3,Rand Lee,MIT,1286372,"ATM and Beads orchestration console, cron runner, and bundled skills"
+2026-10-18T19:18:38Z,wowhandy,0.1.0,Odo Maletzki,MIT,45159,"World of Warcraft chat layer for the Handy speech-to-text app: channel prefixes, slash commands and reliable chat pasting"
+2026-10-18T19:18:46Z,pyeaugrandlyon,0.3.2,TwlTwk (Freddy M.),MIT,57133,Client Python asynchrone pour l'agence en ligne Eau du Grand Lyon
