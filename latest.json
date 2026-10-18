@@ -1,25 +1,37 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-10-18T11:20:10.333529Z",
-    "path": "data/new-packages-2026-10-18T12-19-07-356371Z.csv",
-    "to": "2026-10-18T12:19:07.356371Z"
+    "count": 81,
+    "from": "2026-10-18T12:19:07.356371Z",
+    "path": "data/new-packages-2026-10-18T14-20-54-309136Z.csv",
+    "to": "2026-10-18T14:20:54.309136Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-18T08:59:18Z",
-      "package": "levain-runtime",
-      "since": "2026-10-18T08:18:54.325671Z"
+      "attempts": 1,
+      "created_at": "2026-10-18T14:20:15Z",
+      "package": "cachedrift",
+      "since": "2026-10-18T12:19:07.356371Z"
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-18T12:40:14Z",
+      "package": "rocket-amiraaarawr",
+      "since": "2026-10-18T12:19:07.356371Z"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-18T11:39:13Z",
       "package": "wireforge",
       "since": "2026-10-18T11:20:10.333529Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-18T13:07:48Z",
+      "package": "younesb-rocket",
+      "since": "2026-10-18T12:19:07.356371Z"
     }
   ],
-  "serial": 42396533,
+  "serial": 42400396,
   "source_truncated": false,
-  "window": "2026-10-18T12:19:07.356371Z"
+  "window": "2026-10-18T14:20:54.309136Z"
 }

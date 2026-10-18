@@ -1,0 +1,82 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T08:59:18Z,levain-runtime,0.1.2,,Apache-2.0,63364,Self-hosted runtime for Levain agents: run an agent's nodes on your own machine or container while the platform drives the recipe
+2026-10-18T12:19:16Z,thunder4d,0.9.0,Victor Koltalo <victor.koltalo@ensta.fr>,MIT,66488,"thunder4d: Transverse-resolved Herriott-cell UPPE solver for Nonlinear Dynamics close to Experimental Reality, 4D"
+2026-10-18T12:21:47Z,alpha101v,0.1.2,alpha101-verified contributors,MIT,202881,A verifiable implementation of the 101 Formulaic Alphas — operators with explicit conventions plus a mutation-tested verification suite.
+2026-10-18T12:22:57Z,engineeringkit,0.1.0,Charles Poli <cpoli374@gmail.com>,MIT,680434,Inspectable computational engineering for learning and teaching.
+2026-10-18T12:25:25Z,zig-hocon,0.4.0,,BSD-3-Clause,3694427,"HOCON configuration for Python: the whole spec, fast, with pyhocon's API"
+2026-10-18T12:25:39Z,prokname,0.1.0,Zichao Zeng <zengzichao@sjtu.edu.cn>,"MIT License Copyright (c) 2026 Zichao Zeng Permission is hereby granted, free of charge, to any per…",692325,"Prokaryotic nomenclature assistant: deterministic etymology-driven name generation, gender agreement validation, dual-code (ICNP/SeqCode) routing"
+2026-10-18T12:26:30Z,streamlit-vanilla-components,0.1.0,,MIT,31488,Vanilla HTML/CSS/JS Streamlit components with no npm dependencies.
+2026-10-18T12:26:58Z,guardfulai,0.1.0,Guardful AI,MIT,158645,Typed sync and async client for the Guardful AI REST API
+2026-10-18T12:30:15Z,ctxdrift,0.1.0,ZidoCode,"MIT License Copyright (c) 2026 ZidoCode Permission is hereby granted, free of charge, to any person…",26308,"What did your agent forget? Audits context-compaction loss in AI coding-agent session transcripts. Zero deps, offline."
+2026-10-18T12:31:14Z,tooldistill,0.1.0,Irtaza Kashif,MIT,157636,"Turn an agent's trial-and-error runs into verified, reusable distilled tools, and keep them working as the base tools underneath them change."
+2026-10-18T12:32:17Z,MaxTiC-Next,0.1.1,"""Eric Tannier (original MaxTiC)"" <eric.tannier@inria.fr>, ""Zichao Zeng (曾子超)"" <zengzichao@sjtu.edu.…",CECILL-2.1,556216,Python 3 rewrite of MaxTiC: ranking species-tree internal nodes by Maximum Time Consistency (MTC) with lateral gene transfer constraints.
+2026-10-18T12:34:46Z,jlprep,0.1.0,Joao Lucas Moreira de Sousa,MIT,31850,Biblioteca Python para pré-processamento e análise da qualidade de dados
+2026-10-18T12:36:11Z,hridit-turtle-game,1.0.0,Hridit,MIT,4211,A simple Python Turtle game controlled by arrow keys
+2026-10-18T12:37:01Z,agentic_terminal_uj,0.1.0,,,5348,An MCP which adds terminal capabilities to an agent.
+2026-10-18T12:37:01Z,ddl-stitch,1.0.0,Guillaume Mangione,MIT,186726,"Assemble un dossier de fichiers .sql (un objet SQL par fichier) en un unique fichier DDL PostgreSQL, ordonné selon le graphe des dépendances."
+2026-10-18T12:37:27Z,scry-terminal,1.0.0,Pigar Mahdar,MIT,130577,"Instant, offline Magic: The Gathering card lookups and deck diagnostics from your terminal."
+2026-10-18T12:39:51Z,madrid,1.2.0,madrid contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",193637,iMessage rich-text send/receive bridge for agents (MCP + CLI + watch); stdlib-only Python.
+2026-10-18T12:43:08Z,completype,0.1.1,Saiful Islam,MIT,104188443,"Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abbreviation, spelling-tolerant, word-decomposing and semantic completions from object storage"
+2026-10-18T12:46:08Z,s-reports,0.1.0,Aleksandr Smyshliaev,MIT,653392,"A banded report formatter: template plus records in, PDF out."
+2026-10-18T12:54:15Z,nhydb,0.27.1,Achim Meissner <achim.meissner@nhydb.de>,,69133658,"NHyDB – general-purpose database with mathematical cell addressing (R, u, v, lane); native Rust engine with Python bindings"
+2026-10-18T12:55:01Z,jupyterlab-commands-extension,1.0.16,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,655797,Display all available JupyterLab commands with their full reference IDs and arguments in a dedicated tab
+2026-10-18T12:55:18Z,kohakumoss,0.1.0,Kohaku-Blueleaf,KohakuMoss License 1.0 (Apache-2.0 with a naming requirement),1711433,"Finetuning framework for MOSS-Image: LyCORIS algorithms and full finetune, per-arch kernels, fp16/bf16, offload, multi-GPU, Windows + Linux."
+2026-10-18T12:57:42Z,aiogram-kit,0.0.1,aiogram-kit contributors,MIT,80034,Reserved name for the aiogram-kit meta package: community libraries for aiogram v3
+2026-10-18T12:59:13Z,evidence-judge,0.1.0,Yash Vaidya,MIT,3699138,"Grade browser-agent runs and coding-agent sessions by checking every claim against recorded evidence: network, page state, screenshots, commands and test runs."
+2026-10-18T13:04:46Z,wiktionary-de-mcp,0.1.1,Joel Barmettler,Apache-2.0,42560,"MCP server for the German Wiktionary (de.wiktionary.org): check if words exist, look up grammar, meanings and conjugations."
+2026-10-18T13:07:07Z,mdfsrun,0.1.3,,MIT,14361,Run a front-matter Markdown file: tangle its code blocks with Entangled and run its front matter as a Taskfile
+2026-10-18T13:09:08Z,phylodater,0.1.0,"""Zichao Zeng (曾子超)"" <zengzichao@sjtu.edu.cn>",MIT,1353182,PhyloDater: A multi-software parallel platform for phylogenetic molecular dating
+2026-10-18T13:10:02Z,python-pylan,0.0.2,Aryan Vishwakarma,,4735,Cross-platform local network file and data sharing library.
+2026-10-18T13:12:21Z,deeptrace-ela,0.1.0,Shaheer Ul Hassan <samjanjua6@gmail.com>,MIT,18312,NIST-grade Error Level Analysis (ELA) and JPEG compression artifact image forensics engine.
+2026-10-18T13:12:36Z,schemacast,0.3.0,Alexander Belikov <alexander@growgraph.dev>,Apache-2.0,504894,Text to labeled property graph against a governed GraFlo schema
+2026-10-18T13:13:20Z,aia-cli,0.1.9,013a,LicenseRef-Proprietary AND Apache-2.0,663030,Keep a folder on your computer in sync with your AIA knowledge graph
+2026-10-18T13:15:59Z,younesbrocket,1.0.5,Younes Bouhouche,LICENSE.txt,6116,A simple rocket simulation package for games and physics simulations.
+2026-10-18T13:18:30Z,pyavaspec,0.1.0,E1nzbern <42884262+E1nzbern@users.noreply.github.com>,Apache-2.0,176443,Pythonic control library for Avantes AvaSpec spectrometers
+2026-10-18T13:19:58Z,openreltime,0.1.1,"曾子超 <zengzichao@sjtu.edu.cn>, 王寅炤 <wyz@sjtu.edu.cn>",GPL-3.0-or-later,620933,OpenRelTime: relative rate framework (RRF) molecular dating in Python
+2026-10-18T13:20:57Z,repotrace,0.1.0,BiTech5,MIT,49498,Python CLI tool to automate bug reproduction and regression testing
+2026-10-18T13:22:25Z,kerniq,1.0.0,Viraj Ravani <viraj.ravani@somaiya.edu>,MIT,245821,"Don't babysit your terminal. Monitor every task, wherever you are."
+2026-10-18T13:22:56Z,safedecide,0.1.0,Yotam Braun,Apache-2.0,121617,Small System One decision models with a guaranteed error rate on what they automate.
+2026-10-18T13:25:46Z,mcp-sql-analyst,0.1.0,Tanzil Ali Rizvi <tanzilali.rizvi@gmail.com>,MIT,122969,"A secure, read-only SQL MCP server that lets AI assistants analyse CSV, Parquet and JSON files: SQL guard, sandboxed DuckDB, PII masking and an audit log."
+2026-10-18T13:25:51Z,ajgar-alpha,0.1.0,Aarsh Garg <aarshg.13@gmail.com>,,7748,Write Python in pure Devanagari Hindi! शुद्ध देवनागरी हिंदी में पायथन लिखें! (Deprecated)
+2026-10-18T13:26:11Z,securitykit,0.1.0,Naksh Sunil Humbe,MIT,27630,A Python security analysis toolkit with ten modules
+2026-10-18T13:32:11Z,aleth-reader-host,0.1.0,Aleth Authors,Apache-2.0,51169,"Native-messaging host for the Aleth reader browser extension: the browser launches it, it writes what you read to the memory engine on your own machine over the public wire. Stdlib plus aleth-client,…"
+2026-10-18T13:32:17Z,aleth-wiki,0.0.0,Aleth Authors,Apache-2.0,2660,"Name reservation placeholder, part of Aleth, a memory engine. This version contains no functionality."
+2026-10-18T13:32:54Z,torob-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,MIT,201440,"Unofficial read-only MCP server for Torob: search Iranian shops, compare seller prices, price history, deal checks, baskets, installments, shops."
+2026-10-18T13:35:01Z,IbrahimLinearRegression,1.0.0,ibrahim,LICENSE.txt,3012,An awesome package that does something
+2026-10-18T13:36:56Z,gh-changelog-ci,2.0.0,Maksudul Haque,MIT,209541,Generate changelogs from GitHub pull requests or commits.
+2026-10-18T13:38:27Z,substrate-data-client,0.2.0,,,61137,"Python client for Substrate Data: governed SQL, catalog and files (sync and asyncio)"
+2026-10-18T13:40:27Z,linear-regression-mountassar-gorp,1.0.1,mountassar_billah,MIT,3341,A Python package for linear regression implemented from scratch
+2026-10-18T13:41:33Z,seds-rocket-lab3,1.0.0,,,5229,"Rocket, Shuttle and CircleRocket classes for SEDS Lab 03"
+2026-10-18T13:42:05Z,amira-simple-linear-regression,1.0.0,amiraaarawr,MIT,2766,A simple linear regression model implemented from scratch
+2026-10-18T13:42:51Z,apostra,0.38.0,Scope3 PBC,Apache-2.0,442849,The official Apostra V3 HTTP SDK
+2026-10-18T13:43:54Z,gps-video-sync,0.1.0,,MIT,72263,Synchronize action camera telemetry with GPS tracks
+2026-10-18T13:44:49Z,a2ui-chart-strands,0.9.0,haystackedai,MIT,81518,Agent-side A2UI chart producer for @haystackedai/a2ui-chart-react clients. Keep your agent (bedrock/agentcore/strands and your own biz logic untouched); add a few lines where you already have the ans…
+2026-10-18T13:45:12Z,tenways-ble,0.2.1,Christoph Berliner,MIT,178015,"Read-only BLE client, King Meter protocol and diagnostic CLI for TENWAYS e-bikes"
+2026-10-18T13:49:55Z,duru,0.1.0,,BSD-3-Clause,72936,Explicit resource access contracts and independently configured providers
+2026-10-18T13:51:15Z,tp-seds-abababababab,0.0.2,Khebouza Ahmed Walid <aw.khebouza@esi-sba.dz>,MIT,21469,lol
+2026-10-18T13:53:11Z,caii-terminal,1.0.0,CAII,,8271,Coding Artificial Intelligence International CLI Terminal OS
+2026-10-18T13:53:43Z,fast-potato,0.1.0,Ehsan Rakhshankhah <ehsan.rakhshankhah@dkfz-heidelberg.de>,MIT,164116,Async-first distributed task queue
+2026-10-18T13:54:23Z,rocket-esi-yacine,1.0.0,Ahmed Yacine,LICENSE.txt,6120,"Rocket, Shuttle and CircleRocket classes for simple simulations"
+2026-10-18T13:54:31Z,mcp-to-cli-kit,0.1.0,Filip Procházka <dev@fprochazka.cz>,MIT,194676,Build a typed command-line interface for one or more remote MCP servers
+2026-10-18T13:55:52Z,nexus-filings,0.1.2,TFSouthCode,Apache-2.0,16342,"Official SDK for Nexus Filings: normalized financial data extracted from official filings across multiple registries (UK, US, Denmark, Norway, Brazil and other European markets)"
+2026-10-18T13:57:20Z,galmuri,0.1.0,,BSD-3-Clause,447522,Composable source ingestion with lifecycle contracts and transport adapters
+2026-10-18T14:01:36Z,ollama-decision,0.1.0,Arthur <arthuras.work@gmail.com>,MIT,11684,"Python SDK for Ollama's Decision API. Convert text into structured, typed responses without prose generation using an elegant operator-based DSL."
+2026-10-18T14:02:01Z,tickfeed,0.1.0,,MIT,19272,Official Python client for the TickFeed market data API: live bid/ask and OHLC candles for 60 forex pairs and 11 metals.
+2026-10-18T14:02:22Z,sudreg-mcp,0.0.1,,,2791,"MCP server for Croatian company data: Sudski registar, FINA RGFI, udruge, court notices, subsidies, EU tenders. Search by OIB or MBS."
+2026-10-18T14:02:25Z,provjera-mcp,0.0.1,,,1774,Moved to sudreg-mcp
+2026-10-18T14:07:09Z,ngcs,0.1.0,Mickael Rigault <mickael.rigault@cnrs.fr>,Apache-2.0,499450,"Quick and simple access to clean images of NGC galaxies (SGA-2020 catalog, Legacy Surveys / Pan-STARRS cutouts, Gaia star removal)"
+2026-10-18T14:07:13Z,pyforge-web-engine,0.1.0,,,88086,"A tiny Python-powered web game engine: write game logic in Python, play it in the browser."
+2026-10-18T14:10:40Z,regression-yourname,0.1.0,Your Name,MIT,5745,Simple linear regression implemented from scratch
+2026-10-18T14:11:38Z,ephemeral-buffer-mcp-core,0.11.0,Karl Rister <krister@redhat.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",311684,Shared runtime core for the Ephemeral Buffer MCP server
+2026-10-18T14:12:02Z,lucaailib,0.0.1,Luca Pisant,MIT,3994,A lightweight AI library for neural network training and inference.
+2026-10-18T14:12:06Z,ephemeral-buffer-mcp-lexical,0.11.0,Karl Rister <krister@redhat.com>,Apache-2.0,3188,Lexical-only Ephemeral Buffer MCP server
+2026-10-18T14:12:12Z,free-llm-models,1.0.2,MyToolster,MIT,188977,A curated list of free LLM APIs and models. Query 500+ free models from 30+ providers.
+2026-10-18T14:14:05Z,robovue-sdk,0.2.0,Robovue,MIT,40761,"Report RPA and scripted bot runs to Robovue: signed requests, retries, checks before sending and dry runs."
+2026-10-18T14:14:53Z,rocket-seds-lab3-imane,1.0.0,imane,LICENSE.txt,6145,An awesome package that does something
+2026-10-18T14:15:00Z,relay-router-cli,0.1.0,Relay,,77270,Route your coding agent through Relay: compression and per-turn model routing.
+2026-10-18T14:15:07Z,rocket-sedslab3-BADISBADISO,1.0.0,Kherarba Badis,LICENSE.txt,1569,An awesome package that does something
+2026-10-18T14:15:13Z,simple-linear-regression-lab,0.1.0,,,3529,A simple linear regression model for the software engineering lab
+2026-10-18T14:15:16Z,rocket-ghada,1.0.0,dhb_ghada,MIT,5781,A small Rocket/Shuttle/CircleRocket package
+2026-10-18T14:17:54Z,chatterboxsynth,0.1.0,ChatterboxSynth contributors,Apache-2.0,61897,Cleanroom Chatterbox synthesis engine for ONNX bundles
+2026-10-18T14:18:23Z,goto-fetch,0.1.0,Dario Clarke,MIT,259030,"Pull data from paginated JSON APIs safely, fetch only what changed, and store it for analysis."
+2026-10-18T14:18:36Z,rocket-package-By-BoulghebAnis,1.0.0,Boulgheb Anis,MIT,2701,"Rocket, Shuttle and CircleRocket classes"
