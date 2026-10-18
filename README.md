@@ -8,54 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 17:20 UTC
+## Latest list — 2026-10-18 18:18 UTC
 
-New packages created between 2026-10-18 16:19 UTC and 2026-10-18 17:20 UTC.
+New packages created between 2026-10-18 17:20 UTC and 2026-10-18 18:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-18T17-20-15-957641Z.csv)
+[Full CSV](data/new-packages-2026-10-18T18-18-28-621444Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-18 16:20:48 | [up-kairos](https://pypi.org/project/up-kairos/) | 0.1.0 | Francisco Martín Rico <fmrico… | 37.2 kB | Kairos, a temporal and numeric PDDL planner, as an engine of the Unified Planni… |
-| 2026-10-18 16:22:21 | [altar-conservation](https://pypi.org/project/altar-conservation/) | 0.3.0 | Riya Sinha | 35.5 kB | Base-wise conservation score tracks (UCSC phyloP) for Altar |
-| 2026-10-18 16:22:21 | [smspool-sdk](https://pypi.org/project/smspool-sdk/) | 0.1.0 | OpenAPI Generator community | 109.6 kB | SMSPool API |
-| 2026-10-18 16:22:32 | [altar-enformer](https://pypi.org/project/altar-enformer/) | 0.3.0 | Riya Sinha | 31.6 kB | Enformer model binding for large-scale Altar variant scoring |
-| 2026-10-18 16:22:44 | [altar-sei](https://pypi.org/project/altar-sei/) | 0.3.0 | Riya Sinha | 28.6 kB | Sei model binding for large-scale Altar variant scoring |
-| 2026-10-18 16:22:55 | [altar-borzoi](https://pypi.org/project/altar-borzoi/) | 0.3.0 | Riya Sinha | 32.8 kB | Borzoi model binding for large-scale Altar variant-gene scoring |
-| 2026-10-18 16:23:41 | [jubbio](https://pypi.org/project/jubbio/) | 1.0.1 | Lanux Yazılım Hizmetleri & Ju… | 173.2 kB | Jubbio için resmi olmayan Python bot kütüphanesi (@jubbio/core + @jubbio/voice… |
-| 2026-10-18 16:28:01 | [lumio-lancedb](https://pypi.org/project/lumio-lancedb/) | 0.2.0 | "Volker L." <ligno.blades@gma… | 23.6 kB | Optional LanceDB enhanced-retrieval adapter for the Lumio Knowledge Base. |
-| 2026-10-18 16:28:02 | [lumio-wiki](https://pypi.org/project/lumio-wiki/) | 0.2.0 | "Volker L." <ligno.blades@gma… | 470.9 kB | Portable, model-free Knowledge Base foundation for Lumio. |
-| 2026-10-18 16:29:17 | [gamry-dta](https://pypi.org/project/gamry-dta/) | 0.1.0 | kristianfkt | 14.3 kB | Read Gamry .DTA files as polars dataframes. Also extract metadata as dictionari… |
-| 2026-10-18 16:33:12 | [car-price-model](https://pypi.org/project/car-price-model/) | 0.1.0 |  | 46.8 MB | car Price Prediction Model Package |
-| 2026-10-18 16:36:51 | [alye](https://pypi.org/project/alye/) | 0.1.0 | Onruyl Private Limited <info@… | 77.0 kB | Alye: cost, latency and error tracking for every LLM call your services make. |
-| 2026-10-18 16:37:11 | [jyotish-engine](https://pypi.org/project/jyotish-engine/) | 0.2.0 | Shivam Sharma | 219.2 kB | Multi-school Vedic astrology (Jyotish) engine: BPHS, Jaimini and other classica… |
-| 2026-10-18 16:38:01 | [orc-hestrator-server](https://pypi.org/project/orc-hestrator-server/) | 2.0.0 | Claudio Ferreira Filho | 2.6 MB | MCP server for AI agent work management — persistent work item graph for AI age… |
-| 2026-10-18 16:40:33 | [vaporcli](https://pypi.org/project/vaporcli/) | 1.0.4 | Elouan | 57.3 kB | CLI utility for launching game executables directly from the terminal, bypassin… |
-| 2026-10-18 16:40:56 | [piffler](https://pypi.org/project/piffler/) | 0.1.0 | guillochon | 1.3 MB | Turn a video of someone flipping through a book into clean, dewarped, OCR'd pag… |
-| 2026-10-18 16:42:14 | [ggml-compiler](https://pypi.org/project/ggml-compiler/) | 0.1.0 | Khanh Nguyen | 1.7 MB | Compile PyTorch and ONNX models into ggml programs that run on CPU and CUDA wit… |
-| 2026-10-18 16:44:16 | [opengsc](https://pypi.org/project/opengsc/) | 0.1.0 |  | 135.8 kB | Minimal, transparent, read-only MCP server for Google Search Console. |
-| 2026-10-18 16:48:09 | [lazyplan-tui](https://pypi.org/project/lazyplan-tui/) | 0.7.0 |  | 109.9 kB | Terminal stream-of-consciousness console for issue tracking + roadmap planning… |
-| 2026-10-18 16:48:35 | [zengrad-pytorch](https://pypi.org/project/zengrad-pytorch/) | 0.1.0 | Rishi Chaitanya | 6.0 kB | ZenGrad Optimizer - Pytorch |
-| 2026-10-18 16:50:03 | [fritzconnection-enhanced](https://pypi.org/project/fritzconnection-enhanced/) | 1.0.0 |  | 134.2 kB | Custom FritzConnection library for HA voicemail |
-| 2026-10-18 16:50:12 | [reconflow](https://pypi.org/project/reconflow/) | 0.2.2 | Nithishvelan M | 32.9 kB | Recon pipeline for bug bounty hunters with differential change tracking |
-| 2026-10-18 16:50:45 | [docket-ai](https://pypi.org/project/docket-ai/) | 0.1.0 | The Docket contributors | 1.3 MB | Every AI agent run gets a docket number: hard spending caps and a tamper-eviden… |
-| 2026-10-18 16:52:09 | [AssayFluxScientificSystems](https://pypi.org/project/AssayFluxScientificSystems/) | 0.1.0 | Md Safarujjaman <assayflux@gm… | 979.3 kB | AssayFlux Scientific Systems: language runtime, scientific Python bridge, proje… |
-| 2026-10-18 16:57:25 | [metisprism-optimizer](https://pypi.org/project/metisprism-optimizer/) | 0.0.2 | MetisAI Labs | 4.3 kB | MetisPrism setup helper: shows how to install MetisPrism tools from your accoun… |
-| 2026-10-18 16:58:53 | [isworkday](https://pypi.org/project/isworkday/) | 1.0.0 |  | 11.0 MB | Command-line predicate: is DATE a statutory workday in REGION? One word, one ex… |
-| 2026-10-18 16:59:54 | [hufi](https://pypi.org/project/hufi/) | 0.1.0 |  | 7.4 kB | A Python library for encoding and decoding .hufi image files. |
-| 2026-10-18 17:01:49 | [scanandpay](https://pypi.org/project/scanandpay/) | 0.0.1 | Scan & Pay <hi@scanandpay.com… | 3.9 kB | Official Scan & Pay Python SDK — accept PayTo PayID payments with QR code-based… |
-| 2026-10-18 17:02:24 | [workgraph](https://pypi.org/project/workgraph/) | 0.1.0 | digital-duck | 213.8 kB | A knowledge layer beside Claude Code: a graph of your projects, lifecycle, prod… |
-| 2026-10-18 17:02:55 | [ocr-magnifier-realtime](https://pypi.org/project/ocr-magnifier-realtime/) | 0.1.0 | "Teody A. Banagan" <teody8820… | 20.2 kB | Real-time screen magnifier with OCR and translation capabilities using PyQt5 an… |
-| 2026-10-18 17:04:17 | [gsearch-agent](https://pypi.org/project/gsearch-agent/) | 0.1.0 | Rayen Mlayeh | 108.2 kB | Real Google Search for AI agents, over MCP: real URLs, AI Overview and People a… |
-| 2026-10-18 17:04:39 | [vox-magpie](https://pypi.org/project/vox-magpie/) | 0.1.0 |  | 28.8 kB | NVIDIA MagpieTTS adapter for Vox using NeMo-Speech.cpp |
-| 2026-10-18 17:04:55 | [rsflowhub](https://pypi.org/project/rsflowhub/) | 1.0.0 | RSFlowHub <support@rsflowhub.… | 54.2 kB | Official Python SDK for the RSFlowHub AI API: sentiment analysis, translation,… |
-| 2026-10-18 17:06:39 | [minimindslab-blank-line-collapse](https://pypi.org/project/minimindslab-blank-line-collapse/) | 0.1.0 | MiniMindsLab | 3.3 kB | Collapse repeated blank lines in text while preserving at most one blank line b… |
-| 2026-10-18 17:07:52 | [zen1400-de-toolkit](https://pypi.org/project/zen1400-de-toolkit/) | 0.1.1 | Zein Moualla | 4.1 kB | MyPackage |
-| 2026-10-18 17:09:51 | [polyrag](https://pypi.org/project/polyrag/) | 0.2.0 | Nguyen Viet Ky Quan <nguyenvi… | 105.8 kB | A modular, multi-paradigm Retrieval-Augmented Generation (RAG) framework suppor… |
-| 2026-10-18 17:09:55 | [private-pyrig-private-repo](https://pypi.org/project/private-pyrig-private-repo/) | 0.1.46 | Winipedia | 10.4 kB | This is a private repository built with pyrig-private. |
-| 2026-10-18 17:10:01 | [WinTypeLibrary](https://pypi.org/project/WinTypeLibrary/) | 1.0.1 | Ishkare | 55.4 kB | The WinTypeLibrary |
-| 2026-10-18 17:10:04 | [private-pyrig-repo](https://pypi.org/project/private-pyrig-repo/) | 0.1.50 | Winipedia | 10.1 kB | This is a private repository built with pyrig. |
-| 2026-10-18 17:13:06 | [aio2030dot5](https://pypi.org/project/aio2030dot5/) | 0.4.0 | Raul E Rangel <raul@bestmail.… | 189.3 kB | Async client for IEEE 2030.5 (SEP 2.0) HAN smart meters, e.g. Itron Gen5 Riva (… |
-| 2026-10-18 17:16:00 | [lobera](https://pypi.org/project/lobera/) | 0.2.0 | mitr0kerb <mitr0kerb@gmail.co… | 1.2 MB | Suite de herramientas para pentesting de Active Directory |
-| 2026-10-18 17:16:23 | [magmacrunch-roderick-tron](https://pypi.org/project/magmacrunch-roderick-tron/) | 0.1.0 | magmacrunch media | 115.7 kB | Roderick Tron — terminal version |
-| 2026-10-18 17:16:46 | [simoai](https://pypi.org/project/simoai/) | 0.3.0 | Temprl | 82.7 kB | Python SDK for Simo: typed questions about a situation, answered with calibrate… |
+| 2026-10-18 17:20:30 | [tomville](https://pypi.org/project/tomville/) | 0.1.0 | Tom Nguyen <tomnguyen6766@gma… | 157.0 kB | A retro game view of your agent team, built on top of herdr |
+| 2026-10-18 17:26:47 | [findjobs-agent](https://pypi.org/project/findjobs-agent/) | 1.1.0 |  | 4.9 MB | LLM-powered job toolkit: skill gap analysis, mock interviews, resume optimizati… |
+| 2026-10-18 17:30:25 | [pyzed-ui](https://pypi.org/project/pyzed-ui/) | 0.2.0 |  | 60.8 MB | Fast, modern GUIs for Python powered by Iced (Rust), with Zed-inspired componen… |
+| 2026-10-18 17:31:03 | [ddaerospike](https://pypi.org/project/ddaerospike/) | 0.0.1 | davyddd | 34.9 kB | Aerospike helpers: typed records, filters and a set manager on top of aerospike… |
+| 2026-10-18 17:32:11 | [rsdiff](https://pypi.org/project/rsdiff/) | 0.1.0 | Ahmad Sebaq <ahmad.sebaq@gmai… | 49.7 kB | Text-to-satellite-image diffusion: the RSDiff cascade (NCAA 2024), released wei… |
+| 2026-10-18 17:33:01 | [hairline](https://pypi.org/project/hairline/) | 0.1.0 | Nikolas Schrader <hi@nikolass… | 955.4 kB | Clean, predictable figures for medical and data science, matching the hairline… |
+| 2026-10-18 17:35:48 | [ragmechanic](https://pypi.org/project/ragmechanic/) | 0.1.0 |  | 52.1 kB | A framework for building, evaluating, and diagnosing RAG systems. |
+| 2026-10-18 17:38:35 | [flakeguard](https://pypi.org/project/flakeguard/) | 0.1.0 | Prathamesh Kulkarni | 198.8 kB | Find, rank, and quarantine flaky tests from any language's test reports. |
+| 2026-10-18 17:39:10 | [rocket-douaa](https://pypi.org/project/rocket-douaa/) | 1.0 | Khoualed Douaa | 6.1 kB | A rocket simulation package |
+| 2026-10-18 17:40:59 | [dsgelab](https://pypi.org/project/dsgelab/) | 0.5.0 | Gustavo Hoffmann Moreira <gus… | 405.5 kB | Solve, simulate and estimate DSGE models in Python: perturbation to second orde… |
+| 2026-10-18 17:41:12 | [chokr-spec](https://pypi.org/project/chokr-spec/) | 0.0.1 | Nitin Saxena | 133.2 kB | CHOKR protocol for AI agent governance: JSON Schemas, registries and conformanc… |
+| 2026-10-18 17:42:53 | [armoriq-policy-ir](https://pypi.org/project/armoriq-policy-ir/) | 0.1.3 | ArmorIQ Team <license@armoriq… | 21.1 kB | Armor Policy v2 evaluator for Python, checked against the golden vectors of @ar… |
+| 2026-10-18 17:44:57 | [figurant](https://pypi.org/project/figurant/) | 0.1.1 |  | 1.9 MB | Synthetic organisational and identity data for testing identity governance |
+| 2026-10-18 17:51:35 | [Synthaxe](https://pypi.org/project/Synthaxe/) | 0.0.1 | Anthony Tedde | 14.1 kB | A high-level data generation framework based on grammar rules |
+| 2026-10-18 17:52:22 | [nexus-browser](https://pypi.org/project/nexus-browser/) | 2.9.0 | Julien Piron | 124.1 kB | Your real Chrome, driven by Claude, Codex and Antigravity in background tabs: t… |
+| 2026-10-18 17:53:25 | [ebird-cli](https://pypi.org/project/ebird-cli/) | 0.1.0 | Kevin Verreault <dev@kevinver… | 55.0 kB | A command-line interface for exploring eBird bird observation data. |
+| 2026-10-18 17:53:32 | [doctools-m8](https://pypi.org/project/doctools-m8/) | 0.1.0 | Eli Serra <e.serra173@gmail.c… | 21.7 kB | Media-neutral document toolkit: models, revisions, the versioned artifact envel… |
+| 2026-10-18 17:54:08 | [magmacrunch-backgammon](https://pypi.org/project/magmacrunch-backgammon/) | 0.1.0 | magmacrunch media | 76.5 kB | Backgammon against the computer. Terminal version. |
+| 2026-10-18 17:54:19 | [numberotp](https://pypi.org/project/numberotp/) | 0.1.0 | NumberOTP <support@numberotp.… | 41.9 kB | Official NumberOTP API client — virtual numbers for SMS / OTP verification |
+| 2026-10-18 17:55:07 | [dockseed](https://pypi.org/project/dockseed/) | 0.1.0 | Dockseed Contributors | 66.5 kB | Inspect Python projects and generate deterministic, best-practice Dockerfiles a… |
+| 2026-10-18 17:55:34 | [ordinex-energy](https://pypi.org/project/ordinex-energy/) | 0.2.0 | OrdinexData | 13.9 kB | Python client for the Ordinex Energy Intelligence API |
+| 2026-10-18 17:55:34 | [thinwrap-llm](https://pypi.org/project/thinwrap-llm/) | 1.1.0 | Dmitry Polyanovsky | 127.4 kB | Lightweight, SDK-free, zero-dependency Python wrapper for chat completions (wit… |
+| 2026-10-18 17:55:46 | [proteworks](https://pypi.org/project/proteworks/) | 0.1.0 |  | 31.9 kB | Sync files with Proteworks using file-browser paths. |
+| 2026-10-18 17:59:18 | [zengrad-tensorflow](https://pypi.org/project/zengrad-tensorflow/) | 1.0 | Rishi Chaitanya | 6.3 kB | ZenGrad Optimizer - TensorFlow |
+| 2026-10-18 18:00:35 | [helm-server](https://pypi.org/project/helm-server/) | 0.1.0 |  | 2.9 MB | Pairs the Helm iPhone app with the Cursor CLI on your Linux or macOS server. |
+| 2026-10-18 18:02:45 | [magmacrunch-checkers](https://pypi.org/project/magmacrunch-checkers/) | 0.1.0 | magmacrunch media | 60.5 kB | Checkers against the computer. Terminal version. |
+| 2026-10-18 18:03:17 | [magmacrunch-caldera](https://pypi.org/project/magmacrunch-caldera/) | 0.1.0 | magmacrunch media | 72.1 kB | CALDERA - climb the vent, outrun the magma. Terminal version. |
+| 2026-10-18 18:03:35 | [kasm-pkg](https://pypi.org/project/kasm-pkg/) | 0.1.0 | Kangcheng Hou | 179.8 kB | Kernel allelic series model for rare-variant heritability from exome summary st… |
+| 2026-10-18 18:04:18 | [xmlvalid](https://pypi.org/project/xmlvalid/) | 1.0.0 | xmlvalid <support@xmlvalid.co… | 39.2 kB | Python client for the xmlvalid API: validate XML and e-invoices (Peppol, XRechn… |
+| 2026-10-18 18:07:44 | [magmacrunch-chess](https://pypi.org/project/magmacrunch-chess/) | 0.1.0 | magmacrunch media | 83.1 kB | Chess against the computer. Terminal version. |
+| 2026-10-18 18:09:44 | [magmacrunch-chinese-checkers](https://pypi.org/project/magmacrunch-chinese-checkers/) | 0.1.0 | magmacrunch media | 70.5 kB | Chinese checkers against the computer, for two to six. Terminal version. |
+| 2026-10-18 18:12:40 | [orion-verify](https://pypi.org/project/orion-verify/) | 0.5.0 | ORION Model contributors | 91.1 kB | ORION Model: self-hosted domain ownership verification and browser anti-abuse S… |
+| 2026-10-18 18:13:06 | [pyxpo-dot-env](https://pypi.org/project/pyxpo-dot-env/) | 0.1.0a1 | Vishal Chaubey | 88.9 kB | Environment variables for pyxpo apps: .env files per build mode, typed access,… |
+| 2026-10-18 18:14:04 | [evaporator](https://pypi.org/project/evaporator/) | 0.2.0 |  | 355.4 kB | Turn the predictable parts of LLM traffic into ordinary code, with an abstentio… |
+| 2026-10-18 18:14:06 | [magmacrunch-cribbage](https://pypi.org/project/magmacrunch-cribbage/) | 0.1.0 | magmacrunch media | 77.8 kB | Cribbage against the computer. Terminal version. |
+| 2026-10-18 18:14:33 | [falcon-axi](https://pypi.org/project/falcon-axi/) | 0.4.1 |  | 163.3 kB | Read CrowdStrike Falcon detections, hosts, vulnerabilities, and NG-SIEM searche… |
+| 2026-10-18 18:15:48 | [aimarket-oracle-chronos](https://pypi.org/project/aimarket-oracle-chronos/) | 0.1.0 |  | 26.1 kB | Chronos — verifiable delay function (VDF) oracle on oracle-core |
+| 2026-10-18 18:16:06 | [magmacrunch-nelikko](https://pypi.org/project/magmacrunch-nelikko/) | 0.1.0 | magmacrunch media | 45.6 kB | NELIKKO - Helsinki 1989. Terminal version. |
+| 2026-10-18 18:16:22 | [magmacrunch-tarot](https://pypi.org/project/magmacrunch-tarot/) | 0.1.0 | magmacrunch media | 56.6 kB | French tarot against three computers. Terminal version. |
+| 2026-10-18 18:16:23 | [aimarket-oracle-colony](https://pypi.org/project/aimarket-oracle-colony/) | 0.1.0 |  | 18.1 kB | Colony — combinatorial optimization with a quality certificate (TSP) oracle on… |
+| 2026-10-18 18:16:37 | [haconf](https://pypi.org/project/haconf/) | 0.1.0 |  | 101.9 kB | Check Home Assistant YAML and Jinja before reload — no instance needed. |
+| 2026-10-18 18:18:08 | [loamz](https://pypi.org/project/loamz/) | 0.0.1 | Ravikumarchavva | 2.1 kB | Loamz: a governed data platform and durable agents built on it. Placeholder; th… |
+| 2026-10-18 18:18:10 | [inverter-climate](https://pypi.org/project/inverter-climate/) | 0.4.4 |  | 43.4 kB | Energy-aware climate coordination through Home Assistant and Victron |
