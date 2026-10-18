@@ -1,0 +1,60 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T11:39:13Z,wireforge,0.1.0,Oguzhan KAYNAK,BUSL-1.1 AND MIT,692704,"Schema-driven wire-format toolkit: C++17 code generation, validation, server and MCP."
+2026-10-18T14:20:15Z,cachedrift,0.1.0,ZidoCode,MIT,19787,Static analyzer that finds the code patterns silently killing your LLM prompt cache.
+2026-10-18T14:21:45Z,kg-ssot,4.9.0,Marcio Carvalho,Apache-2.0,377265,"Contrato formal do grafo de conhecimento verificável (.kg.yaml e .kg.json): leitor de referência, suíte de conformidade, gate por grafo, armazém e servidor MCP."
+2026-10-18T14:24:07Z,nexus-android,0.4.1,Julien Piron,MIT,119010,"Android computer use for AI agents over ADB: one MCP server shared by Claude Code, Codex and Antigravity"
+2026-10-18T14:24:13Z,nexus-windows,0.9.1,Julien Piron,MIT,411746,"Background Windows desktop control for Claude: an MCP server that sees and acts without taking the user's mouse, keyboard or foreground"
+2026-10-18T14:24:26Z,dao-greet,0.0.4,Dao <im@daodaolee.cn>,,3097,A simple greeting function
+2026-10-18T14:25:37Z,rocket-maroua,1.0.0,Maroua,MIT,5993,"Rocket, Shuttle and CircleRocket classes"
+2026-10-18T14:25:58Z,octxqr,1.0.1,Jiří Vik <mimic2300@gmail.com>,MIT,263576,A robust tool suite for transferring files via animated QR codes using Zstandard compression and a Flask web receiver.
+2026-10-18T14:26:19Z,sdkmgr,0.1.0,Lex Berezhny <lex@damoti.com>,BSD-3-Clause,70510,"Discover and provision Node, Java, and Android development tools."
+2026-10-18T14:26:35Z,checkride,0.6.0,Preetham Noel P,Apache-2.0,273440,Find the dangerous things your AI agent can do without asking a human: a static scanner for MCP servers and agent tool code.
+2026-10-18T14:27:31Z,rocket31imedbnt31askjbfkjadsbfkjsdfbo,1.0.0,Imed,LICENSE.txt,2842,A Python package for rocket simulation
+2026-10-18T14:28:01Z,sciskill,0.1.0a1,,GPL-3.0-only,210193,Bibliography audits and local rebuttal workspaces for scientists
+2026-10-18T14:28:39Z,eza-sdk,0.2.0,,MIT,15524,"Eza Cloud for Python: transactional email, PayEdge M-Pesa STK push and signed webhooks."
+2026-10-18T14:30:03Z,finetune-doctor,0.2.0,junglezke,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",104706,"Did your fine-tune overfit? Which checkpoint should you keep? What can you delete? Reads any HuggingFace Trainer run, local or on the Hub."
+2026-10-18T14:30:14Z,skillsentry,0.1.1,ZidoCode,MIT,42286,"Gate agent skills and plugins before install: hash pinning, capability drift, and payload scanning."
+2026-10-18T14:31:40Z,padya,0.1.0,Vaidika Samrakshana Parishad,MIT,276356,"पद्यज्ञापिनी — deterministic, rule-based detector of classical Sanskrit verses (padya) inside Devanagari prose, with offline tagged-HTML review pages"
+2026-10-18T14:33:18Z,keymap-align,0.2.0,Chris Birch <datapointchris@gmail.com>,MIT,81201,ZMK keymap alignment tool for custom mechanical keyboards
+2026-10-18T14:33:25Z,sendhog-sdk,0.1.0,SendHog,MIT,32148,Schema-generated SendHog SDK with provider-shaped application methods
+2026-10-18T14:34:07Z,mangalib-python-sdk,0.1.0,LLIJIYAPNIK,MIT,32137,"Async Python SDK for mangalib.me: title metadata, chapters, translations, catalog and page images"
+2026-10-18T14:35:22Z,novilabs-tables,0.dev0,Novi Labs <devops@novilabs.com>,,818,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-18T14:35:23Z,novilabs-turtles,0.dev0,Novi Labs <devops@novilabs.com>,,822,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-18T14:35:25Z,novilabs-scoring,0.dev0,Novi Labs <devops@novilabs.com>,,820,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-18T14:35:26Z,novilabs-pumpjack,0.dev0,Novi Labs <devops@novilabs.com>,,825,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-18T14:37:30Z,wildburrow,0.1.0,Işık Kaplan,MIT,165484,Self-hosted HTTP tunnels with on-demand wildcard certificates at any depth
+2026-10-18T14:44:17Z,nftgen,1.0.0,aeglanee,MIT,147714,nftables firewall generator: YAML definitions and host policies → a native nftables ruleset
+2026-10-18T14:46:41Z,madly,0.2.1,Piotr Serwa,MPL-2.0 AND 0BSD,957956,"Markdown reports and Vue slides: Quarto/Typst, Slidev, shared caches and incremental builds"
+2026-10-18T14:48:02Z,tinkerfin,0.1.1,,Apache-2.0,618424,"Request-scoped Native, Plan, Observation, and optional AG-UI streaming."
+2026-10-18T14:48:24Z,ghostos-ai,1.0.0,KIB.best,,182315,"The Invisible, Featherweight, Offline Desktop AI Companion & Copilot"
+2026-10-18T14:49:54Z,easydp-pii-scanner,0.1.2,EasyDP <support@easydp.in>,Apache-2.0,108125,"Offline-first, enterprise-grade local PII scanner for Indian DPDP Act compliance by EasyDP.in"
+2026-10-18T14:51:26Z,dnsjax,0.1.0,Gökhan Yalnız,Apache-2.0,4018546,"A GPU-accelerated pseudo-spectral solver for direct numerical simulation of the 3D incompressible Navier–Stokes equations, written in JAX."
+2026-10-18T14:51:31Z,rails49-r49,0.1.0,,MIT,61655,Read .r49 layout archives
+2026-10-18T14:53:33Z,actus-connector-sdk,0.0.1b1,,Apache-2.0,321290,"Build and run Actus connectors with typed declarations, isolated credentials, and trusted clients"
+2026-10-18T14:53:41Z,airflow-provider-rivet,0.1.0,Andrii Panchenko,"MIT License Copyright (c) 2026 Rivet Contributors Permission is hereby granted, free of charge, to…",123748,Apache Airflow operators and DAG builders that run the rivet binary on the worker
+2026-10-18T14:54:07Z,eous,0.2.0,Jiacheng Wang,MIT,1782240,Fuzzy hashing tool for PE and ELF binaries on x86 and x86-64
+2026-10-18T14:54:08Z,dnhydb,0.2.0,Achim Meissner <achim.meissner@nhydb.de>,,23950731,"dNHyDB (directNHyDB) – general-purpose database with direct addressing (u, v, side); native Rust engine with Python bindings"
+2026-10-18T14:55:16Z,speechio,0.1.0,,MIT,2575700,Local realtime speech SDK
+2026-10-18T14:55:59Z,proxyforge,0.1.0,,MIT,59967,"Parse, validate, classify (residential/datacenter/mobile), rotate and use proxies."
+2026-10-18T14:56:39Z,resumeforge-mcp-tools,2.0.0,Vijayakanth M,LicenseRef-Proprietary,274503,"MCP server that turns your LinkedIn, GitHub, coding profiles and old resumes into fact-checked, ATS-ready resumes tailored to any job."
+2026-10-18T14:57:13Z,tinkerfin-gateway,0.1.1,,Apache-2.0,58361,"Run commands, durable output, and client notifications for TinkerFin hosts."
+2026-10-18T15:01:45Z,he-dapi,0.1.1,urbiologicalpa,MIT,11732,H&E <-> DAPI virtual staining: inference library + CLI (early/alpha)
+2026-10-18T15:02:04Z,napari-he-dapi,0.1.1,urbiologicalpa,MIT,5840,napari plugin: H&E <-> DAPI virtual staining (runs the he-dapi model in the viewer) — early/alpha
+2026-10-18T15:02:10Z,mflux-lora,0.1.0,mflux-lora contributors,MIT,4174711,"One-command LoRA training, sampling, and evaluation for mflux on Apple Silicon"
+2026-10-18T15:04:56Z,tsqltap,0.1.0,Oliver Breeden,MIT,90788,"pgTAP-style testing for SQL Server: T-SQL assertions, a pytest runner, disposable containers"
+2026-10-18T15:07:20Z,compitum,0.1.0,The COMPITUM Project,MIT OR Apache-2.0,6733,The universal ARM64 compatibility layer: classify ARM64 Windows binaries and decide how they can be executed.
+2026-10-18T15:08:01Z,mcp-dev-toolbox,0.1.0,Prateek Pal,MIT,38102,"MCP server with fully local semantic code search, git history and file tools for Claude, Cursor and any MCP client"
+2026-10-18T15:09:29Z,tinkerfin-automation,0.1.1,,Apache-2.0,240167,Durable scheduling and bounded execution for TinkerFin tasks.
+2026-10-18T15:09:59Z,canopen-lens,0.4.1,Chunghyeon Lee,MIT,10967416,Beginner-friendly CANopen log viewer: open a candump log and see what every frame means
+2026-10-18T15:10:53Z,docmost-client,0.1.0,Yugen Labs,Apache-2.0,74931,Unofficial typed Python client for the internal API of self-hosted Docmost Community Edition.
+2026-10-18T15:11:41Z,jintang,26.9.0,FALLEN ALLEN & ima Copilot,MIT,97706,固若金汤（Jintang）—— 多合一 Web 安全 SDK（Python），为你的应用披上铠甲
+2026-10-18T15:12:11Z,jebao-doser,0.1.1,,MIT,36090,"Local control of Jebao WiFi aquarium dosing pumps (DOSER 3.4, 3.1, MD 4.4) over the LAN, no cloud: Python library and CLI"
+2026-10-18T15:12:40Z,irwho,0.1.0,Hamidreza <h4midrezam@gmail.com>,"MIT License Copyright (c) 2026 Hamidreza Permission is hereby granted, free of charge, to any perso…",31609,"Fast, friendly WHOIS toolkit for .ir domains: availability checks, resumable scans and smart name generation."
+2026-10-18T15:13:36Z,unexcel,0.1.0,Nikhil414,MIT,350348,Turn an Excel workbook into SQL (a dbt project on DuckDB) and prove every number matches.
+2026-10-18T15:15:04Z,throughline-ms-copilot,0.1.0,Henry J Grech-Cini <henry.grechcini@gmail.com>,Apache-2.0,56250,Hand a throughline requirements graph to Microsoft 365 Copilot as a folder it reads whole — one file per register — and apply the change set it sends back through tl apply. Ships the tl-ms-copilot CL…
+2026-10-18T15:15:07Z,myrmidon-core,0.0.1,MYRMIDON Team,MIT,1919,MYRMIDON core library (placeholder)
+2026-10-18T15:16:03Z,myrmidon-cli,0.0.1,MYRMIDON Team,MIT,2571,MYRMIDON CLI (placeholder)
+2026-10-18T15:16:36Z,yugen-docmost-mcp,0.1.0,Yugen Labs,Apache-2.0,62961,"Unofficial, security-first MCP server for self-hosted Docmost Community Edition."
+2026-10-18T15:16:44Z,openpptx,1.0.0rc1,Rory Sullivan,MIT,2608918,"Create, read, and modify PowerPoint .pptx files"
+2026-10-18T15:17:12Z,larmor-dmri,1.0.0,Antonio Di Meglio,LGPL-3.0-only,24621210,A Python library and viewer for diffusion MRI
+2026-10-18T15:18:57Z,pimeta,1.0.0,Zhou Cheng-ke <chengke_zhou@whu.edu.cn>,MIT,536947,"Pure-Python meta-analysis: fixed/random-effects, network meta-analysis, meta-regression, publication bias and plots — a faithful port of R's metafor, netmeta and meta."
