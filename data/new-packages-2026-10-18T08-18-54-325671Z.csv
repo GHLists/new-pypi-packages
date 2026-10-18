@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T06:42:46Z,pushshift-python,0.1.1,Cason Konzer,"MIT License Copyright (c) 2026 Cason Konzer Permission is hereby granted, free of charge, to any pe…",40566,Python wrapper for Reddit community analytics via the Pushshift API.
+2026-10-18T07:19:47Z,hpc-sandbox,0.3.0,Apurva Gandhi <apurvag@cs.cmu.edu>,MIT,251254,"Rootless sandboxes for HPC clusters, on Singularity/Apptainer or enroot."
+2026-10-18T07:20:51Z,webagent-protocol,0.2.0,Varad Ganjoo,MIT,316700,"WebAgent Protocol: an MCP extension that lets AI agents discover, verify and safely use tools published by any website."
+2026-10-18T07:21:28Z,rage-tools,0.1.0,,,15911,"RAGE Data Science & ML Toolkit for fast cleaning, EDA, preprocessing, and evaluation."
+2026-10-18T07:21:44Z,fastapi-myanmar-payments,0.1.0.dev0,Soe Thura <thixpin@gmail.com>,MIT,22254,"FastAPI integration for python-myanmar-payments: lifespan, dependencies, verified callbacks and gateway acknowledgements."
+2026-10-18T07:28:46Z,heart-protocol-v3,3.0.0,Yue Xiangrui (岳祥瑞),CC-BY-NC-SA-4.0,6228889,16质点最终神人双生相反合一最终幸福协议 V3.0
+2026-10-18T07:32:02Z,backlink-guard,0.7.0,Jason Zhu,MIT,192088,"Check a link source before you submit to it, verify the listing, and audit your own backlinks for link-spam patterns"
+2026-10-18T07:32:32Z,breeplot,0.1.0,Breanne Tippings <breemail41@gmail.com>,MIT,34894,"A clean, fluent plotting package for mathematics research figures."
+2026-10-18T07:33:51Z,get-report,0.1.0,,MIT,81766,Scan your computer for secrets and generate a report.
+2026-10-18T07:33:59Z,localtools-sql-formatter,1.0.0,,MIT,172482,"Lint, fix and transpile SQL in any major dialect with sqlfluff and sqlglot (localtools, offline)"
+2026-10-18T07:36:16Z,vantadb-litellm,0.8.0,VantaDB Team,Apache-2.0,7346200,LiteLLM embedding gateway + VantaDB storage — unified embedding provider with local vector search
+2026-10-18T07:36:22Z,vantadb-ollama,0.8.0,VantaDB Team,Apache-2.0,7352082,Ollama local embedding API wrapper + VantaDB storage — generate embeddings via Ollama and store/search them in VantaDB
+2026-10-18T07:36:27Z,vantadb-openai,0.8.0,VantaDB Team,Apache-2.0,7344837,OpenAI embedding API wrapper + VantaDB storage — generate embeddings via OpenAI and store/search them in VantaDB
+2026-10-18T07:37:01Z,koja,0.0.2,Saefstroem,MIT,4830,SDK for koja.sh: on-demand infrastructure for AI agents
+2026-10-18T07:37:04Z,fastapi-keygate,0.3.0,Sudeepto,MIT,38278,"API-key auth, per-key rate limiting and usage tracking for FastAPI, in a few lines."
+2026-10-18T07:39:34Z,new-term-radar,0.4.0,Jason Zhu,MIT,205835,"Names that are starting to surge in AI, and the generic search terms behind them"
+2026-10-18T07:40:27Z,geclens,1.0.0,"Jitendra Singh Thakur, Ashish Mishra",MIT,55754,Error-type-targeted evaluation of grammatical error correction systems
+2026-10-18T07:40:30Z,agentic-action-authority,0.1.1,,Apache-2.0,27855,Exact-action operator approval with durable execution coordination and optional effect adapters
+2026-10-18T07:42:40Z,layerhop,0.1.0,LayerHop <dev@layerhop.com>,MIT,23927,"LayerHop SDK - best-price cross-chain and same-chain swaps (sync + async, httpx)"
+2026-10-18T07:43:57Z,vavorka-by,0.3.0,Ваше Имя,,5075,Библиотека для написания кода на белорусском языке
+2026-10-18T07:53:17Z,pyagentplane,0.0.1,hupe1980,MIT OR Apache-2.0,3000,"Placeholder for Python bindings to agentplane, a durable, replayable agent runtime."
+2026-10-18T07:54:13Z,django-myanmar-payments,0.1.0.dev0,Soe Thura <thixpin@gmail.com>,MIT,31283,"Django integration for python-myanmar-payments: settings, sync and async gateways, verified callbacks and gateway acknowledgements."
+2026-10-18T07:57:42Z,trustgraph-cloze,2.10.14,"""trustgraph.ai"" <security@trustgraph.ai>",,6614,Cloze model classification service for TrustGraph.
+2026-10-18T07:57:46Z,sklearnnn,1.2.5,kya dekh rha hai luvday,MIT,32702,Teri Maa ne bhoot ke sath suhagrat rachai thi woh bhoot huh mein
+2026-10-18T07:58:22Z,autoware-carla-scenario-rerun,0.1.0,Masaya Kataoka <ms.kataoka@gmail.com>,Apache-2.0,5189789,Convert autoware_carla_scenario trajectory logs (*.trajectory.jsonl) into Rerun recordings (.rrd)
+2026-10-18T07:59:02Z,videoctx,0.1.2,Fred Dunyo,Apache-2.0,148767,"Open, model-free video context layer for LLM agents: index once, query cheaply with any model."
+2026-10-18T08:00:06Z,dt5810,2.0.1,Nuclear Instruments <support@nuclearinstruments.eu>,MIT,909014,Python binding of the DT5810 SDK: control of the CAEN DT5810 / DT5810B Digital Detector Emulator
+2026-10-18T08:02:35Z,sift-rag,0.1.0,Tobias Würth,MIT,60994,"Fast local search over text and Markdown files, built for AI agents."
+2026-10-18T08:06:10Z,safesmm,0.1.0,SafeSMM <safesmmnet@gmail.com>,MIT,8838,"Dependency-free Python client for the SafeSMM SMM panel API v2 (orders, status, refill, balance)."
+2026-10-18T08:10:21Z,mdkg,0.0.1,Nick Reames,MIT,3417,Git-native project memory for AI coding agents
+2026-10-18T08:10:23Z,ochatr,0.0.1,Nick Reames,MIT,3386,Omni Chat Room: multi-model AI productivity
+2026-10-18T08:17:58Z,jvpilot,0.1.0,Aayan Mapara,MIT,181247,Control an Apple Silicon Mac with spoken commands.
+2026-10-18T08:18:02Z,zeed-pay-viewer,0.0.1,ZeeD <vito.detullio@gmail.com>,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",8391252,python+qt based pay viewer
