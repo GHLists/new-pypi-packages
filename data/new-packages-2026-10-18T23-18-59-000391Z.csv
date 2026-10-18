@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T20:44:21Z,decodetick-mcp,2026.10.19,Decodetick,MIT,51684,"Market intelligence for your AI assistant - algo-trading strategies, analytics and specialized research knowledge."
+2026-10-18T22:24:15Z,ragnor,0.4.1,,PolyForm-Noncommercial-1.0.0,607668,"Domain-agnostic RAG toolkit: embeddings, chunking, vector stores, retrieval, ingestion, evaluation, and jobs."
+2026-10-18T22:28:35Z,giuggiai-meter,0.1.1,GiuggiAI <oss@giuggiai.com>,MIT,74122,"Per-call LLM usage logging, per-project cost reports and monthly reconciliation with provider bills"
+2026-10-18T22:29:06Z,global-executables,1.3.0,asopitech-labs,MIT,272709,Check whether a CLI command name is already taken: a cross-ecosystem executable-name dataset and read-only MCP server
+2026-10-18T22:29:33Z,facet-core,0.1.1,Omid Solari <solari@berkeley.edu>,# Licensing This repository is dual-licensed to separate the research code from the manuscript. ##…,73607,"FACET, Factorization, Alignment, Component Estimation, and Transforms"
+2026-10-18T22:32:00Z,oclib,0.0.1,Jiří Vik <mimic2300@gmail.com>,MIT,8655,A multi-purpose library containing various helper functions and objects designed to accelerate the development of other applications.
+2026-10-18T22:35:24Z,ffwf-tau-search,0.1.0,"Fight Fire with Fire Robotics, LLC",MIT,112875,"τ-search: tier-1 web fetch, keyless metasearch, presearch, and a Tau extension"
+2026-10-18T22:36:55Z,ctkforge,0.1.0,Rafalus,,185621,CustomTkinter extension components and widgets
+2026-10-18T22:38:28Z,pretix-swissbitcoinpay,0.1.0,Swiss Bitcoin Pay Sàrl <hello@swiss-bitcoin-pay.ch>,MIT,149821,Bitcoin payments (Lightning and on-chain) for pretix with Swiss Bitcoin Pay: paid straight to the merchant's wallet.
+2026-10-18T22:38:36Z,openmc-depletion-feedback,0.1.0,,,18091,Reusable OpenMC depletion simulations with optional soluble-species feedback control
+2026-10-18T22:43:20Z,rocket-aymen-lab3,1.0.0,Aymen,LICENSE.txt,6127,A small rocket simulation library
+2026-10-18T22:43:41Z,ynab-api-cli,0.1.0,Mike Hill,,326360,Complete contract-driven REST CLI for YNAB
+2026-10-18T22:51:19Z,racinglines,1.0.0,,MIT,2459672,"Fair prices for Formula 1 prediction markets, and the tools to test trading strategies against them"
+2026-10-18T22:52:49Z,aymen-linreg-lab3,1.0.0,Aymen,MIT,5650,Simple linear regression from scratch with NumPy
+2026-10-18T22:54:08Z,craftainer-tool-observability,0.1.0,,GPL-3.0-or-later,227062,"Health checks, structured logging, OpenTelemetry, request IDs and profiling for FastAPI services"
+2026-10-18T22:54:14Z,craftainer-tool-crud,0.1.0,,GPL-3.0-or-later,393053,"Generic CRUD framework for FastAPI: router factories, repositories, model and view bases"
+2026-10-18T22:58:03Z,benchkit-cli,0.1.0,,Apache-2.0,7490931,Benchmark your local LLMs with real eval suites
+2026-10-18T23:00:52Z,seeqbox,0.1.0,Bjørn Pettersen,MIT,591836,"Encrypted, versionable data for your applications."
+2026-10-18T23:08:05Z,usebuddy,0.1.0b1,Creovine LTD,MIT,28819,Server-side Python client for the Buddy API
+2026-10-18T23:10:06Z,capyy,0.3.0,Izac,MIT,37207,"Tiny encrypted JSON-over-TCP APIs: call a function in another program, on your Wi-Fi or across the internet"
+2026-10-18T23:10:07Z,simplesuit,0.1.0,Izac,MIT,33237,"Small terminal helpers: 24-bit colors, Nerd Font icons, a JSON file used as a dict, and system info"
+2026-10-18T23:10:20Z,byteplussdk-filenas,0.0.1,byteplus-sdk,Apache License 2.0,991,Name reservation for the Byteplus Python SDK split package byteplussdk-filenas
+2026-10-18T23:10:26Z,byteplussdk-hbase,0.0.1,byteplus-sdk,Apache License 2.0,975,Name reservation for the Byteplus Python SDK split package byteplussdk-hbase
+2026-10-18T23:10:32Z,byteplussdk-iam20210801,0.0.1,byteplus-sdk,Apache License 2.0,1023,Name reservation for the Byteplus Python SDK split package byteplussdk-iam20210801
+2026-10-18T23:10:38Z,byteplussdk-id,0.0.1,byteplus-sdk,Apache License 2.0,953,Name reservation for the Byteplus Python SDK split package byteplussdk-id
+2026-10-18T23:16:22Z,clauthing-gmail-mcp,0.1.0,,,52282,"Read-only Gmail for LLMs with selective, revocable client permissions"
+2026-10-18T23:16:46Z,utilvo-shield-filters,1.0.0,Utilvo <utilvo.com@gmail.com>,MIT,9062,Zero-dependency parser and domain matcher for Adblock Plus 2.0 and uBlock Origin static network filter rules.
+2026-10-18T23:17:23Z,ffmpeg-micro,0.1.0,FFmpeg Micro,MIT,217779,"Official Python client for the FFmpeg Micro API: video transcoding, transcription and FFmpeg in the cloud."
+2026-10-18T23:17:53Z,django-ninja-ulid,0.1.0,,MIT,87230,ULID validation and flat model response schemas for Django Ninja.
