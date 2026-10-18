@@ -1,25 +1,25 @@
 {
   "list": {
-    "count": 54,
-    "from": "2026-10-18T15:19:24.392784Z",
-    "path": "data/new-packages-2026-10-18T16-19-39-946008Z.csv",
-    "to": "2026-10-18T16:19:39.946008Z"
+    "count": 43,
+    "from": "2026-10-18T16:19:39.946008Z",
+    "path": "data/new-packages-2026-10-18T17-20-15-957641Z.csv",
+    "to": "2026-10-18T17:20:15.957641Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-18T12:40:14Z",
       "package": "rocket-amiraaarawr",
       "since": "2026-10-18T12:19:07.356371Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-18T13:07:48Z",
       "package": "younesb-rocket",
       "since": "2026-10-18T12:19:07.356371Z"
     }
   ],
-  "serial": 42403644,
+  "serial": 42405534,
   "source_truncated": false,
-  "window": "2026-10-18T16:19:39.946008Z"
+  "window": "2026-10-18T17:20:15.957641Z"
 }

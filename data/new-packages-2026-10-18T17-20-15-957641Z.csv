@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T16:20:48Z,up-kairos,0.1.0,Francisco Martín Rico <fmrico@gmail.com>,Apache-2.0,37225,"Kairos, a temporal and numeric PDDL planner, as an engine of the Unified Planning Framework"
+2026-10-18T16:22:21Z,altar-conservation,0.3.0,Riya Sinha,MIT,35476,Base-wise conservation score tracks (UCSC phyloP) for Altar
+2026-10-18T16:22:21Z,smspool-sdk,0.1.0,OpenAPI Generator community,MIT,109575,SMSPool API
+2026-10-18T16:22:32Z,altar-enformer,0.3.0,Riya Sinha,MIT,31614,Enformer model binding for large-scale Altar variant scoring
+2026-10-18T16:22:44Z,altar-sei,0.3.0,Riya Sinha,MIT,28590,Sei model binding for large-scale Altar variant scoring
+2026-10-18T16:22:55Z,altar-borzoi,0.3.0,Riya Sinha,MIT,32769,Borzoi model binding for large-scale Altar variant-gene scoring
+2026-10-18T16:23:41Z,jubbio,1.0.1,Lanux Yazılım Hizmetleri & Jubbio Devs,MIT,173238,Jubbio için resmi olmayan Python bot kütüphanesi (@jubbio/core + @jubbio/voice tek pakette)
+2026-10-18T16:28:01Z,lumio-lancedb,0.2.0,"""Volker L."" <ligno.blades@gmail.com>",Apache-2.0,23635,Optional LanceDB enhanced-retrieval adapter for the Lumio Knowledge Base.
+2026-10-18T16:28:02Z,lumio-wiki,0.2.0,"""Volker L."" <ligno.blades@gmail.com>",Apache-2.0,470871,"Portable, model-free Knowledge Base foundation for Lumio."
+2026-10-18T16:29:17Z,gamry-dta,0.1.0,kristianfkt,,14292,Read Gamry .DTA files as polars dataframes. Also extract metadata as dictionaries.
+2026-10-18T16:33:12Z,car-price-model,0.1.0,,,46849665,car Price Prediction Model Package
+2026-10-18T16:36:51Z,alye,0.1.0,Onruyl Private Limited <info@onruyl.com>,Apache-2.0,76958,"Alye: cost, latency and error tracking for every LLM call your services make."
+2026-10-18T16:37:11Z,jyotish-engine,0.2.0,Shivam Sharma,MIT,219154,"Multi-school Vedic astrology (Jyotish) engine: BPHS, Jaimini and other classical texts, reconciled."
+2026-10-18T16:38:01Z,orc-hestrator-server,2.0.0,Claudio Ferreira Filho,MIT,2610078,MCP server for AI agent work management — persistent work item graph for AI agents
+2026-10-18T16:40:33Z,vaporcli,1.0.4,Elouan,GPL-3.0-or-later,57284,"CLI utility for launching game executables directly from the terminal, bypassing Steam."
+2026-10-18T16:40:56Z,piffler,0.1.0,guillochon,MIT,1311726,"Turn a video of someone flipping through a book into clean, dewarped, OCR'd page scans."
+2026-10-18T16:42:14Z,ggml-compiler,0.1.0,Khanh Nguyen,Apache-2.0,1722227,Compile PyTorch and ONNX models into ggml programs that run on CPU and CUDA without Python
+2026-10-18T16:44:16Z,opengsc,0.1.0,,MIT,135766,"Minimal, transparent, read-only MCP server for Google Search Console."
+2026-10-18T16:48:09Z,lazyplan-tui,0.7.0,,MIT,109939,Terminal stream-of-consciousness console for issue tracking + roadmap planning alongside AI agents.
+2026-10-18T16:48:35Z,zengrad-pytorch,0.1.0,Rishi Chaitanya,Apache-2.0,5980,ZenGrad Optimizer - Pytorch
+2026-10-18T16:50:03Z,fritzconnection-enhanced,1.0.0,,,134216,Custom FritzConnection library for HA voicemail
+2026-10-18T16:50:12Z,reconflow,0.2.2,Nithishvelan M,MIT,32858,Recon pipeline for bug bounty hunters with differential change tracking
+2026-10-18T16:50:45Z,docket-ai,0.1.0,The Docket contributors,Apache-2.0,1297429,Every AI agent run gets a docket number: hard spending caps and a tamper-evident receipt anyone can verify offline.
+2026-10-18T16:52:09Z,AssayFluxScientificSystems,0.1.0,Md Safarujjaman <assayflux@gmail.com>,MIT,979278,"AssayFlux Scientific Systems: language runtime, scientific Python bridge, project builder, and OS development tools"
+2026-10-18T16:57:25Z,metisprism-optimizer,0.0.2,MetisAI Labs,Apache-2.0,4297,MetisPrism setup helper: shows how to install MetisPrism tools from your account and checks your local Python and GPU setup.
+2026-10-18T16:58:53Z,isworkday,1.0.0,,MIT,10957117,"Command-line predicate: is DATE a statutory workday in REGION? One word, one exit code, official calendars that update themselves. Only cn (mainland China) so far."
+2026-10-18T16:59:54Z,hufi,0.1.0,,,7428,A Python library for encoding and decoding .hufi image files.
+2026-10-18T17:01:49Z,scanandpay,0.0.1,Scan & Pay <hi@scanandpay.com.au>,Apache-2.0,3858,Official Scan & Pay Python SDK — accept PayTo PayID payments with QR code-based instant verification at checkout. Coming soon.
+2026-10-18T17:02:24Z,workgraph,0.1.0,digital-duck,Apache-2.0,213818,"A knowledge layer beside Claude Code: a graph of your projects, lifecycle, products, teams and processes, with search, a Streamlit UI and private sync"
+2026-10-18T17:02:55Z,ocr-magnifier-realtime,0.1.0,"""Teody A. Banagan"" <teody882011@gmail.com>",MIT,20200,Real-time screen magnifier with OCR and translation capabilities using PyQt5 and Tesseract.
+2026-10-18T17:04:17Z,gsearch-agent,0.1.0,Rayen Mlayeh,MIT,108185,"Real Google Search for AI agents, over MCP: real URLs, AI Overview and People also ask as typed JSON."
+2026-10-18T17:04:39Z,vox-magpie,0.1.0,,,28793,NVIDIA MagpieTTS adapter for Vox using NeMo-Speech.cpp
+2026-10-18T17:04:55Z,rsflowhub,1.0.0,RSFlowHub <support@rsflowhub.com>,MIT,54175,"Official Python SDK for the RSFlowHub AI API: sentiment analysis, translation, chat, PII redaction, review and ticket AI, knowledge bases (RAG) and chatbots. Sync and async. New APIs work without an…"
+2026-10-18T17:06:39Z,minimindslab-blank-line-collapse,0.1.0,MiniMindsLab,MIT,3344,Collapse repeated blank lines in text while preserving at most one blank line between non-empty lines.
+2026-10-18T17:07:52Z,zen1400-de-toolkit,0.1.1,Zein Moualla,,4068,MyPackage
+2026-10-18T17:09:51Z,polyrag,0.2.0,Nguyen Viet Ky Quan <nguyenvietkyquan2022@gmail.com>,MIT,105750,"A modular, multi-paradigm Retrieval-Augmented Generation (RAG) framework supporting Vector, Agentic, and Graph RAG architectures."
+2026-10-18T17:09:55Z,private-pyrig-private-repo,0.1.46,Winipedia,MIT,10353,This is a private repository built with pyrig-private.
+2026-10-18T17:10:01Z,WinTypeLibrary,1.0.1,Ishkare,MIT,55374,The WinTypeLibrary
+2026-10-18T17:10:04Z,private-pyrig-repo,0.1.50,Winipedia,MIT,10089,This is a private repository built with pyrig.
+2026-10-18T17:13:06Z,aio2030dot5,0.4.0,Raul E Rangel <raul@bestmail.us>,Apache-2.0,189263,"Async client for IEEE 2030.5 (SEP 2.0) HAN smart meters, e.g. Itron Gen5 Riva (Xcel Energy Launchpad)"
+2026-10-18T17:16:00Z,lobera,0.2.0,mitr0kerb <mitr0kerb@gmail.com>,,1186287,Suite de herramientas para pentesting de Active Directory
+2026-10-18T17:16:23Z,magmacrunch-roderick-tron,0.1.0,magmacrunch media,PolyForm-Noncommercial-1.0.0,115739,Roderick Tron — terminal version
+2026-10-18T17:16:46Z,simoai,0.3.0,Temprl,Apache-2.0,82738,"Python SDK for Simo: typed questions about a situation, answered with calibrated probabilities"
