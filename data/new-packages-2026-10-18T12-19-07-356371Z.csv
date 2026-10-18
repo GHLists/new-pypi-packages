@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T10:55:53Z,spanway,1.106.0,sgourneni,LicenseRef-Spanway-Commercial,126737945,Library to easily interface with LLM API providers
+2026-10-18T11:21:36Z,cli-copilot,0.1.1,vinay-1312,,12327,"Terminal chat copilot powered by Groq, with streaming replies and per-directory resumable sessions."
+2026-10-18T11:21:40Z,myrmidon-ai,0.0.1,MYRMIDON Team,MIT,2792,MYRMIDON - multi-agent collaboration platform (placeholder)
+2026-10-18T11:21:45Z,practical01,0.1.1,,,22922,Machine Learning practicals and viva questions
+2026-10-18T11:24:29Z,specrender,0.2.0,Daniel Nelms,MIT,82806,Render spectrogram images and interactive HTML spectrogram players from audio files
+2026-10-18T11:26:20Z,rivet-cli,0.32.0,,MIT,82511537,"The rivet binary: PostgreSQL / MySQL / SQL Server / MongoDB / Oracle to Parquet or CSV, with CDC."
+2026-10-18T11:27:22Z,writefreely-cli,0.1.0,Krishnatejaswi S <shentharkrishnatejaswi@gmail.com>,MIT,35065,"Small CLI for self-hosted WriteFreely blogs, built for coding agents"
+2026-10-18T11:27:57Z,skop,0.1.0.dev0,,BSD-2-Clause,969,Another name for scikit-ops: pip install scikit-ops
+2026-10-18T11:29:19Z,beast2py,0.1.2,"""曾子超 (Zichao Zeng)"" <zengzichao@sjtu.edu.cn>",MIT AND LGPL-2.1-only,749617,Python framework for reproducible divergence time estimation with calibration prior validation
+2026-10-18T11:32:35Z,oxar,0.1.1,Soumalya Das,MIT OR Apache-2.0,59909701,"Archive and compression library for Python with a Rust core: zip, tar and 7z plus ten raw codecs, one API, safe by default"
+2026-10-18T11:34:50Z,crcforge,1.1.0,Fatih Kayran,Apache-2.0,160701,"Calculate, identify, reverse-engineer and forge CRCs and checksums from the command line."
+2026-10-18T11:36:34Z,localtools-pdf-diff,1.0.0,,MIT,261597,"Compare two PDFs offline: visual pixel diff with highlights, word diff on the page images, metadata/structure diff (localtools, PDFium)"
+2026-10-18T11:39:22Z,spanway-proxy-extras,0.4.108,sgourneni,LicenseRef-Spanway-Commercial,327020,Additional files for the Spanway Proxy. Reduces the size of the main spanway package.
+2026-10-18T11:40:05Z,preshift,0.1.0,Aryan Tiwari <aryantiwari1112004@gmail.com>,MIT,37193,Prediction-aware dataset shift detection and risk estimation for machine learning
+2026-10-18T11:43:02Z,yamin,0.1.1,Yamin Hossain,MIT,29319,A terminal AI coding agent
+2026-10-18T11:45:32Z,fastmixture2,2.0.3,Jonas Meisner <meisnerucph@gmail.com>,GPL-3.0-only,34992415,Fast and scalable memory-aware maximum-likelihood ancestry estimation
+2026-10-18T11:46:10Z,markerfinder,0.1.1,Zengzichao <zengzichao@sjtu.edu.cn>,MIT,479761,Adaptive HGT-Aware Phylogenomic Pipeline for Prokaryotic Marker Gene Selection
+2026-10-18T11:48:09Z,younesb-rocket,1.0.1,Younes Bouhouche,LICENSE.txt,2322,A simple rocket simulation package for games and physics simulations.
+2026-10-18T11:48:59Z,pinwash,0.1.0,,MIT,681110,Flag git diffs that weaken an agent verification harness.
+2026-10-18T11:49:54Z,context-guardian-cli,0.1.0,Careo Limited,MIT,746331,"Keeps coding agents inside an application's mapped features, invariants, and validation commands."
+2026-10-18T11:50:00Z,geophylo,0.1.1,Zichao Zeng <zengzichao@sjtu.edu.cn>,MIT,696940,"GeoPhylo: geological timescale axes for Matplotlib, with reproducible ICS data, linear geo axes and radial geo rings for timetrees."
+2026-10-18T11:51:46Z,phyloslicer,0.1.1,Zichao Zeng <zengzichao@sjtu.edu.cn>,BSD-3-Clause,799245,High-performance temporal slicing of phylogenies and cumulative-diversity rate analysis for macroecology in Python
+2026-10-18T11:58:13Z,xray-docx,1.0.0,,,25865,A read-only DOCX package and XML explorer
+2026-10-18T12:00:04Z,navig-media,0.2.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,10602,"The NAVIG media suite in one install: image and video generation, voice and music, writing, and the assembly line that downloads, transcribes, scripts, narrates and publishes."
+2026-10-18T12:00:24Z,deqio-client,0.6.5,,MIT,13212,"Dependency-free Python SDK for the Deqio decision server (noul, choice, shared, score, multi, act, soam, systemone)"
+2026-10-18T12:03:57Z,qivo-parsers,0.1.7,QiVo Studio <admin@qivo.studio>,Proprietary: free to use under the QiVo Studio Licence Agreement 1.0 (LICENSE.md in the package),12833398,"QiVo Parsers: code parsers for Java, TypeScript, Spark, SQL dialects, SAS, config and ops files, with evidence for every fact, and a command line"
+2026-10-18T12:05:20Z,base58-bech32,2026.10.18,The btclib developers,MIT,569725,"Base58, Base58Check, bech32, bech32m, SS58 and CashAddr codecs, on the standard library alone"
+2026-10-18T12:05:36Z,takasumibot-toolkit,0.1.0b0,Yamatomato0105,MIT,271815,Async Python client toolkit for the TakasumiBOT API
+2026-10-18T12:06:38Z,arc56-generated-shash-ec03d311,1.1.2026101812,shashank6-alt,,68795,Generated ARC-56 Algorand smart-contract clients for shashank6-alt/Vaarush.
+2026-10-18T12:09:44Z,vpcatlas,0.4.2,Karina Pérez <mail@karina-perez.es>,MIT,6306639,"Read-only AWS network discovery: inventory, cross-account links and AWS-style diagrams (draw.io and Lucidchart) from the CLI or a live dashboard."
+2026-10-18T12:10:34Z,fux-writer,4.0.0,arpit arya <arpitarya.me@gmail.com>,MIT,342806,"Fux's writer — ingest, setup, hooks and upkeep for a committed fux index; no ranking."
+2026-10-18T12:11:40Z,cryptolike,0.1.0,CryptoLike team,MIT,51913,"Official server-side SDK for the CryptoLike merchant API: signed requests, automatic Idempotency-Key, retries with backoff, typed resources and webhook verification."
+2026-10-18T12:12:21Z,arc56-generated-gabri-13cf91a0,1.2.2026072010,gabrielkuettel,,126562,Generated ARC-56 Algorand smart-contract clients for gabrielkuettel/security-best-practice-guide.
+2026-10-18T12:13:25Z,arc56-generated-gabri-71d1e399,1.2.2026072010,gabrielkuettel,,11941,Generated ARC-56 Algorand smart-contract clients for gabrielkuettel/turbokit.
+2026-10-18T12:14:11Z,prometheus-zodb,0.1.0,Alban,MIT,13481,Prometheus collector for ZODB database metrics
+2026-10-18T12:14:19Z,prometheus-relstorage,0.1.0,Alban,MIT,13171,Prometheus collector for RelStorage metrics
+2026-10-18T12:14:30Z,arc56-generated-gabri-479f626e,1.2.2026072010,gabrielkuettel,,30125,Generated ARC-56 Algorand smart-contract clients for gabrielkuettel/vibegallery.
+2026-10-18T12:14:33Z,gwmock-data,0.1.0,Isaac C. F. Wong,,229000,Shared data structures for the gwmock packages
+2026-10-18T12:17:02Z,spanway-enterprise,0.1.76,sgourneni,LicenseRef-Proprietary,395872,Package for Spanway Enterprise features
+2026-10-18T12:17:05Z,mcp-checkmate,0.0.1,,MIT,3053,MCP protocol validator and compatibility checker
