@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T15:20:41Z,pyTooling.GitHub,0.1.0rc1,Patrick Lehmann,Apache-2.0,202200,"Working with GitHub pipelines - workflow files, action files, convert pipeline runs to (OTLP) traces."
+2026-10-18T15:21:46Z,ferrox-agent-toolkit,0.1.1,AI Autistic Intelligence <info@ferrox-rust.dev>,MIT,15123,"Ferrox Autonomous Agent Engineering Toolkit: Dual-layer Agile Scrum, Pure DDD, 100% TDD, and OWASP WSTG Sentinel architecture"
+2026-10-18T15:22:36Z,ak820ctl,0.2.0,Shreyas Deb <shreyasdeb@gmail.com>,MIT,59878,"unofficial linux driver for the ajazz ak820 max plus keyboard (rgb, keymaps, macros, battery)"
+2026-10-18T15:23:10Z,foliothread,0.6.0,Xue Yang,MIT,8798877,Folith·译页 — Agentic Translation Workspace
+2026-10-18T15:23:13Z,serlog,0.1.0,,MIT,119260,"A modern, high-performance logging framework: any number of sinks, each configured on its own, matching the popular loggers through compat profiles."
+2026-10-18T15:23:19Z,indiek,1.0.0,,,272797,IndieK archive SDK and ik CLI
+2026-10-18T15:24:37Z,jsonlkit,0.2.0,Your Name <you@example.com>,MIT,68950,"Fast, zero-dependency toolkit for reading, writing and managing JSONL files"
+2026-10-18T15:25:59Z,mcp-advanced-excel,0.2.0,Antonio Castellon <antonio@castellon.ch>,MIT,99741,Stdio MCP server that normalizes messy lab and instrument Excel and CSV exports.
+2026-10-18T15:27:15Z,flow-engineer,0.0.1,,,1364,Flow Framework (coming soon)
+2026-10-18T15:28:07Z,django-unused-media-cleaner,0.1.0,Alex Jurow <your-email@example.com>,MIT,15818,"Cleaning up the MEDIA_ROOT directory in Django project from unnecessary, unused files"
+2026-10-18T15:28:07Z,pyTooling.GitLab,0.1.0rc1,Patrick Lehmann,Apache-2.0,201489,"Working with GitLab pipelines - pipeline configuration files, convert pipeline runs to (OTLP) traces."
+2026-10-18T15:30:05Z,intosql,0.1.1,IntoSQL,MIT,30786,"Convert spreadsheets, CSV and JSON into SQL with the IntoSQL API."
+2026-10-18T15:30:45Z,xyz17711-websearch,0.1.0,17711 Services,MIT,11712,"Typed Python client for the 17711.xyz Websearch API: pay-per-call, settled in USDC via x402."
+2026-10-18T15:30:55Z,xyz17711-emoji-match,0.1.0,17711 Services,MIT,10203,"Typed Python client for the 17711.xyz Emoji Match API: pay-per-call, settled in USDC via x402."
+2026-10-18T15:31:05Z,xyz17711-ip-blocklist,0.1.0,17711 Services,MIT,9948,"Typed Python client for the 17711.xyz Ip Blocklist API: pay-per-call, settled in USDC via x402."
+2026-10-18T15:31:12Z,interlockd,0.1.0,,Apache-2.0,543416,Interlock daemon: a pre/post-action interlock for coding agents
+2026-10-18T15:31:15Z,xyz17711-catalog,0.1.0,17711 Services,MIT,11759,"Typed Python client for the 17711.xyz Catalog API: pay-per-call, settled in USDC via x402."
+2026-10-18T15:31:31Z,cottax,0.1.0,Timo Bogaarts,MIT,656262,"Declare, rewrite, prove and draw computation graphs whose leaves are JAX functions"
+2026-10-18T15:32:42Z,thinwrap-location,1.3.0,Dmitry Polyanovsky,MIT,284005,"Lightweight, SDK-free, zero-dependency Python wrapper for routing, distance matrix, geocoding, and isochrone across Google, Mapbox, HERE, ESRI, TomTom, and OSRM."
+2026-10-18T15:32:42Z,thinwrap-notifications,1.2.0,Dmitry Polyanovsky,MIT,229338,"Lightweight, SDK-free, zero-dependency Python wrapper for sending email, SMS, push, and chat across 35 providers behind one normalized surface."
+2026-10-18T15:32:53Z,pytest-sqla,0.0.1,Rodrigo Nogueira <rodrigo.b.nogueira@gmail.com>,MIT,167798,"Per-test SQLAlchemy 2.x sessions that roll back, sync and async, for pytest"
+2026-10-18T15:34:22Z,tiktok-video-uploader,1.0,DanKert <dankerts@proton.me>,MIT,58533,A Python toolkit for uploading videos to TikTok.
+2026-10-18T15:34:39Z,atwa,2.7.2,KiMiGuel <contact@indepentest.pro>,MIT,1065336,"ATWA-NG: native WiFi security auditing engine with vendored scanning/cracking binaries, self-contained"
+2026-10-18T15:36:35Z,mttsa,0.1.0,Peng Jiang <pjiang@jsnu.edu.cn>,MIT,2209641,Magnetic Transport-related Tensor Symmetry Analyzer (MTTSA)
+2026-10-18T15:37:01Z,dcc-mcp-word,0.1.2,Long Hao <hal.long@outlook.com>,MIT,120350,Word adapter for the DCC-MCP ecosystem — headless Word IR to DOCX compile with read-back verification over the dcc-mcp-office runtime
+2026-10-18T15:40:01Z,aaes-govern-sdk,0.1.2,AAES,LicenseRef-AAES-Proprietary,138391,"Python SDK for AAES — the AI governance platform for the action layer: permissions, human approvals, and spending limits on routed agent actions"
+2026-10-18T15:45:00Z,rwls,0.0.1,Francisco Ibanez,MIT,6796,Regime-weighted least squares: regime-dependent factor models estimated with hidden Markov posterior probabilities.
+2026-10-18T15:46:26Z,cdsm,0.1.0,Shun Yang,Apache-2.0,61514,"3DSM: signed .3dsm (3MF) containers with license declarations, Ed25519 provenance, geometric fingerprints and verification reports"
+2026-10-18T15:47:30Z,sakthipulse,0.1.0,Sakthi,MIT,9591,A beginner-friendly health checker for Python projects
+2026-10-18T15:48:53Z,ryan-tools,26.10.18.9,Chain Frost <chainfrost@outlook.com>,SUL-1.0,1362198,Collection of TUFLOW and data processing functions.
+2026-10-18T15:52:26Z,swfactory,1.0.0,MarianodelRio,MIT,178109,"A method and a CLI to build software with coding agents (Claude Code, Codex) on Orca: design, approve, implement, review and publish with evidence."
+2026-10-18T15:54:12Z,kvmcp,1.0.0,sjtu_6547 <88172828@qq.com>,,39679,MCP server for video capture and USB HID control
+2026-10-18T15:55:53Z,pipit-module-sdk,0.1.2,,,5741,Python contracts for Pipit modules.
+2026-10-18T15:57:25Z,smaulbrain-core,3.0.0,Yash and contributors to SmaulBRAIN,LicenseRef-SmaulBRAIN,115760,"Byte-level recurrent language model with mixture-of-experts, ternary/FP8 quantization, and a factored optimizer, on PyTorch."
+2026-10-18T15:59:22Z,botable-dev,0.3.1,Botable Team <hello@botable.dev>,MIT,73507,"Botable CLI: build, deploy and run Telegram bots from your terminal, Claude Code or Codex"
+2026-10-18T16:00:42Z,didatik,1.0.0,,MIT,159853,Didatik — Framework Educacional Learn Run Fly. CLI de sincronização do runtime educacional e da mini plataforma de cursos.
+2026-10-18T16:00:52Z,intrepid-studio,0.1.0,Roberto Bruttomesso,PolyForm-Noncommercial-1.0.0 AND Apache-2.0 AND CC-BY-4.0 AND MIT,368533,"The Intrepid editors in your browser, on a folder of yours: requirements, circuits, simulation, verification, MC/DC tests"
+2026-10-18T16:01:18Z,litebox-kit,0.0.0,,,2118,Name reserved by Litebox. Not for use: the real package is internal and never published here.
+2026-10-18T16:02:08Z,open-dream-rsi,0.3.8,patrykorwat,MIT,452073,Open-source implementation of the Dream-RSI (Recursive Self-Improvement through Evolving Worlds) architecture.
+2026-10-18T16:03:09Z,anycfg,0.14.0,Jose A,MIT,428596,"Another Config lib for python, basically load config/yaml/toml/... files and add some features like relative import and templating."
+2026-10-18T16:04:35Z,pythonmapper-dmm,0.2.0,Daniel Margolis,MIT,95757,"Find, map and manage every Python interpreter, virtual environment, conda env and Jupyter kernel on your machine."
+2026-10-18T16:06:29Z,pqbench,0.0.2,pqbench contributors,MIT OR Apache-2.0,69999192,Python bindings for the pqbench command line.
+2026-10-18T16:08:36Z,multi-agent-observability,0.1.1,viswapriyanr,Apache-2.0,141505,"MA-Trace: causal tracing, coordination SLOs and deterministic replay for multi-agent LLM systems (multi-agent observability on OpenTelemetry)."
+2026-10-18T16:08:48Z,agent-chaos-engineering,0.1.1,viswapriyanr,Apache-2.0,123745,"Chaos engineering and self-healing recovery patterns for multi-agent LLM systems: inject hallucination loops, tool failures, cyclic dependencies and stale memory, then measure how the system degrades…"
+2026-10-18T16:09:06Z,agent-tool-guardrails,0.1.1,viswapriyanr,Apache-2.0,121327,"Typed policy rails for agent-tool calls: a policy compiler that turns declarative requirements into executable (Type, Predicate, Evidence, Action) rails, a tamper-evident evidence store, trust-scored…"
+2026-10-18T16:09:51Z,seam-langchain,0.0.0,zer07 Labs,Apache-2.0,2307,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-18T16:09:54Z,seam-claude-agent,0.0.0,zer07 Labs,Apache-2.0,2344,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-18T16:09:57Z,seam-council,0.0.0,zer07 Labs,Apache-2.0,2283,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-18T16:10:00Z,seam-crewai,0.0.0,zer07 Labs,Apache-2.0,2268,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-18T16:14:52Z,esgo-mcp,0.1.0,ESGO Logistics UG (haftungsbeschränkt),MIT,33390,MCP server for the ESGO API: lets AI assistants search empty-run capacity and publish transport requests
+2026-10-18T16:15:18Z,bonsai-tv,0.1.0,,,59078,"Careful pruning for Android TV: debloat, swap launcher, sideload OSS apps."
+2026-10-18T16:16:12Z,localcorr,0.1.0,,,188116,Local correlation kernels (Triton + CUDA/TensorRT) for optical flow networks
+2026-10-18T16:18:13Z,quantlab-py,0.1.0,Zhaorong Dai,MIT AND Apache-2.0,4093611,End-to-end config-driven quant research backend: data -> factors -> return model -> portfolio optimization -> target positions -> backtest.
+2026-10-18T16:19:08Z,kairos-planner,1.0.3,Francisco Martín Rico <fmrico@gmail.com>,Apache-2.0,20414765,"Kairos: a temporal and numeric PDDL planner (PDDL 2.1-3.1, PDDL+), in Python"
