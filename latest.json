@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-10-19T04:19:13.573905Z",
-    "path": "data/new-packages-2026-10-19T05-20-03-271439Z.csv",
-    "to": "2026-10-19T05:20:03.271439Z"
+    "count": 36,
+    "from": "2026-10-19T05:20:03.271439Z",
+    "path": "data/new-packages-2026-10-19T06-20-00-478516Z.csv",
+    "to": "2026-10-19T06:20:00.478516Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-19T02:23:25Z",
       "package": "bbox-visualiser",
       "since": "2026-10-19T02:20:54.739516Z"
     }
   ],
-  "serial": 42423677,
+  "serial": 42425465,
   "source_truncated": false,
-  "window": "2026-10-19T05:20:03.271439Z"
+  "window": "2026-10-19T06:20:00.478516Z"
 }

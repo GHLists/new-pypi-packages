@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T05:25:13Z,motulator-export,0.7.0,Marko Hinkkanen <marko.hinkkanen@aalto.fi>,MIT,481109,"Export motulator drive and grid converter systems to PLECS and Simulink, and simulate them natively"
+2026-10-19T05:26:56Z,ezexb,0.1.0,neka-nat,MIT,2376233,Experimental CAXA EXB reader with a Rust core and Python API
+2026-10-19T05:28:21Z,nav-planning,0.1.0,,,48684601,Motion planning for the LoCoBot and the Ridgeback with a pan-tilt camera (OMPL + VAMP)
+2026-10-19T05:31:34Z,fxfunds-deposit-withdrawal-guide,1.0.0,FXFunds,MIT,24079,"Deposit and withdrawal tracking bot with validation, status guide, audit trail and reconciliation. Built by FXFunds."
+2026-10-19T05:32:27Z,osaudit,0.1.0,Martin Monperrus,MIT,61093,Automated open-science audit: trace every claim of a paper to its evidence
+2026-10-19T05:33:21Z,simd-ml-kernels,0.3.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",2912548,"Hand-vectorized x86 SIMD kernels (AVX2, AVX-512, VNNI) for GEMM, decode GEMV and ML activations, with Python bindings"
+2026-10-19T05:34:29Z,deepx-compiler,0.0.1,DEEPX,"MIT License Copyright (c) 2026 DEEPX Permission is hereby granted, free of charge, to any person ob…",5605,Reserved DEEPX namespace placeholder to prevent dependency confusion. Contains no code.
+2026-10-19T05:34:38Z,deepx-runtime,0.0.1,DEEPX,"MIT License Copyright (c) 2026 DEEPX Permission is hereby granted, free of charge, to any person ob…",5588,Reserved DEEPX namespace placeholder to prevent dependency confusion. Contains no code.
+2026-10-19T05:34:47Z,dx-postprocess,0.0.1,DEEPX,"MIT License Copyright (c) 2026 DEEPX Permission is hereby granted, free of charge, to any person ob…",5601,Reserved DEEPX namespace placeholder to prevent dependency confusion. Contains no code.
+2026-10-19T05:34:51Z,whygit,0.1.1,Kameswara Sai Srikar Manda,MIT,91235,"Explains what state your Git repository is in and how to fix it, in plain English. CLI and MCP server; read-only."
+2026-10-19T05:34:56Z,pydxs,0.0.1,DEEPX,"MIT License Copyright (c) 2026 DEEPX Permission is hereby granted, free of charge, to any person ob…",5443,Reserved DEEPX namespace placeholder to prevent dependency confusion. Contains no code.
+2026-10-19T05:36:24Z,fb-friend-cleanup,1.0.0,ticonetster,GPL-3.0-or-later,73849,"Automated local toolkit to audit, review, and selectively prune your Facebook friends list with rate-limiting, mutual-friend discovery, chat deletion, and safety controls."
+2026-10-19T05:37:08Z,nextmail,0.0.2,Nextmail,LicenseRef-Proprietary,453493,"The official Python SDK for the Nextmail API. Send email and broadcasts, work with threads, drafts, labels, templates, rules, webhooks, tracking, contacts, audiences, sign-up forms, domains, suppress…"
+2026-10-19T05:37:39Z,autd3-emulator,0.12.0,,MIT,2581392,Python bindings for the hardware-free emulator (emission recording and sound-field computation).
+2026-10-19T05:42:39Z,infermon,0.1.0rc3,,,5583085,"Real-time monitoring, control and auto-tuning for vLLM"
+2026-10-19T05:44:39Z,robottraining-jobs,1.0.0,"""RobotTraining.jobs"" <hello@robottraining.jobs>",MIT,9626,"Open data on paid robot-training jobs (teleoperation, data collection, AV and drone test operation): open roles, advertised pay and the newest openings, from RobotTraining.jobs."
+2026-10-19T05:44:43Z,rostrum,0.1.0,Girish Konda,MIT,724485,"Clean up talk recordings: find redos, repeats and dead air, review every cut, render and verify."
+2026-10-19T05:45:07Z,rulestamp-dependency-checker-eol-dates,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34083,"Dependency checker for package.json, composer.json and requirements.txt. On the sample package.json (Angular 19 + Express API, _fixtures/dirty.json) checked on 2026-09-28 it finds six dependencies pa…"
+2026-10-19T05:47:11Z,ocr-advance-magnifier-realtime,0.1.2,"""Teody A. Banagan"" <teody882011@gmail.com>",MIT,19311,A real-time screen magnifier with advanced VLM OCR (Qwen2.5-VL via LM Studio) capabilities.
+2026-10-19T05:48:45Z,plotdeck,1.0.0,,MIT,132535,G-code sender and editor for GRBL-based CNC routers
+2026-10-19T05:51:25Z,sentinel-probes,0.1.0,A K M Muhibullah Nayem <nayem.drmc@gmail.com>,Apache-2.0,83058,"Sentinel Dynamic Instrumentation for Python: metric, span and span-tag probes placed in running code without a redeploy."
+2026-10-19T05:52:53Z,simllms,0.1.0,,MIT OR Apache-2.0,15187327,Unified client for multiple LLM providers
+2026-10-19T05:55:20Z,travis234-websec-mcp,0.1.0,,MIT,521563,Independent bounded HTTP security workbench for MCP clients and Travis234.
+2026-10-19T05:55:48Z,agentcheck-pytest-plugin,0.1.0,AgentCheck Contributors,MIT,64381,"Pytest plugin for testing non-deterministic AI agents with statistical assertions, fault injection, and record/replay cassettes"
+2026-10-19T05:58:20Z,twosystems,0.1.0a1,Shashikant,Apache-2.0,35620,"Calibration and checking tools for twosystems, a cheap, honest watchman for AI coding agents."
+2026-10-19T05:59:11Z,muad-skill-http,0.1.0,muad-openclaw maintainers,,27143,Trace-aware HTTP helpers and platform request client for muad skills
+2026-10-19T05:59:29Z,andris,0.1.0,,Apache-2.0,8489031,A SPICE server that exports an existing X11 desktop
+2026-10-19T06:02:30Z,barie-hetzner-mcp,0.1.0,Barie <support@barie.ai>,MIT,44252,Hetzner Cloud and Storage Box MCP server for DevOps agents
+2026-10-19T06:03:03Z,pywpdoc,0.44.0rc1,,MIT,404440,"Create, edit, template and compare Word DOCX and Hancom Hangul HWPX with one Python API"
+2026-10-19T06:08:35Z,orthoring,0.1.0,Motoki Suzuki,MIT,120122738,A Python package for black-hole ringdown analysis with orthonormal modes
+2026-10-19T06:09:14Z,watershipup,0.0.1,,,1864,Publishes a static website to a Bunny Storage zone
+2026-10-19T06:12:14Z,pbox-cli,0.2.29,newonet.com,Apache-2.0,7232295,P-Box CLI - 高性能跨平台整合包管理与下载命令行工具
+2026-10-19T06:13:35Z,package-ta,1.0.0,rabia,LICENSE.txt,6341,An awesome package that does something
+2026-10-19T06:13:49Z,CLI-Carnival,0.1.0,,,15904,It Is A Carnival with Games that Run In The Command Line
+2026-10-19T06:14:17Z,geulpu,0.5.1,wwoosshh,MIT,1434104,"Local AI chat on your own GPU — a bit-reproducible GGUF LLM engine written in the geul language (Windows x64 app, CUDA or Vulkan)"
+2026-10-19T06:16:15Z,pylibann,0.1.0,,MIT,25377229,Keras-like Python API for the libann neural network library (import as pyann)
