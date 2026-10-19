@@ -8,42 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 04:19 UTC
+## Latest list — 2026-10-19 05:20 UTC
 
-New packages created between 2026-10-19 03:18 UTC and 2026-10-19 04:19 UTC.
+New packages created between 2026-10-19 04:19 UTC and 2026-10-19 05:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-19T04-19-13-573905Z.csv)
+[Full CSV](data/new-packages-2026-10-19T05-20-03-271439Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-19 03:15:16 | [goatnotify](https://pypi.org/project/goatnotify/) | 0.1.0 | Louis Midson LAJEANTY | 3.5 kB | A modern, type-safe, framework-agnostic notification system for Python. |
-| 2026-10-19 03:21:25 | [orvix-provepr](https://pypi.org/project/orvix-provepr/) | 0.1.0 | Tirth | 47.1 kB | Make AI coding agents prove their PR claims in a real browser, and fix what fai… |
-| 2026-10-19 03:22:05 | [sika-cli](https://pypi.org/project/sika-cli/) | 0.2.0 | Sika Security <engineering@si… | 6.0 kB | Command-line interface for the Sika Security platform (installs the `sika` comm… |
-| 2026-10-19 03:26:45 | [burnclock](https://pypi.org/project/burnclock/) | 0.1.1 | Jeremy Silbernagel | 230.0 kB | Burnclock: see your AI budget runway at a glance — balances, burn, days-left. E… |
-| 2026-10-19 03:27:48 | [aidlc.deck-creator-mcp](https://pypi.org/project/aidlc.deck-creator-mcp/) | 1.0.0 |  | 8.8 kB | Connects an MCP client over stdio to the deck-creator spec-driven HTML deck and… |
-| 2026-10-19 03:31:31 | [ffwf-tau-router](https://pypi.org/project/ffwf-tau-router/) | 0.1.0 | John McCardle | 41.5 kB | Tau extensions: route each request across your LLM accounts by budget, and spli… |
-| 2026-10-19 03:35:07 | [mktagi-notify](https://pypi.org/project/mktagi-notify/) | 0.0.1 | code-koan | 158.8 kB | 统一的消息通知包：飞书 webhook、飞书机器人、Telegram、Slack、Discord |
-| 2026-10-19 03:36:55 | [aula-f87-control](https://pypi.org/project/aula-f87-control/) | 0.3.2 | RadianceADM | 130.5 kB | Backlight effects, per-key colors, music sync, sleep timer and battery level fo… |
-| 2026-10-19 03:38:18 | [tukupay](https://pypi.org/project/tukupay/) | 0.1.0b1 | TukuPay | 47.4 kB | Server-side Python library for the TukuPay API |
-| 2026-10-19 03:39:21 | [scistackstatsdb](https://pypi.org/project/scistackstatsdb/) | 0.1.42 | SciStack Contributors | 14.0 kB | scidb-backed statistics: saved StatStudio specs, linked plots and stat_ endpoin… |
-| 2026-10-19 03:41:58 | [scistackstats](https://pypi.org/project/scistackstats/) | 0.1.42 | SciStack Contributors | 96.4 kB | Statistics for scistack: StatStudio designs, descriptives and tests from Plot S… |
-| 2026-10-19 03:41:59 | [nonebot-plugin-group-insight-ai](https://pypi.org/project/nonebot-plugin-group-insight-ai/) | 0.1.1 | TonyLiangP2010405 <plia0974@u… | 229.1 kB | AI 驱动的群聊分析插件：群聊报告、词云生成、@消息追踪（移植自 Yunzai 插件 group-insight） |
-| 2026-10-19 03:42:37 | [gimppy](https://pypi.org/project/gimppy/) | 1.0.1 | gimppy contributors | 168.6 kB | Python image processing library originated from GIMP |
-| 2026-10-19 03:44:11 | [llm-deepseek-websearch](https://pypi.org/project/llm-deepseek-websearch/) | 0.1 | Iqbal Abdullah | 28.7 kB | DeepSeek web search and fetch tools for LLM |
-| 2026-10-19 03:45:53 | [anatplot](https://pypi.org/project/anatplot/) | 0.1.0.dev0 |  | 1.4 MB | Simple anatomical surface scenes with PyVista |
-| 2026-10-19 03:46:34 | [fxfunds-stablecoin-payments](https://pypi.org/project/fxfunds-stablecoin-payments/) | 1.0.0 | FXFunds | 19.4 kB | Read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON.… |
-| 2026-10-19 03:48:17 | [unpick](https://pypi.org/project/unpick/) | 0.1.0 | unpick contributors | 776.1 kB | Vet AI components (skills, rules files, MCP servers, plugins) on your own lapto… |
-| 2026-10-19 03:50:09 | [minutegate](https://pypi.org/project/minutegate/) | 0.0.1 |  | 10.0 kB | MinuteGate — open-source agent payment layer. Under development. |
-| 2026-10-19 03:58:35 | [frugal-memory](https://pypi.org/project/frugal-memory/) | 0.1.0 | Sebastian Woratsch | 144.3 kB | A memory for AI assistants that is just a SQLite file: full-text search over MC… |
-| 2026-10-19 04:04:05 | [pyalexalist](https://pypi.org/project/pyalexalist/) | 0.1.0 |  | 46.9 kB | An unofficial client for the Amazon Alexa Lists API. |
-| 2026-10-19 04:04:20 | [nexiom-connect](https://pypi.org/project/nexiom-connect/) | 0.1.0 | Nexiom Technologies | 98.0 kB | The official Nexiom Connect SDK for Python |
-| 2026-10-19 04:05:39 | [sprezzature-ui](https://pypi.org/project/sprezzature-ui/) | 1.0.0 | Warith HARCHAOUI <warithmetic… | 51.6 kB | The deterministic half of sprezzature-ui: find the translations embedded in you… |
-| 2026-10-19 04:05:59 | [timestub](https://pypi.org/project/timestub/) | 0.1.0 |  | 5.1 kB | a terminal shift-pay calculator |
-| 2026-10-19 04:06:34 | [sprezzature-publish](https://pypi.org/project/sprezzature-publish/) | 1.2.0 | Warith HARCHAOUI <warithmetic… | 462.7 kB | A folder of Markdown becomes a site somebody can find: pages, meta tags, a favi… |
-| 2026-10-19 04:12:32 | [spatial-frequency-loss](https://pypi.org/project/spatial-frequency-loss/) | 1.0.1 | Naoyuki Ichimura <naoyuki.ich… | 55.7 kB | Spatial Frequency Loss for mitigating spectral bias in deep neural networks |
-| 2026-10-19 04:12:59 | [font-render-client](https://pypi.org/project/font-render-client/) | 1.0.0 |  | 32.2 kB | Command-line client of the Font Render Service: render fonts on a Windows Direc… |
-| 2026-10-19 04:13:27 | [bioqueue](https://pypi.org/project/bioqueue/) | 2.0.0a1 | Li Yao | 795.2 kB | A personal job workspace for computational biology |
-| 2026-10-19 04:13:57 | [get-case-in-drive](https://pypi.org/project/get-case-in-drive/) | 0.1.0 | 6vi7ms | 3.8 kB | Add your description here |
-| 2026-10-19 04:16:02 | [factory-bot](https://pypi.org/project/factory-bot/) | 0.0.1 | Daniel Pepper | 13.0 kB | Test data factories with the ergonomics of Ruby's factory_bot |
-| 2026-10-19 04:16:58 | [camp-comm](https://pypi.org/project/camp-comm/) | 0.1.0 | Aditya Kumar <adityakumar0@zo… | 2.2 kB | Camp-comm CLI tool |
-| 2026-10-19 04:17:13 | [abstractnote](https://pypi.org/project/abstractnote/) | 0.1.0 | Laurent-Philippe Albou <conta… | 456.4 kB | AbstractNote: one endpoint for your notes; a temporal semantic knowledge graph… |
+| 2026-10-19 04:20:52 | [vector-toolbox-mcp](https://pypi.org/project/vector-toolbox-mcp/) | 0.2.0 | Salinda Hulangamuwa | 364.0 kB | One MCP server for many vector databases - Pinecone, Chroma, Weaviate and Qdran… |
+| 2026-10-19 04:29:06 | [axivoy](https://pypi.org/project/axivoy/) | 1.0.0 |  | 10.6 kB | Typed client for the Axivoy API: operations, webhooks and errors. |
+| 2026-10-19 04:37:22 | [avero-devdeck](https://pypi.org/project/avero-devdeck/) | 0.1.0 | Avero Labs | 7.0 kB | A browser-authenticated GitHub command center for developers |
+| 2026-10-19 04:40:47 | [scratch-builder](https://pypi.org/project/scratch-builder/) | 1.0.0.dev20261018 | MCPwme <wme9522@outlook.com> | 39.9 kB | 用 Python 代码生成 Scratch 3.0 项目文件(.sb3) |
+| 2026-10-19 04:44:27 | [monai-cardiac-fat-fl](https://pypi.org/project/monai-cardiac-fat-fl/) | 0.1.0 | Tyler Patay, XuCong Ruan, Sha… | 131.1 kB | Modernized MONAI & NVIDIA FLARE pipeline for Epicardial and Pericoronary Adipos… |
+| 2026-10-19 04:56:04 | [trano-simulate](https://pypi.org/project/trano-simulate/) | 0.2.0 | Ando Andriamamonjy | 52.2 kB | Simulate Modelica models with OpenModelica (in Docker or locally) and report th… |
+| 2026-10-19 04:56:57 | [motulator-impedance](https://pypi.org/project/motulator-impedance/) | 0.1.0 | Marko Hinkkanen <marko.hinkka… | 39.9 kB | Mechanical impedance of machine drives and output admittance of grid converters… |
+| 2026-10-19 05:00:04 | [datatrust-privacy-guard](https://pypi.org/project/datatrust-privacy-guard/) | 0.1.0 | warriorxxzz <warriorxxzz8@gma… | 16.5 kB | A local PII scanner for AI chat interfaces. Protects privacy with Nepal/India p… |
+| 2026-10-19 05:03:13 | [cliver-core](https://pypi.org/project/cliver-core/) | 0.3.0a1 | CLIver Project | 265.6 kB | CLIver — embeddable AgentCore library |
+| 2026-10-19 05:03:15 | [markdown-notes-agent](https://pypi.org/project/markdown-notes-agent/) | 0.3.0 | Woonyong Choi | 320.8 kB | Keeps a folder of Markdown notes searchable and lets AI tools edit it by your r… |
+| 2026-10-19 05:09:22 | [agentic-career-lab](https://pypi.org/project/agentic-career-lab/) | 0.10.1 | Hastimal Jangid | 3.7 MB | A privacy-first hybrid multi-agent career platform for college students and job… |
+| 2026-10-19 05:09:23 | [helix256.io](https://pypi.org/project/helix256.io/) | 0.1.0 |  | 17.3 MB | helix, the Helix command line for orchestrators: rent pools of workers from a t… |
+| 2026-10-19 05:09:38 | [motrix-env-motrixsim](https://pypi.org/project/motrix-env-motrixsim/) | 0.4.0 | Motphys | 26.4 kB | MotrixSim simulation backend for the motrix-env-core environment framework. |
+| 2026-10-19 05:09:43 | [motrix-rl-builtin](https://pypi.org/project/motrix-rl-builtin/) | 0.4.0 | Motphys | 107.0 kB | MotrixLab built-in reinforcement learning algorithms. |
+| 2026-10-19 05:09:44 | [drone-planning](https://pypi.org/project/drone-planning/) | 0.1.0 |  | 47.4 MB | Holybro X500 V2 quadrotor + gimbal motion planning (OMPL + VAMP, FLASK kinodyna… |
+| 2026-10-19 05:10:03 | [motrixlab](https://pypi.org/project/motrixlab/) | 0.4.0 | Motphys <developers@motphys.c… | 11.8 kB | MotrixLab framework with built-in reinforcement learning and the MotrixSim back… |
+| 2026-10-19 05:13:06 | [alinter](https://pypi.org/project/alinter/) | 0.1.0 | baba01hacker | 171.5 kB | A universal, config-driven linter: lint any language or format with declarative… |
+| 2026-10-19 05:16:21 | [neurarch-slurm](https://pypi.org/project/neurarch-slurm/) | 0.1.0 | neurarch-ai | 48.4 kB | A SLURM cli_filter plugin that sizes a training job's model at submit, before i… |
+| 2026-10-19 05:18:03 | [minimindslab-url-query-sort](https://pypi.org/project/minimindslab-url-query-sort/) | 0.1.0 | MiniMindsLab | 7.7 kB | Deterministically parse, normalize, and re-serialize URL query strings with sta… |
+| 2026-10-19 05:18:24 | [minimindslab-toml-sort](https://pypi.org/project/minimindslab-toml-sort/) | 0.1.0 | MiniMindsLab | 8.0 kB | Deterministically sort TOML keys in a stable, human-friendly order while preser… |
+| 2026-10-19 05:18:45 | [minimindslab-textwrap-preserve](https://pypi.org/project/minimindslab-textwrap-preserve/) | 0.1.0 | MiniMindsLab | 7.6 kB | Wrap plain text while preserving existing paragraph breaks, bullet indentation,… |

@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T04:20:52Z,vector-toolbox-mcp,0.2.0,Salinda Hulangamuwa,MIT,363963,"One MCP server for many vector databases - Pinecone, Chroma, Weaviate and Qdrant - with pluggable embedding providers."
+2026-10-19T04:29:06Z,axivoy,1.0.0,,MIT,10557,"Typed client for the Axivoy API: operations, webhooks and errors."
+2026-10-19T04:37:22Z,avero-devdeck,0.1.0,Avero Labs,MIT,6958,A browser-authenticated GitHub command center for developers
+2026-10-19T04:40:47Z,scratch-builder,1.0.0.dev20261018,MCPwme <wme9522@outlook.com>,MIT,39915,用 Python 代码生成 Scratch 3.0 项目文件(.sb3)
+2026-10-19T04:44:27Z,monai-cardiac-fat-fl,0.1.0,"Tyler Patay, XuCong Ruan, Shawn Newlander, George Wesbey, Borek Foldyna",MIT,131095,Modernized MONAI & NVIDIA FLARE pipeline for Epicardial and Pericoronary Adipose Tissue (EAT/PVAT) quantification from cardiac CT
+2026-10-19T04:56:04Z,trano-simulate,0.2.0,Ando Andriamamonjy,LGPL-3.0-or-later,52206,Simulate Modelica models with OpenModelica (in Docker or locally) and report their results.
+2026-10-19T04:56:57Z,motulator-impedance,0.1.0,Marko Hinkkanen <marko.hinkkanen@aalto.fi>,MIT,39850,Mechanical impedance of machine drives and output admittance of grid converters for motulator
+2026-10-19T05:00:04Z,datatrust-privacy-guard,0.1.0,warriorxxzz <warriorxxzz8@gmail.com>,,16506,A local PII scanner for AI chat interfaces. Protects privacy with Nepal/India patterns and checksum validation.
+2026-10-19T05:03:13Z,cliver-core,0.3.0a1,CLIver Project,Apache-2.0,265560,CLIver — embeddable AgentCore library
+2026-10-19T05:03:15Z,markdown-notes-agent,0.3.0,Woonyong Choi,MIT,320802,Keeps a folder of Markdown notes searchable and lets AI tools edit it by your rules
+2026-10-19T05:09:22Z,agentic-career-lab,0.10.1,Hastimal Jangid,MIT,3671164,A privacy-first hybrid multi-agent career platform for college students and job seekers.
+2026-10-19T05:09:23Z,helix256.io,0.1.0,,,17279611,"helix, the Helix command line for orchestrators: rent pools of workers from a terminal"
+2026-10-19T05:09:38Z,motrix-env-motrixsim,0.4.0,Motphys,Apache-2.0,26442,MotrixSim simulation backend for the motrix-env-core environment framework.
+2026-10-19T05:09:43Z,motrix-rl-builtin,0.4.0,Motphys,Apache-2.0,107042,MotrixLab built-in reinforcement learning algorithms.
+2026-10-19T05:09:44Z,drone-planning,0.1.0,,,47435648,"Holybro X500 V2 quadrotor + gimbal motion planning (OMPL + VAMP, FLASK kinodynamic)"
+2026-10-19T05:10:03Z,motrixlab,0.4.0,Motphys <developers@motphys.com>,Apache-2.0,11846,MotrixLab framework with built-in reinforcement learning and the MotrixSim backend.
+2026-10-19T05:13:06Z,alinter,0.1.0,baba01hacker,MIT,171536,"A universal, config-driven linter: lint any language or format with declarative rules."
+2026-10-19T05:16:21Z,neurarch-slurm,0.1.0,neurarch-ai,MIT,48403,"A SLURM cli_filter plugin that sizes a training job's model at submit, before it takes a reservation: refuses or warns when the requested GPU cannot hold the training peak, and warns when it asks for…"
+2026-10-19T05:18:03Z,minimindslab-url-query-sort,0.1.0,MiniMindsLab,MIT,7732,"Deterministically parse, normalize, and re-serialize URL query strings with stable key ordering and optional value sorting."
+2026-10-19T05:18:24Z,minimindslab-toml-sort,0.1.0,MiniMindsLab,MIT,8048,"Deterministically sort TOML keys in a stable, human-friendly order while preserving values and comments as much as possible within a tiny pure-Python scope."
+2026-10-19T05:18:45Z,minimindslab-textwrap-preserve,0.1.0,MiniMindsLab,MIT,7556,"Wrap plain text while preserving existing paragraph breaks, bullet indentation, and blank lines."
