@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T11:06:13Z,yggio,0.0.1,,,448219069,"Native Yggio schemas, dataclass field definitions, identifiers, and byte codecs"
+2026-10-19T11:11:11Z,sigmabam2openbis,0.0.2,"Tom Rousseau <tom.rousseau@bam.de>, ""Jose M. Pizarro"" <jose.pizarro-blanco@bam.de>",MIT License Copyright (c) 2025 Bundesanstalt für Materialforschung und -prüfung Permission is hereb…,324531,Mapper script to convert SigmaBAM chemical inventory exports into openBIS-compatible format.
+2026-10-19T11:22:10Z,legal-facts-poster,0.1.0,Kumar Swaraj <123369109+kumar-swaraj@users.noreply.github.com>,MIT,73978,Autonomous AI agent and browser automation worker for publishing Indian legal insights
+2026-10-19T11:22:16Z,my-mpl-style,0.1.0,chengtau <1556632989@qq.com>,MIT,246926,Publication-oriented matplotlib rcParams presets and 3D axes helpers.
+2026-10-19T11:29:02Z,openbis-instrument-data-readers,0.0.2,"Bastian Rühle <bastian.ruehle@bam.de>, Ingo Breßler <ingo.bressler@bam.de>, ""Jose M. Pizarro"" <jose…","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",73768,Repo for restructuring the parsers from bam-upload-helper
+2026-10-19T11:29:45Z,django-jedminson,0.1.0,Frodx,MIT,152844,"JSON Schema form field for Django admin, powered by Jedison"
+2026-10-19T11:34:59Z,regress-package,1.0.0,malek20,LICENSE.txt,6384,An awesome package that does something
+2026-10-19T11:36:02Z,toolwall-guard,0.2.2,Muhammad Hasnain <hasnain@bryteai.studio>,Apache-2.0,130642,A firewall for AI agents that checks tool responses for indirect prompt injection: rules plus a small CPU classifier.
+2026-10-19T11:38:02Z,yggio-cli,0.0.1,,,75802603,The yggio command line: manage a FIX dictionary and serve XML for Analysis catalogs from a terminal.
+2026-10-19T11:38:49Z,toolframe-sql-sqlite,0.4.0,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,56636,Isolated managed SQLite stores for Toolframe plugins
+2026-10-19T11:39:25Z,imgstrip,1.2.2,,BSD-3-Clause,720090,"Remove all metadata and hidden data from images by rebuilding them from their pixels, with fail-closed verification."
+2026-10-19T11:40:00Z,valguard-cli,0.0.1,ValGuard.ai,Apache-2.0,2494,Reserved namespace for the ValGuard local validation CLI (release forthcoming). https://valguard.ai
+2026-10-19T11:41:41Z,clap-llm,2.0.0,Frederick <wedonotuse@outlook.com>,GPL-3.0-or-later,438298,CLAP: Chat Local And Persistent - Local LLM conversation tool with Ollama
+2026-10-19T11:45:32Z,a2til,0.9.0,mdj,MIT,532805,"Dependency-free Apple II disk-image toolkit: ProDOS, DOS 3.3, Apple Pascal, HFS and NuFX/ShrinkIt, read and write"
+2026-10-19T11:49:19Z,org-social-tui,1.0.0,Andros Fenollosa <andros@fenollosa.email>,GPL-3.0-or-later,92092,"Terminal client for Org Social, powered by the shared Swift client core"
+2026-10-19T11:52:54Z,lica-log,0.1.0,Rafael González,,15916,LICA root logger utility
+2026-10-19T11:53:06Z,lica-cli,0.1.0,Rafael González,,14168,LICA Command Line Interface startup utility
+2026-10-19T11:53:10Z,pokewallet,0.1.1,PokeWallet,MIT,47167,Official Python SDK for the PokeWallet API
+2026-10-19T11:53:14Z,lica-raw,0.1.1,Rafael González,,28393,LICA RGB Raw loader for DSLR images
+2026-10-19T11:53:22Z,lica-sqa,0.1.0,Rafael González,,16973,LICA utilities for SQLAlchemy
+2026-10-19T11:54:42Z,utilvo-pdf-merger,1.0.1,Utilvo,MIT,4389,"Lightweight library for inspecting PDF binary headers, counting pages, validating xref tables, and merging multiple PDF byte streams."
+2026-10-19T11:55:06Z,bytesmtp,1.0.1,Byte Routine,MIT,54957,Send email from Python in one line. A tiny batteries-included SMTP client.
+2026-10-19T11:57:23Z,sessionmux,0.1.0,Jorge Cardona <jorgeecardona@gmail.com>,MIT,101182,"Two-panel, keyboard-only switcher for Claude Code sessions in one terminal"
+2026-10-19T11:58:54Z,napari-maskel-ibex-preprocessing,0.1.0,Anna Moeller,BSD-3-Clause,302861,"napari plugin: muscle surface from TOM20, CD34 fibroblast mask, distance filtering and TIFF export for light-sheet peritoneum (IBEX) data"
+2026-10-19T11:58:57Z,orvu,0.1.0,,Apache-2.0,15144060,Shared memory for teams of AI agents: the Python client.
+2026-10-19T11:59:38Z,scitex-live-paper,0.1.1,Yusuke Watanabe <noreply@scitex.ai>,AGPL-3.0-only,6690377,"Interactive, AI-verifiable live rendering of research manuscripts (consumer of scitex-clew claim model). Part of SciTeX."
+2026-10-19T12:00:47Z,twigg,0.1.0,Twigg AI Ltd,MIT,165608,Python SDK for the Twigg API
+2026-10-19T12:00:48Z,datapro-python-gui,0.1.0,Amatak Holdings Pty Ltd <contact@amatakholdings.com>,Proprietary,23789,Reusable DataPRO authentication + CustomTkinter GUI entry point for Python desktop apps
+2026-10-19T12:01:58Z,toolframe-sql-postgres,0.2.0,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0,103247,Managed PostgreSQL stores for Toolframe plugins
+2026-10-19T12:03:36Z,phyelds-webots,8.2.0,Davide Domini,Apache-2.0,6165,Webots integration for phyelds: aggregate programs on the robots of a Webots simulation
+2026-10-19T12:03:43Z,feluda-media-hash,0.1.0,,,4549,"A Feluda operator for generating cryptographic hashes of media files (image, video, audio)"
+2026-10-19T12:04:49Z,quisperx,0.1.0,Robert Fromont,BSD-2-Clause,32979340,"Time-Accurate Automatic Speech Recognition using Max Bain's WhisperX, with models fine-tuned on New Zealand English."
+2026-10-19T12:08:27Z,openmc-feedbacks,0.1.0,,,18608,Reusable OpenMC depletion simulations with optional soluble-species feedback control
+2026-10-19T12:09:45Z,byggleaf,0.1.0,ByggLeaf,GPL-3.0-or-later,151894,No JS & No shit. A benevolent dictator for your digital garden.
+2026-10-19T12:11:01Z,eda-tools-baigalaa,0.1.0,,,6502,EDA хийх жижиг туслах функцууд
+2026-10-19T12:11:07Z,tgart-keys,0.1.0,Typographics Art <d0n@typographics-art.org>,MIT,5571,"Verified Typographics Art issuer signing keys (Ed25519) and sealing keys (X25519), published immutably so agents that can only reach PyPI can verify signed Typograms. No private keys."
+2026-10-19T12:12:19Z,ppsds,0.0.3a0,"Tao Xu, Jianping He",MIT,334356,Probabilistic prediction for stochastic dynamical systems
+2026-10-19T12:12:35Z,autovision-framework,0.3.0,AutoVision contributors,Apache-2.0,2589881,AutoVision: enterprise visual model training framework (pretrain/distill -> finetune -> evaluate -> export)
+2026-10-19T12:12:54Z,cribl-python-sdk,0.0.1a1,,Apache-2.0,542441,Python SDK for the Cribl Control Plane API
+2026-10-19T12:14:40Z,langfuse-hotswap,0.1.0,Ruslan Glotov,MIT,155718,LangChain chain whose model and parameters live in the Langfuse prompt config
+2026-10-19T12:15:13Z,anedya-nexus-sdk,0.0.1,Anedya <support@anedya.io>,Apache-2.0,34296,[Alpha] Official Anedya SDK for Python — dual transport (gRPC + HTTP)
+2026-10-19T12:15:18Z,sofie,0.1.0,The CERN ML4EP Team,LGPL-2.1-only,43158183,"Python bindings and parsers for SOFIE: translate Keras, PyTorch and ONNX models to standalone C++ inference code"
+2026-10-19T12:15:20Z,oracle2ssrs,1.0.0,Max Casteel,MIT,2244069,Convert Oracle Reports XML exports into SSRS RDL reports.
+2026-10-19T12:15:21Z,leakscope,0.2.0rc1,,MIT,141262,LeakScope Python collector and CLI; native executables and web assets are installed separately
+2026-10-19T12:16:10Z,grip-hook,0.2.1,"""Erwin L."" <erwin.lejeune15@gmail.com>",BSD-3-Clause,206631,Pass the whiteboard defense before you push: a git hook that quizzes you on your own diff.
+2026-10-19T12:17:35Z,unloop,0.0.1,Sankalp Gaur,,2350,"Turn slow pandas loops into fast, verified vectorized code."
+2026-10-19T12:18:10Z,nmap-xml2xlsx,1.0.0,test233,MIT,32422,Convert Nmap XML scan results to Excel format with GUI and CLI support
