@@ -1,31 +1,31 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-10-19T09:18:58.895245Z",
-    "path": "data/new-packages-2026-10-19T10-21-32-467006Z.csv",
-    "to": "2026-10-19T10:21:32.467006Z"
+    "count": 39,
+    "from": "2026-10-19T10:21:32.467006Z",
+    "path": "data/new-packages-2026-10-19T11-19-06-533989Z.csv",
+    "to": "2026-10-19T11:19:06.533989Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-10-19T10:08:59Z",
-      "package": "firebird-admin",
-      "since": "2026-10-19T09:18:58.895245Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-19T09:36:20Z",
       "package": "firebirdadmin",
       "since": "2026-10-19T09:18:58.895245Z"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-19T06:56:02Z",
-      "package": "yapper.py",
-      "since": "2026-10-19T06:20:00.478516Z"
+      "attempts": 1,
+      "created_at": "2026-10-19T11:11:11Z",
+      "package": "sigmabam2openbis",
+      "since": "2026-10-19T10:21:32.467006Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-19T11:06:13Z",
+      "package": "yggio",
+      "since": "2026-10-19T10:21:32.467006Z"
     }
   ],
-  "serial": 42434582,
+  "serial": 42436570,
   "source_truncated": false,
-  "window": "2026-10-19T10:21:32.467006Z"
+  "window": "2026-10-19T11:19:06.533989Z"
 }

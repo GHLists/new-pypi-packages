@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T10:08:59Z,firebird-admin,1.0.1,fbadmin contributors,MIT,1880589,A pgAdmin-style web administration and development tool for Firebird SQL
+2026-10-19T10:21:58Z,fatebridge,0.1.0,thomas-yanxin <yx20001210@163.com>,Apache-2.0,2182196,FateBridge - A Model Context Protocol (MCP) server bridging ancient Chinese fortune telling wisdom with modern technology
+2026-10-19T10:23:44Z,seekgist,1.0.0,SeekGist <support@seekgist.com>,MIT,114325,"SeekGist API client for Python: Arabic-first e-commerce search, suggest, catalog sync and webhooks."
+2026-10-19T10:23:59Z,resume-guard,1.0.0,TextForAgents LLC,MIT,27295,"Resume-effect reconciliation for checkpointed agent runs: checkpoint-keyed effect ledger, read-only probe, Ed25519-signed resume verdicts."
+2026-10-19T10:24:25Z,good-neighbor-passport,1.0.0,,Apache-2.0,45230,"Good-neighbor agent traffic passport: RFC 9421-style Ed25519 budget passport, egress governor, host metering, hash-chained compliance log"
+2026-10-19T10:24:47Z,urirun-mind,0.1.0,Tom Sapletta,Apache-2.0,29077,"Cognitive layer over connectors: episode memory, skill cards, antipatterns, capability graph, autonomy levels, strategy selection, reflection. Learn procedures not answers."
+2026-10-19T10:24:52Z,railgate,1.0.0,TextForAgents LLC,MIT,49892,Rail-agnostic pre-signing payment policy gate with swappable settlement adapters (EVM/x402 + XRPL) — TextForAgents LLC
+2026-10-19T10:24:54Z,urirun-service-android-node,0.1.0,if-uri,Apache-2.0,47229,Android setup and webpage-node relay service for urirun on port 8195
+2026-10-19T10:25:02Z,urirun-service-chat,0.1.0,if-uri,Apache-2.0,15578,Standalone urirun chat/operator dashboard service on port 8194
+2026-10-19T10:25:09Z,urirun-service-scanner,0.1.1,if-uri,Apache-2.0,15709,Standalone urirun phone document scanner service on port 8196
+2026-10-19T10:25:11Z,default-watch-pinning-client,1.0.0,TextForAgents LLC,MIT,7940,"Session-start client for the Default-watch and pinning service (TextForAgents LLC): probe the effective default, gate the session before any billable work."
+2026-10-19T10:26:45Z,fxfunds-risk-disclosures,1.0.0,FXFunds,MIT AND CC-BY-4.0,35002,"FXFunds Risk Disclosure Bot: an offline library and CLI for trading, leverage, crypto and account-security risks and the official FXFunds document register. Built by FXFunds."
+2026-10-19T10:28:53Z,comfy-webui-core,0.1.1,RioShiina47,Apache-2.0,83992,"Core framework for dynamic ComfyUI workflow generation, Gradio WebUI, and MCP tools"
+2026-10-19T10:28:54Z,wimotek-ssh-tunnel,1.0.0,wimotek,MIT,12274,Python SSH Tunnel manager for Chromium CDP
+2026-10-19T10:30:19Z,qolaig-audit,0.1.0,Qolaig,MIT,12991,Qolaig immudb audit SDK — emit + capture stdout/logging
+2026-10-19T10:34:26Z,The-Shaper,0.1.0,Apan Dan,MIT,11038,A dataset-based prediction algorithm using a single formula.
+2026-10-19T10:36:09Z,tof-sims-parser,0.0.1,BAM Data Store <datastore@bam.de>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",124084,An example parser for openBIS using the bam-masterdata interface.
+2026-10-19T10:37:32Z,nexusq,4.1.0,lecodev-26,MIT OR Apache-2.0,953094,"Python bindings for NEXUS-Q, a post-quantum cryptographic security engine"
+2026-10-19T10:38:11Z,docangle,4.5.0,,MIT,92340,Document rotation angle and page orientation for Latin-script documents
+2026-10-19T10:40:33Z,linreg-douaa,1.0.0,Khoualed Douaa,MIT,6703,Simple linear regression from scratch (gradient descent)
+2026-10-19T10:44:46Z,logicfalcon,0.1.1,LogicFalcon Team (powered by AEGIS AI),Apache-2.0,280194,"LogicFalcon — Fast, precise engineering intelligence. Powered by AEGIS AI."
+2026-10-19T10:45:22Z,rulestamp-log-pii-telemetry-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35337,"22 rules that name the lines where a Node or TypeScript service writes personal data into logs, crash reports and analytics — with the article it touches and the one-line fix. (bundled Node.js runtim…"
+2026-10-19T10:47:21Z,sailmind-audit,0.0.1,SailMind,,3089,Reserved name. SailMind's sailmind-audit is distributed privately; this public package contains no code.
+2026-10-19T10:47:22Z,sailmind-rbac,0.0.1,SailMind,,3088,Reserved name. SailMind's sailmind-rbac is distributed privately; this public package contains no code.
+2026-10-19T10:49:26Z,promptfill,0.1.1,Pratham Shettigar,,10992,"A simple, lightweight prompt loader and formatter for AI applications."
+2026-10-19T10:51:33Z,wrapshap,0.1.1,Félix Furger,Apache-2.0,54490,SHAP-based feature selection and exploration for high-dimensional data
+2026-10-19T10:53:32Z,cotbias,0.2.0,COTBiasTerminal <support@cot-bias-terminal.com>,MIT,184561,Official Python client & MCP Server for CFTC COT Bias Terminal Quant API
+2026-10-19T10:55:15Z,sibyl-data,0.2.0,Akshant,Proprietary,271881,Sibyl — Universal Data Intelligence Platform: governed data access SDK + CLI (data-tool)
+2026-10-19T10:57:54Z,simple-linreg,0.1.0,Your Name,MIT,6883,Simple linear regression implemented from scratch.
+2026-10-19T10:59:42Z,bulk-rnaseq-pipeline,1.1.2,vipin839,MIT,337293,"Interactive, validated and resumable bulk RNA-seq pipeline (HISAT2, featureCounts, StringTie2, DESeq2)"
+2026-10-19T11:01:37Z,servebench,1.0.0,Prajwal Pujari,Apache-2.0,155792,"Load-test any OpenAI-compatible LLM endpoint: TTFT, TPOT, ITL, throughput, goodput, charts."
+2026-10-19T11:01:48Z,intel-libfabric,0.0.1,,,1317,
+2026-10-19T11:03:27Z,pyivt,0.0.1,Nate Babyak,MIT,6637283,Read Statistics Canada Beyond 20/20 .ivt tables: metadata and Apache Arrow export
+2026-10-19T11:04:52Z,pyformatters-json-rem,1.6.3,Olivier Terrier <olivier.terrier@kairntech.com>,Proprietary,795661,Json REM formatter for Sherpa
+2026-10-19T11:07:12Z,creep-test-parser,0.0.1,Markus Schilling,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",112606,An openBIS parser for creep testing data in BAM.
+2026-10-19T11:12:35Z,django-db-snapshots,0.1.0,silgena,BSD-3-Clause,49152,"Dump a Django database to one consistent file and load it into another environment - from the admin, without SSH."
+2026-10-19T11:13:07Z,pyxpo-pose-detection,0.1.0a1,Vishal Chaubey,MIT,48857,"On-device human pose detection for pyxpo apps: 17 body landmarks from a photo or every frame of a video (ML Kit on Android, Vision on iOS)."
+2026-10-19T11:16:00Z,md2plain,0.1.0,hoshF <noveor.ol@gmail.com>,"MIT License Copyright (c) 2026 hoshF Permission is hereby granted, free of charge, to any person ob…",22673,Convert Markdown to plain-text email for Gmail's Plain text mode.
+2026-10-19T11:18:22Z,medie,0.1.2,Yukino Ikegami,"The MIT License Copyright 2026 Yukino Ikegami Permission is hereby granted, free of charge, to any…",16729,MeCab's Double-Array trie reader
