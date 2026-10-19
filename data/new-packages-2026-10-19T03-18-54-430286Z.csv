@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T02:24:15Z,gamut-format,1.0.0,Bijective Systems,Apache-2.0,7572905,An open file format for parametric simulation studies and the models fitted to them
+2026-10-19T02:25:57Z,gpclib,0.1.1,Alexander Brady,MIT,18392,World-Model-Based Generative Control
+2026-10-19T02:26:56Z,wx-ai-proxy-client,0.1.0,,,17859,Lightweight sync/async Python SDK for the AI API Proxy HTTP service (chat / images / videos).
+2026-10-19T02:27:37Z,cambodia-geo,1.0.0,bsthen,MIT,445441,"Lightweight, zero-dependency lookup of Cambodia's provinces, districts, communes and villages (Khmer, English, codes)."
+2026-10-19T02:29:17Z,n8n-sync,0.2.1,Satwinder Badwal <dev@b7co.in>,MIT,34959,Git-friendly version control for n8n Community Edition workflows
+2026-10-19T02:29:45Z,platoon-textcraft,0.1.0,Apurva Gandhi <apurvag@cs.cmu.edu>,MIT,7024513,"TextCraft and TextCraft-Synth: crafting environments for LLM agents (ORS), with platoon's named environments and a Harbor export."
+2026-10-19T02:29:48Z,scify,0.1.1,C. S. Kim,MIT,92341,Wrap your real shell in a sci-fi dashboard.
+2026-10-19T02:29:57Z,ai-utils-lib,0.0.1,Rubens Gomes,MIT,24037,AI Utils Library.
+2026-10-19T02:30:08Z,cac-sign,0.1.0,Aaron Montgomery,MIT,225447,"Fill, CAC-sign and verify PDFs on a Mac, with Finder Quick Actions and a review page."
+2026-10-19T02:31:16Z,shopee-test-zyf11111,0.0.0,sc,BSD License,2456,A small example package
+2026-10-19T02:31:41Z,lyra-browser,0.1.2,unohee,MIT,483431,"lyra: an MCP server that gives an agent a persistent, logged-in Chromium the user can watch and take over, with every site change, form send, upload and download asked first."
+2026-10-19T02:35:58Z,untangled,1.0.0,Juan Castro,GPL-2.0-only AND MIT,147427,"Dependency health your whole team can understand: cycles and coupling in Python projects, in a report anyone can read."
+2026-10-19T02:37:31Z,seamoney-agent-session-parser,0.0.0,sc,BSD License,2581,A small example package
+2026-10-19T02:38:14Z,bbox-viz,0.1.0,Zhi Qin Tan,MIT,16873,A simple bounding box visualization tool based on Pillow
+2026-10-19T02:43:46Z,scrub.bot,0.1.2,,LicenseRef-BSL-1.1,646508,"Deterministic data cleaning for records, text, documents and more. Same input, same output; every edit logged, anything uncertain flagged."
+2026-10-19T02:44:35Z,lazyios,0.1.1,Manuel Sánchez,GPL-3.0-or-later,146667,"Terminal UI to control your iPhone from Windows, macOS and Linux: syslog, processes, apps, packet capture, network conditions. No jailbreak, no Xcode."
+2026-10-19T02:48:40Z,popnow,0.1.0,PopNow,MIT,80134,"Typed Python SDK for the PopNow API: AI video, image, music and speech generation (Kling, Seedance, Wan, Nano Banana, GPT Image, Suno and more)."
+2026-10-19T02:57:01Z,crewplane-ollama,0.1.0,,Apache-2.0,22860,Explicit local Ollama CLI capability for Crewplane
+2026-10-19T02:57:40Z,scrub.bot,0.1.2,,LicenseRef-BSL-1.1,646508,"Deterministic data cleaning for records, text, documents and more. Same input, same output; every edit logged, anything uncertain flagged."
+2026-10-19T03:00:39Z,shopee-aigc-redis-dispatcher,0.0.0,sc,BSD License,2558,A small example package
+2026-10-19T03:00:53Z,ohamlab-agent,0.1.1,,MIT,29470,Web research and extraction toolkit with MCP and optional autonomous LLM agents
+2026-10-19T03:01:21Z,shopee-test-zyf111,0.0.0,sc,BSD License,2447,A small example package
+2026-10-19T03:06:07Z,decision-layer,0.1.0a1,,Apache-2.0,499652,"Governed analysis methods, recipes and runs on top of a semantic layer (Cube first)"
+2026-10-19T03:09:01Z,veramem,0.1.0,Shhaurya Jaiswal,Apache-2.0,269224,"Verifiable, outcome-aware, share-safe long-term memory for AI agents. One file, zero infrastructure."
+2026-10-19T03:12:13Z,tempmailc,1.0.1,TempMailAPI <support@tempmailc.com>,MIT,27772,"Official Python SDK for TempMailAPI (https://private.tempmailc.com). Instant OTP extraction, real-time SSE streaming, and Kopeechka 2.0 compatibility."
+2026-10-19T03:12:20Z,neoinfo,0.1.0,Wensheng Wang,,168302,A command-line system information tool.
+2026-10-19T03:14:29Z,scnet-cli,0.1.0,fengyucn,,107376,SCNet 超算互联网 OpenAPI 命令行客户端
+2026-10-19T03:15:02Z,markdown-chunkify,0.3.0,Gal Gilor,Apache-2.0,32598,"Split Markdown into hierarchical sections with ids, parent links and source spans."
+2026-10-19T03:16:19Z,fxfunds-blockchain-technology,1.0.0,FXFunds,MIT,16494,"Read-only blockchain transaction signal analyzer for USDT on ERC20, TRC20 and TON. Built by FXFunds."
+2026-10-19T03:16:39Z,tiktok-gmvmax-mcp,0.2.0,"Buer2333 <13869438+Buer2333@users.noreply.github.com>, Yu Shengnan <yushengnan0525@gmail.com>",MIT,156567,Read-only MCP server for the TikTok Business API with first-class GMV Max support
