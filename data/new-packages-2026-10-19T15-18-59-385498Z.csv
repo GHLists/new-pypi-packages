@@ -1,0 +1,60 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T14:19:41Z,unstrap,0.1.0,SweatStack,MIT,6263065,"Your watch data, set free. Copies everything your Garmin watch records, straight off the watch over USB."
+2026-10-19T14:21:59Z,credit-platform-sdk,1.0.0,IDENER,,65136,Python SDK for the public CREDIT Platform APIs
+2026-10-19T14:22:51Z,gst-review,0.1.0,Ryan Duguid,Apache-2.0,56888,"Review aids for Australian GST coding and BAS-to-ledger reconciliation. Review aid, not a determination."
+2026-10-19T14:23:27Z,aiscript,1.0.0,Daniel Illescas Romero,MIT,50364,"JIT-compile plain-English intents into cached, reviewed shell scripts via an LLM."
+2026-10-19T14:24:45Z,whattheshell,0.1.1,,AGPL-3.0-or-later,1840519,"Graphical builder for Linux terminal workflows: compose CLI tools into safe, sandboxed workflows"
+2026-10-19T14:31:22Z,computergym,1.0.0,,Apache-2.0,108216,ComputerGym is a Gymnasium-compatible framework for reinforcement learning in desktop applications
+2026-10-19T14:32:27Z,devopstest-aiexternal-python-library,1.0.0,,,4845,devopstest-aiexternal-python-library
+2026-10-19T14:33:11Z,battery-guard,2026.10.19,Bart Broere <mail@bartbroere.eu>,MIT,8182,Pause work until the battery is charged enough to continue
+2026-10-19T14:35:17Z,3dpy,0.1.0,,,10607,Small Python mesh toolkit with programmable textures and effects
+2026-10-19T14:35:51Z,novilabs-scrooge,0.dev0,Novi Labs <devops@novilabs.com>,,821,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-19T14:35:52Z,novilabs-model-jobs,0.dev0,Novi Labs <devops@novilabs.com>,,828,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-19T14:35:53Z,novilabs-tva,0.dev0,Novi Labs <devops@novilabs.com>,,818,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-19T14:35:54Z,novilabs-model-qa-paths,0.dev0,Novi Labs <devops@novilabs.com>,,834,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-19T14:36:59Z,crabstero,1.3.0,Logan Fick,Apache-2.0,156442,The simple nonversation Discord bot.
+2026-10-19T14:37:25Z,faststrap-preview-studio,0.9.1,FastStrap Team,MIT,201895,Interactive Component Studio & Live Documentation Preview Engine for FastStrap + FastHTML
+2026-10-19T14:38:38Z,sofizpay-python-sdk,1.1.0,SofizPay Team,MIT,791818,Professional Python SDK for SofizPay payments using Stellar blockchain
+2026-10-19T14:39:39Z,te-proxima,0.0.0,Technica Engineering GmbH,Proprietary,3813,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-10-19T14:39:42Z,te-core,0.0.0,Technica Engineering GmbH,Proprietary,3756,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-10-19T14:39:45Z,te-databex,0.0.0,Technica Engineering GmbH,Proprietary,3803,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-10-19T14:39:47Z,te-ConfigValidator,0.0.0,Technica Engineering GmbH,Proprietary,3950,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-10-19T14:40:19Z,arc56-generated-hashm-22203ee3,1.1.2026101914,HashMapsData2Value,,36442,Generated ARC-56 Algorand smart-contract clients for HashMapsData2Value/zebgen.
+2026-10-19T14:41:09Z,pixelkid,0.1.0,,MIT,9212,Превращает любое фото в пиксель-арт одной функцией. Сделано для мастер-классов по Python.
+2026-10-19T14:42:20Z,cs-image-system-bash-mod-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,27845,"The shell modification plugin: inline script, script files and an ensure form become Packer shell provisioners"
+2026-10-19T14:42:21Z,cs-image-system-default-os-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,37062,"The OS builders: debian, ubuntu, rhel, fedora and alpine as base operating systems"
+2026-10-19T14:42:23Z,cs-image-system-dummy-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,21408,The extension template and test double: a builder plugin and a hook plugin in their smallest working form
+2026-10-19T14:42:24Z,cs-image-system-gcloud-runtime-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,62949,The gcloud runtime type: Google Compute Engine as a place where images bake and instances run
+2026-10-19T14:44:37Z,agora-canvas,0.1.0,,MIT,18598820,One Agora per project: an architecture canvas shared with your own coding agent
+2026-10-19T14:45:23Z,critias,0.0.1,Danial Kodvavi,Apache-2.0,2596,"Critias, an open-source pricing analyst. Official name; install the app from GitHub for now."
+2026-10-19T14:45:45Z,arc56-generated-ganai-112272cc,1.2.2026072010,Ganainmtech,,11960,Generated ARC-56 Algorand smart-contract clients for Ganainmtech/Algorand-dApp-Quick-Start-Template-TypeScript.
+2026-10-19T14:45:54Z,athex,0.1.0,,,5844,Runtime license check bypass helper
+2026-10-19T14:46:49Z,arc56-generated-ganai-1001d575,1.2.2026072010,Ganainmtech,,12038,Generated ARC-56 Algorand smart-contract clients for Ganainmtech/RwaAdvancedTemplate.
+2026-10-19T14:47:52Z,arc56-generated-ganai-7fafc50d,1.2.2026072010,Ganainmtech,,12010,Generated ARC-56 Algorand smart-contract clients for Ganainmtech/TokenizeRWATemplate.
+2026-10-19T14:48:16Z,tracker-mcp,0.3.0,Ivan Rykov,MIT,145037,"MCP server for your job-application tracker in Excel, CSV or Google Sheets: follow-ups, funnel, safe confirmed writes"
+2026-10-19T14:48:28Z,rutranscript-resources,1.0.0,Alexandra Badasyan,MIT AND Apache-2.0,32850929,Versioned linguistic resources for RuTranscript
+2026-10-19T14:50:13Z,aistupidlevel,0.1.0,AI Stupid Level <hello@aistupidlevel.info>,MIT,36401,"Client for the AI Stupid Level Smart Router: one OpenAI-compatible endpoint that routes every request to the model measuring best for it, with your own provider keys."
+2026-10-19T14:51:47Z,piexif-fork,1.1.4a1,hMatoba,MIT,3216058,"To simplify exif manipulations with python. Writing, reading, and more..."
+2026-10-19T14:52:06Z,lenapi,0.1.0,,,194872,"A small, typed ASGI web framework"
+2026-10-19T14:52:14Z,yarn-burrow,0.1.0,,MIT,61360273,A modern UI for Apache Hadoop YARN and Spark-on-YARN — one read-only Rust binary
+2026-10-19T14:54:38Z,syndset,0.2.1,Davide <davide@example.com>,MIT,241949,A diagnostic battery and synthetic testbed for neural network architectures.
+2026-10-19T14:55:56Z,agentsecrets-plugin,0.1.0,AgentSecrets,MIT,33220,Zero-knowledge credential tools for AI agent frameworks
+2026-10-19T14:57:55Z,inspect-swarm,0.0.1,Meridian Labs,MIT License,37081,Evals with multi-agent swarms (experimental).
+2026-10-19T14:59:13Z,django-lettermint,0.1.0,Therry van Neerven,MPL-2.0,13507,Django email backend that sends mail through Lettermint.
+2026-10-19T14:59:30Z,normt2s,0.1.0,Christian Siegel,MIT,83863,"Lightweight, dependency-free text normalization (numbers, units, abbreviations) for TTS."
+2026-10-19T15:00:26Z,aics-identity,0.2.0,Peter Politopoulos,Apache-2.0,150491,"Cryptographic identity for AI agents: Ed25519 keys (raw, did:key, OpenSSH), deterministic derivation, signed JSON envelopes with sender chains, RFC 9421 HTTP message signatures with replay hooks, SSH…"
+2026-10-19T15:00:31Z,aics-tlog,0.2.0,Peter Politopoulos,Apache-2.0,128078,"Verifier/builder for C2SP transparency logs (tlog-tiles, tlog-checkpoint, signed-note, tlog-cosignature)"
+2026-10-19T15:00:33Z,aics-witness,0.1.0,Peter Politopoulos,Apache-2.0,115811,"C2SP tlog-witness for AICS: verifies log checkpoints and consistency proofs, keeps the latest view per log in SQLite, returns cosignature/v1 lines"
+2026-10-19T15:02:19Z,SHAnC,0.0.1,"Rémi Grincourt <remi.grincourt@ens-lyon.fr>, Maewenn Temey <maewenn.temey@ens-lyon.fr>","MIT License Copyright (c) 2026 re-gr Permission is hereby granted, free of charge, to any person ob…",20427142,SHAnC (Silica Helices Analysis & Construction) is a collection of scripts used to Construct and Analyze Silica Helices.
+2026-10-19T15:02:34Z,heavyheader,0.1.0,,Apache-2.0,567766,C/C++ 构建效能治理平台：用编译器自身的输出归因头文件成本，定位可精简的 include，并在 CI 中门禁成本回归
+2026-10-19T15:04:06Z,vtt-transfer,0.1.0,Alexander Lubovenko,MIT,245608,"Transfer VTT (Visual TrueType) hinting sources to a new version of a TrueType font, with an HTML report of what is left to hint"
+2026-10-19T15:04:25Z,aics-conformance,0.1.0,,Apache-2.0,132423,Operator-run AICS-1 conformance and portable evidence harness
+2026-10-19T15:04:25Z,aics-mcp,0.1.0,Peter Politopoulos,Apache-2.0,21919,"Read-only MCP discovery and verification server for wesupport-ai.com (AICS-1): onboarding instructions, live agent arrivals and swarms, public Agora forum posts, directory key lookup, and signed Merk…"
+2026-10-19T15:04:51Z,bookvox,0.5.0,Joseph,MIT License Copyright (c) 2025 Claudio Santini Copyright (c) 2026 Joseph Permission is hereby grant…,36969,Generate audiobooks from e-books (epub to wav/m4b)
+2026-10-19T15:05:57Z,orveld-ode,0.5.0,Orveld Engineering <engineering@orveld.org>,Apache-2.0,12012,Official Python SDK for the Orveld Data Engine (ODE)
+2026-10-19T15:08:36Z,mkd-tools,0.9.0,,GPL-3.0-only,54594018,"Read, search, and create Monokakido dictionaries"
+2026-10-19T15:08:38Z,digital-bookshelf,0.1.0,Eitan Lees,MIT,52389,"Turn your Goodreads, StoryGraph, or Notion reading log into a grid of book covers."
+2026-10-19T15:10:09Z,tensio,0.0.1,Gautier Bureau <gautier.bureau@rte-france.com>,MPL-2.0,12765,tensio
+2026-10-19T15:10:59Z,fuse-breaker,0.2.0,,MIT,29904,"Provider-neutral circuit breaker for AI agents: spend, call and failure limits, enforced locally or via the FuseGuard hosted API."
+2026-10-19T15:14:40Z,ciffetch,0.1.0,Frederik H Gjørup,GPL-3.0-only,49440,A PyQt dialog for searching COD and fetching CIF files
+2026-10-19T15:17:43Z,cued-speech-fr,0.5.0,Boubacar Sow <boubasow.pro@gmail.com>,MIT,1210369,Cued Speech Processing Tools - Decode and Generate cued speech videos

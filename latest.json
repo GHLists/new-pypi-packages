@@ -1,25 +1,19 @@
 {
   "list": {
-    "count": 56,
-    "from": "2026-10-19T13:18:55.870635Z",
-    "path": "data/new-packages-2026-10-19T14-21-43-970947Z.csv",
-    "to": "2026-10-19T14:21:43.970947Z"
+    "count": 59,
+    "from": "2026-10-19T14:21:43.970947Z",
+    "path": "data/new-packages-2026-10-19T15-18-59-385498Z.csv",
+    "to": "2026-10-19T15:18:59.385498Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-19T12:02:26Z",
       "package": "oc-lode",
       "since": "2026-10-19T11:19:06.533989Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-19T14:19:41Z",
-      "package": "unstrap",
-      "since": "2026-10-19T13:18:55.870635Z"
     }
   ],
-  "serial": 42443326,
+  "serial": 42445493,
   "source_truncated": false,
-  "window": "2026-10-19T14:21:43.970947Z"
+  "window": "2026-10-19T15:18:59.385498Z"
 }
