@@ -1,12 +1,37 @@
 {
   "list": {
-    "count": 73,
-    "from": "2026-10-19T20:20:32.568877Z",
-    "path": "data/new-packages-2026-10-19T21-19-44-861323Z.csv",
-    "to": "2026-10-19T21:19:44.861323Z"
+    "count": 56,
+    "from": "2026-10-19T21:19:44.861323Z",
+    "path": "data/new-packages-2026-10-19T22-18-58-788527Z.csv",
+    "to": "2026-10-19T22:18:58.788527Z"
   },
-  "pending": [],
-  "serial": 42460341,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-19T22:09:40Z",
+      "package": "SonataBot",
+      "since": "2026-10-19T21:19:44.861323Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-19T22:05:17Z",
+      "package": "codecraftai-restclient-lamdalabs",
+      "since": "2026-10-19T21:19:44.861323Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-19T22:18:39Z",
+      "package": "codecraftai-restclient-nutanix",
+      "since": "2026-10-19T21:19:44.861323Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-19T21:28:57Z",
+      "package": "just-book-my-cal",
+      "since": "2026-10-19T21:19:44.861323Z"
+    }
+  ],
+  "serial": 42462672,
   "source_truncated": false,
-  "window": "2026-10-19T21:19:44.861323Z"
+  "window": "2026-10-19T22:18:58.788527Z"
 }
