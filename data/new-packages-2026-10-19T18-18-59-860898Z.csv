@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T17:22:30Z,mdformat-directives,0.0.1,terminalkitten <dk@terminalkitten.com>,MIT,10142,An mdformat plugin for generic directives
+2026-10-19T17:28:21Z,aics-cli,0.1.0,,Apache-2.0,226023,"Verify the AICS log, card and keys yourself: a thin CLI over aics-tlog and aics-identity"
+2026-10-19T17:29:08Z,libmolsymm,1.0.0,libmolsymm contributors,MIT,2809891,Molecular point-group symmetry detection and symmetrization
+2026-10-19T17:31:39Z,odoo-addon-project-esim-somconnexio,16.0.1.0.0,"Som Connexió SCCL, Coopdevs Treball SCCL",AGPL-3,33559,eSIM management for SomConnexió ERP.
+2026-10-19T17:32:52Z,pyegclamui,3.2.0,EG1 ( eg1.in ),GPL-3.0-or-later,283195,"An open-source, cross-platform desktop GUI for ClamAV"
+2026-10-19T17:39:12Z,inquiryon-amp-core,0.1.0,,Apache-2.0,52995,"AMP governance core: policy schema, deterministic evaluation, decision-provider contracts (experimental v0)"
+2026-10-19T17:39:23Z,inquiryon-amp-community,0.1.0,,Apache-2.0,82011,"AMP Community Edition: HITL workflow, append-only audit, callback delivery (experimental v0)"
+2026-10-19T17:39:25Z,inquiryon-amp-sdk,0.1.0,,Apache-2.0,42963,Python SDK for the AMP Community governance API
+2026-10-19T17:39:29Z,nodalwire,0.1.0,,MIT,23099,A bounded native ZeroMQ byte relay for trusted local Python applications.
+2026-10-19T17:40:28Z,bioaccx,0.1.0,,MIT,715538,Bioacoustic neural network custom classifier generator
+2026-10-19T17:43:38Z,rulesatlas,0.0.1,RiskDataScience GmbH <riskdatascience@web.de>,MIT,1454994,Rule-based state transitions and outcomes for sports and games
+2026-10-19T17:46:16Z,esp32kb,0.1.4,Simone Salerno,MIT,155427361,Build an on-device knowledge base (text chunks + INT8 MiniLM embeddings) for the ESP32-P4 vector-search demo.
+2026-10-19T17:57:03Z,rag-workflow,0.1.0,,,6222,The project for RAG example workflow
+2026-10-19T17:58:28Z,nvim-doc-reader,0.1.0,,,65244,"Keyboard-driven HTML reader for Markdown docs, with jumps into running Neovim"
+2026-10-19T17:58:41Z,agent-supra,1.0.0,Sanchit,MIT,190715,"Notice when an unattended AI agent is stuck, pause it, and show why."
+2026-10-19T17:59:34Z,lumida,0.4.0,Rohan Chauhan,Apache-2.0,556788,"Points read-only at your databases, learns what normal looks like, and tells you what's wrong, with evidence. Runs entirely on your own machines."
+2026-10-19T18:00:32Z,adk-agent-harness,0.2.0,Manish Dighore,MIT,115918,Opinionated deep-agent assembly layer for Google ADK.
+2026-10-19T18:00:42Z,sepa-check,0.1.0,Bobook Limited <info@bobook.club>,MIT,11795,CLI for the free SEPA pain.001 validator API at checksepa.com
+2026-10-19T18:01:30Z,nemau-cloud,0.2.0,,Apache-2.0,149801,Python client for the Nemau Cloud public API
+2026-10-19T18:03:29Z,greekbook,0.2.0,Spilios Dimakopoulos,MIT,5352886,"Markdown to beautifully typeset Greek books and theses (PDF, PDF/A, EPUB) — no LaTeX required."
+2026-10-19T18:03:41Z,imbcal,0.3.0,Rolando de la Cruz <rolando.delacruz@uai.cl>,MIT,43467,"Calibrated probability estimation under class imbalance: safe pipelines, prevalence-preserving augmentation and diagnostics"
+2026-10-19T18:04:05Z,odoo-addon-project-task-somconnexio,16.0.1.0.0.4,Som Connexió SCCL,AGPL-3,5465,Shared fields for SomConnexió projects and tasks.
+2026-10-19T18:10:08Z,pymodularity,0.2.0,Tilo Himmelsbach,MIT,72308,"See and check a repo's real Python imports: a privacy convention on PEP 8 underscores, an import-cycle ban, and a coupling report, all derived from the code."
+2026-10-19T18:10:18Z,universal-data-cleaner,2.0.0,Haseeb Khan,MIT,28510,"Production-ready, scikit-learn-compatible data cleaning transformer for pandas."
+2026-10-19T18:15:17Z,hegeltest,0.1.0,Hegel developers,MIT,7912954,"Property-based testing for Python, built on the Hegel engine."
