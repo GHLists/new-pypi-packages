@@ -1,31 +1,25 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-10-18T22:19:33.264276Z",
-    "path": "data/new-packages-2026-10-18T23-18-59-000391Z.csv",
-    "to": "2026-10-18T23:18:59.000391Z"
+    "count": 34,
+    "from": "2026-10-18T23:18:59.000391Z",
+    "path": "data/new-packages-2026-10-19T00-19-47-780047Z.csv",
+    "to": "2026-10-19T00:19:47.780047Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-18T20:05:02Z",
-      "package": "google-keep-mcp-github",
-      "since": "2026-10-18T19:19:48.02743Z"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-18T22:23:26Z",
       "package": "oraql-native",
       "since": "2026-10-18T22:19:33.264276Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-18T20:25:08Z",
       "package": "perata",
       "since": "2026-10-18T20:22:12.544402Z"
     }
   ],
-  "serial": 42415366,
+  "serial": 42416605,
   "source_truncated": false,
-  "window": "2026-10-18T23:18:59.000391Z"
+  "window": "2026-10-19T00:19:47.780047Z"
 }

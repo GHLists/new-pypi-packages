@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-18T23:20:11Z,prompt-pivot,0.1.2,Lasitha Jayawardana,Apache-2.0,105094,"Store, version, edit and publish LLM prompts at runtime from inside your FastAPI app, using your own PostgreSQL or MySQL database."
+2026-10-18T23:21:44Z,specbook-fastapi,0.1.0,Ajai Shankar,MIT,69747,Serve the Specbook API viewer from a FastAPI app
+2026-10-18T23:24:22Z,loggerai-sdk,0.1.1,LoggerAI <dev@loggerai.uk>,MIT,40824,"LoggerAI for Python: performance monitoring, errors, logs and health checks for FastAPI, Django, Flask and Celery."
+2026-10-18T23:25:47Z,daily-news-mcp,0.1.2,Vinay Kumar Godavarti,MIT,433201,"MCP server exposing the Daily News engine (fetch, curate, rewrite AI/news) as tools."
+2026-10-18T23:28:13Z,imagegeneration,0.1.0,TalhaZunair,MIT,28931,Automated single and high-throughput batch image generation client via Gemini web RPCs.
+2026-10-18T23:28:26Z,pw-foundation,1.0.0,Mike Farr,Apache-2.0,273510,"Dependency-light Python foundation: structured logging, an exception hierarchy, config from env, parallel helpers, pure utilities, and a structural build gate"
+2026-10-18T23:43:55Z,rocket-seds-msi01,1.0.0,Your Name,MIT,5931,"Rocket, Shuttle and CircleRocket classes"
+2026-10-18T23:46:29Z,django-data-observer,0.0.1,Saranya Balasubramanian <saranya.balasubramanian@gmail.com>,MIT,68409,Data observer package for Django projects
+2026-10-18T23:47:16Z,dumpsterpanda,0.0.2,yla382,Apache-2.0,10764,"Run models bigger than your GPU: layer-by-layer weight streaming across GPU, RAM and disk."
+2026-10-18T23:47:46Z,pybricks-core,1.0.0b1,The Pybricks Authors,MIT,90491,"Shared protocol, IPC transport and logging for the Pybricks tools"
+2026-10-18T23:48:27Z,n10w02,0.0.5,Kengo NAKADA <kengo.nakada@email.com>,,32500,cannon n10w02 camera
+2026-10-18T23:54:30Z,uvunwrap,0.2.0,,MIT,4851434,"Fast automatic UV unwrapping and atlas packing for lightmaps and baking, written in Rust"
+2026-10-18T23:55:17Z,lunar-toolkit,0.1.0.dev2,,BSD-3-Clause,625655,"Find, download and process lunar orbital imagery (LROC, ShadowCam, Kaguya TC) and build stereo and shape-from-shading DEMs with ISIS + ASP"
+2026-10-18T23:55:48Z,meta-thinking,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,6077,Package description
+2026-10-18T23:56:12Z,elytra-mcp,0.4.0a1,Yosef Shammout,MIT,472695,"Local guardrails for coding agents: check what Claude Code, Codex, Grok and Antigravity do before it runs"
+2026-10-18T23:58:10Z,pybricks-client,1.0.0b1,The Pybricks Authors,MIT,48317,Client library for the Pybricks service
+2026-10-19T00:01:04Z,asteroidpipeline,0.2.1,Alejandro,MIT,306372,"Find moving objects in astronomical image sets, check them, and write MPC reports — a terminal app on AsteroidPipeline.jl"
+2026-10-19T00:04:22Z,lowe,0.1.0,Lowe Tekam <lowetekam@gmail.com>,Proprietary,740791,LOWE: an AI assistant and terminal coding agent built for developers in China
+2026-10-19T00:04:37Z,shortleash,0.1.0,Calas Automations Inc.,MIT,54386,Circuit breaker for AI coding-agent runs.
+2026-10-19T00:04:54Z,pr-verify,0.1.0,Calas Automations Inc.,MIT,44689,Deterministic trust scoring for agent-authored PRs.
+2026-10-19T00:05:08Z,adr-drift,0.1.0,Calas Automations Inc.,MIT,42574,Deterministic architecture tests: keep the codebase honest about its own ADRs.
+2026-10-19T00:05:24Z,standupguy,0.1.0,Calas Automations Inc.,MIT,36787,Local-first standup notes from git ground truth.
+2026-10-19T00:05:45Z,pybricks-service,1.0.0b1,The Pybricks Authors,MIT,199139,The Pybricks service: manages hub connections
+2026-10-19T00:08:20Z,tutorflow-content,0.1.0,,Proprietary,785584,"Python client for the TutorFlow Content API: generated routes and models, retries, pagination, run polling and webhook verification."
+2026-10-19T00:11:42Z,interlis2py,0.1.0,Clemens Rudert <rudert-geoinformatik@posteo.ch>,,318926,Your pythonic gateway to INTERLIS
+2026-10-19T00:14:07Z,genesets,0.1.1,,MIT,1666403,Python bindings for genesets-rs: fast GO enrichment and Bayesian model-based gene set analysis (MGSA).
+2026-10-19T00:14:50Z,kosa8-maqpna,0.1.0,Kosa8 Labs <hello@maqpna.com>,LicenseRef-Kosa8-Proprietary,93652,Python SDK for agents running inside MAQPNA sandboxes: governed MCP tool calls through the MAQPNA gateway.
+2026-10-19T00:17:26Z,document-sanity,0.2.2,Chase Yakaboski,MIT,1070108,"Build PDF (LaTeX), interactive HTML, and Word (.docx) documents from a single Markdown source of truth — with variable substitution, figure management, and versioned builds."
+2026-10-19T00:17:35Z,presentation-sanity,0.4.3,Chase Yakaboski,MIT,3069276,"Build slides and blogs from a single manifest.yaml — one project, many presentations and versions sharing variables, provenance, manim scenes and figures, rendered by Slidev and VitePress."
+2026-10-19T00:18:07Z,setcookie,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,56571,"Parse, validate and safely build HTTP Set-Cookie headers, typed and zero-dependency, per RFC 6265bis"
+2026-10-19T00:18:22Z,authchallenge,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,56912,"Parse, validate and safely build HTTP WWW-Authenticate, Authorization and Authentication-Info headers per RFC 9110, typed and zero-dependency"
+2026-10-19T00:18:37Z,chunkedte,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,47598,"Strict, incremental, typed, zero-dependency codec for HTTP/1.1 chunked transfer coding"
+2026-10-19T00:18:47Z,pm2cd,0.1.1,Kengo NAKADA <kengo.nakada@email.com>,,107711,tuji pm2cd
+2026-10-19T00:18:51Z,hstsheader,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,53688,"Parse, check and build the HTTP Strict-Transport-Security header, typed and zero-dependency."

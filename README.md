@@ -8,40 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 23:18 UTC
+## Latest list — 2026-10-19 00:19 UTC
 
-New packages created between 2026-10-18 22:19 UTC and 2026-10-18 23:18 UTC.
+New packages created between 2026-10-18 23:18 UTC and 2026-10-19 00:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-18T23-18-59-000391Z.csv)
+[Full CSV](data/new-packages-2026-10-19T00-19-47-780047Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-18 20:44:21 | [decodetick-mcp](https://pypi.org/project/decodetick-mcp/) | 2026.10.19 | Decodetick | 51.7 kB | Market intelligence for your AI assistant - algo-trading strategies, analytics… |
-| 2026-10-18 22:24:15 | [ragnor](https://pypi.org/project/ragnor/) | 0.4.1 |  | 607.7 kB | Domain-agnostic RAG toolkit: embeddings, chunking, vector stores, retrieval, in… |
-| 2026-10-18 22:28:35 | [giuggiai-meter](https://pypi.org/project/giuggiai-meter/) | 0.1.1 | GiuggiAI <oss@giuggiai.com> | 74.1 kB | Per-call LLM usage logging, per-project cost reports and monthly reconciliation… |
-| 2026-10-18 22:29:06 | [global-executables](https://pypi.org/project/global-executables/) | 1.3.0 | asopitech-labs | 272.7 kB | Check whether a CLI command name is already taken: a cross-ecosystem executable… |
-| 2026-10-18 22:29:33 | [facet-core](https://pypi.org/project/facet-core/) | 0.1.1 | Omid Solari <solari@berkeley.… | 73.6 kB | FACET, Factorization, Alignment, Component Estimation, and Transforms |
-| 2026-10-18 22:32:00 | [oclib](https://pypi.org/project/oclib/) | 0.0.1 | Jiří Vik <mimic2300@gmail.com> | 8.7 kB | A multi-purpose library containing various helper functions and objects designe… |
-| 2026-10-18 22:35:24 | [ffwf-tau-search](https://pypi.org/project/ffwf-tau-search/) | 0.1.0 | Fight Fire with Fire Robotics… | 112.9 kB | τ-search: tier-1 web fetch, keyless metasearch, presearch, and a Tau extension |
-| 2026-10-18 22:36:55 | [ctkforge](https://pypi.org/project/ctkforge/) | 0.1.0 | Rafalus | 185.6 kB | CustomTkinter extension components and widgets |
-| 2026-10-18 22:38:28 | [pretix-swissbitcoinpay](https://pypi.org/project/pretix-swissbitcoinpay/) | 0.1.0 | Swiss Bitcoin Pay Sàrl <hello… | 149.8 kB | Bitcoin payments (Lightning and on-chain) for pretix with Swiss Bitcoin Pay: pa… |
-| 2026-10-18 22:38:36 | [openmc-depletion-feedback](https://pypi.org/project/openmc-depletion-feedback/) | 0.1.0 |  | 18.1 kB | Reusable OpenMC depletion simulations with optional soluble-species feedback co… |
-| 2026-10-18 22:43:20 | [rocket-aymen-lab3](https://pypi.org/project/rocket-aymen-lab3/) | 1.0.0 | Aymen | 6.1 kB | A small rocket simulation library |
-| 2026-10-18 22:43:41 | [ynab-api-cli](https://pypi.org/project/ynab-api-cli/) | 0.1.0 | Mike Hill | 326.4 kB | Complete contract-driven REST CLI for YNAB |
-| 2026-10-18 22:51:19 | [racinglines](https://pypi.org/project/racinglines/) | 1.0.0 |  | 2.5 MB | Fair prices for Formula 1 prediction markets, and the tools to test trading str… |
-| 2026-10-18 22:52:49 | [aymen-linreg-lab3](https://pypi.org/project/aymen-linreg-lab3/) | 1.0.0 | Aymen | 5.7 kB | Simple linear regression from scratch with NumPy |
-| 2026-10-18 22:54:08 | [craftainer-tool-observability](https://pypi.org/project/craftainer-tool-observability/) | 0.1.0 |  | 227.1 kB | Health checks, structured logging, OpenTelemetry, request IDs and profiling for… |
-| 2026-10-18 22:54:14 | [craftainer-tool-crud](https://pypi.org/project/craftainer-tool-crud/) | 0.1.0 |  | 393.1 kB | Generic CRUD framework for FastAPI: router factories, repositories, model and v… |
-| 2026-10-18 22:58:03 | [benchkit-cli](https://pypi.org/project/benchkit-cli/) | 0.1.0 |  | 7.5 MB | Benchmark your local LLMs with real eval suites |
-| 2026-10-18 23:00:52 | [seeqbox](https://pypi.org/project/seeqbox/) | 0.1.0 | Bjørn Pettersen | 591.8 kB | Encrypted, versionable data for your applications. |
-| 2026-10-18 23:08:05 | [usebuddy](https://pypi.org/project/usebuddy/) | 0.1.0b1 | Creovine LTD | 28.8 kB | Server-side Python client for the Buddy API |
-| 2026-10-18 23:10:06 | [capyy](https://pypi.org/project/capyy/) | 0.3.0 | Izac | 37.2 kB | Tiny encrypted JSON-over-TCP APIs: call a function in another program, on your… |
-| 2026-10-18 23:10:07 | [simplesuit](https://pypi.org/project/simplesuit/) | 0.1.0 | Izac | 33.2 kB | Small terminal helpers: 24-bit colors, Nerd Font icons, a JSON file used as a d… |
-| 2026-10-18 23:10:20 | [byteplussdk-filenas](https://pypi.org/project/byteplussdk-filenas/) | 0.0.1 | byteplus-sdk | 991 B | Name reservation for the Byteplus Python SDK split package byteplussdk-filenas |
-| 2026-10-18 23:10:26 | [byteplussdk-hbase](https://pypi.org/project/byteplussdk-hbase/) | 0.0.1 | byteplus-sdk | 975 B | Name reservation for the Byteplus Python SDK split package byteplussdk-hbase |
-| 2026-10-18 23:10:32 | [byteplussdk-iam20210801](https://pypi.org/project/byteplussdk-iam20210801/) | 0.0.1 | byteplus-sdk | 1.0 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-iam20210… |
-| 2026-10-18 23:10:38 | [byteplussdk-id](https://pypi.org/project/byteplussdk-id/) | 0.0.1 | byteplus-sdk | 953 B | Name reservation for the Byteplus Python SDK split package byteplussdk-id |
-| 2026-10-18 23:16:22 | [clauthing-gmail-mcp](https://pypi.org/project/clauthing-gmail-mcp/) | 0.1.0 |  | 52.3 kB | Read-only Gmail for LLMs with selective, revocable client permissions |
-| 2026-10-18 23:16:46 | [utilvo-shield-filters](https://pypi.org/project/utilvo-shield-filters/) | 1.0.0 | Utilvo <utilvo.com@gmail.com> | 9.1 kB | Zero-dependency parser and domain matcher for Adblock Plus 2.0 and uBlock Origi… |
-| 2026-10-18 23:17:23 | [ffmpeg-micro](https://pypi.org/project/ffmpeg-micro/) | 0.1.0 | FFmpeg Micro | 217.8 kB | Official Python client for the FFmpeg Micro API: video transcoding, transcripti… |
-| 2026-10-18 23:17:53 | [django-ninja-ulid](https://pypi.org/project/django-ninja-ulid/) | 0.1.0 |  | 87.2 kB | ULID validation and flat model response schemas for Django Ninja. |
+| 2026-10-18 23:20:11 | [prompt-pivot](https://pypi.org/project/prompt-pivot/) | 0.1.2 | Lasitha Jayawardana | 105.1 kB | Store, version, edit and publish LLM prompts at runtime from inside your FastAP… |
+| 2026-10-18 23:21:44 | [specbook-fastapi](https://pypi.org/project/specbook-fastapi/) | 0.1.0 | Ajai Shankar | 69.7 kB | Serve the Specbook API viewer from a FastAPI app |
+| 2026-10-18 23:24:22 | [loggerai-sdk](https://pypi.org/project/loggerai-sdk/) | 0.1.1 | LoggerAI <dev@loggerai.uk> | 40.8 kB | LoggerAI for Python: performance monitoring, errors, logs and health checks for… |
+| 2026-10-18 23:25:47 | [daily-news-mcp](https://pypi.org/project/daily-news-mcp/) | 0.1.2 | Vinay Kumar Godavarti | 433.2 kB | MCP server exposing the Daily News engine (fetch, curate, rewrite AI/news) as t… |
+| 2026-10-18 23:28:13 | [imagegeneration](https://pypi.org/project/imagegeneration/) | 0.1.0 | TalhaZunair | 28.9 kB | Automated single and high-throughput batch image generation client via Gemini w… |
+| 2026-10-18 23:28:26 | [pw-foundation](https://pypi.org/project/pw-foundation/) | 1.0.0 | Mike Farr | 273.5 kB | Dependency-light Python foundation: structured logging, an exception hierarchy,… |
+| 2026-10-18 23:43:55 | [rocket-seds-msi01](https://pypi.org/project/rocket-seds-msi01/) | 1.0.0 | Your Name | 5.9 kB | Rocket, Shuttle and CircleRocket classes |
+| 2026-10-18 23:46:29 | [django-data-observer](https://pypi.org/project/django-data-observer/) | 0.0.1 | Saranya Balasubramanian <sara… | 68.4 kB | Data observer package for Django projects |
+| 2026-10-18 23:47:16 | [dumpsterpanda](https://pypi.org/project/dumpsterpanda/) | 0.0.2 | yla382 | 10.8 kB | Run models bigger than your GPU: layer-by-layer weight streaming across GPU, RA… |
+| 2026-10-18 23:47:46 | [pybricks-core](https://pypi.org/project/pybricks-core/) | 1.0.0b1 | The Pybricks Authors | 90.5 kB | Shared protocol, IPC transport and logging for the Pybricks tools |
+| 2026-10-18 23:48:27 | [n10w02](https://pypi.org/project/n10w02/) | 0.0.5 | Kengo NAKADA <kengo.nakada@em… | 32.5 kB | cannon n10w02 camera |
+| 2026-10-18 23:54:30 | [uvunwrap](https://pypi.org/project/uvunwrap/) | 0.2.0 |  | 4.9 MB | Fast automatic UV unwrapping and atlas packing for lightmaps and baking, writte… |
+| 2026-10-18 23:55:17 | [lunar-toolkit](https://pypi.org/project/lunar-toolkit/) | 0.1.0.dev2 |  | 625.7 kB | Find, download and process lunar orbital imagery (LROC, ShadowCam, Kaguya TC) a… |
+| 2026-10-18 23:55:48 | [meta-thinking](https://pypi.org/project/meta-thinking/) | 0.0.1 | Machina Ratiocinatrix <machin… | 6.1 kB | Package description |
+| 2026-10-18 23:56:12 | [elytra-mcp](https://pypi.org/project/elytra-mcp/) | 0.4.0a1 | Yosef Shammout | 472.7 kB | Local guardrails for coding agents: check what Claude Code, Codex, Grok and Ant… |
+| 2026-10-18 23:58:10 | [pybricks-client](https://pypi.org/project/pybricks-client/) | 1.0.0b1 | The Pybricks Authors | 48.3 kB | Client library for the Pybricks service |
+| 2026-10-19 00:01:04 | [asteroidpipeline](https://pypi.org/project/asteroidpipeline/) | 0.2.1 | Alejandro | 306.4 kB | Find moving objects in astronomical image sets, check them, and write MPC repor… |
+| 2026-10-19 00:04:22 | [lowe](https://pypi.org/project/lowe/) | 0.1.0 | Lowe Tekam <lowetekam@gmail.c… | 740.8 kB | LOWE: an AI assistant and terminal coding agent built for developers in China |
+| 2026-10-19 00:04:37 | [shortleash](https://pypi.org/project/shortleash/) | 0.1.0 | Calas Automations Inc. | 54.4 kB | Circuit breaker for AI coding-agent runs. |
+| 2026-10-19 00:04:54 | [pr-verify](https://pypi.org/project/pr-verify/) | 0.1.0 | Calas Automations Inc. | 44.7 kB | Deterministic trust scoring for agent-authored PRs. |
+| 2026-10-19 00:05:08 | [adr-drift](https://pypi.org/project/adr-drift/) | 0.1.0 | Calas Automations Inc. | 42.6 kB | Deterministic architecture tests: keep the codebase honest about its own ADRs. |
+| 2026-10-19 00:05:24 | [standupguy](https://pypi.org/project/standupguy/) | 0.1.0 | Calas Automations Inc. | 36.8 kB | Local-first standup notes from git ground truth. |
+| 2026-10-19 00:05:45 | [pybricks-service](https://pypi.org/project/pybricks-service/) | 1.0.0b1 | The Pybricks Authors | 199.1 kB | The Pybricks service: manages hub connections |
+| 2026-10-19 00:08:20 | [tutorflow-content](https://pypi.org/project/tutorflow-content/) | 0.1.0 |  | 785.6 kB | Python client for the TutorFlow Content API: generated routes and models, retri… |
+| 2026-10-19 00:11:42 | [interlis2py](https://pypi.org/project/interlis2py/) | 0.1.0 | Clemens Rudert <rudert-geoinf… | 318.9 kB | Your pythonic gateway to INTERLIS |
+| 2026-10-19 00:14:07 | [genesets](https://pypi.org/project/genesets/) | 0.1.1 |  | 1.7 MB | Python bindings for genesets-rs: fast GO enrichment and Bayesian model-based ge… |
+| 2026-10-19 00:14:50 | [kosa8-maqpna](https://pypi.org/project/kosa8-maqpna/) | 0.1.0 | Kosa8 Labs <hello@maqpna.com> | 93.7 kB | Python SDK for agents running inside MAQPNA sandboxes: governed MCP tool calls… |
+| 2026-10-19 00:17:26 | [document-sanity](https://pypi.org/project/document-sanity/) | 0.2.2 | Chase Yakaboski | 1.1 MB | Build PDF (LaTeX), interactive HTML, and Word (.docx) documents from a single M… |
+| 2026-10-19 00:17:35 | [presentation-sanity](https://pypi.org/project/presentation-sanity/) | 0.4.3 | Chase Yakaboski | 3.1 MB | Build slides and blogs from a single manifest.yaml — one project, many presenta… |
+| 2026-10-19 00:18:07 | [setcookie](https://pypi.org/project/setcookie/) | 0.2.0 | Javier Lianes <javier@lianes8… | 56.6 kB | Parse, validate and safely build HTTP Set-Cookie headers, typed and zero-depend… |
+| 2026-10-19 00:18:22 | [authchallenge](https://pypi.org/project/authchallenge/) | 0.2.0 | Javier Lianes <javier@lianes8… | 56.9 kB | Parse, validate and safely build HTTP WWW-Authenticate, Authorization and Authe… |
+| 2026-10-19 00:18:37 | [chunkedte](https://pypi.org/project/chunkedte/) | 0.2.0 | Javier Lianes <javier@lianes8… | 47.6 kB | Strict, incremental, typed, zero-dependency codec for HTTP/1.1 chunked transfer… |
+| 2026-10-19 00:18:47 | [pm2cd](https://pypi.org/project/pm2cd/) | 0.1.1 | Kengo NAKADA <kengo.nakada@em… | 107.7 kB | tuji pm2cd |
+| 2026-10-19 00:18:51 | [hstsheader](https://pypi.org/project/hstsheader/) | 0.2.0 | Javier Lianes <javier@lianes8… | 53.7 kB | Parse, check and build the HTTP Strict-Transport-Security header, typed and zer… |
