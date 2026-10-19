@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T16:23:38Z,crowdbook,0.13.0,,MIT,21024,"Trade in a crowdbook market from Python, by hand or with a bot"
+2026-10-19T16:24:01Z,xyz17711-contact-finder,0.1.0,17711 Services,MIT,12756,"Typed Python client for the 17711.xyz Contact Finder API: pay-per-call, settled in USDC via x402."
+2026-10-19T16:24:19Z,parkhi,0.0.0,"MIRA, IIT Jammu",Apache-2.0,1929,"Placeholder — High-performance, Indic-first multimodal data curation engine"
+2026-10-19T16:24:29Z,parkhi-kernels,0.0.0,"MIRA, IIT Jammu",Apache-2.0,2034,Placeholder — High-throughput SIMD vector routines and Arrow kernels for Parkhi
+2026-10-19T16:29:54Z,er_helm_excel,0.0.1,"EntityRisk, Inc",,2483,A stub for the EntityRisk PROVEN Platform
+2026-10-19T16:30:08Z,er_helm_agent,0.0.1,"EntityRisk, Inc",,2482,A stub for the EntityRisk PROVEN Platform
+2026-10-19T16:30:19Z,er_vba,0.0.1,"EntityRisk, Inc",,2418,A stub for the EntityRisk PROVEN Platform
+2026-10-19T16:30:53Z,spm-runtime-R2026b,25.1.2.post2,Yael Balbastre <y.balbastre@ucl.ac.uk>,GPL-2.0,163426212,Compiled SPM package that can be called from Python
+2026-10-19T16:31:15Z,aXqua,1.0.1,Sebastian Schwindt,BSD-3-Clause AND MIT AND GPL-3.0-or-later,2098356,"Automated setup, persistent execution and calibration of river models - TELEMAC-2D/3D with GAIA, and OpenFOAM interFoam - with a QGIS frontend."
+2026-10-19T16:34:21Z,roboscope,0.0.1a0,,,4315,Small utilities for embodied policy evaluation — early development release
+2026-10-19T16:34:23Z,embodiscope,0.0.1a0,,,4146,Small utilities for embodied policy evaluation — early development release
+2026-10-19T16:35:36Z,opsbase-utils,0.1.0,,,9804,"Service check policies, retry budgets and reporting helpers"
+2026-10-19T16:36:50Z,horasis,1.0.0,Paul Chibueze,Apache-2.0,203918,"A layered, plugin-friendly computer vision SDK with tiered, quota-aware access control."
+2026-10-19T16:36:59Z,findigs-commons,0.0.1,Findigs Engineering <engineering@findigs.com>,,2925,"Name placeholder reserved by Findigs, Inc. This is not a usable package."
+2026-10-19T16:37:04Z,document-engine,0.0.1,Findigs Engineering <engineering@findigs.com>,,2929,"Name placeholder reserved by Findigs, Inc. This is not a usable package."
+2026-10-19T16:37:10Z,kokorosay,0.1.0,Martin <qule520@126.com>,,138703,A CLI tool for Kokoro
+2026-10-19T16:42:31Z,mcp-secret-sentinel,0.3.0,Alejandro Brito <alejandrobritoolivera@gmail.com>,MIT,183214,"Local secret guardrails for AI coding agents: MCP server, CLI and agent hooks that catch API keys in code, commits, prompts, tool calls and MCP configs, with redacted reports."
+2026-10-19T16:44:09Z,ismypwdsafe,1.0.0,,,41341,The only password audit that doesn't spy on you.
+2026-10-19T16:44:21Z,physverify,0.1.0,Ram Chandra Giri,MIT,166991,"Verification checks for physics simulation code: manufactured solutions, order-of-accuracy studies and a seeded-bug benchmark."
+2026-10-19T16:45:02Z,netbox-permissions-matrix-plugin,0.1.0,Thomas Christory,Apache-2.0,92991,Show and edit NetBox object permissions as a matrix of object types and groups.
+2026-10-19T16:45:27Z,navig-debrief,0.1.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,96824,"Visual debrief of a work session: timeline, tool mix, mind map, files and UI mockups rendered to one navigable HTML report, with PNG exports."
+2026-10-19T16:50:14Z,djanquiltdb-plugin-postgres-denormalize,1.0.0,DjanQuiltDB Project <djanquiltdb@portal42.net>,BSD-3-Clause,23480,Repair helpers for django-postgres-denormalize copies in DjanQuiltDB projects
+2026-10-19T16:50:32Z,ttsfw,1.0.0,SuleimanBelKiber1,MIT,1890447,Text To Speech FrameWork. Pure Python. Zero Dependencies.
+2026-10-19T16:51:16Z,tvcast,0.1.1,Pushkar,MIT AND ISC,113803,"Cast videos from your Mac to DLNA TVs, with web and CLI controls, resume, and queues. Samsung TVs also support remote buttons, text input, and app launching."
+2026-10-19T16:51:19Z,muli-agent,2.1.0,Null <pylindex@qq.com>,MIT,2741942,沐璃：事件驱动的本地数字生命与私人多 agent 助手
+2026-10-19T16:51:38Z,yigraph,2.0.0,YiGraph contributors,,2277651,YiGraph: graph analytics and Analytics-Augmented Generation
+2026-10-19T16:52:54Z,krossdb,0.2.0,KrossDB Maintainers,MIT,187399,"Enterprise-grade, multi-database unified interface & repository pattern library for Python"
+2026-10-19T16:53:49Z,pila-ai,0.1.0,pila contributors,Apache-2.0,,"Pila — a minimal, auditable terminal coding agent harness in Python"
+2026-10-19T16:53:56Z,llm-sanitizer-pro,4.1.0,Sanitize Pro Contributors,MIT,325657,"Production-grade, modular dataset sanitization and curation for LLM training."
+2026-10-19T16:55:20Z,calbredge-gate,0.0.1,,LicenseRef-Proprietary,3189,Reserved name; not distributed through PyPI.
+2026-10-19T16:57:12Z,testgres-exts.pglab,0.1.0,,PostgreSQL,41496,Linux netns/cgroup/netem fault injection for PostgreSQL tests using Testgres
+2026-10-19T16:59:09Z,flutesack,1.1,,,4568,A tiny wrapper that plays FastAPI apps.
+2026-10-19T17:02:15Z,slicerheart-4dflow,0.1.0,SlicerHeart developers,MIT,90731,"Filters for 4D flow MRI processing (background phase correction, phase unwrapping, divergence-free filtering, pathlines, QA) by the SlicerHeart project"
+2026-10-19T17:02:32Z,pyosd-audio,0.2.0,mvheimburg <heimburg@gmail.com>,MIT,81411,"Python library for controlling OSD Audio devices, starting with the PAM1270 multi-zone amplifier"
+2026-10-19T17:02:39Z,xrechnung-check,0.1.0,Bobook Limited <info@bobook.club>,MIT,13478,CLI for the free XRechnung / ZUGFeRD (EN 16931) validator API at checkxrechnung.com
+2026-10-19T17:05:00Z,certsentry,0.0.1,Eric Harris,MIT,2493,Async CLI that audits TLS certificates across many domains. Early development.
+2026-10-19T17:06:48Z,empedia-captcha,1.0.2,urbanstudio GmbH,MIT,10542,SDK für EMPEDIAcaptcha: Bot-Prüfung (siteverify) und Inhaltsprüfung (check). Ohne Abhängigkeiten.
+2026-10-19T17:07:49Z,bruno-bridge,1.0.0,,,21534,Turn Bruno collections into a programmatic API client
+2026-10-19T17:08:28Z,runmedic,0.1.0,vincere-mori,MIT,192866,"Diagnose ML training runs from their logs: NaNs, divergence, overfitting, idle GPUs, memory leaks. Built for humans and coding agents."
+2026-10-19T17:11:50Z,flakehunter,0.1.0,Houssem Raissi,MIT,55336,"Find flaky tests, real regressions and slowdowns from your Allure results history, right inside GitLab CI."
+2026-10-19T17:12:10Z,adbc-driver-warpsql,0.0.1,GizmoData LLC,Apache-2.0,2554,Placeholder: adbc-driver-warpsql by GizmoData. Coming soon.
+2026-10-19T17:12:16Z,dbt-hardcharger,0.0.1,GizmoData LLC,Apache-2.0,2506,Placeholder: dbt-hardcharger by GizmoData. Coming soon.
+2026-10-19T17:12:18Z,adbc-driver-hardcharger,0.0.1,GizmoData LLC,Apache-2.0,2594,Placeholder: adbc-driver-hardcharger by GizmoData. Coming soon.
+2026-10-19T17:12:20Z,sqlframe-hardcharger,0.0.1,GizmoData LLC,Apache-2.0,2562,Placeholder: sqlframe-hardcharger by GizmoData. Coming soon.
+2026-10-19T17:12:47Z,adbc-replicate-hardcharger,0.0.1,GizmoData LLC,Apache-2.0,2625,Placeholder: adbc-replicate-hardcharger by GizmoData. Coming soon.
+2026-10-19T17:13:26Z,rankraft-py,0.1.2,RankRaft AI,MIT,56832,Official Python client for the RankRaft AI API - how AI answer engines and AI crawlers see your brand.
+2026-10-19T17:13:47Z,nix-scribe-py,0.1.0,Levizor,MIT,110917,Reverse-engineer your system state into NixOS config
+2026-10-19T17:14:39Z,xiaotuo,0.1.0,winter6205,MIT,364032,"Xiaotuo: a local learning platform for interactive courses made by AI agents, with progress tracking (FastAPI + React)"
+2026-10-19T17:19:29Z,Hack4U-Library-Courses,0.0.1,JotaBWF,,4474,Una biblioteca para consultar los cursos de la academia Hack4U.

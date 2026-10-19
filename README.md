@@ -8,57 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 16:19 UTC
+## Latest list — 2026-10-19 17:21 UTC
 
-New packages created between 2026-10-19 15:18 UTC and 2026-10-19 16:19 UTC.
+New packages created between 2026-10-19 16:19 UTC and 2026-10-19 17:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-19T16-19-00-341324Z.csv)
+[Full CSV](data/new-packages-2026-10-19T17-21-49-875914Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-19 12:02:26 | [oc-lode](https://pypi.org/project/oc-lode/) | 2.1.0 | Ahmadreza Nazari | 334.5 kB | New reengineered version of LODE, maintained by OpenCitations |
-| 2026-10-19 15:19:32 | [metispy](https://pypi.org/project/metispy/) | 0.1.0 | Robofortis | 706.5 kB | The metis python referee + research kit: exact semantics, learning, the formali… |
-| 2026-10-19 15:20:27 | [sindhi-nlp](https://pypi.org/project/sindhi-nlp/) | 0.1.0 | Ali Nawaz <alinawaz.code@gmai… | 141.9 kB | Sentiment classification for Sindhi text: training pipeline, Python SDK, comman… |
-| 2026-10-19 15:20:52 | [clanker-usage](https://pypi.org/project/clanker-usage/) | 0.4.0 |  | 99.4 kB | Plan and quota of coding-agent accounts, with a statusline, a cache daemon and… |
-| 2026-10-19 15:21:19 | [opencode-cli-usage](https://pypi.org/project/opencode-cli-usage/) | 0.4.0 |  | 4.7 kB | OpenCode Go subscription limit monitor |
-| 2026-10-19 15:22:19 | [olympus-erp](https://pypi.org/project/olympus-erp/) | 0.4.0 | Kurt Francisco | 175.2 kB | Olympus ERP: find import-breaking data problems, reconcile trial loads and buil… |
-| 2026-10-19 15:24:44 | [openmrf](https://pypi.org/project/openmrf/) | 0.1.0 |  | 11.1 kB | Composable factors and Markov random fields for small probabilistic models. |
-| 2026-10-19 15:24:57 | [flatline-cli](https://pypi.org/project/flatline-cli/) | 0.1.0 |  | 190.4 kB | Command line tool for FlatLine: monitors as code and a job wrapper |
-| 2026-10-19 15:25:42 | [x402-market-data-mcp](https://pypi.org/project/x402-market-data-mcp/) | 0.2.1 |  | 23.7 kB | MCP server with 33 paid market-data tools (exchange hours, futures expiry, econ… |
-| 2026-10-19 15:26:38 | [MartinPdeS-docs](https://pypi.org/project/MartinPdeS-docs/) | 0.1.0 |  | 7.7 kB | Shared Sphinx configuration for MartinPdeS scientific Python packages. |
-| 2026-10-19 15:28:22 | [lr-mcp](https://pypi.org/project/lr-mcp/) | 0.1.0 | Swen Mun | 75.9 kB | Unofficial MCP server for the Adobe Photoshop Lightroom Partner API: browse alb… |
-| 2026-10-19 15:28:34 | [icogito](https://pypi.org/project/icogito/) | 0.1.0 | Daniel Rondon | 23.1 kB | A modern Python CLI framework to build Agent/Multi-Agents systems |
-| 2026-10-19 15:31:00 | [agentsam-sdk](https://pypi.org/project/agentsam-sdk/) | 0.1.0 | Sam Primeaux <sam@inneranimal… | 160.4 kB | Stdlib-first Agent Sam repository/data CLI and local SAM client, with an option… |
-| 2026-10-19 15:33:12 | [scidiff](https://pypi.org/project/scidiff/) | 0.1.1 | vishwajit kumar vishnu <vishw… | 19.6 kB | SciDiff – Multi-backend Scientific Machine Learning (PINNs & more) with PyTorch… |
-| 2026-10-19 15:33:52 | [stuff-with-strings](https://pypi.org/project/stuff-with-strings/) | 0.1.0 | earthstar71 | 6.0 kB | A Python package intended for manipulating strings |
-| 2026-10-19 15:35:33 | [navig-notes](https://pypi.org/project/navig-notes/) | 0.2.0 | navig | 65.8 kB | navig notes -- your web sticky notes on this computer: the NAVIG Dock syncs eve… |
-| 2026-10-19 15:35:46 | [navig-obs](https://pypi.org/project/navig-obs/) | 0.6.0 | NAVIG Development Team <opens… | 240.3 kB | Control OBS Studio from navig — scenes, sources, streams, recording, studio mod… |
-| 2026-10-19 15:35:59 | [navig-pentest](https://pypi.org/project/navig-pentest/) | 0.1.0 | NAVIG Development Team <opens… | 85.9 kB | NAVIG Pentest — the authorized-only offensive-security toolkit: passive recon (… |
-| 2026-10-19 15:36:36 | [pycarlo2](https://pypi.org/project/pycarlo2/) | 0.0.0 | Monte Carlo AI, Inc. | 10.1 kB | Name reserved for the official Python SDK for the Monte Carlo REST API. Not yet… |
-| 2026-10-19 15:37:17 | [netguard-threat-monitor](https://pypi.org/project/netguard-threat-monitor/) | 0.2.0 |  | 1.2 MB | Embeddable HTTP threat monitoring, intrusion detection, and dashboards for Pyth… |
-| 2026-10-19 15:38:21 | [xyz17711-address-risk](https://pypi.org/project/xyz17711-address-risk/) | 0.1.0 | 17711 Services | 11.1 kB | Typed Python client for the 17711.xyz Address Risk API: pay-per-call, settled i… |
-| 2026-10-19 15:38:37 | [crowdbook-analysis](https://pypi.org/project/crowdbook-analysis/) | 0.13.0 |  | 252.0 kB | Fitting, checking and analysing crowdbook markets: crowdbook-assess, crowdbook-… |
-| 2026-10-19 15:38:39 | [crowdbook-engine](https://pypi.org/project/crowdbook-engine/) | 0.13.0 |  | 5.9 MB | Agent-based limit order book simulator: the crowdbook command and the learning… |
-| 2026-10-19 15:42:49 | [subtype](https://pypi.org/project/subtype/) | 0.1.0 | crypt0lith | 44.6 kB |  |
-| 2026-10-19 15:43:22 | [lhtml-site](https://pypi.org/project/lhtml-site/) | 1.0.0 | Damien Rohmer | 16.6 MB | Static website and slide generator built on LHTML and Jinja2 |
-| 2026-10-19 15:51:23 | [horncall](https://pypi.org/project/horncall/) | 0.5.13 | bitlionaire <bitlionaire.me@g… | 104.8 kB | Approve AI coding agents' permission requests (Claude Code, Gemini CLI, Copilot… |
-| 2026-10-19 15:53:38 | [xyz17711-company-check](https://pypi.org/project/xyz17711-company-check/) | 0.1.0 | 17711 Services | 13.8 kB | Typed Python client for the 17711.xyz Company Check API: pay-per-call, settled… |
-| 2026-10-19 15:54:26 | [jscope](https://pypi.org/project/jscope/) | 0.4.2 | Muhammed Ali | 459.4 kB | Evidence-based JavaScript intelligence for bug bounty hunters and web app pente… |
-| 2026-10-19 15:59:20 | [toolsplice](https://pypi.org/project/toolsplice/) | 0.0.1 |  | 173.2 kB | Framework-independent checked tool handoffs and offline fixtures for Python |
-| 2026-10-19 16:00:51 | [swarmax-fleet](https://pypi.org/project/swarmax-fleet/) | 4.3.5 | Swarmax Maintainers | 639.8 kB | Evidence-based operations for AI agent fleets: sealed audit trails, SLA-alarmed… |
-| 2026-10-19 16:02:57 | [toanchetpay-sdk](https://pypi.org/project/toanchetpay-sdk/) | 1.0.0 |  | 24.0 kB | Python SDK for ACLEDA ToanchetPay |
-| 2026-10-19 16:03:15 | [spm-runtime-R2026a](https://pypi.org/project/spm-runtime-R2026a/) | 25.1.2.post2 | Yael Balbastre <y.balbastre@u… | 163.4 MB | Compiled SPM package that can be called from Python |
-| 2026-10-19 16:05:27 | [pagotic-sdk](https://pypi.org/project/pagotic-sdk/) | 0.1.1 | Alitux | 82.9 kB | SDK Python no oficial para la pasarela de pagos PagoTIC |
-| 2026-10-19 16:06:49 | [fleksa](https://pypi.org/project/fleksa/) | 0.1.0 | Fleksa Contributors | 348.3 kB | Autonomous Energy Flexibility, Distributed BESS Arbitrage & Grid-Interactive AI… |
-| 2026-10-19 16:07:06 | [skeleton-framework](https://pypi.org/project/skeleton-framework/) | 0.1.0 |  | 266.2 kB | A full-stack app framework: Python orchestration + FastAPI + WebPack frontend. |
-| 2026-10-19 16:08:45 | [kache-ssh](https://pypi.org/project/kache-ssh/) | 0.1.0 | Simon Malm | 114.2 kB | Kache: one terminal to command all your devices over SSH, with a gatekeeper age… |
-| 2026-10-19 16:08:50 | [xyz17711-company-profile](https://pypi.org/project/xyz17711-company-profile/) | 0.1.0 | 17711 Services | 12.9 kB | Typed Python client for the 17711.xyz Company Profile API: pay-per-call, settle… |
-| 2026-10-19 16:08:54 | [papertype](https://pypi.org/project/papertype/) | 0.1.0 | PaperType | 22.9 kB | Official Python SDK and CLI for the PaperType PDF API (Markdown or HTML to PDF). |
-| 2026-10-19 16:10:15 | [sql-evidence-graph](https://pypi.org/project/sql-evidence-graph/) | 0.1.0 | KirillOstapenko <djkroq@gmail… | 10.3 kB | SQL-first evidence graph on SQLite: documents, entities, relations, and one-hop… |
-| 2026-10-19 16:10:38 | [django-smart-cache-313](https://pypi.org/project/django-smart-cache-313/) | 0.1.0 |  | 11.7 kB | A model-aware caching utility for Django applications. |
-| 2026-10-19 16:12:19 | [hijiko-pilaka](https://pypi.org/project/hijiko-pilaka/) | 1.0.0 |  | 389 B | Generated package for hijiko-pilaka |
-| 2026-10-19 16:12:57 | [rxgb](https://pypi.org/project/rxgb/) | 0.1.0 | Kiarash Nouri <kia1391n@gmail… | 11.2 kB | RXGB: A bagging ensemble of shallow XGBoost learners for classification and reg… |
-| 2026-10-19 16:13:12 | [queuetruth](https://pypi.org/project/queuetruth/) | 0.1.0 | Sarp Tandoven | 33.4 MB | Fill-realism and queue-truth kit: exact order-level replay, an L2 queue-model z… |
-| 2026-10-19 16:14:35 | [wagtail-sb-material](https://pypi.org/project/wagtail-sb-material/) | 0.1.0 | Dynova Development Team, zodi… | 5.0 MB | Material design components and pages for Wagtail CMS using MaterializeCSS. |
-| 2026-10-19 16:17:14 | [agent-wire-cli](https://pypi.org/project/agent-wire-cli/) | 0.2.1 |  | 689.7 kB | High-speed, privacy-first, token-compressed live web and multi-platform intelli… |
-| 2026-10-19 16:17:33 | [pibooth-rclone-upload](https://pypi.org/project/pibooth-rclone-upload/) | 1.5.0 | peteoheat <peteoheat@gmail.co… | 23.9 kB | Pibooth plugin that uploads pictures, GIFs, videos and QR codes to any rclone r… |
+| 2026-10-19 16:23:38 | [crowdbook](https://pypi.org/project/crowdbook/) | 0.13.0 |  | 21.0 kB | Trade in a crowdbook market from Python, by hand or with a bot |
+| 2026-10-19 16:24:01 | [xyz17711-contact-finder](https://pypi.org/project/xyz17711-contact-finder/) | 0.1.0 | 17711 Services | 12.8 kB | Typed Python client for the 17711.xyz Contact Finder API: pay-per-call, settled… |
+| 2026-10-19 16:24:19 | [parkhi](https://pypi.org/project/parkhi/) | 0.0.0 | MIRA, IIT Jammu | 1.9 kB | Placeholder — High-performance, Indic-first multimodal data curation engine |
+| 2026-10-19 16:24:29 | [parkhi-kernels](https://pypi.org/project/parkhi-kernels/) | 0.0.0 | MIRA, IIT Jammu | 2.0 kB | Placeholder — High-throughput SIMD vector routines and Arrow kernels for Parkhi |
+| 2026-10-19 16:29:54 | [er_helm_excel](https://pypi.org/project/er_helm_excel/) | 0.0.1 | EntityRisk, Inc | 2.5 kB | A stub for the EntityRisk PROVEN Platform |
+| 2026-10-19 16:30:08 | [er_helm_agent](https://pypi.org/project/er_helm_agent/) | 0.0.1 | EntityRisk, Inc | 2.5 kB | A stub for the EntityRisk PROVEN Platform |
+| 2026-10-19 16:30:19 | [er_vba](https://pypi.org/project/er_vba/) | 0.0.1 | EntityRisk, Inc | 2.4 kB | A stub for the EntityRisk PROVEN Platform |
+| 2026-10-19 16:30:53 | [spm-runtime-R2026b](https://pypi.org/project/spm-runtime-R2026b/) | 25.1.2.post2 | Yael Balbastre <y.balbastre@u… | 163.4 MB | Compiled SPM package that can be called from Python |
+| 2026-10-19 16:31:15 | [aXqua](https://pypi.org/project/aXqua/) | 1.0.1 | Sebastian Schwindt | 2.1 MB | Automated setup, persistent execution and calibration of river models - TELEMAC… |
+| 2026-10-19 16:34:21 | [roboscope](https://pypi.org/project/roboscope/) | 0.0.1a0 |  | 4.3 kB | Small utilities for embodied policy evaluation — early development release |
+| 2026-10-19 16:34:23 | [embodiscope](https://pypi.org/project/embodiscope/) | 0.0.1a0 |  | 4.1 kB | Small utilities for embodied policy evaluation — early development release |
+| 2026-10-19 16:35:36 | [opsbase-utils](https://pypi.org/project/opsbase-utils/) | 0.1.0 |  | 9.8 kB | Service check policies, retry budgets and reporting helpers |
+| 2026-10-19 16:36:50 | [horasis](https://pypi.org/project/horasis/) | 1.0.0 | Paul Chibueze | 203.9 kB | A layered, plugin-friendly computer vision SDK with tiered, quota-aware access… |
+| 2026-10-19 16:36:59 | [findigs-commons](https://pypi.org/project/findigs-commons/) | 0.0.1 | Findigs Engineering <engineer… | 2.9 kB | Name placeholder reserved by Findigs, Inc. This is not a usable package. |
+| 2026-10-19 16:37:04 | [document-engine](https://pypi.org/project/document-engine/) | 0.0.1 | Findigs Engineering <engineer… | 2.9 kB | Name placeholder reserved by Findigs, Inc. This is not a usable package. |
+| 2026-10-19 16:37:10 | [kokorosay](https://pypi.org/project/kokorosay/) | 0.1.0 | Martin <qule520@126.com> | 138.7 kB | A CLI tool for Kokoro |
+| 2026-10-19 16:42:31 | [mcp-secret-sentinel](https://pypi.org/project/mcp-secret-sentinel/) | 0.3.0 | Alejandro Brito <alejandrobri… | 183.2 kB | Local secret guardrails for AI coding agents: MCP server, CLI and agent hooks t… |
+| 2026-10-19 16:44:09 | [ismypwdsafe](https://pypi.org/project/ismypwdsafe/) | 1.0.0 |  | 41.3 kB | The only password audit that doesn't spy on you. |
+| 2026-10-19 16:44:21 | [physverify](https://pypi.org/project/physverify/) | 0.1.0 | Ram Chandra Giri | 167.0 kB | Verification checks for physics simulation code: manufactured solutions, order-… |
+| 2026-10-19 16:45:02 | [netbox-permissions-matrix-plugin](https://pypi.org/project/netbox-permissions-matrix-plugin/) | 0.1.0 | Thomas Christory | 93.0 kB | Show and edit NetBox object permissions as a matrix of object types and groups. |
+| 2026-10-19 16:45:27 | [navig-debrief](https://pypi.org/project/navig-debrief/) | 0.1.0 | NAVIG Development Team <opens… | 96.8 kB | Visual debrief of a work session: timeline, tool mix, mind map, files and UI mo… |
+| 2026-10-19 16:50:14 | [djanquiltdb-plugin-postgres-denormalize](https://pypi.org/project/djanquiltdb-plugin-postgres-denormalize/) | 1.0.0 | DjanQuiltDB Project <djanquil… | 23.5 kB | Repair helpers for django-postgres-denormalize copies in DjanQuiltDB projects |
+| 2026-10-19 16:50:32 | [ttsfw](https://pypi.org/project/ttsfw/) | 1.0.0 | SuleimanBelKiber1 | 1.9 MB | Text To Speech FrameWork. Pure Python. Zero Dependencies. |
+| 2026-10-19 16:51:16 | [tvcast](https://pypi.org/project/tvcast/) | 0.1.1 | Pushkar | 113.8 kB | Cast videos from your Mac to DLNA TVs, with web and CLI controls, resume, and q… |
+| 2026-10-19 16:51:19 | [muli-agent](https://pypi.org/project/muli-agent/) | 2.1.0 | Null <pylindex@qq.com> | 2.7 MB | 沐璃：事件驱动的本地数字生命与私人多 agent 助手 |
+| 2026-10-19 16:51:38 | [yigraph](https://pypi.org/project/yigraph/) | 2.0.0 | YiGraph contributors | 2.3 MB | YiGraph: graph analytics and Analytics-Augmented Generation |
+| 2026-10-19 16:52:54 | [krossdb](https://pypi.org/project/krossdb/) | 0.2.0 | KrossDB Maintainers | 187.4 kB | Enterprise-grade, multi-database unified interface & repository pattern library… |
+| 2026-10-19 16:53:49 | [pila-ai](https://pypi.org/project/pila-ai/) | 0.1.0 | pila contributors |  | Pila — a minimal, auditable terminal coding agent harness in Python |
+| 2026-10-19 16:53:56 | [llm-sanitizer-pro](https://pypi.org/project/llm-sanitizer-pro/) | 4.1.0 | Sanitize Pro Contributors | 325.7 kB | Production-grade, modular dataset sanitization and curation for LLM training. |
+| 2026-10-19 16:55:20 | [calbredge-gate](https://pypi.org/project/calbredge-gate/) | 0.0.1 |  | 3.2 kB | Reserved name; not distributed through PyPI. |
+| 2026-10-19 16:57:12 | [testgres-exts.pglab](https://pypi.org/project/testgres-exts.pglab/) | 0.1.0 |  | 41.5 kB | Linux netns/cgroup/netem fault injection for PostgreSQL tests using Testgres |
+| 2026-10-19 16:59:09 | [flutesack](https://pypi.org/project/flutesack/) | 1.1 |  | 4.6 kB | A tiny wrapper that plays FastAPI apps. |
+| 2026-10-19 17:02:15 | [slicerheart-4dflow](https://pypi.org/project/slicerheart-4dflow/) | 0.1.0 | SlicerHeart developers | 90.7 kB | Filters for 4D flow MRI processing (background phase correction, phase unwrappi… |
+| 2026-10-19 17:02:32 | [pyosd-audio](https://pypi.org/project/pyosd-audio/) | 0.2.0 | mvheimburg <heimburg@gmail.co… | 81.4 kB | Python library for controlling OSD Audio devices, starting with the PAM1270 mul… |
+| 2026-10-19 17:02:39 | [xrechnung-check](https://pypi.org/project/xrechnung-check/) | 0.1.0 | Bobook Limited <info@bobook.c… | 13.5 kB | CLI for the free XRechnung / ZUGFeRD (EN 16931) validator API at checkxrechnung… |
+| 2026-10-19 17:05:00 | [certsentry](https://pypi.org/project/certsentry/) | 0.0.1 | Eric Harris | 2.5 kB | Async CLI that audits TLS certificates across many domains. Early development. |
+| 2026-10-19 17:06:48 | [empedia-captcha](https://pypi.org/project/empedia-captcha/) | 1.0.2 | urbanstudio GmbH | 10.5 kB | SDK für EMPEDIAcaptcha: Bot-Prüfung (siteverify) und Inhaltsprüfung (check). Oh… |
+| 2026-10-19 17:07:49 | [bruno-bridge](https://pypi.org/project/bruno-bridge/) | 1.0.0 |  | 21.5 kB | Turn Bruno collections into a programmatic API client |
+| 2026-10-19 17:08:28 | [runmedic](https://pypi.org/project/runmedic/) | 0.1.0 | vincere-mori | 192.9 kB | Diagnose ML training runs from their logs: NaNs, divergence, overfitting, idle… |
+| 2026-10-19 17:11:50 | [flakehunter](https://pypi.org/project/flakehunter/) | 0.1.0 | Houssem Raissi | 55.3 kB | Find flaky tests, real regressions and slowdowns from your Allure results histo… |
+| 2026-10-19 17:12:10 | [adbc-driver-warpsql](https://pypi.org/project/adbc-driver-warpsql/) | 0.0.1 | GizmoData LLC | 2.6 kB | Placeholder: adbc-driver-warpsql by GizmoData. Coming soon. |
+| 2026-10-19 17:12:16 | [dbt-hardcharger](https://pypi.org/project/dbt-hardcharger/) | 0.0.1 | GizmoData LLC | 2.5 kB | Placeholder: dbt-hardcharger by GizmoData. Coming soon. |
+| 2026-10-19 17:12:18 | [adbc-driver-hardcharger](https://pypi.org/project/adbc-driver-hardcharger/) | 0.0.1 | GizmoData LLC | 2.6 kB | Placeholder: adbc-driver-hardcharger by GizmoData. Coming soon. |
+| 2026-10-19 17:12:20 | [sqlframe-hardcharger](https://pypi.org/project/sqlframe-hardcharger/) | 0.0.1 | GizmoData LLC | 2.6 kB | Placeholder: sqlframe-hardcharger by GizmoData. Coming soon. |
+| 2026-10-19 17:12:47 | [adbc-replicate-hardcharger](https://pypi.org/project/adbc-replicate-hardcharger/) | 0.0.1 | GizmoData LLC | 2.6 kB | Placeholder: adbc-replicate-hardcharger by GizmoData. Coming soon. |
+| 2026-10-19 17:13:26 | [rankraft-py](https://pypi.org/project/rankraft-py/) | 0.1.2 | RankRaft AI | 56.8 kB | Official Python client for the RankRaft AI API - how AI answer engines and AI c… |
+| 2026-10-19 17:13:47 | [nix-scribe-py](https://pypi.org/project/nix-scribe-py/) | 0.1.0 | Levizor | 110.9 kB | Reverse-engineer your system state into NixOS config |
+| 2026-10-19 17:14:39 | [xiaotuo](https://pypi.org/project/xiaotuo/) | 0.1.0 | winter6205 | 364.0 kB | Xiaotuo: a local learning platform for interactive courses made by AI agents, w… |
+| 2026-10-19 17:19:29 | [Hack4U-Library-Courses](https://pypi.org/project/Hack4U-Library-Courses/) | 0.0.1 | JotaBWF | 4.5 kB | Una biblioteca para consultar los cursos de la academia Hack4U. |
