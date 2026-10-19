@@ -1,0 +1,81 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T19:20:52Z,dungeonman,0.1.0,avycado13,,21804,Mechanics for Text based RPG games
+2026-10-19T19:21:32Z,zizkadb-langgraph,0.1.0,,AGPL-3.0-or-later,5838,LangGraph middleware for ZizkaDB — automatic causal logging per graph node
+2026-10-19T19:21:38Z,osiris-bridge,0.5.0,Nicolas Tuomaala,Apache-2.0,814173,Osiris bridge: connects a ROS 2 robot (Humble and later) to Osiris
+2026-10-19T19:21:51Z,agent-nebula-sdk,5.0.2,Agent Nebula Project,Apache-2.0,368073,Standards-oriented security SDK for Agent Nebula and Agent Genesis
+2026-10-19T19:23:45Z,flake-doctor,0.1.0,Chirag Patankar,MIT,87587,"Find flaky pytest tests in your GitHub Actions history, then diagnose and fix them with evidence."
+2026-10-19T19:23:46Z,pybemobil,0.1.0,Roy Eric Wieske <eric.wieske@gmail.com>,BSD-3-Clause,220439,"MoBI data loading, preprocessing, and visualization built on MNE-Python"
+2026-10-19T19:24:26Z,requestflow,0.1.0,requestflow,MIT,47411,stop getting 429 ratelimited like an amateur. high-performance http scheduling and pacing for discord.py.
+2026-10-19T19:24:32Z,enforce-type,0.1.0,ellainng,,21410,Independent pure-Python compiled validation for ordinary type annotations.
+2026-10-19T19:24:47Z,howest-resto,1.0.1,Mauro Druwel <mauro.druwel@gmail.com>,MIT,18505,Unofficial typed Python client library for Howest student restaurant menus
+2026-10-19T19:24:48Z,spellwarden,0.1.0,Spellwarden,Apache-2.0,123635,"The Spellwarden scan engine: baseline rules for agent skills and MCP servers, probe classification, migration checklist and curation score. Pure code, no I/O."
+2026-10-19T19:25:12Z,moriti,0.1.0,Titus Masike,Apache-2.0,147974,"Open-source runtime privacy layer for AI agents: purpose-aware decisions over what sensitive data an agent may receive, retain or transmit."
+2026-10-19T19:27:20Z,lisa-harness-mcp-servers,0.1.0,,,84434,"Lisa first-party MCP servers — context, memory, guard, content, catalog, storage, thread, and shared CLI config"
+2026-10-19T19:27:21Z,lisa-harness-kernel,0.1.0,,,1254438,"Lisa kernel — runtime-neutral FSM engine, contracts, operation registry, and telemetry primitives"
+2026-10-19T19:27:23Z,lisa-harness-sdk,0.1.0,,,512192,"Lisa SDK — reusable operations, modes, signal connector shims, and domain models for Lisa-powered bots"
+2026-10-19T19:27:26Z,quantumvault-core,0.1.5,QuantumVault contributors,MIT,880129,"QuantumVault: zero-knowledge encrypted messaging, files, and deniable vault with hybrid post-quantum key exchange"
+2026-10-19T19:28:13Z,randseq,0.1.0,dbikard <dbikard@gmail.com>,Apache-2.0,5882234,"Infer the DNA motifs bacterial defence systems restrict, from RandSeq random-insert plasmid libraries"
+2026-10-19T19:31:40Z,fxfunds-developer-resources,1.0.0,FXFunds,MIT,20340,"FXFunds Developer Resources: catalog of FXFunds open-source packages, API references and USDT network reference with offline address and transaction-hash checks. Built by FXFunds."
+2026-10-19T19:31:59Z,claviron-bench,0.1.0,,MIT OR Apache-2.0,16012,"Reusable, runner-independent HTTP benchmark workloads"
+2026-10-19T19:37:17Z,a2ui-a2a,0.1.0,,Apache-2.0,15624,A2UI extension for the Agent-to-Agent (A2A) protocol
+2026-10-19T19:39:15Z,resemblio-mcp,0.2.0,Frank Jones <frank@optsus.com>,MIT,28916,"Model Context Protocol server for Resemblio - extract trademark-stripped, brand-faithful, code-bearing design systems from any URL. Inspirado, no copiado."
+2026-10-19T19:40:33Z,fin-assist,0.4.0,Vishal Habib,MIT,228141,"Catch stale and wrong money figures in an AI agent's answer before a customer sees them: every IRS and SSA figure checked against a year-stamped, sourced registry."
+2026-10-19T19:45:34Z,a2ui-adk,0.1.0,,Apache-2.0,40841,A2UI extension for the Agent Development Kit (ADK)
+2026-10-19T19:46:09Z,petitpy,0.1.0,Stefane Fermigier,,2505,Add your description here
+2026-10-19T19:46:48Z,lisa-harness-e2e,0.1.0,,,44961,End-to-end scenario harness: drives a full Lisa runtime through pack workflows
+2026-10-19T19:46:48Z,lisa-harness-runtime,0.1.0,,,806540,Transport-neutral host runtime for Lisa Harness hosts
+2026-10-19T19:46:49Z,lisa-harness-packstest,0.1.0,,,32844,In-process pack test/eval harness for Lisa content packs
+2026-10-19T19:47:31Z,nela-sdk,0.1.0,,MIT,12410,"NELA cloud client for chat, reasoning, presentations, spreadsheets, and web search"
+2026-10-19T19:48:26Z,lisa-pack-core,0.1.0,,,70017,"Lisa core pack - baseline modes, operations, and authored content"
+2026-10-19T19:48:28Z,lisa-pack-introspect,0.1.0,,,17141,"Lisa introspect pack - operational self-model, architecture atlas, and reflective self-assessment operations"
+2026-10-19T19:48:29Z,lisa-pack-memory,0.1.0,,,86958,Lisa memory pack - memory-backed default and remember workflows
+2026-10-19T19:49:09Z,gridops,1.0.0,"Kerem Ziya Akdemir <keremziya.akdemir@pnnl.gov>, Jordan Kern <jkern@ncsu.edu>, Chris Vernon <chris.…",BSD-2-Clause,1442511,An open-source production cost model (PCM) for the U.S. interconnections and grid regions.
+2026-10-19T19:50:15Z,lisa-pack-recovery,0.1.0,,,24258,Lisa recovery pack - operator commands for interrupted dispatch work items
+2026-10-19T19:50:22Z,lisa-pack-personas,0.1.0,,,7685,Cognitive task-phase personas for Lisa
+2026-10-19T19:50:25Z,lisa-pack-markdown,0.1.0,,,214179,Lisa markdown pack - memory-grounded markdown document forging with markdown-it-py
+2026-10-19T19:51:05Z,ninad_agentic_terminal,0.1.0,Ninad Chavan <ninadchavan762@gmail.com>,,5448,An MCP which adds terminal capabilities to an agent.
+2026-10-19T19:52:18Z,lisa-pack-bash,0.1.0,,,126746,"Shell execution capability for Lisa - persistent, agent-optimized bash session"
+2026-10-19T19:52:18Z,lisa-pack-search,0.1.0,,,21624,"Lisa search and reasoning pack - discuss/search/ponder modes, research operations, and a generic web_search provider stub"
+2026-10-19T19:52:21Z,coronelli,0.1.1,,,27744926,Turn a book into an interactive atlas.
+2026-10-19T19:52:23Z,lisa-pack-brave,0.1.0,,,11965,Lisa Brave search provider pack - concrete brave_search tool implementation
+2026-10-19T19:52:37Z,dotfiles-drift,0.2.0,Yunare Maia <yunare@gmail.com>,MIT,24362,Detect drift between your dotfiles repo and your actual machine
+2026-10-19T19:53:19Z,sensehive-iot,1.8.1,Prince kumar,MIT,366242,Lightweight MQTT data logger and dashboard: Run -> Add Topic -> Publish -> See Data
+2026-10-19T19:53:27Z,oxjson,0.4.0,Lev Berezkin,MPL-2.0,4202643,Fast JSON for CPython: orjson-compatible loads/dumps with an x86-64 NASM kernel and portable C fallback
+2026-10-19T19:54:07Z,lisa-pack-bwrap,0.1.0,,,127580,Bubblewrap sandbox capability for Lisa - namespace isolation with transparent overlayfs layers
+2026-10-19T19:54:12Z,lisa-pack-okf,0.1.0,,,77681,"Lisa OKF pack - Open Knowledge Format ingestion, validation, emission, and visualization"
+2026-10-19T19:54:15Z,lisa-pack-coding,0.1.0,,,280712,Provider-neutral local coding workflow tools for Lisa
+2026-10-19T19:55:51Z,lisa-pack-powershell,0.1.0,,,86990,"PowerShell execution capability for Lisa - persistent, agent-optimized pwsh session with layered Windows containment"
+2026-10-19T19:55:53Z,lisa-pack-serper,0.1.0,,,12323,Lisa Serper.dev search provider pack - concrete serper_search tool implementation
+2026-10-19T19:55:53Z,lisa-pack-tavily,0.1.0,,,12250,Lisa Tavily search provider pack - concrete tavily_search tool implementation
+2026-10-19T19:57:06Z,libtmux-easy,0.2.0,Spencer Diehl <docdiehl@gmail.com>,Apache-2.0,221955,"tmux sessions from Python: exact pane exit status, a live dashboard, pytest fixtures"
+2026-10-19T19:58:17Z,context-bridge-py,0.3.0,Yunare Maia <yunare@gmail.com>,MIT,42133,"Universal session memory for AI agents — capture, index, retrieve"
+2026-10-19T19:58:22Z,oss-contribution-finder,0.2.0,Yunare Maia <yunare@gmail.com>,MIT,30496,Find open-source contribution opportunities via GitHub API
+2026-10-19T20:00:23Z,ici-analysis,2.1.0,José J. Arroyo-Gómez,MIT,154402,GUI tool for Intermittent Current Interruption (ICI) analysis of battery cycling data
+2026-10-19T20:02:32Z,tiktok-live-agency,0.1.0,"""tik.tools"" <support@tik.tools>",MIT,67404,"Unofficial TikTok LIVE agency SDK by tik.tools: find creators to recruit, track diamonds and live status across your roster, and build your own agency dashboard. Not affiliated with or endorsed by Ti…"
+2026-10-19T20:03:15Z,elir,0.1.0,Charlie Marsh,,3044,Add your description here
+2026-10-19T20:04:29Z,garmin-connect-api,0.2.0,happyc0der,MIT,176976,"Read and write Garmin Connect from Python, HTTP or an MCP client: activities, strength sets, health data, workouts, weigh-ins"
+2026-10-19T20:05:07Z,16ane-sdk,0.0.0,,MIT,3002,Name placeholder for the 16ane Python SDK. Contains no code; do not install.
+2026-10-19T20:05:53Z,kettei,0.0.1,Sqwish Labs <help@sqwish.ai>,Apache-2.0,10515,"Reserved by Sqwish Labs for the Kettei models: use sqwishai, the Python SDK for OneHot API"
+2026-10-19T20:06:43Z,sonorus-ai,0.1.0,Krishnanshu,MIT,1614132,Sonorus AI: Robust Speech Recognition and Hinglish Transcription
+2026-10-19T20:07:32Z,coop-schema-compare,0.1.0,Cooptimize,"MIT License Copyright (c) 2026 Cooptimize / Aaron Jennings Permission is hereby granted, free of ch…",65802,"Deterministic schema compare between SQL environments (Fabric Warehouse, Azure SQL) with an ordered promotion script. Reads only; applies nothing."
+2026-10-19T20:08:38Z,envlockup,0.2.0,denisbilli,MIT,33330,"Read envlockup files from Python: encrypted .env files you can commit, decrypted with your SSH or age key."
+2026-10-19T20:10:27Z,imagefv-extractor,1.0.0,chkndrp <chkndrp@gmail.com>,LGPL-3.0,26254,Extract bootloader and charging images from imagefv firmware blobs
+2026-10-19T20:10:34Z,cli-components,2026.10.2,,AGPL-3.0-only,38886,Composable argparse commands and nested CLI modules
+2026-10-19T20:10:52Z,dataquantum-yaml-reader,0.3.1,jcarlossc,MIT,10887,A Python package for reading YAML configuration files.
+2026-10-19T20:10:56Z,headless-spreadsheets,0.1.0,ellainng,MIT,36158,"Spreadsheet-native tables with typed cells and portable, dependency-free interchange."
+2026-10-19T20:11:49Z,jinnexguard,0.0.1,,,3088,"Reserva de nombre. JinnexGuard: señales de riesgo de repos y paquetes de npm/PyPI, con evidencia. Aún no publicado."
+2026-10-19T20:13:11Z,haul-scanner,0.2.0,Arman Manteghi,LicenseRef-Proprietary,105795,"Credential exposure scanner: finds the API keys, tokens, SSH keys, .env files and AI-chat leaks an infostealer would grab on your machine, without ever reading a secret out. Read-only, zero network,…"
+2026-10-19T20:14:15Z,mcp-job-search-mp,0.1.1,Michal Per,MIT,174456,"MCP server for job search: multi-source search, posting fetch, CV PDF rendering, configurable anti-fabrication linting, and application-registry logging"
+2026-10-19T20:14:42Z,hsom,1.0.0,Giuseppe Della Vedova,MIT,183041,Harness for System One Models. | Connects Jev to your shell
+2026-10-19T20:15:18Z,lisa-cli,0.1.0,,,147481,Terminal CLI for the Lisa Harness
+2026-10-19T20:15:54Z,mcp-guard-py,0.3.1,Yunare Maia <yunare@gmail.com>,MIT,131775,"Security scanner for MCP servers - audit capabilities, detect risks"
+2026-10-19T20:16:24Z,protosim,0.1.0,,,2107,Protocol simulation helpers (internal tooling shim)
+2026-10-19T20:16:41Z,fastframe-pandas,0.1.0,FastFrame contributors,MIT,63290,Deterministic source rewrites for common pandas anti-patterns
+2026-10-19T20:16:46Z,tycho-simulation,0.1.0,,,2212,tycho-simulation helpers (internal tooling shim)
+2026-10-19T20:16:47Z,numpysc-lib,1.1.1,andhrew,MIT,18284,Soft Computing Library
+2026-10-19T20:16:57Z,tycho-execution,0.1.0,,,2200,tycho-execution helpers (internal tooling shim)
+2026-10-19T20:17:09Z,tycho-indexer,0.1.0,,,2165,tycho-indexer helpers (internal tooling shim)
+2026-10-19T20:17:31Z,wayfind,0.1.0,,MIT,79805,"A tree-sitter map of a git repository: layout, outlines, callers, impact and numbers, for agents and CI"
+2026-10-19T20:17:32Z,vqlab,0.1.0,Noah Zelezny (TheDrainFlorist),AGPL-3.0-or-later,4250582,"Size-targeted, data-free vector quantization of large models on Apple Silicon (MLX)"
+2026-10-19T20:18:00Z,valichord-attestation,2.1.0,ValiChord,Apache-2.0,163097,Canonical attestation format for AI evaluation runs
+2026-10-19T20:19:10Z,threatwright,0.1.0rc1,,AGPL-3.0-only,2063968,Local-first threat modelling and risk analysis after BSI TR-03183-1 for the Cyber Resilience Act
