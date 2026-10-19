@@ -1,0 +1,16 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T01:25:55Z,aidlc.devsecops-cicd-mcp,1.0.0,,,8811,"Connects an MCP client over stdio to the AI-DLC DevSecOps CI/CD deploy workflow, hosted by the MSC Labs CoE."
+2026-10-19T01:30:53Z,metis-optimizer,0.0.2,MetisAI Labs,Apache-2.0,4244,MetisPrism setup helper: shows how to install MetisPrism tools from your account and checks your local Python and GPU setup.
+2026-10-19T01:30:59Z,aidlc.html-creator-mcp,1.0.0,,,8749,"Connects an MCP client over stdio to the html-creator assessment site workflow, hosted by the MSC Labs CoE."
+2026-10-19T01:35:31Z,bdalabb,0.1.0,,,15233,QuickPad-style hotkey overlay for Hadoop lab programs
+2026-10-19T01:40:26Z,sillstone,0.2.0b1,Sillstone Contributors,Apache-2.0,17729,"Pure-Rust zero-dependency multimedia, hashing, and array computing suite"
+2026-10-19T01:41:44Z,bibleql,0.1.1,Luis Porras <lporras16@gmail.com>,MIT,38491,Python client for the BibleQL GraphQL API
+2026-10-19T01:44:18Z,microgrid,0.1.0,Emmanuel Levijarvi <emansl@gmail.com>,MIT,672503,"A plant model and marginal energy prices for a solar + battery microgrid: data in, data out"
+2026-10-19T01:44:39Z,hunterkiller,0.1.0,,MIT,7437,"Hunter Killer Desk Read client: check where liquidation money is stacked before a leveraged trade, and watch for walls coming into range."
+2026-10-19T01:45:00Z,fabdeploycheck,0.1.1,,,3219,CAD pipeline toolchain checker
+2026-10-19T01:48:09Z,time-assurance-code-scanner,0.2.0rc2,Y2038.com LLC,Apache-2.0,693600,AI-assisted scanner that supports long-horizon time assurance by identifying potential Y2038/Y2106-class risks in source code.
+2026-10-19T01:48:10Z,fabtoolkit,0.1.2,,,3726,Pipeline setup helpers for fab parts projects
+2026-10-19T01:49:28Z,sodir-mcp,0.1.0,Joyce Ferreira,MIT,69197,"Read-only MCP server for Sodir (Norwegian Offshore Directorate) FactPages: wellbore facts and monthly field production, from a local cache you fetch yourself."
+2026-10-19T01:51:36Z,transcritor,1.1.1,Frederico Carlos <fredericocarlos.a32@gmail.com>,MIT,719098,Transcrição local de áudio em PT-BR com faster-whisper (100% offline)
+2026-10-19T02:05:45Z,suggestedtests,0.1.0,Lester K.,MIT,18469863,"pytest helpers: performance and memory budgets backed by a native OS bridge, eventually, given/when/then steps, seeded test data and leak checks."
+2026-10-19T02:08:30Z,magento1-client,4.0.0,Adrian Beale,"Copyright (c) 2016, Fulfil.IO Copyright (c) 2010, Sharoon Thomas Copyright (c) 2010-2014, Openlabs…",52552,Magento 1 / OpenMage Core API client (XML-RPC and SOAP)
