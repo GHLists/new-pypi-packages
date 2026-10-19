@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T12:02:26Z,oc-lode,2.1.0,Ahmadreza Nazari,ISC,334495,"New reengineered version of LODE, maintained by OpenCitations"
+2026-10-19T15:19:32Z,metispy,0.1.0,Robofortis,Apache-2.0,706540,"The metis python referee + research kit: exact semantics, learning, the formalize harness — cross-checking the metis-lang toolchain"
+2026-10-19T15:20:27Z,sindhi-nlp,0.1.0,Ali Nawaz <alinawaz.code@gmail.com>,MIT,141928,"Sentiment classification for Sindhi text: training pipeline, Python SDK, command line, and HTTP API."
+2026-10-19T15:20:52Z,clanker-usage,0.4.0,,MIT,99419,"Plan and quota of coding-agent accounts, with a statusline, a cache daemon and a check for provider changes"
+2026-10-19T15:21:19Z,opencode-cli-usage,0.4.0,,MIT,4682,OpenCode Go subscription limit monitor
+2026-10-19T15:22:19Z,olympus-erp,0.4.0,Kurt Francisco,MIT,175224,"Olympus ERP: find import-breaking data problems, reconcile trial loads and build the evidence pack your ERP project needs, locally"
+2026-10-19T15:24:44Z,openmrf,0.1.0,,,11102,Composable factors and Markov random fields for small probabilistic models.
+2026-10-19T15:24:57Z,flatline-cli,0.1.0,,,190421,Command line tool for FlatLine: monitors as code and a job wrapper
+2026-10-19T15:25:42Z,x402-market-data-mcp,0.2.1,,MIT,23742,"MCP server with 33 paid market-data tools (exchange hours, futures expiry, economic and central bank calendars, Treasury yields and auctions, ECB FX, CFTC COT, contract specs), paid per call with x40…"
+2026-10-19T15:26:38Z,MartinPdeS-docs,0.1.0,,,7699,Shared Sphinx configuration for MartinPdeS scientific Python packages.
+2026-10-19T15:28:22Z,lr-mcp,0.1.0,Swen Mun,MIT,75940,"Unofficial MCP server for the Adobe Photoshop Lightroom Partner API: browse albums, filter and view photos, export renditions"
+2026-10-19T15:28:34Z,icogito,0.1.0,Daniel Rondon,,23071,A modern Python CLI framework to build Agent/Multi-Agents systems
+2026-10-19T15:31:00Z,agentsam-sdk,0.1.0,Sam Primeaux <sam@inneranimalmedia.com>,MIT,160432,"Stdlib-first Agent Sam repository/data CLI and local SAM client, with an optional Rich terminal UI."
+2026-10-19T15:33:12Z,scidiff,0.1.1,vishwajit kumar vishnu <vishwajitvishnu@gmail.com>,Apache-2.0,19558,"SciDiff – Multi-backend Scientific Machine Learning (PINNs & more) with PyTorch, JAX and Julia"
+2026-10-19T15:33:52Z,stuff-with-strings,0.1.0,earthstar71,BSD 2-clause,6040,A Python package intended for manipulating strings
+2026-10-19T15:35:33Z,navig-notes,0.2.0,navig,MIT,65812,"navig notes -- your web sticky notes on this computer: the NAVIG Dock syncs every note you keep on a page, a site or everywhere, so you can list, search, add and export them from the command line, an…"
+2026-10-19T15:35:46Z,navig-obs,0.6.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,240282,"Control OBS Studio from navig — scenes, sources, streams, recording, studio mode, whole obs-websocket v5 surface — its own navig-obs command, and `navig obs` inside navig."
+2026-10-19T15:35:59Z,navig-pentest,0.1.0,NAVIG Development Team <opensource@navig.run>,Apache-2.0,85901,"NAVIG Pentest — the authorized-only offensive-security toolkit: passive recon (RDAP/whois, DNS, crt.sh subdomains, HTTP fingerprint) plus gated active recon (port scan, subdomain probe, template chec…"
+2026-10-19T15:36:36Z,pycarlo2,0.0.0,"Monte Carlo AI, Inc.",Apache-2.0,10076,Name reserved for the official Python SDK for the Monte Carlo REST API. Not yet released.
+2026-10-19T15:37:17Z,netguard-threat-monitor,0.2.0,,"MIT License Copyright (c) 2026 NetGuard Permission is hereby granted, free of charge, to any person…",1163599,"Embeddable HTTP threat monitoring, intrusion detection, and dashboards for Python applications"
+2026-10-19T15:38:21Z,xyz17711-address-risk,0.1.0,17711 Services,MIT,11078,"Typed Python client for the 17711.xyz Address Risk API: pay-per-call, settled in USDC via x402."
+2026-10-19T15:38:37Z,crowdbook-analysis,0.13.0,,LicenseRef-PolyForm-Shield-1.0.0,251993,"Fitting, checking and analysing crowdbook markets: crowdbook-assess, crowdbook-calibrate, crowdbook-validate and the experiments"
+2026-10-19T15:38:39Z,crowdbook-engine,0.13.0,,LicenseRef-PolyForm-Shield-1.0.0,5850355,Agent-based limit order book simulator: the crowdbook command and the learning pool
+2026-10-19T15:42:49Z,subtype,0.1.0,crypt0lith,,44575,
+2026-10-19T15:43:22Z,lhtml-site,1.0.0,Damien Rohmer,MIT,16592065,Static website and slide generator built on LHTML and Jinja2
+2026-10-19T15:51:23Z,horncall,0.5.13,bitlionaire <bitlionaire.me@gmail.com>,MIT,104800,"Approve AI coding agents' permission requests (Claude Code, Gemini CLI, Copilot CLI, Codex CLI) from your Android phone."
+2026-10-19T15:53:38Z,xyz17711-company-check,0.1.0,17711 Services,MIT,13778,"Typed Python client for the 17711.xyz Company Check API: pay-per-call, settled in USDC via x402."
+2026-10-19T15:54:26Z,jscope,0.4.2,Muhammed Ali,MIT,459438,Evidence-based JavaScript intelligence for bug bounty hunters and web app pentesters
+2026-10-19T15:59:20Z,toolsplice,0.0.1,,MIT,173243,Framework-independent checked tool handoffs and offline fixtures for Python
+2026-10-19T16:00:51Z,swarmax-fleet,4.3.5,Swarmax Maintainers,Apache-2.0,639810,"Evidence-based operations for AI agent fleets: sealed audit trails, SLA-alarmed triage and AI-Act-ready privacy."
+2026-10-19T16:02:57Z,toanchetpay-sdk,1.0.0,,MIT,24027,Python SDK for ACLEDA ToanchetPay
+2026-10-19T16:03:15Z,spm-runtime-R2026a,25.1.2.post2,Yael Balbastre <y.balbastre@ucl.ac.uk>,GPL-2.0,163430531,Compiled SPM package that can be called from Python
+2026-10-19T16:05:27Z,pagotic-sdk,0.1.1,Alitux,GPL-3.0-or-later,82946,SDK Python no oficial para la pasarela de pagos PagoTIC
+2026-10-19T16:06:49Z,fleksa,0.1.0,Fleksa Contributors,Apache-2.0,348304,"Autonomous Energy Flexibility, Distributed BESS Arbitrage & Grid-Interactive AI Compute Demand Response Engine"
+2026-10-19T16:07:06Z,skeleton-framework,0.1.0,,LicenseRef-Proprietary,266221,A full-stack app framework: Python orchestration + FastAPI + WebPack frontend.
+2026-10-19T16:08:45Z,kache-ssh,0.1.0,Simon Malm,MIT,114187,"Kache: one terminal to command all your devices over SSH, with a gatekeeper agent on every device."
+2026-10-19T16:08:50Z,xyz17711-company-profile,0.1.0,17711 Services,MIT,12872,"Typed Python client for the 17711.xyz Company Profile API: pay-per-call, settled in USDC via x402."
+2026-10-19T16:08:54Z,papertype,0.1.0,PaperType,MIT,22912,Official Python SDK and CLI for the PaperType PDF API (Markdown or HTML to PDF).
+2026-10-19T16:10:15Z,sql-evidence-graph,0.1.0,KirillOstapenko <djkroq@gmail.com>,MIT,10273,"SQL-first evidence graph on SQLite: documents, entities, relations, and one-hop expansion. Ranking is supplied by the caller."
+2026-10-19T16:10:38Z,django-smart-cache-313,0.1.0,,MIT,11653,A model-aware caching utility for Django applications.
+2026-10-19T16:12:19Z,hijiko-pilaka,1.0.0,,,389,Generated package for hijiko-pilaka
+2026-10-19T16:12:57Z,rxgb,0.1.0,Kiarash Nouri <kia1391n@gmail.com>,MIT,11180,RXGB: A bagging ensemble of shallow XGBoost learners for classification and regression
+2026-10-19T16:13:12Z,queuetruth,0.1.0,Sarp Tandoven,Apache-2.0,33400019,"Fill-realism and queue-truth kit: exact order-level replay, an L2 queue-model zoo measured against exact truth, calibration, a learned fill model and a sim-vs-live scorer."
+2026-10-19T16:14:35Z,wagtail-sb-material,0.1.0,"Dynova Development Team, zodiacfireworks",Apache-2.0,4969815,Material design components and pages for Wagtail CMS using MaterializeCSS.
+2026-10-19T16:17:14Z,agent-wire-cli,0.2.1,,MIT,689670,"High-speed, privacy-first, token-compressed live web and multi-platform intelligence engine for AI agents."
+2026-10-19T16:17:33Z,pibooth-rclone-upload,1.5.0,peteoheat <peteoheat@gmail.com>,MIT,23926,"Pibooth plugin that uploads pictures, GIFs, videos and QR codes to any rclone remote"
