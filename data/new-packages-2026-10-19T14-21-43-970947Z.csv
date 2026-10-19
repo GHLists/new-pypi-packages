@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T13:19:06Z,sc-sentry,0.7.0,Boik Su <qazbnm456@gmail.com>,MIT,273046,Smart Contract Sentry: an RLM harness that hunts vulnerabilities in Solidity and cites the exact lines.
+2026-10-19T13:20:01Z,buddie,1.0.0,tsyyan,Apache-2.0,296899,"Receipts for agent work: check what an AI agent reports (quotes, repo state, PR and CI status, command output) against primary evidence, without a model"
+2026-10-19T13:20:33Z,dip-utils,0.1.0,,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",15258,"Reusable Digital Image Processing (DIP) functions using OpenCV, NumPy, and SciPy"
+2026-10-19T13:22:00Z,one-core-cli,0.1.0,Jesse Sep,LicenseRef-one-license-0.6.3,1365291,"Terminal coding agent that drives any model over the raw wire, with its own tool loop."
+2026-10-19T13:26:17Z,owa-tui,0.3.0,Carl Joakim Damsleth,MIT,270118,Textual TUI front-end for the owa-tools Microsoft 365 CLI suite
+2026-10-19T13:26:22Z,noresponse,1.0.0,,Apache-2.0,30511,Server-side NoResponse Identity Intelligence SDK
+2026-10-19T13:27:26Z,gamerpower-async,0.1.0,,MIT,22678,Unofficial async Python wrapper for the GamerPower giveaways API
+2026-10-19T13:28:27Z,licaudit,0.1.1,yuluo554,MIT,1673961,开源许可证合规审查 Skill：依赖清单 → SPDX 归一化 → 场景/冲突判定 → 中文清单
+2026-10-19T13:29:00Z,taskmaster-python,0.1.0,"""Zagaran, Inc."" <theo@zagaran.com>",MIT,22913,Client library that reports queue metrics to the Taskmaster autoscaling service.
+2026-10-19T13:29:57Z,term-sparkline,0.6.0,brwchen,MIT,36363,Adaptive high-definition and text-based inline sparklines for modern terminals
+2026-10-19T13:30:42Z,sqlmodel-export,0.1.0,,MIT,53554,Export SQLAlchemy and SQLModel metadata as offline creation DDL
+2026-10-19T13:33:46Z,glinerel-fast,0.1.0,Michele Montebovi,Apache-2.0,65687,"Fast, lightweight inference for glinerel entity, PII and relation extraction models"
+2026-10-19T13:33:53Z,opencudalab,0.1.1,OpenCUDA-Lab,,35484223,Risk-calibrated GPU memory runtime (libopencuda) with Python bindings
+2026-10-19T13:35:48Z,x402-money-reactor,1.2.1,Money Reactor,MIT,11159,"x402 pay-per-call API toolkit for AI agents: crypto prices, news, AI chat, token verdicts, honeypot scoring, url-to-text, weather, bounties. USDC on Base, no signup."
+2026-10-19T13:39:02Z,tarsius,0.1.0,Raphael Hehl,Apache-2.0 AND BSD-2-Clause,4635514,"Local, training-free state detection for a region of a camera image"
+2026-10-19T13:39:03Z,discussion-helper,0.1.0,Warith HARCHAOUI <warithmetics@deraison.ai>,BSD-3-Clause,108987,"Hold a spoken conversation: listen, answer, speak — and stop the moment the user cuts in. The loop over vocal-helper (hearing), a local language model (answering) and speaker-helper (speaking), with…"
+2026-10-19T13:41:44Z,swedish-jobs-mcp,0.1.1,Rickard Åberg,MIT,100519,MCP server for Swedish job ads (Platsbanken) via Arbetsförmedlingen's open JobTech API
+2026-10-19T13:42:44Z,ocelescope-module-ocpn-editor,0.10.4,Uy Sa Huynh,,11168,An OCPN Editor
+2026-10-19T13:48:24Z,graderprobe,0.1.0,GraderLab <asagiri-shi@proton.me>,MIT,25909,"Inspect the LLM judge, sandbox, and scoring pipeline your submission will be scored in: judge profile, documented biases, EM normalization, provenance markers."
+2026-10-19T13:49:49Z,aeveon-control,4.0.0,Synsense AG <support@synsense.ai>,Apache-2.0,3935315,Python module with functions to control the Aeveon sensor.
+2026-10-19T13:50:01Z,rbi-exchange-rate,1.0.2,AllRatesToday <info@allratestoday.com>,MIT,18759,"Official Reserve Bank of India exchange rates - 6 currencies vs INR, history since 2003. Keyless, zero-dependency Python client."
+2026-10-19T13:50:23Z,boj-exchange-rate,1.0.2,AllRatesToday <info@allratestoday.com>,MIT,18718,"Official Bank of Japan exchange rates - 1 (USD/JPY spot + central) currencies vs JPY, history since 1998. Keyless, zero-dependency Python client."
+2026-10-19T13:50:45Z,rba-exchange-rate,1.0.2,AllRatesToday <info@allratestoday.com>,MIT,18818,"Official Reserve Bank of Australia exchange rates - ~22 currencies vs AUD, history since 2023. Keyless, zero-dependency Python client."
+2026-10-19T13:51:08Z,snb-exchange-rate,1.0.2,AllRatesToday <info@allratestoday.com>,MIT,22929,"Official Swiss National Bank exchange rates - ~25 currencies vs CHF, history since 1914. Keyless, zero-dependency Python client."
+2026-10-19T13:53:00Z,estoe,0.2.0,,MIT,131124,Secret to Env — generate local dotenv files from cloud secrets
+2026-10-19T13:53:33Z,pandastoexcelpro,0.1.0,,,4890,A professional Excel exporter for Pandas DataFrames
+2026-10-19T13:53:38Z,grokbot-kit,0.1.0,Rodrigo Pasini,MIT,12271,"Grok Bot integration kit: delegate tasks to headless coding agents (opencode, Claude Code, Codex) and wake the right Grok Bot routine when they finish or need input."
+2026-10-19T13:55:35Z,dcc-mcp-debug,0.1.0,,,391877,MCP server that drives and debugs a locally running MotionBuilder / 3ds Max through its commandPort (TCP port == PID) and debugpy.
+2026-10-19T13:55:55Z,photon-sdk,0.1.0,Photon Commerce,MIT,87173,Python SDK for Photon Commerce — process documents via the Photon API.
+2026-10-19T13:56:13Z,pretty-subprocess,1.0,Gerard,MIT,7380,Show command nicely when subprocess fails
+2026-10-19T13:59:11Z,pyrovo,0.1.0,drkkkkkk,MIT,7832,Run your discord.py bots on Rovo with one import.
+2026-10-19T13:59:47Z,grace-runtime,0.0.0.dev0,"ICAMS, Ruhr-Universität Bochum",LicenseRef-ASL,1562,GRACE interatomic potentials: standalone inference runtime (placeholder)
+2026-10-19T13:59:48Z,codemail-sdk,0.1.0,Codemail <suporte@codemail.com.br>,MIT,15426,SDK Python da Codemail: envio de e-mail transacional por API.
+2026-10-19T13:59:59Z,grace-runtime-cuda12,0.0.0.dev0,"ICAMS, Ruhr-Universität Bochum",LicenseRef-ASL,1572,NVIDIA GPU backend (CUDA 12) of grace-runtime (placeholder)
+2026-10-19T14:00:00Z,grace-runtime-cuda13,0.0.0.dev0,"ICAMS, Ruhr-Universität Bochum",LicenseRef-ASL,1560,NVIDIA GPU backend (CUDA 13) of grace-runtime (placeholder)
+2026-10-19T14:00:02Z,grace-runtime-rocm,0.0.0.dev0,"ICAMS, Ruhr-Universität Bochum",LicenseRef-ASL,1549,AMD GPU backend (ROCm) of grace-runtime (placeholder)
+2026-10-19T14:02:32Z,seraph-mcp,0.1.1,,"MIT License Copyright (c) 2026 Prethiv Sriman D, Akshith Rajesh, Akhilan VTM, Sanjeev TS — Team flo…",137791,"Query-adaptive, evolution-aware code retrieval"
+2026-10-19T14:04:34Z,medmodels-drm,0.1.0,,,27518,MedModels DRM entitlement decorator
+2026-10-19T14:05:36Z,datalab-capsule,0.1.0,DataLab Platform Developers,BSD-3-Clause,680434,"Exchange and verify scientific workspace provenance as open RO-Crate capsules (library and CLI, no DataLab required)"
+2026-10-19T14:06:06Z,barie-google-analytics-mcp,0.1.0,"Josh Radcliff <jradcliff@users.noreply.github.com>, Matt Landers <matt-landers@users.noreply.github…",Apache-2.0,60489,Google Analytics MCP server with OAuth token support (Barie fork of googleanalytics/google-analytics-mcp)
+2026-10-19T14:08:17Z,codemie-mcp-workflows,0.2.0,EPAM Systems,Apache-2.0,11163,MCP server for connecting to CodeMie Workflows API
+2026-10-19T14:09:21Z,cloudstorm,1.0.0,Tarek CHEIKH <tarek@tocconsulting.fr>,MIT,143897,Distributed load testing across AWS regions
+2026-10-19T14:09:45Z,asurion,99.0.0,security-researcher,,2527,Security research - dependency confusion PoC for bug bounty
+2026-10-19T14:09:47Z,asurion-drive,99.0.0,security-researcher,,1303,Security research - dependency confusion PoC for bug bounty
+2026-10-19T14:09:49Z,memories-core,99.0.0,security-researcher,,1301,Security research - dependency confusion PoC for bug bounty
+2026-10-19T14:09:51Z,asurion-photos,99.0.0,security-researcher,,1315,Security research - dependency confusion PoC for bug bounty
+2026-10-19T14:10:18Z,gitconfig-cli,1.0.1,Abdullah Shaikh,MIT,49124,Cross-platform Git + SSH configuration CLI
+2026-10-19T14:11:45Z,allelio,0.4.1,Wassim Alex Bendella,MIT,580326,"Local genetic variant annotation with gene grouping, source provenance, and optional AI explanations"
+2026-10-19T14:14:09Z,client-screen,1.0.1,Lab Administrator,MIT,13593,LabCast Client - Instant Fullscreen Screen Receiver for Lab Computers
+2026-10-19T14:14:14Z,main-screen,1.0.1,Lab Administrator,MIT,96550,LabCast Main Screen - LAN Broadcaster and Instant Screen Commander
+2026-10-19T14:14:18Z,wulu-geetest-bypass-nine,0.1.0,wulu007,MIT,16663,Offline ONNX nine-grid solver for Geetest v4 (3x3 cell matching)
+2026-10-19T14:17:07Z,wincmd,0.2.0,,MIT,200585,A Python interpreter for Windows CMD and batch script compatibility
+2026-10-19T14:19:19Z,soulhabit,0.0.1,,,2131,
+2026-10-19T14:19:40Z,soulquote,0.0.1,,,2136,
+2026-10-19T14:20:00Z,aiqp,0.0.1,,,2067,
+2026-10-19T14:20:38Z,aiqp-protocol,0.0.1,,,2206,
