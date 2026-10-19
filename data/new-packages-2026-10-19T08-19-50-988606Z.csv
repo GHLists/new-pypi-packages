@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T07:19:57Z,update-case-drive,0.1.0,6vi7ms,,7394,Add your description here
+2026-10-19T07:21:07Z,aegis-python-security-scanner,1.0.0,Ahmed Mohamed,MIT,12020,"A lightweight, local-first Python SAST security scanner"
+2026-10-19T07:21:25Z,veritas-research,1.0.0,Nyvo2010,MIT,175297,"Veritas Deep Research Agent - deep, iterative web research with a live terminal UI"
+2026-10-19T07:22:14Z,cellproof,0.2.0,Nikhil414,MIT,357501,Turn an Excel workbook into SQL (a dbt project on DuckDB) and prove every number matches.
+2026-10-19T07:23:46Z,tdxformula,0.4.0,mengyiheng,MIT,28909,通达信指标公式 Python 转译器：逐根对齐通达信真实计算结果
+2026-10-19T07:23:51Z,tdxdraw,0.2.0,mengyiheng,MIT,25015,通达信画线文件（.eld）读写与批量生成工具，零依赖
+2026-10-19T07:23:55Z,tdxreplay,0.1.1,mengyiheng,MIT,23123,通达信本地分钟线模拟实时回放：检验回测系统真实性
+2026-10-19T07:23:59Z,tdxalert,0.1.0,mengyiheng,MIT,21970,盘中预警推送引擎：可插拔数据源 + 基础规则集 + 微信推送，零依赖
+2026-10-19T07:24:40Z,rocket20,1.0.0,malek20,LICENSE.txt,5808,An awesome package that does something
+2026-10-19T07:28:55Z,supernova-v1,1.0.1,,,32216,A simple random emoji finder powered by Unicode emoji data.
+2026-10-19T07:31:38Z,fasthtml-base,0.1.3,Home,MIT,90145,FastHTML 核心库 + 脚手架
+2026-10-19T07:32:07Z,release-creator,0.1.0,Bernát Gábor <gaborjbernat@gmail.com>,MIT,69176,Release preparation tools for changelogs and GitHub
+2026-10-19T07:33:27Z,triotune,0.1.2,,,231904,PyTRIO-native training utilities and recipes
+2026-10-19T07:35:51Z,ipyauth-pkce,1.0.0,danifr,MIT,410353,Jupyter widget for OAuth2 authentication with PKCE — sign in from a notebook cell and use the token in Python
+2026-10-19T07:37:19Z,opguard,0.1.0,Ziming Zhou,Apache-2.0,1376574,PyTorch numerical diagnostics for humans and coding agents
+2026-10-19T07:40:12Z,mini-pix,0.1.3,Kengo NAKADA <kengo.nakada@email.com>,,62327,mini pix ctrl server
+2026-10-19T07:40:50Z,minify-all,0.1.11,,,6590,Aggressive multi-language single-line flattening minifier
+2026-10-19T07:42:22Z,awesome-core,2.0.1,Arkadiusz Słowik,MIT,190878,"Offline-first catalog of tools from GitHub awesome lists, exposed as a read-only MCP server (stdio). Pure stdlib core, no network, no API keys."
+2026-10-19T07:47:21Z,bibliography-io,0.1.0,Gerit Wagner,MIT,94264,Loading and writing bibliographic records across formats
+2026-10-19T07:51:05Z,unirex,0.0.1,,MIT,2938,Name reserved for the unirex UCS-native regex engine. No code is published yet.
+2026-10-19T07:51:37Z,opguard-harness,0.1.0,,Apache-2.0,61122,Diagnostic skills and supporting agent tools for OpGuard
+2026-10-19T07:52:56Z,fiqhboard,0.0.1,Bayram Kotan,MIT,17752,"Comparative fiqh of the four Sunni schools: side-by-side matrices, every ruling with its source and evidence, a glossary and decision diagrams"
+2026-10-19T07:53:01Z,kompressr-sdk,0.1.0,Kompressr,MIT,70897,Typed synchronous and asynchronous Python clients for Kompressr
+2026-10-19T07:54:09Z,odoo-addon-sale-sourced-by-line-product-rule,16.0.1.0.0.2,"Akretion, Odoo Community Association (OCA)",AGPL-3,34801,Sale Sourced By Line Product Rule
+2026-10-19T07:54:52Z,seds-rocket-safdev758,1.0.0,safdev758,LICENSE.txt,4056,Rocket package for SEDS Lab 3
+2026-10-19T07:55:00Z,seds-linear-regression-safdev758,1.0.0,safdev758,LICENSE.txt,4243,Simple Linear Regression from scratch
+2026-10-19T07:57:22Z,mcp-config-dedupe,0.1.0,hao li <haoli5933@gmail.com>,MIT,27530,"Detect duplicate, drifted, and dead MCP server configs across clients — and dedupe them in one command"
+2026-10-19T07:58:14Z,worktree-janitor,0.1.0,hao li,MIT,20540,Clean up git worktrees left behind by dead agent sessions
+2026-10-19T07:59:04Z,cache-doctor,0.1.0,hao li,MIT,25614,"Semantic-cache health diagnostics: hit rate, expiry, and cache-pollution analysis for LLM response caches"
+2026-10-19T07:59:23Z,kstock-mcp,0.1.0,ez2sarang,MIT,140280,"Read-only MCP server for Korean stocks: KIS quotes/OHLCV/balance, OpenDART disclosures/financials, IPO schedule and equal-allocation calculator."
+2026-10-19T07:59:57Z,tagpoint,0.1.0,hao li <haoli5933@gmail.com>,MIT,16812,Verify a PyPI release actually matches its GitHub tag — name AND content
+2026-10-19T08:11:21Z,structrestore-3d,0.1.0a1,Krishna Kant Gupta <krishnakant.gupta@bharatividyapeeth.edu>,,68043,Auditable self-supervised 2.5D FIB-SEM restoration research prototype
+2026-10-19T08:14:06Z,codegraph-network,0.1.0,Oviing,MIT,162101,"Graph-based code understanding for LLM agents: fewer tokens, better answers"
+2026-10-19T08:14:19Z,hermes-agentmemory-capture,0.1.0,herjarsa,MIT,10852,Captura automática de sesiones y herramientas de Hermes hacia AgentMemory
+2026-10-19T08:15:57Z,isoperiod,1.2.1,Richard Smith <ricsmi@ceh.ac.uk>,"MIT License Copyright (c) 2026 UKCEH Permission is hereby granted, free of charge, to any person ob…",720638,"ISO 8601 period and duration arithmetic, including offsets from the natural boundary, for defining sampling resolution and periodicity in timeseries data"
+2026-10-19T08:19:20Z,pyilper2,2.0.0b1,Joachim Siebold,"GNU GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1989, 1991 Free Software Foundation,…",285960,Virtual HP-IL devices for the PIL-Box

@@ -8,50 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 07:19 UTC
+## Latest list — 2026-10-19 08:19 UTC
 
-New packages created between 2026-10-19 06:20 UTC and 2026-10-19 07:19 UTC.
+New packages created between 2026-10-19 07:19 UTC and 2026-10-19 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-19T07-19-00-007263Z.csv)
+[Full CSV](data/new-packages-2026-10-19T08-19-50-988606Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-19 06:24:02 | [linreg-rabia](https://pypi.org/project/linreg-rabia/) | 1.0.0 | rabia | 6.1 kB | Simple linear regression from scratch (gradient descent) |
-| 2026-10-19 06:24:34 | [xontrib-bluray](https://pypi.org/project/xontrib-bluray/) | 2026.6.14 | uninstall-your-browser | 34.5 kB | Upgrade from cd to bluray |
-| 2026-10-19 06:29:28 | [presidium-imagestudio](https://pypi.org/project/presidium-imagestudio/) | 0.3.10 | Ratul Roy (royal-programmer),… | 6.1 MB | Free, local, permissively licensed image MCP server. Quality is a setting, neve… |
-| 2026-10-19 06:31:46 | [custovox-emotion](https://pypi.org/project/custovox-emotion/) | 1.0.0 | Jérémie Muselet <jeremie@cust… | 7.2 kB | 6-emotion detection MCP server for customer text. Joy, anger, fear, sadness, su… |
-| 2026-10-19 06:33:43 | [nirfmxcdma2k](https://pypi.org/project/nirfmxcdma2k/) | 26.8.0 | NI | 214.1 kB | Python APIs for interacting with RFmx CDMA2k Product |
-| 2026-10-19 06:33:46 | [nirfmxgsm](https://pypi.org/project/nirfmxgsm/) | 26.8.0 | NI | 143.1 kB | Python APIs for interacting with RFmx GSM Product |
-| 2026-10-19 06:33:48 | [nirfmxtdscdma](https://pypi.org/project/nirfmxtdscdma/) | 26.8.0 | NI | 222.8 kB | Python APIs for interacting with RFmx TDSCDMA Product |
-| 2026-10-19 06:33:52 | [nirfmxwcdma](https://pypi.org/project/nirfmxwcdma/) | 26.8.0 | NI | 260.3 kB | Python APIs for interacting with RFmx WCDMA Product |
-| 2026-10-19 06:34:26 | [viewer4a1](https://pypi.org/project/viewer4a1/) | 0.2.0 |  | 351.4 kB | Viewer and analysis tool for beamline 4A1 scan data and ARPES spectra |
-| 2026-10-19 06:35:20 | [azure-mgmt-aiinfraoptimization](https://pypi.org/project/azure-mgmt-aiinfraoptimization/) | 0.0.0b1 | Microsoft Corporation <azures… | 3.3 kB | This package will be released in the near future. Stay tuned! |
-| 2026-10-19 06:38:08 | [fanar-mcp](https://pypi.org/project/fanar-mcp/) | 0.1.0 | Blade Labs | 32.6 kB | MCP server for Fanar, QCRI's Arabic-centric AI platform: chat, cited Islamic Q&… |
-| 2026-10-19 06:40:28 | [tdxadjustckz](https://pypi.org/project/tdxadjustckz/) | 1.0.0 | qiuxiaoying <qiuxiaoying@foxm… | 31.2 kB | TDX 复权因子计算：C 扩展 + 纯 Python（numpy）双实现 |
-| 2026-10-19 06:42:26 | [procproxy](https://pypi.org/project/procproxy/) | 0.1.0 | Longersking | 346.9 kB | ProcProxy —— 进程级代理：按进程决定哪条连接走哪个上游代理 |
-| 2026-10-19 06:43:29 | [pytest-telescope](https://pypi.org/project/pytest-telescope/) | 0.1.0a1 |  | 80.9 kB | Declared inputs. Isolated tests. Focused reruns. |
-| 2026-10-19 06:44:57 | [runback-sdk](https://pypi.org/project/runback-sdk/) | 0.1.0 | Runback <contact@runback.dev> | 301.7 kB | Capture, replay, and audit every AI agent decision — native LangGraph capture,… |
-| 2026-10-19 06:44:58 | [xdm1000-py](https://pypi.org/project/xdm1000-py/) | 0.2.6 | Kengo NAKADA <kengo.nakada@em… | 85.9 kB | xdm1000 (using SCPI) |
-| 2026-10-19 06:45:33 | [rulestamp-eudi-rp-request-lint](https://pypi.org/project/rulestamp-eudi-rp-request-lint/) | 1.0.4 | Rulestamp <support@getreadyst… | 35.7 kB | Nine rules that read the JSON your service sends to an EU Digital Identity Wall… |
-| 2026-10-19 06:46:50 | [malscore](https://pypi.org/project/malscore/) | 0.1.1 | raj3shp | 138.8 kB | Score the maliciousness of a Linux command or a session of commands (0-100) wit… |
-| 2026-10-19 06:47:00 | [primerouter](https://pypi.org/project/primerouter/) | 0.1.0 |  | 2.1 kB | PrimeRouter Python integration package (initial development release) |
-| 2026-10-19 06:48:04 | [kairoscope](https://pypi.org/project/kairoscope/) | 0.1.0.dev0 |  | 95.5 kB | Decide which frames, at what resolution, a vision model actually needs to see. |
-| 2026-10-19 06:53:52 | [syncfleet](https://pypi.org/project/syncfleet/) | 0.7.0 | SyncFleet Contributors | 6.6 MB | Python wrapper for the SyncFleet peer-to-peer edge database synchronization CLI |
-| 2026-10-19 06:54:03 | [presidium-shapestudio](https://pypi.org/project/presidium-shapestudio/) | 0.1.3 | Ratul Roy (royal-programmer),… | 2.3 MB | Free, local image-to-3D studio and MCP server. Quality is a setting, never a co… |
-| 2026-10-19 06:55:30 | [pydbtguard](https://pypi.org/project/pydbtguard/) | 2.2.0 | Georgi Mullassery <mullassery… | 466.4 kB | Pre-deployment validation for dbt tests, entirely from local dbt artifacts. |
-| 2026-10-19 06:57:22 | [yohou-mlflow](https://pypi.org/project/yohou-mlflow/) | 0.1.0a1 | Guillaume Tauzin <gtauzin@sta… | 587.8 kB | An MLflow integration for saving and serving Yohou forecasters |
-| 2026-10-19 07:02:15 | [ceps-api](https://pypi.org/project/ceps-api/) | 0.1.0 | Frantis3k | 129.7 kB | Unofficial Python client for the ČEPS (Czech TSO) data web service, returning p… |
-| 2026-10-19 07:06:40 | [prosentriq-sdk](https://pypi.org/project/prosentriq-sdk/) | 2.0.0rc2 |  | 68.3 kB | Prosentriq Sensor SDK: send canonical (OCSF-aligned) events, receive directives… |
-| 2026-10-19 07:06:41 | [odoo-addon-account-statement-import-generate-unique-id](https://pypi.org/project/odoo-addon-account-statement-import-generate-unique-id/) | 18.0.1.0.0.1 | MT Software, Odoo Community A… | 30.3 kB | Generate a unique import ID for statement lines without one |
-| 2026-10-19 07:08:19 | [huri-module-tts](https://pypi.org/project/huri-module-tts/) | 0.1.0 |  | 28.0 kB | HuRI modules: text to speech with Piper (CPU, any machine) or CosyVoice3 (voice… |
-| 2026-10-19 07:08:22 | [huri-module-mov](https://pypi.org/project/huri-module-mov/) | 0.1.0 |  | 35.8 kB | HuRI module: Co-speech gestures (EMAGE): speech audio in, SMPL-X motion out |
-| 2026-10-19 07:08:25 | [huri-modules](https://pypi.org/project/huri-modules/) | 0.1.1 |  | 67.2 kB | HuRI's curated modules: pick them with extras, e.g. huri-modules[vad,stt,tts] |
-| 2026-10-19 07:08:26 | [mcp-glp-audit-proxy](https://pypi.org/project/mcp-glp-audit-proxy/) | 0.1.0 | Antonio Castellon <antonio@ca… | 127.7 kB | Local MCP proxy that writes a tamper-evident audit trail. Designed to support G… |
-| 2026-10-19 07:08:28 | [huri-cli](https://pypi.org/project/huri-cli/) | 0.1.0 |  | 91.2 kB | huri-cli: the reference command-line client of HuRI, built on its client SDK |
-| 2026-10-19 07:08:46 | [ansilogs](https://pypi.org/project/ansilogs/) | 1.1.0 | doronz88 <doron88@gmail.com> | 18.4 kB | Colored, single-line log output for command-line tools: a dependency-free color… |
-| 2026-10-19 07:08:52 | [monsieur-cuisine-cli](https://pypi.org/project/monsieur-cuisine-cli/) | 0.0.2 | Filipe Pina <shelf-corncob-sa… | 34.5 kB | CLI for managing recipes in a monsieur-cuisine.com account |
-| 2026-10-19 07:10:00 | [PedNet](https://pypi.org/project/PedNet/) | 2.0.0 | Nick Taylor | 199.3 kB | Pedigrees as graphs: their structure, kinship and loops, the pattern of affecte… |
-| 2026-10-19 07:13:01 | [ztestoctop](https://pypi.org/project/ztestoctop/) | 10.0.0 | octop contributors | 35.6 MB | Smarter self-hosted AI assistant for multiple users and agents, built on octop-… |
-| 2026-10-19 07:13:53 | [nouc-studio](https://pypi.org/project/nouc-studio/) | 0.1.0rc1 | Nouc Studio Contributors | 525.3 kB | Nouc Studio: Self-evolving multi-agent system using Marimo & Monty sandboxes to… |
-| 2026-10-19 07:14:01 | [tetrak-authority](https://pypi.org/project/tetrak-authority/) | 0.1.0 | Stephen Masters, Yvette Manke… | 205.5 kB | A name authority from a dated Wikidata snapshot: variant names in every languag… |
-| 2026-10-19 07:18:12 | [seventeen](https://pypi.org/project/seventeen/) | 1.0.0 |  | 9.3 kB | AutoTyper + AI Screen Answer Tool — type clipboard text and get AI answers from… |
+| 2026-10-19 07:19:57 | [update-case-drive](https://pypi.org/project/update-case-drive/) | 0.1.0 | 6vi7ms | 7.4 kB | Add your description here |
+| 2026-10-19 07:21:07 | [aegis-python-security-scanner](https://pypi.org/project/aegis-python-security-scanner/) | 1.0.0 | Ahmed Mohamed | 12.0 kB | A lightweight, local-first Python SAST security scanner |
+| 2026-10-19 07:21:25 | [veritas-research](https://pypi.org/project/veritas-research/) | 1.0.0 | Nyvo2010 | 175.3 kB | Veritas Deep Research Agent - deep, iterative web research with a live terminal… |
+| 2026-10-19 07:22:14 | [cellproof](https://pypi.org/project/cellproof/) | 0.2.0 | Nikhil414 | 357.5 kB | Turn an Excel workbook into SQL (a dbt project on DuckDB) and prove every numbe… |
+| 2026-10-19 07:23:46 | [tdxformula](https://pypi.org/project/tdxformula/) | 0.4.0 | mengyiheng | 28.9 kB | 通达信指标公式 Python 转译器：逐根对齐通达信真实计算结果 |
+| 2026-10-19 07:23:51 | [tdxdraw](https://pypi.org/project/tdxdraw/) | 0.2.0 | mengyiheng | 25.0 kB | 通达信画线文件（.eld）读写与批量生成工具，零依赖 |
+| 2026-10-19 07:23:55 | [tdxreplay](https://pypi.org/project/tdxreplay/) | 0.1.1 | mengyiheng | 23.1 kB | 通达信本地分钟线模拟实时回放：检验回测系统真实性 |
+| 2026-10-19 07:23:59 | [tdxalert](https://pypi.org/project/tdxalert/) | 0.1.0 | mengyiheng | 22.0 kB | 盘中预警推送引擎：可插拔数据源 + 基础规则集 + 微信推送，零依赖 |
+| 2026-10-19 07:24:40 | [rocket20](https://pypi.org/project/rocket20/) | 1.0.0 | malek20 | 5.8 kB | An awesome package that does something |
+| 2026-10-19 07:28:55 | [supernova-v1](https://pypi.org/project/supernova-v1/) | 1.0.1 |  | 32.2 kB | A simple random emoji finder powered by Unicode emoji data. |
+| 2026-10-19 07:31:38 | [fasthtml-base](https://pypi.org/project/fasthtml-base/) | 0.1.3 | Home | 90.1 kB | FastHTML 核心库 + 脚手架 |
+| 2026-10-19 07:32:07 | [release-creator](https://pypi.org/project/release-creator/) | 0.1.0 | Bernát Gábor <gaborjbernat@gm… | 69.2 kB | Release preparation tools for changelogs and GitHub |
+| 2026-10-19 07:33:27 | [triotune](https://pypi.org/project/triotune/) | 0.1.2 |  | 231.9 kB | PyTRIO-native training utilities and recipes |
+| 2026-10-19 07:35:51 | [ipyauth-pkce](https://pypi.org/project/ipyauth-pkce/) | 1.0.0 | danifr | 410.4 kB | Jupyter widget for OAuth2 authentication with PKCE — sign in from a notebook ce… |
+| 2026-10-19 07:37:19 | [opguard](https://pypi.org/project/opguard/) | 0.1.0 | Ziming Zhou | 1.4 MB | PyTorch numerical diagnostics for humans and coding agents |
+| 2026-10-19 07:40:12 | [mini-pix](https://pypi.org/project/mini-pix/) | 0.1.3 | Kengo NAKADA <kengo.nakada@em… | 62.3 kB | mini pix ctrl server |
+| 2026-10-19 07:40:50 | [minify-all](https://pypi.org/project/minify-all/) | 0.1.11 |  | 6.6 kB | Aggressive multi-language single-line flattening minifier |
+| 2026-10-19 07:42:22 | [awesome-core](https://pypi.org/project/awesome-core/) | 2.0.1 | Arkadiusz Słowik | 190.9 kB | Offline-first catalog of tools from GitHub awesome lists, exposed as a read-onl… |
+| 2026-10-19 07:47:21 | [bibliography-io](https://pypi.org/project/bibliography-io/) | 0.1.0 | Gerit Wagner | 94.3 kB | Loading and writing bibliographic records across formats |
+| 2026-10-19 07:51:05 | [unirex](https://pypi.org/project/unirex/) | 0.0.1 |  | 2.9 kB | Name reserved for the unirex UCS-native regex engine. No code is published yet. |
+| 2026-10-19 07:51:37 | [opguard-harness](https://pypi.org/project/opguard-harness/) | 0.1.0 |  | 61.1 kB | Diagnostic skills and supporting agent tools for OpGuard |
+| 2026-10-19 07:52:56 | [fiqhboard](https://pypi.org/project/fiqhboard/) | 0.0.1 | Bayram Kotan | 17.8 kB | Comparative fiqh of the four Sunni schools: side-by-side matrices, every ruling… |
+| 2026-10-19 07:53:01 | [kompressr-sdk](https://pypi.org/project/kompressr-sdk/) | 0.1.0 | Kompressr | 70.9 kB | Typed synchronous and asynchronous Python clients for Kompressr |
+| 2026-10-19 07:54:09 | [odoo-addon-sale-sourced-by-line-product-rule](https://pypi.org/project/odoo-addon-sale-sourced-by-line-product-rule/) | 16.0.1.0.0.2 | Akretion, Odoo Community Asso… | 34.8 kB | Sale Sourced By Line Product Rule |
+| 2026-10-19 07:54:52 | [seds-rocket-safdev758](https://pypi.org/project/seds-rocket-safdev758/) | 1.0.0 | safdev758 | 4.1 kB | Rocket package for SEDS Lab 3 |
+| 2026-10-19 07:55:00 | [seds-linear-regression-safdev758](https://pypi.org/project/seds-linear-regression-safdev758/) | 1.0.0 | safdev758 | 4.2 kB | Simple Linear Regression from scratch |
+| 2026-10-19 07:57:22 | [mcp-config-dedupe](https://pypi.org/project/mcp-config-dedupe/) | 0.1.0 | hao li <haoli5933@gmail.com> | 27.5 kB | Detect duplicate, drifted, and dead MCP server configs across clients — and ded… |
+| 2026-10-19 07:58:14 | [worktree-janitor](https://pypi.org/project/worktree-janitor/) | 0.1.0 | hao li | 20.5 kB | Clean up git worktrees left behind by dead agent sessions |
+| 2026-10-19 07:59:04 | [cache-doctor](https://pypi.org/project/cache-doctor/) | 0.1.0 | hao li | 25.6 kB | Semantic-cache health diagnostics: hit rate, expiry, and cache-pollution analys… |
+| 2026-10-19 07:59:23 | [kstock-mcp](https://pypi.org/project/kstock-mcp/) | 0.1.0 | ez2sarang | 140.3 kB | Read-only MCP server for Korean stocks: KIS quotes/OHLCV/balance, OpenDART disc… |
+| 2026-10-19 07:59:57 | [tagpoint](https://pypi.org/project/tagpoint/) | 0.1.0 | hao li <haoli5933@gmail.com> | 16.8 kB | Verify a PyPI release actually matches its GitHub tag — name AND content |
+| 2026-10-19 08:11:21 | [structrestore-3d](https://pypi.org/project/structrestore-3d/) | 0.1.0a1 | Krishna Kant Gupta <krishnaka… | 68.0 kB | Auditable self-supervised 2.5D FIB-SEM restoration research prototype |
+| 2026-10-19 08:14:06 | [codegraph-network](https://pypi.org/project/codegraph-network/) | 0.1.0 | Oviing | 162.1 kB | Graph-based code understanding for LLM agents: fewer tokens, better answers |
+| 2026-10-19 08:14:19 | [hermes-agentmemory-capture](https://pypi.org/project/hermes-agentmemory-capture/) | 0.1.0 | herjarsa | 10.9 kB | Captura automática de sesiones y herramientas de Hermes hacia AgentMemory |
+| 2026-10-19 08:15:57 | [isoperiod](https://pypi.org/project/isoperiod/) | 1.2.1 | Richard Smith <ricsmi@ceh.ac.… | 720.6 kB | ISO 8601 period and duration arithmetic, including offsets from the natural bou… |
+| 2026-10-19 08:19:20 | [pyilper2](https://pypi.org/project/pyilper2/) | 2.0.0b1 | Joachim Siebold | 286.0 kB | Virtual HP-IL devices for the PIL-Box |
