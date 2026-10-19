@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T08:20:00Z,fxfunds-platform-faq,1.0.0,FXFunds,MIT (code); CC-BY-4.0 (FAQ content),30740,"FXFunds Platform FAQ as an offline library and CLI, with verification labels, sources and last-checked dates. Built by FXFunds."
+2026-10-19T08:20:01Z,py-bg-changer,0.1.0,Mr MRF Dev,MIT,24532,A simple cross-platform wallpaper changer made with Python
+2026-10-19T08:20:45Z,seatbelt-guard,0.1.3,nikhilrai-tech,Apache-2.0,193632,A seatbelt for AI coding agents: understands the shell commands they run and blocks or asks before the dangerous ones.
+2026-10-19T08:21:38Z,ga4-seo-mcp,0.1.0,GermaniU,MIT,89578,"MCP server for Google Analytics 4, Search Console and PageSpeed: audit and set up site measurement."
+2026-10-19T08:22:50Z,beresta,2.1.0,,MIT,4151086,"Берёста — DOM-библиотека XML на C++17: DOM, XPath 1.0, XML Schema, DTD (обёртка ctypes)"
+2026-10-19T08:24:06Z,ezhpgl,0.1.0a1,,MIT,2006201,"Rust-backed HP-GL parsing, labels, bounded PCL/PJL extraction and JSON/SVG export"
+2026-10-19T08:24:43Z,mlx-gen-jzg,0.1.0,Filip Strand,"MIT License Copyright (c) 2026 Filip Strand Permission is hereby granted, free of charge, to any pe…",3072949,Generative image and video model runtimes for MLX.
+2026-10-19T08:25:11Z,nistor-aggregations,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1363,Name held for the Nistor platform; the first release is 1.0.0rc1.
+2026-10-19T08:25:13Z,nistor-backend,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1317,Name held for the Nistor platform; the first release is 1.0.0rc1.
+2026-10-19T08:25:14Z,nistor-cli,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1278,Name held for the Nistor platform; the first release is 1.0.0rc1.
+2026-10-19T08:25:15Z,nistor-compiler,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1326,Name held for the Nistor platform; the first release is 1.0.0rc1.
+2026-10-19T08:26:56Z,signunder,0.1.0,,Apache-2.0,37546,"Python client for SignUnder: sign AI-generated images with Content Credentials, an invisible watermark and a fingerprint, and verify them."
+2026-10-19T08:28:23Z,mmm4microbiome,0.1.0,Peiyang Huo <peiyang.huo@kuleuven.be>,"MIT License Copyright (c) 2025 peiyang Permission is hereby granted, free of charge, to any person…",124147,"Read a StripeSankey sweep of mixed-membership models as microbiome: microbial components (MC), their taxa, and the samples behind them"
+2026-10-19T08:30:01Z,veha,0.1.0,dec01,MIT,1663636,Веха — сервер карты тестирования: сведение артефактов partest-atlas в граф и вебморда
+2026-10-19T08:40:07Z,glyph-motion,0.3.7,Kengo NAKADA <kengo.nakada@email.com>,,118880,Generate robot handwriting motions from text strings.
+2026-10-19T08:40:36Z,agora-adapter,0.2.0,Daedal,MIT,60173,Connect local coding agents to an Agora room
+2026-10-19T08:42:26Z,seds-rocket-demo,0.1.0,Your Name,MIT,6008,"Rocket, Shuttle and CircleRocket classes"
+2026-10-19T08:43:14Z,hookjump,0.1.0,turhanGoksu,Apache-2.0,112787,"A hotkey that jumps to the best part of the song playing in Spotify on macOS: the spot you pinned, or the part you keep going back to."
+2026-10-19T08:43:36Z,valguard-sdk,0.3.1,ValGuard,MIT,24272,OpenAI-compatible client helpers for the ValGuard integrity layer
+2026-10-19T08:45:26Z,x-bone,0.0.1,,MIT OR Apache-2.0,3012,"A reusable host core for plugin-based systems: plugin sessions, a scheduler, persisted jobs and an event bus. Early development."
+2026-10-19T08:45:33Z,rulestamp-green-claim-lint-empco,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38940,"Reads your HTML and Markdown product copy and flags the environmental claims Directive (EU) 2024/825 turns into banned practices on 27 September 2026, with the clause and a compliant rewrite for each…"
+2026-10-19T08:47:40Z,simple-linreg-demo,0.1.0,Your Name,MIT,5804,Simple Linear Regression from scratch
+2026-10-19T08:49:38Z,sting-vortex,1.0.1,𝑫𝑨𝑹𝑲 (𝑺) 𝑻𝑬𝑨𝑴 𝑽𝑶𝑹𝑻𝑰𝑿 🇪🇬 (@S_V_O_R_T_I_X),MIT,42808,مكتبة بايثون عملية لبناء بوتات وتطبيقات واتساب عبر جسر Node.js/Baileys سريع وواجهة غير متزامنة.
+2026-10-19T08:50:50Z,sanity-py,0.1.1,"""Zhiyuan(Stan) Yu"" <zyyu@umich.edu>",GPL-3.0-or-later,4294461,Python bindings for Sanity (SAmpling-Noise-corrected Inference of Transcription ActivitY)
+2026-10-19T08:51:42Z,TiMBA-Trade,0.1.0,,AGPL-3.0-or-later,58724,An add-on for TiMBA to obtain bilateral Trade from scenario output.
+2026-10-19T08:54:33Z,odoo-addon-pos-account-bank-statement-line,16.0.1.0.0.2,"GRAP,Odoo Community Association (OCA)",AGPL-3,152536,PoS Account Bank Statement Line
+2026-10-19T08:55:12Z,dcd-storage-client,1.0.0,DevCloudDesk <support@devclouddesk.com>,MIT,14276,Official Python client SDK for DevCloudDesk Storage Engine
+2026-10-19T08:55:20Z,canbus-stepper,0.1.0,Josh,MIT,24365,"Python client for the CANBUS Stepper Motor Controller (thingsbyjosh.com), over USB serial or WiFi"
+2026-10-19T08:55:55Z,countermap,0.2.0,Diego Parra,Apache-2.0 AND BSD-3-Clause,220096,"Local-first, read-only cross-framework knowledge graph and MCP server for MITRE ATT&CK®, D3FEND, ATLAS and F3, with D3FEND CAD, Attack Flow, Navigator and Mermaid output."
+2026-10-19T08:56:26Z,debuganything,1.0.1,Shreyas Sawant,MIT,19739,"Debug Anything from Python agents: observe running processes (strace, py-spy, perf, lsof, tcpdump, gdb/lldb, heap snapshots) and get evidence-backed findings. Wraps the Debug Anything CLI/MCP server;…"
+2026-10-19T08:57:06Z,your-unique-rocket-name,1.0.0,Your Name,MIT,4090,A simple rocket simulation module
+2026-10-19T08:58:32Z,phyelds-simulator,8.0.0,Davide Domini,Apache-2.0,23522,"A discrete-event simulator, with live rendering, for phyelds programs"
+2026-10-19T08:59:48Z,image-server-kit,0.0.1,Kengo NAKADA <kengo.nakada@email.com>,,27790,image_server (Template)
+2026-10-19T09:07:45Z,xebia-fabkit,0.9.0,,MIT,50145,Checks for Microsoft Fabric deployments with fabric-cicd.
+2026-10-19T09:09:14Z,maxpod,0.0.1,MaxPod <support@maxpod.ai>,Proprietary,2516,MaxPod GPU cloud CLI and Python SDK (coming soon)
+2026-10-19T09:11:11Z,pyre-config,1.0.0,且听风吟、我是指针*、ZDLAY、KYZ,MIT,52538,轻量级 Python 配置管理库：多配置源、多环境、优先级覆盖，核心零依赖
+2026-10-19T09:11:16Z,oahelper-mcp,0.2.2,Sirjan Singh <sirjan.singh036@gmail.com>,MIT,34410,"MCP server for your own OAHelper Pro account: OA question sets, MCQ answers, solutions and interview experiences, saved offline as markdown."
+2026-10-19T09:12:27Z,pyre-injector,1.0.0,且听风吟、我是指针*、ZDLAY、KYZ,MIT,40682,轻量级 Python 依赖注入框架：自动依赖解析、作用域管理、延迟初始化，核心零依赖
+2026-10-19T09:13:13Z,your-unique-linreg-name,1.0.0,Your Name,MIT,3616,Simple linear regression from scratch
+2026-10-19T09:13:19Z,pyre-lsp,0.1.0,且听风吟、我是指针*、ZDLAY、KYZ <breezechime@163.com>,MIT,41712,Language Server for Pyre / sqlalchemy_db ORM
+2026-10-19T09:13:37Z,shivexa-nova-terminal,0.1.0,Shivexa,,12656,NOVA Terminal for developers
+2026-10-19T09:13:48Z,hmptunnel,1.0,tderk <usvu.tech@gmail.com>,MIT,10884424,"hmptunnel // JADE//WIRE - a full-history East Asian + Western hacking, programming, and pop-underground terminal"
+2026-10-19T09:14:08Z,hydrometlib,1.1.1,Richard Smith <ricsmi@ceh.ac.uk>,"MIT License Copyright (c) 2026 UKCEH Permission is hereby granted, free of charge, to any person ob…",708128,A trusted library of verified and referenced hydrometeorological calculations and derivations.
+2026-10-19T09:14:34Z,nortre-cli,1.0.0,"Dip Paul <dip.paul@uib.no>, Eirik Halseth <eirik.halseth@uib.no>, Elena Nicole Jacobsen <Elena.Nico…",,68114,A python package for interacting with SAFE File transfer API
+2026-10-19T09:15:55Z,pyre-sqlalchemy-db,1.0.0,且听风吟、我是指针*、ZDLAY、KYZ,MIT,71572,SQLAlchemy 2.0 声明式 ORM 增强库：字段、事务、分页、软删除与异步支持
+2026-10-19T09:17:36Z,beam-model,0.9.0,Gur Yaari,GPL-3.0-or-later,22243153,"Probability models of biological sequences such as T cell receptor CDR3s: sequence probabilities, sampling depth, publicness and repertoire comparison, summed over every possible sequence without sim…"

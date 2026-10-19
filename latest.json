@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-10-19T07:19:00.007263Z",
-    "path": "data/new-packages-2026-10-19T08-19-50-988606Z.csv",
-    "to": "2026-10-19T08:19:50.988606Z"
+    "count": 46,
+    "from": "2026-10-19T08:19:50.988606Z",
+    "path": "data/new-packages-2026-10-19T09-18-58-895245Z.csv",
+    "to": "2026-10-19T09:18:58.895245Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-19T06:56:02Z",
       "package": "yapper.py",
       "since": "2026-10-19T06:20:00.478516Z"
     }
   ],
-  "serial": 42429762,
+  "serial": 42432040,
   "source_truncated": false,
-  "window": "2026-10-19T08:19:50.988606Z"
+  "window": "2026-10-19T09:18:58.895245Z"
 }
