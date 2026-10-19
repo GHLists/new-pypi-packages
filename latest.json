@@ -1,25 +1,12 @@
 {
   "list": {
-    "count": 80,
-    "from": "2026-10-19T19:20:00.73786Z",
-    "path": "data/new-packages-2026-10-19T20-20-32-568877Z.csv",
-    "to": "2026-10-19T20:20:32.568877Z"
+    "count": 73,
+    "from": "2026-10-19T20:20:32.568877Z",
+    "path": "data/new-packages-2026-10-19T21-19-44-861323Z.csv",
+    "to": "2026-10-19T21:19:44.861323Z"
   },
-  "pending": [
-    {
-      "attempts": 1,
-      "created_at": "2026-10-19T20:20:18Z",
-      "package": "gaapitchfinder",
-      "since": "2026-10-19T19:20:00.73786Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-19T20:19:23Z",
-      "package": "rishe",
-      "since": "2026-10-19T19:20:00.73786Z"
-    }
-  ],
-  "serial": 42457861,
+  "pending": [],
+  "serial": 42460341,
   "source_truncated": false,
-  "window": "2026-10-19T20:20:32.568877Z"
+  "window": "2026-10-19T21:19:44.861323Z"
 }

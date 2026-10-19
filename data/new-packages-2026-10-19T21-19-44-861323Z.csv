@@ -1,0 +1,74 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T20:19:23Z,rishe,0.1.0,Mahdi Alikhah <96587315+MahdiAlikhah@users.noreply.github.com>,MIT OR Apache-2.0,9484783,"Rishe (ریشه): Blazingly fast, unified Persian NLP engine written in Rust — tokenization, SBD, lemmatization, ezafe detection, informal→formal normalization"
+2026-10-19T20:20:18Z,gaapitchfinder,0.1.0,Ryan McGuinness,"MIT License Copyright (c) 2024 Ryan McGuinness Permission is hereby granted, free of charge, to any…",201758,"Load, search, analyse, and export the GAA Pitch Finder dataset."
+2026-10-19T20:21:01Z,chewme-audit,0.1.0,,MIT,84968,"Cost-audit reports for AI agent traces: find fixable waste, price it, fix it."
+2026-10-19T20:21:12Z,rigbox,1.0.2,Jonathan Bailey <jonathan.bailey@comcast.net>,,166827,Embedded developer's toolbox: a manifest-driven REPL and CLI.
+2026-10-19T20:21:37Z,aquark-modbus,0.0.1,Ringo De Smet,Apache-2.0,12822,Manage chlorinator devices from Aquark
+2026-10-19T20:22:12Z,xpl-core,0.3.0,Andre Henrike <safelabs.support@visioncybersecurity.com>,XSRL-1.0,105926,"XPL-Suite shared schemas, policies and registry"
+2026-10-19T20:22:37Z,xpl-intel,1.2.0,André Henrique <henrique.santos@uniaogeek.com.br>,XSRL-1.0,46336,"XPL-Intel — CVE ingestion pipeline for XPL-Suite. CISA KEV, NVD, watchTowr, Nuclei, ExploitDB."
+2026-10-19T20:23:03Z,azrideus-vault,0.1.0,,MIT,17428,"Obsidian vault helpers: markdown documents with YAML frontmatter, and git sync."
+2026-10-19T20:24:28Z,wishop,1.2.0,,"MIT License Copyright (c) 2026 Wishop Permission is hereby granted, free of charge, to any person o…",32644,The official Python client for the Wishop API
+2026-10-19T20:26:19Z,clustaudio,0.1.0,Erdogan Taskesen <erdogant@gmail.com>,MIT,23441418,"Python package clustaudio is for unsupervised clustering of audio files using acoustic features, with support for denoising, voice activity detection, and audio separation."
+2026-10-19T20:26:52Z,pycoqc-ng,3.0.0,"Adrien Leger, Tommaso Leonardi",GPL-3.0-or-later,141465,Interactive QC metrics and plots for Oxford Nanopore sequencing data
+2026-10-19T20:27:56Z,hindsight-livekit,0.1.0,Naman <naman6176@gmail.com>,MIT,209833,LiveKit Agents integration for Hindsight - persistent memory for voice AI agents
+2026-10-19T20:28:12Z,clouddeck,0.1.0,CloudDeck contributors,MIT,796971,CloudDeck: terminal UI and `ddc` controller (Disposable Dev Cloud) for on-demand Akash dev boxes and test workers
+2026-10-19T20:28:55Z,fullstop,0.2.1,,MIT,247826,"A zero-dependency Python runtime for always-on agents: identity manifests, a default-deny policy gate with human approval, a fenced tool-call protocol, a hash-chained activity log, and crash-safe che…"
+2026-10-19T20:29:37Z,visualagents,0.1.0,VisualAgents contributors,MIT,257387,A live map of which agent in a multi-agent AI system is doing what - from its chain of thought.
+2026-10-19T20:30:01Z,sqx-unpack,0.1.1,,GPL-3.0-or-later,1123742,Open-source extractor for SQX (Squeez / SpeedCommander) archives
+2026-10-19T20:30:45Z,sensortensor-mcp,1.0.0,jefboneta,MIT,18868,MCP server for documentation-search APIs with a built-in feedback loop that finds gaps in your docs.
+2026-10-19T20:30:59Z,vidtoolz-compose,0.1.0,Sukhbinder Singh,Apache-2.0,21937,Compose video
+2026-10-19T20:33:18Z,berthq-client,0.1.0,Nedim Talovic,MIT,52466,"Python client for Berthq, a message broker in one binary"
+2026-10-19T20:34:42Z,tynex,0.1.0,Tynex contributors,Apache-2.0,322136,"Tynex — a minimal, auditable terminal coding agent harness in Python"
+2026-10-19T20:35:34Z,queuemo,1.27.6,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,81213,
+2026-10-19T20:35:57Z,tenderix,1.4.0,64-Tenderix,Apache-2.0,346094,TENDERIX — Constraint & Commitment Commerce Engine for autonomous agents (64)
+2026-10-19T20:36:09Z,tuxfan-planner,0.2.0,,,72780,Simple text-driven project planning system
+2026-10-19T20:36:20Z,industrialxpl,1.5.0,André Henrique <henrique.santos@uniaogeek.com.br>,XSRL-1.0,3494620,"IndustrialXPL-Forge (IXF) — OT/ICS/SCADA lab framework (Linux only). Python-First, Mirai/C2 native ops, 1190+ modules."
+2026-10-19T20:36:26Z,adxpl,2.1.0,André Henrique <henrique.santos@uniaogeek.com.br>,XSRL-1.0,367008,"ADXPL-Forge (AXF) — Active Directory attack and audit framework with 219 modules across 25 categories. Enumeration, Kerberos, ADCS, lateral movement, credential theft, coercion, relay, ACL abuse, tru…"
+2026-10-19T20:36:47Z,happyhorse-cli,2026.10.19.5,AceDataCloud <support@acedata.cloud>,MIT,28152,CLI tool for HappyHorse AI Video Generation via AceDataCloud API
+2026-10-19T20:39:49Z,kredent,1.0.0,Kredent Contributors,Apache-2.0,154865,"Identity and verifiable reputation for autonomous agents — W3C did:key, Ed25519 signed attestations, offline verification."
+2026-10-19T20:40:52Z,tinta-mcp,0.2.2,,,567201,Tinta: Give your AI a vector editor (Model Context Protocol server for Inkscape)
+2026-10-19T20:41:09Z,nutate,0.1.0,Mohammadali Foroozandeh,Apache-2.0,171406,Bloch simulations of any pulse sequence rendered as 3D Bloch-sphere videos
+2026-10-19T20:42:23Z,diffpy.cmistructure,0.1.0,Simon Billinge <sbillinge@ucsb.edu>,,78001,diffpy.cmi package for doing refinements with structure objects
+2026-10-19T20:42:24Z,mef3io-coregistration,0.3.0,Filip Mivalt,Apache-2.0,317059,"Align two MEF 3.0 (Multiscale Electrophysiology Format) recordings captured on independent, drifting clocks, such as EEG and iEEG from two systems, and read them as one recording on one clock"
+2026-10-19T20:42:34Z,inkvault,0.3.4,"""T. Matthew Chase"" <242277862+sandoreclegane@users.noreply.github.com>",MIT,1297056,"A local long-term memory: rescue your Pieces history, keep every Claude Code and Codex session and your browser history, and search it all from any MCP client."
+2026-10-19T20:42:52Z,langchain-suno-acedatacloud,0.1.0,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,16484,Suno by Ace Data Cloud LangChain toolkit
+2026-10-19T20:43:33Z,xrdcore,0.4.0,Robert Currie <robert.andrew.currie@gmail.com>,LGPL-3.0-or-later,163065,"The dependency-free core shared by xrdclient, xgfalclient and xrdarc: safe XML, checksums, log redaction, cancellation, the copy pipeline, thread fan-out, the shared CLI exit codes and the CLI report…"
+2026-10-19T20:43:58Z,city-sdk,0.9.0,,,67482,City harness and the day-1 Market facade (includes cap).
+2026-10-19T20:43:59Z,ecg-augmentations,1.0.0,Kleanthis Avramidis <k.avramidis@windowslive.com>,MIT,51138,"ECG signal augmentations for PyTorch, for representation and self-supervised learning"
+2026-10-19T20:44:50Z,langchain-seedance-acedatacloud,0.1.0,Ace Data Cloud Dev <dev@acedata.cloud>,MIT,37405,Seedance by Ace Data Cloud LangChain toolkit
+2026-10-19T20:45:12Z,diffpy.cmipdf,0.1.0,Simon Billinge <sb2896@columbia.edu>,,196470,The code of the PDF pack of the diffpy.cmi package.
+2026-10-19T20:45:38Z,codecraftai-foundations,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,104507,Code Craft AI - Foundations Package
+2026-10-19T20:47:46Z,codecraftai-python-rpc,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,122062,Code Craft AI - Python RPC Package
+2026-10-19T20:49:32Z,thonny-ice-grader,0.2.0,PoTOsuA7,MIT,37487,"NatteeGrader (Chula 2190101) in Thonny: your problems, statements, the grader's tests and submit"
+2026-10-19T20:52:26Z,codecraftai-xmodules,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,112353,Code Craft AI - Python Extension Modules
+2026-10-19T20:52:58Z,llama-index-llms-acedatacloud,0.1.0,Ace Data Cloud <dev@acedata.cloud>,MIT,17167,Native Ace Data Cloud LLM integration for LlamaIndex
+2026-10-19T20:52:58Z,tenbri,0.0.0,,Apache-2.0,1676,"The audit trail for AI agents: every decision signed, chained and provable. Name reserved; see the repository."
+2026-10-19T20:53:32Z,lsql,2.0.3,"Qunfei Wu <wu.qunfei@gmail.com>, Davide Dal Farra <davide@codref.org>",Apache-2.0,130142,A TUI for managing LanceDB databases easily
+2026-10-19T20:53:40Z,codecraftai-webworks,1.4.0,,LicenseRef-CodeCraftAI-Source-Available,4222350,Code Craft AI - WebWorks
+2026-10-19T20:55:00Z,astral-dev-toolchain-jaq,3.1.1,Astral <hey@astral.sh>,MIT,11443027,Just another JSON query tool
+2026-10-19T20:55:34Z,tellers-timeline,0.1.3,,,4480574,"Read, write, validate, and edit a simplified subset of OpenTimelineIO JSON."
+2026-10-19T20:57:49Z,pckt,0.3,,MIT,891430,"Packet construction and decoding, with libpcap bindings"
+2026-10-19T20:58:19Z,voxtex,0.1.0,dhthz,MIT,355937,"Talk to your thesis, get LaTeX that compiles: a voice editor for LaTeX in Greek and English."
+2026-10-19T20:58:24Z,alkove,0.2.0,Eddy Bordi,Apache-2.0,2533650,"On-device voice input: keep the user's voice, detect speech. No server, no key."
+2026-10-19T21:01:45Z,justbench,0.0.1,Thomas Moreau,BSD-3-Clause,2514,The upcoming name of benchopt: installs benchopt and exposes it as justbench.
+2026-10-19T21:02:18Z,modvet,0.2.2,Joerg Michno,Apache-2.0,142846,"ModVet — deterministic pre-install security scanner for Claude Code mods (and later: skills, MCP servers)."
+2026-10-19T21:02:44Z,vectorforge-py,1.0.0,Mohamed Ayman <mohamed.ayman.developer@gmail.com>,MIT,96327,Deterministic developer SVG shape and component library with 235+ presets.
+2026-10-19T21:04:44Z,arrayutil,1.0.1,Muhammad Zeynalli,MIT,4729,Useful functions for working with lists
+2026-10-19T21:05:48Z,wsrpc-asgi,0.2.0,Dmitry Orlov,Apache-2.0,82967,Bidirectional WebSocket RPC for ASGI applications
+2026-10-19T21:06:57Z,codecraftai-extension,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,31775,Code Craft AI - Extension Package
+2026-10-19T21:07:14Z,cypher-guardrail,1.0.0,Killeroid,Apache-2.0,194818,"Parse and validate cypher queries against a given FalkorDB Knowledge Graph schema. Validates query syntax, schema validity, and property access."
+2026-10-19T21:07:53Z,codecraftai-arcli,1.2.0,CodeCraftX,LicenseRef-CodeCraftAI-Source-Available,98305,Advanced Re-Usable Commandline Interface Framework
+2026-10-19T21:08:21Z,xrdsec,0.4.0,Robert Currie <robert.andrew.currie@gmail.com>,LGPL-3.0-or-later,801390,"Grid security and credentials shared by xrdclient, xgfalclient and xrdarc: X.509 and RFC 3820 proxies, delegation profiles, VOMS, bearer tokens, Kerberos, GSI, credential discovery and client TLS"
+2026-10-19T21:08:50Z,FreeImageRe,4.2.2,Alexey Gruzdev,,13811553,Python bindings for FreeImageRe
+2026-10-19T21:08:58Z,codecraftai-configuration,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,106264,Code Craft AI - Configuration
+2026-10-19T21:10:19Z,xrdhttp,0.4.0,Robert Currie <robert.andrew.currie@gmail.com>,LGPL-3.0-or-later,398088,"The HTTP pieces shared by xrdclient, xgfalclient and xrdarc: a pooled HTTP session, connections, WebDAV, byte ranges, WLCG Tape REST, HTTP third-party copy, Metalink, S3 SigV4 and a fake storage elem…"
+2026-10-19T21:11:31Z,livekit-plugins-alkove,0.2.0,Eddy Bordi,Apache-2.0,22137,"Alkove for LiveKit Agents: Focus keeps the user's voice (noise cancellation), Cue finds speech (VAD), on the agent's CPU"
+2026-10-19T21:11:31Z,llm-redteam-evidence,0.2.1,Mihir Ajmera,MIT,132793,"Turn LLM red-team results (garak, promptfoo) into audit evidence, OSCAL and a model release gate"
+2026-10-19T21:11:31Z,pipecat-alkove,0.2.0,Eddy Bordi,Apache-2.0,19714,"Alkove for Pipecat: AlkoveFilter keeps the user's voice, AlkoveVADAnalyzer finds speech, on the bot's CPU"
+2026-10-19T21:11:34Z,agent-access-review,0.2.1,Mihir Ajmera,MIT,70575,"User access reviews for AI agents and MCP servers, with audit evidence and OSCAL output"
+2026-10-19T21:12:15Z,atoo,0.2.3,,AGPL-3.0-or-later,2537614,"Compile console conventions into a plan, apply it, prove it landed."
+2026-10-19T21:12:39Z,armguard-mcp,0.1.0,Lin He <lynnhe02@gmail.com>,Apache-2.0,303285,"A safety-first MCP server for ROS 2 manipulators: plan/preview/execute with a server-side safety envelope, human approval and audit log."
+2026-10-19T21:12:48Z,isaaclab-robot-doctor,0.1.0,Lin He <lynnhe02@gmail.com>,Apache-2.0,74010,"Sanity-check a URDF/USD robot for NVIDIA Isaac Lab and generate a starting ArticulationCfg. No GPU, no Isaac Sim."
+2026-10-19T21:14:59Z,codecraftai-credentials,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,104731,Code Craft AI - Credentials Package
+2026-10-19T21:16:05Z,codecraftai-dataprofiles,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,32057,Code Craft AI - Data Profiles Package
+2026-10-19T21:17:12Z,codecraftai-this-app,1.4.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,59616,Code Craft AI - This-App
