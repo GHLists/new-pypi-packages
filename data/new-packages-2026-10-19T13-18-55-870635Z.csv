@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T12:19:19Z,pretix-payment-sumup,0.9.0,Stefan Bethke <stb@lassitu.de>,MIT,47058,pretix payment provider for SumUp Hosted Checkout
+2026-10-19T12:20:12Z,eda-tools-oyu,0.1.0,,,4158,
+2026-10-19T12:21:02Z,hawser-ai,0.1.0,Hawser contributors,Apache-2.0,478904,Hawser: an open-source runtime for verifiable multimodal AI workflows.
+2026-10-19T12:21:03Z,hawser-server,0.1.0,Hawser contributors,Apache-2.0,904728,"Hawser control plane: hawserd (API, durable worker, migrations)."
+2026-10-19T12:23:01Z,ocelescope-module-alignments,0.10.3,Uy Sa Huynh,,12422,case-centric Alignments
+2026-10-19T12:23:02Z,StringUtils-darhkharo,0.0.1,QKid <quantumwizard104@gmail.com>,MIT,12466,A String utils package
+2026-10-19T12:27:41Z,uc-manager-cann900-a2,0.9.0rc2,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",10294901,Persist and reuse KV Cache to speedup your LLM.
+2026-10-19T12:27:45Z,uc-manager-cann900-a3,0.9.0rc2,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",11201803,Persist and reuse KV Cache to speedup your LLM.
+2026-10-19T12:27:49Z,uc-manager-cann920-a2,0.9.0rc2,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",9836967,Persist and reuse KV Cache to speedup your LLM.
+2026-10-19T12:27:52Z,uc-manager-cann920-a3,0.9.0rc2,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",10741570,Persist and reuse KV Cache to speedup your LLM.
+2026-10-19T12:28:27Z,tzzb,0.2.5,tzzb,MIT,54271,"Python SDK, CLI and MCP server for investment portfolio and trade ledger management"
+2026-10-19T12:29:13Z,archivey-cli,0.2.0rc1,Davi Figueiredo <archivey@davitf.com>,MIT,5730,"The archivey command-line tool, with archivey's recommended optional packages"
+2026-10-19T12:31:14Z,inihelper,0.1.1,"""Simon Arjuna Erat (sri-arjuna)"" <erat.simon@gmail.com>",MIT,34602,"An INI parser that preserves comments, supports custom 'separator' (=) 'rules' and comment styles, incl (wip) multiline."
+2026-10-19T12:37:55Z,fusemesh,0.2.0,,BSD-3-Clause,8036802,Fast Union Surface Extraction — CUDA/NanoVDB backend
+2026-10-19T12:38:34Z,nirvana-quant,1.0.0,yinyusi65,,160908,Nirvana: Chrono-Cancer Meta-Architecture for High-Dimensional Cyclical Time-Series & Dynamical Network Analysis
+2026-10-19T12:38:55Z,fastapi-oneshot,0.1.0,himkt,MIT,48609,Run one-shot scripts with a FastAPI app's dependencies
+2026-10-19T12:39:10Z,codepilot-00,0.0.0,Prit_kanani,MIT,19665,A command-line AI assistant for generating and testing Python code.
+2026-10-19T12:39:19Z,audio-intelligence-mcp,0.1.0,Sanjay Sakhinala,Apache-2.0,919955,Local-first Audio Intelligence MCP server
+2026-10-19T12:40:38Z,ipjudge,0.1.0,IP Judge <hi@ipjudge.org>,MIT,7251,"Check whether an IP is residential, datacenter or proxy, and whether ChatGPT / Claude / Gemini / Muse support its region."
+2026-10-19T12:40:54Z,theme-forge-nebular-fusion,0.6.1,,AGPL-3.0-or-later,46792720,Theme Forge Nebular Fusion native Darwin application wheel
+2026-10-19T12:41:43Z,npython,0.1.0,Stefane Fermigier,,2501,Add your description here
+2026-10-19T12:43:55Z,pdukit,1.0.0a1,Sarath Chandra Dantu,GPL-3.0-or-later,466264,COG: detect protein dynamical units (PDUs) from molecular dynamics trajectories
+2026-10-19T12:44:59Z,jupyter-ai-agent-lite,0.0.0a0,,,695,
+2026-10-19T12:45:31Z,sprotmetrics,0.1.0,Sergio Salas,"MIT License Copyright (c) 2026, Sergio Salas Permission is hereby granted, free of charge, to any p…",126270,"Quality metrics for imaging-based spatial proteomics: segmentation, signal-to-background, normalization, marker distribution and technical-covariate diagnostics."
+2026-10-19T12:45:35Z,jupyternaut-lite,0.0.0a0,,,680,
+2026-10-19T12:45:36Z,langchain-promigence,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,72980,Promigence sandbox backend for LangChain DeepAgents
+2026-10-19T12:46:40Z,promigence-openai-agents,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,76918,Promigence sandbox client for the OpenAI Agents SDK
+2026-10-19T12:47:44Z,strands-promigence,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,68043,Promigence sandbox for Strands Agents
+2026-10-19T12:47:56Z,mountable-sdk,0.1.0,,Apache-2.0,44471,"Read, write, list and follow files in a Mountable filesystem over HTTPS."
+2026-10-19T12:48:48Z,promigence-mini-swe-agent,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,68280,Run mini-swe-agent (SWE-bench) instances on Promigence sandboxes
+2026-10-19T12:51:21Z,cairn-client,0.1.0,cairn maintainers,Apache-2.0,13073,Typed Python client for the cairn control-plane API
+2026-10-19T12:51:23Z,cairn-contracts-artifact,1.0.0,,Apache-2.0,3632,Shared contract definitions for the artifact capability domain (artifact.promote).
+2026-10-19T12:51:24Z,cairn-contracts-audit,1.0.0,,Apache-2.0,3457,Shared contract definitions for the audit capability domain (audit.sink).
+2026-10-19T12:51:25Z,cairn-contracts-data,1.0.0,,Apache-2.0,4440,Shared contract definitions for the data capability domain (data.profile).
+2026-10-19T12:51:36Z,aiosaj,0.2.1,kellerza,MIT,32974,Async library to read data from SAJ solar inverters (Ethernet and WiFi modules)
+2026-10-19T12:51:58Z,langchain-llama-cpp,0.1.0,Bharathan Mudaliar,MIT,54968,"An integration package connecting llama.cpp's llama-server and LangChain, with reasoning, timings, structured output and tool calling"
+2026-10-19T12:52:33Z,neuromatch-course-kit,0.1.1,,BSD-3-Clause,236337,"Neuromatch course kit: notebook generation, content checks and site preparation for MyST courses"
+2026-10-19T12:54:03Z,smolagents-hyperlight,0.1.0,The Hyperlight Authors,Apache-2.0,68302,Run the code of smolagents' CodeAgent in a local Hyperlight micro-VM
+2026-10-19T12:54:45Z,habarico,7.2.0b5,Luboš Mátl <lubos.matl@eluvia.com>,"MIT License Copyright (c) 2024 Eluvia.land s.r.o. Permission is hereby granted, free of charge, to…",291655,Habarico REST admin Django library
+2026-10-19T12:56:04Z,warc2zip,0.2.0,,Apache-2.0,130983,Convert WARC files into zip-of-files plus metadata
+2026-10-19T12:56:17Z,typerig,3.0.0,Vassil Kateliev,MPL-2.0,1802100,"TypeRig font geometry, interpolation, and host integration library"
+2026-10-19T13:02:33Z,mailuo,0.2.0,EeroEternal,MIT,77005,"mai (Mailuo) — Topic-centric Agent Session & Core Theme Manager for pi.dev & Google Antigravity, backed by multi-tenant Cloudflare D1"
+2026-10-19T13:05:23Z,odoo-addon-account-statement-import-online-enable-banking,16.0.1.0.1.2,SomIT Cooperatiu SCCL,AGPL-3,42183,Import bank statements through Enable Banking (PSD2)
+2026-10-19T13:08:02Z,nifi-clickhouse-kafka-mcp,0.1.0,Andrea Bugeja,Apache-2.0,198303,"Read-only MCP server for Apache NiFi, ClickHouse and Kafka, with OIDC, per-user audit and secret masking"
+2026-10-19T13:08:05Z,config-to-vault,0.1.0,,Apache-2.0,65600,Replicate a folder of config files from git into HashiCorp Vault KV v2.
+2026-10-19T13:09:01Z,mega-sdk,0.1.0,edward011,MIT,5565,A lightweight Python client library for interacting with the MEGA.nz API
+2026-10-19T13:11:49Z,moin-skynetaccessibility-video-subtitle,1.0.0,Skynet Technologies USA LLC <hello@skynettechnologies.com>,GPL-2.0-or-later,94134,Publish Captioned Video Content with AI-Powered Subtitles
+2026-10-19T13:12:53Z,hx-depconf-canary-7f3a,99.0.0,,,1578,hx internal security test canary. Harmless; writes a marker only with HX_DEPCONF_CANARY=1. Not a real package.
+2026-10-19T13:13:53Z,thulpar,0.3.2,Abra Partners,Copyright (c) 2026 Abra Partners. All rights reserved. Use of this package is subject to the Thulpa…,99333,"Thulpar client for Python: the check API 0.3.x, sentence-level stream guard, decisions applied to text, hold and resume, trajectories, canaries and counters"

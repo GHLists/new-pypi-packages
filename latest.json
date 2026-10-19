@@ -1,31 +1,25 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-10-19T11:19:06.533989Z",
-    "path": "data/new-packages-2026-10-19T12-19-29-487757Z.csv",
-    "to": "2026-10-19T12:19:29.487757Z"
+    "count": 49,
+    "from": "2026-10-19T12:19:29.487757Z",
+    "path": "data/new-packages-2026-10-19T13-18-55-870635Z.csv",
+    "to": "2026-10-19T13:18:55.870635Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-19T09:36:20Z",
       "package": "firebirdadmin",
       "since": "2026-10-19T09:18:58.895245Z"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-19T12:02:26Z",
       "package": "oc-lode",
       "since": "2026-10-19T11:19:06.533989Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-19T12:19:19Z",
-      "package": "pretix-payment-sumup",
-      "since": "2026-10-19T11:19:06.533989Z"
     }
   ],
-  "serial": 42439193,
+  "serial": 42441274,
   "source_truncated": false,
-  "window": "2026-10-19T12:19:29.487757Z"
+  "window": "2026-10-19T13:18:55.870635Z"
 }
