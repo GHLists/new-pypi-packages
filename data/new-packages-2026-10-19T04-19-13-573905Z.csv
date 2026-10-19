@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T03:15:16Z,goatnotify,0.1.0,Louis Midson LAJEANTY,MIT,3488,"A modern, type-safe, framework-agnostic notification system for Python."
+2026-10-19T03:21:25Z,orvix-provepr,0.1.0,Tirth,MIT,47079,"Make AI coding agents prove their PR claims in a real browser, and fix what fails."
+2026-10-19T03:22:05Z,sika-cli,0.2.0,Sika Security <engineering@sikasecurity.com>,MIT,5972,Command-line interface for the Sika Security platform (installs the `sika` command)
+2026-10-19T03:26:45Z,burnclock,0.1.1,Jeremy Silbernagel,MIT,230046,"Burnclock: see your AI budget runway at a glance — balances, burn, days-left. Estimates, not billing truth."
+2026-10-19T03:27:48Z,aidlc.deck-creator-mcp,1.0.0,,,8775,"Connects an MCP client over stdio to the deck-creator spec-driven HTML deck and report workflow, hosted by the MSC Labs CoE."
+2026-10-19T03:31:31Z,ffwf-tau-router,0.1.0,John McCardle,MIT,41468,"Tau extensions: route each request across your LLM accounts by budget, and split a budget between sub-agents"
+2026-10-19T03:35:07Z,mktagi-notify,0.0.1,code-koan,MIT,158802,统一的消息通知包：飞书 webhook、飞书机器人、Telegram、Slack、Discord
+2026-10-19T03:36:55Z,aula-f87-control,0.3.2,RadianceADM,GPL-3.0-or-later,130481,"Backlight effects, per-key colors, music sync, sleep timer and battery level for AULA F87 / F87 Pro keyboards, on Linux and Windows"
+2026-10-19T03:38:18Z,tukupay,0.1.0b1,TukuPay,MIT,47378,Server-side Python library for the TukuPay API
+2026-10-19T03:39:21Z,scistackstatsdb,0.1.42,SciStack Contributors,MIT,14024,"scidb-backed statistics: saved StatStudio specs, linked plots and stat_ endpoints"
+2026-10-19T03:41:58Z,scistackstats,0.1.42,SciStack Contributors,MIT,96370,"Statistics for scistack: StatStudio designs, descriptives and tests from Plot Studio roles (math by csv-stats)"
+2026-10-19T03:41:59Z,nonebot-plugin-group-insight-ai,0.1.1,TonyLiangP2010405 <plia0974@uni.sydney.edu.au>,MIT,229128,AI 驱动的群聊分析插件：群聊报告、词云生成、@消息追踪（移植自 Yunzai 插件 group-insight）
+2026-10-19T03:42:37Z,gimppy,1.0.1,gimppy contributors,GPL-3.0-only,168635,Python image processing library originated from GIMP
+2026-10-19T03:44:11Z,llm-deepseek-websearch,0.1,Iqbal Abdullah,Apache-2.0,28675,DeepSeek web search and fetch tools for LLM
+2026-10-19T03:45:53Z,anatplot,0.1.0.dev0,,MIT,1407214,Simple anatomical surface scenes with PyVista
+2026-10-19T03:46:34Z,fxfunds-stablecoin-payments,1.0.0,FXFunds,MIT,19403,"Read-only stablecoin payment verification bot for USDT on ERC20, TRC20 and TON. Built by FXFunds."
+2026-10-19T03:48:17Z,unpick,0.1.0,unpick contributors,Apache-2.0,776070,"Vet AI components (skills, rules files, MCP servers, plugins) on your own laptop, offline by default."
+2026-10-19T03:50:09Z,minutegate,0.0.1,,Apache-2.0,10049,MinuteGate — open-source agent payment layer. Under development.
+2026-10-19T03:58:35Z,frugal-memory,0.1.0,Sebastian Woratsch,MIT,144270,"A memory for AI assistants that is just a SQLite file: full-text search over MCP, no vector store, no embeddings, no external service."
+2026-10-19T04:04:05Z,pyalexalist,0.1.0,,MIT,46859,An unofficial client for the Amazon Alexa Lists API.
+2026-10-19T04:04:20Z,nexiom-connect,0.1.0,Nexiom Technologies,Apache-2.0,97979,The official Nexiom Connect SDK for Python
+2026-10-19T04:05:39Z,sprezzature-ui,1.0.0,Warith HARCHAOUI <warithmetics@deraison.ai>,BSD-3-Clause,51646,"The deterministic half of sprezzature-ui: find the translations embedded in your JavaScript and the prompts inlined in your Python, and scaffold the catalogue they belong in."
+2026-10-19T04:05:59Z,timestub,0.1.0,,,5051,a terminal shift-pay calculator
+2026-10-19T04:06:34Z,sprezzature-publish,1.2.0,Warith HARCHAOUI <warithmetics@deraison.ai>,BSD-3-Clause,462718,"A folder of Markdown becomes a site somebody can find: pages, meta tags, a favicon set from one logo, the indexes crawlers and language models look for, and an optional narrated read-along."
+2026-10-19T04:12:32Z,spatial-frequency-loss,1.0.1,Naoyuki Ichimura <naoyuki.ichimura@aist.go.jp>,GPL-3.0-only,55692,Spatial Frequency Loss for mitigating spectral bias in deep neural networks
+2026-10-19T04:12:59Z,font-render-client,1.0.0,,MIT,32224,Command-line client of the Font Render Service: render fonts on a Windows DirectWrite server
+2026-10-19T04:13:27Z,bioqueue,2.0.0a1,Li Yao,Apache-2.0,795166,A personal job workspace for computational biology
+2026-10-19T04:13:57Z,get-case-in-drive,0.1.0,6vi7ms,,3769,Add your description here
+2026-10-19T04:16:02Z,factory-bot,0.0.1,Daniel Pepper,MIT,12979,Test data factories with the ergonomics of Ruby's factory_bot
+2026-10-19T04:16:58Z,camp-comm,0.1.0,Aditya Kumar <adityakumar0@zohomail.in>,MIT,2189,Camp-comm CLI tool
+2026-10-19T04:17:13Z,abstractnote,0.1.0,Laurent-Philippe Albou <contact@abstractcore.ai>,MIT,456407,"AbstractNote: one endpoint for your notes; a temporal semantic knowledge graph of your life, built on AbstractGateway, AbstractRuntime and AbstractMemory"
