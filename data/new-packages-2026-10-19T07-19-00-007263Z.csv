@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T06:24:02Z,linreg-rabia,1.0.0,rabia,MIT,6075,Simple linear regression from scratch (gradient descent)
+2026-10-19T06:24:34Z,xontrib-bluray,2026.6.14,uninstall-your-browser,MIT,34544,Upgrade from cd to bluray
+2026-10-19T06:29:28Z,presidium-imagestudio,0.3.10,"Ratul Roy (royal-programmer), Presidium",Apache-2.0,6089926,"Free, local, permissively licensed image MCP server. Quality is a setting, never a consequence."
+2026-10-19T06:31:46Z,custovox-emotion,1.0.0,Jérémie Muselet <jeremie@custovox.ai>,MIT,7229,"6-emotion detection MCP server for customer text. Joy, anger, fear, sadness, surprise, disgust. By custovox.ai"
+2026-10-19T06:33:43Z,nirfmxcdma2k,26.8.0,NI,MIT,214059,Python APIs for interacting with RFmx CDMA2k Product
+2026-10-19T06:33:46Z,nirfmxgsm,26.8.0,NI,MIT,143072,Python APIs for interacting with RFmx GSM Product
+2026-10-19T06:33:48Z,nirfmxtdscdma,26.8.0,NI,MIT,222807,Python APIs for interacting with RFmx TDSCDMA Product
+2026-10-19T06:33:52Z,nirfmxwcdma,26.8.0,NI,MIT,260267,Python APIs for interacting with RFmx WCDMA Product
+2026-10-19T06:34:26Z,viewer4a1,0.2.0,,GPL-3.0-only,351360,Viewer and analysis tool for beamline 4A1 scan data and ARPES spectra
+2026-10-19T06:35:20Z,azure-mgmt-aiinfraoptimization,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3320,This package will be released in the near future. Stay tuned!
+2026-10-19T06:38:08Z,fanar-mcp,0.1.0,Blade Labs,Apache-2.0,32625,"MCP server for Fanar, QCRI's Arabic-centric AI platform: chat, cited Islamic Q&A, Qur'an and hadith quotation checks, deep research, translation, speech and images."
+2026-10-19T06:40:28Z,tdxadjustckz,1.0.0,qiuxiaoying <qiuxiaoying@foxmail.com>,MIT,31195,TDX 复权因子计算：C 扩展 + 纯 Python（numpy）双实现
+2026-10-19T06:42:26Z,procproxy,0.1.0,Longersking,MIT,346897,ProcProxy —— 进程级代理：按进程决定哪条连接走哪个上游代理
+2026-10-19T06:43:29Z,pytest-telescope,0.1.0a1,,MIT,80857,Declared inputs. Isolated tests. Focused reruns.
+2026-10-19T06:44:57Z,runback-sdk,0.1.0,Runback <contact@runback.dev>,MIT,301697,"Capture, replay, and audit every AI agent decision — native LangGraph capture, plus a standalone collector/redactor usable from any Python agent framework."
+2026-10-19T06:44:58Z,xdm1000-py,0.2.6,Kengo NAKADA <kengo.nakada@email.com>,,85889,xdm1000 (using SCPI)
+2026-10-19T06:45:33Z,rulestamp-eudi-rp-request-lint,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35665,Nine rules that read the JSON your service sends to an EU Digital Identity Wallet (bundled Node.js runtime)
+2026-10-19T06:46:50Z,malscore,0.1.1,raj3shp,Apache-2.0,138768,Score the maliciousness of a Linux command or a session of commands (0-100) with MITRE ATT&CK mapping. Never executes its input.
+2026-10-19T06:47:00Z,primerouter,0.1.0,,Apache-2.0,2131,PrimeRouter Python integration package (initial development release)
+2026-10-19T06:48:04Z,kairoscope,0.1.0.dev0,,,95456,"Decide which frames, at what resolution, a vision model actually needs to see."
+2026-10-19T06:53:52Z,syncfleet,0.7.0,SyncFleet Contributors,MIT,6567675,Python wrapper for the SyncFleet peer-to-peer edge database synchronization CLI
+2026-10-19T06:54:03Z,presidium-shapestudio,0.1.3,"Ratul Roy (royal-programmer), Hivemind",Apache-2.0,2252032,"Free, local image-to-3D studio and MCP server. Quality is a setting, never a consequence."
+2026-10-19T06:55:30Z,pydbtguard,2.2.0,Georgi Mullassery <mullassery@gmail.com>,Apache-2.0,466375,"Pre-deployment validation for dbt tests, entirely from local dbt artifacts."
+2026-10-19T06:57:22Z,yohou-mlflow,0.1.0a1,Guillaume Tauzin <gtauzin@stateful-y.io>,Apache-2.0,587805,An MLflow integration for saving and serving Yohou forecasters
+2026-10-19T07:02:15Z,ceps-api,0.1.0,Frantis3k,MIT,129717,"Unofficial Python client for the ČEPS (Czech TSO) data web service, returning pandas DataFrames."
+2026-10-19T07:06:40Z,prosentriq-sdk,2.0.0rc2,,Apache-2.0,68341,"Prosentriq Sensor SDK: send canonical (OCSF-aligned) events, receive directives, and run the Prosentriq sensors."
+2026-10-19T07:06:41Z,odoo-addon-account-statement-import-generate-unique-id,18.0.1.0.0.1,"MT Software, Odoo Community Association (OCA)",LGPL-3,30339,Generate a unique import ID for statement lines without one
+2026-10-19T07:08:19Z,huri-module-tts,0.1.0,,,28000,"HuRI modules: text to speech with Piper (CPU, any machine) or CosyVoice3 (voice cloning, NVIDIA GPU)"
+2026-10-19T07:08:22Z,huri-module-mov,0.1.0,,,35816,"HuRI module: Co-speech gestures (EMAGE): speech audio in, SMPL-X motion out"
+2026-10-19T07:08:25Z,huri-modules,0.1.1,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",67198,"HuRI's curated modules: pick them with extras, e.g. huri-modules[vad,stt,tts]"
+2026-10-19T07:08:26Z,mcp-glp-audit-proxy,0.1.0,Antonio Castellon <antonio@castellon.ch>,MIT,127735,Local MCP proxy that writes a tamper-evident audit trail. Designed to support GLP traceability.
+2026-10-19T07:08:28Z,huri-cli,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",91243,"huri-cli: the reference command-line client of HuRI, built on its client SDK"
+2026-10-19T07:08:46Z,ansilogs,1.1.0,doronz88 <doron88@gmail.com>,"MIT License Copyright (c) 2026 doronz88 Permission is hereby granted, free of charge, to any person…",18364,"Colored, single-line log output for command-line tools: a dependency-free coloredlogs.install() replacement"
+2026-10-19T07:08:52Z,monsieur-cuisine-cli,0.0.2,Filipe Pina <shelf-corncob-said@duck.com>,,34539,CLI for managing recipes in a monsieur-cuisine.com account
+2026-10-19T07:10:00Z,PedNet,2.0.0,Nick Taylor,MIT,199321,"Pedigrees as graphs: their structure, kinship and loops, the pattern of affected people, the mode of inheritance, and the co-segregation of candidate variants"
+2026-10-19T07:13:01Z,ztestoctop,10.0.0,octop contributors,MIT,35612343,"Smarter self-hosted AI assistant for multiple users and agents, built on octop-harness"
+2026-10-19T07:13:53Z,nouc-studio,0.1.0rc1,Nouc Studio Contributors,Apache-2.0,525325,"Nouc Studio: Self-evolving multi-agent system using Marimo & Monty sandboxes to build auditable, explainable, multi-view Marimo Studio applications from multimodal inputs."
+2026-10-19T07:14:01Z,tetrak-authority,0.1.0,"Stephen Masters, Yvette Mankerian",MIT,205545,"A name authority from a dated Wikidata snapshot: variant names in every language, fold keys for retrieval and the VIAF, GND, ISNI and GeoNames identifiers, for catalogue search across scripts"
+2026-10-19T07:18:12Z,seventeen,1.0.0,,MIT,9339,AutoTyper + AI Screen Answer Tool — type clipboard text and get AI answers from your screen

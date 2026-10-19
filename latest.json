@@ -1,19 +1,19 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-10-19T05:20:03.271439Z",
-    "path": "data/new-packages-2026-10-19T06-20-00-478516Z.csv",
-    "to": "2026-10-19T06:20:00.478516Z"
+    "count": 39,
+    "from": "2026-10-19T06:20:00.478516Z",
+    "path": "data/new-packages-2026-10-19T07-19-00-007263Z.csv",
+    "to": "2026-10-19T07:19:00.007263Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-19T02:23:25Z",
-      "package": "bbox-visualiser",
-      "since": "2026-10-19T02:20:54.739516Z"
+      "attempts": 1,
+      "created_at": "2026-10-19T06:56:02Z",
+      "package": "yapper.py",
+      "since": "2026-10-19T06:20:00.478516Z"
     }
   ],
-  "serial": 42425465,
+  "serial": 42427182,
   "source_truncated": false,
-  "window": "2026-10-19T06:20:00.478516Z"
+  "window": "2026-10-19T07:19:00.007263Z"
 }
