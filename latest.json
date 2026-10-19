@@ -1,19 +1,31 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-10-19T08:19:50.988606Z",
-    "path": "data/new-packages-2026-10-19T09-18-58-895245Z.csv",
-    "to": "2026-10-19T09:18:58.895245Z"
+    "count": 45,
+    "from": "2026-10-19T09:18:58.895245Z",
+    "path": "data/new-packages-2026-10-19T10-21-32-467006Z.csv",
+    "to": "2026-10-19T10:21:32.467006Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-19T10:08:59Z",
+      "package": "firebird-admin",
+      "since": "2026-10-19T09:18:58.895245Z"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-19T09:36:20Z",
+      "package": "firebirdadmin",
+      "since": "2026-10-19T09:18:58.895245Z"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-19T06:56:02Z",
       "package": "yapper.py",
       "since": "2026-10-19T06:20:00.478516Z"
     }
   ],
-  "serial": 42432040,
+  "serial": 42434582,
   "source_truncated": false,
-  "window": "2026-10-19T09:18:58.895245Z"
+  "window": "2026-10-19T10:21:32.467006Z"
 }

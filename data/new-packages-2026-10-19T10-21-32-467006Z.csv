@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T09:20:16Z,rocket-seds-larefibrahim,0.0.0,Laref Ibrahim,LICENSE.txt,6599,A tiny rocket simulation package (SEDS Lab 3)
+2026-10-19T09:21:29Z,rocket-hameya,1.0.1,Mohamed,LICENSE.txt,3273,a rocket package
+2026-10-19T09:24:01Z,douyin-parse,0.1.1,,MIT,296954,抖音链接 → 文案 / 画面文字 / 可靠性分析
+2026-10-19T09:24:34Z,brbank,0.0.1,KMEE <info@kmee.com.br>,MIT,174827,"Cobranca bancaria unificada (boleto e Pix) para bancos brasileiros, independente do Odoo"
+2026-10-19T09:24:54Z,rocket-nefaycal-ne,1.0.0,nemouchi faycal,LICENSE.txt,4563,"Rocket, Shuttle and CircleRocket classes"
+2026-10-19T09:25:30Z,aneschrrocket,1.0.0,Anes Cheriet,LICENSE.txt,5975,A simple rocket simulation package
+2026-10-19T09:28:26Z,aandd-reader,0.2.15,Kengo NAKADA <kengo.nakada@email.com>,,68737,aandd_reader
+2026-10-19T09:29:43Z,falcosense,0.1.0,Markus Becker,Apache-2.0,30302,Async client for the Tridonic FalcoSENSE occupancy sensor REST and MQTT APIs
+2026-10-19T09:30:14Z,motulator-gradnet,0.1.0,Marko Hinkkanen <marko.hinkkanen@aalto.fi>,MIT,2922976,Training of gradient-network magnetic models of synchronous machines for motulator
+2026-10-19T09:32:56Z,mjcf-doctor,0.2.1,ericzhubonnie-glitch,MIT,80989,"Catch the MuJoCo model errors the engine accepts silently — it loads, it renders, and it is still wrong"
+2026-10-19T09:34:19Z,phyelds-mesa,8.1.0,Davide Domini,Apache-2.0,6890,Mesa integration for phyelds: aggregate programs on the agents of a Mesa model
+2026-10-19T09:35:11Z,simple-module-api-tokens,0.0.37,Anto Subash <antosubash@live.com>,MIT,71842,Personal access tokens and service API keys for simple_module
+2026-10-19T09:35:34Z,lifedb,0.1.0,,"MIT License Copyright (c) 2026 LifeDB contributors Permission is hereby granted, free of charge, to…",33241,"Local-first personal timeline DB — locations, photos, workouts, sleep on one time axis. Your data never leaves your machine."
+2026-10-19T09:36:49Z,ffdata,0.2.1,,,38138,ffdata lightweight Python client for governed financial-data APIs
+2026-10-19T09:39:29Z,mkdocs-external-code,0.1.0,,MIT,19057,MkDocs plugin: the @code: directive fetches file content from a GitHub org via the API
+2026-10-19T09:42:39Z,gopromotional-event-planner,1.0.1,GoPromotional,MIT,14959,"Event countdown, planning timeline, giveaway quantities and print order-by dates."
+2026-10-19T09:42:44Z,gopromotional-siplog,1.0.1,GoPromotional,MIT,15863,Daily water goal estimate and a simple hydration log with streaks.
+2026-10-19T09:42:48Z,gopromotional-packlist,1.0.1,GoPromotional,MIT,15953,"Packing checklists with templates, per-night quantities and a Markdown format."
+2026-10-19T09:42:53Z,gopromotional-mugday,1.0.1,GoPromotional,MIT,18616,"Caffeine tracker with half-life estimate, sleep-ready time and reusable-cup stats."
+2026-10-19T09:43:20Z,labpilot,0.1.0,Damien Jaccoud,,178644,Automatic measurement interface for experiments
+2026-10-19T09:44:12Z,element-51,0.0.1,jmdm,Apache-2.0,2587,"Placeholder. A Python library for browser node-editor GUIs, with a Rust/WASM canvas. Work in progress."
+2026-10-19T09:44:45Z,infinite-daw,0.6.0,Naman Soni,MIT,15939,Python interface for Infinite: real-time modular audiovisual workstation by Naman Soni
+2026-10-19T09:46:11Z,rocketAY,1.0.0,Ali Younes,LICENSE.txt,2633,An awesome package that does nothing just taking space
+2026-10-19T09:48:05Z,pymupdf-lite,2.0,Artifex,Dual Licensed - GNU AFFERO GPL 3.0 or Artifex Commercial License,228504340,"A high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents."
+2026-10-19T09:50:44Z,wazzapo,0.1.0,TOO OPENSKY CORPORATION <info@wazzapo.kz>,MIT,278366,"Официальный Python SDK для API v2 Wazzapo: WhatsApp, контакты, сделки, вебхуки"
+2026-10-19T09:51:56Z,phasor-trader,0.1.0,,Apache-2.0,8414789,"A vectorized backtesting engine, in Rust"
+2026-10-19T09:52:08Z,pymupdf-office,2.0,Artifex,Commercial license. See artifex.com for details.,29264408,"Commercial extensions for PyMuPDF; enables Office document handling, including doc, docx, hwp, hwpx, ppt, pptx, xls, xls, and others. Supports text and table extraction, document conversion and more."
+2026-10-19T09:53:40Z,rocket-ibr,1.0.0,Brahmi Ilyes,LICENSE.txt,5404,"An awesome package that includes rocket, shuttle and circleRocket classes."
+2026-10-19T09:56:14Z,krmaazha-binance-mcp,1.2.2,Alejandro Exequiel Hernández Lara,MIT,16897193,"MCP server for Binance: read market data, analyze, and propose real-money spot trades behind a human-gated confirmer — plus an offline USD-M futures research engine. The model never holds a trade key."
+2026-10-19T09:58:20Z,seds-rocket-aamasouazene,1.0.0,Ouazene,MIT,6136,Rocket and shuttle models for SEDS Lab 3
+2026-10-19T09:58:21Z,seds-regression-aamasouazene,1.0.0,Ouazene,MIT,6473,Simple linear regression for SEDS Lab 3
+2026-10-19T09:59:29Z,uptime-agent,0.1.0,UptimeAgent,MIT,105947,"Ship the errors your Python app already logs to UptimeAgent, so incidents arrive with your own error lines attached. Evidence only, never a vote on uptime. Zero dependencies."
+2026-10-19T09:59:57Z,rocket-ich,0.1.0,,,5062,A Python package for modeling rockets
+2026-10-19T10:01:44Z,rocket-seds-esi-abdeslam,1.0.0,,LICENSE.txt,3603,Rocket package for SEDS Lab
+2026-10-19T10:03:51Z,objectbox-clib,5.3.2,ObjectBox,ObjectBox Binary License (https://objectbox.io/0209-ob-binary-license/),4984150,ObjectBox C library (native binary) for the objectbox Python package
+2026-10-19T10:07:36Z,objectbox-sync-clib,5.3.2,ObjectBox,ObjectBox Binary License (https://objectbox.io/0209-ob-binary-license/),9977051,"ObjectBox C library (native binary, Sync variant) for the objectbox Python package"
+2026-10-19T10:07:52Z,objectbox-api,5.0.0,ObjectBox,Apache 2.0,103110,ObjectBox Python API (without the C library; install objectbox or objectbox-sync)
+2026-10-19T10:08:01Z,objectbox-sync,5.0.0,ObjectBox,Apache 2.0,5980,"ObjectBox is a superfast lightweight database for objects, with Sync"
+2026-10-19T10:10:18Z,odoo-addon-barcode-camera,18.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,29216,Scan barcodes with the device camera in the Barcode app
+2026-10-19T10:11:03Z,ledgerchain,0.1.0,Mike Pointer <mpointer@gmail.com>,MIT,53689,"Hash-chained, tamper-evident decision ledger on SQLAlchemy: append-only rows, Merkle checkpoints, external anchoring, and a verifier that recomputes everything."
+2026-10-19T10:11:27Z,meetily,0.0.1,Zackriya Solutions,MIT,3923,"Name held by Zackriya Solutions. Meetily is a desktop app, not a Python package: get it at https://meetily.ai/downloads"
+2026-10-19T10:15:52Z,just-go,0.1.0,,,77859,Web 自动化测试框架：框架与测试代码分离，一条命令指定测试项目执行自动化测试并产出报告
+2026-10-19T10:17:25Z,dna-design-suite,0.1.0,,Apache-2.0,10041355,DNA Design Suite: a codon optimization tool and a primer design tool
+2026-10-19T10:19:19Z,unhoard,0.1.0,vicennial,Apache-2.0,447380,"Your X bookmarks aren't a graveyard anymore: your agent reads each one, works out why you saved it, and writes a task you start with one click."
+2026-10-19T10:19:59Z,vid2anim,0.1.1,vid2anim contributors,MIT,237002,Animate any 3D character model from video or photos using AI motion capture and universal retargeting.
