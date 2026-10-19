@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T17:41:17Z,zerodock,0.1.1,ZeroDock Contributors,MIT,37899,"Zero-dependency, ultra-lightweight local execution engine for serverless cloud architectures."
+2026-10-19T18:19:26Z,odoo-safe-mcp,2.0.0,Odoo Safe MCP,MIT,34662,Deterministic AI Firewall and Model Context Protocol (MCP) Server for Odoo ERP with Human-in-the-Loop approvals.
+2026-10-19T18:19:27Z,thinkerwave,0.1.1,,Apache-2.0,32031,"Python SDK, CLI and MCP server for ThinkerWave — an autonomous research agent that shows its evidence."
+2026-10-19T18:19:52Z,pydlms-client,0.1.0,f0rw4rd,GPL-3.0-only,1290239,"DLMS/COSEM client library for Python (IEC 62056), with construct-based packet definitions"
+2026-10-19T18:19:57Z,database-utils,0.1.0a2,Javier Valero Cejudo,MIT,13903,"Lightweight, extensible Python database utilities. Less boilerplate, same control."
+2026-10-19T18:20:41Z,open-repair-record,1.0.0,Dmytro Rybka,MIT,32808,"Read, validate and check Open Repair Record 1.0 files: what a completed repair actually means."
+2026-10-19T18:20:46Z,balivegas-sdk,1.0.0,BALIVEGAS Official <info@balivegas.co.id>,MIT,12198,"BALIVEGAS Official Python SDK & Portal Tool 2026. Panduan akses link alternatif balivegas, login balivegas, dan daftar bali vegas resmi."
+2026-10-19T18:21:10Z,verblijfkosten,0.1.0.post1,Quinten Cabo <q.m.j.cabo@liacs.leidenuniv.nl>,MIT,994391,"Easiliy calculate the optimal number of dinners, lunches, breakfast and hours you need to declare to get your verblijfkosten back."
+2026-10-19T18:23:07Z,kiban-workfloo,1.0.0,kiban,Apache-2.0,229688,Workfloo API
+2026-10-19T18:24:17Z,agentic-dev-loop,0.3.0,Luke Wilson,Apache-2.0,153289,Opinionated LangGraph engine for OpenHands agent pipelines
+2026-10-19T18:24:28Z,factag,0.1.0,FAG contributors,Apache-2.0,30081,Fact-Augmented Generation (FAG) — RAG-shaped load → split → extract → normalize → store → assemble pipeline for verified facts. Pure standard library.
+2026-10-19T18:24:42Z,lexdays,0.1.0,DoGood-Studio,MIT,244659,Explainable legal deadline and business-day calculator. Every result cites the rule it applied. Zero dependencies.
+2026-10-19T18:28:38Z,thinkerwave-mcp,0.1.1,,Apache-2.0,3847,"MCP server for ThinkerWave — give Claude Code, Cursor or any MCP client an autonomous research agent that shows its evidence."
+2026-10-19T18:29:12Z,dokimi,0.1.0,Intel Corporation,Apache-2.0,2134951,"Measures whether a skill, MCP doc source, documentation set or agent profile actually improves AI-agent answers and task outcomes"
+2026-10-19T18:29:17Z,capacity-governor,0.1.0,0cherednoq,MIT,152916,"Capacity allocation and replenishment policies for scarce resources: max-min fair sharing, sequential drain and (s, S) reordering."
+2026-10-19T18:32:20Z,odoo-code-radar,0.1.0,niyasraphy <niyasraphyk@gmail.com>,MIT,86715,"Protect your paid Odoo apps and intellectual property: find copies in public GitHub repositories, with a ready DMCA draft for each leak."
+2026-10-19T18:34:25Z,cpncheck,0.2.1,GrupoCybersegurancaVirtus,MIT,438096,"Model checking for Coloured Petri Nets, cross-checked against CPN Tools"
+2026-10-19T18:37:18Z,nonlineum-theo,1.0.0rc3,Nonlineum Labs,MIT,99296,Python client for the Theo wastewater treatment plant simulator engine
+2026-10-19T18:38:54Z,mojolearn-nvidia-ptx,0.8.53,Andrew Hendel,Apache-2.0,67529116,NVIDIA PTX GPU binaries for mojolearn 0.8.53 (sm_80); installed by pip install mojolearn
+2026-10-19T18:39:43Z,expose-api,0.1.0,ellainng,,35322,Standalone typed dataclass applications with native ASGI and generated JSON CRUD.
+2026-10-19T18:39:43Z,memcore-omnix,2.2.0,P Choke & MIKA,MIT,283762,"Governed, bitemporal, local-first memory engine for autonomous AI agent fleets"
+2026-10-19T18:40:09Z,qrstyle,1.0.0,nessshon,MIT,21240,"Styled QR codes with a logo: rounded, square or dots, PNG or WEBP, sync and async."
+2026-10-19T18:40:36Z,skill-proof-router,1.3.0,P Choke & MIKA,MIT,253496,"Deterministic, offline skill router and global skill vault for autonomous AI fleets"
+2026-10-19T18:40:49Z,testo-core,1.1.1,Taltal <ttlgptinc@gmail.com>,MIT,477588,"Run your whole test cycle (pytest, Behave, BehaveX or any JUnit-writing command) from one YAML file, then see what changed since the last run."
+2026-10-19T18:40:53Z,kopi-kopi,1.0.0,Sethumadhavan N,"MIT License Copyright (c) 2026 Sethumadhavan N Permission is hereby granted, free of charge, to any…",44417,"Copy and paste with your trackpad or mouse: three-finger tap or wheel click, tap the start, tap the end, and paste."
+2026-10-19T18:44:11Z,shellnode,0.1.0,madgagarin,Apache-2.0,3771,Distributed execution and worker node engine for Shellspirit
+2026-10-19T18:44:12Z,shellspirit,0.1.0,madgagarin,Apache-2.0,3779,Core runtime and orchestration framework for Shellspirit
+2026-10-19T18:44:13Z,tachinode,0.1.0,madgagarin,Apache-2.0,3772,High-performance consensus and coordination node for Shellspirit
+2026-10-19T18:46:31Z,hoshimi,0.1.0,variante,GPL-3.0-only,1296657,"An OpenAI-compatible gateway in front of the free model stations (Cline, TRAE, ZCode, Qoder, MiniMax, Gemini, CodeBuddy, ...)"
+2026-10-19T18:49:57Z,baton-handoff,1.5.2,Gonçalo Faria,MIT,133151,"A file-based, append-only coordination board for AI agents building software together"
+2026-10-19T18:50:46Z,lipidens,1.2.0,T. Bertie Ansell et al.,"MIT License Copyright (c) 2021 TBGAnsell Permission is hereby granted, free of charge, to any perso…",3141951,Simulation-assisted interpretation of lipid densities in cryo-EM structures
+2026-10-19T18:52:02Z,open-altio,1.0.0,Altio AI,Apache-2.0,2382782,"FDA's adverse event reports (FAERS), cleaned and deduplicated in the open: the pipeline that builds a release and the explorer that reads it"
+2026-10-19T18:52:16Z,xirt-torch,2.0.0,Sven Giese <sven.giese@hpi.de>,Apache-2.0,1140423,Multi-dimensional retention time prediction for linear and crosslinked peptides
+2026-10-19T18:52:18Z,viqi-reporting-kit,0.8.2.1,Dmitry Fedorov <dima@viqiai.com>,,26993,ViQi Reporting Kit
+2026-10-19T18:53:05Z,caeli-data,0.1.0,"""Caeli B.V."" <tim@caeli.nl>",Proprietary. Copyright Caeli B.V. The library is free to install; the data repository it talks to n…,22076,"Python client of the Caeli data repository API (data.caeli.space): load tables, publish rasters, read the catalogue"
+2026-10-19T18:55:19Z,niyoos,0.1.0,Niyoos <support@niyoos.com>,Apache-2.0,29143,"Beta — run labelling for the Niyoos proxy: wraps your own OpenAI client so every call carries its run id, step and parent run."
+2026-10-19T18:59:05Z,keyguard-sdk,0.1.0,KeyGuard,MIT,36846,"Official Python SDK for KeyGuard license verification (verify, hardware fingerprint, offline license files)"
+2026-10-19T18:59:29Z,daggydata,0.1.0,Daggy,MIT,18886,"Upload datasets to Daggy with an API key: one file, several, or a hive-partitioned folder, up to 25 GB."
+2026-10-19T18:59:36Z,contambench,0.1.0,"Arman Chhetri <ac7240@rit.edu>, Yinxi Liu <yxlics@rit.edu>",Apache-2.0,141781,"Stressor suites, labeled contaminated workloads, and reference measurements for testing LLM serving"
+2026-10-19T19:04:12Z,agent-causality,0.2.0,,AGPL-3.0-or-later,898861,Causal capture SDK for branching multi-agent systems
+2026-10-19T19:07:24Z,jatszoter-api,0.1.0,,MIT,146764,"Control plane for jatszoter: agents, scenarios, deployments, links and recordings"
+2026-10-19T19:08:10Z,trimtok,4.1.0,P Choke & SORA,MIT,158056,"Deterministic, lossless-retrievable context compression for autonomous AI agents and MCP clients"
+2026-10-19T19:08:23Z,heartofgold,0.1.0,Daniel Takacs,MIT,1797884,"A small self-hosted kanban board shared by humans and AI agents, with REST and MCP access."
+2026-10-19T19:08:35Z,aimarket-oracle-gauss,0.1.0,,,24398,Gauss — Gaussian-Process regression (posterior uncertainty + Expected-Improvement) oracle on oracle-core
+2026-10-19T19:09:13Z,soft-computing-library,1.1.1,andhrew,MIT,14662,Soft Computing Library
+2026-10-19T19:09:34Z,jatszoter-web,0.1.0,,MIT,684780,Operator and trainee UI for jatszoter
+2026-10-19T19:10:05Z,atlas-geo,0.1.0,,"MIT License Copyright (c) 2026 Alejandro Zárate Permission is hereby granted, free of charge, to an…",169303,Publish PostGIS layers over WMS and WFS from a FastAPI application
+2026-10-19T19:10:07Z,osasy-unique-distributions-pkg,0.1.0,Agidigbi Osarodion Stephen,,5017,
+2026-10-19T19:11:57Z,atlys,0.1.0,adiprmx,MIT,20470,"Python SDK for the Atlys API — 100,000 Indonesian public-data endpoints"
+2026-10-19T19:12:40Z,datasynq,0.1.0,Matteo Pompili,,2026,Placeholder for upcoming package
+2026-10-19T19:13:26Z,yapify,0.0.1a1,Yapify Contributors,Apache-2.0,288372,Framework-agnostic streaming voice pipeline for AI agents
+2026-10-19T19:15:01Z,moxdl,1.4,Patrick Der Avakians,MIT,62746,"Fast, resumable, multi-connection downloads in the terminal"
+2026-10-19T19:18:21Z,craft-dashboard,0.1.0,Callahan Kovacs <callahan.kovacs@canonical.com>,LGPL-3.0-only,1331441,"Dashboard, insights, and issue triage for *craft applications and libraries."
+2026-10-19T19:18:33Z,beeai-spraay-tool,0.1.0,Plagtech,Apache-2.0,25854,Spraay Protocol batch payment tool for BeeAI agents — USDC batch payments on Base via the x402 gateway
+2026-10-19T19:18:49Z,honest-backtester,0.1.0,rohanKraghu,MIT,348868,An event-driven backtester that measures how much each common backtest shortcut inflates a strategy's Sharpe ratio.

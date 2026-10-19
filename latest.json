@@ -1,31 +1,25 @@
 {
   "list": {
-    "count": 25,
-    "from": "2026-10-19T17:21:49.875914Z",
-    "path": "data/new-packages-2026-10-19T18-18-59-860898Z.csv",
-    "to": "2026-10-19T18:18:59.860898Z"
+    "count": 55,
+    "from": "2026-10-19T18:18:59.860898Z",
+    "path": "data/new-packages-2026-10-19T19-20-00-73786Z.csv",
+    "to": "2026-10-19T19:20:00.73786Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-19T16:17:18Z",
       "package": "n24q02m-hull",
       "since": "2026-10-19T15:18:59.385498Z"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-19T15:32:10Z",
       "package": "vinted-mocked-apis",
       "since": "2026-10-19T15:18:59.385498Z"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-19T17:41:17Z",
-      "package": "zerodock",
-      "since": "2026-10-19T17:21:49.875914Z"
     }
   ],
-  "serial": 42451831,
+  "serial": 42453962,
   "source_truncated": false,
-  "window": "2026-10-19T18:18:59.860898Z"
+  "window": "2026-10-19T19:20:00.73786Z"
 }
