@@ -8,45 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 00:19 UTC
+## Latest list — 2026-10-19 01:20 UTC
 
-New packages created between 2026-10-18 23:18 UTC and 2026-10-19 00:19 UTC.
+New packages created between 2026-10-19 00:19 UTC and 2026-10-19 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-19T00-19-47-780047Z.csv)
+[Full CSV](data/new-packages-2026-10-19T01-20-13-481978Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-18 23:20:11 | [prompt-pivot](https://pypi.org/project/prompt-pivot/) | 0.1.2 | Lasitha Jayawardana | 105.1 kB | Store, version, edit and publish LLM prompts at runtime from inside your FastAP… |
-| 2026-10-18 23:21:44 | [specbook-fastapi](https://pypi.org/project/specbook-fastapi/) | 0.1.0 | Ajai Shankar | 69.7 kB | Serve the Specbook API viewer from a FastAPI app |
-| 2026-10-18 23:24:22 | [loggerai-sdk](https://pypi.org/project/loggerai-sdk/) | 0.1.1 | LoggerAI <dev@loggerai.uk> | 40.8 kB | LoggerAI for Python: performance monitoring, errors, logs and health checks for… |
-| 2026-10-18 23:25:47 | [daily-news-mcp](https://pypi.org/project/daily-news-mcp/) | 0.1.2 | Vinay Kumar Godavarti | 433.2 kB | MCP server exposing the Daily News engine (fetch, curate, rewrite AI/news) as t… |
-| 2026-10-18 23:28:13 | [imagegeneration](https://pypi.org/project/imagegeneration/) | 0.1.0 | TalhaZunair | 28.9 kB | Automated single and high-throughput batch image generation client via Gemini w… |
-| 2026-10-18 23:28:26 | [pw-foundation](https://pypi.org/project/pw-foundation/) | 1.0.0 | Mike Farr | 273.5 kB | Dependency-light Python foundation: structured logging, an exception hierarchy,… |
-| 2026-10-18 23:43:55 | [rocket-seds-msi01](https://pypi.org/project/rocket-seds-msi01/) | 1.0.0 | Your Name | 5.9 kB | Rocket, Shuttle and CircleRocket classes |
-| 2026-10-18 23:46:29 | [django-data-observer](https://pypi.org/project/django-data-observer/) | 0.0.1 | Saranya Balasubramanian <sara… | 68.4 kB | Data observer package for Django projects |
-| 2026-10-18 23:47:16 | [dumpsterpanda](https://pypi.org/project/dumpsterpanda/) | 0.0.2 | yla382 | 10.8 kB | Run models bigger than your GPU: layer-by-layer weight streaming across GPU, RA… |
-| 2026-10-18 23:47:46 | [pybricks-core](https://pypi.org/project/pybricks-core/) | 1.0.0b1 | The Pybricks Authors | 90.5 kB | Shared protocol, IPC transport and logging for the Pybricks tools |
-| 2026-10-18 23:48:27 | [n10w02](https://pypi.org/project/n10w02/) | 0.0.5 | Kengo NAKADA <kengo.nakada@em… | 32.5 kB | cannon n10w02 camera |
-| 2026-10-18 23:54:30 | [uvunwrap](https://pypi.org/project/uvunwrap/) | 0.2.0 |  | 4.9 MB | Fast automatic UV unwrapping and atlas packing for lightmaps and baking, writte… |
-| 2026-10-18 23:55:17 | [lunar-toolkit](https://pypi.org/project/lunar-toolkit/) | 0.1.0.dev2 |  | 625.7 kB | Find, download and process lunar orbital imagery (LROC, ShadowCam, Kaguya TC) a… |
-| 2026-10-18 23:55:48 | [meta-thinking](https://pypi.org/project/meta-thinking/) | 0.0.1 | Machina Ratiocinatrix <machin… | 6.1 kB | Package description |
-| 2026-10-18 23:56:12 | [elytra-mcp](https://pypi.org/project/elytra-mcp/) | 0.4.0a1 | Yosef Shammout | 472.7 kB | Local guardrails for coding agents: check what Claude Code, Codex, Grok and Ant… |
-| 2026-10-18 23:58:10 | [pybricks-client](https://pypi.org/project/pybricks-client/) | 1.0.0b1 | The Pybricks Authors | 48.3 kB | Client library for the Pybricks service |
-| 2026-10-19 00:01:04 | [asteroidpipeline](https://pypi.org/project/asteroidpipeline/) | 0.2.1 | Alejandro | 306.4 kB | Find moving objects in astronomical image sets, check them, and write MPC repor… |
-| 2026-10-19 00:04:22 | [lowe](https://pypi.org/project/lowe/) | 0.1.0 | Lowe Tekam <lowetekam@gmail.c… | 740.8 kB | LOWE: an AI assistant and terminal coding agent built for developers in China |
-| 2026-10-19 00:04:37 | [shortleash](https://pypi.org/project/shortleash/) | 0.1.0 | Calas Automations Inc. | 54.4 kB | Circuit breaker for AI coding-agent runs. |
-| 2026-10-19 00:04:54 | [pr-verify](https://pypi.org/project/pr-verify/) | 0.1.0 | Calas Automations Inc. | 44.7 kB | Deterministic trust scoring for agent-authored PRs. |
-| 2026-10-19 00:05:08 | [adr-drift](https://pypi.org/project/adr-drift/) | 0.1.0 | Calas Automations Inc. | 42.6 kB | Deterministic architecture tests: keep the codebase honest about its own ADRs. |
-| 2026-10-19 00:05:24 | [standupguy](https://pypi.org/project/standupguy/) | 0.1.0 | Calas Automations Inc. | 36.8 kB | Local-first standup notes from git ground truth. |
-| 2026-10-19 00:05:45 | [pybricks-service](https://pypi.org/project/pybricks-service/) | 1.0.0b1 | The Pybricks Authors | 199.1 kB | The Pybricks service: manages hub connections |
-| 2026-10-19 00:08:20 | [tutorflow-content](https://pypi.org/project/tutorflow-content/) | 0.1.0 |  | 785.6 kB | Python client for the TutorFlow Content API: generated routes and models, retri… |
-| 2026-10-19 00:11:42 | [interlis2py](https://pypi.org/project/interlis2py/) | 0.1.0 | Clemens Rudert <rudert-geoinf… | 318.9 kB | Your pythonic gateway to INTERLIS |
-| 2026-10-19 00:14:07 | [genesets](https://pypi.org/project/genesets/) | 0.1.1 |  | 1.7 MB | Python bindings for genesets-rs: fast GO enrichment and Bayesian model-based ge… |
-| 2026-10-19 00:14:50 | [kosa8-maqpna](https://pypi.org/project/kosa8-maqpna/) | 0.1.0 | Kosa8 Labs <hello@maqpna.com> | 93.7 kB | Python SDK for agents running inside MAQPNA sandboxes: governed MCP tool calls… |
-| 2026-10-19 00:17:26 | [document-sanity](https://pypi.org/project/document-sanity/) | 0.2.2 | Chase Yakaboski | 1.1 MB | Build PDF (LaTeX), interactive HTML, and Word (.docx) documents from a single M… |
-| 2026-10-19 00:17:35 | [presentation-sanity](https://pypi.org/project/presentation-sanity/) | 0.4.3 | Chase Yakaboski | 3.1 MB | Build slides and blogs from a single manifest.yaml — one project, many presenta… |
-| 2026-10-19 00:18:07 | [setcookie](https://pypi.org/project/setcookie/) | 0.2.0 | Javier Lianes <javier@lianes8… | 56.6 kB | Parse, validate and safely build HTTP Set-Cookie headers, typed and zero-depend… |
-| 2026-10-19 00:18:22 | [authchallenge](https://pypi.org/project/authchallenge/) | 0.2.0 | Javier Lianes <javier@lianes8… | 56.9 kB | Parse, validate and safely build HTTP WWW-Authenticate, Authorization and Authe… |
-| 2026-10-19 00:18:37 | [chunkedte](https://pypi.org/project/chunkedte/) | 0.2.0 | Javier Lianes <javier@lianes8… | 47.6 kB | Strict, incremental, typed, zero-dependency codec for HTTP/1.1 chunked transfer… |
-| 2026-10-19 00:18:47 | [pm2cd](https://pypi.org/project/pm2cd/) | 0.1.1 | Kengo NAKADA <kengo.nakada@em… | 107.7 kB | tuji pm2cd |
-| 2026-10-19 00:18:51 | [hstsheader](https://pypi.org/project/hstsheader/) | 0.2.0 | Javier Lianes <javier@lianes8… | 53.7 kB | Parse, check and build the HTTP Strict-Transport-Security header, typed and zer… |
+| 2026-10-19 00:21:59 | [pybricks-cli](https://pypi.org/project/pybricks-cli/) | 1.0.0b1 | The Pybricks Authors | 148.9 kB | The Pybricks command line interface |
+| 2026-10-19 00:22:04 | [skolaonline](https://pypi.org/project/skolaonline/) | 0.1.0 | Pavel Knespl | 139.1 kB | Python library for the Škola OnLine API |
+| 2026-10-19 00:22:13 | [aidlc.bpmn-creator-mcp](https://pypi.org/project/aidlc.bpmn-creator-mcp/) | 1.0.0 |  | 8.8 kB | Connects an MCP client over stdio to the BPMN swimlane modelling workflow, host… |
+| 2026-10-19 00:27:54 | [provisa-notebook](https://pypi.org/project/provisa-notebook/) | 0.1.0a491 |  | 77.4 MB | Provisa's in-browser Python: a self-hosted Pyodide and the provisa-client wheel… |
+| 2026-10-19 00:30:00 | [notify-frame](https://pypi.org/project/notify-frame/) | 0.1.2 |  | 19.4 kB | Lightweight REST notification client/server for calculation scripts |
+| 2026-10-19 00:31:28 | [woyra](https://pypi.org/project/woyra/) | 0.1.0 | MINAC GROUP LLC | 27.7 kB | Official Python SDK for the Woyra email API. |
+| 2026-10-19 00:32:58 | [moth-companion](https://pypi.org/project/moth-companion/) | 0.3.1 |  | 992.0 kB | moth: a tiny local companion chatbot that thinks it's a moth, and keeps you com… |
+| 2026-10-19 00:33:07 | [acodo-framework](https://pypi.org/project/acodo-framework/) | 0.2.0 |  | 53.9 kB | Utilidades puras del framework Acodo: validación, conversión, parseo y logger. |
+| 2026-10-19 00:35:57 | [bestpred](https://pypi.org/project/bestpred/) | 0.2.1 |  | 1.6 MB | USDA's best prediction of dairy lactation yields and persistency (BESTPRED 2.0r… |
+| 2026-10-19 00:36:38 | [bestpred-mcp](https://pypi.org/project/bestpred-mcp/) | 0.2.1 |  | 26.9 kB | USDA's best prediction of dairy lactation yields (BESTPRED) as tools any AI age… |
+| 2026-10-19 00:37:00 | [texa](https://pypi.org/project/texa/) | 1.0.0 |  | 17.7 kB | Python SDK for the Texa API: Texa AI in your own app |
+| 2026-10-19 00:38:19 | [ai-cli-gateway](https://pypi.org/project/ai-cli-gateway/) | 1.1.0 | ningL32 | 47.6 kB | 统一 CLI 进程调用网关：全量日志落盘 + 回放 + 结构化返回——AI 调 CLI 的可观测层 |
+| 2026-10-19 00:43:31 | [astpp](https://pypi.org/project/astpp/) | 0.1.0 | f-fix | 23.7 kB | Self-Inlining Python Macro Preprocessor & Runtime Polyfill Library |
+| 2026-10-19 00:44:09 | [tadu](https://pypi.org/project/tadu/) | 0.1.0 |  | 136.4 kB | A repository backlog agents keep: TODO.md, TODO_LOG.md and a history index, wit… |
+| 2026-10-19 00:44:31 | [layrcake](https://pypi.org/project/layrcake/) | 0.1.0 | Layrcake | 183.4 kB | Official Python SDK for the Layrcake API. Go-to-market infrastructure for AI ag… |
+| 2026-10-19 00:45:22 | [acodo-cli](https://pypi.org/project/acodo-cli/) | 0.2.1 |  | 60.1 kB | CLI de desarrollo para proyectos Python: calidad, copias, API y GitHub App |
+| 2026-10-19 00:51:04 | [langchain-community-migrate](https://pypi.org/project/langchain-community-migrate/) | 0.1.0 | agent-one <rafal.baranowski.i… | 88.6 kB | Unofficial migration helper for the sunset langchain-community: finds every lan… |
+| 2026-10-19 00:51:14 | [lockdiff](https://pypi.org/project/lockdiff/) | 0.1.0 | agent-one <rafal.baranowski.i… | 11.4 kB | Human-readable summary of dependency changes between two lockfiles or git revis… |
+| 2026-10-19 00:52:01 | [openholler](https://pypi.org/project/openholler/) | 0.0.1 | OpenHoller project | 5.1 kB | OpenHoller - an open-source, self-hosted voice assistant appliance. Name reserv… |
+| 2026-10-19 00:52:17 | [pyramids-core](https://pypi.org/project/pyramids-core/) | 0.70.0 | Mostafa Farrag <moah.farag@gm… | 1572.5 MB | GIS utility package |
+| 2026-10-19 00:53:42 | [gethired](https://pypi.org/project/gethired/) | 0.1.0 |  | 291.9 kB | 내 이력서에 맞는 채용 공고만 모아 보여주는 로컬 앱 |
+| 2026-10-19 00:59:38 | [plumb-verify](https://pypi.org/project/plumb-verify/) | 0.1.0 | aliz | 377.4 kB | Execution-grounded research-integrity verifier: re-run a paper's own artifacts… |
+| 2026-10-19 01:06:15 | [reward-doctor](https://pypi.org/project/reward-doctor/) | 0.2.0 | junglezke | 91.5 kB | Find out what your RLVR reward function actually accepts. |
+| 2026-10-19 01:09:20 | [cuhc](https://pypi.org/project/cuhc/) | 0.1.0 | shangar21 | 406.1 kB | Exact hierarchical clustering and HDBSCAN on the GPU, with the scikit-learn and… |
+| 2026-10-19 01:15:07 | [papir-kindle](https://pypi.org/project/papir-kindle/) | 1.0 | "Benjamin M. Duivesteyn" <dui… | 47.9 kB | Beam reading material to your e-reader via API, with correct Author + Title. |
+| 2026-10-19 01:16:22 | [fontpkg-viga](https://pypi.org/project/fontpkg-viga/) | 1.1 |  | 22.6 kB | Viga font family, packaged for Python by fontpkg |
+| 2026-10-19 01:16:24 | [fontpkg-luckiest-guy](https://pypi.org/project/fontpkg-luckiest-guy/) | 1.1 |  | 51.2 kB | Luckiest Guy font family, packaged for Python by fontpkg |
+| 2026-10-19 01:16:26 | [fontpkg-cardo](https://pypi.org/project/fontpkg-cardo/) | 1.45 |  | 577.6 kB | Cardo font family, packaged for Python by fontpkg |
+| 2026-10-19 01:16:28 | [fontpkg-news-cycle](https://pypi.org/project/fontpkg-news-cycle/) | 0.510 |  | 119.2 kB | News Cycle font family, packaged for Python by fontpkg |
+| 2026-10-19 01:17:45 | [moss-image-mlx](https://pypi.org/project/moss-image-mlx/) | 0.1.0 | Felix Brener | 76.8 kB | MOSS-Image (OpenMOSS's 5B bilingual text-rendering DiT) on Apple Silicon with M… |
+| 2026-10-19 01:18:37 | [qrsig](https://pypi.org/project/qrsig/) | 0.1.0 | David Newman <david.r.newman@… | 43.8 kB | QRSIG1: human-verifiable signatures for agentic intelligences (reference implem… |
+| 2026-10-19 01:19:21 | [naiyue-test-agent](https://pypi.org/project/naiyue-test-agent/) | 0.1.0 | Naiyue Test Agent contributors | 19.4 MB | A local programming and testing agent with Web and terminal interfaces |

@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T00:21:59Z,pybricks-cli,1.0.0b1,The Pybricks Authors,MIT,148918,The Pybricks command line interface
+2026-10-19T00:22:04Z,skolaonline,0.1.0,Pavel Knespl,MIT,139077,Python library for the Škola OnLine API
+2026-10-19T00:22:13Z,aidlc.bpmn-creator-mcp,1.0.0,,,8760,"Connects an MCP client over stdio to the BPMN swimlane modelling workflow, hosted by the MSC Labs CoE."
+2026-10-19T00:27:54Z,provisa-notebook,0.1.0a491,,,77390224,"Provisa's in-browser Python: a self-hosted Pyodide and the provisa-client wheel, served by Provisa's UI"
+2026-10-19T00:30:00Z,notify-frame,0.1.2,,,19397,Lightweight REST notification client/server for calculation scripts
+2026-10-19T00:31:28Z,woyra,0.1.0,MINAC GROUP LLC,MIT,27749,Official Python SDK for the Woyra email API.
+2026-10-19T00:32:58Z,moth-companion,0.3.1,,Apache-2.0,991982,"moth: a tiny local companion chatbot that thinks it's a moth, and keeps you company while your coding agent works"
+2026-10-19T00:33:07Z,acodo-framework,0.2.0,,MIT,53896,"Utilidades puras del framework Acodo: validación, conversión, parseo y logger."
+2026-10-19T00:35:57Z,bestpred,0.2.1,,Apache-2.0,1590835,"USDA's best prediction of dairy lactation yields and persistency (BESTPRED 2.0rc7), ported to Python and checked against the original."
+2026-10-19T00:36:38Z,bestpred-mcp,0.2.1,,Apache-2.0,26879,"USDA's best prediction of dairy lactation yields (BESTPRED) as tools any AI agent can call: an MCP server for Claude, ChatGPT, Codex, Cursor, VS Code and Gemini CLI."
+2026-10-19T00:37:00Z,texa,1.0.0,,MIT,17685,Python SDK for the Texa API: Texa AI in your own app
+2026-10-19T00:38:19Z,ai-cli-gateway,1.1.0,ningL32,MIT,47582,统一 CLI 进程调用网关：全量日志落盘 + 回放 + 结构化返回——AI 调 CLI 的可观测层
+2026-10-19T00:43:31Z,astpp,0.1.0,f-fix,,23709,Self-Inlining Python Macro Preprocessor & Runtime Polyfill Library
+2026-10-19T00:44:09Z,tadu,0.1.0,,MIT,136403,"A repository backlog agents keep: TODO.md, TODO_LOG.md and a history index, with a checker and a rule updater"
+2026-10-19T00:44:31Z,layrcake,0.1.0,Layrcake,MIT,183437,Official Python SDK for the Layrcake API. Go-to-market infrastructure for AI agents.
+2026-10-19T00:45:22Z,acodo-cli,0.2.1,,MIT,60123,"CLI de desarrollo para proyectos Python: calidad, copias, API y GitHub App"
+2026-10-19T00:51:04Z,langchain-community-migrate,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,88557,"Unofficial migration helper for the sunset langchain-community: finds every langchain_community import, the standalone package that replaces it, rewrites 1:1 moves and vendors orphaned classes."
+2026-10-19T00:51:14Z,lockdiff,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,11370,"Human-readable summary of dependency changes between two lockfiles or git revisions (uv.lock, poetry.lock, Pipfile.lock, requirements.txt, package-lock.json). Stdlib only."
+2026-10-19T00:52:01Z,openholler,0.0.1,OpenHoller project,MIT,5098,"OpenHoller - an open-source, self-hosted voice assistant appliance. Name reservation while the first release is prepared."
+2026-10-19T00:52:17Z,pyramids-core,0.70.0,Mostafa Farrag <moah.farag@gmail.com>,GNU General Public License v3,1572535922,GIS utility package
+2026-10-19T00:53:42Z,gethired,0.1.0,,,291925,내 이력서에 맞는 채용 공고만 모아 보여주는 로컬 앱
+2026-10-19T00:59:38Z,plumb-verify,0.1.0,aliz,Apache-2.0,377403,"Execution-grounded research-integrity verifier: re-run a paper's own artifacts and return a per-claim, reproducible verdict"
+2026-10-19T01:06:15Z,reward-doctor,0.2.0,junglezke,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",91450,Find out what your RLVR reward function actually accepts.
+2026-10-19T01:09:20Z,cuhc,0.1.0,shangar21,MIT,406106,"Exact hierarchical clustering and HDBSCAN on the GPU, with the scikit-learn and scipy APIs"
+2026-10-19T01:15:07Z,papir-kindle,1.0,"""Benjamin M. Duivesteyn"" <duivesteyn@gmail.com>",MIT,47871,"Beam reading material to your e-reader via API, with correct Author + Title."
+2026-10-19T01:16:22Z,fontpkg-viga,1.1,,OFL-1.1,22575,"Viga font family, packaged for Python by fontpkg"
+2026-10-19T01:16:24Z,fontpkg-luckiest-guy,1.1,,Apache-2.0,51154,"Luckiest Guy font family, packaged for Python by fontpkg"
+2026-10-19T01:16:26Z,fontpkg-cardo,1.45,,OFL-1.1,577555,"Cardo font family, packaged for Python by fontpkg"
+2026-10-19T01:16:28Z,fontpkg-news-cycle,0.510,,OFL-1.1,119244,"News Cycle font family, packaged for Python by fontpkg"
+2026-10-19T01:17:45Z,moss-image-mlx,0.1.0,Felix Brener,Apache-2.0,76774,"MOSS-Image (OpenMOSS's 5B bilingual text-rendering DiT) on Apple Silicon with MLX: exact port, 9 GB peak"
+2026-10-19T01:18:37Z,qrsig,0.1.0,"David Newman <david.r.newman@proton.me>, Guan <just.guan@proton.me>",MIT,43799,QRSIG1: human-verifiable signatures for agentic intelligences (reference implementation of draft-guan-qrsig-00)
+2026-10-19T01:19:21Z,naiyue-test-agent,0.1.0,Naiyue Test Agent contributors,MIT,19380077,A local programming and testing agent with Web and terminal interfaces
