@@ -1,0 +1,69 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T22:18:39Z,codecraftai-restclient-nutanix,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,84181,Code Craft AI - Nutanix REST client
+2026-10-19T22:20:31Z,codecraftai-restclient-proxmox,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,84872,Code Craft AI - Proxmox VE REST client
+2026-10-19T22:20:49Z,python-leak-hunter,0.1.1,Tariq Amarneh <tariqs.naser@gmail.com>,MIT,82655,"Find memory leaks in long-running Python services: what accumulates, what keeps it alive, and a test that keeps it fixed. Ships with an agent skill for Claude Code and Codex."
+2026-10-19T22:21:46Z,codecraftai-restclient-runpod,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,64085,Code Craft AI - RunPod REST client
+2026-10-19T22:21:59Z,easi-cv,0.0.1,,Apache-2.0,2402,EASI: Edge-Aware Sliced Inference: GPU-native sliced inference for high-resolution object detection (placeholder release)
+2026-10-19T22:22:07Z,serge,0.0.1,,Apache-2.0,2414,SERGE: Seam-Edge Reconciled Grid Ensembling: GPU-native sliced inference for high-resolution object detection (placeholder release)
+2026-10-19T22:22:15Z,nafnagreining,0.1.1,cylq-is <cylq@proton.me>,MIT AND CC-BY-SA-3.0,1653561,"Icelandic language detection and extraction of person names, places and locations"
+2026-10-19T22:22:15Z,serge-cv,0.0.1,,Apache-2.0,2444,SERGE: Seam-Edge Reconciled Grid Ensembling: GPU-native sliced inference for high-resolution object detection (placeholder release)
+2026-10-19T22:24:42Z,mcp-server-celery,0.1.0,Ariel Even,MIT,17698,"Read-only MCP server for debugging Celery: workers, queue depths, and stuck tasks."
+2026-10-19T22:25:03Z,codecraftai-restclient-tailscale,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,186040,Code Craft AI - Tailscale REST Client
+2026-10-19T22:25:59Z,pytest-tzcheck,0.1.0,Ariel Even <ttlgptinc@gmail.com>,MIT,32098,"Run your tests in the timezone CI uses, and find the ones that only pass in yours."
+2026-10-19T22:26:07Z,plumb-xrpl,0.1.0,Plumb Data,Apache-2.0,48868,XRP Ledger transactions and payments proven without trusting any server: pinned validator list -> quorum-signed ledger -> hash links -> rebuilt transaction tree.
+2026-10-19T22:26:14Z,codecraftai-restclient-twingate,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,117959,Code Craft AI - Twingate GraphQL Client
+2026-10-19T22:27:19Z,codecraftai-restclient-vsphere,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,146199,Code Craft AI - vSphere REST Client Package
+2026-10-19T22:30:24Z,drf-impersonation,0.1.0,Ahmad Ali,MIT,28266,"Header-based user impersonation for Django REST Framework, works with any DRF authentication class"
+2026-10-19T22:30:43Z,codecraftai-restclient-gitlab,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,120805,Code Craft AI - GitLab REST Client
+2026-10-19T22:31:55Z,excutia,0.2.0,Stephen Dang,Apache-2.0,1606800,"Local MCP server for Google Ads, Meta Ads and GA4: read performance, size and call tests, and change accounts only through approved plans."
+2026-10-19T22:32:42Z,codecraftai-restclient-pychestrate,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,140352,Code Craft AI - Rest Client for Pychestrate
+2026-10-19T22:33:20Z,contextfetch,0.1.0,,MIT,17641,Python client for the ContextFetch API: web search and web pages as Markdown for AI agents.
+2026-10-19T22:34:39Z,codecraftai-networking,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,47908,Code Craft AI - Networking Package
+2026-10-19T22:34:41Z,langchain-contextfetch,0.1.1,ContextFetch,MIT,17290,An integration package connecting ContextFetch and LangChain
+2026-10-19T22:34:44Z,llama-index-tools-contextfetch,0.1.0,ContextFetch,MIT,8841,llama-index tools contextfetch integration
+2026-10-19T22:34:46Z,llama-index-readers-contextfetch,0.1.0,ContextFetch,MIT,8116,llama-index readers contextfetch integration
+2026-10-19T22:36:44Z,agent-nebula-platform,5.0.1,,,377679,Pluggable secure-agent platform for Agent Nebula-compatible agents.
+2026-10-19T22:41:32Z,priomesh-python,0.1.0,,"MIT License Copyright (c) 2026 PrioMesh contributors Permission is hereby granted, free of charge,…",19403,A pluggable priority and fair-queue scheduling library
+2026-10-19T22:42:51Z,literature-evidence-mcp,0.5.0,Furox Scientific Toolkit,Apache-2.0,309386,"Open-source, evidence-provenance-first scientific literature MCP server"
+2026-10-19T22:46:35Z,goatnotify-core,0.1.0,Louis Midson LAJEANTY,MIT,37450,"Framework-agnostic core of GoatNotify: notifications, channels, transports and retries."
+2026-10-19T22:46:44Z,nipost,0.1.0,,Apache-2.0,228331,Minimal-derivatives resampling for the NiPreps post-processing family
+2026-10-19T22:47:11Z,goatnotify-jinja,0.1.0,Louis Midson LAJEANTY,MIT,6235,Jinja2 template renderer for GoatNotify.
+2026-10-19T22:48:47Z,matrx-records,0.1.1,Matrx <admin@aimatrx.com>,MIT,1039432,"The records server: the eight agent verbs over the custom record store's doors, the merge-field resolver, and the record workflow nodes"
+2026-10-19T22:48:57Z,matrx-social,0.1.1,,,652845,"Provider-agnostic social data: contracts, provider interface, provider adapters."
+2026-10-19T22:49:48Z,ff-name-styler,0.1.0,Fin Alen,MIT,6328,Stylish nickname generator for Free Fire — 10 in-game-tested Unicode styles with a 12-character counter.
+2026-10-19T22:50:20Z,ubuntu-bio,0.1.0,UbuntuBio Community <dev@ubuntubio.org>,MIT,106236,Official Python client and CLI for UbuntuBio - African Bioinformatics Data Hub
+2026-10-19T22:52:39Z,perfume-finder-mcp,2.0.2,10ML Team <contact@10ml.com>,MIT,10045,"MCP server for the 10ML Fragrance Index: expert perfume knowledge from 10ML's fragrance editors (notes, accords, houses, similar scents, alternatives, layering, guides). Stdio for Claude Desktop, Cur…"
+2026-10-19T22:53:26Z,goatnotify-django,0.1.0,Louis Midson LAJEANTY,MIT,24008,"Django integration for GoatNotify: email backend, templates, ORM store and Django Tasks."
+2026-10-19T22:53:47Z,agent-nebula-secureagent,5.0.0,,,91117,Configuration-driven Python facade for building secure A2A agents on Agent Nebula Platform
+2026-10-19T22:54:03Z,goatnotify-fastapi,0.1.0,Louis Midson LAJEANTY,MIT,6427,FastAPI integration for GoatNotify.
+2026-10-19T22:54:43Z,tracelet-sdk,0.1.0,,Apache-2.0,16776,"Tag your database queries with the request that ran them, so Tracelet can show per-request waterfalls and catch N+1 loops."
+2026-10-19T22:55:24Z,makepartsnow,0.1.0,Make Parts Now <orders@makepartsnow.com>,MIT,117497,Instant 3D printing quotes for CAD files from the command line (Make Parts Now)
+2026-10-19T22:56:37Z,goatseo,0.1.0,Louis Midson LAJEANTY,MIT,6162,The type-safe SEO toolkit for Python.
+2026-10-19T22:57:18Z,structured-gist,0.9.0,Dominik O. Mattioli,Apache-2.0,63045,Deterministic linter for structured-gist nested lecture-note outlines
+2026-10-19T22:57:20Z,goatseo-core,0.1.0,Louis Midson LAJEANTY,MIT,20027,"Framework-independent SEO metadata, validation and HTML rendering for GoatSEO."
+2026-10-19T22:58:06Z,goatseo-django,0.1.0,Louis Midson LAJEANTY,MIT,14282,Django integration for GoatSEO.
+2026-10-19T22:58:14Z,wordlistxpl,2.0.0,André Henrique <suporte@uniaogeek.com.br>,XSRL-1.0,1164455,WordlistXPL-Forge. Wordlist generation toolkit for authorized pentest and red team operations. Member of the XPL-Forge suite.
+2026-10-19T22:58:15Z,tupaxpl,1.3.0,Andre Henrike <safelabs.support@visioncybersecurity.com>,XSRL-1.0,1451415,TupaXPL-Forge — Offensive Security Platform (LLM+LangGraph runtime)
+2026-10-19T22:58:25Z,cloudxpl,4.2.0,André Henrique <henrique.santos@uniaogeek.com.br>,XSRL-1.0,666729,"CloudXPL-Forge (CXF) — Cloud security assessment framework. 508 modules across 20 categories: AWS, Azure, GCP, OCI, Alibaba, Tencent, IBM, DigitalOcean, OVHcloud, Hetzner, Kubernetes, serverless, sto…"
+2026-10-19T22:58:30Z,pipewright-mlops,1.0.0,Fluxor Software Limited <enterprise@fluxorsoft.com>,Apache-2.0,4200040,"Configurable, governed MLOps on Google Cloud, with a human in the loop for every retrain decision"
+2026-10-19T22:58:45Z,goatseo-fastapi,0.1.0,Louis Midson LAJEANTY,MIT,7043,FastAPI integration for GoatSEO.
+2026-10-19T22:59:18Z,goatseo-flask,0.1.0,Louis Midson LAJEANTY,MIT,7408,Flask integration for GoatSEO.
+2026-10-19T22:59:57Z,goatseo-opengraph,0.1.0,Louis Midson LAJEANTY,MIT,10714,Typed Open Graph models and renderer for GoatSEO.
+2026-10-19T23:00:40Z,cedro,0.1.0,Madson Dias,MIT,4303,TODO
+2026-10-19T23:00:42Z,goatseo-schema,0.1.0,Louis Midson LAJEANTY,MIT,186085,"Generated, statically typed Schema.org models and JSON-LD serialization for GoatSEO."
+2026-10-19T23:01:33Z,goatseo-seo,0.1.0,Louis Midson LAJEANTY,MIT,10527,"High-level SEO API combining metadata, Open Graph, Twitter Cards and Schema.org."
+2026-10-19T23:02:00Z,reaf-sim,0.0.1,,Apache-2.0,457480,Robotics Environment Authoring Framework - Simulation Modules.
+2026-10-19T23:02:17Z,goatseo-twitter,0.1.0,Louis Midson LAJEANTY,MIT,9085,Typed Twitter/X Cards models and renderer for GoatSEO.
+2026-10-19T23:06:16Z,goatbeat,0.1.0,Louis Midson LAJEANTY,MIT,3384,"A type-safe, distributed periodic task scheduler for Python and Django Tasks."
+2026-10-19T23:06:59Z,goatbeat-celery,0.1.0,Louis Midson LAJEANTY,MIT,4140,Celery submitter for Goatbeat.
+2026-10-19T23:07:11Z,ecat-electrochemistry,0.1.0b7,Luke Elissiry,MIT,3700875,electroChemical Analysis Tools for electrochemical data handling and analysis.
+2026-10-19T23:07:13Z,agent-nebula-secureagent-examples,5.0.0,,Apache-2.0,2017933,Installable A2A and A2UI examples for Agent Nebula SecureAgent
+2026-10-19T23:07:41Z,goatbeat-cli,0.1.0,Louis Midson LAJEANTY,MIT,10694,The goatbeat command line.
+2026-10-19T23:08:24Z,goatbeat-core,0.1.0,Louis Midson LAJEANTY,MIT,41176,"Framework-agnostic core of Goatbeat: triggers, misfire policies, leases and the scheduler loop."
+2026-10-19T23:09:04Z,goatbeat-django,0.1.0,Louis Midson LAJEANTY,MIT,22898,"Django 6.1 integration for Goatbeat: models, admin, management command and Django Tasks."
+2026-10-19T23:09:48Z,goatbeat-dramatiq,0.1.0,Louis Midson LAJEANTY,MIT,4700,Dramatiq submitter for Goatbeat.
+2026-10-19T23:10:31Z,goatbeat-otel,0.1.0,Louis Midson LAJEANTY,MIT,3732,OpenTelemetry metrics for Goatbeat schedulers.
+2026-10-19T23:11:45Z,servolab,1.0.0,Robin Schregle,MIT,1380388,Control Feetech serial bus servos (STS3215 and friends) from Python - made for teaching robotics.
+2026-10-19T23:12:19Z,respan-gateway,0.1.0,,MIT OR Apache-2.0,46344111,"An LLM gateway with a neutral core, usable in-process from Python or as a server."
+2026-10-19T23:12:50Z,adelpha,0.1.0,Adelpha contributors,MIT,1063239,"Python library for Adelpha MRI: device telemetry, actuator feedback, and engineering tools."
+2026-10-19T23:14:00Z,slas-fotoakustika,0.1,Samarthya Lykamanuella <lykamanuella@outlook.com>,MIT,225134,Graphical user interface for a photoacoustic imaging method based on Arduino and a servo device
