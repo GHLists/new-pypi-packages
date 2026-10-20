@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T19:34:09Z,pysnappea,0.1.0,,MIT OR Apache-2.0,13620858,Check P specs against events from your Python tests
+2026-10-20T21:19:39Z,docutils-rust,0.1.0,docutils-rust contributors,MIT,557745,"Rust port of python/docutils: reStructuredText parser, transform pipeline, and HTML publisher"
+2026-10-20T21:20:59Z,convergence-artifacts,0.0.0.dev0,Onefold AI,,1678,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-20T21:21:00Z,convergence-cdk,0.0.0.dev0,Onefold AI,,1618,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-20T21:21:02Z,convergence-context,0.0.0.dev0,Onefold AI,,1652,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-20T21:21:04Z,convergence-contracts,0.0.0.dev0,Onefold AI,,1675,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-20T21:21:24Z,reeval-python,0.10.0,Invertase,Apache-2.0,40047,Python authoring SDK for reeval (*.eval.py eval files)
+2026-10-20T21:22:11Z,mpesa-daraja-mcp,0.1.1,Mr-Macharia,MIT,88555,"MCP server for Safaricom M-Pesa Daraja: STK Push, C2B, B2C, B2B, status, balance, reversal, QR, Ratiba, Bill Manager"
+2026-10-20T21:23:02Z,task-harbor,0.7.1,rhit-nayeems,MIT,146161,"Claude and GPT backlog orchestrator for planning, implementation, QA, escalation, and periodic code review."
+2026-10-20T21:26:09Z,ads_dev,1.0.0,,MIT,40721,"The ads.dev API for Python: image, video and audio generation on your brand, the brand kit and library, and competitor ads"
+2026-10-20T21:26:13Z,sandstormapp,1.0.0,,MIT,1691,"Installs ads_dev, the ads.dev API for Python"
+2026-10-20T21:32:10Z,personatrace,1.2.0,Stellfract-Frost,MIT,114679,"A memory layer that knows what still holds: time-aware beliefs with retention decay, dual temporal queries and evidence-backed retrieval."
+2026-10-20T21:32:19Z,hashry-pay,0.1.0,Hashry Technologies <support@hashrytech.com>,Apache-2.0,117466,"Official Hashry Pay server SDK: create payments, read their status and verify webhooks."
+2026-10-20T21:32:28Z,python-multipart-rust,0.0.32,Andrew Dunham,Apache-2.0,353756,A streaming multipart parser for Python (rustsmith Stage-1 mirror of Kludex/python-multipart)
+2026-10-20T21:32:49Z,rfd4-proteina,0.0.1,Institute for Protein Design <contact@ipd.uw.edu>,BSD-3-Clause,1632138,"Flow-matching foundation model for all-atom biomolecular design: proteins, nucleic acids, ligands and complexes"
+2026-10-20T21:34:20Z,pyparsing-rust,3.3.3,Paul McGuire,MIT,489502,"Python parsing module (rustsmith Stage-1 mirror of pyparsing/pyparsing: scan kernels in Rust, same API)"
+2026-10-20T21:36:18Z,zelf-sdk,1.0.0,Zelf,Apache-2.0,169683,Python client for the ZelfAI APIs
+2026-10-20T21:36:38Z,ensembleforecast,0.1.0,,,10573,Add your description here
+2026-10-20T21:36:55Z,adsdotdev,1.0.0,,MIT,1625,"Installs ads_dev, the ads.dev API for Python"
+2026-10-20T21:38:57Z,signalviewer-lite,1.9.0,,MIT,44821568,"Look at recorded signals - test runs, flight logs (ArduPilot, PX4, MAVLink), CAN, simulation output - offline. The light install: the core, every other reader as an extra."
+2026-10-20T21:44:46Z,aiortc-fermax,1.15.0.post1,Jeremy Lainé <jeremy.laine@m4x.org>,BSD-3-Clause,1276737,"aiortc 1.15.0 accepting PyAV 19, a stopgap for fermax-blue-hass until aiortc 1.16.0"
+2026-10-20T21:45:28Z,pymediasoup-fermax,1.5.0.post1,Jiang Yue,MIT,77366,"pymediasoup 1.5.0 on aiortc-fermax, a stopgap for fermax-blue-hass until aiortc 1.16.0"
+2026-10-20T21:48:32Z,colorcc,0.1.1,Gokul Adethya <frozenwolf2003.com@gmail.com>,MIT,36202,Exact-colour connected-component labelling of RGB images on NVIDIA and Apple GPUs
+2026-10-20T21:50:10Z,graphcore-kernel,0.1.0,GraphCore,Apache-2.0,1013184,"GraphCore platform kernel (entities, strategies, transport, auth)"
+2026-10-20T21:51:15Z,alphapath,0.1.0,,,10639,Framework for the end-to-end data and signal path from raw data sources to a production-ready alpha factor.
+2026-10-20T21:51:35Z,haaztest,0.9.5,KittenML,Apache 2.0,290643,"Text-to-speech with voice cloning and expression control, plus ultra-lightweight models that run on CPU"
+2026-10-20T21:51:56Z,core-deepinfer,0.1.0,Yufeng He,MIT,134750,"A readable NumPy inference loop: prefill, cached decoding, speculative rollback and bilingual guides"
+2026-10-20T21:53:32Z,livekit-slng,2.0.0,SLNG <hello@slng.ai>,Apache-2.0,234709,SLNG plugin for LiveKit Agents: speech-to-text and text-to-speech through SLNG
+2026-10-20T21:53:40Z,lee-groups,0.1.0,Vulcan758,MIT,17984,"A small Lie group library for SO(2), SO(3), SE(2) and SE(3), written for pose graph optimization"
+2026-10-20T21:54:03Z,graphcore-agents,0.1.0,,Apache-2.0,18543,GraphCore app: agents
+2026-10-20T21:55:00Z,mass-screen-rs,0.1.0,Nabil Freij <nabil.freij@gmail.com>,BSD-3-Clause,7449784,Rust backend for the MUSE data-driven response mask (mass screen)
+2026-10-20T21:55:22Z,graphcore-distro,0.1.0,GraphCore,Apache-2.0,409151,"GraphCore distro — CLI, scaffolding, and curated built-in apps"
+2026-10-20T21:55:48Z,a2aops,1.1.0,Calas Automations Inc.,MIT,74573,"Operational toolkit for the A2A protocol: AgentCard validation and lint, v0.x to v1.0 migration reports, auth-surface checks, task lifecycle inspection, SSE resubscription, and a local multi-agent pl…"
+2026-10-20T21:56:03Z,agentfin,0.2.0,Calas Automations Inc.,MIT,62184,Agent FinOps: cost attribution and ROI for AI agent spend
+2026-10-20T21:56:16Z,ctxfit,0.1.1,Calas Automations Inc.,MIT,66116,"Drop-in context-window optimizer for any agent loop: structural compression, section budgets, framework adapters"
+2026-10-20T21:56:30Z,delcred,0.2.0,Calas Automations Inc.,MIT,75550,"Short-lived, per-task, per-user-scoped credentials for AI agents — RFC 8693 delegation + ephemeral API-key broker"
+2026-10-20T22:01:28Z,siglip2-toolkit,0.0.1,Yudivián Almeida Cruz <yudivian@gmail.com>,MIT,225117,"Local-first toolkit around Google's SigLIP 2 models: text/image embeddings, zero-shot and fine-tuned classification, incremental corpus export and retrieval math. Library-first, with CLI and REST int…"
+2026-10-20T22:04:33Z,pibooth-wled-neopixel,1.0.0,peteoheat,MIT,35864,pibooth plugin that lights a NeoPixel/WS281x strip via an ESP32 running WLED over USB-serial
+2026-10-20T22:06:24Z,rpgsync,0.1.0,Nicolas Oulianov,MIT,506405,A Python twin of your RPG Maker 2000/2003 game
+2026-10-20T22:07:40Z,mantika,0.0.1,Mantika,,2456,Official package by Mantika. Coming soon.
+2026-10-20T22:07:42Z,mantika-argus,0.0.1,Mantika,,2559,Official package by Mantika. Coming soon.
+2026-10-20T22:07:43Z,mantika-core,0.0.1,Mantika,,2534,Official package by Mantika. Coming soon.
+2026-10-20T22:07:45Z,mantika-tessera,0.0.1,Mantika,,2597,Official package by Mantika. Coming soon.
+2026-10-20T22:08:33Z,trosna-kalman,0.0.1,"Andrey Ferubko, Oleg Kazakov",MIT,152734,"Adaptive Kalman filter that chooses when to poll next: uncertainty-driven monitoring intervals for virtual machine memory, with scalar, matrix and level-trend Kalman filters"
+2026-10-20T22:12:24Z,cfde-xmt,0.1.1,Daniel J. B. Clarke,,12399,Add your description here
+2026-10-20T22:12:34Z,alpyki,0.2.0,"""Björn Marschollek, Adam Brown""",,55374,Python helpers to build Alfred workflows
+2026-10-20T22:13:31Z,diffguard-scan,0.2.0,Mostapha EL ANSARI,MIT,88953,Risk triage and security checks for pull requests: scans only what a change adds or removes.
+2026-10-20T22:15:10Z,iskierka,2.1,,MIT,13892479,"Contains IskierkaGen, a synthetic data generator"
