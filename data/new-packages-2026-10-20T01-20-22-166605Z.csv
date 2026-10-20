@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T00:19:41Z,codecraftai-interop-ext-upnp,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,402646,Code Craft AI - Upnp InterOp Extensions
+2026-10-20T00:20:03Z,viqi-automation-kit,0.0.1,"Dmitry Fedorov <dima@viqiai.com>, Michael Quinn <mquinn@viqiai.com>",,4795,ViQi Automation Kit
+2026-10-20T00:22:03Z,priorityheader,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,60934,"Parse, merge and build the HTTP Priority field and PRIORITY_UPDATE frames (RFC 9218), zero dependencies and typed."
+2026-10-20T00:22:21Z,viaheader,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,43898,"Parse, build and append the HTTP Via header per RFC 9110: strict or safely lenient, typed, zero-dependency"
+2026-10-20T00:22:38Z,permspolicy,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,61984,"Parse, build and check Permissions-Policy headers and iframe allow attributes, typed and zero-dependency"
+2026-10-20T00:22:53Z,py-simba-pop-tools,0.1.0,Collins Patrick Ohagwu <cpohagwu@gmail.com>,Apache-2.0,39704601,"Calibration, validation and backtesting tools for the py-simba-pop banana cohort model."
+2026-10-20T00:22:56Z,altsvc,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,57073,"Parse, check and build the HTTP Alt-Svc header (RFC 7838), typed and zero-dependency."
+2026-10-20T00:23:44Z,agentwebui-lite,0.1.0,"SovereignML, L.L.C.",LicenseRef-Proprietary,757605,A light web interface for AI models and command-line agents.
+2026-10-20T00:25:08Z,nithin-greeter,0.1.0,Nithin,MIT,2880,A simple Python greeting package
+2026-10-20T00:25:17Z,gilfit,0.1.0,,Apache-2.0,3765772,Suggests and decides form field values from how settled documents were filled.
+2026-10-20T00:25:21Z,codecraftai-interop-ext-tasker,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,124401,Code Craft AI - Tasker Interop Extensions
+2026-10-20T00:26:12Z,codecraftai-interop-vmworkstation,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,38061,Code Craft AI - VMware Workstation Interop Package
+2026-10-20T00:27:14Z,codecraftai-provisioning,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,1230404,Code Craft AI - Provisioning Package
+2026-10-20T00:30:59Z,keep-memory,0.2.0,Eliasz Kowalski,Apache-2.0,93479,The engineering wiki for AI agents
+2026-10-20T00:33:28Z,zhuangtaiji,1.1.0,siwpan,MIT,513126,多范式决策引擎：状态机 / 行为树 / 决策树 / 差分机 / Petri 网 / 马尔可夫链 / 规则引擎，纯标准库实现
+2026-10-20T00:35:57Z,codecraftai-taskplus,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,40633,Code Craft AI Task Plus Library
+2026-10-20T00:36:51Z,lazy-importer,0.1.0,,Apache-2.0,96588,"A context manager for portable, opt-in lazy imports"
+2026-10-20T00:37:02Z,codecraftai-agent-kit,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,688221,Code Craft AI - Agent Kit
+2026-10-20T00:38:07Z,codecraftai-uia,1.5.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,179668,The Code Craft AI - User Interface Automation Package
+2026-10-20T00:38:35Z,verifyanything,0.1.0,,MIT,45957,OpenVerify DRAFT standalone VCP and Provider Contract wire SDK
+2026-10-20T00:38:45Z,redis-flow,0.3.6,Vincent Yao,MIT,78313,A lightweight Python library for Redis task workflows.
+2026-10-20T00:39:30Z,langchain-deepinquiry,0.1.0,Bryan Rush <api@deepinquiry.ai>,MIT,16033,"LangChain retriever and tools for the DeepInquiry verified-facts API: cited, tier-scored, signed facts."
+2026-10-20T00:39:31Z,llama-index-tools-deepinquiry,0.1.0,Bryan Rush <api@deepinquiry.ai>,MIT,10936,"LlamaIndex tool spec for the DeepInquiry verified-facts API: cited, tier-scored, signed facts."
+2026-10-20T00:40:51Z,stingward,0.1.0,Isaque Moutta,MIT,195674,"Security check for AI-built projects, Claude Code skills and MCP servers"
+2026-10-20T00:44:23Z,openverify,0.1.0,,MIT,2454923,"Draft domain-neutral verification protocol, SDK, and provider-driven Relay runtime"
+2026-10-20T00:45:34Z,pymineflow,0.1.0,Paul Alejandro Espinoza Tenecora <mathgeomine@gmail.com>,MIT,7729913,"Fast ultimate pit (maximum closure) for open-pit mining in Python, powered by the MineFlow pseudoflow solver"
+2026-10-20T00:46:12Z,rag-security-protocol,0.1.1rc1,PCBZ,Apache-2.0,375927,"RAG Security Protocol — where security tools hook into a RAG pipeline, and what they return"
+2026-10-20T00:47:32Z,repolane,0.0.1,,Apache-2.0,1896,Placeholder for Repolane. The real package arrives in a later release; see https://repolane.dev.
+2026-10-20T00:50:54Z,treeolive,0.1.0.dev1,Kevin Wakhisi,MIT,4859,Add your description here
+2026-10-20T00:51:24Z,orion-worktree-report,0.1.0,Dan Mercede,MIT,66725,Explicit local Git worktree observations with honest coverage
+2026-10-20T00:55:38Z,foldlitedb,0.1.0,,MIT,6461055,Immutable document logs and rebuildable views with Rust and portable WebAssembly.
+2026-10-20T00:57:49Z,goatbeat-postgres,0.1.0,Louis Midson LAJEANTY,MIT,26873,"PostgreSQL storage, fenced leases and LISTEN/NOTIFY for Goatbeat."
+2026-10-20T00:58:41Z,goatbeat-prometheus,0.1.0,Louis Midson LAJEANTY,MIT,6907,Prometheus metrics for Goatbeat schedulers.
+2026-10-20T00:59:17Z,guidelines-for-all,1.2.0,Guidelines for All contributors,Elastic-2.0,755874,Generate coding guidelines from linter configurations
+2026-10-20T00:59:24Z,goatbeat-rq,0.1.0,Louis Midson LAJEANTY,MIT,6990,RQ submitter for Goatbeat.
+2026-10-20T00:59:38Z,verificador-de-arquivo,0.1.0,Rhyan Lemos Silveira,MIT,71811,"Scanner antivírus/malware local, CLI-first, com frontend local complementar"
+2026-10-20T00:59:56Z,truefrontier-webcli,0.4.0,Brandname Maker LLC dba True Frontier,MIT,706949,"Agent-native CLIs (webcli, llmcli) over your own signed-in, hidden Chrome sessions."
+2026-10-20T01:00:20Z,embodied-first-exam,0.1.0,,MIT,16743,"Embodied First Exam on Harbor: `harbor run --core|--all|--privileged|--standard|--standard-realtime`, or `efe run`"
+2026-10-20T01:00:53Z,truefrontier-llmcli,0.4.0,Brandname Maker LLC dba True Frontier,MIT,2650,"Installs webcli, which provides the llmcli command (chat AIs over your own signed-in Chrome)."
+2026-10-20T01:00:56Z,roadster-ai-video,0.1.0,Ryan Ellis <ryanellis42675@gmail.com>,MIT,9824,Official client SDK and prompt metadata helper for Roadster AI Video (https://roadster-ai-video.com) - Turn single car photos into Tesla Roadster-style stunt videos.
+2026-10-20T01:03:10Z,statetrace-sc,0.2.0,Kynon J Benjamin,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",216536,"Donor-aware framework for building, freezing, validating and transporting cellular-state references across single-cell datasets."
+2026-10-20T01:04:38Z,mm-libtorch-encoder,0.2.0,,,13517129,Native Rust/C++ multimodal encoder for a matching Torch runtime
+2026-10-20T01:09:21Z,admitria,0.0.0,Jan Zdráhal <jan@zdrahal.eu>,,3671,Domain-agnostic core for system organization and addressable workflow. Name reservation; functionality to follow.
+2026-10-20T01:09:25Z,comfy-agent,0.0.0.dev0,Comfy Org,GPL-3.0-only,13731,The Comfy agent for ComfyUI. In development.
+2026-10-20T01:16:30Z,jotflow,0.1.0,Joshua Matte,Apache-2.0,1207849,"Turn team chat into GitHub issues. A self-hosted, agent-agnostic bridge from a shared Slack channel to your repos, with a human approval gate."
+2026-10-20T01:16:31Z,bili-agent,0.2.0,,MIT,227324,"Bilibili command-line tool designed for AI agents: JSON output, stable error codes, zero interaction."
+2026-10-20T01:17:28Z,flashid-auto,0.2.0,,MIT,182446,Modular automation for running FlashID browsers
+2026-10-20T01:18:32Z,Immaculate,0.1.0,Peter Batchelor,LicenseRef-Proprietary,150589633,"Find exact and near-duplicate images in a folder, fast."
+2026-10-20T01:19:42Z,eternalreturn,0.1.0,Ryu Juheon,MIT,74925,Unofficial Python SDK for the Eternal Return Open API.
