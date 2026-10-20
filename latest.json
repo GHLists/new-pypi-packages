@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-10-20T16:19:17.481482Z",
-    "path": "data/new-packages-2026-10-20T17-20-39-600195Z.csv",
-    "to": "2026-10-20T17:20:39.600195Z"
+    "count": 40,
+    "from": "2026-10-20T17:20:39.600195Z",
+    "path": "data/new-packages-2026-10-20T18-18-58-887103Z.csv",
+    "to": "2026-10-20T18:18:58.887103Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-20T16:53:39Z",
-      "package": "llmentary",
-      "since": "2026-10-20T16:19:17.481482Z",
+      "created_at": "2026-10-20T18:06:10Z",
+      "package": "craftainer-crud",
+      "since": "2026-10-20T17:20:39.600195Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-20T18:06:13Z",
+      "package": "craftainer-observability",
+      "since": "2026-10-20T17:20:39.600195Z",
       "version": null
     }
   ],
-  "serial": 42503207,
+  "serial": 42505822,
   "source_truncated": false,
-  "window": "2026-10-20T17:20:39.600195Z"
+  "window": "2026-10-20T18:18:58.887103Z"
 }

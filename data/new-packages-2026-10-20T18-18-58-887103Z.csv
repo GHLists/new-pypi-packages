@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T16:53:39Z,llmentary,0.2.0,Barzoj B.V.,MIT AND AGPL-3.0-only,23155185,Python (pytest) client for llmentary: deterministic trace-based integration tests for LLM apps
+2026-10-20T17:23:47Z,c3-colors,2.0.1,@mapequation,Apache-2.0,42616,Consistent Categorical Colors - Deterministic colors for maps
+2026-10-20T17:25:12Z,togeari,0.1.0,"""Shih-Ying Yeh(KohakuBlueLeaf)"" <apolloyeh0123@gmail.com>",Apache-2.0,664085,"Togeari: a dataflow machine that runs many KIR jobs at once, out of order, on pluggable engines"
+2026-10-20T17:25:23Z,apiverve-domainandippinger,1.2.1,APIVerve <hello@apiverve.com>,MIT,21221,"Domain and IP Pinger checks whether any domain name or public IP address is reachable and responding in real time. It returns an alive status and successful round trips, while paid plans add packet l…"
+2026-10-20T17:25:28Z,apiverve-barcodereader,1.2.1,APIVerve <hello@apiverve.com>,MIT,22604,"Barcode Reader decodes 1D barcodes from an uploaded image or an image URL, including EAN-13, EAN-8, UPC-A, UPC-E, Code 128, Code 39, Code 93, ITF, Codabar and GS1 DataBar. It returns the decoded valu…"
+2026-10-20T17:27:51Z,drf-hierarchy,0.1.0,,,61486,Django REST framework app for hierarchical group permission inheritance.
+2026-10-20T17:41:04Z,fennec-voice,0.1.1,Salman Faroz <stsfaroz@gmail.com>,Apache-2.0,36662,"Small turn-taking models for voice agents: nod or interruption, finished or not."
+2026-10-20T17:43:08Z,ssmjviser,1.0.0,Siddhartha Srinivasa <siddhartha.srinivasa@gmail.com>,MIT,1450148,"See MuJoCo simulations in your browser: live, as plans, or replayed"
+2026-10-20T17:43:26Z,terra-oamp-sdk,1.0.0,,Apache-2.0,21231,"Open Agent Mandate Protocol (OAMP) v1.0 Python SDK for Cryptographic Agent Identity, Multi-Hop Delegation, and Liability Attribution"
+2026-10-20T17:43:36Z,eagle-harness,0.1.0,,LicenseRef-Eagle-4-Source-Available,4049497,"EAGLE-Harness: cost-model-driven dynamic-tree speculative decoding (out-of-tree sglang, vLLM and TokenSpeed plugin)"
+2026-10-20T17:45:38Z,geoembed,1.0.0,,,83745881,NetCL visual feature encoders for aerial and satellite imagery
+2026-10-20T17:45:48Z,pibooth-modnet,1.0.0,,"MIT License Copyright (c) 2026 pibooth-modnet contributors Permission is hereby granted, free of ch…",34065,"pibooth plugin: AI background replacement and overlays using MODNet portrait matting (ONNX Runtime, CPU)"
+2026-10-20T17:45:52Z,usenadia,0.1.0,,MIT,329803,"Python SDK for the UseNadia public API — schedule posts, manage channels, run the Instagram comment/story → DM machinery"
+2026-10-20T17:49:06Z,blockguard,0.1.0,Pedro,MIT,14335,"A circuit breaker for undocumented, server-imposed rate limits."
+2026-10-20T17:53:35Z,semmver,1.0.0,dev,,600,small utility helpers
+2026-10-20T17:53:47Z,semveer,1.0.0,dev,,599,small utility helpers
+2026-10-20T17:53:58Z,semverr,1.0.0,dev,,599,small utility helpers
+2026-10-20T17:54:10Z,semvver,1.0.0,dev,,600,small utility helpers
+2026-10-20T17:54:41Z,uk-energy,0.1.1,Josh Serpis,MIT,85370,"Typed Python clients for the UK's public electricity data APIs: Elexon Insights, NESO Data Portal, Carbon Intensity, DNO open data, Octopus."
+2026-10-20T17:56:08Z,grasp-atomic-kit,3.4.1,"""Yi (Yenoch) Qin"" <yenochqin@hotmail.com>",GPL-3.0-only,214558,"Stable data I/O, processing, and plotting for GRASP calculations"
+2026-10-20T17:58:11Z,apiverve-backgroundremover,1.2.1,APIVerve <hello@apiverve.com>,MIT,22333,"Background Remover is an image background removal API. Upload a photo or send its URL and it returns a PNG with the background made transparent, or replaced with a solid color you choose."
+2026-10-20T17:58:16Z,apiverve-balancesheet,1.2.1,APIVerve <hello@apiverve.com>,MIT,22287,"Balance Sheet is a stock balance sheet API that returns the statement of financial position for a US public company by ticker - assets, liabilities and shareholders' equity - straight from SEC filing…"
+2026-10-20T17:59:02Z,pym3tools,0.1.0,Z.M. Vig,LICENSE,101872640,Data utilities for processing Moon Mineralogy Mapper Data from the NASA Planetary Data System.
+2026-10-20T17:59:23Z,autorun-audit,0.1.1,Ag3nt Sc4rn,MIT,54571,Find code that runs without you asking: Python startup files (.pth/.start) and repo files that execute when a folder is opened.
+2026-10-20T17:59:52Z,trano-optimization,0.2.0,Ando Andriamamonjy,LGPL-3.0-or-later,31274,"Optimal control, moving horizon estimation and simulation of Modelica models with rumoca, CasADi and IPOPT."
+2026-10-20T18:00:28Z,khainglens,0.1.0,Khaing Myae Kyaw Swar Myo <khaingmyaekyawswarmyo25@gmail.com>,MIT,96548,English-Burmese dataset quality inspection Python toolkit and visual UI
+2026-10-20T18:02:27Z,validador-ie,0.1.0,FiscalAPI <contato@fiscalapi.com.br>,MIT,14950,Valida formato e dígito verificador da Inscrição Estadual (IE) das 27 UFs. Sem dependências.
+2026-10-20T18:02:33Z,fiscalapi-br,0.1.0,FiscalAPI <contato@fiscalapi.com.br>,MIT,25084,"SDK da FiscalAPI (Brasil): Inscrição Estadual, CNPJ, certidões, NF-e, SIGEF, CNIR e perfil do produtor rural."
+2026-10-20T18:06:06Z,airlock-pii,0.1.0,,Apache-2.0,317679,"Detects Kazakhstan personal data (IIN/BIN, IBAN, cards, phones, emails, names) and secrets in text."
+2026-10-20T18:06:34Z,rcsfs,1.3.1,"""Yi (Yenoch) Qin"" <yenochqin@hotmail.com>",MIT,16501303,Rust-powered Python library for converting atomic-physics CSF data to Parquet and generating ML-ready descriptors
+2026-10-20T18:07:19Z,workflowweave,0.1.2,,MIT,2222561,Configurable asynchronous collection for WorkFLowWeave workflows
+2026-10-20T18:07:49Z,pydevtoolbox,0.1.0,Izere Louise <louiseizere1@gmail.com>,MIT,5617,A lightweight collection of useful Python developer utilities
+2026-10-20T18:08:06Z,tailcove,0.1.0,Akcybex <developers@akcybex.com>,MIT,23632,Python client for shipping application logs to Tailcove — a stdlib logging.Handler that batches and ships NDJSON.
+2026-10-20T18:09:10Z,niyankhadka-yantra,1.0.0,niyankhadka,MIT,77110,Build Yantra step-by-step diagrams and one-page answers from Python; compiled to single offline HTML files by the Yantra CLI (Node.js >= 18).
+2026-10-20T18:10:40Z,mcp-contrast,0.1.0,Tenzin Choedak,MIT,81258,"Lint MCP servers for tools a model cannot tell apart: synonym names, hidden overlaps, and unmarked contrasts."
+2026-10-20T18:13:35Z,langchain-acgs,0.1.0,Martin Lyu,Apache-2.0,48577,ACGS tool-call governance middleware for LangChain agents
+2026-10-20T18:13:41Z,gramflux,0.1.0a1,GramFlux contributors,MIT,721102,Async Telegram client with independently verifiable TL schema tooling
+2026-10-20T18:14:41Z,autotwine,0.1.0,MulticNews,,3727,Автоматическая загрузка пакетов на PyPI с токеном из файла
+2026-10-20T18:16:20Z,nwesdap,0.1.0,"""Matthew P. Humphreys"" <mvdh7@users.noreply.github.com>",,146207,NWESDAP download and import tool for Python
+2026-10-20T18:17:31Z,curlike,0.1.0,jose-pr <jose-pr@coqui.dev>,MIT,283762,"A drop-in curl: the real curl when there is one, with syshttp's proxy and hooks applied, else a curl-compatible command over the standard library"
