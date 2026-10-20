@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T16:18:59Z,nodii-document-cloud-client,0.0.2,,MIT,1821,Placeholder for nodii-document-cloud-client. The real client ships at 0.1.0.
+2026-10-20T16:19:27Z,kt-audit,0.1.0,Xia Jiang,MIT,39231,Audit knowledge-tracing evaluation before you trust the AUC.
+2026-10-20T16:22:39Z,veridrome,0.1.0,Veridrome Contributors,MIT,479177,"Autonomous AI Agent Live Evaluation, Hardware-Attested Execution & Anti-Gaming Benchmark Harness"
+2026-10-20T16:22:44Z,pacta-escrow,2026.1.0,Pacta Core Team <dev@pacta.network>,Apache-2.0,204757,x402 / AP2 Machine-Customer Escrow & Autonomous Arbitration Rail for the Agent Economy
+2026-10-20T16:25:07Z,cexec,1.0.3,Suleiman,MIT,191650,The C Executor in Python. Compile and run C code in real-time
+2026-10-20T16:25:14Z,ming-tts-mnn,0.1.0,yunfengwang,"MIT License Copyright (c) 2025 inclusionAI Permission is hereby granted, free of charge, to any per…",835659,"Ming-3.0-tts-0.5B on MNN: zero-shot text-to-speech on the CPU, one command."
+2026-10-20T16:26:42Z,novilabs-geaux,0.dev0,Novi Labs <devops@novilabs.com>,,821,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-20T16:26:43Z,novilabs-model-tools,0.dev0,Novi Labs <devops@novilabs.com>,,829,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-20T16:26:44Z,novilabs-confidence-intervals,0.dev0,Novi Labs <devops@novilabs.com>,,832,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-20T16:26:45Z,novilabs-model-serialization,0.dev0,Novi Labs <devops@novilabs.com>,,838,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-20T16:28:08Z,radio-transients,0.3.0,Joseph W Kania,GPL-3.0-only,87655,"Run the radio_transients containers' tools (heimdall, PRESTO, your, ...) from the host"
+2026-10-20T16:30:21Z,slmcore-microscopy,0.1.0,,GPL-3.0-only,1305271,"Reusable SLM control, pattern generation and CGH framework"
+2026-10-20T16:31:49Z,agentaxiom,0.1.0,AgentAxiom,Apache-2.0,66683,Evidence-first regression and contract testing for Gemini and Vertex AI agents.
+2026-10-20T16:34:08Z,mksact,0.2.0,Durga Prasad Nasika,MIT,40599,"Control MKS SERVO42D/57D closed-loop steppers over CAN on Linux: homing (CW/CCW), absolute and relative moves, turns, continuous rotation, soft limits."
+2026-10-20T16:34:14Z,quackd-huebot,0.21.0,Rok Benko,Apache-2.0,99574,The Huebot adapter for quackd. Install it as quackd[huebot].
+2026-10-20T16:34:41Z,toolform,0.0.1,Gaurav Srivastava <gks@vt.edu>,Apache-2.0,963156,"Tool interfaces for LLM agents, chosen by measurement: recommend, render, parse and guard the tool block from a study of 129 formats, 31 answer protocols and 112 models."
+2026-10-20T16:34:59Z,diffpy.cmisas,0.1.0,Simon Billinge <sb2896@columbia.edu>,,40577,The code of the SAS pack of the diffpy.cmi package.
+2026-10-20T16:36:16Z,utilvo-edge-shield,1.1.0,Utilvo,MIT,4136,"Open-source server firewall generator, CIDR/ASN threat intelligence feed (AS132203, AS45102, AS136907), Safe-Harbor bot classifier, and GA4 headless bot detector."
+2026-10-20T16:37:21Z,dft-agent,0.4.4,Qirui Cui <qiruic@kth.se>,MIT,27392755,Run VASP and Quantum ESPRESSO calculations on your cluster.
+2026-10-20T16:37:31Z,odforge,0.3.0,FantasySakura0515,MIT,1129138,Forge natural language into native ODF documents (.odt/.odp/.ods)
+2026-10-20T16:38:26Z,evo-agents-core-plugins,1.0.0,maycuatroi,Apache-2.0,58316,The first-party core plugins of the evo-agents hub: Telegram and the chat history in the knowledge graph
+2026-10-20T16:38:53Z,boom-client,0.1.0,BOOM Team,MIT,73474,"Python client for the BOOM API: catalog queries, cone searches and aggregation pipelines"
+2026-10-20T16:39:22Z,pg-task-engine,0.1.0a3,pg-task-engine contributors,MIT,63443,A typed PostgreSQL-backed durable task queue for Python.
+2026-10-20T16:43:42Z,jupyter-ai-pi-lite,0.0.0a0,,,690,
+2026-10-20T16:44:10Z,ep-mcp,0.7.0,Brian Hearn <brian@easyterritory.com>,Apache-2.0,329173,ExpertPack MCP Server — expertise-as-a-service over MCP
+2026-10-20T16:44:12Z,jupyter-ai-pi-lite-terminal,0.0.0a0,,,706,
+2026-10-20T16:45:18Z,sidemantic-rs,0.13.0,,AGPL-3.0-only,92798130,Standalone Rust runtime bindings for Sidemantic
+2026-10-20T16:47:46Z,agent-arch,0.1.1,agent-arch team,MIT,90299,Deterministic codebase architecture guardrails and topology indexer for AI coding agents
+2026-10-20T16:48:52Z,deepinfer-gemm,2.8.2,,,2613691,DeepGEMM: Clean and efficient FP8 GEMM kernels with fine-grained scaling
+2026-10-20T16:49:06Z,deepinfer-ep,2.5.0,,,204507,DeepEP: High-Performance Expert Parallelism Communication Library
+2026-10-20T16:49:23Z,maxgotlost,0.1.1,MAXGOTLOST,MIT,9499,"Gothic terminal banners, animated logos, and colored typing utilities"
+2026-10-20T16:49:27Z,deepinfer-flashmla,1.0.0,,,34225053,FlashMLA: Efficient MLA kernel for Hopper and Ascend GPUs
+2026-10-20T16:58:41Z,safesub,1.0.5,PGSAVE <i@sxve.it>,MIT,18008,Клиент SafeMembers: проверка обязательных подписок в Telegram-ботах (с готовым middleware для aiogram 3)
+2026-10-20T16:58:48Z,algierex,1.0.0,Algierex <contact@algierex.com>,MIT,25519,Python SDK for the Algierex market data API (the Algerian exchange)
+2026-10-20T16:59:32Z,cdswap,0.1.0,Poyisis,GPL-3.0-or-later,128476,"Share Claude Desktop Code sessions, archives and local routines across accounts, and switch the app's signed-in account."
+2026-10-20T17:01:09Z,cairndev,0.1.3,cairn maintainers,Apache-2.0,3908342,"A governed control plane for AI and ML work: pipelines that fine-tune, evaluate, compress and serve models, with approval, policy, budget and lineage on every step"
+2026-10-20T17:01:15Z,cairn-operator-dataflow-metaflow,0.1.3,cairn maintainers,Apache-2.0,72591,The Metaflow dataflow engine (ADR-0089) for cairn's ml and data flows — offered by cairndev[metaflow] (ADR-0134 D2).
+2026-10-20T17:01:16Z,cairn-operator-dataflow-skypilot,0.1.3,cairn maintainers,Apache-2.0,66258,The SkyPilot provisioning dataflow engine (ADR-0104 D5) for cairn's ml and data flows — offered by cairndev[skypilot] (ADR-0134 D3).
+2026-10-20T17:01:18Z,cairn-pack-hello,0.2.0,,Apache-2.0,52390,"Example cairn domain pack: a data, an agentic, an ml and an operations pipeline, each behind gates."
+2026-10-20T17:01:19Z,prepix,0.1.0,Manish Parihar,MIT,63282,"A lightweight Python library for data preprocessing, quality checks, and ML utilities."
+2026-10-20T17:02:24Z,burnman-cpp,0.1.0,,GPL-3.0-or-later,5238637,Python bindings for the BurnMan C++ mineral physics library
+2026-10-20T17:09:24Z,agent-countercheck,0.4.0,,MIT,9057822,"Proof that AI agents' work really happened: re-runs your checks in a clean copy the agent can't edit, and writes a sealed receipt."
+2026-10-20T17:10:50Z,familyos-client,0.1.0,Onur Ceri,AGPL-3.0-or-later,98481,"Async Python client for the FamilyOS public API (calendar, lists, chores, board)"
+2026-10-20T17:10:56Z,tbp.monty,0.54.0,Thousand Brains Project,Copyright 2025 Thousand Brains Project Copyright 2021-2024 Numenta Inc. Permission is hereby grante…,1207515,Thousand Brains Project Monty
+2026-10-20T17:11:44Z,harpocrate,0.8.0,gaelgael5,MIT,101283,"Client Python zero-knowledge pour le coffre de secrets Harpocrate : chiffrement côté client, le serveur ne voit jamais une valeur"
+2026-10-20T17:12:04Z,siphopdk-forge,1.0.0,"""Flexcompute Inc."" <info@flexcompute.com>",GPL-3.0-or-later,163644,SiPhoPDK: a synthetic 220 nm SOI + SiN O-band demonstration PDK for PhotonForge
+2026-10-20T17:13:39Z,orb-package-manager,0.1.0,Hamuz,,5134,"A custom package manager that unifies pacman, yay, and flatpak."
+2026-10-20T17:14:51Z,langchain-anytomarkdown,0.1.0,,MIT,5614,"LangChain document loader for the AnyToMarkdown API: PDF, Word, Excel, PowerPoint and web pages to Markdown."
+2026-10-20T17:14:53Z,llama-index-readers-anytomarkdown,0.1.0,,MIT,5578,"LlamaIndex reader for the AnyToMarkdown API: PDF, Word, Excel, PowerPoint and web pages to Markdown."
+2026-10-20T17:15:42Z,roterminal,0.1.0,RoTerminal,MIT,12541,"Live data on every Roblox game: players now, history, rising games, trends and developers. The RoTerminal API for Python."
