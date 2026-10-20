@@ -8,31 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 05:19 UTC
+## Latest list — 2026-10-20 06:19 UTC
 
-New packages created between 2026-10-20 04:18 UTC and 2026-10-20 05:19 UTC.
+New packages created between 2026-10-20 05:19 UTC and 2026-10-20 06:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-20T05-19-24-643366Z.csv)
+[Full CSV](data/new-packages-2026-10-20T06-19-25-783218Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-20 04:19:38 | [sinet-cli](https://pypi.org/project/sinet-cli/) | 0.1.1 |  | 9.2 MB | The SINet Go social CLI, packaged with a verified binary |
-| 2026-10-20 04:25:05 | [airegistry-cli](https://pypi.org/project/airegistry-cli/) | 2.3.1 |  | 41.9 kB | Dependency-free CLI for discovering and installing versioned AI components from… |
-| 2026-10-20 04:26:54 | [gld-kiln](https://pypi.org/project/gld-kiln/) | 0.2.0 | Leonid Ganeline | 32.7 kB | Positional little-endian Kiln codec for Python |
-| 2026-10-20 04:27:09 | [myutils2](https://pypi.org/project/myutils2/) | 0.1.0 | Твоё Имя <email@example.com> | 2.5 kB | Мои полезные функции |
-| 2026-10-20 04:27:57 | [QuickLab-MCP](https://pypi.org/project/QuickLab-MCP/) | 0.1.0 | QuickLab Team | 183.3 kB | QuickLab MCP Server - Production Tabular ML Experimentation Control Plane for A… |
-| 2026-10-20 04:28:35 | [jilebi-sdk](https://pypi.org/project/jilebi-sdk/) | 0.6.2 | OpenAPI Generator community | 185.8 kB | jilebi API |
-| 2026-10-20 04:31:37 | [uvpip-cli](https://pypi.org/project/uvpip-cli/) | 1.0.7 | YASH <191557828+yv3000@users.… | 38.7 kB | Ultra-fast transparent pip wrapper powered by uv |
-| 2026-10-20 04:35:44 | [securepay-shared](https://pypi.org/project/securepay-shared/) | 0.1.0 |  | 7.8 kB | Shared models, DB connection, config and AWS client for SecurePay-Riwi |
-| 2026-10-20 04:35:56 | [peasy-ai](https://pypi.org/project/peasy-ai/) | 1.0.0 | siwpan | 620.6 kB | 零硬编码、配置驱动的通用 AI 对话框架：AI 核心 + 叙事引擎 + TRPG 训练场 |
-| 2026-10-20 04:36:23 | [apisec-orgscan](https://pypi.org/project/apisec-orgscan/) | 1.0.0 |  | 36.1 kB | Scan every repository in a GitHub organization with APIsec Surface. |
-| 2026-10-20 04:42:31 | [iyulab-gil](https://pypi.org/project/iyulab-gil/) | 0.3.0 |  | 4.2 MB | Suggests and decides form field values from how settled documents were filled. |
-| 2026-10-20 04:46:28 | [fhir-scorecard](https://pypi.org/project/fhir-scorecard/) | 0.3.0 | Chelsea Kelly-Reif | 2.8 MB | Plain-language operational scorecard for publicly observable FHIR endpoints |
-| 2026-10-20 04:52:23 | [runtime-mcp-scanner](https://pypi.org/project/runtime-mcp-scanner/) | 0.1.1 | Adam DiStefano | 24.2 kB | Security scanner for MCP (Model Context Protocol) servers: scan configs and sou… |
-| 2026-10-20 04:53:03 | [imglib2](https://pypi.org/project/imglib2/) | 0.1.1 |  | 4.1 kB | Библиотека для создания изображений |
-| 2026-10-20 05:03:32 | [oscal-validate](https://pypi.org/project/oscal-validate/) | 0.5.0 | Chelsea Kelly-Reif | 1.5 MB | Deterministic structural validator for OSCAL documents, run against NIST's publ… |
-| 2026-10-20 05:10:05 | [covex-neuron](https://pypi.org/project/covex-neuron/) | 0.0.1.dev0 |  | 32.8 kB | Run your existing PyTorch / Hugging Face code on AWS Trainium, side by side wit… |
-| 2026-10-20 05:10:07 | [dex-trove](https://pypi.org/project/dex-trove/) | 0.1.0 | Neo Pragnya | 26.2 MB | Dex Trove — a trove of dexterities for your agents: licence-clean skills, agent… |
-| 2026-10-20 05:11:06 | [khmer-g2p](https://pypi.org/project/khmer-g2p/) | 0.1.0 | PhonSobon | 22.2 kB | Khmer grapheme-to-phoneme: convert Khmer words to their NCKL Khmer-script respe… |
-| 2026-10-20 05:17:02 | [unwrapt](https://pypi.org/project/unwrapt/) | 1.0.0a1 | Graham Dumpleton <Graham.Dump… | 75.9 kB | Defer whole-module imports until first use on Pythons below 3.15, emulating PEP… |
-| 2026-10-20 05:18:01 | [novel-generator](https://pypi.org/project/novel-generator/) | 2.0.0 | siwpan | 357.7 kB | ASP 模板流中文小说自动生成引擎 —— 多层嵌套循环 + 词库随机替换，纯标准库、可离线生成单章/整卷/全本 |
+| 2026-10-20 05:24:17 | [practicaldl](https://pypi.org/project/practicaldl/) | 0.1.0 |  | 33.2 kB | My DL practicals: import one and its source code prints |
+| 2026-10-20 05:27:10 | [pixtreme-transport](https://pypi.org/project/pixtreme-transport/) | 0.16.9 | minamik <mia@sync.dev> | 10.7 MB | Core and C++ module SDK connecting external video streams with pixtreme frames |
+| 2026-10-20 05:28:13 | [roleplayer](https://pypi.org/project/roleplayer/) | 3.0.1 | siwpan | 1.6 MB | 融合 D&D 三宝书 / GURPS 4e / CoC 的跑团模拟器：角色构建 + GM 模拟（Oracle）+ 战斗/法术/补给 + 存档重演，纯标准库 |
+| 2026-10-20 05:29:37 | [expgate](https://pypi.org/project/expgate/) | 0.1.0 | Bicheng Wang | 66.3 kB | Replayable ship / hold / rollback decision records for online experiments |
+| 2026-10-20 05:31:31 | [loggingsetup](https://pypi.org/project/loggingsetup/) | 0.0.2 | xequ4 | 14.9 kB | This is an improved and customized version of logging for a quick start. |
+| 2026-10-20 05:32:02 | [decisioncontrol](https://pypi.org/project/decisioncontrol/) | 0.1.0 | Bicheng Wang | 74.5 kB | Policy-constrained local ticket actions with durable review and replayable evid… |
+| 2026-10-20 05:32:47 | [jevdecision](https://pypi.org/project/jevdecision/) | 0.1.0 | Bicheng Wang | 87.6 kB | Typed AI-assisted decisions and replayable offline evaluation records |
+| 2026-10-20 05:34:59 | [pydoccraft](https://pypi.org/project/pydoccraft/) | 0.2.1 | pydoccraft contributors | 123.3 MB | Compact in-process PDF and OOXML document extraction |
+| 2026-10-20 05:36:11 | [oboa](https://pypi.org/project/oboa/) | 0.1.0 | Daniel Brosnan Blázquez | 96.5 kB | Orchestrator for Business Operations Analysis |
+| 2026-10-20 05:37:16 | [dwg2pdf](https://pypi.org/project/dwg2pdf/) | 0.1.1 |  | 15.3 MB | DWG 工程图纸解析：图框识别、图签/图纸目录提取与逐图框 PDF 导出 |
+| 2026-10-20 05:42:44 | [luminamoon](https://pypi.org/project/luminamoon/) | 1.0.0.post1 | Lumina Moon (runnerx-id) | 5.4 MB | High-Performance Numerical Optimization, Multimodal Dataset Streaming, and Form… |
+| 2026-10-20 05:43:25 | [vizcontrol](https://pypi.org/project/vizcontrol/) | 0.1.0 | Datzin <contacto@datzin.com.m… | 1.6 MB | Observe what a Python program really does and explore it as an interactive grap… |
+| 2026-10-20 05:49:43 | [witnessed-sdk](https://pypi.org/project/witnessed-sdk/) | 0.1.2 | Barry Marshall | 8.8 kB | Verify a Witnessed publication without trusting it: Ed25519 signature, canonica… |
+| 2026-10-20 05:50:06 | [susypy](https://pypi.org/project/susypy/) | 1.1.0 | "Isaiah B. Hilsenrath" <ibh@s… | 85.4 kB | A symbolic algebra system for supersymmetry calculations, built on Cadabra2. |
+| 2026-10-20 05:51:15 | [kvleak](https://pypi.org/project/kvleak/) | 0.1.0 | kvleak contributors | 184.7 kB | Find where your AI coding agent leaks prompt-cache money (Claude Code, multi-ag… |
+| 2026-10-20 05:54:10 | [cg2at2](https://pypi.org/project/cg2at2/) | 1.0.1 | Owen N. Vickery | 58.9 MB | CG2AT2: fragment-based conversion of coarse-grained (e.g. Martini) systems to a… |
+| 2026-10-20 05:55:30 | [opdl](https://pypi.org/project/opdl/) | 0.2.1 | RSEMES | 67.0 MB | Deep Learning practicals 1-9 (import name: DL): feed-forward, regularization, F… |
+| 2026-10-20 05:56:38 | [bicep-cost](https://pypi.org/project/bicep-cost/) | 0.1.1 |  | 185.0 kB | Estimate monthly Azure costs from Bicep / ARM templates using the public Azure… |
+| 2026-10-20 05:58:35 | [code-search-graph](https://pypi.org/project/code-search-graph/) | 0.8.0 | wangfenghuan | 20.6 MB | Fast, intelligent, multi-language code search and AST call graph MCP server for… |
+| 2026-10-20 06:01:58 | [recoupable](https://pypi.org/project/recoupable/) | 0.1.0 | Recoup <agent@recoupable.dev> | 15.7 kB | Official Recoup Python client for JSON platform endpoints |
+| 2026-10-20 06:11:10 | [lapbox](https://pypi.org/project/lapbox/) | 0.1.0 | LapBox | 591.7 kB | Formula 1 analysis on top of FastF1 — and it says so when it can't. |
+| 2026-10-20 06:16:31 | [cell-ledger](https://pypi.org/project/cell-ledger/) | 0.1.0 |  | 158.5 kB | A content-addressed ledger for parameter-space experiments |
+| 2026-10-20 06:17:19 | [dwis-client](https://pypi.org/project/dwis-client/) | 0.1.0 | DWIS <info@d-wis.org> | 46.5 kB | Python reference OPC UA client for the DWIS blackboard |

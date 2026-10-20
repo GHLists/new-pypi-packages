@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T05:24:17Z,practicaldl,0.1.0,,,33228,My DL practicals: import one and its source code prints
+2026-10-20T05:27:10Z,pixtreme-transport,0.16.9,minamik <mia@sync.dev>,MIT,10697138,Core and C++ module SDK connecting external video streams with pixtreme frames
+2026-10-20T05:28:13Z,roleplayer,3.0.1,siwpan,MIT,1551985,融合 D&D 三宝书 / GURPS 4e / CoC 的跑团模拟器：角色构建 + GM 模拟（Oracle）+ 战斗/法术/补给 + 存档重演，纯标准库
+2026-10-20T05:29:37Z,expgate,0.1.0,Bicheng Wang,MIT,66332,Replayable ship / hold / rollback decision records for online experiments
+2026-10-20T05:31:31Z,loggingsetup,0.0.2,xequ4,,14877,This is an improved and customized version of logging for a quick start.
+2026-10-20T05:32:02Z,decisioncontrol,0.1.0,Bicheng Wang,MIT,74474,Policy-constrained local ticket actions with durable review and replayable evidence
+2026-10-20T05:32:47Z,jevdecision,0.1.0,Bicheng Wang,MIT,87629,Typed AI-assisted decisions and replayable offline evaluation records
+2026-10-20T05:34:59Z,pydoccraft,0.2.1,pydoccraft contributors,Apache-2.0,123275673,Compact in-process PDF and OOXML document extraction
+2026-10-20T05:36:11Z,oboa,0.1.0,Daniel Brosnan Blázquez,MIT,96487,Orchestrator for Business Operations Analysis
+2026-10-20T05:37:16Z,dwg2pdf,0.1.1,,,15345837,DWG 工程图纸解析：图框识别、图签/图纸目录提取与逐图框 PDF 导出
+2026-10-20T05:42:44Z,luminamoon,1.0.0.post1,Lumina Moon (runnerx-id),Apache-2.0,5362161,"High-Performance Numerical Optimization, Multimodal Dataset Streaming, and Formal Verification Suite for PROJECT LUMI"
+2026-10-20T05:43:25Z,vizcontrol,0.1.0,Datzin <contacto@datzin.com.mx>,AGPL-3.0-or-later,1586307,Observe what a Python program really does and explore it as an interactive graph.
+2026-10-20T05:49:43Z,witnessed-sdk,0.1.2,Barry Marshall,MIT,8773,"Verify a Witnessed publication without trusting it: Ed25519 signature, canonical bytes, freshness."
+2026-10-20T05:50:06Z,susypy,1.1.0,"""Isaiah B. Hilsenrath"" <ibh@sas.upenn.edu>, Saul Hilsenrath <saulhils@sas.upenn.edu>",GPL-3.0-or-later,85431,"A symbolic algebra system for supersymmetry calculations, built on Cadabra2."
+2026-10-20T05:51:15Z,kvleak,0.1.0,kvleak contributors,MIT,184650,"Find where your AI coding agent leaks prompt-cache money (Claude Code, multi-agent, any JSONL) and how to stop it."
+2026-10-20T05:54:10Z,cg2at2,1.0.1,Owen N. Vickery,GPL-3.0,58858739,CG2AT2: fragment-based conversion of coarse-grained (e.g. Martini) systems to atomistic resolution.
+2026-10-20T05:55:30Z,opdl,0.2.1,RSEMES,MIT,66980583,"Deep Learning practicals 1-9 (import name: DL): feed-forward, regularization, FixMatch, multi-task, CNN, autoencoder, RNN, recursive NN and linear models"
+2026-10-20T05:56:38Z,bicep-cost,0.1.1,,MIT,184969,Estimate monthly Azure costs from Bicep / ARM templates using the public Azure Retail Prices API
+2026-10-20T05:58:35Z,code-search-graph,0.8.0,wangfenghuan,MIT,20637769,"Fast, intelligent, multi-language code search and AST call graph MCP server for AI assistants (Python, TypeScript, JavaScript, Go, Java, Rust)"
+2026-10-20T06:01:58Z,recoupable,0.1.0,Recoup <agent@recoupable.dev>,MIT,15744,Official Recoup Python client for JSON platform endpoints
+2026-10-20T06:11:10Z,lapbox,0.1.0,LapBox,MIT,591741,Formula 1 analysis on top of FastF1 — and it says so when it can't.
+2026-10-20T06:16:31Z,cell-ledger,0.1.0,,MIT,158545,A content-addressed ledger for parameter-space experiments
+2026-10-20T06:17:19Z,dwis-client,0.1.0,DWIS <info@d-wis.org>,MIT,46480,Python reference OPC UA client for the DWIS blackboard
