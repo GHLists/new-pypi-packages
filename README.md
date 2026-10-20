@@ -8,48 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 08:20 UTC
+## Latest list — 2026-10-20 09:18 UTC
 
-New packages created between 2026-10-20 07:19 UTC and 2026-10-20 08:20 UTC.
+New packages created between 2026-10-20 08:20 UTC and 2026-10-20 09:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-20T08-20-54-632486Z.csv)
+[Full CSV](data/new-packages-2026-10-20T09-18-59-129727Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-20 07:21:44 | [yomineko](https://pypi.org/project/yomineko/) | 0.5.0 | ctorres345 | 10.6 MB | Extract the Japanese script from game ROMs you own and turn it into study mater… |
-| 2026-10-20 07:21:51 | [vllm-iquest-q1](https://pypi.org/project/vllm-iquest-q1/) | 0.1.0 |  | 27.4 kB | IQuest-Q1 models and parsers for vLLM |
-| 2026-10-20 07:23:54 | [temporary-earthkit-plots-metno-styles](https://pypi.org/project/temporary-earthkit-plots-metno-styles/) | 0.1.0 |  | 186.5 kB | DCCMS styles for use with earthkit-plots |
-| 2026-10-20 07:28:03 | [fastapi-webrtc](https://pypi.org/project/fastapi-webrtc/) | 0.1.0 | Mathis Arends <mathisarends27… | 185.7 kB | Typed WebRTC sessions for FastAPI with signaling, engines and generated browser… |
-| 2026-10-20 07:28:23 | [otskit](https://pypi.org/project/otskit/) | 0.1.0 | Lelimo Capital sp. z o.o. | 114.4 kB | OpenTimestamps (.ots) reader, writer, calendar client and verifier — standard l… |
-| 2026-10-20 07:28:34 | [evix-verify](https://pypi.org/project/evix-verify/) | 0.3.1 | Lelimo Capital sp. z o.o. | 197.8 kB | Independent, offline verifier and commitment format for Evix attestations (EAS… |
-| 2026-10-20 07:30:20 | [ionoflux](https://pypi.org/project/ionoflux/) | 0.1.1 |  | 54.2 kB | Official synchronous Python client for the IonoFlux data API |
-| 2026-10-20 07:30:21 | [vivexy-agents-core](https://pypi.org/project/vivexy-agents-core/) | 0.2.0 |  | 1.7 MB | Core agent orchestration, tools, and business logic for Vivexy |
-| 2026-10-20 07:32:37 | [generalized-rashomon-set](https://pypi.org/project/generalized-rashomon-set/) | 0.2.0 | Sichao Li <sichao.li@anu.edu.… | 80.8 kB | Sample a Rashomon set around a trained model and explain feature attributions a… |
-| 2026-10-20 07:33:19 | [undolog-sdk](https://pypi.org/project/undolog-sdk/) | 0.1.0 | UndoLog Contributors | 179.9 kB | Python SDK for the UndoLog effect-tracking and exactly-once execution system |
-| 2026-10-20 07:39:06 | [human-mouse-sdk](https://pypi.org/project/human-mouse-sdk/) | 1.0.0 | wangchuang <327600068@qq.com> | 54.0 kB | AI-driven human mouse behavior SDK: trajectories, click timing, drag and scroll… |
-| 2026-10-20 07:40:33 | [xdog-eyes](https://pypi.org/project/xdog-eyes/) | 2.4.4 |  | 167.1 kB | Declarative local observation and source-neutral agent event delivery |
-| 2026-10-20 07:42:27 | [voicedex](https://pypi.org/project/voicedex/) | 0.0.3 | Bernardo Castro <me@bernardoc… | 1.2 MB | Every voice AI vendor's models, prices, voices, settings and limits, scraped an… |
-| 2026-10-20 07:44:20 | [odoo-addon-barcode-purchase](https://pypi.org/project/odoo-addon-barcode-purchase/) | 18.0.1.0.0.2 | Binhex, Odoo Community Associ… | 59.8 kB | Create purchase orders by barcode: scan products against a vendor and confirm t… |
-| 2026-10-20 07:44:22 | [hfms-bridge](https://pypi.org/project/hfms-bridge/) | 0.4.0 | ExcitingMe | 119.6 kB | Stream models and datasets between HuggingFace and ModelScope |
-| 2026-10-20 07:46:15 | [ajna-cli](https://pypi.org/project/ajna-cli/) | 0.1.0 | Abhi Singh | 145.2 kB | A fast, zero-dependency terminal coding agent in pure Python |
-| 2026-10-20 07:50:59 | [builtwith-official](https://pypi.org/project/builtwith-official/) | 0.1.1 | BuiltWith Pty Ltd <support@bu… | 46.8 kB | Official typed synchronous and asynchronous BuiltWith API SDK |
-| 2026-10-20 07:53:27 | [mistralai-capabilities-backend-fastapi](https://pypi.org/project/mistralai-capabilities-backend-fastapi/) | 0.1.36 |  | 25.9 kB | The HTTP delivery machinery apps/api is built on: the file-based router loader,… |
-| 2026-10-20 07:55:16 | [citereel](https://pypi.org/project/citereel/) | 0.1.0 | Yinghuai Fu | 70.7 kB | Cited RAG replay: record runs, map [n] citations to chunks, replay offline. |
-| 2026-10-20 07:55:41 | [peerpedia-cli](https://pypi.org/project/peerpedia-cli/) | 0.1.0 | Chenqi Meng | 28.1 kB | Edit Markdown locally and submit frozen Peerpedia proposals |
-| 2026-10-20 07:57:24 | [inksep](https://pypi.org/project/inksep/) | 1.0.0 | inksep contributors | 72.2 kB | Separation-constrained weighted Voronoi stippling: image to stippled SVG |
-| 2026-10-20 07:59:32 | [silverbaths](https://pypi.org/project/silverbaths/) | 0.0.1 | Sumuk Shashidhar | 1.9 kB | Film looks for photos, camera raws and video, built for people and agents. Plac… |
-| 2026-10-20 08:00:11 | [arabic-itn](https://pypi.org/project/arabic-itn/) | 0.1.0 | Sohaib Thiab | 32.8 kB | Turn spoken-form Arabic ASR transcripts into exact values: phones, money, dates… |
-| 2026-10-20 08:01:52 | [mcp-server-hyperlight](https://pypi.org/project/mcp-server-hyperlight/) | 0.1.0 | The Hyperlight Authors | 40.3 kB | An MCP server that runs Python in a local Hyperlight micro-VM |
-| 2026-10-20 08:05:38 | [klino](https://pypi.org/project/klino/) | 1.0.0 |  | 81.8 kB | Fast data cleaning CLI for ML, NLP, CV and Time Series |
-| 2026-10-20 08:06:36 | [ais-webmcp](https://pypi.org/project/ais-webmcp/) | 0.1.0 | Alpin Insight Solutions GmbH… | 103.6 kB | Create, validate and manage WebMCP manifests for any kind of website |
-| 2026-10-20 08:08:19 | [miniworld-engine](https://pypi.org/project/miniworld-engine/) | 2.3.0 |  | 146.7 MB | MiniWorld GPU kernel development repo — Triton / CUDA kernels + benches for AF3… |
-| 2026-10-20 08:08:22 | [setalabs](https://pypi.org/project/setalabs/) | 1.0.0 |  | 26.9 kB | Python client for the Setalabs API gateway |
-| 2026-10-20 08:10:48 | [keelmap](https://pypi.org/project/keelmap/) | 0.1.1 | Konstantinos Lianos <kon_lian… | 514.1 kB | Passive OT and maritime asset discovery with evidence for every field |
-| 2026-10-20 08:10:48 | [piperch](https://pypi.org/project/piperch/) | 0.2.0 | fishyy119 <fishyy109@foxmail.… | 8.9 MB | 本地优先的 Pixiv 下载、浏览与管理工具 |
-| 2026-10-20 08:14:41 | [aimarket-oracle-landauer](https://pypi.org/project/aimarket-oracle-landauer/) | 0.1.0 |  | 26.9 kB | Landauer — thermodynamic compute-cost audit oracle on oracle-core |
-| 2026-10-20 08:14:55 | [citrus-code](https://pypi.org/project/citrus-code/) | 0.1.0 |  | 157.6 kB | A small Python coding agent inspired by pi, built as a learning project. |
-| 2026-10-20 08:15:11 | [dairy-data-tools](https://pypi.org/project/dairy-data-tools/) | 0.2.0 | Pádraig Lucey | 151.2 kB | Read a dairy farm's DairyComp and EZfeed exports: the herd, each pen and cow, p… |
-| 2026-10-20 08:15:30 | [repro-events](https://pypi.org/project/repro-events/) | 1.2.0 |  | 58.6 kB | Repro event schema tooling: schema registry, validation, and agent-output schem… |
-| 2026-10-20 08:15:38 | [cuddler](https://pypi.org/project/cuddler/) | 0.1.0 |  | 24.1 kB | Official Cuddler Platform client |
-| 2026-10-20 08:16:07 | [repro-engine](https://pypi.org/project/repro-engine/) | 1.2.0 |  | 1.4 MB | Repro engine: reproduces agent-written code changes base-vs-head and verifies t… |
-| 2026-10-20 08:20:06 | [finopal-py-sdk](https://pypi.org/project/finopal-py-sdk/) | 0.1.0 | FinoPal <support@finopal.ir> | 77.6 kB | Python SDK for the FinoPal online payment gateway (درگاه پرداخت اینترنتی فینوپا… |
+| 2026-10-20 08:15:12 | [yapwrap](https://pypi.org/project/yapwrap/) | 0.0.1a1 | YapWrap Contributors | 288.5 kB | Framework-agnostic streaming voice pipeline for AI agents |
+| 2026-10-20 08:25:34 | [langchain-clawfetch](https://pypi.org/project/langchain-clawfetch/) | 0.1.0 |  | 14.4 kB | LangChain tools for ClawFetch — pay-per-call web intelligence for AI agents (x4… |
+| 2026-10-20 08:25:45 | [llama-index-tools-clawfetch](https://pypi.org/project/llama-index-tools-clawfetch/) | 0.1.0 |  | 11.8 kB | llama-index tools clawfetch integration — pay-per-call web intelligence for AI… |
+| 2026-10-20 08:25:55 | [crewai-clawfetch](https://pypi.org/project/crewai-clawfetch/) | 0.1.0 |  | 13.3 kB | CrewAI tools for ClawFetch — pay-per-call web intelligence for AI agents (x402,… |
+| 2026-10-20 08:31:34 | [coxrmstsimpson](https://pypi.org/project/coxrmstsimpson/) | 0.2.2 | Ian Forde <fordeia@appstate.e… | 13.0 kB | Restricted mean survival time from Cox models using composite Simpson's rule |
+| 2026-10-20 08:37:38 | [m3u8-cli](https://pypi.org/project/m3u8-cli/) | 0.1.0 | r1a | 76.6 kB | HLS 视频下载与格式转换工具 |
+| 2026-10-20 08:40:50 | [paysawa](https://pypi.org/project/paysawa/) | 0.1.0 | Paysawa | 26.9 kB | Python SDK for the Paysawa mobile money gateway (MTN / Orange): collect, withdr… |
+| 2026-10-20 08:42:16 | [player2](https://pypi.org/project/player2/) | 0.0.1 |  | 6.5 kB | A lightweight client for Player2 |
+| 2026-10-20 08:42:36 | [minidb-db](https://pypi.org/project/minidb-db/) | 0.3.0 | V1PASH | 153.1 kB | A MongoDB-style document database written from scratch, with schema validation… |
+| 2026-10-20 08:42:47 | [gemini-adk-study-coach-lab](https://pypi.org/project/gemini-adk-study-coach-lab/) | 1.1.0 | Hastimal Jangid | 174.8 kB | AI Study Coach helping students prepare for technical certifications |
+| 2026-10-20 08:43:05 | [carejobs](https://pypi.org/project/carejobs/) | 1.0.0 | "CareJobs.Now" <hello@carejob… | 30.0 kB | Client and CLI for the CareJobs.Now healthcare jobs API: search US healthcare j… |
+| 2026-10-20 08:43:07 | [llama-index-tools-carejobs](https://pypi.org/project/llama-index-tools-carejobs/) | 0.1.0 | yumaheymans | 17.6 kB | llama-index tools carejobs integration: open US healthcare jobs, pay and employ… |
+| 2026-10-20 08:43:10 | [langchain-carejobs](https://pypi.org/project/langchain-carejobs/) | 0.1.0 | "CareJobs.Now" <hello@carejob… | 30.6 kB | LangChain tools for CareJobs.Now: open US healthcare jobs, posted pay and emplo… |
+| 2026-10-20 08:43:13 | [carejobs-haystack](https://pypi.org/project/carejobs-haystack/) | 0.1.0 | "CareJobs.Now" <hello@carejob… | 40.1 kB | Haystack components and tools for CareJobs.Now: open US healthcare jobs, posted… |
+| 2026-10-20 08:44:07 | [pemba](https://pypi.org/project/pemba/) | 0.1.0a1 |  | 4.1 MB | Embedded, Zanzibar-style authorisation engine. |
+| 2026-10-20 08:44:39 | [pbhc](https://pypi.org/project/pbhc/) | 0.1.0 | Albert Alonso <alonfnt@pm.me> | 13.8 kB | Minimal parallel Bayesian hierarchical clustering on graphs in JAX. |
+| 2026-10-20 08:44:45 | [justkitten](https://pypi.org/project/justkitten/) | 0.8.0 | Igor Djachenko | 65.2 kB | Utilities for the Justin project |
+| 2026-10-20 08:46:23 | [odoo-addon-grupxarxa-base](https://pypi.org/project/odoo-addon-grupxarxa-base/) | 18.0.1.0.0.1 | Coopdevs Treball SCCL | 26.9 kB | Xarxa master data models (projects, typologies, containers) |
+| 2026-10-20 08:46:38 | [odoo-addon-grupxarxa-product](https://pypi.org/project/odoo-addon-grupxarxa-product/) | 18.0.1.0.0.1 | Coopdevs Treball SCCL | 21.5 kB | Xarxa functional information on products |
+| 2026-10-20 08:47:13 | [odoo-addon-grupxarxa-mrp](https://pypi.org/project/odoo-addon-grupxarxa-mrp/) | 18.0.1.0.0.1 | Xarxa | 9.1 kB | Revision traceability on manufacturing orders |
+| 2026-10-20 08:48:25 | [atsp-world](https://pypi.org/project/atsp-world/) | 0.1.0 | Ryan Gillespie / Optitransfer | 18.0 kB | Live experimental discovery run (ATSP World 0.1.0) to ascertain agent activity… |
+| 2026-10-20 08:48:25 | [litrun](https://pypi.org/project/litrun/) | 0.1.0 | litrun Contributors <dev@litr… | 99.2 kB | Universal lightweight embedded Linux AI runtime for Raspberry Pi, Orange Pi, an… |
+| 2026-10-20 08:57:12 | [yby-search](https://pypi.org/project/yby-search/) | 0.1.0 | yby contributors | 14.2 kB | yby — command-line client for Tencent Yuanbao Search (元宝搜索) web search API |
+| 2026-10-20 08:59:49 | [paramtrack](https://pypi.org/project/paramtrack/) | 0.1.0 | Alessio Popovic | 5.7 kB | Remembers the arguments of each method's last call, defaults included. |
+| 2026-10-20 09:00:22 | [decision-model-guard](https://pypi.org/project/decision-model-guard/) | 0.1.0 | Patronus Protect | 245.9 kB | Guardrails for decision models: stop text inside the content from steering clas… |
+| 2026-10-20 09:01:09 | [shopee-smart-agent-acp](https://pypi.org/project/shopee-smart-agent-acp/) | 0.0.0 | sc | 2.5 kB | A small example package |
+| 2026-10-20 09:03:28 | [meme-core](https://pypi.org/project/meme-core/) | 0.1.0 | Abel <abel@example.com> | 33.5 kB | Memory-Compute Pareto analysis core: guarded memory strategies and solver-based… |
+| 2026-10-20 09:08:29 | [tell-mcp](https://pypi.org/project/tell-mcp/) | 0.1.0 | Karan Kapur | 29.3 kB | MCP server exposing tell buying signals (in_market, explain, events, coverage,… |
+| 2026-10-20 09:08:53 | [lingora-cli](https://pypi.org/project/lingora-cli/) | 0.1.0rc1 |  | 66.4 kB | Lingora translation synchronization CLI |
+| 2026-10-20 09:09:14 | [sendflo](https://pypi.org/project/sendflo/) | 0.1.0 | SendFlo LLC <dev@sendflo.app> | 21.6 kB | SendFlo for Python: send files, request files, manage transfers and AI agent ta… |
+| 2026-10-20 09:09:54 | [attache](https://pypi.org/project/attache/) | 0.0.1 | OpenAfterHours contributors | 737.0 kB | A personal assistant you install with one command. Small core; channels, email… |
+| 2026-10-20 09:11:47 | [pyfinews](https://pypi.org/project/pyfinews/) | 0.1.0 | pyfinews contributors | 103.1 kB | A lightweight Python package for discovering financial news headlines through G… |
+| 2026-10-20 09:12:32 | [factreel](https://pypi.org/project/factreel/) | 0.1.0 | Jorge Lamelas <205297977+Dead… | 1.6 MB | Fact-checked faceless short videos (YouTube Shorts, TikTok, Reels) from a list… |
+| 2026-10-20 09:15:31 | [opencie-pkcs11](https://pypi.org/project/opencie-pkcs11/) | 0.4.0 | Gianluca Boiano <morf3089@gma… | 57.9 kB | Python ctypes bindings for libopencie-pkcs11 — PKCS#11 interface for the Italia… |
+| 2026-10-20 09:16:06 | [smashuml](https://pypi.org/project/smashuml/) | 0.1.0 | Adam Ocheri | 143.3 kB | Deterministic UML class diagrams (draw.io) generated from source code |
+| 2026-10-20 09:18:40 | [yousleep](https://pypi.org/project/yousleep/) | 0.0.1 | Mathias Perslev <mp@yousleep.… | 10.4 kB | youSleep's Python SDK. Not released yet: until then, install yousleep-common. |
