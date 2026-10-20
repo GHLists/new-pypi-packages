@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T06:24:42Z,12345e67dfghjk,0.1.0,,,1310,просто код
+2026-10-20T06:29:58Z,cultureos,0.10.0,AgentCulture,Apache-2.0,260093,"CultureOS - an operating system built on Culture, the AgentCulture agent mesh."
+2026-10-20T06:36:45Z,devdemo-mcp-tools,0.1.0,,MIT,10409,培训演示用 MCP 服务：人民币金额大写、工单查询/创建/统计
+2026-10-20T06:42:38Z,object-healer,0.1.0,Aaron Montgomery,GPL-3.0-or-later,162636,"Repair meshes for 3D printing in headless Blender: merge duplicate vertices, fix normals, fill holes. Drag-and-drop window or command line."
+2026-10-20T06:43:20Z,catchdev,0.1.0,,MIT,40599,Tells you what your AI coding agent just broke
+2026-10-20T06:44:42Z,projectbrain-mcp,0.2.0,,MIT,181563,"Surgical AST Context Compiler, Closed-World Dossier & Anchor Patch Engine for AI Coding Agents (-75% to -88% tokens)"
+2026-10-20T06:44:47Z,certscout,0.1.0,,MPL-2.0,159154,Corporate certificate acquisition and lifecycle management
+2026-10-20T06:47:50Z,fomtools,0.0.2,"Vinit Ranjan <vranjan1@mit.edu>, Daniel Deza <dd7022@princeton.edu>, Anushka Acharya <aa9078@prince…",Apache 2.0,1318586,FOMTools: A Python Toolbox for Analysis of First-Order Methods
+2026-10-20T06:54:58Z,basepilot,0.1.1,Peter Wong,MIT,837139,面向企业交付的飞书多维表格 MCP Server —— 让 Claude Code / Cursor 安全读写业务台账
+2026-10-20T07:00:22Z,shioaji-cli,1.7.9,yvictor <yvictor3141@gmail.com>,,98491645,Shioaji standalone CLI and local HTTP API server
+2026-10-20T07:03:10Z,siftwise,0.1.0,,Apache-2.0,318288,Open-source test impact analysis for agent-driven CI
+2026-10-20T07:08:51Z,mcp-cookidoo,1.0.0,"Tobias Meindl, Alexandre Patelli",MIT,80008,"MCP server for Thermomix & Cookidoo: create recipes with guided cooking (TM6/TM7 modes, Varoma, Turbo), search recipes, plan your week and fill your shopping list"
+2026-10-20T07:09:01Z,eii-cloud,0.1.0,Michael Bidollahkhani,MIT,173551,"Early Instability Indicator Cloud: context-aware, explainable instability detection, evidence fusion and scientific visualization for predictive maintenance."
+2026-10-20T07:09:57Z,ms-music,0.3.0,Matthias Anagho-Mattanovich <matthias.mattanovich@sund.ku.dk>,MIT,421215,A Python package to generate audio from mass spectrometry data.
+2026-10-20T07:11:03Z,kompactor,0.5.0,,MIT,451903,"Cut the tokens Claude Code spends on noise: compacted command output (failing runs included), outline-first reads, a local code graph, and per-turn savings."
+2026-10-20T07:11:12Z,bookcicle-eventing,1.0.1,Bookcicle,MIT,13184,Privacy-conscious Eventing by Bookcicle SDK
+2026-10-20T07:11:28Z,aimarket-oracle-kantor,0.1.0,,,36515,"Kantor — exact optimal-transport (Wasserstein) oracle with a Kantorovich dual certificate, on oracle-core"
+2026-10-20T07:16:37Z,safestage-cli,0.2.0,prykindmitriy01-beep,MIT,45335,"Safe AI-assisted code editing: isolate the file, review the diff, approve, roll back."
+2026-10-20T07:17:13Z,mdtodo,0.1.0,mjws4oss,MIT,27949,A todo list manager that keeps projects and tasks in a plain markdown file.

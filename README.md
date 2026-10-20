@@ -8,34 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 06:19 UTC
+## Latest list — 2026-10-20 07:19 UTC
 
-New packages created between 2026-10-20 05:19 UTC and 2026-10-20 06:19 UTC.
+New packages created between 2026-10-20 06:19 UTC and 2026-10-20 07:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-20T06-19-25-783218Z.csv)
+[Full CSV](data/new-packages-2026-10-20T07-19-49-34505Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-20 05:24:17 | [practicaldl](https://pypi.org/project/practicaldl/) | 0.1.0 |  | 33.2 kB | My DL practicals: import one and its source code prints |
-| 2026-10-20 05:27:10 | [pixtreme-transport](https://pypi.org/project/pixtreme-transport/) | 0.16.9 | minamik <mia@sync.dev> | 10.7 MB | Core and C++ module SDK connecting external video streams with pixtreme frames |
-| 2026-10-20 05:28:13 | [roleplayer](https://pypi.org/project/roleplayer/) | 3.0.1 | siwpan | 1.6 MB | 融合 D&D 三宝书 / GURPS 4e / CoC 的跑团模拟器：角色构建 + GM 模拟（Oracle）+ 战斗/法术/补给 + 存档重演，纯标准库 |
-| 2026-10-20 05:29:37 | [expgate](https://pypi.org/project/expgate/) | 0.1.0 | Bicheng Wang | 66.3 kB | Replayable ship / hold / rollback decision records for online experiments |
-| 2026-10-20 05:31:31 | [loggingsetup](https://pypi.org/project/loggingsetup/) | 0.0.2 | xequ4 | 14.9 kB | This is an improved and customized version of logging for a quick start. |
-| 2026-10-20 05:32:02 | [decisioncontrol](https://pypi.org/project/decisioncontrol/) | 0.1.0 | Bicheng Wang | 74.5 kB | Policy-constrained local ticket actions with durable review and replayable evid… |
-| 2026-10-20 05:32:47 | [jevdecision](https://pypi.org/project/jevdecision/) | 0.1.0 | Bicheng Wang | 87.6 kB | Typed AI-assisted decisions and replayable offline evaluation records |
-| 2026-10-20 05:34:59 | [pydoccraft](https://pypi.org/project/pydoccraft/) | 0.2.1 | pydoccraft contributors | 123.3 MB | Compact in-process PDF and OOXML document extraction |
-| 2026-10-20 05:36:11 | [oboa](https://pypi.org/project/oboa/) | 0.1.0 | Daniel Brosnan Blázquez | 96.5 kB | Orchestrator for Business Operations Analysis |
-| 2026-10-20 05:37:16 | [dwg2pdf](https://pypi.org/project/dwg2pdf/) | 0.1.1 |  | 15.3 MB | DWG 工程图纸解析：图框识别、图签/图纸目录提取与逐图框 PDF 导出 |
-| 2026-10-20 05:42:44 | [luminamoon](https://pypi.org/project/luminamoon/) | 1.0.0.post1 | Lumina Moon (runnerx-id) | 5.4 MB | High-Performance Numerical Optimization, Multimodal Dataset Streaming, and Form… |
-| 2026-10-20 05:43:25 | [vizcontrol](https://pypi.org/project/vizcontrol/) | 0.1.0 | Datzin <contacto@datzin.com.m… | 1.6 MB | Observe what a Python program really does and explore it as an interactive grap… |
-| 2026-10-20 05:49:43 | [witnessed-sdk](https://pypi.org/project/witnessed-sdk/) | 0.1.2 | Barry Marshall | 8.8 kB | Verify a Witnessed publication without trusting it: Ed25519 signature, canonica… |
-| 2026-10-20 05:50:06 | [susypy](https://pypi.org/project/susypy/) | 1.1.0 | "Isaiah B. Hilsenrath" <ibh@s… | 85.4 kB | A symbolic algebra system for supersymmetry calculations, built on Cadabra2. |
-| 2026-10-20 05:51:15 | [kvleak](https://pypi.org/project/kvleak/) | 0.1.0 | kvleak contributors | 184.7 kB | Find where your AI coding agent leaks prompt-cache money (Claude Code, multi-ag… |
-| 2026-10-20 05:54:10 | [cg2at2](https://pypi.org/project/cg2at2/) | 1.0.1 | Owen N. Vickery | 58.9 MB | CG2AT2: fragment-based conversion of coarse-grained (e.g. Martini) systems to a… |
-| 2026-10-20 05:55:30 | [opdl](https://pypi.org/project/opdl/) | 0.2.1 | RSEMES | 67.0 MB | Deep Learning practicals 1-9 (import name: DL): feed-forward, regularization, F… |
-| 2026-10-20 05:56:38 | [bicep-cost](https://pypi.org/project/bicep-cost/) | 0.1.1 |  | 185.0 kB | Estimate monthly Azure costs from Bicep / ARM templates using the public Azure… |
-| 2026-10-20 05:58:35 | [code-search-graph](https://pypi.org/project/code-search-graph/) | 0.8.0 | wangfenghuan | 20.6 MB | Fast, intelligent, multi-language code search and AST call graph MCP server for… |
-| 2026-10-20 06:01:58 | [recoupable](https://pypi.org/project/recoupable/) | 0.1.0 | Recoup <agent@recoupable.dev> | 15.7 kB | Official Recoup Python client for JSON platform endpoints |
-| 2026-10-20 06:11:10 | [lapbox](https://pypi.org/project/lapbox/) | 0.1.0 | LapBox | 591.7 kB | Formula 1 analysis on top of FastF1 — and it says so when it can't. |
-| 2026-10-20 06:16:31 | [cell-ledger](https://pypi.org/project/cell-ledger/) | 0.1.0 |  | 158.5 kB | A content-addressed ledger for parameter-space experiments |
-| 2026-10-20 06:17:19 | [dwis-client](https://pypi.org/project/dwis-client/) | 0.1.0 | DWIS <info@d-wis.org> | 46.5 kB | Python reference OPC UA client for the DWIS blackboard |
+| 2026-10-20 06:24:42 | [12345e67dfghjk](https://pypi.org/project/12345e67dfghjk/) | 0.1.0 |  | 1.3 kB | просто код |
+| 2026-10-20 06:29:58 | [cultureos](https://pypi.org/project/cultureos/) | 0.10.0 | AgentCulture | 260.1 kB | CultureOS - an operating system built on Culture, the AgentCulture agent mesh. |
+| 2026-10-20 06:36:45 | [devdemo-mcp-tools](https://pypi.org/project/devdemo-mcp-tools/) | 0.1.0 |  | 10.4 kB | 培训演示用 MCP 服务：人民币金额大写、工单查询/创建/统计 |
+| 2026-10-20 06:42:38 | [object-healer](https://pypi.org/project/object-healer/) | 0.1.0 | Aaron Montgomery | 162.6 kB | Repair meshes for 3D printing in headless Blender: merge duplicate vertices, fi… |
+| 2026-10-20 06:43:20 | [catchdev](https://pypi.org/project/catchdev/) | 0.1.0 |  | 40.6 kB | Tells you what your AI coding agent just broke |
+| 2026-10-20 06:44:42 | [projectbrain-mcp](https://pypi.org/project/projectbrain-mcp/) | 0.2.0 |  | 181.6 kB | Surgical AST Context Compiler, Closed-World Dossier & Anchor Patch Engine for A… |
+| 2026-10-20 06:44:47 | [certscout](https://pypi.org/project/certscout/) | 0.1.0 |  | 159.2 kB | Corporate certificate acquisition and lifecycle management |
+| 2026-10-20 06:47:50 | [fomtools](https://pypi.org/project/fomtools/) | 0.0.2 | Vinit Ranjan <vranjan1@mit.ed… | 1.3 MB | FOMTools: A Python Toolbox for Analysis of First-Order Methods |
+| 2026-10-20 06:54:58 | [basepilot](https://pypi.org/project/basepilot/) | 0.1.1 | Peter Wong | 837.1 kB | 面向企业交付的飞书多维表格 MCP Server —— 让 Claude Code / Cursor 安全读写业务台账 |
+| 2026-10-20 07:00:22 | [shioaji-cli](https://pypi.org/project/shioaji-cli/) | 1.7.9 | yvictor <yvictor3141@gmail.co… | 98.5 MB | Shioaji standalone CLI and local HTTP API server |
+| 2026-10-20 07:03:10 | [siftwise](https://pypi.org/project/siftwise/) | 0.1.0 |  | 318.3 kB | Open-source test impact analysis for agent-driven CI |
+| 2026-10-20 07:08:51 | [mcp-cookidoo](https://pypi.org/project/mcp-cookidoo/) | 1.0.0 | Tobias Meindl, Alexandre Pate… | 80.0 kB | MCP server for Thermomix & Cookidoo: create recipes with guided cooking (TM6/TM… |
+| 2026-10-20 07:09:01 | [eii-cloud](https://pypi.org/project/eii-cloud/) | 0.1.0 | Michael Bidollahkhani | 173.6 kB | Early Instability Indicator Cloud: context-aware, explainable instability detec… |
+| 2026-10-20 07:09:57 | [ms-music](https://pypi.org/project/ms-music/) | 0.3.0 | Matthias Anagho-Mattanovich <… | 421.2 kB | A Python package to generate audio from mass spectrometry data. |
+| 2026-10-20 07:11:03 | [kompactor](https://pypi.org/project/kompactor/) | 0.5.0 |  | 451.9 kB | Cut the tokens Claude Code spends on noise: compacted command output (failing r… |
+| 2026-10-20 07:11:12 | [bookcicle-eventing](https://pypi.org/project/bookcicle-eventing/) | 1.0.1 | Bookcicle | 13.2 kB | Privacy-conscious Eventing by Bookcicle SDK |
+| 2026-10-20 07:11:28 | [aimarket-oracle-kantor](https://pypi.org/project/aimarket-oracle-kantor/) | 0.1.0 |  | 36.5 kB | Kantor — exact optimal-transport (Wasserstein) oracle with a Kantorovich dual c… |
+| 2026-10-20 07:16:37 | [safestage-cli](https://pypi.org/project/safestage-cli/) | 0.2.0 | prykindmitriy01-beep | 45.3 kB | Safe AI-assisted code editing: isolate the file, review the diff, approve, roll… |
+| 2026-10-20 07:17:13 | [mdtodo](https://pypi.org/project/mdtodo/) | 0.1.0 | mjws4oss | 27.9 kB | A todo list manager that keeps projects and tasks in a plain markdown file. |
