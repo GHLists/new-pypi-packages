@@ -41,6 +41,15 @@ class NotFound(Exception):
     pass
 
 
+class EmptyResponse(Exception):
+    """Raised when PyPI answers with a successful but empty body.
+
+    Some projects serve an empty document from the project JSON endpoint
+    while their metadata is incomplete. That is a property of the project,
+    not a transient network fault, so it must not abort the whole run.
+    """
+
+
 class Transport(xmlrpc.client.Transport):
     def __init__(self, user_agent):
         super().__init__()
@@ -95,16 +104,26 @@ def fetch_json(url, user_agent, retries=3, backoff=5.0):
         )
         try:
             with urllib.request.urlopen(request, timeout=60) as response:
-                return json.load(response)
+                payload = response.read()
         except urllib.error.HTTPError as error:
             if error.code == 404:
                 raise NotFound(url) from error
             last_error = error
         except TRANSIENT_ERRORS as error:
             last_error = error
+        else:
+            if not payload.strip():
+                last_error = EmptyResponse(url)
+            else:
+                try:
+                    return json.loads(payload)
+                except json.JSONDecodeError as error:
+                    last_error = error
         if attempt < retries:
             print(f"attempt {attempt} failed ({last_error}), retrying", file=sys.stderr)
             time.sleep(backoff * attempt)
+    if isinstance(last_error, EmptyResponse):
+        raise EmptyResponse(url)
     raise RuntimeError(f"failed to fetch {url}: {last_error}")
 
 
@@ -158,12 +177,47 @@ def normalized_name(value):
     return re.sub(r"[-_.]+", "-", str(value or "")).lower()
 
 
-def fetch_package(name, user_agent, retries):
+def fetch_version_document(name, version, user_agent, retries):
+    """Fetch the metadata of a single release.
+
+    The project endpoint can answer with an empty document while the
+    release endpoint still serves valid metadata, so it is used as a
+    fallback.
+    """
+    url = (
+        f"https://pypi.org/pypi/{urllib.parse.quote(name)}/"
+        f"{urllib.parse.quote(str(version))}/json"
+    )
+    try:
+        document = fetch_json(url, user_agent, retries=retries)
+    except (NotFound, EmptyResponse):
+        return None
+    except RuntimeError as error:
+        print(f"could not fetch {url}: {error}", file=sys.stderr)
+        return None
+    if not isinstance(document, dict):
+        return None
+    urls = document.get("urls")
+    if not isinstance(urls, list):
+        return None
+    document["releases"] = {str(version): urls}
+    return document
+
+
+def fetch_package(name, version, user_agent, retries):
     url = PACKAGE_URL.format(name=urllib.parse.quote(name))
     try:
         document = fetch_json(url, user_agent, retries=retries)
     except NotFound:
         return None
+    except EmptyResponse:
+        document = None
+    if document is None:
+        if not version:
+            return None
+        document = fetch_version_document(name, version, user_agent, retries)
+        if document is None:
+            return None
     if not isinstance(document, dict):
         return None
     info = document.get("info")
@@ -287,6 +341,7 @@ def serialize_pending(pending):
             "created_at": iso(pending[name]["created"]),
             "since": iso(pending[name]["since"]),
             "attempts": pending[name]["attempts"],
+            "version": pending[name].get("version"),
         }
         for name in sorted(pending)
     ]
@@ -319,11 +374,17 @@ def load_pending(manifest):
             )
         if created <= candidate_since:
             raise RuntimeError(f"manifest pending entry for {name} is inconsistent")
+        release = item.get("version")
+        if release is not None and not isinstance(release, str):
+            raise RuntimeError(
+                f"manifest pending entry for {name} has an invalid version"
+            )
         pending[name] = {
             "package": name,
             "created": created,
             "since": candidate_since,
             "attempts": attempts,
+            "version": release,
         }
     return pending
 
@@ -405,15 +466,18 @@ def main(argv=None):
     proxy = connect(args.user_agent)
     entries, end_serial, exhausted = fetch_changelog(proxy, cursor)
     created = {}
+    releases = {}
     for entry in entries:
         try:
-            name, _version, timestamp, action, _serial = entry
+            name, version, timestamp, action, _serial = entry
             name = str(name or "")
             moment = dt.datetime.fromtimestamp(int(timestamp), dt.timezone.utc)
         except (TypeError, ValueError) as error:
             raise RuntimeError("PyPI changelog contains an invalid entry") from error
         if action == "create" and not name:
             raise RuntimeError("PyPI create entry is missing its package name")
+        if action == "new release" and name and isinstance(version, str) and version:
+            releases[name] = version
         if action != "create" or moment <= since:
             continue
         candidate = {
@@ -421,12 +485,17 @@ def main(argv=None):
             "created": moment,
             "since": since,
             "attempts": 0,
+            "version": releases.get(name),
         }
         current = created.get(name)
         if current is None or candidate["created"] < current["created"]:
             created[name] = candidate
     for name, candidate in created.items():
         pending.setdefault(name, candidate)
+    for name, release in releases.items():
+        entry = pending.get(name)
+        if entry is not None and not entry.get("version"):
+            entry["version"] = release
     print(
         f"scanned {len(entries)} changelog entries in serial {cursor}..{end_serial}; "
         f"{len(created)} new candidates and {len(pending)} pending candidates"
@@ -449,13 +518,19 @@ def main(argv=None):
 
     candidates = sorted(pending)
     eligible = [name for name in candidates if pending[name]["created"] <= until]
-    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
-        documents = list(
-            executor.map(
-                lambda name: fetch_package(name, args.user_agent, args.retries),
-                eligible,
+
+    def safe_fetch(name):
+        """Fetch one package, never letting a single project abort the run."""
+        try:
+            return fetch_package(
+                name, pending[name].get("version"), args.user_agent, args.retries
             )
-        )
+        except Exception as error:  # noqa: BLE001 - one project must not stop the list
+            print(f"could not fetch metadata for {name}: {error}", file=sys.stderr)
+            return None
+
+    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
+        documents = list(executor.map(safe_fetch, eligible))
 
     rows = []
     next_pending = {
