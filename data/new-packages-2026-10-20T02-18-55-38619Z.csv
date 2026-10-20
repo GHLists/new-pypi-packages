@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T01:22:25Z,bridge-gate,1.0.0,The BRIDGE authors,MIT,60682,BRIDGE: an acceptance gate for post-validation model updates
+2026-10-20T01:23:33Z,llmdbg,0.0.3a5,,MIT,51184,A debugger for stepping through LLM layers and interpreting internal representations.
+2026-10-20T01:28:10Z,fastscipy,0.1.0a1,Michael Li,BSD-3-Clause,13199662,"Drop-in acceleration for SciPy: byte-identical results, faster on one core and on many"
+2026-10-20T01:28:12Z,openglcontext-hill-runner,0.1.0a2,"""Mike C. Fletcher"" <vrplumber@gmail.com>",MIT,229990,"An endless downhill runner for OpenGLContext: parallel paths, streamed generated tiles, shadows, sound and a skinned runner."
+2026-10-20T01:28:55Z,exoal,1.1.0,,,17740,Dynamic Python client for AI APIs with live model discovery and switching
+2026-10-20T01:31:31Z,collective.redismemoize,1.0.0a1,Érico Andrei <ericof@plone.org>,GPL-2.0-only,245037,"Redis-backed storage for plone.memoize, shared across Plone instances, that keeps values Redis can't safely store in each process's RAM cache."
+2026-10-20T01:37:52Z,patentometria,0.4.0,Ozeas Souza,MIT,224427,"Pipeline de análise patentométrica: famílias, triagem, indicadores, VOSviewer e planilha base"
+2026-10-20T01:40:14Z,tornado-gcm,0.1.0,yongquan fu <quanyongf@126.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",651957,PyTorch reimplementation of NeuralGCM with Precision-Zoned Hybrid Architecture (PZHA) for GPU-accelerated weather forecasting
+2026-10-20T01:41:28Z,xdog-skills,2.4.3,HugeMan,AGPL-3.0-or-later,122397,Common medium-level agent skills with isolated support and extension code
+2026-10-20T01:44:06Z,embodied-safety-exam,0.0.1,Canyu Chen,Apache-2.0,2914,Embodied Safety Exam: a safety benchmark for agentic robots (name reservation; full release coming)
+2026-10-20T01:47:57Z,security-master,0.1.0,,MIT,42094,"US exchange-listed stocks, ETFs and closed-end funds keyed by FIGI, with SEC issuer data; cached locally and refreshed from GitHub."
+2026-10-20T01:49:55Z,fontpkg-delius,1.1,,OFL-1.1,44091,"Delius font family, packaged for Python by fontpkg"
+2026-10-20T01:49:57Z,fontpkg-baloo-2,1.700,,OFL-1.1,261422,"Baloo 2 font family, packaged for Python by fontpkg"
+2026-10-20T01:50:00Z,fontpkg-ibm-plex-sans-condensed,1.3,,OFL-1.1,754760,"IBM Plex Sans Condensed font family, packaged for Python by fontpkg"
+2026-10-20T01:50:03Z,fontpkg-red-hat-text,1.30,,OFL-1.1,109997,"Red Hat Text font family, packaged for Python by fontpkg"
+2026-10-20T01:50:40Z,hibari-tts,0.1.0,Maureese Williams,Apache-2.0,11755189,"Tiny American English text-to-speech: 7.9 MB model, about 130x realtime on one CPU core, text in, 24 kHz audio out"
+2026-10-20T01:50:44Z,yarvelle-core,0.1.0,Spectrayan <engineering@spectrayan.com>,PolyForm Noncommercial License 1.0.0 and Yarvelle Core Additional Terms,1311812,"Domain-neutral AI agent runtime, execution engine, and multi-domain scope isolation framework"
+2026-10-20T01:51:09Z,showback,0.1.0,Naeemeh Yadollahpour,MIT,51583,"Hard budgets for AI agents, with the receipts: in-process budget enforcement plus FinOps-grade cost attribution (per-tag ledger, showback/chargeback export)."
+2026-10-20T01:52:53Z,turbocloak,0.1.0,,MIT,3989596,"Sub-millisecond PII redaction, secret scanning, and prompt-injection detection for AI agents."
+2026-10-20T01:54:09Z,ndlike,0.1.0,Clemens Damke <clemens@cortys.de>,MIT,108243,"A toolkit for defining custom array types on top of NumPy, JAX, and PyTorch."
+2026-10-20T01:54:24Z,strands-acgs,0.1.0,Martin Lyu,Apache-2.0,39271,"ACGS rule-based tool-call governance for Strands Agents, as an intervention handler"
+2026-10-20T01:54:27Z,acgs-haystack,0.1.0,Martin Lyu,Apache-2.0,41515,ACGS rule-based tool-call governance for the Haystack Agent before_tool hook
+2026-10-20T01:58:50Z,forkreduce,0.1.0,forkreduce contributors,MIT,147519,"Share one frozen prompt prefix across many LLM queries, MapReduce style, on Pydantic AI."
+2026-10-20T02:00:50Z,kali-runtime,1.0.0,,,8455,Governed operator engine
+2026-10-20T02:01:17Z,prumi-adapter-dbt,0.1.0,Denner Rodrigues Campelo,Apache-2.0,46553,"Prumi adapter for dbt semantic models: MetricFlow compiles, Prumi executes"
+2026-10-20T02:01:19Z,prumi,0.1.0,Denner Rodrigues Campelo,Apache-2.0,348169,"Prumi server: MCP endpoint, catalog, query engine, validator and registry"
+2026-10-20T02:03:07Z,multibbq,0.1.0,MultiBBQ authors,MIT,1032984,MultiBBQ: a fairness evaluation benchmark for multimodal LLMs.
+2026-10-20T02:03:39Z,sy-nb-sy,0.1.0,Kundan Karma,"MIT License Copyright (c) 2026 Kundan Karma Permission is hereby granted, free of charge, to any pe…",32435,Convert Microsoft Azure Synapse notebooks to and from Jupyter notebooks.
+2026-10-20T02:14:33Z,tw-patent-mcp,0.1.0,Dr.Legal (dr-legal.com.tw),Elastic-2.0,39660,"MCP server for patent search via Taiwan IPO GPSS and EPO Open Patent Services: bibliographic search across 23 databases, INPADOC legal status, patent families, full text, and original publication PDF…"
+2026-10-20T02:15:55Z,agentdq,0.1.0a1,Amrutha Satishkumar,MIT,36192,"Measure how data-quality defects affect ML models and LLM agents, and validate data per consumer"
