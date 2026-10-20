@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T02:15:50Z,dodaios,4.0.1,Ruben Lütke,Apache-2.0,72983104,"Turn your computer into an AI agent that coordinates apps, tools, models, and other agents"
+2026-10-20T03:24:21Z,pal-code,0.1.1,Nandini Singh,MIT,1118536,"Pal: build and plan with AI in your terminal (pal cli) or browser (pal web), on a layer that cuts tokens and latency."
+2026-10-20T03:25:46Z,tgrtmp,0.3.0,AYMEN <let.me.code.safe@gmail.com>,MIT,59485820,High-performance RTMP(S) publishing client for Telegram livestreams
+2026-10-20T03:28:41Z,pyfield-esm,0.3.0,Ivan Romero,MIT AND MPL-2.0,513363,"Structured, validated read/write access to Bethesda plugin files (Starfield first): records, scenes, terrain, outposts."
+2026-10-20T03:30:44Z,wimotek-chromium-sync,1.0.4,wimotek,MIT,18611,Universal Chromium Session & Cookie Synchronizer with SSH Tunnel
+2026-10-20T03:34:02Z,monee-sre-common,0.0.0,sc,BSD License,2449,A small example package
+2026-10-20T03:39:11Z,cliver-playbook-app-basic,0.1.0,Lin Gao,Apache-2.0,71556,"cliver-playbook foundations: layered settings, process runtime, meta + demo Items API, own Alembic chain"
+2026-10-20T03:39:25Z,cliver-playbook-app-user,0.1.0,Lin Gao,Apache-2.0,171556,"cliver-playbook identity: accounts, RBAC, OIDC login, OAuth 2.1 provider for agent clients"
+2026-10-20T03:39:38Z,cliver-playbook-app-rag,0.1.0,Lin Gao,Apache-2.0,209717,cliver-playbook knowledge base: pluggable RAG (chunker / embedder / retriever / reranker / LLM) over the identity stack
+2026-10-20T03:40:21Z,cliver-playbook-app-mcp,0.1.0,Lin Gao,Apache-2.0,100528,cliver-playbook agent surface: MCP server (streamable-http + stdio) on top of the identity stack
+2026-10-20T03:40:38Z,rightnow-system-zero,0.1.0,"RightNow AI, Inc.",Apache-2.0,108892,System Zero API client with typed decisions and client-side workflows.
+2026-10-20T03:41:03Z,time-parser-zh,1.0.0,,MIT,136622,A pure Python parser for Chinese natural language date and time expressions.
+2026-10-20T03:41:32Z,drughunter,1.0.0,snsrap,Apache-2.0,846765,"Structure-based drug discovery toolkit that makes AI models easy for scientists to use: pocket detection, structure prep, and binder generation."
+2026-10-20T03:42:04Z,infill,0.0.1,,MIT,2006,Infill: describe a part to your AI and get a print-ready 3D model. Coming soon.
+2026-10-20T03:42:29Z,ai-template-runner,1.5.0,brunodavi,MIT,28794,Simple AI workflow based on Markdown templates
+2026-10-20T03:47:38Z,carefold,0.5.0b1,,,2930278,Carefold local-first AI and agentic runtime backend
+2026-10-20T03:47:39Z,blot-git,0.0.1,Shyam,MIT,83495,"A pre-commit check that has read your project's history: warns when a change removes a fix, re-adds a fixed bug, or forgets a file that always changes too."
+2026-10-20T03:48:01Z,tkinter-web-backend,0.1.0,Romain Casati <romain.casati@basthon.fr>,GPL-3.0-or-later,2716276,A web backend for tkinter: run tkinter programs in a web browser
+2026-10-20T03:52:07Z,skimread,0.1.1,skimread contributors,MIT,96461,Skim before you read: a lossless context guard that cuts the tokens AI coding agents spend on big file reads and noisy command output.
+2026-10-20T03:52:35Z,invaria,0.1.0,Supratim Ghosh <sgindeed234@gmail.com>,MIT,23897,Invaria — Universal LLM Context Compiler
+2026-10-20T03:53:13Z,governanceos,0.1.0,GovernanceOS,Apache-2.0,24400,"Open-source tools from GovernanceOS. First: gos-verify, the offline verifier for GovernanceOS evidence packs."
+2026-10-20T03:54:43Z,sshsentry,0.2.0,sshsentry <sshsentry@gmail.com>,MIT,91578,Plain-English SSH intrusion alerts for Linux servers (detection only).
+2026-10-20T03:56:11Z,exedev,0.2.0,"Bold Software, Inc.",MIT,184457,Official Python SDK for the exe.dev HTTPS API
+2026-10-20T04:02:01Z,nanopeek,0.1.0,grobelr,MIT,43073,"nano-style terminal editor with live Markdown, JSON, YAML, TOML and Dockerfile previews"
+2026-10-20T04:03:52Z,modular-tree,5.6.0,"MaximeHerpin, Brandyn Britton",MIT,1891752,Procedural 3D tree generation library
+2026-10-20T04:09:14Z,shapediff,0.1.0a4,Angus Uelsmann,MIT,55254,Evidence-aware JSON API response diffing without a schema
+2026-10-20T04:09:37Z,ai-agentcomply,0.2.0,,Apache-2.0,72023,Developer-first runtime authorization SDK for AI agent tool calls. / 面向 AI Agent 工具调用的开发者优先运行时授权 SDK。
+2026-10-20T04:17:22Z,govee-cli,0.10.0,AgentCulture,Apache-2.0,260313,"Agent-first CLI that controls Govee smart lights at home: discover devices, on/off, brightness, color, color temperature and scenes, via Govee's official Developer API and the local LAN API. Safe-by-…"
