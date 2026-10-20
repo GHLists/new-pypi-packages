@@ -1,0 +1,11 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T16:06:20Z,rotguard,0.1.0a1,Nikhil Arora,AGPL-3.0-only,475976,"Measure and guard against context rot in LLM agents (context rot, compaction, LangChain)."
+2026-10-20T16:10:10Z,xyz17711-sanctions-check,0.1.0,17711 Services,MIT,11743,"Typed Python client for the 17711.xyz Sanctions Check API: pay-per-call, settled in USDC via x402."
+2026-10-20T16:10:21Z,pd4ml,1.0.0,PD4ML <support@pd4ml.com>,LicenseRef-Proprietary,72425,"PD4ML for Python: HTML and CSS to PDF, PDF/A, PDF/UA, ZUGFeRD, DOCX, RTF and images"
+2026-10-20T16:11:31Z,trasmuon-pytorch,0.1.0,TrasMuon Authors,MIT,263660,Trust-region adaptive scaling for orthogonalized momentum optimizers in PyTorch
+2026-10-20T16:12:24Z,graphs-esroka,0.1.0,Ethan Sroka,,22847,Python graph algorithms library (Dijkstra's shortest path)
+2026-10-20T16:14:42Z,ChatComment,0.1.0,ChatArch,MIT,43542,"Embeddable comments with a Python server, SQLite storage and a small JavaScript widget."
+2026-10-20T16:15:12Z,multi-agent,0.1.0,BichengWang,MIT,245965,Multi-agent teams for real work: run teams of coding agents and measure them against solo agents
+2026-10-20T16:15:38Z,pyragx,0.0.1,Gaurav Srivastava <gks@vt.edu>,Apache-2.0,132502,"Agentic retrieval at scale: an agent ranks and reads passages, a chain of sub-questions names the evidence the question leaves unnamed, and one call answers with exact citations."
+2026-10-20T16:16:44Z,modal-dojo,0.1.0,Modal Labs,"MIT License Copyright (c) 2025 Modal Labs Permission is hereby granted, free of charge, to any pers…",2168738,Reusable building blocks for Modal multi-node training examples
+2026-10-20T16:19:07Z,ignition-gen-sdk,0.1.0,,Apache-2.0,748338,"Agent SDK and CLI for Inductive Automation Ignition 8.3: typed Pydantic models, gateway API client, and on-disk resource writers."
