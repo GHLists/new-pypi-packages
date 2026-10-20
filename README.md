@@ -8,41 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 02:18 UTC
+## Latest list — 2026-10-20 03:21 UTC
 
-New packages created between 2026-10-20 01:20 UTC and 2026-10-20 02:18 UTC.
+New packages created between 2026-10-20 02:18 UTC and 2026-10-20 03:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-20T02-18-55-38619Z.csv)
+[Full CSV](data/new-packages-2026-10-20T03-21-09-704398Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-20 01:22:25 | [bridge-gate](https://pypi.org/project/bridge-gate/) | 1.0.0 | The BRIDGE authors | 60.7 kB | BRIDGE: an acceptance gate for post-validation model updates |
-| 2026-10-20 01:23:33 | [llmdbg](https://pypi.org/project/llmdbg/) | 0.0.3a5 |  | 51.2 kB | A debugger for stepping through LLM layers and interpreting internal representa… |
-| 2026-10-20 01:28:10 | [fastscipy](https://pypi.org/project/fastscipy/) | 0.1.0a1 | Michael Li | 13.2 MB | Drop-in acceleration for SciPy: byte-identical results, faster on one core and… |
-| 2026-10-20 01:28:12 | [openglcontext-hill-runner](https://pypi.org/project/openglcontext-hill-runner/) | 0.1.0a2 | "Mike C. Fletcher" <vrplumber… | 230.0 kB | An endless downhill runner for OpenGLContext: parallel paths, streamed generate… |
-| 2026-10-20 01:28:55 | [exoal](https://pypi.org/project/exoal/) | 1.1.0 |  | 17.7 kB | Dynamic Python client for AI APIs with live model discovery and switching |
-| 2026-10-20 01:31:31 | [collective.redismemoize](https://pypi.org/project/collective.redismemoize/) | 1.0.0a1 | Érico Andrei <ericof@plone.or… | 245.0 kB | Redis-backed storage for plone.memoize, shared across Plone instances, that kee… |
-| 2026-10-20 01:37:52 | [patentometria](https://pypi.org/project/patentometria/) | 0.4.0 | Ozeas Souza | 224.4 kB | Pipeline de análise patentométrica: famílias, triagem, indicadores, VOSviewer e… |
-| 2026-10-20 01:40:14 | [tornado-gcm](https://pypi.org/project/tornado-gcm/) | 0.1.0 | yongquan fu <quanyongf@126.co… | 652.0 kB | PyTorch reimplementation of NeuralGCM with Precision-Zoned Hybrid Architecture… |
-| 2026-10-20 01:41:28 | [xdog-skills](https://pypi.org/project/xdog-skills/) | 2.4.3 | HugeMan | 122.4 kB | Common medium-level agent skills with isolated support and extension code |
-| 2026-10-20 01:44:06 | [embodied-safety-exam](https://pypi.org/project/embodied-safety-exam/) | 0.0.1 | Canyu Chen | 2.9 kB | Embodied Safety Exam: a safety benchmark for agentic robots (name reservation;… |
-| 2026-10-20 01:47:57 | [security-master](https://pypi.org/project/security-master/) | 0.1.0 |  | 42.1 kB | US exchange-listed stocks, ETFs and closed-end funds keyed by FIGI, with SEC is… |
-| 2026-10-20 01:49:55 | [fontpkg-delius](https://pypi.org/project/fontpkg-delius/) | 1.1 |  | 44.1 kB | Delius font family, packaged for Python by fontpkg |
-| 2026-10-20 01:49:57 | [fontpkg-baloo-2](https://pypi.org/project/fontpkg-baloo-2/) | 1.700 |  | 261.4 kB | Baloo 2 font family, packaged for Python by fontpkg |
-| 2026-10-20 01:50:00 | [fontpkg-ibm-plex-sans-condensed](https://pypi.org/project/fontpkg-ibm-plex-sans-condensed/) | 1.3 |  | 754.8 kB | IBM Plex Sans Condensed font family, packaged for Python by fontpkg |
-| 2026-10-20 01:50:03 | [fontpkg-red-hat-text](https://pypi.org/project/fontpkg-red-hat-text/) | 1.30 |  | 110.0 kB | Red Hat Text font family, packaged for Python by fontpkg |
-| 2026-10-20 01:50:40 | [hibari-tts](https://pypi.org/project/hibari-tts/) | 0.1.0 | Maureese Williams | 11.8 MB | Tiny American English text-to-speech: 7.9 MB model, about 130x realtime on one… |
-| 2026-10-20 01:50:44 | [yarvelle-core](https://pypi.org/project/yarvelle-core/) | 0.1.0 | Spectrayan <engineering@spect… | 1.3 MB | Domain-neutral AI agent runtime, execution engine, and multi-domain scope isola… |
-| 2026-10-20 01:51:09 | [showback](https://pypi.org/project/showback/) | 0.1.0 | Naeemeh Yadollahpour | 51.6 kB | Hard budgets for AI agents, with the receipts: in-process budget enforcement pl… |
-| 2026-10-20 01:52:53 | [turbocloak](https://pypi.org/project/turbocloak/) | 0.1.0 |  | 4.0 MB | Sub-millisecond PII redaction, secret scanning, and prompt-injection detection… |
-| 2026-10-20 01:54:09 | [ndlike](https://pypi.org/project/ndlike/) | 0.1.0 | Clemens Damke <clemens@cortys… | 108.2 kB | A toolkit for defining custom array types on top of NumPy, JAX, and PyTorch. |
-| 2026-10-20 01:54:24 | [strands-acgs](https://pypi.org/project/strands-acgs/) | 0.1.0 | Martin Lyu | 39.3 kB | ACGS rule-based tool-call governance for Strands Agents, as an intervention han… |
-| 2026-10-20 01:54:27 | [acgs-haystack](https://pypi.org/project/acgs-haystack/) | 0.1.0 | Martin Lyu | 41.5 kB | ACGS rule-based tool-call governance for the Haystack Agent before_tool hook |
-| 2026-10-20 01:58:50 | [forkreduce](https://pypi.org/project/forkreduce/) | 0.1.0 | forkreduce contributors | 147.5 kB | Share one frozen prompt prefix across many LLM queries, MapReduce style, on Pyd… |
-| 2026-10-20 02:00:50 | [kali-runtime](https://pypi.org/project/kali-runtime/) | 1.0.0 |  | 8.5 kB | Governed operator engine |
-| 2026-10-20 02:01:17 | [prumi-adapter-dbt](https://pypi.org/project/prumi-adapter-dbt/) | 0.1.0 | Denner Rodrigues Campelo | 46.6 kB | Prumi adapter for dbt semantic models: MetricFlow compiles, Prumi executes |
-| 2026-10-20 02:01:19 | [prumi](https://pypi.org/project/prumi/) | 0.1.0 | Denner Rodrigues Campelo | 348.2 kB | Prumi server: MCP endpoint, catalog, query engine, validator and registry |
-| 2026-10-20 02:03:07 | [multibbq](https://pypi.org/project/multibbq/) | 0.1.0 | MultiBBQ authors | 1.0 MB | MultiBBQ: a fairness evaluation benchmark for multimodal LLMs. |
-| 2026-10-20 02:03:39 | [sy-nb-sy](https://pypi.org/project/sy-nb-sy/) | 0.1.0 | Kundan Karma | 32.4 kB | Convert Microsoft Azure Synapse notebooks to and from Jupyter notebooks. |
-| 2026-10-20 02:14:33 | [tw-patent-mcp](https://pypi.org/project/tw-patent-mcp/) | 0.1.0 | Dr.Legal (dr-legal.com.tw) | 39.7 kB | MCP server for patent search via Taiwan IPO GPSS and EPO Open Patent Services:… |
-| 2026-10-20 02:15:55 | [agentdq](https://pypi.org/project/agentdq/) | 0.1.0a1 | Amrutha Satishkumar | 36.2 kB | Measure how data-quality defects affect ML models and LLM agents, and validate… |
+| 2026-10-20 01:11:52 | [jcs-admit](https://pypi.org/project/jcs-admit/) | 0.1.0 |  | 4.1 MB | Admission control and RFC 8785 canonicalization for JSON about to be signed, pl… |
+| 2026-10-20 02:19:13 | [vllm-jax-core](https://pypi.org/project/vllm-jax-core/) | 0.0.0 |  | 982 B |  |
+| 2026-10-20 02:19:44 | [vllm-jax](https://pypi.org/project/vllm-jax/) | 0.0.0 |  | 934 B |  |
+| 2026-10-20 02:19:50 | [scrapeowl](https://pypi.org/project/scrapeowl/) | 0.1.0 | ScrapeOwl contributors | 6.2 MB | Deterministic scraping and schema-validated LLM extraction powered by a Rust co… |
+| 2026-10-20 02:23:05 | [sbnote](https://pypi.org/project/sbnote/) | 0.1.0 | sbnote contributors | 95.8 kB | Create music with Python |
+| 2026-10-20 02:29:00 | [dataset-desk](https://pypi.org/project/dataset-desk/) | 0.1.3 | mcp-tool-shop <64996768+mcp-t… | 121.4 kB | Make and review visual datasets: an image-text index for duplicates, search, ou… |
+| 2026-10-20 02:31:35 | [mcp-scrape](https://pypi.org/project/mcp-scrape/) | 0.2.1 | guanyuyan | 93.5 kB | 反爬感知抓取 + 极省 Token 内容精简的 MCP Server |
+| 2026-10-20 02:34:59 | [dual-vade](https://pypi.org/project/dual-vade/) | 0.1.0.post1 | Wugeng Zheng | 64.8 kB | Unsupervised image clustering with trainable VaDE, Freq-VaDE, and Dual-VaDE |
+| 2026-10-20 02:39:15 | [package-firewall](https://pypi.org/project/package-firewall/) | 0.0.1 |  | 3.6 kB | Name reserved for Package Firewall. This release is an empty placeholder. |
+| 2026-10-20 02:39:19 | [package-firewall-test](https://pypi.org/project/package-firewall-test/) | 0.0.1 |  | 3.7 kB | Harmless test package for Package Firewall. It is on the Package Firewall block… |
+| 2026-10-20 02:40:25 | [agent-evidence-mcp](https://pypi.org/project/agent-evidence-mcp/) | 0.1.0 |  | 26.5 kB | Offline, read-only MCP server that verifies agent evidence claims and replays t… |
+| 2026-10-20 02:44:12 | [ui-stream](https://pypi.org/project/ui-stream/) | 0.1.0a1 | raja <rajawwang@foxmail.com> | 38.3 kB | Bounded UI event streaming with host-owned durable results |
+| 2026-10-20 02:46:40 | [duyi-utils-lcl001-2026](https://pypi.org/project/duyi-utils-lcl001-2026/) | 0.1.3 |  | 4.7 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
+| 2026-10-20 02:51:27 | [zettcode-server](https://pypi.org/project/zettcode-server/) | 0.1.0 | Chang-LeHung | 51.7 kB | The ZettCode coding agent behind an HTTP API: prompts, streaming, sessions and… |
+| 2026-10-20 02:52:37 | [officepdf](https://pypi.org/project/officepdf/) | 1.0.0 | OfficePDF <support@getofficep… | 22.1 kB | OfficePDF — high-fidelity Word to PDF conversion (cloud API and on-premise serv… |
+| 2026-10-20 02:53:24 | [minimindslab-yaml-front-matter](https://pypi.org/project/minimindslab-yaml-front-matter/) | 0.1.0 | MiniMindsLab | 8.1 kB | Parse and emit simple YAML front matter blocks in plain text files, returning t… |
+| 2026-10-20 02:53:37 | [pytagshield](https://pypi.org/project/pytagshield/) | 0.1.0 | PyTagShield contributors | 506.8 kB | Python bindings for PyTagShield: a consent-aware, privacy-minimizing event pipe… |
+| 2026-10-20 02:54:02 | [vipera-ai](https://pypi.org/project/vipera-ai/) | 1.2.0 | Vipera contributors | 90.1 kB | Modern local AI gateway — OpenAI-compatible, GGUF-native |
+| 2026-10-20 02:57:47 | [faker-plus](https://pypi.org/project/faker-plus/) | 2.0.0 | unigood <unigood@gitee.com> | 1.3 MB | AI-powered test data generation agent for relational databases — TUI, auto FK i… |
+| 2026-10-20 02:58:17 | [jav-mt5](https://pypi.org/project/jav-mt5/) | 0.1.0 | Jhon Anderson Velasco <javskr… | 57.5 kB | Cliente Python tipado y robusto para servidores MCP de MetaTrader 5 |
+| 2026-10-20 03:00:57 | [shopee-fasteraigc](https://pypi.org/project/shopee-fasteraigc/) | 0.0.0 | sc | 2.4 kB | A small example package |
+| 2026-10-20 03:01:11 | [brother-ql-sporeprint](https://pypi.org/project/brother-ql-sporeprint/) | 1.4.0 | Philipp Klaus <philipp.l.klau… | 140.6 kB | SporePrint fork of the Brother QL raster driver |
+| 2026-10-20 03:01:48 | [ggbondgigi_mcp_server](https://pypi.org/project/ggbondgigi_mcp_server/) | 0.1.0 |  | 3.3 kB | Add your description here |
+| 2026-10-20 03:02:22 | [lsf-py-utils](https://pypi.org/project/lsf-py-utils/) | 0.1.3 |  | 4.8 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
+| 2026-10-20 03:14:12 | [dataproof](https://pypi.org/project/dataproof/) | 0.1.0 | oluwagbemilesi | 22.3 kB | Find out what your dataframe code actually did — silent row loss, join fan-out,… |
+| 2026-10-20 03:15:59 | [ot-cli](https://pypi.org/project/ot-cli/) | 0.2.1 |  | 1.1 MB | Natural-language terminal agent over local or SSH shells |
+| 2026-10-20 03:17:58 | [cernitur-lint](https://pypi.org/project/cernitur-lint/) | 1.0.0 | Cernitur Technologies LLC <su… | 10.9 kB | Deterministic Answer Engine Optimization (AEO) and JSON-LD schema linter for Go… |
