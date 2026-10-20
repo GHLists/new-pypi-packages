@@ -1,55 +1,48 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-10-20T19:20:06.371469Z",
-    "path": "data/new-packages-2026-10-20T20-18-59-319866Z.csv",
-    "to": "2026-10-20T20:18:59.319866Z"
+    "count": 54,
+    "from": "2026-10-20T20:18:59.319866Z",
+    "path": "data/new-packages-2026-10-20T21-18-55-238719Z.csv",
+    "to": "2026-10-20T21:18:55.238719Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-20T18:06:10Z",
       "package": "craftainer-crud",
       "since": "2026-10-20T17:20:39.600195Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-20T18:06:13Z",
       "package": "craftainer-observability",
       "since": "2026-10-20T17:20:39.600195Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-20T18:28:13Z",
       "package": "cumulus-library-rxnorm",
       "since": "2026-10-20T18:18:58.887103Z",
       "version": null
     },
     {
+      "attempts": 1,
+      "created_at": "2026-10-20T20:43:01Z",
+      "package": "livekit-plugins-thunderphone",
+      "since": "2026-10-20T20:18:59.319866Z",
+      "version": null
+    },
+    {
       "attempts": 2,
-      "created_at": "2026-10-20T19:11:05Z",
-      "package": "mornye",
-      "since": "2026-10-20T18:18:58.887103Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-20T19:31:18Z",
-      "package": "opssignal",
-      "since": "2026-10-20T19:20:06.371469Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
       "created_at": "2026-10-20T19:34:09Z",
       "package": "pysnappea",
       "since": "2026-10-20T19:20:06.371469Z",
       "version": null
     }
   ],
-  "serial": 42510512,
+  "serial": 42512739,
   "source_truncated": false,
-  "window": "2026-10-20T20:18:59.319866Z"
+  "window": "2026-10-20T21:18:55.238719Z"
 }

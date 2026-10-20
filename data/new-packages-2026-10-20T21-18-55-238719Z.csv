@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T19:11:05Z,mornye,1.0.0,BartolomeoRusso9,MIT,3038334,A Python module for metadata and user-configured music-provider extensions.
+2026-10-20T19:31:18Z,opssignal,1.0.0b1,,Apache-2.0,16194223,Cross-language operational signal SDK for backend applications
+2026-10-20T20:19:23Z,context-capsules,0.1.0,Yash Shah <yash@cognitivtrust.com>,Apache-2.0,575426,"Local-first, append-only context capsule for a repository, driven by the capsule CLI."
+2026-10-20T20:19:31Z,decision-toolkit,0.1.1,Syalia S.R.L.,MIT,229585,"Local-first toolkit for open-weights decision models: one ONNX engine, one adapter per model contract, typed choice/yes-no/score decisions with probabilities on CPU."
+2026-10-20T20:19:47Z,mxraven,0.4.0,SynqronLabs Private Limited,Apache-2.0,222167,"Python SDK for the mxRaven mail runtime: SMTP submission, webhook verification, and recipient feedback."
+2026-10-20T20:19:51Z,url-guard,0.1.0,Michael Pointer <mpointer@gmail.com>,MIT,19598,"SSRF guard for outbound URLs: canonical IP-literal parsing in every encoding, private/metadata/link-local classification, DNS-resolved validation, HTTPS and host allow-list rules. Zero dependencies.…"
+2026-10-20T20:21:10Z,buttercupql,0.1.0,Michael Kusi-Appiah,MIT OR Apache-2.0,5230512,"A Python-like language for SQL: write queries the way you write Python, run them on SQLite, PostgreSQL, DuckDB and ClickHouse."
+2026-10-20T20:22:57Z,sidewalkreator,0.1.0,Kaue Vestena <kauemv2@gmail.com>,MIT,143952,Headless OSM Sidewalkreator - generate sidewalks from OSM data without QGIS GUI
+2026-10-20T20:23:55Z,redis-agent-lens,0.1.0a1,Redis AI Services Team,MIT,262000,Administrative and read API clients for Redis Lens
+2026-10-20T20:24:29Z,mpiparticles,0.1.0,Max,"MIT License Copyright (c) 2026 Max Lindqvist Permission is hereby granted, free of charge, to any p…",53758,"A distributed marker (particle) container for MPI codes: storage, ids, and migration to the owning rank."
+2026-10-20T20:25:02Z,kvprof,0.2.0,Noah Glusenkamp,MIT,728331,Prompt-cache profiler for llama.cpp's llama-server: why did it re-prefill my prompt?
+2026-10-20T20:26:02Z,x403,0.1.0,kredit <hello@kredit.sh>,Apache-2.0,41504,"x403: a signed risk decision before money moves. Objects, canonical JSON, ES256 signing and verifying, the HTTP binding, a client and FastAPI middleware."
+2026-10-20T20:26:22Z,mq-bridge-onnx,0.1.1,,MIT OR Apache-2.0,46998914,Local ONNX inference endpoints for mq-bridge: text embeddings and model scoring
+2026-10-20T20:27:34Z,opssignal-gcp,1.0.0b1,,Apache-2.0,10485785,"Google Cloud support for opssignal (Cloud Storage, Firestore, Secret Manager)"
+2026-10-20T20:29:33Z,opssignal-azure,1.0.0b1,,Apache-2.0,11067997,"Azure support for opssignal (Blob Storage, App Configuration, Cosmos DB, Key Vault)"
+2026-10-20T20:30:50Z,juriset,0.0.1,,MIT,1566,Juriset MCP server and SDK — coming soon
+2026-10-20T20:31:29Z,drcinv,0.1.3,Dominique Fourer,MIT,10768,Python library for dynamic range compression and inversion
+2026-10-20T20:41:42Z,scientific-toolkit-mcp,0.3.0,Furox-Art,Apache-2.0,92314,Provider-neutral local and remote MCP hub for seven Furox-Art public research tools
+2026-10-20T20:42:08Z,wormgpt-app-sdk,0.1.0,WormGPT <sdk@wormgpt.ai>,MIT,114141,Python SDK for building applications on top of the WormGPT API.
+2026-10-20T20:45:01Z,mcpy-gcmc,1.5.0,"Riccardo Farris, Emanuele Telari, Konstantin M. Neyman, Albert Bruix",MIT,272400,A python package to run atomistic Monte Carlo simulations
+2026-10-20T20:46:05Z,django-class-based-admin-actions,0.1.0,Alejandro Rebecchi,MIT,24323,"Class-based Django admin actions: compose reusable actions from mixins, like class-based views."
+2026-10-20T20:46:12Z,crucible-emulator,0.1.0a2,The Crucible Authors,Apache-2.0,452255,"Local BigQuery API emulator backed by DuckDB, for dbt development and CI. Snowflake is planned."
+2026-10-20T20:47:59Z,stumble-radio,0.2.0,,,8936367,A terminal radio for curious ears. Stumble into something good.
+2026-10-20T20:50:11Z,plugvan-mcp,0.1.1,Nuri Kağan Kurubaş,MIT,70199,Todoist tools for Claude Desktop as an MCP server over STDIO.
+2026-10-20T20:51:46Z,nltkkk,1.2.8,kya dekh rha hai luvday,MIT,33663,Teri Maa ne bhoot ke sath suhagrat rachai thi woh bhoot huh mein
+2026-10-20T20:52:03Z,dmarket-client,0.1.1,,,195995,Typed synchronous and asynchronous client for the DMarket Trading API
+2026-10-20T20:52:31Z,ios-icon-mcp,1.0.0,,MIT,31129,"Organize your iPhone home screen from any AI client via MCP — no jailbreak, widgets preserved"
+2026-10-20T20:53:13Z,erislib,0.1.0,"Diego Fernández Villegas, Diego Alvarez-Saravia, David Medina-Ortiz",MIT,329518,Eris: A modular library for protein structural representations and graph-based encoders.
+2026-10-20T20:53:37Z,inator3000,0.0.0,,MIT,2181,Reserved for the inator3000 project. Not yet published here.
+2026-10-20T20:53:39Z,inator-backend-kit,0.0.0,,MIT,2275,Reserved for the inator3000 project. Not yet published here.
+2026-10-20T20:53:40Z,inator-agent-kit,0.0.0,,MIT,2255,Reserved for the inator3000 project. Not yet published here.
+2026-10-20T20:53:52Z,syntropion,1.0.0,,,5356270,SYNTROPION OS — Autonomous AI Venture Studio & Micro-SaaS Factory Operating System
+2026-10-20T20:54:01Z,yieldix,16.0.0,Yieldix Contributors,Apache-2.0,320929,"Autonomous B2B Revenue Engine, Sub-60s Speed-to-Lead Orchestrator & Verifiable Pipeline Machine"
+2026-10-20T20:55:16Z,cv4,0.0.2,kytpbs,MIT,9850,"A type-safe, builder-pattern, pythonic wrapper for OpenCV"
+2026-10-20T20:55:34Z,portainer-redeploy-cli,0.1.0,Alexandra Ťapková <git@ouppy.space>,MIT,59628,"Redeploy Portainer stacks from the terminal, with a version check and a live rollout view"
+2026-10-20T20:56:56Z,workjig,0.1.0,,"MIT License Copyright (c) 2026 Zbigniew Lukasiak Permission is hereby granted, free of charge, to a…",127272,Run headless LLM coding harnesses as subprocess workers from Python workflows
+2026-10-20T20:57:15Z,server-management-lib,0.2.0,Alessio Elmi <alessio.elmi@gmail.com>,MIT,122580,"Shared security, SSH/local execution, configuration and HTTP clients for the Server MCP suite."
+2026-10-20T20:57:18Z,remote-server-mcp,0.2.0,Alessio Elmi <alessio.elmi@gmail.com>,MIT,69894,Security-first MCP server for managing Docker services on a remote server or on the local host.
+2026-10-20T20:57:21Z,disk-health-mcp,0.2.0,Alessio Elmi <alessio.elmi@gmail.com>,MIT,69951,"Disk health diagnostics MCP server: SMART, NVMe, ZFS, RAID and I/O metrics with manufacturer-aware severity."
+2026-10-20T20:57:41Z,ramplint,0.1.0,Vladyslav Rostovskyi <rostovskii.1020@gmail.com>,MIT,53182,Accessibility (WCAG) linter for Django and Jinja2 templates
+2026-10-20T21:00:55Z,rsoselect,0.2.0,"Youhan Lu, Kan Zhang, Juan Hu, Yichao Wu",BSD-3-Clause,48176,"Ridge selection operator (RSO) for variable selection in linear, partially linear and generalized partially linear models"
+2026-10-20T21:01:11Z,aaa-sentinel-health,0.1.0,,MIT,46785,health+json endpoints and flow trace propagation for AAA Sentinel monitoring
+2026-10-20T21:02:53Z,writehuman,0.0.1,,MIT,3052,Official WriteHuman API client for Python (placeholder release; the client ships in 0.1).
+2026-10-20T21:04:59Z,aprict,0.0.14,Murdock Grewar,GPL-3.0-or-later,12187528,Tools to simulate and reconstruct XCT transmission data.
+2026-10-20T21:08:11Z,pytrends-reliable,0.1.0,RT Solutions,Apache-2.0,27839,"Maintained drop-in replacement for pytrends (Google Trends API): same methods, automatic 429 handling, working trending searches, optional reliable backend."
+2026-10-20T21:08:46Z,sdk-garden-python,0.1.0,,MIT,13889,"Lightweight SDK observability client for Python — stdlib only, non-blocking"
+2026-10-20T21:09:04Z,latinitas-cards,0.3.0,Felix Müller <felix@fmueller.io>,GPL-3.0-or-later,489840,"Turn Latin Anki decks or CSV exports into principal-part cards, with corpus cloze and grammar annotation tools."
+2026-10-20T21:13:27Z,model-mesh-ai,1.0.0,Model Mesh Team,,28263,"Model Mesh: Unified AI Gateway SDK with Standardized Requests, Load Balancing, and Rate Limiting"
+2026-10-20T21:13:47Z,cde-mailer,0.1.0,CdE e.V. Orgas,Apache-2.0,63869,Template-based email dispatch and mail-merge tool for CdE e.V. with Zammad integration
+2026-10-20T21:14:03Z,pmcfetch,0.1.0,Kavach Shah,MIT,50467,Targeted PDF retrieval from the PMC Open Access Subset on AWS. Zero dependencies.
+2026-10-20T21:15:01Z,flu0net,0.2,tderk <usvu.tech@gmail.com>,MIT,13111864,"FLU0 // CAMELTOE.NET - a fictional field liaison terminal, field manual and tradecraft simulator (independent; unaffiliated)"
+2026-10-20T21:16:04Z,tropiro-rangespec,0.2.1,Christopher Yanez <founder@tropiro.com>,Apache-2.0,152221,Offline-first authorization and scope manifests for controlled security ranges.
+2026-10-20T21:17:43Z,irimi,0.1.0,Henry Liu,Apache-2.0,599330,"Shadow mode for AI agents: reads are real, writes are virtual, and reads see the writes."
+2026-10-20T21:18:37Z,sympy-poly-rust,0.1.0,sympy-rust contributors,MIT,360800,Rust port of the sympy/sympy polys-domain kernel (dense arithmetic over QQ)
