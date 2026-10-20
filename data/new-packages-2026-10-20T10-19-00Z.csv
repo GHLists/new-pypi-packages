@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T09:15:59Z,sketchforge3d,1.5.0,SketchForge contributors,AGPL-3.0-only,63050,Typed client and macro runner for the SketchForge REST API.
+2026-10-20T09:18:32Z,aimarket-oracle-lattice,0.1.0,,,17193,Lattice — low-discrepancy (quasi-random) sequence oracle on oracle-core
+2026-10-20T09:19:57Z,pyvado,0.1.2,AurelieSa,,30414,"Python vivado control API for synthesis, simulation and report automation."
+2026-10-20T09:19:59Z,winevtx,0.1.0,Eli-ezer Reuven Ramirez Ruiz,Apache-2.0,57395729,High-performance Windows Event Log query and EVTX parser for Python built with Rust and PyO3
+2026-10-20T09:24:36Z,facewareretargeter,9.9.9,,,388,Generated package for facewareretargeter
+2026-10-20T09:25:51Z,leeth,0.1.0,Zihan Jin,,22205,"A local LeetCode harness: scaffold, run and test solutions from the terminal"
+2026-10-20T09:26:43Z,cancerxpress,1.0.0,CancerXpress Team,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",125236,CancerXpress: pretrained RNA expression foundation model for batch correction and cancer downstream prediction
+2026-10-20T09:27:31Z,docsmith-ai,0.2.2,DocSmith Contributors,MIT,156778,AI-powered documentation engineer that analyzes GitHub repos and generates production-ready docs.
+2026-10-20T09:28:13Z,genmodelfit,0.2.0,Laxshmate <laxshmate@gmail.com>,MPL-2.0,961143,Right-size image / video / audio / 3D generation models to your PC (inspired by llmfit).
+2026-10-20T09:32:45Z,libraryan,0.3.1,narek-mn,MIT,165796,A vendor-neutral docs agent: the only writer of a git project's Markdown knowledge base; every other agent files a request
+2026-10-20T09:34:00Z,libz,0.8,,,80428,A lightweight Python utility toolkit.
+2026-10-20T09:34:25Z,tamias,0.1.0a8,kr1shnac <maintainers@kr1shnac.tk>,MIT,262677,Local HTTP proxy that logs token usage and cost per request for OpenAI-compatible agents.
+2026-10-20T09:34:42Z,tracectrl-sdk,0.3.3,CloudsineAI,Apache-2.0,54023,TraceCtrl Enterprise SDK — agentic AI security observability for the enterprise platform
+2026-10-20T09:34:54Z,timestral-mlx,0.1.0,,Apache-2.0,79638,Timestral time-series forecasting inference on Apple silicon with MLX
+2026-10-20T09:38:34Z,bazi-chart,1.1.1,liyooh007,MIT,192986,四柱八字 CLI 排盘引擎：真太阳时跨日修正、VSOP87D/JPL DE441 精度节气、农历转换、格局用神、神煞大运（纯标准库离线）
+2026-10-20T09:38:48Z,biocartoon,0.2.0,Joseph Rich,BSD-2-Clause,17830719,Search and download the BioCartoon catalog of open-licensed scientific illustrations from a shell or an MCP client
+2026-10-20T09:40:04Z,netlumi-gate,0.0.1,Netlumi Limited,Copyright (c) 2026 Netlumi Limited. All rights reserved. Netlumi customers may install and use this…,3791,Reserved by Netlumi Limited. The Netlumi gate client is distributed to customers from netlumi.com.
+2026-10-20T09:40:05Z,netlumi,0.0.1,Netlumi Limited,Copyright (c) 2026 Netlumi Limited. All rights reserved. Netlumi customers may install and use this…,3672,Reserved by Netlumi Limited. Netlumi software is distributed to customers from netlumi.com.
+2026-10-20T09:41:14Z,luna-xai,0.1.1,Marcelo I. Reis,MIT,5304847,🌙 LUNA — Local Understanding through Neighborhood Analysis
+2026-10-20T09:41:32Z,actledger,0.1.0,ActLedger contributors,Apache-2.0,82382,"ActLedger Python SDK: receipt verifier, local ledger client, LangGraph, Claude Agent SDK and OpenAI Agents SDK adapters"
+2026-10-20T09:42:26Z,socialcli,0.3.0,,MIT,3047600,SocialCli: publish and manage creator-owned social content from the terminal.
+2026-10-20T09:42:42Z,canvod-preflight,1.0.0b1,Nicolas François Bader,Apache-2.0,44345,The canVOD file name convention for GNSS-T receiver files
+2026-10-20T09:45:02Z,variantcentrifuge,0.20.0,Bernt Popp <bernt.popp.md@gmail.com>,MIT,1412075,"A tool to filter, extract, and analyze variants from VCF files."
+2026-10-20T09:45:21Z,diagnyx,1.1.0,Nachiket Ghatole,MIT,34194974,Thin Python client for the Diagnyx structured logging CLI
+2026-10-20T09:45:52Z,canvod-config,1.0.0b1,Nicolas François Bader,Apache-2.0,108952,"The canVODpy settings file: models, loading, and checks"
+2026-10-20T09:46:25Z,signalviewer,1.8.0,,MIT,44854548,"Look at recorded signals - test runs, flight logs (ArduPilot, PX4, MAVLink), simulation output - offline."
+2026-10-20T09:48:44Z,yanxu-harness,0.3.0a1,Yanxu Harness contributors,MIT,1900202,"Embeddable Python agent harness with durable tools, context engineering and recoverable task orchestration"
+2026-10-20T09:49:42Z,quai-workbench-napari,0.1.0,Aaron Ponti,Apache-2.0,102188,napari plug-in to create ground-truth data for quai.
+2026-10-20T09:52:42Z,njia-career-coach-executa,1.1.1,,,797087,Executa wrapper exposing Njia career-coaching workflows to Anna
+2026-10-20T09:52:55Z,reuters-temperature-storms,1.0.1,Reuters Graphics,MIT,2818084,How to calculate the supersized heat waves tracked by the Reuters Climate Monitor
+2026-10-20T09:53:10Z,pachimudeditor,0.1.1,IlPachi,MIT,4196011,"Editor web di MUD (pachimud, basedmud, ROM/dikumod e altri tramite adapter): backend pachifast con frontend Quasar incluso"
+2026-10-20T09:56:49Z,tmailor-mcp,0.1.1,Tmailor,MIT,29096,MCP server for the Tmailor Open API: temporary email addresses and OTP codes for AI agents.
+2026-10-20T10:00:46Z,quai-atlas,0.1.0,Aaron Ponti,Apache-2.0,308027,"A read-only desktop browser for quai experiments, artifacts, and data provenance."
+2026-10-20T10:01:08Z,scribefont,0.3.0,Hemanth HM <hemanth@h3manth.com>,,54629,"Handwriting image-to-font & web canvas multi-contour vectorizer, calligrapher style extraction, and zero-dependency binary TrueType (.ttf) compilation."
+2026-10-20T10:01:44Z,cutoptim,1.0.0,CutOptim <support@cutoptim.com>,MIT,34963,"Official client for the CutOptim Engine API — cutting optimization (2D panels, 1D linear, timber, true-shape nesting) over HTTPS."
+2026-10-20T10:01:56Z,safeloadai-runtime,0.1.0,Bartosz Mosionek,Apache-2.0 AND PSF-2.0,23783077,"Pinned CPython 3.12 for WASI, the sandbox runtime used by safeloadai (package data only)."
+2026-10-20T10:02:14Z,code-node-graph,0.3.0,Utkarsh Priyadarshi,Apache-2.0,581250,"See how Python code works without running it: a graph of who calls whom from an entry point, and what each path reaches."
+2026-10-20T10:04:27Z,langchain-md-chunker,0.4.2,Ashitaka-Laputa-IV,MIT,68229,Split markdown/MDX into chunks that keep exact source character offsets
+2026-10-20T10:04:53Z,safeloadai,0.7.0,Bartosz Mosionek,Apache-2.0,1331082,SafeLoadAI: decide whether an ML model file is safe to load (static analysis + sandboxed emulation).
+2026-10-20T10:06:56Z,SpacePath,0.1.0,johaGL,MIT,9157822,Pathway and molecular family analysis for MSI-based spatial metabolomics and lipidomics
+2026-10-20T10:07:09Z,taysend,0.1.0,Taysend,MIT,5142,Python client for the Taysend SMS API.
+2026-10-20T10:08:55Z,setup-ssh-cli,0.1.0,beepboopbit,MIT,97731,"Set up passwordless SSH between your Linux, Windows, and macOS devices."
+2026-10-20T10:09:01Z,pixcdusttest,0.2.0,zawadzl,Apache-2.0,7718788,
+2026-10-20T10:10:19Z,byteplussdk-kafka,0.0.1,byteplus-sdk,Apache License 2.0,976,Name reservation for the Byteplus Python SDK split package byteplussdk-kafka
+2026-10-20T10:10:25Z,byteplussdk-kickart,0.0.1,byteplus-sdk,Apache License 2.0,990,Name reservation for the Byteplus Python SDK split package byteplussdk-kickart
+2026-10-20T10:10:31Z,byteplussdk-kms,0.0.1,byteplus-sdk,Apache License 2.0,960,Name reservation for the Byteplus Python SDK split package byteplussdk-kms
+2026-10-20T10:10:37Z,byteplussdk-llmshield,0.0.1,byteplus-sdk,Apache License 2.0,1005,Name reservation for the Byteplus Python SDK split package byteplussdk-llmshield
+2026-10-20T10:11:37Z,oceanalt,0.0.1,OceanAlt <business@oceanalt.com>,MIT,2922,Reserved name for OceanAlt (pre-payment checks for AI agents). Use the HTTP API or npm packages at https://oceanalt.com/en/developers
+2026-10-20T10:11:46Z,NewBool,0.1.2,MulticNews,,3327,"Расширенный булев тип (4 состояния: True, False, Unknown, Misconception)"
+2026-10-20T10:12:23Z,astromesh-a2a,0.1.1,Juan Carlos Romero <jc@fulfaro.dev>,Apache-2.0,204131,"Agent-to-Agent (A2A) for any agent framework: a safe client and server on the official A2A SDK, with egress guards, remote-agent policy, traces and an attack eval."
+2026-10-20T10:18:51Z,poke-scouter,0.1.1,Sibylla Biotech <computationals@sibyllabiotech.it>,MIT,602677,Pocket scouting engine for protein structures and molecular dynamics trajectories

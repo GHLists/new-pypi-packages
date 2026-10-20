@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T11:19:22Z,automaton-lib,1.1.0,Julien Menana,LGPL-3.0-or-later,19111432,"Finite automata over integer symbols : regular expressions, operators, counting and sampling, weighted and multi-weighted automata, all in C++"
+2026-10-20T11:19:39Z,genealogy-research-workbench,0.4.0,Mark Glasgow,MIT,1986718,Turn GEDCOM and OneTree exports into a private research workbench and a public family-history website
+2026-10-20T11:24:11Z,PyImGui,0.1.0,Lukas Lipp <lukas.lipp@cg.tuwien.ac.at>,MIT AND BSD-3-Clause,13244099,"Python bindings for Dear ImGui, its SDL3, SDL_GPU, OpenGL 3, Vulkan, Direct3D 12 and Metal backends, ImPlot and ImGuizmo"
+2026-10-20T11:25:26Z,aj-pro-mystuff-exercises-2026-v1,0.0.1,,,30273,A collection of my Python exercises
+2026-10-20T11:27:05Z,si-quick-resampler,0.1.0,,Apache-2.0,1396687,"Fast, portable Rust audio resampling for NumPy, based on Google's QResampler"
+2026-10-20T11:27:27Z,scento-perfume-compendium,1.0.0,Scento <contact@scento.com>,MIT,13645,"Scento Perfume Compendium: the perfume knowledge connector for AI assistants. Perfume portraits, raw materials, houses and Scento's family map, every answer tied to a page on scento.com. No key, no a…"
+2026-10-20T11:27:29Z,ferro-framework,0.5.0rc2,,MIT OR Apache-2.0,28934420,Python application framework with a Rust-native execution engine
+2026-10-20T11:31:21Z,lbenc,1.1.4,,,17647,LBENC Telegram Python transformation bot
+2026-10-20T11:31:27Z,anime-prompt-kit,0.1.1,diaozxin007,MIT,18731,Local anime character prompt templates and composer with a Python API and CLI
+2026-10-20T11:32:43Z,applib-ui,0.0.1,,,120122,Android / iOS 通用 UI 自动化测试框架
+2026-10-20T11:33:24Z,cymruwhoisbulk,1.0,tdebize@mail.com,MIT,10585,A simple script to perform bulk requests to the Cymru WHOIS service
+2026-10-20T11:36:53Z,petroscript,0.0.1,Blauweiss AI,Apache-2.0,12885,PetroScript by Blauweiss AI: reservoir simulation models as typed Python values (placeholder until 2.0).
+2026-10-20T11:37:06Z,cavsim2d,0.1.0,Sosoho-Abasi Udongwo <numurho@gmail.com>,MIT,1175797,"Quick 2D axisymmetric RF cavity analysis: eigenmode, tuning, wakefield, UQ and optimisation."
+2026-10-20T11:37:37Z,moinlight,0.4.5,"Paul Boddie <paul@boddie.org.uk>, Morten Kjeldgaard <mok0@mailbox.org>",GPL-2.0-or-later,290732,Parse and convert MoinMoin markup documents
+2026-10-20T11:37:57Z,wellbalanced,0.1.0,Max,"MIT License Copyright (c) 2026 Max Lindqvist Permission is hereby granted, free of charge, to any p…",206027,Global (0D) and 1D fluid models of low-temperature plasmas.
+2026-10-20T11:38:17Z,creating-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49384,A machine that creates truths.
+2026-10-20T11:38:19Z,aishwarya-task-manager-cli,0.1.0,Aishwarya,MIT,10619,A command-line task manager written in Python.
+2026-10-20T11:42:31Z,noxcrypt,0.1.0,cyph3r_n0x,MIT,43989,Boîte à outils interactive (terminal) pour chiffrer et déchiffrer les encodages classiques des CTF
+2026-10-20T11:44:34Z,ru-legal-skills-mcp,0.3.1,ru-legal contributors,Apache-2.0,1870672,Unified MCP server для ru-legal-skills — все 33 tools + 186 skills РФ legal AI в одном пакете. Подключи в Claude Code / Cursor / любой MCP-клиент.
+2026-10-20T11:45:16Z,rulestamp-devicetree-config-language-pack,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32061,"status = ""ok"" compiles clean and the node never appears. 23 rules over 7 config languages, on the file you have open. (bundled Node.js runtime)"
+2026-10-20T11:45:34Z,rulestamp-container-hardening-800-190,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37071,"Reads a Dockerfile or compose file and names the hardening controls it fails, with the NIST SP 800-171 requirement each one puts at risk. (bundled Node.js runtime)"
+2026-10-20T11:45:51Z,rulestamp-erb-escape-audit,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33703,15 rules that find every line in a Rails .erb view where output escaping was switched off or was the wrong escaping. (bundled Node.js runtime)
+2026-10-20T11:46:09Z,rulestamp-gaibu-soshin-tag-lint-jp,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36079,同梱の54行の採用サイトHTML（外部送信タグ4本＋GTMコンテナ1つ）で公表もれ6件を行番号つきで名指し。電気通信事業法27条の12（2023年6月16日施行）の公表4項目を15 checksで照合します。 (bundled Node.js runtime)
+2026-10-20T11:47:16Z,polyvector-search,0.1.0,PolyVector Team,MIT,37672,High-performance in-engine multi-field hybrid search for PostgreSQL using vertical HNSW vectors and native BM25.
+2026-10-20T11:47:16Z,redsba-code,1.1,,,18988,"Терминальный клиент ИИ со слотами провайдеров (Groq, Gemini, OpenAI-совместимые)"
+2026-10-20T11:48:08Z,pic-select,1.0.1,Nils Urbach,MIT,29579,
+2026-10-20T11:51:50Z,memcat,1.0.0,Umesh Yadav,BSD-2-Clause,214832,Clause-level text-to-speech cache for Pipecat voice bots.
+2026-10-20T11:53:45Z,opennmr,0.1.0,"Euan Bassey, Leo Gordon",MIT,5953537,"Vendor-agnostic NMR import, processing, plotting, and GUI"
+2026-10-20T11:54:02Z,text2cypher,1.1.0,Kwaku Yeboah-Antwi,Apache-2.0,71242,text2cypher: Generate validated Cypher queries from natural language text with LLMs
+2026-10-20T11:54:35Z,OOPAO,1.0.0,cheritier,GPL-3.0-or-later,463722,Object Oriented Python Adaptive Optics
+2026-10-20T11:54:54Z,its-fun-2-map,1.0.0,"M. Kamouyiaros, D. Parsons",MIT,181646,A pipeline for extracting and validating fungal ITS barcode sequences from museum specimen genome skims
+2026-10-20T11:57:13Z,iran-tax-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,147865,"Unofficial read-only MCP server for Iranian tax services: goods/service IDs and VAT, activity codes, property values, tax laws and circulars."
+2026-10-20T11:57:17Z,iran-news-mcp,0.2.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,137769,"Unofficial read-only MCP server for Persian news RSS feeds: Mehr, Khabaronline, Hamshahri, Tabnak, Entekhab, Asriran, Zoomit, Digiato, Varzesh3, Khabarvarzeshi."
+2026-10-20T11:57:18Z,basalam-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,119280,"Unofficial read-only MCP server for Basalam: search marketplace products, find the cheapest offers, read shops, categories and reviews."
+2026-10-20T11:59:32Z,backloggd-py,0.1.0,Arda,MIT,75313,"Fast, typed async & sync Python SDK, web scraper, and taste-matching engine for Backloggd."
+2026-10-20T12:00:13Z,aidong-aeval,0.1.0,,,16342,OmniAgent 开发者评测客户端
+2026-10-20T12:00:50Z,openalex-metrics,0.1.0,Gael Bernard <gael.bernard@epfl.ch>,MIT,210295,"Field-normalised citation impact (MNCS, PP top 10%) for any set of OpenAlex works"
+2026-10-20T12:03:10Z,carquet,0.7.2,Johan H. G. Natter,MIT,26753034,"Fast Apache Parquet reader/writer in pure C, exposed to Python through the Arrow C Data Interface"
+2026-10-20T12:06:11Z,bevor-sdk,0.1.0,,,190967,Typed wrappers for the Bevor REST API
+2026-10-20T12:06:46Z,bioemu2,0.1.0rc0,,MIT,988212,Local protein structure and conformational sampling with BioEmu2.
+2026-10-20T12:06:55Z,jdsl,0.6.3,Machar Kook,Apache-2.0,467335,"Declarative behavior-tree agents with DSPy-style signatures, run by a tree-walking interpreter over DeepSeek / Anthropic / OpenAI."
+2026-10-20T12:07:14Z,iran-quake-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,119906,"Unofficial read-only MCP server for earthquakes in Iran: latest, search, strongest, detail and statistics from USGS, EMSC and IRSC."
+2026-10-20T12:07:21Z,tgju-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,115736,"Unofficial read-only MCP server for TGJU (tgju.org): live Iranian gold, coin, currency and crypto prices, daily history."
+2026-10-20T12:07:24Z,tapsifood-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,130003,"Unofficial read-only MCP server for Tapsi Food: search dishes and restaurants, read menus and reviews, find flash deals."
+2026-10-20T12:09:06Z,bevor-cli,0.1.0,,,130976,Bevor CLI tool for security analysis and graph inspection
+2026-10-20T12:09:22Z,interlace-py,0.2.0,Kem <531144129@qq.com>,MIT,372171,An extensible microkernel for typed graphs and event workflows
+2026-10-20T12:11:38Z,ldw-core,0.2.1,AsemDevs,Apache-2.0,854631,"Core of the Local DevOps Workbench: discovery, manifests, and the local runtime lifecycle."
+2026-10-20T12:11:45Z,ldw-agent,0.2.1,AsemDevs,Apache-2.0,84104,Coding-agent analysis plugin for `ldw init --agent` in the Local DevOps Workbench.
+2026-10-20T12:11:48Z,ldw-deploy,0.2.1,AsemDevs,Apache-2.0,65273,SSH production deployment plugin for the Local DevOps Workbench.
+2026-10-20T12:15:53Z,hyperfly,1.0.0a1,Elia Hilse,Apache-2.0,117865,Binary compression for typed APIs. Schema-compiled codecs with a fingerprinted wire format and transparent JSON fallback.
+2026-10-20T12:16:09Z,toknt,0.1.1,Martin Chen,MIT,463069,"Local-first token, cost and tool analytics for AI coding agents (OpenCode, Codex CLI, Claude Code)."
+2026-10-20T12:16:15Z,tenko-api,0.1.0,,GPL-3.0-only,17498,Tenko 第三方插件的稳定宿主接口（运行时转发到 Tenko 宿主）
+2026-10-20T12:16:16Z,licenseman-sdk,0.1.1,OpenAPI Generator community,,454823,LicenseManager API
+2026-10-20T12:16:35Z,qavanin-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,152374,"Unofficial read-only MCP server for qavanin.ir: search Iranian laws and regulations, read their full text, amendments and status."
+2026-10-20T12:16:55Z,scrapeunblocker-scrapy-middleware,0.1.0,ScrapeUnblocker <support@scrapeunblocker.com>,MIT,41171,"Scrapy downloader middleware that routes your spider's requests through the ScrapeUnblocker web scraping API - real-browser rendering that gets past Cloudflare, DataDome, PerimeterX and Akamai, with…"

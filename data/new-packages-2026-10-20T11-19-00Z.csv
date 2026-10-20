@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T10:20:03Z,aj-pro-mystuff-package,0.0.1,,,4815,A collection of my Python exercises
+2026-10-20T10:21:34Z,odoo-addon-barcode-gs1,18.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,49802,"GS1 barcode parsing (GS1-128, application identifiers)"
+2026-10-20T10:22:52Z,gwpm,1.0.0,Timothée Jamin,MIT,56977,Build families of related file paths from reusable templates.
+2026-10-20T10:23:49Z,resume-screener,1.0.0,,MIT,103408,"Score a folder of PDF resumes against your keywords and shortlist the best matches, as a native-feeling macOS desktop app."
+2026-10-20T10:28:23Z,aihydro-lsh,0.2.1,Mohammad Galib <mgalib@purdue.edu>,Apache-2.0,208653,Global large-sample hydrology — CAMELS-like catchment attributes for any watershed (recipe layer over aihydro-data + aihydro-watershed)
+2026-10-20T10:29:06Z,game-run,1.0,Private <Chonoorasli22@gmail.com>,,5921,A games playing app
+2026-10-20T10:29:25Z,repzo-yolo-hub,0.2.0,Repzo,LicenseRef-Proprietary,60518,"Train Ultralytics YOLO models for Repzo object-detection model versions: dataset, live metrics, weights and plots in one call."
+2026-10-20T10:29:41Z,devin-office,0.1.0,Icaro0310,MIT,8382047,"Local-first dashboard rendering live Devin CLI/Desktop sessions, subagents and tool calls as an animated circuit board — read-only, stdlib only."
+2026-10-20T10:30:09Z,vanta-lang,0.29.0,,MIT,374960,"Vanta, a game-oriented systems language"
+2026-10-20T10:30:52Z,speck-tools,0.1.1,,,51858,"Speck channel mapping, event CSV utilities and Speck2f configuration export"
+2026-10-20T10:31:19Z,airllm-easy-tui,1.0.0,Ynter <ynter8@163.com>,MIT,65197,带插件系统的 CLI 大语言模型推理接口
+2026-10-20T10:31:21Z,pachimudeditor-adapter-pachimud,0.1.1,IlPachi,MIT,226475,Adapter pachimud di pachimudeditor: legge e scrive il database del gioco (SQLAlchemy) e porta le pagine world/giocatori/istanze/trasferimento/contenuti
+2026-10-20T10:33:38Z,pachimudeditor-adapter-basedmud,0.1.0,IlPachi,MIT,133781,Adapter basedmud / ROM di pachimudeditor: file area .are (libreria rom_lib inclusa)
+2026-10-20T10:34:09Z,scriptflow-procedural-memory,0.3.0,Antonio Carmellino <tonycarmellino@gmail.com>,MIT,63879,"Procedural memory for LLM agents: record solved tasks, compile them into replayable skills, run them without reasoning again"
+2026-10-20T10:37:20Z,pachimudeditor-adapter-dikumod,0.1.0,IlPachi,MIT,144317,Adapter Diku Modificato di pachimudeditor: file dati Diku (libreria dikumod_lib inclusa)
+2026-10-20T10:38:31Z,pachimudeditor-adapter-mapping,0.1.0,IlPachi,MIT,168850,Adapter generico di pachimudeditor: qualunque MUD su file descritto da un YAML di mappatura
+2026-10-20T10:38:45Z,annocli,1.0.3,Fabio Zanarello <fzanarello@crg.eu>,MIT,36791,A command-line tool to query and download genome annotations
+2026-10-20T10:40:12Z,dotagent-macos,0.1.0,,MIT,5540239,"Dot: an always-on autonomous agent for macOS with browser and computer use, on models from Ollama, OpenAI, OpenCode Go, Anthropic, OpenRouter or OpenCode Zen."
+2026-10-20T10:42:10Z,es-normalizer-py,0.2.6,Cyril Dever <cdever@pep-s.com>,MIT,29279,"Contact data normalization adapted from the Empreinte Sociométrique's normalizers, the Python port of es-normalizer"
+2026-10-20T10:46:36Z,c2.splitter.icu,1.0.0b1,Manabu TERADA <terada@cmscom.jp>,GPL version 2 or later,46370,A word splitter for Plone's ZCTextIndex based on ICU word boundaries
+2026-10-20T10:46:39Z,xcrs,0.7.5,Seto Elkahfi <seto@smbcloud.xyz>,Apache-2.0,15920126,Cross-platform mobile and TV app automation over MCP.
+2026-10-20T10:47:44Z,botgauge-cli,0.1.0,"""BotGauge AI Inc."" <support@botgauge.com>",FSL-1.1-ALv2,20012,The `botgauge` command: one entry point that dispatches to every installed BotGauge component.
+2026-10-20T10:47:47Z,SpecProc,1.0.0,"""Niu, Hubiao"" <niuhubiao@xao.ac.cn>",MIT,68248144,A spectral processing tool
+2026-10-20T10:48:20Z,botgauge-tracing,0.1.0,"""BotGauge AI Inc."" <support@botgauge.com>",FSL-1.1-ALv2,340128,"BotGauge captures AI-agent traces safely and privately without slowing the customer's application. Manual SDK tracing, zero-code instrumentation, and distributed trace propagation, built on OpenTelem…"
+2026-10-20T10:48:41Z,simgeometry,0.1.0,Max,MIT,170010,"Shapes, grids, and simulation domains for numerical simulations"
+2026-10-20T10:48:55Z,botgauge,0.1.0,"""BotGauge AI Inc."" <support@botgauge.com>",FSL-1.1-ALv2,8879,BotGauge: agent tracing and assurance. Meta-package that installs the BotGauge components: the tracing SDK (`botgauge-tracing`) and the `botgauge` command.
+2026-10-20T10:49:29Z,runbound-application-context,0.1.0a1,Runbound,LicenseRef-Runbound-Runtime-SDK,21069,"Runbound application context for Python: operation-scoped application user and release attribution, shared by the Runbound Runtime and Telemetry packages."
+2026-10-20T10:49:41Z,runbound-runtime,0.1.0a1,Runbound,LicenseRef-Runbound-Runtime-SDK AND ISC AND Unicode-3.0,733398,"Runbound Runtime for CPython: runs a process under policy, deciding file, network, process, environment and dynamic-code operations and recording them as audit evidence."
+2026-10-20T10:50:14Z,apiparity-check,0.1.1,Shashi Kundan <shashikundan0001@gmail.com>,,120062,Behavioral parity checker for API migrations — replay one request corpus against a baseline and a candidate implementation and report exactly where behavior differs.
+2026-10-20T10:50:52Z,odoo-addon-project-portal-properties,18.0.1.0.0.2,"Dixmit,Odoo Community Association (OCA)",AGPL-3,22508,Show project properties in Portal
+2026-10-20T10:53:43Z,jaxlens,0.0.1,Rodrigo Calderon,,22264,Differentiable full-sky CMB lensing of power spectra in JAX (port of CLASS lensing.c)
+2026-10-20T10:57:17Z,sortefi-ta,0.1.0,Sortefi,MIT,233257,"Technical indicators, candlestick patterns, chart patterns and price maths for pandas — pure numpy/pandas, no C install."
+2026-10-20T11:01:36Z,readability-audit,0.1.2,Paul Irolla,MIT OR Apache-2.0,262255,"Audit the readability, structure and reading comfort of a website. JSON + PDF reports."
+2026-10-20T11:04:19Z,scan2adb,0.2.0,Akshay Ravi,,20147,Pair and connect an Android 11+ phone to adb over Wi-Fi by scanning a QR code in your terminal.
+2026-10-20T11:04:41Z,plurai-simulation-sdk,0.0.1a1,,,3008,Python SDK for Plurai agent simulation.
+2026-10-20T11:04:44Z,plurai-mockenv,0.0.1a1,,,2950,Mock engine for Plurai simulation environments.
+2026-10-20T11:04:48Z,fatsecret-mcp,0.1.0,Jakub Jaroński,MIT,138921,"Unofficial, self-hosted MCP server for logging food into a FatSecret food diary through Claude."
+2026-10-20T11:04:48Z,plurai-extract,0.0.1a1,,,2998,Extract documents and records from data sources for Plurai simulation.
+2026-10-20T11:06:42Z,pydantic-ai-lizard,0.1.0,Lizard,Apache-2.0,31718,Pydantic AI workspaces in Lizard Sandboxes.
+2026-10-20T11:10:53Z,odoo-addon-project-task-assign-to-me,18.0.1.0.0,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,24598,Assign yourself to a task from its form with one click
+2026-10-20T11:11:32Z,ausmacro,0.1.0,Abubakar Danish,MIT,50942,A few headline Australian economic series from the ABS and RBA as tidy pandas DataFrames
+2026-10-20T11:11:49Z,tgju-rates,0.2.0,Patrick Der Avakians,MIT,149311,"Live Iranian rial exchange rates, gold and crypto prices from tgju.org in your terminal"
+2026-10-20T11:12:06Z,omnivybe.py,2026.10.20.1.1,OmniVybe Team,MIT,50544,"The official, fully-featured, and high-performance Python bot SDK for the OmniVybe platform."
+2026-10-20T11:14:19Z,escouade-mail,0.1.1,Escouade <contact@subagent.fr>,MIT,89113,"Python SDK for Escouade Mail (formerly Subagent): real mailboxes for AI agents, with sending rules enforced by the server."
+2026-10-20T11:16:01Z,nnkit-py,0.1.0,,,33133,My DL practicals: import one and its source code prints
+2026-10-20T11:17:58Z,sonati,0.1.0,"Yvonne Jenniges, Boris Peter Koch, Maike Sonnewald, Sebastian Maneth",,77172,"SONATI: Spatio-temporal Ocean Neighbourhood Asymmetric Transformer for Imputation of sparse, tabular data with uncertainty"

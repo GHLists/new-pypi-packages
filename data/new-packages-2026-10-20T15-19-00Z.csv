@@ -1,0 +1,62 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T14:22:49Z,reflex-langgraph,0.1.0,Jong Ha Shin,MIT,227109,"LangGraph multi-agent apps with a FastAPI backend and a Reflex UI: streaming chat, human approval, and long-running jobs"
+2026-10-20T14:23:34Z,deeph-pack,0.1.0,DeepH team <deeph-pack@outlook.com>,GPL-3.0-or-later,4137,Compatibility alias for deepx-pack; install deepx-pack instead.
+2026-10-20T14:23:35Z,deeph-dock,0.1.0,DeepH team <deeph-pack@outlook.com>,GPL-3.0-or-later,4162,Compatibility alias for deepx-dock; install deepx-dock instead.
+2026-10-20T14:24:14Z,loqui-runner,0.0.0,Loqui Group,LicenseRef-Proprietary,1528,Reserved by Loqui Group for the Loqui Runner tool SDK. Not yet released.
+2026-10-20T14:25:35Z,banimode-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,117241,"Unofficial read-only MCP server for Banimode: search fashion, compare prices, sizes and stock, find flash-sale deals."
+2026-10-20T14:25:51Z,baneh-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,126746,"Unofficial read-only MCP server for Baneh (baaneeh.com): search home appliances, TVs and electronics, find the cheapest in-stock price."
+2026-10-20T14:25:52Z,loqui,0.0.0,Loqui Group,LicenseRef-Proprietary,1469,Reserved by Loqui Group for the Loqui Runner tool SDK. Not yet released.
+2026-10-20T14:26:39Z,maktabkhooneh-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,135271,"Unofficial read-only MCP server for Maktabkhooneh: search Persian online courses, compare prices and discounts, find free courses, read curricula and reviews."
+2026-10-20T14:27:20Z,calmlens,0.1.1,CalmLens,MIT,146106,"Python SDK for CalmLens moderation, storage, and CDN delivery"
+2026-10-20T14:31:01Z,iran-apps-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,126679,"Unofficial read-only MCP server for Iranian Android app stores Cafe Bazaar and Myket: search apps and games, compare versions and ratings across stores, top and new lists."
+2026-10-20T14:31:09Z,iran-downloads-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,135519,"Unofficial read-only MCP server for searching Iranian software and game download sites (metadata only): Soft98, P30Download, Downloadly, VGDL."
+2026-10-20T14:31:56Z,deepx-client,0.1.0,DeepH team <deeph-pack@outlook.com>,GPL-3.0-or-later,63959,"Python client for a DeepH-serve instance, part of the DeepX ecosystem."
+2026-10-20T14:32:06Z,deeph-client,0.1.0,DeepH team <deeph-pack@outlook.com>,GPL-3.0-or-later,5798,Compatibility alias for deepx-client; install deepx-client instead.
+2026-10-20T14:32:24Z,focused-spec-scenarios,0.10.0,focused-spec contributors,MIT,12325,Independent executable Given/When/Expect scenarios for Python
+2026-10-20T14:32:30Z,hardlabs-sdk,0.1.0,HardLabs <hello@hardlabs.io>,Proprietary,52681,Run your tests against a HardLabs simulated board running your firmware
+2026-10-20T14:33:37Z,atomworks-studio,0.0.1,,BSD-3-Clause,9167057,Inspect and edit annotated molecular structures
+2026-10-20T14:35:06Z,seam-mcp-connect,0.0.0,zer07 Labs,Apache-2.0,2325,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-20T14:35:09Z,seam-mcp-ops,0.0.0,zer07 Labs,Apache-2.0,2278,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-20T14:36:28Z,autokeeper,0.0.3.3,Sato shinji <wwwsatoshinji@gmail.com>,MIT,12511695,自动化 CoC 7 版中文跑团：自研 harness 上的多智能体守秘人，Claude / DeepSeek / 本地模型可换，模组导入与生成，彩色 ASCII 终端界面
+2026-10-20T14:36:39Z,seam-strands,0.0.0,zer07 Labs,Apache-2.0,2282,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-20T14:36:43Z,seam-verify,0.0.0,zer07 Labs,Apache-2.0,2269,Name reserved by zer07 Labs for Seam. Not installable from PyPI; see the project URL.
+2026-10-20T14:39:17Z,research-probe-6150c1c915,0.1.0,,,3766,research project
+2026-10-20T14:40:12Z,bigquery-data-science,0.7.0,Mike Henderson,Apache-2.0,2264078,"BigQuery ML, BigQuery AI, and 4-Lens Agent Skills: 104 live-verified SQL/Python workflows, zero-dependency CLI catalog & skill installer, and stdio MCP server."
+2026-10-20T14:40:32Z,meow-harness,0.1.12,,,3231971,"MEOW workflow engine for the Claude Agent SDK, configurable per project"
+2026-10-20T14:42:06Z,shio-lang,0.5.0,Aonami Labs,MIT OR Apache-2.0,272839,Shio: a language for agents in which the model reads and code decides. Checks double as training rewards.
+2026-10-20T14:43:05Z,localsharefile,0.3.0,hemin0721,MIT,73782,LocalShareFile —— 局域网文件共享工具：多目录共享、网页远程配置、FTP 式批量下载、拖拽上传、终端 CLI（lsf）、开机自启动
+2026-10-20T14:43:13Z,sq-system-one,0.1.1,LIghtJUNction,MIT,53750,Typed Python SDK for sq and System One decision APIs
+2026-10-20T14:43:51Z,physicalai-mujoco-plugin,0.4.0,,Apache-2.0,13633212,MuJoCo simulation plugin for PhysicalAI Runtime
+2026-10-20T14:45:36Z,balelink,0.1.0,Pedram Khademi <pedramkhademi619@gmail.com>,MIT,127880,Log in to Bale (بله) with a personal account; send and receive messages. Unofficial.
+2026-10-20T14:46:33Z,jishu-hub,0.1.0,,,30467,jishu Hub CLI for secure dataset and label transfer
+2026-10-20T14:47:38Z,bayesflow-irt,0.1.1,bayesflow-irt contributors,MIT,869471,BayesFlow add-on for Item Response Theory with many-to-many summary networks
+2026-10-20T14:51:42Z,septal,0.2.0,Max Mowbray,MIT,141317,"Nonlinear programming with JAX: a vmappable SQP solver, plus a CasADi/IPOPT backend"
+2026-10-20T14:54:09Z,naas-abi-proto,0.1.0,,,198153,Standalone ABI proto package
+2026-10-20T14:54:33Z,canonical-financial-memory,0.3.0rc1,Victoria Portnaya-Sharp,MIT,181436,"Exact finite-market contract automata, hedge certificates and calibrated price bounds"
+2026-10-20T14:55:37Z,unione-sdk,1.1.3,UniOne,MIT,118968,UniOne Web API client library for Python
+2026-10-20T14:55:54Z,rust-audit,0.2.5,Antonio Cantallops Alba <contact@exyonq.org>,Apache-2.0,116762,"Static auditor and auto-fixer for AI-generated Rust traps — stubs, fake tests, swallowed errors, panic/unsafe misuse, hallucinated or typosquatted crates"
+2026-10-20T14:56:47Z,unione-django,1.1.3,UniOne,MIT,25500,"UniOne Web API for Django: API client, email backend, webhooks"
+2026-10-20T14:56:56Z,unione-flask,1.1.3,UniOne,MIT,18877,"UniOne Web API for Flask: API client, webhooks"
+2026-10-20T14:57:08Z,unione-fastapi,1.1.3,UniOne,MIT,19355,"UniOne Web API for FastAPI: API client, webhooks"
+2026-10-20T14:57:28Z,suankularb-lang,0.1,,,8635,
+2026-10-20T14:58:00Z,graunt,0.1.1,"Graunt, Inc.",MIT,24806,"Client for the Graunt API, the marketplace for agent-ready data: search listings, read packet manifests, and use an access pass."
+2026-10-20T15:00:51Z,maneuver-calculus,0.1.0a2,Jacob Schorr,Apache-2.0,4446600,"Maneuver Calculus research alpha: semantic compilation, maintained worlds, and research custody"
+2026-10-20T15:02:02Z,craft-epsilon,1.0.0,Simon Müller <simon.mueller@tuhh.de>,MIT,69528,CRAFT-epsilon: conformer-resolved atom- and fragment-based theory for the static relative permittivity of pure organic liquids
+2026-10-20T15:05:32Z,metaflow-durability,0.1.1,,BSD-3-Clause,94340,"Turns agent loops into durable, traceable, forkable work graphs on Metaflow"
+2026-10-20T15:05:50Z,cs-image-system-gcs-state-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,18974,The GCS state backend plugin: a Google Cloud Storage bucket for every terraform root that names it
+2026-10-20T15:05:51Z,zumen,0.1.0,,MIT,19793153,"Read 2D drawings of Japanese construction (SXF, JWW, DXF and DWG), render them to PNG, SVG and PDF, extract their texts and entities, and compare revisions"
+2026-10-20T15:05:52Z,cs-image-system-hashicorp-utils,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,47838,"HCL rendering and the init, plan, gate and apply sequence for the plugins that emit OpenTofu roots and Packer templates"
+2026-10-20T15:05:53Z,cs-image-system-local-state-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,20715,"The local state backend plugin: a state file on disk for every terraform root that names it; no cloud, no credentials"
+2026-10-20T15:05:55Z,cs-image-system-okta-opa-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,88321,The identity plugin for Okta: groups and users as Okta Privileged Access and Okta terraform roots
+2026-10-20T15:06:26Z,asha-si,0.4.2,Ajay Rajan A <ajayrajan727@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",907135,ASHA developer preview (0.4.2): mission-aware Superintelligence (SI) agent governance (ANCHOR) plus drop-in LLM security and optimization. pip install asha-si (import asha). No API key or model downl…
+2026-10-20T15:06:47Z,plesty-k2410-source-meter,0.1.0,Yunshuang Yuan <yuanyunshuang@163.com>,LGPL-3.0-or-later,301018,Plesty Keithley 2410 SourceMeter (SMU) device.
+2026-10-20T15:07:58Z,hypercli-sdk,0.9.1,HyperCLI <support@hypercli.com>,MIT,343761,Python SDK for HyperCLI - GPU orchestration and HyperAgent API
+2026-10-20T15:08:02Z,imurun,0.1.4,Shubham Mallick <dev@imutechz.in>,MIT,11251,"IMURUN - local-first AI coding agent. Installs, manages and runs local LLMs on your own machine."
+2026-10-20T15:13:17Z,typewriter-pack,0.1.0,abiyyumc,MIT,4197,Typewriter text animations with easing for the terminal
+2026-10-20T15:13:57Z,agent-skill-factory,1.2.1,Skill Factory Contributors,MIT,285087,"Free, open-source Agent Skills generation and management for Claude Code, Cursor, Codex, Antigravity, Windsurf, Continue, Cline, and Copilot."
+2026-10-20T15:15:24Z,eqty-lineage-langchain,0.2.5,,Apache-2.0,59815,EQTY lineage callback handler for LangChain and LangGraph.
+2026-10-20T15:15:50Z,ml-lab-codes,0.1.0,Sriram,MIT,30266,Educational library providing complete source codes for Machine Learning Laboratory experiments (1a to 5b).
+2026-10-20T15:15:51Z,naas-abi-sdk,0.1.0,,,581765,Standalone ABI sdk package
+2026-10-20T15:16:37Z,codelor-color,2.1.0,PlimbAi <plimb.ai.contact@gmail.com>,MIT,12732,A lightweight PyTorch Transformer architecture for Chroma Key (Green Screen).
+2026-10-20T15:17:33Z,contract-checker,0.1.0rc1,"Thom van Engelenburg, Sonu Jacob",MIT,455024,Data contract checker
+2026-10-20T15:18:31Z,qbic-selex,1.0.0,Shengyu Li <sl548@cs.duke.edu>,MIT,403671,"Quantitative, bias-corrected prediction of variant effects on transcription factor binding (QBiC-SELEX)"
