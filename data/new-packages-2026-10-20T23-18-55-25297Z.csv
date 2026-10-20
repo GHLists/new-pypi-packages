@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T22:20:35Z,zodish,0.3.0,Aleksandr Pavlov <ckidoz@gmail.com>,MIT,3094296,Composable Python 3.14+ schemas with a Rust validation core
+2026-10-20T22:22:10Z,django-passkeys-admin,1.0.0,Niccolò Mineo <niccolo.mineo@gmail.com>,MIT,361901,"A passkey-only Django admin, built on django-passkeys."
+2026-10-20T22:29:34Z,magmacrunch-two-to-the-n,0.1.0,magmacrunch media,PolyForm-Noncommercial-1.0.0,53307,"2^N - 2048, generalised. Terminal version."
+2026-10-20T22:30:00Z,sc-cluster-libreville,0.1.0,Ben Carrillo <ben.uzh@proton.me>,MIT,2557395,Parallel and deterministic implementation of the Leiden community detection algorithm
+2026-10-20T22:30:54Z,understand-mcp,0.1.0,UNDERSTAND contributors,MIT,520775,"UNDERSTAND - repository-wide code intelligence, security and defect analysis engine with a CLI and an MCP server."
+2026-10-20T22:38:08Z,agentconnect-core,0.1.0a1,,Apache-2.0,23696674,Python bindings for the AgentConnect protocol core
+2026-10-20T22:38:46Z,agentconnect-cli,0.1.0a1,,Apache-2.0,720123,AgentConnect daemon (agentconnectd) and CLI
+2026-10-20T22:39:10Z,agentconnect-sdk,0.1.0a1,,Apache-2.0,52712,Python SDK for headless agents on AgentConnect
+2026-10-20T22:44:13Z,zipbox,0.1.0,Tribes Protocol,Apache-2.0,129427,"Drive Zipbox boxes from Python: create, exec, files, PTY, previews."
+2026-10-20T22:44:22Z,comfy-agent-go,0.0.0.dev0,Comfy Org,GPL-3.0-only,13829,The Comfy agent's executable for ComfyUI. In development.
+2026-10-20T22:44:28Z,toll-passport,0.1.0a4,Steven Ochs and Tollbench,Apache-2.0,67722,"An independent, owner-controlled information vault from Toll Bench"
+2026-10-20T22:45:24Z,crystalplane,0.1.0,Enterprise Picard Engineering <engineering@picard.enterprise>,Apache-2.0,73286,"Hermetic, zero-dependency slim runtime client for Crystalplane / Crystalspace knowledge and skill crystals across non-Vanguard agent systems."
+2026-10-20T22:46:17Z,writers-room,0.1.0,,,47366,Collaborative writers room multi-agent narrative brainstorming engine
+2026-10-20T22:48:26Z,baridimob,0.1.0,BaridiMob SDK contributors,MIT,38061,Open-source Python SDK for BaridiMob (Algérie Poste)
+2026-10-20T22:49:04Z,bitcomposer-emu,0.3.1,CatDogBark <catdogbark@pm.me>,MIT,1086797,The SNES sound CPU and SNES chip emulator behind bitComposer's SPC import
+2026-10-20T22:52:12Z,keptwise,1.2.1,Jamie Baxter <173777313+j-baxter2@users.noreply.github.com>,GPL-3.0-or-later,180000,"Import your monthly bank statement, see where the money went, and know how much to invest."
+2026-10-20T22:53:21Z,sonosk,0.1.0,Soheil Kooklan <soheilkooklan@gmail.com>,GPL-3.0-or-later,93990,"Medical ultrasound simulation in Python: transducers, fields, B-mode imaging, HIFU heating and thermal dose"
+2026-10-20T22:55:00Z,hound-cli,0.1.0,,Apache-2.0,84325,Hound operator CLI
+2026-10-20T22:55:22Z,ringwire,0.1.0,Jonathan Andrei,MIT,35470,"Typed Python client for the Ring Partner API (Amazon Vision API): devices, sensors, media, webhooks, account linking."
+2026-10-20T22:57:52Z,qtranslifia,0.1.0,LIFIA author <jsuarez@lifia.info.unlp.edu.ar>,Apache-2.0,158707,"Traducción de circuitos Quirk a OpenQASM y migración a Qiskit, AWS Braket y PennyLane."
+2026-10-20T22:59:18Z,wasm-tools-package,1.262.0.0b1,o-murphy <thehelixpg@gmail.com>,Apache-2.0,81580319,"wasm-tools, the Bytecode Alliance's WebAssembly toolkit (parse, print, validate, component, ...) as a prebuilt binary"
+2026-10-20T22:59:31Z,credhunter,0.1.0,,,42429,Automated secrets detection and reporting tool
+2026-10-20T23:00:52Z,firnpack,1.0.0,Fabrizio Hernandez,MIT,100078,a glacier for your files — every commit a single packed layer of history.
+2026-10-20T23:03:31Z,sorethumb-ml,0.1.0,Tarne Westcott <tarne.westcott@gmail.com>,Apache-2.0,1592020,Unsupervised anomaly detection for tabular data
+2026-10-20T23:04:30Z,opencode-models,0.1.0,codesam <tedsamhain@gmail.com>,"MIT License Copyright (c) 2026 codesam <tedsamhain@gmail.com> Permission is hereby granted, free of…",249511,Ranked console of AI models: benchmark scores against real per-token prices
+2026-10-20T23:04:45Z,xscalers,0.1.0,Will Dean,MIT,74521,"sklearn-shaped, dim-aware scaling transformers for xarray and pytensor.xtensor"
+2026-10-20T23:04:55Z,pyside-hatch-project,0.1.0,Tomas Karabela <tkarabela@seznam.cz>,MIT,33618,"Hatchling build hook and CLI that compiles PySide6 .ui, .ts and .qrc files"
+2026-10-20T23:06:43Z,llandau,0.3.1,,MIT,27432777,"Smooth scientific slides drawn live, with interactive 3D views of atomic trajectories"
+2026-10-20T23:07:46Z,win-llmtop,0.1.0,,GPL-3.0-or-later,181205,"A live terminal panel for llama.cpp's llama-server on Windows: GPU and shared memory, RAM, requests"
+2026-10-20T23:08:46Z,lisa-pack-letta,0.1.0,,,83009,Lisa Letta (MemGPT) integration pack - Letta as a memory provider and stateful-agent peer
+2026-10-20T23:08:51Z,lisa-pack-mem0,0.1.0,,,13725,Lisa Mem0 provider pack - external memory backend and MCP server manifest
+2026-10-20T23:08:59Z,lisa-pack-headroom,0.1.0,,,54693,Lisa Headroom pack - token-savings signal connector plus mid-turn context compression via the Headroom MCP server
+2026-10-20T23:09:09Z,x402-conformance,1.2.1,Ryan Gillespie / Optitransfer,Apache-2.0,95253,"Experimental conformance and safety checks for x402 V2 facilitators and resource servers, Solana first"
+2026-10-20T23:11:24Z,specly,0.1.0,davidops,MIT,49564,Spec-Driven Development scaffolding in Python
+2026-10-20T23:11:37Z,mcp-tool-pin-check,0.2.2,Digital Fortress,MIT,44152,"Read-only checker that pins MCP tool definitions and flags drift, tool poisoning and rug pulls between tools/list exports."
+2026-10-20T23:13:05Z,lightguard-agent,0.3.0,Tarek Mohamed <seotarek@gmail.com>,MIT,71389,A Lightweight Defense Architecture Against Indirect Prompt Injection in Tool-Calling AI Agents and MCP Workflows
+2026-10-20T23:15:30Z,agent-k8s-harden-check,0.1.0,Digital Fortress,MIT,37042,"Read-only checker for Kubernetes AI-agent workloads: flags missing gVisor/Kata runtime class, token automount, root or privileged containers, host namespaces, missing limits and missing metadata/RFC1…"
+2026-10-20T23:15:42Z,synthient,1.0.0,Synthient,Apache-2.0,78052,The official Python client for the Synthient API.
+2026-10-20T23:16:18Z,mangosta,0.1.0a1,Mangosta Developers,MIT,144063,Lightweight MLOps and model lifecycle management for PyTorch
+2026-10-20T23:16:38Z,multiarch,0.2.0,Alex Nikolaenko,MIT,64074,"Fast multivariate GARCH for Python: CCC, DCC, aDCC, copula-DCC and GO-GARCH, validated against rmgarch"
