@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T18:20:29Z,rams-forecast,0.1.2,,,54760,Reliability-aware multimodal sky-sensor networks for GHI nowcasting
+2026-10-20T18:21:01Z,langchain-layrcake,0.1.0,Layrcake <founders@layrcake.dev>,MIT,204370,"LangChain tools for Layrcake: find leads, enrich and verify emails, check and research companies, and draft campaigns that a person approves before anything sends."
+2026-10-20T18:21:05Z,llama-index-tools-layrcake,0.1.0,Layrcake <founders@layrcake.dev>,MIT,18705,"LlamaIndex tool spec for Layrcake: find leads, enrich and verify emails, check and research companies, and draft campaigns that a person approves before anything sends."
+2026-10-20T18:21:08Z,crewai-layrcake,0.1.0,Layrcake <founders@layrcake.dev>,MIT,213191,"CrewAI tools for Layrcake: find leads, enrich and verify emails, check and research companies, and draft campaigns that a person approves before anything sends."
+2026-10-20T18:21:35Z,certbot-dns-connbyte,0.1.0,ConnByte <team@connbyte.com>,Apache-2.0,20246,ConnByte DNS Authenticator plugin for Certbot
+2026-10-20T18:23:44Z,etcompare,0.1.0,Paul Inkenbrandt,MIT,836495,Compare OpenET model estimates against quality-controlled eddy covariance station ET.
+2026-10-20T18:26:45Z,credcloak,0.1.0,Ayush Dixit <ayushdixitvsecpanki@gmail.com>,MIT,123022,"Zero-dependency local credential firewall for Claude Code: audit transcripts and run with reversible, fail-closed secret cloaking."
+2026-10-20T18:26:54Z,serve-return,0.1.0,Ujwal Vanjare,MIT,953179,"Count adult-child conversational turns from any speaker-labelled transcript, by the published five-second rule, and keep no words."
+2026-10-20T18:27:40Z,nova-terminal-ai,1.0.0,,,15621250,AI error explanations for NOVA Terminal
+2026-10-20T18:27:49Z,marquetry-svg,0.1.0,Aaron Montgomery,GPL-3.0-or-later,215771,"Turn a flat logo image into filament-ready multi-color SVGs for 3D printing: one path per color, plus a base disc."
+2026-10-20T18:29:39Z,autocode-supervisor,0.8.1,,Apache-2.0,8608890,"AutoCode runs your coding agent and won't say 'done' without evidence: independent checks, exact-version approval, and a record of what was verified."
+2026-10-20T18:29:45Z,cnsh-v2,2.2.0,诸葛鑫 <346045695@qq.com>,MulanPSL-2.0,284357,CNSH → C 通用转译器 v2.0 — 中文母语系统级语言，编译为 C99 原生可执行文件，内置 DNA 追溯与三色审计，零三方依赖
+2026-10-20T18:33:28Z,centriole-nightly,5.0.0.dev784,"Anne Carpenter, Thouis (Ray) Jones, Lee Kamentsky, Vebjorn Ljosa, David Logan, Mark Bray, Madison S…","The BSD 3-Clause License Copyright © 2003 - 2026 Broad Institute, Inc. All rights reserved. Redistr…",30217018,An open source image processing library
+2026-10-20T18:34:34Z,fux-decoder-config,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,8829,"Fux decoder package: configuration files — TOML, YAML, INI."
+2026-10-20T18:34:36Z,fux-decoder-drawio,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,4480,Fux decoder package: draw.io diagrams.
+2026-10-20T18:34:37Z,fux-decoder-html,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,7524,Fux decoder package: HTML.
+2026-10-20T18:34:38Z,fux-decoder-image,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,6978,"Fux decoder package: images — the text and metadata a PNG, JPEG or GIF carries."
+2026-10-20T18:35:40Z,gds-viewer,0.1.0,Volker Muehlhaus <volker@muehlhaus.com>,Apache-2.0,33593,GDSII viewer and headless PNG export with IHP SG13G2 layer colors and fill patterns
+2026-10-20T18:35:43Z,plot-snp,0.1.0,Volker Muehlhaus <volker@muehlhaus.com>,Apache-2.0,18717,"Plot magnitude, phase and Smith charts from Touchstone S-parameter files"
+2026-10-20T18:36:32Z,django-spec-cli,0.1.0,Artur Veres <artur8118@gmail.com>,MIT,226695,"Run a django-service-specs registry from manage.py: one subcommand per spec, options generated from its parameters, exit codes for every refusal."
+2026-10-20T18:37:49Z,elenamehana2026,0.1.0,Elena Mehana,,3467,A simple package for useful string operations
+2026-10-20T18:38:13Z,brightdata-hotdata-bridge,0.1.1,Adom Hamza,Apache-2.0,116984,Trigger Bright Data scraper collections and publish the results into Hotdata tables.
+2026-10-20T18:39:55Z,gds2palace-mcp,0.1.0,Volker Muehlhaus <volker@muehlhaus.com>,GPL-3.0-or-later,72309,"MCP server for gds2palace: inspect GDSII layouts and stackups, check and generate AWS Palace models"
+2026-10-20T18:41:37Z,anivis,0.1.0,Anirudh Ghanshyam Sarve,MIT,70076,"A modular, reliable, and developer-friendly Python computer vision library"
+2026-10-20T18:42:23Z,parleml-ml4,0.8.0,ParleML <support@parleml.com>,LicenseRef-ParleML-Terms,65161651,"ParleML's training engine: AutoML on AutoGluon with leakage-safe feature engineering, calibration and forecasting"
+2026-10-20T18:42:27Z,morphic-cv,0.1.0,MorphicCV Contributors,Apache-2.0,32471,Next-Generation Lightweight Computer Vision Research Suite (<8GB RAM)
+2026-10-20T18:42:51Z,parleml-mli,0.8.0,ParleML <support@parleml.com>,LicenseRef-ParleML-Terms,44979725,"ML Interpretability toolkit: target-class profiling, rule extraction, and reporting"
+2026-10-20T18:45:59Z,agent-fileview,0.1.1,Tom Barrett,MIT,91916,Read-only file viewer that turns a coding agent's file paths into links you can open on your phone over Tailscale
+2026-10-20T18:46:05Z,oracle.oci-db-observability-mcp-server,0.1.0,Oracle MCP <237432095+oracle-mcp@users.noreply.github.com>,UPL-1.0,147187,Unified Oracle Database Observability MCP server
+2026-10-20T18:49:22Z,bgu,0.0.1,Michael Dorman <dorman@post.bgu.ac.il>,"Copyright (c) 2026 The Python Packaging Authority Permission is hereby granted, free of charge, to…",4506,Utility functions for work at BGU
+2026-10-20T18:49:50Z,dbt-redis-adbc,0.1.0,Albert T. Wong,,47932,dbt adapter for Redis 8.x using the Redis ADBC driver
+2026-10-20T18:51:36Z,adbc-driver-redis,0.0.15.post1,,Apache-2.0,41345047,Redis ADBC driver and analytics integrations
+2026-10-20T18:52:58Z,rederive,0.0.1,Dante,MIT,3518,"Reproducible, traceable analysis pipelines (formerly workflow-canvas). Placeholder release."
+2026-10-20T18:53:51Z,nexus-hostinger,1.0.0,NEXUS HOSTINGER <suporte@nexushost.cloud>,,11162,SDK Oficial em Python para automação e integração com a API da NEXUS HOSTINGER
+2026-10-20T18:55:27Z,shardac,1.0.0,Shard,Apache-2.0,739152,Open-weight models for detecting cheats in Minecraft: Java Edition
+2026-10-20T18:56:41Z,prinvox,0.1.0,,MIT,27677,"Official PrinVox Margin Guard SDK: report AI usage events (OpenAI, Anthropic, Google Gemini) from your Python server."
+2026-10-20T18:57:33Z,utilvo-apache-shield,1.1.0,Utilvo,MIT,2334,"Apache 2.4 mod_authz_core CIDR radix-tree, mod_remoteip & .htaccess cloud scraper firewall powered by Utilvo EdgeShield."
+2026-10-20T18:58:00Z,helios-mesh,0.1.3,,Apache-2.0,8346275,Typed Python bindings for Helios Mesh.
+2026-10-20T19:00:47Z,tegridy-ai,0.0.0,Tegridy Labs,,2218,Name reserved for Tegridy (tegridy.ai). The first release is on its way; this placeholder installs nothing.
+2026-10-20T19:01:40Z,alt-fabric-m365,0.6.0,Ben Dobbs,,253059,Collection of useful python code for automation in Microsoft Fabric.
+2026-10-20T19:03:04Z,siftcode,0.3.0,Tuomas Lähteenmäki <lahtis@gmail.com>,GPL-3.0-or-later,931864,Local LLM-powered code analysis and developer guide generator
+2026-10-20T19:03:24Z,guardiano3,0.1.0,Proneuronet Solutions Private Limited <support@guardiano3.com>,Apache-2.0,311666,Official Python client for the GuardianO3 fraud-intelligence API.
+2026-10-20T19:07:37Z,athenaea,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6421,athenaea
+2026-10-20T19:08:00Z,athenea,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6438,athenea
+2026-10-20T19:08:01Z,nbprint-library,0.1.0,the nbprint-library authors <dev@1kbgz.com>,Apache-2.0,12792,Alias for athenaea
+2026-10-20T19:08:34Z,automation-auditor-mcp,0.1.0,Ahmad Yar,Apache-2.0,38474,Read-only multi-platform workflow and integration static auditor for MCP clients
+2026-10-20T19:08:52Z,heartcut,0.1.0,Amir Parsian,MIT,594275,"Distill an expensive LLM classifier into a tiny model: label with a teacher LLM, train compact students, benchmark cost/accuracy/latency, serve on CPU."
+2026-10-20T19:11:04Z,heapdb,0.5.0,,Apache-2.0,5602112,"HeapDB: pop the most likely cause, right now. Ranked, explainable attribution over an append-only event stream (Rust engine, Python bindings)."
+2026-10-20T19:14:42Z,datumesh,0.1.1,Datumesh,Apache-2.0,110760,"Verify Datumesh receipts (spec-0.1.1): RFC 8785 canonical JSON, Ed25519 signatures, cell URIs, key documents."
+2026-10-20T19:18:16Z,heapdb-memory,0.1.0,,Apache-2.0,224227,Long-term memory for AI agents on HeapDB: explainable recall that learns which memories are actually useful.
+2026-10-20T19:18:46Z,netkeep,0.1.0,David Morgan,MIT,6835028,"Keep your professional network warm: LinkedIn contact extractor, local CRM, and reconnect sequences over Gmail and LinkedIn."
+2026-10-20T19:20:04Z,karni,0.3.1,Chandrabhan Shekhawat <cbsshekhawat18@gmail.com>,Apache-2.0,1091503,"Django + React framework that stays a versioned dependency, not a boilerplate: declare models and access, get the REST API, admin, permissions, tests and seed data. Built so AI coding agents (Claude…"
