@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T04:19:38Z,sinet-cli,0.1.1,,Apache-2.0,9198864,"The SINet Go social CLI, packaged with a verified binary"
+2026-10-20T04:25:05Z,airegistry-cli,2.3.1,,MIT,41937,Dependency-free CLI for discovering and installing versioned AI components from AIRegistry
+2026-10-20T04:26:54Z,gld-kiln,0.2.0,Leonid Ganeline,,32709,Positional little-endian Kiln codec for Python
+2026-10-20T04:27:09Z,myutils2,0.1.0,Твоё Имя <email@example.com>,MIT,2543,Мои полезные функции
+2026-10-20T04:27:57Z,QuickLab-MCP,0.1.0,QuickLab Team,Apache-2.0,183316,QuickLab MCP Server - Production Tabular ML Experimentation Control Plane for AI Agents
+2026-10-20T04:28:35Z,jilebi-sdk,0.6.2,OpenAPI Generator community,AGPL-3.0,185784,jilebi API
+2026-10-20T04:31:37Z,uvpip-cli,1.0.7,"YASH <191557828+yv3000@users.noreply.github.com>, trulyimmortal <trulyimmortal80085@gmail.com>",MIT,38742,Ultra-fast transparent pip wrapper powered by uv
+2026-10-20T04:35:44Z,securepay-shared,0.1.0,,,7822,"Shared models, DB connection, config and AWS client for SecurePay-Riwi"
+2026-10-20T04:35:56Z,peasy-ai,1.0.0,siwpan,MIT,620613,零硬编码、配置驱动的通用 AI 对话框架：AI 核心 + 叙事引擎 + TRPG 训练场
+2026-10-20T04:36:23Z,apisec-orgscan,1.0.0,,Apache-2.0,36141,Scan every repository in a GitHub organization with APIsec Surface.
+2026-10-20T04:42:31Z,iyulab-gil,0.3.0,,Apache-2.0,4157633,Suggests and decides form field values from how settled documents were filled.
+2026-10-20T04:46:28Z,fhir-scorecard,0.3.0,Chelsea Kelly-Reif,Apache-2.0,2790090,Plain-language operational scorecard for publicly observable FHIR endpoints
+2026-10-20T04:52:23Z,runtime-mcp-scanner,0.1.1,Adam DiStefano,MIT,24214,"Security scanner for MCP (Model Context Protocol) servers: scan configs and source code for shell execution, unscoped file access, missing auth, exfiltration paths, and shady package provenance."
+2026-10-20T04:53:03Z,imglib2,0.1.1,,,4064,Библиотека для создания изображений
+2026-10-20T05:03:32Z,oscal-validate,0.5.0,Chelsea Kelly-Reif,Apache-2.0,1475934,"Deterministic structural validator for OSCAL documents, run against NIST's published schema and constraint layer."
+2026-10-20T05:10:05Z,covex-neuron,0.0.1.dev0,,Apache-2.0,32794,"Run your existing PyTorch / Hugging Face code on AWS Trainium, side by side with NVIDIA GPUs."
+2026-10-20T05:10:07Z,dex-trove,0.1.0,Neo Pragnya,MIT,26173337,"Dex Trove — a trove of dexterities for your agents: licence-clean skills, agents, instructions, hooks and plugins learned from open repos, packaged for Ananke, Claude Code and GitHub Copilot."
+2026-10-20T05:11:06Z,khmer-g2p,0.1.0,PhonSobon,MIT,22242,Khmer grapheme-to-phoneme: convert Khmer words to their NCKL Khmer-script respelling
+2026-10-20T05:17:02Z,unwrapt,1.0.0a1,Graham Dumpleton <Graham.Dumpleton@gmail.com>,BSD-2-Clause,75859,"Defer whole-module imports until first use on Pythons below 3.15, emulating PEP 810's __lazy_modules__, with a profile mode that reports what imports cost and what is worth deferring. Built on wrapt."
+2026-10-20T05:18:01Z,novel-generator,2.0.0,siwpan,MIT,357682,ASP 模板流中文小说自动生成引擎 —— 多层嵌套循环 + 词库随机替换，纯标准库、可离线生成单章/整卷/全本
