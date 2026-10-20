@@ -1,34 +1,34 @@
 {
   "list": {
-    "count": 52,
-    "from": "2026-10-20T18:18:58.887103Z",
-    "path": "data/new-packages-2026-10-20T19-20-06-371469Z.csv",
-    "to": "2026-10-20T19:20:06.371469Z"
+    "count": 50,
+    "from": "2026-10-20T19:20:06.371469Z",
+    "path": "data/new-packages-2026-10-20T20-18-59-319866Z.csv",
+    "to": "2026-10-20T20:18:59.319866Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-20T18:06:10Z",
       "package": "craftainer-crud",
       "since": "2026-10-20T17:20:39.600195Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-20T18:06:13Z",
       "package": "craftainer-observability",
       "since": "2026-10-20T17:20:39.600195Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-20T18:28:13Z",
       "package": "cumulus-library-rxnorm",
       "since": "2026-10-20T18:18:58.887103Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-20T19:11:05Z",
       "package": "mornye",
       "since": "2026-10-20T18:18:58.887103Z",
@@ -36,13 +36,20 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-20T19:20:01Z",
-      "package": "nous-memory",
-      "since": "2026-10-20T18:18:58.887103Z",
+      "created_at": "2026-10-20T19:31:18Z",
+      "package": "opssignal",
+      "since": "2026-10-20T19:20:06.371469Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-20T19:34:09Z",
+      "package": "pysnappea",
+      "since": "2026-10-20T19:20:06.371469Z",
       "version": null
     }
   ],
-  "serial": 42508214,
+  "serial": 42510512,
   "source_truncated": false,
-  "window": "2026-10-20T19:20:06.371469Z"
+  "window": "2026-10-20T20:18:59.319866Z"
 }

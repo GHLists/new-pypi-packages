@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T19:20:01Z,nous-memory,0.1.0,Quintara AI,AGPL-3.0-only,424733,Memoria persistente 4D para agentes de IA — servidor MCP local-first
+2026-10-20T19:20:10Z,karni-cli,0.3.1,Chandrabhan Shekhawat <cbsshekhawat18@gmail.com>,Apache-2.0,507284,"The karni command for the Karni Django + React framework: scaffold a project, generate models, viewsets and pages, run it, upgrade it across releases, and give AI coding agents its context, rules and…"
+2026-10-20T19:20:15Z,karni-payments,0.3.1,Chandrabhan Shekhawat <cbsshekhawat18@gmail.com>,Apache-2.0,70462,"Payments module for the Karni Django + React framework: hosted checkout, refunds and signature-verified webhooks for Stripe and Razorpay, with a test provider for CI."
+2026-10-20T19:20:19Z,karni-approvals,0.3.1,,Apache-2.0,61435,"Maker-checker approvals module for the Karni Django + React framework: a second person approves high-value changes before they are written, with a queue, an API, notifications and a full audit trail."
+2026-10-20T19:21:01Z,decisionmesh,0.0.1,Shivam Goel,,2400,"DecisionMesh by Universal Winner (name reserved, coming soon)"
+2026-10-20T19:21:04Z,progressmesh,0.0.1,Shivam Goel,,2405,"ProgressMesh by Universal Winner (name reserved, coming soon)"
+2026-10-20T19:21:08Z,hastamesh,0.0.1,Shivam Goel,,2355,"HastaMesh by Universal Winner (name reserved, coming soon)"
+2026-10-20T19:22:36Z,thodr-mcp,0.1.0,Thodr,MIT,26469,MCP server for creating and managing Thodr mock API projects and routes from an AI IDE
+2026-10-20T19:22:48Z,roxcustody-scn-verifier,1.1.0,"Ahmed Aref <ahmed.aref@roxcustody.com>, RoxCustody <integration@roxcustody.com>",Proprietary,70311,RoxCustody SCN Transaction Verifier SDK for Python
+2026-10-20T19:23:47Z,errand-run,0.1.1,Hugo Leclerc,MIT,493129,"Run work here, in a container or on another machine, and bring back what it produced"
+2026-10-20T19:27:11Z,lemur11,0.1.0,pismeno <krystof.kloz@gmail.com>,MIT,27790,A simple python-based fullstack framework.
+2026-10-20T19:29:17Z,pisces-cli,0.1.0,Mrinmoy Matilal <mrinmoymatilal1315@gmail.com>,MIT,284035,"AI-assisted,self healing human-governed Python security remediation patcher"
+2026-10-20T19:29:26Z,phenix-icechunk,0.1.0,Tong Li <tl10@sanger.ac.uk>,MIT,84815,Expose an Opera Phenix / Harmony Index.xml export as a virtual OME-Zarr plate in an icechunk repo
+2026-10-20T19:30:50Z,ventriloquist-mcp,0.2.0,Shaan Gurushankar,MIT,191237,"Turn Mac apps into MCP servers using the accessibility API. Explore an app once, then every tool call is deterministic replay: no screenshots, no model per step."
+2026-10-20T19:31:12Z,codehawk-binary,0.3.20261020,Aarno Labs LLC <codehawk@aarno-labs.com>,MIT,8141471,Python API for the CodeHawk Binary Analyzer
+2026-10-20T19:32:31Z,usb-insight-hub-jetperch,0.1.1,Jetperch LLC <joulescope-dev@jetperch.com>,Apache-2.0,386741,Host library and tools for Jetperch's replacement USB Insight Hub firmware
+2026-10-20T19:33:29Z,visualdedup,0.2.0,VisualDedup Team,MIT,81606,"High-performance visual duplicate detection, intelligent keeper recommendation, and safe dataset cleanup."
+2026-10-20T19:33:42Z,centriole,5.0.0.dev784,"Anne Carpenter, Thouis (Ray) Jones, Lee Kamentsky, Vebjorn Ljosa, David Logan, Mark Bray, Madison S…","The BSD 3-Clause License Copyright © 2003 - 2026 Broad Institute, Inc. All rights reserved. Redistr…",781251,An open source image processing library
+2026-10-20T19:34:27Z,db-explorer-mcp-server,0.1.0,,MIT,314482,"Read-only MCP server for PostgreSQL, MySQL, and SQLite: schema exploration, safe SELECT queries, EXPLAIN plans, index suggestions, and migration review."
+2026-10-20T19:34:51Z,timestral-metal,0.1.1,Mark van der Broek,Apache-2.0,62238,"Mistral's Timestral time-series forecasting models on Apple silicon, with MLX"
+2026-10-20T19:37:03Z,workoutgen,0.1.0,,MIT,24219,"Create Apple Watch custom workouts: build and decode .workout files (WorkoutKit) from a short text spec. No Swift, no dependencies."
+2026-10-20T19:37:11Z,strix-web3,1.7.4,hashward-io <halvorsentech@gmail.com>,Apache-2.0,2236435,Open-source AI smart-contract security auditor for every major chain and language
+2026-10-20T19:38:26Z,polars-tzf,0.2.0,,,70960413,"Fast lat/lng to IANA timezone lookup for Polars, powered by tzf-rs"
+2026-10-20T19:39:49Z,mcp-gitlabpr,1.0.0,Daniel Xavier Araújo <danielxaraujo@gmail.com>,MIT,18003,"MCP server para merge requests do GitLab (API v4, CE 10.8+): listar, obter e criar"
+2026-10-20T19:40:32Z,fshammer,0.9.0,PacAnimal,MIT,201666,"A concurrent filesystem workload, verified against an in-memory model of the files it writes"
+2026-10-20T19:45:44Z,mcpsmith,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,MIT,244525,"Turn an OpenAPI file or a recorded website session into a curated, tested MCP server, with an LLM designing the tools."
+2026-10-20T19:47:06Z,riskvalidation,0.8.0,Felipe Santibáñez-Leal,MIT,1043997,"Validation tests, regulatory calculators and reference engines for financial risk models: the toolkit of an independent model validator."
+2026-10-20T19:48:27Z,barline,0.3.0,Stephen Brouhard,MIT,96217,Exact-tree check evidence and optional completion guards for coding agents
+2026-10-20T19:50:55Z,sawt,0.1.0,Muneeb Sajjad,MIT,193908,"Listen to any web page or book, read aloud by a voice model running on your own machine."
+2026-10-20T19:52:47Z,mathra,1.0.0,Matheus Mota,(MIT OR Apache-2.0) AND OFL-1.1,7448315,"Math LaTeX to accessible SVG, without a TeX install. Speech for screen readers in 16 languages."
+2026-10-20T19:53:24Z,pytest-mcptest,0.1.0,Shashank Nainwal,MIT,34324,Test your MCP servers like you test everything else.
+2026-10-20T19:55:07Z,fusiondms-client,0.1.0,,,21739,Python client for Fusion DMS
+2026-10-20T19:55:27Z,vision-synthesis,0.1.0,Anirudh <author@visionsynthesis.org>,Apache-2.0,55350,"Production-grade 2.5D compositional scene synthesis, occlusion reasoning, and dataset engineering for Computer Vision."
+2026-10-20T19:56:53Z,ferry-ingest,0.1.0a1,,Apache-2.0,41690765,"Edge agent that ships instrument data from watched folders to one or more S3-compatible stores, on a cron schedule or as it lands"
+2026-10-20T19:57:00Z,defect-synthesis,0.1.0,Anirudh <author@defectsynthesis.org>,Apache-2.0,42583,"Procedural anomaly and surface defect synthesis engine for industrial visual inspection, quality control, and anomaly detection."
+2026-10-20T19:57:44Z,avenc,1.0.0,Jean-Baptiste Filippi <filippi_j@univ-corse.fr>,Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND Zlib AND libpng-2.0 AND blessing AND IJG A…,165166610,Video compression and lazy xarray access for meteorological GRIB grids
+2026-10-20T20:01:32Z,edgeserve,0.1.0,suryachand2k1@gmail.com,Apache-2.0,578053,OpenAI-compatible LLM server for TensorRT Edge-LLM on NVIDIA Jetson and NVIDIA GPUs
+2026-10-20T20:03:02Z,a2a-buffer-client,0.3.0,a2a-buffer maintainers <a2a-buffer@proton.me>,MIT,39272,"Framework-independent coordination buffer client: claim tasks, offload artifacts, recover workflows. Async SDK for the public a2a-buffer node — 18 MCP tools, no API key."
+2026-10-20T20:03:44Z,xeroemoji,1.0.1,Max Infeld,CC-BY-NC-4.0,167030,"Xero Emoji lookup + MCP server: 3,963 Unicode Emoji 18.0 emoji -> SVG/PNG URLs, names, groups, skin tones (no dependencies)"
+2026-10-20T20:04:13Z,ds-fetch-py-sdk,1.1.0,AI Commons <hello@grasplabs.com>,Apache-2.0,46014,Python SDK for AI Commons Fetch: read-only SQL over your tenant data lake.
+2026-10-20T20:04:22Z,amiga-re-kit,0.2.0,Štěpán Mikeš,MIT,163000,"Measured reverse engineering of Amiga floppy games: ADF/HUNK/packers, a strict 68000 decoder and static recompiler, headless vAmiga capture, and an MCP server so coding agents can use all of it."
+2026-10-20T20:10:08Z,sphinx-contrib-prefect,0.1.0,,MIT,235730,"A Sphinx extension for documenting Prefect flows, tasks, and subflows."
+2026-10-20T20:10:34Z,ds-fetch-cli,1.1.0,AI Commons <hello@grasplabs.com>,Apache-2.0,26372,aic-fetch: the command line for AI Commons Fetch. SQL and natural-language queries over your data lake.
+2026-10-20T20:11:34Z,cogito-mem,0.2.0,Krzysztof Sopyła,MIT,580264,"A fast, simple, local memory for agents: append text, query it within a token budget."
+2026-10-20T20:11:57Z,opssignal-aws,1.0.0b1,,Apache-2.0,15245835,"AWS support for opssignal (S3, AppConfig, DynamoDB, Secrets Manager)"
+2026-10-20T20:12:51Z,langchain-wayza,0.1.0,Wayza <support@wayza.com>,Apache-2.0,25917,"LangChain tools for Wayza: give your agent an address, so it can ask people and other AIs and answer their links."
+2026-10-20T20:13:11Z,ichiwatashi,0.1.0,,MIT,315138,Deterministic pixel-art measurement and parametric construction
+2026-10-20T20:15:14Z,event-wake-witness,1.0.0,TextForAgents LLC,"MIT License Copyright (c) 2026 TextForAgents LLC Permission is hereby granted, free of charge, to a…",10697,"Emit-side SDK for the Event-wake witness: signed emit receipts, hop reporting, correlation with signed visibility-horizon statements."
+2026-10-20T20:17:41Z,labelwerk,0.9.0,,GPL-3.0-or-later AND MIT AND CC0-1.0,6200044,Design and print labels on Brother QL printers under Linux
+2026-10-20T20:18:52Z,pyphysicell,0.1.0,Daniel Mejia <dmejiapa@purdue.edu>,BSD-3-Clause,3581321,"An independent Python reimplementation of PhysiCell 1.14.2, with C++ computation kernels"
