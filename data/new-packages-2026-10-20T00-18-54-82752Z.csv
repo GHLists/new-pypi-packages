@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-19T22:09:40Z,SonataBot,0.1.0,Eduardo Correia,,43821,A Discord bot for music lovers
+2026-10-19T23:19:15Z,aws-durable-execution-sdk-python-telemetry-exporter,0.0.1,AWS durable-execution-dev <durable-execution-dev@amazon.com>,Apache-2.0,103489,Durable Execution Telemetry instrumentation plugin for the AWS Durable Execution SDK for Python
+2026-10-19T23:23:54Z,poa-agent-kit,0.2.0,EmBot-Lantern contributors,MIT,60229,Python client/CLI and stdio MCP server for AI agents on the experimental PoA network.
+2026-10-19T23:24:03Z,red-xai-encrypt,0.3.0,Red-XAI LLC <support@infected-nation.com>,Apache-2.0,3102727,"Password-based file, folder and text encryption with a from-scratch C++ core and red-X PNG carrier"
+2026-10-19T23:25:03Z,zkit-lib,0.1.0b1,Zakaria Dahbi <zdahbi@outlook.es>,BSD-2-Clause,239519,Analysis toolkit for TDSE-Z simulation outputs
+2026-10-19T23:25:38Z,servellm,1.0.0,adilatif24 <adilatif24@gmail.com>,MIT,37396,Expose a local LLM runtime as a reliable HTTP/WebSocket service.
+2026-10-19T23:26:38Z,openmc-optimizer,0.1.1,,,41022,Genetic and Bayesian optimization workflows for OpenMC models
+2026-10-19T23:28:31Z,localtools-pdf-to-markdown,1.0.0,,MIT,304424,"Convert PDFs to clean Markdown and RAG-ready JSONL chunks offline: reading order, headings, lists, ruled tables, links, footnotes (localtools, PDFium)"
+2026-10-19T23:32:18Z,kmb-library,2.1.0,,,253750,"KMB Library - audit de sécurité, de performance et de stockage d'un poste de travail (Windows, Linux, macOS)"
+2026-10-19T23:36:46Z,codecraftai-interop,1.5.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,317760,Code Craft AI - Interop Package
+2026-10-19T23:37:36Z,openmarket,0.0.1,,MIT,1559,OpenMarket by Dubsof. WIP.
+2026-10-19T23:37:55Z,codecraftai-storage-database,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,26456,Code Craft AI - Storage Database
+2026-10-19T23:38:17Z,csd-algo,0.0.1,"""Andrei V. Keino"" <andreikeino@gmail.com>",MIT,8168,The web client for the Constant State Dectection in Timeseries algorithm webservice
+2026-10-19T23:39:07Z,codecraftai-integration-runtime,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,2866599,Code Craft AI - Integration Runtime
+2026-10-19T23:40:44Z,builtouts,0.1.0,ellainng,MIT,50347,Dependency-free interfaces and conventions built on Python's standard library
+2026-10-19T23:43:09Z,codecraftai-landscaping,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,309168,Code Craft AI - Landscaping Package
+2026-10-19T23:43:58Z,pypomes-cs,1.0.0,GT Nunes <wisecoder01@gmail.com>,,62227,"A collection of Python pomes, penyeach (cloud storage modules)"
+2026-10-19T23:44:10Z,codecraftai-sysman-common,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,72501,Code Craft AI - System Management Common Foundation
+2026-10-19T23:44:39Z,nemo-compass,0.1.0,Compass contributors,Apache-2.0,4597979,NeMo Compass trace-evidence processing with a canonical JSONL trace contract
+2026-10-19T23:44:51Z,polyvector,0.1.0,PolyVector Team,MIT,37516,High-performance in-engine multi-field hybrid search for PostgreSQL using vertical HNSW vectors and native BM25.
+2026-10-19T23:45:04Z,codecraftai-testplus,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,51920,Code Craft AI - TestPlus Package
+2026-10-19T23:47:42Z,scdo-agent-mcp,0.1.0,,MIT,20292,"MCP server (Python) for SCDO per-agent x402 wallets: Base USDC payments, signed heartbeats and booked income."
+2026-10-19T23:47:43Z,scdo-agent-tools,0.1.0,,MIT,20646,"SCDO per-agent x402 wallet tools for Python and LangChain: Base USDC payments, signed heartbeats and booked income."
+2026-10-19T23:48:54Z,earthframe-pymar,0.3.0,EarthFrame Corporation <support@earthframe.ai>,Apache-2.0,2072770,High-performance Python package and Rust engine for the MAR archive format
+2026-10-19T23:49:26Z,codecraftai-sysman-linux-redhat,1.2.0,Code Craft AI,LicenseRef-CodeCraftAI-Source-Available,552495,System management package for automating the maintenance of software configurations on Red Hat Linux systems.
+2026-10-19T23:50:29Z,codecraftai-sysman-linux-ubuntu,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,696165,Code Craft AI - System Management Linux Ubuntu
+2026-10-19T23:51:42Z,codecraftai-sysman-macos,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,690691,Code Craft AI - System Management MacOS
+2026-10-19T23:53:15Z,aress-sdk,0.1.0,Aress <aressfdp@gmail.com>,MIT,114779,Official Python SDK for the Aress Data API: The Data API for all Iran Capital Markets.
+2026-10-19T23:55:34Z,codecraftai-sysman-windows,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,760606,Code Craft AI - System Management Windows
+2026-10-19T23:56:46Z,codecraftai-protocol-uefi,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,526793,Code Craft AI - UEFI Protocol Interop Library
+2026-10-20T00:00:24Z,mcp-jobspy,1.4.0,Kirk Watson <kirk@klwindustries.com>,MIT,6184,"JobSpy MCP Server: job scraper for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs & HelloWork"
+2026-10-20T00:02:00Z,xiaomi-lens-mnn,0.1.0,yunfeng,Apache-2.0,48237,"Xiaomi-Lens-0 referring expression grounding + segmentation on MNN, no torch"
+2026-10-20T00:02:20Z,codecraftai-sysman-uefi,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,105406,Code Craft AI - System Management UEFI
+2026-10-20T00:03:26Z,codecraftai-protocol-ssh,1.3.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,134725,Code Craft AI - SSH Protocol
+2026-10-20T00:05:48Z,codecraftai-interop-kubernetes,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,78638,Code Craft AI - Kubernetes interop client
+2026-10-20T00:06:16Z,vutils-nox,0.0.1,Jiří Kučera <sanczes@gmail.com>,MIT,121694,Shared Nox configuration for vutils
+2026-10-20T00:07:14Z,apollocfg,0.1.0,fgd-haha,MIT,80241,"A lightweight, synchronous Apollo config-center client: long-polling hot reload, meta-server discovery, key contracts (required/frozen), and access-key HMAC signing. Only depends on requests."
+2026-10-20T00:07:51Z,mnemolith,0.2.0,Anish Chugh,MIT,433712,Shared memory for AI coding tools that stays true to your code.
+2026-10-20T00:09:00Z,codecraftai-interop-hyperv,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,72909,Code Craft AI - Hyper-V interop client
+2026-10-20T00:10:06Z,codecraftai-interop-libvirt,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,81724,Code Craft AI - libvirt/KVM interop client
+2026-10-20T00:11:20Z,codecraftai-interop-xen,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,79307,Code Craft AI - XCP-ng/XenServer interop client
+2026-10-20T00:13:25Z,escriturador-sped,1.4.2,Davi Augusto Moreira da Silva <daviamsilva@hotmail.com>,MIT,1131218,Biblioteca Python para auxiliar a criação e edição de arquivos de escrituração do SPED brasileiro
+2026-10-20T00:17:07Z,merge-hydradb,0.1.0,,,7119,Sync Merge unified-API records into HydraDB knowledge.
+2026-10-20T00:17:16Z,codecraftai-interop-ext-bluetooth,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,32698,Code Craft AI Interop Extension for Bluetooth
+2026-10-20T00:18:15Z,codecraftai-interop-ext-can,1.2.0,Myron Walker,LicenseRef-CodeCraftAI-Source-Available,26689,Code Craft AI Interop Extension for CAN
