@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T14:45:34Z,ohi-sdk,0.17.1,NeverBlink,Apache-2.0,55178,"Ohi catalog search, publication inspection and artifact retrieval."
+2026-10-21T16:20:09Z,rimi-receipt-parsing,0.1.1,Aleksejs Kovalovs,MIT,674483,"Offline, dependency-light parser for Rimi Latvia e-receipts (PDF) with checksum validation — no OCR engine, no AI."
+2026-10-21T16:20:51Z,agent-guild,1.0.0,Daniel Illescas Romero <illescas.daniel@protonmail.com>,MIT,55097,"A multi-agent setup for Claude Code (orchestrator + architect, coder, grader, utility subagents) with memory-bank, jevmem and Spec-Driven Development wired in, installed into a project with one comma…"
+2026-10-21T16:27:01Z,orbit-local,0.1.0,Adithyan Gireeshkumar,MIT,7800,A local-first AI model runner powered by Hugging Face
+2026-10-21T16:27:31Z,kirby-campaign,0.1.0,PeterB,PolyForm Noncommercial License 1.0.0,33275,"Teams, rosters and campaign entities for the Kirby HERO System platform"
+2026-10-21T16:28:52Z,novilabs-pmi-paths,0.dev0,Novi Labs <devops@novilabs.com>,,831,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-21T16:28:53Z,novilabs-survey-features,0.dev0,Novi Labs <devops@novilabs.com>,,833,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-21T16:28:54Z,novilabs-subsurface-features,0.dev0,Novi Labs <devops@novilabs.com>,,833,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-21T16:28:56Z,novilabs-spacing-features,0.dev0,Novi Labs <devops@novilabs.com>,,831,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-21T16:29:07Z,kagent-tools,1.0.0a17,,,21461,"Shared filesystem, shell, and workspace helpers for kagent Python adapters."
+2026-10-21T16:30:13Z,hyisp-util,0.1.1,Giuseppe Iannello,GPL-3.0-only,102897,"Firmware flasher for the Heng Yu (HYISP) USB HID bootloader, as used by the Metadot Das Keyboard 4 (Professional, Ultimate, Professional for Mac)"
+2026-10-21T16:32:02Z,gene-jar,0.1.0,Anastasia Bratulin <anastasia.bratulin@nationwidechildrens.org>,MIT,8965945,Resource for harmonizing ambiguous gene symbols
+2026-10-21T16:35:21Z,relar,0.1.0,Charlie Marsh,,3072,Add your description here
+2026-10-21T16:35:22Z,univo,1.0.0,Léopold Chappuis,MIT,12566876,"Fast, local duplicate detection for your data."
+2026-10-21T16:36:01Z,nama-hari,0.1.0,Nama Anda <email@anda.com>,MIT,9909,"Utilitas konversi dan analisis nama hari Indonesia, Jawa, Sunda, dan Inggris"
+2026-10-21T16:37:48Z,netconverter-cli,0.4.0,ValeronLabs LLC <contact@netconverter.ai>,MIT,212238,"NetConverter CLI — any-vendor network configuration migration, validation and optimization, and a local MCP bridge for your AI assistant"
+2026-10-21T16:39:48Z,pfit-cell-core,0.0.0,,LicenseRef-Proprietary,3201,Name reservation for Path Forward IT. Not installable: the real package ships as hash-pinned wheels from GitHub releases.
+2026-10-21T16:39:51Z,urban-json,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,177412,Portage Python du langage JSLT (JSON Stylesheet Language Transformations) — transformation JSON vers JSON pilotée par template.
+2026-10-21T16:41:50Z,superduperbundle,1.0.0,SuperDuperBundle team <contact@superduperbundle.com>,MIT,8261,"Client for the free SuperDuperBundle Game Price API: lowest listed PC game key prices by name, Steam app ID or store URL."
+2026-10-21T16:45:04Z,openlinktoken-core-ai,2.2.1,Open Link Token Contributors,,52812,Open Link Token Core AI package for ML1/ONNX inference
+2026-10-21T16:45:43Z,shop-notify,1.0.1,Reik Keutterling,MIT,48461,Watch an Etsy shop for new listings and send notifications.
+2026-10-21T16:47:00Z,ruleas,1.0.0,tanuki276,Apache-2.0,73175,Ruleas: authenticated policy API and management server
+2026-10-21T16:48:52Z,djangX,0.1.0.dev1,Kevin Wakhisi,MIT,4821,Add your description here
+2026-10-21T16:49:19Z,rastro-session-parsers,0.1.0,Rastro maintainers,LicenseRef-Proprietary,27264,Parsers that turn coding-agent session logs into commit-linked excerpts.
+2026-10-21T16:49:21Z,rastro-cli,0.1.0,Rastro maintainers,LicenseRef-Proprietary,67475,Rastro command line: git hook capture of coding-agent sessions and rules query.
+2026-10-21T16:49:24Z,rastro-mcp,0.1.0,Rastro maintainers,LicenseRef-Proprietary,17217,Rastro MCP server: lets a coding agent look up the recorded business rules (read only).
+2026-10-21T16:50:42Z,soritrading-watch-together,0.1.1,Value Connect Global Inc.,MIT,27401,Client for the SoriTrading agent's local API: WATCH TOGETHER signals and exchange rate-limit coordination
+2026-10-21T16:53:36Z,typed-margin-trade,0.1.1,Marcel Claramunt <marcel@tribulnation.com>,MIT,174152,"A fully typed, validated async client for the Margin Trade API."
+2026-10-21T16:53:41Z,django-admin-cmd-runner,0.2.0,Alex Jurow <teletoo51@yahoo.com>,MIT,85174,Run Django management commands from admin with real-time monitoring and stop
+2026-10-21T16:53:58Z,urban-json-xml,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,12068,Plugin urban-json : lecture de fichiers XML (fonction de template loadxml).
+2026-10-21T16:54:04Z,urban-json-csv,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,21947,Plugin urban-json : lecture de fichiers CSV (fonction de template loadcsv).
+2026-10-21T16:58:00Z,siteread,0.0.1,,MIT,4753,"Python client for siteread, not released yet. Today: npx siteread"
+2026-10-21T17:00:15Z,urban-json-db,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,12416,Plugin urban-json : lecture en base de données SQL (connectsql / readsql).
+2026-10-21T17:02:04Z,qenvoy,0.0.1,Komal Thareja <kthare10@renci.org>,,2683,A Python SDK for quantum network testbeds. (name reserved; first release coming)
+2026-10-21T17:02:06Z,qherald,0.0.1,Komal Thareja <kthare10@renci.org>,,2803,"A control framework for quantum network testbeds: orchestrator, brokers and site authorities. (name reserved; first release coming)"
+2026-10-21T17:02:08Z,qembassy,0.0.1,Komal Thareja <kthare10@renci.org>,,2743,An experiment workspace for quantum network testbeds. (name reserved; first release coming)
+2026-10-21T17:02:39Z,urban-json-http,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,11588,Plugin urban-json : appels HTTP depuis les templates (http / httpget).
+2026-10-21T17:03:13Z,queue-func,0.1,liuseki,Apache-2.0,36052,Async coroutine functions as queue-backed tasks (QueueFunc).
+2026-10-21T17:05:06Z,urban-json-elastic,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,10651,Plugin urban-json : recherche Elasticsearch (esconnect / essearch).
+2026-10-21T17:05:13Z,urban-json-editor,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,20373,Composant d'édition jslt réutilisable (Web Component : coloration syntaxique + intellisense).
+2026-10-21T17:06:15Z,mcp-hcl,0.5.0,,MIT,582558,"Agent-neutral MCP server for strict offline HCL planning, artifacts and gated control"
+2026-10-21T17:07:27Z,agent-s4,0.1.0,Simular AI,Apache-2.0,407581,Agent S4: evolving tool interfaces for computer-use agents
+2026-10-21T17:08:31Z,silo-passport-api,0.0.1,,,2293,Name reserved by Silo. Not a public package.
+2026-10-21T17:08:32Z,silo-verify,0.0.1,,,2229,Name reserved by Silo. Not a public package.
+2026-10-21T17:10:58Z,telpot,0.1.4,,,9253,
+2026-10-21T17:13:32Z,pychestrate-core,0.0.1,,LicenseRef-CodeCraftAI-Source-Available,34102,Code Craft AI - Pychestrate - Core
+2026-10-21T17:13:42Z,pychestrate-client,0.0.1,,LicenseRef-CodeCraftAI-Source-Available,260635,"Pychestrate - pod-side runtime client (enroll, dispatch, testbase, results)"
+2026-10-21T17:13:42Z,pychestrate-service,0.0.7rc0,,LicenseRef-CodeCraftAI-Source-Available,6639585,Code Craft AI - Pychestrate Service
+2026-10-21T17:15:46Z,thunderprint,0.1.0,,MIT,16954200,Locate where and when an audio recording was made from the thunder in it
+2026-10-21T17:15:53Z,cascade-discord,0.1.0,Cascade Contributors,MIT,91973,High-performance Discord selfbot library for Python
+2026-10-21T17:17:09Z,educelab-devices,0.1.0,Seth Parker <c.seth.parker@uky.edu>,AGPL-3.0-or-later,270954,Python APIs for EduceLab imaging hardware
+2026-10-21T17:18:04Z,smrt-emulator,0.0.0.dev0,mjsandells,,1264,Generate SMRT emulator code

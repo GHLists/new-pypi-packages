@@ -8,45 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 16:19 UTC
+## Latest list — 2026-10-21 17:19 UTC
 
-New packages created between 2026-10-21 15:18 UTC and 2026-10-21 16:19 UTC.
+New packages created between 2026-10-21 16:19 UTC and 2026-10-21 17:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-21T16-19-46-740701Z.csv)
+[Full CSV](data/new-packages-2026-10-21T17-19-15-290832Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-21 14:59:06 | [weir-run](https://pypi.org/project/weir-run/) | 0.1.0 |  | 99.7 kB | Canary runner for weir canary judge: plants fake canaries, runs a program's flo… |
-| 2026-10-21 15:13:45 | [edison-parser](https://pypi.org/project/edison-parser/) | 0.2 | Alex Prengère <alex.prengere@… | 37.6 kB | An EDIFACT parser with a real syntax tree. |
-| 2026-10-21 15:19:39 | [cliff-python](https://pypi.org/project/cliff-python/) | 0.2.0 | CLIFF contributors | 132.3 kB | Official Python parser, serializer, validator and converter for CLIFF 1.0 / 1.1… |
-| 2026-10-21 15:23:09 | [journey-test-helloshell](https://pypi.org/project/journey-test-helloshell/) | 0.2.0 | Luiz | 4.1 kB | Connectivity helper for the Journey test environment |
-| 2026-10-21 15:25:00 | [quackd-moss](https://pypi.org/project/quackd-moss/) | 0.22.0 | Rok Benko | 129.9 kB | The MOSS litter-picking rover adapter for quackd. Install it as quackd[moss]. |
-| 2026-10-21 15:25:56 | [pyphers](https://pypi.org/project/pyphers/) | 0.1.0 | J.T. Baker | 13.9 kB | cli tool to generate PheRS scores for a cohort of interest |
-| 2026-10-21 15:26:27 | [imbi-workflows](https://pypi.org/project/imbi-workflows/) | 2.38.0 | "Gavin M. Roy" <gavinr@aweber… | 60.1 kB | Imbi workflow engine |
-| 2026-10-21 15:31:55 | [simplibs-markdown](https://pypi.org/project/simplibs-markdown/) | 0.1.0 | "Dalibor Sova (Sudip2708)" <d… | 285.5 kB | Markdown built from nodes: a tree of named, validated Python objects that write… |
-| 2026-10-21 15:36:28 | [vapoursynth-bore](https://pypi.org/project/vapoursynth-bore/) | 1.0.1 | noizuy <daoko@protonmail.com> | 6.5 MB | Border fixing |
-| 2026-10-21 15:39:48 | [ouro-tui-themes](https://pypi.org/project/ouro-tui-themes/) | 0.3.6 |  | 32.5 kB | Optional OURO welcome styles and shared dot-matrix rendering engine. |
-| 2026-10-21 15:44:28 | [openvlclip](https://pypi.org/project/openvlclip/) | 0.5.0 | kotadymo | 119.3 kB | OpenCLIP-inspired image and text inference with EmbeddingGemma 2 |
-| 2026-10-21 15:46:08 | [torchbelief](https://pypi.org/project/torchbelief/) | 0.2.0 | Antonin Sulc | 79.6 kB | Differentiable belief functions (Dempster-Shafer, Yager, TBM, Dubois-Prade, ...… |
-| 2026-10-21 15:47:49 | [abhinav-textlib](https://pypi.org/project/abhinav-textlib/) | 0.1.1 |  | 9.5 kB |  |
-| 2026-10-21 15:49:48 | [simple-skill-manager](https://pypi.org/project/simple-skill-manager/) | 0.1.0 | Tom Janus | 46.0 kB | Manager of opencode Agent Skills: keeps them in a private folder and links or c… |
-| 2026-10-21 15:55:40 | [leansearch](https://pypi.org/project/leansearch/) | 0.1.0 | Carlo Moro <cnmoro@gmail.com> | 41.7 kB | Embedded full-text and vector search in one library (LeanText + LeanVec). |
-| 2026-10-21 15:58:27 | [lobole](https://pypi.org/project/lobole/) | 0.1.0 |  | 311.2 kB | Drive a running Loböle CAD instance: JSON-RPC client, SDK and MCP server |
-| 2026-10-21 16:04:12 | [plumb-rdf](https://pypi.org/project/plumb-rdf/) | 0.1.0 | Gabe Fierro | 5.2 MB | Author RDF building models (Brick, 223P, WATR) as plain typed Python |
-| 2026-10-21 16:05:24 | [ripplet](https://pypi.org/project/ripplet/) | 0.1.0.0 | Mehmet Emin Madanoglu | 1.3 MB | A precise, local code graph for coding agents: who calls what, what breaks, whi… |
-| 2026-10-21 16:05:28 | [cerberus-scanner](https://pypi.org/project/cerberus-scanner/) | 1.0.7 | Zakaria Bigane | 71.9 kB | Scanner d'API REST/GraphQL pour failles BOLA et BFLA (OWASP API1/BFLA) — outil… |
-| 2026-10-21 16:06:08 | [trasee](https://pypi.org/project/trasee/) | 0.1.0 | senseone | 57.2 kB | Execution-trace canvas for pydantic-ai agents: zero-instrumentation tool tracin… |
-| 2026-10-21 16:06:46 | [zuurstof](https://pypi.org/project/zuurstof/) | 0.1.0 | "Matthew P. Humphreys" <mvdh7… | 66.6 kB | Dissolved oxygen data processing in Python |
-| 2026-10-21 16:07:08 | [bad-ass-mcp](https://pypi.org/project/bad-ass-mcp/) | 1.4.0 | Michael Behan | 733.3 kB | Cross-platform desktop GUI automation MCP — accessibility tree first, vision as… |
-| 2026-10-21 16:08:26 | [automotive](https://pypi.org/project/automotive/) | 0.5.0a1 |  | 5.8 MB | Async CAN, ISO-TP, and UDS powered by the automotive Rust crate |
-| 2026-10-21 16:09:27 | [keepup-gateway](https://pypi.org/project/keepup-gateway/) | 0.6.0 |  | 76.3 kB | One way in for the application's services: a route table, a proxy, a balancer a… |
-| 2026-10-21 16:10:11 | [tenko-plugin-repeater](https://pypi.org/project/tenko-plugin-repeater/) | 0.1.1 |  | 19.4 kB | Tenko 复读机：群友复读时偶尔跟一句，偶尔打断一下 |
-| 2026-10-21 16:10:14 | [tenko-plugin-example](https://pypi.org/project/tenko-plugin-example/) | 0.1.0 |  | 17.3 kB | Tenko 第三方插件示例与模板 |
-| 2026-10-21 16:10:54 | [wirehouse](https://pypi.org/project/wirehouse/) | 0.3.1 | Carlos Reyes <github-.boaster… | 949.2 kB | Walk through your codebase's architecture as a 3D warehouse: trace requests, ta… |
-| 2026-10-21 16:11:07 | [xray-tools](https://pypi.org/project/xray-tools/) | 0.1.0 | Alexey Matveev | 18.1 kB | Pure Python library for Xray-core configuration |
-| 2026-10-21 16:11:27 | [xcausal](https://pypi.org/project/xcausal/) | 0.8.0 | Mansour T. A. Sharabiani | 271.3 kB | Cross-framework causal-ML ensembles for ATE and CATE with full-pipeline bootstr… |
-| 2026-10-21 16:12:52 | [agent-browser-bridge](https://pypi.org/project/agent-browser-bridge/) | 3.0.0 | Shanewas Ahmed <shanewasahmed… | 244.1 kB | Let AI agents drive the browser tabs you already have open, by element referenc… |
-| 2026-10-21 16:12:55 | [midge-security](https://pypi.org/project/midge-security/) | 0.2.0 | Ayush Kumar <ayushkumar23092@… | 207.3 kB | Midge — fine-tuned model decisions and guards for prompts and agent actions. |
-| 2026-10-21 16:15:33 | [secretops](https://pypi.org/project/secretops/) | 0.1.0 | feist | 135.3 kB | A CLI-first broker for approved secret operations without exposing values to co… |
-| 2026-10-21 16:15:40 | [langchain-comment-scraper](https://pypi.org/project/langchain-comment-scraper/) | 0.1.0 | Super Lede <hello@comment-scr… | 27.2 kB | LangChain document loader for Reddit and Hacker News threads exported with Comm… |
-| 2026-10-21 16:19:26 | [hunayn](https://pypi.org/project/hunayn/) | 0.1.1 | Ramal Rahimov | 110.5 kB | Command-line companion and quality checker for GNOME translators |
+| 2026-10-21 14:45:34 | [ohi-sdk](https://pypi.org/project/ohi-sdk/) | 0.17.1 | NeverBlink | 55.2 kB | Ohi catalog search, publication inspection and artifact retrieval. |
+| 2026-10-21 16:20:09 | [rimi-receipt-parsing](https://pypi.org/project/rimi-receipt-parsing/) | 0.1.1 | Aleksejs Kovalovs | 674.5 kB | Offline, dependency-light parser for Rimi Latvia e-receipts (PDF) with checksum… |
+| 2026-10-21 16:20:51 | [agent-guild](https://pypi.org/project/agent-guild/) | 1.0.0 | Daniel Illescas Romero <illes… | 55.1 kB | A multi-agent setup for Claude Code (orchestrator + architect, coder, grader, u… |
+| 2026-10-21 16:27:01 | [orbit-local](https://pypi.org/project/orbit-local/) | 0.1.0 | Adithyan Gireeshkumar | 7.8 kB | A local-first AI model runner powered by Hugging Face |
+| 2026-10-21 16:27:31 | [kirby-campaign](https://pypi.org/project/kirby-campaign/) | 0.1.0 | PeterB | 33.3 kB | Teams, rosters and campaign entities for the Kirby HERO System platform |
+| 2026-10-21 16:28:52 | [novilabs-pmi-paths](https://pypi.org/project/novilabs-pmi-paths/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 831 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
+| 2026-10-21 16:28:53 | [novilabs-survey-features](https://pypi.org/project/novilabs-survey-features/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 833 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
+| 2026-10-21 16:28:54 | [novilabs-subsurface-features](https://pypi.org/project/novilabs-subsurface-features/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 833 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
+| 2026-10-21 16:28:56 | [novilabs-spacing-features](https://pypi.org/project/novilabs-spacing-features/) | 0.dev0 | Novi Labs <devops@novilabs.co… | 831 B | Name held by Novi Labs to prevent dependency confusion. Not installable. |
+| 2026-10-21 16:29:07 | [kagent-tools](https://pypi.org/project/kagent-tools/) | 1.0.0a17 |  | 21.5 kB | Shared filesystem, shell, and workspace helpers for kagent Python adapters. |
+| 2026-10-21 16:30:13 | [hyisp-util](https://pypi.org/project/hyisp-util/) | 0.1.1 | Giuseppe Iannello | 102.9 kB | Firmware flasher for the Heng Yu (HYISP) USB HID bootloader, as used by the Met… |
+| 2026-10-21 16:32:02 | [gene-jar](https://pypi.org/project/gene-jar/) | 0.1.0 | Anastasia Bratulin <anastasia… | 9.0 MB | Resource for harmonizing ambiguous gene symbols |
+| 2026-10-21 16:35:21 | [relar](https://pypi.org/project/relar/) | 0.1.0 | Charlie Marsh | 3.1 kB | Add your description here |
+| 2026-10-21 16:35:22 | [univo](https://pypi.org/project/univo/) | 1.0.0 | Léopold Chappuis | 12.6 MB | Fast, local duplicate detection for your data. |
+| 2026-10-21 16:36:01 | [nama-hari](https://pypi.org/project/nama-hari/) | 0.1.0 | Nama Anda <email@anda.com> | 9.9 kB | Utilitas konversi dan analisis nama hari Indonesia, Jawa, Sunda, dan Inggris |
+| 2026-10-21 16:37:48 | [netconverter-cli](https://pypi.org/project/netconverter-cli/) | 0.4.0 | ValeronLabs LLC <contact@netc… | 212.2 kB | NetConverter CLI — any-vendor network configuration migration, validation and o… |
+| 2026-10-21 16:39:48 | [pfit-cell-core](https://pypi.org/project/pfit-cell-core/) | 0.0.0 |  | 3.2 kB | Name reservation for Path Forward IT. Not installable: the real package ships a… |
+| 2026-10-21 16:39:51 | [urban-json](https://pypi.org/project/urban-json/) | 0.1.0 | Gael Beard <gaelgael5@gmail.c… | 177.4 kB | Portage Python du langage JSLT (JSON Stylesheet Language Transformations) — tra… |
+| 2026-10-21 16:41:50 | [superduperbundle](https://pypi.org/project/superduperbundle/) | 1.0.0 | SuperDuperBundle team <contac… | 8.3 kB | Client for the free SuperDuperBundle Game Price API: lowest listed PC game key… |
+| 2026-10-21 16:45:04 | [openlinktoken-core-ai](https://pypi.org/project/openlinktoken-core-ai/) | 2.2.1 | Open Link Token Contributors | 52.8 kB | Open Link Token Core AI package for ML1/ONNX inference |
+| 2026-10-21 16:45:43 | [shop-notify](https://pypi.org/project/shop-notify/) | 1.0.1 | Reik Keutterling | 48.5 kB | Watch an Etsy shop for new listings and send notifications. |
+| 2026-10-21 16:47:00 | [ruleas](https://pypi.org/project/ruleas/) | 1.0.0 | tanuki276 | 73.2 kB | Ruleas: authenticated policy API and management server |
+| 2026-10-21 16:48:52 | [djangX](https://pypi.org/project/djangX/) | 0.1.0.dev1 | Kevin Wakhisi | 4.8 kB | Add your description here |
+| 2026-10-21 16:49:19 | [rastro-session-parsers](https://pypi.org/project/rastro-session-parsers/) | 0.1.0 | Rastro maintainers | 27.3 kB | Parsers that turn coding-agent session logs into commit-linked excerpts. |
+| 2026-10-21 16:49:21 | [rastro-cli](https://pypi.org/project/rastro-cli/) | 0.1.0 | Rastro maintainers | 67.5 kB | Rastro command line: git hook capture of coding-agent sessions and rules query. |
+| 2026-10-21 16:49:24 | [rastro-mcp](https://pypi.org/project/rastro-mcp/) | 0.1.0 | Rastro maintainers | 17.2 kB | Rastro MCP server: lets a coding agent look up the recorded business rules (rea… |
+| 2026-10-21 16:50:42 | [soritrading-watch-together](https://pypi.org/project/soritrading-watch-together/) | 0.1.1 | Value Connect Global Inc. | 27.4 kB | Client for the SoriTrading agent's local API: WATCH TOGETHER signals and exchan… |
+| 2026-10-21 16:53:36 | [typed-margin-trade](https://pypi.org/project/typed-margin-trade/) | 0.1.1 | Marcel Claramunt <marcel@trib… | 174.2 kB | A fully typed, validated async client for the Margin Trade API. |
+| 2026-10-21 16:53:41 | [django-admin-cmd-runner](https://pypi.org/project/django-admin-cmd-runner/) | 0.2.0 | Alex Jurow <teletoo51@yahoo.c… | 85.2 kB | Run Django management commands from admin with real-time monitoring and stop |
+| 2026-10-21 16:53:58 | [urban-json-xml](https://pypi.org/project/urban-json-xml/) | 0.1.0 | Gael Beard <gaelgael5@gmail.c… | 12.1 kB | Plugin urban-json : lecture de fichiers XML (fonction de template loadxml). |
+| 2026-10-21 16:54:04 | [urban-json-csv](https://pypi.org/project/urban-json-csv/) | 0.1.0 | Gael Beard <gaelgael5@gmail.c… | 21.9 kB | Plugin urban-json : lecture de fichiers CSV (fonction de template loadcsv). |
+| 2026-10-21 16:58:00 | [siteread](https://pypi.org/project/siteread/) | 0.0.1 |  | 4.8 kB | Python client for siteread, not released yet. Today: npx siteread |
+| 2026-10-21 17:00:15 | [urban-json-db](https://pypi.org/project/urban-json-db/) | 0.1.0 | Gael Beard <gaelgael5@gmail.c… | 12.4 kB | Plugin urban-json : lecture en base de données SQL (connectsql / readsql). |
+| 2026-10-21 17:02:04 | [qenvoy](https://pypi.org/project/qenvoy/) | 0.0.1 | Komal Thareja <kthare10@renci… | 2.7 kB | A Python SDK for quantum network testbeds. (name reserved; first release coming) |
+| 2026-10-21 17:02:06 | [qherald](https://pypi.org/project/qherald/) | 0.0.1 | Komal Thareja <kthare10@renci… | 2.8 kB | A control framework for quantum network testbeds: orchestrator, brokers and sit… |
+| 2026-10-21 17:02:08 | [qembassy](https://pypi.org/project/qembassy/) | 0.0.1 | Komal Thareja <kthare10@renci… | 2.7 kB | An experiment workspace for quantum network testbeds. (name reserved; first rel… |
+| 2026-10-21 17:02:39 | [urban-json-http](https://pypi.org/project/urban-json-http/) | 0.1.0 | Gael Beard <gaelgael5@gmail.c… | 11.6 kB | Plugin urban-json : appels HTTP depuis les templates (http / httpget). |
+| 2026-10-21 17:03:13 | [queue-func](https://pypi.org/project/queue-func/) | 0.1 | liuseki | 36.1 kB | Async coroutine functions as queue-backed tasks (QueueFunc). |
+| 2026-10-21 17:05:06 | [urban-json-elastic](https://pypi.org/project/urban-json-elastic/) | 0.1.0 | Gael Beard <gaelgael5@gmail.c… | 10.7 kB | Plugin urban-json : recherche Elasticsearch (esconnect / essearch). |
+| 2026-10-21 17:05:13 | [urban-json-editor](https://pypi.org/project/urban-json-editor/) | 0.1.0 | Gael Beard <gaelgael5@gmail.c… | 20.4 kB | Composant d'édition jslt réutilisable (Web Component : coloration syntaxique +… |
+| 2026-10-21 17:06:15 | [mcp-hcl](https://pypi.org/project/mcp-hcl/) | 0.5.0 |  | 582.6 kB | Agent-neutral MCP server for strict offline HCL planning, artifacts and gated c… |
+| 2026-10-21 17:07:27 | [agent-s4](https://pypi.org/project/agent-s4/) | 0.1.0 | Simular AI | 407.6 kB | Agent S4: evolving tool interfaces for computer-use agents |
+| 2026-10-21 17:08:31 | [silo-passport-api](https://pypi.org/project/silo-passport-api/) | 0.0.1 |  | 2.3 kB | Name reserved by Silo. Not a public package. |
+| 2026-10-21 17:08:32 | [silo-verify](https://pypi.org/project/silo-verify/) | 0.0.1 |  | 2.2 kB | Name reserved by Silo. Not a public package. |
+| 2026-10-21 17:10:58 | [telpot](https://pypi.org/project/telpot/) | 0.1.4 |  | 9.3 kB |  |
+| 2026-10-21 17:13:32 | [pychestrate-core](https://pypi.org/project/pychestrate-core/) | 0.0.1 |  | 34.1 kB | Code Craft AI - Pychestrate - Core |
+| 2026-10-21 17:13:42 | [pychestrate-client](https://pypi.org/project/pychestrate-client/) | 0.0.1 |  | 260.6 kB | Pychestrate - pod-side runtime client (enroll, dispatch, testbase, results) |
+| 2026-10-21 17:13:42 | [pychestrate-service](https://pypi.org/project/pychestrate-service/) | 0.0.7rc0 |  | 6.6 MB | Code Craft AI - Pychestrate Service |
+| 2026-10-21 17:15:46 | [thunderprint](https://pypi.org/project/thunderprint/) | 0.1.0 |  | 17.0 MB | Locate where and when an audio recording was made from the thunder in it |
+| 2026-10-21 17:15:53 | [cascade-discord](https://pypi.org/project/cascade-discord/) | 0.1.0 | Cascade Contributors | 92.0 kB | High-performance Discord selfbot library for Python |
+| 2026-10-21 17:17:09 | [educelab-devices](https://pypi.org/project/educelab-devices/) | 0.1.0 | Seth Parker <c.seth.parker@uk… | 271.0 kB | Python APIs for EduceLab imaging hardware |
+| 2026-10-21 17:18:04 | [smrt-emulator](https://pypi.org/project/smrt-emulator/) | 0.0.0.dev0 | mjsandells | 1.3 kB | Generate SMRT emulator code |
