@@ -1,0 +1,15 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T05:23:31Z,busabase,0.1.0,Busabase,MIT,981632,"Official Python SDK for the Busabase REST API — Bases, records, docs, files, skills and Change Requests, on Busabase Cloud or a self-hosted server."
+2026-10-21T05:26:03Z,eda-tools-bat,0.1.0,,,6427,EDA хийх жижиг туслах функцууд
+2026-10-21T05:33:41Z,particlefx,1.0.0,全哥,"MIT License Copyright (c) 2026 siwpan Permission is hereby granted, free of charge, to any person o…",269509,纯 Python + NumPy 粒子系统库 — 多渲染器（pygame/PIL/ModernGL）+ 效果工厂 + Taichi 流体后端 + GPU 模拟
+2026-10-21T05:34:25Z,static-site-audit,0.1.0,GALLA Labs,MIT,22446,"Find dead buttons, duplicate ids and global-scope collisions in no-build HTML/JS sites"
+2026-10-21T05:51:01Z,lexlint,0.0.1,,MIT,5709,"A placeholder for the LexLint command line, which is not released yet."
+2026-10-21T05:52:29Z,ablit,0.1.1,James Elkins,Apache-2.0,286527,"Find the cheapest rented GPU machine that can run a model, and start it with an OpenAI-compatible endpoint."
+2026-10-21T05:58:15Z,atlan-application-sdk-api,3.51.0,Atlan App Team <connect@atlan.com>,Apache-2.0,589750,"Experimental: the handler surface of the Atlan Application SDK, for the consolidated API host"
+2026-10-21T06:03:18Z,yspec-seismo,0.1.0,David Al-Attar,BSD-3-Clause,4892015,"Synthetic seismograms, snapshots and adjoint kernels for spherically symmetric earth models"
+2026-10-21T06:03:41Z,omnidoc,0.1.2,,,22008,OmniDoc 开放 API 的 Python 客户端
+2026-10-21T06:05:57Z,grudge-cli,0.1.0,Grudge contributors,MIT,229337,Deterministic regression scars for agent mistakes.
+2026-10-21T06:11:18Z,signalsafe-tree-spec-assessment,0.5.0,,MIT,20443,Deterministic TreeSpec transition-score assessment
+2026-10-21T06:14:38Z,pyxis-core,0.1.0,Pyxis Effector contributors,GPL-3.0-or-later,2642366,Core node-based subtitle effector and renderer engine for ASS subtitles
+2026-10-21T06:14:58Z,jartify,0.1.1,Jakob Holst <code@jakobholst.dk>,MIT,22561,"TUI and CLI for searching JFrog Artifactory artifacts (version, filename, sha256)"
+2026-10-21T06:15:33Z,tanager,2026.1.0,,,25504507,User-facing Python API for Tanager

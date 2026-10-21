@@ -1,27 +1,69 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-10-21T04:18:59.737043Z",
-    "path": "data/new-packages-2026-10-21T05-20-35-694611Z.csv",
-    "to": "2026-10-21T05:20:35.694611Z"
+    "count": 14,
+    "from": "2026-10-21T05:20:35.694611Z",
+    "path": "data/new-packages-2026-10-21T06-18-55-490622Z.csv",
+    "to": "2026-10-21T06:18:55.490622Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-21T06:04:23Z",
+      "package": "beebo-cli",
+      "since": "2026-10-21T05:20:35.694611Z",
+      "version": "1.18.0.1.0rc14"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-21T05:30:13Z",
+      "package": "charter_graph",
+      "since": "2026-10-21T05:20:35.694611Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-21T02:47:59Z",
       "package": "clawmeets-server",
       "since": "2026-10-21T02:19:18.053877Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-21T02:40:47Z",
       "package": "dev-null-tui",
       "since": "2026-10-21T02:19:18.053877Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-21T06:07:20Z",
+      "package": "djanquiltdb-plugin-celery",
+      "since": "2026-10-21T05:20:35.694611Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-21T05:22:51Z",
+      "package": "mylib-st2",
+      "since": "2026-10-21T05:20:35.694611Z",
+      "version": "0.1.1"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-21T05:28:50Z",
+      "package": "mylib51",
+      "since": "2026-10-21T05:20:35.694611Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-21T06:05:36Z",
+      "package": "shiny-kit",
+      "since": "2026-10-21T05:20:35.694611Z",
+      "version": null
     }
   ],
-  "serial": 42526695,
+  "serial": 42528058,
   "source_truncated": false,
-  "window": "2026-10-21T05:20:35.694611Z"
+  "window": "2026-10-21T06:18:55.490622Z"
 }
