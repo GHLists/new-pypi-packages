@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T17:12:27Z,rtgcrypto,1.2.12,SpEcHIDe,LGPLv3+,2908293,Fast and Portable Cryptography Extension Library for Pyrogram
+2026-10-21T17:19:20Z,zentest-sdk,0.4.0,Nxzen,LicenseRef-Proprietary,231468,Zentest SDK: test your AI app in-process and gate releases on a judged verdict (SDK contract v1)
+2026-10-21T17:20:05Z,linxsci-sdk,0.3.0,,,109619,Scholar OpenAPI v2 CLI and Python client
+2026-10-21T17:21:10Z,mcp-inegi,0.1.0,Inaki Sobera <inakisobera8@gmail.com>,MIT,85118,"Servidor MCP para consultar indicadores oficiales del INEGI: población, inflación (INPC), empleo, PIB e IGAE, a nivel nacional, estatal y municipal"
+2026-10-21T17:21:42Z,hf-to-litertlm,0.1.0,Daisuke Majima <rockyshikoku@gmail.com>,Apache-2.0,365880,"One command from a Hugging Face model repo to a .litertlm bundle for LiteRT-LM, on a pinned toolchain; rebuilding from its lock file gives the same bytes"
+2026-10-21T17:21:45Z,mutantlens,0.0.1,,Apache-2.0,47943,"Measures whether a test suite actually catches bugs, by seeding small faults and counting how many the tests notice."
+2026-10-21T17:22:53Z,mediaattention,0.2.0,Pratyush Mahapatra,Apache-2.0,375055,Open-source attention prediction and creative scoring for image and video ads
+2026-10-21T17:29:19Z,takecheck,0.1.0,yqyq-ai,MIT,77543,pytest for AI-generated video: turn 'is this take usable?' into an executable spec and a CI gate.
+2026-10-21T17:29:43Z,abcnotes,0.1.0,Luke Campagnola,MIT,54775,"Parse, validate and expand tunes in ABC music notation"
+2026-10-21T17:29:45Z,socials-mcp,0.1.0,nyrhe,MIT,120091,"MCP server unifié pour X/Twitter et Reddit — tout-en-un, pas de CLI externe"
+2026-10-21T17:33:00Z,deeprespond-im-server-sdk,1.0.0a0,,,432981,深应智能（DeepRespond）IM 服务端 SDK 的 Python 版：调用 OpenAPI、接收回调
+2026-10-21T17:35:20Z,django-spec-agents,0.1.0,Artur Veres <artur8118@gmail.com>,MIT,786546,"Settings-agnostic Django agent host for Pydantic-AI: config in, built agent out, with djangorestframework-services specs as agent tools."
+2026-10-21T17:37:27Z,k9-load,0.1.0,,MIT OR Apache-2.0,52253062,"Load testing with k6's UX, a Rust engine and a Python API"
+2026-10-21T17:37:40Z,mechaudit,0.1.0,Alessio Staffini,MIT,327966,Finite mechanism design with exhaustive IC/IR auditing and invariant optimal-face diagnostics.
+2026-10-21T17:38:53Z,locals,0.2.0,Arip Asadulaev,MIT,990890,"Run many AI agents at once on your Mac, up to 3x faster: an OpenAI- and Ollama-compatible MLX server with batched decoding, a prompt cache, and tool calls and JSON that always parse"
+2026-10-21T17:38:58Z,mqtt-spec-mcp,0.1.0,Carter Tinney,MIT AND LicenseRef-OASIS-Notices,327109,Offline MCP server for navigating the OASIS MQTT 3.1.1 and 5.0 specifications
+2026-10-21T17:39:36Z,musordrop-troll-by-csbs0203,0.0.4,,,1183899,troll skrypt Musor Drop
+2026-10-21T17:41:07Z,pintos-utils,1.0.0,,MIT,25908,"Reusable, provider-neutral utilities for Python applications."
+2026-10-21T17:43:42Z,arches-abac-permissions,0.1.0a0,,AGPL-3.0-or-later,262111,
+2026-10-21T17:49:57Z,skillsinc,0.1.0,Mike Hill,MIT,125350,"Sync one library of agent skills, instructions, agents, and prompts into every AI coding harness you use."
+2026-10-21T17:55:40Z,temporal-graph,0.1.0,Giuliano Crenna <giulicrenna@gmail.com>,MIT,182343,Model temporal graphs and render them as SVG.
+2026-10-21T17:59:44Z,firebird-embedded,4.0.7.3,Pavel Cisar <pcisar@users.sourceforge.net>,MIT License =========== Copyright (c) 2019 The Firebird Project (www.firebirdsql.org) Permission is…,18690623,Firebird embedded runtime packaged as wheels for Python applications
+2026-10-21T18:00:13Z,git-chronos,0.1.0,sbgid.com,MIT,31977,Automatic time tracking and earnings calculation from local Git history.
+2026-10-21T18:02:16Z,ajax-rl,0.4.0,Yann Berthelot,MIT,976263,Agents in JAX: Jax based implementations of RL algorithms
+2026-10-21T18:05:37Z,zincha,0.1.0,ZINCHA Contributors,Apache-2.0,144119,Python client SDK for the ZINCHA chain
+2026-10-21T18:08:45Z,derc-best-practices,26.10,Simon Goring,MIT,31804,Monitoring project best practices with a Python observer.
+2026-10-21T18:09:24Z,pylyglot,0.9.5,Antonio Rocha Azevedo,MIT,268335,Pylyglot is an extremely simple python package with no dependencies (other than python itself) which allow you to write 'python' code with keywords from your language.
+2026-10-21T18:15:48Z,ufaflow,1.0.6,halif,,22241,UfaFlow
+2026-10-21T18:17:47Z,coreferee-ru,1.0.0,Polina Savinova <posavinova@gmail.com>,LGPL-3.0-only,128159,"A spaCy component for coreference resolution in Russian text, based on Coreferee framework."
+2026-10-21T18:19:03Z,realed,2026.10,Roman Yasinovskyy,MIT,18227,Relational Algebra for Educational purposes
