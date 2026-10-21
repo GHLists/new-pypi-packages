@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T06:04:23Z,beebo-cli,1.18.0.1.0rc15,,MIT,733782,Command line for beebo nodes: headless MeshCore firmware for the Heltec V4.3
+2026-10-21T06:05:36Z,shiny-kit,0.0.1,Tom Stanton <tomdstanton@gmail.com>,,210004,"Object-oriented PyShiny component architecture, reactive descriptors, introspective widgets, and two-tier model caching"
+2026-10-21T06:21:43Z,multimd-table,0.1.0,,MIT,5625815,Parse and write MultiMarkdown tables with merged cells using a shared Rust core
+2026-10-21T06:22:50Z,stagehand-middleware,0.1.0,Browserbase,MIT,128085,"Stagehand's facade tools (run, snapshot, screenshot) for Python hosts"
+2026-10-21T06:26:24Z,lovebirds,0.1.11,Drew Terasaki Hart <drew.terasaki.hart@gmail.com>,"MIT License Copyright (c) 2026, Drew Ellison Terasaki Hart, Geonomics Development Team Permission i…",341817,Simulate observations of biodiversity across gradients.
+2026-10-21T06:28:10Z,deckname-client,1.0.0rc1,,LicenseRef-Proprietary,1621333,"Claude Code hook client for Deckname, the German DSGVO text anonymizer (HTTP only)."
+2026-10-21T06:32:08Z,libtd0,0.1.1,,,34165654,
+2026-10-21T06:33:06Z,rubiflow,1.0.0,RubiFlow Developers,MIT,58478,High-Performance Async Python Framework for Rubika Messenger and SuperApp
+2026-10-21T06:35:55Z,ossdoctor,0.2.0,jalensuggs77 <aufirst77@gmail.com>,MIT,70721,"Check an open source repository for the files and automation maintainers rely on, and generate what is missing."
+2026-10-21T06:45:20Z,oh-my-cassette,0.5.0,Oh My Cassette contributors,MIT,117804,"MCP server that drives the Cassette video editor from Codex, Claude Code, OpenCode and Hermes."
+2026-10-21T06:48:58Z,banto-core,0.1.0,AllNew LLC,LicenseRef-Dual,75160,"Shared local broker, Keychain and sealed signing primitives"
+2026-10-21T06:52:41Z,tact-agent-kit,0.1.2,,MIT,92646,Initialize a repository with the TacT developer and agent collaboration kit.
+2026-10-21T06:54:13Z,mini-infer,0.1.0,Prajwal Pujari <prajwalpujari16@gmail.com>,Apache-2.0,227003,"A minimal, high-performance continuous-batching LLM inference engine with paged KV-cache, prefix caching, and speculative decoding for Qwen2.5."
+2026-10-21T06:54:44Z,f8-engine,0.1.0,"Michael (Chencheng) Hu, CFA",AGPL-3.0-only,7547106,Financial modeling engine with compiler verification and live Excel formulas
+2026-10-21T06:54:53Z,pythia-core,0.1.0,,MIT,182850,"Shared core of the pythia family: the engine contract, connection resolution and the write gate every pythia-<engine> package drives."
+2026-10-21T06:55:59Z,pythia-postgres,0.1.0,,MIT,131383,"pythia for PostgreSQL: PL/pgSQL development for AI agents over pythia-core - catalog queries, impact analysis and a snapshot-verified write path."
+2026-10-21T06:56:07Z,pythia-mssql,0.1.0,,MIT,143067,"pythia for SQL Server: T-SQL development for AI agents over pythia-core - catalog queries, impact analysis and a rehearsed, approved write path."
+2026-10-21T06:56:13Z,pythia-mongo,0.1.0,,MIT,122342,"pythia for MongoDB: database development for AI agents over pythia-core - validators, views and indexes read live, impact with its blind spots named, and an approved write path."
+2026-10-21T07:03:29Z,queue-watch,0.1.0,Wolfgang Schoenberger,MIT,129559,"Read-only terminal dashboard for CI runs and merge queues, with mouse support"
+2026-10-21T07:04:14Z,gameloc,0.1.0,apidlypnyi,MIT,113499,"gameloc: engine-agnostic AI translation and three-pass proofreading for video game text (Unity, Unreal, custom engines)."
+2026-10-21T07:04:22Z,cellseg-metrics,0.1.0,Okunator,MIT,17604,NumPy and SciPy metrics for cell and nuclei segmentation.
+2026-10-21T07:06:03Z,e2br3,0.1.0,Utkaarsh,Apache-2.0,60130,Read-only parser and validator for ICH E2B(R3) ICSR XML
+2026-10-21T07:08:27Z,wintrace,0.1.0,,Apache-2.0,52244226,"Windows Event Log querying and EVTX parsing for Python, powered by Rust and PyO3"
+2026-10-21T07:16:55Z,yamlboard,1.1.0,,MIT,598470,"Declare a SQL report in YAML; get a chart and a table you can filter and aggregate, on the fields the report allows."
+2026-10-21T07:16:57Z,yunmail,0.1.0,Yunmail Maintainers,Apache-2.0,21388,"Official Python SDK for the Yunmail cloud communications API — email, SMS, voice verification and push notifications through one unified API."
+2026-10-21T07:16:59Z,ragdesk-mcp,0.1.0,Moca-H,MIT,8962,"MCP server for ragdesk — list KBs, ingest text, and ask your local RAG API"

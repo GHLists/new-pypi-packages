@@ -8,25 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 06:18 UTC
+## Latest list — 2026-10-21 07:19 UTC
 
-New packages created between 2026-10-21 05:20 UTC and 2026-10-21 06:18 UTC.
+New packages created between 2026-10-21 06:18 UTC and 2026-10-21 07:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-21T06-18-55-490622Z.csv)
+[Full CSV](data/new-packages-2026-10-21T07-19-30-039442Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-21 05:23:31 | [busabase](https://pypi.org/project/busabase/) | 0.1.0 | Busabase | 981.6 kB | Official Python SDK for the Busabase REST API — Bases, records, docs, files, sk… |
-| 2026-10-21 05:26:03 | [eda-tools-bat](https://pypi.org/project/eda-tools-bat/) | 0.1.0 |  | 6.4 kB | EDA хийх жижиг туслах функцууд |
-| 2026-10-21 05:33:41 | [particlefx](https://pypi.org/project/particlefx/) | 1.0.0 | 全哥 | 269.5 kB | 纯 Python + NumPy 粒子系统库 — 多渲染器（pygame/PIL/ModernGL）+ 效果工厂 + Taichi 流体后端 + GPU 模拟 |
-| 2026-10-21 05:34:25 | [static-site-audit](https://pypi.org/project/static-site-audit/) | 0.1.0 | GALLA Labs | 22.4 kB | Find dead buttons, duplicate ids and global-scope collisions in no-build HTML/J… |
-| 2026-10-21 05:51:01 | [lexlint](https://pypi.org/project/lexlint/) | 0.0.1 |  | 5.7 kB | A placeholder for the LexLint command line, which is not released yet. |
-| 2026-10-21 05:52:29 | [ablit](https://pypi.org/project/ablit/) | 0.1.1 | James Elkins | 286.5 kB | Find the cheapest rented GPU machine that can run a model, and start it with an… |
-| 2026-10-21 05:58:15 | [atlan-application-sdk-api](https://pypi.org/project/atlan-application-sdk-api/) | 3.51.0 | Atlan App Team <connect@atlan… | 589.8 kB | Experimental: the handler surface of the Atlan Application SDK, for the consoli… |
-| 2026-10-21 06:03:18 | [yspec-seismo](https://pypi.org/project/yspec-seismo/) | 0.1.0 | David Al-Attar | 4.9 MB | Synthetic seismograms, snapshots and adjoint kernels for spherically symmetric… |
-| 2026-10-21 06:03:41 | [omnidoc](https://pypi.org/project/omnidoc/) | 0.1.2 |  | 22.0 kB | OmniDoc 开放 API 的 Python 客户端 |
-| 2026-10-21 06:05:57 | [grudge-cli](https://pypi.org/project/grudge-cli/) | 0.1.0 | Grudge contributors | 229.3 kB | Deterministic regression scars for agent mistakes. |
-| 2026-10-21 06:11:18 | [signalsafe-tree-spec-assessment](https://pypi.org/project/signalsafe-tree-spec-assessment/) | 0.5.0 |  | 20.4 kB | Deterministic TreeSpec transition-score assessment |
-| 2026-10-21 06:14:38 | [pyxis-core](https://pypi.org/project/pyxis-core/) | 0.1.0 | Pyxis Effector contributors | 2.6 MB | Core node-based subtitle effector and renderer engine for ASS subtitles |
-| 2026-10-21 06:14:58 | [jartify](https://pypi.org/project/jartify/) | 0.1.1 | Jakob Holst <code@jakobholst.… | 22.6 kB | TUI and CLI for searching JFrog Artifactory artifacts (version, filename, sha25… |
-| 2026-10-21 06:15:33 | [tanager](https://pypi.org/project/tanager/) | 2026.1.0 |  | 25.5 MB | User-facing Python API for Tanager |
+| 2026-10-21 06:04:23 | [beebo-cli](https://pypi.org/project/beebo-cli/) | 1.18.0.1.0rc15 |  | 733.8 kB | Command line for beebo nodes: headless MeshCore firmware for the Heltec V4.3 |
+| 2026-10-21 06:05:36 | [shiny-kit](https://pypi.org/project/shiny-kit/) | 0.0.1 | Tom Stanton <tomdstanton@gmai… | 210.0 kB | Object-oriented PyShiny component architecture, reactive descriptors, introspec… |
+| 2026-10-21 06:21:43 | [multimd-table](https://pypi.org/project/multimd-table/) | 0.1.0 |  | 5.6 MB | Parse and write MultiMarkdown tables with merged cells using a shared Rust core |
+| 2026-10-21 06:22:50 | [stagehand-middleware](https://pypi.org/project/stagehand-middleware/) | 0.1.0 | Browserbase | 128.1 kB | Stagehand's facade tools (run, snapshot, screenshot) for Python hosts |
+| 2026-10-21 06:26:24 | [lovebirds](https://pypi.org/project/lovebirds/) | 0.1.11 | Drew Terasaki Hart <drew.tera… | 341.8 kB | Simulate observations of biodiversity across gradients. |
+| 2026-10-21 06:28:10 | [deckname-client](https://pypi.org/project/deckname-client/) | 1.0.0rc1 |  | 1.6 MB | Claude Code hook client for Deckname, the German DSGVO text anonymizer (HTTP on… |
+| 2026-10-21 06:32:08 | [libtd0](https://pypi.org/project/libtd0/) | 0.1.1 |  | 34.2 MB |  |
+| 2026-10-21 06:33:06 | [rubiflow](https://pypi.org/project/rubiflow/) | 1.0.0 | RubiFlow Developers | 58.5 kB | High-Performance Async Python Framework for Rubika Messenger and SuperApp |
+| 2026-10-21 06:35:55 | [ossdoctor](https://pypi.org/project/ossdoctor/) | 0.2.0 | jalensuggs77 <aufirst77@gmail… | 70.7 kB | Check an open source repository for the files and automation maintainers rely o… |
+| 2026-10-21 06:45:20 | [oh-my-cassette](https://pypi.org/project/oh-my-cassette/) | 0.5.0 | Oh My Cassette contributors | 117.8 kB | MCP server that drives the Cassette video editor from Codex, Claude Code, OpenC… |
+| 2026-10-21 06:48:58 | [banto-core](https://pypi.org/project/banto-core/) | 0.1.0 | AllNew LLC | 75.2 kB | Shared local broker, Keychain and sealed signing primitives |
+| 2026-10-21 06:52:41 | [tact-agent-kit](https://pypi.org/project/tact-agent-kit/) | 0.1.2 |  | 92.6 kB | Initialize a repository with the TacT developer and agent collaboration kit. |
+| 2026-10-21 06:54:13 | [mini-infer](https://pypi.org/project/mini-infer/) | 0.1.0 | Prajwal Pujari <prajwalpujari… | 227.0 kB | A minimal, high-performance continuous-batching LLM inference engine with paged… |
+| 2026-10-21 06:54:44 | [f8-engine](https://pypi.org/project/f8-engine/) | 0.1.0 | Michael (Chencheng) Hu, CFA | 7.5 MB | Financial modeling engine with compiler verification and live Excel formulas |
+| 2026-10-21 06:54:53 | [pythia-core](https://pypi.org/project/pythia-core/) | 0.1.0 |  | 182.8 kB | Shared core of the pythia family: the engine contract, connection resolution an… |
+| 2026-10-21 06:55:59 | [pythia-postgres](https://pypi.org/project/pythia-postgres/) | 0.1.0 |  | 131.4 kB | pythia for PostgreSQL: PL/pgSQL development for AI agents over pythia-core - ca… |
+| 2026-10-21 06:56:07 | [pythia-mssql](https://pypi.org/project/pythia-mssql/) | 0.1.0 |  | 143.1 kB | pythia for SQL Server: T-SQL development for AI agents over pythia-core - catal… |
+| 2026-10-21 06:56:13 | [pythia-mongo](https://pypi.org/project/pythia-mongo/) | 0.1.0 |  | 122.3 kB | pythia for MongoDB: database development for AI agents over pythia-core - valid… |
+| 2026-10-21 07:03:29 | [queue-watch](https://pypi.org/project/queue-watch/) | 0.1.0 | Wolfgang Schoenberger | 129.6 kB | Read-only terminal dashboard for CI runs and merge queues, with mouse support |
+| 2026-10-21 07:04:14 | [gameloc](https://pypi.org/project/gameloc/) | 0.1.0 | apidlypnyi | 113.5 kB | gameloc: engine-agnostic AI translation and three-pass proofreading for video g… |
+| 2026-10-21 07:04:22 | [cellseg-metrics](https://pypi.org/project/cellseg-metrics/) | 0.1.0 | Okunator | 17.6 kB | NumPy and SciPy metrics for cell and nuclei segmentation. |
+| 2026-10-21 07:06:03 | [e2br3](https://pypi.org/project/e2br3/) | 0.1.0 | Utkaarsh | 60.1 kB | Read-only parser and validator for ICH E2B(R3) ICSR XML |
+| 2026-10-21 07:08:27 | [wintrace](https://pypi.org/project/wintrace/) | 0.1.0 |  | 52.2 MB | Windows Event Log querying and EVTX parsing for Python, powered by Rust and PyO3 |
+| 2026-10-21 07:16:55 | [yamlboard](https://pypi.org/project/yamlboard/) | 1.1.0 |  | 598.5 kB | Declare a SQL report in YAML; get a chart and a table you can filter and aggreg… |
+| 2026-10-21 07:16:57 | [yunmail](https://pypi.org/project/yunmail/) | 0.1.0 | Yunmail Maintainers | 21.4 kB | Official Python SDK for the Yunmail cloud communications API — email, SMS, voic… |
+| 2026-10-21 07:16:59 | [ragdesk-mcp](https://pypi.org/project/ragdesk-mcp/) | 0.1.0 | Moca-H | 9.0 kB | MCP server for ragdesk — list KBs, ingest text, and ask your local RAG API |
