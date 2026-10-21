@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-20T23:20:02Z,viqi-analysis-sdk,1.26.0,"Dmitry Fedorov <dima@viqiai.com>, Ilya Goldberg <ilya@viqiai.com>, Christian Lang <clang@viqiai.com…",,35373,SDK aiding creation of analysis modules for ViQi
+2026-10-20T23:22:49Z,openvpn-status-reader,0.3.0,OpenWISP,MIT,21372,Parse OpenVPN status logs in Python
+2026-10-20T23:22:51Z,astraform-conformance,0.3.5,,Apache-2.0,151490,Conformance runner for Astraform domain providers using remote-domain.v1
+2026-10-20T23:22:53Z,astraform-sdk,0.3.5,,Apache-2.0,577908,"Astraform SDK for Python: domain services, customer simulation and platform APIs"
+2026-10-20T23:26:16Z,tiktok-shop-api,0.1.0,,MIT,4909077,"Python client for the TikTok Shop API (TikTok Shop Partner API): request signing, OAuth, multi-shop support and typed webhooks. Unofficial. Not affiliated with or endorsed by TikTok or ByteDance."
+2026-10-20T23:27:22Z,coval-agent-sdk,0.1.0,"Coval, Inc.",Apache-2.0,116344,Python client for Coval Agent SDK voice sessions
+2026-10-20T23:36:14Z,leaklens-ml,0.5.0,Eyad,MIT,34756,Audit datasets and ML pipelines for data leakage
+2026-10-20T23:38:00Z,minifactory,0.0.1,Juan Campuzano,MIT,173484,"A tiny, pluggable software factory: declarative workflows made of plugin steps"
+2026-10-20T23:38:49Z,resultgate-pilot,0.1.1,,MIT,38019,Evidence-bounded extraction and citation checks for agent workflows
+2026-10-20T23:39:08Z,sume-client,0.1.0,Sume Labs,MIT,32485,Sume Open API Python SDK
+2026-10-20T23:40:15Z,tosca-core,0.0.1.dev0,Ubicity Corp.,,3016,A TOSCA 2.0 parser and semantic validator (first release forthcoming)
+2026-10-20T23:42:07Z,kuest-sdk,0.13.1,Polymarket Engineering <engineering@polymarket.com>,MIT,868194,Unified prediction-market client for Polygon CLOB and Deposit Wallet workflows
+2026-10-20T23:42:42Z,humanus,0.33.1,Anthus AI Solutions,MIT,97131,"Configurable editorial compliance checks: policy packs, deterministic rules, zero-shot decision models and rewrite suggestions."
+2026-10-20T23:43:01Z,truquence,0.2.0,Truquence Team <hello@truquence.com>,Apache-2.0,100722,Offline workflow execution acceptance and supplied-record reconciliation
+2026-10-20T23:46:20Z,alluvial,0.6.0,mapequation <mapequation@gmail.com>,MIT,6637890,"Alluvial diagrams of Infomap partitions for matplotlib, with the layout of the mapequation.org web app"
+2026-10-20T23:48:20Z,numero-uemoa,0.1.0,Gilles MEDENOU,MIT,23590,"Valider, normaliser et convertir les numéros de téléphone des 8 pays de l'UEMOA, dont le passage du Bénin à 10 chiffres. Plans officiels datés, zéro dépendance."
+2026-10-20T23:52:49Z,aetherkit,0.1.0,AetherKit Contributors,MIT,45142,"Minimalist Python library for simple LLM integration, easy RAG, test/prod modes and cost tracking"
+2026-10-20T23:56:40Z,imgbb-cli,1.0.2,Hadi Cahyadi <cumulus13@gmail.com>,MIT,16535,A production-ready CLI tool and library for uploading images to ImgBB with rich formatting.
+2026-10-20T23:58:00Z,liulab-molviz,2026.10.0,Liu Lab,MIT,830601,"Draws DNA sequences and plasmids in the browser, from data a caller hands over; later molecules and protein structures in 3D."
+2026-10-21T00:02:27Z,modern-csrf,2026.10.20,,MIT,12411,Modern anti-CSRF middleware
+2026-10-21T00:05:49Z,margin-core,0.1.0,Waddah Ali,MIT,99176,"The shared core of margin: the agent contract, results with evidence, model clients and code loaders."
+2026-10-21T00:06:16Z,margin-cli,0.1.0,Waddah Ali,MIT,22532,"The `margin` command: list, inspect and run margin agents from the terminal."
+2026-10-21T00:06:38Z,margin-api,0.1.0,Waddah Ali,MIT,1110286,"margin's HTTP API and web UI: run agents in the background, follow them live, read their evidence."
+2026-10-21T00:07:02Z,margin-ai-code-detector,0.2.0,Waddah Ali,MIT,559000,"Estimates how likely a codebase was written with AI assistance, as a range with the evidence for and against."
+2026-10-21T00:08:38Z,pufprobe,0.5.0,LLQ95,MIT,189442,Second-stage functional inference for hypothetical proteins in bacterial genomes
+2026-10-21T00:09:59Z,chasqui-translate,0.2.0,kvothesson,MIT,144504,Real-time simultaneous translation. Speak your language. Be understood.
+2026-10-21T00:14:01Z,pygeomapper,0.0.1,Larry Syu-Heng Lai <larrysyuhenglai@gmail.com>,AGPL-3.0-or-later,27023,"Geoscience geospatial and 3D visualization, GIS, remote sensing, and geological mapping toolkit"
+2026-10-21T00:15:34Z,wormscore,0.6.1,Arjun Bansal,MIT,147549,"Blind scoring of fluorescent neurons in C. elegans confocal stacks, with measurement and genetics statistics."
+2026-10-21T00:15:46Z,zypy,0.1.0,,MIT,66991,"Write Python extensions in Zig, and use Python from Zig"
+2026-10-21T00:16:46Z,mlx-agent,0.9.0,Sasan Sotoodehfar,MIT,2154150,"Discover, verify and wire local MLX models on Apple Silicon"
