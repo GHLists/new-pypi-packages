@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-10-21T09:19:34.236636Z",
-    "path": "data/new-packages-2026-10-21T10-18-59-080128Z.csv",
-    "to": "2026-10-21T10:18:59.080128Z"
+    "count": 42,
+    "from": "2026-10-21T10:18:59.080128Z",
+    "path": "data/new-packages-2026-10-21T11-19-04-214712Z.csv",
+    "to": "2026-10-21T11:19:04.214712Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-21T10:08:52Z",
       "package": "m8flow-core",
       "since": "2026-10-21T09:19:34.236636Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-21T06:31:42Z",
-      "package": "pyclio",
-      "since": "2026-10-21T06:18:55.490622Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-21T08:45:35Z",
       "package": "sawvant-python",
       "since": "2026-10-21T08:19:14.308228Z",
       "version": null
     }
   ],
-  "serial": 42536340,
+  "serial": 42538496,
   "source_truncated": false,
-  "window": "2026-10-21T10:18:59.080128Z"
+  "window": "2026-10-21T11:19:04.214712Z"
 }

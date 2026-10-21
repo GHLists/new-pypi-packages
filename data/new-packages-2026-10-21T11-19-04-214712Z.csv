@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T10:19:20Z,xxycarys-mcp,0.1.0,xyxie,,31264,Collect human-AI dialogue disagreements by turn and export Markdown
+2026-10-21T10:27:25Z,xpu-kernels,0.2.0,,Apache-2.0,382169,"Fused kernels for Intel Arc (Xe2) XPU tensors: ConvRot INT8, fused rms_norm+rope/adaLN, and the instruments used to verify them"
+2026-10-21T10:29:30Z,easygsc,0.2.0,,MIT,186594,"Minimal, transparent, read-only MCP server for Google Search Console."
+2026-10-21T10:33:31Z,reki-vla,0.1.0,Kyutai,MIT AND Apache-2.0,324983,REKI: a vision-language-action model with register tokens in the action expert
+2026-10-21T10:38:05Z,github-practice,0.4.2,escorpioantares66,"MIT License Copyright (c) 2026 escorpioantares66-cmyk Permission is hereby granted, free of charge,…",9444,Production-ready SDK + CLI for JSONPlaceholder Users API
+2026-10-21T10:38:16Z,langchain-runcrate,0.1.0,Aeonmind LLC <hello@runcrate.ai>,MIT,12045,LangChain integration for Runcrate: 200+ open models behind one OpenAI-compatible API
+2026-10-21T10:38:18Z,llama-index-llms-runcrate,0.1.0,Aeonmind LLC <hello@runcrate.ai>,MIT,8071,LlamaIndex LLM integration for Runcrate: 200+ open models behind one OpenAI-compatible API
+2026-10-21T10:38:20Z,llm-runcrate,0.1.0,Aeonmind LLC <hello@runcrate.ai>,MIT,8659,LLM plugin for Runcrate: 200+ open models behind one OpenAI-compatible API
+2026-10-21T10:41:32Z,plesty-swabian-tt,0.1.0,Yunshuang Yuan <yuanyunshuang@gmail.com>,LGPL-3.0-or-later,270242,"Plesty Swabian Instruments Time Tagger (Ultra, X, 20) device."
+2026-10-21T10:42:40Z,verifyface,1.0.1,Kaustav Kanti Ray <iamkkronly@users.noreply.github.com>,MIT,21488148,"Face verification that anyone can use: enroll once, verify anywhere. Offline, private, and robust to changes in clothing, lighting, and background."
+2026-10-21T10:45:50Z,nistor-core,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1308,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-21T10:45:51Z,nistor-mcp,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1301,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-21T10:45:53Z,nistor-platform-gcp,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1385,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-21T10:45:54Z,nistor-platform-k8s,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1387,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-21T10:46:00Z,onetrace-explain,0.1.0,Shamik Saha <shamik.saha.rcciit@gmail.com>,Apache-2.0,33410,"A suggested explanation of a onetrace comparison: AI-generated, checked against the record, never a verdict"
+2026-10-21T10:46:40Z,wordplus-realtime,1.0.0,WordPlus,MIT,1708593,"WordPlus Cloud's realtime SDK for Python outside WordPress: rooms with presence and history, online status, events to rooms and users, webhooks, calls between two people that ring in the browser, gro…"
+2026-10-21T10:48:02Z,cage-ai,0.1.1,Dennis Erdelean <dennis.erdelean@proton.me>,,9071608,"CAGE: credential containment for AI agents. Capability-token-gated, structurally refusing, audit-chained."
+2026-10-21T10:48:37Z,xmali-sdk,0.4.2,XMali,MIT,121810,"Typed XMali financial statements API client with exact Decimal, sync and async support"
+2026-10-21T10:48:48Z,pyr4py,0.1.1,CodeOfMe <wedonotuse@outlook.com>,GPL-3.0-or-later,83443,"Write R-style syntax in pure Python: 1-based vectors, data frames, formulas, pipes and NA-aware statistics"
+2026-10-21T10:50:32Z,motion-photo-bridge,0.2.3,duruonanni,MIT,216329,Turn dual-file live photos (vivo/OPPO style JPG + MP4) into standard Android Motion Photos and wire them into Immich.
+2026-10-21T10:51:24Z,pyEnergieDock,0.1.0,Julian Schmikale <julian.schmikale@energiedock.de>,Apache-2.0,18792,A python library for communicating asynchronously with the EnergieDock API.
+2026-10-21T10:52:44Z,paywise,0.1.0,,MIT,982409,
+2026-10-21T10:53:02Z,semita,0.1.0,Max Nusspickel <max.nusspickel@gmail.com>,MIT,219132,"Shortest paths and distances on a grid, in C, for Python"
+2026-10-21T10:53:02Z,usb-reverse-tether,0.1.0,Pandiyaraj Karuppasamy <pandiyarajk@live.com>,MIT,66432,"Share a PC's internet with a USB-connected Android phone (reverse tethering over adb, no root) using gnirehtet"
+2026-10-21T10:54:44Z,mcp-au-nsw,0.1.0,fisher98kim,MIT,18968,MCP servers for NSW Government APIs (api.nsw.gov.au)
+2026-10-21T10:57:45Z,whetherman,0.0.1a0,,Apache-2.0,2148,A 270M local model that forecasts whether your AI agent actually needs to call a tool. Under active development.
+2026-10-21T10:57:50Z,dkit-cli,0.1.0,Bytewave1,MIT,76513,"An offline toolbox for Discord bot developers: snowflakes, permissions, intents and invite URLs."
+2026-10-21T11:00:19Z,humona,0.0.1,Mesut Can Demir,MIT,6586,Human-inspired memory for AI agents — early name registration; install from GitHub until the packaged release lands
+2026-10-21T11:02:35Z,infeo-wastecalendar,0.0.2,Alexander Wieland <alexanderwieland0@gmail.com>,MIT,7210,Client for the Infeo Wastecalendar API
+2026-10-21T11:05:12Z,devshield-scanner,0.1.0,,MIT,14496,Read-only Linux host and Docker filesystem inspection using ClamAV
+2026-10-21T11:07:06Z,zoomy-jax,0.1.0,Ingo Steldermann <steldermann@mbd.rwth-aachen.de>,LGPL-3.0-or-later,635307,JAX solver backend for the Zoomy simulation framework.
+2026-10-21T11:07:54Z,nestor-cloud,0.1.0,Nestor Cloud engineering,Proprietary,90912,"Python SDK and `nestor` CLI for Nestor Cloud, infrastructure for AI applications."
+2026-10-21T11:08:04Z,zoomy-prepost,0.1.0,Ingo Steldermann <steldermann@mbd.rwth-aachen.de>,LGPL-3.0-or-later,62850,"Shared pre/postprocessing conversions for Zoomy (VTK/.pvd -> HDF5, mesh conversion)."
+2026-10-21T11:10:23Z,taviless,0.1.0,Taviless Contributors,MIT,68848,"Free, zero-dependency, open-source drop-in replacement for the Tavily Search API."
+2026-10-21T11:10:33Z,pyarchinit-photogrammetry-core,0.2.1,Enzo Cocca <enzo.ccc@gmail.com>,GPL-2.0-or-later,2656271,"Native kernels (Rust) of pyarchinit-photogrammetry: depth maps (PatchMatch MVS), orthomosaic, confidence"
+2026-10-21T11:11:17Z,lockerbot,1.0.0,,MIT,30710,
+2026-10-21T11:12:11Z,omochi-ui,0.1.1,,Apache-2.0,43221,"Declarative, transport-independent application runtime for A2UI"
+2026-10-21T11:12:35Z,ocean-plot,0.1.0,,MIT,485671,"Small, explicit plotting tools for rectilinear ocean NetCDF data"
+2026-10-21T11:13:51Z,grace-runtime-rocm6,0.0.0.dev0,"ICAMS, Ruhr-Universität Bochum",LicenseRef-ASL,1532,AMD GPU backend (ROCm 6) of grace-runtime (placeholder)
+2026-10-21T11:14:56Z,odoo-addon-barcode-stock-quality,18.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,44274,"Run a reception's quality control inspections from the Barcode app, with photo evidence"
+2026-10-21T11:15:56Z,pyjetra,1.0.0,Ali VEX <lyrdaadhrpyk802@gmail.com>,,17244,"A modern, bilingual (Sync/Async) Python wrapper for the Jetra Bot API."
+2026-10-21T11:16:51Z,termflex,1.0.0,,MIT,112596,Morphology-Aware Term Checking for Translation QA and LLM Output Evaluation
