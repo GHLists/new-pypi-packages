@@ -8,52 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 12:18 UTC
+## Latest list — 2026-10-21 13:20 UTC
 
-New packages created between 2026-10-21 11:19 UTC and 2026-10-21 12:18 UTC.
+New packages created between 2026-10-21 12:18 UTC and 2026-10-21 13:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-21T12-18-55-09493Z.csv)
+[Full CSV](data/new-packages-2026-10-21T13-20-32-54997Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-21 11:23:22 | [fireargs](https://pypi.org/project/fireargs/) | 0.1.0 | Evgeny Karev | 62.0 kB | Build CLIs from pydantic models |
-| 2026-10-21 11:23:58 | [grace-runtime-rocm7](https://pypi.org/project/grace-runtime-rocm7/) | 0.0.0.dev0 | ICAMS, Ruhr-Universität Bochum | 1.5 kB | AMD GPU backend (ROCm 7) of grace-runtime (placeholder) |
-| 2026-10-21 11:24:34 | [python-cofi](https://pypi.org/project/python-cofi/) | 0.0.1 | Simon Kohaut | 26.8 kB | A Python package for Bayesian estimation of agents that follow a constitution. |
-| 2026-10-21 11:27:11 | [dmf-bytes](https://pypi.org/project/dmf-bytes/) | 0.1.0 | dmf | 5.2 kB | 将字节数转换成易读的文件大小 |
-| 2026-10-21 11:27:23 | [tuff-bird](https://pypi.org/project/tuff-bird/) | 0.1.1 | TalexDreamSoul | 478.6 kB | Training logs as TensorBoard event files, and a live board that follows them |
-| 2026-10-21 11:27:57 | [mote_error](https://pypi.org/project/mote_error/) | 0.1.0 | Jonathan Bourne, Mwiza Simbeye | 332.3 kB | MOTe error (Missing, Overlap, Trespass, and Excess) for Document Layout Analysi… |
-| 2026-10-21 11:29:59 | [audiotensor](https://pypi.org/project/audiotensor/) | 0.1.0 | Chin-Yun Yu <chin-yun.yu@qmul… | 21.2 kB | A torch.Tensor subclass that tracks the hop length of frame-based audio feature… |
-| 2026-10-21 11:30:42 | [agentqakit](https://pypi.org/project/agentqakit/) | 0.1.0a0 | AgentQAKit contributors | 865.2 kB | Fault-injection and regression testing for AI agents |
-| 2026-10-21 11:30:53 | [cad3d-ir](https://pypi.org/project/cad3d-ir/) | 0.2.0 | neka-nat | 151.7 kB | Typed intermediate representation for 3D CAD product data |
-| 2026-10-21 11:30:55 | [cad3d-ir-step](https://pypi.org/project/cad3d-ir-step/) | 0.2.0 | neka-nat | 72.0 kB | STEP and IGES importers for cad3d-ir through Open CASCADE XDE |
-| 2026-10-21 11:32:33 | [ppocrv6-onnx-naf](https://pypi.org/project/ppocrv6-onnx-naf/) | 0.1.0 | alex (https://github.com/AIwo… | 183.6 kB | Pure ONNX Runtime implementation of PP-OCRv6 text detection & recognition |
-| 2026-10-21 11:33:18 | [bitexoft-verify](https://pypi.org/project/bitexoft-verify/) | 0.2.0 | Bitexoft | 74.8 kB | Verifica las entregas de los proyectos de Bitexoft: la misma herramienta en tu… |
-| 2026-10-21 11:33:23 | [scrich](https://pypi.org/project/scrich/) | 1.0.0 | Federico Bocci | 158.4 kB | Robust identification of cell-cell communication heterogeneity in single cells… |
-| 2026-10-21 11:34:47 | [datasetseek](https://pypi.org/project/datasetseek/) | 0.1.0 |  | 3.9 MB | DatasetSeek 官方 Python SDK |
-| 2026-10-21 11:37:13 | [graftmula](https://pypi.org/project/graftmula/) | 26.10.22 | Alex Lev <alexlev61@proton.me> | 6.5 MB | HeartCodec RVQ token-level style transfer |
-| 2026-10-21 11:37:49 | [blinkwell](https://pypi.org/project/blinkwell/) | 0.1.1 |  | 84.2 kB | On-device eye-fatigue monitor — periodic camera windows, baseline, breaks |
-| 2026-10-21 11:37:51 | [cphtech-app-monitor](https://pypi.org/project/cphtech-app-monitor/) | 0.1.0 |  | 63.4 kB | Tiny, dependency-free error-monitoring SDK for the App Monitor collector — Pyth… |
-| 2026-10-21 11:37:57 | [pestel](https://pypi.org/project/pestel/) | 0.1.0 | Satya Prakash Nayak | 5.1 MB | Permissive winning strategy templates for two-player games with (generalized) p… |
-| 2026-10-21 11:41:07 | [vsub-cli](https://pypi.org/project/vsub-cli/) | 0.1.1 | vsub contributors | 65.6 kB | 给视频自动生成字幕并翻译：本地 faster-whisper 识别 + 可插拔翻译后端（Ollama / OpenAI 兼容 / DeepL / Gemini） |
-| 2026-10-21 11:42:56 | [evoontology-explorer](https://pypi.org/project/evoontology-explorer/) | 0.1.0 | Lukasz Wardzala | 377.3 kB | Server-backed explorer for EvoOntology workspaces: the ontology layer explorer… |
-| 2026-10-21 11:43:21 | [elastic-pipes-core](https://pypi.org/project/elastic-pipes-core/) | 0.8.0 | Domenico Andreoli <domenico.a… | 65.5 kB | A lightweight composition system |
-| 2026-10-21 11:44:01 | [corobots-async-sdk](https://pypi.org/project/corobots-async-sdk/) | 1.1.0 | "Coredge.io" <ashok@coredge.i… | 218.4 kB | asyncio Python SDK for CoRobots — client and step worker, GIL-free on free-thre… |
-| 2026-10-21 11:46:18 | [iroh-tinker](https://pypi.org/project/iroh-tinker/) | 0.1.1 | Research Team | 243.9 kB | Distributed training framework using iroh for 100k+ node scale across PyTorch,… |
-| 2026-10-21 11:46:44 | [agentic-postgres-cli](https://pypi.org/project/agentic-postgres-cli/) | 1.21.0 |  | 63.8 kB | The customer command-line client for Agentic Postgres (apg). |
-| 2026-10-21 11:47:06 | [shortsmash](https://pypi.org/project/shortsmash/) | 0.3.0 | ShortSmash | 7.4 MB | Prompt in. Viral short out. AI video studio: script, voice, stock, edit, captio… |
-| 2026-10-21 11:47:41 | [identity-fingerprint](https://pypi.org/project/identity-fingerprint/) | 0.2.0 | Melbin Martin <melbinmartinmm… | 26.6 kB | Deterministic Customer Identity (CID) generation for Customer 360 and MDM. |
-| 2026-10-21 11:49:11 | [jax-linear-attention](https://pypi.org/project/jax-linear-attention/) | 0.1.0 | KarLex AI, Inc. | 6.0 MB | A JAX LLM training template with Pallas Mosaic GPU kernels for linear attention… |
-| 2026-10-21 11:53:35 | [aiaa-eda-tools-team-4](https://pypi.org/project/aiaa-eda-tools-team-4/) | 0.1.1 |  | 9.6 kB | AI Academy Asia: EDA хийх туслах функцууд |
-| 2026-10-21 11:53:49 | [harmonica-amt](https://pypi.org/project/harmonica-amt/) | 0.1.0 | Zion Huang | 139.0 MB | A reproduction of Harmonica: Accurate and Lightweight Instrument-Agnostic Music… |
-| 2026-10-21 11:57:45 | [factguard-check](https://pypi.org/project/factguard-check/) | 0.2.1 | Anirudh Nadipally | 51.8 kB | Catch LLMs inventing or misattributing numbers when they write from data. Deter… |
-| 2026-10-21 11:59:17 | [optimum-onnx-naf](https://pypi.org/project/optimum-onnx-naf/) | 0.1.1 | "HuggingFace Inc. Special Ops… | 368.4 kB | Optimum ONNX is an interface between the Hugging Face libraries and ONNX / ONNX… |
-| 2026-10-21 12:01:11 | [shoply](https://pypi.org/project/shoply/) | 0.1.0 | Shoply | 199.5 kB | Shoply's API from your own server: every route as a method, safe retries, pages… |
-| 2026-10-21 12:01:58 | [pico-uart](https://pypi.org/project/pico-uart/) | 0.0.0.dev39596311668 |  | 31.8 kB | Host HID API, CLI, and Flask diagnostics dashboard for PicoUart |
-| 2026-10-21 12:02:47 | [questkit](https://pypi.org/project/questkit/) | 0.4.0 | Peter Åslund | 303.8 kB | File-based quest tracking: Markdown + YAML frontmatter tickets, for humans and… |
-| 2026-10-21 12:03:47 | [nexus-snakemake-utils](https://pypi.org/project/nexus-snakemake-utils/) | 0.2.0 |  | 49.4 kB | Shared workflow infrastructure and image-cache commands for Snakemake 8.14 |
-| 2026-10-21 12:04:28 | [pylinxi](https://pypi.org/project/pylinxi/) | 1.0.0 |  | 95.2 kB | Durable, self-healing agent flows as plain Python. Zero dependencies. |
-| 2026-10-21 12:04:44 | [webextract-sdk](https://pypi.org/project/webextract-sdk/) | 0.1.0 | TAINCHENG, L.L.C. | 22.4 kB | Thin client for the WebExtract API: web page to clean Markdown + fixed-schema J… |
-| 2026-10-21 12:05:06 | [langchain-webextract](https://pypi.org/project/langchain-webextract/) | 0.1.0 | TAINCHENG, L.L.C. | 13.3 kB | LangChain tools for WebExtract: extract_url (Markdown + product/price/tables JS… |
-| 2026-10-21 12:05:37 | [syncmill](https://pypi.org/project/syncmill/) | 0.2.0 | "DAPADA Inc. and syncmill con… | 2.4 MB | Multi-agent orchestration with shared memory — grind tasks through competing an… |
-| 2026-10-21 12:10:17 | [qls-verified-esign](https://pypi.org/project/qls-verified-esign/) | 2026.10.21 | QLS quality solutions AB | 76.6 kB | Python SDK for the Verified (verified.eu) eSign API: envelopes, documents, reci… |
-| 2026-10-21 12:16:57 | [cosmo-synthesis](https://pypi.org/project/cosmo-synthesis/) | 0.1.0 | Satya Prakash Nayak | 4.1 MB | Assumption and strategy templates as contracted strategy masks for two-objectiv… |
+| 2026-10-21 12:19:10 | [plagx-cite](https://pypi.org/project/plagx-cite/) | 0.2.1 | Plagiarism Checker X | 52.8 kB | Free APA and MLA citation generator and reference checker: reference lists, in-… |
+| 2026-10-21 12:19:55 | [HeyMilo](https://pypi.org/project/HeyMilo/) | 0.1.0 | Hey Milo contributors | 38.5 kB | Lightweight Hey Milo voice-assistant host and guided setup for PCs and Raspberr… |
+| 2026-10-21 12:21:38 | [fastatomstruct-xla-cpu](https://pypi.org/project/fastatomstruct-xla-cpu/) | 2026.6.23 |  | 63.2 MB | XLA CPU runtime (PJRT) for the Rust MACE backend of fastatomstruct |
+| 2026-10-21 12:22:52 | [fastatomstruct-mcp](https://pypi.org/project/fastatomstruct-mcp/) | 0.1.0 |  | 61.1 kB | MCP server exposing fastatomstruct analysis, structure building, simulation and… |
+| 2026-10-21 12:24:01 | [aurorabot-ai](https://pypi.org/project/aurorabot-ai/) | 0.7.0 |  | 1.2 MB | 以 Bot 为中心的主动智能体环境，支持持久目标、节律、记忆与可扩展能力。 |
+| 2026-10-21 12:26:07 | [autoair](https://pypi.org/project/autoair/) | 0.1.0 | ctolon <cevatbatuhan.tolon@gm… | 8.9 MB | Type-safe, extensible no-code DAG builder for Apache Airflow 3 |
+| 2026-10-21 12:33:55 | [ptcg-arena-cli](https://pypi.org/project/ptcg-arena-cli/) | 0.1.1 | Swcmb | 105.6 kB | PTCG-Arena AI 对战比赛平台的命令行自动化工具（配套 Claude Code Skill） |
+| 2026-10-21 12:34:21 | [psrunner](https://pypi.org/project/psrunner/) | 0.1.0 | ScriptRunnerKit contributors | 118.5 kB | Python SDK for PythonScriptRunner stages: typed inputs and outputs, files, secr… |
+| 2026-10-21 12:35:59 | [odoo-addon-project-task-contract](https://pypi.org/project/odoo-addon-project-task-contract/) | 16.0.2.0.0.2 | =?utf-8?q?Som_Connexi=C3=B3_S… | 4.5 kB | Contract a project task is about, and external code of a project. |
+| 2026-10-21 12:37:08 | [odoo-addon-business-requirement-deliverable-project](https://pypi.org/project/odoo-addon-business-requirement-deliverable-project/) | 18.0.1.0.0.1 | Binhex, Odoo Community Associ… | 34.3 kB | Create project tasks from the deliverables of approved requirements |
+| 2026-10-21 12:37:30 | [velogger](https://pypi.org/project/velogger/) | 0.1.1 |  | 251.8 kB | 벨로그(velog.io)를 다루는 LLM 친화 비공식 CLI |
+| 2026-10-21 12:37:53 | [sys-os](https://pypi.org/project/sys-os/) | 0.1.2 | MulticNews | 4.8 kB | Универсальная библиотека для работы с файлами и системой (Android/Linux) |
+| 2026-10-21 12:38:40 | [langchain-10ml-perfume](https://pypi.org/project/langchain-10ml-perfume/) | 1.0.0 | 10ML Team <contact@10ml.com> | 23.1 kB | LangChain tools for the free 10ML Perfume Finder: search perfumes, note pyramid… |
+| 2026-10-21 12:42:26 | [scrape-n-search-mcp](https://pypi.org/project/scrape-n-search-mcp/) | 0.1.1 |  | 62.5 kB | MCP server unifying web-search and scraping providers behind a few agent tools |
+| 2026-10-21 12:45:13 | [rulestamp-security-txt-cra-lint](https://pypi.org/project/rulestamp-security-txt-cra-lint/) | 1.0.9 | Rulestamp <support@getreadyst… | 32.6 kB | 13 rules that decide whether a vulnerability report ever reaches you (bundled N… |
+| 2026-10-21 12:45:22 | [rulestamp-image-host-transfer-lint](https://pypi.org/project/rulestamp-image-host-transfer-lint/) | 1.0.5 | Rulestamp <support@getreadyst… | 35.6 kB | Names every image, font, badge and embed in your docs that sends an EU reader's… |
+| 2026-10-21 12:45:29 | [rulestamp-manuscript-disclosure-lint](https://pypi.org/project/rulestamp-manuscript-disclosure-lint/) | 1.0.7 | Rulestamp <support@getreadyst… | 37.2 kB | 16 rules that catch the statements a journal desk-rejects you for — in your .te… |
+| 2026-10-21 12:45:46 | [rulestamp-mv3-manifest-preflight](https://pypi.org/project/rulestamp-mv3-manifest-preflight/) | 1.0.7 | Rulestamp <support@getreadyst… | 37.5 kB | 25 rules over manifest.json: every line Manifest V3 or the Chrome Web Store upl… |
+| 2026-10-21 12:46:15 | [medut](https://pypi.org/project/medut/) | 1.0.0 |  | 11.5 MB | Python binding for Medut — SIP/WebRTC/NAT SDK |
+| 2026-10-21 12:47:19 | [daydokuthon](https://pypi.org/project/daydokuthon/) | 0.1.1 |  | 81.2 kB | Honeycomb puzzle hackathon SDK, trace judge and replay platform |
+| 2026-10-21 12:48:08 | [nafrec](https://pypi.org/project/nafrec/) | 0.3.0 | Mikko Lipsanen <mikko.lipsane… | 136.9 kB | An HTR and OCR pipeline for historical text recognition, which optionally class… |
+| 2026-10-21 12:49:16 | [coinwatch-cli](https://pypi.org/project/coinwatch-cli/) | 0.1.0 | MT | 35.8 kB | Local-first crypto market monitor & alert engine. Multi-source failover, zero t… |
+| 2026-10-21 12:50:11 | [shadepix](https://pypi.org/project/shadepix/) | 0.3.0 | Bastien Cochet | 31.5 kB | Faceless pixel avatars from your terminal. Zero dependencies. |
+| 2026-10-21 12:50:17 | [odoo-addon-purchase-sale-note-intercompany](https://pypi.org/project/odoo-addon-purchase-sale-note-intercompany/) | 18.0.1.0.0.2 | Akretion, Odoo Community Asso… | 22.4 kB | Propagate note from purchase to sale line |
+| 2026-10-21 12:50:47 | [video-to-spritesheet](https://pypi.org/project/video-to-spritesheet/) | 0.2.0 | KarlynG | 52.7 kB | Local video-to-sprite-sheet conversion for humans and AI agents |
+| 2026-10-21 12:50:56 | [kellyiq](https://pypi.org/project/kellyiq/) | 0.0.1 | KellyIQ <opensource@kellyiq.c… | 11.7 kB | Size a whole sports betting slate as one portfolio: a client for the KellyIQ AP… |
+| 2026-10-21 12:54:15 | [ediechain](https://pypi.org/project/ediechain/) | 0.0.1 | Artyom Voronin | 43.9 kB | A task graph for research pipelines: a task is a function, an artifact is addre… |
+| 2026-10-21 12:55:12 | [vtai-agent](https://pypi.org/project/vtai-agent/) | 0.6.6 | VT-AIAgent Contributors | 173.3 kB | VT-AIAgent — system-automation agent exposed as an MCP server for opencode/clau… |
+| 2026-10-21 12:56:03 | [signyt](https://pypi.org/project/signyt/) | 0.2.0 |  | 41.3 kB | Official Python SDK for the sign.yt e-signature API |
+| 2026-10-21 12:56:17 | [ManagerPythonClient](https://pypi.org/project/ManagerPythonClient/) | 0.0.11 | Robert Metcalf | 48.0 kB | Manager python client for accessing API. |
+| 2026-10-21 13:00:49 | [plesty-taiko-pdl-m1](https://pypi.org/project/plesty-taiko-pdl-m1/) | 0.1.0 | Yunshuang Yuan <yuanyunshuang… | 260.3 kB | Plesty PicoQuant Taiko PDL M1 picosecond laser driver device. |
+| 2026-10-21 13:01:37 | [mobisys](https://pypi.org/project/mobisys/) | 0.1.0 | MulticNews | 2.3 kB | Библиотека для работы с мобильной системой (обертка для sys_os) |
+| 2026-10-21 13:01:42 | [norcaster-verify](https://pypi.org/project/norcaster-verify/) | 0.4.0 | "Norcaster (Navego AB)" <secu… | 344.6 kB | Standalone verifier for Norcaster audit bundles: manifest content digest, integ… |
+| 2026-10-21 13:02:34 | [http-apis-problems-detail](https://pypi.org/project/http-apis-problems-detail/) | 2.0.0 | Fabrice Brito <info@terradue.… | 132.8 kB | Problem Details for HTTP APIs |
+| 2026-10-21 13:02:36 | [roon-discord-presence](https://pypi.org/project/roon-discord-presence/) | 0.1.0 | alvinism | 531.7 kB | Show what Roon is playing as your Discord Rich Presence (unofficial) |
+| 2026-10-21 13:03:48 | [cosmotech.asset-data-layer-client](https://pypi.org/project/cosmotech.asset-data-layer-client/) | 0.2.0rc1 | OpenAPI Generator community | 163.3 kB | Asset Data Layer |
+| 2026-10-21 13:04:36 | [arc56-generated-geget-4a42b900](https://pypi.org/project/arc56-generated-geget-4a42b900/) | 1.2.2026072010 | gegetxt | 12.7 kB | Generated ARC-56 Algorand smart-contract clients for gegetxt/algorand. |
+| 2026-10-21 13:05:40 | [arc56-generated-genit-6e9f17bf](https://pypi.org/project/arc56-generated-genit-6e9f17bf/) | 1.2.2026072010 | Genith-Utkarsh | 20.8 kB | Generated ARC-56 Algorand smart-contract clients for Genith-Utkarsh/AlgoConnect. |
+| 2026-10-21 13:06:29 | [gemseo-egobox](https://pypi.org/project/gemseo-egobox/) | 1.0.0 | GEMSEO developers <contact@ge… | 461.0 kB | Interface to the EGObox features. |
+| 2026-10-21 13:06:45 | [arc56-generated-ghosh-f00b8d38](https://pypi.org/project/arc56-generated-ghosh-f00b8d38/) | 1.2.2026072010 | ghoshvidip26 | 38.7 kB | Generated ARC-56 Algorand smart-contract clients for ghoshvidip26/VoiceVaultAlg… |
+| 2026-10-21 13:07:50 | [arc56-generated-ghynm-c6bd0313](https://pypi.org/project/arc56-generated-ghynm-c6bd0313/) | 1.2.2026072010 | Ghynmo | 20.1 kB | Generated ARC-56 Algorand smart-contract clients for Ghynmo/decentralized-todo-… |
+| 2026-10-21 13:09:52 | [telegram-context-mcp](https://pypi.org/project/telegram-context-mcp/) | 0.2.0 |  | 270.0 kB | Local, read-only Telegram MCP server with folder-aware retrieval |
+| 2026-10-21 13:10:20 | [byteplussdk-milvus](https://pypi.org/project/byteplussdk-milvus/) | 0.0.1 | byteplus-sdk | 983 B | Name reservation for the Byteplus Python SDK split package byteplussdk-milvus |
+| 2026-10-21 13:10:26 | [byteplussdk-mlplatform20240701](https://pypi.org/project/byteplussdk-mlplatform20240701/) | 0.0.1 | byteplus-sdk | 1.1 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-mlplatfo… |
+| 2026-10-21 13:10:32 | [byteplussdk-mongodb](https://pypi.org/project/byteplussdk-mongodb/) | 0.0.1 | byteplus-sdk | 992 B | Name reservation for the Byteplus Python SDK split package byteplussdk-mongodb |
+| 2026-10-21 13:10:39 | [byteplussdk-natgateway](https://pypi.org/project/byteplussdk-natgateway/) | 0.0.1 | byteplus-sdk | 1.0 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-natgatew… |
+| 2026-10-21 13:13:22 | [layerweave](https://pypi.org/project/layerweave/) | 0.7.9b1 |  | 13.8 MB | Layers, objects and composable tools for AI workflows |
+| 2026-10-21 13:14:56 | [emailpattern](https://pypi.org/project/emailpattern/) | 0.1.0 | EmailPattern | 21.2 kB | Find the email format any company uses, and the likely address for a person the… |
+| 2026-10-21 13:17:30 | [python-coco](https://pypi.org/project/python-coco/) | 0.0.1 | Simon Kohaut | 15.7 kB | A Python package for constitutional control in constrained navigation tasks. |

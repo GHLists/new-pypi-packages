@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T12:19:10Z,plagx-cite,0.2.1,Plagiarism Checker X,MIT,52849,"Free APA and MLA citation generator and reference checker: reference lists, in-text citations, BibTeX import/export, DOI to citation and duplicate reference detection. By Plagiarism Checker X."
+2026-10-21T12:19:55Z,HeyMilo,0.1.0,Hey Milo contributors,,38546,Lightweight Hey Milo voice-assistant host and guided setup for PCs and Raspberry Pi
+2026-10-21T12:21:38Z,fastatomstruct-xla-cpu,2026.6.23,,Apache-2.0,63200622,XLA CPU runtime (PJRT) for the Rust MACE backend of fastatomstruct
+2026-10-21T12:22:52Z,fastatomstruct-mcp,0.1.0,,GPL-3.0-or-later,61087,"MCP server exposing fastatomstruct analysis, structure building, simulation and DFT tools to AI assistants"
+2026-10-21T12:24:01Z,aurorabot-ai,0.7.0,,Apache-2.0,1234216,以 Bot 为中心的主动智能体环境，支持持久目标、节律、记忆与可扩展能力。
+2026-10-21T12:26:07Z,autoair,0.1.0,ctolon <cevatbatuhan.tolon@gmail.com>,Apache-2.0,8937592,"Type-safe, extensible no-code DAG builder for Apache Airflow 3"
+2026-10-21T12:33:55Z,ptcg-arena-cli,0.1.1,Swcmb,GPL-3.0-or-later,105572,PTCG-Arena AI 对战比赛平台的命令行自动化工具（配套 Claude Code Skill）
+2026-10-21T12:34:21Z,psrunner,0.1.0,ScriptRunnerKit contributors,MIT,118497,"Python SDK for PythonScriptRunner stages: typed inputs and outputs, files, secrets and logging."
+2026-10-21T12:35:59Z,odoo-addon-project-task-contract,16.0.2.0.0.2,=?utf-8?q?Som_Connexi=C3=B3_SCCL?=,AGPL-3,4508,"Contract a project task is about, and external code of a project."
+2026-10-21T12:37:08Z,odoo-addon-business-requirement-deliverable-project,18.0.1.0.0.1,"Binhex, Odoo Community Association (OCA)",AGPL-3,34318,Create project tasks from the deliverables of approved requirements
+2026-10-21T12:37:30Z,velogger,0.1.1,,MIT,251750,벨로그(velog.io)를 다루는 LLM 친화 비공식 CLI
+2026-10-21T12:37:53Z,sys-os,0.1.2,MulticNews,,4846,Универсальная библиотека для работы с файлами и системой (Android/Linux)
+2026-10-21T12:38:40Z,langchain-10ml-perfume,1.0.0,10ML Team <contact@10ml.com>,MIT,23057,"LangChain tools for the free 10ML Perfume Finder: search perfumes, note pyramids, accords, similar scents, alternatives, notes and houses from the 10ML Fragrance Index. No API key."
+2026-10-21T12:42:26Z,scrape-n-search-mcp,0.1.1,,MIT,62520,MCP server unifying web-search and scraping providers behind a few agent tools
+2026-10-21T12:45:13Z,rulestamp-security-txt-cra-lint,1.0.9,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32581,13 rules that decide whether a vulnerability report ever reaches you (bundled Node.js runtime)
+2026-10-21T12:45:22Z,rulestamp-image-host-transfer-lint,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35609,"Names every image, font, badge and embed in your docs that sends an EU reader's IP outside the EEA - and the fix for each one. (bundled Node.js runtime)"
+2026-10-21T12:45:29Z,rulestamp-manuscript-disclosure-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37187,"16 rules that catch the statements a journal desk-rejects you for — in your .tex or .md, before you submit (bundled Node.js runtime)"
+2026-10-21T12:45:46Z,rulestamp-mv3-manifest-preflight,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37504,"25 rules over manifest.json: every line Manifest V3 or the Chrome Web Store upload refuses, with the fix beside it. The shipped MV2 fixture returns 19 findings, 16 of them errors that block the uploa…"
+2026-10-21T12:46:15Z,medut,1.0.0,,BSD-3-Clause,11522636,Python binding for Medut — SIP/WebRTC/NAT SDK
+2026-10-21T12:47:19Z,daydokuthon,0.1.1,,Apache-2.0,81180,"Honeycomb puzzle hackathon SDK, trace judge and replay platform"
+2026-10-21T12:48:08Z,nafrec,0.3.0,"Mikko Lipsanen <mikko.lipsanen@kansallisarkisto.fi>, Atte Föhr <atte.fohr@kansallisarkisto.fi>, Joh…",Apache-2.0,136929,"An HTR and OCR pipeline for historical text recognition, which optionally classifies text lines into cyrillic or latin based on their script types and then passes them to a proper text recognition mo…"
+2026-10-21T12:49:16Z,coinwatch-cli,0.1.0,MT,MIT,35794,"Local-first crypto market monitor & alert engine. Multi-source failover, zero third-party dependencies."
+2026-10-21T12:50:11Z,shadepix,0.3.0,Bastien Cochet,MIT,31499,Faceless pixel avatars from your terminal. Zero dependencies.
+2026-10-21T12:50:17Z,odoo-addon-purchase-sale-note-intercompany,18.0.1.0.0.2,"Akretion, Odoo Community Association (OCA)",AGPL-3,22437,Propagate note from purchase to sale line
+2026-10-21T12:50:47Z,video-to-spritesheet,0.2.0,KarlynG,MIT,52705,Local video-to-sprite-sheet conversion for humans and AI agents
+2026-10-21T12:50:56Z,kellyiq,0.0.1,KellyIQ <opensource@kellyiq.com>,MIT,11676,Size a whole sports betting slate as one portfolio: a client for the KellyIQ API.
+2026-10-21T12:54:15Z,ediechain,0.0.1,Artyom Voronin,Apache-2.0,43857,"A task graph for research pipelines: a task is a function, an artifact is addressed by the arguments that produced it."
+2026-10-21T12:55:12Z,vtai-agent,0.6.6,VT-AIAgent Contributors,MIT,173337,VT-AIAgent — system-automation agent exposed as an MCP server for opencode/claude/pi
+2026-10-21T12:56:03Z,signyt,0.2.0,,MIT,41313,Official Python SDK for the sign.yt e-signature API
+2026-10-21T12:56:17Z,ManagerPythonClient,0.0.11,Robert Metcalf,"MIT License Copyright (c) 2026 Robert Metcalf Permission is hereby granted, free of charge, to any…",48050,Manager python client for accessing API.
+2026-10-21T13:00:49Z,plesty-taiko-pdl-m1,0.1.0,Yunshuang Yuan <yuanyunshuang@gmail.com>,LGPL-3.0-or-later,260327,Plesty PicoQuant Taiko PDL M1 picosecond laser driver device.
+2026-10-21T13:01:37Z,mobisys,0.1.0,MulticNews,,2313,Библиотека для работы с мобильной системой (обертка для sys_os)
+2026-10-21T13:01:42Z,norcaster-verify,0.4.0,"""Norcaster (Navego AB)"" <security@norcaster.com>",Apache-2.0,344631,"Standalone verifier for Norcaster audit bundles: manifest content digest, integrity references, and public Rekor transparency-log anchors. Verifies evidence without a Norcaster account."
+2026-10-21T13:02:34Z,http-apis-problems-detail,2.0.0,"Fabrice Brito <info@terradue.com>, Simone Tripodi <info@terradue.com>",Apache-2.0,132777,Problem Details for HTTP APIs
+2026-10-21T13:02:36Z,roon-discord-presence,0.1.0,alvinism,MIT,531692,Show what Roon is playing as your Discord Rich Presence (unofficial)
+2026-10-21T13:03:48Z,cosmotech.asset-data-layer-client,0.2.0rc1,OpenAPI Generator community,,163278,Asset Data Layer
+2026-10-21T13:04:36Z,arc56-generated-geget-4a42b900,1.2.2026072010,gegetxt,,12687,Generated ARC-56 Algorand smart-contract clients for gegetxt/algorand.
+2026-10-21T13:05:40Z,arc56-generated-genit-6e9f17bf,1.2.2026072010,Genith-Utkarsh,,20777,Generated ARC-56 Algorand smart-contract clients for Genith-Utkarsh/AlgoConnect.
+2026-10-21T13:06:29Z,gemseo-egobox,1.0.0,GEMSEO developers <contact@gemseo.org>,LGPL-3.0,461016,Interface to the EGObox features.
+2026-10-21T13:06:45Z,arc56-generated-ghosh-f00b8d38,1.2.2026072010,ghoshvidip26,,38680,Generated ARC-56 Algorand smart-contract clients for ghoshvidip26/VoiceVaultAlgorand.
+2026-10-21T13:07:50Z,arc56-generated-ghynm-c6bd0313,1.2.2026072010,Ghynmo,,20127,Generated ARC-56 Algorand smart-contract clients for Ghynmo/decentralized-todo-list.
+2026-10-21T13:09:52Z,telegram-context-mcp,0.2.0,,MIT,270038,"Local, read-only Telegram MCP server with folder-aware retrieval"
+2026-10-21T13:10:20Z,byteplussdk-milvus,0.0.1,byteplus-sdk,Apache License 2.0,983,Name reservation for the Byteplus Python SDK split package byteplussdk-milvus
+2026-10-21T13:10:26Z,byteplussdk-mlplatform20240701,0.0.1,byteplus-sdk,Apache License 2.0,1075,Name reservation for the Byteplus Python SDK split package byteplussdk-mlplatform20240701
+2026-10-21T13:10:32Z,byteplussdk-mongodb,0.0.1,byteplus-sdk,Apache License 2.0,992,Name reservation for the Byteplus Python SDK split package byteplussdk-mongodb
+2026-10-21T13:10:39Z,byteplussdk-natgateway,0.0.1,byteplus-sdk,Apache License 2.0,1011,Name reservation for the Byteplus Python SDK split package byteplussdk-natgateway
+2026-10-21T13:13:22Z,layerweave,0.7.9b1,,MIT AND ISC AND BSD-3-Clause,13796428,"Layers, objects and composable tools for AI workflows"
+2026-10-21T13:14:56Z,emailpattern,0.1.0,EmailPattern,MIT,21201,"Find the email format any company uses, and the likely address for a person there. Free, no account."
+2026-10-21T13:17:30Z,python-coco,0.0.1,Simon Kohaut,,15733,A Python package for constitutional control in constrained navigation tasks.
