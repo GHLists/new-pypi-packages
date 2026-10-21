@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-10-21T03:18:54.534145Z",
-    "path": "data/new-packages-2026-10-21T04-18-59-737043Z.csv",
-    "to": "2026-10-21T04:18:59.737043Z"
+    "count": 28,
+    "from": "2026-10-21T04:18:59.737043Z",
+    "path": "data/new-packages-2026-10-21T05-20-35-694611Z.csv",
+    "to": "2026-10-21T05:20:35.694611Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-10-21T04:18:44Z",
-      "package": "bazaar-contrib-collaboration",
-      "since": "2026-10-21T03:18:54.534145Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-21T02:47:59Z",
       "package": "clawmeets-server",
       "since": "2026-10-21T02:19:18.053877Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-21T02:40:47Z",
       "package": "dev-null-tui",
       "since": "2026-10-21T02:19:18.053877Z",
       "version": null
     }
   ],
-  "serial": 42525242,
+  "serial": 42526695,
   "source_truncated": false,
-  "window": "2026-10-21T04:18:59.737043Z"
+  "window": "2026-10-21T05:20:35.694611Z"
 }

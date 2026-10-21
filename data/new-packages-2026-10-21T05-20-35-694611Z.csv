@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T04:18:44Z,bazaar-contrib-collaboration,0.3.0rc1,,Apache-2.0,23809,"Conversation admission, review and identity association services"
+2026-10-21T04:19:45Z,bazaar-contrib-messages-node,0.3.0rc1,,Apache-2.0,133506,"Message history, delivery and conversation services"
+2026-10-21T04:19:49Z,trinary19683,2.6.0,q1z2q3 <q1z2q3@126.com>,Apache-2.0,67918,三元九维19683认知体系：可复算、可证伪、可演化的确定性符号认知层（19683卦 + 证伪 + 元认知 + 多Agent）
+2026-10-21T04:20:19Z,verified-net,1.0.0,Verified.net,MIT,12279,"Official Python client for the Verified.net email, phone, carrier and IP verification API"
+2026-10-21T04:20:50Z,bazaar-contrib-reminder,0.3.0rc1,,Apache-2.0,76820,"Persistent reminders, recurrence and agent wake scheduling"
+2026-10-21T04:23:35Z,telmoni,0.1.0,Kendrick Lawton,Apache-2.0,115260,"Python SDK for Telmoni: an agent's runs, steps, model calls and tool calls as OpenTelemetry spans"
+2026-10-21T04:23:49Z,bazaar-contrib-agent,0.3.0rc1,,Apache-2.0,79476,"Agent configuration, instances and local composition"
+2026-10-21T04:24:17Z,bazaar-contrib-agent-command,0.3.0rc1,,Apache-2.0,26176,Agent configuration and local conversation-review commands
+2026-10-21T04:29:56Z,fast-question,0.1.0,,,63313,"fast-question PC client: local MCP proxy, prompt hook and draft linter for a remote fast-question server"
+2026-10-21T04:40:01Z,depthpro-mlx,0.2.1,Nguyễn Đình Toàn <ntoan199@gmail.com>,MIT,100014,"Apple Depth Pro (sharp monocular metric depth) on MLX: one photo to 3D, dolly zoom, refocus, spatial photos and measurements on Apple Silicon"
+2026-10-21T04:40:57Z,paycascade-sdk,0.1.2,BitBerry Labs,MIT,16211,Customer-side cache and access middleware for the PayCascade hosted billing-state API.
+2026-10-21T04:41:03Z,nuqta-ocr,0.1.0,"Salah AlHaismawi, Mohamed Saleh Tulib, Ahmed ElSayed Mohamed Ibrahim",Apache-2.0,41258,Nuqta OCR: accurate Arabic document OCR with faithful tashkeel (open 0.8B and 4B models)
+2026-10-21T04:51:49Z,vn-finance-mentor,0.2.0,vn-finance-mentor contributors,MIT,2367463,"Vietnam and US market data, research signals, and paper monitoring"
+2026-10-21T04:52:01Z,aimarket-oracle-lumen,0.1.0,,,23362,Lumen — reputation / trust scoring (EigenTrust / PageRank) oracle on oracle-core
+2026-10-21T04:53:38Z,nascent,0.1.0,qwertyquerty,AGPL-3.0-only,14991819,"Bindings for the Nascent difficulty calculator, chart loader, and core judgement logic"
+2026-10-21T04:55:22Z,chenpi,0.1.0,Lizz,MIT,81880,"Read DS/3DS capture boards (Loopy DS, Optimize Old 3DS) as OpenCV/numpy images on Windows"
+2026-10-21T04:56:09Z,mipyre,1.0.0,,Apache-2.0,10014178,High-performance Python web framework powered by Rust — 2x faster than Robyn
+2026-10-21T04:57:08Z,smart-drive-os,1.4.2,"DuongNAD <smartdrive.os@proton.me>, SmartDrive Team <smartdrive.os@proton.me>",MIT,1233027,"Organize a drive without breaking your coding agents and IDEs: move folders and relink the paths they remember, clean junk safely, and search files instantly. Zero-dependency CLI and MCP server."
+2026-10-21T04:59:13Z,graspkit-atomic,3.4.1,"""Yi (Yenoch) Qin"" <yenochqin@hotmail.com>",GPL-3.0-only,215737,"Stable data I/O, processing, and plotting for GRASP calculations"
+2026-10-21T05:00:06Z,heavyhex-qft,0.2.1,,,1622937,Quantum field theory on heavy-hex lattices.
+2026-10-21T05:01:56Z,mulebot,0.1.0,John Friedman,MIT,199512,A simple chatbot for Datamule's APIs
+2026-10-21T05:05:07Z,triple-s-survey,0.2.1,,,3575094,
+2026-10-21T05:07:41Z,basic-nn-lib,0.1.0,YH kim <kimyhjava@gmail.com>,MIT,2492,basic_nn_lib
+2026-10-21T05:08:36Z,pagelight,0.2.0,,AGPL-3.0-or-later,5812543,"Ask your PDFs anything, completely offline."
+2026-10-21T05:12:20Z,perfume-mcp,2.4.0,10ML Team <contact@10ml.com>,MIT,13741,"Perfume MCP server: free fragrance knowledge for Claude, Cursor and any MCP client. 5,400+ perfumes, note pyramids, accords, similar scents and alternatives from the 10ML Fragrance Index. No API key."
+2026-10-21T05:12:31Z,perfume-api,2.4.0,10ML Team <contact@10ml.com>,MIT,21098,"Free perfume API client: perfumes, note pyramids, accords, similar scents, notes and houses from the 10ML Fragrance Index. No API key, JSON over HTTPS."
+2026-10-21T05:13:05Z,logplane,0.13.0,deki,MIT,469663,"A local control plane for AI agents, built on an append-only event log"
+2026-10-21T05:17:02Z,whyempty,0.1.0,Giovanny Torres,MIT,43114,Explain where Python filters remove your records.

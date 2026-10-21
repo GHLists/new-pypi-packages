@@ -8,49 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 04:18 UTC
+## Latest list — 2026-10-21 05:20 UTC
 
-New packages created between 2026-10-21 03:18 UTC and 2026-10-21 04:18 UTC.
+New packages created between 2026-10-21 04:18 UTC and 2026-10-21 05:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-21T04-18-59-737043Z.csv)
+[Full CSV](data/new-packages-2026-10-21T05-20-35-694611Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-21 03:19:49 | [unripe](https://pypi.org/project/unripe/) | 0.3.0 | Tex | 103.3 kB | Fail the build when a locked dependency is younger than you trust. One check fo… |
-| 2026-10-21 03:19:53 | [bugbout](https://pypi.org/project/bugbout/) | 0.1.0 | Keerthirajan58 <keerthirajan1… | 185.0 kB | Find out which coding agent actually fixes bugs in your codebase. |
-| 2026-10-21 03:23:06 | [dahua-nvr-mcp](https://pypi.org/project/dahua-nvr-mcp/) | 0.1.0 | bigoat | 60.3 kB | MCP stdio server for Dahua NVR JSON-RPC APIs |
-| 2026-10-21 03:25:22 | [mechlens](https://pypi.org/project/mechlens/) | 0.1.1 | MechLens | 32.5 kB | Record and share mechanistic interpretability experiments |
-| 2026-10-21 03:29:04 | [launchdarkly-ai-opencode-agents](https://pypi.org/project/launchdarkly-ai-opencode-agents/) | 0.0.0 |  | 2.5 kB | Placeholder package |
-| 2026-10-21 03:29:51 | [grass-editor](https://pypi.org/project/grass-editor/) | 0.1.0 | Mukund Jha | 34.8 kB | A calm, zero-config terminal editor — beautiful by default, hackable in an afte… |
-| 2026-10-21 03:33:23 | [interlinear-cti](https://pypi.org/project/interlinear-cti/) | 0.1.0 | Diego Parra | 440.9 kB | Line-by-line glosses of attacker shell histories, scripts and AI-agent transcri… |
-| 2026-10-21 03:35:37 | [bazaar-core](https://pypi.org/project/bazaar-core/) | 0.3.0rc1 |  | 53.1 kB | The Bazaar Compute Node Core |
-| 2026-10-21 03:36:30 | [comma-command](https://pypi.org/project/comma-command/) | 0.2.0 | hak <by3hak@users.noreply.git… | 34.0 kB | Run any configured command from any shell as `name, args` — register once, invo… |
-| 2026-10-21 03:39:48 | [secure-repo](https://pypi.org/project/secure-repo/) | 1.3.1 | Wissen01720 | 658.9 kB | Repository security auditor with a hacker-style CLI and a neural-map GUI: stati… |
-| 2026-10-21 03:40:57 | [bazaar-contrib-audit](https://pypi.org/project/bazaar-contrib-audit/) | 0.3.0rc1 |  | 13.6 kB | Complete agent execution events and their publisher |
-| 2026-10-21 03:41:59 | [bazaar-contrib-config](https://pypi.org/project/bazaar-contrib-config/) | 0.3.0rc1 |  | 25.7 kB | The Bazaar Compute Node Config Contrib |
-| 2026-10-21 03:43:17 | [bazaar-contrib-harness](https://pypi.org/project/bazaar-contrib-harness/) | 0.3.0rc1 |  | 19.2 kB | Public harness execution contracts and provider registration |
-| 2026-10-21 03:46:46 | [pyursa](https://pypi.org/project/pyursa/) | 1.0.0 | The pyursa authors | 279.0 kB | Engine-agnostic dataframes for agentic AI: strict types, identical results on P… |
-| 2026-10-21 03:48:14 | [bazaar-contrib-invoke](https://pypi.org/project/bazaar-contrib-invoke/) | 0.3.0rc1 |  | 19.2 kB | The Bazaar Compute Node Command Contrib |
-| 2026-10-21 03:49:17 | [bazaar-contrib-logging](https://pypi.org/project/bazaar-contrib-logging/) | 0.3.0rc1 |  | 17.7 kB | The Bazaar Compute Node Logging Contrib |
-| 2026-10-21 03:50:26 | [bazaar-contrib-sidecar](https://pypi.org/project/bazaar-contrib-sidecar/) | 0.3.0rc1 |  | 22.4 kB | Transport-independent sidecar contracts and Context handlers |
-| 2026-10-21 03:50:35 | [drivine](https://pypi.org/project/drivine/) | 0.1.0 | Liberation Data | 795.4 kB | Graph database client for Python: Neo4j, Memgraph, FalkorDB, Neptune and Oracle. |
-| 2026-10-21 03:51:24 | [bazaar-contrib-status](https://pypi.org/project/bazaar-contrib-status/) | 0.3.0rc1 |  | 12.7 kB | The Bazaar Compute Node Status Contrib |
-| 2026-10-21 03:52:33 | [bazaar-contrib-storage](https://pypi.org/project/bazaar-contrib-storage/) | 0.3.0rc1 |  | 21.7 kB | Shared explicit storage contracts and backend selection |
-| 2026-10-21 03:53:35 | [mainframe-mocker](https://pypi.org/project/mainframe-mocker/) | 0.1.1 | Ben Goldsmith | 205.7 kB | Build mock IBM mainframe terminal applications (TN3270 and TN5250) and test ter… |
-| 2026-10-21 03:54:06 | [bazaar-contrib-timer](https://pypi.org/project/bazaar-contrib-timer/) | 0.3.0rc1 |  | 12.9 kB | Provider-independent timer contracts |
-| 2026-10-21 03:55:06 | [bazaar-contrib-config-filesystem](https://pypi.org/project/bazaar-contrib-config-filesystem/) | 0.3.0rc1 |  | 16.0 kB | The Bazaar Compute Node Config Filesystem Contrib |
-| 2026-10-21 03:59:55 | [sk-datafort](https://pypi.org/project/sk-datafort/) | 0.1.0 | Santiago <santiago@tuemail.co… | 8.2 kB | Escudo de seguridad para aplicaciones con datos masivos frente a filtraciones y… |
-| 2026-10-21 04:06:02 | [veqen](https://pypi.org/project/veqen/) | 0.1.0 |  | 10.0 kB | Official Python client for the Veqen signup-check API: disposable emails, datac… |
-| 2026-10-21 04:06:07 | [bazaar-contrib-config-versions](https://pypi.org/project/bazaar-contrib-config-versions/) | 0.3.0rc1 |  | 23.7 kB | The Bazaar Compute Node Config Versions Contrib |
-| 2026-10-21 04:06:59 | [bazaar-contrib-node-management](https://pypi.org/project/bazaar-contrib-node-management/) | 0.3.0rc1 |  | 12.9 kB | The Bazaar Compute Node Management Contrib |
-| 2026-10-21 04:08:24 | [bazaar-contrib-manager](https://pypi.org/project/bazaar-contrib-manager/) | 0.3.0rc1 |  | 71.2 kB | The Bazaar Compute Node Manager Contrib |
-| 2026-10-21 04:09:25 | [bazaar-contrib-sidecar-unix](https://pypi.org/project/bazaar-contrib-sidecar-unix/) | 0.3.0rc1 |  | 16.7 kB | Native Unix transport for Bazaar sidecar |
-| 2026-10-21 04:10:35 | [tensor-ee](https://pypi.org/project/tensor-ee/) | 0.1.0 | Noel Ivan Ulloa | 616.9 kB | Experimental building blocks for running pretrained PyTorch models natively in… |
-| 2026-10-21 04:10:39 | [bazaar-contrib-sidecar-windows](https://pypi.org/project/bazaar-contrib-sidecar-windows/) | 0.3.0rc1 |  | 17.1 kB | Native Windows transport for Bazaar sidecar |
-| 2026-10-21 04:11:46 | [bazaar-contrib-schema](https://pypi.org/project/bazaar-contrib-schema/) | 0.3.0rc1 |  | 19.9 kB | Module schema registration and versioned migrations |
-| 2026-10-21 04:12:42 | [bazaar-contrib-sqlite](https://pypi.org/project/bazaar-contrib-sqlite/) | 0.3.0rc1 |  | 43.0 kB | SQLite implementation of the shared storage contract |
-| 2026-10-21 04:13:49 | [bazaar-contrib-channel](https://pypi.org/project/bazaar-contrib-channel/) | 0.3.0rc1 |  | 26.1 kB | Public channel communication contracts and provider registration |
-| 2026-10-21 04:15:26 | [bazaar-contrib-timer-wheel](https://pypi.org/project/bazaar-contrib-timer-wheel/) | 0.3.0rc1 |  | 17.8 kB | Shared hierarchical timing wheel |
-| 2026-10-21 04:16:38 | [bazaar-contrib-legacy-node-migrations](https://pypi.org/project/bazaar-contrib-legacy-node-migrations/) | 0.3.0rc1 |  | 39.7 kB | Published Node 1–32 historical database upgrades |
-| 2026-10-21 04:17:04 | [bazaar-contrib-messages](https://pypi.org/project/bazaar-contrib-messages/) | 0.3.0rc1 |  | 35.1 kB | Public message, conversation and service contracts |
-| 2026-10-21 04:18:26 | [novusai](https://pypi.org/project/novusai/) | 0.1.0 | NovusAI | 112.3 kB | NovusAI 推理服务官方 Python SDK——自有协议 /api/chat 主体，零第三方依赖 |
+| 2026-10-21 04:18:44 | [bazaar-contrib-collaboration](https://pypi.org/project/bazaar-contrib-collaboration/) | 0.3.0rc1 |  | 23.8 kB | Conversation admission, review and identity association services |
+| 2026-10-21 04:19:45 | [bazaar-contrib-messages-node](https://pypi.org/project/bazaar-contrib-messages-node/) | 0.3.0rc1 |  | 133.5 kB | Message history, delivery and conversation services |
+| 2026-10-21 04:19:49 | [trinary19683](https://pypi.org/project/trinary19683/) | 2.6.0 | q1z2q3 <q1z2q3@126.com> | 67.9 kB | 三元九维19683认知体系：可复算、可证伪、可演化的确定性符号认知层（19683卦 + 证伪 + 元认知 + 多Agent） |
+| 2026-10-21 04:20:19 | [verified-net](https://pypi.org/project/verified-net/) | 1.0.0 | Verified.net | 12.3 kB | Official Python client for the Verified.net email, phone, carrier and IP verifi… |
+| 2026-10-21 04:20:50 | [bazaar-contrib-reminder](https://pypi.org/project/bazaar-contrib-reminder/) | 0.3.0rc1 |  | 76.8 kB | Persistent reminders, recurrence and agent wake scheduling |
+| 2026-10-21 04:23:35 | [telmoni](https://pypi.org/project/telmoni/) | 0.1.0 | Kendrick Lawton | 115.3 kB | Python SDK for Telmoni: an agent's runs, steps, model calls and tool calls as O… |
+| 2026-10-21 04:23:49 | [bazaar-contrib-agent](https://pypi.org/project/bazaar-contrib-agent/) | 0.3.0rc1 |  | 79.5 kB | Agent configuration, instances and local composition |
+| 2026-10-21 04:24:17 | [bazaar-contrib-agent-command](https://pypi.org/project/bazaar-contrib-agent-command/) | 0.3.0rc1 |  | 26.2 kB | Agent configuration and local conversation-review commands |
+| 2026-10-21 04:29:56 | [fast-question](https://pypi.org/project/fast-question/) | 0.1.0 |  | 63.3 kB | fast-question PC client: local MCP proxy, prompt hook and draft linter for a re… |
+| 2026-10-21 04:40:01 | [depthpro-mlx](https://pypi.org/project/depthpro-mlx/) | 0.2.1 | Nguyễn Đình Toàn <ntoan199@gm… | 100.0 kB | Apple Depth Pro (sharp monocular metric depth) on MLX: one photo to 3D, dolly z… |
+| 2026-10-21 04:40:57 | [paycascade-sdk](https://pypi.org/project/paycascade-sdk/) | 0.1.2 | BitBerry Labs | 16.2 kB | Customer-side cache and access middleware for the PayCascade hosted billing-sta… |
+| 2026-10-21 04:41:03 | [nuqta-ocr](https://pypi.org/project/nuqta-ocr/) | 0.1.0 | Salah AlHaismawi, Mohamed Sal… | 41.3 kB | Nuqta OCR: accurate Arabic document OCR with faithful tashkeel (open 0.8B and 4… |
+| 2026-10-21 04:51:49 | [vn-finance-mentor](https://pypi.org/project/vn-finance-mentor/) | 0.2.0 | vn-finance-mentor contributors | 2.4 MB | Vietnam and US market data, research signals, and paper monitoring |
+| 2026-10-21 04:52:01 | [aimarket-oracle-lumen](https://pypi.org/project/aimarket-oracle-lumen/) | 0.1.0 |  | 23.4 kB | Lumen — reputation / trust scoring (EigenTrust / PageRank) oracle on oracle-core |
+| 2026-10-21 04:53:38 | [nascent](https://pypi.org/project/nascent/) | 0.1.0 | qwertyquerty | 15.0 MB | Bindings for the Nascent difficulty calculator, chart loader, and core judgemen… |
+| 2026-10-21 04:55:22 | [chenpi](https://pypi.org/project/chenpi/) | 0.1.0 | Lizz | 81.9 kB | Read DS/3DS capture boards (Loopy DS, Optimize Old 3DS) as OpenCV/numpy images… |
+| 2026-10-21 04:56:09 | [mipyre](https://pypi.org/project/mipyre/) | 1.0.0 |  | 10.0 MB | High-performance Python web framework powered by Rust — 2x faster than Robyn |
+| 2026-10-21 04:57:08 | [smart-drive-os](https://pypi.org/project/smart-drive-os/) | 1.4.2 | DuongNAD <smartdrive.os@proto… | 1.2 MB | Organize a drive without breaking your coding agents and IDEs: move folders and… |
+| 2026-10-21 04:59:13 | [graspkit-atomic](https://pypi.org/project/graspkit-atomic/) | 3.4.1 | "Yi (Yenoch) Qin" <yenochqin@… | 215.7 kB | Stable data I/O, processing, and plotting for GRASP calculations |
+| 2026-10-21 05:00:06 | [heavyhex-qft](https://pypi.org/project/heavyhex-qft/) | 0.2.1 |  | 1.6 MB | Quantum field theory on heavy-hex lattices. |
+| 2026-10-21 05:01:56 | [mulebot](https://pypi.org/project/mulebot/) | 0.1.0 | John Friedman | 199.5 kB | A simple chatbot for Datamule's APIs |
+| 2026-10-21 05:05:07 | [triple-s-survey](https://pypi.org/project/triple-s-survey/) | 0.2.1 |  | 3.6 MB |  |
+| 2026-10-21 05:07:41 | [basic-nn-lib](https://pypi.org/project/basic-nn-lib/) | 0.1.0 | YH kim <kimyhjava@gmail.com> | 2.5 kB | basic_nn_lib |
+| 2026-10-21 05:08:36 | [pagelight](https://pypi.org/project/pagelight/) | 0.2.0 |  | 5.8 MB | Ask your PDFs anything, completely offline. |
+| 2026-10-21 05:12:20 | [perfume-mcp](https://pypi.org/project/perfume-mcp/) | 2.4.0 | 10ML Team <contact@10ml.com> | 13.7 kB | Perfume MCP server: free fragrance knowledge for Claude, Cursor and any MCP cli… |
+| 2026-10-21 05:12:31 | [perfume-api](https://pypi.org/project/perfume-api/) | 2.4.0 | 10ML Team <contact@10ml.com> | 21.1 kB | Free perfume API client: perfumes, note pyramids, accords, similar scents, note… |
+| 2026-10-21 05:13:05 | [logplane](https://pypi.org/project/logplane/) | 0.13.0 | deki | 469.7 kB | A local control plane for AI agents, built on an append-only event log |
+| 2026-10-21 05:17:02 | [whyempty](https://pypi.org/project/whyempty/) | 0.1.0 | Giovanny Torres | 43.1 kB | Explain where Python filters remove your records. |
