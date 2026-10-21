@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T14:59:06Z,weir-run,0.1.0,,Apache-2.0,99676,"Canary runner for weir canary judge: plants fake canaries, runs a program's flows against a loopback mock, judges the captured telemetry"
+2026-10-21T15:13:45Z,edison-parser,0.2,Alex Prengère <alex.prengere@gmail.com>,MIT,37618,An EDIFACT parser with a real syntax tree.
+2026-10-21T15:19:39Z,cliff-python,0.2.0,CLIFF contributors,MIT,132335,"Official Python parser, serializer, validator and converter for CLIFF 1.0 / 1.1 (import name: cliff_format)"
+2026-10-21T15:23:09Z,journey-test-helloshell,0.2.0,Luiz,,4123,Connectivity helper for the Journey test environment
+2026-10-21T15:25:00Z,quackd-moss,0.22.0,Rok Benko,Apache-2.0,129949,The MOSS litter-picking rover adapter for quackd. Install it as quackd[moss].
+2026-10-21T15:25:56Z,pyphers,0.1.0,J.T. Baker,,13853,cli tool to generate PheRS scores for a cohort of interest
+2026-10-21T15:26:27Z,imbi-workflows,2.38.0,"""Gavin M. Roy"" <gavinr@aweber.com>",BSD-3-Clause,60087,Imbi workflow engine
+2026-10-21T15:31:55Z,simplibs-markdown,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,285491,"Markdown built from nodes: a tree of named, validated Python objects that writes escaped, well-formed Markdown — headings, lists, tables, code, links, alerts and more — with structured errors instead…"
+2026-10-21T15:36:28Z,vapoursynth-bore,1.0.1,noizuy <daoko@protonmail.com>,GPL-3.0,6451402,Border fixing
+2026-10-21T15:39:48Z,ouro-tui-themes,0.3.6,,MIT,32512,Optional OURO welcome styles and shared dot-matrix rendering engine.
+2026-10-21T15:44:28Z,openvlclip,0.5.0,kotadymo,Apache-2.0,119268,OpenCLIP-inspired image and text inference with EmbeddingGemma 2
+2026-10-21T15:46:08Z,torchbelief,0.2.0,Antonin Sulc,MIT,79628,"Differentiable belief functions (Dempster-Shafer, Yager, TBM, Dubois-Prade, ...) and decision rules in PyTorch"
+2026-10-21T15:47:49Z,abhinav-textlib,0.1.1,,,9477,
+2026-10-21T15:49:48Z,simple-skill-manager,0.1.0,Tom Janus,MIT,46032,Manager of opencode Agent Skills: keeps them in a private folder and links or copies the ones a project needs.
+2026-10-21T15:55:40Z,leansearch,0.1.0,Carlo Moro <cnmoro@gmail.com>,MIT,41740,Embedded full-text and vector search in one library (LeanText + LeanVec).
+2026-10-21T15:58:27Z,lobole,0.1.0,,AGPL-3.0-or-later,311226,"Drive a running Loböle CAD instance: JSON-RPC client, SDK and MCP server"
+2026-10-21T16:04:12Z,plumb-rdf,0.1.0,Gabe Fierro,BSD-3-Clause,5216157,"Author RDF building models (Brick, 223P, WATR) as plain typed Python"
+2026-10-21T16:05:24Z,ripplet,0.1.0.0,Mehmet Emin Madanoglu,FSL-1.1-ALv2,1338807,"A precise, local code graph for coding agents: who calls what, what breaks, which tests to run - over MCP, CLI and a web UI"
+2026-10-21T16:05:28Z,cerberus-scanner,1.0.7,Zakaria Bigane,MIT,71879,Scanner d'API REST/GraphQL pour failles BOLA et BFLA (OWASP API1/BFLA) — outil éducatif pour laboratoires sécurisés.
+2026-10-21T16:06:08Z,trasee,0.1.0,senseone,MIT,57188,Execution-trace canvas for pydantic-ai agents: zero-instrumentation tool tracing + full per-turn prompts + read-only DAG canvas + JSONL replay
+2026-10-21T16:06:46Z,zuurstof,0.1.0,"""Matthew P. Humphreys"" <mvdh7@users.noreply.github.com>",,66614,Dissolved oxygen data processing in Python
+2026-10-21T16:07:08Z,bad-ass-mcp,1.4.0,Michael Behan,MIT,733294,"Cross-platform desktop GUI automation MCP — accessibility tree first, vision as last resort"
+2026-10-21T16:08:26Z,automotive,0.5.0a1,,MIT,5766947,"Async CAN, ISO-TP, and UDS powered by the automotive Rust crate"
+2026-10-21T16:09:27Z,keepup-gateway,0.6.0,,,76347,"One way in for the application's services: a route table, a proxy, a balancer and the sign-in at the edge."
+2026-10-21T16:10:11Z,tenko-plugin-repeater,0.1.1,,GPL-3.0-only,19352,Tenko 复读机：群友复读时偶尔跟一句，偶尔打断一下
+2026-10-21T16:10:14Z,tenko-plugin-example,0.1.0,,GPL-3.0-only,17339,Tenko 第三方插件示例与模板
+2026-10-21T16:10:54Z,wirehouse,0.3.1,Carlos Reyes <github-.boaster602@passmail.com>,MIT,949204,"Walk through your codebase's architecture as a 3D warehouse: trace requests, take guided tours and share it all as one offline HTML file. Built for your agents."
+2026-10-21T16:11:07Z,xray-tools,0.1.0,Alexey Matveev,MIT,18149,Pure Python library for Xray-core configuration
+2026-10-21T16:11:27Z,xcausal,0.8.0,Mansour T. A. Sharabiani,MIT,271318,Cross-framework causal-ML ensembles for ATE and CATE with full-pipeline bootstrap inference
+2026-10-21T16:12:52Z,agent-browser-bridge,3.0.0,Shanewas Ahmed <shanewasahmed@gmail.com>,MIT,244064,"Let AI agents drive the browser tabs you already have open, by element reference, over MCP, a CLI, or Python."
+2026-10-21T16:12:55Z,midge-security,0.2.0,Ayush Kumar <ayushkumar23092@gmail.com>,MIT,207330,Midge — fine-tuned model decisions and guards for prompts and agent actions.
+2026-10-21T16:15:33Z,secretops,0.1.0,feist,Apache-2.0,135343,A CLI-first broker for approved secret operations without exposing values to coding agents
+2026-10-21T16:15:40Z,langchain-comment-scraper,0.1.0,Super Lede <hello@comment-scraper.com>,MIT,27152,"LangChain document loader for Reddit and Hacker News threads exported with Comment Scraper. Reads local JSON files, makes no network requests."
+2026-10-21T16:19:26Z,hunayn,0.1.1,Ramal Rahimov,GPL-3.0-or-later,110490,Command-line companion and quality checker for GNOME translators
