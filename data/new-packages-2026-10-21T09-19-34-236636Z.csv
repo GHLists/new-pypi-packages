@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T07:08:42Z,odoo-addon-website-project-task-code,18.0.1.0.1.2,"DixmitAvanzOSC, Tecnativa, Odoo Community Association (OCA)",AGPL-3,20268,Show task code in project task creation in website
+2026-10-21T08:19:49Z,pyoxipng-ng,10.0.0,"Nick Frasser <nfrasser@users.noreply.github.com>, Leiser Fernánde Gallo <leiserfg@users.noreply.git…",,15091040,Python wrapper for multithreaded .png image file optimizer oxipng
+2026-10-21T08:19:52Z,fleetml,0.6.0,FleetML Maintainers <hello@fleetml.dev>,Apache-2.0,34220,"Python client for FleetML: push models, run and watch rollouts, A/B experiments and drift checks on a FleetML server."
+2026-10-21T08:20:27Z,accelerated-quant,0.0.1,Will Hill,Apache-2.0,2630,GPU and AI accelerated quant finance engine for the Accelerated Options and Accelerated Portfolios books
+2026-10-21T08:22:07Z,pretix-vrpayment-wero,1.0.0,pretix Team <support@pretix.eu>,pretix Enterprise,64118,"Accept WERO payments through VR Payment, the payment service provider of Volksbanken Raiffeisenbanken."
+2026-10-21T08:22:18Z,rocksdb-dedup,0.1.2,Dedup Team,MIT,35843,基于 RocksDB 与布隆过滤器的高性能去重服务 Python 客户端
+2026-10-21T08:24:41Z,capwx,0.1.0,Ali Fani <alifani1377@gmail.com>,Apache-2.0,396394,"Python server for the Cap CAPTCHA widget: HashWX proof-of-work, instrumentation, Django/Ninja integration"
+2026-10-21T08:25:52Z,mihomo-cli,0.1.0,jakoes-wu,MIT,169684,"A command-line Clash-style client for Linux servers, powered by the mihomo kernel"
+2026-10-21T08:28:52Z,bcm-cilib,0.0.0a0,NVIDIA,,986,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-21T08:28:56Z,bcm-forge,0.0.0a0,NVIDIA,,986,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-21T08:28:59Z,bcm-mcp-tools,0.0.0a0,NVIDIA,,1015,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-21T08:29:02Z,cloud-cleanup,0.0.0a0,NVIDIA,,1016,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-21T08:29:28Z,mineru-parser,0.1.0,代码与咖啡渍 <14042413+jackafx@user.noreply.gitee.com>,MIT,575300,"One-call MinerU document parsing: submit, wait, download and extract"
+2026-10-21T08:31:27Z,foresprint,0.8.0,Sebastian Wallat,EUPL-1.2,999437,Velocity and capacity forecast for Scrum teams with Git as the data store
+2026-10-21T08:31:40Z,rustgzip,0.5.2,,MIT,1805202,Rust gzip streams for Python 3.4+
+2026-10-21T08:32:03Z,mmcif-io,0.1.0,fuyu-myk,MIT OR Apache-2.0,8814238,"Correctness-first mmCIF, BinaryCIF and PDB structure IO with typed numbering"
+2026-10-21T08:32:42Z,chemfacts,0.5.0,CL4Y68,MIT,75620,"Provenance-first chemical fact verification: query PubChem, cross-check sources, never fabricate. Export auditable, citable fact cards."
+2026-10-21T08:32:56Z,soscitea,0.1.0,,Apache-2.0,253500,"Take a seat in the soscitea fair with your own agent, or with the plain agent this package brings."
+2026-10-21T08:34:58Z,agentkey-sdk,0.1.0,,,27273,"Official Python SDK for AgentKey: email inboxes, zero-token OTP extraction, and verifiable agent identity"
+2026-10-21T08:37:09Z,odoo-addon-hr-attendance-geolocation-required,17.0.1.0.0.2,"Odoo Community Association (OCA),Grupo Isonor",LGPL-3,27574,This module makes geolocation mandatory for check-in/check-out
+2026-10-21T08:37:51Z,dev-task-scheduler,1.0.0,,MIT,368054,轻量、可靠、可观测的本地定时任务调度框架
+2026-10-21T08:40:43Z,yapper-bot,0.1.0,,MIT,93492,Python bot framework and typed client for the Yapper Bot API
+2026-10-21T08:40:51Z,colook,1.1.3,gotadijo <gotadijo@gmail.com>,MIT,7230679,"Basic terminal printing: colors, RGB, styles, formatting, and encrypted printing."
+2026-10-21T08:41:19Z,super-market,0.1.0,Super Market API,Apache-2.0,688411,"Programmatic access to the Super Market prediction-market platform: browse markets, read orderbooks, place and cancel orders, track positions and P&L, and manage tournament-scoped trading."
+2026-10-21T08:42:41Z,sourceorrery,0.1.1,James Melvin <james@melvin.tech>,MIT OR Apache-2.0,12429719,"Read secrets from a SourceOrrery vault: secrets belong to the runtime, not the repository"
+2026-10-21T08:43:11Z,odoo-project,0.1.dev0,Dmitry Voronin <dimka665@gmail.com>,,4745,Object models for Odoo module and Odoo project
+2026-10-21T08:45:27Z,app-store-scraper-reliable,0.1.0,RT Solutions,MIT,14031,"Maintained drop-in replacement for app-store-scraper: App Store reviews that work again on modern Python, same AppStore(...).review() API, optional reliable backend."
+2026-10-21T08:54:13Z,lorebox,0.2.0,lorebox contributors,MIT,51959,"Private, offline document search and Q&A for your own notes"
+2026-10-21T08:55:18Z,veil-proxy,0.1.1,,,140731,"Privacy middleware for AI coding agents: the model sees consistent pseudonyms, your machine keeps the real values"
+2026-10-21T08:55:45Z,polydeukes-sdk,0.19.1,Polydeukes contributors,MIT,16270,Call the Polydeukes covenant and memory commands from Python
+2026-10-21T08:56:00Z,oryxdb,0.2.0,Lajat,MIT,4319816,"An HNSW vector database built from scratch in C++20: SIMD search, filtered search, recall monitoring, crash-safe storage"
+2026-10-21T08:56:19Z,aiaa-eda-tools,0.1.0,,,9324,AI Academy Asia: EDA хийх туслах функцууд
+2026-10-21T08:59:35Z,sawvant,1.1.2,Sawvant,Apache-2.0,125670,Python SDK for the Sawvant cutting optimization API
+2026-10-21T09:00:35Z,av-drift-detector,0.2.1,,MIT,4741306,"Measure audio/video sync to a fraction of a millisecond, frame by frame"
+2026-10-21T09:01:56Z,oxylus-utils,0.0.1,Thomas Baquet <thomas@oxylus.app>,GPL-3.0-or-later,143004,Django and python utilities.
+2026-10-21T09:02:32Z,weirling-rank,0.1.0,Weirling Authors,MIT,26345,Explainable personalized recommendation ranker for feeds and reading digests
+2026-10-21T09:06:21Z,tuff-rl,0.1.0,TalexDreamSoul,MIT,478313,"Training logs as TensorBoard event files, and a live board that follows them"
+2026-10-21T09:07:27Z,agentbuild,0.0.1,trducng,,49672,Tools to make agent research easier.
+2026-10-21T09:09:53Z,sanalert-mcp,1.0.1,"""Applied AI sp. z o.o."" <kontakt@appliedai.dev>",MIT,88666,"SanAlert's level for a place in Poland, for AI assistants, worked out on your own computer (an MCP server over stdio)."
+2026-10-21T09:14:33Z,openverify-relay,0.1.1,,,142470,OpenVerify DRAFT Relay runtime and Python compatibility API
+2026-10-21T09:17:59Z,pythia-mysql,0.1.0,,MIT,174598,"pythia for MySQL: stored-program development for AI agents over pythia-core - catalog queries, impact analysis and an approved write path."

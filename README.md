@@ -8,54 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 08:19 UTC
+## Latest list — 2026-10-21 09:19 UTC
 
-New packages created between 2026-10-21 07:19 UTC and 2026-10-21 08:19 UTC.
+New packages created between 2026-10-21 08:19 UTC and 2026-10-21 09:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-21T08-19-14-308228Z.csv)
+[Full CSV](data/new-packages-2026-10-21T09-19-34-236636Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-21 07:19:49 | [splent-feature-academic-profile](https://pypi.org/project/splent-feature-academic-profile/) | 0.1.0 |  | 48.0 kB |  |
-| 2026-10-21 07:20:12 | [factguard](https://pypi.org/project/factguard/) | 0.1.1 | Shivam Singh | 49.1 kB | Keep LLM-written text free of numbers your code didn't compute: fact placeholde… |
-| 2026-10-21 07:21:04 | [retractordb](https://pypi.org/project/retractordb/) | 0.1.12 | Michal Widera | 10.2 MB | RetractorDB stream engine embedded in Python, with stream windows exported to N… |
-| 2026-10-21 07:21:10 | [lica-tables](https://pypi.org/project/lica-tables/) | 0.1.0 | Rafael González | 12.5 kB | LICA tables interface and default implementation |
-| 2026-10-21 07:21:45 | [basic-crypt](https://pypi.org/project/basic-crypt/) | 1.5.3 | simendi | 178.0 kB | Basic crypto primitives |
-| 2026-10-21 07:22:34 | [splent-feature-identities](https://pypi.org/project/splent-feature-identities/) | 0.1.0 |  | 60.1 kB |  |
-| 2026-10-21 07:24:20 | [dbhop](https://pypi.org/project/dbhop/) | 0.1.0 | Ari Rismansyah | 186.0 kB | Move data between SQL databases, Parquet files and S3: chunked exports, typed i… |
-| 2026-10-21 07:25:45 | [splent-feature-orcid](https://pypi.org/project/splent-feature-orcid/) | 0.1.0 |  | 68.7 kB |  |
-| 2026-10-21 07:28:11 | [joinwhy](https://pypi.org/project/joinwhy/) | 0.1.1 | giovannyTorres | 31.9 kB | Explain and validate pandas joins before materializing them |
-| 2026-10-21 07:28:25 | [untanglepy](https://pypi.org/project/untanglepy/) | 0.1.0 | giovannyTorres | 31.4 kB | Explicit rules and row provenance for irregular pandas tables |
-| 2026-10-21 07:28:34 | [cellwalk](https://pypi.org/project/cellwalk/) | 0.1.0 | giovannyTorres | 31.4 kB | Reconstruct irregular spreadsheet tables with explicit spatial cell relationshi… |
-| 2026-10-21 07:28:37 | [splent-feature-github](https://pypi.org/project/splent-feature-github/) | 0.1.0 |  | 61.8 kB |  |
-| 2026-10-21 07:31:04 | [nabularpy](https://pypi.org/project/nabularpy/) | 0.1.0 | giovannyTorres | 30.6 kB | Structured missing-data patterns, shadow matrices and segment comparisons |
-| 2026-10-21 07:31:06 | [framebond](https://pypi.org/project/framebond/) | 0.1.0 | giovannyTorres | 36.5 kB | Validate primary keys, references and relationship integrity across pandas Data… |
-| 2026-10-21 07:32:11 | [unmimic](https://pypi.org/project/unmimic/) | 0.1.0 | Jayraj Tiwari | 89.3 kB | Model-agnostic middleware that protects LLMs served over an OpenAI-compatible A… |
-| 2026-10-21 07:36:00 | [locaith](https://pypi.org/project/locaith/) | 1.1.0 | Locaith | 19.4 kB | Python SDK for Locaith-4-flash: web search, reasoning, 64K context and Bio-Memo… |
-| 2026-10-21 07:37:35 | [lta-api-py](https://pypi.org/project/lta-api-py/) | 0.2.0 | Muhammad Rayhan <rayhan11.080… | 32.2 kB | A Python wrapper for the LTA DataMall public transport API |
-| 2026-10-21 07:37:53 | [vitalwatch](https://pypi.org/project/vitalwatch/) | 0.1.1 | CestnyTR | 96.4 kB | VitalWatch Hub için Python raporlayıcı — sunucu hataları, yavaş istekler, canlı… |
-| 2026-10-21 07:40:07 | [aetervie](https://pypi.org/project/aetervie/) | 1.0.0 | Nguyen Truong Tho | 18.2 kB | Aetervie Enterprise CLI & Project Scaffolder |
-| 2026-10-21 07:40:10 | [aetervie_cli](https://pypi.org/project/aetervie_cli/) | 1.0.0 | Nguyen Truong Tho | 18.3 kB | Aetervie Enterprise CLI & Project Scaffolder |
-| 2026-10-21 07:42:00 | [omnirl-framework](https://pypi.org/project/omnirl-framework/) | 0.1.0 | Huang Chenbiao <a1057951125@g… | 173.6 kB | A distributed reinforcement learning framework. |
-| 2026-10-21 07:45:23 | [dotly](https://pypi.org/project/dotly/) | 0.1.1 | Joel Ortiz | 61.6 kB | SDK oficial de Python para la API de Dotly: WhatsApp, CRM, catálogo, webhooks y… |
-| 2026-10-21 07:46:13 | [pixtreme-infer](https://pypi.org/project/pixtreme-infer/) | 0.14.4 | minamik <mia@sync.dev> | 83.4 kB | Inference companion for pixtreme: architecture-independent inference contracts… |
-| 2026-10-21 07:46:38 | [logo-tools](https://pypi.org/project/logo-tools/) | 0.1.0 |  | 1.1 MB |  |
-| 2026-10-21 07:48:03 | [abfactor](https://pypi.org/project/abfactor/) | 0.5.1 | Thomas Kealy | 108.7 kB | Bayesian A/B testing models with Bayes factors: informed priors, default (Roude… |
-| 2026-10-21 07:48:20 | [chipnum](https://pypi.org/project/chipnum/) | 0.3.0 | yjjc1 <88436924+yjjc1@users.n… | 67.9 kB | Extract, normalise and classify semiconductor part numbers from free text. |
-| 2026-10-21 07:49:53 | [totara-mcp](https://pypi.org/project/totara-mcp/) | 0.1.0 | Naveed Masood Butt | 23.1 kB | MCP server that wraps Totara external GraphQL (list courses, create user, enrol… |
-| 2026-10-21 07:54:57 | [bazhuayu-dataapp](https://pypi.org/project/bazhuayu-dataapp/) | 0.0.1 | Bazhuayu DataHub Team | 57.0 kB | Developer SDK for building Bazhuayu DataHub Data Apps: read input, push records… |
-| 2026-10-21 07:54:59 | [muster-bridge](https://pypi.org/project/muster-bridge/) | 0.1.0 | The Muster Authors | 144.7 kB | Serve Muster's Bridge protocol, so that a bridge to a messenger is only the cal… |
-| 2026-10-21 07:59:28 | [contradiction-judge](https://pypi.org/project/contradiction-judge/) | 0.1.0 | hao li <haoli5933@gmail.com> | 24.5 kB | Semantic contradiction detection for AI memory systems |
-| 2026-10-21 07:59:43 | [tool-result-size-governor](https://pypi.org/project/tool-result-size-governor/) | 1.0.0 | TextForAgents LLC | 26.8 kB | Client-side tool-result size governor for MCP: per-route output budgets, struct… |
-| 2026-10-21 08:00:21 | [bash-write-targets](https://pypi.org/project/bash-write-targets/) | 0.1.0 | hao li | 19.4 kB | Statically list the file-write targets of a bash command (redirects, tee, -o fl… |
-| 2026-10-21 08:01:14 | [script-chain-walk](https://pypi.org/project/script-chain-walk/) | 0.1.0 | hao li | 22.4 kB | Trace cross-file script call chains: build a dependency graph of shell/Python s… |
-| 2026-10-21 08:02:07 | [tool-throttle](https://pypi.org/project/tool-throttle/) | 0.1.0 | hao li | 23.3 kB | MCP tool-call throttling: token-bucket rate limits per tool name, a fuse agains… |
-| 2026-10-21 08:05:08 | [bashboy](https://pypi.org/project/bashboy/) | 0.1.0 | Mann10 <82712171+Mann10@users… | 66.8 kB | Classify shell commands as allow or deny before an agent runs them. |
-| 2026-10-21 08:06:42 | [devcrew](https://pypi.org/project/devcrew/) | 0.1.0 | Vasu Agrawal | 22.1 kB | An AI software team in a pipeline: four agents plan, code, test and review a pr… |
-| 2026-10-21 08:07:31 | [saddlefit](https://pypi.org/project/saddlefit/) | 0.1.0 | padobrik | 192.0 kB | A self-improving harness that fits itself to your compact local model |
-| 2026-10-21 08:09:10 | [sdory-dora](https://pypi.org/project/sdory-dora/) | 1.0.0 | VANTiX Labs | 37.4 kB | Sparse Latent-Recurrent Decomposed Architecture for Zero-Forgetting, Ultra-Low… |
-| 2026-10-21 08:11:01 | [rustgzip-uos](https://pypi.org/project/rustgzip-uos/) | 0.5.2 |  | 1.8 MB | Rust gzip streams for Python 3.4+ |
-| 2026-10-21 08:12:48 | [atabet-terminal](https://pypi.org/project/atabet-terminal/) | 0.1.0 | ATABET LIMITED | 8.6 MB | Atabet Terminal: browser-based financial terminal for the Atabet Quant Intellig… |
-| 2026-10-21 08:16:09 | [scrapy-feedexporter-onedrive](https://pypi.org/project/scrapy-feedexporter-onedrive/) | 0.1.0 | Scrapy developers | 12.4 kB | Scrapy Feed Exporter Storage Backend to export items to Microsoft OneDrive |
-| 2026-10-21 08:17:10 | [django-spec-html](https://pypi.org/project/django-spec-html/) | 0.1.0 | Artur Veres <artur8118@gmail.… | 242.2 kB | A django-service-specs spec as a server-rendered page, HTML first and htmx-capa… |
-| 2026-10-21 08:18:58 | [scrapy-feedexporter-google-drive](https://pypi.org/project/scrapy-feedexporter-google-drive/) | 0.1.0 | Scrapy developers | 12.2 kB | Scrapy feed export storage backend for Google Drive |
+| 2026-10-21 07:08:42 | [odoo-addon-website-project-task-code](https://pypi.org/project/odoo-addon-website-project-task-code/) | 18.0.1.0.1.2 | DixmitAvanzOSC, Tecnativa, Od… | 20.3 kB | Show task code in project task creation in website |
+| 2026-10-21 08:19:49 | [pyoxipng-ng](https://pypi.org/project/pyoxipng-ng/) | 10.0.0 | Nick Frasser <nfrasser@users.… | 15.1 MB | Python wrapper for multithreaded .png image file optimizer oxipng |
+| 2026-10-21 08:19:52 | [fleetml](https://pypi.org/project/fleetml/) | 0.6.0 | FleetML Maintainers <hello@fl… | 34.2 kB | Python client for FleetML: push models, run and watch rollouts, A/B experiments… |
+| 2026-10-21 08:20:27 | [accelerated-quant](https://pypi.org/project/accelerated-quant/) | 0.0.1 | Will Hill | 2.6 kB | GPU and AI accelerated quant finance engine for the Accelerated Options and Acc… |
+| 2026-10-21 08:22:07 | [pretix-vrpayment-wero](https://pypi.org/project/pretix-vrpayment-wero/) | 1.0.0 | pretix Team <support@pretix.e… | 64.1 kB | Accept WERO payments through VR Payment, the payment service provider of Volksb… |
+| 2026-10-21 08:22:18 | [rocksdb-dedup](https://pypi.org/project/rocksdb-dedup/) | 0.1.2 | Dedup Team | 35.8 kB | 基于 RocksDB 与布隆过滤器的高性能去重服务 Python 客户端 |
+| 2026-10-21 08:24:41 | [capwx](https://pypi.org/project/capwx/) | 0.1.0 | Ali Fani <alifani1377@gmail.c… | 396.4 kB | Python server for the Cap CAPTCHA widget: HashWX proof-of-work, instrumentation… |
+| 2026-10-21 08:25:52 | [mihomo-cli](https://pypi.org/project/mihomo-cli/) | 0.1.0 | jakoes-wu | 169.7 kB | A command-line Clash-style client for Linux servers, powered by the mihomo kern… |
+| 2026-10-21 08:28:52 | [bcm-cilib](https://pypi.org/project/bcm-cilib/) | 0.0.0a0 | NVIDIA | 986 B | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-10-21 08:28:56 | [bcm-forge](https://pypi.org/project/bcm-forge/) | 0.0.0a0 | NVIDIA | 986 B | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-10-21 08:28:59 | [bcm-mcp-tools](https://pypi.org/project/bcm-mcp-tools/) | 0.0.0a0 | NVIDIA | 1.0 kB | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-10-21 08:29:02 | [cloud-cleanup](https://pypi.org/project/cloud-cleanup/) | 0.0.0a0 | NVIDIA | 1.0 kB | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-10-21 08:29:28 | [mineru-parser](https://pypi.org/project/mineru-parser/) | 0.1.0 | 代码与咖啡渍 <14042413+jackafx@user… | 575.3 kB | One-call MinerU document parsing: submit, wait, download and extract |
+| 2026-10-21 08:31:27 | [foresprint](https://pypi.org/project/foresprint/) | 0.8.0 | Sebastian Wallat | 999.4 kB | Velocity and capacity forecast for Scrum teams with Git as the data store |
+| 2026-10-21 08:31:40 | [rustgzip](https://pypi.org/project/rustgzip/) | 0.5.2 |  | 1.8 MB | Rust gzip streams for Python 3.4+ |
+| 2026-10-21 08:32:03 | [mmcif-io](https://pypi.org/project/mmcif-io/) | 0.1.0 | fuyu-myk | 8.8 MB | Correctness-first mmCIF, BinaryCIF and PDB structure IO with typed numbering |
+| 2026-10-21 08:32:42 | [chemfacts](https://pypi.org/project/chemfacts/) | 0.5.0 | CL4Y68 | 75.6 kB | Provenance-first chemical fact verification: query PubChem, cross-check sources… |
+| 2026-10-21 08:32:56 | [soscitea](https://pypi.org/project/soscitea/) | 0.1.0 |  | 253.5 kB | Take a seat in the soscitea fair with your own agent, or with the plain agent t… |
+| 2026-10-21 08:34:58 | [agentkey-sdk](https://pypi.org/project/agentkey-sdk/) | 0.1.0 |  | 27.3 kB | Official Python SDK for AgentKey: email inboxes, zero-token OTP extraction, and… |
+| 2026-10-21 08:37:09 | [odoo-addon-hr-attendance-geolocation-required](https://pypi.org/project/odoo-addon-hr-attendance-geolocation-required/) | 17.0.1.0.0.2 | Odoo Community Association (O… | 27.6 kB | This module makes geolocation mandatory for check-in/check-out |
+| 2026-10-21 08:37:51 | [dev-task-scheduler](https://pypi.org/project/dev-task-scheduler/) | 1.0.0 |  | 368.1 kB | 轻量、可靠、可观测的本地定时任务调度框架 |
+| 2026-10-21 08:40:43 | [yapper-bot](https://pypi.org/project/yapper-bot/) | 0.1.0 |  | 93.5 kB | Python bot framework and typed client for the Yapper Bot API |
+| 2026-10-21 08:40:51 | [colook](https://pypi.org/project/colook/) | 1.1.3 | gotadijo <gotadijo@gmail.com> | 7.2 MB | Basic terminal printing: colors, RGB, styles, formatting, and encrypted printin… |
+| 2026-10-21 08:41:19 | [super-market](https://pypi.org/project/super-market/) | 0.1.0 | Super Market API | 688.4 kB | Programmatic access to the Super Market prediction-market platform: browse mark… |
+| 2026-10-21 08:42:41 | [sourceorrery](https://pypi.org/project/sourceorrery/) | 0.1.1 | James Melvin <james@melvin.te… | 12.4 MB | Read secrets from a SourceOrrery vault: secrets belong to the runtime, not the… |
+| 2026-10-21 08:43:11 | [odoo-project](https://pypi.org/project/odoo-project/) | 0.1.dev0 | Dmitry Voronin <dimka665@gmai… | 4.7 kB | Object models for Odoo module and Odoo project |
+| 2026-10-21 08:45:27 | [app-store-scraper-reliable](https://pypi.org/project/app-store-scraper-reliable/) | 0.1.0 | RT Solutions | 14.0 kB | Maintained drop-in replacement for app-store-scraper: App Store reviews that wo… |
+| 2026-10-21 08:54:13 | [lorebox](https://pypi.org/project/lorebox/) | 0.2.0 | lorebox contributors | 52.0 kB | Private, offline document search and Q&A for your own notes |
+| 2026-10-21 08:55:18 | [veil-proxy](https://pypi.org/project/veil-proxy/) | 0.1.1 |  | 140.7 kB | Privacy middleware for AI coding agents: the model sees consistent pseudonyms,… |
+| 2026-10-21 08:55:45 | [polydeukes-sdk](https://pypi.org/project/polydeukes-sdk/) | 0.19.1 | Polydeukes contributors | 16.3 kB | Call the Polydeukes covenant and memory commands from Python |
+| 2026-10-21 08:56:00 | [oryxdb](https://pypi.org/project/oryxdb/) | 0.2.0 | Lajat | 4.3 MB | An HNSW vector database built from scratch in C++20: SIMD search, filtered sear… |
+| 2026-10-21 08:56:19 | [aiaa-eda-tools](https://pypi.org/project/aiaa-eda-tools/) | 0.1.0 |  | 9.3 kB | AI Academy Asia: EDA хийх туслах функцууд |
+| 2026-10-21 08:59:35 | [sawvant](https://pypi.org/project/sawvant/) | 1.1.2 | Sawvant | 125.7 kB | Python SDK for the Sawvant cutting optimization API |
+| 2026-10-21 09:00:35 | [av-drift-detector](https://pypi.org/project/av-drift-detector/) | 0.2.1 |  | 4.7 MB | Measure audio/video sync to a fraction of a millisecond, frame by frame |
+| 2026-10-21 09:01:56 | [oxylus-utils](https://pypi.org/project/oxylus-utils/) | 0.0.1 | Thomas Baquet <thomas@oxylus.… | 143.0 kB | Django and python utilities. |
+| 2026-10-21 09:02:32 | [weirling-rank](https://pypi.org/project/weirling-rank/) | 0.1.0 | Weirling Authors | 26.3 kB | Explainable personalized recommendation ranker for feeds and reading digests |
+| 2026-10-21 09:06:21 | [tuff-rl](https://pypi.org/project/tuff-rl/) | 0.1.0 | TalexDreamSoul | 478.3 kB | Training logs as TensorBoard event files, and a live board that follows them |
+| 2026-10-21 09:07:27 | [agentbuild](https://pypi.org/project/agentbuild/) | 0.0.1 | trducng | 49.7 kB | Tools to make agent research easier. |
+| 2026-10-21 09:09:53 | [sanalert-mcp](https://pypi.org/project/sanalert-mcp/) | 1.0.1 | "Applied AI sp. z o.o." <kont… | 88.7 kB | SanAlert's level for a place in Poland, for AI assistants, worked out on your o… |
+| 2026-10-21 09:14:33 | [openverify-relay](https://pypi.org/project/openverify-relay/) | 0.1.1 |  | 142.5 kB | OpenVerify DRAFT Relay runtime and Python compatibility API |
+| 2026-10-21 09:17:59 | [pythia-mysql](https://pypi.org/project/pythia-mysql/) | 0.1.0 |  | 174.6 kB | pythia for MySQL: stored-program development for AI agents over pythia-core - c… |
