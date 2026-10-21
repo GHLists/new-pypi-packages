@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T11:23:22Z,fireargs,0.1.0,Evgeny Karev,MIT,61982,Build CLIs from pydantic models
+2026-10-21T11:23:58Z,grace-runtime-rocm7,0.0.0.dev0,"ICAMS, Ruhr-Universität Bochum",LicenseRef-ASL,1526,AMD GPU backend (ROCm 7) of grace-runtime (placeholder)
+2026-10-21T11:24:34Z,python-cofi,0.0.1,Simon Kohaut,,26772,A Python package for Bayesian estimation of agents that follow a constitution.
+2026-10-21T11:27:11Z,dmf-bytes,0.1.0,dmf,MIT,5241,将字节数转换成易读的文件大小
+2026-10-21T11:27:23Z,tuff-bird,0.1.1,TalexDreamSoul,MIT,478570,"Training logs as TensorBoard event files, and a live board that follows them"
+2026-10-21T11:27:57Z,mote_error,0.1.0,"Jonathan Bourne, Mwiza Simbeye",,332297,"MOTe error (Missing, Overlap, Trespass, and Excess) for Document Layout Analysis, and the Character Error Vector for page-level OCR"
+2026-10-21T11:29:59Z,audiotensor,0.1.0,Chin-Yun Yu <chin-yun.yu@qmul.ac.uk>,MIT,21169,A torch.Tensor subclass that tracks the hop length of frame-based audio features.
+2026-10-21T11:30:42Z,agentqakit,0.1.0a0,AgentQAKit contributors,Apache-2.0,865239,Fault-injection and regression testing for AI agents
+2026-10-21T11:30:53Z,cad3d-ir,0.2.0,neka-nat,MIT,151655,Typed intermediate representation for 3D CAD product data
+2026-10-21T11:30:55Z,cad3d-ir-step,0.2.0,neka-nat,MIT,72008,STEP and IGES importers for cad3d-ir through Open CASCADE XDE
+2026-10-21T11:32:33Z,ppocrv6-onnx-naf,0.1.0,alex (https://github.com/AIwork4me),MIT,183647,Pure ONNX Runtime implementation of PP-OCRv6 text detection & recognition
+2026-10-21T11:33:18Z,bitexoft-verify,0.2.0,Bitexoft,Proprietary,74782,Verifica las entregas de los proyectos de Bitexoft: la misma herramienta en tu máquina y en CI.
+2026-10-21T11:33:23Z,scrich,1.0.0,Federico Bocci,MIT,158400,Robust identification of cell-cell communication heterogeneity in single cells (scRICH).
+2026-10-21T11:34:47Z,datasetseek,0.1.0,,,3931321,DatasetSeek 官方 Python SDK
+2026-10-21T11:37:13Z,graftmula,26.10.22,Alex Lev <alexlev61@proton.me>,Apache-2.0,6510890,HeartCodec RVQ token-level style transfer
+2026-10-21T11:37:49Z,blinkwell,0.1.1,,MIT,84204,"On-device eye-fatigue monitor — periodic camera windows, baseline, breaks"
+2026-10-21T11:37:51Z,cphtech-app-monitor,0.1.0,,LicenseRef-Proprietary,63382,"Tiny, dependency-free error-monitoring SDK for the App Monitor collector — Python services, ASGI apps, workers and CLIs."
+2026-10-21T11:37:57Z,pestel,0.1.0,Satya Prakash Nayak,MIT,5098295,Permissive winning strategy templates for two-player games with (generalized) parity objectives
+2026-10-21T11:41:07Z,vsub-cli,0.1.1,vsub contributors,MIT,65568,给视频自动生成字幕并翻译：本地 faster-whisper 识别 + 可插拔翻译后端（Ollama / OpenAI 兼容 / DeepL / Gemini）
+2026-10-21T11:42:56Z,evoontology-explorer,0.1.0,Lukasz Wardzala,"MIT License Copyright (c) 2026 Lukasz Wardzala Permission is hereby granted, free of charge, to any…",377314,"Server-backed explorer for EvoOntology workspaces: the ontology layer explorer page, loading versions, terms and evidence on demand."
+2026-10-21T11:43:21Z,elastic-pipes-core,0.8.0,Domenico Andreoli <domenico.andreoli@elastic.co>,Apache-2.0,65516,A lightweight composition system
+2026-10-21T11:44:01Z,corobots-async-sdk,1.1.0,"""Coredge.io"" <ashok@coredge.io>",Apache-2.0,218417,"asyncio Python SDK for CoRobots — client and step worker, GIL-free on free-threaded CPython"
+2026-10-21T11:46:18Z,iroh-tinker,0.1.1,Research Team,MIT OR Apache-2.0,243884,"Distributed training framework using iroh for 100k+ node scale across PyTorch, JAX, Taichi and more"
+2026-10-21T11:46:44Z,agentic-postgres-cli,1.21.0,,Apache-2.0,63782,The customer command-line client for Agentic Postgres (apg).
+2026-10-21T11:47:06Z,shortsmash,0.3.0,ShortSmash,MIT,7445332,"Prompt in. Viral short out. AI video studio: script, voice, stock, edit, captions, and official-API publishing to YouTube, TikTok, Instagram and X."
+2026-10-21T11:47:41Z,identity-fingerprint,0.2.0,Melbin Martin <melbinmartinmm@gmail.com>,"MIT License Copyright (c) 2026 Melbin Martin Permission is hereby granted, free of charge, to any p…",26556,Deterministic Customer Identity (CID) generation for Customer 360 and MDM.
+2026-10-21T11:49:11Z,jax-linear-attention,0.1.0,"KarLex AI, Inc.",Apache-2.0,5993654,"A JAX LLM training template with Pallas Mosaic GPU kernels for linear attention, state-space models and softmax attention on NVIDIA Hopper"
+2026-10-21T11:53:35Z,aiaa-eda-tools-team-4,0.1.1,,,9625,AI Academy Asia: EDA хийх туслах функцууд
+2026-10-21T11:53:49Z,harmonica-amt,0.1.0,Zion Huang,,139008641,A reproduction of Harmonica: Accurate and Lightweight Instrument-Agnostic Music Transcription
+2026-10-21T11:57:45Z,factguard-check,0.2.1,Anirudh Nadipally,MIT,51792,"Catch LLMs inventing or misattributing numbers when they write from data. Deterministic, no LLM judge."
+2026-10-21T11:59:17Z,optimum-onnx-naf,0.1.1,"""HuggingFace Inc. Special Ops Team"" <hardware@huggingface.co>, John Mäkelä <john.makela@kansallisar…",Apache-2.0,368417,Optimum ONNX is an interface between the Hugging Face libraries and ONNX / ONNX Runtime
+2026-10-21T12:01:11Z,shoply,0.1.0,Shoply,MIT,199482,"Shoply's API from your own server: every route as a method, safe retries, pages, and checking webhooks."
+2026-10-21T12:01:58Z,pico-uart,0.0.0.dev39596311668,,,31766,"Host HID API, CLI, and Flask diagnostics dashboard for PicoUart"
+2026-10-21T12:02:47Z,questkit,0.4.0,Peter Åslund,MIT,303818,"File-based quest tracking: Markdown + YAML frontmatter tickets, for humans and agents."
+2026-10-21T12:03:47Z,nexus-snakemake-utils,0.2.0,,,49428,Shared workflow infrastructure and image-cache commands for Snakemake 8.14
+2026-10-21T12:04:28Z,pylinxi,1.0.0,,MIT,95188,"Durable, self-healing agent flows as plain Python. Zero dependencies."
+2026-10-21T12:04:44Z,webextract-sdk,0.1.0,"TAINCHENG, L.L.C.",MIT,22436,"Thin client for the WebExtract API: web page to clean Markdown + fixed-schema JSON for AI agents. Prepaid key, free tier, or pay per call with x402."
+2026-10-21T12:05:06Z,langchain-webextract,0.1.0,"TAINCHENG, L.L.C.",MIT,13273,"LangChain tools for WebExtract: extract_url (Markdown + product/price/tables JSON) and page_markdown. Pay per call with x402, prepaid key, or free tier."
+2026-10-21T12:05:37Z,syncmill,0.2.0,"""DAPADA Inc. and syncmill contributors"" <contact@dapada.co.kr>",Apache-2.0,2447858,Multi-agent orchestration with shared memory — grind tasks through competing and collaborating AI agents
+2026-10-21T12:10:17Z,qls-verified-esign,2026.10.21,QLS quality solutions AB,MIT,76645,"Python SDK for the Verified (verified.eu) eSign API: envelopes, documents, recipients, signing."
+2026-10-21T12:16:57Z,cosmo-synthesis,0.1.0,Satya Prakash Nayak,MIT,4104340,Assumption and strategy templates as contracted strategy masks for two-objective parity games
