@@ -8,36 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 01:18 UTC
+## Latest list — 2026-10-21 02:19 UTC
 
-New packages created between 2026-10-21 00:19 UTC and 2026-10-21 01:18 UTC.
+New packages created between 2026-10-21 01:18 UTC and 2026-10-21 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-21T01-18-54-479345Z.csv)
+[Full CSV](data/new-packages-2026-10-21T02-19-18-053877Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-21 00:19:21 | [mirror-mirror-on-the-wall](https://pypi.org/project/mirror-mirror-on-the-wall/) | 1.2.0 | Sam Morgan | 2.3 MB | Mirror APT repositories, PyPI and VS Code for airgapped networks — exact upstre… |
-| 2026-10-21 00:25:29 | [gingertea](https://pypi.org/project/gingertea/) | 0.1.1 | OrbitCord | 115.4 kB | Download and convert videos from YouTube and 1,300+ other sites in your termina… |
-| 2026-10-21 00:26:11 | [bytetrunc](https://pypi.org/project/bytetrunc/) | 1.0.0 | Javier Lianes <javier@lianes8… | 83.4 kB | Truncate a string to a maximum number of UTF-8 bytes on a safe character or gra… |
-| 2026-10-21 00:26:28 | [weblinking](https://pypi.org/project/weblinking/) | 1.0.0 | Javier Lianes <javier@lianes8… | 87.4 kB | Parse, validate, resolve and build the HTTP Link header (RFC 8288, RFC 8187), t… |
-| 2026-10-21 00:26:44 | [timingheader](https://pypi.org/project/timingheader/) | 1.0.0 | Javier Lianes <javier@lianes8… | 106.3 kB | Build, parse and validate the HTTP Server-Timing header the way browsers read i… |
-| 2026-10-21 00:26:59 | [urlsyntax](https://pypi.org/project/urlsyntax/) | 0.2.1 | Javier Lianes <javier@lianes8… | 46.7 kB | Syntax-only http and https URL validation, parsing, normalization and resolutio… |
-| 2026-10-21 00:30:01 | [hmailserver-cli](https://pypi.org/project/hmailserver-cli/) | 6.3.7 | Christopher Holloway / Progre… | 111.0 kB | hmctl: administer an hMailServer over its REST API from a command line |
-| 2026-10-21 00:35:09 | [rumorph](https://pypi.org/project/rumorph/) | 0.1.0 | Шкарин Сергей <kouki.sergey@g… | 39.9 MB | Fast Russian morphological analyzer written in Rust with a Python API |
-| 2026-10-21 00:37:41 | [povcut](https://pypi.org/project/povcut/) | 0.1.0 | POVCut contributors | 63.5 kB | Turn Ray-Ban Meta footage into viral shorts with one command |
-| 2026-10-21 00:37:48 | [creator-publish](https://pypi.org/project/creator-publish/) | 0.1.0 | Creator Publish contributors | 38.2 kB | Official-API publishing and scheduling for creator tools (YouTube, TikTok, Inst… |
-| 2026-10-21 00:42:07 | [pylondonair](https://pypi.org/project/pylondonair/) | 0.1.0 | Michael Kelly <pylondonair@mi… | 30.4 kB | Async Python client for the London Air (Imperial College London) air-quality API |
-| 2026-10-21 00:45:07 | [tikra](https://pypi.org/project/tikra/) | 1.0.0 | Matheus Mota | 10.9 MB | TikZ and pgfplots figures to SVG and PNG, without a TeX install. Math labels ty… |
-| 2026-10-21 00:48:47 | [btech-logger](https://pypi.org/project/btech-logger/) | 1.0.0 | blahhaha253 | 10.2 kB | A lightweight Python logger with configurable levels and exception handling |
-| 2026-10-21 00:49:19 | [vibeedit](https://pypi.org/project/vibeedit/) | 0.2.0b2 | Attention Engine Inc. | 38.7 MB | VibeEdit-owned video composition, motion, rendering, and verification library. |
-| 2026-10-21 00:56:23 | [beets-lrc](https://pypi.org/project/beets-lrc/) | 0.1.0 | Mikie | 10.1 kB | Write .lrc sidecars from lyrics fetched by the lyrics plugin. |
-| 2026-10-21 01:02:41 | [minimindslab-tag-normalize](https://pypi.org/project/minimindslab-tag-normalize/) | 0.1.0 | MiniMindsLab | 7.7 kB | Normalize comma-separated tag strings into a deterministic unique list or canon… |
-| 2026-10-21 01:03:02 | [minimindslab-shell-quote](https://pypi.org/project/minimindslab-shell-quote/) | 0.1.0 | MiniMindsLab | 6.6 kB | Deterministically escape and unescape POSIX shell arguments and command lines f… |
-| 2026-10-21 01:03:23 | [minimindslab-semver-range](https://pypi.org/project/minimindslab-semver-range/) | 0.1.0 | MiniMindsLab | 7.7 kB | Parse and evaluate simple semantic version ranges against version strings witho… |
-| 2026-10-21 01:03:41 | [worldbuilder](https://pypi.org/project/worldbuilder/) | 1.0.0 | siwpan | 53.4 kB | 程序化生成工具包：噪声/地牢/洞穴/地形生物群系/城镇/命名/掉落（纯 Python + numpy） |
-| 2026-10-21 01:06:08 | [allisall](https://pypi.org/project/allisall/) | 0.0.0 |  | 10.2 kB | Python SDK for the allisall API. Placeholder: the first release is 0.1.0. |
-| 2026-10-21 01:06:55 | [allisai](https://pypi.org/project/allisai/) | 0.0.0 |  | 10.2 kB | Reserved name. The allisall Python SDK is published as 'allisall'. |
-| 2026-10-21 01:07:26 | [iridopy](https://pypi.org/project/iridopy/) | 0.0.1 |  | 3.3 kB | Eye-tracking data analysis toolkit |
-| 2026-10-21 01:11:48 | [aggmetrics](https://pypi.org/project/aggmetrics/) | 0.1.0.dev0 | "Ronaldo C. Prati" <ronaldo.p… | 72.2 kB | Aggregating classification performance measures for machine learning: indicator… |
-| 2026-10-21 01:14:47 | [emailvet](https://pypi.org/project/emailvet/) | 0.1.0 | Emailvet | 21.2 kB | Provider-aware email address canonicalization. |
-| 2026-10-21 01:14:55 | [pyre-starlette](https://pypi.org/project/pyre-starlette/) | 1.0.0 | 且听风吟、我是指针*、ZDLAY、KYZ | 256.4 kB | 基于 Starlette 的异步 Web 框架：控制器路由、参数注入、依赖注入、统一响应、OpenAPI 与代码生成 |
+| 2026-10-21 01:19:19 | [hpak](https://pypi.org/project/hpak/) | 0.1.0 | Hardpoint Core Technologies <… | 2.6 kB | High-performance packaging and workflow metadata utilities. |
+| 2026-10-21 01:22:05 | [proximant](https://pypi.org/project/proximant/) | 0.0.1 | Bijective Systems <james@bije… | 3.4 kB | Surrogate models from solver, test and sweep runs. Delivered by Bijective Syste… |
+| 2026-10-21 01:23:20 | [screenbuffer](https://pypi.org/project/screenbuffer/) | 1.0.0 |  | 50.3 kB | A Python utility for managing dynamic output, tracking progress, and organizing… |
+| 2026-10-21 01:24:39 | [astromesh-rag](https://pypi.org/project/astromesh-rag/) | 0.1.0 | Juan Carlos Romero <jc@fulfar… | 128.2 kB | Composable RAG pipelines for AI agents: splitters, embedders, vector and keywor… |
+| 2026-10-21 01:29:57 | [magmacrunch-threes](https://pypi.org/project/magmacrunch-threes/) | 0.2.0 | magmacrunch media | 48.6 kB | THREES - slide, merge, survive. Terminal version. |
+| 2026-10-21 01:33:25 | [bap-ltd](https://pypi.org/project/bap-ltd/) | 1.3.5 | BAP Security Architecture Team | 63.9 MB | Bounded Authority Plane (BAP) - Zero-Trust Local Trusted Daemon & Governance fo… |
+| 2026-10-21 01:38:49 | [kdpika-licensing](https://pypi.org/project/kdpika-licensing/) | 1.1.5 | KDPika <hi@kdpika.com> | 133.3 kB | KDPika Licensing Python SDK |
+| 2026-10-21 01:39:23 | [lulalib](https://pypi.org/project/lulalib/) | 0.1.0 | red | 57.5 kB |  |
+| 2026-10-21 01:41:00 | [021-python-observability](https://pypi.org/project/021-python-observability/) | 0.3.0 |  | 64.4 kB | OpenTelemetry metrics, traces and safe JSON logs for FastAPI services |
+| 2026-10-21 01:47:57 | [fa-quant](https://pypi.org/project/fa-quant/) | 1.2.1 | "Bicheng (Kenneth)" <31808103… | 392.1 kB | Risk-managed systematic ETF trading, statistical validation, and financial rese… |
+| 2026-10-21 01:48:31 | [migcheck](https://pypi.org/project/migcheck/) | 0.1.2 | Cole Michaels | 63.8 kB | Checks that a release's database migrations don't break the release running in… |
+| 2026-10-21 01:49:44 | [pinakel-auth](https://pypi.org/project/pinakel-auth/) | 0.0.0 | Pinakel | 2.8 kB | Name reserved by Pinakel. The real package is not published on PyPI. |
+| 2026-10-21 01:50:32 | [astromesh-context](https://pypi.org/project/astromesh-context/) | 0.1.0 | Juan Carlos Romero <jc@fulfar… | 232.7 kB | A context-window engine for AI agents: scored selection under a token budget, c… |
+| 2026-10-21 01:55:20 | [alibi-guard](https://pypi.org/project/alibi-guard/) | 1.0.0 | Luca Szyszkowski | 1.1 MB | Judges whether endpoint-security alerts from AI coding agents were justified by… |
+| 2026-10-21 01:57:32 | [amazon-auth](https://pypi.org/project/amazon-auth/) | 0.0.1 | Alex Laird <contact@alexlaird… | 5.1 kB | Amazon sign-in and session handling, being extracted from amazon-orders. Not re… |
+| 2026-10-21 02:05:17 | [geneticevo](https://pypi.org/project/geneticevo/) | 0.1.0a1 |  | 117.4 kB | Reproducible evolutionary experiments with optional independent lifetime learni… |
+| 2026-10-21 02:05:44 | [codex-team](https://pypi.org/project/codex-team/) | 0.1.0 | PixPool | 34.9 kB | Orchestrate local Codex agents with tmux, Git submodules, and persistent task q… |
+| 2026-10-21 02:08:42 | [hubradar](https://pypi.org/project/hubradar/) | 0.1.0 |  | 3.4 MB | Evidence-backed repository distillation and domain radar for developers. |
+| 2026-10-21 02:10:33 | [contextfetch-haystack](https://pypi.org/project/contextfetch-haystack/) | 0.1.0 | ContextFetch | 25.0 kB | Haystack integration for the ContextFetch web search and Markdown API |
+| 2026-10-21 02:13:39 | [lgc-toolkit](https://pypi.org/project/lgc-toolkit/) | 0.1.0 | Ricardo Licona Muñoz, Pierre… | 89.9 kB | Local Geometric Consistency (LGC) for cross-subject EEG transfer learning: Riem… |
+| 2026-10-21 02:14:28 | [clip-harness](https://pypi.org/project/clip-harness/) | 0.3.0 | Ali Al Dallal | 338.0 kB | A human-in-the-loop execution bridge: run AI-chat-proposed commands from your c… |
+| 2026-10-21 02:14:53 | [jupyter-storage-explorer-polars-support](https://pypi.org/project/jupyter-storage-explorer-polars-support/) | 0.14.0 | Tsuyoshi SUGIBUCHI | 13.5 kB | Polars support for Storage Explorer |
+| 2026-10-21 02:14:55 | [jupyter-storage-explorer-pandas-support](https://pypi.org/project/jupyter-storage-explorer-pandas-support/) | 0.14.0 | Tsuyoshi SUGIBUCHI | 11.6 kB | pandas support for Storage Explorer |
+| 2026-10-21 02:14:56 | [jupyter-storage-explorer-abfs-support](https://pypi.org/project/jupyter-storage-explorer-abfs-support/) | 0.14.0 | Tsuyoshi SUGIBUCHI | 17.8 kB | Azure Data Lake Storage support for Storage Explorer |
+| 2026-10-21 02:15:30 | [mwpromise](https://pypi.org/project/mwpromise/) | 0.0.1 |  | 2.9 kB | MW Promise: an append-only, hash-chained, auditable memory engine for AI agents… |
+| 2026-10-21 02:15:44 | [spatialdds-ros](https://pypi.org/project/spatialdds-ros/) | 0.3.0 | Open AR Cloud | 213.2 kB | A ROS 2 robot as a SpatialDDS participant |
+| 2026-10-21 02:18:23 | [tiltmeter](https://pypi.org/project/tiltmeter/) | 0.1.0 | Agustin Torres | 136.5 kB | An early-warning system for the third-party APIs your AI agents depend on: CLI,… |
+| 2026-10-21 02:18:35 | [jupyter-storage-explorer-pyspark-support](https://pypi.org/project/jupyter-storage-explorer-pyspark-support/) | 0.14.0 | Tsuyoshi SUGIBUCHI | 11.2 kB | PySpark support for Storage Explorer |
+| 2026-10-21 02:18:50 | [store-release](https://pypi.org/project/store-release/) | 0.4.0 | Apoorv Darshan | 748.4 kB | Release iOS and Android apps to App Store Connect and Google Play from a git ta… |

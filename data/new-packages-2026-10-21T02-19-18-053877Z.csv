@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T01:19:19Z,hpak,0.1.0,Hardpoint Core Technologies <hello@hardpointcore.com>,,2600,High-performance packaging and workflow metadata utilities.
+2026-10-21T01:22:05Z,proximant,0.0.1,Bijective Systems <james@bijectivesystems.com>,,3383,"Surrogate models from solver, test and sweep runs. Delivered by Bijective Systems as a licensed wheel; this entry holds the name."
+2026-10-21T01:23:20Z,screenbuffer,1.0.0,,,50267,"A Python utility for managing dynamic output, tracking progress, and organizing information throughout data-driven workflows."
+2026-10-21T01:24:39Z,astromesh-rag,0.1.0,Juan Carlos Romero <jc@fulfaro.dev>,Apache-2.0,128197,"Composable RAG pipelines for AI agents: splitters, embedders, vector and keyword indexes, hybrid retrieval, reranking and retrieval patterns, built from a YAML spec."
+2026-10-21T01:29:57Z,magmacrunch-threes,0.2.0,magmacrunch media,PolyForm-Noncommercial-1.0.0,48592,"THREES - slide, merge, survive. Terminal version."
+2026-10-21T01:33:25Z,bap-ltd,1.3.5,BAP Security Architecture Team,Apache-2.0,63861459,Bounded Authority Plane (BAP) - Zero-Trust Local Trusted Daemon & Governance for AI Developer Agents
+2026-10-21T01:38:49Z,kdpika-licensing,1.1.5,KDPika <hi@kdpika.com>,MIT,133332,KDPika Licensing Python SDK
+2026-10-21T01:39:23Z,lulalib,0.1.0,red,GPL-3.0-only,57527,
+2026-10-21T01:41:00Z,021-python-observability,0.3.0,,Apache-2.0,64444,"OpenTelemetry metrics, traces and safe JSON logs for FastAPI services"
+2026-10-21T01:47:57Z,fa-quant,1.2.1,"""Bicheng (Kenneth)"" <31808103+BichengWang@users.noreply.github.com>",MIT,392117,"Risk-managed systematic ETF trading, statistical validation, and financial research"
+2026-10-21T01:48:31Z,migcheck,0.1.2,Cole Michaels,Apache-2.0,63760,Checks that a release's database migrations don't break the release running in production.
+2026-10-21T01:49:44Z,pinakel-auth,0.0.0,Pinakel,,2751,Name reserved by Pinakel. The real package is not published on PyPI.
+2026-10-21T01:50:32Z,astromesh-context,0.1.0,Juan Carlos Romero <jc@fulfaro.dev>,Apache-2.0,232714,"A context-window engine for AI agents: scored selection under a token budget, cache-stable ordering, a decision trace and an eval to measure it."
+2026-10-21T01:55:20Z,alibi-guard,1.0.0,Luca Szyszkowski,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1121538,Judges whether endpoint-security alerts from AI coding agents were justified by the user's request.
+2026-10-21T01:57:32Z,amazon-auth,0.0.1,Alex Laird <contact@alexlaird.com>,MIT,5114,"Amazon sign-in and session handling, being extracted from amazon-orders. Not ready for use yet."
+2026-10-21T02:05:17Z,geneticevo,0.1.0a1,,MIT,117443,Reproducible evolutionary experiments with optional independent lifetime learning
+2026-10-21T02:05:44Z,codex-team,0.1.0,PixPool,,34910,"Orchestrate local Codex agents with tmux, Git submodules, and persistent task queues."
+2026-10-21T02:08:42Z,hubradar,0.1.0,,,3407996,Evidence-backed repository distillation and domain radar for developers.
+2026-10-21T02:10:33Z,contextfetch-haystack,0.1.0,ContextFetch,Apache-2.0,25041,Haystack integration for the ContextFetch web search and Markdown API
+2026-10-21T02:13:39Z,lgc-toolkit,0.1.0,"Ricardo Licona Muñoz, Pierre Guetschel, Juliette Bruin, Efecan Yilmaz, Anne-Marie Brouwer",MIT,89891,"Local Geometric Consistency (LGC) for cross-subject EEG transfer learning: Riemannian aggregation of covariance matrices within recording segments, with unsupervised (RCT + MDM) and calibration-based…"
+2026-10-21T02:14:28Z,clip-harness,0.3.0,Ali Al Dallal,MIT,338032,"A human-in-the-loop execution bridge: run AI-chat-proposed commands from your clipboard, behind a Claude Code-style hook lifecycle with a fail-closed review gate."
+2026-10-21T02:14:53Z,jupyter-storage-explorer-polars-support,0.14.0,Tsuyoshi SUGIBUCHI,MIT,13477,Polars support for Storage Explorer
+2026-10-21T02:14:55Z,jupyter-storage-explorer-pandas-support,0.14.0,Tsuyoshi SUGIBUCHI,MIT,11572,pandas support for Storage Explorer
+2026-10-21T02:14:56Z,jupyter-storage-explorer-abfs-support,0.14.0,Tsuyoshi SUGIBUCHI,MIT,17794,Azure Data Lake Storage support for Storage Explorer
+2026-10-21T02:15:30Z,mwpromise,0.0.1,,AGPL-3.0-only,2902,"MW Promise: an append-only, hash-chained, auditable memory engine for AI agents. Official placeholder; first release coming soon."
+2026-10-21T02:15:44Z,spatialdds-ros,0.3.0,Open AR Cloud,MIT,213247,A ROS 2 robot as a SpatialDDS participant
+2026-10-21T02:18:23Z,tiltmeter,0.1.0,Agustin Torres,MIT,136549,"An early-warning system for the third-party APIs your AI agents depend on: CLI, CI gate and MCP server."
+2026-10-21T02:18:35Z,jupyter-storage-explorer-pyspark-support,0.14.0,Tsuyoshi SUGIBUCHI,MIT,11217,PySpark support for Storage Explorer
+2026-10-21T02:18:50Z,store-release,0.4.0,Apoorv Darshan,MIT,748359,"Release iOS and Android apps to App Store Connect and Google Play from a git tag, with reusable GitHub Actions workflows"

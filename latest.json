@@ -1,55 +1,55 @@
 {
   "list": {
-    "count": 25,
-    "from": "2026-10-21T00:19:45.677429Z",
-    "path": "data/new-packages-2026-10-21T01-18-54-479345Z.csv",
-    "to": "2026-10-21T01:18:54.479345Z"
+    "count": 29,
+    "from": "2026-10-21T01:18:54.479345Z",
+    "path": "data/new-packages-2026-10-21T02-19-18-053877Z.csv",
+    "to": "2026-10-21T02:19:18.053877Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-20T22:48:05Z",
       "package": "debbug",
       "since": "2026-10-20T22:19:54.653273Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-20T22:48:16Z",
       "package": "deebug",
       "since": "2026-10-20T22:19:54.653273Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-20T23:25:39Z",
       "package": "journey-test-hellospy",
       "since": "2026-10-20T23:18:55.25297Z",
       "version": "0.1.1"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-20T23:25:37Z",
       "package": "journey-test-helloworld",
       "since": "2026-10-20T23:18:55.25297Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-20T22:48:26Z",
       "package": "semer",
       "since": "2026-10-20T22:19:54.653273Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-20T22:47:10Z",
       "package": "ssemver",
       "since": "2026-10-20T22:19:54.653273Z",
       "version": "1.0.0"
     }
   ],
-  "serial": 42520550,
+  "serial": 42522099,
   "source_truncated": false,
-  "window": "2026-10-21T01:18:54.479345Z"
+  "window": "2026-10-21T02:19:18.053877Z"
 }
