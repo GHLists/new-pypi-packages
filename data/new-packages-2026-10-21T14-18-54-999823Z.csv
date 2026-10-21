@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T12:49:14Z,odoo-addon-ai-tool-read,16.0.1.0.0.5,"Quartile,Odoo Community Association (OCA)",AGPL-3,44162,"Generic ai_tool to read any model/field, with a per-field opt-out flag"
+2026-10-21T13:22:23Z,vibetrace,0.1.4,,,1045564,VibeTrace: Code Intelligence & Execution Trace MCP
+2026-10-21T13:22:59Z,graphpaper,0.1.0,Anders Lee,MIT,22991,"Printable graph paper, dot grid, lined, isometric, hexagon and music staff paper as exact-size PDF or SVG. No dependencies."
+2026-10-21T13:24:25Z,metalogical,0.1.0,Metalogical,MIT,1892,Core Python package maintained by Metalogical
+2026-10-21T13:27:13Z,sfrd,0.2.0,John Mäkelä <john.makela@kansallisarkisto.fi>,Apache-2.0,132522,Structure from Repeating Documents (SfRD) discovers and/or exploits structure in repeating series of segmented documents to facilitate automated creation of research databases in a semi-supervised (a…
+2026-10-21T13:31:07Z,litellm-brownout,0.1.0,Amir Karimi,MIT,79968,Tiered team budget enforcement and graceful downgrade for a LiteLLM gateway
+2026-10-21T13:32:28Z,parentsquare-client,0.2.4,Joe Beeson,MIT,124334,Unofficial read-only sync and async ParentSquare client
+2026-10-21T13:33:13Z,dlt-parentsquare,0.3.0,Joe Beeson,MIT,137335,dlt resources for the shared ParentSquare client
+2026-10-21T13:33:19Z,pipecat-rtzr,0.1.0,,BSD-2-Clause,30153,RTZR (Return Zero) VITO streaming Korean speech-to-text service for Pipecat
+2026-10-21T13:33:20Z,datarobot-skills-utils,0.1.0,DataRobot,Apache-2.0,31079,"Shared runtime utilities for DataRobot agent skills: opencode server lifecycle, worker invocation, and event-stream parsing."
+2026-10-21T13:35:58Z,superghidra,0.2.0,yuatemycat,Apache-2.0,904271,SuperGhidra: High-Performance Ghidra Architecture & GPU Acceleration Suite
+2026-10-21T13:39:07Z,irp-agents,0.5.0,IRP contributors,MIT,282291,"Build any paper. Prove every claim. One CLI and MCP server that lets your coding agent turn a research paper into working code and prove, claim by claim, how close it gets."
+2026-10-21T13:40:51Z,jevfetch,0.1.1,Deukwoong Woo <deukwoong.woo@a2sys.ai>,MIT,73330,"A web-reading tool for LLM agents that returns the parts of a page relevant to a question, verbatim"
+2026-10-21T13:41:42Z,fortran-nlp-kernels,0.1.0b1,Suwesh Prasad Sah <83471963+suwesh@users.noreply.github.com>,GPL-3.0-only,12299006,Fortran-backed exact lexical and vector similarity kernels for Python
+2026-10-21T13:47:10Z,runcrate-haystack,0.1.0,Aeonmind LLC <hello@runcrate.ai>,MIT,14234,Haystack integration for Runcrate: 200+ open models behind one OpenAI-compatible API
+2026-10-21T13:48:22Z,pro-os-connect-py,0.8.0,Petr Sedlacek <piit@zz9.cz>,MIT,23405,Library to interface with the Donaldson Bofa Pro OS Connect fume extractor controller
+2026-10-21T13:48:40Z,nexum-ai-common,1.0.0,Dioleti <fabricio@dl.tec.br>,MIT,146211,Nexum AI Framework - Common Library Artifact
+2026-10-21T13:50:24Z,duyi-utils-zxr,0.1.3,,,3833,一个用于学习 Python 公共库构建和发布的示例工程
+2026-10-21T13:51:16Z,winnex-nano-math,0.2.4,Winnex Brasil Soluções Empresariais LTDA-ME <pay@winnex.ai>,"Business Source License 1.1 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Rese…",56202,"Structural representation for geometric inference — parser, canonical normalization and non-commutative spectral composition. Preserves composition and order that byte signatures discard."
+2026-10-21T13:51:39Z,invinite-data-api,0.1.0,OpenAPI Generator community,,1252374,Invinite API
+2026-10-21T13:52:13Z,corvus-regex-ecma262,0.1.1,endjin,Apache-2.0,5786088,"ECMA-262 (JavaScript) regular expressions for Python: the grammar and the answers of RegExp, every flag, backed by the corvus-regex-ecma262 Rust crate."
+2026-10-21T13:56:42Z,fun-proteomics,0.5.1,cfarkas,MIT,587533,"Portable PASEF proteomics workflows, verified continuation, and protein/gene differential analysis"
+2026-10-21T13:57:36Z,waterlog-mcp,1.4.0,涵安智行,MIT,64056,涵安智行城市内涝 MCP 服务器：把水位、预警、灾情与避险路线能力包装成 MCP 工具（stdio，零依赖）
+2026-10-21T13:58:46Z,aice-recommendation,0.0.2,"Arnold Opiyo <arnoldopiyo@adanianlabs.io>, Alex Waweru <alexwaweru@aiceafrica.com>, Adanian Labs <e…",MIT,21409,Python SDK for the AICE Recommendation Engine
+2026-10-21T13:59:01Z,spiritboard,0.1.0,,MIT,1486536,"Local, read-only visibility into agent runs and subagents"
+2026-10-21T13:59:10Z,quizforge-cli,0.1.0,kkkkikun,MIT,70197,期末选填题速刷：Word/PDF/TXT → 单文件静态答题网页（规则解析 + LLM 可选兜底）
+2026-10-21T13:59:36Z,antlr4py,0.11.0a1,,BSD-3-Clause AND Unicode-DFS-2016,717114,Python-only ANTLR generator targeting Python recognizers
+2026-10-21T14:00:25Z,felusens,0.0.0a1,"Md Asif Bin Khaled, Md Zakaria Kabir",Apache-2.0,2282,"Reserved name for FeluSenS, a sorting-and-searching research toolkit. Not released yet."
+2026-10-21T14:00:35Z,vizaio-conjure,0.1.0rc1,Joe Beeson,MIT,116279,Developer-friendly VIZIO Conjure URL launcher built on vizaio
+2026-10-21T14:00:43Z,felusens-core,0.0.0a1,"Md Asif Bin Khaled, Md Zakaria Kabir",Apache-2.0,2346,"Reserved name for FeluSenS, a sorting-and-searching research toolkit. Not released yet."
+2026-10-21T14:00:46Z,felusens-data,0.0.0a1,"Md Asif Bin Khaled, Md Zakaria Kabir",Apache-2.0,2344,"Reserved name for FeluSenS, a sorting-and-searching research toolkit. Not released yet."
+2026-10-21T14:00:50Z,felusensbench,0.0.0a1,"Md Asif Bin Khaled, Md Zakaria Kabir",Apache-2.0,2359,"Reserved name for FeluSenSBench, a sorting-and-searching benchmark built on FeluSenS. Not released yet."
+2026-10-21T14:02:28Z,mpm-format,0.2.0,Matteo Proietti Micozzi,MIT,59270,"MPM — Minimal Portable Mapping: un formato tabellare aperto, tipizzato e comprimibile"
+2026-10-21T14:03:15Z,invoice-agent,0.2.1,superintelligenceco contributors,Apache-2.0,136414,"Extract invoice PDFs and run 2-way/3-way matching against purchase orders and receipts, with explainable decisions."
+2026-10-21T14:03:16Z,robo-evals,0.2.1,superintelligenceco contributors,Apache-2.0,538984,Reproducible evaluation harness for robot manipulation policies in MuJoCo simulation.
+2026-10-21T14:03:46Z,pathbreak-audit,0.1.0,Pathbreak <hello@pathbreak.io>,MIT,92876,"See the abusable IAM permissions your principals hold, so you can tighten them before an attacker does. A read-only tool for defenders, from the team behind Pathbreak."
+2026-10-21T14:04:37Z,episodec,0.0.1,chanhyuk-jung,,7045,fast encoding and decoding for robotics data
+2026-10-21T14:09:11Z,quarryserp,0.1.0,Quarry,MIT,30982,Official Python SDK for the Quarry Google search results API
+2026-10-21T14:10:51Z,solidx-sysadm,0.1.0b1,,MIT,165147,An embeddable macOS and Linux system administration agent harness
+2026-10-21T14:13:54Z,statement-etl-ph,0.1.0,statement-etl-ph contributors,MIT,116436,"Read GCash, GoTyme and Grab statements into checked transactions, a CSV, or a Money Manager import."
+2026-10-21T14:15:15Z,norcaster-counterparty,0.1.0,"""Norcaster (Navego AB)"" <security@norcaster.com>",Apache-2.0,236313,"Self-hosted Shared Record counterparty: your own keys and records, receipts and acknowledgements for agent tool calls exchanged with a partner, log witnessing and evidence export. No Norcaster accoun…"
+2026-10-21T14:15:52Z,plesty-kst201,0.1.0,Yunshuang Yuan <yuanyunshuang@gmail.com>,LGPL-3.0-or-later,232257,A plesty kst201 device.
+2026-10-21T14:16:09Z,buchanan-solutions-logkit,0.1.0,Alex Buchanan <alex@buchanansolutions.ca>,MIT,41411,Buchanan Solutions logkit for Python — stdlib phased logging and debug HTTP parity
