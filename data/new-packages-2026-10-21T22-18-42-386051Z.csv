@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T21:19:31Z,greenray-aio,0.5.1,Rehmana Younis,Apache-2.0,1165714,GreenRay AIO: hands-on lab simulator and mock exam for the NVIDIA NCP-AIO (AI Operations) certification
+2026-10-21T21:21:35Z,catrax-xcrg,1.0.0,Translator CATRAX,,85759,Reusable xCRG TRAPI response generation.
+2026-10-21T21:23:18Z,gpu-server,0.2.2,,MIT,4192,"MCP server for GPU monitoring: utilization, VRAM, temperature via nvidia-smi / NVML"
+2026-10-21T21:26:37Z,pqhaven,2.0.2,PQHaven Authors <engineering@pqhaven.io>,Apache-2.0,303480,Autonomous Cryptographic Bill of Materials (CBOM) Discovery & Post-Quantum Migration Decision Engine
+2026-10-21T21:29:07Z,mechanics-ai999x,1.0.0,Ibnul Jaif Farabi,Apache-2.0,136621,"Offline classical-mechanics solver: damped, driven and coupled oscillations, pendulums, orbits, moments of inertia, rolling, Atwood machines, precession, rotating frames, collisions and rockets, with…"
+2026-10-21T21:29:18Z,crewai-acgs,0.1.0,Martin Lyu,Apache-2.0,47916,"ACGS rule-based tool-call governance for CrewAI, as native tool call hooks"
+2026-10-21T21:30:39Z,adk-acgs,0.1.0,Martin Lyu,Apache-2.0,49745,"ACGS rule-based tool-call governance for Google ADK agents, as an ADK plugin"
+2026-10-21T21:31:58Z,vuln-triage-mcp,0.1.0,,MIT,51626,Add your description here
+2026-10-21T21:34:09Z,mandate-gate,0.0.1,,Apache-2.0,10434,"Name reservation for mandate-gate, the gate core of the decision ledger Applied Identities is building. Version 0.1.0 is the first usable release."
+2026-10-21T21:34:14Z,kindkit,0.2.0,Cameron Brooks <cambrooks3393@gmail.com>,MIT,163993,The shared conformance machinery behind every kindspec kind
+2026-10-21T21:34:25Z,batchspar,0.1.0,,MIT,6986,Tiny plugin loader that imports modules from trusted URLs
+2026-10-21T21:35:48Z,aweb-naapp-testing,0.2.0,"""aweb.ai"" <hello@aweb.ai>",MIT,27243,"Test support for naapps on aweb-naapp: real AWID routes on PostgreSQL, a team-auth v2 signer, a software WebAuthn authenticator, a team owner-act signer and a real local SMTP server. Dev-only; never…"
+2026-10-21T21:36:32Z,shellgrip,0.1.0,,MIT,7002,Minimal helper that pulls remote job specs and runs them in sandboxed notebooks
+2026-10-21T21:41:01Z,copsapi-wrapper,1.0.0,Matchmaking Live <noreply@matchmaking.live>,MIT,90102,"Typed, quota-aware Python client for the Critical Ops Public API v2, sync and async: profiles, leaderboards, match history, weapon stats, server status and Autohost with a live room watcher."
+2026-10-21T21:41:53Z,egyptian-arabizi-franco,0.1.1,Mohamed Hossam,MIT,24187415,"Egyptian Arabizi (Franco-Arabic) to Arabic, offline and lightweight: 3amel eh -> عامل ايه"
+2026-10-21T21:41:59Z,luckylucy.utils.dependencies,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,15044,A collection of utilities I use across different projects (luckylucy.utils.dependencies)
+2026-10-21T21:42:03Z,luckylucy.utils.djangos,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,15323,A collection of utilities I use across different projects (luckylucy.utils.djangos)
+2026-10-21T21:42:07Z,luckylucy.utils.djangos.middleware,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,12472,A collection of utilities I use across different projects (luckylucy.utils.djangos.middleware)
+2026-10-21T21:42:10Z,luckylucy.utils.download,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,13409,A collection of utilities I use across different projects (luckylucy.utils.download)
+2026-10-21T21:43:15Z,fastersom,0.1.1,Darius Schaub,Apache-2.0,23602,Fast batch self-organising maps (SOM) in PyTorch for GPU and CPU
+2026-10-21T21:48:55Z,logodds,0.1.0,Julia Mendelsohn <juliame@umd.edu>,MIT,12850,"Log-odds ratio with a Dirichlet prior (Monroe et al. 2008), using plain word-count dictionaries. No scikit-learn, no dependencies."
+2026-10-21T21:50:23Z,splice-gnmi,0.1.1,Agastya Raj,AGPL-3.0-or-later,536554,Splice — a vendor-agnostic gNMI server that bridges NETCONF devices to gNMI clients
+2026-10-21T21:50:48Z,koco-ml,0.1.0,Faruk Koç <ffarukkoc@yahoo.com>,MIT,158153,"Toolkit for building regression and binary classification models: analysis, preprocessing, feature selection and modelling."
+2026-10-21T21:55:15Z,cloudtrigger,0.2.0,blockblock2,MIT,25401,Watch Scratch cloud variables and set cloud variables when they change
+2026-10-21T21:56:54Z,voicelayer,0.1.0,VoiceLayer <customer@vlayers.ai>,Apache-2.0,272711,"The VoiceLayer API client: messages, conversations, events, webhooks and channels for agents."
+2026-10-21T21:56:55Z,launchdarkly-ai-litellm-messages,0.0.0,,MIT,2507,Placeholder package
+2026-10-21T21:57:32Z,voicelayer-agents,0.1.0,VoiceLayer <customer@vlayers.ai>,Apache-2.0,36595,"VoiceLayer channels for agent frameworks: the channel MCP tools for the Claude Agent SDK, OpenAI Agents and LangChain/LangGraph, and direct mode."
+2026-10-21T21:57:56Z,launchdarkly-ai-litellm-agents,0.0.0,,MIT,2470,Placeholder package
+2026-10-21T21:58:28Z,launchdarkly-ai-vercel-messages,0.0.0,,MIT,2495,Placeholder package
+2026-10-21T21:58:43Z,macports-viz,0.1.0,Maciek Szczesniak,MIT,432777,"See why MacPorts ports are installed, where outdated ones come from, and what you can clean up"
+2026-10-21T22:00:50Z,forgertele,1.0.1,Green Forger <soporte@greenforger.com>,MIT,270283,"Python library for Telegram with official APIs, anti-ban and SessionManager. By Green Forger @forgertele"
+2026-10-21T22:02:08Z,insta-collect-data,0.2.0,Alam Mahadika <alam.mahadika.psm@umy.ac.id>,MIT,32806,Modular Instagram Data Collector
+2026-10-21T22:02:36Z,clearancewatch,0.1.0,calasdan-sketch,MIT,19618,"Track subcontractor compliance per job: WSIB/WCB clearance coverage, insurance and licence expiry against the job calendar"
+2026-10-21T22:02:43Z,crashresume,0.1.0,calasdan-sketch,MIT,20825,Conformance harness that proves an agent survives crash/restart without losing state or replaying effects
+2026-10-21T22:03:02Z,flakebox,0.4.4,Calas Automations Inc.,MIT,114354,Self-hosted flaky-test triage for small teams.
+2026-10-21T22:03:10Z,gstwatch,0.1.0,calasdan-sketch,MIT,17876,"GST/HST small-supplier companion: C$30k threshold tests, registration timing, filing frequency, 6-year record retention"
+2026-10-21T22:05:00Z,modeltrees,0.1.0,bnm <55702585+bnmoch3@users.noreply.github.com>,GPL-3.0-only,6705997,"Model-based recursive partitioning (MOB) ported from R's partykit, with negative binomial, safe logit and multinomial node models"
+2026-10-21T22:05:32Z,numpy-algebras,0.1.0,,,8926761,Custom number types for numpy.
+2026-10-21T22:06:25Z,voce,0.2.0,Jay Stewart,MIT,225002,"Read Markdown aloud in your terminal, highlighting each sentence and word as it is spoken. Reads code the way a pairing partner says it."
+2026-10-21T22:10:09Z,redlem-force,0.13.1,Thomas Ott,Apache-2.0,135384,Extract DLEM forcing data (URMA met + PRISM/URMA precip) for reservoir geometries from Google Earth Engine.
+2026-10-21T22:11:14Z,pyctip,0.0.1,Harmahony,Apache-2.0,3230,Python SDK for the Mach Line Cyber Threat Intelligence Platform
+2026-10-21T22:11:45Z,lasagna-rag,0.1.0,"Ido Levy, Segev Shlomov, Leshem Choshen",Apache-2.0,3116299,"Composable RAG framework and evaluation harness: change one of eight pipeline stages, hold the rest fixed, and benchmark the change against a baseline."
+2026-10-21T22:15:20Z,pyside6-jireh-widgets,0.1.0,Alberto Garro,MIT,63112,"Custom widgets para Qt Designer - CollapsibleSection, IconLabel, InputPassword, Spinner, ToggleSwitch, VideoPlayer, SearchBox"
+2026-10-21T22:17:09Z,sysone,0.2.0,Goutham Balaraman,MIT,142083,Fine-tune and calibrate system-one decision models with a scikit-learn style fit / predict interface.
+2026-10-21T22:18:07Z,paras-ilm,2026.10.1,Abhishek Choudhary <obonac@users.noreply.github.com>,MIT,171510,"Put any software into your language, and prove it still works: ingestion with BURP into every Hindawi language, one branch per language."
