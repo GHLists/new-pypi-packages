@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T03:19:49Z,unripe,0.3.0,Tex,MIT,103271,"Fail the build when a locked dependency is younger than you trust. One check for npm, pnpm, yarn, bun, PyPI, Cargo, Go, Composer, RubyGems, NuGet and Gradle lockfiles."
+2026-10-21T03:19:53Z,bugbout,0.1.0,Keerthirajan58 <keerthirajan19122001@gmail.com>,MIT,184956,Find out which coding agent actually fixes bugs in your codebase.
+2026-10-21T03:23:06Z,dahua-nvr-mcp,0.1.0,bigoat,,60340,MCP stdio server for Dahua NVR JSON-RPC APIs
+2026-10-21T03:25:22Z,mechlens,0.1.1,MechLens,Apache-2.0,32549,Record and share mechanistic interpretability experiments
+2026-10-21T03:29:04Z,launchdarkly-ai-opencode-agents,0.0.0,,MIT,2498,Placeholder package
+2026-10-21T03:29:51Z,grass-editor,0.1.0,Mukund Jha,MIT,34777,"A calm, zero-config terminal editor — beautiful by default, hackable in an afternoon."
+2026-10-21T03:33:23Z,interlinear-cti,0.1.0,Diego Parra,Apache-2.0,440878,"Line-by-line glosses of attacker shell histories, scripts and AI-agent transcripts, with every gloss labeled by its source."
+2026-10-21T03:35:37Z,bazaar-core,0.3.0rc1,,Apache-2.0,53105,The Bazaar Compute Node Core
+2026-10-21T03:36:30Z,comma-command,0.2.0,hak <by3hak@users.noreply.github.com>,MIT,34015,"Run any configured command from any shell as `name, args` — register once, invoke everywhere."
+2026-10-21T03:39:48Z,secure-repo,1.3.1,Wissen01720,LicenseRef-SecureRepo-Ethical-Source-Available,658895,"Repository security auditor with a hacker-style CLI and a neural-map GUI: static analysis, secrets, library vulnerabilities, supply chain and optional compliance evidence."
+2026-10-21T03:40:57Z,bazaar-contrib-audit,0.3.0rc1,,Apache-2.0,13559,Complete agent execution events and their publisher
+2026-10-21T03:41:59Z,bazaar-contrib-config,0.3.0rc1,,Apache-2.0,25665,The Bazaar Compute Node Config Contrib
+2026-10-21T03:43:17Z,bazaar-contrib-harness,0.3.0rc1,,Apache-2.0,19227,Public harness execution contracts and provider registration
+2026-10-21T03:46:46Z,pyursa,1.0.0,The pyursa authors,Apache-2.0,279000,"Engine-agnostic dataframes for agentic AI: strict types, identical results on Polars and DuckDB, structured errors, undo, lineage, LLM operators and an MCP server."
+2026-10-21T03:48:14Z,bazaar-contrib-invoke,0.3.0rc1,,Apache-2.0,19220,The Bazaar Compute Node Command Contrib
+2026-10-21T03:49:17Z,bazaar-contrib-logging,0.3.0rc1,,Apache-2.0,17694,The Bazaar Compute Node Logging Contrib
+2026-10-21T03:50:26Z,bazaar-contrib-sidecar,0.3.0rc1,,Apache-2.0,22360,Transport-independent sidecar contracts and Context handlers
+2026-10-21T03:50:35Z,drivine,0.1.0,Liberation Data,Apache-2.0,795386,"Graph database client for Python: Neo4j, Memgraph, FalkorDB, Neptune and Oracle."
+2026-10-21T03:51:24Z,bazaar-contrib-status,0.3.0rc1,,Apache-2.0,12663,The Bazaar Compute Node Status Contrib
+2026-10-21T03:52:33Z,bazaar-contrib-storage,0.3.0rc1,,Apache-2.0,21662,Shared explicit storage contracts and backend selection
+2026-10-21T03:53:35Z,mainframe-mocker,0.1.1,Ben Goldsmith,MIT,205668,Build mock IBM mainframe terminal applications (TN3270 and TN5250) and test terminal clients against them
+2026-10-21T03:54:06Z,bazaar-contrib-timer,0.3.0rc1,,Apache-2.0,12862,Provider-independent timer contracts
+2026-10-21T03:55:06Z,bazaar-contrib-config-filesystem,0.3.0rc1,,Apache-2.0,15952,The Bazaar Compute Node Config Filesystem Contrib
+2026-10-21T03:59:55Z,sk-datafort,0.1.0,Santiago <santiago@tuemail.com>,,8171,Escudo de seguridad para aplicaciones con datos masivos frente a filtraciones y accesos anómalos.
+2026-10-21T04:06:02Z,veqen,0.1.0,,MIT,10020,"Official Python client for the Veqen signup-check API: disposable emails, datacenter IPs, VoIP numbers and more."
+2026-10-21T04:06:07Z,bazaar-contrib-config-versions,0.3.0rc1,,Apache-2.0,23691,The Bazaar Compute Node Config Versions Contrib
+2026-10-21T04:06:59Z,bazaar-contrib-node-management,0.3.0rc1,,Apache-2.0,12917,The Bazaar Compute Node Management Contrib
+2026-10-21T04:08:24Z,bazaar-contrib-manager,0.3.0rc1,,Apache-2.0,71166,The Bazaar Compute Node Manager Contrib
+2026-10-21T04:09:25Z,bazaar-contrib-sidecar-unix,0.3.0rc1,,Apache-2.0,16674,Native Unix transport for Bazaar sidecar
+2026-10-21T04:10:35Z,tensor-ee,0.1.0,Noel Ivan Ulloa,MIT,616863,Experimental building blocks for running pretrained PyTorch models natively in Google Earth Engine: a restricted CNN compiler (the SegWater U-Net; standard SMP Unet and UnetPlusPlus on ResNet and VGG…
+2026-10-21T04:10:39Z,bazaar-contrib-sidecar-windows,0.3.0rc1,,Apache-2.0,17078,Native Windows transport for Bazaar sidecar
+2026-10-21T04:11:46Z,bazaar-contrib-schema,0.3.0rc1,,Apache-2.0,19929,Module schema registration and versioned migrations
+2026-10-21T04:12:42Z,bazaar-contrib-sqlite,0.3.0rc1,,Apache-2.0,43015,SQLite implementation of the shared storage contract
+2026-10-21T04:13:49Z,bazaar-contrib-channel,0.3.0rc1,,Apache-2.0,26057,Public channel communication contracts and provider registration
+2026-10-21T04:15:26Z,bazaar-contrib-timer-wheel,0.3.0rc1,,Apache-2.0,17765,Shared hierarchical timing wheel
+2026-10-21T04:16:38Z,bazaar-contrib-legacy-node-migrations,0.3.0rc1,,Apache-2.0,39696,Published Node 1–32 historical database upgrades
+2026-10-21T04:17:04Z,bazaar-contrib-messages,0.3.0rc1,,Apache-2.0,35126,"Public message, conversation and service contracts"
+2026-10-21T04:18:26Z,novusai,0.1.0,NovusAI,Proprietary,112269,NovusAI 推理服务官方 Python SDK——自有协议 /api/chat 主体，零第三方依赖

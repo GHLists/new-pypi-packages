@@ -1,41 +1,34 @@
 {
   "list": {
-    "count": 17,
-    "from": "2026-10-21T02:19:18.053877Z",
-    "path": "data/new-packages-2026-10-21T03-18-54-534145Z.csv",
-    "to": "2026-10-21T03:18:54.534145Z"
+    "count": 38,
+    "from": "2026-10-21T03:18:54.534145Z",
+    "path": "data/new-packages-2026-10-21T04-18-59-737043Z.csv",
+    "to": "2026-10-21T04:18:59.737043Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-10-21T04:18:44Z",
+      "package": "bazaar-contrib-collaboration",
+      "since": "2026-10-21T03:18:54.534145Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-21T02:47:59Z",
       "package": "clawmeets-server",
       "since": "2026-10-21T02:19:18.053877Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-21T02:40:47Z",
       "package": "dev-null-tui",
       "since": "2026-10-21T02:19:18.053877Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-20T23:25:39Z",
-      "package": "journey-test-hellospy",
-      "since": "2026-10-20T23:18:55.25297Z",
-      "version": "0.1.1"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-20T23:25:37Z",
-      "package": "journey-test-helloworld",
-      "since": "2026-10-20T23:18:55.25297Z",
-      "version": "0.1.0"
     }
   ],
-  "serial": 42523671,
+  "serial": 42525242,
   "source_truncated": false,
-  "window": "2026-10-21T03:18:54.534145Z"
+  "window": "2026-10-21T04:18:59.737043Z"
 }
