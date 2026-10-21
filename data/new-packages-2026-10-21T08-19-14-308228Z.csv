@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T07:19:49Z,splent-feature-academic-profile,0.1.0,,LGPL-3.0-or-later,47989,
+2026-10-21T07:20:12Z,factguard,0.1.1,Shivam Singh,MIT,49092,"Keep LLM-written text free of numbers your code didn't compute: fact placeholders, a strict validator, one retry, then drop the sentence"
+2026-10-21T07:21:04Z,retractordb,0.1.12,Michal Widera,MIT,10178787,"RetractorDB stream engine embedded in Python, with stream windows exported to NumPy and PyTorch"
+2026-10-21T07:21:10Z,lica-tables,0.1.0,Rafael González,,12498,LICA tables interface and default implementation
+2026-10-21T07:21:45Z,basic-crypt,1.5.3,simendi,MIT,178015,Basic crypto primitives
+2026-10-21T07:22:34Z,splent-feature-identities,0.1.0,,LGPL-3.0-or-later,60072,
+2026-10-21T07:24:20Z,dbhop,0.1.0,Ari Rismansyah,MIT,185958,"Move data between SQL databases, Parquet files and S3: chunked exports, typed imports with auto-generated DDL, resumable upserts, and built-in progress tracking."
+2026-10-21T07:25:45Z,splent-feature-orcid,0.1.0,,LGPL-3.0-or-later,68667,
+2026-10-21T07:28:11Z,joinwhy,0.1.1,giovannyTorres,MIT,31850,Explain and validate pandas joins before materializing them
+2026-10-21T07:28:25Z,untanglepy,0.1.0,giovannyTorres,MIT,31394,Explicit rules and row provenance for irregular pandas tables
+2026-10-21T07:28:34Z,cellwalk,0.1.0,giovannyTorres,MIT,31434,Reconstruct irregular spreadsheet tables with explicit spatial cell relationships
+2026-10-21T07:28:37Z,splent-feature-github,0.1.0,,LGPL-3.0-or-later,61826,
+2026-10-21T07:31:04Z,nabularpy,0.1.0,giovannyTorres,MIT,30616,"Structured missing-data patterns, shadow matrices and segment comparisons"
+2026-10-21T07:31:06Z,framebond,0.1.0,giovannyTorres,MIT,36467,"Validate primary keys, references and relationship integrity across pandas DataFrames"
+2026-10-21T07:32:11Z,unmimic,0.1.0,Jayraj Tiwari,Apache-2.0,89268,Model-agnostic middleware that protects LLMs served over an OpenAI-compatible API from distillation attacks.
+2026-10-21T07:36:00Z,locaith,1.1.0,Locaith,MIT,19430,"Python SDK for Locaith-4-flash: web search, reasoning, 64K context and Bio-Memory."
+2026-10-21T07:37:35Z,lta-api-py,0.2.0,Muhammad Rayhan <rayhan11.0808@gmail.com>,Apache-2.0,32153,A Python wrapper for the LTA DataMall public transport API
+2026-10-21T07:37:53Z,vitalwatch,0.1.1,CestnyTR,MIT,96402,"VitalWatch Hub için Python raporlayıcı — sunucu hataları, yavaş istekler, canlılık"
+2026-10-21T07:40:07Z,aetervie,1.0.0,Nguyen Truong Tho,,18217,Aetervie Enterprise CLI & Project Scaffolder
+2026-10-21T07:40:10Z,aetervie_cli,1.0.0,Nguyen Truong Tho,,18263,Aetervie Enterprise CLI & Project Scaffolder
+2026-10-21T07:42:00Z,omnirl-framework,0.1.0,Huang Chenbiao <a1057951125@gmail.com>,Apache-2.0,173573,A distributed reinforcement learning framework.
+2026-10-21T07:45:23Z,dotly,0.1.1,Joel Ortiz,MIT,61570,"SDK oficial de Python para la API de Dotly: WhatsApp, CRM, catálogo, webhooks y Dot AI."
+2026-10-21T07:46:13Z,pixtreme-infer,0.14.4,minamik <mia@sync.dev>,MIT,83374,Inference companion for pixtreme: architecture-independent inference contracts and verification
+2026-10-21T07:46:38Z,logo-tools,0.1.0,,,1133570,
+2026-10-21T07:48:03Z,abfactor,0.5.1,Thomas Kealy,MIT,108718,"Bayesian A/B testing models with Bayes factors: informed priors, default (Rouder) priors, BREASE, pooling across experiments, sequential and pre-period designs."
+2026-10-21T07:48:20Z,chipnum,0.3.0,yjjc1 <88436924+yjjc1@users.noreply.github.com>,MIT,67949,"Extract, normalise and classify semiconductor part numbers from free text."
+2026-10-21T07:49:53Z,totara-mcp,0.1.0,Naveed Masood Butt,MIT,23061,"MCP server that wraps Totara external GraphQL (list courses, create user, enrol user)"
+2026-10-21T07:54:57Z,bazhuayu-dataapp,0.0.1,Bazhuayu DataHub Team,MIT,56956,"Developer SDK for building Bazhuayu DataHub Data Apps: read input, push records, handle aborts"
+2026-10-21T07:54:59Z,muster-bridge,0.1.0,The Muster Authors,MIT,144702,"Serve Muster's Bridge protocol, so that a bridge to a messenger is only the calls to that messenger."
+2026-10-21T07:59:28Z,contradiction-judge,0.1.0,hao li <haoli5933@gmail.com>,MIT,24452,Semantic contradiction detection for AI memory systems
+2026-10-21T07:59:43Z,tool-result-size-governor,1.0.0,TextForAgents LLC,"MIT License Copyright (c) 2026 TextForAgents LLC Permission is hereby granted, free of charge, to a…",26790,"Client-side tool-result size governor for MCP: per-route output budgets, structure-aware windowing, spill artifacts, signed omission receipts."
+2026-10-21T08:00:21Z,bash-write-targets,0.1.0,hao li,MIT,19412,"Statically list the file-write targets of a bash command (redirects, tee, -o flags, cp/mv destinations)"
+2026-10-21T08:01:14Z,script-chain-walk,0.1.0,hao li,MIT,22409,"Trace cross-file script call chains: build a dependency graph of shell/Python scripts, find broken chains and call cycles"
+2026-10-21T08:02:07Z,tool-throttle,0.1.0,hao li,MIT,23278,"MCP tool-call throttling: token-bucket rate limits per tool name, a fuse against runaway agents"
+2026-10-21T08:05:08Z,bashboy,0.1.0,Mann10 <82712171+Mann10@users.noreply.github.com>,MIT,66850,Classify shell commands as allow or deny before an agent runs them.
+2026-10-21T08:06:42Z,devcrew,0.1.0,Vasu Agrawal,MIT,22052,"An AI software team in a pipeline: four agents plan, code, test and review a project from a one-line idea."
+2026-10-21T08:07:31Z,saddlefit,0.1.0,padobrik,Apache-2.0,191971,A self-improving harness that fits itself to your compact local model
+2026-10-21T08:09:10Z,sdory-dora,1.0.0,VANTiX Labs,Apache-2.0,37390,"Sparse Latent-Recurrent Decomposed Architecture for Zero-Forgetting, Ultra-Low VRAM LLM Fine-Tuning"
+2026-10-21T08:11:01Z,rustgzip-uos,0.5.2,,MIT,1806075,Rust gzip streams for Python 3.4+
+2026-10-21T08:12:48Z,atabet-terminal,0.1.0,ATABET LIMITED,Proprietary,8550147,Atabet Terminal: browser-based financial terminal for the Atabet Quant Intelligence line
+2026-10-21T08:16:09Z,scrapy-feedexporter-onedrive,0.1.0,Scrapy developers,BSD-3-Clause,12429,Scrapy Feed Exporter Storage Backend to export items to Microsoft OneDrive
+2026-10-21T08:17:10Z,django-spec-html,0.1.0,Artur Veres <artur8118@gmail.com>,MIT,242176,"A django-service-specs spec as a server-rendered page, HTML first and htmx-capable, plus the plain-Django JSON views."
+2026-10-21T08:18:58Z,scrapy-feedexporter-google-drive,0.1.0,Scrapy developers,BSD-3-Clause,12164,Scrapy feed export storage backend for Google Drive
