@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T18:20:52Z,aind-lightsheet-registration,0.3.1,Allen Institute for Neural Dynamics,MIT,406305,Register cleared light-sheet brains to a template and on to CCF
+2026-10-21T18:21:13Z,nu-lpw-ec,0.0.1,None None <userzeroonetwo091@gmail.com>,,18586,Enjoy my codes!
+2026-10-21T18:22:08Z,memproof,0.1.0,memproof contributors,MIT,27274,Evidence-first health checks for Markdown knowledge vaults.
+2026-10-21T18:23:57Z,iransystem,0.4.0,"""Ghorban M. Tavakoly"" <gmt3141@gmail.com>",GPL-3.0-or-later,58254,IranSystem encoding for Python
+2026-10-21T18:24:38Z,dj-reachy-remix,0.2.0,Max Zurkinden <max.zurkinden@gmail.com>,,5005225,DJ Reachy Remix: independent music and subscription-voice fork
+2026-10-21T18:31:39Z,hyperfluid,0.1.0,Nudibranches <contact@nudibranches.tech>,Apache-2.0,1740009,Hyperfluid API client
+2026-10-21T18:33:45Z,zerofi-win,0.1.1,EymoDih <eymengunduz070707@gmail.com>,,6640,You own the wifi now.
+2026-10-21T18:34:36Z,forculus,0.3.1,The Forculus Authors,Apache-2.0,240550,Verify who is calling your Forculus app.
+2026-10-21T18:35:07Z,spectraPyle,5.0.2,Salvatore Quai <salvatore.quai@unibo.it>,MIT,218432,A flexible and scalable tool for stacking astronomical spectra
+2026-10-21T18:36:32Z,mem-patrol,0.2.3,MemPatrol contributors,MIT,250423,"Memory patrol, lexical recall and conversation gates for long-lived agents (CLI + MCP, zero runtime dependencies)"
+2026-10-21T18:37:38Z,keyloom,0.1.0,Jayesh Badwaik,Apache-2.0 AND OFL-1.1,706594,Field-level encryption for configuration files
+2026-10-21T18:38:11Z,ivspatial,1.0.0,Emad Ashtari Nezhad <emaad7@gmail.com>,MIT,410961,A nonparametric test of spatial independence on neighbourhood graphs
+2026-10-21T18:38:14Z,pipeverify,0.1.0,Akshay Sharma,Apache-2.0,42432,"Check that a pipeline change left the data right, not just the job green."
+2026-10-21T18:40:40Z,subspace-tunnel,0.1.2,Vladimir Malinovskii,,56702825,Expose local HTTP services through a public relay server
+2026-10-21T18:43:22Z,fliprate,0.2.1,Shiv Supane <shiv.supane777@gmail.com>,MIT,145779,Measure and reduce how often an NLP model changes its answer on messy romanized Hindi/Marathi and other Indian-language text.
+2026-10-21T18:44:53Z,factormodels,0.1.0,Artur Sepp <artursepp@gmail.com>,MIT,801536,"Factor construction, GLS premia, capital market assumptions and factor covariance estimation"
+2026-10-21T18:46:04Z,spotlift,0.2.0,SpotLift Core Team,MIT,111904,Econometric High-Frequency Linear TV Attribution Engine across GA4 and Amazon AMC
+2026-10-21T18:46:48Z,geocadre-dbload,0.0.2,,,4402,
+2026-10-21T18:49:51Z,roshub,0.1.0a2,Ijaz Ahmed,MIT,216723,"Run, test and debug your ROS 2 projects from one local page."
+2026-10-21T18:50:43Z,agentbelay,0.1.0,Sai Rakshith Muda <rakshithmuda@gmail.com>,MIT,585676,"A local, deterministic firewall for AI agent tool calls: Claude Code hooks, an MCP proxy and a Python API, with replayable policies for CI"
+2026-10-21T18:52:49Z,superclonica-cpu,0.6.25,superclonica.com,Apache-2.0,1828326,"Faster, cleaner Supertonic 3 text-to-speech: robust text cleanup, learned audio finishing and fast inference (CPU)"
+2026-10-21T18:52:51Z,superclonica-gpu-cuda,0.6.25,superclonica.com,Apache-2.0,1828669,"Faster, cleaner Supertonic 3 text-to-speech: robust text cleanup, learned audio finishing and fast inference (NVIDIA CUDA 12)"
+2026-10-21T18:58:04Z,gospl-landlab-bridge,0.0.3,Larry Syu-Heng Lai <larrysyuhenglai@gmail.com>,AGPL-3.0-or-later,131792,Add-on bridge: run Landlab landscape-evolution components inside goSPL timesteps
+2026-10-21T18:59:46Z,opm-coreg,2.0.2,"Kiran Phalke, Harry Cook, Andrew Quinn, Giovanni Barontini, Anna Kowalczyk",BSD-3-Clause,77784,OPM-Coreg - A GUI application for co-registering OPM sensors and auxiliary devices to anatomical MRI
+2026-10-21T19:00:50Z,tessera-apps,0.1.0,dClimate CYCLOPS team,Apache-2.0,5493347,"Climate applications on the TESSERA v1.1 global embeddings: wildfire, deforestation, wetland and restoration mapping"
+2026-10-21T19:01:02Z,autospan,0.1.0,Nidhal Abidi,MIT,206895,Test automation from hardware to CI
+2026-10-21T19:02:00Z,sar-course,0.0.1,Фролов Илья Сергеевич <frolov.ilia@phystech.edu>,,35054,Библиотека для курса МФТИ 'Обработка данных РСА'
+2026-10-21T19:02:11Z,structwire,0.1.0,Nidhal Abidi,MIT,69592,A small schema-driven binary payload codec for Python.
+2026-10-21T19:02:41Z,jitters-cli,0.1.0,Vibeoverflow,MIT,16578,"Jitters the VibeCoder, an anxious monkey, in the state of your week of commits: groggy after 2 am, fit after a week of daytime ones. CLI and MCP server; reads only your commit hours, sends nothing."
+2026-10-21T19:02:52Z,forculus-client,0.1.1,The Forculus Authors,Apache-2.0,77292,"Call the Forculus API from code: deploy, share, read the audit log and manage tokens."
+2026-10-21T19:06:46Z,polars-ros,0.1.0,Paul Hobson,MIT,89168,Regression on Order Statistics and bootstrap confidence intervals for Polars
+2026-10-21T19:09:39Z,talkpipe-agents,0.1.0,Travis Bauer <tlbauer@sandia.gov>,Apache-2.0,148730,"Agentic segments for talkpipe, built on Strands Agents: deterministic pipelines with bounded tool-using steps"
+2026-10-21T19:10:19Z,pysewer,0.3.0,Helmholtz Centre for Environmental Research (UFZ),GPL-3.0-only,150823,A Python package for automated routing and optimization of sewer networks
+2026-10-21T19:10:26Z,dataquantum-logger,0.3.0,jcarlossc,MIT,11232,Python package for simplified and reusable configuration of logging to files and the console.
+2026-10-21T19:11:21Z,pybox-sandbox,0.3.0,ctxnn,Apache-2.0,192832,"Run Python you don't trust in a fresh, sealed box on your Mac, and get a receipt for what it did. Works with AI agents over MCP."
+2026-10-21T19:11:54Z,autocompliance,0.2.0,,MIT,50439,Open-source GDPR + SOC 2 compliance autopilot for small businesses.
+2026-10-21T19:14:44Z,api-sdk-py,1.11.66,OpenAPI Generator community,Widgetic Integration License,1090663,Widgetic API Gateway
+2026-10-21T19:15:27Z,wuji-macos,0.1.0,,MIT,31432716,Experimental Apple Silicon access to pinned WUJI native SDK components
+2026-10-21T19:16:39Z,caulk-security,0.3.0,Caulk Contributors <maintainers@caulk.dev>,MIT,204417,"Deterministic, open-source security checker for modern application repositories."
