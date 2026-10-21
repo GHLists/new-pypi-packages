@@ -1,13 +1,20 @@
 {
   "list": {
     "count": 43,
-    "from": "2026-10-21T13:20:32.54997Z",
-    "path": "data/new-packages-2026-10-21T14-18-54-999823Z.csv",
-    "to": "2026-10-21T14:18:54.999823Z"
+    "from": "2026-10-21T14:18:54.999823Z",
+    "path": "data/new-packages-2026-10-21T15-18-59-350585Z.csv",
+    "to": "2026-10-21T15:18:59.350585Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-21T15:13:45Z",
+      "package": "edison-parser",
+      "since": "2026-10-21T14:18:54.999823Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-21T12:51:55Z",
       "package": "odoo_addon_barcode_scrap",
       "since": "2026-10-21T12:18:55.09493Z",
@@ -15,13 +22,27 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-21T14:45:34Z",
+      "package": "ohi-sdk",
+      "since": "2026-10-21T14:18:54.999823Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-21T13:40:31Z",
       "package": "v0.1.1",
       "since": "2026-10-21T13:20:32.54997Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-21T14:59:06Z",
+      "package": "weir-run",
+      "since": "2026-10-21T14:18:54.999823Z",
+      "version": null
     }
   ],
-  "serial": 42545979,
+  "serial": 42548408,
   "source_truncated": false,
-  "window": "2026-10-21T14:18:54.999823Z"
+  "window": "2026-10-21T15:18:59.350585Z"
 }

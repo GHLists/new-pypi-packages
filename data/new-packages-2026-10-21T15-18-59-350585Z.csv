@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T14:20:46Z,bama-mcp,0.1.1,Amirreza,MIT,447445,"Unofficial read-only MCP server for bama.ir: search car ads, compare prices, browse brands and cities"
+2026-10-21T14:21:13Z,botseon,0.0.1,,Apache-2.0,32219,"Python client and command-line tool for the Botseon API, used with a personal API key."
+2026-10-21T14:22:12Z,akeyless-agentcore-rta,0.1.0,Akeyless Community,Apache-2.0,43493,Akeyless Agentic Runtime Authority (RTA/ARA) for AWS Bedrock AgentCore — secretless DB and cloud actions
+2026-10-21T14:23:45Z,thinker-research,0.1.3,,GPL-3.0-only,268254,"Sistema de investigación profunda con LLM: pensamiento estructurado, recuperación de fuentes y reportes trazables"
+2026-10-21T14:26:00Z,tailstory-ups,1.0.0,Bradley Reynolds,MIT,12762,UPS API SDK
+2026-10-21T14:27:22Z,token-buffet,0.1.0,Jack,MIT,7083159,A pure-Python proxy and routing system to bridge CLI-based LLMs to a standard OpenAI-compatible API.
+2026-10-21T14:29:01Z,vinospeak,0.1.1,Karan Shukla,MIT,53732,Intel NPU-powered Kokoro text-to-speech with OpenVINO
+2026-10-21T14:30:26Z,pofsis-pay,0.1.1,,,13052,Internal POFSIS client for IAM-authenticated POFPay integrations
+2026-10-21T14:30:53Z,layershot,0.3.3,,MIT,84389,"Let AI agents see, open, click and type in Windows apps behind the one you are using - without taking over your screen. CLI + MCP server."
+2026-10-21T14:31:44Z,dry-exec,0.1.0,,,1081203,Deterministic ephemeral execution primitive and state delta engine
+2026-10-21T14:33:27Z,lingua-kindle,0.2.0,,,73997,Transforma frases estudadas em cartoes enriquecidos para o Anki.
+2026-10-21T14:34:39Z,ollada,0.0.1,OpenSourceRulesz,MIT,11113,"The shelf for open-source diffusion language models — pull, run, and serve dLLMs locally, Ollama-style."
+2026-10-21T14:34:51Z,windowping,0.1.0,Aleksandr Odnakov <coolkasodnakov@gmail.com>,MIT,85315,"Keep Codex, Command Code and GLM Coding Plan 5-hour rate-limit windows back-to-back by pinging each provider the moment its window resets."
+2026-10-21T14:36:13Z,agents-sync,0.1.0,Lolaplex,MIT,36795,"Unified multi-device cloud synchronizer for ~/.agents (memory, skills, docs, traces, identity)."
+2026-10-21T14:36:40Z,opbio,0.1.0,opbio author <author@example.com>,MIT,30267,"Bioinformatics utilities for sequence analysis, alignment, phylogeny, BLAST search, genome analysis, and ML classification."
+2026-10-21T14:38:38Z,emg2mcu,0.1.0,,MIT,79136,"EMG processing, AutoML classification, and microcontroller model export"
+2026-10-21T14:39:08Z,holdline,0.1.0,Aashan Javed,MIT,102722,"Eval and regression gate for AI agents: trajectory checks, pass^k, judge calibration, paired statistics."
+2026-10-21T14:39:48Z,pdf-isolate,0.1.0,MatsubaraSoda,MIT,10585,PDF 提取工具
+2026-10-21T14:40:52Z,tailstory-hermes,1.0.0,Bradley Reynolds,MIT,12620,One interface over the shipping carriers' SDKs
+2026-10-21T14:41:42Z,odoo-addon-procurement-auto-create-group-by-product,16.0.1.0.0.2,"BCIM, Odoo Community Association (OCA)",AGPL-3,28283,Generate one picking per product on the procurement run.
+2026-10-21T14:43:40Z,cirrusnetworks-switchboard,0.0.1,,,3632,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-21T14:47:53Z,deputy-mcp,0.3.0,Augusto Bastos,MIT,391682,"Deputy MCP: an MCP server that gives AI agents safe, read-only-by-default access to Deputy rosters, timesheets and shifts"
+2026-10-21T14:49:14Z,dls-planar-motor,0.1.0,Urszula Neuman <urszula.neuman@diamond.ac.uk>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",138024,Python driver for Planar Motor
+2026-10-21T14:53:19Z,appjail,0.1.0,,MPL-2.0,146828,Sandboxed AppImage manager built on bubblewrap
+2026-10-21T14:54:17Z,pw-core,0.27.0,Mike Farr,Apache-2.0,1128870,"Python foundation for LLM apps whose prompts and spend you can actually see — versioned prompts, every call recorded and replayable, budgets, evals, and resumable jobs on one schema; opt-in LLM, data…"
+2026-10-21T14:58:34Z,faturapt,0.1.0,José Ferrão,MIT,114765,Leitura e validação do código QR das faturas portuguesas (AT) e de NIFs.
+2026-10-21T14:58:35Z,DEMNE,1.3.0,Clément Longeac <clement.longeac@gmail.com>,MIT,343810,Cascade NLP pipeline for oncological biomarker extraction — optimizing the Performance-Explainability-Frugality trilemma
+2026-10-21T14:59:06Z,zhkj_llm_function,0.2.0,,,58838,基于 tinyagent-py 的 DeclareAgent 插件框架：@agent_def 声明 + Pydantic 类型反射 + 统一返回结构
+2026-10-21T15:01:33Z,releasepro,0.1.0,Yantrakar,MIT,40474,"One gated GitHub Actions release run for any repo: a person's yes per channel, no stored token, every channel checked, the announcement last"
+2026-10-21T15:02:27Z,garmin-connect-personal-api-python,1.0.0,Garmin Ltd. or its subsidiaries.,Apache-2.0,77888,Python client for the Garmin Connect Personal API
+2026-10-21T15:07:15Z,spatialscape,0.3.0,Michael Totty <mictott@gmail.com>,MIT,3281194,Build static spatialscape viewer bundles from AnnData / SpatialData
+2026-10-21T15:07:18Z,radiankore,0.1.0,Deikore SAS,MIT,84422,Python library for RADIAN events and invoice queries through DIAN.
+2026-10-21T15:08:35Z,cryptoetf,1.0.0,cryptoetf.today,MIT,14858,"Official Python client for the CryptoETF API: daily net flows of US spot crypto ETFs for 16 assets (BTC, ETH, SOL, XRP, HYPE, DOGE, LINK, AVAX, HBAR, LTC, BNB, DOT, SUI, NEAR, TRX, ZEC), fund by fund…"
+2026-10-21T15:09:13Z,repowatch,0.4.0,Mark Wharry,MIT,62646,"Every git repo under a folder, compared across all its remotes, with fast-forward-only sync and safe branch pruning."
+2026-10-21T15:10:27Z,pqax,0.1.0,SQLBI,MIT,84412,"Read, validate, and write PQAX files: the footprint of Parquet tables, for analysis without access to the data."
+2026-10-21T15:10:30Z,mlfp,0.1.0,Mehmet Keçeci,"MIT License Copyright (c) 2026 Mehmet Keçeci Permission is hereby granted, free of charge, to any p…",25512,"mlfp: Mittag-Leffler and Prabhakar function, MLF"
+2026-10-21T15:10:50Z,cs-image-system-packer-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,47047,The image builders for HashiCorp Packer: amazon-ebs and googlecompute roots from base and instance images
+2026-10-21T15:10:51Z,cs-image-system-posix-identity-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,22950,"The posix identity plugin: groups, users, memberships, keys and sudo as POSIX accounts on the machines, with ids the configuration declares; alone, or beside Okta for groups"
+2026-10-21T15:10:52Z,cs-image-system-system,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,438773,The command-line host: the cs-image-system console script that loads the plugins and drives the lifecycle runner
+2026-10-21T15:10:54Z,cs-image-system-tf-ebs-instance-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,61383,"The OpenTofu plugin for AWS: instances and EBS, EFS and S3 storages as module calls"
+2026-10-21T15:12:15Z,devsecure-intelligence,0.1.0,DevSecure Limited,MIT,36066,"Python client for the DevSecure Intelligence API: rank CVEs by real-world risk (RPS from CVSS, EPSS and CISA KEV), with the reason for every rank."
+2026-10-21T15:14:45Z,eyelogic-recorder,0.2.0,Jochen Laubrock,MIT,51978,Lightweight EyeLogic eye-tracker client with asynchronous recording to CSV that never blocks the SDK callback
+2026-10-21T15:18:03Z,021-python-clients,0.1.0,,Apache-2.0,88672,"Observed clients for Redis, SQS, QStash, S3, HTTP, email and KMS, built on 021-python-observability"
