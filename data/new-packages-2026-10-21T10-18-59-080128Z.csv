@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T09:22:14Z,openverify-code,0.1.1,,,3205,Local Python code checks for OpenVerify
+2026-10-21T09:28:03Z,scietex.vacuum-gauge-service,0.1.1,Anton Bondarenko <bond.anton@gmail.com>,MIT,50698,Scietex microservice daemon for vacuum gauge monitoring
+2026-10-21T09:29:47Z,openverify-english,0.1.1,,,2454,Deterministic English checks for OpenVerify
+2026-10-21T09:31:30Z,reanimdl,0.1.1,,,58929,An asynchronous anime downloader CLI for reanime.to
+2026-10-21T09:36:48Z,mcp-seo-auditor,0.1.4,Stefan Petrovici,MIT,51464,"Local, read-only SEO auditing tools for AI agents over MCP stdio"
+2026-10-21T09:37:03Z,langchain-aistupidlevel,0.1.0,AI Stupid Level <hello@aistupidlevel.info>,MIT,11824,"LangChain chat model for the AI Stupid Level Smart Router: each request goes to the model that scores best for the task, with your own provider keys."
+2026-10-21T09:38:38Z,error-investigator,1.0.0,ISHAN KUMAR <ishankumar063@gmail.com>,MIT,106072,A CLI developer tool for investigating API errors
+2026-10-21T09:40:38Z,spikesorted,0.1.0a3,Joe Ziminski <joseph.j.ziminski@gmail.com>,BSD-3-Clause,10027,`spikesorted` is an end-to-end spike sorting pipeline
+2026-10-21T09:41:15Z,llm-tool-cli,0.2.0,Aliaksei Yaletski <a.eletsky@gmail.com>,BSD-3-Clause,183079,Shared foundations for LLM-oriented Python command-line tools.
+2026-10-21T09:42:27Z,arquimedes-mcp,1.1.0,Richard Huang <richard.01172000@gmail.com>,MIT,154175,CLI and MCP server for the Arquimedes 1.04M competition and benchmark math problem database
+2026-10-21T09:45:42Z,ruyihttp,0.8.1,LoseNine,MPL-2.0,3963318,Requests-style Python HTTP client with a bundled NSS and Necko native runtime
+2026-10-21T09:47:15Z,weasysvg,0.1.0,Sergey Grigoriev <grigoriev@fastmail.com>,MIT,210286,"Native SVG rendering for WeasyPrint, close to Chromium: foreignObject, filters, masks, blending and text."
+2026-10-21T09:47:30Z,moveworks-capi-starter,0.2.0,Your Name,,1545,POC package (beacon-only)
+2026-10-21T09:48:06Z,musicpipeline,1.0.0,siwpan,MIT,97135,随机音乐生成器 + WMP 风格可视化（纯标准库，tkinter GUI）
+2026-10-21T09:48:18Z,pytrunner,1.0.0,siwpan,MIT,130992,Python 项目全覆盖测试框架：静态扫描 / 架构检测 / 动态运行
+2026-10-21T09:54:33Z,xarray-n1-asar,2026.10.21,Antoine GROUAZEL <antoine.grouazel@ifremer.fr>,MIT license,63075,Python lib to read ASAR SLC product from ENVISAT mission (2002-2012).
+2026-10-21T09:56:13Z,bioelectrics,0.3.0,The bioelectrics contributors,MIT,141969,"Differentiable somatic bioelectricity: ion-level tissue physics, published model zoo, and inverse design of lab interventions in PyTorch"
+2026-10-21T09:56:39Z,mbedtls,0.0.1,Mohammad Raziei <mohammadraziei1375@gmail.com>,MIT,31574,A Cython project with scikit-build
+2026-10-21T09:57:45Z,ghostrefs,0.0.4,,MIT,1408377,Find code kept alive only by tests
+2026-10-21T09:58:26Z,getvocal-agents,0.0.1,,,1921,Initial development release.
+2026-10-21T10:04:54Z,django-o365,0.3.0,Robert Gutschale <r.gutschale@blueshoe.de>,MIT,10043,"EmailBackend for Django to work with Microsoft Exchange Online, via o365 package"
+2026-10-21T10:07:18Z,proof-pdf,0.1.0,Ilja Orlovs <ilja@release.art>,Apache-2.0,80136,"Hold print PDFs to PDF/X-4 and PDF/A: veraPDF, page boxes, geometry, ink and image resolution."
+2026-10-21T10:09:23Z,bernoulli-types,0.3.0,Alexander Towell <lex@metafunctor.com>,MIT,177955,"Approximate membership, perfect hashing, retrieval and sketches under one two-rate (false-positive, false-negative) error model"
+2026-10-21T10:10:41Z,hemsim,1.0.0,Joseph Robotics Lab and Tech Limited <your.email@example.com>,,3282,SDK package for Joseph Robotics Lab and Tech projects
+2026-10-21T10:13:56Z,deliverd-screen,0.1.0,,MIT,29685,"A pre-send check for every prompt. Finds and redacts personal data, secrets and your own confidential terms before text goes to an AI model. Runs locally, no account, no network calls."
+2026-10-21T10:13:59Z,setuptools-us4us,0.1.0,us4us Ltd.,,13764,Shared build-time (setuptools) helpers for the us4us Python packages.
+2026-10-21T10:15:13Z,scento-perfume-api,1.0.0,Scento <contact@scento.com>,MIT,13511,"Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified perfume database. Perfume portraits, notes, raw materials, houses and families, every answer tied to a page…"
+2026-10-21T10:15:20Z,perfume-mcp-server,1.0.0,Scento <contact@scento.com>,MIT,13501,"Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified perfume database. Perfume portraits, notes, raw materials, houses and families, every answer tied to a page…"
+2026-10-21T10:15:24Z,perfume-database,1.0.0,Scento <contact@scento.com>,MIT,13449,"Scento Perfume API: a free perfume and fragrance API and MCP server over Scento's verified perfume database. Perfume portraits, notes, raw materials, houses and families, every answer tied to a page…"
