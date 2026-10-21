@@ -8,40 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 02:19 UTC
+## Latest list — 2026-10-21 03:18 UTC
 
-New packages created between 2026-10-21 01:18 UTC and 2026-10-21 02:19 UTC.
+New packages created between 2026-10-21 02:19 UTC and 2026-10-21 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-21T02-19-18-053877Z.csv)
+[Full CSV](data/new-packages-2026-10-21T03-18-54-534145Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-21 01:19:19 | [hpak](https://pypi.org/project/hpak/) | 0.1.0 | Hardpoint Core Technologies <… | 2.6 kB | High-performance packaging and workflow metadata utilities. |
-| 2026-10-21 01:22:05 | [proximant](https://pypi.org/project/proximant/) | 0.0.1 | Bijective Systems <james@bije… | 3.4 kB | Surrogate models from solver, test and sweep runs. Delivered by Bijective Syste… |
-| 2026-10-21 01:23:20 | [screenbuffer](https://pypi.org/project/screenbuffer/) | 1.0.0 |  | 50.3 kB | A Python utility for managing dynamic output, tracking progress, and organizing… |
-| 2026-10-21 01:24:39 | [astromesh-rag](https://pypi.org/project/astromesh-rag/) | 0.1.0 | Juan Carlos Romero <jc@fulfar… | 128.2 kB | Composable RAG pipelines for AI agents: splitters, embedders, vector and keywor… |
-| 2026-10-21 01:29:57 | [magmacrunch-threes](https://pypi.org/project/magmacrunch-threes/) | 0.2.0 | magmacrunch media | 48.6 kB | THREES - slide, merge, survive. Terminal version. |
-| 2026-10-21 01:33:25 | [bap-ltd](https://pypi.org/project/bap-ltd/) | 1.3.5 | BAP Security Architecture Team | 63.9 MB | Bounded Authority Plane (BAP) - Zero-Trust Local Trusted Daemon & Governance fo… |
-| 2026-10-21 01:38:49 | [kdpika-licensing](https://pypi.org/project/kdpika-licensing/) | 1.1.5 | KDPika <hi@kdpika.com> | 133.3 kB | KDPika Licensing Python SDK |
-| 2026-10-21 01:39:23 | [lulalib](https://pypi.org/project/lulalib/) | 0.1.0 | red | 57.5 kB |  |
-| 2026-10-21 01:41:00 | [021-python-observability](https://pypi.org/project/021-python-observability/) | 0.3.0 |  | 64.4 kB | OpenTelemetry metrics, traces and safe JSON logs for FastAPI services |
-| 2026-10-21 01:47:57 | [fa-quant](https://pypi.org/project/fa-quant/) | 1.2.1 | "Bicheng (Kenneth)" <31808103… | 392.1 kB | Risk-managed systematic ETF trading, statistical validation, and financial rese… |
-| 2026-10-21 01:48:31 | [migcheck](https://pypi.org/project/migcheck/) | 0.1.2 | Cole Michaels | 63.8 kB | Checks that a release's database migrations don't break the release running in… |
-| 2026-10-21 01:49:44 | [pinakel-auth](https://pypi.org/project/pinakel-auth/) | 0.0.0 | Pinakel | 2.8 kB | Name reserved by Pinakel. The real package is not published on PyPI. |
-| 2026-10-21 01:50:32 | [astromesh-context](https://pypi.org/project/astromesh-context/) | 0.1.0 | Juan Carlos Romero <jc@fulfar… | 232.7 kB | A context-window engine for AI agents: scored selection under a token budget, c… |
-| 2026-10-21 01:55:20 | [alibi-guard](https://pypi.org/project/alibi-guard/) | 1.0.0 | Luca Szyszkowski | 1.1 MB | Judges whether endpoint-security alerts from AI coding agents were justified by… |
-| 2026-10-21 01:57:32 | [amazon-auth](https://pypi.org/project/amazon-auth/) | 0.0.1 | Alex Laird <contact@alexlaird… | 5.1 kB | Amazon sign-in and session handling, being extracted from amazon-orders. Not re… |
-| 2026-10-21 02:05:17 | [geneticevo](https://pypi.org/project/geneticevo/) | 0.1.0a1 |  | 117.4 kB | Reproducible evolutionary experiments with optional independent lifetime learni… |
-| 2026-10-21 02:05:44 | [codex-team](https://pypi.org/project/codex-team/) | 0.1.0 | PixPool | 34.9 kB | Orchestrate local Codex agents with tmux, Git submodules, and persistent task q… |
-| 2026-10-21 02:08:42 | [hubradar](https://pypi.org/project/hubradar/) | 0.1.0 |  | 3.4 MB | Evidence-backed repository distillation and domain radar for developers. |
-| 2026-10-21 02:10:33 | [contextfetch-haystack](https://pypi.org/project/contextfetch-haystack/) | 0.1.0 | ContextFetch | 25.0 kB | Haystack integration for the ContextFetch web search and Markdown API |
-| 2026-10-21 02:13:39 | [lgc-toolkit](https://pypi.org/project/lgc-toolkit/) | 0.1.0 | Ricardo Licona Muñoz, Pierre… | 89.9 kB | Local Geometric Consistency (LGC) for cross-subject EEG transfer learning: Riem… |
-| 2026-10-21 02:14:28 | [clip-harness](https://pypi.org/project/clip-harness/) | 0.3.0 | Ali Al Dallal | 338.0 kB | A human-in-the-loop execution bridge: run AI-chat-proposed commands from your c… |
-| 2026-10-21 02:14:53 | [jupyter-storage-explorer-polars-support](https://pypi.org/project/jupyter-storage-explorer-polars-support/) | 0.14.0 | Tsuyoshi SUGIBUCHI | 13.5 kB | Polars support for Storage Explorer |
-| 2026-10-21 02:14:55 | [jupyter-storage-explorer-pandas-support](https://pypi.org/project/jupyter-storage-explorer-pandas-support/) | 0.14.0 | Tsuyoshi SUGIBUCHI | 11.6 kB | pandas support for Storage Explorer |
-| 2026-10-21 02:14:56 | [jupyter-storage-explorer-abfs-support](https://pypi.org/project/jupyter-storage-explorer-abfs-support/) | 0.14.0 | Tsuyoshi SUGIBUCHI | 17.8 kB | Azure Data Lake Storage support for Storage Explorer |
-| 2026-10-21 02:15:30 | [mwpromise](https://pypi.org/project/mwpromise/) | 0.0.1 |  | 2.9 kB | MW Promise: an append-only, hash-chained, auditable memory engine for AI agents… |
-| 2026-10-21 02:15:44 | [spatialdds-ros](https://pypi.org/project/spatialdds-ros/) | 0.3.0 | Open AR Cloud | 213.2 kB | A ROS 2 robot as a SpatialDDS participant |
-| 2026-10-21 02:18:23 | [tiltmeter](https://pypi.org/project/tiltmeter/) | 0.1.0 | Agustin Torres | 136.5 kB | An early-warning system for the third-party APIs your AI agents depend on: CLI,… |
-| 2026-10-21 02:18:35 | [jupyter-storage-explorer-pyspark-support](https://pypi.org/project/jupyter-storage-explorer-pyspark-support/) | 0.14.0 | Tsuyoshi SUGIBUCHI | 11.2 kB | PySpark support for Storage Explorer |
-| 2026-10-21 02:18:50 | [store-release](https://pypi.org/project/store-release/) | 0.4.0 | Apoorv Darshan | 748.4 kB | Release iOS and Android apps to App Store Connect and Google Play from a git ta… |
+| 2026-10-21 02:25:32 | [distmarg](https://pypi.org/project/distmarg/) | 0.1.0 |  | 52.5 kB | Distance-marginalized gravitational-wave likelihood in the (rho_mf, v*) basis,… |
+| 2026-10-21 02:26:27 | [ctxkeeper](https://pypi.org/project/ctxkeeper/) | 1.2.0 |  | 222.6 kB | An OpenAI-compatible proxy that lets an agent keep working far past the model's… |
+| 2026-10-21 02:31:34 | [distmarg-rs](https://pypi.org/project/distmarg-rs/) | 0.1.0 |  | 8.3 MB | Rust backend for distmarg: distance-marginalized gravitational-wave likelihood |
+| 2026-10-21 02:35:18 | [magmacrunch-fifteen-puzzle](https://pypi.org/project/magmacrunch-fifteen-puzzle/) | 0.1.0 | magmacrunch media | 48.6 kB | 15 PUZZLE - the classic sliding tile puzzle, 3x3 to 6x6. Terminal version. |
+| 2026-10-21 02:41:37 | [rg-converters](https://pypi.org/project/rg-converters/) | 2.0.1 | YumYummity | 12.0 MB | Convert between some mobile rhythm game charting files! (C++ core with Python b… |
+| 2026-10-21 02:45:12 | [yfinance-ai](https://pypi.org/project/yfinance-ai/) | 5.0.0 | lkcair | 94.3 kB | MCP server and AI tool for Yahoo Finance: 68 tools for stocks, crypto, forex, c… |
+| 2026-10-21 02:45:43 | [dev-null-tty](https://pypi.org/project/dev-null-tty/) | 0.1.0 | Avetis Avo Pisikyan | 34.8 kB | A terminal interface for /dev/null |
+| 2026-10-21 02:46:12 | [aweb-naapp](https://pypi.org/project/aweb-naapp/) | 0.1.0 | "aweb.ai" <hello@aweb.ai> | 854.1 kB | Reusable Native Agentic App (naapp) docs surface: shared chrome, the aweb desig… |
+| 2026-10-21 02:50:44 | [sec-finance-ai](https://pypi.org/project/sec-finance-ai/) | 2.0.0 | lkcair | 62.9 kB | MCP server and AI tool for SEC EDGAR: 22 tools for 10-K, 10-Q, 8-K, XBRL facts,… |
+| 2026-10-21 02:50:50 | [kresheen](https://pypi.org/project/kresheen/) | 1.0.1 |  | 2.0 MB | Threat-modeling platform |
+| 2026-10-21 02:51:14 | [verfy](https://pypi.org/project/verfy/) | 0.2.0 |  | 149.2 kB | Verfy: guard coding-agent tool calls, scan and lock MCP tools, and sign a verif… |
+| 2026-10-21 02:53:09 | [pitboss](https://pypi.org/project/pitboss/) | 2026.10.21.9634 | Moshe Zadka <moshez@zadka.clu… | 112.1 kB | Sweep a project's pull requests, merge queue, worktrees and worker slots |
+| 2026-10-21 02:59:36 | [deus-witness](https://pypi.org/project/deus-witness/) | 0.2.18 |  | 75.5 kB | Deus Witness: MCP proxy, Claude Code hook and SDK that put every agent tool cal… |
+| 2026-10-21 03:01:18 | [pitch-garden-sptk](https://pypi.org/project/pitch-garden-sptk/) | 0.1.0 | Takenori Yoshimura | 6.0 MB | A Python binding of the pitch extraction of SPTK for pitch-garden |
+| 2026-10-21 03:06:26 | [semurg](https://pypi.org/project/semurg/) | 0.1.0 | Semurg | 47.9 kB | Python client for Semurg: memory for AI agents (knowledge graph + vector search… |
+| 2026-10-21 03:08:32 | [surrealengine_auth](https://pypi.org/project/surrealengine_auth/) | 0.2.0 | SurrealEngine Team <st0pt4ck1… | 119.7 kB | Authentication and authorization module for applications using SurrealDB & Surr… |
+| 2026-10-21 03:09:34 | [pitch-garden](https://pypi.org/project/pitch-garden/) | 0.1.0 | Takenori Yoshimura | 184.6 kB | A unified interface to various pitch trackers with ensemble voting |

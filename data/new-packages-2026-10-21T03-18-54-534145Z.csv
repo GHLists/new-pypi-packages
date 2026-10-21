@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T02:25:32Z,distmarg,0.1.0,,MIT,52493,"Distance-marginalized gravitational-wave likelihood in the (rho_mf, v*) basis, array-API compatible"
+2026-10-21T02:26:27Z,ctxkeeper,1.2.0,,Unlicense,222618,"An OpenAI-compatible proxy that lets an agent keep working far past the model's context window: notes, an archive and a recall tool"
+2026-10-21T02:31:34Z,distmarg-rs,0.1.0,,MIT,8265848,Rust backend for distmarg: distance-marginalized gravitational-wave likelihood
+2026-10-21T02:35:18Z,magmacrunch-fifteen-puzzle,0.1.0,magmacrunch media,PolyForm-Noncommercial-1.0.0,48635,"15 PUZZLE - the classic sliding tile puzzle, 3x3 to 6x6. Terminal version."
+2026-10-21T02:41:37Z,rg-converters,2.0.1,YumYummity,GPLv3,12031826,Convert between some mobile rhythm game charting files! (C++ core with Python bindings)
+2026-10-21T02:45:12Z,yfinance-ai,5.0.0,lkcair,MIT,94287,"MCP server and AI tool for Yahoo Finance: 68 tools for stocks, crypto, forex, commodities, funds and options"
+2026-10-21T02:45:43Z,dev-null-tty,0.1.0,Avetis Avo Pisikyan,,34792,A terminal interface for /dev/null
+2026-10-21T02:46:12Z,aweb-naapp,0.1.0,"""aweb.ai"" <hello@aweb.ai>",MIT,854128,"Reusable Native Agentic App (naapp) docs surface: shared chrome, the aweb design system, and manifest-driven llms.txt and reference generators."
+2026-10-21T02:50:44Z,sec-finance-ai,2.0.0,lkcair,MIT,62874,"MCP server and AI tool for SEC EDGAR: 22 tools for 10-K, 10-Q, 8-K, XBRL facts, insider trades, 13F and full-text search"
+2026-10-21T02:50:50Z,kresheen,1.0.1,,,1951414,Threat-modeling platform
+2026-10-21T02:51:14Z,verfy,0.2.0,,MIT,149179,"Verfy: guard coding-agent tool calls, scan and lock MCP tools, and sign a verifiable receipt for every action."
+2026-10-21T02:53:09Z,pitboss,2026.10.21.9634,Moshe Zadka <moshez@zadka.club>,"Permission is hereby granted, free of charge, to any person obtaining a copy of this software and a…",112134,"Sweep a project's pull requests, merge queue, worktrees and worker slots"
+2026-10-21T02:59:36Z,deus-witness,0.2.18,,,75494,"Deus Witness: MCP proxy, Claude Code hook and SDK that put every agent tool call through an independent witness"
+2026-10-21T03:01:18Z,pitch-garden-sptk,0.1.0,Takenori Yoshimura,Apache-2.0; the bundled SPTK and its third-party libraries are under their own licenses,5964689,A Python binding of the pitch extraction of SPTK for pitch-garden
+2026-10-21T03:06:26Z,semurg,0.1.0,Semurg,Apache-2.0,47866,Python client for Semurg: memory for AI agents (knowledge graph + vector search) on your own hardware
+2026-10-21T03:08:32Z,surrealengine_auth,0.2.0,SurrealEngine Team <st0pt4ck1ngus@gmail.com>,MIT,119657,Authentication and authorization module for applications using SurrealDB & SurrealEngine
+2026-10-21T03:09:34Z,pitch-garden,0.1.0,Takenori Yoshimura,Apache-2.0 AND MIT AND ISC,184561,A unified interface to various pitch trackers with ensemble voting
