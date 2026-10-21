@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T20:18:28Z,maci-conformal,0.2.2,MLAI-Yonsei,MIT,160172,Multi-LLM Adaptive Conformal Inference (MACI): conformal claim filtering for LLM factuality
+2026-10-21T20:20:28Z,karni-impersonation,0.3.1,,Apache-2.0,58485,"Impersonation module for the Karni Django + React framework: 'log in as user' for support, done safely — an explicit permission, no privilege escalation, a banner, a session record, both identities i…"
+2026-10-21T20:21:54Z,ikonym,0.1.0,Numera11y,MIT,368900,Deterministic geometric SVG avatars generated from an identifier.
+2026-10-21T20:23:51Z,ttr-sqlalchemy,0.11.0,Collite,Apache-2.0,26271,A DB-API driver and SQLAlchemy dialect (tatrman://) for a Tatrman Server's Arrow Flight SQL edge
+2026-10-21T20:27:55Z,adk-memshield,0.1.0,Aalishan,Apache-2.0,52942,Zero-trust multi-tenant semantic memory service for Google ADK backed by PostgreSQL pgvector and Row-Level Security (RLS).
+2026-10-21T20:31:23Z,basin2vec,0.1.0,Basin2Vec authors,MIT,27411,Programmatic access to pretrained Basin2Vec basin-year embeddings
+2026-10-21T20:34:00Z,pagesift,0.12.1,,AGPL-3.0-only,31166567,"Clean Markdown from web pages for LLMs. A Rust core: fast, multi-core, no browser needed for static pages."
+2026-10-21T20:34:43Z,easypics-sdk,0.0.1,Septy Studios,"MIT License Copyright (c) 2026 Septy Studios Permission is hereby granted, free of charge, to any p…",18670,Official Python SDK for the EasyPics Developer API.
+2026-10-21T20:37:05Z,c3g-flask-opa,0.1.0,Paul Stretenowich <paul.stretenowich@mcgill.ca>,,41977,Flask before_request hook that enforces an OPA policy for C3G Tier-3 web apps
+2026-10-21T20:37:09Z,c3g-oidc,0.1.0,Paul Stretenowich <paul.stretenowich@mcgill.ca>,,46001,In-app OIDC client (Flask token validation + CLI device-code login) for C3G web apps
+2026-10-21T20:41:41Z,airflow-provider-duckless,0.6.0,,Apache-2.0,10020,"Apache Airflow provider for DuckLess: run DuckDB jobs on Google Cloud from a DAG, deferrable"
+2026-10-21T20:41:49Z,replex,0.1.0,Ashish Kalidas,MIT,1805835,"Record-and-replay regression testing for AI agents: record a run once, replay it offline forever, and fail CI when behaviour drifts."
+2026-10-21T20:44:51Z,ansible-jsonrpc-server,0.0.1,Ville Rasanen <ville@datacrunch.io>,GPL-3.0-or-later,72399,A JSON-RPC server for executing Ansible modules over stdin/stdout
+2026-10-21T20:47:01Z,torch-fis,0.2.0,Thiago Medeiros <mdrs.thiago@gmail.com>,MIT,187025,A differentiable Fuzzy Inference System (FIS) library built on PyTorch
+2026-10-21T20:50:11Z,simforge-gym,0.2.0,SimForge,Apache-2.0,181861,"Gymnasium environments, scenario-set task distributions and the runtime-protocol client for the SimForge runtime"
+2026-10-21T20:50:53Z,runnerid,0.0.0,Torchrunner,MIT,1559,Placeholder for runnerID by Torchrunner. Not yet released.
+2026-10-21T20:52:32Z,panoptes-observe,0.1.1,Miggy <miguel@throttlai.com>,Apache-2.0,268444,"Adapter-based agent observability, local audit trails, and policy gates."
+2026-10-21T20:53:04Z,rtide-optimizer,1.0.0,Emine Ayaz,MIT,21498,RTI-DE: Rejected-Trial Interpolation Differential Evolution for box-constrained continuous minimisation
+2026-10-21T20:55:37Z,fastapi-mcp-neo,0.13.0,tangkikodo,MIT,447922,"The agent access layer for FastAPI: one graphql_query tool with composition and per-caller auth, derived from your existing app — zero decorators."
+2026-10-21T20:56:59Z,microcosm-emitter-interface,0.5.0,,MIT,49334,Typed hand-over calls from Microcosm builds to the separately installed microcosm-emitter
+2026-10-21T20:57:27Z,revolta,0.1.1,"Leon, 1Cat AI, vLLM Team",Apache-2.0,79420125,ReVolta: an NVIDIA Volta / V100 (SM70) inference engine based on 1Cat-vLLM and vLLM
+2026-10-21T21:03:40Z,selfjevai-sdk,0.4.3,Jwuthri,Apache-2.0,179804,"selfjev: an open decisions model (selfjev-4b) with Jev's API. SDK, server, fine-tuning and RLCD."
+2026-10-21T21:15:57Z,padwan-proxy,0.1.0,julien.brayere@polarsen.io,"MIT License Copyright (c) 2026 polarsen-io Permission is hereby granted, free of charge, to any per…",59223,"Serve the Anthropic Messages API over any OpenAI-compatible backend, so Anthropic clients (e.g. Claude Code) can use it"
+2026-10-21T21:18:28Z,adjoint-helper,0.0.1,Ben Cerjan <bcerjan@gmail.com>,AGPL-3.0-or-later,1808436,A set of tools for assisting with adjoint-based optimization for electromagnetics.
+2026-10-21T21:19:13Z,gtfs-garage-core,0.6.0,MobilityData,Apache-2.0,101941,"Load, convert to Parquet and query a GTFS feed with DuckDB. The library behind GTFS Garage."

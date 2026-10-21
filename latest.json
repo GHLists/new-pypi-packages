@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-10-21T19:18:59.209987Z",
-    "path": "data/new-packages-2026-10-21T20-19-15-583362Z.csv",
-    "to": "2026-10-21T20:19:15.583362Z"
+    "count": 25,
+    "from": "2026-10-21T20:19:15.583362Z",
+    "path": "data/new-packages-2026-10-21T21-19-41-594852Z.csv",
+    "to": "2026-10-21T21:19:41.594852Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-21T18:48:28Z",
       "package": "aa-assetsearch",
       "since": "2026-10-21T18:20:31.941463Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-21T18:33:41Z",
       "package": "databricks-lakebase-adapters",
       "since": "2026-10-21T18:20:31.941463Z",
@@ -22,13 +22,13 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-21T20:18:28Z",
-      "package": "maci-conformal",
-      "since": "2026-10-21T19:18:59.209987Z",
-      "version": "0.2.0"
+      "created_at": "2026-10-21T21:19:31Z",
+      "package": "greenray-aio",
+      "since": "2026-10-21T20:19:15.583362Z",
+      "version": null
     }
   ],
-  "serial": 42560240,
+  "serial": 42562643,
   "source_truncated": false,
-  "window": "2026-10-21T20:19:15.583362Z"
+  "window": "2026-10-21T21:19:41.594852Z"
 }
