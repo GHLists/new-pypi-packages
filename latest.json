@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-10-22T09:19:28.665143Z",
-    "path": "data/new-packages-2026-10-22T10-20-19-511832Z.csv",
-    "to": "2026-10-22T10:20:19.511832Z"
+    "count": 44,
+    "from": "2026-10-22T10:20:19.511832Z",
+    "path": "data/new-packages-2026-10-22T11-19-30-396762Z.csv",
+    "to": "2026-10-22T11:19:30.396762Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-22T08:13:16Z",
       "package": "amgi-pulsar",
       "since": "2026-10-22T07:21:52.214805Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-22T08:42:16Z",
       "package": "impact-initiatives-argus",
       "since": "2026-10-22T08:18:37.862972Z",
       "version": null
     }
   ],
-  "serial": 42587572,
+  "serial": 42589721,
   "source_truncated": false,
-  "window": "2026-10-22T10:20:19.511832Z"
+  "window": "2026-10-22T11:19:30.396762Z"
 }

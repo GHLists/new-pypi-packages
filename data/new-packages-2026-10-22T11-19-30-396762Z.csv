@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T10:22:02Z,autoware-carla-scenario-t4,0.1.1,Masaya Kataoka <ms.kataoka@gmail.com>,Apache-2.0,935811,Write autoware_carla_scenario runs as T4 datasets (TIER IV's nuScenes-style format)
+2026-10-22T10:22:32Z,cupy-stubs,1.1.0,Phil A.,MPL-2.0,34218,Type stubs for CuPy
+2026-10-22T10:22:36Z,minimindslab-csv-cell-trim,0.1.0,MiniMindsLab,MIT,6905,Trim leading and trailing whitespace from every cell in CSV-like row data while preserving row structure and quoted empty fields.
+2026-10-22T10:22:39Z,blackclip-guardrail,0.1.0,Noah TaeHwan Oh,FSL-1.1-ALv2,611841,"AI와 함께 만든 매매 전략을 실돈 넣기 전에 점검하고, 넣은 뒤에는 백테스트대로 가는지 지켜보는 로컬 엔진(macOS)"
+2026-10-22T10:23:52Z,tree-sitter-bolt,0.1.0,"Sam Vervaeck <samvv@pm.me>, Max Brunsfeld <maxbrunsfeld@gmail.com>, Amaan Qureshi <amaanq12@gmail.c…",MIT,278970,Bolt grammar for tree-sitter
+2026-10-22T10:27:57Z,pagerless,0.1.0,,MIT,60442,"Pagerless: wake the right person when your app breaks. Groups, scrubs and sends errors, request health, heartbeats and check-ins."
+2026-10-22T10:28:22Z,psyllium,1.0.0,RM Psyllium LLP <info@rmpsyllium.com>,MIT,6831,"Tiny CLI reference for buying psyllium husk and psyllium husk powder (isabgol, ispaghula): grades, COA checklist, certifications, quotes. By RM Psyllium."
+2026-10-22T10:28:34Z,namespacetesting,3.1.1,Tomasz Mazurek,MIT,3241,A small demo Python package for testing PyPI publishing
+2026-10-22T10:31:20Z,autohorse,0.0.1,autohorse-top,,1190,Reserved placeholder for the autohorse project.
+2026-10-22T10:31:21Z,autohorse-top,0.0.1,autohorse-top,,1231,Reserved placeholder for the autohorse-top project.
+2026-10-22T10:31:22Z,autohorse-labs,0.0.1,autohorse-top,,1244,Reserved placeholder for the autohorse-labs project.
+2026-10-22T10:31:54Z,visionpipe,0.1.0,ganhao,MIT,26917,"Practical computer-vision helpers for images, video, and datasets."
+2026-10-22T10:33:38Z,topology-scanner,1.0.0,danielsm107,MIT,166820,Network topology scanner (nmap + SNMP) with device classification and an interactive HTML map
+2026-10-22T10:40:30Z,wiretorch,0.1.0b1,Rory Bedford,MIT,534148,"Neural network models built from connectomes, in PyTorch"
+2026-10-22T10:40:43Z,axpilot,0.1.0a1,AXPilot contributors,Apache-2.0,1697163,"AXPilot: an MCP server that lets AI agents see and operate macOS, safely."
+2026-10-22T10:42:21Z,stratstat,0.1.0,Syed Qaisar Jalil,MIT,322517,"Quantitative strategy evaluation statistics — the modern successor to empyrical, pyfolio, and QuantStats."
+2026-10-22T10:44:07Z,langchain-mekong,0.1.0,Mekong Trade Intelligence,MIT,16452,"LangChain partner tools for the Mekong x402 pay-per-call API fleet (Base, USDC, no signup)"
+2026-10-22T10:44:32Z,mekong-x402,0.1.0,Mekong Trade Intelligence,MIT,21114,"Native LangChain/CrewAI tools for the Mekong x402 pay-per-call API fleet (Base, USDC, no signup)"
+2026-10-22T10:45:54Z,my-little-help,0.1.0,Jurek Bach <jurek_bach@pm.me>,,4203,Some code for PyPi Projects to make stuff easier.
+2026-10-22T10:46:01Z,matrixswarm-hornet,0.15.1,Daniel F. MacDonald,AGPL-3.0-only,358593,"Durable coding goals for local models: bounded context, checked results, and resumable work"
+2026-10-22T10:48:09Z,bestex-pulse,1.0.0,BestEx Research,LicenseRef-Proprietary,104969,Python client for BestEx Research Pulse Analytics: market impact cost estimates and analytics for futures and US equities.
+2026-10-22T10:49:17Z,shiva-crunchtools,1.0.1,crunchtools.com,AGPL-3.0-or-later,552807,Mass SSH client: run one shell command on many hosts in parallel
+2026-10-22T10:53:10Z,Autarkia-Textkit,0.1.0,Shihao Qi <qishihao512@gmail.com>,MIT,43368,"Chinese chat text segmentation and set similarity measures: bubble splitting, cleaning, numbered lists, emoji gluing, Markdown span repair, IoMax/containment/Jaccard/ngram."
+2026-10-22T10:53:14Z,Autarkia-Cadence,0.1.0,Shihao Qi <qishihao512@gmail.com>,MIT,58092,"Proactive message cadence governance: cooldowns, quiet hours, daily caps, adaptive intervals, backoff jitter, and sleep-window probes. Extracted from the Autarkia agent runtime."
+2026-10-22T10:53:25Z,schreiblotse,0.1.0,Raviteja Kotikalapudi,MIT,884490,"Live preview, comments and journal-ready export for scientific manuscripts written in Markdown."
+2026-10-22T10:54:19Z,flattrace,0.1.0,Mario Hawat,MIT,40312,Small local JSONL traces with cross-process parentage
+2026-10-22T10:55:05Z,Autarkia-Msgqueue,0.1.0,Shihao Qi <qishihao512@gmail.com>,MIT,23708,"Reliable offline message queue for WebSocket clients: per-type TTL, message-id dedupe, discard-after-elsewhere-delivery, atomic replay, per-user locks and a receiver-side staleness guard."
+2026-10-22T10:55:57Z,nistor-plugin-custom-python,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1463,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-22T10:55:59Z,nistor-plugin-platform-jobs,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1461,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-22T10:56:00Z,nistor-plugin-scheduler,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1426,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-22T10:56:02Z,nistor-testing,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1339,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-22T11:00:14Z,goalpost,0.1.1,,MIT,57169,"See where a diff made the tests easier to pass. Local, no API key."
+2026-10-22T11:00:21Z,fe-dw-lib,0.0.0,sc,BSD License,2351,A small example package
+2026-10-22T11:03:18Z,micalang,0.1.0,LeoLoudWarden,Apache-2.0,163487,"Mica: a scripting language with cheap, arbitrarily nested VM isolation"
+2026-10-22T11:03:51Z,telekinesis-illusion,0.2.3,Telekinesis <support@telekinesis.ai>,GPL-3.0-or-later,605403,A synthetic data generation package.
+2026-10-22T11:07:00Z,tp-trace,0.1.6,,,203367,tp_trace: High-performance Python Observability SDK for OpenTelemetry
+2026-10-22T11:07:10Z,trellisdb,2.0.0,Oliver Ernster,MIT,53600,Tiny embedded document database for Python with N-dimensional coordinate keys.
+2026-10-22T11:07:47Z,hidevs-eval,0.1.1,,,17048,HiDevs quest eval client. Runs the local agent and uploads replies for scoring.
+2026-10-22T11:12:28Z,vasp-util,0.0.0,"Kengo NAKADA <kengo.nakada@email.com>, Kentaro Kobayashi <kobayashi@mat.shimane-u.ac.jp>",,97676,rmc_dft is a Python package for performing Reverse Monte Carlo modeling and ab initio molecular dynamics / relaxation using VASP code.
+2026-10-22T11:13:59Z,verdettoqr-threat,0.1.0,Verdetto <support@verdettoqr.com>,MIT,72045,"Check links, domains and crypto addresses against Verdetto's listings and other sources, mostly with no request."
+2026-10-22T11:16:07Z,kennis,0.12.0,Brian Welman,GPL-3.0-or-later,2669963,Local knowledge and memory management system for users and AI
+2026-10-22T11:17:37Z,fridaforge,0.3.0,noobexon1,MIT,39561,"Generate Frida scripts from IDA Pro, Binary Ninja, and Ghidra"
+2026-10-22T11:17:46Z,torch-flowgraph,0.1.0,"""European Centre for Medium-Range Weather Forecasts (ECMWF)"" <software.support@ecmwf.int>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",749787,PyTorch computation graph tracing and visualization
+2026-10-22T11:18:10Z,bcrypt-practical-kit,1.0.0,,,9869,Educational Python demonstrations for four ethical hacking practicals
