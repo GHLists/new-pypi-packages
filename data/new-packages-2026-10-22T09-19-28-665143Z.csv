@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T08:18:33Z,unitracker,0.1.0,Josh Bailey,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",705760,"A generic C64 SID tracker song format, GoatTracker 2, defMON and SID-Wizard lifters, and a generic player"
+2026-10-22T08:18:52Z,ldw-labs,0.2.1,AsemDevs,Apache-2.0,40726,Guarded failure labs plugin for the Local DevOps Workbench.
+2026-10-22T08:18:52Z,ldw-vm,0.2.1,AsemDevs,Apache-2.0,204925,OrbStack VM deployment plugin for the Local DevOps Workbench.
+2026-10-22T08:18:59Z,ldw-observability,0.2.1,AsemDevs,Apache-2.0,26296,Opt-in observability stack plugin for the Local DevOps Workbench.
+2026-10-22T08:19:22Z,opal-optimizer,0.3.5,"Xingjian Bai, Jia-Hao Liang, Jayden Teoh, Vincent Sitzmann",MIT,444826,"A coding agent inside your training run, rewriting the optimizer while it trains"
+2026-10-22T08:20:03Z,local-devops-workbench,0.2.1,AsemDevs,Apache-2.0,1002226,"A safe local DevOps control plane for native, Compose, DDEV, Kubernetes, and OrbStack VM projects."
+2026-10-22T08:21:16Z,simulo-viz,0.1.0,Simulo Team <team@simulo.ai>,BSD-3-Clause,278897,"Simulo Viz: the VizStream scene and message format, its channel table and its MCAP mapping."
+2026-10-22T08:25:07Z,latet,0.9.0,Emanuele Casabona <siphion@gmail.com>,LicenseRef-Latet-Sustainable-Use-1.0,57600890,A local privacy firewall for AI agents: masks secrets and personal data before they reach the model and restores them locally.
+2026-10-22T08:28:12Z,owl-widgets,0.1.0,,MIT,3083191,OWL: composable optics widgets for Python notebooks
+2026-10-22T08:28:35Z,asp-format,0.1.0,Erik Groeneveld,LGPL-3.0-or-later,759068,A formatter for Answer Set Programming (ASP) programs
+2026-10-22T08:29:26Z,ccpaste,0.1.0,Louis Wu,MIT,105292,"Sharp previews of everything you paste into Claude Code: images and text, every session, in your terminal via Sixel."
+2026-10-22T08:30:55Z,pdfrune,0.1.0,Gwang-Jin Kim <gwang.jin.kim.phd@gmail.com>,MIT OR Apache-2.0,8913636,"Ultra-Fast, Memory-Safe, Permissive PDF Engine in Rust & Python"
+2026-10-22T08:31:11Z,synqtune-mcp,0.1.1,SynqTune,,23794,"MCP server for SynqTune: check runs and comparison reports, estimate costs and launch fine-tuning pipelines in your own AWS account from your coding agent."
+2026-10-22T08:31:47Z,local-codebase-indexer,0.3.1,sfy257000,,155637,"Local codebase indexer and context provider for AI coding assistants: MCP server and CLI with SQL data-access and C# call relations. No cloud, no server."
+2026-10-22T08:36:09Z,megahal3,1.0.0,dqd <id@dqd.cz>,WTFPL AND BSD-2-Clause,25915,"Python 3 implementation of MegaHAL, the Markov chain chatbot"
+2026-10-22T08:41:28Z,diocms,0.0.1,Диброва Павел Константинович,Apache-2.0,16696,Резервирование наименования проекта DioCMS — модульной системы управления сайтом.
+2026-10-22T08:41:35Z,dio-ai,0.0.1,Диброва Павел Константинович,Apache-2.0,9053,Резервирование наименования модуля dio_ai проекта DioCMS.
+2026-10-22T08:41:36Z,dio-chat,0.0.1,Диброва Павел Константинович,Apache-2.0,9102,Резервирование наименования модуля dio_chat проекта DioCMS.
+2026-10-22T08:41:37Z,dio-edu,0.0.1,Диброва Павел Константинович,Apache-2.0,9074,Резервирование наименования модуля dio_edu проекта DioCMS.
+2026-10-22T08:43:37Z,dame-rs,0.1.0,Markus Bilz <github@markusbilz.com>,MIT,10505805,"An extremely fast international draughts engine for Python, written in Rust 🦀."
+2026-10-22T08:43:54Z,rsi-boot,0.1.1,wenxing luo,MIT,970921,"Repo-bound MCP with recursive self-improvement (Harness-RSI) — memory follows the project across hosts, and the harness gets better as you use it."
+2026-10-22T08:47:49Z,Autarkia,0.1.2,Shihao Qi <qishihao512@gmail.com>,MIT,37434,"Tool governance for AI agents: registry, risk levels, role-based access, visibility rules, and execution guards. The tool layer of the Autarkia agent runtime."
+2026-10-22T08:47:59Z,ctxopt,0.2.0,ctxopt contributors,MIT,31590,"A lightweight CLI for taming LLM context windows: sandbox noisy tool output, summarize long conversations, and route prompts to the right model tier."
+2026-10-22T08:47:59Z,video2doc,0.1.1,video2doc contributors,MIT,279186,Turn interview and tutorial videos into illustrated HTML tutorials.
+2026-10-22T08:48:50Z,nonebot-plugin-volt-toy,0.1.1,Funny1Potato,MIT,61169,电击群友：电压 / 电量 / 度数记账，失败计数，供电局文案
+2026-10-22T08:48:56Z,kksanic,0.1.0,Python卡皮巴拉,MIT,902129,基于 Sanic + Tortoise 的后端小工具箱：统一响应、入参校验、出参序列化、RESTful 一键接口、后台管理站、接口文档、分表
+2026-10-22T08:50:26Z,polars-anta,0.1.0,"""An Phan (Phan Bùi Hữu Ân)"" <phanbuihuuan261103@gmail.com>",Apache-2.0,264257,"ANTA (Alpha & Numerical Technical Analysis): Ultra-fast, zero-C technical analysis and factor library for Polars."
+2026-10-22T08:51:44Z,pytest-codex,0.0.1,CZJ,MIT,13385,Core preview for pytest-codex: Codex JSONL event parsing and file-change snapshots.
+2026-10-22T08:52:09Z,readiness-kit,0.1.0,Rainkernel Technologies Private Limited <oss@rainkernel.com>,Apache-2.0,245386,"The open-source frame under the Agent Readiness Gate: an evaluation harness with a held-out split, a starter attack pack mapped to OWASP ASI01-ASI10, adapters for the open agent scanners, an eight-ar…"
+2026-10-22T08:54:15Z,syntropy-lhm,0.1.0,Syntropy Health,Apache-2.0,170417,"LHM — Longevity Health Metrics SDK: chat-programmable, clinically-modelled n-of-1 personal metrics (correlation-not-causation by construction)."
+2026-10-22T08:58:02Z,anuga-paraview,0.1.0,ANUGA community,Apache-2.0,3132487,"View ANUGA .sww files in ParaView, and in a web browser"
+2026-10-22T08:58:32Z,fincanva,1.0.0,Coding Wand <help@fincanva.com>,MIT,1009419,"Build, backtest and analyse Fincanva strategies from Python."
+2026-10-22T09:01:24Z,vaayu-rust,0.2.0,,,256537,
+2026-10-22T09:01:48Z,tryaii-minilm-int8,1.0.0,TryAII Team <ceo@tryaii.com>,Apache-2.0,41921614,The embedding model of the tryaii SDK: all-MiniLM-L6-v2 as an int8 ONNX file (no PyTorch).
+2026-10-22T09:04:38Z,numlyx,1.0.0,,,27360,A compact collection of data analytics and machine learning practical code examples
+2026-10-22T09:11:19Z,api-stress-lab,0.1.0,,MIT,34077,Config-driven async API reliability and load testing.
+2026-10-22T09:12:23Z,automated-data-analyst,0.3.0,Sainesh Nakra,MIT,929309,"Exploratory analysis for CSV and Excel tables, with the calculation behind every number."
+2026-10-22T09:12:56Z,neam,0.1.0,Eav Puthcambo <p.camboeav@gmail.com>,Apache-2.0,46814,"Neam (នាម): Khmer news named entity recognition (PER, ORG, LOC)"
+2026-10-22T09:14:27Z,spantrad,0.0.1,SpanTrad <admin@soundtherapeutics.net>,,2471,SpanTrad SDK and Zero-Trust Client - Coming Soon
+2026-10-22T09:17:27Z,nexor-runner,0.2.0,nexor-runner contributors,MIT,356719,Hosts and runs AI coding agents in tmux sessions
+2026-10-22T09:17:40Z,gdocs-client,0.1.0,moryoav,Apache-2.0,17317,A small Google Docs client for creating documents and appending and reading text
+2026-10-22T09:18:17Z,claude-focus,0.1.0,Nejc Skoberne,MIT,266637,One priority queue over all your running Claude Code sessions in herdr or iTerm2
+2026-10-22T09:19:06Z,pywecomarchive,0.1.0,,MIT,10349475,企业微信会话内容存档原生 SDK 的 Python 封装
