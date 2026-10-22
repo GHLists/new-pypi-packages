@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T04:21:40Z,amagi-env-check,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,40828,"Diff .env, .env.example and your live Vercel, Railway or Fly environment. Reports missing, extra, empty and duplicate keys without ever printing a value."
+2026-10-22T04:23:06Z,antfly-embedded,0.3.0rc2,,Apache-2.0,122477527,Apache-2.0 embedded Antfly databases and inference
+2026-10-22T04:25:03Z,amagi-vaultgraph,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,788364,"Turn an Obsidian vault or Claude Code memory folder into one shareable 3D graph HTML file, with an orphan report and link suggestions. Names only, never note text."
+2026-10-22T04:25:20Z,batchlet,0.1.0,,Apache-2.0,61258,Async batching with item and token budgets
+2026-10-22T04:26:51Z,telespec,0.1.0,Akshaj Bachu,MIT,1325955,Explainable spectral analysis and anomaly detection for irregular network telemetry
+2026-10-22T04:26:52Z,biosqi,0.1.0,Akshaj Bachu,MIT,1314336,"Transparent, calibrated signal-quality assessment for biomedical recordings"
+2026-10-22T04:28:53Z,amagi-crm,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,197092,"Self-hosted CRM starter for small firms: contacts, deal pipeline, tasks, booking, with field-level encryption and a tamper-evident audit log."
+2026-10-22T04:31:34Z,margins,0.0.1,Tommy Liu,MIT,4224,Grade paper assignments on your own machine.
+2026-10-22T04:32:38Z,pyvista-build,0.1.0,The PyVista Developers <info@pyvista.org>,MIT,148428,"Build a VTK backend wheel for PyVista from source, guided step by step."
+2026-10-22T04:35:13Z,bkrc-chatlabel,1.0.0,bkrc,MIT,3216952,bkrc_chatlabel：LLM 网页对话自动标注工具（检测/分割/分类），提取标注、统计管理、按任务导出 YOLO 数据集、训练模型
+2026-10-22T04:36:20Z,servo-agent,0.2.0,servo-agent contributors,Apache-2.0,237334,An agent-controllable browser over the Servo engine's built-in WebDriver.
+2026-10-22T04:36:27Z,pramaan,0.1.0,,,1852343,"Pramaan API client: call any Pramaan capability from Python, plus payments and testing helpers"
+2026-10-22T04:37:39Z,servo-reader,0.4.0,Parker Brown,Apache-2.0,58249,Ultra-lightweight terminal web reader: render any site as clean markdown using the Servo engine.
+2026-10-22T04:39:48Z,amagi-federal-compliance-matrix,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,67329,"Turn a federal RFP or solicitation PDF into a compliance matrix (XLSX + markdown) with a blank response column, and carry your answers forward when an amendment drops."
+2026-10-22T04:44:22Z,serogen,0.0.1,Tom Stanton <tomdstanton@gmail.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",20991570,Genomic analysis for in silico serotyping
+2026-10-22T04:44:54Z,amagi-name-check,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,51020,"Check a project name against PyPI, npm, crates.io, Homebrew, GitHub and common domains in one command, with near-collision warnings."
+2026-10-22T04:48:52Z,eza-bin,0.23.5,dowon <ks2515@naver.com>,EUPL-1.2,8885908,A modern alternative to ls
+2026-10-22T04:49:36Z,langtext,0.1.0,Mohamed Abukar,MIT,14188,Write AI agents using Python and natural-language function bodies.
+2026-10-22T04:51:45Z,tosa-ml,0.4.0,Tosa ML contributors,MIT,59480,Reusable machine-learning preprocessing and training components
+2026-10-22T04:54:45Z,amagi-receipts-to-csv,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,63432,"Turn a folder of receipt photos and PDFs into a clean CSV (date, vendor, subtotal, tax, total, category) with local OCR. QuickBooks Online bank-import preset. No cloud upload."
+2026-10-22T04:56:09Z,launchdarkly-ai-vercel-agents,0.0.0,,MIT,2461,Placeholder package
+2026-10-22T04:59:27Z,agentics-you,1.2.0,Agentics Technologies LLC <hello@agentics.you>,Apache-2.0,65847,"Agentics SDK for Python: shared memory for AI agents, receipts and the gateway."
+2026-10-22T04:59:31Z,elucid8,0.18.0,The eLucid8 Authors,MIT OR Apache-2.0,14087125,"eLucid8 from Python: run programs of values over named dimensions, with DataFrames in and out"
+2026-10-22T05:01:53Z,curtail-str,0.1.6,Alan Ferreira,MIT,9342,"Pure, configurable identifier abbreviation without dictionaries"
+2026-10-22T05:07:13Z,py-oauth-kit,1.0.0,Pirate Developer,MIT,50267,"OAuth 2.0 helpers: build authorization URLs, exchange codes for tokens and fetch user details."
+2026-10-22T05:07:35Z,lib-installer,3.0.1,"""Nima Askari (NimaLTD)"" <nima.askari@gmail.com>",Apache-2.0,355415,"Install embedded C libraries into STM32, Zephyr, ESP-IDF, Arduino and PlatformIO projects"
+2026-10-22T05:08:51Z,preference-grouping-solver,0.2.0,Simon Münker <muenker@uni-trier.de>,,74734,Optimal assignment of students to capacity-limited groups based on ranked preferences
+2026-10-22T05:10:49Z,hugpy-settings,0.1.0,,,40926,Shared HTTP-backed settings editor and reports for Hugpy Wrapper and Harness
+2026-10-22T05:11:43Z,pyiron-workflow-assyst,0.2.0,pyiron Team <pyiron@mpie.de>,BSD-3-Clause,96994,A workflow package for ASSYST (Automated Symmetry and Stability Testing) using VASP calculations
+2026-10-22T05:12:21Z,fernetrest,0.1.0,Security Developer,MIT,11744,Secure symmetric file encryption and decryption for data at rest using Fernet and PBKDF2.
+2026-10-22T05:12:59Z,digicommpy,2.0.0,,"MIT License Copyright (c) 2026 Mathuranathan Viswanathan Permission is hereby granted, free of char…",69153,Companion code for Digital Modulations using Python
+2026-10-22T05:15:09Z,ruyijs,0.1.0,ruyijs contributors,MPL-2.0,42715059,Firefox SpiderMonkey JavaScript contexts and native browser APIs for Python
+2026-10-22T05:17:27Z,wintestkit,0.1.1rc1,,MIT,587018,UI test automation for Windows WPF applications
