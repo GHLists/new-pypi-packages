@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T09:17:15Z,otlite,1.1.0,otlite contributors,Apache-2.0,262234,"Install, run and update command line tools by name, without Docker. The lightweight edition of OTInstaller."
+2026-10-22T09:21:20Z,growwer,1.0.1,Growwer Support,MIT,487339,Growwer API
+2026-10-22T09:22:08Z,blankcx330-hello,0.1.4,blankcx330,MIT,5178,一个用于学习 Python 公共库构建与发布的示例工程
+2026-10-22T09:22:48Z,settlementcheck,0.1.0,,MIT,9190939,Offline GHS-WUP Degree of Urbanisation lookup on the Trifold T3 grid
+2026-10-22T09:24:41Z,severn-trace,0.1.0,,,20720,
+2026-10-22T09:25:18Z,dairn,0.1.0rc2,,,1695015,基于原生 QuickJS 的开发治理内核
+2026-10-22T09:32:39Z,zleap-sag2,0.1.0,,MIT,7916915,SAG2 passage retrieval with portable relational storage
+2026-10-22T09:32:43Z,sijl,1.0.1,ibnelhithem,MIT,384941,"Your work, on the record: summarise your own git work for a review period, straight from your local repositories."
+2026-10-22T09:33:27Z,inventree-cbias-plugin,0.2.0,Andre Iwers,MIT,53724,InvenTree plugin: a capacitor's DC-bias (derating) curve on its part page
+2026-10-22T09:39:39Z,opencode-python-sdk,0.1.1,Shrijayan Rajendran,MIT,224310,Typed Python client for the OpenCode 2.x server API
+2026-10-22T09:40:57Z,unicode-block-translations,18.0.0,TakWolf,MIT,36752,"Translations of Unicode block names, with support for language and regional variants"
+2026-10-22T09:43:44Z,crewai-sra-riskgate,0.1.0,Sriram Ramakrishnan,Apache-2.0,21470,"SRA-RiskGate for CrewAI: check stablecoin payments before an agent sends them, and gate transfer tools so held payments are never sent"
+2026-10-22T09:44:21Z,volcenginesdk-inframanager,5.0.54,volc-engine,Apache License 2.0,242731,Volcengine inframanager SDK for Python
+2026-10-22T09:44:33Z,hearthboard,0.1.0,Frank Lynam,MIT,230143,"A small ticket tracker for AI agents and the human who reviews their work: one stdlib-only file, SQLite, server-rendered pages and a JSON API."
+2026-10-22T09:44:34Z,odoo-addon-project-state-extend,16.0.1.0.0.2,"Escodoo, Odoo Community Association (OCA)",AGPL-3,28172,Extend project status selection widget with custom states
+2026-10-22T09:44:55Z,livepublicator,0.1.0,LivePublicator,MIT,8647,Client for the LivePublicator API: publish a company's own news as a press release on a dated public page.
+2026-10-22T09:45:04Z,langchain-vera,0.1.0,Waggle <contact@waggle.ae>,MIT,90964,"LangChain integration for Vera by Waggle: read pages, search the web, results pages, keyword ideas, AI answers, GEO radar, company footprints and a document loader."
+2026-10-22T09:45:16Z,nepdate-core,0.1.0b1,NepDate contributors,MIT,122275,"Bikram Sambat (Nepali calendar) for Python, dependency-free and typed"
+2026-10-22T09:46:19Z,nepdate-patro,0.1.0b1,NepDate contributors,MIT,159129,"Tithi, public holidays and events for nepdate (Bikram Sambat calendar)"
+2026-10-22T09:46:24Z,promptproof-cli,0.2.0,Dylan XM,MIT,49726,"Snapshot & regression testing for LLM prompts — YAML test suites, CI-friendly assertions, any OpenAI-compatible endpoint."
+2026-10-22T09:48:12Z,shifra-api,2.1.0,Shifra,Proprietary,28249,SHIFRA server-driven licensing client for Python products
+2026-10-22T09:48:58Z,tokenguard-client,1.0.0,,MIT,7426,"Rug check for Solana, BNB Chain, Base and Ethereum tokens before you buy: SAFE / CAUTION / DANGER, honeypot sell test, creator record. Standard library only."
+2026-10-22T09:50:59Z,epidash,0.2.0,,MIT,3524542,EpiDash — light MCP-controlled dashboard service: EpidBot publishes and controls dashboards via MCP
+2026-10-22T09:55:47Z,faultgate-zero,0.1.0,Faultline-lab,MIT,131376,"Agent failure checks inside your existing pytest tests: loops, repeated calls, unrecovered errors, token cutoffs and policy breaks."
+2026-10-22T09:59:20Z,wavguard,0.1.0,Fanis Gioles,MIT,40672,"Strict validator for WAV files: reports truncated, misaligned and inconsistent data chunks instead of silently accepting them."
+2026-10-22T10:02:12Z,ai-dev-workspace,0.1.0b5,,MIT,576891,"Shared task memory for AI coding assistants: Claude Code, Codex, Cursor, Copilot, Gemini CLI"
+2026-10-22T10:02:41Z,pydantic-ai-model-selection,0.1.0,aiXbrain GmbH <dev@aixbrain.de>,Apache-2.0,27437,"Per-request model selection, a feature for pydantic-ai-app-factory"
+2026-10-22T10:05:42Z,orkg-field-properties,0.1.0,Sandra Schaftner <sandra.schaftner@informatik.tu-chemnitz.de>,MIT,39133,"Raw property survey per ORKG research field, from an ORKG RDF dump"
+2026-10-22T10:09:12Z,smriprep-msm,6.0.2,,Non-commercial research use only (MSM_HOCR); see licenses/,22184112,"Unofficial original MSM_HOCR binary from sMRIPrep 0.20.0, with runtime libraries"
+2026-10-22T10:10:13Z,smriprep-freesurfer732-data-01,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),45702259,"FreeSurfer 7.3.2 files, part 1 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-22T10:10:21Z,smriprep-freesurfer732-data-02,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),27522443,"FreeSurfer 7.3.2 files, part 2 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-22T10:10:59Z,smriprep-freesurfer732-data-03,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),92509461,"FreeSurfer 7.3.2 files, part 3 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-22T10:14:44Z,simplibs-style,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,153221,A lightweight terminal styling and ANSI color library for Python applications.
+2026-10-22T10:18:13Z,openbis-parser-tofsims,1.0.2,BAM Data Store <datastore@bam.de>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",123524,Parser for ION-TOF ToF-SIMS SurfaceLab files
+2026-10-22T10:19:57Z,gmtry,1.1,zscopuv,GMTRY SOURCE-AVAILABLE LICENSE Version 1.0 Copyright © 2026 radecekq All rights reserved. 1. DEFINI…,27458,All you need for geometry. And more.
