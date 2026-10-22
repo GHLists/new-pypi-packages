@@ -1,0 +1,63 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T13:21:24Z,belgica,0.5.0,Pieter-Jan Scheir,MIT AND CC-BY-4.0,18288583,"Belgian legal reference data: courts, judicial cantons and arrondissements, municipalities and postal codes, and legal and commercial interest rates."
+2026-10-22T13:22:32Z,netbox-db-backup,0.2.0,Najafzadeh Reza,MIT,28879,Minimal NetBox plugin for PostgreSQL database backups.
+2026-10-22T13:24:28Z,nexus-framework,0.1.2,Nexus Team,MIT,266694,"Ultimate Simplicity, Uncompromising Power. Next-Gen Python Framework for Web, Data, and AI."
+2026-10-22T13:24:52Z,prosefmt,0.1.1.dev4,,MIT,79240,"AI-powered text formatting for your terminal — fix grammar, rephrase, summarize, and more. CLI-first, cross-platform, works system-wide."
+2026-10-22T13:25:37Z,llama-index-tools-geekflare,0.1.0,Geekflare <support@geekflare.com>,MIT,16958,"LlamaIndex tools for Geekflare: web search, Google SERP, scraping, screenshots, PDFs, brand data, and website diagnostics."
+2026-10-22T13:25:55Z,blobly,2026.10.1,Marten Hildell,MIT,4188891,"Blobly Net's CAN test engine from Python: projects, buses and an event loop over libblobly"
+2026-10-22T13:29:59Z,logql-to-logsql,0.0.0,,,11424,
+2026-10-22T13:30:03Z,legispec,1.0.0,LegiSpec contributors,Apache-2.0,668927,"LegiSpec: executable legality specification, checker and C++ generator for LLVM GlobalISel rule tables"
+2026-10-22T13:30:16Z,checkmodel,0.1.0,Pablo Legerén <pablolegerensomolinos@gmail.com>,MIT,1347250,One-call diagnostics for statistical models: a Python port of R's easystats/performance.
+2026-10-22T13:31:10Z,hoarse,0.1.1,Daniel Gruno <humbedooh@apache.org>,MIT,1712550,A desktop email client that stays fast at a million messages
+2026-10-22T13:31:33Z,Xorion-verify,0.1.0,Xorion Verify contributors,MIT,33421,Self-hosted ASGI browser verification middleware with bounded request handling
+2026-10-22T13:31:41Z,comfyui-reflex,0.1.0,DiaoDaiaChan <diaodaiachan@qq.com>,MIT,43390,"A lightweight, pure Python standard library designed for manipulating, inspecting, and rewriting ComfyUI API workflows."
+2026-10-22T13:32:37Z,cantorpairs,1.3.1,José Luis Balcázar <jose.luis.balcazar@upc.edu>,,12558,Pairing and tupling and sequencing with Cantor-like encodings and maybe more
+2026-10-22T13:33:44Z,py-livewire,0.1.0,Igor Novgorodov <igor@novg.net>,Apache-2.0,59803,Async Python client for the LiveWire electric motorcycle cloud API
+2026-10-22T13:33:58Z,pdfcompress-cli,0.1.1,Shubham <shubham@example.com>,MIT,21278,A multi-tier interactive and scriptable PDF compression CLI tool
+2026-10-22T13:37:08Z,firewheel-repo-android,1.0.0,FIREWHEEL Developers <firewheel@sandia.gov>,Apache License (2.0),144363,"This repository contains FIREWHEEL Model Components for Android emulation, Android-specific VM resources, and Android-oriented test and automation topologies."
+2026-10-22T13:40:46Z,SilKit-py,1.0.4,"""J. Rln"" <jannis.roeglin@gmail.com>",MIT,22725458,"Python bindings for Vector SIL Kit, providing participant lifecycle management, time synchronization, CAN, RPC, and Pub/Sub communication."
+2026-10-22T13:40:47Z,cedulauy-mrz-scan,0.0.1.dev0,Nicolás Gutiérrez,MIT,5629,Scan and parse the MRZ (Machine Readable Zone) of Uruguayan identity cards (cédula de identidad).
+2026-10-22T13:40:54Z,cog-tiles,0.1.0,,MIT OR Apache-2.0,49846156,"Web map tiles and stitched rasters from tile-aligned Cloud Optimized GeoTIFFs, local or in S3, GCS, Azure or HTTP"
+2026-10-22T13:41:04Z,runspec-wireshark-core,0.1.0,,,61047,"Pure-Python tshark (Wireshark) helpers — the importable core behind runspec-wireshark (no runspec dependency, no runnables)"
+2026-10-22T13:42:21Z,quiet-memo,0.2.0,Shardkiht,MIT,294498,"Quiet-first personal memory: silent writes to local Markdown, powered by Git and MCP"
+2026-10-22T13:42:28Z,corr-vars,2.1.1,"Moritz Thiele <moritz.thiele@charite.de>, Pedram Ramezani <pedram.ramezani@charite.de>",MIT,444861,Build reproducible clinical study cohorts from ICU and hospital data sources
+2026-10-22T13:43:08Z,argonaut-mcp-server,0.1.1,KauaLealz,MIT,184267,"Servidor MCP para descobrir, inspecionar e diagnosticar filas e tópicos (Redis Streams, Kafka, RabbitMQ, SQS, SNS)."
+2026-10-22T13:43:19Z,runspec-wireshark,0.1.0,,,51823,"Wireshark runnable for runspec — read pcap files with tshark (summary, packets, decoded packets, conversations, followed streams, DNS/HTTP/TLS problems, expert info) and capture, filter, or merge them"
+2026-10-22T13:44:00Z,dbt-ditto,0.0.3,,MIT,12042927,"dbt documentation inheritance across projects: dbt-osmosis' YAML management, extended across dbt-loom project boundaries, in one static binary."
+2026-10-22T13:44:48Z,agentdrill,0.7.0,AgentDrill Contributors,MIT,48073,"Test what your AI agent actually changes, not just what it says."
+2026-10-22T13:45:06Z,rulestamp-mysql84-upgrade-blocker-lint,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35544,"MySQL upgrade 8.0 → 8.4: finds the SQL, my.cnf and parameter-group lines that MySQL 8.4 removed, with the fix on each line (bundled Node.js runtime)"
+2026-10-22T13:45:26Z,rulestamp-openbao-migration-lint,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35546,"OpenBao migration check for HashiCorp Vault scripts, Terraform, Helm values and server HCL: 14 rules, each with the OpenBao fix (bundled Node.js runtime)"
+2026-10-22T13:45:44Z,rulestamp-wp-plugin-review-gate,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36654,"The readme.txt and plugin-header lines that send a wordpress.org submission back, found before you submit (bundled Node.js runtime)"
+2026-10-22T13:46:03Z,rulestamp-ai-act-article-50-audit,0.1.10,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33301,"Finds the AI call sites, generation code and system prompts that trigger EU AI Act Article 50 disclosure duties - in force since 2 August 2026. (bundled Node.js runtime)"
+2026-10-22T13:48:27Z,mhuixs,0.2.3,HuJi,Apache-2.0,56209,Mhuixs 内存数据结构服务端的 Python 客户端（MHP/1 协议）
+2026-10-22T13:48:45Z,agentsdiagram,0.1.0,Alex Ojeda Copa,MIT,873442,"See your AI agents: static diagrams of agents, tools and flows for PydanticAI and smolagents — CLI and VS Code extension."
+2026-10-22T13:48:56Z,moatleak,0.1.0rc1,,Apache-2.0 AND CC-BY-4.0,266806,"Local, offline scanner that maps which companies and countries processed your AI prompts."
+2026-10-22T13:49:13Z,tovis,0.1.0,"Johannes Zeitler <johannes.zeitler@audiolabs-erlangen.de>, Meinard Müller <meinard.mueller@audiolab…",MIT,249378,TOVIS: A Python toolbox for tonal visualization of musical audio and annotation data
+2026-10-22T13:50:11Z,casthon-sdk,0.1.0a1,,,193699,Python SDK for writing Casper smart contracts with Casthon
+2026-10-22T13:50:17Z,jotter-tui,0.5.2,,MIT OR Apache-2.0,25059738,jOtter — a fast Jupyter notebook TUI. The Jupyter otter. 🦦
+2026-10-22T13:51:09Z,osw-repair,0.1.0,,MIT,66087,Validate and iteratively repair OSW datasets with GenAI.
+2026-10-22T13:51:52Z,sericite,0.2.0,LeoLoudWarden,Apache-2.0,197667,"Sericite: a scripting language with cheap, arbitrarily nested VM isolation"
+2026-10-22T13:51:55Z,iotfiy,1.0.0,Iotfiy Solutions <iotfiy.solution@gmail.com>,,14500,IOTFIY MQTT gateway client for Raspberry Pi 3/4/5
+2026-10-22T13:53:16Z,manabot,0.2.0,,,7488898,The trainable Magic: The Gathering agent for Manabot
+2026-10-22T13:53:40Z,raidiantai-analytics,0.1.0,Raidiant LLC,MIT,119957,"Send a tool's usage to Raidiant AI from a Python server, with a tool key."
+2026-10-22T13:54:56Z,epyraw,0.1.0,,,805362,Python wrapper for Thermo Fisher RawFileReader library - read .raw mass spectrometry files in Python
+2026-10-22T13:57:18Z,odoo-addon-l10n-br-nfse-dfe,18.0.1.0.0.3,"Escodoo, Odoo Community Association (OCA)",AGPL-3,71953,Monitor incoming national NFS-e documents via the ADN distribution API.
+2026-10-22T13:57:38Z,analyticsreceipts,0.0.2,,MIT,205681,A four-axis grader with per-answer receipts for analytics agents over a semantic layer.
+2026-10-22T13:58:25Z,tgblocks,0.2.0,tgblocks contributors,MIT,648076,A tiny text DSL and a visual block editor for Telegram bots
+2026-10-22T14:01:26Z,xippios-core,0.1.0,XIPPIOS GmbH,Apache-2.0,113566,"Shared core for the xippios Python SDK family: HTTP client, models, errors, MCP/HTTP adapters"
+2026-10-22T14:01:55Z,urban-json-files,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,10512,"Plugin urban-json : fichiers JSON (loadjson, iteratejsonfile) et chemins (concatpath)."
+2026-10-22T14:02:00Z,urban-json-html,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,12271,Plugin urban-json : conversion HTML vers JSON (loadhtml).
+2026-10-22T14:02:06Z,urban-json-random,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,23017,Plugin urban-json : génération de données aléatoires (fonctions de template getrandom_*).
+2026-10-22T14:03:29Z,md-to-word-docx,2.0.1,Liu Song,MIT,541543,Deterministic academic Markdown to journal-compliant Word (.docx) compiler with dual presets and quality gates.
+2026-10-22T14:03:33Z,tts-api-client,0.1.0,Denis Bisekeev <bisekeevdenis@gmail.com>,MIT,10726,Клиент для собственного TTS API (Edge TTS / Google Translate TTS)
+2026-10-22T14:07:46Z,flower-hierarchy,2.2.0.1,Mher Movsisyan,BSD,1878577,Celery Flower with tasks shown under the task that started them
+2026-10-22T14:09:03Z,kater-mcp,0.0.1,,,1030,Placeholder. Part of Kater.
+2026-10-22T14:09:04Z,kater-modeling,0.0.1,,,1081,Placeholder. Part of Kater.
+2026-10-22T14:09:05Z,kater-timeline,0.0.1,,,488,Placeholder. Part of Kater.
+2026-10-22T14:09:06Z,kater-telemetry,0.0.1,,,489,Placeholder. Part of Kater.
+2026-10-22T14:12:54Z,confyui,0.1.0,KpihX,,24329,"KpihX sovereign local image generation and editing daemon over ComfyUI (txt2img, img2img, inpaint; XPU-first)"
+2026-10-22T14:13:45Z,sb-decision,0.2.0,Sarathi Balakrishnan,Apache-2.0,29674,"SB Decision Model: score your own options for any text in one pass, with a trained-in ask. By Sarathi Balakrishnan."
+2026-10-22T14:15:20Z,statcatlib,0.8.0,gabrielgellner,Apache-2.0,328224,"Queryable open data catalog engine for DCAT-AP, StatDCAT-AP, CKAN, and SDMX"
+2026-10-22T14:16:09Z,gozu,0.3.7,,,488113,"Scan code with a pluggable choice of scanners (currently SonarQube, Trivy, and Semgrep) and auto-create tickets in a pluggable choice of ticket-tracking backends (currently Jira), orchestrated with T…"
+2026-10-22T14:17:52Z,knowledge-os-mcp-server,0.3.1,Kauã Leal <kaualealdev@gmail.com>,MIT,741621,MCP server: local knowledge base for Claude agents
+2026-10-22T14:17:55Z,SilKit-py-scenario-runner,0.1.0,,MIT,32368,ECU-independent scenario scheduling and automated testing for SIL Kit Python participants
