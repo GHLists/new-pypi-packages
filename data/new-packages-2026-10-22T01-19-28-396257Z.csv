@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T00:20:25Z,ckanext-pen,0.1.0,Hiroaki KAWAI <hiroaki.kawai@gmail.com>,AGPL-3.0-or-later,42569,CKAN extension that replaces the CKAN login flow with an OpenID Connect login flow
+2026-10-22T00:22:19Z,deliverable-check,1.0.2,darkknight110,MIT,68919,交付前体检：Excel 会不会被算错、方案骨架够不够、稿子改了几轮（可复跑的测量，不是打分）
+2026-10-22T00:22:59Z,industrial-rag-agent,0.1.0,Industrial AI Agents <support@industrialagents.com>,Proprietary,24390,"Local RAG agent for Industrial AI Agents — watches folders, extracts text, OCRs scanned PDFs, indexes in SQLite FTS5"
+2026-10-22T00:23:14Z,voxweaver,0.1.0,,MIT,7069,Config-driven experiment harness loader for shared compute
+2026-10-22T00:24:50Z,funredpandagames,1.0.0,RedPandaGuy1234,GPL-3.0,55078,A collection of retro games playable directly in your terminal
+2026-10-22T00:28:24Z,introspection-aauth,1.0.0,,Apache-2.0,117195,"An AAuth Person Server and Access Server (draft-hardt-oauth-aauth-protocol -11): missions, person and auth tokens, budgets, approvals and four-party federation, over a store you provide"
+2026-10-22T00:28:52Z,remedy-grc-sdk,1.0.0,,Apache-2.0,34447,Server-side client for the Remedy v1 API
+2026-10-22T00:30:19Z,teluri,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,41295,"Strict, typed, zero-dependency parser, builder and comparator for tel: URIs (RFC 3966), with a reader for real-world tel: links"
+2026-10-22T00:30:38Z,geouri,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,44246,"Strict, typed, zero-dependency parser, builder and comparator for geo: URIs (RFC 5870), with the Android map intent form"
+2026-10-22T00:30:59Z,listunsub,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,66722,"Parse, build and check the email List-Unsubscribe headers: RFC 2369, RFC 8058 one-click, RFC 6068 mailto, typed and zero-dependency"
+2026-10-22T00:31:02Z,staunch,0.1.0,,Apache-2.0,96142,Check that a Chialisp contract's published source is the code on chain
+2026-10-22T00:31:06Z,openai-agents-acgs,0.1.0,Martin Lyu,Apache-2.0,54035,"ACGS rule-based tool-call governance for OpenAI Agents SDK function tools, via tool guardrails and approvals"
+2026-10-22T00:31:22Z,srcset,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,72222,"Parse, build, check and resolve the HTML srcset and sizes attributes like a browser"
+2026-10-22T00:35:24Z,usajobs-monitor,0.3.0,amv2,MIT,322562,"Scheduled USAJOBS search with eligibility screening, near misses and run-to-run tracking."
+2026-10-22T00:38:36Z,spdng,0.7.0,Patrick Padgett,MIT,189670,A maintained speedtest CLI with mtr-style path analysis
+2026-10-22T00:40:25Z,aeo-index,0.1.0,Shearwater Labs,MIT,256882,Run the Sextant AI Visibility Index method with your own API keys: which tools do AI engines name first?
+2026-10-22T00:49:52Z,ikea-cli,0.1.0,Sakina,AGPL-3.0-only,169973,"Unofficial command-line client and Python library for the IKEA website: search, stock, cart, favourites, orders"
+2026-10-22T00:52:58Z,gc2everywhere,0.1.0,Alex Zaitsev,MIT,98933,Keep your Garmin activity files and send them to services you choose.
+2026-10-22T00:56:11Z,prophet-batch,0.1.0,Sumedhe Karunarathne,MIT,337742,"Fit and forecast many Prophet models at once: batched exact MAP fits, seeded parallel forecasts."
+2026-10-22T00:56:13Z,icloneos,0.0.0a1,CLONE FRAME,MIT,2450,Name placeholder held by the iclone os team. The real launcher ships later under this same name.
+2026-10-22T00:56:30Z,erpdoo,0.1.0,,MIT,283232,Turn Odoo database changes into business events and stream them to Kafka and other sinks
+2026-10-22T00:59:43Z,tinpals,0.0.2,,MIT,3028,Tinpals is the social network for AI agents. It's for connecting.
+2026-10-22T01:00:38Z,git-into-gsoc,0.14.1,git-into-gsoc contributors,MIT,1216705,"Find your first open-source contribution and prepare for Google Summer of Code: CLI, MCP server, and Agent Skill"
+2026-10-22T01:05:15Z,carvit-autoreceive,0.1.1,Carvit <hello@carvit.ai>,MIT,41621,Carvit DM arrival notifier (autoreceive helper) for coding agents
+2026-10-22T01:05:17Z,semgrep-list-php-projects,0.1.0,,MIT,48466,List the Semgrep projects that contain PHP
+2026-10-22T01:06:05Z,spanormpy,0.1.0,"""Dharmesh D. Bhuva"" <dharmesh.bhuva@adelaide.edu.au>, Agus Salim <salim.a@unimelb.edu.au>",GPL-3.0-or-later,1448698,Spatially-aware normalisation for spatial transcriptomics data (Python port of SpaNorm)
+2026-10-22T01:09:02Z,hktvmall-mcp,0.11.5,benjamin-di,MIT,388030,"MCP server for HKTVmall (Hong Kong): search, product cards, order history and basket edits read back from HKTVmall; never pays"
+2026-10-22T01:09:09Z,uber-mcp,0.1.2,benjamin-di,MIT,312527,"Unofficial MCP server for Uber rides: places, live fares, ride requests behind a confirm step, trip status and history"
+2026-10-22T01:09:15Z,google-photos-mcp,0.3.3,,MIT,336248,Read-only MCP server for one Google Photos library over the web app's private RPCs
+2026-10-22T01:09:21Z,google-maps-keyless-mcp,0.5.3,benjamin-di,MIT,415273,"Read-only MCP server for Google Maps travel times, routes, places and map images, without an API key"
+2026-10-22T01:10:47Z,zeminus,0.0.1,Zeminus,MIT,3559,Zeminus — official package name reservation. See https://zeminus.com
