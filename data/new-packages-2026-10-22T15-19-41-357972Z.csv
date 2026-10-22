@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T14:24:47Z,findakin,0.1.1,matthieulel,MIT,132759,"Population-level questions on collections of astronomical spectra: similarity search, clustering, anomalies, trajectories and encoder benchmarks on a local LanceDB store, with embeddings from spectro…"
+2026-10-22T14:24:52Z,pni501,0.1.0,Yuichi Ito,Apache-2.0,7200,Project Nemesis Index (PNI) - Evaluate software development project health and generate reports.
+2026-10-22T14:25:52Z,screenink,0.5.1,talhacevikk36 (fork of ScreenPen by Robert Susik),GPLv3,118496,Screen annotation software which allows drawing directly on the screen.
+2026-10-22T14:26:00Z,dockflow-cli,0.1.0,,MIT,7560,Dockflow extensible command host
+2026-10-22T14:26:18Z,lighttrace,0.1.0,Ganesh,MIT,183859,"Self-hosted tracing for AI apps and agents: one register() call in the app, one small server"
+2026-10-22T14:32:53Z,amm-optimizer,0.2.0,Benjy Bodner,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",2143465,"AMM: budget-aware routing of classical derivative-free solvers by online landscape probes (import amm, or atm)"
+2026-10-22T14:33:11Z,hypelabs-connect,0.1.0,,MIT,221061,The Python client for the HypeLabs Connect API.
+2026-10-22T14:35:49Z,lazuli-astrosim-data,0.1.0,Mickael Rigault <mick.rigault@gmail.com>,Apache-2.0,94408484,Data bank for Lazuli instrument simulations
+2026-10-22T14:36:11Z,jarvix,0.1.0,loctvl842 <loclepnvx@gmail.com>,MIT,47116,Talk to your agent(s)
+2026-10-22T14:38:34Z,pydiag,1.0.0,pydiag contributors,MIT,4369826,"UDS (ISO 14229) diagnostic toolkit with pluggable multi-vendor CAN/LIN devices (ZLG / PEAK PCAN / Vector / virtual), DoCAN / DoLIN / DoIP"
+2026-10-22T14:38:50Z,neso-energy-py,0.1.0,Frank Boerman-Lima <frank@amunanalytics.eu>,MIT,88686,A python wrapper for the neso.energy API
+2026-10-22T14:40:02Z,varketa-verify-acting-principal,0.2.1,,MIT,25911,Verify the Varketa-Acting-Principal header (claim set versions 3 and 4) on an API that Varketa's agents call.
+2026-10-22T14:42:27Z,llmshift,0.1.0,Chukwu Nzubechi <nzubechukwu00176@gmail.com>,MIT,942259,"Switch AI models without breaking your product: find model calls, turn real usage into tests, compare models, fix prompts and watch for drift."
+2026-10-22T14:45:50Z,verifysentinel,0.1.0,Small Room <sentinelverifyai@gmail.com>,MIT,10392,Is this picture made by AI? A small client for Sentinel's AI image check.
+2026-10-22T14:47:38Z,groundrag,0.2.0,andrea9293,MIT,263172,"Production-grade advanced RAG: multi-format ingest, hybrid recall, cross-encoder rerank, cited generation and evaluation."
+2026-10-22T14:49:26Z,csv-to-db-py,0.1.0,"Karim Ounnoughi, Claude Fauconnet, Juste Bonzene",MIT,184170,Convert CSV file or folder of CSV to DB with table filled with the CSV data
+2026-10-22T14:49:38Z,mercury-cli-sdk,0.1.0,,Apache-2.0,383397,"Mercury CLI clients for Python: typed run streams, hosted sessions and zero-cost fixtures."
+2026-10-22T14:53:45Z,gdmbayes,0.1.0,Harold Horsley <harryhorsley9@gmail.com>,MIT,104777,Bayesian and frequentist Generalised Dissimilarity Modelling in Python
+2026-10-22T14:54:22Z,contextcraft-ai,0.2.0,ContextCraft Contributors,MIT,296968,"AST-Aware, Dependency-Graph-Ranked, Token-Budgeted Semantic Codebase Compressor for LLMs"
+2026-10-22T14:55:44Z,meltanolabs-tap-mongodb,0.3.0,Matt Menzenski,Apache-2.0,50436,"Singer tap for MongoDB and AWS DocumentDB, built with the Meltano Singer SDK."
+2026-10-22T14:56:27Z,clearbox,0.1.0,Kai Habermann,MIT,312198,"Observable, reviewable agent work: DAG plans over MCP, executed node by node and watched live"
+2026-10-22T14:57:11Z,mapli,0.4.1,Ricardo Garcia Silva <ricardo.garcia.silva@geobeyond.it>,MIT,67643171,"Render MapLibre styles to PNG images and XYZ tiles with MapLibre Native, in-process"
+2026-10-22T14:58:31Z,zelos-log-lines,0.1.0,Zelos Cloud <info@zeloscloud.io>,MIT,347534,"Text log lines to Zelos log rows and signals: log levels, device time and printed values."
+2026-10-22T15:01:13Z,xfc-client,1.1.2,Neil Massey,BSD-2-Clause,12079,Client library and command line tool for the Transfer Cache (XFC).
+2026-10-22T15:01:48Z,parachron,1.0,"Hanno Rein, Michael Hippke",GPL-3.0-only,502728,"Parallel-in-time N-body integration (mean-element parareal), based on REBOUND"
+2026-10-22T15:03:40Z,black-cat,0.1.0,,,6460730,"Combinatorial optimization library for Python, written in Rust"
+2026-10-22T15:03:50Z,python-openarch-api,0.1.0,Steve Reiner,Apache-2.0,93407,"Python client for the Hyland OpenArch repository REST API, with Pydantic v2 models"
+2026-10-22T15:05:30Z,pydantic-ai-contextfetch,0.1.0,ContextFetch,MIT,9385,ContextFetch web search and page reading tools for Pydantic AI
+2026-10-22T15:05:42Z,openai-agents-contextfetch,0.1.0,ContextFetch,MIT,9075,ContextFetch web search and page reading tools for the OpenAI Agents SDK
+2026-10-22T15:05:50Z,dspy-contextfetch,0.1.0,ContextFetch,MIT,7167,ContextFetch web search and page reading as DSPy tools
+2026-10-22T15:11:29Z,urban-json-excel,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,16778,"Plugin urban-json : lecture de classeurs Excel (loadxls, loadxlssheet)."
+2026-10-22T15:11:31Z,urban-json-phone,0.1.0,Gael Beard <gaelgael5@gmail.com>,Apache-2.0,8577,Plugin urban-json : validation de numéros de téléphone (phoneisvalid).
+2026-10-22T15:11:34Z,nitpick-voice,0.2.0,Arsh0922,BSD-2-Clause,181378,"A Python framework for building voice agents — frame pipelines, STT/LLM/TTS services, and WebRTC rooms."
+2026-10-22T15:13:28Z,nitpick-core,0.1.0,Arsh0922,BSD-2-Clause,58487,"The agent runtime for nitpick — loads agent definitions from minidb, dispatches them through Prefect, and serves voice rooms."
