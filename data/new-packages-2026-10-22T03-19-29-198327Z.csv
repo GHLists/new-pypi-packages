@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T02:21:42Z,scifigbench,0.1.0,"Lijia Wu, Zheng Li, Yuxuan Liu, Jingwen Zhang, Penghai Zhao, Xiang Li",MIT,104124,"Data loading, visual inputs, and reproducible evaluation for SciFigBench"
+2026-10-22T02:29:20Z,jc-speedtest,0.1.0,Jacivaldo Carvalho <jacivaldocarvalho@gmail.com>,MIT,27616,"Lightweight, programmatic internet speed test for Python. No browser, no ads."
+2026-10-22T02:31:14Z,eda-tools-javkhaa,0.1.1,,,8055,Simple EDA tools for statistics and data analysis
+2026-10-22T02:31:52Z,sunnynet-cx,0.1.0,sunny-cx,Apache-2.0,231339,Original CPU-first sequence architecture with a standalone linear-recurrence inference runtime
+2026-10-22T02:46:45Z,specguard-cli,0.1.0,Atharva Rane,MIT,122473,"Generate a review-ready API test suite from an OpenAPI spec, then guard against contract drift."
+2026-10-22T02:52:18Z,spritehatch-mcp,0.1.0,SpriteHatch,MIT,104359,"MCP server for SpriteHatch: AI agents generate 2D game sprites, animations, effects, items, UI, scenes and tilesets and export them for Godot, Unity, GameMaker and RPG Maker."
+2026-10-22T02:53:21Z,pytest-testrex,0.1.0,,MIT,54494,A pytest plugin that holds a test suite to one layout and one standard of test quality
+2026-10-22T02:54:26Z,sdd-kit-ai,0.15.0,Luciano Oliveira Nunes,MIT,350220,"SDD agnóstico: especificações como contrato, verificação fora do LLM."
+2026-10-22T02:54:54Z,isolation-check,0.3.0a2,isolation-check contributors,Apache-2.0,159529,Creates and verifies supported isolation boundaries for local Git worktree development environments.
+2026-10-22T02:57:26Z,intent-cloak,1.0.0,TextForAgents LLC,Proprietary — Copyright (c) 2026 TextForAgents LLC. All rights reserved.,11669,"Intent Cloak: query-intent privacy for agents — threshold-bounded fragmentation, deterministic normalization, synthetic-task probe, signed exposure receipts (TextForAgents LLC)."
+2026-10-22T02:59:40Z,benchprobe,0.1.1,Louis Yiven Zhu,MIT,564712,"Psychometrics for AI benchmark scores — reliability, factor structure, predictive validity and item-response scaling — validated by reproducing three published studies from pinned data."
+2026-10-22T03:00:02Z,leader-dl,2026.10.22.post1,,MIT,33659,Simple YouTube downloader library (video / audio) built on pytubefix
+2026-10-22T03:03:32Z,gratinglab,0.1.0,Jake McCoy,BSD-3-Clause,795397,Open platform for diffraction grating groove metrology and efficiency analysis
+2026-10-22T03:06:27Z,ctxburn,0.1.1,Gong-Yie <3750387410@qq.com>,MIT,34761,"See where an agent's token budget actually goes. Context replay tax, per turn, as a flame graph."
+2026-10-22T03:09:25Z,mickerbook-sdk,0.2.0,MickerBook Contributors,Apache-2.0,28561,Python SDK and CLI for bringing an Agent into MickerBook safely.
+2026-10-22T03:11:41Z,bldg,0.0.1,bldg contributors,Apache-2.0,10657,bldg: buildings AI agents can edit. This release only reserves the name; the first release is coming soon.
+2026-10-22T03:11:46Z,foundry-cli-agent,0.3.0,FoundryCLI,MIT,153021,A local-first AI coding agent with one gateway for five LLM providers and a self-provisioning database.
+2026-10-22T03:13:20Z,ui-foundation-backend,4.25.0,,MIT,99913,"The auth and security layer shared by FastAPI + SQLModel backends built on ui-foundation: sessions, sign-in limits, TOTP, error reporting, deploy checks, AI chats' OAuth."
