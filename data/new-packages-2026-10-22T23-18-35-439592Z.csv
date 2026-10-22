@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T22:19:03Z,mediapane-diff,0.1.0,hematteo,MIT,15389,"mediapane plugin: compare two images side by side, as a flicker and as a difference heatmap; works as a git difftool."
+2026-10-22T22:19:48Z,agentpile,0.1.0,Yue Zhao <yzhao010@usc.edu>,Apache-2.0,610972,Load public agent-trajectory datasets and agent traces into one run record based on ATIF v1.7.
+2026-10-22T22:20:00Z,torchinterp,1.0.0,lviornery,,6224,Adds 1-d interpolation of arbitrarily-sized data to pytorch
+2026-10-22T22:21:01Z,elasticmodel,0.3.0,Steppe_Mammoth <qwqwqww505@yahoo.com>,MIT,64047,ElasticModel: a thin Pydantic v2 BaseModel wrapper for partial/nested data with lazy access—unloaded fields raise NotLoadedFieldError.
+2026-10-22T22:21:31Z,timeseries-cache,0.1.2,,MIT,30800,Persistent interval cache with caller-defined typed dimensions
+2026-10-22T22:22:54Z,pyui-toolkit,0.1.0,,MIT,9416,"A lightweight, pure-Python UI toolkit with pluggable rendering backends"
+2026-10-22T22:25:45Z,ingot-settings,0.1.0,Aliaksandr Karotki,Apache-2.0,16927,Sources and formats for the settings of Ingots beyond the standard library.
+2026-10-22T22:27:02Z,jinja-rs,0.0.1,Michael Kennedy <michael@talkpython.fm>,MIT,1782,"A project focused on high performance Python web apps, coming soon."
+2026-10-22T22:28:13Z,cosscom,0.1.0,coss.com,MIT,1090847,The coss.com SDK for Python
+2026-10-22T22:28:19Z,mediapane-relay,0.1.0,hematteo,MIT,15282,"mediapane plugin: forward pushes from cluster compute nodes to the pane, via a spool folder on a shared filesystem."
+2026-10-22T22:30:42Z,iomoth,0.1.0,Input Systems,MIT,14394,"Check whether your computer is ready for iomoth, verify a download against its published SHA-256, and find the official places to get iomoth. No network, no writes."
+2026-10-22T22:31:47Z,quantum-llm-client,0.1.0,,,7315,A lightweight wrapper for querying an EC2-hosted LLM via OpenAI API
+2026-10-22T22:32:12Z,pyreth,0.1.0,Abdullah Selek <abdullahselek.os@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",53021116,"High throughput, low latency parallel processing AI model inference engine."
+2026-10-22T22:33:32Z,effective-passkey,0.3.0,XSignOn,MIT,139828,"Offline, read-only Entra ID auditor that computes each user's effective passkey policy after profile overlaps resolve."
+2026-10-22T22:36:51Z,sgl-flash-mla,1.0.0,,MIT,19551380,FlashMLA attention kernels for SGLang
+2026-10-22T22:37:05Z,appnigma-sdk,0.1.0,Appnigma <support@appnigma.ai>,MIT,173870,The package a customer's product installs to reach its Appnigma microserver
+2026-10-22T22:37:29Z,pilota,0.0.1,Kazbek,MIT,81149,Programmable AI agents as ordinary Python expressions
+2026-10-22T22:41:30Z,altss-public-client,0.1.0,Altss <contact@altss.com>,LicenseRef-Proprietary,15142,"Anonymous, bounded readers for Altss public profiles, catalogs, schemas and Markdown."
+2026-10-22T22:41:46Z,dml-rs,0.1.0,Asad Gudzevic <asadgudzevic94@gmail.com>,MIT OR Apache-2.0,2920783,"Fast double / debiased machine learning for causal inference, implemented in Rust"
+2026-10-22T22:44:00Z,wright-workups,0.0.1,Dan Kohler,,16338,Common utitlies for processing Wright Group acquisitions
+2026-10-22T22:48:50Z,fjc-biographies,0.1.0,Corey Rayburn Yung <coreyrayburnyung@gmail.com>,Apache-2.0,203861,Downloads and parses the FJC Biographical Directory of Article III Federal Judges
+2026-10-22T22:50:12Z,agentic-guardrails,0.3.0,,MIT,287027,"Let an AI agent trade your brokerage account without it hurting you: guards, a dead-man gate, idempotent orders, reconcile, and an assignment guard for options execution."
+2026-10-22T22:53:58Z,gra-context,0.1.0,GRA,Copyright (c) 2026 GRA. All rights reserved. This software (the gra-context package) is proprietary…,76977,"A map of your codebase that coding agents query for context, served to Claude Code over MCP."
+2026-10-22T22:54:44Z,apivault-app-store-reviews-scraper,0.1.0,ApiVault Labs,MIT,11631,"Python client for App Store Reviews Scraper on Apify. Run, resume and download results with diagnostics."
+2026-10-22T22:54:44Z,apivault-google-play-reviews-scraper,0.1.0,ApiVault Labs,MIT,11745,"Python client for Google Play Scraper on Apify. Run, resume and download results with diagnostics."
+2026-10-22T22:54:49Z,apivault-telegram-public-channels-scraper,0.1.0,ApiVault Labs,MIT,11780,"Python client for Telegram Channel Scraper on Apify. Run, resume and download results with diagnostics."
+2026-10-22T22:55:58Z,llmf,0.1.0,Html,MIT,64432,"llmf (llmfree): one dead-simple call for free, keyless LLM endpoints, with automatic fallback."
+2026-10-22T22:56:12Z,vosfs,0.12.0,Shiny Brar (he/il),AGPL-3.0-or-later,153427,An asynchronous fsspec filesystem for the OpenCADC VOSpace profile
+2026-10-22T23:01:36Z,docxunravel,0.4.0,,MIT,154196,"Deterministic, lossless DOCX profiling and semantic template automation"
+2026-10-22T23:02:11Z,lp-ip-craft,0.29.0,,MIT,3676373,LP and mixed-integer LP in Rust with a native Rust solver and Python bindings
+2026-10-22T23:05:13Z,ermes-cli,1.0.0,Martech-DM,Proprietary,168464,"CLI-first access to Ermes marketing automation, with Auth0 multi-project auth and an optional compatibility MCP."
+2026-10-22T23:06:35Z,decisionnode-edge,0.9.2,"""Bynn Intelligence Inc."" <licensing@bynn.com>",AGPL-3.0-only,152605,"Run DecisionNode Edge locally: typed, calibrated decisions in the shape of the DecisionNode API."
+2026-10-22T23:17:18Z,openai-agents-withruntime,0.1.0,Runtime LLC,Apache-2.0,14665,Runtime Cloud sandboxes for the OpenAI Agents SDK: run a SandboxAgent in a Firecracker microVM
