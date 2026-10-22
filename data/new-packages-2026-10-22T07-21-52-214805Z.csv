@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T06:20:12Z,enumatic,5.0.0,Tucker Beck,,15382,String-based Enum class that automatically assigns values
+2026-10-22T06:24:02Z,eopl,0.1.0,Manfred Gawlas <manfredgawlas12@gmail.com>,Apache-2.0,1957341,"Earth observation pipeline orchestration, data products, and reproducible reports"
+2026-10-22T06:24:25Z,tackbox-opengrep,0.1.0,,LGPL-2.1,194845358,The opengrep binary used by the tackbox CLI.
+2026-10-22T06:25:31Z,metac,0.0.1,"""Oleg A. Khlybov"" <fougas@mail.ru>",BSD-3-Clause,538971,C metaprogramming & code generation package
+2026-10-22T06:33:32Z,scientiveshield-tools,0.1.0,ScientiveShield,BUSL-1.1,31429,Export Devolens (Cryptolens) licensing data into a ScientiveShield import bundle.
+2026-10-22T06:33:59Z,py-aisim,5.0.1,Bastian Leykauf,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",490156,Simulations for light-pulse atom interferometry
+2026-10-22T06:36:36Z,craftainer-crud-sdk,0.1.0,,GPL-3.0-or-later,307195,"Python client SDK for craftainer-crud APIs: sync and async, caching, SSE events"
+2026-10-22T06:43:20Z,pytest-eo,0.5.1,RaulIQ,MIT,82620,"pytest --eo: strict style gate over ruff, mypy --strict and pyeo"
+2026-10-22T06:47:05Z,poremind,0.1.0,,PolyForm-Noncommercial-1.0.0,2754300,A Python framework for single-molecule nanopore signal analysis
+2026-10-22T06:48:13Z,kindle-pdf-cropper,0.1.0,ygnid,MIT,54980,Auto-crop PDF margins / headers / footers and optionally split pages into Kindle-friendly landscape pages (PDF or EPUB output)
+2026-10-22T06:52:16Z,fetch-hackkit,0.1.0,,MIT,62365,"Batteries for Fetch.ai hackathon agents: chat protocol, ASI:One interactive cards, ASI:One LLM + tools, payments, MCP, and Agentverse registration."
+2026-10-22T06:54:38Z,cryptx-toolkit,1.0.0,Package Maintainer,MIT,21120,Information and Network Security practicals for learning and lab practice
+2026-10-22T06:56:14Z,band-cli,0.0.1,Band <amit.gazal@thenvoi.com>,MIT,4029,Reserved by Band (band.ai). Placeholder package.
+2026-10-22T06:57:50Z,apish-sdk,0.1.0,"""api.sh"" <support@api.sh>",MIT,104183,"Official client for api.sh: public web data (TikTok, Instagram, Amazon, Zillow, Google and 70+ platforms) as clean JSON."
+2026-10-22T06:58:54Z,virgil-vlti,0.1.0,Benjamin Pope <benjamin.pope@mq.edu.au>,MIT,570688,"VLTI calibration and error models for virgil: GRAVITY calibration, plus PIONIER pair test and MATISSE header handling"
+2026-10-22T06:59:25Z,arcadedb-embedded-native,26.10.2.dev0,Taewoon Kim <taewoon@humem.ai>,Apache-2.0,37533747,"PREVIEW: ArcadeDB embedded as a GraalVM native-image library. No JVM, no JPype. Installs beside arcadedb-embedded."
+2026-10-22T06:59:31Z,miseenplace-cli,0.1.1,miseenplace contributors,Apache-2.0,207143,"Every ask, in its place. A chef's mise en place for your workday: the asks, promises and nudges from chat, laid out before the day starts. Agent-native."
+2026-10-22T07:00:08Z,pdfluent-mcp,0.2.0,"""Innovation Trigger B.V."" <team@pdfluent.com>",AGPL-3.0-only OR LicenseRef-PDFluent-Commercial,63460,"MCP server for PDFluent: read, search and fill local PDFs from Claude, Cursor, VS Code and other MCP clients. Your documents stay on your machine."
+2026-10-22T07:00:49Z,racklint,0.1.0,Reza Iskandar Achmad,MIT,51253,Check bare-metal and GPU servers against NetBox before they go into service.
+2026-10-22T07:01:58Z,orchestrator-cookiecutter,0.0.1,GÉANT Orchestration and Automation Team <goat@geant.org>,Apache-2.0,72220,A Cookiecutter template for setting up an implementation of Workflow Orchestrator
+2026-10-22T07:04:02Z,egemma2,0.3.1,DawgOG,Apache-2.0,7216409,"EmbeddingGemma 2 in Rust: text, image, audio and video embeddings on CPU or CUDA, with a Python client and an OpenAI-compatible server"
+2026-10-22T07:05:12Z,brokapi,0.1.0a1,,MIT OR Apache-2.0,40082177,"One interface to the APIs of Russian brokers (BCS, T-Bank, Finam) for Python: a thin layer over the Rust core of brokapi."
+2026-10-22T07:08:42Z,runapi-heygen-video,0.1.0,RunAPI <contact@runapi.ai>,Apache-2.0,9864,"RunAPI HeyGen Video SDK for text-to-video, reference-guided, and image-to-video workflows with generated sound in JavaScript, Python, Ruby, Go, Java, and PHP"
+2026-10-22T07:08:43Z,runapi-qwen-2-1,0.1.0,RunAPI <contact@runapi.ai>,Apache-2.0,18480,"RunAPI Qwen 2.1 SDK for text-to-image, transparent-background, and mask-based image editing workflows in JavaScript, Python, Ruby, Go, Java, and PHP"
+2026-10-22T07:08:43Z,runapi-vidu,0.1.0,RunAPI <contact@runapi.ai>,Apache-2.0,8762,"RunAPI Vidu SDK for image-to-video and reference-to-video workflows in JavaScript, Python, Ruby, Go, Java, and PHP"
+2026-10-22T07:08:47Z,garmin-personal-mcp,0.1.0,Mason Levy,MIT,63483,"MCP server for Garmin Connect on Garmin's official Personal API: sleep, HRV, body battery, activities, and more from any MCP client"
+2026-10-22T07:10:08Z,cartograph-python,0.2.0,Pankaj Redekar,MIT OR Apache-2.0,6486227,Ultra-Fast Native AST Code Graph & Graph Data Science SDK
+2026-10-22T07:11:04Z,iharmony,6.0.1,iHarmony <iHarmony@innominds.com>,MIT,1750866,"iHarmony by Innominds: unified quality engineering framework for UI, API, data and device testing on pytest + Playwright"
+2026-10-22T07:11:49Z,bridge-screen,0.1.0,,,24545355,"Keeps track of where your Claude Code agents are: progress, tangents, and handoffs."
+2026-10-22T07:16:23Z,enchase,2.1.0,Waleed Ajmal,MIT,137360,enCHASE: calibration and analysis pipeline for CHASE/HIS solar spectroscopy (TUI + SDK + CLI)
+2026-10-22T07:16:49Z,tilecdc,0.1.0,Ashutosh Rath,Apache-2.0,252472,"Fast content-defined chunking on CPU matrix units (Intel AMX), with AVX-512 and portable fallbacks that give identical boundaries"
