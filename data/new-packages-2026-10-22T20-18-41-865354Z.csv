@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T19:21:50Z,orgwarrior,0.1.0,Aleks Ozolins <aleks@ozolins.xyz>,GPL-3.0-or-later,855145,"A taskwarrior-style command line for org-mode's agenda, backed by a running Emacs"
+2026-10-22T19:25:43Z,catalogue-client,0.1.0,Vasudeva Server,MIT,13448,Django client for showing products from a catalogue-server site
+2026-10-22T19:26:17Z,mypy-boto3-continuum,1.43.118,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,75565,Type annotations for boto3 Continuum 1.43.118 service generated with mypy-boto3-builder 8.12.0
+2026-10-22T19:26:18Z,orgwarrior-web,0.1.0,Aleks Ozolins <aleks@ozolins.xyz>,GPL-3.0-or-later,1363957,The org agenda on a phone: a small web page over orgwarrior's engine
+2026-10-22T19:26:19Z,types-boto3-continuum,1.43.118,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,75700,Type annotations for boto3 Continuum 1.43.118 service generated with mypy-boto3-builder 8.12.0
+2026-10-22T19:26:20Z,homesmartlink,0.1.0,Michaël Fery <fery.michael@gmail.com>,MIT,27102,Async client for the Home-SmartLink (Carrera) heating cloud API
+2026-10-22T19:26:21Z,orgwarrior-mcp,0.1.0,Aleks Ozolins <aleks@ozolins.xyz>,GPL-3.0-or-later,118246,"A porcelain for Org's agenda, for Claude: an MCP server over orgwarrior's engine and your running Emacs"
+2026-10-22T19:30:27Z,labagent,0.1.0,BeCloudReady,Apache-2.0,115592,"Provision, audit and safely tear down ephemeral AWS sandboxes for workshops, bootcamps and shared training accounts."
+2026-10-22T19:30:27Z,openspacehdl,0.0.1,Julian Schneider <julian.schneider@openspacehdl.org>,MIT,18212,"Open Space HDL, open-source VHDL IP cores for spacecraft on-board data handling: early release that lists the family"
+2026-10-22T19:31:45Z,kanvas-board,0.4.0rc1,XMihura,MIT,191814,A task board you share with your AI coding agents
+2026-10-22T19:32:02Z,simple-grpcio,0.1.5,Pablo Galilea,MIT,54021,"SimpleGRPC - High-performance gRPC made simple. Write less code, ship to production faster."
+2026-10-22T19:33:23Z,mimyr,0.1.0,"Ajinkya Deshpande, Zhilei Bei, Jian Ma",MIT,1222870,"Generative modeling of spatial transcriptomics: cell locations, cell types, and gene expression for unseen tissue sections."
+2026-10-22T19:36:07Z,loopfleet,0.0.1,237151230+SheaHawkins@users.noreply.github.com,,2068,Add your description here
+2026-10-22T19:38:03Z,polyglot3,2026.10.1,"Dcipher Analytics AB <info@dcipheranalytics.com>, ""Rami Al-Rfou (original polyglot author)"" <rmyeid…",GPL-3.0-or-later AND Unicode-3.0,1217749,"Multilingual NLP pipeline (tokenization, language detection, NER, POS, sentiment, embeddings) for Python 3, without ICU."
+2026-10-22T19:38:17Z,agent-aimail,0.2.0,MeterCai,GPL-3.0-or-later,224081,"AIMail runtime SDK (Python): gateway client, platform adapters, resources. Provisioning tools stay in the aimail repository."
+2026-10-22T19:39:44Z,flask-advanced-auth,0.1.0,Waheed,MIT,51728,"Advanced JWT authentication for Flask with multi-rule support, token tracking, and blacklisting."
+2026-10-22T19:40:21Z,pyheatlink,0.1.0,Stefan Slivinski <sslivins@gmail.com>,MIT,38635,"Async Python client for HeatLink, the local controller for Mitsubishi mini-split heads"
+2026-10-22T19:44:52Z,orkit-edu,0.1.0,Meghashyam,MIT,76207,Educational Operations Research algorithms in plain Python
+2026-10-22T19:45:18Z,polyweave-gamekit,0.1.0,Alexandre Oliveira,MIT,6294654,"Make a game's parts by declaring what each must satisfy: 3D assets, pictures, sound loops and the world's text, on top of Blender, Godot and paid generators."
+2026-10-22T19:47:01Z,aethonan,2.8.5,Giovanni Barillari <g@baro.dev>,BSD-3-Clause,5049594,A Rust HTTP server for Python applications (a fork of Granian with native routes and websockets over HTTP/2)
+2026-10-22T19:47:05Z,pychromy,0.1.1,"André Leite <leite@castlab.org>, Raydonal Ospina <raydonal@castlab.org>, Cristiano Ferraz <cferraz@…",,749747,"Chromy's sequential sampling with probability minimum replacement: serpentine sorting, multivariate size measures, equal-CV allocation, and the multiplicity estimator"
+2026-10-22T19:50:00Z,ecotyper-py,0.1.0,Ho Seok Lee,LicenseRef-Stanford-NonCommercial,203036,"Python/AnnData port of EcoTyper (Luca, Steen et al., Cell 2021) with numerical parity to the R implementation"
+2026-10-22T19:52:17Z,invariants,0.1.0,Nick Khitrov <khitrov34@gmail.com>,MIT,57211,"Type-safe state modeling for Python — split entity invariants into validated, immutable state classes with Pydantic"
+2026-10-22T19:53:17Z,postseed,0.1.0,Sagar Pinninti,MIT,3009634,"Realistic, relationship-correct seed data for PostgreSQL. Local-first and deterministic. Runs the Postseed CLI and Studio with Node.js."
+2026-10-22T19:56:37Z,vector-mtrl,0.2.0,Fuzzy Labs <info@fuzzylabs.ai>,MPL-2.0,509963,Materials research tools for spectra and archive workflows.
+2026-10-22T19:56:55Z,domq,0.4.0,iamsaquib8 <saquibulhassan6@gmail.com>,MIT,1959439,"Tiny, forgiving HTML parser written in Rust: CSS selectors, readable text and HTML-to-Markdown for scraping and LLM pipelines."
+2026-10-22T19:59:01Z,mkit-cli,0.3.1,Nurullah Al-Masum,MIT,401128,"Release Android apps to Google Play from the command line: build, upload, listing, screenshots, data safety, in-app products, vitals and Firebase, in one tool built for humans and AI agents."
+2026-10-22T20:00:33Z,encore-science,0.1.0,,Apache-2.0,36502,Check a dataset against the paper it came from: an AI agent reads the paper's claims and tests them on the data.
+2026-10-22T20:02:59Z,adaptive-cut,0.1.0,Louis Boucherie,MIT,380680,"Adaptive multi-level cuts and balancedness of dendrograms, with link communities for networks."
+2026-10-22T20:03:02Z,lightspeed-data-anonymizer,0.1.0,UXE Data Foundations and AI Solutions,Apache-2.0,32940,"PII and sensitive-data redaction for Lightspeed assistants, built on Presidio."
+2026-10-22T20:03:03Z,glean-importer,0.1.0,Tobias Würth,MIT,103391,"Imports what your sources hold into orbit (a personal CRM) and sift (local RAG search), one sandboxed Claude Code agent run per item. Email works today: IMAP with OAuth2 (Outlook.com, Hotmail) or .em…"
+2026-10-22T20:03:21Z,ag-flow,0.0.1,David Jones,MIT,1829,Placeholder package for the AG-UI Flow middleware suite.
+2026-10-22T20:06:39Z,IR-TELOPS,0.3,Md Shahriar Forhad,MIT,29156,Python interface for Telops infrared camera acquisition and temperature analysis
+2026-10-22T20:08:31Z,katsoft-contracts,1.0.0,,MIT,22147,"Standard-library-only shared contracts of the plugins-kit marketplace: the execution-event envelope, the interrupt contract and the model declaration parser"
+2026-10-22T20:11:59Z,oled-studio,0.1.0,OLED Studio,MIT,15932,"OLED Studio Python SDK — API key in, WAV audio out."
+2026-10-22T20:13:07Z,ratel-ai-rankers-plugin,0.1.0rc1,Agentified,,6216200,"Decision-model rankers (Jev, OpenAI Decisions) as retrieve/rerank plugins for the Ratel Python SDK."

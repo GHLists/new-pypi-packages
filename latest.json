@@ -1,34 +1,97 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-10-22T18:18:37.297213Z",
-    "path": "data/new-packages-2026-10-22T19-18-41-488597Z.csv",
-    "to": "2026-10-22T19:18:41.488597Z"
+    "count": 36,
+    "from": "2026-10-22T19:18:41.488597Z",
+    "path": "data/new-packages-2026-10-22T20-18-41-865354Z.csv",
+    "to": "2026-10-22T20:18:41.865354Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-10-22T19:36:04Z",
+      "package": "imbue-mngr-autocompact",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-22T19:38:32Z",
+      "package": "imbue-mngr-docker",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-22T19:39:34Z",
+      "package": "imbue-mngr-vps",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-22T19:17:51Z",
       "package": "imbue-overlay",
       "since": "2026-10-22T18:18:37.297213Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-22T20:12:45Z",
+      "package": "kater-authoring",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-22T20:12:46Z",
+      "package": "kater-charts",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-22T20:12:47Z",
+      "package": "kater-compiler",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-22T20:12:18Z",
+      "package": "kater-permissions",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-22T19:33:15Z",
+      "package": "mali-frame-selection-core",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-22T20:18:36Z",
+      "package": "mediapane",
+      "since": "2026-10-22T19:18:41.488597Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-22T16:58:49Z",
       "package": "pdf2zugpferd",
       "since": "2026-10-22T16:18:41.78922Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-22T17:57:58Z",
       "package": "pdfguard",
       "since": "2026-10-22T17:21:50.947177Z",
       "version": "0.3.0"
     }
   ],
-  "serial": 42608980,
+  "serial": 42611064,
   "source_truncated": false,
-  "window": "2026-10-22T19:18:41.488597Z"
+  "window": "2026-10-22T20:18:41.865354Z"
 }
