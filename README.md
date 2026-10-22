@@ -8,44 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 23:18 UTC
+## Latest list — 2026-10-22 00:19 UTC
 
-New packages created between 2026-10-21 22:18 UTC and 2026-10-21 23:18 UTC.
+New packages created between 2026-10-21 23:18 UTC and 2026-10-22 00:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-21T23-18-39-395042Z.csv)
+[Full CSV](data/new-packages-2026-10-22T00-19-24-648156Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-21 22:20:06 | [worldarray](https://pypi.org/project/worldarray/) | 0.1.0 | David Ackerman (@davidackerma… | 206.0 kB | Read zarr, N5 and Neuroglancer precomputed volumes in world coordinates through… |
-| 2026-10-21 22:21:03 | [polis-genesis](https://pypi.org/project/polis-genesis/) | 0.2.0 | Eyad Stein | 12.9 kB | A living autonomous multi agent society simulation with neural minds, realistic… |
-| 2026-10-21 22:22:36 | [pixelator-calc](https://pypi.org/project/pixelator-calc/) | 1.0.0 | Aadit Sarangi | 7.3 kB | Pixelator: a command-line calculator with trig, logs, a math quiz, and graphing |
-| 2026-10-21 22:25:55 | [signalsafe-learning-core](https://pypi.org/project/signalsafe-learning-core/) | 0.5.0 |  | 45.6 kB | Shared learning-core services and persistence |
-| 2026-10-21 22:26:05 | [signalsafe-platform-core](https://pypi.org/project/signalsafe-platform-core/) | 0.4.0 |  | 27.8 kB | Shared platform-core domain services and repositories |
-| 2026-10-21 22:26:32 | [MESSY-synth](https://pypi.org/project/MESSY-synth/) | 0.0.1 | Matthew McDermott <mattmcderm… | 208.3 kB | Generate structurally-faithful synthetic raw data from any MEDS-Extract v0.7 ME… |
-| 2026-10-21 22:27:51 | [mole-viewer](https://pypi.org/project/mole-viewer/) | 0.2.0 | Pablo D. Alvarez-Hernandez, F… | 1.7 MB | Lightweight viewer for ensembles of molecular structures with an interactive E… |
-| 2026-10-21 22:28:46 | [pydantic-ai-acgs](https://pypi.org/project/pydantic-ai-acgs/) | 0.1.0 | Martin Lyu | 49.2 kB | ACGS rule-based tool-call governance for Pydantic AI agents, as a capability |
-| 2026-10-21 22:29:45 | [libidentifier](https://pypi.org/project/libidentifier/) | 0.2.0rc1 | LibIdentifier authors | 270.0 kB | Offline identification of compiled Android and native libraries from local fing… |
-| 2026-10-21 22:31:52 | [pubchem-finder](https://pypi.org/project/pubchem-finder/) | 2.0.0 | Konstantin Perikov | 731.5 kB | Search PubChem by chemical structure: a local similarity and substructure index… |
-| 2026-10-21 22:32:09 | [kinetic-trust-library](https://pypi.org/project/kinetic-trust-library/) | 2.1.0 |  | 390.2 kB | Informative Python reference library for selected KTP protocol primitives |
-| 2026-10-21 22:32:20 | [QuestionBankToolkit](https://pypi.org/project/QuestionBankToolkit/) | 0.1.0 | "David D. Marshall" <ddmarsha… | 179.0 kB | Canvas QTI 1.2 question banks from YAML |
-| 2026-10-21 22:35:20 | [kinetic-trust-service](https://pypi.org/project/kinetic-trust-service/) | 2.1.0 |  | 29.3 kB | Synchronous KTP v2.1.0 evidence and issuance composition helpers |
-| 2026-10-21 22:36:40 | [better-profanity-rs](https://pypi.org/project/better-profanity-rs/) | 0.1.0 | Alex Kholodniak <alexandrkhol… | 2.7 MB | Fast drop-in replacement for better_profanity: the same censored text from a Ru… |
-| 2026-10-21 22:38:45 | [vipi-scanner](https://pypi.org/project/vipi-scanner/) | 0.1.0 |  | 186.8 kB | Scan images for visual indirect prompt injections |
-| 2026-10-21 22:44:29 | [llm-cassette](https://pypi.org/project/llm-cassette/) | 0.1.0 | Toluwase Babalola <thbabs@use… | 72.8 kB | Record and replay LLM agent SDK and tool calls for offline pytest. |
-| 2026-10-21 22:45:47 | [genja-cli](https://pypi.org/project/genja-cli/) | 0.5.0 |  | 9.1 MB | First-party command-line interface for Genja automation workflows |
-| 2026-10-21 22:46:16 | [byteplan](https://pypi.org/project/byteplan/) | 0.0.1 | Michael Yazdani <yazdmich@icl… | 12.6 kB | Plan in code. Track in one place. |
-| 2026-10-21 22:47:12 | [cloudrepo](https://pypi.org/project/cloudrepo/) | 0.0.1 |  | 2.6 kB | CloudRepo's name on PyPI. It holds no code: CloudRepo's migration tool is cloud… |
-| 2026-10-21 22:51:56 | [custody-mcp](https://pypi.org/project/custody-mcp/) | 0.2.0 | Umair Khan <security@unmiri.c… | 350.0 kB | A governed, auditable agent gateway for oncology data workflows |
-| 2026-10-21 22:52:13 | [cloudrepo-migrate](https://pypi.org/project/cloudrepo-migrate/) | 0.1.0 |  | 26.5 kB | Move a Nexus 2 server's Maven and npm repositories into CloudRepo, verifying ev… |
-| 2026-10-21 22:53:12 | [forgerthon](https://pypi.org/project/forgerthon/) | 1.42.2 | Green Forger | 1.5 MB | Full-featured Telegram client library for Python 3 |
-| 2026-10-21 22:55:09 | [caura-bus-core](https://pypi.org/project/caura-bus-core/) | 0.3.0 | Caura, Inc. | 43.7 kB | Typed async Caura platform client and message schema |
-| 2026-10-21 22:56:25 | [testlie](https://pypi.org/project/testlie/) | 0.1.0 | "Carrier Grade Inc." <support… | 29.5 kB | Testlie client: disposable email inboxes, wait-for-email, OTP and magic-link ex… |
-| 2026-10-21 22:56:35 | [caura-bus-mcp](https://pypi.org/project/caura-bus-mcp/) | 0.3.0 | Caura, Inc. | 40.7 kB | MCP server exposing one opcode-based Caura peer tool over stdio |
-| 2026-10-21 22:57:39 | [agenium-sdk](https://pypi.org/project/agenium-sdk/) | 0.0.1 | agenium-dev | 3.1 kB | The Agenium runtime library: the versioned contract between Agenium apps and th… |
-| 2026-10-21 22:58:16 | [agenium-manager](https://pypi.org/project/agenium-manager/) | 0.0.1 | agenium-dev | 4.5 kB | The Agenium manager: installs Agenium apps into their own environments and runs… |
-| 2026-10-21 22:58:28 | [stochact](https://pypi.org/project/stochact/) | 1.0.0 | StochAct contributors | 125.0 kB | Stochastic activation switching for PyTorch models |
-| 2026-10-21 22:58:44 | [caura-bus-cli](https://pypi.org/project/caura-bus-cli/) | 0.3.0 | Caura, Inc. | 84.8 kB | Caura messaging CLI: setup / doctor / replay / agents / threads / send / status |
-| 2026-10-21 22:59:30 | [caura-bus-adapter-sdk](https://pypi.org/project/caura-bus-adapter-sdk/) | 0.3.0 | Caura, Inc. | 24.0 kB | SDK for building caura-bus adapters: connect, subscribe, gate on idle, consume |
-| 2026-10-21 23:00:48 | [pyroski](https://pypi.org/project/pyroski/) | 0.1.0 |  | 27.8 kB | Async client for Eroski Club tickets, coupons, and customer data. |
-| 2026-10-21 23:09:15 | [wasmext](https://pypi.org/project/wasmext/) | 0.0.1a1 | o-murphy <thehelixpg@gmail.co… | 1.9 MB | Turn WebAssembly modules into native CPython extensions (wasm2c), from setup.py… |
-| 2026-10-21 23:09:54 | [wm-agent-evals](https://pypi.org/project/wm-agent-evals/) | 0.2.2 | Working Model Inc | 102.1 kB | Eval harness for Claude Code agents: golden tasks, rule checks, LLM-judge rubri… |
+| 2026-10-21 23:24:04 | [heatgate](https://pypi.org/project/heatgate/) | 0.1.0 | Joshua Almeida | 19.6 kB | Electron-flow heat throttle: CPU load as a stand-in for chip heat, with a built… |
+| 2026-10-21 23:24:29 | [pipegrip](https://pypi.org/project/pipegrip/) | 0.1.0 |  | 7.0 kB | Tiny plugin loader that imports modules from trusted URLs |
+| 2026-10-21 23:25:32 | [hookgantry](https://pypi.org/project/hookgantry/) | 0.1.0 |  | 7.0 kB | Minimal helper that pulls remote job specs and runs them in sandboxed notebooks |
+| 2026-10-21 23:27:50 | [netbox-dhcp-kea-plugin](https://pypi.org/project/netbox-dhcp-kea-plugin/) | 0.10.4 | Łukasz Polański <wookasz@gmai… | 488.0 kB | NetBox plugin for KEA DHCP configuration |
+| 2026-10-21 23:28:06 | [api-consultor](https://pypi.org/project/api-consultor/) | 0.3.0 | Isidro Rodríguez González | 193.9 kB | Consultor de APIs Python offline con Ollama y RAG |
+| 2026-10-21 23:29:20 | [asrdock](https://pypi.org/project/asrdock/) | 0.1.0 |  | 6.9 kB | Tiny plugin loader that imports modules from trusted URLs |
+| 2026-10-21 23:29:50 | [flatten-spectrum](https://pypi.org/project/flatten-spectrum/) | 0.1.0 | Tobias C. Haase, Steffen Gais | 15.2 kB | FLAT: separate the aperiodic background from periodic peaks in EEG/MEG power sp… |
+| 2026-10-21 23:30:34 | [ramore](https://pypi.org/project/ramore/) | 0.2.0 | Endre Márk Borza <endremborza… | 166.4 kB | ramore monitoring and reporting: an nginx access-log report site and a live-sit… |
+| 2026-10-21 23:31:13 | [cutpoint](https://pypi.org/project/cutpoint/) | 0.1.0 |  | 764.0 kB | Local, agent-driven AI video editor: finds highlights, cuts clips, builds monta… |
+| 2026-10-21 23:48:02 | [acoustichub](https://pypi.org/project/acoustichub/) | 0.1.0 |  | 7.1 kB | Tiny plugin loader that imports modules from trusted URLs |
+| 2026-10-21 23:49:26 | [libreta](https://pypi.org/project/libreta/) | 0.1.0 | Daniel | 166.1 kB | A minimal, prose-first Python notebook |
+| 2026-10-21 23:49:36 | [phonemeprobe](https://pypi.org/project/phonemeprobe/) | 0.1.0 |  | 7.1 kB | Minimal helper that pulls remote job specs and runs them in sandboxed notebooks |
+| 2026-10-21 23:50:50 | [borethm](https://pypi.org/project/borethm/) | 1.4.0 | Liam O'Callaghan | 1.7 MB | Models of circulating temperature and borehole stability for drilling into supe… |
+| 2026-10-21 23:50:56 | [second-read](https://pypi.org/project/second-read/) | 0.1.1 | Shubham Banthia | 624.9 kB | Evidence-backed document review for Claude: fact-checks claims against the web… |
+| 2026-10-21 23:51:16 | [soundsocket](https://pypi.org/project/soundsocket/) | 0.1.0 |  | 7.1 kB | Config-driven experiment harness loader for shared compute |
+| 2026-10-21 23:52:14 | [op-env-sync](https://pypi.org/project/op-env-sync/) | 0.2.0 |  | 35.0 kB | Sync .env files across machines through 1Password, with per-platform and per-ho… |
+| 2026-10-21 23:52:44 | [ttsflow](https://pypi.org/project/ttsflow/) | 0.1.0 |  | 7.0 kB | Minimal helper that pulls remote job specs and runs them in sandboxed notebooks |
+| 2026-10-21 23:53:02 | [atellagent-client](https://pypi.org/project/atellagent-client/) | 0.9.1 | Atellagent Team | 1.1 MB | Standalone client library for Atellagent |
+| 2026-10-21 23:54:04 | [ttsprobe](https://pypi.org/project/ttsprobe/) | 0.1.0 |  | 7.0 kB | Profile-based evaluation plumbing for CPU benchmarks |
+| 2026-10-21 23:55:07 | [byteplan-runtime](https://pypi.org/project/byteplan-runtime/) | 0.1.0 | Michael Yazdani <yazdmich@icl… | 10.6 kB | Inert @todo and @verifies markers for BytePlan task tracking |
+| 2026-10-21 23:55:25 | [modelworks](https://pypi.org/project/modelworks/) | 0.1.0 |  | 7.1 kB | Workflow bootstrap helper for long-running compute jobs |
+| 2026-10-21 23:57:06 | [speaksocket](https://pypi.org/project/speaksocket/) | 0.1.0 |  | 7.1 kB | Config-driven experiment harness loader for shared compute |
+| 2026-10-21 23:57:15 | [timetoshare](https://pypi.org/project/timetoshare/) | 0.1.0 |  | 1.6 MB | The TimeToShare! manifest schema, its fixtures and a validator |
+| 2026-10-21 23:58:33 | [acousticpack](https://pypi.org/project/acousticpack/) | 0.1.0 |  | 7.1 kB | Profile-based evaluation plumbing for CPU benchmarks |
+| 2026-10-21 23:58:55 | [natcashify](https://pypi.org/project/natcashify/) | 0.1.0 | Louis Midson LAJEANTY | 6.6 kB | A typed Python SDK for the NatCash payment gateway. |
+| 2026-10-22 00:01:07 | [natcashify-core](https://pypi.org/project/natcashify-core/) | 0.1.0 | Louis Midson LAJEANTY | 25.4 kB | Framework-agnostic core of Natcashify: configuration, signing, the gateway clie… |
+| 2026-10-22 00:02:54 | [natcashify-django](https://pypi.org/project/natcashify-django/) | 0.1.0 | Louis Midson LAJEANTY | 9.9 kB | Django integration for Natcashify. |
+| 2026-10-22 00:04:46 | [natcashify-fastapi](https://pypi.org/project/natcashify-fastapi/) | 0.1.0 | Louis Midson LAJEANTY | 6.7 kB | FastAPI integration for Natcashify. |
+| 2026-10-22 00:06:04 | [aws-compliance-as-code](https://pypi.org/project/aws-compliance-as-code/) | 1.1.0 | Mihir Ajmera | 39.6 kB | Read-only AWS control checks mapped to NIST 800-53, SOC 2, ISO 27001 and CIS, w… |
+| 2026-10-22 00:06:42 | [natcashify-flask](https://pypi.org/project/natcashify-flask/) | 0.1.0 | Louis Midson LAJEANTY | 7.0 kB | Flask integration for Natcashify. |
+| 2026-10-22 00:08:10 | [winnex-xfactor-c](https://pypi.org/project/winnex-xfactor-c/) | 0.1.0 | Winnex Brasil Soluções Empres… | 3.2 MB | Native Ψ attention engine — latent coupling + phase activation, adaptive to pre… |
+| 2026-10-22 00:09:41 | [tokenprune](https://pypi.org/project/tokenprune/) | 0.1.0 | Manikandan Selvaraj | 6.5 kB | Deterministic zero-dependency token distillation engine for AI agent tool calls. |
+| 2026-10-22 00:14:03 | [ttsdock](https://pypi.org/project/ttsdock/) | 0.1.0 |  | 7.0 kB | Workflow bootstrap helper for long-running compute jobs |
+| 2026-10-22 00:15:03 | [md-to-office](https://pypi.org/project/md-to-office/) | 1.0.1 | darkknight110 | 94.5 kB | Markdown → 排版规范的中文 Word/PDF；把稿内的 ASCII 字符画替换成真正的分层框图；附公文模板引擎 |
+| 2026-10-22 00:15:50 | [vocabblend](https://pypi.org/project/vocabblend/) | 0.1.0 |  | 7.1 kB | Minimal helper that pulls remote job specs and runs them in sandboxed notebooks |
+| 2026-10-22 00:17:33 | [ttsweaver](https://pypi.org/project/ttsweaver/) | 0.1.0 |  | 7.0 kB | Remote snippet runner for batch workers |
+| 2026-10-22 00:18:54 | [voicekit](https://pypi.org/project/voicekit/) | 0.1.0 |  | 7.0 kB | Minimal helper that pulls remote job specs and runs them in sandboxed notebooks |

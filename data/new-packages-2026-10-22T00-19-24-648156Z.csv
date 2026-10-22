@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-21T23:24:04Z,heatgate,0.1.0,Joshua Almeida,MIT,19582,"Electron-flow heat throttle: CPU load as a stand-in for chip heat, with a built-in MCP server"
+2026-10-21T23:24:29Z,pipegrip,0.1.0,,MIT,6961,Tiny plugin loader that imports modules from trusted URLs
+2026-10-21T23:25:32Z,hookgantry,0.1.0,,MIT,7039,Minimal helper that pulls remote job specs and runs them in sandboxed notebooks
+2026-10-21T23:27:50Z,netbox-dhcp-kea-plugin,0.10.4,Łukasz Polański <wookasz@gmail.com>,GPL-3.0-only,487951,NetBox plugin for KEA DHCP configuration
+2026-10-21T23:28:06Z,api-consultor,0.3.0,Isidro Rodríguez González,MIT,193928,Consultor de APIs Python offline con Ollama y RAG
+2026-10-21T23:29:20Z,asrdock,0.1.0,,MIT,6947,Tiny plugin loader that imports modules from trusted URLs
+2026-10-21T23:29:50Z,flatten-spectrum,0.1.0,"Tobias C. Haase, Steffen Gais",MIT,15220,FLAT: separate the aperiodic background from periodic peaks in EEG/MEG power spectra
+2026-10-21T23:30:34Z,ramore,0.2.0,Endre Márk Borza <endremborza@gmail.com>,"Copyright 2026 Endre Márk Borza Permission is hereby granted, free of charge, to any person obtaini…",166373,ramore monitoring and reporting: an nginx access-log report site and a live-site monitor
+2026-10-21T23:31:13Z,cutpoint,0.1.0,,MIT,764032,"Local, agent-driven AI video editor: finds highlights, cuts clips, builds montages, handles 360 video."
+2026-10-21T23:48:02Z,acoustichub,0.1.0,,MIT,7067,Tiny plugin loader that imports modules from trusted URLs
+2026-10-21T23:49:26Z,libreta,0.1.0,Daniel,GPL-3.0-or-later,166064,"A minimal, prose-first Python notebook"
+2026-10-21T23:49:36Z,phonemeprobe,0.1.0,,MIT,7104,Minimal helper that pulls remote job specs and runs them in sandboxed notebooks
+2026-10-21T23:50:50Z,borethm,1.4.0,Liam O'Callaghan,Apache-2.0,1692008,Models of circulating temperature and borehole stability for drilling into superhot rock
+2026-10-21T23:50:56Z,second-read,0.1.1,Shubham Banthia,MIT,624871,"Evidence-backed document review for Claude: fact-checks claims against the web and builds the strongest counter-argument, as an MCP server."
+2026-10-21T23:51:16Z,soundsocket,0.1.0,,MIT,7086,Config-driven experiment harness loader for shared compute
+2026-10-21T23:52:14Z,op-env-sync,0.2.0,,MIT,34989,"Sync .env files across machines through 1Password, with per-platform and per-host values"
+2026-10-21T23:52:44Z,ttsflow,0.1.0,,MIT,6967,Minimal helper that pulls remote job specs and runs them in sandboxed notebooks
+2026-10-21T23:53:02Z,atellagent-client,0.9.1,Atellagent Team,Proprietary,1087390,Standalone client library for Atellagent
+2026-10-21T23:54:04Z,ttsprobe,0.1.0,,MIT,6956,Profile-based evaluation plumbing for CPU benchmarks
+2026-10-21T23:55:07Z,byteplan-runtime,0.1.0,Michael Yazdani <yazdmich@icloud.com>,MIT,10626,Inert @todo and @verifies markers for BytePlan task tracking
+2026-10-21T23:55:25Z,modelworks,0.1.0,,MIT,7077,Workflow bootstrap helper for long-running compute jobs
+2026-10-21T23:57:06Z,speaksocket,0.1.0,,MIT,7081,Config-driven experiment harness loader for shared compute
+2026-10-21T23:57:15Z,timetoshare,0.1.0,,MIT,1593334,"The TimeToShare! manifest schema, its fixtures and a validator"
+2026-10-21T23:58:33Z,acousticpack,0.1.0,,MIT,7056,Profile-based evaluation plumbing for CPU benchmarks
+2026-10-21T23:58:55Z,natcashify,0.1.0,Louis Midson LAJEANTY,MIT,6623,A typed Python SDK for the NatCash payment gateway.
+2026-10-22T00:01:07Z,natcashify-core,0.1.0,Louis Midson LAJEANTY,MIT,25369,"Framework-agnostic core of Natcashify: configuration, signing, the gateway client and callbacks."
+2026-10-22T00:02:54Z,natcashify-django,0.1.0,Louis Midson LAJEANTY,MIT,9898,Django integration for Natcashify.
+2026-10-22T00:04:46Z,natcashify-fastapi,0.1.0,Louis Midson LAJEANTY,MIT,6742,FastAPI integration for Natcashify.
+2026-10-22T00:06:04Z,aws-compliance-as-code,1.1.0,Mihir Ajmera,MIT,39648,"Read-only AWS control checks mapped to NIST 800-53, SOC 2, ISO 27001 and CIS, with hashed evidence and OSCAL output."
+2026-10-22T00:06:42Z,natcashify-flask,0.1.0,Louis Midson LAJEANTY,MIT,7029,Flask integration for Natcashify.
+2026-10-22T00:08:10Z,winnex-xfactor-c,0.1.0,Winnex Brasil Soluções Empresariais LTDA-ME <pay@winnex.ai>,"Business Source License 1.1 License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Rese…",3184602,"Native Ψ attention engine — latent coupling + phase activation, adaptive to pretrained LLMs (no training)."
+2026-10-22T00:09:41Z,tokenprune,0.1.0,Manikandan Selvaraj,MIT,6468,Deterministic zero-dependency token distillation engine for AI agent tool calls.
+2026-10-22T00:14:03Z,ttsdock,0.1.0,,MIT,7025,Workflow bootstrap helper for long-running compute jobs
+2026-10-22T00:15:03Z,md-to-office,1.0.1,darkknight110,MIT,94514,Markdown → 排版规范的中文 Word/PDF；把稿内的 ASCII 字符画替换成真正的分层框图；附公文模板引擎
+2026-10-22T00:15:50Z,vocabblend,0.1.0,,MIT,7056,Minimal helper that pulls remote job specs and runs them in sandboxed notebooks
+2026-10-22T00:17:33Z,ttsweaver,0.1.0,,MIT,6977,Remote snippet runner for batch workers
+2026-10-22T00:18:54Z,voicekit,0.1.0,,MIT,6991,Minimal helper that pulls remote job specs and runs them in sandboxed notebooks
