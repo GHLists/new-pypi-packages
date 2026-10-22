@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T17:22:53Z,stormedo,0.1.0rc1,Stormedo,MIT,38823,Send durable HTTP requests and verify Stormedo deliveries
+2026-10-22T17:23:16Z,texmodel,0.2.0,Ilja Orlovs <ilja@release.art>,MIT,287810,"Typed document-family models rendered to TeX, with an optional latexmk driver and verifier plugins."
+2026-10-22T17:28:19Z,pdf2zugferd,0.1.0,Pascal Zimmermann,Apache-2.0,26254,Convert invoice PDFs from LibreOffice/MS Office into ZUGFeRD (EN 16931) PDFs
+2026-10-22T17:30:15Z,auth0-diagnostics-mcp,0.1.0,,,18116,MCP server exposing Auth0 developer tools for Claude
+2026-10-22T17:34:01Z,gluon-probe,0.1.0,Gluon project,Apache-2.0,116623,"Read-only, deterministic discovery probe for agents inside host knowledge systems (import name: gluon; experimental, no stable API yet)"
+2026-10-22T17:36:55Z,verigym,0.1.0,"julemarie, Joshua Wendland, Maris F. L. Galesloot, Merlijn Krale, Nils Jansen, Ossmos",MIT,192128,A library for exploring MDPs
+2026-10-22T17:38:26Z,xfriend,0.1.1,codysaudio,MIT,67777,"X/Friend — modular AI companion framework for AI girlfriends & boyfriends: swappable LLM (Venice/Grok/LongCat) + image (Qwen/Wavespeed + LoRAs) + voice (SecretVoice), with rolling-scene memory compac…"
+2026-10-22T17:38:31Z,video-generation-mcp,0.1.0,salinda hulangamuwa <salindahulangamuwa3@gmail.com>,,632064,MCP server for automated video generation and tech reels
+2026-10-22T17:39:14Z,pystdcge,0.3.3,Paolo Navata,MIT,144515,"Open-source Python implementation of the IFPRI standard CGE model, validated against IFPRI's GAMS code, with SAM and input-output multipliers, a recursive-dynamic extension and structural VARs"
+2026-10-22T17:39:40Z,trustcall-system-one,0.1.0a1,siddicky,Unlicense,1287259,Validated multi-entity extraction and JSON-Patch updates on Cloudflare System One models (Clairic + Clef).
+2026-10-22T17:42:05Z,faim-fractal-converters,0.2.0,Jan Eglinger <jan.eglinger@fmi.ch>,,54788544,
+2026-10-22T17:42:54Z,convert-flux,0.0.1,Noah Franz <nfranz@arizona.edu>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",76661,
+2026-10-22T17:43:28Z,codex-usage-epd,2026.10.1,hunterMG,AGPL-3.0-or-later,350924,"Push OpenAI Codex usage quota to a 4.2"" 400x300 three-colour e-paper display over BLE"
+2026-10-22T17:44:25Z,dom-tree-rs,0.3.0,iamsaquib8 <saquibulhassan6@gmail.com>,MIT,1891542,"Tiny, forgiving HTML parser written in Rust: CSS selectors, readable text and HTML-to-Markdown for scraping and LLM pipelines."
+2026-10-22T17:44:44Z,solo-builder-core,0.4.0,Strix Labs,MIT,3487309,Strix Labs Shipping Factory CLI
+2026-10-22T17:45:06Z,confirm-gate-mcp,0.8.0,Prashant Thakur,MIT,230109,Confirm-before-act for MCP: write tools become pending actions that only the user's own voice or tap can release.
+2026-10-22T17:46:50Z,unseenet-bots,0.1.0,Andreas Lorensen,Apache-2.0,42238,"Bots that fill Unseenet channels with current content, built on the Unseenet core"
+2026-10-22T17:46:52Z,cainable,0.1.0,Abhijit <itabhijitb@gmail.com>,MIT,64758,"Mirror a Chrome tab, call audio and text boxes to a second screen with live captions and Claude-powered answers."
+2026-10-22T17:47:38Z,opengrader,0.0.1,"Andy Cortes <andy.cortes@sjsu.edu>, Arjun Gill <arjun.gill@sjsu.edu>, Tommy Liu <tommy.liu@sjsu.edu…",MIT,9530672,"Grade paper assignments faster, right on your own computer"
+2026-10-22T17:48:43Z,vegacode,0.3.0,Isaac Frett,AGPL-3.0-only,1330030,"Local coding agent that runs on your laptop: an offline AI coding assistant for the terminal, powered by open-weight LLMs through Ollama. Your code never leaves your machine. Vega writes, runs your t…"
+2026-10-22T17:48:45Z,lysbro,0.0.1,,,1937,Software for light-microscopy images (in early development).
+2026-10-22T17:49:16Z,langchain-trimwise,0.1.0,Aakash,MIT,17243,Shared-budget extractive context trimming for LangChain.
+2026-10-22T17:49:20Z,llama-index-postprocessor-trimwise,0.1.0,Aakash,MIT,18284,Shared-budget extractive context trimming for LlamaIndex text nodes.
+2026-10-22T17:49:27Z,warpxmlfile,0.0.1,Jackson Carrion <jcarrion@mit.edu>,BSD-3-Clause,185703,Read and write Warp / M tilt-series XML files in Python.
+2026-10-22T17:50:55Z,syna-agent,0.9.0,Julynx,MIT,10657420,Terminal and web AI agent that answers requests by driving an LLM in a tool-call loop inside a sandboxed container pod.
+2026-10-22T17:52:06Z,sqrlnest,0.0.0,sqrlnest,MIT,3014,Name placeholder for sqrlnest. Reserved; a real package will follow.
+2026-10-22T17:52:45Z,secretvoice,0.1.0,codysaudio,MIT,28654,"SecretVoice Python SDK — expressive, intimate AI text-to-speech. 29 sensual voices, 21 languages, HTTP streaming and realtime WebSocket."
+2026-10-22T17:54:31Z,jugaad-xbrl,0.1.0,,"YOLO LICENSE Version 2, July 29 2016 THIS SOFTWARE LICENSE IS PROVIDED ""ALL CAPS"" SO THAT YOU KNOW…",338539,Parse NSE Integrated Filing (quarterly financial results) XBRL files
+2026-10-22T17:55:44Z,catalogue-server,0.1.0,Vasudeva Server,MIT,60805,"Django server and read-only API for a central, country-aware book catalogue"
+2026-10-22T17:57:04Z,drishya-profile,0.1.0,Drishya Chhetri,,2656,A Python package to display a student profile
+2026-10-22T17:58:27Z,crossread,0.0.1,Xule Lin,,2394,Four commands for human and machine readers in qualitative inquiry. Placeholder; first release in development.
+2026-10-22T18:02:53Z,pdfguardrail,0.3.0,"Sugan Kanagasenthinathan, Prakul Pandit, Fawad Ahmed Baig",MIT,85107,Detect prompt injections and hidden content in scientific PDFs before they reach an LLM pipeline.
+2026-10-22T18:02:54Z,hugpy-terminal,0.1.6,,,487109,"Shared Hugpy terminal chat, resources, settings and session runtime"
+2026-10-22T18:04:30Z,mgw,1.4.2,Viktor Tovstyi <viktor.tovstyi@gmail.com>,,118049977,Python wrapper for Machai Ghostwriter
+2026-10-22T18:06:12Z,ka-telemetry,0.1.0,Eyal Golan,Apache-2.0,449723,"Receives the telemetry stream Claude Code can send, reads the transcripts it keeps on this machine, and reports the tokens they record."
+2026-10-22T18:11:02Z,supernumbers,0.24.0,UFO Weekly,MIT,78096,Supernumbers and supergeometry in the sense of Bryce DeWitt's Supermanifolds.
+2026-10-22T18:12:44Z,fastcat-tui,0.1.0,Parsa Bordbar,Apache-2.0,117090,"Browse, customise and create fastfetch themes from a terminal UI"
+2026-10-22T18:13:07Z,cdebt,1.1.0rc2,Aditya Kumar Singh,Apache-2.0,1607976,"Measure, test and pay down comprehension debt: AI-written code nobody has verifiably understood."
+2026-10-22T18:14:09Z,xfriend-telegram,0.1.0,codysaudio,MIT,16500,"X/Friend on Telegram — chat with your AI girlfriend or boyfriend: text replies, pictures and voice notes."
+2026-10-22T18:15:13Z,unseenet-gui,0.1.0,Andreas Lorensen,Apache-2.0,164546,"The graphical client for Unseenet: groups and chat in a window, Tor and keys stay in the unseenet core"
+2026-10-22T18:15:23Z,in-layers-auth,1.0.0,Mike Cornwell,GPLv3,38416,Minimal REST authentication client for In Layers (Python).
+2026-10-22T18:17:54Z,norvara-orf-finder,1.1.3rc4,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,67609,Six-frame ORF scanning and nucleic-acid metrics with no third-party dependencies
