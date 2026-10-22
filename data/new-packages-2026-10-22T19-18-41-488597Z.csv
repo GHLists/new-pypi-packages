@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T18:20:53Z,unseenet-entrance,0.1.0,Andreas Lorensen,Apache-2.0,66657,A web entrance to Unseenet: lets a browser in over Tor (UN-RFC 0043)
+2026-10-22T18:22:38Z,unseenet-gateway,0.1.0,Andreas Lorensen,Apache-2.0,177864,"Gateways between Unseenet and other networks: Usenet, Nostr and Matrix (UN-RFC 0023)"
+2026-10-22T18:27:02Z,mittepro-py,1.0.0,Thiago Cardoso de Castro <thiago.dsn.cir@alterdata.com.br>,Apache-2.0,32375,MittePro is a powerful marketing tool with features to help companies with their marketing goals and deliver emails from their websites and apps.
+2026-10-22T18:27:38Z,ebbmem-client,0.2.0,Spectrayan,LicenseRef-Proprietary,232119,Client SDK for the Ebb cognitive memory HTTP API
+2026-10-22T18:28:35Z,raunak-student-tools-12345,1.0.1,Raunak <your.email@example.com>,,4583,"Useful CGPA, marks, percentage, Python utility and study planner tools"
+2026-10-22T18:35:13Z,matchbook-sdk,0.1.0,brandon-betdex,MIT,58987,Python client for the Matchbook Betting Exchange REST API
+2026-10-22T18:38:20Z,warden-net,1.0.0,,,73114,Warden: local network control (ARP scanning & management) with a PyQt5 UI.
+2026-10-22T18:39:41Z,hod,0.1.0,Neguiolidas,Apache-2.0,159315,Detect when an agent-harness improvement is real and when it is just fitted to the eval suite
+2026-10-22T18:40:54Z,relyfinancials-sdk,0.1.0,,LicenseRef-Proprietary,33043,"Server-side Python SDK for Rely Identity, Organization, Billing, Wallet, Transactions, User, Inventory and POS APIs."
+2026-10-22T18:41:44Z,neprr-streaming,0.1.0,Arcee AI,Apache-2.0,28730559,"Rust-native, Python-compatible Mosaic Streaming loader and MDS writer"
+2026-10-22T18:45:07Z,agentic-video,0.1.0,tlq5l,MIT,508501,"Local video tools for AI agents that read text and images but not video: contact sheets, transcripts, cut, loudness and sync checks, served over MCP."
+2026-10-22T18:47:04Z,local-token-utils,1.0.0,sobhan <sobhan@example.com>,,140367,A utility library for tokenization
+2026-10-22T18:47:40Z,eltq,1.12.0,"""Stephen J. Mildenhall"" <mynl@me.com>",MIT,2485033,Ferociously fast ELT secondary-uncertainty quantization
+2026-10-22T18:48:00Z,servicetrees,0.1.0,Vasudeva Server,MIT,1333647,Reusable Django apps for content-driven multi-site projects
+2026-10-22T18:50:17Z,toomar,0.2.0.dev1,sobhanzadehali,,42652,"Fast, dependency free, python logger"
+2026-10-22T18:51:34Z,folioforge,0.0.0,Suhail,Apache-2.0,16373,"A foundation for a shared icon, banner, and brand asset library."
+2026-10-22T18:53:13Z,tper-cli,0.2.1,Lorenzo Magnanelli,Apache-2.0,246449,"An agent-friendly command-line interface for TPER public transport in Bologna and Ferrara: live buses, fares, zones, news and complaints (unofficial)."
+2026-10-22T19:00:19Z,fastplotpy,0.3.0a1,Intellisys Software,MIT,5244459,Python port of fastPlotJs chart scenes and interactive charts
+2026-10-22T19:02:38Z,labelsentry,1.0.0,,MIT,19387,The LabelSentry API for Python
+2026-10-22T19:03:17Z,concordat,0.0.1,miladsikaroudi,Apache-2.0,104505,Typed sessions for AI agents: protocols the runtime enforces on the model.
+2026-10-22T19:04:07Z,quii-helper,0.1.0rc6,,MIT,762424,"Python toolkit for QUII/Qualvision cameras: snapshots, video, RTSP, LAN discovery, device inspection, and explicit door control."
+2026-10-22T19:04:12Z,active-lang,1.4.0,Active Language Team,MIT OR Apache-2.0,24152,"Active: explicit, deterministic, hermetic configuration language (WASM-first Python binding)"
+2026-10-22T19:05:21Z,neurotask,0.2.0,NeuroLIAA,MIT,79883,A Python package for analyzing neuropsychological tasks data
+2026-10-22T19:06:19Z,alpha-avatar-host,0.6.8,,Apache-2.0,135365,Application assembly and execution hosting for AlphaAvatar.
+2026-10-22T19:06:22Z,alpha-avatar-rtc,0.6.8,,Apache-2.0,80137,RTC transport adapters for AlphaAvatar.
+2026-10-22T19:06:32Z,alpha-avatar-plugins-loop,0.6.8,,Apache-2.0,51647,Realtime interaction loops for AlphaAvatar.
+2026-10-22T19:06:34Z,ExoCrypt,1.2.0,,MIT,20090,Chunked authenticated encryption for files and Python project bundles
+2026-10-22T19:06:35Z,alpha-avatar-plugins-context,0.6.8,,Apache-2.0,65645,Runtime context management for AlphaAvatar.
+2026-10-22T19:06:52Z,hyperlog-tools,0.1.1,Hyper Source,MIT,10344,Reusable Python utilities by Hyper Source
+2026-10-22T19:07:05Z,zmerge,0.1.1,Markus Bilz,MIT,55148,Merge the documentation of multiple Zensical projects into one site with working links and a global search 📚.
+2026-10-22T19:08:38Z,ragnarok-api,0.1.0,Laurent-Philippe Albou,"MIT License Copyright (c) 2026 Laurent-Philippe Albou Permission is hereby granted, free of charge,…",131602,"Python SDK for the RAGnarok HTTP API (/api/v1): auth, streaming queries, ingest, graph and sources."
+2026-10-22T19:09:19Z,ccp-protocol,0.4.0,,Apache-2.0,29412,Reference runtime and SDK for the Capability Contacts Protocol
+2026-10-22T19:09:41Z,csstweaks-client,0.1.0,Vasudeva Server,MIT,4423,Django debug helper for the csstweaks browser extension
+2026-10-22T19:15:36Z,pyletov,0.1.0,macintoshkrug@gmail.com,,266852,Вечность пахнет нефтью
+2026-10-22T19:17:32Z,hatch-index-instrumentation,0.1.0,Leonardo Furnielis <leonardofurnielis@outlook.com>,Apache-2.0,22096,Provides the instrumentation hooks for observability in Hatch Index.
+2026-10-22T19:17:46Z,apiverve-colornamefinder,1.2.2,APIVerve <hello@apiverve.com>,MIT,21298,"Color Name Finder matches any hex color code to its closest named CSS color. Send a hex value to get the matching color name, RGB coordinates, and an exact match flag."
+2026-10-22T19:17:50Z,apiverve-cashflowstatement,1.2.2,APIVerve <hello@apiverve.com>,MIT,21754,"Cash Flow Statement returns operating, investing and financing cash flows for a US public company by ticker - straight from SEC filings, with free cash flow, FCF margin and cash-conversion metrics ca…"
+2026-10-22T19:17:55Z,apiverve-birthchart,1.2.2,APIVerve <hello@apiverve.com>,MIT,25669,"Birth Chart calculates a tropical natal chart from a birth date, time and location. It returns the sun, moon and rising signs, the ascendant and midheaven, and each planet's sign, degree and retrogra…"
+2026-10-22T19:18:16Z,notpixel,0.1.0,NotPixel <dev@notpixel.ai>,MIT,32707,"NotPixel Python SDK — Privacy-first contextual ads for LLM applications (FastAPI, Django, LangChain, CrewAI)"
+2026-10-22T19:18:30Z,apiverve-colorbrightnesscalculator,1.2.2,APIVerve <hello@apiverve.com>,MIT,21464,"Color Brightness Calculator checks hex color brightness to classify values as light, dark, or medium, returning RGB components. Paid plans add WCAG contrast ratios, luminance scores, and recommended…"
