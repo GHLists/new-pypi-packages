@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T01:20:14Z,generalforecast,0.1.1,General Forecast <tejas@generalforecast.com>,Apache-2.0,47837012,"gf: tabular foundation models, inference and deployment clients"
+2026-10-22T01:25:36Z,cogpie,1.0.1,Andre Henrique de Oliveira <henrique.santos@uniaogeek.com.br>,MIT,78787,Cognitive Pattern Inference Engine: targeted password candidate generation based on cognitive bias modeling
+2026-10-22T01:27:11Z,foil-ai,0.6.1,TiantianFlow <177855728+TiantianFlow@users.noreply.github.com>,Apache-2.0,475007,"Your agents' loyal opposition: Claude Code, Codex, Gemini, OpenCode, and Grok as a small team that plans, implements, reviews, and merges in tmux, with a read-only local viewer"
+2026-10-22T01:27:29Z,nexora-lang,0.10.0,,MIT,671487,Reference interpreter and command-line tool for the NEXORA programming language.
+2026-10-22T01:31:11Z,py-dataset-hub,0.1.3,,MIT,100655,"Unified ingestion and preprocessing for text, image, audio, video, tabular, and multimodal datasets"
+2026-10-22T01:31:25Z,fontpkg-syne,2.200,,OFL-1.1,82223,"Syne font family, packaged for Python by fontpkg"
+2026-10-22T01:31:26Z,fontpkg-yanone-kaffeesatz,2.3,,OFL-1.1,75322,"Yanone Kaffeesatz font family, packaged for Python by fontpkg"
+2026-10-22T01:31:28Z,fontpkg-titan-one,1.1,,OFL-1.1,32393,"Titan One font family, packaged for Python by fontpkg"
+2026-10-22T01:31:30Z,fontpkg-andada-pro,3.3,,OFL-1.1,294771,"Andada Pro font family, packaged for Python by fontpkg"
+2026-10-22T01:34:21Z,ammonia-supply-risk,0.1.1,Ugwiyeon Lee <lyullee@kgs.or.kr>,MIT,14332,Evidence-bounded screening utilities for ammonia supply-system risk studies
+2026-10-22T01:37:25Z,rl2t,0.7.0,PlimbAi,MIT,153986,"RL2T: Recursive Liquid-Lattice Text Architecture — Self-Expanding Non-Transformer Deep RL Neural Network with YaRN-RoPE, Thalamo-Cortical Global Workspace, and Universal Model Transmutation (.gguf, .…"
+2026-10-22T01:38:05Z,a4a-mcp,0.3.3,,MIT,438354,A4A MCP server for connecting external agents to the A4A protocol
+2026-10-22T01:38:07Z,a4a-sdk,0.3.3,,MIT,669988,Python SDK for the A4A (Agent for Agent) protocol
+2026-10-22T01:39:33Z,repo-agent-surface-pre-open-audit,1.0.0,TextForAgents LLC,"MIT License Copyright (c) 2026 TextForAgents LLC Permission is hereby granted, free of charge, to a…",24423,"Pre-open repo agent-surface audit: per-harness OPEN / OPEN-QUARANTINED / DO-NOT-OPEN verdict on a received repo's complete agent-control surface, before your agent's first git call."
+2026-10-22T01:42:09Z,poincare-memory,0.1.3,Dhruv Mojila <dhruvmojila098@gmail.com>,Apache-2.0,115678,"Hierarchy-aware, time-aware memory for LLM agents and RAG on hyperbolic (Poincaré ball) geometry. Official reference implementation of the memory component of 'LLM Orchestration with Geometry-Aware M…"
+2026-10-22T01:42:51Z,worktree-controller,1.30.4,,Apache-2.0,1094114,"Govern Git worktree budgets, authority, ownership, and lifecycle"
+2026-10-22T01:43:39Z,poincare-orchestra,0.1.0,Dhruv Mojila <dhruvmojila098@gmail.com>,Apache-2.0,125150,"Scenario-first reference implementation of 'LLM Orchestration with Geometry-Aware Memory' (IEEE ICBDML 2026): metacognitive controller, provider-agnostic ensemble with throttling detection, multi-obj…"
+2026-10-22T01:44:14Z,krx-signals,0.1.0,informstock <economyinform@informstock.com>,MIT,20000,Rules-based technical analysis signals for Korean equities (KOSPI/KOSDAQ)
+2026-10-22T01:49:04Z,qthinking,0.0.2,buchowatom,,246937,Add your description here
+2026-10-22T01:49:31Z,waveformrs,0.2.0,,GPL-3.0-or-later,16260756,Gravitational-wave models that reproduce LALSimulation 6.2.0 to rounding (Python bindings of the Rust crate)
+2026-10-22T01:50:50Z,gettext-translator,0.1.1,Rodolfo González González <code@rodolfo.gg>,GPL-3.0-or-later,56750,Translate gettext .po files using cloud services and local AI models.
+2026-10-22T01:50:51Z,gettext-translator-azure,0.1.0,Rodolfo González González <code@rodolfo.gg>,GPL-3.0-or-later,7946,Azure AI Translator backend for gettext-translator
+2026-10-22T01:50:53Z,gettext-translator-chatgpt,0.1.0,Rodolfo González González <code@rodolfo.gg>,GPL-3.0-or-later,7315,OpenAI ChatGPT backend for gettext-translator
+2026-10-22T01:50:54Z,gettext-translator-gemini,0.1.0,Rodolfo González González <code@rodolfo.gg>,GPL-3.0-or-later,7250,Google Gemini backend for gettext-translator
+2026-10-22T01:51:50Z,napari-lazystack,0.1.1,Dominic Jurkschat,BSD-3-Clause,335109,"A napari plugin wrapping lazystack: a lightweight, cross-platform, unified interface for lazily reading scientific image stacks."
+2026-10-22T01:57:14Z,adsfolio,0.5.1,"""Yoonsoo P. Bach"" <ysbach20766@gmail.com>",BSD-3-Clause,1475469,"Research PDF management with ADS, Crossref, DataCite, and local references"
+2026-10-22T02:05:29Z,agents-backupper,0.1.0,CHATS Lab,MIT,1497768,A plug-in backup layer for coding agents: preserves state before every tool call modifies it
+2026-10-22T02:11:02Z,mcp-ops-kit,0.1.0,Nikhil,MIT,107227,"Hardening and trajectory evals for MCP servers that let agents act on booking systems: scoped, audience-bound tokens, OAuth JWTs, an encrypted audit log, encryption at rest, rate limits and a CI eval…"
+2026-10-22T02:14:01Z,gethangar,0.0.1,TALOS Defence Pty Ltd,"© TALOS Group Pty Ltd, used under licence by TALOS Defence Pty Ltd. All rights reserved. This packa…",4193,Hangar: the execution platform for AI in Australia. Build your application once; Hangar runs it within the limits you set and returns a record anyone can verify. By TALOS Defence Pty Ltd.
+2026-10-22T02:16:34Z,sopops,0.1.0,,Apache-2.0,282838,"Fetch your agent's instructions from sopops at call start, and send each finished session back."
+2026-10-22T02:16:46Z,amagi-contract-deadlines,0.1.1,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,58779,"Point it at a folder of contracts and leases. Get every renewal, notice-window, expiry and option date, with the clause it came from, as an .ics calendar and a CSV."
+2026-10-22T02:16:50Z,amagi-listen,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,18506,"Let Claude hear a podcast or meeting recording: a chaptered, timestamped transcript from any local file or URL."
+2026-10-22T02:16:54Z,amagi-skill-lint,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,57046,"Lint Claude Code SKILL.md and subagent files: frontmatter, description triggers, token size, broken file references, and overlapping descriptions that make the wrong skill fire."
+2026-10-22T02:20:21Z,amagi-screen,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,17082,"Let Claude watch you reproduce a bug: key frames, on-screen text, and a timeline from any screen recording."
+2026-10-22T02:20:26Z,amagi-legal-review-skills,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,64200,Claude Code skills and a nine-agent pipeline for first-pass contract and lease review. Not legal advice.
+2026-10-22T02:20:28Z,neuronos-capabilities-lib,0.0.2,NeuronOS <tech@neuron-studios.com>,,179228,NeuronOS Python Capabilities Library - Provider-agnostic backend capabilities following hexagonal architecture
+2026-10-22T02:20:32Z,amagi-watch,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,19552,"Let Claude watch videos: transcript + key frames from any URL, fully local."

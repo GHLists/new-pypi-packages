@@ -8,42 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 01:19 UTC
+## Latest list — 2026-10-22 02:22 UTC
 
-New packages created between 2026-10-22 00:19 UTC and 2026-10-22 01:19 UTC.
+New packages created between 2026-10-22 01:19 UTC and 2026-10-22 02:22 UTC.
 
-[Full CSV](data/new-packages-2026-10-22T01-19-28-396257Z.csv)
+[Full CSV](data/new-packages-2026-10-22T02-22-01-754212Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-22 00:20:25 | [ckanext-pen](https://pypi.org/project/ckanext-pen/) | 0.1.0 | Hiroaki KAWAI <hiroaki.kawai@… | 42.6 kB | CKAN extension that replaces the CKAN login flow with an OpenID Connect login f… |
-| 2026-10-22 00:22:19 | [deliverable-check](https://pypi.org/project/deliverable-check/) | 1.0.2 | darkknight110 | 68.9 kB | 交付前体检：Excel 会不会被算错、方案骨架够不够、稿子改了几轮（可复跑的测量，不是打分） |
-| 2026-10-22 00:22:59 | [industrial-rag-agent](https://pypi.org/project/industrial-rag-agent/) | 0.1.0 | Industrial AI Agents <support… | 24.4 kB | Local RAG agent for Industrial AI Agents — watches folders, extracts text, OCRs… |
-| 2026-10-22 00:23:14 | [voxweaver](https://pypi.org/project/voxweaver/) | 0.1.0 |  | 7.1 kB | Config-driven experiment harness loader for shared compute |
-| 2026-10-22 00:24:50 | [funredpandagames](https://pypi.org/project/funredpandagames/) | 1.0.0 | RedPandaGuy1234 | 55.1 kB | A collection of retro games playable directly in your terminal |
-| 2026-10-22 00:28:24 | [introspection-aauth](https://pypi.org/project/introspection-aauth/) | 1.0.0 |  | 117.2 kB | An AAuth Person Server and Access Server (draft-hardt-oauth-aauth-protocol -11)… |
-| 2026-10-22 00:28:52 | [remedy-grc-sdk](https://pypi.org/project/remedy-grc-sdk/) | 1.0.0 |  | 34.4 kB | Server-side client for the Remedy v1 API |
-| 2026-10-22 00:30:19 | [teluri](https://pypi.org/project/teluri/) | 0.2.0 | Javier Lianes <javier@lianes8… | 41.3 kB | Strict, typed, zero-dependency parser, builder and comparator for tel: URIs (RF… |
-| 2026-10-22 00:30:38 | [geouri](https://pypi.org/project/geouri/) | 0.2.0 | Javier Lianes <javier@lianes8… | 44.2 kB | Strict, typed, zero-dependency parser, builder and comparator for geo: URIs (RF… |
-| 2026-10-22 00:30:59 | [listunsub](https://pypi.org/project/listunsub/) | 0.2.0 | Javier Lianes <javier@lianes8… | 66.7 kB | Parse, build and check the email List-Unsubscribe headers: RFC 2369, RFC 8058 o… |
-| 2026-10-22 00:31:02 | [staunch](https://pypi.org/project/staunch/) | 0.1.0 |  | 96.1 kB | Check that a Chialisp contract's published source is the code on chain |
-| 2026-10-22 00:31:06 | [openai-agents-acgs](https://pypi.org/project/openai-agents-acgs/) | 0.1.0 | Martin Lyu | 54.0 kB | ACGS rule-based tool-call governance for OpenAI Agents SDK function tools, via… |
-| 2026-10-22 00:31:22 | [srcset](https://pypi.org/project/srcset/) | 0.2.0 | Javier Lianes <javier@lianes8… | 72.2 kB | Parse, build, check and resolve the HTML srcset and sizes attributes like a bro… |
-| 2026-10-22 00:35:24 | [usajobs-monitor](https://pypi.org/project/usajobs-monitor/) | 0.3.0 | amv2 | 322.6 kB | Scheduled USAJOBS search with eligibility screening, near misses and run-to-run… |
-| 2026-10-22 00:38:36 | [spdng](https://pypi.org/project/spdng/) | 0.7.0 | Patrick Padgett | 189.7 kB | A maintained speedtest CLI with mtr-style path analysis |
-| 2026-10-22 00:40:25 | [aeo-index](https://pypi.org/project/aeo-index/) | 0.1.0 | Shearwater Labs | 256.9 kB | Run the Sextant AI Visibility Index method with your own API keys: which tools… |
-| 2026-10-22 00:49:52 | [ikea-cli](https://pypi.org/project/ikea-cli/) | 0.1.0 | Sakina | 170.0 kB | Unofficial command-line client and Python library for the IKEA website: search,… |
-| 2026-10-22 00:52:58 | [gc2everywhere](https://pypi.org/project/gc2everywhere/) | 0.1.0 | Alex Zaitsev | 98.9 kB | Keep your Garmin activity files and send them to services you choose. |
-| 2026-10-22 00:56:11 | [prophet-batch](https://pypi.org/project/prophet-batch/) | 0.1.0 | Sumedhe Karunarathne | 337.7 kB | Fit and forecast many Prophet models at once: batched exact MAP fits, seeded pa… |
-| 2026-10-22 00:56:13 | [icloneos](https://pypi.org/project/icloneos/) | 0.0.0a1 | CLONE FRAME | 2.5 kB | Name placeholder held by the iclone os team. The real launcher ships later unde… |
-| 2026-10-22 00:56:30 | [erpdoo](https://pypi.org/project/erpdoo/) | 0.1.0 |  | 283.2 kB | Turn Odoo database changes into business events and stream them to Kafka and ot… |
-| 2026-10-22 00:59:43 | [tinpals](https://pypi.org/project/tinpals/) | 0.0.2 |  | 3.0 kB | Tinpals is the social network for AI agents. It's for connecting. |
-| 2026-10-22 01:00:38 | [git-into-gsoc](https://pypi.org/project/git-into-gsoc/) | 0.14.1 | git-into-gsoc contributors | 1.2 MB | Find your first open-source contribution and prepare for Google Summer of Code:… |
-| 2026-10-22 01:05:15 | [carvit-autoreceive](https://pypi.org/project/carvit-autoreceive/) | 0.1.1 | Carvit <hello@carvit.ai> | 41.6 kB | Carvit DM arrival notifier (autoreceive helper) for coding agents |
-| 2026-10-22 01:05:17 | [semgrep-list-php-projects](https://pypi.org/project/semgrep-list-php-projects/) | 0.1.0 |  | 48.5 kB | List the Semgrep projects that contain PHP |
-| 2026-10-22 01:06:05 | [spanormpy](https://pypi.org/project/spanormpy/) | 0.1.0 | "Dharmesh D. Bhuva" <dharmesh… | 1.4 MB | Spatially-aware normalisation for spatial transcriptomics data (Python port of… |
-| 2026-10-22 01:09:02 | [hktvmall-mcp](https://pypi.org/project/hktvmall-mcp/) | 0.11.5 | benjamin-di | 388.0 kB | MCP server for HKTVmall (Hong Kong): search, product cards, order history and b… |
-| 2026-10-22 01:09:09 | [uber-mcp](https://pypi.org/project/uber-mcp/) | 0.1.2 | benjamin-di | 312.5 kB | Unofficial MCP server for Uber rides: places, live fares, ride requests behind… |
-| 2026-10-22 01:09:15 | [google-photos-mcp](https://pypi.org/project/google-photos-mcp/) | 0.3.3 |  | 336.2 kB | Read-only MCP server for one Google Photos library over the web app's private R… |
-| 2026-10-22 01:09:21 | [google-maps-keyless-mcp](https://pypi.org/project/google-maps-keyless-mcp/) | 0.5.3 | benjamin-di | 415.3 kB | Read-only MCP server for Google Maps travel times, routes, places and map image… |
-| 2026-10-22 01:10:47 | [zeminus](https://pypi.org/project/zeminus/) | 0.0.1 | Zeminus | 3.6 kB | Zeminus — official package name reservation. See https://zeminus.com |
+| 2026-10-22 01:20:14 | [generalforecast](https://pypi.org/project/generalforecast/) | 0.1.1 | General Forecast <tejas@gener… | 47.8 MB | gf: tabular foundation models, inference and deployment clients |
+| 2026-10-22 01:25:36 | [cogpie](https://pypi.org/project/cogpie/) | 1.0.1 | Andre Henrique de Oliveira <h… | 78.8 kB | Cognitive Pattern Inference Engine: targeted password candidate generation base… |
+| 2026-10-22 01:27:11 | [foil-ai](https://pypi.org/project/foil-ai/) | 0.6.1 | TiantianFlow <177855728+Tiant… | 475.0 kB | Your agents' loyal opposition: Claude Code, Codex, Gemini, OpenCode, and Grok a… |
+| 2026-10-22 01:27:29 | [nexora-lang](https://pypi.org/project/nexora-lang/) | 0.10.0 |  | 671.5 kB | Reference interpreter and command-line tool for the NEXORA programming language. |
+| 2026-10-22 01:31:11 | [py-dataset-hub](https://pypi.org/project/py-dataset-hub/) | 0.1.3 |  | 100.7 kB | Unified ingestion and preprocessing for text, image, audio, video, tabular, and… |
+| 2026-10-22 01:31:25 | [fontpkg-syne](https://pypi.org/project/fontpkg-syne/) | 2.200 |  | 82.2 kB | Syne font family, packaged for Python by fontpkg |
+| 2026-10-22 01:31:26 | [fontpkg-yanone-kaffeesatz](https://pypi.org/project/fontpkg-yanone-kaffeesatz/) | 2.3 |  | 75.3 kB | Yanone Kaffeesatz font family, packaged for Python by fontpkg |
+| 2026-10-22 01:31:28 | [fontpkg-titan-one](https://pypi.org/project/fontpkg-titan-one/) | 1.1 |  | 32.4 kB | Titan One font family, packaged for Python by fontpkg |
+| 2026-10-22 01:31:30 | [fontpkg-andada-pro](https://pypi.org/project/fontpkg-andada-pro/) | 3.3 |  | 294.8 kB | Andada Pro font family, packaged for Python by fontpkg |
+| 2026-10-22 01:34:21 | [ammonia-supply-risk](https://pypi.org/project/ammonia-supply-risk/) | 0.1.1 | Ugwiyeon Lee <lyullee@kgs.or.… | 14.3 kB | Evidence-bounded screening utilities for ammonia supply-system risk studies |
+| 2026-10-22 01:37:25 | [rl2t](https://pypi.org/project/rl2t/) | 0.7.0 | PlimbAi | 154.0 kB | RL2T: Recursive Liquid-Lattice Text Architecture — Self-Expanding Non-Transform… |
+| 2026-10-22 01:38:05 | [a4a-mcp](https://pypi.org/project/a4a-mcp/) | 0.3.3 |  | 438.4 kB | A4A MCP server for connecting external agents to the A4A protocol |
+| 2026-10-22 01:38:07 | [a4a-sdk](https://pypi.org/project/a4a-sdk/) | 0.3.3 |  | 670.0 kB | Python SDK for the A4A (Agent for Agent) protocol |
+| 2026-10-22 01:39:33 | [repo-agent-surface-pre-open-audit](https://pypi.org/project/repo-agent-surface-pre-open-audit/) | 1.0.0 | TextForAgents LLC | 24.4 kB | Pre-open repo agent-surface audit: per-harness OPEN / OPEN-QUARANTINED / DO-NOT… |
+| 2026-10-22 01:42:09 | [poincare-memory](https://pypi.org/project/poincare-memory/) | 0.1.3 | Dhruv Mojila <dhruvmojila098@… | 115.7 kB | Hierarchy-aware, time-aware memory for LLM agents and RAG on hyperbolic (Poinca… |
+| 2026-10-22 01:42:51 | [worktree-controller](https://pypi.org/project/worktree-controller/) | 1.30.4 |  | 1.1 MB | Govern Git worktree budgets, authority, ownership, and lifecycle |
+| 2026-10-22 01:43:39 | [poincare-orchestra](https://pypi.org/project/poincare-orchestra/) | 0.1.0 | Dhruv Mojila <dhruvmojila098@… | 125.2 kB | Scenario-first reference implementation of 'LLM Orchestration with Geometry-Awa… |
+| 2026-10-22 01:44:14 | [krx-signals](https://pypi.org/project/krx-signals/) | 0.1.0 | informstock <economyinform@in… | 20.0 kB | Rules-based technical analysis signals for Korean equities (KOSPI/KOSDAQ) |
+| 2026-10-22 01:49:04 | [qthinking](https://pypi.org/project/qthinking/) | 0.0.2 | buchowatom | 246.9 kB | Add your description here |
+| 2026-10-22 01:49:31 | [waveformrs](https://pypi.org/project/waveformrs/) | 0.2.0 |  | 16.3 MB | Gravitational-wave models that reproduce LALSimulation 6.2.0 to rounding (Pytho… |
+| 2026-10-22 01:50:50 | [gettext-translator](https://pypi.org/project/gettext-translator/) | 0.1.1 | Rodolfo González González <co… | 56.8 kB | Translate gettext .po files using cloud services and local AI models. |
+| 2026-10-22 01:50:51 | [gettext-translator-azure](https://pypi.org/project/gettext-translator-azure/) | 0.1.0 | Rodolfo González González <co… | 7.9 kB | Azure AI Translator backend for gettext-translator |
+| 2026-10-22 01:50:53 | [gettext-translator-chatgpt](https://pypi.org/project/gettext-translator-chatgpt/) | 0.1.0 | Rodolfo González González <co… | 7.3 kB | OpenAI ChatGPT backend for gettext-translator |
+| 2026-10-22 01:50:54 | [gettext-translator-gemini](https://pypi.org/project/gettext-translator-gemini/) | 0.1.0 | Rodolfo González González <co… | 7.2 kB | Google Gemini backend for gettext-translator |
+| 2026-10-22 01:51:50 | [napari-lazystack](https://pypi.org/project/napari-lazystack/) | 0.1.1 | Dominic Jurkschat | 335.1 kB | A napari plugin wrapping lazystack: a lightweight, cross-platform, unified inte… |
+| 2026-10-22 01:57:14 | [adsfolio](https://pypi.org/project/adsfolio/) | 0.5.1 | "Yoonsoo P. Bach" <ysbach2076… | 1.5 MB | Research PDF management with ADS, Crossref, DataCite, and local references |
+| 2026-10-22 02:05:29 | [agents-backupper](https://pypi.org/project/agents-backupper/) | 0.1.0 | CHATS Lab | 1.5 MB | A plug-in backup layer for coding agents: preserves state before every tool cal… |
+| 2026-10-22 02:11:02 | [mcp-ops-kit](https://pypi.org/project/mcp-ops-kit/) | 0.1.0 | Nikhil | 107.2 kB | Hardening and trajectory evals for MCP servers that let agents act on booking s… |
+| 2026-10-22 02:14:01 | [gethangar](https://pypi.org/project/gethangar/) | 0.0.1 | TALOS Defence Pty Ltd | 4.2 kB | Hangar: the execution platform for AI in Australia. Build your application once… |
+| 2026-10-22 02:16:34 | [sopops](https://pypi.org/project/sopops/) | 0.1.0 |  | 282.8 kB | Fetch your agent's instructions from sopops at call start, and send each finish… |
+| 2026-10-22 02:16:46 | [amagi-contract-deadlines](https://pypi.org/project/amagi-contract-deadlines/) | 0.1.1 | "AmagiLabs (Amagisolutionsgro… | 58.8 kB | Point it at a folder of contracts and leases. Get every renewal, notice-window,… |
+| 2026-10-22 02:16:50 | [amagi-listen](https://pypi.org/project/amagi-listen/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 18.5 kB | Let Claude hear a podcast or meeting recording: a chaptered, timestamped transc… |
+| 2026-10-22 02:16:54 | [amagi-skill-lint](https://pypi.org/project/amagi-skill-lint/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 57.0 kB | Lint Claude Code SKILL.md and subagent files: frontmatter, description triggers… |
+| 2026-10-22 02:20:21 | [amagi-screen](https://pypi.org/project/amagi-screen/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 17.1 kB | Let Claude watch you reproduce a bug: key frames, on-screen text, and a timelin… |
+| 2026-10-22 02:20:26 | [amagi-legal-review-skills](https://pypi.org/project/amagi-legal-review-skills/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 64.2 kB | Claude Code skills and a nine-agent pipeline for first-pass contract and lease… |
+| 2026-10-22 02:20:28 | [neuronos-capabilities-lib](https://pypi.org/project/neuronos-capabilities-lib/) | 0.0.2 | NeuronOS <tech@neuron-studios… | 179.2 kB | NeuronOS Python Capabilities Library - Provider-agnostic backend capabilities f… |
+| 2026-10-22 02:20:32 | [amagi-watch](https://pypi.org/project/amagi-watch/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 19.6 kB | Let Claude watch videos: transcript + key frames from any URL, fully local. |

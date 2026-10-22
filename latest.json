@@ -1,48 +1,48 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-10-22T00:19:24.648156Z",
-    "path": "data/new-packages-2026-10-22T01-19-28-396257Z.csv",
-    "to": "2026-10-22T01:19:28.396257Z"
+    "count": 37,
+    "from": "2026-10-22T01:19:28.396257Z",
+    "path": "data/new-packages-2026-10-22T02-22-01-754212Z.csv",
+    "to": "2026-10-22T02:22:01.754212Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T00:34:49Z",
       "package": "asrloom",
       "since": "2026-10-22T00:19:24.648156Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T00:24:37Z",
       "package": "audiokit",
       "since": "2026-10-22T00:19:24.648156Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T00:30:50Z",
       "package": "benchbridge",
       "since": "2026-10-22T00:19:24.648156Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T00:32:35Z",
       "package": "benchworks",
       "since": "2026-10-22T00:19:24.648156Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T00:20:12Z",
       "package": "evalstream",
       "since": "2026-10-22T00:19:24.648156Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T00:26:18Z",
       "package": "phonemeforge",
       "since": "2026-10-22T00:19:24.648156Z",
@@ -50,27 +50,34 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-22T02:21:42Z",
+      "package": "scifigbench",
+      "since": "2026-10-22T01:19:28.396257Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-22T00:21:31Z",
       "package": "speakbench",
       "since": "2026-10-22T00:19:24.648156Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T00:29:31Z",
       "package": "speechprobe",
       "since": "2026-10-22T00:19:24.648156Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T00:27:39Z",
       "package": "vocabbench",
       "since": "2026-10-22T00:19:24.648156Z",
       "version": "0.1.0"
     }
   ],
-  "serial": 42570398,
+  "serial": 42572131,
   "source_truncated": false,
-  "window": "2026-10-22T01:19:28.396257Z"
+  "window": "2026-10-22T02:22:01.754212Z"
 }
