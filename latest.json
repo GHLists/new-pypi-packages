@@ -1,62 +1,55 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-10-22T20:18:41.865354Z",
-    "path": "data/new-packages-2026-10-22T21-21-02-022238Z.csv",
-    "to": "2026-10-22T21:21:02.022238Z"
+    "count": 38,
+    "from": "2026-10-22T21:21:02.022238Z",
+    "path": "data/new-packages-2026-10-22T22-18-36-245156Z.csv",
+    "to": "2026-10-22T22:18:36.245156Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-22T21:14:25Z",
       "package": "journey-teste-shellhello",
       "since": "2026-10-22T20:18:41.865354Z",
       "version": "0.2.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-22T20:12:45Z",
       "package": "kater-authoring",
       "since": "2026-10-22T19:18:41.488597Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-22T20:12:46Z",
       "package": "kater-charts",
       "since": "2026-10-22T19:18:41.488597Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-22T20:12:47Z",
       "package": "kater-compiler",
       "since": "2026-10-22T19:18:41.488597Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-22T20:12:18Z",
       "package": "kater-permissions",
       "since": "2026-10-22T19:18:41.488597Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-22T19:33:15Z",
       "package": "mali-frame-selection-core",
       "since": "2026-10-22T19:18:41.488597Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-22T17:57:58Z",
-      "package": "pdfguard",
-      "since": "2026-10-22T17:21:50.947177Z",
-      "version": "0.3.0"
     }
   ],
-  "serial": 42613362,
+  "serial": 42615637,
   "source_truncated": false,
-  "window": "2026-10-22T21:21:02.022238Z"
+  "window": "2026-10-22T22:18:36.245156Z"
 }

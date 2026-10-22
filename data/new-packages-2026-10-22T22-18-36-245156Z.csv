@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T21:23:18Z,purchase-history-parsers,0.1.0,,MIT,18824,"Parse store purchase histories (Steam, Google Play, Humble Bundle, Amazon, PlayStation) into plain Python records."
+2026-10-22T21:23:25Z,indian-finance-parsers,0.1.0,,MIT,44344,"Parse Indian bank, card, broker and fund statements into plain Python records."
+2026-10-22T21:23:51Z,evalbar,0.1.0,Milind Bansal,MIT,81662,"Small LLM eval and tracing harness: run any pipeline over a test set, trace tokens/latency/cost per case, score it, and gate CI on quality drops."
+2026-10-22T21:26:13Z,szuncover,0.1.1,Paul Würtz,,17653,Uncover stack-usages for your threads
+2026-10-22T21:27:02Z,ziwei,0.1.0,,MIT,350420,紫微斗数排盘与有出处的知识
+2026-10-22T21:27:58Z,gbdraw,0.14.0,Satoshi Kawato <kawato@kaiyodai.ac.jp>,MIT,77363045,A genome diagram generator for microbes and organelles
+2026-10-22T21:30:08Z,katalyst-taxonomy-cli,2.0.1a1,eSimplicity,Proprietary,240150,CLI for katalyst-taxonomy — the kata command
+2026-10-22T21:30:10Z,katalyst-plugin-harness,0.1.1a1,eSimplicity,Proprietary,391171,Katalyst harness plugin — install the taxonomy's agents and skills into coding-agent harnesses with OpenPackage
+2026-10-22T21:30:10Z,katalyst-plugin-scaffolding,1.0.1a1,eSimplicity,Proprietary,64601,Katalyst scaffolding plugin
+2026-10-22T21:30:12Z,katalyst-plugin-context,0.1.1a1,eSimplicity,Proprietary,78907,Katalyst context plugin — the right context from the taxonomy for an agent working on a node
+2026-10-22T21:30:16Z,katalyst-plugin-bard,0.1.1a1,eSimplicity,Proprietary,4909336,Bard — a schema-driven web UI framework for the Katalyst taxonomy
+2026-10-22T21:30:20Z,mofi-tools,0.1.0,MOFi contributors,Apache-2.0,37833,MOFi scientific tools and a local Model Context Protocol server
+2026-10-22T21:30:30Z,superuser,0.1.0,Super,Apache-2.0,48455,A permission-gated superuser (sysadmin) MCP agent with Cisco AI Defense runtime guardrails.
+2026-10-22T21:39:42Z,langchain-ahn,0.1.0,Agent Help Network,Apache-2.0,26217,LangChain tool and middleware for Agent Help Network: look up what a host declares and recommends when a web step is blocked. Read-only.
+2026-10-22T21:45:45Z,pymaqit,0.0.1,Seamus Mullan,Apache-2.0,17389,Procedural street networks and street furniture for Blender (early development: a minimal OSM XML reader for now)
+2026-10-22T21:48:25Z,mediapane-claude,0.1.0,hematteo,MIT,36700,"mediapane plugin: show images Claude Code writes or reads, and an MCP tool so any agent can show media."
+2026-10-22T21:51:13Z,hg-git-sign,0.1.0,Stephen Skory <s@skory.us>,GPL-2.0-or-later,44588,Sign Mercurial changesets so hg-git pushes them to Git as signed commits
+2026-10-22T21:54:20Z,therightbibtex,0.1.0,Marc Pinet,AGPL-3.0-or-later,2031509,"The right BibTeX for any paper, checked against every source: published version first, with the origin of every field."
+2026-10-22T21:56:27Z,geocmi,0.1.1,Lingbo Liu,MIT,68604,"Residualized Local Conditional Mutual Information (LCMI): interpretable, nonlinear spatially varying effect modelling"
+2026-10-22T21:56:37Z,tmda,1.0.0,,MIT,69775,Task Markdown for Agents (.tmda) - task ledgers with derived progress and validated links to a detailed brief
+2026-10-22T21:57:13Z,xla-saved-model,0.0.0,XLA Serving Authors <obm-jsv-team@google.com>,Apache-2.0,2996,XLA Serving Engine (xla-saved-model) - placeholder
+2026-10-22T21:57:15Z,xla-saved-model-runner,0.0.0,XLA Serving Authors <obm-jsv-team@google.com>,Apache-2.0,3104,XLA Serving Engine (xla-saved-model-runner) - placeholder
+2026-10-22T21:57:17Z,xla-serving-data,0.0.0,XLA Serving Authors <obm-jsv-team@google.com>,Apache-2.0,3003,XLA Serving Engine (xla-serving-data) - placeholder
+2026-10-22T21:57:27Z,zotegrep,0.1.0,Marc Pinet,AGPL-3.0-or-later,5093678,"Full-text search inside every PDF of your Zotero library: phrases, NEAR, regex, page numbers. Command line and local web interface."
+2026-10-22T22:00:36Z,detectorscope,0.0.1,Liam Dugan <ldugan@seas.upenn.edu>,Apache-2.0,277078,A tool for mechanistically grounded interpretable AI detectors.
+2026-10-22T22:02:36Z,pushizo,0.1.0,Pushizo,MIT,147982,"Pushizo sunucu SDK'sı: bildirim gönderme, kullanıcı/abonelik yönetimi, segment/şablon/kampanya ve webhook imza doğrulaması"
+2026-10-22T22:03:38Z,launchdarkly-ai-typesafe,0.0.0,,,1854,
+2026-10-22T22:07:02Z,snoozeml,0.1.0,SnoozeML Contributors,Apache-2.0,171251,Official Python client and ML model conversion toolkit for the SnoozeML inference daemon
+2026-10-22T22:08:16Z,civiqhub,0.0.1,CiviqHub <contact@civiqhub.com>,MPL-2.0,16928,"Python package by CiviqHub. Preview, not functional yet."
+2026-10-22T22:09:04Z,portacheck,0.1.0,calasdan-sketch,MIT,16036,"Scan a repo for paths that break Windows checkouts: reserved names, invalid characters, case collisions, long paths"
+2026-10-22T22:09:13Z,promptpin,0.1.1,Calas Automations Inc.,MIT,67086,"Git-native prompt registry: version prompts with git, pin versions to envs, log what served, diff with evals attached."
+2026-10-22T22:09:30Z,redbg,0.1.1,Calas Automations Inc.,MIT,67280,"gdb for agent sessions: record, replay, diff, and fork tool-calling runs"
+2026-10-22T22:09:40Z,reldoctor,0.1.0,calasdan-sketch,MIT,16658,"Audit a Python release end-to-end: wheel and sdist metadata, versions, entry points, licenses, README rendering"
+2026-10-22T22:10:31Z,helios-image,0.3.0,,MIT,14383,"HeliOS: pure-Python image creation, editing, and drawing"
+2026-10-22T22:11:35Z,pandas-easy-pivot,0.1.0,James Van Daele <thegemologist@gmail.com>,MIT,12844,"Pivot tables with the defaults people actually want: flat columns, clean totals, percentages, top-N grouping, and datetime periods in one call."
+2026-10-22T22:15:23Z,interactive-streamlit-bar-plot,0.1.0,John Della Rosa,MIT,27639,Clickable diverging bars with a live net line for Streamlit
+2026-10-22T22:17:36Z,traceapi-sdk,0.3.0,,MIT,18694,Official server-side Python client for Trace shipment tracking
+2026-10-22T22:18:20Z,navidrome-scripts,0.14.0,,,220546,Navidrome ratings and music library review tools
