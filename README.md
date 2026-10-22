@@ -8,44 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 05:19 UTC
+## Latest list — 2026-10-22 06:18 UTC
 
-New packages created between 2026-10-22 04:20 UTC and 2026-10-22 05:19 UTC.
+New packages created between 2026-10-22 05:19 UTC and 2026-10-22 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-22T05-19-12-106033Z.csv)
+[Full CSV](data/new-packages-2026-10-22T06-18-50-277673Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-22 04:21:40 | [amagi-env-check](https://pypi.org/project/amagi-env-check/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 40.8 kB | Diff .env, .env.example and your live Vercel, Railway or Fly environment. Repor… |
-| 2026-10-22 04:23:06 | [antfly-embedded](https://pypi.org/project/antfly-embedded/) | 0.3.0rc2 |  | 122.5 MB | Apache-2.0 embedded Antfly databases and inference |
-| 2026-10-22 04:25:03 | [amagi-vaultgraph](https://pypi.org/project/amagi-vaultgraph/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 788.4 kB | Turn an Obsidian vault or Claude Code memory folder into one shareable 3D graph… |
-| 2026-10-22 04:25:20 | [batchlet](https://pypi.org/project/batchlet/) | 0.1.0 |  | 61.3 kB | Async batching with item and token budgets |
-| 2026-10-22 04:26:51 | [telespec](https://pypi.org/project/telespec/) | 0.1.0 | Akshaj Bachu | 1.3 MB | Explainable spectral analysis and anomaly detection for irregular network telem… |
-| 2026-10-22 04:26:52 | [biosqi](https://pypi.org/project/biosqi/) | 0.1.0 | Akshaj Bachu | 1.3 MB | Transparent, calibrated signal-quality assessment for biomedical recordings |
-| 2026-10-22 04:28:53 | [amagi-crm](https://pypi.org/project/amagi-crm/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 197.1 kB | Self-hosted CRM starter for small firms: contacts, deal pipeline, tasks, bookin… |
-| 2026-10-22 04:31:34 | [margins](https://pypi.org/project/margins/) | 0.0.1 | Tommy Liu | 4.2 kB | Grade paper assignments on your own machine. |
-| 2026-10-22 04:32:38 | [pyvista-build](https://pypi.org/project/pyvista-build/) | 0.1.0 | The PyVista Developers <info@… | 148.4 kB | Build a VTK backend wheel for PyVista from source, guided step by step. |
-| 2026-10-22 04:35:13 | [bkrc-chatlabel](https://pypi.org/project/bkrc-chatlabel/) | 1.0.0 | bkrc | 3.2 MB | bkrc_chatlabel：LLM 网页对话自动标注工具（检测/分割/分类），提取标注、统计管理、按任务导出 YOLO 数据集、训练模型 |
-| 2026-10-22 04:36:20 | [servo-agent](https://pypi.org/project/servo-agent/) | 0.2.0 | servo-agent contributors | 237.3 kB | An agent-controllable browser over the Servo engine's built-in WebDriver. |
-| 2026-10-22 04:36:27 | [pramaan](https://pypi.org/project/pramaan/) | 0.1.0 |  | 1.9 MB | Pramaan API client: call any Pramaan capability from Python, plus payments and… |
-| 2026-10-22 04:37:39 | [servo-reader](https://pypi.org/project/servo-reader/) | 0.4.0 | Parker Brown | 58.2 kB | Ultra-lightweight terminal web reader: render any site as clean markdown using… |
-| 2026-10-22 04:39:48 | [amagi-federal-compliance-matrix](https://pypi.org/project/amagi-federal-compliance-matrix/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 67.3 kB | Turn a federal RFP or solicitation PDF into a compliance matrix (XLSX + markdow… |
-| 2026-10-22 04:44:22 | [serogen](https://pypi.org/project/serogen/) | 0.0.1 | Tom Stanton <tomdstanton@gmai… | 21.0 MB | Genomic analysis for in silico serotyping |
-| 2026-10-22 04:44:54 | [amagi-name-check](https://pypi.org/project/amagi-name-check/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 51.0 kB | Check a project name against PyPI, npm, crates.io, Homebrew, GitHub and common… |
-| 2026-10-22 04:48:52 | [eza-bin](https://pypi.org/project/eza-bin/) | 0.23.5 | dowon <ks2515@naver.com> | 8.9 MB | A modern alternative to ls |
-| 2026-10-22 04:49:36 | [langtext](https://pypi.org/project/langtext/) | 0.1.0 | Mohamed Abukar | 14.2 kB | Write AI agents using Python and natural-language function bodies. |
-| 2026-10-22 04:51:45 | [tosa-ml](https://pypi.org/project/tosa-ml/) | 0.4.0 | Tosa ML contributors | 59.5 kB | Reusable machine-learning preprocessing and training components |
-| 2026-10-22 04:54:45 | [amagi-receipts-to-csv](https://pypi.org/project/amagi-receipts-to-csv/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 63.4 kB | Turn a folder of receipt photos and PDFs into a clean CSV (date, vendor, subtot… |
-| 2026-10-22 04:56:09 | [launchdarkly-ai-vercel-agents](https://pypi.org/project/launchdarkly-ai-vercel-agents/) | 0.0.0 |  | 2.5 kB | Placeholder package |
-| 2026-10-22 04:59:27 | [agentics-you](https://pypi.org/project/agentics-you/) | 1.2.0 | Agentics Technologies LLC <he… | 65.8 kB | Agentics SDK for Python: shared memory for AI agents, receipts and the gateway. |
-| 2026-10-22 04:59:31 | [elucid8](https://pypi.org/project/elucid8/) | 0.18.0 | The eLucid8 Authors | 14.1 MB | eLucid8 from Python: run programs of values over named dimensions, with DataFra… |
-| 2026-10-22 05:01:53 | [curtail-str](https://pypi.org/project/curtail-str/) | 0.1.6 | Alan Ferreira | 9.3 kB | Pure, configurable identifier abbreviation without dictionaries |
-| 2026-10-22 05:07:13 | [py-oauth-kit](https://pypi.org/project/py-oauth-kit/) | 1.0.0 | Pirate Developer | 50.3 kB | OAuth 2.0 helpers: build authorization URLs, exchange codes for tokens and fetc… |
-| 2026-10-22 05:07:35 | [lib-installer](https://pypi.org/project/lib-installer/) | 3.0.1 | "Nima Askari (NimaLTD)" <nima… | 355.4 kB | Install embedded C libraries into STM32, Zephyr, ESP-IDF, Arduino and PlatformI… |
-| 2026-10-22 05:08:51 | [preference-grouping-solver](https://pypi.org/project/preference-grouping-solver/) | 0.2.0 | Simon Münker <muenker@uni-tri… | 74.7 kB | Optimal assignment of students to capacity-limited groups based on ranked prefe… |
-| 2026-10-22 05:10:49 | [hugpy-settings](https://pypi.org/project/hugpy-settings/) | 0.1.0 |  | 40.9 kB | Shared HTTP-backed settings editor and reports for Hugpy Wrapper and Harness |
-| 2026-10-22 05:11:43 | [pyiron-workflow-assyst](https://pypi.org/project/pyiron-workflow-assyst/) | 0.2.0 | pyiron Team <pyiron@mpie.de> | 97.0 kB | A workflow package for ASSYST (Automated Symmetry and Stability Testing) using… |
-| 2026-10-22 05:12:21 | [fernetrest](https://pypi.org/project/fernetrest/) | 0.1.0 | Security Developer | 11.7 kB | Secure symmetric file encryption and decryption for data at rest using Fernet a… |
-| 2026-10-22 05:12:59 | [digicommpy](https://pypi.org/project/digicommpy/) | 2.0.0 |  | 69.2 kB | Companion code for Digital Modulations using Python |
-| 2026-10-22 05:15:09 | [ruyijs](https://pypi.org/project/ruyijs/) | 0.1.0 | ruyijs contributors | 42.7 MB | Firefox SpiderMonkey JavaScript contexts and native browser APIs for Python |
-| 2026-10-22 05:17:27 | [wintestkit](https://pypi.org/project/wintestkit/) | 0.1.1rc1 |  | 587.0 kB | UI test automation for Windows WPF applications |
+| 2026-10-22 05:21:23 | [prix-jax](https://pypi.org/project/prix-jax/) | 0.1.0 | Mehmet Ugurbil <mugurbil@gmai… | 132.8 kB | PriX: Private Accelerated Transformers via Secure Multi-Party Computation in JAX |
+| 2026-10-22 05:23:54 | [ten-grd](https://pypi.org/project/ten-grd/) | 0.2.0 |  | 58.3 kB | Tenant isolation guards for developers building agentic tools |
+| 2026-10-22 05:30:13 | [assystant](https://pypi.org/project/assystant/) | 0.1.0 | Han Lin Mai | 170.7 kB | Command-line driver for ASSYST campaigns: PyXtal generation -> per-structure DF… |
+| 2026-10-22 05:31:01 | [freemodel-sync](https://pypi.org/project/freemodel-sync/) | 0.3.0 | ndwlbj | 151.0 kB | Discover, test and rank free LLMs, then sync a primary model + fallbacks into t… |
+| 2026-10-22 05:31:24 | [pyvectorfit](https://pypi.org/project/pyvectorfit/) | 0.1.0 | Luke Lowery <lukel@tamu.edu> | 41.1 kB | Vector fitting of delayed pole-residue models for electromagnetic transient sim… |
+| 2026-10-22 05:31:32 | [smartcharts](https://pypi.org/project/smartcharts/) | 8.0.10 | JohnYan | 7.4 kB | Smartchart是一个集智能体开发平台、数据中台与商业智能（BI）于一体的综合解决方案。专为Django应用设计，支持快速构建、编排和管理智能体（Agen… |
+| 2026-10-22 05:35:09 | [vmnest](https://pypi.org/project/vmnest/) | 0.1.2 |  | 2.0 MB | Embeddable Python SDK + CLI for isolated microVM sandboxes on AWS Lambda MicroV… |
+| 2026-10-22 05:37:21 | [protobuf-py-pure](https://pypi.org/project/protobuf-py-pure/) | 0.7.0 |  | 376.8 kB | Pure Python implementation of protobuf-py, idiomatic Protocol Buffers for Pytho… |
+| 2026-10-22 05:38:49 | [csf-scraper-python](https://pypi.org/project/csf-scraper-python/) | 0.1.1 | PJMP4826 <faustojaviermendoza… | 118.1 kB | Obtiene los datos fiscales actuales de una persona moral o física dado su RFC y… |
+| 2026-10-22 05:40:31 | [fux-decoder-mail](https://pypi.org/project/fux-decoder-mail/) | 4.1.1 | arpit arya <arpitarya.me@gmai… | 6.3 kB | Fux decoder package: mail — single messages and mbox archives. |
+| 2026-10-22 05:40:33 | [fux-decoder-office](https://pypi.org/project/fux-decoder-office/) | 4.1.1 | arpit arya <arpitarya.me@gmai… | 8.2 kB | Fux decoder package: Office documents — Word and PowerPoint. |
+| 2026-10-22 05:40:34 | [fux-decoder-pdf](https://pypi.org/project/fux-decoder-pdf/) | 4.1.1 | arpit arya <arpitarya.me@gmai… | 7.1 kB | Fux decoder package: PDF. |
+| 2026-10-22 05:40:36 | [fux-decoder-rtf](https://pypi.org/project/fux-decoder-rtf/) | 4.1.1 | arpit arya <arpitarya.me@gmai… | 5.1 kB | Fux decoder package: Rich Text Format. |
+| 2026-10-22 05:41:33 | [darlog-comfy-fallback](https://pypi.org/project/darlog-comfy-fallback/) | 0.0.1a0 | Lex Darlog (Lex-DRL) | 18.5 kB | Dev utilities for ComfyUI to make backwards compatibility and fallbacks easier |
+| 2026-10-22 05:46:27 | [xianyu-goofish-cli](https://pypi.org/project/xianyu-goofish-cli/) | 0.1.0 | 肖佳权 <1259103745@qq.com> | 53.6 kB | Minimal Goofish (Xianyu) CLI: QR login, search, IM chats |
+| 2026-10-22 05:46:36 | [sahiapi](https://pypi.org/project/sahiapi/) | 0.1.0 | Aaritya Technologies | 105.9 kB | The official Python client library for the Sahi APIs. |
+| 2026-10-22 05:51:13 | [h324](https://pypi.org/project/h324/) | 0.1.0a1 | Daniel Ohnesorge | 257.6 kB | Experimental H.324 dial-up multimedia protocol and asynchronous modem library |
+| 2026-10-22 05:51:33 | [hydroforge](https://pypi.org/project/hydroforge/) | 0.3.0 | Shengyu Kang <kshy0204@whu.ed… | 1.2 MB | Generic framework for GPU-accelerated hydrological modelling |
+| 2026-10-22 05:52:17 | [nock-cli](https://pypi.org/project/nock-cli/) | 0.1.0 | NockAI | 36.7 kB | Open models that live on your machine. Ask questions about your videos, offline. |
+| 2026-10-22 05:57:20 | [odoo-addon-stock-inventory-security](https://pypi.org/project/odoo-addon-stock-inventory-security/) | 16.0.1.0.0.2 | Camptocamp, Odoo Community As… | 21.7 kB | Dedicated security group to apply inventory adjustments |
+| 2026-10-22 06:01:19 | [millrace-os](https://pypi.org/project/millrace-os/) | 0.23.0 | Millrace | 225.0 kB | A local headless service for independent Millrace workflow instances. |
+| 2026-10-22 06:02:55 | [yewo](https://pypi.org/project/yewo/) | 0.0.1 |  | 596.0 kB | AI-driven mobile (Android and iOS) end-to-end testing agent |
+| 2026-10-22 06:06:35 | [hermit-harness](https://pypi.org/project/hermit-harness/) | 0.0.1 | Haizhong Zheng <hzzheng@umich… | 2.6 kB | hermit-harness - placeholder release, under development. |
+| 2026-10-22 06:07:58 | [pymarvin](https://pypi.org/project/pymarvin/) | 0.1.0 |  | 7.7 MB | Nanobind bindings for Tianji Marvin robot control, kinematics and interference… |
+| 2026-10-22 06:08:05 | [todogc](https://pypi.org/project/todogc/) | 0.12.0 | Anderson <u3606584@connect.hk… | 451.5 kB | Treats your todo list as a program's heap, and uses GC to coldly reclaim the zo… |
+| 2026-10-22 06:08:39 | [akpack-cli](https://pypi.org/project/akpack-cli/) | 1.6.0 | Arafat Khan <arafathossen2123… | 56.2 kB | Honest lossless file compression and AV1 video transcoding |
+| 2026-10-22 06:09:21 | [fresnel-prop](https://pypi.org/project/fresnel-prop/) | 0.1.1 |  | 95.3 MB |  |
+| 2026-10-22 06:12:17 | [fast-engineer-mcp](https://pypi.org/project/fast-engineer-mcp/) | 0.1.0 | fast.engineer | 34.8 kB | Local MCP server that connects AI assistants to fast.engineer's verified electr… |
+| 2026-10-22 06:13:19 | [sovereign-fleet](https://pypi.org/project/sovereign-fleet/) | 0.6.0 | Cipher Fox | 600.5 kB | Task queue, Landlock sandbox and dashboard for running coding-agent CLIs on you… |
+| 2026-10-22 06:17:23 | [modem-conference](https://pypi.org/project/modem-conference/) | 0.1.0a1 | Daniel Ohnesorge | 392.5 kB | Period-inspired H.324 dial-up conferencing desktop client |
+| 2026-10-22 06:18:02 | [flakeval](https://pypi.org/project/flakeval/) | 0.1.0 | Anchit Gupta | 124.2 kB | Is your LLM eval improvement real, or just noise? Repeat evals, measure varianc… |

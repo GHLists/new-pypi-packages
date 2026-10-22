@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T05:21:23Z,prix-jax,0.1.0,Mehmet Ugurbil <mugurbil@gmail.com>,MIT,132793,PriX: Private Accelerated Transformers via Secure Multi-Party Computation in JAX
+2026-10-22T05:23:54Z,ten-grd,0.2.0,,Apache-2.0,58346,Tenant isolation guards for developers building agentic tools
+2026-10-22T05:30:13Z,assystant,0.1.0,Han Lin Mai,BSD-3-Clause,170710,Command-line driver for ASSYST campaigns: PyXtal generation -> per-structure DFT on SLURM -> collated training dataset
+2026-10-22T05:31:01Z,freemodel-sync,0.3.0,ndwlbj,MIT,150988,"Discover, test and rank free LLMs, then sync a primary model + fallbacks into the configs of tools you already use. Not a proxy."
+2026-10-22T05:31:24Z,pyvectorfit,0.1.0,Luke Lowery <lukel@tamu.edu>,MIT,41058,Vector fitting of delayed pole-residue models for electromagnetic transient simulation
+2026-10-22T05:31:32Z,smartcharts,8.0.10,JohnYan,,7351,Smartchart是一个集智能体开发平台、数据中台与商业智能（BI）于一体的综合解决方案。专为Django应用设计，支持快速构建、编排和管理智能体（Agent），提供实时数据可视化、交互式仪表盘和全面的数据分析功能，助力企业轻松搭建一体化的智能数据应用与决策系统。
+2026-10-22T05:35:09Z,vmnest,0.1.2,,Apache-2.0,1991428,Embeddable Python SDK + CLI for isolated microVM sandboxes on AWS Lambda MicroVMs (a Python fork of microsandbox concepts).
+2026-10-22T05:37:21Z,protobuf-py-pure,0.7.0,,Apache-2.0,376783,"Pure Python implementation of protobuf-py, idiomatic Protocol Buffers for Python."
+2026-10-22T05:38:49Z,csf-scraper-python,0.1.1,PJMP4826 <faustojaviermendozaperez.tareas@gmail.com>,MIT,118133,Obtiene los datos fiscales actuales de una persona moral o física dado su RFC y su idCIF (port de phpcfdi/csf-scraper)
+2026-10-22T05:40:31Z,fux-decoder-mail,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,6294,Fux decoder package: mail — single messages and mbox archives.
+2026-10-22T05:40:33Z,fux-decoder-office,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,8164,Fux decoder package: Office documents — Word and PowerPoint.
+2026-10-22T05:40:34Z,fux-decoder-pdf,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,7121,Fux decoder package: PDF.
+2026-10-22T05:40:36Z,fux-decoder-rtf,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,5090,Fux decoder package: Rich Text Format.
+2026-10-22T05:41:33Z,darlog-comfy-fallback,0.0.1a0,Lex Darlog (Lex-DRL),MPL-2.0,18474,Dev utilities for ComfyUI to make backwards compatibility and fallbacks easier
+2026-10-22T05:46:27Z,xianyu-goofish-cli,0.1.0,肖佳权 <1259103745@qq.com>,Apache-2.0,53604,"Minimal Goofish (Xianyu) CLI: QR login, search, IM chats"
+2026-10-22T05:46:36Z,sahiapi,0.1.0,Aaritya Technologies,Copyright (c) 2026 Aaritya Technologies Private Limited. All rights reserved. This software and its…,105923,The official Python client library for the Sahi APIs.
+2026-10-22T05:51:13Z,h324,0.1.0a1,Daniel Ohnesorge,MIT,257596,Experimental H.324 dial-up multimedia protocol and asynchronous modem library
+2026-10-22T05:51:33Z,hydroforge,0.3.0,Shengyu Kang <kshy0204@whu.edu.cn>,Apache-2.0,1247178,Generic framework for GPU-accelerated hydrological modelling
+2026-10-22T05:52:17Z,nock-cli,0.1.0,NockAI,Apache-2.0,36741,"Open models that live on your machine. Ask questions about your videos, offline."
+2026-10-22T05:57:20Z,odoo-addon-stock-inventory-security,16.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,21699,Dedicated security group to apply inventory adjustments
+2026-10-22T06:01:19Z,millrace-os,0.23.0,Millrace,Apache-2.0,225007,A local headless service for independent Millrace workflow instances.
+2026-10-22T06:02:55Z,yewo,0.0.1,,Apache-2.0,596046,AI-driven mobile (Android and iOS) end-to-end testing agent
+2026-10-22T06:06:35Z,hermit-harness,0.0.1,Haizhong Zheng <hzzheng@umich.edu>,Apache-2.0,2554,"hermit-harness - placeholder release, under development."
+2026-10-22T06:07:58Z,pymarvin,0.1.0,,MIT AND Apache-2.0 AND BSD-3-Clause,7656151,"Nanobind bindings for Tianji Marvin robot control, kinematics and interference SDKs"
+2026-10-22T06:08:05Z,todogc,0.12.0,Anderson <u3606584@connect.hku.hk>,MIT,451506,"Treats your todo list as a program's heap, and uses GC to coldly reclaim the zombie tasks you'll never actually do."
+2026-10-22T06:08:39Z,akpack-cli,1.6.0,Arafat Khan <arafathossen21233@gmail.com>,MIT,56193,Honest lossless file compression and AV1 video transcoding
+2026-10-22T06:09:21Z,fresnel-prop,0.1.1,,,95261314,
+2026-10-22T06:12:17Z,fast-engineer-mcp,0.1.0,fast.engineer,"MIT License Copyright (c) 2026 fast-engineer Permission is hereby granted, free of charge, to any p…",34825,Local MCP server that connects AI assistants to fast.engineer's verified electrical engineering calculations.
+2026-10-22T06:13:19Z,sovereign-fleet,0.6.0,Cipher Fox,"MIT License Copyright (c) 2026 Cipher Fox Permission is hereby granted, free of charge, to any pers…",600489,"Task queue, Landlock sandbox and dashboard for running coding-agent CLIs on your own machine"
+2026-10-22T06:17:23Z,modem-conference,0.1.0a1,Daniel Ohnesorge,MIT,392465,Period-inspired H.324 dial-up conferencing desktop client
+2026-10-22T06:18:02Z,flakeval,0.1.0,Anchit Gupta,MIT,124186,"Is your LLM eval improvement real, or just noise? Repeat evals, measure variance, get a verdict."
