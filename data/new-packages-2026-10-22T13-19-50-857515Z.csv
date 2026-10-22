@@ -1,0 +1,60 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T12:20:34Z,dfx-intel,0.1.0,Deal Flow Xchange Inc.,MIT,55619,"Evidence-backed private markets research for agents: DFX Intelligence over MCP and A2A, standard library only."
+2026-10-22T12:21:19Z,ducktape-laya,0.2.0,,MIT,2900599,"Local Laya GGUF decisions (choice, noul, score) through the ducktape-laya native library"
+2026-10-22T12:21:37Z,bbi-assess,0.7.9,,,338153,"Evidence-led, client-hosted AI readiness assessment"
+2026-10-22T12:21:51Z,bbi-assess-aws,0.1.0,,,3334,Read-only AWS metadata connector for BBI Assessment
+2026-10-22T12:21:53Z,bbi-assess-github,0.1.0,,,3286,Selected-repository GitHub connector for BBI Assessment
+2026-10-22T12:21:54Z,bbi-assess-postgres,0.1.0,,,5156,Scoped read-only PostgreSQL metadata connector for bbi-assess
+2026-10-22T12:22:19Z,django-api-opentelemetry,0.1.0,,,52748,"OpenTelemetry traces, metrics and exception logs for Django and Django Ninja"
+2026-10-22T12:24:00Z,roomtobreathe,1.0.0,abhieq31,Apache-2.0,262813,"Open-source crowd-crush prevention: capacity planning, live density monitoring, early warning and response playbooks."
+2026-10-22T12:24:25Z,topologies,0.0.1,Yaroslav Sazhchenko,Apache-2.0,4409655,A continuously updated library of modern neural-network architectures on PyTorch
+2026-10-22T12:26:32Z,tanvelo,1.0.0,Tanvelo <support@tanvelo.in>,MIT,8577,Official Python SDK for Tanvelo LLM Federation Gateway
+2026-10-22T12:28:24Z,odoo-addon-project-sub-manager,18.0.1.0.0.2,"INVITU, Odoo Community Association (OCA)",AGPL-3,23412,Add a sub manager field to projects
+2026-10-22T12:28:31Z,llm-eval-guard,0.1.0,Rocco Salvetti,Apache-2.0,86106,"CI/CD quality gate framework for LLM and RAG applications: metric, schema, and security testing with a pytest-native workflow."
+2026-10-22T12:29:32Z,etrafilatura,0.1.0,EDamLabs,MIT,13558831,"Python binding of trafilatura-rs: web page main text, comments and metadata extraction at Rust speed, trafilatura-compatible syntax."
+2026-10-22T12:29:50Z,2r-bag-medeelel-tools,0.1.0,,,4861,Simple statistics and charts for learning Python
+2026-10-22T12:29:50Z,lib-tracker,0.2.0,Enzo Xavier,CC0-1.0,108544,Cria e converte musicas de trackers MS-DOS (.mod/.xm/.it/.s3m) por codigo Python
+2026-10-22T12:31:51Z,manarat-host,0.1.0,Álvaro Orgaz Fuertes,,2958,Initial package scaffold for manarat_host.
+2026-10-22T12:31:52Z,manarat-protocols,0.1.0,Álvaro Orgaz Fuertes,,3054,Initial package scaffold for manarat_protocols.
+2026-10-22T12:31:53Z,manarat-controller,0.1.0,Álvaro Orgaz Fuertes,,3053,Initial package scaffold for manarat_controller.
+2026-10-22T12:32:34Z,greenpick,0.1.1,"""Data Science Advisers, LLC"" <info@datascienceadvisers.com>",MIT,160882,"Design-time sustainability co-pilot (MCP server): greener, cheaper cloud infrastructure decisions with carbon + cost + latency tradeoffs."
+2026-10-22T12:34:44Z,DACLhound,0.1.1,,MIT,151285,Collect Active Directory DACLs and explore them in an interactive graph
+2026-10-22T12:35:12Z,synthrad-sct,0.1.1,COMP3888 W11-04 P40,,48360,One-command installer for the COMP3888 P40 abdomen MRI-to-sCT models
+2026-10-22T12:35:36Z,cpp-arena,2.9,,GPL-3.0-or-later,1908195,Desktop comparison platform for UAV coverage path planning algorithms
+2026-10-22T12:38:53Z,metano-agent-sdk,0.7.0,Metano AI,Apache-2.0,254651,"Instrument your own AI agents (LangChain, CrewAI, OpenAI Agents SDK, or plain Python) for Metano: session telemetry and runtime guardrails."
+2026-10-22T12:39:41Z,zamlpy,0.3.0,Niranjan Aryan,MIT,1041194,"Fast YAML 1.2 parser for Python, built with Zig + libyaml"
+2026-10-22T12:40:04Z,workflowd,0.1.1,Joseph Olayanju,Apache-2.0,30276,"Python SDK for workflowd, a single-binary durable workflow engine. Zero dependencies."
+2026-10-22T12:43:03Z,texshot,0.1.0,Lê Quốc Dũng <dunglq@yandex.ru>,MIT,26944,"Build standalone TeX figures (TikZ, MusiXTeX, ...) into SVG, PDF or JPEG for rST/Sphinx."
+2026-10-22T12:43:25Z,aseprite-mcp,0.4.1,greenlogs <tryz189853302550@gmail.com>,MIT,227921,Aseprite MCP with explicit CLI and live backend contracts
+2026-10-22T12:47:16Z,victron-modbus,0.1.0,ldoes,Apache-2.0,41462,Read Victron Energy Modbus devices
+2026-10-22T12:48:37Z,doccheck,0.1.0,Pranay Kumar <pranaykumar.sriramula@automatonsx.com>,MIT,228412,"Checks that source documents (PDF, Word) are safe, readable, complete and relevant before they are accepted"
+2026-10-22T12:49:06Z,tsetmc-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,384135,"Unofficial read-only MCP server for the Tehran Stock Exchange (tsetmc.com): quotes, market movers, order book, history, indices."
+2026-10-22T12:49:09Z,iran-crypto-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,425848,"Unofficial read-only MCP server for Iranian crypto exchanges: public prices, order books, trades and candles in Toman."
+2026-10-22T12:49:12Z,milligold-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,327492,"Unofficial read-only MCP server for Milli.gold (milli.gold): live 18k gold price, price history, platform stats."
+2026-10-22T12:49:50Z,fastpg,0.1.0,Roger Thomas <roger.thomas87@gmail.com>,MIT,21708848,"Async PostgreSQL client for Python, written in Rust (xitca-postgres + PyO3), decoding rows straight into msgspec Structs"
+2026-10-22T12:51:44Z,arcadedb-native,26.10.2.dev1,,Apache-2.0,11295,Alias for arcadedb-embedded-native: ArcadeDB embedded in Python as a GraalVM native image (preview)
+2026-10-22T12:52:11Z,loki-chaos-agent,1.10.0,Elabsurdo984,MIT,264617,Autonomous AI Testing & Synthetic Chaos Agent
+2026-10-22T12:54:16Z,Tokan,0.2.0,Deepu Singh <dksingh1130@gmail.com>,MIT,154852,"Universal token-optimization middleware for AI coding agents: CDM normalization, JeV routing, and a semantic edge cache."
+2026-10-22T12:57:34Z,strategic-mandate-parallax,1.0.0a40.post2,Strategic Mandate GmbH,Proprietary - Strategic Mandate GmbH,487100,Python SDK for the Parallax quantitative valuation and Monte Carlo simulation platform by Strategic Mandate
+2026-10-22T12:58:42Z,keycard-nostr-bunker,0.1.0,Mladen Milankovic,MIT,129185,NIP-46 Nostr remote signer (bunker) backed by a Keycard
+2026-10-22T13:02:13Z,fitwise,0.1.0,Matthias Baer <matthias.r.baer@googlemail.com>,BSD-3-Clause,107968,"Curve fitting made easy: one call, one fit, one report you can trust."
+2026-10-22T13:02:36Z,langchain-geekflare,0.1.0,Geekflare <support@geekflare.com>,MIT,21178,"LangChain tools for Geekflare: web search, scraping, screenshots, PDFs, brand data, and website diagnostics."
+2026-10-22T13:03:26Z,InInfra,0.2.1,LorenzoL <221478738+LorenzoLs-code@users.noreply.github.com>,MIT,6856,This is an internal package from OzoneMSM
+2026-10-22T13:03:57Z,ms-toolbox,0.1.1,MatsubaraSoda,MIT,9799,MatsubaraSoda 个人工具箱
+2026-10-22T13:04:26Z,steppy-dev,0.3.0,,Apache-2.0,2890874,"Generate Playwright pytest suites from Markdown scenarios, and turn their screenshots into multi-locale user guides"
+2026-10-22T13:05:32Z,notepadb,0.1.0,Dror Maor <dror.m.maor@gmail.com>,GPL-2.0-only,2647,"A notepad/scratchpad, but only for databases."
+2026-10-22T13:05:55Z,uriel,0.1.0,Aditya Chanana <achanana@cs.cmu.edu>,Apache-2.0,8242941,"Python bindings for Uriel, through its C ABI"
+2026-10-22T13:06:26Z,logdruid,0.1.0.dev1,Frank Herbrand,MIT,23277,"A drop-in logging setup layer for multi-process applications, built on loguru."
+2026-10-22T13:07:56Z,arc56-generated-goktu-dd6e512f,1.2.2026072010,goktugtunc,,23921,Generated ARC-56 Algorand smart-contract clients for goktugtunc/BlockSign.
+2026-10-22T13:08:12Z,insitu-cli,0.2.0rc2,Insitu contributors,,21229941,Native document materialization engine with a compatible Python extension SDK
+2026-10-22T13:09:01Z,arc56-generated-greed-ff0b76f0,1.2.2026072010,greedyhippy,,12796,Generated ARC-56 Algorand smart-contract clients for greedyhippy/trust-car.
+2026-10-22T13:09:11Z,llama-index-readers-scrapely,0.1.0,TeraShift GmbH,MIT,9021,LlamaIndex readers for Scrape.ly: run Actors or read datasets and get Documents back.
+2026-10-22T13:09:13Z,langchain-scrapely,0.1.0,TeraShift GmbH,MIT,21516,"LangChain integration for Scrape.ly: run Actors, load their results as documents, and give agents Scrape.ly tools."
+2026-10-22T13:10:05Z,arc56-generated-grees-399d1645,1.2.2026072010,Greeshma370,,24713,Generated ARC-56 Algorand smart-contract clients for Greeshma370/algorand-hackseries-factfunders.
+2026-10-22T13:10:21Z,unreal-engine-verbindung,1.0.0,,,3132,Verbindet sich blitzschnell mit der Unreal Engine und baut eine Wand mit High-End-Grafik!
+2026-10-22T13:10:26Z,owlbot,1.2.0,Logan Fick,Apache-2.0,622141,An Owncast chat bot with a modular event-driven architecture
+2026-10-22T13:11:10Z,arc56-generated-gtath-ccbcac65,1.2.2026072010,gtathelegend,,172153,Generated ARC-56 Algorand smart-contract clients for gtathelegend/Aegis-Care.
+2026-10-22T13:12:38Z,red-harness-core,0.1.0,LiebertDev,Apache-2.0,990862,"Red Harness: a defensive, evidence-bound reverse-engineering analysis harness"
+2026-10-22T13:15:20Z,ignorance2,0.3.0,ProPlum Network Data Desk,MIT,32588,"Anti-hallucination engineering harness — risk = confidence² × (1 − evidence). i² = −1, implemented. Zero dependencies, MIT."
+2026-10-22T13:16:25Z,limivia,0.1.0,migo,AGPL-3.0-only,68364,LIMIVIA：事件式 USB/BLE Python SDK
+2026-10-22T13:17:17Z,unreal-ultra-camera,1.0.0,,,3113,Injektiert eine ultra-realistische Bodycam- und Kopfbewegung direkt in die Unreal Engine Kamera!
