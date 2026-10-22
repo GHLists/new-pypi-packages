@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T11:22:40Z,opweb,1.0.2,opweb author <author@example.com>,MIT,828185,"Web asset distribution package - JavaScript, TypeScript, CSS, HTML, and Node.js assets for web development projects."
+2026-10-22T11:23:18Z,voa-tiss,0.2.0,Voa Health,Apache-2.0,2364023,Biblioteca Python offline para validar e operar documentos TISS.
+2026-10-22T11:25:08Z,whowins,0.1.0,"Anish Laddha <anshladdha15@gmail.com>, Nitesh Pradhan <nitesh.pradhan@lnmiit.ac.in>, Gaurav Srivast…",Apache-2.0,1646598,"Position, Role or Label? A Controlled Study of Instruction Conflicts in LLM Agents"
+2026-10-22T11:26:23Z,jerriais-phonemizer,1.0.2,,AGPL-3.0-or-later,1614720,"Jèrriais (Jersey Norman French) to IPA phonemizer, written in Snowball"
+2026-10-22T11:28:37Z,fullmark,0.10.0,Hung-nd233960,MIT,2950438,"Turn a Markdown file into a self-contained, self-grading HTML quiz."
+2026-10-22T11:30:48Z,unshake,0.0.1,Tom Hudson <thomas.hudson@eaps.ethz.ch>,MIT,4260,"Full waveform seismic source inversion (moment tensors, directivity, distributed sources)"
+2026-10-22T11:31:03Z,kai-inference-builder,26.0.6,Keysight AI Inference Builder,MIT License (MIT),920493,KAI Inference Builder REST API
+2026-10-22T11:33:05Z,reachmap,0.1.0,,Apache-2.0,2125366,"What a change reaches across repositories, and what to test, with evidence"
+2026-10-22T11:34:41Z,pygosqlx,1.16.0,GoSQLX Contributors,Apache-2.0,14300179,Python bindings for GoSQLX - High-performance SQL parser
+2026-10-22T11:35:43Z,cloakwall,0.1.0,"""S.Rishikesh"" <r88747000@gmail.com>",AGPL-3.0-only,67570,"PII/PHI redaction and tamper-evident audit logging for LiteLLM. In-process, no sidecar, works air-gapped."
+2026-10-22T11:36:06Z,agy-token-stats,0.1.0,vikrant82 <vikrant82@users.noreply.github.com>,MIT,75054,"Estimate and report token usage statistics across Antigravity (agy) CLI and IDE sessions, including subagent trees."
+2026-10-22T11:41:34Z,scribeio,0.1.4,Artur Marchewicz,MIT,253927,Balanced audio and transcripts from Craig (Discord) recordings of TTRPG sessions
+2026-10-22T11:42:28Z,kneebench,0.1.0a1,Prathamesh <pratamesh1867@gmail.com>,MIT,5805698,Benchmark your LLM inference server and get a report you can understand and act on.
+2026-10-22T11:42:35Z,fyro,0.1.0,Chinmay Talnikar,MIT,217147,"A Django-feeling web framework on top of FastAPI: one model class gives you a table, an API, migrations, auth and an admin."
+2026-10-22T11:43:02Z,vizr,4.0.0,,MIT,72689,Terminal particle music visualizer with now-playing HUD
+2026-10-22T11:43:28Z,pytest-casebook,0.2.0,gyuro <344015443+gyuro-dev@users.noreply.github.com>,MIT,178775,"A pytest plugin that runs test cases written in YAML (preconditions, a CLI / function / HTTP action, expected results) and writes an HTML test specification sheet with categories and subcategories"
+2026-10-22T11:44:09Z,agencyzoom-sdk,0.1.0,Jatin Yadav <jatin@coversmart.ai>,MIT,206055,"Unofficial, fully-typed Python SDK (sync + async) for the AgencyZoom REST API."
+2026-10-22T11:44:59Z,protonlite,0.1.0,William Wilamo,MIT,126428,"A small, unofficial Python client for Proton Mail, Calendar, Contacts and Drive -- no Bridge, no paid plan"
+2026-10-22T11:52:14Z,opentelemetry-instrumentation-pixeltable,0.1.0,"""Pixeltable, Inc."" <contact@pixeltable.com>",Apache-2.0,33664,OpenTelemetry instrumentation for Pixeltable
+2026-10-22T11:53:52Z,utestme,0.1.0,uTestMe <hello@utest.me>,MIT,23393,"uTestMe server errors for Python apps: unhandled exceptions with their request, logged errors, and requests and 5xx per minute. Django, Flask, FastAPI/Starlette."
+2026-10-22T11:55:06Z,openclaw-shared,0.1.0,,,57215,"Shared infrastructure: DB routing, structured logging, alerting, site health scoring"
+2026-10-22T11:56:18Z,numagr,0.9,andrzejs,,165721,Python C extension offering efficient statistical methods for numerical data.
+2026-10-22T11:56:40Z,xgui,0.1.0,tiwb,MIT,5654,Placeholder distribution reserving the xgui name
+2026-10-22T11:56:41Z,BinDetective,1.0.0,lyshark,MIT Licence,68358,
+2026-10-22T11:57:14Z,yamcps,0.1.0,,MIT,82417,Yet Another Model Context Protocole Server: a plugin-based MCP server with skills
+2026-10-22T11:58:09Z,tstack-apimatic-sdk,0.0.1,Muhammad Rafay,MIT,461800,Sample SDKs for Tstack by APIMatic
+2026-10-22T12:00:31Z,orbit-crm,0.1.0,Tobias Würth,MIT,144206,"A personal CRM as a vault of Markdown notes, kept by a local MCP server for AI agents: people, organizations, interactions, tasks and topics, with duplicate checks and a source for every fact."
+2026-10-22T12:01:23Z,ferrotensor,0.2.0,Yashaswin Puranik <puranikyashaswinsharma@gmail.com>,MIT OR Apache-2.0,4818982,"PyTorch-style tensors, autograd and nn on wgpu (Metal, Vulkan, DX12) or the CPU, written in Rust"
+2026-10-22T12:01:50Z,media2url,1.0.0,Media2URL <support@media2url.com>,,10029,Official Python client for Media2URL — Instant Cloud Media Hosting & Permanent Direct CDN Links.
+2026-10-22T12:01:57Z,torch-sahi,0.0.1,,Apache-2.0,2859,"GPU-native sliced inference for high-resolution object detection in PyTorch, with seam-aware fusion (placeholder; first release coming soon)"
+2026-10-22T12:03:25Z,llmswitch-sdk,0.1.0,Rituraj Raman,MIT,108022,"One Python client for chat completions and embeddings across OpenAI, Azure OpenAI, Azure AI Foundry, Anthropic and Vertex AI."
+2026-10-22T12:07:46Z,thadam,0.1.0b1,,Apache-2.0,87153361,Python SDK for the Thadam edge capture runtime
+2026-10-22T12:10:22Z,mbarde.shorturls,1.0.1,Matthias Barde,GPL-2.0-only,119438,Plone-Addon for managing short URLs
+2026-10-22T12:14:25Z,catchem-core,0.0.0,Kilian Schnelle,,1968,Coming soon
+2026-10-22T12:14:28Z,catchem-config,0.0.0,Kilian Schnelle,,1998,Coming soon
+2026-10-22T12:14:30Z,catchem-ml,0.0.0,Kilian Schnelle,,1932,Coming soon
+2026-10-22T12:14:33Z,catchem-mount,0.0.0,Kilian Schnelle,,1976,Coming soon
+2026-10-22T12:15:32Z,bbcrypt,1.0.0,,,9859,Educational Python demonstrations for four ethical hacking practicals
+2026-10-22T12:15:55Z,jcmsuite,7.4.2,Matthias Plock,MIT,514168,The JCMwave Python interface provides access to the JCMsuite software.
+2026-10-22T12:15:56Z,jcmsuite-data-tree,7.4.2,Matthias Plock,MIT,66163,Compatibility and facade data-tree package for JCMsuite tooling.
+2026-10-22T12:15:58Z,jcmsuite-notebooks,7.4.2,Matthias Plock,MIT,28706,Notebook and Matlab converter tooling for JCMsuite workflows.
+2026-10-22T12:16:05Z,langchain-pidgeon,0.1.0,Pidgeon,MIT,21738,"Email inboxes for LangChain agents: Pidgeon tools to create an address, read, wait for a code, send and reply."
+2026-10-22T12:17:22Z,bloqade-ppvm,0.1.0,David Plankensteiner <dplankensteiner@quera.com>,Apache-2.0,53170636,"Fast Pauli propagation and stabilizer-tableau quantum circuit simulator, with a Rust core."
+2026-10-22T12:18:57Z,ghostcall-lint,0.1.0,Zahid Hasan,"MIT License Copyright (c) 2026 Zahid Hasan Permission is hereby granted, free of charge, to any per…",268609,Find hallucinated and outdated library API usage by checking code against the library versions actually installed
+2026-10-22T12:18:58Z,catglint,0.0.1,,MIT,1425,Placeholder release reserving the Catglint name. The tool is not yet published.
