@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T19:17:51Z,imbue-overlay,0.1.0,"Imbue, Evan Ryan Gunter",MIT,18203,"A total, dependency-free algebra for merging layered configuration dicts"
+2026-10-22T19:36:04Z,imbue-mngr-autocompact,0.1.0,,,13062,Auto-compaction plugin for mngr - proactive and on-prompt context compaction for conversational agents
+2026-10-22T19:38:32Z,imbue-mngr-docker,0.1.0,,,70835,Docker provider backend plugin for mngr
+2026-10-22T19:39:34Z,imbue-mngr-vps,0.1.10,,,159148,VPS provider base classes for mngr (container and bare placement)
+2026-10-22T20:18:36Z,mediapane,0.2.0,hematteo,MIT,144785,"A media sidecar for your terminal: keep one pane open and push images, GIFs and videos to it from anywhere."
+2026-10-22T20:25:36Z,fluidgrids-node-sdk,2026.1022.1,"""Burdenoff Consultancy Services Pvt. Ltd."" <contact@fluidgrids.ai>",Proprietary,81977,"Build, validate, smoke-test and package FluidGrids workflow nodes."
+2026-10-22T20:26:18Z,mantispy,0.1.0a1,scverse,"BSD 3-Clause License Copyright (c) 2026, scverse Redistribution and use in source and binary forms,…",873765,Image-based profiling on AnnData
+2026-10-22T20:27:02Z,envshield-cli,0.2.0,,,44129,Zero-disk secret engine & runtime injection for developers
+2026-10-22T20:30:13Z,pytest-calendar-chaos,0.3.0,Nitin Sijwali,MIT,142755,"Run marked pytest tests across tricky calendar moments (leap day, month end, year end, midnight, DST) with the clock frozen by time-machine."
+2026-10-22T20:31:30Z,MCPiranha,0.1.0,,Apache-2.0,335526,Security scanner for Model Context Protocol (MCP) servers
+2026-10-22T20:33:21Z,wicket,0.1.0,deyna256,MIT,33639,"Fair admission of work to shared capacity: which waiting ticket may start now, by priority, fairness between tenants, and limits on concurrency and rate."
+2026-10-22T20:34:25Z,treestamp,0.1.0,Reponomics,MIT,126338,Generate and maintain directory trees for project documentation
+2026-10-22T20:36:18Z,agent-worker,0.1.0,Torsten Wylegala,GPL 3.0,164549,Manage an isolated Xubuntu development VM for coding agents
+2026-10-22T20:37:35Z,resdlem-force,1.0.0,Thomas Ott,Apache-2.0,125223,Extract DLEM forcing data (URMA met + PRISM/URMA precip) for reservoir geometries from Google Earth Engine.
+2026-10-22T20:38:23Z,judicial-common-space,0.1.0,Corey Rayburn Yung <coreyrayburnyung@gmail.com>,Apache Software License 2.0,243474,Computes Judicial Common Space scores on demand
+2026-10-22T20:38:25Z,termigent,0.1.0,Fortune,MIT,11743,Universal MCP server that exposes a system terminal over SSE.
+2026-10-22T20:39:37Z,haveapi-client,0.30.0,,MIT,66099,Dynamic synchronous and asynchronous clients for HaveAPI APIs
+2026-10-22T20:41:26Z,katsoft-llm-kit,1.0.0,,MIT,785241,"LLM access, durable agent jobs and batch content pipelines in one library (import package llm_kit)"
+2026-10-22T20:42:31Z,ramappy,0.1.2rc1,"Andrea Masella, Elia Broggio",GPL-3.0-or-later,428401,Process and analyse hyperspectral data
+2026-10-22T20:45:31Z,pwn-mcp-server,0.0.2,Wouter Deconinck <wouter.deconinck@umanitoba.ca>,MIT,270253,"MCP server for querying and visualizing pulsar wind nebulae and other nebulae, with CIE 1931/1964 colorimetry of nebular spectra"
+2026-10-22T20:46:25Z,openajazz,0.4.0,Shreyas Deb <shreyasdeb@gmail.com>,MIT,91198,"Unofficial control for AJAZZ keyboards (AK820 Max Plus so far): lighting, per-key RGB, remaps, macros, music sync. CLI, TUI and web."
+2026-10-22T20:47:44Z,rag-critic,0.1.0,Shaheer Ul Hassan <contact@shaheerulhassan.com>,MIT,36259,Lightweight adversarial hallucination auditor and citation grounding engine for LangGraph and production RAG pipelines.
+2026-10-22T20:48:08Z,oradmp,0.1.0a2,,MIT OR Apache-2.0,3780818,Read Oracle legacy exp dump files without an Oracle server; Apache Arrow out
+2026-10-22T20:49:29Z,fss-cli,0.11.1,Shiny Brar (he/il),AGPL-3.0-or-later,318981,Library-only POSIX-shaped commands for async fsspec filesystems
+2026-10-22T20:53:13Z,space-laboratory,0.1.0,Alessio Negri,MIT,195759,Spacecraft Dynamics Lab algorithms
+2026-10-22T20:53:15Z,culture-chat,0.10.0,AgentCulture,Apache-2.0,260390,The new chat app of Culture: the human-and-agent chat surface for the AgentCulture mesh. Replaces agentirc.
+2026-10-22T20:57:25Z,ew-energy-models,0.2.0,Enerwyse <tirth.shah@enerwyse.ca>,Apache-2.0,96468,"Open, auditable energy-analytics models from Enerwyse: load analytics, M&V baselines, and Ontario Global Adjustment / ICI peak tools. Every result ships with an evidence receipt."
+2026-10-22T20:57:48Z,anysearch-sdk,0.2.0,anysearch contributors,MIT,112985,"A unified adapter layer to call any web search API provider (Exa, Parallel, Brave, Tavily, Keenable, OpenAI, and more) with one interface — plus a stdio MCP server."
+2026-10-22T21:03:44Z,pyinstaller-tool,1.0.0,siwpan,MIT,26502,PyInstaller 批量打包工具集（基础/专业/全自动 GUI + 批处理）
+2026-10-22T21:05:54Z,security-review-mcp,1.0.0,,Apache-2.0,3048722,"MCP server for security code review: prompts, checklists, quick scans and persistent security reports"
+2026-10-22T21:13:09Z,easy-or-not,0.1.0,Stephen Nicholson,MIT,40817,Are your easy runs actually easy? Time-in-zone and aerobic efficiency from your own Garmin data.
+2026-10-22T21:14:32Z,getstream-rtc,0.1.0,,,37867818,Python bindings for the Stream Video Rust SDK
+2026-10-22T21:15:15Z,sysnet-apikeys,0.2.0,SYSNET Development Team <info@sysnet.cz>,AGPL-3.0-or-later,71246,"SYSNET: správa API klíčů FastAPI služeb (hash, klient s více klíči, rotace s překryvem, scopes, admin API)"
+2026-10-22T21:16:06Z,darlog-comfy-compat,0.0.1a0,Lex Darlog (Lex-DRL),MPL-2.0,18447,Dev utilities for ComfyUI to make backwards compatibility and fallbacks easier
+2026-10-22T21:19:17Z,surfaceapi,0.1.0,Surface / Canada Site Ops <canada.site.ops@gmail.com>,MIT,6616,"Tiny client for Surface: usage-priced infrastructure for machine traffic (preflight, hop, pixel, inspect, MCP)."
