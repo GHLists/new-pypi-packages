@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T03:24:17Z,suede-creator-skills,0.19.1,Jason Colapietro,MIT AND BSD-3-Clause,3361541,"SEO audits, AI search visibility, conversion copy and business-operations workflows for Claude Code and Codex, installed in one command."
+2026-10-22T03:25:48Z,outerjoyn,2.0.0,,MIT,89121,OuterJoyn Python SDK for loyalty point payments and rewards
+2026-10-22T03:29:29Z,papis-make-epub,0.1.0,Jean-Alexandre Barszcz <jalex_b@hotmail.com>,GPL-3.0-or-later,2808482,Build EPUB renditions of papis documents
+2026-10-22T03:32:43Z,re-ak-core,1.0.1,RE-AK Technologies Inc.,GPL-3.0-or-later,365376,RE-AK open processing core: Hermès EEG / fEMG and Shimmer EDA / PPG signal processing and emotion models
+2026-10-22T03:34:44Z,isitright,0.1.0.dev0,isitright contributors,"MIT License Copyright (c) 2026 isitright contributors Permission is hereby granted, free of charge,…",113754,Evidence-first stress testing for text-to-SQL evaluations
+2026-10-22T03:38:14Z,annodesk,0.1.0,,,548944,A local-first image annotation workbench for boxes and masks
+2026-10-22T03:38:55Z,monoconf,0.1.0,monoconf contributors,MIT,148225,"One pydantic model, one CLI, one env reader, one layered TOML loader, one precedence order."
+2026-10-22T03:39:48Z,qiskit-noise-learning,0.1.0,Ian Hincks <ian.hincks@ibm.com>,,595028,A toolkit for randomization-based quantum noise characterization.
+2026-10-22T03:43:22Z,kymoscope,0.1.0,,# Kymoscope SDK License Agreement Copyright © 2026 Kymoscope. All rights reserved. This is propriet…,63456,"Stream live, end-to-end encrypted telemetry to Kymoscope"
+2026-10-22T03:44:41Z,nucleuskit-toolkit,2.2.0,RE-AK Technologies Inc.,GPL-3.0-or-later,517797,"Nucleus-Kit offline processing toolkit (Hermes EEG/EMG, Shimmer PPG/EDA)"
+2026-10-22T03:44:54Z,mcpywrap-core,0.6.0,boybook <boybook@easecation.net>,MIT,2361515,"Shared mcpy project dependency, build and runtime logic"
+2026-10-22T03:49:02Z,dragon-cli,0.2.1,JPEDROPS092,MIT,732539,"CLI to chat with local GGUF LLMs, with MCP tool-calling and SQLite conversation history."
+2026-10-22T03:50:45Z,popafox,0.9.4,,,35234,"Utility for patching your firefox, hide webdriver detecting"
+2026-10-22T03:51:25Z,abmfact,0.1.0,Ahmed Hemedan,Apache-2.0,152249,Is it a finding or an artefact? Audits the conclusions of agent-based models against implementation artefacts.
+2026-10-22T03:54:26Z,flowai-cli,0.2.0,Ajay Rama Swamy Katragaada,MIT,127315,"FlowAI: an open-source, extensible Python agent harness with a terminal-first CLI."
+2026-10-22T03:56:38Z,pro-sejong-auth,1.2.16,Suh Saechan,MIT,26605,Sejong University login API for Python: verify students with portal SSO in one line (세종대 로그인 API)
+2026-10-22T04:00:13Z,notepipe,0.1.0,,MIT,15422599,Extensible engine and CLI that turns video and audio into Markdown notes
+2026-10-22T04:00:13Z,notepipe-asr-llama,0.1.0,,MIT,11660,llama.cpp speech recognition adapter for notepipe
+2026-10-22T04:00:14Z,notepipe-asr-speech-swift,0.1.0,,MIT,8227735,"Speech recognition adapter for notepipe on Apple silicon, using speech-swift (MLX and Core ML)"
+2026-10-22T04:02:41Z,notepipe-asr-xai,0.1.0,,MIT,8967,xAI HTTP transcription adapter for notepipe
+2026-10-22T04:02:44Z,notepipe-asr-meta,0.1.0,,MIT,10832,Meta HTTP transcription adapter for notepipe
+2026-10-22T04:02:48Z,notepipe-asr-openvino,0.1.0,,MIT,54169,OpenVINO HTTP transcription adapter for notepipe
+2026-10-22T04:04:05Z,notepipe-source-ytdlp,0.1.0,,MIT,12816,yt-dlp source adapter for notepipe
+2026-10-22T04:04:20Z,amagi-mcp-probe,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,78816,"Headless smoke test for MCP servers: starts the server, checks every tool schema, calls every tool with generated arguments, and fails CI on crashes, hangs and schema violations."
+2026-10-22T04:05:38Z,ltem-core,0.1.0,Sangkeun Jung,MIT,51471,LTEM (LLM-friendly Table-Enhanced Markdown): Markdown tables with merged cells and multi-row headers
+2026-10-22T04:07:37Z,h3-lowpoints,0.1.0,Ujjawal Patel,Apache-2.0,276811,Find closed depressions in elevation models and map them on H3 cells at any resolution
+2026-10-22T04:07:52Z,pocket-notes,0.1.0,Chen Ting,,4726,A local notes MCP server for Claude and Codex.
+2026-10-22T04:09:25Z,open-webui-fang,0.12.3,Timothy Jaeryang Baek <tim@openwebui.com>,Open WebUI License Copyright (c) 2023- Open WebUI Inc. [Created by Timothy Jaeryang Baek] All right…,119094083,Open WebUI
+2026-10-22T04:11:12Z,amagi-site-diff,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,58072,"Two base URLs in, one markdown report out: crawl both sites, screenshot every matching page with Playwright, and write pixel-diff images plus text diffs an AI agent can read."
+2026-10-22T04:15:39Z,strands-comment-scraper,0.1.0,Super Lede <hello@comment-scraper.com>,MIT,44930,"Strands Agents tools that read, filter and summarise Reddit and Hacker News threads exported with Comment Scraper. Local JSON files only, no network requests."
+2026-10-22T04:15:59Z,amagi-litigation-deadlines,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,30743,"Compute litigation response deadlines from a trigger event and date, with citations for every rule."
+2026-10-22T04:16:33Z,aimarket-histor,0.2.0,,MIT,3377561,"HISTOR — public transparency log of MCP tool definitions: signed MTL/1 labels over what each server advertised, when it changed, and a Merkle log anyone can audit"
+2026-10-22T04:19:16Z,crewforge,0.1.0,Muhammad Aiman,MIT,176900,"One crew of LLM agents, four recipes: code review, document Q&A, API scaffolding and content — on any OpenAI-compatible provider."
