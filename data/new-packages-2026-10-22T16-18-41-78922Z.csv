@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T14:15:01Z,open-product-client,0.3.0,Maykin <support@maykinmedia.nl>,EUPL-1.2,21828,API Client library to communicate with the Open Product service.
+2026-10-22T15:20:35Z,bottler,0.0.19,TJ Renninger <renninger12@gmail.com>,,3797164,"Scaffold and serve bottle.py apps with CORS, SQL, REST, JWT and an admin dashboard"
+2026-10-22T15:22:24Z,snakeboot,0.1.2,Wouter Deketelaere,MIT,53646,"Spring Boot ergonomics for hexagonal Python: @transactional, application events, a component scan and singleton REST controllers on Django Ninja, wired by wireup."
+2026-10-22T15:23:56Z,litellm-check,0.1.0,Dylan XM,Apache-2.0,59285,"Self-audit CLI: scan a codebase and local Python environments for exposure to the compromised LiteLLM v1.107.0 release (PyPI, Docker Hub, GHCR) and generate an evidence report, based solely on LiteLL…"
+2026-10-22T15:26:48Z,spritekiln,0.1.0,Lucas Ramos,MIT,1151275,"Animated 8-direction pixel-art sprites from procedural 3D models described in YAML, built to be driven by coding AIs"
+2026-10-22T15:28:01Z,setuhq,0.1.0,Ashforde OÜ <contact@ashforde.org>,AGPL-3.0-only,1791122,"SetuHQ, the open exoplanet observatory: a transit search of public TESS data with a calibrated panel of AI Sentinels and deterministic Probes"
+2026-10-22T15:29:17Z,headroom-ollama,0.1.0,,,319381,Headroom proxy extension: compress Ollama traffic under its own /ollama route
+2026-10-22T15:29:29Z,pydantic-ai-conversations,0.1.0,aiXbrain GmbH <dev@aixbrain.de>,Apache-2.0,266396,"Conversation persistence for pydantic-ai-app-factory, backed by pydantic-ai-harness StepPersistence"
+2026-10-22T15:29:34Z,datasets-islr-libras,0.1.0,Giovanne Mariano <giolucasd@gmail.com>,MIT,32240,Lightweight data loading and metadata management library for LIBRAS datasets.
+2026-10-22T15:29:54Z,twiglet,0.0.1,Antonio Feregrino <antonio.feregrino@gmail.com>,MIT,1948,Placeholder package for the twiglet project.
+2026-10-22T15:33:12Z,rishlib,0.1.0,abiyyumc,MIT,3886,./rish command for python!
+2026-10-22T15:36:24Z,bodonlp,1.0.0,Bhupesh Joshi,,1752115,"Bodo (बड़ो / बर') Language Standard NLP Library: 36,000+ Dictionary Entries, Universal Translation, Classifier Engine, and Cultural Heritage"
+2026-10-22T15:37:02Z,cs-image-system-tf-gcp-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,102796,"The OpenTofu plugin for Google Cloud: instances and PD, Filestore and GCS storages as module calls"
+2026-10-22T15:37:03Z,cs-image-system-tf-s3-state-plugin,0.1.1,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,65155,The S3 state backend plugin: an S3 backend for every terraform root that names it
+2026-10-22T15:37:45Z,claude-agents-top,0.2.0,,MIT,49730,A top-style live view of your Claude Code background sessions and plan usage
+2026-10-22T15:38:19Z,gbc-atlas,0.1.0,,,35048,Deterministic palette-explicit Game Boy Color atlas to C conversion
+2026-10-22T15:39:08Z,frutebox-node,0.1.0,Frutebox,MIT,347925,The Frutebox node runtime — share your hardware with the Frutebox network.
+2026-10-22T15:39:16Z,laneguard,0.2.0,,MIT,55014,Coordinate parallel coding agents: disjoint backlogs and conflict prediction for in-flight branches.
+2026-10-22T15:40:49Z,kaitencloud-mcp,0.2.0,,Apache-2.0,172272,Kaiten MCP server: intent-level tools over the Kaiten API for AI agents
+2026-10-22T15:41:03Z,fused-render,0.6.82,,MIT,15792844,Local file explorer with Python-powered renderable HTML previews
+2026-10-22T15:41:49Z,girder-delta-acls,1.0.0,,BSD-3-Clause,88939,Girder plugin that propagates only the changed entries of an ACL to subfolders
+2026-10-22T15:42:04Z,tello-usage,2026.0,William Jackson,MIT,18598,Retrieve data balances and billing cycle information for every line in a Tello Mobile account.
+2026-10-22T15:48:18Z,squid-crm,0.1.0,Squid-CRM contributors,AGPL-3.0-only,5274,Python client for the Squid CRM REST and GraphQL APIs
+2026-10-22T15:50:20Z,newera-sdk,0.1.1,Newera,Apache-2.0,36854,Newera speech-to-speech SDK: voice calls where Python functions are the tools.
+2026-10-22T15:50:52Z,patchwork-amr,0.2.0,Max,"MIT License Copyright (c) 2026 Max Lindqvist Permission is hereby granted, free of charge, to any p…",224857,Block-structured adaptive meshes backed by mpiarray.
+2026-10-22T15:51:22Z,myorb,0.0.1,Erik Telepovský,AGPL-3.0-only,26111,myOrb: a self-hosted personal AI assistant and daily briefing dashboard you name yourself.
+2026-10-22T15:53:17Z,chameleon-rs,0.1.47,Michael Kennedy <michael@talkpython.fm>,LicenseRef-Chameleon,32881540,"Chameleon templates, modernized: a Rust engine that runs Chameleon templates unchanged, several times faster, with async rendering and built-in framework integrations."
+2026-10-22T15:54:20Z,hz432,1.0.0,DO IT GLOBAL LTD,MIT,21167,"Convert MP3 files (single file or whole folder trees) to A4 = 432 Hz tuning, measuring the original tuning first."
+2026-10-22T15:57:25Z,catchscore,0.1.0,Amarthya Jonnalagadda <amarthyajonnalagadda2005@gmail.com>,MIT,62148,"Would your tests catch a bug in what just changed? Mutation testing scoped to your diff, plus test-integrity checks for AI coding agents."
+2026-10-22T15:57:33Z,rostainer,0.0.1,rostainer contributors,MIT,230336,"A flexible, distro agnostic tool for ROS (1 and 2) development using Docker containers"
+2026-10-22T15:57:53Z,npm-pack,0.1.0,,,16009,"A bundle of JavaScript, TypeScript, JSX, and CSS learning modules."
+2026-10-22T16:00:00Z,phonipy,0.1.0,Muhammad Umair Danish,MIT,78819,Reproducible musical-note stability and harmonic-purity analysis of voice recordings
+2026-10-22T16:00:15Z,pprop-rs,0.1.0,,,2403454,
+2026-10-22T16:01:00Z,pauli-propagator,3.3.0,"Saverio Monaco <saverio.monaco@desy.de>, Aapo Lipponen <aapo.lipponen@gmail.com>",,192220,A Pennylane-based toolkit for approximate symbolic Pauli propagation and evaluation of quantum circuit observables.
+2026-10-22T16:02:50Z,qday-time-machine,1.0.0,"Raunak Kumar Gupta, Krish Jain",MIT,132138,"Find the cryptography a quantum computer will break, see when it breaks, and get the post-quantum fix"
+2026-10-22T16:03:51Z,lumi-mail,1.0.2,Lumi,MIT,17532,Official Python SDK for Lumi Email Infrastructure
+2026-10-22T16:04:36Z,open-bps,0.1.0,Sneh Patel,MIT,226477,"Open, auditable screening of building performance standard (BPS) gaps and penalty exposure from public benchmarking data. Washington, DC (BEPS) and Denver (Energize Denver) first."
+2026-10-22T16:06:45Z,pynalysis,0.0.1,bytenait,,2066,"A local data analysis workspace for Python, R and SQL where you and your own AI agent share one live session. In development."
+2026-10-22T16:07:12Z,qiantong,0.1.0,mediapig <ky8contact9@gmail.com>,MIT,113578,"Guanyin fortune sticks (观音灵签) in the terminal: jiaobei tossing, lot drawing, quantum randomness"
+2026-10-22T16:07:22Z,ovos-ww-plugin-local-wake,0.0.1a2,JarbasAi <jarbasai@mailfence.com>,MIT,3110157,"OVOS wake word plugin for local-wake: wake words from a few recordings, no training"
+2026-10-22T16:07:37Z,ovos-ww-plugin-efficientword-net,0.0.1a2,JarbasAi <jarbasai@mailfence.com>,Apache-2.0,36727819,OVOS wake word plugin for EfficientWord-Net few-shot hotword detection
+2026-10-22T16:09:24Z,bodo-language-library,1.0.0,Bhupesh Joshi,,1751607,"Bodo (बड़ो / बर') Language Standard Library: 36,000+ Dictionary Entries, Universal Translation, Classifier Engine, and Cultural Heritage"
+2026-10-22T16:09:30Z,saas-metrics,0.1.0,Sneh Patel,MIT,96656,"SaaS revenue metrics from a raw billing export, with written, tested definitions: revenue waterfall (to the cent), net and gross revenue retention, logo churn, quick ratio, cohorts, and an auditable…"
+2026-10-22T16:10:19Z,byteplussdk-privatelink,0.0.1,byteplus-sdk,Apache License 2.0,1019,Name reservation for the Byteplus Python SDK split package byteplussdk-privatelink
+2026-10-22T16:10:25Z,byteplussdk-privatezone,0.0.1,byteplus-sdk,Apache License 2.0,1020,Name reservation for the Byteplus Python SDK split package byteplussdk-privatezone
+2026-10-22T16:10:31Z,byteplussdk-quota,0.0.1,byteplus-sdk,Apache License 2.0,975,Name reservation for the Byteplus Python SDK split package byteplussdk-quota
+2026-10-22T16:10:38Z,byteplussdk-rabbitmq,0.0.1,byteplus-sdk,Apache License 2.0,1000,Name reservation for the Byteplus Python SDK split package byteplussdk-rabbitmq
+2026-10-22T16:11:06Z,pycristal,0.1.0,Meriem Boudali <meriem.cute23@gmail.com>,MIT,6746,Beautiful terminal messages for Python
+2026-10-22T16:14:18Z,neurolith,0.0.1,Jake Edwards,LicenseRef-Proprietary,2222,Neurolith: a brain for AI. Placeholder; not yet released.
