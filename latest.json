@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-10-23T19:20:02.221163Z",
-    "path": "data/new-packages-2026-10-23T20-18-40-817069Z.csv",
-    "to": "2026-10-23T20:18:40.817069Z"
+    "count": 34,
+    "from": "2026-10-23T20:18:40.817069Z",
+    "path": "data/new-packages-2026-10-23T21-18-36-100016Z.csv",
+    "to": "2026-10-23T21:18:36.100016Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-23T19:24:04Z",
       "package": "covertier-sdk",
       "since": "2026-10-23T19:20:02.221163Z",
       "version": "1.0.12"
     }
   ],
-  "serial": 42658281,
+  "serial": 42660575,
   "source_truncated": false,
-  "window": "2026-10-23T20:18:40.817069Z"
+  "window": "2026-10-23T21:18:36.100016Z"
 }

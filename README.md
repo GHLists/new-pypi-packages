@@ -8,49 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 20:18 UTC
+## Latest list — 2026-10-23 21:18 UTC
 
-New packages created between 2026-10-23 19:20 UTC and 2026-10-23 20:18 UTC.
+New packages created between 2026-10-23 20:18 UTC and 2026-10-23 21:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-23T20-18-40-817069Z.csv)
+[Full CSV](data/new-packages-2026-10-23T21-18-36-100016Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-23 19:19:39 | [pii-gate](https://pypi.org/project/pii-gate/) | 0.2.0 | sdursun1979 | 59.8 kB | Fail-closed personal-data gate for AI coding agents (Codex CLI, Claude Code): b… |
-| 2026-10-23 19:21:22 | [apiverve-colorsimilaritycalculator](https://pypi.org/project/apiverve-colorsimilaritycalculator/) | 1.2.2 | APIVerve <hello@apiverve.com> | 21.7 kB | Color Similarity Calculator measures color similarity between two hex values. I… |
-| 2026-10-23 19:21:26 | [apiverve-companylookup](https://pypi.org/project/apiverve-companylookup/) | 1.2.2 | APIVerve <hello@apiverve.com> | 22.1 kB | Company Lookup matches stock tickers, CIK numbers, company names, or SIC codes… |
-| 2026-10-23 19:21:30 | [apiverve-contentfilter](https://pypi.org/project/apiverve-contentfilter/) | 1.2.2 | APIVerve <hello@apiverve.com> | 20.9 kB | Content Filter checks URLs against a comprehensive blocklist of 200,000+ domain… |
-| 2026-10-23 19:21:45 | [enerji-mevzuat-takip](https://pypi.org/project/enerji-mevzuat-takip/) | 0.1.0 | Karahan | 207.3 kB | Türkiye enerji ve elektrik piyasası mevzuatını Resmî Gazete, EPDK, EPİAŞ, ETKB… |
-| 2026-10-23 19:22:02 | [apiverve-complimentgenerator](https://pypi.org/project/apiverve-complimentgenerator/) | 1.2.2 | APIVerve <hello@apiverve.com> | 20.6 kB | Compliment Generator creates unique, heartfelt compliments using template-based… |
-| 2026-10-23 19:25:34 | [mlpreflight](https://pypi.org/project/mlpreflight/) | 0.1.0 | Avin Ashok | 62.5 kB | Run this before you train your classifier: dataset readiness, leakage and train… |
-| 2026-10-23 19:25:34 | [py-env-config-83](https://pypi.org/project/py-env-config-83/) | 0.1.1 | Author <author@example.com> | 40.9 kB | A lightweight workspace configuration and environment sync utility. |
-| 2026-10-23 19:28:44 | [pcm-zces-parser](https://pypi.org/project/pcm-zces-parser/) | 0.1.0 |  | 100.5 kB | Read, write and visualise Pro Cycling Manager .zces stage files |
-| 2026-10-23 19:29:08 | [machine-learning-safe-json](https://pypi.org/project/machine-learning-safe-json/) | 1.0.1 | machine_learning_safe_json co… | 14.3 kB | Robustly extract and lightly repair JSON from messy LLM responses |
-| 2026-10-23 19:29:47 | [spiral-sql](https://pypi.org/project/spiral-sql/) | 0.0.1 | Spiral <hello@spiraldb.com> | 270.6 MB | DataFusion SQL terminal and ADBC driver for Spiral. |
-| 2026-10-23 19:30:05 | [webhooks-cc](https://pypi.org/project/webhooks-cc/) | 0.1.0 | webhooks.cc | 123.2 kB | Python SDK for webhooks.cc: capture, wait for, sign and verify webhooks and tes… |
-| 2026-10-23 19:35:09 | [agentbeacon-sdk](https://pypi.org/project/agentbeacon-sdk/) | 0.1.0 | AgentBeacon <contact@agentbea… | 26.3 kB | AgentBeacon for Python. Create a beacon: a few plain words about what you have… |
-| 2026-10-23 19:35:18 | [langchain-agentbeacon](https://pypi.org/project/langchain-agentbeacon/) | 0.1.0 | AgentBeacon <contact@agentbea… | 19.5 kB | LangChain tools for AgentBeacon. Create a beacon: a few plain words about what… |
-| 2026-10-23 19:35:25 | [tcoda](https://pypi.org/project/tcoda/) | 0.8.0 | René de Hesselle <dehesselle@… | 199.6 kB | Textual coda: widgets, dialogs and helpers |
-| 2026-10-23 19:35:46 | [sunasty-color-math](https://pypi.org/project/sunasty-color-math/) | 1.0.0 | Bastien Sulyan <contact@sunas… | 8.3 kB | Zero-dependency sRGB, HSL, OKLCH color conversion and WCAG 2.1 contrast calcula… |
-| 2026-10-23 19:37:21 | [dw1000-spi](https://pypi.org/project/dw1000-spi/) | 0.1.0 | Nicolas Sarabia | 34.5 kB | SPI driver for the Decawave DW1000 UWB transceiver (TX/RX, ranging timestamps,… |
-| 2026-10-23 19:38:52 | [goldpan](https://pypi.org/project/goldpan/) | 0.0.1 | UCD Villano Group | 5.2 kB | Analysis of digitized pulses together with their scalar quantities (placeholder… |
-| 2026-10-23 19:39:29 | [goldsluice](https://pypi.org/project/goldsluice/) | 0.0.1 | UCD Villano Group | 5.3 kB | Reduction of raw digitized pulses to scalar quantities, stored with the pulses… |
-| 2026-10-23 19:39:29 | [temper-evals](https://pypi.org/project/temper-evals/) | 1.0.0 | Dan West | 288.4 kB | Test AI features the way you test code, and know when a difference is real. |
-| 2026-10-23 19:40:16 | [png2svg](https://pypi.org/project/png2svg/) | 0.1.0 | sanaiftikharh | 13.0 kB | Convert PNG images into scalable hexagonal SVG wallpapers |
-| 2026-10-23 19:41:50 | [flowforge-map](https://pypi.org/project/flowforge-map/) | 0.1.0 | Vishwa Thangapandiyan | 1.2 MB | Map what your app depends on (LLMs, MCP servers, APIs), check their health and… |
-| 2026-10-23 19:42:19 | [covertier](https://pypi.org/project/covertier/) | 1.0.0 | Cortier | 129.1 kB | Official synchronous Python SDK for the Covertier API |
-| 2026-10-23 19:42:33 | [framelaw](https://pypi.org/project/framelaw/) | 0.1.0 |  | 67.6 MB | Native Rust schema contracts, built for Polars |
-| 2026-10-23 19:44:15 | [unhinged](https://pypi.org/project/unhinged/) | 0.2.0 |  | 114.5 kB | Absurd's durable execution engine, ported from Postgres to SQLite. |
-| 2026-10-23 19:46:38 | [temp-cm5959927](https://pypi.org/project/temp-cm5959927/) | 0.1.0 |  | 2.2 kB | My personal Python library |
-| 2026-10-23 19:47:06 | [optivibe-reference](https://pypi.org/project/optivibe-reference/) | 0.2.0 |  | 279.7 kB | OptiVibe reference layer: lookup tables + RAG + intent->ZOS-API grounding |
-| 2026-10-23 19:47:53 | [leichtfacile](https://pypi.org/project/leichtfacile/) | 0.7.0 | Alexander Bobrovsky <bobrovsk… | 690.0 kB | Drafts easy-language versions of Swiss official texts with a large language mod… |
-| 2026-10-23 19:54:58 | [optivibe-mcp](https://pypi.org/project/optivibe-mcp/) | 0.2.0 |  | 3.7 MB | OptiVibe harness: ZOS-API automation, typed tools, and the single OptiVibe MCP |
-| 2026-10-23 20:00:38 | [synaping](https://pypi.org/project/synaping/) | 0.0.1 |  | 979 B | Reserved by Synaping Inc. |
-| 2026-10-23 20:02:06 | [ragleap-security](https://pypi.org/project/ragleap-security/) | 0.1.0 | RagLeap | 26.7 kB | Small, auditable security primitives for the ragleap libraries: immutable tenan… |
-| 2026-10-23 20:04:02 | [gamemlx](https://pypi.org/project/gamemlx/) | 0.1.0 |  | 61.6 kB | Pure MLX inference package for GAME (vocal MIDI extraction) on Apple Silicon |
-| 2026-10-23 20:07:24 | [QFF-HACKATHON](https://pypi.org/project/QFF-HACKATHON/) | 0.4.0 | Noor Ul Ain | 12.6 kB | Grader for Qiskit Fall Fest 2026 labs |
-| 2026-10-23 20:10:23 | [qff-grader-noorulain](https://pypi.org/project/qff-grader-noorulain/) | 1.0.0 | Noor Ul Ain | 11.2 kB | Grader for Qiskit Fall Fest 2026 labs |
-| 2026-10-23 20:11:59 | [globus-xr](https://pypi.org/project/globus-xr/) | 0.1.0 | amarchakitus | 29.4 kB | Open Globus collections with xarray, zarr and fsspec via globus:// URLs |
-| 2026-10-23 20:12:33 | [softkad-mcp](https://pypi.org/project/softkad-mcp/) | 0.1.0 |  | 56.7 kB | MCP server that consumes the APIDIAN 2026 API (FacturaLatam, DIAN UBL 2.1 e-inv… |
-| 2026-10-23 20:16:23 | [pve-winrepair](https://pypi.org/project/pve-winrepair/) | 1.0.0 | bitranox <bitranox@gmail.com> | 689.5 kB | Repair Windows guests on Proxmox VE whose cumulative updates fail, with an offl… |
-| 2026-10-23 20:16:33 | [nomabo](https://pypi.org/project/nomabo/) | 0.1.0 | Ton Nom <toi@exemple.com> | 5.7 kB | Ma bibliothèque Python nomabo |
+| 2026-10-23 20:18:58 | [doua-seds-linear-regression-2026](https://pypi.org/project/doua-seds-linear-regression-2026/) | 0.1.0 |  | 5.5 kB | A simple linear regression model implemented from scratch |
+| 2026-10-23 20:20:54 | [yamcps-extras](https://pypi.org/project/yamcps-extras/) | 0.1.1 |  | 49.4 kB | Development skills for yamcps, without MCP tools or prompts |
+| 2026-10-23 20:22:49 | [dpm-xbrl](https://pypi.org/project/dpm-xbrl/) | 0.1.1 | Luuk Hopman | 112.8 kB | Read and write EBA-style xBRL-CSV and XBRL-XML regulatory reports (DPM taxonomi… |
+| 2026-10-23 20:22:53 | [dpm-xl](https://pypi.org/project/dpm-xl/) | 0.1.1 | Luuk Hopman | 120.1 kB | Parser and evaluator for the EBA DPM-XL validation-rule language |
+| 2026-10-23 20:23:13 | [normalizer-or](https://pypi.org/project/normalizer-or/) | 0.1.0 | Sambit Sekhar | 10.1 MB | Typed Python binding for the bounded Rust Odia text normalizer |
+| 2026-10-23 20:27:01 | [neuroforge-science](https://pypi.org/project/neuroforge-science/) | 0.1.0 |  | 77.8 kB | Transparent morphology analysis, network assembly, and spiking-network experime… |
+| 2026-10-23 20:31:54 | [dotmorph](https://pypi.org/project/dotmorph/) | 2.0.1 | "FreeRave (Kareem)" <kareem20… | 467.0 kB | Fast file converter for Linux with an animated radial menu: 440+ conversions fo… |
+| 2026-10-23 20:36:44 | [fux-decoder-sheet](https://pypi.org/project/fux-decoder-sheet/) | 4.1.1 | arpit arya <arpitarya.me@gmai… | 10.5 kB | Fux decoder package: spreadsheets — Excel workbooks, CSV and TSV. |
+| 2026-10-23 20:36:47 | [fux-decoder-svg](https://pypi.org/project/fux-decoder-svg/) | 4.1.1 | arpit arya <arpitarya.me@gmai… | 4.0 kB | Fux decoder package: SVG drawings. |
+| 2026-10-23 20:36:49 | [fux-decoder-xml](https://pypi.org/project/fux-decoder-xml/) | 4.1.1 | arpit arya <arpitarya.me@gmai… | 4.0 kB | Fux decoder package: XML. |
+| 2026-10-23 20:36:52 | [fux-fetcher-cdp](https://pypi.org/project/fux-fetcher-cdp/) | 4.1.1 | arpit arya <arpitarya.me@gmai… | 20.8 kB | Fux fetcher package: your signed-in Chrome, over the DevTools protocol. |
+| 2026-10-23 20:37:48 | [nucleuswatch](https://pypi.org/project/nucleuswatch/) | 1.0.0 |  | 367.7 kB | One view of a transient across the ALeRCE, Fink and Lasair alert brokers. |
+| 2026-10-23 20:38:48 | [zanni](https://pypi.org/project/zanni/) | 0.0.1 | Alessio Ricco | 5.0 kB | An engine for teams of AI personas: roles, actors, a director and a stage. |
+| 2026-10-23 20:39:05 | [parlot-instrumentation-pipecat](https://pypi.org/project/parlot-instrumentation-pipecat/) | 0.1.1 | Parlot AI <hi@parlot.ai> | 40.9 kB | Parlot instrumentation for Pipecat — Conversation Contract turns, STT/LLM/TTS,… |
+| 2026-10-23 20:39:13 | [insseption](https://pypi.org/project/insseption/) | 0.1.1 | Dénes Csala | 78.2 kB | JSON API client (and optional server) for INSSE TEMPO-Online |
+| 2026-10-23 20:42:15 | [dextora](https://pypi.org/project/dextora/) | 0.1.0 |  | 76.4 kB | A Python CLI toolkit for diagnosing project setup, dependencies, environment co… |
+| 2026-10-23 20:42:44 | [minicrawl-py](https://pypi.org/project/minicrawl-py/) | 1.0.0 |  | 40.7 kB | Python client for minicrawl, the self-hosted Firecrawl-compatible scraping API,… |
+| 2026-10-23 20:44:02 | [kickoff-companion](https://pypi.org/project/kickoff-companion/) | 0.25.0 | Myers Labs | 3.7 MB | A second-screen companion for watching your college football team, served from… |
+| 2026-10-23 20:48:28 | [hasneenturfi-trace](https://pypi.org/project/hasneenturfi-trace/) | 1.0.0 | H. AL-TURFI | 8.9 kB | The official Al-Turfi Active Sentinel Payload Standard for Digital Forensics an… |
+| 2026-10-23 20:49:39 | [cuda-tile-preview](https://pypi.org/project/cuda-tile-preview/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for cuda_tile_preview |
+| 2026-10-23 20:55:27 | [sluice-mcp](https://pypi.org/project/sluice-mcp/) | 0.1.0 | premm25 | 180.5 kB | Information-flow control for AI agents: a zero-dependency MCP proxy that stops… |
+| 2026-10-23 20:55:37 | [veiled-eye](https://pypi.org/project/veiled-eye/) | 3.1.0 | Emre Köybaşı | 6.9 MB | Veiled Eye: identity investigation and OSINT correlation for e-mails, usernames… |
+| 2026-10-23 20:59:05 | [markkit](https://pypi.org/project/markkit/) | 0.1.1 | Everruns <oss@everruns.com> | 3.2 MB | Python bindings for Markkit markdown extraction via PyO3 |
+| 2026-10-23 21:02:37 | [averecion](https://pypi.org/project/averecion/) | 0.0.1 | Averecion Corp <info@averecio… | 3.2 kB | Official Averecion SDK (name reserved by Averecion Corp). Available to Averecio… |
+| 2026-10-23 21:02:38 | [averecion-sdk](https://pypi.org/project/averecion-sdk/) | 0.0.1 | Averecion Corp <info@averecio… | 3.2 kB | Official Averecion SDK (name reserved by Averecion Corp). Available to Averecio… |
+| 2026-10-23 21:04:19 | [thegrind-ledger](https://pypi.org/project/thegrind-ledger/) | 0.0.0 | The Grind <grind@mainframe.ne… | 2.9 kB | Placeholder. The Grind's ledger: the record of verified contributions |
+| 2026-10-23 21:04:20 | [thegrind-protocol](https://pypi.org/project/thegrind-protocol/) | 0.0.0 | The Grind <grind@mainframe.ne… | 3.0 kB | Placeholder. The wire contract between a contributor and The Grind: canonical b… |
+| 2026-10-23 21:04:21 | [thegrind-transport](https://pypi.org/project/thegrind-transport/) | 0.0.0 | The Grind <grind@mainframe.ne… | 2.9 kB | Placeholder. Host transport, identity and durable local state for The Grind |
+| 2026-10-23 21:04:44 | [sglang-restomod](https://pypi.org/project/sglang-restomod/) | 0.0.0a0 |  | 15.7 kB | A lightweight downstream layer for SGLang: pinned upstream plus selected V100/S… |
+| 2026-10-23 21:08:39 | [darlog-typing](https://pypi.org/project/darlog-typing/) | 0.0.1a0 | Lex Darlog (Lex-DRL) | 20.1 kB | Syntax sugar: import the most common classes from built-in "typing" module with… |
+| 2026-10-23 21:11:50 | [yamcps-arr](https://pypi.org/project/yamcps-arr/) | 0.1.0 |  | 57.9 kB | Unified Sonarr, Radarr and Prowlarr connector for yamcps |
+| 2026-10-23 21:13:02 | [gaanim](https://pypi.org/project/gaanim/) | 0.17.0 | Gaanim contributors | 772.1 kB | Authoring helpers and type information for the Gaanim application |
+| 2026-10-23 21:13:43 | [yle-areena-dvr](https://pypi.org/project/yle-areena-dvr/) | 0.1.0 | Jukka Nousiainen | 57.6 kB | A tool for Yle Areena to download movies and series of interest. |
+| 2026-10-23 21:14:10 | [oneaddress-partner-sdk](https://pypi.org/project/oneaddress-partner-sdk/) | 1.3.0 |  | 119.8 kB | Official OneAddress partner integration SDK for Python — webhook verification,… |

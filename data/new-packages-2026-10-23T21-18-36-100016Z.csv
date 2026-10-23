@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T20:18:58Z,doua-seds-linear-regression-2026,0.1.0,,,5477,A simple linear regression model implemented from scratch
+2026-10-23T20:20:54Z,yamcps-extras,0.1.1,,MIT,49392,"Development skills for yamcps, without MCP tools or prompts"
+2026-10-23T20:22:49Z,dpm-xbrl,0.1.1,Luuk Hopman,MIT,112774,Read and write EBA-style xBRL-CSV and XBRL-XML regulatory reports (DPM taxonomies)
+2026-10-23T20:22:53Z,dpm-xl,0.1.1,Luuk Hopman,MIT,120078,Parser and evaluator for the EBA DPM-XL validation-rule language
+2026-10-23T20:23:13Z,normalizer-or,0.1.0,Sambit Sekhar,Apache-2.0,10121082,Typed Python binding for the bounded Rust Odia text normalizer
+2026-10-23T20:27:01Z,neuroforge-science,0.1.0,,MIT,77810,"Transparent morphology analysis, network assembly, and spiking-network experiments"
+2026-10-23T20:31:54Z,dotmorph,2.0.1,"""FreeRave (Kareem)"" <kareem209907@gmail.com>",Apache-2.0,466961,"Fast file converter for Linux with an animated radial menu: 440+ conversions for images, PDF, SVG, video, audio, Office and Markdown, from your file manager, a hotkey, a screen-edge dock or the termi…"
+2026-10-23T20:36:44Z,fux-decoder-sheet,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,10521,"Fux decoder package: spreadsheets — Excel workbooks, CSV and TSV."
+2026-10-23T20:36:47Z,fux-decoder-svg,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,4012,Fux decoder package: SVG drawings.
+2026-10-23T20:36:49Z,fux-decoder-xml,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,4016,Fux decoder package: XML.
+2026-10-23T20:36:52Z,fux-fetcher-cdp,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,20821,"Fux fetcher package: your signed-in Chrome, over the DevTools protocol."
+2026-10-23T20:37:48Z,nucleuswatch,1.0.0,,MIT,367749,"One view of a transient across the ALeRCE, Fink and Lasair alert brokers."
+2026-10-23T20:38:48Z,zanni,0.0.1,Alessio Ricco,MIT,4973,"An engine for teams of AI personas: roles, actors, a director and a stage."
+2026-10-23T20:39:05Z,parlot-instrumentation-pipecat,0.1.1,Parlot AI <hi@parlot.ai>,MIT,40902,"Parlot instrumentation for Pipecat — Conversation Contract turns, STT/LLM/TTS, and goal completion"
+2026-10-23T20:39:13Z,insseption,0.1.1,Dénes Csala,MIT,78188,JSON API client (and optional server) for INSSE TEMPO-Online
+2026-10-23T20:42:15Z,dextora,0.1.0,,MIT,76423,"A Python CLI toolkit for diagnosing project setup, dependencies, environment configuration, and common development issues."
+2026-10-23T20:42:44Z,minicrawl-py,1.0.0,,AGPL-3.0-only,40721,"Python client for minicrawl, the self-hosted Firecrawl-compatible scraping API, with LangChain and LlamaIndex integrations"
+2026-10-23T20:44:02Z,kickoff-companion,0.25.0,Myers Labs,MIT,3678462,"A second-screen companion for watching your college football team, served from your own computer."
+2026-10-23T20:48:28Z,hasneenturfi-trace,1.0.0,H. AL-TURFI,,8926,The official Al-Turfi Active Sentinel Payload Standard for Digital Forensics and Anti-Blackmail.
+2026-10-23T20:49:39Z,cuda-tile-preview,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1057,Zero version placeholder for cuda_tile_preview
+2026-10-23T20:55:27Z,sluice-mcp,0.1.0,premm25,MIT,180540,Information-flow control for AI agents: a zero-dependency MCP proxy that stops prompt-injection-driven data exfiltration.
+2026-10-23T20:55:37Z,veiled-eye,3.1.0,Emre Köybaşı,GPL-3.0-or-later,6867887,"Veiled Eye: identity investigation and OSINT correlation for e-mails, usernames, phone numbers and wallets, with a web UI, relationship graph and reports."
+2026-10-23T20:59:05Z,markkit,0.1.1,Everruns <oss@everruns.com>,MIT,3188488,Python bindings for Markkit markdown extraction via PyO3
+2026-10-23T21:02:37Z,averecion,0.0.1,Averecion Corp <info@averecion.com>,Proprietary,3177,Official Averecion SDK (name reserved by Averecion Corp). Available to Averecion customers in the app.
+2026-10-23T21:02:38Z,averecion-sdk,0.0.1,Averecion Corp <info@averecion.com>,Proprietary,3235,Official Averecion SDK (name reserved by Averecion Corp). Available to Averecion customers in the app.
+2026-10-23T21:04:19Z,thegrind-ledger,0.0.0,The Grind <grind@mainframe.network>,,2875,Placeholder. The Grind's ledger: the record of verified contributions
+2026-10-23T21:04:20Z,thegrind-protocol,0.0.0,The Grind <grind@mainframe.network>,,2956,"Placeholder. The wire contract between a contributor and The Grind: canonical bytes, digests, claims, identifiers."
+2026-10-23T21:04:21Z,thegrind-transport,0.0.0,The Grind <grind@mainframe.network>,,2922,"Placeholder. Host transport, identity and durable local state for The Grind"
+2026-10-23T21:04:44Z,sglang-restomod,0.0.0a0,,Apache-2.0,15737,A lightweight downstream layer for SGLang: pinned upstream plus selected V100/SM70 components.
+2026-10-23T21:08:39Z,darlog-typing,0.0.1a0,Lex Darlog (Lex-DRL),MPL-2.0,20139,"Syntax sugar: import the most common classes from built-in ""typing"" module with protected and shortened names"
+2026-10-23T21:11:50Z,yamcps-arr,0.1.0,,MIT,57943,"Unified Sonarr, Radarr and Prowlarr connector for yamcps"
+2026-10-23T21:13:02Z,gaanim,0.17.0,Gaanim contributors,MIT OR Apache-2.0,772061,Authoring helpers and type information for the Gaanim application
+2026-10-23T21:13:43Z,yle-areena-dvr,0.1.0,Jukka Nousiainen,MIT,57616,A tool for Yle Areena to download movies and series of interest.
+2026-10-23T21:14:10Z,oneaddress-partner-sdk,1.3.0,,Apache-2.0,119822,"Official OneAddress partner integration SDK for Python — webhook verification, address decryption"
