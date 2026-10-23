@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T04:26:20Z,agentinputlab,0.1.0a1,"Chuang Zhao, Xiaomeng Li",MIT,3566816,"Auditable, intent-aware input intervention for LLM agents"
+2026-10-23T04:26:32Z,predicateneuron,0.1.1,,Apache 2.0,29335,"Differentiable predicate neuron (intersection / union / symmetric difference) and predicate layers for Keras, TensorFlow and PyTorch"
+2026-10-23T04:28:36Z,originet,1.0.0,Esteban Carisimo,MIT,6892768,"Fast IP-to-ASN lookups (longest-prefix match) on CAIDA's RouteViews prefix-to-AS snapshots, fetched on the fly or from a local file"
+2026-10-23T04:34:08Z,assess-diff,0.1.0,JoshKarpel,MIT,117286,"Review an agent's working-tree diff in the terminal, and hand the review back as Markdown"
+2026-10-23T04:34:51Z,tool-result-context-binding-verdict,1.0.0,TextForAgents LLC,"MIT License Copyright (c) 2026 TextForAgents LLC Permission is hereby granted, free of charge, to a…",10186,"Verifier SDK for tool-result context-binding verdicts: seal a tool result with its production context, verify BOUND / STALE / CONTEXT-MISMATCHED / UNBOUND before consumption."
+2026-10-23T04:35:33Z,aiaa-eda-team1,0.1.0,,,28239,"AI Academy Asia, team 1: Монголын хүн амын шилжилт хөдөлгөөний EDA хийх туслах функцууд"
+2026-10-23T04:40:53Z,chargestat,0.1.1,TJDCS <tucker@tjdcs.dev>,MIT,30955,"Mac power adapter, charge rate, and time-to-full/empty in the terminal"
+2026-10-23T04:43:23Z,vertesia-client,1.6.0.dev20261022120426,Vertesia <contact@vertesia.com>,Apache-2.0,3269644,Python client for the Vertesia API
+2026-10-23T04:44:46Z,apiroute,1.0.0,Doug Youch <dougyouch@gmail.com>,MIT,137794,"Build API clients declaratively: one @route per endpoint, safe defaults, httpx underneath."
+2026-10-23T04:49:36Z,quantpicker,0.1.0,Ali Ashter,,18311508,"Measures which GGUF quant of a model to run on your GPU: real speed and quality loss, not estimates"
+2026-10-23T04:50:39Z,guideloom,1.0.0,Guide Labs,Apache-2.0,175396,Distributed high-performance dataset storage and a resumable dataloader
+2026-10-23T04:50:42Z,agent-framework-acgs,0.1.0,Martin Lyu,Apache-2.0,57788,"ACGS rule-based tool-call governance for Microsoft Agent Framework function tools, via function middleware and tool approvals"
+2026-10-23T04:53:26Z,meld-cli,0.65.1,PulseEngine,Apache-2.0,12477558,Static WebAssembly component fusion (the `meld` command-line tool)
+2026-10-23T05:00:17Z,vimgarden,0.3.0,shwouble <shwoublee@proton.me>,GPL-3.0-only,82101,Terminal-based Zen Bonsai simulation game with Vim-like controls
+2026-10-23T05:00:50Z,ninjaeval,0.1.0,,MIT,14963,"Show NinjaEval what happens inside your AI bot: tool calls and LLM calls, recorded only for NinjaEval tests."
+2026-10-23T05:02:26Z,nephilex,0.10.0,Haseeb Farooq <haseebfarooq35@gmail.com>,Apache-2.0,1146537,"An open-source AI Security Engineer: maps your application, finds vulnerabilities, explains them, and proposes verified fixes."
+2026-10-23T05:05:22Z,pswitch,0.1.5,Walter LIU,MIT,43606,一个本地端口，多个上游代理，随时切换
+2026-10-23T05:05:57Z,napa-vision,0.4.0,Zachary Wilson,PolyForm-Noncommercial-1.0.0,7918258,"Napa: a fast, dependency-free tag36h11 AprilTag detector with optional pose processing"
+2026-10-23T05:10:44Z,starsim-data,2.0.0,"Cliff Kerr, Romesh Abeysuriya, Robyn Stuart, Christopher Lorton",MIT,4689393,Demographic data and contact matrices for disease modeling with Starsim
+2026-10-23T05:12:57Z,signin-window,0.1.2,benjamin-di,MIT,119464,"Let a person sign in to a website themselves, from their own browser, in a remote browser window your server runs (noVNC sign-in links for MCP servers and other headless services)"
+2026-10-23T05:13:18Z,gettext-translator-service,0.1.0,Rodolfo González González <code@rodolfo.gg>,GPL-3.0-or-later,13421,Core library with plugin interface for the translation services for gettext-translator
+2026-10-23T05:13:27Z,gettext-translator-marianmt,0.1.0,Rodolfo González González <code@rodolfo.gg>,GPL-3.0-or-later,7460,MarianMT (Helsinki-NLP) local backend for gettext-translator
+2026-10-23T05:13:29Z,gettext-translator-nllb,0.1.0,Rodolfo González González <code@rodolfo.gg>,GPL-3.0-or-later,8798,NLLB (Meta) local backend for gettext-translator
+2026-10-23T05:13:30Z,gettext-translator-ollama,0.1.0,Rodolfo González González <code@rodolfo.gg>,GPL-3.0-or-later,8393,Ollama backend for gettext-translator
+2026-10-23T05:14:34Z,Quantar,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",232067,"A Python superset for easy quantum computing, operator creation and physics simulations."
+2026-10-23T05:20:31Z,gres,0.0.0,,,862,Reserved.

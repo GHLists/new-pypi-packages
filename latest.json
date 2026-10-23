@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 24,
-    "from": "2026-10-23T03:19:26.787159Z",
-    "path": "data/new-packages-2026-10-23T04-21-29-07528Z.csv",
-    "to": "2026-10-23T04:21:29.07528Z"
+    "count": 26,
+    "from": "2026-10-23T04:21:29.07528Z",
+    "path": "data/new-packages-2026-10-23T05-21-33-677396Z.csv",
+    "to": "2026-10-23T05:21:33.677396Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-23T01:09:25Z",
-      "package": "serqo-sdk",
-      "since": "2026-10-23T00:20:11.559863Z",
+      "attempts": 1,
+      "created_at": "2026-10-23T05:18:43Z",
+      "package": "orchestral-client",
+      "since": "2026-10-23T04:21:29.07528Z",
       "version": null
     }
   ],
-  "serial": 42625203,
+  "serial": 42626658,
   "source_truncated": false,
-  "window": "2026-10-23T04:21:29.07528Z"
+  "window": "2026-10-23T05:21:33.677396Z"
 }

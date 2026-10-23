@@ -8,35 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 04:21 UTC
+## Latest list — 2026-10-23 05:21 UTC
 
-New packages created between 2026-10-23 03:19 UTC and 2026-10-23 04:21 UTC.
+New packages created between 2026-10-23 04:21 UTC and 2026-10-23 05:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-23T04-21-29-07528Z.csv)
+[Full CSV](data/new-packages-2026-10-23T05-21-33-677396Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-23 03:23:37 | [qowa](https://pypi.org/project/qowa/) | 0.1.0 | Qowa contributors | 13.6 kB | Small cross-platform Python utility library |
-| 2026-10-23 03:27:00 | [formalsw](https://pypi.org/project/formalsw/) | 0.3.0 |  | 586.0 kB | Prove properties of Python source code with Lean |
-| 2026-10-23 03:28:42 | [apgi-framework](https://pypi.org/project/apgi-framework/) | 1.1.0 | Dimitry Pesochin <dimitry@apg… | 107.1 kB | Allostatic Precision-Gated Ignition (APGI): a computational framework for consc… |
-| 2026-10-23 03:29:07 | [sentry-viewercontext](https://pypi.org/project/sentry-viewercontext/) | 0.1.0 | Sentry <oss@sentry.io> | 18.1 kB | Caller identity propagated between Sentry services |
-| 2026-10-23 03:30:08 | [pygcp-rm](https://pypi.org/project/pygcp-rm/) | 0.1.0 | Wenjie Wang <wenjiew001@gmail… | 141.5 kB | PyGCP: Gaussian-copula-process reverberation-mapping lag inference |
-| 2026-10-23 03:32:08 | [my-first-tool-unique-name](https://pypi.org/project/my-first-tool-unique-name/) | 0.1.0 |  | 2.2 kB | A simple Python calculator package |
-| 2026-10-23 03:36:39 | [combined-residue-census-shim](https://pypi.org/project/combined-residue-census-shim/) | 1.0.0 | TextForAgents LLC | 7.0 kB | Creation-ledger shim for Combined Residue Census: records MCP tasks and subscri… |
-| 2026-10-23 03:37:08 | [anyx](https://pypi.org/project/anyx/) | 0.1.0 | sic | 123.3 kB | Use X (Twitter) from any browser, as any of your accounts, from the command lin… |
-| 2026-10-23 03:37:58 | [pdf-form-proof](https://pypi.org/project/pdf-form-proof/) | 0.1.0 | EssenceAlignment | 35.8 kB | Fill fillable PDF forms, then prove every value is visible on the rendered page… |
-| 2026-10-23 03:44:50 | [veqen-pricebook](https://pypi.org/project/veqen-pricebook/) | 2026.10.22 | Keyveve, Inc. | 71.6 kB | Dated AI model prices, cache rates and billing rules, with no tracking dependen… |
-| 2026-10-23 03:45:11 | [channel-boundary](https://pypi.org/project/channel-boundary/) | 1.0.0 |  | 6.6 kB | Receiver-boundary wrapper for Channel-Bound Delegation Receipts: stamps the act… |
-| 2026-10-23 03:45:13 | [yamlstar-plugin-parser-rapidyaml](https://pypi.org/project/yamlstar-plugin-parser-rapidyaml/) | 0.1.4 | Ingy döt Net | 419.3 kB | RapidYAML parser plugin for YAMLStar |
-| 2026-10-23 03:47:11 | [proprio](https://pypi.org/project/proprio/) | 0.1.2 |  | 63.9 MB | Exact, drop-in inference engine for vision-language-action robot policies |
-| 2026-10-23 03:47:33 | [lerobot-policy-proprio](https://pypi.org/project/lerobot-policy-proprio/) | 0.1.1 | ZenEdgeX <hello@zenedgex.in> | 16.5 kB | Proprio for LeRobot: faster policy ticks with actions bit-identical to the orig… |
-| 2026-10-23 03:48:48 | [chanto](https://pypi.org/project/chanto/) | 0.0.0 |  | 1.7 kB | Name reserved for Chanto, a coding agent that checks its own work. Real release… |
-| 2026-10-23 03:48:50 | [chanto-sdk](https://pypi.org/project/chanto-sdk/) | 0.0.0 |  | 1.8 kB | Name reserved for Chanto, a coding agent that checks its own work. Real release… |
-| 2026-10-23 03:57:06 | [sdmxlib-cli](https://pypi.org/project/sdmxlib-cli/) | 0.72.0 | gabrielgellner | 7.1 kB | sdmxlib from the command line: check SDMX bundles |
-| 2026-10-23 04:03:01 | [parquet-guard](https://pypi.org/project/parquet-guard/) | 0.3.0a1 | Jingye Liu <liujingye@users.n… | 293.8 kB | High-performance, zero-data-scan Parquet schema contract & drift detection guar… |
-| 2026-10-23 04:05:49 | [focus-feed](https://pypi.org/project/focus-feed/) | 1.1 |  | 363.3 kB | A local RSS/Atom feed generator for audio, HTML and PDF files |
-| 2026-10-23 04:06:24 | [chiranjeev-toolkit](https://pypi.org/project/chiranjeev-toolkit/) | 1.0.0 | Chiranjeev | 18.2 kB | A tiny, dependency-free Python toolkit with math, text and statistics helpers,… |
-| 2026-10-23 04:07:32 | [cc-sessions-man](https://pypi.org/project/cc-sessions-man/) | 0.0.1 | j | 131.8 kB | List Claude Code sessions and whether each is done or waiting on you |
-| 2026-10-23 04:09:20 | [my8amvtslib](https://pypi.org/project/my8amvtslib/) | 1.0.0 | VTS | 1.5 kB | My first Python library |
-| 2026-10-23 04:11:55 | [claude-desktop-importer](https://pypi.org/project/claude-desktop-importer/) | 0.1.0 | Leeiio | 43.3 kB | Bring Claude Code CLI sessions into the Claude Desktop sidebar, with real title… |
-| 2026-10-23 04:16:26 | [langchain-veqen](https://pypi.org/project/langchain-veqen/) | 1.0.0 |  | 7.6 kB | LangChain and LangGraph callback for AI usage costs, customer attribution and V… |
+| 2026-10-23 04:26:20 | [agentinputlab](https://pypi.org/project/agentinputlab/) | 0.1.0a1 | Chuang Zhao, Xiaomeng Li | 3.6 MB | Auditable, intent-aware input intervention for LLM agents |
+| 2026-10-23 04:26:32 | [predicateneuron](https://pypi.org/project/predicateneuron/) | 0.1.1 |  | 29.3 kB | Differentiable predicate neuron (intersection / union / symmetric difference) a… |
+| 2026-10-23 04:28:36 | [originet](https://pypi.org/project/originet/) | 1.0.0 | Esteban Carisimo | 6.9 MB | Fast IP-to-ASN lookups (longest-prefix match) on CAIDA's RouteViews prefix-to-A… |
+| 2026-10-23 04:34:08 | [assess-diff](https://pypi.org/project/assess-diff/) | 0.1.0 | JoshKarpel | 117.3 kB | Review an agent's working-tree diff in the terminal, and hand the review back a… |
+| 2026-10-23 04:34:51 | [tool-result-context-binding-verdict](https://pypi.org/project/tool-result-context-binding-verdict/) | 1.0.0 | TextForAgents LLC | 10.2 kB | Verifier SDK for tool-result context-binding verdicts: seal a tool result with… |
+| 2026-10-23 04:35:33 | [aiaa-eda-team1](https://pypi.org/project/aiaa-eda-team1/) | 0.1.0 |  | 28.2 kB | AI Academy Asia, team 1: Монголын хүн амын шилжилт хөдөлгөөний EDA хийх туслах… |
+| 2026-10-23 04:40:53 | [chargestat](https://pypi.org/project/chargestat/) | 0.1.1 | TJDCS <tucker@tjdcs.dev> | 31.0 kB | Mac power adapter, charge rate, and time-to-full/empty in the terminal |
+| 2026-10-23 04:43:23 | [vertesia-client](https://pypi.org/project/vertesia-client/) | 1.6.0.dev2026102212… | Vertesia <contact@vertesia.co… | 3.3 MB | Python client for the Vertesia API |
+| 2026-10-23 04:44:46 | [apiroute](https://pypi.org/project/apiroute/) | 1.0.0 | Doug Youch <dougyouch@gmail.c… | 137.8 kB | Build API clients declaratively: one @route per endpoint, safe defaults, httpx… |
+| 2026-10-23 04:49:36 | [quantpicker](https://pypi.org/project/quantpicker/) | 0.1.0 | Ali Ashter | 18.3 MB | Measures which GGUF quant of a model to run on your GPU: real speed and quality… |
+| 2026-10-23 04:50:39 | [guideloom](https://pypi.org/project/guideloom/) | 1.0.0 | Guide Labs | 175.4 kB | Distributed high-performance dataset storage and a resumable dataloader |
+| 2026-10-23 04:50:42 | [agent-framework-acgs](https://pypi.org/project/agent-framework-acgs/) | 0.1.0 | Martin Lyu | 57.8 kB | ACGS rule-based tool-call governance for Microsoft Agent Framework function too… |
+| 2026-10-23 04:53:26 | [meld-cli](https://pypi.org/project/meld-cli/) | 0.65.1 | PulseEngine | 12.5 MB | Static WebAssembly component fusion (the `meld` command-line tool) |
+| 2026-10-23 05:00:17 | [vimgarden](https://pypi.org/project/vimgarden/) | 0.3.0 | shwouble <shwoublee@proton.me> | 82.1 kB | Terminal-based Zen Bonsai simulation game with Vim-like controls |
+| 2026-10-23 05:00:50 | [ninjaeval](https://pypi.org/project/ninjaeval/) | 0.1.0 |  | 15.0 kB | Show NinjaEval what happens inside your AI bot: tool calls and LLM calls, recor… |
+| 2026-10-23 05:02:26 | [nephilex](https://pypi.org/project/nephilex/) | 0.10.0 | Haseeb Farooq <haseebfarooq35… | 1.1 MB | An open-source AI Security Engineer: maps your application, finds vulnerabiliti… |
+| 2026-10-23 05:05:22 | [pswitch](https://pypi.org/project/pswitch/) | 0.1.5 | Walter LIU | 43.6 kB | 一个本地端口，多个上游代理，随时切换 |
+| 2026-10-23 05:05:57 | [napa-vision](https://pypi.org/project/napa-vision/) | 0.4.0 | Zachary Wilson | 7.9 MB | Napa: a fast, dependency-free tag36h11 AprilTag detector with optional pose pro… |
+| 2026-10-23 05:10:44 | [starsim-data](https://pypi.org/project/starsim-data/) | 2.0.0 | Cliff Kerr, Romesh Abeysuriya… | 4.7 MB | Demographic data and contact matrices for disease modeling with Starsim |
+| 2026-10-23 05:12:57 | [signin-window](https://pypi.org/project/signin-window/) | 0.1.2 | benjamin-di | 119.5 kB | Let a person sign in to a website themselves, from their own browser, in a remo… |
+| 2026-10-23 05:13:18 | [gettext-translator-service](https://pypi.org/project/gettext-translator-service/) | 0.1.0 | Rodolfo González González <co… | 13.4 kB | Core library with plugin interface for the translation services for gettext-tra… |
+| 2026-10-23 05:13:27 | [gettext-translator-marianmt](https://pypi.org/project/gettext-translator-marianmt/) | 0.1.0 | Rodolfo González González <co… | 7.5 kB | MarianMT (Helsinki-NLP) local backend for gettext-translator |
+| 2026-10-23 05:13:29 | [gettext-translator-nllb](https://pypi.org/project/gettext-translator-nllb/) | 0.1.0 | Rodolfo González González <co… | 8.8 kB | NLLB (Meta) local backend for gettext-translator |
+| 2026-10-23 05:13:30 | [gettext-translator-ollama](https://pypi.org/project/gettext-translator-ollama/) | 0.1.0 | Rodolfo González González <co… | 8.4 kB | Ollama backend for gettext-translator |
+| 2026-10-23 05:14:34 | [Quantar](https://pypi.org/project/Quantar/) | 0.1.0 |  | 232.1 kB | A Python superset for easy quantum computing, operator creation and physics sim… |
+| 2026-10-23 05:20:31 | [gres](https://pypi.org/project/gres/) | 0.0.0 |  | 862 B | Reserved. |
