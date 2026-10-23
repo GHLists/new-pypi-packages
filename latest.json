@@ -1,27 +1,41 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-10-23T08:18:37.339933Z",
-    "path": "data/new-packages-2026-10-23T09-21-17-557223Z.csv",
-    "to": "2026-10-23T09:21:17.557223Z"
+    "count": 46,
+    "from": "2026-10-23T09:21:17.557223Z",
+    "path": "data/new-packages-2026-10-23T10-18-57-969379Z.csv",
+    "to": "2026-10-23T10:18:57.969379Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-23T09:20:23Z",
-      "package": "kbank",
-      "since": "2026-10-23T08:18:37.339933Z",
-      "version": "0.0.1"
+      "created_at": "2026-10-23T09:25:27Z",
+      "package": "MathZX",
+      "since": "2026-10-23T09:21:17.557223Z",
+      "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-23T09:25:18Z",
+      "package": "odoo-addon-project-task-manual-progress",
+      "since": "2026-10-23T09:21:17.557223Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-23T07:14:56Z",
       "package": "open-waterway-designer",
       "since": "2026-10-23T06:18:37.784879Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-23T09:42:21Z",
+      "package": "sap-odata-cli",
+      "since": "2026-10-23T09:21:17.557223Z",
+      "version": null
     }
   ],
-  "serial": 42634748,
+  "serial": 42636737,
   "source_truncated": false,
-  "window": "2026-10-23T09:21:17.557223Z"
+  "window": "2026-10-23T10:18:57.969379Z"
 }

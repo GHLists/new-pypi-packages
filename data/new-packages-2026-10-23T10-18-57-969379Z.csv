@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T09:20:23Z,kbank,0.0.1,Tom Stanton <tomdstanton@gmail.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",7566874,Geno-glycomic database for bacterial glycans
+2026-10-23T09:24:34Z,prombed,0.1.0,,Apache-2.0,53065,"A small, embeddable Prometheus subset for short-lived metric analysis."
+2026-10-23T09:26:02Z,quality-harness,0.5.0,,Apache-2.0,1227324,Quality testing and evidence analysis SDKs for software and agents
+2026-10-23T09:26:57Z,t212-mcp,0.1.1,Adam Watson,MIT,98522,MCP server for the Trading 212 public API
+2026-10-23T09:27:57Z,wm-finpipe,1.1.0,finpipe contributors,PolyForm-Noncommercial-1.0.0,236640,A 股个股数据 Python SDK：随包内置机器可读数据目录 + 云端取数客户端（开箱即用，内置体验 appid）
+2026-10-23T09:28:17Z,jupyter-jitters,0.1.0,Vibeoverflow,MIT,60652,"Jitters the VibeCoder, an anxious monkey, under your notebook cells: sweating when a cell raises, groggy when one runs past a minute, terrible at the first cell after midnight. %load_ext jitters; sen…"
+2026-10-23T09:28:27Z,safesweep,0.5.1,,,3669191,Clean caches and temp files that are provably safe to delete (Linux and WSL)
+2026-10-23T09:29:26Z,cliron,0.1.0,,MIT,598296,"An AI-native, lightweight, customizable and dependency-free Python CLI framework."
+2026-10-23T09:29:53Z,boxrouter,0.0.1a1,,Apache-2.0,32069,A client library for accessing BoxRouter
+2026-10-23T09:29:59Z,napari-imaref,1.1.1,"Clément Cazorla, Vincent Demont","Copyright (c) 2024, Clément Cazorla, Vincent Demont All rights reserved. Redistribution and use in…",372541,Stereotyping zebrafish embryos by manually setting a reference frame
+2026-10-23T09:30:37Z,edu-robot-api,0.6.0,,Apache-2.0,32599,"A typed Python robot API for education, independent of hardware and transport"
+2026-10-23T09:31:20Z,zenysis-py77,0.2.1,,MIT,291685,Zenysis-maintained fork of the Room 77 Python Libraries
+2026-10-23T09:31:38Z,koebelt-dash-scripts,1.3.0b1,Thomas Koebel <contact@koebelt.com>,MIT,46604,"Control drones, robots and test rigs connected in the koebelt/dash app from Python."
+2026-10-23T09:33:22Z,plantvirome,0.1.0,Ezechiel Tibiri,MIT,106633,Virus-agnostic RCA-Nanopore virome pipeline for plants
+2026-10-23T09:34:24Z,keepwatch,0.1.1,,MIT,33809,"Reliability layer for unattended agent mailboxes: leases, heartbeats, and silent-failure detection."
+2026-10-23T09:35:42Z,camminady_matplotlib_theme,0.2.0,Thomas Camminady <0milieux_member@icloud.com>,MIT,33258,"A minimal matplotlib style that matches camminady_altair_theme: muted gray text, dashed grid lines and horizontal axis titles."
+2026-10-23T09:37:37Z,supie,0.1.1,almostly,Apache-2.0,202452,Python edge functions for Supabase.
+2026-10-23T09:37:54Z,agentic-bench,0.2.0,,Apache-2.0,127790,Agentic inference benchmark: closed-loop replay of real agent trajectories against any OpenAI-compatible server
+2026-10-23T09:41:32Z,deciflow,0.6.0,,"The MIT License (MIT) Copyright (c) 2015 Anthony Lapenna Permission is hereby granted, free of char…",6057102,Streaming log classification with Laya and Jev
+2026-10-23T09:47:08Z,simple-korean,1.2.0,,MIT,86831,SimpleKorean 규칙 판본과 린터를 Python에서 쓴다
+2026-10-23T09:48:01Z,sap-odata-cli-hsin,1.0.0,,MIT,14387358,"Unofficial fork of the sap-odata CLI: SAP OData service discovery, metadata browsing, queries, annotations lint, service health checks, offline EDMX"
+2026-10-23T09:48:59Z,wolof-normalizer,0.2.0,Baye Lahad Mbacke,MIT AND CC-BY-SA-4.0,39249,Normalise Wolof text written in French-style / SMS spelling into the official orthography (CLAD).
+2026-10-23T09:49:02Z,zenith-greeter,0.1.0,Zenith OX,MIT,6917,A small example Python package with a reusable Greeter class
+2026-10-23T09:49:35Z,wpsniffer,0.1.0,WPSniffer contributors,GPL-3.0-or-later,243725,YARA-based command-line malware scanner for WordPress and PHP sites
+2026-10-23T09:51:04Z,tribulnation-margin-trade,0.1.0,,MIT,38736,Tribulnation SDK implementation for margin.trade spot and perpetual markets.
+2026-10-23T09:51:31Z,orderstream-agent-guard-proxy,0.1.0,OrderStream <healthdecoded77@gmail.com>,,18739,Enterprise reverse proxy and firewall middleware for Model Context Protocol (MCP) JSON-RPC tool calls
+2026-10-23T09:52:58Z,orderstream-ai-contract-auditor,0.1.0,OrderStream <healthdecoded77@gmail.com>,,17099,Automated static analysis and AST invariant checker for Soroban smart contracts
+2026-10-23T09:53:51Z,licentivo-launch,0.1.1,,"MIT License Copyright (c) 2026 Licentivo Launch contributors Permission is hereby granted, free of…",46604,Merchant account and official Licentivo runtime lifecycle integration
+2026-10-23T09:53:52Z,nima-persianguard,1.0.0,Nima Esmaili,MIT,35051,PersianGuard: modular Persian shaping/layout validation and infographic renderer with a single-pass RTL contract.
+2026-10-23T09:55:44Z,datastore-async,2.27.0,Tomasz Żyźniewski <zyzniewski@gmail.com>,Apache-2.0,44868,Google Cloud Datastore Async Client
+2026-10-23T09:57:31Z,ucan-lin-mcp,0.1.0,ucan <ucandevices@mail.com>,MIT,28855,MCP server for the uCAN USB LIN Converter: let AI agents sniff and reverse-engineer a LIN bus
+2026-10-23T09:57:32Z,sutra-a2a,0.10.0,Subhajit Pradhan,MIT,181200,SUTRA — a deterministic agent-to-agent communication language with a compact wire format
+2026-10-23T09:57:35Z,ucan-servo-mcp,0.4.0,uCanDevices,MIT,74818,MCP server for the open-hardware USB-C 12-channel servo controller (Pololu Maestro compatible)
+2026-10-23T09:57:59Z,tideline,0.2.0,,MIT,113132,"See what each AI agent could reach, and keep AI approvals current when that reach changes. Local, read-only, offline."
+2026-10-23T09:59:44Z,microllm-jev,0.2.0,MicroLLM Contributors,Apache-2.0,604360,"Hybrid System-One Local Decision Engine (JevCompat 32/32 MUST, AnyJev L0 Prefill, StartLux Read-or-Think Cascade, OpenJev-RLCD Trainer)"
+2026-10-23T10:03:01Z,bpaflow,0.1.0,,"MIT License Copyright (c) 2020 Mike Heinen Permission is hereby granted, free of charge, to any per…",3694942,Python API for the BPA-IPF power-flow engine
+2026-10-23T10:04:54Z,llama-index-tools-pidgeon,0.1.0,Pidgeon <support@pidgeon.ai>,MIT,12233,"Email inboxes for LlamaIndex agents: send, read, search, wait for verification codes and reply, with Pidgeon."
+2026-10-23T10:04:58Z,migratesafe,0.1.1,Abhijeet Ashok More <admin@cyinsolutions.com>,MIT,59465,Read-only security audit for domain migrations (MigrateSafe checks C1-C14)
+2026-10-23T10:06:02Z,filefit,1.0.0,Dipanjan Banerjee <dipanjanbanerjee20@gmail.com>,MIT,116616,"Convert JPG, PNG, PDF and DOCX files and shrink them under a size limit for upload portals."
+2026-10-23T10:06:33Z,appsbyme-basekit,1.0.0,Matthew Venter,"MIT License Copyright (c) 2026 Matthew Venter Permission is hereby granted, free of charge, to any…",626127,"Reusable Django backend foundation with auth, monitoring, privacy, security and project scaffolding"
+2026-10-23T10:06:51Z,lumio-admin-mcp,0.1.0,cyetstar,MIT,66701,MCP server for Lumio admin APIs (诗文 / 词库 / 字库) via Bot Token
+2026-10-23T10:07:32Z,bioagi,0.0.1,Dan Bolser <dan.bolser@outsee.co.uk>,BSD-3-Clause,1939,Reserved name. Nothing to install yet.
+2026-10-23T10:08:45Z,skillmesh-bridge-cli,0.0.0.dev1,SkillMesh,LicenseRef-SkillMesh-Proprietary,135108,Local SkillMesh launcher; requires Node.js 22 or later
+2026-10-23T10:09:42Z,yonder-cli,0.4.1,,MIT,23587907,"your site, over yonder: share a localhost site or files with your phone via a QR code"
+2026-10-23T10:15:17Z,vvz-file-backup,0.1.2,Vasiliy Zdanovskiy <vasilyvz@gmail.com>,,302528,Independent incremental file backups with verified saved-point restoration
+2026-10-23T10:17:50Z,pptx-typst,0.1.0,,Apache-2.0,4131079,Convert supported PowerPoint presentations to Typst and back
