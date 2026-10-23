@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T13:20:25Z,configseal,0.1.0,,MIT,10802,Encrypted INI file storage for configparser
+2026-10-23T13:20:30Z,gauss-ai,0.89.2,Eric Clower,MIT,790152,"GAUSS programming assistant: official-docs search, deterministic code validation and a human-approved execution handoff, as an MCP server and CLI."
+2026-10-23T13:20:56Z,ormas-monitor,0.2.3,Rokib Al Dhin Raadh <raadh@oxiedo.com>,Apache-2.0,374883,"Catch the layer that breaks while your PyTorch model trains, and get proof: per-layer alarms, certified dead channels, optional repair, and a tamper-evident training record."
+2026-10-23T13:21:51Z,autorefine,0.85.0,Kurei,MIT,1641168,Environment for autonomous iterative ML model improvement
+2026-10-23T13:23:27Z,lexgents-cli,0.1.0,,LicenseRef-Proprietary,49889,A thin CLI client for the LexGents research service
+2026-10-23T13:24:53Z,thetaserve,0.1.0,ThetaPlex <support@thetaplex.com>,Apache-2.0,192878,Launch open-weight models with vLLM on rented GPUs and get a secured OpenAI-compatible endpoint.
+2026-10-23T13:25:29Z,emg-speech,1.0.0,Hosam Hatim Osman <hosam.bosati@gmail.com>,MIT,188825,"Subvocal EMG speech recognition: acquisition, training and real-time inference"
+2026-10-23T13:29:57Z,kudioenhance,1.0,RL,MIT,157841,Train and run learned speech-enhancement (denoising) models on top of the kudio audio toolkit.
+2026-10-23T13:33:30Z,geoseo-mcp,0.4.0,Rachit Agarwal,MIT,169504,"MCP server for SEO + GEO: Search Console, Bing, Yandex, IndexNow, AI Overviews, and LLM citation tracking across ChatGPT, Claude, Gemini, Perplexity, Grok and Brave."
+2026-10-23T13:37:38Z,lit-sb3,0.0.1,twsl <45483159+twsl@users.noreply.github.com>,MIT,654353,PyTorch Lightning version of Stable Baselines
+2026-10-23T13:39:02Z,topcharge,1.0.0,TopCharge,MIT,14908,Official Python SDK for the TopCharge merchant API.
+2026-10-23T13:39:57Z,mlpipelinecheck,0.2.0,Mlpipelinecheck contributors,MIT,162662,"Local, evidence-oriented audits for tabular ML evaluation integrity."
+2026-10-23T13:41:15Z,triplepat-syntheticalert,0.1.0,Triple Pat,Apache-2.0,30897,"A synthetic alert measurement callback, so a Triple Pat check-in timer can verify your alerting pipeline end to end."
+2026-10-23T13:44:22Z,async-task-api-worker,0.1.0rc2,,MIT,124811,"SDK to write workers for the AsyncTaskAPI platform: protocol models, runtime and conformance kit."
+2026-10-23T13:44:50Z,maki-framework,0.3.1,Bowl of Data <bowlofdata@gmail.com>,MIT,561932,A Python framework for multi-agent LLM interactions
+2026-10-23T13:46:19Z,warrant-buyer,0.1.1,,See LICENSE,8904756,Buyer guardrail for Warrant: an AI agent buys compute with USDC on Arc and holds no key that can pay.
+2026-10-23T13:46:31Z,catchem-utils,0.0.0,Kilian Schnelle,,1976,Coming soon
+2026-10-23T13:47:42Z,talki,0.1.0b1,HubTec S.r.l.,MIT,439652,Python client for the Talki API
+2026-10-23T13:48:14Z,holarchy,0.1.0,Dmitrii Gagarin aka madgagarin <madgagarin@gmail.com>,MPL-2.0,13801,High-performance asynchronous workflow orchestrator and state engine
+2026-10-23T13:48:24Z,holonode,0.1.0,Dmitrii Gagarin aka madgagarin <madgagarin@gmail.com>,MPL-2.0,13746,Distributed execution node and worker runtime for holarchy
+2026-10-23T13:51:14Z,kudiostudio,1.0,RL,MIT,669234,"A desktop workbench for the Kudio audio toolkit — inspect, edit, synthesize and measure audio."
+2026-10-23T13:53:20Z,esa-livefeed,0.0.1,Ely-Sandra <info@ely-sandra.com>,MIT,35459,"Low-latency live feed server and managed client over raw TCP with JSONL framing, heartbeats, liveness detection, and unbounded per-client backpressure."
+2026-10-23T13:59:15Z,bioalgo,0.7.0,Developer <developer@example.com>,MIT,39010,"A lightweight, modular Python toolkit for bio-inspired and nature-inspired metaheuristic optimization algorithms."
+2026-10-23T13:59:41Z,arc56-generated-colau-0399f110,1.1.2026102312,colauttilorenzo,,35557,Generated ARC-56 Algorand smart-contract clients for colauttilorenzo/Web3Service.
+2026-10-23T14:00:36Z,mltree-mcp,0.8.0,Yassir Boulaamane,MIT,3077860,"An MCP server that maps your ML / GNN workflow as a node graph and records every experiment as a branching tree, while Codex or Claude Code works."
+2026-10-23T14:02:33Z,hare-orm,0.9.0,Vladislav Yaremenko,MIT,139385352,"An async Python ORM for PostgreSQL, SQLite and ClickHouse, built with relations in mind"
+2026-10-23T14:03:22Z,wingspan-rl,1.0.0,,MIT,8221968,"Wingspan board-game simulator and RL training pipeline, with a bundled trained model"
+2026-10-23T14:05:02Z,origami-astro,0.1.0,Lorenzo Monti <lorenzomonti42@gmail.com>,MIT,110285,"Fold, embed, probe: compare foundation-model embeddings, hand-crafted and catalogue features of astronomical light curves."
+2026-10-23T14:05:20Z,arc56-generated-gulze-d0fc8eb3,1.2.2026072010,gulzerr,,22826,Generated ARC-56 Algorand smart-contract clients for gulzerr/payPerSecond.
+2026-10-23T14:05:23Z,crackpot,2.0,"Bertram Richter, Carl Stock, Xiaoli Song",GPL-3.0-only,161205313,Concrete Research And Crack Knowledge Photogrammetric Observation Tool
+2026-10-23T14:05:48Z,fsr-agentic-toolkit,0.1.0,,MIT,204115,"The agent layer for FortiSOAR: evidence-backed workflows, one gate, one MCP server and CLI, on pyfsr and fsr-playbooks."
+2026-10-23T14:06:24Z,arc56-generated-gurub-be5c418b,1.2.2026072010,gurubazawada,,55856,Generated ARC-56 Algorand smart-contract clients for gurubazawada/AgriGuard.
+2026-10-23T14:07:28Z,arc56-generated-hanum-ee76d477,1.2.2026072010,hanumagoudabanakar5-hash,,22355,Generated ARC-56 Algorand smart-contract clients for hanumagoudabanakar5-hash/chatbot-for-daily-conversation.
+2026-10-23T14:07:48Z,relsynth,1.0.0,nick-developer,LicenseRef-Proprietary,755267,"Bayesian synthetic data for relational databases: star and snowflake schemas, keys, business rules and privacy, fitted in-database for large tables."
+2026-10-23T14:08:24Z,opendevice,0.1.0,cyrilchan,MIT,266508,"Lightweight iOS device framework: USB/Wi-Fi link, H.265 streaming, input injection and the accessibility tree"
+2026-10-23T14:08:24Z,workslip,0.1.0,,MIT,7652,"Job execution shim for CI-style benchmark boards: download, stage parameters, run out-of-process."
+2026-10-23T14:10:37Z,pymal-ng,1.0.0,varyg,BSD-3-Clause,73696,A python api for the website MyAnimeList (or MAL).
+2026-10-23T14:10:51Z,ChatIdea,0.0.2,ChatArch <rex@chatarch.org>,MIT,8366,Minimal Python package and CLI
+2026-10-23T14:11:41Z,bbagents,0.1.0,BrilBerry,MIT,157038,Provider-neutral building blocks for reliable AI agents
+2026-10-23T14:13:23Z,loadferry,0.1.0,,MIT,7068,Minimal job runner: pulls a work script to a scratch directory and supervises it in a subprocess.
+2026-10-23T14:16:05Z,smsd-cuda,8.0.2,Syed Asad Rahman <asad.rahman@bioinceptionlabs.com>,Apache-2.0,142846,NVIDIA CUDA fingerprint and similarity-bound screening for SMSD Pro
+2026-10-23T14:17:38Z,hardcharger-pdf-loader,0.1.0,GizmoData <support@gizmodata.com>,Apache-2.0,210614,Load PDF files (bytes + extracted page text + metadata) into a Hardcharger server over Warp SQL / ADBC.
+2026-10-23T14:18:24Z,pybff,0.0.1,Baptiste FARAUD <baptiste.faraud@gmail.com>,AGPL-3.0-only,2533,Placeholder - pyBFF is currently distributed via GitLab.
+2026-10-23T14:18:34Z,reedworker,0.1.0,,MIT,7232,"Job-board worker: retrieves a script by URL, writes the call arguments to a manifest and executes it."
