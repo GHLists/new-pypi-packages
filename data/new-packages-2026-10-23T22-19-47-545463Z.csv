@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T21:18:55Z,tangra-dataforge,0.1.0a1,Irena Popova,MIT,27559,"Python toolkit for data collection, cleaning, analysis, and investigative journalism."
+2026-10-23T21:20:11Z,pybiglasso,0.1.0,Mike Macpherson <mmacpherson@users.noreply.github.com>,GPL-3.0-or-later,777712,Unofficial Python port of R's biglasso: lasso and elastic-net paths for larger-than-memory data.
+2026-10-23T21:20:15Z,yardstick-predict,0.4.0,yusufcemaydin,Apache-2.0,925666,"Forecast how long a coding-agent task will take and what it will cost, before it runs."
+2026-10-23T21:20:42Z,qff-hackathon-uet,1.0.0,Noor Ul Ain,,4928,Grader for Qiskit Fall Fest 2026
+2026-10-23T21:21:08Z,agent-framework-botsrated,0.1.0,,MIT,19072,BotsRated pre-payment check for Microsoft Agent Framework: function middleware that checks an x402 payTo with the free BotsRated preflight before a payment tool runs.
+2026-10-23T21:29:25Z,neorepl,0.1.0,,,14351,A small toolkit for building custom Python shells
+2026-10-23T21:29:30Z,idc-wrapper,0.2.0,Micaël Lanoix,MIT,40607,"IDC — Effondrement Décisionnel Irréversible : ressource finie, journal append-only, règle d'arrêt pour agents LLM."
+2026-10-23T21:30:21Z,nidl-client,0.1.0,,MIT OR Apache-2.0,52040,"Drive a running nidl core from a Python program, over its local socket or its remote port."
+2026-10-23T21:30:23Z,ingot-grpcio,0.9.0,Aliaksandr Karotki,Apache-2.0,17648,"Integration of grpcio, the gRPC library of Google, into Ingots."
+2026-10-23T21:34:13Z,wtforms-htmx,0.1.0,Éloi Rivard,BSD-3-Clause,60116,"Interactive WTForms forms declared in Python and powered by htmx, with no JavaScript to write."
+2026-10-23T21:36:58Z,yamcps-docs,0.1.0,,MIT,31148,Local document retrieval connector for yamcps
+2026-10-23T21:38:46Z,ts-prac,0.1.0,,,37747,Three exam-friendly time-series practical workflows with ARIMA forecasting
+2026-10-23T21:39:47Z,mailroom-core,0.1.0,,GPL-3.0-or-later,78199,"Mailroom's mail layer: accounts, sealed secrets, IMAP/SMTP, the send gate, rendering, audit"
+2026-10-23T21:40:28Z,numnumdock,1.0.0,Your Name <your@email.com>,,15015,The LLM-aware secure deployment engine. Secure by default AI.
+2026-10-23T21:42:47Z,bgbcalc,0.1.0,RiskDataScience GmbH,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",3248292,Native calculations for German Civil Code rules (BGB-Rechenregeln)
+2026-10-23T21:44:05Z,bivia,0.0.0,,,2323,A8 Bivia. (Name reservation placeholder.)
+2026-10-23T21:52:30Z,adafruit-circuitpython-maptiles,1.0.0,Adafruit Industries <circuitpython@adafruit.com>,MIT,54046,Download and display map tiles from XYZ tile servers such as Open Street Maps. Tiles are cached on SD card.
+2026-10-23T21:53:56Z,ingot-pymongo,0.10.0,Aliaksandr Karotki,Apache-2.0,18091,"Integration of PyMongo, the official driver of MongoDB, into Ingots."
+2026-10-23T21:54:39Z,kubex-k8s-1-38,0.1.0a1,Codemageddon <dev@codemageddon.me>,MIT License,1036137,Pydantic v2 Kubernetes 1.38 resource models for Kubex
+2026-10-23T21:55:21Z,nb-touch,0.1.0,Oceane Patiny,MIT,91771,Hardware-agnostic processing and calibration of taxel array touch sensors.
+2026-10-23T21:58:58Z,bn-shortener,0.1.0,BroadNet Technologies LLC <support@broadnet.me>,MIT,90995,"Official Python client for the BN Shortener API (b1.lc): links, QR codes, bio pages, analytics, webhooks, OAuth"
+2026-10-23T22:01:52Z,mathcraft-window-tools,0.1.0,,,66033,Math helpers and an experimental Windows terminal with input interception and cursor overlays
+2026-10-23T22:02:38Z,wtforms-htmx-components,0.1.0,Éloi Rivard,BSD-3-Clause,22531,Ready-made interactive WTForms fields built on wtforms-htmx.
+2026-10-23T22:03:02Z,flask-wtforms-htmx,0.1.0,Éloi Rivard,BSD-3-Clause,10800,A drop-in FlaskForm that brings wtforms-htmx to Flask-WTF.
+2026-10-23T22:03:06Z,inklight,0.1.0,Mahmoud AboEl-Wfa,Apache-2.0,285689,"Inklight — a local-first, OCR-powered document agent. See documents. Understand meaning. Take action."
+2026-10-23T22:03:37Z,mathcraft1,0.1.0,,,65893,Math helpers and an experimental Windows terminal with input interception and cursor overlays
+2026-10-23T22:08:03Z,correlation-network,1.0.0,Andrea Cadeddu <cadeddu7@gmail.com>,MIT,70061,"Build and analyze association networks from pandas DataFrames: correlations, Cramer's V, mutual information and PhiK, with centrality analysis and visualization"
+2026-10-23T22:08:03Z,kocer,0.1.0,Choi Kwan-u,MIT,23466,한국어 STT를 공정하게 채점하는 CER/WER — 띄어쓰기·숫자·문장부호 차이를 오류로 세지 않음
+2026-10-23T22:09:04Z,beeai-acgs,0.1.0,Martin Lyu,Apache-2.0,56483,"ACGS rule-based tool-call governance for BeeAI Framework agents, via run middleware"
+2026-10-23T22:09:05Z,ag2-acgs,0.1.0,Martin Lyu,Apache-2.0,53585,"ACGS rule-based tool-call governance for AG2 agents, via tool middleware and human approval"
+2026-10-23T22:09:13Z,agno-acgs,0.1.0,Martin Lyu,Apache-2.0,54763,"ACGS rule-based tool-call governance for Agno agents and teams, via tool hooks"
+2026-10-23T22:10:51Z,toolward,0.1.1,Daniel Betiu,MIT,191999,"An MCP server of community-operations tools, a local-model tool-calling agent (Ollama), and a code-graded eval suite for tool use"
+2026-10-23T22:13:37Z,hapax-tui,0.1.1,,MIT,269502,Validate Squarp Hapax instrument definitions
+2026-10-23T22:13:58Z,atsys,0.2.0,,Apache-2.0,2037376,Durable coding-task supervision with Codex integration and a local web dashboard
+2026-10-23T22:17:16Z,eudoxys,0.0.1,David P. Chassin <dchassin@eudoxys.com>,,19586,Eudoxys Package Manager
+2026-10-23T22:18:21Z,aws-durable-execution-conformance-tests-otel,0.2.0,AWS durable-execution-dev <durable-execution-dev@amazon.com>,Apache-2.0,163081,OpenTelemetry integration suite for AWS Durable Execution conformance tests
