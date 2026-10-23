@@ -8,37 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 05:21 UTC
+## Latest list — 2026-10-23 06:18 UTC
 
-New packages created between 2026-10-23 04:21 UTC and 2026-10-23 05:21 UTC.
+New packages created between 2026-10-23 05:21 UTC and 2026-10-23 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-23T05-21-33-677396Z.csv)
+[Full CSV](data/new-packages-2026-10-23T06-18-37-784879Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-23 04:26:20 | [agentinputlab](https://pypi.org/project/agentinputlab/) | 0.1.0a1 | Chuang Zhao, Xiaomeng Li | 3.6 MB | Auditable, intent-aware input intervention for LLM agents |
-| 2026-10-23 04:26:32 | [predicateneuron](https://pypi.org/project/predicateneuron/) | 0.1.1 |  | 29.3 kB | Differentiable predicate neuron (intersection / union / symmetric difference) a… |
-| 2026-10-23 04:28:36 | [originet](https://pypi.org/project/originet/) | 1.0.0 | Esteban Carisimo | 6.9 MB | Fast IP-to-ASN lookups (longest-prefix match) on CAIDA's RouteViews prefix-to-A… |
-| 2026-10-23 04:34:08 | [assess-diff](https://pypi.org/project/assess-diff/) | 0.1.0 | JoshKarpel | 117.3 kB | Review an agent's working-tree diff in the terminal, and hand the review back a… |
-| 2026-10-23 04:34:51 | [tool-result-context-binding-verdict](https://pypi.org/project/tool-result-context-binding-verdict/) | 1.0.0 | TextForAgents LLC | 10.2 kB | Verifier SDK for tool-result context-binding verdicts: seal a tool result with… |
-| 2026-10-23 04:35:33 | [aiaa-eda-team1](https://pypi.org/project/aiaa-eda-team1/) | 0.1.0 |  | 28.2 kB | AI Academy Asia, team 1: Монголын хүн амын шилжилт хөдөлгөөний EDA хийх туслах… |
-| 2026-10-23 04:40:53 | [chargestat](https://pypi.org/project/chargestat/) | 0.1.1 | TJDCS <tucker@tjdcs.dev> | 31.0 kB | Mac power adapter, charge rate, and time-to-full/empty in the terminal |
-| 2026-10-23 04:43:23 | [vertesia-client](https://pypi.org/project/vertesia-client/) | 1.6.0.dev2026102212… | Vertesia <contact@vertesia.co… | 3.3 MB | Python client for the Vertesia API |
-| 2026-10-23 04:44:46 | [apiroute](https://pypi.org/project/apiroute/) | 1.0.0 | Doug Youch <dougyouch@gmail.c… | 137.8 kB | Build API clients declaratively: one @route per endpoint, safe defaults, httpx… |
-| 2026-10-23 04:49:36 | [quantpicker](https://pypi.org/project/quantpicker/) | 0.1.0 | Ali Ashter | 18.3 MB | Measures which GGUF quant of a model to run on your GPU: real speed and quality… |
-| 2026-10-23 04:50:39 | [guideloom](https://pypi.org/project/guideloom/) | 1.0.0 | Guide Labs | 175.4 kB | Distributed high-performance dataset storage and a resumable dataloader |
-| 2026-10-23 04:50:42 | [agent-framework-acgs](https://pypi.org/project/agent-framework-acgs/) | 0.1.0 | Martin Lyu | 57.8 kB | ACGS rule-based tool-call governance for Microsoft Agent Framework function too… |
-| 2026-10-23 04:53:26 | [meld-cli](https://pypi.org/project/meld-cli/) | 0.65.1 | PulseEngine | 12.5 MB | Static WebAssembly component fusion (the `meld` command-line tool) |
-| 2026-10-23 05:00:17 | [vimgarden](https://pypi.org/project/vimgarden/) | 0.3.0 | shwouble <shwoublee@proton.me> | 82.1 kB | Terminal-based Zen Bonsai simulation game with Vim-like controls |
-| 2026-10-23 05:00:50 | [ninjaeval](https://pypi.org/project/ninjaeval/) | 0.1.0 |  | 15.0 kB | Show NinjaEval what happens inside your AI bot: tool calls and LLM calls, recor… |
-| 2026-10-23 05:02:26 | [nephilex](https://pypi.org/project/nephilex/) | 0.10.0 | Haseeb Farooq <haseebfarooq35… | 1.1 MB | An open-source AI Security Engineer: maps your application, finds vulnerabiliti… |
-| 2026-10-23 05:05:22 | [pswitch](https://pypi.org/project/pswitch/) | 0.1.5 | Walter LIU | 43.6 kB | 一个本地端口，多个上游代理，随时切换 |
-| 2026-10-23 05:05:57 | [napa-vision](https://pypi.org/project/napa-vision/) | 0.4.0 | Zachary Wilson | 7.9 MB | Napa: a fast, dependency-free tag36h11 AprilTag detector with optional pose pro… |
-| 2026-10-23 05:10:44 | [starsim-data](https://pypi.org/project/starsim-data/) | 2.0.0 | Cliff Kerr, Romesh Abeysuriya… | 4.7 MB | Demographic data and contact matrices for disease modeling with Starsim |
-| 2026-10-23 05:12:57 | [signin-window](https://pypi.org/project/signin-window/) | 0.1.2 | benjamin-di | 119.5 kB | Let a person sign in to a website themselves, from their own browser, in a remo… |
-| 2026-10-23 05:13:18 | [gettext-translator-service](https://pypi.org/project/gettext-translator-service/) | 0.1.0 | Rodolfo González González <co… | 13.4 kB | Core library with plugin interface for the translation services for gettext-tra… |
-| 2026-10-23 05:13:27 | [gettext-translator-marianmt](https://pypi.org/project/gettext-translator-marianmt/) | 0.1.0 | Rodolfo González González <co… | 7.5 kB | MarianMT (Helsinki-NLP) local backend for gettext-translator |
-| 2026-10-23 05:13:29 | [gettext-translator-nllb](https://pypi.org/project/gettext-translator-nllb/) | 0.1.0 | Rodolfo González González <co… | 8.8 kB | NLLB (Meta) local backend for gettext-translator |
-| 2026-10-23 05:13:30 | [gettext-translator-ollama](https://pypi.org/project/gettext-translator-ollama/) | 0.1.0 | Rodolfo González González <co… | 8.4 kB | Ollama backend for gettext-translator |
-| 2026-10-23 05:14:34 | [Quantar](https://pypi.org/project/Quantar/) | 0.1.0 |  | 232.1 kB | A Python superset for easy quantum computing, operator creation and physics sim… |
-| 2026-10-23 05:20:31 | [gres](https://pypi.org/project/gres/) | 0.0.0 |  | 862 B | Reserved. |
+| 2026-10-23 05:18:43 | [orchestral-client](https://pypi.org/project/orchestral-client/) | 0.1.2 |  | 128.5 MB | Orchestral Labs — Real-time robotics & VLA model platform |
+| 2026-10-23 05:23:37 | [flexivpdk](https://pypi.org/project/flexivpdk/) | 1.0.0 | Flexiv Robotics <use-github-i… | 173.0 kB | Python SDK for Flexiv Nebula scene, surface finish and manipulation services |
+| 2026-10-23 05:28:44 | [agentlensx](https://pypi.org/project/agentlensx/) | 0.1.0 | AgentLens Team | 24.4 kB | AI-powered observability SDK for AI agents |
+| 2026-10-23 05:33:48 | [eltoque-python](https://pypi.org/project/eltoque-python/) | 0.1.0 | eltoque-python contributors | 53.8 kB | Unofficial, typed Python client for the official elTOQUE exchange-rate API. |
+| 2026-10-23 05:34:01 | [fala](https://pypi.org/project/fala/) | 0.1.1 | Lucas Campestrini <lucas.camp… | 45.2 kB | Say what you want in plain language; fa puts the shell command on your prompt t… |
+| 2026-10-23 05:35:29 | [dexpp](https://pypi.org/project/dexpp/) | 0.2.0 | Mohamed Nasser | 3.3 MB | Fast static analysis of Android APK / DEX files (C++ core with Python bindings) |
+| 2026-10-23 05:38:52 | [tididi-cnf](https://pypi.org/project/tididi-cnf/) | 0.1.1 |  | 5.5 MB | Python bindings for tididi-cnf, a knowledge compiler and model counter for CNF:… |
+| 2026-10-23 05:39:59 | [py-mspack-decoder](https://pypi.org/project/py-mspack-decoder/) | 0.1.3 | Simon Fonteneau | 39.3 kB | Pure-Python Microsoft Kerberos PAC decoder |
+| 2026-10-23 05:40:40 | [split-dex](https://pypi.org/project/split-dex/) | 0.1.0 | Mohamed Nasser | 152.0 kB | Split the classes of an Android APK into grouped DEX files |
+| 2026-10-23 05:41:55 | [solvano](https://pypi.org/project/solvano/) | 0.0.1 |  | 1.7 kB | Reserved for the Solvano SDK — https://solvano.ai |
+| 2026-10-23 05:44:33 | [langchain-deepagents-tensorlake](https://pypi.org/project/langchain-deepagents-tensorlake/) | 0.1.1 |  | 180.0 kB | Tensorlake sandbox and Cloud Volume filesystem backends for Deep Agents |
+| 2026-10-23 05:47:29 | [imprenta](https://pypi.org/project/imprenta/) | 0.1.0 | John McMeen <johnmcmeen@gmail… | 137.0 kB | A content arranger and styler: markdown in, products (PDF, EPUB) out, arranged… |
+| 2026-10-23 06:01:03 | [foodcalorie-mcp](https://pypi.org/project/foodcalorie-mcp/) | 0.1.0 | Jihaochang <358550956@qq.com> | 18.5 kB | MCP Server for Chinese food calorie and nutrition data - 中国食品营养数据MCP服务器 |
+| 2026-10-23 06:01:52 | [pytrends-next](https://pypi.org/project/pytrends-next/) | 0.1.0 | Ctrio Lab <myhouse9600@gmail.… | 34.1 kB | Maintained drop-in replacement for pytrends (archived): Google Trends with the… |
+| 2026-10-23 06:06:24 | [power-ssh](https://pypi.org/project/power-ssh/) | 1.0.0 | Wilgat Wong <wilgat.wong@gmai… | 151.9 kB | PowerSsh runs OpenSSH sshd and this login's SSH client from a text menu. |
+| 2026-10-23 06:11:17 | [wattsonic-modbus-docs](https://pypi.org/project/wattsonic-modbus-docs/) | 0.1.1 | Wattsonic GmbH | 257.0 kB | Read-only MCP server with the Modbus documentation of Wattsonic MATIC hybrid in… |

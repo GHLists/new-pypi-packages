@@ -1,0 +1,17 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T05:18:43Z,orchestral-client,0.1.2,,,128510917,Orchestral Labs — Real-time robotics & VLA model platform
+2026-10-23T05:23:37Z,flexivpdk,1.0.0,Flexiv Robotics <use-github-issues-instead-of-email@flexiv.com>,Apache-2.0,172976,"Python SDK for Flexiv Nebula scene, surface finish and manipulation services"
+2026-10-23T05:28:44Z,agentlensx,0.1.0,AgentLens Team,MIT,24435,AI-powered observability SDK for AI agents
+2026-10-23T05:33:48Z,eltoque-python,0.1.0,eltoque-python contributors,MIT,53772,"Unofficial, typed Python client for the official elTOQUE exchange-rate API."
+2026-10-23T05:34:01Z,fala,0.1.1,Lucas Campestrini <lucas.campestrini@gmail.com>,MIT,45175,Say what you want in plain language; fa puts the shell command on your prompt to check and run.
+2026-10-23T05:35:29Z,dexpp,0.2.0,Mohamed Nasser,Apache-2.0,3315490,Fast static analysis of Android APK / DEX files (C++ core with Python bindings)
+2026-10-23T05:38:52Z,tididi-cnf,0.1.1,,Apache-2.0,5454186,"Python bindings for tididi-cnf, a knowledge compiler and model counter for CNF: the model count, the weighted count and their projections of a DIMACS formula, computed by compiling it into a Tree Dec…"
+2026-10-23T05:39:59Z,py-mspack-decoder,0.1.3,Simon Fonteneau,MIT,39335,Pure-Python Microsoft Kerberos PAC decoder
+2026-10-23T05:40:40Z,split-dex,0.1.0,Mohamed Nasser,Apache-2.0,151989,Split the classes of an Android APK into grouped DEX files
+2026-10-23T05:41:55Z,solvano,0.0.1,,,1704,Reserved for the Solvano SDK — https://solvano.ai
+2026-10-23T05:44:33Z,langchain-deepagents-tensorlake,0.1.1,,Apache-2.0,180018,Tensorlake sandbox and Cloud Volume filesystem backends for Deep Agents
+2026-10-23T05:47:29Z,imprenta,0.1.0,John McMeen <johnmcmeen@gmail.com>,MIT,136974,"A content arranger and styler: markdown in, products (PDF, EPUB) out, arranged by a catalog"
+2026-10-23T06:01:03Z,foodcalorie-mcp,0.1.0,Jihaochang <358550956@qq.com>,Apache-2.0,18492,MCP Server for Chinese food calorie and nutrition data - 中国食品营养数据MCP服务器
+2026-10-23T06:01:52Z,pytrends-next,0.1.0,Ctrio Lab <myhouse9600@gmail.com>,MIT,34102,"Maintained drop-in replacement for pytrends (archived): Google Trends with the TrendReq API, standard library only, optional hosted fallback on HTTP 429."
+2026-10-23T06:06:24Z,power-ssh,1.0.0,Wilgat Wong <wilgat.wong@gmail.com>,MIT,151875,PowerSsh runs OpenSSH sshd and this login's SSH client from a text menu.
+2026-10-23T06:11:17Z,wattsonic-modbus-docs,0.1.1,Wattsonic GmbH,Apache-2.0,257027,"Read-only MCP server with the Modbus documentation of Wattsonic MATIC hybrid inverters (native EMS registers, SunSpec models, closed-loop control recipes). Never connects to a device."
