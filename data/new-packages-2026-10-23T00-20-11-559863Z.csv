@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-22T23:21:12Z,sealpost-sdk,0.0.1,DigiMar <sealpost@digimar.com>,MIT,4463,Sealpost: API-first e-signature service by DigiMar. Name reserved; the Python SDK ships here. https://sealpost.app
+2026-10-22T23:26:44Z,sqp-craft,0.17.0,,MIT,2708146,SQP solver in Rust (dense-BFGS pilot with Clarabel QPs) with Python bindings
+2026-10-22T23:28:39Z,virtual-key-mapper,0.1.0,cbs Corporate Business Solutions Unternehmensberatung GmbH,Apache-2.0,255347,"Short-lived keys from your company gateway, labelled with the repository you work in, for every tool you use."
+2026-10-22T23:29:33Z,qtpy-mcp,0.1.0,qtpy-mcp contributors,MIT OR Apache-2.0,149838,"MCP server to inspect, screenshot, GIF-record and drive Qt apps and DCCs (Houdini, Blender, ...) through Qt.py."
+2026-10-22T23:30:21Z,pylignum,0.2.0,Kacper Piotrowski,"Copyright (c) 2026 Kacper Piotrowski Permission is hereby granted, free of charge, to any person ob…",11238457,"Bit-exact, fast inference for LightGBM and XGBoost models: interpreter, compiled trees, Arrow input"
+2026-10-22T23:30:52Z,riskdebt,0.1.1,Orieb Alzyuot,MIT,17039,"Find the security debt hiding in your project: unpinned deps, leaked secrets, EOL runtimes, risky AI-agent configs, and Angular/React/.NET/PHP code smells - each with a fix."
+2026-10-22T23:33:21Z,osic-mcp,0.7.0,,GPL-3.0-or-later,4092,"Alias for ltspice-mcp: an MCP server and Python library for open-source IC design work (SPICE simulation with ngspice and LTspice, schematic editing). Installs and runs ltspice-mcp."
+2026-10-22T23:37:50Z,apriori-ico,0.1.0,Sergei Shumilin <shumilinss@gmail.com>,Apache 2.0,543001,"Computation flows from typed operators: described before they run, run in worker processes or on a cloud GPU, profiled and watched live."
+2026-10-22T23:37:52Z,nohalt,0.1.0,Jeriel Francis trading as Seityl,MIT,218229,Autonomous coding agents that keep going until the forge says done.
+2026-10-22T23:41:07Z,ChatBug,0.0.2,ChatArch <rex@chatarch.org>,MIT,9073,ChatArch reserved Python package for future bug investigation tools
+2026-10-22T23:42:33Z,convergent-cli,0.1.0,,Apache-2.0,575890,Convergent command-line interface
+2026-10-22T23:44:48Z,agent-overwrite-grader,0.1.0,memento,MIT,12850,Which files did two of your coding agents write within the same hour? Read from your local git log.
+2026-10-22T23:52:09Z,ico-mcp,0.1.0,Sergei Shumilin <shumilinss@gmail.com>,Apache 2.0,188545,"An MCP server on top of ICO: an agent writes typed operators, composes them into pipelines, runs and profiles them, and turns what works into reviewed code."
+2026-10-22T23:52:53Z,lfg-alarm,0.1.0,LFG Alarm <support@lfg.gm>,MIT,12402,"Ring a real alarm on a phone from code, and set alarms with LFG Alarm's tools."
+2026-10-22T23:54:11Z,biocommons.python_package,0.0.8,biocommons contributors <biocommons-dev@googlegroups.com>,Apache-2.0,205808,biocommons.python_package package (namespaced)
+2026-10-22T23:54:42Z,mitsu,1.4.21,ARCANGEL0,MIT,50079677,A chibi red-team framework client for guided and autonomous pentesting
+2026-10-22T23:59:14Z,rational,0.1.0a1,Iago Riveiro Santos Dutra,Unlicense,276879,"A Python-first, object-oriented web framework: server-rendered components, typed styles, explicit remote calls."
+2026-10-23T00:00:08Z,flashcodec-kv,1.0.0,feifei <aifeifei798@gmail.com>,MIT,82571,Compress Transformer time-series KV cache tensors as high-dimensional multimedia image signals: JPEG-style lossy frequency domain (DCT) plus PNG-style lossless time-domain deltas
+2026-10-23T00:01:24Z,benchmesh,0.1.0,BenchMesh Team <support@benchmesh.online>,MIT,68369,"Python client for BenchMesh: control and record lab instruments (power supplies, meters, loads, generators, scopes) from scripts and notebooks"
+2026-10-23T00:07:14Z,jupyter-storage-explorer-databricks-support,0.18.0,Tsuyoshi SUGIBUCHI,MIT,13599,Databricks support for Storage Explorer
+2026-10-23T00:08:49Z,wimcast,0.1.0,6admin.io,MIT,119111,Linux-native Windows image builder for Foreman. Drop-in replacement for WIMan/GenerateWIM.ps1.
+2026-10-23T00:09:44Z,sneppx-alg,1.5.1,"""Ammar [SNEPPX]"" <algoSNEPPX@gmail.com>",MIT,893306,Next-generation AI architecture with security built into the foundation
+2026-10-23T00:18:20Z,ifdd-ts-core,26.10.2,,BSD-3-Clause,1666263,Shared runtime of the IFDD time series API (ifdd-ts-api)
+2026-10-23T00:19:39Z,hcs-format,0.3.0,,MIT,53292,"Holographic Context Standard: parse, verify, seal and render .hcs context files (no dependencies)."
