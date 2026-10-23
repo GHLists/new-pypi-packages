@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T10:19:32Z,odoo-addon-base-external-system-http,16.0.1.1.0,"Therp BV, Odoo Community Association (OCA)",AGPL-3,22768,HTTP Connector for External Systems
+2026-10-23T10:22:53Z,javac-helper,1.1.5,kya dekh rha hai luvday,MIT,22805,Teri Maa ne bhoot ke sath suhagrat rachai thi woh bhoot huh mein
+2026-10-23T10:23:29Z,django-mvp-payments,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,95995,"Payment and subscription UI as Cotton components for django-mvp projects, one namespace per payment backend"
+2026-10-23T10:28:22Z,plagx-preflight,0.1.2,Plagiarism Checker X,MIT,59790,"Free draft checker for essays and papers: word count, citation and reference list checks, punctuation and basic grammar suggestions, readability stats. Runs offline. By Plagiarism Checker X."
+2026-10-23T10:28:42Z,unifold,0.1.0,,MIT OR Apache-2.0,168866,"Check, draw and query the unifold architecture map of a repository"
+2026-10-23T10:32:49Z,playtest-py,0.0.0,Archont561,MIT OR Apache-2.0,2999,Reserved package name on PyPI for playtest-py
+2026-10-23T10:33:35Z,applywise,0.1.0,,MIT,1164643,"Modular, parallel, token-frugal MCP server for discovering and applying to jobs, with local-first LLM routing."
+2026-10-23T10:33:36Z,opcloud,0.1.1,opcloud,MIT,61100,"opcloud package - BDA artifacts and datasets (datavisualization, spark, hbase, hdfs, hue, mongodb, pig, sqoop, jira exploration)."
+2026-10-23T10:35:26Z,tribulnation-grvt,0.1.0,,MIT,49071,Tribulnation SDK implementation for GRVT perpetual markets.
+2026-10-23T10:36:26Z,tiffany-hook-runtime,0.1.0,,MIT,400952,"A raw-first, synchronous-lazy hook runtime"
+2026-10-23T10:38:33Z,indexicon,1.1.0,,MIT,4871970,Python bindings for Indexicon spatial indexes
+2026-10-23T10:42:00Z,whoisport,0.5.3,Kaitlyn Bassford,MIT,1915916,"Show what is listening on a TCP or UDP port, and optionally kill it"
+2026-10-23T10:43:05Z,larksync,0.1.0,libcyz <2840424020@qq.com>,MIT,45717,飞书电子表格 / 多维表格的拉取与按主键更新（Feishu / Lark sheets & bitable sync）
+2026-10-23T10:44:39Z,metricraft,0.3.0rc1,NagareWorks,Apache-2.0,3736261,Immutable PromQL/MetricsQL builder and Prometheus/VictoriaMetrics HTTP client
+2026-10-23T10:45:53Z,tribulnation-extended,0.1.0,,MIT,52034,Tribulnation SDK implementation for Extended perpetuals.
+2026-10-23T10:46:15Z,anime-recommender-system,0.1.0,Roshan <your-email@example.com>,MIT,10139,A custom collaborative and content-based filtering recommendation engine built from scratch using NumPy and Pandas.
+2026-10-23T10:46:39Z,riskcalc,0.1.0,,Apache-2.0,49828,Evaluate vulnerability risk from vulnerability data plus environmental/business context.
+2026-10-23T10:47:21Z,pytest-blast-radius,0.1.0,Tom Carrick <tom@carrick.eu>,MIT,181287,Run only the tests affected by your changes
+2026-10-23T10:51:22Z,pretix-attendance-certificate-neo,1.0.0,Python Italia,MIT,145313,Create attendance certificates for your attendees (fork of pythonitalia/pretix-plugin-attendance-certificate)
+2026-10-23T10:51:52Z,ghostwire-cli,0.2.0,Himanshu Sharma,MIT,112294,"Turn browser traffic (HAR) into OpenAPI specs, typed Python & TypeScript SDKs, mock servers and Postman collections"
+2026-10-23T10:52:10Z,breakwise,0.1.0,,Apache-2.0 AND CC-BY-4.0,20906,"Tested notices of breaking changes in Python libraries, and the tools that apply them."
+2026-10-23T10:53:53Z,pollen-skills,0.6.0,GroupBees <contact@groupbees.fr>,Apache-2.0,17495151,"Deploy Agent Skills from git repositories and local directories, declaratively"
+2026-10-23T10:54:10Z,quantum-espresso-parser-midb,0.1.0,James Almeida,GPL-3.0-or-later,348439,"Quantum ESPRESSO outputs (pw.x, dos.x, projwfc.x, ph.x, matdyn.x, dynmat.x) to the normalized document of the MIDb Quantum ESPRESSO entry type"
+2026-10-23T10:55:58Z,liquidcomp,0.0.1,Evgeniy Blinov <zheni-b@yandex.ru>,,57284,Run throng commands on Liquid Compute
+2026-10-23T10:56:24Z,htpd-reader,0.1.2.post1,Narendra Champaneri,Apache-2.0,122950,"The HTPD reader: read HTPD files and find the exact text, with pages, that answers a question."
+2026-10-23T10:57:02Z,aselite,0.1.0,owenxyzhang-seseTJ,MIT,51503,轻量原子模拟环境库：容错 CIF 解析、向量化几何计算，仅依赖 NumPy
+2026-10-23T10:57:21Z,pyrefly-warp-stubs,0.1.0,,Apache-2.0,428143,NVIDIA Warp type stubs with array and tile shape tracking for Pyrefly
+2026-10-23T11:01:44Z,wire-rpc,0.2.0,Abdalla Kayyani,MIT,348682,"Typed asyncio JSON-RPC 2.0 with pluggable transports, codecs and authentication"
+2026-10-23T11:04:39Z,cosmit,0.1.0,Prajwel Joseph <prajwel.pj@gmail.com>,Apache-2.0,26912,Cosmic-ray tools for AstroSat/UVIT
+2026-10-23T11:05:13Z,auditstat,0.1.9,Crist-Jan Doedens <auditstratified_python@chance-matters.nl>,EUPL-1.2,123386,Statistische auditmethoden voor de Rijksoverheid (HARo-compatibel)
+2026-10-23T11:07:15Z,es-policy-grpc,0.1.0,Prima Assicurazioni,,1778,es-policy-grpc package
+2026-10-23T11:07:32Z,flashdata-cli,1.1.0,FlashData <support@flashdata.dev>,MIT,17638291,"Official FlashData CLI for search, YouTube data, bulk downloads and run recovery"
+2026-10-23T11:07:56Z,aurastream-mcp,0.1.0,Unbiased Alpha,MIT,44449,"MCP server for AuraStream: historical market data for Claude, ChatGPT and other MCP clients."
+2026-10-23T11:08:34Z,poi-lumi,0.1.0,Prima Assicurazioni,,1702,poi-lumi package
+2026-10-23T11:08:47Z,spearhead-sep-pact,1.0.0,"George Vasalos, Jan Gieseler, Athanasios Papaioannou",BSD-3-Clause,175504,"Onset time, peak flux and fluence of Solar Energetic Particle events with Solar Orbiter EPD/HET data"
+2026-10-23T11:09:20Z,bglaunch,0.1.0,Sawan Singh Mahara,MIT,19654,"Launch Python training jobs in the background on one machine, with a core budget"
+2026-10-23T11:11:36Z,primapy-zendesk-api,0.1.0,Prima Assicurazioni,,1825,primapy-zendesk-api package
+2026-10-23T11:12:05Z,pulumi_wiz_v2,0.1.0,Prima Assicurazioni,,1761,pulumi_wiz_v2 package
+2026-10-23T11:15:47Z,fusedwasi,0.0.0,o-murphy,,6435,"Header-only C host for the WASI Component Model, for core modules fused from components (wasm2c and other C hosts)"
+2026-10-23T11:16:18Z,aadc-mcp,0.1.0,,Proprietary,95838,"Local MCP server for AADC and the AADC Tracer: check the environment, trace a QuantLib or Python script, question the record"
+2026-10-23T11:17:22Z,orderstream-ci-flake-quarantine,1.0.0,OrderStream <hashdecode77@gmail.com>,,18474,"Automated test-runner wrapper and GitHub Action that intercepts flaky test failures in CI, isolates them with deterministic clock sandboxing, and prevents costly matrix rebuilds."
