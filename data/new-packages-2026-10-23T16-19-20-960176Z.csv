@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T15:19:43Z,sinsim,0.5.0,,MIT,3793915,"Flujo de potencia del SIN colombiano con pandapower, PARATEC y archivos públicos de XM"
+2026-10-23T15:19:48Z,surendra-tools,0.1.0,Surendra Yadav,,2422,Surendra Yadav's personal biodata Python package
+2026-10-23T15:23:28Z,aio2024-haitrieu,0.1.0,HaiTrieu,,2912,
+2026-10-23T15:27:44Z,led-ticker-hockey,0.1.0,James Awesome <james@morelli.nyc>,MIT,111915,"Live NHL hockey scores widget for led-ticker, fed by the NHL public web API (no key)."
+2026-10-23T15:28:35Z,wiltech-labs-holidays,1.0.0,Wiliam Ferraciolli,Apache-2.0,19281,"Public holidays for Wiltech apps: a locale in (el-CY, en-GB), holidays out in the shape @wiltech-labs/ngx-calendar shows, on the holidays package's calendars."
+2026-10-23T15:33:33Z,aidministratie,0.1.0,Bram Vanzieleghem <bram@aidministratie.be>,MIT,4432,aidministratie.be // Digitale collega's en AI voor kmo's
+2026-10-23T15:33:34Z,aidministratie-be,0.1.0,Bram Vanzieleghem <bram@aidministratie.be>,MIT,4468,aidministratie.be // Digitale collega's en AI voor kmo's
+2026-10-23T15:33:35Z,aidministratie-mcp,1.0.1,Bram Vanzieleghem <bram@aidministratie.be>,MIT,10950,aidministratie.be // Digitale collega's en AI voor kmo's - MCP Gateway & Bridge
+2026-10-23T15:34:00Z,caustix,1.0.0,Aldair Nava,MIT,52650,"Física en Python: cinemática y trayectorias (MRU, MRUA, tiro parabólico con y sin arrastre)."
+2026-10-23T15:36:43Z,memtru,0.1.1,Memtru <contact@memtru.com>,Memtru CLI License Copyright (c) 2026 the Memtru copyright holder. All rights reserved. The Memtru…,150189,Reproducible reliability and isolation tests for AI agent memory systems.
+2026-10-23T15:37:30Z,cimprofiles,0.1.0a2,"""A. Anderson"" <19935503+AAndersn@users.noreply.github.com>, ""C. Allwardt"" <3979063+craig8@users.nor…",BSD-3-Clause,4170995,CIM data profiles (Python dataclasses) and the Identity/units object model used by CIMantic Graphs
+2026-10-23T15:38:53Z,uel-gopro,0.1.0,StrangeSid,GPL-3.0-or-later,90980,Unofficial Extended Life GoPro CLI toolchain
+2026-10-23T15:39:37Z,guardrail-kit,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",57494,Framework-independent guardrails for AI applications
+2026-10-23T15:44:55Z,k9o,1.0.0,Kilimanjaro <engineering@kilimanjaro.dev>,Apache-2.0,123089,Kilimanjaro platform SDK — createClient + data DSL + projects + gate + migrations + functions + policies + audit + orgs + me + org + studio (workflows/dashboards) + compute.llms + realtime subscripti…
+2026-10-23T15:45:34Z,ldap3-ad-auth,0.1.1,,MIT,22798,Protected AD LDAP authentication for ldap3
+2026-10-23T15:48:50Z,pragmatic-audit,0.1.0,Himanshu Sharma,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",530205,"Audit a repository against The Pragmatic Programmer, and give agents a practical standard to code by."
+2026-10-23T15:49:10Z,unbill,0.0.8,,MIT OR Apache-2.0,32860694,Python bindings for the Unbill console
+2026-10-23T15:50:27Z,untaped-lint,11.1.0,Alexis Beaulieu,MIT,117827,"Lint plugin for untaped: rules over records, from any plugin or repository."
+2026-10-23T15:50:47Z,who-am-ai,1.0.0,Edu Caribé,MIT,75849,"Learns how its owner wants AI assistants to work, from the owner's own messages, and keeps a short profile that the assistant loads in every conversation."
+2026-10-23T15:51:14Z,wagtail-flexible-streamfield,0.1.0,Aidas Bendoraitis,MIT,6944,A Wagtail StreamField that doesn't create migrations when block configurations change
+2026-10-23T15:53:13Z,pythia-knowledge,1.0.0,Edu Caribé,MIT,608687,Personal knowledge oracle
+2026-10-23T15:54:04Z,driftguard-cli,0.1.1,stelies,MIT,420230,"Catch your AI-coding drift: audits Claude Code / Codex / Antigravity / Cursor sessions, interviews you, and writes drift guards into your agent rules. 100% local."
+2026-10-23T15:56:42Z,argile,0.0.1,James Kitchens <kitchensjn@gmail.com>,MIT,28420,Estimating migration surfaces and the locations of genetic ancestors from gene trees
+2026-10-23T15:59:50Z,rocketsoundouss,0.1.0,soundous,,5175,A Python package for rockets
+2026-10-23T16:00:50Z,triangula-sdk,0.1.1,Sergius G.,MIT,11419,"Official Python client for the Triangula archetype API (16 face archetypes, compatibility matrix)."
+2026-10-23T16:01:26Z,option-order-check,0.1.0,Robert Morong,MIT,17022,"Measure how much a multiple-choice LLM eval depends on answer-option order: accuracy with intervals, flip rate, accuracy by answer slot."
+2026-10-23T16:03:48Z,vlmeter,0.2.1,flybear16,MIT,72376,多模态大模型准确率 × 成本计量流水线：用自有数据评测视觉语言模型（场景检查/分类/VQA），输出准确率与成本对比报告
+2026-10-23T16:04:43Z,CometV2Installer,2.0.1,LO & ENI,MIT,56785,"CometV2Installer - 100% Custom Pure-Python x86_64 PE32+ Compiler, Assembler, and Bundler."
+2026-10-23T16:06:32Z,ccc-mcp,0.1.0,,MIT,505917,Persistent context and governed agent orchestration over MCP
+2026-10-23T16:07:16Z,wensu,0.4.0,wensu contributors,"MIT License Copyright (c) 2026 scholar-meta contributors Permission is hereby granted, free of char…",189107,文溯 · 中文文献题录检索 MCP（只读，知网为首个渠道）
+2026-10-23T16:07:30Z,vidkraken,0.1.1,Vid Kraken <hello@vidkraken.com>,MIT,66610,Official Python SDK and CLI for the Vid Kraken YouTube download API
+2026-10-23T16:11:54Z,hn-keyword-watch,0.1.0,Prospy,MIT,17963,Watch Hacker News for keywords and buying-intent phrases using the official HN and Algolia APIs.
+2026-10-23T16:11:56Z,intent-score,0.1.0,Prospy,MIT,20337,"Score social posts 0-100 for buying intent with transparent regex rules, plus an optional LLM prompt template."
+2026-10-23T16:12:06Z,landschaft,1.50.1,Eduardo Lacerda,GPL-3.0-or-later,294944460,"Fast, exact landscape pattern, fragmentation, landscape-metric and connectivity analysis for Python."
+2026-10-23T16:13:34Z,rollno-package-2432806,1.0.0,Student,,4823,A simple Python package that displays roll number 2432806.
+2026-10-23T16:16:44Z,voltkit-rtc,0.1.0,VoltKit,MIT,145533,"Server SDK for VoltKit RTC: rooms, tokens, chat, broadcast, usage, billing and verified webhooks. Standard library only."
+2026-10-23T16:17:29Z,gettext-spellchecker,0.1.0,Rodolfo González González <code@rodolfo.gg>,Apache-2.0,24442,Check the spelling of msgid or msgstr strings in gettext .po and .pot files using hunspell dictionaries.
