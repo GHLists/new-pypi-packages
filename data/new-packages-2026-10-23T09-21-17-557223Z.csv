@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T08:19:40Z,logi-vhid,0.1.0,,MIT,107069,Keyboard/mouse input through Logitech G HUB's virtual HID bus
+2026-10-23T08:26:54Z,fido2-totp-vault,0.2.0,Christhofer Cardona,GPL-3.0-or-later,66023,A cross-platform FIDO2 security-key-gated TOTP vault
+2026-10-23T08:29:24Z,llmmend,0.0.1,nightlightmare,MIT,4390,"Extract & repair JSON from LLM replies, parse provider streams, token-aware chunking. Pure Python, zero dependencies."
+2026-10-23T08:29:25Z,russkit,0.0.1,nightlightmare,MIT,4361,"Russian dev toolkit: plural forms, amount in words, INN/OGRN/SNILS/BIK/account validation, +7 phones. Pure Python, typed."
+2026-10-23T08:31:34Z,zen-europe,1.4.0,Christoph Funke,,765797,"ZEN-europe hosts the european, sector-coupled dataset for ZEN-garden."
+2026-10-23T08:33:54Z,mcu-debug-mcp,0.1.0,mcu-debug-mcp contributors,MIT,886458,嵌入式硬件调试 MCP：串口直连 + 直连调试器读芯片身份/复位原因 + 烧录后逐字节校验 + 45 条异常模式库 + 三引擎引脚检测 + 板级知识库 + 会话持久化 + 预验证驱动库 + 报文解析（自定义帧/NMEA）
+2026-10-23T08:34:14Z,aio-garmin-personal,0.1.0,Oskar Majchrzak <pentiak@gmail.com>,Apache-2.0,36848,Asynchronous client for the Garmin Connect Personal API
+2026-10-23T08:35:21Z,citadel_project,0.1.0,,,110828,"Versioning sans perte : depot .citadel, annulation de toute operation, fusion a trois voies"
+2026-10-23T08:36:26Z,custovox-ticket-scorer,1.0.0,Jérémie Muselet <jeremie@custovox.ai>,MIT,8778,Support ticket scoring MCP: priority + category + sentiment + escalation risk. Multilingual sentiment. By custovox.ai
+2026-10-23T08:36:26Z,trueocr,0.1.0,,Apache-2.0,14795660,"OCR tiếng Việt trên CPU với ONNX Runtime, không cần GPU hay PyTorch"
+2026-10-23T08:37:23Z,weard,0.0.0,Weard,Apache-2.0,10852,AgenticGuard SDK for Python: tamper-evident records of what AI agents do. First release coming soon.
+2026-10-23T08:37:57Z,lnpl-otel,0.1.0,,"MIT License Copyright (c) 2026 Younggi Choi Permission is hereby granted, free of charge, to any pe…",27409,OTLP TraceExporter for lnpl (linkly#144)
+2026-10-23T08:37:57Z,lnpl-redis,0.1.0,,"MIT License Copyright (c) 2026 Younggi Choi Permission is hereby granted, free of charge, to any pe…",14648,Redis CacheDriver for lnpl (linkly#143)
+2026-10-23T08:38:05Z,lnpl-postgres,0.1.0,,"MIT License Copyright (c) 2026 Younggi Choi Permission is hereby granted, free of charge, to any pe…",41162,PostgreSQL RepositoryDriver for lnpl (linkly#121)
+2026-10-23T08:38:18Z,iot-practical-kit,0.2.0,IoT Practical Kit Contributors,MIT,26765,Print source code for common Raspberry Pi IoT practicals
+2026-10-23T08:39:17Z,promptdoctor,0.2.1,mhn0328,MIT,36574,"A tiny static linter for LLM prompts: catch missing output formats, vague wording and conflicting constraints before you ship them."
+2026-10-23T08:39:20Z,weard-agenticguard,0.0.0,Weard,Apache-2.0,11086,AgenticGuard SDK for Python: tamper-evident records of what AI agents do. First release coming soon.
+2026-10-23T08:39:45Z,pq-glue,0.1.0,Louis Maddox <louismmx@gmail.com>,,2173314,"Glue Parquet files together by copying their encoded row groups, without decoding them"
+2026-10-23T08:40:46Z,swap-forge,1.0.1,Kevin Veen-Birkenbach <kevin@veen.world>,MIT,17463,"Create, resize and register a Linux swapfile, btrfs aware."
+2026-10-23T08:42:20Z,ppg-bench,0.1.0,,GPL-3.0-only AND BSD-3-Clause AND MIT,169059,A compact benchmark for PPG encoders
+2026-10-23T08:44:53Z,ntfsmnt,0.1.0,,MIT,275796,Mount NTFS volumes read-write on macOS via FUSE-T and ntfs-3g
+2026-10-23T08:45:11Z,changeset-second-opinion,1.0.0,Yogesh Selvarajan <yogeshselvarajan@gmail.com>,Apache-2.0,1258714,"Second-opinion review tool for flagged OpenStreetMap changesets: evidence, typed decisions, a lane-ordered queue and comment drafts for a person to edit."
+2026-10-23T08:46:29Z,vishap-analyzer,7.2.6,"""David (dvddv9)"" <hndav9@yahoo.com>",AGPL-3.0-or-later,376577,"Vishap - multi-material IT analyst (code, config, spec, logs, data). 6-stage LLM pipeline with SAST/SCA, SARIF 2.1.0, OWASP Top 10, audit trail (SHA-256), provenance, exploitability."
+2026-10-23T08:47:24Z,hazus-loss,1.0.0,,,278679,Traceable Hazus 6.1 floorwise loss assessment for a single earthquake
+2026-10-23T08:49:02Z,souslesens,0.3.0,,,39289,Python client for the SousLesSensVocables API
+2026-10-23T08:51:57Z,openresume-parser,0.1.3,,AGPL-3.0-or-later,19749,Extract structured ATS-friendly JSON from resume PDF files
+2026-10-23T08:53:47Z,backfort,1.3.0,Igor Sazonov,MIT,158987,"Recovery-first Linux backups for files, Docker Compose and databases"
+2026-10-23T08:55:25Z,reit-mount,0.1.0,Gara Dorta,GPL-3.0-or-later,33175,Mount the TU Delft network drives (staff-umbrella and staff-bulk) under /tudelft.net
+2026-10-23T08:56:25Z,dwfs,0.1.0,Anish Bhattarai,MIT,40316,Draw any picture with Fourier series epicycles
+2026-10-23T08:56:28Z,ezcapsolver-py,0.1.0,EZXLabs <admin@ezxlabs.com>,Apache-2.0,248038,Python SDK for EzCaptchaSolver.
+2026-10-23T08:56:43Z,aegaeon-runtime-cu129,0.1.0.dev0,,Apache-2.0,5453,Metadata-only development release for the CUDA 12.9 runtime quota request
+2026-10-23T08:58:08Z,mero-miti,1.0.0,Inline Tech Solution <contact@meromiti.com>,,21452,"Universal Bikram Sambat (B.S.) Nepali calendar engine & date converter for Python, Django, and FastAPI."
+2026-10-23T09:02:26Z,samyarpy,1.1.4,ShayanHeidari,GPL-3.0,1231666,Soroush Plus library for Python
+2026-10-23T09:03:00Z,pink-crow,0.1.0,dibakshya01,Apache-2.0,205047,"Deterministic, offline session-risk gateway for AI chatbots & agents: cumulative OWASP-mapped risk scoring with flag/cooldown enforcement."
+2026-10-23T09:04:35Z,boltscan,1.0.0,whitewolf0414,Apache-2.0,63376,"A fast, nmap-inspired Python CLI port scanner with real-time Rich UI"
+2026-10-23T09:05:13Z,prediction-markets-api,0.9.0,Prediction Markets API Contributors,MIT,72087,"Unified Python client for prediction markets (Polymarket, Kalshi, Limitless)"
+2026-10-23T09:05:24Z,limma-ai,0.1.0,Limma,LicenseRef-Proprietary,63011,"The Limma client: the Python SDK for Limma's agent verbs, and `limma sync`, which keeps a folder, an S3 / Azure / GCS bucket, a Google Drive folder or a SharePoint library equal to a workspace."
+2026-10-23T09:05:31Z,trustguard-ai,0.1.0,Junsen Li,MIT,86773,Trustworthiness guard for LLM agent outputs — a triple-challenge checker (provenance / assumption / contradiction)
+2026-10-23T09:05:56Z,pymatgen-analysis-molcrys,0.1.0,MolCrysKit Development Team,MIT,8491,Pymatgen namespace addon for MolCrysKit molecular-crystal analysis
+2026-10-23T09:06:37Z,pincheck,0.1.0,ParisNeo,MIT,14459,"Supply-chain gate for requirements.txt: OSV vulnerabilities, malware advisories, and a release-age cooldown."
+2026-10-23T09:10:27Z,xippios-comtrade,0.1.0,XIPPIOS GmbH,Apache-2.0,254938,"Typed client, MCP tools and HTTP routes for UN Comtrade"
+2026-10-23T09:12:29Z,bowside,0.1.0,Jan T. Schleicher,GPL-3.0 license,47014,GRN-driven differential equation modeling of cell differentiation.
+2026-10-23T09:14:40Z,exok-akquant,0.3.71,AKQuant Developers,MIT License,42966091,High-performance quantitative trading framework based on Rust and Python
+2026-10-23T09:15:16Z,diffora,0.1.0,HashPalace,MIT,48986,"Secret-aware semantic configuration diffs for JSON, YAML, TOML and .env files."
+2026-10-23T09:16:51Z,hotmemory,0.1.0,Hotdata,MIT,79775,Agent memory as tables on Hotdata
+2026-10-23T09:17:54Z,kymoscope-collector,0.1.0,,# Kymoscope SDK License Agreement Copyright © 2026 Kymoscope. All rights reserved. This is propriet…,91471,"Site collector for Kymoscope: OPC UA, logger files and custom sources to end-to-end encrypted streams"
+2026-10-23T09:20:49Z,neureco,0.0.1,Adagos <contact@adagos.com>,Proprietary,4421,"NeurEco is an ANN (artificial neural network) factory. It generates parsimonious ANN models automatically, using only the learning data provided by the user. The real NeurEco ships from the Adagos pa…"
