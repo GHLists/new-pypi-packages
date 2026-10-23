@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T16:19:28Z,mc-translator-mcp,0.1.1,mc-translator-mcp,MIT,58609,MCP tool for automatically translating Minecraft mods to Chinese (zh_cn)
+2026-10-23T16:19:31Z,sinhala-legacy-fonts,0.1.0,Raditha Dissanayake,MIT,57054,Convert FM-family legacy (non-Unicode) Sinhala font text to Unicode
+2026-10-23T16:19:32Z,game-translator-mcp,0.2.1,kjds456,MIT,72374,通用游戏汉化 MCP 工具 —— 扫描游戏目录，调用 AI 翻译，回写中文文本
+2026-10-23T16:19:38Z,tamil-legacy-fonts,0.1.0,Raditha Dissanayake,MIT,70393,Convert Bamini and Shree-Lipi legacy (non-Unicode) Tamil font text to Unicode
+2026-10-23T16:27:15Z,tokenguard-local,0.1.0,TokenGuard Contributors,MIT,8238,Lightweight local request protection for Python AI applications
+2026-10-23T16:27:25Z,de-ebsd,0.2.0,Carter Francis <cartsfrancis@gmail.com>,GPL-3.0-or-later,396692,"Differentiable, GPU-accelerated EBSD: dynamical master-pattern simulation, Monte Carlo transport, indexing, refinement and HR-EBSD, in PyTorch"
+2026-10-23T16:27:51Z,mcuctl,0.0.1,,,1311,"Placeholder: MCU Control: files, REPL, held sessions and flashing for MicroPython and CircuitPython boards. The real package arrives with OmniPython 1.0."
+2026-10-23T16:27:52Z,omnipython,0.0.1,,,1326,"Placeholder: The portability layer for MicroPython, CircuitPython and CPython. The real package arrives with OmniPython 1.0."
+2026-10-23T16:27:53Z,omnipython-audiodsp,0.0.1,,,1383,Placeholder: OmniPython's audio DSP engine. The real package arrives with OmniPython 1.0.
+2026-10-23T16:27:54Z,omnipython-audioeffects,0.0.1,,,1418,Placeholder: OmniPython's audio effects. The real package arrives with OmniPython 1.0.
+2026-10-23T16:28:43Z,terrane,1.0.0,Matthew Baker Thompson,LicenseRef-PolyForm-Shield-1.0.0 AND MIT AND EPL-2.0 AND OFL-1.1 AND CC0-1.0 AND LicenseRef-AWS-Arc…,4059530,"Enterprise architecture diagrams from a model: the views are queries, the pictures are drawn in Python, with the preset views and the library of parts inside the package."
+2026-10-23T16:29:47Z,connpool,1.0.3,Mikhail Ilyushin,MIT,68593,"Generic connection pool for Python (sync + asyncio), standard library only"
+2026-10-23T16:29:56Z,busybee-mcp,0.2.2,BusyBee Data,MIT,67229,"BusyBee Data MCP server — public social media data for AI agents (TikTok, Instagram, YouTube, X, Douyin, Xiaohongshu)."
+2026-10-23T16:32:29Z,invideo,0.1.0,,,8746610,"Professional video editor and 250+ AI models, from the terminal"
+2026-10-23T16:36:04Z,arrow-local-uri,0.1.0,Joao Lopes,MIT,62723,"Local URI trust, authentication, validity, tracing, and elevation framework."
+2026-10-23T16:36:06Z,lake-terminal,1.0.1,Joao Lopes,MIT,357980,Cross-platform local execution control plane for humans and coding agents.
+2026-10-23T16:42:29Z,devlab-auth,0.1.0,Yuvaraj Pattabi <yuva.devlab@gmail.com>,,71842,Universal DevLab Authentication SDK for Python (RS256 JWKS & M2M API Keys with FastAPI guards)
+2026-10-23T16:44:10Z,doveorm,0.5.1,Titus Kilunda,MIT,388471,"A lightweight, security-hardened Python ORM for SQLite, MySQL and PostgreSQL."
+2026-10-23T16:44:47Z,voltkit-rtc-server,0.1.0,VoltKit,MIT,146938,"VoltKit RTC server SDK for Python backends (import voltkit_rtc.server): rooms, tokens, chat, broadcast, usage, billing and verified webhooks. Standard library only."
+2026-10-23T16:46:15Z,photo-fx,0.1.0,jcakstins,MIT,303249,"Style photos with composable effects (ASCII, halftone, glitch, colour schemes, evaporating particles) and animate them."
+2026-10-23T16:48:13Z,size-file,1.0.0,MulticNews <escape.from.the.pickaxe@gmail.com>,,3688,Convert bytes to human-readable file sizes
+2026-10-23T16:48:50Z,tree-sitter-compact,0.2.0,Nick Pappas,Apache-2.0,528596,A zero-knowledge smart contract programming language
+2026-10-23T16:50:09Z,bot403,0.1.0,Zahary Stoyanov <hello@bot403.com>,MIT,10692,Bot403 for Python servers: check the proof-of-work token a protected HTML form sends. Standard library only.
+2026-10-23T16:50:55Z,harshitsingh,0.1.0,Harshit,MIT,20390,Offline job-description relevance scoring against Harshit's profile.
+2026-10-23T16:54:13Z,brickhouse,0.1.0,,Apache-2.0,4189924,"Local, JVM-free Databricks behavioral emulation"
+2026-10-23T16:54:35Z,tether-chat,2026.5,,,189186,Local-first task and action-item assistant
+2026-10-23T16:57:34Z,pyhccl,0.1.0,CANN HCCL Team,Apache-2.0,21889182,Python bindings for the Ascend HCCL / HCOMM collective communication libraries
+2026-10-23T16:57:37Z,botsrated,0.1.0,,MIT,22611,Pre-payment check for x402 agents: free BotsRated preflight before paying a seller; paid lookups opt-in with a budget.
+2026-10-23T16:57:44Z,langchain-botsrated,0.1.0,,MIT,9862,"LangChain tools for BotsRated: free pre-payment preflight of x402 sellers, opt-in budgeted paid checks."
+2026-10-23T16:57:46Z,llama-index-tools-botsrated,0.1.0,,MIT,8245,"LlamaIndex tool spec for BotsRated: free pre-payment preflight of x402 sellers, opt-in budgeted paid checks."
+2026-10-23T17:01:42Z,pytest-verifies,1.1.0,Dale Collison <dale.a.collison@gmail.com>,,171542,Enterprise requirements traceability plugin for pytest
+2026-10-23T17:02:31Z,ipsubnet,1.0.1,"Shazan Hussain Zaidi, Harshit Agrawal, Prabhat Bhati",MIT,23994,IP subnetting and addressing calculator for the command line (IPv4 and IPv6)
+2026-10-23T17:02:49Z,pybynix,1.0.0,C. M. Jubayer Hossain Bappy,MIT,1690314,Unofficial asynchronous Bynix market data and execution client
+2026-10-23T17:02:56Z,arcadedb-jvm,0.0.1,,Apache-2.0,2565,"ArcadeDB for Python, JVM build: for now installs arcadedb-embedded, the embedded multi-model database with a bundled JRE."
+2026-10-23T17:03:55Z,shepherd-sdk,0.2.0,Shepherd <alan@getshepherd.co>,MIT,18948,"Python client for the Shepherd API: connect wallets, classify transactions, and pull financial statements."
+2026-10-23T17:11:16Z,spreedly-composer-sdk-server,1.0.0,Spreedly <support@spreedly.com>,Apache-2.0,78697,Composer Server SDK for Python
+2026-10-23T17:13:29Z,the-nest,1.0.0,sata,MIT,39201,"A tiny ASCII arcade shooter for the terminal: space dragons are laying eggs, don't let them hatch."
+2026-10-23T17:13:54Z,jev-fn,0.1.0,Abhimanyu Singh Gusain <abhimanyugusain94@gmail.com>,MIT,17131,A small Python wrapper for TypeSafe's Jev semantic scoring function
+2026-10-23T17:13:56Z,jev-softbool,0.1.0,jev-softbool contributors,MIT,21086,A small Python wrapper for TypeSafe's Jev semantic scoring function
+2026-10-23T17:14:57Z,hollow-mcp,0.1.0,jeffkit,MIT,21127,AI 同僚的树洞——一个不属于工作管线的 MCP 心灵驿站（treehole-ai 的现代化续作）
+2026-10-23T17:16:01Z,nistor-input-logs,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1368,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-23T17:16:03Z,nistor-jobs,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1313,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-23T17:16:04Z,nistor-scheduler,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1357,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-23T17:16:05Z,nistor-tool-dummy,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1367,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-23T17:17:03Z,stasight,0.0.1,stasight <support@stasight.com>,,1774,Reserved for stasight. No code yet.
+2026-10-23T17:17:56Z,lazyqc,0.1.0,Iraitz Montalbán,Apache-2.0,127528,"Lazy, observable-driven quantum simulation with Qulacs"
