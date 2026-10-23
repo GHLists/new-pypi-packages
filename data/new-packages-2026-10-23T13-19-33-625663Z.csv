@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T09:25:27Z,mathzx,0.1.0,Barman,MIT,35922,"A dependency-free maths toolkit: shapes, trigonometry, numbers, algebra, statistics, units and a safe expression evaluator."
+2026-10-23T12:24:09Z,ebook-rs,0.17.3,SV-Stark,MIT,7200905,"Pure Rust multi-format eBook engine (EPUB 2/3, MOBI, AZW3, KFX, FB2, LIT, CBZ, PDF, ODT, DOCX, RTF, TXT, MD) featuring Mozilla UniFFI, Readium CFI/LCP, SpeechSynthesis TTS sync, AI RAG BM25 chunking,…"
+2026-10-23T12:24:13Z,pydebug-studio,0.1.0,Premnathan <premnath.4518@gmail.com>,MIT,309645,"Next-Gen visual Python debugger and live runtime tracer with Swagger-grade dashboard, Hunter VCR timeline, and Birdseye AST expression inspection."
+2026-10-23T12:24:24Z,sequince,0.1.0b1,"Michael J. Williams, Christian Chapman-Bird","MIT License Copyright (c) 2024 Michael J. Williams Permission is hereby granted, free of charge, to…",555380,"Modular, composable Sequential Monte Carlo framework."
+2026-10-23T12:24:37Z,ytconv,0.1.0,agrim20805-ship-it,MIT,146661,Turn a video into a clean transcript and the frames that carry information.
+2026-10-23T12:26:05Z,medium-cli,0.1.0,Zhen Luo <luoz061114@gmail.com>,MIT,85278,聚合各平台社交媒体的统一命令行工具 -- 知乎/小红书/B站/微博/豆瓣/V2EX/X/Reddit/Telegram/Discord/公众号/BOSS直聘
+2026-10-23T12:27:54Z,decisionformer,0.0.1,FrontiersMind AI,Apache-2.0,2549,"Train, load, serve and benchmark one-pass decision models on any Hugging Face backbone (placeholder release)."
+2026-10-23T12:29:38Z,oaken,0.1.0,,Apache-2.0,2141136,"Oaken Mail: a local-first, AI-native mail client."
+2026-10-23T12:29:51Z,oaken-cli,0.1.0,,Apache-2.0,125484,The oaken command line: a thin client of the Oaken Mail core daemon.
+2026-10-23T12:29:57Z,oaken-core,0.1.0,,Apache-2.0,7205,"Oaken Core — the ingestion & enrichment pipeline, the CLI, and the MCP server, so an AI can work with your mail."
+2026-10-23T12:31:42Z,elecdef,0.1.0,Ole Johan Bondahl,MIT,202954,"Standard-agnostic electrical engineering vocabulary as strict, typed, immutable Python values"
+2026-10-23T12:31:48Z,refdef,0.1.0,Ole Johan Bondahl,MIT,145165,"Reference designations as strict, typed, immutable Python values: parse, check, print, number and order"
+2026-10-23T12:34:50Z,vunit-osvvm,0.1.0,Lars Asplund <lars.anders.asplund@gmail.com>,MPL-2.0,900545,A VUnit package providing the OSVVM VHDL library.
+2026-10-23T12:36:02Z,napalm-amt,0.2.0,,Apache-2.0,64359,NAPALM driver for Intel Active Management Technology (AMT) over WS-Management
+2026-10-23T12:36:45Z,investorch,0.3.0,InvestOrch contributors,Apache-2.0,1264329,"Local human-in-the-loop investment orchestration agent with Web, TUI, and plain-console clients."
+2026-10-23T12:37:27Z,laprust,1.0.0,Ratha SIV,MIT,78626553,Native Rust linear assignment solvers with implicit rejection and batch solving.
+2026-10-23T12:38:01Z,pyside-iconify,1.0.0,jerrylu,MIT,182949,"An independent Iconify icon integration for PySide6, producing standard QIcon objects."
+2026-10-23T12:38:30Z,sashimi-convert,0.6.0,The FileSushi Authors <admin@filesushi.com>,Apache-2.0,660611,"File conversion and video contact sheets for apps and servers: explicit paths, atomic writes, typed errors, no network."
+2026-10-23T12:39:50Z,ccache-bin,4.14.2,Joel Rosdahl and the ccache contributors,GPL-3.0-or-later,11720216,"ccache, the C/C++ compiler cache, packaged as Python wheels"
+2026-10-23T12:39:50Z,lapcpp,1.0.0,Ratha SIV,MIT,55258592,Native C++ linear assignment solvers with implicit rejection and batch solving
+2026-10-23T12:44:40Z,aegaeon,0.1.0,Alibaba Team,Apache-2.0,3126024,Aegaeon: A multi-LLM inference engine that multiplexes requests at the token level.
+2026-10-23T12:45:04Z,shikake,0.0.1,minoru-jp,MIT,395483,Experimental AST-based Python source modeling library
+2026-10-23T12:45:57Z,mujoco-warp-pbr,0.1.1,Julien Blanchon,Apache-2.0,250475,Batched physically based renderer for MuJoCo Warp
+2026-10-23T12:47:07Z,unharness,3.6.0,Arthur Ryzhak,MIT,41543,Compile a manifesto stack into a session's system prompt and launch Claude Code with it.
+2026-10-23T12:47:56Z,pelagic,0.4.0,,GPL-3.0-or-later,8295943,In-process BELLHOP and KRAKEN underwater acoustics
+2026-10-23T12:49:20Z,liate,0.0.0,Vinod Hatti <hello@liate.dev>,MIT,11034,Class is an Agent. Agent is an API. The Open Source AI Agent Runtime for OOP Architecture.
+2026-10-23T12:49:55Z,jev-browser,0.4.0,harmanbassi,MIT,219689,"Jev browser execution for agents through Python, CLI, MCP, and Hermes."
+2026-10-23T12:51:14Z,jsonreshape,0.1.1,Erkin Pardayev <erkin.pardayev@gmail.com>,Apache-2.0,10510440,"Viewer, editor and reshaper for huge JSON files (katta JSON fayllar uchun ko'ruvchi, muharrir va tuzilma quruvchi)"
+2026-10-23T12:52:44Z,napalm-bsd,0.5.0,Christian Manivong <christian@manivong.de>,Apache-2.0,62655,NAPALM drivers for FreeBSD and OpenBSD hosts via SSH
+2026-10-23T12:52:54Z,newton-pbr,0.1.1,Julien Blanchon,Apache-2.0,37690,"Physically based camera sensor for Newton, rendered by mujoco_warp_pbr"
+2026-10-23T12:53:04Z,napalm-hpe-aruba-procurve,0.6.0,Christian Manivong,Apache-2.0,71800,"NAPALM driver for HPE/Aruba ProCurve switches with auto-detecting transport (REST API, SSH, legacy SSH, Telnet)"
+2026-10-23T12:53:05Z,capitol-ledger-mcp,0.1.0,Capitol Ledger <hello@capitol-ledger.com>,MIT,14429,Read-only congressional stock disclosure research for AI agents via Capitol Ledger
+2026-10-23T12:53:57Z,furb-cli,0.2.0,Abel Lucas <uaelucas@gmail.com>,AGPL-3.0-only,78841410,"furb, the command line: the TUI, a JSON-RPC on stdin and stdout, and one command on one life."
+2026-10-23T12:55:01Z,heat-governor,0.10.0,AgentCulture,Apache-2.0,260464,"Governs CPU clock speed, fan speed and active cores to keep machines thermally balanced without resets, and records each run so the next one is tuned better."
+2026-10-23T12:58:55Z,tiltax,0.0.1,Paul Brunzema,MIT,2644,"Exact samples, probabilities and gradients for truncated multivariate normal and Student-t distributions on GPUs, in JAX (minimax tilting). Placeholder; the first release follows soon."
+2026-10-23T13:00:00Z,remixaudio,1.0.0,siwpan,MIT,72901,音频混音 & 视频音频合成（pydub + ffmpeg）
+2026-10-23T13:01:32Z,napalm-zyxel,0.3.0,Christian Manivong,Apache-2.0,31955,NAPALM driver for Zyxel VMG series residential gateways (VMG4005-B50A and similar).
+2026-10-23T13:02:14Z,wav-music-gen,1.0.0,siwpan,MIT,108323,纯标准库 WAV 音乐生成器（零依赖，含 Tkinter GUI）
+2026-10-23T13:03:34Z,furb-monty,0.2.0,Abel Lucas <uaelucas@gmail.com>,AGPL-3.0-only,83544181,"furb for python, with the engine in monty: every name of engine.pyi, over one life in the sandbox."
+2026-10-23T13:03:36Z,solari-e2b-compat,0.1.0,Solari,MIT,69868,E2B-compatible Python interface (sandboxes and code interpreter) over Solari Sandboxes. Not affiliated with E2B.
+2026-10-23T13:04:03Z,solari-browserbase-compat,0.1.0,Solari,MIT,25156,"Browserbase-style Python SDK surface for Solari Browser: sessions, connect_url (CDP), contexts, live view, replay events."
+2026-10-23T13:04:10Z,lesbria,0.1.1,Brayan Djimene <contact@lesbria.ai>,MIT,27828,"API Python unifiée pour multiples fournisseurs d'IA (OpenRouter, Groq, Gemini) avec tarification et quotas."
+2026-10-23T13:04:18Z,qyrenith,1.0.0,JustCax,MIT,186258,"Verification, safety, and orchestration control plane for Non-AI and AI-assisted software development."
+2026-10-23T13:07:08Z,qiskit-resume,0.2.0a1,Jihoon,MIT,119057,Record & replay layer that lets any Qiskit Primitives workflow resume after interruption without re-spending QPU time.
+2026-10-23T13:13:43Z,zyexp,0.1.0,frostime,AGPL-3.0-or-later,130871,Local-first experiment records for humans and coding agents
+2026-10-23T13:14:15Z,solari-daytona-compat,0.1.0,Solari,MIT,91558,Daytona-compatible Python interface over Solari Sandboxes. Not affiliated with Daytona.
+2026-10-23T13:15:27Z,nexus-windows-antigravity,3.0.0,Julien Piron,MIT,628773,NexusWindows for Antigravity: Windows computer use in the background for Google Antigravity (MCP server).
