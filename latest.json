@@ -1,76 +1,20 @@
 {
   "list": {
-    "count": 34,
-    "from": "2026-10-23T18:19:36.139179Z",
-    "path": "data/new-packages-2026-10-23T19-20-02-221163Z.csv",
-    "to": "2026-10-23T19:20:02.221163Z"
+    "count": 38,
+    "from": "2026-10-23T19:20:02.221163Z",
+    "path": "data/new-packages-2026-10-23T20-18-40-817069Z.csv",
+    "to": "2026-10-23T20:18:40.817069Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-23T15:34:29Z",
-      "package": "badgertask",
-      "since": "2026-10-23T15:18:44.967753Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-23T15:25:09Z",
-      "package": "ferretqueue",
-      "since": "2026-10-23T15:18:44.967753Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-23T15:38:43Z",
-      "package": "juniperrun",
-      "since": "2026-10-23T15:18:44.967753Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-23T15:20:08Z",
-      "package": "kestreljob",
-      "since": "2026-10-23T15:18:44.967753Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-23T15:42:18Z",
-      "package": "larchworker",
-      "since": "2026-10-23T15:18:44.967753Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-23T15:29:49Z",
-      "package": "otterload",
-      "since": "2026-10-23T15:18:44.967753Z",
-      "version": "0.1.0"
-    },
-    {
       "attempts": 1,
-      "created_at": "2026-10-23T19:19:39Z",
-      "package": "pii-gate",
-      "since": "2026-10-23T18:19:36.139179Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-23T15:50:14Z",
-      "package": "thistlerun",
-      "since": "2026-10-23T15:18:44.967753Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-23T15:45:57Z",
-      "package": "thornqueue",
-      "since": "2026-10-23T15:18:44.967753Z",
-      "version": "0.1.0"
+      "created_at": "2026-10-23T19:24:04Z",
+      "package": "covertier-sdk",
+      "since": "2026-10-23T19:20:02.221163Z",
+      "version": "1.0.12"
     }
   ],
-  "serial": 42656400,
+  "serial": 42658281,
   "source_truncated": false,
-  "window": "2026-10-23T19:20:02.221163Z"
+  "window": "2026-10-23T20:18:40.817069Z"
 }

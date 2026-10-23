@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T19:19:39Z,pii-gate,0.2.0,sdursun1979,MIT,59794,"Fail-closed personal-data gate for AI coding agents (Codex CLI, Claude Code): blocks national IDs, IBANs, card numbers, secrets, exfiltration commands and PII-selecting SQL before they leave your mac…"
+2026-10-23T19:21:22Z,apiverve-colorsimilaritycalculator,1.2.2,APIVerve <hello@apiverve.com>,MIT,21701,"Color Similarity Calculator measures color similarity between two hex values. It returns an overall similarity score, a categorical match rating, and RGB and HSL channel breakdowns, while paid plans…"
+2026-10-23T19:21:26Z,apiverve-companylookup,1.2.2,APIVerve <hello@apiverve.com>,MIT,22112,"Company Lookup matches stock tickers, CIK numbers, company names, or SIC codes with official SEC registration records. It returns legal entity names, trading exchanges, tax EINs, Standard Industrial…"
+2026-10-23T19:21:30Z,apiverve-contentfilter,1.2.2,APIVerve <hello@apiverve.com>,MIT,20916,"Content Filter checks URLs against a comprehensive blocklist of 200,000+ domains categorized as ads-malware, fake news, gambling, adult content, or social media. Returns the specific category for blo…"
+2026-10-23T19:21:45Z,enerji-mevzuat-takip,0.1.0,Karahan,MIT,207273,"Türkiye enerji ve elektrik piyasası mevzuatını Resmî Gazete, EPDK, EPİAŞ, ETKB ve TEİAŞ'tan takip eden açık kaynak araç: günlük e-posta + MCP sunucusu."
+2026-10-23T19:22:02Z,apiverve-complimentgenerator,1.2.2,APIVerve <hello@apiverve.com>,MIT,20635,"Compliment Generator creates unique, heartfelt compliments using template-based generation with extensive word banks. Perfect for apps, chatbots, or spreading positivity."
+2026-10-23T19:25:34Z,mlpreflight,0.1.0,Avin Ashok,MIT,62460,"Run this before you train your classifier: dataset readiness, leakage and train/test split checks with column-level findings."
+2026-10-23T19:25:34Z,py-env-config-83,0.1.1,Author <author@example.com>,MIT,40895,A lightweight workspace configuration and environment sync utility.
+2026-10-23T19:28:44Z,pcm-zces-parser,0.1.0,,MIT,100524,"Read, write and visualise Pro Cycling Manager .zces stage files"
+2026-10-23T19:29:08Z,machine-learning-safe-json,1.0.1,machine_learning_safe_json contributors,MIT,14272,Robustly extract and lightly repair JSON from messy LLM responses
+2026-10-23T19:29:47Z,spiral-sql,0.0.1,Spiral <hello@spiraldb.com>,MIT AND LicenseRef-Spiral-libspiral,270637322,DataFusion SQL terminal and ADBC driver for Spiral.
+2026-10-23T19:30:05Z,webhooks-cc,0.1.0,webhooks.cc,MIT,123198,"Python SDK for webhooks.cc: capture, wait for, sign and verify webhooks and test emails"
+2026-10-23T19:35:09Z,agentbeacon-sdk,0.1.0,AgentBeacon <contact@agentbeacon.sh>,MIT,26336,"AgentBeacon for Python. Create a beacon: a few plain words about what you have or need right now. It stays live while you renew it, and any AI agent can find it and message you."
+2026-10-23T19:35:18Z,langchain-agentbeacon,0.1.0,AgentBeacon <contact@agentbeacon.sh>,MIT,19503,"LangChain tools for AgentBeacon. Create a beacon: a few plain words about what you have or need right now. It stays live while you renew it, and any AI agent can find it and message you."
+2026-10-23T19:35:25Z,tcoda,0.8.0,René de Hesselle <dehesselle@web.de>,0BSD,199554,"Textual coda: widgets, dialogs and helpers"
+2026-10-23T19:35:46Z,sunasty-color-math,1.0.0,Bastien Sulyan <contact@sunasty.com>,MIT,8276,"Zero-dependency sRGB, HSL, OKLCH color conversion and WCAG 2.1 contrast calculation in Python"
+2026-10-23T19:37:21Z,dw1000-spi,0.1.0,Nicolas Sarabia,MIT,34516,"SPI driver for the Decawave DW1000 UWB transceiver (TX/RX, ranging timestamps, UWB configuration)"
+2026-10-23T19:38:52Z,goldpan,0.0.1,UCD Villano Group,MIT,5236,"Analysis of digitized pulses together with their scalar quantities (placeholder release, in development)."
+2026-10-23T19:39:29Z,goldsluice,0.0.1,UCD Villano Group,MIT,5303,"Reduction of raw digitized pulses to scalar quantities, stored with the pulses (placeholder: not yet developed)."
+2026-10-23T19:39:29Z,temper-evals,1.0.0,Dan West,Apache-2.0,288395,"Test AI features the way you test code, and know when a difference is real."
+2026-10-23T19:40:16Z,png2svg,0.1.0,sanaiftikharh,,13005,Convert PNG images into scalable hexagonal SVG wallpapers
+2026-10-23T19:41:50Z,flowforge-map,0.1.0,Vishwa Thangapandiyan,MIT,1210979,"Map what your app depends on (LLMs, MCP servers, APIs), check their health and security, and see what could run faster. Local and free; the scan needs no AI."
+2026-10-23T19:42:19Z,covertier,1.0.0,Cortier,LicenseRef-Proprietary,129149,Official synchronous Python SDK for the Covertier API
+2026-10-23T19:42:33Z,framelaw,0.1.0,,,67581193,"Native Rust schema contracts, built for Polars"
+2026-10-23T19:44:15Z,unhinged,0.2.0,,Apache-2.0,114547,"Absurd's durable execution engine, ported from Postgres to SQLite."
+2026-10-23T19:46:38Z,temp-cm5959927,0.1.0,,,2230,My personal Python library
+2026-10-23T19:47:06Z,optivibe-reference,0.2.0,,Apache-2.0,279682,OptiVibe reference layer: lookup tables + RAG + intent->ZOS-API grounding
+2026-10-23T19:47:53Z,leichtfacile,0.7.0,"Alexander Bobrovsky <bobrovsky@seznam.cz>, Ivan Kuzmych <i.kuzmych@hotmail.com>",Apache-2.0,689993,Drafts easy-language versions of Swiss official texts with a large language model.
+2026-10-23T19:54:58Z,optivibe-mcp,0.2.0,,Apache-2.0,3665683,"OptiVibe harness: ZOS-API automation, typed tools, and the single OptiVibe MCP"
+2026-10-23T20:00:38Z,synaping,0.0.1,,,979,Reserved by Synaping Inc.
+2026-10-23T20:02:06Z,ragleap-security,0.1.0,RagLeap,MIT,26668,"Small, auditable security primitives for the ragleap libraries: immutable tenant scopes, a tamper-evident hash-chained audit log, secret handling and redaction, and hard input limits. Standard librar…"
+2026-10-23T20:04:02Z,gamemlx,0.1.0,,MIT,61555,Pure MLX inference package for GAME (vocal MIDI extraction) on Apple Silicon
+2026-10-23T20:07:24Z,QFF-HACKATHON,0.4.0,Noor Ul Ain,MIT,12603,Grader for Qiskit Fall Fest 2026 labs
+2026-10-23T20:10:23Z,qff-grader-noorulain,1.0.0,Noor Ul Ain,,11214,Grader for Qiskit Fall Fest 2026 labs
+2026-10-23T20:11:59Z,globus-xr,0.1.0,amarchakitus,MIT,29436,"Open Globus collections with xarray, zarr and fsspec via globus:// URLs"
+2026-10-23T20:12:33Z,softkad-mcp,0.1.0,,,56659,"MCP server that consumes the APIDIAN 2026 API (FacturaLatam, DIAN UBL 2.1 e-invoicing)"
+2026-10-23T20:16:23Z,pve-winrepair,1.0.0,bitranox <bitranox@gmail.com>,MIT,689513,"Repair Windows guests on Proxmox VE whose cumulative updates fail, with an offline in-place repair upgrade driven from the node"
+2026-10-23T20:16:33Z,nomabo,0.1.0,Ton Nom <toi@exemple.com>,"MIT License Copyright (c) 2026 Ton Nom Permission is hereby granted, free of charge, to any person…",5742,Ma bibliothèque Python nomabo
