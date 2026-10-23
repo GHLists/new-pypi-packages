@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T22:22:45Z,strands-aerospike,0.0.1,strands-aerospike contributors,Apache-2.0,405417,"Aerospike-backed storage, session, and memory backends for the Strands Agents SDK"
+2026-10-23T22:23:01Z,Westie,0.1.4,Livrasand,MIT,56062,Generate deterministic commit-message drafts from git diffs.
+2026-10-23T22:23:17Z,aws-durable-execution-conformance-tests-telemetry,0.1.0,AWS durable-execution-dev <durable-execution-dev@amazon.com>,Apache-2.0,38185,Durable Execution Telemetry integration suite for AWS Durable Execution conformance tests
+2026-10-23T22:25:34Z,walkthebeat,0.0.1,walkthebeat <hello@walkthebeat.dev>,Apache-2.0,2068,Name reserved for walkthebeat (https://walkthebeat.dev). Under development.
+2026-10-23T22:26:01Z,beat-mcp,0.0.1,walkthebeat <hello@walkthebeat.dev>,Apache-2.0,2047,Name reserved for walkthebeat (https://walkthebeat.dev). Under development.
+2026-10-23T22:26:44Z,cairnml,0.0.1,Gianluca Pargaetzi,Apache License 2.0,2664460,"CairnML - experiment tracking, remote jobs and git-based datasets (an unofficial fork of ClearML)"
+2026-10-23T22:26:52Z,ibcs-plotly,0.2.2,Zain Ul Abdin,MIT,1593747,"Interactive IBCS-compliant business charts on Plotly, with optional Streamlit components"
+2026-10-23T22:26:59Z,cairnml-agent,0.0.1,Gianluca Pargaetzi,Apache License 2.0,2577159,CairnML agent - runs queued CairnML jobs (an unofficial fork of ClearML Agent)
+2026-10-23T22:38:19Z,datamax-dpl,0.1.0,bitranox <bitranox@gmail.com>,MIT,488061,"Datamax DPL label printing: library, CLI and LLM-friendly JSON, with per-model capability checks"
+2026-10-23T22:41:36Z,agent-cost-estimator,0.1.0,nvaldez,GPL-3.0-only,59188,Report token usage and estimated USD cost of AI agent sessions from local harness logs
+2026-10-23T22:45:44Z,qdo-todo,0.9.11,Al Stone <ahs3@ahs3.net>,GPL-3.0-or-later AND CC-BY-4.0,53880,Simple GUI for working with todo.txt task lists
+2026-10-23T22:47:16Z,kyoyu,0.1.0,,,6578122,"kyoyu, distributed as a prebuilt binary"
+2026-10-23T22:49:22Z,pepcalc-ai,0.1.0,PepCalc AI,MIT,8346,"Tiny unit-conversion helpers for reconstitution math: mg/mL concentration, volume to draw and U-100 syringe units. Educational information only."
+2026-10-23T22:49:32Z,seachange,0.1.0,jmdm,GPL-3.0-or-later,117435,"Generational evolutionary algorithm engine with a SQLite-backed population, extracted from ARIEL."
+2026-10-23T22:50:27Z,culture-library,0.10.1,AgentCulture,Apache-2.0,263753,"Culture's library of your own content and media: recordings, books, newspapers, articles, EPUBs, PDFs, docs and more. One catalog to ingest, index, search and serve it all, published at library.cultu…"
+2026-10-23T22:50:34Z,ligaxai,0.1.0.dev13,LigaX AI authors,Apache-2.0,177279,LigaX AI — official Python client library
+2026-10-23T22:51:19Z,omnivoice-tts-inference,0.1.0,k2-fsa/OmniVoice authors,Apache-2.0,189533,"OmniVoice TTS inference library: generate, sentence streaming, Spanish text normalization, FlashInfer and int8"
+2026-10-23T22:51:53Z,celestial-astrology,0.1.0,,MIT,398959,Reproducible Western astrology charts and sourced knowledge
+2026-10-23T22:58:27Z,outboard,0.1.0,Peng Ding,Apache-2.0,50426,"Out-of-band CI receipts: sign where GitHub cannot reach, verify in Actions, publish a check."
+2026-10-23T22:59:59Z,fastmcp-acgs,0.1.0,Martin Lyu,Apache-2.0,52478,"ACGS rule-based tool-call governance for FastMCP servers, via middleware"
+2026-10-23T23:00:07Z,claude-agent-acgs,0.1.0,Martin Lyu,Apache-2.0,51946,"ACGS rule-based tool-call governance for the Claude Agent SDK, via a PreToolUse hook"
+2026-10-23T23:03:31Z,norvara-payload-compiler,0.9.0rc1,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,125396,"CpG refactoring, payload linting and AAV vector size accounting for DNA payloads"
+2026-10-23T23:03:34Z,my-vllm-test-macos-wheels-publish-version-one,0.0.1rc1,vLLM Team,Apache-2.0,32018862,A high-throughput and memory-efficient inference and serving engine for LLMs
+2026-10-23T23:07:08Z,threadfin,4.5.0,Chen Satoshi <103236530+Reynold4k@users.noreply.github.com>,MIT,390870,"Relationships between B-cell clones from paired single-cell RNA and BCR sequencing: clone embeddings, clonal coherence, clonal programmes, clone-level tests and clonal memory"
+2026-10-23T23:08:13Z,texas2step,2.0.0,Robert Patrick,Apache-2.0,2042782,"Web-centric throughput, latency, jitter and packet-loss measurement between endpoints."
+2026-10-23T23:09:02Z,i2c-api,0.20.0,,,19178,I2C API
+2026-10-23T23:10:15Z,byteplussdk-rdsmssql,0.0.1,byteplus-sdk,Apache License 2.0,998,Name reservation for the Byteplus Python SDK split package byteplussdk-rdsmssql
+2026-10-23T23:10:21Z,byteplussdk-rdsmysqlv2,0.0.1,byteplus-sdk,Apache License 2.0,1012,Name reservation for the Byteplus Python SDK split package byteplussdk-rdsmysqlv2
+2026-10-23T23:10:27Z,byteplussdk-rdspostgresql,0.0.1,byteplus-sdk,Apache License 2.0,1034,Name reservation for the Byteplus Python SDK split package byteplussdk-rdspostgresql
+2026-10-23T23:10:33Z,byteplussdk-redis,0.0.1,byteplus-sdk,Apache License 2.0,976,Name reservation for the Byteplus Python SDK split package byteplussdk-redis

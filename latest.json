@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-10-23T21:18:36.100016Z",
-    "path": "data/new-packages-2026-10-23T22-19-47-545463Z.csv",
-    "to": "2026-10-23T22:19:47.545463Z"
+    "count": 30,
+    "from": "2026-10-23T22:19:47.545463Z",
+    "path": "data/new-packages-2026-10-23T23-19-07-83753Z.csv",
+    "to": "2026-10-23T23:19:07.83753Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-23T19:24:04Z",
       "package": "covertier-sdk",
       "since": "2026-10-23T19:20:02.221163Z",
       "version": "1.0.12"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-23T22:12:25Z",
       "package": "verifycraft",
       "since": "2026-10-23T21:18:36.100016Z",
       "version": null
     }
   ],
-  "serial": 42662159,
+  "serial": 42663776,
   "source_truncated": false,
-  "window": "2026-10-23T22:19:47.545463Z"
+  "window": "2026-10-23T23:19:07.83753Z"
 }
