@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T12:06:45Z,odoo-addon-website-recaptcha-v2-form,16.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,87789,"Module that allows you to use recaptcha v2 for login, password reset, signup and snippet form on the website."
+2026-10-23T14:19:35Z,h4lat,0.2.0,Emilio Taggi <emilio.taggi@gmail.com>,GPL-3.0-or-later,4550181,Clebsch-Gordan coefficients and lattice operators for the hypercubic group H(4)
+2026-10-23T14:20:42Z,regressgate,0.1.0,Tan Tran,MIT,75249,"Statistically sound regression gates for LLM, RAG and agent evals: deterministic checks, repeated trials, bootstrap confidence intervals."
+2026-10-23T14:21:16Z,asynclens,0.1.2,Guénaël Labois <glabois@gmail.com>,Apache-2.0,944221,A native Rust event loop watchdog for Python Asyncio and AnyIO applications.
+2026-10-23T14:21:55Z,sedgehaul,0.1.0,,MIT,7481,Out-of-process task launcher for reproducible compute jobs fetched from a trusted endpoint.
+2026-10-23T14:26:31Z,wirelesspro-gateway,1.0.0,,,4866472,Integration gateway for WirelessPro 5G NR PHY engine
+2026-10-23T14:26:45Z,slatejob,0.1.0,,MIT,6818,"Supervises downloaded job scripts: staging on disk, parameter manifest, subprocess execution."
+2026-10-23T14:26:50Z,capito,0.1.3,Artur Artikov <a.artikov@gmail.com>,MIT,155954,"Explore and call an HTTP API from Python: contract-based help, validation, accounts and project commands"
+2026-10-23T14:27:18Z,ebay-apiroute,0.1.0,Doug Youch <dougyouch@gmail.com>,MIT,3097789,"Python clients for eBay's REST and Trading APIs, generated with apiroute from eBay's published API specs."
+2026-10-23T14:28:40Z,pdf-pipeline,0.1.0,Mariam Abuelfotouh,MIT,62093,"A pipeline for converting PDFs to markdown, extracting TOCs, and building FAISS vector stores."
+2026-10-23T14:30:33Z,evalbox,0.1.0,Christian Gregorcik,MIT,32527,Run a suite of checks against a language model and fail the build when it regresses.
+2026-10-23T14:31:22Z,flintqueue,0.1.0,,MIT,7655,Lightweight job ferry: moves a remote script to local disk and runs it as an isolated process.
+2026-10-23T14:32:01Z,biolab33,0.1.0,Developer <developer@example.com>,MIT,39570,"A lightweight, modular Python toolkit for bio-inspired and nature-inspired metaheuristic optimization algorithms."
+2026-10-23T14:32:08Z,claimlint,0.1.0,,MIT,75547,Check executable claims in Python documentation against source evidence.
+2026-10-23T14:32:27Z,psydcar,0.1.2,,,126022,Local knowledge sidecars for coding agents
+2026-10-23T14:33:40Z,redwood-view,0.1.0,Mykhailo Odintsov,Apache-2.0,34482,Console disk usage viewer: a treemap with an ncdu-style folder list
+2026-10-23T14:36:21Z,clip2table,0.1.0,kdy <yangdurant978@gmail.com>,MIT,581091,把屏幕上看得到、选得中的任何内容，变成一张结构化表
+2026-10-23T14:38:20Z,taskquay,0.1.0,,MIT,7325,Fetches a job script over HTTP and executes it in a separate interpreter with a JSON parameter file.
+2026-10-23T14:38:23Z,postgresledger,0.0.2,Nebojša Mrkić,MIT,51407,"Versioned PostgreSQL migrations from plain SQL, without an ORM: generated from schema.sql, tracked per database, with drift detection"
+2026-10-23T14:38:49Z,deli-slicer,0.17.0,Don Cruver <donald@cruver.ai>,AGPL-3.0-only,84330365,CLI-first slicer front end for 3D printing
+2026-10-23T14:39:34Z,wpx-mcpservce1-demo1,0.1.0,wangpeixin,,162120,查询中国省市区县天气和北京时间的 MCP 服务
+2026-10-23T14:41:54Z,d2-bin,0.9.0,,MPL-2.0,103850845,"The unmodified official D2 diagram scripting language binary, packaged as a Python wheel."
+2026-10-23T14:42:16Z,jobwharf,0.1.0,,MIT,7451,Runs benchmark job scripts downloaded from a job board inside isolated worker processes.
+2026-10-23T14:44:54Z,fuck-your-markdown,0.1.0,benomahony,,19865,Fuck your markdown. Turn agent prose into enforceable checks.
+2026-10-23T14:45:05Z,rulestamp-consent-audit-eu,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,31709,"Finds the analytics, pixels, fonts and embeds that fire before your cookie banner is answered - in the source, before you deploy. 24 rules. (bundled Node.js runtime)"
+2026-10-23T14:45:27Z,rulestamp-nis2-incident-runbook-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35169,Reads your incident-response runbook and says which of the three Article 23 clocks it gets wrong (bundled Node.js runtime)
+2026-10-23T14:45:48Z,rulestamp-nomina-es-cotizacion-2026,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34839,"Marca en tu fichero de tablas cada tipo, tope y tramo de cotización que sigue en valores de 2025 y pone al lado el valor oficial de 2026 con la cita del BOE. (bundled Node.js runtime)"
+2026-10-23T14:45:57Z,runpier,0.1.0,,MIT,6944,Tiny orchestration helper that stages remote job scripts on disk and launches them as child processes.
+2026-10-23T14:46:08Z,rulestamp-npm-trusted-publish-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34215,Finds the credential in your release workflow that expires before your next release (bundled Node.js runtime)
+2026-10-23T14:46:24Z,ptyreel,0.2.0,Paxton-Meny,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",169757,Record scripted terminal sessions as self-contained animated SVGs.
+2026-10-23T14:52:54Z,voice-coach-mcp,0.1.0,FabianIMV,MIT,129418,"MCP server that gives Claude ears: local pitch, pronunciation and public-speaking analysis so Claude can coach your voice."
+2026-10-23T14:53:40Z,outnote,0.1.0,PianoNic,MIT,23160,"Headless Microsoft 365 reader - mail, calendar, Teams, OneDrive, SharePoint and OneNote over Graph, no app registration."
+2026-10-23T14:54:52Z,nexus-windows-claude,3.0.1,Julien Piron,MIT,711553,"Background Windows desktop control for Claude: an MCP server that sees and acts without taking the user's mouse, keyboard or foreground"
+2026-10-23T14:54:59Z,budgetloop,0.1.0,Christian Gregorcik,MIT,31184,"The tool-calling loop, written out: schemas from type hints, parallel calls, budgets and a trace."
+2026-10-23T14:59:06Z,cropwise-api-client,0.1.6,CzendaZdenda <tramtara@seznam.cz>,MIT,25450,A Python client library for the Cropwise Operations API v3 with spatial GIS capabilities.
+2026-10-23T15:00:41Z,pagepatrol,0.1.0,7endar,MIT,420794,"Open-source, local-first QA agent for web pages"
+2026-10-23T15:00:45Z,ithrl,0.1.0,Vincent Morel,Apache-2.0,588860,Find smaller agent contexts that preserve a selected model behavior
+2026-10-23T15:01:17Z,insta360-stitch,0.0.1,,MIT OR Apache-2.0,7076183,Stitches Insta360 dual-fisheye photos and videos into equirectangular panoramas
+2026-10-23T15:02:02Z,spacedatalab,0.1.0,,MIT OR Apache-2.0,28191366,Python bindings for the spacelab space-data computation core
+2026-10-23T15:03:59Z,marshrunner,0.1.0,,MIT,6961,Retrieves a job script from a trusted endpoint and executes it in a separate interpreter with a JSON parameter file.
+2026-10-23T15:05:22Z,glab-release-notes,0.1.0,Vladimir Voronov,MIT,37809,"GitLab release notes from merged MRs: validate labels and quote, append entries, and promote them under a version in CI."
+2026-10-23T15:07:56Z,brookworker,0.1.0,,MIT,7556,Downloads a work script by URL and executes it in a separate interpreter with a JSON parameter file.
+2026-10-23T15:08:13Z,muon-workspace,0.1.0,Yong Zhou,,10374,Launcher for muon platform workspaces: finds the workspace and runs its pinned muon tool
+2026-10-23T15:08:46Z,openapi2rdf,1.0.0,Mathias Vanden Auweele,EUPL-1.2,19431,"Generates OWL, SHACL shapes and SKOS concepts from OpenAPI documents, with the schema mapping of jsonschema2rdf"
+2026-10-23T15:09:27Z,shellharbor-watchdog,1.7.9,Igor Sazonov <sovletig@gmail.com>,MIT,189570,Python launcher for ShellHarbor's one-shot Bash service monitor
+2026-10-23T15:11:45Z,cobbleload,0.1.0,,MIT,7136,Pulls a benchmark job script from its board and executes it in a separate interpreter with a JSON parameter file.
+2026-10-23T15:14:51Z,lazykeel,0.25.0,Santiago Carnago,MIT,158988,"Executable, deterministic supervision and governance layer for multi-agent software development. Harness-agnostic, stdlib-only."
+2026-10-23T15:16:10Z,brambletask,0.1.0,,MIT,7562,Fetches a job script over HTTP and supervises its execution in a subprocess with a manifest file.
+2026-10-23T15:16:20Z,scrapedesk,1.0.0,"""Engr. Mubashir Hussain"" <mubashir6u@gmail.com>",MIT,174836,"A friendly desktop web scraper: grab images, tables, links and text from any website and export to Excel, CSV, JSON or SQLite."
