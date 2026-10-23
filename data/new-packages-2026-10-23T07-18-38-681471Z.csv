@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T06:19:22Z,aiaa-eda-team4,0.1.0,AI Academy Team 4,,16635,"Улаанбаатарын PM2.5 агаарын чанарын өгөгдөлд зориулсан EDA туслах сан (AI Academy, 4-р баг)"
+2026-10-23T06:22:20Z,toony,0.1.0rc3,,MIT,4807156,"Precise TOON 4.4 serialization for Python, with an independent Rust engine"
+2026-10-23T06:23:46Z,hungry-crab,0.6.1,Dreven,MIT,786541,"Eat a foreign repository, digest it, and extract everything useful for your own repo without violating licenses."
+2026-10-23T06:24:39Z,vlite-client,0.3.0,,MIT,21629,Python REST client for VLite
+2026-10-23T06:25:42Z,vlite-embedded,0.3.0,,MIT,3271597,In-process Python binding for the VLite native database library
+2026-10-23T06:25:56Z,jezero,0.1.0,Marcela Gotta,Apache-2.0,733065,"A shared, searchable library of your agents' past work: connectors, summaries with atoms, SQLite FTS5 search, served over MCP."
+2026-10-23T06:30:06Z,tabsail,0.1.0,,,69925,Official async Python SDK for TabSail
+2026-10-23T06:32:33Z,fuju-trace-duckdb,0.1.11,Fuju Trace,MIT,3318,DuckDB storage adapter for Fuju Trace
+2026-10-23T06:32:34Z,fuju-trace-postgresql,0.1.11,Fuju Trace,MIT,3464,PostgreSQL storage adapter for Fuju Trace
+2026-10-23T06:33:44Z,capsule-engine,0.1.0,Action State Group,Apache-2.0 AND MIT,2547031,"The thin single-node engine: guard, append-only fold compute, packs, policy activation, and the local console/report/bundle-viewer runtime for AI agent actions."
+2026-10-23T06:34:46Z,toolism,0.1.0,Rakesh Singh,MIT,159270,Measure and safely slim the token cost of LLM tool and MCP schemas.
+2026-10-23T06:35:47Z,bahi-mcp,0.1.0,SujitN <nayakwadi.sujit@rediffmail.com>,MIT,16871,"MCP server for Indian mutual fund data and investor analytics (NAV, SIP returns, XIRR, CAGR)."
+2026-10-23T06:36:47Z,yashdw,1.0.0,,,16810,Data Wrangling Practical 1 solutions with a Jupyter shortcut
+2026-10-23T06:43:47Z,ghir,0.0.3,Thor Whalen,MIT,35663,"Search your GitHub repos (cloned or not) as an ir corpus: locations, extraction, cache, ranking."
+2026-10-23T06:47:43Z,markitdown-gc,0.2.0,Adam Fourney <adamfo@microsoft.com>,MIT,212127,Utility tool for converting various files to Markdown
+2026-10-23T06:47:49Z,sixsigma,0.1.0,,,6370,Six Sigma Prac-5: prints code for Correlation and Simple Linear Regression questions
+2026-10-23T06:50:56Z,lnpl,0.9.0,,"MIT License Copyright (c) 2026 choiyounggi Permission is hereby granted, free of charge, to any per…",3712229,"LNPL — the surface language, Semantic IR, and runtime of the linkly LLM-native programming platform"
+2026-10-23T06:51:37Z,invariant-runtime,0.1.1a1,kymuco,Apache-2.0,281771,"A Python runtime for building extensible systems from composable plugins, with explicit control over capabilities and lifecycle."
+2026-10-23T06:53:23Z,iquana,0.4.0,IQuana contributors,BSD-3-Clause,528683,A flexible template for fitting SANS data with SasModels
+2026-10-23T06:53:29Z,odoo-addon-project-multi-department,18.0.1.0.0.2,"INVITU, Odoo Community Association (OCA)",AGPL-3,22871,This module add a link between projects and several departments
+2026-10-23T06:54:50Z,dasllama,0.6.6,Gaijin Entertainment,BSD-3-Clause,186860429,"OpenAI-compatible local LLM server, CLI and benchmark over dasLLAMA"
+2026-10-23T06:58:32Z,keyframes,0.1.0,Pranay Thangeda,,620250,"Agent-written, interactive HTML slide decks with live 3D, physics, math, code and diagrams"
+2026-10-23T06:59:24Z,lightpath-microllm,0.2.0,MicroLLM Contributors,Apache-2.0,547759,"Hybrid System-One Local Decision Engine (JevCompat 32/32 MUST, AnyJev L0 Prefill, StartLux Read-or-Think Cascade, OpenJev-RLCD Trainer)"
+2026-10-23T07:00:44Z,dejalint,0.0.1,,,7764,Yet another linter
+2026-10-23T07:02:27Z,orderstream-agent-sandbox,0.1.0,OrderStream <orderstream@users.noreply.github.com>,MIT,97299,Deterministic Zero-Trust Security Sandbox & Cryptographic Audit DAG for Autonomous AI Agents in CI/CD
+2026-10-23T07:04:32Z,the-nod,0.1.0,Nod contributors,MIT,452529,"A decision queue for agent-driven development: agents move the project, you only decide."
+2026-10-23T07:04:56Z,phone-harness-mcp,0.1.0,,MIT,57683,Connect AI agents to real iPhones and Androids
+2026-10-23T07:05:18Z,manimvox,0.1.0,,MIT,2530836,"Narrated, animated explainer videos with Manim and pluggable voices, driven by agent skills."
+2026-10-23T07:07:11Z,pytest-jitters,0.1.0,Vibeoverflow,MIT,9332,"Jitters the VibeCoder, an anxious monkey, at the end of every pytest run: calm when green, sweating at the first red, wrecked past a third red. Reads only the pass and fail counts; sends nothing."
+2026-10-23T07:15:27Z,patchright-turnstile,0.1.0,Peak,MIT,17980,Solve Cloudflare Turnstile in Patchright by handing the token off to the Peak API instead of clicking the widget.
+2026-10-23T07:16:59Z,emerge-aasds,0.4.0,Robert Fennis <fennisrobert@gmail.com>,MIT,59290,Apple Accelerate Sparse Direct Solver - Fast sparse linear solver for macOS
+2026-10-23T07:17:05Z,ml2026-base,0.2.1,ML2026 工作区,,33721,ML 量化策略训练框架层（功能基类 + 统一实现）
+2026-10-23T07:18:37Z,gpt-researcher-sciverse,0.1.0,Sciverse Platform Team,Apache-2.0,20895,Sciverse scientific literature passage retriever plugin for GPT Researcher

@@ -1,12 +1,20 @@
 {
   "list": {
-    "count": 16,
-    "from": "2026-10-23T05:21:33.677396Z",
-    "path": "data/new-packages-2026-10-23T06-18-37-784879Z.csv",
-    "to": "2026-10-23T06:18:37.784879Z"
+    "count": 33,
+    "from": "2026-10-23T06:18:37.784879Z",
+    "path": "data/new-packages-2026-10-23T07-18-38-681471Z.csv",
+    "to": "2026-10-23T07:18:38.681471Z"
   },
-  "pending": [],
-  "serial": 42627976,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-23T07:14:56Z",
+      "package": "open-waterway-designer",
+      "since": "2026-10-23T06:18:37.784879Z",
+      "version": null
+    }
+  ],
+  "serial": 42630093,
   "source_truncated": false,
-  "window": "2026-10-23T06:18:37.784879Z"
+  "window": "2026-10-23T07:18:38.681471Z"
 }
