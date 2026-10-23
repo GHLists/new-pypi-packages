@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T07:21:19Z,pixedit,0.1.1,PixEdit contributors,MIT,243033,PixEdit is a layered desktop image editor launched with the pix command.
+2026-10-23T07:21:26Z,pytest-failurefix,0.1.0,,MIT,69625,pytest 插件：保持测试运行与 Allure 报告成功率为 100%，失败部分转为人工执行验证并导出 Excel
+2026-10-23T07:22:51Z,runsite-sdk,0.0.1,Ruslan Kornich,MIT,8818,"Official Python SDK for Runsite: email, storage and secrets for your apps"
+2026-10-23T07:27:02Z,carryover,0.1.1,Zhuojun Li,MIT,54069,"Move a Claude workspace (Claude Code + Cowork) to a new account or machine. Read-only, never copies credentials."
+2026-10-23T07:27:20Z,onionlens,0.1.2,OnionLens contributors,MIT,20895,"OnionLens local, privacy-minimised opt-in WSGI behavioral canary sensor"
+2026-10-23T07:27:37Z,eventdedupe,0.1.0,Jonathan Chong <jon@jchong.dev>,MIT,43970,"Merge duplicate event listings from different sources, and explain every match."
+2026-10-23T07:28:14Z,gameability,0.2.0,Empyrean Intelligence,MIT,61192,Find the problems in a code benchmark that accept broken solutions.
+2026-10-23T07:28:16Z,rsi-audit,0.1.0,Empyrean Intelligence,MIT,33757,Check self-improvement and agent-leaderboard claims from their public artefacts.
+2026-10-23T07:28:34Z,pytest-selective,0.1.1,Gigaverse,Apache-2.0,444481,Explainable Python test impact analysis: select affected pytest files from Git changes
+2026-10-23T07:29:17Z,cabledyn,0.3.0,Jae Hoon Seo <jaehoon.seo@inha.ac.kr>,Apache-2.0,58748549,Python APIs for the CableDyn standalone driver and native coupling library
+2026-10-23T07:30:15Z,bigsurcorp-propus,0.1.0,"""BigSur Corp."" <connect@bigsur.in>",Proprietary (Propus Software License); source on request: connect@bigsur.in,58332,Official Python client for Propus (BigSur Corp.)
+2026-10-23T07:31:24Z,span-mcp,0.0.1,Rolf Streefkerk,GPL-3.0-only,3342,Name reservation for Span — maintained codebase understanding for coding agents.
+2026-10-23T07:33:21Z,silencewatch,0.1.0,The SilenceWatch authors,Apache-2.0,58755,"Declare and monitor the scheduled jobs of a Python application with SilenceWatch: Celery beat, APScheduler."
+2026-10-23T07:33:22Z,clif-ga,0.1.0,D. A. Jones,"MIT License Copyright (c) 2026 D. A. Jones Permission is hereby granted, free of charge, to any per…",108126,Clifford-algebra engine: multivector inverse algorithms
+2026-10-23T07:34:28Z,ci-esta,0.1.1,Gigaverse,Apache-2.0,869247,GitHub Actions observability and evidence-based CI reuse
+2026-10-23T07:34:47Z,openreview-sdk,1.12.1,ScaleSync,MIT,8100,Typed Python client for the open-review Go engine
+2026-10-23T07:36:11Z,perri,0.5.0,,,95736,Bayesian inference of individual laboratory reference intervals (setpoints)
+2026-10-23T07:36:16Z,flet-m3-carousel,0.1.0,Flet contributors,,23299,Flet extension wrapping the Flutter m3_carousel package.
+2026-10-23T07:37:47Z,muru,0.1.0a1,Graham Dumpleton,Apache-2.0,11135094,Muru runtime library for WSGI and ASGI applications
+2026-10-23T07:38:49Z,leancpms-cli,0.1.0,,AGPL-3.0-or-later,81798,The cpms command alone: a client of a LeanCPMS instance's JSON API
+2026-10-23T07:40:26Z,torus-kg,0.3.1,,Apache-2.0,1144780,"Stock research memory for Claude Code, Claude Desktop and Codex: equity research, investment theses and SEC filing alerts in a local knowledge graph"
+2026-10-23T07:40:35Z,muructl,0.1.0a1,Graham Dumpleton,Apache-2.0,2304384,"Muru: routing edge, control plane and Python runtime for WSGI and ASGI applications"
+2026-10-23T07:43:12Z,odoo-addon-sale-analytic,19.0.1.0.0.2,"Exo Software, Acsone SA/NV, Odoo Community Association (OCA)",AGPL-3,23885,Sale Analytic
+2026-10-23T07:43:36Z,stpt-mcp,0.3.4,Vlad Ohai <vladirocox@users.noreply.github.com>,"MIT License Copyright (c) 2026 Vlad Ohai Permission is hereby granted, free of charge, to any perso…",375933,An unofficial MCP server for STPT public transport in Timișoara
+2026-10-23T07:44:26Z,langchain-lfg,0.1.0,LFG Alarm <support@lfg.gm>,MIT,9771,"LangChain tools for LFG Alarm: set real alarms on a phone, and ring it, from an agent."
+2026-10-23T07:44:28Z,torch-frft2d,0.1.0,Yannick Schrödel,MIT,21711,"Fast, differentiable, batched multi-angle 2D fractional Fourier transform for PyTorch"
+2026-10-23T07:47:04Z,grainmorph,0.2.1,GrainMorph Contributors,MIT,45477,Particle shape analysis and visualization library.
+2026-10-23T07:47:14Z,quillsift,0.3.0,QuillSift contributors,Apache-2.0,6334036,Deterministic scraping and schema-validated LLM extraction powered by a Rust core
+2026-10-23T07:47:47Z,dfeols,0.7.0,Ted Matherly,GPL-3.0-or-later,221788,"Sharded, elastic high-dimensional fixed-effects OLS for HPC clusters (Slurm, PBS, SGE, LSF)"
+2026-10-23T07:49:16Z,innosonix,0.1.2,Mokonack,Apache-2.0,27260,Async Python client for Innosonix MAXX amplifiers
+2026-10-23T07:50:18Z,hearth-ai,0.1.0,Abhranshu <abhranshu@atnms.ai>,Apache-2.0,354478,Embeddable context engine that keeps an AI agent's prompt cache warm and proves it with measurements.
+2026-10-23T07:52:13Z,apimirage,0.1.0,hao li,MIT,19567,Catch hallucinated and deprecated API usage: AST scan plus real importlib existence checks
+2026-10-23T07:52:33Z,skilllib,0.1.1,DistriAI <liangfengsid@gmail.com>,MIT,175109,"SkillLib searches, catalogs, and caches GitHub repositories of Anthropic- and OpenAI-compatible LLM agent skills."
+2026-10-23T07:52:40Z,chandah-ilm,2026.10.0,Abhishek Choudhary <obonac@users.noreply.github.com>,MIT,68114,"chandah: Sanskrit C, as Hindawi writes it, through the sutram layers to chandas and back, built and run by Hindawi"
+2026-10-23T07:54:52Z,diffburger,0.0.1,DiffBurger Team,,3359,DiffBurger CLI — 준비 중 (name reserved for the upcoming DiffBurger CLI)
+2026-10-23T07:54:53Z,diffburger-telemetry,0.0.1,DiffBurger Team,,3371,DiffBurger 학습 기록 SDK — 준비 중 (name reserved for the upcoming DiffBurger telemetry SDK)
+2026-10-23T07:56:40Z,keystoneauth-oidc-browser,1.0.0,Vladimir Lobanov <odnobit@yandex.ru>,MIT,39520,"keystoneauth1 OpenID Connect browser login (Authorization Code, PKCE) with Keystone token caching; auth type v3oidcbrowser"
+2026-10-23T07:57:26Z,OpenFerro,0.3.0,Pinchen Xie <pinchenxie@lbl.gov>,MIT,129697,JAX-based framework for on-lattice atomistic dynamics
+2026-10-23T08:00:20Z,simple-module-mail,0.0.38,Anto Subash <antosubash@live.com>,MIT,17810,"Outgoing mail (SMTP or console) for simple_module apps, configured from the DB-backed settings"
+2026-10-23T08:01:07Z,fleet-guard,0.1.0,hao li <haoli5933@gmail.com>,MIT,37572,"Machine-resource guard layer for fleets of coding-agent sessions: background-process quotas, stall watchdog, leak reaping, disk guard."
+2026-10-23T08:01:57Z,human-gate,0.1.0,hao li <haoli5933@gmail.com>,MIT,31378,"Cross-platform human approval channel for coding agents: agents request, humans approve, timeouts default-deny."
+2026-10-23T08:02:09Z,simple-module-sharing,0.0.38,Anto Subash <antosubash@live.com>,MIT,37639,Generic resource shares (owner / shared-with-user) for simple_module resource-scoped access
+2026-10-23T08:02:46Z,watchtower-guard,0.1.0,hao li,MIT,35537,Tamper-evident integrity watcher for an agent's own guardrails: who watches the watchers.
+2026-10-23T08:05:11Z,trenddigest,0.1.0,dycshow <dycshow@users.noreply.github.com>,MIT,229321,Developer trend daily: GitHub Trending + Hacker News -> LLM digest -> Markdown report
+2026-10-23T08:06:52Z,skillpack-lint,0.1.0,dycshow <dycshow@users.noreply.github.com>,MIT,68641,"Lint, test and package agent skills (SKILL.md-based capability packs)"
+2026-10-23T08:07:21Z,promptregress-cli,0.1.0,dycshow <dycshow@users.noreply.github.com>,MIT,151434,"pytest for prompts - turn LLM prompts into versioned, regression-testable cases"
+2026-10-23T08:07:50Z,knowop,0.1.0,"""rekursiv.ai"" <hello@rekursiv.ai>",Apache-2.0,868387,"Log in to KnowOp, connect your computer, and run your agents and GPU jobs where Chat can reach them."
+2026-10-23T08:08:40Z,orislop,0.1.0,,Apache-2.0,63023,Typed synchronous and asynchronous client for the Orislop Enterprise API
+2026-10-23T08:09:05Z,ivoryos-edge,0.1.1,,Apache-2.0,3092927,IvoryOS Edge Server
+2026-10-23T08:16:30Z,scirs,0.1.3,YJ-Niu,,118424767,"Fundamental algorithms for scientific computing in Python, built on rsnumpy"
+2026-10-23T08:16:53Z,all-abt-ntu-mcp,0.1.0b1,pitchaya-s,MIT,322570,"MCP server for NTU schedules, learning, maps, research, faculty, library, news, and campus services"
