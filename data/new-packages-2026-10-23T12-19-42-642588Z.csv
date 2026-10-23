@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T11:04:23Z,run-malo,0.1.0,,,29485,Hy-like Lisp interpreter
+2026-10-23T11:18:41Z,universalmotif,0.1.0,Benjamin Jean-Marie Tremblay,MIT,22292444,"Sequence motif manipulation and analysis, a Python port of universalmotif"
+2026-10-23T11:19:45Z,pykeynote,0.2.0,Kevin McAleer,MIT,2287480,"Create, read and edit Apple Keynote presentations from Python"
+2026-10-23T11:28:07Z,beastxpy,0.1.0,ZengZichao <zengzichao@sjtu.edu.cn>,MIT AND LGPL-2.1-only,41476455,"A Python framework for reproducible BEAST 1 divergence-time estimation with automated model specification, validation and diagnostics (LGPL-2.1 applies only to the bundled BEAST jars)"
+2026-10-23T11:31:00Z,rohit-utils,0.1.0,,MIT,3143,Reusable Python utility library
+2026-10-23T11:31:20Z,mofmotion,0.1.2,,MIT,110200,Structural motion analysis for flexible metal-organic frameworks
+2026-10-23T11:33:16Z,cad3d-ir-sldprt,0.2.1,neka-nat,PolyForm-Noncommercial-1.0.0,46363,SOLIDWORKS part (SLDPRT) importer for cad3d-ir through sldkit's saved display meshes
+2026-10-23T11:34:33Z,blare,0.1.0,Blare contributors,Apache-2.0,150452,"Production failures to Slack, Discord and Teams. One line of setup, no server, no spam."
+2026-10-23T11:37:28Z,FastSpine,1.0.1,Aleksandar Pavlovic <sleker@gmail.com>,MIT,235937,"FastAPI framework with a service-repository architecture, dependency injection, Redis caching and SQLAlchemy, Celery and Alembic integration."
+2026-10-23T11:41:11Z,uk-building-math,1.0.0,BuildingCosts UK Engineering Team <contact@buildingcosts.co.uk>,MIT,9222,"Mathematical constants and material calculation models for UK construction, BS 8500, and RICS reinstatement benchmarks."
+2026-10-23T11:43:28Z,truepeoplesearch-scraper,0.1.0,Buğrahan Saka,MIT,24854,"Scrape TruePeopleSearch.com profile pages (name, age, address, phones, emails, aliases, relatives) with Python."
+2026-10-23T11:48:34Z,nonebot-plugin-morningpaper,0.3.2,PeachCoda,MIT,20802,NoneBot2 群聊早报插件，支持 RSS、浙江宣传、农历标题及来源开关。
+2026-10-23T11:49:07Z,meetwave-stream,0.1.0,,MIT,22391,"MeetWave streaming client: live English text over WebSocket, the full transcript at stop."
+2026-10-23T11:52:30Z,scalableCrystals,1.0.0,Prakhar Gandhi <gprakhar0@gmail.com>,MIT,5245,My Python package related to scaling cration of crystals
+2026-10-23T11:53:30Z,onsokets,0.1.0,,MIT,5847,
+2026-10-23T11:54:20Z,mibare,0.1.0,Hasan Sezer Taşan <hasansezertasan@gmail.com>,MIT,143702,Mise Backend Resolver: recommends which mise backend to install a GitHub repository with
+2026-10-23T11:59:43Z,glacierdb,0.1.0,OpenGlacier contributors,MIT,55803,Python driver for glacierdb (og-core)
+2026-10-23T12:04:32Z,multigarch,0.3.0,Anna Smirnova,MIT,44562,"Simple Multivariate GARCH models (DCC, CCC) for Python"
+2026-10-23T12:04:58Z,nlpeasykit,0.2.1,,,37775,Runnable NLP coursework examples and explained answers
+2026-10-23T12:05:40Z,analytics-platform,0.2.1,steviec87,MIT,107172,"Firewall, error monitoring and server analytics for your Python server, run from your analytics dashboard."
+2026-10-23T12:06:42Z,talkops-ai,0.3.0b12,,,19225616,"Autonomous Multi-Agent Framework for Software & Infrastructure Coding, Cloud Operations, DevOps, SRE, FinOps & Event-Driven Automation"
+2026-10-23T12:06:44Z,clanker-wallet,0.1.0,Clanker Wallet Contributors,MIT,34728,Python SDK for Clanker Wallet — E2E encrypted transaction approval for AI agents
+2026-10-23T12:06:55Z,aioebus,0.1.0,dneprojects <dne.projects.1@gmail.com>,Apache-2.0,86028,Standalone async eBUS library (decode-first). No ebusd daemon required.
+2026-10-23T12:06:59Z,py-code-extractor,0.1.0,py_extractor authors,MIT,139324,"Extract a self-contained, single-file copy of a class or function from a remote repository, transitively vendoring only the code it actually needs."
+2026-10-23T12:07:04Z,smriprep-freesurfer732-data-04,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),91277102,"FreeSurfer 7.3.2 files, part 4 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-23T12:07:24Z,smriprep-freesurfer732-data-05,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),57622029,"FreeSurfer 7.3.2 files, part 5 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-23T12:07:33Z,jsonschema2rdf,1.0.0,Mathias Vanden Auweele,EUPL-1.2,56359,"Generates OWL, SHACL shapes and SKOS concepts from JSON Schema, with the mapping model of xsd2rdf"
+2026-10-23T12:07:48Z,smriprep-freesurfer732-data-06,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),70458629,"FreeSurfer 7.3.2 files, part 6 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-23T12:08:14Z,smriprep-freesurfer732-data-07,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),86584143,"FreeSurfer 7.3.2 files, part 7 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-23T12:09:20Z,skdev-codesearch-mcp,1.0.0,SK-DEV-AI,MIT,214239,"Code, package, docs and paper search MCP server for AI agents (17 tools)"
+2026-10-23T12:09:23Z,skdev-websearch-mcp,1.0.0,SK-DEV-AI,MIT,412980,Multi-engine web search + fetch MCP server for AI agents (10 tools)
+2026-10-23T12:11:09Z,skillfuse,0.1.0,SkillFuse contributors,Apache-2.0,273525,"Supply-chain security for AI agent skills: scan, infer capabilities, detonate, sign, lock, and broker."
+2026-10-23T12:15:17Z,novasia-proptech,0.1.0,Dmitrii Kuznetsov,,15302,"Real estate financial modeling, net yield auditing, and statutory property compliance engine for Southeast Asia."
+2026-10-23T12:15:46Z,lfx-aistupidlevel,0.1.0,AI Stupid Level <hello@aistupidlevel.info>,MIT,25474,"AI Stupid Level Smart Router for Langflow: a model provider and a component that send each request to the model that scores best for the task, with your own provider keys."
+2026-10-23T12:16:14Z,griiist,0.1,Roger Howard,Apache-2.0,80107,"Harvest IIIF collections into ML-ready datasets (HuggingFace, WebDataset, parquet)."
+2026-10-23T12:17:35Z,kaiten-cli,0.3.3,Viktor Ognev,,1022193,LLM-oriented CLI for Kaiten

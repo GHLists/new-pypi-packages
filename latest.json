@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-10-23T10:18:57.969379Z",
-    "path": "data/new-packages-2026-10-23T11-18-46-97251Z.csv",
-    "to": "2026-10-23T11:18:46.97251Z"
+    "count": 36,
+    "from": "2026-10-23T11:18:46.97251Z",
+    "path": "data/new-packages-2026-10-23T12-19-42-642588Z.csv",
+    "to": "2026-10-23T12:19:42.642588Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-23T09:25:27Z",
       "package": "MathZX",
       "since": "2026-10-23T09:21:17.557223Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-23T09:25:18Z",
       "package": "odoo-addon-project-task-manual-progress",
       "since": "2026-10-23T09:21:17.557223Z",
@@ -22,27 +22,27 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-23T11:04:23Z",
-      "package": "run-malo",
-      "since": "2026-10-23T10:18:57.969379Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
-      "created_at": "2026-10-23T09:42:21Z",
-      "package": "sap-odata-cli",
-      "since": "2026-10-23T09:21:17.557223Z",
+      "created_at": "2026-10-23T12:08:27Z",
+      "package": "odoo_addon_product_margin_report_sale_margin",
+      "since": "2026-10-23T11:18:46.97251Z",
       "version": null
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-23T11:18:41Z",
-      "package": "universalmotif",
-      "since": "2026-10-23T10:18:57.969379Z",
+      "created_at": "2026-10-23T12:06:45Z",
+      "package": "odoo_addon_website_recaptcha_v2_form",
+      "since": "2026-10-23T11:18:46.97251Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
+      "created_at": "2026-10-23T09:42:21Z",
+      "package": "sap-odata-cli",
+      "since": "2026-10-23T09:21:17.557223Z",
       "version": null
     }
   ],
-  "serial": 42638680,
+  "serial": 42641002,
   "source_truncated": false,
-  "window": "2026-10-23T11:18:46.97251Z"
+  "window": "2026-10-23T12:19:42.642588Z"
 }
