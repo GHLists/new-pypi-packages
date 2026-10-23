@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T16:59:25Z,codemindai-api,1.0.1,FWKTechnologies,Proprietary,4839973,Run trained CodeMind code-intelligence models - from Python or as an OpenAI-compatible API server
+2026-10-23T17:21:35Z,moodle-mcp-connector,0.1.1,Teci,MIT,102794,An MCP server that connects AI agents to Moodle through its REST web services.
+2026-10-23T17:27:55Z,katalyst-taxonomy-tui,2.0.1a4,eSimplicity,Proprietary,77488,Terminal UI for katalyst-taxonomy
+2026-10-23T17:30:13Z,mediaquery-cli-tool,1.0.2,Sabarish <sabarishdevaraju@gmail.com>,,3050,MediaQuery is a wrapper for mediainfo tool
+2026-10-23T17:30:39Z,messh-sdk,0.1.0,Mukul Lohar,Apache-2.0,46167,"Sign and verify HTTP requests as a messh identity (Web Bot Auth, RFC 9421, Ed25519)"
+2026-10-23T17:30:59Z,tokedy,0.1.0,"""Tokedy, Inc."" <support@tokedy.ai>",Apache-2.0,21960,Official Python library and command-line tool for Tokedy AI compute.
+2026-10-23T17:32:03Z,mf-ardon,4.0.0,Timur Tursunov,Apache-2.0,30391,MF Ardon v4.0 — Cloud SDK for Zero-Forgetting AI Memory (port 8001) and 1C/E-Commerce Matrix Optimization (port 8000)
+2026-10-23T17:32:34Z,ronviz-fastclient,0.1.0,Ron Weisenstern,,11160,Add your description here
+2026-10-23T17:33:37Z,nhl-contracts,0.1.0,Matt Ehlers,MIT,216353,"Open, provenance-first dataset of NHL player contracts built from official public sources (NHL.com club releases and staff stories, ESPN's transaction wire)."
+2026-10-23T17:36:45Z,route-verdict-mcp,0.1.1,Jobfile Studio,MIT,28343,MCP server for RouteVerdict — pay-per-call x402 endpoint trust checks over x402 ($0.05 USDC on Base)
+2026-10-23T17:36:49Z,token-verdict-mcp,0.1.1,Jobfile Studio,MIT,25434,MCP server for Token Verdict — pay-per-call token risk verdicts over x402 ($0.02 USDC on Base)
+2026-10-23T17:36:54Z,list-smith-mcp,0.1.1,Jobfile Studio,MIT,33100,MCP server for ListSmith — pay-per-call x402 listing grades and repairs over x402 ($0.10 / $0.50 USDC on Base)
+2026-10-23T17:42:36Z,arielspatial,0.1.0a14,Tien-Thanh Bui,MIT,40153,Spatial multiomics integration.
+2026-10-23T17:44:44Z,agentic-terminal-wiz,0.1.2,wisdomnwachukwu <wisdomnwex1404@gmail.com>,,5024,An MCP which adds terminal capabilities to an agent.
+2026-10-23T17:47:32Z,coana,0.0.1,Nguyen Truong Co,MIT,5489,"CoAna: which oligomers mattered, and why. Lineage-resolved analysis of protein aggregation in molecular dynamics. (Name reservation; first functional release is 3.6.0.)"
+2026-10-23T17:50:47Z,canvasxpress-dashboards,0.1.0,Isaac Neuhaus,MIT,589959,"Linked, multi-panel CanvasXpress dashboards in Python: Jupyter, Dash, Streamlit, Flask. Render a dashboards spec, or build a whole dashboard from a DataFrame."
+2026-10-23T17:50:53Z,intent-recognition,0.1.0,你的名字,MIT,66257,中文文本断句 + 情绪识别 + VAD 分析
+2026-10-23T17:55:16Z,zarr-template,0.1.0,,,8246,Implementation of the template extension for chunk key encoding in zarr v3
+2026-10-23T17:55:46Z,pycrefine,1.1.1,Saheb,MIT,316195,A Python .pyc decompiler for educational purposes
+2026-10-23T17:56:00Z,rl-pricing,0.5.0,Bicheng Wang,MIT,340728,"A reproducibility lab for trading AI: causal backtests, a live forward-test track and a pre-open decision ledger for RL, LLM and forecasting policies."
+2026-10-23T17:57:48Z,isha-rawat-2432725,1.0.0,Isha Rawat,,2888,"Python library by Isha Rawat, Roll Number 2432725"
+2026-10-23T17:59:43Z,tablint,0.1.0b1,"""Aftaab Siddiqui (MaskedSyntax)"" <aftaab@aftaab.xyz>",MIT,175296,"A library for dataset quality checks, preprocessing, and report generation"
+2026-10-23T18:00:44Z,jhb-dataclean,0.1.0,Josue Hormiga,Apache-2.0,49019,"Data cleaning functions for pandas: columns, text, types, missing values, duplicates and outliers."
+2026-10-23T18:00:55Z,soundous-regression-simple,0.1.0,Soundous,,4596,A simple student score prediction model
+2026-10-23T18:01:12Z,NeoShell,2.2,burgerkayson,,32483,light and fast shell for windows
+2026-10-23T18:02:24Z,detekface,0.1.0,Abishek,MIT,93881,"A reliable, beginner-friendly Python face detection package powered by YuNet and OpenCV"
+2026-10-23T18:04:27Z,benchwarmers,0.2.1,Wendell Research,MIT,1340195,"Self-hosted panel gateway for LLMs: ask a collection of models at once, keep every answer side by side, rotate explorer models in, and let your verdicts pick the next panel."
+2026-10-23T18:06:16Z,scarnox,0.1.0,,MIT,13067,"Official Python client for the Scarnox captcha-solving API: one call, one token, pay only for successful solves."
+2026-10-23T18:07:11Z,tiss,0.4.0a1,Voa Health,Apache-2.0,2466595,Biblioteca Python offline para validar e operar documentos TISS.
+2026-10-23T18:11:15Z,mcp-win-stdio-arch,0.3.0,Mohan Kumar Indala,MIT,24098,"Universal Architecture Knowledge Graph & Blueprint Model Context Protocol (MCP) server for full-stack codebases (Next.js, NestJS, Drizzle, PostgreSQL/MySQL)."
+2026-10-23T18:11:35Z,sdbt,0.1.0,,,2102,Add your description here
+2026-10-23T18:11:46Z,sqlmesh-hardcharger,1.0.0,Philip Moore <philip@gizmodata.com>,Apache-2.0,338637,Hardcharger engine adapter for SQLMesh
+2026-10-23T18:12:11Z,publinker-cli,0.6.2,Martech-DM,Proprietary,43236,"Command line for Publinker: sites, reports, floors and config."
+2026-10-23T18:13:09Z,zeroCEP,1.0.0,ZeroDayDev <zerodaydev@cyber.io>,,9620,⚡ ZeroDayDev // VBS to Standalone Hidden EXE Compiler
+2026-10-23T18:14:27Z,stashkit,0.1.0,,,27184,A CLI tool for eliminating repetitive computer tasks.
+2026-10-23T18:14:58Z,periferias-geoconverter,0.1.1,,,65733,Conversão de dados geoespaciais (PMTiles e outros formatos)
+2026-10-23T18:15:12Z,stats3,0.1.0,Rigoberto Leyva Salmeron,MIT,154403,"R's statistical tests on Polars, for Polars, pandas and tidy3 data, with R's results"
+2026-10-23T18:16:27Z,paperclip-agent,0.1.0,,,69293,Local personal assistant
+2026-10-23T18:16:44Z,hatch-index-utils,0.1.0,Leonardo Furnielis <leonardofurnielis@outlook.com>,Apache-2.0,21844,This library contains common utilities used across various packages.
+2026-10-23T18:17:16Z,guideforge,0.1.0,,MIT,49197,Mechanically-checked production pipeline for AI-written travel guides
+2026-10-23T18:18:00Z,jax-sn,0.1.0,Timo Bogaarts,MIT,312703,JAX-based Discrete Ordinates
