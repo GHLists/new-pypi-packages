@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T02:21:46Z,pixtreme-transport-nvenc,0.1.3,,MIT,67990,NVENC encoder library for pixtreme transport modules
+2026-10-23T02:21:55Z,verl-hyperlight,0.1.0,The Hyperlight Authors,Apache-2.0,52170,Run verl's code-reward test cases in local Hyperlight micro-VMs
+2026-10-23T02:28:50Z,pydatamind,0.1.0rc1,Zhongsheng Chen <zhongsheng.chen@bankgy.com.cn>,Apache-2.0,1447929,开放式模型服务管理平台
+2026-10-23T02:28:52Z,github-practice-ai,1.1.1,,MIT,21958,"Senior production-ready AI SDK - frozen AIConfig, semaphore 3, TTL cache, RAG, Agent, Tracing, Orchestrator, Swarm, GuardedEval - built mobile-first on Termux"
+2026-10-23T02:32:23Z,operx-cli,0.1.0,,,67538,"La línea de comandos de OperX: tu empresa desde la terminal, con tu token de API."
+2026-10-23T02:36:24Z,proof-of-steer,0.1.0,,MIT,189830,"Local tool that turns an AI coding session or a document's git history into a steering receipt and a steerprint, a map of which parts the human shaped, so a reviewer can price their attention. Steere…"
+2026-10-23T02:39:01Z,picklebase-mcp,2.3.0,PickleBase & AEORank Open Lab,MIT,2424,"Official Python SDK & MCP Client for PickleBase (https://picklebase.app) — 3D Pickleball Biomechanics, Kinetic Chain & USA Pickleball 2026 Rulebook."
+2026-10-23T02:39:02Z,aeorank-geo-mcp,2.1.0,PickleBase & AEORank Open Lab,MIT,1824,"Official Python SDK & CLI for AEORank (https://aeorank.app) — Live Technical SEO, AEO & Generative Engine Optimization (GEO-62) Diagnostic API."
+2026-10-23T02:41:14Z,edgar-transport-contracts,0.1.0,,LicenseRef-Proprietary,477904,"Producer-owned EDGAR wire contracts: closed vocabularies, bridge v3, KPI driver rows and typed refs shared across the edgar_updater to ai-excel-addin boundary"
+2026-10-23T02:43:56Z,ed-discussion-mcp,0.1.1,GalacticQuasar,MIT,28589,Read-only MCP server that lets AI agents search and read your Ed Discussion (edstem.org) courses
+2026-10-23T02:50:34Z,thermoslop,0.2.1,John Martell,MIT,115649,"Unofficial local HomeKit control for ecobee thermostats: CLI, MCP server, Omarchy bar widget"
+2026-10-23T02:51:41Z,tinyorch,0.0.1,Murilegus,MIT,2980,"A tiny, zero-dependency orchestrator for single-node streaming pipelines."
+2026-10-23T02:55:17Z,obaaf,0.1.0,"Ofonna Nweze, Osita Sean Keluo-Udeke",Apache-2.0 AND CC-BY-4.0,293023,Open Build and Agent Assurance Framework: build-pipeline and AI-agent assurance tools (draft)
+2026-10-23T02:57:09Z,masaudit,0.1.0,Hossam Atef <hossam9k@gmail.com>,Apache-2.0,291480,A free mobile security scanner that scales its advice to your app's risk profile.
+2026-10-23T02:57:43Z,safepatch,0.1.1,Matheus Braga <contato@matheusbraga.dev>,MIT,3899900,"Ferramenta CLI de auditoria e comparação de pacotes Java/compactados (.jar, .war, .zip) com detecção de conflitos e diff descompilado"
+2026-10-23T02:58:33Z,luckylucy.utils.eastereggs,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,11922,A collection of utilities I use across different projects (luckylucy.utils.eastereggs)
+2026-10-23T02:58:37Z,luckylucy.utils.eastereggs.quotes,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,13282,A collection of utilities I use across different projects (luckylucy.utils.eastereggs.quotes)
+2026-10-23T02:58:40Z,luckylucy.utils.encoding,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,9734,A collection of utilities I use across different projects (luckylucy.utils.encoding)
+2026-10-23T02:58:43Z,luckylucy.utils.exceptions,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,11668,A collection of utilities I use across different projects (luckylucy.utils.exceptions)
+2026-10-23T03:00:05Z,mm-auto,0.1.0,Chandler,MIT,123508,基于 DrissionPage 的脉脉(maimai.cn)自动化工具包：企业搜索、加好友、发消息
+2026-10-23T03:01:12Z,midigas,26.10.22,Alex Lev <alexlev61@proton.me>,Apache-2.0,4631845,HeartCodec RVQ token-level style transfer
+2026-10-23T03:02:53Z,virtual-plc,0.3.0,greatgc-flow,MIT,130451,Local Mitsubishi MC protocol PLC simulator with configurable response faults
+2026-10-23T03:04:55Z,xihan-framework,0.0.1,XiHanFun,MIT,8001,"XiHan Framework SDK for Python: primitives, manifest, invocation context, pipeline and plugin runtime (placeholder release; implementation planned)."
+2026-10-23T03:06:57Z,fastapi-sentinel,1.0.0,Alessandro David Polanco,MIT,664098,"Threat-detection middleware for FastAPI: rate limiting, brute-force/credential-stuffing detection, and refresh-token replay protection, with an audit trail."
+2026-10-23T03:07:11Z,caplinks,0.0.2,Thor Whalen,MIT,25148,"Capability links: an unguessable token, an optional password gate, expiry, revocation and attempt limits. Standard library only."
+2026-10-23T03:07:18Z,cauthy,0.1.0,Vennet,Apache-2.0,138476,"Cauthy for Python backends: verify access tokens and webhooks, check permissions, and manage a system's organizations."
+2026-10-23T03:07:47Z,crosswatch,0.1.0,crosswatch contributors,Apache-2.0,141826,"Unified observability for DATA and AI products — wraps and composes best-in-class OSS (OpenTelemetry, Great Expectations, Evidently, DeepEval/Ragas) behind one plugin-driven API."
+2026-10-23T03:08:14Z,netweavex,1.1.1,,BSD-3-Clause,4010269,Python package for creating and manipulating graphs and networks
+2026-10-23T03:08:48Z,ai-device-fs,0.2.0,,MIT,99684,MCP filesystem server using FastMCP
+2026-10-23T03:10:41Z,ai-device,0.2.2,,MIT,202040,Explicit-device operation service and reconnecting Python CLI client
+2026-10-23T03:19:13Z,agent-seed-brain,0.1.0,hhx465453939,CC-BY-NC-SA-4.0,131566,"Compile any domain into an unbiased, incrementally-updatable seed index for AI agents. Zero dependencies."
