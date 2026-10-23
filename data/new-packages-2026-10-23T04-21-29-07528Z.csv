@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T03:23:37Z,qowa,0.1.0,Qowa contributors,MIT,13581,Small cross-platform Python utility library
+2026-10-23T03:27:00Z,formalsw,0.3.0,,,585987,Prove properties of Python source code with Lean
+2026-10-23T03:28:42Z,apgi-framework,1.1.0,Dimitry Pesochin <dimitry@apgiframework.com>,MIT,107125,Allostatic Precision-Gated Ignition (APGI): a computational framework for consciousness research
+2026-10-23T03:29:07Z,sentry-viewercontext,0.1.0,Sentry <oss@sentry.io>,FSL-1.1-ALv2,18067,Caller identity propagated between Sentry services
+2026-10-23T03:30:08Z,pygcp-rm,0.1.0,Wenjie Wang <wenjiew001@gmail.com>,MIT,141512,PyGCP: Gaussian-copula-process reverberation-mapping lag inference
+2026-10-23T03:32:08Z,my-first-tool-unique-name,0.1.0,,MIT,2194,A simple Python calculator package
+2026-10-23T03:36:39Z,combined-residue-census-shim,1.0.0,TextForAgents LLC,MIT,7044,Creation-ledger shim for Combined Residue Census: records MCP tasks and subscriptions at birth with pre-call dedupe.
+2026-10-23T03:37:08Z,anyx,0.1.0,sic,MIT,123347,"Use X (Twitter) from any browser, as any of your accounts, from the command line or Python. No API keys."
+2026-10-23T03:37:58Z,pdf-form-proof,0.1.0,EssenceAlignment,MIT,35793,"Fill fillable PDF forms, then prove every value is visible on the rendered page. MCP server and CLI."
+2026-10-23T03:44:50Z,veqen-pricebook,2026.10.22,"Keyveve, Inc.",MIT,71604,"Dated AI model prices, cache rates and billing rules, with no tracking dependencies."
+2026-10-23T03:45:11Z,channel-boundary,1.0.0,,Copyright (c) 2026 TextForAgents LLC. All rights reserved. Proprietary software of TextForAgents LL…,6569,Receiver-boundary wrapper for Channel-Bound Delegation Receipts: stamps the actual arrival channel at the receiver (TextForAgents LLC).
+2026-10-23T03:45:13Z,yamlstar-plugin-parser-rapidyaml,0.1.4,Ingy döt Net,MIT,419272,RapidYAML parser plugin for YAMLStar
+2026-10-23T03:47:11Z,proprio,0.1.2,,Proprietary,63931674,"Exact, drop-in inference engine for vision-language-action robot policies"
+2026-10-23T03:47:33Z,lerobot-policy-proprio,0.1.1,ZenEdgeX <hello@zenedgex.in>,MIT,16495,Proprio for LeRobot: faster policy ticks with actions bit-identical to the original
+2026-10-23T03:48:48Z,chanto,0.0.0,,Apache-2.0,1747,"Name reserved for Chanto, a coding agent that checks its own work. Real releases coming soon."
+2026-10-23T03:48:50Z,chanto-sdk,0.0.0,,Apache-2.0,1793,"Name reserved for Chanto, a coding agent that checks its own work. Real releases coming soon."
+2026-10-23T03:57:06Z,sdmxlib-cli,0.72.0,gabrielgellner,Apache-2.0,7092,sdmxlib from the command line: check SDMX bundles
+2026-10-23T04:03:01Z,parquet-guard,0.3.0a1,Jingye Liu <liujingye@users.noreply.github.com>,Apache-2.0,293785,"High-performance, zero-data-scan Parquet schema contract & drift detection guard for data pipelines, MLOps, and CI/CD."
+2026-10-23T04:05:49Z,focus-feed,1.1,,,363305,"A local RSS/Atom feed generator for audio, HTML and PDF files"
+2026-10-23T04:06:24Z,chiranjeev-toolkit,1.0.0,Chiranjeev,MIT,18235,"A tiny, dependency-free Python toolkit with math, text and statistics helpers, plus a beautiful terminal UI."
+2026-10-23T04:07:32Z,cc-sessions-man,0.0.1,j,MIT,131845,List Claude Code sessions and whether each is done or waiting on you
+2026-10-23T04:09:20Z,my8amvtslib,1.0.0,VTS,MIT,1526,My first Python library
+2026-10-23T04:11:55Z,claude-desktop-importer,0.1.0,Leeiio,MIT,43329,"Bring Claude Code CLI sessions into the Claude Desktop sidebar, with real titles and the right order."
+2026-10-23T04:16:26Z,langchain-veqen,1.0.0,,MIT,7597,"LangChain and LangGraph callback for AI usage costs, customer attribution and Veqen budgets."
