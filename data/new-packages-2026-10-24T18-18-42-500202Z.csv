@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T17:20:28Z,norvara-oligo-stats,1.0.0rc1,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,104179,PCR primer and oligonucleotide analysis with no third-party dependencies
+2026-10-24T17:21:49Z,omop-concept-grounding,0.3.1,,,232258,Agent-facing instructions and contracts for verified OMOP concept grounding.
+2026-10-24T17:27:24Z,ntu-cool-cli,1.3.2,Gary Xie <gary.1020.xie@gmail.com>,MIT,61806,"Read-only CLI for NTU Cool: course announcements, course files, handouts, and submission status."
+2026-10-24T17:29:09Z,fortresscodeai-kali,1.1.0,,,9097,Governed operator engine
+2026-10-24T17:33:19Z,replicaverse,0.0.1,The REPLICA Team,MIT,2409364,Evaluation suite for computational psycholinguistics
+2026-10-24T17:33:53Z,roman-wheel-node,1.2.0,"Jason Wilson, SynerGro.AI",MIT,236497,"Exact-copy gate + learning, append-only Bayesian source weighting for filtering agent claims."
+2026-10-24T17:35:40Z,tinyocr-onnx,0.1.0,Maureese Williams,Apache-2.0,5484119,Offline CPU OCR with 3.10 MB of bundled PaddleOCR-derived ONNX models
+2026-10-24T17:36:55Z,wireworld,0.0.1,Vytautas Liuolia <vytautas.liuolia@gmail.com>,Apache-2.0,5445,A playground for Wireworld and related cellular automata
+2026-10-24T17:38:28Z,parmana-verifier,0.1.0,,Apache-2.0,26677,Offline verifier for Parmana Execution Trust Records (Python).
+2026-10-24T17:40:50Z,moduleai-test,0.1.3,Package Author,MIT,7605,A small collection of text utilities with a command-line interface
+2026-10-24T17:40:56Z,zanii-certify,0.5.0,Zanii <info@zanii.agency>,Apache-2.0,360788,"Build and verify Zanii Certify certificates for AI agents: fingerprints, signed certificates, status documents, test suites and the certify command line tool."
+2026-10-24T17:42:18Z,Libreria-Cursos-Academia-Hack4U,0.0.1,JotaBWF,,4582,Una biblioteca para consultar los cursos de la academia Hack4U.
+2026-10-24T17:46:10Z,neissai,1.4.0,Subash Kumar,MIT,202150,"AI-assisted national injury estimates from NEISS emergency department narratives: consistent e-bike and e-scooter counts across product-code changes, with survey-correct confidence intervals."
+2026-10-24T17:47:34Z,settled-x402,0.1.0,Settled <developer@settled.tools>,MIT,93945,"Check an x402 quote against Settled's independent evidence before your agent pays, and hold it to a spending limit."
+2026-10-24T17:51:36Z,ri-layercake,0.1.0,Banu Munnangi,MIT,200560,Turn reinsurance programmes into presentation-ready towers and editable PowerPoint slides.
+2026-10-24T17:54:10Z,redagent,0.1.0,RedAgent Architecture Team,Apache-2.0,98171,AI Agent Security & Automated Red Teaming Platform
+2026-10-24T17:55:38Z,fastanim,0.1.2,,MIT,295225750,"Animated math and code scenes, recorded once and played anywhere"
+2026-10-24T17:59:42Z,arcane-mcp,0.2.0,Dan Kelly,MIT,435657,"Persistent memory for AI coding agents, shared across every project and harness."
+2026-10-24T18:01:59Z,fringelab,0.0.1,Andreas Axelsson <andreas.axelsson@androscientia.com>,Proprietary,20362,"An environment for optomechanical experimentation at interferometric precision: FP64 reference ray tracing, assemblies, experiments and tolerancing."
+2026-10-24T18:02:01Z,pym4,1.0.0,Peter Jan Randewijk,GPL-3.0-or-later,56833,A GNU m4 1.4 compatible macro processor in pure Python
+2026-10-24T18:03:11Z,comment-scraper-haystack,0.1.0,Super Lede <hello@comment-scraper.com>,MIT,35783,"Haystack converter for Reddit and Hacker News threads exported with Comment Scraper: one Document per comment, [cN] numbers kept. Reads local JSON files, makes no network requests."
+2026-10-24T18:04:47Z,pppic,1.0.0,Peter Jan Randewijk,BSD-2-Clause,58309,"A dpic-compatible PIC processor in pure Python, producing PSTricks (dpic -p)"
+2026-10-24T18:05:35Z,ses-complaint-report,1.1.1,Yoni Ryabinski <cigan1@gmail.com>,MIT,1301298,"Self-hosted, refreshable dashboard for Amazon SES complaint and deliverability posture"
+2026-10-24T18:05:52Z,pyeforms,0.1,Open Risk,MIT,8022,A simple Python tool to convert eForms notices to xlsx
+2026-10-24T18:05:54Z,zxcvbn-pl,0.1.0,Michał Pasternak <m@iplweb.pl>,MIT,1077552,"Polish dictionaries (common words, first and last names) for zxcvbn password strength estimation."
+2026-10-24T18:07:13Z,m4cmpy,4.0.0,Peter Jan Randewijk,GPL-3.0-or-later,50219,"Standalone PDF, PNG, JPG, SVG and EPS figures from M4 Circuit Macros, using only Python and a TeX distribution"
+2026-10-24T18:07:50Z,scikit-learn-lab,0.1.0,DAML Practical Notes,MIT,46711265,A simple menu-based viewer for DAML practical notes and source documents
+2026-10-24T18:08:00Z,peekseed,0.1.0,peekseed contributors,MIT,641870,Local-first AI research framework over your own documents
+2026-10-24T18:08:52Z,nva.recipe.rocket,0.1.0,Novareto <ck@novareto.de>,ZPL-2.1,29912,"zc.buildout extension: build develop eggs in parallel, without build isolation, and reuse unchanged ones"
+2026-10-24T18:09:54Z,yoga1290.emailtable,0.1.0,,,15480,Pulls and sends emails (IMAP & SMTP) and outputs CSV table and text files.
+2026-10-24T18:16:20Z,mf-core,0.1.0,Timur,MIT,39806,Клиентский SDK платформы MF Core: псевдонимизация данных 1С и рекомендации по ценам и ассортименту
