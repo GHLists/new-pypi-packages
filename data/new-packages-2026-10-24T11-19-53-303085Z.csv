@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T10:20:02Z,xsocket,2.1.1,pr!de,MIT,27587,"WebSocket client and server for Python (asyncio), compatible with xSocket for Node.js and the browser"
+2026-10-24T10:26:38Z,yoru,0.1.0,,,5591450,"yoru, distributed as a prebuilt binary"
+2026-10-24T10:28:14Z,fkyh,0.1.0,cyber-bollox <341154877+cyber-bollox@users.noreply.github.com>,Apache-2.0,727175,"Reference implementation of the FK YH protocol: agent discovery, gossip headers, and independently verifiable attestations."
+2026-10-24T10:29:48Z,aether-conpty,0.2.0,,MIT,136774,A Windows Python console runtime with an independent terminal GUI
+2026-10-24T10:31:57Z,flits-video,0.2.0,,MIT,22628,"Python wrapper for the flits video renderer: build scenes as dicts, render them with the flits CLI"
+2026-10-24T10:33:13Z,symphonix,1.0.1,thisisforlearn,GPL-3.0-or-later,101546,"Find, play, download and use public-domain classical music in your terminal - with animated composer art, a reactive equalizer, playlists and a quiz mode."
+2026-10-24T10:40:51Z,skool-api-mcp,1.0.4,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,291652,Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T10:40:54Z,substack-api-mcp,1.0.4,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,194309,Self-hosted Substack API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T10:40:59Z,milanote-api-mcp,1.0.4,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,156547,Self-hosted Milanote API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T10:43:24Z,manigent-daemon,0.1.4,,MIT,110021,Connects one computer to Manigent so its agents can be seen and controlled from the web
+2026-10-24T10:43:44Z,manigent,1.3.1,,MIT,7832562,Agent runner for manigent multi-agent collaboration
+2026-10-24T10:43:48Z,booksy-api-mcp,1.0.4,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,167292,Self-hosted Skool API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T10:43:56Z,bookingkoala-api-mcp,1.0.4,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,142858,Self-hosted BookingKoala API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T10:43:58Z,fresha-api-mcp,1.0.4,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,141481,Self-hosted Fresha API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T10:45:42Z,manigent-server,0.1.0,,BUSL-1.1,30266966,The Manigent HTTP + WebSocket server
+2026-10-24T10:48:13Z,orca-cli-sdk,0.1.0,Prem Chotepanit,MIT,297025,Typed Python SDK (sync and asyncio) for the Orca CLI
+2026-10-24T10:48:19Z,stillwright,0.1.1,Hamza Ilyas,MIT,2652875,"sw, the state keeper for the Stillwright agent skills: goals, runs, inbox, dated notes, hash-pinned tools"
+2026-10-24T10:49:59Z,witnessory,0.2.3,Witnessory <witnessory@gmail.com>,Apache-2.0,37237,"Witnessory from your code or agent: check a site's post-quantum readiness, read the observatory's record, see the probe map; an MCP server for agents."
+2026-10-24T10:50:06Z,daniil-pkg-777,0.1.0,Daniil <daniil@email.com>,MIT,2181,My sample project
+2026-10-24T10:50:27Z,witnessory-probe,0.4.3,,Apache-2.0,85523,"Measure how far the internet has moved to post-quantum cryptography, from your network"
+2026-10-24T10:51:03Z,simplibs-cli,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,80913,"The small, repeatable parts of a command-line program that talks to a person: prompts that ask again until the answer is usable, a check whether anybody can answer, option lists, failure summaries an…"
+2026-10-24T10:52:37Z,copykat-studio,0.6.7,,Elastic-2.0,42768886,"CopyKat Studio by Oso: copy the style of a reel, story, post or TikTok and make it with your own photos and texts; download videos in the quality you want."
+2026-10-24T10:54:24Z,veilgate,0.1.1,Veilgate Authors,MIT,794195,Local-First Zero-Trust MCP Privacy Firewall & Context-Diet Gateway
+2026-10-24T10:55:16Z,lucerna-mcp,0.3.4,Repository Maintainers <maintainers@knuckles.team>,MIT,89059,OpenSearch API + MCP Server for Agentic AI!
+2026-10-24T10:59:32Z,aiosynologysrm,0.1.0,eizedev <oss@eize.dev>,MIT,35058,"Async Python client for the Synology Router Manager (SRM) Web API - read-only, typed, for mesh and standalone setups"
+2026-10-24T10:59:49Z,mobile-store-scraper,0.1.0,Nitro4CSR,MIT AND GPL-3.0-or-later,522991,"Async Google Play + Apple App Store scraper with reliable versions (incl. 'Varies with device' app bundles), unified UTC update dates and every storefront country."
+2026-10-24T11:01:11Z,mcp-notion-bridge,0.1.0,Shaheer Ul Hassan <contact@shaheerulhassan.com>,MIT,30812,Lightweight Model Context Protocol (MCP) bridge and hybrid sync engine connecting Notion workspaces with AI agents and vector RAG pipelines.
+2026-10-24T11:01:19Z,netsunhinged,0.1.0,Jan-Benedikt Weiss,MIT,576642,"Is your net unhinged? Rigid-body / hinge flexibility analysis of framework materials (MOFs, ZIFs, zeolites)"
+2026-10-24T11:06:13Z,uc-picker,2.2.0,,MulanPSL-2.0,5587914,Generate hardware simulation interfaces for multiple programming languages
+2026-10-24T11:07:24Z,zipcheck,0.1.0,zipcheck contributors,MIT,151698,Static zip-bomb and archive-bomb detector that never extracts anything
+2026-10-24T11:09:37Z,hello-127,0.1.1,Go Nakamaru,MIT,35483,Carry TCP over a container's standard streams to a service on the Mac's loopback
+2026-10-24T11:13:48Z,ais-identity,0.1.0,Alpin Insight Solutions GmbH & Co. KG,Apache-2.0,114317,"Framework-free Python core for Alpin Insight Identity Control Plane (ICp): verified claims, access decisions, token client and node evaluation."
+2026-10-24T11:14:09Z,todoist-takeout,0.1.0,,MIT,450337,"Keeps a complete, long-term readable local backup of a Todoist account."
+2026-10-24T11:14:36Z,naxplorer,0.0.1,,MIT,2194,Renamed: NAxplorer is now NAPxplorer (pip install napxplorer)
+2026-10-24T11:17:45Z,ais-identity-django,0.1.0,Alpin Insight Solutions GmbH & Co. KG,Apache-2.0,55535,"Django app for Alpin Insight Identity Control Plane (ICp): session access context, decorators, mixins and DRF permissions over the ais-identity core."
+2026-10-24T11:17:47Z,ais-identity-fastapi,0.1.0,Alpin Insight Solutions GmbH & Co. KG,Apache-2.0,29340,FastAPI dependencies for Alpin Insight Identity Control Plane (ICp): bearer verification and access requirements over the ais-identity core.
