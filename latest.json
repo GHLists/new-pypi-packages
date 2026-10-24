@@ -1,62 +1,69 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-10-24T19:18:37.481208Z",
-    "path": "data/new-packages-2026-10-24T20-19-23-10217Z.csv",
-    "to": "2026-10-24T20:19:23.10217Z"
+    "count": 27,
+    "from": "2026-10-24T20:19:23.10217Z",
+    "path": "data/new-packages-2026-10-24T21-19-41-08362Z.csv",
+    "to": "2026-10-24T21:19:41.08362Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-24T17:54:56Z",
       "package": "EmailTable",
       "since": "2026-10-24T17:18:38.411058Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-24T20:12:02Z",
       "package": "maf-sandbox-shell",
       "since": "2026-10-24T19:18:37.481208Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-24T19:38:51Z",
       "package": "mlc-llvm-static-all-targets",
       "since": "2026-10-24T19:18:37.481208Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-24T20:01:13Z",
       "package": "nemo-db",
       "since": "2026-10-24T19:18:37.481208Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-24T21:19:40Z",
+      "package": "peachycheck",
+      "since": "2026-10-24T20:19:23.10217Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-24T17:52:47Z",
       "package": "peekseek",
       "since": "2026-10-24T17:18:38.411058Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-24T17:28:00Z",
       "package": "retico-dart",
       "since": "2026-10-24T17:18:38.411058Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-24T20:01:03Z",
       "package": "tree-sitter-gql",
       "since": "2026-10-24T19:18:37.481208Z",
       "version": null
     }
   ],
-  "serial": 42698797,
+  "serial": 42700696,
   "source_truncated": false,
-  "window": "2026-10-24T20:19:23.10217Z"
+  "window": "2026-10-24T21:19:41.08362Z"
 }

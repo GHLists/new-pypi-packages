@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T20:24:54Z,pydantic-ai-withruntime,0.1.0,Runtime LLC,Apache-2.0,19208,"Runtime sandboxes as a Pydantic AI toolset: shell, files and listings in a Firecracker microVM"
+2026-10-24T20:28:05Z,x402-paid-checks,0.1.0,,MIT,34727,"LangChain and CrewAI tools for x402 pay-per-call domain, email, vendor-safety, ransomware and invoice checks, paid in USDC from your own wallet"
+2026-10-24T20:28:33Z,vexscan,0.2.1,Dishant Desle,Apache-2.0,189167,Agent-first red team framework for AI systems - probe LLMs and tool-using agents for safety failures and prompt-injection vulnerabilities.
+2026-10-24T20:30:36Z,maskerade,0.1.0,Timotei Adamec,Apache-2.0,602473,"Local masking proxy that replaces client data in pentest prompts and HTTP traffic before it reaches the Anthropic API, and restores it in the reply"
+2026-10-24T20:30:42Z,sharketo-sdk,0.1.14b3,,MIT,251622,"Server-side Sharketo Python client for cache-only Dealer Exposures, BTC/ETH current crypto inventory, prices, Index Inventory, Seasonality, curated Volatility, RRG and CTA Flow"
+2026-10-24T20:30:53Z,annotators,0.1.0,annotators,MIT,18109,Python client for annotators.ai: human review for any model output
+2026-10-24T20:31:18Z,annotators-mcp,0.1.0,annotators,MIT,11779,MCP server for annotators.ai: let agents request human review of their own output
+2026-10-24T20:32:10Z,pingme-ntfy,0.1.0,Javier Sempere,EUPL-1.2,19146,"Send a push notification to your phone with a single ping() call, using ntfy."
+2026-10-24T20:33:03Z,rocket-seds-zoheir,1.0.0,Zoheir,LICENSE.txt,6112,A small package to simulate rockets and shuttles
+2026-10-24T20:38:11Z,repo-reader-mcp,0.1.0,Aleksei Veselov,Apache-2.0,208752,"A read-only MCP server for code in git repositories — files, branches, history, diffs, blame and search — for any MCP client and any code host."
+2026-10-24T20:39:51Z,candguard,0.1.0,CandGuard contributors,MIT,46037,A lightweight quality gate for entity-resolution candidate generation
+2026-10-24T20:40:44Z,vibe2knob,0.2.0,the vibe2knob authors,Apache-2.0,1939106,An open-source producer mate: turns subjective asks like 'wider' or 'trippier' into steps with Live's stock devices.
+2026-10-24T20:42:43Z,forgetgate,0.0.2,Samuel Medeiros,Apache-2.0,3235,Checkpoint-level forgetting meter (capability drift) for LLM fine-tuning
+2026-10-24T20:44:36Z,mlc-llvm-static-extra-targets,23.1.1,,Apache-2.0 WITH LLVM-exception,165355960,Additional LLVM backends for the matching mlc-llvm-static SDK
+2026-10-24T20:45:57Z,frenet-planner,1.0.0,Shuo Sun,Apache-2.0,23886789,"Fast sampling-based Frenet trajectory planners (FOP, FISS, FISS+) for autonomous driving"
+2026-10-24T20:54:25Z,akiki,0.0.1,Akiki AI,Apache-2.0,1938341,Local streaming voice activity detection with Akiki VAD
+2026-10-24T20:55:02Z,inventor-mcp-server,0.3.0,inventor-mcp contributors,MIT,65475,"MCP server for parametric 3D modeling in Autodesk Inventor (parts, sheet metal, assemblies)"
+2026-10-24T20:55:59Z,document-evidence-lab,0.1.0a1,Viet Phung,MIT,44416,"Local PDF evidence and validation, with an optional authenticated Java platform SDK"
+2026-10-24T20:57:46Z,quantkit-rs,0.2.0,Harikrishna Paykatt Valliaparambil,MIT OR Apache-2.0,1781276,"Options pricing, Greeks, implied volatility, Monte Carlo, vol surfaces and risk metrics (Rust core)."
+2026-10-24T20:57:53Z,qf-verify,0.3.0,Query Fanout,Apache-2.0,49613,Offline verifier for Query Fanout tamper-evident AI agent audit evidence bundles and evidence packs
+2026-10-24T21:00:57Z,rayan-regression-model,0.1.0,,,1070,
+2026-10-24T21:02:31Z,ftask,0.1.0,TurboKast Ltd,MIT,138169,"A human-in-the-loop task inbox for AI coding agents: hand the human exact steps, get notified when they are done."
+2026-10-24T21:03:36Z,rust-bpe-tokenizer,0.1.2,zzzigrok <zzzigrok@gmail.com>,MIT,3572774,High-performance Rust BPE Tokenizer for Python & Tolstoy-CLI
+2026-10-24T21:06:10Z,abnt-mcp,0.2.0,Pedro Henrique da Silva Novais,MIT,179288,"ABNT Copilot MCP - Servidor Model Context Protocol definitivo para elaboração, revisão e compilação de TCCs, dissertações e artigos no padrão ABNT"
+2026-10-24T21:13:37Z,dopememe,0.1.0a1,Patrick Higgins,,40436,"dope.meme for Python, and the dopememe CLI: find meme templates, fill them, get images and permanent URLs."
+2026-10-24T21:17:14Z,canfar-lab,0.7.0,Simon Fabbro <simon.fabbro@nrc-cnrc.gc.ca>,"MIT License Copyright (c) 2026 Sébastien Fabbro Permission is hereby granted, free of charge, to an…",1280566,In-session workbench and workload CLI extensions for the CANFAR Science Platform
+2026-10-24T21:19:21Z,umea-energi-api-client,0.1.0,Magnus Klingenberg,MIT,871105,Unofficial async Python client for the Umeå Energi API
