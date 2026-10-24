@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T14:56:39Z,wow-navmesh,1.0.1,srounet,MIT,2381448,Python bindings for Detour (recastnavigation) navmesh pathfinding over TrinityCore/AzerothCore mmaps
+2026-10-24T15:27:30Z,westata,0.0.2,,"MIT License Copyright (c) 2026 westata contributors Permission is hereby granted, free of charge, t…",1104736,Stata-conformant econometrics with a statsmodels-style API
+2026-10-24T15:27:54Z,gink-ai,0.2.0,Gink AI,MIT,13002,"Gink in your terminal: ask, chat, search the web and make images with your Gink API key."
+2026-10-24T15:28:43Z,harmonic-llm,0.3.0,aifeifei798 <aifeifei798@gmail.com>,Apache-2.0,43086,Acoustic Dynamic Resonance Suppression and Harmonic Wave-Shaping for Transformer Latent Manifolds.
+2026-10-24T15:30:28Z,sack-cli,0.5.0,Sadaqat Ali,GPL-3.0-or-later,61249,Lightweight source-context extractor for AI-assisted software development
+2026-10-24T15:31:07Z,metrogym,0.1.1,Larry Lin,MIT,549951,"Build and control metro simulations with explicit, typed pipelines."
+2026-10-24T15:31:09Z,agent-comfy-ui-api-workflow,0.0.1,Fabio Antonio Astore <astore.a.fabio@gmail.com>,MIT,418158,"Async LangChain agent on Claude that builds, edits and validates ComfyUI API workflows."
+2026-10-24T15:31:16Z,fifty-one-prime,0.1.2,,MIT,4322,Is 51 prime?
+2026-10-24T15:31:56Z,somanyfacts,0.2.0,,AGPL-3.0-only,402260,"Layered factbases for organizations, accessed by agents"
+2026-10-24T15:33:45Z,taskpilot,0.1.0,rebel,MIT,347614,"Fast, dependency-free workflows and AI agents for Python: plain functions wired by name, parallel by default, with retries, checkpoints, Ollama/OpenAI clients, MCP and A2A."
+2026-10-24T15:34:44Z,python-fotoware-client,0.2.1,Michael Hoppe,MIT,62722,"A thin, honest client for the FotoWare API: one call, one request; refuses queries FotoWare would answer wrongly; counts what each request costs"
+2026-10-24T15:38:19Z,id2pdf,0.1.0,anaisoob <anaisoob@tutamail.com>,GPL-3.0-or-later,4661849,Scan both sides of an ID card onto one A4 page as a PDF; the card may lie anywhere on the scanner glass
+2026-10-24T15:38:36Z,idscanner,0.1.0,anaisoob <anaisoob@tutamail.com>,GPL-3.0-or-later,293582,"Scan both sides of an ID card onto one A4 PDF at its real size, in a small desktop app"
+2026-10-24T15:39:18Z,excel-chart-echarts,1.0.2,妙妙鱼 / fishstormX <stormnetwork@163.com>,MIT,1299360,"Convert embedded native Excel charts (DrawingML in .xlsx/.xlsm/.xltx/.xltm) into Apache ECharts options — not whole-workbook charting; TypeScript & Python, zero-dependency, with CLI"
+2026-10-24T15:39:49Z,ai-pitcrew,0.0.1,Athul Krishna,MIT,2204,"A CLI for setting up AI coding tools in new and existing projects, with security controls built in. In early development."
+2026-10-24T15:40:25Z,horizon-theme-daemon,0.9.0,joshiggins,Apache-2.0,851286,Daemon theme for the OpenStack dashboard
+2026-10-24T15:44:56Z,kalshieye,0.2.1,,MIT,22379,"Download Kalshi Eye flat files (order book, book snapshots, top of book, bars, trades, spot, markets, settlements) and load them into pandas or Polars."
+2026-10-24T15:45:06Z,rulestamp-payroll-deduction-code-audit,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34211,"Twelve rules over the deduction-code map, before the January 31 W-2 filing date (bundled Node.js runtime)"
+2026-10-24T15:45:24Z,rulestamp-pci-payment-page-script-audit,0.1.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35746,"PCI DSS 4.0.1 requirements 6.4.3 and 11.6.1 have been mandatory since 2025-03-31, and the PCI SSC revised FAQ 1331 on 2026-08-04 so a QSA agreement alone no longer marks them not applicable. This rea…"
+2026-10-24T15:45:41Z,rulestamp-sv-rechengroessen-lint-2026,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34737,"Findet in Lohn- und HR-Konfigurationsdateien jede Zeile, in der ein deutscher Sozialversicherungs-Wert aus 2025 steht, und nennt den ab 2026-01-01 gültigen Wert. (bundled Node.js runtime)"
+2026-10-24T15:45:45Z,cryptodome-lab,0.1.0,,,13551156,Menu-based viewer for original cryptography practical materials
+2026-10-24T15:45:58Z,rulestamp-bnpl-disclosure-lint-ccd2,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35306,22 rules that read your checkout template the way a CCD2 supervisor will from 20 November 2026. (bundled Node.js runtime)
+2026-10-24T15:46:52Z,teamsync-cluster,0.1.0,TeamSync,Proprietary,24344,Verified licensed TeamSync kit bootstrap
+2026-10-24T15:47:35Z,alasio,2.0.0,LmeSzinc,,1577221,Mobile game bot framework abstracted from AzurLaneAutoScript and StarRailCopilot
+2026-10-24T15:51:38Z,curry-frontend,2.0.0.post5,,BSD-3-Clause,11274630,The Curry to FlatCurry front end shipped with PAKCS 3.4.1
+2026-10-24T15:52:22Z,newsindex,0.1.0,Shakir Adeyemi Tewogbade,MIT,40704,Build news-based Economic Policy Uncertainty (EPU) indices from newspaper archives.
+2026-10-24T15:52:39Z,reflex-google-analytics-reactjs,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,MIT,63259,"Google Analytics 4 for Reflex, powered by react-ga4: config file, automatic SPA page views, consent mode v2, typed GA4 events and ecommerce helpers from Python"
+2026-10-24T16:05:28Z,health-code,0.1.0,,,23483,"Small helpers for preparing rounded, masked mortality tables for disclosure review."
+2026-10-24T16:05:40Z,DefEssential,0.1.6,Heo Yongseon,,1176688,The Modern Synchronous Python Web Application Framework
+2026-10-24T16:06:01Z,anointedautomation-sso,0.1.0,"Anointed Automation, LLC.",MIT,71096,"Sign in with Anointed Automation: a server-side OpenID Connect kit (auth code + PKCE) for Python, with Django, FastAPI/Starlette and Flask adapters."
+2026-10-24T16:10:19Z,lc-crusher,0.1.0,,,74837,"lc (LeetCode Crusher): pick an unsolved problem, borrow a community Python solution, verify it, submit it."
+2026-10-24T16:10:27Z,chert-sdk,0.1.0,,MIT,79857,Explicit synchronous iMessage and FaceTime control-plane clients
+2026-10-24T16:10:50Z,ferrifuzz,0.2.1,Parsa Bordbar <parsab71@gmail.com>,Apache-2.0,2730424,"High-performance fuzzy logic for Python, powered by a Rust core: Mamdani, Sugeno, interval type-2, and fuzzy time series."
+2026-10-24T16:11:38Z,bin-dec-conversions,0.1.1,Marco Salvatore Tornabene <tornabenemarco56@gmail.com>,MIT,11382,Convert between binary and decimal from Python or the command line
+2026-10-24T16:14:19Z,rag-verifier,0.1.0,,,230654,"Chunk-level quality verification for RAG ingestion: independence, completeness, traceability, semantic independence, template completeness"
+2026-10-24T16:16:33Z,lore-solo,0.1.0,,MIT,304966,Governed persona and skill context for a solo developer’s coding agent.
+2026-10-24T16:17:07Z,pygrpc-native,0.1.0,,Apache-2.0,4099255,A gRPC server in Rust that hands calls to Python handlers in batches
