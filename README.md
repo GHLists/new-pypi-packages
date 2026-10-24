@@ -8,34 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 08:18 UTC
+## Latest list — 2026-10-24 09:20 UTC
 
-New packages created between 2026-10-24 07:18 UTC and 2026-10-24 08:18 UTC.
+New packages created between 2026-10-24 08:18 UTC and 2026-10-24 09:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-24T08-18-46-635291Z.csv)
+[Full CSV](data/new-packages-2026-10-24T09-20-15-504017Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-24 07:19:46 | [scrapemend](https://pypi.org/project/scrapemend/) | 0.0.1 | FengYue427 | 30.5 kB | Self-healing web scraping for Python. Describe what you want in plain language;… |
-| 2026-10-24 07:31:52 | [tree-sitter-asl](https://pypi.org/project/tree-sitter-asl/) | 0.1.0 | Connor Sample <tabulatejarl8@… | 904.8 kB | ACPI Source Language |
-| 2026-10-24 07:32:24 | [rtfm-mcp](https://pypi.org/project/rtfm-mcp/) | 0.8.0 | Canlin Zhang | 73.1 kB | Read The Full Manual — local document-corpus search MCP server. |
-| 2026-10-24 07:44:58 | [tessera-gw](https://pypi.org/project/tessera-gw/) | 1.0.1 | tessera contributors | 330.7 kB | Telescope-agnostic gravitational-wave follow-up engine: host-galaxy ranking, fe… |
-| 2026-10-24 07:46:22 | [gbc-scene-forge](https://pypi.org/project/gbc-scene-forge/) | 0.1.0 |  | 118.0 kB | Local browser scene editor with game-owned connectors |
-| 2026-10-24 07:51:02 | [faultshield](https://pypi.org/project/faultshield/) | 0.1.0 | Hamidreza <h4midrezam@gmail.c… | 47.6 kB | Lightweight, zero-dependency resilience and fault-tolerance toolkit for Python. |
-| 2026-10-24 07:51:56 | [ocpp-csms](https://pypi.org/project/ocpp-csms/) | 0.1.0 | Dr-Blank <64108942+Dr-Blank@u… | 79.0 kB | asyncio OCPP 1.6J central system for local control of EV chargers |
-| 2026-10-24 07:56:32 | [squealang](https://pypi.org/project/squealang/) | 0.1.0 | pwtail <abvit89s@gmail.com> | 93.8 kB | Gleam-like language for the BEAM with Python syntax |
-| 2026-10-24 07:56:43 | [padspeaker](https://pypi.org/project/padspeaker/) | 0.1.0 | Ahmed Elmalt | 341.8 kB | Play your Linux machine's sound on the built-in speaker of a Bluetooth DualShoc… |
-| 2026-10-24 07:58:13 | [darth-vader-139389142](https://pypi.org/project/darth-vader-139389142/) | 0.0.1 | egor <egorsova7@gmail.com> | 6.1 kB | modul, and all |
-| 2026-10-24 07:59:03 | [pycacheforge](https://pypi.org/project/pycacheforge/) | 0.1.0 | Hamidreza <h4midrezam@gmail.c… | 55.5 kB | Lightweight, zero-dependency caching, tiered storage, and cache stampede protec… |
-| 2026-10-24 08:00:52 | [napxplorer](https://pypi.org/project/napxplorer/) | 1.0.0 | Shrikant | 1.1 MB | NAPxplorer: Structural Analysis, Quantum Energetics & 3D Visualization of Nucle… |
-| 2026-10-24 08:01:39 | [mcp-idprobe](https://pypi.org/project/mcp-idprobe/) | 0.1.0 | hao li <haoli5933@gmail.com> | 39.9 kB | Runtime probe for MCP cross-tenant response leaking via JSON-RPC id collision (… |
-| 2026-10-24 08:02:28 | [swarm-tree](https://pypi.org/project/swarm-tree/) | 0.5.0 | hao li | 125.3 kB | Hierarchical multi-agent orchestration: a tree of LLM agents, each node backed… |
-| 2026-10-24 08:05:15 | [portcheck-tool](https://pypi.org/project/portcheck-tool/) | 0.10.0 | Royston D | 32.1 MB | See what's using a port and free it safely: which process, who started it, stop… |
-| 2026-10-24 08:08:08 | [hawkes-engine](https://pypi.org/project/hawkes-engine/) | 0.1.0 | Freddy Shi Chun Cheung | 3.9 MB | Multi-dimensional Hawkes process library with trust calibration |
-| 2026-10-24 08:08:26 | [fuaran-ui-data](https://pypi.org/project/fuaran-ui-data/) | 0.0.2 | "Andrew J. Willshire" <andrew… | 1.4 MB | Data-science companion to the Fuaran UI Python host — dataframe adapters (panda… |
-| 2026-10-24 08:09:42 | [pytaskmesh](https://pypi.org/project/pytaskmesh/) | 0.1.0 | Hamidreza <h4midrezam@gmail.c… | 39.7 kB | Lightweight, zero-dependency directed acyclic graph (DAG) task orchestration an… |
-| 2026-10-24 08:09:48 | [genplis](https://pypi.org/project/genplis/) | 1.0.0 | Fidel Ramos <contact.gyldd@8s… | 420.8 kB | Generate M3U music playlists from tags and user-defined filters |
-| 2026-10-24 08:10:53 | [tempstick-mcp](https://pypi.org/project/tempstick-mcp/) | 0.1.0 |  | 17.2 kB | Temp Stick MCP server by OpenPandora — let your AI assistant check your freezer… |
-| 2026-10-24 08:14:31 | [livequill](https://pypi.org/project/livequill/) | 0.2.0 |  | 191.0 kB | A floating prompt bar for any local website: any model (API, local or CLI agent… |
-| 2026-10-24 08:15:13 | [flask-integration](https://pypi.org/project/flask-integration/) | 0.2.2 | Olof Tjerngren <olof@tjerngre… | 302.5 kB | A small framework for building integrations in Flask apps: key-authenticated AP… |
-| 2026-10-24 08:17:34 | [ivralo](https://pypi.org/project/ivralo/) | 0.0.1 | aitnus | 3.1 kB | AI agents that investigate, verify and repair production incidents inside close… |
+| 2026-10-24 08:21:56 | [jobsearchradar](https://pypi.org/project/jobsearchradar/) | 1.1.1 |  | 1.6 MB | 每日自动更新的中国校招/实习/社招岗位开放数据集（PyPI 包名 jobsearchradar，命令 jobradar）：CLI + MCP + Skill，… |
+| 2026-10-24 08:22:01 | [hk-ipo-kit](https://pypi.org/project/hk-ipo-kit/) | 0.0.2 | zhkhhdbs | 10.6 kB | A small Python toolkit for Hong Kong IPO research: subscription calendar and tr… |
+| 2026-10-24 08:24:53 | [kestrel-pi](https://pypi.org/project/kestrel-pi/) | 0.3.2 |  | 436.2 kB | On-device plugin host, web dashboard, and learning-agent runtime for the Kestre… |
+| 2026-10-24 08:24:59 | [beamtime](https://pypi.org/project/beamtime/) | 0.0.1 | hummerichsander | 3.2 kB | Agents-first experiment logging: runs with hypotheses, results and agent-built… |
+| 2026-10-24 08:25:07 | [jeeg](https://pypi.org/project/jeeg/) | 2.6.0 | asrbmy | 629.2 kB | Type a task in plain words and it runs. No AI model, no account, no cloud: 400+… |
+| 2026-10-24 08:31:22 | [pirlo](https://pypi.org/project/pirlo/) | 0.1.1 |  | 540.8 kB | Declarative DAG runner for typed Python plays |
+| 2026-10-24 08:34:16 | [dcskit](https://pypi.org/project/dcskit/) | 0.1.1 |  | 2.7 kB | A Python toolkit for reference snippets and scientific computing |
+| 2026-10-24 08:45:45 | [docs-drift](https://pypi.org/project/docs-drift/) | 0.1.0 |  | 4.2 MB | Find evidence-backed drift between repository documentation and code. |
+| 2026-10-24 08:48:18 | [padsquire](https://pypi.org/project/padsquire/) | 0.1.0 |  | 536.8 kB | PadSquire: Linux tools for GameSir controllers |
+| 2026-10-24 08:48:41 | [pi-durable-python](https://pypi.org/project/pi-durable-python/) | 1.3.0 | Armando Pesenti Gritti | 1.0 MB | Python port of @earendil-works/pi-durable v1.3.0 |
+| 2026-10-24 08:58:00 | [radcalnet-oc](https://pypi.org/project/radcalnet-oc/) | 1.0.0 | Tristan Harmel <tristan.harme… | 28.9 MB | Processor to simulate top-of-atmosphere radiance signal above AERONET-OC sites |
+| 2026-10-24 09:00:43 | [restad](https://pypi.org/project/restad/) | 0.1.0 | Matteo Redaelli | 55.7 kB | Read-only REST interface over the msad Active Directory library |
+| 2026-10-24 09:04:12 | [tdxlocal](https://pypi.org/project/tdxlocal/) | 0.1.0 | mengyiheng | 22.6 kB | 通达信本地二进制行情数据（.day / .lc1 / .lc5）读写库，零依赖 |
+| 2026-10-24 09:14:13 | [slopsentry](https://pypi.org/project/slopsentry/) | 0.1.0 | Rajeshr-developer <rajeshr.de… | 106.5 kB | Check packages for slopsquatting before they are installed. |
+| 2026-10-24 09:14:19 | [modelly-abm](https://pypi.org/project/modelly-abm/) | 1.0.0 | Rémi Pelloux, Modelly contrib… | 10.1 MB | Agent-based modeling (ABM) framework for Python: typed scenarios, seeded reprod… |
+| 2026-10-24 09:15:02 | [tala-ai](https://pypi.org/project/tala-ai/) | 3.0.0 | Achintha Bandara | 284.1 kB | Local, OS-agnostic desktop AI assistant: YAML tool packs, LangGraph agent, Olla… |
+| 2026-10-24 09:15:55 | [circle-of-confusion](https://pypi.org/project/circle-of-confusion/) | 0.3.0 | olivebowl <olivebowl@noreply.… | 34.0 MB | Calculator for Circle of Confusion (CoC) to calculate the size in pixels of an… |
+| 2026-10-24 09:18:22 | [tile-identity-resolver](https://pypi.org/project/tile-identity-resolver/) | 0.1.0 |  | 14.1 kB | Resolve Tile identities from FEED service data without Bluetooth dependencies |
+| 2026-10-24 09:18:33 | [boltscraper](https://pypi.org/project/boltscraper/) | 1.0.0 | Bolt Scraper Team <support@bo… | 27.4 kB | Official Python SDK for Bolt Scraper — Extract business leads, reviews, and dir… |
+| 2026-10-24 09:19:31 | [formatjet](https://pypi.org/project/formatjet/) | 0.1.0 | Taprobane Labs | 198.9 kB | Convert documents, images, data and PDFs with the FormatJet API. |

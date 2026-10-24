@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T08:21:56Z,jobsearchradar,1.1.1,,MIT,1630073,每日自动更新的中国校招/实习/社招岗位开放数据集（PyPI 包名 jobsearchradar，命令 jobradar）：CLI + MCP + Skill，让 AI agent 直接查询（零服务器、可离线）
+2026-10-24T08:22:01Z,hk-ipo-kit,0.0.2,zhkhhdbs,MIT,10562,A small Python toolkit for Hong Kong IPO research: subscription calendar and true entry-fee calculation.
+2026-10-24T08:24:53Z,kestrel-pi,0.3.2,,GPL-3.0-or-later,436170,"On-device plugin host, web dashboard, and learning-agent runtime for the Kestrel Wi-Fi capture device"
+2026-10-24T08:24:59Z,beamtime,0.0.1,hummerichsander,,3166,"Agents-first experiment logging: runs with hypotheses, results and agent-built report pages."
+2026-10-24T08:25:07Z,jeeg,2.6.0,asrbmy,MIT,629205,"Type a task in plain words and it runs. No AI model, no account, no cloud: 400+ everyday tasks that work offline."
+2026-10-24T08:31:22Z,pirlo,0.1.1,,,540804,Declarative DAG runner for typed Python plays
+2026-10-24T08:34:16Z,dcskit,0.1.1,,,2682,A Python toolkit for reference snippets and scientific computing
+2026-10-24T08:45:45Z,docs-drift,0.1.0,,MIT,4222649,Find evidence-backed drift between repository documentation and code.
+2026-10-24T08:48:18Z,padsquire,0.1.0,,AGPL-3.0-or-later,536813,PadSquire: Linux tools for GameSir controllers
+2026-10-24T08:48:41Z,pi-durable-python,1.3.0,Armando Pesenti Gritti,MIT,1004340,Python port of @earendil-works/pi-durable v1.3.0
+2026-10-24T08:58:00Z,radcalnet-oc,1.0.0,Tristan Harmel <tristan.harmel@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",28884859,Processor to simulate top-of-atmosphere radiance signal above AERONET-OC sites
+2026-10-24T09:00:43Z,restad,0.1.0,Matteo Redaelli,GPL-3.0-or-later,55660,Read-only REST interface over the msad Active Directory library
+2026-10-24T09:04:12Z,tdxlocal,0.1.0,mengyiheng,MIT,22643,通达信本地二进制行情数据（.day / .lc1 / .lc5）读写库，零依赖
+2026-10-24T09:14:13Z,slopsentry,0.1.0,Rajeshr-developer <rajeshr.developer@gmail.com>,MIT,106494,Check packages for slopsquatting before they are installed.
+2026-10-24T09:14:19Z,modelly-abm,1.0.0,"Rémi Pelloux, Modelly contributors",Apache-2.0,10101875,"Agent-based modeling (ABM) framework for Python: typed scenarios, seeded reproducible runs, numpy-backed agents, grids, networks, continuous space, discrete-event time, pandas data collection and bro…"
+2026-10-24T09:15:02Z,tala-ai,3.0.0,Achintha Bandara,Apache-2.0,284091,"Local, OS-agnostic desktop AI assistant: YAML tool packs, LangGraph agent, Ollama."
+2026-10-24T09:15:55Z,circle-of-confusion,0.3.0,olivebowl <olivebowl@noreply.codeberg.org>,,34006789,"Calculator for Circle of Confusion (CoC) to calculate the size in pixels of an area, used for depth of field processing."
+2026-10-24T09:18:22Z,tile-identity-resolver,0.1.0,,MIT,14082,Resolve Tile identities from FEED service data without Bluetooth dependencies
+2026-10-24T09:18:33Z,boltscraper,1.0.0,Bolt Scraper Team <support@boltscraper.com>,MIT,27358,"Official Python SDK for Bolt Scraper — Extract business leads, reviews, and direct emails from Google Maps and websites without bans."
+2026-10-24T09:19:31Z,formatjet,0.1.0,Taprobane Labs,MIT,198875,"Convert documents, images, data and PDFs with the FormatJet API."
