@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-23T23:22:13Z,quietos-sentinel,0.1.0,,MIT,28906,"Sentinel — DeanWay Labs' inbound governor. Guards what an AI agent hears: content from the world is data, never orders."
+2026-10-23T23:24:38Z,repocraft,0.4.0,Furkan,MIT,99225,Deterministic Python project scaffolding from a validated spec.
+2026-10-23T23:29:56Z,nativelayout,1.2.0,Adilson C. Rafael,MPL-2.0,133394,"Create native interfaces from HTML, in any language. Python core and Kivy host."
+2026-10-23T23:31:21Z,agent-egress-guard,0.1.0,Dragon Lady,Apache-2.0,51257,"Local, best-effort egress observation for coding-agent sessions."
+2026-10-23T23:35:26Z,canvod-filemap,1.0.0,Nicolas François Bader,Apache-2.0,33827,Naming recipes that map non-canonical GNSS-T filenames to canVOD names
+2026-10-23T23:36:22Z,seedpack,0.1.0,NeuroSquad,Apache-2.0,5377653,Lossless GPU archiver for GGUF model repositories: the BF16 model and all its quants in one archive about the size of a single compressed BF16 file
+2026-10-23T23:37:32Z,canvod-airflow,1.0.0,Nicolas François Bader,Apache-2.0,24768,Airflow DAG definitions for canvodpy GNSS-T pipelines
+2026-10-23T23:37:57Z,mcphee,0.1.0,David Gwartney,MIT,40405,"Interactive MCP client CLI — connect to any MCP server via stdio, SSE, or HTTP"
+2026-10-23T23:38:36Z,obdlink-ble,0.1.0,OBDLink BLE contributors,MIT,20323,Read-only OBDLink BLE UART snapshots and advertisement-driven arrival detection
+2026-10-23T23:39:11Z,canvod-adapters,1.0.0,Nicolas François Bader,Apache-2.0,38106,Bidirectional data adapters between canvodpy and third-party GNSS-VOD tools
+2026-10-23T23:39:50Z,sparrow-decider,0.2.0,Vivek Raja P S <vivek@sparrowdecider.com>,Apache-2.0,6679917,"Decision models from 47 MB down to a few KB: yes/no, pick-one and score questions in milliseconds on CPU and microcontrollers. numpy only."
+2026-10-23T23:42:26Z,realitydiff,0.4.0,,,159005,Git for beliefs — living claims that watch the internet and version confidence.
+2026-10-23T23:48:33Z,mygrid-modbus,0.1.0,mygrid-modbus contributors,MIT,81048,Typed async Modbus TCP client for MyGrid ModuleTwo home batteries
+2026-10-23T23:48:43Z,mygrid-voltbridge,0.3.0,mygrid-voltbridge contributors,MIT,32146,Typed async HTTP client for the MyGrid VoltBridge P1 meter
+2026-10-23T23:50:29Z,argus-atlas,0.1.0a1,smk762,MIT,543834,"Bake georeferenced fantasy-map overlay tiles from real terrain: GDAL controls from a DEM, restyled through a cartography LoRA, stamped back to a GeoTIFF and PMTiles archive"
+2026-10-23T23:51:25Z,k-uncanny,0.1.1,Frank Chan,MIT,63508,CLI tool that detects AI-generated text with sentence-level scoring and multiple detection strategies
+2026-10-23T23:51:29Z,s3pe,0.1.0,"André Leite <leite@castlab.org>, Marcos Wasiliew <marcos.wasiliew@gmail.com>, Hugo Vasconcelos <hug…",MIT,6351161,"Read, write, list and delete objects on s3.pe.gov.br (the Garage object store of Pernambuco) or any S3-style store: read_s3, write_s3 and friends, with SigV4 signing, retries and integrity checks in…"
+2026-10-23T23:51:33Z,lynote-ai,0.1.1,Open Source Contributors,MIT,19839,Local explainable CLI for AI-generated text risk analysis; adapted from Lynote.
+2026-10-23T23:51:40Z,houtini-ai,1.0.2,Richard Baxter,MIT,37080,Per-sentence AI-text detection with pattern diagnostics — CLI.
+2026-10-23T23:52:18Z,isabelle-block,0.1.2,András Salamon <Andras.Salamon@st-andrews.ac.uk>,MIT,51478,"Mechanical block surgery on Isabelle theory sources: move, copy, delete, rewrite and substitute inside regions named by line span or by entry name."
+2026-10-23T23:53:33Z,driven-pile,0.1.0,Lorne Arnold,GPL-3.0-or-later,335021,Long-term capacity of driven piles from the pile-driving log: a pore-pressure-tracking inversion of blow counts.
+2026-10-24T00:01:50Z,noxlang,1.0.0,Adebayo Ayomide Stephen,,12142,A plain English automation and AI agent language.
+2026-10-24T00:10:32Z,typeout,0.1.0,Prasanna Reddy,MIT,12875,"Simulate keystrokes to type text into remote desktops, VMs, or paste-blocked inputs."
+2026-10-24T00:18:32Z,sigring,0.1.0,Matteo Pozza <metapozza@proton.me>,PolyForm-Noncommercial-1.0.0,281336,"Exact, streaming, sliding-window truncated path signatures in a wrapping integer ring (Python bindings)."
