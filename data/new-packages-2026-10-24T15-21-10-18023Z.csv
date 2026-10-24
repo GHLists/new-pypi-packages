@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T13:49:35Z,whatsapp-total-recall,0.1.4,,,163875,"A Zero-Cost, Privacy-First Conversational Intelligence Engine for WhatsApp (macOS)"
+2026-10-24T14:21:35Z,ysbrowser-sdk,0.11.1,,,32139423,"Versioned sync and async Python SDK for YSbrowser context configuration, diagnostics and mouse trajectories"
+2026-10-24T14:24:53Z,aya-simple-linear-regression,0.1.0,AYA_ASSAL,,3757,A simple linear regression model implemented from scratch
+2026-10-24T14:25:36Z,wesay,0.0.1,NortGh COMPANY .Inc,MIT,2359,"A module that prints on screen what any kind of animal can say like dogs, cows...etc"
+2026-10-24T14:27:41Z,axg,0.4.0,,Apache-2.0,133166,Agent Execution Guard: deterministic control plane for safe AI agent execution.
+2026-10-24T14:27:43Z,axg-python-sdk,0.4.0,,Apache-2.0,28353,Official Python SDK for Agent Execution Guard (AXG) token verification.
+2026-10-24T14:29:18Z,ovn,0.1.0,Alban Siffer <31479857+asiffer@users.noreply.github.com>,Apache-2.0,48582,Python ORM for Open Virtual Network
+2026-10-24T14:30:05Z,i2c-drivers,0.1.4,Dmitri Priimak <priimak@gmail.com>,,13106,Drivers implementing i2c_api
+2026-10-24T14:30:19Z,fastpython-native,0.1.0,FastPython Team,,43915,AOT Hardware-Adaptive Native Machine Code Compiler for Python
+2026-10-24T14:30:28Z,photo-organizer-mcp,0.3.0,Tamwai,MIT,66707,MCP (Model Context Protocol) server for photo-organizer: organize photos/videos by date with a safe preview+confirm workflow.
+2026-10-24T14:30:28Z,spiritcode,0.1.0,,,110926,Терминальный кодинг-агент для SpiritLM
+2026-10-24T14:31:35Z,deepseek-search-fetch-mcp,0.1.0,festoney8,,26583,MCPs for DeepSeek Search API and Fetch API.
+2026-10-24T14:33:48Z,pet-kokkos,0.1.0,,"BSD 3-Clause License Copyright (c) 2026, Peter Spackman All rights reserved. Redistribution and use…",60538880,"PET machine-learned interatomic potentials (PET-MAD, ...) on Kokkos: CPU and GPU"
+2026-10-24T14:34:29Z,keyshot-mcp,1.1.0,Lauro Foletti,MIT,82183,"MCP server: control KeyShot Studio from Claude Code (scene, cameras, materials from a CMF sheet, renders)"
+2026-10-24T14:34:49Z,alhena,0.1.0,Félicie Giraud-Sauveur <felicie.giraudsauveur@gmail.com>,BSD-3-Clause,4226388,"ALHENA, an H&E encoder distilled from transcriptomic foundation models for multi-scale slide analysis."
+2026-10-24T14:34:53Z,pycvr,0.1.0,Anish Bhattarai,MIT,105113,"Turn source code into a typewriter-style video, rendered in your real VS Code colour theme."
+2026-10-24T14:38:54Z,winrt-Windows.System.Power.Thermal,4!10.0.28000.2705,,MIT,15473,PyWinRT projection of the Windows.System.Power.Thermal namespace
+2026-10-24T14:39:08Z,apagea,2026.10.1rc2,,,92448,Official APAGEA Python SDK and typed Action runtime
+2026-10-24T14:40:37Z,winrt-Windows.UI.Input.Preview.Text,4!10.0.28000.2705,,MIT,30366,PyWinRT projection of the Windows.UI.Input.Preview.Text namespace
+2026-10-24T14:41:00Z,yuanbootctl-python,0.1.7,yuanboot contributors,MIT,5248,"Project scaffolding, run and build tools for yuanboot-python"
+2026-10-24T14:41:05Z,yuanboot,0.1.7,yuanboot contributors,MIT,160287,A dependency-injected Python microservice framework built on FastAPI
+2026-10-24T14:42:03Z,winrt-Windows.UI.Shell.CompanionWindows,4!10.0.28000.2705,,MIT,12333,PyWinRT projection of the Windows.UI.Shell.CompanionWindows namespace
+2026-10-24T14:43:12Z,screen-objects,6.0.1,,,415667,Python library for detecting and interacting with objects on Android screenshots
+2026-10-24T14:43:22Z,winrt-Windows.UI.Shell.Tasks,4!10.0.28000.2705,,MIT,14134,PyWinRT projection of the Windows.UI.Shell.Tasks namespace
+2026-10-24T14:44:36Z,rizzbase,1.1.0,,MIT,25266,"Local-first encrypted Projects, Lobbies and Yaps for Python"
+2026-10-24T14:44:42Z,novaui,0.1.0,,MIT,172323,A Python-first declarative UI framework for web and optional desktop applications.
+2026-10-24T14:44:53Z,toolgate-pin,0.1.0,,MIT,231166,"MCP tool pinning: canonical hashing, lockfile and drift detection for tool definitions"
+2026-10-24T14:46:53Z,partiful-api-mcp,1.0.3,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,127967,Self-hosted Partiful API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T14:46:57Z,pirate-ship-api-mcp,1.0.3,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,225992,Self-hosted Pirate Ship API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T14:46:58Z,peopleperhour-api-mcp,1.0.4,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,137446,Self-hosted PeoplePerHour API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T14:48:14Z,steplight-sdk,0.2.0,Steplight contributors,Apache-2.0,112564,"Record and replay what an AI browser agent does: Playwright and Browser Use runs in the Steplight run format, with prompt-injection and data-exfiltration flags."
+2026-10-24T14:48:36Z,contractor-foreman-api-mcp,1.0.2,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,325638,Self-hosted Contractor Foreman API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T14:48:38Z,tradify-api-mcp,1.0.2,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,150319,Self-hosted Tradify API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-24T14:48:51Z,aind-ecephys-s3-to-phy,0.4.0,Allen Institute for Neural Dynamics,MIT,420569,Tools to get phy-ready data from AIND ecephys data on S3
+2026-10-24T14:55:40Z,TextGrocery-Shop,0.2.0,ranvane <ranvane@gmail.com>,BSD-3-Clause,109777,"TextGrocery_Shop: a simple, cross-platform short-text classification tool (Python 3.10+)"
+2026-10-24T14:56:44Z,cachelint,0.1.0a1,Diafyx,Apache-2.0,43025,Offline diagnosis of LLM prompt-cache misses
+2026-10-24T14:59:33Z,napalm-linux,0.15.0,Christian Manivong <christian@manivong.de>,Apache-2.0,97166,NAPALM driver for generic Linux systems via SSH
+2026-10-24T15:00:25Z,dpm-synth,1.0.0,Luuk Hopman,MIT,57095,Generate synthetic EBA xBRL-CSV reports that satisfy a module's DPM-XL validation rules
+2026-10-24T15:01:31Z,pentr-verify,0.1.0,PentrAI,MIT,56120,Offline verifier for Pentr evidence lockers
+2026-10-24T15:03:21Z,weasyvsdx,0.1.0,Sergey Grigoriev <grigoriev@fastmail.com>,MIT,132931,"Visio drawings (VSDX, VSD) for WeasyPrint, drawn as vector SVG through libvisio."
+2026-10-24T15:06:54Z,napalm-proxmox,0.8.0,Christian Manivong,Apache-2.0,155207,"NAPALM driver for Proxmox VE (classic Linux networking, SDN, OVS)"
+2026-10-24T15:07:35Z,alldayrec,0.2.0,,MIT,846560,"alldayrec server: a continuous audio stream in, conversations out — local VAD + cloud or local ASR + web page"
+2026-10-24T15:11:35Z,backcaster,0.3.0,,MIT,36148,Marcel-style MLB projection CLI built on pybaseball
+2026-10-24T15:11:39Z,napalm-opnsense,0.5.0,Christian Manivong,Apache-2.0,115690,NAPALM driver for OPNsense (read-only via REST API).
+2026-10-24T15:11:47Z,justfit-llm,2.3.0,,Apache-2.0,5120409,"Apple silicon inference with coordinated CPU, GPU and ANE work"
+2026-10-24T15:14:11Z,entoscope,0.1.0,Nikolay Stanishev,MIT AND CC-BY-NC-4.0,243500,Mechanistic interpretability toolkit for large language models
+2026-10-24T15:15:28Z,napalm-openwrt,0.7.0,Christian Manivong,Apache-2.0,91765,NAPALM driver for OpenWrt routers/access-points
+2026-10-24T15:17:56Z,earth2bufr,0.1.0,,Apache-2.0,10842634,Rust-based BUFR file parser with Python bindings
+2026-10-24T15:18:50Z,erlayout,0.1.0,Ore Adeleye,MIT,136749,Provably crossing-optimal layered layout of ER diagrams (CP-SAT)
+2026-10-24T15:19:17Z,steamsift,1.0.0,sa1ntsinner,MIT,349909,"Steam deals, sifted: every discount checked against two years of prices. HOT, GREAT, OK, MEH or NOPE."
+2026-10-24T15:19:37Z,scta-scikit,0.2.0,"""Jeffrey C. Witt"" <jeffreycwitt@gmail.com>",MIT,175656,"Texts, search, statistics and similarity for the Scholastic Commentaries and Texts Archive (SCTA), with a downloadable corpus and models."
+2026-10-24T15:19:51Z,scopeguard,0.2.0,,MIT,174684,"Local-first API, source code, and dependency security checks"
+2026-10-24T15:20:51Z,orma-ai,0.1.0,,Apache-2.0,194262,Local episode-first long-term memory for small LLMs
