@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T19:20:06Z,lerix,0.5.0,Lerix <support@lerix.dev>,MIT,112153,"Python SDK for Lerix: error tracking, request tracing, analytics and feedback for backend services, and a client for sending push notifications."
+2026-10-24T19:20:25Z,kitsu-mcp,0.3.2,EstienneG,MIT,167294,MCP server for the Kitsu (CGWire) production tracker
+2026-10-24T19:21:36Z,brotli-rs,9.0.0,,MIT,9608149,Python bindings for the safe-Rust brotli crate
+2026-10-24T19:22:10Z,judikt,0.3.0,Gaurav GS,Apache-2.0,581348,A deterministic security and reliability control plane for MCP tool execution.
+2026-10-24T19:23:28Z,norvara-seq-format,1.0.0rc5,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,152183,"Convert sequence files between FASTA, FASTQ, GenBank and tabular formats, with no third-party dependencies"
+2026-10-24T19:24:01Z,easy-temperature-seif2026,0.1.0,,,3237,A simple Python temperature converter
+2026-10-24T19:26:36Z,spacemolt-smx,0.1.0,travnie,ISC,69155,Ergonomic companion shell for the official SpaceMolt v2 CLI
+2026-10-24T19:29:58Z,cirrusmachine,0.1.0,Qing Liu,,1250503,Galactic cirrus synthesis and diffuse emission recovery
+2026-10-24T19:30:19Z,imre,0.1.0,Charlie Marsh,,3048,Add your description here
+2026-10-24T19:31:17Z,odoo-addon-l10n-br-pos-nfce,16.0.1.0.0.3,"KMEE,Odoo Community Association (OCA)",AGPL-3,202912,NFC-E no Ponto de Venda
+2026-10-24T19:35:39Z,crysknife,0.0.0,l00psec,Apache-2.0,2146,"Placeholder. Local, evidence-grade second opinion on npm and PyPI packages. In development; first release planned for 2027."
+2026-10-24T19:39:37Z,mlc-llvm-static,23.1.1,MLC AI <mlc.ai.dev@gmail.com>,Apache-2.0 WITH LLVM-exception AND Zlib AND BSD-3-Clause,331056124,"Relocatable LLVM static development libraries, headers, and CMake metadata"
+2026-10-24T19:39:48Z,multivalent,0.0.1,Multivalent Labs <oss@multivalent.ai>,Proprietary,28761,Multivalent AI infrastructure SDK — verifiable reinforcement learning environments and post-training verification for biology.
+2026-10-24T19:41:57Z,lineshapes,0.1.0,Harlan D Heilman <73567020+HarlanHeilman@users.noreply.github.com>,BSD-3-Clause-LBNL,3448568,Fast composable optical-constant models: analytic Kramers-Kronig-paired lineshape peaks plus a continuum.
+2026-10-24T19:42:33Z,agentledger-cli,0.1.0,,,56630,"Report Claude Code, Cursor, Gemini CLI and Cortex Code sessions to the AgentLedger Snowflake Native App."
+2026-10-24T19:48:18Z,tidy3a,0.1.0,Rigoberto Leyva Salmeron,MIT,202301,"Tidy-style verbs for named multidimensional arrays, built on xarray"
+2026-10-24T19:53:38Z,tmr-gates,0.1.1,Volodymyr Zolotukhin <hello@themachinerecord.com>,MIT,51841,Publication gates of The Machine Record: deterministic rules that decide whether a verified robot incident may be published.
+2026-10-24T19:54:12Z,plumb-q,0.3.1,David Berlioz,MIT,30649,"A Symfony-style service container for Python: services declared in YAML, tied to configuration by parameters, compiled and checked before anything runs"
+2026-10-24T19:55:42Z,CIDBN-neuron-detection,0.1.1,Alexander Schmidt,MIT,68553,Wrapper package for robust neuron detection using CaImAn
+2026-10-24T19:57:05Z,docling-carve,0.1.0,markup-carve,MIT,19453225,Docling documents to Carve with provenance and preservation diagnostics
+2026-10-24T19:58:17Z,moodsona,0.1.0,moodsona maintainers,Apache-2.0,152010,Emotional user simulator for testing AI companion chatbots.
+2026-10-24T19:59:12Z,nyx-raccoonbot,0.0.49,,,561568,Native Linux autonomous crypto trading agent
+2026-10-24T19:59:50Z,fastmcp-linux-desktop,0.1.0,apravint <apravint@users.noreply.github.com>,MIT,27984,"FastMCP Model Context Protocol (MCP) Server for Linux Desktops (Hyprland, Wayland, PipeWire, Systemd)"
+2026-10-24T20:02:09Z,hypgraph,0.1.0,Nicolas Houghtaling,Apache-2.0,595662,The evidence layer for AI research agents: a hash-chained research record that checks every claim as it is written and derives how well each is known.
+2026-10-24T20:11:49Z,taowire,0.1.0a1,,Apache-2.0,593029,"ALPHA, not security-reviewed, not for mainnet value: networking kit for Bittensor v11 subnets (btauth/1 miner server, validator client) and the migration path for v10 subnets"
+2026-10-24T20:12:05Z,sqlalchemy-openobserve,0.0.1,Milen Thomas,Apache-2.0,20958,SQLAlchemy dialect and DBAPI driver for OpenObserve

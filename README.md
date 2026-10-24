@@ -8,56 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 19:18 UTC
+## Latest list — 2026-10-24 20:19 UTC
 
-New packages created between 2026-10-24 18:18 UTC and 2026-10-24 19:18 UTC.
+New packages created between 2026-10-24 19:18 UTC and 2026-10-24 20:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-24T19-18-37-481208Z.csv)
+[Full CSV](data/new-packages-2026-10-24T20-19-23-10217Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-24 18:20:56 | [geningeox](https://pypi.org/project/geningeox/) | 0.0.1 | Shajin Thankaswamy | 10.7 kB | Generative inverse design of time-varying photonic metastructures in JAX (under… |
-| 2026-10-24 18:24:10 | [s2s-rnn](https://pypi.org/project/s2s-rnn/) | 0.1.0 | Roshan | 7.7 kB | A sequence-to-sequence RNN built from scratch in pure NumPy |
-| 2026-10-24 18:25:42 | [flask-githubkit](https://pypi.org/project/flask-githubkit/) | 0.1.2 | LJFCoding | 29.5 kB | Flask extension for GitHub OAuth login, built on GitHubKit. Handles expiring-to… |
-| 2026-10-24 18:26:58 | [pysatellitespotter](https://pypi.org/project/pysatellitespotter/) | 0.2.0 | Katherine Dubé | 33.8 kB | Predict naked-eye satellite passes, as See A Satellite Tonight does |
-| 2026-10-24 18:29:32 | [openble-lifesense](https://pypi.org/project/openble-lifesense/) | 0.1.0 | Kadima Tech | 54.7 kB | Lifesense A2/A3 weight-scale protocol (Philips DL8780): packet parsers and the… |
-| 2026-10-24 18:29:38 | [openble-bondtouch](https://pypi.org/project/openble-bondtouch/) | 0.1.0 | Kadima Tech | 74.7 kB | Bond Touch bracelet BLE protocol: GATT map, setup handshake, touch patterns, LE… |
-| 2026-10-24 18:29:40 | [openble-lovense](https://pypi.org/project/openble-lovense/) | 0.1.0 | Kadima Tech | 51.1 kB | Lovense toy BLE protocol: identity UUID, text commands, 0xAA frames and a paced… |
-| 2026-10-24 18:31:30 | [sshi-py](https://pypi.org/project/sshi-py/) | 0.2.0 | Fire162 | 21.7 kB | Python 3 async client & AI agent SDK for sshx.io collaborative terminals |
-| 2026-10-24 18:32:38 | [entwined](https://pypi.org/project/entwined/) | 0.0.1 | jmdm | 11.1 kB | Placeholder for a Cartesian Genetic Programming library; the first real release… |
-| 2026-10-24 18:35:41 | [tersalang](https://pypi.org/project/tersalang/) | 0.1.0 | Kevin Mitchell | 588.1 kB | Reference interpreter for Tersalang, a word-based programming language for LLMs… |
-| 2026-10-24 18:35:50 | [lenmark-converter](https://pypi.org/project/lenmark-converter/) | 0.1.2 |  | 78.4 kB | Unofficial batch converter for LenMark 3DS EMD 3.0 projects to EMX 3.7 |
-| 2026-10-24 18:36:11 | [bjdata-serpent](https://pypi.org/project/bjdata-serpent/) | 0.1.0 | Nebojša Cvetković | 4.8 MB | BJData (Binary JData) encoder and decoder, on the serpent C++ library |
-| 2026-10-24 18:36:23 | [agoradm-uhp](https://pypi.org/project/agoradm-uhp/) | 0.1.0 | shichuanqiong | 28.9 kB | Bridge AgoraDM to any UHP server (HarnessRouter): a DM to your agent runs as a… |
-| 2026-10-24 18:36:57 | [pantech](https://pypi.org/project/pantech/) | 0.1.0 | Pantech Dynamics | 241.5 kB | The official Python SDK for the Pantech Dynamics public API. |
-| 2026-10-24 18:38:35 | [fastapi-alcazaba](https://pypi.org/project/fastapi-alcazaba/) | 0.1.0 | long2ice and the fastapi-cach… | 136.8 kB | Secure, maintained response cache for FastAPI (a fork of fastapi-cache2) |
-| 2026-10-24 18:39:20 | [sparse-delta-memory](https://pypi.org/project/sparse-delta-memory/) | 2.0.0 |  | 1.0 MB | Sparse Delta Memory (SDM): a sparse memory layer for language models, with dete… |
-| 2026-10-24 18:39:22 | [kremle-detect](https://pypi.org/project/kremle-detect/) | 2.7.1 | RUdolf1517 | 261.3 kB | Защита сайта от пользователей Яндекс Браузера и переходов с Яндекса. Капча с во… |
-| 2026-10-24 18:39:33 | [python-intelbras-solar-local](https://pypi.org/project/python-intelbras-solar-local/) | 0.1.1 | Hudson Brendon <contato.hudso… | 61.3 kB | Async Python client for Intelbras solar inverters (Sungrow WiNet-S) over Modbus… |
-| 2026-10-24 18:39:43 | [speakinpy](https://pypi.org/project/speakinpy/) | 0.1.2 |  | 29.8 kB | A Python module for recorded audio transcription via Gemini API |
-| 2026-10-24 18:39:44 | [rita-py](https://pypi.org/project/rita-py/) | 4.0.9 | Daniel Howe <ritapy@rednoise.… | 868.7 kB | Python port of RiTa — a library for natural language and generative writing |
-| 2026-10-24 18:39:48 | [solidsforyou-whisper-base-1](https://pypi.org/project/solidsforyou-whisper-base-1/) | 1.0.0 | SOLIDS FOR YOU | 94.4 MB | OpenAI Whisper base (MIT) converted for faster-whisper, part of the SOLIDS FOR… |
-| 2026-10-24 18:39:53 | [solidsforyou-whisper-base-2](https://pypi.org/project/solidsforyou-whisper-base-2/) | 1.0.0 | SOLIDS FOR YOU | 55.9 MB | OpenAI Whisper base (MIT) converted for faster-whisper, part of the SOLIDS FOR… |
-| 2026-10-24 18:39:58 | [solidsforyou-whisper-small-1](https://pypi.org/project/solidsforyou-whisper-small-1/) | 1.0.0 | SOLIDS FOR YOU | 94.4 MB | OpenAI Whisper small (MIT) converted for faster-whisper, part of the SOLIDS FOR… |
-| 2026-10-24 18:40:03 | [solidsforyou-whisper-small-2](https://pypi.org/project/solidsforyou-whisper-small-2/) | 1.0.0 | SOLIDS FOR YOU | 94.4 MB | OpenAI Whisper small (MIT) converted for faster-whisper, part of the SOLIDS FOR… |
-| 2026-10-24 18:40:13 | [acodo](https://pypi.org/project/acodo/) | 0.3.0 |  | 56.3 kB | Utilidades puras del framework Acodo: validación, conversión, parseo y logger. |
-| 2026-10-24 18:41:38 | [zerynex-python](https://pypi.org/project/zerynex-python/) | 0.2.0 |  | 109.4 kB | Local Zcash PCZT developer toolkit: privacy policy analysis, synthetic MCP inte… |
-| 2026-10-24 18:43:00 | [kulisse](https://pypi.org/project/kulisse/) | 1.0.1 | jhnnsrs <jhnnsrs@gmail.com> | 34.3 kB | device and scene models for arkitekt: self-contained binary glTF with a joint t… |
-| 2026-10-24 18:44:09 | [torch-lb](https://pypi.org/project/torch-lb/) | 0.1.0 |  | 18.6 MB | Numbered AI practical document and code viewer |
-| 2026-10-24 18:46:47 | [batchvault](https://pypi.org/project/batchvault/) | 0.1.0 |  | 215.5 kB | Batch archive, compress, split and restore files with a native or 7-Zip engine. |
-| 2026-10-24 18:47:35 | [fzf-gnat](https://pypi.org/project/fzf-gnat/) | 0.1.1 | Zakaria Fadli <zakaria1193@gm… | 32.7 kB | Fuzzy search Ada sources by unit name and krunched file name |
-| 2026-10-24 18:49:15 | [simple-calc-youruniqueid](https://pypi.org/project/simple-calc-youruniqueid/) | 0.1.0 |  | 2.9 kB | A simple calculator package |
-| 2026-10-24 18:49:57 | [django-chat-ui](https://pypi.org/project/django-chat-ui/) | 0.1.0 | Rodolfo Valentín Becerra Garc… | 828.7 kB | One chat interface for WhatsApp, chatbots, internal chat and "contact us" widge… |
-| 2026-10-24 18:51:00 | [Essl-F22-SDK](https://pypi.org/project/Essl-F22-SDK/) | 0.1.0 | amit das <mramitdas99@gmail.c… | 257.0 kB | Essl F22 SDK: synchronous Python SDK for eSSL/ZKTeco F22 terminals. |
-| 2026-10-24 18:53:10 | [quickmath-tools](https://pypi.org/project/quickmath-tools/) | 0.1.0 |  | 3.6 kB | A small collection of basic arithmetic operations. |
-| 2026-10-24 18:53:58 | [sprezzature-video](https://pypi.org/project/sprezzature-video/) | 0.2.0 | Warith HARCHAOUI <warithmetic… | 74.1 kB | Project launch films for the sprezzature stack: one spec drives landscape, port… |
-| 2026-10-24 18:57:31 | [semantic-warehouse-mcp](https://pypi.org/project/semantic-warehouse-mcp/) | 0.1.0 | Aleksei Veselov | 263.4 kB | A read-only MCP server for SQL databases with a semantic layer in an open forma… |
-| 2026-10-24 19:05:56 | [claude-usage-limits](https://pypi.org/project/claude-usage-limits/) | 0.1.0 | claude-usage contributors | 32.2 kB | CLI for your Claude subscription rate limits: the 5-hour and 7-day usage window… |
-| 2026-10-24 19:07:48 | [rsmol](https://pypi.org/project/rsmol/) | 0.1.0 |  | 20.5 MB | Fast, modern molecular visualization with a PyMOL-style scripting API |
-| 2026-10-24 19:10:46 | [nemo-db](https://pypi.org/project/nemo-db/) | 0.1.1 | Pravanjan Roy | 6.2 MB | High-performance embedded relational database written in C++20 with a unified S… |
-| 2026-10-24 19:11:41 | [norvara-restrict-cut](https://pypi.org/project/norvara-restrict-cut/) | 1.0.0rc1 | Norvara Therapeutics <researc… | 194.3 kB | Restriction mapping and digest simulation, with circular topology and methylati… |
-| 2026-10-24 19:11:43 | [splitscope](https://pypi.org/project/splitscope/) | 0.1.0 |  | 26.4 kB | Cluster a train set and measure how well it covers your eval set (CPU hashing o… |
-| 2026-10-24 19:11:49 | [html2pptx-mcp](https://pypi.org/project/html2pptx-mcp/) | 0.4.0 | html2pptx-mcp contributors | 250.9 kB | Generate natively editable PowerPoint decks from a restricted, versioned HTML c… |
-| 2026-10-24 19:13:35 | [trvny-wambridge](https://pypi.org/project/trvny-wambridge/) | 0.0.5 | trvny | 275.7 kB | Local Wi-Fi audio bridge for Samsung Wireless Audio Multiroom speakers |
-| 2026-10-24 19:16:21 | [skills-but-for-dev](https://pypi.org/project/skills-but-for-dev/) | 0.1.0 | Melih | 72.6 kB | Curated technology stack and open-source repo/model recommendations for AI agen… |
-| 2026-10-24 19:18:05 | [ozx](https://pypi.org/project/ozx/) | 0.1.1 | drycraf | 13.7 kB | ozx, a plugin launcher: `ozx <name>` runs the ozx-<name> executable on the PATH… |
+| 2026-10-24 19:20:06 | [lerix](https://pypi.org/project/lerix/) | 0.5.0 | Lerix <support@lerix.dev> | 112.2 kB | Python SDK for Lerix: error tracking, request tracing, analytics and feedback f… |
+| 2026-10-24 19:20:25 | [kitsu-mcp](https://pypi.org/project/kitsu-mcp/) | 0.3.2 | EstienneG | 167.3 kB | MCP server for the Kitsu (CGWire) production tracker |
+| 2026-10-24 19:21:36 | [brotli-rs](https://pypi.org/project/brotli-rs/) | 9.0.0 |  | 9.6 MB | Python bindings for the safe-Rust brotli crate |
+| 2026-10-24 19:22:10 | [judikt](https://pypi.org/project/judikt/) | 0.3.0 | Gaurav GS | 581.3 kB | A deterministic security and reliability control plane for MCP tool execution. |
+| 2026-10-24 19:23:28 | [norvara-seq-format](https://pypi.org/project/norvara-seq-format/) | 1.0.0rc5 | Norvara Therapeutics <researc… | 152.2 kB | Convert sequence files between FASTA, FASTQ, GenBank and tabular formats, with… |
+| 2026-10-24 19:24:01 | [easy-temperature-seif2026](https://pypi.org/project/easy-temperature-seif2026/) | 0.1.0 |  | 3.2 kB | A simple Python temperature converter |
+| 2026-10-24 19:26:36 | [spacemolt-smx](https://pypi.org/project/spacemolt-smx/) | 0.1.0 | travnie | 69.2 kB | Ergonomic companion shell for the official SpaceMolt v2 CLI |
+| 2026-10-24 19:29:58 | [cirrusmachine](https://pypi.org/project/cirrusmachine/) | 0.1.0 | Qing Liu | 1.3 MB | Galactic cirrus synthesis and diffuse emission recovery |
+| 2026-10-24 19:30:19 | [imre](https://pypi.org/project/imre/) | 0.1.0 | Charlie Marsh | 3.0 kB | Add your description here |
+| 2026-10-24 19:31:17 | [odoo-addon-l10n-br-pos-nfce](https://pypi.org/project/odoo-addon-l10n-br-pos-nfce/) | 16.0.1.0.0.3 | KMEE,Odoo Community Associati… | 202.9 kB | NFC-E no Ponto de Venda |
+| 2026-10-24 19:35:39 | [crysknife](https://pypi.org/project/crysknife/) | 0.0.0 | l00psec | 2.1 kB | Placeholder. Local, evidence-grade second opinion on npm and PyPI packages. In… |
+| 2026-10-24 19:39:37 | [mlc-llvm-static](https://pypi.org/project/mlc-llvm-static/) | 23.1.1 | MLC AI <mlc.ai.dev@gmail.com> | 331.1 MB | Relocatable LLVM static development libraries, headers, and CMake metadata |
+| 2026-10-24 19:39:48 | [multivalent](https://pypi.org/project/multivalent/) | 0.0.1 | Multivalent Labs <oss@multiva… | 28.8 kB | Multivalent AI infrastructure SDK — verifiable reinforcement learning environme… |
+| 2026-10-24 19:41:57 | [lineshapes](https://pypi.org/project/lineshapes/) | 0.1.0 | Harlan D Heilman <73567020+Ha… | 3.4 MB | Fast composable optical-constant models: analytic Kramers-Kronig-paired linesha… |
+| 2026-10-24 19:42:33 | [agentledger-cli](https://pypi.org/project/agentledger-cli/) | 0.1.0 |  | 56.6 kB | Report Claude Code, Cursor, Gemini CLI and Cortex Code sessions to the AgentLed… |
+| 2026-10-24 19:48:18 | [tidy3a](https://pypi.org/project/tidy3a/) | 0.1.0 | Rigoberto Leyva Salmeron | 202.3 kB | Tidy-style verbs for named multidimensional arrays, built on xarray |
+| 2026-10-24 19:53:38 | [tmr-gates](https://pypi.org/project/tmr-gates/) | 0.1.1 | Volodymyr Zolotukhin <hello@t… | 51.8 kB | Publication gates of The Machine Record: deterministic rules that decide whethe… |
+| 2026-10-24 19:54:12 | [plumb-q](https://pypi.org/project/plumb-q/) | 0.3.1 | David Berlioz | 30.6 kB | A Symfony-style service container for Python: services declared in YAML, tied t… |
+| 2026-10-24 19:55:42 | [CIDBN-neuron-detection](https://pypi.org/project/CIDBN-neuron-detection/) | 0.1.1 | Alexander Schmidt | 68.6 kB | Wrapper package for robust neuron detection using CaImAn |
+| 2026-10-24 19:57:05 | [docling-carve](https://pypi.org/project/docling-carve/) | 0.1.0 | markup-carve | 19.5 MB | Docling documents to Carve with provenance and preservation diagnostics |
+| 2026-10-24 19:58:17 | [moodsona](https://pypi.org/project/moodsona/) | 0.1.0 | moodsona maintainers | 152.0 kB | Emotional user simulator for testing AI companion chatbots. |
+| 2026-10-24 19:59:12 | [nyx-raccoonbot](https://pypi.org/project/nyx-raccoonbot/) | 0.0.49 |  | 561.6 kB | Native Linux autonomous crypto trading agent |
+| 2026-10-24 19:59:50 | [fastmcp-linux-desktop](https://pypi.org/project/fastmcp-linux-desktop/) | 0.1.0 | apravint <apravint@users.nore… | 28.0 kB | FastMCP Model Context Protocol (MCP) Server for Linux Desktops (Hyprland, Wayla… |
+| 2026-10-24 20:02:09 | [hypgraph](https://pypi.org/project/hypgraph/) | 0.1.0 | Nicolas Houghtaling | 595.7 kB | The evidence layer for AI research agents: a hash-chained research record that… |
+| 2026-10-24 20:11:49 | [taowire](https://pypi.org/project/taowire/) | 0.1.0a1 |  | 593.0 kB | ALPHA, not security-reviewed, not for mainnet value: networking kit for Bittens… |
+| 2026-10-24 20:12:05 | [sqlalchemy-openobserve](https://pypi.org/project/sqlalchemy-openobserve/) | 0.0.1 | Milen Thomas | 21.0 kB | SQLAlchemy dialect and DBAPI driver for OpenObserve |
