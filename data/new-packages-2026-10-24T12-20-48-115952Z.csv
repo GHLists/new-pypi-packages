@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T08:13:45Z,doppler-bin,3.76.6,,MIT,120140712,Doppler CLI executable distributed as Python wheels
+2026-10-24T11:18:51Z,vsreval,0.1.0,Shundi Wu,MIT,215594,"Evaluation bench for video super-resolution: image metrics (via pyiqa) and the video metrics DOVER, FasterVQA and E*warp."
+2026-10-24T11:21:59Z,obey-cli,0.1.1,Andrii Boiko,Apache-2.0,3453147,"Unit tests for AGENTS.md: turns agent instructions into checkable rules, runs your coding agent on tempting tasks in a sandbox, measures per-rule compliance from what it actually did, and compiles th…"
+2026-10-24T11:22:16Z,cheat-index,0.1.0,Andrii Boiko,Apache-2.0,3414430,"Does your coding agent fix the code or the tests? A leaderboard and harness that measure how often coding agents edit tests, hard-code answers or claim success that hidden checks contradict."
+2026-10-24T11:25:00Z,neppo,1.0,"N. Österbacka, Paul Erhart",MPL-2.0,186046,Neuroevolution potential models in PyTorch
+2026-10-24T11:25:40Z,vexselector,0.1.0,ruvexdev <rubenmg913@gmail.com>,MIT,10794,Listas de selección para terminal con teclado y ratón
+2026-10-24T11:25:55Z,sqlguard-ninja,0.1.1,SQLGuard Ninja contributors,Apache-2.0,351514,"Security testing, policy enforcement, agent integration, privacy analysis and CI benchmarking for LLM-generated SQL."
+2026-10-24T11:28:34Z,rekey-cli,0.1.0,,Apache-2.0,64355,"Zero-downtime, dual-key API key rotation for developers and agents."
+2026-10-24T11:28:37Z,watchlight-strands,0.1.0,Watchlight AI <team@watchlight.ai>,Apache-2.0,66194,"Watchlight governance for Strands Agents, installed once at the root: authorize every tool call (Python, MCP and agents used as tools) before it runs, open every invocation as a governed run, and att…"
+2026-10-24T11:28:47Z,qnmlab,0.1.1,"Hamed Al-Yoorby, Mouadh Abderrahmane Assal, Zakaria Lourghi, Achraf Boussahi",MIT,171696,"Black-hole quasinormal modes with quantum algorithms: phase readout, seedless search, hardware analysis"
+2026-10-24T11:29:51Z,security-review-ci,2.0.0,,Apache-2.0,32247,"Pipeline and workstation client of the security-review-mcp controller: gate, SARIF, trends, code and dependency scans"
+2026-10-24T11:30:43Z,kubevim-client,1.0.0a1,OpenAPI Generator community,,228323,Kube-VIM API
+2026-10-24T11:33:29Z,django-modelsheet,0.3.0a1,,MIT,455634,"Spreadsheet editing, formulas and previewed bulk operations for Django Admin"
+2026-10-24T11:33:40Z,uc-toffee,2.0.0,XS-MLVP,MulanPSL-2.0,935299,Asyncio-native simulation triggers backed by xcomm
+2026-10-24T11:34:09Z,polza-extras,0.2.0,still-coding,MIT,40652,"Polza.ai helpers on top of the OpenAI SDK: ruble cost, typed errors, retry rules, model catalog, balance"
+2026-10-24T11:35:34Z,openapi-spec-validator-rs,0.1.0,,Apache-2.0,15873687,"A fast, drop-in Rust companion to openapi-spec-validator."
+2026-10-24T11:38:57Z,timeplace,0.1.0,Ryan Vandersmith,,12861,Add your description here
+2026-10-24T11:39:11Z,syrtis-python-client-internal,1.0.0,weeger <contact@syrtis.ai>,MIT,175418,
+2026-10-24T11:39:18Z,pyi-doctor,1.0.0,"""서주원 (OMEGA SYSTEMS)"" <seodes105@gmail.com>",MIT,95051,"Build PyInstaller apps as portable exe + installer, then check startup, antivirus risk factors and bundled licenses."
+2026-10-24T11:41:09Z,pytgflow,1.8.1,VeezNetworks,MIT,961835,"Pure Python MTProto 2.0 Telegram framework engineered for speed, clean architecture, and modern bot development"
+2026-10-24T11:41:39Z,pennyroyal-v253,0.1.1,mmfarabi,Apache-2.0,13949,Auto-downloader for the pennyroyal-v253 SGLang dataset on Kaggle
+2026-10-24T11:43:50Z,sdrnative,0.1.0,Ruben David Roy,MPL-2.0,1617519,"A library for direct control of SDR hardware, from raw IQ sampling to DVB-T transport stream reception."
+2026-10-24T11:45:17Z,coho-management-sdk,2026.1.0a12,Coho,Apache-2.0,186819,"Management SDK for Coho: accounts, projects, refs, content, releases, delivery keys."
+2026-10-24T11:45:54Z,instrumental-reason,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49181,Instrumental-Reason ...
+2026-10-24T11:48:52Z,authfly-jinja2,0.4.0,,MIT,85444,"Authfly widgets for Jinja2 on UI8Kit 3 primitives (CLI 3.2.1, registry 3.2.0)"
+2026-10-24T11:53:27Z,superstep,0.1.0,Qui Nguyen,MIT,21286,Python client for the Superstep public API: start workflow runs and read their results.
+2026-10-24T11:55:36Z,airmouse-core,2.0.0,AirMouse Team <dev@airmouse.io>,MIT,70787,"High-performance, secure Python server and protocol engine for AirMouse remote input devices"
+2026-10-24T11:56:59Z,gnmyflow,0.3.1,Umut Koçak,MIT,203615,GnmyFlow: a fast CLI and MCP server for Google Flow and Google Flow Music. Fork of StudioWright; unofficial and not affiliated with Google.
+2026-10-24T11:58:24Z,Autarkia-Io,0.1.0,Shihao Qi <qishihao512@gmail.com>,MIT,24737,"Atomic file I/O for long-running agents: thread/process-safe temp files, exponential retry for Windows locks, optional fsync, sync + async APIs, and resilient JSON extraction."
+2026-10-24T12:01:05Z,openvidia,2.2.0,Ciro Autuori,MIT,1423527,"NVIDIA NIM multi-key proxy with smart rate limiting, cooldown management, and desktop dashboard"
+2026-10-24T12:05:46Z,coho-cli,2026.1.0a21,Coho,Apache-2.0,219562,"The coho command: manage Coho accounts, projects, branches, releases and content from a terminal."
+2026-10-24T12:05:52Z,sercomm-printserver,0.1.0,bitranox <bitranox@gmail.com>,MIT,423595,CLI and Python library for SerComm-based network print servers (PS301 and OEM variants)
+2026-10-24T12:06:27Z,creatoros,1.0.0,CreatorOS Team <support@thecreatoros.dev>,MIT,11249,"Fast, zero-dependency Web-to-Markdown extraction, autonomous agent live web search, and neural text-to-speech for LLMs and RAG pipelines."
+2026-10-24T12:06:59Z,qstrade,0.0.1,,,175958,"Chinese market data, CTP trading and event-driven strategy framework"
+2026-10-24T12:11:19Z,weider-modbus,0.1.0,schadom,MIT,24080,"Async Python library for the Modbus TCP interface of Weider heat pumps, built on modbus-connection"
+2026-10-24T12:11:29Z,smriprep-freesurfer732-data-08,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),89774114,"FreeSurfer 7.3.2 files, part 8 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-24T12:11:56Z,smriprep-freesurfer732-data-09,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),89046003,"FreeSurfer 7.3.2 files, part 9 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-24T12:12:22Z,smriprep-freesurfer732-data-10,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),94493274,"FreeSurfer 7.3.2 files, part 10 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-24T12:12:54Z,smriprep-freesurfer732-data-11,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),93943577,"FreeSurfer 7.3.2 files, part 11 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-24T12:15:48Z,llm-stopcheck,0.1.0,tonyweckstrom1987,MIT,26880,"Catch silent LLM failures: truncation, reasoning-budget exhaustion, empty output, content filters."
+2026-10-24T12:16:22Z,lingagent,0.1.0,ypchen,MIT,446305,"A coding-agent harness: LLM decides, the harness dispatches tools, guards and logs"
+2026-10-24T12:16:57Z,cause-xai,0.1.0,Perceive <system.perceive@gmail.com>,,218967,Causal Attribution Unified Structural Explanation
+2026-10-24T12:17:41Z,orbli,0.1.0,,MIT,43718,A small client for building Orbli bots (Satellites)
