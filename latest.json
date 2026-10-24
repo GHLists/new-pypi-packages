@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-10-24T01:18:39.862984Z",
-    "path": "data/new-packages-2026-10-24T02-18-37-908008Z.csv",
-    "to": "2026-10-24T02:18:37.908008Z"
+    "count": 22,
+    "from": "2026-10-24T02:18:37.908008Z",
+    "path": "data/new-packages-2026-10-24T03-20-15-138815Z.csv",
+    "to": "2026-10-24T03:20:15.138815Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-24T00:48:32Z",
       "package": "octri-spec-parser",
       "since": "2026-10-24T00:18:56.562302Z",
       "version": null
     }
   ],
-  "serial": 42669054,
+  "serial": 42670288,
   "source_truncated": false,
-  "window": "2026-10-24T02:18:37.908008Z"
+  "window": "2026-10-24T03:20:15.138815Z"
 }
