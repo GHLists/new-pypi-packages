@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T04:21:42Z,catena-installer,0.11.3,,"# Catena Community License Catena Sustainable Use License, Version 1.0 Copyright (c) 2026 Marc-Anto…",138389,"Install a Catena server from this machine, and reach its panel"
+2026-10-24T04:22:19Z,newtk,0.1.0,cjq <mycjq20111204@outlook.com>,MIT,4416,"newtk is a modern, lightweight GUI enhancement library for Python's built-in `tkinter`."
+2026-10-24T04:24:53Z,pynaps2,0.1.0,"""A[Privacy redacted]d"" <hc1sjspl@gmail.com>",,5225,Simplifies subproccess and NAPS2 and python bindings
+2026-10-24T04:26:26Z,mlx-rocm,0.0.0,,,1033,
+2026-10-24T04:37:34Z,arabic-norm,0.1.0,santrionlinecom <websantrionline@gmail.com>,MIT,11537558,"Fast Arabic text normalization (tashkeel/tatweel/alif/ya) for RAG preprocessing, written in Rust with PyO3"
+2026-10-24T04:37:34Z,mathen,0.0.1,,,90021,Evidence-backed architecture knowledge base and CLI
+2026-10-24T04:40:24Z,lca-data-interface,0.1.1,Carlos Gaete-Morales <cdgaete@gmail.com>,Apache-2.0,70282,Download LCA databases from openLCA Nexus and LCA Collaboration Servers into a hash-checked cache.
+2026-10-24T04:41:00Z,axiom-access-risk,0.1.0,Madan Kumar G S,MIT,56047,Explainable access-risk intelligence for SaaS permissions and smart-contract operations
+2026-10-24T04:42:01Z,gseek,0.2.0,gseek contributors,MIT,281764,"Unified, reproducible DNA alignment adapters for BLAST+, minimap2, MUMmer, KMA, BWA and MinHash tools"
+2026-10-24T04:47:41Z,pybroswer,0.4.0,Hacker78,MIT,64175,"Python browser for PyDroid. Cookies, click-by-text, downloads, forms. No Chromium required."
+2026-10-24T04:47:47Z,somnus-metadata,2.0.0,,,209007,Universal semantic metadata standard and engineering toolkit
+2026-10-24T04:56:39Z,mcap-frames,0.1.0,recording-store,Apache-2.0,137583,Frame-accurate video access for MCAP files
+2026-10-24T05:01:15Z,vib-bl,0.1.0,,BSD-2-Clause,7159,"vi-like browsing, a wrapper for suckless surf with aliases"
+2026-10-24T05:01:34Z,torchui,0.0.1,Don Pinkus,MIT,6616,"See inside your PyTorch model: an in-browser visualizer for weights, gradients, the computation graph, and what changes during training."
+2026-10-24T05:02:48Z,cryptbox-cli,0.1.0,Zephyrus Labs <zephyrus.labs@gmail.com>,MIT,24112,Zero-Trust Authenticated File & Folder Vault using AES-256-GCM
+2026-10-24T05:03:00Z,doc2md-cli,0.1.0,Zephyrus Labs <zephyrus.labs@gmail.com>,MIT,27324,"Universal Document to LLM-Optimized Markdown Converter (PDF, DOCX, PPTX, TXT)"
+2026-10-24T05:03:04Z,flatjson-cli,0.1.0,Zephyrus Labs <zephyrus.labs@gmail.com>,MIT,25053,Deep JSON & JSONL to Tabular CSV Flattener with schema inspection and streaming
+2026-10-24T05:03:08Z,leakcheck-cli,0.1.0,Zephyrus Labs <zephyrus.labs@gmail.com>,MIT,29416,High-Speed Local Secret Scanner & Git Pre-Commit Guard with entropy analysis
+2026-10-24T05:05:49Z,tenko-plugin-persona-chat,0.1.0,,GPL-3.0-only,81926,Tenko AI 群友：接入 DeepSeek，用人设口吻陪群友聊天，内置“大肥鱼”
+2026-10-24T05:12:26Z,nepal-license-checker,1.0.0,Nischal Acharya <Nischal060@gmail.com>,MIT,10112,Zero-dependency Python SDK to check Nepal smart driving license print status via the DOTM mirrored API.
