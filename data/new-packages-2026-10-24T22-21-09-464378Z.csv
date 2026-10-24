@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T21:19:40Z,peachycheck,0.1.0,drexlerd,AGPL-3.0-only,85200,Native linters and agent hooks from one peachycheck.yml per repository
+2026-10-24T21:19:58Z,shephouse-yt,0.1.0,,MIT,11681,"youtube-transcript-api-style client that works from cloud servers, backed by an Apify Actor"
+2026-10-24T21:20:22Z,myna-lang,0.4.0,Joseph Hicks,MIT,148751,"Myna: An AI-friendly, token-efficient symbolic language that transpiles to/from Python and JavaScript"
+2026-10-24T21:21:25Z,documpy,0.0.1,Benjamin Kwon,Apache-2.0,11493,"Document Python: read documents into a structured model, starting with HWP and HWPX."
+2026-10-24T21:23:02Z,simplibs-logger,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,111772,"A ready-to-use logger on top of the standard logging module: a console, an optional rotating file, colored level names, optional JSON output and a short calling interface."
+2026-10-24T21:25:53Z,sparkless-server-bin,4.16.0,Robin Sparkless contributors,MIT,118573431,Platform-specific native server executable for sparkless[server].
+2026-10-24T21:25:58Z,paperkit,0.1.0,Antonio Paolillo <antonio.paolillo@vub.be>,MIT,121525,Reproducible builds and pre-submission checks for research papers
+2026-10-24T21:31:23Z,coxmunk,1.2.1,"""T. Harmel"" <tristan.harmel@gmail.com>",MIT,53581,Sunglint (Stokes vector) computation from the Cox-Munk wave slope statistics
+2026-10-24T21:32:54Z,connex-rs,0.1.1,,Apache-2.0,2469508,"connex-rs: Connex data plane over UCX (one-sided RMA, signals, peer-failure events, same-identity rejoin)"
+2026-10-24T21:33:04Z,connex-ai,0.1.1,Connex Contributors,Apache-2.0,631472,"Communication library for distributed AI infrastructure: endpoint mobility primitives that let replicas join, leave, fail over and migrate with traffic in flight (PD/AF disaggregation, pipeline paral…"
+2026-10-24T21:34:06Z,VecturaDB,1.0.0rc1,VecturaDB contributors,,120157265,"VecturaDB, compatible with the Chroma API."
+2026-10-24T21:35:06Z,martinpdes-maintenance,0.2.2,,MIT,16476,Shared release preparation and metadata checks for scientific Python projects
+2026-10-24T21:36:00Z,raxtik-etl,0.1.0.dev0,Raxtik Team,AGPL-3.0-or-later,271413,Adverse event ETL pipeline and canonical data platform for pharmacovigilance and safety data generation
+2026-10-24T21:40:00Z,openble-muse,0.1.0,Kadima Tech,MIT,60980,"Interaxon Muse EEG headband BLE protocol: command framing, JSON replies, the three data layouts and a command link, without a Bluetooth stack."
+2026-10-24T21:40:10Z,openble-sonicare,0.1.0,Kadima Tech,MIT,20002,Philips Sonicare toothbrush GATT map and advertisement matching.
+2026-10-24T21:40:52Z,truckertech,0.0.0,TruckerTech LLC,Apache-2.0,10894,Name reservation for the TruckerTech Python SDK.
+2026-10-24T21:46:20Z,algovoi-waf,0.1.0,,Apache-2.0,71785,"Semantic WAF for agentic / e-commerce payments — fail-closed A2A JSON-RPC gate, OWASP-mapped"
+2026-10-24T21:56:13Z,riskhub-engine,0.1.0,louisdelacour21,MIT,141723,"Pure-Python risk engine: VaR/ES and backtests, credit, XVA, FRTB, liquidity, IRRBB, operational and model risk. No dependencies."
+2026-10-24T21:58:52Z,dktcli,1.0.0,,MIT,160256,"devkittools: the developer's swiss army knife - 35+ zero-dependency CLI tools (ports, serve, json, git helpers, secrets scan, cron, and more) under one command: dkt"
+2026-10-24T21:59:07Z,familylink-bonustime,1.0.2,Grant miller,PSF,12718,A simple interface to add bonus time to your Chromebook or other device in Google FamilyLink
+2026-10-24T22:00:23Z,ariston-net-api,0.20.0,Wojciech Anioł,,62790,Ariston module
+2026-10-24T22:03:33Z,dxa-research-toolkit,0.2.0,,"MIT License Copyright (c) 2026 Kadircan Calışgan Permission is hereby granted, free of charge, to a…",223393,Research CLI for XSS candidate analysis and local proof labs
+2026-10-24T22:12:26Z,rocket-sim-rezig,0.1.1,Your Name,,5796,Rocket and Shuttle simulation package
+2026-10-24T22:13:36Z,nnunet-mlx,0.5.1,Joseph Sandoval,Apache-2.0 AND MIT,278644,MLX-native nnU-Net v2 inference on Apple Silicon
+2026-10-24T22:13:44Z,ical-mcp,0.2.2,,MIT,22854,"macOS Calendar.app CLI and MCP server — list calendars, schedule events, invite attendees"
+2026-10-24T22:19:58Z,chiroid,0.1.0,RelayMesh Labs <relaymesh@gmail.com>,Apache-2.0,133210,CHIROID: Cryptographically Verifiable Runtime and Authorization Layer for Autonomous AI Agents
