@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T06:22:04Z,pyalloq-simulation,0.1.20,Siddeshkanth,,38294,Core simulation engine for PyAlloq.
+2026-10-24T06:23:26Z,misakadb,0.1.1,,MulanPSL-2.0,55027,"MisakaDB Python client, MiQL query builder and command-line interface"
+2026-10-24T06:25:01Z,legendaria,0.1.0.dev0,flou-ainan,MIT,119459,Legendária transcription engine: local Whisper transcription with word timings (CLI: flosub).
+2026-10-24T06:27:51Z,ehr-sieve,0.0.1,Brett VanderPlaats,Apache-2.0,13156,"Policy-driven tokenization and minimization of PHI in FHIR and other EHR JSON, before it leaves the provider. Pre-release."
+2026-10-24T06:30:39Z,whitebox-dedup,0.1.0,"Daniel Olagunju <d.olagunju@futuxconsult.com>, Temitope Olarewaju <t.olarewaju@futuxconsult.com>",MIT,90962,Interpretable entity deduplication with auditable MARS equations and conformal prediction
+2026-10-24T06:32:26Z,biaspay,2.0.0,Bias,MIT,105293,Python client for the Bias API
+2026-10-24T06:32:54Z,seqleak,0.4.1,Tejasvi S. Tomar,Apache-2.0,426323,"Gene-position baselines, position-held-fixed metrics and a leak linter for genomic language model benchmarks"
+2026-10-24T06:34:01Z,posbench,0.4.1,Tejasvi S. Tomar,Apache-2.0,10505,posbench is now seqleak; this package only installs seqleak
+2026-10-24T06:34:07Z,silinosic-x,11.2.0,Niyor Kalita <voltsparx@gmail.com>,LicenseRef-Proprietary,1178593,"Multi-engine OSINT orchestration for profile intelligence, domain-surface reconnaissance, and fused correlation reporting."
+2026-10-24T06:35:04Z,pairctrl,0.1.0,Tejasvi S. Tomar,Apache-2.0,53598,"Evaluation code of PairCtrl, a position- and relatedness-controlled benchmark for genomic language models"
+2026-10-24T06:45:58Z,out-of-band,0.4.0,Peng Ding,Apache-2.0,65075,"Out-of-band CI receipts: sign where GitHub cannot reach, verify in Actions, publish a check."
+2026-10-24T06:48:23Z,battu-tietkhi,1.1.1,caphenpro,MIT,8038,Thuật toán xác định tháng Can Chi Bát Tự theo kinh độ mặt trời
+2026-10-24T06:52:43Z,xippios-usda-psd,0.1.0,XIPPIOS GmbH,Apache-2.0,197192,"Typed client, MCP tools and HTTP routes for USDA FAS PSD Online"
+2026-10-24T06:52:47Z,noema-rag,0.1.0,Rishu <sheth.rishu50@gmail.com>,Apache-2.0,153775,Convert text into compact logical form for token-efficient RAG
+2026-10-24T07:01:20Z,asi-telemetry,0.2.0,Devrithm Labs,MIT,21986,Observability and Distributed Tracing SDK for AI Agents and LLMs
+2026-10-24T07:01:56Z,open-dqi-core,0.1.0,"Daniel Olagunju <d.olagunju@futuxconsult.com>, Temitope Olarewaju <t.olarewaju@futuxconsult.com>",Apache-2.0,117750,Schema-agnostic Data Quality Index middleware for any tabular dataset
+2026-10-24T07:04:30Z,smart-sentinel-downloader,1.0.0,Lokesh S K,MIT,151705,"Fast, selective, and robust Sentinel-1 and Sentinel-2 data downloader for the Copernicus Data Space Ecosystem (CDSE)."
+2026-10-24T07:12:41Z,comfy-agent-node,22.23.2,Comfy Org,MIT,196197955,The Node.js runtime the local Comfy agent's document host runs on.
