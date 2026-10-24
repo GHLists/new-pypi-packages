@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T18:20:56Z,geningeox,0.0.1,Shajin Thankaswamy,Apache-2.0,10723,Generative inverse design of time-varying photonic metastructures in JAX (under active development)
+2026-10-24T18:24:10Z,s2s-rnn,0.1.0,Roshan,MIT,7668,A sequence-to-sequence RNN built from scratch in pure NumPy
+2026-10-24T18:25:42Z,flask-githubkit,0.1.2,LJFCoding,MIT,29474,"Flask extension for GitHub OAuth login, built on GitHubKit. Handles expiring-token refresh and server-side sessions."
+2026-10-24T18:26:58Z,pysatellitespotter,0.2.0,Katherine Dubé,MIT,33786,"Predict naked-eye satellite passes, as See A Satellite Tonight does"
+2026-10-24T18:29:32Z,openble-lifesense,0.1.0,Kadima Tech,MIT,54736,"Lifesense A2/A3 weight-scale protocol (Philips DL8780): packet parsers and the pair and sync handshake, without a Bluetooth stack."
+2026-10-24T18:29:38Z,openble-bondtouch,0.1.0,Kadima Tech,MIT,74670,"Bond Touch bracelet BLE protocol: GATT map, setup handshake, touch patterns, LED and motor frames and a session link, without a Bluetooth stack."
+2026-10-24T18:29:40Z,openble-lovense,0.1.0,Kadima Tech,MIT,51101,"Lovense toy BLE protocol: identity UUID, text commands, 0xAA frames and a paced command link, without a Bluetooth stack."
+2026-10-24T18:31:30Z,sshi-py,0.2.0,Fire162,,21712,Python 3 async client & AI agent SDK for sshx.io collaborative terminals
+2026-10-24T18:32:38Z,entwined,0.0.1,jmdm,Apache-2.0,11130,Placeholder for a Cartesian Genetic Programming library; the first real release is coming.
+2026-10-24T18:35:41Z,tersalang,0.1.0,Kevin Mitchell,Apache-2.0 AND CC-BY-4.0,588148,"Reference interpreter for Tersalang, a word-based programming language for LLMs to write and RL harnesses to score."
+2026-10-24T18:35:50Z,lenmark-converter,0.1.2,,MIT,78384,Unofficial batch converter for LenMark 3DS EMD 3.0 projects to EMX 3.7
+2026-10-24T18:36:11Z,bjdata-serpent,0.1.0,Nebojša Cvetković,MIT,4800935,"BJData (Binary JData) encoder and decoder, on the serpent C++ library"
+2026-10-24T18:36:23Z,agoradm-uhp,0.1.0,shichuanqiong,Apache-2.0,28854,"Bridge AgoraDM to any UHP server (HarnessRouter): a DM to your agent runs as a task in Codex, Claude Code, Hermes or another harness, and the reply and its files go back to the sender."
+2026-10-24T18:36:57Z,pantech,0.1.0,Pantech Dynamics,MIT,241504,The official Python SDK for the Pantech Dynamics public API.
+2026-10-24T18:38:35Z,fastapi-alcazaba,0.1.0,long2ice and the fastapi-cache contributors,Apache-2.0,136814,"Secure, maintained response cache for FastAPI (a fork of fastapi-cache2)"
+2026-10-24T18:39:20Z,sparse-delta-memory,2.0.0,,CC-BY-NC-4.0,1015317,"Sparse Delta Memory (SDM): a sparse memory layer for language models, with deterministic CUDA kernels"
+2026-10-24T18:39:22Z,kremle-detect,2.7.1,RUdolf1517,MIT,261317,Защита сайта от пользователей Яндекс Браузера и переходов с Яндекса. Капча с вопросами ЕГЭ.
+2026-10-24T18:39:33Z,python-intelbras-solar-local,0.1.1,Hudson Brendon <contato.hudsonbrendon@gmail.com>,MIT,61279,Async Python client for Intelbras solar inverters (Sungrow WiNet-S) over Modbus TCP and the datalogger WebSocket
+2026-10-24T18:39:43Z,speakinpy,0.1.2,,,29762,A Python module for recorded audio transcription via Gemini API
+2026-10-24T18:39:44Z,rita-py,4.0.9,Daniel Howe <ritapy@rednoise.org>,GPL-3.0-only,868709,Python port of RiTa — a library for natural language and generative writing
+2026-10-24T18:39:48Z,solidsforyou-whisper-base-1,1.0.0,SOLIDS FOR YOU,MIT,94375479,"OpenAI Whisper base (MIT) converted for faster-whisper, part of the SOLIDS FOR YOU transcriber"
+2026-10-24T18:39:53Z,solidsforyou-whisper-base-2,1.0.0,SOLIDS FOR YOU,MIT,55851100,"OpenAI Whisper base (MIT) converted for faster-whisper, part of the SOLIDS FOR YOU transcriber"
+2026-10-24T18:39:58Z,solidsforyou-whisper-small-1,1.0.0,SOLIDS FOR YOU,MIT,94375503,"OpenAI Whisper small (MIT) converted for faster-whisper, part of the SOLIDS FOR YOU transcriber"
+2026-10-24T18:40:03Z,solidsforyou-whisper-small-2,1.0.0,SOLIDS FOR YOU,MIT,94375503,"OpenAI Whisper small (MIT) converted for faster-whisper, part of the SOLIDS FOR YOU transcriber"
+2026-10-24T18:40:13Z,acodo,0.3.0,,MIT,56284,"Utilidades puras del framework Acodo: validación, conversión, parseo y logger."
+2026-10-24T18:41:38Z,zerynex-python,0.2.0,,MIT,109411,"Local Zcash PCZT developer toolkit: privacy policy analysis, synthetic MCP integrations, refund risk checks and infrastructure adapters"
+2026-10-24T18:43:00Z,kulisse,1.0.1,jhnnsrs <jhnnsrs@gmail.com>,MIT,34286,"device and scene models for arkitekt: self-contained binary glTF with a joint table, authored from URDF and checked before upload"
+2026-10-24T18:44:09Z,torch-lb,0.1.0,,,18599464,Numbered AI practical document and code viewer
+2026-10-24T18:46:47Z,batchvault,0.1.0,,"MIT License Copyright (c) 2026 coldsofttech Permission is hereby granted, free of charge, to any pe…",215480,"Batch archive, compress, split and restore files with a native or 7-Zip engine."
+2026-10-24T18:47:35Z,fzf-gnat,0.1.1,Zakaria Fadli <zakaria1193@gmail.com>,,32661,Fuzzy search Ada sources by unit name and krunched file name
+2026-10-24T18:49:15Z,simple-calc-youruniqueid,0.1.0,,,2896,A simple calculator package
+2026-10-24T18:49:57Z,django-chat-ui,0.1.0,Rodolfo Valentín Becerra García <rodolvbg@gmail.com>,MIT,828697,"One chat interface for WhatsApp, chatbots, internal chat and ""contact us"" widgets: web components that speak Matrix, and a Django homeserver for them, with extensions for what a business chat needs."
+2026-10-24T18:51:00Z,Essl-F22-SDK,0.1.0,amit das <mramitdas99@gmail.com>,Apache-2.0,257037,Essl F22 SDK: synchronous Python SDK for eSSL/ZKTeco F22 terminals.
+2026-10-24T18:53:10Z,quickmath-tools,0.1.0,,,3553,A small collection of basic arithmetic operations.
+2026-10-24T18:53:58Z,sprezzature-video,0.2.0,Warith HARCHAOUI <warithmetics@deraison.ai>,BSD-3-Clause,74071,"Project launch films for the sprezzature stack: one spec drives landscape, portrait and square on a single time grid, every on-screen claim verified against the code it describes, and the asset tree…"
+2026-10-24T18:57:31Z,semantic-warehouse-mcp,0.1.0,Aleksei Veselov,Apache-2.0,263368,"A read-only MCP server for SQL databases with a semantic layer in an open format (Apache Ossie), metrics, your own context and skills — for any database and any MCP client."
+2026-10-24T19:05:56Z,claude-usage-limits,0.1.0,claude-usage contributors,MIT,32167,"CLI for your Claude subscription rate limits: the 5-hour and 7-day usage windows Claude Code shows in /usage, from your terminal."
+2026-10-24T19:07:48Z,rsmol,0.1.0,,MIT OR Apache-2.0,20451265,"Fast, modern molecular visualization with a PyMOL-style scripting API"
+2026-10-24T19:10:46Z,nemo-db,0.1.1,Pravanjan Roy,"MIT License Copyright (c) 2026 Pravanjan Roy Permission is hereby granted, free of charge, to any p…",6155317,High-performance embedded relational database written in C++20 with a unified Sync/Async Python API.
+2026-10-24T19:11:41Z,norvara-restrict-cut,1.0.0rc1,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,194310,"Restriction mapping and digest simulation, with circular topology and methylation context, from no third-party dependencies"
+2026-10-24T19:11:43Z,splitscope,0.1.0,,MIT,26413,"Cluster a train set and measure how well it covers your eval set (CPU hashing or LLM embeddings; KMeans, MiniBatchKMeans, FAISS)."
+2026-10-24T19:11:49Z,html2pptx-mcp,0.4.0,html2pptx-mcp contributors,Apache-2.0,250922,"Generate natively editable PowerPoint decks from a restricted, versioned HTML contract."
+2026-10-24T19:13:35Z,trvny-wambridge,0.0.5,trvny,ISC,275664,Local Wi-Fi audio bridge for Samsung Wireless Audio Multiroom speakers
+2026-10-24T19:16:21Z,skills-but-for-dev,0.1.0,Melih,Apache-2.0,72582,Curated technology stack and open-source repo/model recommendations for AI agents
+2026-10-24T19:18:05Z,ozx,0.1.1,drycraf,Apache-2.0,13723,"ozx, a plugin launcher: `ozx <name>` runs the ozx-<name> executable on the PATH, as git and kubectl do"
