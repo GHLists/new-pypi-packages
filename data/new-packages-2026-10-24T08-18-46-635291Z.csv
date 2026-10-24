@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T07:19:46Z,scrapemend,0.0.1,FengYue427,MIT,30526,"Self-healing web scraping for Python. Describe what you want in plain language; when a site changes and your selectors break, an LLM repairs them automatically."
+2026-10-24T07:31:52Z,tree-sitter-asl,0.1.0,Connor Sample <tabulatejarl8@gmail.com>,MIT,904754,ACPI Source Language
+2026-10-24T07:32:24Z,rtfm-mcp,0.8.0,Canlin Zhang,MIT,73090,Read The Full Manual — local document-corpus search MCP server.
+2026-10-24T07:44:58Z,tessera-gw,1.0.1,tessera contributors,BSD-3-Clause,330698,"Telescope-agnostic gravitational-wave follow-up engine: host-galaxy ranking, feasible schedules, reproducibility manifests."
+2026-10-24T07:46:22Z,gbc-scene-forge,0.1.0,,MIT,117991,Local browser scene editor with game-owned connectors
+2026-10-24T07:51:02Z,faultshield,0.1.0,Hamidreza <h4midrezam@gmail.com>,MIT,47647,"Lightweight, zero-dependency resilience and fault-tolerance toolkit for Python."
+2026-10-24T07:51:56Z,ocpp-csms,0.1.0,Dr-Blank <64108942+Dr-Blank@users.noreply.github.com>,AGPL-3.0-or-later,78962,asyncio OCPP 1.6J central system for local control of EV chargers
+2026-10-24T07:56:32Z,squealang,0.1.0,pwtail <abvit89s@gmail.com>,MIT,93771,Gleam-like language for the BEAM with Python syntax
+2026-10-24T07:56:43Z,padspeaker,0.1.0,Ahmed Elmalt,MIT,341791,Play your Linux machine's sound on the built-in speaker of a Bluetooth DualShock 4 style gamepad
+2026-10-24T07:58:13Z,darth-vader-139389142,0.0.1,egor <egorsova7@gmail.com>,"MIT License Copyright (c) [year] [fullname] Permission is hereby granted, free of charge, to any pe…",6064,"modul, and all"
+2026-10-24T07:59:03Z,pycacheforge,0.1.0,Hamidreza <h4midrezam@gmail.com>,MIT,55468,"Lightweight, zero-dependency caching, tiered storage, and cache stampede protection toolkit for Python."
+2026-10-24T08:00:52Z,napxplorer,1.0.0,Shrikant,MIT,1145244,"NAPxplorer: Structural Analysis, Quantum Energetics & 3D Visualization of Nucleic Acid–Protein Complexes"
+2026-10-24T08:01:39Z,mcp-idprobe,0.1.0,hao li <haoli5933@gmail.com>,MIT,39903,Runtime probe for MCP cross-tenant response leaking via JSON-RPC id collision (CVE-2026-111770)
+2026-10-24T08:02:28Z,swarm-tree,0.5.0,hao li,MIT,125347,"Hierarchical multi-agent orchestration: a tree of LLM agents, each node backed by a different provider"
+2026-10-24T08:05:15Z,portcheck-tool,0.10.0,Royston D,MIT,32081154,"See what's using a port and free it safely: which process, who started it, stop it. Fixes ""port already in use""."
+2026-10-24T08:08:08Z,hawkes-engine,0.1.0,Freddy Shi Chun Cheung,MIT,3851370,Multi-dimensional Hawkes process library with trust calibration
+2026-10-24T08:08:26Z,fuaran-ui-data,0.0.2,"""Andrew J. Willshire"" <andrew@fuaran.com>",Apache-2.0,1363724,"Data-science companion to the Fuaran UI Python host — dataframe adapters (pandas / polars / Arrow), a one-call self-contained HTML export, and in-place notebook output."
+2026-10-24T08:09:42Z,pytaskmesh,0.1.0,Hamidreza <h4midrezam@gmail.com>,MIT,39706,"Lightweight, zero-dependency directed acyclic graph (DAG) task orchestration and pipeline execution engine for Python."
+2026-10-24T08:09:48Z,genplis,1.0.0,Fidel Ramos <contact.gyldd@8shield.net>,GPL-3.0-or-later,420777,Generate M3U music playlists from tags and user-defined filters
+2026-10-24T08:10:53Z,tempstick-mcp,0.1.0,,MIT,17185,Temp Stick MCP server by OpenPandora — let your AI assistant check your freezer and temperature sensors.
+2026-10-24T08:14:31Z,livequill,0.2.0,,MIT,190986,"A floating prompt bar for any local website: any model (API, local or CLI agent) edits your files live."
+2026-10-24T08:15:13Z,flask-integration,0.2.2,Olof Tjerngren <olof@tjerngren.net>,LGPL-3.0-or-later,302544,"A small framework for building integrations in Flask apps: key-authenticated API endpoints, outgoing webhooks, OpenAPI 3.1, and CLI management."
+2026-10-24T08:17:34Z,ivralo,0.0.1,aitnus,,3069,"AI agents that investigate, verify and repair production incidents inside closed networks."

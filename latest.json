@@ -1,27 +1,41 @@
 {
   "list": {
-    "count": 18,
-    "from": "2026-10-24T06:20:42.900497Z",
-    "path": "data/new-packages-2026-10-24T07-18-42-449575Z.csv",
-    "to": "2026-10-24T07:18:42.449575Z"
+    "count": 23,
+    "from": "2026-10-24T07:18:42.449575Z",
+    "path": "data/new-packages-2026-10-24T08-18-46-635291Z.csv",
+    "to": "2026-10-24T08:18:46.635291Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-10-24T03:51:15Z",
-      "package": "ahare-data-lite",
-      "since": "2026-10-24T03:20:15.138815Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-10-24T04:39:38Z",
       "package": "aiozoneminder",
       "since": "2026-10-24T04:18:43.700369Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-24T07:50:13Z",
+      "package": "china-tool",
+      "since": "2026-10-24T07:18:42.449575Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-24T07:42:20Z",
+      "package": "china-utils",
+      "since": "2026-10-24T07:18:42.449575Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-24T08:13:45Z",
+      "package": "doppler-bin",
+      "since": "2026-10-24T07:18:42.449575Z",
+      "version": null
     }
   ],
-  "serial": 42676312,
+  "serial": 42679123,
   "source_truncated": false,
-  "window": "2026-10-24T07:18:42.449575Z"
+  "window": "2026-10-24T08:18:46.635291Z"
 }
