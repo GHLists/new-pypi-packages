@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T08:59:40Z,litegrip-python,1.1.3,NEXFORM ROBOTICS,Apache-2.0,400045,Python SDK for the LiteGrip lightweight robotic gripper series
+2026-10-24T09:23:40Z,panseg,0.1.0,,,679522,Pancreas segmentation inference
+2026-10-24T09:23:41Z,cordscript,1.0.0,Arimo,,60276,
+2026-10-24T09:26:36Z,attapy,0.1.0,Samyar,MIT,75843,"Async, zero-dependency Python library for the Soroush Plus Bot API (کتابخانهٔ async برای ربات‌های سروش‌پلاس)"
+2026-10-24T09:26:56Z,nlpkit14,0.3.5,,,32821,Execute fourteen NLP practical programs with commented source and expected outputs
+2026-10-24T09:26:56Z,pyi18n-plug,1.0.0,Your Name <you@example.com>,MIT,32230,"A lightweight, plugin-style i18n library with JSON catalogs, plural support, and a CLI."
+2026-10-24T09:27:30Z,landed-cost-calculator,0.3.1,,MIT,23566,"True per-unit landed cost for foreign-trade sellers based in China shipping any product to any country: China-side costs in CNY, destination duty + VAT/GST, brokerage and last-mile, in any currency."
+2026-10-24T09:28:03Z,opposable-thumbs,0.1.0,Jon Combe <pypi@joncombe.net>,BSD-3-Clause,88124,"Thumbnails and image manipulation driven by URL query strings, for any Python project."
+2026-10-24T09:29:35Z,dp-vit,0.1.0,,,32197,Dynamic Patch Vision Transformer with ICS-based patch selection
+2026-10-24T09:29:35Z,iristool,0.1.2,Pietro Di Leo,MIT,46609,Simple pandas and SQL helpers for InterSystems IRIS
+2026-10-24T09:39:11Z,greentrain,0.1.0,,Apache-2.0,68204,Low-carbon AI training service built on iroh-tinker
+2026-10-24T09:39:25Z,fedmesh,0.1.0,,Apache-2.0,63220,Federated joint-training mesh built on iroh-tinker
+2026-10-24T09:39:30Z,elasticgrid,0.1.0,,Apache-2.0,37707,Cross-cloud elastic training grid for variable-size workloads
+2026-10-24T09:39:34Z,modelcertify,0.1.0,,Apache-2.0,38137,Supply-chain certification for trained models
+2026-10-24T09:41:20Z,asn2rdf,1.0.0,Mathias Vanden Auweele,EUPL-1.2,53085,"Generates OWL, SHACL shapes and SKOS concepts from ASN.1 modules, with the mapping model of xsd2rdf"
+2026-10-24T09:41:32Z,finland2mc,0.1.0,Topi Autio,MIT,1040755,Turn any place in Finland into a 1:1 Minecraft Java Edition world from National Land Survey open data
+2026-10-24T09:46:52Z,svg-sanitize,0.1.0,Alexandre Dulaunoy <a@foo.be>,MIT,28415,"Strict, passive-only SVG reconstruction/sanitization prototype"
+2026-10-24T09:47:38Z,gpt-video,1.0.0,GPT-Video <hello@gpt-video.com>,MIT,202900,"Python client for the GPT-Video API: upload a video, find its clips, edit and export them."
+2026-10-24T09:48:12Z,bip39-slip39,2026.10.24,The btclib developers,MIT,994795,"BIP39, SLIP-0039 and Electrum mnemonic codes, from entropy to seed, on the standard library alone"
+2026-10-24T09:54:10Z,yamlruff,0.0.1,,GPL-3.0-or-later,9026699,"Fast YAML linter and fixer, compatible with yamllint"
+2026-10-24T09:54:36Z,toolcallbench,1.0.0,Herin Patel <herinpatel15113@gmail.com>,MIT,108370,Benchmark how reliably local LLMs call tools on your own repo and hardware
+2026-10-24T09:58:26Z,chartagent,0.1.0,Sharim Raza,Apache-2.0,1132117,Alpha release. Testing is in progress. An embeddable agentic chart-creation library for Python.
+2026-10-24T10:03:31Z,simulst,0.1.0,pokoto <40024614+lvbotenbest@users.noreply.github.com>,Apache-2.0,97277,Unified speech+LLM model for vLLM: serve the simultaneous-interpretation stack as one model
+2026-10-24T10:05:04Z,tapcub,0.1.0,TapCub <hello@tapcub.com>,MIT,34298,"TapCub server-side SDK for Python: events, sign-ups, identities, user profiles, items and accounts"
+2026-10-24T10:07:43Z,graphqlad,0.1.0,Matteo Redaelli,GPL-3.0-or-later,53283,Read-only GraphQL interface over the msad Active Directory library
+2026-10-24T10:10:42Z,statemachines,0.0.1,State Machine,MIT,2480,Placeholder for State Machine (statemachinehq). Real packages coming.
+2026-10-24T10:10:44Z,statemachinehq,0.0.1,State Machine,MIT,2512,Placeholder for State Machine (statemachinehq). Real packages coming.
+2026-10-24T10:10:51Z,dexsec,0.7.2,DEX-SEC contributors,MIT,244145,DEX-SEC — Inside-Out Hybrid Application Security Testing CLI (SAST + safe DAST + auto-remediation)
+2026-10-24T10:11:28Z,mcp-server-novelai,0.1.0,DesmondFox,MIT,39607,"Model Context Protocol (MCP) server for NovelAI image generation: V5/V4.5, img2img, inpaint, Director Tools, upscale, Vibe Transfer"
+2026-10-24T10:11:36Z,dikasta,0.3.31,Dikasta,Apache-2.0,1483962,Terminal client for the Dikasta coordinator: sign in with your account and talk to the platform's agent.
+2026-10-24T10:15:11Z,opci,1.0.0,Syed Zia Haider,MIT,182402,"A free, open source plant cost index, checked against the Chemical Engineering Plant Cost Index (CEPCI), using only public domain data."
+2026-10-24T10:16:06Z,code-airlock,0.1.0,code-airlock team,,32202,Low-latency OpenAI-compatible PII Redaction & Rehydration Gateway and FastMCP Server
+2026-10-24T10:18:35Z,instagram-publish,1.0.0,remc0r,MIT,20278,"Publish photos, videos, carousels and Reels on Instagram with the Graph API, in one call."
