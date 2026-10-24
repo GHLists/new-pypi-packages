@@ -1,27 +1,34 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-24T11:19:53.303085Z",
-    "path": "data/new-packages-2026-10-24T12-20-48-115952Z.csv",
-    "to": "2026-10-24T12:20:48.115952Z"
+    "count": 39,
+    "from": "2026-10-24T12:20:48.115952Z",
+    "path": "data/new-packages-2026-10-24T13-18-41-064673Z.csv",
+    "to": "2026-10-24T13:18:41.064673Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-24T12:25:37Z",
+      "package": "fhirkit-rs",
+      "since": "2026-10-24T12:20:48.115952Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-24T13:17:52Z",
+      "package": "langgraph-secure-agents",
+      "since": "2026-10-24T12:20:48.115952Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-24T10:41:30Z",
       "package": "orca-sdk-python",
       "since": "2026-10-24T10:18:45.335133Z",
       "version": null
-    },
-    {
-      "attempts": 2,
-      "created_at": "2026-10-24T10:24:27Z",
-      "package": "python-xray-api",
-      "since": "2026-10-24T10:18:45.335133Z",
-      "version": "0.0.226.10.21"
     }
   ],
-  "serial": 42684788,
+  "serial": 42686285,
   "source_truncated": false,
-  "window": "2026-10-24T12:20:48.115952Z"
+  "window": "2026-10-24T13:18:41.064673Z"
 }

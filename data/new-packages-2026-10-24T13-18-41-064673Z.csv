@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T10:24:27Z,python-xray-api,26.10.21,iineolineii,,245017,Auto-generated Python gRPC and Protobuf bindings for Xray-core
+2026-10-24T12:21:48Z,ret2win,1.3.3,Casper <vishal.r.dev07@gmail.com>,MIT,89546,Automated CTF Return-to-Win Exploitation Toolkit & Interactive Rich TUI
+2026-10-24T12:23:49Z,qwen3-0-6b,0.1.0,mmfarabi,Apache-2.0,13264,Auto-downloader for Qwen/Qwen3-0.6B model on Kaggle for SGLang and inference
+2026-10-24T12:24:46Z,python-plotto,0.1.0,,MIT,75080,"Grammar-of-graphics plots for notebooks, web pages and slides with one renderer."
+2026-10-24T12:27:20Z,mtst-forecasting,0.1.1,Alexandro Bizeul,MIT,29262,Configurable multi-resolution time series Transformer for PyTorch
+2026-10-24T12:30:43Z,mail-cadence,0.1.1,krj29b,"MIT License Copyright (c) 2026 Bulk Mailer Contributors Permission is hereby granted, free of charg…",83709,Asynchronous SQLite-backed bulk email dispatch and reporting engine with XML import/export support
+2026-10-24T12:30:49Z,ops-onehit,1.0.2,a1580028209 <57759227+a1580028209@users.noreply.github.com>,MIT,4256501,"End-to-end AI SRE / Ops Agent — one-shot diagnosis, repair, and reporting."
+2026-10-24T12:34:26Z,memshell-ai,0.1.0,Ankush Barua <ankushbarua909@gmail.com>,,40009,In-memory virtual Unix filesystem and shell tool for AI agents
+2026-10-24T12:36:03Z,loadmark,0.1.0,Prathima <prathimachanu@gmail.com>,MIT,23572,"A safe bookmark (checkpoint) for incremental data loads: only moves forward on success, with lookback, backfill and run history."
+2026-10-24T12:38:20Z,bats-core,1.14.0,,MIT,197601,"Bash Automated Testing System (bats-core), packaged for pip"
+2026-10-24T12:38:26Z,lab-core-pruebas,0.0.1,aGo lab <hola@ago.cl>,CC0-1.0,2060,Nombre reservado por aGo lab; el paquete real se instala desde su repositorio.
+2026-10-24T12:38:27Z,lab-core,0.0.1,aGo lab <hola@ago.cl>,CC0-1.0,1973,Nombre reservado por aGo lab; el paquete real se instala desde su repositorio.
+2026-10-24T12:39:32Z,carlo-gavazzi-energy-meter-modbus,0.1.0,carlo-gavazzi-energy-meter-modbus contributors,Apache-2.0,98578,"Read Carlo Gavazzi energy meters (EM530, EM540, EM330, EM340, ET330, ET340) over Modbus."
+2026-10-24T12:40:32Z,victron-energy-meter-modbus,0.1.0,victron-energy-meter-modbus contributors,Apache-2.0,62670,Read Victron Energy VM-3P75CT and VM-3P5A energy meters over Modbus UDP.
+2026-10-24T12:44:04Z,osco,0.1.1,Vivek Singh <s1992vivek@users.noreply.github.com>,LicenseRef-Proprietary,77551,"OptimNet supply chain ontology and data-preparation engine: typed entities, note contracts, problem specs and an ontology-driven validation engine."
+2026-10-24T12:44:06Z,keras-proba,0.1.0,Muhammad Anas Raza <memanasraza@gmail.com>,MIT,88578,Uncertainty awareness in deep learning with multi-backend Keras 3
+2026-10-24T12:44:24Z,coho-delivery-sdk,2026.1.0a1,Coho,Apache-2.0,60895,"Read Coho content from Python: the delivery client, and the runtime generated content libraries call."
+2026-10-24T12:45:41Z,coho-codegen,2026.1.0a1,Coho,Apache-2.0,99817,"Generate a typed Python content library from your Coho content types, and create one from the template."
+2026-10-24T12:46:58Z,flied,0.1.0,,Apache-2.0,1166,Installs Flide: accelerating decision inference with exact state forking
+2026-10-24T12:50:52Z,wardowl,2.0.0,Syed Muzakkir Hussain,MIT,461463,Permission-aware retrieval for RAG: every user gets only the chunks they are allowed to read.
+2026-10-24T12:57:31Z,cone.charts,2.0.0,Cone Contributors <dev@conestack.org>,MIT,461743,Chart.js integration into cone
+2026-10-24T12:57:33Z,cone.three,0.1.1,Cone Contributors <dev@conestack.org>,MIT,876009,three.js integration into cone
+2026-10-24T12:57:35Z,yafowil.widget.tiptap,2.0.0,Yafowil Contributors <dev@conestack.org>,Simplified BSD,897538,Tiptap Editor Widget for YAFOWIL
+2026-10-24T13:00:07Z,gset,0.1.1,"Zeev Weizmann, Elias Ventre",,54805,GSET: Gene Signals from Embedding Trajectories select compact contexts for mechanistic GRN inference
+2026-10-24T13:00:09Z,koia-scene-model,1.0.0,centeractive ag <info@centeractive.com>,MIT,8177,"Pydantic models generated from the Koia scene JSON Schema, for programs that write scenes into CouchDB for Koia"
+2026-10-24T13:02:46Z,rbm_tools,0.0.0,,MIT,61383,
+2026-10-24T13:03:46Z,agent-operations,0.1.0,WenSongWang,MIT,57356,Lightweight self-hosted Agent Operations (AgentOps / LLMOps) toolkit
+2026-10-24T13:04:18Z,npzsee,0.1.0,Jinghao Yang,GPL-3.0-or-later,124461557,Fast native viewer for multidimensional NumPy arrays
+2026-10-24T13:05:16Z,fidereport,2026.10.17,Dries Moors,MIT,417475,Automate creation of FIDE reports
+2026-10-24T13:05:57Z,bitra,0.10.1,Bijective Labs,MIT,1974467,Autonomous trading agents with deterministic execution. The agents propose; the system decides.
+2026-10-24T13:06:20Z,psiphon,2.0.0,KpihX,BUSL-1.1,79021,Foreground native Psiphon packet tunnel and explicit local proxy for Linux
+2026-10-24T13:06:33Z,jaimo,0.1.0,JaiMo Core <contact@jaimo.xyz>,MIT,8044,Python library and toolkit for data science applications.
+2026-10-24T13:07:02Z,norvara-rev-comp,1.0.0rc1,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,51664,"Reverse complement, transcription and multi-frame translation with no third-party dependencies"
+2026-10-24T13:09:15Z,agindow,0.1.0a0,,Apache-2.0,601407,API drift firewall for AI agents on Python (Rust/WASM)
+2026-10-24T13:10:42Z,aqx-adaptive-execution,1.0.0,,MIT,53018,Risk-aware adaptive backend selection for quantitative Python workloads
+2026-10-24T13:12:58Z,pelago,0.0.1,"TU Wien, IFT",MIT,54400,"Helpers for Ocean / Pontus-X compute-to-data algorithms: inputs, consumer parameters, outputs, HDF5 sections and PDF reports."
+2026-10-24T13:13:43Z,lmfpd,0.1.0,,MIT,89606,"Language-model fingerprint detection: offline scoring, challenges, and live detection."
+2026-10-24T13:15:53Z,game-viz,0.0.1.dev0,Pin Yue Sung <contact@econ-viz.org>,MIT,3858,"Game theory diagrams: payoff matrices, game trees, and LaTeX export"
+2026-10-24T13:18:13Z,exacta,0.0.1a1,Rodolfo Viana,Apache-2.0,158453,"Fast, reference-validated losses and metrics for deep learning on CPU and GPU."
