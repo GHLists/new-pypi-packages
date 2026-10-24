@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T00:20:05Z,railmap,0.1.0,Alexander Pershukevich,Apache-2.0,159651,GPU-NIC-CPU placement and RDMA connection-budget planner for multi-GPU nodes
+2026-10-24T00:21:29Z,fetchart,1.5.0,Samuel Arther,MIT,126417,"Download game art, achievements, posters, album covers, paintings, Pokémon, Minecraft skins and more from the command line."
+2026-10-24T00:28:46Z,lv8py,0.1.0,lv8 Authors,MIT,102131099,"In-process, offline browser environment emulation for Python, powered by V8"
+2026-10-24T00:33:14Z,pygamma-n,1.1.2,Eric Firing <efiring@hawaii.edu>,SOFTWARE LICENCE AGREEMENT 1.0 Grant of Licence 1.1 The CSIRO Division of Oceanography (herein refe…,937003,Interface to Jackett and McDougall gamma-n
+2026-10-24T00:35:42Z,ras-commander-fast-hdf,0.1.0,CLB Engineering Corporation,MIT,21801129,Native (Rust) HEC-RAS HDF engine for ras-commander
+2026-10-24T00:36:00Z,patchgg,0.0.0,,MIT,1724,Python SDK for Patch (patch.gg). Under development.
+2026-10-24T00:36:27Z,crax-bench,0.1.0,"Mourad Boustani, Mickey Beurskens, Thiago D. Simão",Apache-2.0,767100,A GPU-accelerated benchmark and algorithm suite for Safe RL.
+2026-10-24T00:37:44Z,octri-spec-converter,0.1.3,,Apache-2.0,20546168,Python bindings for the offline Octri Rust Spec Converter
+2026-10-24T00:37:53Z,octri-spec-auditor,0.1.3,,Apache-2.0,12190263,Python bindings for the offline Octri Rust Spec Auditor
+2026-10-24T00:37:59Z,datapce-scan,0.2.0,jkn <jkn@datapce.com>,MIT,188276,"Read-only count of what a coding agent ran, and what public block lists would have denied, from logs already on disk."
+2026-10-24T00:38:36Z,envname,1.0.0,Javier Lianes <javier@lianes8studio.com>,MIT,56408,"Validate and sanitize environment variable names against POSIX, shell and OS rules"
+2026-10-24T00:39:00Z,sniffbom,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,42699,"Detect, name and strip the Unicode byte-order mark on a byte string"
+2026-10-24T00:39:17Z,stripcontrol,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,42836,"Remove or detect control characters and terminal escape sequences in text, logs and streams"
+2026-10-24T00:39:35Z,humanjoin,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT AND Unicode-3.0,68812,"Join a list into a natural-language phrase: Oxford comma, overflow limit, and the list patterns of every Unicode CLDR locale"
+2026-10-24T00:43:14Z,torchfoundry,0.1.1,Lorik Bajrami,MIT,11146,Beginner-friendly utilities for building and training PyTorch models.
+2026-10-24T00:43:33Z,pymlkit,0.1.0,Jery <mroczkojeremi@gmail.com>,MIT,133834,Small neural network library with a C core and a Python wrapper
+2026-10-24T00:44:42Z,gpui-bridge,0.2.0,gpui-bridge contributors,MIT,29398233,Python client for the gpui-bridge native UI host
+2026-10-24T00:49:29Z,tsorder,0.1.0,Paulo Renato Alves Firmino,MIT,916610,"Order selection for time series models: information criteria, Fine-Hwang threshold estimators, McMillan-degree estimators, ARMA identification and integration order, in a dependency-free Rust core"
+2026-10-24T00:54:00Z,agentxray-replay,0.1.0,Cheng Ge,MIT,4484751,"Zero-instrumentation, fully local X-ray for coding-agent sessions: interactive timeline, tool-call tree, token/cost curves and failure highlights in a single shareable HTML file."
+2026-10-24T01:05:07Z,uc-xcomm,1.1.0,,MulanPSL-2.0,45904872,"Native signal, clock, trigger and coverage runtime for hardware verification"
+2026-10-24T01:06:15Z,claros-browser,0.1.0,,MIT,290776,Claros guard for browser-use agents: consequential clicks and submits are checked against your experts' rules before they reach the app
+2026-10-24T01:06:34Z,is-aes,0.0.1,BenchFlow,MIT,3842,A small design-quality checker. Early placeholder release.
+2026-10-24T01:12:33Z,plasma-ai-usage-collector,1.2.1,Victor Lima,GPL-3.0-or-later,437814,Coletor de métricas de uso e cotas de agentes de IA para KDE Plasma 6
