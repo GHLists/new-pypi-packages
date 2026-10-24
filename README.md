@@ -8,37 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 22:21 UTC
+## Latest list — 2026-10-24 23:18 UTC
 
-New packages created between 2026-10-24 21:19 UTC and 2026-10-24 22:21 UTC.
+New packages created between 2026-10-24 22:21 UTC and 2026-10-24 23:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-24T22-21-09-464378Z.csv)
+[Full CSV](data/new-packages-2026-10-24T23-18-39-910886Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-24 21:19:40 | [peachycheck](https://pypi.org/project/peachycheck/) | 0.1.0 | drexlerd | 85.2 kB | Native linters and agent hooks from one peachycheck.yml per repository |
-| 2026-10-24 21:19:58 | [shephouse-yt](https://pypi.org/project/shephouse-yt/) | 0.1.0 |  | 11.7 kB | youtube-transcript-api-style client that works from cloud servers, backed by an… |
-| 2026-10-24 21:20:22 | [myna-lang](https://pypi.org/project/myna-lang/) | 0.4.0 | Joseph Hicks | 148.8 kB | Myna: An AI-friendly, token-efficient symbolic language that transpiles to/from… |
-| 2026-10-24 21:21:25 | [documpy](https://pypi.org/project/documpy/) | 0.0.1 | Benjamin Kwon | 11.5 kB | Document Python: read documents into a structured model, starting with HWP and… |
-| 2026-10-24 21:23:02 | [simplibs-logger](https://pypi.org/project/simplibs-logger/) | 0.1.0 | "Dalibor Sova (Sudip2708)" <d… | 111.8 kB | A ready-to-use logger on top of the standard logging module: a console, an opti… |
-| 2026-10-24 21:25:53 | [sparkless-server-bin](https://pypi.org/project/sparkless-server-bin/) | 4.16.0 | Robin Sparkless contributors | 118.6 MB | Platform-specific native server executable for sparkless[server]. |
-| 2026-10-24 21:25:58 | [paperkit](https://pypi.org/project/paperkit/) | 0.1.0 | Antonio Paolillo <antonio.pao… | 121.5 kB | Reproducible builds and pre-submission checks for research papers |
-| 2026-10-24 21:31:23 | [coxmunk](https://pypi.org/project/coxmunk/) | 1.2.1 | "T. Harmel" <tristan.harmel@g… | 53.6 kB | Sunglint (Stokes vector) computation from the Cox-Munk wave slope statistics |
-| 2026-10-24 21:32:54 | [connex-rs](https://pypi.org/project/connex-rs/) | 0.1.1 |  | 2.5 MB | connex-rs: Connex data plane over UCX (one-sided RMA, signals, peer-failure eve… |
-| 2026-10-24 21:33:04 | [connex-ai](https://pypi.org/project/connex-ai/) | 0.1.1 | Connex Contributors | 631.5 kB | Communication library for distributed AI infrastructure: endpoint mobility prim… |
-| 2026-10-24 21:34:06 | [VecturaDB](https://pypi.org/project/VecturaDB/) | 1.0.0rc1 | VecturaDB contributors | 120.2 MB | VecturaDB, compatible with the Chroma API. |
-| 2026-10-24 21:35:06 | [martinpdes-maintenance](https://pypi.org/project/martinpdes-maintenance/) | 0.2.2 |  | 16.5 kB | Shared release preparation and metadata checks for scientific Python projects |
-| 2026-10-24 21:36:00 | [raxtik-etl](https://pypi.org/project/raxtik-etl/) | 0.1.0.dev0 | Raxtik Team | 271.4 kB | Adverse event ETL pipeline and canonical data platform for pharmacovigilance an… |
-| 2026-10-24 21:40:00 | [openble-muse](https://pypi.org/project/openble-muse/) | 0.1.0 | Kadima Tech | 61.0 kB | Interaxon Muse EEG headband BLE protocol: command framing, JSON replies, the th… |
-| 2026-10-24 21:40:10 | [openble-sonicare](https://pypi.org/project/openble-sonicare/) | 0.1.0 | Kadima Tech | 20.0 kB | Philips Sonicare toothbrush GATT map and advertisement matching. |
-| 2026-10-24 21:40:52 | [truckertech](https://pypi.org/project/truckertech/) | 0.0.0 | TruckerTech LLC | 10.9 kB | Name reservation for the TruckerTech Python SDK. |
-| 2026-10-24 21:46:20 | [algovoi-waf](https://pypi.org/project/algovoi-waf/) | 0.1.0 |  | 71.8 kB | Semantic WAF for agentic / e-commerce payments — fail-closed A2A JSON-RPC gate,… |
-| 2026-10-24 21:56:13 | [riskhub-engine](https://pypi.org/project/riskhub-engine/) | 0.1.0 | louisdelacour21 | 141.7 kB | Pure-Python risk engine: VaR/ES and backtests, credit, XVA, FRTB, liquidity, IR… |
-| 2026-10-24 21:58:52 | [dktcli](https://pypi.org/project/dktcli/) | 1.0.0 |  | 160.3 kB | devkittools: the developer's swiss army knife - 35+ zero-dependency CLI tools (… |
-| 2026-10-24 21:59:07 | [familylink-bonustime](https://pypi.org/project/familylink-bonustime/) | 1.0.2 | Grant miller | 12.7 kB | A simple interface to add bonus time to your Chromebook or other device in Goog… |
-| 2026-10-24 22:00:23 | [ariston-net-api](https://pypi.org/project/ariston-net-api/) | 0.20.0 | Wojciech Anioł | 62.8 kB | Ariston module |
-| 2026-10-24 22:03:33 | [dxa-research-toolkit](https://pypi.org/project/dxa-research-toolkit/) | 0.2.0 |  | 223.4 kB | Research CLI for XSS candidate analysis and local proof labs |
-| 2026-10-24 22:12:26 | [rocket-sim-rezig](https://pypi.org/project/rocket-sim-rezig/) | 0.1.1 | Your Name | 5.8 kB | Rocket and Shuttle simulation package |
-| 2026-10-24 22:13:36 | [nnunet-mlx](https://pypi.org/project/nnunet-mlx/) | 0.5.1 | Joseph Sandoval | 278.6 kB | MLX-native nnU-Net v2 inference on Apple Silicon |
-| 2026-10-24 22:13:44 | [ical-mcp](https://pypi.org/project/ical-mcp/) | 0.2.2 |  | 22.9 kB | macOS Calendar.app CLI and MCP server — list calendars, schedule events, invite… |
-| 2026-10-24 22:19:58 | [chiroid](https://pypi.org/project/chiroid/) | 0.1.0 | RelayMesh Labs <relaymesh@gma… | 133.2 kB | CHIROID: Cryptographically Verifiable Runtime and Authorization Layer for Auton… |
+| 2026-10-24 22:21:55 | [gh-inference](https://pypi.org/project/gh-inference/) | 0.6.2 | Tanish Chauhan | 195.2 kB | Tiny agents and quantized AI inference running entirely on GitHub Actions |
+| 2026-10-24 22:25:43 | [simple-regression-nadjib](https://pypi.org/project/simple-regression-nadjib/) | 0.1.0 | Your Name | 4.4 kB | Simple Linear Regression package built from scratch |
+| 2026-10-24 22:27:20 | [plied](https://pypi.org/project/plied/) | 0.2.0 | jupsh | 15.5 MB | A git-tracked work record for teams of agents and people: a work tree, commitme… |
+| 2026-10-24 22:28:23 | [agent-collab-kit](https://pypi.org/project/agent-collab-kit/) | 0.1.2 | ALTA VISTA360, S.L.U. | 18.7 kB | Local SQLite mailbox, acknowledgements and cooperative leases for AI agents on… |
+| 2026-10-24 22:28:49 | [least-cost-capable](https://pypi.org/project/least-cost-capable/) | 0.1.2 | ALTA VISTA360, S.L.U. | 12.3 kB | Portable Agent Skill and helper that picks the lowest declared cost rank among… |
+| 2026-10-24 22:29:13 | [cost-per-kept-meeting](https://pypi.org/project/cost-per-kept-meeting/) | 0.1.2 | ALTA VISTA360, S.L.U. | 39.3 kB | Compare B2B lead sources on cost per kept qualified meeting, not cost per lead.… |
+| 2026-10-24 22:31:26 | [mufem-mpi](https://pypi.org/project/mufem-mpi/) | 0.0.0 | Raiden Numerics | 646 B | Placeholder: install mufem-mpi from the mufem package index |
+| 2026-10-24 22:31:27 | [mufem-cuda](https://pypi.org/project/mufem-cuda/) | 0.0.0 | Raiden Numerics | 651 B | Placeholder: install mufem-cuda from the mufem package index |
+| 2026-10-24 22:31:28 | [mufem-hip](https://pypi.org/project/mufem-hip/) | 0.0.0 | Raiden Numerics | 648 B | Placeholder: install mufem-hip from the mufem package index |
+| 2026-10-24 22:32:41 | [mobilidados](https://pypi.org/project/mobilidados/) | 0.3.0 | Diogo Adegas <diogo.adegas@gm… | 962.6 kB | Tools for data-based mobility claims in Portugal, starting with Lisbon: reprodu… |
+| 2026-10-24 22:33:54 | [rgpd-offshore-check](https://pypi.org/project/rgpd-offshore-check/) | 0.1.2 | ALTA VISTA360, S.L.U. | 54.8 kB | GDPR checklist for outsourcing customer service outside the EU (SCC, TIA, Art.… |
+| 2026-10-24 22:36:05 | [sshfc](https://pypi.org/project/sshfc/) | 0.1.0 | Steve Jibson | 54.2 kB | Force command validator for SSH. |
+| 2026-10-24 22:36:51 | [steam-data-schema](https://pypi.org/project/steam-data-schema/) | 1.0.0.dev1 |  | 17.4 kB | Independent current Steam catalog snapshot contract |
+| 2026-10-24 22:37:17 | [steam-data-reader](https://pypi.org/project/steam-data-reader/) | 1.0.0.dev1 |  | 66.2 kB | Offline DuckDB queries for downloadable current Steam snapshots |
+| 2026-10-24 22:41:28 | [ttyengine](https://pypi.org/project/ttyengine/) | 0.1.0 |  | 3.6 MB | A terminal rendering, physics and sound engine |
+| 2026-10-24 22:44:30 | [pyteleflow](https://pypi.org/project/pyteleflow/) | 0.1.3 | nebenwelt | 34.6 kB | Asynchronous framework for building Telegram bots with linear flows |
+| 2026-10-24 22:47:13 | [spm-mcp](https://pypi.org/project/spm-mcp/) | 0.2.0 | Fabrizio Salmi | 10.9 kB | Model Context Protocol server for Secure Proxy Manager — manage the proxy + WAF… |
+| 2026-10-24 22:49:52 | [nm-portal-cli](https://pypi.org/project/nm-portal-cli/) | 0.2.1 |  | 14.8 kB | The NM portal from a terminal |
+| 2026-10-24 22:51:30 | [nadata](https://pypi.org/project/nadata/) | 0.1.0 |  | 675.1 kB | A declarative data schema and object-graph modeling framework |
+| 2026-10-24 22:52:36 | [swiftbrowse](https://pypi.org/project/swiftbrowse/) | 0.1.1 |  | 16.7 MB | The AI browser for browser automation and end-to-end testing: Python SDK |
+| 2026-10-24 22:55:35 | [protodial](https://pypi.org/project/protodial/) | 1.0.1 |  | 390.1 kB | Call gRPC services from the command line using reflection or local proto files |
+| 2026-10-24 22:55:57 | [jenkins-cli-mcp](https://pypi.org/project/jenkins-cli-mcp/) | 0.3.1 | Misha Lubich | 54.8 kB | Jenkins CLI + MCP server — build lifecycle, pipelines, logs, artifacts, queue,… |
+| 2026-10-24 22:56:02 | [railway-mcp](https://pypi.org/project/railway-mcp/) | 0.1.1 | Misha Lubich <misha@lupfr.com> | 62.5 kB | Manage multiple Railway CLI logins on one machine, and let AI agents switch bet… |
+| 2026-10-24 22:59:17 | [vergefy](https://pypi.org/project/vergefy/) | 0.58.0 | IntegraHub Support | 10.6 MB | Vergefy API |
+| 2026-10-24 22:59:44 | [tradingagents-finzdata](https://pypi.org/project/tradingagents-finzdata/) | 0.1.0 | FinzData <info@finzdata.com> | 18.1 kB | FinzData as a data vendor for TradingAgents: point-in-time, survivorship-free p… |
+| 2026-10-24 23:05:01 | [ontosmith](https://pypi.org/project/ontosmith/) | 0.1.0 | Dongbum Lee | 943.4 kB | Ontology-driven knowledge-graph builder: design the ontology, build the graph u… |
+| 2026-10-24 23:10:17 | [byteplussdk-resourcecenter](https://pypi.org/project/byteplussdk-resourcecenter/) | 0.0.1 | byteplus-sdk | 1.0 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-resource… |
+| 2026-10-24 23:10:23 | [byteplussdk-resourceshare](https://pypi.org/project/byteplussdk-resourceshare/) | 0.0.1 | byteplus-sdk | 1.0 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-resource… |
+| 2026-10-24 23:10:29 | [byteplussdk-seccenter20240508](https://pypi.org/project/byteplussdk-seccenter20240508/) | 0.0.1 | byteplus-sdk | 1.1 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-seccente… |
+| 2026-10-24 23:10:35 | [byteplussdk-smc](https://pypi.org/project/byteplussdk-smc/) | 0.0.1 | byteplus-sdk | 960 B | Name reservation for the Byteplus Python SDK split package byteplussdk-smc |
+| 2026-10-24 23:13:32 | [rocket-kosey-demo](https://pypi.org/project/rocket-kosey-demo/) | 0.1.0 |  | 3.0 kB | A simple Python rocket package |
+| 2026-10-24 23:17:30 | [sigil-creator](https://pypi.org/project/sigil-creator/) | 0.1.0 | Sigil Creator Contributors | 42.7 kB | CLI tools for creating personal magical sigils using classical and chaos magic… |

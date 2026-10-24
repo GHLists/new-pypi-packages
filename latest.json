@@ -1,41 +1,41 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-10-24T21:19:41.08362Z",
-    "path": "data/new-packages-2026-10-24T22-21-09-464378Z.csv",
-    "to": "2026-10-24T22:21:09.464378Z"
+    "count": 32,
+    "from": "2026-10-24T22:21:09.464378Z",
+    "path": "data/new-packages-2026-10-24T23-18-39-910886Z.csv",
+    "to": "2026-10-24T23:18:39.910886Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-24T20:12:02Z",
       "package": "maf-sandbox-shell",
       "since": "2026-10-24T19:18:37.481208Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-24T19:38:51Z",
       "package": "mlc-llvm-static-all-targets",
       "since": "2026-10-24T19:18:37.481208Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-24T20:01:13Z",
       "package": "nemo-db",
       "since": "2026-10-24T19:18:37.481208Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-24T20:01:03Z",
       "package": "tree-sitter-gql",
       "since": "2026-10-24T19:18:37.481208Z",
       "version": null
     }
   ],
-  "serial": 42702163,
+  "serial": 42703485,
   "source_truncated": false,
-  "window": "2026-10-24T22:21:09.464378Z"
+  "window": "2026-10-24T23:18:39.910886Z"
 }
