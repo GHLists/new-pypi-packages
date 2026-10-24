@@ -1,27 +1,27 @@
 {
   "list": {
     "count": 20,
-    "from": "2026-10-24T04:18:43.700369Z",
-    "path": "data/new-packages-2026-10-24T05-18-41-251069Z.csv",
-    "to": "2026-10-24T05:18:41.251069Z"
+    "from": "2026-10-24T05:18:41.251069Z",
+    "path": "data/new-packages-2026-10-24T06-20-42-900497Z.csv",
+    "to": "2026-10-24T06:20:42.900497Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-24T03:51:15Z",
       "package": "ahare-data-lite",
       "since": "2026-10-24T03:20:15.138815Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-24T04:39:38Z",
       "package": "aiozoneminder",
       "since": "2026-10-24T04:18:43.700369Z",
       "version": null
     }
   ],
-  "serial": 42673883,
+  "serial": 42674972,
   "source_truncated": false,
-  "window": "2026-10-24T05:18:41.251069Z"
+  "window": "2026-10-24T06:20:42.900497Z"
 }

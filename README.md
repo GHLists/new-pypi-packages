@@ -8,31 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 05:18 UTC
+## Latest list — 2026-10-24 06:20 UTC
 
-New packages created between 2026-10-24 04:18 UTC and 2026-10-24 05:18 UTC.
+New packages created between 2026-10-24 05:18 UTC and 2026-10-24 06:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-24T05-18-41-251069Z.csv)
+[Full CSV](data/new-packages-2026-10-24T06-20-42-900497Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-24 04:21:42 | [catena-installer](https://pypi.org/project/catena-installer/) | 0.11.3 |  | 138.4 kB | Install a Catena server from this machine, and reach its panel |
-| 2026-10-24 04:22:19 | [newtk](https://pypi.org/project/newtk/) | 0.1.0 | cjq <mycjq20111204@outlook.co… | 4.4 kB | newtk is a modern, lightweight GUI enhancement library for Python's built-in `t… |
-| 2026-10-24 04:24:53 | [pynaps2](https://pypi.org/project/pynaps2/) | 0.1.0 | "A[Privacy redacted]d" <hc1sj… | 5.2 kB | Simplifies subproccess and NAPS2 and python bindings |
-| 2026-10-24 04:26:26 | [mlx-rocm](https://pypi.org/project/mlx-rocm/) | 0.0.0 |  | 1.0 kB |  |
-| 2026-10-24 04:37:34 | [arabic-norm](https://pypi.org/project/arabic-norm/) | 0.1.0 | santrionlinecom <websantrionl… | 11.5 MB | Fast Arabic text normalization (tashkeel/tatweel/alif/ya) for RAG preprocessing… |
-| 2026-10-24 04:37:34 | [mathen](https://pypi.org/project/mathen/) | 0.0.1 |  | 90.0 kB | Evidence-backed architecture knowledge base and CLI |
-| 2026-10-24 04:40:24 | [lca-data-interface](https://pypi.org/project/lca-data-interface/) | 0.1.1 | Carlos Gaete-Morales <cdgaete… | 70.3 kB | Download LCA databases from openLCA Nexus and LCA Collaboration Servers into a… |
-| 2026-10-24 04:41:00 | [axiom-access-risk](https://pypi.org/project/axiom-access-risk/) | 0.1.0 | Madan Kumar G S | 56.0 kB | Explainable access-risk intelligence for SaaS permissions and smart-contract op… |
-| 2026-10-24 04:42:01 | [gseek](https://pypi.org/project/gseek/) | 0.2.0 | gseek contributors | 281.8 kB | Unified, reproducible DNA alignment adapters for BLAST+, minimap2, MUMmer, KMA,… |
-| 2026-10-24 04:47:41 | [pybroswer](https://pypi.org/project/pybroswer/) | 0.4.0 | Hacker78 | 64.2 kB | Python browser for PyDroid. Cookies, click-by-text, downloads, forms. No Chromi… |
-| 2026-10-24 04:47:47 | [somnus-metadata](https://pypi.org/project/somnus-metadata/) | 2.0.0 |  | 209.0 kB | Universal semantic metadata standard and engineering toolkit |
-| 2026-10-24 04:56:39 | [mcap-frames](https://pypi.org/project/mcap-frames/) | 0.1.0 | recording-store | 137.6 kB | Frame-accurate video access for MCAP files |
-| 2026-10-24 05:01:15 | [vib-bl](https://pypi.org/project/vib-bl/) | 0.1.0 |  | 7.2 kB | vi-like browsing, a wrapper for suckless surf with aliases |
-| 2026-10-24 05:01:34 | [torchui](https://pypi.org/project/torchui/) | 0.0.1 | Don Pinkus | 6.6 kB | See inside your PyTorch model: an in-browser visualizer for weights, gradients,… |
-| 2026-10-24 05:02:48 | [cryptbox-cli](https://pypi.org/project/cryptbox-cli/) | 0.1.0 | Zephyrus Labs <zephyrus.labs@… | 24.1 kB | Zero-Trust Authenticated File & Folder Vault using AES-256-GCM |
-| 2026-10-24 05:03:00 | [doc2md-cli](https://pypi.org/project/doc2md-cli/) | 0.1.0 | Zephyrus Labs <zephyrus.labs@… | 27.3 kB | Universal Document to LLM-Optimized Markdown Converter (PDF, DOCX, PPTX, TXT) |
-| 2026-10-24 05:03:04 | [flatjson-cli](https://pypi.org/project/flatjson-cli/) | 0.1.0 | Zephyrus Labs <zephyrus.labs@… | 25.1 kB | Deep JSON & JSONL to Tabular CSV Flattener with schema inspection and streaming |
-| 2026-10-24 05:03:08 | [leakcheck-cli](https://pypi.org/project/leakcheck-cli/) | 0.1.0 | Zephyrus Labs <zephyrus.labs@… | 29.4 kB | High-Speed Local Secret Scanner & Git Pre-Commit Guard with entropy analysis |
-| 2026-10-24 05:05:49 | [tenko-plugin-persona-chat](https://pypi.org/project/tenko-plugin-persona-chat/) | 0.1.0 |  | 81.9 kB | Tenko AI 群友：接入 DeepSeek，用人设口吻陪群友聊天，内置“大肥鱼” |
-| 2026-10-24 05:12:26 | [nepal-license-checker](https://pypi.org/project/nepal-license-checker/) | 1.0.0 | Nischal Acharya <Nischal060@g… | 10.1 kB | Zero-dependency Python SDK to check Nepal smart driving license print status vi… |
+| 2026-10-24 05:20:53 | [eyeye-ful](https://pypi.org/project/eyeye-ful/) | 0.0.3 | gbjilbgu | 25.4 kB | A random module that is kinda weird |
+| 2026-10-24 05:22:30 | [ferrum-fm](https://pypi.org/project/ferrum-fm/) | 0.1.2 |  | 78.6 kB | A fast, stable, DE-agnostic TUI file manager |
+| 2026-10-24 05:22:43 | [mantleplace-mpb](https://pypi.org/project/mantleplace-mpb/) | 1.14.0 | Mantle Place LLC | 86.9 kB | Validate and read Mantle Place Bundles (MPB): every file with its frame and ODb… |
+| 2026-10-24 05:24:08 | [vault-index](https://pypi.org/project/vault-index/) | 0.3.0 |  | 19.4 kB | Local hybrid (FTS5 + sqlite-vec) search MCP server for markdown vaults and code… |
+| 2026-10-24 05:37:26 | [neurolens](https://pypi.org/project/neurolens/) | 0.1.1 | Kh Yaiphaba Singh | 3.2 MB | Watch neural networks train, live: a fast C++/OpenGL viewer for training curves… |
+| 2026-10-24 05:48:33 | [fetchamiibo](https://pypi.org/project/fetchamiibo/) | 1.1.0 | Samuel Arther | 96.1 kB | Download amiibo NFC dumps for a Flipper Zero from the command line. Pick by nam… |
+| 2026-10-24 05:50:06 | [wgp](https://pypi.org/project/wgp/) | 0.1.1 | Hadi Cahyadi <cumulus13@gmail… | 42.6 kB | Command line client for wgetpanel (API v1) |
+| 2026-10-24 05:53:09 | [threeypay-sdk](https://pypi.org/project/threeypay-sdk/) | 1.1.0 | 3YPay Team <support@3ypay.com> | 48.5 kB | 3ypay (汇联支付) Python SDK - 统一支付、查询、退款、转账、分账等 |
+| 2026-10-24 05:55:00 | [deputy-cc](https://pypi.org/project/deputy-cc/) | 0.2.0 | Amirhossein Alimohammadi | 205.2 kB | Claude Code plugin and MCP server that has a cheap model, DeepSeek V4.1 Flash,… |
+| 2026-10-24 05:58:24 | [browserstealthmcp](https://pypi.org/project/browserstealthmcp/) | 0.3.1 | Vibhek Soni <vibheksoni@engin… | 336.1 kB | Ultimate undetectable browser automation MCP server with CDP-level access |
+| 2026-10-24 06:01:19 | [sphinx-better-fieldlist](https://pypi.org/project/sphinx-better-fieldlist/) | 0.1.0 | mm21 | 30.6 kB | Renders Sphinx field lists as definition lists, with types and defaults from si… |
+| 2026-10-24 06:02:11 | [litearm-python](https://pypi.org/project/litearm-python/) | 1.2.0 |  | 624.9 kB | LiteArm STM32 直连后端 —— 薄协议 SDK (固件承担 S曲线/IK/动力学/控制律) |
+| 2026-10-24 06:06:15 | [tradengin](https://pypi.org/project/tradengin/) | 0.1.0 | AlgoGators | 80.6 MB | Python bindings for the AlgoGators trade-ngin backtest engine |
+| 2026-10-24 06:07:06 | [chipwright](https://pypi.org/project/chipwright/) | 0.2.1 |  | 201.8 kB | A verified package manager for Qualcomm NPUs — resolve the artifact that loads… |
+| 2026-10-24 06:10:44 | [ja4proxy](https://pypi.org/project/ja4proxy/) | 0.1.0 | cipherwire <dev@cipherwire.li… | 69.5 kB | High-performance universal proxy server with browser TLS (JA4) and HTTP/2 imper… |
+| 2026-10-24 06:11:10 | [bx2-stealth](https://pypi.org/project/bx2-stealth/) | 0.1.0 | opsecalyzer | 30.1 kB | External memory scanner for packed binaries: patches anti-debug in the target,… |
+| 2026-10-24 06:13:30 | [quaill](https://pypi.org/project/quaill/) | 0.0.2 | Quaill LLC | 117.4 kB | Open checker for robot logs: who was in control, was it edited, what's missing. |
+| 2026-10-24 06:14:20 | [serpent-api](https://pypi.org/project/serpent-api/) | 1.1.0 | Serpent Co. | 48.7 kB | Official Python SDK for the Serpent SERP API (apiserpent.com) — web, news, imag… |
+| 2026-10-24 06:14:55 | [veyzl-cli](https://pypi.org/project/veyzl-cli/) | 0.1.0 | Veyzl <suyash@veyzl.ai> | 35.7 kB | Command-line client for Veyzl hosted AI audits |
+| 2026-10-24 06:19:13 | [dataoil](https://pypi.org/project/dataoil/) | 0.1.5 | MaxDragon Technology <info@da… | 21.0 kB | The Data Oil client for Python: one statement over rows, vectors, keywords and… |

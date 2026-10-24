@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-24T05:20:53Z,eyeye-ful,0.0.3,gbjilbgu,,25419,A random module that is kinda weird
+2026-10-24T05:22:30Z,ferrum-fm,0.1.2,,,78573,"A fast, stable, DE-agnostic TUI file manager"
+2026-10-24T05:22:43Z,mantleplace-mpb,1.14.0,Mantle Place LLC,Apache-2.0,86910,Validate and read Mantle Place Bundles (MPB): every file with its frame and ODbL role.
+2026-10-24T05:24:08Z,vault-index,0.3.0,,MIT,19383,Local hybrid (FTS5 + sqlite-vec) search MCP server for markdown vaults and codebases
+2026-10-24T05:37:26Z,neurolens,0.1.1,Kh Yaiphaba Singh,MIT,3249207,"Watch neural networks train, live: a fast C++/OpenGL viewer for training curves, gradient health and neuron activity, fed from PyTorch or any Python code."
+2026-10-24T05:48:33Z,fetchamiibo,1.1.0,Samuel Arther,MIT,96119,"Download amiibo NFC dumps for a Flipper Zero from the command line. Pick by name, or browse by game and letter."
+2026-10-24T05:50:06Z,wgp,0.1.1,Hadi Cahyadi <cumulus13@gmail.com>,MIT,42641,Command line client for wgetpanel (API v1)
+2026-10-24T05:53:09Z,threeypay-sdk,1.1.0,3YPay Team <support@3ypay.com>,MIT,48490,3ypay (汇联支付) Python SDK - 统一支付、查询、退款、转账、分账等
+2026-10-24T05:55:00Z,deputy-cc,0.2.0,Amirhossein Alimohammadi,MIT,205168,"Claude Code plugin and MCP server that has a cheap model, DeepSeek V4.1 Flash, review Claude's code for bugs and give second opinions, for under a cent each. Claude keeps writing the code."
+2026-10-24T05:58:24Z,browserstealthmcp,0.3.1,Vibhek Soni <vibheksoni@engineer.com>,MIT,336142,Ultimate undetectable browser automation MCP server with CDP-level access
+2026-10-24T06:01:19Z,sphinx-better-fieldlist,0.1.0,mm21,MIT,30588,"Renders Sphinx field lists as definition lists, with types and defaults from signatures"
+2026-10-24T06:02:11Z,litearm-python,1.2.0,,MIT,624931,LiteArm STM32 直连后端 —— 薄协议 SDK (固件承担 S曲线/IK/动力学/控制律)
+2026-10-24T06:06:15Z,tradengin,0.1.0,AlgoGators,GPL-3.0-only,80597682,Python bindings for the AlgoGators trade-ngin backtest engine
+2026-10-24T06:07:06Z,chipwright,0.2.1,,MIT,201818,"A verified package manager for Qualcomm NPUs — resolve the artifact that loads on your exact chip, run it, and prove it against a CPU reference."
+2026-10-24T06:10:44Z,ja4proxy,0.1.0,cipherwire <dev@cipherwire.link>,MIT,69502,High-performance universal proxy server with browser TLS (JA4) and HTTP/2 impersonation
+2026-10-24T06:11:10Z,bx2-stealth,0.1.0,opsecalyzer,Apache-2.0,30108,"External memory scanner for packed binaries: patches anti-debug in the target, then extracts decrypted strings and IoCs via ReadProcessMemory. Inspired by bx2trace (fareed1-ataf)."
+2026-10-24T06:13:30Z,quaill,0.0.2,Quaill LLC,Apache-2.0,117353,"Open checker for robot logs: who was in control, was it edited, what's missing."
+2026-10-24T06:14:20Z,serpent-api,1.1.0,Serpent Co.,MIT,48675,"Official Python SDK for the Serpent SERP API (apiserpent.com) — web, news, images, videos, shopping, maps, AI rank, YouTube, Instagram, LinkedIn, eBay, Amazon, TikTok, X and Reddit"
+2026-10-24T06:14:55Z,veyzl-cli,0.1.0,Veyzl <suyash@veyzl.ai>,MIT,35712,Command-line client for Veyzl hosted AI audits
+2026-10-24T06:19:13Z,dataoil,0.1.5,MaxDragon Technology <info@dataoil.tech>,LicenseRef-DataOil-Proprietary,20959,"The Data Oil client for Python: one statement over rows, vectors, keywords and relationships, streamed as NDJSON, with the two tenancy headers, typed errors and the retry a lost race needs built in.…"
