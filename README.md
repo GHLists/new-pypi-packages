@@ -8,35 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 09:18 UTC
+## Latest list — 2026-10-25 10:19 UTC
 
-New packages created between 2026-10-25 08:18 UTC and 2026-10-25 09:18 UTC.
+New packages created between 2026-10-25 09:18 UTC and 2026-10-25 10:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-25T09-18-43-404964Z.csv)
+[Full CSV](data/new-packages-2026-10-25T10-19-54-314686Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 08:18:48 | [ai-cost-kit](https://pypi.org/project/ai-cost-kit/) | 0.1.0 |  | 1.9 kB | Provider-neutral token cost estimation helpers |
-| 2026-10-25 08:25:40 | [omerta](https://pypi.org/project/omerta/) | 0.1.0 | Sergii Shcherbak | 51.4 kB | Fail when a value of your env files, e.g. an API key in .env, is in git: staged… |
-| 2026-10-25 08:29:04 | [baked-vector](https://pypi.org/project/baked-vector/) | 0.1.0 |  | 33.7 kB | Zero-dependency vector store for small-scale embedding search. |
-| 2026-10-25 08:30:54 | [fronius-solarapi](https://pypi.org/project/fronius-solarapi/) | 0.1.0 | Matthias Alphart <farmio@alph… | 75.3 kB | Async Python library for the Fronius Solar API (v0 and v1), built on aiohttp |
-| 2026-10-25 08:36:01 | [swarm44](https://pypi.org/project/swarm44/) | 0.1.0 | AI POWER ACADEMY 3 LTD. | 15.9 kB | Look up Swarm44 Science Check connection guides and connect your AI assistant. |
-| 2026-10-25 08:36:57 | [trainbay](https://pypi.org/project/trainbay/) | 0.0.2 |  | 33.6 kB | Log training metrics to a local SQLite file and watch them live in your IDE. |
-| 2026-10-25 08:38:52 | [aiogram-fsm-inspector](https://pypi.org/project/aiogram-fsm-inspector/) | 0.1.0 | aiogram-devtools contributors | 92.9 kB | In-Process real-time FSM debugging and inspection suite for aiogram 3.x with Fa… |
-| 2026-10-25 08:43:58 | [windblown-save-patcher](https://pypi.org/project/windblown-save-patcher/) | 0.1.0 | damex | 38.4 kB | Patch Windblown save files to set reward flags, like demo Guinea Pig and early… |
-| 2026-10-25 08:46:57 | [memplain](https://pypi.org/project/memplain/) | 0.6.1 | WANGJINSHAN-11 | 33.2 kB | 本地纯文本长期记忆 MCP 服务器：一份记忆目录，多个 AI 客户端共用（Cherry Studio / Claude Desktop / DeepSeek… |
-| 2026-10-25 08:51:15 | [seds-regression-zoheir](https://pypi.org/project/seds-regression-zoheir/) | 1.0.0 | Zoheir | 5.8 kB | Simple linear regression implemented from scratch |
-| 2026-10-25 08:51:42 | [scm2cpp-learn](https://pypi.org/project/scm2cpp-learn/) | 0.18.0 | Hirotaka Niitsuma | 36.1 MB | scikit-learn estimators (lasso, elastic net, ridge, RidgeCV, ARD, SVM, SVR, log… |
-| 2026-10-25 08:52:35 | [ferret-search](https://pypi.org/project/ferret-search/) | 1.0.1 | Mayank Punghal | 4.7 MB | Offline, permission-aware knowledge search for technical teams |
-| 2026-10-25 08:52:39 | [ferret-crawler](https://pypi.org/project/ferret-crawler/) | 1.1.0 |  | 101.5 kB | Save a website or intranet as Markdown files, one per page (for search indexes… |
-| 2026-10-25 08:52:41 | [fp4local-abliterated](https://pypi.org/project/fp4local-abliterated/) | 0.1.0 |  | 37.2 kB | vLLM plugin for inference-time abliteration, with FP4-Local checkpoint loading |
-| 2026-10-25 08:57:36 | [pygpgpu](https://pypi.org/project/pygpgpu/) | 0.1.1 | Time-Coder | 929.6 kB | Import GPU kernels like Python functions across OpenCL / CUDA / HIP backends |
-| 2026-10-25 08:58:16 | [relvector](https://pypi.org/project/relvector/) | 0.1.0 | RelVector contributors | 80.8 kB | Schema-aware semantic indexes over existing relational databases, with source r… |
-| 2026-10-25 08:59:58 | [amrita-go](https://pypi.org/project/amrita-go/) | 0.1.0a1 |  | 14.2 MB | A agent workstation built on AmritaCore |
-| 2026-10-25 09:06:07 | [refuta](https://pypi.org/project/refuta/) | 0.0.1 | "DAPADA Inc." <contact@dapada… | 10.4 kB | Name reservation for Refuta, a refutation-driven code security platform. No fun… |
-| 2026-10-25 09:07:41 | [sweepito](https://pypi.org/project/sweepito/) | 0.1.0 | coldsofttech | 130.8 kB | Safely clean caches and build artifacts across languages, frameworks and tools. |
-| 2026-10-25 09:07:43 | [rocket-chouaib](https://pypi.org/project/rocket-chouaib/) | 1.0.0 | chouaib | 3.3 kB | An awesome package that does something |
-| 2026-10-25 09:09:38 | [system-runtime-spec](https://pypi.org/project/system-runtime-spec/) | 0.1.0 | Silitics GmbH <info@silitics.… | 88.3 kB | System component compatibility, health evaluation, and filesystem discovery. |
-| 2026-10-25 09:09:53 | [anet-kllm](https://pypi.org/project/anet-kllm/) | 0.1.0 | The kLLM Authors <hi@anet0.co… | 362.2 kB | Pull, run and seal LLMs and diffusion models on SGLang and vLLM. |
-| 2026-10-25 09:14:58 | [pyrtmpbc](https://pypi.org/project/pyrtmpbc/) | 1.1.0 | "Shah Md. Mahi" <shahmdmahi@e… | 7.4 kB | Python bindings and interface for RT-MPBC: Real-Time Multi-Physics Bond-Graph C… |
-| 2026-10-25 09:17:26 | [rocket-dell-seds1333](https://pypi.org/project/rocket-dell-seds1333/) | 1.0.0 | naila benabdallah | 5.9 kB | An awesome package that does something |
+| 2026-10-25 09:18:39 | [stcode](https://pypi.org/project/stcode/) | 0.0.1a2 | Minh Doan <quangminh57dng@gma… | 893.1 kB | A coding agent that lives in a daemon, and a UI that is a client of it. |
+| 2026-10-25 09:19:47 | [seds-rocket-chouaib](https://pypi.org/project/seds-rocket-chouaib/) | 1.0.0 | chouaib | 6.3 kB | An awesome package that does something |
+| 2026-10-25 09:24:13 | [nokk-mcp](https://pypi.org/project/nokk-mcp/) | 0.1.46a1 | koloss777 | 4.7 kB | MCP server for nokk, a Chrome-fingerprinted headless browser engine that passes… |
+| 2026-10-25 09:24:48 | [pedgrowth](https://pypi.org/project/pedgrowth/) | 1.0.0 | Eyal Rahmani | 92.4 kB | Pedgrowth: pediatric WHO, CDC, and INTERGROWTH z-scores with reproducible refer… |
+| 2026-10-25 09:26:21 | [pi-mcp-py](https://pypi.org/project/pi-mcp-py/) | 0.1.0 | zy1233 <zy1233@users.noreply.… | 62.4 kB | Connects the MCP servers an ACP client passes to the pi-python agent (an extens… |
+| 2026-10-25 09:27:34 | [sujithx](https://pypi.org/project/sujithx/) | 0.1.1 | Sujith | 23.7 kB | A multipurpose Python toolkit for files, security, automation, and system utili… |
+| 2026-10-25 09:33:48 | [qjobslib](https://pypi.org/project/qjobslib/) | 0.1.0 | QuatschVirus | 9.4 kB | A library for reporting reporting job progress |
+| 2026-10-25 09:34:30 | [sythonlab-kiu-rest-sdk](https://pypi.org/project/sythonlab-kiu-rest-sdk/) | 0.0.1 | José Angel Alvarez Abraira | 14.4 kB | Sython Lab KIU REST SDK |
+| 2026-10-25 09:38:52 | [vidlens-mcp](https://pypi.org/project/vidlens-mcp/) | 1.4.1 | cctv2333 | 172.6 kB | Turn a public video into an evidence table an LLM can read: timecoded transcrip… |
+| 2026-10-25 09:41:15 | [turnup-check](https://pypi.org/project/turnup-check/) | 0.1.0 | Turnup contributors | 148.1 kB | Diff the intended GPU-hall build (NetBox/Nautobot) against what LLDP, Redfish a… |
+| 2026-10-25 09:41:36 | [simhall](https://pypi.org/project/simhall/) | 0.1.0 | Hasanat Kazmi | 149.8 kB | Virtual GPU hall: emulated Redfish BMCs, LLDP switches (Arista eAPI / NVIDIA NV… |
+| 2026-10-25 09:49:31 | [rocket-fatima](https://pypi.org/project/rocket-fatima/) | 1.0.0 | Fatima | 6.1 kB | A package that simulates a rocket |
+| 2026-10-25 09:52:36 | [golded-ftn-sqlite](https://pypi.org/project/golded-ftn-sqlite/) | 1.0.0 | GoldED.dev contributors | 32.3 kB | Transactional SQLite message bases for FTN netmail and echomail |
+| 2026-10-25 09:52:39 | [golded-ftn-nodelist](https://pypi.org/project/golded-ftn-nodelist/) | 1.0.0 |  | 67.0 kB | Typed FTN nodelist, pointlist, and DKPC exporter library for the GoldED FTN sui… |
+| 2026-10-25 09:52:44 | [golded-ftn-packet](https://pypi.org/project/golded-ftn-packet/) | 1.0.0 |  | 52.5 kB | Streaming FTN Type-2 and Type-2+ packet reader and writer for the GoldED FTN su… |
+| 2026-10-25 09:53:29 | [discovista-next](https://pypi.org/project/discovista-next/) | 0.1.0 | Zeng Zichao <zengzichao@users… | 272.8 kB | Phylogenetic discordance visualization and analysis - a Python 3 rewrite of Dis… |
+| 2026-10-25 09:54:07 | [apographe](https://pypi.org/project/apographe/) | 0.1.0 | Aristides Zenonos <10169524+a… | 86.8 kB | Collect public data, source by source and day by day, into plain files. |
+| 2026-10-25 09:55:14 | [golded-ftn-binkp](https://pypi.org/project/golded-ftn-binkp/) | 1.0.0 |  | 50.9 kB | Public BSO spool and async binkp 1.0/1.1 client/server for the GoldED FTN suite |
+| 2026-10-25 09:55:20 | [kpihx-web](https://pypi.org/project/kpihx-web/) | 2.2.0 |  | 106.3 kB | Private CLI for metasearch, verified retrieval, bounded crawling and media inve… |
+| 2026-10-25 09:55:52 | [golded-ftn-tosser](https://pypi.org/project/golded-ftn-tosser/) | 1.0.0 |  | 100.8 kB | FTN tosser journal, packet import, scan, routing, AreaFix and HELD quarantine |
+| 2026-10-25 10:01:30 | [airgap-datahub](https://pypi.org/project/airgap-datahub/) | 0.1.0 | Zeliha Ilgın Güven | 68.9 kB | Local-first data governance & PII lineage auditor for DataHub. Nothing leaves y… |
+| 2026-10-25 10:01:49 | [xpplab](https://pypi.org/project/xpplab/) | 0.1.1 |  | 3.3 MB | XPPAUT's simulation and AUTO bifurcation engine for Python: pip install and go,… |
+| 2026-10-25 10:01:51 | [AccountDeleted-text](https://pypi.org/project/AccountDeleted-text/) | 0.0.1 | AccountDeleted | 3.2 kB | Typewriter effect module |
+| 2026-10-25 10:03:47 | [lcnoob-my-utils](https://pypi.org/project/lcnoob-my-utils/) | 0.1.0 |  | 4.2 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
+| 2026-10-25 10:05:19 | [sdtmf](https://pypi.org/project/sdtmf/) | 2.0.1 | Nanda Winata | 12.2 kB | Authenticated, replay-protected encryption for DTMF tone frames (SDTMF v2) |
+| 2026-10-25 10:06:09 | [mohit-agentic-terminal-mcp](https://pypi.org/project/mohit-agentic-terminal-mcp/) | 0.1.0 |  | 5.3 kB | A MCP which adds the terminal capabilites to an agent |
+| 2026-10-25 10:06:29 | [mcp-server-kit](https://pypi.org/project/mcp-server-kit/) | 0.1.0 | Nick Engel <nick@engel.au> | 158.8 kB | Shared plumbing for FastMCP servers: bearer auth, off-event-loop sync tools wit… |
+| 2026-10-25 10:06:38 | [syrtis-python-orm](https://pypi.org/project/syrtis-python-orm/) | 4.0.1 | weeger <contact@syrtis.ai> | 184.6 kB |  |
+| 2026-10-25 10:08:29 | [praaiml](https://pypi.org/project/praaiml/) | 0.1.0 |  | 22.7 kB | Python utility module |
+| 2026-10-25 10:08:33 | [unitrefine](https://pypi.org/project/unitrefine/) | 0.2.0 | Anoushka Jain <jain.anoushka3… | 3.2 MB | UnitRefine is a machine-learning toolbox that simplifies spike sorting curation… |
+| 2026-10-25 10:10:11 | [ease-ecg](https://pypi.org/project/ease-ecg/) | 0.0.1 | Your Name | 5.9 kB | EASE (Ecg Analysis SoftwarE): automated analysis of 12-lead ECG snippets with i… |
+| 2026-10-25 10:11:08 | [TranscribeNPy](https://pypi.org/project/TranscribeNPy/) | 0.1.1 |  | 29.0 kB | A Python module for recorded audio transcription via Wispr with groq API |
+| 2026-10-25 10:12:37 | [action-sentinel](https://pypi.org/project/action-sentinel/) | 0.2.0 | Prem Kumar | 325.5 kB | VegaML-powered safety checkpoint for AI agent actions: model risk judgement und… |
+| 2026-10-25 10:14:01 | [hallucinationguard-sathvika](https://pypi.org/project/hallucinationguard-sathvika/) | 0.1.1 | Sathvika | 7.1 kB | Confidence scoring and hallucination detection for LLM pipelines |
+| 2026-10-25 10:15:54 | [staged-pipeline](https://pypi.org/project/staged-pipeline/) | 0.1.0a1 | 0cherednoq | 213.9 kB | Декларативный конвейер стадий поверх asyncio: воркеры, dedup, ретраи, прогресс |
+| 2026-10-25 10:16:11 | [triohap](https://pypi.org/project/triohap/) | 0.4.0 | comparativechrono | 143.5 kB | Trio-aware matching of VCF and gVCF genotypes to regional pangenome haplotypes |
+| 2026-10-25 10:19:09 | [text-jaden](https://pypi.org/project/text-jaden/) | 0.0.2 | AccountDeleted | 3.1 kB | Typewriter effect module |
+| 2026-10-25 10:19:11 | [text-typewriter](https://pypi.org/project/text-typewriter/) | 0.0.2 | AccountDeleted | 3.2 kB | Typewriter effect module |
+| 2026-10-25 10:19:12 | [text-typewriter-jaden](https://pypi.org/project/text-typewriter-jaden/) | 0.0.2 | AccountDeleted | 3.2 kB | Typewriter effect module |

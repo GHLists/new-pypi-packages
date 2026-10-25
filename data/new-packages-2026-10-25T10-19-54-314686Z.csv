@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T09:18:39Z,stcode,0.0.1a2,Minh Doan <quangminh57dng@gmail.com>,Apache-2.0,893124,"A coding agent that lives in a daemon, and a UI that is a client of it."
+2026-10-25T09:19:47Z,seds-rocket-chouaib,1.0.0,chouaib,LICENSE.txt,6330,An awesome package that does something
+2026-10-25T09:24:13Z,nokk-mcp,0.1.46a1,koloss777,MIT OR Apache-2.0,4692,"MCP server for nokk, a Chrome-fingerprinted headless browser engine that passes Cloudflare: give an AI agent a browser with `uvx nokk-mcp`."
+2026-10-25T09:24:48Z,pedgrowth,1.0.0,Eyal Rahmani,MIT,92383,"Pedgrowth: pediatric WHO, CDC, and INTERGROWTH z-scores with reproducible references"
+2026-10-25T09:26:21Z,pi-mcp-py,0.1.0,zy1233 <zy1233@users.noreply.github.com>,MIT,62351,Connects the MCP servers an ACP client passes to the pi-python agent (an extension)
+2026-10-25T09:27:34Z,sujithx,0.1.1,Sujith,MIT,23737,"A multipurpose Python toolkit for files, security, automation, and system utilities"
+2026-10-25T09:33:48Z,qjobslib,0.1.0,QuatschVirus,MIT,9375,A library for reporting reporting job progress
+2026-10-25T09:34:30Z,sythonlab-kiu-rest-sdk,0.0.1,José Angel Alvarez Abraira,,14386,Sython Lab KIU REST SDK
+2026-10-25T09:38:52Z,vidlens-mcp,1.4.1,cctv2333,MIT,172561,"Turn a public video into an evidence table an LLM can read: timecoded transcript, sampling sheets and AudioSet sound events, downloading only the bytes it needs."
+2026-10-25T09:41:15Z,turnup-check,0.1.0,Turnup contributors,Apache-2.0,148085,"Diff the intended GPU-hall build (NetBox/Nautobot) against what LLDP, Redfish and DCGM actually see."
+2026-10-25T09:41:36Z,simhall,0.1.0,Hasanat Kazmi,Apache-2.0,149794,"Virtual GPU hall: emulated Redfish BMCs, LLDP switches (Arista eAPI / NVIDIA NVUE), DCGM exporters and a minimal NetBox API, with fault injection, for testing turnup-check and Turnup Acceptance witho…"
+2026-10-25T09:49:31Z,rocket-fatima,1.0.0,Fatima,LICENSE.txt,6078,A package that simulates a rocket
+2026-10-25T09:52:36Z,golded-ftn-sqlite,1.0.0,GoldED.dev contributors,MIT,32291,Transactional SQLite message bases for FTN netmail and echomail
+2026-10-25T09:52:39Z,golded-ftn-nodelist,1.0.0,,MIT,66957,"Typed FTN nodelist, pointlist, and DKPC exporter library for the GoldED FTN suite"
+2026-10-25T09:52:44Z,golded-ftn-packet,1.0.0,,MIT,52458,Streaming FTN Type-2 and Type-2+ packet reader and writer for the GoldED FTN suite
+2026-10-25T09:53:29Z,discovista-next,0.1.0,Zeng Zichao <zengzichao@users.noreply.github.com>,GPL-3.0-only,272798,Phylogenetic discordance visualization and analysis - a Python 3 rewrite of DiscoVista
+2026-10-25T09:54:07Z,apographe,0.1.0,Aristides Zenonos <10169524+aristidesz@users.noreply.github.com>,MIT,86840,"Collect public data, source by source and day by day, into plain files."
+2026-10-25T09:55:14Z,golded-ftn-binkp,1.0.0,,MIT,50925,Public BSO spool and async binkp 1.0/1.1 client/server for the GoldED FTN suite
+2026-10-25T09:55:20Z,kpihx-web,2.2.0,,MIT,106295,"Private CLI for metasearch, verified retrieval, bounded crawling and media investigation"
+2026-10-25T09:55:52Z,golded-ftn-tosser,1.0.0,,MIT,100849,"FTN tosser journal, packet import, scan, routing, AreaFix and HELD quarantine"
+2026-10-25T10:01:30Z,airgap-datahub,0.1.0,Zeliha Ilgın Güven,Apache-2.0,68856,Local-first data governance & PII lineage auditor for DataHub. Nothing leaves your machine.
+2026-10-25T10:01:49Z,xpplab,0.1.1,,GPL-2.0-or-later,3269428,"XPPAUT's simulation and AUTO bifurcation engine for Python: pip install and go, no compiler, no X11"
+2026-10-25T10:01:51Z,AccountDeleted-text,0.0.1,AccountDeleted,,3197,Typewriter effect module
+2026-10-25T10:03:47Z,lcnoob-my-utils,0.1.0,,,4165,一个用于学习 Python 公共库构建和发布的示例工程
+2026-10-25T10:05:19Z,sdtmf,2.0.1,Nanda Winata,MIT,12184,"Authenticated, replay-protected encryption for DTMF tone frames (SDTMF v2)"
+2026-10-25T10:06:09Z,mohit-agentic-terminal-mcp,0.1.0,,,5273,A MCP which adds the terminal capabilites to an agent
+2026-10-25T10:06:29Z,mcp-server-kit,0.1.0,Nick Engel <nick@engel.au>,MIT,158789,"Shared plumbing for FastMCP servers: bearer auth, off-event-loop sync tools with per-call logging, stdio/HTTP serving, and a liveness probe"
+2026-10-25T10:06:38Z,syrtis-python-orm,4.0.1,weeger <contact@syrtis.ai>,MIT,184578,
+2026-10-25T10:08:29Z,praaiml,0.1.0,,,22708,Python utility module
+2026-10-25T10:08:33Z,unitrefine,0.2.0,"Anoushka Jain <jain.anoushka3@gmail.com>, Chris Halcrow <chrishalcrow@gmail.com>",MIT,3158178,UnitRefine is a machine-learning toolbox that simplifies spike sorting curation by reducing manual curation.
+2026-10-25T10:10:11Z,ease-ecg,0.0.1,Your Name,MIT,5894,EASE (Ecg Analysis SoftwarE): automated analysis of 12-lead ECG snippets with interactive caliper review.
+2026-10-25T10:11:08Z,TranscribeNPy,0.1.1,,,28993,A Python module for recorded audio transcription via Wispr with groq API
+2026-10-25T10:12:37Z,action-sentinel,0.2.0,Prem Kumar,Apache-2.0,325516,VegaML-powered safety checkpoint for AI agent actions: model risk judgement under deterministic governance.
+2026-10-25T10:14:01Z,hallucinationguard-sathvika,0.1.1,Sathvika,,7100,Confidence scoring and hallucination detection for LLM pipelines
+2026-10-25T10:15:54Z,staged-pipeline,0.1.0a1,0cherednoq,MIT,213897,"Декларативный конвейер стадий поверх asyncio: воркеры, dedup, ретраи, прогресс"
+2026-10-25T10:16:11Z,triohap,0.4.0,comparativechrono,MIT,143518,Trio-aware matching of VCF and gVCF genotypes to regional pangenome haplotypes
+2026-10-25T10:19:09Z,text-jaden,0.0.2,AccountDeleted,,3107,Typewriter effect module
+2026-10-25T10:19:11Z,text-typewriter,0.0.2,AccountDeleted,,3152,Typewriter effect module
+2026-10-25T10:19:12Z,text-typewriter-jaden,0.0.2,AccountDeleted,,3218,Typewriter effect module

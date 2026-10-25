@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 24,
-    "from": "2026-10-25T08:18:40.173533Z",
-    "path": "data/new-packages-2026-10-25T09-18-43-404964Z.csv",
-    "to": "2026-10-25T09:18:43.404964Z"
+    "count": 39,
+    "from": "2026-10-25T09:18:43.404964Z",
+    "path": "data/new-packages-2026-10-25T10-19-54-314686Z.csv",
+    "to": "2026-10-25T10:19:54.314686Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-25T10:18:58Z",
+      "package": "pipecat-kalpa",
+      "since": "2026-10-25T09:18:43.404964Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-25T07:35:53Z",
       "package": "praone-your-unique-name",
       "since": "2026-10-25T07:20:03.987411Z",
       "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-25T09:18:39Z",
-      "package": "stcode",
-      "since": "2026-10-25T08:18:40.173533Z",
-      "version": null
     }
   ],
-  "serial": 42715161,
+  "serial": 42716773,
   "source_truncated": false,
-  "window": "2026-10-25T09:18:43.404964Z"
+  "window": "2026-10-25T10:19:54.314686Z"
 }
