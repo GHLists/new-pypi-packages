@@ -8,31 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 02:19 UTC
+## Latest list — 2026-10-25 03:18 UTC
 
-New packages created between 2026-10-25 01:18 UTC and 2026-10-25 02:19 UTC.
+New packages created between 2026-10-25 02:19 UTC and 2026-10-25 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-25T02-19-25-474063Z.csv)
+[Full CSV](data/new-packages-2026-10-25T03-18-36-875188Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 01:21:55 | [hdeeg-snpm](https://pypi.org/project/hdeeg-snpm/) | 0.4.0 | Tancy Kao | 1.6 MB | Permutation statistics (TFCE and cluster correction) for high-density EEG scalp… |
-| 2026-10-25 01:24:06 | [smerisk](https://pypi.org/project/smerisk/) | 0.1.0 |  | 312.0 kB | Probabilistic and statistical calculations for managing small and medium-sized… |
-| 2026-10-25 01:29:36 | [paxmod-guard](https://pypi.org/project/paxmod-guard/) | 0.1.0 | Paxmod | 12.1 kB | Local safety classifier for AI companions, chatbots and kids' game chat: self-h… |
-| 2026-10-25 01:34:24 | [breadcrumbst](https://pypi.org/project/breadcrumbst/) | 0.4.6 |  | 1.9 MB | A terminal-first productivity timer that keeps your goals in view and helps you… |
-| 2026-10-25 01:37:42 | [lohan11-sdk](https://pypi.org/project/lohan11-sdk/) | 1.0.0 | LOHAN11 Official | 12.0 kB | LOHAN11 Official Python SDK & Aquatic Portal Tool 2026. Panduan akses link alte… |
-| 2026-10-25 01:38:51 | [zpl-core](https://pypi.org/project/zpl-core/) | 0.1.0 | Beny Shen | 29.0 MB | ZPL II engine: build, validate, render and send Zebra labels. Stdlib-only core… |
-| 2026-10-25 01:40:05 | [fixedwidthparser](https://pypi.org/project/fixedwidthparser/) | 2.0.0rc1 | Gabriel Matte | 10.7 MB | Read and write fixed-width files through the FixedWidthParser NativeAOT library |
-| 2026-10-25 01:42:49 | [authkeyline](https://pypi.org/project/authkeyline/) | 0.2.0 | Javier Lianes <javier@lianes8… | 63.6 kB | Parse, check and safely build OpenSSH authorized_keys lines the way sshd reads… |
-| 2026-10-25 01:43:02 | [humanproof-core](https://pypi.org/project/humanproof-core/) | 0.8.1 | Hummand <contato@hummand.com.… | 6.6 MB | Binding Python do humanproof-core: canonicalização, hash, assinatura e verifica… |
-| 2026-10-25 01:43:05 | [cellstr](https://pypi.org/project/cellstr/) | 0.2.1 | Javier Lianes <javier@lianes8… | 66.6 kB | Display-width aware len, slice, pad and truncate for terminal text: wide CJK, e… |
-| 2026-10-25 01:43:20 | [ellipt](https://pypi.org/project/ellipt/) | 0.2.1 | Javier Lianes <javier@lianes8… | 59.7 kB | Truncate strings with an ellipsis at the start, middle or end, by characters, g… |
-| 2026-10-25 01:43:36 | [eolnorm](https://pypi.org/project/eolnorm/) | 0.2.0 | Javier Lianes <javier@lianes8… | 43.4 kB | Detect, normalize and count line endings in text, bytes, streams and files: git… |
-| 2026-10-25 01:44:07 | [hummand](https://pypi.org/project/hummand/) | 0.4.0 | Hummand <contato@hummand.com.… | 44.2 kB | SDK Python da Hummand: mandato a agente, ato delegado, servidor MCP de mandato… |
-| 2026-10-25 01:57:02 | [bricklayer-sdk](https://pypi.org/project/bricklayer-sdk/) | 0.1.0 | BrickWright Authors | 166.8 MB | An SDK for programmatically creating and validating LEGO® builds. |
-| 2026-10-25 01:57:38 | [brickwright](https://pypi.org/project/brickwright/) | 0.1.0 | BrickWright Authors | 161.0 kB | Agentic LEGO® build generation. |
-| 2026-10-25 01:59:28 | [cesm-hawc](https://pypi.org/project/cesm-hawc/) | 0.3.0 | Victoria McDonald | 126.0 kB | Simulate HAWC ALI limb observations and retrievals from CESM2/WACCM output |
-| 2026-10-25 02:01:11 | [auditrail](https://pypi.org/project/auditrail/) | 0.3.0 | wei chan | 215.9 kB | Verifiable evidence for AI agents: signed, anchored audit trails and a lethal-t… |
-| 2026-10-25 02:08:44 | [softvoice](https://pypi.org/project/softvoice/) | 0.1.0 | SPra03 | 135.9 kB | On-device voice in and out for Claude Code and Codex: replies read aloud, push-… |
-| 2026-10-25 02:09:13 | [shade-plugins-pdf](https://pypi.org/project/shade-plugins-pdf/) | 0.1.0 | ShadeOne | 7.3 kB | Extrair texto e tabelas de PDF com texto, offline, sob o contrato de plugin do… |
-| 2026-10-25 02:17:16 | [jupyterlab-workspace-manager-extension](https://pypi.org/project/jupyterlab-workspace-manager-extension/) | 0.8.16 | Stellars Henson <konrad.jelen… | 646.8 kB | Workspace-driven Running panel: workspaces as coloured accordion sections with… |
+| 2026-10-25 02:22:51 | [aepkit](https://pypi.org/project/aepkit/) | 0.6.0 | tBeltty <jhonatan@tbelt.onlin… | 142.2 kB | Mechanical support for the Auditor/Executor protocol: scaffold, lint, and negat… |
+| 2026-10-25 02:27:18 | [newsclip](https://pypi.org/project/newsclip/) | 0.7.0 | benjamin-di | 1.3 MB | News search, verified subscription reading and private archiving |
+| 2026-10-25 02:29:13 | [flashraw](https://pypi.org/project/flashraw/) | 0.1.0 | Yassine Bouanane | 31.4 MB | Fast, safe camera RAW decoding (DNG, CR2, CR3, NEF, ARW, RAF, RW2, ORF, PEF and… |
+| 2026-10-25 02:33:37 | [lavalabs-secscan](https://pypi.org/project/lavalabs-secscan/) | 1.6.0 | Lava Labs <security@mail.lava… | 526.0 kB | Deterministic security scanner for GitHub, GitLab, and Bitbucket repositories:… |
+| 2026-10-25 02:34:11 | [brainspikes](https://pypi.org/project/brainspikes/) | 0.2.0 | BrainX Team <chao.brain@qq.co… | 4.5 MB | Point-neuron spiking neural networks: build, simulate, and train with a unified… |
+| 2026-10-25 02:35:14 | [errgate-gateway](https://pypi.org/project/errgate-gateway/) | 0.1.0 | TextForAgents LLC | 20.7 kB | Error-actionability translation gateway for MCP tool failures: per-server error… |
+| 2026-10-25 02:37:07 | [topoexploit](https://pypi.org/project/topoexploit/) | 0.2.0 | grisun0 | 324.6 kB | TopoExploit: complex-valued spectral language model for security tasks (vulnera… |
+| 2026-10-25 02:40:04 | [topogpt3](https://pypi.org/project/topogpt3/) | 0.2.0 | grisun0 | 376.4 kB | Complex-valued spectral language model for code with Grassmannian training diag… |
+| 2026-10-25 02:43:40 | [echoChain](https://pypi.org/project/echoChain/) | 0.1.0 | Samir Musali <samir.musali@gm… | 33.5 kB | Measure how information degrades across repeated LLM transformations. |
+| 2026-10-25 02:44:05 | [LSA-sc](https://pypi.org/project/LSA-sc/) | 0.1.0 | Feng Zeng | 30.3 kB | Latent Space Alignment |
+| 2026-10-25 02:46:03 | [pjjet](https://pypi.org/project/pjjet/) | 0.1.1 | Ajith <ajlikeadj@users.norepl… | 124.0 kB | Convert messy enterprise files into clean, token-optimized context for LLMs. |
+| 2026-10-25 02:50:23 | [keras-sciml](https://pypi.org/project/keras-sciml/) | 0.1.0 | Muhammad Anas Raza | 105.1 kB | Scientific Machine Learning in Keras 3 |
+| 2026-10-25 02:52:10 | [keras-bio](https://pypi.org/project/keras-bio/) | 0.1.0 | keras-bio contributors | 185.4 kB | Multi-backend biological sequence and structure foundation models in Keras 3 |
+| 2026-10-25 02:59:43 | [cape-aeri](https://pypi.org/project/cape-aeri/) | 0.1.0 | Shakir Adeyemi Tewogbade | 44.3 kB | AERI article scoring and country-month economic-risk index library. |
+| 2026-10-25 03:01:14 | [india-company-diligence](https://pypi.org/project/india-company-diligence/) | 0.1.0 |  | 123.3 kB | MCP server making India's public company-data layers agent-legible |
+| 2026-10-25 03:06:03 | [knn-inspect](https://pypi.org/project/knn-inspect/) | 0.17.0 | Ivan Petrouchtchak | 3.3 MB | Offline inspector for OpenSearch k-NN native segment files |
+| 2026-10-25 03:09:20 | [snowflake-switchboard-ai](https://pypi.org/project/snowflake-switchboard-ai/) | 0.1.0 | Murtaza Mohammed Rafiqi <murt… | 6.2 kB | A dynamic, metadata-driven query router for Snowflake and Snowpark |
+| 2026-10-25 03:11:40 | [bitqate](https://pypi.org/project/bitqate/) | 0.2.1 |  | 242.1 MB | Command-line interface for the BitQate public API |
+| 2026-10-25 03:11:57 | [drumsplit-mcp](https://pypi.org/project/drumsplit-mcp/) | 0.1.0 | DrumSplit | 32.3 kB | One-call drum separation for agents, with resumable downloads |
+| 2026-10-25 03:15:31 | [plainlang](https://pypi.org/project/plainlang/) | 0.1.0 |  | 306.8 kB | Plain: write steps in everyday English, then run them. |
+| 2026-10-25 03:16:39 | [fontus](https://pypi.org/project/fontus/) | 0.0.1 |  | 5.3 kB | Font-drift detection for PDF snapshot CI |

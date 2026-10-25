@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T02:22:51Z,aepkit,0.6.0,tBeltty <jhonatan@tbelt.online>,MIT,142173,"Mechanical support for the Auditor/Executor protocol: scaffold, lint, and negative-control the document set for a multi-phase, multi-agent execution."
+2026-10-25T02:27:18Z,newsclip,0.7.0,benjamin-di,MIT,1263775,"News search, verified subscription reading and private archiving"
+2026-10-25T02:29:13Z,flashraw,0.1.0,Yassine Bouanane,MIT OR Apache-2.0,31392619,"Fast, safe camera RAW decoding (DNG, CR2, CR3, NEF, ARW, RAF, RW2, ORF, PEF and more) with zero-copy NumPy output"
+2026-10-25T02:33:37Z,lavalabs-secscan,1.6.0,Lava Labs <security@mail.lavalabs.ai>,MIT,525997,"Deterministic security scanner for GitHub, GitLab, and Bitbucket repositories: secrets, code patterns, IaC, dependency CVEs, licenses, and repository settings."
+2026-10-25T02:34:11Z,brainspikes,0.2.0,BrainX Team <chao.brain@qq.com>,Apache-2.0,4467120,"Point-neuron spiking neural networks: build, simulate, and train with a unified kernel language."
+2026-10-25T02:35:14Z,errgate-gateway,0.1.0,TextForAgents LLC,MIT,20721,"Error-actionability translation gateway for MCP tool failures: per-server error-dialect profiles, deterministic verdicts, host-side resend enforcement (stdio JSON-RPC)"
+2026-10-25T02:37:07Z,topoexploit,0.2.0,grisun0,GPL-3.0-or-later,324611,"TopoExploit: complex-valued spectral language model for security tasks (vulnerability analysis, patch analysis, exploit development), trained on ExploitGym."
+2026-10-25T02:40:04Z,topogpt3,0.2.0,grisun0,GPL-3.0-or-later,376382,Complex-valued spectral language model for code with Grassmannian training diagnostics and hierarchical recursive reasoning inference.
+2026-10-25T02:43:40Z,echoChain,0.1.0,Samir Musali <samir.musali@gmail.com>,MIT,33489,Measure how information degrades across repeated LLM transformations.
+2026-10-25T02:44:05Z,LSA-sc,0.1.0,Feng Zeng,,30312,Latent Space Alignment
+2026-10-25T02:46:03Z,pjjet,0.1.1,Ajith <ajlikeadj@users.noreply.github.com>,GPL-3.0-only,123977,"Convert messy enterprise files into clean, token-optimized context for LLMs."
+2026-10-25T02:50:23Z,keras-sciml,0.1.0,Muhammad Anas Raza,MIT,105133,Scientific Machine Learning in Keras 3
+2026-10-25T02:52:10Z,keras-bio,0.1.0,keras-bio contributors,Apache-2.0,185425,Multi-backend biological sequence and structure foundation models in Keras 3
+2026-10-25T02:59:43Z,cape-aeri,0.1.0,Shakir Adeyemi Tewogbade,MIT,44281,AERI article scoring and country-month economic-risk index library.
+2026-10-25T03:01:14Z,india-company-diligence,0.1.0,,MIT,123260,MCP server making India's public company-data layers agent-legible
+2026-10-25T03:06:03Z,knn-inspect,0.17.0,Ivan Petrouchtchak,Apache-2.0,3315658,Offline inspector for OpenSearch k-NN native segment files
+2026-10-25T03:09:20Z,snowflake-switchboard-ai,0.1.0,Murtaza Mohammed Rafiqi <murtuzarafiqui@gmail.com>,MIT,6157,"A dynamic, metadata-driven query router for Snowflake and Snowpark"
+2026-10-25T03:11:40Z,bitqate,0.2.1,,Apache-2.0,242055006,Command-line interface for the BitQate public API
+2026-10-25T03:11:57Z,drumsplit-mcp,0.1.0,DrumSplit,,32322,"One-call drum separation for agents, with resumable downloads"
+2026-10-25T03:15:31Z,plainlang,0.1.0,,MIT,306802,"Plain: write steps in everyday English, then run them."
+2026-10-25T03:16:39Z,fontus,0.0.1,,,5309,Font-drift detection for PDF snapshot CI
