@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T15:19:34Z,hnu_query,0.1.1,Skrepy <skrepy@hnu.edu.cn>,AGPL-3.0-only,277666,湖南大学校内系统查询库，将湖南大学的校内系统（如个人门户，教务系统等）的接口进行包装，提供一套获取结构化数据的能力。
+2026-10-25T15:22:20Z,snakex,1.0.0,kya dekh rha hai luvday,MIT,13850,Teri Maa ne bhoot ke sath suhagrat rachai thi woh bhoot huh mein
+2026-10-25T15:22:21Z,synaptane,1.0.0rc2,René Cotton,Apache-2.0,2561723,"Self-hosted team second brain stored in Git: wiki, search, MCP server and AI tidy-up."
+2026-10-25T15:24:17Z,rayforge-burgerguy,0.3.0,,,92735,"A small, renderer-agnostic raycasting engine library"
+2026-10-25T15:25:15Z,yoto-cli,0.1.0,Ruben J. Jongejan <ruben.jongejan@gmail.com>,MIT,8543450,"Manage Yoto Make Your Own playlists from the command line: sign in, upload audio, create and inspect content."
+2026-10-25T15:27:39Z,foxmcp,1.5.0,,MIT,126437,Connect MCP clients to your Firefox browser
+2026-10-25T15:28:06Z,cnpj-validador,0.1.0,Celso Custodio Junior <celsocustodiojunior1985@gmail.com>,,7413,Validador unificado de CNPJ compatível com os formatos antigo (numérico) e novo (alfanumérico) da Receita Federal.
+2026-10-25T15:29:01Z,openbot-id,1.1.0,Kafnik,MIT,12222,Python client for the Openbot ID authorization API
+2026-10-25T15:35:41Z,glume,0.0.0,Development Team,MIT,2977,This name has been reserved using Reserver
+2026-10-25T15:36:41Z,csi-sales,1.0.0,Tu Nombre,MIT,4637996,Resolución de crimen en el Maturana
+2026-10-25T15:36:47Z,benchpilot,0.1.0,AnyWare Labs,Apache-2.0,85354,Drive a BenchPilot probe from Python or a pytest fixture.
+2026-10-25T15:37:14Z,settlo-pay-python-sdk,0.1.1,JAXPARROW,MIT,93652,"Typed sync + async Python SDK for the Settlo Pay API (payments, payouts, refunds, webhooks)"
+2026-10-25T15:38:27Z,agentic-windows-mcp,0.8.9,Vu Manh Ruy,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",699593,"Agentic Windows MCP - an MCP server that gives AI agents full, safe control of a Windows PC: desktop automation, remote computer control, browser DevTools inspection, and remote software development."
+2026-10-25T15:38:46Z,0xarchive-backtest,0.3.0,,MIT,20571346,0xArchive backtest engine: deterministic local backtesting for 0xArchive data
+2026-10-25T15:39:07Z,aipostify,1.0.1,AIPostify Contributors,MIT,437010,Laravel-Style Python MVC Framework with PTL (Postify Template Language)
+2026-10-25T15:39:46Z,chitty,0.1.0,Ed Singleton <ed@singletoned.com>,MIT,120237,Markdown-native task tracker for repos worked on by humans and coding agents
+2026-10-25T15:40:35Z,steel-sections,0.1.0,Anders Lee,"MIT (code); CC BY 4.0, Apache-2.0 and CC BY-SA 4.0 (data, see DATA-LICENSE.md)",59701,"Steel section weights, dimensions and properties: IS 808 (ISMB, ISMC, ISA), IPE, HEA, HEB, UPN, pipe schedules, rebar and sheet gauges. No dependencies."
+2026-10-25T15:44:02Z,wifi-analyzer,0.1.19,Daniel Nylander,GPL-3.0-or-later,1404866,WiFi Analyzer — GTK4/Adwaita app for WiFi network analysis
+2026-10-25T15:46:43Z,fiscalisto,0.1.0,,MIT,147251,"SDK de la API de facturación electrónica (CFDI 4.0) de Fiscalisto, para Python."
+2026-10-25T15:47:41Z,gemeni-storyboard,0.1.0,Gemeni <support@gemeni.app>,MIT,11666,Turn a CSV of image prompts and local visual assets into an offline HTML storyboard.
+2026-10-25T15:49:34Z,kramers,0.1.0,Alexander Sokol,MIT,219340,"An open handbook of first-passage and escape results in statistical physics: every formula a function, tied to its paper, checked against an independent solver."
+2026-10-25T15:50:21Z,nemo-py,0.1.1,Pravanjan Roy,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",9403882,High-performance embedded relational database written in C++20 with a unified Sync/Async Python API.
+2026-10-25T15:50:22Z,explainer-studio,0.1.5,,MIT,2880138,Command-line studio for narrated explainer videos (HyperFrames + Kokoro TTS + ffmpeg)
+2026-10-25T15:52:58Z,ordverk,0.4,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,2501011,En svensk översättningsverkstad för Linux
+2026-10-25T15:53:05Z,darkfly-tool,5.1.1,DarkFly-Tool maintainers,GPL-3.0-or-later,106981,Modern Python 3 CLI for DarkFly-Tool (wrapper/launcher for security tools)
+2026-10-25T15:53:31Z,FluxScript,0.1.0,Md Safarujjaman,MIT,75565,FluxScript Python-first multi-target application generator and developer CLI
+2026-10-25T15:54:26Z,poc-evidence-vectors,0.1.0,Sankalp Gilda <sankalp.gilda@gmail.com>,Apache-2.0,268317,"Conformance vectors and an independent twin verifier for Proof-of-Control evidence tokens, Merkle proofs, chains and canonical form"
+2026-10-25T15:57:24Z,minimindslab-json-pointer,0.1.0,MiniMindsLab,MIT,8526,"Parse, validate, and resolve RFC 6901 JSON Pointer paths against Python dict/list structures."
+2026-10-25T15:57:50Z,minimindslab-json-number-normalize,0.1.0,MiniMindsLab,MIT,7268,Normalize number-like JSON values in parsed Python data structures to a consistent representation for stable comparisons and snapshots.
+2026-10-25T15:58:15Z,minimindslab-json-deep-diff,0.1.0,MiniMindsLab,MIT,7898,"Deterministically compare two JSON-compatible Python values or JSON strings recursively and report added, removed, and changed paths."
+2026-10-25T16:00:51Z,shade-plugins-email,0.1.0,ShadeOne,Apache-2.0,23666,"Ler e-mail por IMAP e enviar por SMTP, com TLS obrigatório e envio que não duplica."
+2026-10-25T16:01:18Z,minifs-pg,0.1.0a1,vdavamse,MIT,2258061,Postgres based VFS for agents
+2026-10-25T16:04:34Z,s3rds,0.1.0,Frank Zhang,MIT,27841,"A truly serverless RDS on your own AWS account: Lambda URL endpoint, SQLite on S3, ≈ $0 when idle. Drivers named after the standard clients: s3rds.sqlite, s3rds.pymysql."
+2026-10-25T16:04:58Z,warrant-graph,2.0.0a1,s0fractal,MIT,211495,"Record transitions of work with their residual, close loops exactly, and hand the next agent a capsule instead of a transcript."
+2026-10-25T16:05:16Z,civiqhub-selene,0.0.1,CiviqHub SAS <contact@civiqhub.com>,Apache-2.0,19871,"SELENE, the open scientific engine of CiviqHub. Early scaffold, not functional yet."
+2026-10-25T16:06:29Z,norminup-discord,0.1.0,NorminUp,MIT,22043,"See what your Discord bot's users really get: acknowledged in time, ""This interaction failed"", deferred replies never sent. Counters only, sent to NorminUp."
+2026-10-25T16:06:45Z,kartrace,0.1.0,burgerguy,,8696,A fast-paced kart racing game built with rayforge_burgerguy and pygame
+2026-10-25T16:08:14Z,anish-a-r,0.0.1,,,5920255,DEV_INIT terminal resume for Anish A R
+2026-10-25T16:08:16Z,kernelcontract,0.1.0a3,KernelContract contributors,"MIT License Copyright (c) 2026 KernelContract contributors Permission is hereby granted, free of ch…",39505,Read-only diagnostics for Jupyter kernels and Python environments
+2026-10-25T16:12:44Z,ai-practical-kit,1.1.0,AIPracticalKit contributors,MIT,48648,"Beginner-friendly Python implementations of 11 AI laboratory practical algorithms, with an offline source browser"
+2026-10-25T16:12:44Z,nouride-run,0.1.0,Nouverse Technologies <admin@nouverse.tech>,,2857,Headless task and mission runner utility for the Nouride multi-agent engine.
+2026-10-25T16:13:07Z,monash-study-kit,1.2.0,Shuoxun Wen,MIT,492622,"Connect Monash Moodle and Ed to Claude via a local MCP server and CLI: deadlines, announcements, grades, full-text search over course materials and Ed posts, all on your own machine."
+2026-10-25T16:13:19Z,tickwarp,0.0.1.dev0,,,2713,"GPU-native, tick-exact perpetual-futures account simulator for PyTorch (under development)"
+2026-10-25T16:13:29Z,almirah-app,0.1.0,Nizam Mohideen,MIT,611434,"Household documents filed and found in the owner's own Google Drive, driven by Claude Code skills through a JSON CLI."
+2026-10-25T16:14:49Z,celery-manager,0.1.0a2,pythondeveloper6 <pythondeveloper6@gmail.com>,MIT,1294993,A dashboard and control API for Celery background tasks.
+2026-10-25T16:15:08Z,semdiff-html,0.1.0,AmitKumar-24,Apache-2.0,161388,"Semantic HTML change detection: two snapshots in, typed change objects out."
+2026-10-25T16:17:11Z,slimproof,0.0.1,Rounak Sonavane,MIT,2532,"Audit and slim MCP tool definitions, with proof they still work. Under active development."
+2026-10-25T16:17:46Z,nps-ai-assignments,1.0.0,,,32080,Question and full-code reference for AI assignments 2 3 4 6 8 9
+2026-10-25T16:18:19Z,ezshell,0.2.0,Salomon,MIT,221030,Terminal assistant: explains failed commands and suggests a fix you review before running
+2026-10-25T16:19:01Z,django-auth-headless,0.1.0,Abel Mekonen <abelmekonen247@gmail.com>,MIT,52472,Reusable Django authentication with django-allauth Headless and OAuth providers.
+2026-10-25T16:19:30Z,django-vantage,0.1.0a1,Mahmoud Ahmed <pythondeveloper6@gmail.com>,MIT,1935110,"A smart, beautiful admin panel for Django. Zero config to start, one line to override anything."
+2026-10-25T16:19:56Z,sud-cli,0.1.0,lnfnt <lnfnt@proton.me>,AGPL-3.0-only,2352086,Offline Phase 1 foundation for the sud-cli court-document toolkit.
+2026-10-25T16:20:13Z,kovarctl,0.1.0,Lars Kiesow <lkiesow@uos.de>,MIT,36680,Control the lighting of KOVAR keyboards (ROYUAN YC500 firmware) on Linux
+2026-10-25T16:20:13Z,nedviga-cli,0.1.0,lnfnt <lnfnt@proton.me>,AGPL-3.0-only,462568,CLI and SDK for Moscow secondary real estate monitoring
+2026-10-25T16:20:19Z,docx-cli,0.1.0,lnfnt <lnfnt@proton.me>,Apache-2.0,63823,"Deterministic .docx generation, reverse validation and injection scanning for Russian legal documents"
