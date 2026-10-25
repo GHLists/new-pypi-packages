@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T00:19:52Z,keras-climate,0.1.1,,,1353661,Keras 3 framework for climate modeling and Earth observation
+2026-10-25T00:19:57Z,dsh-rla,0.0.1,,Apache-2.0,4083,Recursive learning agent — a DeepSeek Harness plugin for proactive self-evolution. (Name reservation; the real release follows.)
+2026-10-25T00:20:45Z,holodori-asset-tools,1.0.1,,,52293,"Decrypt, encrypt, download and serve holodori (hololive Dreams) game assets"
+2026-10-25T00:22:44Z,xppstudio,0.1.0,,GPL-2.0-or-later,3271173,"XPPAUT's simulation and AUTO bifurcation engine for Python: pip install and go, no compiler, no X11"
+2026-10-25T00:22:47Z,ci-time-tracker,0.2.0,ci-time-tracker contributors,MIT,159685,"Find where CI time and money go: cost, flaky steps and regressions from GitHub Actions, and a PR comment action"
+2026-10-25T00:27:21Z,alpin-api,0.1.0,Michael Medek,"MIT License Copyright (c) 2026 Michael Medek Permission is hereby granted, free of charge, to any p…",77588,Deterministic forum scraping for Alpine ski-resort updates
+2026-10-25T00:30:09Z,toolframe-web,0.1.0,byfb <62798989+byfb@users.noreply.github.com>,Apache-2.0 AND MIT,127562,HTML applications and sealed browser assets for Toolframe
+2026-10-25T00:30:17Z,neuromaestro,1.0.0,Qiuyu Yu <qiuyuyu.psych@gmail.com>,Apache-2.0,465233,A meta-pipeline for automated multi-modal neuroimaging processing on HPC clusters
+2026-10-25T00:30:42Z,cairnlock,0.5.0,Pennacle Security,MIT,103486,Static analyzer and lockfile for AI-agent context files
+2026-10-25T00:32:02Z,currylang,0.9.0a1,,BSD-3-Clause,54343813,The Sprite compiler and runtime for Curry
+2026-10-25T00:33:33Z,generalized-maxflow,0.3.0,wesboyt,"MIT License Copyright (c) 2026 wesboyt Permission is hereby granted, free of charge, to any person…",2934485,Generalized maximum flow: maximum flow with per-edge gain multipliers
+2026-10-25T00:34:53Z,linear-algebra-ai999x,1.0.0,Ibnul Jaif Farabi,Apache-2.0,18110577,"Offline linear algebra solver: vectors, matrices, determinants, linear systems, eigenvalues, decompositions, least squares, sparse matrices and numerical methods (root finding, interpolation, quadrat…"
+2026-10-25T00:35:26Z,qec-diverse-circuits,0.1.0,,"MIT License Copyright (c) 2026 qec-diverse-circuits Permission is hereby granted, free of charge, t…",48286,"A Gymnasium-compatible RL environment that generates quantum circuits diverse in QEC/noise-characterization-relevant properties (non-Clifford content, entangling-gate type/density, connectivity, dept…"
+2026-10-25T00:38:03Z,toskar,0.1.0,,Apache-2.0,215255,The official Python SDK for Toskar: local AI across your own computers.
+2026-10-25T00:40:34Z,leviathan-public-content,1.0.1,Leviathan Systems,LicenseRef-Proprietary,10239,Official read-only Python client for Leviathan Systems published resources
+2026-10-25T00:41:00Z,langchain-fastocr,0.1.0,FastOCR <support@fastocr.org>,MIT,3142144,"LangChain document loader for the FastOCR Document OCR API: load scanned PDFs and images as text, in 100+ languages."
+2026-10-25T00:41:14Z,math-foundations-ai999x,1.0.0,Ibnul Jaif Farabi,Apache-2.0,18189402,"Offline, verified math foundations solver: fractions, rounding, algebraic equations, systems and inequalities, polynomials, functions, logarithms, trigonometry (with the ambiguous case), conic sectio…"
+2026-10-25T00:41:15Z,llama-index-readers-fastocr,0.1.0,FastOCR <support@fastocr.org>,MIT,3142846,"LlamaIndex reader for the FastOCR Document OCR API: load scanned PDFs and images as text, in 100+ languages."
+2026-10-25T00:43:01Z,ezpkg,0.0.1,Wayne C. Gramlich,MIT No Attribution,119236,Automatic Package Fetching for One-File Programs
+2026-10-25T00:45:01Z,calculus-ai999x,1.0.0,Ibnul Jaif Farabi,Apache-2.0,16597350,"Offline calculus solver: limits, derivatives, integrals, series, Taylor polynomials, multivariable and vector calculus, special functions and numerical differentiation and integration, with steps, La…"
+2026-10-25T00:46:01Z,biomedparse-mlx,0.1.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0 AND MIT AND BSD-3-Clause,90852,Native MLX inference for BioMedParse v2 on Apple Silicon
+2026-10-25T00:47:45Z,fdg-pet-ct-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,31554,Native MLX FDG PET image synthesis
+2026-10-25T00:48:00Z,ipeddle,0.1.0,Neguiolidas,Apache-2.0,148060,"Build iOS apps (.ipa) on Linux, no Mac or Xcode required — the Gradle of iOS."
+2026-10-25T00:48:59Z,discrete-math-ai999x,1.0.0,Ibnul Jaif Farabi,Apache-2.0,17958800,"Offline discrete math solver: number theory, modular arithmetic, combinatorics, graph theory and network algorithms, logic and the mathematics of cryptography, with steps, LaTeX and honest refusals"
+2026-10-25T00:49:12Z,flexible-unet-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,54969,Native FP32 MLX FlexibleUNet released-checkpoint network
+2026-10-25T00:50:39Z,dockflow-core,0.2.0,,MIT,22618,Domain-independent shared primitives for Dockflow
+2026-10-25T00:52:30Z,dockflow-artifacts,0.2.0,Dockflow contributors,MIT,30936,Reusable immutable artifact publication and orchestration integration
+2026-10-25T00:53:36Z,dockflow-pipelines,0.2.0,,MIT,335256,Durable compiled KFP pipelines through DockerRunner
+2026-10-25T01:00:13Z,lib-tiny-png,0.1.0,,MIT,12651,"A lightweight, minimal PNG library."
+2026-10-25T01:05:03Z,VLQcalc,0.2.0,Orhan Cakir,MIT,76766,"Coupling constants, decay widths and MadGraph5 input cards for vector-like quark models"
+2026-10-25T01:11:49Z,crabcrop-url,0.1.0,Maxwell Dayvson Da Silva,MIT,11724,Build and sign crabcrop image URLs
