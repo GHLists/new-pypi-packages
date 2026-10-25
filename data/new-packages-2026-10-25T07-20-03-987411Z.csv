@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T06:22:11Z,spano,0.1.0,Spano contributors,MIT,20826,Python SDK for tracing and exporting AI-agent execution telemetry
+2026-10-25T06:22:12Z,agent-test-loop,1.0.0,Samuel Medeiros,MIT,8358,"Deterministic critic for AI agents: runs weighed checks for real, scores 0-100 and blocks delivery below the threshold."
+2026-10-25T06:33:26Z,olaiedge,1.0.0,Siddardha Shayini,MIT,38191006,"OlaiEdge: Embeddable Edge Agent Engine for Desktop Apps (Electron, Tauri, Flutter). Successor to FastAgent."
+2026-10-25T06:38:45Z,acprof,0.3.0,AC-Prof contributors,Apache-2.0 AND CC-BY-4.0,6105906,Reproducible profiling of containerized Hugging Face inference services
+2026-10-25T06:39:23Z,hermes-omp-acp,0.1.0,Junghoon Ban,MIT,23573,Standalone Hermes model provider for native Oh My Pi ACP sessions
+2026-10-25T06:43:10Z,mc683xx,0.1.0,Christopher Hoover <ch@murgatroid.com>,MIT OR Apache-2.0,9598584,"The Motorola MC68331 (CPU32) emulator, for Python hosts"
+2026-10-25T06:46:20Z,qovia,0.1.0,Qovia <scott@qovia.ai>,MIT,12290,"Python client for Qovia: public data from Douyin, Xiaohongshu (RedNote), Weibo, Bilibili, TikTok, YouTube and 20+ platforms as unified JSON"
+2026-10-25T06:48:40Z,check-proxy-tax,1.0.0,Kais / 600me,MIT,21604,"Zero-dependency CLI that audits real proxy and anti-bot cost: usable rate, p50/p95 latency, bytes billed and effective price per 1,000 usable requests."
+2026-10-25T06:50:00Z,kaisen-evalbridge,0.1.0,EvalBridge Contributors,MIT,87035,Connect agents to rigorous evaluations effortlessly
+2026-10-25T06:50:59Z,testpulse,0.1.0,TestPulse contributors,MIT,77154,"Time your tests, optimize your outcomes."
+2026-10-25T06:51:43Z,oss-intake,0.2.1,Ned Tavakol,Apache-2.0,217078,"Assess third-party open source software before adoption: known vulnerabilities, release lag and project health."
+2026-10-25T06:54:21Z,mc9py,0.2.1,DontforgetAntaiku,MIT,304802,"Python scripting layer for Micro-Cap 9: run analyses, read results, take native screenshots and build schematics from code (Linux + Wine, Windows)."
+2026-10-25T07:00:27Z,harnessmux,0.0.1,,MIT,1735,Reserved for HarnessMux — https://harnessmux.com
+2026-10-25T07:01:38Z,arugulanet,0.1.0,,MIT,14578,"Find offers that fit a request through Arugula, with LangChain, LangGraph and CrewAI tools."
+2026-10-25T07:04:23Z,aglium-ledger,0.1.0,Aglium,LicenseRef-PolyForm-Shield-1.0.0,550632,"Cross-repo impact brief for a change: the client, with no database"
+2026-10-25T07:05:24Z,CVE-info-MCP,0.1.0,Masanori Hirano,MIT,112826,Read-only MCP access to CVE-info Japanese vulnerability intelligence
+2026-10-25T07:05:50Z,CVE-info,0.1.0,Masanori Hirano,MIT,4578,Alias package for CVE-info-MCP
+2026-10-25T07:07:02Z,ecode-cutting,0.2.3,Thorne,,335782,可直接导入调用的纯 Python 一维与二维切割排料依赖库
+2026-10-25T07:12:43Z,django-action-permissions,0.4.0,Giuseppe Galli <giuseppe.galli@gmail.com>,BSD-3-Clause,170821,"Action-based permissions for Django REST framework viewsets, driven by an RBAC/ABAC table stored in the database"
+2026-10-25T07:17:23Z,alphadataforge,0.1.0,,,91495,A modular data fetching and feature engineering pipeline for quantitative trading.
+2026-10-25T07:17:48Z,venice-sdk,0.3.3,Mark Rizzn Hopkins <guesswho@rizzn.com>,Dual License: GNU Affero General Public License v3.0 and Creative Commons Attribution-ShareAlike 4.…,411209,"Comprehensive Python SDK for Venice AI - Advanced LLM, Image Generation, Audio Synthesis, and AI Assistant APIs with Full Swagger Specification Support"
+2026-10-25T07:18:56Z,xiaoxiaos-test-project1,1.0,肖晓,,2201,这是我的调试库，它用来调试我的PyPI上传是否成功。
+2026-10-25T07:19:32Z,movoa,0.1.0,Movoa (https://movoa.ai),MIT,16475,"Unlimited AI video generator with sound: on paid plans the tenth take of a shot costs what the first did, and your first clip is free to make right now. Official Python SDK for Movoa (movoa.ai): text…"

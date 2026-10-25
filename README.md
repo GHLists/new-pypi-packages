@@ -8,41 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:18 UTC
+## Latest list — 2026-10-25 07:20 UTC
 
-New packages created between 2026-10-25 05:18 UTC and 2026-10-25 06:18 UTC.
+New packages created between 2026-10-25 06:18 UTC and 2026-10-25 07:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-25T06-18-37-675896Z.csv)
+[Full CSV](data/new-packages-2026-10-25T07-20-03-987411Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 05:19:18 | [aquarela](https://pypi.org/project/aquarela/) | 0.0.2 | Percy Cubas | 3.5 kB | Open source data labeling tool. Paint, draw and label freely. |
-| 2026-10-25 05:20:00 | [flink-mcp-server](https://pypi.org/project/flink-mcp-server/) | 0.2.0 | hakkiburakalks | 150.4 kB | Platform-independent, read-only MCP server for monitoring Apache Flink clusters… |
-| 2026-10-25 05:22:50 | [severian](https://pypi.org/project/severian/) | 0.3.13 | Sahil-SS9 | 914.2 kB | Local-first long-term memory for AI agents: scoped, cited, correctable, with hy… |
-| 2026-10-25 05:25:53 | [macverdict](https://pypi.org/project/macverdict/) | 0.2.0 | Anirudh Jayaraman | 77.4 kB | Stop watching graphs: macverdict tells you why your Mac was slow this week and… |
-| 2026-10-25 05:28:29 | [connectset](https://pypi.org/project/connectset/) | 0.0.1 | ardaharp | 1.8 kB | ConnectSet (formerly Mesh): self-improving multi-agent AI network. Coming soon. |
-| 2026-10-25 05:28:32 | [cnset](https://pypi.org/project/cnset/) | 0.0.1 | ardaharp | 1.7 kB | ConnectSet (formerly Mesh): self-improving multi-agent AI network. Coming soon. |
-| 2026-10-25 05:28:36 | [yaddd-utils](https://pypi.org/project/yaddd-utils/) | 0.1.0 | Yuri Andreev <andreev.jr@gmai… | 21.4 kB | Utilities for yaddd: scenario inspection and Mermaid diagram generation. |
-| 2026-10-25 05:29:00 | [nwafu-cas](https://pypi.org/project/nwafu-cas/) | 1.0.1 | majianyu2007 | 75.6 kB | 西北农林科技大学统一身份认证（authserver.nwafu.edu.cn）Python 客户端：账号/扫码/FIDO 登录与全部二次认证方式 |
-| 2026-10-25 05:31:40 | [usagerail](https://pypi.org/project/usagerail/) | 0.1.0 |  | 139.1 kB | UsageRail SDK for Python: API keys, rate limits, quotas and usage metering insi… |
-| 2026-10-25 05:31:48 | [veronix](https://pypi.org/project/veronix/) | 1.0.0 | 1tz.raj | 27.4 kB | Clean, professional and colourful console logging for Python - by 1tz.raj |
-| 2026-10-25 05:36:20 | [foxray](https://pypi.org/project/foxray/) | 0.1.2 | Dan Quellhorst | 229.2 kB | A light error tracker that accepts errors from the Sentry SDKs. Works as a Djan… |
-| 2026-10-25 05:37:30 | [spinf-client](https://pypi.org/project/spinf-client/) | 0.3.1 |  | 224.5 kB | Python client for the spinf scoring API, hosted or self-hosted with spinf-serve… |
-| 2026-10-25 05:37:58 | [spinf-serve](https://pypi.org/project/spinf-serve/) | 0.1.1 |  | 873.7 kB | The open-source inference engine for decision models: one input read once, hund… |
-| 2026-10-25 05:38:36 | [domino-web](https://pypi.org/project/domino-web/) | 0.1.0 | kegsmr | 17.9 kB | An experimental Python web framework built on Flask |
-| 2026-10-25 05:39:16 | [vulnerability-exposure-mcp](https://pypi.org/project/vulnerability-exposure-mcp/) | 1.0.0 | Matthew Frazer | 202.0 kB | MCP server that checks IPs, domains, CVEs and software versions for confirmed v… |
-| 2026-10-25 05:44:04 | [owlgebra-harness](https://pypi.org/project/owlgebra-harness/) | 0.0.1 | Owlgebra | 2.2 kB | The eval harness of Owl Studio, which runs trials of a task against an agent. |
-| 2026-10-25 05:44:06 | [owlgebra-langchain](https://pypi.org/project/owlgebra-langchain/) | 0.0.1 | Owlgebra | 2.2 kB | The tool mock hook and serve of Owl Studio for LangChain agents. |
-| 2026-10-25 05:44:07 | [owlgebra-pydantic-ai](https://pypi.org/project/owlgebra-pydantic-ai/) | 0.0.1 | Owlgebra | 2.3 kB | The tool mock hook and serve of Owl Studio for Pydantic AI agents. |
-| 2026-10-25 05:45:22 | [fiss-planner](https://pypi.org/project/fiss-planner/) | 1.0.0 | Shuo Sun | 24.1 MB | FISS and FISS+: Fast Iterative Search and Sampling trajectory planners for auto… |
-| 2026-10-25 05:48:11 | [garageworks](https://pypi.org/project/garageworks/) | 0.2.0.dev2995552413… |  | 74.6 kB |  |
-| 2026-10-25 05:55:30 | [computeml](https://pypi.org/project/computeml/) | 0.1.1 | Jorge Cardona | 331.4 kB | ML inference and training on any GPU via Vulkan compute shaders |
-| 2026-10-25 06:01:08 | [phacker](https://pypi.org/project/phacker/) | 0.1.0 |  | 2.7 MB | Probability of backtest overfitting via CSCV (Bailey et al. 2016), with a C++ k… |
-| 2026-10-25 06:01:47 | [docket-client](https://pypi.org/project/docket-client/) | 0.3.2 | Allen Institute for Neural Dy… | 337.1 kB | Typed Python client for the docket scheduling API |
-| 2026-10-25 06:04:37 | [marina-rules](https://pypi.org/project/marina-rules/) | 2026.10.26.1 | David Li | 279.9 kB | Point-in-time trading rules for financial markets, as data. Price limits, fees,… |
-| 2026-10-25 06:08:26 | [opentel-mcp](https://pypi.org/project/opentel-mcp/) | 0.1.0 | Thirumalaiboobathi B | 114.2 kB | One-line OpenTelemetry instrumentation for Model Context Protocol (MCP) servers… |
-| 2026-10-25 06:12:00 | [quicke-states](https://pypi.org/project/quicke-states/) | 0.1.0 | DuQuantum | 123.6 kB | Verified, hardware-aware Dicke-state circuit synthesis and optimization for Cirq |
-| 2026-10-25 06:13:32 | [kernhell](https://pypi.org/project/kernhell/) | 0.1.0 | Ritesh <ritesh@kernhell.dev> | 102.1 kB | AI-Powered Autonomous Self-Healing Testing Engine — The Heart of Your System Wh… |
-| 2026-10-25 06:15:39 | [nanodirt](https://pypi.org/project/nanodirt/) | 0.1.0 | Shakeeb Alireza <shakfu@users… | 313.6 kB | SuperDirt's event model on nanosynth: a Dirt backend for TidalCycles, Strudel a… |
-| 2026-10-25 06:16:04 | [doe-analyzer](https://pypi.org/project/doe-analyzer/) | 0.3.0 | Niklas Nordin <niklas.nordin@… | 1.3 MB | DOE Analyzer — desktop application for analysing design-of-experiments results… |
-| 2026-10-25 06:18:28 | [task-tracker-py](https://pypi.org/project/task-tracker-py/) | 0.1.0 |  | 5.9 kB | task-tracker-py: the .tracker/tasks/ format linter and CLI, stdlib only |
+| 2026-10-25 06:22:11 | [spano](https://pypi.org/project/spano/) | 0.1.0 | Spano contributors | 20.8 kB | Python SDK for tracing and exporting AI-agent execution telemetry |
+| 2026-10-25 06:22:12 | [agent-test-loop](https://pypi.org/project/agent-test-loop/) | 1.0.0 | Samuel Medeiros | 8.4 kB | Deterministic critic for AI agents: runs weighed checks for real, scores 0-100… |
+| 2026-10-25 06:33:26 | [olaiedge](https://pypi.org/project/olaiedge/) | 1.0.0 | Siddardha Shayini | 38.2 MB | OlaiEdge: Embeddable Edge Agent Engine for Desktop Apps (Electron, Tauri, Flutt… |
+| 2026-10-25 06:38:45 | [acprof](https://pypi.org/project/acprof/) | 0.3.0 | AC-Prof contributors | 6.1 MB | Reproducible profiling of containerized Hugging Face inference services |
+| 2026-10-25 06:39:23 | [hermes-omp-acp](https://pypi.org/project/hermes-omp-acp/) | 0.1.0 | Junghoon Ban | 23.6 kB | Standalone Hermes model provider for native Oh My Pi ACP sessions |
+| 2026-10-25 06:43:10 | [mc683xx](https://pypi.org/project/mc683xx/) | 0.1.0 | Christopher Hoover <ch@murgat… | 9.6 MB | The Motorola MC68331 (CPU32) emulator, for Python hosts |
+| 2026-10-25 06:46:20 | [qovia](https://pypi.org/project/qovia/) | 0.1.0 | Qovia <scott@qovia.ai> | 12.3 kB | Python client for Qovia: public data from Douyin, Xiaohongshu (RedNote), Weibo,… |
+| 2026-10-25 06:48:40 | [check-proxy-tax](https://pypi.org/project/check-proxy-tax/) | 1.0.0 | Kais / 600me | 21.6 kB | Zero-dependency CLI that audits real proxy and anti-bot cost: usable rate, p50/… |
+| 2026-10-25 06:50:00 | [kaisen-evalbridge](https://pypi.org/project/kaisen-evalbridge/) | 0.1.0 | EvalBridge Contributors | 87.0 kB | Connect agents to rigorous evaluations effortlessly |
+| 2026-10-25 06:50:59 | [testpulse](https://pypi.org/project/testpulse/) | 0.1.0 | TestPulse contributors | 77.2 kB | Time your tests, optimize your outcomes. |
+| 2026-10-25 06:51:43 | [oss-intake](https://pypi.org/project/oss-intake/) | 0.2.1 | Ned Tavakol | 217.1 kB | Assess third-party open source software before adoption: known vulnerabilities,… |
+| 2026-10-25 06:54:21 | [mc9py](https://pypi.org/project/mc9py/) | 0.2.1 | DontforgetAntaiku | 304.8 kB | Python scripting layer for Micro-Cap 9: run analyses, read results, take native… |
+| 2026-10-25 07:00:27 | [harnessmux](https://pypi.org/project/harnessmux/) | 0.0.1 |  | 1.7 kB | Reserved for HarnessMux — https://harnessmux.com |
+| 2026-10-25 07:01:38 | [arugulanet](https://pypi.org/project/arugulanet/) | 0.1.0 |  | 14.6 kB | Find offers that fit a request through Arugula, with LangChain, LangGraph and C… |
+| 2026-10-25 07:04:23 | [aglium-ledger](https://pypi.org/project/aglium-ledger/) | 0.1.0 | Aglium | 550.6 kB | Cross-repo impact brief for a change: the client, with no database |
+| 2026-10-25 07:05:24 | [CVE-info-MCP](https://pypi.org/project/CVE-info-MCP/) | 0.1.0 | Masanori Hirano | 112.8 kB | Read-only MCP access to CVE-info Japanese vulnerability intelligence |
+| 2026-10-25 07:05:50 | [CVE-info](https://pypi.org/project/CVE-info/) | 0.1.0 | Masanori Hirano | 4.6 kB | Alias package for CVE-info-MCP |
+| 2026-10-25 07:07:02 | [ecode-cutting](https://pypi.org/project/ecode-cutting/) | 0.2.3 | Thorne | 335.8 kB | 可直接导入调用的纯 Python 一维与二维切割排料依赖库 |
+| 2026-10-25 07:12:43 | [django-action-permissions](https://pypi.org/project/django-action-permissions/) | 0.4.0 | Giuseppe Galli <giuseppe.gall… | 170.8 kB | Action-based permissions for Django REST framework viewsets, driven by an RBAC/… |
+| 2026-10-25 07:17:23 | [alphadataforge](https://pypi.org/project/alphadataforge/) | 0.1.0 |  | 91.5 kB | A modular data fetching and feature engineering pipeline for quantitative tradi… |
+| 2026-10-25 07:17:48 | [venice-sdk](https://pypi.org/project/venice-sdk/) | 0.3.3 | Mark Rizzn Hopkins <guesswho@… | 411.2 kB | Comprehensive Python SDK for Venice AI - Advanced LLM, Image Generation, Audio… |
+| 2026-10-25 07:18:56 | [xiaoxiaos-test-project1](https://pypi.org/project/xiaoxiaos-test-project1/) | 1.0 | 肖晓 | 2.2 kB | 这是我的调试库，它用来调试我的PyPI上传是否成功。 |
+| 2026-10-25 07:19:32 | [movoa](https://pypi.org/project/movoa/) | 0.1.0 | Movoa (https://movoa.ai) | 16.5 kB | Unlimited AI video generator with sound: on paid plans the tenth take of a shot… |
