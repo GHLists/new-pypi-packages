@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T11:20:11Z,fractalpk,0.0.1,,Proprietary,1069,Name reserved. Product site: fractalpk.es
+2026-10-25T11:23:00Z,phaxton,0.0.1,,Proprietary,1055,Name reserved. Product site: https://phaxton.onrender.com/
+2026-10-25T11:24:57Z,sitecheck-mcp,0.1.0,Nick Engel <nick@engel.au>,MIT,158223,"MCP server that assesses whether a website is legitimate or a scam, from registration, TLS, reputation feeds, look-alike analysis and page content"
+2026-10-25T11:26:15Z,immich-library-mcp,0.1.0,Nick Engel <nick@engel.au>,MIT,172051,"MCP server for an Immich photo library: CLIP smart + metadata search, people, albums, places, viewable images, gallery exports, library analysis and optional curation"
+2026-10-25T11:28:28Z,au-shopping-mcp,0.2.0,Nick Engel <nick@engel.au>,MIT,1963056,"MCP server for shopping at Australian online stores: product search, detail and price comparison across 26 retailers (Bunnings, JB Hi-Fi, Officeworks, Costco, ...) plus AliExpress"
+2026-10-25T11:29:57Z,pradot,0.1.1,,,32588,Python utility module
+2026-10-25T11:31:49Z,highbar,0.0.1,Vinícius Melo,MIT,3563,Evals for AI agents that behave like tests. Placeholder release; the first version is in progress.
+2026-10-25T11:32:51Z,immaculate-onnx,0.1.0,Peter Batchelor,LicenseRef-Proprietary,48118742,The models for Immaculate's sscd and sscd_distilled methods.
+2026-10-25T11:36:52Z,sturnyx,0.1.0,,,15105,Monitoring and optional federated learning for Sturnyx workloads
+2026-10-25T11:37:50Z,agent-marketplace-mcp,0.1.1,wabarakat,MIT,9251,MCP server for the Agent Data Marketplace: search data sellers and request data.
+2026-10-25T11:40:19Z,luckylucy.utils.files,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,18185,A collection of utilities I use across different projects (luckylucy.utils.files)
+2026-10-25T11:40:20Z,napguard,0.1.0,,MIT,14105,Lightweight environment variable validation.
+2026-10-25T11:40:22Z,luckylucy.utils.files.mime,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,9815,A collection of utilities I use across different projects (luckylucy.utils.files.mime)
+2026-10-25T11:40:25Z,luckylucy.utils.flasks,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,19201,A collection of utilities I use across different projects (luckylucy.utils.flasks)
+2026-10-25T11:40:29Z,luckylucy.utils.fully-qualified-name,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,9293,A collection of utilities I use across different projects (luckylucy.utils.fully_qualified_name)
+2026-10-25T11:42:04Z,docmost-mcp-remote,1.0.1,bbik52,Apache-2.0,364282,"Remote MCP server for Docmost Community Edition, with per-member sign-in, OAuth 2.1 and scoped access."
+2026-10-25T11:42:39Z,LibrePDK,0.1.0,Leviathan <leviathan@libresilicon.com>,AGPL-3.0-only,8432023,"The generator in the LibreSilicon PDK responsible for generating discrete components such as resistors, capacitors and various types of transistors."
+2026-10-25T11:42:56Z,openbb-pumpdata,0.1.0,"""pumpdata.fun"" <support@pumpdata.fun>",MIT,40928,"pumpdata.fun provider extension for OpenBB: pump.fun's whole on-chain history (deployers, launches, wallets, base rates, daily stats)."
+2026-10-25T11:45:03Z,guardloop-sdk,0.1.0,Muzammil Khan,MIT,8229,"Python client for Guardloop, a guardrail and observability layer for AI agents."
+2026-10-25T11:45:41Z,praiot,0.1.0,,,19053,Python utility module
+2026-10-25T11:46:15Z,teepin,0.2.0,TEEPIN Team <support@teepin.com>,Apache-2.0,148428,Python SDK for Teepin Web Services (TWS): Teepin Storage and compute
+2026-10-25T11:46:34Z,callin,0.1.0,"""Callin.io"" <hello@callin.io>",MIT,15916,"Give your AI agent a real phone line: Callin.io voice agents, calls and transcripts for Python, LangChain and CrewAI."
+2026-10-25T11:47:44Z,brilliant-learn-python,0.1.5,Oliver Tautz,,4201,Add your description here
+2026-10-25T11:48:00Z,shadow-vault,0.3.0,Shadow Vault Contributors,MIT,80373,"Bi-directional, format-preserving reversible PII proxy for AI agents, LangChain/LangGraph, and MCP tools."
+2026-10-25T11:51:25Z,simplechouaibregression,1.0.1,chouaib,MIT,3299,Rocket simulations and a simple linear regression model for teaching Python packaging.
+2026-10-25T11:52:10Z,pyfaro,0.5.0b1,,Apache-2.0,5148521,Experimental Python project workflows powered by uv
+2026-10-25T11:56:04Z,langchain-callin,0.1.0,"""Callin.io"" <hello@callin.io>",MIT,7378,LangChain integration for Callin.io: let your agent place real phone calls with an AI voice agent and read the summary and transcript.
+2026-10-25T11:57:46Z,falkourier,1.0.2,falkomeai <falkomeai@users.noreply.github.com>,"MIT License Copyright (c) 2026 falkomeai Permission is hereby granted, free of charge, to any perso…",140048,Draw images and math curves using Fourier series epicycles
+2026-10-25T11:59:34Z,duka-connect,0.1.0rc1,HairingX,MIT,58453,"Event-driven, async client for Duka One ventilation units on the local network: every value typed, and told when it changes - over their UDP protocol."
+2026-10-25T12:02:18Z,minas-webdav,0.1.1,LUgABeEEE,Apache-2.0,55587,"Xiaomi Smart Storage (MINAS) WebDAV control toolkit: CLI, probe, local proxy"
+2026-10-25T12:06:02Z,git-repokit,0.9.10,Dustin Darcy,MIT,670895,"Create standardized Git repositories: language presets, licences, GitHub setup, and a private notes vault"
+2026-10-25T12:07:20Z,langfuse-agent-cli,0.3.0,Tarkeshwar Narayan <122815908+tns15june@users.noreply.github.com>,MIT,71491,"Agent-oriented CLI and skill for Langfuse traces, prompts, datasets and scores."
+2026-10-25T12:11:53Z,user-pip,0.0.1,,MIT,6310,对原版pip的简单封装库，通过subprocess调用pip命令
+2026-10-25T12:13:32Z,sentient-a,1.2.0,Harshit Dwivedi,MIT,625508,"Context-aware conversation sentiment analysis for English, Hindi, and Hinglish dialogue."
+2026-10-25T12:14:13Z,smriprep-freesurfer732-data-12,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),76294513,"FreeSurfer 7.3.2 files, part 12 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-25T12:14:27Z,smriprep-freesurfer732-data-13,7.3.2,,FreeSurfer Software License Agreement v1.0 (see LICENSE.FreeSurfer.txt),48475580,"FreeSurfer 7.3.2 files, part 13 of the smriprep-freesurfer732 package (install smriprep-freesurfer732, not this). Unofficial repackaging, not endorsed by MGH."
+2026-10-25T12:16:23Z,edge-of-chaos,0.1.0,"Bruno Ariza, Carroll Cannon, Casper van Bavel, José Bouza Serrano Dos Santos Costa",,25110,...
+2026-10-25T12:18:01Z,kitsune-browser,0.7.0,junyeong-nero,MIT,620781,"Drive the Firefox, Zen, or LibreWolf browser you already have open from Python or an AI agent."

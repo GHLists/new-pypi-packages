@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-10-25T10:19:54.314686Z",
-    "path": "data/new-packages-2026-10-25T11-19-29-977961Z.csv",
-    "to": "2026-10-25T11:19:29.977961Z"
+    "count": 38,
+    "from": "2026-10-25T11:19:29.977961Z",
+    "path": "data/new-packages-2026-10-25T12-18-47-16936Z.csv",
+    "to": "2026-10-25T12:18:47.16936Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-25T07:35:53Z",
-      "package": "praone-your-unique-name",
-      "since": "2026-10-25T07:20:03.987411Z",
-      "version": "0.1.0"
+      "attempts": 1,
+      "created_at": "2026-10-25T12:09:31Z",
+      "package": "sbss-toolkit",
+      "since": "2026-10-25T11:19:29.977961Z",
+      "version": null
     }
   ],
-  "serial": 42718183,
+  "serial": 42719739,
   "source_truncated": false,
-  "window": "2026-10-25T11:19:29.977961Z"
+  "window": "2026-10-25T12:18:47.16936Z"
 }
