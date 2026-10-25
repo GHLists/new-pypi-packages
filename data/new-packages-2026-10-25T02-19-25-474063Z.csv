@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T01:21:55Z,hdeeg-snpm,0.4.0,Tancy Kao,MIT,1591657,Permutation statistics (TFCE and cluster correction) for high-density EEG scalp topographies
+2026-10-25T01:24:06Z,smerisk,0.1.0,,Apache-2.0,311980,"Probabilistic and statistical calculations for managing small and medium-sized businesses: cash at risk, fixed-price projects, credibility, survival, unpaid receivables, Benford, newsvendor, Erlang C."
+2026-10-25T01:29:36Z,paxmod-guard,0.1.0,Paxmod,Apache-2.0,12065,"Local safety classifier for AI companions, chatbots and kids' game chat: self-harm, grooming, sexual content, jailbreaks and more, on your own CPU in milliseconds."
+2026-10-25T01:34:24Z,breadcrumbst,0.4.6,,"MIT License Copyright (c) 2026 Breadcrumbs contributors Permission is hereby granted, free of charg…",1901831,A terminal-first productivity timer that keeps your goals in view and helps you understand where you trail off.
+2026-10-25T01:37:42Z,lohan11-sdk,1.0.0,LOHAN11 Official,MIT,12048,"LOHAN11 Official Python SDK & Aquatic Portal Tool 2026. Panduan akses link alternatif lohan11, login lohan11 resmi, dan katalog louhan kontes."
+2026-10-25T01:38:51Z,zpl-core,0.1.0,Beny Shen,MIT,28958171,"ZPL II engine: build, validate, render and send Zebra labels. Stdlib-only core with optional render/OCR extras."
+2026-10-25T01:40:05Z,fixedwidthparser,2.0.0rc1,Gabriel Matte,MIT,10652493,Read and write fixed-width files through the FixedWidthParser NativeAOT library
+2026-10-25T01:42:49Z,authkeyline,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,63568,"Parse, check and safely build OpenSSH authorized_keys lines the way sshd reads them, with fingerprints, typed and zero-dependency"
+2026-10-25T01:43:02Z,humanproof-core,0.8.1,Hummand <contato@hummand.com.br>,,6595013,"Binding Python do humanproof-core: canonicalização, hash, assinatura e verificação do recibo humanproof/1."
+2026-10-25T01:43:05Z,cellstr,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,66554,"Display-width aware len, slice, pad and truncate for terminal text: wide CJK, emoji sequences, combining marks and ANSI codes"
+2026-10-25T01:43:20Z,ellipt,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,59722,"Truncate strings with an ellipsis at the start, middle or end, by characters, grapheme clusters, display columns or UTF-8 bytes, without splitting emoji or accents"
+2026-10-25T01:43:36Z,eolnorm,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,43435,"Detect, normalize and count line endings in text, bytes, streams and files: git-exact, Unicode-aware, atomic rewrites, zero dependencies"
+2026-10-25T01:44:07Z,hummand,0.4.0,Hummand <contato@hummand.com.br>,Apache-2.0,44219,"SDK Python da Hummand: mandato a agente, ato delegado, servidor MCP de mandato e verificação offline do recibo humanproof/1."
+2026-10-25T01:57:02Z,bricklayer-sdk,0.1.0,BrickWright Authors,MIT AND CC-BY-2.0 AND CC-BY-4.0,166834126,An SDK for programmatically creating and validating LEGO® builds.
+2026-10-25T01:57:38Z,brickwright,0.1.0,BrickWright Authors,MIT,161044,Agentic LEGO® build generation.
+2026-10-25T01:59:28Z,cesm-hawc,0.3.0,Victoria McDonald,MIT,125970,Simulate HAWC ALI limb observations and retrievals from CESM2/WACCM output
+2026-10-25T02:01:11Z,auditrail,0.3.0,wei chan,Apache-2.0,215860,"Verifiable evidence for AI agents: signed, anchored audit trails and a lethal-trifecta policy guard."
+2026-10-25T02:08:44Z,softvoice,0.1.0,SPra03,MIT,135886,"On-device voice in and out for Claude Code and Codex: replies read aloud, push-to-talk and dictation, nothing leaves your Mac"
+2026-10-25T02:09:13Z,shade-plugins-pdf,0.1.0,ShadeOne,Apache-2.0,7343,"Extrair texto e tabelas de PDF com texto, offline, sob o contrato de plugin do shade-sdk."
+2026-10-25T02:17:16Z,jupyterlab-workspace-manager-extension,0.8.16,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,646805,"Workspace-driven Running panel: workspaces as coloured accordion sections with their tabs, terminals and kernels"

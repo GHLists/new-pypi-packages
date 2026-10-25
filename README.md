@@ -8,42 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 01:18 UTC
+## Latest list — 2026-10-25 02:19 UTC
 
-New packages created between 2026-10-25 00:18 UTC and 2026-10-25 01:18 UTC.
+New packages created between 2026-10-25 01:18 UTC and 2026-10-25 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-25T01-18-46-935514Z.csv)
+[Full CSV](data/new-packages-2026-10-25T02-19-25-474063Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 00:19:52 | [keras-climate](https://pypi.org/project/keras-climate/) | 0.1.1 |  | 1.4 MB | Keras 3 framework for climate modeling and Earth observation |
-| 2026-10-25 00:19:57 | [dsh-rla](https://pypi.org/project/dsh-rla/) | 0.0.1 |  | 4.1 kB | Recursive learning agent — a DeepSeek Harness plugin for proactive self-evoluti… |
-| 2026-10-25 00:20:45 | [holodori-asset-tools](https://pypi.org/project/holodori-asset-tools/) | 1.0.1 |  | 52.3 kB | Decrypt, encrypt, download and serve holodori (hololive Dreams) game assets |
-| 2026-10-25 00:22:44 | [xppstudio](https://pypi.org/project/xppstudio/) | 0.1.0 |  | 3.3 MB | XPPAUT's simulation and AUTO bifurcation engine for Python: pip install and go,… |
-| 2026-10-25 00:22:47 | [ci-time-tracker](https://pypi.org/project/ci-time-tracker/) | 0.2.0 | ci-time-tracker contributors | 159.7 kB | Find where CI time and money go: cost, flaky steps and regressions from GitHub… |
-| 2026-10-25 00:27:21 | [alpin-api](https://pypi.org/project/alpin-api/) | 0.1.0 | Michael Medek | 77.6 kB | Deterministic forum scraping for Alpine ski-resort updates |
-| 2026-10-25 00:30:09 | [toolframe-web](https://pypi.org/project/toolframe-web/) | 0.1.0 | byfb <62798989+byfb@users.nor… | 127.6 kB | HTML applications and sealed browser assets for Toolframe |
-| 2026-10-25 00:30:17 | [neuromaestro](https://pypi.org/project/neuromaestro/) | 1.0.0 | Qiuyu Yu <qiuyuyu.psych@gmail… | 465.2 kB | A meta-pipeline for automated multi-modal neuroimaging processing on HPC cluste… |
-| 2026-10-25 00:30:42 | [cairnlock](https://pypi.org/project/cairnlock/) | 0.5.0 | Pennacle Security | 103.5 kB | Static analyzer and lockfile for AI-agent context files |
-| 2026-10-25 00:32:02 | [currylang](https://pypi.org/project/currylang/) | 0.9.0a1 |  | 54.3 MB | The Sprite compiler and runtime for Curry |
-| 2026-10-25 00:33:33 | [generalized-maxflow](https://pypi.org/project/generalized-maxflow/) | 0.3.0 | wesboyt | 2.9 MB | Generalized maximum flow: maximum flow with per-edge gain multipliers |
-| 2026-10-25 00:34:53 | [linear-algebra-ai999x](https://pypi.org/project/linear-algebra-ai999x/) | 1.0.0 | Ibnul Jaif Farabi | 18.1 MB | Offline linear algebra solver: vectors, matrices, determinants, linear systems,… |
-| 2026-10-25 00:35:26 | [qec-diverse-circuits](https://pypi.org/project/qec-diverse-circuits/) | 0.1.0 |  | 48.3 kB | A Gymnasium-compatible RL environment that generates quantum circuits diverse i… |
-| 2026-10-25 00:38:03 | [toskar](https://pypi.org/project/toskar/) | 0.1.0 |  | 215.3 kB | The official Python SDK for Toskar: local AI across your own computers. |
-| 2026-10-25 00:40:34 | [leviathan-public-content](https://pypi.org/project/leviathan-public-content/) | 1.0.1 | Leviathan Systems | 10.2 kB | Official read-only Python client for Leviathan Systems published resources |
-| 2026-10-25 00:41:00 | [langchain-fastocr](https://pypi.org/project/langchain-fastocr/) | 0.1.0 | FastOCR <support@fastocr.org> | 3.1 MB | LangChain document loader for the FastOCR Document OCR API: load scanned PDFs a… |
-| 2026-10-25 00:41:14 | [math-foundations-ai999x](https://pypi.org/project/math-foundations-ai999x/) | 1.0.0 | Ibnul Jaif Farabi | 18.2 MB | Offline, verified math foundations solver: fractions, rounding, algebraic equat… |
-| 2026-10-25 00:41:15 | [llama-index-readers-fastocr](https://pypi.org/project/llama-index-readers-fastocr/) | 0.1.0 | FastOCR <support@fastocr.org> | 3.1 MB | LlamaIndex reader for the FastOCR Document OCR API: load scanned PDFs and image… |
-| 2026-10-25 00:43:01 | [ezpkg](https://pypi.org/project/ezpkg/) | 0.0.1 | Wayne C. Gramlich | 119.2 kB | Automatic Package Fetching for One-File Programs |
-| 2026-10-25 00:45:01 | [calculus-ai999x](https://pypi.org/project/calculus-ai999x/) | 1.0.0 | Ibnul Jaif Farabi | 16.6 MB | Offline calculus solver: limits, derivatives, integrals, series, Taylor polynom… |
-| 2026-10-25 00:46:01 | [biomedparse-mlx](https://pypi.org/project/biomedparse-mlx/) | 0.1.1 | Joseph Sandoval, Alfredo Sand… | 90.9 kB | Native MLX inference for BioMedParse v2 on Apple Silicon |
-| 2026-10-25 00:47:45 | [fdg-pet-ct-mlx](https://pypi.org/project/fdg-pet-ct-mlx/) | 0.2.1 | Joseph Sandoval, Alfredo Sand… | 31.6 kB | Native MLX FDG PET image synthesis |
-| 2026-10-25 00:48:00 | [ipeddle](https://pypi.org/project/ipeddle/) | 0.1.0 | Neguiolidas | 148.1 kB | Build iOS apps (.ipa) on Linux, no Mac or Xcode required — the Gradle of iOS. |
-| 2026-10-25 00:48:59 | [discrete-math-ai999x](https://pypi.org/project/discrete-math-ai999x/) | 1.0.0 | Ibnul Jaif Farabi | 18.0 MB | Offline discrete math solver: number theory, modular arithmetic, combinatorics,… |
-| 2026-10-25 00:49:12 | [flexible-unet-mlx](https://pypi.org/project/flexible-unet-mlx/) | 0.2.1 | Joseph Sandoval, Alfredo Sand… | 55.0 kB | Native FP32 MLX FlexibleUNet released-checkpoint network |
-| 2026-10-25 00:50:39 | [dockflow-core](https://pypi.org/project/dockflow-core/) | 0.2.0 |  | 22.6 kB | Domain-independent shared primitives for Dockflow |
-| 2026-10-25 00:52:30 | [dockflow-artifacts](https://pypi.org/project/dockflow-artifacts/) | 0.2.0 | Dockflow contributors | 30.9 kB | Reusable immutable artifact publication and orchestration integration |
-| 2026-10-25 00:53:36 | [dockflow-pipelines](https://pypi.org/project/dockflow-pipelines/) | 0.2.0 |  | 335.3 kB | Durable compiled KFP pipelines through DockerRunner |
-| 2026-10-25 01:00:13 | [lib-tiny-png](https://pypi.org/project/lib-tiny-png/) | 0.1.0 |  | 12.7 kB | A lightweight, minimal PNG library. |
-| 2026-10-25 01:05:03 | [VLQcalc](https://pypi.org/project/VLQcalc/) | 0.2.0 | Orhan Cakir | 76.8 kB | Coupling constants, decay widths and MadGraph5 input cards for vector-like quar… |
-| 2026-10-25 01:11:49 | [crabcrop-url](https://pypi.org/project/crabcrop-url/) | 0.1.0 | Maxwell Dayvson Da Silva | 11.7 kB | Build and sign crabcrop image URLs |
+| 2026-10-25 01:21:55 | [hdeeg-snpm](https://pypi.org/project/hdeeg-snpm/) | 0.4.0 | Tancy Kao | 1.6 MB | Permutation statistics (TFCE and cluster correction) for high-density EEG scalp… |
+| 2026-10-25 01:24:06 | [smerisk](https://pypi.org/project/smerisk/) | 0.1.0 |  | 312.0 kB | Probabilistic and statistical calculations for managing small and medium-sized… |
+| 2026-10-25 01:29:36 | [paxmod-guard](https://pypi.org/project/paxmod-guard/) | 0.1.0 | Paxmod | 12.1 kB | Local safety classifier for AI companions, chatbots and kids' game chat: self-h… |
+| 2026-10-25 01:34:24 | [breadcrumbst](https://pypi.org/project/breadcrumbst/) | 0.4.6 |  | 1.9 MB | A terminal-first productivity timer that keeps your goals in view and helps you… |
+| 2026-10-25 01:37:42 | [lohan11-sdk](https://pypi.org/project/lohan11-sdk/) | 1.0.0 | LOHAN11 Official | 12.0 kB | LOHAN11 Official Python SDK & Aquatic Portal Tool 2026. Panduan akses link alte… |
+| 2026-10-25 01:38:51 | [zpl-core](https://pypi.org/project/zpl-core/) | 0.1.0 | Beny Shen | 29.0 MB | ZPL II engine: build, validate, render and send Zebra labels. Stdlib-only core… |
+| 2026-10-25 01:40:05 | [fixedwidthparser](https://pypi.org/project/fixedwidthparser/) | 2.0.0rc1 | Gabriel Matte | 10.7 MB | Read and write fixed-width files through the FixedWidthParser NativeAOT library |
+| 2026-10-25 01:42:49 | [authkeyline](https://pypi.org/project/authkeyline/) | 0.2.0 | Javier Lianes <javier@lianes8… | 63.6 kB | Parse, check and safely build OpenSSH authorized_keys lines the way sshd reads… |
+| 2026-10-25 01:43:02 | [humanproof-core](https://pypi.org/project/humanproof-core/) | 0.8.1 | Hummand <contato@hummand.com.… | 6.6 MB | Binding Python do humanproof-core: canonicalização, hash, assinatura e verifica… |
+| 2026-10-25 01:43:05 | [cellstr](https://pypi.org/project/cellstr/) | 0.2.1 | Javier Lianes <javier@lianes8… | 66.6 kB | Display-width aware len, slice, pad and truncate for terminal text: wide CJK, e… |
+| 2026-10-25 01:43:20 | [ellipt](https://pypi.org/project/ellipt/) | 0.2.1 | Javier Lianes <javier@lianes8… | 59.7 kB | Truncate strings with an ellipsis at the start, middle or end, by characters, g… |
+| 2026-10-25 01:43:36 | [eolnorm](https://pypi.org/project/eolnorm/) | 0.2.0 | Javier Lianes <javier@lianes8… | 43.4 kB | Detect, normalize and count line endings in text, bytes, streams and files: git… |
+| 2026-10-25 01:44:07 | [hummand](https://pypi.org/project/hummand/) | 0.4.0 | Hummand <contato@hummand.com.… | 44.2 kB | SDK Python da Hummand: mandato a agente, ato delegado, servidor MCP de mandato… |
+| 2026-10-25 01:57:02 | [bricklayer-sdk](https://pypi.org/project/bricklayer-sdk/) | 0.1.0 | BrickWright Authors | 166.8 MB | An SDK for programmatically creating and validating LEGO® builds. |
+| 2026-10-25 01:57:38 | [brickwright](https://pypi.org/project/brickwright/) | 0.1.0 | BrickWright Authors | 161.0 kB | Agentic LEGO® build generation. |
+| 2026-10-25 01:59:28 | [cesm-hawc](https://pypi.org/project/cesm-hawc/) | 0.3.0 | Victoria McDonald | 126.0 kB | Simulate HAWC ALI limb observations and retrievals from CESM2/WACCM output |
+| 2026-10-25 02:01:11 | [auditrail](https://pypi.org/project/auditrail/) | 0.3.0 | wei chan | 215.9 kB | Verifiable evidence for AI agents: signed, anchored audit trails and a lethal-t… |
+| 2026-10-25 02:08:44 | [softvoice](https://pypi.org/project/softvoice/) | 0.1.0 | SPra03 | 135.9 kB | On-device voice in and out for Claude Code and Codex: replies read aloud, push-… |
+| 2026-10-25 02:09:13 | [shade-plugins-pdf](https://pypi.org/project/shade-plugins-pdf/) | 0.1.0 | ShadeOne | 7.3 kB | Extrair texto e tabelas de PDF com texto, offline, sob o contrato de plugin do… |
+| 2026-10-25 02:17:16 | [jupyterlab-workspace-manager-extension](https://pypi.org/project/jupyterlab-workspace-manager-extension/) | 0.8.16 | Stellars Henson <konrad.jelen… | 646.8 kB | Workspace-driven Running panel: workspaces as coloured accordion sections with… |
