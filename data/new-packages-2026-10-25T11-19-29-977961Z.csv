@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T10:18:58Z,pipecat-kalpa,0.1.1,Kalpa Labs,BSD-2-Clause,34542,Kalpa text-to-speech services for Pipecat
+2026-10-25T10:21:29Z,modelbump,0.1.0,Hammad Hassan,Apache-2.0,62579,"Find the LLM model IDs in your code and config, and warn before providers retire them."
+2026-10-25T10:21:43Z,pra-effect,1.0.0,Genesis410,MIT,38729,"Zero-dependency local CLI for parsing, deduplicating, and fingerprinting Python & Node.js error stack traces."
+2026-10-25T10:22:31Z,minimindslab-key-value-parse,0.1.0,MiniMindsLab,MIT,7249,Parse simple key=value text into a deterministic mapping with configurable comment and blank-line handling.
+2026-10-25T10:24:59Z,fux-fetcher-http,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,7473,"Fux fetcher package: a plain HTTP GET, standard library only."
+2026-10-25T10:25:02Z,fux-extension-table,4.1.1,arpit arya <arpitarya.me@gmail.com>,MIT,6685,"Fux extension package: the table extension the HTML, sheet and office decoders share."
+2026-10-25T10:26:32Z,rocket-abir2228,1.0.0,Votre Nom,MIT,5933,A package modelling rockets and shuttles
+2026-10-25T10:30:19Z,spey-roofit,0.0.1,"""Jack Y. Araz"" <j.araz@ucl.ac.uk>",MIT,186138,RooFit plug-in for Spey
+2026-10-25T10:32:51Z,stkit,17.0.1,Level09 <hello@level09.com>,MIT,3137351,An async Quart framework optimized for AI-assisted development workflows
+2026-10-25T10:35:21Z,contextsmith,0.1.1,Rahul Sankhla,MIT,104835,"Give your coding agent the right code, not more code: a local context engine (code graph, hybrid search, embeddings, git history) that packs the best code for a task into a token budget, over MCP."
+2026-10-25T10:35:57Z,sqlmodel-celery-beat-pg,0.1.1,Your Name <you@example.com>,BSD-3-Clause,22580,"Celery Beat scheduler, models, CLI and admin on SQLModel + PostgreSQL."
+2026-10-25T10:38:46Z,anathema-ttyusb0-translator,0.1.3,tntdog99,,10466,a script to help decode ttyUSB0 [M.A.S.L] messages
+2026-10-25T10:38:55Z,privatus-analytics,1.0.0,Two Phase LLC <james@privatusanalytics.com>,MIT,43984,"Cookieless Privatus Analytics tracking script for Django, Flask, FastAPI and Starlette."
+2026-10-25T10:38:59Z,security-review,3.0.0,,Apache-2.0,3162864,"MCP server for security code review: prompts, checklists, quick scans and persistent security reports"
+2026-10-25T10:39:23Z,sphinx-privatus-analytics,1.0.0,Two Phase LLC <james@privatusanalytics.com>,MIT,27295,Sphinx extension that adds the cookieless Privatus Analytics tracking script to HTML builds.
+2026-10-25T10:40:41Z,mkdocs-privatus-analytics,1.0.0,Two Phase LLC <james@privatusanalytics.com>,MIT,28666,MkDocs plugin that adds the cookieless Privatus Analytics tracking script to every page.
+2026-10-25T10:41:08Z,mloda-community-german-ledger,0.11.0,Martin Kaiser,Apache-2.0,47621,"Cited, admissible totals from GDPdU dossiers and DATEV EXTF batches, for mloda"
+2026-10-25T10:44:15Z,qdocs,0.2.0,Patrick Müller <pamueller.ikp@gmail.com>,MIT,42298,The website theme and generator of qspec and qunits.
+2026-10-25T10:47:00Z,linreg-abir2228,1.0.0,Abir,MIT,4502,Un package de régression linéaire simple fait de zéro
+2026-10-25T10:47:03Z,nicegui-ai,0.2.0,Malcom Van Luther,MIT,130841,Modern AI agent UI primitives for NiceGUI (1:1 port of assistant-ui and Vercel AI SDK)
+2026-10-25T10:47:21Z,ai-memo-os,8.1.0,Mnemosyne OS contributors,MIT,1162294,"Zero-dependency, local-first AI memory engine: graph memory, multimodal ingestion, reranking, temporal reasoning, hash-chained audit ledger, capsule compression, memory formation + runtime layers."
+2026-10-25T10:49:35Z,chronos-gateway,0.1.0,,BUSL-1.1,17237,"Client for Chronos Gateway: AI agents change your Postgres only through checked, approved merges"
+2026-10-25T10:49:52Z,hos-clock,0.1.0,George Green,MIT,6508,"Remaining drive, duty-window and 70-hour time under FMCSA property-carrying hours-of-service rules."
+2026-10-25T10:52:33Z,graphsight-pro,0.1.0,Amresh Chaurasiya <amreshchaurasiya373@gmail.com>,MIT,2464085,"Interactive graph viewer for AI agent retrieval traces (LangGraph, LlamaIndex, CrewAI). One command, zero dependencies, nothing leaves your machine."
+2026-10-25T10:52:35Z,graphsight-pro-langgraph,0.1.0,Amresh Chaurasiya <amreshchaurasiya373@gmail.com>,MIT,58314,"Multi-framework agent retrieval tracing (LangGraph, LlamaIndex, CrewAI) rendered as interactive graphs with graphsight-pro."
+2026-10-25T10:53:43Z,skillos-os,0.6.0b2,SkillOS Contributors,AGPL-3.0,1393395,"SkillOS - Skill Execution Kernel with 5/25/70 Distribution (Open Source, AGPL-3.0)"
+2026-10-25T10:54:23Z,pedgrowth-data-intergrowth,1.0.0,,GPL-3.0-or-later,75454,Optional intergrowth reference tables and plans for pedgrowth
+2026-10-25T10:54:52Z,tracefox,0.1.1,Minhaz,MIT,238075,"An elegant debug assistant for Python web apps (FastAPI, Flask, Django, any ASGI/WSGI), inspired by Laravel Telescope."
+2026-10-25T10:56:33Z,pedgrowth-data-who2006,1.0.0,,GPL-3.0-only,84953,Optional who2006 reference tables and plans for pedgrowth
+2026-10-25T10:57:59Z,pedgrowth-data-who2007,1.0.0,,GPL-3.0-or-later,68320,Optional who2007 reference tables and plans for pedgrowth
+2026-10-25T10:59:25Z,pedgrowth-data-cdc,1.0.0,,MIT,57379,Optional cdc reference tables and plans for pedgrowth
+2026-10-25T10:59:46Z,codelaw-rules-css,0.2.0,,MIT,95807,"codelaw's rules for CSS, also run on HTML <style> elements and style attributes (SR-RULE-PACKS)"
+2026-10-25T10:59:47Z,codelaw-rules-data,0.2.0,,MIT,72152,"codelaw's rules for JSON, YAML, TOML and Markdown (SR-RULE-PACKS)"
+2026-10-25T11:01:04Z,codeedit,1.0.0,,MIT,12282086,"Parse code in any language, dump its syntax tree as JSON, and apply structured edits"
+2026-10-25T11:03:30Z,llm-model-security-scanner,1.0.1,Mesut Güngör,Apache-2.0,178029,Comprehensive enterprise security scanner & proof verification engine for open-source LLMs and Hugging Face repositories
+2026-10-25T11:06:08Z,abhyasa,0.0.1,Karthik <karthik.rajgopal@hotmail.com>,MIT,1880265,"A learning harness that makes you think: active recall, a learner model and a concept graph in your vault"
+2026-10-25T11:08:04Z,cppbone,0.2.3,Marco Edoardo Santimaria,MIT,30750074,Fast C++ port of NetBone: backbone extraction from simple weighted networks
+2026-10-25T11:10:27Z,fasthtml-lucide,1.61.0,SpaceShaman <spaceshaman@tuta.io>,MIT,1203228,Lucide SVG icons for FastHTML.
+2026-10-25T11:14:00Z,adk-leak-arena,0.1.0,Aalishan <60288602+aalishan001@users.noreply.github.com>,Apache-2.0,192626,Red-Team Evaluation & Live SQL/RLS Telemetry Console for Google ADK Multi-Tenant & Multi-Agent Memory
+2026-10-25T11:14:09Z,hotcodepush,0.1.0,HotCodePush <support@hotcodepush.com>,MIT,179603,The typed Python client for the HotCodePush REST API
+2026-10-25T11:14:37Z,kafkarrow,0.1.0,,Apache-2.0,6979712,"Rust based, Arrow powered, python kafka client"
+2026-10-25T11:14:46Z,fet112,0.1.0,FET112,MIT,12763,Official Python client for FET112 verifiable security intelligence
+2026-10-25T11:15:59Z,tended,0.31.2,Muhamed Isabegovic,MIT,1209571,"An LLM-maintained knowledge substrate: governed markdown wiki, queue-and-tend self-maintenance, connectors, composable SQL views, MCP serving, and a chat-first workbench."
+2026-10-25T11:18:29Z,channels4world,1.0.0,Joonkyu Jang,Apache-2.0,135537,"Navigate, select, read and prepare the Channels4World wireless channel dataset"
+2026-10-25T11:18:34Z,daphnis,0.1.0,,MIT,171241,A Python async agent library
+2026-10-25T11:18:39Z,apinator-server,1.1.0,Apinator <hello@apinator.io>,MIT,30159,Python server SDK for Apinator
