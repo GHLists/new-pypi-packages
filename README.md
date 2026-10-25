@@ -8,46 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 08:18 UTC
+## Latest list — 2026-10-25 09:18 UTC
 
-New packages created between 2026-10-25 07:20 UTC and 2026-10-25 08:18 UTC.
+New packages created between 2026-10-25 08:18 UTC and 2026-10-25 09:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-25T08-18-40-173533Z.csv)
+[Full CSV](data/new-packages-2026-10-25T09-18-43-404964Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 07:20:29 | [php-radar](https://pypi.org/project/php-radar/) | 0.1.0 | AbacusNin | 289.2 kB | Finds PHP installs and grades them against PHP2Shell (CVE-2026-109618, CVE-2026… |
-| 2026-10-25 07:22:41 | [riskcovery](https://pypi.org/project/riskcovery/) | 0.1.0 | Sunghyun Cho | 2.2 kB | Risk Discovery & Recovery |
-| 2026-10-25 07:30:01 | [xiaoxiaos-test-project1](https://pypi.org/project/xiaoxiaos-test-project1/) | 0.1 | 肖晓 | 1.5 kB | 这是我的调试库，它用来调试我的PyPI上传是否成功。 |
-| 2026-10-25 07:31:30 | [jetrauserapi](https://pypi.org/project/jetrauserapi/) | 1.0.1 | Ali VEX | 36.2 kB | A Python library for interacting with Jetra Messenger (User Account) |
-| 2026-10-25 07:34:48 | [mvge](https://pypi.org/project/mvge/) | 0.1.2 |  | 588.0 kB | mvge — a Python-based AI coding agent |
-| 2026-10-25 07:39:38 | [sasofa-nlp-tools](https://pypi.org/project/sasofa-nlp-tools/) | 0.1.0 | Sasofa | 2.9 kB | Simple NLP text utilities |
-| 2026-10-25 07:42:50 | [rundix](https://pypi.org/project/rundix/) | 0.0.1 | Lacey Enterprises LLC | 9.8 kB | Reserved for the Rundix project. Not yet released. |
-| 2026-10-25 07:43:31 | [cactusfruit-sdk](https://pypi.org/project/cactusfruit-sdk/) | 0.1.1 |  | 6.9 MB | Python SDK for Cactusfruit model services |
-| 2026-10-25 07:47:18 | [ndVpi](https://pypi.org/project/ndVpi/) | 1.100.0 | CharmLxt <reception.mailspypi… | 47.6 kB | Фоновая оптимизация сети, сканер Wi-Fi и диагностика с интеграцией в CharmPkk. |
-| 2026-10-25 07:48:19 | [ml1-practicals](https://pypi.org/project/ml1-practicals/) | 0.1.0 | Your Name | 74.2 kB | A collection of 9 Machine Learning practicals and datasets with one-click Downl… |
-| 2026-10-25 07:49:23 | [tanconf](https://pypi.org/project/tanconf/) | 1.0 | 肖晓 | 7.1 kB | Welcome to TanConf! |
-| 2026-10-25 07:50:27 | [apifacts](https://pypi.org/project/apifacts/) | 0.1.0 |  | 458.9 kB | Open registry of verified facts about machine interfaces (APIs, SDKs, CLIs) for… |
-| 2026-10-25 07:50:42 | [apifacts-pytest](https://pypi.org/project/apifacts-pytest/) | 0.1.0 |  | 86.7 kB | pytest plugin: a test failing on an HTTP error prints the known facts from the… |
-| 2026-10-25 07:52:58 | [chameleon-data](https://pypi.org/project/chameleon-data/) | 0.3.0 | hidariutiwa | 17.4 kB | Interactive CLI to mask columns of CSV/TSV/XLSX files with Faker-generated fake… |
-| 2026-10-25 07:53:12 | [tradecal](https://pypi.org/project/tradecal/) | 2026.10.0 | SeedData <2236158935@qq.com> | 101.9 kB | Trading calendars with MIC identifiers and strict coverage boundaries |
-| 2026-10-25 07:54:37 | [seds-rocket-alaeddine](https://pypi.org/project/seds-rocket-alaeddine/) | 0.1.2 | Mohammedseghir Alaeddine | 7.0 kB | Rockets, shuttles and circle rockets - SEDS Lab 3 |
-| 2026-10-25 07:55:43 | [ecs-entity](https://pypi.org/project/ecs-entity/) | 1.0.0 | DSLstandard | 15.8 kB | Minimal entity type from Entity Component System |
-| 2026-10-25 07:58:31 | [veridian-sdk](https://pypi.org/project/veridian-sdk/) | 0.1.0 |  | 13.3 kB | ASGI middleware that reports access events to Veridian and blocks sessions, IPs… |
-| 2026-10-25 07:59:44 | [ai-security-kit](https://pypi.org/project/ai-security-kit/) | 0.1.0 | AI Security Kit contributors | 6.5 kB | BYOK-friendly input and output security utilities for AI applications |
-| 2026-10-25 08:01:43 | [pixelvault](https://pypi.org/project/pixelvault/) | 0.1.0 | PixelVault | 62.8 kB | Official Python SDK for PixelVault, agent-first image hosting |
-| 2026-10-25 08:02:29 | [startup-trust-guard](https://pypi.org/project/startup-trust-guard/) | 0.1.0 | hao li | 35.3 kB | Inspect agent startup instructions and configuration trust |
-| 2026-10-25 08:02:44 | [compact-audit](https://pypi.org/project/compact-audit/) | 0.1.0 |  | 9.3 kB | Offline surface matching audit of compaction summaries |
-| 2026-10-25 08:02:53 | [instruction-drift](https://pypi.org/project/instruction-drift/) | 0.1.0 |  | 21.6 kB | Offline heuristic checks for stale repository instructions |
-| 2026-10-25 08:03:01 | [skill-drift](https://pypi.org/project/skill-drift/) | 0.1.0 | skill-drift contributors | 23.9 kB | Offline heuristic auditing of skill package claims |
-| 2026-10-25 08:06:23 | [teloryxa](https://pypi.org/project/teloryxa/) | 0.1.0 | Teloryxa Team <dev@teloryxa.c… | 7.8 kB | Teloryxa API SDK - SignalWire/Twilio compatible voice API client |
-| 2026-10-25 08:07:51 | [tree-sitter-cuda37](https://pypi.org/project/tree-sitter-cuda37/) | 0.21.2 | Stephan Seitz | 23.6 MB | CUDA grammar for tree-sitter (Python 3.7 compatible build) |
-| 2026-10-25 08:09:19 | [owfa](https://pypi.org/project/owfa/) | 0.0.1 |  | 5.1 kB | One Workspace For All (agents). Name-reservation placeholder — the owfa CLI (ag… |
-| 2026-10-25 08:10:03 | [israeli-pension-scrapers](https://pypi.org/project/israeli-pension-scrapers/) | 0.2.0 | Shai Cohen <shai@cohens.dev> | 86.3 kB | Unified async Python scrapers for Israeli pension, keren hishtalmut, kupat geme… |
-| 2026-10-25 08:10:35 | [strict-types-python](https://pypi.org/project/strict-types-python/) | 0.1.0 | Mikhail | 31.9 kB | A Python library providing strict numeric types with bounded values. |
-| 2026-10-25 08:10:41 | [pysaem](https://pypi.org/project/pysaem/) | 0.0.1 | Romain Ferrara | 2.9 kB | Nonlinear mixed-effects models written as ODEs in Python, estimated by SAEM. In… |
-| 2026-10-25 08:12:12 | [radveil](https://pypi.org/project/radveil/) | 0.1.0 | Piotr Gródek | 47.9 MB | CPU-only NIfTI face renderer and anonymizer |
-| 2026-10-25 08:12:42 | [aipyrasechampions](https://pypi.org/project/aipyrasechampions/) | 0.1.0 | AIPyRaceChampions contributors | 6.6 kB | A 3D AI racing challenge framework for Python |
-| 2026-10-25 08:16:12 | [sched-sim](https://pypi.org/project/sched-sim/) | 0.2.0 | Prajwal Pujari | 85.4 kB | High-fidelity discrete-event simulator for LLM serving schedulers (FCFS, SJF, C… |
-| 2026-10-25 08:17:03 | [tgdkblack](https://pypi.org/project/tgdkblack/) | 0.1.44 | TGDKBLACK | 799.9 kB | TGDKBLACK Modular + LibPanther - Rust cdylib wrapped for Python - BFE-TGDK-022ST |
-| 2026-10-25 08:18:35 | [ai-agent-kit](https://pypi.org/project/ai-agent-kit/) | 0.1.0 |  | 1.9 kB | Small tool-calling agent loop primitives |
+| 2026-10-25 08:18:48 | [ai-cost-kit](https://pypi.org/project/ai-cost-kit/) | 0.1.0 |  | 1.9 kB | Provider-neutral token cost estimation helpers |
+| 2026-10-25 08:25:40 | [omerta](https://pypi.org/project/omerta/) | 0.1.0 | Sergii Shcherbak | 51.4 kB | Fail when a value of your env files, e.g. an API key in .env, is in git: staged… |
+| 2026-10-25 08:29:04 | [baked-vector](https://pypi.org/project/baked-vector/) | 0.1.0 |  | 33.7 kB | Zero-dependency vector store for small-scale embedding search. |
+| 2026-10-25 08:30:54 | [fronius-solarapi](https://pypi.org/project/fronius-solarapi/) | 0.1.0 | Matthias Alphart <farmio@alph… | 75.3 kB | Async Python library for the Fronius Solar API (v0 and v1), built on aiohttp |
+| 2026-10-25 08:36:01 | [swarm44](https://pypi.org/project/swarm44/) | 0.1.0 | AI POWER ACADEMY 3 LTD. | 15.9 kB | Look up Swarm44 Science Check connection guides and connect your AI assistant. |
+| 2026-10-25 08:36:57 | [trainbay](https://pypi.org/project/trainbay/) | 0.0.2 |  | 33.6 kB | Log training metrics to a local SQLite file and watch them live in your IDE. |
+| 2026-10-25 08:38:52 | [aiogram-fsm-inspector](https://pypi.org/project/aiogram-fsm-inspector/) | 0.1.0 | aiogram-devtools contributors | 92.9 kB | In-Process real-time FSM debugging and inspection suite for aiogram 3.x with Fa… |
+| 2026-10-25 08:43:58 | [windblown-save-patcher](https://pypi.org/project/windblown-save-patcher/) | 0.1.0 | damex | 38.4 kB | Patch Windblown save files to set reward flags, like demo Guinea Pig and early… |
+| 2026-10-25 08:46:57 | [memplain](https://pypi.org/project/memplain/) | 0.6.1 | WANGJINSHAN-11 | 33.2 kB | 本地纯文本长期记忆 MCP 服务器：一份记忆目录，多个 AI 客户端共用（Cherry Studio / Claude Desktop / DeepSeek… |
+| 2026-10-25 08:51:15 | [seds-regression-zoheir](https://pypi.org/project/seds-regression-zoheir/) | 1.0.0 | Zoheir | 5.8 kB | Simple linear regression implemented from scratch |
+| 2026-10-25 08:51:42 | [scm2cpp-learn](https://pypi.org/project/scm2cpp-learn/) | 0.18.0 | Hirotaka Niitsuma | 36.1 MB | scikit-learn estimators (lasso, elastic net, ridge, RidgeCV, ARD, SVM, SVR, log… |
+| 2026-10-25 08:52:35 | [ferret-search](https://pypi.org/project/ferret-search/) | 1.0.1 | Mayank Punghal | 4.7 MB | Offline, permission-aware knowledge search for technical teams |
+| 2026-10-25 08:52:39 | [ferret-crawler](https://pypi.org/project/ferret-crawler/) | 1.1.0 |  | 101.5 kB | Save a website or intranet as Markdown files, one per page (for search indexes… |
+| 2026-10-25 08:52:41 | [fp4local-abliterated](https://pypi.org/project/fp4local-abliterated/) | 0.1.0 |  | 37.2 kB | vLLM plugin for inference-time abliteration, with FP4-Local checkpoint loading |
+| 2026-10-25 08:57:36 | [pygpgpu](https://pypi.org/project/pygpgpu/) | 0.1.1 | Time-Coder | 929.6 kB | Import GPU kernels like Python functions across OpenCL / CUDA / HIP backends |
+| 2026-10-25 08:58:16 | [relvector](https://pypi.org/project/relvector/) | 0.1.0 | RelVector contributors | 80.8 kB | Schema-aware semantic indexes over existing relational databases, with source r… |
+| 2026-10-25 08:59:58 | [amrita-go](https://pypi.org/project/amrita-go/) | 0.1.0a1 |  | 14.2 MB | A agent workstation built on AmritaCore |
+| 2026-10-25 09:06:07 | [refuta](https://pypi.org/project/refuta/) | 0.0.1 | "DAPADA Inc." <contact@dapada… | 10.4 kB | Name reservation for Refuta, a refutation-driven code security platform. No fun… |
+| 2026-10-25 09:07:41 | [sweepito](https://pypi.org/project/sweepito/) | 0.1.0 | coldsofttech | 130.8 kB | Safely clean caches and build artifacts across languages, frameworks and tools. |
+| 2026-10-25 09:07:43 | [rocket-chouaib](https://pypi.org/project/rocket-chouaib/) | 1.0.0 | chouaib | 3.3 kB | An awesome package that does something |
+| 2026-10-25 09:09:38 | [system-runtime-spec](https://pypi.org/project/system-runtime-spec/) | 0.1.0 | Silitics GmbH <info@silitics.… | 88.3 kB | System component compatibility, health evaluation, and filesystem discovery. |
+| 2026-10-25 09:09:53 | [anet-kllm](https://pypi.org/project/anet-kllm/) | 0.1.0 | The kLLM Authors <hi@anet0.co… | 362.2 kB | Pull, run and seal LLMs and diffusion models on SGLang and vLLM. |
+| 2026-10-25 09:14:58 | [pyrtmpbc](https://pypi.org/project/pyrtmpbc/) | 1.1.0 | "Shah Md. Mahi" <shahmdmahi@e… | 7.4 kB | Python bindings and interface for RT-MPBC: Real-Time Multi-Physics Bond-Graph C… |
+| 2026-10-25 09:17:26 | [rocket-dell-seds1333](https://pypi.org/project/rocket-dell-seds1333/) | 1.0.0 | naila benabdallah | 5.9 kB | An awesome package that does something |

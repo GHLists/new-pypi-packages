@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T08:18:48Z,ai-cost-kit,0.1.0,,,1863,Provider-neutral token cost estimation helpers
+2026-10-25T08:25:40Z,omerta,0.1.0,Sergii Shcherbak,MIT,51362,"Fail when a value of your env files, e.g. an API key in .env, is in git: staged, tracked, or anywhere in the history"
+2026-10-25T08:29:04Z,baked-vector,0.1.0,,MIT,33738,Zero-dependency vector store for small-scale embedding search.
+2026-10-25T08:30:54Z,fronius-solarapi,0.1.0,Matthias Alphart <farmio@alphart.net>,GPL-3.0-or-later,75276,"Async Python library for the Fronius Solar API (v0 and v1), built on aiohttp"
+2026-10-25T08:36:01Z,swarm44,0.1.0,AI POWER ACADEMY 3 LTD.,LicenseRef-Proprietary,15928,Look up Swarm44 Science Check connection guides and connect your AI assistant.
+2026-10-25T08:36:57Z,trainbay,0.0.2,,Apache-2.0,33650,Log training metrics to a local SQLite file and watch them live in your IDE.
+2026-10-25T08:38:52Z,aiogram-fsm-inspector,0.1.0,aiogram-devtools contributors,MIT,92928,In-Process real-time FSM debugging and inspection suite for aiogram 3.x with FastAPI and WebSockets.
+2026-10-25T08:43:58Z,windblown-save-patcher,0.1.0,damex,MIT,38361,"Patch Windblown save files to set reward flags, like demo Guinea Pig and early access Intern"
+2026-10-25T08:46:57Z,memplain,0.6.1,WANGJINSHAN-11,"MIT License Copyright (c) 2026 WANGJINSHAN-11 Permission is hereby granted, free of charge, to any…",33234,本地纯文本长期记忆 MCP 服务器：一份记忆目录，多个 AI 客户端共用（Cherry Studio / Claude Desktop / DeepSeek Harness）
+2026-10-25T08:51:15Z,seds-regression-zoheir,1.0.0,Zoheir,LICENSE.txt,5839,Simple linear regression implemented from scratch
+2026-10-25T08:51:42Z,scm2cpp-learn,0.18.0,Hirotaka Niitsuma,MIT,36059787,"scikit-learn estimators (lasso, elastic net, ridge, RidgeCV, ARD, SVM, SVR, logistic regression, GLMs, Huber, Theil-Sen, F-score selection, RFE, NMF, Gaussian mixture, FastICA, PCA, KernelPCA, LDA, T…"
+2026-10-25T08:52:35Z,ferret-search,1.0.1,Mayank Punghal,,4745470,"Offline, permission-aware knowledge search for technical teams"
+2026-10-25T08:52:39Z,ferret-crawler,1.1.0,,,101466,"Save a website or intranet as Markdown files, one per page (for search indexes and LLM tools)"
+2026-10-25T08:52:41Z,fp4local-abliterated,0.1.0,,Apache-2.0,37168,"vLLM plugin for inference-time abliteration, with FP4-Local checkpoint loading"
+2026-10-25T08:57:36Z,pygpgpu,0.1.1,Time-Coder,"MIT License Copyright (c) 2026 Time-Coder Permission is hereby granted, free of charge, to any pers…",929643,Import GPU kernels like Python functions across OpenCL / CUDA / HIP backends
+2026-10-25T08:58:16Z,relvector,0.1.0,RelVector contributors,Apache-2.0,80836,"Schema-aware semantic indexes over existing relational databases, with source references back to the rows."
+2026-10-25T08:59:58Z,amrita-go,0.1.0a1,,,14204955,A agent workstation built on AmritaCore
+2026-10-25T09:06:07Z,refuta,0.0.1,"""DAPADA Inc."" <contact@dapada.co.kr>",Apache-2.0,10433,"Name reservation for Refuta, a refutation-driven code security platform. No functional code yet."
+2026-10-25T09:07:41Z,sweepito,0.1.0,coldsofttech,"MIT License Copyright (c) 2026 coldsofttech Permission is hereby granted, free of charge, to any pe…",130808,"Safely clean caches and build artifacts across languages, frameworks and tools."
+2026-10-25T09:07:43Z,rocket-chouaib,1.0.0,chouaib,LICENSE.txt,3335,An awesome package that does something
+2026-10-25T09:09:38Z,system-runtime-spec,0.1.0,Silitics GmbH <info@silitics.com>,MIT OR Apache-2.0,88322,"System component compatibility, health evaluation, and filesystem discovery."
+2026-10-25T09:09:53Z,anet-kllm,0.1.0,The kLLM Authors <hi@anet0.com>,Apache-2.0,362239,"Pull, run and seal LLMs and diffusion models on SGLang and vLLM."
+2026-10-25T09:14:58Z,pyrtmpbc,1.1.0,"""Shah Md. Mahi"" <shahmdmahi@example.com>",MIT,7415,Python bindings and interface for RT-MPBC: Real-Time Multi-Physics Bond-Graph Compiler & Symplectic Solver
+2026-10-25T09:17:26Z,rocket-dell-seds1333,1.0.0,naila benabdallah,LICENSE.txt,5879,An awesome package that does something
