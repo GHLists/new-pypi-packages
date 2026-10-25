@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T17:19:33Z,FluxScript,0.1.1,Md Safarujjaman,MIT,75645,FluxScript Python-first multi-target application generator and developer CLI
+2026-10-25T17:20:14Z,hyoshigi,0.1.0,Antonio Badilla-Olivas <omamori-lab@proton.me>,MIT,296196,AI-control monitors without a framework: each action an agent proposes is rated against its trajectory before it runs.
+2026-10-25T17:20:28Z,sap-universal-mcp,0.12.1,Dylan,MIT,177060,"统一 SAP MCP 服务器:一个工具连接 R/3 (ECC)、S/4HANA、PCE (RISE 私有云) 与 S/4HANA Public Cloud,Mac / Windows / Linux 通用"
+2026-10-25T17:21:11Z,fsv,2.2.0,"""Anıl Kara (tways)"" <statways1707@gmail.com>",AGPL-3.0-only,443331,"Web security scanner + MCP server: dangling DNS, orphaned buckets, compromised script CDNs, debug mode, attack paths — with paste-ready fixes."
+2026-10-25T17:22:55Z,zagents-message-bus,99.99.100,,"MIT License Copyright (c) 2026 Authorized Security Testing Permission is hereby granted, free of ch…",6403,Benign dependency-resolution test package
+2026-10-25T17:32:04Z,mxltok,0.1.0,"Andrea Poltronieri, Matteo Spanio",MIT,645331,Tokenize MusicXML scores into LMX (Linearized MusicXML) token sequences and back.
+2026-10-25T17:32:31Z,napalm-redfish,0.6.0,,Apache-2.0,94974,NAPALM driver for server baseboard management controllers over DMTF Redfish
+2026-10-25T17:32:31Z,wiener,0.1.1,,MIT,12492,Wiener image filtering and additional Digital Image Processing methods
+2026-10-25T17:35:24Z,calisero,1.0.1,Calisero <support@calisero.ro>,MIT,157458,Official Python library for the Calisero SMS API
+2026-10-25T17:35:47Z,napalm-vmware,0.3.0,Christian Manivong <christian@manivong.de>,Apache-2.0,116104,NAPALM drivers for VMware ESXi hosts and vCenter Server (vSphere API via pyVmomi)
+2026-10-25T17:36:14Z,depdelta-cli,0.1.0,Mbuodile Obiosio,MIT,69575,DepDelta for CI: review a change's dependency updates on Gerrit or GitLab.
+2026-10-25T17:36:32Z,mq-bridge-faucet,0.1.1,,MIT OR Apache-2.0,189912235,faucet-stream connectors as an mq-bridge endpoint
+2026-10-25T17:37:22Z,validar-cif,1.0.0,APIEmpresas.es,MIT,13336,"Valida CIF, DNI y NIE españoles (formato y dígito de control). Sin dependencias."
+2026-10-25T17:40:16Z,ichnois,1.0.0,Ichnois Team and Contributors,MIT,1693126,Python client for Ichnois Observability and Error Telemetry
+2026-10-25T17:41:23Z,geofusion-earth,0.1.0,,Apache-2.0,11309772,"Desktop app: local weather, rain, air quality, warnings and live Earth data on one map"
+2026-10-25T17:43:05Z,carousel-to-video,0.1.0,techabinfo <contact@techabapps.com>,MIT,54859,Convert an Instagram carousel into a video.
+2026-10-25T17:46:21Z,befave,0.1.0,David Jackson,MIT,25223,"Keep favorites in sync across Chrome, Firefox, Safari and Opera via a deduplicated sqlite3 database"
+2026-10-25T17:46:50Z,university-core,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,331067,"University Core: the secure, modular foundation of an African campus platform built on Django REST Framework."
+2026-10-25T17:54:23Z,agentsql,0.3.0a1,,MIT,1882211,"Persistent state for AI agents: files, JSON, and tool history in SQLite"
+2026-10-25T17:55:19Z,aitp-verifier,0.1.0,AITP contributors,Apache-2.0,326736,"Independent Python implementation of the AITP verification core (second, spec-only implementation that cross-checks the reference one)"
+2026-10-25T17:55:33Z,baugraph,1.32.0,Til Schwarze <til@baugraph.com>,"Copyright (c) 2026 Til Schwarze Permission is hereby granted, free of charge, to any person obtaini…",9737,A python library for creating baugraph diagrams
+2026-10-25T17:56:50Z,plinth-cli,0.2.0,dfoshidero,MIT,68113,"Generates local, ready-to-push application and GitOps repositories from one config."
+2026-10-25T17:58:25Z,fantasticfractals,1.0.0,FantasticFractals Contributors,MIT,48485,"High-performance mathematical fractal generator, arbitrary-precision deep zoom engine, and 4K/video exporter."
+2026-10-25T17:58:57Z,napalm-fritzbox,0.3.0,Christian Manivong,Apache-2.0,29335,NAPALM driver for AVM FritzBox (TR-064 via fritzconnection).
+2026-10-25T17:59:40Z,toolbouncer,0.1.0,Naeemeh Yadollahpour,MIT,32375,"A bouncer at the door between an agent and its tools: allowlist, description fingerprints, scopes, argument rules, and Rule-of-Two egress control for MCP-style tool calls."
+2026-10-25T18:00:50Z,exacly,0.2.1,,Apache-2.0,112258,"Validate, refresh and ask Exacly models (0.1 product maps, 0.2 config and state), for people and coding agents"
+2026-10-25T18:03:03Z,cache-results,0.1.0,Lawrence McDaniel <lpm0073@gmail.com>,MIT,46148,"A Django decorator that caches a function's results by its arguments, with safe keys, async support and invalidation."
+2026-10-25T18:03:16Z,napalm-windows,0.2.0,Christian Manivong <christian@manivong.de>,Apache-2.0,38435,NAPALM driver for Windows hosts via PowerShell Remoting (WinRM)
+2026-10-25T18:04:35Z,unseenet-tui,0.1.0,,Apache-2.0,182944,"The Unseenet terminal client: groups, threads, chats, feeds and sites over Tor, in a terminal"
+2026-10-25T18:06:25Z,plainproof,0.1.1,Vishnu Vettrivel,MIT,440592,Reproduction tool for the paper 'How many follow-up questions distinguish genuine understanding from apparent mastery?'. Not a general library. Its sealed checks can stop a run on purpose.
+2026-10-25T18:06:39Z,claude-workflow-viz,1.0.0a1,Luke Wilson,Apache-2.0,2096577,"Live Mermaid flowchart of a Claude Code Workflow run, driven by hooks"
+2026-10-25T18:07:06Z,crashmetrics,0.3.0,Voonna Satish Kumar,MIT,63060,Python tools for automotive crash engineering metrics
+2026-10-25T18:10:43Z,chase-cps,0.1.0,Yifeng Xiao <yifengx@berkeley.edu>,BSD-3-Clause,52519682,CHASE: Contract-based Heterogeneous Analysis and Systems Exploration
+2026-10-25T18:11:13Z,kloudlite-sdk,0.2.0,Kloudlite,Apache-2.0,32350,Kloudlite SDK for Python
+2026-10-25T18:14:28Z,garmin-training-mcp,0.1.0,,MIT,131241,Local read-only Garmin Personal API MCP server
+2026-10-25T18:14:49Z,pybox-nlp,0.1.0,PyBox Maintainers,MIT,37677,A production-ready Python library bundling 11 standalone NLP programs with source inspection and export capabilities.
+2026-10-25T18:15:48Z,chase-mcp,0.1.0,Yifeng Xiao <yifengx@berkeley.edu>,BSD-3-Clause,25586,MCP server exposing the contract operations of CHASE as agent-callable tools
+2026-10-25T18:16:07Z,maa-capture,1.0.0,,LGPL-3.0-or-later,736221,"Cross-platform screen/window capture binding: Win32 (GDI/DXGI/FramePool/PrintWindow), Linux (PipeWire/Wlr), macOS (ScreenCaptureKit)"
+2026-10-25T18:18:56Z,repolore,1.1.0,,Apache-2.0,6329036,"Local, offline operational memory for developers and coding agents, stored as Markdown."
