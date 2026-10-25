@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T13:22:57Z,agent-framework-membase,0.1.0,Unibase,MIT,33322,Membase long-term memory for Microsoft Agent Framework (Python): a context provider with time-boxed recall and deliberate save/search/profile tools.
+2026-10-25T13:24:12Z,krnl,0.1.1,Adhavan <helloadhavan@gmaim.com>,,30963,A lightweight educational tensor and automatic differentiation library with CPU and OpenCL GPU support
+2026-10-25T13:25:23Z,froeling-lambdatronic,0.1.0,Kurt Seiler <kurt@seiler.onl>,MIT,175486,Async client for Fröling Lambdatronic 3200 boilers (Modbus TCP and Fröling Connect)
+2026-10-25T13:28:37Z,giraffe-llm,0.1.0a1,,Apache-2.0,2576733,A built-in acceptance test suite for self-hosted LLM services
+2026-10-25T13:31:01Z,membase-strands,0.1.0,Unibase,MIT,30753,Membase memory for Strands Agents: a MemoryStore with time-boxed recall and deliberate search/save/profile tools.
+2026-10-25T13:33:43Z,m3l-toolkit,2026.10.0,Yoshiaki Bando <y.bando@aist.go.jp>,MIT License Copyright (c) 2025 National Institute of Advanced Industrial Science and Technology (AI…,474013,Multimodal Machine Listening Toolkit
+2026-10-25T13:35:31Z,mcp-changeset,0.1.0,Gustav Fredrikson <gustavfredrikson@gmail.com>,MIT,93756,"Preview, apply and undo for state-changing MCP tools, with a durable SQLite ledger of single-use, expiring approvals."
+2026-10-25T13:37:48Z,rowih,1.1.0,Claude,Apache-2.0 AND CC-BY-4.0,7342031,"Rowih, a language for agents: language 1.0, its reader, checker, normaliser, generator and renderer"
+2026-10-25T13:41:38Z,mlx-one,0.1.0a1,S Susant Achary,Apache-2.0,4344935,Model-size-agnostic lifecycle tooling for MLX on Apple Silicon.
+2026-10-25T13:41:58Z,gatekeeper-asgi,0.4.0,Ángel David Echenique Villanueva <angel98dev26@gmail.com>,MIT,479001,"Middleware ASGI de seguridad para FastAPI/Starlette: rate limiting, cabeceras seguras, detección de patrones de ataque y auditoría en JSON."
+2026-10-25T13:42:32Z,pjlink-advance,0.2.0,Josue,MIT,40202,"Asyncio PJLink Class 1 and Class 2 client with search, status notifications and a projector emulator"
+2026-10-25T13:43:07Z,thermia-genesis,0.1.0,Kristof Lemmens,MIT,33238,Async Python library for Thermia heat pumps on the Genesis platform via Modbus
+2026-10-25T13:45:15Z,regression-module-mb,0.1.0,Your Name,MIT,5728,Simple linear regression implemented from scratch
+2026-10-25T13:47:28Z,sdc-mapper,4.1.1,"Axius SDC, Inc.",Apache-2.0,125127,"The shared core of the Semantic Data Charter's Governed Data Record mappers: validate, resolve, map, and report every value; MCP server included."
+2026-10-25T13:48:37Z,langchain-membase,0.1.0,Unibase,MIT,41708,"Membase long-term memory for LangChain and LangGraph: a retriever, agent tools and a recall middleware."
+2026-10-25T13:51:18Z,penpot-agent,0.1.0,Deepak,GPL-3.0-or-later,856167,"Convert any website into an editable, pixel-accurate Penpot design (HTML to Penpot) via the Penpot MCP server - CLI and Claude Code plugin with visual QA."
+2026-10-25T13:53:08Z,pmm-mcp,0.3.2,Burak Alkis,MIT,38183,MCP server (read-only by default) for Percona Monitoring and Management (PMM) 2.x and 3.x: PromQL metrics and Query Analytics
+2026-10-25T13:59:09Z,tempmail3,0.1.0,etrnzk,MIT,20782,Unofficial Temp-Mail Python Client & Interactive Terminal UI (Reverse-Engineered)
+2026-10-25T13:59:22Z,nexura-agents,0.4.0,Liceron <info@liceron.in>,MIT,1067351,"Build AI agents with estimated-cost admission control, action approvals, and resumable runs."
+2026-10-25T13:59:27Z,nexura-vertex,0.4.0,Liceron <info@liceron.in>,MIT,14562,"Google Vertex AI (Gemini) provider for Nexura agents, using your Google Cloud login."
+2026-10-25T13:59:31Z,nexura-guardrails,0.4.0,Liceron <info@liceron.in>,MIT,221777,"Guardrails for Nexura agents: verdicts, a category taxonomy, fast pre-filters, an LLM judge, local safety models, presets and tiered composition."
+2026-10-25T13:59:37Z,nexura-runtime,0.4.0,Liceron <info@liceron.in>,MIT,1668885,"Nexura platform: durable agent workflows with exact-action approvals, guardrail policy, RAG, evaluations and a local REST service."
+2026-10-25T13:59:42Z,copyofa,0.1.0,Jean-Marc Fontaine,Apache-2.0,40280,Preservation and forensic toolkit for music collectors
+2026-10-25T13:59:57Z,aiohh,1.0.1,Danila Novichikhin,MIT,132007,Asynchronous API wrapper for hh.ru
+2026-10-25T14:03:27Z,darkfly-tool-modern,5.1.0,DarkFly-Tool maintainers,GPL-3.0-or-later,106040,Modern Python 3 CLI for DarkFly-Tool (wrapper/launcher for security tools)
+2026-10-25T14:04:01Z,gisoo,0.1.1,Gisoo <info@gisoo.pro>,MIT,8473,"Tiny helper that points the official OpenAI Python client at Gisoo (gisoo.pro), an OpenAI-compatible AI API."
+2026-10-25T14:07:46Z,agent-harmony,0.0.0,"Michal Szczygiel, Antoni Zieciak",Apache-2.0 AND MIT AND BSD-3-Clause,2577811,Python bindings for the Agent-Harmony C++20 agent-based modeling library.
+2026-10-25T14:09:30Z,zimantic,0.1.5,,,449431,Offline semantic search for Kiwix ZIM files
+2026-10-25T14:09:31Z,kaldrix-sdk,0.1.0,Oguh Chidiebube Kenneth,# Notice Copyright (c) 2026 Kaldrix. **All rights reserved.** This package is a small client for th…,19632,"A small Python client for the Kaldrix and Zentrix HTTP API, with helpers for an AI agent to read a database through a signed, purpose bound, time bound permission. Zentrix is sandbox only: no real mo…"
+2026-10-25T14:09:52Z,dazzle-git-repokit,0.9.11,Dustin Darcy,MIT,4238,Alias for git-repokit -- create standardized Git repositories
+2026-10-25T14:11:02Z,exoma,0.1.0,,Apache-2.0,1389526,"Evidence-driven problem solving for AI agents: context management, delegated exploration, and evidence gathering around the agent that reasons and decides."
+2026-10-25T14:13:46Z,hunspell-sv,2026.10.25,Daniel Nylander <daniel@danielnylander.se>,LGPL-3.0-only,4070808,Modern Swedish Hunspell dictionary
+2026-10-25T14:14:47Z,patera-joltui,0.2.0,,MIT,17068,JolUI server component integration for Patera
+2026-10-25T14:17:44Z,relaykit-tools,0.1.0,,MIT,8343,"A tiny, dependency-free event bus for Python applications."
+2026-10-25T14:18:07Z,quantilemix,0.1.1,Nilson Chapagain <nchapagain@tamu.edu>,GPL-2.0-or-later,2210464,Quantile g-computation transforms exposures into ordinal quantile scores and estimates the joint effect of increasing all exposures simultaneously by one quantile.
