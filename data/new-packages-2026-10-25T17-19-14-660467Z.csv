@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T16:20:25Z,lnfnt-a2a,0.1.1,lnfnt <lnfnt@proton.me>,Apache-2.0,730476,"Agent-to-agent file-bus CLI for AI agent teams: mail, journal, tasks, locks, alerts, RPC over shared storage"
+2026-10-25T16:20:35Z,dkais,0.1.0,Andrew Ridyard <andyrids.culprit320@passmail.com>,Apache-2.0,62620,CLI for accessing historical AIS data maintained by the Danish Maritime Authority.
+2026-10-25T16:21:14Z,phonedex-cli,0.1.0,Austin Harvey,MIT,35629,An optional animated terminal cockpit and setup companion for PhoneDex
+2026-10-25T16:21:50Z,django-telegram-bot-api,0.1.0,reza,,97627,A typed Telegram Bot API client for Django
+2026-10-25T16:23:03Z,linc-spectra,0.1.0,LINC Innovations,Apache-2.0,250807,AI-driven mobile debugging — spectral analysis of running apps
+2026-10-25T16:23:05Z,xdive,1.5.0,XDive,MIT,32011,"Python SDK for XDive: scrape, crawl, map, search and research the web with citations, for AI agents."
+2026-10-25T16:24:23Z,mintlify-convert,2.0.0,olamide_codex <oluwamusiwaolamide@gmail.com>,MIT,74590,Convert MDX documentation to Mintlify format
+2026-10-25T16:24:55Z,npsai,1.1.3,,,53957,Question and full-code reference for AI assignments 2 3 4 6 8 9
+2026-10-25T16:26:14Z,linc-crucible,0.2.0,LINC Innovations,Apache-2.0,640180,"Quality gates for mobile apps: build, deploy, score and ship-check through linc-nerve"
+2026-10-25T16:26:19Z,dualtrust,0.3.1,Khairan Noor <khairking6@gmail.com>,MIT,150446,Dual-Trust Matrix: Human Social Credit and Autonomous AI Agent Reputation Engine with Rogue Quarantine.
+2026-10-25T16:28:15Z,sdc-gdr2omop,4.0.0,"Axius SDC, Inc.",Apache-2.0,55762,"Governed Data Records as OMOP CDM 5.4 rows, through sdc-mapper: concepts from the model, every value reported, rows checked against the OHDSI DDL."
+2026-10-25T16:28:25Z,scaffy-core,0.0.1,Guilherme Zonatto,Apache-2.0,11253,Name reservation for Scaffy's deterministic core and local CLI. The real release is 0.2.0.
+2026-10-25T16:30:05Z,pydantic-ai-durable,0.1.0,,,382957,"Crash-resilient, durable agent harness for PydanticAI"
+2026-10-25T16:32:00Z,cargai,0.1.1,Lionel Harry,MIT,16550,"Toolkit CLI pour installer et gérer des outils tiers liés à l'IA (headroom-ai, ...)"
+2026-10-25T16:33:30Z,sky-lite-desktop,1.0.1,sky-lite,MIT,92950,Windows desktop GUI automation exposed as an MCP stdio server (UI Automation + SendInput + PrintWindow/WGC).
+2026-10-25T16:34:18Z,galup,2026.10.25,"Bibliotheca Anonoma, galup contributors",GPL-3.0-or-later,63486,gallery-dl to Archive.org uploader (a fork of TubeUp)
+2026-10-25T16:36:02Z,omnihub,0.1.0,omnihub contributors,MIT,427449,"Config-driven, platform-centric internet access for AI agents"
+2026-10-25T16:37:28Z,agsb3d,0.1.0a1,Safer Bayram,Apache-2.0 AND GPL-3.0-or-later,1268433,"Local-first MCP platform that turns AI briefs into validated, editable 3D assets through tested Blender workflows."
+2026-10-25T16:38:55Z,chalkcast,0.1.0,Frederic Michel,MIT,1789894,"Describe a concept. Get a verified animated explainer. An MCP server that authors, renders, and visually verifies Manim animations."
+2026-10-25T16:38:56Z,sdc-gdr2hl7v2,4.0.0,"Axius SDC, Inc.",Apache-2.0,48554,"Governed Data Records as HL7 v2.5.1 messages (ER7), through sdc-mapper: one site profile per model, every value reported."
+2026-10-25T16:43:02Z,macp-mcp,0.1.0,Multi-Agent Coordination Protocol <macp@multiagentcoordinationprotocol.org>,Apache-2.0,47195,MCP server that lets any MCP client run or join a MACP Decision session
+2026-10-25T16:45:19Z,rulestamp-getraenke-beleg-lint-de,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34647,"Prüft Rechnungs- und Lieferschein-Vorlagen im Repository auf die Nachweisfelder der deutschen Alkoholsteuer: ARC, Verbrauchsteuernummer, hl rA, % vol, Steuersatz. (bundled Node.js runtime)"
+2026-10-25T16:45:27Z,rulestamp-personal-data-map-dsar-audit,0.1.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36434,"Reads a migration, Prisma schema, Django model or TypeORM entity and marks every column a subject access request has to reach - with the GDPR article each finding hangs on. 13 rules, line numbers, no…"
+2026-10-25T16:45:35Z,pigeonholes,0.1.0,alpine,MIT,30427,Message consumer framework
+2026-10-25T16:45:44Z,rulestamp-pqc-deprecation-lint,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38220,"Dates every quantum-vulnerable algorithm in your code against the NIST IR 8547 clock: deprecated after 2030-12-31, disallowed after 2035-12-31. (bundled Node.js runtime)"
+2026-10-25T16:46:00Z,rulestamp-rds-extended-support-cost-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35031,Prices the AWS Extended Support surcharge on every RDS and Aurora database in your .tf files (bundled Node.js runtime)
+2026-10-25T16:47:21Z,doctracker,0.1.0,Carlos Filipe de Castro Lemos,MIT,105284,MCP server that centralizes the documentation of Python projects developed with LLM agents.
+2026-10-25T16:47:39Z,rosa-llm,0.2.0,levii831,Apache-2.0,90768,Standalone Ollama and ChatGPT OAuth clients with a shared Python API and CLI
+2026-10-25T16:47:44Z,kdeek-mini-lang,0.1.0,Your Name <you@example.com>,MIT,67374,"A small, dynamically-typed, imperative programming language implemented in pure Python."
+2026-10-25T16:48:47Z,gpg-mcp,0.1.0,Emiliano G.O.,MIT,134857,A security-focused Model Context Protocol server for GnuPG
+2026-10-25T16:50:29Z,httpmogger,0.1.0,Rizo,MIT,44255,"Файлы демо-проекта: Flask API заметок, SQLite база, Postman-коллекция"
+2026-10-25T16:50:35Z,saar-sdk,1.3.0,HEOSSI (Pte.) Ltd.,Apache-2.0,20101,Thin Python client over the Saar command-line interface
+2026-10-25T16:50:38Z,fitchtree,0.1.0,Bio=Rad,MIT,12693,Fitch-Margoliash distance trees for Biopython
+2026-10-25T16:50:53Z,headgate,0.2.0,Khaled Elsayed <4119211+kelsayed17@users.noreply.github.com>,MIT,647267,"The async API-client base on httpx2: safe retries, rate budgets, per-origin breakers, credential-safe caching, typed events and declared responses."
+2026-10-25T16:51:40Z,pluto-siege,2.0.1,SketchTurnerDev,GPL-3.0-or-later,134764,"PlutoSDR ISM-band RF capture and replay tool (433 MHz, 868 MHz, etc.)."
+2026-10-25T16:52:03Z,aaias-library,0.1.0,,MIT,12823,A personal collection of AI algorithm code templates
+2026-10-25T16:58:54Z,sdc-gdr2fhir,4.0.0,"Axius SDC, Inc.",Apache-2.0,641215,"Governed Data Records as HL7 FHIR R4 Bundles, through sdc-mapper: one mapping file per model, every value reported, Exceptional Values preserved."
+2026-10-25T17:00:34Z,zettcode-monitor,0.1.0,Chang-LeHung,MIT,46523,A ZettCode plugin: /monitor on|off|export records every model call and exports it as an HTML report
+2026-10-25T17:00:44Z,autodebug,0.5.1,,MIT,124655,"Let an AI agent debug your program with the debugger of VS Code, Cursor or Visual Studio"
+2026-10-25T17:03:51Z,cellpy-figure,0.1.0,jepegit <jepe@ife.no>,MIT,201035,"A portable figure bundle: the plotted table plus its encodings, drawn with matplotlib or Plotly."
+2026-10-25T17:05:02Z,rgscore,0.14.2,,,29914,Python API for describing and accessing hardware registers
+2026-10-25T17:06:13Z,rangers,0.6.1,AlexKay28,MIT,284833,Agent-as-a-library: drive headless coding-agent harnesses from Python
+2026-10-25T17:06:25Z,context-forge-local,1.0.0,,MIT,370387,"Deterministic, local-first repository intelligence and memory vault for Python projects."
+2026-10-25T17:08:25Z,lombokvector,0.1.0,codinglombok,Apache-2.0,16085,"Vector math with bit-identical results across Python, Rust, TypeScript, Go and PHP: dot product, cosine similarity, L2 distance, normalization, batch ranking. Pure Python, zero dependencies."
+2026-10-25T17:08:39Z,payload-heal,0.1.0,Payload Heal Contributors,MIT,64163,Production-ready self-healing Pydantic models for resilient JSON and GraphQL ingestion
+2026-10-25T17:12:55Z,sdc-gdr2edifact,4.0.0,"Axius SDC, Inc.",Apache-2.0,191416,"Governed Data Records as conformant UN/EDIFACT D.24A interchanges, through sdc-mapper: one mapping file per model, every value reported."
+2026-10-25T17:13:39Z,roomcast-mcp,0.1.0,Samo Turk,MIT,214939,"MCP server that plays audio URLs and playlists on Sonos, Google Cast and DLNA speakers"
+2026-10-25T17:14:29Z,graphmail,1.0.0,graphmail contributors,MIT,121013,"Extract emails from Microsoft Graph and local .eml files into a local archive, with an Excel index."
+2026-10-25T17:16:30Z,mcruft,0.1.1,,Apache-2.0,22994,Unified document API for paged media
+2026-10-25T17:16:31Z,mcruft-deckcraft,0.1.1,,Apache-2.0,3136,DeckCraft engine for mcruft
+2026-10-25T17:16:33Z,mcruft-designcraft,0.1.1,,Apache-2.0,3028,DesignCraft engine for mcruft
+2026-10-25T17:16:34Z,mcruft-pdfcraft,0.1.1,,Apache-2.0,3503,PdfCraft engine for mcruft
+2026-10-25T17:17:40Z,holarch-cli,0.0.1,"""Angry Pixie Electronics LLC, d/b/a Holarch"" <support@holarch.app>",Proprietary,3009,The Holarch command-line tool from Holarch. Coming soon; see https://holarch.app
+2026-10-25T17:17:41Z,holarch-api,0.0.1,"""Angry Pixie Electronics LLC, d/b/a Holarch"" <support@holarch.app>",Proprietary,3006,The Python client for the Holarch API from Holarch. Coming soon; see https://holarch.app

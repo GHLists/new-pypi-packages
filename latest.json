@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 55,
-    "from": "2026-10-25T15:18:38.617575Z",
-    "path": "data/new-packages-2026-10-25T16-20-21-013443Z.csv",
-    "to": "2026-10-25T16:20:21.013443Z"
+    "count": 54,
+    "from": "2026-10-25T16:20:21.013443Z",
+    "path": "data/new-packages-2026-10-25T17-19-14-660467Z.csv",
+    "to": "2026-10-25T17:19:14.660467Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-25T12:56:31Z",
-      "package": "secreview",
-      "since": "2026-10-25T12:18:47.16936Z",
-      "version": null
+      "attempts": 1,
+      "created_at": "2026-10-25T17:08:47Z",
+      "package": "fluxscript-universal",
+      "since": "2026-10-25T16:20:21.013443Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-25T16:29:19Z",
+      "package": "maa-screencap",
+      "since": "2026-10-25T16:20:21.013443Z",
+      "version": "1.0.0"
     }
   ],
-  "serial": 42726813,
+  "serial": 42728479,
   "source_truncated": false,
-  "window": "2026-10-25T16:20:21.013443Z"
+  "window": "2026-10-25T17:19:14.660467Z"
 }
