@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T21:21:04Z,pypi-api-drift,1.3.2,Pushkar Devanahalli Gopalakrishna,Apache-2.0,116398,Check Python code against the real public API of pinned library versions (PyPI API Drift dataset)
+2026-10-25T21:21:55Z,claude-nim-proxy,0.1.1,xiao <xiao.li.econ@gmail.com>,MIT,250153,Thin Claude Code to NVIDIA NIM translator
+2026-10-25T21:22:09Z,sage-run,1.0.0,,Apache-2.0,1138919,SAGE Run — workflow-oriented Claude Code runtime
+2026-10-25T21:23:49Z,evp,0.0.1,Josh Karpel <josh.karpel@gmail.com>,MIT,4585158,"A Python binding to libghostty-vt, Ghostty's terminal emulator library"
+2026-10-25T21:24:36Z,linear-regression-felfoul,1.0.0,Felfoul <felfoul@esi-sba.dz>,MIT,5540,A professional simple linear regression package from scratch
+2026-10-25T21:24:58Z,avevalls-pybrowser,4.7.1,avevall,,134805,Native macOS Chromium/Material 3 Web Browser in PyObjC & WebKit
+2026-10-25T21:28:12Z,nlpr,0.1.0,Package Author,MIT,26135,Beginner-friendly NLP utilities inspired by practical NLP examples
+2026-10-25T21:31:00Z,claude-rc-revive,0.1.0,Csaba Kiraly,MIT,49703,Turn Claude Code's Remote Control back on in tmux sessions after the claude.ai account changes
+2026-10-25T21:31:14Z,claude-artifact-owner,0.1.0,Csaba Kiraly,MIT,51677,Keep Claude Code sessions working on their artifacts after cswap switches claude.ai accounts
+2026-10-25T21:34:36Z,signers,0.1.0,,MIT OR Apache-2.0,2106346,"Typed Python API over code signing tools, starting with macOS codesign"
+2026-10-25T21:39:08Z,neutt,0.1.0,"Evan Grohs, George Fuller, Shasha Arani",MIT,232468,Differentiable JAX port of BURST's neutrino transport: N_eff and the neutrino spectra through weak decoupling
+2026-10-25T21:39:42Z,ag-guardrail,0.5.1,Adnan Ghribi,MIT,24204,Runtime safety proxy for LLM applications
+2026-10-25T21:41:22Z,throughline-history,0.1.0,Henry J Grech-Cini <henry.grechcini@gmail.com>,Apache-2.0,43320,"How a throughline graph came to be, read from git: who created each item, who signed it and when, how it changed. Also compares independent signings of the same items against what was finally kept. P…"
+2026-10-25T21:41:26Z,hklforge,0.0.1,Henrik Lemke,BSD-3-Clause,60821,Diffractometer angle solvers generated exactly from a declared geometry
+2026-10-25T21:42:46Z,ag-evalforge,0.5.1,Adnan Ghribi,MIT,21794,Eval runner for LLM applications
+2026-10-25T21:47:21Z,ag-pii-vault,0.5.0,Adnan Ghribi,MIT,22278,PII tokenization SDK and proxy for AI pipelines
+2026-10-25T21:47:31Z,fingerprint-recognition,2.1.0,Kristijan Jankoski,MIT AND BSD-2-Clause,409442,Minutiae-based fingerprint recognition with Gabor enhancement and ORB alignment
+2026-10-25T21:48:47Z,spark-rust-runtime-spark-decommission,0.42.1a3,,Apache-2.0,1765654,Spark Rust multi-environment alpha distribution
+2026-10-25T21:48:59Z,tem1-bo,0.1.1,Jan Albrecht,MIT,12495403,Derivative-free optimizers on the TEM-1 beta-lactamase fitness landscape (ESM2 embedding space)
+2026-10-25T21:49:19Z,agentsec-agentdrill,0.1.0,deghosal-2026,Apache-2.0,1960121,"Continuous adversarial-testing (proof) engine for AI-agent defenses — run curated attack packs against the deployed stack, verify enforcement with the kill-chain, and publish an honest, reproducible…"
+2026-10-25T21:49:46Z,ckdoffline,0.1.0,Henri / Mainframe Society,MIT,252132,"Offline ISPF-style editor for datasets on 3390 volume images: z/OS for ZD&T, MVS 3.8j on Hercules"
+2026-10-25T21:50:31Z,agent-controls,0.1.0,fleskovar,MIT,186861,"Python SDK and CLI for agent lifecycle hooks, with tracked session state."
+2026-10-25T21:51:07Z,aronis-automation,0.0.0,,,2439,Name reserved by aronis GmbH - not a real package.
+2026-10-25T21:52:01Z,dgg-vibes,0.0.1,"Jérôme Jacovella-St-Louis, Ecere Corporation",BSD-3-Clause,235288,DGGAL High Vibes (vibe-coded high level DGGS tools using DGGAL)
+2026-10-25T21:52:54Z,asera-core,0.2.0,Black-fox17 <ayeleru1234@gmail.com>,MIT,51040,"A modular, high-performance multi-agent orchestration framework with Gemini 2.0 integration and recursive context management (RLM)."
+2026-10-25T21:53:43Z,univrs,0.0.1,,Apache-2.0,553967,Python bindings to the Rust UniVRS models. Prototype.
+2026-10-25T21:54:11Z,saral,0.1.1,Harishwar Reddy Korpol,Apache-2.0,215993,"Saral: a private, voice-first AI helper that runs at home. Explains papers, checks for scams, in your own language."
+2026-10-25T21:55:27Z,babelsh,0.1.0a1,neodaiki,MIT,114427,"The Babel fish for your shell: type apt, dnf, brew, systemctl or sed -i on Debian, Fedora or macOS and run the host's native equivalent. Rule-based (no LLM), signed rule updates."
+2026-10-25T21:56:22Z,university-moderation,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,57888,"University Moderation: reports, cases, actions, appeals and explainable automated rules for any University content type."
+2026-10-25T21:56:45Z,geomosaic,0.1.0,GRANDJEAN Mathieu <mathieu.grandjean@etu.imt-nord-europe.fr>,MIT,177864,A Python CLI tool to convert images into hexagonal SVG mosaics
+2026-10-25T21:58:02Z,univar,0.0.1,,Apache-2.0,2914,Mock client of the univrs models: hello-world serialization. Prototype.
+2026-10-25T21:59:58Z,cweb-forge,0.1.0,PyStrap,MIT,16306,"Python SDK for cWeb Forge serverless data, for applications and notebooks"
+2026-10-25T22:02:18Z,grizzly-sms-client,0.1.1,,ISC,92756,Python client for the Grizzly SMS activation and partner push API
+2026-10-25T22:02:21Z,rocket-esi-chahd,1.0.0,Chahd,MIT,5850,A small library to simulate rockets and shuttles
+2026-10-25T22:06:48Z,bantamtrain,0.1.0,Nathan,MIT,70710,"Bantam: train small language models and weather models faster and cheaper on limited compute - Zoom Training, Muon, 8-bit/bf16 low-memory training, int8/int4 weights, compressed token and weather-gri…"
+2026-10-25T22:09:27Z,langgraph-macp,0.1.0,Multi-Agent Coordination Protocol <macp@multiagentcoordinationprotocol.org>,Apache-2.0,36763,LangGraph node that settles a binding MACP Decision or Quorum session
+2026-10-25T22:12:17Z,simple-linreg-esi-chahd,0.1.0,Chahd,MIT,8439,Simple Linear Regression model implemented from scratch
+2026-10-25T22:12:23Z,scrollgauge,0.1.1,Viken,MIT,26489,Set global and per-app touchpad scroll speed on GNOME Wayland
+2026-10-25T22:12:53Z,metamarl,0.1.0,"Nadine Abdelghani <nadine.mohamed@umontreal.ca>, Guillaume Dumas <guillaume.dumas@umontreal.ca>",Apache-2.0,499075,"A modular framework for mechanism design and multi-agent reinforcement learning, supporting composable mechanisms, realistic benchmarks, and bilevel optimization."
+2026-10-25T22:14:24Z,skynet-countdown-scoring-methodology,1.0,,MIT,92104,Reproduce the Skynet Countdown evaluation methodology on supplied AI news stories
+2026-10-25T22:15:57Z,holographic-memory-mcp,0.1.0,"""WritersLogic, Inc."" <david@writerslogic.com>",Apache-2.0,17057,"Launcher for the Holographic Memory MCP server (hms-mcp): private, on-device persistent memory for AI agents."
+2026-10-25T22:16:52Z,gglang,0.2.0,,MIT,11392,"줴줴이랭: ""줴줴이야~"" 밈으로 만든 난해한 프로그래밍 언어 (엄랭 오마주)"
+2026-10-25T22:18:17Z,invariant-workspace,0.3.1,,Apache-2.0,629311,Local parallel coding-agent experiments with isolated workspaces and reviewed changes
+2026-10-25T22:18:38Z,fingerprintchecker,0.1.0,,Apache-2.0,31408,Server SDK for FingerPrintChecker (fpchecker.com)
