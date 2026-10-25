@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T04:20:36Z,cffdrs-fire,0.2.0,Gregory A. Greene,,2717171,Canadian Forest Fire Danger Rating System (CFFDRS) tools: Fire Behaviour Prediction (FBP) and Fire Weather Index (FWI) systems.
+2026-10-25T04:22:38Z,rerankgate,0.2.0,Calas Automations Inc.,MIT,55316,"Agentic RAG quality gate: hybrid retrieval with a sufficiency gate, query-rewrite retries, and per-stage metrics. Local-first."
+2026-10-25T04:22:47Z,safeeasyapi,0.4.1,,MIT,295904,"The safe tunnel for API keys: guided setup, validation, and .env storage."
+2026-10-25T04:22:57Z,sessionsteward,0.1.0,Calas Automations Inc.,MIT,31292,Versioned snapshots for agent working state: instant undo for CLAUDE.md and friends.
+2026-10-25T04:23:07Z,statebus,0.1.1,Calas Automations Inc.,MIT,66759,"Typed, versioned state for multi-agent workflows: schema-validated slots, handoff tracing, replay."
+2026-10-25T04:26:22Z,pylocalvqe,0.4.0,minamik <minamikik@users.noreply.github.com>,MIT AND Apache-2.0 AND BSD-3-Clause,40772326,C++ and Python interfaces for LocalVQE voice quality enhancement (AEC/NS/dereverb)
+2026-10-25T04:26:34Z,bbsforger,0.1.0,,,3917,Python module for building a BBS (Bulletin Board System). Checkout the github (https://github.com/gratonic/bbsforger) for usage information.
+2026-10-25T04:26:55Z,gridshedwatch,1.1.2,Sam Heiserman,MIT,11679855,"A benchmark for early warning of grid load sheds, scored the way forecasters score weather warnings"
+2026-10-25T04:30:24Z,aso-security,0.1.0,ASO Contributors,Apache-2.0,147455,"Security orchestration library for AI agents, memory, tools, and secrets"
+2026-10-25T04:30:35Z,glass-ui,0.1.0,jiyihao,MIT,1019920,"Liquid-glass UI layer for tkinter on Windows: real desktop blur behind your window, plus fully self-drawn widgets."
+2026-10-25T04:32:55Z,contexthop,0.1.0,Aryan Kumar Shah,MIT,10539,"Carry an AI chat to any other model without starting over — portable HANDOFF.md generator for ChatGPT, Claude & Gemini. No API key, no server."
+2026-10-25T04:33:25Z,bestie-yap,0.1.1,,,31688,"Yap at a Discord channel from any script, cron job or agent: error alerts and a daily digest, through plain webhooks"
+2026-10-25T04:33:40Z,seatschart,0.1.1,SeatsChart <seatschart@gmail.com>,MIT,700177,"Official SeatsChart Python SDK for the SeatsChart seating API: seat maps, holds, reservations and ticketing inventory, with automatic retries and idempotency keys."
+2026-10-25T04:41:44Z,dathren,0.1.1,,MIT,9869108,"Public health data, cleaned up and documented."
+2026-10-25T04:50:09Z,macpulse,0.1.1,Anirudh Jayaraman,MIT,75421,"Lightweight performance diagnostics and history for your Mac: CPU, memory pressure, swap, disk, battery health and thermals, with a health score, HTML reports and launchd scheduling."
+2026-10-25T04:53:02Z,asterocr,1.0.1,asterxlabs <contact@asterxlabs.com>,MIT,257041,AsterOCR: High-Performance Non-Autoregressive Vietnamese Optical Character Recognition Engine
+2026-10-25T04:53:57Z,pydantic-ai-flashdata,0.1.0,FlashData,MIT,111948,Google and YouTube research capability for Pydantic AI using FlashData MCP
+2026-10-25T04:56:07Z,rusto,0.3.2,RustO Contributors <contact@rusto.dev>,MIT,4549988,Pure Rust OCR library for Python based on RapidOCR and PaddleOCR
+2026-10-25T04:56:10Z,s1ops,0.0.1,"""DAPADA Inc. and s1ops contributors"" <contact@dapada.co.kr>",Apache-2.0,10414,"Name reservation for s1ops, an LLMOps SDK for System 1 decision models. Not functional yet; the first real release will be 0.2.0."
+2026-10-25T04:56:59Z,lumis-mcp,1.0.1,Lumis AI <hello@lumis-lifesciences.com>,LicenseRef-Proprietary,1514124,"Life sciences CRM migration intelligence — an MCP server with 950+ curated knowledge entries for module mapping, regulatory compliance, validation, and go-live readiness."
+2026-10-25T04:58:09Z,tvlogo.monster,0.0.1,,MIT,2163,"Python client for the tvlogo.monster TV channel logo API (placeholder, coming soon)."
+2026-10-25T05:00:25Z,tilefoundry-apple,0.0.4rc1,,MIT,36582,Apple targets for TileFoundry.
+2026-10-25T05:00:28Z,tilefoundry-nvidia,0.0.4rc1,,MIT,427028,NVIDIA targets for TileFoundry.
+2026-10-25T05:01:10Z,gpgfs,0.1.0,doitian <35768+doitian@users.noreply.github.com>,MIT,91180,Mount a gpg-encrypted directory as a transparently readable and writable virtual drive
+2026-10-25T05:03:02Z,boundml-rs,0.1.0,,MIT OR Apache-2.0,2840294,"Train and run small numeric models with their schema, preprocessing and memory plan packaged together (native Rust core)."
+2026-10-25T05:05:30Z,cosmiq,0.0.0,Identity Operator,Apache-2.0,11593,"Hybrid quantum-classical algorithms on neutral atoms, CPUs and GPUs. In development; this release reserves the name."
+2026-10-25T05:05:31Z,cosmiq-sdk,0.0.0,Identity Operator,Apache-2.0,10783,Alias for cosmiq. Install `cosmiq` instead.
+2026-10-25T05:12:27Z,agent-player,1.0.0,White Sands Interactive,"MIT License Copyright (c) 2026 White Sands Interactive Permission is hereby granted, free of charge…",64301,Start a remote game agent from a player class. The SDK owns the MCP server; the model stays on the platform.
+2026-10-25T05:17:10Z,ghd,0.0.0,Zachary Vorhies,MIT,1747,"Name reservation for ghd: a cached, batched, budget-aware GitHub (gh) gateway daemon. Real releases start at 0.1.0."
