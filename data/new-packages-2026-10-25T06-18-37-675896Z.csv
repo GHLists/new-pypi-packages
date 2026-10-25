@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T05:19:18Z,aquarela,0.0.2,Percy Cubas,MIT,3517,"Open source data labeling tool. Paint, draw and label freely."
+2026-10-25T05:20:00Z,flink-mcp-server,0.2.0,hakkiburakalks,Apache-2.0,150422,"Platform-independent, read-only MCP server for monitoring Apache Flink clusters via the REST API"
+2026-10-25T05:22:50Z,severian,0.3.13,Sahil-SS9,MIT,914166,"Local-first long-term memory for AI agents: scoped, cited, correctable, with hybrid recall"
+2026-10-25T05:25:53Z,macverdict,0.2.0,Anirudh Jayaraman,MIT,77370,"Stop watching graphs: macverdict tells you why your Mac was slow this week and what to do about it. Slowdown blame, RAM verdict, battery forecast and MacBook Air throttling, from quiet background sam…"
+2026-10-25T05:28:29Z,connectset,0.0.1,ardaharp,MIT,1790,ConnectSet (formerly Mesh): self-improving multi-agent AI network. Coming soon.
+2026-10-25T05:28:32Z,cnset,0.0.1,ardaharp,MIT,1737,ConnectSet (formerly Mesh): self-improving multi-agent AI network. Coming soon.
+2026-10-25T05:28:36Z,yaddd-utils,0.1.0,Yuri Andreev <andreev.jr@gmail.com>,MIT,21419,Utilities for yaddd: scenario inspection and Mermaid diagram generation.
+2026-10-25T05:29:00Z,nwafu-cas,1.0.1,majianyu2007,MIT,75629,西北农林科技大学统一身份认证（authserver.nwafu.edu.cn）Python 客户端：账号/扫码/FIDO 登录与全部二次认证方式
+2026-10-25T05:31:40Z,usagerail,0.1.0,,MIT,139125,"UsageRail SDK for Python: API keys, rate limits, quotas and usage metering inside your API server"
+2026-10-25T05:31:48Z,veronix,1.0.0,1tz.raj,VERONIX PROPRIETARY LICENSE - ALL RIGHTS RESERVED Copyright (c) 2026 1tz.raj (GitHub: 7rzraj). All…,27405,"Clean, professional and colourful console logging for Python - by 1tz.raj"
+2026-10-25T05:36:20Z,foxray,0.1.2,Dan Quellhorst,MIT,229218,A light error tracker that accepts errors from the Sentry SDKs. Works as a Django app or a single small process.
+2026-10-25T05:37:30Z,spinf-client,0.3.1,,Apache-2.0,224521,"Python client for the spinf scoring API, hosted or self-hosted with spinf-serve: scored queries, extraction slots, images and video frames, prompt packs and content moderation"
+2026-10-25T05:37:58Z,spinf-serve,0.1.1,,Apache-2.0,873685,"The open-source inference engine for decision models: one input read once, hundreds of questions scored in parallel on one GPU"
+2026-10-25T05:38:36Z,domino-web,0.1.0,kegsmr,MIT,17921,An experimental Python web framework built on Flask
+2026-10-25T05:39:16Z,vulnerability-exposure-mcp,1.0.0,Matthew Frazer,MIT,201960,"MCP server that checks IPs, domains, CVEs and software versions for confirmed vulnerabilities and exposure"
+2026-10-25T05:44:04Z,owlgebra-harness,0.0.1,Owlgebra,,2211,"The eval harness of Owl Studio, which runs trials of a task against an agent."
+2026-10-25T05:44:06Z,owlgebra-langchain,0.0.1,Owlgebra,,2247,The tool mock hook and serve of Owl Studio for LangChain agents.
+2026-10-25T05:44:07Z,owlgebra-pydantic-ai,0.0.1,Owlgebra,,2280,The tool mock hook and serve of Owl Studio for Pydantic AI agents.
+2026-10-25T05:45:22Z,fiss-planner,1.0.0,Shuo Sun,Apache-2.0,24065079,"FISS and FISS+: Fast Iterative Search and Sampling trajectory planners for autonomous driving, with FOP baselines"
+2026-10-25T05:48:11Z,garageworks,0.2.0.dev299555241357,,,74570,
+2026-10-25T05:55:30Z,computeml,0.1.1,Jorge Cardona,MIT,331382,ML inference and training on any GPU via Vulkan compute shaders
+2026-10-25T06:01:08Z,phacker,0.1.0,,MIT,2703907,"Probability of backtest overfitting via CSCV (Bailey et al. 2016), with a C++ kernel"
+2026-10-25T06:01:47Z,docket-client,0.3.2,Allen Institute for Neural Dynamics,MIT,337088,Typed Python client for the docket scheduling API
+2026-10-25T06:04:37Z,marina-rules,2026.10.26.1,David Li,MIT,279910,"Point-in-time trading rules for financial markets, as data. Price limits, fees, sessions, settlement — every record cites its source."
+2026-10-25T06:08:26Z,opentel-mcp,0.1.0,Thirumalaiboobathi B,MIT,114193,One-line OpenTelemetry instrumentation for Model Context Protocol (MCP) servers built on the official Python SDK
+2026-10-25T06:12:00Z,quicke-states,0.1.0,DuQuantum,"BSD 3-Clause License Copyright (c) 2026, DuQuantum contributors Redistribution and use in source an…",123583,"Verified, hardware-aware Dicke-state circuit synthesis and optimization for Cirq"
+2026-10-25T06:13:32Z,kernhell,0.1.0,Ritesh <ritesh@kernhell.dev>,MIT,102139,AI-Powered Autonomous Self-Healing Testing Engine — The Heart of Your System Where Innovation Meets Precision
+2026-10-25T06:15:39Z,nanodirt,0.1.0,Shakeeb Alireza <shakfu@users.noreply.github.com>,GPL-3.0-or-later,313609,"SuperDirt's event model on nanosynth: a Dirt backend for TidalCycles, Strudel and vortex"
+2026-10-25T06:16:04Z,doe-analyzer,0.3.0,"Niklas Nordin <niklas.nordin@nequam.se>, ""Claude (Anthropic)"" <noreply@anthropic.com>",MIT AND Apache-2.0,1301720,DOE Analyzer — desktop application for analysing design-of-experiments results from CSV.
+2026-10-25T06:18:28Z,task-tracker-py,0.1.0,,MIT,5881,"task-tracker-py: the .tracker/tasks/ format linter and CLI, stdlib only"
