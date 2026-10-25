@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T20:13:07Z,warden-mesh,0.1.14,Warden contributors,MIT,300824,"A zero-config, passkey-protected reverse proxy and homelab dashboard."
+2026-10-25T20:19:24Z,pcapforge-it-ot,0.5.0,,Apache-2.0,1292379,"Generate realistic, labeled PCAPs with answer keys for blue-team and detection-engineering training"
+2026-10-25T20:25:12Z,cognicloud,0.9.0,,LicenseRef-Proprietary,25672,"CogniCloud SDK: browser sessions for agents, and the platform API."
+2026-10-25T20:29:20Z,shoo,0.1.0,avtomate,MIT,75490,"Clean up the processes your coding agents leave behind: orphaned MCP servers, headless browsers, dev servers and more."
+2026-10-25T20:30:11Z,rocket-felfoul,1.0.0,VotreNom,LICENSE.txt,5512,A package for simulating rockets and shuttles in 2D space
+2026-10-25T20:33:48Z,cwt3d,1.3.0,,MIT,408903,Independent numerical core for three-dimensional coupled-wave theory
+2026-10-25T20:36:09Z,mx4-haptic,0.1.0,,MIT,23669,Python mouse events and HID++ haptics for the Logitech MX Master 4 on macOS
+2026-10-25T20:38:58Z,php2shell-check,0.1.0,Sirjan Singh,MIT,33328,Detect and help remediate the PHP2Shell RCE flaws (CVE-2026-109618 / CVE-2026-109619).
+2026-10-25T20:39:48Z,uncnn,1.0.0,epics-lab,MIT,15137,"An untrained (frozen, random-weight) 3D CNN feature extractor for structural brain MRI."
+2026-10-25T20:40:31Z,smolagents-withruntime,0.1.0,Runtime LLC,Apache-2.0,19595,Runtime Cloud sandboxes as a smolagents code executor: a CodeAgent's Python runs in a Firecracker microVM
+2026-10-25T20:42:26Z,sovereign-harness,0.5.0,,MIT,2968083,"Cost-bounded multi-model verification & coding harness with AI sovereignty — consent, continued consensus, and a verifiable participation ledger. Pure Python stdlib, zero dependencies."
+2026-10-25T20:44:52Z,meristem,4.0.0,Repository Maintainers <maintainers@knuckles.team>,MIT,225350,"Meristem, the in-run agent harness for explicit dependency DAGs and received plans: the agent run loop, edit application, tool contracts, constraints, pre-emit gates, the developer workspace and the…"
+2026-10-25T20:47:55Z,marshal-ledger,0.0.0,,,8119,"Marshal — a vendor-neutral, open-source ledger for enterprise AI agents. Pre-release placeholder."
+2026-10-25T20:48:21Z,pydantic-rag-agent,0.1.0,Nick,MIT,190703,A RAG agent built on Pydantic.
+2026-10-25T20:50:21Z,monosmith-plugin-sdk,0.1.0,Eduardo Russo,MIT,201521,"The Python SDK for writing smith plugins: the protocol's types, the serve loop, a test host, the conformance checks, templating and key-order-keeping JSON editing. No runtime dependencies."
+2026-10-25T20:51:48Z,cis-benchmarks-tools,2.9.1,Jean-Marie Renouard <jmrenouard@gmail.com>,MIT,900921,Enterprise-Grade Automated Security Compliance Audit Engine for Databases and Linux Systems (100% Python Standard Library - PSL ONLY)
+2026-10-25T20:56:58Z,pylops-mcp,0.1.1.dev0,PyLops developers,LGPL-3.0-only,84220,PyLops MCP Server
+2026-10-25T21:00:30Z,acat-player,0.1.1,Kenneth Reitz,ISC,14303,audio $ cat: play audio files the way cat prints text.
+2026-10-25T21:02:17Z,broadkey,0.0.3,wykwit,GPL-3.0-or-later,13189119,Research implementation of Boneh-Gentry-Waters broadcast key encapsulation (not for production use)
+2026-10-25T21:10:19Z,prufgate,1.0.0,PrufGate Maintainers,Apache-2.0,368391,"Catches fabricated logic, hollow tests, guardrail tampering and BOLA in code written by people and AI agents"
+2026-10-25T21:10:44Z,maffe,0.1.1,,MIT AND Apache-2.0 AND BSD-3-Clause AND Zlib,31219698,Python bindings for the maffe solver
+2026-10-25T21:14:49Z,shade-plugins-s3,0.1.0,ShadeOne,Apache-2.0,18439,"Listar, baixar, enviar e apagar objetos no S3 (e compatíveis), com envio que não duplica."
+2026-10-25T21:15:08Z,plural-agent,0.1.0,Plural team,Apache-2.0,301031,"Multiplayer sessions for one AI agent: shared context, host approvals, attribution, isolation."
+2026-10-25T21:16:01Z,nexus-agymail,0.8.0,Julien Piron,MIT,129910,"Gmail MCP server for AI agents: official Gmail API, Google's tool names, sending only after the user's yes, no permanent deletion"
+2026-10-25T21:18:19Z,blazemcp,0.1.0,,,1745,"Secure-by-default Model Context Protocol (MCP) SDK and server framework. Run standalone or inside any ASGI/WSGI app, with OAuth 2.1, SSO and RBAC built in."
