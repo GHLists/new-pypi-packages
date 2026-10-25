@@ -8,32 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 03:18 UTC
+## Latest list — 2026-10-25 04:18 UTC
 
-New packages created between 2026-10-25 02:19 UTC and 2026-10-25 03:18 UTC.
+New packages created between 2026-10-25 03:18 UTC and 2026-10-25 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-25T03-18-36-875188Z.csv)
+[Full CSV](data/new-packages-2026-10-25T04-18-47-185785Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 02:22:51 | [aepkit](https://pypi.org/project/aepkit/) | 0.6.0 | tBeltty <jhonatan@tbelt.onlin… | 142.2 kB | Mechanical support for the Auditor/Executor protocol: scaffold, lint, and negat… |
-| 2026-10-25 02:27:18 | [newsclip](https://pypi.org/project/newsclip/) | 0.7.0 | benjamin-di | 1.3 MB | News search, verified subscription reading and private archiving |
-| 2026-10-25 02:29:13 | [flashraw](https://pypi.org/project/flashraw/) | 0.1.0 | Yassine Bouanane | 31.4 MB | Fast, safe camera RAW decoding (DNG, CR2, CR3, NEF, ARW, RAF, RW2, ORF, PEF and… |
-| 2026-10-25 02:33:37 | [lavalabs-secscan](https://pypi.org/project/lavalabs-secscan/) | 1.6.0 | Lava Labs <security@mail.lava… | 526.0 kB | Deterministic security scanner for GitHub, GitLab, and Bitbucket repositories:… |
-| 2026-10-25 02:34:11 | [brainspikes](https://pypi.org/project/brainspikes/) | 0.2.0 | BrainX Team <chao.brain@qq.co… | 4.5 MB | Point-neuron spiking neural networks: build, simulate, and train with a unified… |
-| 2026-10-25 02:35:14 | [errgate-gateway](https://pypi.org/project/errgate-gateway/) | 0.1.0 | TextForAgents LLC | 20.7 kB | Error-actionability translation gateway for MCP tool failures: per-server error… |
-| 2026-10-25 02:37:07 | [topoexploit](https://pypi.org/project/topoexploit/) | 0.2.0 | grisun0 | 324.6 kB | TopoExploit: complex-valued spectral language model for security tasks (vulnera… |
-| 2026-10-25 02:40:04 | [topogpt3](https://pypi.org/project/topogpt3/) | 0.2.0 | grisun0 | 376.4 kB | Complex-valued spectral language model for code with Grassmannian training diag… |
-| 2026-10-25 02:43:40 | [echoChain](https://pypi.org/project/echoChain/) | 0.1.0 | Samir Musali <samir.musali@gm… | 33.5 kB | Measure how information degrades across repeated LLM transformations. |
-| 2026-10-25 02:44:05 | [LSA-sc](https://pypi.org/project/LSA-sc/) | 0.1.0 | Feng Zeng | 30.3 kB | Latent Space Alignment |
-| 2026-10-25 02:46:03 | [pjjet](https://pypi.org/project/pjjet/) | 0.1.1 | Ajith <ajlikeadj@users.norepl… | 124.0 kB | Convert messy enterprise files into clean, token-optimized context for LLMs. |
-| 2026-10-25 02:50:23 | [keras-sciml](https://pypi.org/project/keras-sciml/) | 0.1.0 | Muhammad Anas Raza | 105.1 kB | Scientific Machine Learning in Keras 3 |
-| 2026-10-25 02:52:10 | [keras-bio](https://pypi.org/project/keras-bio/) | 0.1.0 | keras-bio contributors | 185.4 kB | Multi-backend biological sequence and structure foundation models in Keras 3 |
-| 2026-10-25 02:59:43 | [cape-aeri](https://pypi.org/project/cape-aeri/) | 0.1.0 | Shakir Adeyemi Tewogbade | 44.3 kB | AERI article scoring and country-month economic-risk index library. |
-| 2026-10-25 03:01:14 | [india-company-diligence](https://pypi.org/project/india-company-diligence/) | 0.1.0 |  | 123.3 kB | MCP server making India's public company-data layers agent-legible |
-| 2026-10-25 03:06:03 | [knn-inspect](https://pypi.org/project/knn-inspect/) | 0.17.0 | Ivan Petrouchtchak | 3.3 MB | Offline inspector for OpenSearch k-NN native segment files |
-| 2026-10-25 03:09:20 | [snowflake-switchboard-ai](https://pypi.org/project/snowflake-switchboard-ai/) | 0.1.0 | Murtaza Mohammed Rafiqi <murt… | 6.2 kB | A dynamic, metadata-driven query router for Snowflake and Snowpark |
-| 2026-10-25 03:11:40 | [bitqate](https://pypi.org/project/bitqate/) | 0.2.1 |  | 242.1 MB | Command-line interface for the BitQate public API |
-| 2026-10-25 03:11:57 | [drumsplit-mcp](https://pypi.org/project/drumsplit-mcp/) | 0.1.0 | DrumSplit | 32.3 kB | One-call drum separation for agents, with resumable downloads |
-| 2026-10-25 03:15:31 | [plainlang](https://pypi.org/project/plainlang/) | 0.1.0 |  | 306.8 kB | Plain: write steps in everyday English, then run them. |
-| 2026-10-25 03:16:39 | [fontus](https://pypi.org/project/fontus/) | 0.0.1 |  | 5.3 kB | Font-drift detection for PDF snapshot CI |
+| 2026-10-25 03:18:25 | [cerebellum-ai](https://pypi.org/project/cerebellum-ai/) | 0.0.1 | ardaharp | 1.8 kB | Cerebellum (formerly Mesh): self-improving multi-agent AI engine. Coming soon. |
+| 2026-10-25 03:18:29 | [cerebellum-cli](https://pypi.org/project/cerebellum-cli/) | 0.0.1 | ardaharp | 1.8 kB | Cerebellum (formerly Mesh): self-improving multi-agent AI engine. Coming soon. |
+| 2026-10-25 03:18:53 | [adhara](https://pypi.org/project/adhara/) | 0.1.0 | Karthik <karthik.rajgopal@hot… | 6.6 MB | Native FTS5 tokenizer and hybrid FTS + vector search for SQLite, as a loadable… |
+| 2026-10-25 03:19:57 | [pfund-blocks](https://pypi.org/project/pfund-blocks/) | 0.0.1 | softwareentrepreneer | 33.9 kB | Building blocks for `pfund` |
+| 2026-10-25 03:22:17 | [shade-plugins-documentos-fiscais](https://pypi.org/project/shade-plugins-documentos-fiscais/) | 0.1.0 | ShadeOne | 21.2 kB | Ler NF-e (XML e DANFE em PDF), conferir chave de acesso e decompor a linha digi… |
+| 2026-10-25 03:25:26 | [hypswarm](https://pypi.org/project/hypswarm/) | 0.0.1 | Nicolas Houghtaling, VoodooMo… | 30.1 kB | Run one agent or a swarm of them on a task, with a HypGraph record as the only… |
+| 2026-10-25 03:27:46 | [workclock](https://pypi.org/project/workclock/) | 0.1.0 | Karthik P | 4.2 MB | Fast, correct business-time arithmetic: working hours, SLAs and shifts |
+| 2026-10-25 03:34:21 | [FigCompose](https://pypi.org/project/FigCompose/) | 0.1.1 | FigCompose contributors | 405.3 kB | FigCompose — rule-driven publication-quality visualization engine for researche… |
+| 2026-10-25 03:41:14 | [teleopro-core](https://pypi.org/project/teleopro-core/) | 0.1.0 | Shifei Duan | 28.1 kB | Device- and robot-agnostic teleoperation mapping, no ROS required. |
+| 2026-10-25 03:43:33 | [nextion-tools](https://pypi.org/project/nextion-tools/) | 0.1.0 | James Mulcahy | 145.2 kB | Read and edit Nextion Editor projects, fonts and TFTs, and emulate the display… |
+| 2026-10-25 03:43:52 | [acadfetch](https://pypi.org/project/acadfetch/) | 0.1.0 | young-ski | 244.9 kB | Resumable, rate-limited, checksum-verified bulk downloads from academic data re… |
+| 2026-10-25 03:54:37 | [spiky-nes](https://pypi.org/project/spiky-nes/) | 0.1.0 |  | 36.0 kB | A toy NES emulator. |
+| 2026-10-25 03:58:23 | [hawkeye-hub](https://pypi.org/project/hawkeye-hub/) | 1.0.0 |  | 31.7 kB | Python SDK for Hawkeye Hub Plugin Backends: stdio JSON-RPC handlers and a test… |
+| 2026-10-25 04:04:26 | [aerospace-mcp](https://pypi.org/project/aerospace-mcp/) | 0.1.0 | Aaron <cheesejaguar@gmail.com> | 4.3 MB | MCP server for aerospace and flight planning operations |
+| 2026-10-25 04:05:00 | [fsb-core](https://pypi.org/project/fsb-core/) | 0.4.0 | VoxHash <contact@voxhash.dev> | 306.8 kB | Native Rust indicator and equity helpers for ForexSmartBot (PyO3) |
+| 2026-10-25 04:05:29 | [sysflow-mcp](https://pypi.org/project/sysflow-mcp/) | 1.0.1 | Johann Schiffer | 25.5 kB | Safe Linux Sysadmin, Process & Build Automation Engine for AI Agents |
+| 2026-10-25 04:05:30 | [fastmcp-forge](https://pypi.org/project/fastmcp-forge/) | 1.0.1 | Johann Schiffer | 19.2 kB | Enterprise Model Context Protocol (MCP) Server Boilerplate & CLI Generator |
+| 2026-10-25 04:06:24 | [rim-rocket](https://pypi.org/project/rim-rocket/) | 0.1 |  | 3.5 kB |  |
+| 2026-10-25 04:12:10 | [novnow](https://pypi.org/project/novnow/) | 0.1.0 |  | 14.4 MB | novnow — deterministic IDE for long-form fiction, as a Python module (§19.3) |
+| 2026-10-25 04:15:52 | [django-sqlalchemy-bridge](https://pypi.org/project/django-sqlalchemy-bridge/) | 0.0.1 | itda-work | 11.4 kB | [Experimental] Use SQLAlchemy 2.x Core expressions inside Django's own connecti… |
+| 2026-10-25 04:17:43 | [qsx-score-free](https://pypi.org/project/qsx-score-free/) | 0.4.0 | QuantScopeX | 259.1 kB | QuantScopeX Strategy Score — an open-source, overfitting-aware strategy scoreca… |

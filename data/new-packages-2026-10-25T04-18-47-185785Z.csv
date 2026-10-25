@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T03:18:25Z,cerebellum-ai,0.0.1,ardaharp,MIT,1815,Cerebellum (formerly Mesh): self-improving multi-agent AI engine. Coming soon.
+2026-10-25T03:18:29Z,cerebellum-cli,0.0.1,ardaharp,MIT,1825,Cerebellum (formerly Mesh): self-improving multi-agent AI engine. Coming soon.
+2026-10-25T03:18:53Z,adhara,0.1.0,Karthik <karthik.rajgopal@hotmail.com>,,6631316,"Native FTS5 tokenizer and hybrid FTS + vector search for SQLite, as a loadable extension"
+2026-10-25T03:19:57Z,pfund-blocks,0.0.1,softwareentrepreneer,,33871,Building blocks for `pfund`
+2026-10-25T03:22:17Z,shade-plugins-documentos-fiscais,0.1.0,ShadeOne,Apache-2.0,21237,"Ler NF-e (XML e DANFE em PDF), conferir chave de acesso e decompor a linha digitável do boleto, offline."
+2026-10-25T03:25:26Z,hypswarm,0.0.1,"Nicolas Houghtaling, VoodooMods LLC",Apache-2.0,30093,"Run one agent or a swarm of them on a task, with a HypGraph record as the only shared state. This release reserves the name; the alpha is on GitHub."
+2026-10-25T03:27:46Z,workclock,0.1.0,Karthik P,MIT,4208508,"Fast, correct business-time arithmetic: working hours, SLAs and shifts"
+2026-10-25T03:34:21Z,FigCompose,0.1.1,FigCompose contributors,Apache-2.0,405312,FigCompose — rule-driven publication-quality visualization engine for researchers
+2026-10-25T03:41:14Z,teleopro-core,0.1.0,Shifei Duan,Apache-2.0,28116,"Device- and robot-agnostic teleoperation mapping, no ROS required."
+2026-10-25T03:43:33Z,nextion-tools,0.1.0,James Mulcahy,MIT,145164,"Read and edit Nextion Editor projects, fonts and TFTs, and emulate the display they run on"
+2026-10-25T03:43:52Z,acadfetch,0.1.0,young-ski,MIT,244914,"Resumable, rate-limited, checksum-verified bulk downloads from academic data repositories"
+2026-10-25T03:54:37Z,spiky-nes,0.1.0,,,36042,A toy NES emulator.
+2026-10-25T03:58:23Z,hawkeye-hub,1.0.0,,,31655,Python SDK for Hawkeye Hub Plugin Backends: stdio JSON-RPC handlers and a test harness.
+2026-10-25T04:04:26Z,aerospace-mcp,0.1.0,Aaron <cheesejaguar@gmail.com>,MIT,4318305,MCP server for aerospace and flight planning operations
+2026-10-25T04:05:00Z,fsb-core,0.4.0,VoxHash <contact@voxhash.dev>,MIT,306795,Native Rust indicator and equity helpers for ForexSmartBot (PyO3)
+2026-10-25T04:05:29Z,sysflow-mcp,1.0.1,Johann Schiffer,MIT,25514,"Safe Linux Sysadmin, Process & Build Automation Engine for AI Agents"
+2026-10-25T04:05:30Z,fastmcp-forge,1.0.1,Johann Schiffer,MIT,19232,Enterprise Model Context Protocol (MCP) Server Boilerplate & CLI Generator
+2026-10-25T04:06:24Z,rim-rocket,0.1,,,3450,
+2026-10-25T04:12:10Z,novnow,0.1.0,,MIT,14380774,"novnow — deterministic IDE for long-form fiction, as a Python module (§19.3)"
+2026-10-25T04:15:52Z,django-sqlalchemy-bridge,0.0.1,itda-work,MIT,11351,[Experimental] Use SQLAlchemy 2.x Core expressions inside Django's own connections and transactions
+2026-10-25T04:17:43Z,qsx-score-free,0.4.0,QuantScopeX,MIT,259063,"QuantScopeX Strategy Score — an open-source, overfitting-aware strategy scorecard from CSV/TSV/Excel returns, equity, or trade-log uploads."
