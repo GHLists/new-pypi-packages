@@ -1,12 +1,20 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-10-25T06:18:37.675896Z",
-    "path": "data/new-packages-2026-10-25T07-20-03-987411Z.csv",
-    "to": "2026-10-25T07:20:03.987411Z"
+    "count": 35,
+    "from": "2026-10-25T07:20:03.987411Z",
+    "path": "data/new-packages-2026-10-25T08-18-40-173533Z.csv",
+    "to": "2026-10-25T08:18:40.173533Z"
   },
-  "pending": [],
-  "serial": 42712555,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-25T07:35:53Z",
+      "package": "praone-your-unique-name",
+      "since": "2026-10-25T07:20:03.987411Z",
+      "version": "0.1.0"
+    }
+  ],
+  "serial": 42713799,
   "source_truncated": false,
-  "window": "2026-10-25T07:20:03.987411Z"
+  "window": "2026-10-25T08:18:40.173533Z"
 }

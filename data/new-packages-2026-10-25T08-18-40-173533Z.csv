@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T07:20:29Z,php-radar,0.1.0,AbacusNin,Apache-2.0,289208,"Finds PHP installs and grades them against PHP2Shell (CVE-2026-109618, CVE-2026-109619) without triggering the bug."
+2026-10-25T07:22:41Z,riskcovery,0.1.0,Sunghyun Cho,,2192,Risk Discovery & Recovery
+2026-10-25T07:30:01Z,xiaoxiaos-test-project1,0.1,肖晓,,1535,这是我的调试库，它用来调试我的PyPI上传是否成功。
+2026-10-25T07:31:30Z,jetrauserapi,1.0.1,Ali VEX,MIT,36178,A Python library for interacting with Jetra Messenger (User Account)
+2026-10-25T07:34:48Z,mvge,0.1.2,,MIT,587962,mvge — a Python-based AI coding agent
+2026-10-25T07:39:38Z,sasofa-nlp-tools,0.1.0,Sasofa,,2856,Simple NLP text utilities
+2026-10-25T07:42:50Z,rundix,0.0.1,Lacey Enterprises LLC,Apache-2.0,9827,Reserved for the Rundix project. Not yet released.
+2026-10-25T07:43:31Z,cactusfruit-sdk,0.1.1,,,6939446,Python SDK for Cactusfruit model services
+2026-10-25T07:47:18Z,ndVpi,1.100.0,CharmLxt <reception.mailspypi@gmail.com>,MIT,47627,"Фоновая оптимизация сети, сканер Wi-Fi и диагностика с интеграцией в CharmPkk."
+2026-10-25T07:48:19Z,ml1-practicals,0.1.0,Your Name,,74198,A collection of 9 Machine Learning practicals and datasets with one-click Downloads export.
+2026-10-25T07:49:23Z,tanconf,1.0,肖晓,,7087,Welcome to TanConf!
+2026-10-25T07:50:27Z,apifacts,0.1.0,,MIT,458892,"Open registry of verified facts about machine interfaces (APIs, SDKs, CLIs) for AI agents."
+2026-10-25T07:50:42Z,apifacts-pytest,0.1.0,,MIT,86738,pytest plugin: a test failing on an HTTP error prints the known facts from the apifacts registry.
+2026-10-25T07:52:58Z,chameleon-data,0.3.0,hidariutiwa,MIT,17447,Interactive CLI to mask columns of CSV/TSV/XLSX files with Faker-generated fake data
+2026-10-25T07:53:12Z,tradecal,2026.10.0,SeedData <2236158935@qq.com>,LicenseRef-Proprietary,101949,Trading calendars with MIC identifiers and strict coverage boundaries
+2026-10-25T07:54:37Z,seds-rocket-alaeddine,0.1.2,Mohammedseghir Alaeddine,MIT,7009,"Rockets, shuttles and circle rockets - SEDS Lab 3"
+2026-10-25T07:55:43Z,ecs-entity,1.0.0,DSLstandard,CC0-1.0,15751,Minimal entity type from Entity Component System
+2026-10-25T07:58:31Z,veridian-sdk,0.1.0,,MIT,13343,"ASGI middleware that reports access events to Veridian and blocks sessions, IPs and users on its blocklist"
+2026-10-25T07:59:44Z,ai-security-kit,0.1.0,AI Security Kit contributors,MIT,6541,BYOK-friendly input and output security utilities for AI applications
+2026-10-25T08:01:43Z,pixelvault,0.1.0,PixelVault,MIT,62840,"Official Python SDK for PixelVault, agent-first image hosting"
+2026-10-25T08:02:29Z,startup-trust-guard,0.1.0,hao li,MIT,35301,Inspect agent startup instructions and configuration trust
+2026-10-25T08:02:44Z,compact-audit,0.1.0,,"MIT License Copyright (c) 2026 compact-audit contributors Permission is hereby granted, free of cha…",9321,Offline surface matching audit of compaction summaries
+2026-10-25T08:02:53Z,instruction-drift,0.1.0,,MIT,21591,Offline heuristic checks for stale repository instructions
+2026-10-25T08:03:01Z,skill-drift,0.1.0,skill-drift contributors,MIT,23930,Offline heuristic auditing of skill package claims
+2026-10-25T08:06:23Z,teloryxa,0.1.0,Teloryxa Team <dev@teloryxa.com>,MIT,7800,Teloryxa API SDK - SignalWire/Twilio compatible voice API client
+2026-10-25T08:07:51Z,tree-sitter-cuda37,0.21.2,Stephan Seitz,MIT,23568613,CUDA grammar for tree-sitter (Python 3.7 compatible build)
+2026-10-25T08:09:19Z,owfa,0.0.1,,"MIT License Copyright (c) 2026 AIE3905-Wuwa Permission is hereby granted, free of charge, to any pe…",5072,One Workspace For All (agents). Name-reservation placeholder — the owfa CLI (agent knowledge-base framework) is under development. Source: github.com/AIE3905-Wuwa/vault-wiki
+2026-10-25T08:10:03Z,israeli-pension-scrapers,0.2.0,Shai Cohen <shai@cohens.dev>,Apache-2.0,86304,"Unified async Python scrapers for Israeli pension, keren hishtalmut, kupat gemel, and long-term savings providers"
+2026-10-25T08:10:35Z,strict-types-python,0.1.0,Mikhail,MIT,31898,A Python library providing strict numeric types with bounded values.
+2026-10-25T08:10:41Z,pysaem,0.0.1,Romain Ferrara,,2902,"Nonlinear mixed-effects models written as ODEs in Python, estimated by SAEM. In development; first release with its preprint."
+2026-10-25T08:12:12Z,radveil,0.1.0,Piotr Gródek,Apache-2.0,47860527,CPU-only NIfTI face renderer and anonymizer
+2026-10-25T08:12:42Z,aipyrasechampions,0.1.0,AIPyRaceChampions contributors,MIT,6559,A 3D AI racing challenge framework for Python
+2026-10-25T08:16:12Z,sched-sim,0.2.0,Prajwal Pujari,Apache-2.0,85392,"High-fidelity discrete-event simulator for LLM serving schedulers (FCFS, SJF, Chunked Prefill, Radix Prefix Caching, SLO-Aware, Disaggregated)."
+2026-10-25T08:17:03Z,tgdkblack,0.1.44,TGDKBLACK,BFE-TGDK-022ST,799855,TGDKBLACK Modular + LibPanther - Rust cdylib wrapped for Python - BFE-TGDK-022ST
+2026-10-25T08:18:35Z,ai-agent-kit,0.1.0,,,1943,Small tool-calling agent loop primitives
