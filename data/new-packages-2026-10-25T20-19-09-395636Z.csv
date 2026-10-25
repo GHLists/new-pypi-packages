@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T19:12:42Z,kai-coding-agent,0.4.5,,,1469950,Minimal coding agent
+2026-10-25T19:22:25Z,karkas,0.1.0,Karkas Contributors,MIT,88631,Live Architecture Skeleton & Contract Validator for Python Backends
+2026-10-25T19:23:25Z,stixis,0.1.0,Masataka Yakura <myakura.web@gmail.com>,MIT,219115,Spec-driven CSS serializer and validator generated from W3C @webref/css and Web Platform Tests
+2026-10-25T19:27:19Z,tempnumber,0.1.0,NeuralS <team@neurals.et>,MIT,29439,Unofficial Temp-Number Python Client & Interactive Terminal UI (SMS & OTP Receiver)
+2026-10-25T19:27:21Z,filings-rfb,1.0.0,guilhermegor,MIT,191480,Typed pandas readers for the Receita Federal do Brasil (RFB) CNPJ open data
+2026-10-25T19:28:06Z,symbola,0.1.0,,Apache-2.0,202401,"Spec packs for coding agents: checkable specs, verifiable evidence."
+2026-10-25T19:31:16Z,x13as,1.1.62.post1,,,5367132,"The Census X-13ARIMA-SEATS seasonal adjustment binary, bundled for Python (incl. macOS arm64)"
+2026-10-25T19:33:49Z,petcareers-sdk,0.1.0,,MIT,85312,Typed synchronous and asynchronous PetCareers Partner API clients
+2026-10-25T19:35:27Z,signops,0.2.0,SignOps <hello@signops.dev>,MIT,15046,"SignOps for Python: push notifications to Android, iOS and the web, push approval of logins, passkeys and webhooks."
+2026-10-25T19:37:29Z,simple-linreg-esi-demo,1.0.0,Belhocine Ahleme,MIT,6586,Simple linear regression from scratch
+2026-10-25T19:39:52Z,acv-django-core,0.9.0,mario.aftimos,,327808,Piezas compartidas de los backends Django de ACV.
+2026-10-25T19:42:34Z,herbarium-labels,0.1.0a2,,MIT,294351,Botanical label transcription and documented historical handwriting profiles
+2026-10-25T19:45:35Z,pulumi-verda,1.1.4,Hrishikesh Shinde <hello@hrishi.dev>,MIT,86468,A Pulumi provider dynamically bridged from verda.
+2026-10-25T19:47:12Z,posix-tools,0.0.4,Kevin Scott <me@thekevinscott.com>,MIT,38999,Python APIs that wrap native POSIX tools.
+2026-10-25T19:51:39Z,samsungframetv,4.0.0,Xchwarze,LGPL-3.0-only,104254,"Samsung Smart TV and Frame TV art mode API (websocket, REST and IP Control)"
+2026-10-25T19:52:11Z,samsungframetv-compat,4.0.0,Nick Waterton <n.waterton@outlook.com>,LGPL-3.0-only,10411,Lets code written for 'import samsungtvws' use samsungframetv (NickWaterton fork)
+2026-10-25T20:00:45Z,faster-tts,0.0.1,Jordi Mas <jmas@softcatala.org>,MIT,75896,Text-to-speech library on CPU and GPU using CTranslate2
+2026-10-25T20:01:23Z,secretref,0.1.0,janbalitaan,MIT,138667,"Config files that name their secrets instead of containing them, with an audit that refuses a literal inside a repository"
+2026-10-25T20:06:10Z,station-server,0.4.0,Raby Whyte <rabywhyte@gmail.com>,"MIT License Copyright (c) 2025-2026 Raby Whyte Permission is hereby granted, free of charge, to any…",477354,Broadcast station-studio playlists to SHOUTcast or Icecast
+2026-10-25T20:06:41Z,shiftlabs,0.0.1,shiftlabs,MIT,2432,The shiftlabs SDK for Python. Not released yet; see https://docs.shiftlabs.org.
+2026-10-25T20:06:47Z,claude-roulette,0.6.0,Phaleanopsis,MIT,95749,Use several Claude subscriptions from one Claude Code setup via a local proxy
+2026-10-25T20:06:48Z,garmin-to-wanderer,1.0.0a1,Mikel Larreategi <mlarreategi@codesyntax.com>,MIT,80344,Synchronise Garmin Connect activities to Wanderer
+2026-10-25T20:12:18Z,google-adk-withruntime,0.1.0,Runtime LLC,Apache-2.0,21346,Runtime sandboxes for Google ADK: a code executor and a sandbox toolset in a Firecracker microVM
+2026-10-25T20:14:17Z,mcp-investidor10-wallet,0.1.0,,MIT,351774,"MCP server that exposes an Investidor10 public wallet, with long-term investor memory and price alerts"
+2026-10-25T20:15:05Z,mcptoolshop-rnd-newsletter,1.30.0,mcp-tool-shop,MIT,384264,The research newsletter of mcp-tool-shop: every published issue as data.
+2026-10-25T20:18:54Z,papyrium,0.1.0,Robert Smallshire <robert@smallshire.org.uk>,MIT,7118,A virtual vintage printer: the papyrium command with every printer model.
+2026-10-25T20:18:55Z,papyrium-advertiser-mdns,0.1.0,Robert Smallshire <robert@smallshire.org.uk>,MIT,5838,"Announces Papyrium printers on the local network with multicast DNS (Bonjour, Avahi)."
+2026-10-25T20:18:56Z,papyrium-cli,0.1.0,Robert Smallshire <robert@smallshire.org.uk>,MIT,10218,"The papyrium command: run a virtual vintage printer, replay its jobs and inspect them."
+2026-10-25T20:18:57Z,papyrium-core,0.1.0,Robert Smallshire <robert@smallshire.org.uk>,MIT,29859,"Papyrium's extension axes, conformance suites, spooler and job captures."

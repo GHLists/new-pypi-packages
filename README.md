@@ -8,52 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 19:19 UTC
+## Latest list — 2026-10-25 20:19 UTC
 
-New packages created between 2026-10-25 18:20 UTC and 2026-10-25 19:19 UTC.
+New packages created between 2026-10-25 19:19 UTC and 2026-10-25 20:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-25T19-19-05-01893Z.csv)
+[Full CSV](data/new-packages-2026-10-25T20-19-09-395636Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 17:19:59 | [rumen](https://pypi.org/project/rumen/) | 0.1.0 |  | 1.4 MB | Fumen v115 decoder backed by Rust |
-| 2026-10-25 18:20:12 | [dogear](https://pypi.org/project/dogear/) | 0.1.0 | Oriol Martí | 70.0 kB | Bookmark, save and resume Claude Code and Codex sessions from any folder: a tin… |
-| 2026-10-25 18:24:42 | [dynra](https://pypi.org/project/dynra/) | 0.1.4 |  | 67.0 kB | Live Python runtime for LLM coding agents |
-| 2026-10-25 18:25:49 | [hodge-calc](https://pypi.org/project/hodge-calc/) | 0.1.1 | hodgetts | 2.7 kB | a simple calculator |
-| 2026-10-25 18:26:04 | [rocket-esi-demo](https://pypi.org/project/rocket-esi-demo/) | 1.0.0 | Belhocine Ahleme | 5.9 kB | Rocket, Shuttle and CircleRocket classes |
-| 2026-10-25 18:27:06 | [artikeep](https://pypi.org/project/artikeep/) | 0.2.0 |  | 198.2 kB | Never lose what your AI agents make: a local, versioned archive of Claude Code,… |
-| 2026-10-25 18:27:32 | [alambiq](https://pypi.org/project/alambiq/) | 0.1.0 | Alambiq contributors | 4.3 MB | Open, capability-oriented and agent-native biotechnology R&D |
-| 2026-10-25 18:28:08 | [apiverve-cpiinflation](https://pypi.org/project/apiverve-cpiinflation/) | 1.2.2 | APIVerve <hello@apiverve.com> | 20.6 kB | CPI Inflation provides monthly Consumer Price Index data broken down by categor… |
-| 2026-10-25 18:28:12 | [apiverve-cronexpressiongenerator](https://pypi.org/project/apiverve-cronexpressiongenerator/) | 1.2.2 | APIVerve <hello@apiverve.com> | 21.0 kB | Cron Expression Generator converts natural language schedule text into standard… |
-| 2026-10-25 18:28:16 | [apiverve-costofliving](https://pypi.org/project/apiverve-costofliving/) | 1.2.2 | APIVerve <hello@apiverve.com> | 21.2 kB | Cost of Living is a cost of living API that provides index values for US region… |
-| 2026-10-25 18:28:31 | [aichargelabs-whatsapp-mcp](https://pypi.org/project/aichargelabs-whatsapp-mcp/) | 1.0.0 | AiChargeLabs <support@aicharg… | 92.1 MB | WhatsApp MCP server by AiChargeLabs: closed-source, licence required |
-| 2026-10-25 18:28:52 | [apiverve-cryptogramgenerator](https://pypi.org/project/apiverve-cryptogramgenerator/) | 1.2.2 | APIVerve <hello@apiverve.com> | 26.4 kB | Cryptogram Generator creates letter substitution cipher puzzles where each lett… |
-| 2026-10-25 18:32:17 | [agoranome-policy](https://pypi.org/project/agoranome-policy/) | 0.1.0 |  | 74.6 kB | A buyer's policy for x402 payments: pay only for offers that show the proof you… |
-| 2026-10-25 18:32:23 | [specromancy-engine](https://pypi.org/project/specromancy-engine/) | 0.1.3 |  | 214.3 kB | Harness-agnostic agentic pipeline framework |
-| 2026-10-25 18:32:52 | [graphene-shield](https://pypi.org/project/graphene-shield/) | 0.1.1 | deepak prajapati | 95.2 kB | Batteries for Graphene-Django APIs: structured mutation responses, filterable/c… |
-| 2026-10-25 18:34:23 | [vecscope](https://pypi.org/project/vecscope/) | 0.1.1 | Daehee Yun | 72.6 kB | Embedding space evidence for agents: hubness, anisotropy, collapse, ANN recall. |
-| 2026-10-25 18:34:45 | [ctxoptimizer](https://pypi.org/project/ctxoptimizer/) | 0.4.1 | ahmed | 233.4 kB | Local, deterministic cost optimizer for AI coding agents |
-| 2026-10-25 18:38:25 | [mfreak-peek](https://pypi.org/project/mfreak-peek/) | 0.1.0 |  | 32.1 kB | A read-only diagnostic MicroFreak firmware patch, and a bootloader dump, for mi… |
-| 2026-10-25 18:38:26 | [mfreak-speech](https://pypi.org/project/mfreak-speech/) | 0.1.0 |  | 100.9 kB | Put your own words on the MicroFreak's Speech engine: LPC analysis, a firmware… |
-| 2026-10-25 18:38:28 | [microfreak-tools](https://pypi.org/project/microfreak-tools/) | 0.1.0 |  | 443.1 kB | Read, write and patch an Arturia MicroFreak: presets, samples, wavetables, sett… |
-| 2026-10-25 18:41:03 | [recursive-llm](https://pypi.org/project/recursive-llm/) | 0.5.0 | Grigori Gvadzabia | 187.9 kB | Recursive Language Models for efficient long-context processing |
-| 2026-10-25 18:41:05 | [randombuiltin](https://pypi.org/project/randombuiltin/) | 1.1.1 | Robert | 6.8 kB | Randomly select and work with Python builtins. |
-| 2026-10-25 18:46:05 | [dev-charter](https://pypi.org/project/dev-charter/) | 0.0.1 | Joji John | 34.8 kB | Know what your product does, which code delivers it, and what is proven, in one… |
-| 2026-10-25 18:48:26 | [yapin.py](https://pypi.org/project/yapin.py/) | 1.0.0 | "LeAndre C." <leandre@lecanac… | 56.1 kB | An Unofficial Python Library For Creating Bots On Yapin' |
-| 2026-10-25 18:49:23 | [markov-agent](https://pypi.org/project/markov-agent/) | 1.4.0 | Nacho Llorca | 22.8 kB | A coding agent following SKILL.state paper principles. |
-| 2026-10-25 18:50:48 | [herdr-here](https://pypi.org/project/herdr-here/) | 0.1.1 |  | 47.7 kB | Windows Terminal profiles that direct-attach to one Herdr workspace per directo… |
-| 2026-10-25 18:53:19 | [joescars-onedrive-mcp](https://pypi.org/project/joescars-onedrive-mcp/) | 0.1.1 | Joe Raio | 53.2 kB | Read-only MCP server for personal Microsoft OneDrive accounts |
-| 2026-10-25 18:54:37 | [heusor](https://pypi.org/project/heusor/) | 0.1.0 | Shiftmind Limited <licensing@… | 6.6 MB | Heusor: a constraint solver for planning and scheduling, driven from Python. |
-| 2026-10-25 18:57:17 | [kavchat](https://pypi.org/project/kavchat/) | 0.0.5 | maxsave <support@kavchat.com> | 22.0 kB | Kavchat server SDK for Python: identity tokens, webhook verification and the Se… |
-| 2026-10-25 18:59:48 | [quotegate](https://pypi.org/project/quotegate/) | 0.1.0 | Waldo | 30.9 kB | Let a language model answer only with sentences copied from your passages, chec… |
-| 2026-10-25 19:03:08 | [apinoa](https://pypi.org/project/apinoa/) | 0.1.0 | apinoa | 382.0 kB | Official Python SDK for the apinoa API: marketplace, social and image-translati… |
-| 2026-10-25 19:05:03 | [rhada](https://pypi.org/project/rhada/) | 0.0.1 | Rhada DevSecOps Team | 242.7 kB | Legal compliance, SBOM generation, binary linkage verification, and security vu… |
-| 2026-10-25 19:05:36 | [tempnumber-client](https://pypi.org/project/tempnumber-client/) | 0.1.0 | NeuralS <team@neurals.et> | 29.6 kB | Unofficial Temp-Number Python Client & Interactive Terminal UI (SMS & OTP Recei… |
-| 2026-10-25 19:08:46 | [esp-idf-mcp](https://pypi.org/project/esp-idf-mcp/) | 1.1.0 | Maty403 | 57.6 kB | MCP server that lets AI agents build, flash, and monitor ESP-IDF projects on re… |
-| 2026-10-25 19:10:59 | [indicear](https://pypi.org/project/indicear/) | 0.1.0 | Rahul Sharma | 1.7 MB | Speech recognition for 11 Indian languages and English from a frozen EmbeddingG… |
-| 2026-10-25 19:11:55 | [nebulallm](https://pypi.org/project/nebulallm/) | 1.4.3 |  | 3.4 kB |  |
-| 2026-10-25 19:14:25 | [fish-rules](https://pypi.org/project/fish-rules/) | 0.1.0 |  | 94.4 kB | The rules engine for the card game Fish: deterministic, standard library only. |
-| 2026-10-25 19:14:38 | [fish-env](https://pypi.org/project/fish-env/) | 0.1.0 |  | 21.7 kB | A PettingZoo environment for the six-player card game Fish. |
-| 2026-10-25 19:14:52 | [fish-agents](https://pypi.org/project/fish-agents/) | 0.1.0 |  | 19.2 kB | Baseline agents for the card game Fish, and the interface they share. |
-| 2026-10-25 19:15:07 | [ghostmark-image](https://pypi.org/project/ghostmark-image/) | 1.1.0 | Vijay Parmar | 40.2 kB | Invisible two-layer photo mark (location, time, altitude) that survives chat ap… |
-| 2026-10-25 19:18:10 | [PyLoxone-Audio](https://pypi.org/project/PyLoxone-Audio/) | 0.1.0 |  | 136.7 kB | Native audio transport and source policies for PyLoxone |
+| 2026-10-25 19:12:42 | [kai-coding-agent](https://pypi.org/project/kai-coding-agent/) | 0.4.5 |  | 1.5 MB | Minimal coding agent |
+| 2026-10-25 19:22:25 | [karkas](https://pypi.org/project/karkas/) | 0.1.0 | Karkas Contributors | 88.6 kB | Live Architecture Skeleton & Contract Validator for Python Backends |
+| 2026-10-25 19:23:25 | [stixis](https://pypi.org/project/stixis/) | 0.1.0 | Masataka Yakura <myakura.web@… | 219.1 kB | Spec-driven CSS serializer and validator generated from W3C @webref/css and Web… |
+| 2026-10-25 19:27:19 | [tempnumber](https://pypi.org/project/tempnumber/) | 0.1.0 | NeuralS <team@neurals.et> | 29.4 kB | Unofficial Temp-Number Python Client & Interactive Terminal UI (SMS & OTP Recei… |
+| 2026-10-25 19:27:21 | [filings-rfb](https://pypi.org/project/filings-rfb/) | 1.0.0 | guilhermegor | 191.5 kB | Typed pandas readers for the Receita Federal do Brasil (RFB) CNPJ open data |
+| 2026-10-25 19:28:06 | [symbola](https://pypi.org/project/symbola/) | 0.1.0 |  | 202.4 kB | Spec packs for coding agents: checkable specs, verifiable evidence. |
+| 2026-10-25 19:31:16 | [x13as](https://pypi.org/project/x13as/) | 1.1.62.post1 |  | 5.4 MB | The Census X-13ARIMA-SEATS seasonal adjustment binary, bundled for Python (incl… |
+| 2026-10-25 19:33:49 | [petcareers-sdk](https://pypi.org/project/petcareers-sdk/) | 0.1.0 |  | 85.3 kB | Typed synchronous and asynchronous PetCareers Partner API clients |
+| 2026-10-25 19:35:27 | [signops](https://pypi.org/project/signops/) | 0.2.0 | SignOps <hello@signops.dev> | 15.0 kB | SignOps for Python: push notifications to Android, iOS and the web, push approv… |
+| 2026-10-25 19:37:29 | [simple-linreg-esi-demo](https://pypi.org/project/simple-linreg-esi-demo/) | 1.0.0 | Belhocine Ahleme | 6.6 kB | Simple linear regression from scratch |
+| 2026-10-25 19:39:52 | [acv-django-core](https://pypi.org/project/acv-django-core/) | 0.9.0 | mario.aftimos | 327.8 kB | Piezas compartidas de los backends Django de ACV. |
+| 2026-10-25 19:42:34 | [herbarium-labels](https://pypi.org/project/herbarium-labels/) | 0.1.0a2 |  | 294.4 kB | Botanical label transcription and documented historical handwriting profiles |
+| 2026-10-25 19:45:35 | [pulumi-verda](https://pypi.org/project/pulumi-verda/) | 1.1.4 | Hrishikesh Shinde <hello@hris… | 86.5 kB | A Pulumi provider dynamically bridged from verda. |
+| 2026-10-25 19:47:12 | [posix-tools](https://pypi.org/project/posix-tools/) | 0.0.4 | Kevin Scott <me@thekevinscott… | 39.0 kB | Python APIs that wrap native POSIX tools. |
+| 2026-10-25 19:51:39 | [samsungframetv](https://pypi.org/project/samsungframetv/) | 4.0.0 | Xchwarze | 104.3 kB | Samsung Smart TV and Frame TV art mode API (websocket, REST and IP Control) |
+| 2026-10-25 19:52:11 | [samsungframetv-compat](https://pypi.org/project/samsungframetv-compat/) | 4.0.0 | Nick Waterton <n.waterton@out… | 10.4 kB | Lets code written for 'import samsungtvws' use samsungframetv (NickWaterton for… |
+| 2026-10-25 20:00:45 | [faster-tts](https://pypi.org/project/faster-tts/) | 0.0.1 | Jordi Mas <jmas@softcatala.or… | 75.9 kB | Text-to-speech library on CPU and GPU using CTranslate2 |
+| 2026-10-25 20:01:23 | [secretref](https://pypi.org/project/secretref/) | 0.1.0 | janbalitaan | 138.7 kB | Config files that name their secrets instead of containing them, with an audit… |
+| 2026-10-25 20:06:10 | [station-server](https://pypi.org/project/station-server/) | 0.4.0 | Raby Whyte <rabywhyte@gmail.c… | 477.4 kB | Broadcast station-studio playlists to SHOUTcast or Icecast |
+| 2026-10-25 20:06:41 | [shiftlabs](https://pypi.org/project/shiftlabs/) | 0.0.1 | shiftlabs | 2.4 kB | The shiftlabs SDK for Python. Not released yet; see https://docs.shiftlabs.org. |
+| 2026-10-25 20:06:47 | [claude-roulette](https://pypi.org/project/claude-roulette/) | 0.6.0 | Phaleanopsis | 95.7 kB | Use several Claude subscriptions from one Claude Code setup via a local proxy |
+| 2026-10-25 20:06:48 | [garmin-to-wanderer](https://pypi.org/project/garmin-to-wanderer/) | 1.0.0a1 | Mikel Larreategi <mlarreategi… | 80.3 kB | Synchronise Garmin Connect activities to Wanderer |
+| 2026-10-25 20:12:18 | [google-adk-withruntime](https://pypi.org/project/google-adk-withruntime/) | 0.1.0 | Runtime LLC | 21.3 kB | Runtime sandboxes for Google ADK: a code executor and a sandbox toolset in a Fi… |
+| 2026-10-25 20:14:17 | [mcp-investidor10-wallet](https://pypi.org/project/mcp-investidor10-wallet/) | 0.1.0 |  | 351.8 kB | MCP server that exposes an Investidor10 public wallet, with long-term investor… |
+| 2026-10-25 20:15:05 | [mcptoolshop-rnd-newsletter](https://pypi.org/project/mcptoolshop-rnd-newsletter/) | 1.30.0 | mcp-tool-shop | 384.3 kB | The research newsletter of mcp-tool-shop: every published issue as data. |
+| 2026-10-25 20:18:54 | [papyrium](https://pypi.org/project/papyrium/) | 0.1.0 | Robert Smallshire <robert@sma… | 7.1 kB | A virtual vintage printer: the papyrium command with every printer model. |
+| 2026-10-25 20:18:55 | [papyrium-advertiser-mdns](https://pypi.org/project/papyrium-advertiser-mdns/) | 0.1.0 | Robert Smallshire <robert@sma… | 5.8 kB | Announces Papyrium printers on the local network with multicast DNS (Bonjour, A… |
+| 2026-10-25 20:18:56 | [papyrium-cli](https://pypi.org/project/papyrium-cli/) | 0.1.0 | Robert Smallshire <robert@sma… | 10.2 kB | The papyrium command: run a virtual vintage printer, replay its jobs and inspec… |
+| 2026-10-25 20:18:57 | [papyrium-core](https://pypi.org/project/papyrium-core/) | 0.1.0 | Robert Smallshire <robert@sma… | 29.9 kB | Papyrium's extension axes, conformance suites, spooler and job captures. |
