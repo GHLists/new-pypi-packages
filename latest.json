@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-10-25T11:19:29.977961Z",
-    "path": "data/new-packages-2026-10-25T12-18-47-16936Z.csv",
-    "to": "2026-10-25T12:18:47.16936Z"
+    "count": 36,
+    "from": "2026-10-25T12:18:47.16936Z",
+    "path": "data/new-packages-2026-10-25T13-21-29-946775Z.csv",
+    "to": "2026-10-25T13:21:29.946775Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-25T12:09:31Z",
-      "package": "sbss-toolkit",
-      "since": "2026-10-25T11:19:29.977961Z",
+      "created_at": "2026-10-25T12:56:31Z",
+      "package": "secreview",
+      "since": "2026-10-25T12:18:47.16936Z",
       "version": null
     }
   ],
-  "serial": 42719739,
+  "serial": 42721709,
   "source_truncated": false,
-  "window": "2026-10-25T12:18:47.16936Z"
+  "window": "2026-10-25T13:21:29.946775Z"
 }

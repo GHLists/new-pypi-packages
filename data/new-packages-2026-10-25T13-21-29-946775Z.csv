@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T12:09:31Z,sbss-toolkit,2026.10.1,Yoshiaki Bando <y.bando@aist.go.jp>,MIT License Copyright (c) 2025 National Institute of Advanced Industrial Science and Technology (AI…,260012,Scalable Blind Source Separation Toolkit
+2026-10-25T12:25:48Z,basaltdb,0.1.1,,,1223115,A small embedded vector database with a Rust core
+2026-10-25T12:30:43Z,fux-decoder-json,5.0.0,arpit arya <arpitarya.me@gmail.com>,MIT,9761,Fux decoder package: JSON and JSON Lines.
+2026-10-25T12:31:22Z,tenko-plugin-bf1,0.1.2,,GPL-3.0-only,3427524,Tenko 战地一查询：经 bf-manager 查询玩家战绩、武器、载具和服务器
+2026-10-25T12:33:39Z,dsh-kb,0.2.0,dsh-kb contributors,MIT,365438,"A personal Markdown knowledge base with a local mirror and index, built to be queried cheaply by AI agents."
+2026-10-25T12:34:01Z,jlt-bus-schedule,1.1.0,Jonny Bergdahl,MIT,22234,Async client that scrapes bus departures and stops from JLT (Jönköpings Länstrafik)
+2026-10-25T12:35:32Z,arc56-generated-purne-f2bb149d,1.1.2026102411,Purnesh24,,23545,Generated ARC-56 Algorand smart-contract clients for Purnesh24/Pit-Crew.
+2026-10-25T12:36:02Z,txapi-sdk,1.0.1,Josef Peter,MIT,139261,Official Python SDK for the txApi REST and WebSocket API (txAdmin / FiveM server management)
+2026-10-25T12:36:24Z,nlpsdbi,0.1.2,,,12807,NLP practical programs - pip install copies them to Downloads/nlppython
+2026-10-25T12:36:37Z,arc56-generated-vyas-fdf540fc,1.1.2026102411,vyas-t,,17818,Generated ARC-56 Algorand smart-contract clients for vyas-t/algosphere.
+2026-10-25T12:37:41Z,nemo-test-1,0.1.1,Pravanjan Roy,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",9394256,High-performance embedded relational database written in C++20 with a unified Sync/Async Python API.
+2026-10-25T12:41:17Z,wellbyte,0.7.0,Wellbyte,MIT,7935,Official Wellbyte Python SDK — thin HTTP client with 202 auto-poll
+2026-10-25T12:42:59Z,arc56-generated-hanum-e12df7b7,1.2.2026072010,hanumagoudabanakar5-hash,,22291,Generated ARC-56 Algorand smart-contract clients for hanumagoudabanakar5-hash/pillproof.
+2026-10-25T12:44:03Z,arc56-generated-hardi-04774f76,1.2.2026072010,Hardik174,,23558,Generated ARC-56 Algorand smart-contract clients for Hardik174/Hackseries-Expense-Splitter.
+2026-10-25T12:45:34Z,voplica-api,1.0.0,Voplica,Apache-2.0,816900,"The Voplica API for Python: the messages, enums and services of its public protobuf definitions."
+2026-10-25T12:46:32Z,frontedge,0.1.0,socrabs151,MIT,1245782,Frontend layer for ML engineering: mount ready-made screens into any FastAPI app
+2026-10-25T12:50:14Z,gret,0.1.0,Yuichi Ito,Apache-2.0,6258,Golden Retriever - CLI and developer toolkit.
+2026-10-25T12:50:58Z,PhotoWall,0.1.0,Martin <qule520@126.com>,,137222,一款基于预生成元数据的轻量级照片墙
+2026-10-25T12:51:40Z,kieve-moe,0.1.0,,MIT,35921,Expert-parallel MoE training over iroh-tinker: fractal tiling + procedural data + discrete diffusion
+2026-10-25T12:52:21Z,regression-fatima,1.0.0,Fatima,LICENSE.txt,5224,A simple linear regression package
+2026-10-25T12:53:00Z,sennet,0.1.0,The Sennet contributors,Apache-2.0,3789847,Talk to your coding agents: a self-hosted voice interface for Codex and Claude Code
+2026-10-25T12:54:14Z,food-mcp,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,96718,"Precision food chemistry, global nutrition databases (USDA, Open Food Facts, IFCT), and recipe formulation for AI agents."
+2026-10-25T12:54:17Z,llm-crawler-audit,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,53005,"AI & LLM crawler readiness MCP server: audit robots.txt, validate llms.txt, and verify markdown mirrors for GEO/AEO optimization."
+2026-10-25T12:57:22Z,speedtesttrackerapi,0.1.0,,,2404,Add your description here
+2026-10-25T13:00:54Z,vecsnap,0.1.0,,MIT,242917,The VecSnap API from Python: turn an image into a clean SVG in one call.
+2026-10-25T13:02:17Z,mondek,0.0.1a2,Pit Kleyersburg,Apache-2.0,175460,Typed check-authoring SDK and local monitoring runner for Mondek
+2026-10-25T13:04:32Z,playbeats,0.1.1,,,4797480,Generate neural-network-powered beats from your terminal
+2026-10-25T13:06:57Z,thiter-mcp,0.1.0,thiter,MIT,23608,thiter MCP 服务：把魔搭 ModelScope 大模型包装成 MCP 工具（OpenAI 兼容 messages 格式）
+2026-10-25T13:06:59Z,nistor-tool-castor,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1375,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-25T13:07:00Z,nistor-tool-gcp,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1348,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-25T13:07:01Z,nistor-tool-gitlab,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1377,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-25T13:07:03Z,nistor-tool-google-workspace,0.0.0.dev0,Nistor <info@nistor.io>,Apache-2.0,1471,Name held for the Nistor platform; the first real release is a 1.0.0 release candidate.
+2026-10-25T13:07:10Z,sphinx-traceability-view,1.0.0,Henning Heikes,MIT AND ISC AND BSD-3-Clause AND Apache-2.0 AND EPL-1.0 AND EPL-2.0,2039078,Offline interactive views of a Sphinx-Needs traceability graph
+2026-10-25T13:09:05Z,aether-rsi,0.1.0,,MIT,433882,"A small, local workbench for coding agents: a message queue, a task list and a file tree. Everything else is an extension."
+2026-10-25T13:13:37Z,phyelds-argos,8.9.0,Gianluca Aguzzi,Apache-2.0,27430,"Aggregate programs on ARGoS robots, communicating over simulated radios"
+2026-10-25T13:18:57Z,aerorul,0.1.0,Yusuf Korkmazyiğit,MIT,973643,"Remaining useful life prediction for turbofan engines on NASA N-CMAPSS, with calibrated uncertainty."
