@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T14:21:09Z,intraspannet,0.1.0,IntraSpanNet contributors,Apache-2.0,55535,Byte-level traffic classification for security product discovery
+2026-10-25T14:23:31Z,localtune,0.1.0,Justin Hartman,Apache-2.0,213294,"Benchmark local LLMs on your own hardware: speed, memory use and power."
+2026-10-25T14:25:15Z,holon-sh,0.0.1.dev1,,MIT,13519,"Typed MCP clients, bindings, and app views"
+2026-10-25T14:27:56Z,cldf-mcp,0.1.0,hsouf,MIT,135709,"MCP server for cross-linguistic data (CLDF): WALS typology and Glottolog classification, with provenance and sampling-bias-aware statistics."
+2026-10-25T14:28:33Z,israeli-finance-scrapers,0.1.0,RebliNk17 <21306877+RebliNk17@users.noreply.github.com>,Apache-2.0,120857,"Unified async Python scrapers for Israeli banks, credit cards, and pension providers"
+2026-10-25T14:29:20Z,fenon,0.0.1,Fenon Robotics,,3343,Fenon Python SDK
+2026-10-25T14:30:20Z,holon-types,0.0.1.dev0,,MIT,28329810,Standalone Holon typed-contract CLI
+2026-10-25T14:31:55Z,mymyr,0.1.0,,GPL-3.0-or-later,95995701,"Data-oriented, lifted-first classical planning core with free-threaded Python bindings"
+2026-10-25T14:34:11Z,ponder-sdk,0.1.0,,MIT,1067818,Typed native Python access to OpenPond training and learning
+2026-10-25T14:34:32Z,nuro-vtf,1.0.7,venkey2k,MIT,3935317,VTF (Venkey Tick Format) v1.0 — High-Frequency Option Market Data Format & Zero-Copy Engine
+2026-10-25T14:34:41Z,qgis-sdk-runtime,0.0.0,QGIS SDK contributors,MIT,2363,Placeholder reserving the qgis-sdk-runtime name for the QGIS SDK.
+2026-10-25T14:34:42Z,qgis-sdk-tools,0.0.0,QGIS SDK contributors,MIT,2339,Placeholder reserving the qgis-sdk-tools name for the QGIS SDK.
+2026-10-25T14:35:09Z,prebuttal,0.1.0,Prebuttal contributors,MIT,377465,"Pre-submission review stress test for ML papers: three independent AI reviewers + an area chair, real conference review forms, measured disagreement."
+2026-10-25T14:35:15Z,leakgraph,0.1.0,,,45564,
+2026-10-25T14:35:17Z,explainable-defect-detector,0.1.0,,,113988,
+2026-10-25T14:41:44Z,dv360-bidkit,0.1.0,DV360 BidKit Contributors,MIT,125202,"DV360 Custom Bidding DSL Linter, Pre-Flight Simulator, and Rule Compiler"
+2026-10-25T14:45:02Z,capcom,0.1.0,Breno Cunha Queiroz,MIT,1488680,Mission control for your Claude Code spend
+2026-10-25T14:48:26Z,rpm-policy-checker,0.1.1,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,29319,GTK4 RPM Policy Checker — validate packages against Fedora packaging guidelines
+2026-10-25T14:49:26Z,chattonpy,1.2.0,,,12355,A simple python CLI chat interface for Gemini API
+2026-10-25T14:50:37Z,polars-hdfs,0.1.0,,,22139,Read HDFS paths with polars
+2026-10-25T14:54:00Z,llm-openrouter-decisions,0.1a0,Andrea Borruso,Apache-2.0,33626,LLM plugin for the decision models of the OpenRouter Decisions API
+2026-10-25T14:56:45Z,siligent,0.1.0,Uwa Uwa Agbai,Apache-2.0,74614,"Lets AI agents flash, test and measure real microcontroller boards, behind safety rules."
+2026-10-25T14:59:38Z,autopkgtest-runner,0.1.4,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,16634,GTK4 frontend for autopkgtest Debian test framework
+2026-10-25T14:59:40Z,debian-policy-checker,0.1.4,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,23292,GTK4 Debian Policy Manual validator with fix suggestions
+2026-10-25T14:59:44Z,merge-o-matic-viewer,0.1.4,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,15824,GTK4 merge helper for Ubuntu-Debian synchronization
+2026-10-25T15:02:26Z,apt-changelog-viewer,0.1.4,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,16646,GTK4 changelog viewer for installed packages with security alerts
+2026-10-25T15:02:32Z,ddtp-translate,0.14.4,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,86116,Translate Debian package descriptions via DDTP
+2026-10-25T15:02:34Z,debconf-translation-manager,1.0.1,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,93091,Manage translations of Debian debconf templates
+2026-10-25T15:03:46Z,debconf-translator,0.4.1,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,57929,GTK4/Adwaita tool for managing Debconf template translations
+2026-10-25T15:03:50Z,sdc-gdr2ubl,4.0.0,"Axius SDC, Inc.",Apache-2.0,606582,"Governed Data Records as conformant OASIS UBL 2.3 documents, through sdc-mapper: one mapping file per model, every value reported."
+2026-10-25T15:03:58Z,ubuntu-l10n,0.3.7,Daniel Nylander <daniel@danielnylander.se>,GPL-3.0-or-later,622402,Ubuntu/Launchpad translation statistics viewer
+2026-10-25T15:06:12Z,mcpthreat-scan,0.1.0,Taha Al-Faqih,Apache-2.0,257514,Static zero-execution security scanner for MCP server source code
+2026-10-25T15:06:28Z,institutional-exhibit,0.4.1,Smith Lopes <smith.lugia@gmail.com>,MIT,1925635,Fixed-layout matplotlib frames and theme for report-ready charts
+2026-10-25T15:07:08Z,mloda-pii,0.2.1,Tom Kaltofen <info@mloda.ai>,Apache-2.0,96514,PII detection and redaction plugins for mloda
+2026-10-25T15:09:52Z,streamft,0.2.0,Gokhan Cava <byjameson@users.noreply.github.com>,Apache-2.0,78367,"Fine-tune models that do not fit: stream NF4 weights from disk, one transformer block at a time."
+2026-10-25T15:11:00Z,happycolab,1.0.0,Aswin Lal S Y,,27751,HappyColab: High-speed LLM bridge between Google Colab GPU and local machines with native tool execution
+2026-10-25T15:12:30Z,zmq-vision,0.3.0,Jamal Saeedi <jamal.saeedi7@gmail.com>,MIT,642299,Serve image models over ZeroMQ with sync and async Python clients
+2026-10-25T15:14:10Z,fastast,0.2.0,Abdullah Eqbal <iabdullaheqbal@gmail.com>,Apache-2.0,14931999,High-performance codebase-memory engine (AST -> Graph -> Retrieval) for coding agents
+2026-10-25T15:16:52Z,wiener,0.1.0,,MIT,12845,Wiener image filtering and additional Digital Image Processing methods
