@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T17:19:59Z,rumen,0.1.0,,MIT,1363524,Fumen v115 decoder backed by Rust
+2026-10-25T18:20:12Z,dogear,0.1.0,Oriol Martí,MIT,70042,"Bookmark, save and resume Claude Code and Codex sessions from any folder: a tiny session manager with names, tags and notes."
+2026-10-25T18:24:42Z,dynra,0.1.4,,Apache-2.0,66993,Live Python runtime for LLM coding agents
+2026-10-25T18:25:49Z,hodge-calc,0.1.1,hodgetts,,2747,a simple calculator
+2026-10-25T18:26:04Z,rocket-esi-demo,1.0.0,Belhocine Ahleme,MIT,5932,"Rocket, Shuttle and CircleRocket classes"
+2026-10-25T18:27:06Z,artikeep,0.2.0,,MIT,198164,"Never lose what your AI agents make: a local, versioned archive of Claude Code, Codex and chat artifacts, with a gallery and an MCP server."
+2026-10-25T18:27:32Z,alambiq,0.1.0,Alambiq contributors,Apache-2.0,4251657,"Open, capability-oriented and agent-native biotechnology R&D"
+2026-10-25T18:28:08Z,apiverve-cpiinflation,1.2.2,APIVerve <hello@apiverve.com>,MIT,20650,"CPI Inflation provides monthly Consumer Price Index data broken down by category including food, housing, transportation, medical care, and more. Includes year-over-year inflation rates for each cate…"
+2026-10-25T18:28:12Z,apiverve-cronexpressiongenerator,1.2.2,APIVerve <hello@apiverve.com>,MIT,21019,"Cron Expression Generator converts natural language schedule text into standard five-field cron expressions. Submit phrases up to 200 characters to receive the matching cron syntax, with paid plans a…"
+2026-10-25T18:28:16Z,apiverve-costofliving,1.2.2,APIVerve <hello@apiverve.com>,MIT,21193,"Cost of Living is a cost of living API that provides index values for US regions based on major metropolitan area data. Compare the relative cost of living between states or cities, each mapped to it…"
+2026-10-25T18:28:31Z,aichargelabs-whatsapp-mcp,1.0.0,AiChargeLabs <support@aichargelabs.com>,Proprietary,92123367,"WhatsApp MCP server by AiChargeLabs: closed-source, licence required"
+2026-10-25T18:28:52Z,apiverve-cryptogramgenerator,1.2.2,APIVerve <hello@apiverve.com>,MIT,26403,Cryptogram Generator creates letter substitution cipher puzzles where each letter is replaced with another letter consistently throughout the text.
+2026-10-25T18:32:17Z,agoranome-policy,0.1.0,,Apache-2.0,74551,A buyer's policy for x402 payments: pay only for offers that show the proof you ask for.
+2026-10-25T18:32:23Z,specromancy-engine,0.1.3,,MIT,214284,Harness-agnostic agentic pipeline framework
+2026-10-25T18:32:52Z,graphene-shield,0.1.1,deepak prajapati,MIT,95175,"Batteries for Graphene-Django APIs: structured mutation responses, filterable/countable connections, sorting & search, file-upload validation and JWT guards."
+2026-10-25T18:34:23Z,vecscope,0.1.1,Daehee Yun,MIT,72628,"Embedding space evidence for agents: hubness, anisotropy, collapse, ANN recall."
+2026-10-25T18:34:45Z,ctxoptimizer,0.4.1,ahmed,MIT,233385,"Local, deterministic cost optimizer for AI coding agents"
+2026-10-25T18:38:25Z,mfreak-peek,0.1.0,,Apache-2.0,32097,"A read-only diagnostic MicroFreak firmware patch, and a bootloader dump, for microfreak-tools. Not affiliated with Arturia."
+2026-10-25T18:38:26Z,mfreak-speech,0.1.0,,Apache-2.0,100873,"Put your own words on the MicroFreak's Speech engine: LPC analysis, a firmware patch, and SysEx uploads, for microfreak-tools. Not affiliated with Arturia."
+2026-10-25T18:38:28Z,microfreak-tools,0.1.0,,Apache-2.0,443059,"Read, write and patch an Arturia MicroFreak: presets, samples, wavetables, settings and firmware files. Not affiliated with Arturia."
+2026-10-25T18:41:03Z,recursive-llm,0.5.0,Grigori Gvadzabia,MIT,187939,Recursive Language Models for efficient long-context processing
+2026-10-25T18:41:05Z,randombuiltin,1.1.1,Robert,MIT,6798,Randomly select and work with Python builtins.
+2026-10-25T18:46:05Z,dev-charter,0.0.1,Joji John,Apache-2.0,34822,"Know what your product does, which code delivers it, and what is proven, in one spreadsheet."
+2026-10-25T18:48:26Z,yapin.py,1.0.0,"""LeAndre C."" <leandre@lecanact.me>",GPL-3.0-only,56116,An Unofficial Python Library For Creating Bots On Yapin'
+2026-10-25T18:49:23Z,markov-agent,1.4.0,Nacho Llorca,MIT,22811,A coding agent following SKILL.state paper principles.
+2026-10-25T18:50:48Z,herdr-here,0.1.1,,MIT,47736,Windows Terminal profiles that direct-attach to one Herdr workspace per directory
+2026-10-25T18:53:19Z,joescars-onedrive-mcp,0.1.1,Joe Raio,MIT,53161,Read-only MCP server for personal Microsoft OneDrive accounts
+2026-10-25T18:54:37Z,heusor,0.1.0,Shiftmind Limited <licensing@heusor.com>,LicenseRef-Proprietary,6551418,"Heusor: a constraint solver for planning and scheduling, driven from Python."
+2026-10-25T18:57:17Z,kavchat,0.0.5,maxsave <support@kavchat.com>,MIT,22007,"Kavchat server SDK for Python: identity tokens, webhook verification and the Server API"
+2026-10-25T18:59:48Z,quotegate,0.1.0,Waldo,MIT,30945,"Let a language model answer only with sentences copied from your passages, checked in code"
+2026-10-25T19:03:08Z,apinoa,0.1.0,apinoa,MIT,382036,"Official Python SDK for the apinoa API: marketplace, social and image-translation data through one API."
+2026-10-25T19:05:03Z,rhada,0.0.1,Rhada DevSecOps Team,Apache-2.0,242699,"Legal compliance, SBOM generation, binary linkage verification, and security vulnerability auditor for Python source workspaces and compiled Nuitka/PyInstaller distributions."
+2026-10-25T19:05:36Z,tempnumber-client,0.1.0,NeuralS <team@neurals.et>,MIT,29551,Unofficial Temp-Number Python Client & Interactive Terminal UI (SMS & OTP Receiver)
+2026-10-25T19:08:46Z,esp-idf-mcp,1.1.0,Maty403,MIT,57561,"MCP server that lets AI agents build, flash, and monitor ESP-IDF projects on real hardware"
+2026-10-25T19:10:59Z,indicear,0.1.0,Rahul Sharma,Apache-2.0,1671284,Speech recognition for 11 Indian languages and English from a frozen EmbeddingGemma 2 audio encoder with small trained adapters and heads (research release)
+2026-10-25T19:11:55Z,nebulallm,1.4.3,,,3392,
+2026-10-25T19:14:25Z,fish-rules,0.1.0,,Apache-2.0,94382,"The rules engine for the card game Fish: deterministic, standard library only."
+2026-10-25T19:14:38Z,fish-env,0.1.0,,Apache-2.0,21740,A PettingZoo environment for the six-player card game Fish.
+2026-10-25T19:14:52Z,fish-agents,0.1.0,,Apache-2.0,19154,"Baseline agents for the card game Fish, and the interface they share."
+2026-10-25T19:15:07Z,ghostmark-image,1.1.0,Vijay Parmar,Apache-2.0,40209,"Invisible two-layer photo mark (location, time, altitude) that survives chat apps. Python port of the Ghostmark engine; same mark format as the Android engine."
+2026-10-25T19:18:10Z,PyLoxone-Audio,0.1.0,,Apache-2.0,136673,Native audio transport and source policies for PyLoxone
