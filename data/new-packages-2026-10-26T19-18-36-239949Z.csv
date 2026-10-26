@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T18:21:31Z,tree-recurrence,0.1.0,Axolotl AI,Apache-2.0,95546,Prefix-shared (tree) packing for recurrent and linear-attention layers
+2026-10-26T18:21:39Z,sardine-mcp,0.1.1,Jake O'Donnell,MIT,79306,"MCP server for Sardine: how often Kalshi crypto contracts settled YES, counted, not forecast."
+2026-10-26T18:22:04Z,vlm-sieve,0.1.0,vlm-sieve contributors,MIT,213042,"Event-driven video frame gatekeeper, active ROI cropper, and temporal storyboard packer"
+2026-10-26T18:25:11Z,epistrel,0.1.0,,,27685,"Typed mail interfaces, an SMTP provider, and a command-line client."
+2026-10-26T18:27:27Z,agent-referee-client,0.0.1,,MIT,12439,Python tools for Agent Referee (agentreferee.ai): verify signed receipts from the neutral referee and sealed-review service for AI agents. Early preview; the full client is coming.
+2026-10-26T18:28:23Z,s1ght-visual-decisions,0.1.0,,Apache-2.0,253372,S1GHT — Real-Time Visual Decisions: detection and state questions with decision models
+2026-10-26T18:28:27Z,htmlpress,0.1.0,Evgeny Karev,MIT,40121247,"Turn a folder of HTML pages into a site: one layout, one theme, live reload, made for agents"
+2026-10-26T18:30:15Z,codelaw-rules-css-fux-index,0.2.0,,MIT,104769,"A Fux index of codelaw's css rules, for fux_search. Optional; install beside codelaw-rules-css."
+2026-10-26T18:30:17Z,codelaw-rules-data-fux-index,0.2.0,,MIT,72381,"A Fux index of codelaw's data rules, for fux_search. Optional; install beside codelaw-rules-data."
+2026-10-26T18:30:19Z,codelaw-rules-html-fux-index,0.2.0,,MIT,96840,"A Fux index of codelaw's html rules, for fux_search. Optional; install beside codelaw-rules-html."
+2026-10-26T18:30:21Z,codelaw-rules-js-fux-index,0.2.0,,MIT,100793,"A Fux index of codelaw's js rules, for fux_search. Optional; install beside codelaw-rules-js."
+2026-10-26T18:30:29Z,smart-validator,0.1.0,,MIT,6595,Reusable Python validation library
+2026-10-26T18:31:31Z,agent-file-claim,0.1.0,memento,MIT,14786,"Two coding agents, one file: the second write is refused with who holds it. Claude Code and Codex hooks, no server."
+2026-10-26T18:31:31Z,anosys-codex,0.1.0,AnoSys <support@anosys.ai>,../../../LICENSE,39779,AnoSys observability hook for OpenAI Codex CLI
+2026-10-26T18:33:08Z,nexos-agents,1.0.0,Nexos Core Architecture Group <core@nexosagents.com>,Apache-2.0,36461,"Universal Multi-Agent Orchestration Engine, Swarm Fabric & MCP Runtime"
+2026-10-26T18:33:29Z,wakit,0.1.0,Mena Maged,MIT,144014,"Move WhatsApp chat history between chat exports, Android and iPhone - CLI and local web GUI"
+2026-10-26T18:35:59Z,particledb,0.2.0,ParticleDB Authors,MIT,416627,"Python SDK for ParticleDB: native wire, DB-API 2.0, asyncio, SQLAlchemy, DataFrames, KV, vector search and RAG"
+2026-10-26T18:36:17Z,gri-iqp,0.1.0,GeoSol Research Inc <contact@geosolresearch.com>,MIT,549881,Composable numpy/CuPy-based RF IQ signal processing pipeline utilities (SDR/EW)
+2026-10-26T18:37:11Z,denv-r-sdk,0.1.0,DENV-R <support@denv-r.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",40828,"SDK Python DENV-R : pilotez votre stockage et votre calcul souverains depuis un programme (espaces, clés, clouds, infrastructures, socle, plan/apply, Terraform). Zéro dépendance."
+2026-10-26T18:38:38Z,cut3mf,0.1.0,Thomas Schank,MIT,17126,"Cut a slab off one face of a 3MF/STL model before slicing, e.g. a helper plate holding embedded text together"
+2026-10-26T18:42:33Z,easyannotate-tools,0.4.0,Shivpratap Singh Panwar,MIT,19870,"Model-backed helpers for EasyAnnotate: SAM 2 masks, text-prompted detection, inference. Runs as a sidecar in its own environment."
+2026-10-26T18:44:16Z,carpenter-agent,0.0.0.dev0,,AGPL-3.0-only,25321,Name reservation for Carpenter Workshop; real releases start at 1.0.0rc1.
+2026-10-26T18:44:18Z,carpenter-core,0.0.0.dev0,,AGPL-3.0-only,25409,Name reservation for Carpenter Workshop; real releases start at 1.0.0rc1.
+2026-10-26T18:44:19Z,carpenter-toolbox,0.0.0.dev0,,AGPL-3.0-only,25343,Name reservation for Carpenter Workshop; real releases start at 1.0.0rc1.
+2026-10-26T18:44:21Z,carpenter-workbench,0.0.0.dev0,,AGPL-3.0-only,25365,Name reservation for Carpenter Workshop; real releases start at 1.0.0rc1.
+2026-10-26T18:47:24Z,rsharpier,0.1.0,,MIT,12852344,"A Rust port of CSharpier, the opinionated C# formatter"
+2026-10-26T18:48:17Z,radix-matix,0.0.1,Rayhan Matteo (Rmatix),MIT,4974,Radix Matix: lenguaje de programación educativo bilingüe (es/en). Nombre reservado; en desarrollo.
+2026-10-26T18:49:32Z,tyrtulia-tui,1.0.0,Andros Fenollosa,GPL-3.0-or-later,74292,"Terminal client for Tyrtulia, the headless forum for small multi-user servers"
+2026-10-26T18:50:25Z,pencilmark,1.0.0rc1,pencilmark contributors,MIT,32539850,"Human-like difficulty grader, solver and generator for classic and variant sudoku"
+2026-10-26T18:57:02Z,rlabs,0.0.0,Open Efficacy,Proprietary,2628,Reserved name. rlabs is distributed privately; this release contains no code.
+2026-10-26T18:57:47Z,gchat-archive,0.2.0,gchat-archive contributors,MIT,203537,"Keep a local, searchable copy of your Google Chat history"
+2026-10-26T19:01:35Z,openjev-sdk,0.2.0,Dasein Labs,MIT,153233,"Train small task-oriented decision models on your own traces: pick, calibrate, defer, and improve with RL"
+2026-10-26T19:02:32Z,biorbd-casadi,1.12.4,"Michaud, Benjamin and Begon, Mickaël",MIT,50946490,Biomechanical add-ons to the RigidBody Dynamics Library
+2026-10-26T19:03:16Z,doeff-time,0.1.0,,,58810,Provider-agnostic time effects for doeff
+2026-10-26T19:03:54Z,agentwaste,0.1.1,nikghodki <nikghodki@gmail.com>,MIT,48361,"Find where your AI coding agent wastes tokens, and how to stop it"
+2026-10-26T19:05:28Z,tazo-sdk,0.1.0,Tazo Labs,Apache-2.0,60701,The Python SDK for Tazo audio decisions.
+2026-10-26T19:07:39Z,lerobotberto,0.1.0,,LicenseRef-LerobotBerto-Proprietary,34739,Interfaz gráfica para ejecutar tareas entrenadas con LeRobot
+2026-10-26T19:08:20Z,trainkernel,0.1.0,Arya Somu,Apache-2.0,85196,Compile a complete static PyTorch training step into one CUDA kernel
+2026-10-26T19:08:32Z,aniposelib-pytorch,0.9.0,Lili Karashchuk <lili.karashchuk@gmail.com>,,80117,PyTorch/GPU camera calibration and triangulation library for Anipose (torch fork of aniposelib; imports as `aniposelib`)
+2026-10-26T19:10:25Z,pii-eraser,0.1.0,37lab OÜ <mv@37lab.ai>,MIT,41347,"Find personal data and secrets in text and code, replace them with stable placeholders, locally."
+2026-10-26T19:11:10Z,shtoobz,0.1.0,Jeremy Dunn,MIT,60953,Lightweight interchangeable process and TCP byte streams for Windows and Linux.
+2026-10-26T19:11:27Z,aaies,0.1.0,AAIES Lab,MIT,18236,"Exact code snippets from AAI lab notebook, ready to copy into Jupyter"
+2026-10-26T19:12:31Z,stablemate-saddlebag,2.0.0,Gabriel Côté,MIT,60683,A Vault-backed daemon that fills secrets into browsers and commands without printing them.
+2026-10-26T19:13:12Z,agent-once,0.1.0,frogscooper,MIT,147803,Run side-effecting agent tool calls at most once per idempotency key.
+2026-10-26T19:13:44Z,gligabao-server,0.108.1,,MIT,39783191,The gligabao server (a prebuilt Go binary) for pip
+2026-10-26T19:17:12Z,ontogr-mem,0.0.1,"Ashwin Mathur, Varun Mathur",Apache-2.0,1159398,"Durable, traceable memory for AI agents."
+2026-10-26T19:18:15Z,gracedb-mcp,0.1.0,izabelamaria24,GPL-3.0-or-later,295437,MCP server exposing LIGO/Virgo gravitational-wave alerts (GraceDB) to LLM agents.
