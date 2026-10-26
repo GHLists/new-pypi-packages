@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T05:17:29Z,ownmetrics-mcp,0.2.0,Badis Ben Hamida,MIT,94918,"Open-source MCP server that lets Claude and other AI apps answer questions about your own Garmin data, via Garmin's official Personal API. Unofficial; not affiliated with Garmin."
+2026-10-26T05:23:10Z,yaml-compose,0.1.0,sheepfling,MIT,100779,"Safe YAML composition with file includes, mapping overlays, and list spreads"
+2026-10-26T05:25:23Z,phpwarden,2.0.0,localprime,Apache-2.0,4819701,"PHP exposure and exploitation guard — assess any PHP host against an evolving CVE feed, and watch PHP-FPM for active exploitation"
+2026-10-26T05:27:17Z,voiceroute.py,0.1.0.dev0,dog-bobik,MIT,122747,Async Python SDK and bot framework for the VoiceRoute HTTP and SSE APIs.
+2026-10-26T05:29:09Z,cmtritt,0.1.3,Alexander Tritt Monash,,3047,Colour cycles by Alex Tritt
+2026-10-26T05:32:28Z,aura-agf,0.1.0,steven owens <adventuresindrawing@gmail.com>,Apache-2.0,64187,"Aura Graph Format — read, write, validate and evaluate typed mathematical documents"
+2026-10-26T05:32:30Z,TranslateINPy,1.5.0,,,21543,A Python translation module and CLI tool which works with Gemini Live Translate API for Audio file translation.
+2026-10-26T05:36:07Z,wiener,0.1.2,,MIT,14246,Wiener filtering and related signal utilities
+2026-10-26T05:39:05Z,jugs,1.0.0,,,21154,High-performance Python client for jugs.lol
+2026-10-26T05:45:52Z,mistrial,0.2.1,Hemanth Dhanasekaran,MIT,138000,"Is your LLM judge flaky? Re-run any evaluator across runs and judge models and get a reliability card: flip rate, agreement, drift, and the cases that flip."
+2026-10-26T05:46:13Z,nonebot-plugin-zhihu-parser,0.1.0,devil233 <1250226509@qq.com>,MIT,4627846,知乎链接解析与图文转发的 NoneBot2 插件
+2026-10-26T05:49:46Z,revision-engine,0.2.2,Matthew Tibbits,MIT,526219,reVision: a static-site build tool for teaching code by example.
+2026-10-26T05:57:11Z,ubxctl,0.1.0,Matthew Shaw,MIT,68370,Unofficial terminal configuration tool for u-blox generation 9+ GNSS receivers
+2026-10-26T06:00:14Z,monicka-booking,0.1.0,,MIT,88999,Accessible Persian clinic booking pages for Monicka API
+2026-10-26T06:01:15Z,pyantz-frontend,2.0.3,igreen1 <pyantz@iangreen.dev>,,2237535,The built web ui of pyantz; install it with `pip install pyantz[frontend]`
+2026-10-26T06:05:32Z,cartomics,0.0.1,,MIT OR Apache-2.0,2566,"Cartomics: a fast, SpatialData-compatible engine for spatial multi-omics imaging (early development)."
+2026-10-26T06:05:47Z,pyvalleywidth,0.1.2,Larry Syu-Heng Lai <larrysyuhenglai@gmail.com>,AGPL-3.0-or-later,102745,Measure mountain valley and submarine canyon widths from elevation or bathymetry grids
+2026-10-26T06:06:21Z,shade-plugins-documentos,0.1.0,ShadeOne,Apache-2.0,11166,"Extrair campos de PDF e imagem pela IA da plataforma ShadeOne, com a confiança de cada campo e a conferência humana quando ela é baixa."
+2026-10-26T06:10:21Z,quqy,0.0.1,Melvina Quartey,Apache-2.0,32519,Honest error bars for quantum computations: shot-noise uncertainty for any circuit
+2026-10-26T06:11:14Z,claude-rewind,0.1.0,Adonay Resom,MIT,18924,"Reopen a Claude Code session at any earlier prompt, including prompts from before a compaction"
+2026-10-26T06:11:37Z,decima-pii,2.4.0,"""A. M. Madani"" <amyrmahdy1@gmail.com>",Apache-2.0,4105,"Find and redact personal data in Arabic, Persian, Urdu, Turkish and English on CPU. Alias for decima-ai (decima.pii)."
+2026-10-26T06:17:30Z,livekit-plugins-pocket,0.1.0,Thanush,Apache-2.0,32685,Third-party LiveKit Agents TTS plugin for a self-hosted Pocket TTS websocket server.

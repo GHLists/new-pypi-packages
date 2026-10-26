@@ -8,38 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 05:18 UTC
+## Latest list — 2026-10-26 06:18 UTC
 
-New packages created between 2026-10-26 04:19 UTC and 2026-10-26 05:18 UTC.
+New packages created between 2026-10-26 05:18 UTC and 2026-10-26 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-26T05-18-36-066719Z.csv)
+[Full CSV](data/new-packages-2026-10-26T06-18-40-991124Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-26 04:19:22 | [agentic_terminal_gmk](https://pypi.org/project/agentic_terminal_gmk/) | 0.1.3 |  | 5.2 kB | A terminal based agentic interface or a mcp which can add terminal capability |
-| 2026-10-26 04:27:35 | [edu-glasses-host](https://pypi.org/project/edu-glasses-host/) | 0.5.0 |  | 114.6 MB | Python SDK for Looktech education glasses (EDU v1) |
-| 2026-10-26 04:32:37 | [obzerve](https://pypi.org/project/obzerve/) | 0.1.0 | Aryan Fredericks | 91.3 kB | Observability, replay, and regression testing for AI agents: OpenTelemetry trac… |
-| 2026-10-26 04:35:21 | [lexmatch](https://pypi.org/project/lexmatch/) | 0.1.0 | janbalitaan | 126.9 kB | Dependency-free BM25 question matching with phrase scoring, for when embeddings… |
-| 2026-10-26 04:38:50 | [ofdkit](https://pypi.org/project/ofdkit/) | 0.1.0 | Edgar-311 | 66.5 kB | Read OFD documents (GB/T 33190) and Chinese e-invoices: text, invoice fields, a… |
-| 2026-10-26 04:39:53 | [image-edit-prep](https://pypi.org/project/image-edit-prep/) | 0.1.0 | Leanna Yode | 15.3 kB | Prepare local photos for editing and create before-and-after comparison sheets. |
-| 2026-10-26 04:40:16 | [talos-bar](https://pypi.org/project/talos-bar/) | 0.0.1 |  | 33.4 kB | Cross-platform desktop bar (PySide6 + QML) extended with Python glue |
-| 2026-10-26 04:44:18 | [api581-engine](https://pypi.org/project/api581-engine/) | 0.1.4 |  | 1.7 MB | API RP 581 Risk Analysis Module: composable Python calculations and workflows |
-| 2026-10-26 04:44:52 | [open-action-record](https://pypi.org/project/open-action-record/) | 0.2.0 |  | 69.5 kB | Write and verify Open Action Records: signed proof of what an AI agent's action… |
-| 2026-10-26 04:45:14 | [muse-bot](https://pypi.org/project/muse-bot/) | 1.0.3 |  | 188.3 MB | CLI for your personal muse.ai agent: chat, side chats, feed, goals, ideas and s… |
-| 2026-10-26 04:47:04 | [sync-brave](https://pypi.org/project/sync-brave/) | 0.1.0 |  | 15.4 kB | Export bookmarks from Chrome and merge them into Brave |
-| 2026-10-26 04:50:27 | [sar-geo-mcp](https://pypi.org/project/sar-geo-mcp/) | 0.38.0 |  | 1.6 MB | CalTopo interaction hub and geo-computing accessories for SAR |
-| 2026-10-26 04:53:12 | [open-healthcare-agentic-platform](https://pypi.org/project/open-healthcare-agentic-platform/) | 0.10.0 | Open Healthcare Agentic Platf… | 237.8 kB | Vendor-neutral, open-source, evidence-grounded healthcare search and agentic AI… |
-| 2026-10-26 04:53:39 | [oceanum-prax-sdk](https://pypi.org/project/oceanum-prax-sdk/) | 0.3.2 |  | 65.6 kB | Typed clients and data models for PRAX platform |
-| 2026-10-26 04:54:29 | [aai-study-library](https://pypi.org/project/aai-study-library/) | 0.1.3 |  | 2.2 MB | A terminal study library for AAI test materials |
-| 2026-10-26 05:01:11 | [datasetlens](https://pypi.org/project/datasetlens/) | 0.3.0 | PrinceZaman-2005, airinrs | 19.6 kB | Dataset inspection toolkit for text and image datasets |
-| 2026-10-26 05:01:47 | [oceanum-prax-cli](https://pypi.org/project/oceanum-prax-cli/) | 0.3.2 |  | 286.0 kB | Command-line interface for PRAX platform |
-| 2026-10-26 05:03:27 | [scion-sdk](https://pypi.org/project/scion-sdk/) | 0.5.6 | Repository Maintainers <maint… | 1.6 MB | Scion SDK for the Arbora ecosystem: MCP server scaffolding, connector manifests… |
-| 2026-10-26 05:03:29 | [dynamoredis](https://pypi.org/project/dynamoredis/) | 0.1.0 | Frank Zhang | 15.9 kB | A truly serverless Redis on your own AWS account: Lambda URL endpoint, DynamoDB… |
-| 2026-10-26 05:09:00 | [pyrosome](https://pypi.org/project/pyrosome/) | 0.1.11 | ian | 35.2 kB | Versioned, append-only storage for polars data frames, safe for concurrent proc… |
-| 2026-10-26 05:10:14 | [autodoc-docs](https://pypi.org/project/autodoc-docs/) | 0.3.1 |  | 369.0 kB | Dependency-free documentation governance CLI and generation engine |
-| 2026-10-26 05:10:37 | [orochi.base](https://pypi.org/project/orochi.base/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 30.3 kB | Base class used in Orochi packages |
-| 2026-10-26 05:10:39 | [orochi.fit](https://pypi.org/project/orochi.fit/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 57.5 kB | Python package for simulating X-ray pair distribution functions |
-| 2026-10-26 05:10:40 | [orochi.pdfget](https://pypi.org/project/orochi.pdfget/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 38.4 kB | Python package for simulating X-ray pair distribution functions |
-| 2026-10-26 05:10:42 | [orochi.pdfsim](https://pypi.org/project/orochi.pdfsim/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 68.1 kB | Python package for simulating X-ray pair distribution functions |
-| 2026-10-26 05:11:32 | [ztest-runner](https://pypi.org/project/ztest-runner/) | 0.5.1 | Alex Chen | 746.0 kB | Fast pytest-compatible test runner with a native Zig supervisor |
-| 2026-10-26 05:17:32 | [rarbon](https://pypi.org/project/rarbon/) | 0.0.1 | Rarbon contributors | 4.8 kB | Name placeholder for the Rarbon cheminformatics toolkit; the working API ships… |
+| 2026-10-26 05:17:29 | [ownmetrics-mcp](https://pypi.org/project/ownmetrics-mcp/) | 0.2.0 | Badis Ben Hamida | 94.9 kB | Open-source MCP server that lets Claude and other AI apps answer questions abou… |
+| 2026-10-26 05:23:10 | [yaml-compose](https://pypi.org/project/yaml-compose/) | 0.1.0 | sheepfling | 100.8 kB | Safe YAML composition with file includes, mapping overlays, and list spreads |
+| 2026-10-26 05:25:23 | [phpwarden](https://pypi.org/project/phpwarden/) | 2.0.0 | localprime | 4.8 MB | PHP exposure and exploitation guard — assess any PHP host against an evolving C… |
+| 2026-10-26 05:27:17 | [voiceroute.py](https://pypi.org/project/voiceroute.py/) | 0.1.0.dev0 | dog-bobik | 122.7 kB | Async Python SDK and bot framework for the VoiceRoute HTTP and SSE APIs. |
+| 2026-10-26 05:29:09 | [cmtritt](https://pypi.org/project/cmtritt/) | 0.1.3 | Alexander Tritt Monash | 3.0 kB | Colour cycles by Alex Tritt |
+| 2026-10-26 05:32:28 | [aura-agf](https://pypi.org/project/aura-agf/) | 0.1.0 | steven owens <adventuresindra… | 64.2 kB | Aura Graph Format — read, write, validate and evaluate typed mathematical docum… |
+| 2026-10-26 05:32:30 | [TranslateINPy](https://pypi.org/project/TranslateINPy/) | 1.5.0 |  | 21.5 kB | A Python translation module and CLI tool which works with Gemini Live Translate… |
+| 2026-10-26 05:36:07 | [wiener](https://pypi.org/project/wiener/) | 0.1.2 |  | 14.2 kB | Wiener filtering and related signal utilities |
+| 2026-10-26 05:39:05 | [jugs](https://pypi.org/project/jugs/) | 1.0.0 |  | 21.2 kB | High-performance Python client for jugs.lol |
+| 2026-10-26 05:45:52 | [mistrial](https://pypi.org/project/mistrial/) | 0.2.1 | Hemanth Dhanasekaran | 138.0 kB | Is your LLM judge flaky? Re-run any evaluator across runs and judge models and… |
+| 2026-10-26 05:46:13 | [nonebot-plugin-zhihu-parser](https://pypi.org/project/nonebot-plugin-zhihu-parser/) | 0.1.0 | devil233 <1250226509@qq.com> | 4.6 MB | 知乎链接解析与图文转发的 NoneBot2 插件 |
+| 2026-10-26 05:49:46 | [revision-engine](https://pypi.org/project/revision-engine/) | 0.2.2 | Matthew Tibbits | 526.2 kB | reVision: a static-site build tool for teaching code by example. |
+| 2026-10-26 05:57:11 | [ubxctl](https://pypi.org/project/ubxctl/) | 0.1.0 | Matthew Shaw | 68.4 kB | Unofficial terminal configuration tool for u-blox generation 9+ GNSS receivers |
+| 2026-10-26 06:00:14 | [monicka-booking](https://pypi.org/project/monicka-booking/) | 0.1.0 |  | 89.0 kB | Accessible Persian clinic booking pages for Monicka API |
+| 2026-10-26 06:01:15 | [pyantz-frontend](https://pypi.org/project/pyantz-frontend/) | 2.0.3 | igreen1 <pyantz@iangreen.dev> | 2.2 MB | The built web ui of pyantz; install it with `pip install pyantz[frontend]` |
+| 2026-10-26 06:05:32 | [cartomics](https://pypi.org/project/cartomics/) | 0.0.1 |  | 2.6 kB | Cartomics: a fast, SpatialData-compatible engine for spatial multi-omics imagin… |
+| 2026-10-26 06:05:47 | [pyvalleywidth](https://pypi.org/project/pyvalleywidth/) | 0.1.2 | Larry Syu-Heng Lai <larrysyuh… | 102.7 kB | Measure mountain valley and submarine canyon widths from elevation or bathymetr… |
+| 2026-10-26 06:06:21 | [shade-plugins-documentos](https://pypi.org/project/shade-plugins-documentos/) | 0.1.0 | ShadeOne | 11.2 kB | Extrair campos de PDF e imagem pela IA da plataforma ShadeOne, com a confiança… |
+| 2026-10-26 06:10:21 | [quqy](https://pypi.org/project/quqy/) | 0.0.1 | Melvina Quartey | 32.5 kB | Honest error bars for quantum computations: shot-noise uncertainty for any circ… |
+| 2026-10-26 06:11:14 | [claude-rewind](https://pypi.org/project/claude-rewind/) | 0.1.0 | Adonay Resom | 18.9 kB | Reopen a Claude Code session at any earlier prompt, including prompts from befo… |
+| 2026-10-26 06:11:37 | [decima-pii](https://pypi.org/project/decima-pii/) | 2.4.0 | "A. M. Madani" <amyrmahdy1@gm… | 4.1 kB | Find and redact personal data in Arabic, Persian, Urdu, Turkish and English on… |
+| 2026-10-26 06:17:30 | [livekit-plugins-pocket](https://pypi.org/project/livekit-plugins-pocket/) | 0.1.0 | Thanush | 32.7 kB | Third-party LiveKit Agents TTS plugin for a self-hosted Pocket TTS websocket se… |
