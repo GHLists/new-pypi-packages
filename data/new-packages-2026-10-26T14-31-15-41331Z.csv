@@ -1,0 +1,65 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T13:21:55Z,bg-remover-assets,0.1.0,,MIT,9461,Trim transparent margins and standardize cutout images for product catalogs
+2026-10-26T13:23:01Z,changewatcher,1.0.0,,Apache-2.0,47315,ChangeWatch Python SDK for error and performance monitoring
+2026-10-26T13:28:13Z,zerogen,0.1.0,ZeroGen LLC,MIT,41917,The official Python library for the ZeroGen API
+2026-10-26T13:29:24Z,haaztest-kitten-inference,0.2.0,KittenML,Apache-2.0,7347,"Kitten TTS inference engines: TTS 0.8 on the CPU, TTS 2 on NVIDIA and AMD GPUs"
+2026-10-26T13:29:26Z,haaztest-kitten-inference-tts2,0.2.0,KittenML,Apache-2.0 AND MIT,271037,Kitten TTS 2 text-to-speech on NVIDIA and AMD GPUs: Python API and kitten-tts2 command
+2026-10-26T13:29:35Z,haaztest-kitten-inference-tts2-cu12,0.2.0,KittenML,Apache-2.0 for KittenML's code. The library also contains third-party code under other licenses (LG…,62419698,Kitten TTS 2 native engine for NVIDIA GPUs (CUDA 12.8): library and command-line tool
+2026-10-26T13:30:19Z,verify-x-auth-token,0.0.1,GoExam,MIT,3027,Placeholder reserved by the GoExam project. Not functional; do not install.
+2026-10-26T13:30:54Z,haaztest-kitten-inference-tts2-rocm,0.2.0,,Apache-2.0 for KittenML's code. The library also contains third-party code under other licenses (LG…,20686700,"Kitten TTS 2 native engine for AMD Radeon GPUs (ROCm), used by kitten-inference-tts2"
+2026-10-26T13:31:21Z,rapsong-lrc,0.1.0,,MIT,9540,"Validate LRC lyric timestamps, shift timing and export SRT subtitles"
+2026-10-26T13:32:00Z,dsh-probe-7f21c,0.0.1,,,1989,probe
+2026-10-26T13:32:49Z,pvisor-sandbox,0.3.0,reiase,Apache-2.0,55130170,Scaling autonomous agent execution
+2026-10-26T13:38:26Z,rejewski,0.0.0,Cloud Harbor Consulting LLC,MIT,4857,"Name reservation for Rejewski, a read-only Microsoft 365 adversary-emulation toolkit by Cloud Harbor Consulting. Install from GitHub."
+2026-10-26T13:38:47Z,odoo-addon-purchase-deposit-company-amount,16.0.1.0.0.2,"Quartile, Odoo Community Association (OCA)",AGPL-3,40491,Book purchase deposits at the company-currency amount actually paid
+2026-10-26T13:44:44Z,bibump,0.0.1,Alexander Puck Neuwirth <alexander@neuwirth-informatik.de>,MIT,12661,Check a .bib file for updates available from INSPIRE-HEP and Zenodo
+2026-10-26T13:44:52Z,neollama,1.1.1,"""Neville B.-y. Yee"" <neville.yee@rfi.ac.uk>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",63317,Tool for estimating cryo-ET lamella geometries using a stable and self-consistent algorithm
+2026-10-26T13:44:55Z,agent-raw-rag-mcp,0.1.0,agent-raw-rag-mcp contributors,MIT,342990,"Cross-agent Raw-RAG incremental memory indexer and MLX two-stage retrieval MCP server for Claude Code, Codex, OpenCode, Oh My Pi, and Antigravity"
+2026-10-26T13:45:02Z,bible-ref-tagger,0.2.2,"""Rev. T. H. Wright"" <thwright@thwright.com>","GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",77357,Bible reference parsing and linking
+2026-10-26T13:45:09Z,chunkguard,0.1.1,Zakariae Fakhri,MIT,206969,PIC document chunking for RAG with any LLM and embedding model
+2026-10-26T13:45:53Z,tos-toolkit,0.1.0,Jorge Barnaby,MIT,124483,"Static analysis, scaffolding, and review tooling for ThinkScript (thinkorswim) code"
+2026-10-26T13:46:41Z,dwy-webhooks,0.1.1,,,59624,独立于业务来源的 Webhook 发送、安全边界与失败语义
+2026-10-26T13:46:44Z,betterleaks-py,2.0.0,Betterleaks Contributors,MIT,788437068,"Python bindings for Betterleaks, the high-performance secret and credential detection engine."
+2026-10-26T13:47:12Z,verb-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,48766,A machine executing an action defined by the verb.
+2026-10-26T13:48:41Z,pyglobalcache,0.3.0,Bengt Martensson <mail@bengt-martensson.de>,Apache-2.0,24518,Simple Python API and command line program to access GlobalCaché hardware using its TCP socket interface.
+2026-10-26T13:49:38Z,smarter-types,0.1.0,The Smarter Project,AGPL-3.0-or-later,50982,"The type definitions that the Smarter platform and its Python SDK share: SAM kinds, their apply order, and the Smarter Journal's enumerations."
+2026-10-26T13:53:29Z,llm-parry,0.1.0,Anshuman Singh,MIT,22525496,"Zero-config rate limiting, caching, and cost control for LLM calls."
+2026-10-26T13:53:57Z,aitools445,1.0.0,Lb <3204624858@qq.com>,MIT,458784,445 个 Windows/桌面/网络实用工具（图片/文件/视频/网页/请求下载/截图/录音/窗口/进程/内存磁盘CPU GPU 清理/NTP 校时/系统控制），每个函数带 rag 工具注册元数据（五段描述）。
+2026-10-26T13:54:16Z,the-open-engine-zeroshot,10.19.0.post1,The Open Engine,MIT,125838783,"Async Python SDK for Zeroshot, which enforces your team's QA process on coding agents as a graph you define"
+2026-10-26T13:56:07Z,guesswork,3.0.0,Curly Mole Labs,MIT,86751,"Review the decisions your coding agent made, not just the diff."
+2026-10-26T13:57:15Z,deltaflow-pg,0.1.0,Walid Ibne Hasan <walid.ibne.hasan@gmail.com>,Apache-2.0,461232,Incremental view maintenance over PostgreSQL logical replication
+2026-10-26T13:57:48Z,mastercard-oauth2-client,1.0.0,Mastercard,Apache-2.0,125463,Mastercard OAuth 2.0 client authentication for Python
+2026-10-26T13:58:40Z,poseigen-mimic,0.1.0,Husam Abdulnabi <husam.abdulnabi@gmail.com>,MIT,10017,Unified sequence-embedding architectures for the Poseigen family
+2026-10-26T13:59:25Z,pytap3,3.0.0,Federico Santandrea,MIT,13391,Cross-platform tunnel interface for Python
+2026-10-26T14:02:07Z,nexura-postgres,0.4.0,Liceron <info@liceron.in>,MIT,56691,"PostgreSQL backends for nexura-runtime: durable run and session storage, and a pgvector vector store."
+2026-10-26T14:02:11Z,nexura-qdrant,0.4.0,Liceron <info@liceron.in>,MIT,16915,Qdrant vector store for nexura-runtime: workspace-scoped collections and immutable index generations.
+2026-10-26T14:02:15Z,nexura-sandbox,0.4.0,Liceron <info@liceron.in>,MIT,104884,"Stronger code-execution sandboxes for nexura-runtime: WebAssembly (WASI), bubblewrap namespaces with seccomp, and gVisor."
+2026-10-26T14:02:19Z,nexura-connectors,0.4.0,Liceron <info@liceron.in>,MIT,107995,"15 SaaS connectors (Slack, GitHub, Google Drive and Sheets, S3, Postgres and more) as Nexura workflow modules with approval-gated writes."
+2026-10-26T14:02:31Z,dbac,0.1.0,Khanh Uyen Giang <khanh.giang@tu-darmstadt.de>,,1504462,"Double-Bracket Algorithmic Cooling: simulation, DME, HBAC baseline and plotting code."
+2026-10-26T14:04:29Z,lumif,1.0.0rc1,,Copyright (c) 2026 Delta3. All rights reserved. LIBLUMIF BINARY LICENSE AGREEMENT =================…,55959,"Read and write LUMIF-1 (.lum), the lossless Lumen astronomical image format"
+2026-10-26T14:06:56Z,remandochka,0.0.2,swagnonher,,42427,"RM (ReMandochka) — Высокопроизводительная библиотека хукинга, обхода защит ART/R8 и KDL v2 рантайма для плагинов exteraGram"
+2026-10-26T14:11:47Z,runbridge-hub,0.9.3,Pegasus-Yang <panesas2@gmail.com>,MIT,367972,"Remote browser gateway with HTTP/MCP access, exclusive Node leases, and session routing"
+2026-10-26T14:12:22Z,runbridge-node,0.8.2,Pegasus-Yang <panesas2@gmail.com>,MIT,206093,Remote browser worker for RunBridge Hub with managed Chromium and existing Chrome reuse
+2026-10-26T14:13:11Z,arc56-generated-hashm-a88630d8,1.1.2026102614,HashMapsData2Value,,42944,Generated ARC-56 Algorand smart-contract clients for HashMapsData2Value/zebgen-wallet.
+2026-10-26T14:13:30Z,airlox,0.0.0.dev0,,,2143,"Airlox: secure sessions where agents share messages, files and runnable code (name reserved; first release coming soon)"
+2026-10-26T14:13:39Z,spectrorama,1.1.0,Jörg Rychen <jrychen@ethz.ch>,GPL-3.0-or-later,7844543,"Log-frequency Gabor transforms, time-frequency projections and spectrogram animations with sound"
+2026-10-26T14:15:37Z,sipi,0.0.1,FieldAlgo <yonghakim@fieldalgo.com>,,1959,SIPI by FieldAlgo. Placeholder release reserving the name; the package is not published yet.
+2026-10-26T14:16:49Z,flo-pm,0.1.0,,,2016568,Static sites and reports from a repo's .issues/ and .context/ markdown
+2026-10-26T14:18:58Z,arc56-generated-hario-473d87db,1.2.2026072010,hariomphulre,,70498,Generated ARC-56 Algorand smart-contract clients for hariomphulre/Escrow-Based-Transcation-System.
+2026-10-26T14:20:02Z,arc56-generated-harje-2c82b3de,1.2.2026072010,harjeetvs06,,29890,Generated ARC-56 Algorand smart-contract clients for harjeetvs06/algorand.
+2026-10-26T14:21:07Z,arc56-generated-harsh-674689ca,1.2.2026072010,harsh-a-parihar,,153744,Generated ARC-56 Algorand smart-contract clients for harsh-a-parihar/Hackpay.
+2026-10-26T14:21:20Z,tplink-guard,1.20261026.1221539,Yuan-Yi Chang <changyy.csie@gmail.com>,MIT,92592,Per-device firewall / parental control for TP-Link routers over the local HTTPS admin API. Zero dependencies.
+2026-10-26T14:26:29Z,deepfellow-cli,0.36.0,,,554668,Privacy-First AI Infrastructure Framework — deploy and manage private AI on your own infrastructure. Visit deepfellow.ai
+2026-10-26T14:26:36Z,PyOpenCRG,0.1.0,Timothé Hardy,Apache-2.0,863176,"Read, analyse, edit, show and write OpenCRG road surface files in pure Python (unofficial, not affiliated with ASAM)"
+2026-10-26T14:27:05Z,moseq2-extract,1.4.0,Datta Lab,LicenseRef-Harvard-Academic-Non-Commercial,157290,To boldly go where no mouse has gone before
+2026-10-26T14:27:08Z,moseq2-pca,1.4.0,Jeff Markowitz,LicenseRef-Harvard-Academic-Non-Commercial,71509,To boldly go where no mouse has gone before
+2026-10-26T14:27:10Z,moseq2-viz,1.4.0,Datta Lab,LicenseRef-Harvard-Academic-Non-Commercial,175115,To boldly go where no mouse has gone before
+2026-10-26T14:27:13Z,moseq2-model,1.4.0,Datta Lab,LicenseRef-Harvard-Academic-Non-Commercial,82345,Modeling for the best
+2026-10-26T14:27:27Z,codocs,0.1.0,Yutong (CiCi) Cheng,MIT,1952558,"Executably verified docs, unit tests and repository wikis for Go, Python, Java, C, C++ and COBOL: docs are scored by regenerating the code from them and running the tests (SpecForge), tests by covera…"
+2026-10-26T14:28:08Z,polars-nanook-compute,0.0.1,Jop Zitman,,2652,Placeholder for Polars Nanook. Real release coming soon.
+2026-10-26T14:28:10Z,polars-nanook-control,0.0.1,Jop Zitman,,2654,Placeholder for Polars Nanook. Real release coming soon.
+2026-10-26T14:29:47Z,beefcot,1.0.3,,,299352,"Carcass yield models and cutting plans: one YAML in, one delivered model out"
+2026-10-26T14:29:56Z,kirimi-multipart,0.1.0,,MIT,12613681,"Fast streaming multipart/form-data parser, written in Rust"
+2026-10-26T14:30:05Z,ffew-fightlog,0.1.0,MrManiak,,1063116,Alliance Auth plugin that turns EVE Online combat logs into searchable fights.
+2026-10-26T14:30:29Z,mocha-model-checking,0.1.0rc1,Alexander Bork <alexander.bork@cs.rwth-aachen.de>,MPL-2.0,200464,A teaching library for model checking algorithms for labelled transition systems.
+2026-10-26T14:31:03Z,deepfellow,0.1.0,Simplito sp. z o.o.,,9264,Alias for deepfellow-cli — Privacy-First AI Infrastructure Framework. Visit deepfellow.ai
