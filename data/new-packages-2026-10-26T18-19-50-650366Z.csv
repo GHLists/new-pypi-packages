@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T17:20:25Z,sqx,0.0.0,,Apache-2.0,2006,"SQL with proof: build, run and prove your SQL models. Placeholder for the upcoming release."
+2026-10-26T17:22:26Z,pertkit,0.1.0.dev0,albertlieyingadrian,MIT,86503,"Pseudo-bulk, perturbation baselines, calibrated metrics and bootstrap statistics for evaluating virtual-cell models."
+2026-10-26T17:22:29Z,entropy-decision-tree,0.1.0,Ashish Singh,MIT,290204,"A from-scratch decision tree classifier based on entropy and information gain, with tree display."
+2026-10-26T17:25:02Z,trace-agent-pydantic-ai,0.2.0,"Enrique Javier Villar Cea <villarcea.enriquejavier@gmail.com>, Javier Rodriguez Castellano <javirod…",MIT,21335,Pydantic AI capability integration for TraceAgent.
+2026-10-26T17:25:50Z,eurola-geo-kin-core,0.1.1,,MIT,97563,"Public core for geo-kin retargeting: typed messages, solver protocol, robot spec tooling, and a mink-based fallback solver."
+2026-10-26T17:27:13Z,ezytools,0.1.0,,LicenseRef-Proprietary,17262,A Python utility library for Yapper bot developers
+2026-10-26T17:28:12Z,eurola-xrt-devices,0.1.1,kczttm,MIT,208709,Public Python XRT and MediaPipe teleoperation input devices
+2026-10-26T17:31:30Z,mikan-sdk,0.5.2.1rc5,,GPL-3.0-only,924690,Typed Python client for the mikan panel API
+2026-10-26T17:32:17Z,scaps-mcp,0.1.0,Abdullah Al Asif <asif.inc.bd@gmail.com>,MIT,268708,MCP server for running SCAPS-1D solar cell simulations
+2026-10-26T17:33:29Z,ecosemantic-engine,0.1.8,Carlos Gaete-Morales <cdgaete@gmail.com>,PolyForm-Noncommercial-1.0.0,87598,"The EcoSemantic product-system vocabulary, its typed errors, and the exact LCA computation."
+2026-10-26T17:33:31Z,ecosemantic-core,0.1.8,Carlos Gaete-Morales <cdgaete@gmail.com>,PolyForm-Noncommercial-1.0.0,249997,"The EcoSemantic ports, pure computations, portable format and filesystem storage."
+2026-10-26T17:33:33Z,ecosemantic-databases,0.1.8,Carlos Gaete-Morales <cdgaete@gmail.com>,PolyForm-Noncommercial-1.0.0,947864,Native EcoSemantic bundles built from a source database's own files.
+2026-10-26T17:33:35Z,ecosemantic-mcp,0.1.8,Carlos Gaete-Morales <cdgaete@gmail.com>,PolyForm-Noncommercial-1.0.0,104851,The EcoSemantic MCP tools and the server that registers them.
+2026-10-26T17:34:54Z,fateh-simple-decision-tree,0.1.1,Fateh Cherrad,MIT,13645,"A small decision tree using entropy and information gain, from scratch."
+2026-10-26T17:35:36Z,umf-core,0.10.2,,MIT OR Apache-2.0,9529018,Official Python document models and extension machinery for UMF
+2026-10-26T17:36:03Z,korvus-browser,152.0.0,Trevor Kang,BUSL-1.1 — see the project LICENSE,6905,Launcher for the korvus browser engine (downloads and runs the matching release binary)
+2026-10-26T17:36:06Z,devagent-ignition,0.1.1,DevAgent contributors,,1633056,Offline industrial HMI engineering and Ignition Perspective candidate tools (production deployment not qualified)
+2026-10-26T17:40:01Z,ploom,0.1.1,Adil Zouitine,Apache-2.0,68670,"Deterministic concurrency model checking for Python, inspired by Loom."
+2026-10-26T17:42:10Z,irctc-api,1.0.0,IRCTC Developer Network <support@irctc.dev>,MIT,25891,"Official Python client for Indian Railways API (irctc.dev) - PNR, Live Train GPS, Station Boards, and Fare Breakup."
+2026-10-26T17:42:31Z,ansible-heal-agent,0.2.0,Marcus Patman,MIT,265994,"Autonomous agent that scans Ansible logs, diagnoses failures, patches playbooks, commits, and re-runs the pipeline."
+2026-10-26T17:45:17Z,rulestamp-kotei-shisan-daicho-csv-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37283,"固定資産台帳 CSV を措法67条の5で検査。2026-04-01取得から上限30万→40万円、年300万円枠、従業員400人以下。サンプル台帳 _fixtures/dirty.csv（事業年度2026-01-01〜2026-12-31・従業員45人）で10件、特例の対象外 ¥1,050,000。12月決算の確定申告期限は2027-03-01。 (bundled Node.js runtime)"
+2026-10-26T17:45:26Z,rulestamp-reisekosten-pruefer-2026,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37040,"15 Checks für exportierte Reisekostenabrechnungen: 28,00 Euro Verpflegungspauschale erst ab 24 Stunden, 14,00 Euro darunter, 5,60 Euro Kürzung fürs Frühstück (20 Prozent), 11,20 Euro je Hauptmahlzeit…"
+2026-10-26T17:45:27Z,langchain-kjarni,0.1.0,Ólafur Aron Jóhannsson,MIT,18863,"LangChain integration for Kjarni: local embeddings in your own process, with no PyTorch, no ONNX Runtime and no server."
+2026-10-26T17:45:31Z,llama-index-embeddings-kjarni,0.1.0,Ólafur Aron Jóhannsson,MIT,9612,"LlamaIndex embeddings with Kjarni: local models in your own process, with no PyTorch, no ONNX Runtime and no server."
+2026-10-26T17:45:44Z,fast-mldsa,0.1.0,Anton Kueltz <kueltz.anton@gmail.com>,CC0-1.0,38419515,Fast module-lattice digital signatures
+2026-10-26T17:45:44Z,rulestamp-runtime-eol-deploy-block-audit,0.1.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33284,"Finds the end-of-life runtimes an AI assistant still writes for you — node:20, python3.9, ubuntu-22.04, nodejs20.x — and prints the exact date each one stops deploying. (bundled Node.js runtime)"
+2026-10-26T17:46:01Z,rulestamp-security-headers-csp-lint,0.1.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36265,"Reads security headers and CSP line by line in your config file and names the lines that silently do nothing: retired headers, keywords missing their quotes, directives the browser throws away. (bund…"
+2026-10-26T17:46:42Z,system-prompt-builder,0.1.1,,AGPL-3.0-or-later,51263,Compose reproducible system prompts from Markdown and reusable skills.
+2026-10-26T17:47:08Z,moesh,0.2.0a2,Moe Shawky <57296463+moeshawky@users.noreply.github.com>,Apache-2.0,175281,"An SSH-like encrypted remote shell: Noise_XX over an HTTP/1.1 Upgrade, with a persistent shell"
+2026-10-26T17:50:18Z,ballotdata,1.0.0,BallotData <api@ballotdata.net>,MIT,126069,"The official Python client for the BallotData API: elections, contests, endorsers, endorsements and a live stream of endorsement changes for every U.S. ballot."
+2026-10-26T17:50:54Z,s3shift,0.1.0,Frank Zhang,MIT,11683,"A truly serverless Redshift on your own AWS account: Redshift SQL on DuckDB in a Lambda, over your S3 and RDS data, ≈ $0 when idle. redshift_connector API: from s3shift import redshift_connector."
+2026-10-26T17:51:59Z,crimepy,0.1.0,Corey Rayburn Yung <coreyrayburnyung@gmail.com>,Apache-2.0,476559,"Accessible tools for downloading, combining, munging, analyzing, and plotting crime data"
+2026-10-26T17:52:04Z,pysenn,0.1.0,Alessio Parolini <alepar.ap9@gmail.com>,,16381,"pysenn - A Python package, based on PyTorch, to build Self Expanding Neural Networks and train them with an optimezed process."
+2026-10-26T17:52:28Z,fivetran-connector-sdk-core,0.1.0,Fivetran <developers@fivetran.com>,Fivetran Connector SDK Core License Agreement,123984,The core that runs a Fivetran Connector SDK connector on your machine and writes what it emits to DuckDB
+2026-10-26T17:53:17Z,verbalis,0.1.0a1,Software Mansion,MIT,630202,"Rewrites text the way it is read aloud: numbers, dates, symbols, abbreviations, and web addresses as words."
+2026-10-26T17:53:41Z,bilkatogo,0.2.0,Nick Nissen,MIT,41034,Async client and CLI for tracking BilkaToGo orders.
+2026-10-26T17:54:23Z,vulpix,2.1,,,99146,
+2026-10-26T17:55:17Z,session-mesh-mcp,0.2.0,Shashank Tripathi <shashanktripathi.st15a@gmail.com>,MIT,310340,"Model Context Protocol multi-agent coordination kernel, cross-session mesh, and context firewall."
+2026-10-26T17:55:22Z,novilabs-reports,0.dev0,Novi Labs <devops@novilabs.com>,,822,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-26T17:55:23Z,novilabs-type-curve-workflows,0.dev0,Novi Labs <devops@novilabs.com>,,838,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-26T17:55:24Z,novilabs-arps-py,0.dev0,Novi Labs <devops@novilabs.com>,,824,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-26T17:55:25Z,novilabs-eva-unit-core,0.dev0,Novi Labs <devops@novilabs.com>,,832,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-26T17:56:55Z,sback,0.1.0,Alexey Matveev,MIT,63828,Простая настройка бэкапов на серверах
+2026-10-26T17:57:46Z,lab0-git-polito,0.1.0,,GPL-3.0-or-later,107807,Learn git by playing: rules to satisfy on a real repository while a Gremlin breaks things
+2026-10-26T18:00:57Z,know-your-soul,0.1.0,,,1090274,"Standalone deterministic knowledge and learning graph for Hermes Agent; no model, provider, or vector calls."
+2026-10-26T18:03:06Z,shiftcheck,0.4.0,,MIT,200008,"Characterize distribution shift: marginal, transformation-compatibility and dependence diagnostics with uncertainty."
+2026-10-26T18:04:10Z,bowman,0.1.0,Joao Lopes,MIT,91969,"Local URI trust, authentication, validity, tracing, and elevation framework."
+2026-10-26T18:04:12Z,district-charter,0.1.0,Joao Lopes,MIT,38636,Public HTTPS tunnel backends used by District.
+2026-10-26T18:04:15Z,district,1.0.1,Joao Lopes,MIT,962395,Cross-platform local execution control plane for humans and coding agents.
+2026-10-26T18:04:19Z,maire,0.1.0,Joao Lopes,MIT,61800,"Install, configure and uninstall tools and plugins with reversible steps."
+2026-10-26T18:05:46Z,linx-bbn,0.1.4,"Cara Giovanetti, Mariangela Lisanti, Hongwan Liu, Siddharth Mishra-Sharma, Joshua T. Ruderman",MIT,1860563,"A fast, differentiable, and extensible Big Bang Nucleosynthesis package in JAX"
+2026-10-26T18:08:06Z,compipar-validator,0.1.1,Danny Zimmer,MIT,26341,Validate Compi parameter files against parameters.metadata.json
+2026-10-26T18:13:30Z,spatialdata-js-util,0.1.0,SpatialData.js contributors,MIT,576569,"Read/write utilities for browser-oriented SpatialData stores (image codecs, Morton-indexed points, CSC tables)"
+2026-10-26T18:15:02Z,recallfsck,0.2.0rc2,,MIT,67881,Deterministic lifecycle integrity experiments for AI knowledge indexes
+2026-10-26T18:19:41Z,controlresell-sdk,1.0.0,,Apache-2.0,314492,Python SDK for the ControlResell public API.
