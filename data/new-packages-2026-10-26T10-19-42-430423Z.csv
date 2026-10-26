@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T09:20:21Z,seds-simple-regression,0.1.0,imad,MIT,6050,Simple linear regression from scratch (SEDS lab)
+2026-10-26T09:22:34Z,exca-mcp,0.1.0,,,502330,A local MCP server for creating and editing Excalidraw documents
+2026-10-26T09:24:00Z,puppetcam,0.1.0,,MIT,85691,"An animated avatar for your video calls. Runs 100% locally on CPU, no training, no cloud."
+2026-10-26T09:29:38Z,stocksenate,1.0.0,QuotaFuse,Apache-2.0,407749,StockSenate: multi-role AI investment research senate (analysis and backtest simulation only)
+2026-10-26T09:30:01Z,manyfutures,0.1.0,Thomas Pinder,MIT,375714,"A household's retirement plan run over many simulated futures: the chance it runs short, and what moves it."
+2026-10-26T09:30:06Z,tevro,0.1.1,Kartik Gadad,MIT,28455,"A small decision model: picks one option and gives a probability for every option, in one forward pass"
+2026-10-26T09:31:13Z,transportation-ai999x,1.0.1,Ibnul Jaif Farabi,Apache-2.0,14897924,"Offline transportation solver: vehicle dynamics, braking and stopping distances, traffic flow, highway geometry, railway operations, route planning and transit capacity, with steps, LaTeX and honest…"
+2026-10-26T09:32:35Z,biomedical-science-ai999x,1.0.1,Ibnul Jaif Farabi,Apache-2.0,14947734,"Offline biomedical science solver: pharmacokinetics and dosing models, epidemic models, diagnostic test statistics, survival analysis, biomechanics, neuron models and medical-imaging physics (quantit…"
+2026-10-26T09:33:27Z,data-science-ml-ai999x,1.0.1,Ibnul Jaif Farabi,Apache-2.0,15412022,"Offline data science and machine learning solver: evaluation metrics, loss functions and gradients, classical machine-learning algorithms (k-means, kNN, naive Bayes, decision-tree splits, linear and…"
+2026-10-26T09:33:29Z,seds-rocket-demo-l3o,0.1.0,imad,MIT,6467,"Rockets, shuttles and circle rockets (SEDS lab)"
+2026-10-26T09:38:55Z,dwy-auth,0.1.0,,,110442,Google and email/password user sessions and independent administrator Cookie authentication for EAPI
+2026-10-26T09:39:25Z,seo-desk,0.1.0,Syed Anas,MIT,230135,"Is your site ready for AI search? SEO, AEO and GEO audits from the CLI, CI, Claude Code or MCP: AI crawler access, llms.txt, answer-ready pages, AI visibility tracking, and an AI analyst that writes…"
+2026-10-26T09:41:36Z,spe-engine,0.2.1,Peach LLC,MIT,183158,"Python SDK for the Spatial Intelligence Engine (SPE): spatial calibration, coordinate inspection, and an HTTP client."
+2026-10-26T09:42:15Z,slither-sim,0.5.0,,MIT,4667237,In-process slither-sim sessions for Python bots
+2026-10-26T09:42:53Z,llm-adb,0.1.0,,,157644,llm-adb: Token-efficient ADB wrapper for LLM agents
+2026-10-26T09:43:23Z,netbox-tools,1.1,Walter Doekes <wjdoekes+nbtools@osso.nl>,GPL-3.0-or-later,268637,"Tooling for netbox, think lint/sync/dig"
+2026-10-26T09:43:55Z,aptberg,1.1,Walter Doekes <wjdoekes+aptberg@osso.nl>,GPL-3.0-or-later,294691,"Apt mirror in S3 with immutable snapshots and staged channels (cur, acc, prod)"
+2026-10-26T09:44:04Z,aice-sandbox,0.2.0,Adanian Labs <engineering@adanianlabs.io>,MIT,20893,Python SDK for the AICE Sandbox Service
+2026-10-26T09:44:07Z,nusmods-api,0.1.0,kommade,,18950,A Python wrapper for the NUSMods API
+2026-10-26T09:46:11Z,hardcap,0.1.0,Sai Kiran Kalidindi,Apache-2.0,618210,LLM-aware gateway that enforces per-tenant token budgets across replicas without overshooting.
+2026-10-26T09:54:05Z,dwy-device-fingerprint,0.1.1,,MIT,29887,Application-scoped device fingerprints using native OS identity and the Python standard library
+2026-10-26T09:56:48Z,archivefs,0.2.0,Swarbrick Lab,Apache-2.0,683455,"Read-only fsspec filesystems for scientific data archives (EGA, Zenodo, Mendeley Data, cBioPortal, GEO, BioImage Archive)."
+2026-10-26T09:57:57Z,metalc,0.1.0,,,538962,"Ensemble topic modelling (LDA and NMF-GKL) for microbiome ASV tables: pooled topics clustered into meta-LCs in a shared Hellinger geometry, then fixed-W inference."
+2026-10-26T09:58:05Z,skejja,0.1.0,,Apache-2.0,63287,"Small local System One decision model (Choice, Noul, Score) with a /v1/systemone compatible API"
+2026-10-26T09:59:42Z,rqark-core,0.4.1,,,149201,Red Queen Ark Core Agent Library
+2026-10-26T10:00:57Z,university-trending,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,26722,"University Trending: configurable trending engine (velocity, engagement, recency, shares, comments, views) for the University platform."
+2026-10-26T10:01:58Z,type-survivors-cli,0.1.0,Shreyas S Joshi,MIT,16938753,Type Survivors: a typing-survivors terminal game (Textual).
+2026-10-26T10:04:02Z,pikauia-model,0.0.0,Kausable <devops@kausable.ai>,,2027,"Reserved name. Not a usable package: pikauia-model is part of the Pikauia runtime and is installed from kausable's releases, not from PyPI."
+2026-10-26T10:04:04Z,pikauia-workbench,0.0.0,Kausable <devops@kausable.ai>,,2059,"Reserved name. Not a usable package: pikauia-workbench is part of the Pikauia runtime and is installed from kausable's releases, not from PyPI."
+2026-10-26T10:04:06Z,mip-core,0.0.0,Kausable <devops@kausable.ai>,,1980,"Reserved name. Not a usable package: mip-core is part of the Pikauia runtime and is installed from kausable's releases, not from PyPI."
+2026-10-26T10:04:08Z,model-bundle,0.0.0,Kausable <devops@kausable.ai>,,2022,"Reserved name. Not a usable package: model-bundle is part of the Pikauia runtime and is installed from kausable's releases, not from PyPI."
+2026-10-26T10:06:46Z,university-search,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,31610,University Search: permission-aware search with database (PostgreSQL full-text) and OpenSearch/Elasticsearch backends for the University platform.
+2026-10-26T10:08:06Z,tac_two,1.0.0,Begoyim Kosimova,Apache 2.0,207811,A two-level tic-tac-toe game
+2026-10-26T10:10:03Z,cejsp,0.4.1,Planning and Scheduling Research Group,MIT,135987,CEJSP: JSP Complexity Estimator for job shop scheduling instances
+2026-10-26T10:10:18Z,byteplussdk-storageebs,0.0.1,byteplus-sdk,Apache License 2.0,1011,Name reservation for the Byteplus Python SDK split package byteplussdk-storageebs
+2026-10-26T10:10:24Z,byteplussdk-sts,0.0.1,byteplus-sdk,Apache License 2.0,959,Name reservation for the Byteplus Python SDK split package byteplussdk-sts
+2026-10-26T10:10:31Z,byteplussdk-tag,0.0.1,byteplus-sdk,Apache License 2.0,960,Name reservation for the Byteplus Python SDK split package byteplussdk-tag
+2026-10-26T10:10:37Z,byteplussdk-transitrouter,0.0.1,byteplus-sdk,Apache License 2.0,1033,Name reservation for the Byteplus Python SDK split package byteplussdk-transitrouter
+2026-10-26T10:15:20Z,source-to-skill,0.7.0,Michal Strnadel,MIT,290009,"Turn YouTube videos, podcasts, meetings, papers, books, articles, repos, docs sites (llms.txt), notes, Office files and HN/Reddit threads into AI agent skills for Claude Code, Codex, Cursor, Gemini C…"
+2026-10-26T10:15:39Z,skcure,0.1.0a1,scikit-cure contributors,GPL-3.0-or-later,711299,Cure models with the scikit-survival estimator API
+2026-10-26T10:17:15Z,kengash-ai,0.1.0,normatov13,MIT,1024248,"Run many projects at once with subscription coding-agent CLIs (Claude Code, Codex, Antigravity)."
+2026-10-26T10:17:18Z,rocket-nour03112005,1.0.0,Ton nom,,3032,Package for rockets
