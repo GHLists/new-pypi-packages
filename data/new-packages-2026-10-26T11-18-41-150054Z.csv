@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T10:20:31Z,media-converter,0.3.2,Arkaprovo Das <arkaprovodas2004@gmail.com>,Apache-2.0,34987,Professional image & audio format converter
+2026-10-26T10:20:44Z,pymonomusic,1.0.1,lostssss <imaginegameservice@gmail.com>,,8083,Python bindings for the Monochrome Tracks API.
+2026-10-26T10:20:45Z,csp-format,0.1.0,nanikasheila,MIT,317508,"Read CLIP STUDIO PAINT files (.clip, .cmc) and its other files with the Python standard library only"
+2026-10-26T10:20:46Z,smart-router-ns,0.1.0,,MIT,14782,"Plug-and-play LLM router for agents, MCP tools, and models"
+2026-10-26T10:23:07Z,cairn-contracts-dataset,1.2.0,cairn maintainers,Apache-2.0,65838,"Shared contract definitions for the dataset capability domain (dataset.decontam, dataset.provenance, dataset.sample, dataset.gate; 1.1.0 adds dataset.publish_fingerprints, dataset.anonymize, dataset.…"
+2026-10-26T10:23:22Z,linxsci,0.3.1,,,187575,LinxSci OpenAPI v2 CLI and Python client
+2026-10-26T10:27:05Z,power-fm-foresight,0.3.1,,"Apache License Version 2.0 Apache License Version 2.0, January 2004 http://www.apache.org/licenses/…",283655,Probabilistic power-system forecasts with a frozen GENCO model
+2026-10-26T10:27:53Z,industrial-connect,0.1.0,,Apache-2.0,115607,"Small, independently usable industrial Python connectors"
+2026-10-26T10:28:41Z,mitre-attack-mcp,0.1.1,gsbadhan,Apache-2.0,454833,MITRE ATT&CK MCP server for AI agents
+2026-10-26T10:29:16Z,bakalari,1.0.0,Róbert Malovec,MIT,533023,"Unofficial Python client, CLI and MCP server for the Bakaláři school information system REST API v3: timetable, marks, absence, homeworks, Komens messages and more, standard library only."
+2026-10-26T10:29:50Z,codepulse-engine,0.1.0,Dhairya Chhabra,MIT,578799,"Local-first code intelligence engine: hybrid keyword, semantic and call-graph search and impact analysis for developers and AI agents, over a CLI, a REST API and an MCP server."
+2026-10-26T10:30:35Z,viewo-api,1.0.1,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,24477,
+2026-10-26T10:31:14Z,yxd-tlpt-private-lib,0.1.0,,,2189495,
+2026-10-26T10:31:41Z,tokz-opendecision,0.1.0.post1,Abdallah Alwarawreh <abood@tokz.dev>,Apache-2.0,81024,Open encoder models for fast decisions over runtime-defined options.
+2026-10-26T10:31:45Z,graph-probe,0.1.0,amir-mo1999,,2158,Metamorphic behaviour testing for agents on Neo4j knowledge graphs
+2026-10-26T10:33:37Z,vox-tts,0.19.4,Daria,Apache-2.0,21906492,"vox: native text-to-speech inference engine (Qwen3-TTS, F5-TTS, Kokoro, CosyVoice2, Chatterbox; C++, CLI, Python, Vulkan, WebGPU)"
+2026-10-26T10:35:28Z,leo-mcp,0.3.0,Ismael Manzano Leon <manzzaano@pm.me>,,269942,"MCP server that gives your coding agent the real call graph of your repo (where / who_calls / impact / trace / guard, cited file:line) plus compressed AST context."
+2026-10-26T10:36:26Z,fgtts,0.1.0,fg <2329880191@qq.com>,MIT,7381,A Python module for calling free TTS APIs - no API key required
+2026-10-26T10:37:53Z,cairn-contracts-dataset-stages,1.4.0,cairn maintainers,Apache-2.0,52689,"Shared stage contracts for the dataset readiness kernels (dataset.stage.*, cairn.stage/1, ADR-0118)."
+2026-10-26T10:38:07Z,tc-cwi,0.1.1,"Arnaud Deraemaeker (ULB), Damiano Gianotti (Zensor), Jasmien Hassanin (IZFP), Jitendra Kumar Sharma…",MIT,17387,Python toolbox to apply EOC compensation algorithms to ultrasonic testing data.
+2026-10-26T10:41:16Z,synapse-memory-engine,1.3.0,Synapse Cognitive Systems,,217851,"Production-grade active RAG & cognitive memory engine with multi-tenancy, pgvector HNSW indexing, semantic deduplication, decay-based pruning, and token-aware context packing."
+2026-10-26T10:42:01Z,sara-linear-regression-practice-2026,0.1.0,Sara,,6154,A simple Linear Regression model in Python
+2026-10-26T10:42:22Z,rota-order,0.3.0,Zhenxian Li,GPL-3.0-or-later,433472,Rotational order tracking and analysis for noise and vibration signals
+2026-10-26T10:44:10Z,conftee,0.2.2,eerieA,MIT,121747,"Check that a config file conforms to a template with typed, named holes."
+2026-10-26T10:50:01Z,cairn-contracts-training,1.0.0,cairn maintainers,Apache-2.0,15879,"Shared contract definitions for the training capability domain (train.run, train.teardown)."
+2026-10-26T10:51:24Z,enola-guides,0.8.0,Muhamed Isabegovic,Apache-2.0,154362,"The enola guides, examples, laws, skills, hooks, recipes and templates, listed, shown and copied from one command"
+2026-10-26T10:52:01Z,seismoscope,0.10.0,Seismoscope Maintainers,MIT,762658,Seismoscope (候风) — security audit & verification platform for the Vibe Coding era
+2026-10-26T10:52:05Z,amazon-scraping,0.1.0,Buğrahan Saka,MIT,32294,"Scrape Amazon product data, every color/size variation and all seller offers with Python."
+2026-10-26T10:54:15Z,cairn-contracts-training-stages,1.2.0,cairn maintainers,Apache-2.0,31104,"Shared stage contracts for the training domain's ml-flow kernels (sample.fidelity, train.qlora, eval.checkpoints, package.adapter)."
+2026-10-26T10:54:32Z,geopyspark-openeo,0.4.10,"Jacob Bouffard, James McClain",LICENSE,90782,Python bindings for GeoTrellis - openEO Fork
+2026-10-26T10:55:29Z,agentarts-demo-mcp,0.1.0,,,8273,AgentArts 自研示例 MCP：服务器时间查询 + 文本统计
+2026-10-26T10:55:40Z,ndaga-fijo,1.0.0,festomanolo,GPL-3.0-or-later,1696462,"Create bootable USB drives on macOS from ISO and disk images: fast, safe, and Windows-ready. Based on Rufus."
+2026-10-26T10:58:33Z,ox-train,0.6.1,ox contributors,MIT,402435,Plain text training log parser and analyzer
+2026-10-26T10:58:54Z,cairn-operator-dataset-checks,0.1.0,cairn maintainers,Apache-2.0,324802,"Dataset readiness for cairn: deterministic checks (format, dedup, decontamination, PII, profile, provenance, split) as governed operations, and the admission and cleaning kernels as dataflow stages."
+2026-10-26T11:00:02Z,fitstitch,0.1.0,Jordi Mallach <jordi@mallach.net>,MIT,53187,"Join accidentally split FIT activities back into one, losslessly, from any device (Garmin, Suunto, Wahoo, Coros...)"
+2026-10-26T11:00:26Z,owaspscan,0.13.0,Isaac Shepan Daber <isaacshepan@gmail.com>,Apache-2.0,63779,"Simple, extensible OWASP Top 10 web scanner for apps you are authorized to test."
+2026-10-26T11:00:43Z,horus-sdk,0.4.0b1,bugdeployer,GPL-3.0-only,38076,Explicit runtime capture for Python applications
+2026-10-26T11:01:18Z,safeshell-cli,0.2.0,Aditya,MIT,60589,A transactional command execution framework with AI-generated undo plans and OverlayFS-based simulation.
+2026-10-26T11:02:44Z,nlp-components-library,0.1.0,Simon Münker,,102780,"Reusable inference, analysis and configuration components for NLP and LLM experiment pipelines"
+2026-10-26T11:02:52Z,topologysegmentation,0.1.0,proninegor <pr0n1n3@yandex.ru>,MIT AND Apache-2.0,134372,Losses and metrics for topology-aware image segmentation
+2026-10-26T11:04:40Z,notideck,0.1.0rc1,,Apache-2.0,1468054,One Platform. Every Notification. Self-hosted notification routing and delivery.
+2026-10-26T11:07:13Z,swarmbench,1.0.0,Nikolaos Pavlidis,Apache-2.0,395281,A benchmark for strategic edge nodes in battery-coupled proportional-share (Kelly) markets
+2026-10-26T11:07:19Z,lairen,0.1.0,igamenovoer,MIT,41846,Store CLI-agent credentials and deploy them into target homes.
+2026-10-26T11:07:24Z,visualrag,0.1.0.dev1,Saurabh Yadav,MIT,85255,"Multimodal visual context extraction from screen shares, meeting recordings and real-world videos for Video RAG pipelines"
+2026-10-26T11:07:38Z,RAG-HPO,0.1.0,Rouven Reuter,MIT License Copyright (c) 2024 Jennifer Posey Lab @ Baylor College of Medicine Permission is hereby…,212848,HPO RAG as implemented by Brandon T. Garcia 2025.
+2026-10-26T11:09:43Z,cairn-operator-training,0.1.0,cairn maintainers,Apache-2.0,173758,"SFT for cairn: one Unsloth QLoRA/LoRA trainer as flow stages (sft-train, DPO, distill) that an engine runs on a CUDA GPU box, plus the stub and CPU/MPS local trainers."
+2026-10-26T11:10:12Z,sb3-team-hf-integration,3.2,"""Thomas Simonini, Omar Sanseviero and Hugging Face Team"" <thomas.simonini@huggingface.co>",Apache-2.0,23329,Additional code for Stable-baselines3 to load and upload models from the Hub.
+2026-10-26T11:11:41Z,vegaduta-agent,0.1.0,VegaDūta contributors,Apache-2.0,155877,"Governance for AI agents in Python: tool risk classification, human approval, budgets, idempotent effects, guardrails, hooks, audit and telemetry."
+2026-10-26T11:14:30Z,cairn-pack-dataset-prep,0.1.0,cairn maintainers,Apache-2.0,37478,"cairn domain pack: prepare a dataset once into registered train, val and test versions."
+2026-10-26T11:15:45Z,batonvm,0.1.0,,MIT,20532,Cloud browsers for agents that keep running while they move between machines
+2026-10-26T11:17:03Z,git-sfs,2.0.0,,MIT,263843864,"Large file storage using Git symlinks, with rclone included"
