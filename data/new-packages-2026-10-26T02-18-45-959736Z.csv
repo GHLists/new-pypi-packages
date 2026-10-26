@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T01:20:52Z,OpenHFDS,0.1.0,Tyler Porter <tyler.b.porter@gmail.com>,MIT,21280,An open implementation of HellFighter Directory Server
+2026-10-26T01:24:26Z,ekbatan-py-db-scheduler,0.1.0,,Apache-2.0,1388254,"A port of kagkarlsson/db-scheduler: persistent, cluster-friendly scheduling on the database you already have."
+2026-10-26T01:24:42Z,ekbatan,0.1.0,Hossein Bakhtiari,Apache-2.0,6780204,"A persistence framework for event-driven systems, with an ergonomic built-in outbox pattern."
+2026-10-26T01:25:52Z,pytreeds,0.1.0,pytreeds contributors,MIT,13995,Beginner-friendly rooted trees with consistent string navigation and traversal
+2026-10-26T01:26:03Z,campus-auth,1.0.0,young-ski,MIT,111646,Dr.COM / eportal 校园网门户认证客户端，适配层按学校可插拔
+2026-10-26T01:29:16Z,scamgate,0.3.3,Odai Ameera,MIT,653322,Self-hosted scam check for AI agents: verify links and payments before they act
+2026-10-26T01:35:31Z,shade-plugins-telegram,0.1.0,ShadeOne,Apache-2.0,17425,"Enviar mensagem e documento pela Bot API do Telegram, sem nunca repetir um envio depois de despachado."
+2026-10-26T01:37:16Z,section-anything,0.1.0,The Section Anything Authors,Apache-2.0,138912,"Find the sections of a PDF (headings, levels, page and character spans), from free rules to LLM review, with hard cost caps."
+2026-10-26T01:37:56Z,tiktok-safe-zone-notes,0.1.0,andy,MIT,8787,Notes on the TikTok Safe Zone: Why the Numbers Matter More Than the Frame
+2026-10-26T01:39:16Z,llama-index-vector-stores-ngt,0.1.0,Masajiro Iwasaki <masajiro.iwasaki@gmail.com>,MIT,13124,LlamaIndex vector store integration for NGT (Neighborhood Graph and Tree)
+2026-10-26T01:46:48Z,zerowidth,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT AND Unicode-3.0,70612,"Detect, reveal and strip zero-width, bidi and other invisible characters, keeping emoji and words intact"
+2026-10-26T01:47:01Z,unidash,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,40657,Fold Unicode dashes and punctuation to plain ASCII while leaving letters untouched
+2026-10-26T01:47:16Z,tabstops,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,45925,"Expand and unexpand tabs like str.expandtabs and the POSIX tools, with tab stop lists and display columns"
+2026-10-26T01:47:30Z,colfit,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,64224,"Fit text to terminal columns: grapheme-aware width, truncate, pad, wrap and columnize"
+2026-10-26T01:58:59Z,supa,0.1.0,"supa, inc.",Apache-2.0 AND MIT,54037,"Local secret scanning with supaguard, by supa, inc."
+2026-10-26T02:08:55Z,font-render-server,1.1.0,,MIT,118042,Font rendering comparison service using Windows DirectWrite (headless Chromium)
+2026-10-26T02:09:56Z,pak-geodata,0.1.0,The Mohsin Project Global,,56755,"Comprehensive, typed, offline geographic data for all areas and cities in Pakistan"
+2026-10-26T02:11:48Z,yt-dlp-controller,0.1.0,Moha-Master <hongkongreporter@outlook.com>,MIT,128596,基于 Textual 的 yt-dlp 图形化终端界面
+2026-10-26T02:12:31Z,cells-log,0.2.2,PYLAB,MPL-2.0,29908,"Structured, bootstrap-safe logging kernel for Python services and CLI applications."
+2026-10-26T02:14:10Z,astro-checker,0.1.0,Louis Perner,MIT,64007,"MCP server giving AI assistants direct access to public astronomy archives (TNS, SIMBAD, VSX, Gaia, ExoFOP, ALeRCE/ZTF, Fink/Rubin, SkyBoT)"
+2026-10-26T02:18:37Z,devlanes,0.0.0,Arthur Fiorette,,2164,Add your description here

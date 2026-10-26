@@ -8,41 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 01:19 UTC
+## Latest list — 2026-10-26 02:18 UTC
 
-New packages created between 2026-10-26 00:19 UTC and 2026-10-26 01:19 UTC.
+New packages created between 2026-10-26 01:19 UTC and 2026-10-26 02:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-26T01-19-54-61772Z.csv)
+[Full CSV](data/new-packages-2026-10-26T02-18-45-959736Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-26 00:19:47 | [agentmemdb](https://pypi.org/project/agentmemdb/) | 0.1.0 | Harsh Gulhane | 68.3 kB | Local-first, shared long-term memory for AI agents: one SQLite database for Cla… |
-| 2026-10-26 00:22:51 | [totalsegmentator-mlx](https://pypi.org/project/totalsegmentator-mlx/) | 0.1.1 | Joseph Sandoval, Alfredo Sand… | 62.4 kB | TotalSegmentator v2 CT segmentation with native MLX inference on Apple Silicon |
-| 2026-10-26 00:25:37 | [honeyc](https://pypi.org/project/honeyc/) | 0.3.0 |  | 53.1 kB | A compiler and CLI for Dense Rune-Chain Notation |
-| 2026-10-26 00:25:52 | [corcc](https://pypi.org/project/corcc/) | 0.3.0 |  | 15.6 kB | Chain-of-Reasoning Compiler-Compiler — spoken reasoning + persona-melt gauge |
-| 2026-10-26 00:26:07 | [skillchain-compiler](https://pypi.org/project/skillchain-compiler/) | 0.3.0 |  | 10.5 kB | Compose Claude Code skills into a validated, packaged chain |
-| 2026-10-26 00:26:20 | [sccc](https://pypi.org/project/sccc/) | 0.3.0 |  | 11.6 kB | Skillchain Compiler-Compiler — chains ACs + CoRs + skills into one SKILL.md |
-| 2026-10-26 00:27:11 | [bitwig-agent](https://pypi.org/project/bitwig-agent/) | 0.1.2 |  | 446.9 kB | Thin stdio MCP adapter for the local Bitwig Controller Extension |
-| 2026-10-26 00:39:53 | [twhy](https://pypi.org/project/twhy/) | 0.2.0 | Jason L Weirather | 353.7 kB | Zoomable microscopy, image and PDF previews in a text terminal |
-| 2026-10-26 00:47:29 | [segresnet-mlx](https://pypi.org/project/segresnet-mlx/) | 0.2.1 | Joseph Sandoval, Alfredo Sand… | 78.3 kB | Native MLX SegResNet with NumPy sliding-window logit inference |
-| 2026-10-26 00:49:11 | [medsam2-mlx](https://pypi.org/project/medsam2-mlx/) | 0.2.1 | Joseph Sandoval, Alfredo Sand… | 139.9 kB | Native MLX implementation of MedSAM2 |
-| 2026-10-26 00:49:39 | [ft-tui](https://pypi.org/project/ft-tui/) | 0.2.2 |  | 624.6 kB | Offline-first terminal workspace for École 42 students |
-| 2026-10-26 00:51:08 | [radimagenet-mlx](https://pypi.org/project/radimagenet-mlx/) | 0.2.1 | Joseph Sandoval, Alfredo Sand… | 50.5 kB | Native MLX implementation of RadImageNet |
-| 2026-10-26 00:52:15 | [kanad](https://pypi.org/project/kanad/) | 0.0.1 | Kamal Choudhary <drkamal@jhu.… | 10.7 kB | kanad |
-| 2026-10-26 00:53:00 | [shade-plugins-whatsapp](https://pypi.org/project/shade-plugins-whatsapp/) | 0.1.0 | ShadeOne | 16.3 kB | Enviar mensagem de texto e de modelo pela WhatsApp Business Cloud API, sem nunc… |
-| 2026-10-26 00:54:23 | [Image-pipeline-processor](https://pypi.org/project/Image-pipeline-processor/) | 0.1.0 |  | 18.2 kB | Pipeline y biblioteca de procesamiento y aumento de imágenes por lotes |
-| 2026-10-26 00:54:26 | [takeloom](https://pypi.org/project/takeloom/) | 0.5.1 |  | 1.2 MB | Music Recording Session Manager |
-| 2026-10-26 00:54:35 | [rupaka](https://pypi.org/project/rupaka/) | 0.0.1 | Karthik <karthik.rajgopal@hot… | 607.9 kB | Interactive SVG demos from JSON specs, made of small reusable blocks, that make… |
-| 2026-10-26 00:55:33 | [msp-py](https://pypi.org/project/msp-py/) | 0.1.0a1 | hxh230802 | 372.9 kB | Model Sensing Protocol — a node-centric paradigm for decentralized AI communica… |
-| 2026-10-26 00:57:30 | [seren-lyceum](https://pypi.org/project/seren-lyceum/) | 1.0.0 | Chad Roesler | 174.2 kB | Train your own model without reading fifty papers first: a dataset in, a model… |
-| 2026-10-26 00:59:59 | [betapair](https://pypi.org/project/betapair/) | 0.1.0 | nicedata | 380.3 kB | Dependency-light Bayesian analysis of paired binary outcomes with a hierarchica… |
-| 2026-10-26 01:03:19 | [inspect-ranges](https://pypi.org/project/inspect-ranges/) | 0.2.0 | Meridian Labs | 1.6 MB | Inspect AI extension for ranges. |
-| 2026-10-26 01:06:56 | [dmsroute](https://pypi.org/project/dmsroute/) | 0.1.2 | Diego Fernández-Villegas, Seb… | 286.4 kB | Utilities for acquiring, parsing, validating, harmonizing, and standardizing DM… |
-| 2026-10-26 01:08:22 | [uag-envsec](https://pypi.org/project/uag-envsec/) | 0.1.0 | Hirofumi Ukawa <hirofumi@ukaw… | 47.5 kB | Standalone encrypted environment-file and key-management helpers |
-| 2026-10-26 01:09:12 | [fontpkg-dm-serif-text](https://pypi.org/project/fontpkg-dm-serif-text/) | 5.200 |  | 86.4 kB | DM Serif Text font family, packaged for Python by fontpkg |
-| 2026-10-26 01:09:15 | [fontpkg-hammersmith-one](https://pypi.org/project/fontpkg-hammersmith-one/) | 1.3 |  | 52.2 kB | Hammersmith One font family, packaged for Python by fontpkg |
-| 2026-10-26 01:09:17 | [fontpkg-rowdies](https://pypi.org/project/fontpkg-rowdies/) | 1.0 |  | 127.6 kB | Rowdies font family, packaged for Python by fontpkg |
-| 2026-10-26 01:09:19 | [fontpkg-sofia-sans](https://pypi.org/project/fontpkg-sofia-sans/) | 4.101 |  | 288.3 kB | Sofia Sans font family, packaged for Python by fontpkg |
-| 2026-10-26 01:10:46 | [ftw-fbp](https://pypi.org/project/ftw-fbp/) | 0.1.0 | Isaac Corley <isaac.corley@ta… | 63.2 kB | Field boundary prediction post-processing algorithms |
-| 2026-10-26 01:12:57 | [maskvault](https://pypi.org/project/maskvault/) | 0.1.0 | janbalitaan | 241.8 kB | Reversible anonymization with a vault: replace confidential values with tokens,… |
-| 2026-10-26 01:15:30 | [tickhub-cn](https://pypi.org/project/tickhub-cn/) | 1.0.1 | QuotaFuse | 512.5 kB | TickHub-CN (A股数据枢纽): A-share data MCP server, CLI and local import library |
+| 2026-10-26 01:20:52 | [OpenHFDS](https://pypi.org/project/OpenHFDS/) | 0.1.0 | Tyler Porter <tyler.b.porter@… | 21.3 kB | An open implementation of HellFighter Directory Server |
+| 2026-10-26 01:24:26 | [ekbatan-py-db-scheduler](https://pypi.org/project/ekbatan-py-db-scheduler/) | 0.1.0 |  | 1.4 MB | A port of kagkarlsson/db-scheduler: persistent, cluster-friendly scheduling on… |
+| 2026-10-26 01:24:42 | [ekbatan](https://pypi.org/project/ekbatan/) | 0.1.0 | Hossein Bakhtiari | 6.8 MB | A persistence framework for event-driven systems, with an ergonomic built-in ou… |
+| 2026-10-26 01:25:52 | [pytreeds](https://pypi.org/project/pytreeds/) | 0.1.0 | pytreeds contributors | 14.0 kB | Beginner-friendly rooted trees with consistent string navigation and traversal |
+| 2026-10-26 01:26:03 | [campus-auth](https://pypi.org/project/campus-auth/) | 1.0.0 | young-ski | 111.6 kB | Dr.COM / eportal 校园网门户认证客户端，适配层按学校可插拔 |
+| 2026-10-26 01:29:16 | [scamgate](https://pypi.org/project/scamgate/) | 0.3.3 | Odai Ameera | 653.3 kB | Self-hosted scam check for AI agents: verify links and payments before they act |
+| 2026-10-26 01:35:31 | [shade-plugins-telegram](https://pypi.org/project/shade-plugins-telegram/) | 0.1.0 | ShadeOne | 17.4 kB | Enviar mensagem e documento pela Bot API do Telegram, sem nunca repetir um envi… |
+| 2026-10-26 01:37:16 | [section-anything](https://pypi.org/project/section-anything/) | 0.1.0 | The Section Anything Authors | 138.9 kB | Find the sections of a PDF (headings, levels, page and character spans), from f… |
+| 2026-10-26 01:37:56 | [tiktok-safe-zone-notes](https://pypi.org/project/tiktok-safe-zone-notes/) | 0.1.0 | andy | 8.8 kB | Notes on the TikTok Safe Zone: Why the Numbers Matter More Than the Frame |
+| 2026-10-26 01:39:16 | [llama-index-vector-stores-ngt](https://pypi.org/project/llama-index-vector-stores-ngt/) | 0.1.0 | Masajiro Iwasaki <masajiro.iw… | 13.1 kB | LlamaIndex vector store integration for NGT (Neighborhood Graph and Tree) |
+| 2026-10-26 01:46:48 | [zerowidth](https://pypi.org/project/zerowidth/) | 0.2.0 | Javier Lianes <javier@lianes8… | 70.6 kB | Detect, reveal and strip zero-width, bidi and other invisible characters, keepi… |
+| 2026-10-26 01:47:01 | [unidash](https://pypi.org/project/unidash/) | 0.2.0 | Javier Lianes <javier@lianes8… | 40.7 kB | Fold Unicode dashes and punctuation to plain ASCII while leaving letters untouc… |
+| 2026-10-26 01:47:16 | [tabstops](https://pypi.org/project/tabstops/) | 0.2.0 | Javier Lianes <javier@lianes8… | 45.9 kB | Expand and unexpand tabs like str.expandtabs and the POSIX tools, with tab stop… |
+| 2026-10-26 01:47:30 | [colfit](https://pypi.org/project/colfit/) | 0.2.0 | Javier Lianes <javier@lianes8… | 64.2 kB | Fit text to terminal columns: grapheme-aware width, truncate, pad, wrap and col… |
+| 2026-10-26 01:58:59 | [supa](https://pypi.org/project/supa/) | 0.1.0 | supa, inc. | 54.0 kB | Local secret scanning with supaguard, by supa, inc. |
+| 2026-10-26 02:08:55 | [font-render-server](https://pypi.org/project/font-render-server/) | 1.1.0 |  | 118.0 kB | Font rendering comparison service using Windows DirectWrite (headless Chromium) |
+| 2026-10-26 02:09:56 | [pak-geodata](https://pypi.org/project/pak-geodata/) | 0.1.0 | The Mohsin Project Global | 56.8 kB | Comprehensive, typed, offline geographic data for all areas and cities in Pakis… |
+| 2026-10-26 02:11:48 | [yt-dlp-controller](https://pypi.org/project/yt-dlp-controller/) | 0.1.0 | Moha-Master <hongkongreporter… | 128.6 kB | 基于 Textual 的 yt-dlp 图形化终端界面 |
+| 2026-10-26 02:12:31 | [cells-log](https://pypi.org/project/cells-log/) | 0.2.2 | PYLAB | 29.9 kB | Structured, bootstrap-safe logging kernel for Python services and CLI applicati… |
+| 2026-10-26 02:14:10 | [astro-checker](https://pypi.org/project/astro-checker/) | 0.1.0 | Louis Perner | 64.0 kB | MCP server giving AI assistants direct access to public astronomy archives (TNS… |
+| 2026-10-26 02:18:37 | [devlanes](https://pypi.org/project/devlanes/) | 0.0.0 | Arthur Fiorette | 2.2 kB | Add your description here |
