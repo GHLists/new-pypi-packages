@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T12:21:47Z,lts-backup-cli,2.0.0,LTS <joaomartins@lts.pt>,BSD-3-Clause,129152,"LTS backup utility: per-server restic backups of Apache vhosts, MariaDB databases and folders over SSH/SFTP, with discovery and scheduled rotation."
+2026-10-26T12:23:08Z,pyborehole,0.2.0,Marios Karaoulis,MIT,159801,"Borehole backfill effect on resistivity (ERT), induction (EM) and natural gamma-ray logs"
+2026-10-26T12:28:01Z,ani-hq-engram-memory,0.1.0,Ani HQ,MIT,34333,Bounded shared-memory lifecycle for owned Python agent runtimes
+2026-10-26T12:29:40Z,embedbench,0.2.0,The embedbench authors,MIT,333028,"Benchmark text embedding models for retrieval quality, latency, memory and cost"
+2026-10-26T12:30:48Z,bulkbgremover,0.1.0,,MIT,9271,Local batch background removal with folder preservation and safe PNG output
+2026-10-26T12:32:13Z,aice-observability,0.2.0,Arnold Opiyo <arnoldopiyo@adanianlabs.io>,,123873,Unified OpenTelemetry-based observability layer for internal Python services
+2026-10-26T12:32:28Z,fromscratch-pystack,0.5.0,Rob Cox,MIT,256857,Every project in the from-scratch-in-Python series joined into one working platform
+2026-10-26T12:32:43Z,xferry,0.2.0,,MIT,1442562,Controlled HTTP toolkit for Secure Web Gateway testing
+2026-10-26T12:33:45Z,lapbar,0.1.1,rok_root,MIT,257608,Claude Code harness installer and cost-savings report: force cheap hands under an expensive head
+2026-10-26T12:37:40Z,riftguard,0.1.0,,MIT,53827,"Coordination layer for parallel AI coding agents: shared decisions, conflict judging, trajectories"
+2026-10-26T12:38:54Z,pracs,0.1.0,,,30486,Python utility module
+2026-10-26T12:39:11Z,django-py-translations,0.1.0,,MIT,47811,"Typed translations for Django model fields. JSON column by default, a translation table when you need indexes."
+2026-10-26T12:43:52Z,skillship,0.0.0,Stephan Eberle,,2347,"Resolve, lock and deliver curated subsets of Claude Code skills (placeholder release; under development)"
+2026-10-26T12:45:08Z,musictui-ros,0.1.0,RosarioLC,MIT,125998,A terminal-based music player with synced lyrics and ANSI half-block colour art
+2026-10-26T12:45:30Z,s-layer-semantic-formats,0.1.0,Anentropic,MIT,43352,"The S-LAYER semantic format vocabulary: typed models, normal form and JSON Schema"
+2026-10-26T12:46:01Z,praandro,0.1.0,,,71469,Python utility module
+2026-10-26T12:46:12Z,pramern,0.1.0,,,27145,Python utility module
+2026-10-26T12:46:15Z,prajira,0.1.0,,,30419,Python utility module
+2026-10-26T12:46:51Z,ismail,0.4.0,Nate Codes (newsbubbles),MIT,8313612,"A DAW for AI agents: write music as text, read the audio back as text, and play it live. MCP server, CLI and an agent skill."
+2026-10-26T12:47:36Z,sannce-aio,0.1.0,Paolo Bertinetti <paolobertinetti200f4@proton.me>,Apache-2.0,205183,Asyncio library for SANNCE/Tiandy wired IP cameras on the LAN
+2026-10-26T12:54:09Z,provium-dispatch,0.2.0,,MIT,83385,"Durable pipeline execution, queues, and input sets"
+2026-10-26T12:57:01Z,perezsky,1.0.0,Michael Wild <michael.wild@zhaw.ch>,MIT,56003,"Perez (1993) all-weather sky radiance and luminance distribution on a discretised sky, with plane irradiance, horizon masking and Radiance export."
+2026-10-26T12:59:12Z,nexscope-cli,0.1.0,Nexscope,Apache-2.0,301326,Offline product comparison reports and bounded Nexscope ecommerce data workflows
+2026-10-26T13:02:01Z,firewalls,0.1.0,worky,,178371,Centralized firewalld configuration and deployment manager for Gentoo Linux
+2026-10-26T13:05:13Z,gpimg,0.1.0,Francisco Förster <francisco.forster@gmail.com>,MIT,59039,Exact O(n) two-dimensional Gaussian-process fits and images of multi-band light curves
+2026-10-26T13:05:44Z,cwl2mcp,0.1.0,"Terradue srl <info@terradue.com>, Fabrice Brito <info@terradue.com>, Simone Tripodi <info@terradue.…",Apache-2.0,69657,Derive MCP tool definitions from CWL processes
+2026-10-26T13:06:28Z,cola-cli,0.1.0,Novikov Artemii,MIT,79595,Global COLA environment and module manager for Linux and macOS
+2026-10-26T13:07:40Z,claude-code-langchain,0.1.0,Moésio Filho,MIT,30518,"LangChain chat model for Claude Code, built on the Claude Agent SDK"
+2026-10-26T13:10:52Z,LyricParser,0.1.0,shimo-saki <ameyuri@outlook.in>,MIT,93197,用于解析和序列化 Lyric 格式的 Python 库
+2026-10-26T13:11:56Z,rungate-ai,0.1.0,Pawan Gupta,BUSL-1.1,93884,Runtime validation middleware for AI agent tool-calls
+2026-10-26T13:13:55Z,cau-eclass-mcp,0.2.0,givemethatsewon,LicenseRef-CAU-EClass-Noncommercial-1.0,158415,CAU e-Class MCP for authenticated Aside or Chromium CDP sessions
+2026-10-26T13:14:43Z,pyselfheal-rt,0.3.0,SelfHeal Runtime Contributors,MIT AND Apache-2.0 WITH LLVM-exception AND Unicode-3.0,1808530,Embeddable AI healing agent and Rust-backed live repair runtime for Python
+2026-10-26T13:16:41Z,orchestration-engine,0.9.0,Reddirector,MIT OR Apache-2.0,69827,A fault-tolerant workflow orchestration engine
+2026-10-26T13:16:51Z,flowion,0.2.0,,MIT OR Apache-2.0,461674,The Flowion API client for Python
+2026-10-26T13:17:11Z,openhub-fee-sdk,0.1.0,staugur,,18247,openhub 费用接口 Python 客户端（/api/fee），基于 requests 封装 HMAC-SHA256 签名
+2026-10-26T13:19:16Z,pydantic-ai-glen,0.1.0,Scale Venture Partners,"MIT License Copyright (c) 2026 Scale Venture Partners Permission is hereby granted, free of charge,…",20269,Pydantic AI capability that connects an agent to Glen's shared team memory
+2026-10-26T13:19:27Z,zenodo2bib,0.0.1,Alexander Puck Neuwirth <alexander@neuwirth-informatik.de>,MIT,5942,
+2026-10-26T13:20:02Z,slopevf,1.0.0,Michael Wild <michael.wild@zhaw.ch>,MIT,104327,View-factor based irradiance distribution on multi-row bifacial PV arrays on sloped and reflective ground
