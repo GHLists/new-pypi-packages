@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T22:23:43Z,discrimalign,1.0.0,,MIT,84493,Discriminative alignment parameter learning from labelled biological sequence pairs
+2026-10-26T22:25:45Z,ai-evaluation-engineering,0.3.0,Peyman Salimi,MIT,262268,"A provider-neutral Python library for evaluating, comparing, and regression-testing AI systems."
+2026-10-26T22:26:34Z,nejomibot,0.99.39,,MIT,4761196,A Signal bot for a family or a group of friends
+2026-10-26T22:28:00Z,kiponos,0.2.0,"""Kiponos.io"" <support@kiponos.io>",Apache-2.0,25504,Kiponos Python SDK + MCP for agent live config (get/set/subscribe)
+2026-10-26T22:28:26Z,apache-tvm-tirx-llvm-targets,0.1.0a2,,Apache-2.0,193079259,Additional LLVM code generation targets for TVM TIRx
+2026-10-26T22:30:00Z,nonebot-plugin-myom,0.5.0,XI-mouren,AGPL-3.0-or-later,254823,群聊特化 LLM 聊天机器人：分层记忆、群友画像、表情包学习、联网搜索、生物节律能量与用量统计
+2026-10-26T22:31:32Z,crit-core,0.10.0,,Apache-2.0,316871,"crit Core's Python side: model inspection, tokenizers and chat templates, machine locks, native engines"
+2026-10-26T22:31:52Z,crit-eval,0.1.2,,Apache-2.0,653975,"crit-eval: one speed, quality and exactness suite that every inference engine runs the same way"
+2026-10-26T22:32:03Z,picoforge,0.0.4,,,38972,PicoForge HID diagnostics and local status dashboard
+2026-10-26T22:39:46Z,finanzen-zero-api,0.1.0,Klaus Deja,MIT,77713,Unofficial Python client for Finanzen.net ZERO
+2026-10-26T22:40:05Z,stitchlockin,0.1.0,Sebastian Huber,,908483,"Python API for STITCH, the FPGA lock-in amplifier for the attocube IDS3010"
+2026-10-26T22:43:39Z,medulla-stem,2.27.9,Repository Maintainers <maintainers@knuckles.team>,MIT,201350501,"The native epistemic-graph-server executable, built from the epistemic-graph source at the same version"
+2026-10-26T22:45:27Z,mboka,0.0.2,Akieni Academy and contributors,MIT,12185,"Local data and helpers for Congo-Brazzaville: +242 phone numbers, administrative divisions, FCFA amounts."
+2026-10-26T22:49:24Z,vestigo,0.1.0,Fangchen Li,Apache-2.0,215516,"The ledger of the shared computation substrate: versioned artifacts, builds and their leases, references, retention, on SQLite or PostgreSQL."
+2026-10-26T22:57:00Z,daily-worklog,0.1.0,Vu LE,,20370,Plain-markdown work-log helper CLI
+2026-10-26T22:58:21Z,vigihq-canary,1.0.1,Modul4r Solutions,MIT,3132,A harmless test package of Vigilance. Version 2 gains a power that never runs.
+2026-10-26T23:00:33Z,aqlab,0.1.5,Gilgamesh-110,MIT,58768,"Make an Android app Arabic with correct RTL: layout direction, attribute migration and bidi linting in one command."
+2026-10-26T23:01:13Z,input-ambiguity-detection,0.1.0,"Tiejin Chen, Xiaoou Liu, Michael Clifford, Ahmadreza Moradipari, Yitao Chen, Kyungtae Han, Nejib Am…",MIT,609861,"Perturbation-based input ambiguity detection for LLMs (white-box and black-box detectors, AACL 2026)"
+2026-10-26T23:06:49Z,pixie-lab-dibs,0.1.1,"""Simon A. F. Lund"" <os@safl.dk>",BSD-3-Clause,150597,"Call dibs on shared lab machines: see who is using what, claim it, release it"
+2026-10-26T23:09:01Z,naijacloud-argus,0.1.0,Naija Cloud <support@naijacloud.com>,"MIT License Copyright (c) 2026 NaijaCloud Permission is hereby granted, free of charge, to any pers…",120117,"Official Python SDK for Naijacloud Argus: errors, logs, metrics, traces, cron check-ins and feature flags."
+2026-10-26T23:09:27Z,devproxy,0.1.0,Ye Wenbin,MIT,983928,One-command local dev environment and domain gateway
+2026-10-26T23:13:29Z,fusion-harness,0.2.1,,,47419,"Canonical agent harness kernel: funnels, hooks, permissions, compaction"
+2026-10-26T23:16:18Z,chaojiying,0.1.0,,ISC,27062,Python client for the Chaojiying (超级鹰) CAPTCHA recognition API
+2026-10-26T23:16:19Z,smsbower,0.1.0,,ISC,30132,Python client for the SMSBower virtual number and SMS activation API
+2026-10-26T23:16:19Z,swapzone,0.1.0,,ISC,29432,Python client for the Swapzone cryptocurrency exchange and DEX aggregator API
+2026-10-26T23:16:20Z,solvecaptcha,0.1.0,,ISC,32213,Python client for the SolveCaptcha human and AI captcha solving API
+2026-10-26T23:17:30Z,blockchain-parser-2,0.1.6,Antoine Le Calvez,LGPL-3.0-or-later,88708,Bitcoin blockchain parser
+2026-10-26T23:18:02Z,subpoena,0.1.0a1,,Apache-2.0,35102,"Trace-native testing: OpenTelemetry spans as the test interface, enforcement proven by an independent witness."
+2026-10-26T23:18:22Z,permio,0.1.0,PrivateJAR <support@perms.io>,Apache-2.0,162082,"Python SDK for perms.io: permission checks, grants, groups and access queries over gRPC"
