@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T02:42:44Z,alpha2,0.4.2,,MIT,3736170,"Python client for the alpha2 video engine: build, validate, and render project documents."
+2026-10-26T03:21:09Z,txa,1.0.4,TXA Software Dev,MIT,160176,"TXA package manager toolchain: txapm (install), txacreate (publish), txaci (16-step validator)"
+2026-10-26T03:21:24Z,mongrade,0.1.0a1,,,67427,轻量、可验证、可恢复的 MongoDB 版本迁移工具
+2026-10-26T03:23:20Z,midstream-platform,1.0.0rc1,,MIT,1241453,Midstream: a streaming platform on Kaspr that materializes Kafka topics into Iceberg tables
+2026-10-26T03:23:30Z,alpha2-host,0.4.2,,,129183728,The native alpha2 renderer (alpha2-host) for the alpha2 Python package.
+2026-10-26T03:25:17Z,routedel,1.0.7,Hadi Cahyadi <cumulus13@gmail.com>,MIT,52220,"Delete, add, list and monitor IPv4 routes, with ntfy and Growl (GNTP) notifications to multiple servers."
+2026-10-26T03:28:17Z,pulr-sdk,0.4.0,Tal Eilon,MIT,12784,"Official Python SDK for pulr.ai — secure file exchange for AI agents: upload, share, fetch, approve, and verify files with provenance, scanning, capability URLs, and signed receipts."
+2026-10-26T03:31:27Z,agentguard-eval,0.3.0,Zohaib Qamar,MIT,86400,"Guardrails and evals for AI agents: a policy gate for tool calls, a checker for invented facts, and a benchmark for shell-command gates. Deterministic, no API keys."
+2026-10-26T03:35:17Z,kernelmix,0.3.1,Nilson Chapagain,GPL-2.0-only,2488615,Bayesian kernel machine regression for exposure mixtures
+2026-10-26T03:37:11Z,ezr-database-sdk,0.1.2,,,33307,Synchronous read-only EZR brand database metadata and table routing SDK
+2026-10-26T03:39:48Z,pyeasyspin,0.1.0,Sulaiman,MIT,1418795,Unofficial Python port of the EasySpin EPR simulation and analysis toolbox (EasySpin 6.0.12)
+2026-10-26T03:42:03Z,DefPixel,0.1.0,Heo Yongseon,,182382,"A Python toolkit for data connections, modling, and access"
+2026-10-26T03:49:36Z,marketmirror,0.4.2,Ayush Niroula,AGPL-3.0-only,40081,"MCP server that tests ads, prices, emails and sales pitches on simulated buyers and returns a go / iterate / no-go report."
+2026-10-26T03:53:38Z,gliss-server,0.1.0a1,,MIT,8728129,CPU-only VM desktop streaming to the browser
+2026-10-26T03:55:31Z,production-agent-systems,1.0.1,Peyman Salimi,MIT,91623,Provider-neutral effect assurance and reliability testing for agent tool operations.
+2026-10-26T03:59:53Z,offbox,0.1.0,Oleksii Avdieiev <50865612+o-avdieiev@users.noreply.github.com>,MIT,501213,Give every git worktree its own Docker stack on one cloud VM.
+2026-10-26T04:00:44Z,prefly,0.1.0,Kaushal Shriwas <64089478+kaulith@users.noreply.github.com>,,286878,"Scan a Frappe site for APIs removed or renamed in the next major version, before upgrading"
+2026-10-26T04:05:10Z,slopcheck-lint,0.1.1,slopcheck contributors,MIT,507773,A linter for the mess AI coding agents leave in Python.
+2026-10-26T04:06:09Z,ws4,0.2.0,FRESH Lab <noreply@example.org>,Apache-2.0,1229354,WS4: Wood Supply Simulation System (Spatially explicit)
+2026-10-26T04:11:27Z,agent-pmo,0.1.0,Vikas Bhandary,MIT,607121,"Project management for AI coding agents: specs, decisions, tests, reviews and releases with traceable evidence."
+2026-10-26T04:12:48Z,xippios-usda-nass,0.1.0,XIPPIOS GmbH,Apache-2.0,69974,"Typed client, MCP tools and HTTP routes for USDA NASS Quick Stats"
