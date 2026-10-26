@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T13:35:39Z,kestrix,0.1.0,Ruthvik Bandari,Apache-2.0,1345381,"Kestrix: a local-first security workbench for code scanning, email threat analysis, detection repair, file forensics, web exposure checks and Bitcoin quantum-risk scanning."
+2026-10-26T16:06:47Z,syntara-plugin-sdk,0.1.0a1,,Apache-2.0,159352,"Authoring SDK for Syntara plugins, including the local test harness"
+2026-10-26T16:19:36Z,tyrtulia,1.0.0,Andros Fenollosa,GPL-3.0-or-later,240099,A headless forum for small multi-user servers
+2026-10-26T16:20:18Z,mcpbytes-image-to-3d,0.1.1,"King Of The Hour, LLC",AGPL-3.0-only AND LicenseRef-Tencent-Hunyuan-3D-2.1-Community,523172,"Turn one image into a textured 3D model (GLB) with Tencent's Hunyuan3D 2.1, on your own GPU. CLI and MCP server."
+2026-10-26T16:21:14Z,fairbench-ai,0.3.0,Alessandro Bernini,Apache-2.0,54559,FairBench - AI model benchmarking suite with SWE-bench integration
+2026-10-26T16:21:34Z,altissimo-customerio,0.4.0,Altissimo HQ,Apache-2.0,40078,Customer.io transactional email and messaging client for Altissimo projects
+2026-10-26T16:23:18Z,shaula-ai,0.0.1,,MIT,3735,Verified skill bank and router for small language models (pre-alpha)
+2026-10-26T16:24:03Z,syntara-plugin-contracts,0.1.0a1,,Apache-2.0,170246,Versioned contracts and deterministic bundles for Syntara plugins
+2026-10-26T16:25:48Z,glpi-mcp-server,0.1.0,Mateusz Hajder,"MIT License Copyright (c) 2026 Mateusz Hajder Permission is hereby granted, free of charge, to any…",312297,"MCP server for GLPI IT service management (High-Level API, GLPI 11 and 12)"
+2026-10-26T16:25:57Z,poetry-plugin-lock-filter,0.1.0,RealDioBrando,"MIT License Copyright (c) 2026 RealDioBrando Permission is hereby granted, free of charge, to any p…",23995,Poetry plugin and CLI for creating marker-specific lock files
+2026-10-26T16:27:14Z,inline-snapshot-numpy,0.1.0,Frank Hoffmann <15r10nk@polarbit.de>,MIT,152508,NumPy integration for inline-snapshot
+2026-10-26T16:29:57Z,kestrix-scan,0.1.0,Ruthvik Bandari,Apache-2.0,1053337,"Kestrix code scanner: local, zero-dependency security checks for 13 languages (Python, JavaScript, TypeScript, PHP, Go, Java, Kotlin, C#, Ruby, C, C++, Rust, Swift), web, SQL, CI and infrastructure f…"
+2026-10-26T16:31:53Z,gelsvg,0.0.1.dev0,,MIT,37996,Read and write GelSVG: gel and blot figures that carry their own data.
+2026-10-26T16:33:31Z,wakeshift,0.2.0,"""Clawvisor Inc."" <support@wakeshift.ai>",Apache-2.0,93824,Wake AI agents when your app's events happen: Wakeshift's SDK for MCP servers in Python
+2026-10-26T16:35:10Z,panvram,1.0.1,,,22320517,"Pangenome cohort resident on the GPU: refrel3 v1 archives, random windows and slices decoded on the card"
+2026-10-26T16:36:50Z,weft-sql,0.4.54,,MIT OR Apache-2.0,38661418,Native UMF-powered SQL compiler with explicit backend profiles
+2026-10-26T16:37:21Z,aws-cdk.lambda-layer-kubectl-v37,2.0.0,Amazon Web Services<aws-cdk-dev@amazon.com>,Apache-2.0,77053745,A Lambda Layer that contains kubectl v1.37
+2026-10-26T16:37:52Z,hyperstudy-perception,0.1.0,,MIT,412084,"Video perception pipeline: shots, speech, faces and captions from a video, as a versioned track bundle, run locally, on cloud GPUs or lab servers"
+2026-10-26T16:38:09Z,edge-context,0.1.0,Wendell Souza <dev@wendellsouza.com>,LicenseRef-Proprietary,20269,Abre um contexto persistente do Microsoft Edge (perfil dedicado) com Playwright.
+2026-10-26T16:40:15Z,truss-toolkit,0.0.50,,MIT OR Apache-2.0,12946966,Experimental Truss Python embedding components
+2026-10-26T16:40:36Z,mills,1.1.0,,,110781,Drops ready-to-run ML and BDA practical code files and datasets into a folder
+2026-10-26T16:42:10Z,heinzel,0.7.14,Helmut Hoffer von Ankershoffen <helmuthva@gmail.com>,MIT,9808582,"Heinzelmännchen: an open-source, AI-driven operating system for product development teams."
+2026-10-26T16:49:09Z,vibedata-dlt-databricks-notebook,0.1.0,Vibedata <eng@acceleratedata.ai>,MIT,16977,"VibeData dlt runtime — Databricks notebook execution unit (runs inside a Databricks notebook): a dlt provider for the Domain's Databricks secret scope, and a databricks destination that stages load f…"
+2026-10-26T16:49:30Z,reporamp,0.1.1,,MIT,720970,A developer tool for understanding Python codebases
+2026-10-26T16:50:05Z,aimetadatacleaner-url-tools,0.1.0,wangneo276-lgtm,MIT,6160,"Offline URL builder for AI Metadata Cleaner image, video, and PDF metadata pages. Not an official SDK."
+2026-10-26T16:50:28Z,py-messor,0.2.4,liuseki,Apache-2.0,55316,Async coroutine functions as queue-backed tasks (QueueFunc).
+2026-10-26T16:50:34Z,mrsandbox,0.1.2,"""Julian P. Merkofer"" <j.p.merkofer@tue.nl>",MIT,4370097,A simulation sandbox for magnetic resonance spectroscopy.
+2026-10-26T16:51:01Z,bigbt,1.0.0,,MIT,112775,"Big Data Analytics lab experiments (HDFS, Sqoop, HBase, Pig, Hive, MongoDB, Bloom filter, Flajolet-Martin, R) as ready-to-run bash scripts"
+2026-10-26T16:51:25Z,cleome,0.3.0,Masataka Yakura <masataka.yakura@gmail.com>,MIT,204264,"Dynamic unicode-range WOFF2 slicer and @font-face CSS generator for Japanese, Korean, and Chinese web fonts"
+2026-10-26T16:52:26Z,rendip,0.1.0,,,69290,Rendip CLI -- kendi Rendip MCP server'inizin ince bir istemcisi (capture/recall/digest).
+2026-10-26T16:53:03Z,stockchart,0.1.0,xie-huaaaan,MPL-2.0,12170074,A creative plotting library that draws data as stockings pulled up over a pair of legs.
+2026-10-26T16:53:13Z,nullspan,1.1.0,Hemanth HM <hemanth.hm@gmail.com>,,36993,"Calibrated p_null abstention, grounded [start, end] span extraction, arithmetic, and distribution forecasting in a single forward pass."
+2026-10-26T17:02:52Z,lazymatrix,0.1.1,Johan Larsson <johan@jolars.co>,MIT OR Apache-2.0,6965169,Lazy column normalization for NumPy and SciPy matrices
+2026-10-26T17:03:48Z,copick-web,0.1.5,,,2894404,Web visualization for copick datasets
+2026-10-26T17:07:03Z,maap-client,0.2.1,Bernat,MIT,160736,Python client for ESA MAAP EarthCARE satellite data access
+2026-10-26T17:07:47Z,verdance,0.3.0,Andrés Camilo Zúñiga-González <ancazugo@hotmail.com>,MIT,1000815,"Measure the 3-30-300 rule of urban greening for any city, using Apache Sedona"
+2026-10-26T17:08:03Z,alvaro-datakit,2.1.0,Alvaro,MIT,233889,"Swiss-army toolkit for pandas + DuckDB ETL pipelines: cleaning, validation, fuzzy name matching, profiling, I/O guards, logging and maps."
+2026-10-26T17:08:32Z,alaska3,0.1.2,aainka,Proprietary,1006140,GigE 카메라 · 공유메모리 영상 · PC 랜카드 · LS PLC · 알고리즘 프로세스 호스트 (표준 라이브러리만으로 도는 코어)
+2026-10-26T17:09:53Z,datagol-lens,0.2.0,DataGOL,MIT,50355,"Python SDK for DataGOL Lens: tracing, cost and budgets for LLM applications"
+2026-10-26T17:10:21Z,castvalue-bench,1.3.2,FlexUp GmbH,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",126650,Open multi-benchmark framework measuring the EUR/MW value of forecasts in energy trading and storage dispatch
+2026-10-26T17:11:53Z,kisstun,0,,MIT,710,Cross-platform bridge from KISS TNC to IP tunnel device
+2026-10-26T17:12:31Z,alaska2,0.1.2,aainka,Proprietary,1007649,GigE 카메라 · 공유메모리 영상 · PC 랜카드 · LS PLC · 알고리즘 프로세스 호스트 (표준 라이브러리만으로 도는 코어)
+2026-10-26T17:13:04Z,ml-practicals,1.0.0,,,24387,Machine Learning practical solutions
+2026-10-26T17:13:44Z,posterna,0.0.1,Joe Waltman,MIT,4302,"Verify which AI agents and crawlers hit your site and decide what each may do. In-process, open source. Under active development."
+2026-10-26T17:14:32Z,pray-core,1.25.0,Andrei Makarov <contact@kiskolabs.com>,MIT,28320,Prayfile core library — package manager for the language placed before inference
+2026-10-26T17:15:55Z,aegis-voynan,0.0.0,Kaio Vinícios,MIT,136602,"A simple, secure and streaming-friendly file encryption library built on modern cryptography."
+2026-10-26T17:16:27Z,hermes-antigravity,1.7.0,zeyxx,MIT,171287,Google Antigravity / Cloud Code Assist inference provider plugin for Hermes Agent
+2026-10-26T17:17:00Z,magritte-project,0.1.0,,GPL-3.0-only,29837879,A personal music platform
+2026-10-26T17:18:37Z,tailstock,0.0.1,Isaac,,2107,"Quoting app for machine shops (name reserved, coming soon)."
