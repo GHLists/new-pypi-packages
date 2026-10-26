@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T07:21:16Z,pixaipy,0.1.0,pixaipy contributors,MIT,27619,"Unofficial Python client, CLI and examples for the PixAI.art GraphQL/REST API"
+2026-10-26T07:24:38Z,remenis,0.1.2,,,7975,AI memory middleware system
+2026-10-26T07:30:26Z,grobx,0.73.0,,GPL-3.0-only,2563916,Reduced Gröbner bases of polynomial ideals over GF(p) and over the rationals
+2026-10-26T07:30:47Z,scivianna-graph,0.1.0,,,264713,"Build interactive ReactFlow graphs (rotatable nodes, drag-select, 4-side plugs) from a Python model."
+2026-10-26T07:33:49Z,pressready,0.1.0,,MIT,509380,"Manuscript in, publish-ready book out: EPUB, print interior PDF and wrap cover for AI agents."
+2026-10-26T07:37:39Z,gymnasium-base-siege,0.1.0,Vaibhav Bairathi,MIT,144187,Base Siege: a masked-action strategy environment for Gymnasium
+2026-10-26T07:37:44Z,valen-sdk,0.2.0,,Apache-2.0,841668,Typed local ONNX and HTTP access to Valen decisions
+2026-10-26T07:41:25Z,konstera-sdk,0.6.0,Konstera <hello@konstera.example>,BUSL-1.1,113399,"Python SDK for building Konstera agents. Wraps the MCP callback protocol and the /invoke HTTP contract so agent authors write business logic, not plumbing."
+2026-10-26T07:42:03Z,energychain,0.1.0,EnergyChain Contributors,MIT,57292,"Composable, safety-first Python framework for AI-native energy applications"
+2026-10-26T07:44:08Z,euaiact,0.1.0,"""Dr. Dimitrios Geromichalos"" <riskdatascience@web.de>",Apache-2.0,1877969,Offline calculation and logic rules for the EU Artificial Intelligence Act
+2026-10-26T07:45:41Z,duyi-utils-zyc,0.1.3,,,4603,一个用于学习 Python 公共库构建和发布的示例工程
+2026-10-26T07:46:39Z,panddu,2.4,,,7144,
+2026-10-26T07:46:45Z,thalamus-arch,0.1.0,Jackson Porter,MIT,110819,"Measure a Python repository's import graph against the layers it declares, and gate on the difference"
+2026-10-26T07:46:53Z,university-anonymous,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,51283,"University Anonymous: anonymous posts and comments that are unlinkable to the public and accountable to the platform (encrypted authorship, two-person reveals)."
+2026-10-26T07:48:49Z,konstera-sdk-contexts,1.0.0,Konstera <hello@konstera.example>,Apache-2.0,17386,Typed constants for the Konstera Standard Context Pack v1 — canonical glossary / skill / ontology-entity names. Reference ContextTerms.REFUND_WINDOW_DAYS instead of magic strings so typos fail at imp…
+2026-10-26T07:56:42Z,swpc-kit,0.3.0,Sidereus Team <sidereus.team@gmail.com>,MIT,349939,"Typed readers for NOAA SWPC space weather data products, with GeoJSON and GeoTIFF export."
+2026-10-26T07:57:07Z,tunr-sdk,0.9.0.post1,,Apache-2.0,7576,Official Python SDK for tunr — localhost tunneling made simple.
+2026-10-26T07:58:41Z,dna-mass-sonifier-pg,1.0.6,Patrick Grate,,4415,An algorithmic framework mapping DNA molecular mass directly to absolute musical frequencies.
+2026-10-26T07:59:02Z,cbe-mobile,0.1.0,NeuralS <team@neurals.et>,MIT,32651,CBE Mobile Banking Python SDK and Terminal UI
+2026-10-26T07:59:29Z,odoo-addon-shopify-connector-website-sale,19.0.1.0.0.2,"Sawir Studio, ForgeFlow, Odoo Community Association (OCA)",AGPL-3,29598,Synchronize Shopify product media with eCommerce extra product media
+2026-10-26T08:00:21Z,shopee-beeai-integration-pytest,0.0.0,sc,BSD License,2595,A small example package
+2026-10-26T08:00:41Z,smspva-sdk,0.1.0a1,,MIT,43658,"Typed sync and async clients for SMSPVA Activation V2, Rental and Private Email"
+2026-10-26T08:02:45Z,toucan-router,0.1.0,,MIT,226832,Route approved chat requests to their T3 threads and track replies.
+2026-10-26T08:02:49Z,toucan-teams-bot,0.1.0,,MIT,97296,Teams bot for Toucan Router: receive approved requests and post replies.
+2026-10-26T08:02:53Z,toucan-router-tools,0.1.0,,MIT,30344,Optional Loom and Google Sheets tools for Toucan Router.
+2026-10-26T08:03:35Z,neoshell-cli,0.1.0,Neoshell Contributors,MIT,22888,Personal Cloud HTTP File Manager CLI
+2026-10-26T08:04:26Z,repoready,0.1.1,,MIT,80558,"Offline, read-only repository readiness checks: evidence-based findings, no scores."
+2026-10-26T08:05:47Z,flipkart-scraping,0.1.0,Buğrahan Saka,MIT,37935,"Scrape Flipkart search results, product details and reviews with Python, from the page's own JSON state."
+2026-10-26T08:08:25Z,university-institution,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,84645,"University Institution: institutions, campuses, academic structure and verified memberships for the University platform."
+2026-10-26T08:08:27Z,aoguan-core,0.1.0,,,12175,Core contracts and runtime primitives for the Aoguan Python SDK
+2026-10-26T08:08:27Z,aoguan-prompts,0.1.0,,,6795,Prompt rendering and context assembly for the Aoguan Python SDK
+2026-10-26T08:08:27Z,aoguan-qwen,0.1.0,,,21221,Alibaba Cloud Bailian Qwen client for the Aoguan Python SDK
+2026-10-26T08:08:42Z,arodonata,2.0.0,Anton Razumov <arazumov@checkpoint.com>,MIT,1033151,Async-first Python 3.13+ library and SDK for Check Point Security Management and MDSM operations
+2026-10-26T08:11:41Z,timora,0.1.1,Timora Contributors,MIT,30382,Lightweight CLI voice time reminders.
+2026-10-26T08:12:22Z,aoguan-rag,0.1.0,,,13965,Retrieval augmented generation composition for the Aoguan Python SDK
+2026-10-26T08:12:28Z,aoguan-documents,0.1.0,,,14860,Local document parsing and chunking for the Aoguan Python SDK
+2026-10-26T08:12:31Z,aoguan-knowledge,0.1.0,,,30455,Local knowledge indexing and retrieval for the Aoguan Python SDK
+2026-10-26T08:14:20Z,university-social,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,93554,"University Social: posts, comments, reactions, reposts, polls, media, feeds and a block-aware social graph for the University platform."
+2026-10-26T08:14:52Z,aoguan-evaluation,0.1.0,,,18156,Deterministic evaluation for the Aoguan Python SDK
+2026-10-26T08:14:58Z,dragonfipy,0.1.0,Chris Irag,,17757,DragonFi API wrapper
