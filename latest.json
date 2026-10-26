@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-10-26T05:18:36.066719Z",
-    "path": "data/new-packages-2026-10-26T06-18-40-991124Z.csv",
-    "to": "2026-10-26T06:18:40.991124Z"
+    "count": 35,
+    "from": "2026-10-26T06:18:40.991124Z",
+    "path": "data/new-packages-2026-10-26T07-19-26-006143Z.csv",
+    "to": "2026-10-26T07:19:26.006143Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-26T06:05:50Z",
       "package": "TNLang",
       "since": "2026-10-26T05:18:36.066719Z",
       "version": "4.0.1"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-26T03:59:18Z",
       "package": "maraclaw_py_docker",
       "since": "2026-10-26T03:19:59.330006Z",
       "version": null
     }
   ],
-  "serial": 42748077,
+  "serial": 42749725,
   "source_truncated": false,
-  "window": "2026-10-26T06:18:40.991124Z"
+  "window": "2026-10-26T07:19:26.006143Z"
 }
