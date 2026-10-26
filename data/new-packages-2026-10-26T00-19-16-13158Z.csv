@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-25T23:20:20Z,pytalo,0.1.0a1,akamoyoo,Apache-2.0,308145,"A resident in-memory Python session you drive from the terminal: load data once, snapshot, roll back, branch. Built for coding agents and humans."
+2026-10-25T23:22:58Z,peak-client,0.1.0,,ISC,79592,Python client for the Peak CAPTCHA solving API
+2026-10-25T23:23:33Z,kernelgecp,1.1.0,,((MIT OR Apache-2.0) AND Unicode-3.0) AND (Apache-2.0) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH…,1456567,"Reusable fermionic cross bases, precision diagnostics, and optional native evaluation"
+2026-10-25T23:23:52Z,stablevoy,1.0.1,,MIT,47857,"Python client for the Stablevoy API: non-custodial USDT and USDC payments, invoices and signed webhooks."
+2026-10-25T23:26:18Z,shade-plugins-google,0.1.0,ShadeOne,Apache-2.0,19476,"Ler e escrever no Google Sheets e listar, baixar e enviar no Google Drive, com o token OAuth da conexão da plataforma."
+2026-10-25T23:26:54Z,holographic-memory-py,0.6.3,"""WritersLogic, Inc."" <david@writerslogic.com>",Apache-2.0,28664176,Native Python bindings for Holographic Memory vector search and phase-vector algebra.
+2026-10-25T23:28:45Z,avro-to-arrow,0.1.0,Julien Peloton <peloton@ijclab.in2p3.fr>,Apache-2.0,23626,Convert Avro records into Arrow format
+2026-10-25T23:29:24Z,yescaptcha-client,0.1.0,,ISC,79183,Python client for the YesCaptcha recognition API
+2026-10-25T23:31:35Z,dependency-repair,0.1.0,Brian Powers,MIT,27460,"Install the dependencies an editable install is missing, under an explicit policy (auto, prompt, off), through ports."
+2026-10-25T23:32:15Z,gramps-web-toolkit,0.2.0,,GPL-3.0-or-later,782241,Command-line tools for running AI research agents against a Gramps Web family tree without letting them write guesses into it
+2026-10-25T23:32:41Z,mailcellar,0.9.0,The mailcellar authors,Apache-2.0,412946,"Gmail backups in gyb's format, with deduplication, offloading old mail, restore and reports"
+2026-10-25T23:35:22Z,edd-kernel-contracts,0.2.0a2,,MIT,21314,Provider-agnostic contracts for EDD Kernel.
+2026-10-25T23:35:34Z,edd-kernel-core,0.2.0a2,,MIT,36645,"Shared EDD Kernel implementation: options, serialization, polling, lifecycle, observability and error normalization."
+2026-10-25T23:35:37Z,edd-kernel-factory,0.2.0a2,,MIT,9551,Dynamic provider factory for EDD Kernel.
+2026-10-25T23:35:40Z,edd-kernel-provider-in-memory,0.2.0a2,,MIT,11081,In-memory provider for local development and tests.
+2026-10-25T23:36:59Z,cardargus,0.1.0,"André Leite <leite@castlab.org>, Marcos Wasiliew <marcos.wasiliew@gmail.com>, Hugo Vasconcelos <hug…",MIT,92875,"Generate self-contained SVG information cards with embedded Google Fonts, shields-style badges, sparklines and logos."
+2026-10-25T23:38:54Z,pxl-cleanup,0.1.0,Alvin Crespo,MIT,16887,"Turn AI-generated pixel-style images into true, grid-aligned pixel art sprites."
+2026-10-25T23:39:13Z,morphiq-sdk,0.1.0,MorphIQ Labs,MIT,69455,"Option pricing, Greeks, implied volatility and market regime identification through a Python API client"
+2026-10-25T23:47:42Z,elecevm,0.1.0,Kyle Hagen,Apache-2.0,134099,Earned value management engine for electrical construction contractors — reference implementation of the Electrical EVM Recommended Practice
+2026-10-25T23:47:55Z,pointclouds,0.0.0,Mostafa Farrag <moah.farag@gmail.com>,GNU General Public License v3,331070,"Point cloud (LAS/LAZ/COPC) I/O, filtering, decimation and gridding"
+2026-10-25T23:47:57Z,x402-guard,0.1.0,Quincy Goertz-Brown,MIT,50119,"Payment-path seatbelt for x402 buyer agents: Settled pre-flight, endpoint drift checks (StallRow Recheck), RouteVerdict trust gates, and spend caps enforced before any payment is signed."
+2026-10-25T23:48:17Z,token-verdict-tools,0.1.0,QuincyGB,MIT,30232,Token Verdict tools for LangChain and CrewAI - pay-per-call token risk verdicts (SOLID/CAUTION/DANGER) and pre-trade checks (PROCEED/CAUTION/ABORT) via x402 USDC payments on Base.
+2026-10-25T23:48:57Z,llamagent,0.1.0,Nils Malmberg,MIT,332787,"Un agent de code minimal autour d'Ollama, écrit à la main pour comprendre chaque brique."
+2026-10-25T23:50:22Z,konen,0.1.0,Theodore Papamarkou,MIT,79598,Human-centered star-graph orchestration of AI agents
+2026-10-25T23:51:35Z,tianguis,0.1.0,Alex Garcia,,66797437,Servidor MCP (Streamable HTTP) de clasificados para agentes de IA
+2026-10-25T23:52:40Z,metabole,0.1.0,ZenEdgeX,LicenseRef-ZenEdgeX-Metabole,52816209,Certified regression skipping for hardware simulation
+2026-10-25T23:56:17Z,claude-profile,2.0.0,claude-profile contributors,MIT,70520,"Per-customer profiles for Claude Code and Claude Desktop: separate logins, AI platforms, MCP servers, skills and history, side by side."
+2026-10-25T23:57:21Z,holonomy-lib,0.8.0,Synoros,FSL-1.1-ALv2,502164,"Batched PyTorch primitives for Riemannian geometry, spectral graph theory, discrete curvature, topology, and tensor decompositions."
+2026-10-26T00:01:04Z,minitotp,0.1.0,,MIT,6566,"Standard TOTP (RFC6238) two-factor authentication SDK, pure standard library"
+2026-10-26T00:05:55Z,skill-linter,0.1.0,Jeff Smolinski,MIT,127786,"Validate Agent Skills repos: spec checks, shared conventions, per-repo policy, count stamping and plugin release checks"
+2026-10-26T00:09:10Z,modisp,0.0.1,,,1175,
+2026-10-26T00:12:37Z,shade-plugins-ms365,0.1.0,ShadeOne,Apache-2.0,24928,"Ler e-mails e baixar anexos do Outlook e listar, baixar e enviar arquivos do SharePoint, pela Microsoft Graph, com o token OAuth da conexão da plataforma."
+2026-10-26T00:13:49Z,route66-consensus,1.0.0,Omni-Agent Architect & 70s Retro-Engineer,Apache-2.0,39291,Autonomous Multi-Agent Consensus & Deadlock-Free Orchestration Grid
+2026-10-26T00:14:12Z,neonbox-runtime,1.0.0,Omni-Agent Architect & 70s Retro-Engineer,Apache-2.0,34011,Deterministic Low-Latency Sandboxed Tool Runtime for Autonomous AI Agents
+2026-10-26T00:14:52Z,pixtreme-train,0.1.0,minamik <mia@sync.dev>,MIT,5796,Shared training components for pixtreme model trainers
+2026-10-26T00:15:59Z,telefi,0.3.0,Michael Huang,MIT,66088,"Telegram as a two-way control surface for scripts, CI and agents: drop a JSON envelope in a folder, get a readable message, and receive the owner's replies back as events."
+2026-10-26T00:17:15Z,pydeepity,0.1.0a1,Jack R,MIT,44393014,A high-performance Predictive Coding library.

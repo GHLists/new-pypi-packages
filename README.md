@@ -8,42 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 23:18 UTC
+## Latest list — 2026-10-26 00:19 UTC
 
-New packages created between 2026-10-25 22:19 UTC and 2026-10-25 23:18 UTC.
+New packages created between 2026-10-25 23:18 UTC and 2026-10-26 00:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-25T23-18-39-161316Z.csv)
+[Full CSV](data/new-packages-2026-10-26T00-19-16-13158Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 22:20:44 | [chameleon-zunclient](https://pypi.org/project/chameleon-zunclient/) | 2025.1.1 | OpenStack | 275.2 kB | Client Library for Zun |
-| 2026-10-25 22:27:57 | [lg-bartalk](https://pypi.org/project/lg-bartalk/) | 0.1.0 |  | 33.9 kB | LG soundbar control with reliable power-state updates |
-| 2026-10-25 22:28:21 | [lunixi-sdk](https://pypi.org/project/lunixi-sdk/) | 0.1.0 | Lunixi | 111.1 kB | Lunixi platform client: Ed25519 request signing, token exchange, envelope decod… |
-| 2026-10-25 22:28:47 | [rianahmamy-de-toolkit](https://pypi.org/project/rianahmamy-de-toolkit/) | 0.1.0 | rianahmamy | 11.9 kB |  |
-| 2026-10-25 22:29:07 | [claude-agent-sdk-macp](https://pypi.org/project/claude-agent-sdk-macp/) | 0.1.0 | Multi-Agent Coordination Prot… | 43.5 kB | Claude Agent SDK subagents as voters in a binding MACP Decision or Quorum sessi… |
-| 2026-10-25 22:29:26 | [ag-docparse](https://pypi.org/project/ag-docparse/) | 0.5.0 | Adnan Ghribi | 20.7 kB | LLM-powered document extraction SDK |
-| 2026-10-25 22:33:04 | [rheios](https://pypi.org/project/rheios/) | 0.0.1 | Lacey Enterprises LLC | 9.8 kB | Reserved for the Rheios project. Not yet released. |
-| 2026-10-25 22:33:07 | [pyomnidrop](https://pypi.org/project/pyomnidrop/) | 0.1.0 | "Shah Md. Mahi" <shahmdmahi15… | 3.9 kB | Python client and CLI bindings for OmniDrop: Ultra-High-Throughput Multi-Path P… |
-| 2026-10-25 22:33:29 | [ninthsubstrate](https://pypi.org/project/ninthsubstrate/) | 0.0.1 | Ninth Substrate Intelligence… | 2.8 kB | Ninth Substrate Intelligence Systems LLC: recursive language model (RLM) buildi… |
-| 2026-10-25 22:33:43 | [pysilentmic](https://pypi.org/project/pysilentmic/) | 0.1.0 | "Shah Md. Mahi" <shahmdmahi15… | 9.9 kB | Python bindings for SilentMic-RT: Deterministic, Zero-Allocation Sub-3ms Hard R… |
-| 2026-10-25 22:34:53 | [pyomnibrain](https://pypi.org/project/pyomnibrain/) | 0.1.0 | "Shah Md. Mahi" <shahmdmahi15… | 6.8 kB | Python bindings and SDK for OmniBrain: Embedded Local-First Temporal Semantic K… |
-| 2026-10-25 22:35:37 | [linklbee-scan](https://pypi.org/project/linklbee-scan/) | 1.4.4 | "NOTEGG Corp." <bee@linklbee.… | 3.9 MB | Find where your LLM API bill leaks. One file, standard library only, zero netwo… |
-| 2026-10-25 22:42:21 | [saferevoke](https://pypi.org/project/saferevoke/) | 0.1.0a1 |  | 92.7 kB | Experimental permission-removal testing for Python applications |
-| 2026-10-25 22:43:10 | [claudeopuseni](https://pypi.org/project/claudeopuseni/) | 0.1.1 | claudeopuseni maintainers | 19.0 kB | Claude jailbreak prompt generator — prompt engineering toolkit for Claude models |
-| 2026-10-25 22:43:57 | [ai-protocol-client](https://pypi.org/project/ai-protocol-client/) | 0.1.0 | Nikita Chindin | 44.5 kB | Adaptive clients for cooperative agent access to HTTP services |
-| 2026-10-25 22:45:55 | [bitcoinvn](https://pypi.org/project/bitcoinvn/) | 0.1.0 |  | 89.1 kB | Python client for the BitcoinVN exchange API |
-| 2026-10-25 22:46:44 | [tuig](https://pypi.org/project/tuig/) | 2.3.5 | Project maintainers | 4.9 MB | Tuig: native Ratatui terminal interface for Arbora |
-| 2026-10-25 22:47:22 | [agno-cursor-agent](https://pypi.org/project/agno-cursor-agent/) | 0.1.0 | vaiden | 12.2 kB | Agno Model adapter for persistent Cursor CLI ACP sessions |
-| 2026-10-25 22:49:48 | [clairic](https://pypi.org/project/clairic/) | 0.1.0 | Vianney Mixtur <vianney@consi… | 39.5 kB | Unofficial typed Python SDK for Cloudflare's Clairic extraction model, built on… |
-| 2026-10-25 22:49:50 | [zyplux-airlock](https://pypi.org/project/zyplux-airlock/) | 2.0.0 |  | 53.2 kB | Prepare and publish reviewed npm, Python, container and GitHub Action releases |
-| 2026-10-25 22:51:51 | [fastmace-oeq-ext](https://pypi.org/project/fastmace-oeq-ext/) | 0.7.0.post1 | Fabian Zwingel | 844.1 kB | Prebuilt OpenEquivariance 0.7.0 host extension for FastMACE (torch 2.14.1+cu130… |
-| 2026-10-25 22:52:16 | [fastmace](https://pypi.org/project/fastmace/) | 1.0.0 | Fabian Zwingel | 2.9 MB | Fast molecular dynamics with pretrained MACE models on NVIDIA GPUs |
-| 2026-10-25 22:52:36 | [heatpumplab](https://pypi.org/project/heatpumplab/) | 0.1.0 | Tim Walmsley <tim.walmsley@wa… | 599.1 kB | Models of high-temperature heat pump cycles for industrial process heat, with C… |
-| 2026-10-25 22:52:43 | [tattle-audit](https://pypi.org/project/tattle-audit/) | 0.1.0 |  | 66.3 kB | See what your coding agent sends to the internet: a local egress-audit proxy th… |
-| 2026-10-25 22:53:38 | [verdis](https://pypi.org/project/verdis/) | 0.1.1 | Verdis contributors | 616.8 kB | Reproduce-first triage for vulnerability and security reports: run the proof of… |
-| 2026-10-25 23:03:34 | [shieldenv](https://pypi.org/project/shieldenv/) | 1.0.0 |  | 24.7 kB | Local-first secret and AI API key leak prevention CLI |
-| 2026-10-25 23:13:44 | [holographic-memory-sdk](https://pypi.org/project/holographic-memory-sdk/) | 0.1.3 | WritersLogic <david@writerslo… | 274.8 kB | HTTP client and agent-framework adapters for a Holographic Memory System service |
-| 2026-10-25 23:14:29 | [claudeopusfile](https://pypi.org/project/claudeopusfile/) | 0.1.1 | claudeopusfile maintainers | 9.9 kB | Claude jailbreak prompt generator — prompt engineering toolkit for Claude models |
-| 2026-10-25 23:15:17 | [aa-opshub](https://pypi.org/project/aa-opshub/) | 0.1.0 |  | 39.6 kB | Standalone Alliance Auth app: structure timers, ops calendar, recurring ops, re… |
-| 2026-10-25 23:16:10 | [holographic-memory-models](https://pypi.org/project/holographic-memory-models/) | 0.1.0 | "WritersLogic, Inc." <david@w… | 29.8 MB | Pinned offline embedding model pack for Holographic Memory Python bindings |
-| 2026-10-25 23:18:01 | [muse-code-usage](https://pypi.org/project/muse-code-usage/) | 0.4.3 |  | 4.6 kB | Muse Code subscription limit monitor |
+| 2026-10-25 23:20:20 | [pytalo](https://pypi.org/project/pytalo/) | 0.1.0a1 | akamoyoo | 308.1 kB | A resident in-memory Python session you drive from the terminal: load data once… |
+| 2026-10-25 23:22:58 | [peak-client](https://pypi.org/project/peak-client/) | 0.1.0 |  | 79.6 kB | Python client for the Peak CAPTCHA solving API |
+| 2026-10-25 23:23:33 | [kernelgecp](https://pypi.org/project/kernelgecp/) | 1.1.0 |  | 1.5 MB | Reusable fermionic cross bases, precision diagnostics, and optional native eval… |
+| 2026-10-25 23:23:52 | [stablevoy](https://pypi.org/project/stablevoy/) | 1.0.1 |  | 47.9 kB | Python client for the Stablevoy API: non-custodial USDT and USDC payments, invo… |
+| 2026-10-25 23:26:18 | [shade-plugins-google](https://pypi.org/project/shade-plugins-google/) | 0.1.0 | ShadeOne | 19.5 kB | Ler e escrever no Google Sheets e listar, baixar e enviar no Google Drive, com… |
+| 2026-10-25 23:26:54 | [holographic-memory-py](https://pypi.org/project/holographic-memory-py/) | 0.6.3 | "WritersLogic, Inc." <david@w… | 28.7 MB | Native Python bindings for Holographic Memory vector search and phase-vector al… |
+| 2026-10-25 23:28:45 | [avro-to-arrow](https://pypi.org/project/avro-to-arrow/) | 0.1.0 | Julien Peloton <peloton@ijcla… | 23.6 kB | Convert Avro records into Arrow format |
+| 2026-10-25 23:29:24 | [yescaptcha-client](https://pypi.org/project/yescaptcha-client/) | 0.1.0 |  | 79.2 kB | Python client for the YesCaptcha recognition API |
+| 2026-10-25 23:31:35 | [dependency-repair](https://pypi.org/project/dependency-repair/) | 0.1.0 | Brian Powers | 27.5 kB | Install the dependencies an editable install is missing, under an explicit poli… |
+| 2026-10-25 23:32:15 | [gramps-web-toolkit](https://pypi.org/project/gramps-web-toolkit/) | 0.2.0 |  | 782.2 kB | Command-line tools for running AI research agents against a Gramps Web family t… |
+| 2026-10-25 23:32:41 | [mailcellar](https://pypi.org/project/mailcellar/) | 0.9.0 | The mailcellar authors | 412.9 kB | Gmail backups in gyb's format, with deduplication, offloading old mail, restore… |
+| 2026-10-25 23:35:22 | [edd-kernel-contracts](https://pypi.org/project/edd-kernel-contracts/) | 0.2.0a2 |  | 21.3 kB | Provider-agnostic contracts for EDD Kernel. |
+| 2026-10-25 23:35:34 | [edd-kernel-core](https://pypi.org/project/edd-kernel-core/) | 0.2.0a2 |  | 36.6 kB | Shared EDD Kernel implementation: options, serialization, polling, lifecycle, o… |
+| 2026-10-25 23:35:37 | [edd-kernel-factory](https://pypi.org/project/edd-kernel-factory/) | 0.2.0a2 |  | 9.6 kB | Dynamic provider factory for EDD Kernel. |
+| 2026-10-25 23:35:40 | [edd-kernel-provider-in-memory](https://pypi.org/project/edd-kernel-provider-in-memory/) | 0.2.0a2 |  | 11.1 kB | In-memory provider for local development and tests. |
+| 2026-10-25 23:36:59 | [cardargus](https://pypi.org/project/cardargus/) | 0.1.0 | André Leite <leite@castlab.or… | 92.9 kB | Generate self-contained SVG information cards with embedded Google Fonts, shiel… |
+| 2026-10-25 23:38:54 | [pxl-cleanup](https://pypi.org/project/pxl-cleanup/) | 0.1.0 | Alvin Crespo | 16.9 kB | Turn AI-generated pixel-style images into true, grid-aligned pixel art sprites. |
+| 2026-10-25 23:39:13 | [morphiq-sdk](https://pypi.org/project/morphiq-sdk/) | 0.1.0 | MorphIQ Labs | 69.5 kB | Option pricing, Greeks, implied volatility and market regime identification thr… |
+| 2026-10-25 23:47:42 | [elecevm](https://pypi.org/project/elecevm/) | 0.1.0 | Kyle Hagen | 134.1 kB | Earned value management engine for electrical construction contractors — refere… |
+| 2026-10-25 23:47:55 | [pointclouds](https://pypi.org/project/pointclouds/) | 0.0.0 | Mostafa Farrag <moah.farag@gm… | 331.1 kB | Point cloud (LAS/LAZ/COPC) I/O, filtering, decimation and gridding |
+| 2026-10-25 23:47:57 | [x402-guard](https://pypi.org/project/x402-guard/) | 0.1.0 | Quincy Goertz-Brown | 50.1 kB | Payment-path seatbelt for x402 buyer agents: Settled pre-flight, endpoint drift… |
+| 2026-10-25 23:48:17 | [token-verdict-tools](https://pypi.org/project/token-verdict-tools/) | 0.1.0 | QuincyGB | 30.2 kB | Token Verdict tools for LangChain and CrewAI - pay-per-call token risk verdicts… |
+| 2026-10-25 23:48:57 | [llamagent](https://pypi.org/project/llamagent/) | 0.1.0 | Nils Malmberg | 332.8 kB | Un agent de code minimal autour d'Ollama, écrit à la main pour comprendre chaqu… |
+| 2026-10-25 23:50:22 | [konen](https://pypi.org/project/konen/) | 0.1.0 | Theodore Papamarkou | 79.6 kB | Human-centered star-graph orchestration of AI agents |
+| 2026-10-25 23:51:35 | [tianguis](https://pypi.org/project/tianguis/) | 0.1.0 | Alex Garcia | 66.8 MB | Servidor MCP (Streamable HTTP) de clasificados para agentes de IA |
+| 2026-10-25 23:52:40 | [metabole](https://pypi.org/project/metabole/) | 0.1.0 | ZenEdgeX | 52.8 MB | Certified regression skipping for hardware simulation |
+| 2026-10-25 23:56:17 | [claude-profile](https://pypi.org/project/claude-profile/) | 2.0.0 | claude-profile contributors | 70.5 kB | Per-customer profiles for Claude Code and Claude Desktop: separate logins, AI p… |
+| 2026-10-25 23:57:21 | [holonomy-lib](https://pypi.org/project/holonomy-lib/) | 0.8.0 | Synoros | 502.2 kB | Batched PyTorch primitives for Riemannian geometry, spectral graph theory, disc… |
+| 2026-10-26 00:01:04 | [minitotp](https://pypi.org/project/minitotp/) | 0.1.0 |  | 6.6 kB | Standard TOTP (RFC6238) two-factor authentication SDK, pure standard library |
+| 2026-10-26 00:05:55 | [skill-linter](https://pypi.org/project/skill-linter/) | 0.1.0 | Jeff Smolinski | 127.8 kB | Validate Agent Skills repos: spec checks, shared conventions, per-repo policy,… |
+| 2026-10-26 00:09:10 | [modisp](https://pypi.org/project/modisp/) | 0.0.1 |  | 1.2 kB |  |
+| 2026-10-26 00:12:37 | [shade-plugins-ms365](https://pypi.org/project/shade-plugins-ms365/) | 0.1.0 | ShadeOne | 24.9 kB | Ler e-mails e baixar anexos do Outlook e listar, baixar e enviar arquivos do Sh… |
+| 2026-10-26 00:13:49 | [route66-consensus](https://pypi.org/project/route66-consensus/) | 1.0.0 | Omni-Agent Architect & 70s Re… | 39.3 kB | Autonomous Multi-Agent Consensus & Deadlock-Free Orchestration Grid |
+| 2026-10-26 00:14:12 | [neonbox-runtime](https://pypi.org/project/neonbox-runtime/) | 1.0.0 | Omni-Agent Architect & 70s Re… | 34.0 kB | Deterministic Low-Latency Sandboxed Tool Runtime for Autonomous AI Agents |
+| 2026-10-26 00:14:52 | [pixtreme-train](https://pypi.org/project/pixtreme-train/) | 0.1.0 | minamik <mia@sync.dev> | 5.8 kB | Shared training components for pixtreme model trainers |
+| 2026-10-26 00:15:59 | [telefi](https://pypi.org/project/telefi/) | 0.3.0 | Michael Huang | 66.1 kB | Telegram as a two-way control surface for scripts, CI and agents: drop a JSON e… |
+| 2026-10-26 00:17:15 | [pydeepity](https://pypi.org/project/pydeepity/) | 0.1.0a1 | Jack R | 44.4 MB | A high-performance Predictive Coding library. |
