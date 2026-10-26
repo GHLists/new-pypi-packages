@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T15:08:06Z,gbra,0.1.1,Berke T. Adanc,MIT,22079,"GBRA (Gember-Berke Rank Adaptation): DoRA-style fine-tuning with a buffered, lazily refreshed weight norm."
+2026-10-26T15:19:40Z,clinguard,0.1.1,Shalini Sivasamy,Apache-2.0,31892,Safety-first building blocks for clinical voice AI in low-resource languages and dialects
+2026-10-26T15:21:05Z,pysenn,0.2.0,Alessio Parolini <alepar.ap9@gmail.com>,,14559,"pysenn - A Python package, based on PyTorch, to build Self Expanding Neural Networks and train them with an optimezed process."
+2026-10-26T15:23:05Z,odoo-addon-website-sale-category-smart-button,19.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",AGPL-3,22947,Adds a 'Go to Website' smart button on the eCommerce category form view
+2026-10-26T15:26:38Z,yml2gantt,0.1.0,Louis Devillez,MIT,41255,Draw gantt charts with matplotlib from a simple YAML file (or from Python).
+2026-10-26T15:27:37Z,probandia,1.0.0,DevOhMyCode,Apache-2.0,13016780,Genealogy research plugin for AI coding agents: nothing is concluded until it is proven.
+2026-10-26T15:30:51Z,af-downloads-client,0.1.0,Allfly <engineering@allfly.io>,MIT,10831,Thin client for registering and revoking allfly-downloads links
+2026-10-26T15:31:50Z,pystudentkit,0.1.0,Jaspreet Singh,MIT,12769,"A lightweight student productivity toolkit for grades, deadlines, and study planning."
+2026-10-26T15:33:07Z,ReliableML-AutoML,1.0.0,,MIT,44457,Optional model selection and ATTP partitioning for ReliableML.
+2026-10-26T15:34:44Z,bvc-renta-fija,0.3.3,JAG,MIT,47335,Librería Python para extraer datos de renta fija de la Bolsa de Valores de Colombia (BVC)
+2026-10-26T15:35:51Z,ripplerack,0.2.4,IzanVil,MIT,176983,Local-first datacenter & data pipeline simulator with semantic schema versioning and cascading impact analysis.
+2026-10-26T15:36:21Z,chatdeck,0.1.0,,MIT,300706,"A local dashboard for your Claude Code chats: what's running, what needs you, and what it costs."
+2026-10-26T15:36:42Z,aem-sdk,0.0.1,,Apache-2.0,1832,"Official Python library for AEM, the Africa Entelligence Marketplace (in development)"
+2026-10-26T15:40:20Z,signaloid,2.0.0,Signaloid,MIT,9884537,Signaloid Data Toolkit for interacting with Signaloid's UxHw®.
+2026-10-26T15:40:26Z,AFMSlicer,0.0.1,"Neil Shephard <n.shephard@sheffield.ac.uk>, Laia Pasquina-Lemonche <l.pasquinalemonche@sheffield.ac…",GPL-3.0-or-later,17726972,Package for slicing AFM images.
+2026-10-26T15:41:52Z,slicegate,0.3.0,Nguyễn Cường,MIT,364199,"Gated development process for teams of AI coding agents: slices, gates, verdict ledgers, guards in git hooks, mutation testing by risk zone."
+2026-10-26T15:42:35Z,ai-sys-tools,1.0.0,Lb <3204624858@qq.com>,MIT,458821,445 个 Windows/桌面/网络实用工具（图片/文件/视频/网页/请求下载/截图/录音/窗口/进程/内存磁盘CPU GPU 清理/NTP 校时/系统控制），每个函数带 rag 工具注册元数据（五段描述）。
+2026-10-26T15:43:29Z,elba-mcp,0.1.0,Игорь Батраков,MIT,33195,"MCP-сервер Контур.Эльбы: счета, акты, УПД, ссылки на документы, контроль оплат"
+2026-10-26T15:44:04Z,pylontech-tools,0.1.0,,GPL-3.0-or-later,328378,Portable Pylontech console client and BatteryView-compatible reports
+2026-10-26T15:50:08Z,riya-utility-kit,0.1.0,Riya,MIT,9696,A polished collection of practical Python utilities by Riya.
+2026-10-26T15:51:57Z,luckylucy.utils.tg-bots.peer.chat,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,10754,A collection of utilities I use across different projects (luckylucy.utils.tg_bots.peer.chat)
+2026-10-26T15:52:00Z,luckylucy.utils.tg-bots.peer.user,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,15040,A collection of utilities I use across different projects (luckylucy.utils.tg_bots.peer.user)
+2026-10-26T15:52:02Z,sapiadapter2,1.5.0,Zafar Iqbal,,2922,"A minimal package exposing run, defdata, and defmeta methods"
+2026-10-26T15:52:09Z,luckylucy.utils.jinja2.filters,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,9510,A collection of utilities I use across different projects (luckylucy.utils.jinja2.filters)
+2026-10-26T15:52:12Z,luckylucy.utils.network.mod-wsgi,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,12148,A collection of utilities I use across different projects (luckylucy.utils.network.mod_wsgi)
+2026-10-26T15:54:13Z,fds.sdk.Conversational,1.0.0,FactSet Research Systems,"Apache License, Version 2.0",333767,Conversational client library for Python
+2026-10-26T15:54:39Z,XQX,0.5.0,Siddharth,MIT,45268,UI-Engine by Enirb
+2026-10-26T15:54:50Z,cupiqp,0.1.0,Fenglong Song <fenglong.song@epfl.ch>,BSD-2-Clause,441449,GPU-accelerated proximal interior-point QP solver (cuPIQP).
+2026-10-26T15:56:18Z,sovergate,0.1.0a1,Roberto Postolovski,MIT,27630,"EU AI Act compliance SDK — automatic, non-invasive audit logging for LLM calls"
+2026-10-26T15:58:03Z,pseg-nj-mymeter,0.2.0,brylee123,MIT,16707,Asynchronous PSE&G NJ MyMeter export client and electricity data models
+2026-10-26T15:58:13Z,periplus-map,0.2.1,camoa,Apache-2.0,786993,"A schema-first, deterministic codebase mapper, configurable to any stack."
+2026-10-26T15:59:19Z,napari-afmslicer,0.0.1,Neil Shephard,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",749123,A simple plugin to use AFMSlicer with napari
+2026-10-26T16:00:45Z,hiepy,0.1.0,Benedikt Schroeter,EUPL-1.2,135432,A comprehensive PyTorch framework for Hierarchical Tucker tensors.
+2026-10-26T16:02:18Z,governer,1.0.2,Kaiser0733 <amardeepkumar0733@gmail.com>,MIT,38671,"Hard spend breaker for AI agents — prices cache reads, bills real usage, and refuses the request that would cross your budget."
+2026-10-26T16:02:19Z,altissimo-auth,1.1.0,Altissimo HQ,Apache-2.0,65427,"Reusable, framework-agnostic authentication library for Altissimo projects."
+2026-10-26T16:04:12Z,makeleaps-client,0.1.0,minamik <10973755+minamikik@users.noreply.github.com>,MIT,54375,"Unofficial Python client library and CLI for the MakeLeaps REST API (not affiliated with MakeLeaps, Inc.)"
+2026-10-26T16:11:12Z,langchain-finic,0.1.0a4,Suprep Labs,MIT,238813,"Community LangChain tools, Runnables, and middleware for Finic Grayson decisions"
+2026-10-26T16:14:28Z,rlshiftlab,0.2.0,,MIT,217515,Stress-test frozen RL policies under controlled shifts and get degradation curves with confidence intervals.
+2026-10-26T16:14:53Z,ogre-oggsound,14.6.2,Ian Stangoe,"Copyright (c) 2008-2010, Kresimir Spes (kreso@cateia.com) All rights reserved. Redistribution and u…",249187,OgreOggSound audio bindings for ogre-python
+2026-10-26T16:15:09Z,awesome-dl,0.0.0,,,3027,
+2026-10-26T16:15:25Z,jupyterhub-staticsystemdspawner,0.1.0,Jörg Behrmann <behrmann@physik.fu-berlin.de>,BSD-3-Clause,30025,JupyterHub Spawner using systemd unit files
+2026-10-26T16:15:42Z,biotsr,1.0.0,"Poorya Khajouie, Krishna Rauniyar, Vijay V. Raghavan, Wu Xu",Apache-2.0,2734728,BioTSR -- the unified software implementation of the Triangular Spatial Relationship (TSR) methodology
+2026-10-26T16:16:46Z,ratslang-cli,0.5.0,,MIT OR Apache-2.0,4644539,"Check, format, explain and migrate Ratslang configuration files"
+2026-10-26T16:16:50Z,download-apk,0.1.0,Jeremy Morren,MIT,16707,Search Google Play and download apps' APKs into versioned folders.
+2026-10-26T16:16:56Z,ratslang-lsp,0.5.0,,MIT OR Apache-2.0,24321969,Language server for Ratslang configuration files
+2026-10-26T16:17:18Z,mspdetect,0.1.0,"Loris Keller, Yoel Pérez Haas, Noemi Bührer",MIT,230653,Automatic mid-sagittal plane detection in head and neck planning CTs.
+2026-10-26T16:17:51Z,taxo,1.0.0,Andreas Hamm <andreas.hamm@dlr.de>,MIT,29169,Tag documents with taxonomy terms using embeddings and a concept hierarchy
