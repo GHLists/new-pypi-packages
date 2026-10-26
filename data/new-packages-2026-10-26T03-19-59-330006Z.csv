@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T02:19:21Z,mneme-llm,0.1.0,RustColeone,MIT,354082,"Memory and mood for AI companions that outlive any one model: one SQLite file, usable by every LLM"
+2026-10-26T02:22:26Z,trakt-mcp,0.11.2,,MIT,416584,Model Context Protocol server bridging AI models with the Trakt.tv API.
+2026-10-26T02:25:14Z,rko-solver,0.3.0a2,,Apache-2.0 AND MIT,4128531,Cooperative random-key optimization with configurable metaheuristic portfolios
+2026-10-26T02:27:07Z,graphviz-pure,0.2.1,,EPL-2.0 AND OFL-1.1 AND MIT,36009569,"Pure-Rust port of Graphviz 16.1.0: the dot command line, same output on every platform (not affiliated with Graphviz)"
+2026-10-26T02:28:04Z,redfox-data-mcp,0.2.0,,MIT,64649,"RedFox data MCP: find, describe, call and result over the RedFoxHub catalog"
+2026-10-26T02:28:18Z,Topsis-Amogh-102303929,1.0.0,Amogh Singh,,7110,"Rank alternatives with TOPSIS multi-criteria decision analysis, from the command line"
+2026-10-26T02:31:59Z,pyproject-toml-version,0.0.1a0,Lex Darlog (Lex-DRL),MPL-2.0,18612,"Get version from 'pyproject.toml' - static or dynamic, regardless of backend."
+2026-10-26T02:33:39Z,verumsignal-mcp,0.2.0,Verum Signal LLC,MIT,20445,"MCP server for Verum Signal: political debate claims, who said each one and how it was rated."
+2026-10-26T02:34:53Z,atlas-md,0.1.0,Ryan Mattson <ramattson5@gmail.com>,MIT,37378,A command-line tool for managing and validating Markdown-based worldbuilding vaults.
+2026-10-26T02:38:52Z,danwen-eval,0.1.0,但问智能,,25840,Danwen branded installation and CLI wrapper for MLflow
+2026-10-26T02:38:59Z,attention-contact-planning,0.0.2,Phil Wang <lucidrains@gmail.com>,"MIT License Copyright (c) 2026 Phil Wang Permission is hereby granted, free of charge, to any perso…",10789,Attention-based Contact Planning
+2026-10-26T02:40:57Z,evidential,0.1.0,Edouard Poor,MIT,328732,"Evidence.dev-style interactive data tables for Marimo, powered by anywidget and DuckDB."
+2026-10-26T02:43:51Z,embers-memory,0.2.0,Holly Wren von Heidereich,MIT,155639,Embers: lossless memory for Claude Code. Local SQLite/FTS5 archive over session transcripts.
+2026-10-26T02:46:15Z,visset,0.1.0,visset contributors,MIT,154106,"Step-by-step visual explanations of code: hand-drawn annotations, synced diagrams."
+2026-10-26T02:48:11Z,kakaotalk-bot,0.1.0,jade (punch5545),MIT,39538,"KakaoTalk Bot API client: REST API wrapper, Gateway (WebSocket) client and webhook helpers"
+2026-10-26T02:48:16Z,mojolearn-core,0.8.57,Andrew Hendel,Apache-2.0,24325217,"mojolearn for Linux x86-64 without GPU binaries; add mojolearn-nvidia or mojolearn-amd, or pip install mojolearn for both"
+2026-10-26T02:49:18Z,optvpy,3.8.1,OptVerse Solver Team,LicenseRef-OptVerse-EULA,415976068,Python Interface for Optverse Solver
+2026-10-26T02:50:30Z,dc-mar-sdk,0.1.1,Mason Stoecker,MIT,111769,Python SDK for DC DataGate Master Address Repository (MAR) API with caching and telemetry
+2026-10-26T02:58:44Z,arras,0.6.3,,MIT OR Apache-2.0,17333503,"The interface to an ontology: UMF types and actions, freshness-stating reads, Truss and Ashlar backends."
+2026-10-26T03:01:12Z,rspdbench,1.0.0,"Tanjim Bin Faruk, Khondaker Masfiq Reza, Shrideep Pallickara, Sangmi Lee Pallickara",MIT,28807,Physically grounded remote-sensing product degradations for benchmarking Earth-observation models
+2026-10-26T03:13:01Z,openapi-mcp-hub,0.4.1,openapi-mcp-hub contributors,MIT,199992,"Turn any OpenAPI spec — or a live PostgreSQL/MySQL database — into production-ready MCP endpoints. One process, one port, zero code."
+2026-10-26T03:16:15Z,django-sqlite-ops,0.1.0a1,itda-work,MIT,700026,[Experimental] Operations toolkit for running SQLite as a production database in Django
+2026-10-26T03:16:41Z,labelarray,0.1.0,Rigoberto Leyva Salmeron,MIT,121170,"Labelled N-D arrays in pure NumPy, with exact label semantics and reproducible reductions"
+2026-10-26T03:17:12Z,napari-catppuccin,0.1.0,Dominic Jurkschat <dom.jurkschat@monash.edu>,BSD-3-Clause,7766,"Catppuccin themes (Latte, Frappé, Macchiato, Mocha) for napari."
+2026-10-26T03:17:30Z,napari-nord,0.1.0,Dominic Jurkschat <dom.jurkschat@monash.edu>,BSD-3-Clause,7461,Nord themes (dark and light) for napari.
+2026-10-26T03:19:39Z,zuppy,0.1.0,,MIT,34513,"Official Python SDK for zuppy: upload code snippets, images and files"
