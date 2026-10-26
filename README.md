@@ -8,48 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 00:19 UTC
+## Latest list — 2026-10-26 01:19 UTC
 
-New packages created between 2026-10-25 23:18 UTC and 2026-10-26 00:19 UTC.
+New packages created between 2026-10-26 00:19 UTC and 2026-10-26 01:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-26T00-19-16-13158Z.csv)
+[Full CSV](data/new-packages-2026-10-26T01-19-54-61772Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-25 23:20:20 | [pytalo](https://pypi.org/project/pytalo/) | 0.1.0a1 | akamoyoo | 308.1 kB | A resident in-memory Python session you drive from the terminal: load data once… |
-| 2026-10-25 23:22:58 | [peak-client](https://pypi.org/project/peak-client/) | 0.1.0 |  | 79.6 kB | Python client for the Peak CAPTCHA solving API |
-| 2026-10-25 23:23:33 | [kernelgecp](https://pypi.org/project/kernelgecp/) | 1.1.0 |  | 1.5 MB | Reusable fermionic cross bases, precision diagnostics, and optional native eval… |
-| 2026-10-25 23:23:52 | [stablevoy](https://pypi.org/project/stablevoy/) | 1.0.1 |  | 47.9 kB | Python client for the Stablevoy API: non-custodial USDT and USDC payments, invo… |
-| 2026-10-25 23:26:18 | [shade-plugins-google](https://pypi.org/project/shade-plugins-google/) | 0.1.0 | ShadeOne | 19.5 kB | Ler e escrever no Google Sheets e listar, baixar e enviar no Google Drive, com… |
-| 2026-10-25 23:26:54 | [holographic-memory-py](https://pypi.org/project/holographic-memory-py/) | 0.6.3 | "WritersLogic, Inc." <david@w… | 28.7 MB | Native Python bindings for Holographic Memory vector search and phase-vector al… |
-| 2026-10-25 23:28:45 | [avro-to-arrow](https://pypi.org/project/avro-to-arrow/) | 0.1.0 | Julien Peloton <peloton@ijcla… | 23.6 kB | Convert Avro records into Arrow format |
-| 2026-10-25 23:29:24 | [yescaptcha-client](https://pypi.org/project/yescaptcha-client/) | 0.1.0 |  | 79.2 kB | Python client for the YesCaptcha recognition API |
-| 2026-10-25 23:31:35 | [dependency-repair](https://pypi.org/project/dependency-repair/) | 0.1.0 | Brian Powers | 27.5 kB | Install the dependencies an editable install is missing, under an explicit poli… |
-| 2026-10-25 23:32:15 | [gramps-web-toolkit](https://pypi.org/project/gramps-web-toolkit/) | 0.2.0 |  | 782.2 kB | Command-line tools for running AI research agents against a Gramps Web family t… |
-| 2026-10-25 23:32:41 | [mailcellar](https://pypi.org/project/mailcellar/) | 0.9.0 | The mailcellar authors | 412.9 kB | Gmail backups in gyb's format, with deduplication, offloading old mail, restore… |
-| 2026-10-25 23:35:22 | [edd-kernel-contracts](https://pypi.org/project/edd-kernel-contracts/) | 0.2.0a2 |  | 21.3 kB | Provider-agnostic contracts for EDD Kernel. |
-| 2026-10-25 23:35:34 | [edd-kernel-core](https://pypi.org/project/edd-kernel-core/) | 0.2.0a2 |  | 36.6 kB | Shared EDD Kernel implementation: options, serialization, polling, lifecycle, o… |
-| 2026-10-25 23:35:37 | [edd-kernel-factory](https://pypi.org/project/edd-kernel-factory/) | 0.2.0a2 |  | 9.6 kB | Dynamic provider factory for EDD Kernel. |
-| 2026-10-25 23:35:40 | [edd-kernel-provider-in-memory](https://pypi.org/project/edd-kernel-provider-in-memory/) | 0.2.0a2 |  | 11.1 kB | In-memory provider for local development and tests. |
-| 2026-10-25 23:36:59 | [cardargus](https://pypi.org/project/cardargus/) | 0.1.0 | André Leite <leite@castlab.or… | 92.9 kB | Generate self-contained SVG information cards with embedded Google Fonts, shiel… |
-| 2026-10-25 23:38:54 | [pxl-cleanup](https://pypi.org/project/pxl-cleanup/) | 0.1.0 | Alvin Crespo | 16.9 kB | Turn AI-generated pixel-style images into true, grid-aligned pixel art sprites. |
-| 2026-10-25 23:39:13 | [morphiq-sdk](https://pypi.org/project/morphiq-sdk/) | 0.1.0 | MorphIQ Labs | 69.5 kB | Option pricing, Greeks, implied volatility and market regime identification thr… |
-| 2026-10-25 23:47:42 | [elecevm](https://pypi.org/project/elecevm/) | 0.1.0 | Kyle Hagen | 134.1 kB | Earned value management engine for electrical construction contractors — refere… |
-| 2026-10-25 23:47:55 | [pointclouds](https://pypi.org/project/pointclouds/) | 0.0.0 | Mostafa Farrag <moah.farag@gm… | 331.1 kB | Point cloud (LAS/LAZ/COPC) I/O, filtering, decimation and gridding |
-| 2026-10-25 23:47:57 | [x402-guard](https://pypi.org/project/x402-guard/) | 0.1.0 | Quincy Goertz-Brown | 50.1 kB | Payment-path seatbelt for x402 buyer agents: Settled pre-flight, endpoint drift… |
-| 2026-10-25 23:48:17 | [token-verdict-tools](https://pypi.org/project/token-verdict-tools/) | 0.1.0 | QuincyGB | 30.2 kB | Token Verdict tools for LangChain and CrewAI - pay-per-call token risk verdicts… |
-| 2026-10-25 23:48:57 | [llamagent](https://pypi.org/project/llamagent/) | 0.1.0 | Nils Malmberg | 332.8 kB | Un agent de code minimal autour d'Ollama, écrit à la main pour comprendre chaqu… |
-| 2026-10-25 23:50:22 | [konen](https://pypi.org/project/konen/) | 0.1.0 | Theodore Papamarkou | 79.6 kB | Human-centered star-graph orchestration of AI agents |
-| 2026-10-25 23:51:35 | [tianguis](https://pypi.org/project/tianguis/) | 0.1.0 | Alex Garcia | 66.8 MB | Servidor MCP (Streamable HTTP) de clasificados para agentes de IA |
-| 2026-10-25 23:52:40 | [metabole](https://pypi.org/project/metabole/) | 0.1.0 | ZenEdgeX | 52.8 MB | Certified regression skipping for hardware simulation |
-| 2026-10-25 23:56:17 | [claude-profile](https://pypi.org/project/claude-profile/) | 2.0.0 | claude-profile contributors | 70.5 kB | Per-customer profiles for Claude Code and Claude Desktop: separate logins, AI p… |
-| 2026-10-25 23:57:21 | [holonomy-lib](https://pypi.org/project/holonomy-lib/) | 0.8.0 | Synoros | 502.2 kB | Batched PyTorch primitives for Riemannian geometry, spectral graph theory, disc… |
-| 2026-10-26 00:01:04 | [minitotp](https://pypi.org/project/minitotp/) | 0.1.0 |  | 6.6 kB | Standard TOTP (RFC6238) two-factor authentication SDK, pure standard library |
-| 2026-10-26 00:05:55 | [skill-linter](https://pypi.org/project/skill-linter/) | 0.1.0 | Jeff Smolinski | 127.8 kB | Validate Agent Skills repos: spec checks, shared conventions, per-repo policy,… |
-| 2026-10-26 00:09:10 | [modisp](https://pypi.org/project/modisp/) | 0.0.1 |  | 1.2 kB |  |
-| 2026-10-26 00:12:37 | [shade-plugins-ms365](https://pypi.org/project/shade-plugins-ms365/) | 0.1.0 | ShadeOne | 24.9 kB | Ler e-mails e baixar anexos do Outlook e listar, baixar e enviar arquivos do Sh… |
-| 2026-10-26 00:13:49 | [route66-consensus](https://pypi.org/project/route66-consensus/) | 1.0.0 | Omni-Agent Architect & 70s Re… | 39.3 kB | Autonomous Multi-Agent Consensus & Deadlock-Free Orchestration Grid |
-| 2026-10-26 00:14:12 | [neonbox-runtime](https://pypi.org/project/neonbox-runtime/) | 1.0.0 | Omni-Agent Architect & 70s Re… | 34.0 kB | Deterministic Low-Latency Sandboxed Tool Runtime for Autonomous AI Agents |
-| 2026-10-26 00:14:52 | [pixtreme-train](https://pypi.org/project/pixtreme-train/) | 0.1.0 | minamik <mia@sync.dev> | 5.8 kB | Shared training components for pixtreme model trainers |
-| 2026-10-26 00:15:59 | [telefi](https://pypi.org/project/telefi/) | 0.3.0 | Michael Huang | 66.1 kB | Telegram as a two-way control surface for scripts, CI and agents: drop a JSON e… |
-| 2026-10-26 00:17:15 | [pydeepity](https://pypi.org/project/pydeepity/) | 0.1.0a1 | Jack R | 44.4 MB | A high-performance Predictive Coding library. |
+| 2026-10-26 00:19:47 | [agentmemdb](https://pypi.org/project/agentmemdb/) | 0.1.0 | Harsh Gulhane | 68.3 kB | Local-first, shared long-term memory for AI agents: one SQLite database for Cla… |
+| 2026-10-26 00:22:51 | [totalsegmentator-mlx](https://pypi.org/project/totalsegmentator-mlx/) | 0.1.1 | Joseph Sandoval, Alfredo Sand… | 62.4 kB | TotalSegmentator v2 CT segmentation with native MLX inference on Apple Silicon |
+| 2026-10-26 00:25:37 | [honeyc](https://pypi.org/project/honeyc/) | 0.3.0 |  | 53.1 kB | A compiler and CLI for Dense Rune-Chain Notation |
+| 2026-10-26 00:25:52 | [corcc](https://pypi.org/project/corcc/) | 0.3.0 |  | 15.6 kB | Chain-of-Reasoning Compiler-Compiler — spoken reasoning + persona-melt gauge |
+| 2026-10-26 00:26:07 | [skillchain-compiler](https://pypi.org/project/skillchain-compiler/) | 0.3.0 |  | 10.5 kB | Compose Claude Code skills into a validated, packaged chain |
+| 2026-10-26 00:26:20 | [sccc](https://pypi.org/project/sccc/) | 0.3.0 |  | 11.6 kB | Skillchain Compiler-Compiler — chains ACs + CoRs + skills into one SKILL.md |
+| 2026-10-26 00:27:11 | [bitwig-agent](https://pypi.org/project/bitwig-agent/) | 0.1.2 |  | 446.9 kB | Thin stdio MCP adapter for the local Bitwig Controller Extension |
+| 2026-10-26 00:39:53 | [twhy](https://pypi.org/project/twhy/) | 0.2.0 | Jason L Weirather | 353.7 kB | Zoomable microscopy, image and PDF previews in a text terminal |
+| 2026-10-26 00:47:29 | [segresnet-mlx](https://pypi.org/project/segresnet-mlx/) | 0.2.1 | Joseph Sandoval, Alfredo Sand… | 78.3 kB | Native MLX SegResNet with NumPy sliding-window logit inference |
+| 2026-10-26 00:49:11 | [medsam2-mlx](https://pypi.org/project/medsam2-mlx/) | 0.2.1 | Joseph Sandoval, Alfredo Sand… | 139.9 kB | Native MLX implementation of MedSAM2 |
+| 2026-10-26 00:49:39 | [ft-tui](https://pypi.org/project/ft-tui/) | 0.2.2 |  | 624.6 kB | Offline-first terminal workspace for École 42 students |
+| 2026-10-26 00:51:08 | [radimagenet-mlx](https://pypi.org/project/radimagenet-mlx/) | 0.2.1 | Joseph Sandoval, Alfredo Sand… | 50.5 kB | Native MLX implementation of RadImageNet |
+| 2026-10-26 00:52:15 | [kanad](https://pypi.org/project/kanad/) | 0.0.1 | Kamal Choudhary <drkamal@jhu.… | 10.7 kB | kanad |
+| 2026-10-26 00:53:00 | [shade-plugins-whatsapp](https://pypi.org/project/shade-plugins-whatsapp/) | 0.1.0 | ShadeOne | 16.3 kB | Enviar mensagem de texto e de modelo pela WhatsApp Business Cloud API, sem nunc… |
+| 2026-10-26 00:54:23 | [Image-pipeline-processor](https://pypi.org/project/Image-pipeline-processor/) | 0.1.0 |  | 18.2 kB | Pipeline y biblioteca de procesamiento y aumento de imágenes por lotes |
+| 2026-10-26 00:54:26 | [takeloom](https://pypi.org/project/takeloom/) | 0.5.1 |  | 1.2 MB | Music Recording Session Manager |
+| 2026-10-26 00:54:35 | [rupaka](https://pypi.org/project/rupaka/) | 0.0.1 | Karthik <karthik.rajgopal@hot… | 607.9 kB | Interactive SVG demos from JSON specs, made of small reusable blocks, that make… |
+| 2026-10-26 00:55:33 | [msp-py](https://pypi.org/project/msp-py/) | 0.1.0a1 | hxh230802 | 372.9 kB | Model Sensing Protocol — a node-centric paradigm for decentralized AI communica… |
+| 2026-10-26 00:57:30 | [seren-lyceum](https://pypi.org/project/seren-lyceum/) | 1.0.0 | Chad Roesler | 174.2 kB | Train your own model without reading fifty papers first: a dataset in, a model… |
+| 2026-10-26 00:59:59 | [betapair](https://pypi.org/project/betapair/) | 0.1.0 | nicedata | 380.3 kB | Dependency-light Bayesian analysis of paired binary outcomes with a hierarchica… |
+| 2026-10-26 01:03:19 | [inspect-ranges](https://pypi.org/project/inspect-ranges/) | 0.2.0 | Meridian Labs | 1.6 MB | Inspect AI extension for ranges. |
+| 2026-10-26 01:06:56 | [dmsroute](https://pypi.org/project/dmsroute/) | 0.1.2 | Diego Fernández-Villegas, Seb… | 286.4 kB | Utilities for acquiring, parsing, validating, harmonizing, and standardizing DM… |
+| 2026-10-26 01:08:22 | [uag-envsec](https://pypi.org/project/uag-envsec/) | 0.1.0 | Hirofumi Ukawa <hirofumi@ukaw… | 47.5 kB | Standalone encrypted environment-file and key-management helpers |
+| 2026-10-26 01:09:12 | [fontpkg-dm-serif-text](https://pypi.org/project/fontpkg-dm-serif-text/) | 5.200 |  | 86.4 kB | DM Serif Text font family, packaged for Python by fontpkg |
+| 2026-10-26 01:09:15 | [fontpkg-hammersmith-one](https://pypi.org/project/fontpkg-hammersmith-one/) | 1.3 |  | 52.2 kB | Hammersmith One font family, packaged for Python by fontpkg |
+| 2026-10-26 01:09:17 | [fontpkg-rowdies](https://pypi.org/project/fontpkg-rowdies/) | 1.0 |  | 127.6 kB | Rowdies font family, packaged for Python by fontpkg |
+| 2026-10-26 01:09:19 | [fontpkg-sofia-sans](https://pypi.org/project/fontpkg-sofia-sans/) | 4.101 |  | 288.3 kB | Sofia Sans font family, packaged for Python by fontpkg |
+| 2026-10-26 01:10:46 | [ftw-fbp](https://pypi.org/project/ftw-fbp/) | 0.1.0 | Isaac Corley <isaac.corley@ta… | 63.2 kB | Field boundary prediction post-processing algorithms |
+| 2026-10-26 01:12:57 | [maskvault](https://pypi.org/project/maskvault/) | 0.1.0 | janbalitaan | 241.8 kB | Reversible anonymization with a vault: replace confidential values with tokens,… |
+| 2026-10-26 01:15:30 | [tickhub-cn](https://pypi.org/project/tickhub-cn/) | 1.0.1 | QuotaFuse | 512.5 kB | TickHub-CN (A股数据枢纽): A-share data MCP server, CLI and local import library |

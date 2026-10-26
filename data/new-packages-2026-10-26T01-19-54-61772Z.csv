@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T00:19:47Z,agentmemdb,0.1.0,Harsh Gulhane,MIT,68280,"Local-first, shared long-term memory for AI agents: one SQLite database for Claude Code, omp and any MCP client"
+2026-10-26T00:22:51Z,totalsegmentator-mlx,0.1.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,62376,TotalSegmentator v2 CT segmentation with native MLX inference on Apple Silicon
+2026-10-26T00:25:37Z,honeyc,0.3.0,,,53111,A compiler and CLI for Dense Rune-Chain Notation
+2026-10-26T00:25:52Z,corcc,0.3.0,,,15556,Chain-of-Reasoning Compiler-Compiler — spoken reasoning + persona-melt gauge
+2026-10-26T00:26:07Z,skillchain-compiler,0.3.0,,,10468,"Compose Claude Code skills into a validated, packaged chain"
+2026-10-26T00:26:20Z,sccc,0.3.0,,,11612,Skillchain Compiler-Compiler — chains ACs + CoRs + skills into one SKILL.md
+2026-10-26T00:27:11Z,bitwig-agent,0.1.2,,MIT,446931,Thin stdio MCP adapter for the local Bitwig Controller Extension
+2026-10-26T00:39:53Z,twhy,0.2.0,Jason L Weirather,Apache-2.0,353726,"Zoomable microscopy, image and PDF previews in a text terminal"
+2026-10-26T00:47:29Z,segresnet-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,78346,Native MLX SegResNet with NumPy sliding-window logit inference
+2026-10-26T00:49:11Z,medsam2-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,139887,Native MLX implementation of MedSAM2
+2026-10-26T00:49:39Z,ft-tui,0.2.2,,,624614,Offline-first terminal workspace for École 42 students
+2026-10-26T00:51:08Z,radimagenet-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0 AND MIT,50506,Native MLX implementation of RadImageNet
+2026-10-26T00:52:15Z,kanad,0.0.1,Kamal Choudhary <drkamal@jhu.edu>,Apache-2.0,10653,kanad
+2026-10-26T00:53:00Z,shade-plugins-whatsapp,0.1.0,ShadeOne,Apache-2.0,16313,"Enviar mensagem de texto e de modelo pela WhatsApp Business Cloud API, sem nunca repetir um envio depois de despachado."
+2026-10-26T00:54:23Z,Image-pipeline-processor,0.1.0,,,18158,Pipeline y biblioteca de procesamiento y aumento de imágenes por lotes
+2026-10-26T00:54:26Z,takeloom,0.5.1,,MIT,1248527,Music Recording Session Manager
+2026-10-26T00:54:35Z,rupaka,0.0.1,Karthik <karthik.rajgopal@hotmail.com>,MIT,607916,"Interactive SVG demos from JSON specs, made of small reusable blocks, that make the learner predict first"
+2026-10-26T00:55:33Z,msp-py,0.1.0a1,hxh230802,MIT,372872,Model Sensing Protocol — a node-centric paradigm for decentralized AI communication.
+2026-10-26T00:57:30Z,seren-lyceum,1.0.0,Chad Roesler,AGPL-3.0-or-later,174231,"Train your own model without reading fifty papers first: a dataset in, a model out, on this box or a rented GPU."
+2026-10-26T00:59:59Z,betapair,0.1.0,nicedata,Apache-2.0,380261,Dependency-light Bayesian analysis of paired binary outcomes with a hierarchical McNemar test and multi-strata pooling.
+2026-10-26T01:03:19Z,inspect-ranges,0.2.0,Meridian Labs,MIT License,1608335,Inspect AI extension for ranges.
+2026-10-26T01:06:56Z,dmsroute,0.1.2,"Diego Fernández-Villegas, Sebastián Escobedo, Tomás Alarcón, David Medina-Ortiz",MIT,286419,"Utilities for acquiring, parsing, validating, harmonizing, and standardizing DMS datasets from MaveDB and ProteinGym."
+2026-10-26T01:08:22Z,uag-envsec,0.1.0,Hirofumi Ukawa <hirofumi@ukawa.biz>,Apache-2.0,47478,Standalone encrypted environment-file and key-management helpers
+2026-10-26T01:09:12Z,fontpkg-dm-serif-text,5.200,,OFL-1.1,86437,"DM Serif Text font family, packaged for Python by fontpkg"
+2026-10-26T01:09:15Z,fontpkg-hammersmith-one,1.3,,OFL-1.1,52201,"Hammersmith One font family, packaged for Python by fontpkg"
+2026-10-26T01:09:17Z,fontpkg-rowdies,1.0,,OFL-1.1,127602,"Rowdies font family, packaged for Python by fontpkg"
+2026-10-26T01:09:19Z,fontpkg-sofia-sans,4.101,,OFL-1.1,288337,"Sofia Sans font family, packaged for Python by fontpkg"
+2026-10-26T01:10:46Z,ftw-fbp,0.1.0,Isaac Corley <isaac.corley@taylorgeospatial.org>,MIT,63230,Field boundary prediction post-processing algorithms
+2026-10-26T01:12:57Z,maskvault,0.1.0,janbalitaan,MIT,241825,"Reversible anonymization with a vault: replace confidential values with tokens, pass them through anything, restore them afterwards"
+2026-10-26T01:15:30Z,tickhub-cn,1.0.1,QuotaFuse,Apache-2.0,512497,"TickHub-CN (A股数据枢纽): A-share data MCP server, CLI and local import library"
