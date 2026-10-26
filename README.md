@@ -8,51 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 08:18 UTC
+## Latest list — 2026-10-26 09:19 UTC
 
-New packages created between 2026-10-26 07:19 UTC and 2026-10-26 08:18 UTC.
+New packages created between 2026-10-26 08:18 UTC and 2026-10-26 09:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-26T08-18-36-63521Z.csv)
+[Full CSV](data/new-packages-2026-10-26T09-19-51-99936Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-26 07:21:16 | [pixaipy](https://pypi.org/project/pixaipy/) | 0.1.0 | pixaipy contributors | 27.6 kB | Unofficial Python client, CLI and examples for the PixAI.art GraphQL/REST API |
-| 2026-10-26 07:24:38 | [remenis](https://pypi.org/project/remenis/) | 0.1.2 |  | 8.0 kB | AI memory middleware system |
-| 2026-10-26 07:30:26 | [grobx](https://pypi.org/project/grobx/) | 0.73.0 |  | 2.6 MB | Reduced Gröbner bases of polynomial ideals over GF(p) and over the rationals |
-| 2026-10-26 07:30:47 | [scivianna-graph](https://pypi.org/project/scivianna-graph/) | 0.1.0 |  | 264.7 kB | Build interactive ReactFlow graphs (rotatable nodes, drag-select, 4-side plugs)… |
-| 2026-10-26 07:33:49 | [pressready](https://pypi.org/project/pressready/) | 0.1.0 |  | 509.4 kB | Manuscript in, publish-ready book out: EPUB, print interior PDF and wrap cover… |
-| 2026-10-26 07:37:39 | [gymnasium-base-siege](https://pypi.org/project/gymnasium-base-siege/) | 0.1.0 | Vaibhav Bairathi | 144.2 kB | Base Siege: a masked-action strategy environment for Gymnasium |
-| 2026-10-26 07:37:44 | [valen-sdk](https://pypi.org/project/valen-sdk/) | 0.2.0 |  | 841.7 kB | Typed local ONNX and HTTP access to Valen decisions |
-| 2026-10-26 07:41:25 | [konstera-sdk](https://pypi.org/project/konstera-sdk/) | 0.6.0 | Konstera <hello@konstera.exam… | 113.4 kB | Python SDK for building Konstera agents. Wraps the MCP callback protocol and th… |
-| 2026-10-26 07:42:03 | [energychain](https://pypi.org/project/energychain/) | 0.1.0 | EnergyChain Contributors | 57.3 kB | Composable, safety-first Python framework for AI-native energy applications |
-| 2026-10-26 07:44:08 | [euaiact](https://pypi.org/project/euaiact/) | 0.1.0 | "Dr. Dimitrios Geromichalos"… | 1.9 MB | Offline calculation and logic rules for the EU Artificial Intelligence Act |
-| 2026-10-26 07:45:41 | [duyi-utils-zyc](https://pypi.org/project/duyi-utils-zyc/) | 0.1.3 |  | 4.6 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
-| 2026-10-26 07:46:39 | [panddu](https://pypi.org/project/panddu/) | 2.4 |  | 7.1 kB |  |
-| 2026-10-26 07:46:45 | [thalamus-arch](https://pypi.org/project/thalamus-arch/) | 0.1.0 | Jackson Porter | 110.8 kB | Measure a Python repository's import graph against the layers it declares, and… |
-| 2026-10-26 07:46:53 | [university-anonymous](https://pypi.org/project/university-anonymous/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 51.3 kB | University Anonymous: anonymous posts and comments that are unlinkable to the p… |
-| 2026-10-26 07:48:49 | [konstera-sdk-contexts](https://pypi.org/project/konstera-sdk-contexts/) | 1.0.0 | Konstera <hello@konstera.exam… | 17.4 kB | Typed constants for the Konstera Standard Context Pack v1 — canonical glossary… |
-| 2026-10-26 07:56:42 | [swpc-kit](https://pypi.org/project/swpc-kit/) | 0.3.0 | Sidereus Team <sidereus.team@… | 349.9 kB | Typed readers for NOAA SWPC space weather data products, with GeoJSON and GeoTI… |
-| 2026-10-26 07:57:07 | [tunr-sdk](https://pypi.org/project/tunr-sdk/) | 0.9.0.post1 |  | 7.6 kB | Official Python SDK for tunr — localhost tunneling made simple. |
-| 2026-10-26 07:58:41 | [dna-mass-sonifier-pg](https://pypi.org/project/dna-mass-sonifier-pg/) | 1.0.6 | Patrick Grate | 4.4 kB | An algorithmic framework mapping DNA molecular mass directly to absolute musica… |
-| 2026-10-26 07:59:02 | [cbe-mobile](https://pypi.org/project/cbe-mobile/) | 0.1.0 | NeuralS <team@neurals.et> | 32.7 kB | CBE Mobile Banking Python SDK and Terminal UI |
-| 2026-10-26 07:59:29 | [odoo-addon-shopify-connector-website-sale](https://pypi.org/project/odoo-addon-shopify-connector-website-sale/) | 19.0.1.0.0.2 | Sawir Studio, ForgeFlow, Odoo… | 29.6 kB | Synchronize Shopify product media with eCommerce extra product media |
-| 2026-10-26 08:00:21 | [shopee-beeai-integration-pytest](https://pypi.org/project/shopee-beeai-integration-pytest/) | 0.0.0 | sc | 2.6 kB | A small example package |
-| 2026-10-26 08:00:41 | [smspva-sdk](https://pypi.org/project/smspva-sdk/) | 0.1.0a1 |  | 43.7 kB | Typed sync and async clients for SMSPVA Activation V2, Rental and Private Email |
-| 2026-10-26 08:02:45 | [toucan-router](https://pypi.org/project/toucan-router/) | 0.1.0 |  | 226.8 kB | Route approved chat requests to their T3 threads and track replies. |
-| 2026-10-26 08:02:49 | [toucan-teams-bot](https://pypi.org/project/toucan-teams-bot/) | 0.1.0 |  | 97.3 kB | Teams bot for Toucan Router: receive approved requests and post replies. |
-| 2026-10-26 08:02:53 | [toucan-router-tools](https://pypi.org/project/toucan-router-tools/) | 0.1.0 |  | 30.3 kB | Optional Loom and Google Sheets tools for Toucan Router. |
-| 2026-10-26 08:03:35 | [neoshell-cli](https://pypi.org/project/neoshell-cli/) | 0.1.0 | Neoshell Contributors | 22.9 kB | Personal Cloud HTTP File Manager CLI |
-| 2026-10-26 08:04:26 | [repoready](https://pypi.org/project/repoready/) | 0.1.1 |  | 80.6 kB | Offline, read-only repository readiness checks: evidence-based findings, no sco… |
-| 2026-10-26 08:05:47 | [flipkart-scraping](https://pypi.org/project/flipkart-scraping/) | 0.1.0 | Buğrahan Saka | 37.9 kB | Scrape Flipkart search results, product details and reviews with Python, from t… |
-| 2026-10-26 08:08:25 | [university-institution](https://pypi.org/project/university-institution/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 84.6 kB | University Institution: institutions, campuses, academic structure and verified… |
-| 2026-10-26 08:08:27 | [aoguan-core](https://pypi.org/project/aoguan-core/) | 0.1.0 |  | 12.2 kB | Core contracts and runtime primitives for the Aoguan Python SDK |
-| 2026-10-26 08:08:27 | [aoguan-prompts](https://pypi.org/project/aoguan-prompts/) | 0.1.0 |  | 6.8 kB | Prompt rendering and context assembly for the Aoguan Python SDK |
-| 2026-10-26 08:08:27 | [aoguan-qwen](https://pypi.org/project/aoguan-qwen/) | 0.1.0 |  | 21.2 kB | Alibaba Cloud Bailian Qwen client for the Aoguan Python SDK |
-| 2026-10-26 08:08:42 | [arodonata](https://pypi.org/project/arodonata/) | 2.0.0 | Anton Razumov <arazumov@check… | 1.0 MB | Async-first Python 3.13+ library and SDK for Check Point Security Management an… |
-| 2026-10-26 08:11:41 | [timora](https://pypi.org/project/timora/) | 0.1.1 | Timora Contributors | 30.4 kB | Lightweight CLI voice time reminders. |
-| 2026-10-26 08:12:22 | [aoguan-rag](https://pypi.org/project/aoguan-rag/) | 0.1.0 |  | 14.0 kB | Retrieval augmented generation composition for the Aoguan Python SDK |
-| 2026-10-26 08:12:28 | [aoguan-documents](https://pypi.org/project/aoguan-documents/) | 0.1.0 |  | 14.9 kB | Local document parsing and chunking for the Aoguan Python SDK |
-| 2026-10-26 08:12:31 | [aoguan-knowledge](https://pypi.org/project/aoguan-knowledge/) | 0.1.0 |  | 30.5 kB | Local knowledge indexing and retrieval for the Aoguan Python SDK |
-| 2026-10-26 08:14:20 | [university-social](https://pypi.org/project/university-social/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 93.6 kB | University Social: posts, comments, reactions, reposts, polls, media, feeds and… |
-| 2026-10-26 08:14:52 | [aoguan-evaluation](https://pypi.org/project/aoguan-evaluation/) | 0.1.0 |  | 18.2 kB | Deterministic evaluation for the Aoguan Python SDK |
-| 2026-10-26 08:14:58 | [dragonfipy](https://pypi.org/project/dragonfipy/) | 0.1.0 | Chris Irag | 17.8 kB | DragonFi API wrapper |
+| 2026-10-26 08:11:10 | [lorebase-core](https://pypi.org/project/lorebase-core/) | 0.2.3 |  | 530.4 kB | Lorebase core: pure domain logic and versioning engine |
+| 2026-10-26 08:19:45 | [4take](https://pypi.org/project/4take/) | 0.2.1 |  | 392.0 kB | Code review by a council of four free LLMs on OpenRouter, with findings ranked… |
+| 2026-10-26 08:20:17 | [process-risk-consequence-toolkit](https://pypi.org/project/process-risk-consequence-toolkit/) | 0.1.0 | Ugwiyeon Lee | 202.4 kB | Traceable consequence screening, optional dense-gas histories, and a restricted… |
+| 2026-10-26 08:20:34 | [bookmgr](https://pypi.org/project/bookmgr/) | 2.0.0 | Erikton Konomi | 148.8 kB | Local ebook library management: identify, catalog, and organize EPUB and PDF fi… |
+| 2026-10-26 08:21:53 | [university-community](https://pypi.org/project/university-community/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 50.9 kB | University Community: communities with roles, privacy, invitations and delegate… |
+| 2026-10-26 08:24:45 | [aoguan-sdk](https://pypi.org/project/aoguan-sdk/) | 0.1.1 |  | 2.8 kB | Lightweight aggregate installer for the Aoguan Python SDK |
+| 2026-10-26 08:25:06 | [lorebase-platform](https://pypi.org/project/lorebase-platform/) | 0.2.3 |  | 22.5 kB | Lorebase platform: settings, secrets, logging and telemetry |
+| 2026-10-26 08:25:08 | [lorebase-inference](https://pypi.org/project/lorebase-inference/) | 0.2.3 |  | 85.5 kB | Lorebase inference: model-agnostic chat, embedding and span extraction providers |
+| 2026-10-26 08:25:08 | [lorebase-store](https://pypi.org/project/lorebase-store/) | 0.2.3 |  | 1.0 MB | Lorebase store: persistence, repositories, migrations and materializer |
+| 2026-10-26 08:25:19 | [wagtail-pagetree](https://pypi.org/project/wagtail-pagetree/) | 0.1.0 | Hyperlocal HQ | 128.2 kB | Lazy-loaded virtualized page tree for the Wagtail admin |
+| 2026-10-26 08:25:29 | [xippios-usda-esr](https://pypi.org/project/xippios-usda-esr/) | 0.1.0 | XIPPIOS GmbH | 94.7 kB | Typed client, MCP tools and HTTP routes for USDA FAS Export Sales Reporting |
+| 2026-10-26 08:27:16 | [university-notifications](https://pypi.org/project/university-notifications/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 83.4 kB | University Notifications: in-app, email, push and SMS notifications with prefer… |
+| 2026-10-26 08:28:22 | [lorebase-cli](https://pypi.org/project/lorebase-cli/) | 0.2.3 |  | 169.6 kB | Lorebase CLI |
+| 2026-10-26 08:28:29 | [lorebase-client](https://pypi.org/project/lorebase-client/) | 0.2.3 |  | 115.1 kB | Lorebase client: typed sync and async HTTP client for the Keeper API |
+| 2026-10-26 08:28:29 | [lorebase-keeper](https://pypi.org/project/lorebase-keeper/) | 0.2.3 |  | 1.0 MB | Lorebase Keeper: REST API service |
+| 2026-10-26 08:28:29 | [pyatlassdk](https://pypi.org/project/pyatlassdk/) | 0.1.0 | Yaoxing | 1.8 MB | Python SDKs for the MongoDB Atlas Administration, App Services Admin, and Statu… |
+| 2026-10-26 08:30:27 | [zharp-logs](https://pypi.org/project/zharp-logs/) | 0.1.0 | Zharp <support@zharp.io> | 42.9 kB | Send your Python app's logs and uncaught exceptions to Zharp. No dependencies. |
+| 2026-10-26 08:31:33 | [tradeiq-lab-mcp](https://pypi.org/project/tradeiq-lab-mcp/) | 0.2.0 |  | 629.9 kB | MCP server for backtesting Indian stock strategies with keyless Yahoo data: wri… |
+| 2026-10-26 08:31:41 | [lorebase-scribe](https://pypi.org/project/lorebase-scribe/) | 0.2.3 |  | 319.2 kB | Lorebase Scribe: job worker, scheduler and Source synchronization |
+| 2026-10-26 08:31:42 | [lorebase-guide](https://pypi.org/project/lorebase-guide/) | 0.2.3 |  | 81.1 kB | Lorebase Guide: optional exploration assistant and query embedding over Keeper |
+| 2026-10-26 08:31:42 | [lorebase-herald](https://pypi.org/project/lorebase-herald/) | 0.2.3 |  | 87.6 kB | Lorebase Herald: MCP server over the Keeper REST API |
+| 2026-10-26 08:31:59 | [university-events](https://pypi.org/project/university-events/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 88.4 kB | University Events: events, venues, schedules, registration, capacity, waitlists… |
+| 2026-10-26 08:32:34 | [mcp-server-bugpk-music](https://pypi.org/project/mcp-server-bugpk-music/) | 0.1.1 | Ocean Li | 9.3 kB | MCP server that wraps the BugPk music aggregation API (QQ Music / NetEase) for… |
+| 2026-10-26 08:34:38 | [sixvolumes-trust-pipeline](https://pypi.org/project/sixvolumes-trust-pipeline/) | 0.2.0 |  | 290.4 kB | Reproducible Chinese-first evidence pipeline with six vendored MIT tools |
+| 2026-10-26 08:36:05 | [decikit](https://pypi.org/project/decikit/) | 0.1.0 |  | 6.3 MB | Build, serve and inspect decision pipelines |
+| 2026-10-26 08:36:34 | [university-payments](https://pypi.org/project/university-payments/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 65.8 kB | University Payments: provider-agnostic payments (Paystack, Flutterwave, Stripe)… |
+| 2026-10-26 08:37:31 | [plexo-cli](https://pypi.org/project/plexo-cli/) | 0.1.0 | Jagjot Singh <gotogether@gmai… | 41.9 kB | Multi-network bandwidth bonding download engine & CLI |
+| 2026-10-26 08:38:24 | [information-model](https://pypi.org/project/information-model/) | 2.1.0rc4 | IEC, ISO | 2.1 MB | Information Model for describing Smart Content with rich metadata. |
+| 2026-10-26 08:40:42 | [university-creator](https://pypi.org/project/university-creator/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 97.6 kB | University Creator: creator profiles, verification, linked social accounts, med… |
+| 2026-10-26 08:43:36 | [politefetch](https://pypi.org/project/politefetch/) | 0.1.0 | Sidereus Team <sidereus.team@… | 278.9 kB | A polite, crash-safe gate between an ingest service and the external sources it… |
+| 2026-10-26 08:44:22 | [zao](https://pypi.org/project/zao/) | 0.1.0 | SyntheticGestalt <info@synthe… | 123.1 kB | A molecular foundation model that reads each molecule as a set of conformers |
+| 2026-10-26 08:44:31 | [pyrgc](https://pypi.org/project/pyrgc/) | 0.4.0 |  | 43.5 kB | Build and publish RGC-based Python extension modules (CPython C API bindings fo… |
+| 2026-10-26 08:45:13 | [hpr](https://pypi.org/project/hpr/) | 0.1.0 | bay | 38.2 MB | Unified HPR LP and convex QP solvers |
+| 2026-10-26 08:45:39 | [university-marketplace](https://pypi.org/project/university-marketplace/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 64.8 kB | University Marketplace: listings, sellers, inventory, orders with escrow, dispu… |
+| 2026-10-26 08:49:04 | [mcp-server-cxzja-music](https://pypi.org/project/mcp-server-cxzja-music/) | 0.1.0 | Ocean Li | 9.1 kB | MCP server for the 残像API 网抑云音乐 (NetEase Cloud Music) search & playback API. |
+| 2026-10-26 08:49:11 | [odoo-addon-social-media-x](https://pypi.org/project/odoo-addon-social-media-x/) | 17.0.1.0.0.1 | Binhex, Odoo Community Associ… | 3.3 MB | Publish on X, with the figures of the account and of the posts sent |
+| 2026-10-26 08:50:25 | [egbench](https://pypi.org/project/egbench/) | 0.1.0 | Yuqing Geng, Hao Luo, Feng Gao | 68.8 MB | Evaluation library and MCP server of the EGBench human gene essentiality benchm… |
+| 2026-10-26 08:52:19 | [tickhub-us](https://pypi.org/project/tickhub-us/) | 1.0.0 | QuotaFuse <44062290+QuotaFuse… | 324.7 kB | TickHub-US (US/HK market data engine for AI agents): MCP server, th-us CLI and… |
+| 2026-10-26 08:52:43 | [pyalloq-viz](https://pypi.org/project/pyalloq-viz/) | 0.1.22 | Siddeshkanth | 81.5 kB | Interactive and static visualization tear sheets for PyAlloq portfolio optimiza… |
+| 2026-10-26 08:55:26 | [university-media](https://pypi.org/project/university-media/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 46.1 kB | University Media: secure uploads, object storage, asynchronous audio/video/imag… |
+| 2026-10-26 08:55:32 | [crm-csv-preflight](https://pypi.org/project/crm-csv-preflight/) | 0.1.0 | Sales List Rescue | 11.8 kB | Read-only preflight scan for CRM/lead CSVs before HubSpot, Salesforce, or Piped… |
+| 2026-10-26 08:58:26 | [gain-core](https://pypi.org/project/gain-core/) | 2026.10.2 | Lubomir Chorbadjiev <lubomir.… | 3.1 MB | GAIn: Genomic Annotation Infrastructure |
+| 2026-10-26 08:59:16 | [mailtester-ninja](https://pypi.org/project/mailtester-ninja/) | 1.0.0 | MailTester Ninja <contact@mai… | 13.9 kB | Official client for the MailTester Ninja email verification API: check in real… |
+| 2026-10-26 09:01:07 | [university-podcast](https://pypi.org/project/university-podcast/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 68.9 kB | University Podcast: shows, seasons, episodes, hosts, guests, audio and video, t… |
+| 2026-10-26 09:02:38 | [small-python](https://pypi.org/project/small-python/) | 0.0.1 | Ju Lin <soasme@gmail.com> | 6.7 kB | A placeholder Python package. |
+| 2026-10-26 09:04:13 | [certora-cli-alpha-shelly-concord-bytecode](https://pypi.org/project/certora-cli-alpha-shelly-concord-bytecode/) | 20261026.9.4.493306 | Certora | 176.2 MB | Runner for the Certora Prover |
+| 2026-10-26 09:04:21 | [chirograph](https://pypi.org/project/chirograph/) | 0.2.1 | Swarbrick Lab | 267.3 kB | Portable, content-addressed manifests for scientific datasets |
+| 2026-10-26 09:04:44 | [kerito-rocket](https://pypi.org/project/kerito-rocket/) | 1.0.0 | islam | 7.4 kB | Educational rocket and geometry helpers for Lab 3 exercises |
+| 2026-10-26 09:06:42 | [university-analytics](https://pypi.org/project/university-analytics/) | 0.1.0 | Ifeanyi Stanley <nnamaniifean… | 27.2 kB | University Analytics: privacy-conscious event aggregation, active users, view t… |
+| 2026-10-26 09:07:03 | [adevkit](https://pypi.org/project/adevkit/) | 0.1.0 |  | 11.7 MB | Aayush's DevKit - Single command project initialisation with agent skills and e… |
+| 2026-10-26 09:08:10 | [singulax](https://pypi.org/project/singulax/) | 0.1.0 | Ainara Segura Marquez <asegma… | 6.1 MB | Optimization of fed-batch fermentation processes by aplying optimal control the… |
+| 2026-10-26 09:10:25 | [toolost-uploader](https://pypi.org/project/toolost-uploader/) | 0.1.0 | Gunamaya <developer@kiriminaj… | 109.0 kB | CLI and Playwright automation tool for Too Lost music release manifests |
+| 2026-10-26 09:14:08 | [ndm-client](https://pypi.org/project/ndm-client/) | 2026.3.0a1 | NATIXON | 370.9 kB | Python client and typed CLI covering every endpoint of the NX-DEVICE REST API s… |
+| 2026-10-26 09:14:48 | [lps-nf](https://pypi.org/project/lps-nf/) | 1.0.0 | swagnonher | 24.0 kB | Библиотека запрещенного (свэга) & нужного функционала (LPS&NF - Library prohibi… |
+| 2026-10-26 09:17:33 | [citefabric](https://pypi.org/project/citefabric/) | 0.1.0 |  | 357.5 kB | Version-aware academic search and traceable evidence for research agents |
+| 2026-10-26 09:17:45 | [xippios-usda-gats](https://pypi.org/project/xippios-usda-gats/) | 0.1.0 | XIPPIOS GmbH | 323.0 kB | Typed client, MCP tools and HTTP routes for USDA FAS Global Agricultural Trade… |
+| 2026-10-26 09:19:17 | [openbot-api](https://pypi.org/project/openbot-api/) | 1.0.0 | Kafnik | 9.8 kB | Python client for the Openbot ID authorization API |

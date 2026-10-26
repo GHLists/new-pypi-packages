@@ -1,0 +1,58 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T08:11:10Z,lorebase-core,0.2.3,,,530407,Lorebase core: pure domain logic and versioning engine
+2026-10-26T08:19:45Z,4take,0.2.1,,BUSL-1.1,392002,"Code review by a council of four free LLMs on OpenRouter, with findings ranked by how many reviewers raised them"
+2026-10-26T08:20:17Z,process-risk-consequence-toolkit,0.1.0,Ugwiyeon Lee,Apache-2.0,202446,"Traceable consequence screening, optional dense-gas histories, and a restricted coupled-layer research model"
+2026-10-26T08:20:34Z,bookmgr,2.0.0,Erikton Konomi,MIT,148844,"Local ebook library management: identify, catalog, and organize EPUB and PDF files by title, grouping the formats of one book, independent of any frontend."
+2026-10-26T08:21:53Z,university-community,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,50850,"University Community: communities with roles, privacy, invitations and delegated moderation for the University platform."
+2026-10-26T08:24:45Z,aoguan-sdk,0.1.1,,,2781,Lightweight aggregate installer for the Aoguan Python SDK
+2026-10-26T08:25:06Z,lorebase-platform,0.2.3,,,22509,"Lorebase platform: settings, secrets, logging and telemetry"
+2026-10-26T08:25:08Z,lorebase-inference,0.2.3,,,85451,"Lorebase inference: model-agnostic chat, embedding and span extraction providers"
+2026-10-26T08:25:08Z,lorebase-store,0.2.3,,,1047716,"Lorebase store: persistence, repositories, migrations and materializer"
+2026-10-26T08:25:19Z,wagtail-pagetree,0.1.0,Hyperlocal HQ,MIT,128211,Lazy-loaded virtualized page tree for the Wagtail admin
+2026-10-26T08:25:29Z,xippios-usda-esr,0.1.0,XIPPIOS GmbH,Apache-2.0,94699,"Typed client, MCP tools and HTTP routes for USDA FAS Export Sales Reporting"
+2026-10-26T08:27:16Z,university-notifications,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,83355,"University Notifications: in-app, email, push and SMS notifications with preferences, quiet hours and digests for the University platform."
+2026-10-26T08:28:22Z,lorebase-cli,0.2.3,,,169635,Lorebase CLI
+2026-10-26T08:28:29Z,lorebase-client,0.2.3,,,115125,Lorebase client: typed sync and async HTTP client for the Keeper API
+2026-10-26T08:28:29Z,lorebase-keeper,0.2.3,,,1007619,Lorebase Keeper: REST API service
+2026-10-26T08:28:29Z,pyatlassdk,0.1.0,Yaoxing,MIT,1791786,"Python SDKs for the MongoDB Atlas Administration, App Services Admin, and Status APIs."
+2026-10-26T08:30:27Z,zharp-logs,0.1.0,Zharp <support@zharp.io>,MIT,42882,Send your Python app's logs and uncaught exceptions to Zharp. No dependencies.
+2026-10-26T08:31:33Z,tradeiq-lab-mcp,0.2.0,,Apache-2.0,629882,"MCP server for backtesting Indian stock strategies with keyless Yahoo data: write a strategy, backtest it, export a report."
+2026-10-26T08:31:41Z,lorebase-scribe,0.2.3,,,319175,"Lorebase Scribe: job worker, scheduler and Source synchronization"
+2026-10-26T08:31:42Z,lorebase-guide,0.2.3,,,81124,Lorebase Guide: optional exploration assistant and query embedding over Keeper
+2026-10-26T08:31:42Z,lorebase-herald,0.2.3,,,87619,Lorebase Herald: MCP server over the Keeper REST API
+2026-10-26T08:31:59Z,university-events,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,88447,"University Events: events, venues, schedules, registration, capacity, waitlists, tickets and check-in for the University platform."
+2026-10-26T08:32:34Z,mcp-server-bugpk-music,0.1.1,Ocean Li,MIT,9255,MCP server that wraps the BugPk music aggregation API (QQ Music / NetEase) for song resolution.
+2026-10-26T08:34:38Z,sixvolumes-trust-pipeline,0.2.0,,MIT,290362,Reproducible Chinese-first evidence pipeline with six vendored MIT tools
+2026-10-26T08:36:05Z,decikit,0.1.0,,,6345559,"Build, serve and inspect decision pipelines"
+2026-10-26T08:36:34Z,university-payments,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,65823,"University Payments: provider-agnostic payments (Paystack, Flutterwave, Stripe), verified webhooks, refunds, escrow ledger and payouts for the University platform."
+2026-10-26T08:37:31Z,plexo-cli,0.1.0,Jagjot Singh <gotogether@gmail.com>,MIT,41912,Multi-network bandwidth bonding download engine & CLI
+2026-10-26T08:38:24Z,information-model,2.1.0rc4,"IEC, ISO",CC-BY-SA-4.0,2116552,Information Model for describing Smart Content with rich metadata.
+2026-10-26T08:40:42Z,university-creator,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,97647,"University Creator: creator profiles, verification, linked social accounts, media kits, campaigns, sponsorships and analytics for the University platform."
+2026-10-26T08:43:36Z,politefetch,0.1.0,Sidereus Team <sidereus.team@gmail.com>,MIT,278887,"A polite, crash-safe gate between an ingest service and the external sources it polls."
+2026-10-26T08:44:22Z,zao,0.1.0,SyntheticGestalt <info@syntheticgestalt.com>,LicenseRef-SG-TVAR-1.0,123142,A molecular foundation model that reads each molecule as a set of conformers
+2026-10-26T08:44:31Z,pyrgc,0.4.0,,Apache-2.0,43469,Build and publish RGC-based Python extension modules (CPython C API bindings for the RGC language)
+2026-10-26T08:45:13Z,hpr,0.1.0,bay,MIT,38211313,Unified HPR LP and convex QP solvers
+2026-10-26T08:45:39Z,university-marketplace,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,64785,"University Marketplace: listings, sellers, inventory, orders with escrow, disputes and reviews for the University platform."
+2026-10-26T08:49:04Z,mcp-server-cxzja-music,0.1.0,Ocean Li,MIT,9060,MCP server for the 残像API 网抑云音乐 (NetEase Cloud Music) search & playback API.
+2026-10-26T08:49:11Z,odoo-addon-social-media-x,17.0.1.0.0.1,"Binhex, Odoo Community Association (OCA)",AGPL-3,3287254,"Publish on X, with the figures of the account and of the posts sent"
+2026-10-26T08:50:25Z,egbench,0.1.0,"Yuqing Geng, Hao Luo, Feng Gao",MIT,68798651,Evaluation library and MCP server of the EGBench human gene essentiality benchmark.
+2026-10-26T08:52:19Z,tickhub-us,1.0.0,QuotaFuse <44062290+QuotaFuse-ai@users.noreply.github.com>,Apache-2.0,324739,"TickHub-US (US/HK market data engine for AI agents): MCP server, th-us CLI and typed DataEnvelope"
+2026-10-26T08:52:43Z,pyalloq-viz,0.1.22,Siddeshkanth,,81477,"Interactive and static visualization tear sheets for PyAlloq portfolio optimization, backtesting, and simulation."
+2026-10-26T08:55:26Z,university-media,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,46089,"University Media: secure uploads, object storage, asynchronous audio/video/image processing, signed URLs and clips for the University platform."
+2026-10-26T08:55:32Z,crm-csv-preflight,0.1.0,Sales List Rescue,MIT,11773,"Read-only preflight scan for CRM/lead CSVs before HubSpot, Salesforce, or Pipedrive import: duplicates, bad emails, blanks, personal domains, malformed phones."
+2026-10-26T08:58:26Z,gain-core,2026.10.2,Lubomir Chorbadjiev <lubomir.chorbadjiev@gmail.com>,MIT,3144248,GAIn: Genomic Annotation Infrastructure
+2026-10-26T08:59:16Z,mailtester-ninja,1.0.0,MailTester Ninja <contact@mailtester.ninja>,MIT,13950,Official client for the MailTester Ninja email verification API: check in real time if an email address is valid and deliverable.
+2026-10-26T09:01:07Z,university-podcast,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,68919,"University Podcast: shows, seasons, episodes, hosts, guests, audio and video, transcripts, clips, RSS and listening analytics for the University platform."
+2026-10-26T09:02:38Z,small-python,0.0.1,Ju Lin <soasme@gmail.com>,MIT,6658,A placeholder Python package.
+2026-10-26T09:04:13Z,certora-cli-alpha-shelly-concord-bytecode,20261026.9.4.493306,Certora,GPL-3.0-only,176220620,Runner for the Certora Prover
+2026-10-26T09:04:21Z,chirograph,0.2.1,Swarbrick Lab,MIT,267277,"Portable, content-addressed manifests for scientific datasets"
+2026-10-26T09:04:44Z,kerito-rocket,1.0.0,islam,MIT,7393,Educational rocket and geometry helpers for Lab 3 exercises
+2026-10-26T09:06:42Z,university-analytics,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,27236,"University Analytics: privacy-conscious event aggregation, active users, view tracking and institution dashboards for the University platform."
+2026-10-26T09:07:03Z,adevkit,0.1.0,,,11682212,Aayush's DevKit - Single command project initialisation with agent skills and environments
+2026-10-26T09:08:10Z,singulax,0.1.0,Ainara Segura Marquez <asegma@dtu.dk>,,6125318,Optimization of fed-batch fermentation processes by aplying optimal control theory.
+2026-10-26T09:10:25Z,toolost-uploader,0.1.0,Gunamaya <developer@kiriminaja.com>,MIT,109030,CLI and Playwright automation tool for Too Lost music release manifests
+2026-10-26T09:14:08Z,ndm-client,2026.3.0a1,NATIXON,LicenseRef-Proprietary,370890,Python client and typed CLI covering every endpoint of the NX-DEVICE REST API server
+2026-10-26T09:14:48Z,lps-nf,1.0.0,swagnonher,,24008,Библиотека запрещенного (свэга) & нужного функционала (LPS&NF - Library prohibited swag & necessary functionality)
+2026-10-26T09:17:33Z,citefabric,0.1.0,,Apache-2.0,357459,Version-aware academic search and traceable evidence for research agents
+2026-10-26T09:17:45Z,xippios-usda-gats,0.1.0,XIPPIOS GmbH,Apache-2.0,322975,"Typed client, MCP tools and HTTP routes for USDA FAS Global Agricultural Trade System"
+2026-10-26T09:19:17Z,openbot-api,1.0.0,Kafnik,MIT,9838,Python client for the Openbot ID authorization API
