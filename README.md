@@ -8,32 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 04:19 UTC
+## Latest list — 2026-10-26 05:18 UTC
 
-New packages created between 2026-10-26 03:19 UTC and 2026-10-26 04:19 UTC.
+New packages created between 2026-10-26 04:19 UTC and 2026-10-26 05:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-26T04-19-07-283272Z.csv)
+[Full CSV](data/new-packages-2026-10-26T05-18-36-066719Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-26 02:42:44 | [alpha2](https://pypi.org/project/alpha2/) | 0.4.2 |  | 3.7 MB | Python client for the alpha2 video engine: build, validate, and render project… |
-| 2026-10-26 03:21:09 | [txa](https://pypi.org/project/txa/) | 1.0.4 | TXA Software Dev | 160.2 kB | TXA package manager toolchain: txapm (install), txacreate (publish), txaci (16-… |
-| 2026-10-26 03:21:24 | [mongrade](https://pypi.org/project/mongrade/) | 0.1.0a1 |  | 67.4 kB | 轻量、可验证、可恢复的 MongoDB 版本迁移工具 |
-| 2026-10-26 03:23:20 | [midstream-platform](https://pypi.org/project/midstream-platform/) | 1.0.0rc1 |  | 1.2 MB | Midstream: a streaming platform on Kaspr that materializes Kafka topics into Ic… |
-| 2026-10-26 03:23:30 | [alpha2-host](https://pypi.org/project/alpha2-host/) | 0.4.2 |  | 129.2 MB | The native alpha2 renderer (alpha2-host) for the alpha2 Python package. |
-| 2026-10-26 03:25:17 | [routedel](https://pypi.org/project/routedel/) | 1.0.7 | Hadi Cahyadi <cumulus13@gmail… | 52.2 kB | Delete, add, list and monitor IPv4 routes, with ntfy and Growl (GNTP) notificat… |
-| 2026-10-26 03:28:17 | [pulr-sdk](https://pypi.org/project/pulr-sdk/) | 0.4.0 | Tal Eilon | 12.8 kB | Official Python SDK for pulr.ai — secure file exchange for AI agents: upload, s… |
-| 2026-10-26 03:31:27 | [agentguard-eval](https://pypi.org/project/agentguard-eval/) | 0.3.0 | Zohaib Qamar | 86.4 kB | Guardrails and evals for AI agents: a policy gate for tool calls, a checker for… |
-| 2026-10-26 03:35:17 | [kernelmix](https://pypi.org/project/kernelmix/) | 0.3.1 | Nilson Chapagain | 2.5 MB | Bayesian kernel machine regression for exposure mixtures |
-| 2026-10-26 03:37:11 | [ezr-database-sdk](https://pypi.org/project/ezr-database-sdk/) | 0.1.2 |  | 33.3 kB | Synchronous read-only EZR brand database metadata and table routing SDK |
-| 2026-10-26 03:39:48 | [pyeasyspin](https://pypi.org/project/pyeasyspin/) | 0.1.0 | Sulaiman | 1.4 MB | Unofficial Python port of the EasySpin EPR simulation and analysis toolbox (Eas… |
-| 2026-10-26 03:42:03 | [DefPixel](https://pypi.org/project/DefPixel/) | 0.1.0 | Heo Yongseon | 182.4 kB | A Python toolkit for data connections, modling, and access |
-| 2026-10-26 03:49:36 | [marketmirror](https://pypi.org/project/marketmirror/) | 0.4.2 | Ayush Niroula | 40.1 kB | MCP server that tests ads, prices, emails and sales pitches on simulated buyers… |
-| 2026-10-26 03:53:38 | [gliss-server](https://pypi.org/project/gliss-server/) | 0.1.0a1 |  | 8.7 MB | CPU-only VM desktop streaming to the browser |
-| 2026-10-26 03:55:31 | [production-agent-systems](https://pypi.org/project/production-agent-systems/) | 1.0.1 | Peyman Salimi | 91.6 kB | Provider-neutral effect assurance and reliability testing for agent tool operat… |
-| 2026-10-26 03:59:53 | [offbox](https://pypi.org/project/offbox/) | 0.1.0 | Oleksii Avdieiev <50865612+o-… | 501.2 kB | Give every git worktree its own Docker stack on one cloud VM. |
-| 2026-10-26 04:00:44 | [prefly](https://pypi.org/project/prefly/) | 0.1.0 | Kaushal Shriwas <64089478+kau… | 286.9 kB | Scan a Frappe site for APIs removed or renamed in the next major version, befor… |
-| 2026-10-26 04:05:10 | [slopcheck-lint](https://pypi.org/project/slopcheck-lint/) | 0.1.1 | slopcheck contributors | 507.8 kB | A linter for the mess AI coding agents leave in Python. |
-| 2026-10-26 04:06:09 | [ws4](https://pypi.org/project/ws4/) | 0.2.0 | FRESH Lab <noreply@example.or… | 1.2 MB | WS4: Wood Supply Simulation System (Spatially explicit) |
-| 2026-10-26 04:11:27 | [agent-pmo](https://pypi.org/project/agent-pmo/) | 0.1.0 | Vikas Bhandary | 607.1 kB | Project management for AI coding agents: specs, decisions, tests, reviews and r… |
-| 2026-10-26 04:12:48 | [xippios-usda-nass](https://pypi.org/project/xippios-usda-nass/) | 0.1.0 | XIPPIOS GmbH | 70.0 kB | Typed client, MCP tools and HTTP routes for USDA NASS Quick Stats |
+| 2026-10-26 04:19:22 | [agentic_terminal_gmk](https://pypi.org/project/agentic_terminal_gmk/) | 0.1.3 |  | 5.2 kB | A terminal based agentic interface or a mcp which can add terminal capability |
+| 2026-10-26 04:27:35 | [edu-glasses-host](https://pypi.org/project/edu-glasses-host/) | 0.5.0 |  | 114.6 MB | Python SDK for Looktech education glasses (EDU v1) |
+| 2026-10-26 04:32:37 | [obzerve](https://pypi.org/project/obzerve/) | 0.1.0 | Aryan Fredericks | 91.3 kB | Observability, replay, and regression testing for AI agents: OpenTelemetry trac… |
+| 2026-10-26 04:35:21 | [lexmatch](https://pypi.org/project/lexmatch/) | 0.1.0 | janbalitaan | 126.9 kB | Dependency-free BM25 question matching with phrase scoring, for when embeddings… |
+| 2026-10-26 04:38:50 | [ofdkit](https://pypi.org/project/ofdkit/) | 0.1.0 | Edgar-311 | 66.5 kB | Read OFD documents (GB/T 33190) and Chinese e-invoices: text, invoice fields, a… |
+| 2026-10-26 04:39:53 | [image-edit-prep](https://pypi.org/project/image-edit-prep/) | 0.1.0 | Leanna Yode | 15.3 kB | Prepare local photos for editing and create before-and-after comparison sheets. |
+| 2026-10-26 04:40:16 | [talos-bar](https://pypi.org/project/talos-bar/) | 0.0.1 |  | 33.4 kB | Cross-platform desktop bar (PySide6 + QML) extended with Python glue |
+| 2026-10-26 04:44:18 | [api581-engine](https://pypi.org/project/api581-engine/) | 0.1.4 |  | 1.7 MB | API RP 581 Risk Analysis Module: composable Python calculations and workflows |
+| 2026-10-26 04:44:52 | [open-action-record](https://pypi.org/project/open-action-record/) | 0.2.0 |  | 69.5 kB | Write and verify Open Action Records: signed proof of what an AI agent's action… |
+| 2026-10-26 04:45:14 | [muse-bot](https://pypi.org/project/muse-bot/) | 1.0.3 |  | 188.3 MB | CLI for your personal muse.ai agent: chat, side chats, feed, goals, ideas and s… |
+| 2026-10-26 04:47:04 | [sync-brave](https://pypi.org/project/sync-brave/) | 0.1.0 |  | 15.4 kB | Export bookmarks from Chrome and merge them into Brave |
+| 2026-10-26 04:50:27 | [sar-geo-mcp](https://pypi.org/project/sar-geo-mcp/) | 0.38.0 |  | 1.6 MB | CalTopo interaction hub and geo-computing accessories for SAR |
+| 2026-10-26 04:53:12 | [open-healthcare-agentic-platform](https://pypi.org/project/open-healthcare-agentic-platform/) | 0.10.0 | Open Healthcare Agentic Platf… | 237.8 kB | Vendor-neutral, open-source, evidence-grounded healthcare search and agentic AI… |
+| 2026-10-26 04:53:39 | [oceanum-prax-sdk](https://pypi.org/project/oceanum-prax-sdk/) | 0.3.2 |  | 65.6 kB | Typed clients and data models for PRAX platform |
+| 2026-10-26 04:54:29 | [aai-study-library](https://pypi.org/project/aai-study-library/) | 0.1.3 |  | 2.2 MB | A terminal study library for AAI test materials |
+| 2026-10-26 05:01:11 | [datasetlens](https://pypi.org/project/datasetlens/) | 0.3.0 | PrinceZaman-2005, airinrs | 19.6 kB | Dataset inspection toolkit for text and image datasets |
+| 2026-10-26 05:01:47 | [oceanum-prax-cli](https://pypi.org/project/oceanum-prax-cli/) | 0.3.2 |  | 286.0 kB | Command-line interface for PRAX platform |
+| 2026-10-26 05:03:27 | [scion-sdk](https://pypi.org/project/scion-sdk/) | 0.5.6 | Repository Maintainers <maint… | 1.6 MB | Scion SDK for the Arbora ecosystem: MCP server scaffolding, connector manifests… |
+| 2026-10-26 05:03:29 | [dynamoredis](https://pypi.org/project/dynamoredis/) | 0.1.0 | Frank Zhang | 15.9 kB | A truly serverless Redis on your own AWS account: Lambda URL endpoint, DynamoDB… |
+| 2026-10-26 05:09:00 | [pyrosome](https://pypi.org/project/pyrosome/) | 0.1.11 | ian | 35.2 kB | Versioned, append-only storage for polars data frames, safe for concurrent proc… |
+| 2026-10-26 05:10:14 | [autodoc-docs](https://pypi.org/project/autodoc-docs/) | 0.3.1 |  | 369.0 kB | Dependency-free documentation governance CLI and generation engine |
+| 2026-10-26 05:10:37 | [orochi.base](https://pypi.org/project/orochi.base/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 30.3 kB | Base class used in Orochi packages |
+| 2026-10-26 05:10:39 | [orochi.fit](https://pypi.org/project/orochi.fit/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 57.5 kB | Python package for simulating X-ray pair distribution functions |
+| 2026-10-26 05:10:40 | [orochi.pdfget](https://pypi.org/project/orochi.pdfget/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 38.4 kB | Python package for simulating X-ray pair distribution functions |
+| 2026-10-26 05:10:42 | [orochi.pdfsim](https://pypi.org/project/orochi.pdfsim/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 68.1 kB | Python package for simulating X-ray pair distribution functions |
+| 2026-10-26 05:11:32 | [ztest-runner](https://pypi.org/project/ztest-runner/) | 0.5.1 | Alex Chen | 746.0 kB | Fast pytest-compatible test runner with a native Zig supervisor |
+| 2026-10-26 05:17:32 | [rarbon](https://pypi.org/project/rarbon/) | 0.0.1 | Rarbon contributors | 4.8 kB | Name placeholder for the Rarbon cheminformatics toolkit; the working API ships… |

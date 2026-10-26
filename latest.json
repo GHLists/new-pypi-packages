@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-10-26T03:19:59.330006Z",
-    "path": "data/new-packages-2026-10-26T04-19-07-283272Z.csv",
-    "to": "2026-10-26T04:19:07.283272Z"
+    "count": 27,
+    "from": "2026-10-26T04:19:07.283272Z",
+    "path": "data/new-packages-2026-10-26T05-18-36-066719Z.csv",
+    "to": "2026-10-26T05:18:36.066719Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-26T03:59:18Z",
       "package": "maraclaw_py_docker",
       "since": "2026-10-26T03:19:59.330006Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-26T05:17:29Z",
+      "package": "ownmetrics-mcp",
+      "since": "2026-10-26T04:19:07.283272Z",
+      "version": "0.2.0"
     }
   ],
-  "serial": 42745508,
+  "serial": 42746536,
   "source_truncated": false,
-  "window": "2026-10-26T04:19:07.283272Z"
+  "window": "2026-10-26T05:18:36.066719Z"
 }

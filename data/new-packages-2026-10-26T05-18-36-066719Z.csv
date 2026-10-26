@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T04:19:22Z,agentic_terminal_gmk,0.1.3,,,5216,A terminal based agentic interface or a mcp which can add terminal capability
+2026-10-26T04:27:35Z,edu-glasses-host,0.5.0,,LicenseRef-Proprietary,114566670,Python SDK for Looktech education glasses (EDU v1)
+2026-10-26T04:32:37Z,obzerve,0.1.0,Aryan Fredericks,Apache-2.0,91314,"Observability, replay, and regression testing for AI agents: OpenTelemetry tracing with automatic instrumentation for OpenAI, Anthropic, and Hugging Face models."
+2026-10-26T04:35:21Z,lexmatch,0.1.0,janbalitaan,MIT,126900,"Dependency-free BM25 question matching with phrase scoring, for when embeddings are more machinery than you need"
+2026-10-26T04:38:50Z,ofdkit,0.1.0,Edgar-311,Apache-2.0,66455,"Read OFD documents (GB/T 33190) and Chinese e-invoices: text, invoice fields, and AI tool integrations."
+2026-10-26T04:39:53Z,image-edit-prep,0.1.0,Leanna Yode,MIT,15251,Prepare local photos for editing and create before-and-after comparison sheets.
+2026-10-26T04:40:16Z,talos-bar,0.0.1,,BSD-3-Clause,33357,Cross-platform desktop bar (PySide6 + QML) extended with Python glue
+2026-10-26T04:44:18Z,api581-engine,0.1.4,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1721942,API RP 581 Risk Analysis Module: composable Python calculations and workflows
+2026-10-26T04:44:52Z,open-action-record,0.2.0,,Apache-2.0,69454,"Write and verify Open Action Records: signed proof of what an AI agent's action actually changed, and who approved it."
+2026-10-26T04:45:14Z,muse-bot,1.0.3,,MIT,188342046,"CLI for your personal muse.ai agent: chat, side chats, feed, goals, ideas and sessions from the terminal"
+2026-10-26T04:47:04Z,sync-brave,0.1.0,,MIT,15415,Export bookmarks from Chrome and merge them into Brave
+2026-10-26T04:50:27Z,sar-geo-mcp,0.38.0,,,1601268,CalTopo interaction hub and geo-computing accessories for SAR
+2026-10-26T04:53:12Z,open-healthcare-agentic-platform,0.10.0,Open Healthcare Agentic Platform Contributors,Apache-2.0,237847,"Vendor-neutral, open-source, evidence-grounded healthcare search and agentic AI platform"
+2026-10-26T04:53:39Z,oceanum-prax-sdk,0.3.2,,MIT,65645,Typed clients and data models for PRAX platform
+2026-10-26T04:54:29Z,aai-study-library,0.1.3,,MIT,2157132,A terminal study library for AAI test materials
+2026-10-26T05:01:11Z,datasetlens,0.3.0,"PrinceZaman-2005, airinrs",Apache-2.0,19598,Dataset inspection toolkit for text and image datasets
+2026-10-26T05:01:47Z,oceanum-prax-cli,0.3.2,,MIT,285963,Command-line interface for PRAX platform
+2026-10-26T05:03:27Z,scion-sdk,0.5.6,Repository Maintainers <maintainers@knuckles.team>,MIT,1581306,"Scion SDK for the Arbora ecosystem: MCP server scaffolding, connector manifests, and typed source/content extension ports"
+2026-10-26T05:03:29Z,dynamoredis,0.1.0,Frank Zhang,MIT,15866,"A truly serverless Redis on your own AWS account: Lambda URL endpoint, DynamoDB storage, ≈ $0 when idle. redis-py API: from dynamoredis import redis."
+2026-10-26T05:09:00Z,pyrosome,0.1.11,ian,MIT,35217,"Versioned, append-only storage for polars data frames, safe for concurrent processes"
+2026-10-26T05:10:14Z,autodoc-docs,0.3.1,,Apache-2.0,369042,Dependency-free documentation governance CLI and generation engine
+2026-10-26T05:10:37Z,orochi.base,4.0.0,Satoshi Tominaka <tominaka.satoshi@nims.go.jp>,,30309,Base class used in Orochi packages
+2026-10-26T05:10:39Z,orochi.fit,4.0.0,Satoshi Tominaka <tominaka.satoshi@nims.go.jp>,,57530,Python package for simulating X-ray pair distribution functions
+2026-10-26T05:10:40Z,orochi.pdfget,4.0.0,Satoshi Tominaka <tominaka.satoshi@nims.go.jp>,,38360,Python package for simulating X-ray pair distribution functions
+2026-10-26T05:10:42Z,orochi.pdfsim,4.0.0,Satoshi Tominaka <tominaka.satoshi@nims.go.jp>,,68056,Python package for simulating X-ray pair distribution functions
+2026-10-26T05:11:32Z,ztest-runner,0.5.1,Alex Chen,MIT,746025,Fast pytest-compatible test runner with a native Zig supervisor
+2026-10-26T05:17:32Z,rarbon,0.0.1,Rarbon contributors,MIT,4769,Name placeholder for the Rarbon cheminformatics toolkit; the working API ships in 0.1.0.
