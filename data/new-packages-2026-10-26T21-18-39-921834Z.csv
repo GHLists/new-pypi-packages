@@ -1,0 +1,58 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T19:52:21Z,chorus-actors,0.1.1,David Morrison,MIT,21430,An actor library for Python
+2026-10-26T20:22:40Z,ym-handcalcs,0.1.0,Connor Ferster <connor@structuralpython.com>,Apache-2.0,72067,"ym_handcalcs: renders handcalcs to ReportLab, and the `_hc` block for ymprint."
+2026-10-26T20:25:23Z,linefold,0.1.2,Andreas Martin,BSD-2-Clause AND GPL-3.0-only,63017,"Column envelope for long lines, drawn by Qt or matplotlib."
+2026-10-26T20:26:56Z,intentplane,0.5.1,Mustapha Hamdi,MIT,83309,"Intent control plane for LLM agents: the agent proposes, a deterministic gateway resolves every critical argument against trusted sources and decides (Cedar). Includes an MCP proxy."
+2026-10-26T20:27:15Z,trusting-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49021,A machine that establishes trust relationship.
+2026-10-26T20:27:39Z,lockwire-framework,0.0.0,,Apache-2.0,2643,Reserved for the LockWire framework (https://lockwire.org); the package is published from the framework's release.
+2026-10-26T20:28:04Z,papercleaner,0.1.0,,Apache-2.0,61058,Clean LaTeX paper sources safely
+2026-10-26T20:28:38Z,emoji-mixer,2.1.0,MattFor,MIT,399829,Get a Google Emoji Kitchen mixed emoji .png link from 2 other emojis. (and some more)
+2026-10-26T20:29:45Z,wenuray,1.0.0,Miguel Cárcamo <miguel.carcamo@usach.cl>,GPL-3.0-or-later,259638,A Python object oriented framework to do radio-interferometric self-calibration
+2026-10-26T20:29:57Z,lockwire-framework-fips,0.0.0,,Apache-2.0,2711,Reserved for the LockWire framework (https://lockwire.org); the package is published from the framework's release.
+2026-10-26T20:30:14Z,mdzip-core,0.1.0,,Apache-2.0,70046,Read and write MDZip (.mdz) archives: Markdown documents and their assets in one file.
+2026-10-26T20:31:02Z,codewire,0.1.0,,MIT,316949,Codewire SDK — environment-first cloud development
+2026-10-26T20:31:21Z,s-layer-flint-charts,0.1.0,Anentropic,,61581,"Semantic-layer-aware Flint charts for agents: types, grain guard and show_chart tool"
+2026-10-26T20:32:31Z,scratchtree-aravind,0.1.0,Aravind,MIT,24014,A decision tree classifier implemented from scratch with entropy and information gain.
+2026-10-26T20:33:03Z,prized,0.1.0,Prized <team@prized.dev>,Apache-2.0,167951,"Python SDK for Prized Sandboxes (beta): microVMs your code creates, runs commands in, pauses, forks and deletes."
+2026-10-26T20:33:40Z,qrp-mcp-core,0.2.0,Stanimir Tenev,Apache-2.0,7209846,Optional compiled line gate for qrp-mcp (release D). qrp-mcp uses it when installed and reads the same lines without it.
+2026-10-26T20:35:02Z,langchain-prized,0.1.0,Prized <team@prized.dev>,Apache-2.0,80308,Prized Sandboxes (Firecracker microVMs) as a sandbox backend for LangChain Deep Agents
+2026-10-26T20:35:02Z,openai-agents-prized,0.1.0,Prized <team@prized.dev>,Apache-2.0,100049,Prized Sandboxes (Linux microVMs) as a sandbox client for the OpenAI Agents SDK
+2026-10-26T20:37:08Z,apiverve-crosswordgenerator,1.2.3,APIVerve <hello@apiverve.com>,MIT,28243,"Crossword Generator is a crossword puzzle API that creates crosswords with intersecting words, numbered clues, and themed word selection."
+2026-10-26T20:37:12Z,apiverve-cronexpressionparser,1.2.3,APIVerve <hello@apiverve.com>,MIT,21795,"Cron Expression Parser decodes 5-field and 6-field cron expressions into human-readable schedules. Pass any cron string to verify syntax, read plain-language timing explanations, and get the next fiv…"
+2026-10-26T20:37:16Z,isaaclab-so101,0.1.0,,(MIT OR Apache-2.0) AND Apache-2.0,11341651,"SO-101 robot arm for Isaac Lab and Isaac Lab Arena: robot configs, embodiments, teleop devices, LeRobot recording, cuRobo config"
+2026-10-26T20:37:17Z,apiverve-csrparser,1.2.3,APIVerve <hello@apiverve.com>,MIT,25137,"CSR Parser extracts and analyzes information from Certificate Signing Requests (CSRs), providing detailed subject information, public key details, and fingerprints."
+2026-10-26T20:37:46Z,bamojax,0.4.2,Max Hinne,MIT,137221,Bayesian Modelling with JAX
+2026-10-26T20:37:53Z,apiverve-csvtojsonconverter,1.2.3,APIVerve <hello@apiverve.com>,MIT,21201,"CSV to JSON Converter parses raw CSV text into an array of JSON objects with column names and row counts. It handles comma, semicolon, tab, or pipe delimiters, with optional header row detection."
+2026-10-26T20:40:15Z,gena-datasets,0.1.0,,MIT,9368,Browse public Gena datasets and submit datasets for review.
+2026-10-26T20:40:38Z,agent-card-starter,0.2.1,flowboxx <kontakt@flowboxx.de>,MIT,33810,Make a small business readable for AI assistants: write and check an A2A agent card or MCP server card. Standard library only.
+2026-10-26T20:43:07Z,cronoq,0.2.0,Daniel Bentes <daniel.bentes@synapti.ai>,MIT OR Apache-2.0,16601139,"Elastic, priority-aware task scheduler for asyncio: priorities with aging, deadlines, cron, DAGs, rate limits and autoscaling, powered by Rust"
+2026-10-26T20:44:07Z,intentplane-mcp,0.5.1,Mustapha Hamdi,MIT,6554,MCP proxy that puts the intentplane gateway in front of any MCP server: critical tool arguments are resolved against trusted sources and decided by a Cedar policy.
+2026-10-26T20:45:00Z,graphify-php,0.0.5,Andrii Afanasiev,Apache-2.0,384349,PHP member-call resolution for graphify: binds $this->service->method() to the method node it calls.
+2026-10-26T20:48:10Z,pinworker,0.0.1,,,734,
+2026-10-26T20:48:12Z,graphify-mesh,0.0.22,AgentScopeX,"MIT License Copyright (c) 2026 AgentScopeX Permission is hereby granted, free of charge, to any per…",1710046,"Scheduled sync engine + companion MCP server that merges many per-repo graphify knowledge graphs into one repo-attributed, human-named global graph with a cross-project dependency/similarity/API over…"
+2026-10-26T20:48:15Z,pinsecret,0.0.1,,,742,
+2026-10-26T20:48:19Z,pinmetrics,0.0.1,,,744,
+2026-10-26T20:49:16Z,drf-batch,0.1.0,matin,BSD-3-Clause,133704,"Batch-aware validation for Django REST Framework: collect every lookup once, validate the whole payload against memory, commit all-or-none."
+2026-10-26T20:49:49Z,satnogs-api-client,0.4.0,Martin Hübner,AGPL-3.0-only,4850238,"Python bindings for the SatNOGS Network API, written in Rust"
+2026-10-26T20:49:56Z,flashpdm,0.1.0,Flashmind Labs,,319310,Python client for the Flashmind PDM forecasting API
+2026-10-26T20:53:27Z,coordconverterjb,0.1.0,James Blessings,MIT,7020,this package converts the coordinates from degrees to decimals and vice versa
+2026-10-26T20:54:18Z,llm-beacon,0.1.0,Anshuman Singh,MIT,7359389,"Deterministic, tested building blocks for AI pipelines: templates, JSON extraction, tool-call parsing, schema validation, redaction, retry classification and snapshot testing."
+2026-10-26T20:54:39Z,aicontexts,0.1.0,Wayne C. Gramlich,MIT-0,172327,"Startup context for AI sessions: tasks, issues and rules that the AI loads"
+2026-10-26T20:56:58Z,pyooxml,1.0.0,"""Corey Forman (digitalsleuth)"" <corey@digitalsleuth.ca>",,65643,"View, edit and compare OOXML packages"
+2026-10-26T20:57:19Z,amazon-parent-dashboard,1.0.1,Grant miller,PSF,8904,A simple interface to add bonus time to your Amazon Parent Dashboard devices
+2026-10-26T20:58:16Z,redis-intent-router,0.1.0a1,Redis AI Services Team,MIT,284832,Python Client SDK for Redis Intent Router
+2026-10-26T20:58:55Z,knowhow,0.2.0,John Kitchin <jkitchin@andrew.cmu.edu>,MIT,3504012,"Install and manage AI agent skills from any git repo (npx skills compatible) for Claude Code, Codex, OpenCode, Gemini and more"
+2026-10-26T21:00:30Z,Zigong-MEDS,0.3.0,Robin van de Water <rpv2114@cumc.columbia.edu>,,32786,An ETL pipeline to extract the Zigong Fourth People's Hospital ICU infection database into the MEDS format.
+2026-10-26T21:04:21Z,agent-carryon,0.2.0,,MIT,874342,Carry an AI coding agent's setup and chat history between machines. carryon reports what it sees and encrypts what it carries.
+2026-10-26T21:06:36Z,hrns,0.0.1,,MIT,622298,Programmable Pydantic AI agents with an interoperable ACP terminal and hosting
+2026-10-26T21:07:00Z,langchain-heabsy,0.1.0,"Heabsy (FEYA, s.r.o.)",MIT,7446,"LangChain chat model for Heabsy, an OpenAI-compatible inference API for open models"
+2026-10-26T21:07:13Z,mrkwatkins-oakemu-rl,0.1.0,MrKWatkins <mrkwatkins@gmail.com>,GPL-3.0-only,1258122,Reinforcement learning extensions for mrkwatkins.oakemu.
+2026-10-26T21:09:28Z,macos-swift-terminal,0.1.0,avevall,,177123,"A lightweight macOS terminal emulator using Swift, WebKit, and xterm.js"
+2026-10-26T21:12:37Z,decision-tree-from-scratch,0.1.0,Mohd Rayyan Ahemad,MIT,10870,"Educational decision tree classifier built with Pandas, with categorical/numeric splits, missing-value branches and Matplotlib visualization."
+2026-10-26T21:12:59Z,CDSL-MEDS,0.0.2,Medical Event Data Standard,,14369,An ETL pipeline to extract the COVID Data for Shared Learning dataset into MEDS.
+2026-10-26T21:13:07Z,pykeleusma,0.2.2.0,Brendan Sechter <sgeos@hotmail.com>,0BSD,40497641,Python bindings for the Keleusma scripting language
+2026-10-26T21:14:02Z,dogana,0.1.0,Filippo Scotti,Apache-2.0,151679,"A ledger of what each data delivery proves about a table: two dates per region, a gate that refuses contradictions, auditable receipts"
+2026-10-26T21:17:30Z,entropytree,0.1.0,,MIT,9945,Decision tree classifier from scratch (entropy / information gain) for pandas DataFrames
+2026-10-26T21:18:00Z,PICdb-MEDS,0.0.1,Robin van de Water <rpv2114@cumc.columbia.edu>,,14910,An ETL pipeline to extract the Paediatric Intensive Care (PIC) database into the MEDS format.
+2026-10-26T21:18:10Z,vanzik,2.0.0,Cauã Ferraz <hello@lictorate.com>,Apache-2.0,150687,Python SDK for Vanzik — the firewall for AI agents
+2026-10-26T21:18:27Z,oxblend,1.4.0,,MIT,10167380,"Typed, explicit reads and writers of saved Blender files without Blender"
