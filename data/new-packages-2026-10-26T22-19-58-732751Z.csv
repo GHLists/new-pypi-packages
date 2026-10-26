@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T21:22:02Z,powo-nomenclature,0.1.0a1,,MIT,247213,Match historical plant names to the World Checklist of Vascular Plants offline and fill POWO-style fields
+2026-10-26T21:23:50Z,lightfoot,1.0.0,Miska,MIT,441566,"A local, cache-aware token-saving proxy for coding agents"
+2026-10-26T21:25:48Z,steadfast-governance,0.4.0,Steadfast contributors,MIT,245790,"Evidence-based repository governance for coding agents. Central ecosystem hub for skills, plugins, and MCP."
+2026-10-26T21:27:17Z,thiserror,0.1.1,,,12676,Define typed Python error variants with pattern matching and customizable messages.
+2026-10-26T21:29:21Z,sgl-deep-ep-v25,0.1.0rc0,,,53408952,
+2026-10-26T21:31:34Z,viewo-legal,1.0.1,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,9679,
+2026-10-26T21:33:13Z,hipson,1.2.1,Hipson Contributors,Apache-2.0,539392,"Local-first control plane for AI coding agents: one lead, many workers, one ledger of who did what, with evidence."
+2026-10-26T21:33:25Z,via-roma,0.0.1,,,2411,Name reservation for ViaRoma. Work in progress.
+2026-10-26T21:34:02Z,cci-sst-dl,0.3.0,mullenkamp <mullenkamp1@gmail.com>,,28247,
+2026-10-26T21:34:13Z,google-cloud-observability,0.1.0,Google LLC,Apache-2.0,205075,Google Cloud Observability API client library
+2026-10-26T21:34:33Z,sai-entropytree,0.2.0,,MIT,9727,A decision tree classifier from scratch using entropy and information gain
+2026-10-26T21:34:43Z,py-lean-pq,0.6.0,Kevaundray Wedderburn,MIT OR Apache-2.0,47045495,Python bindings for leanVM's leanXMSS and leanSPHINCS post-quantum signatures and their recursive aggregation
+2026-10-26T21:40:33Z,ras-commander-fast-map,0.8.0,,MIT AND BSD-3-Clause,11257574,"Optional Rust Step05, horizontal and configurable sloping FIM mapping engine"
+2026-10-26T21:43:30Z,disband-bot,0.1.1,,MIT,15274,"Official Python client for Disband bots. Self-hosted, token-authenticated, zero dependencies."
+2026-10-26T21:43:50Z,wbridge,0.1.0,,"BSD 3-Clause License Copyright (c) Meta Platforms, Inc. and affiliates. All rights reserved. Redist…",475335,WeightBridge
+2026-10-26T21:44:33Z,django-deacon,1.0.0,Deacon,MIT,12082,"Django app that adds Deacon, an AI support chat that answers from your docs, to every page."
+2026-10-26T21:47:09Z,zepto-scraper,0.1.0,Buğrahan Saka,MIT,28914,"Scrape Zepto category listings (price, MRP, discount, stock) and product details (seller, shelf life, FSSAI licence) with Python."
+2026-10-26T21:47:35Z,mafdet,0.3.0,,Apache-2.0,655329,You type. It already knows. Local LLMs that read and think while you type.
+2026-10-26T21:48:12Z,sieve-tray,0.9.1,Kai IWASAKI,MIT,136053,"A general-purpose observation tool combining Sieve Lens, Sieve Scope, and Sieve Referee"
+2026-10-26T21:51:32Z,spanks,0.1.0,Alejandro Erostegui <alexeros90@gmail.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",88745,SPectrAl Noise Killer Script - SPANKS: Noise suppression tools for 1D and 2D data
+2026-10-26T21:52:07Z,asl-qc,0.1.0,,MIT,133377725,CBF-only QEI-Net quality estimation
+2026-10-26T21:52:07Z,httpwatch-wasm-api,0.0.0,Neumetrix Limited,LicenseRef-Proprietary,4136,Placeholder for the forthcoming HttpWatch WASM API; no functional API is included.
+2026-10-26T21:53:29Z,rendervous,0.0.3,Rendervous Project,"MIT License Copyright (c) 2026 Rendervous Project Permission is hereby granted, free of charge, to…",269062,"Tensor-library agnostic differentiable engine based on megakernel compute, built on vulky."
+2026-10-26T21:58:21Z,figfoundry,0.1.0,Tai Duc Nguyen <taiducnguyen.drexel@gmail.com>,MIT,256882,"WYSIWYG matplotlib figure composer: load data (.npz/.pkl), drag signals onto a canvas to build plots, and export clean reproducible code."
+2026-10-26T21:59:16Z,paper-flow-tracker,0.1.1,Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>,GPL-3.0-only WITH Classpath-exception-2.0 OR BSD-3-Clause,137613,Follow each stage of the process of publishing scientific articles
+2026-10-26T21:59:28Z,glfm,1.0.4,Tuomas Lähteenmäki,MIT,127172,"A comprehensive JSON database mapping over 7,700 languages (ISO 639-3) to language families (ISO 639-5) for RSS tools and localization workflows."
+2026-10-26T21:59:43Z,sparq-rdf,0.1.6,,MIT,16661768,"Python bindings for the sparq RDF + SPARQL engine (dictionary-encoded triplestore, SPARQL 1.1 query/update, opt-in RDFS/OWL-RL/N3 reasoning). Distributed on PyPI as `sparq-rdf`; the import name is `s…"
+2026-10-26T22:00:49Z,pqcpilot,0.1.0,,Apache-2.0,161225,"Find quantum-vulnerable cryptography, generate a CycloneDX CBOM, and plan the move to post-quantum algorithms."
+2026-10-26T22:02:22Z,medulla,2.27.9,Repository Maintainers <maintainers@knuckles.team>,MIT,7722048,Rust-native durable multimodal and epistemic database with governed analytics and program optimization
+2026-10-26T22:05:58Z,interaction-check,0.1.0a6,PerchAnton,MIT OR Apache-2.0,44221,Replay semantic event sequences against explicit local adapters
+2026-10-26T22:08:46Z,mapstippler,0.6.0,"""Nicholas D. Arnold"" <nicholas.d.arnold@gmail.com>",MIT,109237,"Pseudo-random, blue-noise and graduated dot maps"
+2026-10-26T22:09:29Z,openentity,0.1.0,,MIT,50481,"Open Entity (OEIS-1) client: JCS, did:key, eddsa-jcs-2022, Merkle proofs, adopt()."
+2026-10-26T22:17:48Z,bluecore-airflow-common,0.1.0,Jeremy Nelson,MIT,13997,"Shared helpers, base templates and styles for Blue Core Airflow plugins"
+2026-10-26T22:18:58Z,infogain-tree,0.1.0,kranos212,MIT,37225,"A from-scratch decision tree classifier using entropy and information gain, with tree display."

@@ -1,62 +1,48 @@
 {
   "list": {
-    "count": 57,
-    "from": "2026-10-26T20:20:46.833365Z",
-    "path": "data/new-packages-2026-10-26T21-18-39-921834Z.csv",
-    "to": "2026-10-26T21:18:39.921834Z"
+    "count": 34,
+    "from": "2026-10-26T21:18:39.921834Z",
+    "path": "data/new-packages-2026-10-26T22-19-58-732751Z.csv",
+    "to": "2026-10-26T22:19:58.732751Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-26T18:58:46Z",
       "package": "agenwaste",
       "since": "2026-10-26T18:19:50.650366Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-26T17:59:23Z",
-      "package": "oliebab-de-toolkit",
-      "since": "2026-10-26T17:18:42.974749Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-26T20:22:52Z",
       "package": "openboardtwin",
       "since": "2026-10-26T20:20:46.833365Z",
       "version": "0.2.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-26T20:37:22Z",
       "package": "physmetdoc",
       "since": "2026-10-26T20:20:46.833365Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-26T20:42:34Z",
       "package": "pintestxyz123",
       "since": "2026-10-26T20:20:46.833365Z",
       "version": "0.0.1"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-26T19:25:41Z",
       "package": "qunatbench",
       "since": "2026-10-26T19:18:36.239949Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-26T17:49:26Z",
-      "package": "simple-cli-backup",
-      "since": "2026-10-26T17:18:42.974749Z",
-      "version": null
     }
   ],
-  "serial": 42785684,
+  "serial": 42788282,
   "source_truncated": false,
-  "window": "2026-10-26T21:18:39.921834Z"
+  "window": "2026-10-26T22:19:58.732751Z"
 }
