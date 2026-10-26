@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-26T19:20:12Z,fasthtml-tailwindcss,4.3.3,SpaceShaman <spaceshaman@tuta.io>,MIT,271378937,Tailwind CSS for FastHTML with a persistent compiler across server reloads and watch mode for automatic CSS rebuilds.
+2026-10-26T19:22:42Z,biorbd,1.12.4,"Michaud, Benjamin and Begon, Mickaël",MIT,95245206,Biomechanical add-ons to the RigidBody Dynamics Library
+2026-10-26T19:22:44Z,napalm-openmediavault,0.3.0,Christian Manivong <christian@manivong.de>,Apache-2.0,29675,NAPALM driver for OpenMediaVault NAS (SSH)
+2026-10-26T19:23:19Z,aurifex-mcp,0.65.0,Aurifex <contact@kder-ai.com>,Propriétaire — usage privé,8918,Aurifex MCP server — x402 macro and premium data tools for trading agents.
+2026-10-26T19:25:53Z,zecpy,0.1.0,,MIT OR Apache-2.0,128975073,"Shielded Zcash for Python: send and receive private ZEC, built on librustzcash"
+2026-10-26T19:27:02Z,napalm-qnap-qts,0.6.0,Christian Manivong <christian@manivong.de>,Apache-2.0,28022,NAPALM driver for QNAP NAS systems running QTS via SSH
+2026-10-26T19:28:37Z,projlabs,0.1.0,,Apache-2.0,64714,"Set up ProjLabs projects on your computer, run their checks and keep your progress in sync."
+2026-10-26T19:30:16Z,uz-python-code,1.0.0,UzCodepackage,MIT,12851,O‘zbekcha kalit so‘zlar orqali Python kodini yozish va ishga tushirish vositasi
+2026-10-26T19:31:00Z,napalm-netgear-switches,0.6.0,Christian Manivong,Apache-2.0,68930,NAPALM driver for Netgear switches (Plus/Smart)
+2026-10-26T19:35:03Z,napalm-yealink,0.2.0,Christian Manivong,Apache-2.0,19155,NAPALM driver for Yealink IP phones and video endpoints
+2026-10-26T19:35:18Z,bike-router,0.3.0,,MIT,889295,OSM-based bike routing service with a LangGraph orchestration workflow
+2026-10-26T19:35:27Z,aims-bench,0.1.0,kaumnen,Apache-2.0,225972,Experiment bench for agent alignment with an autonomous behaviour monitor
+2026-10-26T19:42:07Z,sii-image,0.1.0,elsan97,,5671,Small Image Interface (SII) format reader and writer
+2026-10-26T19:43:59Z,adrinaline,0.1.0,Max Wolf,MIT,1275381,Git-native Architecture Decision Records for humans and coding agents
+2026-10-26T19:44:12Z,netdryrun,0.1.0,NetDryRun,Apache-2.0,60597,"Test network changes before they touch production: real virtual labs, behavioral checks, evidence."
+2026-10-26T19:46:16Z,ducklakepy,0.1.0.dev0,ducklakepy contributors,Apache-2.0,1695466,A Python implementation of the DuckLake specification
+2026-10-26T19:46:25Z,modelscape,0.1.0,Sjoerd Vink,MIT,222395,Controlled behavioral mapping of black-box AI systems through grammar-based task perturbation.
+2026-10-26T19:47:31Z,strompt,0.1.0,Archit Mehta,MIT,18081,"An opinionated, extensible, zero-dependency structured prompt rendering library"
+2026-10-26T19:48:32Z,akeneo-python-sdk,1.0.0,OpenAPI Generator community <team@openapitools.org>,,826537,Akeneo PIM REST API
+2026-10-26T19:52:48Z,scalio-license,0.1.0,,Proprietary,42298,Offline license check (Ed25519) shared by the Scalio apps
+2026-10-26T19:52:58Z,iglint,0.1.0,Mustry Solutions,MIT OR Apache-2.0,36662079,"A fast linter for Ignition 8.3 projects: Perspective views, Jython scripts, expressions and gateway resources."
+2026-10-26T19:57:59Z,quantbench-engine,0.1.0,Prajwal Pujari <prajwalpujari16@gmail.com>,Apache-2.0,181350,"First-principles LLM quantization engine, bit-packing runtimes, 2:4 sparsity, and Quality-vs-Speed Pareto evaluation benchmark."
+2026-10-26T20:02:05Z,jointshrink,0.1.0,Nilson Chapagain <nchapagain@tamu.edu>,GPL-3.0-or-later,1854625,Joint Bayesian shrinkage for effect summaries and regression
+2026-10-26T20:04:59Z,rd-id-check,0.1.0,Luis Cabrera,MIT,43686,"Validate and format Dominican cédulas and RNCs offline, including the official exceptions."
+2026-10-26T20:05:48Z,altissimo-clinicaltrials,2.0.5,Altissimo HQ,Apache-2.0,375100,ClinicalTrials.gov REST API
+2026-10-26T20:07:45Z,langchain-hugging-bay,0.1.0,Hugging Bay,MIT,23723,Hugging Bay model discovery tools and retriever for LangChain.
+2026-10-26T20:09:32Z,keyclerk,0.26.3,,EUPL-1.2,2052981,"Access leases, delegated administration and access paths for Keycloak, decided by policy and driven by configuration"
+2026-10-26T20:11:50Z,certex,0.1.0,Dongfang Zhao <dzhao@cs.washington.edu>,Apache-2.0,38879393,Exact k-nearest-neighbor search on NVIDIA GPUs by certified exclusion
+2026-10-26T20:13:07Z,promptbatch,0.2.0,Ramón Invarato,MIT,45635,"Run one prompt (a ""task"") over many files with the Anthropic API, directly or as a batch (Batch API, half price), with cost estimates, spending limits and output checks."
+2026-10-26T20:13:53Z,bible-tui,0.6.0,Cody Sechelski,MIT,8788926,A dependency-free terminal Bible reader with Vim-style navigation and pluggable versions
+2026-10-26T20:17:12Z,dscli-agent,0.1.0,Anish,MIT,138954,A local coding agent that uses the DeepSeek web chat UI as its model
+2026-10-26T20:18:48Z,sercpy,0.1.0,Adrian Riebel,MIT,174274,Python library for simulating solar thermal energy systems
+2026-10-26T20:20:38Z,modelmatrix,0.1.0,Jonathan Taylor <jonathan.taylor@stanford.edu>,BSD-3-Clause,135575,"Model matrices from tabular data, as scikit-learn transformers"
