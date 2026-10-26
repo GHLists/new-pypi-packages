@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 51,
-    "from": "2026-10-26T10:19:42.430423Z",
-    "path": "data/new-packages-2026-10-26T11-18-41-150054Z.csv",
-    "to": "2026-10-26T11:18:41.150054Z"
+    "count": 56,
+    "from": "2026-10-26T11:18:41.150054Z",
+    "path": "data/new-packages-2026-10-26T12-19-59-55743Z.csv",
+    "to": "2026-10-26T12:19:59.55743Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-26T08:46:49Z",
       "package": "async-task-api-client",
       "since": "2026-10-26T08:18:36.63521Z",
@@ -15,13 +15,13 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-10-26T11:17:46Z",
-      "package": "cairn-pack-finetune",
-      "since": "2026-10-26T10:19:42.430423Z",
-      "version": "0.1.0"
+      "created_at": "2026-10-26T11:56:34Z",
+      "package": "data-sentinel-forge",
+      "since": "2026-10-26T11:18:41.150054Z",
+      "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-26T08:19:30Z",
       "package": "mongo-atlas-sdk",
       "since": "2026-10-26T08:18:36.63521Z",
@@ -29,41 +29,27 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-10-26T08:00:02Z",
-      "package": "odoo-addon-account-cutoff-accrual-purchase-product-analytic",
-      "since": "2026-10-26T07:19:26.006143Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-26T07:59:29Z",
-      "package": "odoo-addon-account-cutoff-accrual-sale-product-analytic",
-      "since": "2026-10-26T07:19:26.006143Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-10-26T09:08:31Z",
       "package": "rsl-lib",
       "since": "2026-10-26T08:18:36.63521Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-26T09:02:07Z",
       "package": "tsugite-computer",
       "since": "2026-10-26T08:18:36.63521Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-26T08:22:25Z",
       "package": "zagents-framework",
       "since": "2026-10-26T08:18:36.63521Z",
       "version": "99.25.30.10b5"
     }
   ],
-  "serial": 42758010,
+  "serial": 42760247,
   "source_truncated": false,
-  "window": "2026-10-26T11:18:41.150054Z"
+  "window": "2026-10-26T12:19:59.55743Z"
 }
