@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T02:20:22Z,cad3d-ir-icad,0.3.0,neka-nat,PolyForm-Noncommercial-1.0.0,55688,iCAD SX part/assembly (ICD) importer for cad3d-ir through icadkit's saved final bodies
+2026-10-27T02:22:31Z,amv-ai-orchestrator,1.1.0,amv-ai-orchestrator contributors,Apache-2.0 OR Commercial-License,289153,"Local-first lifecycle, scheduling and monitoring control plane for Termux AI runtimes"
+2026-10-27T02:24:04Z,aig-mcp-scan,0.2.0,Tencent Zhuque Lab,Apache-2.0,150104,MCP Server Security Scanning Tool - an LLM-driven autonomous agent for code audit and vulnerability detection
+2026-10-27T02:24:06Z,aig-agent-scan,0.1.0,Tencent Zhuque Lab,Apache-2.0,213686,AI Agent Security Scanning Tool - a dynamic black-box security testing tool for running AI Agent platforms
+2026-10-27T02:24:10Z,aig-model-scan,0.1.0,Tencent Zhuque Lab,Apache-2.0,943571,LLM red-team and jailbreak evaluation for AI-Infra-Guard
+2026-10-27T02:24:30Z,aig-infra-scan,0.1.0,Tencent Zhuque Lab <zhuque@tencent.com>,Apache-2.0,373654420,AI infrastructure fingerprint and vulnerability scanner
+2026-10-27T02:25:56Z,cesiumcloud,0.1.0,CesiumCloud,,17817,CesiumCloud cloud storage Python SDK and command-line client
+2026-10-27T02:28:05Z,certbot-dns-esa,1.0.1,tiyee <tiyee@live.com>,MIT,291807,阿里云边缘安全加速 ESA DNS 插件，用于 Certbot 的 DNS-01 验证
+2026-10-27T02:28:40Z,proton-vpn-cli-macos,1.0.0,,GPL-3.0-or-later,3520529,"Proton VPN CLI, forked for macOS: a WireGuard backend, pf kill switch and Keychain sign-in"
+2026-10-27T02:30:25Z,algen-agent-tools,0.1.0a1,AlgenAI,Apache-2.0,101147,"Curated, governed connectors for Algen Agent Runtime agents"
+2026-10-27T02:31:28Z,cadlag-sdk,1.0.4,Cadlag <info@cadlag.pro>,Apache-2.0,131427,"Cadlag SDK — Base classes, utilities, platform client, CLI, and testing fixtures"
+2026-10-27T02:31:29Z,cadlag-ce,1.0.4,Cadlag <info@cadlag.pro>,BSL-1.1,573373,Cadlag CE — Source-available algorithmic trading platform
+2026-10-27T02:31:30Z,vzenith-parking-mcp,0.1.0,,,266018,MCP stdio server for the Vzenith parking platform
+2026-10-27T02:32:05Z,algoritmo-genetico,1.0.0,"Fellipe Almassy, Matheus Gomes",MIT,165107,"Classificador linear (binário e ordinal) treinado por algoritmo genético, feito com NumPy"
+2026-10-27T02:33:41Z,amv-aichain,1.3.0,UnoKim,Apache-2.0,207067,Zero-dependency AI chaining and autonomous agent framework utilizing device resources for Android Termux & Edge
+2026-10-27T02:35:50Z,execweave,1.0.0,ExecWeave contributors,PolyForm Noncommercial License 1.0.0 This software is licensed under the PolyForm Noncommercial Lic…,1498288,Local AI-agent execution graphs that identify sender/recipient handoffs with no observed receive in graph.json.
+2026-10-27T02:37:53Z,turnbook,0.9.44,Yohan Ko <goyohan0611@gmail.com>,AGPL-3.0-only,425208,"Local long-term memory for AI agents: every conversation word for word, on your own PC, shared by all your agents, nothing spent to save."
+2026-10-27T02:38:31Z,readcost,0.2.0,,MIT OR Apache-2.0,5238494,Flag prose constructions that slow readers down
+2026-10-27T02:39:36Z,dahua-device-mcp,0.3.0,bigoat,,160703,MCP stdio server for Dahua device JSON-RPC APIs
+2026-10-27T02:42:53Z,cadlag-pro,1.0.4,Cadlag <info@cadlag.pro>,Proprietary,937323,Cadlag Pro — Advanced platform features (proprietary)
+2026-10-27T02:43:09Z,cadlag-starter,1.0.4,Cadlag <info@cadlag.pro>,Apache-2.0,76952,"Cadlag Starter — public SDK demo models, strategies, data fixtures, and notebook walkthrough"
+2026-10-27T02:48:39Z,heimdall-neo,0.1.0,Taylor St Jean,GPL-3.0-or-later,356154,A locally hosted web app designed to provide real time updates to the MPC NEOCP.
+2026-10-27T02:49:01Z,separador-expedientes,2.0.0,Franco Puszkarsky,MIT,3821882,"Separa un PDF de expediente digital en un PDF por trámite, con índice CSV/JSON."
+2026-10-27T02:54:43Z,spoolbit,0.0.1,Spoolbit,MIT,3915,Official Python SDK for the Spoolbit cloud printing API (coming soon).
+2026-10-27T02:55:46Z,certbot-dns-teo,1.0.1,tiyee <tiyee@live.com>,MIT,148692,腾讯云 EdgeOne (TEO) 插件，用于 Certbot 的 DNS-01 验证
+2026-10-27T02:55:53Z,cadlag-quant,1.0.4,Cadlag <info@cadlag.pro>,Apache-2.0,4304,"Cadlag — install the public quantitative research platform, SDK and starter examples"
+2026-10-27T02:55:55Z,hey-my-buddy,0.54.1,,MIT,5027931,A durable agent blackboard with independent workers and C-Two RPC
+2026-10-27T02:58:07Z,vaultmap,0.0.1,Nazim22,,2763,"A deterministic map of an Obsidian or markdown vault, so AI agents reach the exact note and section that holds a fact. Pre-release: first version coming soon."
+2026-10-27T02:58:25Z,ezmongoconn,0.1.0,Anderosn Ferreira Ribeiro Campos,,6541,Conexão com o banco de dados MongoDB de forma prática e rápida
+2026-10-27T02:59:20Z,patchtrack,0.1.0,Ryan Brue,MIT,132971,"Track an author's patches on public-inbox mailing lists, like a pull request list"
+2026-10-27T03:00:12Z,pcd-exe,0.1.0,,,1474867,PCD practicals - copy practical files into the current directory
+2026-10-27T03:04:23Z,voight-kampff-forensics,0.1.0.dev0,TheDarkMac,Apache-2.0,77417,"Analyse de provenance et d'intégrité de fichiers, sans modèle d'IA embarqué."
+2026-10-27T03:04:24Z,amv-bitnet,2.2.0,uno-km <dev@amevafoundation.org>,Apache-2.0,108522,1.58-bit (i2_s) BitNet on-device inference SDK with verified ARM NEON & DotProd kernels for Android Termux & ARM64
+2026-10-27T03:06:19Z,amv-llamacpp,1.5.0,uno-km <dev@ameva.org>,Apache-2.0,265261,"GGUF runtime, model manager & OpenAI server utilizing device resources for Android Termux & ARM64"
+2026-10-27T03:06:20Z,amv-diffusion,2.1.0,uno-km (AMEVA Foundation),Apache-2.0,323390,AmfyUI (ComfyUI Mobile DAG Studio) & Z-Image Turbo (6.0B DiT) On-Device Diffusion Runtime for Android Termux
+2026-10-27T03:07:07Z,certbot-dns-tencent-edgeone,1.0.1,tiyee <tiyee@live.com>,MIT,6987,腾讯云 EdgeOne 的 Certbot DNS-01 插件，兼容包名
+2026-10-27T03:12:49Z,truequery,0.1.0,Analytically.ai,Apache-2.0,682275,"TrueQuery engine: offline, deterministic checks for SQL that silently returns the wrong answer"
+2026-10-27T03:13:57Z,claude-ipcheck,0.2.0,,Apache-2.0,117105,"Evidence-based Claude AI IP risk, proxy, DNS and timezone diagnostics"
+2026-10-27T03:16:06Z,speakrs,0.7.0,Praveen Perera,Apache-2.0,44085574,"Fast speaker diarization with pyannote-level accuracy on CPU, CoreML, and CUDA"
+2026-10-27T03:17:14Z,ebele-entropy-tree,0.1.0,Ebelechukwu Umezude,MIT,16696,An educational categorical ID3 decision tree built from scratch
