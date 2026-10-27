@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T19:16:21Z,rogers-neighbor,1.0,Younos Hashem <younos.hashem@stonybrook.edu>,,21673,"Fast, lightweight GPU neighbor-list code for atomistic simulations."
+2026-10-27T19:20:32Z,xlformat,0.1.0,Ethan Post,MIT,1701051,"Apply Excel number, date/time and General format strings to values and get the text Excel displays."
+2026-10-27T19:23:49Z,imgsqueeze,0.1.1,Sanhe Hu <husanhe@gmail.com>,MIT,77990,"Compress the PNG, JPEG and WebP images of a blog once, and remember that they are done."
+2026-10-27T19:24:19Z,explicable,0.0.1,Peter Mawhorter,LicenseRef-LLM-hostile-BSD,51836,"Build processes from hierarchical action definitions which include explanations so that the entire process can be explained, especially when it fails. Action hierarchies are like behavior trees or hi…"
+2026-10-27T19:24:29Z,potehinsonnet,0.19.0,Azhestkov,MIT,82252,"Плагины для Discord-бота Potehinson: команды, кнопки, веб-панель и данные через NATS"
+2026-10-27T19:26:24Z,aer1-scan,1.0.0,Brennan Zambo,,8558,"Check every Zambo receipt link in a file, a web page, or stdin, right from your terminal. A Zambo receipt proves the saved result of an AI job was not changed after the fact."
+2026-10-27T19:27:46Z,neumera,0.0.1,Jake Van Slyke,Apache-2.0,16630573,"Foundational implementations and utilities for machine learning, numerical computing, and optimization."
+2026-10-27T19:33:07Z,xvrt,0.1.0,Michael Sumner <mdsumner@gmail.com>,MIT,77798,Write GDAL multidimensional VRT from xarray Datasets and STAC catalogues (pure Python).
+2026-10-27T19:33:50Z,harlequin-oracle,0.2.0,,MIT,47433,Oracle database adapter for Harlequin with hierarchical catalog
+2026-10-27T19:33:52Z,signalhouse-sms,1.5.1,SignalHouse LLC <support@signalhouse.io>,MIT,210350,Python SDK for the SignalHouse API
+2026-10-27T19:34:01Z,tencentcloud-sdk-python-cvd,3.1.196,Tencent Cloud,Apache License 2.0,90925,Tencent Cloud Cvd SDK for Python
+2026-10-27T19:34:41Z,llama-index-tools-netnest,0.1.0,NetNest Design LLC <registrations@netnestdesign.com>,MIT,8205,"LlamaIndex tools for the NetNest Design Fundamentals API: company fundamentals and SEC filing events, with the source filing on every number."
+2026-10-27T19:34:43Z,langchain-netnest,0.1.0,NetNest Design LLC <registrations@netnestdesign.com>,MIT,9241,"LangChain tools for the NetNest Design Fundamentals API: company fundamentals and SEC filing events, with the source filing on every number."
+2026-10-27T19:34:43Z,netnest-fundamentals,0.1.0,NetNest Design LLC <registrations@netnestdesign.com>,MIT,12595,"Client for the NetNest Design Fundamentals API: company fundamentals and SEC filing events, with the source filing on every number."
+2026-10-27T19:36:21Z,phenome-gui,0.3.0,PREDIS,MIT,221057,GUI integration of the PhenoMe phenotyping framework
+2026-10-27T19:40:50Z,aditya-calc,0.1.0,,,2141,Client SDK for calculator service
+2026-10-27T19:41:57Z,crudkit-sign,0.1.0,Plecto ApS,MIT,141659,E-signature addon for crudkit: sign any crudkit model's PDF with a DocuSign-like flow.
+2026-10-27T19:42:08Z,opencdr-deploy,0.2.0,DBNZ,MPL-2.0,56091,Install and manage multiple OpenCDR Core deployments
+2026-10-27T19:46:44Z,capguru-client,0.1.0,,ISC,30212,Python client for the CapGuru solving API
+2026-10-27T19:47:49Z,rescuer-packer-2d,0.1.0,"""Vasily Stolbov a.k.a Kotomord"" <vasily.v.stolbov@gmail.com>",,13456,RescuerPacker for 2d packing task
+2026-10-27T19:49:43Z,brigadestack,0.30.0,,MIT,5391,Brigade Stack command alias for the stable Brigade CLI
+2026-10-27T19:50:11Z,fasthtml-basecoatui,1.1.0,SpaceShaman <spaceshaman@tuta.io>,MIT,331364,Basecoat components and bundled assets for FastHTML.
+2026-10-27T19:53:51Z,veyrian-veg,0.1.0,,,29934,Experimental phase-driven text generation with prediction-error memory
+2026-10-27T19:54:49Z,usdf,0.1.2,,MIT,79700,"Client for the USDF metered inference gateway: run a prompt paid from a prepaid key or per request with x402 in USDF or USDG, OpenAI-compatible chat completions with receipts, batch jobs, quotes, bal…"
+2026-10-27T19:56:47Z,dalalos-mcp,0.1.0,DalalOS <atharva@dalalos.in>,MIT,11284,"Connect Claude, ChatGPT, Cursor or any MCP client to DalalOS, the hosted MCP server for Indian NSE/BSE stock research."
+2026-10-27T19:57:45Z,xippios-usda-esmis,0.1.0,XIPPIOS GmbH,Apache-2.0,231263,"Typed client, MCP tools and HTTP routes for USDA ESMIS"
+2026-10-27T19:59:14Z,matborn,0.1.0,,,167586,"PCN lab assignments (C sockets, NS-3) with an interactive picker"
+2026-10-27T20:04:37Z,pse-sdk,2.0.0,FranekGit,MIT,154819,Unofficial Python SDK for the PSE (Polskie Sieci Elektroenergetyczne) public REST API
+2026-10-27T20:07:19Z,duckpack,0.2.0,Benjamen Terry <benjamenjterry@gmail.com>,MIT,99975270,"Declarative schema management, interactive terminal IDE, and in-memory inspection for DuckDB"
+2026-10-27T20:07:34Z,bandsaw-basics,0.1.0,Stankotorg,MIT,6631,"Generic textbook band saw formulas: blade length, cutting time, TPI/pitch."
+2026-10-27T20:09:16Z,baby-boon,0.1.0,Maureese Williams,Apache-2.0,114831,"Tiny local social chat model (Qwen3-1.7B LoRA, 1.1 GB GGUF, CPU) with runtime perception, facts and health guards"
+2026-10-27T20:10:12Z,makepf,1.0.0,DutchBSD B.V.,BSD-2-Clause,60382,Compile zone-based firewall configuration into native OpenBSD PF rules.
+2026-10-27T20:14:39Z,cct-cli,0.8.0b1,Kazi Zillani,MIT,21834156,CAT CLI v0.8.0b1 [beta] - Coding Agent Terminal / terminal AI coding agent
+2026-10-27T20:14:59Z,madcats,0.12.1,Alexander Sandercock,GPL-3.0-or-later,200035,Marker-Anchored Discovery and Counting of Alleles from Targeted Sequencing: FASTQ to MADC microhaplotype count tables
+2026-10-27T20:19:38Z,senec-connect-api,0.1.0,SENEC Connect API contributors,MIT,9416,Async Python client for the SENEC.Connect cloud API
+2026-10-27T20:19:53Z,qorechain-mcp,0.1.0,QoreChain Association,Apache-2.0,113699,"MCP server with read access to QoreChain: blocks, transactions, accounts, validators, hybrid ML-DSA-87 signature status, simulation and unsigned transfers."
