@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T10:21:02Z,orb-package-manager,0.2.0,Hamuz,,8435,"A custom package manager that unifies pacman, paru, and flatpak."
+2026-10-27T10:21:17Z,fastapi-nest-cli,0.1.0,,MIT,11509,NestJS-style project and resource scaffolding for FastAPI
+2026-10-27T10:22:16Z,mechvane,0.1.0a1,,MIT OR Apache-2.0,232652,"Parametric 3D CAD for everyday mechanical engineering, with AI agents, built on SolidCraft"
+2026-10-27T10:23:03Z,minimindslab-json-stringify-stable,0.1.0,MiniMindsLab,MIT,7660,"Deterministically serialize common Python objects to compact, stable JSON with sorted keys and consistent handling of sets, tuples, and dataclasses."
+2026-10-27T10:23:58Z,omniearth,1.0.0,Lokesh Kumar <lokesh.skshukla@gmail.com>,OmniEarth Open Source License with Mandatory Attribution & Academic Citation ======================…,55665,"Universal Multi-Modal Open Earth Observation, Hyperspectral, and Weather Data Engine"
+2026-10-27T10:24:19Z,pronresolve,0.1.0,Lexicon g2p contributors,Apache-2.0,51724,Data-driven pronunciation ambiguity discovery and context resolution
+2026-10-27T10:25:19Z,edrawings-kit,0.1.0,,Apache-2.0,3752039,Rust-based eDrawings container and bounded HSF scene reader
+2026-10-27T10:35:07Z,slotlock,0.3.0,,Apache-2.0,28147,A client for Slotlock's REST API: calendars AI agents cannot double-book.
+2026-10-27T10:35:26Z,pygeodata-browser,0.1.0,Jasper Roebroek <roebroek.jasper@gmail.com>,MIT,330806,Registry browser (QC and code-review dashboard) for pygeodata
+2026-10-27T10:36:21Z,roboapi,0.4.2,PokeBot,Apache-2.0 AND MIT AND ISC AND OFL-1.1 AND LicenseRef-MiSans,37963506,Run robot policies on UR and Franka through a browser or an MCP agent.
+2026-10-27T10:36:35Z,terpsi,0.0.4,Thor Whalen,MIT,68038,"Dance corpora from single-dancer videos: body landmarks (no video kept), audio, subtitles, on-screen text, and movement-vs-music analysis."
+2026-10-27T10:41:07Z,pushpilot,1.1.0,PushPilot Developers,,48272,"PushPilot - Intelligent multi-framework Git autopilot that watches features, detects AI coding context, and ships to GitHub"
+2026-10-27T10:43:37Z,optimwp,0.0.1,,,2473,Reserved name for the OptimWP project; not for use.
+2026-10-27T10:43:38Z,optimwp-operare,0.0.1,,,2609,Reserved name for the OptimWP project; not for use.
+2026-10-27T10:43:39Z,optimwp-registru-ui,0.0.1,,,2678,Reserved name for the OptimWP project; not for use.
+2026-10-27T10:44:15Z,n24q02m-telegram,4.23.0b1,n24q02m <quangminh2422004@gmail.com>,Apache-2.0,320783,"Production-grade MCP server for Telegram — dual-mode Bot API + MTProto, domain-separated tools"
+2026-10-27T10:44:30Z,openbb-aurastream,0.1.0,Unbiased Alpha,MIT,28482,"AuraStream data for the OpenBB Platform: EU net short positions, USDA WASDE, FRED vintages, SEC fails-to-deliver and Binance funding rates."
+2026-10-27T10:46:42Z,django-asyntai-ai-chatbot,1.0.0,Asyntai <hello@asyntai.com>,MIT,24155,"Adds the Asyntai AI chat assistant to a Django site. It answers visitor questions from your own content, in more than 80 languages."
+2026-10-27T10:47:22Z,renderly-ai,0.2.0,Renderly,MIT,25854,"Official client for the Renderly AI API: search models, price, create and download image, video, audio and language results with one key and one credit wallet."
+2026-10-27T10:48:48Z,notifica-govbr,0.1.1,,Apache-2.0,23812,Biblioteca para o serviço de notificações do gov.br
+2026-10-27T10:50:47Z,arch-diagram-mcp,1.2.0,apatilgtn,Apache-2.0,176383,"MCP server that generates and reviews AWS, Azure and GCP architecture diagrams with official provider icons."
+2026-10-27T10:51:02Z,nexus-relay,1.6.1,Julien Piron,MIT,291037,"Shared room for Claude, Codex and Antigravity on one Windows PC: local MCP daemon, each agent woken in its own app (experimental)"
+2026-10-27T10:52:37Z,kitsuyui.fileio,0.8.1,Yui KITSU <kitsuyui+github@kitsuyui.com>,BSD-3-Clause,15171,Explicit and safe file writing utilities
+2026-10-27T10:53:42Z,genop,0.1.0,Konstantin Zaytsev,,341477,Codon optimization tool
+2026-10-27T10:54:09Z,repository-policy-linter,0.4.1,,MIT,180488,"Local, language-agnostic repository policy checks with explicit tool plugins"
+2026-10-27T10:55:38Z,aichivist,0.1.0,,MIT,210941,"Clean up your files like an archivist: AI agents rename, sort and de-duplicate documents with plans you approve and full undo"
+2026-10-27T10:56:39Z,bbo-richard,0.1.0,,,204565,"Multiphoton imaging workspaces (bob2 format): import, processing, ROIs and analysis without a GUI"
+2026-10-27T10:58:23Z,fhir-sdc-testkit,3.0.0a1,"""beda.software"" <hi@beda.software>",MIT,134372,"Drive an SDC Questionnaire through $populate, answers and $extract in tests"
+2026-10-27T10:58:28Z,wp9529-printer,0.1.0,Arttu Mahlakaarto,MIT,1313457,"Driver, label renderer and CLI for the VSON WP9529 Bluetooth LE label printer"
+2026-10-27T10:59:05Z,lxd02-printer,0.1.0,Arttu Mahlakaarto,MIT,3616799,"Driver, receipt/Markdown renderer and CLI for the LX-D02 Bluetooth LE thermal receipt printer"
+2026-10-27T10:59:28Z,askyara,0.1.0,AskYARA Engineering Team,Apache-2.0,16914,Salesforce-native AI engineering companion and multi-agent toolkit
+2026-10-27T11:01:05Z,yidl-dataclass,0.1.0,,,7730639,Composable YIDL dataclasses with specialized field behavior
+2026-10-27T11:01:47Z,monogramsign,0.0.0,Ordalie,Apache-2.0,2029,Agreement signing for people and agents. Name reserved for the Monogram Python SDK.
+2026-10-27T11:05:26Z,fastkit-project-generator,0.1.0,,,115841,Generate FastAPI projects with a reusable application core
+2026-10-27T11:08:57Z,testingbot-codepipeline,0.1.0,,MIT,39052,"TestingBot for AWS CodeBuild and CodePipeline: tunnel, JUnit test reports and a deploy gate."
+2026-10-27T11:10:35Z,maity-hub,0.0.0,Oliver Zehentleitner,MIT,1664,
+2026-10-27T11:11:08Z,ot-aws-sso-login,1.2.0,,,14238,Configure and authenticate an AWS IAM Identity Center (SSO) profile in one command.
+2026-10-27T11:11:18Z,roptal-cli,1.0.0,Oryvo AI,LicenseRef-Proprietary,46465,Local environment scanner and deployment client for Roptal ML deployments.
+2026-10-27T11:11:55Z,maity-cli,0.0.0,Oliver Zehentleitner,MIT,1660,
+2026-10-27T11:12:02Z,maity-runner,0.0.0,Oliver Zehentleitner,MIT,1679,
+2026-10-27T11:13:58Z,mibz2,0.1.1,Louis Maddox <louismmx@gmail.com>,,1540084,"A fast bzip2 decoder: block-parallel, its inverse BWT walked as interleaved chains, SIMD kernels chosen at run time"
