@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T21:22:29Z,codetrail-cli,1.4.1,,Apache-2.0,17831307,"Get up to speed on any codebase in days, not months: a local guide to a git repository, for you and your coding agent."
+2026-10-27T21:23:26Z,vira-sdk,0.1.0,Vira,Apache-2.0,19039,Typed Python client for the Vira authority boundary
+2026-10-27T21:25:35Z,quantbom,0.6.0,SecQDevOps / QuantBOM,Apache-2.0,248925,QuantBOM SDK — certify quantum software releases from your Qrisp/Qiskit pipeline (a SecQDevOps MOD-08 service).
+2026-10-27T21:26:48Z,qorechain-qoreseal,0.1.0,QoreChain Association,Apache-2.0,2870543,"ML-KEM-1024 (FIPS 203) encryption of data to QoreChain accounts: hybrid X25519 mode, multi-recipient envelopes, recipient cards and epoch keys."
+2026-10-27T21:27:33Z,bayesian-statistics-ai999x,1.0.1,Ibnul Jaif Farabi,Apache-2.0,10382572,"Offline Bayesian statistics solver: Bayes' theorem, conjugate posteriors, credible and highest-density intervals, Bayes factors, decision analysis, uncertainty propagation, Monte Carlo tools and Sobo…"
+2026-10-27T21:28:59Z,convolute,0.1.0,,GPL-3.0-only,61900,Paraphrase text through configurable chains of LLM translations
+2026-10-27T21:31:21Z,switch-case-passbolt-sdk,0.1.1,,AGPL-3.0-or-later,22930196,Passbolt SDK — Python bindings of the Rust SDK
+2026-10-27T21:33:14Z,CinematicEarth,0.2.0,Tim Mayer <tjm0042@uah.edu>,MIT,81451,"Cinematic multi-stop flyovers for Google Earth Studio: stop list + camera moves -> .esp project, KML tour, annotated MP4"
+2026-10-27T21:33:49Z,pasqal-qdmi,1.0.0,"Lukas Burgholzer <burgholzer@me.com>, Aleksander Wennersteen <aleksander.wennersteen@pasqal.com>",Apache-2.0 WITH LLVM-exception,10466094,Pasqal QDMI Device Implementation
+2026-10-27T21:36:31Z,comfy-cli-slim,1.23.0.post2,"Yoland Yan <yoland@drip.art>, James Kwon <hongilkwon316@gmail.com>, Robin Huang <robin@drip.art>, ""…",GPL-3.0-only,3262117,"comfy-cli for the local Comfy agent: the same CLI without ruff, uv and imageio-ffmpeg."
+2026-10-27T21:36:42Z,yubikit,1.0.0a0,Dain Nilsson <dain@yubico.com>,BSD-2-Clause,70850403,Python library for managing YubiKey configuration.
+2026-10-27T21:37:37Z,tryvira-sdk,0.1.1,Vira,Apache-2.0,34611,Typed Python client for the Vira authority boundary
+2026-10-27T21:38:26Z,b3os,0.1.0,,Apache-2.0,326493,"Python SDK for B3OS beta: browsers, sandboxes, render, routines, actions, vault and inference on the machine that runs the model."
+2026-10-27T21:38:48Z,coordconverter_tk,0.1.0,Takondwa Kamwendo,MIT,22783,converter of geographic coordinates to decimal or degrees
+2026-10-27T21:39:56Z,soul-toolkit,0.3.2,S0uls,MIT,269532,"Recon for authorized labs and CTFs: staged nmap plus per-service checks, ending in a ranked 'Where to start' list."
+2026-10-27T21:40:28Z,django-imap-if,0.1.0,Ruben Nørgaard,MIT,98830,"Expose Python iterables (lists, generators, QuerySets) as IMAP folders from a Django project"
+2026-10-27T21:43:30Z,hugpy-resources,0.1.4,,,349281,"Shared generic utilities, file inspection and model resource evidence contracts"
+2026-10-27T21:46:03Z,dlmmc,2.1.0,,,37118,Dynamical linear models for time-series analysis using CmdStanPy
+2026-10-27T21:49:12Z,hugpy-discovery,0.1.1,,,292457,Independent model inventory and host-scoped engine route evidence
+2026-10-27T21:50:13Z,ffado-webmixer,1.2.1,FFADO Webmixer contributors,GPL-2.0-or-later,873750,Web and desktop mixer controls for FFADO FireWire audio devices
+2026-10-27T21:50:20Z,optimization-ai999x,1.0.1,Ibnul Jaif Farabi,Apache-2.0,9923316,"Offline optimization solver: linear and integer programming, convex and nonlinear optimisation, assignment, transportation and shortest-route problems, scheduling, inventory, queueing, game theory an…"
+2026-10-27T21:51:28Z,dualdict,0.1.0a1,,"MIT License Copyright (c) 2026 Anjani Permission is hereby granted, free of charge, to any person o…",77672,Bidirectional mapping with live tuple field proxies
+2026-10-27T21:51:29Z,dualdict-cpp,0.3.3a1,,"MIT License Copyright (c) 2026 Anjani Permission is hereby granted, free of charge, to any person o…",596653,Experimental native record-pool backend for DualDict
+2026-10-27T21:56:50Z,lipa-mpesa,0.1.0,"""J. Kenga"" <jkenga331@gmail.com>",MIT,65532,"A small, typed Python client for Safaricom's M-Pesa Daraja API (STK Push, C2B, B2C, status, balance, reversal)."
+2026-10-27T21:58:12Z,ipclues,0.1.0,Rufai Limantawa,MIT,9050,Official IPClues SDK for Python
+2026-10-27T21:58:30Z,agy-pilot,0.1.0,Doni Leong <doni.leong@gmail.com>,MIT,185652,Unofficial headless remote bridge and companion daemon for Google Antigravity
+2026-10-27T21:58:30Z,stilo-cli,0.1.0,,MIT,917103,Stilo: edit and render a folder of linked Texl documents
+2026-10-27T22:00:41Z,plone-client,1.0.0a1,Érico Andrei <ericof@plone.org>,GPL-2.0-only,448564,"Python library and command line client for Plone sites, built on plone.restapi"
+2026-10-27T22:02:36Z,odooscan,0.2.0,,MIT,14909627,A quality and security scanner for Odoo modules that checks them against an index of every module they build on
+2026-10-27T22:07:34Z,etalon-photonics,0.2.0,Tristan Romanov,Apache-2.0,278404,"Etalon — an open-source silicon photonics design toolkit: material models, waveguide mode solvers, S-matrix photonic circuit simulation, optical link budgets for AI-datacenter interconnects (co-packa…"
+2026-10-27T22:07:39Z,genesis-blackbox,0.1.0,Johann Schiffer,MIT,84104,Deterministic Runtime Flight Recorder & AST Blast-Radius Causal Crash Compiler for AI-Assisted Software Engineering
+2026-10-27T22:09:33Z,wigxj,0.1.0,Rodolphe Momier <momier.rodolphe@gmail.com>,MIT AND LGPL-3.0-or-later,5437063,"Fast Wigner 3j, 6j, 9j symbols and Clebsch-Gordan coefficients"
+2026-10-27T22:13:27Z,sorrel-ephys,0.2.0,,,53756738,Native curation GUI for SpikeInterface sortings
+2026-10-27T22:16:18Z,GWFrames,2.0.0,Michael Boyle <mob22@cornell.edu>,MIT AND GPL-3.0-or-later,28060787,"Manipulate gravitational waveforms — changing frames, and so on"
+2026-10-27T22:19:19Z,symprog,0.1.0a1,Kyle Richardson,Apache-2.0,228589,A lightweight toolkit for prototyping discrete and probabilistic symbolic programs in Python.
