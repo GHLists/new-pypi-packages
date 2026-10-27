@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T18:18:41Z,digsim-native,0.1.0,Fredrik Andersson <freand@gmail.com>,,3034242,Optional native simulation engine for DigSim
+2026-10-27T18:22:04Z,whiteboxxai-mcp,0.3.0,WhiteBoxXAI Team <support@whiteboxxai.com>,MIT,194169,MCP (Model Context Protocol) server exposing WhiteBoxXAI observability/explainability capabilities to agentic AI clients
+2026-10-27T18:23:01Z,amaran-mcp,0.1.0,jtannahill,MIT,2225010,"Drive an amaran light from a Mac with Claude Code, Cursor or GrokBot: studio lighting from a prompt, and a music mode that follows a trance track's sections, not its beat"
+2026-10-27T18:25:00Z,langchain-fastaf,0.1.0,FastAF <dev@fastaf.co>,MIT,10369,"LangChain tools for FastAF: SERP, news, jobs, Amazon, eBay and page-to-markdown APIs for AI agents."
+2026-10-27T18:25:01Z,crewai-fastaf,0.1.0,FastAF <dev@fastaf.co>,MIT,8270,"CrewAI tools for FastAF: SERP, news, jobs, Amazon, eBay and page-to-markdown APIs for AI agents."
+2026-10-27T18:27:14Z,stdplot,0.0.1,G-Lauz <gabriel.lauzier@usherbrooke.ca>,MIT,28862,A standardize wrapper around `matplotlib` targetting a variety of canvases.
+2026-10-27T18:34:03Z,flightrecorder-ai,1.0.0,Mohamed Ansar,Apache-2.0,43425,A local black-box recorder and failure investigator for AI agents
+2026-10-27T18:35:14Z,shubham-rawat,0.1.1,Shubham Rawat <rawatshub97@gmail.com>,,8789,My first package!
+2026-10-27T18:35:21Z,defakto,0.1.0,Forensiqa,Apache-2.0,51737,"Open-source toolkit for detecting AI-generated and unreliable content, from Forensiqa. Early development."
+2026-10-27T18:35:47Z,certbot-dns-beget-plugin,1.0.0,Roman Sarkisyan,MIT,19339,Certbot DNS plugin for Beget to automate Let's Encrypt certificate issuance with the DNS challenge
+2026-10-27T18:44:58Z,torchsky,0.4.0,Seb Fabbro <sebfabbro@gmail.com>,MIT,1260438,"Torch-native sky data, coordinates, geometry, and mapmaking"
+2026-10-27T18:45:20Z,rulestamp-ai-disclosure-lint-sb942,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33911,"Finds the generative-AI code that drops the disclosures California SB 942 has required since August 2, 2026. (bundled Node.js runtime)"
+2026-10-27T18:45:38Z,rulestamp-gdpr-privacy-notice-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34657,16 rules read your privacy.md the way Articles 13 and 14 read it (bundled Node.js runtime)
+2026-10-27T18:45:46Z,rulestamp-shaho-ryoritsu-lint-r8,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,40830,健康保険料率 令和8年度と子ども・子育て支援金 0.23% を給与計算の設定ファイルで照合 (14 rules) (bundled Node.js runtime)
+2026-10-27T18:46:05Z,rulestamp-soup-list-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37399,"Reads your SOUP register the way an auditor does: 16 rules over clauses 8.1.2, 5.3.3, 5.3.4, 4.3 and 7.1.3. (bundled Node.js runtime)"
+2026-10-27T18:46:59Z,pakshield,0.1.0,Umair Abbasi,MIT,23534,"Detect, mask and restore Pakistani CNIC numbers in English/Urdu text (best-effort)"
+2026-10-27T18:51:04Z,uvs-cli,0.1.1,maphew,MIT,39448,Install supported single-file PEP 723 scripts as persistent uv tools.
+2026-10-27T18:51:29Z,terebyte,0.1.0,Terebyte Inc.,Apache-2.0,15659482,"Terebyte for agents: pair with a member's app by a 6-character code, then read and write the rooms they open to you, encrypted on this computer. Includes an MCP server."
+2026-10-27T18:53:27Z,fact-kit,0.3.0a1,,MIT,26025,Reads the fact packages built by fact-kit
+2026-10-27T18:53:51Z,skytrace,1.0.0,Beyza Nur Ulu,Apache-2.0,676250,"PX4 / ArduPilot flight log analysis, anomaly detection and Q&A"
+2026-10-27T18:54:12Z,snap-maintainer,0.1.0,,MIT,99954,"Find out which of your published snaps need a rebuild or a new release, and how to do it"
+2026-10-27T18:54:23Z,wanai-booth,0.1.1,booth contributors,MIT,58284,Lightweight dependency isolation for ComfyUI custom nodes - give one node pack its own pip package versions without a second torch (WanAI Booth)
+2026-10-27T18:55:16Z,mcpgrader,0.1.1,Manoj Gujare,MIT,50222,"Lint and score any MCP server: token bloat, vague tool descriptions, and a concrete fix list."
+2026-10-27T18:58:20Z,socratic-debug,0.0.3,Mohamed Elawakey,,50446,"Autonomous pedagogical debugging mentor powered by LangGraph, Rich, and LangSmith"
+2026-10-27T18:58:22Z,ipguard-api,0.1.0b6,,Apache-2.0,107385,Typed asynchronous client for the IPGUARD cloud service
+2026-10-27T18:59:09Z,metewand,0.2.0,Johan Larsson <johan@jolars.co>,MIT OR Apache-2.0,55185,Define Metewand benchmarks with Python functions
+2026-10-27T19:00:37Z,zeo-integrations,0.1.0.post14,,MIT,462749,Zeo integration collection; provider SDKs are optional
+2026-10-27T19:01:27Z,mailinfra,0.1.0,MailInfra,MIT,99725,Официальный Python SDK для MailInfra — email API для разработчиков
+2026-10-27T19:02:01Z,hiac-controller-client,0.3.0,Guillermo López Alejos,GPL-3.0-or-later,110717,HIAC controller client library
+2026-10-27T19:02:09Z,hiac-controller-cli,0.3.0,Guillermo López Alejos,GPL-3.0-or-later,34045,HIAC controller CLI (hcc)
+2026-10-27T19:05:40Z,scikit-reduce,0.1.1,Fatih Aydın,MIT,26807,scikit-learn compatible data reduction methods: Nimble Instance Selection (NIS) and BLDOD outlier detection.
+2026-10-27T19:10:57Z,deptime,0.0.1,cschmertz,MIT,54320,"API time machine for Python libraries: tells coding agents what changed, in which release, and what to use instead. Local-first MCP server."
+2026-10-27T19:13:22Z,hermes-setu,0.2.0,Jayesh Badwaik <j.badwaik@fz-juelich.de>,Apache-2.0,69657,Mirror a local git branch to a working tree on a remote agent host and synchronise commits in both directions.
+2026-10-27T19:14:58Z,thermodiff,1.6.0,"""Brandolín, Salvador Eduardo"" <salvadorebrandolin@unc.edu.ar>",MIT License,96294,project description
+2026-10-27T19:18:05Z,ooty-codes,1.0.0,Ooty Codes Contributors,MIT,34383,Terminal-accessible MCP and Agentic AI lab experiment codes
