@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T09:26:32Z,p3s-cpp,1.2.2,Mike Vogt <mike.vogt@iee.fraunhofer.de>,BSD-3-Clause AND LGPL-2.1-or-later,12442107,Compiled C++/KLU Newton-Raphson power-flow extension for p3s (nr_klu)
+2026-10-27T09:29:43Z,datalayer-cells,0.0.2,,MIT,82515,"Datalayer Cells for Python: read and write Cells workbooks, as agents do, and the `datalayer cells` command"
+2026-10-27T09:31:21Z,dify-kb-mcp,0.1.0,B2B增长工坊,MIT,11843,MCP server that exposes Dify knowledge base retrieval as agent tools
+2026-10-27T09:33:50Z,certbot-dns-netbox,1.0.0,Sven Luthi <dev@sven.luethi.co>,MIT,20921,NetBox DNS (netbox-plugin-dns) DNS-01 authenticator plugin for Certbot
+2026-10-27T09:38:41Z,vat-whitelist-mcp,0.1.0,Smart Mobile House,MIT,92135,Model Context Protocol server for the Polish VAT White List.
+2026-10-27T09:38:44Z,vertext-ai-proxy,0.2.1,entr0pia,MIT,51661,轻量级 Google Cloud Vertex AI（Gemini Enterprise Agent Platform）OpenAI 协议反向代理网关
+2026-10-27T09:38:53Z,git-history-cleaner,1.0.0,CyberGarage,MIT,37109,Remove obsolete file history while preserving the current Git tree
+2026-10-27T09:40:06Z,typed-encoders,0.1.0,,,22108,Small encoders for typed decisions and typed extraction: training recipes for the tasksource models
+2026-10-27T09:44:46Z,unsaid-video,0.2.0,,MIT,70666,"Edit video by editing text. An open-source, local-first Descript alternative."
+2026-10-27T09:47:36Z,doc-toolkit-mcp,0.1.0,B2B增长工坊,MIT,14048,"MCP server for local document work: convert to Markdown, OCR scanned files, chunk for retrieval, and split or merge PDFs"
+2026-10-27T09:48:45Z,intent-lng,0.7.0a1,Intent contributors,Apache-2.0,37424,Experimental declarative language for stateful applications
+2026-10-27T09:48:52Z,pip2pi-dev,0.9.0,David Wolever <david@wolever.net>,BSD-2-Clause,12246,pip2pi builds a PyPI-compatible package repository from pip requirements
+2026-10-27T09:49:20Z,meshloom,0.0.1,,MIT,2662,Placeholder release reserving the meshloom name. Not yet functional.
+2026-10-27T09:49:49Z,mcp-test-calculator,0.1.0,,MIT,4110,MCP calculator server with add/subtract/multiply/divide tools
+2026-10-27T09:51:49Z,site-health-mcp,0.1.0,B2B增长工坊,MIT,11813,"MCP server that checks a website's availability, speed, SSL expiry, basic SEO tags and broken links"
+2026-10-27T09:52:24Z,maity,0.0.0,Oliver Zehentleitner,MIT,1644,
+2026-10-27T09:53:24Z,dashloom,1.1.0,Michael Beeks <michael.beeks23@proton.me>,MIT,56742,"Functional essentials woven on pydash: records, paths, diffs, validation, and a lazy chain."
+2026-10-27T09:55:57Z,b4pt0r-the-harness,0.1.0,B4PT0R,,774002,"A local-first, persistent agent application with tools, memory, voice and a desktop interface"
+2026-10-27T09:56:27Z,longcache,0.1.0,ENDEVSOLS <technology@endevsols.com>,MIT,106750,Semantic similarity cache for LLM and RAG pipelines — cut repeat query costs by 40%+
+2026-10-27T09:58:09Z,fmsl,0.7.0,MJ Celedon,MIT,175770,"Exact fluid states of 0/0 points: proven limits and the full set of limit values of rational functions in two and three variables, plus proven-safe code for formulas with 0/0 traps"
+2026-10-27T09:58:54Z,toetra,1.0.0,KintanaOne <KintanaOne@proton.me>,PolyForm-Noncommercial-1.0.0,623653,Declarative behavioral specification and formal verification for machine-learning models
+2026-10-27T09:59:36Z,stagify,0.1.0,RamyJamea,MIT,60858,A Python framework for staged tool workflows with explicit context policies.
+2026-10-27T10:00:53Z,e36cli,0.2.0,jjshoots,GPL-3.0-or-later,268020,High-performance DS2 diagnostic CLI for BMW E36 (MS41) over K-line
+2026-10-27T10:01:04Z,prfmodel,0.1.0,Popylar Team <t.knapen@spinozacentre.nl>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",944585,A modern Python implementation for population receptive field modelling.
+2026-10-27T10:03:33Z,ready-gate,0.2.0,Sirjan Singh,MIT,396167,"Checks a task is fit to hand to a coding agent before it is dispatched: fills what the repo can answer, asks only what a human must."
+2026-10-27T10:07:48Z,sequince-density,0.1.0b1,"Michael J. Williams, Christian Chapman-Bird","MIT License Copyright (c) 2026 sequince-dev Permission is hereby granted, free of charge, to any pe…",48839,Fitted proposal distributions and flow backends for Sequince
+2026-10-27T10:10:08Z,vools-rhop,0.9.0,Victor <victortop921129@gmail.com>,Apache License 2.0,154942,vools-rhop - 双方对等镜像任务中继协议（密钥抽象 + 传输 + A/B/C 三角 + 通用任务队列：A 加密 JSON 指令 → B 解密执行，SQLite 管理依赖与状态）
+2026-10-27T10:11:55Z,contractbreaker,0.1.0,,MIT,350550,Deterministic causal verification of retry/timeout conflicts
+2026-10-27T10:12:19Z,morpheus-vlt,0.1.0,,AGPL-3.0-or-later,99067,"VLT protocol simulators (Unidesa/Cirsa, SAS, VDAI, RFranco, DEX/UCS) with chaos testing"
+2026-10-27T10:16:45Z,ume-eda,0.2.0,Leonardo Alchieri,MIT,191650,UME: a foundation model for wearable electrodermal-activity (EDA) signals.
+2026-10-27T10:19:11Z,tewii,0.1.0,epsilorne,,12547,Seamless Markdown to LaTeX + PDF Convertor

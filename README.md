@@ -8,52 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 09:19 UTC
+## Latest list — 2026-10-27 10:20 UTC
 
-New packages created between 2026-10-27 08:19 UTC and 2026-10-27 09:19 UTC.
+New packages created between 2026-10-27 09:19 UTC and 2026-10-27 10:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-27T09-19-12-25967Z.csv)
+[Full CSV](data/new-packages-2026-10-27T10-20-21-829681Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-27 08:19:59 | [frame-mcp](https://pypi.org/project/frame-mcp/) | 0.1.0 | lambdasec | 24.2 kB | Model Context Protocol server for the Frame security scanner. |
-| 2026-10-27 08:21:05 | [atomli-dft](https://pypi.org/project/atomli-dft/) | 0.1.8 |  | 67.8 MB | Independent molecular and periodic DFT engine for Atomli |
-| 2026-10-27 08:21:08 | [atomli-mlip](https://pypi.org/project/atomli-mlip/) | 0.1.8 |  | 5.3 MB | Independent machine-learning interatomic-potential engine for Atomli |
-| 2026-10-27 08:21:10 | [atomli-tb](https://pypi.org/project/atomli-tb/) | 0.1.8 |  | 7.1 MB | Independent xTB and D4 dispersion engine for Atomli |
-| 2026-10-27 08:24:59 | [damlforge](https://pypi.org/project/damlforge/) | 0.0.13 | Artem Bogomaz | 1.8 MB | DamlForge: a Pythonic contract-authoring language for Daml/Canton |
-| 2026-10-27 08:27:45 | [orochi.phase](https://pypi.org/project/orochi.phase/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 1.6 MB | Python package for simulating X-ray pair distribution functions |
-| 2026-10-27 08:27:47 | [orochi.pipeline](https://pypi.org/project/orochi.pipeline/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 29.1 kB | High-level automated calibration and end-to-end reduction pipelines for Orochi |
-| 2026-10-27 08:27:49 | [orochi.pixia](https://pypi.org/project/orochi.pixia/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 64.4 kB | Base class used in Orochi packages |
-| 2026-10-27 08:27:50 | [orochi.tutorial](https://pypi.org/project/orochi.tutorial/) | 4.0.0 | Satoshi Tominaka <tominaka.sa… | 16.5 kB | Official CUI and GUI tutorials for the Orochi 4.0 total scattering and PDF anal… |
-| 2026-10-27 08:32:55 | [kana-memory](https://pypi.org/project/kana-memory/) | 0.0.1 | Bala Mithran | 5.5 kB | Hierarchical memory for LLM agents that dreams: layered recall, offline consoli… |
-| 2026-10-27 08:33:43 | [toll-sdk](https://pypi.org/project/toll-sdk/) | 0.1.0 | Toll | 29.4 kB | Client for Toll's coin checks (Robinhood Chain, Solana, BSC) over MCP. Standard… |
-| 2026-10-27 08:34:27 | [appdraft](https://pypi.org/project/appdraft/) | 0.0.1 |  | 10.0 kB | Toolkit for adding an AI app builder to your web app. Pre-alpha placeholder. |
-| 2026-10-27 08:35:45 | [pagechaos](https://pypi.org/project/pagechaos/) | 0.1.0a1 | Dharani Eswaramurthi | 58.9 kB | Offline pagination scenarios and completeness checks for Python API clients. |
-| 2026-10-27 08:37:46 | [todayjuliandate](https://pypi.org/project/todayjuliandate/) | 0.1.1 | Ordinal Date Notes | 12.6 kB | Today's Julian date helpers: YYDDD / CYYDDD ordinal lot codes, Julian Day (JD),… |
-| 2026-10-27 08:42:04 | [unisession](https://pypi.org/project/unisession/) | 0.0.1 |  | 1.6 kB | Reserved for UniSession. Keep your CLI. Take the session with you. |
-| 2026-10-27 08:42:35 | [blastit](https://pypi.org/project/blastit/) | 0.1.0 | Rémy Sanchez <remy.sanchez@hy… | 16.2 MB | A sandboxing WSGI server: uids, per-route database grants, and no framework int… |
-| 2026-10-27 08:46:17 | [flaq](https://pypi.org/project/flaq/) | 0.2.0 | Flaq Technologies | 20.1 kB | Solve-spec compiler for quantum research: feasibility decisions before executio… |
-| 2026-10-27 08:49:05 | [ilu](https://pypi.org/project/ilu/) | 0.1.0 | Productree Labs <hello@produc… | 180.4 kB | Turn any OpenStreetMap area into a game-ready 3D model (.glb). |
-| 2026-10-27 08:52:11 | [convergence-core](https://pypi.org/project/convergence-core/) | 0.0.0.dev0 | Onefold AI | 1.6 kB | Placeholder for Convergence by Onefold AI, which is not distributed on PyPI. |
-| 2026-10-27 08:52:12 | [convergence-eval](https://pypi.org/project/convergence-eval/) | 0.0.0.dev0 | Onefold AI | 1.6 kB | Placeholder for Convergence by Onefold AI, which is not distributed on PyPI. |
-| 2026-10-27 08:52:13 | [convergence-ledger](https://pypi.org/project/convergence-ledger/) | 0.0.0.dev0 | Onefold AI | 1.6 kB | Placeholder for Convergence by Onefold AI, which is not distributed on PyPI. |
-| 2026-10-27 08:52:15 | [convergence-policy](https://pypi.org/project/convergence-policy/) | 0.0.0.dev0 | Onefold AI | 1.6 kB | Placeholder for Convergence by Onefold AI, which is not distributed on PyPI. |
-| 2026-10-27 08:53:30 | [omarchy-dms](https://pypi.org/project/omarchy-dms/) | 0.2.0 | Mikel Villota | 34.0 kB | Omarchy themes as Dank Material Shell (dmsProfiles) looks |
-| 2026-10-27 08:55:07 | [auxflow](https://pypi.org/project/auxflow/) | 0.1.0 | Upayan Mazumder | 5.8 MB | Static convergence classification for multi-pass document compilation |
-| 2026-10-27 09:00:47 | [yaskawa-coms](https://pypi.org/project/yaskawa-coms/) | 0.1.1 | Wong Cheng An <wca1991@gmail.… | 68.5 kB | Talk to Yaskawa MP-series and CP-series controllers over Ethernet: Extended MEM… |
-| 2026-10-27 09:05:01 | [cairn-operator-eval-lm](https://pypi.org/project/cairn-operator-eval-lm/) | 0.1.0 | cairn maintainers | 56.8 kB | eval/lm-eval: EleutherAI lm-evaluation-harness against a served candidate, task… |
-| 2026-10-27 09:05:48 | [joist-api-mcp](https://pypi.org/project/joist-api-mcp/) | 1.0.2 | Cotlet <contact@cotlet.dev> | 206.2 kB | Self-hosted Joist API and MCP server on your own Chrome session. Noncommercial… |
-| 2026-10-27 09:05:50 | [omio-api-mcp](https://pypi.org/project/omio-api-mcp/) | 1.0.2 | Cotlet <contact@cotlet.dev> | 205.4 kB | Self-hosted Omio API and MCP server on your own Chrome session. Noncommercial u… |
-| 2026-10-27 09:06:01 | [google-discover-api-mcp](https://pypi.org/project/google-discover-api-mcp/) | 1.0.2 | Cotlet <contact@cotlet.dev> | 140.1 kB | Self-hosted Google Discover feed API and MCP server: the Discover feed of your… |
-| 2026-10-27 09:06:29 | [alyxruntime](https://pypi.org/project/alyxruntime/) | 0.1.0 |  | 42.2 kB | Use any remote machine's CPU/GPU as a Jupyter runtime over a Cloudflare tunnel,… |
-| 2026-10-27 09:06:46 | [pyprotectx](https://pypi.org/project/pyprotectx/) | 0.1.1 | fengxiang <16425494+fengxiang… | 82.9 kB | Python code protection & licensing toolkit: Cython compile, NaCl encrypt, Ed255… |
-| 2026-10-27 09:06:49 | [pyprotectx-protected](https://pypi.org/project/pyprotectx-protected/) | 0.1.1 | fengxiang <16425494+fengxiang… | 24.2 kB | Runtime support for pyprotectx: encrypted module loader + license verification |
-| 2026-10-27 09:08:16 | [apud-bench](https://pypi.org/project/apud-bench/) | 0.0.1 | cadeos | 35.6 kB | Benchmark of vision-language models on historical manuscripts: transcription, g… |
-| 2026-10-27 09:08:29 | [apud](https://pypi.org/project/apud/) | 0.0.1 | cadeos | 13.6 kB | IIIF-grounded, citable vision for historical documents: region crops for VLMs,… |
-| 2026-10-27 09:08:54 | [apud-mcp](https://pypi.org/project/apud-mcp/) | 0.0.1 | cadeos | 6.2 kB | MCP server exposing apud: IIIF-grounded, citable vision for historical documents |
-| 2026-10-27 09:09:58 | [nexusserver](https://pypi.org/project/nexusserver/) | 26.2.0 | NexusServer Contributors | 56.2 kB | A lightweight, pure-Python web framework and HTTP server |
-| 2026-10-27 09:11:57 | [pyside-iconify-stubs-pyqt6](https://pypi.org/project/pyside-iconify-stubs-pyqt6/) | 1.2.0 |  | 19.9 kB | Type stubs that make pyside-iconify's types resolve to PyQt6. |
-| 2026-10-27 09:12:27 | [pyside-iconify-stubs-pyqt5](https://pypi.org/project/pyside-iconify-stubs-pyqt5/) | 1.2.0 |  | 19.9 kB | Type stubs that make pyside-iconify's types resolve to PyQt5. |
-| 2026-10-27 09:12:47 | [pyside-iconify-stubs-pyside2](https://pypi.org/project/pyside-iconify-stubs-pyside2/) | 1.2.0 |  | 19.9 kB | Type stubs that make pyside-iconify's types resolve to PySide2. |
-| 2026-10-27 09:15:32 | [jigane](https://pypi.org/project/jigane/) | 0.1.0 |  | 1.4 MB | GitHub の PR のレビューを助ける CLI |
-| 2026-10-27 09:17:18 | [uarthub](https://pypi.org/project/uarthub/) | 0.0.1 | Junbo Zheng <3273070@qq.com> | 28.6 kB | Share one serial port with multiple people over TCP — pure Python, zero config |
+| 2026-10-27 09:26:32 | [p3s-cpp](https://pypi.org/project/p3s-cpp/) | 1.2.2 | Mike Vogt <mike.vogt@iee.frau… | 12.4 MB | Compiled C++/KLU Newton-Raphson power-flow extension for p3s (nr_klu) |
+| 2026-10-27 09:29:43 | [datalayer-cells](https://pypi.org/project/datalayer-cells/) | 0.0.2 |  | 82.5 kB | Datalayer Cells for Python: read and write Cells workbooks, as agents do, and t… |
+| 2026-10-27 09:31:21 | [dify-kb-mcp](https://pypi.org/project/dify-kb-mcp/) | 0.1.0 | B2B增长工坊 | 11.8 kB | MCP server that exposes Dify knowledge base retrieval as agent tools |
+| 2026-10-27 09:33:50 | [certbot-dns-netbox](https://pypi.org/project/certbot-dns-netbox/) | 1.0.0 | Sven Luthi <dev@sven.luethi.c… | 20.9 kB | NetBox DNS (netbox-plugin-dns) DNS-01 authenticator plugin for Certbot |
+| 2026-10-27 09:38:41 | [vat-whitelist-mcp](https://pypi.org/project/vat-whitelist-mcp/) | 0.1.0 | Smart Mobile House | 92.1 kB | Model Context Protocol server for the Polish VAT White List. |
+| 2026-10-27 09:38:44 | [vertext-ai-proxy](https://pypi.org/project/vertext-ai-proxy/) | 0.2.1 | entr0pia | 51.7 kB | 轻量级 Google Cloud Vertex AI（Gemini Enterprise Agent Platform）OpenAI 协议反向代理网关 |
+| 2026-10-27 09:38:53 | [git-history-cleaner](https://pypi.org/project/git-history-cleaner/) | 1.0.0 | CyberGarage | 37.1 kB | Remove obsolete file history while preserving the current Git tree |
+| 2026-10-27 09:40:06 | [typed-encoders](https://pypi.org/project/typed-encoders/) | 0.1.0 |  | 22.1 kB | Small encoders for typed decisions and typed extraction: training recipes for t… |
+| 2026-10-27 09:44:46 | [unsaid-video](https://pypi.org/project/unsaid-video/) | 0.2.0 |  | 70.7 kB | Edit video by editing text. An open-source, local-first Descript alternative. |
+| 2026-10-27 09:47:36 | [doc-toolkit-mcp](https://pypi.org/project/doc-toolkit-mcp/) | 0.1.0 | B2B增长工坊 | 14.0 kB | MCP server for local document work: convert to Markdown, OCR scanned files, chu… |
+| 2026-10-27 09:48:45 | [intent-lng](https://pypi.org/project/intent-lng/) | 0.7.0a1 | Intent contributors | 37.4 kB | Experimental declarative language for stateful applications |
+| 2026-10-27 09:48:52 | [pip2pi-dev](https://pypi.org/project/pip2pi-dev/) | 0.9.0 | David Wolever <david@wolever.… | 12.2 kB | pip2pi builds a PyPI-compatible package repository from pip requirements |
+| 2026-10-27 09:49:20 | [meshloom](https://pypi.org/project/meshloom/) | 0.0.1 |  | 2.7 kB | Placeholder release reserving the meshloom name. Not yet functional. |
+| 2026-10-27 09:49:49 | [mcp-test-calculator](https://pypi.org/project/mcp-test-calculator/) | 0.1.0 |  | 4.1 kB | MCP calculator server with add/subtract/multiply/divide tools |
+| 2026-10-27 09:51:49 | [site-health-mcp](https://pypi.org/project/site-health-mcp/) | 0.1.0 | B2B增长工坊 | 11.8 kB | MCP server that checks a website's availability, speed, SSL expiry, basic SEO t… |
+| 2026-10-27 09:52:24 | [maity](https://pypi.org/project/maity/) | 0.0.0 | Oliver Zehentleitner | 1.6 kB |  |
+| 2026-10-27 09:53:24 | [dashloom](https://pypi.org/project/dashloom/) | 1.1.0 | Michael Beeks <michael.beeks2… | 56.7 kB | Functional essentials woven on pydash: records, paths, diffs, validation, and a… |
+| 2026-10-27 09:55:57 | [b4pt0r-the-harness](https://pypi.org/project/b4pt0r-the-harness/) | 0.1.0 | B4PT0R | 774.0 kB | A local-first, persistent agent application with tools, memory, voice and a des… |
+| 2026-10-27 09:56:27 | [longcache](https://pypi.org/project/longcache/) | 0.1.0 | ENDEVSOLS <technology@endevso… | 106.8 kB | Semantic similarity cache for LLM and RAG pipelines — cut repeat query costs by… |
+| 2026-10-27 09:58:09 | [fmsl](https://pypi.org/project/fmsl/) | 0.7.0 | MJ Celedon | 175.8 kB | Exact fluid states of 0/0 points: proven limits and the full set of limit value… |
+| 2026-10-27 09:58:54 | [toetra](https://pypi.org/project/toetra/) | 1.0.0 | KintanaOne <KintanaOne@proton… | 623.7 kB | Declarative behavioral specification and formal verification for machine-learni… |
+| 2026-10-27 09:59:36 | [stagify](https://pypi.org/project/stagify/) | 0.1.0 | RamyJamea | 60.9 kB | A Python framework for staged tool workflows with explicit context policies. |
+| 2026-10-27 10:00:53 | [e36cli](https://pypi.org/project/e36cli/) | 0.2.0 | jjshoots | 268.0 kB | High-performance DS2 diagnostic CLI for BMW E36 (MS41) over K-line |
+| 2026-10-27 10:01:04 | [prfmodel](https://pypi.org/project/prfmodel/) | 0.1.0 | Popylar Team <t.knapen@spinoz… | 944.6 kB | A modern Python implementation for population receptive field modelling. |
+| 2026-10-27 10:03:33 | [ready-gate](https://pypi.org/project/ready-gate/) | 0.2.0 | Sirjan Singh | 396.2 kB | Checks a task is fit to hand to a coding agent before it is dispatched: fills w… |
+| 2026-10-27 10:07:48 | [sequince-density](https://pypi.org/project/sequince-density/) | 0.1.0b1 | Michael J. Williams, Christia… | 48.8 kB | Fitted proposal distributions and flow backends for Sequince |
+| 2026-10-27 10:10:08 | [vools-rhop](https://pypi.org/project/vools-rhop/) | 0.9.0 | Victor <victortop921129@gmail… | 154.9 kB | vools-rhop - 双方对等镜像任务中继协议（密钥抽象 + 传输 + A/B/C 三角 + 通用任务队列：A 加密 JSON 指令 → B 解密执行，S… |
+| 2026-10-27 10:11:55 | [contractbreaker](https://pypi.org/project/contractbreaker/) | 0.1.0 |  | 350.6 kB | Deterministic causal verification of retry/timeout conflicts |
+| 2026-10-27 10:12:19 | [morpheus-vlt](https://pypi.org/project/morpheus-vlt/) | 0.1.0 |  | 99.1 kB | VLT protocol simulators (Unidesa/Cirsa, SAS, VDAI, RFranco, DEX/UCS) with chaos… |
+| 2026-10-27 10:16:45 | [ume-eda](https://pypi.org/project/ume-eda/) | 0.2.0 | Leonardo Alchieri | 191.7 kB | UME: a foundation model for wearable electrodermal-activity (EDA) signals. |
+| 2026-10-27 10:19:11 | [tewii](https://pypi.org/project/tewii/) | 0.1.0 | epsilorne | 12.5 kB | Seamless Markdown to LaTeX + PDF Convertor |
