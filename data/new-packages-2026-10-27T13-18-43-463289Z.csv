@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T12:18:44Z,runflow-sdk,1.9.0,Runflow,MIT,309108,SDK Python da Runflow (porte do @runflow-ai/sdk) — só biblioteca padrão no núcleo
+2026-10-27T12:19:33Z,ricelo-running-science,0.4.0,rictau,MIT,175122,"ricelo running science - Precision running telemetry, sub-integer VO2 max, and physiological load intelligence for AI and humans"
+2026-10-27T12:20:23Z,earnings-session,0.1.0,Zhuojun Li,MIT,78940,"Classify when an earnings release went out (pre-open, intraday, post-close) from SEC EDGAR acceptance times, and check a backtest entry for look-ahead."
+2026-10-27T12:23:47Z,osl-signflip,0.1.0,SungJun Cho <sungjun.cho@ndcn.ox.ac.uk>,MIT,59804,"Fast, reproducible sign-flipping for source-reconstructed M/EEG parcel time series via Z2 synchronisation."
+2026-10-27T12:30:19Z,CAT-pack,7.0.0a0,"F. A. Bastiaan von Meijenfeldt, Nikos Pappas, Ernestina Hauptfeld",MIT,157153,"CAT, BAT, RAT package"
+2026-10-27T12:31:25Z,zensical-ui,0.0.40,Zensical <contributors@zensical.org>,MIT,14023979,Templates and browser assets for Zensical
+2026-10-27T12:37:39Z,kuramoto-benchmark-suite,2.0.0,eigenscribe,"MIT License Copyright (c) 2025 eigenscribe Permission is hereby granted, free of charge, to any per…",182617,Benchmark-grade synthetic dataset generator for Kuramoto oscillator systems
+2026-10-27T12:38:55Z,frads-gym,0.2.0,Silas Kalmbach <silas.kalmbach@gmail.com>,"The MIT License Copyright (c) 2025–2026 Silas Kalmbach Permission is hereby granted, free of charge…",276702,Gymnasium environment for facade control with EnergyPlus and Radiance (via frads)
+2026-10-27T12:39:31Z,minicpm-ocr,1.0.0,,Apache-2.0,184813,MiniCPM-V OCR SDK: document layout + VLM orchestration frontend with pluggable inference backends
+2026-10-27T12:40:59Z,simplibs-serialize,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,241085,"Objects out, typed objects back: serialize any Python object to plain JSON-compatible data and build typed objects from it — the annotation is the schema, and every failure says exactly where — as pl…"
+2026-10-27T12:41:58Z,annotations-vector-search,0.1.0,Alberto Martinez <amartinezg@ravenpack.com>,LicenseRef-Proprietary,86125,Dataset generation from RavenPack Annotations using Snowflake vector search
+2026-10-27T12:42:04Z,garex,0.1.1,TakoYune,MIT,129905,Modern visual novel resource management library and CLI — continuing the legacy of GARbro.
+2026-10-27T12:42:06Z,magic-dorye,0.0.0,"""Dorye L. Esteras"" <dorye.esteras@apeironagents.tech>",Proprietary,2916,A magical library for enhancing material simulation
+2026-10-27T12:42:07Z,p56-asl,2026.10.1,"""Jan.Reimes"" <Jan.Reimes@head-acoustics.com>",MIT,8733033,An extended version of the ITU-T Rec. P.56 Active Speech Level (ASL). Complies with reference C-implementation but re-implemented in Rust and MIT-licensed.
+2026-10-27T12:43:06Z,ngapakin,1.0.2,Ilham Hatta Manggala,,117953,Bahasa pemrograman berekstensi .ngpk dengan dialek Ngapak/Banyumasan & Larapak MVC Web Framework.
+2026-10-27T12:46:15Z,hts-lookup,0.1.0,Anders Lee,MIT (code); public domain US government data (see DATA-LICENSE.md),1055251,"Offline lookup and validation of US Harmonized Tariff Schedule (HTS) codes: official descriptions, duty rates, closest valid code. No dependencies."
+2026-10-27T12:46:58Z,cvdkit,0.1.0,Isaac Yong,MIT,35054,"Colour-vision-deficiency-safe palettes, redundant encodings and simulation checks for matplotlib"
+2026-10-27T12:50:56Z,oracle-mcp-lite,0.1.0,BLUEGEM,MIT,33909,Free MCP server that analyzes Oracle AWR/ASH reports offline and gives DBA tuning advice
+2026-10-27T12:51:13Z,neurostats,0.2.0,Paweł Lenartowicz,LGPL-3.0-or-later,3768768,Neuroimaging statistics for Python on a Rust core: TFCE and permutation inference.
+2026-10-27T12:51:33Z,ggufkit,0.1.0,Konstantin Perikov,MIT,140519,"Fingerprint, verify and visualize GGUF models: order-independent content hashes, provenance manifests and tensor images."
+2026-10-27T12:59:53Z,mrsuite,0.0.1,"""Julian P. Merkofer"" <j.p.merkofer@tue.nl>",MIT,1129299,"MRS Processing, Analysis, AI Model Integration, and Benchmarking"
+2026-10-27T13:02:18Z,moncapro,0.1.0,Michael Stangl,MIT,449551,"Critical path (CPM) project planning with Monte Carlo simulation, scenarios and MCP interface"
+2026-10-27T13:02:34Z,kajenn-db,0.1.0,Genropy Team <info@softwell.it>,Apache-2.0,39523,"Database handlers for kajenn: asqueel, with SQLAlchemy and Django probes"
+2026-10-27T13:02:48Z,django-postbox,0.0.1,lkldknl,,2527,Add your description here
+2026-10-27T13:07:23Z,dj-turnstile,0.2.1,John Laffey <laffeychem@gmail.com>,MIT,22994,A reusable Cloudflare Turnstile app for Django
+2026-10-27T13:08:06Z,coordconverter_mh,0.1.0,Mike Hamuza,MIT,6668,Coordinates Converter
+2026-10-27T13:09:06Z,fiscal-transition-engine,1.1.4,Abhishek Singh,,38552,Closed-loop adaptive control system for sovereign fiscal transitions and subsidy phase-outs.
+2026-10-27T13:09:26Z,sarup,0.2.0,PHUCHANNN <icmtchannel@gmail.com>,MIT,99701,Thai-first context compression MCP server for Claude Code
+2026-10-27T13:10:27Z,apiauto-space,0.1.0,apiauto.space,MIT,48160,"Python client for the apiauto.space used-car API: Encar (Korea), Che168 (China), Copart and IAAI (USA) listings in one JSON format"
+2026-10-27T13:11:55Z,agentlatch-security,0.4.0,AgentLatch contributors,MIT,234276,"Local-first AI agent security scanner: checks agent code, tool manifests, and prompts for prompt injection, over-privileged tools, and secrets."
+2026-10-27T13:14:27Z,valkey-check,0.1.0,,,4709,Simple python application to check valkey/redis if it's master or slave
+2026-10-27T13:16:10Z,eclipse-herald,0.1.0,Cyan Eclipse Technologies LLC,MIT,21858,"Eclipse Herald MCP — signed Agent Cards, policy-gated delegation, certification before hire: the agent-to-agent discovery and delegation layer from Cyan Eclipse Technologies."
