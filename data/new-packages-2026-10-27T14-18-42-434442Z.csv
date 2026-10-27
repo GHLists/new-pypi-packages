@@ -1,0 +1,60 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T13:01:43Z,morphir-python,0.0.1,FINOS <morphir@finos.org>,Apache-2.0,293075,"Morphir domain modeling library, SDK runtime, and CLI for Python"
+2026-10-27T13:18:28Z,keytd-manat,0.2.0,KeyTD <info@keytd.com>,MIT,62168,"One API for Azerbaijani online payment providers: Kapital Bank, Azericard, Payriff, Epoint, GoldenPay and Yığım."
+2026-10-27T13:21:54Z,irondocs,0.1.0,Evgeny Karev,MIT,21709,Test codeblocks in pytest
+2026-10-27T13:22:10Z,jaspreet-studytools-2432726,1.0.0,Jaspreet Kaur <jaspreet00654@gmail.com.com>,MIT,10279,A beginner-friendly Python toolkit for everyday student tasks.
+2026-10-27T13:22:15Z,odoo-addon-barcode-stock-partner-delivery-zone,18.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,37339,Filter and group the warehouse app's operations by delivery zone
+2026-10-27T13:22:44Z,localquant,0.1.0,localquant,,41726787,LocalQuant algorithmic trading framework
+2026-10-27T13:23:30Z,confoundry,0.2.1,"Vytautas Jancauskas <vytautas.jancauskas@dlr.de>, Samuel Garske <samuel.garske@dlr.de>",,616686,Causal explorer for droughts.
+2026-10-27T13:25:14Z,hanfix,0.2.5,Isaac Yong,MIT,1670272,Fix commands and text typed in the wrong keyboard layout (Korean 2-set <-> QWERTY)
+2026-10-27T13:25:25Z,eclipse-beacon,0.1.0,Cyan Eclipse Technologies LLC,MIT,44517,"Eclipse Beacon MCP — the insurance watcher: it watches your household's policies, signals expiries before they happen, and prepares the actions you approve. It does not insure, bind, or advise."
+2026-10-27T13:25:42Z,xlsform-to-registro,1.0.0,Diego Mora,MIT,66361,Generador de Diseños de Registro (Data Dictionaries) institucionales en Excel a partir de formularios XLSForm
+2026-10-27T13:25:50Z,lugnut,0.0.1,,,1827,"Self-hosted vehicle maintenance and running-cost tracker (name reservation, in development)"
+2026-10-27T13:27:50Z,pgbrake,0.1.0,Zhang Lixiang,MIT,29735,"A local safety brake between AI coding agents and your Postgres: approval for risky SQL, row limits, one-command undo, audit log."
+2026-10-27T13:29:26Z,eclipse-constellation,0.1.0,Cyan Eclipse Technologies LLC,MIT,44190,"Eclipse Constellation MCP — the governed, vendor-neutral VM fleet layer for agents: one policy, one receipt ledger, every cloud and hypervisor underneath."
+2026-10-27T13:30:03Z,pyghcnh,0.2.0,Julien Marrec <contact@effibem.com>,MIT,20619,Retrieve NOAA NCEI Global Historical Climatology Network hourly (GHCNh) weather data into pandas
+2026-10-27T13:30:04Z,bifti,0.1.0,J-Endres,MIT,52871,"Load, save and resample BIfTI MRI simulation phantoms (JSON + NIfTI)"
+2026-10-27T13:33:50Z,beeverforge,0.1.0rc1,The BeeverForge Authors,Apache-2.0,11824157,"A framework to run software tickets autonomously with coding agents — policies authorize actions, humans evaluate results."
+2026-10-27T13:35:58Z,yosr,0.0.1,Wael Zohny,Apache-2.0,1470,Name reservation for Yosr AI. Real releases come later.
+2026-10-27T13:37:02Z,centergrindsim,0.1.1,Marco Leonesio,MIT,123435,Physics-based simulation of centerless grinding processes
+2026-10-27T13:38:30Z,yosr-ai,0.0.1,Wael Zohny,Apache-2.0,1503,Name reservation for Yosr AI. Real releases come later.
+2026-10-27T13:38:32Z,quillwork,0.0.2,,Apache-2.0,4493786,"Lossless, AI-friendly editing of Word (.docx) documents"
+2026-10-27T13:38:41Z,spanrail,0.1.0,,MIT,14933,"Python SDK for Spanrail, a self-hosted LLM observability platform."
+2026-10-27T13:38:54Z,eclipse-dispatch,0.1.0,Cyan Eclipse Technologies LLC,MIT,47439,"Eclipse Dispatch MCP — the newsletter layer above the platforms: drafts once, syndicates drafts everywhere sanctioned, unifies the analytics. Never publishes without approval, and never scrapes."
+2026-10-27T13:39:00Z,yosr-daleel,0.0.1,Wael Zohny,Apache-2.0,1504,Name reservation for Yosr AI. Real releases come later.
+2026-10-27T13:39:01Z,eclipse-social-core,0.1.0,Cyan Eclipse Technologies LLC,MIT,55094,"Eclipse Social Core MCP — the shared core of the Eclipse social adapter family: one canonical, hash-bound content package, per-adapter variants with classified diffs, hash-bound owner approvals, a ca…"
+2026-10-27T13:39:26Z,odoo-addon-account-invoice-ar-ap-by-journal,18.0.1.0.0.2,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,25944,Add AR/AP account on sale and purchase journals.
+2026-10-27T13:40:15Z,kechup,1.0.0,Eren Gölge,MIT,114759,"A project task tracker for agents, humans, and git."
+2026-10-27T13:40:53Z,bauherr,0.0.1,,Apache-2.0,1634,"Open-source software factory: describe what you need, Bauherr builds it."
+2026-10-27T13:41:03Z,eclipse-aperture,0.1.0,Cyan Eclipse Technologies LLC,MIT,41398,"Eclipse Aperture MCP — the Instagram adapter of the Eclipse social family, formalized: a static capability declaration, hash-bound native Feed/Carousel/Story/Reel variants with classified diffs, and…"
+2026-10-27T13:42:31Z,llm-failover-chain,0.6.1,Peter Saddington <peter@staas.fund>,MIT,26972,Multi-provider LLM failover with rate-limit handling and automatic retry.
+2026-10-27T13:42:52Z,agent-certify,0.5.1,David Martin Venti <david.martin@cognitive-engineering.dev>,Apache-2.0,237526,Structural verification of multiagent systems
+2026-10-27T13:45:46Z,serp-bigint,0.1.0,Serpentine contributors,MIT,9602,"Serpentine arbitrary-precision integers: BigInt with + - * // % ** and comparisons, matching CPython int semantics (pure Serpentine)"
+2026-10-27T13:45:56Z,splitsafe,0.1.0,Boobalan Arjunan <boobalan_arjunan@composermind.com>,MIT,39619,"Check your audio train/validation/test folders for leakage: the same recording (or a re-encoded, trimmed or re-leveled copy) on both sides of a split."
+2026-10-27T13:46:13Z,boot-log-diff,0.1.0,Ralf Steinert,MIT,28584,"Compare the serial boot log of an embedded board with a golden log, ignoring timestamps, addresses and other boot-to-boot noise"
+2026-10-27T13:48:20Z,serp-hmac,0.1.0,Serpentine contributors,MIT,6009,Serpentine hmac drop-in: keyed HMAC-SHA256/SHA1/MD5 and constant-time compare_digest (runtime-backed; stdlib delegate under CPython)
+2026-10-27T13:48:28Z,orange3-nnviewer,0.1.0,Timothy Corbett-Clark,MIT,22862,Orange add-on: view a neural network model with its weights
+2026-10-27T13:48:46Z,neco-quotient-certificate,0.1.0,,MIT,17999,観測による同一視の証明書を期待値と照合する
+2026-10-27T13:49:38Z,serp-bcrypt,0.1.0,Serpentine contributors,MIT,10063,Serpentine bcrypt password hashing: pyca/bcrypt-compatible gensalt/hashpw/checkpw (runtime EksBlowfish; pure-Python delegate under CPython)
+2026-10-27T13:50:43Z,serp-prometheus,0.1.0,Serpentine contributors,MIT,11634,Serpentine Prometheus metrics: prometheus_client-style Counter/Gauge/Histogram/Summary with labels and text exposition (process-global runtime store)
+2026-10-27T13:52:46Z,delta-architecture-linguistics,0.1.0,Ion Valentin Ciocioc,MIT,14113,Didactic Python demonstrations of the eight regimes of the Delta architecture of grammatical transformation.
+2026-10-27T13:53:39Z,quasar-typing,0.1.0,Liam <liam_deburca@me.com>,,40596,
+2026-10-27T13:53:40Z,fast-ivap,1.0.0,Paolo Toccaceli,MIT,2772925,Fast inductive Venn-ABERS predictors: distribution-free calibration of classifier scores
+2026-10-27T13:55:31Z,flowmation,0.1.0,,,15440,Official Python SDK for the FlowMation workflow automation API
+2026-10-27T13:55:36Z,ethlib,0.2.0,ethereum,CC0-1.0,1081299373,"Ethereum specifications, written in Lean"
+2026-10-27T13:57:19Z,bridge-solver,2.1.0,,MIT OR Apache-2.0,2789307,"Bridge double-dummy solver, par scoring, play analysis and a claim checker"
+2026-10-27T13:58:01Z,ot-gcc-get-token,0.1.0,,,8334,"Launch Chrome/Edge, wait for OIDC login to the AWS Agentic Wizard, and print the access token to stdout."
+2026-10-27T13:59:29Z,inksweep,0.1.0,"KarLex AI, Inc.",MIT,251267,"GPU-resident ink-detection depth sweeps for Herculaneum scroll surface volumes, reproducing the PHerc. 343 First Letters recipe."
+2026-10-27T14:00:19Z,quasar-utils,0.1.0,Liam <liam_deburca@me.com>,,850629,
+2026-10-27T14:01:14Z,insight-proxy-client,0.0.1,,,32770,Python client for insight_proxy with Insight 6.1.2 compatible data APIs
+2026-10-27T14:04:18Z,pglow,0.1.0,pglow,MIT,27373,A cross-platform terminal Markdown reader.
+2026-10-27T14:05:02Z,dataset-holder,0.1.0,Your Name <your.email@example.com>,,7188,"A central repository to hold, manage, monitor, scan, and ingest Python datasets."
+2026-10-27T14:06:02Z,tensorseal,0.1.0,msr8,MIT,47855,"Prove a deployed ML model is bit-for-bit the one that was audited, by anchoring its hash on Ethereum"
+2026-10-27T14:08:25Z,logredact,1.11.0,Andrii Iaremenko,MIT,176726,Scrub sensitive identifiers from diagnostic logs (syslog / terminal transcripts) before sharing them with support.
+2026-10-27T14:11:19Z,eclipse-gig-core,0.1.0,Cyan Eclipse Technologies LLC,MIT,50220,"Eclipse Gig Core MCP — the shared core of the Eclipse gig adapter family: one canonical, owner-approved, hash-bound Task Brief; quote normalization to face price + itemized fees + one all-in total; a…"
+2026-10-27T14:11:42Z,eclipse-muster,0.1.0,Cyan Eclipse Technologies LLC,MIT,51580,Eclipse Muster MCP — the Customer Graph core of the Eclipse customer adapter family: canonical Person/Company/Deal/Ticket/Conversation/Activity records with per-field provenance and Data Rights Ledge…
+2026-10-27T14:11:46Z,fishladder,0.0.1,Vitor da Costa Garcia <vitorcostagarcia2006@gmail.com>,BSD-3-Clause,7326,Evaluation framework for online multi-target active learning on data streams.
+2026-10-27T14:14:06Z,CCencrypt,0.3.0,itsregza,MIT,22517,"Card encryption and tokenisation for Adyen, CyberSource, eWay, Stripe, Braintree, Shopify and PayDock"
+2026-10-27T14:16:27Z,quasar-models,0.1.0,Liam <liam_deburca@me.com>,,7750001,
+2026-10-27T14:16:33Z,quasar-errors,0.1.0,Liam <liam_deburca@me.com>,,486903,
+2026-10-27T14:16:43Z,bitpin-sdk,0.1.0,Bitpin,MIT,256743,"Official Python SDK for the Bitpin exchange API (REST + WebSocket, sync + async)"
