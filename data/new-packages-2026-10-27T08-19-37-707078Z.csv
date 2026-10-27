@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T07:19:25Z,graphtrace,0.1.0,Anoop Singh,Apache-2.0,244710,"Regression testing for LangGraph agents, as a pytest plugin."
+2026-10-27T07:19:43Z,wpsync,1.2.1,,LicenseRef-PolyForm-Strict-1.0.0,98063,Manage blog posts as local Markdown files
+2026-10-27T07:21:01Z,pcdlpw,0.1.0,,MIT,421331,LPW practicals P1-P10: copies practical files into the current directory
+2026-10-27T07:28:36Z,haustus,1.0.0,Adham Mohamed <sonataofdeathprojects@gmail.com>,MIT,315430,"High-throughput terminal media downloader, audio mastering, and transcoding workstation."
+2026-10-27T07:29:21Z,knosis,1.0.0,Eason-nuosen,Apache-2.0,571003,"Knowledge substrate for coding agents (Codex, Claude Code): collect, verify, organize and reuse explicit knowledge"
+2026-10-27T07:31:08Z,autographql,0.1.0,"Keya Battu, Parth Mehta, Harikrishnan Balagopal, Manish Kesarwani",MIT,57698,Schema-driven generation of NL2GraphQL datasets from a GraphQL schema
+2026-10-27T07:31:17Z,twinlane,0.4.1,twinlane contributors,MIT,1224954,Run Claude Code and Codex together on included subscriptions
+2026-10-27T07:32:44Z,rgeval,0.1.0,"Keya Battu, Parth Mehta, Harikrishnan Balagopal, Manish Kesarwani",MIT,72713,Semantic-equivalence scoring for generated GraphQL queries
+2026-10-27T07:34:53Z,doctopus-ai,0.1.0,Aditya Sasidhar,MIT,2721142,Many arms. One API. Open document-processing gateway with intelligent backend routing.
+2026-10-27T07:35:55Z,local-tts-studio,1.0.0,mythgram,MIT,265505,Local Piper text-to-speech studio: single-port web UI + REST + OpenAI-compatible speech API
+2026-10-27T07:35:59Z,njswalig,0.1.0,jphil101,MIT,12571,"Needleman-Wunsch and Smith-Waterman pairwise sequence alignment, with the DP table"
+2026-10-27T07:38:02Z,specspec,0.0.1,,MIT,192396,"Connect intentions, revisable choices and implementation in versioned Markdown"
+2026-10-27T07:38:50Z,efficio,0.1.0,"Hassaan Tole, Durvesh Bhadgaonkar",MIT,81099,"Get more training out of every GPU hour on Colab, Kaggle and local GPUs: mixed precision, faster data loading, time budgets and exact resume for PyTorch."
+2026-10-27T07:43:21Z,latet-client,0.1.0,Emanuele Casabona <siphion@gmail.com>,MIT,47495,"A light Python client for the applications API of a Latet server: scan, mask and unmask texts with an API key's token, with a LangChain extra."
+2026-10-27T07:43:54Z,otbench-tabular,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",2195139,"Tabular generation, imputation, and prediction benchmark"
+2026-10-27T07:44:37Z,hftracer,0.1.0,,MIT,31850,Synchronize agent traces to Hugging Face buckets.
+2026-10-27T07:46:02Z,frame-security,1.0.0,codelion,Apache-2.0,1974785,"Sound static analysis and LLM reasoning, in one security agent"
+2026-10-27T07:47:47Z,ragdoc,0.1.0,Ahmed Imran,MIT,165176,Headless diagnostic for PDF RAG pipelines: attributes a lost answer to the pipeline stage that lost it.
+2026-10-27T07:54:38Z,mithril-locks,0.1.0,"""Rohan B. Dalton"" <rohan@rohandalton.io>",Apache-2.0,114072,"Distributed locks with fencing tokens, sync and async APIs, and multiple backends"
+2026-10-27T07:56:09Z,yeedu-mcp-server,0.1.0,,,188746,Yeedu MCP Server — exposes the Yeedu data platform to AI agents via Model Context Protocol
+2026-10-27T07:56:29Z,isc-reporter,0.1.0,Ousmane N'Diaye,MIT,151390,"Excel dashboards and PDF reports for SailPoint Identity Security Cloud: search, certification campaigns, identity attribute history, identity profile mappings and source migrations."
+2026-10-27T07:59:59Z,hwp2markdown,0.1.0,,MIT,5040129,Convert HWP 5.0 documents to Markdown without Hancom Office
+2026-10-27T08:00:04Z,bionic-reader,0.1.0,arturoaviles and contributors,MIT,18644627,Local word-prefix emphasis for text streams and terminal sessions
+2026-10-27T08:01:37Z,specove,0.1.0a1,,"MIT License Copyright (c) 2026 deepaint-ai Permission is hereby granted, free of charge, to any per…",1169416,轻量、离线、多消费方与多版本的 OpenAPI 文档浏览组件
+2026-10-27T08:02:29Z,done-claim-audit,0.1.0,,MIT,10367,Offline heuristic audit of completion claims against transcripts and git
+2026-10-27T08:02:43Z,dep-claim-audit,0.1.0,,"MIT License Copyright (c) 2026 dep-claim-audit contributors Permission is hereby granted, free of c…",31401,Offline static audit of Python dependency and compatibility claims
+2026-10-27T08:02:52Z,privacy-claim-audit,0.1.0,,MIT,9684,Offline static audit of privacy prose against Python source
+2026-10-27T08:02:56Z,iran-gold-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,113759,"Unofficial read-only MCP server for live 18k gold prices on Iranian platforms: Milli.gold, Wallgold, Melligold, Daric."
+2026-10-27T08:03:01Z,api-claim-audit,0.1.0,api-claim-audit contributors,MIT,25212,Offline static audit of documented Python API claims
+2026-10-27T08:04:04Z,coelevate-cli,0.2.0,,Apache-2.0,53317,"Command-line client for the Coelevate Context Repository public API: read, search, stage changes, and inspect releases."
+2026-10-27T08:06:49Z,tenko-plugin-apex,0.1.0,,GPL-3.0-only,373858,Tenko Apex 英雄查询：玩家战绩、地图轮换、猎杀线、服务器状态和官方资讯
+2026-10-27T08:06:53Z,vitalityfit,1.0.0,"""Xealti UG (Vitalityfit)"" <service@vitality-fit.de>",MIT,30716,"Compare prices of health products (medicines, supplements, cosmetics) from German online pharmacies and drugstores by name, PZN or EAN barcode: free price API client and CLI with cheapest offers, shi…"
+2026-10-27T08:07:01Z,tcages,0.3.0,"Dave Whipp <david.whipp@helsinki.fi>, Saska Dönges <saska.donges@helsinki.fi>","GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",2599307,Thermochronometer age prediction libraries used in Tc1D and Tcplotter
+2026-10-27T08:07:06Z,adept-client,0.1.0,Maxime Sünnen,MIT,11971,A Python client for the Adept platform.
+2026-10-27T08:10:58Z,karuna,0.0.1,Karuna <hello@karunaprotocol.dev>,Apache-2.0,2160,Karuna: a permission layer for autonomous AI agents. Full SDK coming soon.
