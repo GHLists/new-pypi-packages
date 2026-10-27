@@ -1,0 +1,73 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T14:18:50Z,bank-mcp,0.1.2,pritch56,MIT,145702,Unofficial read-only MCP server for UK bank and card data via TrueLayer Open Banking
+2026-10-27T14:19:20Z,airflow-provider-pysparkonk8s,1.0.0,Sebastian Daberdaku,Apache-2.0,40115,Airflow provider that runs @task.pyspark tasks as client-mode Spark drivers on Kubernetes
+2026-10-27T14:19:58Z,quillwork-server,0.0.3,,Apache-2.0,128025,"Reference service for Quillwork: document versions, agent tools, an MCP server and an HTTP API"
+2026-10-27T14:21:17Z,customrp-core,0.1.2,KeiraOMG0,MIT,55460,"Discord Rich Presence library implementing CustomRP's behaviour, for Linux, macOS and Windows"
+2026-10-27T14:23:03Z,sympy-reading,0.1.0,Yui KITSU <kitsuyui+github@kitsuyui.com>,,46725,Sympy equation to human-readable string
+2026-10-27T14:23:37Z,customrp-cli,0.1.1,KeiraOMG0,MIT,56150,"Custom Discord Rich Presence from the command line, configured with a TOML file. An independent alternative to CustomRP for Linux, macOS and Windows."
+2026-10-27T14:24:03Z,azathoth-ai,1.0.0,Eris Discordia Montano,MIT,482871,An empirical optimization engine for context-aware AI workflows.
+2026-10-27T14:24:24Z,couchbase-lm-cache,0.2.0,Couchbase Ecosystem,Apache-2.0,76561,"Couchbase as a shared, persistent KV-cache tier for LMCache and vLLM"
+2026-10-27T14:27:25Z,cuju,0.1.0,André Koraleski,Apache-2.0 AND LGPL-2.1-or-later AND MIT AND SunPro AND BSL-1.0 AND BSD-3-Clause,23431809,"A bit-exact, batched reimplementation of Google Research Football, for CUDA and CPU"
+2026-10-27T14:28:24Z,nexsci-rv,1.0.0,BJ Fulton <bjfulton@ipac.caltech.edu>,"BSD 3-Clause License Copyright (c) 2026, Caltech-IPAC Redistribution and use in source and binary f…",76272,Python client for the radial-velocity data archives hosted at NExScI.
+2026-10-27T14:28:27Z,gauge-mcp,0.1.0,Seaynic Labs,MIT,35616,MCP bundle for people running a small website: web analytics (Umami) and email (Resend) in one server.
+2026-10-27T14:29:20Z,kitsuyui.content-addr,0.8.3,Yui KITSU <kitsuyui+github@kitsuyui.com>,,26123,A playground for publishing packages to PyPI
+2026-10-27T14:30:01Z,moseq2-app,1.4.0,Datta Lab,LicenseRef-Harvard-Academic-Non-Commercial,241509,Interactive data exploration tools for the MoSeq2 pipeline.
+2026-10-27T14:32:40Z,knowledge-bundle-mcp,0.1.1,Seaynic Labs,MIT,36478,MCP bundle for people with a self-hosted knowledge base. First module: Open Notebook.
+2026-10-27T14:32:57Z,dark-litellm,1.108.0,BerriAI,MIT,64282133,Library to easily interface with LLM API providers
+2026-10-27T14:34:06Z,langchain-section-anything,0.1.0,The Section Anything Authors,Apache-2.0,25480,"LangChain document loader for Section Anything: one Document per PDF section, with its heading path, pages and character span."
+2026-10-27T14:35:06Z,privacyops-mcp,0.1.0,Seaynic Labs,MIT,45178,MCP bundle for consumers tracking credit-bureau disputes and drafting dispute letters from fixed templates. Local only.
+2026-10-27T14:38:56Z,jupyterlab-moonlight,0.1.1,snelow,MIT,165447,Moonlight dark theme for JupyterLab and Jupyter Notebook 7+
+2026-10-27T14:39:54Z,local-appsec-lab,0.2.0,AVIQEN,Apache-2.0,528715,Authorized local application security assessment engine and portable Agent Skill
+2026-10-27T14:40:43Z,servctl,1.0.0,avevall,,27372,Unprivileged background server and localhost proxy CLI manager
+2026-10-27T14:40:58Z,scaffoldlane,0.1.1,,,150305,Generate FastAPI projects with a reusable application core
+2026-10-27T14:40:59Z,libreserv-client,1.0.1,"BACKBONE, s.r.o.","MIT License Copyright (c) 2026 BACKBONE, s.r.o. Permission is hereby granted, free of charge, to an…",40859,"Python client for libreserv, the LibreOffice document-conversion service"
+2026-10-27T14:41:20Z,porereax,0.1.0,Karl Prokop <st184141@stud.uni-stuttgart.de>,GPL-3.0-only,145192,A tool for analysing and generating reactive simulations using ReaxFF and LAMMPS.
+2026-10-27T14:44:35Z,nexura-studio,0.4.0,Liceron <info@liceron.in>,MIT AND OFL-1.1,762318,"Nexura Studio: a local web page to build, run and approve nexura-runtime workflows, and its nexura-studio launcher."
+2026-10-27T14:46:15Z,django-party,0.1.1,DLRSP <dlrsp.dev@gmail.com>,MIT,40421,"Django party identity hub: contacts, external ids, consent, thin account codes."
+2026-10-27T14:47:59Z,ligandqc,1.1.0,Christian Bergeest,MIT,73158,A python tool to check the quality of ligand structures from the Protein Data Bank.
+2026-10-27T14:48:08Z,transcricao-psi-modelo,1.0.0,,MIT,64018259,"Modelo Whisper base (int8, CTranslate2) para faster-whisper, instalável via pip."
+2026-10-27T14:49:04Z,multicz-aur-plugin,0.1.0,Chris <goabonga@pm.me>,MIT,144010,"A multicz plugin that keeps AUR packages (PKGBUILD, .SRCINFO, pkgrel) honest."
+2026-10-27T14:50:15Z,au1h,0.1.0,,MIT,9106,Verify au1h tokens and read au1h gateway headers. FastAPI helpers included.
+2026-10-27T14:50:51Z,turbocluster,0.1,"Lorenzo Maria Perrone <lorenzolmp@protonmail.com>, Thomas Berlok <tberlok@gmail.com>",,13533,A GPU-accelerated Python library for filtering turbulence in Arepo simulations
+2026-10-27T14:52:36Z,lightrag-section-anything,0.1.0,The Section Anything Authors,Apache-2.0,27959,"Section Anything PDF parser engines for LightRAG: accurate headings for heading-aware chunking, with a cost/accuracy dial."
+2026-10-27T14:53:27Z,inferlab-kvstore,0.1.0,,MIT,5042,Inferlab external KV store lowering shared by the integrations that consume a store
+2026-10-27T14:54:17Z,dtree-explorer,1.0.0,Enis Olgac <enis@digraphs.info>,MIT,68963,"DTree Explorer: encode a directed tree with DTree's two projections (Q1, Q2) and watch it step by step, in the browser"
+2026-10-27T14:54:44Z,nomosprotocol,0.1.0,NOMOS Protocol <hello@nomosprotocol.com>,MIT,86956,"NOMOS for Python: the reference verifiers for NOMOS-SPEC-007, -008 and -010, and accept(), act() and witness() for NOMOS-SPEC-009. Verify an Act, commit it exactly once, carry one, or sign the facts…"
+2026-10-27T14:54:52Z,websprout,0.1.0,MyFramework Authors,MIT,282310,"A small, original Python web framework with built-in WSGI support."
+2026-10-27T14:55:54Z,llama-index-readers-section-anything,0.1.0,The Section Anything Authors,Apache-2.0,30479,"LlamaIndex reader for Section Anything: one Document per PDF section, with its heading path, pages and character span."
+2026-10-27T14:56:28Z,reliability-lab,0.1.0a1,Sathapana Chawananon,BSD-3-Clause,226254,"Study-design library for the reliability of LLM and human judgments, built on Krippendorff's alpha."
+2026-10-27T14:56:44Z,pyafrobarometer,0.1.2,pyafrobarometer contributors,MIT,1082975,Programmatic access to Afrobarometer survey data.
+2026-10-27T14:57:02Z,pvmd,0.0.6,EAD Suite,LicenseRef-Proprietary,12400990,数据管理工作站：表格数据接入、清洗、统计分析与报表导出，提供 Web 与桌面两种界面
+2026-10-27T14:58:11Z,ordito,0.1.0,Luca Grementieri <luca.grementieri@ens-paris-saclay.fr>,MIT OR Apache-2.0,4696726,Triangular mesh library based on NVIDIA Warp
+2026-10-27T15:02:22Z,sky-diff,0.1.0,SkyPackages <dev@skypackages.ru>,MIT,7762,"Сравнение строк: расстояние Левенштейна, схожесть 0..1, построчный diff."
+2026-10-27T15:02:24Z,sky-cron,0.1.0,SkyPackages <dev@skypackages.ru>,MIT,5524,"Парсинг cron-выражений, вычисление следующего запуска, описание на русском."
+2026-10-27T15:02:26Z,sky-ipv4-validate,0.1.0,,MIT,1448,Валидация IPv4-адресов.
+2026-10-27T15:02:29Z,sky-phone-ru,0.1.0,SkyPackages <dev@skypackages.ru>,MIT,3299,"Валидация и форматирование российских телефонов: E.164, маска, оператор."
+2026-10-27T15:03:08Z,matplotlib-rs,0.0.2,,PSF-2.0,30675164,A Rust rendering core with a Matplotlib-compatible Python API
+2026-10-27T15:03:22Z,zarr-ext-jpeg,0.1.0,Chris Barnes,,17057,jpeg codec for zarr-python
+2026-10-27T15:04:33Z,thin-mcp,0.1.0,Wild Edge contributors,MIT,85629,A small typed framework for building MCP tool servers
+2026-10-27T15:08:12Z,upstash-blob,0.1.0,Upstash <support@upstash.com>,MIT,150810,Python SDK for Upstash Blob
+2026-10-27T15:08:43Z,arc56-generated-harsh-97c9897c,1.2.2026072010,harsh-mogalgiddikar,,5489,Generated ARC-56 Algorand smart-contract clients for harsh-mogalgiddikar/cadencia-platform.
+2026-10-27T15:08:49Z,agemem,0.1.0,Daniel Illescas Romero <illescas.daniel@protonmail.com>,MIT,204508,"Project memory: git-tracked working state, jev-mem decisions, and original evidence"
+2026-10-27T15:08:53Z,diff-soup,1.0.0,Samuel Degnan-Morgenstern,BSD-3-Clause,19850589,"Differentiable, GPU-native JAX library for stiff PDEs and DAEs"
+2026-10-27T15:09:48Z,arc56-generated-harsh-5ed3eb50,1.2.2026072010,harsh-mogalgiddikar,,98403,Generated ARC-56 Algorand smart-contract clients for harsh-mogalgiddikar/cadencia_lending_pool.
+2026-10-27T15:10:00Z,stimgrid,0.2.0,Sanjeev Muthusamy,MIT,50398,"Fit stimulation pulses to what a stimulator can actually produce, and find the nearest exactly charge-balanced pulse."
+2026-10-27T15:10:49Z,dash0-opentelemetry-configuration,0.65b0.post1,,Apache-2.0,120037,Declarative configuration for the Dash0 OpenTelemetry distribution
+2026-10-27T15:10:53Z,arc56-generated-harsh-eb942665,1.2.2026072010,harsh-mogalgiddikar,,98384,Generated ARC-56 Algorand smart-contract clients for harsh-mogalgiddikar/credentia_v2.
+2026-10-27T15:10:54Z,libtexpr,0.1.0,StafLoker,Apache-2.0,34199,Placeholder expression engine for templates: [FIELD + 1 | function: arg] in Cyrillic or Latin
+2026-10-27T15:11:01Z,gbx-codecs,0.1.0,GreenBitAI,MIT,42521,"Audio codecs for speech models served by gbx-lm, run as a companion process on Apple silicon"
+2026-10-27T15:11:09Z,ysaas,0.1.0,,MIT,45526,"Terminal tool that monitors YouTube channels you have permission to reuse, downloads their Shorts, and uploads them to your own channel."
+2026-10-27T15:11:58Z,arc56-generated-hashm-1180fb91,1.2.2026072010,HashMapsData2Value,,19784,Generated ARC-56 Algorand smart-contract clients for HashMapsData2Value/leakswap.
+2026-10-27T15:12:05Z,sermonaudio.py,1.0.0,Vincent Larkin,GPL-3.0-or-later,72429,"Search and download sermons, speakers, series and whole churches from SermonAudio.com"
+2026-10-27T15:12:40Z,bindable-gate,0.0.1,,Apache-2.0,2077,Reserved by Bindable AI. The package is in preparation; see bindable-ai.com.
+2026-10-27T15:12:42Z,bindable-identity,0.0.1,,Apache-2.0,2112,Reserved by Bindable AI. The package is in preparation; see bindable-ai.com.
+2026-10-27T15:12:43Z,bindable-principal,0.0.1,,Apache-2.0,2125,Reserved by Bindable AI. The package is in preparation; see bindable-ai.com.
+2026-10-27T15:12:43Z,bindable-verifier,0.0.1,,Apache-2.0,2122,Reserved by Bindable AI. The package is in preparation; see bindable-ai.com.
+2026-10-27T15:13:08Z,freoa-verifica,1.3.0,Ricardo Peres Freoa,AGPL-3.0-or-later,933965,Verificação de citações jurídicas contra fontes oficiais
+2026-10-27T15:16:28Z,buildwright,0.1.0,Jordi Marçal Poy,MIT,185654,"Per-agent model routing for AI agents: LangGraph orchestration, PydanticAI agents, LiteLLM-ready registry, Langfuse tracing"
+2026-10-27T15:17:35Z,pyguibud,0.1.0,Luciano Arrezze,MIT,352006,Drag-and-drop GUI designer for ttkbootstrap (and optionally PySide6) that saves portable .ui files.
+2026-10-27T15:17:52Z,alphapsi-engine,0.0.0,Qodex Quantum <engineering@qodexquantum.ai>,LicenseRef-Proprietary,1186,"Internal Qodex Quantum package name, held to prevent squatting. Contains no code. Do not install."
+2026-10-27T15:17:53Z,alphapsi-kgraph,0.0.0,Qodex Quantum <engineering@qodexquantum.ai>,LicenseRef-Proprietary,1189,"Internal Qodex Quantum package name, held to prevent squatting. Contains no code. Do not install."
+2026-10-27T15:17:54Z,alphapsi-prompts,0.0.0,Qodex Quantum <engineering@qodexquantum.ai>,LicenseRef-Proprietary,1196,"Internal Qodex Quantum package name, held to prevent squatting. Contains no code. Do not install."
+2026-10-27T15:17:55Z,alphapsi-skillstore,0.0.0,Qodex Quantum <engineering@qodexquantum.ai>,LicenseRef-Proprietary,1219,"Internal Qodex Quantum package name, held to prevent squatting. Contains no code. Do not install."
+2026-10-27T15:17:59Z,dental-image-organizer,0.1.0,jimwellh,MIT,578332,"Local Mac app that aligns, color-matches, and composes clinical intraoral photos."
