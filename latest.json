@@ -1,41 +1,41 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-10-26T22:19:58.732751Z",
-    "path": "data/new-packages-2026-10-26T23-19-18-28976Z.csv",
-    "to": "2026-10-26T23:19:18.28976Z"
+    "count": 33,
+    "from": "2026-10-26T23:19:18.28976Z",
+    "path": "data/new-packages-2026-10-27T00-18-42-072913Z.csv",
+    "to": "2026-10-27T00:18:42.072913Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-26T23:40:35Z",
+      "package": "melara",
+      "since": "2026-10-26T23:19:18.28976Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-26T20:22:52Z",
       "package": "openboardtwin",
       "since": "2026-10-26T20:20:46.833365Z",
       "version": "0.2.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-26T20:37:22Z",
       "package": "physmetdoc",
       "since": "2026-10-26T20:20:46.833365Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-26T20:42:34Z",
       "package": "pintestxyz123",
       "since": "2026-10-26T20:20:46.833365Z",
       "version": "0.0.1"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-26T19:25:41Z",
-      "package": "qunatbench",
-      "since": "2026-10-26T19:18:36.239949Z",
-      "version": null
     }
   ],
-  "serial": 42790348,
+  "serial": 42791927,
   "source_truncated": false,
-  "window": "2026-10-26T23:19:18.28976Z"
+  "window": "2026-10-27T00:18:42.072913Z"
 }
