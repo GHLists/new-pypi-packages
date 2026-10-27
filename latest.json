@@ -1,20 +1,12 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-10-27T04:18:42.195426Z",
-    "path": "data/new-packages-2026-10-27T05-19-36-491619Z.csv",
-    "to": "2026-10-27T05:19:36.491619Z"
+    "count": 42,
+    "from": "2026-10-27T05:19:36.491619Z",
+    "path": "data/new-packages-2026-10-27T06-19-26-535411Z.csv",
+    "to": "2026-10-27T06:19:26.535411Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-10-27T01:37:48Z",
-      "package": "magmacrunch-aggravation",
-      "since": "2026-10-27T01:18:36.595376Z",
-      "version": "0.1.0"
-    }
-  ],
-  "serial": 42799826,
+  "pending": [],
+  "serial": 42801903,
   "source_truncated": false,
-  "window": "2026-10-27T05:19:36.491619Z"
+  "window": "2026-10-27T06:19:26.535411Z"
 }

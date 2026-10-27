@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T05:23:58Z,pyorbslam3,0.1.1,,GPL-3.0-only,40624587,"Python bindings for ORB-SLAM3: monocular, stereo, RGB-D, with and without IMU"
+2026-10-27T05:24:35Z,lambdaflow,0.1.0,Frank Zhang,MIT,9119,"A truly serverless Airflow on your own AWS account: Airflow 3 DAG files on Lambda, Step Functions, EventBridge Scheduler and DynamoDB, ≈ $0 when idle. Python client for the deployment."
+2026-10-27T05:26:18Z,onenote-converter,0.1.2,Wagner Montes <wmontes@gmail.com>,MIT,4977330,"Read Microsoft OneNote .one sections, .onetoc2 notebooks and .onepkg packages in Python"
+2026-10-27T05:26:51Z,lang2sim,2.0.0,,,308677,Natural Language to Executable Robot Simulation with Dynamic Stress Testing
+2026-10-27T05:27:06Z,lintex,0.1.0,lintex contributors,MIT,157631,"A fast, AST-based linter for code written by LLM coding agents, with fix-it feedback an agent can act on."
+2026-10-27T05:28:47Z,capstack-lbo,0.1.0,Daniyal,MIT,545175,"A leveraged buyout engine: sources and uses, a debt waterfall with cash sweep, covenant tests, and returns attribution."
+2026-10-27T05:28:52Z,moneyness,0.1.0,Daniyal,MIT,590533,"Options pricing, Greeks and implied volatility, validated against closed-form results."
+2026-10-27T05:28:59Z,shortfall,0.1.0,Daniyal,MIT,855094,"A portfolio risk engine: shrinkage covariance, value at risk, expected shortfall, risk contributions and drawdown statistics."
+2026-10-27T05:29:18Z,postilon,1.0.0,"""Kulina Pte. Ltd."" <hello@postilon.com>",MIT,28267,Python SDK for the Postilon transactional email API
+2026-10-27T05:29:37Z,pygrafito,0.8.0,Mario Abarca <knkillname@gmail.com>,MIT,649828,An embedded property graph backed by the Python standard library
+2026-10-27T05:33:23Z,lord-tejal,0.1.1,Your Name <you@example.com>,"MIT License Copyright (c) 2026 Your Name Permission is hereby granted, free of charge, to any perso…",379666,"lord-tejal: A minimal, modern Python package."
+2026-10-27T05:38:36Z,procage,0.0.1,hupe1980,MIT OR Apache-2.0,12605,Process sandboxing: macOS Seatbelt without sandbox-exec (name reserved; Python bindings under development)
+2026-10-27T05:39:23Z,advantech-adc,0.1.0,Advantech/MA,Apache-2.0,5130141,Python API for Advantech Data Connect (ADC) to access CODESYS PLC symbols and memory.
+2026-10-27T05:41:27Z,nestsar,0.1.0,John McMeen <johnmcmeen@gmail.com>,MIT,190404,Nested species-area relationship datasets from point observations
+2026-10-27T05:41:49Z,geneticsar,0.1.0,John McMeen <johnmcmeen@gmail.com>,MIT,72233,Genetic algorithm optimisation of nested species-area relationship sampling
+2026-10-27T05:49:36Z,axiocairn,0.0.1,Axiocairn Authors,MIT,3820,Axiocairn market-research MCP server: connection details
+2026-10-27T05:49:38Z,axiocairn-mcp,0.0.1,Axiocairn Authors,MIT,3907,Connection details for the Axiocairn MCP server (hosted market-research MCP)
+2026-10-27T05:49:45Z,scripteer,2.0.0,Pokanop Apps LLC,MIT,422005,Dependency-light building blocks for cohesive Python command-line tools
+2026-10-27T05:50:02Z,signwarden,0.0.1,SignWarden Authors,Apache-2.0,13241,Early research on receipts and audit records for AI agent actions (name reserved; no verifier included)
+2026-10-27T05:51:03Z,thalamus-console,0.1.0,Jackson Porter,MIT,503693,"Rooms and the console for thalamus: pinned sessions in tmux windows, messages between them, and a phone-sized browser surface over both"
+2026-10-27T05:51:22Z,thalamus-ingest,0.1.0,Jackson Porter,MIT,51761,Curated ingestion for thalamus: third-party documents into an expert's knowledge subgraph
+2026-10-27T05:51:29Z,scalio-backup,0.1.0,,Proprietary,34449,"Encrypted export and import (backup, restore, move) shared by the Scalio apps"
+2026-10-27T05:51:40Z,PhyAgentOS-ai,1.1.1,PhyAgentOS contributors,MIT,15641791,A lightweight personal AI assistant framework
+2026-10-27T05:54:21Z,coordx-cli,0.0.1,,MIT OR Apache-2.0,11264,CoordX. Name reserved; real releases come later.
+2026-10-27T05:54:22Z,coordx-core,0.0.1,,MIT OR Apache-2.0,11279,CoordX. Name reserved; real releases come later.
+2026-10-27T05:54:24Z,coordx-sdk,0.0.1,,MIT OR Apache-2.0,11265,CoordX. Name reserved; real releases come later.
+2026-10-27T05:54:25Z,coordx,0.0.1,,MIT OR Apache-2.0,11203,CoordX. Name reserved; real releases come later.
+2026-10-27T05:56:17Z,map2smiles,1.0.0,,,225202,"Convert modified peptide sequences (with PTMs, NNRs, cyclization) into SMILES using RDKit"
+2026-10-27T05:57:02Z,holdout-backtest,0.1.0,Daniyal,MIT,407255,"A backtest overfitting toolkit: deflated Sharpe ratios, backtest overfitting probability, purged cross-validation and multiple-testing haircuts"
+2026-10-27T05:57:03Z,slippage-tca,0.1.0,Daniyal,MIT,583742,An optimal execution and transaction cost analysis engine
+2026-10-27T05:57:53Z,super-power-bedrock,0.1.0,,Apache-2.0,54868,A Bedrock-backed AWS and Kubernetes operations assistant
+2026-10-27T06:01:05Z,tenor-curves,0.1.0,Daniyal,MIT,880691,"A fixed-income curve toolkit: day counts, discount curves, bond analytics, key rate risk and option-adjusted spread."
+2026-10-27T06:01:11Z,markproof,0.1.0,Markproof <support@markproof.co>,MIT,12799,Python client for the Markproof API - EU AI Act Article 50 watermarking and verification.
+2026-10-27T06:05:55Z,delineate-ai-core,0.0.1,,,2178,Placeholder reserved by Delineate; the real package is internal.
+2026-10-27T06:05:56Z,delineateai,0.0.1,,,2132,Placeholder reserved by Delineate; the real package is internal.
+2026-10-27T06:07:32Z,vibesequence,0.1.1,Gery Wibowo,MIT,135778,"Turn a codebase into zoomable user sequence diagrams, for you and your AI assistant"
+2026-10-27T06:08:27Z,openmvg-rs,0.1.0,OpenMVG-rs contributors,MIT OR Apache-2.0,14430241,Sparse 3D reconstruction (Structure from Motion) from a folder of images
+2026-10-27T06:09:52Z,localdash,0.1.0,Jatin Garg,MIT,3660770,"Turn any CSV or database into a live dashboard. Local, free, any model. Every chart shows its SQL."
+2026-10-27T06:09:54Z,harness-ablate,0.1.0,Jatin Garg,MIT,95483,"Find out which parts of your CLAUDE.md, skills and hooks still help on today's model. Some of them make it worse."
+2026-10-27T06:09:56Z,auragrid-mcp,0.1.0,Joshua Sunge,,2607,L402 Agent SDK and FastMCP Tools for AurAgrid Telemetry
+2026-10-27T06:13:51Z,plasgos-crm-sdk,2.0.0,Plasgos,MIT,99685,Official Python SDK for the Plasgos CRM Api Integration API.
+2026-10-27T06:18:57Z,rivlet,0.1.0,ririv,MIT,4052206,"Explicit, composable workflows with a Python API and a Rust execution core"
