@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T08:19:59Z,frame-mcp,0.1.0,lambdasec,Apache-2.0,24225,Model Context Protocol server for the Frame security scanner.
+2026-10-27T08:21:05Z,atomli-dft,0.1.8,,PolyForm-Noncommercial-1.0.0,67760583,Independent molecular and periodic DFT engine for Atomli
+2026-10-27T08:21:08Z,atomli-mlip,0.1.8,,PolyForm-Noncommercial-1.0.0,5312938,Independent machine-learning interatomic-potential engine for Atomli
+2026-10-27T08:21:10Z,atomli-tb,0.1.8,,PolyForm-Noncommercial-1.0.0,7114442,Independent xTB and D4 dispersion engine for Atomli
+2026-10-27T08:24:59Z,damlforge,0.0.13,Artem Bogomaz,Apache License 2.0,1767566,DamlForge: a Pythonic contract-authoring language for Daml/Canton
+2026-10-27T08:27:45Z,orochi.phase,4.0.0,Satoshi Tominaka <tominaka.satoshi@nims.go.jp>,,1613627,Python package for simulating X-ray pair distribution functions
+2026-10-27T08:27:47Z,orochi.pipeline,4.0.0,Satoshi Tominaka <tominaka.satoshi@nims.go.jp>,,29146,High-level automated calibration and end-to-end reduction pipelines for Orochi
+2026-10-27T08:27:49Z,orochi.pixia,4.0.0,Satoshi Tominaka <tominaka.satoshi@nims.go.jp>,,64355,Base class used in Orochi packages
+2026-10-27T08:27:50Z,orochi.tutorial,4.0.0,Satoshi Tominaka <tominaka.satoshi@nims.go.jp>,GPL-3.0-or-later,16523,Official CUI and GUI tutorials for the Orochi 4.0 total scattering and PDF analysis suite.
+2026-10-27T08:32:55Z,kana-memory,0.0.1,Bala Mithran,MIT,5508,"Hierarchical memory for LLM agents that dreams: layered recall, offline consolidation, and a small learned System One traverser."
+2026-10-27T08:33:43Z,toll-sdk,0.1.0,Toll,MIT,29353,"Client for Toll's coin checks (Robinhood Chain, Solana, BSC) over MCP. Standard library only."
+2026-10-27T08:34:27Z,appdraft,0.0.1,,Apache-2.0,10007,Toolkit for adding an AI app builder to your web app. Pre-alpha placeholder.
+2026-10-27T08:35:45Z,pagechaos,0.1.0a1,Dharani Eswaramurthi,Apache-2.0,58883,Offline pagination scenarios and completeness checks for Python API clients.
+2026-10-27T08:37:46Z,todayjuliandate,0.1.1,Ordinal Date Notes,MIT,12570,"Today's Julian date helpers: YYDDD / CYYDDD ordinal lot codes, Julian Day (JD), and MJD converters."
+2026-10-27T08:42:04Z,unisession,0.0.1,,MIT,1636,Reserved for UniSession. Keep your CLI. Take the session with you.
+2026-10-27T08:42:35Z,blastit,0.1.0,Rémy Sanchez <remy.sanchez@hyperthese.net>,Apache-2.0,16248546,"A sandboxing WSGI server: uids, per-route database grants, and no framework integration"
+2026-10-27T08:46:17Z,flaq,0.2.0,Flaq Technologies,Apache-2.0,20107,Solve-spec compiler for quantum research: feasibility decisions before execution.
+2026-10-27T08:49:05Z,ilu,0.1.0,Productree Labs <hello@productreelabs.com>,MIT,180426,Turn any OpenStreetMap area into a game-ready 3D model (.glb).
+2026-10-27T08:52:11Z,convergence-core,0.0.0.dev0,Onefold AI,,1626,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-27T08:52:12Z,convergence-eval,0.0.0.dev0,Onefold AI,,1626,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-27T08:52:13Z,convergence-ledger,0.0.0.dev0,Onefold AI,,1646,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-27T08:52:15Z,convergence-policy,0.0.0.dev0,Onefold AI,,1648,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-27T08:53:30Z,omarchy-dms,0.2.0,Mikel Villota,MIT,33981,Omarchy themes as Dank Material Shell (dmsProfiles) looks
+2026-10-27T08:55:07Z,auxflow,0.1.0,Upayan Mazumder,"MIT License Copyright (c) 2026 Upayan Mazumder Permission is hereby granted, free of charge, to any…",5804802,Static convergence classification for multi-pass document compilation
+2026-10-27T09:00:47Z,yaskawa-coms,0.1.1,Wong Cheng An <wca1991@gmail.com>,MIT,68500,"Talk to Yaskawa MP-series and CP-series controllers over Ethernet: Extended MEMOBUS, Modbus/TCP and non-procedure communication."
+2026-10-27T09:05:01Z,cairn-operator-eval-lm,0.1.0,cairn maintainers,Apache-2.0,56757,"eval/lm-eval: EleutherAI lm-evaluation-harness against a served candidate, task presets as pack data."
+2026-10-27T09:05:48Z,joist-api-mcp,1.0.2,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,206224,Self-hosted Joist API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-27T09:05:50Z,omio-api-mcp,1.0.2,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,205361,Self-hosted Omio API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-27T09:06:01Z,google-discover-api-mcp,1.0.2,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,140123,Self-hosted Google Discover feed API and MCP server: the Discover feed of your country as JSON. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-27T09:06:29Z,alyxruntime,0.1.0,,,42243,"Use any remote machine's CPU/GPU as a Jupyter runtime over a Cloudflare tunnel, Colab-style, from the command line or Python."
+2026-10-27T09:06:46Z,pyprotectx,0.1.1,fengxiang <16425494+fengxiang2012@user.noreply.gitee.com>,MIT,82881,"Python code protection & licensing toolkit: Cython compile, NaCl encrypt, Ed25519 license"
+2026-10-27T09:06:49Z,pyprotectx-protected,0.1.1,fengxiang <16425494+fengxiang2012@user.noreply.gitee.com>,MIT,24198,Runtime support for pyprotectx: encrypted module loader + license verification
+2026-10-27T09:08:16Z,apud-bench,0.0.1,cadeos,Apache-2.0,35593,"Benchmark of vision-language models on historical manuscripts: transcription, grounding and citation faithfulness"
+2026-10-27T09:08:29Z,apud,0.0.1,cadeos,Apache-2.0,13597,"IIIF-grounded, citable vision for historical documents: region crops for VLMs, W3C annotations out"
+2026-10-27T09:08:54Z,apud-mcp,0.0.1,cadeos,Apache-2.0,6217,"MCP server exposing apud: IIIF-grounded, citable vision for historical documents"
+2026-10-27T09:09:58Z,nexusserver,26.2.0,NexusServer Contributors,MIT,56177,"A lightweight, pure-Python web framework and HTTP server"
+2026-10-27T09:11:57Z,pyside-iconify-stubs-pyqt6,1.2.0,,MIT,19908,Type stubs that make pyside-iconify's types resolve to PyQt6.
+2026-10-27T09:12:27Z,pyside-iconify-stubs-pyqt5,1.2.0,,MIT,19910,Type stubs that make pyside-iconify's types resolve to PyQt5.
+2026-10-27T09:12:47Z,pyside-iconify-stubs-pyside2,1.2.0,,MIT,19915,Type stubs that make pyside-iconify's types resolve to PySide2.
+2026-10-27T09:15:32Z,jigane,0.1.0,,MIT,1356951,GitHub の PR のレビューを助ける CLI
+2026-10-27T09:17:18Z,uarthub,0.0.1,Junbo Zheng <3273070@qq.com>,Apache-2.0,28602,"Share one serial port with multiple people over TCP — pure Python, zero config"
