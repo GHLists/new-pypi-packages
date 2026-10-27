@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T00:19:43Z,castorbind,0.2.1,Matthew Andres Moreno <m.more500@gmail.com>,GPL-2.0-or-later,30166228,"Python bindings for the C++ core of castor, the R package for efficient phylogenetics on large trees, without R."
+2026-10-27T00:22:21Z,megalion-http,0.0.1,Klara Modin <klarasmodin@gmail.com>,MIT,8577,Expose the Megalion HTTP API to python
+2026-10-27T00:23:16Z,h13t0ry-hello-demo,0.1.0,,,2435,A simple Python package
+2026-10-27T00:23:24Z,provjera-hr-mcp,0.0.1,,,3292,"MCP server for Croatian company data: Sudski registar, FINA RGFI, udruge, court notices, subsidies, EU tenders. Search by OIB or MBS."
+2026-10-27T00:25:23Z,caprid-relay,0.1.0,,Apache-2.0,274824,Relay Python SDK
+2026-10-27T00:26:23Z,chaincompiler-si,0.3.0,,,17736,Self-Interpreter for the ChainCompiler chain dialect — an MCP that is also a skill
+2026-10-27T00:26:51Z,glyphsteer,0.3.0,,,48154,Dual-regime retrieval steering via compiled in-band glyph annotations
+2026-10-27T00:27:05Z,goldenreq,0.3.0,,,21066,The acceptance gate for goldenization: gauges FILE requests carrying receipts; a handler ACCEPTS/REJECTS; only an accept fires the promotion effect. Nothing self-promotes.
+2026-10-27T00:27:20Z,personacc,0.3.0,,,24790,Persona Compiler-Compiler — compiles a persona bundle (description blocks + attention chains + ≥1 chain-of-reasoning that uses them) and seats it into make_gba
+2026-10-27T00:29:10Z,huevat,0.1.0,Clay Wood <clayewood@gmail.com>,MIT,4033245,"Screened scientific palettes, gradients and coordinated figure styles"
+2026-10-27T00:33:04Z,isubing,1.0.0,Lucas Sogaray,Apache-2.0,21994,"A fast, multithreaded TCP port scanner with service detection and logging."
+2026-10-27T00:38:05Z,traffic-diff,0.1.0,Ayaan Ali,MIT,48277,"Record real API traffic, replay it against a new version, and flag only the response changes that matter."
+2026-10-27T00:40:05Z,mlx-segment-ct,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0 AND BSD-3-Clause,147604,Native MLX implementation of NV-Segment-CT (VISTA-3D)
+2026-10-27T00:41:38Z,bda-practicals,0.1.0,Your Name,,25404,"A collection of Big Data Analytics (BDA) practicals with instant one-word download commands (bda-3, bda-5, bda-6, bda-7)."
+2026-10-27T00:47:41Z,pyramids-citymodels,0.2.0,Mostafa Farrag <moah.farag@gmail.com>,GNU General Public License v3,91810,"3D city-model file-format drivers for pyramids: CityGML, CityJSON and more"
+2026-10-27T00:47:48Z,swin-unetr-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,63890,Native FP32 MLX SwinUNETR for macOS Apple Silicon with Metal
+2026-10-27T00:49:31Z,lung-nodule-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0 AND BSD-3-Clause,68604,"MONAI 3D RetinaNet lung nodule detector for Apple Silicon (macOS arm64, Metal)"
+2026-10-27T00:51:24Z,mlxradiomics,0.1.0.dev3,,Apache-2.0 AND MIT AND BSD-3-Clause,237738,Apple Silicon Metal radiomics with bounded voxel batches.
+2026-10-27T00:54:43Z,tencloud,0.1.0,TenCloud,,17366,TenCloud cloud storage Python SDK and command-line client
+2026-10-27T00:56:26Z,altissimo-mixpanel,0.1.0,Altissimo HQ,Apache-2.0,28469,Reusable Mixpanel analytics client for Altissimo projects
+2026-10-27T00:58:04Z,unfold-map,0.4.1,Mahmoud Nasif,MIT,306855,"Turn any codebase into an interactive map that explains it: the scanner, validator and page builder behind the Unfold agent skill."
+2026-10-27T01:01:32Z,firstcommon,0.0.0.dev0,,LicenseRef-Proprietary,2873,Placeholder. Paquete privado de REMAX First; no se instala desde PyPI.
+2026-10-27T01:07:20Z,fairmorph-engine,0.0.1,fairmorph <pypi@kreativmanufaktur.de>,,3331,Core engine for transforming ecology observation and measurement data into interoperable data formats to support FAIR principles (Under active development)
+2026-10-27T01:14:15Z,carrier-python,0.1.15,Lifecycle Innovations Limited,MIT,94478,"Python client for the Carrier API, MCP server, and CLI."
+2026-10-27T01:15:41Z,bs-autobot,0.1.0,BitterSecurity,Apache-2.0,134859,AutoBot: autonomous defensive security agent (detect -> investigate -> respond)
+2026-10-27T01:15:57Z,czn-deckcode,0.1.0a2,,MIT,65631,Offline deck-code tools for Chaos Zero Nightmare
