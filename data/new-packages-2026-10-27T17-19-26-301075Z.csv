@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T16:09:36Z,pytest-ros,0.1.0,Sean Fish <seanfish@gatech.edu>,MIT,20568,A pytest plugin for integration testing of ROS 2 systems
+2026-10-27T16:18:55Z,domain-security-check,1.7.0,Loïc Tellier,MIT,332823,"Passive security audit of a domain name (HTTPS, security headers, SPF/DKIM/DMARC), with a clear HTML report."
+2026-10-27T16:19:56Z,raidlock,0.1.1,agi1clj,MIT,14370555,Local-first lease-and-review board for coding agents from any provider
+2026-10-27T16:20:16Z,archelps,0.1.1,Arc,MIT,85772,Arc CLI: connect Git repositories to Arc Items using literal source markers
+2026-10-27T16:21:37Z,jinject,0.1.0,Sean Fish <seantfish@gmail.com>,,44758,Jinja templating with bundled Python
+2026-10-27T16:22:58Z,meltanolabs-tap-apollo,0.1.1,Max <max@meltano.com>,Apache-2.0,281579,"Singer tap for Apollo, built with the Meltano Singer SDK."
+2026-10-27T16:23:11Z,vistest,0.2.0a1,Kirill Kulagin,Apache-2.0,1053101,Precise visual regression testing: ΔE00 + SSIM + alignment + automatic noise suppression
+2026-10-27T16:23:41Z,ci-parity-cli,0.1.2,Braveen R <your.email@example.com>,,10502,Compare your local environment to CI workflows to prevent 'works on my machine' errors.
+2026-10-27T16:25:57Z,arena-composer,0.5.0,,MIT OR Apache-2.0,35464735,"A live editor, headless renderer and MCP server for IsaacLab-Arena environment specs"
+2026-10-27T16:26:37Z,quash-api,0.1.0,Quash,LicenseRef-Proprietary,639052,"Quash API test runner: run your Quash API test suites from CI with JUnit results, and reach private APIs through the Quash Connector."
+2026-10-27T16:28:24Z,xkcdkit,0.4.0,Eivind Teig,MIT,46371,"xkcd comics as a Python library, a CLI and a TUI, with a local cache and explainxkcd explanations."
+2026-10-27T16:29:35Z,plesty-pol-pl,0.2.0,Yunshuang Yuan <yunshuang.yuan@fkp.uni-hannover.de>,LGPL-3.0-or-later,735017,"Polarization-dependent photoluminescence of quantum dots, with fine-structure analysis."
+2026-10-27T16:31:54Z,baretile,0.0.1,alkinun,Apache-2.0,234739,"A compiler and runtime for Tenstorrent Blackhole, written in Python"
+2026-10-27T16:32:57Z,voice-cloner-studio,2.0.0,Mubashir,MIT,31521279,"Natural voice cloning in 23 languages (incl. Hindi) with a browser GUI, CLI and Python API - powered by Chatterbox Multilingual."
+2026-10-27T16:34:29Z,pyefris,1.0.0,pyefris contributors,MIT,2555469,Python client for URA EFRIS system-to-system e-invoicing integration
+2026-10-27T16:35:28Z,textbee,0.1.0,"""textbee.dev"" <support@textbee.dev>",MIT,51001,"Official Python SDK for textbee.dev, the open source SMS gateway"
+2026-10-27T16:36:41Z,sap-adt,1.4.0,shrek-abaper,MIT,212002,"SAP ADT REST API CLI: read/write ABAP source and metadata, transport request collection (read-only)."
+2026-10-27T16:40:14Z,plesty-anc300-piezo-controller,0.1.0,Yunshuang Yuan <yuanyunshuang@gmail.com>,LGPL-3.0-or-later,239169,A plesty anc300 piezo controller device.
+2026-10-27T16:41:51Z,plesty-pl-image-scan,0.1.0,Yunshuang Yuan <yunshuang.yuan@fkp.uni-hannover.de>,LGPL-3.0-or-later,1028429,A plesty pl image scan experiment.
+2026-10-27T16:44:45Z,ovok-sdk,0.1.0rc2,Actimi,AGPL-3.0-only,133561,Python SDK for integrating Ovok Core healthcare services.
+2026-10-27T16:49:16Z,profilekit,0.1.0,"""Johny A. Pedraza Romero"" <johny.antonio.pedraza.romero@gmail.com>",MIT,222940,"Turn structured profile data (JSON) into generated artifacts (GitHub README, LinkedIn copy, CV, portfolio data) and optionally publish them to real destinations."
+2026-10-27T16:50:05Z,Protspect,0.1.0a1,Biomolecular Systems Modeling and Design Group,BSD-3-Clause,84656,Fourier spectral features for protein and peptide sequences
+2026-10-27T16:56:25Z,dependence-maps,0.1.1,Ivan Medovikov,MIT,38562,"Dependence maps: signed, standardized deviations of the empirical copula from independence"
+2026-10-27T16:58:01Z,oaax-manager,0.1.0,,Apache-2.0,26570,List and fetch OAAX runtimes and toolchains
+2026-10-27T16:59:16Z,kohakugbc-data,0.1.0,"""Shih-Ying Yeh(KohakuBlueLeaf)"" <apolloyeh0123@gmail.com>",Apache-2.0,7373083,"KohakuGBC's data side: GBC graphs (store, resolution, prompt rendering) and the GBC dataset format (KohakuClip image shards, KohakuVault graphs and metadata)"
+2026-10-27T16:59:36Z,fast-rocksdb,2.4.0,Daniel Siegmann,BSD 3-Clause License,442053,Python bindings for RocksDB
+2026-10-27T17:00:23Z,odoo-addon-project_update_list,16.0.1.0.0,Mint System GmbH,AGPL-3,420183,Prepare multiple project updates from kanban phase or list view.
+2026-10-27T17:00:49Z,morgenmcp,0.2.1,The Morgen MCP Authors,Apache-2.0,227484,Unofficial MCP server for the Morgen calendar API
+2026-10-27T17:01:38Z,eznms,0.0.1,,AGPL-3.0-only,25936,ezNMS: easy-to-use open-source network management system (placeholder release)
+2026-10-27T17:02:52Z,quantarium,1.0.8,"f1ymango, Kandodaki",PolyForm-Noncommercial-1.0.0,992201,Test a trading idea honestly before you believe it: a local strategy lab with evidence rules and a safe harness for AI agents
+2026-10-27T17:03:11Z,vastgrid,0.2.0,yhay81,MIT,639679,"Huge tables in a notebook as a grid you can edit: DuckDB in the kernel reads DataFrames, Arrow tables, DuckDB relations and CSV, Parquet, JSON Lines and Excel files, and vastgrid's grid sorts, filter…"
+2026-10-27T17:05:14Z,zotero-summarizer,1.0.0,Shmuel Osovski,MIT,262037,Generate AI-powered summaries of Zotero library collections as an Obsidian vault
+2026-10-27T17:07:19Z,zeitreiher-models,0.1.0,Hochfrequenz Unternehmensberatung GmbH <info+github@hochfrequenz.de>,MIT,180175,Hand-written public data models of the Zeitreiher API (SAP IS-U EDM profile values)
+2026-10-27T17:11:02Z,pynitegui,1.0.0rc2,Prakhar,AGPL-3.0-only,4600057,A Qt desktop editor for 2D and 3D frame analysis with PyNite.
+2026-10-27T17:13:23Z,fancy-template,0.2.0,Particle Academy,MIT,70368,"Document templates for the Fancy document writers: a writer document with {{ tokens }} and JSON directives, plus a declaration of the data it needs. inspect() at save time, validate_data() before ren…"
+2026-10-27T17:14:44Z,rocket-Sirine-esi,1.0.0,Sirine,LICENSE.txt,6311,A small package that models rockets and shuttles
+2026-10-27T17:16:15Z,aria2-oci-pull,0.1.0,aria2-oci-pull contributors,MIT,34049,"Resumable, parallel Docker/OCI image downloader powered by system aria2c"
+2026-10-27T17:17:12Z,coordconverterbrk,0.1.2,buleka <mscgis000426@must.ac.mw>,MUST,5845,Convert geographic coordinates between DMS and decimal degrees.
+2026-10-27T17:17:56Z,spearfish,0.1.0,,BSD-3-Clause,6469018,"Python bindings for spearfish, a fast long-read RNA-seq mapper to the transcriptome"
+2026-10-27T17:18:31Z,domtrack,0.0.2,MhkaPR,MIT,90597,"Record DOM mutations and user events from a live page, then replay them with Playwright."
