@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-10-27T21:18:54.776913Z",
-    "path": "data/new-packages-2026-10-27T22-19-53-372731Z.csv",
-    "to": "2026-10-27T22:19:53.372731Z"
+    "count": 29,
+    "from": "2026-10-27T22:19:53.372731Z",
+    "path": "data/new-packages-2026-10-27T23-20-52-052544Z.csv",
+    "to": "2026-10-27T23:20:52.052544Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-27T21:59:58Z",
       "package": "PicoPWM",
       "since": "2026-10-27T21:18:54.776913Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-27T18:28:53Z",
-      "package": "jev-governer",
-      "since": "2026-10-27T18:19:29.391043Z",
+      "attempts": 1,
+      "created_at": "2026-10-27T23:16:50Z",
+      "package": "acuity-core",
+      "since": "2026-10-27T22:19:53.372731Z",
       "version": null
     }
   ],
-  "serial": 42840799,
+  "serial": 42842991,
   "source_truncated": false,
-  "window": "2026-10-27T22:19:53.372731Z"
+  "window": "2026-10-27T23:20:52.052544Z"
 }
