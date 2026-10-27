@@ -1,0 +1,15 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T03:37:21Z,mcp-flstudio,0.1.0,"jagdeep Singh, Karl Andres",MIT,796168,"MCP server for controlling FL Studio - mixer, transport, channels, plugins, and piano roll"
+2026-10-27T03:38:27Z,lordevo-x402,0.1.0,Lordevo <hello@lordevo.com>,MIT,21555,"Client for Lordevo's pay-per-call web, DNS, email and domain checks for AI agents: 33 tools from $0.01, paid with x402 (USDC on Base). LangChain and CrewAI tools included."
+2026-10-27T03:39:50Z,GenoKit,1.0.0,zhusitao,MIT,439423,"A versatile command-line toolkit for comprehensive genomic feature extraction, analysis, and visualization"
+2026-10-27T03:46:30Z,imposterA,0.1.0,,,1279446,PCD practicals - copy practical files into the current directory
+2026-10-27T03:46:33Z,open-legacy-rpc,1.0.0,,MIT,138649,Reverse-engineered wire format and implementation of Unity's legacy RPC networking (NetworkView / [RPC] / OnSerializeNetworkView)
+2026-10-27T03:48:00Z,hypercache-io,0.9.0,Looe Labs,Apache-2.0,51670,HyperCache: Host-Local NVMe Caching and Zero-Copy Direct Block DMA / GPUDirect Storage Acceleration for AI Workloads
+2026-10-27T03:48:14Z,turbo-luxury-paint-care,1.0.0,Turbo Luxury Car Wash,MIT,15717,"Choose between wax, sealant and ceramic coating for UAE sun, work out when paint protection is due and what it costs per year."
+2026-10-27T03:57:23Z,breachgraph,0.2.0,breachgraph contributors,Apache-2.0,331535,"Attack-path-aware security gate for CI: runs Semgrep, Gitleaks, Trivy, Checkov, zizmor and ZAP, links findings to code, Kubernetes, cloud IAM (AWS, Azure, GCP) and GitHub Actions, and fails the build…"
+2026-10-27T03:58:59Z,zenmap,0.1.1,,Apache-2.0,120331,"Publish to a ZenMap app and query its public map: client, command line and MCP server"
+2026-10-27T04:03:05Z,psych-ingestor,1.0.0rc3,Nate Vack,MIT,178076,"An HTTP API for ingesting, routing, and storing data from online behavioral-research tasks"
+2026-10-27T04:04:16Z,kaito-guardrail-core,0.1.0,,Apache-2.0,57726,KAITO-owned guardrail scanners and streaming utilities
+2026-10-27T04:06:21Z,ocr-sdk-sandbox-17d2ad54,0.3.0,,Apache-2.0,210992,Temporary OCR SDK package for validating the PyPI release workflow
+2026-10-27T04:15:53Z,baldrapp-simulator-native,0.1.9,,MIT,138728,Precompiled Linux x86-64 helpers for the BaldrApp Paranal simulator
+2026-10-27T04:17:26Z,headroom-pc,0.1.0,Jasdish Singh,MIT,332752,"Always-on RAM and disk watcher for a Windows laptop, with history, file review, and allowlisted cleanup."
