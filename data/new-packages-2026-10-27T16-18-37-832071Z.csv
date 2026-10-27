@@ -1,0 +1,66 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T15:07:28Z,kube-noob,0.1.1,kube-noob maintainers,Apache-2.0,829078,"Offline-first learning, manifest-audit and debugging agent for Kubernetes, Helm, OpenShift, ROSA HCP and StackRox (RHACS). Runs as an MCP server, a CLI, or an OpenShift sidecar."
+2026-10-27T15:19:25Z,checkscanner,0.1.3,DiscipleMakers,MIT,11058978,Check scanner API server and admin console
+2026-10-27T15:19:57Z,streamlit-file-explorer,0.1.0,Streamlit File Explorer contributors,Apache-2.0,460085,A Finder-style filesystem explorer for local and cluster Streamlit applications
+2026-10-27T15:20:40Z,a2a-agent-checker,0.4.0,Viktor Lyaskov,Apache-2.0,49999,Check a domain's A2A Agent Card against the v1.0 specification.
+2026-10-27T15:25:34Z,torchvsw,0.2.1,"""Peter R. Wiecha"" <pwiecha@laas.fr>",GPL-3.0-or-later,141466,T-matrix extraction workflows for TorchGDM and sampled fields
+2026-10-27T15:25:48Z,pyguibud-runtime,0.1.0,Luciano Arrezze,MIT,1057926,"Load PyGUIbud .ui files at run time and build them with ttkbootstrap, tkinter or PySide6."
+2026-10-27T15:28:04Z,easylidar,3.0.0b1,JuanRa Angulo,LicenseRef-Proprietary,28345,"Control EasyLidar with AI (LiDAR GIS for macOS) from Python: every tool of the app, Batches and scripts."
+2026-10-27T15:29:34Z,satnogs-obs-deleter,0.1.0,Martin Hübner,AGPL-3.0-only,32677,Script for maintaining a fair distribution of observation time on your station
+2026-10-27T15:31:51Z,siga,0.4.0,Maksim Muravev,MIT,152581,"Progress bars that keep filling after they are printed: live bars inside terminal text, for Claude Code and any CLI (Ghostty, Kitty)."
+2026-10-27T15:31:59Z,youtube-transcript-unblocked,0.1.0,Wulfcare Data,MIT,15195,"Drop-in for youtube-transcript-api that doesn't get IpBlocked / RequestBlocked on AWS, GCP, Azure or in bulk: same API, change one import."
+2026-10-27T15:32:47Z,fasthtml-tailwindcss-cli,4.3.3,SpaceShaman <spaceshaman@tuta.io>,MIT,271327877,Platform-specific Tailwind CSS standalone CLI binary for fasthtml-tailwindcss.
+2026-10-27T15:33:34Z,pi-workspace-kit,0.2.0,xiong,MIT,134988,Pi coding agent 通用技能包：16 个方法论技能，一条命令安装到项目的 .pi/skills/
+2026-10-27T15:33:36Z,nexus-kernel,0.2.0,Wilson Pham <TheWilsonGlobal@users.noreply.github.com>,Apache-2.0,313243,"Enterprise agentic platform kernel: ReAct agent, dual-process guardrail, hybrid graph-vector retrieval, tiered memory, and sandbox."
+2026-10-27T15:35:26Z,numpydl,0.1.1,Mohit Reddy,MIT,20535,"Deep learning models and experiments (ResNet50, CNN-LSTM, cGAN)"
+2026-10-27T15:35:44Z,fastapi-redline,0.2.0a1,Mahmoud Ahmed <pythondeveloper6@gmail.com>,MIT,62011,"A modern request profiler for FastAPI and SQLAlchemy: span timelines, N+1 detection with fix diffs, one-click EXPLAIN, flamegraphs and a fast web UI."
+2026-10-27T15:35:51Z,django-redline,0.2.0a1,Mahmoud Ahmed <pythondeveloper6@gmail.com>,MIT,128890,"A modern request profiler for Django: SQL timelines, N+1 detection with fix diffs, one-click EXPLAIN, flamegraphs and a fast web UI. Async-correct."
+2026-10-27T15:37:46Z,fips204,0.5.0,Daniel Kahn Gillmor <dkg@fifthhorseman.net>,MIT OR Apache-2.0,15477,"ML-DSA (FIPS204) -- asymmetric, quantum-secure digital signatures"
+2026-10-27T15:39:11Z,ezpptx,0.0.4,EAD Suite,LicenseRef-Proprietary,6261210,演示文稿生成工具：主题或大纲经多智能体策划、撰稿与审校，输出可编辑的 PPTX
+2026-10-27T15:39:23Z,easycat,0.0.4,Joe <joe@example.com>,LicenseRef-Proprietary,4223207,知识库系统：文档解析、全文与向量检索、多智能体问答，支持多工作空间隔离
+2026-10-27T15:39:23Z,kyora,0.1.1,,Apache-2.0,196423,Python SDK for kyora cloud sandboxes
+2026-10-27T15:42:34Z,radicle-py,0.1.1,,MIT OR Apache-2.0,6725673,Python bindings for the radicle crate
+2026-10-27T15:42:45Z,pathfence,0.1.0,,Apache-2.0,3854026,"Verified lexical path confinement for AI-agent file tools, built with Lean 4"
+2026-10-27T15:43:25Z,keyfit,0.1.0,Flamur Maliqi <contact@flamur-maliqi.de>,MIT,571620,"Per-project accounts for Claude Code, Codex, AWS, gh and other CLIs, checked before they start, for multiple clients on one Mac"
+2026-10-27T15:44:50Z,litestar-redline,0.2.0a1,Mahmoud Ahmed <pythondeveloper6@gmail.com>,MIT,55821,"A modern request profiler for Litestar and SQLAlchemy: span timelines, N+1 detection with fix diffs, one-click EXPLAIN, flamegraphs and a fast web UI."
+2026-10-27T15:44:51Z,flask-redline,0.2.0a1,Mahmoud Ahmed <pythondeveloper6@gmail.com>,MIT,70731,"A modern request profiler for Flask and SQLAlchemy: span timelines, N+1 detection with fix diffs, one-click EXPLAIN, flamegraphs and a fast web UI."
+2026-10-27T15:44:53Z,redline-core,0.2.0a1,Mahmoud Ahmed <pythondeveloper6@gmail.com>,MIT,862530,"Framework-agnostic request profiler engine: span tracing, SQL fingerprinting, N+1 detection, EXPLAIN analysis, storage and the Redline web UI."
+2026-10-27T15:45:02Z,morphir,0.0.1,FINOS <morphir@finos.org>,Apache-2.0,258864,Python port of Morphir - functional domain modeling for the enterprise
+2026-10-27T15:47:09Z,leichtfacile-model-de,3.8.0,Explosion,MIT,44399147,"spaCy's de_core_news_md 3.8.0, unchanged, as a dependency of leichtfacile"
+2026-10-27T15:47:11Z,leichtfacile-model-fr,3.8.0,Explosion,LicenseRef-LGPL-LR,45836936,"spaCy's fr_core_news_md 3.8.0, unchanged, as a dependency of leichtfacile"
+2026-10-27T15:47:28Z,dsbf,1.0.0a1,Will Thurston,MIT,668865,Data Scientist's Best Friend — a statistically grounded EDA and data quality engine
+2026-10-27T15:48:20Z,anumat-py,0.1.1,,Apache-2.0,97678,Python client for the Anumat API
+2026-10-27T15:49:54Z,pe-nbeats,0.2.0,Daniel Byrne <realdanielbyrne@icloud.com>,MIT,1046542,"Right-sized N-BEATS and N-HiTS for PyTorch Lightning: narrow-trunk presets, a pre-flight configuration tool, and composable trend, DCT, wavelet and autoencoder basis blocks."
+2026-10-27T15:51:22Z,hisstrace,2026.10.27,Aivars Kalvans <aivars.kalvans@gmail.com>,MIT,28193,"Programmable syscall interception and fault injection in Python. strace, with fangs."
+2026-10-27T15:51:25Z,doppia,0.1.0,Dave Vandenbout,MIT,87888,"Personal accounting for bank and credit card accounts, stored in CountAbout CSV format"
+2026-10-27T15:51:43Z,supernova-teraitts,0.1.0,,,6583,Nepali text-to-speech with voice cloning
+2026-10-27T15:51:48Z,harbor-runner,999.9.9,,,1513,
+2026-10-27T15:53:47Z,ag-ui-dspy,0.1.0,Will Abbott,MIT,18903,AG-UI protocol integration for DSPy: expose any dspy.Module as an AG-UI agent.
+2026-10-27T15:56:16Z,sentinel-authz,0.2.0,Aashish Ravindran,Elastic-2.0,363657,"Authorization for AI agents and the tools they call: verified identity, live permissions, enforcement pushed into the query, fail closed."
+2026-10-27T15:56:25Z,jsonprofile,0.1.1,,,119265,Dynamic profile management for json files share same schema
+2026-10-27T15:57:39Z,sieve-crowd,0.2.0,Kai IWASAKI,MIT,72111,"Make every record one of a crowd, and measure it: deterministic, offline k-anonymity for CSV, JSON and XML tables."
+2026-10-27T15:57:58Z,ghostrules,0.1.0,Pablo Seoane Temprano,"MIT License Copyright (c) 2026 Pablo Seoane Temprano Permission is hereby granted, free of charge,…",221395,Find the instructions your AI agent sees but you don't.
+2026-10-27T15:57:59Z,dt360-py-jwt-manager,1.1.3,,,33876,A Python package for managing JWT tokens in the DT360 platform.
+2026-10-27T15:58:09Z,fastbamqc,1.0.1,"Loic Vuillermet <loic.vuillermet@univ-rouen.fr>, Anna Cosson <anna.cosson@u-paris.fr>, Romain Coppe…",MIT,113488,"Fast mapping and depth QC metrics for sorted, indexed BAM files (whole genome or amplicon/panel)"
+2026-10-27T15:58:44Z,openping-whatsapp,0.1.0,OpenPing,Apache-2.0,45136,Async Python client for the WhatsApp Business Platform (Meta Cloud API)
+2026-10-27T15:59:03Z,blockstate,0.0.1a1,,Apache-2.0,975456,"Deterministic statecharts, compile-time dominator proofs, and zero-trust tool gating for enterprise LLMs."
+2026-10-27T15:59:40Z,tolokaforge-langfuse,0.2.0,Tolokaforge Contributors,Apache-2.0,376785,"Langfuse live tracing for tolokaforge: the OTLP trial observer, the trial-end projection of a trial bundle and the deployment profile."
+2026-10-27T16:02:11Z,quora-api-mcp,1.0.1,Cotlet <contact@cotlet.dev>,PolyForm-Noncommercial-1.0.0,186701,Self-hosted Quora API and MCP server on your own Chrome session. Noncommercial use (PolyForm Noncommercial 1.0.0).
+2026-10-27T16:03:05Z,congestgym,0.5.0,"Yeshwanth Goparaju, Aryan Karamtoth, Sai Akshay Katakam, Varshitha Teegala, Karthik Kumar Dande",BSD-2-Clause,134271,Gymnasium environment for reinforcement learning on congested network traffic: bandwidth allocation and routing with QoS-aware reward
+2026-10-27T16:04:36Z,openqml,0.3.0a8,OpenQML contributors,Apache-2.0,440034,Differentiable quantum layers and diagnostic-driven quantum circuit interoperability
+2026-10-27T16:04:52Z,SmartCer,1.0.1,Leonardo Guiducci <leonardo.guiducci@unisi.it>,MIT,166094,Gymnasium environment for Renewable Energy Community (CER)
+2026-10-27T16:05:15Z,axiomatics-ai-sdk,0.1.0,Axiomatics,Apache-2.0,359456,"Externalized ABAC for AI applications: enforce PDP policies (XACML 3.0 JSON or OpenID AuthZEN) across agents, tools, MCP servers, A2A agents, and RAG"
+2026-10-27T16:06:18Z,notifyvia-email,0.1.0,,,9894,The frontend Python library for notifyvia.email
+2026-10-27T16:07:52Z,chatomon,0.1.0,Andrea Zanini <andrea.zanini@andromedalabs.io>,Apache-2.0,1949872,"Declare a chat agent once (instructions, knowledge and guardrail orbitals) and build it into native agent frameworks."
+2026-10-27T16:07:57Z,service-host-profiling,0.5.0,Host Service Profiler contributors,木兰宽松许可证， 第2版 2020年1月 http://license.coscl.org.cn/MulanPSL2 您对“软件”的复制、使用、修改及分发受木兰宽松许可证，第2版（“本许可证”）的如…,116857,Opt-in Python Host spans with JSONL storage and offline Chrome Trace export
+2026-10-27T16:08:31Z,inxhrobotics-bob,1.0.1,INXH Robotics,,11962,Python AI & Computer Vision Library for INXH Robotics Bob Biped Robot Kit
+2026-10-27T16:10:18Z,byteplussdk-vedbm,0.0.1,byteplus-sdk,Apache License 2.0,976,Name reservation for the Byteplus Python SDK split package byteplussdk-vedbm
+2026-10-27T16:10:23Z,openline,2026.10.27,Luke Lowery <lukel@tamu.edu>,MIT,340588,Electrical and mechanical modeling of overhead transmission lines
+2026-10-27T16:10:24Z,byteplussdk-vefaas,0.0.1,byteplus-sdk,Apache License 2.0,984,Name reservation for the Byteplus Python SDK split package byteplussdk-vefaas
+2026-10-27T16:10:30Z,byteplussdk-vepfs,0.0.1,byteplus-sdk,Apache License 2.0,974,Name reservation for the Byteplus Python SDK split package byteplussdk-vepfs
+2026-10-27T16:10:36Z,byteplussdk-vke,0.0.1,byteplus-sdk,Apache License 2.0,960,Name reservation for the Byteplus Python SDK split package byteplussdk-vke
+2026-10-27T16:11:39Z,medxpert-reg-hub,2.0.2,,MIT,9877,"Medical-device regulatory MCP server: NMPA UDI, FDA 510(k)/PMA/classification, 20-hub knowledge-base lookups (read-only)."
+2026-10-27T16:12:01Z,pusk,0.1.0,Pusk Maintainers,MIT,301491,"Python SDK and CLI for Pusk, a Python-first function/task cloud."
+2026-10-27T16:14:48Z,nietzschian-debugger,0.2.0,Dilawar Shafiq <dilawar.gopang@gmail.com>,MIT,60491,It won't fix your bug. It'll fix you. What doesn't kill your code makes it stronger. Confrontational questioning for developers.
+2026-10-27T16:15:18Z,numprint,1.2.0,Platform Team,MIT,15709,Tiny dependency-free helpers for multiplication tables and parity checks.
+2026-10-27T16:16:50Z,napari-apply-transforms,0.1.0,Caporal Clément,BSD-3-Clause,327132,"Apply affine, rotate, scale, shear, translate and units to layers"
