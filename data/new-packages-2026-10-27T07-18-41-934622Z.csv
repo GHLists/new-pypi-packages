@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T06:22:51Z,drf-diag-utils-wip,0.1.0,Zahari Petkov,MIT,19245,Work in progress: read-only startup diagnostics for Django and Django REST framework services.
+2026-10-27T06:25:48Z,mcp-server-cxzja-qqmusic,0.1.0,Ocean Li,MIT,8924,MCP server for the 残像API QQ音乐 (QQ Music) search & playback API.
+2026-10-27T06:25:51Z,mcp-server-cxzja-qmkg,0.1.0,Ocean Li,MIT,8780,MCP server for the 残像API 全民K歌 (QuanMin KGe) search & playback API.
+2026-10-27T06:25:59Z,nubwen-rust-shell,0.1.1,,LicenseRef-Proprietary,8850953,Verified Windows x64 Rust Shell protection CLI for source-integrated CI builds
+2026-10-27T06:27:34Z,hybrid-recursive-ladder,0.0.6,MagicSquarekey,"MIT License Copyright (c) 2026 MagicSquarekey Permission is hereby granted, free of charge, to any…",2318486,Query planning for bucket-limited time-series APIs — aggregate long ranges with a handful of source requests instead of thousands of per-bucket queries.
+2026-10-27T06:31:55Z,my-eda-tools,0.1.0,,,3233,Өгөгдөл шинжлэх туслах сан
+2026-10-27T06:33:13Z,cosmim,1.0.0,"Bairui Du, Hisanori Kiryu",BSD-3-Clause,33185,Multi-scale niche covariance for training-free spatial domain identification
+2026-10-27T06:37:10Z,tollgate-gateway,0.1.0,Tollgate contributors,Apache-2.0,248875,Tollgate — the governance gate for AI agents that move money (确定性治理网关:策略裁决/人工审批/预算预留/审计哈希链)
+2026-10-27T06:41:10Z,pyprig,1.2.1,"Samuel Colvin <s@muelcolvin.com>, Eric Jolibois <em.jolibois@gmail.com>, Hasan Ramezani <hasan.r67@…",MIT,883233,Data validation using Python type hints
+2026-10-27T06:46:21Z,quanty-py,0.2.0,Keith Ingram,MIT,1936019,"Self-hosted framework for recording, backtesting, paper and live trading of repeated prediction markets"
+2026-10-27T06:47:58Z,paper-to-live,0.1.0,Daniyal,MIT,74651,"A backtested strategy walked from paper Sharpe to a funded book: selection bias, execution cost, tail risk and financing."
+2026-10-27T06:48:04Z,abacus-mcp,0.1.0,Daniyal,MIT,460316,An MCP server exposing option and portfolio analytics over a validated numerical core.
+2026-10-27T06:48:41Z,veyraeval-sdk,0.1.0,VeyraEval Platform maintainers,Apache-2.0,52097,VeyraEval worker and trace instrumentation
+2026-10-27T06:48:57Z,serial-junction,0.2.0,Matthew Davidson <matthew@davidson.engineering>,MIT,40487,"One serial port shared safely between threads, with buffered reads and automatic reconnection"
+2026-10-27T06:52:20Z,bondi,0.1.1,Relaxed Constraints,MIT,201165,A Python toolkit for document database research
+2026-10-27T06:54:00Z,stepps-author-display-test-srstm-20261027,0.5.0.post3,"Trinay Mitra, Reddy Sai",Apache-2.0,13037,Useful algorithms in Python - package metadata display test
+2026-10-27T06:56:39Z,hongkong-company-mcp,1.2.2,"""HC Business (恒诚商务)"" <support@86hc.com>",MIT,16074,"Hong Kong Company MCP Server (com.86hc/hongkong-company) - Search 3.9M+ HK companies (CR No, BRN, UBO, status) & order official ICRIS filings (NAR1, NNC1, CI) via Stripe. Zero-config free trial by 86…"
+2026-10-27T06:59:59Z,hybrid-recursive-ladder-mcp,0.0.6,MagicSquarekey,MIT,7340,MCP server for the Hybrid Recursive Ladder query planner: aggregate long time-series ranges with a handful of source requests.
+2026-10-27T07:01:42Z,kickmix,0.1.dev0,Qualtran Developers,Apache-2.0,16812308,"Fast construction and simulation of quantum circuits with classical operations, phasing, and X basis demolition measurement."
+2026-10-27T07:04:43Z,aegisframe,0.6.0,Jaideep Chandrasekharuni,Apache-2.0,33330540,Guardrail for AI image editing: a good story should not unlock a forgery.
+2026-10-27T07:08:16Z,xpedioo-svc-auth,1.0.0,,,17799021,Python bindings for platform service-account Guard / token client
+2026-10-27T07:08:28Z,bibhakti,0.0.1,Sapan,MIT,7310,Odia case-marker (bibhakti) utilities. Early release.
+2026-10-27T07:11:42Z,eurola-openarm-teleop,0.1.1,Chuizheng Kong,MIT; robot assets retain their upstream license,28312918,OpenArm v1 bimanual teleoperation with licensed Rust retargeting and shared XRT input
+2026-10-27T07:13:01Z,moray-aio,3.0.0,Mo Guangliang (莫光良),Apache-2.0 with Commons Clause,282354,"Read-only AIOps agent: log watching, local-LLM analysis, system probes, process-isolated AST sandbox and an MCP server for Claude Desktop / Cursor"
+2026-10-27T07:18:21Z,cholops,0.1.0,,MIT,163860,Fast and differentiable Cholesky factor modifications in JAX.
+2026-10-27T07:18:22Z,vsusp,0.1.0,Nilson Chapagain,GPL-3.0-or-later,1737733,Variable selection from shrinkage-prior posterior draws
