@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T11:18:48Z,netthouse,0.1.0,Netthouse,"MIT License Copyright (c) 2026 Netthouse Permission is hereby granted, free of charge, to any perso…",13013,Netthouse x402 client SDK - pay for HTTP resources with USDC
+2026-10-27T11:21:51Z,bytevcs,0.1.0,,,19315,A Git-inspired version control system built in Python
+2026-10-27T11:23:02Z,kyuubi-dlc-client,0.1.0,DLC Kyuubi Team,Apache-2.0,46795,Python client for Apache Kyuubi (DLC fork): DB-API 2.0 over Thrift + REST API
+2026-10-27T11:30:00Z,laboard,1.0.0,,,414269,Laboard — PyQt6 desktop tracker for ML experiments and their git history
+2026-10-27T11:31:00Z,unshackle,0.1.0,,Apache-2.0,2753763,"Move your metrics, dashboards and permissions out of a BI tool and into files in a Git repository you own."
+2026-10-27T11:32:04Z,run-tickets,0.5.0,,MIT,163315,"Run a feature's tickets overnight with a coding agent (Claude Code, Codex, omp, pi): one ticket at a time, a fresh agent per step, every step checked by the runner, resumes after a crash."
+2026-10-27T11:32:43Z,specmend,0.1.0,,MIT,341708,"A self-healing scraper engine: detect layout breakage, propose spec repairs, verify against known-good anchors."
+2026-10-27T11:33:27Z,ai-enegennr,0.2.0,KhwarizmiAnalytix,,48215,Package-owned engineering rules and skills with user-level Claude Code and Cursor integrations.
+2026-10-27T11:37:17Z,docugraph-pdf2html,1.0.3,Husin Dieh <husin@handisplay.com.my>,MIT,19470,Package that provides methods to access DocuGraph PDF-TO-HTML APIs
+2026-10-27T11:40:32Z,sober-cli,0.2.1,,MIT,63396,"Audit how often your coding agent claims work it never verified. Reads Claude Code and Codex session logs. Deterministic rules, no LLM."
+2026-10-27T11:43:18Z,governance-gateway,0.1.0,Tanishq S Prabhu,MIT AND CC-BY-NC-4.0,2141150,"Deadline-aware governance checks for AI agents, as an MCP server: a personal-data scan that always runs and a safety classifier that runs only when it can finish in time."
+2026-10-27T11:44:50Z,rozum,0.0.1,Aleksandr Rozum,Apache-2.0,2484,"The Python SDK for rozum, a memory layer for AI agents."
+2026-10-27T11:44:52Z,rozum-server,0.0.1,Aleksandr Rozum,Apache-2.0,2600,"The self-hostable rozum server, a memory layer for AI agents."
+2026-10-27T11:45:41Z,yidl-undoable,0.1.1,,,344632,YIDL generated transactional data classes with sparse undo history
+2026-10-27T11:45:44Z,wm-v-4-apis-sdk,0.0.1,Muhammad Rafay,MIT,966457,Sample SDKs for wm by APIMatic
+2026-10-27T11:48:17Z,python-bus,0.0.1,Aleksandr Rozum,Apache-2.0,2592,An event bus for Python services.
+2026-10-27T11:48:17Z,scpi-sim,0.3.1,Ralf Steinert,MIT,112668,"Simulated SCPI lab instruments (DMM, power supply, multiplexer) on a raw TCP socket"
+2026-10-27T11:48:34Z,bunq-cli,0.2.0,Koert van der Veer <koert@ondergetekende.nl>,MIT,70669,Command-line interface for the Bunq API
+2026-10-27T11:48:45Z,rytm-regulatory-monitor,0.2.1,,,527151,Evidence-backed Polish/EU regulatory monitor
+2026-10-27T11:50:31Z,keydex,0.0.1,Carlos Espinaco <spi101@gmail.com>,MIT OR Apache-2.0,12935,"Typed, explainable configuration access for Python, with the engine in Rust. Name reservation: implementation in progress."
+2026-10-27T11:53:49Z,heino-reader,0.2.0,,,124107,"A fast document viewer for markdown files, built with PySide6"
+2026-10-27T11:54:10Z,odoo-addon-delivery-fee-deposit,18.0.1.0.1,"Moduon, Odoo Community Association (OCA)",LGPL-3,27213,Integrate delivery fees with customer deposits
+2026-10-27T11:57:30Z,kbguard,0.1.0,Anoop Singh,Apache-2.0,309323,"Knowledge-base QA and evals for RAG systems, across any vector database."
+2026-10-27T12:08:55Z,parapick,0.1.0,"Oier Lauzirika Zarrabeitia, Federico P. de Isidro-Gómez",MIT,285294,Tomogram-free particle localization: recover 3D particle coordinates from 2D picks on cryo-ET tilt-series.
+2026-10-27T12:10:22Z,aqEthnicity,0.1.0,aequumAI LLC <terry@aequum.ai>,Apache-2.0,80135,Race/ethnicity probabilities from name and geography: a pyethnicity-compatible local API plus the hosted aqEthnicity STRATA model
+2026-10-27T12:11:37Z,lenscape,1.0,Michael Hippke,GPL-3.0-or-later,307687,"Fast, high-resolution Delta chi2 maps of binary-lens microlensing events (numba)"
+2026-10-27T12:12:07Z,procesio-cli,0.1.1,Ringhel TEAM SRL (PROCESIO),Apache-2.0,4617333,"Command-line tooling and an AI agent for the PROCESIO automation platform: drive processes, forms, documents and custom actions from a terminal or from an AI coding assistant."
+2026-10-27T12:12:41Z,gigabrain-faas,0.1.0,GigaBrain,Apache-2.0,34655,Python client and command line for the GigaBrain FaaS training API
+2026-10-27T12:13:38Z,ucloudone-cli,0.1.0,UCloud Services,LicenseRef-Proprietary,41263,"CLI humana UCloud One: catálogo OpenAPI, OIDC device flow e AuthZ remota."
+2026-10-27T12:17:58Z,ascreen,0.1.0,Nurasyl,MIT,7745,A lightweight Python ASCII screen and keyboard library
+2026-10-27T12:18:37Z,trajmetrics,0.5.3,TrajMetrics Contributors,MIT,211619,Lightweight metrics helpers for trajectory analysis pipelines.
