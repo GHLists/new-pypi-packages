@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T20:17:49Z,veg-core,0.2.0,,,18569,Experimental phase-driven text generation with prediction-error memory
+2026-10-27T20:22:07Z,asynctrino,0.1.0,Gledi Caushaj <201947707+gledi-ai@users.noreply.github.com>,Apache-2.0,194992,"Fully typed asyncio client for the Trino distributed SQL engine, built on httpx2"
+2026-10-27T20:24:04Z,hcp-protocol,0.1.1,Nitin Kushwaha,MIT,84680,"Harness Context Protocol — a standard interface for agent harness state, verification, scope, and session lifecycle."
+2026-10-27T20:26:15Z,worklife-agent,0.4.1,,,13798900,"Local-first job-search tools and a signed, replicated employer knowledge network for personal agents"
+2026-10-27T20:26:42Z,tunnelscope,0.2.1,,MIT,291134,Evidence-based MTU and packet-size diagnostics for Linux networks
+2026-10-27T20:28:09Z,own-computer-use-mcp,1.1.0,3mad101c <3mad101c@users.noreply.github.com>,"MIT License Copyright (c) 2026 MOra Permission is hereby granted, free of charge, to any person obt…",20421,"Self-hosted Computer Use MCP server for Windows: 21 tools, Arabic+English OCR, hard consent gate on every mutating action."
+2026-10-27T20:28:21Z,glosl,0.1.0,,MIT,77280,"Sign language translation corpora in one pose format: build, check, publish and score GloSL datasets"
+2026-10-27T20:29:22Z,serp-jwt,0.1.0,Serpentine contributors,MIT,8949,Serpentine JSON Web Tokens: PyJWT-compatible HS256 encode/decode with exp/nbf/iat/aud/iss checks (pure Serpentine)
+2026-10-27T20:30:31Z,serp-redis,0.1.0,Serpentine contributors,MIT,10135,"Serpentine Redis client: redis-py-style API over RESP2 (strings, counters, hashes, lists, sets, expiry, AUTH/SELECT)"
+2026-10-27T20:30:51Z,calabrio-one-wrapper,0.1.0a2,,MIT,100797,"Calabrio ONE Python Client: unofficial API client for recordings, transcripts, evaluation summaries/forms, and WFM"
+2026-10-27T20:30:53Z,macos-photos-cleanup,0.2.0,khivi,MIT,196588,Review and clear unwanted photos in your macOS Photos library from a local browser UI. Never deletes: flagged photos go to a Delete Me album.
+2026-10-27T20:31:45Z,serp-tracing,0.1.0,Serpentine contributors,MIT,10488,"Serpentine distributed tracing: OpenTelemetry-style spans, W3C traceparent propagation, memory/stderr/file JSON exporters"
+2026-10-27T20:32:35Z,obdeect,0.6.0,obdeect contributors,"BSD 3-Clause License Copyright (c) 2026, obdeect contributors, Gernot Maier (DESY) All rights reser…",6515500,Ray tracing for imaging atmospheric Cherenkov telescopes
+2026-10-27T20:39:50Z,dbt-atlatl,0.1.0rc1,Cameron Conn <cam@camconn.cc>,AGPL-3.0-or-later,223092415,dbt-duckdb plugin that runs atlatl before dbt opens its database; bundles the atlatl binary and its DuckDB extensions
+2026-10-27T20:41:24Z,staal,0.23.0,,Apache-2.0 WITH LLVM-exception,82175442,"The staalc compiler and runtime, and a Python interface to it"
+2026-10-27T20:44:53Z,mpifield,0.1.0,Max,"MIT License Copyright (c) 2026 Max Lindqvist Permission is hereby granted, free of charge, to any p…",214595,"Fields on uniform grids split over MPI ranks, with compiled linear gather and scatter for particle codes."
+2026-10-27T20:45:18Z,meertex,0.1.0.1,,AGPL-3.0-or-later,182935,"The meertex CLI: papers, deadlines, versions, reviews and the live sync of a local LaTeX folder."
+2026-10-27T20:50:13Z,speechready,0.0.1,Berker Batur,MIT,3942,"Prepare text for text-to-speech: clean LLM output, verbalize ambiguous tokens, compile pauses to each provider's syntax, chunk under model limits."
+2026-10-27T20:53:27Z,long-thanh-sdk,0.1.0,SWL Services,LicenseRef-Proprietary,70567,Long Thanh Imbiss Public Information API
+2026-10-27T20:53:55Z,qorescan,0.1.0,QoreChain Association,Apache-2.0,19805,QoreScan Community: cryptographic inventory (CycloneDX 1.6 CBOM) of a QoreChain deployment. Downloads the matching qorescan release binary and verifies its SHA-256 before running it.
+2026-10-27T20:54:20Z,cwapi2d,0.0.1,Cadwork <it@cadwork.ca>,,5216,Python bindings for CwAPI2D
+2026-10-27T20:54:47Z,megaharness,0.24.2,Dmitry Rakov,Apache-2.0,2125727,Личный пульт для вайбкодинга: секретарь-агент и исполнители claude/codex
+2026-10-27T20:55:18Z,scalio-connect,0.2.0,,Proprietary,19563,Signed calls between the Scalio apps and Compass (format v2)
+2026-10-27T20:56:59Z,firstagi-arena,0.1.0,realbtr,See repository,15246,MCP server for the FirstAGI Arena: scored research challenges for AI agent fleets
+2026-10-27T20:57:54Z,zensical-tarn,1.0.0,Axel Voitier,Apache-2.0 AND MIT,20035319,"Tarn: a quiet, Diátaxis-aware documentation theme for Zensical"
+2026-10-27T20:58:08Z,qrpen,1.0.0,Joao Lopes,MIT,59748,"Dependency-free QR generation for Python, prompts, terminals, and custom URIs."
+2026-10-27T21:00:29Z,arach,0.1.0,,MIT,34710,Concurrent ETA-optimized HTTP downloader.
+2026-10-27T21:01:07Z,spangloss,0.0.1,Phil DiCorpo,Apache-2.0,13165,"Security labels for AI agent telemetry: typed, probabilistic annotations on OpenTelemetry spans."
+2026-10-27T21:01:08Z,sigreview,1.0.0,Subhabrat Biswal,MIT,334573,"Deterministic code review for data science, ML and GenAI projects"
+2026-10-27T21:01:47Z,qorechain-qoresign,0.1.1,QoreChain Association,Apache-2.0,2437308,"Hybrid secp256k1 + ML-DSA-87 (FIPS 204) signing, verification and Sign In With QoreChain."
+2026-10-27T21:02:57Z,veg-train,0.2.0,,,2810,Training CLI for the Veyrian Execution Generator
+2026-10-27T21:05:55Z,tgbp-kit,0.1.0,,MIT,47809,"tGBP, the tokenised British pound, for Python: typed clients for the tGBP mint, redeem and swap API."
+2026-10-27T21:06:23Z,differential-equations-ai999x,1.0.1,Ibnul Jaif Farabi,Apache-2.0,18814196,"Offline differential equations solver: first- and second-order ODEs, linear systems, Laplace transforms, stability and phase portraits, numerical methods, classic PDEs (heat, wave, Laplace) and dynam…"
+2026-10-27T21:08:52Z,whattoplay,1.0.0,Jukka Nousiainen,MIT,153323,"Pick what to play from the games you already own: pluggable store backends (Steam, Epic, plugins), play status tracking, deal lookup, JSON output for agents."
+2026-10-27T21:09:38Z,skyra-data-wrapper,0.1.0,,,7182,This is a wrapper for Skyra APIs. You can use it to download survey responses and metadata for each survey.
+2026-10-27T21:10:09Z,whattoplay-psn,1.0.0,Jukka Nousiainen,MIT,11953,PlayStation Network store plugin for whattoplay: owned PS4/PS5 games with playtime.
+2026-10-27T21:10:38Z,coroom,0.0.1,InfoTech AI,Proprietary,4108,"Coroom: one link, one room, for people and their agents. Placeholder; the Python client is on its way."
+2026-10-27T21:11:10Z,fwm,0.1.1,Jiayang Li,LicenseRef-NCSU,209414,"RISC-V FESVR Workload Manager: traces, checkpoints and SimPoint runs for a record/replay spike."
+2026-10-27T21:11:38Z,mvpure-py,2.3.2,Julia Jurkowska,BSD-3-Clause,287017,EEG/MEG multi-source spatial filters and source localization tools
+2026-10-27T21:13:32Z,veg-infer,0.2.0,,,2833,Inference CLI for the Veyrian Execution Generator
+2026-10-27T21:14:33Z,vektra-erp,1.0.0,,MIT,37596,"SDK de Python de la API v1 de Vektra ERP (facturación electrónica con ARCA), generado desde el OpenAPI."
+2026-10-27T21:14:34Z,redblack-python-sdk,0.2.0,,,818178,Typed Python SDK for the RedBlack trading and portfolio rebalancing API
+2026-10-27T21:15:32Z,soma-shades,1.0.0,Riemer van der Kley,MIT,59422,"Control Soma Smart Shades over Bluetooth LE, and bridge them to Home Assistant through MQTT"
+2026-10-27T21:16:43Z,geometry-ai999x,1.0.1,Ibnul Jaif Farabi,Apache-2.0,18543528,"Offline geometry solver: plane and solid geometry, coordinate geometry, conic sections, polygons and polyhedra, computational geometry (convex hulls, Voronoi, triangulation) and curves and surfaces,…"
+2026-10-27T21:17:12Z,run-harness,0.1.0,,,37960,One CLI for launching coding-agent harnesses non-interactively.
