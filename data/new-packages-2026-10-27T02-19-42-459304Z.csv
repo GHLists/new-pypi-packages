@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T01:19:13Z,captainslog-ngs,0.1.1,Clint Valentine <valentine.clint@gmail.com>,MIT,278613,Typed dataclasses for the metrics files that Riker and Picard write.
+2026-10-27T01:20:35Z,pyrula-agents,0.0.0,Mike Reiss,,1486,Name reservation for pyrula-agents. Public release in progress.
+2026-10-27T01:20:36Z,pyrula-cloud-client,0.0.0,Mike Reiss,,1540,Name reservation for pyrula-cloud-client. Public release in progress.
+2026-10-27T01:20:37Z,pyrula-kafka,0.0.0,Mike Reiss,,1480,Name reservation for pyrula-kafka. Public release in progress.
+2026-10-27T01:20:38Z,pyrula-workflows,0.0.0,Mike Reiss,,1514,Name reservation for pyrula-workflows. Public release in progress.
+2026-10-27T01:21:25Z,lsquare,0.0.1,The Agent Experience Company,MIT,3755,LSquare's Python SDK for MCP servers. Name reserved: the SDK is not released yet.
+2026-10-27T01:22:37Z,ollama-lc-agent-tayra,0.0.1,Tayra Sakurai <b4151069@edu.kit.ac.jp>,AGPL-3.0-or-later,280174,An AI agent CLI package with Web UI and the RAG.
+2026-10-27T01:23:35Z,terraproof,0.8.0,Terraproof Contributors,MIT,1124720,"Evidence-graded skills, tools, and checks for mapping and remote-sensing AI agents. By Geova."
+2026-10-27T01:26:39Z,spendctl-sdk,0.1.0,"""Mirai Studio, Inc."" <security@spendctl.dev>",Apache-2.0,34846,"Zero-dependency Python client for the spendctl sidecar: route paid HTTP calls through your spend policy, read budgets and receipts, approve from tooling."
+2026-10-27T01:26:45Z,connectorgen,0.9.0,Ahmad Karawash,Apache-2.0,354547,"Generate connectors for HTTP APIs (OpenAPI, Swagger, docs) and MCP servers, run them with one runtime, and keep them working as APIs change."
+2026-10-27T01:26:55Z,agents-zyc,0.1.0,zouyccc,,2533,Add your description here
+2026-10-27T01:26:56Z,shared-zyc,0.1.0,zouyccc,,2437,Add your description here
+2026-10-27T01:29:30Z,safer-agent-memory,0.1.0,Final Frontier Ventures <lesith@ffvlk.com>,Apache-2.0,66878,"Security-first memory for AI agents: scoped tiers, taint tracking, tenant isolation and reviewed consolidation."
+2026-10-27T01:29:45Z,dubois-charts,0.2.0,shalinialisha,MIT AND ISC,1613793,"Charts in the style of W.E.B. Du Bois's 1900 data portraits, for your own data: bar, area, butterfly, spiral, snake and pie charts, and county and state maps"
+2026-10-27T01:31:18Z,omnipython-desktop,0.0.1,,,2667,"Placeholder: OmniPython's desktop backends (SDL, PyGame, PySDL2). The real package arrives with OmniPython 1.0."
+2026-10-27T01:31:20Z,omnipython-pygraphics,0.0.1,,,2695,Placeholder: OmniPython's framebuffer graphics library. The real package arrives with OmniPython 1.0.
+2026-10-27T01:31:22Z,omnipython-lvgl,0.0.1,,,2607,Placeholder: OmniPython's LVGL bindings. The real package arrives with OmniPython 1.0.
+2026-10-27T01:31:24Z,omnipython-palettes,0.0.1,,,2652,Placeholder: OmniPython's color palettes. The real package arrives with OmniPython 1.0.
+2026-10-27T01:31:27Z,bdmjtest,1.0.1,Santiago Guerrero-Higareda <s.g.higareda@proton.me>,MIT,21230,Bootstrapped Davidson-MacKinnon J-test for linear and non-linear regression models
+2026-10-27T01:32:13Z,tuibrowser,0.1.0,LowPolyPhosphorus,MIT,33728,"A terminal web browser with tabs, reader mode, form filling, and an option Playwright layout mode"
+2026-10-27T01:33:28Z,lfx-github,0.1.0,,MIT,19769,GitHub App installation actions and signed repository triggers.
+2026-10-27T01:36:06Z,lantern-works-deals-mcp,0.1.0,Lantern Works,MIT,26955,"Read-only MCP server (stdio) for the Lantern Works agent work-stack deals feed: search, compare and look up deals ranked by customer value."
+2026-10-27T01:37:13Z,mousike,0.1.4,Neel Smith,GPL-3.0-or-later,73849,Read ancient Greek musical notation encoded in Zach Sowerby's URN scheme.
+2026-10-27T01:39:10Z,petropt-mcp,0.1.0,Groundwork Analytics LLC <info@petropt.com>,MIT,83786,MCP server for petroleum engineering calculations
+2026-10-27T01:40:29Z,magmacrunch-scandinavian-stud,0.1.0,magmacrunch media,PolyForm-Noncommercial-1.0.0,68819,"Sökö, Scandinavian stud poker, against three computers. Terminal version."
+2026-10-27T01:41:06Z,magmacrunch-solitaire,0.1.0,magmacrunch media,PolyForm-Noncommercial-1.0.0,46207,"Klondike solitaire, draw three, as the magmacrunch arcade plays it. Terminal version."
+2026-10-27T01:43:19Z,llama-index-vector-stores-houyidb,0.2.0b5,HouyiDB Contributors,Apache-2.0,14674,LlamaIndex VectorStore adapter for HouyiDB
+2026-10-27T01:43:23Z,houyidb,0.2.0b5,HouyiDB Contributors,Apache-2.0,15707,Python SDK for HouyiDB — single-node vector database (collections HTTP API)
+2026-10-27T01:43:41Z,langchain-houyidb,0.2.0b5,HouyiDB Contributors,Apache-2.0,11400,LangChain VectorStore adapter for HouyiDB
+2026-10-27T01:44:40Z,kelvtidy,0.1.0,,MIT,11544,"Quick, dependable cleaning for messy CSV/Excel data."
+2026-10-27T01:48:10Z,drkm,0.0.0.dev0,Darkmatter,LicenseRef-Proprietary,4002,The import name of Darkmatter's Python SDK. The SDK ships with a Darkmatter deployment; this release points there.
+2026-10-27T01:50:18Z,mru-cli,0.1.2,,,17916,Deploy pinned robot checkpoints and track MRU physical runs
+2026-10-27T01:50:43Z,osc8link,1.0.0,Javier Lianes <javier@lianes8studio.com>,MIT,86561,"Build, detect and strip OSC 8 terminal hyperlinks safely, with terminal support detection and plain-text fallback, zero dependencies, fully typed"
+2026-10-27T01:51:02Z,colorsupport,0.1.0,Javier Lianes <javier@lianes8studio.com>,MIT,49122,"Detect how much color a terminal stream can show (none, 16, 256, truecolor) and why, following NO_COLOR, FORCE_COLOR and CLICOLOR, with Windows console and terminfo support, zero dependencies, fully…"
+2026-10-27T01:51:19Z,shtemplate,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,83387,"POSIX shell parameter expansion ($VAR, ${VAR:-default}, ${VAR%pattern}, ...) over any mapping, with a CLI; typed, safe, zero-dependency"
+2026-10-27T01:51:39Z,logfmtkv,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,51718,"Typed, zero-dependency logfmt codec: parse and serialize key=value log lines in both directions."
+2026-10-27T01:54:51Z,langchain-agent37,0.1.0,Agent37,MIT,312319,Agent37 sandbox backend for LangChain Deep Agents
+2026-10-27T02:01:04Z,coordconvertergc,0.1.0,Gracious Chinguwo,MIT,8014,"A Python package for converting geographic coordinates between degrees, minutes, seconds and decimal degrees."
+2026-10-27T02:03:13Z,spark-rust-runtime-spark-rust-history-server,0.42.1a4,,Apache-2.0,2136556,Spark Rust multi-environment alpha distribution
+2026-10-27T02:03:27Z,transmute-cli,0.2.3a0,,GPL-3.0-or-later,187827,Convert YouTube or SoundCloud links into rich MP3s.
+2026-10-27T02:05:02Z,fontpkg-chivo,2.2,,OFL-1.1,176024,"Chivo font family, packaged for Python by fontpkg"
+2026-10-27T02:05:04Z,fontpkg-righteous,1.0,,OFL-1.1,30428,"Righteous font family, packaged for Python by fontpkg"
+2026-10-27T02:05:06Z,fontpkg-noto-sans-display,2.3,,OFL-1.1,1930959,"Noto Sans Display font family, packaged for Python by fontpkg"
+2026-10-27T02:05:09Z,fontpkg-noto-sans-tamil,2.4,,OFL-1.1,204243,"Noto Sans Tamil font family, packaged for Python by fontpkg"
+2026-10-27T02:11:05Z,lxephemeris,1.0.0,ProCoders <lxephemeris@procoders.tech>,PolyForm-Noncommercial-1.0.0 OR LicenseRef-Commercial,8114371,Clean-room high-precision astrological and astronomical ephemeris engine (DE440s + IAU 2006/2000A)
