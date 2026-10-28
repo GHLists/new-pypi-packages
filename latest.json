@@ -1,41 +1,48 @@
 {
   "list": {
-    "count": 51,
-    "from": "2026-10-28T16:18:32.019469Z",
-    "path": "data/new-packages-2026-10-28T17-18-54-128621Z.csv",
-    "to": "2026-10-28T17:18:54.128621Z"
+    "count": 47,
+    "from": "2026-10-28T17:18:54.128621Z",
+    "path": "data/new-packages-2026-10-28T18-18-46-759057Z.csv",
+    "to": "2026-10-28T18:18:46.759057Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-28T14:55:20Z",
       "package": "amd-rack-scraper",
       "since": "2026-10-28T14:18:33.39715Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-28T17:20:07Z",
+      "package": "numlearn",
+      "since": "2026-10-28T17:18:54.128621Z",
+      "version": "1.0.0"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-28T15:45:23Z",
       "package": "qiskit-bosons",
       "since": "2026-10-28T15:19:17.376699Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-28T14:35:09Z",
       "package": "sisu-ufmg-notas-de-corte",
       "since": "2026-10-28T14:18:33.39715Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-28T16:47:36Z",
       "package": "swarmagentic",
       "since": "2026-10-28T16:18:32.019469Z",
       "version": null
     }
   ],
-  "serial": 42877138,
+  "serial": 42879578,
   "source_truncated": false,
-  "window": "2026-10-28T17:18:54.128621Z"
+  "window": "2026-10-28T18:18:46.759057Z"
 }

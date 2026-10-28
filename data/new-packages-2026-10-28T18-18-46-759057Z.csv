@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T17:19:03Z,ninjask,0.1.0,,MIT,13902498,Fast Pokémon VGC (Champions doubles) battle engine checked against Pokémon Showdown
+2026-10-28T17:19:18Z,deptho-pro,0.0.1,,LicenseRef-Proprietary,2531,"Name reservation for Deptho Pro. The real package is distributed from the Deptho package index, not PyPI."
+2026-10-28T17:19:20Z,deptho,0.0.1,,Apache-2.0,2402,Deptho: local-first analytics for systematic traders. Name reserved; first release coming soon.
+2026-10-28T17:21:47Z,ckanext-webpageviewplus,0.1.0,Joel Natividad <joel@dathere.com>,AGPL,204503,An enhanced web page resource view for CKAN
+2026-10-28T17:25:02Z,qubience,0.2.1,Qubience,MIT,21020,Python SDK for Qubience — quantum error mitigation API
+2026-10-28T17:25:54Z,mesa-memory,0.9.0,MESA Core Team,"MIT License Copyright (c) 2026 MESA Core Team Permission is hereby granted, free of charge, to any…",2800956,Enterprise AI agent memory engine
+2026-10-28T17:28:31Z,ipscope,1.0.0,IPScope Engineering,MIT,57205,"Official, type-safe Sync & Async Python Server-Side SDK for IPScope IP Intelligence lookups powered by httpx."
+2026-10-28T17:29:04Z,numlearnl9,1.0.0,Machine Learning Lab Student,MIT,110132,Educational Machine Learning lab practicals study companion (Experiments 2-9) with Matplotlib visualizations
+2026-10-28T17:30:00Z,glideshow,0.1.2,,AGPL-3.0-or-later,1271979,Slides you own: a Google Slides-style editor whose decks are plain HTML folders that AI agents can edit
+2026-10-28T17:31:30Z,vishwajeet-12,1.0.0,Vishwajeet More,"MIT License Copyright (c) 2026 Vishwajeet More Permission is hereby granted, free of charge, to any…",49119,"A lightweight, Python-friendly command-line toolkit for personal development."
+2026-10-28T17:31:43Z,alpha-progression-mcp,0.1.1,,MIT,225927,MCP server for Alpha Progression: let Claude analyse your gym training and adjust your plan
+2026-10-28T17:31:46Z,cpomdp-workshop,0.1.0,Inferogenesis,MIT,511669,Build a curious rocket — the AII 2026 symposium workshop for cpomdp.
+2026-10-28T17:32:45Z,tr-pii-guard,0.2.0,,MIT,18693,Turkish PII detection and redaction for LLM pipelines
+2026-10-28T17:35:09Z,flexablelib,2.0.3,Benjamin Ramirez,MIT,131564,Flexible console and HTML tables for Python
+2026-10-28T17:35:34Z,funnyhills-parameterization,0.1.0,,MIT,1153636,"Python bindings for the Brack et al. Funny-Hills {c, h, alpha} nuclear-shape parameterization library"
+2026-10-28T17:39:37Z,zipzi,0.1.0a2,,MIT,1168032,Typed Python client for the Zipzi authoring Runtime
+2026-10-28T17:40:06Z,zipzi-native,0.1.0a2,,MIT,19870052,Optional in-process Runtime backend for zipzi
+2026-10-28T17:41:02Z,docnevis,0.0.1,Kazem Bigdeli,Apache-2.0,10653,AI-maintained documentation that follows your code. Coming soon.
+2026-10-28T17:41:04Z,sqlmodel-async-factory,0.1.0,Alexandre BERREBI,MIT,11266,factory_boy factories that build and persist SQLModel objects through an async session
+2026-10-28T17:42:55Z,fastapi-object-pagination,0.1.1,Alexandre BERREBI,MIT,22138,"Typed async page objects for FastAPI, with one page shape for SQLModel and Neontology"
+2026-10-28T17:45:24Z,gen-blockie,0.1.0,,,32109,Generate blockie identicons from seed phrases or files
+2026-10-28T17:45:53Z,lassocut,0.1.0,JAUPIN Design LLC,MIT,24495,Official Python client for the LassoCut background-removal API
+2026-10-28T17:50:50Z,pathgrove-mcp,0.1.0,elis132,MIT,276862,Independent local file index and fast search for AI agents over MCP
+2026-10-28T17:51:03Z,kitewind,0.0.1,,,1404,Kitewind measures cost per accepted task for AI coding agents. Coming soon.
+2026-10-28T17:53:08Z,voicedecide,0.1.0a1,Snehal Pal,Apache-2.0,67493,"Training-free audio decisions (call routing, language ID) with EmbeddingGemma 2"
+2026-10-28T17:54:06Z,yuktai,0.1.0,Sandeep Miriyala,GPL-3.0-only,36451,"YuktAI for Python web apps: add the accessibility widget, page tools and data grid to Django, Flask and FastAPI pages in one line. Runs in the browser, no API keys."
+2026-10-28T17:54:09Z,lfast-etc,0.1.0,Gudmundur Stefansson <gstefansson@schmidtsciences.org>,BSD-3-Clause,5490507,Exposure Time Calculator for the LFAST telescope array (WIYN Bench spectrograph and CSHELL).
+2026-10-28T17:55:03Z,qrrobo,0.1.1,Gerfy,MIT,15439,Lê um QR Code pela câmera e envia a palavra a um bloco SPIKE com Pybricks.
+2026-10-28T17:55:35Z,reboot-cloud,0.0.0,,LicenseRef-Proprietary,1451,"The `rbt cloud` commands, which deploy Reboot applications to Reboot Cloud."
+2026-10-28T17:56:30Z,novi-second-spacing,0.dev0,Novi Labs <devops@novilabs.com>,,830,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-28T17:56:31Z,novi-de-production,0.dev0,Novi Labs <devops@novilabs.com>,,832,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-28T17:56:32Z,novi-derrick-models,0.dev0,Novi Labs <devops@novilabs.com>,,831,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-28T17:56:33Z,novilabs-moneybin,0.dev0,Novi Labs <devops@novilabs.com>,,826,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-28T17:56:46Z,watchglass,2026.10.25.1,Myles Prather,MIT,898074,"Poll conditions and run actions, from login onward."
+2026-10-28T17:57:49Z,spryng-analysis-mcp,0.1.0,ScrumDo LLC <support@spryng.io>,Apache-2.0,82781,Stdio MCP relay for Spryng Analysis — forwards authorized tool calls to your hosted Spryng endpoint.
+2026-10-28T17:58:54Z,packet-tracer-pkt-format,0.3.0,aacanadaa,GPL-3.0-or-later,259014,"Read, write and generate Cisco Packet Tracer .pkt/.pka files offline: byte-exact codec, typed models, and a reverse-engineering reference"
+2026-10-28T18:00:26Z,blazon-pylint-extensions,0.0.2,,,9394,Additional Pylint checks for readable Python code
+2026-10-28T18:07:15Z,agenthand,0.1.0,Daniel Wagner,Proprietary,154001,"agenthand: an MCP server that gives AI sales agents three production tools - identify, cut_out, draw - for turning messy product photos into listing-ready images."
+2026-10-28T18:08:07Z,invaris-agentauth,0.4.0,Invaris Labs,Apache-2.0,245729,"Self-certifying, rotatable identities for autonomous AI agents"
+2026-10-28T18:09:01Z,nobelagentic,0.1.0,,MIT,48482,"The agent framework that gets out of your way. One kernel, three APIs, any model."
+2026-10-28T18:12:51Z,ubuntu-start,0.3.1,Daniel Nylander <daniel@nylander.se>,GPL-3.0-only,671570,Ubuntu Desktop first-run and device troubleshooting guide
+2026-10-28T18:12:54Z,cdlab,1.0.0,,,14527,Compiler Design Lab programs accessible through Python functions
+2026-10-28T18:13:12Z,eggsearch,0.4.4,,MIT,54504292,Native asyncio bindings for the Eggsearch evidence engine
+2026-10-28T18:13:44Z,personapack,0.3.0,,,27317,A library of pre-bound PersonaBundles (description blocks + attention chains + ≥1 CoR) ready to seat into make_gba(**seat(name))
+2026-10-28T18:14:26Z,fastapi-keycloak-admin,0.1.0,Alexander Korolev,MIT,83177,"Keycloak authentication, account and user administration for FastAPI applications"
+2026-10-28T18:14:32Z,rphelp,0.1.0,RP Help Engineering,MIT,67319,Pip-installable Python package distributing computer vision experiment text files and algorithms.
+2026-10-28T18:15:20Z,callables,0.1.0,,,72260,"Decorate Python functions and push them to Callables: forms, schedules and run history for your team."
