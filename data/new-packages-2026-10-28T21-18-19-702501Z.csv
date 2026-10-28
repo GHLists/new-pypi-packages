@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T20:10:44Z,my-package-learning,0.1.3,,,3734,A Python library for greetings and mathematical operations
+2026-10-28T20:17:51Z,camusdb-py,0.1.0,CamusDB,MIT,151787,"Python DB-API 2.0 driver for CamusDB, with a native asyncio interface"
+2026-10-28T20:23:49Z,apiverve-cuidgenerator,1.2.3,APIVerve <hello@apiverve.com>,MIT,21149,"Cuid Generator creates collision-resistant unique identifiers (CUIDs) on demand for distributed applications. Pass an optional count to receive an array of unique ID strings, with paid plans adding s…"
+2026-10-28T20:23:54Z,apiverve-datamasking,1.2.3,APIVerve <hello@apiverve.com>,MIT,20946,"Data Masking redacts sensitive data like emails, phone numbers, payment cards, IP addresses, and dates using placeholder tokens. It returns the sanitized string and detection counts for each pattern…"
+2026-10-28T20:23:58Z,apiverve-currencyrate,1.2.3,APIVerve <hello@apiverve.com>,MIT,23390,"Currency Rate returns one currency's live value in US dollars or any other base, across 170+ currencies, with its name, symbol and direction since yesterday. Paid plans add any base currency, 1-day t…"
+2026-10-28T20:24:33Z,apiverve-danerecordvalidator,1.2.3,APIVerve <hello@apiverve.com>,MIT,21845,"DANE Record Validator validates DANE/TLSA DNS records used for certificate authentication, providing security analysis and best practice recommendations."
+2026-10-28T20:25:18Z,azure-mgmt-probinggateway,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3232,This package will be released in the near future. Stay tuned!
+2026-10-28T20:25:30Z,metalliger,0.5.0,MetalLiger Contributors,Apache-2.0,201254,Fused Metal kernels for PyTorch MPS training & inference on Apple Silicon
+2026-10-28T20:26:08Z,pibooth-media-templates,0.1.6,,MIT,895118,"pibooth plugin: photobooth-app style media templates (single, collage, animation, video, wigglegram) chosen from an icon bar, each with its own background"
+2026-10-28T20:26:51Z,saddlepoint-expansions,0.2.1,"Simon A. Broda, Raymond Kan","MIT License Copyright (c) 2026 Simon A. Broda and Raymond Kan Permission is hereby granted, free of…",115567,"Saddlepoint expansions of any order for multivariate tail probabilities and densities, from the cumulant generating function"
+2026-10-28T20:27:24Z,cane-format,0.0.0,,MIT,1792,"Library for the CANE output format for LLM-based named entity recognition (placeholder, in development)."
+2026-10-28T20:27:43Z,myunoqpackage,0.1.0,,,2767,My test pypi package for Uno Q
+2026-10-28T20:28:01Z,devin-judge,0.1.0,Icaro0310,MIT,4850,Meta-package for the devin-judge tool; installs poordjaevin and exposes both devin-judge and poordjaevin commands
+2026-10-28T20:28:03Z,mcpprobe-scanner,0.1.0,mcpprobe contributors <hello@mcpprobe.tech>,MIT,214913,"Security scanner for Model Context Protocol (MCP) servers: auth, transport, tool-metadata and poisoning checks with JSON and SARIF output."
+2026-10-28T20:29:42Z,ois-tools,0.6.0,,Apache-2.0,110244,"Reference tools for the Open Intent Schema (OIS): validate, record and attest what was required, built and proven"
+2026-10-28T20:30:37Z,zrb-avatar,0.1.1,,AGPL-3.0-or-later,1591967,"A 3D avatar for zrb in a small, see-through, always-on-top window"
+2026-10-28T20:31:05Z,khinsider-downloader,0.2.2,cristhianCEM,Apache License,25707,Khinsider Playlist Downloader
+2026-10-28T20:31:38Z,thonny-ikode,1.0.7,Bejaoui Dhia <admin@ikode.tn>,LicenseRef-Proprietary,71498,Thonny plugin by IKODE: generate PyQt5 loadUi code and preview Qt Designer .ui forms
+2026-10-28T20:31:57Z,sqlalchemy-inbox,0.1.0,Artur Shiriev,MIT,15096,Transactional inbox ledger for SQLAlchemy asyncio and PostgreSQL: dedupe consumed messages in the caller's transaction
+2026-10-28T20:34:01Z,dinkster-token-verifier,0.1.2,,Apache-2.0,34586,Offline verification of Dinkster access tokens and policy snapshots
+2026-10-28T20:34:05Z,dinkster-inference,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",20807998,Dinkster-owned inference library forked from ComfyUI
+2026-10-28T20:35:05Z,mcp-server-siglent-sdm3045x,0.1.0,shaag7967,MIT,40994,Unofficial MCP server for the Siglent SDM3045X digital multimeter
+2026-10-28T20:35:33Z,stargazer-bio,2026.10.28,,,197587,"Bioinformatics workflow orchestration on Flyte v2, with assets identified by their IPFS CID"
+2026-10-28T20:37:29Z,so101-calibrator,0.1.0,fport,MIT,590463,"Checked, versioned calibration for SO-101 robot arms (LeRobot compatible), with a simple terminal UI."
+2026-10-28T20:39:39Z,pyyaml-cp315,6.0.3,Kirill Simonov,MIT,2745227,YAML parser and emitter for Python
+2026-10-28T20:39:58Z,thonny-pai,0.15.0,,,5385,"Gọi AI từ Thonny bằng pai.request(), in thẳng câu trả lời ra Shell."
+2026-10-28T20:40:07Z,codeownerinsights,0.1.0,Keith Hall,MIT,24206,"Parse GitHub's CODEOWNERS file and resolve code owners for a path, with optional git integration."
+2026-10-28T20:40:07Z,dateparsa,0.3.0,Kevin O'Neil,Apache-2.0,669614,"Date parsing for input whose format you do not control: format detection, ambiguity reported, 20 locales, natural language, column order, format strings."
+2026-10-28T20:42:28Z,fastapi-sm,0.1.post1,A.Star,BSD,40176,"FastAPI-friendly Chinese national cryptography (SM2/SM3/SM4) toolkit with unified backends, password hashing and transparent encrypted fields."
+2026-10-28T20:42:51Z,azure-mgmt-serviceconnectioncontroller,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3428,This package will be released in the near future. Stay tuned!
+2026-10-28T20:42:57Z,shield-session,0.2.0,Joseph Avatiants <joavat2009@gmail.com>,,2721,Package for creating secure sessions
+2026-10-28T20:44:11Z,roblox-assets-mcp,0.1.0,Petri-Hub,MIT,16688,An MCP server for finding and retrieving Roblox Creator Store assets
+2026-10-28T20:44:18Z,amagi-docleak,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,104099,"Pre-send check for Word, Excel, PowerPoint and PDF files: finds tracked changes, comments, hidden sheets and slides, speaker notes, author metadata, file paths and fake black-box redactions, then wri…"
+2026-10-28T20:48:40Z,cernis,0.0.1,Ken W. Alger,Apache-2.0,14130,A content discoverability auditor for published articles.
+2026-10-28T20:52:29Z,neat-notebook,0.1.4,Farshad Farshidfar <farshidfar@gmail.com>,BSD-3-Clause,226753,A lightweight active-cell inspector for Jupyter Notebook 7 and JupyterLab 4.
+2026-10-28T20:52:55Z,tapesh,0.0.1,Amirtaha Taebi,MIT,2913,Tapesh: open-source generator of synthetic seismocardiograms (Python package in development)
+2026-10-28T20:54:51Z,optimaru,0.1.0,optimaru,Apache-2.0,38532502,"Metaheuristic optimization engine for routing, scheduling, timetabling and allocation — 21 ready-to-use models."
+2026-10-28T20:55:30Z,cvlac-json,0.1.0,Diego Restrepo <restrepo@udea.edu.co>,MIT,77170,"Turn a researcher's public CvLAC page (Minciencias, Colombia) into one JSON document, with Scienti and ROR identifiers."
+2026-10-28T20:55:42Z,tutti-sdk,0.1.0,,MIT,86138,"Unofficial Python client for the (reverse-engineered) tutti.ch API — search, listings, seller profiles, categories, suggestions, messaging, and Auth0 login. Port of filippofinke/tutti-api."
+2026-10-28T20:55:48Z,exolot,0.1.0,,MIT,36045,Analyze code locally from the command line with the SonarQube for IDE language server
+2026-10-28T20:56:22Z,world-engine-swiftshader,0.1.0,Xiatao Sun <sunxiatao@gmail.com>,Apache-2.0 AND MIT AND NCSA AND Apache-2.0 WITH LLVM-exception,9711404,"SwiftShader (CPU Vulkan) and the Khronos Vulkan loader, for world-engine-client on Linux machines without a GPU."
+2026-10-28T21:00:20Z,vinted-mcp,0.1.0,figurophobia,MIT,150543,"MCP server for Vinted: search, item details, favourites, messages, offers, orders and listing management for AI agents. Also ships a CLI and a typed Python client."
+2026-10-28T21:00:49Z,murmel-flash,5.0.0,Maarten Sukel,"murmel-flash Licence 1.0 Copyright (c) 2026 The AI Factory B.V., Amsterdam. All rights reserved exc…",94699,"Dutch + English speech recognition: FastConformer hybrid CTC/attention models with punctuation, word timestamps, and domain word lists."
+2026-10-28T21:01:48Z,solvecha,0.1.0,,MIT,20603,Python client and AI agent tools for the Solvecha captcha solving API
+2026-10-28T21:07:07Z,afterwatch,1.0.0,,MIT,243279,"Turn your YouTube watching into a knowledge base: structured notes, self-updating hubs, watch-history backfill"
+2026-10-28T21:07:48Z,bpytop-nv,26.10,Arghya Mukherjee <amukherjee1991@gmail.com>,Apache-2.0,160633,"bpytop with an nvtop-style NVIDIA GPU box: CPU, GPU, memory, disks, network and processes in one terminal"
+2026-10-28T21:09:56Z,canonical-geometries,0.1.0,Christoph Hader <christoph.hader@gmail.com>,BSD-3-Clause,48115,"Exact 2D profiles of canonical high-speed test geometries (blunted plate, cone, ogive, ...)"
+2026-10-28T21:10:48Z,purowser,0.0.0,Mert,,2443,Yet another agent browser.
+2026-10-28T21:10:54Z,roadie,0.1.0,,MIT,87296,"Wire up multi-language, incremental builds in a few lines of Python."
+2026-10-28T21:10:57Z,overturn-trainer,0.1.0,Overturn contributors,Apache-2.0,236451,"Train an open-weight model on your Overturn corrections in your own cloud, then register it for the gate"
+2026-10-28T21:13:22Z,stv-watch,0.7.1,Dmitry Razumikhin,MIT,2314799,"SourceTV relay viewer for Half-Life 2: Deathmatch and Team Fortress 2: voice with a transcript, game chat and events, live or from a recording"
+2026-10-28T21:14:20Z,taskgate,0.1.0,prachwal,MIT,63248,"Gated task registry with an MCP server: strict status flow, verification and review evidence, for Claude Code, Codex, VS Code Copilot and other MCP clients."
+2026-10-28T21:15:42Z,lab22,0.1.0.dev0,Lab22,LicenseRef-Proprietary,2876,Reserved for the Lab22 command-line tool. This placeholder contains no code; the first release is 0.1.0.
+2026-10-28T21:15:42Z,mozhi,0.1.0,Jessenth Ebenezer,MIT,82257,"A Tamil-inspired, verb-final interpreted programming language"
