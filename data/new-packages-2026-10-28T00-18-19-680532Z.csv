@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-27T23:26:20Z,ecosemantic-view,0.1.8,Carlos Gaete-Morales <cdgaete@gmail.com>,PolyForm-Noncommercial-1.0.0,650369,"The API of the EcoSemantic page, and the built page."
+2026-10-27T23:26:39Z,ecosemantic,0.1.8,Carlos Gaete-Morales <cdgaete@gmail.com>,PolyForm-Noncommercial-1.0.0,86527,Agent-driven life cycle assessment on your own machine: the command and the local composition.
+2026-10-27T23:27:30Z,panpak,0.0.1,,MIT OR Apache-2.0,2355,Reserved for the panpak project. See https://panpak.org
+2026-10-27T23:30:37Z,openai-agents-hyperlight,0.1.0,The Hyperlight Authors,Apache-2.0,67754,Run the OpenAI Agents SDK's sandbox commands in local Hyperlight micro-VMs
+2026-10-27T23:30:58Z,plures,1.0.0,Plures Labs LLC <hello@plures.si>,MIT,9584,Human judgment as an API for AI agents. Send a decision to ID verified people and get their consensus back.
+2026-10-27T23:35:12Z,vllm-quantpack,0.1.0,Jorge Ramírez Espejo,Apache-2.0,94074,"vLLM plugin: serve EXL3 (exllamav3 trellis) checkpoints and the model-family fixes they need, with no patch to vLLM"
+2026-10-27T23:37:13Z,khvgm,1.0.0,liskadi <njdrecov@gmail.com>,MIT,35611,"Fast, concurrent soundtrack downloader and search CLI for KHInsider"
+2026-10-27T23:37:13Z,nextcaptcha,0.1.0,,ISC,37520,Python client for the NextCaptcha captcha solving API
+2026-10-27T23:37:37Z,changenow-client,0.1.0,,ISC,35829,Python client for the ChangeNOW cryptocurrency exchange API (v2)
+2026-10-27T23:38:10Z,langchain-schemagate,0.1.0,Ashish Sinha,Apache-2.0,13978,"LangChain retriever that sends a text-to-SQL model only the tables a question needs, from the ones the caller may read"
+2026-10-27T23:39:34Z,llama-index-retrievers-schemagate,0.1.0,Ashish Sinha,Apache-2.0,13878,"LlamaIndex retriever that sends a text-to-SQL model only the tables a question needs, from the ones the caller may read"
+2026-10-27T23:47:36Z,pyjustwannabepure,0.0.1,,,31320,"Decorators for pure functions and imperative shells, plus a language server that enforces them"
+2026-10-27T23:48:06Z,tty-server,0.0.0,,,1878,Placeholder reserving the PyPI project name; the first real release supersedes it.
+2026-10-27T23:52:13Z,compsniper,0.2.0,CompSniper <support@compsniper.com>,MIT,15399,"Official Python client for the CompSniper API: real eBay sold prices, accepted Best Offer prices, 3 years of eBay sold history, PSA graded card prices and population, TCGplayer, Grailed, Depop, Poshm…"
+2026-10-27T23:54:41Z,atlassian-browser-mcp,1.4.1,GeiserX,GPL-3.0-or-later,120592,Browser-backed MCP server wrapping upstream mcp-atlassian with Playwright SSO auth
+2026-10-27T23:59:57Z,sqtop,0.1.0,,MIT,126494,"Slurm dashboard: partitions, account/QOS limits and estimated start times"
+2026-10-28T00:03:02Z,entropy-protocol,0.1.0,"Roman Oliinyk, Serhii Nikolaichuk",Apache-2.0,365656,"Reference implementation of the Entropy Protocol: seal language-model text when it is written; verify it later, deterministically, with a record that reveals no text."
+2026-10-28T00:03:27Z,signalfloor,0.1.0,Diwesh Chaurasia,Apache-2.0,41381,Find out if a drop in your LLM eval scores is a real regression or just noise.
+2026-10-28T00:04:31Z,kitsuyui-rust-playground,0.2.0,kitsuyui <kitsuyui@kitsuyui.com>,,3277208,
+2026-10-28T00:06:51Z,tenosrflowkeraskeras,0.1.0,,,47976,Deep learning lab solutions
+2026-10-28T00:07:16Z,awesome-python-dev,0.3.0,awesome-python-dev contributors,MIT,291039,"Curated AI development skills, rules, MCP and LSP tools for your coding agents."
+2026-10-28T00:08:18Z,quartercall,0.0.1,QuarterCall Holdings Inc.,Apache-2.0,16430,"Read QuarterCall Data, the NCUA Form 5300 Call Reports republished at data.quartercall.com, into pandas"
+2026-10-28T00:10:32Z,tenosrflowkeras,0.1.0,,,47958,Deep learning lab solutions
+2026-10-28T00:13:54Z,quantlib-addin,0.1.0,Mike Kipnis,BSD-3-Clause,158694218,Python bindings for QuantLibAddin

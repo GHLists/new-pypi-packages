@@ -8,40 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 23:20 UTC
+## Latest list — 2026-10-28 00:18 UTC
 
-New packages created between 2026-10-27 22:19 UTC and 2026-10-27 23:20 UTC.
+New packages created between 2026-10-27 23:20 UTC and 2026-10-28 00:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-27T23-20-52-052544Z.csv)
+[Full CSV](data/new-packages-2026-10-28T00-18-19-680532Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-27 22:22:55 | [coordconvertermc](https://pypi.org/project/coordconvertermc/) | 0.1.0 | Maya Chisale | 6.3 kB | Convert geographic coordinates between decimal degrees and DMS. |
-| 2026-10-27 22:26:09 | [hostily-captcha](https://pypi.org/project/hostily-captcha/) | 0.1.0 | connect - Media & Teledienst | 14.4 kB | Server-side client for hostily Captcha (captcha.hostily.de): verify the token o… |
-| 2026-10-27 22:26:40 | [game-builder-mcp](https://pypi.org/project/game-builder-mcp/) | 0.4.0 | Isabel Wu | 137.5 kB | An MCP server that helps any coding agent build games in any genre, with 2D/3D… |
-| 2026-10-27 22:28:01 | [utterpy](https://pypi.org/project/utterpy/) | 0.0.6 |  | 5.4 MB | Python bindings for utter, the zero-dependency pure-Rust streaming speech decod… |
-| 2026-10-27 22:29:59 | [minime-cnmf](https://pypi.org/project/minime-cnmf/) | 0.0.2 | Marcel Brosch | 895.9 kB | Factor-first CNMF pipeline for one-photon miniscope data |
-| 2026-10-27 22:30:16 | [quantahost-storage](https://pypi.org/project/quantahost-storage/) | 0.1.0 | Quantabyte (Pvt) Ltd | 24.4 kB | Official Python SDK for QuantaHost object storage (QuantaStore). Uploads go dir… |
-| 2026-10-27 22:30:20 | [quantahost-cli](https://pypi.org/project/quantahost-cli/) | 0.1.0 | Quantabyte (Pvt) Ltd | 20.8 kB | Official QuantaHost CLI for Python — deploy any project (incl. Django/Flask/Fas… |
-| 2026-10-27 22:32:48 | [prenatal-tools](https://pypi.org/project/prenatal-tools/) | 0.1.0 |  | 1.6 MB | Prenatal and rare-disease phenotype tools: ontology access, with more to come |
-| 2026-10-27 22:36:34 | [rainnworks-porkbun](https://pypi.org/project/rainnworks-porkbun/) | 0.1.2 |  | 37.8 kB | A Pulumi provider for Porkbun: DNS records and domain nameservers. |
-| 2026-10-27 22:37:04 | [terrine](https://pypi.org/project/terrine/) | 0.1.0.dev0 |  | 1.9 MB | Typed dataset construction and analytical workflows |
-| 2026-10-27 22:38:20 | [claude-agent-sdk-mongodb-session-store](https://pypi.org/project/claude-agent-sdk-mongodb-session-store/) | 0.1.0 | Casey Clements <casey.clement… | 172.8 kB | MongoDB-backed SessionStore for the Claude Agent SDK |
-| 2026-10-27 22:40:03 | [bayesbreak](https://pypi.org/project/bayesbreak/) | 2.1.0 | Omid Shams Solari <omid.solar… | 393.1 kB | Generalized hierarchical Bayesian segmentation with exact conjugate and approxi… |
-| 2026-10-27 22:40:07 | [rivalsisland](https://pypi.org/project/rivalsisland/) | 0.7.0 | RivalsIsland | 98.9 kB | Marvel Rivals API client for Python: player stats, match history, leaderboards,… |
-| 2026-10-27 22:41:17 | [sheetmill](https://pypi.org/project/sheetmill/) | 0.1.0 | Ethan Post | 5.5 kB | Installs the sheetmill packages for working with Excel files in pure Python. |
-| 2026-10-27 22:41:38 | [volucer-worker](https://pypi.org/project/volucer-worker/) | 0.1.0 |  | 127.2 kB | A Python worker SDK for the volucer worker protocol |
-| 2026-10-27 22:42:52 | [sapimo](https://pypi.org/project/sapimo/) | 0.1.0 | ajinori | 156.2 kB | Local mock for applications built with AWS SAM / CDK |
-| 2026-10-27 22:45:19 | [adios2-mpi](https://pypi.org/project/adios2-mpi/) | 2.13.0.1000 |  | 164.4 MB | The Adaptable Input Output System version 2 (MPI build) |
-| 2026-10-27 22:46:30 | [tines](https://pypi.org/project/tines/) | 0.0.0 |  | 1.8 kB | Placeholder reserving the PyPI project name; the first real release supersedes… |
-| 2026-10-27 22:52:02 | [pxil](https://pypi.org/project/pxil/) | 0.1.0 | Chronomic Medicine Group, Dep… | 18.7 kB | Read and write pxil files: one sequence as a picture, one pixel per residue |
-| 2026-10-27 22:52:45 | [gpxiltools](https://pypi.org/project/gpxiltools/) | 0.3.0 | Chronomic Medicine Group, Dep… | 829.0 kB | Read, write and render gpxil genome pixel images (one pixel per base, stored as… |
-| 2026-10-27 22:52:51 | [dstructs](https://pypi.org/project/dstructs/) | 0.1.0 | Prannaya Gupta <prannayagupta… | 98.2 kB | Data Structure Library for Python |
-| 2026-10-27 22:56:01 | [quoth](https://pypi.org/project/quoth/) | 0.0.1 | djagya | 1.9 kB | Provenance-aware memory for AI assistants: every memory knows who said it. Plac… |
-| 2026-10-27 22:56:52 | [nexec](https://pypi.org/project/nexec/) | 0.1.0 | Danny Wang | 4.0 MB | No-execute bits for LLM tokens: provenance-gated instruction-direction ablation |
-| 2026-10-27 22:58:18 | [gpxil2pxil](https://pypi.org/project/gpxil2pxil/) | 0.1.0 | Chronomic Medicine Group, Dep… | 40.5 kB | Pictures of genes, transcripts and proteins (pxil files) from a gpxil genome: i… |
-| 2026-10-27 22:59:41 | [asdftofitscube](https://pypi.org/project/asdftofitscube/) | 0.2.0 | Christina Hedges | 16.3 kB |  |
-| 2026-10-27 23:07:58 | [silvasta](https://pypi.org/project/silvasta/) | 0.4.0b1 | silvan | 504.0 kB | Generalized Function and Tools combined as Project Setup Boost |
-| 2026-10-27 23:11:39 | [strands-proxmint](https://pypi.org/project/strands-proxmint/) | 0.1.0 | Proxmint <support@proxmint.co… | 19.6 kB | Strands Agents tool that reads web pages through Proxmint residential, datacent… |
-| 2026-10-27 23:11:54 | [morphir-python-native](https://pypi.org/project/morphir-python-native/) | 0.1.0 | FINOS <morphir@finos.org> | 11.3 MB | Private native compiler for the morphir-python tools |
-| 2026-10-27 23:19:14 | [pyparus](https://pypi.org/project/pyparus/) | 0.0.1 | Paal Pedersen <paalped@gmail.… | 20.0 kB | Papyrus UML parser and code generator |
+| 2026-10-27 23:26:20 | [ecosemantic-view](https://pypi.org/project/ecosemantic-view/) | 0.1.8 | Carlos Gaete-Morales <cdgaete… | 650.4 kB | The API of the EcoSemantic page, and the built page. |
+| 2026-10-27 23:26:39 | [ecosemantic](https://pypi.org/project/ecosemantic/) | 0.1.8 | Carlos Gaete-Morales <cdgaete… | 86.5 kB | Agent-driven life cycle assessment on your own machine: the command and the loc… |
+| 2026-10-27 23:27:30 | [panpak](https://pypi.org/project/panpak/) | 0.0.1 |  | 2.4 kB | Reserved for the panpak project. See https://panpak.org |
+| 2026-10-27 23:30:37 | [openai-agents-hyperlight](https://pypi.org/project/openai-agents-hyperlight/) | 0.1.0 | The Hyperlight Authors | 67.8 kB | Run the OpenAI Agents SDK's sandbox commands in local Hyperlight micro-VMs |
+| 2026-10-27 23:30:58 | [plures](https://pypi.org/project/plures/) | 1.0.0 | Plures Labs LLC <hello@plures… | 9.6 kB | Human judgment as an API for AI agents. Send a decision to ID verified people a… |
+| 2026-10-27 23:35:12 | [vllm-quantpack](https://pypi.org/project/vllm-quantpack/) | 0.1.0 | Jorge Ramírez Espejo | 94.1 kB | vLLM plugin: serve EXL3 (exllamav3 trellis) checkpoints and the model-family fi… |
+| 2026-10-27 23:37:13 | [khvgm](https://pypi.org/project/khvgm/) | 1.0.0 | liskadi <njdrecov@gmail.com> | 35.6 kB | Fast, concurrent soundtrack downloader and search CLI for KHInsider |
+| 2026-10-27 23:37:13 | [nextcaptcha](https://pypi.org/project/nextcaptcha/) | 0.1.0 |  | 37.5 kB | Python client for the NextCaptcha captcha solving API |
+| 2026-10-27 23:37:37 | [changenow-client](https://pypi.org/project/changenow-client/) | 0.1.0 |  | 35.8 kB | Python client for the ChangeNOW cryptocurrency exchange API (v2) |
+| 2026-10-27 23:38:10 | [langchain-schemagate](https://pypi.org/project/langchain-schemagate/) | 0.1.0 | Ashish Sinha | 14.0 kB | LangChain retriever that sends a text-to-SQL model only the tables a question n… |
+| 2026-10-27 23:39:34 | [llama-index-retrievers-schemagate](https://pypi.org/project/llama-index-retrievers-schemagate/) | 0.1.0 | Ashish Sinha | 13.9 kB | LlamaIndex retriever that sends a text-to-SQL model only the tables a question… |
+| 2026-10-27 23:47:36 | [pyjustwannabepure](https://pypi.org/project/pyjustwannabepure/) | 0.0.1 |  | 31.3 kB | Decorators for pure functions and imperative shells, plus a language server tha… |
+| 2026-10-27 23:48:06 | [tty-server](https://pypi.org/project/tty-server/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the PyPI project name; the first real release supersedes… |
+| 2026-10-27 23:52:13 | [compsniper](https://pypi.org/project/compsniper/) | 0.2.0 | CompSniper <support@compsnipe… | 15.4 kB | Official Python client for the CompSniper API: real eBay sold prices, accepted… |
+| 2026-10-27 23:54:41 | [atlassian-browser-mcp](https://pypi.org/project/atlassian-browser-mcp/) | 1.4.1 | GeiserX | 120.6 kB | Browser-backed MCP server wrapping upstream mcp-atlassian with Playwright SSO a… |
+| 2026-10-27 23:59:57 | [sqtop](https://pypi.org/project/sqtop/) | 0.1.0 |  | 126.5 kB | Slurm dashboard: partitions, account/QOS limits and estimated start times |
+| 2026-10-28 00:03:02 | [entropy-protocol](https://pypi.org/project/entropy-protocol/) | 0.1.0 | Roman Oliinyk, Serhii Nikolai… | 365.7 kB | Reference implementation of the Entropy Protocol: seal language-model text when… |
+| 2026-10-28 00:03:27 | [signalfloor](https://pypi.org/project/signalfloor/) | 0.1.0 | Diwesh Chaurasia | 41.4 kB | Find out if a drop in your LLM eval scores is a real regression or just noise. |
+| 2026-10-28 00:04:31 | [kitsuyui-rust-playground](https://pypi.org/project/kitsuyui-rust-playground/) | 0.2.0 | kitsuyui <kitsuyui@kitsuyui.c… | 3.3 MB |  |
+| 2026-10-28 00:06:51 | [tenosrflowkeraskeras](https://pypi.org/project/tenosrflowkeraskeras/) | 0.1.0 |  | 48.0 kB | Deep learning lab solutions |
+| 2026-10-28 00:07:16 | [awesome-python-dev](https://pypi.org/project/awesome-python-dev/) | 0.3.0 | awesome-python-dev contributo… | 291.0 kB | Curated AI development skills, rules, MCP and LSP tools for your coding agents. |
+| 2026-10-28 00:08:18 | [quartercall](https://pypi.org/project/quartercall/) | 0.0.1 | QuarterCall Holdings Inc. | 16.4 kB | Read QuarterCall Data, the NCUA Form 5300 Call Reports republished at data.quar… |
+| 2026-10-28 00:10:32 | [tenosrflowkeras](https://pypi.org/project/tenosrflowkeras/) | 0.1.0 |  | 48.0 kB | Deep learning lab solutions |
+| 2026-10-28 00:13:54 | [quantlib-addin](https://pypi.org/project/quantlib-addin/) | 0.1.0 | Mike Kipnis | 158.7 MB | Python bindings for QuantLibAddin |
