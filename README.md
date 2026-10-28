@@ -8,35 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 00:18 UTC
+## Latest list — 2026-10-28 01:18 UTC
 
-New packages created between 2026-10-27 23:20 UTC and 2026-10-28 00:18 UTC.
+New packages created between 2026-10-28 00:18 UTC and 2026-10-28 01:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-28T00-18-19-680532Z.csv)
+[Full CSV](data/new-packages-2026-10-28T01-18-24-450544Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-27 23:26:20 | [ecosemantic-view](https://pypi.org/project/ecosemantic-view/) | 0.1.8 | Carlos Gaete-Morales <cdgaete… | 650.4 kB | The API of the EcoSemantic page, and the built page. |
-| 2026-10-27 23:26:39 | [ecosemantic](https://pypi.org/project/ecosemantic/) | 0.1.8 | Carlos Gaete-Morales <cdgaete… | 86.5 kB | Agent-driven life cycle assessment on your own machine: the command and the loc… |
-| 2026-10-27 23:27:30 | [panpak](https://pypi.org/project/panpak/) | 0.0.1 |  | 2.4 kB | Reserved for the panpak project. See https://panpak.org |
-| 2026-10-27 23:30:37 | [openai-agents-hyperlight](https://pypi.org/project/openai-agents-hyperlight/) | 0.1.0 | The Hyperlight Authors | 67.8 kB | Run the OpenAI Agents SDK's sandbox commands in local Hyperlight micro-VMs |
-| 2026-10-27 23:30:58 | [plures](https://pypi.org/project/plures/) | 1.0.0 | Plures Labs LLC <hello@plures… | 9.6 kB | Human judgment as an API for AI agents. Send a decision to ID verified people a… |
-| 2026-10-27 23:35:12 | [vllm-quantpack](https://pypi.org/project/vllm-quantpack/) | 0.1.0 | Jorge Ramírez Espejo | 94.1 kB | vLLM plugin: serve EXL3 (exllamav3 trellis) checkpoints and the model-family fi… |
-| 2026-10-27 23:37:13 | [khvgm](https://pypi.org/project/khvgm/) | 1.0.0 | liskadi <njdrecov@gmail.com> | 35.6 kB | Fast, concurrent soundtrack downloader and search CLI for KHInsider |
-| 2026-10-27 23:37:13 | [nextcaptcha](https://pypi.org/project/nextcaptcha/) | 0.1.0 |  | 37.5 kB | Python client for the NextCaptcha captcha solving API |
-| 2026-10-27 23:37:37 | [changenow-client](https://pypi.org/project/changenow-client/) | 0.1.0 |  | 35.8 kB | Python client for the ChangeNOW cryptocurrency exchange API (v2) |
-| 2026-10-27 23:38:10 | [langchain-schemagate](https://pypi.org/project/langchain-schemagate/) | 0.1.0 | Ashish Sinha | 14.0 kB | LangChain retriever that sends a text-to-SQL model only the tables a question n… |
-| 2026-10-27 23:39:34 | [llama-index-retrievers-schemagate](https://pypi.org/project/llama-index-retrievers-schemagate/) | 0.1.0 | Ashish Sinha | 13.9 kB | LlamaIndex retriever that sends a text-to-SQL model only the tables a question… |
-| 2026-10-27 23:47:36 | [pyjustwannabepure](https://pypi.org/project/pyjustwannabepure/) | 0.0.1 |  | 31.3 kB | Decorators for pure functions and imperative shells, plus a language server tha… |
-| 2026-10-27 23:48:06 | [tty-server](https://pypi.org/project/tty-server/) | 0.0.0 |  | 1.9 kB | Placeholder reserving the PyPI project name; the first real release supersedes… |
-| 2026-10-27 23:52:13 | [compsniper](https://pypi.org/project/compsniper/) | 0.2.0 | CompSniper <support@compsnipe… | 15.4 kB | Official Python client for the CompSniper API: real eBay sold prices, accepted… |
-| 2026-10-27 23:54:41 | [atlassian-browser-mcp](https://pypi.org/project/atlassian-browser-mcp/) | 1.4.1 | GeiserX | 120.6 kB | Browser-backed MCP server wrapping upstream mcp-atlassian with Playwright SSO a… |
-| 2026-10-27 23:59:57 | [sqtop](https://pypi.org/project/sqtop/) | 0.1.0 |  | 126.5 kB | Slurm dashboard: partitions, account/QOS limits and estimated start times |
-| 2026-10-28 00:03:02 | [entropy-protocol](https://pypi.org/project/entropy-protocol/) | 0.1.0 | Roman Oliinyk, Serhii Nikolai… | 365.7 kB | Reference implementation of the Entropy Protocol: seal language-model text when… |
-| 2026-10-28 00:03:27 | [signalfloor](https://pypi.org/project/signalfloor/) | 0.1.0 | Diwesh Chaurasia | 41.4 kB | Find out if a drop in your LLM eval scores is a real regression or just noise. |
-| 2026-10-28 00:04:31 | [kitsuyui-rust-playground](https://pypi.org/project/kitsuyui-rust-playground/) | 0.2.0 | kitsuyui <kitsuyui@kitsuyui.c… | 3.3 MB |  |
-| 2026-10-28 00:06:51 | [tenosrflowkeraskeras](https://pypi.org/project/tenosrflowkeraskeras/) | 0.1.0 |  | 48.0 kB | Deep learning lab solutions |
-| 2026-10-28 00:07:16 | [awesome-python-dev](https://pypi.org/project/awesome-python-dev/) | 0.3.0 | awesome-python-dev contributo… | 291.0 kB | Curated AI development skills, rules, MCP and LSP tools for your coding agents. |
-| 2026-10-28 00:08:18 | [quartercall](https://pypi.org/project/quartercall/) | 0.0.1 | QuarterCall Holdings Inc. | 16.4 kB | Read QuarterCall Data, the NCUA Form 5300 Call Reports republished at data.quar… |
-| 2026-10-28 00:10:32 | [tenosrflowkeras](https://pypi.org/project/tenosrflowkeras/) | 0.1.0 |  | 48.0 kB | Deep learning lab solutions |
-| 2026-10-28 00:13:54 | [quantlib-addin](https://pypi.org/project/quantlib-addin/) | 0.1.0 | Mike Kipnis | 158.7 MB | Python bindings for QuantLibAddin |
+| 2026-10-28 00:22:38 | [camsim](https://pypi.org/project/camsim/) | 0.1.0 | camsim contributors | 3.0 MB | Deterministic camera sensor and ISP simulation with image-quality metrics. |
+| 2026-10-28 00:26:11 | [hash36](https://pypi.org/project/hash36/) | 0.1.0 | HASH-36 Working Group | 14.8 kB | HASH-36-KDF : Argon2id avec séparation de domaine, pepper et rotation. |
+| 2026-10-28 00:26:24 | [opencda-marl](https://pypi.org/project/opencda-marl/) | 2.2.0 | Lihao Guo <leolihao@arizona.e… | 20.7 MB | Cooperative multi-agent RL engine for autonomous driving on CARLA/SUMO: lifecyc… |
+| 2026-10-28 00:31:16 | [skillmate](https://pypi.org/project/skillmate/) | 12.0.1.dev147 |  | 51.2 kB | Installer-configurator for portable Agent Skills across Codex, Claude, and Open… |
+| 2026-10-28 00:33:17 | [oblitus](https://pypi.org/project/oblitus/) | 1.0.0 | Rodrigo Monteiro Pereira <rmo… | 745.5 kB | Detect sensitive columns, propose and apply masking, noise and anonymization te… |
+| 2026-10-28 00:35:15 | [veilleur-discord-mcp](https://pypi.org/project/veilleur-discord-mcp/) | 0.1.0 | NoPaperSpray | 42.9 kB | Local Discord MCP server with human approval and backups |
+| 2026-10-28 00:36:40 | [forceupdate](https://pypi.org/project/forceupdate/) | 0.1.0 | Pauzzle | 644.9 kB | Trouve les dépendances à mettre à jour (versions, failles, fins de vie) et fait… |
+| 2026-10-28 00:37:03 | [lmstudio-model-control](https://pypi.org/project/lmstudio-model-control/) | 0.1.2 |  | 10.3 kB | Simple CLI to load/unload models on a local LM Studio server |
+| 2026-10-28 00:37:35 | [bulk-bg-remove](https://pypi.org/project/bulk-bg-remove/) | 0.1.0 | Btike | 2.8 MB | Remove image backgrounds locally and in bulk: an agent skill for Claude Code, C… |
+| 2026-10-28 00:38:16 | [unk-scanner](https://pypi.org/project/unk-scanner/) | 0.1.1 | Ilja Krasnjanski | 302.3 kB | Python CLI and API for static UNK_DeadDrop JavaScript triage (requires Node.js… |
+| 2026-10-28 00:42:04 | [hgreg](https://pypi.org/project/hgreg/) | 1.0.2 |  | 2.2 kB | Biblioteca Python hgreg |
+| 2026-10-28 00:46:31 | [katalyst-plugin-xray](https://pypi.org/project/katalyst-plugin-xray/) | 0.1.1a6 | eSimplicity | 120.1 kB | Katalyst X-Ray plugin — turn loose information into cited claims, and promote t… |
+| 2026-10-28 00:50:19 | [headron-software](https://pypi.org/project/headron-software/) | 3.60.1 |  | 30.8 kB | AI coding-agent verification: tells agents which commands prove a change and fa… |
+| 2026-10-28 00:52:29 | [graftql](https://pypi.org/project/graftql/) | 1.21.0.dev44411 | lorrod | 53.6 kB | GraftQL turns your SQLModel definitions into a fully-typed GraphQL API — no sch… |
+| 2026-10-28 00:59:28 | [spark-rust-runtime-spark-shuffle-server](https://pypi.org/project/spark-rust-runtime-spark-shuffle-server/) | 0.42.1a4 |  | 56.8 MB | Spark Rust multi-environment alpha distribution |
+| 2026-10-28 00:59:51 | [oi-starship-local-governance](https://pypi.org/project/oi-starship-local-governance/) | 0.1.0 | Orion Innovation | 122.6 MB | All-in-one Starship Local Governance: runtime + pinned OPA engine binary + codi… |
+| 2026-10-28 01:00:59 | [spark-rust-runtime-spark-sql](https://pypi.org/project/spark-rust-runtime-spark-sql/) | 0.42.1a4 |  | 77.5 MB | Spark Rust multi-environment alpha distribution |
+| 2026-10-28 01:02:09 | [halide-bin](https://pypi.org/project/halide-bin/) | 22.0.0 | The Halide team <halide-dev@l… | 246.4 MB | Python-independent binary components for Halide (libHalide, autoschedulers, gen… |
+| 2026-10-28 01:02:44 | [spark-rust-wasm](https://pypi.org/project/spark-rust-wasm/) | 0.42.1a4 |  | 54.8 MB | Spark Rust multi-environment alpha distribution |
+| 2026-10-28 01:03:30 | [github-apiroute](https://pypi.org/project/github-apiroute/) | 0.2.0 | Doug Youch <dougyouch@gmail.c… | 4.7 MB | Python clients for GitHub's REST and GraphQL APIs, generated with apiroute from… |
+| 2026-10-28 01:03:41 | [halide-runtime](https://pypi.org/project/halide-runtime/) | 22.0.0 | The Halide team <halide-dev@l… | 681.0 kB | Standalone Halide runtime: load and call precompiled Halide AOT kernels without… |
+| 2026-10-28 01:08:57 | [nexusbt](https://pypi.org/project/nexusbt/) | 0.0.1 | coolbress | 2.0 kB | NexusBT: a point-in-time backtesting, screening and live-tracking engine (place… |
+| 2026-10-28 01:10:03 | [langchain-transcriptfetch](https://pypi.org/project/langchain-transcriptfetch/) | 0.1.0 | TranscriptFetch <support@tran… | 17.9 kB | LangChain document loader for TranscriptFetch: transcripts of YouTube, TikTok a… |
+| 2026-10-28 01:10:16 | [llama-index-readers-transcriptfetch](https://pypi.org/project/llama-index-readers-transcriptfetch/) | 0.1.0 | TranscriptFetch <support@tran… | 16.4 kB | LlamaIndex reader for TranscriptFetch: transcripts of YouTube, TikTok and Insta… |
+| 2026-10-28 01:10:49 | [sap-adt-cli](https://pypi.org/project/sap-adt-cli/) | 1.5.0 | shrek-abaper | 214.2 kB | SAP ADT REST API CLI: read/write ABAP source and metadata, transport request co… |
+| 2026-10-28 01:16:34 | [xploredev](https://pypi.org/project/xploredev/) | 0.2.0 | Your Name | 21.1 kB | Add your description here |
+| 2026-10-28 01:17:37 | [netlab-topogen](https://pypi.org/project/netlab-topogen/) | 0.6.0 | Andrey Golovanov | 209.8 kB | Generate NetGraph backbone scenarios from US Census urban areas and TIGER/Line… |

@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T00:22:38Z,camsim,0.1.0,camsim contributors,Apache-2.0,3047188,Deterministic camera sensor and ISP simulation with image-quality metrics.
+2026-10-28T00:26:11Z,hash36,0.1.0,HASH-36 Working Group,MIT,14836,"HASH-36-KDF : Argon2id avec séparation de domaine, pepper et rotation."
+2026-10-28T00:26:24Z,opencda-marl,2.2.0,Lihao Guo <leolihao@arizona.edu>,Apache-2.0 AND MIT,20695101,"Cooperative multi-agent RL engine for autonomous driving on CARLA/SUMO: lifecycle, environments, observation/action delivery, registry — algorithms plug in as packages"
+2026-10-28T00:31:16Z,skillmate,12.0.1.dev147,,MIT,51235,"Installer-configurator for portable Agent Skills across Codex, Claude, and OpenCode."
+2026-10-28T00:33:17Z,oblitus,1.0.0,Rodrigo Monteiro Pereira <rmonteiropereira1@gmail.com>,MIT,745476,"Detect sensitive columns, propose and apply masking, noise and anonymization techniques, and generate synthetic data from a schema or a sample."
+2026-10-28T00:35:15Z,veilleur-discord-mcp,0.1.0,NoPaperSpray,MIT,42946,Local Discord MCP server with human approval and backups
+2026-10-28T00:36:40Z,forceupdate,0.1.0,Pauzzle,MIT,644921,"Trouve les dépendances à mettre à jour (versions, failles, fins de vie) et fait les mises à jour : en local, ou par pull request sur GitHub, GitLab et Bitbucket."
+2026-10-28T00:37:03Z,lmstudio-model-control,0.1.2,,,10287,Simple CLI to load/unload models on a local LM Studio server
+2026-10-28T00:37:35Z,bulk-bg-remove,0.1.0,Btike,MIT,2753535,"Remove image backgrounds locally and in bulk: an agent skill for Claude Code, Codex and any agent, plus the engine behind it."
+2026-10-28T00:38:16Z,unk-scanner,0.1.1,Ilja Krasnjanski,MIT,302331,Python CLI and API for static UNK_DeadDrop JavaScript triage (requires Node.js 22+)
+2026-10-28T00:42:04Z,hgreg,1.0.2,,,2242,Biblioteca Python hgreg
+2026-10-28T00:46:31Z,katalyst-plugin-xray,0.1.1a6,eSimplicity,Proprietary,120082,"Katalyst X-Ray plugin — turn loose information into cited claims, and promote them into domain nodes"
+2026-10-28T00:50:19Z,headron-software,3.60.1,,MIT,30779,"AI coding-agent verification: tells agents which commands prove a change and fails the build when one was skipped. Polyglot; CLI, MCP server, git hooks, CI."
+2026-10-28T00:52:29Z,graftql,1.21.0.dev44411,lorrod,MIT,53582,"GraftQL turns your SQLModel definitions into a fully-typed GraphQL API — no schema duplication, no glue code."
+2026-10-28T00:59:28Z,spark-rust-runtime-spark-shuffle-server,0.42.1a4,,Apache-2.0,56751302,Spark Rust multi-environment alpha distribution
+2026-10-28T00:59:51Z,oi-starship-local-governance,0.1.0,Orion Innovation,MIT,122596895,All-in-one Starship Local Governance: runtime + pinned OPA engine binary + coding-agent hooks.
+2026-10-28T01:00:59Z,spark-rust-runtime-spark-sql,0.42.1a4,,Apache-2.0,77515672,Spark Rust multi-environment alpha distribution
+2026-10-28T01:02:09Z,halide-bin,22.0.0,The Halide team <halide-dev@lists.csail.mit.edu>,MIT,246401823,"Python-independent binary components for Halide (libHalide, autoschedulers, generator tools, headers, CMake package files)."
+2026-10-28T01:02:44Z,spark-rust-wasm,0.42.1a4,,Apache-2.0,54780994,Spark Rust multi-environment alpha distribution
+2026-10-28T01:03:30Z,github-apiroute,0.2.0,Doug Youch <dougyouch@gmail.com>,MIT,4691403,"Python clients for GitHub's REST and GraphQL APIs, generated with apiroute from GitHub's published API description and schema."
+2026-10-28T01:03:41Z,halide-runtime,22.0.0,The Halide team <halide-dev@lists.csail.mit.edu>,MIT,681046,"Standalone Halide runtime: load and call precompiled Halide AOT kernels without depending on libHalide (no compiler, no LLVM)."
+2026-10-28T01:08:57Z,nexusbt,0.0.1,coolbress,Apache-2.0,1981,"NexusBT: a point-in-time backtesting, screening and live-tracking engine (placeholder; first real release will be 1.0)."
+2026-10-28T01:10:03Z,langchain-transcriptfetch,0.1.0,TranscriptFetch <support@transcriptfetch.com>,MIT,17854,"LangChain document loader for TranscriptFetch: transcripts of YouTube, TikTok and Instagram videos, whole channels, playlists and searches, chunked for RAG with timestamped citations."
+2026-10-28T01:10:16Z,llama-index-readers-transcriptfetch,0.1.0,TranscriptFetch <support@transcriptfetch.com>,MIT,16428,"LlamaIndex reader for TranscriptFetch: transcripts of YouTube, TikTok and Instagram videos, whole channels, playlists and searches, chunked for RAG with timestamped citations."
+2026-10-28T01:10:49Z,sap-adt-cli,1.5.0,shrek-abaper,MIT,214188,"SAP ADT REST API CLI: read/write ABAP source and metadata, transport request collection (read-only)."
+2026-10-28T01:16:34Z,xploredev,0.2.0,Your Name,,21144,Add your description here
+2026-10-28T01:17:37Z,netlab-topogen,0.6.0,Andrey Golovanov,MIT,209769,Generate NetGraph backbone scenarios from US Census urban areas and TIGER/Line roads.
