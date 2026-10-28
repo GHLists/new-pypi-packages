@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T06:23:20Z,dash-ai-chatbot,1.0.0,Asyntai <hello@asyntai.com>,MIT,17556,"Adds the Asyntai AI chat assistant to a Plotly Dash app. It answers visitor questions from your own content, in more than 80 languages."
+2026-10-28T06:24:44Z,bocai-cli-core,0.2.0,,MIT,38705,Shared core for Bocai CLI products
+2026-10-28T06:26:12Z,svtb,0.1.0,Justin Correll,MIT,28238,"Self-checking SystemVerilog testbench generator: the subset of fault's Tester and magma's port-declaration API that svreal's and msdsl's tests use, for Python versions neither package installs on"
+2026-10-28T06:27:46Z,bocai-studio-cli,0.2.0,,,1623,Bocai CLI for studios
+2026-10-28T06:29:40Z,autoforge-cli,0.1.0a0,Ruoshi Li,MIT,1949020,Autonomous orchestration for AI-driven software development (deterministic controller over Claude Code / OpenCode / gh).
+2026-10-28T06:32:58Z,quantion,0.1.6,,,6499579,Quantion library
+2026-10-28T06:33:36Z,tistory-mcp,0.2.0,jangsejong,MIT,100298,"Unofficial MCP server for Tistory (티스토리) blogs — write, publish and manage posts from Claude, Cursor, VS Code and other MCP clients"
+2026-10-28T06:34:15Z,pdftomd-url-tools,0.1.0,wangneo276-lgtm,MIT,7237,"Free in-browser pdf to md tool. Drop a text PDF, preview Markdown, copy or download—files stay on your device. No account required."
+2026-10-28T06:39:24Z,stealth-scraper-benchmark,0.1.0,Data Engineering & Web Scraping Intelligence,MIT,246292,Stealth Web Scraping & Anti-Bot Infrastructure Benchmark Toolkit
+2026-10-28T06:39:36Z,mashbox,0.0.1,MASHBOX Labs <hello@mashbox.gg>,Apache-2.0,10476,MASHBOX Labs. First release soon.
+2026-10-28T06:39:42Z,yxd-port,0.3.0,,,586079,
+2026-10-28T06:41:35Z,sqlmirror,0.2.0,,,229044,Mirror Jira Cloud into your own Postgres or SQL Server under Data Center table names
+2026-10-28T06:42:01Z,naiyue-rag,0.1.0,,MIT,308534,Local Markdown knowledge retrieval with versioned evidence
+2026-10-28T06:42:05Z,fnloom,0.1.0,Khaled Elsayed <4119211+kelsayed17@users.noreply.github.com>,Apache-2.0,7457637,"A Rust dataflow engine: plain Python functions are nodes, wired by parameter name."
+2026-10-28T06:43:01Z,lucidlog,0.1.2,Malhar Pangarkar <malharpangarkar19@gmail.com>,MIT,45183,Source-aware exception diagnostics with conservative explanations
+2026-10-28T06:45:28Z,mylox,0.8.0,dainan13,MIT,205322,MySQL binlog to PostgreSQL CDC engine with multi-pipeline fan-out and shadow-free schema tracking
+2026-10-28T06:46:24Z,haoke-mcp-server,0.1.0,,,946804,好课在线 后端 OpenAPI 的 MCP Server 示例实现
+2026-10-28T06:50:22Z,pfd-core,0.1.0,PFDkit contributors,MIT,44486,"Typed process flow diagram documents, units, registry, and structural validation"
+2026-10-28T06:52:48Z,streamlit-ai-chatbot,1.0.0,Asyntai <hello@asyntai.com>,MIT,15503,"Adds the Asyntai AI chat assistant to a Streamlit app. It answers visitor questions from your own content, in more than 80 languages."
+2026-10-28T06:53:27Z,heng-agent,0.3.0,抓蛙师,Apache-2.0,519418,中文优先的终端编码智能体：读代码、改代码、跑命令；支持 DeepSeek、Kimi、通义、GLM、Claude 等，兼容 Claude Code 配置
+2026-10-28T06:53:35Z,praxo-core,0.2.1,AxisVela,MIT,98300,Python SDK for the PRAXO-CORE agent contract
+2026-10-28T06:57:33Z,kombu-eventbus,0.1.0,Kaiyrkhan,MIT,15853,"Small event bus over RabbitMQ: a shared JSON envelope, confirmed publishing and a reconnecting consumer. Python counterpart of khandroider/laravel-eventbus."
+2026-10-28T06:57:45Z,mmccli,0.1.0,MangoFanFanw,,54847,Minecraft Java Edition Manager in Commandline.
+2026-10-28T06:58:17Z,nao-websocket-bridge-protocol,1.0.0,Valentin Schröter Bonk <vasc9380@th-wildau.de>,MIT,14092,Shared message contract for the NAO WebSocket bridge.
+2026-10-28T07:03:29Z,aula-connect,0.0.1,HairingX,GPL-3.0-or-later,193941,"Client for the Danish school platform Aula: MitID login, and the children's profiles, calendars, messages, notifications and weekly plans as typed models."
+2026-10-28T07:11:01Z,synthpop-lib,0.0.0,Synthpop Inc,,1456,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-10-28T07:15:47Z,800bus-mcp,1.0.0,800BUS,MIT,20717,800BUS 公交图片档案站的 MCP 服务（只读）：让 AI 检索档案、资讯、地区、公司、用户公开资料、排行榜与地图标记
+2026-10-28T07:18:51Z,luckylucy.utils.regex.urls,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,13632,A collection of utilities I use across different projects (luckylucy.utils.regex.urls)
+2026-10-28T07:18:55Z,luckylucy.utils.tg-bots.crawl,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,13664,A collection of utilities I use across different projects (luckylucy.utils.tg_bots.crawl)

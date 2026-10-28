@@ -8,30 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 06:19 UTC
+## Latest list — 2026-10-28 07:20 UTC
 
-New packages created between 2026-10-28 05:18 UTC and 2026-10-28 06:19 UTC.
+New packages created between 2026-10-28 06:19 UTC and 2026-10-28 07:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-28T06-19-18-654209Z.csv)
+[Full CSV](data/new-packages-2026-10-28T07-20-47-522896Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-28 05:18:56 | [tensarflows](https://pypi.org/project/tensarflows/) | 0.1.0 |  | 14.1 kB | A Python package containing GAN and RNN-LSTM source code |
-| 2026-10-28 05:28:33 | [warsita](https://pypi.org/project/warsita/) | 0.1.0 |  | 37.1 kB | Official Python client for the Warsita WhatsApp API: send messages, manage sess… |
-| 2026-10-28 05:30:26 | [mcp-freshservice](https://pypi.org/project/mcp-freshservice/) | 2.0.0 | Angel Pandey, Gopi Krishnan,… | 89.2 kB | A Model Context Protocol (MCP) server for the Freshservice ITSM API v2 |
-| 2026-10-28 05:32:50 | [genesis-forge-runtime](https://pypi.org/project/genesis-forge-runtime/) | 1.0.0 | Jeremy Gillick | 66.6 kB | Simulation-free runtime for deploying Genesis Forge policies to real robots. |
-| 2026-10-28 05:32:51 | [mucolor](https://pypi.org/project/mucolor/) | 0.1.0 | Jed Smith <jed.coma316@passma… | 35.1 kB | Minimal pure-python colorimetry: gamuts, transfer functions and colorspace conv… |
-| 2026-10-28 05:38:22 | [langchain-gridpin](https://pypi.org/project/langchain-gridpin/) | 0.1.0 |  | 20.0 kB | LangChain tools for offline geocoding with GridPin: addresses to coordinates an… |
-| 2026-10-28 05:41:25 | [brinkpy](https://pypi.org/project/brinkpy/) | 0.1.0 | Cesar Carrasco | 90.0 kB | Brinkpy CLI for reliability analysis, design optimization, and simulation. |
-| 2026-10-28 05:48:40 | [bmv-cli](https://pypi.org/project/bmv-cli/) | 0.1.0 | Axel Berrelleza | 21.2 kB | CLI tool for Mexican stock market (BMV/BIVA) data via DataBursatil API |
-| 2026-10-28 05:49:47 | [tabsight](https://pypi.org/project/tabsight/) | 0.1.0a1 | tabsight contributors | 7.7 MB | BI-quality charts, world maps and dashboards from a pandas DataFrame. Rule-base… |
-| 2026-10-28 05:52:20 | [ziwei-chart](https://pypi.org/project/ziwei-chart/) | 0.1.0 |  | 62.2 kB | Deterministic Zi Wei Dou Shu (紫微斗数) natal chart casting, outputting versioned J… |
-| 2026-10-28 05:52:31 | [liuyao-chart](https://pypi.org/project/liuyao-chart/) | 0.1.0 |  | 37.4 kB | Deterministic Liuyao (六爻) hexagram casting and chart assembly, outputting versi… |
-| 2026-10-28 05:57:55 | [deltacells](https://pypi.org/project/deltacells/) | 0.1.0 | Cellarium contributors | 5.5 MB | Fast, compact, cloud-friendly tiles of single-cell count matrices: delta-coded… |
-| 2026-10-28 05:58:03 | [aisay-sdk](https://pypi.org/project/aisay-sdk/) | 0.0.0a1 |  | 2.2 kB | Python client for the AISAY v2 API (under development) |
-| 2026-10-28 05:58:13 | [lambdavault](https://pypi.org/project/lambdavault/) | 0.0.1 | Frank Zhang | 1.5 kB | Reserved for https://github.com/cloudformer/lambdavault |
-| 2026-10-28 06:02:11 | [pulumi-nixos-vps](https://pypi.org/project/pulumi-nixos-vps/) | 0.2.0.dev0 |  | 22.3 kB | Remote component adapter for the shared nixos-vps implementation. Unreleased. |
-| 2026-10-28 06:02:40 | [fastapirestframework-tortoise](https://pypi.org/project/fastapirestframework-tortoise/) | 0.0.2 |  | 335.6 kB | DRF-inspired async CRUD framework for FastAPI and Tortoise ORM |
-| 2026-10-28 06:04:32 | [branchix](https://pypi.org/project/branchix/) | 0.1.0 | SoniCore <its.saleem02@gmail.… | 15.5 kB | Print a readable tree of directories and files in your terminal. |
-| 2026-10-28 06:07:19 | [shufler](https://pypi.org/project/shufler/) | 0.3.0 |  | 13.6 MB | A 3D control room for developers who run many AI coding agent sessions at once. |
-| 2026-10-28 06:08:27 | [teardown-cleanroom](https://pypi.org/project/teardown-cleanroom/) | 0.3.0 | Xintian Huang <731913+lemonad… | 576.3 kB | Clean-room, behavior-first analysis of applications: observe black-box, mine fa… |
+| 2026-10-28 06:23:20 | [dash-ai-chatbot](https://pypi.org/project/dash-ai-chatbot/) | 1.0.0 | Asyntai <hello@asyntai.com> | 17.6 kB | Adds the Asyntai AI chat assistant to a Plotly Dash app. It answers visitor que… |
+| 2026-10-28 06:24:44 | [bocai-cli-core](https://pypi.org/project/bocai-cli-core/) | 0.2.0 |  | 38.7 kB | Shared core for Bocai CLI products |
+| 2026-10-28 06:26:12 | [svtb](https://pypi.org/project/svtb/) | 0.1.0 | Justin Correll | 28.2 kB | Self-checking SystemVerilog testbench generator: the subset of fault's Tester a… |
+| 2026-10-28 06:27:46 | [bocai-studio-cli](https://pypi.org/project/bocai-studio-cli/) | 0.2.0 |  | 1.6 kB | Bocai CLI for studios |
+| 2026-10-28 06:29:40 | [autoforge-cli](https://pypi.org/project/autoforge-cli/) | 0.1.0a0 | Ruoshi Li | 1.9 MB | Autonomous orchestration for AI-driven software development (deterministic cont… |
+| 2026-10-28 06:32:58 | [quantion](https://pypi.org/project/quantion/) | 0.1.6 |  | 6.5 MB | Quantion library |
+| 2026-10-28 06:33:36 | [tistory-mcp](https://pypi.org/project/tistory-mcp/) | 0.2.0 | jangsejong | 100.3 kB | Unofficial MCP server for Tistory (티스토리) blogs — write, publish and manage post… |
+| 2026-10-28 06:34:15 | [pdftomd-url-tools](https://pypi.org/project/pdftomd-url-tools/) | 0.1.0 | wangneo276-lgtm | 7.2 kB | Free in-browser pdf to md tool. Drop a text PDF, preview Markdown, copy or down… |
+| 2026-10-28 06:39:24 | [stealth-scraper-benchmark](https://pypi.org/project/stealth-scraper-benchmark/) | 0.1.0 | Data Engineering & Web Scrapi… | 246.3 kB | Stealth Web Scraping & Anti-Bot Infrastructure Benchmark Toolkit |
+| 2026-10-28 06:39:36 | [mashbox](https://pypi.org/project/mashbox/) | 0.0.1 | MASHBOX Labs <hello@mashbox.g… | 10.5 kB | MASHBOX Labs. First release soon. |
+| 2026-10-28 06:39:42 | [yxd-port](https://pypi.org/project/yxd-port/) | 0.3.0 |  | 586.1 kB |  |
+| 2026-10-28 06:41:35 | [sqlmirror](https://pypi.org/project/sqlmirror/) | 0.2.0 |  | 229.0 kB | Mirror Jira Cloud into your own Postgres or SQL Server under Data Center table… |
+| 2026-10-28 06:42:01 | [naiyue-rag](https://pypi.org/project/naiyue-rag/) | 0.1.0 |  | 308.5 kB | Local Markdown knowledge retrieval with versioned evidence |
+| 2026-10-28 06:42:05 | [fnloom](https://pypi.org/project/fnloom/) | 0.1.0 | Khaled Elsayed <4119211+kelsa… | 7.5 MB | A Rust dataflow engine: plain Python functions are nodes, wired by parameter na… |
+| 2026-10-28 06:43:01 | [lucidlog](https://pypi.org/project/lucidlog/) | 0.1.2 | Malhar Pangarkar <malharpanga… | 45.2 kB | Source-aware exception diagnostics with conservative explanations |
+| 2026-10-28 06:45:28 | [mylox](https://pypi.org/project/mylox/) | 0.8.0 | dainan13 | 205.3 kB | MySQL binlog to PostgreSQL CDC engine with multi-pipeline fan-out and shadow-fr… |
+| 2026-10-28 06:46:24 | [haoke-mcp-server](https://pypi.org/project/haoke-mcp-server/) | 0.1.0 |  | 946.8 kB | 好课在线 后端 OpenAPI 的 MCP Server 示例实现 |
+| 2026-10-28 06:50:22 | [pfd-core](https://pypi.org/project/pfd-core/) | 0.1.0 | PFDkit contributors | 44.5 kB | Typed process flow diagram documents, units, registry, and structural validation |
+| 2026-10-28 06:52:48 | [streamlit-ai-chatbot](https://pypi.org/project/streamlit-ai-chatbot/) | 1.0.0 | Asyntai <hello@asyntai.com> | 15.5 kB | Adds the Asyntai AI chat assistant to a Streamlit app. It answers visitor quest… |
+| 2026-10-28 06:53:27 | [heng-agent](https://pypi.org/project/heng-agent/) | 0.3.0 | 抓蛙师 | 519.4 kB | 中文优先的终端编码智能体：读代码、改代码、跑命令；支持 DeepSeek、Kimi、通义、GLM、Claude 等，兼容 Claude Code 配置 |
+| 2026-10-28 06:53:35 | [praxo-core](https://pypi.org/project/praxo-core/) | 0.2.1 | AxisVela | 98.3 kB | Python SDK for the PRAXO-CORE agent contract |
+| 2026-10-28 06:57:33 | [kombu-eventbus](https://pypi.org/project/kombu-eventbus/) | 0.1.0 | Kaiyrkhan | 15.9 kB | Small event bus over RabbitMQ: a shared JSON envelope, confirmed publishing and… |
+| 2026-10-28 06:57:45 | [mmccli](https://pypi.org/project/mmccli/) | 0.1.0 | MangoFanFanw | 54.8 kB | Minecraft Java Edition Manager in Commandline. |
+| 2026-10-28 06:58:17 | [nao-websocket-bridge-protocol](https://pypi.org/project/nao-websocket-bridge-protocol/) | 1.0.0 | Valentin Schröter Bonk <vasc9… | 14.1 kB | Shared message contract for the NAO WebSocket bridge. |
+| 2026-10-28 07:03:29 | [aula-connect](https://pypi.org/project/aula-connect/) | 0.0.1 | HairingX | 193.9 kB | Client for the Danish school platform Aula: MitID login, and the children's pro… |
+| 2026-10-28 07:11:01 | [synthpop-lib](https://pypi.org/project/synthpop-lib/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
+| 2026-10-28 07:15:47 | [800bus-mcp](https://pypi.org/project/800bus-mcp/) | 1.0.0 | 800BUS | 20.7 kB | 800BUS 公交图片档案站的 MCP 服务（只读）：让 AI 检索档案、资讯、地区、公司、用户公开资料、排行榜与地图标记 |
+| 2026-10-28 07:18:51 | [luckylucy.utils.regex.urls](https://pypi.org/project/luckylucy.utils.regex.urls/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 13.6 kB | A collection of utilities I use across different projects (luckylucy.utils.rege… |
+| 2026-10-28 07:18:55 | [luckylucy.utils.tg-bots.crawl](https://pypi.org/project/luckylucy.utils.tg-bots.crawl/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 13.7 kB | A collection of utilities I use across different projects (luckylucy.utils.tg_b… |
