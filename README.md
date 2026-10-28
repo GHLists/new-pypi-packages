@@ -8,36 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 03:18 UTC
+## Latest list — 2026-10-28 04:21 UTC
 
-New packages created between 2026-10-28 02:20 UTC and 2026-10-28 03:18 UTC.
+New packages created between 2026-10-28 03:18 UTC and 2026-10-28 04:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-28T03-18-55-479006Z.csv)
+[Full CSV](data/new-packages-2026-10-28T04-21-43-360719Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-28 02:22:26 | [ipbus](https://pypi.org/project/ipbus/) | 0.5.1 | Gavin Kellam <corigan01@proto… | 5.1 MB | Ipbus protocol and hardware access library for high energy physics projects. |
-| 2026-10-28 02:32:19 | [sister-software-spliterator](https://pypi.org/project/sister-software-spliterator/) | 10.1.1 | Teffen Ellis <teffen@sister.s… | 6.8 MB | Streaming readers for delimited text, CSV, TSV and JSONL with transparent zstd/… |
-| 2026-10-28 02:32:55 | [kkprotocol](https://pypi.org/project/kkprotocol/) | 0.1.0 | kkprotocol contributors | 235.6 kB | Declarative TCP/serial frame codec: parse, build, and self-resync private binar… |
-| 2026-10-28 02:34:18 | [dramapack](https://pypi.org/project/dramapack/) | 0.2.1 | Dawnwood | 201.0 kB | Delivery packages, -14 LUFS mastering, subtitle safe areas, clean masters, loca… |
-| 2026-10-28 02:35:47 | [fresh-fvsbc](https://pypi.org/project/fresh-fvsbc/) | 0.20.0 | UBC FRESH Lab | 188.0 kB | A Python wrapper for the BC variant of the Forest Vegetation Simulator. |
-| 2026-10-28 02:35:51 | [pyside-iconify-mcp](https://pypi.org/project/pyside-iconify-mcp/) | 1.0.0 | jerrylu | 135.0 kB | An MCP server that helps AI assistants write correct pyside-iconify code. |
-| 2026-10-28 02:35:56 | [fresh-fvsbc-pyfvs](https://pypi.org/project/fresh-fvsbc-pyfvs/) | 0.3.11 | Tod Haren <2239672+tharen@use… | 12.1 MB | Python wrappers and utilities for using the Forest Vegetation Simulator |
-| 2026-10-28 02:37:10 | [ztna](https://pypi.org/project/ztna/) | 0.0.1 | Frank Zhang | 1.4 kB | Reserved for https://github.com/cloudformer/ztna |
-| 2026-10-28 02:40:06 | [codelaw-rules-html](https://pypi.org/project/codelaw-rules-html/) | 0.2.0 |  | 89.2 kB | codelaw's rules for HTML (SR-RULE-PACKS) |
-| 2026-10-28 02:40:08 | [codelaw-rules-js](https://pypi.org/project/codelaw-rules-js/) | 0.2.0 |  | 79.6 kB | codelaw's rules for JavaScript, and the core JavaScript rules on TypeScript, JS… |
-| 2026-10-28 02:40:10 | [codelaw-rules-python](https://pypi.org/project/codelaw-rules-python/) | 0.2.0 |  | 98.2 kB | codelaw's rules for Python; PyPI only (SR-RULE-PACKS) |
-| 2026-10-28 02:40:12 | [codelaw-rules-react](https://pypi.org/project/codelaw-rules-react/) | 0.2.0 |  | 26.3 kB | codelaw's React rules, from eslint-plugin-react and eslint-plugin-react-hooks (… |
-| 2026-10-28 02:40:48 | [tabpull](https://pypi.org/project/tabpull/) | 0.1.0 | Jeremy Castro <160854558+jer-… | 138.2 kB | Export Tableau dashboard sheet crosstabs with filters |
-| 2026-10-28 02:43:42 | [vaultgenome](https://pypi.org/project/vaultgenome/) | 0.12.0 | Serhii Nikolaichuk, Rodion So… | 102.8 kB | Vault Genome: the auditor's verifier of the audit log, and the model side of a… |
-| 2026-10-28 02:45:56 | [fiftyone-ipintelligence-cloud](https://pypi.org/project/fiftyone-ipintelligence-cloud/) | 0.0.1 | 51Degrees Engineering | 5.9 kB | 51Degrees IP Intelligence resolves an IP address to detailed location, network… |
-| 2026-10-28 02:47:32 | [bom-weather-api](https://pypi.org/project/bom-weather-api/) | 0.1.0 | Ruaan Deysel <ruaan.deysel@gm… | 61.0 kB | Async Python client for the Australian Bureau of Meteorology weather API |
-| 2026-10-28 02:48:05 | [mech-council](https://pypi.org/project/mech-council/) | 0.1.0 | Connor Pietrasik <connorgpiet… | 330.5 kB | A council of coding agents that review a project or plan a task together. |
-| 2026-10-28 02:48:15 | [kovidgoyal-langtool](https://pypi.org/project/kovidgoyal-langtool/) | 1.0.0 |  | 18.1 MB | Grammar and style checking based on the LanguageTool rules: a port of the Langu… |
-| 2026-10-28 02:50:54 | [dottide](https://pypi.org/project/dottide/) | 0.2.0 | Dotbrain LLC <hello@dotbrainh… | 94.9 kB | Read-only numbers for every site and product you run, across Google accounts, f… |
-| 2026-10-28 02:51:09 | [bookmypass-sdk](https://pypi.org/project/bookmypass-sdk/) | 1.0.0 | BookMyPass Team <contact@book… | 5.4 kB | Official Python SDK for BookMyPass - Event Booking and Ticket Verification Plat… |
-| 2026-10-28 03:00:06 | [PrintGuard_Aholo](https://pypi.org/project/PrintGuard_Aholo/) | 0.5.0 |  | 67.5 kB | PrintGuard —— FDM 打印件的生成→可制造性校核→修复→交付（Lux3D + 几何工具链），MCP Server 形态 |
-| 2026-10-28 03:01:23 | [lsdtools](https://pypi.org/project/lsdtools/) | 1.0.0rc2 | LSD | 558.5 kB | Install exact signed LSD runtimes and run projects, packages and scripts in them |
-| 2026-10-28 03:10:48 | [ngfw](https://pypi.org/project/ngfw/) | 0.0.1 | Frank Zhang | 1.4 kB | Reserved for https://github.com/cloudformer/ngfw |
-| 2026-10-28 03:10:49 | [sdwan](https://pypi.org/project/sdwan/) | 0.0.1 | Frank Zhang | 1.4 kB | Reserved for https://github.com/cloudformer/sdwan |
-| 2026-10-28 03:16:28 | [biliz](https://pypi.org/project/biliz/) | 0.18.9 | HFrost0 <hhlfrost@gmail.com> | 132.7 kB | ⚡️Lightning-fast asynchronous download tool for bilibili and more |
+| 2026-10-28 03:18:54 | [redvx](https://pypi.org/project/redvx/) | 0.1.0 | lumpenspace | 567.8 kB | Dynamic control vectors for transformer models: extraction, calibration, prefil… |
+| 2026-10-28 03:19:02 | [sea-agent-session](https://pypi.org/project/sea-agent-session/) | 0.1.0 | SeaArt | 26.1 kB | Python SDK for SeaArt agent-gateway session history and memory APIs |
+| 2026-10-28 03:19:42 | [sea-rag-sdk](https://pypi.org/project/sea-rag-sdk/) | 0.1.1 | SeaArt | 34.1 kB | Python SDK for SeaArt RAG and RAGFlow APIs |
+| 2026-10-28 03:21:39 | [epistemic-ledger](https://pypi.org/project/epistemic-ledger/) | 0.12.0 | Axiovex Systems, LLC | 92.6 kB | A living epistemic ledger: append-only conclusions with fluid certainty scores,… |
+| 2026-10-28 03:23:06 | [obelisk-ffb](https://pypi.org/project/obelisk-ffb/) | 0.1.0 | VSimCraft | 89.5 kB | Linux settings tool for the VNM Xtreme 32 Nm direct-drive wheelbase (GTK4 + lib… |
+| 2026-10-28 03:25:34 | [concurim](https://pypi.org/project/concurim/) | 1.0.0 | Concurim contributors | 2.5 MB | See how Python runs together: record and replay concurrent execution. |
+| 2026-10-28 03:30:14 | [findura](https://pypi.org/project/findura/) | 0.1.0 |  | 74.1 kB | Common inspection ontology and deterministic agent harness OSS core |
+| 2026-10-28 03:35:40 | [elfdeckai](https://pypi.org/project/elfdeckai/) | 1.0.6 |  | 57.4 kB |  |
+| 2026-10-28 03:38:35 | [nextx-sdk](https://pypi.org/project/nextx-sdk/) | 0.1.0b5 | NextX <support@nextx.vn> | 726.3 kB | NextX API cho Python — sinh từ OpenAPI công khai, có kiểu đầy đủ |
+| 2026-10-28 03:43:22 | [token-context-mcp](https://pypi.org/project/token-context-mcp/) | 0.3.5 | Token Context MCP contributors | 565.7 kB | On-demand, local code-context MCP server for AI coding agents with Tree-sitter… |
+| 2026-10-28 03:44:46 | [ablation-workbench](https://pypi.org/project/ablation-workbench/) | 0.2.1 | Ablation contributors | 644.6 kB | A local CLI and review GUI for reproducible prompt experiments |
+| 2026-10-28 03:49:58 | [backtest-overfitting](https://pypi.org/project/backtest-overfitting/) | 1.1.1 | Anupam Patil | 28.8 kB | Detect when a backtest is fooling you: Deflated Sharpe Ratio, Probability of Ba… |
+| 2026-10-28 03:50:45 | [slbt](https://pypi.org/project/slbt/) | 0.2.0 |  | 353.0 kB | Semantic Layer Build Tool: compile transformation logic and metadata to dbt and… |
+| 2026-10-28 03:52:08 | [raindrop-mcp](https://pypi.org/project/raindrop-mcp/) | 0.0.1 | Raindrop AI <sdk@raindrop.ai> | 51.0 kB | Raindrop instrumentation for Python MCP servers: one event per turn, one tool s… |
+| 2026-10-28 03:52:30 | [couchdb-sdk](https://pypi.org/project/couchdb-sdk/) | 0.7.0 | Esteban Laver | 260.1 kB | Apache CouchDB API |
+| 2026-10-28 03:53:43 | [bankstatementconverter](https://pypi.org/project/bankstatementconverter/) | 1.0.0 |  | 17.7 kB | Convert PDF bank statements to CSV or JSON from the command line, using the Ban… |
+| 2026-10-28 03:56:51 | [agni-eda](https://pypi.org/project/agni-eda/) | 0.3.12 |  | 233.8 kB | Typed Python client for the agni EDA engine, over its CLI or its Connect API |
+| 2026-10-28 04:04:12 | [a11ypdf](https://pypi.org/project/a11ypdf/) | 0.0.1 |  | 2.3 kB | Placeholder for the a11ypdf accessible-by-default PDF API client. Not released… |
+| 2026-10-28 04:11:27 | [crypto-time-machine](https://pypi.org/project/crypto-time-machine/) | 0.1.2 | Liu Tianhe <research@fibemate… | 25.0 kB | Trace when a crypto API entered your git history, and what it touched. |
+| 2026-10-28 04:14:19 | [honestly](https://pypi.org/project/honestly/) | 0.3.0 |  | 86.2 kB | Audit how often your coding agent claims work it never verified. Reads Claude C… |
+| 2026-10-28 04:16:01 | [reflex-privatus](https://pypi.org/project/reflex-privatus/) | 0.1.0 | Two Phase LLC <james@privatus… | 15.7 kB | Cookieless Privatus Analytics for Reflex apps: the tracking script in the page… |

@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T03:18:54Z,redvx,0.1.0,lumpenspace,MIT,567768,"Dynamic control vectors for transformer models: extraction, calibration, prefill-gated steering, and deployment"
+2026-10-28T03:19:02Z,sea-agent-session,0.1.0,SeaArt,MIT,26089,Python SDK for SeaArt agent-gateway session history and memory APIs
+2026-10-28T03:19:42Z,sea-rag-sdk,0.1.1,SeaArt,MIT,34133,Python SDK for SeaArt RAG and RAGFlow APIs
+2026-10-28T03:21:39Z,epistemic-ledger,0.12.0,"Axiovex Systems, LLC",MIT,92617,"A living epistemic ledger: append-only conclusions with fluid certainty scores, revised as new facts arrive."
+2026-10-28T03:23:06Z,obelisk-ffb,0.1.0,VSimCraft,GPL-3.0-or-later,89459,Linux settings tool for the VNM Xtreme 32 Nm direct-drive wheelbase (GTK4 + libadwaita)
+2026-10-28T03:25:34Z,concurim,1.0.0,Concurim contributors,MIT,2471301,See how Python runs together: record and replay concurrent execution.
+2026-10-28T03:30:14Z,findura,0.1.0,,Apache-2.0,74093,Common inspection ontology and deterministic agent harness OSS core
+2026-10-28T03:35:40Z,elfdeckai,1.0.6,,,57396,
+2026-10-28T03:38:35Z,nextx-sdk,0.1.0b5,NextX <support@nextx.vn>,MIT,726345,"NextX API cho Python — sinh từ OpenAPI công khai, có kiểu đầy đủ"
+2026-10-28T03:43:22Z,token-context-mcp,0.3.5,Token Context MCP contributors,MIT,565682,"On-demand, local code-context MCP server for AI coding agents with Tree-sitter AST & provenance-aware retrieval."
+2026-10-28T03:44:46Z,ablation-workbench,0.2.1,Ablation contributors,MIT,644591,A local CLI and review GUI for reproducible prompt experiments
+2026-10-28T03:49:58Z,backtest-overfitting,1.1.1,Anupam Patil,MIT,28753,"Detect when a backtest is fooling you: Deflated Sharpe Ratio, Probability of Backtest Overfitting (CSCV), minimum backtest length."
+2026-10-28T03:50:45Z,slbt,0.2.0,,MIT,353022,Semantic Layer Build Tool: compile transformation logic and metadata to dbt and AI-friendly JSON
+2026-10-28T03:52:08Z,raindrop-mcp,0.0.1,Raindrop AI <sdk@raindrop.ai>,MIT,50960,"Raindrop instrumentation for Python MCP servers: one event per turn, one tool span per call, for any FastMCP / MCPServer."
+2026-10-28T03:52:30Z,couchdb-sdk,0.7.0,Esteban Laver,Apache-2.0,260070,Apache CouchDB API
+2026-10-28T03:53:43Z,bankstatementconverter,1.0.0,,MIT,17727,"Convert PDF bank statements to CSV or JSON from the command line, using the Bank Statement Converter API"
+2026-10-28T03:56:51Z,agni-eda,0.3.12,,Apache-2.0,233768,"Typed Python client for the agni EDA engine, over its CLI or its Connect API"
+2026-10-28T04:04:12Z,a11ypdf,0.0.1,,,2264,Placeholder for the a11ypdf accessible-by-default PDF API client. Not released yet.
+2026-10-28T04:11:27Z,crypto-time-machine,0.1.2,Liu Tianhe <research@fibemate.net>,Apache-2.0,25035,"Trace when a crypto API entered your git history, and what it touched."
+2026-10-28T04:14:19Z,honestly,0.3.0,,MIT,86169,"Audit how often your coding agent claims work it never verified. Reads Claude Code and Codex session logs. Deterministic rules, no LLM."
+2026-10-28T04:16:01Z,reflex-privatus,0.1.0,Two Phase LLC <james@privatusanalytics.com>,MIT,15704,Cookieless Privatus Analytics for Reflex apps: the tracking script in the page head and a track() event helper.
