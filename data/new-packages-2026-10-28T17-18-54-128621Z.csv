@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T16:18:28Z,bpdrift,0.1.0,Md Omar Faruqe <faruqe@ru.ac.bd>,MIT,91456,"Version-pinned interpretation of MIC values under EUCAST breakpoints, from the user's own breakpoint tables"
+2026-10-28T16:20:47Z,twinrobo-core,0.1.0,TwinRobo contributors,AGPL-3.0-only AND Apache-2.0,362049,TwinRobo: physically grounded digital twins of real cameras for robot learning in simulation.
+2026-10-28T16:22:02Z,keptvow,0.1.0,Keptvow <support@keptvow.com>,MIT,12142,"Check who your AI agent is about to pay before an x402 payment goes out: ok, careful or stop."
+2026-10-28T16:22:50Z,kineviz-database-proxy,1.1.4,"Sean Li <sean@kineviz.com>, Kineviz <support@kineviz.com>",MIT,4964230,Kineviz Database Proxy - Secure middleware for connecting GraphXR to databases
+2026-10-28T16:22:52Z,rnds,0.1.0,Voa Health,Apache-2.0,604508,Identificadores e códigos da RNDS em uma biblioteca Python offline.
+2026-10-28T16:23:10Z,wagtail-simple-forum,0.1.0,Vladimir Tarasov,,122691,"Lightweight, responsive forum with private messaging, anti-spam, and Wagtail admin integration."
+2026-10-28T16:25:40Z,pkcm,0.0.1,,,8345198,
+2026-10-28T16:25:43Z,cichuan-pool,0.1.0.dev0,ZhangRui,Apache-2.0,63204,cichuan-pool — agent-first task pool (local-first CLI core)
+2026-10-28T16:26:32Z,env-pass,0.1.1,pio4000,,10123,A small tool for generating env files extracted from Proton pass secrets.
+2026-10-28T16:26:38Z,langchain-oddsrelay,0.1.0,OddsRelay <hello@oddsrelay.io>,MIT,32632,"LangChain tools for OddsRelay: bookmaker and exchange odds for the UK & Ireland, with a token cap on every call that spends tokens."
+2026-10-28T16:27:47Z,flashim,0.1.0,lnexenl,Apache-2.0 AND MIT AND LicenseRef-DINOv3,731335,"FlashIM: fast, quantized, multi-platform inference for image matching"
+2026-10-28T16:31:42Z,cdt-kit,0.1.0,fromerobr-ai,,52825,"Server-side app kit of the Controlled Delivery Toolkit: config, migrations, jobs and HTTP basics"
+2026-10-28T16:31:58Z,td-sequential,1.0.0,Moolish <support@moolish.com>,MIT,128314,"TD Sequential indicator for Python: TD9 setup, countdown 13 and TDST levels on OHLC candles. Tested, zero dependencies."
+2026-10-28T16:33:32Z,darm-vol,0.1.0,Callum Connell,MIT,52790,Decaying AutoRegressive Memory models for finite-memory conditional volatility
+2026-10-28T16:33:40Z,proa-docs,0.1.1,"Proa Labs, Inc.",Apache-2.0,18119,Official Proa Rust framework documentation SDK and CLI
+2026-10-28T16:37:28Z,jupyterlab-v3-codio-ext,0.1.32,codio <support@codio.com>,"BSD 3-Clause License Copyright (c) 2024, codio All rights reserved. Redistribution and use in sourc…",38915,A JupyterLab v3 extension to interact with codio.
+2026-10-28T16:39:35Z,majestic-beats,0.3.1,,,18555,Programmatic drum loop generator
+2026-10-28T16:40:41Z,minelastic,0.1.0,"Utkarsh Singh, Sergei I. Simak",MIT,260171,"Elastic constants from minimal uncoupled stress-strain calculations (VASP, Quantum ESPRESSO, ABINIT, FHI-aims, any ASE calculator)"
+2026-10-28T16:41:00Z,deepinfer-sm86,0.1.0,DeepInfer-SM86 contributors,Apache-2.0,178248,Native streaming DeepSeek-V2-Lite GGUF MoE and paged MLA primitives for memory-constrained CUDA GPUs
+2026-10-28T16:42:52Z,chengyu-coach-mcp,1.0.0,chengyu-coach-mcp contributors,MIT,1162037,成语学习 MCP 服务器：随机抽词、查询抽中次数、记录掌握状态与备注
+2026-10-28T16:43:06Z,jarvix-harness,0.2.2,loctvl842 <loclepnvx@gmail.com>,MIT,13487,Jarvix harness adapters: everything specific to one coding agent CLI
+2026-10-28T16:43:09Z,a2ztools,1.0.0,A2Z Tools <app@a2z.tools>,MIT,18687,"Free API client for website checks: SSL certificate expiry, DNS, WHOIS (RDAP), SPF, DKIM, DMARC, security headers, robots.txt, llms.txt and more."
+2026-10-28T16:43:26Z,iraqdata,1.0.0,Hussein Khalid,MIT,91680,"Open, documented, and reproducible macroeconomic data package for Iraq"
+2026-10-28T16:43:54Z,tol-palettes,0.2.0,kidthales,BSD-3-Clause,23384,"Paul Tol colour scheme data and generators for accessible, colorblind-safe palettes."
+2026-10-28T16:45:51Z,selfheal-api,1.0.0rc1,Ruchir Adnaik,Apache-2.0,1228093,"Watches a FastAPI app's telemetry, decides when an error is safe to fix, and drives a ticket-based, human-approved fix flow."
+2026-10-28T16:45:56Z,migratarr,0.1.0rc1,,"MIT License Copyright (c) 2026 Josh Wilcox Permission is hereby granted, free of charge, to any per…",524759,"Moves Radarr/Sonarr media between storage tiers by how hard it is to re-acquire, where it streams and how it is watched; every move is approved first."
+2026-10-28T16:50:48Z,traffic-twin,0.1.0,traffic-twin maintainers,Apache-2.0,260801,traffic-twin capture SDK for Python: sanitizes HTTP exchanges in process and exports them to tt-core over mTLS.
+2026-10-28T16:52:05Z,build-wagtail,0.1.0,Kailash Nadh,,13754,Dockerise a Wagtail project in place with one command.
+2026-10-28T16:52:22Z,fram-agent,0.4.8.1,,MIT,613865,Fram: a fork of the Tau coding-agent harness.
+2026-10-28T16:52:30Z,livekit-wakeword-bench,0.1.0,Binh Pham <binh.pham@livekit.io>,Apache-2.0,170979,Generate wake word datasets (LiveKit Inference TTS + real noise) and benchmark any wake word model
+2026-10-28T16:52:54Z,breakwire,0.1.0,Breakwire,MIT,28047,"Look up an API/SDK error and get the source-linked breaking change, deprecation or advisory that explains it, with the fix. Stdlib only."
+2026-10-28T16:53:54Z,silentparams,0.1.0,novasdiego1,MIT,20807,Find HTTP APIs that silently ignore misspelled query parameters
+2026-10-28T16:54:11Z,langchain-breakwire,0.1.0,Breakwire,MIT,10695,"LangChain tools and callback handler for Breakwire: look up API/SDK errors and get the source-linked change that explains them, with the fix."
+2026-10-28T16:54:33Z,espressomail,0.1.0,Kim Schulz <kim@schulz.dk>,"MIT License Copyright (c) 2026 Kim Schulz Permission is hereby granted, free of charge, to any pers…",268062,"A modern, multi-account terminal email client built on the Espresso TUI framework (The Elm Architecture)."
+2026-10-28T16:56:00Z,falcocv,1.0.0,FalcoCV contributors,GPL-3.0-or-later,12571409,Modular industrial machine vision environment with a DAG workflow engine and web HMI
+2026-10-28T16:56:06Z,pytest-agent-chaos,0.1.2,Aditya Iyer,MIT,82957,Deterministic chaos engineering and fault-injection plugin for multi-agent LLM workflows and tool-calling pipelines.
+2026-10-28T16:58:44Z,stupidness-ragsu,0.1.0,,,2131,A scientifically questionable stupidity calculator
+2026-10-28T16:59:37Z,cerbere-session,0.1.0,Nicolas Graves <ngraves@ngraves.fr>,GPL-3.0-or-later,36614,Log in to the ministry's Cerbère SSO with curl alone and keep a reusable cookie session
+2026-10-28T17:01:15Z,slashml-memory,1.0.0,SlashML Inc.,Apache-2.0,44790,/ ml (SlashML): Sub-Millisecond Stateful Agent & Code Memory Python SDK
+2026-10-28T17:01:17Z,slashml-eval,1.0.0,SlashML Team <engineering@slashml.ai>,Apache-2.0,6427,"Public Benchmark Verification CLI for SlashML (LongMemEval, LoCoMo, ConvoMem)"
+2026-10-28T17:03:07Z,shiza,0.2.0,,MIT,32239,"SHIZA Secrets: load .env secrets from your SHIZA vault at runtime, or pull, push and run with them from the CLI"
+2026-10-28T17:04:16Z,pyuncommonkit,0.1.0,Sean D. True,MIT,64012,"Named shared-memory segments for numpy arrays: publish once, attach from any process."
+2026-10-28T17:08:12Z,keelyard,1.0.0,Akobir Tulqinov,Apache-2.0,3912794,"Proof-of-work gate, rewind, helper swarm, usage saver and shared memory for Claude Code, Codex and OpenCode."
+2026-10-28T17:08:43Z,zhuye,0.1.1,ZhuYe Contributors,MIT,31450,ZhuYe Agent SDK for Python: spawn `zhuye serve` and drive it over JSONL stdio.
+2026-10-28T17:09:53Z,shield-kya,0.17.0,MFR Limited,MIT,104757,Audit trail and traceability for AI agents. In-process kya shim for Python agent frameworks (offline evaluate via the kya CLI).
+2026-10-28T17:09:56Z,vennql,0.1.0,Ayush & VennQL Contributors,,38992,"The Zero-Copy, High-Throughput Binary API Framework & Protocol for Python"
+2026-10-28T17:12:52Z,fairdm,0.3.0,Samuel Jennings,MIT,1594158,A Django framework for building FAIR research data portals with minimal code
+2026-10-28T17:13:35Z,authordoc,0.1.0,,Apache-2.0,12531,.author files sdk
+2026-10-28T17:14:57Z,agdapm,0.0.1,Demetrius <illegalbassmedicine@proton.me>,MIT,18023,A small package manager for Agda
+2026-10-28T17:15:33Z,bec-slurm-manager,1.0.1,,,1903030,A tool for managing slurm jobs.
+2026-10-28T17:18:49Z,jupyter-notebook-codio-ext,0.1.16,,,14987,
