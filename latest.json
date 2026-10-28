@@ -1,55 +1,55 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-10-28T13:18:21.21649Z",
-    "path": "data/new-packages-2026-10-28T14-18-33-39715Z.csv",
-    "to": "2026-10-28T14:18:33.39715Z"
+    "count": 54,
+    "from": "2026-10-28T14:18:33.39715Z",
+    "path": "data/new-packages-2026-10-28T15-19-17-376699Z.csv",
+    "to": "2026-10-28T15:19:17.376699Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-28T10:32:53Z",
-      "package": "airflow-provider-cimpal",
-      "since": "2026-10-28T10:18:41.984767Z",
+      "attempts": 1,
+      "created_at": "2026-10-28T14:55:20Z",
+      "package": "amd-rack-scraper",
+      "since": "2026-10-28T14:18:33.39715Z",
       "version": null
     },
     {
-      "attempts": 1,
-      "created_at": "2026-10-28T14:17:43Z",
-      "package": "anndata-rs",
-      "since": "2026-10-28T13:18:21.21649Z",
-      "version": "0.6.1"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-28T12:11:09Z",
       "package": "jupyter-gridlook",
       "since": "2026-10-28T11:19:39.713233Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-28T12:43:18Z",
       "package": "langchain-antfly",
       "since": "2026-10-28T12:19:25.557491Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-28T12:43:41Z",
       "package": "langgraph-store-antfly",
       "since": "2026-10-28T12:19:25.557491Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-28T12:05:31Z",
       "package": "pinglet",
       "since": "2026-10-28T11:19:39.713233Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-28T14:35:09Z",
+      "package": "sisu-ufmg-notas-de-corte",
+      "since": "2026-10-28T14:18:33.39715Z",
+      "version": null
     }
   ],
-  "serial": 42869352,
+  "serial": 42872250,
   "source_truncated": false,
-  "window": "2026-10-28T14:18:33.39715Z"
+  "window": "2026-10-28T15:19:17.376699Z"
 }

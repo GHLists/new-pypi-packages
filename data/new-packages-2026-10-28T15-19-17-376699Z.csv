@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T14:17:43Z,anndata-rs,0.6.1,Kai Zhang <zhangkai33@westlake.edu.cn>,,199825439,
+2026-10-28T14:19:11Z,ctk-kit,0.2.0,加点盐 <1431705288@qq.com>,MIT,70228,面向 CustomTkinter 的轻量界面基件：深浅色令牌、常用控件与懒加载列表
+2026-10-28T14:20:30Z,g4a,1.2.0,Guidelines for All contributors,Elastic-2.0,4580,Alias for guidelines-for-all: installs Guidelines for All and its g4a command
+2026-10-28T14:23:31Z,credencegraph-extract,0.1.0,Isaac C. F. Wong,,400997,"Tools an agent uses to build a credencegraph graph of a paper: every call recorded, replayable and checkable"
+2026-10-28T14:25:43Z,amagi-tokbench,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,684009,"One command to benchmark a local LLM server (Ollama, llama.cpp, vLLM): prompt and generation tokens/sec, time to first token, peak VRAM, written as a markdown + PNG card you can paste anywhere."
+2026-10-28T14:26:55Z,claude-relay-server,3.0.0,A Anandha Krishnan,MIT,128244,"Claude Code API server: OpenAI- and Anthropic-compatible endpoints for Claude Code, using your Claude subscription"
+2026-10-28T14:27:38Z,dagster-anakin,0.1.0,Anakin <support@anakin.io>,Apache-2.0,48965,"Dagster resource and asset factory for Anakin: scrape, crawl, search, Wire site actions, website monitors and AI browser tasks"
+2026-10-28T14:29:01Z,django-tasks-amazon-sqs,0.1.0,Shinya Okano <tokibito@gmail.com>,MIT,48957,An Amazon SQS backend for Django 6.0's built-in task framework
+2026-10-28T14:31:13Z,ytmoments,1.0.0,,,35633,Moment Map Generations of Volumetric Simulation Data
+2026-10-28T14:33:05Z,zhihu-mcp,0.3.0,KrisTHL181 <KrisTHL181@outlook.com>,MIT,6083,"MCP server for Zhihu — one typed tool per CLI command, plus the zhihu_help and zhihu_run escape hatches. A thin alias for zhihu-toolkit[mcp]."
+2026-10-28T14:33:33Z,isard-map,0.1.0,IGN,MIT,211507,"isard maps in Jupyter: the IGN's WebGL2 map engine (globe, relief, 3D Tiles, vector tiles) as a notebook widget"
+2026-10-28T14:35:18Z,vexfox,0.1.0,Vexfox Maintainers,MIT,58047,"Deterministic HTTP interaction recording, sanitization, and replay for Python tests."
+2026-10-28T14:35:35Z,nexus-ja-data,0.2.0,NEXUS tools,MIT,34628,"Normalize Japanese company names, phones, addresses, era dates and dedupe records. Local, stdlib."
+2026-10-28T14:35:36Z,jp-ocr-date-fix,0.1.0,NEXUS tools,MIT,21132,Repair Japanese dates broken by OCR (今和→令和) and keep only fixes valid on the calendar.
+2026-10-28T14:35:37Z,jp-kansuji-guard,0.1.0,NEXUS tools,MIT,33909,"Convert Japanese kanji numerals to digits without breaking names, places or idioms."
+2026-10-28T14:35:39Z,jp-invoice-check,0.1.0,NEXUS tools,MIT,26589,"Check Japanese qualified invoices: six required items, per-rate totals, tax rounded once per rate."
+2026-10-28T14:36:44Z,apyhiveapi,0.1.5,Tom Wilkie,MIT,77072,An async Python library to interface with the Hive API
+2026-10-28T14:38:23Z,affixio-adk,0.1.0,AffixIO <kris@affix-io.com>,,6708,Fail-closed AffixIO authorization guard for Google ADK tools.
+2026-10-28T14:38:53Z,aas-core3.2,1.0.0rc1,"Marko Ristin <marko@ristin.ch>, Tobias Langer <tobias.langer@conplement.de>",MIT,1267554,"Manipulate, verify and de/serialize Asset Administration Shells v3.2."
+2026-10-28T14:40:15Z,regnets,0.1.0,Ivan Slepovichev,MIT,76337,Topology and PyTorch models for self-similar modular neural networks
+2026-10-28T14:44:56Z,sisu-ufmg-notas-de-corte-dados,1.0.0,AndreIsraelAO,MIT,2925999,"Dataset completo das notas de corte do SISU/UFMG, 2014-2026 (somente os dados, sem os scripts de análise)"
+2026-10-28T14:46:54Z,deeptutor-audio-overview,1.7.0,,,8999,DeepTutor audio-overview module
+2026-10-28T14:47:35Z,edgesql,0.1.0,Raphael Mansuy,Apache-2.0,101212,EdgeSQL changes SQL on a typed tree for Postgres and Databricks.
+2026-10-28T14:49:12Z,testpick,0.2.0,,MIT,50296,Pick the tests affected by your git diff before you run them
+2026-10-28T14:50:14Z,deeptutor-books,1.7.0,,,170613,DeepTutor books module
+2026-10-28T14:51:06Z,myopic-mces-cpp,1.3.2,,"MIT License Copyright (c) 2020 AlBi-HHU Permission is hereby granted, free of charge, to any person…",2452777,Faster bounds (C++) for the myopic-mces package
+2026-10-28T14:51:56Z,deeptutor-calendar,1.7.0,,,31552,DeepTutor calendar module
+2026-10-28T14:52:14Z,touchdb-ai,2.0.2,TouchDB AI Team <contact@touchdb.ai>,,861984,TouchDB AI - Generate SQL queries and perform data analytics using autonomous agents
+2026-10-28T14:52:30Z,neurotic-docx-bench,1.0.0,Arthur Souza Rodrigues <arthursrodrigues@gmail.com>,AGPL-3.0-only,4544094,"A benchmark for manipulating docx files and assessing their fidelity to Microsoft Word(R), the oracle."
+2026-10-28T14:55:43Z,PyQt6-CanvasPainter-Qt6,6.12.0,Riverbank Computing Limited,GPL v3,3184052,The subset of a Qt installation needed by PyQt6-CanvasPainter.
+2026-10-28T14:56:17Z,sensorium,0.1.0,Phoenix Defense AI Team <dev@phoenix-adt.mil>,Proprietary,2778226,"Phoenix Sensorium Hardware & Ingestion Engine: High-Frequency, Multi-Modal Sensor Ingestion, Normalization, and Time-Alignment Framework"
+2026-10-28T14:58:05Z,operset,0.0.2,Operset <hello@operset.com>,Apache-2.0,11128,"Reserved for the Operset CLI. PostgreSQL change verification, coming soon at operset.com"
+2026-10-28T14:58:13Z,deeptutor-cli,1.7.0,,,1050,DeepTutor cli module
+2026-10-28T14:59:55Z,hinglish-subtitles,1.0.0,Gauji-Boy <sushanthcs2004@gmail.com>,AGPL-3.0-or-later,13541452,"Conversational Hinglish ASR subtitle generator with synchronized kinetic karaoke, 2026 short-form safe zones, and local hardware-accelerated video burning."
+2026-10-28T15:00:06Z,deeptutor-co-writer,1.7.0,,,52237,DeepTutor co-writer module
+2026-10-28T15:00:52Z,deeptutor-knowledge,1.7.0,,,490216,DeepTutor knowledge module
+2026-10-28T15:04:16Z,langchain-obscurify,0.1.0,"""Obscurify.ai"" <contact@obscurify.ai>",MIT,15175,"LangChain chat model for Obscurify.ai, a private AI API (OpenAI-compatible)"
+2026-10-28T15:04:39Z,deeptutor-mastery,1.7.0,,,269925,DeepTutor mastery module
+2026-10-28T15:05:03Z,deeptutor-memory,1.7.0,,,104808,DeepTutor memory module
+2026-10-28T15:07:02Z,deeptutor-notebook,1.7.0,,,13852,DeepTutor notebook module
+2026-10-28T15:07:24Z,scquare,0.0.1,Michael Davidson,,3100,"A single-cell tool, in development. This release is a placeholder that holds the name and contains no code."
+2026-10-28T15:07:37Z,deeptutor-parser-docling,1.7.0,,,1215,DeepTutor parser-docling module
+2026-10-28T15:10:07Z,evigauge-trace,0.1.0a25,Evigauge,Apache-2.0,374952,Pluggable reasoning-trace observability for LLM applications
+2026-10-28T15:10:44Z,proxmint,0.1.0,Proxmint <support@proxmint.com>,MIT,16221,"Free proxy list re-checked every 30 minutes, with rotating-proxy middleware for aiohttp and a rotating transport for httpx."
+2026-10-28T15:11:24Z,deeptutor-parser-liteparse,1.7.0,,,1195,DeepTutor parser-liteparse module
+2026-10-28T15:11:55Z,brecon,1.0.0rc4,Prakhar,AGPL-3.0-only,5099695,A Qt desktop editor for 2D and 3D frame analysis with PyNite.
+2026-10-28T15:11:59Z,deeptutor-parser-markitdown,1.7.0,,,1212,DeepTutor parser-markitdown module
+2026-10-28T15:12:36Z,pysemi,0.4.0,Thomas Michel <thomas.michel.thmi@gmail.com>,MIT,71909,Sequential Membership Inference (SeMI) attacks for auditing models that go through multiple updates
+2026-10-28T15:13:19Z,deeptutor-parser-pymupdf4llm,1.7.0,,,1215,DeepTutor parser-pymupdf4llm module
+2026-10-28T15:14:17Z,llm-obscurify,0.1.0,"""Obscurify.ai"" <contact@obscurify.ai>",MIT,14824,"LLM plugin for Obscurify.ai, a private AI API with 200+ models"
+2026-10-28T15:14:41Z,deeptutor-parsing,1.7.0,,,92538,DeepTutor parsing module
+2026-10-28T15:15:06Z,ois-validator,0.1.0,,Apache-2.0,51289,Reference validator for the Open Intent Schema (OIS)
+2026-10-28T15:16:16Z,deeptutor-partners,1.7.0,,,301560,DeepTutor partners module
+2026-10-28T15:16:17Z,vgpu,2.0.1.post1,"""VOLTAGE EI (VoltageGPU)"" <contact@voltagegpu.com>",MIT,2511,"Installs voltagegpu-cli, which provides the vgpu command (VoltageGPU for scripts and AI agents)."
