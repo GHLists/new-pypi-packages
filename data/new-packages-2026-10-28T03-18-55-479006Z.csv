@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T02:22:26Z,ipbus,0.5.1,Gavin Kellam <corigan01@proton.me>,GPL-3.0-or-later,5127191,Ipbus protocol and hardware access library for high energy physics projects.
+2026-10-28T02:32:19Z,sister-software-spliterator,10.1.1,Teffen Ellis <teffen@sister.software>,MIT,6795954,"Streaming readers for delimited text, CSV, TSV and JSONL with transparent zstd/gzip decompression, sharing the spliterator npm package's semantics."
+2026-10-28T02:32:55Z,kkprotocol,0.1.0,kkprotocol contributors,MIT,235625,"Declarative TCP/serial frame codec: parse, build, and self-resync private binary protocols."
+2026-10-28T02:34:18Z,dramapack,0.2.1,Dawnwood,Apache-2.0,200979,"Delivery packages, -14 LUFS mastering, subtitle safe areas, clean masters, local QC (black frames, subtitle/speech alignment, optional BYO-key vision checks) and rights checks for short dramas (verti…"
+2026-10-28T02:35:47Z,fresh-fvsbc,0.20.0,UBC FRESH Lab,MIT,187988,A Python wrapper for the BC variant of the Forest Vegetation Simulator.
+2026-10-28T02:35:51Z,pyside-iconify-mcp,1.0.0,jerrylu,MIT,134997,An MCP server that helps AI assistants write correct pyside-iconify code.
+2026-10-28T02:35:56Z,fresh-fvsbc-pyfvs,0.3.11,Tod Haren <2239672+tharen@users.noreply.github.com>,"MIT License Copyright (c) 2021 Forest Modeling Permission is hereby granted, free of charge, to any…",12102530,Python wrappers and utilities for using the Forest Vegetation Simulator
+2026-10-28T02:37:10Z,ztna,0.0.1,Frank Zhang,MIT,1417,Reserved for https://github.com/cloudformer/ztna
+2026-10-28T02:40:06Z,codelaw-rules-html,0.2.0,,MIT,89156,codelaw's rules for HTML (SR-RULE-PACKS)
+2026-10-28T02:40:08Z,codelaw-rules-js,0.2.0,,MIT,79624,"codelaw's rules for JavaScript, and the core JavaScript rules on TypeScript, JSX and TSX (SR-RULE-PACKS)"
+2026-10-28T02:40:10Z,codelaw-rules-python,0.2.0,,MIT,98243,codelaw's rules for Python; PyPI only (SR-RULE-PACKS)
+2026-10-28T02:40:12Z,codelaw-rules-react,0.2.0,,MIT,26294,"codelaw's React rules, from eslint-plugin-react and eslint-plugin-react-hooks (SR-RULE-PACKS)"
+2026-10-28T02:40:48Z,tabpull,0.1.0,Jeremy Castro <160854558+jer-castro@users.noreply.github.com>,MIT,138191,Export Tableau dashboard sheet crosstabs with filters
+2026-10-28T02:43:42Z,vaultgenome,0.12.0,"Serhii Nikolaichuk, Rodion Sorokin",AGPL-3.0-or-later,102812,"Vault Genome: the auditor's verifier of the audit log, and the model side of a genome"
+2026-10-28T02:45:56Z,fiftyone-ipintelligence-cloud,0.0.1,51Degrees Engineering,EUPL-1.2,5932,"51Degrees IP Intelligence resolves an IP address to detailed location, network and registration information. This package retrieves IP intelligence results by consuming the 51Degrees cloud service."
+2026-10-28T02:47:32Z,bom-weather-api,0.1.0,Ruaan Deysel <ruaan.deysel@gmail.com>,Apache-2.0,61037,Async Python client for the Australian Bureau of Meteorology weather API
+2026-10-28T02:48:05Z,mech-council,0.1.0,Connor Pietrasik <connorgpietrasik@gmail.com>,GPL-3.0-or-later,330468,A council of coding agents that review a project or plan a task together.
+2026-10-28T02:48:15Z,kovidgoyal-langtool,1.0.0,,LGPL-2.1-or-later,18131718,Grammar and style checking based on the LanguageTool rules: a port of the LanguageTool core to Python with a C extension
+2026-10-28T02:50:54Z,dottide,0.2.0,Dotbrain LLC <hello@dotbrainhq.com>,MIT,94942,"Read-only numbers for every site and product you run, across Google accounts, for people and AI agents."
+2026-10-28T02:51:09Z,bookmypass-sdk,1.0.0,BookMyPass Team <contact@bookmypass.in>,MIT,5382,Official Python SDK for BookMyPass - Event Booking and Ticket Verification Platform (https://bookmypass.in)
+2026-10-28T03:00:06Z,PrintGuard_Aholo,0.5.0,,MIT,67508,PrintGuard —— FDM 打印件的生成→可制造性校核→修复→交付（Lux3D + 几何工具链），MCP Server 形态
+2026-10-28T03:01:23Z,lsdtools,1.0.0rc2,LSD,Apache-2.0,558458,"Install exact signed LSD runtimes and run projects, packages and scripts in them"
+2026-10-28T03:10:48Z,ngfw,0.0.1,Frank Zhang,MIT,1417,Reserved for https://github.com/cloudformer/ngfw
+2026-10-28T03:10:49Z,sdwan,0.0.1,Frank Zhang,MIT,1432,Reserved for https://github.com/cloudformer/sdwan
+2026-10-28T03:16:28Z,biliz,0.18.9,HFrost0 <hhlfrost@gmail.com>,Apache-2.0,132729,⚡️Lightning-fast asynchronous download tool for bilibili and more
