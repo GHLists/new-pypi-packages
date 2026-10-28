@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T19:18:47Z,argus-av,0.2.0,Rhyan Lemos Silveira,MIT,73291,"Argus — scanner antivírus/malware local, CLI-first, com frontend local complementar"
+2026-10-28T19:19:25Z,jointextkit,2.8.0,Truelabel Inc,MIT,56100,"Official Python client for TextKit (jointextkit.com): SMS, phone verification, and phone numbers. No dependencies."
+2026-10-28T19:21:18Z,lightpath-agent,0.0.1,,MIT,19309,"Python agent for Lightpath: see which lines each HTTP request ran, live in your editor."
+2026-10-28T19:25:09Z,ghostty-textual,0.1.0,,MIT,150533,Textual terminal widget backed by libghostty-vt
+2026-10-28T19:25:43Z,kews,0.1.0,Juan Nathaniel <jn2808@columbia.edu>,MIT,257991,Koopman operator early warning signals
+2026-10-28T19:28:33Z,d365-dmf-mcp,0.2.0,Alexander Haugerud <ahaugerud@inspirit365.com>,MIT,101845,"Local, single-user MCP server to import/export data via Dynamics 365 F&O Data Management (DMF), authenticated as you via Entra ID"
+2026-10-28T19:29:07Z,sncr,0.1.0,,Apache-2.0,151456,Receituários de medicamentos controlados da Anvisa (SNCR).
+2026-10-28T19:29:17Z,convergence-retrieval,0.0.0.dev0,Onefold AI,,1677,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-28T19:29:19Z,convergence-runtime,0.0.0.dev0,Onefold AI,,1657,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-28T19:29:20Z,convergence-sdk,0.0.0.dev0,Onefold AI,,1618,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-28T19:29:21Z,convergence-skills,0.0.0.dev0,Onefold AI,,1648,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-10-28T19:31:30Z,cirrusnetworks-cache-agent,0.0.1,,,3654,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-28T19:32:29Z,tunewrangler,1.0.0,Alexandre Chabot-Leclerc,,69222,
+2026-10-28T19:33:41Z,res-asset-kpi,0.1.0,Konrad Waleszczyński,MIT,152550,"Key performance indicators for operating PV, wind and battery assets: performance ratio, availability, energy bridges, power curves, reliability, round-trip efficiency, cycles and capacity tests."
+2026-10-28T19:38:08Z,cirrusnetworks-atlas-agent,0.0.1,,,3657,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-28T19:40:13Z,preflight-engine,0.1.0,Preflight Contributors,Apache-2.0,100899,Infrastructure change risk analysis engine for Terraform plans
+2026-10-28T19:40:20Z,luciole,0.1.0,Alexandre Suescun,MIT,62035,Explore Python codebases as an interactive graph that lights up as your code runs
+2026-10-28T19:41:37Z,local-bridge,1.0.0,,Apache-2.0,51631,Local MCP OAuth bridge: exposes a remote OAuth-protected MCP server as a local stdio server
+2026-10-28T19:43:54Z,deepseek-search-everywhere-mcp,0.2.0,radoxtech,MIT,148151,Research-grade MCP server for the DeepSeek Search & Fetch API
+2026-10-28T19:45:18Z,rulestamp-openapi-security-contract-lint,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36028,"Finds the lines in an OpenAPI file that publish an endpoint with no authentication, an API key in the query string, or an OAuth grant RFC 9700 forbids. (bundled Node.js runtime)"
+2026-10-28T19:45:26Z,rulestamp-stale-standard-citation-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,39967,"Finds the standards and laws your reStructuredText or Markdown docs still cite after they died, and the date each one died; 44 rules, 30 findings in the 57-line sample page (bundled Node.js runtime)"
+2026-10-28T19:45:38Z,taxtrace,0.1.0,,MIT,1022781,"Prepare a US federal and state return from your own documents on your own machine: every number traced to the page it came from, nothing guessed, and no document sent to a cloud model."
+2026-10-28T19:45:44Z,rulestamp-terraform-provider-pin-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36423,Finds the .tf lines a clean terraform init is still free to move (bundled Node.js runtime)
+2026-10-28T19:46:01Z,rulestamp-tfstate-secret-leak-lint,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36939,"Names the attributes, outputs and backends that copy a cleartext secret into terraform.tfstate (bundled Node.js runtime)"
+2026-10-28T19:46:21Z,backroom-mcp,0.1.1,Backroom,,19475,MCP server for the Backroom invoice-extraction API
+2026-10-28T19:47:04Z,sustrato,0.1.0,Alejandro Andrade <alexlqi@gmail.com>,CC-BY-ND-4.0,264823,"Agentes de código como funcionalidad embebida de tu aplicación: una tabla, un job, cero recursos nuevos."
+2026-10-28T19:47:48Z,cirrusnetworks-sentinel-agent,0.0.1,,,3695,Reserved name. Cirrus Networks internal package — not distributed on PyPI.
+2026-10-28T19:52:50Z,pybox-dl,0.1.0,PyBox Maintainers,MIT,31716,A production-ready Python library bundling 8 standalone Deep Learning programs with source inspection and export capabilities.
+2026-10-28T19:54:24Z,the-judge-verify,1.0.0,@0khacha,MIT,1156773,Adversarial evidence-based verification & continuous improvement engine for AI coding agents
+2026-10-28T19:57:12Z,weavescape,0.0.1,WeaveScape,Proprietary,2466,"Placeholder: the WeaveScape Python SDK ships with the WeaveScape app, not on PyPI"
+2026-10-28T19:59:26Z,brieno,0.0.1,,,1902,
+2026-10-28T20:02:54Z,symone,1.0.0,SYMONE SAS <contact@symone.fr>,MIT,38815,"Official Python SDK for the SYMONE motorcycle transport API: search trips across France (Paris - Marseille and more). Standard library only, no API key."
+2026-10-28T20:03:40Z,codelaw,0.3.0,,MIT,98539834,A linter and formatter whose rules are Markdown files
+2026-10-28T20:04:09Z,playwright-figure-tests,0.1.0,Stuart Mumford <stuart@cadair.com>,BSD-3-Clause,23117,"pytest helper for visual regression testing of rendered web pages with Playwright, built on pytest-mpl"
+2026-10-28T20:04:34Z,shapemesh,0.1.0,Mads Kruse <MEMAndersen@gmail.com>,LGPL-3.0-or-later,130700,"A Gmsh-powered geometry and meshing library: a closed set of 0-3D shapes, n-ary booleans, and MSH 4.1 I/O."
+2026-10-28T20:04:59Z,cardvision,0.4.0,,Apache-2.0,1084184,Card detection and recognition for trading-card game video.
+2026-10-28T20:06:47Z,intentshield-mcp,0.2.3,,Apache-2.0,605684,"Offline-first guardrail for MCP tool calls: hooks for Claude Code, Codex CLI, Cursor and Gemini CLI, plus a transparent MCP proxy"
+2026-10-28T20:10:49Z,scmivae,0.1.1,Kevin Lam <kevin.lam@stat.ubc.ca>,MIT,80188,Structural causal modelling and identifiable variational autoencoders (iVAE) for single-cell data
+2026-10-28T20:11:05Z,streamlit-record-views,0.1.0,yjohnson-dev,MIT,129428,Lightweight record visualization custom components for Streamlit.
+2026-10-28T20:11:47Z,lodgment-calendar,0.1.0,Ryan Duguid,FSL-1.1-ALv2,84335,"ATO lodgment program due dates for BAS, IAS and income tax returns, with cited rules and UNKNOWN for missing facts. Preparation aid, not a determination."
+2026-10-28T20:15:27Z,vapoursynth-mvutensilsvk,1,,GPL-2.0,4381755,"Motion estimation and denoising filter for VapourSynth, on the GPU"
+2026-10-28T20:16:58Z,reachablecode,0.0.1,"nexB. Inc., AboutCode and others",Apache-2.0,273026,A collection of ScanCode.io pipelines dedicated to reachability analysis.
+2026-10-28T20:20:46Z,agsh,0.1.0,,MIT,208070,Compliance and red-teaming harness for tool-using LLM agents.
+2026-10-28T20:21:05Z,skill2framework,0.3.1,,MIT,18401,The chapter rung: blogs → chapter → plugin → fold into the SkillTome (the skill2framework chain's deterministic glue)
