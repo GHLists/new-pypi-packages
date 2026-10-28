@@ -1,0 +1,58 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T12:07:48Z,sci-figures,0.3.0,quadbio,MIT,319051,"Style, mm layout, recurring elements and export for Nature-style research figures with editable text."
+2026-10-28T12:21:40Z,depesha,0.1.0,Depesha,MIT,97115,"Depesha CLI: transactional email from the shell, with the Claude skill built in"
+2026-10-28T12:21:57Z,fastapi-routerless-wamp,0.4.0,Konstantin Burkalev,Apache-2.0,218777,Bidirectional WAMP RPC and PubSub for FastAPI without a separate router
+2026-10-28T12:25:11Z,tortalk,1.0.5,Mohammad Saleh Abbasi,MIT,31217,"Secure, peer-to-peer terminal chat over Tor v3 onion services with E2EE"
+2026-10-28T12:25:15Z,smo-solver,0.1.0,Nico Strasdat <nstrasdat@gmail.com>,BSD-3-Clause,1489499,Fast SMO solver (Rust) for smoothed and weighted support vector machines
+2026-10-28T12:25:35Z,agent-ledger-guard,0.3.2,Pixelence AI,MIT,279715,"Tamper-evident flight recorder and policy gate for AI coding agents: Claude Code, Codex, OpenCode, Cursor, Gemini, Cline, Goose and more."
+2026-10-28T12:25:40Z,dvicode,0.8.0,HEXK,Apache-2.0,20057605,SystemVerilog/UVM linter and language server (DVICode): `dvicode lint` for CI
+2026-10-28T12:26:19Z,py-http-mcp-server,0.1.0,Keerthi RB <keerukee@gmail.com>,MIT,154022,"Zero-dependency Model Context Protocol (MCP) server library over Streamable HTTP. Plugs into FastAPI, Flask, Django or runs standalone."
+2026-10-28T12:27:27Z,temporal-networks,0.1.0,"Adriana-Stefania Ciupeanu <cadrianas@gmail.com>, Julien Arino <Julien.Arino@umanitoba.ca>",GPL-3.0-only,149434,Python package for analyzing dynamic networks over time with automatic gap detection
+2026-10-28T12:28:03Z,litematic-to-schematic,1.0.0,Ohualtex,"MIT License Copyright (c) 2026 Ohualtex Permission is hereby granted, free of charge, to any person…",30740,Convert Minecraft Litematica (.litematic) schematics directly to WorldEdit Sponge V2 (.schem) format.
+2026-10-28T12:29:22Z,amazon-subscriptions,1.0.1,Daniel Schroeder,MIT,264794,Read Amazon Subscribe & Save subscriptions and upcoming deliveries as JSON (read-only)
+2026-10-28T12:30:32Z,clens-cli,1.0.1,k4rkie,"MIT License Copyright (c) 2026 k4rkie Permission is hereby granted, free of charge, to any person o…",28257,Local semantic image search tool
+2026-10-28T12:30:55Z,spyglass-lite,0.9.0b0,Atheer,MIT,375104,"Importable OSINT recon — username, email, IP, ASN and phone, with no external binaries and no API keys."
+2026-10-28T12:31:25Z,langchain-witan,0.1.0,Jongwon Choi (WITAN),MIT,14350,"LangChain tools for WITAN: look up errors and operational facts other agents measured, and query versioned datasets"
+2026-10-28T12:33:44Z,regexrs-py,0.1.0,Victorien <contact@vctrn.dev>,MIT,25296962,Python bindings to the Rust regex crate
+2026-10-28T12:34:24Z,led-ticker-football,0.1.0,James Awesome <james@morelli.nyc>,MIT,146727,"Live NFL football scores widget for led-ticker, fed by ESPN's public scoreboard API (no key)."
+2026-10-28T12:35:23Z,pkgdx,0.5.0rc1,Andrew Ridyard <andyrids.culprit320@passmail.com>,Apache-2.0,53063,A package to centralise standards across Python projects.
+2026-10-28T12:37:26Z,odoo-addon-account-analytic-searchpanel,18.0.1.1.0.1,"Quim Rebull (Coopdevs), Odoo Community Association (OCA)",AGPL-3,46662,Adds an analytic plan search panel to analytic lines
+2026-10-28T12:37:28Z,odoo-addon-account-analytic-dynamic-full-cost,18.0.1.1.0.1,"Quim Rebull (Coopdevs), Odoo Community Association (OCA)",AGPL-3,101269,Compute and store dynamic full cost in analytic lines
+2026-10-28T12:37:32Z,odoo-addon-account-analytic-dashboard,18.0.1.0.0.1,"Quim Rebull (Coopdevs), Odoo Community Association (OCA)",AGPL-3,62462,Monthly revenue and expenses of the analytic plan hierarchy
+2026-10-28T12:37:33Z,odoo-addon-account-budget-analytic-plan,18.0.1.0.0.1,"Quim Rebull (Coopdevs), Odoo Community Association (OCA)",LGPL-3,23630,Manage budget lines by analytic plan
+2026-10-28T12:39:51Z,tsp-fast-solver,0.1.0,Vansh Shah <vansh.shah@example.com>,MIT,74035,A blazing fast C++ TSP solver wrapped in Cython
+2026-10-28T12:41:49Z,slopgate-cli,0.1.1,Shinraya Tech Labs <labs@shinraya.com>,Apache-2.0,76942,"AST-based code integrity, test tamper detection, and phantom symbol interception for GitHub Pull Requests."
+2026-10-28T12:43:06Z,optimized-svm,0.1.0,Nico Strasdat <nstrasdat@gmail.com>,BSD-3-Clause,319354,Support vector machines with hyperparameters optimized by exact gradients (implicit function theorem)
+2026-10-28T12:43:36Z,odoo14-addon-internal-stock-quant-package,14.0.1.0.1.dev2,"ACSONE SA/NV, Odoo Community Association (OCA)",AGPL-3,33942,This module allows to declare internal stock quant package
+2026-10-28T12:43:50Z,tmuxp-plugin-worktree,0.2.0,Robbert Helling,MIT,27259,tmuxp plugin: pick the git worktree a session starts in
+2026-10-28T12:45:23Z,antemortem-structural-lab,0.7.0a1,,Apache-2.0,648806,Experimental structural falsification and counterexample-guided mold learning
+2026-10-28T12:45:59Z,afrospeech-recipes,0.1.0,AfriModal AI <kaykola.olaleye@gmail.com>,Apache-2.0,35558,"Load the speech data a recipe describes, from wherever it lives."
+2026-10-28T12:46:04Z,enginehall,2.0.0,Newmatik GmbH,EngineHall — Proprietary Software License Copyright (c) 2026 Newmatik GmbH. All rights reserved. Th…,561777,"EngineHall: where hardware gets built, checked and released, together. The engine checks that schematic, CubeMX configuration and firmware agree."
+2026-10-28T12:46:06Z,sample-indexer,0.1.0,Adrián Cancio,MIT,216696,SQLite index of a sample and MIDI library with incremental reconciliation
+2026-10-28T12:46:09Z,audio-diag,0.1.0,Adrián Cancio,MIT,74187,"Stereo-master audio diagnostics with explicit reliability tiers (Level 1, Level 2, Level 3)."
+2026-10-28T12:46:12Z,omnidaw-agent-mcp,0.3.0,,MIT,142423,Unofficial policy-enforced local OMNi MCP integration
+2026-10-28T12:48:52Z,iterm-dash,0.1.1,ritikrishu,MIT,214604,"Live previews of every Claude Code session in iTerm2, in one keyboard-driven tab."
+2026-10-28T12:49:25Z,adlib-api,0.3.0,AdLib,MIT,90452,"Python client for the AdLib API: one REST API for the public ad libraries of Meta, Google (incl. YouTube), TikTok, LinkedIn, Pinterest, X, Snapchat, Apple, Amazon and Microsoft, with ad history, crea…"
+2026-10-28T12:49:42Z,rtrafilatura,0.2.0,EDamLabs,MIT,13681335,"Python binding of trafilatura-rs: web page main text, comments and metadata extraction at Rust speed, trafilatura-compatible syntax."
+2026-10-28T12:50:15Z,rootle,0.0.1,Cariad Eccleston <cariad@cariad.earth>,,1754,Rootle about in your file system
+2026-10-28T12:51:57Z,getapo,0.0.1,,,3521,apo (AI Project Orchestration): a human-in-the-loop dashboard for Claude Code agents. Not released yet; this version only holds the name.
+2026-10-28T12:53:29Z,mpc-cli,0.1.0,Akram Zaytar,MIT,187750,"Read Microsoft Planetary Computer imagery at a place, at native resolution, for agents and people."
+2026-10-28T12:56:31Z,th-jp-norm,1.0.0,"""T.H (Tech Lab Works)"" <jcc00456biz@gmail.com>",Apache-2.0,45246,日本語文字列の表記ゆれを正規化するPythonパッケージ
+2026-10-28T12:57:07Z,cisco-project-quarry,0.1.0,,,1074641,Detection DSL for AI agents
+2026-10-28T12:59:25Z,calagoapi,1.0.dev1,iFamished,GPL-3.0,253152,"The Python SDK for Calagopus: servers, live console, files, backups, databases, schedules, nodes and full panel administration, sync and async."
+2026-10-28T13:00:20Z,tsp-fast-solver-raghav15048,0.1.2,Raghav Pareek <raghav@example.com>,MIT,168800,A blazing fast C++ TSP solver wrapped in Cython
+2026-10-28T13:01:17Z,sahilai,0.2.0,Sahil Khan,MIT,15719,A beginner-friendly machine-learning framework that explains the math.
+2026-10-28T13:01:38Z,j-to-py,0.1.0,Prankapple,MIT,8379,Convert Jupyter notebooks to Python scripts while preserving IPython magics.
+2026-10-28T13:02:27Z,euc2k,1.4.0,,MIT,2495447,EasyEDA User Contributed To KiCad
+2026-10-28T13:05:32Z,compilecode,0.0.0,,,19499,"Compile a Python project to native modules with Nuitka; no key, no runtime decryption."
+2026-10-28T13:07:07Z,kingpulse-sdk,1.0.0,,MIT,8362,Official Python client for the KingPulse Developer API
+2026-10-28T13:08:46Z,cpdevice-flash,0.1.1,,,2762372,全志和高通刷机工具的独立 Python 接口
+2026-10-28T13:08:46Z,mixtime,0.1.0,,MIT,1202802,Pythonic mixed-granularity time vectors with a Rust Gregorian chronon kernel
+2026-10-28T13:09:30Z,addonai-dal-sdk,1.1.0,,LicenseRef-Proprietary,4267,Paraguas de los SDKs Python de los servicios dal (dal_sdk.<servicio>)
+2026-10-28T13:09:31Z,addonai-dal-sdk-api-gateway,1.0.0,,LicenseRef-Proprietary,23646,A client library for accessing ApiGateway
+2026-10-28T13:09:33Z,addonai-dal-sdk-auth,1.0.0,,LicenseRef-Proprietary,155105,A client library for accessing Auth
+2026-10-28T13:09:34Z,addonai-dal-sdk-checkpoint,1.0.0,,LicenseRef-Proprietary,43946,A client library for accessing Checkpoint
+2026-10-28T13:10:33Z,meancure-gui,1.3.0,C. Schomburg,MIT,1851950,Metabarcoding pipeline: BLAST -> Analysis -> GBIF occurrence check
+2026-10-28T13:11:51Z,mooship,1.2.0,,MIT,18301,"Install and run Mooship's Moodle deployment, backup and diagnostics toolkit."
+2026-10-28T13:12:49Z,macsetup,0.1.0,,MIT,104292,"Declarative provisioning for macOS: packages and dotfiles, with a preview"
+2026-10-28T13:17:10Z,JointRecAlign,0.1.0,ImenBA,MIT,204978,Joint phone recognition and alignment with wav2vec2 (CTC + cross-attention aligner)

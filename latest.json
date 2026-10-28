@@ -1,55 +1,48 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-10-28T11:19:39.713233Z",
-    "path": "data/new-packages-2026-10-28T12-19-25-557491Z.csv",
-    "to": "2026-10-28T12:19:25.557491Z"
+    "count": 57,
+    "from": "2026-10-28T12:19:25.557491Z",
+    "path": "data/new-packages-2026-10-28T13-18-21-21649Z.csv",
+    "to": "2026-10-28T13:18:21.21649Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-28T10:32:53Z",
       "package": "airflow-provider-cimpal",
       "since": "2026-10-28T10:18:41.984767Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-28T12:11:09Z",
       "package": "jupyter-gridlook",
       "since": "2026-10-28T11:19:39.713233Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-28T08:34:55Z",
-      "package": "onthos",
-      "since": "2026-10-28T08:18:24.180626Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-28T08:35:07Z",
-      "package": "onthos-data-client",
-      "since": "2026-10-28T08:18:24.180626Z",
+      "attempts": 1,
+      "created_at": "2026-10-28T12:43:18Z",
+      "package": "langchain-antfly",
+      "since": "2026-10-28T12:19:25.557491Z",
       "version": null
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-28T12:43:41Z",
+      "package": "langgraph-store-antfly",
+      "since": "2026-10-28T12:19:25.557491Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-28T12:05:31Z",
       "package": "pinglet",
       "since": "2026-10-28T11:19:39.713233Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-28T12:07:48Z",
-      "package": "sci-figures",
-      "since": "2026-10-28T11:19:39.713233Z",
-      "version": null
     }
   ],
-  "serial": 42864805,
+  "serial": 42867024,
   "source_truncated": false,
-  "window": "2026-10-28T12:19:25.557491Z"
+  "window": "2026-10-28T13:18:21.21649Z"
 }
