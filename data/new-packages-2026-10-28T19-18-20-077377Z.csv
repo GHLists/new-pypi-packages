@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T18:23:12Z,gtm-tool-finder,1.0.0,OneGTMLab <jay@onegtmlab.dev>,MIT,43732,"Search GTM tool API reviews, tool comparisons and GTM glossary terms from OneGTMLab, from your terminal or Python."
+2026-10-28T18:23:34Z,epita-manoprasanth-mathavan-media,0.1.0,manoprasanth.mathavan@gmail.com,,6290,Add your description here
+2026-10-28T18:23:58Z,mcp-server-senseca-pro,0.1.1,shaag7967,MIT,20195,Unofficial MCP server for Senseca PRO 111 / PRO 115 Pt100 thermometers
+2026-10-28T18:28:06Z,ratchetkit,1.2.0,Parsa Poorshikhian <parsa.poorsh@gmail.com>,AGPL-3.0-only,155037,X3DH/PQXDH key agreement and Double/Triple Ratchet with pluggable crypto primitives
+2026-10-28T18:28:33Z,loomwork,0.1.1,ProperlyDo,MIT,62842,Weaves shared agent rules through your projects
+2026-10-28T18:28:53Z,graphunslopify,0.8.0,,MIT,589694,Local semantic figure generation and render-time scientific figure checks.
+2026-10-28T18:30:39Z,vlambda,0.1.0,Ricardo Robles Fernández,MIT,5482060,"An ASGI-like server for Python lambdas, written in V."
+2026-10-28T18:31:33Z,codesec-agentguard,1.0.0,CodeSec AI / AgentGuard Security Team,MIT,9452,Official Python SDK for the AgentGuard AI Agent Security Gateway
+2026-10-28T18:32:12Z,poly-server,0.1.0,Victor A. Guerra,MIT,769507,Speech language detection and offline UI translation server for Poly voice-driven interfaces.
+2026-10-28T18:33:38Z,drf-subscription,0.1.0,gmork2,GPL-3.0-only,77110,A generic subscription app for Django.
+2026-10-28T18:34:30Z,zyplux-clipy,0.1.0,,,37022,Shared Python CLI helpers for repository reports and terminal tools.
+2026-10-28T18:35:20Z,watercolourmap,0.1.0,Eriola Trungu Impersimi,MIT,1599559,"Watercolour maps in Python, inspired by John Nelson's watercolour style for ArcGIS Pro"
+2026-10-28T18:46:37Z,jrif,0.1.1,Daniel Geiszler <dgeiszler@parallelsq.org>,Apache-2.0,3764872,"Peptide retention-time and ion-mobility prediction: pretrained bases, per-experiment calibration, full-library prediction."
+2026-10-28T18:47:23Z,diskhawk,1.0.0,,,73724,Local-first disk usage diagnostics for macOS
+2026-10-28T18:48:44Z,cheerlights-mcp,3.0.0,CheerLights Community <info@cheerlights.com>,MIT,123037,"MCP server that lets AI assistants read the live CheerLights color, its history, and statistics"
+2026-10-28T18:54:42Z,freeaipi,0.2.0,Virus-101,MIT,123783,"One Python interface for every free LLM API — native free tiers, local models, and OpenRouter free models."
+2026-10-28T18:55:36Z,commsuite-bot,1.0.40,Aleksey Shvarts,,7719,Standard-library Python client for the Commsuite Bot API
+2026-10-28T18:59:59Z,nemo-switchyard-vgr,0.3.0,NVIDIA Corporation,Apache-2.0,53447178,"Typed, composable LLM routing with request/response translation and multi-backend orchestration"
+2026-10-28T19:03:12Z,merryxmas,0.1.0,Aleksandr Senkevich <savtog@mail.ru>,GPL-3.0-only,2544803,An animated Christmas card for the terminal
+2026-10-28T19:03:13Z,sharedagents,0.0.1,sharedagents <admin@sharedcode.ai>,MIT,24404581,Sovereign-inference TUI chat against an OpenAI-compatible vLLM endpoint.
+2026-10-28T19:03:19Z,ml4t-harness,0.1.0a1,,,54621,Runs ML4T Exercise tests the same way on a student's machine and on the grader.
+2026-10-28T19:03:46Z,x402-scraper,0.5.0,x402 Markdown Scraper,MIT,7728,httpx client for the x402 Markdown Scraper shop. Handles HTTP 402 Exact USDC on Base.
+2026-10-28T19:04:05Z,nmp-notes,0.2.1,,MIT,40634,A CLI tool and Python library for generating prefilled practical lab files from templates.
+2026-10-28T19:06:26Z,pyunslop,0.0.0,,,95952,Warning-only Python code checks for humans and coding agents
+2026-10-28T19:09:19Z,evaluation-toolkit-for-model-agnostic-methods,1.0.0,"Tobias Schulze, Daniel Buschmann, Felix Sohnius, Robert H. Schmitt",,159606,A package for evaluating model agnostic interpretable methods. Currently supports global and local methods for regression use cases.
+2026-10-28T19:09:36Z,canon-governance,0.1.1,Tanishq Dasari <tan@animuslab.dev>,Apache-2.0,56639,Deterministic governance knowledge integrity engine for AI systems
+2026-10-28T19:10:13Z,agentcap-cli,0.1.0,Kutay Karahan <kutaykarahan6@gmail.com>,MIT,147794,"API-key spend guard for unattended Codex CLI and Gemini CLI runs: hard per-run cap, kills the process at the limit."
+2026-10-28T19:12:53Z,spr-sdk,0.1.0,Luca Africa Inc.,Apache-2.0,40664,"SPR, the Sealed Payment Record: seal AI agent payments locally with your company's own key, and check them without Luca"
+2026-10-28T19:15:45Z,songchro,0.2.0,Adam Brown,MIT,43747,Synchronize playlists between iTunes and Plex
