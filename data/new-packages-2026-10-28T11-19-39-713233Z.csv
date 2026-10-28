@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T10:19:15Z,dailymeteo,0.1.0,Srđan Popović,GPL-2.0-or-later,31619,"Meteorological data from the DailyMeteo API and the MeteoEurope1km gridded dataset (Europe, 1 km, 1961-2020)"
+2026-10-28T10:23:22Z,yozora,0.1.0,,,2044149,"yozora, distributed as a prebuilt binary"
+2026-10-28T10:24:02Z,minimindslab-yaml-key-diff,0.1.0,MiniMindsLab,MIT,9242,"Compare two YAML documents and report added, removed, and changed scalar keys at the top level or along simple nested paths after parsing into plain Python data structures."
+2026-10-28T10:30:51Z,ego-webqa,0.2.0,Roy <32172310@qq.com>,MIT,63192,Deterministic delivery QA for AI-generated web pages
+2026-10-28T10:31:14Z,site2mcp,0.1.0,Hari Naralasetty,MIT,159237,"Turn a local HAR recording into OpenAPI, a typed client, and MCP tools"
+2026-10-28T10:33:34Z,lite-locator-mcp,0.1.0,Online Machine Learning,MIT,76462404,Playwright MCP with a semantic element finder in front: the LLM gets a shortlist of candidates instead of the whole accessibility tree.
+2026-10-28T10:33:51Z,lanka-kit,1.1.0,Lanka Developer Community,MIT,7900,"The Ultimate Sri Lankan Developer Toolkit: NIC, Phone, Banks, Currency, License, Vehicle, Passport, TIN"
+2026-10-28T10:37:02Z,searchpipe,2.0.0,,MIT,23777,Official Python SDK for the SearchPipe web search API — verifiable evidence with every result.
+2026-10-28T10:39:54Z,gwsignal-lal-plugin,0.1.0,gwsignal contributors,Apache-2.0,14436,Entry-point plugin exposing LAL approximants for lalsimulation.gwsignal
+2026-10-28T10:40:01Z,semcod-flowguard,0.2.0,Tom Softreck <tom@sapletta.com>,Apache-2.0,31735,Autonomous bounded concurrent dispatch and flow governor for Heyasa
+2026-10-28T10:40:56Z,sphinx-skos,0.1.0,Sam <samuel.scott.jennings@gmail.com>,MIT,8897,"A Sphinx extension that builds SKOS vocabularies into a documentation site, one page per concept"
+2026-10-28T10:41:58Z,wellcast,0.1.0,Olaf Yunus Laitinen Imanov <yunus.z.imanov@helsinki.fi>,MPL-2.0,931365,"Oil and gas well performance analysis: data QC, decline curves, PVT, IPR, diagnostics and machine learning."
+2026-10-28T10:42:57Z,intergentum,0.0.1,,Apache-2.0,9785,
+2026-10-28T10:45:17Z,intergentium,0.0.1,,Apache-2.0,9899,Did you mean intergentum? This package only installs it.
+2026-10-28T10:47:09Z,smart-pdf-compare,0.1.0,Abdelrahman Elsheikh <abdelrahmanelsheikh39@gmail.com>,MIT,32824,"Text-aware PDF comparison, highlighting, and reports."
+2026-10-28T10:47:27Z,talos-tig,0.1.0,,GPL-3.0-or-later,593839,Single-user autoresearch loop for TIG challenges
+2026-10-28T10:47:49Z,seltools-rs,0.2.0,Isaac Yong <isaacyong@naver.com>,MIT,2191963,Rust iterators for seltools; install as seltools[rust]
+2026-10-28T10:48:55Z,seltools,0.2.0,Isaac Yong,MIT,13536,"Reusable selections and wrap-around pairwise, windowed and getitem for anything with len() and []"
+2026-10-28T10:50:36Z,janzeer-sdk,0.1.0,Janzeer <info@janzeer.org>,Apache-2.0,104008,"Official Python SDK of the Janzeer blockchain: wallet keys and signing, transaction builders, REST, JSON-RPC and WebSocket clients."
+2026-10-28T10:52:23Z,burli,0.1.0,Patrik Wenger <paddor@gmail.com>,MIT,4949468,"Memory-safe Brotli compression in Rust, with the API of Google's brotli module"
+2026-10-28T10:55:30Z,smpy-lensing,1.0.0,Georgios N. Vassilakis,MIT,109560,Shear Mapping in Python
+2026-10-28T10:56:06Z,hmath-python,1.0.0,,MPL-2.0,25267,Python bindings for the Haskell HMath numerical library
+2026-10-28T10:57:52Z,xtr-notifier,5.0.0,Xterr,MIT,171985,"Send notifications to chat, SMS and push channels — one notification, the channels its importance or its recipient call for, any provider configured by DSN."
+2026-10-28T10:58:15Z,xtr-telegram-notifier,5.0.0,Xterr,MIT,49264,"Telegram for xtr-notifier — chat messages posted, edited and answered through a bot, with keyboards, media and file uploads, configured by DSN."
+2026-10-28T10:58:19Z,xtr-security-csrf,5.0.0,Xterr,MIT,32979,"Cross-site request forgery protection for xtr applications: a manager that mints and checks tokens by id, and the session storage that keeps them."
+2026-10-28T10:58:20Z,tiedfit,0.1.0,James McKevitt <james.mckevitt.21@ucl.ac.uk>,"MIT License Copyright (c) 2026 James McKevitt Permission is hereby granted, free of charge, to any…",55715,"Doppler velocities from several lines of one ion fitted together, for slit spectrographs such as Hinode/EIS"
+2026-10-28T10:59:13Z,xtr-slack-notifier,5.0.0,Xterr,MIT,45893,"Slack for xtr-notifier — chat messages posted, scheduled and updated in a channel, with Block Kit blocks, configured by DSN."
+2026-10-28T10:59:22Z,asn2cidr,0.1.0,Mateusz Mikrut,MIT,15472,Print an ASN's announced IP prefixes using RIPEstat
+2026-10-28T11:00:47Z,pygrammar-fix,1.0.0,Ankit Arora <you@example.com>,MIT,27492,"Fast, offline long-paragraph grammar correction that orchestrates harper-py and nlprule."
+2026-10-28T11:05:42Z,MomentRT,0.1.0,Martin Poinsinet de Sivry-Houle <martin.poinsinet.de.sivry@gmail.com>,MIT,56494,Deterministic light transport using angular-moment methods.
+2026-10-28T11:07:51Z,samee,1.0.0,,,51678,"Drops the 20 ML practical scripts (one folder per experiment, with datasets) into the current directory"
+2026-10-28T11:08:19Z,shahabdulmazid-jannatfarhanapopy,0.1.0,,MIT,15667,Generate ready-to-run FastAPI project structures
+2026-10-28T11:10:34Z,zugawatch,0.7.1,Antonio Delgado <antwonthegr8@gmail.com>,MIT,61345,"Runtime call-chain anomaly monitor for MCP servers — rug-pull detection + behavioural anomaly rules, delivered as a CLI, a GitHub Action, and an MCP server."
+2026-10-28T11:11:07Z,ot-pcap-processor,0.1.0,,MIT,4103946,Passive BACnet/IP and Modbus/TCP packet capture processor
+2026-10-28T11:14:39Z,trustables-sdk,0.1.0,,MIT,28693,Trustables server-side Python SDK (preview)
+2026-10-28T11:16:16Z,pyatomberg,0.1.0,Selvakumar <selvakk2k@users.noreply.github.com>,GPL-3.0-or-later,93309,"Python library for Atomberg smart home authentication, device discovery, and offline protocol codecs"

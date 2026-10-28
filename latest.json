@@ -1,27 +1,34 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-10-28T09:18:33.238868Z",
-    "path": "data/new-packages-2026-10-28T10-18-41-984767Z.csv",
-    "to": "2026-10-28T10:18:41.984767Z"
+    "count": 36,
+    "from": "2026-10-28T10:18:41.984767Z",
+    "path": "data/new-packages-2026-10-28T11-19-39-713233Z.csv",
+    "to": "2026-10-28T11:19:39.713233Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-10-28T10:32:53Z",
+      "package": "airflow-provider-cimpal",
+      "since": "2026-10-28T10:18:41.984767Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-10-28T08:34:55Z",
       "package": "onthos",
       "since": "2026-10-28T08:18:24.180626Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-28T08:35:07Z",
       "package": "onthos-data-client",
       "since": "2026-10-28T08:18:24.180626Z",
       "version": null
     }
   ],
-  "serial": 42860668,
+  "serial": 42862820,
   "source_truncated": false,
-  "window": "2026-10-28T10:18:41.984767Z"
+  "window": "2026-10-28T11:19:39.713233Z"
 }
