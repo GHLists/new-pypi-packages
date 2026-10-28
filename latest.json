@@ -1,41 +1,34 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-10-28T03:18:55.479006Z",
-    "path": "data/new-packages-2026-10-28T04-21-43-360719Z.csv",
-    "to": "2026-10-28T04:21:43.360719Z"
+    "count": 32,
+    "from": "2026-10-28T04:21:43.360719Z",
+    "path": "data/new-packages-2026-10-28T05-18-24-091646Z.csv",
+    "to": "2026-10-28T05:18:24.091646Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-28T03:42:34Z",
       "package": "couchdb-python",
       "since": "2026-10-28T03:18:55.479006Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-28T03:20:44Z",
       "package": "dal-smithy-sdk",
       "since": "2026-10-28T03:18:55.479006Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-28T00:23:42Z",
-      "package": "umf-tablespec",
-      "since": "2026-10-28T00:18:19.680532Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-28T03:38:34Z",
       "package": "vllm-sail",
       "since": "2026-10-28T03:18:55.479006Z",
       "version": null
     }
   ],
-  "serial": 42850480,
+  "serial": 42851828,
   "source_truncated": false,
-  "window": "2026-10-28T04:21:43.360719Z"
+  "window": "2026-10-28T05:18:24.091646Z"
 }
