@@ -8,40 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 07:20 UTC
+## Latest list — 2026-10-28 08:18 UTC
 
-New packages created between 2026-10-28 06:19 UTC and 2026-10-28 07:20 UTC.
+New packages created between 2026-10-28 07:20 UTC and 2026-10-28 08:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-28T07-20-47-522896Z.csv)
+[Full CSV](data/new-packages-2026-10-28T08-18-24-180626Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-28 06:23:20 | [dash-ai-chatbot](https://pypi.org/project/dash-ai-chatbot/) | 1.0.0 | Asyntai <hello@asyntai.com> | 17.6 kB | Adds the Asyntai AI chat assistant to a Plotly Dash app. It answers visitor que… |
-| 2026-10-28 06:24:44 | [bocai-cli-core](https://pypi.org/project/bocai-cli-core/) | 0.2.0 |  | 38.7 kB | Shared core for Bocai CLI products |
-| 2026-10-28 06:26:12 | [svtb](https://pypi.org/project/svtb/) | 0.1.0 | Justin Correll | 28.2 kB | Self-checking SystemVerilog testbench generator: the subset of fault's Tester a… |
-| 2026-10-28 06:27:46 | [bocai-studio-cli](https://pypi.org/project/bocai-studio-cli/) | 0.2.0 |  | 1.6 kB | Bocai CLI for studios |
-| 2026-10-28 06:29:40 | [autoforge-cli](https://pypi.org/project/autoforge-cli/) | 0.1.0a0 | Ruoshi Li | 1.9 MB | Autonomous orchestration for AI-driven software development (deterministic cont… |
-| 2026-10-28 06:32:58 | [quantion](https://pypi.org/project/quantion/) | 0.1.6 |  | 6.5 MB | Quantion library |
-| 2026-10-28 06:33:36 | [tistory-mcp](https://pypi.org/project/tistory-mcp/) | 0.2.0 | jangsejong | 100.3 kB | Unofficial MCP server for Tistory (티스토리) blogs — write, publish and manage post… |
-| 2026-10-28 06:34:15 | [pdftomd-url-tools](https://pypi.org/project/pdftomd-url-tools/) | 0.1.0 | wangneo276-lgtm | 7.2 kB | Free in-browser pdf to md tool. Drop a text PDF, preview Markdown, copy or down… |
-| 2026-10-28 06:39:24 | [stealth-scraper-benchmark](https://pypi.org/project/stealth-scraper-benchmark/) | 0.1.0 | Data Engineering & Web Scrapi… | 246.3 kB | Stealth Web Scraping & Anti-Bot Infrastructure Benchmark Toolkit |
-| 2026-10-28 06:39:36 | [mashbox](https://pypi.org/project/mashbox/) | 0.0.1 | MASHBOX Labs <hello@mashbox.g… | 10.5 kB | MASHBOX Labs. First release soon. |
-| 2026-10-28 06:39:42 | [yxd-port](https://pypi.org/project/yxd-port/) | 0.3.0 |  | 586.1 kB |  |
-| 2026-10-28 06:41:35 | [sqlmirror](https://pypi.org/project/sqlmirror/) | 0.2.0 |  | 229.0 kB | Mirror Jira Cloud into your own Postgres or SQL Server under Data Center table… |
-| 2026-10-28 06:42:01 | [naiyue-rag](https://pypi.org/project/naiyue-rag/) | 0.1.0 |  | 308.5 kB | Local Markdown knowledge retrieval with versioned evidence |
-| 2026-10-28 06:42:05 | [fnloom](https://pypi.org/project/fnloom/) | 0.1.0 | Khaled Elsayed <4119211+kelsa… | 7.5 MB | A Rust dataflow engine: plain Python functions are nodes, wired by parameter na… |
-| 2026-10-28 06:43:01 | [lucidlog](https://pypi.org/project/lucidlog/) | 0.1.2 | Malhar Pangarkar <malharpanga… | 45.2 kB | Source-aware exception diagnostics with conservative explanations |
-| 2026-10-28 06:45:28 | [mylox](https://pypi.org/project/mylox/) | 0.8.0 | dainan13 | 205.3 kB | MySQL binlog to PostgreSQL CDC engine with multi-pipeline fan-out and shadow-fr… |
-| 2026-10-28 06:46:24 | [haoke-mcp-server](https://pypi.org/project/haoke-mcp-server/) | 0.1.0 |  | 946.8 kB | 好课在线 后端 OpenAPI 的 MCP Server 示例实现 |
-| 2026-10-28 06:50:22 | [pfd-core](https://pypi.org/project/pfd-core/) | 0.1.0 | PFDkit contributors | 44.5 kB | Typed process flow diagram documents, units, registry, and structural validation |
-| 2026-10-28 06:52:48 | [streamlit-ai-chatbot](https://pypi.org/project/streamlit-ai-chatbot/) | 1.0.0 | Asyntai <hello@asyntai.com> | 15.5 kB | Adds the Asyntai AI chat assistant to a Streamlit app. It answers visitor quest… |
-| 2026-10-28 06:53:27 | [heng-agent](https://pypi.org/project/heng-agent/) | 0.3.0 | 抓蛙师 | 519.4 kB | 中文优先的终端编码智能体：读代码、改代码、跑命令；支持 DeepSeek、Kimi、通义、GLM、Claude 等，兼容 Claude Code 配置 |
-| 2026-10-28 06:53:35 | [praxo-core](https://pypi.org/project/praxo-core/) | 0.2.1 | AxisVela | 98.3 kB | Python SDK for the PRAXO-CORE agent contract |
-| 2026-10-28 06:57:33 | [kombu-eventbus](https://pypi.org/project/kombu-eventbus/) | 0.1.0 | Kaiyrkhan | 15.9 kB | Small event bus over RabbitMQ: a shared JSON envelope, confirmed publishing and… |
-| 2026-10-28 06:57:45 | [mmccli](https://pypi.org/project/mmccli/) | 0.1.0 | MangoFanFanw | 54.8 kB | Minecraft Java Edition Manager in Commandline. |
-| 2026-10-28 06:58:17 | [nao-websocket-bridge-protocol](https://pypi.org/project/nao-websocket-bridge-protocol/) | 1.0.0 | Valentin Schröter Bonk <vasc9… | 14.1 kB | Shared message contract for the NAO WebSocket bridge. |
-| 2026-10-28 07:03:29 | [aula-connect](https://pypi.org/project/aula-connect/) | 0.0.1 | HairingX | 193.9 kB | Client for the Danish school platform Aula: MitID login, and the children's pro… |
-| 2026-10-28 07:11:01 | [synthpop-lib](https://pypi.org/project/synthpop-lib/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-10-28 07:15:47 | [800bus-mcp](https://pypi.org/project/800bus-mcp/) | 1.0.0 | 800BUS | 20.7 kB | 800BUS 公交图片档案站的 MCP 服务（只读）：让 AI 检索档案、资讯、地区、公司、用户公开资料、排行榜与地图标记 |
-| 2026-10-28 07:18:51 | [luckylucy.utils.regex.urls](https://pypi.org/project/luckylucy.utils.regex.urls/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 13.6 kB | A collection of utilities I use across different projects (luckylucy.utils.rege… |
-| 2026-10-28 07:18:55 | [luckylucy.utils.tg-bots.crawl](https://pypi.org/project/luckylucy.utils.tg-bots.crawl/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 13.7 kB | A collection of utilities I use across different projects (luckylucy.utils.tg_b… |
+| 2026-10-28 07:30:18 | [linux-mcp-agent](https://pypi.org/project/linux-mcp-agent/) | 1.0.0 | Linux MCP Team <contact@linux… | 65.0 kB | Linux MCP Agent - Remote Linux Server Management via MCP for AI Clients |
+| 2026-10-28 07:31:06 | [a3rbly-api](https://pypi.org/project/a3rbly-api/) | 0.1.0 |  | 9.9 kB | Python client for the A3rbly Arabic grammar and diacritization API |
+| 2026-10-28 07:33:34 | [suken-cite-guide](https://pypi.org/project/suken-cite-guide/) | 0.1.0 | suken | 6.8 MB | Giải thích có bằng chứng (ảnh nguồn khoanh đỏ kèm dòng dịch, tuyến truyện trên… |
+| 2026-10-28 07:34:11 | [a3rbly](https://pypi.org/project/a3rbly/) | 0.1.0 |  | 10.0 kB | Python client for the A3rbly Arabic grammar and diacritization API |
+| 2026-10-28 07:37:52 | [richrelay](https://pypi.org/project/richrelay/) | 1.0.5 | Hadi Cahyadi <cumulus13@gmail… | 79.6 kB | Send rich.print, Console.log, logging and exceptions to syslog (RFC 5424/3164),… |
+| 2026-10-28 07:41:03 | [muxtower](https://pypi.org/project/muxtower/) | 0.1.1 |  | 1.2 MB | Approve and drive coding agents running in tmux on a remote machine, from your… |
+| 2026-10-28 07:46:36 | [ambry](https://pypi.org/project/ambry/) | 0.1.3 | Pupil Dottif | 8.7 kB | A memory-efficient, iterable storage container with a limit. |
+| 2026-10-28 07:48:56 | [amivoice-api-client](https://pypi.org/project/amivoice-api-client/) | 1.0.0 | Advanced Media, Inc. | 139.6 kB | AmiVoice API Client Library for Python |
+| 2026-10-28 07:49:37 | [s1kit](https://pypi.org/project/s1kit/) | 0.2.0 | Eliot5566 | 36.2 kB | Test, calibrate and route System One decision models (Jev, Laya, kev, llama.cpp… |
+| 2026-10-28 07:52:47 | [graphvec-ann](https://pypi.org/project/graphvec-ann/) | 0.1.0 | Zahid Hasan <jahidhasann67@gm… | 57.5 kB | Local-first, file-based approximate nearest-neighbor vector search engine |
+| 2026-10-28 07:53:11 | [trilens-garmin-sync](https://pypi.org/project/trilens-garmin-sync/) | 2026.10.32 |  | 35.7 kB | Send your Garmin activities and wellness to TriLens from your own computer. |
+| 2026-10-28 07:55:13 | [steadygate](https://pypi.org/project/steadygate/) | 0.1.0 | Taylor Philpott | 292.8 kB | A statistical release gate for non-deterministic systems: LLM agents, evals, an… |
+| 2026-10-28 07:56:05 | [scalio-catalog](https://pypi.org/project/scalio-catalog/) | 0.1.0 |  | 44.8 kB | Scalio Blueprint governance catalog (scalio.catalog/v2): check, effective desir… |
+| 2026-10-28 07:58:14 | [scan-skill](https://pypi.org/project/scan-skill/) | 0.3.1 | legendteddy | 245.4 kB | Evidence-backed whole-project inspection core and agent skill |
+| 2026-10-28 08:03:23 | [drf-slider-captcha](https://pypi.org/project/drf-slider-captcha/) | 0.1.1 |  | 46.0 kB | One-time puzzle CAPTCHA API for Django REST Framework and rc-slider-captcha |
+| 2026-10-28 08:05:25 | [fhir-sync](https://pypi.org/project/fhir-sync/) | 0.10.3 |  | 66.8 kB | FHIR resource bundler and synchronization library |
+| 2026-10-28 08:06:00 | [bare-stow-host](https://pypi.org/project/bare-stow-host/) | 0.1.0 | Holepunch | 21.2 kB | Host side of the bare-stow lifecycle for Python |
+| 2026-10-28 08:06:42 | [vamp-aws-audit](https://pypi.org/project/vamp-aws-audit/) | 1.1.1 | VampSecure Studios <belky@pro… | 69.8 kB | Auditor CIS AWS Level 1 — 71 controles IAM/S3/EC2/CloudTrail/RDS/KMS/GuardDuty/… |
+| 2026-10-28 08:07:47 | [remote-task](https://pypi.org/project/remote-task/) | 0.1.0 | shunyaoyin | 47.8 kB | Upload code to Ubuntu, register remote jobs, queue and run them over SSH. |
+| 2026-10-28 08:11:22 | [dotnet-lab](https://pypi.org/project/dotnet-lab/) | 0.1.0 |  | 36.0 kB | Numbered .NET (ASP.NET Core MVC) practical steps and code viewer |
+| 2026-10-28 08:11:50 | [aprf-reader](https://pypi.org/project/aprf-reader/) | 0.1.0 |  | 25.3 kB | Summarise APRF (Aggregate Performance Reporting) inbox placement reports. |
+| 2026-10-28 08:12:17 | [mitid-connect](https://pypi.org/project/mitid-connect/) | 0.0.1 | HairingX | 36.1 kB | Log in through MitID from Python: an unofficial implementation of MitID's brows… |
+| 2026-10-28 08:14:19 | [signal-feed-mcp](https://pypi.org/project/signal-feed-mcp/) | 0.2.0 | Agrobroker LTD <hello@agenttr… | 37.1 kB | MCP server for Signal Feed API: daily market-regime context (risk-on / risk-off… |
+| 2026-10-28 08:15:08 | [aspnetcore-lab](https://pypi.org/project/aspnetcore-lab/) | 0.1.0 |  | 36.2 kB | Numbered .NET (ASP.NET Core MVC) practical steps and code viewer |
+| 2026-10-28 08:16:18 | [ntrun](https://pypi.org/project/ntrun/) | 0.1.0 | shengda zhao | 41.3 kB | CSV/TOML task dispatcher for local execution and Slurm |
