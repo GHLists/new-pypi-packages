@@ -1,55 +1,55 @@
 {
   "list": {
-    "count": 54,
-    "from": "2026-10-28T14:18:33.39715Z",
-    "path": "data/new-packages-2026-10-28T15-19-17-376699Z.csv",
-    "to": "2026-10-28T15:19:17.376699Z"
+    "count": 52,
+    "from": "2026-10-28T15:19:17.376699Z",
+    "path": "data/new-packages-2026-10-28T16-18-32-019469Z.csv",
+    "to": "2026-10-28T16:18:32.019469Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-28T14:55:20Z",
       "package": "amd-rack-scraper",
       "since": "2026-10-28T14:18:33.39715Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-28T12:11:09Z",
-      "package": "jupyter-gridlook",
-      "since": "2026-10-28T11:19:39.713233Z",
+      "attempts": 1,
+      "created_at": "2026-10-28T16:18:28Z",
+      "package": "bpdrift",
+      "since": "2026-10-28T15:19:17.376699Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-28T12:43:18Z",
       "package": "langchain-antfly",
       "since": "2026-10-28T12:19:25.557491Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-28T12:43:41Z",
       "package": "langgraph-store-antfly",
       "since": "2026-10-28T12:19:25.557491Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-10-28T12:05:31Z",
-      "package": "pinglet",
-      "since": "2026-10-28T11:19:39.713233Z",
+      "attempts": 1,
+      "created_at": "2026-10-28T15:45:23Z",
+      "package": "qiskit-bosons",
+      "since": "2026-10-28T15:19:17.376699Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-28T14:35:09Z",
       "package": "sisu-ufmg-notas-de-corte",
       "since": "2026-10-28T14:18:33.39715Z",
       "version": null
     }
   ],
-  "serial": 42872250,
+  "serial": 42874728,
   "source_truncated": false,
-  "window": "2026-10-28T15:19:17.376699Z"
+  "window": "2026-10-28T16:18:32.019469Z"
 }

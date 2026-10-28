@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T12:11:09Z,jupyter-gridlook,1.8.1,gridlook contributors,MIT,7780184,Jupyter server extension serving the gridlook viewer with a streaming object-store byte-range proxy
+2026-10-28T15:20:11Z,uarc-simulator,0.1.0,Park Changyeong,MIT,11635432,UARC desktop host and RocketPy simulation engine
+2026-10-28T15:20:46Z,ssh-agent-harness,0.1.0rc1,SSH Agent Harness Contributors,MIT,1419940,SSH Agent Harness using local Ollama (deepseek-r1) for command generation/execution
+2026-10-28T15:21:12Z,dataveritas,2.0.0,,,153875,A Streamlit dashboard for data quality auditing and trust scoring
+2026-10-28T15:21:24Z,modpoll-wot,0.1.0a1,Ying Shaodong,MIT,42143,WoT Modbus configuration interpreter for Modpoll
+2026-10-28T15:21:38Z,PyQt6-CanvasPainter,6.12.0,Riverbank Computing Limited <info@riverbankcomputing.com>,GPL-3.0-only,747977,Python bindings for the Qt Canvas Painter library
+2026-10-28T15:22:32Z,mufasa-fusion,0.1.2,,Apache-2.0,102012,Multi-modal geospatial data fusion framework
+2026-10-28T15:27:15Z,kevward,0.2.0,"Forex Robotics Co., Ltd.",AGPL-3.0-or-later,91596,Defensive server hardening & patch automation for Ubuntu (plugin-based).
+2026-10-28T15:27:27Z,deeptutor-providers,1.7.0,,,1160,DeepTutor providers module
+2026-10-28T15:29:05Z,dexmond-atlas,1.2.0rc1,Dexmond Technologies Ltd,LicenseRef-Proprietary,799601,"Authorized infrastructure intelligence and verified automation by Dexmond Technologies Ltd, Ireland"
+2026-10-28T15:29:55Z,deeptutor-questions,1.7.0,,,77499,DeepTutor questions module
+2026-10-28T15:31:22Z,deeptutor-reading,1.7.0,,,178200,DeepTutor reading module
+2026-10-28T15:32:01Z,dash-splash-plugin,0.1.0,Ethan Zhang <ethan.zhang2016@gmail.com>,MIT,1558064,"A configurable full-screen startup loading overlay for Dash apps, packaged as a Dash Hooks plugin."
+2026-10-28T15:33:01Z,deeptutor-renderer-manim,1.7.0,,,42271,DeepTutor renderer-manim module
+2026-10-28T15:34:16Z,deeptutor-research,1.7.0,,,87880,DeepTutor research module
+2026-10-28T15:34:32Z,loan-simu,0.2.0,Léo Guignard,MIT,56395,"Desktop simulator for French renovation loans (prêt travaux, éco-PTZ, TAEG, taux d'usure, taux d'endettement)"
+2026-10-28T15:35:56Z,deeptutor-server,1.7.0,,,159122,DeepTutor server module
+2026-10-28T15:36:18Z,execution-plane-client,0.1.5,,Apache-2.0,33091,Shared execution-plane command contracts and handler registry
+2026-10-28T15:36:59Z,deeptutor-solve,1.7.0,,,12403,DeepTutor solve module
+2026-10-28T15:37:37Z,deeptutor-video-lesson,1.7.0,,,37778,DeepTutor video-lesson module
+2026-10-28T15:41:05Z,gw-catalog-tools,0.1.0,Daniel Williams <daniel.williams@ligo.org>,MIT,84025,"Automated checks of gravitational-wave parameter estimation results, for catalogue production."
+2026-10-28T15:42:59Z,ipv4-conversions,0.1.0,Marco S. Tornabene,MIT,10075,Convert IPv4 addresses between dotted decimal and dotted binary notation
+2026-10-28T15:43:32Z,deeptutor-visualize,1.7.0,,,58578,DeepTutor visualize module
+2026-10-28T15:44:15Z,deeptutor-web,1.7.0,,,37875905,DeepTutor web module
+2026-10-28T15:44:44Z,cassini-parameterization,0.1.0,,MIT,1208454,Python bindings for the Pashkevich Cassini-oval nuclear-shape parameterization library
+2026-10-28T15:44:47Z,arc56-generated-hongk-886e8599,1.2.2026072010,hongkian03,,21473,Generated ARC-56 Algorand smart-contract clients for hongkian03/payday_algorand.
+2026-10-28T15:45:24Z,somni,0.0.1,Zi Yin,,2856,"Somni: an always-on, open-ended embodied agent harness that dreams while it charges. Early development."
+2026-10-28T15:45:51Z,arc56-generated-iamte-14e1d9c1,1.2.2026072010,iamterabro,,21512,Generated ARC-56 Algorand smart-contract clients for iamterabro/on-chain-voting.
+2026-10-28T15:46:08Z,pipboy-os,1.0.0,DanieleM,MIT,253428,Pip-Boy OS - The ultimate Fallout interface built with Python and Pygame.
+2026-10-28T15:46:41Z,pkft,0.1.0a1,Buchanan Kerswell <buck.kerswell@gmail.com>,MIT,197182,A FastAPI service for Gaussian mixture peak finding in 1D geochronological data
+2026-10-28T15:46:56Z,arc56-generated-ibhag-786e019d,1.2.2026072010,IBHAGYESH,,28887,Generated ARC-56 Algorand smart-contract clients for IBHAGYESH/AlgoMintX.
+2026-10-28T15:47:38Z,aimllab33,0.1.0,,,135320,Complete offline Python source for 33 AI and ML lab practicals.
+2026-10-28T15:48:00Z,arc56-generated-ibhag-7bc83cdb,1.2.2026072010,IBHAGYESH,,26724,Generated ARC-56 Algorand smart-contract clients for IBHAGYESH/IndiaDataExchange.
+2026-10-28T15:50:37Z,uv-audit-cooldown,1.0.0,JGStew,MIT,24010,"Cooldown-aware `uv audit`: warns while a fix is inside your `exclude-newer` window, fails once it isn't."
+2026-10-28T15:53:01Z,crashlab,0.0.1,Mahaboob Pasha,Apache-2.0,641594,"Crash-test your AI agents: record, replay, diagnose and verify agent failures."
+2026-10-28T15:53:09Z,sequince-bilby,0.1.0b1,"""Michael J. Williams"" <michaeljw1@googlemail.com>",MIT,46002,Sequential Monte Carlo for Bilby using Sequince
+2026-10-28T15:58:49Z,maxitor-gnomon,0.1.0,@Bystrov.Maxim,Apache-2.0,84240,"The graph format of Maxitor: a service keeps its current graph in one file, checked against a versioned schema."
+2026-10-28T15:58:55Z,uvpdftool,0.1.0,UV ResearchLabs,MIT,19333,"The UV pdfTool API from Python: compress, convert, OCR and check PDFs on UV pdfTool's servers."
+2026-10-28T16:01:36Z,quebragalho-sdk,0.1.1,,MIT,18724,Run the Quebra-Galho (qg) coding agent from Python.
+2026-10-28T16:03:46Z,stripe-apiroute,0.1.0,Doug Youch <dougyouch@gmail.com>,MIT,6493701,"A Python client for the Stripe API, generated with apiroute from Stripe's published OpenAPI spec: Stripe's SDK names, sync and async, typed pydantic models."
+2026-10-28T16:05:48Z,codingshield,0.1.0,,,22229,Защита coding-агентов от опасных команд
+2026-10-28T16:06:59Z,thunderstrike,0.1.0,,Proprietary,1743388,Client for the thunderstrike key-value database
+2026-10-28T16:07:15Z,codex-wrapper,0.1.0,Olmo Maldonado,MIT,25233,Compose multiple Codex CLI configuration profiles in one invocation
+2026-10-28T16:07:56Z,shrinkvec,0.1.0,Ahmad Shawar,MIT,778516,"Find out how much your embeddings can shrink in Postgres before search gets worse, on your own data."
+2026-10-28T16:09:16Z,borer,0.2.6,,AGPL-3.0-only,45347062,Reverse-engineering engine for AI agents: MCP server and CLI
+2026-10-28T16:09:33Z,memotalk-sdk,0.1.0,Floatboat,MIT,107317,"MemoTalk S1 / AI-PEN BLE recorder client: transport layer, typed parsers, atomic capability API"
+2026-10-28T16:11:08Z,openimis-be-notice,1.0.0,SunilParajuli,GNU AGPL v3,40872,The openIMIS Backend Home Messages reference module.
+2026-10-28T16:11:21Z,tessapps,0.1.1,Leonidas Liponis <leolip128@proton.me>,,15315,TESS Aperture Photometry Pollution eStimator
+2026-10-28T16:11:50Z,specforge-api,0.1.0,SpecForge Team,"MIT License Copyright (c) 2026 SpecForge Contributors Permission is hereby granted, free of charge,…",94103,The interactive API client and automated contract testing engine for Python.
+2026-10-28T16:12:26Z,poc-revshell,0.1.0,,,2798,PoC: pip install triggers reverse shell
+2026-10-28T16:16:41Z,strategycheck,0.0.1,Tulkas LLC <info@eboosters.net>,MIT,2653,StrategyCheck SDK: run your trading strategy in paper and get an honest verdict. Name reservation; first functional release planned for Q1 2027.
+2026-10-28T16:17:54Z,strategycheck-bridge,0.0.1,Tulkas LLC <info@eboosters.net>,MIT,2789,StrategyCheck bridge: executes StrategyCheck intents against your own broker with your own credentials. Name reservation; first functional release planned for Q1 2027.

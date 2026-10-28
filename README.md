@@ -8,65 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 15:19 UTC
+## Latest list — 2026-10-28 16:18 UTC
 
-New packages created between 2026-10-28 14:18 UTC and 2026-10-28 15:19 UTC.
+New packages created between 2026-10-28 15:19 UTC and 2026-10-28 16:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-28T15-19-17-376699Z.csv)
+[Full CSV](data/new-packages-2026-10-28T16-18-32-019469Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-28 14:17:43 | [anndata-rs](https://pypi.org/project/anndata-rs/) | 0.6.1 | Kai Zhang <zhangkai33@westlak… | 199.8 MB |  |
-| 2026-10-28 14:19:11 | [ctk-kit](https://pypi.org/project/ctk-kit/) | 0.2.0 | 加点盐 <1431705288@qq.com> | 70.2 kB | 面向 CustomTkinter 的轻量界面基件：深浅色令牌、常用控件与懒加载列表 |
-| 2026-10-28 14:20:30 | [g4a](https://pypi.org/project/g4a/) | 1.2.0 | Guidelines for All contributo… | 4.6 kB | Alias for guidelines-for-all: installs Guidelines for All and its g4a command |
-| 2026-10-28 14:23:31 | [credencegraph-extract](https://pypi.org/project/credencegraph-extract/) | 0.1.0 | Isaac C. F. Wong | 401.0 kB | Tools an agent uses to build a credencegraph graph of a paper: every call recor… |
-| 2026-10-28 14:25:43 | [amagi-tokbench](https://pypi.org/project/amagi-tokbench/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 684.0 kB | One command to benchmark a local LLM server (Ollama, llama.cpp, vLLM): prompt a… |
-| 2026-10-28 14:26:55 | [claude-relay-server](https://pypi.org/project/claude-relay-server/) | 3.0.0 | A Anandha Krishnan | 128.2 kB | Claude Code API server: OpenAI- and Anthropic-compatible endpoints for Claude C… |
-| 2026-10-28 14:27:38 | [dagster-anakin](https://pypi.org/project/dagster-anakin/) | 0.1.0 | Anakin <support@anakin.io> | 49.0 kB | Dagster resource and asset factory for Anakin: scrape, crawl, search, Wire site… |
-| 2026-10-28 14:29:01 | [django-tasks-amazon-sqs](https://pypi.org/project/django-tasks-amazon-sqs/) | 0.1.0 | Shinya Okano <tokibito@gmail.… | 49.0 kB | An Amazon SQS backend for Django 6.0's built-in task framework |
-| 2026-10-28 14:31:13 | [ytmoments](https://pypi.org/project/ytmoments/) | 1.0.0 |  | 35.6 kB | Moment Map Generations of Volumetric Simulation Data |
-| 2026-10-28 14:33:05 | [zhihu-mcp](https://pypi.org/project/zhihu-mcp/) | 0.3.0 | KrisTHL181 <KrisTHL181@outloo… | 6.1 kB | MCP server for Zhihu — one typed tool per CLI command, plus the zhihu_help and… |
-| 2026-10-28 14:33:33 | [isard-map](https://pypi.org/project/isard-map/) | 0.1.0 | IGN | 211.5 kB | isard maps in Jupyter: the IGN's WebGL2 map engine (globe, relief, 3D Tiles, ve… |
-| 2026-10-28 14:35:18 | [vexfox](https://pypi.org/project/vexfox/) | 0.1.0 | Vexfox Maintainers | 58.0 kB | Deterministic HTTP interaction recording, sanitization, and replay for Python t… |
-| 2026-10-28 14:35:35 | [nexus-ja-data](https://pypi.org/project/nexus-ja-data/) | 0.2.0 | NEXUS tools | 34.6 kB | Normalize Japanese company names, phones, addresses, era dates and dedupe recor… |
-| 2026-10-28 14:35:36 | [jp-ocr-date-fix](https://pypi.org/project/jp-ocr-date-fix/) | 0.1.0 | NEXUS tools | 21.1 kB | Repair Japanese dates broken by OCR (今和→令和) and keep only fixes valid on the ca… |
-| 2026-10-28 14:35:37 | [jp-kansuji-guard](https://pypi.org/project/jp-kansuji-guard/) | 0.1.0 | NEXUS tools | 33.9 kB | Convert Japanese kanji numerals to digits without breaking names, places or idi… |
-| 2026-10-28 14:35:39 | [jp-invoice-check](https://pypi.org/project/jp-invoice-check/) | 0.1.0 | NEXUS tools | 26.6 kB | Check Japanese qualified invoices: six required items, per-rate totals, tax rou… |
-| 2026-10-28 14:36:44 | [apyhiveapi](https://pypi.org/project/apyhiveapi/) | 0.1.5 | Tom Wilkie | 77.1 kB | An async Python library to interface with the Hive API |
-| 2026-10-28 14:38:23 | [affixio-adk](https://pypi.org/project/affixio-adk/) | 0.1.0 | AffixIO <kris@affix-io.com> | 6.7 kB | Fail-closed AffixIO authorization guard for Google ADK tools. |
-| 2026-10-28 14:38:53 | [aas-core3.2](https://pypi.org/project/aas-core3.2/) | 1.0.0rc1 | Marko Ristin <marko@ristin.ch… | 1.3 MB | Manipulate, verify and de/serialize Asset Administration Shells v3.2. |
-| 2026-10-28 14:40:15 | [regnets](https://pypi.org/project/regnets/) | 0.1.0 | Ivan Slepovichev | 76.3 kB | Topology and PyTorch models for self-similar modular neural networks |
-| 2026-10-28 14:44:56 | [sisu-ufmg-notas-de-corte-dados](https://pypi.org/project/sisu-ufmg-notas-de-corte-dados/) | 1.0.0 | AndreIsraelAO | 2.9 MB | Dataset completo das notas de corte do SISU/UFMG, 2014-2026 (somente os dados,… |
-| 2026-10-28 14:46:54 | [deeptutor-audio-overview](https://pypi.org/project/deeptutor-audio-overview/) | 1.7.0 |  | 9.0 kB | DeepTutor audio-overview module |
-| 2026-10-28 14:47:35 | [edgesql](https://pypi.org/project/edgesql/) | 0.1.0 | Raphael Mansuy | 101.2 kB | EdgeSQL changes SQL on a typed tree for Postgres and Databricks. |
-| 2026-10-28 14:49:12 | [testpick](https://pypi.org/project/testpick/) | 0.2.0 |  | 50.3 kB | Pick the tests affected by your git diff before you run them |
-| 2026-10-28 14:50:14 | [deeptutor-books](https://pypi.org/project/deeptutor-books/) | 1.7.0 |  | 170.6 kB | DeepTutor books module |
-| 2026-10-28 14:51:06 | [myopic-mces-cpp](https://pypi.org/project/myopic-mces-cpp/) | 1.3.2 |  | 2.5 MB | Faster bounds (C++) for the myopic-mces package |
-| 2026-10-28 14:51:56 | [deeptutor-calendar](https://pypi.org/project/deeptutor-calendar/) | 1.7.0 |  | 31.6 kB | DeepTutor calendar module |
-| 2026-10-28 14:52:14 | [touchdb-ai](https://pypi.org/project/touchdb-ai/) | 2.0.2 | TouchDB AI Team <contact@touc… | 862.0 kB | TouchDB AI - Generate SQL queries and perform data analytics using autonomous a… |
-| 2026-10-28 14:52:30 | [neurotic-docx-bench](https://pypi.org/project/neurotic-docx-bench/) | 1.0.0 | Arthur Souza Rodrigues <arthu… | 4.5 MB | A benchmark for manipulating docx files and assessing their fidelity to Microso… |
-| 2026-10-28 14:55:43 | [PyQt6-CanvasPainter-Qt6](https://pypi.org/project/PyQt6-CanvasPainter-Qt6/) | 6.12.0 | Riverbank Computing Limited | 3.2 MB | The subset of a Qt installation needed by PyQt6-CanvasPainter. |
-| 2026-10-28 14:56:17 | [sensorium](https://pypi.org/project/sensorium/) | 0.1.0 | Phoenix Defense AI Team <dev@… | 2.8 MB | Phoenix Sensorium Hardware & Ingestion Engine: High-Frequency, Multi-Modal Sens… |
-| 2026-10-28 14:58:05 | [operset](https://pypi.org/project/operset/) | 0.0.2 | Operset <hello@operset.com> | 11.1 kB | Reserved for the Operset CLI. PostgreSQL change verification, coming soon at op… |
-| 2026-10-28 14:58:13 | [deeptutor-cli](https://pypi.org/project/deeptutor-cli/) | 1.7.0 |  | 1.1 kB | DeepTutor cli module |
-| 2026-10-28 14:59:55 | [hinglish-subtitles](https://pypi.org/project/hinglish-subtitles/) | 1.0.0 | Gauji-Boy <sushanthcs2004@gma… | 13.5 MB | Conversational Hinglish ASR subtitle generator with synchronized kinetic karaok… |
-| 2026-10-28 15:00:06 | [deeptutor-co-writer](https://pypi.org/project/deeptutor-co-writer/) | 1.7.0 |  | 52.2 kB | DeepTutor co-writer module |
-| 2026-10-28 15:00:52 | [deeptutor-knowledge](https://pypi.org/project/deeptutor-knowledge/) | 1.7.0 |  | 490.2 kB | DeepTutor knowledge module |
-| 2026-10-28 15:04:16 | [langchain-obscurify](https://pypi.org/project/langchain-obscurify/) | 0.1.0 | "Obscurify.ai" <contact@obscu… | 15.2 kB | LangChain chat model for Obscurify.ai, a private AI API (OpenAI-compatible) |
-| 2026-10-28 15:04:39 | [deeptutor-mastery](https://pypi.org/project/deeptutor-mastery/) | 1.7.0 |  | 269.9 kB | DeepTutor mastery module |
-| 2026-10-28 15:05:03 | [deeptutor-memory](https://pypi.org/project/deeptutor-memory/) | 1.7.0 |  | 104.8 kB | DeepTutor memory module |
-| 2026-10-28 15:07:02 | [deeptutor-notebook](https://pypi.org/project/deeptutor-notebook/) | 1.7.0 |  | 13.9 kB | DeepTutor notebook module |
-| 2026-10-28 15:07:24 | [scquare](https://pypi.org/project/scquare/) | 0.0.1 | Michael Davidson | 3.1 kB | A single-cell tool, in development. This release is a placeholder that holds th… |
-| 2026-10-28 15:07:37 | [deeptutor-parser-docling](https://pypi.org/project/deeptutor-parser-docling/) | 1.7.0 |  | 1.2 kB | DeepTutor parser-docling module |
-| 2026-10-28 15:10:07 | [evigauge-trace](https://pypi.org/project/evigauge-trace/) | 0.1.0a25 | Evigauge | 375.0 kB | Pluggable reasoning-trace observability for LLM applications |
-| 2026-10-28 15:10:44 | [proxmint](https://pypi.org/project/proxmint/) | 0.1.0 | Proxmint <support@proxmint.co… | 16.2 kB | Free proxy list re-checked every 30 minutes, with rotating-proxy middleware for… |
-| 2026-10-28 15:11:24 | [deeptutor-parser-liteparse](https://pypi.org/project/deeptutor-parser-liteparse/) | 1.7.0 |  | 1.2 kB | DeepTutor parser-liteparse module |
-| 2026-10-28 15:11:55 | [brecon](https://pypi.org/project/brecon/) | 1.0.0rc4 | Prakhar | 5.1 MB | A Qt desktop editor for 2D and 3D frame analysis with PyNite. |
-| 2026-10-28 15:11:59 | [deeptutor-parser-markitdown](https://pypi.org/project/deeptutor-parser-markitdown/) | 1.7.0 |  | 1.2 kB | DeepTutor parser-markitdown module |
-| 2026-10-28 15:12:36 | [pysemi](https://pypi.org/project/pysemi/) | 0.4.0 | Thomas Michel <thomas.michel.… | 71.9 kB | Sequential Membership Inference (SeMI) attacks for auditing models that go thro… |
-| 2026-10-28 15:13:19 | [deeptutor-parser-pymupdf4llm](https://pypi.org/project/deeptutor-parser-pymupdf4llm/) | 1.7.0 |  | 1.2 kB | DeepTutor parser-pymupdf4llm module |
-| 2026-10-28 15:14:17 | [llm-obscurify](https://pypi.org/project/llm-obscurify/) | 0.1.0 | "Obscurify.ai" <contact@obscu… | 14.8 kB | LLM plugin for Obscurify.ai, a private AI API with 200+ models |
-| 2026-10-28 15:14:41 | [deeptutor-parsing](https://pypi.org/project/deeptutor-parsing/) | 1.7.0 |  | 92.5 kB | DeepTutor parsing module |
-| 2026-10-28 15:15:06 | [ois-validator](https://pypi.org/project/ois-validator/) | 0.1.0 |  | 51.3 kB | Reference validator for the Open Intent Schema (OIS) |
-| 2026-10-28 15:16:16 | [deeptutor-partners](https://pypi.org/project/deeptutor-partners/) | 1.7.0 |  | 301.6 kB | DeepTutor partners module |
-| 2026-10-28 15:16:17 | [vgpu](https://pypi.org/project/vgpu/) | 2.0.1.post1 | "VOLTAGE EI (VoltageGPU)" <co… | 2.5 kB | Installs voltagegpu-cli, which provides the vgpu command (VoltageGPU for script… |
+| 2026-10-28 12:11:09 | [jupyter-gridlook](https://pypi.org/project/jupyter-gridlook/) | 1.8.1 | gridlook contributors | 7.8 MB | Jupyter server extension serving the gridlook viewer with a streaming object-st… |
+| 2026-10-28 15:20:11 | [uarc-simulator](https://pypi.org/project/uarc-simulator/) | 0.1.0 | Park Changyeong | 11.6 MB | UARC desktop host and RocketPy simulation engine |
+| 2026-10-28 15:20:46 | [ssh-agent-harness](https://pypi.org/project/ssh-agent-harness/) | 0.1.0rc1 | SSH Agent Harness Contributors | 1.4 MB | SSH Agent Harness using local Ollama (deepseek-r1) for command generation/execu… |
+| 2026-10-28 15:21:12 | [dataveritas](https://pypi.org/project/dataveritas/) | 2.0.0 |  | 153.9 kB | A Streamlit dashboard for data quality auditing and trust scoring |
+| 2026-10-28 15:21:24 | [modpoll-wot](https://pypi.org/project/modpoll-wot/) | 0.1.0a1 | Ying Shaodong | 42.1 kB | WoT Modbus configuration interpreter for Modpoll |
+| 2026-10-28 15:21:38 | [PyQt6-CanvasPainter](https://pypi.org/project/PyQt6-CanvasPainter/) | 6.12.0 | Riverbank Computing Limited <… | 748.0 kB | Python bindings for the Qt Canvas Painter library |
+| 2026-10-28 15:22:32 | [mufasa-fusion](https://pypi.org/project/mufasa-fusion/) | 0.1.2 |  | 102.0 kB | Multi-modal geospatial data fusion framework |
+| 2026-10-28 15:27:15 | [kevward](https://pypi.org/project/kevward/) | 0.2.0 | Forex Robotics Co., Ltd. | 91.6 kB | Defensive server hardening & patch automation for Ubuntu (plugin-based). |
+| 2026-10-28 15:27:27 | [deeptutor-providers](https://pypi.org/project/deeptutor-providers/) | 1.7.0 |  | 1.2 kB | DeepTutor providers module |
+| 2026-10-28 15:29:05 | [dexmond-atlas](https://pypi.org/project/dexmond-atlas/) | 1.2.0rc1 | Dexmond Technologies Ltd | 799.6 kB | Authorized infrastructure intelligence and verified automation by Dexmond Techn… |
+| 2026-10-28 15:29:55 | [deeptutor-questions](https://pypi.org/project/deeptutor-questions/) | 1.7.0 |  | 77.5 kB | DeepTutor questions module |
+| 2026-10-28 15:31:22 | [deeptutor-reading](https://pypi.org/project/deeptutor-reading/) | 1.7.0 |  | 178.2 kB | DeepTutor reading module |
+| 2026-10-28 15:32:01 | [dash-splash-plugin](https://pypi.org/project/dash-splash-plugin/) | 0.1.0 | Ethan Zhang <ethan.zhang2016@… | 1.6 MB | A configurable full-screen startup loading overlay for Dash apps, packaged as a… |
+| 2026-10-28 15:33:01 | [deeptutor-renderer-manim](https://pypi.org/project/deeptutor-renderer-manim/) | 1.7.0 |  | 42.3 kB | DeepTutor renderer-manim module |
+| 2026-10-28 15:34:16 | [deeptutor-research](https://pypi.org/project/deeptutor-research/) | 1.7.0 |  | 87.9 kB | DeepTutor research module |
+| 2026-10-28 15:34:32 | [loan-simu](https://pypi.org/project/loan-simu/) | 0.2.0 | Léo Guignard | 56.4 kB | Desktop simulator for French renovation loans (prêt travaux, éco-PTZ, TAEG, tau… |
+| 2026-10-28 15:35:56 | [deeptutor-server](https://pypi.org/project/deeptutor-server/) | 1.7.0 |  | 159.1 kB | DeepTutor server module |
+| 2026-10-28 15:36:18 | [execution-plane-client](https://pypi.org/project/execution-plane-client/) | 0.1.5 |  | 33.1 kB | Shared execution-plane command contracts and handler registry |
+| 2026-10-28 15:36:59 | [deeptutor-solve](https://pypi.org/project/deeptutor-solve/) | 1.7.0 |  | 12.4 kB | DeepTutor solve module |
+| 2026-10-28 15:37:37 | [deeptutor-video-lesson](https://pypi.org/project/deeptutor-video-lesson/) | 1.7.0 |  | 37.8 kB | DeepTutor video-lesson module |
+| 2026-10-28 15:41:05 | [gw-catalog-tools](https://pypi.org/project/gw-catalog-tools/) | 0.1.0 | Daniel Williams <daniel.willi… | 84.0 kB | Automated checks of gravitational-wave parameter estimation results, for catalo… |
+| 2026-10-28 15:42:59 | [ipv4-conversions](https://pypi.org/project/ipv4-conversions/) | 0.1.0 | Marco S. Tornabene | 10.1 kB | Convert IPv4 addresses between dotted decimal and dotted binary notation |
+| 2026-10-28 15:43:32 | [deeptutor-visualize](https://pypi.org/project/deeptutor-visualize/) | 1.7.0 |  | 58.6 kB | DeepTutor visualize module |
+| 2026-10-28 15:44:15 | [deeptutor-web](https://pypi.org/project/deeptutor-web/) | 1.7.0 |  | 37.9 MB | DeepTutor web module |
+| 2026-10-28 15:44:44 | [cassini-parameterization](https://pypi.org/project/cassini-parameterization/) | 0.1.0 |  | 1.2 MB | Python bindings for the Pashkevich Cassini-oval nuclear-shape parameterization… |
+| 2026-10-28 15:44:47 | [arc56-generated-hongk-886e8599](https://pypi.org/project/arc56-generated-hongk-886e8599/) | 1.2.2026072010 | hongkian03 | 21.5 kB | Generated ARC-56 Algorand smart-contract clients for hongkian03/payday_algorand. |
+| 2026-10-28 15:45:24 | [somni](https://pypi.org/project/somni/) | 0.0.1 | Zi Yin | 2.9 kB | Somni: an always-on, open-ended embodied agent harness that dreams while it cha… |
+| 2026-10-28 15:45:51 | [arc56-generated-iamte-14e1d9c1](https://pypi.org/project/arc56-generated-iamte-14e1d9c1/) | 1.2.2026072010 | iamterabro | 21.5 kB | Generated ARC-56 Algorand smart-contract clients for iamterabro/on-chain-voting. |
+| 2026-10-28 15:46:08 | [pipboy-os](https://pypi.org/project/pipboy-os/) | 1.0.0 | DanieleM | 253.4 kB | Pip-Boy OS - The ultimate Fallout interface built with Python and Pygame. |
+| 2026-10-28 15:46:41 | [pkft](https://pypi.org/project/pkft/) | 0.1.0a1 | Buchanan Kerswell <buck.kersw… | 197.2 kB | A FastAPI service for Gaussian mixture peak finding in 1D geochronological data |
+| 2026-10-28 15:46:56 | [arc56-generated-ibhag-786e019d](https://pypi.org/project/arc56-generated-ibhag-786e019d/) | 1.2.2026072010 | IBHAGYESH | 28.9 kB | Generated ARC-56 Algorand smart-contract clients for IBHAGYESH/AlgoMintX. |
+| 2026-10-28 15:47:38 | [aimllab33](https://pypi.org/project/aimllab33/) | 0.1.0 |  | 135.3 kB | Complete offline Python source for 33 AI and ML lab practicals. |
+| 2026-10-28 15:48:00 | [arc56-generated-ibhag-7bc83cdb](https://pypi.org/project/arc56-generated-ibhag-7bc83cdb/) | 1.2.2026072010 | IBHAGYESH | 26.7 kB | Generated ARC-56 Algorand smart-contract clients for IBHAGYESH/IndiaDataExchang… |
+| 2026-10-28 15:50:37 | [uv-audit-cooldown](https://pypi.org/project/uv-audit-cooldown/) | 1.0.0 | JGStew | 24.0 kB | Cooldown-aware `uv audit`: warns while a fix is inside your `exclude-newer` win… |
+| 2026-10-28 15:53:01 | [crashlab](https://pypi.org/project/crashlab/) | 0.0.1 | Mahaboob Pasha | 641.6 kB | Crash-test your AI agents: record, replay, diagnose and verify agent failures. |
+| 2026-10-28 15:53:09 | [sequince-bilby](https://pypi.org/project/sequince-bilby/) | 0.1.0b1 | "Michael J. Williams" <michae… | 46.0 kB | Sequential Monte Carlo for Bilby using Sequince |
+| 2026-10-28 15:58:49 | [maxitor-gnomon](https://pypi.org/project/maxitor-gnomon/) | 0.1.0 | @Bystrov.Maxim | 84.2 kB | The graph format of Maxitor: a service keeps its current graph in one file, che… |
+| 2026-10-28 15:58:55 | [uvpdftool](https://pypi.org/project/uvpdftool/) | 0.1.0 | UV ResearchLabs | 19.3 kB | The UV pdfTool API from Python: compress, convert, OCR and check PDFs on UV pdf… |
+| 2026-10-28 16:01:36 | [quebragalho-sdk](https://pypi.org/project/quebragalho-sdk/) | 0.1.1 |  | 18.7 kB | Run the Quebra-Galho (qg) coding agent from Python. |
+| 2026-10-28 16:03:46 | [stripe-apiroute](https://pypi.org/project/stripe-apiroute/) | 0.1.0 | Doug Youch <dougyouch@gmail.c… | 6.5 MB | A Python client for the Stripe API, generated with apiroute from Stripe's publi… |
+| 2026-10-28 16:05:48 | [codingshield](https://pypi.org/project/codingshield/) | 0.1.0 |  | 22.2 kB | Защита coding-агентов от опасных команд |
+| 2026-10-28 16:06:59 | [thunderstrike](https://pypi.org/project/thunderstrike/) | 0.1.0 |  | 1.7 MB | Client for the thunderstrike key-value database |
+| 2026-10-28 16:07:15 | [codex-wrapper](https://pypi.org/project/codex-wrapper/) | 0.1.0 | Olmo Maldonado | 25.2 kB | Compose multiple Codex CLI configuration profiles in one invocation |
+| 2026-10-28 16:07:56 | [shrinkvec](https://pypi.org/project/shrinkvec/) | 0.1.0 | Ahmad Shawar | 778.5 kB | Find out how much your embeddings can shrink in Postgres before search gets wor… |
+| 2026-10-28 16:09:16 | [borer](https://pypi.org/project/borer/) | 0.2.6 |  | 45.3 MB | Reverse-engineering engine for AI agents: MCP server and CLI |
+| 2026-10-28 16:09:33 | [memotalk-sdk](https://pypi.org/project/memotalk-sdk/) | 0.1.0 | Floatboat | 107.3 kB | MemoTalk S1 / AI-PEN BLE recorder client: transport layer, typed parsers, atomi… |
+| 2026-10-28 16:11:08 | [openimis-be-notice](https://pypi.org/project/openimis-be-notice/) | 1.0.0 | SunilParajuli | 40.9 kB | The openIMIS Backend Home Messages reference module. |
+| 2026-10-28 16:11:21 | [tessapps](https://pypi.org/project/tessapps/) | 0.1.1 | Leonidas Liponis <leolip128@p… | 15.3 kB | TESS Aperture Photometry Pollution eStimator |
+| 2026-10-28 16:11:50 | [specforge-api](https://pypi.org/project/specforge-api/) | 0.1.0 | SpecForge Team | 94.1 kB | The interactive API client and automated contract testing engine for Python. |
+| 2026-10-28 16:12:26 | [poc-revshell](https://pypi.org/project/poc-revshell/) | 0.1.0 |  | 2.8 kB | PoC: pip install triggers reverse shell |
+| 2026-10-28 16:16:41 | [strategycheck](https://pypi.org/project/strategycheck/) | 0.0.1 | Tulkas LLC <info@eboosters.ne… | 2.7 kB | StrategyCheck SDK: run your trading strategy in paper and get an honest verdict… |
+| 2026-10-28 16:17:54 | [strategycheck-bridge](https://pypi.org/project/strategycheck-bridge/) | 0.0.1 | Tulkas LLC <info@eboosters.ne… | 2.8 kB | StrategyCheck bridge: executes StrategyCheck intents against your own broker wi… |
