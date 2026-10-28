@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T11:23:00Z,opendataguard,1.0.0,OpenDataGuard Contributors,MIT,87665,"Open-Source Data Quality, Validation, and Reconciliation Platform"
+2026-10-28T11:23:24Z,nailayer,0.5.0,Branislav Brujic,LicenseRef-NAIL,841113,"NAIL (Neutral AI Interaction Layer): a diff viewer with review comments, and live chats with Claude Code, Codex and Antigravity"
+2026-10-28T11:24:15Z,turkmenOCR-lib,0.2.0,alibeg-begow <alibegbegow@gmail.com>,MIT,4293877,Run the TurkmenOCR text recognition model locally on NVIDIA GPUs from raw .safetensors weights.
+2026-10-28T11:25:06Z,seliseblocks-genesis-os,4.0.0,Selise Blocks <mostafizur.rahman@selisegroup.com>,MIT,386766,"Reusable FastAPI utilities like middlewares, singletons, and more for Selise Blocks and Selise Genesis projects."
+2026-10-28T11:25:51Z,textblast,0.9.0,Gleb Schmidt,MIT,58492087,Text reuse detection with a patched NCBI BLAST engine and a data-agnostic Python pipeline.
+2026-10-28T11:32:06Z,connetra-airflow-lineage,1.0.0,,# PROPRIETARY SOFTWARE LICENSE **Copyright © 2026 Connetra. All Rights Reserved.** This software pa…,21798,Connetra OpenLineage integration for Apache Airflow
+2026-10-28T11:32:12Z,fastapi-struct,0.2.0,,MIT,33087,"CLI tool to generate standard, layered enterprise folder structures for FastAPI applications."
+2026-10-28T11:32:23Z,qls-mgw-cli,0.1.1,,Apache-2.0,20087,Command line sign-in and Python library for the API Gateway for Cisco Meraki (not affiliated with Cisco)
+2026-10-28T11:33:28Z,superghidra-mcp,0.5.0,yuatemycat <344623529+yuatemycat@users.noreply.github.com>,,238312,SuperGhidra MCP Server: 42 Automated Reverse Engineering Tools for AI Agents
+2026-10-28T11:33:31Z,superghidra-mcp-cli,0.5.0,yuatemycat <344623529+yuatemycat@users.noreply.github.com>,,45338,Command-line client for superghidra-mcp server
+2026-10-28T11:34:49Z,rpx-kit,0.2.3,Padorublad3,MIT,11958,Toolkit for Ren'Py RPA 3.0 archives
+2026-10-28T11:35:40Z,upstash-hermes-memory,0.1.0,,MIT,40276,"Upstash Redis memory provider for Hermes Agent: long-term memory, searchable chat history and recall on Redis Search, with no separate vector database."
+2026-10-28T11:37:48Z,ai-prompt-toolkit,67.34.128,Guowenchao <gwc0218@qq.com>,MIT,2739635,AI提示词体系工具链：条件编译、安全扫描、A/B测试、Prompt Linter
+2026-10-28T11:39:19Z,model2vec-rs,0.0.1,Thomas van Dongen,,1425,Coming soon.
+2026-10-28T11:39:57Z,eeweather-epa,2026.10.13,opendsm <opendsm@lists.lfenergy.org>,Apache-2.0,14480820,Frozen snapshot of opendsm/eeweather (master @ 5dd1959) for epathermostat
+2026-10-28T11:47:26Z,justvectorize,0.1.0,Algora Ventures Limited <contact@justvectorize.com>,MIT,28366,"Vectorize images: turn PNG, JPG and WebP into SVG, PDF, EPS, AI or DXF with the JustVectorize API. Library and CLI."
+2026-10-28T11:48:45Z,paypilot-ach-returns-mcp,0.1.0,Ivan Skachek,PolyForm-Noncommercial-1.0.0,23687,Read-only MCP server: a deterministic decision table over ACH return codes.
+2026-10-28T11:52:31Z,provably-fair-verifier,1.0.0,CryptoPlay Guide <support@cryptoplay.guide>,MIT,9967,"Dependency-free provably fair verifier (Dice, Limbo, Crash) using HMAC-SHA256"
+2026-10-28T11:54:04Z,gcwerks,0.1.0,Lionel Constantin <lionel.constantin@empa.ch>,MIT,55423,"Readers of GCwerks directories (peak list, standards, drift, strip charts, chromatograms) and CLI helpers"
+2026-10-28T11:56:27Z,codeforces-mcp,0.1.0,Avinash Verma <your.email@example.com>,MIT,13526,"Production MCP server for Codeforces competitive programming, upsolving, and automated stress testing"
+2026-10-28T11:57:27Z,yamlly-cli,0.0.3,,,6625373,yamlly (ymly) — an interactive terminal UI (TUI) for building Kubernetes YAML manifests
+2026-10-28T11:57:49Z,deepseek-scanner,0.1.1,Dylan XM,Apache-2.0,42348,"Scan a codebase for DeepSeek exposure surface - hosted API endpoints, SDKs, model ids, dependencies, container pulls, local model artifacts - and generate an evidence report."
+2026-10-28T11:59:35Z,dailymeteo-mcp,0.2.0,Srđan Popović,GPL-2.0-or-later,40213,"MCP server for DailyMeteo: historical weather and climate normals for any land location, 1961 to the present"
+2026-10-28T12:05:40Z,ds-workspace-mcp,1.1.1,Diogo Ribeiro,MIT,222940,A Model Context Protocol server for safely inspecting and profiling local analytical datasets.
+2026-10-28T12:07:20Z,crawlen,0.1.0,,MIT,45433,"Official Python SDK for the Crawlen API: search, scrape, parse, map and crawl the web, and find people and companies."
+2026-10-28T12:08:18Z,feature-switch-client,0.2.1,,,14869,Async Python client for Feature Switch API
+2026-10-28T12:08:47Z,citable-cli,0.4.1,genzagents,MIT,73820,"Can ChatGPT, Claude and Perplexity read and cite your site? Checks robots.txt, edge blocks, llms.txt, schema and JS-only content. Zero dependencies. Also an MCP server."
+2026-10-28T12:08:47Z,rentready,0.7.0,genzagents,MIT,79524,"Is your English rental ready for the landlord database (Register your rental property, Renters' Rights Act)? Region window and deadline, gas/EICR/EPC validity, the £65 fee, the upload checklist. Zero…"
+2026-10-28T12:10:03Z,codeforces-mcp-avinash,0.1.1,Avinash Verma <your.email@example.com>,MIT,15585403,"Production MCP server for Codeforces competitive programming, upsolving, and automated stress testing"
+2026-10-28T12:12:18Z,pylibairplay,0.1.0,feedthedogs,MIT,104532,AirPlay screen-mirroring receiver in pure Python
+2026-10-28T12:13:05Z,creditratingsystem,0.1.0,RiskDataScience GmbH <riskdatascience@web.de>,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",7597649,"Offline credit risk modelling, calibration and validation"
+2026-10-28T12:13:11Z,airplay-mcp,0.1.0,,MIT,66436,"MCP server that receives AirPlay screen mirroring and lets AI clients see the phone screen, token-efficiently"
+2026-10-28T12:14:06Z,cytepool,0.1.0,Parashar Dhapola <parashar.dhapola@gmail.com>,BSD-3-Clause,1538614,"Statistics on pseudobulk and bulk omics data, built on numpy and numba"
+2026-10-28T12:18:47Z,slaython,0.3.0,memoliertorerr,,95016,"Python, but the keywords are gen-z slang. Fully interoperable with Python."
+2026-10-28T12:19:19Z,pooja-student-utility-toolkit,1.0.0,Pooja Rohtala <replace-with-your-email@example.com>,MIT,8497,"A beginner-friendly toolkit for student marks, grades, CGPA, and pass/fail calculations."
