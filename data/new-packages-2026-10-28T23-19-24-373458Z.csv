@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T22:21:41Z,DecisionTree-No-Scikit-Learn,0.1.0,Nat Ferr <Natpro0309@gmail.com>,MIT,55654,A decision tree without Scikit learn
+2026-10-28T22:24:42Z,skills-analyzer,0.1.0,Cobra Chicken <tasteslikecobrachicken@gmail.com>,MIT,16572,Inventory installed Claude skills and cross-reference them against usage
+2026-10-28T22:25:42Z,acteo,0.3.0,"""Acteo.ro"" <contact@acteo.ro>",MIT,101937,"SDK Python oficial pentru API-ul public Acteo: verificare RCA, ITP, rovinieta si copie conforma ARR dupa numar de inmatriculare sau serie de sasiu (VIN), monitorizarea flotei si webhook-uri de expira…"
+2026-10-28T22:31:18Z,orchid-mcp,0.1.0,Raymundo Arróyave,MIT,104534,"MCP server and static JSON API description for ORCHID CALPHAD data (literature values, phase diagrams, DFT hulls, TDB catalog) with full provenance"
+2026-10-28T22:32:52Z,abstract-client,0.1.0,,Apache-2.0,57596,"Abstract's robot API from Python: action chunks from served robot models, sync and asyncio."
+2026-10-28T22:33:44Z,maplibre-native-ffi-runtime-opengl,0.202610.3,,BSD-2-Clause,47388731,OpenGL runtime for the maplibre-native-ffi Python binding
+2026-10-28T22:33:46Z,maplibre-native-ffi,0.202610.3,,BSD-2-Clause,57910,Low-level Python bindings for MapLibre Native FFI
+2026-10-28T22:33:56Z,maplibre-native-ffi-runtime-metal,0.202610.3,,BSD-2-Clause,5313198,Metal runtime for the maplibre-native-ffi Python binding
+2026-10-28T22:38:43Z,abstract-robots,0.1.0,,Apache-2.0,171370,"The `abstract` command and the robot station: Abstract's robot models on your robot, several at once."
+2026-10-28T22:41:39Z,viewo-waiter,1.0.1,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,21387,
+2026-10-28T22:42:41Z,annotation-inspector,0.1.0,Vizonex <VizonexBusiness@gmail.com>,,13003,Provides tools for function inspection and translating annotations.
+2026-10-28T22:44:57Z,abstract-atoms,0.1.0,,Apache-2.0,2745,Abstract's robot API from Python in one install: the SDK and the abstract command.
+2026-10-28T22:44:57Z,syl-guardian-client,0.1.0,Syl AI <connor@sylai.io>,MIT,20588,"Python client and CrewAI/LangChain tools for Syl Guardian, a causal guardrail that checks AI agent claims (e.g. ad spend lift) before they act."
+2026-10-28T22:49:14Z,maplibre-native-ffi-runtime-vulkan,0.202610.3,,BSD-2-Clause,54313113,Vulkan runtime for the maplibre-native-ffi Python binding
+2026-10-28T22:50:49Z,phemius,0.1.0a1,Ivan Gonzalez,Apache-2.0,2039762,Hear your docs: turn documentation into narrated audio.
+2026-10-28T22:51:36Z,mezi,0.1.0,Pentarosa Co.,MIT,19250,The mezi API client and webhook verifier. Standard library only.
+2026-10-28T22:52:58Z,norvara-align-pair,1.0.0rc3,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,192265,"Global, glocal, overlap and local pairwise sequence alignment with affine gaps and published substitution matrices, from no third-party dependencies"
+2026-10-28T22:53:51Z,flaskteroids-turbo,0.1.0,Juan Sebastian Quintero,MIT,106736,Packaged upstream Turbo ESM runtime
+2026-10-28T22:55:59Z,notebooklm-mindmap-extractor,0.1.1,Jack Lichwa <jacklichwa@gmail.com>,MIT,62747,Compile NotebookLM mindmaps and generated responses into Markdown using Chrome CDP.
+2026-10-28T23:04:23Z,logmask,0.1.3,Lido,MIT,44064,JSON logging with masked secrets for Python services
+2026-10-28T23:08:27Z,llm-handoff,0.1.0,Chad Houghton,Apache-2.0,3775070,A file-based handoff dispatcher for multi-CLI agent workflows.
+2026-10-28T23:08:51Z,qa-agent-kit,0.6.0,younatics,MIT,420433,"The QA agent kit: mutation testing for any repo, prose gates with a claims ledger, and real-device QA for Apple apps, with the procedures an AI coding agent follows."
+2026-10-28T23:09:20Z,kcm-workspace,0.1.0,Kelson da Costa Medeiros <kelsoncm@gmail.com>,# License ## The MIT License (MIT) Copyright (c) 2026 python-by-kelsoncm Permission is hereby grant…,24884,"Base class for docker compose workspace scripts (clone, setup, launch, shell, manage and more)"
+2026-10-28T23:09:40Z,qn-util,0.0.0,Kengo NAKADA <kengo.nakada@email.com>,,52821,Qn network Tools
+2026-10-28T23:10:13Z,django-schedule-x,0.1.0,Rodolfo Valentín Becerra García <rodolvbg@gmail.com>,MIT,501099,Schedule-X calendar for Django: a slot-picker form field/widget and a read-only calendar template tag.
+2026-10-28T23:10:18Z,byteplussdk-vmp,0.0.1,byteplus-sdk,Apache License 2.0,960,Name reservation for the Byteplus Python SDK split package byteplussdk-vmp
+2026-10-28T23:10:20Z,finledgerpoli,0.3.0,,MIT,779884,"Evidence-first, model-neutral developer assistance for finance software"
+2026-10-28T23:10:24Z,byteplussdk-vod20250701,0.0.1,byteplus-sdk,Apache License 2.0,1023,Name reservation for the Byteplus Python SDK split package byteplussdk-vod20250701
+2026-10-28T23:10:30Z,byteplussdk-vpc,0.0.1,byteplus-sdk,Apache License 2.0,960,Name reservation for the Byteplus Python SDK split package byteplussdk-vpc
+2026-10-28T23:10:36Z,byteplussdk-vpc20250901,0.0.1,byteplus-sdk,Apache License 2.0,1023,Name reservation for the Byteplus Python SDK split package byteplussdk-vpc20250901
+2026-10-28T23:13:02Z,sealzone,0.2.0,,Apache-2.0,18684270,Seal: use secrets without holding them.
+2026-10-28T23:14:58Z,flaskteroids-lexxy,0.1.0,Juan Sebastian Quintero,MIT AND (Apache-2.0 OR MPL-2.0),472902,Packaged upstream Lexxy editor runtime and stylesheets
