@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T01:18:46Z,salin,0.1.0,krvspacetime <krv.becinal@gmail.com>,MIT,142048,"Typed Python client for YouTube subtitles: inspect, resolve, download, fetch in memory, and clean caption tracks."
+2026-10-28T01:19:39Z,wmshare,1.7.0,wmshare contributors,PolyForm-Noncommercial-1.0.0,839353,A 股个股数据 Python SDK：随包内置机器可读数据目录 + 云端取数客户端（开箱即用，内置体验 appid）
+2026-10-28T01:21:07Z,headway,0.1.0,,,182770,"See how a method works and how much each change to it gains: a checked computation graph of the code, its versions and their benchmark results"
+2026-10-28T01:22:18Z,kcard-collector,0.0.0,,MIT,2105,Name reserved for the kcard-mcp project. Contains no code; not meant to be installed.
+2026-10-28T01:22:18Z,kcard-core,0.0.0,,MIT,2062,Name reserved for the kcard-mcp project. Contains no code; not meant to be installed.
+2026-10-28T01:22:18Z,kcard-mcp,0.0.0,,MIT,2055,Name reserved for the kcard-mcp project. Contains no code; not meant to be installed.
+2026-10-28T01:23:39Z,scarwise,0.1.0,,Proprietary – see LICENSE,5405,Your AI agents stop repeating the same tool mistakes – Python SDK (needs the scarwise CLI: npm install -g scarwise).
+2026-10-28T01:24:45Z,tseffects,0.4.1,Merwan Roudane <merwanroudane920@gmail.com>,GPL-2.0-or-later,170691,Dynamic effects from single-equation time series models (with interactions)
+2026-10-28T01:29:59Z,ampup-memstore-cli,0.1.2,,Proprietary,8634490,"memstore-client: the sign-in, hooks and MCP bridge for memstore, AmpUp's team memory for coding agents"
+2026-10-28T01:30:22Z,asof-claims,0.4.1,,MIT,129179,Every number in your docs is a claim about a moment that has already passed.
+2026-10-28T01:30:24Z,chesterton,0.1.1,,MIT,73156,"Remember why code exists, and speak up before it's removed."
+2026-10-28T01:30:40Z,computenexa,0.1.1,ComputeNexa <support@computenexa.com>,MIT,44028,"Python client for ComputeNexa: private GPUs for your business, launched and stopped from code."
+2026-10-28T01:37:28Z,aichargelabs-instagram-mcp,0.1.0,AiChargeLabs <support@aichargelabs.com>,Proprietary,76519191,"Instagram MCP server by AiChargeLabs: closed-source, licence required"
+2026-10-28T01:45:50Z,omnipython-pdwidgets,0.0.1,,,2650,Placeholder: OmniPython's display widgets. The real package arrives with OmniPython 1.0.
+2026-10-28T01:45:52Z,omnipython-audioinstruments,0.0.1,,,2727,Placeholder: OmniPython's instruments. The real package arrives with OmniPython 1.0.
+2026-10-28T01:50:25Z,apifix,0.1.0,theicelotus,MIT,1177899,"Automatically fix Python code broken by API/library breaking changes, verified in a sandbox."
+2026-10-28T01:51:52Z,fipc-python,1.0.0,Hayden Donnelly,MIT,825304,"Shared-memory IPC for Python: streams, broadcasts, work queues and services between processes on one machine (FastIPC)"
+2026-10-28T01:53:06Z,nextfarm-sdk,0.1.0,NextFarm <support@nextfarm.vn>,MIT,2127541,"NextFarm API cho Python — sinh từ OpenAPI công khai, có kiểu đầy đủ"
+2026-10-28T01:54:50Z,shortenpath,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,47777,"Shorten a filesystem path to fit a terminal column budget: home folds to ~, the root and file name stay, the middle goes"
+2026-10-28T01:55:07Z,bytesz,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,49666,Strict two-way conversion between byte counts and human sizes with explicit IEC and SI units
+2026-10-28T01:55:31Z,intranges,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,51142,"Typed conversion between range strings like 1-3,5 and ints, with a lazy set type, dialects and a CLI"
+2026-10-28T01:55:47Z,wordsnum,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,53451,"Parse spelled-out English numbers into int or float, fully typed and dependency-free"
+2026-10-28T01:57:16Z,async-url-caller-base,0.1.0,"""J. Arrizza"" <cppgent0@gmail.com>",MIT,7957,python async base class for calling URLs
+2026-10-28T01:59:33Z,xploreai,0.2.0,Daniel Dominguete,,14435,Library and cookbook codes for AI Engineering Projects
+2026-10-28T02:04:05Z,zhicuo-problem-probe,0.1.0,,,3064,Read-only MCP connectivity probe for one reviewed algorithm problem
+2026-10-28T02:06:46Z,relays-sdk,0.2.1,Chase Bauer,MIT,287931,Stdlib-only Python client for relays.bot: let your AI agents message each other across owners.
+2026-10-28T02:14:31Z,fontpkg-playfair,2.203,,OFL-1.1,1984069,"Playfair font family, packaged for Python by fontpkg"
+2026-10-28T02:14:34Z,fontpkg-aleo,2.1,,OFL-1.1,169888,"Aleo font family, packaged for Python by fontpkg"
+2026-10-28T02:14:36Z,fontpkg-hind-madurai,1.1,,OFL-1.1,315762,"Hind Madurai font family, packaged for Python by fontpkg"
+2026-10-28T02:14:37Z,fontpkg-alata,1.5,,OFL-1.1,138706,"Alata font family, packaged for Python by fontpkg"
+2026-10-28T02:17:22Z,notrack-cli-agent,0.6.0,,,37665,Terminal agent client for NoTrack chat with supervised local tools
+2026-10-28T02:18:25Z,planex2d-occ,0.2.0.1,Sebastian Hirnschall,LGPL-2.1-or-later AND MPL-2.0 AND Apache-2.0 AND BSD-3-Clause AND MIT,52218014,"planex2d's OpenCASCADE integration for netgen: export to netgen.occ, pads and pockets, sections and projections"
+2026-10-28T02:18:39Z,alibabacloud-openagent20260801,1.0.0,Alibaba Cloud SDK,Apache License 2.0,63331,Alibaba Cloud OpenAgent (20260801) SDK Library for Python
