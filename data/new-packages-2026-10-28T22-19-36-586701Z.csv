@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T21:21:27Z,amoorion-facebook,0.4.1,Sett Sarverott,MIT,6058,"Facebook plugin of amoorion: post, read and comment on a Page through the Graph API"
+2026-10-28T21:22:19Z,amoorion-mastodon,0.4.1,Sett Sarverott,MIT,7452,"Mastodon plugin of amoorion: post, read and reply through the Mastodon REST API"
+2026-10-28T21:23:47Z,amoorion-matrix,0.4.1,Sett Sarverott,MIT,7258,"Matrix plugin of amoorion: posts, reads and replies in one room through the client-server API"
+2026-10-28T21:24:43Z,amoorion-telegram,0.4.1,Sett Sarverott,MIT,7711,"Telegram plugin of amoorion: a bot posts, reads and replies in one chat through the Bot API"
+2026-10-28T21:25:52Z,openrepotools,1.1.0,,Apache-2.0,1079011,"The commands for the estates openRepoShape scaffolds, the lane tooling that records the work in them, and the installer that places all of it"
+2026-10-28T21:26:03Z,coinrace,0.0.1,CoinRace <support@coinrace.com>,MIT,1756,CoinRace. Trade every coin. Win the race. Placeholder release.
+2026-10-28T21:26:05Z,cvcite,0.2.0,Agustin Gonzalez Nicolini,MIT,345783,"Build a CV from one master YAML file and an overlay per target role, and gate every PDF the way applicant tracking systems read it."
+2026-10-28T21:30:16Z,django-admin-suggest,0.1.0,Rodolfo Becerra <rodolvbg@gmail.com>,MIT,307411,"Suggestions as one types for the Django admin: the changelist's search box suggests the objects it finds, opens the one chosen, and offers to add what isn't found. In Django's admin and in django-unf…"
+2026-10-28T21:32:57Z,atr-mcp,1.0.0,Jacob Bhatt,MIT,110283,ATR: Automation for Token Reduction. An MCP proxy that hides tool lists and shrinks tool results so your AI uses fewer tokens.
+2026-10-28T21:33:17Z,hapiq,0.1.3,,GPL-3.0-or-later,22885856,HDL (Has Data Locally) — Python library for downloading scientific datasets via hapiq
+2026-10-28T21:34:56Z,vivarium-interactive,1.0.0,The vivarium developers <vivarium.dev@gmail.com>,BSD-3-Clause,89242,"Run and inspect vivarium simulations interactively, for example in a notebook."
+2026-10-28T21:37:57Z,agent-mem-vault,1.0.0,Kürşat Dinç,MIT,178721,"MCP server that gives coding agents durable, shared memory stored as notes in an Obsidian vault."
+2026-10-28T21:39:18Z,ipyllm,0.1.0,Juan Pablo de la Cruz Gutiérrez,Apache-2.0,29386,Interact with LLM models from your IPython REPL
+2026-10-28T21:39:44Z,dante-mcp,2.1.0,Heurístico Lab <hola@danteix.com>,MIT,15669,"Dante IX — Autonomous Brand, Social Listening & Multi-Model GEO Agency MCP Connector (ChatGPT, Gemini, Perplexity)"
+2026-10-28T21:41:21Z,robiai,0.1.0b0,,MIT,23640,"Official Python SDK for the Robi API: chat, images and video"
+2026-10-28T21:42:29Z,gitlab-mcp-lite,0.1.0,prachwal,MIT,36861,"A small stdlib-only MCP server for the GitLab REST API: pipelines, jobs, issues and merge requests, with dry runs and a read-only mode. Works with Claude Code, Codex, VS Code Copilot and other MCP cl…"
+2026-10-28T21:42:31Z,sandloom,0.7.0a1,Vasyl Cherniavskyi,Apache-2.0,2787790,"Sandloom: configurable-monolith framework for SaaS (kernel, public SDK sandloom.sdk, CLI)."
+2026-10-28T21:42:35Z,sandloom-identity,0.7.0a1,Vasyl Cherniavskyi,Apache-2.0,215905,"Sandloom identity module: users, JWT auth, RBAC, 2FA, SSO."
+2026-10-28T21:42:39Z,sandloom-tenancy,0.7.0a1,Vasyl Cherniavskyi,Apache-2.0,96391,"Sandloom tenancy module: organizations, membership, invitations."
+2026-10-28T21:42:42Z,sandloom-billing,0.7.0a1,Vasyl Cherniavskyi,Apache-2.0,208470,"Sandloom billing module: plans, subscriptions, credits ledger, Stripe."
+2026-10-28T21:43:58Z,xtr-workflow,5.1.0,Xterr,MIT,280282,"Move objects through workflows and state machines — weighted places and transitions, guards, events at every step, definitions in code, config or on a class, dumped as Graphviz, PlantUML or Mermaid."
+2026-10-28T21:44:08Z,xml-auditfile,0.0.1,XML-auditfile,Apache-2.0,1137641,"Streaming reader for Dutch tax audit files (XAF and related), following auditfile-spec."
+2026-10-28T21:46:05Z,kifone,3.0.0,Robin Slot <robin@rslot.nl>,,2488263,Kifone music player
+2026-10-28T21:53:40Z,menk,1.0.1,Menk,MIT,114846,Menk Code - the autonomous AI coding assistant for your terminal & IDE
+2026-10-28T21:54:21Z,calculsalairebrutnet,1.0.0,,MIT,117524,"Moteur de calcul open source des simulateurs de calculsalairebrutnet.fr : salaire brut net, cotisations, impôt, chômage, APL, freelance, auto-entrepreneur, portage. Barèmes 2026."
+2026-10-28T21:54:43Z,statistics-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,20659003,"Offline statistics solver: descriptive statistics, probability distributions, confidence intervals, hypothesis tests, regression and correlation, experimental design, quality control and reliability,…"
+2026-10-28T21:56:45Z,pipecat-freeswitch,0.1.0,Marcelo Araujo <marujofln@gmail.com>,BSD-2-Clause,63971,Pipecat integration for FreeSWITCH via the mod_audio_stream WebSocket module.
+2026-10-28T21:59:56Z,time-series-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,19005184,"Offline time series solver: moving averages, exponential smoothing, autocorrelation, ARIMA basics, stationarity tests, change points, forecasting accuracy and Kalman filtering, with steps, LaTeX and…"
+2026-10-28T22:00:13Z,flexray-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0 AND MIT AND BSD-3-Clause,70493,Native MLX implementation of FleXray
+2026-10-28T22:00:18Z,permute-multitest,0.3.0,"K. Jarrod Millman, Kellie Ottoboni, and Philip B. Stark",BSD License,325302,"Permutation tests and confidence sets, with stratified multi-test extensions (a fork of statlab/permute)"
+2026-10-28T22:00:22Z,synthseg-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,117979,"Native MLX implementation of SynthSeg for Apple Silicon (macOS arm64, Metal)"
+2026-10-28T22:00:25Z,lesiondiffusion-mlx,0.2.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0 AND MIT AND BSD-3-Clause,109078,Native MLX implementation of LesionDiffusion
+2026-10-28T22:00:46Z,mlx-mcp,0.1.1,"Alfredo Sandoval, Joseph Sandoval",MIT,3174998,"Search the MLX, MLX Data and MLX LM docs from Claude Code, Codex or any MCP client"
+2026-10-28T22:01:46Z,sciflow-mcp,0.1.0,Clayton Barnes <barnes.clayton@icloud.com>,MIT,232332,"MCP server for building reproducible, interoperable scientific workflows on stamped data (time, depth, frequency, ...)."
+2026-10-28T22:02:23Z,countrycodes,0.1.0rc2,,BSD-3-Clause AND LGPL-2.1-or-later AND CC-BY-4.0,43697,A dependency-free ISO 3166-1 country code lookup library
+2026-10-28T22:02:54Z,pgpacer,2.0.0,Ayse Bilge Gunduz <aysebilgegunduz@gmail.com>,MIT,505342,PostgreSQL Tuning and Analysis Tool
+2026-10-28T22:03:19Z,raptor-studio,0.8.0,OpenPowerShift,LicenseRef-BAPL-1.0 AND Apache-2.0,17259564,RAPTOR Studio — reliability block diagram simulation (open Python port of Raptor 7)
+2026-10-28T22:03:45Z,raptor-studio-mcp,0.8.0,OpenPowerShift,LicenseRef-BAPL-1.0 AND Apache-2.0,19259,"MCP server for RAPTOR Studio: build, validate and simulate reliability block diagrams from an AI assistant"
+2026-10-28T22:04:43Z,revpy-lang,0.0.0,Kirill Sokolov,MIT,43723,A reversible programming language embedded in Python.
+2026-10-28T22:05:52Z,astronomy-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,18447455,"Offline astronomy solver: distances and magnitudes, stars and blackbody radiation, orbits and exoplanets, flat Lambda-CDM cosmology, telescopes, positional astronomy and time, plasma and space physic…"
+2026-10-28T22:06:57Z,countrycodes-cli,0.1.0rc2,,BSD-3-Clause,8469,Command-line interface for the countrycodes library
+2026-10-28T22:08:39Z,md-to-slides,0.1.0,Cobra Chicken <tasteslikecobrachicken@gmail.com>,MIT,14656,Convert Markdown files to presentation slides
+2026-10-28T22:08:42Z,ajmd,0.0.1,SimpleX Chat,MIT,4079,"Markdown that is data: one language that people read, agents write and code parses. Placeholder; the first release is in preparation."
+2026-10-28T22:08:50Z,kosh-config-guard,0.1.1,wkosh,Apache-2.0,26909,"Offline, static security scanner for coding-agent and MCP configuration files."
+2026-10-28T22:09:04Z,ylspec,0.1.1,=?utf-8?b?Q2F2YW7Fn2lyIFF1cmJhbnphZMmZ?= <cavanshirpro@gmail.com>,Apache-2.0,630015,"Portable, standalone and embeddable metadata documents backed by a C core"
+2026-10-28T22:12:28Z,chemistry-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,20409936,"Offline chemistry solver: stoichiometry, gas laws, solutions, chemical equilibrium, acids and bases, kinetics, thermochemistry, electrochemistry, molecular properties and spectroscopy, with steps, La…"
+2026-10-28T22:12:28Z,ghostcrt,0.5.0,Sinan Alyuruk,GPL-3.0-only,239354,Terminal UI for managing multiple SSH sessions with an encrypted password vault
+2026-10-28T22:12:44Z,vetoprotocol-sandbox,0.1.0,Veto Protocol,Apache-2.0,23554,Python SDK for VetoProtocol Sandbox: secure cloud sandboxes for AI agents
+2026-10-28T22:13:04Z,sepia-cli,0.1.0,Yiğit Erdoğan,MIT,72821,Describe a picture and watch it appear as colored text in a second terminal window.
+2026-10-28T22:16:12Z,fairspec-mcp-server,0.3.0,Evgeny Karev,MIT,37736,Fairspec Python is a fast data management framework built on top of the Fairspec standard and Polars DataFrames
+2026-10-28T22:17:22Z,expert-model,0.1.0,Leon Schwartz,MIT,776504,ExPert: a contrastive perturbation-prediction model for single-cell data.
+2026-10-28T22:18:07Z,flexible-batch-email-sender,0.1.1,Žan Šadl Ferš <zan.sf@disroot.org>,MIT,30717,A flexible batch email sender for a variety of scripting tasks.

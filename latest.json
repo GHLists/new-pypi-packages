@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 54,
-    "from": "2026-10-28T20:21:27.096035Z",
-    "path": "data/new-packages-2026-10-28T21-18-19-702501Z.csv",
-    "to": "2026-10-28T21:18:19.702501Z"
+    "count": 52,
+    "from": "2026-10-28T21:18:19.702501Z",
+    "path": "data/new-packages-2026-10-28T22-19-36-586701Z.csv",
+    "to": "2026-10-28T22:19:36.586701Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-28T20:01:06Z",
       "package": "apache-airflow-providers-huggingface",
       "since": "2026-10-28T19:18:20.077377Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-28T20:47:47Z",
       "package": "helia-platforms",
       "since": "2026-10-28T20:21:27.096035Z",
@@ -22,20 +22,20 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-10-28T17:20:07Z",
-      "package": "numlearn",
-      "since": "2026-10-28T17:18:54.128621Z",
-      "version": "1.0.0"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-10-28T18:58:14Z",
       "package": "samajseva",
       "since": "2026-10-28T18:18:46.759057Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-28T21:58:11Z",
+      "package": "xippios-wasde",
+      "since": "2026-10-28T21:18:19.702501Z",
+      "version": null
     }
   ],
-  "serial": 42886278,
+  "serial": 42888653,
   "source_truncated": false,
-  "window": "2026-10-28T21:18:19.702501Z"
+  "window": "2026-10-28T22:19:36.586701Z"
 }
