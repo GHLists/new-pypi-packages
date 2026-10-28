@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T05:18:56Z,tensarflows,0.1.0,,,14065,A Python package containing GAN and RNN-LSTM source code
+2026-10-28T05:28:33Z,warsita,0.1.0,,MIT,37054,"Official Python client for the Warsita WhatsApp API: send messages, manage sessions, contacts and groups, and verify webhooks."
+2026-10-28T05:30:26Z,mcp-freshservice,2.0.0,"Angel Pandey, Gopi Krishnan, Maanaesh Swamy, Vijay Ragunath",MIT,89206,A Model Context Protocol (MCP) server for the Freshservice ITSM API v2
+2026-10-28T05:32:50Z,genesis-forge-runtime,1.0.0,Jeremy Gillick,Apache-2.0,66571,Simulation-free runtime for deploying Genesis Forge policies to real robots.
+2026-10-28T05:32:51Z,mucolor,0.1.0,Jed Smith <jed.coma316@passmail.net>,MIT,35120,"Minimal pure-python colorimetry: gamuts, transfer functions and colorspace conversion with no dependencies."
+2026-10-28T05:38:22Z,langchain-gridpin,0.1.0,,Apache-2.0,19953,"LangChain tools for offline geocoding with GridPin: addresses to coordinates and back from one local file per country, no API key"
+2026-10-28T05:41:25Z,brinkpy,0.1.0,Cesar Carrasco,,89997,"Brinkpy CLI for reliability analysis, design optimization, and simulation."
+2026-10-28T05:48:40Z,bmv-cli,0.1.0,Axel Berrelleza,MIT,21187,CLI tool for Mexican stock market (BMV/BIVA) data via DataBursatil API
+2026-10-28T05:49:47Z,tabsight,0.1.0a1,tabsight contributors,MIT,7736711,"BI-quality charts, world maps and dashboards from a pandas DataFrame. Rule-based, no LLM, one offline HTML file."
+2026-10-28T05:52:20Z,ziwei-chart,0.1.0,,Apache-2.0,62152,"Deterministic Zi Wei Dou Shu (紫微斗数) natal chart casting, outputting versioned JSON"
+2026-10-28T05:52:31Z,liuyao-chart,0.1.0,,Apache-2.0,37359,"Deterministic Liuyao (六爻) hexagram casting and chart assembly, outputting versioned JSON"
+2026-10-28T05:57:55Z,deltacells,0.1.0,Cellarium contributors,BSD-3-Clause,5464705,"Fast, compact, cloud-friendly tiles of single-cell count matrices: delta-coded gene gaps + zstd, decoded by a small C core."
+2026-10-28T05:58:03Z,aisay-sdk,0.0.0a1,,,2206,Python client for the AISAY v2 API (under development)
+2026-10-28T05:58:13Z,lambdavault,0.0.1,Frank Zhang,MIT,1513,Reserved for https://github.com/cloudformer/lambdavault
+2026-10-28T06:02:11Z,pulumi-nixos-vps,0.2.0.dev0,,MIT,22312,Remote component adapter for the shared nixos-vps implementation. Unreleased.
+2026-10-28T06:02:40Z,fastapirestframework-tortoise,0.0.2,,,335576,DRF-inspired async CRUD framework for FastAPI and Tortoise ORM
+2026-10-28T06:04:32Z,branchix,0.1.0,SoniCore <its.saleem02@gmail.com>,MIT,15486,Print a readable tree of directories and files in your terminal.
+2026-10-28T06:07:19Z,shufler,0.3.0,,MIT,13609940,A 3D control room for developers who run many AI coding agent sessions at once.
+2026-10-28T06:08:27Z,teardown-cleanroom,0.3.0,Xintian Huang <731913+lemonadesaltbagel@users.noreply.github.com>,Apache-2.0,576345,"Clean-room, behavior-first analysis of applications: observe black-box, mine falsifiable behavior claims, release a sanitized spec, and differential-test a clean reimplementation."
