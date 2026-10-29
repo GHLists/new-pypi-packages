@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-10-28T23:19:24.373458Z",
-    "path": "data/new-packages-2026-10-29T00-18-38-755835Z.csv",
-    "to": "2026-10-29T00:18:38.755835Z"
+    "count": 34,
+    "from": "2026-10-29T00:18:38.755835Z",
+    "path": "data/new-packages-2026-10-29T01-18-39-329737Z.csv",
+    "to": "2026-10-29T01:18:39.329737Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-10-28T20:47:47Z",
-      "package": "helia-platforms",
-      "since": "2026-10-28T20:21:27.096035Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-10-28T21:58:11Z",
       "package": "xippios-wasde",
       "since": "2026-10-28T21:18:19.702501Z",
       "version": null
     }
   ],
-  "serial": 42892225,
+  "serial": 42893571,
   "source_truncated": false,
-  "window": "2026-10-29T00:18:38.755835Z"
+  "window": "2026-10-29T01:18:39.329737Z"
 }

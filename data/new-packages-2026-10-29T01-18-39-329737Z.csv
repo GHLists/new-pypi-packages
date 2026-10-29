@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T00:20:03Z,test-01-rafamarrara-learning-dc,1.0.0,,ISC,3411,Lightweight environment utilities and runtime diagnostics for Python applications
+2026-10-29T00:24:31Z,hybrax,0.1.0,"Mathias Gotsmy, Julian Libiseller-Egger",MIT,5032889,Bioprocess hybrid models and data management in JAX
+2026-10-29T00:25:31Z,stac-eo-mcp,0.1.0,bbrauzzi <brauzzi@gmail.com>,MIT,62146,"MCP server that lets AI agents search STAC catalogs and compute Sentinel-2 spectral indices (NDVI, NDWI, NBR)."
+2026-10-29T00:27:52Z,freemindrl,0.0.1,FreeMind Research Lab,,2957,"SDK oficial de FreeMind para OrionOne, Origin y Juno. En desarrollo: esta versión reserva el nombre y no contiene funcionalidad."
+2026-10-29T00:27:53Z,orionone,0.0.1,FreeMind Research Lab,,2807,"OrionOne, la familia de modelos de FreeMind. Nombre reservado: el paquete oficial es freemindrl."
+2026-10-29T00:28:26Z,h1b-sponsor-mcp,0.1.0,Janish Kumar,MIT,73617,"MCP server: is this company still sponsoring H-1Bs? Trend tables from DOL LCA, PERM and USCIS employer data."
+2026-10-29T00:33:56Z,pytorch-precision-converter,2.0.0,Angelo Lamonaca,MIT,28724,"Convert PyTorch checkpoints and safetensors files to fp16, bf16 or fp8 without breaking them."
+2026-10-29T00:35:05Z,wakeword-trainer,0.1.0,wakeword-trainer contributors,Apache-2.0,3905302,Train custom openWakeWord-compatible wake word models on your own dataset from Python
+2026-10-29T00:37:08Z,causalcheck,0.1.0,Taha Bouhoun <bouhountaha@gmail.com>,MIT,31044,"Pre-flight assumption checks for causal discovery: which methods your data can support, and which outputs to trust."
+2026-10-29T00:41:49Z,lodol,0.2.0,Lodol,Apache-2.0,152883,"Run your Lodol workflows from Python: start runs, wait for them, and answer approvals"
+2026-10-29T00:44:15Z,cohortica,0.1.0,Evan Trout <fishyevan@gmail.com>,Apache-2.0,31481571,Configurable synthetic-population study engine
+2026-10-29T00:49:11Z,autostopgen,0.1.0,Dawit Mekonnen Kassa,MIT,147079,"Language-agnostic automatic stopword generation from a corpus (term frequency, IDF and entropy), with an Amharic preset"
+2026-10-29T00:49:18Z,jupyterlab-bookmarks-manager-extension,0.7.78,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,910795,"Bookmarks side panel for web pages, files and terminal sessions, in folders, with tab menu actions"
+2026-10-29T00:52:17Z,spakky-mediator,8.5.1,Spakky,MIT,10131,Optional in-process domain event mediator plugin for Spakky framework
+2026-10-29T00:52:41Z,ctgist,0.0.3,,Apache-2.0,11162,Short alias for catch-the-gist: turn sources into Agent Skills.
+2026-10-29T00:53:02Z,maxio-apiroute,0.1.1,Doug Youch <dougyouch@gmail.com>,MIT,1358358,"A Python client for Maxio Advanced Billing (formerly Chargify), generated with apiroute from Maxio's published OpenAPI spec: sync and async, typed pydantic models."
+2026-10-29T00:53:02Z,shardpack,0.1.0,,Apache-2.0,6626295,"S3-first streaming format, writer, cache, and training loader for ML datasets"
+2026-10-29T00:53:23Z,twitter-request-diagnostics,1.0.0,,MIT,3876,Request diagnostics and runtime environment utilities for Python web applications
+2026-10-29T00:53:47Z,pyvista-modflow,0.1.0,CoDimensional PBC <hello@codimensional.com>,MIT,1064568,"Read MODFLOW unstructured grids into PyVista as exact, flat-layered volumes."
+2026-10-29T00:54:38Z,hubric,0.5.0,Hubric Team,MIT,396959,"Zero-config, LLM-powered API load tester."
+2026-10-29T00:56:08Z,agent-chaos-toolkit,0.2.1,Muhammad Ahmed,Apache-2.0,938430,"Chaos engineering for AI agents: break tools, models and context on purpose, then measure whether your agent survives."
+2026-10-29T00:58:15Z,biocimpute,0.1.0,Mingsen Wang,GPL-2.0-only,1719686,Imputation for microarray data: a Python port of Bioconductor's impute (KNN)
+2026-10-29T00:59:55Z,commsubspace,0.1.0,Eliezyer de Oliveira <eliezyer.deoliveira@gmail.com>,MIT,41240,"Communication subspaces between neural populations: CCA, reduced-rank regression and contrastive communication subspaces (cCS)."
+2026-10-29T01:00:36Z,remenis-memory,0.1.3,Unique Tomlinson,,35150,Zero-infra embedded memory and security governance middleware for AI agents.
+2026-10-29T01:01:06Z,promptab,0.1.0,,MIT,126603,"Evaluate, compare, and improve LLM system prompts"
+2026-10-29T01:02:15Z,qso-graph-sim,0.1.0,KI7MT <maintainers@qso-graph.io>,GPL-3.0-or-later,94457,"Replays what ham radio programs send on the network (WSJT-X first), for testing without a radio"
+2026-10-29T01:02:30Z,quant-engine-py,0.5.3,Jiucheng Zang,Proprietary,3585508,nanobind bindings for quant-engine
+2026-10-29T01:08:41Z,hypmesh,0.0.1,"Nicolas Houghtaling, VoodooMods LLC",Apache-2.0,13057,Coming soon from the makers of HypGraph and HypSwarm. This release reserves the name.
+2026-10-29T01:09:04Z,openentity-adk,0.1.0,,MIT,104186,"Open Entity for Google ADK: sovereign liveness on Moltbot Den, a trust gate for high-risk tools, and MCP toolset presets."
+2026-10-29T01:10:15Z,moltbotden,0.1.0,MoltbotDen <dev@moltbotden.com>,MIT,67045,Python SDK for the MoltbotDen AI agent platform API
+2026-10-29T01:11:21Z,anibis-sdk,0.1.0,,MIT,28508,"Unofficial Python client for the anibis.ch GraphQL API — search, filters, listings, seller profiles, categories and suggestions. Built on tutti-sdk."
+2026-10-29T01:13:04Z,langchain-openentity,0.1.0,,MIT,216777,"RuthlessSchemaGuard: LangChain middleware and HTTP transport guard that raises on malformed API and tool responses, with an optional signed ledger reporter."
+2026-10-29T01:14:19Z,obrasgovpy,0.1.0,"André Leite <leite@castlab.org>, Marcos Wasiliew <marcos.wasiliew@gmail.com>, Hugo Vasconcelos <hug…",MIT,36580,Access the Brazilian federal government's ObrasGov open data API (pandas-friendly)
+2026-10-29T01:16:45Z,vapour,0.1.0,Joao Lopes,MIT,31167,"Pluggable remote storage management: one abstract provider layer, independent backends (TeraBox via rclone-extra included)."
