@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T12:20:30Z,chatsee-google-adk,0.1.0,ChatSee <contact@chatsee.ai>,MIT,24621,ChatSee connector for Google ADK — capture every agent run with one plugin.
+2026-10-29T12:22:49Z,acellera-rdock,2022.0.post7,,LGPL-3.0-only,1475749,"A Fast, Versatile and Open Source Program for Docking Ligands to Proteins and Nucleic Acids"
+2026-10-29T12:23:43Z,sqlite-ursula,0.11.3.dev0,,Apache-2.0,9745944,"SQLite replicated through an Ursula stream by the sqlite-ursula-vfs extension, for the stdlib sqlite3 module: commits are local and replicate in the background, and db.synced() is the output gate"
+2026-10-29T12:27:54Z,correlation-tost,0.1.0,,MIT,8634,TOST equivalence testing for Pearson correlations.
+2026-10-29T12:28:30Z,vram-lend,0.1.1,,MIT,44955,"Lend yourself GPU memory from a serving inference engine, run a job, give it back"
+2026-10-29T12:28:47Z,quicksea,0.1.0,Lennox,MIT,9342,Fast and intuitive 2D/3D interactive visualizations and exploratory data analysis using Plotly.
+2026-10-29T12:35:46Z,gyrfalcon-rag,0.0.1,Kaung Myat San,Apache-2.0,11029,"Hybrid retrieval for RAG: BM25 and dense search fused in one Rust engine (name reserved, first release pending)"
+2026-10-29T12:37:06Z,nanoobjectdetection,2.0.0,"Tim Stechel, Ronny Förster",MIT,111543,Particle localization and diffusion analysis for TIFF image stacks
+2026-10-29T12:40:28Z,novirhiza-tether,0.1.0,FocusedDiversity LLC,MIT OR Apache-2.0,799742,An embedded Python agent harness built on Pydantic AI Agent
+2026-10-29T12:41:02Z,mmcif-tools,0.1.1,Matteo Cagiada,Apache-2.0,250692,"Small, pipeable command-line tools to select, edit and inspect mmCIF files (standard library only)."
+2026-10-29T12:41:34Z,aspose-pdf-foss-for-python,0.1.0,Aspose Pty Ltd,MIT,9504433,"Open-source Python library for PDF parsing, manipulation, validation, and extraction."
+2026-10-29T12:43:32Z,ha-deploy-kit,0.1.0,latrekc-meta,"MIT License Copyright (c) 2026 latrekc-meta Permission is hereby granted, free of charge, to any pe…",67716,HA-free SSH deploy / compare / notify / optional-frontend toolkit for Home Assistant custom components
+2026-10-29T12:45:38Z,driftwatch-lifetime,0.1.0,Yathindra K B,MIT,369620,"Time-aware study of malware-detector lifetime under label delay, a fixed analyst budget and conformal drift monitoring."
+2026-10-29T12:45:47Z,liliadb,0.1.0a4,LiliaDB Contributors <dev@liliadb.org>,Apache-2.0,27443,"Official Python SDK for LiliaDB, the local-first multimodel embedded & daemon database."
+2026-10-29T12:46:50Z,llm-gpu-cost-calculator,1.0.0,Kais / 600me,MIT,18226,"CLI tool to audit real cloud GPU TCO, spot interruption penalty, and generative multimodal AI costs."
+2026-10-29T12:47:12Z,qrig,1.1.0,Shashi Kumar,Apache-2.0,10538567,"Verified controlled quantum circuits (""One rig to control them all""): exact semantics, control equations, Gray-code synthesis and optimisation, with a C core extracted from Lean 4"
+2026-10-29T12:47:55Z,netconsent-audit,0.3.0,William Laurento,MIT,11326,Consent-gated defensive network audits and privacy-preserving desktop workflow recording.
+2026-10-29T12:48:45Z,opmodel,0.3.1.dev4,,,88232363,YAML-driven operator pipeline simulator for custom accelerators
+2026-10-29T12:49:19Z,us-llc-compliance-tco,1.0.0,Kais / 600me,MIT,16225,"CLI tool to audit 3-year US LLC TCO, franchise taxes, FinCEN BOI, and IRS Form 5472 compliance."
+2026-10-29T12:49:21Z,overstory,0.0.1,,MIT,1843,Reserved name for Knuckles-Team/overstory (formerly agent-webui).
+2026-10-29T12:49:24Z,axil,0.0.1,,MIT,1784,Reserved name for Knuckles-Team/axil (formerly geniusbot).
+2026-10-29T12:51:49Z,nace-haystack,0.1.0,Nace AI <hello@nace.ai>,Apache-2.0,92055,Haystack integration for Drex decision models by Nace
+2026-10-29T12:52:52Z,ad-tracker-antidetect-tco,1.0.0,Kais / 600me,MIT,15949,"CLI tool to audit anti-detect browser stacks, tracker event overages, and proxy costs."
+2026-10-29T12:56:41Z,birthdaywebsite-url-tools,0.1.0,wangneo276-lgtm,MIT,9773,"Birthday Website Maker helps you create a personalized birthday website with photos, music, and a heartfelt letter. Preview free, then unlock and share with one link."
+2026-10-29T12:57:46Z,vunit-yavs,0.10.0,,MPL-2.0,33890,"The yavs VHDL simulator for VUnit, as a VUnit package"
+2026-10-29T12:58:50Z,mimirag,0.0.1,Bernardo Lino de Oliveira,Apache-2.0,16209,"Retrieval-augmented generation with verifiable citations over technical documentation, source code and immutable records."
+2026-10-29T13:00:43Z,langchain-vaquill,0.1.0,Vaquill,MIT,57322,"LangChain tools, toolkit and retriever for the Vaquill US primary law Data API."
+2026-10-29T13:00:56Z,netdiagrams,0.2.0,,Apache-2.0,3373149,"NetDiagrams: network diagrams from NetBox, drawn to a consistent standard in draw.io."
+2026-10-29T13:01:11Z,llama-index-tools-vaquill,0.1.0,Vaquill,MIT,53553,"LlamaIndex tools and retriever for the Vaquill US primary law Data API (statutes, regulations, court rules, constitutions, session laws)."
+2026-10-29T13:02:28Z,snakemake-executor-plugin-aws-batch-flex,0.1.0,Stephen Smith,MIT,267540,Snakemake executor plugin for AWS Batch that runs every rule in its own container image
+2026-10-29T13:03:15Z,skillscout-cli,0.1.0,Akshit Gupta,MIT,54440,"Keep your agent's skills current: weekly discovery, upstream diffs, safety scans, pinned installs"
+2026-10-29T13:05:23Z,metafilm,0.1.1,"Sina Mirshahi, Taha Falatouri, Patrick Brandtner, Mehran Nasseri, Zuzana Kominkova Oplatkova",MIT,39805,Metadata-conditioned FiLM modulation for cold-start demand forecasting
+2026-10-29T13:07:38Z,knnopt,1.0.0,Jianbo Huang,MIT,24519,Optimized KNN Regressor/Classifier with NLopt weight optimization and CSV file process utilities
+2026-10-29T13:10:20Z,securetools,0.1.0,,,14666,A collection of Python assignment source files
+2026-10-29T13:11:41Z,polyglot-sssom,1.0.0,,MIT,114896,A cross-runtime YAML metadata plus TSV implementation of SSSOM.
+2026-10-29T13:11:44Z,vinayak-hello-world-sample,0.1.0,Your Name <your.email@example.com>,MIT,13314830,A minimal sample Python package demonstrating how to build a wheel and publish it to PyPI.
+2026-10-29T13:18:43Z,gdamms-pytui,0.2.0,gdamms,MIT,73759,Build terminal user interfaces in Python with a flexbox-style layout engine.
