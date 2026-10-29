@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T22:20:30Z,gwsource,0.1.0,Rui Hugman,MIT,299659,Cell-mixing flow tracing (capture and source fractions) for MODFLOW 6 output.
+2026-10-29T22:26:21Z,resulex,0.1.2,Rohit Mishra,MIT,21483748,"Resume text parser built on rules, reference data and a small spaCy model (no LLM)."
+2026-10-29T22:28:08Z,simready-forge,0.1.0,Soma Osvay,MIT,1874952,"Turn a prompt or a photo into an NVIDIA SimReady asset: OpenUSD with materials, physics and joints"
+2026-10-29T22:29:10Z,reasoning-dataset-lab,0.4.0,mcp-tool-shop,MIT,718829,"Map-first dataset lab for proven reasoning puzzles, verification items, and composed dataset parts."
+2026-10-29T22:29:39Z,urlrender,0.1.2,Hemant Malik,MIT,12825,A lightweight Python library for rendering JavaScript-enabled web pages using Playwright
+2026-10-29T22:31:47Z,DiracULA,0.1.0,Arkhip Alekseyevich Dmitriev,Apache-2.0,607414,"Dirac Universal Language for Algorithm: size-agnostic quantum algorithm development in Dirac notation, for any qudit count and dimension"
+2026-10-29T22:32:17Z,witool,1.0.0,Hex <hexgroupaz@gmail.com>,MIT,11382,A professional CLI-based wireless penetration testing tool for Linux
+2026-10-29T22:35:13Z,sphinx-config-schema,0.0.1,Common Partial Wave Analysis,MIT,41343,"Render a JSON schema as a copyable TOML, YAML, or JSON example with tooltips in Sphinx"
+2026-10-29T22:39:31Z,onet-match,0.3.0,Benjamin Chan,MIT,173819,"Map free text (job titles, resume lines, projects, interests, skills) to O*NET occupations with skills, tasks and calibrated confidence."
+2026-10-29T22:40:43Z,quirework,0.1.0,Ademar Reis,MIT,2018550,Tools for writing and researching books and sites with an AI companion
+2026-10-29T22:48:52Z,point-affinity-transformer,0.2.0,Jakob Troidl,MIT,62688,Point Affinity Transformers for global neuron shape reasoning
+2026-10-29T22:49:19Z,outwrite,0.1.0a3,,MIT,13974,"Python logs and live status updates, shared across processes."
+2026-10-29T22:49:56Z,infrawrench-bulk-instances,1.0.0,Infrawrench LLC <astrid@infrawrench.com>,MIT,18558,"AWS EC2 instance attributes and pricing, with full history, from Infrawrench."
+2026-10-29T22:58:46Z,cumulosim,0.0.1,Luke Bierbaum,MIT,3150,Reserved for CumuloSim. Coming soon.
+2026-10-29T22:59:02Z,endeavor-nova,0.1.0,,MIT,92913,The Nova SDK for Python.
+2026-10-29T23:03:03Z,superroute-sapp,0.2.1,Goodneo Solutions,MIT,98264,"sApp for Python: sign-in, the platform app API, Open Platform capabilities and webhook verification for Superroute."
+2026-10-29T23:04:29Z,gedcom-privacy-guard,0.4.0b1,,MIT,159007,Flag sensitive notes in a GEDCOM export for human review before you upload a family tree.
+2026-10-29T23:08:41Z,uriloop,0.3.1,,Apache-2.0,213175,Wspólna płaszczyzna URI/URN do autonomicznego sterowania przeglądarką (CDP) i pulpitem (noVNC) z pętlą zwrotną CQRS+ES i serwerami MCP
+2026-10-29T23:09:05Z,silent-failure-lint,0.1.0,StackScribe AI <survivalagent320@gmail.com>,MIT,14528,"Static checks for silently-swallowed async/IO failures in Python: bare excepts, fire-and-forget tasks, gather() without return_exceptions, missing request timeouts, and retry loops without backoff."
+2026-10-29T23:09:25Z,meepsquared,0.1.0,Alejandro Martínez Corriá and the Thinkube contributors,Apache-2.0,1130461,Fast LoRA and QLoRA fine-tuning with permissively licensed components
+2026-10-29T23:10:43Z,monitaudit,0.1.0,Informatie <informatie@nednazit.nl>,MIT,165841,"A lightweight, low-overhead Python framework for real-time log monitoring and structured system auditing."
+2026-10-29T23:11:42Z,pawabase,0.3.0,Pawabase contributors,BSD-3-Clause,119214,"Python client for Pawabase: records, auth, storage, functions, flows, realtime, user administration and environment management."
+2026-10-29T23:11:43Z,pawabase-iac,0.1.0,Pawabase contributors,BSD-3-Clause,196132,"Define a whole Pawabase backend as Python code, validate it, plan it, emulate it and deploy it."
