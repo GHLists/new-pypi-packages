@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T03:22:41Z,hg-mc-auto,0.1.0,IGeochemCloud,MIT,53577,Element-aware automation toolkit for isotope analysis workflows.
+2026-10-29T03:23:31Z,awsmount,1.0.0,Tarek CHEIKH <tarek@kloudsec.io>,MIT,349896,"Mount any AWS account as a read-only filesystem (shell, WebDAV, FUSE)."
+2026-10-29T03:25:10Z,netdevops,0.0.1,Frank Zhang,MIT,1485,Reserved for https://github.com/cloudformer/netdevops
+2026-10-29T03:26:37Z,mibo-client,0.1.0,MB software team,Apache-2.0,151033,Client SDK for MB Cloud quantum experiments
+2026-10-29T03:26:43Z,autogenesis-appium-mcp,0.3.0,AutoGenesis Team,,50741,Appium MCP Server for mobile automation testing
+2026-10-29T03:26:45Z,autogenesis-windows-mcp,0.3.0,,MIT,42743,AutoGenesis Windows desktop MCP runtime
+2026-10-29T03:26:46Z,autogenesis-agent-contract,1.2.0,,MIT,39429,"Versioned AutoGenesis policy, workflows, and MCP prompt projections"
+2026-10-29T03:28:23Z,pii-detector-ca,0.1.0,Karthikeyan Murugaiah <blue1agave@gmail.com>,"MIT License Copyright (c) 2026 Karthik Permission is hereby granted, free of charge, to any person…",229533,"Checksum-validated detectors for Canadian health and government identifiers (SIN, OHIP, RAMQ, BC PHN, Alberta ULI, postal codes, street addresses): standalone or as Microsoft Presidio recognizers, wi…"
+2026-10-29T03:28:54Z,chxlibrary,0.1.0,programador777lolxddd-dot,Apache-2.0,21883,"Utilidades prácticas para Python: texto, números, fechas, archivos y funciones creativas."
+2026-10-29T03:29:01Z,binference,0.1.0,Joshua S. Speagle,MIT,500895,Population and hierarchical inference with PDFs: honest population distributions from noisy per-object PDFs over bins.
+2026-10-29T03:33:42Z,dazilink,0.0.1,DaziLink maintainers,MIT,1454,"Reserved package name for DaziLink, the reusable agent role bridge."
+2026-10-29T03:38:14Z,idlefree,0.0.1,Frank Zhang,MIT,1469,Reserved for https://github.com/cloudformer/idlefree
+2026-10-29T03:38:16Z,showrun,0.0.1,Frank Zhang,MIT,1460,Reserved for https://github.com/cloudformer/showrun
+2026-10-29T03:39:05Z,fluxtime-clock,0.1.0,Programador en español,MIT,14458,A futuristic neon digital clock for your terminal.
+2026-10-29T03:41:53Z,odatadol,0.0.2,Thor Whalen,Apache-2.0,57066,"Read an OData v4 entity set as a Mapping: stdlib-only transport, paging, column-group joins, $metadata"
+2026-10-29T03:42:30Z,tipsy-ab-config,0.16.0,Tipsy AB-config team,MIT,201428,Tipsy AB-config Python SDK — local config cache + abtest Compute client
+2026-10-29T03:46:23Z,optocad_backscattermeter,0.0.1,linarphy <linarphy@linarphy.net>,GPL-3.0-or-later,16650,Tool to operate with the optocad model of the backscattermeter at LAPP
+2026-10-29T03:46:46Z,coauthored,0.1.0,Thanatchon Chongmankhong,Apache-2.0,143046,"Count AI-attributed commits (Co-authored-by trailers, AI-agent accounts, generated-with markers) in any git history, and the pre-registered study of AI co-authorship in the repositories that build AI."
+2026-10-29T03:47:09Z,faithsift,0.3.0,FaithSift contributors,MIT,132950,FaithSift —— RAG 回答的句子级引用忠实性检测器:三分类判定 + 跨语言召回 + 多跳证据
+2026-10-29T03:47:47Z,MultiTaskBattery,1.3.0,Diedrichsenlab,MIT,120723,"A flexible Python toolbox for running multi-domain cognitive and motor tasks during fMRI sessions, built on PsychoPy."
+2026-10-29T03:47:54Z,homer2-ao,1.0.0,Christopher Benner,GPL-3.0-or-later,25239952,"HOMER v5.1 with faster motif scanning and motif finding, output identical to v5.1."
+2026-10-29T03:48:38Z,toolcallbench-cn,0.1.0,,MIT,104005,Bilingual benchmark for LLM function-calling reliability with deterministic sandbox grading
+2026-10-29T03:55:31Z,wan27,0.1.0,Wan27,MIT,13971,"Python client for Wan27 AI image and video generation, cost estimates and task tracking"
+2026-10-29T03:55:35Z,langchain-wan27,0.1.0,Wan27,MIT,7896,"LangChain tools for Wan27 image and video model discovery, credit estimates and authorized generation"
+2026-10-29T03:55:59Z,outstanding-tiny-desk,0.1.0,Evan Miller <evanmiller4538@gmail.com>,MIT,9519,Official client SDK and viral meme metadata generator for Outstanding Tiny Desk AI (https://outstanding-tiny-desk.org) - Swap 1 to 5 portraits into the Charlie Wilson Tiny Desk concert scene.
+2026-10-29T03:57:08Z,agent-command-tab,0.1.0,Ben Weisburd,MIT,445448,"macOS menu bar list, window or screen-edge sidebar of the iTerm2 tabs where AI coding agents run"
+2026-10-29T03:58:15Z,ohamlab-agent-lab,7.0.0,,MIT,87618,"Standalone AI agent runtime with REST, MCP, Gradio and persistent storage"
+2026-10-29T04:00:24Z,aimarket-symmartys,0.5.0,,MIT,881158,"SYMMARTYS — public-record facts for agents that trade: EU VAT validity (VIES), legal entities (GLEIF LEI), national company registers, EORI, domain registrations (RDAP), ECB reference rates, sanction…"
+2026-10-29T04:03:10Z,subtotal-cli,0.1.0,"Subtotal, Inc.",MIT,26202,The Subtotal API from your terminal: CLI and TUI.
+2026-10-29T04:08:29Z,hrx-loom,0.1.0,,Apache-2.0 WITH LLVM-exception,43498609,"Loom compiler, serving and authoring tools, and Python SDK"
+2026-10-29T04:10:17Z,mcp-server-qdrant-embeddings,0.1.0,,Apache-2.0,227903,Qdrant MCP server based on upstream with additional embedding providers
+2026-10-29T04:10:26Z,zomi-g2p,0.1.1,"Zomi Language Translator <zomi.language.translator@gmail.com>, Juna <juna190825@gmail.com>","MIT License Copyright (c) 2026 Zomi Learner Permission is hereby granted, free of charge, to any pe…",1427141,"Grapheme-to-Phoneme conversion for the Zomi language, with IPA and ASCII output and six-tone support"
+2026-10-29T04:10:29Z,mcai-knowledge,0.2.0,元意识（重庆）人工智能科技有限公司,MIT,117019,元意识知识资产引擎：把学说变成可被 AI / Agent 调用的结构化知识
+2026-10-29T04:11:22Z,figpress-apps,2026.10.28,Nathaniel Starkman,MIT,57974,Toolbox for webapps that are the interactive counterparts of scientific papers
+2026-10-29T04:18:31Z,sfhybrid,0.0.1,Junyan Cheng,Apache-2.0,11181,"Spectral fractal hybrid: agent + modelers + FX layer for multiscale, multi-series, multimodal probabilistic forecasting (placeholder; under development)"
