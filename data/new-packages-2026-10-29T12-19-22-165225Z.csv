@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T11:20:19Z,flashblocks,0.1.1,,MIT,6612226,Decode Base Flashblocks in real time: Chainlink price updates from the 200 ms pre-confirmation stream
+2026-10-29T11:20:34Z,d9d-kernels,0.25.0,Maksim Afanasev,Apache-2.0,12084,"GPU kernels for training in PyTorch, from the d9d training framework"
+2026-10-29T11:20:49Z,cli-agent-yzf,0.7.0,yezhoufan2005,MIT,133107,An autonomous coding agent for the terminal
+2026-10-29T11:20:54Z,paper-status-monitor,0.2.0,Daniel Sánchez-García <daniel.sanchezgarcia@uca.es>,MIT,378967,Monitor the peer-review status of your Elsevier submissions and keep one Excel history per manuscript.
+2026-10-29T11:26:13Z,tikuu-tools,0.1.0,Utkarsh Tiwari,,8375,Tikuu tool gateway SDK: FastMCP client for virtual MCP gateways
+2026-10-29T11:26:47Z,omni-adapter,0.1.0b0,"Studio XID, Inc.",Apache-2.0,450566,"Omni Adapter for Python — join a Connect Omni stage from scripts, services and hardware bridges, and exchange messages with prototypes in real time."
+2026-10-29T11:34:57Z,ragcheck-ci,0.1.0,Shalom Hunukumbura,MIT,30065,Regression checks for retrieval-augmented generation pipelines.
+2026-10-29T11:34:58Z,text-deobfuscate,0.1.0a1,Lapid Harel,MIT,936789,Undo text obfuscation (encodings and visual tricks) and report which transforms were applied.
+2026-10-29T11:36:02Z,openathlete-mcp,0.1.0,,MIT,565713,OpenAthlete — 统一运动数据层（佳明/高驰）与 AI 训练助手工具集
+2026-10-29T11:36:30Z,noori-sphinx-theme,0.1.0,Sherullah Mohtat <mohtat.sherullah@gmail.com>,,730546,"A sleek, modern Sphinx documentation theme featuring deep tech styling, ecosystem navigation, and full RTL/LTR support."
+2026-10-29T11:36:38Z,ma-pmo,0.1.0,"""myeongjin.ji"" <mjinttt@gmail.com>",AGPL-3.0-or-later,201101,MA-PMO: LLM-backed supervisor-worker multi-agent PMO orchestration
+2026-10-29T11:37:27Z,pguangya,0.1.0,KC,MIT,64258,Sync-first Python client for Guangya cloud drive Web APIs.
+2026-10-29T11:38:55Z,mb-cdar,0.3.1,,MIT,169480,MB-CDAR: Microbiome data generation via MB-DDPM (2D UNet + image_coding + discrete DDPM) with a VAE conditional encoder (channel-concatenated latent + CFG)
+2026-10-29T11:40:52Z,jt-mcp,0.2.0,"""Greg Beam, KI7MT"" <maintainers@qso-graph.io>",GPL-3.0-or-later,196063,"MCP server for the JT-mode programs' UDP messages, WSJT-X first: status, decodes, CQ, stations heard, WSPR"
+2026-10-29T11:41:51Z,ed-game-py39,1.0.0,,,7554,
+2026-10-29T11:45:55Z,alphatonic,0.1.1,Manuel Blum,MIT,261725,"Evaluate predictive signals with cross-sectional and time-series information coefficients, dependence-aware uncertainty, and offline tearsheets."
+2026-10-29T11:46:35Z,langchain-nace,0.1.1,Nace AI <hello@nace.ai>,MIT,61936,LangChain integration for Drex decision models by Nace
+2026-10-29T11:46:46Z,frisian-mcp-core,0.0.0a0,,,1679,Placeholder: name reserved by Frisian-MCP. Contains no code.
+2026-10-29T11:46:47Z,frisian-mcp-django,0.0.0a0,,,1696,Placeholder: name reserved by Frisian-MCP. Contains no code.
+2026-10-29T11:46:48Z,frisian-mcp-flask,0.0.0a0,,,1684,Placeholder: name reserved by Frisian-MCP. Contains no code.
+2026-10-29T11:47:57Z,vunit-janushdl,0.1.0,Lars Asplund <lars.anders.asplund@gmail.com>,MPL-2.0,12529,A VUnit package providing support for JanusHDL.
+2026-10-29T11:49:03Z,nemo-agent-toolkit-hol-guard,0.1.0,Hashgraph Online,Apache-2.0,24417,HOL Guard runtime security middleware for NVIDIA NeMo Agent Toolkit
+2026-10-29T11:50:16Z,edgevoiceai,0.1.1,Hasmukh Mer <mhgn0001@gmail.com>,MIT,146398,"A modular, full-duplex conversational Voice AI framework for edge devices (Raspberry Pi) and laptops (macOS, Linux, Windows)."
+2026-10-29T11:58:49Z,netbox-inventory-toolkit,0.1.7,Blalange,MIT,237690,"Collect, validate and reconcile a YAML inventory into NetBox"
+2026-10-29T12:03:30Z,opencdr-mcp,0.1.0,DBNZ,MPL-2.0,46460,MCP management server for OpenCDR Core
+2026-10-29T12:06:01Z,bluapi,0.1.1,RayanErfan,MIT,18395,Python client for the Blu Bank HTTP API
+2026-10-29T12:08:07Z,test-graph2,0.1.0,Aquif Shaikh,,11644,AI and ML practical codes
+2026-10-29T12:10:06Z,wai-quantum,0.1.0,,Apache-2.0,12951487,"WAI Quantum in Python: the shared job engine in-process (run, plan, lint, draw, critique, equivalent, verify, seal), a client for the job service, and notebook widgets."
+2026-10-29T12:10:31Z,chatsee-connector-testing,0.1.0,ChatSee <contact@chatsee.ai>,MIT,26146,Shared offline test kit for ChatSee connectors (fake tracker + contract assertions).
+2026-10-29T12:12:46Z,chatsee-anthropic,0.1.0,ChatSee <contact@chatsee.ai>,MIT,16850,ChatSee connector for the Anthropic Messages API — capture every turn with one line.
+2026-10-29T12:13:00Z,datasheet-lens,0.1.0,Turbyho,MIT,279087,"Index of component datasheets, and pages of the original on demand, for LLM agents"
+2026-10-29T12:13:05Z,shishya,0.3.0,Sanat Taori,Apache-2.0,187066,"Give any AI model your rules: Shishya returns the most likely answer that follows them, or says it can't."
+2026-10-29T12:13:16Z,qorechain-asset-kit,0.1.0,QoreChain Association,Apache-2.0,136331,"Proposed QoreChain regulated-asset modules: generated types, a client that reports the required chain upgrade, and an in-memory MockChain."
+2026-10-29T12:15:41Z,piirg,0.1.0,,MIT,4107,A collection of text files
+2026-10-29T12:15:55Z,aibox-sdk,2025.4.0.52,Lasmera,,88615,SDK для взаимодействия с AI Box
+2026-10-29T12:18:36Z,chatsee-claude-agent-sdk,0.1.0,ChatSee <contact@chatsee.ai>,MIT,27102,ChatSee connector for the Claude Agent SDK — capture every turn with one line.
+2026-10-29T12:19:02Z,berylx-py,0.1.0,minamorl,MIT,104681,Immutable state workflows over a tagged Freer effect monad
