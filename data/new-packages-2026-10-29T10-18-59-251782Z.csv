@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T09:22:56Z,halidoscope,22.0.0,Parker Ziegler <pziegler@adobe.com>,MIT,94836634,An interactive GUI and CLI for working with Halide traces.
+2026-10-29T09:23:30Z,indpensim-bench,0.1.0,,Apache-2.0,627456,Raman latent compression and out-of-distribution penicillin soft-sensor models
+2026-10-29T09:23:57Z,mnml-ai,0.1.0,mnml <hello@mnml.ai>,MIT,59218,"The official Python client for the mnml API: architecture renders, edits, enhancements and video."
+2026-10-29T09:25:35Z,production-scheduling-mcp,0.1.0,ArchiPlan,MIT,117800,A small OR-Tools production scheduler for MCP assistants
+2026-10-29T09:27:11Z,triordinal-dlist,2.0.0,Enis Olgac <enis@digraphs.info>,MIT,11432,"DList (part of Triordinal): doubly linked list with rational positions and an O(1) precedence test, shared by triordinal-dtree and triordinal-dgraph"
+2026-10-29T09:28:02Z,webdiy,0.0.1,"""Lumeio, Inc."" <adesh@web.diy>",,2646,"The WebDIY SDK for Python, coming soon. Build, publish and manage your WebDIY apps from code. https://web.diy"
+2026-10-29T09:28:04Z,triordinal-dtree,2.0.0,Enis Olgac <enis@digraphs.info>,MIT,51769,"DTree (part of Triordinal): incremental encoding of the topology of directed trees by two projections (Q1, Q2): O(1) reachability, and/or queries on the topology of the tree, dynamic (incremental) up…"
+2026-10-29T09:29:31Z,cdns,0.1.0,,,31951,List of CDNs with identification and detection tools.
+2026-10-29T09:30:05Z,vikron-nt,0.1.0,,MIT,56831,Vikron Catalog integration compatible with NautilusTrader. Vikron independently develops and maintains this integration. Nautech Systems Pty Ltd and the NautilusTrader project have no affiliation wit…
+2026-10-29T09:32:29Z,radar-raman,0.1.0,"Joel Sjöberg <joelsjoberg3@gmail.com>, Bogdan Oancea <bogdan.oancea@gmail.com>",BSD-3-Clause,6450372,"RADAR: deep-learning decomposition of Raman spectra into baseline, cosmic rays, noise and peaks"
+2026-10-29T09:33:21Z,simux,0.1.0,,,67972493,Symbolic finite-element forms backed by PHG and MFEM
+2026-10-29T09:34:45Z,kintsugi-py,0.2.0,Zaky Irhab <emailmeforbussiness@zakyirhab.it.com>,MIT,73403,Self-healing Python functions powered by Universal LLMs. Zero-downtime execution with AST safety and in-memory hot-swapping.
+2026-10-29T09:34:48Z,odoo-addon-social-media-x-sync,17.0.1.0.0.1,"Binhex, Odoo Community Association (OCA)",AGPL-3,633172,"Import the X timeline, its figures and the conversation of each post"
+2026-10-29T09:35:00Z,rekollect,0.1.1,Pranav Kumar Nair,MIT,13443996,Semantic search for your shell history. Find that command by describing it.
+2026-10-29T09:35:53Z,blackbox-parser,0.1.0,Punit Kumar <punitkumar.pothuraju2007@gmail.com>,MIT,63104,A modular parser and analysis toolkit for MAVLink (.tlog) and ArduPilot DataFlash (.bin) flight logs.
+2026-10-29T09:37:08Z,modified-libfabric,0.0.1,,,1348,
+2026-10-29T09:37:21Z,baton-auth,0.1.4,,,197070,Local authentication broker for AI agents and MCP tools
+2026-10-29T09:37:27Z,maillage,0.1.0b2,Daniel Régis Sarmento Caon,MIT,107987,"Realistic textile assets generator for Physical AI: procedural cloth pieces (towels, napkins, sheets, flags) with real sizes, fabrics and patterns, exported to OpenUSD and validated by a cloth drop t…"
+2026-10-29T09:37:49Z,azmarqomni,0.2.0,Azmarq,MIT,30160,"Official Python SDK for the Azmarq SMS, WhatsApp, RCS, and OTP APIs"
+2026-10-29T09:38:24Z,filaire,0.2.0b1,Daniel Régis Sarmento Caon,MIT,186471,"Standard cable assets generator for Physical AI: cables of standard types (power, USB, Ethernet, HDMI, audio, industrial, ribbon, coiled) with male and female connectors, cut or stripped ends, export…"
+2026-10-29T09:44:24Z,dasf,1.0.0,"Mike Sips, Doris Dransch",,449903,python module wrapper for the data analytics software framework DASF
+2026-10-29T09:46:04Z,missions-recap,0.3.0,Ton Nom <toi@example.com>,MIT,23381,"Récapitulatif mensuel des jours par mission à partir d'un calendrier .ics (Thunderbird, etc.)"
+2026-10-29T09:52:01Z,quincaillerie,0.1.0b3,Daniel Régis Sarmento Caon,MIT,178186,"Standard hardware assets generator for Physical AI: metric screws, nuts and washers with modelled threads, battery cells and their holders with working springs and clips, exported to OpenUSD with Usd…"
+2026-10-29T09:52:18Z,phensim,1.0.0,,MIT,185290,Genotype and phenotype simulators for genetic association studies
+2026-10-29T09:54:34Z,odoo-addon-contract-line-defer-successor,18.0.1.0.0.2,"ACSONE SA/NV,Odoo Community Association (OCA)",AGPL-3,23296,Bridge Module contract_line_defer / contract_line_successor
+2026-10-29T09:54:37Z,odoo-addon-product-contract-line-defer,18.0.1.0.0.2,"ACSONE SA/NV,Odoo Community Association (OCA)",AGPL-3,135868,Bridge between product_contract and contract_line_defer
+2026-10-29T09:55:42Z,phl-file,0.1.0,d-ustindwayne,Apache-2.0,26119,Read and write PHL documents and HPL tables.
+2026-10-29T09:56:23Z,granulaire,0.2.0b3,Daniel Régis Sarmento Caon,MIT,108688,"Realistic granular assets generator for Physical AI: procedural grains with measured shape, mass and moisture, exported to OpenUSD for robot simulation and synthetic perception data."
+2026-10-29T09:56:37Z,primomics,0.1.5,,Apache-2.0,80620,"Evaluation harness, task specs and baselines for the PRIMO benchmark"
+2026-10-29T09:57:16Z,wearton-colors,0.1.0,Wearton <admin@wearton.app>,MIT,8571,"Small colour helpers: hex, RGB and HSL conversion and WCAG contrast. No dependencies."
+2026-10-29T09:59:56Z,handoffx,0.2.1,Pratik653,MIT,54215,Auditable continue / retry / ask-a-human / stop decision support for autonomous agents under uncertainty
+2026-10-29T09:59:59Z,primvaria,0.1.0b1,Daniel Régis Sarmento Caon,MIT,15026,"Physics-ready variability for Physical AI, in OpenUSD: one install for the Granulaire, Maillage, Filaire and Quincaillerie asset generators, with a single command line."
+2026-10-29T10:00:54Z,ulak,0.1.0,Musa SANA <musa.sana@hotmail.com>,MIT,22098,Drop-in HTTP(S) proxy hook: route all of a Python script's traffic through Burp/mitmproxy/ZAP with one import.
+2026-10-29T10:02:48Z,termik,0.8.0,efebagci242@gmail.com,MIT,839340,"CLI estetiğinde, GUI rahatlığında Python arayüz kütüphanesi: script'ler için akış API'si, uygulamalar için bileşenler."
+2026-10-29T10:03:26Z,threejs-assets,0.186.1,dyuu7,MIT,1103781,Official Three.js ESM assets for offline use in Python applications
+2026-10-29T10:03:31Z,kafka-nat-adapter,0.1.1,Kafka NAT Adapter contributors,MIT,73850,Protocol-aware Kafka proxy that rewrites advertised endpoints for DNAT-only clusters
+2026-10-29T10:03:35Z,acugis-report,0.1.0,AcuGIS,MIT,73700,AcuGIS Report Server Python SDK and CLI
+2026-10-29T10:04:02Z,aisdlc-guard,0.6.1,,"MIT License Copyright (c) 2026 Max Małecki <https://mmx3.pl> Permission is hereby granted, free of…",1112271,Anti-pattern detection and gate for agent-written code
+2026-10-29T10:07:28Z,wasmo,0.1.0,conao3,Apache-2.0,3318191,"Stateful in-process AWS mock for boto3, powered by a single WebAssembly module"
+2026-10-29T10:07:38Z,pathlayer,0.1.0,Pathlayer,Apache-2.0,588487,"Runtime guardrail layer for AI agents: detect loops, retries, cost explosions and lack of progress, and intervene during execution."
+2026-10-29T10:07:49Z,pytest-deprecation-radar,0.1.0,Shalom Hunukumbura,MIT,42613,"See every deprecation your code depends on, grouped by library, before the upgrade breaks it."
+2026-10-29T10:10:17Z,ordan,0.1.0,"Neuromorph Systems, LLC",,31339,Official Python client for the ORDan API — communications infrastructure for autonomous AI agents
+2026-10-29T10:14:50Z,quant1x-foundations,0.1.20,Quant1X,MIT,249393,Quant1X Foundations
+2026-10-29T10:15:01Z,cardealer,0.5.0,Evgeny Karev,MIT,10591,Fairspec cardealer extension
+2026-10-29T10:15:59Z,repo2diagram,0.2.0,Aditya Singh,MIT,257828,Turn any codebase into an interactive architecture diagram. CLI + MCP server. Runs on local models.
