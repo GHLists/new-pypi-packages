@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T21:20:05Z,role-set,0.3.0,mcp-tool-shop,MIT,3616347,"Prototype. Plans role-shaping items, writes the parts a writer should write, records the gates each item passed, and builds kind B puzzles in code that are proven before a model words them. Nothing i…"
+2026-10-29T21:25:26Z,avendrio,0.1.0,Avendrio,MIT,20730,"Bring your own AI agent to an Avendrio team: hold a seat, take turns, call the team's tools under your authority, reply with a receipt."
+2026-10-29T21:25:58Z,versionbar,0.1.0,Michael Tahery,MIT,111119,Inventory the dev tools installed on a machine.
+2026-10-29T21:28:08Z,p6flow,0.1.3,Will Truong,LGPL-3.0-or-later,215081,Parse Primavera P6 XER files into typed Snowflake-loadable Parquet.
+2026-10-29T21:31:18Z,vidyadwaar-connector,1.0.0,VidyaDwaar National Team <tech@vidyadwaar.gov.in>,,12744,Official CLI & ERP Integration Connector for VidyaDwaar APAAR Student Verification Platform
+2026-10-29T21:32:35Z,pillarz,0.1.0.dev1,,AGPL-3.0-or-later,292743,"Shared foundation for FastAPI web services: sign-in, accounts, sessions, translations and app chrome"
+2026-10-29T21:33:22Z,mediarag,0.1.15,D Yiapanis,MIT,88309,"Multimodal local search over documents and media — pdf, office files, notes, images, audio and subtitles — from any MCP-capable agent."
+2026-10-29T21:33:52Z,frigate-auth-mcp,0.1.1,,MIT,66356,"MCP server with authentication for Frigate NVR (authenticated port, viewer role)"
+2026-10-29T21:34:00Z,melek-fetch,3.0.0,Melek Project,,30222,"Anahtarsız ve Ücretsiz API'ler üzerinden Canlı Hava Durumu, Döviz, Kripto Para, Wikipedia ve Web Arama motoru."
+2026-10-29T21:34:18Z,sv-training,0.1.0,"Tiejin Chen, Maunil Vyas, Huaiyuan Yao, Hua Wei",MIT,80442,Steering vectors as a training signal in LLM post-training (NeurIPS 2026)
+2026-10-29T21:34:36Z,langchain-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7492,"Surface for langchain: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-29T21:34:37Z,crewai-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7514,"Surface for crewai: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-29T21:34:38Z,llama-index-tools-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7996,"Surface for llamaindex: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-29T21:35:54Z,labrat-lab,0.1.0,Reinhard Jansen van Vuuren,Apache-2.0,210090,"A universal interface for lab automation: a nest server, rats at the bench, one message API over HTTP and MCP"
+2026-10-29T21:36:30Z,adk-meter,0.1.0,Ravi Dalal,Apache-2.0,72944,Measurement and observability add-ons for Google ADK agents. v1: token metering for every LLM call (ADK-issued or explicit).
+2026-10-29T21:37:02Z,backd,0.0.1,Antonio Fdez.,MIT,313643,"Python client for backd: auth, sessions and data for services, scripts and notebooks."
+2026-10-29T21:38:08Z,endeavor-nova-wire,0.1.0.dev394,,MIT,76444,Nova wire models: the request and response shapes of the Nova API.
+2026-10-29T21:44:25Z,pinf,0.1.0,"Jinbo Zhao, David J. Eckman",MIT,128633,"Plausible inference for simulation experiments: screening, plausible intervals and pixelization, built on Pyomo."
+2026-10-29T21:44:39Z,fpv-laptimer-client,0.0.11,bli-blu-bla,GPL-3.0-or-later,54519,Python-Client für die API des FPV-Laptimers (/api/v1)
+2026-10-29T21:44:43Z,glsec,1.24.1,,Apache-2.0,12231081,Security linter for GitLab CI/CD pipelines
+2026-10-29T21:45:11Z,pyxpo-image-cropper,0.1.0a1,Vishal Chaubey,MIT,42733,"Full-featured image cropper for pyxpo apps: free or fixed aspect ratio, circle guide, rotate, flip and zoom."
+2026-10-29T21:46:11Z,isotile,0.1.0,FKloosterman <devfakl@gmail.com>,MIT,212334,"Isohedral tilings in NumPy: the 81 isohedral types, tile generation and exact tile adjacency."
+2026-10-29T21:46:32Z,service-health-kit,0.0.0,,,2488,Name placeholder: this release is yanked and is not meant to be installed.
+2026-10-29T21:52:15Z,oblio,0.0.1,Zach Gazak <jzgazak@gmail.com>,AGPL-3.0-or-later,25874,Telescope mount pointing models (placeholder release; first functional release coming soon).
+2026-10-29T21:53:40Z,oids,0.1.0,Orbital Desk LLC,MIT,11810,Minimal Python SDK for Oids — microblogging for AI agents
+2026-10-29T21:57:50Z,train-commute-companion,0.1.0,,Apache-2.0,841391,Follows your usual NS train journey and alerts you when it changes.
+2026-10-29T22:01:14Z,qal-scribe,1.0.0,kidus-der,MIT,249891,On-device push-to-talk dictation for Amharic
+2026-10-29T22:01:39Z,vimniscient,0.2.0,Dimitri F. Crooijmans,AGPL-3.0-or-later,305586,"Get fluent in Vim in fifteen minutes a day, in your own Neovim."
+2026-10-29T22:01:51Z,chelamux,0.19.0,Liav Edry,AGPL-3.0-or-later,18537641,"A tiny control plane for a fleet of Claude Code agents on tmux — schedule long-lived ones, dispatch ephemeral ones into git worktrees that open PRs."
+2026-10-29T22:03:12Z,fluvv,1.0.0,The Fluvv Authors,Apache-2.0,117689,"Fluvv data contracts: an ODCS v3.1.0 extension that describes a table and how it's built, with lint, compile and export."
+2026-10-29T22:04:30Z,zxsdc,0.20.0,Sixtaupi,Apache-2.0,144918,Host compiler that turns a supported XML Schema 1.0 subset into C descriptor tables for the zxsd runtime
+2026-10-29T22:07:33Z,tigrbl-migrations,0.4.5.dev6,,Apache-2.0,38868,"Component manifests, migration DAGs, schema ownership, ledgers, and deployment locks for Tigrbl."
+2026-10-29T22:09:02Z,agent-comment-lint,1.4.0,Orodruin Labs,MIT,143158,Stops AI coding agents from bloating code comments. Zero dependencies.
+2026-10-29T22:13:27Z,CLICKRAI,0.1.1,Xevrion,MIT,9381,Asistente conversacional de terminal con Google Gemini
+2026-10-29T22:14:03Z,tiroir,0.1.0,tiroir <202564+tiroir@users.noreply.github.com>,MIT,31095,Fork a tiroir hub's agent session to your own machine and carry on in Claude Code.
+2026-10-29T22:16:25Z,womm-cli,4.0.0,Neuraaak,MIT,572144,"Universal development tools for Python and JavaScript - Automatic installation, cross-platform configuration, global commands"
+2026-10-29T22:18:56Z,licenselens-cli,0.2.0,yuehancn,AGPL-3.0-or-later,155227,Find the licenses that will stop you shipping. Offline-correct license detection and commercial-risk decisions for dependency trees.

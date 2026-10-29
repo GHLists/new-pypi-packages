@@ -8,53 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 21:19 UTC
+## Latest list — 2026-10-29 22:19 UTC
 
-New packages created between 2026-10-29 20:20 UTC and 2026-10-29 21:19 UTC.
+New packages created between 2026-10-29 21:19 UTC and 2026-10-29 22:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-29T21-19-37-571963Z.csv)
+[Full CSV](data/new-packages-2026-10-29T22-19-04-504056Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-29 20:20:55 | [agentstats](https://pypi.org/project/agentstats/) | 0.3.0 | Siddharth Sukumar | 159.2 kB | Statistics for agent evals: from trajectories to claims you can defend (CIs cho… |
-| 2026-10-29 20:22:00 | [jobslop](https://pypi.org/project/jobslop/) | 1.1.0 | 1xxn | 1.3 MB | Local, AI-driven job application autopilot: finds jobs, ranks them against your… |
-| 2026-10-29 20:23:59 | [palm-vanish](https://pypi.org/project/palm-vanish/) | 0.1.0 |  | 11.3 kB | A webcam disappearance effect triggered by an open palm or Namaste pose. |
-| 2026-10-29 20:24:02 | [apiverve-didyoumean](https://pypi.org/project/apiverve-didyoumean/) | 1.2.3 | APIVerve <hello@apiverve.com> | 20.5 kB | Did You Mean suggests spelling corrections for misspelled search queries and ph… |
-| 2026-10-29 20:26:53 | [meleknotes](https://pypi.org/project/meleknotes/) | 1.1.0 | Melek AI Team <info@melek.ai> | 36.7 kB | Melek Yapay Zeka Asistanı - Zihin Sarayı ve Akıllı Günlük Türkçe NLP Modülü |
-| 2026-10-29 20:30:37 | [drvec](https://pypi.org/project/drvec/) | 0.1.0 | "David E. Guerrero" <davidesg… | 3.3 MB | VARMA-VEC cointegration models by exact maximum likelihood (Mauricio 2006): ran… |
-| 2026-10-29 20:34:02 | [orbital-pv](https://pypi.org/project/orbital-pv/) | 0.3.1 | OrbitalPV contributors | 77.0 kB | Open-source spacecraft photovoltaic performance analytics |
-| 2026-10-29 20:34:25 | [langchain-nano-x402](https://pypi.org/project/langchain-nano-x402/) | 0.1.2 | BountyHunter AI <dextermos@us… | 27.1 kB | LangChain integration tool for autonomous Nano x402 resource purchasing with lo… |
-| 2026-10-29 20:36:55 | [co-geoparquet](https://pypi.org/project/co-geoparquet/) | 0.1.7 | Ready | 287.3 kB | Cloud-optimized GeoParquet: build LOD-pyramid artifacts with a Hilbert-indexed… |
-| 2026-10-29 20:38:10 | [langchain-coworkingview](https://pypi.org/project/langchain-coworkingview/) | 0.1.0 | CoworkingView <coworkingview@… | 168.2 kB | LangChain tools for the CoworkingView catalogue: search coworking spaces and pr… |
-| 2026-10-29 20:38:39 | [pbl-exp](https://pypi.org/project/pbl-exp/) | 0.1 | Qian Chu <qianchu99@gmail.com> | 10.8 kB | Helper functions for running experiments at the Predictive Brain Lab (Bochum) |
-| 2026-10-29 20:40:39 | [tekencrypt](https://pypi.org/project/tekencrypt/) | 1.0.0 | tekencrypt | 46.5 kB | Encryption toolkit — crypto, forensics, web exploitation, and security analysis |
-| 2026-10-29 20:45:15 | [rulestamp-dotnet-eol-support-gate](https://pypi.org/project/rulestamp-dotnet-eol-support-gate/) | 1.0.7 | Rulestamp <support@getreadyst… | 36.2 kB | Dates every target framework in a .csproj against Microsoft's end-of-support da… |
-| 2026-10-29 20:45:35 | [rulestamp-saft-pt-atcud-lint](https://pypi.org/project/rulestamp-saft-pt-atcud-lint/) | 1.0.6 | Rulestamp <support@getreadyst… | 35.5 kB | 14 verificações ao XML SAF-T (PT) antes da entrega à AT: versão 1.04_01, ATCUD,… |
-| 2026-10-29 20:45:43 | [rulestamp-verfahrensdoku-gobd-check](https://pypi.org/project/rulestamp-verfahrensdoku-gobd-check/) | 1.0.8 | Rulestamp <support@getreadyst… | 34.7 kB | 17 Regeln aus den GoBD und §147 AO gegen Ihre Markdown-Verfahrensdokumentation… |
-| 2026-10-29 20:46:02 | [rulestamp-weiterbildung-foerderquote-lint](https://pypi.org/project/rulestamp-weiterbildung-foerderquote-lint/) | 1.0.3 | Rulestamp <support@getreadyst… | 37.1 kB | Kursseiten gegen § 82 SGB III ab 2024-04-01 prüfen: 16 rules, 2 inputs (bundled… |
-| 2026-10-29 20:46:44 | [langchain-x402-nano](https://pypi.org/project/langchain-x402-nano/) | 0.1.0 | langchain-x402-nano contribut… | 62.3 kB | LangChain tool: pay x402 'exact' quotes on nano:mainnet (XNO) behind an offline… |
-| 2026-10-29 20:48:07 | [shoal](https://pypi.org/project/shoal/) | 0.1.0a1 | Shoal contributors | 1.3 MB | A fully typed Discord API library for Python, built to scale from one guild to… |
-| 2026-10-29 20:48:22 | [melek-memory](https://pypi.org/project/melek-memory/) | 1.0.0 | Melek Core Team <info@melekco… | 42.7 kB | Melek AI asistanı için 20x bilişsel hipokampüs ve bilgi grafiği katmanı |
-| 2026-10-29 20:48:25 | [evlet](https://pypi.org/project/evlet/) | 0.1.1 |  | 332.5 kB | A small Python application framework with SQLite and a neutral UI schema |
-| 2026-10-29 20:50:50 | [meta-neural-py](https://pypi.org/project/meta-neural-py/) | 0.1.0a1 |  | 110.9 kB | Experimental direct Meta Neural Band access for Python |
-| 2026-10-29 20:51:04 | [citesync](https://pypi.org/project/citesync/) | 0.1.0 | Simon van Lierde | 99.7 kB | Check that CITATION.cff, codemeta.json, .zenodo.json and the package manifests… |
-| 2026-10-29 20:52:10 | [swarmdm](https://pypi.org/project/swarmdm/) | 0.0.1 | shichuanqiong | 2.8 kB | Reserved: the next name of AgoraDM (agent-to-agent messaging). Use 'agoradm' un… |
-| 2026-10-29 20:54:58 | [swarmdm-mcp](https://pypi.org/project/swarmdm-mcp/) | 0.0.1 | shichuanqiong | 2.8 kB | Reserved: the next name of AgoraDM MCP server (agent-to-agent messaging). Use '… |
-| 2026-10-29 20:57:06 | [pierre-sdk](https://pypi.org/project/pierre-sdk/) | 0.1.0.dev4 | Pierre | 170.2 kB | The Pierre SDK for Python |
-| 2026-10-29 20:57:17 | [proxmox-model-context-protocol](https://pypi.org/project/proxmox-model-context-protocol/) | 0.1.0 | Jakub Krajewski <MCP.Proxmox@… | 405.7 kB | MCP server for full management of a Proxmox VE hypervisor, with local safety ba… |
-| 2026-10-29 20:59:15 | [cndr](https://pypi.org/project/cndr/) | 0.1.0 |  | 27.4 MB | condor: a fast, vulture-compatible dead-code finder for Python, written in Rust |
-| 2026-10-29 21:03:28 | [canonprims](https://pypi.org/project/canonprims/) | 0.1.2 |  | 1.2 MB | Canonical serialization for structured data: RFC 8785 JSON over a strict I-JSON… |
-| 2026-10-29 21:04:29 | [adafruit-circuitpython-rv8803](https://pypi.org/project/adafruit-circuitpython-rv8803/) | 1.0.0 | Adafruit Industries <circuitp… | 37.8 kB | CircuitPython driver for the Adafruit RV-8803 High Accuracy Real Time Clock Bre… |
-| 2026-10-29 21:05:42 | [zanii-mandate-sdk](https://pypi.org/project/zanii-mandate-sdk/) | 0.2.0 | Zanii AI <info@zanii.agency> | 48.5 kB | Python client for Zanii Mandate verification |
-| 2026-10-29 21:06:44 | [mindtheprompt](https://pypi.org/project/mindtheprompt/) | 0.1.0 | Josh Ronk | 2.1 kB | Add your description here |
-| 2026-10-29 21:07:12 | [ci-autopsy](https://pypi.org/project/ci-autopsy/) | 0.1.0 | juzorei | 26.0 kB | Classify failed GitHub Actions runs: fetch logs via gh, match failure signature… |
-| 2026-10-29 21:07:56 | [pdfapi](https://pypi.org/project/pdfapi/) | 0.1.0 | pdfapi | 45.1 kB | Официальный Python SDK pdfapi: HTML, URL, Markdown и Office в PDF одним вызовом |
-| 2026-10-29 21:09:17 | [potik](https://pypi.org/project/potik/) | 0.1.0 | Danylo Kielsa <danylo.kielsa@… | 206.1 kB | An async Python framework for exactly-once Kafka services. |
-| 2026-10-29 21:10:25 | [migsentry](https://pypi.org/project/migsentry/) | 0.1.0 | juzorei | 14.9 kB | Scan database migrations for dangerous operations: drops, rewrites, locks — wit… |
-| 2026-10-29 21:10:29 | [git-rvw](https://pypi.org/project/git-rvw/) | 0.1.0 | Anders Roxell <anders.roxell@… | 32.7 kB | Review GitLab MRs and GitHub PRs from the terminal |
-| 2026-10-29 21:11:03 | [flakehunt](https://pypi.org/project/flakehunt/) | 0.1.0 | juzorei | 13.2 kB | Confirm and narrow flaky test failures: rerun hammers and seed hunts with hones… |
-| 2026-10-29 21:13:09 | [ncm-mlx](https://pypi.org/project/ncm-mlx/) | 0.1.1 | Jan Music | 108.8 kB | Independent Next-Concept Modeling research implementation in MLX for Metal and… |
-| 2026-10-29 21:13:19 | [hca-metadata-schema](https://pypi.org/project/hca-metadata-schema/) | 0.2.0 | Clever Canary <dave@clevercan… | 62.9 kB | HCA metadata schema: LinkML definitions and the Pydantic models generated from… |
-| 2026-10-29 21:14:17 | [hypdmz](https://pypi.org/project/hypdmz/) | 0.1.0a1 |  | 141.8 kB | Run a HypSwarm research swarm inside a governed-egress pod: a UID-scoped egress… |
-| 2026-10-29 21:17:07 | [edith-hermes-sdk](https://pypi.org/project/edith-hermes-sdk/) | 0.35.0 |  | 809.1 kB | Python SDK for building, provisioning, and controlling Hermes runtimes |
-| 2026-10-29 21:17:33 | [misroute](https://pypi.org/project/misroute/) | 0.2.0 | philippyt | 129.8 kB | Find the tools your agent confuses and test whether a fix helps, against a neut… |
+| 2026-10-29 21:20:05 | [role-set](https://pypi.org/project/role-set/) | 0.3.0 | mcp-tool-shop | 3.6 MB | Prototype. Plans role-shaping items, writes the parts a writer should write, re… |
+| 2026-10-29 21:25:26 | [avendrio](https://pypi.org/project/avendrio/) | 0.1.0 | Avendrio | 20.7 kB | Bring your own AI agent to an Avendrio team: hold a seat, take turns, call the… |
+| 2026-10-29 21:25:58 | [versionbar](https://pypi.org/project/versionbar/) | 0.1.0 | Michael Tahery | 111.1 kB | Inventory the dev tools installed on a machine. |
+| 2026-10-29 21:28:08 | [p6flow](https://pypi.org/project/p6flow/) | 0.1.3 | Will Truong | 215.1 kB | Parse Primavera P6 XER files into typed Snowflake-loadable Parquet. |
+| 2026-10-29 21:31:18 | [vidyadwaar-connector](https://pypi.org/project/vidyadwaar-connector/) | 1.0.0 | VidyaDwaar National Team <tec… | 12.7 kB | Official CLI & ERP Integration Connector for VidyaDwaar APAAR Student Verificat… |
+| 2026-10-29 21:32:35 | [pillarz](https://pypi.org/project/pillarz/) | 0.1.0.dev1 |  | 292.7 kB | Shared foundation for FastAPI web services: sign-in, accounts, sessions, transl… |
+| 2026-10-29 21:33:22 | [mediarag](https://pypi.org/project/mediarag/) | 0.1.15 | D Yiapanis | 88.3 kB | Multimodal local search over documents and media — pdf, office files, notes, im… |
+| 2026-10-29 21:33:52 | [frigate-auth-mcp](https://pypi.org/project/frigate-auth-mcp/) | 0.1.1 |  | 66.4 kB | MCP server with authentication for Frigate NVR (authenticated port, viewer role) |
+| 2026-10-29 21:34:00 | [melek-fetch](https://pypi.org/project/melek-fetch/) | 3.0.0 | Melek Project | 30.2 kB | Anahtarsız ve Ücretsiz API'ler üzerinden Canlı Hava Durumu, Döviz, Kripto Para,… |
+| 2026-10-29 21:34:18 | [sv-training](https://pypi.org/project/sv-training/) | 0.1.0 | Tiejin Chen, Maunil Vyas, Hua… | 80.4 kB | Steering vectors as a training signal in LLM post-training (NeurIPS 2026) |
+| 2026-10-29 21:34:36 | [langchain-surface](https://pypi.org/project/langchain-surface/) | 0.1.0 | Canada Site Ops <canada.site.… | 7.5 kB | Surface for langchain: the link-safety layer between an AI agent and the open w… |
+| 2026-10-29 21:34:37 | [crewai-surface](https://pypi.org/project/crewai-surface/) | 0.1.0 | Canada Site Ops <canada.site.… | 7.5 kB | Surface for crewai: the link-safety layer between an AI agent and the open web.… |
+| 2026-10-29 21:34:38 | [llama-index-tools-surface](https://pypi.org/project/llama-index-tools-surface/) | 0.1.0 | Canada Site Ops <canada.site.… | 8.0 kB | Surface for llamaindex: the link-safety layer between an AI agent and the open… |
+| 2026-10-29 21:35:54 | [labrat-lab](https://pypi.org/project/labrat-lab/) | 0.1.0 | Reinhard Jansen van Vuuren | 210.1 kB | A universal interface for lab automation: a nest server, rats at the bench, one… |
+| 2026-10-29 21:36:30 | [adk-meter](https://pypi.org/project/adk-meter/) | 0.1.0 | Ravi Dalal | 72.9 kB | Measurement and observability add-ons for Google ADK agents. v1: token metering… |
+| 2026-10-29 21:37:02 | [backd](https://pypi.org/project/backd/) | 0.0.1 | Antonio Fdez. | 313.6 kB | Python client for backd: auth, sessions and data for services, scripts and note… |
+| 2026-10-29 21:38:08 | [endeavor-nova-wire](https://pypi.org/project/endeavor-nova-wire/) | 0.1.0.dev394 |  | 76.4 kB | Nova wire models: the request and response shapes of the Nova API. |
+| 2026-10-29 21:44:25 | [pinf](https://pypi.org/project/pinf/) | 0.1.0 | Jinbo Zhao, David J. Eckman | 128.6 kB | Plausible inference for simulation experiments: screening, plausible intervals… |
+| 2026-10-29 21:44:39 | [fpv-laptimer-client](https://pypi.org/project/fpv-laptimer-client/) | 0.0.11 | bli-blu-bla | 54.5 kB | Python-Client für die API des FPV-Laptimers (/api/v1) |
+| 2026-10-29 21:44:43 | [glsec](https://pypi.org/project/glsec/) | 1.24.1 |  | 12.2 MB | Security linter for GitLab CI/CD pipelines |
+| 2026-10-29 21:45:11 | [pyxpo-image-cropper](https://pypi.org/project/pyxpo-image-cropper/) | 0.1.0a1 | Vishal Chaubey | 42.7 kB | Full-featured image cropper for pyxpo apps: free or fixed aspect ratio, circle… |
+| 2026-10-29 21:46:11 | [isotile](https://pypi.org/project/isotile/) | 0.1.0 | FKloosterman <devfakl@gmail.c… | 212.3 kB | Isohedral tilings in NumPy: the 81 isohedral types, tile generation and exact t… |
+| 2026-10-29 21:46:32 | [service-health-kit](https://pypi.org/project/service-health-kit/) | 0.0.0 |  | 2.5 kB | Name placeholder: this release is yanked and is not meant to be installed. |
+| 2026-10-29 21:52:15 | [oblio](https://pypi.org/project/oblio/) | 0.0.1 | Zach Gazak <jzgazak@gmail.com> | 25.9 kB | Telescope mount pointing models (placeholder release; first functional release… |
+| 2026-10-29 21:53:40 | [oids](https://pypi.org/project/oids/) | 0.1.0 | Orbital Desk LLC | 11.8 kB | Minimal Python SDK for Oids — microblogging for AI agents |
+| 2026-10-29 21:57:50 | [train-commute-companion](https://pypi.org/project/train-commute-companion/) | 0.1.0 |  | 841.4 kB | Follows your usual NS train journey and alerts you when it changes. |
+| 2026-10-29 22:01:14 | [qal-scribe](https://pypi.org/project/qal-scribe/) | 1.0.0 | kidus-der | 249.9 kB | On-device push-to-talk dictation for Amharic |
+| 2026-10-29 22:01:39 | [vimniscient](https://pypi.org/project/vimniscient/) | 0.2.0 | Dimitri F. Crooijmans | 305.6 kB | Get fluent in Vim in fifteen minutes a day, in your own Neovim. |
+| 2026-10-29 22:01:51 | [chelamux](https://pypi.org/project/chelamux/) | 0.19.0 | Liav Edry | 18.5 MB | A tiny control plane for a fleet of Claude Code agents on tmux — schedule long-… |
+| 2026-10-29 22:03:12 | [fluvv](https://pypi.org/project/fluvv/) | 1.0.0 | The Fluvv Authors | 117.7 kB | Fluvv data contracts: an ODCS v3.1.0 extension that describes a table and how i… |
+| 2026-10-29 22:04:30 | [zxsdc](https://pypi.org/project/zxsdc/) | 0.20.0 | Sixtaupi | 144.9 kB | Host compiler that turns a supported XML Schema 1.0 subset into C descriptor ta… |
+| 2026-10-29 22:07:33 | [tigrbl-migrations](https://pypi.org/project/tigrbl-migrations/) | 0.4.5.dev6 |  | 38.9 kB | Component manifests, migration DAGs, schema ownership, ledgers, and deployment… |
+| 2026-10-29 22:09:02 | [agent-comment-lint](https://pypi.org/project/agent-comment-lint/) | 1.4.0 | Orodruin Labs | 143.2 kB | Stops AI coding agents from bloating code comments. Zero dependencies. |
+| 2026-10-29 22:13:27 | [CLICKRAI](https://pypi.org/project/CLICKRAI/) | 0.1.1 | Xevrion | 9.4 kB | Asistente conversacional de terminal con Google Gemini |
+| 2026-10-29 22:14:03 | [tiroir](https://pypi.org/project/tiroir/) | 0.1.0 | tiroir <202564+tiroir@users.n… | 31.1 kB | Fork a tiroir hub's agent session to your own machine and carry on in Claude Co… |
+| 2026-10-29 22:16:25 | [womm-cli](https://pypi.org/project/womm-cli/) | 4.0.0 | Neuraaak | 572.1 kB | Universal development tools for Python and JavaScript - Automatic installation,… |
+| 2026-10-29 22:18:56 | [licenselens-cli](https://pypi.org/project/licenselens-cli/) | 0.2.0 | yuehancn | 155.2 kB | Find the licenses that will stop you shipping. Offline-correct license detectio… |
