@@ -8,39 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 02:18 UTC
+## Latest list — 2026-10-29 03:18 UTC
 
-New packages created between 2026-10-29 01:18 UTC and 2026-10-29 02:18 UTC.
+New packages created between 2026-10-29 02:18 UTC and 2026-10-29 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-29T02-18-22-092426Z.csv)
+[Full CSV](data/new-packages-2026-10-29T03-18-54-65819Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-29 01:21:08 | [aerial-sls](https://pypi.org/project/aerial-sls/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.0 kB | Zero version placeholder for aerial_sls |
-| 2026-10-29 01:21:09 | [aerial-lls](https://pypi.org/project/aerial-lls/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_lls |
-| 2026-10-29 01:21:11 | [cu3gpp](https://pypi.org/project/cu3gpp/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for cu3gpp |
-| 2026-10-29 01:27:43 | [pytest-spectest](https://pypi.org/project/pytest-spectest/) | 0.0.1 | Stef Lindall | 2.4 MB | A formal specification language and the tooling to test implementations against… |
-| 2026-10-29 01:30:07 | [praisonai-clips](https://pypi.org/project/praisonai-clips/) | 0.1.0 | Mervin Praison | 663.9 kB | Turn long videos into captioned vertical clips and edit them live in DaVinci Re… |
-| 2026-10-29 01:31:46 | [mma-dual](https://pypi.org/project/mma-dual/) | 0.1.1 | "Olavo M. Silva" <olavo@lva.u… | 100.6 kB | MMA and GCMMA subproblems solved by the dual method (drop-in replacement for mm… |
-| 2026-10-29 01:32:13 | [faultsguards](https://pypi.org/project/faultsguards/) | 0.1.0 | Heuremen LLC | 77.4 kB | Faults and Guards from Heuremen LLC: the failure modes a model commits doing me… |
-| 2026-10-29 01:34:03 | [pytoce](https://pypi.org/project/pytoce/) | 1.0.0 | Erwan Ike de Bantel <erwan.de… | 6.8 MB | Python package for target-driven circular economy planning through absolute env… |
-| 2026-10-29 01:35:11 | [odoo-addon-account-budget-analytic-dashboard](https://pypi.org/project/odoo-addon-account-budget-analytic-dashboard/) | 18.0.1.0.0.1 | Quim Rebull (Coopdevs), Odoo… | 76.6 kB | Budget against actual of the analytic plan hierarchy |
-| 2026-10-29 01:36:13 | [datus-hana](https://pypi.org/project/datus-hana/) | 0.1.0 |  | 59.0 kB | SAP HANA database adapter for Datus using the official Python client |
-| 2026-10-29 01:37:02 | [pinsync](https://pypi.org/project/pinsync/) | 0.1.0 | Jamison Lahman <jamison@lahma… | 10.3 MB | Keep every copy of a pinned version in step with the one place that defines it. |
-| 2026-10-29 01:39:00 | [panynj-ridepath-client](https://pypi.org/project/panynj-ridepath-client/) | 0.2.0 | Barry Lee | 30.8 kB | Independent asynchronous client for the public PANYNJ RidePATH JSON feed |
-| 2026-10-29 01:39:48 | [reflex-nninteractive-viewer](https://pypi.org/project/reflex-nninteractive-viewer/) | 0.1.0 | Ernesto Crespo <ecrespo@gmail… | 1.9 MB | Reflex component wrapping the nnInteractive agent's WebGL2 medical image viewer… |
-| 2026-10-29 01:47:42 | [doctronic](https://pypi.org/project/doctronic/) | 0.1.0 | Doctronic | 85.0 kB | Python SDK for the Doctronic API |
-| 2026-10-29 01:51:55 | [pokerbots-dev](https://pypi.org/project/pokerbots-dev/) | 0.0.1 |  | 3.2 kB | pb: command-line client for pokerbots.dev |
-| 2026-10-29 01:53:02 | [lomboklocale](https://pypi.org/project/lomboklocale/) | 0.2.0 | codinglombok | 50.3 kB | BCP 47 negotiation, CLDR 47 plural rules, number/currency/date formatting and a… |
-| 2026-10-29 01:56:04 | [prompt-eval-harness](https://pypi.org/project/prompt-eval-harness/) | 0.2.0 | prompt-eval-harness contribut… | 52.9 kB | Deterministic, offline-first prompt and agent evaluation regression harness (li… |
-| 2026-10-29 01:58:58 | [moneyparse](https://pypi.org/project/moneyparse/) | 0.2.0 | Javier Lianes <javier@lianes8… | 82.6 kB | Parse, find and format money strings as exact Decimal amounts with ISO 4217 cur… |
-| 2026-10-29 01:59:12 | [compactnum](https://pypi.org/project/compactnum/) | 1.0.0 | Javier Lianes <javier@lianes8… | 133.2 kB | Two-way compact number notation: format large numbers as 1.2k or 3.5M and parse… |
-| 2026-10-29 01:59:28 | [indgroup](https://pypi.org/project/indgroup/) | 0.2.0 | Javier Lianes <javier@lianes8… | 58.5 kB | Format and strictly parse numbers with Indian lakh and crore grouping and the d… |
-| 2026-10-29 01:59:31 | [balbal](https://pypi.org/project/balbal/) | 0.0.1 | Eray Yapağcı | 11.0 kB | balbal: open Turkish speech recognition on CPU. This release reserves the name;… |
-| 2026-10-29 01:59:42 | [a1col](https://pypi.org/project/a1col/) | 0.2.0 | Javier Lianes <javier@lianes8… | 60.4 kB | Spreadsheet A1 references: column letters, cells, ranges, sheets and R1C1, type… |
-| 2026-10-29 02:02:33 | [mca-knowledge](https://pypi.org/project/mca-knowledge/) | 0.1.0 | 元意识（重庆）人工智能科技有限公司 | 116.9 kB | 元意识知识资产引擎：把学说变成可被 AI / Agent 调用的结构化知识 |
-| 2026-10-29 02:08:42 | [inspect-codex-app-server](https://pypi.org/project/inspect-codex-app-server/) | 2026.10.29.1 |  | 467.1 kB | Run native Codex app-server sessions in Inspect AI |
-| 2026-10-29 02:10:33 | [mimic-shield](https://pypi.org/project/mimic-shield/) | 1.0.0 | MimicPy Team <team@mimicpy.de… | 23.6 kB | Advanced Polymorphic Python Script Protector, Bytecode Obfuscator & Execution S… |
-| 2026-10-29 02:11:00 | [openlinx](https://pypi.org/project/openlinx/) | 0.0.1 |  | 3.4 kB | Agent-first SEO site crawler: every crawl is a local SQL database you and your… |
-| 2026-10-29 02:12:12 | [sendrelay](https://pypi.org/project/sendrelay/) | 1.7.0 | SendRelay | 28.1 kB | Official Relay server SDK for Python: quotes, deliveries, webhooks and tracking… |
-| 2026-10-29 02:15:01 | [duyi-sjy-test-utils](https://pypi.org/project/duyi-sjy-test-utils/) | 0.1.3 |  | 3.4 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
+| 2026-10-29 02:18:25 | [corvixmcp](https://pypi.org/project/corvixmcp/) | 1.0.1 | Moin Hasan | 538.7 kB | High-performance air-gapped security engine for MCP AI agents |
+| 2026-10-29 02:25:06 | [figpress](https://pypi.org/project/figpress/) | 2026.10.28 | Nathaniel Starkman | 7.9 kB | The home of the figpress family: packages for the figures of scientific papers,… |
+| 2026-10-29 02:25:09 | [figpress-plotly](https://pypi.org/project/figpress-plotly/) | 2026.10.28 | Nathaniel Starkman | 5.1 kB | A paper's figures in Plotly: the print figure and a matching interactive web fi… |
+| 2026-10-29 02:26:46 | [fontpkg-roboto-serif](https://pypi.org/project/fontpkg-roboto-serif/) | 1.8 |  | 4.8 MB | Roboto Serif font family, packaged for Python by fontpkg |
+| 2026-10-29 02:26:49 | [fontpkg-amatic-sc](https://pypi.org/project/fontpkg-amatic-sc/) | 2.505 |  | 174.8 kB | Amatic SC font family, packaged for Python by fontpkg |
+| 2026-10-29 02:26:51 | [fontpkg-courgette](https://pypi.org/project/fontpkg-courgette/) | 1.2 |  | 62.1 kB | Courgette font family, packaged for Python by fontpkg |
+| 2026-10-29 02:26:53 | [fontpkg-courier-prime](https://pypi.org/project/fontpkg-courier-prime/) | 3.18 |  | 157.8 kB | Courier Prime font family, packaged for Python by fontpkg |
+| 2026-10-29 02:32:57 | [xwalk](https://pypi.org/project/xwalk/) | 0.0.1 | Xwalk Bio <hello@xwalk.bio> | 132.9 kB | Resolve protein identifiers to pinned, quality-tiered structures with cross-ref… |
+| 2026-10-29 02:33:19 | [gitingest-tddschn](https://pypi.org/project/gitingest-tddschn/) | 0.3.4 | Filip Christiansen | 142.5 kB | CLI tool to analyze and create text dumps of codebases for LLMs |
+| 2026-10-29 02:34:47 | [moonemail](https://pypi.org/project/moonemail/) | 0.1.1 | OpenAPI Generator community | 218.1 kB | Moonemail API |
+| 2026-10-29 02:36:04 | [domainlib](https://pypi.org/project/domainlib/) | 0.1.0 |  | 3.5 kB | Minimal framework for ML domain definitions. |
+| 2026-10-29 02:37:32 | [py-skia-canvas](https://pypi.org/project/py-skia-canvas/) | 0.1.0a18 |  | 27.1 MB | Python bindings for the shared skia-canvas 3.0.8 Rust core |
+| 2026-10-29 02:38:02 | [mosaic-rag](https://pypi.org/project/mosaic-rag/) | 0.1.0 |  | 812.0 kB | Production-grade modular RAG framework |
+| 2026-10-29 02:40:54 | [secure-memory](https://pypi.org/project/secure-memory/) | 0.2.2 | Nokkum <nokkum.github@gmail.c… | 1.1 MB | Locked, zeroize-on-drop memory buffer for Python, backed by a Rust/PyO3 extensi… |
+| 2026-10-29 02:45:23 | [pygspice](https://pypi.org/project/pygspice/) | 2.0.0 | Douglas P. Finkbeiner, Joshua… | 6.4 MB | Gaussian pixelwise conditional estimation for spectra |
+| 2026-10-29 02:49:04 | [reflex-niivue](https://pypi.org/project/reflex-niivue/) | 0.1.0 | Ernesto Crespo <ecrespo@gmail… | 130.4 kB | Reflex component wrapping NiiVue, the WebGL2 viewer for medical images (NIfTI,… |
+| 2026-10-29 02:49:39 | [imprinted](https://pypi.org/project/imprinted/) | 0.7.0 |  | 68.7 kB | Hide a short payload in a picture, invisibly; read it back from the file or a p… |
+| 2026-10-29 02:49:59 | [sp2react](https://pypi.org/project/sp2react/) | 0.1.1 | Karthikeyan Balasundaram | 328.6 kB | AI-agent pipeline that converts classic SharePoint ASPX/jQuery list forms and p… |
+| 2026-10-29 02:50:07 | [brawler-mcp-server-python](https://pypi.org/project/brawler-mcp-server-python/) | 0.1.0 | Daniel Flores Díaz <danielflo… | 165.4 kB | FastMCP wrapper that tags agent task tools for Brawler and other MCP clients. |
+| 2026-10-29 02:50:43 | [llm-app-security-scanner](https://pypi.org/project/llm-app-security-scanner/) | 0.1.0 | AsherLucas | 30.0 kB | Static security scanner for LLM/agent repos: shell, file-write, secret, and unt… |
+| 2026-10-29 02:54:05 | [nielytics](https://pypi.org/project/nielytics/) | 0.1.0 |  | 13.4 MB | Reusable analytics foundation for ClimateLens India |
+| 2026-10-29 02:55:58 | [codapact](https://pypi.org/project/codapact/) | 0.1.0 |  | 162.0 kB | Contracts into callable tools: pluggable API client and CLI generation. |
+| 2026-10-29 02:56:15 | [CallReports](https://pypi.org/project/CallReports/) | 0.1.0 | Jonathan Waller | 86.0 kB | Date-aware FFIEC Call Report definitions and bulk-file preparation |
+| 2026-10-29 03:01:22 | [clap-cpp](https://pypi.org/project/clap-cpp/) | 0.1.0 |  | 61.9 MB | CPU Python bindings for clap.cpp audio and text embeddings |
+| 2026-10-29 03:02:10 | [datadog-kai-scheduler](https://pypi.org/project/datadog-kai-scheduler/) | 0.0.1 |  | 827 B |  |
+| 2026-10-29 03:03:11 | [brakepoint](https://pypi.org/project/brakepoint/) | 0.1.0 | Milankumar Rana | 97.9 kB | A breakpoint for irreversible AI agent actions: stop destructive tool calls for… |
+| 2026-10-29 03:04:33 | [bdpan-cli](https://pypi.org/project/bdpan-cli/) | 0.1.0 | CodingRookie98 | 244.6 kB | 百度网盘工程化 CLI 管理工具 |
+| 2026-10-29 03:07:09 | [evalquill](https://pypi.org/project/evalquill/) | 0.1.0 | Priteesh Karra | 26.1 kB | Compare two LLM evaluation runs case by case to see which cases a prompt change… |
+| 2026-10-29 03:13:49 | [vidgedb](https://pypi.org/project/vidgedb/) | 0.1.1 | JMK | 23.4 kB | Python client for VidgeDB — drive the vidgedb JSON-RPC service (line-delimited… |
+| 2026-10-29 03:14:21 | [byteplussdk-vpn](https://pypi.org/project/byteplussdk-vpn/) | 0.0.1 | byteplus-sdk | 959 B | Name reservation for the Byteplus Python SDK split package byteplussdk-vpn |
+| 2026-10-29 03:14:28 | [byteplussdk-vs](https://pypi.org/project/byteplussdk-vs/) | 0.0.1 | byteplus-sdk | 953 B | Name reservation for the Byteplus Python SDK split package byteplussdk-vs |
+| 2026-10-29 03:14:34 | [byteplussdk-vs20260714](https://pypi.org/project/byteplussdk-vs20260714/) | 0.0.1 | byteplus-sdk | 1.0 kB | Name reservation for the Byteplus Python SDK split package byteplussdk-vs202607… |
+| 2026-10-29 03:15:18 | [xippios-usda-wasde](https://pypi.org/project/xippios-usda-wasde/) | 0.1.1 | XIPPIOS GmbH | 213.5 kB | Typed client, MCP tools and HTTP routes for USDA WAOB World Agricultural Supply… |
+| 2026-10-29 03:16:52 | [qsengine](https://pypi.org/project/qsengine/) | 1.0.0 | kaiwave | 10.5 MB | A fast state-vector quantum simulator for Python, with a Rust core that runs on… |
+| 2026-10-29 03:17:01 | [execgate](https://pypi.org/project/execgate/) | 0.1.0 | Aldane Hutchinson | 401.3 kB | Verified execution for AI-generated plans. |
+| 2026-10-29 03:17:51 | [universal-playwright](https://pypi.org/project/universal-playwright/) | 1.64.1 | Microsoft Corporation | 3.7 MB | A high-level API to automate web browsers |
+| 2026-10-29 03:18:36 | [imposterB](https://pypi.org/project/imposterB/) | 0.1.0 |  | 32.2 kB | LPW practicals - copy practical files into the current directory |

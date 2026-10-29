@@ -1,20 +1,34 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-10-29T01:18:39.329737Z",
-    "path": "data/new-packages-2026-10-29T02-18-22-092426Z.csv",
-    "to": "2026-10-29T02:18:22.092426Z"
+    "count": 37,
+    "from": "2026-10-29T02:18:22.092426Z",
+    "path": "data/new-packages-2026-10-29T03-18-54-65819Z.csv",
+    "to": "2026-10-29T03:18:54.65819Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-10-29T03:13:05Z",
+      "package": "AutoGenesis_FSQ",
+      "since": "2026-10-29T02:18:22.092426Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-29T02:36:59Z",
+      "package": "allcheck",
+      "since": "2026-10-29T02:18:22.092426Z",
+      "version": "2.10.1"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-29T01:57:01Z",
       "package": "axesdata",
       "since": "2026-10-29T01:18:39.329737Z",
       "version": null
     }
   ],
-  "serial": 42894946,
+  "serial": 42896539,
   "source_truncated": false,
-  "window": "2026-10-29T02:18:22.092426Z"
+  "window": "2026-10-29T03:18:54.65819Z"
 }

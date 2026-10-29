@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T02:18:25Z,corvixmcp,1.0.1,Moin Hasan,Proprietary,538699,High-performance air-gapped security engine for MCP AI agents
+2026-10-29T02:25:06Z,figpress,2026.10.28,Nathaniel Starkman,MIT,7860,"The home of the figpress family: packages for the figures of scientific papers, in print and on the web."
+2026-10-29T02:25:09Z,figpress-plotly,2026.10.28,Nathaniel Starkman,MIT,5145,A paper's figures in Plotly: the print figure and a matching interactive web figure from one definition. In early development.
+2026-10-29T02:26:46Z,fontpkg-roboto-serif,1.8,,OFL-1.1,4764841,"Roboto Serif font family, packaged for Python by fontpkg"
+2026-10-29T02:26:49Z,fontpkg-amatic-sc,2.505,,OFL-1.1,174764,"Amatic SC font family, packaged for Python by fontpkg"
+2026-10-29T02:26:51Z,fontpkg-courgette,1.2,,OFL-1.1,62090,"Courgette font family, packaged for Python by fontpkg"
+2026-10-29T02:26:53Z,fontpkg-courier-prime,3.18,,OFL-1.1,157759,"Courier Prime font family, packaged for Python by fontpkg"
+2026-10-29T02:32:57Z,xwalk,0.0.1,Xwalk Bio <hello@xwalk.bio>,Apache-2.0,132911,"Resolve protein identifiers to pinned, quality-tiered structures with cross-references and provenance"
+2026-10-29T02:33:19Z,gitingest-tddschn,0.3.4,Filip Christiansen,MIT License Copyright (c) 2024 Romain Courtois Copyright (c) 2026 @tddschn Permission is hereby gra…,142476,CLI tool to analyze and create text dumps of codebases for LLMs
+2026-10-29T02:34:47Z,moonemail,0.1.1,OpenAPI Generator community,MIT,218072,Moonemail API
+2026-10-29T02:36:04Z,domainlib,0.1.0,,MIT,3515,Minimal framework for ML domain definitions.
+2026-10-29T02:37:32Z,py-skia-canvas,0.1.0a18,,MIT,27141889,Python bindings for the shared skia-canvas 3.0.8 Rust core
+2026-10-29T02:38:02Z,mosaic-rag,0.1.0,,,812024,Production-grade modular RAG framework
+2026-10-29T02:40:54Z,secure-memory,0.2.2,Nokkum <nokkum.github@gmail.com>,Apache-2.0,1097568,"Locked, zeroize-on-drop memory buffer for Python, backed by a Rust/PyO3 extension"
+2026-10-29T02:45:23Z,pygspice,2.0.0,"Douglas P. Finkbeiner, Joshua S. Speagle, Tanveer Karim",GPL-3.0-or-later,6354714,Gaussian pixelwise conditional estimation for spectra
+2026-10-29T02:49:04Z,reflex-niivue,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,Apache-2.0,130413,"Reflex component wrapping NiiVue, the WebGL2 viewer for medical images (NIfTI, NRRD, DICOM, meshes, tractography, drawings)."
+2026-10-29T02:49:39Z,imprinted,0.7.0,,MIT,68693,"Hide a short payload in a picture, invisibly; read it back from the file or a phone photo of a print."
+2026-10-29T02:49:59Z,sp2react,0.1.1,Karthikeyan Balasundaram,MIT,328567,AI-agent pipeline that converts classic SharePoint ASPX/jQuery list forms and pages into a React + FastAPI app on your existing database
+2026-10-29T02:50:07Z,brawler-mcp-server-python,0.1.0,Daniel Flores Díaz <danielfloresdiaz17@gmail.com>,Apache-2.0,165447,FastMCP wrapper that tags agent task tools for Brawler and other MCP clients.
+2026-10-29T02:50:43Z,llm-app-security-scanner,0.1.0,AsherLucas,MIT,29965,"Static security scanner for LLM/agent repos: shell, file-write, secret, and untrusted-input risks as a CI gate, with SARIF output."
+2026-10-29T02:54:05Z,nielytics,0.1.0,,MIT,13441952,Reusable analytics foundation for ClimateLens India
+2026-10-29T02:55:58Z,codapact,0.1.0,,MIT,161986,Contracts into callable tools: pluggable API client and CLI generation.
+2026-10-29T02:56:15Z,CallReports,0.1.0,Jonathan Waller,,85983,Date-aware FFIEC Call Report definitions and bulk-file preparation
+2026-10-29T03:01:22Z,clap-cpp,0.1.0,,MIT,61924206,CPU Python bindings for clap.cpp audio and text embeddings
+2026-10-29T03:02:10Z,datadog-kai-scheduler,0.0.1,,,827,
+2026-10-29T03:03:11Z,brakepoint,0.1.0,Milankumar Rana,MIT,97859,"A breakpoint for irreversible AI agent actions: stop destructive tool calls for human approval, enforced outside the model."
+2026-10-29T03:04:33Z,bdpan-cli,0.1.0,CodingRookie98,MIT,244611,百度网盘工程化 CLI 管理工具
+2026-10-29T03:07:09Z,evalquill,0.1.0,Priteesh Karra,MIT,26064,Compare two LLM evaluation runs case by case to see which cases a prompt change broke
+2026-10-29T03:13:49Z,vidgedb,0.1.1,JMK,Apache-2.0,23420,Python client for VidgeDB — drive the vidgedb JSON-RPC service (line-delimited stdin/stdout) from any Python process. Zero runtime dependencies (stdlib only).
+2026-10-29T03:14:21Z,byteplussdk-vpn,0.0.1,byteplus-sdk,Apache License 2.0,959,Name reservation for the Byteplus Python SDK split package byteplussdk-vpn
+2026-10-29T03:14:28Z,byteplussdk-vs,0.0.1,byteplus-sdk,Apache License 2.0,953,Name reservation for the Byteplus Python SDK split package byteplussdk-vs
+2026-10-29T03:14:34Z,byteplussdk-vs20260714,0.0.1,byteplus-sdk,Apache License 2.0,1016,Name reservation for the Byteplus Python SDK split package byteplussdk-vs20260714
+2026-10-29T03:15:18Z,xippios-usda-wasde,0.1.1,XIPPIOS GmbH,Apache-2.0,213522,"Typed client, MCP tools and HTTP routes for USDA WAOB World Agricultural Supply and Demand Estimates"
+2026-10-29T03:16:52Z,qsengine,1.0.0,kaiwave,MIT,10539287,"A fast state-vector quantum simulator for Python, with a Rust core that runs on any CPU or GPU"
+2026-10-29T03:17:01Z,execgate,0.1.0,Aldane Hutchinson,"MIT License Copyright (c) 2026 Aldane Hutchinson Permission is hereby granted, free of charge, to a…",401271,Verified execution for AI-generated plans.
+2026-10-29T03:17:51Z,universal-playwright,1.64.1,Microsoft Corporation,Apache-2.0,3716017,A high-level API to automate web browsers
+2026-10-29T03:18:36Z,imposterB,0.1.0,,,32208,LPW practicals - copy practical files into the current directory
