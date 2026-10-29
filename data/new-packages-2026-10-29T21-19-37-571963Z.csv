@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T20:20:55Z,agentstats,0.3.0,Siddharth Sukumar,MIT,159200,"Statistics for agent evals: from trajectories to claims you can defend (CIs chosen by how your eval set was built, pass^k, infra failures kept apart, CI gates, behaviour rules, judge checks, pre-regi…"
+2026-10-29T20:22:00Z,jobslop,1.1.0,1xxn,MIT,1324740,"Local, AI-driven job application autopilot: finds jobs, ranks them against your profile and fills out application forms in a real browser – powered by your own Claude subscription."
+2026-10-29T20:23:59Z,palm-vanish,0.1.0,,,11330,A webcam disappearance effect triggered by an open palm or Namaste pose.
+2026-10-29T20:24:02Z,apiverve-didyoumean,1.2.3,APIVerve <hello@apiverve.com>,MIT,20517,Did You Mean suggests spelling corrections for misspelled search queries and phrases. Pass any text string to receive the original query along with a list of alternate spelling suggestions.
+2026-10-29T20:26:53Z,meleknotes,1.1.0,Melek AI Team <info@melek.ai>,,36667,Melek Yapay Zeka Asistanı - Zihin Sarayı ve Akıllı Günlük Türkçe NLP Modülü
+2026-10-29T20:30:37Z,drvec,0.1.0,"""David E. Guerrero"" <davidesg@ucm.es>",GPL-2.0-or-later,3276825,"VARMA-VEC cointegration models by exact maximum likelihood (Mauricio 2006): rank tests with a parametric bootstrap, restrictions, forecasts and impulse responses. The Python port of the ATSW suite's…"
+2026-10-29T20:34:02Z,orbital-pv,0.3.1,OrbitalPV contributors,MIT,76982,Open-source spacecraft photovoltaic performance analytics
+2026-10-29T20:34:25Z,langchain-nano-x402,0.1.2,BountyHunter AI <dextermos@users.noreply.github.com>,MIT,27132,LangChain integration tool for autonomous Nano x402 resource purchasing with local payment guards
+2026-10-29T20:36:55Z,co-geoparquet,0.1.7,Ready,MIT,287281,Cloud-optimized GeoParquet: build LOD-pyramid artifacts with a Hilbert-indexed manifest
+2026-10-29T20:38:10Z,langchain-coworkingview,0.1.0,CoworkingView <coworkingview@gmail.com>,MIT,168215,"LangChain tools for the CoworkingView catalogue: search coworking spaces and private offices, read a space's prices and a city's market rates. No API key."
+2026-10-29T20:38:39Z,pbl-exp,0.1,Qian Chu <qianchu99@gmail.com>,,10830,Helper functions for running experiments at the Predictive Brain Lab (Bochum)
+2026-10-29T20:40:39Z,tekencrypt,1.0.0,tekencrypt,MIT,46521,"Encryption toolkit — crypto, forensics, web exploitation, and security analysis"
+2026-10-29T20:45:15Z,rulestamp-dotnet-eol-support-gate,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36171,Dates every target framework in a .csproj against Microsoft's end-of-support day and against the support period you promise (bundled Node.js runtime)
+2026-10-29T20:45:35Z,rulestamp-saft-pt-atcud-lint,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35532,"14 verificações ao XML SAF-T (PT) antes da entrega à AT: versão 1.04_01, ATCUD, dados do QR code, hash, NIF, taxas por região e totais. (bundled Node.js runtime)"
+2026-10-29T20:45:43Z,rulestamp-verfahrensdoku-gobd-check,1.0.8,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34656,"17 Regeln aus den GoBD und §147 AO gegen Ihre Markdown-Verfahrensdokumentation — im Editor, ohne Upload. (bundled Node.js runtime)"
+2026-10-29T20:46:02Z,rulestamp-weiterbildung-foerderquote-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37143,"Kursseiten gegen § 82 SGB III ab 2024-04-01 prüfen: 16 rules, 2 inputs (bundled Node.js runtime)"
+2026-10-29T20:46:44Z,langchain-x402-nano,0.1.0,langchain-x402-nano contributors,MIT,62287,LangChain tool: pay x402 'exact' quotes on nano:mainnet (XNO) behind an offline-tested payment guard
+2026-10-29T20:48:07Z,shoal,0.1.0a1,Shoal contributors,MIT,1319847,"A fully typed Discord API library for Python, built to scale from one guild to millions."
+2026-10-29T20:48:22Z,melek-memory,1.0.0,Melek Core Team <info@melekcore.org>,,42670,Melek AI asistanı için 20x bilişsel hipokampüs ve bilgi grafiği katmanı
+2026-10-29T20:48:25Z,evlet,0.1.1,,MIT,332520,A small Python application framework with SQLite and a neutral UI schema
+2026-10-29T20:50:50Z,meta-neural-py,0.1.0a1,,MIT,110888,Experimental direct Meta Neural Band access for Python
+2026-10-29T20:51:04Z,citesync,0.1.0,Simon van Lierde,Apache-2.0,99662,"Check that CITATION.cff, codemeta.json, .zenodo.json and the package manifests (pyproject.toml, Cargo.toml, package.json) agree, and rewrite them to match one source file, using the CodeMeta crosswal…"
+2026-10-29T20:52:10Z,swarmdm,0.0.1,shichuanqiong,Apache-2.0,2754,Reserved: the next name of AgoraDM (agent-to-agent messaging). Use 'agoradm' until the first real release.
+2026-10-29T20:54:58Z,swarmdm-mcp,0.0.1,shichuanqiong,Apache-2.0,2839,Reserved: the next name of AgoraDM MCP server (agent-to-agent messaging). Use 'agoradm-mcp' until the first real release.
+2026-10-29T20:57:06Z,pierre-sdk,0.1.0.dev4,Pierre,Apache-2.0,170212,The Pierre SDK for Python
+2026-10-29T20:57:17Z,proxmox-model-context-protocol,0.1.0,Jakub Krajewski <MCP.Proxmox@gmail.com>,Apache-2.0,405693,"MCP server for full management of a Proxmox VE hypervisor, with local safety barriers"
+2026-10-29T20:59:15Z,cndr,0.1.0,,MIT,27369072,"condor: a fast, vulture-compatible dead-code finder for Python, written in Rust"
+2026-10-29T21:03:28Z,canonprims,0.1.2,,MIT OR Apache-2.0,1234872,Canonical serialization for structured data: RFC 8785 JSON over a strict I-JSON loader
+2026-10-29T21:04:29Z,adafruit-circuitpython-rv8803,1.0.0,Adafruit Industries <circuitpython@adafruit.com>,MIT,37818,CircuitPython driver for the Adafruit RV-8803 High Accuracy Real Time Clock Breakout Board
+2026-10-29T21:05:42Z,zanii-mandate-sdk,0.2.0,Zanii AI <info@zanii.agency>,Apache-2.0,48505,Python client for Zanii Mandate verification
+2026-10-29T21:06:44Z,mindtheprompt,0.1.0,Josh Ronk,,2125,Add your description here
+2026-10-29T21:07:12Z,ci-autopsy,0.1.0,juzorei,MIT,25989,"Classify failed GitHub Actions runs: fetch logs via gh, match failure signatures, extract pytest summaries, advise the fix"
+2026-10-29T21:07:56Z,pdfapi,0.1.0,pdfapi,MIT,45114,"Официальный Python SDK pdfapi: HTML, URL, Markdown и Office в PDF одним вызовом"
+2026-10-29T21:09:17Z,potik,0.1.0,Danylo Kielsa <danylo.kielsa@gmail.com>,MIT,206114,An async Python framework for exactly-once Kafka services.
+2026-10-29T21:10:25Z,migsentry,0.1.0,juzorei,MIT,14885,"Scan database migrations for dangerous operations: drops, rewrites, locks — with the expand/contract alternative"
+2026-10-29T21:10:29Z,git-rvw,0.1.0,Anders Roxell <anders.roxell@linaro.org>,,32699,Review GitLab MRs and GitHub PRs from the terminal
+2026-10-29T21:11:03Z,flakehunt,0.1.0,juzorei,MIT,13243,Confirm and narrow flaky test failures: rerun hammers and seed hunts with honest verdicts
+2026-10-29T21:13:09Z,ncm-mlx,0.1.1,Jan Music,MIT,108762,Independent Next-Concept Modeling research implementation in MLX for Metal and CUDA
+2026-10-29T21:13:19Z,hca-metadata-schema,0.2.0,Clever Canary <dave@clevercanary.com>,MIT,62935,HCA metadata schema: LinkML definitions and the Pydantic models generated from them
+2026-10-29T21:14:17Z,hypdmz,0.1.0a1,,,141813,"Run a HypSwarm research swarm inside a governed-egress pod: a UID-scoped egress floor, an allowlisting TLS-intercepting proxy, vaulted credentials, hourly caps, a hash-chained audit — and an egress c…"
+2026-10-29T21:17:07Z,edith-hermes-sdk,0.35.0,,MIT,809115,"Python SDK for building, provisioning, and controlling Hermes runtimes"
+2026-10-29T21:17:33Z,misroute,0.2.0,philippyt,MIT,129768,"Find the tools your agent confuses and test whether a fix helps, against a neutral edit"
