@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T05:18:49Z,robo-test-studio,0.1.1,,MIT,7475877,"Semantic browser recording, review, Python generation and Testcase Studio"
+2026-10-29T05:21:09Z,codelaw-rules-security-html,0.3.0,,MIT,35092,codelaw's security rules for HTML; its presets also turn on the html pack's security rules (SR-RULE-PACKS)
+2026-10-29T05:25:36Z,codelaw-rules-spell,0.3.0,,MIT,1051653,"codelaw's spell checker: known typos fixed unattended, in every L3 language; word data generated from SCOWL (SR-SPELL)"
+2026-10-29T05:27:39Z,flop-sdk,0.2.0,FLOP Network <dev@flop.network>,MIT OR Apache-2.0,122413,"FLOP Network SDK for Python - HTLC workflows, PoUI proofs, and account management"
+2026-10-29T05:28:23Z,vaartix,0.1.0,NAP Designs <support@vaartix.com>,MIT,21067,Official Python SDK for the Vaartix email API
+2026-10-29T05:30:16Z,codelaw-rules-security-python,0.3.0,,MIT,115471,codelaw's security rules for Python: CWE and OWASP Top 10:2025 mapped; PyPI only (SR-RULE-PACKS)
+2026-10-29T05:34:38Z,copier-project,0.28.0,Stephen Kent <smkent@smkent.net>,MIT,141319,Copier template for software projects with modern tooling
+2026-10-29T05:35:04Z,codelaw-rules-security-js-fux-index,0.3.0,,MIT,173601,"A Fux index of codelaw's security-js rules, for fux_search. Optional; install beside codelaw-rules-security-js."
+2026-10-29T05:35:41Z,aitools-healthcare,0.1.2,Patrick Jane,,44356,Healthcare Analytics Lab Experiments helper
+2026-10-29T05:37:51Z,vectoramp-sable-embedded-runtime,0.1.2,"VectorAmp, Inc.",LicenseRef-VectorAmp-Embedded-Development-1.0,3385426,Native SABLE runtime for VectorAmp SDK development and tests
+2026-10-29T05:39:20Z,hart-sim,0.1.0,Ralf Steinert,MIT,116392,Simulated HART field devices (pressure and temperature transmitters) speaking HART-IP
+2026-10-29T05:39:53Z,codelaw-rules-security-html-fux-index,0.3.0,,MIT,45310,"A Fux index of codelaw's security-html rules, for fux_search. Optional; install beside codelaw-rules-security-html."
+2026-10-29T05:45:53Z,codelaw-rules-security-python-fux-index,0.3.0,,MIT,150931,"A Fux index of codelaw's security-python rules, for fux_search. Optional; install beside codelaw-rules-security-python."
+2026-10-29T05:50:56Z,codelaw-rules-spell-fux-index,0.3.0,,MIT,29383,"A Fux index of codelaw's spell rules, for fux_search. Optional; install beside codelaw-rules-spell."
+2026-10-29T05:52:20Z,siftplane,0.1.0b1,Siftplane <hello@siftplane.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",54180,Bounded synchronous client for the Siftplane document API
+2026-10-29T05:53:32Z,scrapy-lightpanda,0.1.0,Surendra Tamang,BSD-3-Clause,16183,Run Scrapy + scrapy-playwright on the Lightpanda headless browser
+2026-10-29T05:55:56Z,agentdetox,0.2.0,Yichen Wu,Apache-2.0,208577,"Protection for what AI coding agents remember and obey: checks what they write to memory, rules, skills and config, records where each change came from, and puts back what was tampered with."
+2026-10-29T05:56:43Z,spanport,0.1.1,Nitish Bharadwaj,Apache-2.0,22321,Send your Python app's logs to Spanport with two lines of code.
+2026-10-29T05:59:15Z,exactus,0.6.0,Joao Lopes,MIT,17357899,"Standalone, project-agnostic exactus for Python/JavaScript projects."
+2026-10-29T06:01:22Z,eiopa-rfr,0.1.0,Open-Source Modelling,MIT,80953,"Solvency II risk-free interest rate term structures with EIOPA's constant-forward method, the volatility adjustment and the interest rate shocks"
+2026-10-29T06:02:08Z,agent-postmortem,0.3.4,,MIT,1756909,"Post-mortem for multi-agent coding runs: prove what silently went wrong, then draft the rule that prevents it."
+2026-10-29T06:06:12Z,llm-app-ci-gate,0.1.0,AsherLucas,MIT,11861,"One CI gate for LLM apps: prompt evaluation, security scan, and cost estimate in a single report."
+2026-10-29T06:08:53Z,rpca-kit,0.1.0,,MIT,40529,Robust PCA with NumPy and optional PyTorch CPU/CUDA backends
+2026-10-29T06:08:55Z,modaldyn,0.1.0,Giovanny Torres,MIT,61987,Inspectable dynamic mode decomposition on NumPy CPU and PyTorch CPU/CUDA
+2026-10-29T06:09:53Z,openfusion,0.1.0,calesthio/OpenFusion contributors,MIT,463593,Multi-model routing for any AI coding agent: send each subtask to the cheapest model that can do it well.
+2026-10-29T06:11:08Z,dokime-client,0.1.0,,Apache-2.0,1968663,Async remote control and evidence collection for Dokime.
+2026-10-29T06:11:33Z,cteno-sdk,2.10.13,,MIT (client); daemon binaries: see cteno_sdk/_bin/LICENSE.daemon,264751715,"Python client for Cteno agents, with a bundled local daemon"
+2026-10-29T06:16:42Z,gremlincore,0.1.1,Kohl Jary,MIT,137849,Your computer should have a little guy in it. Open-source agentic computing that drafts and never sends.

@@ -8,45 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 05:18 UTC
+## Latest list — 2026-10-29 06:20 UTC
 
-New packages created between 2026-10-29 04:21 UTC and 2026-10-29 05:18 UTC.
+New packages created between 2026-10-29 05:18 UTC and 2026-10-29 06:20 UTC.
 
-[Full CSV](data/new-packages-2026-10-29T05-18-59-995084Z.csv)
+[Full CSV](data/new-packages-2026-10-29T06-20-48-101032Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-29 04:21:48 | [the-cartographer](https://pypi.org/project/the-cartographer/) | 0.1.0 |  | 14.2 MB | Ask which agent skills fit a task before you start it: one cached model call ov… |
-| 2026-10-29 04:24:42 | [D-Difficulty](https://pypi.org/project/D-Difficulty/) | 0.1.0 | Anónimo <nadie@example.com> | 8.7 kB | D — Difficulty. Una librería EXTREMADAMENTE difícil. Sin docs. Sin piedad. |
-| 2026-10-29 04:25:35 | [tracerlab](https://pypi.org/project/tracerlab/) | 0.1.6 | Atharv Santosh <atharvsantosh… | 319.4 kB | MCP server for Cisco Packet Tracer 9. Build, configure and verify networks from… |
-| 2026-10-29 04:26:15 | [codelaw-rules-react-fux-index](https://pypi.org/project/codelaw-rules-react-fux-index/) | 0.2.0 |  | 50.0 kB | A Fux index of codelaw's react rules, for fux_search. Optional; install beside… |
-| 2026-10-29 04:26:17 | [codelaw-rules-scss-fux-index](https://pypi.org/project/codelaw-rules-scss-fux-index/) | 0.2.0 |  | 36.3 kB | A Fux index of codelaw's scss rules, for fux_search. Optional; install beside c… |
-| 2026-10-29 04:26:19 | [codelaw-rules-python-fux-index](https://pypi.org/project/codelaw-rules-python-fux-index/) | 0.2.0 |  | 135.3 kB | A Fux index of codelaw's python rules, for fux_search. Optional; install beside… |
-| 2026-10-29 04:29:37 | [algovoi-otel-genai](https://pypi.org/project/algovoi-otel-genai/) | 0.4.0 | AlgoVoi <chopmob@gmail.com> | 18.1 kB | Map an AlgoVoi keystone decision to OpenTelemetry gen_ai.agent.* attributes, ca… |
-| 2026-10-29 04:30:14 | [blochtwin](https://pypi.org/project/blochtwin/) | 0.3.1 | Hoonjae Lee <dev@newmean.ai> | 128.6 kB | Physics-faithful, GPU-accelerated open-source MRI scanner simulator (digital tw… |
-| 2026-10-29 04:31:13 | [auspex3d](https://pypi.org/project/auspex3d/) | 0.1.0 | Md. Sohanur Islam Shuvo | 29.8 MB | 3D object detection for LiDAR point clouds (and optional cameras), trained on y… |
-| 2026-10-29 04:36:31 | [blazar-video](https://pypi.org/project/blazar-video/) | 0.1.0 |  | 12.1 MB | Model-aware video encoding for generated video: zero-copy GPU ingest, per-model… |
-| 2026-10-29 04:40:44 | [dwy-notify](https://pypi.org/project/dwy-notify/) | 0.1.0 |  | 10.2 kB | 基于 Apprise 的独立多目标通知与安全发送边界 |
-| 2026-10-29 04:41:52 | [dataranger](https://pypi.org/project/dataranger/) | 0.0.1 | Akshay Sharma <akshay.sharma1… | 7.5 kB | An agent that patrols your data, fixes what it can prove, and calls you for the… |
-| 2026-10-29 04:43:29 | [python-wrap](https://pypi.org/project/python-wrap/) | 0.2.1 | Mahmoud Ahmed <pythondevelope… | 381.0 kB | Everyday Python decorators that just work: retry, memoize, timeout, rate limiti… |
-| 2026-10-29 04:46:31 | [netease-mail-mcp-server](https://pypi.org/project/netease-mail-mcp-server/) | 0.1.0 | 冯夏影 <fengxypsy@163.com> | 205.4 kB | MCP server for NetEase personal mail (163 / 126 / yeah.net / 188): search, read… |
-| 2026-10-29 04:46:48 | [tokless](https://pypi.org/project/tokless/) | 0.0.1 | Karthick Raja M <Karthickraja… | 5.4 kB | Lossless token compression for OKF knowledge and agent skills. |
-| 2026-10-29 04:47:36 | [maplpw](https://pypi.org/project/maplpw/) | 0.1.0 |  | 13.1 MB | MAP LPW practicals: copies practical files into the current directory |
-| 2026-10-29 04:48:08 | [icebath-cli](https://pypi.org/project/icebath-cli/) | 1.0.7 | Nicholas W. Heyer <nick@heyer… | 50.0 MB | Tiling agentic harness and netrunner toolkit |
-| 2026-10-29 04:49:52 | [picadolabs-agentbench](https://pypi.org/project/picadolabs-agentbench/) | 1.0.0 | PicadoLabs <picadolabs@gmail.… | 129.5 kB | Provider-agnostic evaluation and benchmarking platform for autonomous AI coding… |
-| 2026-10-29 04:52:24 | [xarrayrf](https://pypi.org/project/xarrayrf/) | 0.0.1.dev0 | Matthias Schabel | 553.3 kB | Experimental reference-frame support for xarray |
-| 2026-10-29 04:53:32 | [agentbench-core](https://pypi.org/project/agentbench-core/) | 1.0.0 | PicadoLabs <picadolabs@gmail.… | 123.2 kB | Provider-agnostic evaluation and benchmarking platform for autonomous AI coding… |
-| 2026-10-29 05:00:04 | [pqblocks-fips-check](https://pypi.org/project/pqblocks-fips-check/) | 0.1.0 | The PQBlocks Authors | 46.7 kB | FIPS 203/204 boundary validator and hybrid key exchange (X25519 + ML-KEM-768) w… |
-| 2026-10-29 05:00:09 | [pqblocks-jose](https://pypi.org/project/pqblocks-jose/) | 0.1.0 | The PQBlocks Authors | 119.9 kB | Post-quantum hybrid JOSE library supporting ML-KEM and ML-DSA JWE and JWS token… |
-| 2026-10-29 05:00:13 | [pqblocks-jwe](https://pypi.org/project/pqblocks-jwe/) | 0.1.0 | The PQBlocks Authors | 22.8 kB | Compact five-part wire format, with a serializer and structural parser, for hyb… |
-| 2026-10-29 05:00:17 | [pqblocks-jwe-audit](https://pypi.org/project/pqblocks-jwe-audit/) | 0.1.0 | The PQBlocks Authors | 23.4 kB | High-throughput JSON Web Encryption (JWE) cryptographic policy auditor enforcin… |
-| 2026-10-29 05:03:34 | [toolseed](https://pypi.org/project/toolseed/) | 0.5.0 |  | 414.8 kB | ToolSeed: reusable agent procedures with a local MCP server |
-| 2026-10-29 05:03:47 | [logit-stream](https://pypi.org/project/logit-stream/) | 0.1.0 | Lee Tucker | 311.3 kB | Out-of-core logit models by streamed Newton: binary, multinomial, ordered and c… |
-| 2026-10-29 05:04:43 | [codelaw-rules-scss](https://pypi.org/project/codelaw-rules-scss/) | 0.3.0 |  | 28.0 kB | codelaw's rules for SCSS (Sass), ported from stylelint-scss, with Dart Sass's m… |
-| 2026-10-29 05:07:50 | [php-archangel-mcp](https://pypi.org/project/php-archangel-mcp/) | 1.0.0 | Godwin Tarbo | 132.1 kB | Precision-first PHP vulnerability scanner for php2shell (CVE-2026-109618/109619… |
-| 2026-10-29 05:11:27 | [codelaw-skills](https://pypi.org/project/codelaw-skills/) | 0.3.0 |  | 36.5 kB | codelaw's agent files — skills, steering, instructions, hooks, MCP registration… |
-| 2026-10-29 05:12:44 | [tg-cleaner](https://pypi.org/project/tg-cleaner/) | 0.1.0 | hillelGonen | 59.8 kB | Clean up your Telegram from the terminal: leave dead chats, quiet unread channe… |
-| 2026-10-29 05:16:03 | [hardly](https://pypi.org/project/hardly/) | 1.0.0 | Justin Capella <4584655+b1tni… | 1.2 MB | HAR analysis MCP/CLI — archive, headless, or interactive modes to index and que… |
-| 2026-10-29 05:16:16 | [codelaw-rules-security-js](https://pypi.org/project/codelaw-rules-security-js/) | 0.3.0 |  | 128.1 kB | codelaw's security rules for JavaScript and JSX, and the TypeScript that runs t… |
-| 2026-10-29 05:16:34 | [mumax2csv](https://pypi.org/project/mumax2csv/) | 0.1 | Samarthya Lykamanuella <lykam… | 13.9 kB | Converts a micromagnetic data table file generated by Mumax3 simulations into a… |
-| 2026-10-29 05:17:13 | [cascade-guard-ai](https://pypi.org/project/cascade-guard-ai/) | 1.0.0 | Kanav Mishra | 251.7 kB | Stop errors from cascading through chains of AI agents: check every hand-off, r… |
+| 2026-10-29 05:18:49 | [robo-test-studio](https://pypi.org/project/robo-test-studio/) | 0.1.1 |  | 7.5 MB | Semantic browser recording, review, Python generation and Testcase Studio |
+| 2026-10-29 05:21:09 | [codelaw-rules-security-html](https://pypi.org/project/codelaw-rules-security-html/) | 0.3.0 |  | 35.1 kB | codelaw's security rules for HTML; its presets also turn on the html pack's sec… |
+| 2026-10-29 05:25:36 | [codelaw-rules-spell](https://pypi.org/project/codelaw-rules-spell/) | 0.3.0 |  | 1.1 MB | codelaw's spell checker: known typos fixed unattended, in every L3 language; wo… |
+| 2026-10-29 05:27:39 | [flop-sdk](https://pypi.org/project/flop-sdk/) | 0.2.0 | FLOP Network <dev@flop.networ… | 122.4 kB | FLOP Network SDK for Python - HTLC workflows, PoUI proofs, and account manageme… |
+| 2026-10-29 05:28:23 | [vaartix](https://pypi.org/project/vaartix/) | 0.1.0 | NAP Designs <support@vaartix.… | 21.1 kB | Official Python SDK for the Vaartix email API |
+| 2026-10-29 05:30:16 | [codelaw-rules-security-python](https://pypi.org/project/codelaw-rules-security-python/) | 0.3.0 |  | 115.5 kB | codelaw's security rules for Python: CWE and OWASP Top 10:2025 mapped; PyPI onl… |
+| 2026-10-29 05:34:38 | [copier-project](https://pypi.org/project/copier-project/) | 0.28.0 | Stephen Kent <smkent@smkent.n… | 141.3 kB | Copier template for software projects with modern tooling |
+| 2026-10-29 05:35:04 | [codelaw-rules-security-js-fux-index](https://pypi.org/project/codelaw-rules-security-js-fux-index/) | 0.3.0 |  | 173.6 kB | A Fux index of codelaw's security-js rules, for fux_search. Optional; install b… |
+| 2026-10-29 05:35:41 | [aitools-healthcare](https://pypi.org/project/aitools-healthcare/) | 0.1.2 | Patrick Jane | 44.4 kB | Healthcare Analytics Lab Experiments helper |
+| 2026-10-29 05:37:51 | [vectoramp-sable-embedded-runtime](https://pypi.org/project/vectoramp-sable-embedded-runtime/) | 0.1.2 | VectorAmp, Inc. | 3.4 MB | Native SABLE runtime for VectorAmp SDK development and tests |
+| 2026-10-29 05:39:20 | [hart-sim](https://pypi.org/project/hart-sim/) | 0.1.0 | Ralf Steinert | 116.4 kB | Simulated HART field devices (pressure and temperature transmitters) speaking H… |
+| 2026-10-29 05:39:53 | [codelaw-rules-security-html-fux-index](https://pypi.org/project/codelaw-rules-security-html-fux-index/) | 0.3.0 |  | 45.3 kB | A Fux index of codelaw's security-html rules, for fux_search. Optional; install… |
+| 2026-10-29 05:45:53 | [codelaw-rules-security-python-fux-index](https://pypi.org/project/codelaw-rules-security-python-fux-index/) | 0.3.0 |  | 150.9 kB | A Fux index of codelaw's security-python rules, for fux_search. Optional; insta… |
+| 2026-10-29 05:50:56 | [codelaw-rules-spell-fux-index](https://pypi.org/project/codelaw-rules-spell-fux-index/) | 0.3.0 |  | 29.4 kB | A Fux index of codelaw's spell rules, for fux_search. Optional; install beside… |
+| 2026-10-29 05:52:20 | [siftplane](https://pypi.org/project/siftplane/) | 0.1.0b1 | Siftplane <hello@siftplane.co… | 54.2 kB | Bounded synchronous client for the Siftplane document API |
+| 2026-10-29 05:53:32 | [scrapy-lightpanda](https://pypi.org/project/scrapy-lightpanda/) | 0.1.0 | Surendra Tamang | 16.2 kB | Run Scrapy + scrapy-playwright on the Lightpanda headless browser |
+| 2026-10-29 05:55:56 | [agentdetox](https://pypi.org/project/agentdetox/) | 0.2.0 | Yichen Wu | 208.6 kB | Protection for what AI coding agents remember and obey: checks what they write… |
+| 2026-10-29 05:56:43 | [spanport](https://pypi.org/project/spanport/) | 0.1.1 | Nitish Bharadwaj | 22.3 kB | Send your Python app's logs to Spanport with two lines of code. |
+| 2026-10-29 05:59:15 | [exactus](https://pypi.org/project/exactus/) | 0.6.0 | Joao Lopes | 17.4 MB | Standalone, project-agnostic exactus for Python/JavaScript projects. |
+| 2026-10-29 06:01:22 | [eiopa-rfr](https://pypi.org/project/eiopa-rfr/) | 0.1.0 | Open-Source Modelling | 81.0 kB | Solvency II risk-free interest rate term structures with EIOPA's constant-forwa… |
+| 2026-10-29 06:02:08 | [agent-postmortem](https://pypi.org/project/agent-postmortem/) | 0.3.4 |  | 1.8 MB | Post-mortem for multi-agent coding runs: prove what silently went wrong, then d… |
+| 2026-10-29 06:06:12 | [llm-app-ci-gate](https://pypi.org/project/llm-app-ci-gate/) | 0.1.0 | AsherLucas | 11.9 kB | One CI gate for LLM apps: prompt evaluation, security scan, and cost estimate i… |
+| 2026-10-29 06:08:53 | [rpca-kit](https://pypi.org/project/rpca-kit/) | 0.1.0 |  | 40.5 kB | Robust PCA with NumPy and optional PyTorch CPU/CUDA backends |
+| 2026-10-29 06:08:55 | [modaldyn](https://pypi.org/project/modaldyn/) | 0.1.0 | Giovanny Torres | 62.0 kB | Inspectable dynamic mode decomposition on NumPy CPU and PyTorch CPU/CUDA |
+| 2026-10-29 06:09:53 | [openfusion](https://pypi.org/project/openfusion/) | 0.1.0 | calesthio/OpenFusion contribu… | 463.6 kB | Multi-model routing for any AI coding agent: send each subtask to the cheapest… |
+| 2026-10-29 06:11:08 | [dokime-client](https://pypi.org/project/dokime-client/) | 0.1.0 |  | 2.0 MB | Async remote control and evidence collection for Dokime. |
+| 2026-10-29 06:11:33 | [cteno-sdk](https://pypi.org/project/cteno-sdk/) | 2.10.13 |  | 264.8 MB | Python client for Cteno agents, with a bundled local daemon |
+| 2026-10-29 06:16:42 | [gremlincore](https://pypi.org/project/gremlincore/) | 0.1.1 | Kohl Jary | 137.8 kB | Your computer should have a little guy in it. Open-source agentic computing tha… |
