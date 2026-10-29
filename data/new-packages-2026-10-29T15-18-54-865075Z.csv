@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T14:17:02Z,stradler,0.0.0,camri-org,MIT,4250,"Strata handler: layered data-structure and workflow framework (name reservation, no functionality yet)"
+2026-10-29T14:21:27Z,spectio,0.0.0,,MIT,3050,"Launch, monitor and steer Nextflow and Snakemake runs from one place (early placeholder release)"
+2026-10-29T14:21:30Z,singapore-mobile-proxy,0.1.0,Singapore Mobile Proxy,MIT,34757,"Scrapy middleware and Playwright helpers for Singapore 4G mobile proxies (Singtel, M1), with IP rotation on a status code, a schedule or on demand."
+2026-10-29T14:24:05Z,amagi-weights,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,78381,"Point it at a Hugging Face model ID or a local model folder and it tells you whether you can use the weights commercially: the real license (Llama, Gemma, Qwen, Mistral and other custom licenses incl…"
+2026-10-29T14:25:56Z,wsgnstat,0.1.0,"""M. Theodor Loots"" <theo.loots@gmail.com>",GPL-3.0-only,318901,The wrapped skew generalised normal distribution on a shared pure-C back-end (also backing the R package wsgnstat)
+2026-10-29T14:28:05Z,tsp-fast-cpp,0.1.0,CodingWizard34 <developer@example.com>,,196253,A blazing fast C++ TSP solver wrapped in Cython
+2026-10-29T14:28:21Z,forecast-repair,0.1.0,Marius Smytzek <marius.smytzek@cispa.de>,Apache-2.0,517419,FORECAST is a debugging approach that generates diagnoses to boost repair agents.
+2026-10-29T14:30:20Z,ostivane,0.24.0,Ruslan Tiahniienko,Apache-2.0,778997,"Ostivane: runtime security for AI agents - stops dangerous tool calls before they run, with a signed, tamper-evident audit trail"
+2026-10-29T14:31:02Z,autogenesis-cli,0.1.0,,MIT,4817,Install the AutoGenesis host runtime bundle and canonical Agent Skills
+2026-10-29T14:32:23Z,pavan-krovvidi-fingerwave,1.0.1,Pavan Kumar Krovvidi <pavank9848@gmail.com>,Apache-2.0,935811,"Pavan Krovvidi FingerWave Neural Network: a biologically inspired, boundary-seeded neural PDE. Every life has a unique print. So does every prediction."
+2026-10-29T14:33:26Z,service-registrar,0.0.1,Louis Zhuang <yzhuang@outlook.com>,,4451,plugin mechanism for service registration and discovery
+2026-10-29T14:34:15Z,normaltwinpet,0.2.0,Christian Hinge,MIT,15602,Generate a normal twin PET from a CT with a 3D UNet
+2026-10-29T14:35:24Z,torch-lightning-easy,0.1.0,,,16331,
+2026-10-29T14:37:45Z,moltab,0.1.0,Malte Grieswelle,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",29884,Scoring function: CheMeleon fingerprints + TabICLv2 in-context learning behind a REST API
+2026-10-29T14:41:48Z,us-bank-data,0.1.1,BanksOnSale,MIT,8201,"U.S. bank data for Python: FDIC financials, deposits, capital ratios, quarterly panels, and source-linked exports."
+2026-10-29T14:42:06Z,identisure-client,0.1.0,Identisure,MIT,31670,API client for the Identisure REST API
+2026-10-29T14:42:14Z,pydoug-core,0.1.0,Douglas Lars Nelson <PyDoug@referable.anonaddy.com>,MIT,233096,"Core I/O, image processing and analysis, and batch logic for PyDoug"
+2026-10-29T14:42:31Z,pydoug-napari,0.1.0,Douglas Lars Nelson <PyDoug@referable.anonaddy.com>,MIT,60198,napari plugin for PyDoug
+2026-10-29T14:44:00Z,neuralk-oss,0.1.0,Neuralk-AI,MIT,489405,Neuralk-AI open-source models: loading and inference
+2026-10-29T14:44:19Z,aidevelopmenttoolkit,1.0.0,Daniele Bertagnoli,,84567,"Utilities for AI development workflows with PyTorch, MLflow and other general purpose functions."
+2026-10-29T14:45:14Z,faultypacket-audit,1.3.0,,AGPL-3.0-or-later,239145,"Cited mail and DNS security audit: SPF, DMARC (RFC 9989), DKIM, MTA-STS, TLS-RPT, DNSSEC, DANE, CAA, BIMI and mailbox-provider sender requirements"
+2026-10-29T14:47:25Z,travi,0.1.1,unclewall <unclewall@qq.com>,MIT,12342,Build project directory structures from JSON templates
+2026-10-29T14:48:47Z,isopleth,0.1.0,Luxitag LLC <support@isopleth.dev>,MIT,47047,"Official Python client for the Isopleth API: public location data and parcel records for any US point, plus ready-made tools for OpenAI, Anthropic and LangChain agents."
+2026-10-29T14:49:47Z,plesty-perovskite-g2-search,0.1.0,Yunshuang Yuan <yunshuang.yuan@fkp.uni-hannover.de>,LGPL-3.0-or-later,561371,"Map a sample cell by cell and measure g2(0) at every bright point as the scan passes, with the emitters' saturation curves."
+2026-10-29T14:52:54Z,ai-accounts,0.28.5,Wes Kao,MIT,1298760,Manage and switch profiles across AI coding CLIs
+2026-10-29T14:54:18Z,integrateledger,0.1.0,,MIT,11614,Python client for the Ledger billing and usage API
+2026-10-29T14:54:43Z,goliath-data,0.1.0,Goliath Data <support@goliathdata.com>,MIT,845987,Official Python SDK for the Goliath developer API (goliathdata.com)
+2026-10-29T14:57:55Z,ayzal-guard,0.1.0,Ayzal AI <support@ayzalai.com>,MIT,12318,Official Python client for Ayzal Guard — Email Risk & IP Intelligence API
+2026-10-29T14:58:27Z,zenagent-py,0.1.0,Justin Gao,,251775,"A minimal, Pythonic coding agent: streaming LLM client, async-generator agent loop, and terminal harness."
+2026-10-29T15:00:45Z,massphoto,0.1.0,"Jan Christoph Thiele <jan.thiele@chem.ox.ac.uk>, Stephen Thorpe <stephen.thorpe@chem.ox.ac.uk>",MIT,222793,Python package for mass photometry data analysis
+2026-10-29T15:01:08Z,aml-graphminer,0.1.0,"Ahmed Ahmed Mahmoud Abeideck <abeideck.ahmed@gmail.com>, Saade Jaavar Boubacar <saadejaavar21@gmail…",MIT,488160,Open-source toolkit for explainable money-laundering detection on transaction graphs (structural motifs + Graph Neural Networks).
+2026-10-29T15:02:42Z,exai67,0.1.1,EXAI Team,MIT,17407,exai67
+2026-10-29T15:07:04Z,saltext.sqlite3,1.0.0,jeanluc <lkubb@protonmail.com>,Apache-2.0,109999,Salt Extension for interacting with SQLite
+2026-10-29T15:07:40Z,firstwatch,0.1.0,dave8172,MIT,35254,"First line of defence for AI agents: spots attacks hidden in pages, files and tool results, and records each one as evidence in an open, OpenTelemetry-ready format with MITRE ATLAS and OWASP IDs. No…"
+2026-10-29T15:08:13Z,robokohl,0.1.2,Kohl Jary <kohlbern@gmail.com>,MIT,170884,"RoboKohl: a model playing Kohl, files included. Personality loose, judgment stone-cold sober."
+2026-10-29T15:08:29Z,capture-edit,0.1.0,,MIT,15690,"Capture a web page element and post-process it (crop, title, source caption) in one command."
+2026-10-29T15:12:35Z,codecortex-engine,2.0.1,,MIT,427052,Adaptive semantic intelligence engine for large-scale code understanding
+2026-10-29T15:12:46Z,apex-flow-sdk,0.1.0,ApexFlow Team,MIT,32233,Python SDK for ApexFlow Lightweight Workflow Orchestration Engine
+2026-10-29T15:13:32Z,game-re-sigtool,0.2.0,juzorei,MIT,56471,"Offline CLI to scan, generate and regression-check AOB signatures and walk pointer chains"
+2026-10-29T15:14:11Z,atrfu,1.0.0,"Gul Hameed, Tao Chen, Antonio del Rio Chanona, Lorenz T. Biegler, Michael Short",MIT AND BSD-3-Clause,79788,A-TRFu: advanced trust-region funnel method for grey-box optimisation with Pyomo
+2026-10-29T15:17:13Z,shellmate-cli,3.0.0,ShellMate Contributors,MIT,269752,Intelligent shell autocomplete with consequence preview
+2026-10-29T15:18:33Z,llm-layered-defense,0.2.0,Rajesh Govindarajan <rj@onboardai.org>,MIT,142367,"Layered defense framework (verifier, metadata-filtered RAG, negative prompting, alignment) for mitigating LLM hallucinations, with a reproducible ablation harness."

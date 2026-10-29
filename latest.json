@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-10-29T13:18:55.615975Z",
-    "path": "data/new-packages-2026-10-29T14-21-17-643808Z.csv",
-    "to": "2026-10-29T14:21:17.643808Z"
+    "count": 42,
+    "from": "2026-10-29T14:21:17.643808Z",
+    "path": "data/new-packages-2026-10-29T15-18-54-865075Z.csv",
+    "to": "2026-10-29T15:18:54.865075Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-29T12:02:03Z",
       "package": "apexnet",
       "since": "2026-10-29T11:19:16.264994Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-10-29T15:17:54Z",
+      "package": "ci-guard-check",
+      "since": "2026-10-29T14:21:17.643808Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-10-29T12:03:49Z",
       "package": "my-text-library-unique123",
       "since": "2026-10-29T11:19:16.264994Z",
@@ -22,20 +29,20 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-29T15:18:35Z",
+      "package": "parse-everything",
+      "since": "2026-10-29T14:21:17.643808Z",
+      "version": "1.0.0"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-29T13:58:18Z",
       "package": "pelagos",
       "since": "2026-10-29T13:18:55.615975Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-29T14:17:02Z",
-      "package": "stradler",
-      "since": "2026-10-29T13:18:55.615975Z",
-      "version": null
     }
   ],
-  "serial": 42919022,
+  "serial": 42921296,
   "source_truncated": false,
-  "window": "2026-10-29T14:21:17.643808Z"
+  "window": "2026-10-29T15:18:54.865075Z"
 }
