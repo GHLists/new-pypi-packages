@@ -1,34 +1,20 @@
 {
   "list": {
-    "count": 45,
-    "from": "2026-10-29T09:19:05.59378Z",
-    "path": "data/new-packages-2026-10-29T10-18-59-251782Z.csv",
-    "to": "2026-10-29T10:18:59.251782Z"
+    "count": 52,
+    "from": "2026-10-29T10:18:59.251782Z",
+    "path": "data/new-packages-2026-10-29T11-19-16-264994Z.csv",
+    "to": "2026-10-29T11:19:16.264994Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-29T09:52:40Z",
       "package": "ble-log-client",
       "since": "2026-10-29T09:19:05.59378Z",
       "version": "0.3.4rc5"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-29T10:18:43Z",
-      "package": "estrellio-weekly-report-processor",
-      "since": "2026-10-29T09:19:05.59378Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-29T09:58:12Z",
-      "package": "odoo-addon-contract-line-defer",
-      "since": "2026-10-29T09:19:05.59378Z",
-      "version": null
     }
   ],
-  "serial": 42909319,
+  "serial": 42911459,
   "source_truncated": false,
-  "window": "2026-10-29T10:18:59.251782Z"
+  "window": "2026-10-29T11:19:16.264994Z"
 }

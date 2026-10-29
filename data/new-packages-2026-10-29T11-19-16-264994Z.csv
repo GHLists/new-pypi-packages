@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T09:58:12Z,odoo-addon-contract-line-defer,18.0.1.0.0.2,"ACSONE SA/NV,Odoo Community Association (OCA)",AGPL-3,136894,Defer Contract Lines to avoid invoicing while start date unknown
+2026-10-29T10:18:43Z,estrellio-weekly-report-processor,0.1.0,,MIT,38789,Structured Markdown weekly report processing and export
+2026-10-29T10:19:08Z,alarm-events-client,0.1.0,,,19356,Python client for the Equinor IOC IIOT Alarm and Events API
+2026-10-29T10:21:16Z,evo2-flash,0.1.1,"Garyk Brixi, Yukun Alex Hao",Apache-2.0,258483,Evo 2 / StripedHyena2 on vLLM: an out-of-tree plugin with a drop-in evo2.Evo2 API
+2026-10-29T10:22:39Z,sdd-parallel,0.1.0,stopActingSoSmall,MIT,204622,"SDD-agnostic multi-track parallel roadmap orchestrator, AST/CRG blast-radius solver, and Git worktree manager for AI coding agents"
+2026-10-29T10:24:14Z,pynvivo,0.2.0,Rangga Wahyu Pratama,,17341,Membaca dan Menafsirkan Isi Proyek NVivo dari Terminal dan Google Colab
+2026-10-29T10:25:38Z,langgraph-checkpoint-hyperspace,4.2.0,YARlabs <hi@yar.ink>,Apache-2.0,25895,Standalone LangGraph CheckpointSaver & Cross-Thread Store backed by HyperspaceDB CSR KAG Graph and Lorentz Hyperbolic Manifolds
+2026-10-29T10:26:13Z,react-manip,0.1.0,,PolyForm-Noncommercial-1.0.0,49176813,Development API for sampled manipulation instances and MuJoCo simulation
+2026-10-29T10:26:17Z,localstorage-py-local,1.0.0,- <-@example.com>,MIT,4372,Простая библиотека для имитации localStorage в Python с сохранением в JSON
+2026-10-29T10:26:18Z,gpstec,1.0.0,Dipanjan Banerjee,MIT,103591,"Calibrated GPS total electron content (TEC) from NovAtel GPStation-6 and other dual-frequency receivers, with elevation cut-off and publication-quality plots"
+2026-10-29T10:26:46Z,beets-pysacd,0.1.1,,GPL-2.0-or-later,54695,beets plugin: import SACD ISO images through pysacd
+2026-10-29T10:28:23Z,onepix-avenirphotonics-spectrometer,0.1.0,M. Ribes,# Creative Commons Attribution-NonCommercial 4.0 International Creative Commons Corporation (“Creat…,40860,"Avenir Photonics spectrometer plugin for ONE-PIX (Aris, Siena: ZioLink over USB)"
+2026-10-29T10:28:37Z,sagex-cli,1.0.0,Lagnajit Moharana,MIT,189009,"Autosage in your terminal: build, run and watch workflows, scripts, vaults and triggers from a TUI or one-shot commands."
+2026-10-29T10:29:02Z,pynumgeo,2026.2.0.dev2,Jan Machacek,BSD-3-Clause,1349245,"Python API for the finite element code numgeo: input decks, validation, runs and results"
+2026-10-29T10:34:27Z,symbolic-reasoning,0.7.0,"""Anterior, Inc."" <tech@anterior.com>",Apache-2.0,185373,"A Python library for structured reasoning over policies and knowledge to produce deterministic, auditable and explainable outcomes"
+2026-10-29T10:34:37Z,harnessed,0.1.0,mathisarends,MIT,299870,A composable Python agent SDK with reversible plugins and a durable session log.
+2026-10-29T10:35:05Z,seecr-stdlib,0.6.4,"Thijs Janssen <thijs@seecr.nl>, Johan Jonkers <johan@seecr.nl>",GPL-3.0-or-later,54087,Standard tools for seecr
+2026-10-29T10:35:57Z,steclust,1.0.1,Eric Beaucé <ebeauce@ldeo.columbia.edu>,GPL-3.0,1817597,Package for beamforming/backprojection.
+2026-10-29T10:36:10Z,cyxla-pjrt-cpu,0.12.0.1,Nardi Lam <mail@nardilam.nl>,Apache-2.0,226514013,"The XLA PJRT CPU plugin, packaged for cyxla"
+2026-10-29T10:36:34Z,aunties,0.1.0,Aunties Contributors,MIT,25681,A simple library for displaying AI and Cybersecurity practical source code
+2026-10-29T10:36:47Z,pet-adjusted,0.1.5,Ivan Cardenas,GPL-3.0-or-later,94178,PET (pythermalcomfort) with urban-adjusted air temperature and 1.2 m wind speed
+2026-10-29T10:37:12Z,tejtm,0.1.1,,,81893,Schema mapping with composite confidence for tabular imports
+2026-10-29T10:40:08Z,napari-launcher,0.1.0,Jesko Wagner <35219306+jeskowagner@users.noreply.github.com>,BSD-3-Clause,50394,"Start napari with a plugin's widgets docked, from the command line or a desktop shortcut"
+2026-10-29T10:40:33Z,ancre,0.0.1,Algorizen,,2131,"A process supervisor for long-running services: workers, shared sockets, deploys without dropped requests. This release reserves the name; Ancre is published here at its first public release."
+2026-10-29T10:40:33Z,mykitt,0.1.0,PT Aplikasi Naratifs Indonesia <corporate@naratifs.com>,MIT,12706,"Kitt's own library for Kitt Platform: Kitt 1 Mini, Kitt 1 and Kitt Auto from Python."
+2026-10-29T10:41:22Z,techiaith-speech-normalizer,0.2.0,"Uned Technolegau Iaith, Prifysgol Bangor / Language Technologies Unit, Bangor University",MIT,63722,Normalize Welsh speech transcriptions into standard written Welsh
+2026-10-29T10:41:50Z,vilopa,0.0.1,Hrithik,Apache-2.0,108938,"Execute and verify data-erasure and access requests across your databases, storage and SaaS tools. Self-hosted, DPDP-aware."
+2026-10-29T10:42:37Z,mixmogam,2.0.1,mixmogam contributors,MIT,590877,Super-efficient mixed linear models for genome-wide association mapping
+2026-10-29T10:42:41Z,romashka-sdk,0.0.13,YARlabs <hi@yar.ink>,Apache-2.0,37939,Official Python SDK for ROMASHKA SLM & VectorRAT Edge Engine
+2026-10-29T10:42:46Z,allelign,0.1.0,bvilhjal,MIT,249950,"Read, align and quality-control GWAS summary statistics and PGS weights"
+2026-10-29T10:43:04Z,unseenet-watchman,0.1.0,Andreas Lorensen,Apache-2.0,108325,Reads Unseenet's open groups and publishes spam reports (UN-RFC 0045) that readers and nodes may choose to follow
+2026-10-29T10:43:45Z,acellera-gufe,1.13.1,The OpenFE developers <openfe@omsf.io>,MIT,2242856,
+2026-10-29T10:43:58Z,acellera-konnektor,0.5.0,"Alyssa Travitz <alyssa.travitz@omsf.io>, Benjamin Ries <benjamin-ries@outlook.com>, David Swenson <…",MIT,15204712,Konnektor is a package for calculating networks.
+2026-10-29T10:44:21Z,acellera-kartograf,2.0.0,The OpenFE developers <openfe@omsf.io>,MIT,6823773,Kartograf is a package for geometrically mapping atoms of two molecules.
+2026-10-29T10:44:30Z,acellera-lomap2,3.3.0,Gaetano Calabro and David Mobley,MIT,183416,Lead Optimization Mapper 2
+2026-10-29T10:45:14Z,pcoras,1.0.0,"Miguel Martinez <mmartinezguerrero@eurac.edu>, Piero Campalani <pcampalani@eurac.edu>, Alexander Ja…",MIT,59432,Package for Cloud-Optimized Raster and Spatio-temporal data
+2026-10-29T10:45:39Z,pylanis,0.2.0,Daniel Schroeder <deemes79@googlemail.com>,MIT,46231,"MCP server for Schulportal Hessen (Lanis), with SDK and CLI to follow"
+2026-10-29T10:47:14Z,cyxla,0.1.0,Nardi Lam <mail@nardilam.nl>,,2644835,A bridge from JAX to native code through the PJRT C API
+2026-10-29T10:48:36Z,llama-index-selectors-nace,0.1.0,Nace AI <hello@nace.ai>,MIT,32759,LlamaIndex selectors backed by Drex decision models from Nace
+2026-10-29T10:53:36Z,smd-engine,0.3.7,viberesearch,MIT AND CC-BY-4.0,600354,"Records, checks and renderings for SMD-style thinking sessions (three boards, cycles, qualifications)"
+2026-10-29T10:55:11Z,mergecraft-action,0.1.0a4,Alex Hawat,MIT,5342954,Standalone BYOK GitHub Action for AI-powered PR review (mergeCraft)
+2026-10-29T10:56:32Z,angelo-mut,0.3.1,Kieran van der Heijde,,31654429,Fast mutation testing for Python: one Rust binary that drives an ordinary pytest suite
+2026-10-29T10:58:51Z,seecr-testtools,0.4.2,"Thijs Janssen <thijs@seecr.nl>, Johan Jonkers <johan@seecr.nl>",GPL-3.0-or-later,42955,Test tools for seecr
+2026-10-29T10:59:01Z,w6n,0.1.0,w6n,MIT,23541,ARM64 (AArch64) ELF analiz ve roundtrip dogrulama araci
+2026-10-29T11:03:14Z,qso-graph-lib,0.1.0,KI7MT <maintainers@qso-graph.io>,GPL-3.0-or-later,82365,"The code QSO Graph's Python packages share: WSJT-X's UDP protocol for the JT family, and more as it is shared"
+2026-10-29T11:04:01Z,NextPyper,0.1.0,"Simón Villanueva Corrales <simon.corrales@ibot.cas.cz>, ""Yann J.K. Bertrand"" <Yann.Bertrand@ibot.ca…",MIT,236259,Recovery of homoeologous loci from target capture data in higher ploidy samples
+2026-10-29T11:04:40Z,fullmag,0.1.0rc1,Mateusz Zelent,GPL-3.0-or-later,2361897,Python DSL and API client for the Fullmag FDM/FEM micromagnetics platform.
+2026-10-29T11:09:47Z,westlake-survival,2026.10.29,westlake_survival contributors,PolyForm Noncommercial License 1.0.0 https://polyformproject.org/licenses/noncommercial/1.0.0 Requi…,1529228,API-level access to Westlake University services — 在 API 层面调用西湖大学各服务系统
+2026-10-29T11:12:26Z,crhelp,1.0.0,,MIT,23378,"Cognitive Robotics Helper - Quick access to lab code snippets for Raspberry Pi, Arduino, ROS 2, and TurtleBot."
+2026-10-29T11:13:27Z,nac-cli,0.1.0,Daniel Schmidt <danischm@cisco.com>,MPL-2.0,155048,"An umbrella CLI wrapping terraform/tofu, nac-validate, and nac-test for Network-as-Code workflows."
+2026-10-29T11:14:45Z,llama-index-evaluation-nace,0.1.0,Nace AI <hello@nace.ai>,MIT,37332,LlamaIndex evaluators backed by Drex decision models from Nace
+2026-10-29T11:17:46Z,dsh-game-core,0.0.1,nobu2333,MIT,29411,Local capture + OCR engine for the dsh-game-bridge plugin: gives a DSH agent real game eyes.
