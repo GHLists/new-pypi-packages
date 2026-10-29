@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T05:29:54Z,blazar-video-gpl,0.1.2,,GPL-3.0-or-later,7765577,"Model-aware video encoding for generated video: zero-copy GPU ingest, per-model calibrations, and one submit for host or device frames"
+2026-10-29T06:24:49Z,adrlint,0.2.1,Na'aman Hirschfeld <nhirschfeld@gmail.com>,MIT,12069,"A fast, opinionated linter and formatter for MADR architecture decision records"
+2026-10-29T06:28:11Z,superrelay,0.0.1,SuperRelay <support@superrelay.io>,MIT,1736,SuperRelay. Placeholder release; the real package is coming.
+2026-10-29T06:28:51Z,dongduni-agent-hub,0.2.1,John Shin,MIT,224776,"A control tower and phone-friendly review board for teams of AI coding agents (OpenCode, Claude Code, Codex)."
+2026-10-29T06:29:55Z,algobank,1.0.2,Noorul Ali <manonthemoon13131@gmail.com>,,1879777,algobank computes changes between two versions of Python packages and what scopes each has
+2026-10-29T06:35:57Z,tba-primitives-identity,0.4.0.dev2,,Apache-2.0,42507,"Dependency-light identity primitives, typed helpers, path safety, and RFC 8785 JSON canonicalization for TBA identity systems."
+2026-10-29T06:42:51Z,tba-storage-access-governance,0.4.0.dev2,,Apache-2.0,12696,Owned access-governance identity database tables and migrations.
+2026-10-29T06:45:36Z,push2tok,0.1.0,Yotaro KUBO,MIT,3546563,Streaming byte-to-token transduction with deterministic finite-state transducers
+2026-10-29T06:47:10Z,taskiq-llm-queue,0.1.0a1,The taskiq-llm-queue authors,MIT,345359,"An LLM request client with its own durable queue: taskiq + Amazon SQS, adaptive limits, retry and fallback."
+2026-10-29T06:47:15Z,stefano-ntgcalls,3.0.5,Lauren Iraci <iraci.lauren@gmail.com>,,165936827,A Native Implementation of Telegram Calls in a seamless way.
+2026-10-29T06:52:39Z,ragscene,0.0.0,Firu Daniel,Apache-2.0,2243,"Placeholder: name reserved for RagScene, a docs-retrieval (RAG) product. No functionality yet."
+2026-10-29T06:54:41Z,song2mv,0.1.0,song2mv contributors,MIT,1055907,"Song in, beat-synced lyric timing (LRC, SRT, JSON) and a code-drawn music video out. Built for coding agents like Claude Code and Codex."
+2026-10-29T06:55:15Z,graphscene,0.0.0,Firu Daniel,Apache-2.0,2254,"Placeholder: name reserved for GraphScene, a graph-navigation product. No functionality yet."
+2026-10-29T06:55:27Z,gepbook,0.1.0,,,77493,Healthcare ML lab experiments (Exp 1-12) bundled as ready-to-run scripts
+2026-10-29T06:56:30Z,tennis-evolution,0.2.0,tennis-evolution contributors,MIT,245095,Turn a long tennis recording into label-burned highlight reels: highlight list -> keyframe-accurate lossless cuts -> sync-correct reel -> corner labels -> self check.
+2026-10-29T06:57:24Z,safe-agent-mcp,0.1.0,Nao,MIT,14634,"Free read-only MCP server: audit API-key privileges, check idempotency patterns, explain AI-agent guard patterns."
+2026-10-29T07:02:31Z,quady3d,0.1.2,Quady3D AI <support@quady3d.com>,MIT,15057,"Official Python client for Quady3D asset generation, task recovery and downloads"
+2026-10-29T07:06:12Z,pysacd,0.2.0,,GPL-2.0-or-later,1990469,SACD (Scarletbook) ISO reader and DSF/FLAC converter
+2026-10-29T07:07:32Z,RedFoxiq,0.1.0,,,2799,وصف قصير لمكتبتك
+2026-10-29T07:09:46Z,mcpsurfr,1.2.2,Nikhil Kapila <info@nkapila.me>,MIT,42092525,"MCP ""server"" that can perform a web search locally without the use of APIs."
+2026-10-29T07:10:21Z,flipzi,0.1.0,Flipzi <hello@flipzi.io>,MIT,159737,"Official Python client for the Flipzi Data API: trading card prices, eBay sold comps, Cardmarket conditions, price history and market movers for Pokémon, Magic, Yu-Gi-Oh!, One Piece, Lorcana and more."
+2026-10-29T07:11:27Z,jupyterlab-file-browser-column-width-fix,0.6.3,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,283601,Keeps the JupyterLab file browser column widths valid when the cached panel width is stale
+2026-10-29T07:11:55Z,vaquill,0.1.0a1,Vaquill,MIT,362331,Python SDK for the Vaquill US primary law Data API.
+2026-10-29T07:16:11Z,moleditpy-job-manager,3.3.4,Hiromichi Yokoyama,LGPL-3.0-or-later,1164899,"Submit, monitor and collect computational chemistry jobs over SSH, on schedulers, locally or through a Job Server. Runs standalone or as a MoleditPy plugin."
+2026-10-29T07:19:25Z,evoxc,0.1.0,The EvoX Authors,Apache-2.0,2685006,"EvoX Compiler — a minimal, explicit, compiler-neutral tensor graph compiler and runtime"
+2026-10-29T07:20:09Z,deepemail-io,0.0.1,,MIT,1705,DeepEmail placeholder. https://deepemail.io
