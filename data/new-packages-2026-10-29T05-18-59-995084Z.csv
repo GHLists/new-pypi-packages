@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T04:21:48Z,the-cartographer,0.1.0,,Apache-2.0 AND MIT AND CC-BY-SA-4.0 AND Unlicense,14217938,"Ask which agent skills fit a task before you start it: one cached model call over the whole skill catalogue, with a checked answer. Find and vet the ones you lack on skills.sh."
+2026-10-29T04:24:42Z,D-Difficulty,0.1.0,Anónimo <nadie@example.com>,MIT,8677,D — Difficulty. Una librería EXTREMADAMENTE difícil. Sin docs. Sin piedad.
+2026-10-29T04:25:35Z,tracerlab,0.1.6,Atharv Santosh <atharvsantosh1@gmail.com>,MIT,319408,"MCP server for Cisco Packet Tracer 9. Build, configure and verify networks from an AI agent."
+2026-10-29T04:26:15Z,codelaw-rules-react-fux-index,0.2.0,,MIT,49987,"A Fux index of codelaw's react rules, for fux_search. Optional; install beside codelaw-rules-react."
+2026-10-29T04:26:17Z,codelaw-rules-scss-fux-index,0.2.0,,MIT,36272,"A Fux index of codelaw's scss rules, for fux_search. Optional; install beside codelaw-rules-scss."
+2026-10-29T04:26:19Z,codelaw-rules-python-fux-index,0.2.0,,MIT,135293,"A Fux index of codelaw's python rules, for fux_search. Optional; install beside codelaw-rules-python."
+2026-10-29T04:29:37Z,algovoi-otel-genai,0.4.0,AlgoVoi <chopmob@gmail.com>,Apache-2.0,18075,"Map an AlgoVoi keystone decision to OpenTelemetry gen_ai.agent.* attributes, carrying execution_ref as an open recomputable cross-producer key (Apache-2.0)"
+2026-10-29T04:30:14Z,blochtwin,0.3.1,Hoonjae Lee <dev@newmean.ai>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ Copyright 2026 Hoonjae Lee…",128615,"Physics-faithful, GPU-accelerated open-source MRI scanner simulator (digital twin) for synthetic ML training data and scanner-operation teaching."
+2026-10-29T04:31:13Z,auspex3d,0.1.0,Md. Sohanur Islam Shuvo,AUSPEX3D END-USER LICENSE AGREEMENT (EULA) Copyright (c) 2026 Md. Sohanur Islam Shuvo (github.com/s…,29820396,"3D object detection for LiDAR point clouds (and optional cameras), trained on your own data"
+2026-10-29T04:36:31Z,blazar-video,0.1.0,,Apache-2.0,12117922,"Model-aware video encoding for generated video: zero-copy GPU ingest, per-model calibrations, and one submit for host or device frames"
+2026-10-29T04:40:44Z,dwy-notify,0.1.0,,,10171,基于 Apprise 的独立多目标通知与安全发送边界
+2026-10-29T04:41:52Z,dataranger,0.0.1,Akshay Sharma <akshay.sharma1088@gmail.com>,MIT,7538,"An agent that patrols your data, fixes what it can prove, and calls you for the rest."
+2026-10-29T04:43:29Z,python-wrap,0.2.1,Mahmoud Ahmed <pythondeveloper6@gmail.com>,MIT,380971,"Everyday Python decorators that just work: retry, memoize, timeout, rate limiting, circuit breakers and more. Typed, async-aware, zero dependencies."
+2026-10-29T04:46:31Z,netease-mail-mcp-server,0.1.0,冯夏影 <fengxypsy@163.com>,MIT,205383,"MCP server for NetEase personal mail (163 / 126 / yeah.net / 188): search, read, draft, and send with human confirmation."
+2026-10-29T04:46:48Z,tokless,0.0.1,Karthick Raja M <Karthickrajam18@gmail.com>,MIT,5419,Lossless token compression for OKF knowledge and agent skills.
+2026-10-29T04:47:36Z,maplpw,0.1.0,,MIT,13132704,MAP LPW practicals: copies practical files into the current directory
+2026-10-29T04:48:08Z,icebath-cli,1.0.7,Nicholas W. Heyer <nick@heyer.app>,MIT,49970036,Tiling agentic harness and netrunner toolkit
+2026-10-29T04:49:52Z,picadolabs-agentbench,1.0.0,PicadoLabs <picadolabs@gmail.com>,Apache-2.0,129540,Provider-agnostic evaluation and benchmarking platform for autonomous AI coding agents
+2026-10-29T04:52:24Z,xarrayrf,0.0.1.dev0,Matthias Schabel,MIT,553347,Experimental reference-frame support for xarray
+2026-10-29T04:53:32Z,agentbench-core,1.0.0,PicadoLabs <picadolabs@gmail.com>,Apache-2.0,123153,Provider-agnostic evaluation and benchmarking platform for autonomous AI coding agents
+2026-10-29T05:00:04Z,pqblocks-fips-check,0.1.0,The PQBlocks Authors,Apache-2.0,46718,FIPS 203/204 boundary validator and hybrid key exchange (X25519 + ML-KEM-768) with ML-DSA-65 signatures and CBOM reporting.
+2026-10-29T05:00:09Z,pqblocks-jose,0.1.0,The PQBlocks Authors,Apache-2.0,119895,Post-quantum hybrid JOSE library supporting ML-KEM and ML-DSA JWE and JWS tokens.
+2026-10-29T05:00:13Z,pqblocks-jwe,0.1.0,The PQBlocks Authors,Apache-2.0,22809,"Compact five-part wire format, with a serializer and structural parser, for hybrid ML-KEM-768 + X25519 JWE-style tokens; it performs no encryption itself."
+2026-10-29T05:00:17Z,pqblocks-jwe-audit,0.1.0,The PQBlocks Authors,Apache-2.0,23383,High-throughput JSON Web Encryption (JWE) cryptographic policy auditor enforcing CNSA 2.0 and NIST FIPS 203 PQC standards.
+2026-10-29T05:03:34Z,toolseed,0.5.0,,,414753,ToolSeed: reusable agent procedures with a local MCP server
+2026-10-29T05:03:47Z,logit-stream,0.1.0,Lee Tucker,MIT,311273,"Out-of-core logit models by streamed Newton: binary, multinomial, ordered and conditional logit, with absorbed fixed effects"
+2026-10-29T05:04:43Z,codelaw-rules-scss,0.3.0,,MIT,27979,"codelaw's rules for SCSS (Sass), ported from stylelint-scss, with Dart Sass's module-system migrations (SR-RULE-PACKS)"
+2026-10-29T05:07:50Z,php-archangel-mcp,1.0.0,Godwin Tarbo,MIT,132139,"Precision-first PHP vulnerability scanner for php2shell (CVE-2026-109618/109619). Zero false positives by design, verified by a deterministic OOM Oracle."
+2026-10-29T05:11:27Z,codelaw-skills,0.3.0,,MIT,36506,"codelaw's agent files — skills, steering, instructions, hooks, MCP registration — for the codelaw of the same version"
+2026-10-29T05:12:44Z,tg-cleaner,0.1.0,hillelGonen,MIT,59763,"Clean up your Telegram from the terminal: leave dead chats, quiet unread channels, sort into folders."
+2026-10-29T05:16:03Z,hardly,1.0.0,Justin Capella <4584655+b1tninja@users.noreply.github.com>,MPL-2.0,1202078,"HAR analysis MCP/CLI — archive, headless, or interactive modes to index and query captures without burning tokens on raw files"
+2026-10-29T05:16:16Z,codelaw-rules-security-js,0.3.0,,MIT,128135,"codelaw's security rules for JavaScript and JSX, and the TypeScript that runs them: CWE and OWASP Top 10:2025 mapped (SR-RULE-PACKS)"
+2026-10-29T05:16:34Z,mumax2csv,0.1,Samarthya Lykamanuella <lykamanuella@outlook.com>,MIT,13884,Converts a micromagnetic data table file generated by Mumax3 simulations into a CSV data file for better compatibility with modern applications
+2026-10-29T05:17:13Z,cascade-guard-ai,1.0.0,Kanav Mishra,MIT,251717,"Stop errors from cascading through chains of AI agents: check every hand-off, repair with the reason, stop safely."
