@@ -1,20 +1,12 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-10-29T07:21:56.798921Z",
-    "path": "data/new-packages-2026-10-29T08-19-06-688118Z.csv",
-    "to": "2026-10-29T08:19:06.688118Z"
+    "count": 33,
+    "from": "2026-10-29T08:19:06.688118Z",
+    "path": "data/new-packages-2026-10-29T09-19-05-59378Z.csv",
+    "to": "2026-10-29T09:19:05.59378Z"
   },
-  "pending": [
-    {
-      "attempts": 2,
-      "created_at": "2026-10-29T07:01:31Z",
-      "package": "delta-arrow-reader-py",
-      "since": "2026-10-29T06:20:48.101032Z",
-      "version": null
-    }
-  ],
-  "serial": 42904749,
+  "pending": [],
+  "serial": 42906878,
   "source_truncated": false,
-  "window": "2026-10-29T08:19:06.688118Z"
+  "window": "2026-10-29T09:19:05.59378Z"
 }
