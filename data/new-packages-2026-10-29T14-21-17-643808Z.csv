@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T13:20:23Z,simplibs-text,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,167051,"Small, safe steps that turn one text into another: remove, keep, replace and decorate parts of it, clean its characters and convert between naming styles — as plain functions and as pipeline actions."
+2026-10-29T13:22:49Z,emdb-schemas,3.0.11.13,sanja,Apache-2.0,712206,EMDB schema files
+2026-10-29T13:23:17Z,aws-cats,1.0.0,Amazon Web Services <dvdcon@amazon.co.uk>,Apache-2.0,826560,"Control Acceptance Testing Suite: test AWS controls, network paths, and account behavior across many accounts with pytest and ephemeral test infrastructure."
+2026-10-29T13:24:39Z,rf-mems-mesh-sim,1.0.0,Abhishek Singh <abhishek1033@gmail.com>,,23020,Simulation suite for 6 GHz Rogers RO4350B CPWG traces and Menlo Micro RF-MEMS cold-switching dynamics.
+2026-10-29T13:24:40Z,runsignal,0.2.0,Gokhan Ertogan,MIT,38082,"Cron job and background job monitoring for Python with OpenTelemetry: alert when a Celery task, APScheduler job or cron script is missed, fails, overruns, stalls or processes nothing, in New Relic, P…"
+2026-10-29T13:29:41Z,opennomos-pm-gateway,0.1.0a1,OpenNomos contributors,Apache-2.0,241758,Vendor-neutral project-management interoperability SDK and optional HTTP gateway
+2026-10-29T13:32:29Z,omero-microscope-qc,1.1.0,"James Grimshaw <james.grimshaw@ncl.ac.uk>, Nick Bailey <nick.bailey2@ncl.ac.uk>, George Merces <geo…",GPL-3.0-or-later,103101,Used for running batch processing of microscope Quality Control images using MetroloJ and Omero
+2026-10-29T13:37:22Z,os-optics,0.10.0,OpenSci,LicenseRef-OpenSci-Engine,3503628,"OS Optics (OpenSci): the local optical design engine. Public optical catalog, multi-element optical Projects, deterministic offline simulation, Local Validation and a 3D Optical Simulation View."
+2026-10-29T13:38:14Z,sargely,0.0.1,Claudiu Mihaes,Apache-2.0,5745,CI regression gate for MySQL query plans and migrations (placeholder; first release early 2027).
+2026-10-29T13:38:36Z,contrastset,0.1.0,Thomas Misera,MIT,139728,Build and check contrast sets (matched stimulus pairs) for interpretability experiments on local LLMs.
+2026-10-29T13:39:06Z,frytrader,0.1.1,Fryt1,MIT,244576,中国券商 GUI 交易适配器，支持同花顺远航版后台只读模式。
+2026-10-29T13:39:21Z,keygeom,0.1.0,readwithai,MIT,25544,"A format for describing the physical key layout of keyboards, numpads and macropads, with a validator and a recorder"
+2026-10-29T13:40:20Z,robotmoney,0.1.0b1,,Apache-2.0,176660,Open an agent account and ask before spending with RobotMoney.
+2026-10-29T13:40:27Z,dtc_super_resolution,0.1.0,Stef Lhermitte,MIT,55751,A DTC-IS module that leverages super-resolution modeling techniques to enhance the monitoring and prediction of surface climate conditions over Greenland and Antarctica.
+2026-10-29T13:40:40Z,gdamms-tuimux,0.2.0,gdamms,MIT,14375,A lazydocker-like terminal UI to manage tmux sessions.
+2026-10-29T13:43:34Z,swl,5.0.0,"Thijs Janssen <thijs@seecr.nl>, Johan Jonkers <johan@seecr.nl>",MIT,215490,Seecr Web Lib makes developing webbased apps easier
+2026-10-29T13:43:35Z,smartposti-tracker,0.1.0,kuttim,MIT,28404,Unofficial Python client and CLI for tracking SmartPosti / Posti parcels and watching for new events.
+2026-10-29T13:46:34Z,vial-hud,0.1.0,Vial HUD Contributors,MIT,163900,Translucent always-on-top Vial split keyboard layout & layer HUD overlay for Fedora KDE Plasma 6 (Wayland)
+2026-10-29T13:51:40Z,wyoming-alkove,0.1.0,Eddy Bordi,Apache-2.0,21054,"Wyoming server for Alkove's Spot: typed wake words for Home Assistant, in 7 languages, with no training"
+2026-10-29T13:51:43Z,cigar-break,0.1.0,Mohamed Youssef,MIT,95811,"Detects when a coding agent's session is degrading, gets a structured handoff, and restores it after a context reset."
+2026-10-29T13:51:49Z,alkove-esphome,0.1.0,Eddy Bordi,Apache-2.0,18299,"Typed wake words for Alkove's ESPHome component: compiles a word for alkove_spot, where ESPHome runs or as YAML to paste"
+2026-10-29T13:53:31Z,tok-lang,1.0.1,Marek Deja,GPL-3.0-or-later,14086252,"tok: a plain-text language for process models (BPMN 2.0, DMN, forms, simulation)"
+2026-10-29T13:54:50Z,habemus-papadum-ship,0.2.0,Nehal Patel <nehal@alum.mit.edu>,"MIT License Copyright (c) 2026 Nehal Patel Permission is hereby granted, free of charge, to any per…",64162,"Release packages and refresh dependencies across uv and pnpm workspaces: one version per package, the tag is the truth, a +dev marker between releases."
+2026-10-29T13:54:59Z,skillcard,0.1.0,,MIT,41361,Generate a beautiful quality score card and badge for your Agent Skill (SKILL.md)
+2026-10-29T13:55:51Z,university-opportunities,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,42443,"University Opportunities: Jobs, internships, gigs, scholarships and volunteering for students, with applications and scam protection."
+2026-10-29T14:01:08Z,university-messaging,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,36312,"University Messaging: Direct and group messaging with message requests, read receipts and encryption at rest."
+2026-10-29T14:01:40Z,groon-aios,0.1.1,GROON,LicenseRef-Proprietary,43883752,The AIOS agent in your terminal
+2026-10-29T14:01:54Z,tsp-fast-solver-codingwizard34,0.1.0,CodingWizard34 <developer@example.com>,,198972,A blazing fast C++ TSP solver wrapped in Cython
+2026-10-29T14:02:54Z,jupyterlab-core-patches-extension,0.9.7,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,746636,"One JupyterLab extension carrying ten upstream core patches, each switchable from Settings"
+2026-10-29T14:03:33Z,django-offline-auth,0.1.0,John Dembaremba <johndembaremba97@gmail.com>,MIT,37985,Reusable offline authentication support for Django applications.
+2026-10-29T14:03:50Z,qwx,0.1.1,KanoCifer,MIT,235137,和风天气（QWeather）开发服务的 Python 客户端
+2026-10-29T14:03:58Z,openfll-python,0.2.0,SPARS-TUSUR,MIT,1342707,Python bindings for OpenFLL fuzzy logic library
+2026-10-29T14:04:03Z,termchat-client,0.1.0,TermChat Team <info@termchat.dev>,MIT,27779,"Lightweight, non-intrusive terminal chat client connecting to an online chat server with real-time text and image support."
+2026-10-29T14:05:05Z,simplyworks-bitween,10.0.121,Simplify9,MIT,10294,"The Bitween adapter contract for Python: handlers, mappers, validators and receivers."
+2026-10-29T14:07:34Z,university-promotions,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,38708,"University Promotions: Sponsored posts, boosts and ads with review, budgets and privacy-preserving delivery stats."
+2026-10-29T14:08:07Z,sillyvis,0.1.1,Small Ai <3910271726@qq.com>,,7312,Sorting algorithm visualizer powered by matplotlib animations
+2026-10-29T14:08:29Z,rpyxl,0.1.1,RPyXL Contributors,MIT OR Apache-2.0,3952559,"A high-performance, Rust-powered alternative to openpyxl"
+2026-10-29T14:08:46Z,axmem,0.6.0rc1,Giovanni Manzoni <dev@giovannimanzoni.com>,AGPL-3.0-only AND MIT,469630,"MCP Server for AI Agent Memory - persistent, semantically-searchable memory for AI agents"
+2026-10-29T14:09:40Z,pricezaim-sdk,0.1.0,horatiiwork-design <horatiiwork-design@users.noreply.github.com>,MIT,52299,Python client for the pricezaim public API
+2026-10-29T14:10:10Z,banksonsale-data,0.1.0,BanksOnSale,MIT AND CC-BY-4.0,73184,"BanksOnSale Data: source-linked U.S. bank financial panels for research, classes, and applications."
+2026-10-29T14:10:19Z,p-ai.token,0.1.0,,,11209,Experimental AI request plugin for Thonny
+2026-10-29T14:10:51Z,nestor-home,0.0.1,Mathis Lambert,MIT,7278,"Open-source framework for intelligent home assistants: fast voice agent, Home Assistant, memory, delegation, initiative and pluggable embodiment."
+2026-10-29T14:12:35Z,reversecontact,0.1.0,Reverse Contact <support@reversecontact.com>,Apache-2.0,167754,Official Python SDK for the Reverse Contact API
+2026-10-29T14:13:28Z,university-subscriptions,0.1.0,Ifeanyi Stanley <nnamaniifeanyi10@gmail.com>,MIT,29687,"University Subscriptions: Premium plans, paid periods and entitlements other modules can check."
+2026-10-29T14:15:36Z,thrubase,0.1.0a1,regx64,AGPL-3.0-only,2430268,Climb a codebase: a terrain map of a Python repository and guided reading trails with comprehension checkpoints.
+2026-10-29T14:17:05Z,skl-core,1.0.0,SKL Developers,MIT,29186,"Standard Knowledge & Algorithm Library: search, CSP, game theory, heuristics, and utilities."
