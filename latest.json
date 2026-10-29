@@ -1,48 +1,27 @@
 {
   "list": {
-    "count": 42,
-    "from": "2026-10-29T14:21:17.643808Z",
-    "path": "data/new-packages-2026-10-29T15-18-54-865075Z.csv",
-    "to": "2026-10-29T15:18:54.865075Z"
+    "count": 65,
+    "from": "2026-10-29T15:18:54.865075Z",
+    "path": "data/new-packages-2026-10-29T16-20-50-081239Z.csv",
+    "to": "2026-10-29T16:20:50.081239Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-29T12:02:03Z",
-      "package": "apexnet",
-      "since": "2026-10-29T11:19:16.264994Z",
+      "attempts": 1,
+      "created_at": "2026-10-29T15:53:33Z",
+      "package": "atleantes-cpd",
+      "since": "2026-10-29T15:18:54.865075Z",
       "version": null
     },
     {
-      "attempts": 1,
-      "created_at": "2026-10-29T15:17:54Z",
-      "package": "ci-guard-check",
-      "since": "2026-10-29T14:21:17.643808Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-10-29T12:03:49Z",
-      "package": "my-text-library-unique123",
-      "since": "2026-10-29T11:19:16.264994Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-29T15:18:35Z",
-      "package": "parse-everything",
-      "since": "2026-10-29T14:21:17.643808Z",
-      "version": "1.0.0"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-29T13:58:18Z",
       "package": "pelagos",
       "since": "2026-10-29T13:18:55.615975Z",
       "version": null
     }
   ],
-  "serial": 42921296,
+  "serial": 42924112,
   "source_truncated": false,
-  "window": "2026-10-29T15:18:54.865075Z"
+  "window": "2026-10-29T16:20:50.081239Z"
 }

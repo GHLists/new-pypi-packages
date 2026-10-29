@@ -1,0 +1,66 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T15:17:54Z,ci-guard-check,0.5.0,,MIT,66428,Guard CI from wasted minutes by classifying failures and maintaining a per-repo flaky-test ledger.
+2026-10-29T15:18:35Z,parse-everything,1.0.0,Parse Everything,MIT,9387,"Official Python SDK for Parse Everything — Bypass Cloudflare Turnstile, Akamai & DataDome with TLS JA3/JA4 impersonation."
+2026-10-29T15:19:11Z,riftroute,0.0.1,Teddy Kipchirchir <81567186+Teddy-Gitcode@users.noreply.github.com>,,7971536,Add your description here
+2026-10-29T15:26:26Z,configobjectify,0.1.0,Sandeep Suryaprasad,MIT,9638,A lightweight Python library for converting Configuration Files into Python Objects.
+2026-10-29T15:27:06Z,overture-matchers,0.0.1,Overture Maps Foundation,MIT,9183,"Python matchers for conflating Overture Maps data: places, divisions, and addresses."
+2026-10-29T15:29:29Z,rais-datasources,0.0.dev0,,,974,Name reserved by Cornell RAIS for an internal package. Not installable.
+2026-10-29T15:29:31Z,rais-box-client,0.0.dev0,,,991,Name reserved by Cornell RAIS for an internal package. Not installable.
+2026-10-29T15:29:32Z,rais-etl-framework,0.0.dev0,,,994,Name reserved by Cornell RAIS for an internal package. Not installable.
+2026-10-29T15:29:42Z,snakemake-logger-plugin-spectio,0.0.0,,MIT,5154,Snakemake logger plugin that writes run events as JSON lines for Spectio (early release)
+2026-10-29T15:38:41Z,survey-structure,2.1.0,Romel Calero Ramos <rcalero@gmail.com>,MIT,95650,Python port of the survey-structure contract: validation of SurveyStructure 2.0.0 documents with diagnostics identical to the TypeScript package.
+2026-10-29T15:39:45Z,mohtawaist,1.0.0,MohtaWaist,MIT,6031,"Arabic Content Intelligence API client — quality, keyword density, readability and heading structure in one call."
+2026-10-29T15:40:24Z,survey-data-dictionary,2.1.0,Romel Calero Ramos <rcalero@gmail.com>,MIT,33140,Python port of survey-data-dictionary: data dictionaries in JSON and CSV and translation of response datasets from SurveyStructure.
+2026-10-29T15:40:32Z,xpict.py,0.1.0,Marcuth,MIT,43906,Xpict is a library for generating standardized images from declarative templates (built on Pillow).
+2026-10-29T15:41:01Z,limesurvey-connector,0.1.0,Romel Calero Ramos <rcalero@gmail.com>,MIT,175284,"LimeSurvey RemoteControl 2 client, SurveyStructure contract, data dictionaries and response translation, with an optional REST service."
+2026-10-29T15:43:14Z,radar-reposi,0.1.0,,,3360,
+2026-10-29T15:43:17Z,appmecca-meerkat,0.1.0,AppMecca,MIT,22504,"AppMecca Meerkat: error monitoring for Python apps, a thin wrapper around sentry-sdk with AppMecca defaults."
+2026-10-29T15:44:08Z,pkmodel-marks,0.1.0,"Matthew Peters, Adam Michaels, Reefe Conley, Katie Barton, Saja Isabella Ilott",MIT,26386,Group Python Project for Pharmacokinetics
+2026-10-29T15:44:13Z,odoo14-addon-project-analytic-code,14.0.1.0.1.dev1,"Pierre Verkest, Odoo Community Association (OCA)",AGPL-3,24256,Search projects by analytic account code.
+2026-10-29T15:44:32Z,ginkgo-workflow,0.4.0,,Apache-2.0,1024364,"A dynamic, reproducible workflow orchestrator for scientific and data workflows"
+2026-10-29T15:44:33Z,ginkgo-notebook,0.4.0,,Apache-2.0,18633,marimo notebooks as ginkgo tasks
+2026-10-29T15:44:33Z,ginkgo-pixi,0.4.0,,Apache-2.0,38743,"Pixi environments for ginkgo tasks, and the ginkgo env command"
+2026-10-29T15:44:38Z,migsafe-pg,0.1.2,mgkvibez,MIT,19932,Flag the PostgreSQL migration that would lock your users table before it ships.
+2026-10-29T15:44:41Z,ci-whisper,0.1.2,mgkvibez,MIT,19861,"Read a failed CI log and get the first real error, its causal chain, and a fix."
+2026-10-29T15:44:44Z,depdrift,0.1.2,mgkvibez,MIT,18877,"Review what actually changed between two lockfiles, and what is risky about it."
+2026-10-29T15:45:33Z,fastapi-a2a,1.0.1,,MIT,96287,Make any FastAPI application A2A-capable — expose and consume agents
+2026-10-29T15:45:46Z,xippios-mcp,0.1.0,XIPPIOS GmbH,Apache-2.0,56149,The self-hosted MCP host for the xippios SDKs
+2026-10-29T15:46:08Z,radar-repo,0.1.0,,,3335,
+2026-10-29T15:47:53Z,acbr-printer-python,0.1.0,,LGPL-2.1-or-later,75520,"Impressão ESC/POS, FortesReport e DANFE para Python com ACBr Free Pascal/Lazarus"
+2026-10-29T15:49:00Z,ginkgo-aws,0.4.0,,Apache-2.0,7580,AWS integrations for ginkgo: the s3:// object store and mountpoint-s3 driver
+2026-10-29T15:49:00Z,ginkgo-gcp,0.4.0,,Apache-2.0,17627,"Google Cloud integrations for ginkgo: the gs:// object store, gcsfuse driver and GCP Batch executor"
+2026-10-29T15:49:01Z,ginkgo-k8s,0.4.0,,Apache-2.0,19811,Kubernetes executor for ginkgo: run tasks as batch/v1 Jobs
+2026-10-29T15:49:55Z,graph-runtime-sci,0.2.0,Hongliang Xin,MIT,765706,"GRAPH (Graph Runtime for Analysis, Provenance, Hypotheses): reusable graph algorithms for scientific software."
+2026-10-29T15:51:00Z,arc56-generated-icanb-2f233d5d,1.3.2026072109,IcanBENCHurCAT,,280557,Generated ARC-56 Algorand smart-contract clients for IcanBENCHurCAT/algo-bounty.
+2026-10-29T15:52:05Z,arc56-generated-irfan-d162f2f0,1.2.2026072010,IrfanChairurrachman,,22952,Generated ARC-56 Algorand smart-contract clients for IrfanChairurrachman/RantaiAdil.
+2026-10-29T15:52:21Z,bcm-agent-runtime,0.0.0a0,NVIDIA,,1047,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-29T15:52:24Z,bcm-alerts,0.0.0a0,NVIDIA,,992,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-29T15:52:28Z,bcm-nvbugs-scrubber,0.0.0a0,NVIDIA,,1061,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-29T15:52:31Z,bcm-secrets-stubs,0.0.0a0,NVIDIA,,1046,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-29T15:53:09Z,arc56-generated-irion-893f9459,1.2.2026072010,Irion-Network,,11968,Generated ARC-56 Algorand smart-contract clients for Irion-Network/irion-contracts.
+2026-10-29T15:53:20Z,ginkgo-report,0.4.0,,Apache-2.0,270390,Static HTML run reports for ginkgo: the ginkgo report command
+2026-10-29T15:53:22Z,ginkgo-slack,0.4.0,,Apache-2.0,19888,Slack run notifications for ginkgo
+2026-10-29T15:53:23Z,ginkgo-oci,0.4.0,,Apache-2.0,11186,Oracle Cloud integrations for ginkgo: the oci:// object store and rclone driver
+2026-10-29T15:54:07Z,ragwell-agent-tools,0.1.0a4,,MIT,158069,Evidence search tools and workflows for agents using Ragwell
+2026-10-29T15:54:14Z,arc56-generated-ishaa-fbb99d50,1.2.2026072010,ISHAAN-KKR,,13446,Generated ARC-56 Algorand smart-contract clients for ISHAAN-KKR/algorand.
+2026-10-29T15:55:25Z,gitfence,0.1.0,Aryan Pol,MIT,284908,Records why code exists and warns before it is removed.
+2026-10-29T15:56:14Z,immersive-cre-mcp,0.3.0,kevthehermit,MIT,73034,MCP server for Immersive Labs Cyber Ranges
+2026-10-29T16:01:18Z,parquet-browser,1.0.0,abhandari73,"MIT License Copyright (c) 2026 abhandari73 Permission is hereby granted, free of charge, to any per…",79842,"Browse, filter and inspect parquet files in your web browser - a local web app powered by DuckDB."
+2026-10-29T16:02:48Z,openhands-acgs,0.1.0,Martin Lyu,Apache-2.0,50265,"ACGS rule-based tool-call governance for OpenHands agents, via a security analyzer"
+2026-10-29T16:02:50Z,agentscope-acgs,0.1.0,Martin Lyu,Apache-2.0,49399,"ACGS rule-based tool-call governance for AgentScope agents, via agent middleware"
+2026-10-29T16:03:47Z,synthocr,2.1.0,Ardalan Jalal,MIT OR Apache-2.0,264409,OCR training data for Kurdish and other languages: text images with exact labels
+2026-10-29T16:06:14Z,ayes,0.0.1,API-Air,Apache-2.0,58706,Pundit-style authorization policies for Python web apps.
+2026-10-29T16:06:38Z,memlineage,0.1.0,Frederick Jerusha,Apache-2.0,25199528,Provenance and taint checks for agent memory.
+2026-10-29T16:06:46Z,bazaar-contrib-codex,0.3.0rc1,,Apache-2.0,46323,Codex app-server harness provider for Bazaar Compute Node
+2026-10-29T16:07:49Z,langchain-llamay,0.1.0,Kosa8 Labs,MIT,14013,"LangChain integration for llamay, a local LLM runtime"
+2026-10-29T16:08:09Z,flux-qfw,0.0.0,,MIT,79283,"QFw quantum resources as Fluxion resources: a Flux CLI plugin, a job shell plugin, and the QPM reservation client that replaces the qfw-slurm layer"
+2026-10-29T16:08:43Z,weft-memory,0.1.0a0,Johann Ross <johann@ousiaresearch.xyz>,AGPL-3.0,61389,Evidence-bound scoped memory substrate for people and their agents
+2026-10-29T16:08:54Z,pgpgoblin,1.1.0,Jason Persinger <jason.persinger@gmail.com>,MIT,33513,Zero-friction 8-bit inspired Linux PGP scratchpad interfacing natively with ~/.gnupg and gpg-agent
+2026-10-29T16:10:16Z,moleditpy-job-server,0.3.2,,LGPL-3.0-or-later,409717,MoleditPy authenticated job server — LAN computational helper
+2026-10-29T16:11:40Z,effbelt,0.1.0,Sardor Razikov,MIT,42025,"LLM efficiency toolbelt: fit, tokenwaste, evalsanity, quantcheck, cheapest, modelcard — save money and catch silent bugs, on a laptop."
+2026-10-29T16:13:02Z,pyopentrustregion,3.0.0,Jonas Greiner <jongr@kemi.dtu.dk>,MPL-2.0,17979519,"Python interface to OpenTrustRegion, a Reusable Library for Second-Order Trust Region Orbital Optimization"
+2026-10-29T16:13:15Z,vivado-red-mcp,0.5.0,sinemortal,MIT,192522,"MCP server that lets AI assistants drive AMD Vivado (projects, block design, synthesis, implementation, simulation, reports) with first-class Red Pitaya STEMlab 125-14 support (RTL and PS+PL builds,…"
+2026-10-29T16:13:51Z,camt-test,0.1.0,Aqib Gul,MIT,24375,"CAMT, the clustered AUC maximum test: patient-clustered, selection-adjusted test that the best of K models beats a baseline, with an audit of published claims"
+2026-10-29T16:14:05Z,arpes-viewer,1.2.1,Ding Pei,PolyForm-Noncommercial-1.0.0,1922033,"Browse, convert, analyse and compare ARPES data with calculations, and lay the results out as publication figures."
+2026-10-29T16:18:36Z,atlantes-cpd,1.1.0,Skylight Team <skylight@skylight.global>,Apache-2.0,32534,"Online changepoint detection for AIS tracks, served over gRPC"
+2026-10-29T16:18:48Z,synth-curator,0.1.0,Amindu Kumarasinghe <amixxdu@gmail.com>,MIT,162529,Utility-weighted curation of synthetic image pools: pick the subset that measurably helps your classifier.
