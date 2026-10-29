@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T16:23:26Z,cwapi2dr,0.0.1,Cadwork <it@cadwork.ca>,,5233,Python bindings for CwAPI2DR
+2026-10-29T18:20:02Z,yamlreel,0.2.1,Nitin Sijwali,MIT,125517,"Spec-driven generator for short project, system-design and demo videos (YouTube, Shorts, LinkedIn)."
+2026-10-29T18:23:56Z,macrostress,0.1.0,LeoLourson,MIT,391919,"Portfolio stress testing over macroeconomic scenarios, as an MCP server"
+2026-10-29T18:25:35Z,PyBannerLibrary,1.0.0,programador777lolxddd-dot,Apache-2.0,20619,"Banners, títulos, marcos y separadores para la terminal sin dependencias."
+2026-10-29T18:27:41Z,crawlora-tiktok-mobile,0.1.0,Crawlora,MIT,86989,"Crawlora TikTok Mobile API client with 63 endpoints for mobile feed, search, video, creator, music, LIVE, and place endpoints"
+2026-10-29T18:28:03Z,storyfed,1.0.1,Storyfed,,4536,The official Python SDK for the Storyfed Video Generation API.
+2026-10-29T18:28:31Z,arcobi-sdk,0.1.0b1,Arcobi,LicenseRef-Proprietary,228068,"Fetch, align and export energy-market time-series data (Datahub), with an optional shared credential pool."
+2026-10-29T18:30:49Z,codemeta-drift,0.1.0,Simon van Lierde,Apache-2.0,54304,"Report where CodeMeta's context, definitions, property table, examples and crosswalks disagree, and export the crosswalks as a JSON mapping"
+2026-10-29T18:33:27Z,pyhydropannes,0.1.1,johnjohn-11,MIT,31673,Async client for Hydro-QuÃ©bec's Info-pannes outage service
+2026-10-29T18:34:02Z,charlotteunoq1,0.1.0,,,2900,This is my dodgy demo package for Uno Q and Ventuno Q
+2026-10-29T18:35:37Z,netbench-ci,0.1.0,Ali Raza Arain,Apache-2.0,3954,Reproducible XDP/eBPF performance regression testing for Linux
+2026-10-29T18:37:31Z,crawlora-kick,0.1.0,Crawlora,MIT,55944,"Crawlora Kick API client with 21 endpoints for channels, livestreams, clips, categories, search, and public mobile-app catalogues"
+2026-10-29T18:37:33Z,crawlora-xiaohongshu,0.1.0,Crawlora,MIT,44653,"Crawlora Xiaohongshu API client with 4 endpoints for public explore feeds, note details, comments, and search suggestions"
+2026-10-29T18:37:42Z,crawlora-rednote,0.1.0,Crawlora,MIT,44335,"Crawlora RedNote API client with 4 endpoints for public explore feeds, note details, comments, and search suggestions"
+2026-10-29T18:39:49Z,wagtail-desktop-publisher,0.3.1,Vladimir Tarasov,,48979,Desktop Markdown publisher and image synchronizer for Wagtail CMS.
+2026-10-29T18:41:35Z,FluxFox,0.0.1,Alexander Fox,GPL-3.0-or-later,155468,"A collection of module and functions for processing eddy covariance data. Contains pre-processing, data conditioning, post-processing, scientific analysis, and data acquisition tools."
+2026-10-29T18:42:59Z,bookivox,0.1.1,,MIT,30608,Official Python SDK and CLI for the Bookivox API
+2026-10-29T18:45:54Z,bq-helix-recon-6ade983e,0.1.2,,,4689,Bounded BigQuery managed Python build/runtime discriminator
+2026-10-29T18:48:35Z,bq-helix-build-hook-6ade983e,0.1.0,,,1167,Managed build hook discriminator
+2026-10-29T18:49:47Z,extrospect,0.1.0,johnnyzn,Apache-2.0,471959,"Local browser-extension risk analysis engine with code evidence, exposed as a CLI and an MCP server."
+2026-10-29T18:51:21Z,expat-rs,0.0.1,Gordion Solutions,MIT,5343,"Memory-safe drop-in for Python's XML parser (xml.parsers.expat), built on expat-rs. Placeholder: the first working release is in preparation."
+2026-10-29T18:51:29Z,mcp-email-validator,0.2.0,,MIT,16482,"A safety-bounded MCP server for email syntax, DNS, and opt-in SMTP checks"
+2026-10-29T18:52:00Z,mcp-files-context,0.2.0,,MIT,16800,MCP tools for text files inside a configured local workspace
+2026-10-29T18:58:29Z,torch-ane,0.1.0,Ivan Shivalov,MIT,110918,"Run PyTorch models on the Apple Neural Engine via Core AI: compile any nn.Module, LLMs with KV cache, Stable Diffusion"
+2026-10-29T18:58:54Z,everything-seo-cli,1.2.1,DevCenterPoint <maintainers@devcenterpoint.com>,MIT,26302,Universal CLI and progressive skill manager for Everything SEO by DevCenterPoint
+2026-10-29T18:59:09Z,ghost-api-cli,0.2.0,Danielraj,MIT,1343244,"An AI agent that turns any website into a typed, tested API client."
+2026-10-29T18:59:36Z,agentonboard-sdk,0.1.0,AgentOnboard <hello@agentonboard.xyz>,MIT,132674,Universal identity layer for AI agents — Python Partner SDK for token verification and account creation
+2026-10-29T19:00:15Z,llama-index-tools-zambo,0.1.0,Brennan Zambo,,13299,"Zambo tools for LlamaIndex: 153 tools behind one MCP endpoint (https://zambo.dev/mcp), a verifiable AER-1 receipt for every job, and HANDOVER continuity across AIs."
+2026-10-29T19:01:58Z,bgnx,0.0.2,BGNX Project,MIT,10260,BGNX: a framework for travel time prediction (early alpha: evaluation utilities).
+2026-10-29T19:03:17Z,entroptics-context,0.2.0,Ikailo Inc.,AGPL-3.0-only,92512,"Read a multi-source LLM context as the subspace it resolves, not as a centroid: locate prompt injections and off-source answers, with no trained model and no tuned constant."
+2026-10-29T19:03:47Z,qpilot,0.2.0,qPilot contributors,Apache-2.0,6790802,"Open qPCR analysis, benchmarked against published results, that shows which of your choices could change the conclusion. Research use only."
+2026-10-29T19:07:10Z,yedipy,0.1.0,Patrick Arron Lee,MIT,1461367,Lossless X12 EDI parsing for Python
+2026-10-29T19:09:05Z,cs-image-system-contract,0.1.4,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,82847,"The plugin contract of cs-image-system: the protocols, constants and data carriers a plugin is written against, with no dependency on the core"
+2026-10-29T19:09:15Z,cs-image-system-contract-example-plugin,0.1.4,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,25092,"The proof of the plugin contract: the inmem state backend, a plugin written against cs-image-system-contract alone, with nothing from the core"
+2026-10-29T19:12:29Z,rdlocal,0.1.0,Model Zero for Technological Solutions <hello@mzfortech.com>,BSD-3-Clause,197932,"Clean-room regression discontinuity estimation, bandwidths and density test"
+2026-10-29T19:14:04Z,autobiologist,0.0.1,Elliot Xie,Apache-2.0,44518,"An open-source, model-agnostic research environment for computational biology (single-cell & spatial first)."
+2026-10-29T19:16:25Z,oscclip,0.6.2,Stefan Tatschner,EUPL-1.2,55475,Access the system clipboard via terminal escape sequences (OSC 52 and the kitty clipboard protocol)
