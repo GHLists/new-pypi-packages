@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-28T23:19:34Z,mcp4api,0.1.0,Samir Musali <samir.musali@gmail.com>,MIT,279495,"Turn API docs into a working MCP server, then verify every generated tool against the real API."
+2026-10-28T23:24:05Z,mcp-cross-exam,0.1.0,Samir Musali <samir.musali@gmail.com>,MIT,217437,Audit MCP servers by cross-examining them.
+2026-10-28T23:24:11Z,geo4bolivia,0.1.0,Carlos Mendez,MIT,76871,Subnational development data for Bolivia across spatial scales (GeoDevelopment Observatory of Bolivia)
+2026-10-28T23:24:38Z,hail-agent,0.4.0,kerneldottoday,MIT,124613,"Talk to your AI agents (Hermes, OpenClaw, Claude Code, anything) from the terminal or any MCP client, locally or over SSH."
+2026-10-28T23:25:24Z,moukhlijmatextract,1.0.1,Younes Moukhlij <younes.moukhlij@usms.ac.ma>,MIT,674025,"Extract, rank and classify solid-state-electrolyte data from scientific papers (activation energies, conductivities, diffusion coefficients)."
+2026-10-28T23:27:08Z,alter-sdk-deel,0.3.2,Alter Team,MIT,1400825,Typed deel operations through Alter
+2026-10-28T23:28:10Z,pulp-lparray,2.0.0,,MIT-0,19891,PuLP x NumPy
+2026-10-28T23:33:17Z,localstack-extension-bedrock-mantle,0.2.0,Thomas Rausch <thomas@thrau.at>,,9770,Emulates Bedrock Mantle with Ollama's OpenAI-compatible API
+2026-10-28T23:34:13Z,madrigal-predictor,0.1.0,"Claire Josephine LeBlanc <claire.leblanc@berkeley.edu>, Marissa Ann Zintel <marissa.zintel@berkeley…",MIT,34428,"Consensus model package that predicts the section in an amino acid sequence likely to be a transcription factor, based on the consensus model created at Staller Lab, according to a given particular t…"
+2026-10-28T23:34:35Z,paddocks,0.0.1,Nalin Raut <prismaticalio@gmail.com>,MIT,1807,Placeholder for the paddocks package.
+2026-10-28T23:34:52Z,docopt-completion,0.1.3,Anders Ingemann,MIT,29463,A completion for the docopt language
+2026-10-28T23:37:49Z,isolar,0.0.2,HonoravelMacho,MIT,45488,"Isole áudio e vídeo na velocidade da luz: extração de áudio, remoção de faixa de som e cortes ultrarrápidos (stream copy) via FFmpeg."
+2026-10-28T23:38:02Z,harpo-native,1.4.0,,MIT,3861784,"Harpo's regex and entropy rules in Rust, as an optional Python extension module"
+2026-10-28T23:38:05Z,permutalpha,0.9.1,David DeConti,MIT,365858,"A trading-research pipeline where every result must beat the same search on shuffled markets: pre-registration, permutation gates, one-shot holdouts, a tamper-evident ledger, and an AI assistant that…"
+2026-10-28T23:38:54Z,harpo-scan,1.4.0,Joshua Do <joshalfonsodo@gmail.com>,MIT,3497118,"Secrets scanner with a bundled ML model, plus a redacting read tool for AI coding agents"
+2026-10-28T23:39:38Z,mainplane,0.5.8,,MIT,5826,"The open-source agent ecosystem. Agents that work across all your computers, browsers and files."
+2026-10-28T23:43:14Z,chrotrixum,0.1.4,,MIT,9225,Navegador de escritorio experimental basado en PyQt6 y QtWebEngine.
+2026-10-28T23:45:42Z,curlyarrows,0.2.0,,MIT,167127,"Arrow-pushing mechanisms, reactions and molecules from a JSON spec an LLM can write: explicit atom/bond graphs, routed curly arrows, RDKit rendering"
+2026-10-28T23:47:08Z,langchain-stagehand,0.0.1,,MIT,10285,Browserbase and Stagehand browser middleware for LangChain agents
+2026-10-28T23:47:56Z,svgblock,0.1.0,,MIT,51542,Generate themed SVG text blocks with animated entrances.
+2026-10-28T23:52:05Z,openftgs,0.1.0,Samuel Austin,Apache-2.0,1065026,"An independent clean-room implementation of FreeTimeGS (Wang et al., CVPR 2025), not affiliated with its authors."
+2026-10-28T23:52:28Z,evalblink,0.1.0,Alexandre Darmon,MIT,203706,"Benchmark LLM prompts × models on your own data — quality and cost in one command, via OpenRouter."
+2026-10-28T23:52:29Z,redpencil,0.1.0,,MIT,1063149,"Review an html page or a site in the browser: comment on it, and your coding agent fixes it while you watch."
+2026-10-28T23:57:58Z,noaa-apiroute,0.1.0,Doug Youch <dougyouch@gmail.com>,MIT,411430,"Python clients for NOAA's weather APIs (weather.gov, AviationWeather.gov, the National Water Prediction Service), generated with apiroute from their published OpenAPI specs: sync and async, typed pyd…"
+2026-10-28T23:59:05Z,led-ticker-basketball,0.1.0,James Awesome <james@morelli.nyc>,MIT,518284,"Live NBA basketball scores widget for led-ticker, fed by ESPN's public scoreboard API (no key). Bundled team logos."
+2026-10-29T00:00:01Z,django-ec-calendar,0.1.0,Rodolfo Becerra <rodolvbg@gmail.com>,MIT,645800,"A calendar for the Django admin and your pages, with EventCalendar: the changelist's objects by date, opened with a click, added by selecting the dates, moved and resized by dragging. In Django's adm…"
+2026-10-29T00:00:11Z,keres-sdk,0.1.0,,MIT,62749,"Playwright-compatible automation client for Keres Browser. Connects to the local Keres Automation Gateway; Keres owns profiles, sessions, and the browser runtime."
+2026-10-29T00:00:50Z,edgelens-sdk,0.2.1,EdgeLens <support@edgelens.ai>,MIT,46070,Python client for the EdgeLens Edge AI Device Farm
+2026-10-29T00:01:12Z,edgelens-mcp,0.2.1,EdgeLens <support@edgelens.ai>,MIT,23397,MCP server exposing the EdgeLens SDK as LLM tools.
+2026-10-29T00:01:16Z,edgelens-cli,0.2.1,EdgeLens <support@edgelens.ai>,MIT,25983,Command-line interface for the EdgeLens Edge AI Device Farm.
+2026-10-29T00:01:17Z,roascan,2.0.1,Roa,Apache-2.0,31959505,RoaScan: Ultra-lightweight C++17 & ONNX multi-page OCR engine and MCP Server for AI Agents (Scanned PDF/TIFF -> Restored Searchable PDF & Structured Markdown).
+2026-10-29T00:04:47Z,exolix-client,0.1.0,,ISC,31434,Python client for the Exolix cryptocurrency exchange API (v2)
+2026-10-29T00:05:36Z,give-sms,0.1.0,,ISC,29515,Python client for the Give-SMS virtual number and SMS activation API
+2026-10-29T00:05:52Z,stealthex,0.1.0,,ISC,27994,Python client for the StealthEX cryptocurrency exchange API
+2026-10-29T00:05:55Z,capmonster-client,0.1.0,,ISC,38225,Python client for the CapMonster Cloud captcha recognition API
+2026-10-29T00:05:55Z,fixedfloat-client,0.1.0,,MIT,31737,Python client for the FixedFloat cryptocurrency exchange API v2
+2026-10-29T00:06:59Z,timetag-explorer,1.0.1,Sean Lockwood,BSD-3-Clause,103315,"The science code behind TIME-TAG Explorer: HST/STIS FUV TIME-TAG processing, reference frames, planet maps and selection scripts"
+2026-10-29T00:07:33Z,NutMEG-astrobiology,2.0.0b1,Peter Higgins <hapeterbility@gmail.com>,GPL-3.0-only,3231499,"Nutrients, maintenance, energy, and growth: A biogeochemical model for astrobiology"
+2026-10-29T00:08:23Z,cloudplatform-sdk,1.29.0,,,2343,
+2026-10-29T00:09:35Z,edgelens-robot,0.2.1,EdgeLens <support@edgelens.ai>,MIT,15078,Robot Framework library for the EdgeLens Edge AI Device Farm.
+2026-10-29T00:09:37Z,edgelens-pytest,0.2.1,EdgeLens <support@edgelens.ai>,MIT,19773,"pytest plugin for EdgeLens — per-session/per-test camera fixtures, CLI options, JUnit metadata."
+2026-10-29T00:10:24Z,quantmet-tools,0.4.4,Shawn Corvec,MIT,268101,"Quantitative meteorology toolkit: TEM and Eliassen-Palm diagnostics, wave-activity flux, equatorial-wave filtering, Helmholtz decomposition, potential vorticity, tropical-cyclone detection, forecast…"
+2026-10-29T00:15:45Z,dspk,0.0.3,jesusdpa1,MIT OR Apache-2.0,134067311,"Multi-channel signal processing on any GPU or the CPU, written once in CubeCL"
+2026-10-29T00:16:05Z,catch-the-gist,0.0.3,,Apache-2.0,80697,Turn sources into Agent Skills.
+2026-10-29T00:16:55Z,plotwork,0.1.0,Plotwork,MIT,73565,"The Plotwork API from Python: validate, draw, render, import and publish diagrams, on the standard library alone."
+2026-10-29T00:17:24Z,diagram-db,0.2.0,jeironpro,MIT,48796,Genera diagramas entidad-relación con pata de cuervo a partir de un spec.md
