@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T19:29:44Z,py-lean-package,0.1.1,Raphael Stolt,MIT,18890,Detect and fix missing source-exclude patterns in Python projects.
+2026-10-29T19:30:51Z,adambridge,0.1.2,John Anish G,Apache-2.0,136101,"AdamW with host-offloaded state, fused SIMD CPU kernels, and layer-wise overlap with the GPU backward pass"
+2026-10-29T19:33:51Z,onnax,0.1.0,,MIT,167456,Experimental batching and automatic differentiation for ONNX graphs
+2026-10-29T19:33:59Z,pybonsai-lang,1.0.0,PacketFive,GPL-2.0-only,80968,"PyBonsai, a hermetic subset of Python 3.12 interpreted from its syntax tree"
+2026-10-29T19:34:13Z,trellis-kconfig,1.0.0,PacketFive,GPL-2.0-only,131446,"Configure a system from Kconfig option trees, checked with a SAT solver"
+2026-10-29T19:35:06Z,banksman,0.1.0,Evgenii Plokhov,Apache-2.0,730375,Lease shared devices and emulators to parallel coding agents on one machine.
+2026-10-29T19:36:09Z,cloche,1.0.0,PacketFive,GPL-2.0-only,132737,"Run a program in an unprivileged Linux sandbox, from Python or the command line"
+2026-10-29T19:39:14Z,ai-accountant,0.0.2,Joakim Henriksson,Apache-2.0,156453,"Provider pricing, token cost calculation, and local AI session accounting"
+2026-10-29T19:39:59Z,bondaries,0.1.0,Jenny Luo <jennyluo@berkeley.edu>,MIT,460538,"See how LLM tokenizers split SMILES, atom by atom."
+2026-10-29T19:40:04Z,ovos-tts-plugin-audio8,0.1.0,Mike Gray/Oscillate Labs <mike@oscillatelabs.net>,Apache-2.0,233285,OVOS TTS plugin for Audio8 TTS — 0.6B DualAR TTS with one-shot voice cloning
+2026-10-29T19:41:35Z,ai-mark-lint,0.1.3,"EasyByte Hub, S. Coop. Mad.",Apache-2.0,1374594,"Checks in CI that synthetic images, video and audio carry machine-readable AI marks (C2PA, IPTC DigitalSourceType, the GB 45438 AIGC label), judged against EU AI Act art. 50(2), California SB 942 (as…"
+2026-10-29T19:41:40Z,pyrixos-lattice,0.9.0,PacketFive,GPL-2.0-only,266846,"Lattice, the PyrixOS package manager"
+2026-10-29T19:41:45Z,attest-lint,0.1.1,"EasyByte Hub, S. Coop. Mad.",Apache-2.0,575072,"No-downgrade check for the Python supply chain: flags pinned dependencies that stopped shipping PEP 740 attestations on PyPI, or whose Trusted Publisher changed, against each package's own history."
+2026-10-29T19:42:11Z,agno-optimistfi,0.1.0,OptimistFi <hello@optimistfi.com>,MIT,23199,"OptimistFi tools for Agno agents: perpetual futures, crypto prop firms and US company disclosures."
+2026-10-29T19:42:33Z,ittai,0.1.0,Enrico Shippole,,54699,Add your description here
+2026-10-29T19:42:57Z,crs-lint,0.1.1,"EasyByte Hub, S. Coop. Mad.",Apache-2.0 AND LicenseRef-OECD,181434,"Offline CI linter for OECD Common Reporting Standard XML (schema v2.0 and v3.0 / CRS 2.0): XSD plus the business rules of the CRS Status Message, citing the official OECD error code for every finding…"
+2026-10-29T19:43:27Z,pdfblinder,0.1.0,,MIT,25814,Reconstruct and sanitize PDFs for anonymous review.
+2026-10-29T19:44:35Z,execute-cheaper,0.1.0,Arnau González,MIT,90108,"Plan with an expensive model, execute with cheap ones, verify independently."
+2026-10-29T19:48:42Z,fulcrum-mcp,0.3.0,rmavuluri,MIT,71602,"Read-only MCP server for Amazon MSK (Kafka) and AWS Glue Schema Registry, using IAM auth."
+2026-10-29T19:49:06Z,kernlens,0.3.0rc1,BinRacer <native.lab@outlook.com>,GPL-3.0-or-later,980736,"GDB commands for reading a live Linux kernel: page tables, SLUB caches and freelists, struct page, symbols and KASLR. Pure Python, x86_64."
+2026-10-29T19:55:47Z,aspire-si-gates,1.7.6,mcp-tool-shop,MIT,81460,"The Stage 1 role-training data gates (schema, amendments, diversity, floors), standard library only"
+2026-10-29T19:55:47Z,sqlfuse,0.1.0,Miroslaw Takuski <miroslawtakuski@gmail.com>,MIT,55728,"Python ORM with Pydantic validation that always runs, even with table=True"
+2026-10-29T19:57:26Z,repovet,0.1.0,m3xXmo0,MIT,864402,Vet a Git repository before you run it.
+2026-10-29T19:59:19Z,varve-data,0.1.0,,MIT,28410,Download and use Varve Data: point-in-time US fundamentals and SEC filing events
+2026-10-29T20:02:18Z,rogue-llm,0.1.0,Samuel Rojas <samuelitemaster@gmail.com>,MIT,63630,Adversarial LLM proxy for testing whether agent security is structural or behavioral
+2026-10-29T20:03:08Z,guidocom,0.0.1,tsomerville,MIT,1114,Placeholder: the guidocom name is held for a future project
+2026-10-29T20:03:17Z,gpucom,0.0.1,tsomerville,MIT,1094,Placeholder: the gpucom name is held for a future project
+2026-10-29T20:03:19Z,controlcom,0.0.1,tsomerville,MIT,1131,Placeholder: the controlcom name is held for a future project
+2026-10-29T20:03:24Z,oscom,0.0.1,tsomerville,MIT,1084,Placeholder: the oscom name is held for a future project
+2026-10-29T20:06:29Z,melek-routine,1.1.0,Melek Projesi,,41623,"Melek Yapay Zeka Asistanı - Akıllı Zamanlayıcı, Türkçe Doğal Dil (NLP) Zaman Çözücü ve Görev Dağıtım Motoru"
+2026-10-29T20:07:46Z,interui,0.5.0,Johnny Urdin <urdin32@gmail.com>,MIT,812824,"Framework para aplicaciones de escritorio en Python con HTML, Tailwind CSS y JavaScript."
+2026-10-29T20:08:25Z,ebt-backtest,0.1.0,,MIT,1388318,Backtesting and evaluation toolkit for position-based trading strategies
+2026-10-29T20:09:49Z,pyheclib,0.4.0,,,11962221,
+2026-10-29T20:11:35Z,s1flow,0.1.0a1,Gota <75576618+gotalab@users.noreply.github.com>,Apache-2.0,501143,"Evaluate decision models (Jev, Clef, d1, OpenAI Decisions) on your own data, then run the one you trust in your app and CI"
+2026-10-29T20:12:01Z,fehm,1.0.0,,MIT,49288504,Local-first codebase intelligence and architecture drift checks for AI coding agents
+2026-10-29T20:12:04Z,launch-editor-py,1.0.0,Adam Johnson,MIT,24489,"Open files in the user’s editor, optionally at a given line and column."
+2026-10-29T20:13:33Z,google-search-console,0.1.0,Orcai LLC,Apache-2.0,62951,"Python client for the Google Search Console API: Search Analytics without the 25k-row limit, URL Inspection, sitemaps, sync & async, CLI."
+2026-10-29T20:13:37Z,confoundsearch,0.1.0,,MIT,123321,ConfoundSearch: finding confounds as a Markov Decision Process
+2026-10-29T20:18:56Z,sunil-get,1.0.0,,,3196,
