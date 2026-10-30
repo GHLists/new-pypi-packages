@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T17:18:45Z,aurvia-kavach,0.0.1,Vinay Tripathi <vinay@aurviaglobal.com>,Proprietary — All Rights Reserved,375442,"Kavach Platform — Agent Accountability for Indian BFSI (proprietary, all rights reserved)"
+2026-10-30T17:20:06Z,phone-detect-test,0.2.0,xunfei,MIT,142080,考场手机检测：一条命令启动监控台网页，另附检测/训练/数据清洗/标签审计 CLI
+2026-10-30T17:20:31Z,doneguard,0.3.0,,MIT,85162,"Your AI coding agent can't say ""done"" until the checks pass."
+2026-10-30T17:23:05Z,cosplay2py,0.3.0,Arutemu64,MIT,80248,Unofficial typed sync and async client for the Cosplay2.ru API
+2026-10-30T17:27:55Z,zapsmtp,0.1.0b1,ZapSMTP,MIT,181502,The official Python library for the ZapSMTP email API
+2026-10-30T17:30:20Z,triton-mla,0.1.1,,MIT,25527,Fused Triton decode kernel for DeepSeek Multi-head Latent Attention (MLA)
+2026-10-30T17:30:46Z,sqltide,0.0.1,Chio Labs,Apache-2.0,2119,Declarative SQL streaming pipelines. Under development.
+2026-10-30T17:30:48Z,sqltide-cli,0.0.1,Chio Labs,Apache-2.0,2188,Native command-line executable for sqltide. Under development.
+2026-10-30T17:30:50Z,sqlquack-cli,0.0.1,Chio Labs,Apache-2.0,2209,Native command-line executable for sqlquack. Under development.
+2026-10-30T17:30:52Z,sqlclean-cli,0.0.1,Chio Labs,Apache-2.0,2204,Native command-line executable for sqlclean. Under development.
+2026-10-30T17:31:10Z,pcina,0.2.1,alexkay28,MIT,94721,Python Code-pattern Investigator & Nonsense Analyzer - KISS/YAGNI harness for AI-generated code
+2026-10-30T17:32:22Z,bostonmove,0.1.0,Kameswara Sai Srikar Manda,MIT,46359,"Getting around Boston: live MBTA departures and alerts, Bluebikes availability, and door-to-door trip options with up to one subway change. CLI and MCP server; read-only."
+2026-10-30T17:32:39Z,pyxpo-rich-editor,0.1.0a1,Vishal Chaubey,MIT,408028,"A full rich text editor for pyxpo apps: Tiptap in WKWebView on iOS and Mac, WebView on Android, an iframe on the web."
+2026-10-30T17:32:45Z,pyxpo-query,0.1.0a1,Vishal Chaubey,MIT,45537,"Server-state cache for pyxpo: cached queries, infinite lists, mutations, refetch on focus and reconnect, in pure Python."
+2026-10-30T17:32:52Z,pyxpo-intl,0.1.0a1,Vishal Chaubey,MIT,62220,"ICU messages, plural rules, and locale number and date formatting for pyxpo, in pure Python."
+2026-10-30T17:33:37Z,test-graph1,0.1.0,Aquif Shaikh,,659177,WSN Practical and study files
+2026-10-30T17:36:20Z,maatraco-kit,0.1.1,,,13024,A collection of numbered Python maatracos
+2026-10-30T17:36:29Z,marg-sdk,0.1.0,Falak Rana <ranafalak18@gmail.com>,Apache-2.0,32986,Marg MCP Telemetry SDK
+2026-10-30T17:37:10Z,memora-orbis,0.1.0,Memora <support@memora.company>,Commercial / Proprietary - see LICENSE.md,12890,"Orbis by Memora — Official Python SDK for Agentic Browser (Browser-Use, LangChain, CrewAI)"
+2026-10-30T17:37:59Z,pyxpo-apple-authentication,0.1.0a1,Vishal Chaubey,MIT,22683,Sign in with Apple for pyxpo apps (AuthenticationServices)
+2026-10-30T17:38:40Z,pyxpo-google-sign-in,0.1.0a1,Vishal Chaubey,MIT,33691,"Sign in with Google for pyxpo apps: Credential Manager on Android, GoogleSignIn on iOS, Google Identity Services on the web"
+2026-10-30T17:38:46Z,pyxpo-svg,0.1.0a1,Vishal Chaubey,MIT,54150,"SVG shapes, paths and text for pyxpo apps: charts, rings, sparklines and icons drawn natively."
+2026-10-30T17:39:20Z,hypergraph-engine-native,1.0.1,,MIT OR Apache-2.0,24203772,In-process bindings for the Temporal Hypergraph Engine and its vLLM KV block tier
+2026-10-30T17:43:12Z,llm-search-eval,0.2.0,Naser Sadrmanesh <info.sadrmanesh@gmail.com>,MIT,184629,"Evaluate product search quality with IR metrics, multi-judge LLM labeling, cost tracking, and CI quality gates."
+2026-10-30T17:43:51Z,cpp-crash-explainer,0.2.0,Khushi,MIT,27384,Explain C++ AddressSanitizer and LeakSanitizer diagnostic reports in plain English for students and beginners.
+2026-10-30T17:43:59Z,walletrecover,0.1.0,Sardor Razikov,MIT,23023,"Authorized, owner-run crypto wallet recovery — rebuild access to a wallet you own from what you remember."
+2026-10-30T17:44:30Z,hank-model-transport,1.0.1,,MIT,523495,"Independent model provider transports, credentials, and execution binding"
+2026-10-30T17:47:15Z,persian-rag,0.2.0,Naser Sadrmanesh <info.sadrmanesh@gmail.com>,"MIT License Copyright (c) 2026 Naser Sadrmanesh Permission is hereby granted, free of charge, to an…",153623,Persian-first retrieval-augmented generation toolkit
+2026-10-30T17:49:56Z,docforge-zh,0.1.0,docforge contributors,MIT,3842108,中文文档解析引擎与公开 Benchmark：多栏/复杂表格 PDF -> LLM-ready Markdown 与带 bbox 的 JSON
+2026-10-30T17:55:32Z,lemmajet,0.0.1,Twoje Imię <twoj@email.com>,,2190,Placeholder for the upcoming lemmajet project.
+2026-10-30T18:00:50Z,odoo-addon-purchase-order-line-import-sheet-file,17.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",AGPL-3,41855,Import purchase order lines from a spreadsheet
+2026-10-30T18:02:13Z,synoptiko,0.1.0,Alex Rubinsteyn,http://www.apache.org/licenses/LICENSE-2.0.html,51524,Summary report of somatic mutations from cancer DNA sequencing data
+2026-10-30T18:05:18Z,suveren,1.1.0,,AGPL-3.0-or-later,712429,"Аудит сайта и компании: иностранные сервисы, 152-ФЗ, блокировки РКН, ЕГРЮЛ и санкционные списки"
+2026-10-30T18:08:26Z,autokeeper,0.0.7.dev0,Sato shinji,,2842,AutoKeeper：AI 担任守秘人的中文《克苏鲁的呼唤》第 7 版跑团游戏（占位版本，新版安装包准备中）
+2026-10-30T18:12:30Z,faster-or-curvature,1.2.0,Giorgio Micaletto,MIT,107048,"Exact Ollivier-Ricci curvature for graphs, computed with one minimum cut per edge"
+2026-10-30T18:13:23Z,tap-usgs-earthquakes,0.1.0,Abhishek Gupta,"MIT License Copyright (c) 2026 Abhishek Gupta Permission is hereby granted, free of charge, to any…",141178,Singer tap for the USGS Earthquake Catalog API
+2026-10-30T18:16:04Z,mypythoncommon,0.0.1,David Wang,,5817,Common Code
+2026-10-30T18:16:24Z,bettercollected,0.1.0,Sireto B.V.,Apache-2.0,41423,Typed client and forms-as-code CLI for the BetterCollected public API.
+2026-10-30T18:17:02Z,amagi-throughput-lab,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,225876,"Find the llama-server (or vLLM) settings that serve the most people from one GPU: sweeps instances x --parallel x concurrency with distinct prompts, joins nvidia-smi power for tokens per joule, draws…"
+2026-10-30T18:17:54Z,congressional-explorer-mcp,0.3.0,Civic Tech DC,Apache-2.0,70767,Local Congress research over immutable archive releases
+2026-10-30T18:18:35Z,telys-vllm,0.1.0,,Apache-2.0,47346,Telys external KV/prefix-cache connector for vLLM (KVConnectorBase_V1)
