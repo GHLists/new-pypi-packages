@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T14:18:11Z,commonmemo,0.0.1,Mehul Gupta <mehulgupta85@gmail.com>,Apache-2.0,1132813,"Framework-neutral memory for agents and workflows: event, session, episodic and user memory behind one handle."
+2026-10-30T14:19:12Z,llm-wiki-tool,0.1.0,Leonardo Marziali,,379763,"CLI that keeps small, capped, LLM-maintained wikis for coding agents"
+2026-10-30T14:19:29Z,aiosnmpswitch,0.1.0,eizedev <oss@eize.dev>,MIT,164606,"Async Python client for managed network switches over SNMP - ports, PoE, MAC address table and LLDP neighbours; read-only, typed, vendor-neutral"
+2026-10-30T14:19:53Z,gpulayer,0.3.0,Antonello,Apache-2.0,2333361,"Run any workload on every GPU and CPU you can reach: job orchestration across local, remote and cloud machines, distributed PyTorch, a web dashboard and an MCP server for AI agents."
+2026-10-30T14:21:27Z,lc-otel,1.0.0,Lojacorr,LicenseRef-Proprietary,85796,"Pacote base de OpenTelemetry (traces, logs e métricas) da Lojacorr"
+2026-10-30T14:22:51Z,uiaxpath,0.1.0,coffee2021 <coffeemeow22@163.com>,MIT,52712,"XPath-like query engine for Windows UI Automation trees, powered by in-memory UIA snapshots"
+2026-10-30T14:23:27Z,rn-forge-devops,0.3.1.dev0,Rohit Narayanan,MIT,36504,"CI and release automation for rn-forge repositories in any language, run with uv"
+2026-10-30T14:23:30Z,rn-forge-cli,0.1.2.dev0,Rohit Narayanan,MIT,21855,"The shared command-line layer for rn-forge applications: Typer app factory, standard options, console and exit codes"
+2026-10-30T14:23:32Z,rn-forge-data,0.1.2.dev0,Rohit Narayanan,MIT,19252,Excel and tabular data helpers for Python programming
+2026-10-30T14:23:35Z,rn-forge-web,0.3.0.dev0,Rohit Narayanan,MIT,122995,Framework-agnostic HTTP/API primitives built on rn-forge-commons
+2026-10-30T14:25:34Z,pysenn,0.3.0,Alessio Parolini <alepar.ap9@gmail.com>,,18982,"pysenn - A Python package, based on PyTorch, to build Self Expanding Neural Networks and train them with an optimezed process."
+2026-10-30T14:25:39Z,rampgate-docker,0.1.0,Hakan Bağıç,Apache-2.0,32554,"Docker executor, exit classification and event watcher for rampgate."
+2026-10-30T14:27:15Z,cosmic-metrics,0.1.2,Eric Le Saux,,118021,"Per-block quality metrics of NenuFAR Cosmic Dawn data, for block selection and combination weights"
+2026-10-30T14:27:17Z,coding-agent-audit,0.1.0,StackScribe AI <survivalagent320@gmail.com>,MIT,28765,"Scan your machine for known AI-coding-assistant supply-chain backdoor indicators (Claude Code / Cursor / Windsurf extensions, MCP servers) plus risky hook/permission config patterns."
+2026-10-30T14:27:25Z,cronipy,0.1.2,lantonic,,7206,Add your description here
+2026-10-30T14:30:44Z,dbcom,0.0.1,tsomerville,MIT,1894,Placeholder: the dbcom name is held for a future project
+2026-10-30T14:31:25Z,simpleswap-client,0.2.0,,ISC,77853,"Python client for the SimpleSwap cryptocurrency exchange API (v3): pairs, estimates, swaps, market rates, and deposit confirmation"
+2026-10-30T14:31:26Z,sideshift,0.2.0,,ISC,32151,Python client for the SideShift.ai crypto swap and exchange REST API (v2)
+2026-10-30T14:31:27Z,2captcha-client,0.2.0,,ISC,30253,Python client for the 2Captcha solving API
+2026-10-30T14:31:41Z,onlinesim,0.2.0,,ISC,27943,Python client for the OnlineSIM virtual number and SMS activation API
+2026-10-30T14:31:42Z,smsbulk,0.2.0,,ISC,30585,Python client for the SMSBulk virtual number and email verification API
+2026-10-30T14:36:10Z,pySigma-backend-libsigma,0.1.0,Jérémie Jourdin,LGPL-2.1-only,118544,pySigma backend that compiles Sigma rules to a libsigma .sigmac artifact
+2026-10-30T14:38:02Z,ErisPulse-WeComAdapter,0.1.0,ErisPulse,MIT,35240,ErisPulse的企业微信(WeCom)适配模块
+2026-10-30T14:38:35Z,keysnare,0.1.0,Morello Developers,Apache-2.0,217753,Find plain-text credentials on developer machines and trap credential stealers.
+2026-10-30T14:39:37Z,boilerplate-devops-investigation-agent,0.1.0,,,114586,Reusable read-only DevOps Deep Agent boilerplate
+2026-10-30T14:39:39Z,mujoco-robotics-uri,0.1.0,,BSD-3-Clause,447435,"MuJoCo resource provider for package:, model:, and robot: URIs, powered by resolve-robotics-uri-cpp."
+2026-10-30T14:40:11Z,maplestory-api,0.1.0,,,2684686,"High-performance Python bindings for NEXON MapleStory OpenAPI, powered by Rust"
+2026-10-30T14:42:08Z,xlsx-audit,0.1.0,gravitybendr,MIT,68302,"Find broken references, external links, hard-coded overrides and formula changes in Excel workbooks (.xlsx), from the command line, CI or Python."
+2026-10-30T14:44:09Z,designaround-core,0.1.3,,Apache-2.0,18557,"Pure-Python shared rules for DesignAround: price catalog, official fees, filing/timeline/representation rule packs, quotes."
+2026-10-30T14:44:12Z,designaround-engine,0.1.3,,Apache-2.0,131506,"DesignAround local engine: CAD execution, patent views, rendering, CPU shape comparison, DFM, filing packages."
+2026-10-30T14:44:15Z,designaround,0.1.3.post1,,Apache-2.0,545833,"DesignAround CLI + local engine: design-patent screening, design-around, patent views and filing packages. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode, OpenClaw and Kiro via the bundl…"
+2026-10-30T14:44:19Z,scietex.hal.vfd,2.0.1,Anton Bondarenko <bond.anton@gmail.com>,"MIT License Copyright (c) 2025 Anton Bondarenko Permission is hereby granted, free of charge, to an…",103058,Scietex VFD HAL package
+2026-10-30T14:45:28Z,nuboard,0.20.0,Esteban Gómez,MIT,15004762,"A fast, local, folder-based experiment tracker and viewer for ML training."
+2026-10-30T14:46:37Z,amoorion-ntfy,0.4.6,Sett Sarverott,MIT,7258,ntfy plugin of amoorion: push notifications to one topic
+2026-10-30T14:49:32Z,ErisPulse-SnowLumaAdapter,0.1.0,wsu2059q <wsu2059@qq.com>,"MIT License Copyright (c) 2025 WSu2059 Permission is hereby granted, free of charge, to any person…",62141,ErisPulse的SnowLuma协议适配模块（NTQQ hook，OneBot v11 兼容）
+2026-10-30T14:57:09Z,agent-firewall-cascade,0.1.0,Divya Karotra,MIT,118436,A risk-aware firewall for LLM agent tool calls (prompt-injection defence)
+2026-10-30T14:57:16Z,qblox-deprecation,0.0.0,,BSD-3-Clause,91623,Tools for deprecation warnings
+2026-10-30T14:57:28Z,amoorion-email,0.4.8,Sett Sarverott,MIT,8707,"E-mail plugin of amoorion: send by SMTP, read by IMAP, reply"
+2026-10-30T14:59:26Z,csa3d,0.2.1,Ioannis Riziotis <riziotis@ebi.ac.uk>,Apache-2.0,39943,Extract and analyze enzyme catalytic sites in 3D from the Mechanism and Catalytic Site Atlas (M-CSA)
+2026-10-30T15:00:21Z,scietex.vfd-service,0.1.0,Anton Bondarenko <bond.anton@gmail.com>,MIT,59194,Scietex microservice daemon for variable frequency drive monitoring and control
+2026-10-30T15:02:03Z,nutq-mcp,0.1.0,Bahrom Sharifzoda,MIT,10430,"MCP server for nutq: Tajik, Persian, Dari and Uzbek script conversion and text normalization for AI assistants"
+2026-10-30T15:05:17Z,fastgrpc3-transport,0.1.0,,MIT,26320873,"A tonic gRPC server transport for fastgrpc3, with handlers written in Python"
+2026-10-30T15:09:17Z,finceptquantlib,1.0.0,Fincept Corporation <dev@fincept.in>,MIT,1522680,"Quantitative finance library for pricing, risk and analytics across fixed income, derivatives and portfolios"
+2026-10-30T15:13:27Z,fastgrpc3,0.1.0,William Nauroy,MIT,214722,"FastAPI-like gRPC framework for Python: contracts from .proto files or Pydantic models, powered by protoruf (Rust)"
+2026-10-30T15:14:55Z,tinypid,0.7.2,Alexander Steppke,MIT,24849,Tiny PID controller
+2026-10-30T15:15:59Z,zarrsmith,0.6.0,Nicola Gritti <nicola.gritti@embl.es>,MIT,8685228,"Microscopy I/O, OME-Zarr forging and NGFF utilities: read vendor datasets, write multiscale OME-Zarr, fuse mosaics, from Python, the command line and napari."
+2026-10-30T15:16:25Z,roboscope-kit,0.8.0b1,RoboScope Team,Apache-2.0,326646,RoboScope Kit: Policy inference integration for RoboScope simulation benchmarks
+2026-10-30T15:17:58Z,evalues,0.1.0,Sebastian Koch,MIT,71920,"Statistical tests you can check after every observation: anytime-valid tests, confidence sequences, change detection and e-value combination"
