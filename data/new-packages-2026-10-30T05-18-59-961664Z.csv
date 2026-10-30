@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T04:22:09Z,wolfdocx,0.1.0,Wolfgang Schoenberger,MIT,1034281,"Read, write, and edit Word .docx files in Python. A python-docx alternative that edits documents in place and keeps every untouched part byte-for-byte identical. Pure Python, MIT licensed."
+2026-10-30T04:25:11Z,enem-mcp,1.0.0,jpmamededs,MIT,38481,"MCP server com questões oficiais do ENEM: gabaritos, busca por tema, simulados em PDF e desempenho"
+2026-10-30T04:26:35Z,modkit-api-responses,0.1.0,,MIT,30686,Configurable response envelopes and finalized-byte conditional reads
+2026-10-30T04:27:06Z,rvg-runtime,0.1.0,Jooyoung Kim <kjy915875@gmail.com>,Apache-2.0,958334,"Retrieval-Verified Generation (RVG): answers from permitted, in-force knowledge-base evidence under a release contract — a fixed controller releases only verified text (FULL or PARTIAL) and hands the…"
+2026-10-30T04:29:47Z,cvlite,1.1.0,,,62269,"Computer vision examples for Google Colab, with an explanation of every function used"
+2026-10-30T04:30:29Z,openphysgraspgen,1.0.0rc1,SpaceAI,Apache-2.0,310294,Physics-labelled grasp data generation for deformable objects
+2026-10-30T04:35:09Z,modkit-api-versioning,0.1.0,maxxab,MIT,22915,Explicit path version policies and optional FastAPI routing
+2026-10-30T04:35:20Z,modkit-diagnostics,0.1.0,maxxab,MIT,24114,"App-owned error catalogs, scoped diagnostics and explicit safe structured logging"
+2026-10-30T04:36:57Z,mkdocs-resolve-absolute-urls-plugin,2.0.1,Davide Marchegiani <davide.marchegiani@anu.edu.au>,"MIT License Copyright (c) 2025 Davide Marchegiani Permission is hereby granted, free of charge, to…",17982,"A MkDocs plugin that resolves absolute URLs relative to a configurable root url, with support for multi-version and multi-locale documentation sites based on the configurable url versioning scheme."
+2026-10-30T04:37:13Z,modkit-events,0.1.0,,MIT,51118,"Explicit, duplicate-aware event delivery and durable inbox/outbox primitives"
+2026-10-30T04:46:56Z,crewai-videogen,2.5.3,,MIT,25548,"Official CrewAI tools for the VideoGen API. Generate videos, images, voiceovers, sound effects, music, and avatars from any CrewAI agent or crew."
+2026-10-30T04:46:58Z,pydantic-ai-videogen,2.5.3,,MIT,25429,"Official Pydantic AI tools for the VideoGen API. Generate videos, images, voiceovers, sound effects, music, and avatars from any Pydantic AI agent."
+2026-10-30T04:49:22Z,brandzivio-trade-costs,0.1.0,Brandzivio <m81891287@gmail.com>,MIT,8466,"Small, dependency-free helpers for backtests: slippage in price and basis points, and net P&L after slippage, brokerage and percentage charges."
+2026-10-30T04:55:05Z,nifimcp-server,0.1.0rc1,Lloyd Clark,Apache-2.0,334198,"Evidence-backed Apache NiFi investigation for AI assistants: an independent, read-only MCP server that explains flows, investigates problems with cited evidence and drafts bounded subflows for contro…"
+2026-10-30T04:55:14Z,sleepwalk,0.0.1,,Apache-2.0,1616,In development.
+2026-10-30T04:55:39Z,superroute-sprint,0.1.0,Superroute <noreply@superroute.ca>,Superroute SDK License,39720656,"sPrint, Superroute's printing SDK: find network, USB and Bluetooth printers, detect their language, print labels, PDF, HTML, images and raw bytes, and run a Superroute print node."
+2026-10-30T04:55:47Z,dotenvpick,0.1.0,Cham,MIT,13131,Select and group values from multiple dotenv files.
+2026-10-30T04:59:27Z,django-edocs,0.1.0,django-edocs contributors,MIT,59623,"Electronic document generation, Word (.docx) template engine, dynamic tables, PDF conversion, QR verification and E-IMZO signing workflow for Django."
+2026-10-30T05:03:57Z,thirdeye-sim,0.1.0,Third Eye Labs,Apache-2.0,17825756,"Dream: a driving environment on Gurgaon's real roads, in traffic and events at rates measured from Indian dashcam footage"
+2026-10-30T05:05:53Z,shelem-scorekeeping-mcp,0.1.0,khaleghika,MIT,52855,MCP server that scores Shelem (شلم) card game hands with deterministic integer arithmetic.
+2026-10-30T05:06:46Z,ccf-habitat,0.3.0,Pan Ziqi,MIT,91556,Consistency-constrained framework for CT habitat clustering (BESP2/P2 algorithm package)
+2026-10-30T05:13:03Z,tofscope,0.1.1,,MIT,1781125,Multi-analysis ToF-SIMS exploration and calibrated 3D visualization
+2026-10-30T05:13:50Z,interjson-moonbit,1.5.1,InterJSON contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",3000354,"The local execution gate for LLM output: an MCP server and streaming JSON repair, powered by the MoonBit engine."
