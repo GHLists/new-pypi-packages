@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T05:25:59Z,originlm,0.1.0a20,,MIT,44742224,Thin native-helper protocol client for OriginLM
+2026-10-30T05:31:03Z,si-dynamo-runtime,0.0.0a0,Harrison Saturley-Hall <hsaturleyhal@nvidia.com>,Apache-2.0,1245,Placeholder for future work.
+2026-10-30T05:31:04Z,si-dynamo,0.0.0a0,Harrison Saturley-Hall <hsaturleyhal@nvidia.com>,Apache-2.0,1170,Placeholder for future work.
+2026-10-30T05:31:47Z,siperf,0.0.0a0,Harrison Saturley-Hall <hsaturleyhal@nvidia.com>,Apache-2.0,1141,Placeholder for future work.
+2026-10-30T05:32:08Z,situne,0.0.0a0,Harrison Saturley-Hall <hsaturleyhal@nvidia.com>,Apache-2.0,1143,Placeholder for future work.
+2026-10-30T05:33:49Z,mirrors-sdk,0.1.0,,,69239,Background trace capture and bounded optional context for Python agents
+2026-10-30T05:34:27Z,ida-auto-mcp,1.1.1,mufeng05,MIT,139383,Headless IDA Pro MCP server - automated binary analysis for AI agents
+2026-10-30T05:35:30Z,fluidgrids-workflows,2026.1030.1,FluidGrids <info@fluidgrids.ai>,Copyright (c) 2025 Algoshred Technologies Private Limited. All rights reserved. This software is pr…,255172,"Author FluidGrids workflows as code in Python: the tier-1 graph builder, byte-identical lowering to the workflow IR v2, and the IR tools (normalise, validate, hash)."
+2026-10-30T05:39:37Z,cn-coding-plan,1.0.0,OpenHoud Benchmark <dev@codingplan-bench.org>,,14107,国内 AI 编程算力套餐（Coding Plan / Token Plan）月度与年度成本对比计算器
+2026-10-30T05:42:56Z,diagrams.mbt,0.0.1,moonrockz,Apache-2.0 AND MIT AND BSD-3-Clause AND CC-BY-SA-4.0,9817573,Render Mermaid diagrams to standalone SVG in process with the diagrams.mbt MoonBit renderer.
+2026-10-30T05:45:23Z,aquamatrix-simar,0.1.0,Oldemar Jesus <oldemego@gmail.com>,MIT,71082,Async Python client for SIMAR customer accounts on Aquamatrix
+2026-10-30T05:46:03Z,qwik-envr,0.5.1,Himakar Reddy,MIT,57707,A local browser editor for Unix shell environment variables.
+2026-10-30T05:46:16Z,reprovane,2.0.0,,MIT,601225,"Reprovane — Reproducible literature discovery, screening, and evidence management."
+2026-10-30T05:53:35Z,cosens-sdk,0.1.0,,,98422,CoSens Python SDK for OpenAI and RSI workflows
+2026-10-30T05:55:14Z,ftalgo,0.1.0,Jasper Sands,MIT,5635194,"Quantum algorithms on a simulated fault-tolerant quantum computer: logical error channels measured by circuit-level simulation, algorithms compiled to Clifford+T+Toffoli and run end to end."
+2026-10-30T05:55:23Z,eet-gateway-client,0.1.0,,MIT,38151,"Typed Python client for the EET Gateway HTTP API v1 (Czech EET 2.0), standard library only."
+2026-10-30T05:56:03Z,trazio-telemetry,0.3.0,Trazio <vc@hyperlake.cloud>,LicenseRef-Proprietary,37578,"Scoped telemetry, artifact, investigation, and semantic-query SDK"
+2026-10-30T05:58:46Z,oh-my-multica,2.0.0,oh-my-multica contributors,MIT,4420466,Production-grade software delivery control for coding-agent teams on Multica
+2026-10-30T06:01:21Z,simsit,1.0.0,LLNL SImSiT Team,MIT,1953571,A Python package for generating synthetic telescope images of stars and satellites.
+2026-10-30T06:02:45Z,aiosellers-nechel12,0.3.0,nechel12,Apache-2.0,425458,"All In One Sellers API - Universal async API for digital trading platforms (FunPay, PlayerOK, GGsel). Fork of Zewsic/aiosellers with a shared hub and a GGsel adapter."
+2026-10-30T06:05:17Z,zadam-gui-mcp,0.1.0,Zetta Technology Inc.,MIT,6338,Z-Adam GUI integration MCP server
+2026-10-30T06:07:15Z,collimate-sdk,0.1.0,Collimate SDK contributors,MIT,121788560,SDK for building Collimate generators and renderers
+2026-10-30T06:11:38Z,streamtime-sdk,1.1.17,,,2315544,Generated Python client for the Streamtime HTTP API.
+2026-10-30T06:14:23Z,aquamatrix-simar-mcp,0.1.0,Oldemar Jesus <oldemego@gmail.com>,MIT,621242,MCP server for reading Aquamatrix SIMAR billing data
+2026-10-30T06:17:19Z,tqdm-live,0.7.0,Bitgate <kevin@bitgate.com>,MIT,46838,"Stream your tqdm progress bars to any browser, realtime. Zero config."
+2026-10-30T06:18:57Z,glazed,0.1.0,Junha Lee <junha.lee@postech.ac.kr>,MIT,83431,"Studio-lit Blender Cycles renders of point clouds, meshes, and scenes mixing both."
+2026-10-30T06:19:05Z,monkeycode-sdk,1.7.0,cyqmq,MIT,68208,MonkeyCode 云平台 REST API 的 Python SDK（认证、任务提交、结果轮询）
