@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T09:13:14Z,mariepy,0.0.1,Matteo Cencini <matteo.cencini@gmail.com>,GPL-3.0-or-later,5955881,"Electromagnetic simulation of MRI transmit coils and virtual observation points for SAR, ported from MARIE 3.0."
+2026-10-30T09:13:52Z,codelaw-rules-deps,0.4.3,,MIT,13197,"codelaw's dependency rules: vulnerable packages and the version to move to, latest versions, the snapshot they read (SR-RULE-PACKS)"
+2026-10-30T09:17:21Z,globahire,0.1.0,mgkvibez,MIT,31960,Personal job radar: watch public boards for roles that match your stack and say the moment something drops.
+2026-10-30T09:20:48Z,hawdb,0.21.0,,Apache-2.0,73576748,HawDB Python bindings
+2026-10-30T09:21:14Z,crystall-search,0.5.4,"Ricardo Amaral <rna5137@psu.edu>, Adam Krajewski <adam@phaseslab.org>, Jonathan Siegel <jwsiegel@ta…",MIT,664139,"Data-driven crystal structure prediction and ergodic candidate ensemble discovery beyond the convex hull, embracing structural diversity and compositional uncertainty. Under name crystall-search on P…"
+2026-10-30T09:24:27Z,mujoco-core,0.0.0a0,Google DeepMind,Apache-2.0,1016,Reserved for MuJoCo refactoring; not yet usable.
+2026-10-30T09:24:27Z,pygridgain-dogpile,1.7.0,GridGain Systems <info@gridgain.com>,LicenseRef-Proprietary,45923,A dogpile.cache backend backed by the GridGain Python thin client
+2026-10-30T09:24:29Z,mujoco-studio,0.0.0a0,Google DeepMind,Apache-2.0,1029,Reserved for MuJoCo refactoring; not yet usable.
+2026-10-30T09:24:30Z,mujoco-usd,0.0.0a0,Google DeepMind,Apache-2.0,1007,Reserved for MuJoCo refactoring; not yet usable.
+2026-10-30T09:33:51Z,norvara-bed-lite,1.0.0rc1,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,179953,"Interval intersect, nearest-neighbour and summary over BED, GFF3 and GTF, from no third-party dependencies"
+2026-10-30T09:34:18Z,tokentracker-ai,0.2.1,mgkvibez,MIT,32844,"See where your agent sessions spend tokens: per session, per file, per skill."
+2026-10-30T09:34:33Z,etiny,0.1.0,,Proprietary,22978,"Elevation models for personal goals and pitch decks: pull versioned bundles, scan documents deterministically, entirely on your machine."
+2026-10-30T09:35:27Z,fcaai,0.4.0,FCA Studio LLC,MIT,59894,"Official Python client for the fcaai API — image, video, audio, 3D and chat generation behind one key."
+2026-10-30T09:37:36Z,x2power-simulator,0.1.0,Julian Ascencio Vasquez,,145940,Transparent feedstock-to-electricity simulation with explicit energy boundaries
+2026-10-30T09:41:36Z,onekey-sdk,0.1.2,OneKey,Apache-2.0,10298,Read OneKey project secrets at runtime with a runner or personal token.
+2026-10-30T09:43:31Z,aditum-mcp,0.1.0,Aditum Data,Apache-2.0,22359,"MCP server for Aditum: read your industrial data sources, pipelines, incidents and datasets from an AI assistant."
+2026-10-30T09:44:30Z,nonebot-plugin-number-meme,0.1.1,DXXLT,MIT,40691,把数字改写成「114514」或「6/7」风格等值表达式的 NoneBot 插件
+2026-10-30T09:45:41Z,deepx-python-sdk,0.2.7,DeepX <support@deepx.fi>,MIT,504109,"Python SDK for the DeepX exchange chain — direct substrate extrinsics, async transaction engine, and REST API client"
+2026-10-30T09:47:48Z,sm-renewal,0.3.0,stellarminds.ai,MIT,152940,"Extend-only, threshold-attested authority renewal for partitioned agent meshes"
+2026-10-30T09:48:48Z,stackit-registry,0.1.0,STACKIT Developer Tools <developer-tools@stackit.cloud>,,76823,STACKIT Container Registry API
+2026-10-30T09:50:31Z,dsh-memory-journal,0.1.0,,MIT,19707,轻量日记式长期记忆 MCP server：提供 memory_search/memory_get/memory_write/memory_weeks_missing_journal 等显式检索、写入与日记工具，配合 js-shell 的自动注入与设置页使用。
+2026-10-30T09:51:10Z,agent-terminal,0.1.0,Emmanuelprime <emmanuelprime2@gmail.com>,,5473,AAn MCP which adds terminal capabilities to AI agent
+2026-10-30T09:53:01Z,amoorion-tumblr,0.3.1,Sett Sarverott,MIT,6539,Tumblr plugin of amoorion: post and read through the Tumblr API v2
+2026-10-30T09:54:48Z,amoorion-x,0.3.1,Sett Sarverott,MIT,7084,"X (twitter) plugin of amoorion: post, read and reply through the X API v2"
+2026-10-30T09:57:25Z,spiral-worker,0.0.1,,MIT AND LicenseRef-Spiral-libspiral,121927794,Execute Spiral Tasks locally.
+2026-10-30T09:58:08Z,codelaw-rules-deps-fux-index,0.4.3,,MIT,14169,"A Fux index of codelaw's deps rules, for fux_search. Optional; install beside codelaw-rules-deps."
+2026-10-30T10:02:07Z,ccpbiosim-sphinx-theme,1.0.0,Harry Swift <harry.swift@stfc.ac.uk>,,221452,"Sphinx theme for CCPBioSim documentation, matching ccpbiosim.org"
+2026-10-30T10:08:13Z,oaax,0.1.0,Josef Joubert <jjoubert@networkoptix.com>,Apache-2.0,56760,"Python bindings for OAAX runtime libraries (interface.h, OAAX 2.0)"
+2026-10-30T10:13:22Z,gridquill,0.1.1,,MIT,67916,Reactive grid-based diagrams with nested canvases and editable Excalidraw output
+2026-10-30T10:17:43Z,flowbars,0.1.0,Syed Qaisar Jalil,MIT,326704,"Production-grade bar construction for financial ML — standard and information-driven bars, correct per AFML."
+2026-10-30T10:17:52Z,dex-connectors-sdk,0.1.0,,MIT,207064,Python core for Dex-native provider connectors
+2026-10-30T10:18:58Z,extf,0.1.0,,Apache-2.0,79307,"Read and write files in the DATEV format (EXTF): bookings, account labels, personal accounts."

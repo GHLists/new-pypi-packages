@@ -1,34 +1,12 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-10-30T08:19:14.433917Z",
-    "path": "data/new-packages-2026-10-30T09-18-55-330652Z.csv",
-    "to": "2026-10-30T09:18:55.330652Z"
+    "count": 32,
+    "from": "2026-10-30T09:18:55.330652Z",
+    "path": "data/new-packages-2026-10-30T10-21-22-90683Z.csv",
+    "to": "2026-10-30T10:21:22.90683Z"
   },
-  "pending": [
-    {
-      "attempts": 1,
-      "created_at": "2026-10-30T09:13:52Z",
-      "package": "codelaw-rules-deps",
-      "since": "2026-10-30T08:19:14.433917Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-30T09:17:21Z",
-      "package": "globahire",
-      "since": "2026-10-30T08:19:14.433917Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-30T09:13:14Z",
-      "package": "mariepy",
-      "since": "2026-10-30T08:19:14.433917Z",
-      "version": null
-    }
-  ],
-  "serial": 42958506,
+  "pending": [],
+  "serial": 42961133,
   "source_truncated": false,
-  "window": "2026-10-30T09:18:55.330652Z"
+  "window": "2026-10-30T10:21:22.90683Z"
 }
