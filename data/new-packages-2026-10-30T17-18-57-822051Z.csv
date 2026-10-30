@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T16:20:14Z,pycg3,0.2.0,Jack Rueter,GPL-3.0-or-later,91733,Pure Python VISL CG-3 (Constraint Grammar 3) engine that runs the grammars you provide
+2026-10-30T16:30:21Z,simplint,0.1.0,Bernat Gabor <gaborjbernat@gmail.com>,MIT,20658751,Ruff companion linter enforcing the simp house style
+2026-10-30T16:33:02Z,jupyterlab-xdg-open-url-extension,0.1.8,Stellars Henson <konrad.jelen+github@gmail.com>,BSD-3-Clause,470870,Jupyterlab extension to handle xdg_open push from terminal such that it will launch notification (using jupyterlab_notifications_extension) with action to open that link and (if possible) that will a…
+2026-10-30T16:33:45Z,aimanic-email,0.0.0,,,2252,"Name holder. The real aimanic-email is on AiManic's own package index, not PyPI."
+2026-10-30T16:35:41Z,tiktoken-fast,0.1.3,,MIT,5830133,"A faster drop-in for tiktoken: the same token ids, encoded by a new Rust core"
+2026-10-30T16:36:21Z,uncle,1.2.0,,,16092,uncle.show('hmac') -> the exact codes from your CIS Practical Exam Revision Sheet
+2026-10-30T16:38:00Z,simdref-llvm-mc,23.1.4,Marco Barbone <mbarbone@flatironinstitute.org>,Apache-2.0 WITH LLVM-exception,21595704,"The llvm-mc assembler from LLVM (X86, AArch64, RISCV) and the Intel XED decoder as a pip wheel"
+2026-10-30T16:39:53Z,cpp-pinyin2,2.0.0,,Apache-2.0 AND CC-BY-SA-3.0 AND CC-BY-SA-4.0,3451100,Chinese (Mandarin + Cantonese) pinyin conversion driven by a native C++ engine
+2026-10-30T16:40:34Z,AFCOM,1.9.1,Mehmet Cagri Aksoy,,155400,AFCOM - a PySide6 serial communication GUI client.
+2026-10-30T16:40:35Z,unary-mast,1.0.0,Imad Barakat <imad1-barakat@icloud.com>,MIT,4123,Unary C codes in Python
+2026-10-30T16:41:28Z,glia-cli,0.5.4,James Chahwan,,180781269,"glia, the cross-language code-graph engine, as a command-line tool: find, blast-radius, trace, review and more over one graph of your repo."
+2026-10-30T16:41:34Z,subjectdb,1.0.0,Fayed Rassoulou,MIT AND OFL-1.1 AND ISC,8000426,Desktop app to register study participants across research projects (SQLite + Qt).
+2026-10-30T16:41:40Z,marqov-mcp,0.3.1,,Apache-2.0,238999,MCP server for the Marqov quantum orchestration platform
+2026-10-30T16:42:41Z,timeserieslab,0.1.1,Raunak,,8871,Time Series Lab Practice Source Code Viewer
+2026-10-30T16:44:22Z,organizarquivo,0.1.0,Eduardo,MIT,10071,Organize files automatically into folders based on their extensions.
+2026-10-30T16:45:27Z,boltage,2026.10.30.1,Bart Broere,GPL-3.0-or-later,86443,"neo4j-browser and Neo4j drivers on top of PostgreSQL, using Apache AGE as the graph engine"
+2026-10-30T16:45:43Z,icecore-dbt,0.0.1,Crithink,Apache-2.0,10933,"Python tooling for icecore, a Snowflake-native dbt observability package by Crithink (in development)."
+2026-10-30T16:46:25Z,experiment-core,0.1.0,FanHarvard contributors,MIT,86111,Domain-neutral contracts and local runtime for supervised experimental operations
+2026-10-30T16:46:25Z,fanharvard-agentbridge,0.1.0,FanHarvard contributors,MIT,77588,Local and LAN messaging between independently identified coding agents
+2026-10-30T16:46:44Z,forecastpanel,0.1.1,Merwan Roudane <merwanroudane920@gmail.com>,MIT,4605689,"Forecasting with panel data: individual, pooled, FE, RE, empirical Bayes and optimal combinations"
+2026-10-30T16:47:13Z,sentinelx-labs,0.1.1,SentinelX Labs,MIT,12662265,Numbered ethical hacking practical reference and code viewer
+2026-10-30T16:48:52Z,cfgaudit,1.19.0,,Apache-2.0,13988816,Security auditor for AI-agent configuration files
+2026-10-30T16:49:36Z,ziptrend,0.1.0,Sam Oliver,MIT,321233,Explore US ZIP-code observations across geography and time
+2026-10-30T16:50:27Z,bluecore-graph-toolbox,2.0.0,,Apache-2.0,23098,Airflow Plugin for Blue Core Toolbox
+2026-10-30T16:51:32Z,ldcon,0.2.1,FanHarvard contributors,MIT,3778800,"Laser operations, physical owners and fleet presentation"
+2026-10-30T16:52:00Z,threattrove,2.0.0,threattrove,MIT,59718,"Self-hosted reputation lookup for file hashes, URLs, domains and IPs"
+2026-10-30T16:52:15Z,lanstreamer-sdk,1.0.0,,MIT,11491,Write input plugins for lan-streamer
+2026-10-30T16:57:38Z,periorisk,1.0.0,Hossein Boustani Hezarani,MIT,351132,"Periodontitis risk screening from 14 self-reported questions: an open, temporally validated, calibrated model (NHANES 2009-2014) with a dependency-free Python package and a private in-browser app."
+2026-10-30T17:00:04Z,dine-mcp,0.2.3,benjamin-di,Apache-2.0,767393,"Restaurant table availability across booking systems (SevenRooms, TableCheck, ResDiary, …) as an MCP server"
+2026-10-30T17:00:33Z,churchtools-api-rs,0.1.0,,MIT AND CC-BY-4.0,19473189,Synchronous ChurchTools REST API client with a Rust core and Pydantic models
+2026-10-30T17:00:39Z,amacs,0.2.0,Aditya Padale <adityapadale25@gmail.com>,MIT,181088,Adaptive Multi-Agent Coordination System — add multi-agent AI coordination to any function with a single decorator.
+2026-10-30T17:03:41Z,langchain-hyperresearch,0.1.0,Hyperresearch,MIT,26831,"LangChain integration for Hyperresearch Answers: a cited, quote-checked answer tool, a raw-source search tool and a retriever."
+2026-10-30T17:04:08Z,update-dependencies,0.1.0,Jesse Goodier,MIT,88617,"Update Python dependencies, GitHub Actions, Docker digests, and pre-commit hooks."
+2026-10-30T17:14:23Z,conversor3mf,0.1.0,Johnny Welton,MIT,70835,"Convert Bambu Lab / MakerWorld multicolor 3MF projects to the Anycubic Kobra X, in the slot order of your ACE, with an MCP server for Claude"
+2026-10-30T17:14:41Z,biosnn-mcp,0.2.0,离中梦蝶 <269058959+lzmd-arch@users.noreply.github.com>,Apache-2.0,68511,BioSNN-Plug 阶段五 MCP 服务器：4 个只读工具 + 5 个提议工具（propose.*，只改内存替身核），默认只读、逐调用 JSONL 审计，不依赖 LLM
+2026-10-30T17:17:45Z,agentbuildkit,0.1.0,,Apache-2.0,479798,Open-source Python harness for building reliable AI agents.
