@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T06:19:48Z,qiskitcode,0.1.0,HAFIZ,MIT,5983,Quantum Lab Practicals: print theory + Qiskit code for all practicals on the terminal
+2026-10-30T06:22:43Z,xippios-x,0.1.0,XIPPIOS GmbH,Apache-2.0,233298,"Typed client, MCP tools and HTTP routes for X API v2"
+2026-10-30T06:23:40Z,rcs-flexiv,0.7.4,Tobias Juelg <tobias.juelg@utn.de>,AGPL-3.0-or-later,18475,RCS Flexiv module
+2026-10-30T06:23:45Z,trayce,0.1.1,,MIT,159236,"Python SDK for Trayce, observability and evals for LLM agents"
+2026-10-30T06:24:29Z,ultron-t2s-toolkit,0.0.1,Gobal Krishnan V <gobalkrishnan.work@gmail.com>,MIT,18955,Text to Speech Reader
+2026-10-30T06:26:32Z,opsrdo,1.0.0,Gaurav Datta,MIT,520891,"Robust design optimisation of building frames under seismic uncertainty with OpenSeesPy: nonlinear pushover and time history, surrogates, benchmarks"
+2026-10-30T06:30:20Z,hydromancer-mcp,0.1.0,Hydromancer BV,MIT,59975,"Read-only MCP server for the Hydromancer Hyperliquid API: wallets, top traders, markets, funding and liquidations"
+2026-10-30T06:31:57Z,monorm,0.1.0,mh-alahdadi <mhalah15@gmail.com>,MIT,164891533,Async Python ORM with a Rust core
+2026-10-30T06:33:06Z,agent-squad-hq,0.1.0.dev4,Bera Software & Consultancy Ltd,Apache-2.0,2782474,"An AI software team that runs in your GitHub org: shape, design, build, review, secure and ship."
+2026-10-30T06:35:30Z,hf-rs-python,0.3.2,ss0832,Apache-2.0,12463638,"Pure Rust ab initio electronic structure engine for Hartree-Fock variants, post-HF electron correlation (MP2-MP8, CC, CI, CASSCF/CASPT2, F12, Selected CI, GASCI, DMRG, DSRG), and exact analytical nuc…"
+2026-10-30T06:36:54Z,dj-ratelimit-middleware,1.0.0,,MIT,85149,Configurable Django Cache and Redis rate limiting for Django and ASGI applications
+2026-10-30T06:37:11Z,heinzel-clock,0.9.1,,MIT,180560,What time it is for everyone on the team: a Heinzelmännchen plugin.
+2026-10-30T06:38:52Z,heinzel-resource,0.1.0,,MIT,61313,"Machine CPU, memory and load with a compact visualizer."
+2026-10-30T06:40:34Z,heinzel-tailscale,0.9.1,,MIT,101961,Share the authenticated web app privately through Tailscale Serve: a Heinzelmännchen plugin.
+2026-10-30T06:40:37Z,assurance-lab,0.1.0a11,AssuranceLab research group,Apache-2.0,53852,Evidence-first enterprise cyber-assurance contracts and deterministic audit decisions
+2026-10-30T06:42:19Z,heinzel-theme,0.1.0,,MIT,68190,The Heinzelmännchen theme and its soundscapes.
+2026-10-30T06:44:02Z,gobalkrishnan-t2s,0.0.2,Gobal Krishnan V <gobalkrishnan.work@gmail.com>,MIT,19001,Text to Speech Reader
+2026-10-30T06:44:40Z,directory-tree-html,0.2.0,,,34380,Generate a searchable single-page Element Plus directory tree with file previews.
+2026-10-30T06:44:47Z,tif1-native,0.2.0,,MIT,2224422,Optional native accelerators for tif1 (telemetry payload decoder)
+2026-10-30T06:46:17Z,lexaudit,0.1.0,Vadim Nareyko,AGPL-3.0-or-later,1371703,"Locale vocabulary audit: inventeds, calques, foreign slips; page ranking for rewrite agents"
+2026-10-30T06:48:16Z,heinzel-weather,0.4.0,Helmut Hoffer von Ankershoffen <helmuthva@gmail.com>,MIT,131947,"Weather where you are, keyless from Open-Meteo (or OpenWeather with your key): now, the next hours and days, and a heads-up when it changes."
+2026-10-30T06:49:19Z,eraflow,0.1.0a1,,MIT,243643,ERAF 协议的 Python 接入 SDK，统一提供身份与凭据自动安装、轮换恢复、Edge 请求验签、实时鉴权及运行状态诊断，简化服务的 External API 接入。
+2026-10-30T06:49:50Z,alis-build-alog,0.1.0,"Alis Build <admin@alis.build>, Newton Nthiga <newton@alisx.com>, Daniel van Niekerk <daniel.van.nie…",Apache-2.0,77909,Structured logging for services on the Alis Build platform
+2026-10-30T06:50:02Z,fastapi-gemini-blueprint,2.0.0,ShipAI Studio <shipai@users.noreply.github.com>,MIT,9220,"2026 Production Architecture Blueprint for FastAPI + Google Gemini Structured JSON (Pydantic v2, 3-Model Failover & SaaS Credit Quotas)"
+2026-10-30T06:50:31Z,shipai-micro-saas,2.0.0,ShipAI Studio,MIT,7339,ShipAI v2.0 — FastAPI + Google Gemini AI Micro-SaaS Boilerplate & 5 Vertical SaaS Presets
+2026-10-30T06:51:12Z,navital-gym,1.0.1,Navital Labs <dakshbathla@navitallabs.com>,Apache-2.0,426745,"Navital Gym: deterministic, auto-graded environments for AI agents doing Indian-reality tasks (Navital Labs)."
+2026-10-30T06:51:27Z,alis-build-iam,0.1.0,"Alis Build <admin@alis.build>, Newton Nthiga <newton@alisx.com>, Daniel van Niekerk <daniel.van.nie…",Apache-2.0,151519,Authentication and authorization for services on the Alis Build platform
+2026-10-30T06:52:24Z,fakecspace,0.2.0,"UC Berkeley Research, Teaching, and Learning",LicenseRef-UC-Regents,68654,"A small simulated CollectionSpace services API, for developing and testing UC Berkeley's CollectionSpace apps. Not CollectionSpace; never use it with real data."
+2026-10-30T06:52:28Z,cad3d-ir-edrawings,0.3.0,neka-nat,MIT,74949,eDrawings (EPRT/EASM) importer for cad3d-ir through edrawings-kit's display bundles
+2026-10-30T06:52:40Z,heinzel-example,0.4.0,Helmut Hoffer von Ankershoffen <helmuthva@gmail.com>,MIT,60698,Show how a Heinzelmännchen plugin is built.
+2026-10-30T06:52:41Z,alis-build-lro,0.1.0,"Alis Build <admin@alis.build>, Daniel van Niekerk <daniel.van.niekerk@alisx.com>, Newton Nthiga <ne…",Apache-2.0,81537,Long-running operations for services on the Alis Build platform
+2026-10-30T06:54:30Z,cubismlogto,0.1.0,Li lingyi,WTFPL,12720,An unofficial Logto SDK for FastAPI & SQLAlchemy.
+2026-10-30T06:55:58Z,databuck-sdk,0.5.46,DataBuck,,94563,DataBuck data quality SDK for PySpark and Databricks
+2026-10-30T06:57:33Z,printbox,0.2.51,,MIT,319838,Turn a minimal Linux box into a headless print server (CUPS / AirPrint / Mopria / WS-Discovery / WebUI / archive).
+2026-10-30T06:59:33Z,draw-win32,0.1.0,,MIT,11830,A lightweight Win32 drawing library for Python
+2026-10-30T07:02:46Z,heinzel-github,0.9.1,,MIT,109155,Read pull requests and issues from GitHub: the code-host and tracker capabilities.
+2026-10-30T07:04:29Z,pydantic-to-ts,0.1.0,Nivan Panghal,MIT,9551,A lightweight CLI tool to convert Python Pydantic models into TypeScript interfaces.
+2026-10-30T07:04:52Z,readthrough,0.4.0,Spencer Schoenberg,MIT,1317318,"Lay a repo's open pull requests out on its architecture, then study each one before you review it."
+2026-10-30T07:09:53Z,pitchmentor,0.1.1,Pitch Mentor,MIT,34232,Official Python SDK for the Pitch Mentor API (real-time AI sales coaching).
+2026-10-30T07:12:55Z,xutk-tools,0.1.0,Zelin2001,Apache-2.0,59226,"Xulab standalone command-line tools (zero dependency, Python >= 3.8)"
+2026-10-30T07:16:56Z,heinzel-atlassian,0.9.1,,MIT,123157,Read Jira issues and Confluence pages through acli: the tracker and documents capabilities.
+2026-10-30T07:17:40Z,ipm14-mcp,1.0.0,,LicenseRef-Proprietary,89340,MCP server for Petroleum Experts IPM 14.0 (PROSPER / MBAL / GAP) driven through OpenServer COM
+2026-10-30T07:19:35Z,panshi,0.1.26,Quant1X,MIT,297512,Quant1X Foundations
