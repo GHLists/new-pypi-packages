@@ -1,0 +1,17 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T03:19:17Z,vertebra-core,0.1.0,,MIT,84168801,Python-first application backbone with Rust IPC primitives
+2026-10-30T03:21:33Z,log-utils-sdk,0.4.1,Willy Polychenko,,20922,Utils for generic python logging package
+2026-10-30T03:23:29Z,janelkit-desktop,0.1.0,d4ndres <d4ndres@gmail.com>,MIT,24754,"Diálogos nativos, portapapeles y notificaciones del sistema para JanelKit"
+2026-10-30T03:25:20Z,anycrew,0.1.1,anycrew contributors,MIT,157041,"One crew of specialist AI agents for any coding assistant. Spec-driven, test-first, security-reviewed, model-tiered. Installs into Claude Code, OpenAI Codex, Google Antigravity, Cursor, OpenCode and…"
+2026-10-30T03:25:53Z,devlog-tool,1.6.1,Mico Arenga,MIT,283323,A terminal-based developer journal tool
+2026-10-30T03:27:08Z,pysecrets-easter,1.0.0,,"MIT License Copyright (c) 2026 rdpremlata2008-jpg Permission is hereby granted, free of charge, to…",8573,Discover fun Python Easter eggs and coding surprises.
+2026-10-30T03:38:58Z,vsql-python,1.0.0,Elliot Chance <elliotchance@gmail.com>,MIT,104019577,"A DB-API 2.0 (PEP 249) driver for vsql, a single file or in-memory SQL database."
+2026-10-30T03:39:44Z,markdown-table-gen,0.1.0,Mr. Sherman,MIT,5805,A Python library for easily generating Markdown tables
+2026-10-30T03:41:07Z,kitconcept.maintenancebanner,1.0.0a1,kitconcept GmbH <info@kitconcept.com>,GPL-2.0-only,163188,Volto Maintenance Banner
+2026-10-30T03:50:28Z,stdid-nyxprobe,0.0.2,nyx,MIT,2304,stdid install beacon probe
+2026-10-30T03:59:43Z,unest-mlx,0.2.3,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0 AND BSD-3-Clause,63115,Native MLX UNesT network and NumPy sliding-window predictor
+2026-10-30T03:59:52Z,mlx-generate,0.4.1,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,2344986,Native MLX implementation of NV-Generate (MAISI)
+2026-10-30T03:59:58Z,med-vlm-mlx,0.2.2,Alfredo Sandoval,MIT AND Apache-2.0,838930,MedGemma and Lingshu medical vision-language inference on Apple Silicon.
+2026-10-30T04:02:10Z,relaywa-sdk,0.1.1,,MIT,13701,"RelayWA server-side Python SDK for messaging, sessions and webhooks"
+2026-10-30T04:02:37Z,medmlx,0.3.2,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,100157,"MedMLX Python API, CLI, and MCP for independent medical imaging runtimes"
+2026-10-30T04:04:23Z,bitlanglang,0.1.0,"""BIT LangLang (BIT浪浪)"" <support@bitlanglang.com>",MIT,17135,"BIT LangLang (BIT浪浪) crypto perpetual-futures intraday strategy toolkit: 22 5m features, daily bull-regime filter, cooldown/cap selector, and 4,807 OKX settled trades analyzer."
