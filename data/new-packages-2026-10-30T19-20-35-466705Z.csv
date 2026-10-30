@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T18:17:43Z,cerebrollm,0.1.0,sourav-patra,MIT,108190,"Local retrieval over your own authoritative documents. Every answer carries a quote that a check confirms, or says it is not in the sources."
+2026-10-30T18:21:12Z,noqtis,0.1.1,Vansh Singh Ruhela,Apache-2.0 WITH LLVM-exception,3042000,"Post-quantum signatures, KEMs and sealed file capsules (ML-DSA, SLH-DSA, ML-KEM, HQC) in one C library"
+2026-10-30T18:22:50Z,archie-client-model,0.0.0,Blitzy,,1222,Reserved name for an internal Blitzy package. Contains no code.
+2026-10-30T18:22:51Z,blitzy-client-utils,0.0.0,Blitzy,,1223,Reserved name for an internal Blitzy package. Contains no code.
+2026-10-30T18:22:52Z,blitzy-flask-utils,0.0.0,Blitzy,,1215,Reserved name for an internal Blitzy package. Contains no code.
+2026-10-30T18:22:53Z,blitzy-local-jobs,0.0.0,Blitzy,,1205,Reserved name for an internal Blitzy package. Contains no code.
+2026-10-30T18:23:21Z,gpynb,0.1.0,igaurab,,225163,"A reactive Python notebook in the terminal, built on Textual"
+2026-10-30T18:26:25Z,seaone,0.1.0,,,21991,
+2026-10-30T18:26:28Z,shubham-rawat-101,0.2.0,Shubham Rawat <rawatshub97@gmail.com>,,4875,My first package!
+2026-10-30T18:36:41Z,neurolume,0.1.0,Freddie Ellis,MIT,6316087,"See your PyTorch and Keras models as interactive diagrams, and watch them train."
+2026-10-30T18:38:36Z,regdiff,3.6.2,,,6953,Regularized differentiation of time-series as numpy ndarrays
+2026-10-30T18:42:56Z,avm-effectproof,0.1.1,AlgoVoi <chopmob@gmail.com>,Apache-2.0,31094,"Application-effect proofs for Algorand and Voi: read inner transactions, logs and state deltas out of an authenticated SignedTxnInBlock."
+2026-10-30T18:43:08Z,papers-as-code,0.1.0,Lawrence Borst,MIT,4669,"reproducible, shareable scientific papers"
+2026-10-30T18:43:09Z,avm-mesh,0.4.2,AlgoVoi <chopmob@gmail.com>,Apache-2.0,99150,Settlement receipts for the AVM mesh: digest-and-pointer evidence that resolves to a verifiable proofpack
+2026-10-30T18:45:06Z,crawlora-wattpad,0.1.0,Crawlora,MIT,50299,"Crawlora Wattpad API client with 11 endpoints for story, author, search, category, language, and public comment data"
+2026-10-30T18:46:32Z,clarify-kit,0.0.1a1,carlos-space,MIT,5066,Markdown documentation toolkit prototype (alpha): generate a table of contents from headings.
+2026-10-30T18:46:40Z,raztr,0.0.1,Marcos Llobera,,2674,"Raster calculations on NumPy and SciPy, on the processor or the graphics card (in development: this is a placeholder release)"
+2026-10-30T18:47:07Z,medpqc,1.0.0,"Muhammad Khubaib Ahmad <khubaib.ahmad@inference-lab.org>, Muhammad Khubaib Ahmad <muhammadkhubaibah…",MIT,55421,High-Performance Hybrid Post-Quantum Medical Image Encryption Engine
+2026-10-30T18:48:08Z,crawlora-reelshort,0.1.0,Crawlora,MIT,50915,"Crawlora ReelShort API client with 11 endpoints for title discovery, search, movie details, new releases, and public Fandom articles"
+2026-10-30T18:50:35Z,nixtra,0.0.1,Intellinix <ankur@nixtra.tech>,,3039,Nixtra: give your agent DNA. Genome packs for AI agents. The full SDK is coming soon.
+2026-10-30T18:50:37Z,promptex-kit,0.0.1a1,promptex-ai,MIT,4932,Prompt template toolkit prototype (alpha): fill {{var}} placeholders in a prompt template.
+2026-10-30T18:51:08Z,crawlora-dramabox,0.1.0,Crawlora,MIT,54148,"Crawlora DramaBox API client with 16 endpoints for title discovery, categories, search, rankings, recommendations, and public title details"
+2026-10-30T18:51:29Z,luckylucy.utils.tg-bots.gitinfo,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,10545,A collection of utilities I use across different projects (luckylucy.utils.tg_bots.gitinfo)
+2026-10-30T18:51:45Z,meds-algorithm,0.4.0a4,,MIT,196517,Shared MEDS algorithm contracts and conformance boundaries.
+2026-10-30T18:52:55Z,luckylucy.utils.tg-bots.language,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,11306,A collection of utilities I use across different projects (luckylucy.utils.tg_bots.language)
+2026-10-30T18:54:18Z,crawlora-wallapop,0.1.0,Crawlora,MIT,46702,"Crawlora Wallapop API client with 5 endpoints for public listing search, categories, filters, and item details"
+2026-10-30T18:54:54Z,evidence-ledger-mcp,0.1.0,Matthias Kloft,"MIT License Copyright (c) 2026 Matthias Kloft Permission is hereby granted, free of charge, to any…",55709,MCP server through which agents write and check evidence ledgers for the citations in a work.
+2026-10-30T18:55:14Z,crazy-complete,0.3.10,Benjamin Abendroth,GPL-3.0-or-later,289318,Generate shell completion files for all major shells
+2026-10-30T18:55:56Z,overgrant,0.1.0,,MIT,48282,"Local security scan of AI coding-agent setups (Claude Code, Codex, Cursor, MCP)"
+2026-10-30T18:56:24Z,tinydelta,1.1.0rc1,Simon Bjerg,MIT,3230671,Tiny binary patches for small devices
+2026-10-30T18:57:29Z,spaclone,1.0.0,Chen Satoshi <103236530+Reynold4k@users.noreply.github.com>,"MIT License Copyright (c) 2026 Chen Satoshi (Reynold4k) Permission is hereby granted, free of charg…",2293536,Is spatial immune-receptor data spatial? Calibrated location-trust tests and clonal concentration maps for spatial BCR/TCR data.
+2026-10-30T18:57:38Z,landuse-projector,0.1.0,Naren Karthik B M,BSD-3-Clause,247856,Land-use change projection with patch-generating cellular automata
+2026-10-30T18:57:49Z,genui-py,0.0.1,Aditya Kumar Singh,MIT,2488,"Generative UI for Python agents: stream OpenUI Lang to any React frontend. Free, self-hosted, zero telemetry. (Install: pip install genui-py · import genui. First release coming soon.)"
+2026-10-30T18:59:35Z,choroxplorer,0.0.1,Marcos Llobera,,2514,Digital landscape analyzer (in development: this is a placeholder release)
+2026-10-30T18:59:52Z,tnzr,0.0.1,Marcos Llobera,,2381,Geospatial tensor package (in development: this is a placeholder release)
+2026-10-30T19:00:07Z,triangulr,0.0.1,Marcos Llobera,,2464,Triangulations and triangulated surfaces (in development: this is a placeholder release)
+2026-10-30T19:04:05Z,saurus-cli,0.1.0,Brown Beckley <brownbeckley94@gmail.com>,MIT,26582002,🦖 Command-line interface for querying the SAURUS Staphylococcus aureus genomic surveillance database 🦖
+2026-10-30T19:05:51Z,meltanolabs-tap-aws-cost-explorer,0.1.0,Albert Marrero,MIT,148056,"Singer tap for AWS Cost Explorer, built with the Meltano Singer SDK."
+2026-10-30T19:07:18Z,RocSlope2Scripting,1.0.0,Rocscience,MIT,197982,Client library for interacting with RocSlope2 through Python
+2026-10-30T19:07:27Z,safewrite-mcp,0.2.0,Sahithi Kanjarla,MIT,62030,"A database MCP server where every agent write is previewed, approved by a human, and undoable. Includes a reproducible red-team benchmark."
+2026-10-30T19:08:42Z,meds-algorithm-template,0.4.0a1,,MIT,181950,"A minimal, contract-first Copier template for MEDS algorithm repositories."
+2026-10-30T19:08:51Z,auto-context-cli,1.0.0,Arghya Biswas,MIT,97761,Autonomous context & instruction manager for AI coding assistants
+2026-10-30T19:12:03Z,groundtruth-company,0.1.0,,MIT,23746,"One call for everything public about a company, from its domain: registrar, DNS, tech stack, hiring, and how to reach it. Python client for the Ground Truth API. No dependencies."
+2026-10-30T19:13:10Z,arontel-messaging,0.1.0,Arontel,MIT,30822,Synchronous and asynchronous Python clients for Arontel Messaging
+2026-10-30T19:14:37Z,shubham-package-101,0.2.0,Shubham Rawat <rawatshub97@gmail.com>,,4898,My first package!
+2026-10-30T19:16:47Z,scpi-replay,0.1.0,Ralf Steinert,MIT,83102,Record SCPI raw-socket traffic through a proxy into JSONL cassettes and replay them
+2026-10-30T19:19:36Z,mlp-jupyter,0.1.0,MLP Contributors,MIT,40872,MLP: Machine Learning Python package for Jupyter Notebook integration.

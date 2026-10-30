@@ -1,69 +1,69 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-10-30T17:18:57.822051Z",
-    "path": "data/new-packages-2026-10-30T18-18-55-939885Z.csv",
-    "to": "2026-10-30T18:18:55.939885Z"
+    "count": 47,
+    "from": "2026-10-30T18:18:55.939885Z",
+    "path": "data/new-packages-2026-10-30T19-20-35-466705Z.csv",
+    "to": "2026-10-30T19:20:35.466705Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-10-30T18:17:43Z",
-      "package": "cerebrollm",
-      "since": "2026-10-30T17:18:57.822051Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-30T16:06:38Z",
       "package": "jitxlib-gerber",
       "since": "2026-10-30T15:19:14.393987Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-10-30T16:06:30Z",
       "package": "jitxlib-odb",
       "since": "2026-10-30T15:19:14.393987Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-30T17:06:26Z",
       "package": "rn-forge-auth",
       "since": "2026-10-30T16:18:58.524928Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-30T17:07:02Z",
       "package": "rn-forge-django",
       "since": "2026-10-30T16:18:58.524928Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-30T17:07:10Z",
       "package": "rn-forge-fastapi",
       "since": "2026-10-30T16:18:58.524928Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-30T17:06:41Z",
       "package": "rn-forge-sqlalchemy",
       "since": "2026-10-30T16:18:58.524928Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-30T17:06:51Z",
       "package": "rn-forge-tooling",
       "since": "2026-10-30T16:18:58.524928Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-30T19:19:58Z",
+      "package": "sonarithm",
+      "since": "2026-10-30T18:18:55.939885Z",
+      "version": "0.1.0a0"
     }
   ],
-  "serial": 42980777,
+  "serial": 42982720,
   "source_truncated": false,
-  "window": "2026-10-30T18:18:55.939885Z"
+  "window": "2026-10-30T19:20:35.466705Z"
 }
