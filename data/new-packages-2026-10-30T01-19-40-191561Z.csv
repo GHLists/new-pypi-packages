@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T00:23:54Z,mantis-core,0.1.9,Louis Zhuang <louis.zhuang@acm.org>,,1861,core routines for MANTIS
+2026-10-30T00:25:00Z,umf-access,0.1.0.dev8,,MIT OR Apache-2.0,580062,Local prerelease typed access runtime; target qualification pending
+2026-10-30T00:25:59Z,aitana-pipelines,0.1.0,Yannik Behr <y.behr@gns.cri.nz>,,670513,Reproducible workflows that run and evaluate aitana components for volcano monitoring.
+2026-10-30T00:27:01Z,mantis-ui,0.1.9,Louis Zhuang <louis.zhuang@acm.org>,,1781,UI for MANTIS
+2026-10-30T00:27:40Z,miraw,0.3.0,Albert Pla Planas,MIT,3596071,"miRNA target prediction with deep learning: a Python/PyTorch reimplementation of miRAW (Pla et al., PLoS Comput Biol 2018)"
+2026-10-30T00:28:39Z,gla-api,1.0.0,ATEC (Advancement Through Engineering & Creation),Proprietary,4975498,"The official library for GLA (Graph-Language Assistant) models by ATEC - run, serve and manage them from Python or as an OpenAI-compatible API server"
+2026-10-30T00:30:44Z,thonny-p-ai-token,0.1.0,,,11249,Experimental AI request plugin for Thonny
+2026-10-30T00:32:15Z,geoai-change,0.3.1,William Bright Asomani,MIT,31924,Simple and practical change detection between satellite/aerial images
+2026-10-30T00:38:13Z,qcloudsched,1.0.1,"Goutam Parashuram Gotur <goutamgotur2006@outlook.com>, ""Dr. E Saravana Kumar"" <sarainfo@gmail.com>",MIT,124134,"A Python-native cloud computing simulation framework for modelling cloud infrastructures, resource allocation, scheduling algorithms, and virtual machine management."
+2026-10-30T00:38:21Z,photocopier-cli,0.9.0,Daniel Murrell <dsmurrell@gmail.com>,MIT,22594,"Back up photos and videos to external drives — organised by date, de-duplicated, and verified."
+2026-10-30T00:38:36Z,sssea,0.0.2,Charles Tapley Hoyt,MIT,77049,A simple standard for sharing entity annotations
+2026-10-30T00:41:14Z,skim-python,0.0.1,Benedict Johannes,MIT,34529,"Language-aware, AST-resilient outline and verbatim code extractor for Python tailored for AI agents"
+2026-10-30T00:43:43Z,autofab,0.2.0,Sean McDirmid <mcdirmid@outlook.com>,Apache-2.0,5143528,"Literate, specification-driven software engineering framework for autonomous AI pair-programming"
+2026-10-30T00:43:49Z,autofab-py,0.2.0,Sean McDirmid <mcdirmid@outlook.com>,Apache-2.0,400724,Python methodology and verification tools for the Autofab framework
+2026-10-30T00:43:55Z,pretense-py,0.2.0,Sean McDirmid <mcdirmid@outlook.com>,Apache-2.0,109245,Lightweight stateful property testing and behavioral contract framework
+2026-10-30T00:45:57Z,elastica,1.0.0,Diego Tepichin,MIT,47981,"Causal price elasticity from transaction data with double machine learning, and the profit-maximizing price that follows."
+2026-10-30T00:47:54Z,janelkit,0.1.0,d4ndres <d4ndres@gmail.com>,MIT,513128,Componentes de archivo único (.janel) para aplicaciones de escritorio con Python y Qt Quick
+2026-10-30T00:50:21Z,habit-hooks-csharp,0.1.0,,MIT,3426963,The C# Habit Hooks plugin
+2026-10-30T00:57:47Z,VHDLDomain,0.2.0,Patrick Lehmann,Apache-2.0,66982,A Sphinx domain providing VHDL language support.
+2026-10-30T00:58:48Z,boundary-latch,0.1.0,Matt Grofsky,AGPL-3.0-only,122982,"Latch, a Boundary Lab tool that checks AI tool calls before they run"
+2026-10-30T00:59:40Z,angee-django-stubs,6.1.2.post1,Maksim Kurnikov,MIT,869724,Angee's Django stubs with native composition typing hooks
+2026-10-30T00:59:41Z,angee-django-stubs-ext,6.1.2,Simula Proxy,MIT,18187,Runtime extensions for Angee's Django stubs
+2026-10-30T00:59:42Z,angee-mypy,2.1.0,Jukka Lehtosalo <jukka.lehtosalo@iki.fi>,MIT,6597107,Angee's mypy fork with native typing extension hooks
+2026-10-30T01:01:06Z,mujou,0.1.0,,MIT,4540733,Asynchronous Distributed Deep Learning Library for Continuous Learning
+2026-10-30T01:03:17Z,sicopr,1.2.1,Todd Bermensolo,BSD-3-Clause,4750501,A Python port of the IEEE 802.3 COM (Channel Operating Margin) reference code
+2026-10-30T01:03:51Z,loudmouth-audio,1.1.0,Tim Stark <tim@starktechnologies.net>,MIT,405906,"A lightweight, always-on HTTP audio playback service — pygame simplified."
+2026-10-30T01:05:41Z,liveswapface-preview-tools,0.1.0,,MIT,7558,Local shot checklist and credit estimate for face-swap preview planning
+2026-10-30T01:05:58Z,bankfiletool-statement-check,0.1.0,,MIT,7909,Local balance reconciliation for exported statement CSV files
+2026-10-30T01:06:09Z,imageunblur-preflight,0.1.0,,MIT,7415,Check image file metadata against Image Unblur upload limits locally
+2026-10-30T01:06:24Z,findbpm-tempo-planner,0.1.0,,MIT,7188,Convert BPM to beat timing and compare half-time interpretations
+2026-10-30T01:08:49Z,fab-downloader,1.0.0,Fobal,GPL-3.0-only,121534,"Download Unreal Engine builds of items in your Fab library and install Fab plugins into Unreal projects, without the Epic Games Launcher."
+2026-10-30T01:14:29Z,devhubsesion,0.1.0,Astrea,Apache-2.0,13917,Telegram account manager with session strings
+2026-10-30T01:14:49Z,logtriage,0.1.0,juzorei,MIT,14360,"Cluster big logs into templates with counts, severities and incident spikes — streaming, stdlib only"
+2026-10-30T01:15:43Z,hookbench,0.1.0,juzorei,MIT,17266,"Webhook integration testing: capture webhooks, verify HMAC signatures, replay fixtures at your handler — stdlib only"
+2026-10-30T01:16:36Z,bumpmap,0.1.0,juzorei,MIT,13523,"Dependency upgrade plans with risk classes: pins in, majors flagged, changelogs attached — stdlib only"
+2026-10-30T01:18:42Z,equiframe,0.12.4,Hernán Troya,MIT AND Apache-2.0,2397175,"Operational verification, native ETL migration and portable semantic evidence"
+2026-10-30T01:18:44Z,equiframe-benchmark,0.12.4,Hernán Troya,MIT,761068,"EquiFrame Verify, paired evaluation and reproducible experimental evidence"
+2026-10-30T01:19:17Z,mcp-nequeo,2.7.26,Drazen Zadravec <noreply@dznequeo.net>,MIT,20365,Model Context Protocol (MCP) client and server implementation
