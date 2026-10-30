@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T15:24:09Z,dimi-ui,0.1.0,Damiano Ricciardi <ricciardi.damiano06@gmail.com>,MIT,92947,Immediate-mode Python & pygame-ce user interface library using a deferred two-pass layout system
+2026-10-30T15:25:39Z,commit-court,0.1.0,Ali Behnam,MIT,79340,Put your git history on trial: a courtroom-style HTML case file of your repo's crimes.
+2026-10-30T15:28:40Z,softmax1p,0.1.0,"Zhengxu Yu, Ke Xu",MIT,28504,"Softmax Collapse-free log_softmax, softmax and cross_entropy for PyTorch, JAX and TensorFlow"
+2026-10-30T15:28:55Z,omnigraph,0.14.0a1,,MIT,171947,Python client for the Omnigraph HTTP API
+2026-10-30T15:28:59Z,larkita,0.1.0,Karl Stroetmann,MIT,117335,A light-weight canonical LR(1) parser generator that returns abstract syntax trees as nested tuples
+2026-10-30T15:29:58Z,think-reason-learn,0.3.0,Vela Research,MIT,255783,Interpretable tree/forest-style decision-making systems powered by LLMs
+2026-10-30T15:30:34Z,fovea-sdk,0.1.0,Sivasuthan Sukumar,Apache-2.0,51911,Python SDK for Fovea-4B: calibrated single-pass decisions about images over TypeSafe's System One API
+2026-10-30T15:31:59Z,statequant,0.1.1,Patrick Haller,Apache-2.0,296952,"Recurrent-state quantization for linear-attention and SSM hybrid language models (PACE, DAMP, STEPQuant, LRB+BDR, LeapQuant, ...) with packed Triton kernels and a vLLM plugin"
+2026-10-30T15:34:17Z,urlformat-audit,0.1.0,Md Istiak Tanvir - eruddro@gmail.com,MIT,24502,Detect class-conditional URL formatting (shortcut risk) in labelled phishing/malicious URL datasets
+2026-10-30T15:35:36Z,perturb-interp,0.1.0,,BSD-3-Clause,51866,Gaussian perturbation interpretability for black-box regression
+2026-10-30T15:37:21Z,ichnos,0.0.1,Ozan Ozbeker,MIT,5183,"Infer a DBML schema and ERD from SQL queries alone, with no database connection."
+2026-10-30T15:41:13Z,linstabpy,1.0.0,"Gabriel Hamada, William Wolf, Carlos Junqueira-Junior, Jean-Christophe Robinet, Ricardo Frantz",GPL-3.0-only,986169,Stability and resolvent analysis of compressible viscous flows
+2026-10-30T15:41:56Z,odoo-addon-mrp-kit-product-logistics-computation,18.0.1.0.0.2,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,24308,MRP Kit Product logistics computation
+2026-10-30T15:42:58Z,opacte,0.1.0,Jean-Michel ARNAUD,MIT,16534,"SDK Python de l'API Opacte : attester et vérifier des documents, sans qu'ils quittent votre serveur pour être conservés."
+2026-10-30T15:43:22Z,vites,0.1.1,Nikhil Gupta,MIT,43851,A command-line library for downloading practical text notes.
+2026-10-30T15:43:51Z,mcp-login-oauth,0.2.2,Marcel Bruckner,AGPL-3.0-or-later,52273,OAuth 2.1 browser login for FastMCP servers whose login is a form checked by the service behind them
+2026-10-30T15:46:01Z,tapedeck-llm,0.2.0,E'Angelo,MIT,59308,"Flight recorder for LLM agents: record once, replay forever, diff what drifted. Zero dependencies."
+2026-10-30T15:46:24Z,taylorize,0.0.1,Ryosuke Yoneda,MIT,22685,Lazy truncated Taylor series: higher-order automatic differentiation and arbitrary-precision Taylor-method ODE integration.
+2026-10-30T15:48:34Z,meryn-mcp,0.1.0,meryn <hi@meryn.ai>,MIT,33204,MCP server for the meryn API — read your MMM results and launch runs from Claude
+2026-10-30T15:49:40Z,filingexplorer-mcp,0.1.0,"""Giant Octopus, LLC"" <hello@giantoctopus.ink>",Apache-2.0,139165,"Model Context Protocol server for the FilingExplorer API: SEC filings, financials, 13F holdings, insider trades and watchlists."
+2026-10-30T15:49:49Z,ied-inspector,0.6.0,Pavel Dvořák,MIT,198123,"Read-only IEC 61850 MMS / GOOSE / SV inspection tool with SCD validation, VLAN checks, reports and an IED simulator"
+2026-10-30T15:53:26Z,tutor-contrib-status,0.1.1,Abstract-Tech,AGPL-3.0-only,36758,Standalone Open edX status page plugin for Tutor
+2026-10-30T15:55:32Z,landparty-pl1-parser,2.1.0,Samuel Dion <sam94dion@gmail.com>,AGPL-3.0-or-later,130479,A comprehensive PL/1 parser for Python with dependency extraction and AST support
+2026-10-30T15:55:39Z,renmori,1.0.0,MewBaka,RenMori License Version 1.0 Copyright (c) 2026 MewBaka (the RenMori authors) RenMori is software fo…,89484,Full-data protection for commercial Ren'Py games (open-core framework).
+2026-10-30T15:56:26Z,telinker,0.1.0,,MIT,48836498,"Genotype polymorphic transposable elements from VCF, PLINK, array, BED or BAM/CRAM files"
+2026-10-30T15:57:24Z,sharpit,0.0.1,Flavio Oliva,Apache-2.0,1961,"Embedded, local-only developer console for Python apps (FastAPI, Django, Flask). Placeholder release; under development."
+2026-10-30T16:00:46Z,bcm-session-viewer,0.0.0a0,NVIDIA,,1054,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-30T16:00:49Z,bcm-superpod-network,0.0.0a0,NVIDIA,,1069,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-30T16:00:52Z,bcm-versioning-tools,0.0.0a0,NVIDIA,,1067,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-30T16:00:55Z,bcmslackbot,0.0.0a0,NVIDIA,,1003,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-30T16:01:53Z,telemetry-machine,0.0.1,Telemetry Machine,MIT,2903,Telemetry Machine: OpenTelemetry-native observability. This package only links to telemetrymachine.com.
+2026-10-30T16:04:48Z,pyroll-engineering-report,3.0.1,Christoph Renzing <christoph.renzing@imf.tu-freiberg.de>,BSD-3-Clause,16570,"Plugin for PyRolL providing a printable PDF engineering report (pass schedule, speeds and loads) of a solved pass sequence."
+2026-10-30T16:05:04Z,kinloom,1.0.0,,MIT,2731613,"Free, open-source AI for games: any engine, any model, and it keeps working with no model at all."
+2026-10-30T16:13:27Z,omnistrobe,10.0.0,Noah Phan,Proprietary,4039537,OmniStrobe v10.0.0-sota: Physics-Guided Video Strobe & Flicker Detection and De-Strobing Engine
+2026-10-30T16:15:03Z,open-vessel-designer,0.3.0,African River Corridors Limited,Apache-2.0,8711027,"Concept design of inland and coastal cargo vessels: GA, characteristics, BOQ, cost — calibrated on real vessels."
+2026-10-30T16:15:58Z,bazaar-contrib-claude-code,0.3.0rc1,,Apache-2.0,69410,Claude Code stream-json harness provider for Bazaar Compute Node
+2026-10-30T16:16:01Z,audact,0.4.0,Audact <sdk@audact.ai>,MIT,350471,Async Python SDK for the Audact compliance validation platform
+2026-10-30T16:16:17Z,cdekx,0.1.0,maisiq <maisiq@users.noreply.github.com>,Apache-2.0,316901,"Modern async client for the CDEK API v2: typed models, retries, pagination, webhooks."
+2026-10-30T16:16:55Z,uri-cardinality-reducer,0.1.0,,,10914,"Extract low-cardinality URI templates from real URI's, requires drain3."
