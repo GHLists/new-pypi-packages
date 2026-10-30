@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T21:19:33Z,C3L,0.1.0,,MIT,316116,Coupled-cluster solvers for Lindblad steady states and Green functions
+2026-10-30T21:20:07Z,emg-tools,2.0.0,Irene Mendez Guerra,MIT,27592,"Preprocess, analyse and plot EMG signals"
+2026-10-30T21:20:42Z,docassemble-simulator,26.10.9,Jack Adamson,MIT,394102,"Run docassemble interviews locally without a server: a CLI for humans and AI agents to load, step through, answer, and debug interviews."
+2026-10-30T21:22:35Z,specfy,0.0.1,Tribeira Labs,Apache-2.0,11909,"Specfy by Tribeira Labs: your AI designs the part, Specfy checks it (name reservation; preview follows)"
+2026-10-30T21:22:37Z,tribeira,0.0.1,Tribeira Labs,Apache-2.0,11165,Tribeira Labs: tools for verified agentic CAD (see specfy)
+2026-10-30T21:22:57Z,omnipython-airwindows,0.0.1,,,2676,Placeholder: OmniPython's port of the Airwindows effects. The real package arrives with OmniPython 1.0.
+2026-10-30T21:24:53Z,temporalio-claude-agent-sdk,0.0.2,Temporal Technologies Inc,MIT,43053,Durable Claude Agent SDK runs on Temporal
+2026-10-30T21:25:00Z,cachemaxxing,0.2.0,Ashhad Ahsan,MIT,46553,"Stop paying full price for the same tokens: measure, diagnose and fix prompt-cache misses on Anthropic, OpenAI, Gemini and LiteLLM."
+2026-10-30T21:26:58Z,cuscan,0.1.0,M L,MIT,97077855,UMAP dimensionality reduction and HDBSCAN clustering on CPU and CUDA
+2026-10-30T21:32:09Z,finic-kairos,0.1.0,,Proprietary,85159,Kairos client: track financial events and request decisions.
+2026-10-30T21:35:55Z,taqvim,1.0.0,Alireza Rahimi,MIT,38964,"Accurate Solar Hijri (Jalali, Shamsi, Persian) calendar for Python: astronomical leap years, Tehran time zone without DST, Persian parsing and formatting. Zero dependencies."
+2026-10-30T21:36:17Z,bacstab,0.1.0,,,37191,Reusable BACnet packet parsing tools
+2026-10-30T21:39:04Z,emet-cli,0.1.1,FUSE,Apache-2.0,41450,"Set up Emet in your Python app: your coding agent does the work, you type the key"
+2026-10-30T21:40:55Z,doc-map,0.4.1,Go Nakamaru,MIT,25740,"Walk a Python project and emit a YAML manifest of every function and class, paired with its first docstring sentence."
+2026-10-30T21:43:19Z,necronomicon,0.1.0,,Apache-2.0,5340211,"Agent mind control for your codebase: house rules that teach. Pre-commit checks tell coding agents what's wrong, why, and what to do instead."
+2026-10-30T21:45:03Z,rulestamp-ai-companion-safety-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35409,"Reads your companion chatbot's system prompt against California SB 243, New York GBL Article 47, Illinois HB 1806 (WOPR Act) and Nevada AB 406, line by line. (bundled Node.js runtime)"
+2026-10-30T21:45:22Z,rulestamp-antragsfrist-lint-vwvfg,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34878,Prüft Markdown-Seiten von Förderprogrammen mit 9 Checks gegen § 31 Abs. 3 VwVfG. Die Beispielseite _fixtures/dirty.md ergibt zum Prüfdatum 22.09.2026 genau 6 Befunde: 5 Fehler und 1 Hinweis. (bundled…
+2026-10-30T21:45:40Z,rulestamp-arbeitsvertrag-nachwg-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38899,"Arbeitsvertrag-Vorlagen gegen das Nachweisgesetz prüfen: 15 Pflichtangaben seit 1. August 2022 (§2 NachwG), Auslandseinsatz über vier Wochen (§2 Abs. 2), EU-Entsendung mit Link zur nationalen Website…"
+2026-10-30T21:45:53Z,generated-2d-floor-plan-brief,0.1.0,andy,MIT,10017,"When a Generated 2D Floor Plan Looks Wrong, the Problem Is Usually the Brief"
+2026-10-30T21:45:53Z,tokenmin,0.2.0,TokenMin Contributors,MIT,39638,High-performance token minimizer and prompt optimizer for AI models
+2026-10-30T21:45:58Z,rulestamp-audit-log-retention-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34687,"Log retention lint for Loki, CloudWatch, ILM, S3 and Kubernetes audit YAML (bundled Node.js runtime)"
+2026-10-30T21:47:26Z,specify-core,0.1.4,Paul Fremantle,Apache-2.0,48432483,"Interview-driven PMI authoring: recognise features, ask for missing intent, write AP242 semantic PMI"
+2026-10-30T21:50:55Z,smolagents-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7411,"Surface for smolagents: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-30T21:56:00Z,enginir-opcua,3.0.0rc1,Olivier Roulet-Dubonnet,LGPL-3.0-or-later,2154741,"OPC UA client and server library for Python, built on asyncio; a fork of opcua-asyncio"
+2026-10-30T21:56:23Z,bbr-buttonboard,0.1.0,Building Block Robotics,MIT,117819,"Drive a BBR Button Board's LEDs, displays and bindings from the Driver Station laptop"
+2026-10-30T21:56:38Z,jupyterlab-advanced-code-viewer-extension,0.1.2,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,274034,"Follow a notebook or a source file while an AI agent writes it, see each change in the editor as you work, and mark and comment on code with notes stored in the file"
+2026-10-30T21:56:43Z,tlex,1.0.0,,MIT,29815,A safe line editor and viewer for the terminal.
+2026-10-30T21:59:57Z,simplibs-extractor,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,224981,"Gathers the text files of a folder into one document: select, read, transform with steps, render as Markdown or plain text, write atomically and report — as a Python function, a command and a two-lin…"
+2026-10-30T22:02:09Z,torchregdiff,3.7,,,7709,Regularized differentiation of time-series as pytorch tensors
+2026-10-30T22:02:22Z,power-admin,0.1.0,,MIT,81202,"Pull Power Platform admin data (inventory, capacity, Copilot credits, users) to a local folder or S3."
+2026-10-30T22:04:25Z,my-greeting-lib-novay,0.1.0,Denis,,2722,Add your description here
+2026-10-30T22:05:03Z,changelog-notes,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,8556,Extract the notes for one version from CHANGELOG.md (for GitHub releases) and validate the format. Stdlib only.
+2026-10-30T22:05:09Z,sshcfg-lint,0.1.0,agent-one <rafal.baranowski.iot@gmail.com>,MIT,11208,"Lint ~/.ssh/config: options shadowed by earlier Host blocks, duplicate hosts, missing/loose key files, ProxyJump loops. Stdlib only."
+2026-10-30T22:13:54Z,belld,0.0.1,BellD,Apache-2.0,1227,Placeholder for the BellD Python SDK. See https://docs.belld.ai/.
+2026-10-30T22:15:20Z,horo-next,0.21.5,Nous Research,MIT,20335763,Unofficial PyPI distribution of Hermes Agent by Nous Research
