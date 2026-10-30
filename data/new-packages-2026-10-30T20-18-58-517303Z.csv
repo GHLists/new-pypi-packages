@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T19:19:58Z,sonarithm,0.1.0a0,SONARITHM contributors,MIT OR Apache-2.0,27075565,"Turn graphs, charts and numerical data into structured, navigable sound."
+2026-10-30T19:21:54Z,keramos-kiln,0.4.10,antoine-tena,MIT,8983335,"Claude Code's workshop: start every new project, and rescue every old one, like a senior engineer would — even if you're not one."
+2026-10-30T19:23:40Z,pyox-agents,0.1.0,daniprol,MIT,23241625,"Minimal and fast AI agents for Python, with a Rust core"
+2026-10-30T19:25:06Z,beru,1.0.0a1,Beru,MIT,3584012,"Agents that chat, use tools and work in your files: a browser app with multi-agent workflows, any model provider and MCP servers, in one pipx install."
+2026-10-30T19:25:56Z,naga-runtime,1.1.0,,,162705,"Run trained NAGA trading models (.safetensors) live from MetaTrader 5, from Python, or over a secure JSON HTTP API with a built-in dashboard."
+2026-10-30T19:27:45Z,greyridge-x402-tools,0.4.1,,MIT,21801,MCP server security scanner — static tool-poisoning / prompt-injection audit (OWASP LLM01/LLM08) + maintenance & supply-chain drift grade + continuous monitoring; plus a pre-trade Base token safety g…
+2026-10-30T19:32:22Z,bezel-charts,1.0.0,Shaz Moghaddam,MIT,177154,"Polished SVG charts from pandas DataFrames and Python lists, drawn exactly like the Bezel Charts web components. Zero dependencies."
+2026-10-30T19:37:34Z,docspera-appointment-agent-contracts,1.0.0rc1,DocSpera,MIT,30691,Versioned data contracts (pydantic models + JSON Schema) for the DocSpera Appointment Agent
+2026-10-30T19:37:56Z,metricflow-sql-sidecar,0.1.1,,LicenseRef-Fivetran,285841431,"MetricFlow query compilation, bundled as a standalone command"
+2026-10-30T19:37:58Z,metricflow-sql,0.1.1,,LicenseRef-Fivetran,206469,MetricFlow's core semantic layer engine
+2026-10-30T19:38:03Z,dbt-metricflow-sql,0.1.1,,LicenseRef-Fivetran,278152,dbt v1 plugin for MetricFlow
+2026-10-30T19:39:57Z,promigence-openai-environments,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,18001,Run codex exec-server for OpenAI Agents API self-hosted environments on Promigence sandboxes
+2026-10-30T19:40:13Z,promigence-nemo-gym,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,71913,Promigence sandbox provider for NVIDIA NeMo Gym
+2026-10-30T19:40:24Z,promigence-phoenix,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,67046,Promigence sandbox provider for Arize Phoenix code evaluators
+2026-10-30T19:40:44Z,nanoeval-promigence,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,71611,"Run nanoeval computer tasks (SWE-Lancer, PaperBench) on Promigence sandboxes"
+2026-10-30T19:41:10Z,langchain-groundtruth,0.1.0,,MIT,15986,"LangChain tools for the Ground Truth company API: look up a company from its domain (registrar, DNS, tech stack, hiring) and read the contact details it publishes."
+2026-10-30T19:42:06Z,docspera-appointment-agent-conformance,1.0.0rc1,DocSpera,MIT,19937,Connector conformance suite + reference mock connector for the DocSpera Appointment Agent
+2026-10-30T19:42:16Z,tfscout,0.1.0,mikonoid,MIT,66204,AI-assisted Terraform plan review and drift detection
+2026-10-30T19:42:23Z,usernet,0.7.0,René de Hesselle <dehesselle@web.de>,0BSD,331142,A userspace TCP/IP stack and SOCKS5 proxy for tunnels that carry raw IP
+2026-10-30T19:42:26Z,agent-watch-otel,0.2.0,Agent Watch,MIT,111108,"Agent Watch's OpenTelemetry span processor: production LLM spend as digests, never prompt text."
+2026-10-30T19:42:48Z,ensign-scan,0.1.0,WolfdeerNerd,MIT,129938,"Local-first ClamAV file scanner for Linux: hashes files, tracks changes in a local database, and scans only what changed."
+2026-10-30T19:44:45Z,tracct,0.3.0,René de Hesselle <dehesselle@web.de>,GPL-3.0-or-later AND GPL-2.0-only AND 0BSD,1112420,"Traffic accounting per process, unit and interface, recorded with BPF and kept in SQLite"
+2026-10-30T19:44:55Z,sheettrack,0.1.0,Chloé Legué <chloe.legue@mail.mcgill.ca>,MIT,16364,"Lightweight Google Sheets helpers for tracking pipeline/job status, one row per ID."
+2026-10-30T19:46:29Z,sadio-mane,0.1.3,Duck-06,MIT,9920,My Python library
+2026-10-30T19:47:06Z,burp-report-generator,1.0.6,AnirudhKK,MIT,629354,"Turn Burp Suite Professional XML exports into client-ready HTML, PDF and Word security reports."
+2026-10-30T19:47:22Z,pipbreak,0.1.1,Youssef Elaasri,MIT,56639,Find the installed packages a dependency update breaks - the calls pip's version ranges let through.
+2026-10-30T19:47:37Z,mattermost-mcp-server,1.0.0,Thatguy,MIT,170862,"MCP server for Mattermost: read channels, threads, unreads and mentions, and (opt-in) post, reply, edit and react. Personal access token or browser-cookie auth."
+2026-10-30T19:49:23Z,ci-agent-audit,0.1.0,ci-agent-audit contributors,MIT,84665,Find prompt injection and unsafe AI agent setups in GitHub Actions and GitLab CI.
+2026-10-30T19:49:38Z,unilimit,0.1.0,Arnav Angarkar,MIT,341652,"One consistent, production-grade rate limiting core for Django, FastAPI and plain Python."
+2026-10-30T19:49:44Z,dorsal-pdf-extractor,0.6.0,,Apache-2.0,126725,Dorsal model: PDF Extractor
+2026-10-30T19:51:04Z,golblick,0.8.1,,AGPL-3.0-or-later,451074,"Read, inspect and render 360 camera files on Linux"
+2026-10-30T19:52:53Z,odoo-addon-currency-rate-update-nbrb,18.0.1.0.0.2,"Ventor, Aliaksandr Zubik, Odoo Community Association (OCA)",AGPL-3,32613,Download currency exchange rates from National Bank of Belarus
+2026-10-30T19:57:23Z,apiverve-dmarcvalidator,1.2.3,APIVerve <hello@apiverve.com>,MIT,21162,"DMARC Validator is a DMARC record validator API that checks the Domain-based Message Authentication, Reporting and Conformance (DMARC) record for a domain to ensure it is correctly configured."
+2026-10-30T19:57:28Z,apiverve-disposablephonenumberchecker,1.2.3,APIVerve <hello@apiverve.com>,MIT,21447,"Disposable Phone Number Checker is a phone fraud API that flags temporary, burner and virtual phone numbers published on SMS-receiving sites. Pass a number in E.164 format to check whether it is disp…"
+2026-10-30T19:57:32Z,apiverve-dividends,1.2.3,APIVerve <hello@apiverve.com>,MIT,21836,Dividends returns the dividend-per-share history for a US public company by ticker - the amount reported each quarter and year straight from official SEC filings - plus a derived dividend-growth summ…
+2026-10-30T20:03:09Z,drf-query-method,0.1.0,Ben Atkinson <ben@streamlinedanalytics.co.uk>,BSD-3-Clause,112860,HTTP QUERY method (RFC 10008) support for Django REST framework.
+2026-10-30T20:04:02Z,pdf-toc-generator,1.0.0,Sameer Bajaj <sameer@sameerbajaj.com>,MIT,40072,Automatically generate and add bookmarks to PDF files
+2026-10-30T20:04:45Z,alkaly,0.0.1,Rodolphe Momier,MIT,2639,alkaly - alkali atoms in magnetic fields (in development)
+2026-10-30T20:06:48Z,kindle-to-readwise,1.0.0,Sameer Bajaj <sameer@sameerbajaj.com>,MIT,27114,Convert Kindle highlight exports to beautifully formatted Readwise imports
+2026-10-30T20:10:17Z,Astimator,0.0.1,,,14026,Estimate Hermite-Gauss mode coefficients from intensity images taken through a (tilted) lens.
+2026-10-30T20:11:17Z,tetramol,0.0.1,Andreas V. Copan,MIT,21755,
+2026-10-30T20:12:54Z,sameer-oura-ring,1.0.0,Sameer Bajaj <sameer@sameerbajaj.com>,MIT,17073,Oura Ring V2 API integration and tactical morning coach
+2026-10-30T20:12:58Z,inferencekit-cli,0.1.0,Stellon Labs,Apache-2.0,905373,"Make your model serve faster on your GPU, and prove it. Skills for Claude Code, Codex and OpenCode, plus a CLI and MCP server: your agent picks and tunes inference engines, can write GPU kernels, and…"
+2026-10-30T20:14:07Z,oarepo-formats,1.0.0,,MIT,263499,"Format conversions for imports and exports of OARepo repositories (sandboxed XSLT 3.0, RO-Crate, README)"
+2026-10-30T20:14:10Z,sicopr-assist,0.13.0,Todd Bermensolo,BSD-3-Clause,1240495,A rules-based front end that turns phrases into SiCoPR runs
+2026-10-30T20:16:17Z,pdf-ocr-cli,1.0.0,Sameer Bajaj <sameer@sameerbajaj.com>,MIT,21095,High-quality OCR tool for scanned PDFs using Tesseract
+2026-10-30T20:17:16Z,labtool-cf,0.1.0,Your Name <you@example.com>,MIT,36413,Manage a Cloudflare Tunnel for machines behind NAT
