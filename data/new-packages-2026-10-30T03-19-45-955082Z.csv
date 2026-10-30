@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T02:24:35Z,firepipe-gen,1.0.0,,,25901,"A generator framework for iterative, serializable parsers and processors for arbitrary structured data"
+2026-10-30T02:27:27Z,timegod,0.1.0,csw,MIT,11405,一个简洁的 Python 时间处理工具
+2026-10-30T02:30:26Z,predictygraph,0.1.0,Reza Jelveh <git@jelveh.me>,GPL-3.0-or-later,263057,"Predictable graphs: a readable, CSS-styled diagram DSL with per-group layouts, rendered to SVG/APNG"
+2026-10-30T02:33:44Z,nqs-vmc,0.3.0,,,83011,Neural quantum states + variational Monte Carlo in JAX
+2026-10-30T02:34:37Z,classical-physics-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,25993546,"Offline classical physics solver: kinematics, dynamics, energy, momentum, rotation, gravitation, oscillations, waves and sound, optics, thermodynamics, electricity and magnetism, with steps, LaTeX an…"
+2026-10-30T02:34:59Z,earth-science-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,19533810,"Offline earth science solver: atmospheric thermodynamics and meteorology, climate and radiation balance, oceanography and seawater properties, seismology and geophysics, and geology, with steps, LaTe…"
+2026-10-30T02:35:21Z,materials-science-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,19848170,"Offline materials science solver: crystal structures and diffraction, defects and diffusion, mechanical properties, phase diagrams, polymers, ceramics and composites, and electronic and thermal prope…"
+2026-10-30T02:35:40Z,quantum-physics-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,18804349,"Offline quantum physics solver: special relativity, photons and matter waves, the hydrogen atom, quantum wells and tunnelling, spin and qubits, quantum gates, nuclear and particle physics and statist…"
+2026-10-30T02:36:27Z,nunnnly,1.0.0,Xevrion,Apache-2.0,33774,"Framework ligero de Python para aplicaciones modulares, servicios, eventos y tareas."
+2026-10-30T02:36:39Z,fontpkg-readex-pro,1.205,,OFL-1.1,159140,"Readex Pro font family, packaged for Python by fontpkg"
+2026-10-30T02:36:40Z,fontpkg-bree-serif,1.2,,OFL-1.1,29424,"Bree Serif font family, packaged for Python by fontpkg"
+2026-10-30T02:36:42Z,fontpkg-tenor-sans,1.1,,OFL-1.1,59516,"Tenor Sans font family, packaged for Python by fontpkg"
+2026-10-30T02:36:44Z,fontpkg-libre-caslon-text,2.0,,OFL-1.1,160997,"Libre Caslon Text font family, packaged for Python by fontpkg"
+2026-10-30T02:38:11Z,openair-cli,0.1.0,,Apache-2.0,12608,One-command launcher for the OpenAIR research-agent platform (openair up/down/seed)
+2026-10-30T02:38:51Z,zecto,0.1.0,Zecto,MIT,21242,Python SDK for the Zecto multi-channel messaging platform
+2026-10-30T02:39:29Z,subtoapi,0.0.1,,MIT,1636,SubToAPI. Placeholder; the real package is coming.
+2026-10-30T02:39:44Z,cowspam,1.0.0,Ian Rodriguez <rodriguezian403@gmail.com>,MIT,11908,"A small, silly, screen-cluttering library derived from Cowsay Python."
+2026-10-30T02:42:53Z,openentity-crewai,0.1.0,,MIT,189667,"Open Entity tools for CrewAI: adopt an identity, read it, record stances and arcs, verify and trust other agents."
+2026-10-30T02:47:12Z,imwarp,0.0.1,Sunip K. Mukherjee,MIT,1267201,"scipy.ndimage.map_coordinates and skimage.transform.warp in Rust, without SciPy"
+2026-10-30T02:48:05Z,textforgers,0.1.0,,GPL-3.0-only,4546099,Typed Python bindings for TextForge text-transformation pipelines
+2026-10-30T02:54:38Z,vec-io,0.1.0,Arthur Gouhier <ajgouhier@gmail.com>,BSD-3-Clause,4402377,"Create PDFs in Python: drawing APIs, SVG conversion, rasterization and more"
+2026-10-30T02:56:56Z,nokia-ib-recovery,0.1.0,Tokisaki-Galaxy,MIT,47379,Recover SMS and contacts from Nokia Series 30+ .ib backups
+2026-10-30T02:57:50Z,crypyspark,0.1.0,Sean Pavlak,MIT,37931,Type-preserving encryption and decryption for PySpark columns of any type
+2026-10-30T03:07:09Z,sanhang-mcp,1.0.0,三行弦图 MathMagic <zengbowengood@163.com>,MIT,35450,"MCP server that turns one sentence of math into a Manim animation video, rendered on a hosted backend (no local Manim or LaTeX)"
+2026-10-30T03:07:36Z,hypereffect-ui,0.1.0,,MIT,93521,"Types and helpers for writing hypereffect servers: messages, line framing, signals and components, an App/Server session driver, and a renderer client with a loopback for tests."
+2026-10-30T03:09:38Z,symasc-repoatlas,0.1.0,AbdelrahmanSayed,MIT,8149335,Local multi-repository engineering intelligence system
+2026-10-30T03:10:12Z,docuquery,0.1.0,John Nnamani,MIT,43172,A local file RAG engine CLI tool
+2026-10-30T03:12:57Z,lfx-jira,0.1.0,,MIT,11879,Jira Cloud issue actions and bounded latest-state polling triggers.
+2026-10-30T03:13:06Z,qbd-agent-kit,0.2.0,Pham Hoa,MIT,443863,"QuickBooks Desktop for AI agents: a command line that runs on the Windows PC that hosts QuickBooks, with merchant workflows (daily brief, collections, bills, cash, reorder, duplicates, month-end chec…"
+2026-10-30T03:15:31Z,markitdown-wolfxl,0.1.0,Wolfgang Schoenberger,MIT,14745,An opt-in WolfXL XLSX converter plugin for MarkItDown
