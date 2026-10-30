@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T07:20:56Z,dep-risk-mcp,0.1.2,Vineetsu,,8244,Analyze the risk of upgrading NPM packages via MCP.
+2026-10-30T07:26:41Z,secretscan-cli,0.1.1,,MIT,26310,Find leaked secrets in files and git history
+2026-10-30T07:29:14Z,pyroll-forward-slip,3.0.0,Christoph Renzing <christoph.renzing@imf.tu-freiberg.de>,BSD-3-Clause,7778,Plugin for PyRolL providing a forward slip model based on the neutral angle after Mauk.
+2026-10-30T07:31:34Z,threejs-viewer-assets,0.186.1.post2,dyuu7,MIT,1106985,Offline Three.js WebGL core and selected viewer addons for Python applications
+2026-10-30T07:32:15Z,heinzel-google,0.9.1,,MIT,201487,"Google Docs, Sheets, Drive, Calendar and Gmail: the documents, calendar and mail capabilities."
+2026-10-30T07:34:27Z,tradesquares,0.1.0,,MIT,13826,Open-source Python SDK for building TradeSquares agents
+2026-10-30T07:35:50Z,napari-flicker,0.1.1,Taka <amano.takahisa@gmail.com>,LicenseRef-Hippocratic-3.0-bds-cl,235731,Blinking layers in napari
+2026-10-30T07:37:53Z,heinzel-zoom,0.9.1,,MIT,111585,Read meetings from Zoom's meeting-summary emails: the meetings capability.
+2026-10-30T07:39:47Z,aelsha-repolantern,1.0.0,AELSHA INNOVATIONS OPC PRIVATE LIMITED,Apache-2.0,1269226,"AELSHA™ RepoLantern: turn any Git repository into clear documentation for beginners, senior engineers and architects, with your own LLM key."
+2026-10-30T07:41:05Z,genai-pydantic-json,2.0.0,ShipAI Studio,MIT,7040,Google GenAI SDK (Gemini 3.5 Flash) + Strict Pydantic v2 Structured JSON Outputs for FastAPI (2026)
+2026-10-30T07:41:07Z,fastapi-gumroad-license,2.0.0,ShipAI Studio,MIT,7043,FastAPI Gumroad License Key Verifier & SaaS Free-Tier Credit Quota Gate (ShipAI v2.0)
+2026-10-30T07:41:55Z,dwy-apple-notify,0.1.0,,,59978,Apple 购买、审核、评论与经营报表通知集成
+2026-10-30T07:47:58Z,groundwork-mcp,0.6.0,,MIT,273604,"Local-first MCP server for commit-pinned, citation-grounded codebase search and architecture maps"
+2026-10-30T07:53:29Z,polish-pptx,0.1.0,Robert Haase <robert.haase@uni-leipzig.de>,BSD-3-Clause,15076,CLI tool that polishes figures in pptx slides using Claude
+2026-10-30T07:55:01Z,spotify-autoeq,1.0.0,Halil,MIT,378643,Switch the PulseEffects equalizer automatically according to the genre of the track playing in Spotify.
+2026-10-30T08:00:57Z,zotdocx,0.2.0,zotdocx contributors,MIT,64379,"Repair Zotero citation fields in .docx files: GB/T 7714, IEEE, Nature, Vancouver"
+2026-10-30T08:02:37Z,mathpotlib,0.1.0,Nikhil Gupta,MIT,40221,A command-line library for downloading practical text notes.
+2026-10-30T08:03:37Z,biztory-tableau-knowledge-mcp,0.1.0,Biztory,MIT,432244,"Search, explore and enrich the Tableau Knowledge graph from any MCP client: semantic search, lineage, impact and semantic context."
+2026-10-30T08:05:05Z,taintward,0.3.0,Divyanshu Choudhury,Apache-2.0,354534,"Runtime data-exposure control for AI agents: PII and secret taint tracking, redaction and policy checks on OpenTelemetry traces"
+2026-10-30T08:06:16Z,dwy-email-notify,0.1.0,,,7766,邮件平台官方 Webhook 事件接入与通知转发
+2026-10-30T08:07:58Z,vsphere-triage,0.1.0,Heknon,MIT,298488,"Read-only vSphere MCP server that triages stuck, hung and unreachable VMs across a fleet and names the shared cause (optional vROps history)"
+2026-10-30T08:08:05Z,fitv-freeimagetovideo,1.0.0,hanshs474,MIT,2988,"Free image to video AI with no daily cap: your first clip needs no sign-up, then a free account keeps going. Every video comes with sound and no watermark."
+2026-10-30T08:10:07Z,authrail,0.1.0,,Apache-2.0,327727,Python adapter for AuthRail's customer-side Runtime
+2026-10-30T08:16:28Z,triton-hf-builder,0.1.0,,Apache-2.0,85888,Build Triton model repositories from local Hugging Face checkpoints
