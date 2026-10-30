@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T10:21:49Z,cimo,0.0.1,,,2439,"C in, machine code out. A pure-Python C compiler for CPU kernels (placeholder, under development)."
+2026-10-30T10:23:06Z,django-cmdbar,0.0.3,Rustem Saiargaliev,MIT,27759,Keyboard navigation for Django admin models and records.
+2026-10-30T10:23:18Z,minimindslab-json-flatten,0.1.0,MiniMindsLab,MIT,8365,Flatten nested JSON-like dict/list structures into deterministic dotted or bracketed path records for small config and payload inspection.
+2026-10-30T10:24:05Z,scipion-chem,1.1.1,"Daniel Del Hoyo <ddelhoyo@cnb.csic.es>, Martin Salinas <ssalinasmartin@gmail.com>, Carlos Oscar San…",GNU General Public License v3 (GPLv3),1424912,Base Scipion plugin defining objects and protocols for CHEMoinformatics and Virtual Drug Screening.
+2026-10-30T10:25:36Z,pywcif,0.1.0,Kostantinos Papadopoulos,MIT,80336,Typed Pydantic v2 models and tools for the WCA Competition Interchange Format (WCIF v1.2)
+2026-10-30T10:25:39Z,pymodaq_plugins_slmsuite,5.3.0,Weber Sébastien <sebastien.weber@cemes.fr>,The MIT License (MIT) Copyright (c) 2021 Sebastien Weber <sebastien.weber@cemes.fr> Permission is h…,111349,PyMoDAQ plugin giving access to the spatial light modulators (SLM) supported by the slmsuite package
+2026-10-30T10:26:22Z,datakodo,0.1.0,Qaisar Jalil,MIT,307275,"Unified market data library — one interface, many providers"
+2026-10-30T10:28:01Z,ks3-vectors-embed-cli,0.1.0,Kingsoft Cloud KS3,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",74593,Standalone CLI for KS3 Vector operations with pluggable embeddings
+2026-10-30T10:29:30Z,telegroq,0.0.1,AYM,,59709,Deploy a Groq-powered Telegram bot with a custom persona in a few lines (pyTelegramBotAPI + Groq).
+2026-10-30T10:29:52Z,duckdb-code,261030,Bernard Paques <bernard.paques@gmail.com>,MIT,207674,"Frugal, embeddable graph building block for agentic systems — tree-sitter code impact analysis and structure explanation over a local DuckDB file, no external service."
+2026-10-30T10:31:08Z,odoo-addon-shopinvader-api-delivery-dropoff-site,18.0.1.1.0,"Akretion, ACSONE SA/NV, Shopinvader",AGPL-3,24386,Allows to deliver sale order to dropoff site
+2026-10-30T10:31:52Z,atlib-telegram,1.0.1,ATLib Contributors,MIT,79915,Advanced Telegram Bot Library — production-ready asynchronous framework for the official Telegram Bot API
+2026-10-30T10:32:00Z,arche-sdk,0.1.0,Arche,Apache-2.0,89434,Official Python SDK for Arche public data APIs
+2026-10-30T10:32:16Z,playwright-bun-unofficial,1.64.1.post1,Microsoft Corporation,Apache-2.0,3690632,Unofficial fork of Playwright for Python that runs the driver with bun instead of a bundled Node.js
+2026-10-30T10:32:48Z,rtogtor,1.0.0,TuanFaied,Apache-2.0,21452786,"Relational ↔ graph migration (PostgreSQL → Neo4j) with explicit mappings, plans, resumable runs and verification."
+2026-10-30T10:33:21Z,pyobjc-framework-AccessoryAccess,13.0,Ronald Oussoren,MIT,88570,Wrappers for the framework AccessoryAccess on macOS
+2026-10-30T10:33:35Z,autopcr,0.1.1,Rouven Reuter,MIT,106806,A wrapper around Yicheng Tao's AutoPCR algorithm.
+2026-10-30T10:34:23Z,installgate,0.1.2,InstallGate contributors,Apache-2.0,2794533,Pre-install trust gate for coding agents. Check pip/npm before install; never runs the package.
+2026-10-30T10:37:13Z,einvoice-xml,0.1.1,,Apache-2.0,74231,"Build, embed and read EN 16931 e-invoices (ZUGFeRD/Factur-X CII, XRechnung CII/UBL)."
+2026-10-30T10:37:49Z,pencil2d-mcp,0.2.0,chriz-3656,MIT,41058,Model Context Protocol (MCP) server and automation toolkit for Pencil2D animation
+2026-10-30T10:38:37Z,nova-harness,0.1.0,Marhfoul Bakr,MIT,87266,"A small agent harness for any LiteLLM model: tool-calling loop, allow/ask/deny policies, human approval and persistent memory."
+2026-10-30T10:39:18Z,lingjing-awb,0.1.0,,MIT,57747,Typed synchronous and asynchronous SDK for Lingjing AWB
+2026-10-30T10:39:50Z,hoop-impact-bench,1.1.0,"Ayomide Awoyemi, LUMA Basketball Research",MIT (code); CC BY 4.0 (data),2788126,"Hoop Impact Bench (HIB): an open, reproducible benchmark for NBA player impact metrics (RAPM, EPM, DARKO, LEBRON, BPM and your own)"
+2026-10-30T10:40:00Z,pyobjc-framework-LinkSecurity,13.0,Ronald Oussoren,MIT,15778,Wrappers for the framework LinkSecurity on macOS
+2026-10-30T10:40:43Z,dirigent-mcp,0.27.1,,LicenseRef-Proprietary,12764,An MCP server that lets an agent operate a dirigent instance through its API.
+2026-10-30T10:40:44Z,binstat,1.0.0,Alexandre D'Hondt <alexandre.dhondt@gmail.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",1718007,"Implementation of the packing detection method from the paper ""BinStat - Tool for Recognition of Packed Executables"" of Park et al."
+2026-10-30T10:43:18Z,mdq-models,0.1.0,Hochfrequenz Unternehmensberatung GmbH <info+github@hochfrequenz.de>,MIT,152358,"Hand-written data models of the canonical meter-reading schema (Messwert, Zaehlerstand)"
+2026-10-30T10:44:02Z,agentscope-media-mcp,0.1.0,,MIT,81411,"AgentScope Platform speech, image and video tools for MCP"
+2026-10-30T10:44:29Z,pyobjc-framework-StateReporting,13.0,Ronald Oussoren,MIT,15511,Wrappers for the framework StateReporting on macOS
+2026-10-30T10:48:25Z,livelib-mcp,0.1.0,Shared Goals contributors,MIT,128257,Anonymous read client for the LiveLib trisolaris API
+2026-10-30T10:50:46Z,earnings-watch,0.1.0,benjamin-di,MIT,311649,"Verified issuer earnings calendars and results documents, through CLI and MCP"
+2026-10-30T10:50:46Z,ollive,0.0.1,"Ollive AI, Inc.",,2790,The Python SDK for the Ollive API (in development).
+2026-10-30T10:51:22Z,groupdocs-search-net,0.0.0,GroupDocs <support@groupdocs.com>,LicenseRef-Proprietary,6512,GroupDocs.Search for Python via .NET - Full-text search and indexing for documents
+2026-10-30T10:53:13Z,scipion-chem-autodock,3.0.0,Carlos Oscar Sorzano,,186102,Scipion framework plugin for the use of tools provided by Autodock software suite
+2026-10-30T10:56:12Z,decktile,0.2.0,Reza Jelveh <git@jelveh.me>,GPL-3.0-or-later,268039,"Markdown to designed slides: HTML, PDF and editable ODP"
+2026-10-30T10:56:18Z,sqletl,0.2.0,Maxime Bouroumeau-Fuseau,MIT,52136,Create ETL pipelines with SQL
+2026-10-30T10:56:22Z,scoreproof,0.0.1,Anand Sampat <anands@cs.stanford.edu>,MIT,6445,"Convert any score. Prove nothing got lost. A verified music-format converter for AI tools (MCP), the command line and the web."
+2026-10-30T10:57:19Z,pysoroush,0.1.1,Ali VEX <lyrdaadhrpyk802@gmail.com>,MIT,67659,"A modern, simple, and powerful Python library for the Soroush Plus messenger."
+2026-10-30T10:58:30Z,postgres-proto,0.2.1,Maxime Bouroumeau-Fuseau,MIT,30670,Easily implement the PostgreSQL protocol in Python
+2026-10-30T10:58:44Z,sphinx-hackerrank,2026.10.30.1,Adam Dangoor <adamdangoor@gmail.com>,MIT,101935,Build portable HackerRank interviewer mini-maps from Sphinx documentation
+2026-10-30T10:59:30Z,garnet-guard,0.1.0a1,Garnet contributors,Apache-2.0,997721,Release-diff guard: flags trust and content changes between two releases of a dependency
+2026-10-30T11:00:34Z,pvcraze,2.0,"B. E. Pieters, J. Körtgen",GPL-3.0-only,232221579,Photo-Voltaic CuRve AnalyZEr: extended solar cell parameters and IV curve models
+2026-10-30T11:01:06Z,web3py-safe4,0.0.1,,MIT,12298,Safe4 extension API for Python
+2026-10-30T11:04:00Z,dpd-stream,0.1.0,Lee Tucker,MIT,173707,"Out-of-core dynamic panel GMM: Arellano-Bond difference GMM and Blundell-Bond system GMM, by streamed passes"
+2026-10-30T11:04:11Z,droidreaver,0.2.1,DroidReaver Contributors,MIT,199319,"Android pentesting tool manager — install, update, and version-lock your toolkit"
+2026-10-30T11:08:12Z,kampung-mcp,0.1.0,Kevin Tan,Apache-2.0,78258,Kampung client: the hooks and MCP adapter that connect Claude Code and Codex to a Kampung server.
+2026-10-30T11:10:50Z,dex-connector-stripe,0.1.0,,MIT,116845,"Dex-native Stripe Checkout, PaymentIntent, and refund connector"
+2026-10-30T11:11:42Z,zuhut-align,0.1.0,ZUHUT,,29651,"Cross-model embedding alignment: bridge any two embedding models, zero-shot."
+2026-10-30T11:13:30Z,bussola,0.1.0,Davide Candita,MIT,3908848,"Local, per-function code review on git branches"
+2026-10-30T11:13:53Z,pyniryo-nate,1.0.1,Niryo <j.mottier@niryo.com>,,202513,Python client for the Niryo Nate robot API
+2026-10-30T11:14:22Z,dex-connector-newsapi,0.1.0,,MIT,92089,NewsAPI connector for Dex Flows
+2026-10-30T11:14:32Z,dex-connector-google-gmail,0.1.0,,MIT,130441,Dex-native Python connector for Gmail
+2026-10-30T11:14:49Z,comforta,0.1.0,Valentin Dusserre,MIT,68640,"Conformal forecasting: point forecasts, hierarchy reconciliation, and calibrated bands."
