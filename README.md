@@ -8,49 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 01:19 UTC
+## Latest list — 2026-10-30 02:21 UTC
 
-New packages created between 2026-10-30 00:19 UTC and 2026-10-30 01:19 UTC.
+New packages created between 2026-10-30 01:19 UTC and 2026-10-30 02:21 UTC.
 
-[Full CSV](data/new-packages-2026-10-30T01-19-40-191561Z.csv)
+[Full CSV](data/new-packages-2026-10-30T02-21-36-251487Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-30 00:23:54 | [mantis-core](https://pypi.org/project/mantis-core/) | 0.1.9 | Louis Zhuang <louis.zhuang@ac… | 1.9 kB | core routines for MANTIS |
-| 2026-10-30 00:25:00 | [umf-access](https://pypi.org/project/umf-access/) | 0.1.0.dev8 |  | 580.1 kB | Local prerelease typed access runtime; target qualification pending |
-| 2026-10-30 00:25:59 | [aitana-pipelines](https://pypi.org/project/aitana-pipelines/) | 0.1.0 | Yannik Behr <y.behr@gns.cri.n… | 670.5 kB | Reproducible workflows that run and evaluate aitana components for volcano moni… |
-| 2026-10-30 00:27:01 | [mantis-ui](https://pypi.org/project/mantis-ui/) | 0.1.9 | Louis Zhuang <louis.zhuang@ac… | 1.8 kB | UI for MANTIS |
-| 2026-10-30 00:27:40 | [miraw](https://pypi.org/project/miraw/) | 0.3.0 | Albert Pla Planas | 3.6 MB | miRNA target prediction with deep learning: a Python/PyTorch reimplementation o… |
-| 2026-10-30 00:28:39 | [gla-api](https://pypi.org/project/gla-api/) | 1.0.0 | ATEC (Advancement Through Eng… | 5.0 MB | The official library for GLA (Graph-Language Assistant) models by ATEC - run, s… |
-| 2026-10-30 00:30:44 | [thonny-p-ai-token](https://pypi.org/project/thonny-p-ai-token/) | 0.1.0 |  | 11.2 kB | Experimental AI request plugin for Thonny |
-| 2026-10-30 00:32:15 | [geoai-change](https://pypi.org/project/geoai-change/) | 0.3.1 | William Bright Asomani | 31.9 kB | Simple and practical change detection between satellite/aerial images |
-| 2026-10-30 00:38:13 | [qcloudsched](https://pypi.org/project/qcloudsched/) | 1.0.1 | Goutam Parashuram Gotur <gout… | 124.1 kB | A Python-native cloud computing simulation framework for modelling cloud infras… |
-| 2026-10-30 00:38:21 | [photocopier-cli](https://pypi.org/project/photocopier-cli/) | 0.9.0 | Daniel Murrell <dsmurrell@gma… | 22.6 kB | Back up photos and videos to external drives — organised by date, de-duplicated… |
-| 2026-10-30 00:38:36 | [sssea](https://pypi.org/project/sssea/) | 0.0.2 | Charles Tapley Hoyt | 77.0 kB | A simple standard for sharing entity annotations |
-| 2026-10-30 00:41:14 | [skim-python](https://pypi.org/project/skim-python/) | 0.0.1 | Benedict Johannes | 34.5 kB | Language-aware, AST-resilient outline and verbatim code extractor for Python ta… |
-| 2026-10-30 00:43:43 | [autofab](https://pypi.org/project/autofab/) | 0.2.0 | Sean McDirmid <mcdirmid@outlo… | 5.1 MB | Literate, specification-driven software engineering framework for autonomous AI… |
-| 2026-10-30 00:43:49 | [autofab-py](https://pypi.org/project/autofab-py/) | 0.2.0 | Sean McDirmid <mcdirmid@outlo… | 400.7 kB | Python methodology and verification tools for the Autofab framework |
-| 2026-10-30 00:43:55 | [pretense-py](https://pypi.org/project/pretense-py/) | 0.2.0 | Sean McDirmid <mcdirmid@outlo… | 109.2 kB | Lightweight stateful property testing and behavioral contract framework |
-| 2026-10-30 00:45:57 | [elastica](https://pypi.org/project/elastica/) | 1.0.0 | Diego Tepichin | 48.0 kB | Causal price elasticity from transaction data with double machine learning, and… |
-| 2026-10-30 00:47:54 | [janelkit](https://pypi.org/project/janelkit/) | 0.1.0 | d4ndres <d4ndres@gmail.com> | 513.1 kB | Componentes de archivo único (.janel) para aplicaciones de escritorio con Pytho… |
-| 2026-10-30 00:50:21 | [habit-hooks-csharp](https://pypi.org/project/habit-hooks-csharp/) | 0.1.0 |  | 3.4 MB | The C# Habit Hooks plugin |
-| 2026-10-30 00:57:47 | [VHDLDomain](https://pypi.org/project/VHDLDomain/) | 0.2.0 | Patrick Lehmann | 67.0 kB | A Sphinx domain providing VHDL language support. |
-| 2026-10-30 00:58:48 | [boundary-latch](https://pypi.org/project/boundary-latch/) | 0.1.0 | Matt Grofsky | 123.0 kB | Latch, a Boundary Lab tool that checks AI tool calls before they run |
-| 2026-10-30 00:59:40 | [angee-django-stubs](https://pypi.org/project/angee-django-stubs/) | 6.1.2.post1 | Maksim Kurnikov | 869.7 kB | Angee's Django stubs with native composition typing hooks |
-| 2026-10-30 00:59:41 | [angee-django-stubs-ext](https://pypi.org/project/angee-django-stubs-ext/) | 6.1.2 | Simula Proxy | 18.2 kB | Runtime extensions for Angee's Django stubs |
-| 2026-10-30 00:59:42 | [angee-mypy](https://pypi.org/project/angee-mypy/) | 2.1.0 | Jukka Lehtosalo <jukka.lehtos… | 6.6 MB | Angee's mypy fork with native typing extension hooks |
-| 2026-10-30 01:01:06 | [mujou](https://pypi.org/project/mujou/) | 0.1.0 |  | 4.5 MB | Asynchronous Distributed Deep Learning Library for Continuous Learning |
-| 2026-10-30 01:03:17 | [sicopr](https://pypi.org/project/sicopr/) | 1.2.1 | Todd Bermensolo | 4.8 MB | A Python port of the IEEE 802.3 COM (Channel Operating Margin) reference code |
-| 2026-10-30 01:03:51 | [loudmouth-audio](https://pypi.org/project/loudmouth-audio/) | 1.1.0 | Tim Stark <tim@starktechnolog… | 405.9 kB | A lightweight, always-on HTTP audio playback service — pygame simplified. |
-| 2026-10-30 01:05:41 | [liveswapface-preview-tools](https://pypi.org/project/liveswapface-preview-tools/) | 0.1.0 |  | 7.6 kB | Local shot checklist and credit estimate for face-swap preview planning |
-| 2026-10-30 01:05:58 | [bankfiletool-statement-check](https://pypi.org/project/bankfiletool-statement-check/) | 0.1.0 |  | 7.9 kB | Local balance reconciliation for exported statement CSV files |
-| 2026-10-30 01:06:09 | [imageunblur-preflight](https://pypi.org/project/imageunblur-preflight/) | 0.1.0 |  | 7.4 kB | Check image file metadata against Image Unblur upload limits locally |
-| 2026-10-30 01:06:24 | [findbpm-tempo-planner](https://pypi.org/project/findbpm-tempo-planner/) | 0.1.0 |  | 7.2 kB | Convert BPM to beat timing and compare half-time interpretations |
-| 2026-10-30 01:08:49 | [fab-downloader](https://pypi.org/project/fab-downloader/) | 1.0.0 | Fobal | 121.5 kB | Download Unreal Engine builds of items in your Fab library and install Fab plug… |
-| 2026-10-30 01:14:29 | [devhubsesion](https://pypi.org/project/devhubsesion/) | 0.1.0 | Astrea | 13.9 kB | Telegram account manager with session strings |
-| 2026-10-30 01:14:49 | [logtriage](https://pypi.org/project/logtriage/) | 0.1.0 | juzorei | 14.4 kB | Cluster big logs into templates with counts, severities and incident spikes — s… |
-| 2026-10-30 01:15:43 | [hookbench](https://pypi.org/project/hookbench/) | 0.1.0 | juzorei | 17.3 kB | Webhook integration testing: capture webhooks, verify HMAC signatures, replay f… |
-| 2026-10-30 01:16:36 | [bumpmap](https://pypi.org/project/bumpmap/) | 0.1.0 | juzorei | 13.5 kB | Dependency upgrade plans with risk classes: pins in, majors flagged, changelogs… |
-| 2026-10-30 01:18:42 | [equiframe](https://pypi.org/project/equiframe/) | 0.12.4 | Hernán Troya | 2.4 MB | Operational verification, native ETL migration and portable semantic evidence |
-| 2026-10-30 01:18:44 | [equiframe-benchmark](https://pypi.org/project/equiframe-benchmark/) | 0.12.4 | Hernán Troya | 761.1 kB | EquiFrame Verify, paired evaluation and reproducible experimental evidence |
-| 2026-10-30 01:19:17 | [mcp-nequeo](https://pypi.org/project/mcp-nequeo/) | 2.7.26 | Drazen Zadravec <noreply@dzne… | 20.4 kB | Model Context Protocol (MCP) client and server implementation |
+| 2026-10-30 01:22:40 | [opencode-agora](https://pypi.org/project/opencode-agora/) | 0.1.0 |  | 294.0 kB | opencode 会话间任务派发与凭据治理：agorad 服务＋opencode 插件＋agora CLI |
+| 2026-10-30 01:23:54 | [django-compose](https://pypi.org/project/django-compose/) | 0.1.0.dev1 | "Angee, Inc." <hi@angee.ai> | 320.2 kB | Compose reusable Django apps into a runnable project. |
+| 2026-10-30 01:28:41 | [uclog](https://pypi.org/project/uclog/) | 4 | Unit Circle Inc. | 14.1 MB | ucLog for scripts: talk to devices through the ucLog hub and decode their logs |
+| 2026-10-30 01:29:53 | [superroute-slocker](https://pypi.org/project/superroute-slocker/) | 0.1.0 | Superroute | 45.7 kB | sLocker: deliver to Superroute smart lockers. The partner locker delivery API a… |
+| 2026-10-30 01:30:02 | [repo-ai-cli](https://pypi.org/project/repo-ai-cli/) | 0.9.0 | Heet Shah | 6.6 MB | Local-first repository intelligence and skeptical, sandboxed change verificatio… |
+| 2026-10-30 01:30:47 | [wsi-rs](https://pypi.org/project/wsi-rs/) | 0.9.0 |  | 24.1 MB | Read whole-slide metadata and compressed tiles with Rust |
+| 2026-10-30 01:31:16 | [slim-sheet](https://pypi.org/project/slim-sheet/) | 0.1.0 | j4flmao <j4flmao@gmail.com> | 577.5 kB | Universal, token-frugal spreadsheet MCP server and CLI for any agent, from loca… |
+| 2026-10-30 01:33:13 | [rxnetgen](https://pypi.org/project/rxnetgen/) | 0.0.1 | LiuGaoyong | 413.3 kB | The Reaction Network for KMC Simulation. |
+| 2026-10-30 01:33:42 | [langchain-fokals](https://pypi.org/project/langchain-fokals/) | 0.1.0 | Fokals <partners@fokals.com> | 37.5 kB | LangChain tools for Fokals, AI-powered company intelligence to find, enrich and… |
+| 2026-10-30 01:40:15 | [legacy-tl-fork](https://pypi.org/project/legacy-tl-fork/) | 1.8.1 | xdesai96 | 1.4 MB | Full-featured Telegram client library for Python 3 |
+| 2026-10-30 01:44:11 | [vibecodergate](https://pypi.org/project/vibecodergate/) | 0.0.1 | Viaknox | 3.0 kB | Vibe Coder Gate: a guardrail layer for the coding tool you already use. Coming… |
+| 2026-10-30 01:44:12 | [vkgate](https://pypi.org/project/vkgate/) | 0.0.1 | Viaknox | 2.9 kB | Vibe Coder Gate: a guardrail layer for the coding tool you already use. Coming… |
+| 2026-10-30 01:44:58 | [aureproof](https://pypi.org/project/aureproof/) | 0.1.0a1 | Bindu Bhargava R Chintam | 926.1 kB | An open-source integrity layer for AI-agent evaluations: task-health records, s… |
+| 2026-10-30 01:49:57 | [arv-mcp](https://pypi.org/project/arv-mcp/) | 0.1.0 | Mario Verdugo | 128.9 kB | MCP server that estimates after-repair value (ARV) from scored, gated sold comp… |
+| 2026-10-30 01:51:21 | [ominis-osint-suite](https://pypi.org/project/ominis-osint-suite/) | 1.0.1 | AnonCatalyst | 91.8 kB | Discover online mentions of a query or username. Identify potential social prof… |
+| 2026-10-30 01:52:37 | [nari](https://pypi.org/project/nari/) | 0.1.0a1 |  | 240.8 kB | Find, compare and reproduce inference implementations per model, hardware and m… |
+| 2026-10-30 02:02:56 | [hexrgba](https://pypi.org/project/hexrgba/) | 0.2.1 | Javier Lianes <javier@lianes8… | 47.3 kB | CSS hex and named colors: parse, normalize, exact alpha, rgba(), WCAG contrast… |
+| 2026-10-30 02:03:11 | [durospan](https://pypi.org/project/durospan/) | 0.2.2 | Javier Lianes <javier@lianes8… | 62.8 kB | Typed, zero-dependency round-trip between human durations and seconds, one gram… |
+| 2026-10-30 02:03:26 | [stepdates](https://pypi.org/project/stepdates/) | 1.0.0 | Javier Lianes <javier@lianes8… | 108.3 kB | A range() for dates: iterate from start to stop by calendar day, week, month or… |
+| 2026-10-30 02:04:08 | [busdays](https://pypi.org/project/busdays/) | 0.2.0 | Javier Lianes <javier@lianes8… | 44.8 kB | Zero-dependency business-day arithmetic with a configurable weekend mask and op… |
+| 2026-10-30 02:05:11 | [mdrestyler](https://pypi.org/project/mdrestyler/) | 0.1.1 | Taras Baranyuk | 144.3 kB | Stylometry for writers and AI agents: measure prose against an author voice pro… |
+| 2026-10-30 02:05:20 | [anyseg](https://pypi.org/project/anyseg/) | 0.1.0 | Sergey Shkarin <kouki.sergey@… | 12.5 MB | Fast segmentation of text into tokens and sentences, written in Rust with a Pyt… |
+| 2026-10-30 02:07:58 | [alata](https://pypi.org/project/alata/) | 0.12.0.1 | JoBins | 1.2 MB | A batteries-included ASGI Python framework on FastAPI and SQLAlchemy |
+| 2026-10-30 02:08:41 | [grisgris](https://pypi.org/project/grisgris/) | 0.0.1 | Leon D <ltdenard@denard.me> | 3.4 kB | Placeholder package for grisgris. |
+| 2026-10-30 02:09:54 | [vibehash](https://pypi.org/project/vibehash/) | 0.4.0 |  | 328.9 kB | Vibe Hash: earn VIBE by training AI models on everyday computers (testnet) |
+| 2026-10-30 02:12:36 | [apps-pressure-telemetry](https://pypi.org/project/apps-pressure-telemetry/) | 0.1.0 |  | 58.1 kB | Community project (not an official Databricks product): one-call OpenTelemetry… |
+| 2026-10-30 02:14:29 | [taskiq-horizon](https://pypi.org/project/taskiq-horizon/) | 0.2.0 | TaskIQ Horizon Contributors | 1.1 MB | Laravel Horizon port for Python TaskIQ |
+| 2026-10-30 02:14:39 | [foldlib](https://pypi.org/project/foldlib/) | 0.1.0 | Sam Griesemer <git@ord.sh> | 12.4 kB | <project-description> |
+| 2026-10-30 02:17:15 | [chartlib](https://pypi.org/project/chartlib/) | 0.1.0 | Sam Griesemer <git@ord.sh> | 3.7 kB | <project-description> |

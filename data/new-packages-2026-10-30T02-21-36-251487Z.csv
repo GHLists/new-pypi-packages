@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T01:22:40Z,opencode-agora,0.1.0,,MIT,294023,opencode 会话间任务派发与凭据治理：agorad 服务＋opencode 插件＋agora CLI
+2026-10-30T01:23:54Z,django-compose,0.1.0.dev1,"""Angee, Inc."" <hi@angee.ai>",LGPL-3.0-or-later,320216,Compose reusable Django apps into a runnable project.
+2026-10-30T01:28:41Z,uclog,4,Unit Circle Inc.,Apache-2.0,14061204,ucLog for scripts: talk to devices through the ucLog hub and decode their logs
+2026-10-30T01:29:53Z,superroute-slocker,0.1.0,Superroute,LicenseRef-Superroute-SDK-License,45704,sLocker: deliver to Superroute smart lockers. The partner locker delivery API and its webhooks.
+2026-10-30T01:30:02Z,repo-ai-cli,0.9.0,Heet Shah,MIT,6565577,"Local-first repository intelligence and skeptical, sandboxed change verification for AI-assisted engineering, with optional provider-neutral coding agents."
+2026-10-30T01:30:47Z,wsi-rs,0.9.0,,MIT OR Apache-2.0,24106672,Read whole-slide metadata and compressed tiles with Rust
+2026-10-30T01:31:16Z,slim-sheet,0.1.0,j4flmao <j4flmao@gmail.com>,MIT,577510,"Universal, token-frugal spreadsheet MCP server and CLI for any agent, from local 7B models to frontier models."
+2026-10-30T01:33:13Z,rxnetgen,0.0.1,LiuGaoyong,GPL-3.0-or-later,413349,The Reaction Network for KMC Simulation.
+2026-10-30T01:33:42Z,langchain-fokals,0.1.0,Fokals <partners@fokals.com>,MIT,37534,"LangChain tools for Fokals, AI-powered company intelligence to find, enrich and profile companies by technology, hiring, funding, buying intent and company health."
+2026-10-30T01:40:15Z,legacy-tl-fork,1.8.1,xdesai96,MIT,1377181,Full-featured Telegram client library for Python 3
+2026-10-30T01:44:11Z,vibecodergate,0.0.1,Viaknox,Proprietary. All rights reserved.,3022,Vibe Coder Gate: a guardrail layer for the coding tool you already use. Coming soon. Placeholder release.
+2026-10-30T01:44:12Z,vkgate,0.0.1,Viaknox,Proprietary. All rights reserved.,2913,Vibe Coder Gate: a guardrail layer for the coding tool you already use. Coming soon. Placeholder release.
+2026-10-30T01:44:58Z,aureproof,0.1.0a1,Bindu Bhargava R Chintam,Apache-2.0,926067,"An open-source integrity layer for AI-agent evaluations: task-health records, signed re-scorable evidence bundles, and pre-registered regression decisions."
+2026-10-30T01:49:57Z,arv-mcp,0.1.0,Mario Verdugo,MIT,128912,"MCP server that estimates after-repair value (ARV) from scored, gated sold comps."
+2026-10-30T01:51:21Z,ominis-osint-suite,1.0.1,AnonCatalyst,MIT,91804,Discover online mentions of a query or username. Identify potential social profiles and forums.
+2026-10-30T01:52:37Z,nari,0.1.0a1,,Apache-2.0,240768,"Find, compare and reproduce inference implementations per model, hardware and mode"
+2026-10-30T02:02:56Z,hexrgba,0.2.1,Javier Lianes <javier@lianes8studio.com>,MIT,47251,"CSS hex and named colors: parse, normalize, exact alpha, rgba(), WCAG contrast and blending"
+2026-10-30T02:03:11Z,durospan,0.2.2,Javier Lianes <javier@lianes8studio.com>,MIT,62809,"Typed, zero-dependency round-trip between human durations and seconds, one grammar both ways"
+2026-10-30T02:03:26Z,stepdates,1.0.0,Javier Lianes <javier@lianes8studio.com>,MIT,108309,"A range() for dates: iterate from start to stop by calendar day, week, month or year"
+2026-10-30T02:04:08Z,busdays,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,44789,Zero-dependency business-day arithmetic with a configurable weekend mask and optional holidays
+2026-10-30T02:05:11Z,mdrestyler,0.1.1,Taras Baranyuk,MIT,144251,"Stylometry for writers and AI agents: measure prose against an author voice profile, guard against copying, and restyle a Markdown book toward a voice."
+2026-10-30T02:05:20Z,anyseg,0.1.0,Sergey Shkarin <kouki.sergey@gmail.com>,MIT,12461969,"Fast segmentation of text into tokens and sentences, written in Rust with a Python API"
+2026-10-30T02:07:58Z,alata,0.12.0.1,JoBins,"MIT License Copyright (c) 2026 JoBins Permission is hereby granted, free of charge, to any person o…",1203288,A batteries-included ASGI Python framework on FastAPI and SQLAlchemy
+2026-10-30T02:08:41Z,grisgris,0.0.1,Leon D <ltdenard@denard.me>,MIT,3444,Placeholder package for grisgris.
+2026-10-30T02:09:54Z,vibehash,0.4.0,,,328919,Vibe Hash: earn VIBE by training AI models on everyday computers (testnet)
+2026-10-30T02:12:36Z,apps-pressure-telemetry,0.1.0,,Apache-2.0,58076,"Community project (not an official Databricks product): one-call OpenTelemetry pressure signals for FastAPI / MLflow AgentServer apps on Databricks Apps - container CPU/memory/disk vs real limits, re…"
+2026-10-30T02:14:29Z,taskiq-horizon,0.2.0,TaskIQ Horizon Contributors,MIT,1096798,Laravel Horizon port for Python TaskIQ
+2026-10-30T02:14:39Z,foldlib,0.1.0,Sam Griesemer <git@ord.sh>,MIT,12364,<project-description>
+2026-10-30T02:17:15Z,chartlib,0.1.0,Sam Griesemer <git@ord.sh>,MIT,3705,<project-description>
