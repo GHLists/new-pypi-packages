@@ -1,20 +1,41 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-10-30T12:18:59.814493Z",
-    "path": "data/new-packages-2026-10-30T13-19-17-446805Z.csv",
-    "to": "2026-10-30T13:19:17.446805Z"
+    "count": 70,
+    "from": "2026-10-30T13:19:17.446805Z",
+    "path": "data/new-packages-2026-10-30T14-18-59-368166Z.csv",
+    "to": "2026-10-30T14:18:59.368166Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-10-30T14:18:11Z",
+      "package": "commonmemo",
+      "since": "2026-10-30T13:19:17.446805Z",
+      "version": "0.0.1"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-30T12:31:22Z",
       "package": "icenet-mp",
       "since": "2026-10-30T12:18:59.814493Z",
       "version": "2026.post7"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-30T13:47:38Z",
+      "package": "rampate-nvml",
+      "since": "2026-10-30T13:19:17.446805Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-30T13:20:02Z",
+      "package": "zubandaraz-proverbs-api",
+      "since": "2026-10-30T13:19:17.446805Z",
+      "version": null
     }
   ],
-  "serial": 42968220,
+  "serial": 42970719,
   "source_truncated": false,
-  "window": "2026-10-30T13:19:17.446805Z"
+  "window": "2026-10-30T14:18:59.368166Z"
 }

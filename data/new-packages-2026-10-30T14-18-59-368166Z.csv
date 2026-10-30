@@ -1,0 +1,71 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T13:19:54Z,airiq-hotel-sdk,1.0.0,OpenAPI Generator community,,107434,AirIQ Partner API
+2026-10-30T13:21:03Z,collect-sebastian-stigler,0.3.0,Sebastian Stigler,"MIT License Copyright (c) 2026 Sebastian Stigler Permission is hereby granted, free of charge, to a…",21510,collect the homeworkassignments from github
+2026-10-30T13:21:19Z,alyxspu,0.1.1,Prankapple <prankapple@is.notaskid.ong>,MIT,22723,Python driver and desktop studio for the Alyx I100 SPU (ESP32) over USB serial
+2026-10-30T13:22:50Z,vizdesk,0.2.0,Md Rafsun Sheikh,MIT,219724,"A terminal app that scans CSV and Excel files, suggests cleaning and charts, and draws PNG figures. No LLM needed."
+2026-10-30T13:23:43Z,raven-gui,0.1.3,Oscar Soirey,Apache-2.0,994813,"Raven: a lightweight, multithreaded GUI library for editors and tools"
+2026-10-30T13:24:31Z,agentskills-git,0.8.0,Pratik Panda,MIT,14857,Git-backed provider for reproducible Agent Skills sources (https://agentskills.io)
+2026-10-30T13:25:02Z,cli-login,0.2.0,Anthus AI,MIT,154366,"One CLI login for every Anthus product: PKCE sign-in, remote approval, secure storage and renewal."
+2026-10-30T13:25:41Z,seismokit,0.1.0,,,246542,Tools for earthquake engineering and ground-motion analysis
+2026-10-30T13:26:51Z,vinted-bot,2.1.0,vinted-bot contributors,MIT,2997651,"Free, self-hosted Vinted bot and monitor: alerts for new Vinted listings on Discord, Telegram, ntfy or email, with a web dashboard. No login, no subscription."
+2026-10-30T13:27:38Z,drowse.ai,5.3.1,Drowse Contributors,AGPL-3.0-or-later,17073082,Activation steering and trait monitoring for HuggingFace transformers
+2026-10-30T13:29:04Z,zubandaraz,0.1.0,,MIT,8174,Python client for the Zuban Daraz South Asian Proverb API
+2026-10-30T13:30:04Z,tilebox-core,0.68.0,"""Tilebox, Inc."" <support@tilebox.com>",MIT License,38047,Shared types and client infrastructure for Tilebox
+2026-10-30T13:30:24Z,jos-core,2.1.0,JOSFOX maintainers,Apache-2.0,266476,"Reference kernel for .jos 2.1 documents: validate, normalize, run atoms and flows (engines shell and jos), directories, PAL, per-run ledger and receipts. Python >= 3.10, 0 dependencies."
+2026-10-30T13:31:57Z,pytest-llm-replay,0.1.3,Yash Kumawat,MIT,51401,"Record LLM calls once, replay them in tests and CI: deterministic, free, with prompt-drift and cost reports."
+2026-10-30T13:32:48Z,restrack,0.1.0,mrjorgeparr,MIT,202785,"Real-time machine resource tracking with psutil, a Resource Monitor-style web UI, history, alerts, and a profiler for your own (pandas) code."
+2026-10-30T13:32:53Z,rampgate,0.1.0,Hakan Bağıç,Apache-2.0,179044,"Observation-based admission scheduler: serialized warm-up, observed-peak reservations, OOM feedback. Pure Python, zero dependencies."
+2026-10-30T13:33:08Z,custovox-review-analyzer,1.0.0,Jérémie Muselet <jeremie@custovox.ai>,MIT,9040,"Customer review analysis MCP: sentiment breakdown, summaries of positive and negative reviews. Multilingual sentiment. By custovox.ai"
+2026-10-30T13:35:08Z,tgai-orv,0.1.5,JXW666NB,MIT,222003,PyTorch-free LLM engine: train and infer with one codebase. 训推一体，不依赖 PyTorch。
+2026-10-30T13:35:15Z,libapitelethon,1.0,ibrvtk,GPL-3.0-or-later,10224,Асинхронный клиент для https://codeberg.org/ourempirecommunity/api_telethon
+2026-10-30T13:35:17Z,nonebot-plugin-mewgenics-wiki,0.1.2,,,14705911,Mewgenics Wiki 图鉴查询插件
+2026-10-30T13:35:35Z,domyn,0.0.1,Domyn <agents@domyn.com>,Apache-2.0,4713157,"Build AI agents in Python or YAML, run them on any model, and work with them from the terminal."
+2026-10-30T13:35:42Z,bjs-menu-nutrition,1.0.0,BJ's Menus,MIT,25887,"Offline BJ's Restaurant meal builder: total calories, protein, carbs, fat and sodium, flag missing values, filter by calories and allergens."
+2026-10-30T13:35:49Z,imc-calculadora,1.0.0,IMC Calculadora,MIT,14175,"Calculadora IMC / BMI calculator: adult BMI with WHO classes (incl. thinness subclasses), healthy-weight range, metric and imperial, Spanish and English."
+2026-10-30T13:36:16Z,naxosdata,1.4.0,NaxosData Quant Engineering <hello@naxosdata.com>,MIT,30777,Official Python SDK for NaxosData tick archive & institutional prediction market API
+2026-10-30T13:38:16Z,goldlabel,0.2.1,Chris Hacker,,112314,"Content analysis over a corpus (semantic search, keywords or the whole corpus, then an LLM classifier checked against human labels), as a Python library."
+2026-10-30T13:38:24Z,textlane,0.1.0,Evgeny Karev,MIT,30828089,Rust-native text processing pipeline — a unified replacement with native and JavaScript plugins
+2026-10-30T13:38:58Z,agentskills-azure,0.8.0,Pratik Panda,MIT,15304,Azure-backed providers for the Agent Skills format (https://agentskills.io)
+2026-10-30T13:39:45Z,erasureproof-sdk,1.1.1,Darshan Kachare,Apache-2.0,8547,Dependency-free Python client for the ErasureProof deletion-audit API.
+2026-10-30T13:39:46Z,erasureproof,1.1.1,Darshan Kachare,Apache-2.0,1688100,"Proof-of-erasure platform: find every copy of a person's data, prove deletion is complete, and issue signed attestations."
+2026-10-30T13:40:13Z,the-project-who,4.5.0,who?? core research team,MIT,280334,"Evidence-Based Cognitive Digital Twin & Behavioral Modeling Framework with Multimodal OSINT, Neo4j Graph Intelligence & ElizaOS Character Synthesis"
+2026-10-30T13:41:30Z,openai-agents-submilli,0.1.3,Submilli,Apache-2.0,70914,"Submilli code mode for the OpenAI Agents SDK: run an agent's tool calls as TypeScript programs on submilli-server, under a Blueprint's policy."
+2026-10-30T13:42:28Z,shdir,1.0.3,Rogov Anton,GPL-3.0-or-later,31512,Share your files in local network with secure connection
+2026-10-30T13:44:10Z,agent-harness-orchestrator,0.1.0,mgkvibez,MIT,56087,"Route sub-tasks to the right model instead of the biggest one: a from-scratch orchestrator with a blackboard, strict JSON contracts and an auditable execution trace."
+2026-10-30T13:44:15Z,cc-timeline,0.1.0,Masaka,MIT,558559,Where did the time go in your Claude Code sessions? Time attribution from local transcripts.
+2026-10-30T13:44:25Z,fastestapi,0.1.0,,,94527,
+2026-10-30T13:44:54Z,agt-view,0.0.1,,MIT,53491,"List the skills, MCP servers, and extensions available to each coding agent"
+2026-10-30T13:45:51Z,mappy-ds,0.1.0,Yuu Miino,MIT,88145,"Poincaré maps, periodic points and bifurcations of hybrid dynamical systems"
+2026-10-30T13:46:23Z,invoapi,0.1.0,invoapi <info@invoapi.de>,MIT,25523,"Python client for the invoapi.de e-invoicing API: XRechnung, ZUGFeRD / Factur-X, EN 16931, UBL, CII, Peppol"
+2026-10-30T13:46:45Z,nnschemaparser,0.1.0,Cerisara Nathan,"MIT License Copyright (c) 2025 Cerisara Nathan Permission is hereby granted, free of charge, to any…",145538,Parse torch nn.Module models into an inspectable ModelBlockSchema graph and execute it with a faithful schema interpreter
+2026-10-30T13:49:04Z,tidy-calliope,0.1.0,Francesco Sanvito <sanvitofrancesco@gmail.com>,Apache-2.0,63322,Post-processing of Calliope 0.7 results (incl. clustered runs) into tidy tables
+2026-10-30T13:50:06Z,trooth,0.1.0,"Trooth, LLC",Apache-2.0,65641,"Read a company's Semanto signed copy and check it: signatures, keys, DNS binding, page proofs and the public log."
+2026-10-30T13:51:03Z,agentskills-oci,0.8.0,Pratik Panda,MIT,13652,OCI registry provider for the Agent Skills format (https://agentskills.io)
+2026-10-30T13:52:06Z,rampgate-nvml,0.1.0,Hakan Bağıç,Apache-2.0,20902,"NVIDIA GPU probe for rampgate (NVML), with process-to-container mapping."
+2026-10-30T13:52:23Z,agentskills-mcp-extension,0.8.0,Pratik Panda,MIT,40342,Publish and consume the official MCP Skills extension (https://agentskills.io)
+2026-10-30T13:54:04Z,tree-sitter-swi-prolog,0.1.0,Piotr Franczyk,MIT,615728,SWI-Prolog grammar for tree-sitter
+2026-10-30T13:55:16Z,illest-crypto,2.1.0,VERAKS,,2973384,"The MLS engine of illest.py, ILLEST's bot library. Installed with it; not meant to be used alone."
+2026-10-30T13:55:21Z,illest.py,2.1.0,VERAKS,MIT,429192,"Write bots for ILLEST the way you write them for discord: discord.py's shape, end-to-end encrypted."
+2026-10-30T13:55:51Z,flin-ga4-mcp,0.1.0,flin GmbH <flin@flin.agency>,MIT,166642,Read-only Google Analytics 4 MCP server with local OAuth and multi-account support.
+2026-10-30T13:56:28Z,rn-forge-commons,0.8.0,Rohit Narayanan,MIT,202380,"Shared, framework-agnostic utilities for Python programming"
+2026-10-30T13:57:58Z,openring,0.1.0,,MIT,178650,"Open-source, self-hosted voice AI agents with a Vapi-compatible API. Zero platform fee."
+2026-10-30T13:59:26Z,noobean-storage,1.0.0,Noobean,MIT,4652,A simple Python library for file management
+2026-10-30T14:02:18Z,flin-gmp-mcp,0.1.0,flin GmbH <flin@flin.agency>,MIT,164527,"Read-only MCP server for Google Marketing Platform, DV360, CM360 and SA360."
+2026-10-30T14:04:20Z,statistik-austria-mcp,1.0.0,Daniil Vasilcovschii,MIT,21312,MCP server that gives AI assistants access to Statistik Austria's open data portal
+2026-10-30T14:04:38Z,flin-bigquery-mcp,0.1.0,flin GmbH <flin@flin.agency>,MIT,168985,MCP server for exploring BigQuery and running bounded read-only SQL queries.
+2026-10-30T14:06:14Z,zivalix,0.0.1,ZIVALIX Founders,,2370,Official reserved package for ZIVALIX Agency. Defensive registration.
+2026-10-30T14:07:29Z,clustereasy,0.1.0,Shashikant,MIT,37115,"A beginner-friendly, consistent API for K-Means and Agglomerative Clustering on pandas DataFrames."
+2026-10-30T14:08:02Z,singit,0.1.0,SingIt <contact@singitai.app>,MIT,22831,SingIt SDK: x402 payment and client-side spending allowance for SingIt Ask.
+2026-10-30T14:09:28Z,rampgate-psutil,0.1.0,Hakan Bağıç,Apache-2.0,16641,Host RAM/CPU probe for rampgate (psutil).
+2026-10-30T14:10:33Z,novilabs-pits,0.dev0,Novi Labs <devops@novilabs.com>,,821,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-30T14:10:34Z,novilabs-rucksack,0.dev0,Novi Labs <devops@novilabs.com>,,826,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-30T14:10:35Z,novilabs-data-lineage,0.dev0,Novi Labs <devops@novilabs.com>,,825,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-30T14:10:36Z,novilabs-calc-features,0.dev0,Novi Labs <devops@novilabs.com>,,829,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-30T14:12:49Z,nife-xai,0.1.0,Jurandir Silva <jurandirjdsilva@gmail.com>,MIT,106020,"NIFE Is a Framework for Explanations: explanations of machine-learning models, starting with counterfactual explanations"
+2026-10-30T14:13:52Z,nutq,0.1.0,Bahrom Sharifzoda,MIT,77834,"Script conversion and text normalization (numbers, dates, money to words) for Tajik, Persian, Dari and Uzbek"
+2026-10-30T14:14:06Z,gusher,1.0.0,tderk,MIT,49958,gusher // a minimal phrase-seeded glitch terminal over every MProcs and Fumuda-XY console
+2026-10-30T14:14:40Z,pourbase,0.1.0,Frederik Lizak Johansen,GPL-3.0-only,4726050,Source-linked experimental thermochemistry database and Pourbaix diagram calculator
+2026-10-30T14:15:34Z,criteo-api-commercegrid-sdk-experimental,0.0.261030,Criteo,,202382,Criteo API SDK
+2026-10-30T14:15:40Z,criteo-api-marketingsolutions-sdk-experimental,0.0.261030,Criteo,,1737393,Criteo API SDK
+2026-10-30T14:15:42Z,litedmin,0.4.0,Mikhail Logunov <milog7890@gmail.com>,MIT,5074937,Modern admin interface inspired by Django Admin with React Material UI frontend
+2026-10-30T14:15:47Z,criteo-api-retailmedia-sdk-experimental,0.0.261030,Criteo,,1356085,Criteo API SDK
