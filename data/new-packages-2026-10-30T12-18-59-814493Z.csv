@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T11:21:46Z,pymapflights,0.3.0,Olli <1@olli.dev>,MIT,39078,Asynchronous Python client for the map.flights API (unofficial)
+2026-10-30T11:24:37Z,hardencheck,0.1.0,mgkvibez,MIT,26197,"Static hardening checks for Dockerfiles, compose files, Kubernetes manifests and sshd config, with SARIF for CI."
+2026-10-30T11:24:39Z,kaliauto,0.1.0,mgkvibez,MIT,39781,"Authorized, non-destructive recon orchestration: scope-gated, dry-run by default, every action audited."
+2026-10-30T11:26:57Z,bb-mask,0.3.0,BigBrains,MIT,30720,"Data Mask istemcisi: metin ve dosya anonimleştirme, restore. Model çağrısı yok."
+2026-10-30T11:27:48Z,runspector,0.5.0,Eddie Leon <23697411+edxleon@users.noreply.github.com>,MIT,9664501,"Local-first AI running coach for Garmin: readiness, VO2max and 80/20 training explained, workouts on your watch - on your own Claude Code sign-in."
+2026-10-30T11:31:19Z,tenqsp,0.6.0,Dongwoo Chae,Apache-2.0,951825,"Structured-population PDEs for quantitative systems pharmacology, in JAX"
+2026-10-30T11:32:07Z,weekburn,0.1.0,Ishan Yash <ishan.yash17@gmail.com>,MIT,49709,"See which Claude Code sessions burned your weekly limit, and whether your usage per message really changed."
+2026-10-30T11:35:09Z,zephirum,2.1.0,Reginaldo Gonçalves <builderquantunxia@gmail.com>,MIT,141306,ZEPHIRUM: Lisp-style quantum programming language with the ZYQL trivalent decision core (1/0/REFUSED)
+2026-10-30T11:35:32Z,dinkster-api,0.0.2,,,948637,The versioned extension API door: packs import dinkster_api.v1 only (DESIGN 3.6)
+2026-10-30T11:36:09Z,dinkster-supervisor,0.0.2,,,85628,"Dinkster supervisor: layer-0 process that owns the public port, spawns engine hosts, and proxies to them"
+2026-10-30T11:37:42Z,dinkster,0.0.2,,,8063921,Dinkster - a clean-slate ComfyUI backend (umbrella dev package + demo CLI)
+2026-10-30T11:39:54Z,runpeek-sdk,0.8.0,Bitgate <kevin@bitgate.com>,MIT,47334,Runpeek: watch your Python jobs and tqdm progress bars live from any browser or phone.
+2026-10-30T11:42:33Z,honeyfile,0.3.0,Thanut Jongteerathanachote,MIT,40026,Plant decoy files and get alerted the moment ransomware or an intruder touches them.
+2026-10-30T11:47:39Z,binggio,0.1.1,Ashish Kumar <ashish@binggio.com>,AGPL-3.0-or-later,1272622,"Governed answers from your data: approved meanings only, refusals instead of guesses."
+2026-10-30T11:49:36Z,spss-mcp,1.1.2,spss-mcp Contributors,MIT,190836,"MCP server for IBM SPSS Statistics (macOS + Windows): paper-ready charts, deep result parsing, and safe syntax execution"
+2026-10-30T11:50:09Z,sageql,0.2.1,Sina Qasempour,MIT,872385,"Embedded chat reporting SDK: LLMs extract intent, deterministic code compiles authorized, parameterized SQL"
+2026-10-30T11:50:49Z,pydantic-linq,0.1.0,Abhishek Dutta <phoenixdutta@gmail.com>,MIT,79370,"C# LINQ (Enumerable + AsyncEnumerable) for Python, typed and Pydantic-aware"
+2026-10-30T11:51:06Z,myrtui,0.5.0,Yiding Ping,MIT,1262049,"Lightweight per-project terminal workspace: file tree + git log + up to 4 real tmux panes, in Textual"
+2026-10-30T11:51:39Z,reaowl,0.0.4,Gobal Krishnan V <gobalkrishnan.work@gmail.com>,MIT,19612,Text to Speech with Reader
+2026-10-30T11:57:21Z,runtfy,0.1.0,Adil <adilkt16@users.noreply.github.com>,"MIT License Copyright (c) 2026 Adil (adilkt16) Permission is hereby granted, free of charge, to any…",45483,A CLI tool that wraps terminal commands and notifies your phone when they finish or need input.
+2026-10-30T11:57:22Z,cognixx,1.0.1,Cognix Team,,8245,Python client for CogniX AI Studio and Cloud Storage Services
+2026-10-30T11:57:45Z,seaf-netconf-parser,0.1.0,Kutsenko Oleg <koa73@bk.ru>,MIT,168620,Система анализа конфигураций сетевого оборудования для автоматического построения топологий сети и конвертации в формат SEAF (System Enterprise Architecture Framework).
+2026-10-30T11:58:24Z,dbt-lakecompute,0.1.0.dev2,dbt Labs <info@dbtlabs.com>,,112520,The lake compute adapter plugin for dbt
+2026-10-30T12:03:01Z,devtools-inspector-mcp,0.1.0,,,17295108,A local MCP server for live Chrome DevTools diagnostics.
+2026-10-30T12:03:58Z,trace-to-fixture,0.1.0,Faultline-lab,MIT,75582,"Turn real agent runs into safe, small, repeatable tests: scrub private data, keep one example of each behaviour, write pytest fixtures for faultgate-zero."
+2026-10-30T12:04:01Z,meshshader-engine,0.2.0,Peter Rösch <Peter.Roesch@tha.de>,GPL-3.0-or-later,4038313,Didactic Python engine for GLSL shader programming: a classical vertex/fragment pipeline and NVIDIA mesh/task shaders (GL_NV_mesh_shader). Wraps PyOpenGL boilerplate behind TOML-configured experiment…
+2026-10-30T12:04:51Z,pramaa,0.1.0,Valentin Dusserre,MIT,68382,"Conformal forecasting: point forecasts, hierarchy reconciliation, and calibrated bands."
+2026-10-30T12:08:16Z,shdir,0.1.4,Rogov Anton,GNU GPL v3,31446,Share your files in local network with secure connection
+2026-10-30T12:08:35Z,block-style-cms-mcp,0.0.3,Biscuit Zhou <biscuit_zhou@outlook.com>,MIT,89597,MCP server for Block Style CMS (wraps block-style-cms-sdk)
+2026-10-30T12:11:24Z,scipion-chem-p2rank,3.3.3,Daniel Del Hoyo,,56765,Scipion plugin in order to use the p2rank software
+2026-10-30T12:11:44Z,daybook-mcp,3.2.2,手艺人老宋 <songliansheng@vip.sina.com>,MIT,211957,DAYBOOK 璇玑：把纯文本账本暴露成 MCP 服务（resources / tools / prompts）
+2026-10-30T12:11:47Z,daybook-orch,3.2.2,手艺人老宋 <songliansheng@vip.sina.com>,AGPL-3.0-or-later,220996,DAYBOOK 司南：把账本底座上的身份/任务/锁/心跳/路由焊成一个可跑闭环的智能体编排中心
+2026-10-30T12:14:53Z,scipion-chem-fpocket,3.3.3,Daniel Del Hoyo,,153407,Scipion plugin in order to use ther fpocket software
+2026-10-30T12:18:36Z,pastallapy,0.0.1,,,200222,
