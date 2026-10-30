@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T19:54:18Z,pgzero-plus,0.0.1a1,Michael D'Argenio <mjdargen@gmail.com>,LGPL-3.0-or-later,203817,An enhanced fork of Pygame Zero with additional features for teaching and developing 2D games
+2026-10-30T20:24:02Z,tabletkey,0.1.0,Rajesh Das,MIT,469918,"Give your VEIKK VO1060 a home on COSMIC Linux: pen, shortcuts, wheel, and visual settings."
+2026-10-30T20:25:35Z,spatial-continuum,1.0.2,Luca Celebrano <l.celebrano@studenti.unina.it>,MIT,42870,Universal biophysical reaction-diffusion transport framework and Bedside Composite Resistance Index (CRI) for NSCLC.
+2026-10-30T20:25:49Z,karabiner-dsl,0.1.0,Alex Ruimy,MIT,115441,Write Karabiner-Elements rules as short English sentences.
+2026-10-30T20:25:55Z,sverify,0.1.0,Alexander Nenninger <alexander.nenninger@live.de>,,113971098,"Contracts and incremental views on DataFusion, proven in Lean"
+2026-10-30T20:26:35Z,botsrated-openai-agents,0.1.0,,MIT,17359,Payment-client hook that pairs with the OpenAI Agents SDK. Registers BotsRated PaymentGuard on an x402 client before pay. Not an orchestration runtime.
+2026-10-30T20:27:13Z,bite-check,0.4.1,,MIT,93475,"Checks whether the ""fixed"" in your coding agent's recent commits is actually true."
+2026-10-30T20:28:30Z,biocompile,0.1.0a1,Biocompile,Apache-2.0,62567,Python client for the Biocompile Public API
+2026-10-30T20:29:09Z,puggles-dashboard,0.3.0,Entropy314,MIT OR Apache-2.0,2689917,"Live browser dashboard, run replay and comparison for puggles (NSGA-II / NSGA-III) — the optional visual add-on"
+2026-10-30T20:30:59Z,faxforagents,0.2.0,Fax for Agents <hello@faxforagents.com>,MIT,121303,"Python client for Fax for Agents: a fax API, a hosted MCP server and SDKs built so AI agents can send and receive faxes."
+2026-10-30T20:31:19Z,blacktop-data,0.1.0,Blacktop Data,MIT,67467,"Python client for the Blacktop Data API, with a FastF1-style interface for Formula 1"
+2026-10-30T20:31:55Z,mndopt,0.1.1,,Apache-2.0,22632,Matrix Normal Diagonal (MND) optimizer for PyTorch.
+2026-10-30T20:34:21Z,devops-events-local,0.0.1b4163,Circles,,14923,PyPI devops-events-local Python Package owned by Circlez.ai
+2026-10-30T20:34:28Z,emet-sdk,0.1.0,FUSE,Apache-2.0,133904,Send your AI agent's turns to Emet from the OpenTelemetry GenAI spans it already emits
+2026-10-30T20:40:08Z,pointtransformerv3,0.1.0,Pointcept <xiaoyang.wu.cs@gmail.com>,CC-BY-NC-4.0,297719,"Point Transformer V3 in pure PyTorch and Triton: runs the PTv3, Sonata, Concerto and Utonia weights."
+2026-10-30T20:40:12Z,surd,1.2.0,"Álvaro Martínez-Sánchez, Gonzalo Arranz, Adrián Lozano-Durán",MIT,96177,Synergistic-Unique-Redundant Decomposition of causality for time series
+2026-10-30T20:40:24Z,ahl-npm,1.0.0,Harry Wilde <harry.wilde@nesta.org.uk>,MIT,158286,Functions and configuration for calculating Nutrient Profiling Model (NPM) scores
+2026-10-30T20:42:18Z,langgraph-botsrated,0.1.0,,MIT,21337,Payment-client wrap that pairs with LangGraph. Registers BotsRated PaymentGuard on an x402 client and offers an optional pre-pay node helper. Not an orchestration runtime.
+2026-10-30T20:42:23Z,charlotteunoq2,0.1.0,,,2848,This is a package for my Uno Q
+2026-10-30T20:43:55Z,kvplan,0.1.0,Shawn (Shuaijie Shao),Apache-2.0,135654,"Plan vLLM deployments without the GPU: will it start, how much KV cache, how many users."
+2026-10-30T20:46:16Z,readme-doctor,0.1.0,Dansen AI,MIT,5993,Score a README.md and list concrete fixes
+2026-10-30T20:46:53Z,diskclean-mcp-server,0.1.0,Kaito Kitaya,MIT,32660,"MCP server that finds dev caches, large unused videos and old logs, and moves them to the OS trash after your approval"
+2026-10-30T20:50:17Z,github-agent-cli,1.2.2,github-agent contributors,MIT,307342,"Repository and wiki steward: one command per documentation job, standard library only."
+2026-10-30T20:52:54Z,irvalidate,0.1.0,mehdirzfx <semicalon@outlook.com>,"MIT License Copyright (c) 2026 mehdirzfx Permission is hereby granted, free of charge, to any perso…",23008,"Validation of Iranian data: national ID, card number, Sheba (IBAN), mobile, postal code. اعتبارسنجی کد ملی، کارت، شبا، موبایل و کد پستی"
+2026-10-30T20:55:10Z,oathkey,0.8.0,Calas Automations Inc.,MIT,732422,"Let your AI use your API keys through oathkey without ever holding them: guided one-command setup, brokered API calls, a self-attack test and an activity log. Reduces risk; not independently reviewed."
+2026-10-30T20:56:01Z,qattack,0.2.0,QuSec Team,MIT,60930,QAttack — QuSec Communication Channel Attacker & Threat Demonstration Framework (Eve)
+2026-10-30T20:56:20Z,llama-stack-botsrated,0.1.0,,MIT,17105,"Payment-client wrap that pairs with Llama Stack. Registers BotsRated PaymentGuard on an x402 client. Not a runtime, distribution, or inference server."
+2026-10-30T20:59:21Z,nhanes-helpy,0.9.2,Christopher Hereau <Chris@perpetualmotion.work>,CC-BY-4.0,15678732,"Load, decode, describe, and aggregate any/all NHANES data"
+2026-10-30T21:00:47Z,stegguard,0.4.0,Aditya Arakeri,Apache-2.0,200020,"Detect, decode, and safely remove hidden content and provenance signals"
+2026-10-30T21:01:00Z,jscom,0.0.1,tsomerville,MIT,1083,Placeholder: the jscom name is held for a future project
+2026-10-30T21:02:04Z,vrcom,0.0.1,tsomerville,MIT,1086,Placeholder: the vrcom name is held for a future project
+2026-10-30T21:03:08Z,arcom,0.0.1,tsomerville,MIT,1086,Placeholder: the arcom name is held for a future project
+2026-10-30T21:03:48Z,scalio-tenant,0.1.0,,Proprietary,22477,"Tenant connection of the Scalio apps: own certificate, app registrations in the customer's tenant"
+2026-10-30T21:04:13Z,hdcom,0.0.1,tsomerville,MIT,1085,Placeholder: the hdcom name is held for a future project
+2026-10-30T21:04:27Z,fdl-cli,0.12.1,flo8s,MIT,137351,"Versions of a DuckLake catalog on object storage, kept the way Git keeps commits"
+2026-10-30T21:05:06Z,google-adk-botsrated,0.1.0,,MIT,23442,Payment-client wrap that pairs with Google ADK. Registers BotsRated PaymentGuard on an x402 client and offers an optional before_tool_callback. Not an agent runtime.
+2026-10-30T21:06:11Z,thadam-ai,0.3.0,Thadam contributors,Apache-2.0,96671,"Open-source testing, evaluation, and reliability for AI agents"
+2026-10-30T21:06:18Z,baobab-turn,0.1.1,Abiodun Bukoye,"MIT License Copyright (c) 2026 baobab-turn contributors Permission is hereby granted, free of charg…",168392,"Turn detection for African speech. Framework-agnostic core, thin adapters, contributable language packs."
+2026-10-30T21:08:25Z,chita,0.0.1,Mingyu Li,BSD-3-Clause,4971714,"Fast, tuning-free, multi-scale source extraction for astronomical images"
+2026-10-30T21:08:26Z,kinescript-kokoro,0.1.0,Dr. Know How,MIT,11910,Kokoro voices for kine voice: speaks a scene's text and times each word
+2026-10-30T21:10:35Z,crewai-botsrated,0.1.0,,MIT,23533,Payment-client wrap that pairs with CrewAI. Registers BotsRated PaymentGuard on an x402 client and offers an optional before-pay tool hook. Not a crew runtime.
+2026-10-30T21:10:45Z,mnemo-client,1.1.0,"PANAXON.AI, LLC",Apache-2.0,69586,"Python client for the MNEMO API, the multi-tenant AI memory service from Panaxon AI"
+2026-10-30T21:11:24Z,odoo-addon-account-payment-internal-transfer,18.0.1.0.0.4,"ForgeFlow, Odoo Community Association (OCA)",LGPL-3,31501,Restore internal transfer functionality between bank/cash journals
+2026-10-30T21:13:15Z,retex,1.7.0a1,,CC0-1.0,7676001,"Compile LaTeX documents to PDF, SVG, ODT, HTML and Markdown from Python, with retex, a LuaLaTeX-compatible TeX engine in Rust"
+2026-10-30T21:17:01Z,pipecat-guardrails,0.0.1,Apoorv Mittal,BSD-2-Clause,8182,"Output guardrails for Pipecat voice agents: check what the bot is about to say, and stop it before it is spoken."
