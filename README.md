@@ -8,34 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 23:18 UTC
+## Latest list — 2026-10-30 00:19 UTC
 
-New packages created between 2026-10-29 22:19 UTC and 2026-10-29 23:18 UTC.
+New packages created between 2026-10-29 23:18 UTC and 2026-10-30 00:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-29T23-18-58-239493Z.csv)
+[Full CSV](data/new-packages-2026-10-30T00-19-32-629262Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-29 22:20:30 | [gwsource](https://pypi.org/project/gwsource/) | 0.1.0 | Rui Hugman | 299.7 kB | Cell-mixing flow tracing (capture and source fractions) for MODFLOW 6 output. |
-| 2026-10-29 22:26:21 | [resulex](https://pypi.org/project/resulex/) | 0.1.2 | Rohit Mishra | 21.5 MB | Resume text parser built on rules, reference data and a small spaCy model (no L… |
-| 2026-10-29 22:28:08 | [simready-forge](https://pypi.org/project/simready-forge/) | 0.1.0 | Soma Osvay | 1.9 MB | Turn a prompt or a photo into an NVIDIA SimReady asset: OpenUSD with materials,… |
-| 2026-10-29 22:29:10 | [reasoning-dataset-lab](https://pypi.org/project/reasoning-dataset-lab/) | 0.4.0 | mcp-tool-shop | 718.8 kB | Map-first dataset lab for proven reasoning puzzles, verification items, and com… |
-| 2026-10-29 22:29:39 | [urlrender](https://pypi.org/project/urlrender/) | 0.1.2 | Hemant Malik | 12.8 kB | A lightweight Python library for rendering JavaScript-enabled web pages using P… |
-| 2026-10-29 22:31:47 | [DiracULA](https://pypi.org/project/DiracULA/) | 0.1.0 | Arkhip Alekseyevich Dmitriev | 607.4 kB | Dirac Universal Language for Algorithm: size-agnostic quantum algorithm develop… |
-| 2026-10-29 22:32:17 | [witool](https://pypi.org/project/witool/) | 1.0.0 | Hex <hexgroupaz@gmail.com> | 11.4 kB | A professional CLI-based wireless penetration testing tool for Linux |
-| 2026-10-29 22:35:13 | [sphinx-config-schema](https://pypi.org/project/sphinx-config-schema/) | 0.0.1 | Common Partial Wave Analysis | 41.3 kB | Render a JSON schema as a copyable TOML, YAML, or JSON example with tooltips in… |
-| 2026-10-29 22:39:31 | [onet-match](https://pypi.org/project/onet-match/) | 0.3.0 | Benjamin Chan | 173.8 kB | Map free text (job titles, resume lines, projects, interests, skills) to O*NET… |
-| 2026-10-29 22:40:43 | [quirework](https://pypi.org/project/quirework/) | 0.1.0 | Ademar Reis | 2.0 MB | Tools for writing and researching books and sites with an AI companion |
-| 2026-10-29 22:48:52 | [point-affinity-transformer](https://pypi.org/project/point-affinity-transformer/) | 0.2.0 | Jakob Troidl | 62.7 kB | Point Affinity Transformers for global neuron shape reasoning |
-| 2026-10-29 22:49:19 | [outwrite](https://pypi.org/project/outwrite/) | 0.1.0a3 |  | 14.0 kB | Python logs and live status updates, shared across processes. |
-| 2026-10-29 22:49:56 | [infrawrench-bulk-instances](https://pypi.org/project/infrawrench-bulk-instances/) | 1.0.0 | Infrawrench LLC <astrid@infra… | 18.6 kB | AWS EC2 instance attributes and pricing, with full history, from Infrawrench. |
-| 2026-10-29 22:58:46 | [cumulosim](https://pypi.org/project/cumulosim/) | 0.0.1 | Luke Bierbaum | 3.1 kB | Reserved for CumuloSim. Coming soon. |
-| 2026-10-29 22:59:02 | [endeavor-nova](https://pypi.org/project/endeavor-nova/) | 0.1.0 |  | 92.9 kB | The Nova SDK for Python. |
-| 2026-10-29 23:03:03 | [superroute-sapp](https://pypi.org/project/superroute-sapp/) | 0.2.1 | Goodneo Solutions | 98.3 kB | sApp for Python: sign-in, the platform app API, Open Platform capabilities and… |
-| 2026-10-29 23:04:29 | [gedcom-privacy-guard](https://pypi.org/project/gedcom-privacy-guard/) | 0.4.0b1 |  | 159.0 kB | Flag sensitive notes in a GEDCOM export for human review before you upload a fa… |
-| 2026-10-29 23:08:41 | [uriloop](https://pypi.org/project/uriloop/) | 0.3.1 |  | 213.2 kB | Wspólna płaszczyzna URI/URN do autonomicznego sterowania przeglądarką (CDP) i p… |
-| 2026-10-29 23:09:05 | [silent-failure-lint](https://pypi.org/project/silent-failure-lint/) | 0.1.0 | StackScribe AI <survivalagent… | 14.5 kB | Static checks for silently-swallowed async/IO failures in Python: bare excepts,… |
-| 2026-10-29 23:09:25 | [meepsquared](https://pypi.org/project/meepsquared/) | 0.1.0 | Alejandro Martínez Corriá and… | 1.1 MB | Fast LoRA and QLoRA fine-tuning with permissively licensed components |
-| 2026-10-29 23:10:43 | [monitaudit](https://pypi.org/project/monitaudit/) | 0.1.0 | Informatie <informatie@nednaz… | 165.8 kB | A lightweight, low-overhead Python framework for real-time log monitoring and s… |
-| 2026-10-29 23:11:42 | [pawabase](https://pypi.org/project/pawabase/) | 0.3.0 | Pawabase contributors | 119.2 kB | Python client for Pawabase: records, auth, storage, functions, flows, realtime,… |
-| 2026-10-29 23:11:43 | [pawabase-iac](https://pypi.org/project/pawabase-iac/) | 0.1.0 | Pawabase contributors | 196.1 kB | Define a whole Pawabase backend as Python code, validate it, plan it, emulate i… |
+| 2026-10-29 23:21:41 | [elessar](https://pypi.org/project/elessar/) | 1.0.0 | thibautdqb | 504.7 kB | Automated exploratory data analysis and data-quality profiling for pandas DataF… |
+| 2026-10-29 23:22:03 | [agent-skilldoctor](https://pypi.org/project/agent-skilldoctor/) | 0.1.0 | juzorei | 14.6 kB | Audit AI agent skill directories: broken SKILL.md files, duplicate and shadowed… |
+| 2026-10-29 23:24:05 | [langchain-videogen](https://pypi.org/project/langchain-videogen/) | 2.5.0 |  | 27.9 kB | Official LangChain tools for the VideoGen API. Generate videos, images, voiceov… |
+| 2026-10-29 23:24:06 | [llama-index-tools-videogen](https://pypi.org/project/llama-index-tools-videogen/) | 2.5.0 |  | 28.0 kB | Official LlamaIndex tools for the VideoGen API. Generate videos, images, voiceo… |
+| 2026-10-29 23:24:51 | [baux](https://pypi.org/project/baux/) | 0.0.1 |  | 20.3 MB | Black-box optimization library |
+| 2026-10-29 23:25:57 | [qualitranslate](https://pypi.org/project/qualitranslate/) | 1.5.1 | Ali Yalcinkaya <aliyalcink@gm… | 157.0 kB | Forward translation, blind back-translation, reconciliation and recorded human… |
+| 2026-10-29 23:26:53 | [sequentialist-core](https://pypi.org/project/sequentialist-core/) | 0.1.0 | Andrej Novikov | 113.8 kB | Common layer of the sequentialist libraries: specs, a checkpointed engine over… |
+| 2026-10-29 23:29:35 | [pyrsb3](https://pypi.org/project/pyrsb3/) | 0.1.0 | André Leite <leite@castlab.or… | 18.9 MB | B3 (Brazilian stock exchange) public files as Arrow: strict COTAHIST parser wit… |
+| 2026-10-29 23:37:00 | [flowdMarker](https://pypi.org/project/flowdMarker/) | 1.0.0 | Pablo Collado Soto | 5.6 MB | Binary distribution of marking logic wrapped in Python abstractions. |
+| 2026-10-29 23:45:56 | [xrcon-rs](https://pypi.org/project/xrcon-rs/) | 1.0.1 |  | 399.9 kB | rcon client for Xonotic (DarkPlaces rcon protocol), Rust implementation with Py… |
+| 2026-10-29 23:49:40 | [photosearch](https://pypi.org/project/photosearch/) | 0.1.0 | Mumit Khan | 423.4 kB | Search an Apple Photos library by what's in the pictures, and play with it |
+| 2026-10-29 23:50:06 | [crosswind-sandboxes](https://pypi.org/project/crosswind-sandboxes/) | 0.1.0 | Viswa Marepalli | 83.7 kB | Cloudflare Sandbox SDK for Python Workers |
+| 2026-10-29 23:50:33 | [olive-rag-eval](https://pypi.org/project/olive-rag-eval/) | 0.1.0 |  | 22.0 MB | Native Rust RAG evaluation with Odia-first multilingual, BM25/RRF and local rer… |
+| 2026-10-29 23:51:34 | [mantis-imf](https://pypi.org/project/mantis-imf/) | 0.1.8 | Louis Zhuang <yzhuang@outlook… | 46.2 kB | Instrument Management Facility for MANTIS |
+| 2026-10-29 23:51:40 | [pymiraw](https://pypi.org/project/pymiraw/) | 0.2.0 | Albert Pla Planas | 3.6 MB | miRNA target prediction with deep learning: a Python/PyTorch reimplementation o… |
+| 2026-10-29 23:53:55 | [aitana-anomaly](https://pypi.org/project/aitana-anomaly/) | 0.1.0 | Yannik Behr <y.behr@gns.cri.n… | 72.1 kB | Anomaly detection in time-series data |
+| 2026-10-29 23:54:23 | [pycurenergia](https://pypi.org/project/pycurenergia/) | 0.1.0 | yuuues | 66.1 kB | Parser de facturas en PDF de CurEnergía (proyecto no oficial). |
+| 2026-10-30 00:01:02 | [entpoind-verify](https://pypi.org/project/entpoind-verify/) | 0.1.0 | Avonao, Inc. | 33.6 kB | Offline verification of Entpoind Tools receipts and VerifiableArtifact bundles:… |
+| 2026-10-30 00:02:51 | [provenage-meeting-ics](https://pypi.org/project/provenage-meeting-ics/) | 0.1.0 |  | 30.8 kB | Source-agnostic civic meeting records to an RFC 5545 iCalendar feed. Standard l… |
+| 2026-10-30 00:11:42 | [educabot-xrp](https://pypi.org/project/educabot-xrp/) | 1.0.0 | Educabot Robotica | 19.0 kB | Libreria estandar para Robot SparkFun XRP en Raspberry Pi Pico y Pico 2 W (Micr… |
+| 2026-10-30 00:11:45 | [keramos-hearth](https://pypi.org/project/keramos-hearth/) | 0.1.1 |  | 41.5 kB | L'hébergement et l'exploitation de la famille Keramos : serveurs, domaines, DNS… |
+| 2026-10-30 00:12:14 | [doukimd](https://pypi.org/project/doukimd/) | 1.0.0 | Ivan Ogasawara | 146.1 kB | Markdown documentation with first-class Douki API references |
+| 2026-10-30 00:12:45 | [openscour](https://pypi.org/project/openscour/) | 0.3.1 | ivipinmishra | 104.2 kB | Self-hosted web search API for LLMs and agents that returns answer-first passag… |
+| 2026-10-30 00:13:17 | [keramos-grog](https://pypi.org/project/keramos-grog/) | 0.1.0 |  | 38.3 kB | La mémoire de la famille Keramos : relit les sessions et verse ce qu'elles ont… |
+| 2026-10-30 00:13:43 | [cotorch](https://pypi.org/project/cotorch/) | 0.0.1 |  | 11.4 kB | An experimental, early-stage machine learning framework built from first princi… |
+| 2026-10-30 00:14:08 | [mantis-tsf](https://pypi.org/project/mantis-tsf/) | 0.1.8 | Louis Zhuang <louis.zhuang@ac… | 2.4 kB | Time Series Facility for MANTIS |
+| 2026-10-30 00:15:14 | [keramos](https://pypi.org/project/keramos/) | 1 | antoine-tena | 45.1 kB | Installs the Keramos family's tools, one per craft: pick the ones you need, kee… |
+| 2026-10-30 00:16:19 | [uitree](https://pypi.org/project/uitree/) | 0.1.0 | juzorei | 19.7 kB | Desktop UI Automation trees for agents: inspect, search and diff Windows GUI el… |
+| 2026-10-30 00:16:55 | [journeyrewards-sdk](https://pypi.org/project/journeyrewards-sdk/) | 2.0.0 | Journey Rewards <alliance@jou… | 29.4 kB | Official Journey SDK for hospitality loyalty, member APIs and MCP |
+| 2026-10-30 00:16:58 | [harrecon](https://pypi.org/project/harrecon/) | 0.1.0 | juzorei | 19.7 kB | Turn HAR captures into a private API's inventory, schemas and a typed Python cl… |
+| 2026-10-30 00:18:13 | [einfold](https://pypi.org/project/einfold/) | 0.1.0rc1 |  | 182.0 MB | Array algorithms for tensor computations written in SQL: matrix products, contr… |

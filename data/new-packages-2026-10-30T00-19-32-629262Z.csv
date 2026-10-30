@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-29T23:21:41Z,elessar,1.0.0,thibautdqb,MIT,504696,Automated exploratory data analysis and data-quality profiling for pandas DataFrames
+2026-10-29T23:22:03Z,agent-skilldoctor,0.1.0,juzorei,MIT,14572,"Audit AI agent skill directories: broken SKILL.md files, duplicate and shadowed skills across install roots"
+2026-10-29T23:24:05Z,langchain-videogen,2.5.0,,MIT,27897,"Official LangChain tools for the VideoGen API. Generate videos, images, voiceovers, sound effects, music, and avatars from any LangChain or LangGraph agent."
+2026-10-29T23:24:06Z,llama-index-tools-videogen,2.5.0,,MIT,28046,"Official LlamaIndex tools for the VideoGen API. Generate videos, images, voiceovers, sound effects, music, and avatars from any LlamaIndex agent."
+2026-10-29T23:24:51Z,baux,0.0.1,,,20261364,Black-box optimization library
+2026-10-29T23:25:57Z,qualitranslate,1.5.1,Ali Yalcinkaya <aliyalcink@gmail.com>,MIT,156980,"Forward translation, blind back-translation, reconciliation and recorded human review for qualitative interview transcripts"
+2026-10-29T23:26:53Z,sequentialist-core,0.1.0,Andrej Novikov,AGPL-3.0-only OR LicenseRef-Commercial,113779,"Common layer of the sequentialist libraries: specs, a checkpointed engine over sequential-analysis runs, storage, audit log, reports"
+2026-10-29T23:29:35Z,pyrsb3,0.1.0,André Leite <leite@castlab.org>,MIT,18888493,"B3 (Brazilian stock exchange) public files as Arrow: strict COTAHIST parser with integer-cent prices, in Rust."
+2026-10-29T23:37:00Z,flowdMarker,1.0.0,Pablo Collado Soto,Apache Software License,5609871,Binary distribution of marking logic wrapped in Python abstractions.
+2026-10-29T23:45:56Z,xrcon-rs,1.0.1,,GPL-3.0-or-later,399853,"rcon client for Xonotic (DarkPlaces rcon protocol), Rust implementation with Python bindings"
+2026-10-29T23:49:40Z,photosearch,0.1.0,Mumit Khan,MIT,423421,"Search an Apple Photos library by what's in the pictures, and play with it"
+2026-10-29T23:50:06Z,crosswind-sandboxes,0.1.0,Viswa Marepalli,Apache-2.0,83670,Cloudflare Sandbox SDK for Python Workers
+2026-10-29T23:50:33Z,olive-rag-eval,0.1.0,,MIT,21996231,"Native Rust RAG evaluation with Odia-first multilingual, BM25/RRF and local reranking support"
+2026-10-29T23:51:34Z,mantis-imf,0.1.8,Louis Zhuang <yzhuang@outlook.com>,,46175,Instrument Management Facility for MANTIS
+2026-10-29T23:51:40Z,pymiraw,0.2.0,Albert Pla Planas,MIT,3596401,"miRNA target prediction with deep learning: a Python/PyTorch reimplementation of miRAW (Pla et al., PLoS Comput Biol 2018)"
+2026-10-29T23:53:55Z,aitana-anomaly,0.1.0,Yannik Behr <y.behr@gns.cri.nz>,,72117,Anomaly detection in time-series data
+2026-10-29T23:54:23Z,pycurenergia,0.1.0,yuuues,MIT,66145,Parser de facturas en PDF de CurEnergía (proyecto no oficial).
+2026-10-30T00:01:02Z,entpoind-verify,0.1.0,"Avonao, Inc.",MIT,33577,"Offline verification of Entpoind Tools receipts and VerifiableArtifact bundles: Ed25519 over RFC 8785 canonical JSON, plus Merkle inclusion proofs. Standard library only."
+2026-10-30T00:02:51Z,provenage-meeting-ics,0.1.0,,Apache-2.0,30793,Source-agnostic civic meeting records to an RFC 5545 iCalendar feed. Standard library only.
+2026-10-30T00:11:42Z,educabot-xrp,1.0.0,Educabot Robotica,MIT,18953,Libreria estandar para Robot SparkFun XRP en Raspberry Pi Pico y Pico 2 W (MicroPython)
+2026-10-30T00:11:45Z,keramos-hearth,0.1.1,,,41451,"L'hébergement et l'exploitation de la famille Keramos : serveurs, domaines, DNS, mails, sauvegardes, surveillance."
+2026-10-30T00:12:14Z,doukimd,1.0.0,Ivan Ogasawara,,146087,Markdown documentation with first-class Douki API references
+2026-10-30T00:12:45Z,openscour,0.3.1,ivipinmishra,MIT,104215,Self-hosted web search API for LLMs and agents that returns answer-first passages
+2026-10-30T00:13:17Z,keramos-grog,0.1.0,,,38345,La mémoire de la famille Keramos : relit les sessions et verse ce qu'elles ont appris dans l'outil du bon métier.
+2026-10-30T00:13:43Z,cotorch,0.0.1,,MIT,11429,"An experimental, early-stage machine learning framework built from first principles."
+2026-10-30T00:14:08Z,mantis-tsf,0.1.8,Louis Zhuang <louis.zhuang@acm.org>,,2351,Time Series Facility for MANTIS
+2026-10-30T00:15:14Z,keramos,1,antoine-tena,MIT,45088,"Installs the Keramos family's tools, one per craft: pick the ones you need, keep them up to date."
+2026-10-30T00:16:19Z,uitree,0.1.0,juzorei,MIT,19745,"Desktop UI Automation trees for agents: inspect, search and diff Windows GUI element trees (pywinauto-backed, fixture-replayable offline)"
+2026-10-30T00:16:55Z,journeyrewards-sdk,2.0.0,Journey Rewards <alliance@journey.com>,MIT,29424,"Official Journey SDK for hospitality loyalty, member APIs and MCP"
+2026-10-30T00:16:58Z,harrecon,0.1.0,juzorei,MIT,19702,"Turn HAR captures into a private API's inventory, schemas and a typed Python client — offline, stdlib only"
+2026-10-30T00:18:13Z,einfold,0.1.0rc1,,Apache-2.0,182032667,"Array algorithms for tensor computations written in SQL: matrix products, contractions and attention, run fast inside your SQL engine"
