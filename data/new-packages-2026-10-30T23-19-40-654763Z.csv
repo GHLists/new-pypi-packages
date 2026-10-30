@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T22:29:59Z,texdocxdrafter,0.1.2,Lin Ma,MIT,289198,"TeX-DOCX Drafter: drafts a clean, style-mapped Word document from a compiled LaTeX paper, for coauthors who edit in Word"
+2026-10-30T22:30:08Z,danoley-my-package_7127318458,0.1.0,daoleinikov,,2934,Add your description here
+2026-10-30T22:31:50Z,advanced-ua-forge,4.5.0,,MIT,88659,"Offline browser UA profiles and authorized TLS, QUIC, DTLS, HTTP/2 diagnostics"
+2026-10-30T22:33:06Z,fastro,0.1.0.dev0,Benav Labs <contact@benav.io>,MIT,204957,"Generate Fastro projects from a blueprint, keep them in sync, and check them."
+2026-10-30T22:35:50Z,cotterpin-pack-angular,0.3.0rc1,,PolyForm Internal Use 1.0.0,1893742,Cotterpin for Angular and TypeScript: checks for your code and ready-made tasks such as upgrades
+2026-10-30T22:35:53Z,cotterpin-pack-dotnet,0.3.0rc1,,PolyForm Internal Use 1.0.0,1781324,Cotterpin for .NET and C#: checks for your code and ready-made tasks such as upgrades
+2026-10-30T22:35:57Z,cotterpin-pack-java,0.3.0rc1,,PolyForm Internal Use 1.0.0,12020408,Cotterpin for Java: checks for your code and ready-made tasks such as upgrades
+2026-10-30T22:36:01Z,cotterpin-pack-python,0.3.0rc1,,PolyForm Internal Use 1.0.0,1930840,Cotterpin for Python: checks for your code and ready-made tasks such as upgrades
+2026-10-30T22:48:43Z,odoo-addon-partner-autocomplete-manual,18.0.1.0.0,=?utf-8?q?Pelayo_Garc=C3=ADa?=,LGPL-3,61489,"Autocomplete company name, VAT, phone, address and logo from the contact's website, without Odoo IAP."
+2026-10-30T22:56:50Z,langchain-empty-response-retry,0.1.0,Bharat Khanna,MIT,14692,Model-agnostic LangChain agent middleware that retries with a corrective nudge when the model returns no text and no tool calls.
+2026-10-30T22:59:13Z,agora-loop,0.1.0,Daniele Giunchi,MIT,163187,"A quota-aware system of agentic systems: N coding agents, one bounded loop, free tiers only."
+2026-10-30T22:59:38Z,vluthra-agent-ledger,0.2.0,Vikas Luthra,MIT,72900,"Tamper-evident audit trails for AI agent tool calls: SHA-256 hash chains and Merkle trees. Python port of the npm package @vluthra/agent-ledger, with identical hashes and roots across languages."
+2026-10-30T23:00:19Z,langchain-placeholder-guard,0.1.0,Bharat Khanna,MIT,24090,Model-agnostic LangChain agent middleware that detects unfilled template placeholders and forbidden internal terms in output and tool arguments.
+2026-10-30T23:00:42Z,cloudevil,1.0.1,Devil,,743412,Cloudflare Turnstile token library for Termux.
+2026-10-30T23:01:41Z,bigcontext-schema,0.0.1,Big Context & Company,,1997,"Name held by Big Context & Company for BigContext Schema, an open specification (Apache 2.0) for writing down business context as statements tied to their source text. Contains no code."
+2026-10-30T23:01:42Z,bigcontext-schema-tools,0.0.1,Big Context & Company,,2045,"Name held by Big Context & Company for the free BigContext Schema tools (the bigcontext-schema command: generate, check, coverage, graph, cypher, odrl). Contains no code."
+2026-10-30T23:05:24Z,deepagent-backend,0.1.0,Antonio Nocerino <antonio.nocerinoai@gmail.com>,MIT,33610,"Remote storage backends for Deep Agents: install only the ones you need, e.g. deepagent-backend[s3]"
+2026-10-30T23:05:26Z,deepagent-backend-s3,0.1.0,Antonio Nocerino <antonio.nocerinoai@gmail.com>,MIT,15118,S3-compatible storage backend for Deep Agents
+2026-10-30T23:05:27Z,deepagent-backend-postgres,0.1.0,Antonio Nocerino <antonio.nocerinoai@gmail.com>,MIT,16385,PostgreSQL storage backend for Deep Agents
+2026-10-30T23:06:04Z,bijective-gamut,2.1.0,Bijective Systems,Apache-2.0,8104067,Gamut by Bijective Systems: an open file format for parametric simulation studies and fitted models
+2026-10-30T23:07:06Z,chai-thermo,0.15.0,Ruohong Jiao <rjiao@uvic.ca>,GPL-3.0-or-later,159368895,CHAI: Cooling Histories via Amortized Inference.
+2026-10-30T23:09:44Z,xipopt,0.1.0,Nardi Lam <mail@nardilam.nl>,,312319866,"Ipopt for JAX functions, called through the PJRT C API"
+2026-10-30T23:12:28Z,deepagent-backend-azure-blob,0.1.0,Antonio Nocerino <antonio.nocerinoai@gmail.com>,MIT,12138,Azure Blob Storage storage backend for Deep Agents
+2026-10-30T23:14:40Z,deepagent-backend-gcs,0.1.0,Antonio Nocerino <antonio.nocerinoai@gmail.com>,MIT,11887,Google Cloud Storage storage backend for Deep Agents
+2026-10-30T23:16:33Z,deepagent-backend-mongodb,0.1.0,Antonio Nocerino <antonio.nocerinoai@gmail.com>,MIT,12143,MongoDB storage backend for Deep Agents
+2026-10-30T23:19:15Z,deepagent-backend-redis,0.1.0,Antonio Nocerino <antonio.nocerinoai@gmail.com>,MIT,11971,Redis / Valkey storage backend for Deep Agents
