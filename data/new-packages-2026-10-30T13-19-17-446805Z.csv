@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T12:19:12Z,contextweave-sdk,0.1.0,Phina,Apache-2.0,30011,Typed sync and async clients for ContextWeave HTTP API v1
+2026-10-30T12:20:55Z,silvanexum-relay,0.1.0,Silvanexum,Apache-2.0,47260,Silvanexum plugin for NVIDIA NeMo Relay. A grpc-v1 worker plugin that meters every LLM call to Silvanexum — the spend-control plane for AI agents — for server-side pricing and per-agent/per-customer…
+2026-10-30T12:22:09Z,brinsons,0.1.0,Bibi Parrot,MIT,176898,Polars expression based portfolio attribution
+2026-10-30T12:25:05Z,workday-autofill,0.5.0,Harshad Lambate,MIT,124870,"Free, open-source job application autofill for Workday, Lever and Greenhouse. Answer each question once; you review and click Submit."
+2026-10-30T12:25:10Z,kleia,0.1.0,,MIT,92273,HTTP client adapters (CLI + stdio MCP) for a running Kleia.
+2026-10-30T12:25:49Z,llm-spend-report,0.1.0,Gang Ji,MIT,17804,An llm CLI plugin that prices your logged usage: `llm spend` reports estimated cost by model or by day from logs.db
+2026-10-30T12:25:49Z,scikit-allel2,2.0.0rc1,Alistair Miles <alistair.miles@sanger.ac.uk>,MIT,73812009,A Python package for exploring and analysing genetic variation data.
+2026-10-30T12:27:54Z,pyutils-n4c,0.1.1,RAPLI-DEV,,34163,Custom utils from n4c
+2026-10-30T12:27:55Z,infralayer-core,0.3.0,InfraLayer,MIT,21414,Zero-dependency pre-LLM security filtering and tenant-aware sanitization core
+2026-10-30T12:27:57Z,pancanga,0.1.0,,,796680,"Panchanga (pañcāṅga) engine: Hindu calendar calculations with zero dependencies, for CPython, MicroPython, and the browser"
+2026-10-30T12:28:14Z,guac-bridge,0.2.1,,MIT,45914,Bridge remote LLM APIs and SSH over an Apache Guacamole terminal
+2026-10-30T12:28:20Z,infralayer-sdk,0.3.0,InfraLayer,MIT,14156,Python SDK for local and remote InfraLayer pre-LLM sanitization
+2026-10-30T12:30:20Z,omega-vision,0.1.0,mgkvibez,MIT,46527,"A small vision model with a served, instrumented inference path: tiny PyTorch CNN, FastAPI serving, Prometheus metrics."
+2026-10-30T12:31:18Z,cryocast,2026.10,"Sophie Arana, Simon Driscoll, Isabel Fenton, Lydia France, Aoife Hughes, Maria Carolina Novitasari,…",,649848,CryoCast multimodal pipeline for predicting sea ice.
+2026-10-30T12:32:19Z,capo-sagemakertrainingsessionruntime,0.1.0,,,210666,"Typed, async Python SDK for AWS Sagemakertrainingsessionruntime."
+2026-10-30T12:33:51Z,sociyx,0.0.2,amanverasia,MIT,492513,Local-first bulk cleanup of your own social media history
+2026-10-30T12:34:41Z,agenturm,0.1.5,,MIT,424948,"Terminal-first monitor for AI agent sessions, MCP calls, OpenTelemetry traces, and errors."
+2026-10-30T12:35:43Z,spotify-soundtrack-mcp,1.0.0,Chiru144,"MIT License Copyright (c) 2024 Chiru144 Permission is hereby granted, free of charge, to any person…",209768,"Spotify & TMDB FastMCP server with 115 tools — filmography playlists, smart curation, playback control, and a built-in Soundtrack Studio web UI."
+2026-10-30T12:35:45Z,spotify-mcp-web,1.0.0,Chiru144,"MIT License Copyright (c) 2024 Chiru144 Permission is hereby granted, free of charge, to any person…",231391,"Soundtrack Curator & Staging Studio — a self-hosted FastAPI web app for Spotify playlist curation, TMDB filmography, and MCP tools management."
+2026-10-30T12:37:06Z,ciphergate-cli,0.7.0,CipherGate maintainers,Apache-2.0,364549,"Local-first, environment- and destination-aware inspection and sanitization of logs and test datasets."
+2026-10-30T12:37:49Z,autogen-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7390,"Surface for AutoGen: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-30T12:38:59Z,frenchephemeris,1.0.0,"""Gabriel Naulleau (FreeAstroAPI)"" <contact@freeastroapi.com>",AGPL-3.0-only OR LicenseRef-FrenchEphemeris-Commercial,6663372,"JPL-derived, thread-safe ephemeris and astrology geometry engine"
+2026-10-30T12:40:36Z,amharic-morph,0.1.0,Dawit,MIT,605086,"Morphologically aware Amharic tokenization at four levels: morpheme, fidel, sound and root."
+2026-10-30T12:43:58Z,FlannPy,0.1.0,Alexander Flann,3-Clause BSD,59084,A Python Library for Mathematical Finance
+2026-10-30T12:45:12Z,capo-continuum,0.1.0,,,537416,"Typed, async Python SDK for AWS Continuum."
+2026-10-30T12:49:34Z,aikoql-training,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",196946,"Training Data Engine for AikoQL — deterministic, validated training/evaluation dataset generation"
+2026-10-30T12:51:00Z,ayar,0.1.0,Aslan Satary Dizaji <aslansatary@gmail.com>,Apache-2.0,77491,Assay your spike-sorted finding before you publish: detect sorting artifacts and test whether your result survives them.
+2026-10-30T12:51:54Z,acellera-cinnabar,0.6.1,The OpenFE developers <openfe@omsf.io>,MIT,1457320,
+2026-10-30T12:55:33Z,ftsdata,0.1.0rc1,Alexandre Beelen <alexandre.beelen@lam.fr>,"Copyright (c) 2019, Alexandre Beelen Laboratory. All rights reserved. Redistribution and use in sou…",155275,"Fourier-transform spectrometer data containers, transforms, I/O and co-addition"
+2026-10-30T12:56:39Z,caretly,0.1.0,Jaap Elst <jaapelst@gmail.com>,MIT,31629,Client for the Caretly API: render ZPL labels to PDF or PNG.
+2026-10-30T12:57:55Z,praxis-arena,0.1.0,CodePraxis,Proprietary,36320,"CodePraxis platform client and pluggable scoring interface for hackathons, challenges, and learning sessions."
+2026-10-30T12:58:37Z,jazzoo,0.1.0,Maarten Nieber,MIT,312022,A beast of a task-runner
+2026-10-30T13:00:52Z,itrace,0.1.0,Mingyu Xu,MIT,31147,Download ITrace peptide-HLA-TCR MD trajectories and verify them against the server's hashes
+2026-10-30T13:01:35Z,expressive-audiobook,0.1.1,Valentyn Shybanov,Apache-2.0,306436,"Turn a book you own (PDF, Markdown or text) into a multi-chapter expressive audiobook."
+2026-10-30T13:01:38Z,moat-link-error,0.0.1,Matthias Urlichs <matthias@urlichs.de>,,18658,Error trace monitor for MoaT-Link
+2026-10-30T13:02:01Z,phpscan,1.4.4,Superstar Telecom LLC,MIT,46358,"Free external PHP vulnerability scanner (php2shell / CVE-2026-109618, CVE-2026-109619) — passive fingerprinting plus limited, read-only path checks. No exploit probes."
+2026-10-30T13:04:15Z,fault-contract,0.1.0,Faultline-lab,MIT,95002,"Write down the shape of data an agent sends to each tool and reads back, then check every real tool call against it: in pytest, in trace exports, and against the tool definitions the model is given."
+2026-10-30T13:05:21Z,std-graph,1.0.0,Mluleki Amampondo Mkhunyana,,6046,Graph implementation
+2026-10-30T13:10:14Z,pubsub-sdk-python,0.1.0,,,135245,A robust Python SDK for STACKIT PubSub Data Plane API
+2026-10-30T13:11:03Z,formist-cli,0.1.0,WeCarbon,MIT,887835,Command-line client for Formist and Evane deployments
+2026-10-30T13:11:10Z,popode,0.0.1,Romain Ferrara,,2821,"Population models written as ODEs in plain Python, nonlinear mixed effects. In development; first release with its preprint."
+2026-10-30T13:13:08Z,kinescript,1.1.0,Dr. Know How,MIT,1071401,"Motion graphics and video edits written as JSON, checked by agents, rendered on the GPU."
+2026-10-30T13:13:41Z,hades-obol,0.9.0,Jack Lee Smith,BSD-3-Clause,17695342,Fractional crystallisation modelling and solving for petrology
+2026-10-30T13:14:48Z,kifone-headless,2.0.0,Robin Slot <robin@rslot.nl>,,32386,Headless music player server for Kifone
+2026-10-30T13:17:30Z,cattt-scratch,2.0.0,Kevin <kevin@cattt.co>,MIT,41325,"CLI for Scratch (scratch.cattt.co): notes, issues and mind maps for humans and AI agents"
+2026-10-30T13:19:15Z,photocull,1.0.0,,MIT,37073,照片梳理与选优：同场景照片自动分组，每组留最优，其余移入 _culled/，可一键撤销。
