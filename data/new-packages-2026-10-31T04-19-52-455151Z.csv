@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T00:58:11Z,zfs-encrypt-migrate,0.1.1,Bas Nijholt <bas@nijho.lt>,MIT,177899,"Migrate existing unencrypted OpenZFS datasets to native encryption in place, one at a time"
+2026-10-31T03:20:14Z,magnacoda,0.1.0,Phillip E. Honstein / EmagineEngine.com,FSL-1.1-MIT,1388149,"Scan live pages for WCAG accessibility issues, with plain-language explanations and fix suggestions"
+2026-10-31T03:20:44Z,konomanoasa-tree-sitter-toml,0.9.0,,MIT,50524,Tree-sitter grammar for TOML.
+2026-10-31T03:22:08Z,biocognia-intelligence,0.2.0,Ajit Johnson Nirmal <ajitjohnson.n@gmail.com>,LicenseRef-Proprietary,336018,"Biocognia Intelligence: one AI workspace over the BioCognia products installed, opened with `biocognia`"
+2026-10-31T03:24:12Z,warm-models,0.1.0,"""WritersLogic, Inc."" <david@writerslogic.com>",Apache-2.0,29822699,Pinned offline embedding model pack for WARM Python bindings
+2026-10-31T03:24:22Z,warm-sdk,0.1.3,WritersLogic <david@writerslogic.com>,Apache-2.0,1005694,HTTP client and agent-framework adapters for a WritersLogic Adaptive Retention & Memory service
+2026-10-31T03:32:18Z,warm-python,0.6.4,"""WritersLogic, Inc."" <david@writerslogic.com>",Apache-2.0,27159550,Native Python bindings for WARM vector search and phase-vector algebra.
+2026-10-31T03:33:49Z,search-swe,0.1.0,,Apache-2.0,62796,Configure and run Search-SWE coding-agent evaluations
+2026-10-31T03:38:23Z,nexura-vectorstores,0.6.0,Liceron <info@liceron.in>,Apache-2.0,50092,"HTTP vector stores for Nexura: Chroma, Pinecone, Weaviate, Milvus, Elasticsearch and OpenSearch."
+2026-10-31T03:47:01Z,ocalc,0.1.0,,MIT,53521,Measure a Python function and comment its time and space complexity.
+2026-10-31T03:50:26Z,sunat-ubl,0.2.0,Fabricio Miranda Vila,MIT,39587,"Genera y firma XML UBL 2.1 de facturas y boletas electrónicas para SUNAT (Perú), y lee CDR. Núcleo sin dependencias."
+2026-10-31T03:54:06Z,etic-insa-auth,0.1.0,,MIT,67615,"Connexion des applications ETIC à ETIC Members (FastAPI) : SSO, session serveur, droits."
+2026-10-31T03:58:52Z,warm-mcp,0.1.5,"""WritersLogic, Inc."" <david@writerslogic.com>",Apache-2.0,18236,"Launcher for the WARM MCP server (warm-mcp): private, on-device persistent memory for AI agents."
+2026-10-31T04:01:54Z,mlx-generate-ctmr,0.5.0,"Joseph Sandoval, Alfredo Sandoval Jr.",Apache-2.0,2338018,Native MLX implementation of NV-Generate (MAISI)
+2026-10-31T04:05:31Z,pydt4,0.1.0,,,41210,Direct DEVONthink Apple Events via ctypes
+2026-10-31T04:05:47Z,konomanoasa-tree-sitter-regex,0.12.0,,MIT,470144,"Tree-sitter grammars for ECMAScript regex, PCRE2, POSIX BRE/ERE, and Python re."
+2026-10-31T04:08:46Z,warp-hr,0.3.0,Warp,Apache-2.0,523182,warp Python client.
+2026-10-31T04:10:07Z,fdai-service-contracts,0.1.0,,,5990116,Implementation-free contracts for independently released FDAI services
+2026-10-31T04:10:12Z,fdai-deployment-cli,0.1.2,,,1055882,Installable FDAI deployment and subscription genesis CLI
+2026-10-31T04:10:17Z,fdai-lifecycle-hub,0.1.1,,,745874,FDAI Lifecycle Hub that computes signed Lifecycle Plans for Hub-managed installations
+2026-10-31T04:12:56Z,token-runway,0.1.0,Cory Pleasance,MIT,48928,"Model Context Protocol (MCP) server providing real-time token runway, quota, and rate-limit awareness for AI agents."
+2026-10-31T04:16:06Z,franklinwh-ha-notify,0.1.0,david2069,MIT,33057,"Home Assistant notifications with buttons for the FranklinWH bridges: targets, sending, taps over the WebSocket, single-use requests, templates and a ledger"
+2026-10-31T04:19:46Z,desklink,0.3.0,Samuel Obinna Chimdi <sam@chat-atp.com>,MIT,43688,Turn your local computer into a remotely accessible MCP endpoint for cloud AI agents.
