@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T13:02:08Z,idiomatic-sh-asymptote,0.1.0,,MIT,15870371,
+2026-10-31T15:20:20Z,pyloose,0.1.4,,,15115,"Build Python wheels and publish releases to GitLab, GitHub or PyPI"
+2026-10-31T15:22:00Z,codegraphcontext-fork,0.7.0,Shashank Shekhar Singh <shashankshekharsingh1205@gmail.com>,"MIT License Copyright (c) 2025-2026 Permission is hereby granted, free of charge, to any person obt…",1392909,An MCP server that indexes local code into a graph database to provide context to AI assistants.
+2026-10-31T15:22:48Z,django-huddle,0.1.0,Ben Atkinson <ben@streamlinedanalytics.co.uk>,MIT,196058,"Slack-style team chat for Django: channels, direct messages, threads and @mentions over Django Channels."
+2026-10-31T15:26:18Z,aid-runtime-python,0.1.39,The AID Framework authors,Apache-2.0,411120,"The AID Framework Python runtime: model gateway with pinning and cost budgets, prompt registry, tool executor, OTel GenAI tracing, plain-async pipeline, and an eval harness that gates on statistical…"
+2026-10-31T15:30:21Z,yungu-mcp-server,0.1.0,Yungu,,3473,Add your description here
+2026-10-31T15:38:06Z,gomobsec-mcp,0.1.1,GoMobSec <support@gomobsec.ai>,MIT,34445,Official GoMobSec MCP server: scan Android and iOS apps for security issues from your AI assistant.
+2026-10-31T15:39:39Z,burdenoff-workspaces-sdk,2026.1031.1,"""Vignesh T.V"" <vignesh@algoshred.com>",Proprietary License Copyright © 2025 Burdenoff Consultancy Services Pvt. Ltd. All rights reserved.…,22455,Official Python SDK for Burdenoff Workspaces — thin shell over burdenoff-sdk-libs
+2026-10-31T15:39:50Z,ElevenOne,0.1.0,Mario Sultan Romero <mariosultan.uem@gmail.com>,PolyForm Strict License 1.0.0.,44009,The Python library for laboratory data processing and plotting
+2026-10-31T15:44:54Z,slowlens,0.1.0,Yagnang Vyas,MIT,99217,"Offline analyzer for PostgreSQL and MySQL slow query logs: fingerprints, statistics and heuristic hints."
+2026-10-31T15:45:57Z,rift-discord,0.1.0,isaim0011,MIT OR Apache-2.0,16412,High-performance Python bindings for Rift Discord v10 engine
+2026-10-31T15:48:16Z,newmean-pii,1.0.0,newmean.ai,Apache-2.0,730789,On-device multilingual PII detection and masking with small models (newmean-pii-nano/small/medium/large)
+2026-10-31T15:49:34Z,sr2,0.0.1,Diego Camizotti,Apache-2.0,289259,"SR2 — a context runtime for AI agents: layered context assembly, compaction, memory, token budgeting and continuity"
+2026-10-31T15:49:50Z,oarepo-ark,1.0.0,,MIT,87489,ARK (Archival Resource Key) minting and resolution for Invenio / OARepo repositories
+2026-10-31T15:49:54Z,spctr,0.0.1,Diego Camizotti,Apache-2.0,557010,spctr (pronounced specter) — a local-first agent harness powered by the SR2 context runtime
+2026-10-31T15:52:51Z,llm-localize,0.1.0,Amit Phulera,MIT AND BSD-3-Clause AND Unicode-3.0,344067,"Translate gettext PO, JSON and other i18n files with LLMs, with validation that keeps placeholders, markup and plurals intact. Works standalone or as a Django app."
+2026-10-31T15:54:00Z,nemo-agent-toolkit-schemagate,0.1.0,Ashish Sinha,Apache-2.0,30714,"schemagate schema selection for NVIDIA NeMo Agent Toolkit: only the tables a question needs, only the ones the caller may read"
+2026-10-31T15:54:58Z,parsedock,0.1.0,ParseDock maintainers,Apache-2.0,18268,Python client for the ParseDock document-parsing API
+2026-10-31T15:58:37Z,aocom,0.0.1,tsomerville,MIT,2460,Placeholder: the aocom name is held for a future project
+2026-10-31T15:58:42Z,csmcom,0.0.1,tsomerville,MIT,2488,Placeholder: the csmcom name is held for a future project
+2026-10-31T15:59:23Z,hone-python,0.9.0,David Beare,BSD-3-Clause,121087,A python-based optimization engine/library.
+2026-10-31T15:59:55Z,hashlist,0.1.0,Fort66 <mamonov.1966@yandex.ru>,,21016,A high-performance hybrid list with O(1) hashing speed for Python.
+2026-10-31T16:00:36Z,illest,2.2.0,VERAKS,MIT,485093,"The Python library for ILLEST: bots with commands, slash commands and buttons, end-to-end encrypted, and Rich Presence."
+2026-10-31T16:03:58Z,autopoietic-engine,0.2.0.dev1,Samir Baladi,MIT,211949,"Autopoietic Code Rewriting: Controlled Runtime AST Transformation inside Isolated Execution Environments (Phase I complete, 118/118 tests)"
+2026-10-31T16:05:23Z,novilabs-data-engine-orchestration,0.dev0,Novi Labs <devops@novilabs.com>,,839,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-31T16:05:24Z,novilabs-unified-data-model,0.dev0,Novi Labs <devops@novilabs.com>,,837,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-31T16:05:25Z,novilabs-black-star,0.dev0,Novi Labs <devops@novilabs.com>,,827,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-31T16:05:25Z,pyshiro-fast,1.0.0,pyshiro-fast contributors,GPL-3.0-only,682647,Fast HSMM forced alignment for Japanese singing voice: a drop-in pyshiro fork with O(N·T) decoding and 100-700x speedups on long audio
+2026-10-31T16:05:26Z,novilabs-second-spacing,0.dev0,Novi Labs <devops@novilabs.com>,,830,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-10-31T16:06:39Z,spectral-las,0.1.0,,Apache-2.0,4229032,"A Rust-backed Python package for point cloud colorization, supporting all your imagery needs from panchromatic, to RGB, to hyperspectral."
+2026-10-31T16:09:12Z,tunedex,0.1.0,VonMartins,GPL-3.0-or-later,391967,"Free, local-first, scriptable DJ library manager."
+2026-10-31T16:09:55Z,calendaring,0.1.0,Tobias Brox <tobias@redpill-linpro.com>,GPL-3.0-or-later OR Apache-2.0,495150,"One Python API for calendars and task lists: CalDAV, iCalendar files and feeds, JMAP and issue trackers"
+2026-10-31T16:10:23Z,omnimcp-analytics,0.1.0,,,143087,"A local analytics MCP server, Gemini client, and protected federated Streamable HTTP gateway."
+2026-10-31T16:10:34Z,plover-polish-pss,1.0.1,,,5411,
+2026-10-31T16:10:53Z,vllm-thermald,0.1.0,koderizer,Apache-2.0,63939,"Keeps a vLLM container from overheating an NVIDIA DGX Spark, and lets AI agents read their hardware temperature over MCP"
+2026-10-31T16:11:29Z,pint-ae-toolkit,0.1.0,,,175606,"PINT AE toolkit - parsing, validation, and diagnostics for UAE e-invoicing"
+2026-10-31T16:13:25Z,odoo-addon-l10n-by,18.0.1.0.0.10,"Aliaksandr Zubik, Odoo Community Association (OCA)",AGPL-3,33591,Chart of Accounts and Taxes for Belarus
+2026-10-31T16:16:35Z,seekrelay,0.2.0,Maksym,MIT,203501,"One async interface for AI-agent web search: Tavily, Brave Search and self-hosted SearXNG with fallback, retries, caching and a PII guard."
