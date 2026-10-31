@@ -8,38 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 02:18 UTC
+## Latest list — 2026-10-31 03:18 UTC
 
-New packages created between 2026-10-31 01:19 UTC and 2026-10-31 02:18 UTC.
+New packages created between 2026-10-31 02:18 UTC and 2026-10-31 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-31T02-18-08-625003Z.csv)
+[Full CSV](data/new-packages-2026-10-31T03-18-13-425592Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-31 01:29:27 | [treelace](https://pypi.org/project/treelace/) | 0.1.0a1 | Treelace Contributors | 119.8 kB | Simple LLM applications with inspectable multi-tool execution. |
-| 2026-10-31 01:32:55 | [shadowrecon-labs](https://pypi.org/project/shadowrecon-labs/) | 1.0.0 | ShadowRecon Labs | 59.5 kB | A numbered reference collection of 15 ethical-hacking / offensive-security lab… |
-| 2026-10-31 01:33:13 | [dumpscrub](https://pypi.org/project/dumpscrub/) | 1.0.2 | TODO | 36.3 kB | Zero-config, flat-file SQL dump anonymizer for Postgres, MySQL, and SQLite. |
-| 2026-10-31 01:37:55 | [mqtt-frame](https://pypi.org/project/mqtt-frame/) | 0.1.0 | Ohara Lab | 34.4 kB | Transparent Python device RPC and native MQTT publish/subscribe transport |
-| 2026-10-31 01:43:01 | [hdl-bag](https://pypi.org/project/hdl-bag/) | 0.0.1 | The hdl-bag Authors | 78.9 kB | BAG - Bus Architecture Generator: spec-based AMBA bus-fabric RTL generator |
-| 2026-10-31 01:43:14 | [codepraxis-arena](https://pypi.org/project/codepraxis-arena/) | 0.5.0 | CodePraxis | 45.9 kB | CodePraxis platform client and pluggable scoring interface for hackathons, chal… |
-| 2026-10-31 01:44:22 | [earthsci-astdiff](https://pypi.org/project/earthsci-astdiff/) | 0.1.0 |  | 75.9 kB | Analytical sparse Jacobians for EarthSciAST (.esm) models by symbolic different… |
-| 2026-10-31 01:46:40 | [tidypptsdm](https://pypi.org/project/tidypptsdm/) | 1.1.0 | Meng Guo <tony2015116@163.com> | 1.9 MB | Daily monitoring of pig performance testing stations (NEDAP and FIRE) |
-| 2026-10-31 01:48:23 | [cyberprac-reference](https://pypi.org/project/cyberprac-reference/) | 1.0.0 | CyberPrac Reference | 42.4 kB | Numbered ethical hacking practical reference with included Python snippets |
-| 2026-10-31 01:49:32 | [codepraxis-football](https://pypi.org/project/codepraxis-football/) | 0.1.0 | CodePraxis | 10.7 MB | CodePraxis Football: write Python agents that play football. |
-| 2026-10-31 01:49:47 | [codepraxis-football-data](https://pypi.org/project/codepraxis-football-data/) | 0.1.0 | CodePraxis | 8.6 MB | Game assets (models, textures, fonts) for codepraxis-football. |
-| 2026-10-31 01:50:14 | [minimindslab-record-field-types](https://pypi.org/project/minimindslab-record-field-types/) | 0.1.0 | MiniMindsLab | 7.3 kB | Infer per-field type signatures from records and report mixed-type fields deter… |
-| 2026-10-31 01:51:24 | [minimindslab-ini-section-order](https://pypi.org/project/minimindslab-ini-section-order/) | 0.1.0 | MiniMindsLab | 8.2 kB | Deterministically reorder INI sections and optionally keys within sections whil… |
-| 2026-10-31 01:51:46 | [minimindslab-ini-merge](https://pypi.org/project/minimindslab-ini-merge/) | 0.1.0 | MiniMindsLab | 7.1 kB | Deterministically merge two INI/configparser-style texts with explicit overwrit… |
-| 2026-10-31 01:52:25 | [antigravity-proxy](https://pypi.org/project/antigravity-proxy/) | 0.1.1 | Antigravity Proxy contributors | 9.3 kB | OpenAI-compatible FastAPI wrapper for the Antigravity agy CLI |
-| 2026-10-31 01:52:51 | [pusharmor](https://pypi.org/project/pusharmor/) | 0.0.0 |  | 2.9 kB | PushArmor command-line client |
-| 2026-10-31 01:59:40 | [xiaomate](https://pypi.org/project/xiaomate/) | 2.4.12 | OddMeta Team | 2.9 MB | XiaoMATE: Your Digital Assistant |
-| 2026-10-31 02:04:19 | [ws-aitoolkit](https://pypi.org/project/ws-aitoolkit/) | 0.0.0 | Michael Fry | 1.9 kB | ws: Your memory, skills and rules, in any AI. Name reserved; first release plan… |
-| 2026-10-31 02:05:23 | [sprpcf](https://pypi.org/project/sprpcf/) | 0.1.0 | SPR-PCF Studio Scientific Eng… | 240.3 kB | A Universal Research-Grade Python Library for SPR Biosensor Design, Geometry Mo… |
-| 2026-10-31 02:07:18 | [tzoffset](https://pypi.org/project/tzoffset/) | 0.2.0 | Javier Lianes <javier@lianes8… | 36.4 kB | Parse and format bare numeric UTC offsets (Z, +05:30, -0800) both ways |
-| 2026-10-31 02:07:24 | [lunagen](https://pypi.org/project/lunagen/) | 0.1.0 |  | 126.4 kB | Simulación de cultivos basada en agentes: configurable, optimizable y con visua… |
-| 2026-10-31 02:07:36 | [deadliner](https://pypi.org/project/deadliner/) | 0.2.0 | Javier Lianes <javier@lianes8… | 37.5 kB | Monotonic deadline and time-budget primitive for bounding multi-step operations |
-| 2026-10-31 02:07:54 | [threadfan](https://pypi.org/project/threadfan/) | 0.2.0 | Javier Lianes <javier@lianes8… | 32.5 kB | Typed, ordered parallel map over a bounded thread pool for IO-bound fan-out |
-| 2026-10-31 02:08:11 | [calltimeout](https://pypi.org/project/calltimeout/) | 0.2.0 | Javier Lianes <javier@lianes8… | 44.2 kB | Run a callable with a wall-clock timeout in a thread, a process or under SIGALR… |
-| 2026-10-31 02:12:39 | [esml](https://pypi.org/project/esml/) | 0.3.0 | Mingtao Li <mingtao.li@gmail.… | 33.3 kB | MIT Python client for the ESML engine: one-shot solve/simulate over the engine… |
-| 2026-10-31 02:12:40 | [mmprops](https://pypi.org/project/mmprops/) | 0.1.0 | Mingtao Li <mingtao.li@gmail.… | 20.6 kB | MIT Python client for the MMPROPS property engine: one-shot CLI wrappers |
-| 2026-10-31 02:15:20 | [pygenius-ai](https://pypi.org/project/pygenius-ai/) | 0.3.17 | PyGenius Team | 695.7 kB | Production-grade Python code generation system with AST-aware context, layered… |
+| 2026-10-31 02:03:56 | [brahman-buddy](https://pypi.org/project/brahman-buddy/) | 0.2.6 | Cong Zhang | 15.7 MB | A personal work buddy: Telegram, Lark and Feishu chats driving Claude Code, wit… |
+| 2026-10-31 02:18:22 | [sfrun](https://pypi.org/project/sfrun/) | 0.2.0 | Paresh Adhia <padhia+github@g… | 38.0 kB | Snwoflake SQL runner |
+| 2026-10-31 02:20:01 | [indrajala-math-rust](https://pypi.org/project/indrajala-math-rust/) | 0.1.0 | David Barkhuizen | 11.5 MB | A numpy-like Array and fused neural network layer ops in Rust, the same bits on… |
+| 2026-10-31 02:21:06 | [llm-ai-api](https://pypi.org/project/llm-ai-api/) | 0.0.1 | kujirahand | 5.6 kB | OpenAI / OpenRouter / Claude の API を呼び出す、薄くて壊れにくい HTTP ラッパー |
+| 2026-10-31 02:21:59 | [seqcounter](https://pypi.org/project/seqcounter/) | 1.0.1 | Marc-Olivier Duceppe <marc-ol… | 52.2 kB | Count the occurrences of reference sequences in sequencing reads or genome asse… |
+| 2026-10-31 02:24:13 | [verification-gap-ledger](https://pypi.org/project/verification-gap-ledger/) | 0.1.1 | Stephen Olumide Akindipe | 46.0 kB | Open, source-coded register of the verification, disclosure and attributability… |
+| 2026-10-31 02:28:12 | [secs2r](https://pypi.org/project/secs2r/) | 0.9.0 | SECS 2R contributors | 32.6 MB | Python bindings for the SECS 2R room-correction engine and local API client. |
+| 2026-10-31 02:33:46 | [artifact-tool-v2](https://pypi.org/project/artifact-tool-v2/) | 2.9.0 | artifact_tool_v2 | 9.5 kB | Host-side library for managing files generated in an agent sandbox. |
+| 2026-10-31 02:34:10 | [lumoauth-fastmcp](https://pypi.org/project/lumoauth-fastmcp/) | 1.0.0 |  | 58.3 kB | LumoAuth authentication and authorization for FastMCP servers |
+| 2026-10-31 02:38:06 | [konomanoasa-tree-sitter-yaml](https://pypi.org/project/konomanoasa-tree-sitter-yaml/) | 0.8.0 |  | 107.4 kB | Tree-sitter grammar for YAML. |
+| 2026-10-31 02:40:54 | [intelli-router](https://pypi.org/project/intelli-router/) | 0.1.0b1 |  | 105.1 kB | 轻量级LLM代理SDK，实现多部署端点管理和智能路由 |
+| 2026-10-31 02:41:24 | [acorn-llm](https://pypi.org/project/acorn-llm/) | 0.9.1 | Acorn Contributors | 95.4 kB | Acorn — Big models. Tiny footprint. 以小搏大的 AI 运行与训练框架（INT4 压缩态推理 / KV int8 / 层流式… |
+| 2026-10-31 02:51:58 | [allin-governance](https://pypi.org/project/allin-governance/) | 0.0.0a1 | siwpan | 234.1 kB | 工作区治理中枢：可执行门禁 + 文档枢纽契约 + 仓库体检，面向一人多仓与 AI 协作者 |
+| 2026-10-31 02:52:02 | [serp-faq-engine](https://pypi.org/project/serp-faq-engine/) | 1.0.0 | SERP.fyi | 24.7 kB | SERP.fyi FAQ Engine: answers questions about SERP.fyi rank tracking, AI visibil… |
+| 2026-10-31 02:54:51 | [bvar-toolkit](https://pypi.org/project/bvar-toolkit/) | 1.0.1 | Joshua C. C. Chan | 322.7 kB | Large Bayesian VARs: the Python version of bvar-toolkit |
+| 2026-10-31 02:58:34 | [langchain-tokenusage-dev](https://pypi.org/project/langchain-tokenusage-dev/) | 0.1.0 | Pistachio Technology Inc. | 25.7 kB | Read-only LangChain tools for tokenusage.dev Codex reset announcements and Nerf… |
+| 2026-10-31 03:00:31 | [tilla-mcp](https://pypi.org/project/tilla-mcp/) | 2.0.0 | TILLA <support@tillacrypto.co… | 17.2 kB | MCP server for TILLA - raw venue data, derived indicators and Bitcoin node data… |
+| 2026-10-31 03:03:41 | [cappv1](https://pypi.org/project/cappv1/) | 1.7.0 | Sundar Raj Sharma | 1.6 MB | Writes alt text into PowerPoint and Word files using a vision model, without ch… |
+| 2026-10-31 03:04:00 | [pystonic](https://pypi.org/project/pystonic/) | 2.0.3 | BytemanD <byteman.e@outlook.c… | 128.1 kB | Python 应用基石 |
+| 2026-10-31 03:04:10 | [postgres-mcp2](https://pypi.org/project/postgres-mcp2/) | 0.4.0 | Johann Schleier-Smith <jssmit… | 237.1 kB | Maintained fork of postgres-mcp (Postgres MCP Pro): PostgreSQL tuning, health a… |
+| 2026-10-31 03:04:15 | [mcp-google-sheets2](https://pypi.org/project/mcp-google-sheets2/) | 0.7.0 | Xing Wu <xingwu.cs@gmail.com>… | 77.6 kB | Maintained fork of mcp-google-sheets (works with mcp 1.x and 2.x). This MCP ser… |

@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T02:03:56Z,brahman-buddy,0.2.6,Cong Zhang,MIT,15684490,"A personal work buddy: Telegram, Lark and Feishu chats driving Claude Code, with scheduled jobs, short and long stories, and portable skills"
+2026-10-31T02:18:22Z,sfrun,0.2.0,Paresh Adhia <padhia+github@gmail.com>,,38029,Snwoflake SQL runner
+2026-10-31T02:20:01Z,indrajala-math-rust,0.1.0,David Barkhuizen,MIT,11544149,"A numpy-like Array and fused neural network layer ops in Rust, the same bits on every machine"
+2026-10-31T02:21:06Z,llm-ai-api,0.0.1,kujirahand,MIT,5646,OpenAI / OpenRouter / Claude の API を呼び出す、薄くて壊れにくい HTTP ラッパー
+2026-10-31T02:21:59Z,seqcounter,1.0.1,Marc-Olivier Duceppe <marc-olivier.duceppe@inspection.gc.ca>,MIT,52166,Count the occurrences of reference sequences in sequencing reads or genome assemblies
+2026-10-31T02:24:13Z,verification-gap-ledger,0.1.1,Stephen Olumide Akindipe,MIT AND CC-BY-4.0,46047,"Open, source-coded register of the verification, disclosure and attributability of federal and New York State municipal energy and infrastructure funding programs."
+2026-10-31T02:28:12Z,secs2r,0.9.0,SECS 2R contributors,AGPL-3.0-only,32574941,Python bindings for the SECS 2R room-correction engine and local API client.
+2026-10-31T02:33:46Z,artifact-tool-v2,2.9.0,artifact_tool_v2,MIT,9520,Host-side library for managing files generated in an agent sandbox.
+2026-10-31T02:34:10Z,lumoauth-fastmcp,1.0.0,,Apache-2.0,58302,LumoAuth authentication and authorization for FastMCP servers
+2026-10-31T02:38:06Z,konomanoasa-tree-sitter-yaml,0.8.0,,MIT,107426,Tree-sitter grammar for YAML.
+2026-10-31T02:40:54Z,intelli-router,0.1.0b1,,,105112,轻量级LLM代理SDK，实现多部署端点管理和智能路由
+2026-10-31T02:41:24Z,acorn-llm,0.9.1,Acorn Contributors,MIT,95447,Acorn — Big models. Tiny footprint. 以小搏大的 AI 运行与训练框架（INT4 压缩态推理 / KV int8 / 层流式 / 投机解码 / LoRA / 能效治理 / 零依赖核心）
+2026-10-31T02:51:58Z,allin-governance,0.0.0a1,siwpan,MIT-0,234109,工作区治理中枢：可执行门禁 + 文档枢纽契约 + 仓库体检，面向一人多仓与 AI 协作者
+2026-10-31T02:52:02Z,serp-faq-engine,1.0.0,SERP.fyi,MIT,24680,"SERP.fyi FAQ Engine: answers questions about SERP.fyi rank tracking, AI visibility audits, local SEO, SERP features and reporting from 40 official FAQs."
+2026-10-31T02:54:51Z,bvar-toolkit,1.0.1,Joshua C. C. Chan,MIT,322679,Large Bayesian VARs: the Python version of bvar-toolkit
+2026-10-31T02:58:34Z,langchain-tokenusage-dev,0.1.0,Pistachio Technology Inc.,MIT,25699,Read-only LangChain tools for tokenusage.dev Codex reset announcements and Nerf Watch scores.
+2026-10-31T03:00:31Z,tilla-mcp,2.0.0,TILLA <support@tillacrypto.com>,MIT,17156,"MCP server for TILLA - raw venue data, derived indicators and Bitcoin node data on one UTC clock. Let any AI agent pull model-ready market data directly."
+2026-10-31T03:03:41Z,cappv1,1.7.0,Sundar Raj Sharma,MIT,1580071,"Writes alt text into PowerPoint and Word files using a vision model, without changing how they look."
+2026-10-31T03:04:00Z,pystonic,2.0.3,BytemanD <byteman.e@outlook.com>,,128107,Python 应用基石
+2026-10-31T03:04:10Z,postgres-mcp2,0.4.0,"Johann Schleier-Smith <jssmith@crystal.cloud>, rafal-one <rafal.baranowski.iot@gmail.com>",MIT,237136,"Maintained fork of postgres-mcp (Postgres MCP Pro): PostgreSQL tuning, health and read-only SQL for AI agents"
+2026-10-31T03:04:15Z,mcp-google-sheets2,0.7.0,"Xing Wu <xingwu.cs@gmail.com>, rafal-one <rafal.baranowski.iot@gmail.com>",,77640,"Maintained fork of mcp-google-sheets (works with mcp 1.x and 2.x). This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets."
