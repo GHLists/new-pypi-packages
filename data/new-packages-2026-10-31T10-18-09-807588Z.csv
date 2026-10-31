@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T09:22:29Z,HtmlCrawler,1.1.4,Wilgat Wong <wilgat.wong@gmail.com>,MIT,191025,"HtmlCrawler saves one HTML page and its stylesheets, scripts, and images, and can crawl a same-site set."
+2026-10-31T09:24:06Z,runyard,0.3.0,,Apache-2.0,61417,"Python client for runyard, a lightweight self-hosted training tracker"
+2026-10-31T09:26:46Z,memorydb-django,0.2.1,humaniods,MIT,10699,Django cache and session backends for MemoryDB (SQLite-style drop-in for the settings file)
+2026-10-31T09:30:11Z,orm-lens,1.16.0,frowningdev,MIT,397453,"Static analysis + MCP server for Django and SQLAlchemy models. ER diagrams, N+1, migration risk for Django migrations and Alembic, blast radius and schema drift for CI, terminals and AI agents. No DB…"
+2026-10-31T09:36:55Z,asasked,0.1.1,Ginji Kurata,Apache-2.0,251317,Checks whether an AI agent's purchase matches what the person actually asked for
+2026-10-31T09:37:13Z,allen-circuit-dynamics,0.2.1,Jeremy Gracey <jeremy.a.gracey@gmail.com>,MIT,88896,"Shared/private latent-variable models and connectivity-constrained dynamics for simultaneously recorded neural populations, run on open Allen Institute data."
+2026-10-31T09:37:30Z,felspar,0.1.0a1,Felspar,Apache-2.0,468732,Typed Felspar client and synchronous action gate for agents (alpha)
+2026-10-31T09:39:14Z,handrolled,0.1.0,handrolled contributors,MIT,82330,"Hand-rolled, stdlib-only building blocks for agent tooling: CJK full-text search, WebDAV, network mounts, and import adapters."
+2026-10-31T09:42:11Z,shorless,0.8.6,Shorless Security <contact@shorless.io>,Apache-2.0,15659,Scanner DevSecOps Post-Quantique (PQC) & Générateur CBOM CycloneDX 1.6
+2026-10-31T09:44:28Z,capybala,0.8.0,Capybala Team,,115262,"Context-Aware Pruning for Yielding & Backtrack-Aligned Loop Avoidance: The chill, self-healing runtime that cures autonomous AI agents from cognitive deadlocks."
+2026-10-31T09:45:06Z,favlo,0.3.0,Noriel Mallari,Apache-2.0,2785946,Favlo AI Runtime: Your Local AI Workhorse
+2026-10-31T09:46:27Z,authly-sso,0.4.0,Authly,MIT,34910,Authly SSO OAuth2 integratsiyasi uchun yagona Python / Django SDK
+2026-10-31T09:49:01Z,dc-cmnlib,0.0.1,diligentcat <627815355@qq.com>,,81806,A common library for dc.
+2026-10-31T10:00:01Z,NXUI,0.1.0,Paras Tech Industries,MIT,10924,AI-powered declarative UI framework for Python by Paras Tech Industries.
+2026-10-31T10:02:09Z,houndstooth,0.0.1,,,1598,Python SDK and CLI for Houndstooth
+2026-10-31T10:03:11Z,marketmyna,0.2.0,Balasubramanian Periannan,Apache-2.0,3687731,"Stock analysis, screening, portfolios and alerts with AI analysts: India, US, China, Hong Kong and crypto"
+2026-10-31T10:04:01Z,spinhash,0.0.1,Jia Xu,Apache-2.0,2403,spinhash. Code release coming soon.
+2026-10-31T10:04:03Z,spinpop,0.0.1,Jia Xu,Apache-2.0,2394,spinpop. Code release coming soon.
+2026-10-31T10:04:05Z,spinseal,0.0.1,Jia Xu,Apache-2.0,2407,spinseal. Code release coming soon.
+2026-10-31T10:04:07Z,bitsseal,0.0.1,Jia Xu,Apache-2.0,2420,bitsseal. Code release coming soon.
+2026-10-31T10:04:53Z,kinescript-chatterbox,0.1.0,Dr. Know How,MIT,23111,"Chatterbox voices for kine voice: laughs and sighs from tags, cloned voices, and the time of each word"
+2026-10-31T10:05:10Z,cfn-typed-sumo,0.2.1,,MIT,96727,"cfn-typed with the generated types its reusable patterns use, plus the patterns"
+2026-10-31T10:06:05Z,deploy-checkup,0.1.0,Nandhagopal,MIT,41532,"Check whether your deployed app is set up safely, in plain language, with fixes for your host."
+2026-10-31T10:07:13Z,casambi-classic-ble,0.1.0,Olof Hellqvist <olof.hellqvist@gmail.com>,MIT,31253,Bluetooth Low Energy library for Casambi classic firmware lighting control
+2026-10-31T10:07:53Z,ygg-agent,0.1.0,Manuel Reyes Bravo <manuelreyesbravo@gmail.com>,Apache-2.0,34615,"Run an LLM agent on PostgreSQL through pg_agent_gate, with no MCP: the model writes SQL, the database decides."
+2026-10-31T10:08:28Z,kinescript-elevenlabs,0.1.0,Dr. Know How,MIT,14546,"ElevenLabs voices for kine voice: audio tags such as whispers, any voice in your account, and word times"
+2026-10-31T10:10:13Z,maccom,0.0.1,tsomerville,MIT,2452,Placeholder: the maccom name is held for a future project
+2026-10-31T10:10:13Z,py-flowtoken,0.3.1,py-flowtoken contributors,MIT,93754,A Python adaptation of FlowToken for animated text and Markdown streaming without React
+2026-10-31T10:10:44Z,xt-manager,0.2.0,Xtention,,57155,"XT Manager client (pip install, same shape as mt5manager)."
+2026-10-31T10:11:08Z,bare-kit,0.1.0,Holepunch,Apache-2.0,93624654,Python bindings for Bare Kit
+2026-10-31T10:11:45Z,tickgym,1.0.0,,MIT,68092,"Drive Trackmania 2020 physics from Python through TICK: gyms for training agents on exact, restorable simulation."
+2026-10-31T10:12:40Z,appcom,0.0.1,tsomerville,MIT,2445,Placeholder: the appcom name is held for a future project
+2026-10-31T10:12:50Z,devcom,0.0.1,tsomerville,MIT,2455,Placeholder: the devcom name is held for a future project
+2026-10-31T10:15:55Z,ekte,0.30.0,ekte contributors,Apache-2.0,3293635,LLM relay reality check — a CLI that audits whether an API relay actually serves the model it claims (货不对板检测).
+2026-10-31T10:17:39Z,oatschema-adapters,0.1.0,OATS maintainers <maintainers@oatschema.org>,Apache-2.0,138189,"Export OATS (Open Annotation Task Schemas) records to standard formats, and parse them back."

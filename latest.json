@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-10-31T08:19:28.213214Z",
-    "path": "data/new-packages-2026-10-31T09-18-32-814048Z.csv",
-    "to": "2026-10-31T09:18:32.814048Z"
+    "count": 35,
+    "from": "2026-10-31T09:18:32.814048Z",
+    "path": "data/new-packages-2026-10-31T10-18-09-807588Z.csv",
+    "to": "2026-10-31T10:18:09.807588Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T07:32:52Z",
       "package": "micro-snitch",
       "since": "2026-10-31T07:20:26.693579Z",
       "version": "0.1.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-31T10:10:18Z",
+      "package": "pccom",
+      "since": "2026-10-31T09:18:32.814048Z",
+      "version": null
     }
   ],
-  "serial": 43004275,
+  "serial": 43005669,
   "source_truncated": false,
-  "window": "2026-10-31T09:18:32.814048Z"
+  "window": "2026-10-31T10:18:09.807588Z"
 }

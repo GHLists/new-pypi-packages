@@ -8,43 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 09:18 UTC
+## Latest list — 2026-10-31 10:18 UTC
 
-New packages created between 2026-10-31 08:19 UTC and 2026-10-31 09:18 UTC.
+New packages created between 2026-10-31 09:18 UTC and 2026-10-31 10:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-31T09-18-32-814048Z.csv)
+[Full CSV](data/new-packages-2026-10-31T10-18-09-807588Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-31 07:48:17 | [traceAI-agent-framework](https://pypi.org/project/traceAI-agent-framework/) | 0.1.0 | Future AGI | 25.6 kB | OpenTelemetry instrumentation for Microsoft Agent Framework |
-| 2026-10-31 08:19:34 | [coverdraw](https://pypi.org/project/coverdraw/) | 0.1.0 | Kirill Nikolsky | 147.6 kB | Protein sequence peptide coverage visualizer with PTM and amino acid substituti… |
-| 2026-10-31 08:22:56 | [guarani-ai](https://pypi.org/project/guarani-ai/) | 0.1.0b1 |  | 17.4 kB | Official HTTP client for Guarani AI Verify, Mesh, and Mobile CI (Private Beta) |
-| 2026-10-31 08:23:36 | [context-engineering-core](https://pypi.org/project/context-engineering-core/) | 0.12.1 |  | 296.0 kB | Provider-independent context layers, source contracts, and token budget account… |
-| 2026-10-31 08:27:54 | [spamkit-api](https://pypi.org/project/spamkit-api/) | 0.1.1 |  | 82.6 kB | Self-hostable spam-scoring service and client for user-submitted text. |
-| 2026-10-31 08:31:13 | [cpp-kana2](https://pypi.org/project/cpp-kana2/) | 2.0.0 | wolfgitpr | 486.7 kB | Japanese kana <-> Hepburn romaji, over the cpp-kana2 C ABI |
-| 2026-10-31 08:34:01 | [anumat-engine](https://pypi.org/project/anumat-engine/) | 0.1.0 |  | 182.5 MB | Run the Anumat engine on your machine |
-| 2026-10-31 08:39:18 | [skelion](https://pypi.org/project/skelion/) | 1.0.0 | Skelion Team <team@skelion.de… | 7.4 kB | Drop-in Python fail-open resilience middleware for FastAPI, Starlette, and ASGI… |
-| 2026-10-31 08:47:24 | [npien](https://pypi.org/project/npien/) | 1.0.0 | npien contributors | 50.3 kB | NAT-piercing NET: serverless P2P UDP hole punching with rooms, STUN and optiona… |
-| 2026-10-31 08:47:30 | [infersize](https://pypi.org/project/infersize/) | 0.2.0 | Prajwal Pujari <prajwalpujari… | 115.0 kB | Analytical performance modeling, VRAM capacity planning, and hardware roofline… |
-| 2026-10-31 08:47:31 | [fusenterm](https://pypi.org/project/fusenterm/) | 0.1.0 |  | 69.9 kB | ターミナルのホワイトボードに付箋を貼ってタスク・メモを管理するアプリ |
-| 2026-10-31 08:48:19 | [leke](https://pypi.org/project/leke/) | 0.1.0 | Frank Acquaye <acquayefrank@g… | 11.1 MB | High-performance subword tokenizer for Kwa languages (Akan/Twi, Ewe, Ga, Fante) |
-| 2026-10-31 08:49:11 | [flin-gtm-mcp](https://pypi.org/project/flin-gtm-mcp/) | 0.1.0 | flin agency | 100.0 kB | Read-only Google Tag Manager MCP server by flin |
-| 2026-10-31 08:49:51 | [nextok](https://pypi.org/project/nextok/) | 0.1.0 | sjjeong94 | 5.9 MB | Fast cross-platform LLM token sampler for CPUs (temperature, top-k/p, min-p, pe… |
-| 2026-10-31 08:50:00 | [agentswarm-space](https://pypi.org/project/agentswarm-space/) | 0.1.0 | Andrew Siah | 45.4 kB | Command-line client for agentswarm.space, the work exchange where AI agents and… |
-| 2026-10-31 08:56:40 | [rag-hygiene](https://pypi.org/project/rag-hygiene/) | 0.1.0 | OnProject | 53.3 kB | Find and automatically repair broken RAG chunks before you embed them. Zero dep… |
-| 2026-10-31 08:57:45 | [unslept](https://pypi.org/project/unslept/) | 0.1.0 |  | 30.8 kB | Pay x402 paywalls from an Unslept agent account on Robinhood Chain. |
-| 2026-10-31 08:57:49 | [paperswithbacktest](https://pypi.org/project/paperswithbacktest/) | 0.0.1 | PapersWithBacktest | 3.5 kB | Papers With Backtest: the `pwb` namespace. Points to pwb-toolbox for now. |
-| 2026-10-31 08:57:52 | [pwb](https://pypi.org/project/pwb/) | 0.0.1 | PapersWithBacktest | 2.7 kB | Alias of paperswithbacktest: installs the `pwb` namespace of Papers With Backte… |
-| 2026-10-31 08:57:56 | [tradewind](https://pypi.org/project/tradewind/) | 0.0.1 | PapersWithBacktest | 3.6 kB | The backtesting engine of Papers With Backtest. In development; not yet usable. |
-| 2026-10-31 08:59:05 | [tokenomos](https://pypi.org/project/tokenomos/) | 0.0.1 | "Shih-Ying Yeh(KohakuBlueLeaf… | 1.9 MB | Local inference for small VLMs whose host work per step does not grow with the… |
-| 2026-10-31 08:59:29 | [pycpufreq](https://pypi.org/project/pycpufreq/) | 1.0.0 | turulomio | 33.8 kB | Python library and CLI tool to manage and monitor CPU frequencies and turbo sta… |
-| 2026-10-31 09:02:55 | [scrollbreaker](https://pypi.org/project/scrollbreaker/) | 0.1.0 | scrollbreaker contributors | 46.4 kB | Scroll-aware screen content collector for LLM agents — 把滚动的屏幕切成能读的页 |
-| 2026-10-31 09:03:47 | [colosseum-microcontroller](https://pypi.org/project/colosseum-microcontroller/) | 0.1.3 | Aqshal Nur Ikhsan | 12.1 MB | Train compact single-class object detectors for microcontrollers |
-| 2026-10-31 09:05:44 | [twoody](https://pypi.org/project/twoody/) | 0.2.0 | Osmove <support@twoody.com> | 9.0 kB | Twoody from the command line: run this computer's models (`twoody run`, `pull`,… |
-| 2026-10-31 09:07:18 | [tmmcore](https://pypi.org/project/tmmcore/) | 0.5.0 | Andrey Achapovsky | 719.3 kB | Transfer-matrix method for multilayer thin-film optics, with exact analytic der… |
-| 2026-10-31 09:07:48 | [aioportal](https://pypi.org/project/aioportal/) | 0.1.0 | Portal Team | 44.5 kB | Modern asynchronous framework for building Portal bots in the style of aiogram |
-| 2026-10-31 09:08:41 | [iris-plugin-sdk](https://pypi.org/project/iris-plugin-sdk/) | 1.0.0 | 胡恒博 | 107.8 kB | Iris 进程外插件 SDK：公共类型、manifest、JSON-RPC 运行时和设置页工具 |
-| 2026-10-31 09:12:22 | [us-county-property-tax](https://pypi.org/project/us-county-property-tax/) | 0.1.0 | Anders Lee | 372.9 kB | Property tax rates and median bills for every U.S. county, offline: Census medi… |
-| 2026-10-31 09:12:54 | [cvewatch](https://pypi.org/project/cvewatch/) | 0.1.0 | bm2ilabs | 62.6 kB | Scan one project or a whole folder of projects for known and brand-new vulnerab… |
-| 2026-10-31 09:14:41 | [semanticfed-sdk](https://pypi.org/project/semanticfed-sdk/) | 2026.1031.1 | "Vignesh T.V" <vignesh@algosh… | 29.5 kB | Official Python SDK for SemanticFed, the federated semantic layer (thin shell o… |
-| 2026-10-31 09:18:10 | [data-advisor](https://pypi.org/project/data-advisor/) | 0.1.0 | Principal Data Science Archit… | 88.2 kB | A production-grade diagnostic and code generation advisor for timed data analys… |
+| 2026-10-31 09:22:29 | [HtmlCrawler](https://pypi.org/project/HtmlCrawler/) | 1.1.4 | Wilgat Wong <wilgat.wong@gmai… | 191.0 kB | HtmlCrawler saves one HTML page and its stylesheets, scripts, and images, and c… |
+| 2026-10-31 09:24:06 | [runyard](https://pypi.org/project/runyard/) | 0.3.0 |  | 61.4 kB | Python client for runyard, a lightweight self-hosted training tracker |
+| 2026-10-31 09:26:46 | [memorydb-django](https://pypi.org/project/memorydb-django/) | 0.2.1 | humaniods | 10.7 kB | Django cache and session backends for MemoryDB (SQLite-style drop-in for the se… |
+| 2026-10-31 09:30:11 | [orm-lens](https://pypi.org/project/orm-lens/) | 1.16.0 | frowningdev | 397.5 kB | Static analysis + MCP server for Django and SQLAlchemy models. ER diagrams, N+1… |
+| 2026-10-31 09:36:55 | [asasked](https://pypi.org/project/asasked/) | 0.1.1 | Ginji Kurata | 251.3 kB | Checks whether an AI agent's purchase matches what the person actually asked for |
+| 2026-10-31 09:37:13 | [allen-circuit-dynamics](https://pypi.org/project/allen-circuit-dynamics/) | 0.2.1 | Jeremy Gracey <jeremy.a.grace… | 88.9 kB | Shared/private latent-variable models and connectivity-constrained dynamics for… |
+| 2026-10-31 09:37:30 | [felspar](https://pypi.org/project/felspar/) | 0.1.0a1 | Felspar | 468.7 kB | Typed Felspar client and synchronous action gate for agents (alpha) |
+| 2026-10-31 09:39:14 | [handrolled](https://pypi.org/project/handrolled/) | 0.1.0 | handrolled contributors | 82.3 kB | Hand-rolled, stdlib-only building blocks for agent tooling: CJK full-text searc… |
+| 2026-10-31 09:42:11 | [shorless](https://pypi.org/project/shorless/) | 0.8.6 | Shorless Security <contact@sh… | 15.7 kB | Scanner DevSecOps Post-Quantique (PQC) & Générateur CBOM CycloneDX 1.6 |
+| 2026-10-31 09:44:28 | [capybala](https://pypi.org/project/capybala/) | 0.8.0 | Capybala Team | 115.3 kB | Context-Aware Pruning for Yielding & Backtrack-Aligned Loop Avoidance: The chil… |
+| 2026-10-31 09:45:06 | [favlo](https://pypi.org/project/favlo/) | 0.3.0 | Noriel Mallari | 2.8 MB | Favlo AI Runtime: Your Local AI Workhorse |
+| 2026-10-31 09:46:27 | [authly-sso](https://pypi.org/project/authly-sso/) | 0.4.0 | Authly | 34.9 kB | Authly SSO OAuth2 integratsiyasi uchun yagona Python / Django SDK |
+| 2026-10-31 09:49:01 | [dc-cmnlib](https://pypi.org/project/dc-cmnlib/) | 0.0.1 | diligentcat <627815355@qq.com> | 81.8 kB | A common library for dc. |
+| 2026-10-31 10:00:01 | [NXUI](https://pypi.org/project/NXUI/) | 0.1.0 | Paras Tech Industries | 10.9 kB | AI-powered declarative UI framework for Python by Paras Tech Industries. |
+| 2026-10-31 10:02:09 | [houndstooth](https://pypi.org/project/houndstooth/) | 0.0.1 |  | 1.6 kB | Python SDK and CLI for Houndstooth |
+| 2026-10-31 10:03:11 | [marketmyna](https://pypi.org/project/marketmyna/) | 0.2.0 | Balasubramanian Periannan | 3.7 MB | Stock analysis, screening, portfolios and alerts with AI analysts: India, US, C… |
+| 2026-10-31 10:04:01 | [spinhash](https://pypi.org/project/spinhash/) | 0.0.1 | Jia Xu | 2.4 kB | spinhash. Code release coming soon. |
+| 2026-10-31 10:04:03 | [spinpop](https://pypi.org/project/spinpop/) | 0.0.1 | Jia Xu | 2.4 kB | spinpop. Code release coming soon. |
+| 2026-10-31 10:04:05 | [spinseal](https://pypi.org/project/spinseal/) | 0.0.1 | Jia Xu | 2.4 kB | spinseal. Code release coming soon. |
+| 2026-10-31 10:04:07 | [bitsseal](https://pypi.org/project/bitsseal/) | 0.0.1 | Jia Xu | 2.4 kB | bitsseal. Code release coming soon. |
+| 2026-10-31 10:04:53 | [kinescript-chatterbox](https://pypi.org/project/kinescript-chatterbox/) | 0.1.0 | Dr. Know How | 23.1 kB | Chatterbox voices for kine voice: laughs and sighs from tags, cloned voices, an… |
+| 2026-10-31 10:05:10 | [cfn-typed-sumo](https://pypi.org/project/cfn-typed-sumo/) | 0.2.1 |  | 96.7 kB | cfn-typed with the generated types its reusable patterns use, plus the patterns |
+| 2026-10-31 10:06:05 | [deploy-checkup](https://pypi.org/project/deploy-checkup/) | 0.1.0 | Nandhagopal | 41.5 kB | Check whether your deployed app is set up safely, in plain language, with fixes… |
+| 2026-10-31 10:07:13 | [casambi-classic-ble](https://pypi.org/project/casambi-classic-ble/) | 0.1.0 | Olof Hellqvist <olof.hellqvis… | 31.3 kB | Bluetooth Low Energy library for Casambi classic firmware lighting control |
+| 2026-10-31 10:07:53 | [ygg-agent](https://pypi.org/project/ygg-agent/) | 0.1.0 | Manuel Reyes Bravo <manuelrey… | 34.6 kB | Run an LLM agent on PostgreSQL through pg_agent_gate, with no MCP: the model wr… |
+| 2026-10-31 10:08:28 | [kinescript-elevenlabs](https://pypi.org/project/kinescript-elevenlabs/) | 0.1.0 | Dr. Know How | 14.5 kB | ElevenLabs voices for kine voice: audio tags such as whispers, any voice in you… |
+| 2026-10-31 10:10:13 | [maccom](https://pypi.org/project/maccom/) | 0.0.1 | tsomerville | 2.5 kB | Placeholder: the maccom name is held for a future project |
+| 2026-10-31 10:10:13 | [py-flowtoken](https://pypi.org/project/py-flowtoken/) | 0.3.1 | py-flowtoken contributors | 93.8 kB | A Python adaptation of FlowToken for animated text and Markdown streaming witho… |
+| 2026-10-31 10:10:44 | [xt-manager](https://pypi.org/project/xt-manager/) | 0.2.0 | Xtention | 57.2 kB | XT Manager client (pip install, same shape as mt5manager). |
+| 2026-10-31 10:11:08 | [bare-kit](https://pypi.org/project/bare-kit/) | 0.1.0 | Holepunch | 93.6 MB | Python bindings for Bare Kit |
+| 2026-10-31 10:11:45 | [tickgym](https://pypi.org/project/tickgym/) | 1.0.0 |  | 68.1 kB | Drive Trackmania 2020 physics from Python through TICK: gyms for training agent… |
+| 2026-10-31 10:12:40 | [appcom](https://pypi.org/project/appcom/) | 0.0.1 | tsomerville | 2.4 kB | Placeholder: the appcom name is held for a future project |
+| 2026-10-31 10:12:50 | [devcom](https://pypi.org/project/devcom/) | 0.0.1 | tsomerville | 2.5 kB | Placeholder: the devcom name is held for a future project |
+| 2026-10-31 10:15:55 | [ekte](https://pypi.org/project/ekte/) | 0.30.0 | ekte contributors | 3.3 MB | LLM relay reality check — a CLI that audits whether an API relay actually serve… |
+| 2026-10-31 10:17:39 | [oatschema-adapters](https://pypi.org/project/oatschema-adapters/) | 0.1.0 | OATS maintainers <maintainers… | 138.2 kB | Export OATS (Open Annotation Task Schemas) records to standard formats, and par… |
