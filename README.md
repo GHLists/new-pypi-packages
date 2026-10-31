@@ -8,49 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 22:18 UTC
+## Latest list — 2026-10-31 23:18 UTC
 
-New packages created between 2026-10-31 21:20 UTC and 2026-10-31 22:18 UTC.
+New packages created between 2026-10-31 22:18 UTC and 2026-10-31 23:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-31T22-18-58-391333Z.csv)
+[Full CSV](data/new-packages-2026-10-31T23-18-41-54889Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-31 21:22:22 | [Historie](https://pypi.org/project/Historie/) | 0.1.0 | saaj <mail@saaj.me> | 36.0 kB | Structured reStructuredText-based résumé format for developers |
-| 2026-10-31 21:23:05 | [puffin-local](https://pypi.org/project/puffin-local/) | 0.3.0 | Puffin | 37.4 kB | Puffin SDK, CLI and MCP server for AI agent identity and communications |
-| 2026-10-31 21:24:32 | [dfm-agent](https://pypi.org/project/dfm-agent/) | 0.0.2 | Nihar Shah | 617.4 kB | Developer Foundation Model: a local, privacy-first engineering agent for Apple… |
-| 2026-10-31 21:25:06 | [brucellaid](https://pypi.org/project/brucellaid/) | 1.0.0 | Marc-Olivier Duceppe <marc-ol… | 129.2 kB | Identify the Brucella species of a read set with MASH, and type it with MLST |
-| 2026-10-31 21:28:18 | [icyloom](https://pypi.org/project/icyloom/) | 1.0.0 | Malik Belkacemi | 349.2 kB | Unified local gateway: LLM cache + compressed context drawer, in a single MCP s… |
-| 2026-10-31 21:28:19 | [icycache](https://pypi.org/project/icycache/) | 0.3.2 | MlkBlk-IT | 1.8 MB | IcyCache - universal LLM gateway with a local cache. I see cache, I burn cache. |
-| 2026-10-31 21:28:20 | [mcp-loom-mcp](https://pypi.org/project/mcp-loom-mcp/) | 0.1.3 | Malik Belkacemi | 148.6 kB | Portable MCP server: weave LLM context without cutting a thread. |
-| 2026-10-31 21:29:27 | [pyteastrainer](https://pypi.org/project/pyteastrainer/) | 0.2.0 |  | 55.2 kB | pytest gate that fails when tests add no coverage, using an exact minimal-suite… |
-| 2026-10-31 21:29:44 | [aioengieromania](https://pypi.org/project/aioengieromania/) | 0.1.0 | coffeerunhobby | 25.9 kB | Async client for MyENGIE România accounts: places, meters, invoices, payments a… |
-| 2026-10-31 21:30:27 | [fastapi-settings](https://pypi.org/project/fastapi-settings/) | 1.0.0 | ARYAN-NIKNEZHAD, MEHRSHAD-MIR… | 191.6 kB | Lazy, centralized settings for Python and FastAPI applications |
-| 2026-10-31 21:32:12 | [global-price-parser](https://pypi.org/project/global-price-parser/) | 0.1.0 | DontPayFull | 110.5 kB | Read prices and resolve currencies from international text and HTML. |
-| 2026-10-31 21:33:52 | [blitzy-utils](https://pypi.org/project/blitzy-utils/) | 0.0.0 | Blitzy | 1.2 kB | Reserved name for an internal Blitzy package. Contains no code. |
-| 2026-10-31 21:34:13 | [glados-voice-mcp](https://pypi.org/project/glados-voice-mcp/) | 0.1.0 | Bruno Meneguello | 4.6 MB | Warm, shared GLaDOS text-to-speech server with an MCP interface for agents |
-| 2026-10-31 21:36:15 | [firstclass](https://pypi.org/project/firstclass/) | 0.0.3 |  | 69.6 kB | dataclass with bytes, ctypes, C struct, JSON and XML serialization |
-| 2026-10-31 21:37:17 | [python-opentimestamps](https://pypi.org/project/python-opentimestamps/) | 0.5.0 |  | 2.9 kB | Alias for the 'opentimestamps' package (python-opentimestamps library). Install… |
-| 2026-10-31 21:38:44 | [mantiq](https://pypi.org/project/mantiq/) | 0.2.0 | Ahmed Ousama <contact.ahmedou… | 266.8 kB | Cache-Augmented Generation (CAG) for HuggingFace models: encode your knowledge… |
-| 2026-10-31 21:40:32 | [pyclig](https://pypi.org/project/pyclig/) | 0.1.0 | Andrew Ridyard <developer.sur… | 47.6 kB | A Python Click wrapper with Command Line Interface Guidelines (CLIG) paradigms. |
-| 2026-10-31 21:41:51 | [difftomo](https://pypi.org/project/difftomo/) | 0.1.0 |  | 89.0 kB | Differentiable library for tomography |
-| 2026-10-31 21:42:56 | [pytest-max-fail-streak](https://pypi.org/project/pytest-max-fail-streak/) | 1.0.0 | Avi Zaguri | 11.5 kB | A pytest plugin that stops the run after N consecutive failing tests, so a brok… |
-| 2026-10-31 21:44:26 | [sitetriage](https://pypi.org/project/sitetriage/) | 3.0.0 | Milos Lazic <miloslazic458@gm… | 353.6 kB | Scan a list of domains politely and rank the sites that deserve a full manual a… |
-| 2026-10-31 21:45:08 | [browser-daemon-client](https://pypi.org/project/browser-daemon-client/) | 0.1.0 |  | 13.5 kB | Async client for browser-daemon: Playwright runs over HTTP, sessions and logins… |
-| 2026-10-31 21:55:54 | [pyadcp](https://pypi.org/project/pyadcp/) | 1.0.0 | John Schoonover | 148.5 kB | Asyncio-native Python client for Sony projectors' ADCP protocol |
-| 2026-10-31 21:56:35 | [volanea](https://pypi.org/project/volanea/) | 0.1.0 | Volanea Team | 4.8 kB | Python client for the Volanea Email API - agentic inboxes for AI agents |
-| 2026-10-31 21:59:32 | [tramuri](https://pypi.org/project/tramuri/) | 0.1.0 |  | 8.2 MB | Local-first, agent-native infrastructure for verified work outcomes |
-| 2026-10-31 22:02:35 | [gatewatch](https://pypi.org/project/gatewatch/) | 0.1.0b1 | slevittt | 54.8 kB | Self-hosted PAC gateway and availability monitor: route selected domains throug… |
-| 2026-10-31 22:04:03 | [cavi-blender-mcp](https://pypi.org/project/cavi-blender-mcp/) | 0.29.0 | CAVI AI | 395.4 kB | Local-first MCP tools for Blender scene editing and game asset export |
-| 2026-10-31 22:04:13 | [qorageom](https://pypi.org/project/qorageom/) | 0.1.0 | Isaac Yong | 45.7 kB | X-ray diffraction geometry (2θ, q, d, detector pixel q, BCDI reciprocal basis),… |
-| 2026-10-31 22:04:59 | [bright-ci-test](https://pypi.org/project/bright-ci-test/) | 0.0.0a0 | NVIDIA | 1.0 kB | Namespace protection for an internal NVIDIA BCM Python distribution |
-| 2026-10-31 22:05:02 | [bright-flake8-plugins](https://pypi.org/project/bright-flake8-plugins/) | 0.0.0a0 | NVIDIA | 1.1 kB | Namespace protection for an internal NVIDIA BCM Python distribution |
-| 2026-10-31 22:05:05 | [cm-bright-image](https://pypi.org/project/cm-bright-image/) | 0.0.0a0 | NVIDIA | 1.0 kB | Namespace protection for an internal NVIDIA BCM Python distribution |
-| 2026-10-31 22:05:09 | [cm-chatbot](https://pypi.org/project/cm-chatbot/) | 0.0.0a0 | NVIDIA | 993 B | Namespace protection for an internal NVIDIA BCM Python distribution |
-| 2026-10-31 22:07:20 | [coinvello](https://pypi.org/project/coinvello/) | 0.1.0 | CoinVello <developers@coinvel… | 26.3 kB | Official CoinVello API client for Python (non-custodial crypto payments) |
-| 2026-10-31 22:08:40 | [hivegate-ai](https://pypi.org/project/hivegate-ai/) | 0.3.1 | HiveGate contributors | 1.3 MB | Run your Agno agents as a production API: per-user sessions and OAuth tokens, h… |
-| 2026-10-31 22:10:22 | [nuh](https://pypi.org/project/nuh/) | 0.6.0 | the nuh contributors | 1.0 MB | Context-aware safety guard for Claude Code. |
-| 2026-10-31 22:12:28 | [pytest-better-report](https://pypi.org/project/pytest-better-report/) | 1.0.0 | Avi Zaguri | 32.2 kB | A pytest plugin that writes structured JSON (and optional Markdown) reports of… |
-| 2026-10-31 22:14:20 | [hertzforge](https://pypi.org/project/hertzforge/) | 0.0.1 | Brandon Zwink, Kevin Cross | 6.4 kB | Data acquisition and structural dynamics in one toolset. Early release; the mer… |
-| 2026-10-31 22:17:42 | [openai-agents-surface](https://pypi.org/project/openai-agents-surface/) | 0.1.0 | Canada Site Ops <canada.site.… | 7.1 kB | Surface for OpenAI Agents SDK: the link-safety layer between an AI agent and th… |
-| 2026-10-31 22:18:09 | [sleeptalk](https://pypi.org/project/sleeptalk/) | 0.1.0 | sleep.talk | 36.2 MB | Config-driven voice runtime for bring-your-own agents. |
+| 2026-10-31 22:01:59 | [bobp](https://pypi.org/project/bobp/) | 0.1.0 | Drew | 705.1 kB | CLI front-end for the Bob Protocol multi-persona AI development framework |
+| 2026-10-31 22:21:12 | [borgmatic-browse](https://pypi.org/project/borgmatic-browse/) | 0.1.0 |  | 79.7 kB | Textual TUI for browsing Borg archives, derived from borgmatic's browse action |
+| 2026-10-31 22:21:29 | [pystr-codec](https://pypi.org/project/pystr-codec/) | 0.1.1 |  | 8.4 MB | Python string codec utilities |
+| 2026-10-31 22:22:00 | [coursebook](https://pypi.org/project/coursebook/) | 0.1.0 | Corey Rayburn Yung <coreyrayb… | 1.1 MB | Turns markdown files into coursebooks, slides, and teaching notes |
+| 2026-10-31 22:24:31 | [pcrobust](https://pypi.org/project/pcrobust/) | 1.0.1 | Abdulla Nasir Chowdhury, Gulp… | 958.2 kB | Statistical robustness benchmark for point cloud classification: corruption gen… |
+| 2026-10-31 22:27:15 | [mbmerge](https://pypi.org/project/mbmerge/) | 1.1.0 | mbmerge contributors | 197.0 kB | Incremental PNG/WebP raster MBTiles merger with alpha compositing and crash-saf… |
+| 2026-10-31 22:29:31 | [hgt-site](https://pypi.org/project/hgt-site/) | 0.1.1 | Iraaj Gangavaram | 36.5 kB | Call candidate horizontal gene transfer sites from host alignments and Kraken2… |
+| 2026-10-31 22:30:32 | [socialpublishkit](https://pypi.org/project/socialpublishkit/) | 0.1.1 | Foromo Daniel Soromou | 62.4 kB | Dependency-free video publishing SDK for Facebook Pages, Instagram, TikTok, and… |
+| 2026-10-31 22:38:41 | [threedac](https://pypi.org/project/threedac/) | 0.1.0 | Hiroshi Nakashima | 327.6 kB | 3D CAD as Code: define CAD models as code, review a plan, apply it to multiple… |
+| 2026-10-31 22:39:15 | [llmgift](https://pypi.org/project/llmgift/) | 0.0.1 | llmgift contributors | 3.5 kB | Gift someone a spending-capped, expiring LLM API key. The tool is published on… |
+| 2026-10-31 22:40:22 | [scalio-selftest](https://pypi.org/project/scalio-selftest/) | 0.1.0 |  | 42.5 kB | Test mode of the Scalio apps: nightly self-check (API suite + browser smoke) on… |
+| 2026-10-31 22:44:37 | [dchighs](https://pypi.org/project/dchighs/) | 0.1.0 | Marcuth | 166.5 kB | Python port of the DC Highs Dragon City libraries (fan-made, not affiliated wit… |
+| 2026-10-31 22:45:04 | [rulestamp-auftragsverarbeitung-avv-lint](https://pypi.org/project/rulestamp-auftragsverarbeitung-avv-lint/) | 1.0.2 | Rulestamp <support@getreadyst… | 35.1 kB | 17 rules: 13 Pflichtpunkte aus Art. 28 Abs. 3 DSGVO + 4 veraltete Transfer-Grun… |
+| 2026-10-31 22:45:23 | [rulestamp-aviso-legal-lssi-lint-es](https://pypi.org/project/rulestamp-aviso-legal-lssi-lint-es/) | 1.0.4 | Rulestamp <support@getreadyst… | 34.7 kB | Revisa el aviso legal y la política de privacidad de la web que entregas: 17 re… |
+| 2026-10-31 22:45:40 | [rulestamp-avv-pruefer-art28-lint](https://pypi.org/project/rulestamp-avv-pruefer-art28-lint/) | 1.0.3 | Rulestamp <support@getreadyst… | 34.5 kB | Auftragsverarbeitungsvertrag Check für Markdown-AVVs: 20 Regeln zu Art. 28 Abs.… |
+| 2026-10-31 22:45:49 | [agentpay-global](https://pypi.org/project/agentpay-global/) | 0.3.0 | AgentPay | 9.1 kB | Official AgentPay SDK. Issue capped virtual cards and let your agent complete r… |
+| 2026-10-31 22:45:51 | [get-agentpay](https://pypi.org/project/get-agentpay/) | 0.3.0 | AgentPay | 2.7 kB | Mirror of agentpay-global, the official AgentPay SDK for Python. Installs it; i… |
+| 2026-10-31 22:45:57 | [rulestamp-barrierefreiheitserklaerung-check](https://pypi.org/project/rulestamp-barrierefreiheitserklaerung-check/) | 1.0.2 | Rulestamp <support@getreadyst… | 36.4 kB | Pflichtangaben nach BFSG Anlage 3 und BITV 2.0 § 7 in VS Code prüfen (bundled N… |
+| 2026-10-31 22:46:09 | [synapse-compiler](https://pypi.org/project/synapse-compiler/) | 0.1.0 | Aryan Lomte, Radhesh, Aditya,… | 595.6 kB | A compiler for AI agent workflows: lift them into an effect-typed IR, optimize… |
+| 2026-10-31 22:52:42 | [lobkit](https://pypi.org/project/lobkit/) | 0.2.1 | Yousuf Hossain Shafeen | 69.2 kB | Limit order book reconstruction, order-flow analytics and market-making simulat… |
+| 2026-10-31 22:53:56 | [witnox](https://pypi.org/project/witnox/) | 0.1.0 | Isaac Yong | 17.7 kB | Local-first observability and behavioral analytics for AI coding agents |
+| 2026-10-31 22:56:07 | [aegis-core-sdk](https://pypi.org/project/aegis-core-sdk/) | 0.1.0 | Aegis Team | 63.7 kB | Policy Enforcement and Observability for Agent Builders |
+| 2026-10-31 22:59:28 | [astraeos-astro](https://pypi.org/project/astraeos-astro/) | 0.1.0 | Gregory | 53.3 kB | The Sun's position in pure Python, ported from libastro, the C core of PyEphem |
+| 2026-10-31 23:05:07 | [sentdm-voice-agents](https://pypi.org/project/sentdm-voice-agents/) | 0.1.0 | Sent <support@sent.dm> | 54.8 kB | Sent Voice Agents for Python: an AI agent that takes and places phone calls thr… |
+| 2026-10-31 23:06:31 | [tui-renamer](https://pypi.org/project/tui-renamer/) | 0.1.3 | Gradipoo | 148.1 kB | A fast, keyboard-driven terminal UI for batch renaming photos and files by EXIF… |
+| 2026-10-31 23:08:26 | [rfx-protocols-system](https://pypi.org/project/rfx-protocols-system/) | 0.2.0 | Roberto Flores | 114.1 kB | A self-describing, pluggable service locator: decorator-based provider registra… |
+| 2026-10-31 23:09:06 | [steam-picker](https://pypi.org/project/steam-picker/) | 0.1.7 | Jesse Johnson <1024369+holocr… | 24.2 kB | Pick a random game from your personal Steam library! |
+| 2026-10-31 23:13:33 | [halfabyte-synapse](https://pypi.org/project/halfabyte-synapse/) | 0.2.0 | Aryan Lomte, Radhesh, Aditya,… | 619.8 kB | A compiler and runtime for AI agent workflows: faster and cheaper runs, with si… |
+| 2026-10-31 23:14:07 | [ferri-pdf](https://pypi.org/project/ferri-pdf/) | 0.1.6 |  | 174.2 MB | HTML and CSS to PDF renderer for print, in pure Rust |
+| 2026-10-31 23:14:25 | [loep](https://pypi.org/project/loep/) | 0.0.1 | Jouw Naam | 1.8 kB | LOEP: local-first Dutch financial forensics, extraction and pattern detection (… |
+| 2026-10-31 23:18:25 | [ksefik](https://pypi.org/project/ksefik/) | 0.2.0 | Paweł Borkowski | 418.7 kB | KSeF 2.0 w terminalu: faktury wystawione i otrzymane, wystawianie FA(3), korekt… |

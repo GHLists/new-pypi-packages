@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T22:01:59Z,bobp,0.1.0,Drew,GPL-3.0-only,705137,CLI front-end for the Bob Protocol multi-persona AI development framework
+2026-10-31T22:21:12Z,borgmatic-browse,0.1.0,,GPL-3.0-or-later,79652,"Textual TUI for browsing Borg archives, derived from borgmatic's browse action"
+2026-10-31T22:21:29Z,pystr-codec,0.1.1,,,8355858,Python string codec utilities
+2026-10-31T22:22:00Z,coursebook,0.1.0,Corey Rayburn Yung <coreyrayburnyung@gmail.com>,Apache-2.0,1091487,"Turns markdown files into coursebooks, slides, and teaching notes"
+2026-10-31T22:24:31Z,pcrobust,1.0.1,"Abdulla Nasir Chowdhury, Gulpi Qorik Oktagalu Pratamasunu, Kazuhiro Fukui",MIT,958246,"Statistical robustness benchmark for point cloud classification: corruption generators, model zoo, evaluation protocol, and the statistical pipeline behind the WACV 2027 paper."
+2026-10-31T22:27:15Z,mbmerge,1.1.0,mbmerge contributors,MIT,196966,Incremental PNG/WebP raster MBTiles merger with alpha compositing and crash-safe resume
+2026-10-31T22:29:31Z,hgt-site,0.1.1,Iraaj Gangavaram,MIT,36516,Call candidate horizontal gene transfer sites from host alignments and Kraken2 read classifications
+2026-10-31T22:30:32Z,socialpublishkit,0.1.1,Foromo Daniel Soromou,MIT,62447,"Dependency-free video publishing SDK for Facebook Pages, Instagram, TikTok, and YouTube"
+2026-10-31T22:38:41Z,threedac,0.1.0,Hiroshi Nakashima,Apache-2.0,327554,"3D CAD as Code: define CAD models as code, review a plan, apply it to multiple CAD systems"
+2026-10-31T22:39:15Z,llmgift,0.0.1,llmgift contributors,MIT,3529,"Gift someone a spending-capped, expiring LLM API key. The tool is published on npm: npx llmgift"
+2026-10-31T22:40:22Z,scalio-selftest,0.1.0,,Proprietary,42505,Test mode of the Scalio apps: nightly self-check (API suite + browser smoke) on dev and test instances
+2026-10-31T22:44:37Z,dchighs,0.1.0,Marcuth,MIT,166542,"Python port of the DC Highs Dragon City libraries (fan-made, not affiliated with SocialPoint)."
+2026-10-31T22:45:04Z,rulestamp-auftragsverarbeitung-avv-lint,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35069,"17 rules: 13 Pflichtpunkte aus Art. 28 Abs. 3 DSGVO + 4 veraltete Transfer-Grundlagen, mit Zeile je Lücke (bundled Node.js runtime)"
+2026-10-31T22:45:23Z,rulestamp-aviso-legal-lssi-lint-es,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34742,"Revisa el aviso legal y la política de privacidad de la web que entregas: 17 reglas que marcan las normas derogadas que cita y los datos del art. 10 LSSI que faltan, con artículo y línea. (bundled No…"
+2026-10-31T22:45:40Z,rulestamp-avv-pruefer-art28-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34508,"Auftragsverarbeitungsvertrag Check für Markdown-AVVs: 20 Regeln zu Art. 28 Abs. 2 und 3 und Art. 33 Abs. 2 DSGVO, direkt in VS Code und im Browser. (bundled Node.js runtime)"
+2026-10-31T22:45:49Z,agentpay-global,0.3.0,AgentPay,MIT,9078,Official AgentPay SDK. Issue capped virtual cards and let your agent complete real checkouts.
+2026-10-31T22:45:51Z,get-agentpay,0.3.0,AgentPay,MIT,2725,"Mirror of agentpay-global, the official AgentPay SDK for Python. Installs it; import agentpay."
+2026-10-31T22:45:57Z,rulestamp-barrierefreiheitserklaerung-check,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36361,Pflichtangaben nach BFSG Anlage 3 und BITV 2.0 § 7 in VS Code prüfen (bundled Node.js runtime)
+2026-10-31T22:46:09Z,synapse-compiler,0.1.0,"Aryan Lomte, Radhesh, Aditya, Advay Chavan",MIT,595567,"A compiler for AI agent workflows: lift them into an effect-typed IR, optimize them from measured profiles, and prove the optimized version still behaves."
+2026-10-31T22:52:42Z,lobkit,0.2.1,Yousuf Hossain Shafeen,MIT,69218,"Limit order book reconstruction, order-flow analytics and market-making simulation"
+2026-10-31T22:53:56Z,witnox,0.1.0,Isaac Yong,MIT,17719,Local-first observability and behavioral analytics for AI coding agents
+2026-10-31T22:56:07Z,aegis-core-sdk,0.1.0,Aegis Team,MIT,63683,Policy Enforcement and Observability for Agent Builders
+2026-10-31T22:59:28Z,astraeos-astro,0.1.0,Gregory,MIT,53338,"The Sun's position in pure Python, ported from libastro, the C core of PyEphem"
+2026-10-31T23:05:07Z,sentdm-voice-agents,0.1.0,Sent <support@sent.dm>,Apache-2.0,54824,Sent Voice Agents for Python: an AI agent that takes and places phone calls through Sent
+2026-10-31T23:06:31Z,tui-renamer,0.1.3,Gradipoo,GPL-3.0-only,148140,"A fast, keyboard-driven terminal UI for batch renaming photos and files by EXIF date, timezone, and geodata, with live preview and undo."
+2026-10-31T23:08:26Z,rfx-protocols-system,0.2.0,Roberto Flores,MIT,114059,"A self-describing, pluggable service locator: decorator-based provider registration, singleton lifecycle management, and introspection-driven GUI discovery."
+2026-10-31T23:09:06Z,steam-picker,0.1.7,Jesse Johnson <1024369+holocronweaver@users.noreply.github.com>,MPL-2.0,24226,Pick a random game from your personal Steam library!
+2026-10-31T23:13:33Z,halfabyte-synapse,0.2.0,"Aryan Lomte, Radhesh, Aditya, Advay Chavan",MIT,619809,"A compiler and runtime for AI agent workflows: faster and cheaper runs, with side effects protected and every change checked by a firewall."
+2026-10-31T23:14:07Z,ferri-pdf,0.1.6,,MIT AND (Apache-2.0 OR MIT) AND Unicode-3.0 AND CC0-1.0 AND Bitstream-Vera AND LicenseRef-Arev AND…,174214777,"HTML and CSS to PDF renderer for print, in pure Rust"
+2026-10-31T23:14:25Z,loep,0.0.1,Jouw Naam,,1824,"LOEP: local-first Dutch financial forensics, extraction and pattern detection (in development)"
+2026-10-31T23:18:25Z,ksefik,0.2.0,Paweł Borkowski,MIT,418713,"KSeF 2.0 w terminalu: faktury wystawione i otrzymane, wystawianie FA(3), korekty, tokeny, uprawnienia, certyfikaty"

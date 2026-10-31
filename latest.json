@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-10-31T21:20:19.01869Z",
-    "path": "data/new-packages-2026-10-31T22-18-58-391333Z.csv",
-    "to": "2026-10-31T22:18:58.391333Z"
+    "count": 31,
+    "from": "2026-10-31T22:18:58.391333Z",
+    "path": "data/new-packages-2026-10-31T23-18-41-54889Z.csv",
+    "to": "2026-10-31T23:18:41.54889Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-31T22:01:59Z",
-      "package": "bobp",
-      "since": "2026-10-31T21:20:19.01869Z",
+      "created_at": "2026-10-31T22:58:03Z",
+      "package": "ProtocolsSystem",
+      "since": "2026-10-31T22:18:58.391333Z",
       "version": null
     }
   ],
-  "serial": 43025648,
+  "serial": 43027326,
   "source_truncated": false,
-  "window": "2026-10-31T22:18:58.391333Z"
+  "window": "2026-10-31T23:18:41.54889Z"
 }
