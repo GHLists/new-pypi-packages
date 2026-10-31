@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T18:42:20Z,paystack-webhook,0.1.1,mgkvibez,MIT,30021,"Verify Paystack and Flutterwave webhooks in Python: HMAC-SHA512, idempotency, replay-safe retries. Zero dependencies."
+2026-10-31T18:42:31Z,doc-drift-py,0.1.1,mgkvibez,MIT,25241,"Find the docs that lie: env vars and CLI flags your documentation mentions that the code no longer has, and code nobody documented."
+2026-10-31T19:19:29Z,nx2dw,0.1.0,Julian Freyberg,MIT,13498,Visualize NetworkX graphs as Datawrapper scatterplots.
+2026-10-31T19:21:46Z,revvyn-sdk,0.3.0,DRA Consultancy Ltd,MIT,28735,Python client for the Revvyn Governance API
+2026-10-31T19:21:51Z,maat-vuln,0.1.0,Samy DIFALLAH <samy.dflh@gmail.com>,Apache-2.0,93790,"Exploitation-driven vulnerability prioritization with CISA KEV and FIRST EPSS, explained and reproducible."
+2026-10-31T19:23:09Z,apiverve-diceroller,1.2.3,APIVerve <hello@apiverve.com>,MIT,20810,"Dice Roller is a dice API that simulates RPG dice rolls using standard notation like 3d6 or 2d20 with optional modifiers. It outputs the individual die outcomes, die count, and the sum of all rolls."
+2026-10-31T19:23:21Z,resourcey,0.0.1,tofarr,MIT,778955,"A resource-oriented Python web framework built on FastAPI, SQLAlchemy, and Alembic — progressive enhancement with escape hatches to the underlying stack."
+2026-10-31T19:23:39Z,vernikr-gemini,0.28.0,vernikr,MIT,308247,"MCP gateway for massive-payload Gemini analysis on the AI Studio free tier: chunking with overlap, consolidation, thinking_level control, deep progress, rotating disk logs"
+2026-10-31T19:26:09Z,fastapi-fastmcp,0.1.0,Manav Mehta,MIT,59027,The unified bridge between FastAPI and FastMCP / Model Context Protocol.
+2026-10-31T19:30:22Z,telenotify-python,0.1.0,sami-yesha,MIT,26537,Official Python client for Telenotify: Telegram-first customer notifications and phone verification
+2026-10-31T19:30:32Z,nyssa-ai-dbgateway,0.1.0,NyssaAI <oss@nyssa.ai>,Apache-2.0,49602,"Zero-ceremony, typed database gateway across SQLite and PostgreSQL matching NyssaAI.DbGateway"
+2026-10-31T19:31:14Z,pychestrate-cli,0.3.0,Code Craft AI LLC,LicenseRef-CodeCraftAI-Source-Available,99794,pyc - the command line for the Pychestrate service
+2026-10-31T19:32:27Z,phasmanet,0.1.0,"Ioannis Tsioulis, Anastasios Tefas, Nikolaos Stergioulas",MIT,5544457,"PhasmaNet: a staged spectral token-refinement architecture for tabular regression and classification, with a pretrained gravitational-wave SNR surrogate."
+2026-10-31T19:33:31Z,airon,0.1.0,Manifestro,"MIT License Copyright (c) 2026 Manifestro Permission is hereby granted, free of charge, to any pers…",114385,"Track machine learning runs: metrics, progress and hardware load, sent to an Airon server without ever slowing training down."
+2026-10-31T19:33:49Z,AccentDetective,0.1.0,Jhen-Ke Lin <jacob.cs14@nycu.edu.tw>,MIT,35420,"A small, text-free and alignment-free judge of how Taiwan-accented Mandarin speech sounds"
+2026-10-31T19:38:01Z,chrysis-finance,0.1.0,CaoJay8267,MIT,889031,Quantitative-finance extension package for the Chrysis prediction framework.
+2026-10-31T19:40:29Z,moolam,0.1.0,Srinivasan Nambi <chat2srini@gmail.com>,Apache-2.0,22763,"Shared Ed25519 seal-press (identities, key resolution, RFC 8785 canonical encoding, compact JWS) for the olinool agent-governance stack."
+2026-10-31T19:41:05Z,polyglot-python,0.2.0,Furox-Art,MIT,35196,Deterministic multilingual Python keyword transpiler: write Python in your own language.
+2026-10-31T19:43:02Z,passgate,0.1.1,calasdan-sketch,MIT,24695,"Statistical pass^N gate: require an eval candidate to clear a Wilson-bound bar on every round, not just on average"
+2026-10-31T19:44:24Z,olinool,0.3.0,Srinivasan Nambi <chat2srini@gmail.com>,Apache-2.0,149108,"Delegation receipts for agent-to-agent calls: offline scope attenuation, proof-of-possession, selective disclosure, and an adversarial conformance corpus."
+2026-10-31T19:45:29Z,experiment-starter-keshav12345,0.1.0,,,5339,Install complete experiment project templates
+2026-10-31T19:45:35Z,va-semantic-wer,0.1.0,,Apache-2.0,181296,Official scorer for the Voice Arena Conversational ASR Leaderboard
+2026-10-31T19:46:41Z,forestgump,0.1.1,Jenny Luo <jennyluo@berkeley.edu>,Apache-2.0,54055,Life is like a box of baselines. Did your cheminformatics model beat a random forest trained on Morgan fingerprints?
+2026-10-31T19:50:47Z,maskflow-audit,0.1.0,,MIT,193647,"MaskFlow egress audit: find every place a codebase sends text to an LLM, classify whether that path is masked, and prove the unmasked ones leak Indian PII with synthetic canaries. Powers `maskflow au…"
+2026-10-31T19:53:32Z,viobench,0.0.1,,MIT,253917,"Compute-aware relative state estimation challenge: run and score solution .wasm modules, episode datasets, submission server, and the recipes to build a solution"
+2026-10-31T19:56:07Z,regexml,0.1.0,Ishan <ishan@example.com>,MIT,31129,"A lightweight, fault-tolerant, text-first XML extraction library for Python."
+2026-10-31T19:58:26Z,offerum,1.0.0,Asinerum Conlang Project,MIT,21149,Literp Purchasing Management
+2026-10-31T19:59:45Z,nyssa-ai-logging,0.2.2,NyssaAI <oss@nyssa.ai>,Apache-2.0,38243,Lightweight operational logging destinations with rotating JSON files and clean protocol streams matching NyssaAI.Logging.
+2026-10-31T20:02:04Z,laidline-livekit,1.0.0,Laidline LLC,LicenseRef-Laidline-Source-Available,25445,LiveKit Agents `tts_node` wrapper: marks audio frames with streaming AudioSeal; one evidence entry per call.
+2026-10-31T20:02:04Z,laidline-transformers,1.0.0,Laidline LLC,LicenseRef-Laidline-Source-Available,20328,Laidline helper for Hugging Face model.generate: adds the text watermark logits processor and records text evidence.
+2026-10-31T20:02:08Z,laidline-pipecat,1.0.0,Laidline LLC,LicenseRef-Laidline-Source-Available,26152,Pipecat `FrameProcessor` placed after TTS; marks TTS audio frames with streaming AudioSeal; one evidence entry per utterance.
+2026-10-31T20:03:39Z,japanfold,1.0.1,,MIT,28557,"Command-line client for JapanFold: protein structure prediction, binder design and embeddings over an HTTP API."
+2026-10-31T20:05:08Z,sedrava,0.10.0,Sedrava contributors,Apache-2.0,513553,Sedrava Programming Language: experimental declarative language for applications
+2026-10-31T20:06:16Z,purchaseum,1.0.0,Asinerum Conlang Project,MIT,18501,Literp Purchase Order Management
+2026-10-31T20:06:36Z,laidline-vllm,1.0.0,Laidline LLC,LicenseRef-Laidline-Source-Available,30935,vLLM Model Runner V2 logits processor for the text watermark plus an ack-header middleware.
+2026-10-31T20:14:11Z,snapvol,0.3,Emil Hammarberg <emilhammarberg@mailbox.org>,GPL-3.0-or-later,40813,Control Snapcast volume from the command line
+2026-10-31T20:17:32Z,financian,1.0.0,Asinerum Conlang Project,MIT,35189,Literp Financial Bookkeeping Web Tool

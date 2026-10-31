@@ -8,53 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 19:18 UTC
+## Latest list — 2026-10-31 20:19 UTC
 
-New packages created between 2026-10-31 18:18 UTC and 2026-10-31 19:18 UTC.
+New packages created between 2026-10-31 19:18 UTC and 2026-10-31 20:19 UTC.
 
-[Full CSV](data/new-packages-2026-10-31T19-18-49-106371Z.csv)
+[Full CSV](data/new-packages-2026-10-31T20-19-21-483198Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-31 18:22:27 | [warpx-geometry](https://pypi.org/project/warpx-geometry/) | 0.3.0 | Arun Persaud <apersaud@lbl.go… | 57.6 kB | Simple geometry objects for WarpX embedded boundaries |
-| 2026-10-31 18:24:10 | [btlab](https://pypi.org/project/btlab/) | 0.3.1 |  | 50.0 kB | A backtesting framework built around avoiding the common ways backtests lie |
-| 2026-10-31 18:26:14 | [tokencraft-gpt](https://pypi.org/project/tokencraft-gpt/) | 0.1.1 | Ranjeet Epili | 144.2 kB | An educational GPT language model implemented from scratch with PyTorch. |
-| 2026-10-31 18:27:09 | [section-anything-mcp](https://pypi.org/project/section-anything-mcp/) | 0.1.0 | The Section Anything Authors | 14.2 kB | MCP server for Section Anything: a PDF's real sections (heading tree, pages, te… |
-| 2026-10-31 18:27:40 | [pycforge-sdk](https://pypi.org/project/pycforge-sdk/) | 0.6.3 |  | 5.2 MB | Conversion-extension authoring SDK with an optional PySide6 desktop |
-| 2026-10-31 18:27:45 | [slopbox-env](https://pypi.org/project/slopbox-env/) | 0.1.0 |  | 25.3 kB | A secure-ish environment for running AI agents. |
-| 2026-10-31 18:28:03 | [lastread](https://pypi.org/project/lastread/) | 0.20.0 | Merlijn Tishauser <merlijn@cc… | 1.7 MB | Reading progress from a stock Kobo e-reader to Hardcover, on your own computer… |
-| 2026-10-31 18:35:14 | [event-connect](https://pypi.org/project/event-connect/) | 0.1.0 | HairingX | 75.6 kB | Devices described by their points, independent of protocol: typed keys, values… |
-| 2026-10-31 18:42:17 | [aeroflowsim](https://pypi.org/project/aeroflowsim/) | 0.2.0a3 | Dhanwin Mehta | 8.0 MB | A GUI-first, open-source CFD solver for nozzle and propulsion aerodynamics, wit… |
-| 2026-10-31 18:42:20 | [paymock](https://pypi.org/project/paymock/) | 0.2.0 |  | 44.3 kB | stripe-mock for African payments: stateful Paystack & Flutterwave sandboxes wit… |
-| 2026-10-31 18:43:16 | [inro](https://pypi.org/project/inro/) | 0.1.0 | Pooya Ashtari <pooya.ash@gmai… | 253.7 kB | A unified PyTorch framework for implicit neural representations, with FUTON, th… |
-| 2026-10-31 18:43:44 | [adaptive-xai](https://pypi.org/project/adaptive-xai/) | 1.0.0b1 | Charan, Dhyan KJ, Jeevitha Sh… | 124.5 kB | An adaptive explainable-AI framework for integrating XAI into machine learning… |
-| 2026-10-31 18:44:24 | [familiar-pet](https://pypi.org/project/familiar-pet/) | 0.3.0 |  | 134.1 kB | A unique procedural anthropomorphic pet for your terminal — living art for your… |
-| 2026-10-31 18:44:53 | [pytest-fail2skip](https://pypi.org/project/pytest-fail2skip/) | 1.0.0 | Avi Zaguri | 12.4 kB | A pytest plugin that reports failures of marked tests as skipped, so known fail… |
-| 2026-10-31 18:51:15 | [torch-friends](https://pypi.org/project/torch-friends/) | 1.0.0 | Ansh Raj | 250.5 kB | Ultra-optimized C++/LibTorch Rotary Position Embedding (RoPE) for CPU and CUDA |
-| 2026-10-31 18:51:52 | [icedcoffee-sync](https://pypi.org/project/icedcoffee-sync/) | 0.1.0.dev9 | Gavin Carothers <gavin@caroth… | 171.9 kB | Typed sync and async client for the Frappe and ERPNext REST API |
-| 2026-10-31 18:53:38 | [antidoxa](https://pypi.org/project/antidoxa/) | 0.0.1 | Brown Cyber Services Inc <dan… | 3.2 kB | Antidoxa: a human-gated protocol for changing an AI agent's source of truth. Na… |
-| 2026-10-31 18:55:02 | [laidline](https://pypi.org/project/laidline/) | 1.0.0 | Laidline LLC | 1.6 MB | Marking kit for generative AI providers: C2PA signing with your KMS, open water… |
-| 2026-10-31 18:55:04 | [laidline-bench](https://pypi.org/project/laidline-bench/) | 1.0.0 | Laidline LLC | 1.4 MB | Robustness and calibration benchmarks for the Laidline watermarks; the code beh… |
-| 2026-10-31 18:55:06 | [laidline-comfyui](https://pypi.org/project/laidline-comfyui/) | 1.0.0 | Laidline LLC | 22.8 kB | ComfyUI custom node `LaidlineSaveImage`: sign and watermark images on save (rem… |
-| 2026-10-31 18:55:08 | [laidline-diffusers](https://pypi.org/project/laidline-diffusers/) | 1.0.0 | Laidline LLC | 24.4 kB | `attach(pipe)` marks every image a diffusers pipeline returns (watermark, C2PA,… |
-| 2026-10-31 18:55:24 | [crawlora-jumia](https://pypi.org/project/crawlora-jumia/) | 0.1.0 | Crawlora | 47.3 kB | Crawlora Jumia API client with 8 endpoints for country and category discovery,… |
-| 2026-10-31 18:55:57 | [izaya](https://pypi.org/project/izaya/) | 0.1.0 | Brian Pepple | 49.8 kB | An htmx-powered autocomplete widget for Django forms |
-| 2026-10-31 18:56:10 | [zeropoint](https://pypi.org/project/zeropoint/) | 0.1.0 | Javier Marín <javier@jmarin.i… | 51.3 MB | An energy-based decision engine that chooses among options, or says that none o… |
-| 2026-10-31 18:56:25 | [kestreel](https://pypi.org/project/kestreel/) | 0.0.0 | Suhail Suhail | 14.9 kB | Verified media ingest and configurable project preparation |
-| 2026-10-31 18:56:45 | [jmap-calendar-mcp](https://pypi.org/project/jmap-calendar-mcp/) | 0.1.0 | Robert O'Neill | 15.9 kB | MCP server that lets AI agents read and create calendar events on any JMAP serv… |
-| 2026-10-31 18:57:50 | [crawlora-cardmarket](https://pypi.org/project/crawlora-cardmarket/) | 0.1.0 | Crawlora | 46.8 kB | Crawlora Cardmarket API client with 5 endpoints for game and catalogue discover… |
-| 2026-10-31 18:57:54 | [forestpd](https://pypi.org/project/forestpd/) | 0.1.0 | Niels Holtgrefe <n.a.l.holtgr… | 328.8 kB | a package for maximizing phylogenetic diversity under phylogenetic and extincti… |
-| 2026-10-31 18:59:09 | [deviating-machine](https://pypi.org/project/deviating-machine/) | 0.0.2 | Machina Ratiocinatrix <machin… | 49.5 kB | A machine that deviates from the line of reasoning. |
-| 2026-10-31 18:59:31 | [brainfuck-cli](https://pypi.org/project/brainfuck-cli/) | 0.1.1 |  | 16.1 kB | Compile and run Brainfuck from the command line or over HTTP on localhost:9800 |
-| 2026-10-31 19:00:26 | [crawlora-fanduel](https://pypi.org/project/crawlora-fanduel/) | 0.1.0 | Crawlora | 118.2 kB | Crawlora FanDuel API client with 72 endpoints for public racing, casino catalog… |
-| 2026-10-31 19:01:24 | [machinome-engine-brep](https://pypi.org/project/machinome-engine-brep/) | 0.9.0 | Luis Fagundes <lhfagundes@gma… | 25.6 kB | The B-rep engine of Machinome, on the OCCT kernel |
-| 2026-10-31 19:01:25 | [machinome-engine-mesh](https://pypi.org/project/machinome-engine-mesh/) | 0.9.0 | Luis Fagundes <lhfagundes@gma… | 16.4 kB | The mesh engine of Machinome, on manifold3d |
-| 2026-10-31 19:01:28 | [machinome-movie](https://pypi.org/project/machinome-movie/) | 0.9.0 | Luis Fagundes <lhfagundes@gma… | 280.8 kB | Narrated films of machinome models: movies declared in Python, evaluated to the… |
-| 2026-10-31 19:01:30 | [machinome-node-build123d](https://pypi.org/project/machinome-node-build123d/) | 0.9.0 | Luis Fagundes <lhfagundes@gma… | 20.1 kB | The build123d node types of Machinome, and the reducer of its SVG artwork |
-| 2026-10-31 19:02:55 | [crawlora-fussballde](https://pypi.org/project/crawlora-fussballde/) | 0.1.0 | Crawlora | 67.2 kB | Crawlora Fussball.de API client with 27 endpoints for amateur football clubs, p… |
-| 2026-10-31 19:03:00 | [mantis-ib](https://pypi.org/project/mantis-ib/) | 0.2.0 | Louis Zhuang <yzhuang@outlook… | 47.6 kB | Interactive Brokers source provider for MANTIS |
-| 2026-10-31 19:03:44 | [geo-anki](https://pypi.org/project/geo-anki/) | 0.2.0a0 |  | 126.5 kB | Map-based Anki flashcards for learning geography |
-| 2026-10-31 19:05:01 | [agent-tracedown-server](https://pypi.org/project/agent-tracedown-server/) | 0.3.0 | Naveen Nair | 279.7 kB | Tracedown server and CLI: root-cause analysis for AI agent runs, importers for… |
-| 2026-10-31 19:05:09 | [agent-tracedown](https://pypi.org/project/agent-tracedown/) | 0.3.0 | Naveen Nair | 93.5 kB | The flight recorder for AI agents: find the step that caused a failure, then re… |
-| 2026-10-31 19:07:20 | [chrysis](https://pypi.org/project/chrysis/) | 0.1.0 | CaoJay8267 | 877.8 kB | A domain-neutral framework for developing AI predictions. |
-| 2026-10-31 19:15:31 | [reflex-agentkit](https://pypi.org/project/reflex-agentkit/) | 0.1.0rc1 | Ernesto Crespo <ecrespo@gmail… | 246.0 kB | The production UI layer for Python AI agents, built on Reflex and the AG-UI pro… |
+| 2026-10-31 18:42:20 | [paystack-webhook](https://pypi.org/project/paystack-webhook/) | 0.1.1 | mgkvibez | 30.0 kB | Verify Paystack and Flutterwave webhooks in Python: HMAC-SHA512, idempotency, r… |
+| 2026-10-31 18:42:31 | [doc-drift-py](https://pypi.org/project/doc-drift-py/) | 0.1.1 | mgkvibez | 25.2 kB | Find the docs that lie: env vars and CLI flags your documentation mentions that… |
+| 2026-10-31 19:19:29 | [nx2dw](https://pypi.org/project/nx2dw/) | 0.1.0 | Julian Freyberg | 13.5 kB | Visualize NetworkX graphs as Datawrapper scatterplots. |
+| 2026-10-31 19:21:46 | [revvyn-sdk](https://pypi.org/project/revvyn-sdk/) | 0.3.0 | DRA Consultancy Ltd | 28.7 kB | Python client for the Revvyn Governance API |
+| 2026-10-31 19:21:51 | [maat-vuln](https://pypi.org/project/maat-vuln/) | 0.1.0 | Samy DIFALLAH <samy.dflh@gmai… | 93.8 kB | Exploitation-driven vulnerability prioritization with CISA KEV and FIRST EPSS,… |
+| 2026-10-31 19:23:09 | [apiverve-diceroller](https://pypi.org/project/apiverve-diceroller/) | 1.2.3 | APIVerve <hello@apiverve.com> | 20.8 kB | Dice Roller is a dice API that simulates RPG dice rolls using standard notation… |
+| 2026-10-31 19:23:21 | [resourcey](https://pypi.org/project/resourcey/) | 0.0.1 | tofarr | 779.0 kB | A resource-oriented Python web framework built on FastAPI, SQLAlchemy, and Alem… |
+| 2026-10-31 19:23:39 | [vernikr-gemini](https://pypi.org/project/vernikr-gemini/) | 0.28.0 | vernikr | 308.2 kB | MCP gateway for massive-payload Gemini analysis on the AI Studio free tier: chu… |
+| 2026-10-31 19:26:09 | [fastapi-fastmcp](https://pypi.org/project/fastapi-fastmcp/) | 0.1.0 | Manav Mehta | 59.0 kB | The unified bridge between FastAPI and FastMCP / Model Context Protocol. |
+| 2026-10-31 19:30:22 | [telenotify-python](https://pypi.org/project/telenotify-python/) | 0.1.0 | sami-yesha | 26.5 kB | Official Python client for Telenotify: Telegram-first customer notifications an… |
+| 2026-10-31 19:30:32 | [nyssa-ai-dbgateway](https://pypi.org/project/nyssa-ai-dbgateway/) | 0.1.0 | NyssaAI <oss@nyssa.ai> | 49.6 kB | Zero-ceremony, typed database gateway across SQLite and PostgreSQL matching Nys… |
+| 2026-10-31 19:31:14 | [pychestrate-cli](https://pypi.org/project/pychestrate-cli/) | 0.3.0 | Code Craft AI LLC | 99.8 kB | pyc - the command line for the Pychestrate service |
+| 2026-10-31 19:32:27 | [phasmanet](https://pypi.org/project/phasmanet/) | 0.1.0 | Ioannis Tsioulis, Anastasios… | 5.5 MB | PhasmaNet: a staged spectral token-refinement architecture for tabular regressi… |
+| 2026-10-31 19:33:31 | [airon](https://pypi.org/project/airon/) | 0.1.0 | Manifestro | 114.4 kB | Track machine learning runs: metrics, progress and hardware load, sent to an Ai… |
+| 2026-10-31 19:33:49 | [AccentDetective](https://pypi.org/project/AccentDetective/) | 0.1.0 | Jhen-Ke Lin <jacob.cs14@nycu.… | 35.4 kB | A small, text-free and alignment-free judge of how Taiwan-accented Mandarin spe… |
+| 2026-10-31 19:38:01 | [chrysis-finance](https://pypi.org/project/chrysis-finance/) | 0.1.0 | CaoJay8267 | 889.0 kB | Quantitative-finance extension package for the Chrysis prediction framework. |
+| 2026-10-31 19:40:29 | [moolam](https://pypi.org/project/moolam/) | 0.1.0 | Srinivasan Nambi <chat2srini@… | 22.8 kB | Shared Ed25519 seal-press (identities, key resolution, RFC 8785 canonical encod… |
+| 2026-10-31 19:41:05 | [polyglot-python](https://pypi.org/project/polyglot-python/) | 0.2.0 | Furox-Art | 35.2 kB | Deterministic multilingual Python keyword transpiler: write Python in your own… |
+| 2026-10-31 19:43:02 | [passgate](https://pypi.org/project/passgate/) | 0.1.1 | calasdan-sketch | 24.7 kB | Statistical pass^N gate: require an eval candidate to clear a Wilson-bound bar… |
+| 2026-10-31 19:44:24 | [olinool](https://pypi.org/project/olinool/) | 0.3.0 | Srinivasan Nambi <chat2srini@… | 149.1 kB | Delegation receipts for agent-to-agent calls: offline scope attenuation, proof-… |
+| 2026-10-31 19:45:29 | [experiment-starter-keshav12345](https://pypi.org/project/experiment-starter-keshav12345/) | 0.1.0 |  | 5.3 kB | Install complete experiment project templates |
+| 2026-10-31 19:45:35 | [va-semantic-wer](https://pypi.org/project/va-semantic-wer/) | 0.1.0 |  | 181.3 kB | Official scorer for the Voice Arena Conversational ASR Leaderboard |
+| 2026-10-31 19:46:41 | [forestgump](https://pypi.org/project/forestgump/) | 0.1.1 | Jenny Luo <jennyluo@berkeley.… | 54.1 kB | Life is like a box of baselines. Did your cheminformatics model beat a random f… |
+| 2026-10-31 19:50:47 | [maskflow-audit](https://pypi.org/project/maskflow-audit/) | 0.1.0 |  | 193.6 kB | MaskFlow egress audit: find every place a codebase sends text to an LLM, classi… |
+| 2026-10-31 19:53:32 | [viobench](https://pypi.org/project/viobench/) | 0.0.1 |  | 253.9 kB | Compute-aware relative state estimation challenge: run and score solution .wasm… |
+| 2026-10-31 19:56:07 | [regexml](https://pypi.org/project/regexml/) | 0.1.0 | Ishan <ishan@example.com> | 31.1 kB | A lightweight, fault-tolerant, text-first XML extraction library for Python. |
+| 2026-10-31 19:58:26 | [offerum](https://pypi.org/project/offerum/) | 1.0.0 | Asinerum Conlang Project | 21.1 kB | Literp Purchasing Management |
+| 2026-10-31 19:59:45 | [nyssa-ai-logging](https://pypi.org/project/nyssa-ai-logging/) | 0.2.2 | NyssaAI <oss@nyssa.ai> | 38.2 kB | Lightweight operational logging destinations with rotating JSON files and clean… |
+| 2026-10-31 20:02:04 | [laidline-livekit](https://pypi.org/project/laidline-livekit/) | 1.0.0 | Laidline LLC | 25.4 kB | LiveKit Agents `tts_node` wrapper: marks audio frames with streaming AudioSeal;… |
+| 2026-10-31 20:02:04 | [laidline-transformers](https://pypi.org/project/laidline-transformers/) | 1.0.0 | Laidline LLC | 20.3 kB | Laidline helper for Hugging Face model.generate: adds the text watermark logits… |
+| 2026-10-31 20:02:08 | [laidline-pipecat](https://pypi.org/project/laidline-pipecat/) | 1.0.0 | Laidline LLC | 26.2 kB | Pipecat `FrameProcessor` placed after TTS; marks TTS audio frames with streamin… |
+| 2026-10-31 20:03:39 | [japanfold](https://pypi.org/project/japanfold/) | 1.0.1 |  | 28.6 kB | Command-line client for JapanFold: protein structure prediction, binder design… |
+| 2026-10-31 20:05:08 | [sedrava](https://pypi.org/project/sedrava/) | 0.10.0 | Sedrava contributors | 513.6 kB | Sedrava Programming Language: experimental declarative language for applications |
+| 2026-10-31 20:06:16 | [purchaseum](https://pypi.org/project/purchaseum/) | 1.0.0 | Asinerum Conlang Project | 18.5 kB | Literp Purchase Order Management |
+| 2026-10-31 20:06:36 | [laidline-vllm](https://pypi.org/project/laidline-vllm/) | 1.0.0 | Laidline LLC | 30.9 kB | vLLM Model Runner V2 logits processor for the text watermark plus an ack-header… |
+| 2026-10-31 20:14:11 | [snapvol](https://pypi.org/project/snapvol/) | 0.3 | Emil Hammarberg <emilhammarbe… | 40.8 kB | Control Snapcast volume from the command line |
+| 2026-10-31 20:17:32 | [financian](https://pypi.org/project/financian/) | 1.0.0 | Asinerum Conlang Project | 35.2 kB | Literp Financial Bookkeeping Web Tool |

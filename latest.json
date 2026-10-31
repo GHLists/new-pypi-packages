@@ -1,27 +1,12 @@
 {
   "list": {
-    "count": 42,
-    "from": "2026-10-31T18:18:08.067955Z",
-    "path": "data/new-packages-2026-10-31T19-18-49-106371Z.csv",
-    "to": "2026-10-31T19:18:49.106371Z"
+    "count": 37,
+    "from": "2026-10-31T19:18:49.106371Z",
+    "path": "data/new-packages-2026-10-31T20-19-21-483198Z.csv",
+    "to": "2026-10-31T20:19:21.483198Z"
   },
-  "pending": [
-    {
-      "attempts": 1,
-      "created_at": "2026-10-31T18:42:31Z",
-      "package": "doc-drift-py",
-      "since": "2026-10-31T18:18:08.067955Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-31T18:42:20Z",
-      "package": "paystack-webhook",
-      "since": "2026-10-31T18:18:08.067955Z",
-      "version": null
-    }
-  ],
-  "serial": 43020736,
+  "pending": [],
+  "serial": 43022663,
   "source_truncated": false,
-  "window": "2026-10-31T19:18:49.106371Z"
+  "window": "2026-10-31T20:19:21.483198Z"
 }
