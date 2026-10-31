@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-10-31T00:18:08.3344Z",
-    "path": "data/new-packages-2026-10-31T01-19-15-019524Z.csv",
-    "to": "2026-10-31T01:19:15.019524Z"
+    "count": 27,
+    "from": "2026-10-31T01:19:15.019524Z",
+    "path": "data/new-packages-2026-10-31T02-18-08-625003Z.csv",
+    "to": "2026-10-31T02:18:08.625003Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-30T23:22:30Z",
       "package": "astral-html",
       "since": "2026-10-30T23:19:40.654763Z",
@@ -15,20 +15,27 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-10-31T02:03:56Z",
+      "package": "brahman-buddy",
+      "since": "2026-10-31T01:19:15.019524Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-10-31T00:32:33Z",
       "package": "o41-checkpoint",
       "since": "2026-10-31T00:18:08.3344Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-31T00:58:11Z",
       "package": "zfs-encrypt-migrate",
       "since": "2026-10-31T00:18:08.3344Z",
       "version": null
     }
   ],
-  "serial": 42993061,
+  "serial": 42994225,
   "source_truncated": false,
-  "window": "2026-10-31T01:19:15.019524Z"
+  "window": "2026-10-31T02:18:08.625003Z"
 }

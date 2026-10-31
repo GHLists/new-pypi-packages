@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T01:29:27Z,treelace,0.1.0a1,Treelace Contributors,Apache-2.0,119769,Simple LLM applications with inspectable multi-tool execution.
+2026-10-31T01:32:55Z,shadowrecon-labs,1.0.0,ShadowRecon Labs,MIT,59468,"A numbered reference collection of 15 ethical-hacking / offensive-security lab practicals (cryptography, recon, scanning, sniffing, password cracking, web-app attacks, session hijacking) with runnabl…"
+2026-10-31T01:33:13Z,dumpscrub,1.0.2,TODO,Proprietary,36290,"Zero-config, flat-file SQL dump anonymizer for Postgres, MySQL, and SQLite."
+2026-10-31T01:37:55Z,mqtt-frame,0.1.0,Ohara Lab,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",34423,Transparent Python device RPC and native MQTT publish/subscribe transport
+2026-10-31T01:43:01Z,hdl-bag,0.0.1,The hdl-bag Authors,Apache-2.0,78949,BAG - Bus Architecture Generator: spec-based AMBA bus-fabric RTL generator
+2026-10-31T01:43:14Z,codepraxis-arena,0.5.0,CodePraxis,Proprietary,45919,"CodePraxis platform client and pluggable scoring interface for hackathons, challenges, and learning sessions."
+2026-10-31T01:44:22Z,earthsci-astdiff,0.1.0,,AGPL-3.0,75908,Analytical sparse Jacobians for EarthSciAST (.esm) models by symbolic differentiation of the expression AST
+2026-10-31T01:46:40Z,tidypptsdm,1.1.0,Meng Guo <tony2015116@163.com>,MIT,1877089,Daily monitoring of pig performance testing stations (NEDAP and FIRE)
+2026-10-31T01:48:23Z,cyberprac-reference,1.0.0,CyberPrac Reference,MIT,42393,Numbered ethical hacking practical reference with included Python snippets
+2026-10-31T01:49:32Z,codepraxis-football,0.1.0,CodePraxis,Proprietary,10736697,CodePraxis Football: write Python agents that play football.
+2026-10-31T01:49:47Z,codepraxis-football-data,0.1.0,CodePraxis,Public domain (Unlicense) assets; see LICENSE-engine,8642893,"Game assets (models, textures, fonts) for codepraxis-football."
+2026-10-31T01:50:14Z,minimindslab-record-field-types,0.1.0,MiniMindsLab,MIT,7345,Infer per-field type signatures from records and report mixed-type fields deterministically.
+2026-10-31T01:51:24Z,minimindslab-ini-section-order,0.1.0,MiniMindsLab,MIT,8178,Deterministically reorder INI sections and optionally keys within sections while preserving comments and formatting as much as possible.
+2026-10-31T01:51:46Z,minimindslab-ini-merge,0.1.0,MiniMindsLab,MIT,7079,Deterministically merge two INI/configparser-style texts with explicit overwrite rules and stable section/key ordering.
+2026-10-31T01:52:25Z,antigravity-proxy,0.1.1,Antigravity Proxy contributors,,9300,OpenAI-compatible FastAPI wrapper for the Antigravity agy CLI
+2026-10-31T01:52:51Z,pusharmor,0.0.0,,MIT,2857,PushArmor command-line client
+2026-10-31T01:59:40Z,xiaomate,2.4.12,OddMeta Team,MIT,2862793,XiaoMATE: Your Digital Assistant
+2026-10-31T02:04:19Z,ws-aitoolkit,0.0.0,Michael Fry,Apache-2.0,1863,"ws: Your memory, skills and rules, in any AI. Name reserved; first release planned December 2026."
+2026-10-31T02:05:23Z,sprpcf,0.1.0,SPR-PCF Studio Scientific Engineering Team,MIT,240278,"A Universal Research-Grade Python Library for SPR Biosensor Design, Geometry Modeling, Material Engineering, Meshing, FEM Simulation, Mode Analysis, Visualization, Optimization and Research Reporting."
+2026-10-31T02:07:18Z,tzoffset,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,36374,"Parse and format bare numeric UTC offsets (Z, +05:30, -0800) both ways"
+2026-10-31T02:07:24Z,lunagen,0.1.0,,MIT,126429,"Simulación de cultivos basada en agentes: configurable, optimizable y con visualización en vivo."
+2026-10-31T02:07:36Z,deadliner,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,37450,Monotonic deadline and time-budget primitive for bounding multi-step operations
+2026-10-31T02:07:54Z,threadfan,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,32538,"Typed, ordered parallel map over a bounded thread pool for IO-bound fan-out"
+2026-10-31T02:08:11Z,calltimeout,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,44209,"Run a callable with a wall-clock timeout in a thread, a process or under SIGALRM, typed, with an honest choice of mechanism"
+2026-10-31T02:12:39Z,esml,0.3.0,Mingtao Li <mingtao.li@gmail.com>,MIT,33255,MIT Python client for the ESML engine: one-shot solve/simulate over the engine CLI
+2026-10-31T02:12:40Z,mmprops,0.1.0,Mingtao Li <mingtao.li@gmail.com>,MIT,20602,MIT Python client for the MMPROPS property engine: one-shot CLI wrappers
+2026-10-31T02:15:20Z,pygenius-ai,0.3.17,PyGenius Team,MIT,695662,"Production-grade Python code generation system with AST-aware context, layered defense, and multi-agent orchestration"
