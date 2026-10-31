@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T00:20:08Z,langchain-valen,0.1.0,,MIT,20157,Typed Valen decisions and uncertainty-aware routing for LangChain and LangGraph
+2026-10-31T00:21:42Z,langchain-mushroomdb,0.10.1,,MIT OR Apache-2.0,20831,LangChain GraphStore backed by the mushroomdb embedded graph database
+2026-10-31T00:24:28Z,watch-video-mcp,0.3.0,Marwan Mahmoud,MIT,52882,"MCP server and Claude skill that let an AI watch videos: timestamped transcript plus scene-selected keyframes, from local files or any yt-dlp URL."
+2026-10-31T00:27:16Z,kiori-ai,2.0.0,Kiori,MIT,18697,"The Python client for Kiori, brains for characters: memory, personality and who-knows-what for character AI. No dependencies."
+2026-10-31T00:29:57Z,point-transformer-v3,0.1.1,Pointcept <xiaoyang.wu.cs@gmail.com>,CC-BY-NC-4.0,302188,"Point Transformer V3 in pure PyTorch and Triton: runs the PTv3, Sonata, Concerto and Utonia weights."
+2026-10-31T00:33:59Z,datafog-fogvault,1.0.0,,MIT,7860712,Optional native FogVault persistence owner for DataFog Core workspaces
+2026-10-31T00:35:52Z,pydantic-ai-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7389,"Surface for Pydantic AI: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-31T00:35:55Z,surface-haystack,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7895,"Surface for Haystack: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-31T00:39:33Z,passavant,0.1.0,RοdοƖphе Dеȷеᴜnеѕ,MIT,69014,LLM-aided Export Control self-classification assistant for open-source software.
+2026-10-31T00:42:58Z,muni-lcc,0.1.1,Stephen Olumide Akindipe,MIT,50718,"Open life-cycle cost and measurement-and-verification toolkit for municipal energy projects (FEMP M&V v5.0, IPMVP Options A and C, ASTM E917, 2 CFR 200.329 reporting)"
+2026-10-31T00:46:35Z,cloudex,0.1.11,,MIT,20534,SDK for Cloudex: agent sandboxes in your own Cloudflare account
+2026-10-31T00:47:44Z,aux-py,0.0.0,,,68947066,Native exchange APIs backed by Rust
+2026-10-31T00:48:18Z,nolli-review,0.1.1,,Apache-2.0,270496,"Draws a pull request as a change to a repository's architecture, for you and your review agent"
+2026-10-31T00:50:43Z,deadlock-sdk,1.0.0,Justin Dewitz,MIT,239068,"Typed Python SDK (sync and async) for the community Deadlock API: players, matches, heroes, items, tier lists, counters and more."
+2026-10-31T00:50:59Z,ws-toolkit,0.0.0,Michael Fry,Apache-2.0,1839,"ws: Your memory, skills and rules, in any AI. Name reserved; first release planned December 2026."
+2026-10-31T00:57:29Z,pixtreme-infer-spanv2,0.1.0,minamik <mia@sync.dev>,MIT,276971,SPANv2 TensorRT architecture module for pixtreme inference
+2026-10-31T01:00:31Z,dds-frame,0.0.0,K.NAKADA,Apache-2.0,25061,DDS-native request/reply and publish/subscribe communication frame
+2026-10-31T01:03:13Z,margin-data-storyteller,0.1.0,Waddah Ali,MIT,169882,"Cleans a table of data, shows every change it made, and tells the story in it with charts."
+2026-10-31T01:09:18Z,typepact-cli,0.1.0,TypePact contributors,MIT,10747534,Rust-powered TypePact contract inspector
+2026-10-31T01:09:44Z,typepact,0.1.0,TypePact contributors,MIT,14779,Lightweight Python contract annotations for TypePact
+2026-10-31T01:17:23Z,CausalScience,0.1.0a13,Yonghan Jung,,512877,"Graph-based causal identification, mean estimation, and qualified UCA inference"
