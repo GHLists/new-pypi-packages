@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-10-30T23:22:21Z,portals-api,0.1.1,Portals API client contributors,MIT,53804,A typed Python client for the Portals Partners API
+2026-10-30T23:26:22Z,9gear-sentinel,0.1.0,Miracle Osabuogbe,Apache-2.0,97881,"Data quality checks for your warehouse, declared in YAML, run anywhere."
+2026-10-30T23:28:04Z,django-jdm-editor,0.1.1,Andrey Zagoskin,"MIT License Copyright (c) 2026 Andrey Zagoskin Permission is hereby granted, free of charge, to any…",5548759,Django admin widget for editing GoRules JDM (JSON Decision Model) decision graphs.
+2026-10-30T23:29:18Z,ilias-cli,0.1.0,Samuel Fleig,MIT,295277,"Kommandozeilen-Tool für ILIAS (HHN, Uni Mannheim) und Moodle (HS Mannheim): Login, Session, Kurse, Kursinhalt"
+2026-10-30T23:31:59Z,folderui,0.1.0,xiao-e-yun,MIT,27453,"Turn a folder into an immediate-mode GUI for humans and AI agents: *.md files are the view, *.sh files are buttons."
+2026-10-30T23:34:28Z,brucetyper,1.1.0,Marc-Olivier Duceppe <marc-olivier.duceppe@inspection.gc.ca>,MIT,50998,"In silico Bruce-ladder, Suis-ladder, AMOS and RB51 junction PCR for Brucella"
+2026-10-30T23:39:59Z,bambu-mqtt,0.1.1,NullVanta,MIT,30820,Bambu Lab MQTT telemetry collector with InfluxDB integration
+2026-10-30T23:40:54Z,hybridforgelab-distill-mcp,0.1.0,Hybrid Forge Lab <hybridforgelab@gmail.com>,MIT,18389,"Web page to clean Markdown for LLM agents, honouring robots.txt and AI opt-outs. Bring your own RapidAPI or api.market key."
+2026-10-30T23:42:01Z,filekeeper-cli,0.1.1,sangingeum,MIT,160295,"Safe, predictable filesystem operations for humans and AI agents, with atomic writes and workspace confinement."
+2026-10-30T23:42:30Z,hybridforgelab-unfold-mcp,0.1.0,Hybrid Forge Lab <hybridforgelab@gmail.com>,MIT,17652,"PDF, DOCX, PPTX and XLSX documents to Markdown for LLM agents, from a URL or a local file. Bring your own RapidAPI or api.market key."
+2026-10-30T23:42:40Z,hybridforgelab-shipshape-mcp,0.1.0,Hybrid Forge Lab <hybridforgelab@gmail.com>,MIT,19343,"Dockerfile and Kubernetes lint for coding agents: Pod Security Standards, A–F grade, a fix per finding. Bring your own RapidAPI or api.market key."
+2026-10-30T23:42:41Z,midrun,0.1.0,David Völgyes,BSD-3-Clause,444622,"Look inside a running PyTorch Lightning job and steer it: a REST API, a dashboard and a FUSE view"
+2026-10-30T23:46:05Z,fscss,0.1.0,Omonire,MIT,68417,Python wrapper for FSCSS (Figured Shorthand CSS) using the vendored Node compiler
+2026-10-30T23:46:44Z,balamut,0.0.1,prostomarkeloff,MIT,1857,"Reserved name for balamut: fast, verdict-exact mutation testing for pytest"
+2026-10-30T23:47:05Z,akkru,0.1.0,,MIT,59052,"Command-line interface for AkkruData: financial statements, facts, metrics, insider and institutional holdings and corporate events from regulatory filings."
+2026-10-30T23:48:45Z,hybridforgelab-specwise-mcp,0.1.0,Hybrid Forge Lab <hybridforgelab@gmail.com>,MIT,21720,OpenAPI validation and breaking-change diffs (also against a git ref) and JSON Schema validation for coding agents. Bring your own RapidAPI or api.market key.
+2026-10-30T23:50:08Z,flashpoint,0.1.0,Ignite Robotics,BSD-3-Clause,817569,"FRC robot telemetry platform: ingest WPILib and CTRE logs, track motor health across a robot's life"
+2026-10-30T23:51:22Z,framework-py,0.1.0.dev0,Erik Westlund <erik@table1.org>,MIT,354012,"Structured data science projects: a data catalog, integrity tracking, caching, outputs, and AI guardrails"
+2026-10-30T23:59:19Z,sparkrelay-py,0.1.0,Panghu1102,MIT,4647,Python package for SparkRelay (initial scaffold)
+2026-10-30T23:59:32Z,geoespacialprueba,0.0.1,Carlos Arrieta <andresdecarlo58@gmail.com>,MIT License,14533,Python Boilerplate contains all the boilerplate you need to create a Python package.
+2026-10-31T00:00:49Z,floating-dynamics,0.1.0,Christian Hill,MIT,45694,"Two-dimensional dynamics of floating bodies, including the free-surface effect of liquid cargo."
+2026-10-31T00:01:57Z,pyxpo-onboarding,0.1.0a1,Vishal Chaubey,MIT,42951,"Customizable onboarding and intro slides for pyxpo apps: swipeable pages, animated indicators, parallax, color transitions and a seen flag."
+2026-10-31T00:05:47Z,tsetly,0.0.1,,MIT,12785,A tiny Tsetlin Machine in NumPy: little automata that learn rules you can read.
+2026-10-31T00:08:21Z,filekeeper-mcp,0.1.0,sangingeum,MIT,32561,MCP server that exposes Filekeeper's filesystem operations to agent hosts.
+2026-10-31T00:08:42Z,zerodds-wire,1.0.0rc7,,Apache-2.0,126747,Shared Python XCDR runtime and generated ZeroDDS topic descriptors
+2026-10-31T00:12:11Z,repograph-codeintel,0.1.1,RepoGraph contributors,Apache-2.0,119824,Evidence-backed codebase intelligence and change-impact analysis for AI coding agents

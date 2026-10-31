@@ -1,12 +1,20 @@
 {
   "list": {
     "count": 26,
-    "from": "2026-10-30T22:18:13.697255Z",
-    "path": "data/new-packages-2026-10-30T23-19-40-654763Z.csv",
-    "to": "2026-10-30T23:19:40.654763Z"
+    "from": "2026-10-30T23:19:40.654763Z",
+    "path": "data/new-packages-2026-10-31T00-18-08-3344Z.csv",
+    "to": "2026-10-31T00:18:08.3344Z"
   },
-  "pending": [],
-  "serial": 42990319,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-10-30T23:22:30Z",
+      "package": "astral-html",
+      "since": "2026-10-30T23:19:40.654763Z",
+      "version": null
+    }
+  ],
+  "serial": 42991811,
   "source_truncated": false,
-  "window": "2026-10-30T23:19:40.654763Z"
+  "window": "2026-10-31T00:18:08.3344Z"
 }

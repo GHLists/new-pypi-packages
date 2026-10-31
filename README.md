@@ -8,37 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 23:19 UTC
+## Latest list — 2026-10-31 00:18 UTC
 
-New packages created between 2026-10-30 22:18 UTC and 2026-10-30 23:19 UTC.
+New packages created between 2026-10-30 23:19 UTC and 2026-10-31 00:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-30T23-19-40-654763Z.csv)
+[Full CSV](data/new-packages-2026-10-31T00-18-08-3344Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-30 22:29:59 | [texdocxdrafter](https://pypi.org/project/texdocxdrafter/) | 0.1.2 | Lin Ma | 289.2 kB | TeX-DOCX Drafter: drafts a clean, style-mapped Word document from a compiled La… |
-| 2026-10-30 22:30:08 | [danoley-my-package_7127318458](https://pypi.org/project/danoley-my-package_7127318458/) | 0.1.0 | daoleinikov | 2.9 kB | Add your description here |
-| 2026-10-30 22:31:50 | [advanced-ua-forge](https://pypi.org/project/advanced-ua-forge/) | 4.5.0 |  | 88.7 kB | Offline browser UA profiles and authorized TLS, QUIC, DTLS, HTTP/2 diagnostics |
-| 2026-10-30 22:33:06 | [fastro](https://pypi.org/project/fastro/) | 0.1.0.dev0 | Benav Labs <contact@benav.io> | 205.0 kB | Generate Fastro projects from a blueprint, keep them in sync, and check them. |
-| 2026-10-30 22:35:50 | [cotterpin-pack-angular](https://pypi.org/project/cotterpin-pack-angular/) | 0.3.0rc1 |  | 1.9 MB | Cotterpin for Angular and TypeScript: checks for your code and ready-made tasks… |
-| 2026-10-30 22:35:53 | [cotterpin-pack-dotnet](https://pypi.org/project/cotterpin-pack-dotnet/) | 0.3.0rc1 |  | 1.8 MB | Cotterpin for .NET and C#: checks for your code and ready-made tasks such as up… |
-| 2026-10-30 22:35:57 | [cotterpin-pack-java](https://pypi.org/project/cotterpin-pack-java/) | 0.3.0rc1 |  | 12.0 MB | Cotterpin for Java: checks for your code and ready-made tasks such as upgrades |
-| 2026-10-30 22:36:01 | [cotterpin-pack-python](https://pypi.org/project/cotterpin-pack-python/) | 0.3.0rc1 |  | 1.9 MB | Cotterpin for Python: checks for your code and ready-made tasks such as upgrades |
-| 2026-10-30 22:48:43 | [odoo-addon-partner-autocomplete-manual](https://pypi.org/project/odoo-addon-partner-autocomplete-manual/) | 18.0.1.0.0 | =?utf-8?q?Pelayo_Garc=C3=ADa?= | 61.5 kB | Autocomplete company name, VAT, phone, address and logo from the contact's webs… |
-| 2026-10-30 22:56:50 | [langchain-empty-response-retry](https://pypi.org/project/langchain-empty-response-retry/) | 0.1.0 | Bharat Khanna | 14.7 kB | Model-agnostic LangChain agent middleware that retries with a corrective nudge… |
-| 2026-10-30 22:59:13 | [agora-loop](https://pypi.org/project/agora-loop/) | 0.1.0 | Daniele Giunchi | 163.2 kB | A quota-aware system of agentic systems: N coding agents, one bounded loop, fre… |
-| 2026-10-30 22:59:38 | [vluthra-agent-ledger](https://pypi.org/project/vluthra-agent-ledger/) | 0.2.0 | Vikas Luthra | 72.9 kB | Tamper-evident audit trails for AI agent tool calls: SHA-256 hash chains and Me… |
-| 2026-10-30 23:00:19 | [langchain-placeholder-guard](https://pypi.org/project/langchain-placeholder-guard/) | 0.1.0 | Bharat Khanna | 24.1 kB | Model-agnostic LangChain agent middleware that detects unfilled template placeh… |
-| 2026-10-30 23:00:42 | [cloudevil](https://pypi.org/project/cloudevil/) | 1.0.1 | Devil | 743.4 kB | Cloudflare Turnstile token library for Termux. |
-| 2026-10-30 23:01:41 | [bigcontext-schema](https://pypi.org/project/bigcontext-schema/) | 0.0.1 | Big Context & Company | 2.0 kB | Name held by Big Context & Company for BigContext Schema, an open specification… |
-| 2026-10-30 23:01:42 | [bigcontext-schema-tools](https://pypi.org/project/bigcontext-schema-tools/) | 0.0.1 | Big Context & Company | 2.0 kB | Name held by Big Context & Company for the free BigContext Schema tools (the bi… |
-| 2026-10-30 23:05:24 | [deepagent-backend](https://pypi.org/project/deepagent-backend/) | 0.1.0 | Antonio Nocerino <antonio.noc… | 33.6 kB | Remote storage backends for Deep Agents: install only the ones you need, e.g. d… |
-| 2026-10-30 23:05:26 | [deepagent-backend-s3](https://pypi.org/project/deepagent-backend-s3/) | 0.1.0 | Antonio Nocerino <antonio.noc… | 15.1 kB | S3-compatible storage backend for Deep Agents |
-| 2026-10-30 23:05:27 | [deepagent-backend-postgres](https://pypi.org/project/deepagent-backend-postgres/) | 0.1.0 | Antonio Nocerino <antonio.noc… | 16.4 kB | PostgreSQL storage backend for Deep Agents |
-| 2026-10-30 23:06:04 | [bijective-gamut](https://pypi.org/project/bijective-gamut/) | 2.1.0 | Bijective Systems | 8.1 MB | Gamut by Bijective Systems: an open file format for parametric simulation studi… |
-| 2026-10-30 23:07:06 | [chai-thermo](https://pypi.org/project/chai-thermo/) | 0.15.0 | Ruohong Jiao <rjiao@uvic.ca> | 159.4 MB | CHAI: Cooling Histories via Amortized Inference. |
-| 2026-10-30 23:09:44 | [xipopt](https://pypi.org/project/xipopt/) | 0.1.0 | Nardi Lam <mail@nardilam.nl> | 312.3 MB | Ipopt for JAX functions, called through the PJRT C API |
-| 2026-10-30 23:12:28 | [deepagent-backend-azure-blob](https://pypi.org/project/deepagent-backend-azure-blob/) | 0.1.0 | Antonio Nocerino <antonio.noc… | 12.1 kB | Azure Blob Storage storage backend for Deep Agents |
-| 2026-10-30 23:14:40 | [deepagent-backend-gcs](https://pypi.org/project/deepagent-backend-gcs/) | 0.1.0 | Antonio Nocerino <antonio.noc… | 11.9 kB | Google Cloud Storage storage backend for Deep Agents |
-| 2026-10-30 23:16:33 | [deepagent-backend-mongodb](https://pypi.org/project/deepagent-backend-mongodb/) | 0.1.0 | Antonio Nocerino <antonio.noc… | 12.1 kB | MongoDB storage backend for Deep Agents |
-| 2026-10-30 23:19:15 | [deepagent-backend-redis](https://pypi.org/project/deepagent-backend-redis/) | 0.1.0 | Antonio Nocerino <antonio.noc… | 12.0 kB | Redis / Valkey storage backend for Deep Agents |
+| 2026-10-30 23:22:21 | [portals-api](https://pypi.org/project/portals-api/) | 0.1.1 | Portals API client contributo… | 53.8 kB | A typed Python client for the Portals Partners API |
+| 2026-10-30 23:26:22 | [9gear-sentinel](https://pypi.org/project/9gear-sentinel/) | 0.1.0 | Miracle Osabuogbe | 97.9 kB | Data quality checks for your warehouse, declared in YAML, run anywhere. |
+| 2026-10-30 23:28:04 | [django-jdm-editor](https://pypi.org/project/django-jdm-editor/) | 0.1.1 | Andrey Zagoskin | 5.5 MB | Django admin widget for editing GoRules JDM (JSON Decision Model) decision grap… |
+| 2026-10-30 23:29:18 | [ilias-cli](https://pypi.org/project/ilias-cli/) | 0.1.0 | Samuel Fleig | 295.3 kB | Kommandozeilen-Tool für ILIAS (HHN, Uni Mannheim) und Moodle (HS Mannheim): Log… |
+| 2026-10-30 23:31:59 | [folderui](https://pypi.org/project/folderui/) | 0.1.0 | xiao-e-yun | 27.5 kB | Turn a folder into an immediate-mode GUI for humans and AI agents: *.md files a… |
+| 2026-10-30 23:34:28 | [brucetyper](https://pypi.org/project/brucetyper/) | 1.1.0 | Marc-Olivier Duceppe <marc-ol… | 51.0 kB | In silico Bruce-ladder, Suis-ladder, AMOS and RB51 junction PCR for Brucella |
+| 2026-10-30 23:39:59 | [bambu-mqtt](https://pypi.org/project/bambu-mqtt/) | 0.1.1 | NullVanta | 30.8 kB | Bambu Lab MQTT telemetry collector with InfluxDB integration |
+| 2026-10-30 23:40:54 | [hybridforgelab-distill-mcp](https://pypi.org/project/hybridforgelab-distill-mcp/) | 0.1.0 | Hybrid Forge Lab <hybridforge… | 18.4 kB | Web page to clean Markdown for LLM agents, honouring robots.txt and AI opt-outs… |
+| 2026-10-30 23:42:01 | [filekeeper-cli](https://pypi.org/project/filekeeper-cli/) | 0.1.1 | sangingeum | 160.3 kB | Safe, predictable filesystem operations for humans and AI agents, with atomic w… |
+| 2026-10-30 23:42:30 | [hybridforgelab-unfold-mcp](https://pypi.org/project/hybridforgelab-unfold-mcp/) | 0.1.0 | Hybrid Forge Lab <hybridforge… | 17.7 kB | PDF, DOCX, PPTX and XLSX documents to Markdown for LLM agents, from a URL or a… |
+| 2026-10-30 23:42:40 | [hybridforgelab-shipshape-mcp](https://pypi.org/project/hybridforgelab-shipshape-mcp/) | 0.1.0 | Hybrid Forge Lab <hybridforge… | 19.3 kB | Dockerfile and Kubernetes lint for coding agents: Pod Security Standards, A–F g… |
+| 2026-10-30 23:42:41 | [midrun](https://pypi.org/project/midrun/) | 0.1.0 | David Völgyes | 444.6 kB | Look inside a running PyTorch Lightning job and steer it: a REST API, a dashboa… |
+| 2026-10-30 23:46:05 | [fscss](https://pypi.org/project/fscss/) | 0.1.0 | Omonire | 68.4 kB | Python wrapper for FSCSS (Figured Shorthand CSS) using the vendored Node compil… |
+| 2026-10-30 23:46:44 | [balamut](https://pypi.org/project/balamut/) | 0.0.1 | prostomarkeloff | 1.9 kB | Reserved name for balamut: fast, verdict-exact mutation testing for pytest |
+| 2026-10-30 23:47:05 | [akkru](https://pypi.org/project/akkru/) | 0.1.0 |  | 59.1 kB | Command-line interface for AkkruData: financial statements, facts, metrics, ins… |
+| 2026-10-30 23:48:45 | [hybridforgelab-specwise-mcp](https://pypi.org/project/hybridforgelab-specwise-mcp/) | 0.1.0 | Hybrid Forge Lab <hybridforge… | 21.7 kB | OpenAPI validation and breaking-change diffs (also against a git ref) and JSON… |
+| 2026-10-30 23:50:08 | [flashpoint](https://pypi.org/project/flashpoint/) | 0.1.0 | Ignite Robotics | 817.6 kB | FRC robot telemetry platform: ingest WPILib and CTRE logs, track motor health a… |
+| 2026-10-30 23:51:22 | [framework-py](https://pypi.org/project/framework-py/) | 0.1.0.dev0 | Erik Westlund <erik@table1.or… | 354.0 kB | Structured data science projects: a data catalog, integrity tracking, caching,… |
+| 2026-10-30 23:59:19 | [sparkrelay-py](https://pypi.org/project/sparkrelay-py/) | 0.1.0 | Panghu1102 | 4.6 kB | Python package for SparkRelay (initial scaffold) |
+| 2026-10-30 23:59:32 | [geoespacialprueba](https://pypi.org/project/geoespacialprueba/) | 0.0.1 | Carlos Arrieta <andresdecarlo… | 14.5 kB | Python Boilerplate contains all the boilerplate you need to create a Python pac… |
+| 2026-10-31 00:00:49 | [floating-dynamics](https://pypi.org/project/floating-dynamics/) | 0.1.0 | Christian Hill | 45.7 kB | Two-dimensional dynamics of floating bodies, including the free-surface effect… |
+| 2026-10-31 00:01:57 | [pyxpo-onboarding](https://pypi.org/project/pyxpo-onboarding/) | 0.1.0a1 | Vishal Chaubey | 43.0 kB | Customizable onboarding and intro slides for pyxpo apps: swipeable pages, anima… |
+| 2026-10-31 00:05:47 | [tsetly](https://pypi.org/project/tsetly/) | 0.0.1 |  | 12.8 kB | A tiny Tsetlin Machine in NumPy: little automata that learn rules you can read. |
+| 2026-10-31 00:08:21 | [filekeeper-mcp](https://pypi.org/project/filekeeper-mcp/) | 0.1.0 | sangingeum | 32.6 kB | MCP server that exposes Filekeeper's filesystem operations to agent hosts. |
+| 2026-10-31 00:08:42 | [zerodds-wire](https://pypi.org/project/zerodds-wire/) | 1.0.0rc7 |  | 126.7 kB | Shared Python XCDR runtime and generated ZeroDDS topic descriptors |
+| 2026-10-31 00:12:11 | [repograph-codeintel](https://pypi.org/project/repograph-codeintel/) | 0.1.1 | RepoGraph contributors | 119.8 kB | Evidence-backed codebase intelligence and change-impact analysis for AI coding… |
