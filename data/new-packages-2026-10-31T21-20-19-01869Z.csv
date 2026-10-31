@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T20:21:22Z,stuntkey,0.9.0,Calas Automations Inc.,MIT,882755,"Let your AI use your API keys through stuntkey without ever holding them: guided one-command setup, brokered API calls, a self-attack test and an activity log. Reduces risk; not independently reviewe…"
+2026-10-31T20:21:50Z,snpdenspy,0.2.0,Alberto Cruz Garcia <a.cruz.garcia@gmail.com>,"MIT License Copyright (c) 2026 Alberto Cruz Garcia Permission is hereby granted, free of charge, to…",71338,Nonparametric statistical methods for probability density estimation
+2026-10-31T20:25:22Z,keyring-coreforged,1.5.2,CoreForged LLC <corporate@coreforged.com>,MIT,2747,"Installs coreforged-mcp. KeyRing, CoreForged's key manager, comes inside the CoreForged gateway."
+2026-10-31T20:26:14Z,langchain-tradingcalc,0.1.0,,MIT,5162,"TradingCalc tools for LangChain: deterministic options, forex, risk and trading math from the TradingCalc MCP server"
+2026-10-31T20:28:33Z,autodl-cli,0.1.0,KrisTHL181 <KrisTHL181@outlook.com>,MIT,241144,Command-line tooling and a Python SDK for managing AutoDL instances.
+2026-10-31T20:33:53Z,slen,0.4.0,Alexey Shpilka,MIT,125673,"Slen Python SDK — run flows and read their outcome, manage end customers and their credits, verify webhooks."
+2026-10-31T20:41:40Z,help-wanted,0.1.0,"Simon Teague, Samuel Saylor, Nathan Davies, Fredy Mata",MIT,67430,"Find open-source projects and issues to contribute to, matched to you by Gemma 4"
+2026-10-31T20:41:48Z,mcp-gradecard,0.3.0,Dan Calas,MIT,396370,Security auditor for MCP server configurations.
+2026-10-31T20:41:51Z,mcp-leash,0.7.0,,MIT,197758,Runtime permission firewall for MCP servers (stdio proxy)
+2026-10-31T20:41:53Z,prompt-assert,0.2.0,,MIT,158691,Pytest for prompts: catch LLM regressions before your users do.
+2026-10-31T20:42:19Z,yy22ff,1.0.0,yy22ff,,33527,"Full-auto web vulnerability scanner: crawling, fingerprinting, SQLi, XSS, LFI, RFI, SSRF, CMDi, SSTI, file-upload exploitation, TLS analysis."
+2026-10-31T20:44:26Z,symalot,1.0.0,,MIT,15062526,Small Python bindings for native crash processing and symbolication
+2026-10-31T20:47:45Z,etrade-mcp,0.1.0,etrade-mcp contributors,Apache-2.0,355680,An unofficial Python MCP adapter for the etrade-python E*TRADE client
+2026-10-31T20:48:31Z,blitzy-platform-shared,0.0.0,Blitzy,,1252,Reserved name for an internal Blitzy package. Contains no code.
+2026-10-31T20:51:01Z,tt-news-scraper,0.4.3,,,21456,Trinidad and Tobago news scraper using Guardian & Express as sources
+2026-10-31T20:51:51Z,fast-spicerack,0.1.1,,MIT,21954192,"Build SPICE circuits, generate netlists, run simulator backends, and read results"
+2026-10-31T20:54:16Z,ghostman,0.1.1,4yk5,MIT,25753,"A fast, keyboard-driven terminal API client and webhook inspector"
+2026-10-31T20:55:57Z,django-harel,0.1.0,Alberto Casado,Apache-2.0,110338,Django integration for harel statecharts — a Celery alternative for state-machine-shaped work
+2026-10-31T21:00:18Z,instabox,0.1.0,hoopengo,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",607296,Python SDK for the InstaBox API (https://instabox.sh) — cloud machines for agents.
+2026-10-31T21:01:29Z,lambdachecks,0.0.1,Frank Zhang,MIT,1525,Reserved for https://github.com/cloudformer/lambdachecks
+2026-10-31T21:01:30Z,vaultwarden,0.0.1,Frank Zhang,MIT,1511,Reserved for https://github.com/cloudformer/vaultwarden
+2026-10-31T21:01:36Z,fail2ban-abuseipdb-reporter,1.3.0,Mikhail Deynekin,MIT,214211,"Asynchronous fail2ban to AbuseIPDB reporter: queues bans in SQLite and submits rich, evidence-backed abuse reports on a schedule."
+2026-10-31T21:01:40Z,jobwarden,0.1.1,Séverin Férard,MIT,111578,"Watch long-running jobs live, locally or over SSH, and wake your AI agent when they need attention"
+2026-10-31T21:02:25Z,embedded-lab-control,0.2.0,John Jezl,MIT,1017938,Centralized management system for embedded development lab resources
+2026-10-31T21:02:48Z,pyjack-blackjack,2,ConsciousBone <eplant@consciousb.one>,MIT,13694,"A simple blackjack game, but in a single Python file... How revolutionary!"
+2026-10-31T21:03:01Z,awara,0.0.0,Suhail Suhail,MIT,7675,Portable creative workflow recipe schema and validator
+2026-10-31T21:03:06Z,terraform-registry,0.0.1,Frank Zhang,MIT,1605,Reserved for https://github.com/cloudformer/terraform-registry
+2026-10-31T21:03:41Z,pydepotdownloader,0.0.1,,GPL-2.0-only,128357,Steam depot downloading utility - a Python port of SteamRE/DepotDownloader
+2026-10-31T21:05:41Z,v4quote,0.1.0,m6xcom,GPL-2.0-or-later,582862,"Exact-integer AMM quote math (Uniswap v2/v3/v4 + hooks, Algebra Integral, Liquidity Book, Metric OMM, ERC-4626) verified against on-chain quoters"
+2026-10-31T21:07:07Z,google-flights-search-mcp,0.1.0,,MIT,33952,MCP server for searching Google Flights prices and options.
+2026-10-31T21:07:12Z,vinted-search-mcp,0.1.0,,MIT,14438,"MCP server for searching second-hand listings on Vinted (anonymous, read-only)."
+2026-10-31T21:07:14Z,DecoratorsToolKit,1.0.0,,,8685,Bibliothèque de décorateurs
+2026-10-31T21:07:14Z,kuantokusta-mcp,0.1.0,,MIT,22215,MCP server for searching products on KuantoKusta.pt price comparator.
+2026-10-31T21:07:59Z,guic,0.0.1,tsomerville,MIT,1075,Placeholder: the guic name is held for a future project
+2026-10-31T21:08:35Z,auto-html-report,0.1.0,hanku4u,Apache-2.0,199158,"Dynamic HTML report generator: composable blocks, concurrent collection, one file."
+2026-10-31T21:08:58Z,carris-metropolitana-mcp,0.1.0,,MIT,26761,MCP server for real-time Carris Metropolitana bus info (Greater Lisbon) from the official open API.
+2026-10-31T21:08:59Z,flightcom,0.0.1,tsomerville,MIT,1123,Placeholder: the flightcom name is held for a future project
+2026-10-31T21:09:01Z,portugal-fuel-ev-mcp,0.1.0,,MIT,48061,"MCP server for the cheapest fuel and nearby EV chargers in Portugal, from official open data (DGEG fuel prices, MOBI.E charging network)."
+2026-10-31T21:09:01Z,sns-portugal-mcp,0.1.0,,MIT,37725,"MCP server for official open-data statistics about Portugal's national health service (SNS): hospitals, emergency visits, surgery and consultation access."
+2026-10-31T21:09:38Z,SimPyTick,0.0.1,Fabian Krumm <ghub_fk@gmx.de>,BSD-3-Clause,56263,SimPyTick (Simple Python Tick): process- and thread-backed periodic timers.
+2026-10-31T21:09:40Z,jacl4py,0.0.1,Fabian Krumm <ghub_fk@gmx.de>,BSD-3-Clause,40305,Just another custom logger for Python.
+2026-10-31T21:10:00Z,lemcom,0.0.1,tsomerville,MIT,1094,Placeholder: the lemcom name is held for a future project
+2026-10-31T21:10:14Z,portugal-medicines-mcp,0.1.0,,MIT,43263,"MCP server for medicine shortages and pharmacies on duty in Portugal (public sources, read-only)."
+2026-10-31T21:11:02Z,incocom,0.0.1,tsomerville,MIT,1103,Placeholder: the incocom name is held for a future project
+2026-10-31T21:13:29Z,PygameToolsOcto,1.0.0,,,6417,"Bibliothèque qui dispose de divers classes, fonctions et décorateurs pour aider au développement avec pygame"
+2026-10-31T21:17:16Z,pymabibli,0.0.1,Bestycame,,23159,"An async Python client for mabibli.be, the libraries of the Province of Liège"
+2026-10-31T21:18:05Z,typoprint,0.1.0,Emmanuel Sandorfi,MIT,8772790,"Markdown in. Beautiful PDFs out. Offline Markdown-to-PDF printing with Python, a CLI, and Typst layouts"
+2026-10-31T21:18:14Z,cf-tool-cli,1.0.0,Fau818,MIT,286196,"Codeforces from your terminal: get problems, test your code on their samples, submit"
+2026-10-31T21:18:31Z,pytest-inject-config,1.0.0,Avi Zaguri,MIT,13990,A pytest plugin that loads a JSON or YAML file given by --config-path and injects it into test classes as self.config.
+2026-10-31T21:19:07Z,pylibresidfp,0.1.0,,GPL-2.0-or-later,1045288,pybind11 binding of libresidfp (reSIDfp SID emulator) with chip state save/restore
+2026-10-31T21:20:11Z,hodigos,0.0.1,Bertrand (Famozz Media),Apache-2.0,4821,"Placeholder release — Hodigos, an open, local-first AI film pipeline, is coming."
