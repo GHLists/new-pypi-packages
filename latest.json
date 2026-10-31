@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-10-31T03:18:13.425592Z",
-    "path": "data/new-packages-2026-10-31T04-19-52-455151Z.csv",
-    "to": "2026-10-31T04:19:52.455151Z"
+    "count": 28,
+    "from": "2026-10-31T04:19:52.455151Z",
+    "path": "data/new-packages-2026-10-31T05-20-26-431042Z.csv",
+    "to": "2026-10-31T05:20:26.431042Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-10-31T00:32:33Z",
-      "package": "o41-checkpoint",
-      "since": "2026-10-31T00:18:08.3344Z",
+      "attempts": 1,
+      "created_at": "2026-10-31T04:59:24Z",
+      "package": "sqlalchemy_hawdb",
+      "since": "2026-10-31T04:19:52.455151Z",
       "version": null
     }
   ],
-  "serial": 42996918,
+  "serial": 42998526,
   "source_truncated": false,
-  "window": "2026-10-31T04:19:52.455151Z"
+  "window": "2026-10-31T05:20:26.431042Z"
 }

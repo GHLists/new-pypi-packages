@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T04:25:51Z,tianqinglang,0.0.1,秋水中的满月 / ManyueEureka,MPL-2.0,3040,"TianQing (tianqinglang) — a self-hosted, relational-ontology programming language. Placeholder release to reserve the name."
+2026-10-31T04:28:10Z,sudikshya,0.1.0,Biplov Gautam,MIT,4036,A tiny library that introduces Sudikshya Dhakal.
+2026-10-31T04:29:08Z,account-connections,0.1.1,benjamin-di,MIT,39812,Explicit account sharing and selection for authenticated applications
+2026-10-31T04:32:11Z,exelichai-rules,0.2.0,Masked Fox Productions,,581924,"The Exelichai server's structural checks for a repo tree, offline (exelichai validate --local)."
+2026-10-31T04:32:42Z,osdpy,0.0.1.dev0,S_My,BSD 3-Clause License,6658,One-stop Service for developing Python packages
+2026-10-31T04:33:23Z,konomanoasa-tree-sitter-query,0.4.0,,MIT,30403,Tree-sitter grammar for Tree-sitter Query.
+2026-10-31T04:37:27Z,costcrunch,0.1.0,CostCrunch <support@costcrunch.ai>,MIT,70666,"CostCrunch from Python, your terminal, and AI assistants (MCP)."
+2026-10-31T04:37:31Z,astars-py,0.2.0,,,512246,PyO3 bindings for astars-core (module name: _astars; not the eventual `astars` package).
+2026-10-31T04:37:45Z,test-pin,0.1.0,Feenmile,MIT,37159,"Judge a change with the test files from its base commit, so editing tests cannot make it pass."
+2026-10-31T04:37:51Z,stream-limits,0.1.0,Lee Tucker,MIT,56489,"Cap the threads and memory of numeric Python libraries (Polars, numba, BLAS, pyarrow) at a scheduler's allocation, and measure peak memory"
+2026-10-31T04:38:06Z,once-gate,0.2.0,Feenmile,MIT,40744,"Make AI agent side effects happen at most once, with exact-content human approval and a STOP file: an MCP proxy and library."
+2026-10-31T04:42:10Z,quotecheck-mcp,0.1.1,Feenmile,MIT,45335,"Verify that a quoted passage actually appears, word for word, in its cited source."
+2026-10-31T04:44:54Z,aehcli,0.1.0,agent-eval-harness contributors,Apache-2.0,36249,"Framework-neutral, task-level evaluation and regression harness for AI agents"
+2026-10-31T04:47:42Z,agentswitcher,0.1.0,Rituraj Kumar,MIT,432138,"Save and switch account logins for AI coding CLIs (Antigravity, Claude Code, OpenCode, Codex)."
+2026-10-31T04:53:26Z,xdg-tool,2.3.3,jjjm03299-wq,MIT,19934,"XDG Tool CLI with execution, logs, alias, config, server tools, and Replit backend integration"
+2026-10-31T04:53:36Z,langchain-surgemesh,0.1.0,Novus Index LLC <dev@surgemesh.com>,Apache-2.0,26371,"LangChain tools for Surgemesh: quote, publish and track social posts from an agent."
+2026-10-31T04:53:44Z,crewai-surgemesh,0.1.0,Novus Index LLC <dev@surgemesh.com>,Apache-2.0,25347,"CrewAI tools for Surgemesh: quote, publish and track social posts from a crew."
+2026-10-31T04:59:17Z,jl-forge,0.1.0,decitre,Apache-2.0,11166,Reusable tooling for building and publishing JupyterLite sites.
+2026-10-31T05:00:05Z,pqblocks-lint,0.1.0,The PQBlocks Authors,Apache-2.0,81375,Static analysis for Python source that finds classical and post-quantum cryptographic primitives with a source-to-sink taint pass and reports them as a CycloneDX 1.6 CBOM or a SARIF 2.1.0 log.
+2026-10-31T05:00:10Z,pqblocks-policy,0.1.0,The PQBlocks Authors,Apache-2.0,65400,Policy-as-code engine for post-quantum cryptography compliance and CBOM verification.
+2026-10-31T05:00:14Z,pqblocks-primitives,0.1.0,The PQBlocks Authors,Apache-2.0,48295,"Production-ready integrated post-quantum cryptographic primitives (ML-KEM, ML-DSA, SLH-DSA, and hybrid schemes)."
+2026-10-31T05:00:18Z,pqblocks-scan,0.1.0,The PQBlocks Authors,Apache-2.0,65541,"Cryptography inventory scanner: finds classical and post-quantum algorithms in source code or a TLS endpoint and writes a CycloneDX 1.6 CBOM, a SARIF 2.1.0 report and a readiness grade."
+2026-10-31T05:01:01Z,litematica-render,0.1.0,late-maple,MIT,155065,Parse Minecraft Litematica schematics and render them to isometric PNGs
+2026-10-31T05:01:24Z,coralrt,0.1.0,,Apache-2.0 AND MPL-2.0 AND MIT,2473563,"Coral Edge TPU models on the USB Accelerator from any Python 3, with pycoral and tflite_runtime compatible packages"
+2026-10-31T05:04:46Z,lrdmem,0.1.0,Victor Larodiel <victor@larodiel.com>,MIT,313949,Shared git-backed memory store for AI coding agents
+2026-10-31T05:12:24Z,codingpad,0.0.1,Joseph Izang,MIT OR Apache-2.0,11948,"Placeholder for the CodingPad runtime library (dump, cache, secret, db). Not functional yet."
+2026-10-31T05:12:27Z,cpad,0.0.1,Joseph Izang,MIT OR Apache-2.0,12319,"Placeholder for cpad, the CodingPad command-line runner. Not functional yet."
+2026-10-31T05:18:27Z,spend-explainer,0.1.0,Jared Chapman,MIT,134707,"Explain Claude API spend spikes, check every number against the data, and fall back to a rule-based report."
