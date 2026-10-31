@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T10:18:35Z,baremotet,2.11,MrAhmadiRad,MIT,231498,Remote client framework for Telegram automation using Pyrogram
+2026-10-31T10:21:19Z,argus-sentry,1.0.1,Esthien,Apache-2.0,249227,"The Argus boundary for AI agents: capability token enforcement for every tool call, skill, MCP action, and agent-to-agent request of any model."
+2026-10-31T10:25:20Z,crewai-arche,0.1.0,Arche,Apache-2.0,13617,Arche SEC financial data tools for CrewAI agents
+2026-10-31T10:26:44Z,infranode,0.1.0,InfraNode <admin@infranode.dev>,Apache-2.0,353940,Keyless Python client for the InfraNode open-data API (84 German cities) with LangChain and LlamaIndex tools.
+2026-10-31T10:27:23Z,langchain-arche,0.1.0,Arche,Apache-2.0,13458,Arche SEC financial data tools for LangChain agents
+2026-10-31T10:27:50Z,agentguard-sentry,0.1.0,AgentGuard Team,MIT,21464,GitHub Action that detects authorization and tenant-isolation regressions in Python/Django pull requests
+2026-10-31T10:27:59Z,jobhunter-cli,0.1.0,ziad-aboughaleb <ziadaboughaleb@gmail.com>,,115691,"An AI-powered, zero-database Python CLI that automates job hunting. It scrapes ATS boards, evaluates candidate-job fit using LLMs against your CV, and dispatches real-time Telegram alerts."
+2026-10-31T10:29:38Z,llama-index-tools-arche,0.1.0,Arche,Apache-2.0,13630,Arche SEC financial data tools for LlamaIndex agents
+2026-10-31T10:30:00Z,django-spec-rest,0.1.0,Artur Veres <artur8118@gmail.com>,MIT,663184,"A service-oriented layer for Django REST Framework: precise, controllable side effects for mutating endpoints."
+2026-10-31T10:30:29Z,credgate,0.1.0,"Bharat Sikka <bharat8sikka@gmail.com>, Aishwarya Bais <aishwarya.bais00@gmail.com>",Apache-2.0,66663,Governance layer for LLM requests with Indian PII detection
+2026-10-31T10:32:18Z,proposing-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49429,A machine that proposes new ideas and meanings.
+2026-10-31T10:32:34Z,async_instalib,0.1.0,Anandesh Sharma,MIT,1203375,"An async, session-oriented Python client for Instagram's mobile API."
+2026-10-31T10:32:41Z,async_linkedinlib,0.2.0,Anandesh Sharma,MIT,1021318,"An async Python client for LinkedIn's Android API: sessions, feed, posts, comments, search and jobs."
+2026-10-31T10:33:34Z,merge-carlo,0.1.1,Felix Müller <felix@fmueller.io>,Apache-2.0,187238,Offline scenario explorer for human and AI pull-request review workflows
+2026-10-31T10:34:51Z,intflow-qc-client,0.3.2,,,25901,QC SYSTEM CLI and MCP client
+2026-10-31T10:36:21Z,hatang,0.1.0,Sota Labs <hello@hatang.dev>,MIT,30543,"Official Python SDK for Ha Tang (hatang.dev): support CRM, plans and purchases, AI knowledge, email, payments, webhooks."
+2026-10-31T10:39:37Z,meta-hpo,0.1.0,Muhammet Ozdemir <mr.ozdemir34@gmail.com>,MIT,342577,Metaheuristic hyperparameter optimization: a fast numpy core with an ask/tell interface.
+2026-10-31T10:39:45Z,syscom,0.0.1,tsomerville,MIT,2482,Placeholder: the syscom name is held for a future project
+2026-10-31T10:39:45Z,tvcom,0.0.1,tsomerville,MIT,2460,Placeholder: the tvcom name is held for a future project
+2026-10-31T10:42:49Z,uxcom,0.0.1,tsomerville,MIT,2468,Placeholder: the uxcom name is held for a future project
+2026-10-31T10:42:59Z,iotcom,0.0.1,tsomerville,MIT,2483,Placeholder: the iotcom name is held for a future project
+2026-10-31T10:44:04Z,alfvex,1.0.1,Rogerio Jorge <rogerio.jorge@wisc.edu>,MIT,1569386,Differentiable JAX code for Alfvén eigenmodes and fast-ion physics in stellarators.
+2026-10-31T10:44:10Z,agentguards,1.0.0,AgentGuard Team,MIT,21408,GitHub Action that detects authorization and tenant-isolation regressions in Python/Django pull requests
+2026-10-31T10:47:51Z,ttycom,0.0.1,tsomerville,MIT,2487,Placeholder: the ttycom name is held for a future project
+2026-10-31T10:47:57Z,sshcom,0.0.1,tsomerville,MIT,2476,Placeholder: the sshcom name is held for a future project
+2026-10-31T10:49:56Z,memorydb-langchain,0.2.1,humaniods,MIT,6779,LangChain chat-message history backed by the MemoryDB agent-memory engine
+2026-10-31T10:50:05Z,sherlock-tools,0.1.0,Guillermo Comesaña Cimadevila <ComesanaCimadevilaG@cardiff.ac.uk>,MIT,12075,Python library behind the nf-core/sherlock pipeline
+2026-10-31T10:50:47Z,olenji,1.0.0,,Apache-2.0,3127960,"Agent-operated transcription, translation, and live browser captions"
+2026-10-31T10:56:03Z,se-interpretive-kernel,0.1.0,Denise M. Case,MIT,72088,"Executable contract for the Structural Explainability interpretive kernel: finite kernel, generated occurrence regime, thresholds, witnesses, and comparison-lifting laws"
+2026-10-31T10:58:01Z,django-authnest,0.1.0,Mithalesh Pal <mithleshpallearning@gmail.com>,MIT,56083,"Reusable Django REST auth: email/phone/username login, JWT, email verification, password flows, profile, soft delete."
+2026-10-31T10:58:45Z,livesession-mcp,2.0.0,Uri Rosen,MIT,374429,"LiveSession MCP: AI production assistant for Ableton Live — compose, arrange, mix with real loudness measurements, control third-party plug-ins, and read Live Sets offline."
+2026-10-31T11:00:51Z,human-like-ai-tester,0.2.0,Human-Like AI Testing Team,MIT,116045,Universal AI testing skill and simulation engine that tests any application type like an authentic human being.
+2026-10-31T11:02:10Z,convexe,0.0.1,hke <hke@example.com>,MIT,14502917,Convexe package
+2026-10-31T11:04:17Z,expert-mentor,0.6.2,expert-mentor contributors,MIT,134796,"Turn any LLM (Claude, ChatGPT, Gemini, Ollama, llama.cpp) into a professional teacher for any field."
+2026-10-31T11:05:58Z,pyrdmnet,0.5.0,Stefan Schlagbauer,MIT,265599,RDMnet (ANSI E1.33) broker and controller in pure Python
+2026-10-31T11:06:26Z,echomind-memory,1.1.5,xiangjianhuan007,MIT,121725,四层认知记忆系统 for AI agents — 世界事实 / 经历 / 观察 / 心智模型，LLM 反射引擎自动提炼
+2026-10-31T11:09:34Z,nebulabroadcast-core,6.1.6,Nebula Broadcast,GPL-3.0-or-later,139098,Async domain library of the Nebula broadcast automation system
+2026-10-31T11:10:44Z,bazicalculator-url-tools,0.1.0,wangneo276-lgtm,MIT,11793,"Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luck Pillars with true solar time. Plus Zi Wei Dou Shu, Liu Yao, Mei Hua, Qi Men and the Chinese Almanac."
+2026-10-31T11:11:33Z,porymap-mcp,1.0.0,Hugo Martins,"MIT License Copyright (c) 2026 Hugo Martins Permission is hereby granted, free of charge, to any pe…",780715,MCP server that lets AI agents author Porymap-compatible Pokémon Gen-3 decompilation maps.
+2026-10-31T11:11:59Z,udfx,0.1.0a1,Guan-Ming Chiu <guanmingchiu@gmail.com>,Apache-2.0,566360,Turn Python UDFs into native dataframe expressions
+2026-10-31T11:14:15Z,aes-gcm-file-crypter,1.0.0,Joel Horensma,"Custom License With Redistribution Limitations ---------------------------------------------- ""aes_…",709259,A CLI application with a GUI included for securely encrypting or decrypting files and/or entire folders with AES-GCM cryptography and forensic recovery-prevention features.
+2026-10-31T11:14:52Z,rowray,0.1.0,,,79057,Compare dbt model data and scan cost against a Git base ref
+2026-10-31T11:17:04Z,ccx-native,0.0.1,Fernando,,1993,Placeholder for CCX: persistent Claude Code and Codex workers. First release coming soon.
