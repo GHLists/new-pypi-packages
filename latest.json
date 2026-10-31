@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-10-31T07:20:26.693579Z",
-    "path": "data/new-packages-2026-10-31T08-19-28-213214Z.csv",
-    "to": "2026-10-31T08:19:28.213214Z"
+    "count": 32,
+    "from": "2026-10-31T08:19:28.213214Z",
+    "path": "data/new-packages-2026-10-31T09-18-32-814048Z.csv",
+    "to": "2026-10-31T09:18:32.814048Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-31T07:32:52Z",
       "package": "micro-snitch",
       "since": "2026-10-31T07:20:26.693579Z",
       "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-10-31T07:48:17Z",
-      "package": "traceAI-agent-framework",
-      "since": "2026-10-31T07:20:26.693579Z",
-      "version": null
     }
   ],
-  "serial": 43002777,
+  "serial": 43004275,
   "source_truncated": false,
-  "window": "2026-10-31T08:19:28.213214Z"
+  "window": "2026-10-31T09:18:32.814048Z"
 }

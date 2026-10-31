@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T07:48:17Z,traceAI-agent-framework,0.1.0,Future AGI,Apache-2.0,25552,OpenTelemetry instrumentation for Microsoft Agent Framework
+2026-10-31T08:19:34Z,coverdraw,0.1.0,Kirill Nikolsky,MIT,147640,"Protein sequence peptide coverage visualizer with PTM and amino acid substitution highlighting (SVG, PNG/JPG, HTML)."
+2026-10-31T08:22:56Z,guarani-ai,0.1.0b1,,LicenseRef-Proprietary,17445,"Official HTTP client for Guarani AI Verify, Mesh, and Mobile CI (Private Beta)"
+2026-10-31T08:23:36Z,context-engineering-core,0.12.1,,Apache-2.0,296003,"Provider-independent context layers, source contracts, and token budget accounting"
+2026-10-31T08:27:54Z,spamkit-api,0.1.1,,AGPL-3.0-only,82602,Self-hostable spam-scoring service and client for user-submitted text.
+2026-10-31T08:31:13Z,cpp-kana2,2.0.0,wolfgitpr,Apache-2.0,486674,"Japanese kana <-> Hepburn romaji, over the cpp-kana2 C ABI"
+2026-10-31T08:34:01Z,anumat-engine,0.1.0,,Apache-2.0,182453942,Run the Anumat engine on your machine
+2026-10-31T08:39:18Z,skelion,1.0.0,Skelion Team <team@skelion.dev>,Apache-2.0,7416,"Drop-in Python fail-open resilience middleware for FastAPI, Starlette, and ASGI backends"
+2026-10-31T08:47:24Z,npien,1.0.0,npien contributors,MIT,50267,"NAT-piercing NET: serverless P2P UDP hole punching with rooms, STUN and optional end-to-end encryption"
+2026-10-31T08:47:30Z,infersize,0.2.0,Prajwal Pujari <prajwalpujari16@gmail.com>,Apache-2.0,114977,"Analytical performance modeling, VRAM capacity planning, and hardware roofline prediction for LLM serving."
+2026-10-31T08:47:31Z,fusenterm,0.1.0,,MIT,69942,ターミナルのホワイトボードに付箋を貼ってタスク・メモを管理するアプリ
+2026-10-31T08:48:19Z,leke,0.1.0,Frank Acquaye <acquayefrank@gmail.com>,Apache-2.0,11108067,"High-performance subword tokenizer for Kwa languages (Akan/Twi, Ewe, Ga, Fante)"
+2026-10-31T08:49:11Z,flin-gtm-mcp,0.1.0,flin agency,,99995,Read-only Google Tag Manager MCP server by flin
+2026-10-31T08:49:51Z,nextok,0.1.0,sjjeong94,MIT,5875584,"Fast cross-platform LLM token sampler for CPUs (temperature, top-k/p, min-p, penalties, logit bias)"
+2026-10-31T08:50:00Z,agentswarm-space,0.1.0,Andrew Siah,MIT,45449,"Command-line client for agentswarm.space, the work exchange where AI agents and their humans get real work done together."
+2026-10-31T08:56:40Z,rag-hygiene,0.1.0,OnProject,MIT,53278,Find and automatically repair broken RAG chunks before you embed them. Zero dependencies.
+2026-10-31T08:57:45Z,unslept,0.1.0,,MIT,30839,Pay x402 paywalls from an Unslept agent account on Robinhood Chain.
+2026-10-31T08:57:49Z,paperswithbacktest,0.0.1,PapersWithBacktest,Apache-2.0,3454,Papers With Backtest: the `pwb` namespace. Points to pwb-toolbox for now.
+2026-10-31T08:57:52Z,pwb,0.0.1,PapersWithBacktest,Apache-2.0,2741,Alias of paperswithbacktest: installs the `pwb` namespace of Papers With Backtest.
+2026-10-31T08:57:56Z,tradewind,0.0.1,PapersWithBacktest,Apache-2.0,3588,The backtesting engine of Papers With Backtest. In development; not yet usable.
+2026-10-31T08:59:05Z,tokenomos,0.0.1,"""Shih-Ying Yeh(KohakuBlueLeaf)"" <apolloyeh0123@gmail.com>",Apache-2.0,1884446,Local inference for small VLMs whose host work per step does not grow with the batch: the GPU is the only bottleneck
+2026-10-31T08:59:29Z,pycpufreq,1.0.0,turulomio,GPL-3.0-or-later,33825,Python library and CLI tool to manage and monitor CPU frequencies and turbo state
+2026-10-31T09:02:55Z,scrollbreaker,0.1.0,scrollbreaker contributors,MIT,46402,Scroll-aware screen content collector for LLM agents — 把滚动的屏幕切成能读的页
+2026-10-31T09:03:47Z,colosseum-microcontroller,0.1.3,Aqshal Nur Ikhsan,MIT,12111204,Train compact single-class object detectors for microcontrollers
+2026-10-31T09:05:44Z,twoody,0.2.0,Osmove <support@twoody.com>,LicenseRef-Twoody,8977,"Twoody from the command line: run this computer's models (`twoody run`, `pull`, `list`), an OpenAI-compatible local API, chat, and `twoody serve`; the same command as `npm install -g twoody`, needs N…"
+2026-10-31T09:07:18Z,tmmcore,0.5.0,Andrey Achapovsky,MIT,719316,"Transfer-matrix method for multilayer thin-film optics, with exact analytic derivatives and phase dispersion."
+2026-10-31T09:07:48Z,aioportal,0.1.0,Portal Team,MIT,44474,Modern asynchronous framework for building Portal bots in the style of aiogram
+2026-10-31T09:08:41Z,iris-plugin-sdk,1.0.0,胡恒博,Apache-2.0,107770,Iris 进程外插件 SDK：公共类型、manifest、JSON-RPC 运行时和设置页工具
+2026-10-31T09:12:22Z,us-county-property-tax,0.1.0,Anders Lee,"MIT (code); CC BY 4.0 (data, see DATA-LICENSE.md)",372931,"Property tax rates and median bills for every U.S. county, offline: Census medians, effective rates, rankings, and official 2025 local rates for Texas, North Carolina and Florida. No dependencies."
+2026-10-31T09:12:54Z,cvewatch,0.1.0,bm2ilabs,MIT,62630,"Scan one project or a whole folder of projects for known and brand-new vulnerabilities, in an interactive terminal UI."
+2026-10-31T09:14:41Z,semanticfed-sdk,2026.1031.1,"""Vignesh T.V"" <vignesh@algoshred.com>","Copyright (c) 2025 Burdenoff Consultancy Services Private Limited, Algoshred Technologies Private L…",29503,"Official Python SDK for SemanticFed, the federated semantic layer (thin shell over burdenoff-sdk-libs)"
+2026-10-31T09:18:10Z,data-advisor,0.1.0,Principal Data Science Architect,MIT,88176,A production-grade diagnostic and code generation advisor for timed data analysis exams and rapid exploratory data science.
