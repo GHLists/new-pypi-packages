@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T17:22:52Z,rboto-cloudtrail,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,129477967,"rboto: async-only, typed Python client for AWS CloudTrail, powered by Rust. Alpha preview."
+2026-10-31T17:22:52Z,rboto-sqs,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,106926985,"rboto: async-only, typed Python client for Amazon SQS, powered by Rust. Alpha preview."
+2026-10-31T17:22:52Z,rboto-transcribe-streaming,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,104700537,"rboto: async-only, typed Python client for Amazon Transcribe Streaming, powered by Rust. Alpha preview."
+2026-10-31T17:22:53Z,rboto-sagemaker-runtime-http2,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,97367678,"rboto: async-only, typed Python client for Amazon SageMaker Runtime HTTP/2, powered by Rust. Alpha preview."
+2026-10-31T17:22:53Z,rboto-signin,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,100482490,"rboto: async-only, typed Python client for AWS Sign-In, powered by Rust. Alpha preview."
+2026-10-31T17:22:54Z,rboto-cognito-identity,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,107188879,"rboto: async-only, typed Python client for Amazon Cognito Identity, powered by Rust. Alpha preview."
+2026-10-31T17:22:54Z,rboto-lex-runtime-v2,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,104151326,"rboto: async-only, typed Python client for Amazon Lex Runtime V2, powered by Rust. Alpha preview."
+2026-10-31T17:22:55Z,rboto-eventbridge,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,127418433,"rboto: async-only, typed Python client for Amazon EventBridge, powered by Rust. Alpha preview."
+2026-10-31T17:22:55Z,rboto-s3,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,182884173,"rboto: async-only, typed Python client for Amazon S3, powered by Rust. Alpha preview."
+2026-10-31T17:22:58Z,rboto-kms,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,122706020,"rboto: async-only, typed Python client for AWS KMS, powered by Rust. Alpha preview."
+2026-10-31T17:23:16Z,fibril,0.0.1,,MIT,1905,Name reserved for the Python client of the Fibril message broker. Not usable yet.
+2026-10-31T17:26:15Z,patchlens,0.1.0,Mohammad Juned Malik,,37276,Web Security Assessment & Fix Verification Engine
+2026-10-31T17:26:31Z,cluestate,0.1.0,ClueState Contributors,Apache-2.0,381085,Grounded Entity Memory & Intelligence Engine — extract structured knowledge from unstructured data
+2026-10-31T17:30:06Z,deepmark-anni,0.1.0,DeepMark Inc.,MIT,32811,ANNI (Auditory Nerve Noticeability Index): how noticeable the difference between two audio signals is
+2026-10-31T17:32:07Z,readfetch-client,0.1.11,,MIT,18346,"x402 REST client for readfetch.com (probe, text, …)"
+2026-10-31T17:32:17Z,python-vk-bot,0.1.0,Aleksei Fomenko <fomenko_ai@proton.me>,MIT,49834,An asynchronous framework for VK community bots.
+2026-10-31T17:32:35Z,cluestate-sdk,0.1.0,ClueState Contributors,Apache-2.0,10513,Lightweight Python SDK for ClueState Customer Intelligence Infrastructure
+2026-10-31T17:33:00Z,derot,0.1.1,rootonchair,MIT,155847,"One terminal console for every Claude Code and Codex session across projects, accounts and machines"
+2026-10-31T17:34:01Z,crayonmlx,0.1.0a2,Nikolay Nechaev,MIT,123797,Local MLX studio for bringing drawings to life on Apple Silicon
+2026-10-31T17:38:43Z,arvre,0.2.0,Victor Carrico,MIT,33799,Terminal graph of Claude Code sessions and their forks
+2026-10-31T17:42:51Z,tinypro,1.0.0,Stefan Wagner <wagiminator@web.de>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",290163,"Programming Tool for (E)EPROMs and Flash Memory ICs via XGecu TL866A, TL866CS, TL866II+, T48 and T56"
+2026-10-31T17:47:34Z,cmhstats,0.1.0,Isha Bhatia,MIT,109647,"Cochran-Mantel-Haenszel statistics for Python, validated against SAS PROC FREQ and R"
+2026-10-31T17:48:18Z,synapseone-sdk,0.7.0,,Apache-2.0,85656,synapseone SDK for Python (Apache-2.0)
+2026-10-31T17:48:36Z,taskfence,0.1.0,Muzeeb Mohammad,MIT,76829,Revocation-safe side effects for long-running AI agent tasks: commit-time authorization in your own database transaction.
+2026-10-31T17:48:42Z,bg3-core,1.0.0b1,,,321325,"Baldur's Gate 3 Mod Studio Core Runtime, Parsers, and API Client"
+2026-10-31T17:49:01Z,novelfetch,2.0.9,Mohamed,MIT,563204,A novel fetching and reading application with TUI and Android (KivyMD) frontends
+2026-10-31T17:49:11Z,bg3-authoring,1.0.0b1,,,219673,"Baldur's Gate 3 Mod Studio Authoring, Diagnostics, and Packaging Toolkit"
+2026-10-31T17:49:12Z,bg3-theorycraft,1.0.0b1,,,24228,Baldur's Gate 3 Mod Studio Theorycrafting and Build Guide Generator
+2026-10-31T17:49:31Z,bg3-mod-studio,1.0.0b1,,,374088,Baldur's Gate 3 Mod Studio & Mod.io Automation Workspace
+2026-10-31T17:51:44Z,aiopyronix,0.1.0,Herbertmt978,MIT,38388,"Asynchronous PyronixCloud client for Pyronix alarm panels, with explicit sessions"
+2026-10-31T17:54:37Z,bma-executor-sdk,0.4.0,,Apache-2.0,84549,"BMA executor protocol (bma.executor.v1.1): executor, harness and agent ends on asyncio with WebSocket, Unix socket and in-process transports."
+2026-10-31T17:54:55Z,pdf-tool-cli,1.1.0,Juan Manuel Armero,MIT,134551,"Herramientas PDF (unir, dividir, comprimir, proteger…) como CLI para agentes y app de escritorio."
+2026-10-31T17:58:57Z,midwife,0.1.0,,Apache-2.0,554491,"Test whether a decision rests on the evidence you think it does: cut or change one declared line in fixed ways, ask again, and read the verdict by fixed rules."
+2026-10-31T17:59:49Z,agenttrace-lite,0.1.0,Harsha Vardhan Tamada,MIT,14421,"Lightweight, local-first observability SDK for AI agents"
+2026-10-31T18:00:40Z,bma-sdk,0.4.0,,Apache-2.0,1659342,Python client for the BMA REST API and the BMA extensions to the Anthropic Managed Agents API.
+2026-10-31T18:02:24Z,datasets-lint,0.2.0,datasets-lint contributors,MIT,1028464,"ruff for training data: audit datasets for duplicates, PII, leakage and contamination"
+2026-10-31T18:03:14Z,pare-cli,0.2.0,,MIT OR Apache-2.0,9104058,"Summarize noisy command output (test runs, builds, logs) to a token budget, for AI agents and humans"
+2026-10-31T18:10:26Z,fiscalclock,0.1.0,Karthik Parameshwara,MIT OR Apache-2.0,6624845,Fiscal calendar engine: compute any fiscal calendar from a JSON definition
+2026-10-31T18:10:37Z,pypath-inspector,0.1.0,PyPath Inspector contributors,MIT,94192,"A local-first, strictly read-only Python environment diagnostic tool for Windows, Linux and macOS."
+2026-10-31T18:11:25Z,wattmind-pii-guard,0.1.0,pii-guard contributors,Apache-2.0,23565840,"An open-source privacy firewall for AI agents: reversible PII masking for text, documents and images."
+2026-10-31T18:13:11Z,synthia-piano,1.0.0,Tiyasa Paul,"MIT License Copyright (c) 2025 Tiyasa Paul Permission is hereby granted, free of charge, to any per…",18896,"Real-time piano synthesizer built from first principles -- no samples, no sound engine, just DSP."
+2026-10-31T18:14:11Z,macomb-bedrock,0.1.0,,,8010,Amazon Bedrock helpers for ITIA 1510 lab activities
+2026-10-31T18:15:53Z,9was9,0.1.0,CharmLxt <reception.mailspypi@gmail.com>,MIT,22026,"Универсальный ускоритель numpy-вычислений (KV-кэш, RoPE, fused linear)."
+2026-10-31T18:16:25Z,declarative-data-backup,0.1.0,,,40526,Declarative Borg-based data backups
+2026-10-31T18:16:33Z,acdp-agent-hooks,0.1.0,Agent Context Distribution Protocol,Apache-2.0,62180,"Agent-framework hooks that sign tool results and final outputs and publish them to an ACDP registry, with derived_from lineage and OpenTelemetry attributes."
