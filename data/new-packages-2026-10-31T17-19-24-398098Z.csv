@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T16:19:11Z,netledger,1.0.0,Jack Salamone,MIT,480251,"Multi-vendor network configuration backup, change tracking and health monitoring. Collects configs with NAPALM and commits them straight to Git."
+2026-10-31T16:20:12Z,click2mcp,0.1.0,KrisTHL181 <KrisTHL181@outlook.com>,MIT,49264,Turn any Click CLI into a typed MCP server — one tool per leaf command.
+2026-10-31T16:23:10Z,trendsfast,0.1.0,TrendsFast,MIT,42886,"TrendsFast SDK for Python: source-backed market evidence for AI agents (customers, trending, competitors, formats, search), with idempotent paid calls and free recovery."
+2026-10-31T16:27:23Z,usefsufe,0.1.0,Yousef Sameh,MIT,11894600,"Learn Neural Networks, Deep Learning and NLP step by step: a visual desktop app plus from-scratch NLTK-style NLP and Keras/PyTorch-style deep learning libraries."
+2026-10-31T16:32:19Z,postgamma,0.1.0a1,PostGamma contributors,Apache-2.0,62490833,PostgreSQL embedded directly in a Python process
+2026-10-31T16:33:24Z,agent-mcplens,0.1.0,juzorei,MIT,30512,"Debug AI agents: transparent MCP stdio proxy + trace/transcript audit for loops, ping-pong, unanswered calls and tool errors"
+2026-10-31T16:36:03Z,cligui-engine,1.0.0,The CLIguiEngine contributors,MIT,388359,"Modern high-performance terminal graphics, 2D canvas and TUI engine in pure Python"
+2026-10-31T16:36:38Z,ripeat,0.0.0,,,2227,Repeatable machine setup. Placeholder to reserve the name.
+2026-10-31T16:36:59Z,lerobot-tailor,0.7.0,,Apache-2.0,271328,"Refine distributed robot datasets into training-ready data: acceptance checks, episode-level filtering, deterministic cleaning, provenance."
+2026-10-31T16:44:19Z,crispy-cython,0.1.1,Vansh Shah <vanshshah904@gmail.com>,MIT,534857,"High-performance graph algorithms (Dijkstra, TSP) combining compiled C++ with Cython"
+2026-10-31T16:45:15Z,zad-cli,0.1.0,zad contributors,"MIT License Copyright (c) 2026 zad contributors Permission is hereby granted, free of charge, to an…",175202,"Make clearing your coding agent's context safe: persist the plan, decisions, dead ends and constraints that the code cannot describe."
+2026-10-31T16:47:56Z,duckdb-virtual-catalog,0.1.0,srossross@gmail.com,MIT,86798,Python helpers for the vcatbridge and vcatprovider DuckDB extensions
+2026-10-31T16:48:09Z,vipsim,0.1.0,"Max Rädler, Omid Rajabi, Mark Colley",MIT,267147,Visual-impairment simulation filters: a NumPy/PyTorch port of the VIP-Sim Unity shaders
+2026-10-31T16:52:45Z,hospitalbagchecklist-url-tools,0.1.0,wangneo276-lgtm,MIT,9157,"A free hospital bag checklist that tracks what you have, what to buy, what’s packed, what to ask your hospital and what to grab last. Saved on your device; print or PDF."
+2026-10-31T16:53:29Z,sick-agent,0.2.1,Sick contributors,Apache-2.0,411602,Self-improving coding agent built on the NOOA framework
+2026-10-31T16:54:07Z,ErisPulse-MinecraftAdapter,0.1.0,,MIT,25295,ErisPulse Minecraft RCON 适配器 — 命令执行、say/tellraw 发送、日志事件监听
+2026-10-31T16:54:10Z,ErisPulse-BilibiliAdapter,0.1.0,,MIT,25980,ErisPulse Bilibili 私信适配器 — Cookie/扫码双登录、事件驱动收发、多账户
+2026-10-31T16:54:48Z,plothero,0.3.0b1,Matteo Serafino,Apache-2.0,1367629,"Plotly-compatible plotting for heavy signals, backed by a Rust downsampling core."
+2026-10-31T17:00:54Z,vagrant-sandbox,0.1.0,actocodes,MIT,24358,Generate and provision isolated Vagrant development environments
+2026-10-31T17:02:02Z,sqlxx,0.1.0,"Optersoft, S.L.",LicenseRef-Optersoft-Proprietary,14829191,"Typed Kotlin, Python and Rust APIs generated from SQL (native compiler)"
+2026-10-31T17:06:28Z,regexorcist,0.1.0,Agata Skamruk,MIT,12244,"Regular expressions, but with an exorcist."
+2026-10-31T17:09:35Z,bip32-descriptors,2026.10.31,The btclib developers,MIT,973723,"BIP32 keys, output script descriptors and miniscript, built on btclib"
+2026-10-31T17:13:24Z,last-signal,0.1.0,Last Signal Team,MIT,88788,Offline-first CLI for investigating failed AI-agent executions (Ghost in the Machine)
+2026-10-31T17:13:46Z,stockproof,0.3.0,,MIT,3434311,"LLM stock research with cited sources (news, earnings, filings), tested on 10 years of point-in-time data: quant lab, portfolio check-up, web dashboard, DeepSeek Harness / MCP plugin. US, China A-sha…"
+2026-10-31T17:13:52Z,ulanzi-d100h,0.1.0,,MIT,4648391,Python bindings for the Ulanzi D100H
+2026-10-31T17:14:03Z,klio-compute,0.5.4,Klio,AGPL-3.0-only,232334,"Python SDK and CLI for Klio Compute: serverless GPUs, functions and endpoints."
+2026-10-31T17:17:52Z,pi-practical,1.0.0,PiPractical,,19657,A terminal-based Raspberry Pi IoT practical reference library
+2026-10-31T17:18:17Z,onshape-sdk-pr,0.1.2,"Zach Sharma <zachariah.sharma@gmail.com>, PawRequest <nomail@gmail.com>",MIT,51755,"A lightweight, typed Python SDK for the Onshape REST API"
