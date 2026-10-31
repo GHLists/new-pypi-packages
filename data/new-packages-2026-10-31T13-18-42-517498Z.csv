@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T11:43:33Z,jobhunter-cli,0.0.post1.dev85,ziad-aboughaleb <ziadaboughaleb@gmail.com>,,119317,"An AI-powered, zero-database Python CLI that automates job hunting. It scrapes ATS boards, evaluates candidate-job fit using LLMs against your CV, and dispatches real-time Telegram alerts."
+2026-10-31T12:20:29Z,gitvars-render,0.1.0,Andres Velasco,MIT,59963,Render Git provenance into text templates without network access.
+2026-10-31T12:23:50Z,covenant-agents,0.1.1,viswesh-dev,MIT,392663,Compile plain-English instructions for coding agents into enforced contracts.
+2026-10-31T12:28:40Z,linuxpilot,0.1.0,Nidesh Pandey,MIT,137564,"A lightweight, CLI-first health check for Linux servers and Raspberry Pi: explains what's wrong and what to check next."
+2026-10-31T12:31:40Z,oxide.py,1.0.0,Andrew Kartava,MIT,30406,"Rust's Option<T> and Result<T, E>, implemented for Python."
+2026-10-31T12:33:47Z,iupacker,0.5.1,Your Name,MIT,59524,SMILES to IUPAC name generator
+2026-10-31T12:39:15Z,riasopy,0.1.0,,MIT,37385216,"Spatial omics data analysis framework (Rust core, Python bindings)"
+2026-10-31T12:39:28Z,scaffolded-learning,0.1.0,Sergii Serednii <sseredniy@gmail.com>,MIT,53788,Multi-error / scaffolded learning models built from composable blocks.
+2026-10-31T12:44:24Z,openrar,2.0.1,OpenRAR Project,MIT,14009,OpenRAR Python SDK — ctypes binding over the frozen OpenRAR C ABI (RAR 5.0 read/create/mutate)
+2026-10-31T12:44:32Z,tokenmeter-sdk,0.2.0,Saqlain Rashid,MIT,76235,Token Meter Python SDK: wraps OpenAI/Anthropic/Gemini/Bedrock/Azure clients and meters token usage
+2026-10-31T12:52:59Z,overheard,0.0.2,Frank Lynam,,80261,"An AI voicemail console that catches what busy humans miss: one day of a fictional call center's voicemail, through four levels of AI."
+2026-10-31T12:54:10Z,semantic-kernel-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7548,"Surface for Semantic Kernel: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-31T12:55:11Z,geez-mcp,0.2.0,fitzyracing1,Apache-2.0,9124,"Phone-first MCP tool that lets Claude call Grok. Minimal, requests-only."
+2026-10-31T12:55:17Z,win-traps,0.1.0,Feenmile,MIT,49208,A catalog and Claude Code PreToolUse hook that catches Windows silent-damage traps in AI agent shell commands before they run.
+2026-10-31T12:55:31Z,netra-runtime,0.1.0,Nhem Darayut <darayutnhem009@gmail.com>,MIT,61784,Netra Lab inference runtime: run exported Netra model bundles on CPU or GPU with ONNX Runtime.
+2026-10-31T13:00:02Z,porectracks,0.1.1,,,1179565,Pore-C contact distributions as genomic tracks
+2026-10-31T13:00:23Z,memfisto,0.0.1,,,1978,Reserved for Memfisto — https://memfisto.com
+2026-10-31T13:08:45Z,cohaerum-cli,0.1.0,,,10470,
+2026-10-31T13:10:09Z,ufl-units,1.0.0,"Michal Habera <michal.habera@gmail.com>, Andreas Zilian <andreas.zilian@uni.lu>, ""Paul T. Kühner"" <…",MIT,57571,Physical units and dimensional analysis for UFL expressions and forms.
+2026-10-31T13:10:17Z,numepy,0.2.0,Nikhil Gupta,MIT,41437,Download standalone Python implementations of classic algorithms.
+2026-10-31T13:11:24Z,ed-game-legacy,1.0.0,qq-name <52765856@qq.com>,MIT,5028018,Earth Defense Game - Legacy version for legacy Python.
+2026-10-31T13:11:25Z,pypi-mirror-check,0.1.1,bilibiliUID1480494301 <bilibiliUID1480494301@users.noreply.github.com>,MIT,28841,检查 PyPI 包/版本是否已同步到全球镜像，并列出各站当前最新版本（零依赖）
+2026-10-31T13:11:48Z,bookmgr-tui,2.0.1,Erikton Konomi,MIT,92561,Textual terminal front end for the bookmgr ebook library.
+2026-10-31T13:13:28Z,aula-development-kit,0.1.0.dev17,,MIT,14938446,Framework multimedia para el aula
+2026-10-31T13:15:55Z,pretbuild,0.1.0,Georg K.,EUPL-1.2,26164,"A build tool, setup tool and runner"
+2026-10-31T13:17:10Z,whoami-guard,0.1.1,Chrystian Schutz <chrystian.schutz@gmail.com>,MIT,51285,PreToolUse hook for Claude Code and Codex that stops coding agents from sending your own e-mail or name to outside services.
+2026-10-31T13:18:18Z,session-cleaner,0.1.0,,,39899,Clean up Codex and Claude Code sessions for workspaces that no longer exist
