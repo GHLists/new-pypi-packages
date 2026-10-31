@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 14,
-    "from": "2026-10-31T05:20:26.431042Z",
-    "path": "data/new-packages-2026-10-31T06-18-08-08906Z.csv",
-    "to": "2026-10-31T06:18:08.08906Z"
+    "count": 32,
+    "from": "2026-10-31T06:18:08.08906Z",
+    "path": "data/new-packages-2026-10-31T07-20-26-693579Z.csv",
+    "to": "2026-10-31T07:20:26.693579Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-10-31T06:18:05Z",
-      "package": "rkdl",
-      "since": "2026-10-31T05:20:26.431042Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
-      "created_at": "2026-10-31T04:59:24Z",
-      "package": "sqlalchemy_hawdb",
-      "since": "2026-10-31T04:19:52.455151Z",
+      "created_at": "2026-10-31T07:09:46Z",
+      "package": "securefl-core",
+      "since": "2026-10-31T06:18:08.08906Z",
       "version": null
     }
   ],
-  "serial": 42999899,
+  "serial": 43001463,
   "source_truncated": false,
-  "window": "2026-10-31T06:18:08.08906Z"
+  "window": "2026-10-31T07:20:26.693579Z"
 }
