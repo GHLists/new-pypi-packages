@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T21:22:22Z,Historie,0.1.0,saaj <mail@saaj.me>,GPL-3.0-only,36039,Structured reStructuredText-based résumé format for developers
+2026-10-31T21:23:05Z,puffin-local,0.3.0,Puffin,MIT,37361,"Puffin SDK, CLI and MCP server for AI agent identity and communications"
+2026-10-31T21:24:32Z,dfm-agent,0.0.2,Nihar Shah,MIT,617424,"Developer Foundation Model: a local, privacy-first engineering agent for Apple Silicon."
+2026-10-31T21:25:06Z,brucellaid,1.0.0,Marc-Olivier Duceppe <marc-olivier.duceppe@inspection.gc.ca>,MIT,129198,"Identify the Brucella species of a read set with MASH, and type it with MLST"
+2026-10-31T21:28:18Z,icyloom,1.0.0,Malik Belkacemi,MIT,349157,"Unified local gateway: LLM cache + compressed context drawer, in a single MCP server"
+2026-10-31T21:28:19Z,icycache,0.3.2,MlkBlk-IT,MIT,1845635,"IcyCache - universal LLM gateway with a local cache. I see cache, I burn cache."
+2026-10-31T21:28:20Z,mcp-loom-mcp,0.1.3,Malik Belkacemi,MIT,148568,Portable MCP server: weave LLM context without cutting a thread.
+2026-10-31T21:29:27Z,pyteastrainer,0.2.0,,Apache-2.0,55192,"pytest gate that fails when tests add no coverage, using an exact minimal-suite solver."
+2026-10-31T21:29:44Z,aioengieromania,0.1.0,coffeerunhobby,MIT,25874,"Async client for MyENGIE România accounts: places, meters, invoices, payments and self-readings."
+2026-10-31T21:30:27Z,fastapi-settings,1.0.0,"ARYAN-NIKNEZHAD, MEHRSHAD-MIRSHEKARY",MIT,191612,"Lazy, centralized settings for Python and FastAPI applications"
+2026-10-31T21:32:12Z,global-price-parser,0.1.0,DontPayFull,Apache-2.0,110544,Read prices and resolve currencies from international text and HTML.
+2026-10-31T21:33:52Z,blitzy-utils,0.0.0,Blitzy,,1157,Reserved name for an internal Blitzy package. Contains no code.
+2026-10-31T21:34:13Z,glados-voice-mcp,0.1.0,Bruno Meneguello,MIT,4610670,"Warm, shared GLaDOS text-to-speech server with an MCP interface for agents"
+2026-10-31T21:36:15Z,firstclass,0.0.3,,,69629,"dataclass with bytes, ctypes, C struct, JSON and XML serialization"
+2026-10-31T21:37:17Z,python-opentimestamps,0.5.0,,LGPL-3.0-or-later,2890,Alias for the 'opentimestamps' package (python-opentimestamps library). Installs nothing itself.
+2026-10-31T21:38:44Z,mantiq,0.2.0,Ahmed Ousama <contact.ahmedousama@gmail.com>,MIT,266831,"Cache-Augmented Generation (CAG) for HuggingFace models: encode your knowledge into a KV cache once, then answer questions without retrieval."
+2026-10-31T21:40:32Z,pyclig,0.1.0,Andrew Ridyard <developer.surface832@passmail.com>,Apache-2.0,47552,A Python Click wrapper with Command Line Interface Guidelines (CLIG) paradigms.
+2026-10-31T21:41:51Z,difftomo,0.1.0,,Apache-2.0,88959,Differentiable library for tomography
+2026-10-31T21:42:56Z,pytest-max-fail-streak,1.0.0,Avi Zaguri,MIT,11512,"A pytest plugin that stops the run after N consecutive failing tests, so a broken environment fails fast."
+2026-10-31T21:44:26Z,sitetriage,3.0.0,Milos Lazic <miloslazic458@gmail.com>,MIT,353637,Scan a list of domains politely and rank the sites that deserve a full manual audit
+2026-10-31T21:45:08Z,browser-daemon-client,0.1.0,,GPL-3.0-only,13542,"Async client for browser-daemon: Playwright runs over HTTP, sessions and logins, with nothing but aiohttp"
+2026-10-31T21:55:54Z,pyadcp,1.0.0,John Schoonover,MIT,148524,Asyncio-native Python client for Sony projectors' ADCP protocol
+2026-10-31T21:56:35Z,volanea,0.1.0,Volanea Team,MIT,4754,Python client for the Volanea Email API - agentic inboxes for AI agents
+2026-10-31T21:59:32Z,tramuri,0.1.0,,Apache-2.0,8159967,"Local-first, agent-native infrastructure for verified work outcomes"
+2026-10-31T22:02:35Z,gatewatch,0.1.0b1,slevittt,MIT,54842,"Self-hosted PAC gateway and availability monitor: route selected domains through a configurable upstream, verify the real page result, recover automatically."
+2026-10-31T22:04:03Z,cavi-blender-mcp,0.29.0,CAVI AI,MIT,395392,Local-first MCP tools for Blender scene editing and game asset export
+2026-10-31T22:04:13Z,qorageom,0.1.0,Isaac Yong,MIT,45689,"X-ray diffraction geometry (2θ, q, d, detector pixel q, BCDI reciprocal basis), SPEC parser and detector frame loaders"
+2026-10-31T22:04:59Z,bright-ci-test,0.0.0a0,NVIDIA,,1024,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-31T22:05:02Z,bright-flake8-plugins,0.0.0a0,NVIDIA,,1079,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-31T22:05:05Z,cm-bright-image,0.0.0a0,NVIDIA,,1032,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-31T22:05:09Z,cm-chatbot,0.0.0a0,NVIDIA,,993,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-10-31T22:07:20Z,coinvello,0.1.0,CoinVello <developers@coinvello.com>,MIT,26251,Official CoinVello API client for Python (non-custodial crypto payments)
+2026-10-31T22:08:40Z,hivegate-ai,0.3.1,HiveGate contributors,MIT,1311724,"Run your Agno agents as a production API: per-user sessions and OAuth tokens, human approval, teams, versioned prompts."
+2026-10-31T22:10:22Z,nuh,0.6.0,the nuh contributors,MIT,1037739,Context-aware safety guard for Claude Code.
+2026-10-31T22:12:28Z,pytest-better-report,1.0.0,Avi Zaguri,MIT,32198,"A pytest plugin that writes structured JSON (and optional Markdown) reports of every run, with CI metadata and a CLI to compare two runs."
+2026-10-31T22:14:20Z,hertzforge,0.0.1,"Brandon Zwink, Kevin Cross",MIT,6428,Data acquisition and structural dynamics in one toolset. Early release; the merged code is on its way.
+2026-10-31T22:17:42Z,openai-agents-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7081,"Surface for OpenAI Agents SDK: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-10-31T22:18:09Z,sleeptalk,0.1.0,sleep.talk,MIT,36236539,Config-driven voice runtime for bring-your-own agents.
