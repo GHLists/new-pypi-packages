@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T11:21:10Z,mowa,0.1.0,,MIT,13513,Load your Mowa agents at runtime.
+2026-10-31T11:22:37Z,modbus-sim,0.1.0,Ralf Steinert,MIT,112575,"Simulated Modbus devices with behaviour and fault injection: energy meter, temperature controller, VFD over Modbus TCP and RTU"
+2026-10-31T11:22:52Z,revana,0.1.0,Revana <hello@revana.si>,MIT,38951,"Official Revana SDK and CLI: one API key for Seedance, Veo, Kling, Nano Banana, GPT Image, Wan, Hailuo and 200+ image, video, music and chat models. Cheapest route first, automatic fallback, failed g…"
+2026-10-31T11:24:21Z,langchain-revana,0.1.0,Revana <hello@revana.si>,MIT,8425,"LangChain integration for Revana: Claude, Gemini, DeepSeek and other chat models through one OpenAI-compatible API key."
+2026-10-31T11:24:53Z,hashbinkit,0.0.2,,GPL-3.0-or-later,42482,Hashing utility for binary function similarity analysis.
+2026-10-31T11:31:54Z,energy-transition-model,1.0.0,Haris Zafar,MIT,308978,"Open-source capacity-expansion, storage, CO2 MACC, ramping, meshed DC-OPF/TEP & mean-CVaR risk model with an offline interactive workbench (PyPSA + HiGHS)"
+2026-10-31T11:32:01Z,inverter-grid-control-solver,1.0.0,Haris Zafar,MIT,218656,"Physics-based Grid-Forming (Droop, VSG, dVOC) & Grid-Following (SRF-PLL) electromagnetic LCL, FRT/TVI & dq impedance passivity solver."
+2026-10-31T11:32:06Z,bess-soc-dynamics-solver,1.0.0,Haris Zafar,MIT,187497,"Physics-grounded lithium-ion BESS 1RC/2RC electro-thermal, EKF/UKF SoC, 2-node SOP & ASTM E1049-85 degradation solver."
+2026-10-31T11:32:11Z,pv-mppt-solver,1.0.0,Haris Zafar,MIT,147986,"Physics-based Single-Diode Solar PV, Bypass-Diode Partial Shading, Global MPPT, CENELEC EN 50530 & Dynamic Boost Converter Solver"
+2026-10-31T11:37:45Z,avrprog,1.1.0,Stefan Wagner <wagiminator@web.de>,"GNU GENERAL PUBLIC LICENSE Version 2, June 1991 Copyright (C) 1989, 1991 Free Software Foundation,…",67560,Programming Tool for classic AVR Microcontrollers with USBasp or USBtinyISP
+2026-10-31T11:38:49Z,context-bridge-local,0.7.0b2,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",373775,"Local-first MCP search across Claude and ChatGPT conversations, with citations"
+2026-10-31T11:39:54Z,netscenario,0.1.0rc1,,MIT OR Apache-2.0,6562877,"Declarative network scenarios for tests: describe a network, run a program in it, measure per packet, assert with statistics"
+2026-10-31T11:40:29Z,rugsight,0.1.0,Rugsight <yunare-qwerng+rugsight@mail.grokbot.com>,MIT,8784,Tiny client for Rugsight: Solana token rug-risk scores (free) and full reports (0.03 USDC per call via x402). Standard library only.
+2026-10-31T11:41:22Z,bxmarshall,0.2.0,BXCODE,MIT,26229,"Local encryption, compression, project integrity and Python source utilities"
+2026-10-31T11:42:09Z,pytest-netscenario,0.1.0rc1,,MIT OR Apache-2.0,25637,pytest plugin for netscenario: fixtures and markers to test a program on a described network
+2026-10-31T11:43:05Z,viasocket,0.1.0,Walkover Web Solution,MIT,29800,"viaSocket for Python agents: the 2,300+ apps each of your users connected (Slack, Google Sheets, HubSpot, Notion...) as tools for LangChain, CrewAI and LlamaIndex."
+2026-10-31T11:48:57Z,krickstart,1.2.1,Nidhal Zitouni <zitouninidhal@gmail.com>,MIT,53885,Lightning-fast local dev environment manager powered by Docker Compose
+2026-10-31T11:49:01Z,SincCity,0.2.0,SincCity contributors,BSD-3-Clause,116411,"Generic Scattering Calculator: I(q) of a real-space structure (PDB, GRO, SLD or VTK)"
+2026-10-31T11:51:03Z,ping-shield,1.2.0,Yoseph Zewdu <yoszed22@gmail.com>,MIT,121245,"Real-time tripwire for Linux workstations: catches SSH backdoors, persistence and tampered IDE extensions, tracks threat intel from RSS feeds and Telegram channels, and alerts you on Telegram."
+2026-10-31T11:52:44Z,imazeo,1.0.0,Imazeo,MIT,58491,"Official Imazeo Python SDK for server-side image, transform, PDF, QR, and barcode APIs"
+2026-10-31T11:53:00Z,attos,0.1.1,Attos Labs,Apache-2.0,8713169,Python SDK for Attos: memory-mapped zero-latency lookups with lock-free hot-swap
+2026-10-31T11:57:17Z,bazaar-contrib-telegram,0.3.0rc1,,Apache-2.0,65240,Telegram Channel provider for Bazaar Compute Node
+2026-10-31T12:00:08Z,fsg,0.1.0,Patrick Hähnel,MIT,41804,Generates clean directory trees that respect .gitignore and keep your docs up to date.
+2026-10-31T12:00:09Z,memsave,0.2.0,memsave contributors,Apache-2.0,138119,"Read AI memories without spending credits — local, free hybrid retrieval"
+2026-10-31T12:02:23Z,athar-ifc,0.1.0,,,7824667,Semantic IFC diff engine
+2026-10-31T12:06:58Z,ske-bridge,0.1.0,SKE,MIT,101681,Runs a Django or Flask application's queued Celery tasks and beat schedule on SKE.
+2026-10-31T12:08:30Z,pyvtst,0.0.1,Emilian R,,2199,Placeholder release reserving the pyvtst name.
+2026-10-31T12:10:32Z,bottle-lmdb,0.1.0,Kimikazu Kato,,4394,Add your description here
+2026-10-31T12:11:00Z,jgrants-util-mcp-server,0.1.0,,MIT,37105,A skill-style MCP server for the Jグランツ (jGrants) public subsidy API
+2026-10-31T12:11:04Z,kopachevsky-uv-lab3-a7c9,0.1.0,Kopachevsky,,2524,A greeting library for UV lab 3
+2026-10-31T12:12:37Z,easyyad,1.0.0,EasyAd <support@easyyad.com>,MIT,19466,Show EasyAd ads in your Telegram bot and earn 50% of what advertisers pay.
+2026-10-31T12:13:15Z,servediff,0.1.0,,Apache-2.0,42900,"Diff what your vLLM / SGLang server actually ran with: auto-selected backends, CUDA graphs, startup failures, dependency versions."
+2026-10-31T12:14:12Z,pse-opendata,0.2.0,Konrad Waleszczyński,MIT,132494,"Unofficial Python client for the public data of PSE, the Polish transmission system operator: reports API and legacy CSV export, as tidy pandas frames with explicit interval times."
+2026-10-31T12:14:14Z,colon3,0.0.9,,,18321,You can now convert your silly nature of meowwws and mrrrppss into executable code! (If all code-lines align perfectly)
+2026-10-31T12:16:42Z,megaupdi,1.0.0,Stefan Wagner <wagiminator@web.de>,"MIT License Copyright (c) 2026 Stefan Wagner Permission is hereby granted, free of charge, to any p…",33916,Simple SerialUPDI Programming Tool for all AVR Microcontrollers with UPDI
+2026-10-31T12:17:26Z,convincing-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49508,A machine that does its best to convince.
