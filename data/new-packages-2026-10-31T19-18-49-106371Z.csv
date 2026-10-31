@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T18:22:27Z,warpx-geometry,0.3.0,Arun Persaud <apersaud@lbl.gov>,BSD-3-Clause-LBNL,57590,Simple geometry objects for WarpX embedded boundaries
+2026-10-31T18:24:10Z,btlab,0.3.1,,MIT,50003,A backtesting framework built around avoiding the common ways backtests lie
+2026-10-31T18:26:14Z,tokencraft-gpt,0.1.1,Ranjeet Epili,MIT,144189,An educational GPT language model implemented from scratch with PyTorch.
+2026-10-31T18:27:09Z,section-anything-mcp,0.1.0,The Section Anything Authors,Apache-2.0,14231,"MCP server for Section Anything: a PDF's real sections (heading tree, pages, text) as tools for agents."
+2026-10-31T18:27:40Z,pycforge-sdk,0.6.3,,,5199138,Conversion-extension authoring SDK with an optional PySide6 desktop
+2026-10-31T18:27:45Z,slopbox-env,0.1.0,,,25251,A secure-ish environment for running AI agents.
+2026-10-31T18:28:03Z,lastread,0.20.0,Merlijn Tishauser <merlijn@ccadd.nl>,MIT,1732446,"Reading progress from a stock Kobo e-reader to Hardcover, on your own computer or your own server"
+2026-10-31T18:35:14Z,event-connect,0.1.0,HairingX,MIT,75621,"Devices described by their points, independent of protocol: typed keys, values with their quality, when each point is read, and what a write or a change sets off."
+2026-10-31T18:42:17Z,aeroflowsim,0.2.0a3,Dhanwin Mehta,GPL-3.0-or-later,8016096,"A GUI-first, open-source CFD solver for nozzle and propulsion aerodynamics, with built-in validity checks and published validation."
+2026-10-31T18:42:20Z,paymock,0.2.0,,MIT,44274,"stripe-mock for African payments: stateful Paystack & Flutterwave sandboxes with signed webhooks, offline, no API keys."
+2026-10-31T18:43:16Z,inro,0.1.0,Pooya Ashtari <pooya.ash@gmail.com>,MIT,253670,"A unified PyTorch framework for implicit neural representations, with FUTON, the Fourier Tensor Network"
+2026-10-31T18:43:44Z,adaptive-xai,1.0.0b1,"Charan, Dhyan KJ, Jeevitha Shetty, Poorvi J Poojary",MIT,124526,An adaptive explainable-AI framework for integrating XAI into machine learning projects.
+2026-10-31T18:44:24Z,familiar-pet,0.3.0,,MIT,134100,A unique procedural anthropomorphic pet for your terminal — living art for your login shell
+2026-10-31T18:44:53Z,pytest-fail2skip,1.0.0,Avi Zaguri,MIT,12410,"A pytest plugin that reports failures of marked tests as skipped, so known failures don't block the run."
+2026-10-31T18:51:15Z,torch-friends,1.0.0,Ansh Raj,,250527,Ultra-optimized C++/LibTorch Rotary Position Embedding (RoPE) for CPU and CUDA
+2026-10-31T18:51:52Z,icedcoffee-sync,0.1.0.dev9,Gavin Carothers <gavin@carothers.name>,Apache-2.0,171875,Typed sync and async client for the Frappe and ERPNext REST API
+2026-10-31T18:53:38Z,antidoxa,0.0.1,Brown Cyber Services Inc <daniel@browncyber.com>,CC-BY-4.0,3197,Antidoxa: a human-gated protocol for changing an AI agent's source of truth. Name reservation; specification and reference implementation forthcoming.
+2026-10-31T18:55:02Z,laidline,1.0.0,Laidline LLC,LicenseRef-Laidline-Source-Available,1577048,"Marking kit for generative AI providers: C2PA signing with your KMS, open watermarks, evidence log, free detect."
+2026-10-31T18:55:04Z,laidline-bench,1.0.0,Laidline LLC,LicenseRef-Laidline-Source-Available,1375764,Robustness and calibration benchmarks for the Laidline watermarks; the code behind `laidline bench`.
+2026-10-31T18:55:06Z,laidline-comfyui,1.0.0,Laidline LLC,LicenseRef-Laidline-Source-Available,22846,ComfyUI custom node `LaidlineSaveImage`: sign and watermark images on save (remote via LAIDLINE_URL or embedded via LAIDLINE_CONFIG).
+2026-10-31T18:55:08Z,laidline-diffusers,1.0.0,Laidline LLC,LicenseRef-Laidline-Source-Available,24370,"`attach(pipe)` marks every image a diffusers pipeline returns (watermark, C2PA, evidence) and replaces the SDXL invisible watermarker"
+2026-10-31T18:55:24Z,crawlora-jumia,0.1.0,Crawlora,MIT,47264,"Crawlora Jumia API client with 8 endpoints for country and category discovery, product search, and product details"
+2026-10-31T18:55:57Z,izaya,0.1.0,Brian Pepple,GPL-3.0-or-later,49766,An htmx-powered autocomplete widget for Django forms
+2026-10-31T18:56:10Z,zeropoint,0.1.0,Javier Marín <javier@jmarin.info>,Apache-2.0,51310688,"An energy-based decision engine that chooses among options, or says that none of them fits."
+2026-10-31T18:56:25Z,kestreel,0.0.0,Suhail Suhail,MIT,14871,Verified media ingest and configurable project preparation
+2026-10-31T18:56:45Z,jmap-calendar-mcp,0.1.0,Robert O'Neill,MIT,15923,MCP server that lets AI agents read and create calendar events on any JMAP server (Stalwart and others)
+2026-10-31T18:57:50Z,crawlora-cardmarket,0.1.0,Crawlora,MIT,46787,"Crawlora Cardmarket API client with 5 endpoints for game and catalogue discovery, product lookup, and price guides"
+2026-10-31T18:57:54Z,forestpd,0.1.0,Niels Holtgrefe <n.a.l.holtgrefe@tudelft.nl>,MIT,328788,a package for maximizing phylogenetic diversity under phylogenetic and extinction uncertainty
+2026-10-31T18:59:09Z,deviating-machine,0.0.2,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49470,A machine that deviates from the line of reasoning.
+2026-10-31T18:59:31Z,brainfuck-cli,0.1.1,,,16127,Compile and run Brainfuck from the command line or over HTTP on localhost:9800
+2026-10-31T19:00:26Z,crawlora-fanduel,0.1.0,Crawlora,MIT,118246,"Crawlora FanDuel API client with 72 endpoints for public racing, casino catalogue, and research data"
+2026-10-31T19:01:24Z,machinome-engine-brep,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,25637,"The B-rep engine of Machinome, on the OCCT kernel"
+2026-10-31T19:01:25Z,machinome-engine-mesh,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,16397,"The mesh engine of Machinome, on manifold3d"
+2026-10-31T19:01:28Z,machinome-movie,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,280808,"Narrated films of machinome models: movies declared in Python, evaluated to the movie document, then checked, voiced, previewed, rendered and served"
+2026-10-31T19:01:30Z,machinome-node-build123d,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,20059,"The build123d node types of Machinome, and the reducer of its SVG artwork"
+2026-10-31T19:02:55Z,crawlora-fussballde,0.1.0,Crawlora,MIT,67202,"Crawlora Fussball.de API client with 27 endpoints for amateur football clubs, players, matches, statistics, news, and federation data"
+2026-10-31T19:03:00Z,mantis-ib,0.2.0,Louis Zhuang <yzhuang@outlook.com>,,47619,Interactive Brokers source provider for MANTIS
+2026-10-31T19:03:44Z,geo-anki,0.2.0a0,,MIT,126515,Map-based Anki flashcards for learning geography
+2026-10-31T19:05:01Z,agent-tracedown-server,0.3.0,Naveen Nair,Apache-2.0,279717,"Tracedown server and CLI: root-cause analysis for AI agent runs, importers for Langfuse and OpenTelemetry, replay planning and a web viewer."
+2026-10-31T19:05:09Z,agent-tracedown,0.3.0,Naveen Nair,Apache-2.0,93452,"The flight recorder for AI agents: find the step that caused a failure, then replay the run with a fix."
+2026-10-31T19:07:20Z,chrysis,0.1.0,CaoJay8267,MIT,877763,A domain-neutral framework for developing AI predictions.
+2026-10-31T19:15:31Z,reflex-agentkit,0.1.0rc1,Ernesto Crespo <ecrespo@gmail.com>,MIT,246021,"The production UI layer for Python AI agents, built on Reflex and the AG-UI protocol."
