@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T13:20:04Z,apkforge,1.3.0,Gnana Sagar,Apache-2.0,461963,"Gradle-free Android build system: aapt2, javac/kotlinc, D8/R8 and a pure-Python APK and AAB signer"
+2026-10-31T13:23:31Z,rubkit,0.1.0,WhileSmart,MIT,76973,Portable rubric evaluation with deterministic scoring
+2026-10-31T13:23:51Z,pyroll-transient-roll-temperature-model,3.0.0,Christoph Renzing <christophrenzing@posteo.de>,BSD-3-Clause,21385,Plugin for PyRolL providing the transient temperature field and the thermal stress of rotating roll rings.
+2026-10-31T13:28:59Z,rea-toolkit,1.1.1,Li Xinghao,MIT,45860,rea 配套补丁执行层：文件级二进制补丁 + 多语言文本/代码补丁 的 MCP server
+2026-10-31T13:33:08Z,a2api,1.0.0,haesookim,MIT,330990,"Convert APIs and functions into a compact call protocol that LLMs can search, describe and invoke at any API size"
+2026-10-31T13:36:41Z,nex-heal,0.1.3,The Trinity <inquiries@houseoflawpc.com>,AGPL-3.0-or-later,51611,SMT-Verified Self-Healing Schema & Tool Dispatch Middleware for Autonomous AI Agents
+2026-10-31T13:36:49Z,tundish,0.1.1,,MIT,13533690,A local inbox that agents subscribe to
+2026-10-31T13:38:34Z,arc56-generated-algor-278c51b2,1.2.2026103113,algorandfoundation,,612392,Generated ARC-56 Algorand smart-contract clients for algorandfoundation/algokit-ts.
+2026-10-31T13:38:49Z,tinyocd,1.0.0,Stefan Wagner <wagiminator@web.de>,"MIT License Copyright (c) 2026 Stefan Wagner Permission is hereby granted, free of charge, to any p…",55106,"Programming Tool for STM32, PY32 and SAMD Microcontrollers via CMSIS-DAP, ST-Link or J-Link"
+2026-10-31T13:40:08Z,rosio,0.1.0,rosio contributors,Apache-2.0,1715562,"Four layer atlas of a ROS 2 system, with drift between the layers"
+2026-10-31T13:40:35Z,turboblake,1.8.8,,CC0-1.0 OR Apache-2.0 OR Apache-2.0 WITH LLVM-exception,14640340,"BLAKE3, with big inputs hashed on every core by a Bend2 engine: a drop-in for the blake3 module"
+2026-10-31T13:43:51Z,flashlocus,0.3.1,,MIT,3479793,"Fast exact SuSiE-RSS fine-mapping, coloc and LD in Rust"
+2026-10-31T13:44:37Z,arc56-generated-ishan-2ee0a891,1.2.2026072010,ishanKulkarni13,,12648,Generated ARC-56 Algorand smart-contract clients for ishanKulkarni13/studentia.
+2026-10-31T13:45:03Z,starlette-rootpath-middleware,1.0.1,celsius narhwal <hello@celsiusnarhwal.dev>,,12441,Starlette middleware for setting the root path
+2026-10-31T13:45:06Z,stage-foundary,0.1.4,Reiner Jung,EU_PL,47494,Foundary of standard stages
+2026-10-31T13:45:42Z,arc56-generated-iskys-4d120bb9,1.2.2026072010,iskysun96,,14372,Generated ARC-56 Algorand smart-contract clients for iskysun96/algokit-utils-personal-bank.
+2026-10-31T13:46:29Z,code-prune,1.0.0,Ron Webb,"MIT License Copyright (c) 2026 Ron Webb Permission is hereby granted, free of charge, to any person…",49561,"Find unreachable, unused, and obsolete code before it becomes technical debt."
+2026-10-31T13:46:46Z,arc56-generated-iskys-2e48d859,1.2.2026072010,iskysun96,,20006,Generated ARC-56 Algorand smart-contract clients for iskysun96/fractional-realestate.
+2026-10-31T13:48:44Z,flatbook,0.3.0,Vladimir Pavliv,MIT,3896896,"Deterministic, allocation-free order book and matching engine for Python"
+2026-10-31T13:52:09Z,google-docs,0.1.0,Orcai LLC,Apache-2.0,115270,"Google Docs for Python: read documents as Markdown, write them from Markdown. Tables, lists, templates, tabs, sync and async."
+2026-10-31T13:52:35Z,kibisis-native,0.1.0a12,,MIT,1102794,Python extension exposing the kibisis Rust lease coordinator (file leases with fencing tokens) and journal hashing.
+2026-10-31T13:56:46Z,runbox-sdk,0.2.2,Runbox contributors,MIT,15691,"Python client for Runbox, a lightweight sandbox for agent commands and files"
+2026-10-31T13:59:34Z,balad-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,1128665,"Unofficial read-only MCP server for Balad (balad.ir), the Iranian map: places, reviews, nearest by drive time, driving routes."
+2026-10-31T14:00:21Z,neshan-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,2031769,"Unofficial read-only MCP server for Neshan (نشان), the Iranian map: place search, details, reviews, photos and nearby places, reverse geocoding, air quality, car, motorcycle, bicycle, walking and tra…"
+2026-10-31T14:02:06Z,codal-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,478833,"Unofficial read-only MCP server for codal.ir (کدال): disclosures, letters and financial statements of Iranian listed companies."
+2026-10-31T14:04:01Z,python-tkinter-tooltip,2.7.21,Enrico Galli <enrico@egw.it>,"The MIT License (MIT) Copyright (c) <2020> <Enrico Galli> Permission is hereby granted, free of cha…",9674,A simple tooltip class for tkinter widgets
+2026-10-31T14:05:54Z,aaaa-test-pkg,0.0.1,,,811,
+2026-10-31T14:06:35Z,dsh-standards,0.0.2,,MIT,1427,Name reservation + canonical pointer for the DSH plugin standards draft (non-official).
+2026-10-31T14:06:45Z,dsh-standard,0.0.2,,MIT,1417,Name reservation + canonical pointer for the DSH plugin standards draft (non-official).
+2026-10-31T14:10:25Z,behindaflag,0.0.1a0,,,2246,BehindAFlag Python SDK (placeholder)
+2026-10-31T14:14:22Z,downorwhat,0.0.1a0,,,2223,DownOrWhat Python SDK (placeholder)
