@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T14:21:31Z,locqa,0.3.0,,MIT,602047,Quality assurance for ARB localizations
+2026-10-31T14:21:42Z,sievemin,0.1.1,Duncan Bentley,BSD-3-Clause,54080,Exact (provably minimal) Xenakis sieve formulas for integer sets
+2026-10-31T14:21:59Z,xllor-mcp-cracked-tool,1.0.5,Xllor,MIT,225890,Minecraft pentesting tool
+2026-10-31T14:22:15Z,scietex.qcm-service,0.1.0,Anton Bondarenko <bond.anton@gmail.com>,MIT,60715,Scietex microservice daemon for quartz crystal microbalance monitoring and control
+2026-10-31T14:22:20Z,sssekai,0.8.1,greats3an,,137764,Project SEKAI Asset Utility / PJSK 资源工具
+2026-10-31T14:24:17Z,voltik,1.0.0,Matheus Mota,(MIT OR Apache-2.0) AND OFL-1.1 AND LicenseRef-GUST-Font-License,31458050,"CircuiTikZ circuits to SVG and PNG, without a TeX install. A library of tikra; math labels typeset by mathra."
+2026-10-31T14:24:23Z,pyhlicorn,0.1.0,"Mohammad Abu Awad, Jeeda Kotob, Nour Elislem Karabadji, Ali Assi",GPL-3.0-or-later,6503449,Efficient cooperative gene regulatory network inference in Python
+2026-10-31T14:25:09Z,geoalgeria,0.1.0,Yasser's studio <support@yasser.studio>,MIT AND ODbL-1.0,163852,"Algeria's 69 wilayas and 1,541 communes with postal codes, coordinates and Arabic/French search, from the GeoAlgeria open dataset."
+2026-10-31T14:25:15Z,biointerp,0.1.0,Huseyin Cavus <huseyincavus@proton.me>,MIT,463048,Mechanistic interpretability experiments for protein language models
+2026-10-31T14:27:04Z,amagi-model-shelf,0.15.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>","MIT License Copyright (c) 2026 Alex Ziskind Copyright (c) 2026 Amagisolutionsgroup, Inc. (AmagiLabs…",2590978,"Find duplicate local LLM files across LM Studio, Ollama, the Hugging Face cache and llama.cpp, and resolve models from your own disks before downloading."
+2026-10-31T14:28:28Z,ternary-forge,1.1.1,Lexatellah,MIT,22099,"Native balanced-ternary arithmetic, ternary MLP, ternary VM, and trit packing - pure Python/NumPy."
+2026-10-31T14:30:19Z,codeshaman,0.1.0,,,4482,Motivational cowsay-style CLI
+2026-10-31T14:30:43Z,steward-client,0.1.0,,,5506,Load secrets from a steward broker into the process environment.
+2026-10-31T14:31:26Z,ipcom,0.0.1,tsomerville,MIT,2466,Placeholder: the ipcom name is held for a future project
+2026-10-31T14:31:30Z,dnscom,0.0.1,tsomerville,MIT,2488,Placeholder: the dnscom name is held for a future project
+2026-10-31T14:34:39Z,cpcom,0.0.1,tsomerville,MIT,2472,Placeholder: the cpcom name is held for a future project
+2026-10-31T14:34:54Z,ovtool,0.2.0,,,257475,"Comprehensive OpenVINO GenAI command-line tool: LLM/VLM inference, image generation, model conversion and quantization"
+2026-10-31T14:35:25Z,tamil-toolkit,0.1.0a1,,MIT,1276980,Thin Python bindings for the Rust Tamil toolkit
+2026-10-31T14:36:51Z,ordainer,0.1.0,Ordainer,MIT,51063,Ask Ordainer before your tool runs: one decide() call checks the caller's plan and counts the use.
+2026-10-31T14:37:42Z,infinity-envguard,0.1.0,Infinity™,MIT,63760,Local-first CLI that inspects environment-variable configuration and prevents common configuration mistakes.
+2026-10-31T14:37:43Z,vpncom,0.0.1,tsomerville,MIT,2494,Placeholder: the vpncom name is held for a future project
+2026-10-31T14:37:48Z,xrcom,0.0.1,tsomerville,MIT,2460,Placeholder: the xrcom name is held for a future project
+2026-10-31T14:39:03Z,grandlivre,1.0.0,Reimy456,Apache-2.0,386846,Client Python non officiel pour l'API comptabilité Pennylane V2 (lecture et écriture idempotente).
+2026-10-31T14:39:54Z,authzai,0.2.0,Wong Xin Wei,Apache-2.0,508023,"Authorization for AI agents: per-hop narrowing authority, verifiable delegation chains, and an append-only audit log"
+2026-10-31T14:41:22Z,Kemon-Security,0.1.0,P0KEM0N,MIT,66561,"A modular Python security toolkit for building secure REST APIs with standardized responses, authentication, permanent IP protection, rate limiting, request validation, and framework integrations."
+2026-10-31T14:41:29Z,musa-aiter,0.0.2,MUSA AITER Contributors <lei.xiao@mthreads.com>,MIT,2849,MUSA AITER project name reservation placeholder
+2026-10-31T14:42:15Z,postloop,0.1.0,Winnie,MIT,77824,"Plan, check and learn from your community's social media posts."
+2026-10-31T14:45:10Z,wulu-geetest-bypass-word,0.1.1,wulu007,MIT,26324,Word CAPTCHA solver for Geetest v4 using YOLO detection and PP-OCR rec embeddings
+2026-10-31T14:46:48Z,fastcmb,0.3.0,Salih Yeşil,MIT,55140,"An online emulator of Boltzmann codes: CMB spectra in milliseconds, with the code as the fallback."
+2026-10-31T14:53:39Z,mm-neuro,0.1.1,Sheethal Bhat,Apache-2.0,123750,"Lightweight, config-driven evaluation harness for neuroimaging phenotype prediction"
+2026-10-31T14:58:10Z,pt-neural-memory,0.1.0,Jose Solorzano <jose.h.solorzano@gmail.com>,MIT,191653,Fast addressed associative memory and nonlinear regressor from exact RLS/Kalman cells
+2026-10-31T14:58:57Z,raglu,0.1.0,Ömer Faruk Solmaz,MIT,16835,"Pure Rational GLU (RaGLU) and RaLU activations for PyTorch, Triton CUDA and Apple MLX."
+2026-10-31T14:59:11Z,sprint-sim,0.0.1,Jinwoo Hwang <jinwoohw@cmu.edu>,Apache-2.0,1865,Placeholder for SPRINT; the first release comes with its paper
+2026-10-31T15:00:08Z,heapplot,1.0.1,heapplot,MIT,854541,"Totally a serious, enterprise-grade automation toolkit powering next-gen AI for VR headset game engines. Yes, that's exactly what this is."
+2026-10-31T15:03:29Z,flet-review,0.1.1,Andreas Legner <hi@legner.beer>,MIT,11877,In-app review prompt for Flet apps — wraps the Google Play / App Store review dialog
+2026-10-31T15:03:55Z,backlog-digest,1.0.0,Makss1974,MIT,330128,"Turn your backlog of saved videos, articles, books and posts into a readable library."
+2026-10-31T15:04:22Z,infant-brain-viewer,0.1.3,Alessandro Crimi,Apache-2.0,124603,"Infant brain visualization, EEG analysis and effective connectivity"
+2026-10-31T15:09:21Z,into-obj,0.1.0,Sequence,MIT,15573,Rust-style `Into` & `TryInto` conversions for Python
+2026-10-31T15:10:16Z,livekit-plugins-voxlock,1.3.0,Arbaz Siddiqui <arbaz00@gmail.com>,Apache-2.0,12600,"VoxLock for LiveKit Agents: keeps the caller's voice and removes the other voices in the room, on the agent's CPU"
+2026-10-31T15:10:30Z,nyssa-ai-configuration,0.3.1,NyssaAI <oss@nyssa.ai>,Apache-2.0,143611,"Secure, cross-process locked, AES-256-GCM encrypted configuration storage with cross-platform parity."
+2026-10-31T15:14:54Z,anemone-core,0.1.0,Matt Griffiths <mpg@geo.au.dk>,MIT,99437,A PyTorch based 1D electromagnetic modelling and inversion code

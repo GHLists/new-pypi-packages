@@ -1,104 +1,104 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-10-31T13:18:42.517498Z",
-    "path": "data/new-packages-2026-10-31T14-19-01-666307Z.csv",
-    "to": "2026-10-31T14:19:01.666307Z"
+    "count": 41,
+    "from": "2026-10-31T14:19:01.666307Z",
+    "path": "data/new-packages-2026-10-31T15-18-08-334774Z.csv",
+    "to": "2026-10-31T15:18:08.334774Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-31T13:22:57Z",
       "package": "doctreelstm",
       "since": "2026-10-31T13:18:42.517498Z",
       "version": "10.0.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T13:02:08Z",
       "package": "idiomatic-sh-asymptote",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-31T13:40:58Z",
       "package": "idiomatic-sh-tastemaker",
       "since": "2026-10-31T13:18:42.517498Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:37:04Z",
       "package": "rboto",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:37:24Z",
       "package": "rboto-api-gateway",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:37:34Z",
       "package": "rboto-bedrock",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:39:03Z",
       "package": "rboto-bedrock-agent",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:39:12Z",
       "package": "rboto-bedrock-agent-runtime",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:39:26Z",
       "package": "rboto-bedrock-agentcore",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:39:36Z",
       "package": "rboto-bedrock-agentcore-control",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:39:44Z",
       "package": "rboto-bedrock-data-automation",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:39:51Z",
       "package": "rboto-bedrock-data-automation-runtime",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-10-31T12:40:02Z",
       "package": "rboto-bedrock-runtime",
       "since": "2026-10-31T12:18:26.481767Z",
       "version": null
     }
   ],
-  "serial": 43011868,
+  "serial": 43013675,
   "source_truncated": false,
-  "window": "2026-10-31T14:19:01.666307Z"
+  "window": "2026-10-31T15:18:08.334774Z"
 }

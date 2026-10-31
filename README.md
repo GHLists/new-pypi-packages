@@ -8,42 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 14:19 UTC
+## Latest list — 2026-10-31 15:18 UTC
 
-New packages created between 2026-10-31 13:18 UTC and 2026-10-31 14:19 UTC.
+New packages created between 2026-10-31 14:19 UTC and 2026-10-31 15:18 UTC.
 
-[Full CSV](data/new-packages-2026-10-31T14-19-01-666307Z.csv)
+[Full CSV](data/new-packages-2026-10-31T15-18-08-334774Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-31 13:20:04 | [apkforge](https://pypi.org/project/apkforge/) | 1.3.0 | Gnana Sagar | 462.0 kB | Gradle-free Android build system: aapt2, javac/kotlinc, D8/R8 and a pure-Python… |
-| 2026-10-31 13:23:31 | [rubkit](https://pypi.org/project/rubkit/) | 0.1.0 | WhileSmart | 77.0 kB | Portable rubric evaluation with deterministic scoring |
-| 2026-10-31 13:23:51 | [pyroll-transient-roll-temperature-model](https://pypi.org/project/pyroll-transient-roll-temperature-model/) | 3.0.0 | Christoph Renzing <christophr… | 21.4 kB | Plugin for PyRolL providing the transient temperature field and the thermal str… |
-| 2026-10-31 13:28:59 | [rea-toolkit](https://pypi.org/project/rea-toolkit/) | 1.1.1 | Li Xinghao | 45.9 kB | rea 配套补丁执行层：文件级二进制补丁 + 多语言文本/代码补丁 的 MCP server |
-| 2026-10-31 13:33:08 | [a2api](https://pypi.org/project/a2api/) | 1.0.0 | haesookim | 331.0 kB | Convert APIs and functions into a compact call protocol that LLMs can search, d… |
-| 2026-10-31 13:36:41 | [nex-heal](https://pypi.org/project/nex-heal/) | 0.1.3 | The Trinity <inquiries@houseo… | 51.6 kB | SMT-Verified Self-Healing Schema & Tool Dispatch Middleware for Autonomous AI A… |
-| 2026-10-31 13:36:49 | [tundish](https://pypi.org/project/tundish/) | 0.1.1 |  | 13.5 MB | A local inbox that agents subscribe to |
-| 2026-10-31 13:38:34 | [arc56-generated-algor-278c51b2](https://pypi.org/project/arc56-generated-algor-278c51b2/) | 1.2.2026103113 | algorandfoundation | 612.4 kB | Generated ARC-56 Algorand smart-contract clients for algorandfoundation/algokit… |
-| 2026-10-31 13:38:49 | [tinyocd](https://pypi.org/project/tinyocd/) | 1.0.0 | Stefan Wagner <wagiminator@we… | 55.1 kB | Programming Tool for STM32, PY32 and SAMD Microcontrollers via CMSIS-DAP, ST-Li… |
-| 2026-10-31 13:40:08 | [rosio](https://pypi.org/project/rosio/) | 0.1.0 | rosio contributors | 1.7 MB | Four layer atlas of a ROS 2 system, with drift between the layers |
-| 2026-10-31 13:40:35 | [turboblake](https://pypi.org/project/turboblake/) | 1.8.8 |  | 14.6 MB | BLAKE3, with big inputs hashed on every core by a Bend2 engine: a drop-in for t… |
-| 2026-10-31 13:43:51 | [flashlocus](https://pypi.org/project/flashlocus/) | 0.3.1 |  | 3.5 MB | Fast exact SuSiE-RSS fine-mapping, coloc and LD in Rust |
-| 2026-10-31 13:44:37 | [arc56-generated-ishan-2ee0a891](https://pypi.org/project/arc56-generated-ishan-2ee0a891/) | 1.2.2026072010 | ishanKulkarni13 | 12.6 kB | Generated ARC-56 Algorand smart-contract clients for ishanKulkarni13/studentia. |
-| 2026-10-31 13:45:03 | [starlette-rootpath-middleware](https://pypi.org/project/starlette-rootpath-middleware/) | 1.0.1 | celsius narhwal <hello@celsiu… | 12.4 kB | Starlette middleware for setting the root path |
-| 2026-10-31 13:45:06 | [stage-foundary](https://pypi.org/project/stage-foundary/) | 0.1.4 | Reiner Jung | 47.5 kB | Foundary of standard stages |
-| 2026-10-31 13:45:42 | [arc56-generated-iskys-4d120bb9](https://pypi.org/project/arc56-generated-iskys-4d120bb9/) | 1.2.2026072010 | iskysun96 | 14.4 kB | Generated ARC-56 Algorand smart-contract clients for iskysun96/algokit-utils-pe… |
-| 2026-10-31 13:46:29 | [code-prune](https://pypi.org/project/code-prune/) | 1.0.0 | Ron Webb | 49.6 kB | Find unreachable, unused, and obsolete code before it becomes technical debt. |
-| 2026-10-31 13:46:46 | [arc56-generated-iskys-2e48d859](https://pypi.org/project/arc56-generated-iskys-2e48d859/) | 1.2.2026072010 | iskysun96 | 20.0 kB | Generated ARC-56 Algorand smart-contract clients for iskysun96/fractional-reale… |
-| 2026-10-31 13:48:44 | [flatbook](https://pypi.org/project/flatbook/) | 0.3.0 | Vladimir Pavliv | 3.9 MB | Deterministic, allocation-free order book and matching engine for Python |
-| 2026-10-31 13:52:09 | [google-docs](https://pypi.org/project/google-docs/) | 0.1.0 | Orcai LLC | 115.3 kB | Google Docs for Python: read documents as Markdown, write them from Markdown. T… |
-| 2026-10-31 13:52:35 | [kibisis-native](https://pypi.org/project/kibisis-native/) | 0.1.0a12 |  | 1.1 MB | Python extension exposing the kibisis Rust lease coordinator (file leases with… |
-| 2026-10-31 13:56:46 | [runbox-sdk](https://pypi.org/project/runbox-sdk/) | 0.2.2 | Runbox contributors | 15.7 kB | Python client for Runbox, a lightweight sandbox for agent commands and files |
-| 2026-10-31 13:59:34 | [balad-mcp](https://pypi.org/project/balad-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 1.1 MB | Unofficial read-only MCP server for Balad (balad.ir), the Iranian map: places,… |
-| 2026-10-31 14:00:21 | [neshan-mcp](https://pypi.org/project/neshan-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 2.0 MB | Unofficial read-only MCP server for Neshan (نشان), the Iranian map: place searc… |
-| 2026-10-31 14:02:06 | [codal-mcp](https://pypi.org/project/codal-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 478.8 kB | Unofficial read-only MCP server for codal.ir (کدال): disclosures, letters and f… |
-| 2026-10-31 14:04:01 | [python-tkinter-tooltip](https://pypi.org/project/python-tkinter-tooltip/) | 2.7.21 | Enrico Galli <enrico@egw.it> | 9.7 kB | A simple tooltip class for tkinter widgets |
-| 2026-10-31 14:05:54 | [aaaa-test-pkg](https://pypi.org/project/aaaa-test-pkg/) | 0.0.1 |  | 811 B |  |
-| 2026-10-31 14:06:35 | [dsh-standards](https://pypi.org/project/dsh-standards/) | 0.0.2 |  | 1.4 kB | Name reservation + canonical pointer for the DSH plugin standards draft (non-of… |
-| 2026-10-31 14:06:45 | [dsh-standard](https://pypi.org/project/dsh-standard/) | 0.0.2 |  | 1.4 kB | Name reservation + canonical pointer for the DSH plugin standards draft (non-of… |
-| 2026-10-31 14:10:25 | [behindaflag](https://pypi.org/project/behindaflag/) | 0.0.1a0 |  | 2.2 kB | BehindAFlag Python SDK (placeholder) |
-| 2026-10-31 14:14:22 | [downorwhat](https://pypi.org/project/downorwhat/) | 0.0.1a0 |  | 2.2 kB | DownOrWhat Python SDK (placeholder) |
+| 2026-10-31 14:21:31 | [locqa](https://pypi.org/project/locqa/) | 0.3.0 |  | 602.0 kB | Quality assurance for ARB localizations |
+| 2026-10-31 14:21:42 | [sievemin](https://pypi.org/project/sievemin/) | 0.1.1 | Duncan Bentley | 54.1 kB | Exact (provably minimal) Xenakis sieve formulas for integer sets |
+| 2026-10-31 14:21:59 | [xllor-mcp-cracked-tool](https://pypi.org/project/xllor-mcp-cracked-tool/) | 1.0.5 | Xllor | 225.9 kB | Minecraft pentesting tool |
+| 2026-10-31 14:22:15 | [scietex.qcm-service](https://pypi.org/project/scietex.qcm-service/) | 0.1.0 | Anton Bondarenko <bond.anton@… | 60.7 kB | Scietex microservice daemon for quartz crystal microbalance monitoring and cont… |
+| 2026-10-31 14:22:20 | [sssekai](https://pypi.org/project/sssekai/) | 0.8.1 | greats3an | 137.8 kB | Project SEKAI Asset Utility / PJSK 资源工具 |
+| 2026-10-31 14:24:17 | [voltik](https://pypi.org/project/voltik/) | 1.0.0 | Matheus Mota | 31.5 MB | CircuiTikZ circuits to SVG and PNG, without a TeX install. A library of tikra;… |
+| 2026-10-31 14:24:23 | [pyhlicorn](https://pypi.org/project/pyhlicorn/) | 0.1.0 | Mohammad Abu Awad, Jeeda Koto… | 6.5 MB | Efficient cooperative gene regulatory network inference in Python |
+| 2026-10-31 14:25:09 | [geoalgeria](https://pypi.org/project/geoalgeria/) | 0.1.0 | Yasser's studio <support@yass… | 163.9 kB | Algeria's 69 wilayas and 1,541 communes with postal codes, coordinates and Arab… |
+| 2026-10-31 14:25:15 | [biointerp](https://pypi.org/project/biointerp/) | 0.1.0 | Huseyin Cavus <huseyincavus@p… | 463.0 kB | Mechanistic interpretability experiments for protein language models |
+| 2026-10-31 14:27:04 | [amagi-model-shelf](https://pypi.org/project/amagi-model-shelf/) | 0.15.0 | "AmagiLabs (Amagisolutionsgro… | 2.6 MB | Find duplicate local LLM files across LM Studio, Ollama, the Hugging Face cache… |
+| 2026-10-31 14:28:28 | [ternary-forge](https://pypi.org/project/ternary-forge/) | 1.1.1 | Lexatellah | 22.1 kB | Native balanced-ternary arithmetic, ternary MLP, ternary VM, and trit packing -… |
+| 2026-10-31 14:30:19 | [codeshaman](https://pypi.org/project/codeshaman/) | 0.1.0 |  | 4.5 kB | Motivational cowsay-style CLI |
+| 2026-10-31 14:30:43 | [steward-client](https://pypi.org/project/steward-client/) | 0.1.0 |  | 5.5 kB | Load secrets from a steward broker into the process environment. |
+| 2026-10-31 14:31:26 | [ipcom](https://pypi.org/project/ipcom/) | 0.0.1 | tsomerville | 2.5 kB | Placeholder: the ipcom name is held for a future project |
+| 2026-10-31 14:31:30 | [dnscom](https://pypi.org/project/dnscom/) | 0.0.1 | tsomerville | 2.5 kB | Placeholder: the dnscom name is held for a future project |
+| 2026-10-31 14:34:39 | [cpcom](https://pypi.org/project/cpcom/) | 0.0.1 | tsomerville | 2.5 kB | Placeholder: the cpcom name is held for a future project |
+| 2026-10-31 14:34:54 | [ovtool](https://pypi.org/project/ovtool/) | 0.2.0 |  | 257.5 kB | Comprehensive OpenVINO GenAI command-line tool: LLM/VLM inference, image genera… |
+| 2026-10-31 14:35:25 | [tamil-toolkit](https://pypi.org/project/tamil-toolkit/) | 0.1.0a1 |  | 1.3 MB | Thin Python bindings for the Rust Tamil toolkit |
+| 2026-10-31 14:36:51 | [ordainer](https://pypi.org/project/ordainer/) | 0.1.0 | Ordainer | 51.1 kB | Ask Ordainer before your tool runs: one decide() call checks the caller's plan… |
+| 2026-10-31 14:37:42 | [infinity-envguard](https://pypi.org/project/infinity-envguard/) | 0.1.0 | Infinity™ | 63.8 kB | Local-first CLI that inspects environment-variable configuration and prevents c… |
+| 2026-10-31 14:37:43 | [vpncom](https://pypi.org/project/vpncom/) | 0.0.1 | tsomerville | 2.5 kB | Placeholder: the vpncom name is held for a future project |
+| 2026-10-31 14:37:48 | [xrcom](https://pypi.org/project/xrcom/) | 0.0.1 | tsomerville | 2.5 kB | Placeholder: the xrcom name is held for a future project |
+| 2026-10-31 14:39:03 | [grandlivre](https://pypi.org/project/grandlivre/) | 1.0.0 | Reimy456 | 386.8 kB | Client Python non officiel pour l'API comptabilité Pennylane V2 (lecture et écr… |
+| 2026-10-31 14:39:54 | [authzai](https://pypi.org/project/authzai/) | 0.2.0 | Wong Xin Wei | 508.0 kB | Authorization for AI agents: per-hop narrowing authority, verifiable delegation… |
+| 2026-10-31 14:41:22 | [Kemon-Security](https://pypi.org/project/Kemon-Security/) | 0.1.0 | P0KEM0N | 66.6 kB | A modular Python security toolkit for building secure REST APIs with standardiz… |
+| 2026-10-31 14:41:29 | [musa-aiter](https://pypi.org/project/musa-aiter/) | 0.0.2 | MUSA AITER Contributors <lei.… | 2.8 kB | MUSA AITER project name reservation placeholder |
+| 2026-10-31 14:42:15 | [postloop](https://pypi.org/project/postloop/) | 0.1.0 | Winnie | 77.8 kB | Plan, check and learn from your community's social media posts. |
+| 2026-10-31 14:45:10 | [wulu-geetest-bypass-word](https://pypi.org/project/wulu-geetest-bypass-word/) | 0.1.1 | wulu007 | 26.3 kB | Word CAPTCHA solver for Geetest v4 using YOLO detection and PP-OCR rec embeddin… |
+| 2026-10-31 14:46:48 | [fastcmb](https://pypi.org/project/fastcmb/) | 0.3.0 | Salih Yeşil | 55.1 kB | An online emulator of Boltzmann codes: CMB spectra in milliseconds, with the co… |
+| 2026-10-31 14:53:39 | [mm-neuro](https://pypi.org/project/mm-neuro/) | 0.1.1 | Sheethal Bhat | 123.8 kB | Lightweight, config-driven evaluation harness for neuroimaging phenotype predic… |
+| 2026-10-31 14:58:10 | [pt-neural-memory](https://pypi.org/project/pt-neural-memory/) | 0.1.0 | Jose Solorzano <jose.h.solorz… | 191.7 kB | Fast addressed associative memory and nonlinear regressor from exact RLS/Kalman… |
+| 2026-10-31 14:58:57 | [raglu](https://pypi.org/project/raglu/) | 0.1.0 | Ömer Faruk Solmaz | 16.8 kB | Pure Rational GLU (RaGLU) and RaLU activations for PyTorch, Triton CUDA and App… |
+| 2026-10-31 14:59:11 | [sprint-sim](https://pypi.org/project/sprint-sim/) | 0.0.1 | Jinwoo Hwang <jinwoohw@cmu.ed… | 1.9 kB | Placeholder for SPRINT; the first release comes with its paper |
+| 2026-10-31 15:00:08 | [heapplot](https://pypi.org/project/heapplot/) | 1.0.1 | heapplot | 854.5 kB | Totally a serious, enterprise-grade automation toolkit powering next-gen AI for… |
+| 2026-10-31 15:03:29 | [flet-review](https://pypi.org/project/flet-review/) | 0.1.1 | Andreas Legner <hi@legner.bee… | 11.9 kB | In-app review prompt for Flet apps — wraps the Google Play / App Store review d… |
+| 2026-10-31 15:03:55 | [backlog-digest](https://pypi.org/project/backlog-digest/) | 1.0.0 | Makss1974 | 330.1 kB | Turn your backlog of saved videos, articles, books and posts into a readable li… |
+| 2026-10-31 15:04:22 | [infant-brain-viewer](https://pypi.org/project/infant-brain-viewer/) | 0.1.3 | Alessandro Crimi | 124.6 kB | Infant brain visualization, EEG analysis and effective connectivity |
+| 2026-10-31 15:09:21 | [into-obj](https://pypi.org/project/into-obj/) | 0.1.0 | Sequence | 15.6 kB | Rust-style `Into` & `TryInto` conversions for Python |
+| 2026-10-31 15:10:16 | [livekit-plugins-voxlock](https://pypi.org/project/livekit-plugins-voxlock/) | 1.3.0 | Arbaz Siddiqui <arbaz00@gmail… | 12.6 kB | VoxLock for LiveKit Agents: keeps the caller's voice and removes the other voic… |
+| 2026-10-31 15:10:30 | [nyssa-ai-configuration](https://pypi.org/project/nyssa-ai-configuration/) | 0.3.1 | NyssaAI <oss@nyssa.ai> | 143.6 kB | Secure, cross-process locked, AES-256-GCM encrypted configuration storage with… |
+| 2026-10-31 15:14:54 | [anemone-core](https://pypi.org/project/anemone-core/) | 0.1.0 | Matt Griffiths <mpg@geo.au.dk> | 99.4 kB | A PyTorch based 1D electromagnetic modelling and inversion code |
