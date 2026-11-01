@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T01:21:02Z,burst-codec,0.1.0,Scott Dill,Apache-2.0,122828,"Burst: exact text compression for LoRa/Meshtastic radios — a small language model both ends share, so only the surprise crosses the air."
+2026-11-01T01:21:17Z,tba-storage-digital-credential,0.4.0.dev2,,Apache-2.0,10247,Owned digital-credential identity database tables and migrations.
+2026-11-01T01:23:38Z,tba-storage-federation,0.4.0.dev2,,Apache-2.0,10956,Owned federation identity database tables and migrations.
+2026-11-01T01:24:05Z,openentity-openai-agents,0.1.0,,MIT,97829,"Open Entity tools for the OpenAI Agents SDK: adopt an identity, read it, record stances and arcs, verify and trust other agents."
+2026-11-01T01:25:26Z,tba-storage-gnap,0.4.0.dev2,,Apache-2.0,7269,Owned gnap identity database tables and migrations.
+2026-11-01T01:27:19Z,tba-storage-operator,0.4.0.dev2,,Apache-2.0,12688,Owned operator identity database tables and migrations.
+2026-11-01T01:29:10Z,tba-storage-presentation,0.4.0.dev2,,Apache-2.0,7604,Owned presentation identity database tables and migrations.
+2026-11-01T01:31:07Z,tba-storage-release-governance,0.4.0.dev2,,Apache-2.0,21576,Owned release-governance identity database tables and migrations.
+2026-11-01T01:32:51Z,tba-storage-replay-protection,0.4.0.dev2,,Apache-2.0,11363,Owned replay-protection identity database tables and migrations.
+2026-11-01T01:32:57Z,tanuki-ad,2.1.0,Mafifrizi <hazama3321@gmail.com>,MIT OR Apache-2.0,307830,Deterministic Linux Active Directory & Kerberos Protocol Triage Engine
+2026-11-01T01:35:03Z,tba-storage-residency,0.4.0.dev2,,Apache-2.0,8394,Owned residency identity database tables and migrations.
+2026-11-01T01:36:45Z,tba-storage-scim,0.4.0.dev2,,Apache-2.0,10373,Owned scim identity database tables and migrations.
+2026-11-01T01:40:13Z,tba-storage-security-event,0.4.0.dev2,,Apache-2.0,7719,Owned security-event identity database tables and migrations.
+2026-11-01T01:41:31Z,saferun-cli,0.0.2,Vinay Repalle,MIT,608159,Secure verification of AI-generated code
+2026-11-01T01:41:58Z,tba-storage-tenancy,0.4.0.dev2,,Apache-2.0,9422,Owned tenancy identity database tables and migrations.
+2026-11-01T01:44:09Z,tba-storage-claims,0.4.0.dev2,,Apache-2.0,8084,Owned claims identity database tables and migrations.
+2026-11-01T01:46:02Z,tba-storage-delegation,0.4.0.dev2,,Apache-2.0,9099,Owned delegation identity database tables and migrations.
+2026-11-01T01:48:06Z,tba-storage-principals,0.4.0.dev2,,Apache-2.0,14000,Owned principals identity database tables and migrations.
+2026-11-01T01:50:18Z,tba-storage-authentication,0.4.0.dev2,,Apache-2.0,21802,Owned authentication identity database tables and migrations.
+2026-11-01T01:52:01Z,tba-storage-oauth,0.4.0.dev2,,Apache-2.0,18472,Owned oauth identity database tables and migrations.
+2026-11-01T01:52:16Z,taloon,0.1.0,,Elastic-2.0,9656950,License checking for uv-resolved Python dependencies
+2026-11-01T01:53:59Z,tba-storage-audit,0.4.0.dev2,,Apache-2.0,7814,Owned audit identity database tables and migrations.
+2026-11-01T01:55:53Z,tba-storage-consent,0.4.0.dev2,,Apache-2.0,7857,Owned consent identity database tables and migrations.
+2026-11-01T01:57:29Z,cavi-substance-mcp,0.7.0,CAVI AI,MIT,323967,"MCP servers for Adobe Substance 3D Painter, Designer and Sampler"
+2026-11-01T01:57:51Z,tba-storage-key-material,0.4.0.dev3,,Apache-2.0,17647,Owned key-material identity database tables and migrations.
+2026-11-01T02:00:49Z,aerospace-engineering-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,19866557,"Offline aerospace engineering solver: the standard atmosphere, airspeeds, compressible flow and shocks, nozzles and rocket engines, rocket performance and staging, aircraft performance, stability, pr…"
+2026-11-01T02:01:09Z,chemical-engineering-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,12020937,"Offline chemical engineering solver: material and energy balances, reactor design, separations (distillation, absorption, extraction), transport phenomena, process control and reservoir and petroleum…"
+2026-11-01T02:01:28Z,civil-engineering-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,11296601,"Offline civil engineering solver: pipe and open-channel hydraulics, hydrology, groundwater flow, soil mechanics and foundations, water networks and surveying, with steps, LaTeX and honest refusals"
+2026-11-01T02:01:52Z,electrical-engineering-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,18399709,"Offline electrical engineering solver: DC and AC circuits, transients, phasors and power, operational amplifiers, diodes and transistors, digital logic, and control systems (transfer functions, stabi…"
+2026-11-01T02:02:56Z,healtheggs,0.0.1,Dr Andy Carr <andy@healtheggs.com>,,2793,Official Python SDK for the HealthEggs E-Health Operating System.
+2026-11-01T02:03:52Z,raxis-cuda12,0.4.0,Pablo García Mesa,MIT,72143384,CUDA 12 backend of raxis (NVIDIA GPUs)
+2026-11-01T02:04:39Z,tba-storage-oidc,0.4.0.dev2,,Apache-2.0,8906,Owned oidc identity database tables and migrations.
+2026-11-01T02:06:57Z,blynx,0.0.1,Qiang Wei,Apache-2.0,11662,The System-1 Powered BPMN Agentic Workflow Engine
+2026-11-01T02:06:58Z,blynx-core,0.0.1,Qiang Wei,Apache-2.0,11779,"Core engine of Blynx, the System-1 Powered BPMN Agentic Workflow Engine"
+2026-11-01T02:06:59Z,blynx-studio,0.0.1,Qiang Wei,Apache-2.0,11816,"Visual studio for Blynx, the System-1 Powered BPMN Agentic Workflow Engine"
+2026-11-01T02:07:07Z,tba-storage-token,0.4.0.dev2,,Apache-2.0,9735,Owned token identity database tables and migrations.
+2026-11-01T02:09:00Z,tba-storage-trust-federation-graph,0.4.0.dev2,,Apache-2.0,9419,Owned trust-federation-graph identity database tables and migrations.
+2026-11-01T02:11:21Z,keyedlock,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,39752,"Lock by key: concurrent work on the same key serializes, different keys run in parallel, with reference-counted cleanup"
+2026-11-01T02:11:35Z,atomicint,1.0.0,Javier Lianes <javier@lianes8studio.com>,MIT,91712,"Thread-safe atomic integers for Python: fetch-and-add, compare-and-set, compare-and-exchange, atomic updates and bounded counters that raise, saturate or wrap. Pure Python, zero dependencies, typed,…"
+2026-11-01T02:11:37Z,lord-of-the-mods,0.1.0,Błażej Chojnacki,"GNU General Public License ========================== _Version 3, 29 June 2007_ _Copyright © 2007 F…",221107,Modular Python library and modding toolkit for The Battle for Middle-earth game
+2026-11-01T02:11:50Z,timedbatch,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,45485,"Batch items by a max count and a max age, for iterables, threads and asyncio, without losing items"
+2026-11-01T02:12:04Z,periodictimer,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,43641,"Drift-free repeating timers for threads and asyncio, with missed-tick policies, fixed delay and jitter"
+2026-11-01T02:13:31Z,paddleocr-onnx-reader,0.1.0,,BSD-3-Clause AND Apache-2.0,219866,ONNX Runtime reader for PaddleOCR detection and recognition models
+2026-11-01T02:13:39Z,davinci-mcp,1.0.0,Delanoe Pirard,Apache-2.0,531287,"Exhaustive, typed and safe MCP server for DaVinci Resolve."
+2026-11-01T02:13:55Z,fontpkg-kumbh-sans,1.5,,OFL-1.1,81791,"Kumbh Sans font family, packaged for Python by fontpkg"
+2026-11-01T02:13:57Z,fontpkg-kaushan-script,1.2,,OFL-1.1,86458,"Kaushan Script font family, packaged for Python by fontpkg"
+2026-11-01T02:13:59Z,fontpkg-comic-neue,2.3,,OFL-1.1,191833,"Comic Neue font family, packaged for Python by fontpkg"
+2026-11-01T02:14:02Z,fontpkg-patrick-hand,1.3,,OFL-1.1,95050,"Patrick Hand font family, packaged for Python by fontpkg"
+2026-11-01T02:15:04Z,tba-storage-webauthn,0.4.0.dev2,,Apache-2.0,12330,Owned webauthn identity database tables and migrations.
+2026-11-01T02:15:36Z,scalio-platform,0.1.0,,Proprietary,29472,"Shared building blocks of the Scalio apps: job leases, schema migrations, health, error reports, app links"
+2026-11-01T02:17:05Z,tba-storage-workload-identity,0.4.0.dev2,,Apache-2.0,11259,Owned workload-identity identity database tables and migrations.
+2026-11-01T02:18:52Z,tba-contracts-authorization,0.4.0.dev3,,Apache-2.0,4485,"Canonical platform authorization request, role, grant, and decision contracts."
