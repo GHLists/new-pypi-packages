@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T13:20:55Z,leangraph,0.1.0,cnmoro,MIT,14501748,Embeddable property-graph database with a Kuzu-compatible Python API and a Rust core
+2026-11-01T13:26:38Z,prusie,0.3.1,Wenxin Jiang,GPL-3.0-or-later,26772071,SuSiE fine-mapping with a Rust solver and Python API
+2026-11-01T13:26:52Z,hackproof-ai,1.0.0,Buildebate Team <core@buildebate.com>,Apache-2.0,1721970,Autonomous Zero-Trust Adversarial Engineering Engine for Meta Global AI Hackathon 2026
+2026-11-01T13:26:52Z,indiek-api,0.17.0,Adrian Ernesto Radillo,Apache-2.0,720830,Local HTTP API serving IndieK archives to the IndieK Desktop App.
+2026-11-01T13:26:57Z,beetday,0.1.0,"Paul Tobias, Kostiantyn Lysenko",AGPL-3.0-only,55173,"A small client for your own Workday tenant's org chart — live search, management chains, and an offline org-chart cache"
+2026-11-01T13:31:53Z,flimkit-napari,0.1.0,Alex Hunt <alexander.hunt@ed.ac.uk>,MIT,18142,FLIMKit lifetime fitting and phasor maps as napari layers
+2026-11-01T13:32:07Z,newch,0.2.0,The newch authors,Apache-2.0,233729,"A small machine-learning library for low-spec machines: PyTorch-style autograd, Keras-style fit, portable C engine"
+2026-11-01T13:32:36Z,camel-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7052,"Surface for CAMEL-AI: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-11-01T13:32:39Z,agno-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,6867,"Surface for Agno: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-11-01T13:37:37Z,somestuff-dnsstuff,0.2.1,Henning Thieß <ht@xomox.cc>,,50055,"DNS utilities: SPF crawler → ipset updater, Microsoft 365 21Vianet IP sync, mDNS responder diagnostics"
+2026-11-01T13:37:41Z,somestuff-ucmstuff,0.1.3,Henning Thieß <ht@xomox.cc>,,83623,"Grandstream UCM6204 IP-PBX monitor/control: WebSocket call events, HTTPS API client, trunk call router, MQTT bridge"
+2026-11-01T13:37:45Z,somestuff-oepnvstuff,0.2.3,Henning Thieß <ht@xomox.cc>,,99465,GTFS-Realtime coverage checker: does an open GTFS-RT feed carry real-time data for your lines at your stop? One-shot or MQTT-publishing watcher
+2026-11-01T13:37:49Z,somestuff-mqttwebstuff,0.1.4,Henning Thieß <ht@xomox.cc>,,136088,"Live web view onto MQTT streams: FastAPI + mountable mapper plugins, Server-Sent Events, htmx/PicoCSS frontend"
+2026-11-01T13:38:45Z,agentmall-sdk,0.0.1,AgentMall <hi@agentmall.sh>,MIT,2799,AgentMall SDK placeholder — https://getagentmall.com
+2026-11-01T13:40:19Z,oept,0.1.1,OEPT Contributors,Apache-2.0,111316,"Open Evidence Provenance Toolkit: content-addressed evidence objects, portable signed bundles, offline verification"
+2026-11-01T13:40:34Z,open-evidence-verification,0.2.1,Open Evidence Verification Protocol Contributors,Apache-2.0,240413,"Open Evidence Verification Protocol (OEVP) - Vendor-neutral evidence appraisal, verification profiles, portable receipts, and decision evidence packs"
+2026-11-01T13:42:40Z,foca-plugins,0.1.0,ELIXIR On-Cloud <cloud-service@elixir-europe.org>,Apache-2.0,12963,Selections of the FOCA gateway plugins of ELIXIR On-Cloud
+2026-11-01T13:43:34Z,sillybos,0.1.0,"Stephen Masters, Yvette Mankerian",MIT,500376,"Decide before decoding: check that a file is a JPEG, PNG, TIFF or PDF within your limits before any image library or PDF renderer opens it"
+2026-11-01T13:45:14Z,madcat-os,0.1.4,Adam Ladachowski,MIT,76762,"MADCAT MCP server and CLI — stdio and Streamable HTTP transports, Typer command line"
+2026-11-01T13:46:48Z,ai-factory-cli,6.3.2,ILAYABARATHI,,11444,Advanced AI Terminal Coding Agent with modern chat containers built by Ilayabharathi
+2026-11-01T13:51:15Z,supernova-photon,0.1.1,,MIT,15060,Supernova Photon-1 V5 mathematical computing engine
+2026-11-01T13:53:36Z,faceliveness,0.1.0,wiseman-umanah <wisemanumanah@gmail.com>,Apache-2.0,78673369,"On-device face liveness checks (blink, head turn, mouth open) powered by a Rust core"
+2026-11-01T13:54:27Z,llmperfscope,0.1.0,Yonghye Kwon,Apache-2.0,284243,"Whole-lifecycle profiler for LLM inference engines: load, warmup, prefill, decode, serving and teardown; speed, memory and energy. Works with any engine, needs no code changes."
+2026-11-01T13:55:15Z,mypythoncommon,0.0.2,David Wang,,6113,Common Code
+2026-11-01T13:59:42Z,izmir-mcp,0.1.0,zexy2,MIT,712641,"Read-only MCP server for İzmir open city data: transit, buses, ferries, water, air, pharmacies."
+2026-11-01T14:00:30Z,meterline,0.2.0,Xavier Meyer,Apache-2.0,107548,"A common record format for AI usage data, with JSONL and Parquet writers."
+2026-11-01T14:01:57Z,cl1codes,0.1.0,Ayyub,MIT,449829,"A Python package to quickly access Computer Laboratory - I (BE AI&DS) practical codes, theory, experiment mappings, and automated datasets"
+2026-11-01T14:03:13Z,meterline-anthropic,0.2.0,Xavier Meyer,Apache-2.0,142599,Reads the Anthropic Enterprise Analytics API and emits meterline records.
+2026-11-01T14:05:29Z,meterline-anthropic-admin,0.1.0,Xavier Meyer,Apache-2.0,109823,Reads the Anthropic Admin Usage and Cost API of a Console organisation and emits meterline records.
+2026-11-01T14:07:36Z,meterline-litellm,0.1.0,Xavier Meyer,Apache-2.0,117506,Reads a LiteLLM proxy's admin API and emits meterline records.
+2026-11-01T14:09:54Z,meterline-copilot,0.1.0,Xavier Meyer,Apache-2.0,139269,"Reads GitHub Copilot usage reports, billing and seats and emits meterline records."
+2026-11-01T14:11:55Z,meterline-sim,0.1.0,Xavier Meyer,Apache-2.0,229657,Generates an invented organisation and its AI usage as meterline silver records plus a ground truth.
+2026-11-01T14:13:44Z,amplitrim,0.1.0,Payton (Tung On) Yau,MIT,129900,"Recommends DADA2 truncLenF, truncLenR and maxEE for paired-end amplicon reads by testing candidate settings on your own reads."

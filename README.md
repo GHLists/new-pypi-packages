@@ -8,41 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 13:20 UTC
+## Latest list — 2026-11-01 14:18 UTC
 
-New packages created between 2026-11-01 12:19 UTC and 2026-11-01 13:20 UTC.
+New packages created between 2026-11-01 13:20 UTC and 2026-11-01 14:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-01T13-20-36-828299Z.csv)
+[Full CSV](data/new-packages-2026-11-01T14-18-12-526207Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-01 12:19:37 | [diffsplainer](https://pypi.org/project/diffsplainer/) | 0.1.0 | Sander van Dragt | 115.1 kB | GitHub PR review app: diff chunks with aligned explanations from Claude Code |
-| 2026-11-01 12:20:30 | [texkit-studio](https://pypi.org/project/texkit-studio/) | 0.1.1 | Md. Abid Hasan Rafi | 90.0 MB | An open-source LaTeX writing studio in your browser. |
-| 2026-11-01 12:31:26 | [bakame](https://pypi.org/project/bakame/) | 0.1.0 | Bakame AI <developers@bakame.… | 6.2 kB | Python SDK for Bakame AI — voice agents for African markets |
-| 2026-11-01 12:34:38 | [obsidian-cli-mcp](https://pypi.org/project/obsidian-cli-mcp/) | 0.1.0 | AkimioJR | 27.4 kB | A MCP server to interact with Obsidian vault via Obsidian CLI |
-| 2026-11-01 12:37:05 | [dynv](https://pypi.org/project/dynv/) | 0.1.0 | Dynv | 69.3 kB | Live, verified environment variables from Dynv, with or without `dynv run` |
-| 2026-11-01 12:38:44 | [satsumaestro](https://pypi.org/project/satsumaestro/) | 0.5.0 | KATO IT, LLC | 926.2 kB | An agentic coding CLI that also runs on local LLMs |
-| 2026-11-01 12:40:27 | [traceplus-py](https://pypi.org/project/traceplus-py/) | 0.1.0 | Amit Singh Sansoya | 48.5 kB | Structured JSON logging and trace context for the Python process you already ru… |
-| 2026-11-01 12:41:38 | [tidybatch](https://pypi.org/project/tidybatch/) | 1.1.1 | TidyBatch | 27.6 kB | Bulk rename files safely: dry-run preview, collision-proof two-phase renames, o… |
-| 2026-11-01 12:44:03 | [consequence-ledger](https://pypi.org/project/consequence-ledger/) | 0.3.0 |  | 165.1 kB | Measure what AI coding decisions actually cause: randomized routing, delayed ou… |
-| 2026-11-01 12:44:05 | [telegram-bot-control](https://pypi.org/project/telegram-bot-control/) | 0.5.1 | Дмитрий Варг | 516.8 kB | Embedded bot telemetry with desktop and optional authenticated web dashboards. |
-| 2026-11-01 12:44:28 | [mymarky](https://pypi.org/project/mymarky/) | 0.1.0 |  | 1.9 MB | Typed Python client for the Marky REST API: create, schedule and publish posts,… |
-| 2026-11-01 12:45:23 | [cornea-shell](https://pypi.org/project/cornea-shell/) | 0.1.0 | coldsofttech | 546.1 kB | Host a web UI in a native window backed by a secured local server. |
-| 2026-11-01 12:52:52 | [gamai-guard](https://pypi.org/project/gamai-guard/) | 1.0.0 |  | 31.2 kB | Multilingual prompt-injection guard: lexical + embedding cascade with a false-p… |
-| 2026-11-01 12:52:53 | [gamai-trust](https://pypi.org/project/gamai-trust/) | 0.3.0 |  | 30.1 kB | Evidence-bound trust layer for agents: verify claims, remember refusals, score… |
-| 2026-11-01 12:52:54 | [sigil-profile](https://pypi.org/project/sigil-profile/) | 0.22.1 |  | 57.9 kB | SIGIL/1 proof-carrying execution profile: gate, verify, anchor, MCP middleware,… |
-| 2026-11-01 12:57:04 | [leis-mcp](https://pypi.org/project/leis-mcp/) | 0.1.0 | Patrick Mazulo | 96.5 kB | Servidor MCP para buscar e citar a legislação brasileira do repositório ctresb/… |
-| 2026-11-01 12:57:49 | [bambu-local](https://pypi.org/project/bambu-local/) | 0.1.0 | Konstantinos Georgiou | 18.9 kB | Read a Bambu Lab printer's report, send it commands and put files on it, over t… |
-| 2026-11-01 12:59:32 | [sudan-atlas](https://pypi.org/project/sudan-atlas/) | 0.1.0 | Amin Shennan | 1.6 MB | Official codes, names and boundaries for Sudan's states and localities, with a… |
-| 2026-11-01 12:59:38 | [tasktrooper](https://pypi.org/project/tasktrooper/) | 0.1.0 | Mehmet Akif Baysal | 112.7 kB | TaskTrooper Telemetry for Python: an OpenTelemetry distribution with route-awar… |
-| 2026-11-01 13:01:08 | [pyfasm64](https://pypi.org/project/pyfasm64/) | 0.1.1 | eminsk <M_N_N@tut.by> | 90.4 kB | Universal Native No-GIL (3.13t-3.16t) & PyPy (3.8-3.12) to pure x86_64 FASM com… |
-| 2026-11-01 13:04:57 | [culpip](https://pypi.org/project/culpip/) | 0.0.1 | Agata Skamruk <agata.skamruk@… | 17.9 kB | Find which dependency update broke your tests: bisects requirements.txt and uv.… |
-| 2026-11-01 13:05:28 | [selenium-autopilot](https://pypi.org/project/selenium-autopilot/) | 0.1.0 | Adib Bin Khaled | 71.2 kB | AI-powered Selenium test automation framework with MCP integration |
-| 2026-11-01 13:05:50 | [smsd-metal](https://pypi.org/project/smsd-metal/) | 8.2.0 | Syed Asad Rahman <asad.rahman… | 32.1 kB | Apple Metal fingerprint screening and GPU pre-screens for SMSD Pro |
-| 2026-11-01 13:07:54 | [sitetriage](https://pypi.org/project/sitetriage/) | 3.0.1 | Milos Lazic <miloslazic458@gm… | 376.4 kB | Scan a list of domains politely and rank the sites that deserve a full manual a… |
-| 2026-11-01 13:08:45 | [zecowallet](https://pypi.org/project/zecowallet/) | 0.1.0 | ZecoLabs | 2.5 MB | Zeco wallet: terminal UI (curses) backed by a Rust crypto core |
-| 2026-11-01 13:13:31 | [PygameToolsKit](https://pypi.org/project/PygameToolsKit/) | 1.1.3 |  | 10.2 kB | Bibliothèque qui dispose de divers classes, fonctions et décorateurs pour aider… |
-| 2026-11-01 13:16:33 | [mattesol](https://pypi.org/project/mattesol/) | 0.0.1 | Jacky <jacky@gmail.com> | 28.0 MB | Mattesolv package |
-| 2026-11-01 13:16:42 | [print-tortoise](https://pypi.org/project/print-tortoise/) | 0.1.0 | Konstantinos Georgiou | 21.7 kB | Draw a PDF with MuPDF, Ghostscript and Apple's engine, mark where they disagree… |
-| 2026-11-01 13:17:22 | [promptcheckup](https://pypi.org/project/promptcheckup/) | 1.0.0 | Gaille Amolong | 304.9 kB | Prove a prompt change made your AI agent better, with paired replay. |
-| 2026-11-01 13:18:46 | [ps5-remoteplay-mcp](https://pypi.org/project/ps5-remoteplay-mcp/) | 0.1.0 |  | 489.1 kB | MCP server that lets an LLM agent see and drive a stock PS5 over Remote Play |
+| 2026-11-01 13:20:55 | [leangraph](https://pypi.org/project/leangraph/) | 0.1.0 | cnmoro | 14.5 MB | Embeddable property-graph database with a Kuzu-compatible Python API and a Rust… |
+| 2026-11-01 13:26:38 | [prusie](https://pypi.org/project/prusie/) | 0.3.1 | Wenxin Jiang | 26.8 MB | SuSiE fine-mapping with a Rust solver and Python API |
+| 2026-11-01 13:26:52 | [hackproof-ai](https://pypi.org/project/hackproof-ai/) | 1.0.0 | Buildebate Team <core@buildeb… | 1.7 MB | Autonomous Zero-Trust Adversarial Engineering Engine for Meta Global AI Hackath… |
+| 2026-11-01 13:26:52 | [indiek-api](https://pypi.org/project/indiek-api/) | 0.17.0 | Adrian Ernesto Radillo | 720.8 kB | Local HTTP API serving IndieK archives to the IndieK Desktop App. |
+| 2026-11-01 13:26:57 | [beetday](https://pypi.org/project/beetday/) | 0.1.0 | Paul Tobias, Kostiantyn Lysen… | 55.2 kB | A small client for your own Workday tenant's org chart — live search, managemen… |
+| 2026-11-01 13:31:53 | [flimkit-napari](https://pypi.org/project/flimkit-napari/) | 0.1.0 | Alex Hunt <alexander.hunt@ed.… | 18.1 kB | FLIMKit lifetime fitting and phasor maps as napari layers |
+| 2026-11-01 13:32:07 | [newch](https://pypi.org/project/newch/) | 0.2.0 | The newch authors | 233.7 kB | A small machine-learning library for low-spec machines: PyTorch-style autograd,… |
+| 2026-11-01 13:32:36 | [camel-surface](https://pypi.org/project/camel-surface/) | 0.1.0 | Canada Site Ops <canada.site.… | 7.1 kB | Surface for CAMEL-AI: the link-safety layer between an AI agent and the open we… |
+| 2026-11-01 13:32:39 | [agno-surface](https://pypi.org/project/agno-surface/) | 0.1.0 | Canada Site Ops <canada.site.… | 6.9 kB | Surface for Agno: the link-safety layer between an AI agent and the open web. O… |
+| 2026-11-01 13:37:37 | [somestuff-dnsstuff](https://pypi.org/project/somestuff-dnsstuff/) | 0.2.1 | Henning Thieß <ht@xomox.cc> | 50.1 kB | DNS utilities: SPF crawler → ipset updater, Microsoft 365 21Vianet IP sync, mDN… |
+| 2026-11-01 13:37:41 | [somestuff-ucmstuff](https://pypi.org/project/somestuff-ucmstuff/) | 0.1.3 | Henning Thieß <ht@xomox.cc> | 83.6 kB | Grandstream UCM6204 IP-PBX monitor/control: WebSocket call events, HTTPS API cl… |
+| 2026-11-01 13:37:45 | [somestuff-oepnvstuff](https://pypi.org/project/somestuff-oepnvstuff/) | 0.2.3 | Henning Thieß <ht@xomox.cc> | 99.5 kB | GTFS-Realtime coverage checker: does an open GTFS-RT feed carry real-time data… |
+| 2026-11-01 13:37:49 | [somestuff-mqttwebstuff](https://pypi.org/project/somestuff-mqttwebstuff/) | 0.1.4 | Henning Thieß <ht@xomox.cc> | 136.1 kB | Live web view onto MQTT streams: FastAPI + mountable mapper plugins, Server-Sen… |
+| 2026-11-01 13:38:45 | [agentmall-sdk](https://pypi.org/project/agentmall-sdk/) | 0.0.1 | AgentMall <hi@agentmall.sh> | 2.8 kB | AgentMall SDK placeholder — https://getagentmall.com |
+| 2026-11-01 13:40:19 | [oept](https://pypi.org/project/oept/) | 0.1.1 | OEPT Contributors | 111.3 kB | Open Evidence Provenance Toolkit: content-addressed evidence objects, portable… |
+| 2026-11-01 13:40:34 | [open-evidence-verification](https://pypi.org/project/open-evidence-verification/) | 0.2.1 | Open Evidence Verification Pr… | 240.4 kB | Open Evidence Verification Protocol (OEVP) - Vendor-neutral evidence appraisal,… |
+| 2026-11-01 13:42:40 | [foca-plugins](https://pypi.org/project/foca-plugins/) | 0.1.0 | ELIXIR On-Cloud <cloud-servic… | 13.0 kB | Selections of the FOCA gateway plugins of ELIXIR On-Cloud |
+| 2026-11-01 13:43:34 | [sillybos](https://pypi.org/project/sillybos/) | 0.1.0 | Stephen Masters, Yvette Manke… | 500.4 kB | Decide before decoding: check that a file is a JPEG, PNG, TIFF or PDF within yo… |
+| 2026-11-01 13:45:14 | [madcat-os](https://pypi.org/project/madcat-os/) | 0.1.4 | Adam Ladachowski | 76.8 kB | MADCAT MCP server and CLI — stdio and Streamable HTTP transports, Typer command… |
+| 2026-11-01 13:46:48 | [ai-factory-cli](https://pypi.org/project/ai-factory-cli/) | 6.3.2 | ILAYABARATHI | 11.4 kB | Advanced AI Terminal Coding Agent with modern chat containers built by Ilayabha… |
+| 2026-11-01 13:51:15 | [supernova-photon](https://pypi.org/project/supernova-photon/) | 0.1.1 |  | 15.1 kB | Supernova Photon-1 V5 mathematical computing engine |
+| 2026-11-01 13:53:36 | [faceliveness](https://pypi.org/project/faceliveness/) | 0.1.0 | wiseman-umanah <wisemanumanah… | 78.7 MB | On-device face liveness checks (blink, head turn, mouth open) powered by a Rust… |
+| 2026-11-01 13:54:27 | [llmperfscope](https://pypi.org/project/llmperfscope/) | 0.1.0 | Yonghye Kwon | 284.2 kB | Whole-lifecycle profiler for LLM inference engines: load, warmup, prefill, deco… |
+| 2026-11-01 13:55:15 | [mypythoncommon](https://pypi.org/project/mypythoncommon/) | 0.0.2 | David Wang | 6.1 kB | Common Code |
+| 2026-11-01 13:59:42 | [izmir-mcp](https://pypi.org/project/izmir-mcp/) | 0.1.0 | zexy2 | 712.6 kB | Read-only MCP server for İzmir open city data: transit, buses, ferries, water,… |
+| 2026-11-01 14:00:30 | [meterline](https://pypi.org/project/meterline/) | 0.2.0 | Xavier Meyer | 107.5 kB | A common record format for AI usage data, with JSONL and Parquet writers. |
+| 2026-11-01 14:01:57 | [cl1codes](https://pypi.org/project/cl1codes/) | 0.1.0 | Ayyub | 449.8 kB | A Python package to quickly access Computer Laboratory - I (BE AI&DS) practical… |
+| 2026-11-01 14:03:13 | [meterline-anthropic](https://pypi.org/project/meterline-anthropic/) | 0.2.0 | Xavier Meyer | 142.6 kB | Reads the Anthropic Enterprise Analytics API and emits meterline records. |
+| 2026-11-01 14:05:29 | [meterline-anthropic-admin](https://pypi.org/project/meterline-anthropic-admin/) | 0.1.0 | Xavier Meyer | 109.8 kB | Reads the Anthropic Admin Usage and Cost API of a Console organisation and emit… |
+| 2026-11-01 14:07:36 | [meterline-litellm](https://pypi.org/project/meterline-litellm/) | 0.1.0 | Xavier Meyer | 117.5 kB | Reads a LiteLLM proxy's admin API and emits meterline records. |
+| 2026-11-01 14:09:54 | [meterline-copilot](https://pypi.org/project/meterline-copilot/) | 0.1.0 | Xavier Meyer | 139.3 kB | Reads GitHub Copilot usage reports, billing and seats and emits meterline recor… |
+| 2026-11-01 14:11:55 | [meterline-sim](https://pypi.org/project/meterline-sim/) | 0.1.0 | Xavier Meyer | 229.7 kB | Generates an invented organisation and its AI usage as meterline silver records… |
+| 2026-11-01 14:13:44 | [amplitrim](https://pypi.org/project/amplitrim/) | 0.1.0 | Payton (Tung On) Yau | 129.9 kB | Recommends DADA2 truncLenF, truncLenR and maxEE for paired-end amplicon reads b… |
