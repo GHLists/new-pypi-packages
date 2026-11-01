@@ -8,42 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 09:18 UTC
+## Latest list — 2026-11-01 10:18 UTC
 
-New packages created between 2026-11-01 08:19 UTC and 2026-11-01 09:18 UTC.
+New packages created between 2026-11-01 09:18 UTC and 2026-11-01 10:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-01T09-18-13-97712Z.csv)
+[Full CSV](data/new-packages-2026-11-01T10-18-08-397268Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-01 08:19:31 | [rv565](https://pypi.org/project/rv565/) | 1.1.0 | Ayushman Bhattacharya <ayushm… | 23.3 kB | Read, write and check RV565 frame-independent RGB565 video files; Pillow plugin… |
-| 2026-11-01 08:19:48 | [faradars-mcp](https://pypi.org/project/faradars-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 147.2 kB | Unofficial read-only MCP server for Faradars (faradars.org), the Persian online… |
-| 2026-11-01 08:20:42 | [time-ir-mcp](https://pypi.org/project/time-ir-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 136.0 kB | Unofficial read-only MCP server for Time.ir, the Iranian calendar: Jalali, Greg… |
-| 2026-11-01 08:21:25 | [context-archive](https://pypi.org/project/context-archive/) | 1.0.0 | Context Archive Contributors | 169.1 kB | Portable AI Project Context Compiler with incremental change journaling |
-| 2026-11-01 08:22:14 | [mihomo-userctl](https://pypi.org/project/mihomo-userctl/) | 1.5.0 | mihomo-userctl maintainers | 1.2 MB | Agent-first user-level Mihomo manager for shared Linux servers |
-| 2026-11-01 08:22:35 | [alibaba-ir-mcp](https://pypi.org/project/alibaba-ir-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 178.6 kB | Unofficial read-only MCP server for Alibaba (alibaba.ir), the Iranian travel si… |
-| 2026-11-01 08:24:15 | [rexprun](https://pypi.org/project/rexprun/) | 0.1.66 | REXP contributors | 372.0 kB | Research Experiment Platform: a recoverable, reproducible experiment worker wit… |
-| 2026-11-01 08:25:11 | [rusty-git](https://pypi.org/project/rusty-git/) | 0.2.1 | Framework M <dev@framework-m.… | 15.1 MB | High-speed pure Rust Git engine (gix + git2) for Python |
-| 2026-11-01 08:25:36 | [jiami](https://pypi.org/project/jiami/) | 0.0.1 | noahwzy | 5.5 kB | 简单的数字加密/解密工具库（数字与字母映射、追加随机混淆） |
-| 2026-11-01 08:29:42 | [eghamat24-mcp](https://pypi.org/project/eghamat24-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 153.2 kB | Unofficial read-only MCP server for Eghamat24 (eghamat24.com), Iranian hotel bo… |
-| 2026-11-01 08:31:06 | [dpdpkit-django](https://pypi.org/project/dpdpkit-django/) | 0.0.1a0 | dpdpkit maintainers | 13.1 kB | Django app for dpdpkit: DPDP consent, notices, rights requests, retention and a… |
-| 2026-11-01 08:31:21 | [dpdpkit-server](https://pypi.org/project/dpdpkit-server/) | 0.0.1a0 | dpdpkit maintainers | 13.3 kB | Self-hosted dpdpkit server: the DPDP consent and rights API as a Docker image,… |
-| 2026-11-01 08:31:23 | [dpdpkit-pii](https://pypi.org/project/dpdpkit-pii/) | 0.0.1a0 | dpdpkit maintainers | 13.3 kB | Find personal data in your databases and files: Indian PII recognizers (Aadhaar… |
-| 2026-11-01 08:32:37 | [varzesh3-mcp](https://pypi.org/project/varzesh3-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 184.0 kB | Unofficial read-only MCP server for Varzesh3 (varzesh3.com), the Iranian sports… |
-| 2026-11-01 08:33:25 | [rrk-mcp](https://pypi.org/project/rrk-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 135.2 kB | Unofficial read-only MCP server for the Official Gazette of Iran (rrk.ir, روزنا… |
-| 2026-11-01 08:33:52 | [AItoy](https://pypi.org/project/AItoy/) | 0.5.0 | noahwzy | 10.5 kB | 基于Tri-gram模型的简易AI对话玩具库（内置动物常识知识库） |
-| 2026-11-01 08:36:02 | [rustorb-idl](https://pypi.org/project/rustorb-idl/) | 0.1.0 |  | 155.5 kB | IDL code generator for rustorb |
-| 2026-11-01 08:36:02 | [rustorb-omniorb-compat](https://pypi.org/project/rustorb-omniorb-compat/) | 0.1.0 |  | 22.9 kB | omniORBpy compatibility layer for rustorb: `from omniORB import CORBA` on rusto… |
-| 2026-11-01 08:37:56 | [docuapi](https://pypi.org/project/docuapi/) | 0.1.0 | DocuAPI | 31.1 kB | Python SDK for DocuAPI document conversion. |
-| 2026-11-01 08:39:55 | [rubipy](https://pypi.org/project/rubipy/) | 0.1.0 | iran_com | 18.6 kB | A modern Python library for building Rubika bots |
-| 2026-11-01 08:43:23 | [put-input](https://pypi.org/project/put-input/) | 0.1.0 | noahwzy | 5.9 kB | 极简提示输入工具库（输入、输出、逐字慢速打印） |
-| 2026-11-01 08:48:44 | [casper-astro-tools](https://pypi.org/project/casper-astro-tools/) | 0.1.0 | Alireza Molaeinezhad, Nichola… | 498.6 kB | Open astronomy tools for AI agents and scripts: NASA ADS and arXiv, SIMBAD/NED/… |
-| 2026-11-01 08:49:12 | [sqlload](https://pypi.org/project/sqlload/) | 0.0.1 | Chio Labs | 2.1 kB | SQL data loading tooling. Under development. |
-| 2026-11-01 08:49:14 | [sqlload-cli](https://pypi.org/project/sqlload-cli/) | 0.0.1 | Chio Labs | 2.2 kB | Native command-line executable for sqlload. Under development. |
-| 2026-11-01 08:50:04 | [anyray-agent](https://pypi.org/project/anyray-agent/) | 0.1.0 |  | 38.8 kB | Keeps an agent answering when its Anyray gateway is unreachable: an httpx2 tran… |
-| 2026-11-01 09:01:09 | [skill-sentry-cli](https://pypi.org/project/skill-sentry-cli/) | 2.0.0 | Team SkillSentry | 610.0 kB | A context-aware firewall for the agent skill supply chain with Poisoned Well ac… |
-| 2026-11-01 09:02:34 | [auditloop](https://pypi.org/project/auditloop/) | 0.2.0 | cloudrose | 247.5 kB | Agent runtime with a ledger: observable, replayable, provable coding-agent harn… |
-| 2026-11-01 09:02:42 | [grobx-sage](https://pypi.org/project/grobx-sage/) | 0.73.3 |  | 38.6 kB | Reduced Gröbner bases of Sage's polynomial ideals, computed by grobx |
-| 2026-11-01 09:07:17 | [clovers-agent-life-extensions](https://pypi.org/project/clovers-agent-life-extensions/) | 0.3.0 | KarisAya <karisaya@foxmail.co… | 113.3 kB |  |
-| 2026-11-01 09:07:48 | [kavach-ai](https://pypi.org/project/kavach-ai/) | 1.2.0 | Raja Rajak (@rajrajak99) | 63.0 kB | Autonomous Zero-Noise Code Security Inspector & 1-Click Surgical Patcher |
-| 2026-11-01 09:15:10 | [testament](https://pypi.org/project/testament/) | 0.1.0 | Testament | 82.8 kB | Craft reliable tests with confident insights. |
+| 2026-11-01 09:21:43 | [laman](https://pypi.org/project/laman/) | 0.0.1 |  | 285.5 kB | A deterministic 2D geometric constraint solver in pure Rust. Early release: the… |
+| 2026-11-01 09:23:26 | [bitrix24-mcp-server](https://pypi.org/project/bitrix24-mcp-server/) | 0.1.0 | Askhat Akhtanov | 34.9 kB | MCP server for Bitrix24: CRM deals, contacts, leads and tasks for AI agents |
+| 2026-11-01 09:29:15 | [opencode-samcp](https://pypi.org/project/opencode-samcp/) | 0.0.1 | Amir Daraby | 92.3 kB | Sub-agent MCP: let Devin, Codex, Claude Code and other agents spawn opencode se… |
+| 2026-11-01 09:29:44 | [docviews](https://pypi.org/project/docviews/) | 1.0.0 | Vikas Maurya | 332.4 kB | Read .docx in original, accepted, and markup views; author common content with… |
+| 2026-11-01 09:31:30 | [nz-openbank-mcp](https://pypi.org/project/nz-openbank-mcp/) | 0.1.1 | nz-openbank-mcp contributors | 103.6 kB | Unofficial MCP server for the Akahu open-finance API (New Zealand). Personal Ap… |
+| 2026-11-01 09:31:36 | [iotpot](https://pypi.org/project/iotpot/) | 0.1.1 | XIN LIU | 6.3 kB | basic MQTT and CoAP client-server helper |
+| 2026-11-01 09:32:43 | [duetmachines](https://pypi.org/project/duetmachines/) | 0.1.0 |  | 20.6 kB | Send production conversations to Duet Machines. |
+| 2026-11-01 09:32:44 | [expense-local](https://pypi.org/project/expense-local/) | 0.0.1b4425 | Circles | 18.9 kB | PyPI expense-local Python Package owned by Circlez.ai |
+| 2026-11-01 09:37:18 | [DefStream-RabbitMQ](https://pypi.org/project/DefStream-RabbitMQ/) | 0.1.23 | Heo Yongseon | 430.6 kB | Synchronous message processing with pluggable broker adapters |
+| 2026-11-01 09:37:18 | [clawback](https://pypi.org/project/clawback/) | 2.0.0 | Clawback contributors | 922.9 kB | Clawback: claw back your inbox and your money. Local, privacy-first email clean… |
+| 2026-11-01 09:37:19 | [DefStream-Redis](https://pypi.org/project/DefStream-Redis/) | 0.1.23 | Heo Yongseon | 421.9 kB | Synchronous message processing with pluggable broker adapters |
+| 2026-11-01 09:37:26 | [DefPixel-PostgreSQL](https://pypi.org/project/DefPixel-PostgreSQL/) | 0.1.5 | Heo Yongseon | 68.8 kB | The Python toolkit to define data connections, design data models, and dive int… |
+| 2026-11-01 09:39:33 | [zagred](https://pypi.org/project/zagred/) | 0.1.0 | Muhammad Arief Minardi | 74.0 kB | Desktop apps from Python backends and web frontends, built with pywebview and N… |
+| 2026-11-01 09:48:05 | [year-calculator](https://pypi.org/project/year-calculator/) | 0.1.0 |  | 3.5 kB | A simple Python year calculator |
+| 2026-11-01 09:48:44 | [smt16-quantkit](https://pypi.org/project/smt16-quantkit/) | 0.3.0 |  | 288.5 kB | Read-only quantitative investment research toolkit |
+| 2026-11-01 09:49:18 | [tuxready](https://pypi.org/project/tuxready/) | 0.1.1 | Hanocybous | 341.6 kB | Check whether your Windows apps and games will work on Linux before you switch. |
+| 2026-11-01 09:56:28 | [breachguard](https://pypi.org/project/breachguard/) | 0.1.0 |  | 88.0 kB | Empower Your Security Testing Quickly — adversarial testing for AI agents with… |
+| 2026-11-01 09:57:17 | [dirigent-contrib](https://pypi.org/project/dirigent-contrib/) | 0.28.0 |  | 128.3 kB | Block packs for dirigent that reach outside systems: Chap and the open climate… |
+| 2026-11-01 09:59:18 | [manhwa-compressor](https://pypi.org/project/manhwa-compressor/) | 0.1.0 | Jayprakash Pal <jaypal1046@gm… | 45.5 kB | Ultra-Fast Manhwa & Comic Compression Engine (CBZ & PDF) with SIMD Acceleration… |
+| 2026-11-01 10:03:18 | [tart-msv4](https://pypi.org/project/tart-msv4/) | 0.1.1 | Landman Bester | 39.2 kB | xarray backend exposing TART visibility HDF5 files as Measurement Set v4 DataTr… |
+| 2026-11-01 10:03:47 | [guardkit](https://pypi.org/project/guardkit/) | 0.2.0 | Ashish Dhillon | 78.3 kB | Offline guardrails for LLM apps: PII (incl. Aadhaar/PAN), secrets, prompt-injec… |
+| 2026-11-01 10:08:23 | [agentboxes](https://pypi.org/project/agentboxes/) | 0.2.0 |  | 10.5 kB | Python client for an agentbox server: sandboxes for AI agents on your own Linux… |
+| 2026-11-01 10:08:56 | [muninn-ai](https://pypi.org/project/muninn-ai/) | 0.2.0 |  | 1.5 MB | Always-on personal assistant: observes, plans, nudges |
+| 2026-11-01 10:13:07 | [locus-assistant](https://pypi.org/project/locus-assistant/) | 1.0.3 | Locus Contributors | 21.2 MB | Locus — modular AI assistant backend with composable intelligence primitives |
+| 2026-11-01 10:14:44 | [canvas-pull](https://pypi.org/project/canvas-pull/) | 2.4.0 | Mirage_ <gaoxuran111@gmail.co… | 75.3 kB | Sync your Canvas LMS course files: download only what changed and see what inst… |
+| 2026-11-01 10:15:53 | [titlemark](https://pypi.org/project/titlemark/) | 1.2.0 | Sergei Korneev (AI coded) | 117.0 kB | Titlemark — give every document its true name: "Author - Title [year]" |

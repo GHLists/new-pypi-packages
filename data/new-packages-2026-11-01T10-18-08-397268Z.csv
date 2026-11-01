@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T09:21:43Z,laman,0.0.1,,MIT OR Apache-2.0,285502,A deterministic 2D geometric constraint solver in pure Rust. Early release: the generic rigidity count of bar frameworks (Laman's theorem)
+2026-11-01T09:23:26Z,bitrix24-mcp-server,0.1.0,Askhat Akhtanov,MIT,34878,"MCP server for Bitrix24: CRM deals, contacts, leads and tasks for AI agents"
+2026-11-01T09:29:15Z,opencode-samcp,0.0.1,Amir Daraby,MIT,92302,"Sub-agent MCP: let Devin, Codex, Claude Code and other agents spawn opencode sessions to do work"
+2026-11-01T09:29:44Z,docviews,1.0.0,Vikas Maurya,MIT,332376,"Read .docx in original, accepted, and markup views; author common content with zero runtime dependencies."
+2026-11-01T09:31:30Z,nz-openbank-mcp,0.1.1,nz-openbank-mcp contributors,Apache-2.0,103591,"Unofficial MCP server for the Akahu open-finance API (New Zealand). Personal Apps, read-by-default, write-with-consent."
+2026-11-01T09:31:36Z,iotpot,0.1.1,XIN LIU,MIT,6260,basic MQTT and CoAP client-server helper
+2026-11-01T09:32:43Z,duetmachines,0.1.0,,,20610,Send production conversations to Duet Machines.
+2026-11-01T09:32:44Z,expense-local,0.0.1b4425,Circles,MIT,18933,PyPI expense-local Python Package owned by Circlez.ai
+2026-11-01T09:37:18Z,DefStream-RabbitMQ,0.1.23,Heo Yongseon,,430605,Synchronous message processing with pluggable broker adapters
+2026-11-01T09:37:18Z,clawback,2.0.0,Clawback contributors,MIT,922941,"Clawback: claw back your inbox and your money. Local, privacy-first email cleanup: safe unsubscribe, spam-like sender blocking, paid-subscription finder and savings."
+2026-11-01T09:37:19Z,DefStream-Redis,0.1.23,Heo Yongseon,,421945,Synchronous message processing with pluggable broker adapters
+2026-11-01T09:37:26Z,DefPixel-PostgreSQL,0.1.5,Heo Yongseon,,68759,"The Python toolkit to define data connections, design data models, and dive into your data"
+2026-11-01T09:39:33Z,zagred,0.1.0,Muhammad Arief Minardi,MIT,73983,"Desktop apps from Python backends and web frontends, built with pywebview and Nuitka"
+2026-11-01T09:48:05Z,year-calculator,0.1.0,,,3471,A simple Python year calculator
+2026-11-01T09:48:44Z,smt16-quantkit,0.3.0,,Apache-2.0,288464,Read-only quantitative investment research toolkit
+2026-11-01T09:49:18Z,tuxready,0.1.1,Hanocybous,MIT,341554,Check whether your Windows apps and games will work on Linux before you switch.
+2026-11-01T09:56:28Z,breachguard,0.1.0,,MIT,87982,Empower Your Security Testing Quickly — adversarial testing for AI agents with tool interception
+2026-11-01T09:57:17Z,dirigent-contrib,0.28.0,,LicenseRef-Proprietary,128308,Block packs for dirigent that reach outside systems: Chap and the open climate service.
+2026-11-01T09:59:18Z,manhwa-compressor,0.1.0,Jayprakash Pal <jaypal1046@gmail.com>,MIT,45472,Ultra-Fast Manhwa & Comic Compression Engine (CBZ & PDF) with SIMD Acceleration and L3-Cache Tiling
+2026-11-01T10:03:18Z,tart-msv4,0.1.1,Landman Bester,MIT,39156,xarray backend exposing TART visibility HDF5 files as Measurement Set v4 DataTrees
+2026-11-01T10:03:47Z,guardkit,0.2.0,Ashish Dhillon,MIT,78258,"Offline guardrails for LLM apps: PII (incl. Aadhaar/PAN), secrets, prompt-injection classifier + rules, policy YAML, CLI"
+2026-11-01T10:08:23Z,agentboxes,0.2.0,,MIT,10549,Python client for an agentbox server: sandboxes for AI agents on your own Linux box
+2026-11-01T10:08:56Z,muninn-ai,0.2.0,,Apache-2.0,1493378,"Always-on personal assistant: observes, plans, nudges"
+2026-11-01T10:13:07Z,locus-assistant,1.0.3,Locus Contributors,Apache-2.0,21171549,Locus — modular AI assistant backend with composable intelligence primitives
+2026-11-01T10:14:44Z,canvas-pull,2.4.0,Mirage_ <gaoxuran111@gmail.com>,MIT,75289,"Sync your Canvas LMS course files: download only what changed and see what instructors added, modified, moved or deleted."
+2026-11-01T10:15:53Z,titlemark,1.2.0,Sergei Korneev (AI coded),MIT,117026,"Titlemark — give every document its true name: ""Author - Title [year]"""
