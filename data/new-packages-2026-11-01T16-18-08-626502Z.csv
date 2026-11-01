@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T15:20:01Z,epita-hari-prasanth-markets,0.1.0,hariprasanth02,,6164,Add your description here
+2026-11-01T15:22:30Z,lzsuite,0.1.0,Daniel Estévez Moya,MIT,41546,Array-oriented Lempel–Ziv analysis and signal discretization.
+2026-11-01T15:22:35Z,piihush,0.1.0,aziaya,MIT,6384553,"High-speed PII and secret masking for RAG and LLM pipelines, written in Rust"
+2026-11-01T15:22:50Z,mcp-audprobe,1.0.0,Mustafa ÖZTÜRK,MIT,44692,"Actively test whether an MCP server you own validates bearer-token audience (aud), issuer (iss) and expiry (exp)."
+2026-11-01T15:28:27Z,cloud-asset-mcp,2.1.0,,,68071,精简版只读 MCP Server：查询资产的位置、使用方、状态和配件
+2026-11-01T15:28:59Z,nltk-extras,0.1.0,,,19367,Add your description here
+2026-11-01T15:29:21Z,mitofi,1.0.0,"Vishal Sah, Poojitha Sai Potharaju, Krishnan Harinivas Harshan",MIT,44687001,"A continuous, calibrated mitochondrial fragmentation index for 2D confocal images"
+2026-11-01T15:29:47Z,presto-ai-dash,0.50.0,,MIT,1089447,"Shows your AI usage and quota limits on a Pimoroni Presto display: a small daemon, an admin page and the device app."
+2026-11-01T15:30:38Z,sawoneai,0.0.1,,Apache-2.0,89048,"Security scanner for AI and agentic AI applications: honest verdicts, offline knowledge base."
+2026-11-01T15:33:26Z,randomclassifier,0.1.5,,,12980366,"Deep learning laboratory programs, datasets, and reusable classifiers"
+2026-11-01T15:35:05Z,printables-mcp,0.1.0,Fedor Ratschew <feodor.ra@me.com>,MIT,152024,"MCP server for Printables.com: search 3D models, read model cards, list files and get download links"
+2026-11-01T15:36:03Z,fynepdf,0.1.0,FynePDF <support@fynepdf.com>,MIT,30938,"The FynePDF API for Python: compress, convert, OCR, redact, merge, split and generate PDFs, and read them with AI."
+2026-11-01T15:37:13Z,gm-extract,1.0.0,NazarHK,MIT,31408,"Extract sprites, tilesets, fonts, audio and strings from GameMaker data.win files"
+2026-11-01T15:46:53Z,lineage-ml,0.2.0,Ryan Baker,Apache-2.0,308429,"git for a model that keeps learning: un-freeze a Hugging Face model, keep every life it lives as a frozen LoRA adapter, gate what is kept, diff what a life learned, replay the whole history."
+2026-11-01T15:48:26Z,taktoria-sdk,0.1.1,Taktoria <support@taktoria.com>,MIT,864682,Python SDK for the Taktoria API.
+2026-11-01T15:49:05Z,hashibuild,0.1.0,Ville Vainio <vivainio@gmail.com>,MIT,3221611,"Content hash for a git source subtree plus its lock files, with hash-keyed build caching"
+2026-11-01T15:52:31Z,wagefinder,0.1.0,,,24282,Command-line client and MCP server for US prevailing-wage data from the WageFinder API
+2026-11-01T15:54:07Z,agentassure-qa,0.1.1,,Proprietary,468630,"pytest-based QA framework for enterprise AI agents: routing, tools, state changes, permissions, and LLM metrics."
+2026-11-01T15:54:08Z,AgentAssure-qa-agentforce,0.1.2,,Proprietary,37827,"Salesforce Agentforce adapter for AgentAssure: Agent API sessions, SOQL state diffs, persona permissions, native test integration."
+2026-11-01T15:58:28Z,origin-ilhae-mcp,0.1.0,GAEBAL AI,MIT,154996,Windows용 OriginLab Origin(2021+) MCP 서버 — 한국 환경·물리/전자공학 워크플로우 최적화
+2026-11-01T15:59:56Z,softqp,0.1.0,Felipe Santibáñez-Leal,Apache-2.0 AND MIT AND BSD-3-Clause,1059277,Native soft-constrained quadratic programs with inspectable penalty semantics
+2026-11-01T16:03:29Z,ansible-yandex-cloud-inventory-fixed,3.0.4,morgenvor,MIT,75744,Ansible dynamic inventory plugin for Yandex Cloud
+2026-11-01T16:04:05Z,depquiet,0.3.0,Samuel Rojas <sarojas123@icloud.com>,MIT,95386,Cut through vulnerability alert noise. Tells you which CVEs actually matter.
+2026-11-01T16:04:28Z,matteso,0.0.1,Jacky <jacky@gmail.com>,MIT,14560691,Mattesolv package
+2026-11-01T16:05:32Z,meshwire,0.5.0a1,Meshwire contributors,AGPL-3.0-or-later,467017,"An independent MCP server for Blender: modeling, materials, animation, AI 3D generation, and MSFS content"
+2026-11-01T16:05:51Z,invengo-rfid,0.1.1,Alimustoofaa,MIT,37086,Python library and CLI for Invengo RAIN RFID (UHF EPC Gen2) fixed readers over TCP
+2026-11-01T16:08:17Z,leakmap,0.1.0,Trakshan Mishra,Apache-2.0,584927,"See what personal data your app sends to third parties, and fail CI when a new flow appears."
+2026-11-01T16:09:55Z,shortsflow,0.1.0,,MIT,21342115,"Self-hosted Opus Clip alternative: long videos to captioned 9:16 Shorts (Whisper, face tracking, active-speaker cuts, Remotion captions). CLI, REST API and MCP server."
+2026-11-01T16:10:49Z,gb-net-lib,0.1.0,,MIT,16735,A lightweight autograd engine and neural network library built from scratch using NumPy
+2026-11-01T16:11:20Z,qiskit-maestro,0.1.0,Qoro Quantum <team@qoroquantum.de>,GPL-3.0-or-later,109166,"Qiskit backend, Sampler and Estimator for the Maestro quantum simulator by Qoro Quantum"
+2026-11-01T16:13:26Z,PyRAMObjects,0.1.0,lolololox,MIT,9113,Safe Python API for ImDisk RAM disks on Windows plus in-memory objects
+2026-11-01T16:13:32Z,reflex-mcphost,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,MIT,553496,"An open MCP host built with Reflex: connect MCP servers, browse and invoke their tools, resources and prompts, render MCP Apps, and expose them to agents behind a consent layer."
+2026-11-01T16:14:51Z,lombokcsv,1.1.0,codinglombok,Apache-2.0,21683,"RFC 4180 CSV parser with type detection, safe HTML tables, JSON export and GROUP BY aggregation. Pure Python, zero dependencies. Part of the Lombok Ecosystem."
+2026-11-01T16:15:22Z,fleetmesh-protocols,0.1.0,,CC0-1.0,128790,"Host-side FleetMesh protocol stores and HTTP route handlers (Textile, DM, Grasp, Arcade, Circles)"
+2026-11-01T16:15:25Z,fleetmesh-node,0.2.0,,CC0-1.0,1034030,"meshnode: the first fleetmesh node, built on the fleetmesh-core reference"
+2026-11-01T16:15:33Z,langchain-odile,0.1.0,Odile Labs <hello@odilelabs.com>,MIT,23040,LangChain tools for Odile Direct
+2026-11-01T16:15:34Z,contexttax,0.1.0,Adam Danielsson,MIT,15423,Where your Claude Code usage actually goes. Reads local logs only.
+2026-11-01T16:15:51Z,vidgrab-studio,4.1.0,coherent17,MIT,28027079,"Download videos from YouTube and many other sites, then edit them in a Studio with subtitles, music and AI captions — all on your own computer."
