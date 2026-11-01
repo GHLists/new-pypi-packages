@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T18:16:19Z,rboto-connecthealth,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,107382209,"rboto: async-only, typed Python client for Amazon Connect Health, powered by Rust. Alpha preview."
+2026-11-01T18:16:31Z,rboto-dynamodb,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,138964611,"rboto: async-only, typed Python client for Amazon DynamoDB, powered by Rust. Alpha preview."
+2026-11-01T18:16:42Z,rboto-guardduty,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,160310541,"rboto: async-only, typed Python client for Amazon GuardDuty, powered by Rust. Alpha preview."
+2026-11-01T18:16:52Z,rboto-lambda,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,151630180,"rboto: async-only, typed Python client for AWS Lambda, powered by Rust. Alpha preview."
+2026-11-01T18:17:04Z,rboto-pipes,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,108061879,"rboto: async-only, typed Python client for Amazon EventBridge Pipes, powered by Rust. Alpha preview."
+2026-11-01T18:17:14Z,rboto-polly,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,104103100,"rboto: async-only, typed Python client for Amazon Polly, powered by Rust. Alpha preview."
+2026-11-01T18:17:24Z,rboto-qbusiness,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,150901246,"rboto: async-only, typed Python client for Amazon Q Business, powered by Rust. Alpha preview."
+2026-11-01T18:17:36Z,rboto-scheduler,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,102870941,"rboto: async-only, typed Python client for Amazon EventBridge Scheduler, powered by Rust. Alpha preview."
+2026-11-01T18:17:52Z,rboto-secrets-manager,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,107329843,"rboto: async-only, typed Python client for AWS Secrets Manager, powered by Rust. Alpha preview."
+2026-11-01T18:19:35Z,mcpgraphy,0.1.0,Hemanth Dhanasekaran,MIT,211800,"Learned, uncertainty-aware behavior graphs for MCP tools: probe safely, map what tools really do, offer state-aware actions"
+2026-11-01T18:20:05Z,rboto-sns,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,110811443,"rboto: async-only, typed Python client for Amazon SNS, powered by Rust. Alpha preview."
+2026-11-01T18:20:06Z,rboto-sfn,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,118103333,"rboto: async-only, typed Python client for AWS Step Functions, powered by Rust. Alpha preview."
+2026-11-01T18:20:07Z,rboto-sts,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,100386430,"rboto: async-only, typed Python client for AWS STS, powered by Rust. Alpha preview."
+2026-11-01T18:20:10Z,rboto-sesv2,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,153623913,"rboto: async-only, typed Python client for Amazon SES V2, powered by Rust. Alpha preview."
+2026-11-01T18:24:09Z,cellgraph,0.1.0,Fangchen Li,Apache-2.0,74738,"The cell graph of a notebook or script: annotations with a host-supplied vocabulary, analysis, the DAG, and the keys that say whether a cell must run."
+2026-11-01T18:25:03Z,visync,1.0.1,hxmbl,MIT,179060,Ventoy ISO Synchronization Tool
+2026-11-01T18:29:12Z,tktop-tui,0.3.3,AlexKay28,"MIT License Copyright (c) 2026 AlexKay28 Permission is hereby granted, free of charge, to any perso…",62963,"Live htop-style TUI dashboard for AI token consumption across coding agents (OpenCode, Claude Code, Codex, generic JSONL). Python wrapper that launches the tktop TUI via Bun."
+2026-11-01T18:33:39Z,pypokedex-toolkit,1.0.0,PyPokedex contributors,MIT,11291,A lightweight Python helper library for Pokémon data.
+2026-11-01T18:35:02Z,missmdatools,0.0.1,Duverier DJIFACK ZEBAZE,,4481975,Python library for missing values imputation using Multivariate Data Analysis (MDA) methods
+2026-11-01T18:36:12Z,spawnr,0.1.0,KD4Tech LLC <pypi@spawnr.app>,MIT,549440,CLI for the Spawnr task tracker
+2026-11-01T18:36:15Z,spawnr-cli,0.1.0,KD4Tech LLC <pypi@spawnr.app>,MIT,2056,"Alias for spawnr, the Spawnr CLI"
+2026-11-01T18:37:47Z,openloggernet,0.1.0,Utrecht University,MIT,76901,"Open replacement for parts of the Campbell Scientific LoggerNet toolchain: PakBus/BMP5 client, compiler runner and logger CLIs"
+2026-11-01T18:37:54Z,opencrbasic,1.0.0,Utrecht University,MIT,1346331,"Open-source re-implementation of the Campbell Scientific CRBasic pre-compilers (CR6, CR1000X, CR300, CR350)"
+2026-11-01T18:39:17Z,pacificdb,1.2.0rc2,PacificDB contributors,Apache-2.0,57465,Database-first PacificDB Community client with verified pooled connections and streaming transfers
+2026-11-01T18:39:40Z,mockcrowd,0.1.0,Phani Sai Munipalli,Apache-2.0,799721,"Validate your product idea before you build: hundreds of AI personas, grounded in real posts, debate your idea."
+2026-11-01T18:39:42Z,volna-skillcheck,0.3.0,volna-skillcheck contributors,MIT,65364,Blind comparison of agent instruction revisions on recorded cases
+2026-11-01T18:41:16Z,orivane,0.1.0,orven,MIT,11782,Orivane is a python package that makes modifing architecture of an already pretrained model easier.
+2026-11-01T18:41:58Z,suicide,1.0.0,MrHacker-X,MIT,122992,"A beautiful offline terminal companion for hope, resilience and fresh perspective - quotes for your toughest moments."
+2026-11-01T18:42:15Z,fluid-build,0.0.1,,Apache-2.0,2714,"Alias for data-product-forge, the FLUID Forge CLI. Install data-product-forge."
+2026-11-01T18:43:31Z,boxganizer,0.1.0,Philippe Biondi <phil@secdev.org>,GPLv2,917875,Personal knowledge management where everything is a box.
+2026-11-01T18:50:34Z,uhdeploy,0.1.0,Abdullah Ahmad,MIT,44812,"Universal Local-to-VPS automated deployment CLI (SSH/SFTP, FTP, Docker, Local Build Pipelines)"
+2026-11-01T18:52:34Z,citegraph,0.2.1,"Yabra Muvdi <yabran.muvdi@gmail.com>, María Gutiérrez Ruan <maria.gutierrezruan@unil.ch>",MIT,994236,Build and analyze citation and author networks from academic PDFs with LLM-assisted extraction.
+2026-11-01T18:53:20Z,avdm,0.2.2,,,90165,Audiovisual Scene Data Model: one canonical scene document and its serializers
+2026-11-01T18:53:53Z,curu-vision,0.9.0,,MIT,2563955,Shared model adapters and media primitives for the curu ecosystem
+2026-11-01T18:57:42Z,perpbrain-read,0.1.0,PERPBRAIN <info@perpbrain.com>,MIT,144425,PERPBRAIN read and simulation package. Must not import order or guard modules.
+2026-11-01T18:59:43Z,oev-conformance-vectors,0.1.0,Open Evidence Verification Protocol Contributors,Apache-2.0,133749,"Language-independent conformance vector set for OEVP verifiers: inputs, expected results, and a runner with a documented external-verifier contract"
+2026-11-01T18:59:57Z,thymus-memory,0.1.0,Safal Gupta <safal.gupta2023@vitstudent.ac.in>,MIT,202677,"Memory poisoning protection for AI agents that keeps real updates flowing: keep, label and disclose contested claims instead of blocking them."
+2026-11-01T19:04:11Z,reflet,0.1.0,r-seize,BSD-3-Clause,76916,A bidirectional data transformation engine with built-in provenance.
+2026-11-01T19:05:13Z,machinome-node-cadquery,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,30854,The CadQuery node type of Machinome
+2026-11-01T19:05:27Z,machinome-node-freecad,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,53250,"The FreeCAD node type of Machinome: a native FreeCAD assembly, read by FreeCAD"
+2026-11-01T19:05:41Z,machinome-node-jscad,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,30553,The JSCAD node type of Machinome
+2026-11-01T19:05:56Z,machinome-node-molejo,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,31932,"The molejo node type of Machinome, for flexible parts"
+2026-11-01T19:06:28Z,prefit,0.1.0,hkln4,MIT,227546,"Decision-driven EDA for tabular supervised learning: evidence-backed, verifiable pre-training decisions."
+2026-11-01T19:06:49Z,leduftw-subtitler,1.0.0,,MIT,97894,"Subtitles for any video, in any language."
+2026-11-01T19:08:40Z,wred-lifespan,0.1.0,Harrison Erd <harrisonerd@gmail.com>,,19957,ASGI startup and shutdown hooks for Wred
+2026-11-01T19:09:29Z,sphinx-fplotlib-gallery,0.1.0,fplotlib maintainers,MIT,28114,Sphinx-Gallery support for Fortran examples that plot with fplotlib
+2026-11-01T19:13:09Z,expml,0.1.0,,,7910,Add your description here
+2026-11-01T19:15:51Z,chancellor,1.0.0,Israel Lee Armstead,"Proprietary — hackathon build, see Official Rules (Oct 26) for IP terms",252875,"Chancellor — governance for long-running agents on the Meta Model API. Work runs as a durable task graph that survives crashes; a separate judge model grades every consequential output; and spending,…"

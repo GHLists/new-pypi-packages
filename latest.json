@@ -1,27 +1,41 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-11-01T17:19:32.076763Z",
-    "path": "data/new-packages-2026-11-01T18-19-29-142186Z.csv",
-    "to": "2026-11-01T18:19:29.142186Z"
+    "count": 48,
+    "from": "2026-11-01T18:19:29.142186Z",
+    "path": "data/new-packages-2026-11-01T19-19-34-670156Z.csv",
+    "to": "2026-11-01T19:19:34.670156Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-01T19:18:45Z",
+      "package": "autoresearch-swarm",
+      "since": "2026-11-01T18:19:29.142186Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-01T19:17:58Z",
+      "package": "curu-caption",
+      "since": "2026-11-01T18:19:29.142186Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-01T15:58:21Z",
       "package": "gbnet-lib",
       "since": "2026-11-01T15:19:39.260273Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-01T17:37:47Z",
       "package": "github-action-ark-oauth-pypi",
       "since": "2026-11-01T17:19:32.076763Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-01T16:07:45Z",
       "package": "meine-library",
       "since": "2026-11-01T15:19:39.260273Z",
@@ -29,76 +43,13 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-01T18:16:19Z",
-      "package": "rboto-connecthealth",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T18:16:31Z",
-      "package": "rboto-dynamodb",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T18:16:42Z",
-      "package": "rboto-guardduty",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T18:16:52Z",
-      "package": "rboto-lambda",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T18:17:04Z",
-      "package": "rboto-pipes",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T18:17:14Z",
-      "package": "rboto-polly",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T18:17:24Z",
-      "package": "rboto-qbusiness",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T18:17:36Z",
-      "package": "rboto-scheduler",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T18:17:52Z",
-      "package": "rboto-secrets-manager",
-      "since": "2026-11-01T17:19:32.076763Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-01T14:29:30Z",
-      "package": "rpaframework-decisions",
-      "since": "2026-11-01T14:18:12.526207Z",
+      "created_at": "2026-11-01T19:07:24Z",
+      "package": "perpbrain",
+      "since": "2026-11-01T18:19:29.142186Z",
       "version": null
     }
   ],
-  "serial": 43057388,
+  "serial": 43059300,
   "source_truncated": false,
-  "window": "2026-11-01T18:19:29.142186Z"
+  "window": "2026-11-01T19:19:34.670156Z"
 }
