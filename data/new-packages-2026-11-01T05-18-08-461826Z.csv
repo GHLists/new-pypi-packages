@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T04:18:35Z,torchcomms-hccl,0.1.0,Yuanhao Ji,"MIT License Copyright (c) 2026 torchcomms-hccl contributors Permission is hereby granted, free of c…",855323,CANN HCCL backend for torchcomms
+2026-11-01T04:18:58Z,contragent,1.1.0,Yifeng Xiao,Apache-2.0,565738,Contract-based deterministic trajectory supervision of LLM agents
+2026-11-01T04:26:58Z,tba-bases-identity-assurance,0.4.0.dev2,,Apache-2.0,2666,Protocol-neutral identity assurance bases.
+2026-11-01T04:27:34Z,mcp-osiris,0.1.0,Malik Belkacemi,MIT,257344,"OSIRIS — context engine cache-aware pour agents IA (serveur MCP local, provider-agnostic)."
+2026-11-01T04:28:34Z,tba-bases-authentication-assurance,0.4.0.dev2,,Apache-2.0,2771,Compatibility bases for OIDC EAP ACR evaluation.
+2026-11-01T04:30:26Z,tba-bases-identity-authenticator,0.1.0,,Apache-2.0,2634,Compatibility facade for authenticator bases.
+2026-11-01T04:32:29Z,tba-bases-identity-claims,0.4.0.dev2,,,2834,
+2026-11-01T04:33:35Z,kinetic-st,0.1.1,KineticST Project Team,MIT,51430,Kinetic-theory framework for multiscale modelling of spatial transcriptomics
+2026-11-01T04:34:11Z,tba-bases-identity-document,0.4.0.dev2,,Apache-2.0,2934,"Protocol-neutral identity-document resolution, publication, and verification bases."
+2026-11-01T04:36:22Z,tba-bases-identity-model,0.4.0.dev2,,Apache-2.0,4193,Base classes for concrete TBA identity and credential models.
+2026-11-01T04:38:27Z,tba-bases-protected-artifact,0.4.0.dev2,,Apache-2.0,2959,Protocol-neutral protected security artifact bases.
+2026-11-01T04:40:21Z,tba-bases-certificate,0.4.0.dev2,,Apache-2.0,3040,Reusable certificate service and path-validation bases.
+2026-11-01T04:41:33Z,brazilian-economic-data,0.1.0,Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>,GPL-3.0-only WITH Classpath-exception-2.0 OR BSD-3-Clause,48986,A Python package for accessing Brazilian economic indicators and government bond market data through public APIs and official data sources.
+2026-11-01T04:41:56Z,tba-bases-encryption,0.4.0.dev2,,Apache-2.0,3736,"Reusable encryption, decryption, and cipher-policy bases."
+2026-11-01T04:43:41Z,tba-bases-proof-of-possession,0.4.0.dev2,,Apache-2.0,4069,"Reusable proof-of-possession issuance, verification, key-resolution, and context-binding bases."
+2026-11-01T04:43:58Z,iota-hub,0.1.0,IOTA Hub,"MIT License Copyright (c) 2026 Skyler Carlson Permission is hereby granted, free of charge, to any…",126383,Client library and CLI for the IOTA Hub public API (occultation observation submission)
+2026-11-01T04:45:26Z,tba-bases-protected-envelope,0.4.0.dev2,,Apache-2.0,2912,Protocol-neutral protected-envelope issuance and verification bases.
+2026-11-01T04:47:23Z,tba-bases-public-key-authentication,0.4.0.dev2,,Apache-2.0,6322,Protocol-neutral public-key authenticator extension bases.
+2026-11-01T04:49:15Z,tba-bases-public-key-authenticator,0.4.0.dev2,,Apache-2.0,2364,Compatibility facade for public-key authentication bases.
+2026-11-01T04:51:07Z,tba-bases-replay,0.4.0.dev2,,Apache-2.0,2914,Protocol-neutral replay reservation bases.
+2026-11-01T04:51:11Z,sheetpeek,0.1.0,Ethan Post,MIT,206543,"Render Excel workbooks as HTML, Markdown and terminal text, showing what Excel shows."
+2026-11-01T04:53:04Z,tba-bases-resource-server,0.4.0.dev2,,Apache-2.0,2737,Base classes for Tigrbl resource-server providers.
+2026-11-01T04:53:08Z,assignmentwriter,0.1.0,TheHritu,MIT,8847841,A Python package and CLI that writes your text on paper in a handwriting font and ink of your choice
+2026-11-01T04:55:18Z,tba-bases-security-artifact,0.4.0.dev2,,Apache-2.0,2285,Compatibility facade for protected artifact bases.
+2026-11-01T04:56:23Z,fresh-cbm,0.2.0,,Apache-2.0,63914,Exact cached libcbm stand-state tables for WS4/FEMIC carbon
+2026-11-01T04:57:26Z,xephyr-run,0.1.0,,,41142,Run one X client in its own named Xephyr window at a chosen position
+2026-11-01T04:59:56Z,kalathos,0.1.0,,Apache-2.0,43521,Server SDK for kalathos.ai request reporting and Fetcher Seeds
+2026-11-01T05:00:17Z,ccrt,0.1.0,Fabian Figueroa,MIT,92136,Experimental toolkit for reviewing candidate links between conflict incident records
+2026-11-01T05:05:25Z,tba-bases-security-event,0.4.0.dev2,,Apache-2.0,2617,Protocol-neutral security event bases.
+2026-11-01T05:06:45Z,vastpace-ai-tools,1.0.0,VastPace <support@ezairapvideo.com>,MIT,5673,VastPace AI tools: EzAiRapVideo (AI rap video) and EzImageAI (AI image editor).
+2026-11-01T05:07:47Z,tba-bases-security-provenance,0.1.0,,Apache-2.0,2905,Base classes for authorization provenance providers.
+2026-11-01T05:09:44Z,graphsnip,0.1.0,,Apache-2.0,112528,"Token-saving layer on top of Graphify: symbol-level code slicing, context packs, a savings ledger with an honest baseline, hooks and MCP for Claude Code, Copilot and Codex."
+2026-11-01T05:09:50Z,tba-bases-signing,0.4.0.dev2,,Apache-2.0,2832,Reusable signing and signature-verification bases.
+2026-11-01T05:09:57Z,dactopus-ossie-clickhouse,0.13.0,Alex Kosachev,Apache-2.0,375712,Apache Ossie semantic model implementation for ClickHouse
+2026-11-01T05:11:10Z,langchain-rvn,0.16.1,Paul Sung,AGPL-3.0-only,16160,LangChain tools wrapping the rvn-agent-api policy-gated Ravencoin API
+2026-11-01T05:11:50Z,tba-bases-key,0.4.0.dev2,,Apache-2.0,3670,"Reusable key lifecycle, resolution, wrapping, and export bases."
+2026-11-01T05:12:49Z,mcp-bloat,0.6.0,Pranaya Sharma,MIT,71257,Audit how many tokens your MCP servers eat from your context window — before your agent pays for them.
+2026-11-01T05:13:22Z,tba-bases-token,0.4.0.dev2,,Apache-2.0,3042,Protocol-neutral profiled token bases.
+2026-11-01T05:13:34Z,franklinwh-system-view,0.1.0,david2069,MIT,45177,"A friendly picture of a FranklinWH site (grid, aGate, batteries, solar, home, circuits) shared by the FranklinWH bridges: payload schema, layout and the overlay page"
+2026-11-01T05:13:58Z,identity-agnostic-worker,0.1.0,Rexllnia,MIT,7397,"Identity-agnostic worker client: register to a broker, receive tasks, stream results back."
+2026-11-01T05:13:58Z,scramjit,0.0.1,Fariz Rahman <farizrahman4u@gmail.com>,MIT,2548,"A pure-Python JIT for numeric Python, built on cimo. Placeholder release."
+2026-11-01T05:15:20Z,tba-bases-cose,0.4.0.dev2,,Apache-2.0,3422,"Protocol-neutral CBOR, COSE, and CWT extension bases."
+2026-11-01T05:17:25Z,tba-bases-jose,0.4.0.dev2,,Apache-2.0,3944,Base classes for Tigrbl JOSE providers.
