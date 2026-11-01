@@ -8,48 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 07:20 UTC
+## Latest list — 2026-11-01 08:19 UTC
 
-New packages created between 2026-11-01 06:18 UTC and 2026-11-01 07:20 UTC.
+New packages created between 2026-11-01 07:20 UTC and 2026-11-01 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-01T07-20-42-530417Z.csv)
+[Full CSV](data/new-packages-2026-11-01T08-19-21-972909Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-01 06:19:13 | [axlab-server](https://pypi.org/project/axlab-server/) | 0.0.1 | "DDOK Inc." <contact@ddok.ai> | 2.7 kB | AXLAB server runtime bundle (reserved; used by axlab[server]) |
-| 2026-11-01 06:19:15 | [axlab-client](https://pypi.org/project/axlab-client/) | 0.0.1 | "DDOK Inc." <contact@ddok.ai> | 2.6 kB | Reserved name for AXLAB. Use axlab[client]. |
-| 2026-11-01 06:19:16 | [axlab-cli](https://pypi.org/project/axlab-cli/) | 0.0.1 | "DDOK Inc." <contact@ddok.ai> | 2.5 kB | Reserved name for AXLAB. Use axlab. |
-| 2026-11-01 06:19:46 | [dex-connector-pagerduty](https://pypi.org/project/dex-connector-pagerduty/) | 0.2.0 |  | 81.0 kB | PagerDuty connector for Dex Flows |
-| 2026-11-01 06:27:08 | [wred-ratelimit](https://pypi.org/project/wred-ratelimit/) | 0.1.0 |  | 22.6 kB | Optional ratelimit integration for Wred |
-| 2026-11-01 06:33:24 | [dex-connector-tmdb](https://pypi.org/project/dex-connector-tmdb/) | 0.2.0 |  | 81.0 kB | TMDB connector for Dex Flows |
-| 2026-11-01 06:34:36 | [compose-guard](https://pypi.org/project/compose-guard/) | 0.1.2 | Yagnang Vyas | 201.2 kB | Lint Docker Compose files for security, misconfiguration and reliability proble… |
-| 2026-11-01 06:35:10 | [agentguard-scan](https://pypi.org/project/agentguard-scan/) | 0.1.4 | Vanguard Growth LLC | 17.7 kB | Detecta tool poisoning y rug pulls en skills (SKILL.md) y conectores MCP de age… |
-| 2026-11-01 06:35:31 | [saman-api](https://pypi.org/project/saman-api/) | 0.1.0 | APIBANK contributors | 60.9 kB | Typed sync and async Python clients for the Saman Mobillet HTTP API |
-| 2026-11-01 06:37:59 | [requal](https://pypi.org/project/requal/) | 0.0.1 |  | 1.3 kB | The Requal CLI. |
-| 2026-11-01 06:38:24 | [traceratops](https://pypi.org/project/traceratops/) | 2.0.0 | Marcelo Nollmann <marcelo.nol… | 338.4 kB | Toolbox for trace analysis |
-| 2026-11-01 06:40:32 | [mcp-devops-assistant](https://pypi.org/project/mcp-devops-assistant/) | 0.1.0 |  | 37.3 kB | DevOps Assistant MCP Server for GitHub and Docker |
-| 2026-11-01 06:41:18 | [csvd2c](https://pypi.org/project/csvd2c/) | 0.1.0 | Heo Yongseon | 219.5 kB | The utility for making dirty to clean of CSV data |
-| 2026-11-01 06:43:10 | [revoc-sdk](https://pypi.org/project/revoc-sdk/) | 1.0.0 | REVOC | 20.5 kB | Zero-code-change governance SDK for REVOC — drop-in OpenAI client wrapper. |
-| 2026-11-01 06:45:52 | [system-spec-ref](https://pypi.org/project/system-spec-ref/) | 0.1.0 | Tommy Alander | 383.5 kB | System specification toolkit: metamodel validator, examples and formal-model sk… |
-| 2026-11-01 06:47:47 | [agentboxx](https://pypi.org/project/agentboxx/) | 0.2.1 | Prathmesh Kokate <prathmeshko… | 89.5 kB | A tamper-evident flight recorder for AI agents |
-| 2026-11-01 06:48:21 | [l10n-gr](https://pypi.org/project/l10n-gr/) | 0.2.0 |  | 22.6 kB | l10n.gr command line: live development of your Odoo modules on a project's stag… |
-| 2026-11-01 06:55:48 | [e3dc-ess-modbus](https://pypi.org/project/e3dc-ess-modbus/) | 0.1.0 | AlCalzone | 103.0 kB | Read and control E3/DC home power stations over Modbus TCP. |
-| 2026-11-01 06:59:13 | [wred-auth](https://pypi.org/project/wred-auth/) | 0.1.0 |  | 64.5 kB | Optional auth integration for Wred |
-| 2026-11-01 06:59:43 | [codex-image-generation](https://pypi.org/project/codex-image-generation/) | 0.3.0 | TangRuoJie | 2.3 MB | A local Codex MCP server for Responses image generation using existing provider… |
-| 2026-11-01 07:00:48 | [everyinfra](https://pypi.org/project/everyinfra/) | 0.3.0 | EveryInfra | 99.9 kB | EveryInfra official client — data, captcha, search and text models behind one k… |
-| 2026-11-01 07:02:09 | [gotrain](https://pypi.org/project/gotrain/) | 0.0.1 |  | 2.4 kB | GoTrain: an AI agent that trains geospatial models on its own. Placeholder; the… |
-| 2026-11-01 07:04:38 | [daneq](https://pypi.org/project/daneq/) | 0.4.2 | Jeremy Bell | 194.2 kB | A btop-style terminal equalizer, effects rack and audio visualizer |
-| 2026-11-01 07:07:44 | [zoomit-mcp](https://pypi.org/project/zoomit-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 147.1 kB | Unofficial read-only MCP server for Zoomit (zoomit.ir/product, Zoobin): phone,… |
-| 2026-11-01 07:07:49 | [gamefa-mcp](https://pypi.org/project/gamefa-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 150.7 kB | Unofficial read-only MCP server for Gamefa (gamefa.com), the Persian game and f… |
-| 2026-11-01 07:07:50 | [mobile-ir-mcp](https://pypi.org/project/mobile-ir-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 175.8 kB | Unofficial read-only MCP server for Mobile.ir (mobile.ir), Iran's phone databas… |
-| 2026-11-01 07:09:28 | [iran-cloud-status-mcp](https://pypi.org/project/iran-cloud-status-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 151.2 kB | Unofficial read-only MCP server for Iranian cloud providers: live status, incid… |
-| 2026-11-01 07:09:30 | [bama-ir-mcp](https://pypi.org/project/bama-ir-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 148.4 kB | Unofficial read-only MCP server for Bama (bama.ir), the Iranian car marketplace… |
-| 2026-11-01 07:09:33 | [karnameh-mcp](https://pypi.org/project/karnameh-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 139.6 kB | Unofficial read-only MCP server for Karnameh (karnameh.com): used-car ads, car… |
-| 2026-11-01 07:10:29 | [shellder](https://pypi.org/project/shellder/) | 0.1.0 | Soorya Prakash R | 7.7 kB | Python client for the Shellder prompt API |
-| 2026-11-01 07:11:00 | [hamrah-mechanic-mcp](https://pypi.org/project/hamrah-mechanic-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 140.4 kB | Unofficial read-only MCP server for Hamrah Mechanic (hamrah-mechanic.com): dail… |
-| 2026-11-01 07:11:04 | [sheypoor-mcp](https://pypi.org/project/sheypoor-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 157.0 kB | Unofficial read-only MCP server for Sheypoor (sheypoor.com), Iran's classifieds… |
-| 2026-11-01 07:13:23 | [emalls-ir-mcp](https://pypi.org/project/emalls-ir-mcp/) | 0.1.1 | Sepehr Radmard <sepehrr80@gma… | 135.2 kB | Unofficial read-only MCP server for Emalls (emalls.ir), the Iranian price compa… |
-| 2026-11-01 07:13:55 | [darukade-mcp](https://pypi.org/project/darukade-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 153.1 kB | Unofficial read-only MCP server for Darukade (darukade.com), an Iranian online… |
-| 2026-11-01 07:15:18 | [aayi](https://pypi.org/project/aayi/) | 0.1.1 | Ahmed | 59.0 kB | Deploy Docker apps to any server with zero downtime and automatic HTTPS |
-| 2026-11-01 07:18:48 | [zettcode-recap](https://pypi.org/project/zettcode-recap/) | 0.1.0 | Chang-LeHung | 19.7 kB | A ZettCode plugin: /recap sums up where the session is, and does so on its own… |
-| 2026-11-01 07:20:34 | [bscontroller](https://pypi.org/project/bscontroller/) | 0.1.0 |  | 1.1 MB | Standalone Bluetooth LE controller with discrete simulation time |
+| 2026-11-01 07:22:34 | [tba-concrete-claim-access-token-digest](https://pypi.org/project/tba-concrete-claim-access-token-digest/) | 0.4.0.dev2 |  | 2.9 kB | Standalone RFC 9449 ath claim implementation. |
+| 2026-11-01 07:23:19 | [seo-workflow-tco-calculator](https://pypi.org/project/seo-workflow-tco-calculator/) | 1.0.0 | CloudBench Research | 16.3 kB | CLI tool to benchmark SEO keyword suite seat costs and iPaaS workflow automatio… |
+| 2026-11-01 07:24:33 | [tba-concrete-claim-access-token-hash](https://pypi.org/project/tba-concrete-claim-access-token-hash/) | 0.4.0.dev2 |  | 2.8 kB |  |
+| 2026-11-01 07:24:48 | [dnslens](https://pypi.org/project/dnslens/) | 1.0.2 | Hadi Cahyadi <cumulus13@gmail… | 127.4 kB | Cross-platform DNS toolkit for developers and DevOps: query, trace, propagation… |
+| 2026-11-01 07:25:40 | [libcantus](https://pypi.org/project/libcantus/) | 1.4.0 |  | 9.1 MB | Music-theory analysis and generation: Python binding of the libcantus C++ core. |
+| 2026-11-01 07:25:42 | [cl1-solutions](https://pypi.org/project/cl1-solutions/) | 1.0.2 | CL1 Contributor | 626.1 kB | All-in-one CLI and Python package to retrieve Jupyter Notebook solutions and da… |
+| 2026-11-01 07:26:10 | [certainlyscraped](https://pypi.org/project/certainlyscraped/) | 0.4.3 |  | 217.9 kB | Probe-first, tiered Python scraper: classify anti-bot defenses, fetch with the… |
+| 2026-11-01 07:27:36 | [usgs-action-stage-estimator](https://pypi.org/project/usgs-action-stage-estimator/) | 0.1.0 | Gonzalo Forero Buitrago | 443.2 kB | Research tools for USGS water-stage analysis and Action Stage estimation |
+| 2026-11-01 07:29:53 | [Parasboxcloud](https://pypi.org/project/Parasboxcloud/) | 1.0.0 | Paras Kashyap | 11.0 kB | Official Python Library for Paras Box Cloud - 100 GB Free Cloud Storage & Priva… |
+| 2026-11-01 07:33:10 | [solprop-native](https://pypi.org/project/solprop-native/) | 0.1.0 | Christian Brahms | 38.6 MB | The compiled native backend for solprop, built on Kokkos |
+| 2026-11-01 07:34:24 | [solprop](https://pypi.org/project/solprop/) | 0.1.0 | Christian Brahms | 27.8 MB | Ultrafast nonlinear pulse propagation: UPPE and GNLSE, field and envelope, guid… |
+| 2026-11-01 07:35:16 | [iranketab-mcp](https://pypi.org/project/iranketab-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 192.1 kB | Unofficial read-only MCP server for Iranketab (iranketab.ir), the Persian book… |
+| 2026-11-01 07:36:19 | [jobvision-mcp](https://pypi.org/project/jobvision-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 154.4 kB | Unofficial read-only MCP server for Jobvision (jobvision.ir), the Iranian job p… |
+| 2026-11-01 07:37:05 | [jobinja-mcp](https://pypi.org/project/jobinja-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 139.0 kB | Unofficial read-only MCP server for Jobinja (jobinja.ir), the Iranian job porta… |
+| 2026-11-01 07:41:25 | [proximity-forests](https://pypi.org/project/proximity-forests/) | 0.1.0b1 |  | 17.4 MB | Proximity forest models for classification, regression, and isolation |
+| 2026-11-01 07:43:34 | [warehouse-mcp](https://pypi.org/project/warehouse-mcp/) | 0.1.0 | Tan Tran | 9.2 MB | Governed, read-only MCP access to DuckDB, Postgres and BigQuery for AI agents:… |
+| 2026-11-01 07:54:13 | [konomanoasa-tree-sitter-json](https://pypi.org/project/konomanoasa-tree-sitter-json/) | 0.5.0 |  | 141.2 kB | Tree-sitter grammar for JSON. |
+| 2026-11-01 07:54:15 | [kubecheck](https://pypi.org/project/kubecheck/) | 0.1.0 | Kashif Hussain <memonkashif00… | 36.4 kB | Offline-first CLI tool to diagnose Kubernetes YAML manifest problems locally. |
+| 2026-11-01 07:57:02 | [bsworld](https://pypi.org/project/bsworld/) | 1.1.3 |  | 2.3 MB | Deterministic simulation test framework for Bluetooth LE Applications |
+| 2026-11-01 07:57:53 | [seewo](https://pypi.org/project/seewo/) | 0.0.2 | noahwzy | 4.8 kB | 简单文件读写工具库（追加写入、读取、清空、删除等） |
+| 2026-11-01 07:59:52 | [quera-mcp](https://pypi.org/project/quera-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 150.7 kB | Unofficial read-only MCP server for Quera (quera.org): Iranian tech jobs, compa… |
+| 2026-11-01 07:59:54 | [escox3](https://pypi.org/project/escox3/) | 3.0.0 | Lefteris Angelis | 6.4 MB | ESCOX 3.0: green skills, occupations (ISCO-08) and economic sectors (NACE Rev.… |
+| 2026-11-01 07:59:54 | [irantalent-mcp](https://pypi.org/project/irantalent-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 146.4 kB | Unofficial read-only MCP server for IranTalent (irantalent.com), the job portal… |
+| 2026-11-01 07:59:59 | [karlancer-mcp](https://pypi.org/project/karlancer-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 135.9 kB | Unofficial read-only MCP server for Karlancer (karlancer.com), the Iranian free… |
+| 2026-11-01 08:01:25 | [konomanoasa-tree-sitter-mailmap](https://pypi.org/project/konomanoasa-tree-sitter-mailmap/) | 0.5.0 |  | 34.4 kB | Tree-sitter grammar for mailmap. |
+| 2026-11-01 08:01:31 | [ponisha-mcp](https://pypi.org/project/ponisha-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 146.4 kB | Unofficial read-only MCP server for Ponisha (ponisha.ir), the Iranian freelance… |
+| 2026-11-01 08:02:24 | [cbi-mcp](https://pypi.org/project/cbi-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 307.9 kB | Unofficial read-only MCP server for the Central Bank of Iran (cbi.ir): official… |
+| 2026-11-01 08:03:10 | [fipiran-mcp](https://pypi.org/project/fipiran-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 145.5 kB | Unofficial read-only MCP server for Fipiran (fipiran.ir): Iranian mutual funds… |
+| 2026-11-01 08:04:31 | [ime-mcp](https://pypi.org/project/ime-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 160.2 kB | Unofficial read-only MCP server for the Iran Mercantile Exchange (ime.co.ir): p… |
+| 2026-11-01 08:04:56 | [konomanoasa-tree-sitter-gitignore](https://pypi.org/project/konomanoasa-tree-sitter-gitignore/) | 0.6.0 |  | 31.7 kB | Tree-sitter grammar for gitignore. |
+| 2026-11-01 08:08:31 | [dt5800](https://pypi.org/project/dt5800/) | 1.0.1 | Nuclear Instruments <support@… | 4.1 MB | Python binding of the DT5800 SDK: control of the CAEN DT5800 / DT5800D Digital… |
+| 2026-11-01 08:08:32 | [dt4800](https://pypi.org/project/dt4800/) | 1.0.0 | Nuclear Instruments <support@… | 5.8 MB | Python binding of the DT4800 SDK: control of the CAEN DT4800 Micro Digital Dete… |
+| 2026-11-01 08:09:15 | [konomanoasa-tree-sitter-gitconfig](https://pypi.org/project/konomanoasa-tree-sitter-gitconfig/) | 0.6.0 |  | 47.6 kB | Tree-sitter grammar for gitconfig. |
+| 2026-11-01 08:11:14 | [index-browser](https://pypi.org/project/index-browser/) | 0.1.0 | matplo | 56.7 kB | Turn a directory of files into an interactive 3D index.html — folders unfold, f… |
+| 2026-11-01 08:13:08 | [iranquant](https://pypi.org/project/iranquant/) | 0.1.0 | Saeed Dadjoyan Aghdami <Dadjo… | 159.0 kB | Async-first Python SDK and quantitative toolkit for TSETMC and Codal market data |
+| 2026-11-01 08:14:55 | [numlearnl9](https://pypi.org/project/numlearnl9/) | 1.0.1 | numlearnl9 Team | 30.7 kB | Machine Learning Lab Practical Kit with 10 classic experiments for students |
+| 2026-11-01 08:17:10 | [whatsdrop-cli](https://pypi.org/project/whatsdrop-cli/) | 0.1.0 | Tomasz Habiger <tomasz.habige… | 137.7 kB | Query encrypted or plaintext WhatsDrop archives in Dropbox by name/number and t… |
+| 2026-11-01 08:17:29 | [ifb-mcp](https://pypi.org/project/ifb-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 281.4 kB | Unofficial read-only MCP server for Iran Fara Bourse (ifb.ir): bond and sukuk y… |
+| 2026-11-01 08:17:36 | [jitter-ml](https://pypi.org/project/jitter-ml/) | 0.1.0 | Ayush Dubey <ayushdubey3740@g… | 233.0 kB | Root-cause analysis tool for on-device ML latency |
+| 2026-11-01 08:18:20 | [amar-mcp](https://pypi.org/project/amar-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 287.8 kB | Unofficial read-only MCP server for the Statistical Centre of Iran (amar.org.ir… |
+| 2026-11-01 08:18:29 | [cpp-jepa](https://pypi.org/project/cpp-jepa/) | 0.5.0 | jepa.cpp contributors | 2.5 MB | Python bindings for jepa.cpp — CPU/CUDA inference for the JEPA family on ggml |

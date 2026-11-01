@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T07:22:34Z,tba-concrete-claim-access-token-digest,0.4.0.dev2,,,2918,Standalone RFC 9449 ath claim implementation.
+2026-11-01T07:23:19Z,seo-workflow-tco-calculator,1.0.0,CloudBench Research,MIT,16289,CLI tool to benchmark SEO keyword suite seat costs and iPaaS workflow automation TCO.
+2026-11-01T07:24:33Z,tba-concrete-claim-access-token-hash,0.4.0.dev2,,,2803,
+2026-11-01T07:24:48Z,dnslens,1.0.2,Hadi Cahyadi <cumulus13@gmail.com>,,127415,"Cross-platform DNS toolkit for developers and DevOps: query, trace, propagation, audit, DNSSEC, local DNS server and HTTP/Prometheus API."
+2026-11-01T07:25:40Z,libcantus,1.4.0,,Apache-2.0,9125457,Music-theory analysis and generation: Python binding of the libcantus C++ core.
+2026-11-01T07:25:42Z,cl1-solutions,1.0.2,CL1 Contributor,MIT,626072,All-in-one CLI and Python package to retrieve Jupyter Notebook solutions and datasets for all CL1 problem statements.
+2026-11-01T07:26:10Z,certainlyscraped,0.4.3,,"MIT License Copyright (c) 2026 vhsgreed Permission is hereby granted, free of charge, to any person…",217883,"Probe-first, tiered Python scraper: classify anti-bot defenses, fetch with the cheapest tier that works, extract via YAML + CSS selectors, verify row counts."
+2026-11-01T07:27:36Z,usgs-action-stage-estimator,0.1.0,Gonzalo Forero Buitrago,Apache-2.0,443241,Research tools for USGS water-stage analysis and Action Stage estimation
+2026-11-01T07:29:53Z,Parasboxcloud,1.0.0,Paras Kashyap,"MIT License Copyright (c) 2026 Paras Tech Industries (Paras Kashyap) Permission is hereby granted,…",11032,Official Python Library for Paras Box Cloud - 100 GB Free Cloud Storage & Private Vault API.
+2026-11-01T07:33:10Z,solprop-native,0.1.0,Christian Brahms,GPL-3.0-or-later,38562122,"The compiled native backend for solprop, built on Kokkos"
+2026-11-01T07:34:24Z,solprop,0.1.0,Christian Brahms,GPL-3.0-or-later AND MIT,27751971,"Ultrafast nonlinear pulse propagation: UPPE and GNLSE, field and envelope, guided and free space"
+2026-11-01T07:35:16Z,iranketab-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,192146,"Unofficial read-only MCP server for Iranketab (iranketab.ir), the Persian book store: books, translations compared, ratings, reviews, prices."
+2026-11-01T07:36:19Z,jobvision-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,154447,"Unofficial read-only MCP server for Jobvision (jobvision.ir), the Iranian job portal: job search, ads, companies, advertised pay."
+2026-11-01T07:37:05Z,jobinja-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,138985,"Unofficial read-only MCP server for Jobinja (jobinja.ir), the Iranian job portal: job search, ad details, companies, top-50 scores."
+2026-11-01T07:41:25Z,proximity-forests,0.1.0b1,,,17385374,"Proximity forest models for classification, regression, and isolation"
+2026-11-01T07:43:34Z,warehouse-mcp,0.1.0,Tan Tran,MIT,9210576,"Governed, read-only MCP access to DuckDB, Postgres and BigQuery for AI agents: semantic layer, SQL guard, row policies, PII pseudonymization, audit log."
+2026-11-01T07:54:13Z,konomanoasa-tree-sitter-json,0.5.0,,MIT,141226,Tree-sitter grammar for JSON.
+2026-11-01T07:54:15Z,kubecheck,0.1.0,Kashif Hussain <memonkashif0001@gmail.com>,Apache-2.0,36358,Offline-first CLI tool to diagnose Kubernetes YAML manifest problems locally.
+2026-11-01T07:57:02Z,bsworld,1.1.3,,Apache-2.0,2333278,Deterministic simulation test framework for Bluetooth LE Applications
+2026-11-01T07:57:53Z,seewo,0.0.2,noahwzy,,4834,简单文件读写工具库（追加写入、读取、清空、删除等）
+2026-11-01T07:59:52Z,quera-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,150722,"Unofficial read-only MCP server for Quera (quera.org): Iranian tech jobs, companies, contests, problems and courses."
+2026-11-01T07:59:54Z,escox3,3.0.0,Lefteris Angelis,MIT,6439902,"ESCOX 3.0: green skills, occupations (ISCO-08) and economic sectors (NACE Rev. 2.1) from unstructured text, linked to ESCO"
+2026-11-01T07:59:54Z,irantalent-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,146410,"Unofficial read-only MCP server for IranTalent (irantalent.com), the job portal: job search, ads, companies and employee reviews."
+2026-11-01T07:59:59Z,karlancer-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,135857,"Unofficial read-only MCP server for Karlancer (karlancer.com), the Iranian freelance marketplace: projects, freelancers, services."
+2026-11-01T08:01:25Z,konomanoasa-tree-sitter-mailmap,0.5.0,,MIT,34377,Tree-sitter grammar for mailmap.
+2026-11-01T08:01:31Z,ponisha-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,146386,"Unofficial read-only MCP server for Ponisha (ponisha.ir), the Iranian freelance marketplace: projects, bids, freelancers, skill demand."
+2026-11-01T08:02:24Z,cbi-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,307885,"Unofficial read-only MCP server for the Central Bank of Iran (cbi.ir): official exchange rates, inflation, policy rates, news."
+2026-11-01T08:03:10Z,fipiran-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,145472,"Unofficial read-only MCP server for Fipiran (fipiran.ir): Iranian mutual funds and ETFs, NAV, returns, size, managers."
+2026-11-01T08:04:31Z,ime-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,160171,"Unofficial read-only MCP server for the Iran Mercantile Exchange (ime.co.ir): physical market trades, supply offers, prices, market totals."
+2026-11-01T08:04:56Z,konomanoasa-tree-sitter-gitignore,0.6.0,,MIT,31685,Tree-sitter grammar for gitignore.
+2026-11-01T08:08:31Z,dt5800,1.0.1,Nuclear Instruments <support@nuclearinstruments.eu>,MIT,4066200,Python binding of the DT5800 SDK: control of the CAEN DT5800 / DT5800D Digital Detector Emulator
+2026-11-01T08:08:32Z,dt4800,1.0.0,Nuclear Instruments <support@nuclearinstruments.eu>,MIT,5795301,Python binding of the DT4800 SDK: control of the CAEN DT4800 Micro Digital Detector Emulator
+2026-11-01T08:09:15Z,konomanoasa-tree-sitter-gitconfig,0.6.0,,MIT,47633,Tree-sitter grammar for gitconfig.
+2026-11-01T08:11:14Z,index-browser,0.1.0,matplo,MIT,56667,"Turn a directory of files into an interactive 3D index.html — folders unfold, files open in a new tab."
+2026-11-01T08:13:08Z,iranquant,0.1.0,Saeed Dadjoyan Aghdami <Dadjoyans@gmail.com>,"MIT License Copyright (c) 2026 iranquant contributors Permission is hereby granted, free of charge,…",159025,Async-first Python SDK and quantitative toolkit for TSETMC and Codal market data
+2026-11-01T08:14:55Z,numlearnl9,1.0.1,numlearnl9 Team,,30714,Machine Learning Lab Practical Kit with 10 classic experiments for students
+2026-11-01T08:17:10Z,whatsdrop-cli,0.1.0,Tomasz Habiger <tomasz.habiger@gmail.com>,Apache-2.0,137719,Query encrypted or plaintext WhatsDrop archives in Dropbox by name/number and time window
+2026-11-01T08:17:29Z,ifb-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,281446,"Unofficial read-only MCP server for Iran Fara Bourse (ifb.ir): bond and sukuk yields, treasury bills, IPOs, announcements, market stats."
+2026-11-01T08:17:36Z,jitter-ml,0.1.0,Ayush Dubey <ayushdubey3740@gmail.com>,MIT,233019,Root-cause analysis tool for on-device ML latency
+2026-11-01T08:18:20Z,amar-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,287847,"Unofficial read-only MCP server for the Statistical Centre of Iran (amar.org.ir): CPI inflation, unemployment, population, release tables."
+2026-11-01T08:18:29Z,cpp-jepa,0.5.0,jepa.cpp contributors,MIT,2456378,Python bindings for jepa.cpp — CPU/CUDA inference for the JEPA family on ggml
