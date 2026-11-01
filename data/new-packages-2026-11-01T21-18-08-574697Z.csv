@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T20:18:35Z,sebbi,1.1.0,Monop Content <justrightdecorators@gmail.com>,MIT,22631,"A receipt for every AI agent action. One line: every tool call gets a sealed, publicly checkable receipt."
+2026-11-01T20:25:08Z,alnkit,0.1.0,liuyinzhe <lsylkane@sina.com>,GPL-3.0-or-later,359996,Evidence extraction and visualization for exogenous insertions (and future structural variants) in short- and long-read alignments
+2026-11-01T20:27:32Z,melek-core,2.0.0,Melek AI Development,MIT,36703,Melek AI - Çekirdek Orkestratör ve Self-Healing Motoru
+2026-11-01T20:27:39Z,iot-practical-kit-dion,1.0.0,Dion,,14679777,IoT practical programs for easy installation and access
+2026-11-01T20:28:18Z,sandstorm-mcp,0.3.0,Deeplethe <info@deeplethe.com>,Apache-2.0,25213,Model Context Protocol server for Sandstorm: gVisor and Firecracker sandboxes across a fleet of nodes
+2026-11-01T20:30:03Z,facts402-mcp,0.1.0,facts402,MIT,41781,"MCP server: pay-per-call fact checks for AI agents (IBAN, EU VAT, OFAC sanctions, LEI, phone, email, FX, WHOIS) via x402 USDC on Base. Also the shared core of base-memecoin-guard-mcp."
+2026-11-01T20:30:10Z,base-memecoin-guard-mcp,0.1.0,facts402,MIT,23659,"MCP server for Base memecoin trading agents: honeypot and rug pull checks, exit liquidity, insider/sniper forensics, smart money and copy trade signals, social attention, position watch alerts. Pay p…"
+2026-11-01T20:31:18Z,sandstorm-sdk,0.6.0,Deeplethe <info@deeplethe.com>,Apache-2.0,26177,Python client for Sandstorm: gVisor and Firecracker sandboxes across a fleet of nodes (E2B-compatible surface)
+2026-11-01T20:32:27Z,project-sandbox-tui,0.1.0,Peter Krusche,MIT,414885,Minimal vim/ranger-style TUI for running project-sandbox sessions per branch
+2026-11-01T20:34:13Z,facere,0.1.0,,LGPL-3.0-or-later,113649,A build tool configured in plain Python
+2026-11-01T20:35:06Z,novaju,0.0.1,Valentin Lafay,MIT,2238,Novaju: make your repositories ready for AI coding agents. Early release.
+2026-11-01T20:47:34Z,mcpBlender-tspspi,0.0.3,Thomas Spielauer <pypipackages01@tspi.at>,,263014,Authenticated MCP control of live Blender sessions over private Unix sockets
+2026-11-01T20:48:06Z,netbox-cisco-sync,1.0.1,Lukasz Luczak <bleblas@gmail.com>,MIT,216470,Synchronize Cisco platform inventory into NetBox.
+2026-11-01T20:48:08Z,muscle-memory-mcp,0.1.0,Johannes Loor,MIT,80921,"MCP server that gives your agent a library of its own tested, reusable scripts."
+2026-11-01T20:48:58Z,rulerpack,0.2.1,Lars Rocha,MIT,1794051,Lars Rocha's XOR rulers: pack a prime and its index into one integer and recover both with mod and XOR.
+2026-11-01T20:57:17Z,mini-torch-from-scratch,0.1.0,,MIT,9834,A small neural network and automatic differentiation framework
+2026-11-01T20:57:34Z,mcp-flightrecorder,0.5.16,Volodymyr Barylyak,Apache-2.0,766640,"Bounded, explicit MCP host evidence capture in portable SQLite"
+2026-11-01T20:57:44Z,mlfox,1.0.2,vprojectx,MIT,89784,"CPU-only MLFOX model selection, evaluation, explainability, and inference toolkit"
+2026-11-01T20:58:13Z,dgii-consultas,0.1.0,NexConnect SRL,MIT,45740,"Consulta de RNC a partir del listado público de la DGII (República Dominicana), sin servicios intermedios."
+2026-11-01T20:59:03Z,circa-ci,0.2.2,,Apache-2.0,179645,Continuous Integration Root Cause Analyzer
+2026-11-01T20:59:48Z,daddy,1.0.0,Hamdan,,16659,Flutter Mobile Programming Practicals
+2026-11-01T21:01:15Z,te-authorix-panels,0.0.0,Technica Engineering GmbH,Proprietary,3938,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-11-01T21:01:58Z,tek-ignite,0.0.0,Technica Engineering GmbH,Proprietary,3818,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-11-01T21:02:01Z,tek-authorix,0.0.0,Technica Engineering GmbH,Proprietary,3834,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-11-01T21:02:16Z,metal-woof,1.1.5.2,,Apache-2.0,167162614,"Recast WOOF for Apple silicon: GPU-native regional weather forecasting with WRF-class physics on Metal, its CUDA kernels translated to Metal (an unofficial build of recast-woof)"
+2026-11-01T21:04:41Z,tek-proxima,0.0.0,Technica Engineering GmbH,Proprietary,3837,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-11-01T21:07:56Z,checkbox-site,0.1.0,Checkbox <support@checkbox.site>,MIT,175458,"Checkbox: automatic-renewal-law compliance (ROSCA, California ARL, New York and other state laws) for subscription businesses. Official Python SDK."
+2026-11-01T21:08:55Z,Pyjo-MCP,0.1.0,Piotr Roszatycki <piotr.roszatycki@gmail.com>,Artistic-2.0,159367,Model Context Protocol server and client for Pyjoyment.
+2026-11-01T21:12:19Z,voxora,1.0.0,Prakhar Parikh,MIT,31799,"A lightweight, microphone-based speech-to-text SDK for Python."
+2026-11-01T21:12:22Z,treasury-bond-overlay,0.1.0,Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>,GPL-3.0-only WITH Classpath-exception-2.0 OR BSD-3-Clause,80226,Displays selected Brazilian Treasury bond data on your desktop and refreshes it at a configurable interval.
+2026-11-01T21:15:43Z,jigkit,0.1.0,Jure Merhar,MIT,50236,"The shared foundations of small self-hosted web apps: settings, database, migrations, logging, health checks and test fixtures"
