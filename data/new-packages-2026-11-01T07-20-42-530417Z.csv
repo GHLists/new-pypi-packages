@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T06:19:13Z,axlab-server,0.0.1,"""DDOK Inc."" <contact@ddok.ai>",Apache-2.0,2685,AXLAB server runtime bundle (reserved; used by axlab[server])
+2026-11-01T06:19:15Z,axlab-client,0.0.1,"""DDOK Inc."" <contact@ddok.ai>",Apache-2.0,2643,Reserved name for AXLAB. Use axlab[client].
+2026-11-01T06:19:16Z,axlab-cli,0.0.1,"""DDOK Inc."" <contact@ddok.ai>",Apache-2.0,2467,Reserved name for AXLAB. Use axlab.
+2026-11-01T06:19:46Z,dex-connector-pagerduty,0.2.0,,MIT,81000,PagerDuty connector for Dex Flows
+2026-11-01T06:27:08Z,wred-ratelimit,0.1.0,,,22621,Optional ratelimit integration for Wred
+2026-11-01T06:33:24Z,dex-connector-tmdb,0.2.0,,MIT,80994,TMDB connector for Dex Flows
+2026-11-01T06:34:36Z,compose-guard,0.1.2,Yagnang Vyas,MIT,201250,"Lint Docker Compose files for security, misconfiguration and reliability problems."
+2026-11-01T06:35:10Z,agentguard-scan,0.1.4,Vanguard Growth LLC,Apache-2.0,17672,Detecta tool poisoning y rug pulls en skills (SKILL.md) y conectores MCP de agentes de IA
+2026-11-01T06:35:31Z,saman-api,0.1.0,APIBANK contributors,MIT,60921,Typed sync and async Python clients for the Saman Mobillet HTTP API
+2026-11-01T06:37:59Z,requal,0.0.1,,,1267,The Requal CLI.
+2026-11-01T06:38:24Z,traceratops,2.0.0,"Marcelo Nollmann <marcelo.nollmann@cbs.cnrs.fr>, Xavier Devos <xavier.devos@cbs.cnrs.fr>","GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",338436,Toolbox for trace analysis
+2026-11-01T06:40:32Z,mcp-devops-assistant,0.1.0,,,37262,DevOps Assistant MCP Server for GitHub and Docker
+2026-11-01T06:41:18Z,csvd2c,0.1.0,Heo Yongseon,,219466,The utility for making dirty to clean of CSV data
+2026-11-01T06:43:10Z,revoc-sdk,1.0.0,REVOC,Apache-2.0,20479,Zero-code-change governance SDK for REVOC — drop-in OpenAI client wrapper.
+2026-11-01T06:45:52Z,system-spec-ref,0.1.0,Tommy Alander,MIT,383460,"System specification toolkit: metamodel validator, examples and formal-model skills."
+2026-11-01T06:47:47Z,agentboxx,0.2.1,Prathmesh Kokate <prathmeshkokate775@gmail.com>,Apache-2.0,89492,A tamper-evident flight recorder for AI agents
+2026-11-01T06:48:21Z,l10n-gr,0.2.0,,MIT,22560,l10n.gr command line: live development of your Odoo modules on a project's staging (l10n-gr dev)
+2026-11-01T06:55:48Z,e3dc-ess-modbus,0.1.0,AlCalzone,Apache-2.0,103002,Read and control E3/DC home power stations over Modbus TCP.
+2026-11-01T06:59:13Z,wred-auth,0.1.0,,,64471,Optional auth integration for Wred
+2026-11-01T06:59:43Z,codex-image-generation,0.3.0,TangRuoJie,MIT,2291952,A local Codex MCP server for Responses image generation using existing provider credentials
+2026-11-01T07:00:48Z,everyinfra,0.3.0,EveryInfra,MIT,99873,"EveryInfra official client — data, captcha, search and text models behind one key"
+2026-11-01T07:02:09Z,gotrain,0.0.1,,,2386,GoTrain: an AI agent that trains geospatial models on its own. Placeholder; the full release follows.
+2026-11-01T07:04:38Z,daneq,0.4.2,Jeremy Bell,GPL-3.0-only,194226,"A btop-style terminal equalizer, effects rack and audio visualizer"
+2026-11-01T07:07:44Z,zoomit-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,147133,"Unofficial read-only MCP server for Zoomit (zoomit.ir/product, Zoobin): phone, laptop and GPU specs, shop prices in Toman, price history, comparisons."
+2026-11-01T07:07:49Z,gamefa-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,150653,"Unofficial read-only MCP server for Gamefa (gamefa.com), the Persian game and film site: news, reviews with scores, game and film profiles, upcoming releases."
+2026-11-01T07:07:50Z,mobile-ir-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,175790,"Unofficial read-only MCP server for Mobile.ir (mobile.ir), Iran's phone database: specs, shop prices, price history, used phones, SIM numbers."
+2026-11-01T07:09:28Z,iran-cloud-status-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,151179,"Unofficial read-only MCP server for Iranian cloud providers: live status, incidents, maintenance and public prices of ArvanCloud, Hamravesh, Chabokan and Liara."
+2026-11-01T07:09:30Z,bama-ir-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,148403,"Unofficial read-only MCP server for Bama (bama.ir), the Iranian car marketplace: car ads, market prices, new-car price lists."
+2026-11-01T07:09:33Z,karnameh-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,139587,"Unofficial read-only MCP server for Karnameh (karnameh.com): used-car ads, car details, new-car market prices and price history."
+2026-11-01T07:10:29Z,shellder,0.1.0,Soorya Prakash R,MIT,7740,Python client for the Shellder prompt API
+2026-11-01T07:11:00Z,hamrah-mechanic-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,140450,"Unofficial read-only MCP server for Hamrah Mechanic (hamrah-mechanic.com): daily car prices, used cars for sale, inspection fees."
+2026-11-01T07:11:04Z,sheypoor-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,157038,"Unofficial read-only MCP server for Sheypoor (sheypoor.com), Iran's classifieds: search ads, ad details, price summaries for cars, real estate and goods."
+2026-11-01T07:13:23Z,emalls-ir-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,MIT,135249,"Unofficial read-only MCP server for Emalls (emalls.ir), the Iranian price comparison site: products, shop offers, price history."
+2026-11-01T07:13:55Z,darukade-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,153147,"Unofficial read-only MCP server for Darukade (darukade.com), an Iranian online pharmacy: search products, prices, ingredients, usage, reviews."
+2026-11-01T07:15:18Z,aayi,0.1.1,Ahmed,,59030,Deploy Docker apps to any server with zero downtime and automatic HTTPS
+2026-11-01T07:18:48Z,zettcode-recap,0.1.0,Chang-LeHung,MIT,19721,"A ZettCode plugin: /recap sums up where the session is, and does so on its own when you step away"
+2026-11-01T07:20:34Z,bscontroller,0.1.0,,Apache-2.0 AND ISC,1076515,Standalone Bluetooth LE controller with discrete simulation time
