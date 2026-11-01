@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T21:17:44Z,querywarden-cli,0.1.0,Sofien Nefzi,MIT,143487,A CI gate for text-to-SQL features on PostgreSQL: accuracy regressions and safety violations fail the build.
+2026-11-01T21:25:10Z,agentsec-agentpolicy,0.1.0,deghosal-2026,Apache-2.0,2648887,"A pre-execution, deterministic policy decision point for tool-using AI agents. Evaluate every proposed tool call against declarative policy and return allow / audit / escalate / deny."
+2026-11-01T21:40:47Z,securechat-sdk,4.2.1,Bilbi,MIT,153834,Python SDK for SecureChat bots and user clients (aiogram-like).
+2026-11-01T21:41:15Z,spavik,0.1.0a1,Spavik <admin@spavik.co>,Apache-2.0,78699,"Python client for the Spavik API: training, prediction, forecasting, feedback loop."
+2026-11-01T21:44:34Z,hatch-uv-lock,0.1,Carli* Freudenberg <kound@posteo.de>,MIT,101849,Hatchling build hook that embeds uv.lock and pyproject.toml into wheels
+2026-11-01T21:48:42Z,mikrotik-doh-failover,0.4.2,Mikhail Deynekin <Mikhail@Deynekin.com>,MIT,42766,Zabbix-side tools for a verified DoH failover scheme on MikroTik RouterOS
+2026-11-01T21:57:08Z,mellix,0.0.1,Charlie Hudson,Apache-2.0,88961,Python client for the Mellix Decision API
+2026-11-01T22:00:04Z,dtpf,0.1.0,Vadim Kravciuk,BSD-3-Clause,89659,"Export, rich filters, a column chooser and bookmarks for the stock Django admin."
+2026-11-01T22:00:53Z,bugfinder,1.0.6,BretRen,,18225,"An old-fashioned, modern-background console game made in Python"
+2026-11-01T22:03:48Z,sandloom-admin,0.7.0a6,Vasyl Cherniavskyi,Apache-2.0,841077,"The admin console for Sandloom: a prebuilt web UI for the platform owner, with no Node or separate image."
+2026-11-01T22:05:33Z,lightsmith,0.1.0,Alexander Feghali <alexander.al-feghali@mail.mcgill.ca>,MIT,728004,"Open photonics suite: one typed JSON problem spec solved by Mie, T-matrix, DDA, FDTD, TMM, RCWA, FDE, EME, FDFD, PWE and circuit solvers on CPU or GPU, with differentiable inverse design, built for h…"
+2026-11-01T22:09:15Z,402mob-agent-wallet,0.1.1,,MIT,20862,Local EOA creation and EIP-191 merchant enrollment for 402Mob
+2026-11-01T22:10:26Z,sittybos,0.0.1,,MIT,3364,You probably meant sillybos. This package installs it.
+2026-11-01T22:10:28Z,sittybus,0.0.1,,MIT,3346,You probably meant sillybos. This package installs it.
+2026-11-01T22:10:30Z,sillybus,0.0.1,,MIT,3324,You probably meant sillybos. This package installs it.
+2026-11-01T22:12:59Z,hang,0.1.0,Joao Lopes,MIT,2655,Terminal hook and session orchestration toolkit (early placeholder release)
+2026-11-01T22:14:43Z,pysnapdog,0.1.0,Fabian Schmieder,Apache-2.0,154871,Async Python client for the SnapDog multi-room audio server (REST and WebSocket)
+2026-11-01T22:15:28Z,cm-cluster-on-demand-forge,0.0.0a0,NVIDIA,,1117,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-01T22:15:31Z,cm-cluster-on-demand-openstack,0.0.0a0,NVIDIA,,1144,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-01T22:15:34Z,cm-confuse,0.0.0a0,NVIDIA,,992,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-01T22:15:37Z,cm-image,0.0.0a0,NVIDIA,,980,Namespace protection for an internal NVIDIA BCM Python distribution
