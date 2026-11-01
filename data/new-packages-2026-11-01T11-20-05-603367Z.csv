@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T10:19:48Z,helixor-reasoner,0.2.0,Helixor <engineering@helixor.ai>,Apache-2.0,21510,"Typed client for the Helixor reasoning API: decide, fetch proofs, report outcomes."
+2026-11-01T10:20:31Z,hirescheck,1.5.0,hubee,MIT,190563,"Check whether hi-res PCM was upsampled, CD-rate audio came from a lossy file, or DSD was made from PCM"
+2026-11-01T10:22:11Z,relst,1.1.2,Ariel Tubul,,77884,"Expose any python object as an API: relst server and client over json, xml and a compact binary protocol"
+2026-11-01T10:23:08Z,splent-feature-analytics,0.2.0,,LGPL-3.0-or-later,52780,
+2026-11-01T10:25:00Z,brasil-planos-saude-mcp,0.1.0,,MIT,42772,"MCP server to compare Brazilian health-plan operators with ANS open data: complaints (IGR), quality (IDSS), fines and readjustments (read-only)."
+2026-11-01T10:28:36Z,fec-lint,0.1.0,Vincent,MIT,31411,"Free structural linter for French FEC files (Fichier des Écritures Comptables), CLI + MCP server"
+2026-11-01T10:36:45Z,talax,0.1.0,ChristKTMB,Apache-2.0,191954,Honest image verification: original camera file or platform copy?
+2026-11-01T10:36:50Z,splent-feature-apidocs,0.5.0,,LGPL-3.0-or-later,1079238,
+2026-11-01T10:37:22Z,nexus-worker,0.1.0,NexusCompute Network <providers@nexuscompute.ai>,MIT,23633,Monetize your GPU by serving open-source AI inference in the NexusCompute decentralized network.
+2026-11-01T10:37:45Z,roadbed,0.0.1,Roadbed <founders@roadbed.ai>,Apache-2.0,2613,"Roadbed: when a new open-weight base model ships, rebase your fine-tuned model on your reviewers' verdicts, gate it on a sealed holdout per slice, and open a pull request your model-risk team signs o…"
+2026-11-01T10:37:47Z,roadbed-sdk,0.0.1,Roadbed <founders@roadbed.ai>,Apache-2.0,2545,"Roadbed capture SDK: wrap your LLM client, capture interactions, record reviewer verdicts and outcomes, pseudonymised at the source."
+2026-11-01T10:37:50Z,roadbed-runner,0.0.1,Roadbed <founders@roadbed.ai>,Apache-2.0,2534,Roadbed runner: trains and evaluates candidate models on your own GPUs and posts signed receipts to your Roadbed control plane.
+2026-11-01T10:40:25Z,rustorb,0.1.0,,MIT OR Apache-2.0,11474526,CORBA ORB with its core in Rust: the Python binding
+2026-11-01T10:42:26Z,valtrion,0.7.4,GORYNED,MIT,515436,"Repeatable checks, supervised execution and verifiable evidence on local and SSH hosts."
+2026-11-01T10:43:31Z,splent-feature-citation,0.3.0,,LGPL-3.0-or-later,114198,
+2026-11-01T10:44:07Z,pixel-widget,0.1.1,Fribus Danila <dbfribus4@gmail.com>,MIT,79267,A neat desktop overlay pixel grid widget using Pygame and NumPy
+2026-11-01T10:44:18Z,ildevice-homeassistant,0.2.0,,MIT,65720,The IL device consumer for Home Assistant: IL descriptors become entities
+2026-11-01T10:44:56Z,spinback,0.1.0,leogermond,MIT,57614,Turn a scrolled Spotify playlist screen recording into tagged mp3 files via YouTube
+2026-11-01T10:45:51Z,webapp-shell,0.1,Miracle Apata <prmpsmart@gmail.com>,MIT,328805,A desktop window for a web app made of a Python backend and a compiled frontend.
+2026-11-01T10:46:51Z,splent-feature-curation,0.2.0,,LGPL-3.0-or-later,73429,"The review queue of a hub: the datasets its policy sends to review before they are published, and the withdrawals their owners ask for"
+2026-11-01T10:48:46Z,dvarapala,0.20.0,,MIT,1179635,"In-process rate limit, flood detection and connection limits from the dvarapala gateway (RFC 0008)"
+2026-11-01T10:49:12Z,anki-voice,1.0.0,,MIT,107475,MCP server for reviewing Anki cards by voice from the Claude app
+2026-11-01T10:49:32Z,iran-insurance-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,MIT,441194,"Unofficial read-only MCP server for Iranian insurance marketplaces BimeBazar and Azki: side-by-side insurers, travel prices, car quotes, guides."
+2026-11-01T10:49:37Z,iran-brokers-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,MIT,504205,"Unofficial read-only MCP server for Iranian brokers Mofid (emofid.com) and Agah (agah.com): stocks, funds, options, bonds, gold, screener, announcements, education."
+2026-11-01T10:50:52Z,agentprov,0.1.1,Nicholas Jones,MIT,6145406,"AgentPROV: an execution-provenance framework for LLM-agent security research — source-preserving, evidence-qualified execution records and defensible W3C PROV, with benchmark/framework adapters"
+2026-11-01T10:51:31Z,podkop-mcp,0.2.2,Mikhail <mikel38487@users.noreply.github.com>,MIT,248533,MCP server for managing Podkop and Forkop on OpenWrt over SSH
+2026-11-01T10:52:04Z,tadclust,0.1.0a1,snsinfu <snsinfu@gmail.com>,MIT,130699,Hierarchical clustering of TADs
+2026-11-01T10:53:11Z,promptdock,0.1.0,"Shreya Mhetre, Parth",MIT,695279,"Focused prompt versioning: immutable versions, movable tags, eval-gated promotion."
+2026-11-01T10:55:33Z,chaintrace,0.1.0,ehsanhajian,MIT,43701,"See what a blockchain node is doing, from the process table and a short kernel trace."
+2026-11-01T10:56:51Z,agentprov-capture,0.1.1,Nicholas Jones,MIT,79561,"AgentPROV capture/0.1 raw-evidence event log: model, writer, hash-chain verifier, redaction. Stdlib + rfc8785 only; shared by the AgentPROV core (reader) and the isolated live backends (writer)."
+2026-11-01T10:56:55Z,agentprov-zenodo,0.1.1,Nicholas Jones,MIT,45806,"AgentPROV's draft-only Zenodo uploader (D-790, D-870, D-880): unpublished drafts, communities, reserved DOIs and cross-links from deposit drafts made by `agentprov package --deposit`. Never publishes…"
+2026-11-01T11:00:46Z,mattesolv,0.0.1,Jacky <jacky@gmail.com>,MIT,16712504,Mattesolv package
+2026-11-01T11:01:14Z,invoicing-pdf-jg,1.0.0,Gregory,MIT,2602,This package can be used to convert Excel invoices to PDF invoices.
+2026-11-01T11:01:25Z,probe-pkg-xxxx9999,0.0.1,,,808,
+2026-11-01T11:01:27Z,zinn-sdk,0.1.1308,Zinn Digital Ltd,MIT,16044876,A client library for accessing Zinn Digital® Platform API
+2026-11-01T11:02:04Z,surgical-context-mcp,0.1.0,Eray Erturk,MIT,159012,"Local Tree-sitter code knowledge graph & MCP server that gives Claude Code, Cursor and other AI coding agents surgical edit context — cutting token usage by 80-95%."
+2026-11-01T11:04:27Z,injection-bench,0.1.0,Ashish Dhillon,MIT,24193,"Leakage-controlled, time-split benchmark harness for prompt-injection and jailbreak detectors, with shortcut baselines and bootstrap CIs"
+2026-11-01T11:05:01Z,bharatid,0.1.0,Ashish Dhillon,MIT,17365,"Detect, validate and redact Indian identifiers (Aadhaar, PAN, GSTIN, IFSC, UPI, vehicle plates ...) with checksum validation. Zero dependencies."
+2026-11-01T11:06:15Z,token2-probe-xxxx,0.0.1,,,792,
+2026-11-01T11:06:17Z,token3-probe-xxxx,0.0.1,,,795,
+2026-11-01T11:07:25Z,rectcropper,1.2.0,Shinyook Lee,MIT,33163,Crop image to rectangle
+2026-11-01T11:09:11Z,small-toolkit,0.1.1,,,37245,纯标准库的通用小工具：产物目录、日志初始化、命令行参数与终端表格
+2026-11-01T11:10:02Z,scalableImageTransformations,1.0.0,Prakhar Gandhi <gprakhar0@gmail.com>,MIT,4706,My Python package related to scaling image transformations
+2026-11-01T11:10:03Z,rung-cli,0.1.2,,Apache-2.0,353902,"An opinionated verification ladder for software written with coding agents: architecture rules, runtime evidence, properties, TLA+ and Lean, and an evidence ledger that expires when code changes."
+2026-11-01T11:12:50Z,atropos-client,1.0.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright © 2007 Free Software Foundation, Inc.…",82313,Atropos HTTP rule client without engine or storage dependencies
+2026-11-01T11:13:13Z,atraxis-atropos,1.0.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright © 2007 Free Software Foundation, Inc.…",427366,Durable rule and workflow engine for the Atraxis ecosystem
+2026-11-01T11:13:51Z,morphtree,2.1.0,,MIT,944987,Adaptive tree learning for tabular data with diagnostic structural evolution
+2026-11-01T11:15:36Z,agentfile-lint,0.4.0,,MIT,87399,"A linter for agent instruction files (AGENTS.md / CLAUDE.md), configured by TOML."
+2026-11-01T11:17:25Z,badgr,2.0.1.post0,AnteMotion SRL,MIT,3862134,AnteMotion attendance web app on top of ANVIZ CrossChex Standard
+2026-11-01T11:19:58Z,tcia-data-retriever,0.1.0rc1,The Cancer Imaging Archive,Apache-2.0,90754416,TCIA Data Retriever headless executable and Python interface
