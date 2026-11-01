@@ -1,0 +1,46 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T03:33:37Z,pynect,0.0.0,Reggie Bowser,MIT,2823,Typed Python interoperability for Node.js and Bun.
+2026-11-01T03:34:07Z,hydrobridge,0.1.0,montiepy,MIT,24977,Read PLC registers over Modbus and publish them as telemetry
+2026-11-01T03:34:44Z,thonny-ai-assistant,0.6.3,TommyLee2009,MIT License Copyright (c) 2025 Oliver0804 Copyright (c) 2026 TommyLee2009 Permission is hereby gran…,64935,Bilingual AI assistant plugin for Thonny
+2026-11-01T03:35:39Z,ggrust,0.1.0,Zaf4 <zafermolbio@gmail.com>,MIT,44158402,Grammar-of-graphics plotting engine in Rust with a lets_plot-compatible Python API
+2026-11-01T03:35:46Z,memory-core-lib,0.6.0,JikunLiu101,Apache-2.0,162130,"A local-first, framework-agnostic long-term memory core for AI companions: raw experiences are the source of truth, vectors are a rebuildable index."
+2026-11-01T03:35:52Z,colorful-swiss,0.1.0,,,3499,A Python terminal UI library
+2026-11-01T03:37:51Z,mcptape,0.1.0,E'Angelo,MIT,40122,"Tape recorder for the Model Context Protocol: record any MCP server once, replay it offline forever, diff what drifted. Zero dependencies."
+2026-11-01T03:38:15Z,pdfdown,0.1.0,Md Rafsun Sheikh,MIT,217204,"A terminal app that turns PDFs, especially research articles, into clean Markdown with tables, cropped figures and equations."
+2026-11-01T03:40:29Z,langchain-memtether,0.1.0,,Apache-2.0,5546,"LangChain Memory backend backed by MemTether governed SQLite store (audit chain, bi-temporal, source attribution)"
+2026-11-01T03:42:14Z,dex-agents,0.1.0,Super Durable,LicenseRef-Sustainable-Use-1.0,108645,"Durable agent sessions for Dex, shared by the Dex agent framework adapters"
+2026-11-01T03:43:03Z,sbp4ai-client,0.5.7,slamKun,MIT,16659,"SBP (Session Bridge Protocol) E2EE crypto core: X25519 crypto_box + Ed25519, opaque-tag routing, for clients and devices talking to an untrusted sbp-dispatcher."
+2026-11-01T03:43:40Z,indox-mcp,0.7.0,Indox <support@indox.org>,LicenseRef-Proprietary,35940,MCP server for the Indox document and media conversion API.
+2026-11-01T03:44:05Z,superclonica-mcp,0.1.0,superclonica.com,Apache-2.0,51830,"Local MCP server for SuperClonica text to speech: offline voices in 31 languages, no limits, voices from superclonica.com"
+2026-11-01T03:45:18Z,tba-contracts-token,0.4.0.dev2,,Apache-2.0,7128,Protocol-neutral token contracts for the TBA identity stack.
+2026-11-01T03:45:28Z,dex-agents-openai-agents,0.1.0,Super Durable,LicenseRef-Sustainable-Use-1.0,48805,Run OpenAI Agents SDK agents as durable Dex agent sessions
+2026-11-01T03:45:31Z,psnek,0.1.0,Max Woolf,MIT,83927,A modern reimaging of the Python progresssss bar.
+2026-11-01T03:46:34Z,dex-agents-pydantic-ai,0.1.0,Super Durable,LicenseRef-Sustainable-Use-1.0,43057,Run Pydantic AI agents as durable Dex agent sessions
+2026-11-01T03:47:05Z,tba-contracts-attestation,0.4.0.dev2,,Apache-2.0,3622,Protocol-neutral attestation and reference-integrity contracts.
+2026-11-01T03:47:12Z,dex-agents-langgraph,0.1.0,Super Durable,LicenseRef-Sustainable-Use-1.0,56764,Durable Dex agent sessions for LangChain create_agent agents and LangGraph graphs
+2026-11-01T03:47:51Z,dex-agents-google-adk,0.1.0,Super Durable,LicenseRef-Sustainable-Use-1.0,56963,Run Google ADK agents as durable Dex agent sessions
+2026-11-01T03:48:16Z,dex-agents-claude-agent-sdk,0.1.0,Super Durable,LicenseRef-Sustainable-Use-1.0,69948,Durable Claude Agent SDK sessions on Dex
+2026-11-01T03:48:46Z,tba-contracts-workload-identity,0.4.0.dev2,,Apache-2.0,10357,"Protocol-neutral workload identity, credential, trust, and delegation contracts."
+2026-11-01T03:50:48Z,tba-contracts-identity,0.4.0.dev2,,Apache-2.0,137537,"Dependency-light identity contract dataclasses, enums, protocols, and plane access metadata."
+2026-11-01T03:50:52Z,privacypass-py,0.1.101,,,2445,Privacy Pass client primitives (python)
+2026-11-01T03:51:58Z,odoo-addons-oca-product-kitting,18.0.20261030.0,,,1352,
+2026-11-01T03:52:29Z,tba-bases-attestation,0.4.0.dev2,,Apache-2.0,2838,Protocol-neutral remote attestation bases.
+2026-11-01T03:52:38Z,idemcore-verify,0.3.0,Don Wick <don.wick@idemcore.net>,Apache-2.0,38567,"Check Idemcore per-token hash logs: verify, without trusting us, that two machines produced bit-identical LLM inference."
+2026-11-01T03:54:02Z,tba-bases-authentication-context,0.4.0.dev2,,Apache-2.0,2802,Protocol-neutral authentication context evaluation bases.
+2026-11-01T03:55:25Z,idemcore,0.1.0,Don Wick <don.wick@idemcore.net>,Apache-2.0,51787,"Python client for the Idemcore API: chat completions with signed receipts, and local receipt verification."
+2026-11-01T03:55:43Z,tba-bases-authentication-credential,0.4.0.dev2,,Apache-2.0,2605,Protocol-neutral bases for authentication credentials.
+2026-11-01T03:57:37Z,tba-bases-authenticator,0.1.0,,Apache-2.0,7554,Authenticator base classes and mixins for the TBA package suite.
+2026-11-01T03:59:34Z,tba-bases-authorization-policy,0.4.0.dev2,,Apache-2.0,4321,Base classes for concrete TBAorization policy implementations.
+2026-11-01T03:59:52Z,data-steward,0.6.0,Ho Seok Lee,MIT,193804,"A command-line catalogue for a lab's datasets: find them, download public data once, link instead of copy"
+2026-11-01T04:00:25Z,julie-guard,3.7.0,Julie Security Network <admin@julie.freysa.dev>,MIT,11075,Autonomous Pre-Trade Honeypot & Forensics Guard across 35 EVM Chains with x402 Micropayments
+2026-11-01T04:01:58Z,tba-bases-capability,0.4.0.dev2,,Apache-2.0,3287,Abstract capability base for the TBA identity package suite.
+2026-11-01T04:03:54Z,sbp4ai-dispatcher,0.5.7,slamKun,MIT,37037,"SBP (Session Bridge Protocol) relay. Two modes: legacy HMAC/plaintext for trusted LAN, and an E2EE mode where the relay holds only public keys and routes by opaque HMAC tags - it can never read promp…"
+2026-11-01T04:04:59Z,gitdone,0.2.0,ArtJack,"MIT License Copyright (c) 2026 ArtJack Permission is hereby granted, free of charge, to any person…",180186,"A percent done you can defend: strict and weighted completion from one plan file and one status table, each claim held to git."
+2026-11-01T04:06:19Z,flash-context,0.1.0,flash-context maintainers,Apache-2.0,55976,"Read-only context exploration and retrieval for AI agents, starting with codebases and repositories."
+2026-11-01T04:06:26Z,tba-bases-claim,0.4.0.dev2,,,4218,
+2026-11-01T04:08:48Z,tba-bases-did,0.4.0.dev2,,Apache-2.0,2451,Reusable DID resolution and dereferencing bases.
+2026-11-01T04:10:40Z,tba-bases-digital-credential,0.4.0.dev2,,Apache-2.0,2940,Protocol-neutral digital credential provider bases.
+2026-11-01T04:11:25Z,recallweaver,1.2.0,,,771188,A lightweight local memory engine for AI agents
+2026-11-01T04:12:03Z,ecotyper-py,0.1.1,Ho Seok Lee,LicenseRef-Stanford-NonCommercial,202784,"Python/AnnData port of EcoTyper (Luca, Steen et al., Cell 2021) with numerical parity to the R implementation"
+2026-11-01T04:12:51Z,tba-bases-identity,0.4.0.dev2,,Apache-2.0,2630,Protocol-neutral bases for identities and subject identifiers.
+2026-11-01T04:16:26Z,jobinja-employer-mcp,0.3.0,,MIT,38103,مرور سریع و شورت‌لیست رزومه‌های دریافتی پنل کارفرمایی جابینجا با هوش مصنوعی و مصرف توکن کم — MCP server for Jobinja employers

@@ -8,44 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 03:19 UTC
+## Latest list — 2026-11-01 04:18 UTC
 
-New packages created between 2026-11-01 02:20 UTC and 2026-11-01 03:19 UTC.
+New packages created between 2026-11-01 03:19 UTC and 2026-11-01 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-01T03-19-04-271289Z.csv)
+[Full CSV](data/new-packages-2026-11-01T04-18-18-243255Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-01 02:20:47 | [tba-contracts-claim](https://pypi.org/project/tba-contracts-claim/) | 0.4.0.dev2 |  | 4.5 kB | Protocol-neutral claim and claim-set contracts. |
-| 2026-11-01 02:22:26 | [tba-contracts-did](https://pypi.org/project/tba-contracts-did/) | 0.4.0.dev2 |  | 6.0 kB | Protocol-neutral decentralized identifier contracts. |
-| 2026-11-01 02:24:17 | [tba-contracts-digital-credential](https://pypi.org/project/tba-contracts-digital-credential/) | 0.4.0.dev2 |  | 7.9 kB | Representation-neutral digital credential contracts. |
-| 2026-11-01 02:24:53 | [tkunity](https://pypi.org/project/tkunity/) | 2026.10.31 | oiiaio-web | 36.7 kB | tkunity - 纯标准库的 Unity 风格 2D 游戏编辑器与运行时，可把 .pyu 游戏导出为 Android APK 工程（Apache 2.0,… |
-| 2026-11-01 02:26:05 | [tba-contracts-identity-assurance](https://pypi.org/project/tba-contracts-identity-assurance/) | 0.4.0.dev2 |  | 4.1 kB | Protocol-neutral identity assurance contracts. |
-| 2026-11-01 02:28:03 | [tba-contracts-identity-document](https://pypi.org/project/tba-contracts-identity-document/) | 0.4.0.dev2 |  | 4.7 kB | Protocol-neutral identity-document contracts. |
-| 2026-11-01 02:29:51 | [tba-contracts-proof-of-possession](https://pypi.org/project/tba-contracts-proof-of-possession/) | 0.4.0.dev2 |  | 6.3 kB | Protocol-neutral credential possession-proof contracts. |
-| 2026-11-01 02:29:53 | [raxis-cuda13](https://pypi.org/project/raxis-cuda13/) | 0.4.0 | Pablo García Mesa | 54.6 MB | CUDA 13 backend of raxis (NVIDIA GPUs) |
-| 2026-11-01 02:30:13 | [arroyo-python](https://pypi.org/project/arroyo-python/) | 0.1.2 | 4thel00z | 36.0 MB | Crash-resumable Parquet multipart uploads to S3-compatible storage, and paralle… |
-| 2026-11-01 02:31:44 | [tba-contracts-protected-envelope](https://pypi.org/project/tba-contracts-protected-envelope/) | 0.4.0.dev2 |  | 5.4 kB | Protocol-neutral signed and encrypted envelope contracts. |
-| 2026-11-01 02:31:59 | [kinetry](https://pypi.org/project/kinetry/) | 0.3.0 | The Kinetry Authors | 3.5 MB | Turn learning content and a brand into narrated, on-brand videos. |
-| 2026-11-01 02:33:45 | [tba-contracts-public-key-authentication](https://pypi.org/project/tba-contracts-public-key-authentication/) | 0.4.0.dev2 |  | 11.1 kB | Protocol-neutral public-key authentication contracts. |
-| 2026-11-01 02:35:13 | [tba-contracts-release](https://pypi.org/project/tba-contracts-release/) | 0.1.0 | Jacob Stewart | 11.1 kB | Dependency-light release assurance, attestation, qualification, and gate contra… |
-| 2026-11-01 02:36:48 | [tba-contracts-replay](https://pypi.org/project/tba-contracts-replay/) | 0.4.0.dev2 |  | 4.1 kB | Protocol-neutral replay protection contracts. |
-| 2026-11-01 02:38:22 | [tba-contracts-security-event](https://pypi.org/project/tba-contracts-security-event/) | 0.4.0.dev2 |  | 4.4 kB | Protocol-neutral security-event contracts. |
-| 2026-11-01 02:40:14 | [tba-contracts-security-key-rotation-policy](https://pypi.org/project/tba-contracts-security-key-rotation-policy/) | 0.1.0 |  | 3.8 kB | Key rotation policy contract dataclasses. |
-| 2026-11-01 02:42:08 | [tba-contracts-security-trust](https://pypi.org/project/tba-contracts-security-trust/) | 0.1.0 | Jacob Stewart | 29.7 kB | Draft horizontal contracts and DTOs for security, trust, key, crypto, and ciphe… |
-| 2026-11-01 02:42:48 | [rusthinq](https://pypi.org/project/rusthinq/) | 0.2.0rc8.post1 |  | 17.8 MB | Prebuilt rusthinq binaries (local server for LG ThinQ appliances) |
-| 2026-11-01 02:44:05 | [tba-storage-core](https://pypi.org/project/tba-storage-core/) | 0.4.0.dev2 |  | 214.8 kB | Tigrbl and SQLAlchemy identity tables, ORM models, migrations, persistence help… |
-| 2026-11-01 02:48:53 | [nocturnus](https://pypi.org/project/nocturnus/) | 0.0.1 |  | 2.7 kB | Nocturnus: the map of what's actually exposed, with receipts. |
-| 2026-11-01 02:49:00 | [earshot-cli](https://pypi.org/project/earshot-cli/) | 0.1.1 | Jackie | 127.1 kB | 旁听剪藏:跨平台桌面端系统声录制 → 本地转写 → 投递知识库(默认 ExoMind,可插拔) |
-| 2026-11-01 02:58:51 | [heirmos-cli](https://pypi.org/project/heirmos-cli/) | 0.1.0 | Pneumora | 23.9 kB | Heirmos memory for coding agents — session-start briefing and automatic capture… |
-| 2026-11-01 02:59:21 | [atm-bd-types](https://pypi.org/project/atm-bd-types/) | 0.1.1 |  | 2.1 MB | Shared types for ATM bead orchestration |
-| 2026-11-01 03:01:13 | [meshctx](https://pypi.org/project/meshctx/) | 3.137.8 | Jason Liu <jason.liu@meshctx.… | 3.1 MB | World's First Self-Evolving Agent System |
-| 2026-11-01 03:10:21 | [tdmslite](https://pypi.org/project/tdmslite/) | 2026.10.31 |  | 20.1 kB | A lightweight python package to write to and read from National Instruments TDM… |
-| 2026-11-01 03:11:44 | [privacypass-py](https://pypi.org/project/privacypass-py/) | 0.1.100 |  | 1.1 kB | Privacy Pass client primitives (python) |
-| 2026-11-01 03:11:55 | [aotolith](https://pypi.org/project/aotolith/) | 0.62.0 | jaykay233 | 814.7 kB | An Apple Metal-first compiler for Transformer models. |
-| 2026-11-01 03:12:46 | [odoo-addons-oca-l10n-belarus](https://pypi.org/project/odoo-addons-oca-l10n-belarus/) | 19.0.20261029.1 |  | 1.3 kB |  |
-| 2026-11-01 03:13:30 | [cellpax](https://pypi.org/project/cellpax/) | 0.0.1 | Casey Schneider-Mizell | 679.6 kB | Cell feature universe analysis for connectomics |
-| 2026-11-01 03:14:24 | [awesome-image-video-prompts](https://pypi.org/project/awesome-image-video-prompts/) | 0.1.0 | Adrian Vale | 5.8 MB | 2,212 AI image and video prompts (GPT Image 2, Nano Banana, Seedance, Kling, Mi… |
-| 2026-11-01 03:15:02 | [seq2waveform](https://pypi.org/project/seq2waveform/) | 0.1.0 |  | 9.1 MB | Read Pulseq .seq and DSV files into waveform arrays, with k-space sampling. |
-| 2026-11-01 03:18:18 | [docfig](https://pypi.org/project/docfig/) | 0.1.0 | DocFig <hello@docfig.com> | 52.8 kB | Free offline bank statement reconciliation check (CSV/Excel), plus the DocFig A… |
-| 2026-11-01 03:18:30 | [odoo-addon-l10n-fr-account-invoice-import](https://pypi.org/project/odoo-addon-l10n-fr-account-invoice-import/) | 18.0.1.0.0.4 | Akretion,Odoo Community Assoc… | 24.3 kB | France-specific module to import invoices |
+| 2026-11-01 03:33:37 | [pynect](https://pypi.org/project/pynect/) | 0.0.0 | Reggie Bowser | 2.8 kB | Typed Python interoperability for Node.js and Bun. |
+| 2026-11-01 03:34:07 | [hydrobridge](https://pypi.org/project/hydrobridge/) | 0.1.0 | montiepy | 25.0 kB | Read PLC registers over Modbus and publish them as telemetry |
+| 2026-11-01 03:34:44 | [thonny-ai-assistant](https://pypi.org/project/thonny-ai-assistant/) | 0.6.3 | TommyLee2009 | 64.9 kB | Bilingual AI assistant plugin for Thonny |
+| 2026-11-01 03:35:39 | [ggrust](https://pypi.org/project/ggrust/) | 0.1.0 | Zaf4 <zafermolbio@gmail.com> | 44.2 MB | Grammar-of-graphics plotting engine in Rust with a lets_plot-compatible Python… |
+| 2026-11-01 03:35:46 | [memory-core-lib](https://pypi.org/project/memory-core-lib/) | 0.6.0 | JikunLiu101 | 162.1 kB | A local-first, framework-agnostic long-term memory core for AI companions: raw… |
+| 2026-11-01 03:35:52 | [colorful-swiss](https://pypi.org/project/colorful-swiss/) | 0.1.0 |  | 3.5 kB | A Python terminal UI library |
+| 2026-11-01 03:37:51 | [mcptape](https://pypi.org/project/mcptape/) | 0.1.0 | E'Angelo | 40.1 kB | Tape recorder for the Model Context Protocol: record any MCP server once, repla… |
+| 2026-11-01 03:38:15 | [pdfdown](https://pypi.org/project/pdfdown/) | 0.1.0 | Md Rafsun Sheikh | 217.2 kB | A terminal app that turns PDFs, especially research articles, into clean Markdo… |
+| 2026-11-01 03:40:29 | [langchain-memtether](https://pypi.org/project/langchain-memtether/) | 0.1.0 |  | 5.5 kB | LangChain Memory backend backed by MemTether governed SQLite store (audit chain… |
+| 2026-11-01 03:42:14 | [dex-agents](https://pypi.org/project/dex-agents/) | 0.1.0 | Super Durable | 108.6 kB | Durable agent sessions for Dex, shared by the Dex agent framework adapters |
+| 2026-11-01 03:43:03 | [sbp4ai-client](https://pypi.org/project/sbp4ai-client/) | 0.5.7 | slamKun | 16.7 kB | SBP (Session Bridge Protocol) E2EE crypto core: X25519 crypto_box + Ed25519, op… |
+| 2026-11-01 03:43:40 | [indox-mcp](https://pypi.org/project/indox-mcp/) | 0.7.0 | Indox <support@indox.org> | 35.9 kB | MCP server for the Indox document and media conversion API. |
+| 2026-11-01 03:44:05 | [superclonica-mcp](https://pypi.org/project/superclonica-mcp/) | 0.1.0 | superclonica.com | 51.8 kB | Local MCP server for SuperClonica text to speech: offline voices in 31 language… |
+| 2026-11-01 03:45:18 | [tba-contracts-token](https://pypi.org/project/tba-contracts-token/) | 0.4.0.dev2 |  | 7.1 kB | Protocol-neutral token contracts for the TBA identity stack. |
+| 2026-11-01 03:45:28 | [dex-agents-openai-agents](https://pypi.org/project/dex-agents-openai-agents/) | 0.1.0 | Super Durable | 48.8 kB | Run OpenAI Agents SDK agents as durable Dex agent sessions |
+| 2026-11-01 03:45:31 | [psnek](https://pypi.org/project/psnek/) | 0.1.0 | Max Woolf | 83.9 kB | A modern reimaging of the Python progresssss bar. |
+| 2026-11-01 03:46:34 | [dex-agents-pydantic-ai](https://pypi.org/project/dex-agents-pydantic-ai/) | 0.1.0 | Super Durable | 43.1 kB | Run Pydantic AI agents as durable Dex agent sessions |
+| 2026-11-01 03:47:05 | [tba-contracts-attestation](https://pypi.org/project/tba-contracts-attestation/) | 0.4.0.dev2 |  | 3.6 kB | Protocol-neutral attestation and reference-integrity contracts. |
+| 2026-11-01 03:47:12 | [dex-agents-langgraph](https://pypi.org/project/dex-agents-langgraph/) | 0.1.0 | Super Durable | 56.8 kB | Durable Dex agent sessions for LangChain create_agent agents and LangGraph grap… |
+| 2026-11-01 03:47:51 | [dex-agents-google-adk](https://pypi.org/project/dex-agents-google-adk/) | 0.1.0 | Super Durable | 57.0 kB | Run Google ADK agents as durable Dex agent sessions |
+| 2026-11-01 03:48:16 | [dex-agents-claude-agent-sdk](https://pypi.org/project/dex-agents-claude-agent-sdk/) | 0.1.0 | Super Durable | 69.9 kB | Durable Claude Agent SDK sessions on Dex |
+| 2026-11-01 03:48:46 | [tba-contracts-workload-identity](https://pypi.org/project/tba-contracts-workload-identity/) | 0.4.0.dev2 |  | 10.4 kB | Protocol-neutral workload identity, credential, trust, and delegation contracts. |
+| 2026-11-01 03:50:48 | [tba-contracts-identity](https://pypi.org/project/tba-contracts-identity/) | 0.4.0.dev2 |  | 137.5 kB | Dependency-light identity contract dataclasses, enums, protocols, and plane acc… |
+| 2026-11-01 03:50:52 | [privacypass-py](https://pypi.org/project/privacypass-py/) | 0.1.101 |  | 2.4 kB | Privacy Pass client primitives (python) |
+| 2026-11-01 03:51:58 | [odoo-addons-oca-product-kitting](https://pypi.org/project/odoo-addons-oca-product-kitting/) | 18.0.20261030.0 |  | 1.4 kB |  |
+| 2026-11-01 03:52:29 | [tba-bases-attestation](https://pypi.org/project/tba-bases-attestation/) | 0.4.0.dev2 |  | 2.8 kB | Protocol-neutral remote attestation bases. |
+| 2026-11-01 03:52:38 | [idemcore-verify](https://pypi.org/project/idemcore-verify/) | 0.3.0 | Don Wick <don.wick@idemcore.n… | 38.6 kB | Check Idemcore per-token hash logs: verify, without trusting us, that two machi… |
+| 2026-11-01 03:54:02 | [tba-bases-authentication-context](https://pypi.org/project/tba-bases-authentication-context/) | 0.4.0.dev2 |  | 2.8 kB | Protocol-neutral authentication context evaluation bases. |
+| 2026-11-01 03:55:25 | [idemcore](https://pypi.org/project/idemcore/) | 0.1.0 | Don Wick <don.wick@idemcore.n… | 51.8 kB | Python client for the Idemcore API: chat completions with signed receipts, and… |
+| 2026-11-01 03:55:43 | [tba-bases-authentication-credential](https://pypi.org/project/tba-bases-authentication-credential/) | 0.4.0.dev2 |  | 2.6 kB | Protocol-neutral bases for authentication credentials. |
+| 2026-11-01 03:57:37 | [tba-bases-authenticator](https://pypi.org/project/tba-bases-authenticator/) | 0.1.0 |  | 7.6 kB | Authenticator base classes and mixins for the TBA package suite. |
+| 2026-11-01 03:59:34 | [tba-bases-authorization-policy](https://pypi.org/project/tba-bases-authorization-policy/) | 0.4.0.dev2 |  | 4.3 kB | Base classes for concrete TBAorization policy implementations. |
+| 2026-11-01 03:59:52 | [data-steward](https://pypi.org/project/data-steward/) | 0.6.0 | Ho Seok Lee | 193.8 kB | A command-line catalogue for a lab's datasets: find them, download public data… |
+| 2026-11-01 04:00:25 | [julie-guard](https://pypi.org/project/julie-guard/) | 3.7.0 | Julie Security Network <admin… | 11.1 kB | Autonomous Pre-Trade Honeypot & Forensics Guard across 35 EVM Chains with x402… |
+| 2026-11-01 04:01:58 | [tba-bases-capability](https://pypi.org/project/tba-bases-capability/) | 0.4.0.dev2 |  | 3.3 kB | Abstract capability base for the TBA identity package suite. |
+| 2026-11-01 04:03:54 | [sbp4ai-dispatcher](https://pypi.org/project/sbp4ai-dispatcher/) | 0.5.7 | slamKun | 37.0 kB | SBP (Session Bridge Protocol) relay. Two modes: legacy HMAC/plaintext for trust… |
+| 2026-11-01 04:04:59 | [gitdone](https://pypi.org/project/gitdone/) | 0.2.0 | ArtJack | 180.2 kB | A percent done you can defend: strict and weighted completion from one plan fil… |
+| 2026-11-01 04:06:19 | [flash-context](https://pypi.org/project/flash-context/) | 0.1.0 | flash-context maintainers | 56.0 kB | Read-only context exploration and retrieval for AI agents, starting with codeba… |
+| 2026-11-01 04:06:26 | [tba-bases-claim](https://pypi.org/project/tba-bases-claim/) | 0.4.0.dev2 |  | 4.2 kB |  |
+| 2026-11-01 04:08:48 | [tba-bases-did](https://pypi.org/project/tba-bases-did/) | 0.4.0.dev2 |  | 2.5 kB | Reusable DID resolution and dereferencing bases. |
+| 2026-11-01 04:10:40 | [tba-bases-digital-credential](https://pypi.org/project/tba-bases-digital-credential/) | 0.4.0.dev2 |  | 2.9 kB | Protocol-neutral digital credential provider bases. |
+| 2026-11-01 04:11:25 | [recallweaver](https://pypi.org/project/recallweaver/) | 1.2.0 |  | 771.2 kB | A lightweight local memory engine for AI agents |
+| 2026-11-01 04:12:03 | [ecotyper-py](https://pypi.org/project/ecotyper-py/) | 0.1.1 | Ho Seok Lee | 202.8 kB | Python/AnnData port of EcoTyper (Luca, Steen et al., Cell 2021) with numerical… |
+| 2026-11-01 04:12:51 | [tba-bases-identity](https://pypi.org/project/tba-bases-identity/) | 0.4.0.dev2 |  | 2.6 kB | Protocol-neutral bases for identities and subject identifiers. |
+| 2026-11-01 04:16:26 | [jobinja-employer-mcp](https://pypi.org/project/jobinja-employer-mcp/) | 0.3.0 |  | 38.1 kB | مرور سریع و شورت‌لیست رزومه‌های دریافتی پنل کارفرمایی جابینجا با هوش مصنوعی و م… |
