@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T14:18:42Z,arc56-generated-bgope-22c56af6,1.1.2026110114,BGope025,,77612,Generated ARC-56 Algorand smart-contract clients for BGope025/meditrace.
+2026-11-01T14:19:41Z,xos-sdk,4.1.0,GHXSTSHIP Industries LLC,MIT,633622,Python SDK for the XOS public API.
+2026-11-01T14:19:51Z,meterline-gold,0.1.0,Xavier Meyer,Apache-2.0,275001,"Turns meterline silver, organisation files, a price list and a policy file into per-person, per-group and per-audience datasets."
+2026-11-01T14:24:48Z,arc56-generated-jacko-663da7d5,1.2.2026072010,jackoske,,19849,Generated ARC-56 Algorand smart-contract clients for jackoske/0ktopus_ProofOfConcept_hackaton.
+2026-11-01T14:25:02Z,pyrixos-espalier,1.0.0,PacketFive,GPL-2.0-only,68188,"Data models validated from type annotations, a pure-Python subset of the pydantic 2 API"
+2026-11-01T14:25:05Z,pyrixos-ed25519,1.0.0,PacketFive,GPL-2.0-only,27418,"Ed25519 signatures (RFC 8032) in Python, with no compiled code"
+2026-11-01T14:25:51Z,arc56-generated-jake-a3655d64,1.2.2026072010,Jake-loranger,,14956,Generated ARC-56 Algorand smart-contract clients for Jake-loranger/AlgoDevShop.
+2026-11-01T14:26:03Z,melek-docs,1.0.0,Mavis <mavis@example.com>,MIT,36295,Akıllı Arşivci ve Semantik Arama Motoru (FTS5 + zlib)
+2026-11-01T14:26:55Z,arc56-generated-jayav-878ee542,1.2.2026072010,jayaveerR,,13576,Generated ARC-56 Algorand smart-contract clients for jayaveerR/Algorand_Student.
+2026-11-01T14:27:22Z,runge-kutta,0.1.0,,,6242,Runge-Kutta ODE solvers
+2026-11-01T14:28:59Z,memoryking,0.1.0a1,James King,Apache-2.0,6890462,"MemoryKing local memory, checkpoint and recovery service"
+2026-11-01T14:38:07Z,django-model-agent,2026.1.1,Jeff Triplett,PolyForm-Noncommercial-1.0.0,91655,A Django Ninja-style abstraction for binding Django models to Pydantic AI Agents
+2026-11-01T14:38:21Z,prrevers,1.2.0,Pradushkoai,"MIT License Copyright (c) 2026 Pradushkoai Permission is hereby granted, free of charge, to any per…",766934,AI-assisted reverse engineering toolkit for game developers — Windows & Android.
+2026-11-01T14:38:33Z,margin,0.2.1,Konstantinos Georgiou,MIT,152552,"Publish a repo's markdown to a self-hosted Outline, keep comments anchored, and bring each new comment back to an AI agent in batches"
+2026-11-01T14:43:15Z,nestor-satellite,0.1.0,Mathis Lambert,MIT,915204,"Python SDK to write Nestor satellite drivers: pairing, WebRTC audio and the nestor data channel."
+2026-11-01T14:43:52Z,jogpad,0.14.2,Aitch-ko,MIT,745869,Turn a programmable macro pad with knobs into a jog pendant for 3D printers and CNC machines.
+2026-11-01T14:45:59Z,nestor-reachy,0.1.0,Mathis Lambert,MIT,23649,"Reachy Mini as a Nestor satellite: the assistant's voice, attitude and expressions on a robot head."
+2026-11-01T14:46:10Z,rxiv2pdf,0.1.0,Ali Zaeim,MIT AND OFL-1.1,2895221,"Turn a bioRxiv/medRxiv preprint into a two-column, journal-style PDF built from its JATS XML."
+2026-11-01T14:52:39Z,foldermaker,1.0.0,Aniruddha Singh,MIT,13053,Create folders and files automatically from AI-generated text folder trees.
+2026-11-01T14:53:11Z,brasa-core,0.5.0,wilsonfreitas <wilson.freitas@gmail.com>,MIT,337798,"Template-driven ETL engine: download, parse, transform and query datasets described by YAML templates (official templates for Brazilian market and economic data: brasa-templates)."
+2026-11-01T14:54:01Z,keble-ads-advice,0.6.8,,,4185217,"The Amazon Ads Advice artifect kind plugin (AMZ_ADS_ADVICE + AMZ_ADS_CHANGES): screen, agent audit, change-list policy, renderer and workbook."
+2026-11-01T14:54:49Z,py-screen-mux,20261101.7,Cong Zhang <13283869+congzhangzh@users.noreply.github.com>,MIT,1010837,"py-screen: a terminal workspace (multiplexer) of my own, with the pys command"
+2026-11-01T14:55:47Z,curu-memory,0.2.0,,MIT,2875697,"A shared knowledge base and GraphRAG store for ComfyUI and generative media, served to agents over MCP."
+2026-11-01T14:56:06Z,cs-ui,0.1.0,Shawn Chen <cs@cstos.com>,,720889,A Python UI framework inspired by Flet
+2026-11-01T14:57:32Z,homedir,0.0.0.dev0,uvsmtid <uvsmtid@gmail.com>,MIT,1142,homedir
+2026-11-01T15:05:28Z,acezero,0.0.1,carlhuxley,Apache-2.0,11378,"Placeholder for ACEZero, an open-source zero-trust agentic TDD harness. First release coming soon."
+2026-11-01T15:07:33Z,rpaframework-decision,1.0.0,RPA Framework <rpafw@robocorp.com>,Apache-2.0,195071,"Decision model (System One) library for RPA Framework: typed, calibrated decisions from Jev, Laya and compatible models"
+2026-11-01T15:11:04Z,shadow-tools,0.1.0,William Laurento II,MIT,12803,"A practical all-in-one Python toolkit for HTTP, WebSockets, files, data, validation, async work, and CLIs."
+2026-11-01T15:11:24Z,hibira,0.1.0,Hibira <dev@hibira.io>,MIT,46439,"Hibira for Python: realtime events, channel auth, webhooks, push notifications, approvals and LLM streaming (Pusher-compatible)"
+2026-11-01T15:11:53Z,PyDataToolsKit,1.0.0,,,7297,Bibliothèque facilitant les transitions Entity/Repository
+2026-11-01T15:14:37Z,dirigent-fhir,0.29.0,,LicenseRef-Proprietary,61941,The FHIR pack for dirigent: a connection kind and the REST blocks for one FHIR server.
+2026-11-01T15:15:47Z,django-hibira,0.1.0,Hibira <dev@hibira.io>,MIT,93993,"Realtime for Django without Channels, ASGI or Redis: live HTML, model broadcasts, presence and push over Hibira"
+2026-11-01T15:16:56Z,spectarf,0.1.0,,MIT,2790633,"Monte Carlo angular response functions (ARFs) and point-spread functions for parallel-hole SPECT, for PyTomography"
+2026-11-01T15:17:19Z,bgb-engine,0.1.0,,MIT,41410,BoardGameBot engine for asynchronous turn-based board games on Discord
+2026-11-01T15:17:22Z,Nanuska-GP,10.12.1,tderk <usvu.tech@gmail.com>,MIT,38547511,"Nanuska-GP // Терминальный набор — Nanuska-GP, ПОЛИГИСТОР, ФЛЮ0 и ДЖЕЙД//ВАЙР в одном лаунчере"
+2026-11-01T15:19:04Z,napari-zenapi-streaming,0.0.1,"""Krijn H. van der Steen"" <k.h.vandersteen@umcutrecht.nl>, Sebastian Rhode <sebastian.rhode@zeiss.co…",BSD-3-Clause,267476,ZEN API streaming plugin for napari

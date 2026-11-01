@@ -1,12 +1,20 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-11-01T13:20:36.828299Z",
-    "path": "data/new-packages-2026-11-01T14-18-12-526207Z.csv",
-    "to": "2026-11-01T14:18:12.526207Z"
+    "count": 36,
+    "from": "2026-11-01T14:18:12.526207Z",
+    "path": "data/new-packages-2026-11-01T15-19-39-260273Z.csv",
+    "to": "2026-11-01T15:19:39.260273Z"
   },
-  "pending": [],
-  "serial": 43049691,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-01T14:29:30Z",
+      "package": "rpaframework-decisions",
+      "since": "2026-11-01T14:18:12.526207Z",
+      "version": null
+    }
+  ],
+  "serial": 43051538,
   "source_truncated": false,
-  "window": "2026-11-01T14:18:12.526207Z"
+  "window": "2026-11-01T15:19:39.260273Z"
 }
