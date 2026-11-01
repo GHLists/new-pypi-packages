@@ -1,55 +1,27 @@
 {
   "list": {
-    "count": 48,
-    "from": "2026-11-01T18:19:29.142186Z",
-    "path": "data/new-packages-2026-11-01T19-19-34-670156Z.csv",
-    "to": "2026-11-01T19:19:34.670156Z"
+    "count": 49,
+    "from": "2026-11-01T19:19:34.670156Z",
+    "path": "data/new-packages-2026-11-01T20-18-08-248802Z.csv",
+    "to": "2026-11-01T20:18:08.248802Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-11-01T19:18:45Z",
-      "package": "autoresearch-swarm",
-      "since": "2026-11-01T18:19:29.142186Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-01T19:17:58Z",
-      "package": "curu-caption",
-      "since": "2026-11-01T18:19:29.142186Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-01T15:58:21Z",
-      "package": "gbnet-lib",
-      "since": "2026-11-01T15:19:39.260273Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-01T17:37:47Z",
       "package": "github-action-ark-oauth-pypi",
       "since": "2026-11-01T17:19:32.076763Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-01T16:07:45Z",
-      "package": "meine-library",
-      "since": "2026-11-01T15:19:39.260273Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-01T19:07:24Z",
       "package": "perpbrain",
       "since": "2026-11-01T18:19:29.142186Z",
       "version": null
     }
   ],
-  "serial": 43059300,
+  "serial": 43060890,
   "source_truncated": false,
-  "window": "2026-11-01T19:19:34.670156Z"
+  "window": "2026-11-01T20:18:08.248802Z"
 }

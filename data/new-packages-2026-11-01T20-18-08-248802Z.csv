@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T19:17:58Z,curu-caption,3.0.3,,MIT,26308154,"Local-first pipeline: media in, AI-Toolkit-ready LoRA training datasets out"
+2026-11-01T19:18:45Z,autoresearch-swarm,0.1.0,Vincent Koc,MIT,1194793,"A local-first, agent-controlled engine for reproducible parallel research"
+2026-11-01T19:22:48Z,unfolder,0.1.0,Unfolder Contributors,MIT,87106,A downloadable collection of 19 text files.
+2026-11-01T19:24:12Z,BaguetteAI,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",66909,An AI development library written in python.
+2026-11-01T19:25:59Z,vllm-metis,0.1.0,Lernex,Apache-2.0,65403,vLLM plugin for Lernex's Metis-1.6 models: the Metis16ForCausalLM architecture plus the metis reasoning and tool-call parsers
+2026-11-01T19:26:00Z,sglang-metis,0.1.0,Lernex,Apache-2.0,48969,SGLang support for Lernex's Metis-1.6 models (Logos and Praxis)
+2026-11-01T19:26:31Z,dromos,0.1.0,,Apache-2.0,133850509,"Dromos, Lernex's inference engine for the Metis models: the dromos command, run locally."
+2026-11-01T19:30:38Z,meshctx-ctxkit,0.1.0,MeshCtx / LucyAndLuna2023,AGPL-3.0-or-later,77419,"Local-first context kit for agents: memory that survives restarts + verified multi-model consensus. Runs fully offline, zero login, zero API spend."
+2026-11-01T19:31:59Z,pgdispatch,0.1.0,Amir Sherov <sher4mir@gmail.com>,MIT,184841,"Reliable webhook delivery for Python apps, using only the PostgreSQL you already have."
+2026-11-01T19:34:50Z,scietex.gpiod-service,1.2.0,Anton Bondarenko <bond.anton@gmail.com>,MIT,50884,Scietex microservice daemon for GPIO control
+2026-11-01T19:40:31Z,pybaldes,2.0.4,,MIT,32715773,Rust-backed resource-constrained pricing and vehicle routing with branch-cut-and-price
+2026-11-01T19:41:21Z,interlocking,0.1.0,alpine,MIT,50279,A lightweight task dispatcher with explicit control.
+2026-11-01T19:41:22Z,tierwise,0.8.0,Suryanshu,Apache-2.0,1488562,"Cost-aware, self-hosted LLM gateway with a learned router"
+2026-11-01T19:42:58Z,aside-ads,0.1.0,Pritom Mazumdar,AGPL-3.0-only,190588,Self-hosted ad server for AI chat apps. Conversations never leave your server.
+2026-11-01T19:42:59Z,aside-ads-client,0.1.0,Pritom Mazumdar,MIT,10615,"Python client for Aside, the self-hosted ad server for AI chat apps."
+2026-11-01T19:43:55Z,pyrunner-cli,0.1.0,Abdullah Ahmad,MIT,15481,Lightweight cross-platform script runner inspired by npm scripts.
+2026-11-01T19:44:20Z,llama-index-tools-odile,0.1.0,Odile Labs <hello@odilelabs.com>,MIT,21321,Odile Direct tools for LlamaIndex
+2026-11-01T19:45:27Z,azerbaijan-mcp-azstat,0.1.0,Shamkhal Maharramov,MIT,65397,MCP server for the State Statistical Committee of Azerbaijan: search its statistical tables and read their data.
+2026-11-01T19:45:50Z,kalshi-python-sdk,1.0.0,NaxosData Quant Engineering & William Gonda,MIT,75252,Institutional Python SDK and Quantitative Analytics Engine for Kalshi Prediction Markets
+2026-11-01T19:46:59Z,polymarket-whale-tracker,1.0.0,William Gonda & NaxosData Contributors <hello@naxosdata.com>,MIT,46007,Real-time whale trade tracker and smart money copy-trading radar for Polymarket and Kalshi
+2026-11-01T19:47:19Z,kalshi-polymarket-hedger,1.0.0,NaxosData Contributors & William Gonda,MIT,69638,Production-grade cross-venue prediction market delta hedging and risk management engine for Kalshi and Polymarket
+2026-11-01T19:47:29Z,minimalai-mcp,0.0.1,Aleksandr Shcherbakov (@miinimal),MIT,5240,MCP server for MINIMALAI: AI agents get Cocoon (Telegram/TON) inference and signed oracle verdicts through one key.
+2026-11-01T19:47:36Z,polymarket-market-maker-bot,1.0.0,NaxosData Quant Engineering & William Gonda,MIT,54497,Institutional Avellaneda-Stoikov Market Making Engine for Polymarket & Kalshi Prediction Markets
+2026-11-01T19:48:31Z,apiverve-daylightdurationcalculator,1.2.3,APIVerve <hello@apiverve.com>,MIT,21467,"Daylight Duration Calculator computes sunrise, sunset times, and total daylight hours for any geographic location and date using astronomical algorithms."
+2026-11-01T19:48:35Z,apiverve-ddgenerator,1.2.3,APIVerve <hello@apiverve.com>,MIT,20881,"D&D Generator creates random content for tabletop role-playing games including characters, NPCs, monsters, treasure, encounters, taverns, and quests."
+2026-11-01T19:48:40Z,apiverve-dnssecchecker,1.2.3,APIVerve <hello@apiverve.com>,MIT,20861,DNSSEC Checker validates the DNSSEC (Domain Name System Security Extensions) configuration of a domain. It verifies that DNS responses are authenticated and haven't been tampered with.
+2026-11-01T19:49:12Z,apiverve-earningsreport,1.2.3,APIVerve <hello@apiverve.com>,MIT,23084,"Earnings Report returns a company's complete financial statements - income statement, balance sheet and cash flow together - in a single call from SEC filings, making it a one-stop earnings API for f…"
+2026-11-01T19:49:31Z,sphinx-section-include,2026.11.1.1,Adam Dangoor <adamdangoor@gmail.com>,MIT,39429,Include selected sections of reStructuredText documents in Sphinx projects.
+2026-11-01T19:50:28Z,markovpath,2.0.1,Ishan Jain <visitishan@gmail.com>,MIT,33029,"Fast, production-ready Markov Chain library for navigation path prediction, trail likelihood estimation, AI agent trajectory modeling, and attribution."
+2026-11-01T19:50:36Z,leo-dynamics,0.1.0,leo-dynamics contributors,MIT,6229039,"Native LEO orbital dynamics: two-body, J2 and environmental propagation with a NumPy interface"
+2026-11-01T19:51:16Z,bentobots,0.0.1,John Rees,Apache-2.0,21392,Building blocks for running autonomous agents on code review tasks.
+2026-11-01T19:51:23Z,gremlink,0.0.1,John Rees,Apache-2.0,21089,Tools for scoring automated security-audit findings against an audit key.
+2026-11-01T19:51:47Z,tanguili5-de-toolkit,0.1.0,Tanguy De Kerguenec,,3588,CLI to manage my data engineering VM
+2026-11-01T19:51:56Z,runboard-ml,0.2.0,Alperen Toker,MIT,471118,"Pre-registered ML experiments: lock the plan, run on your GPU, Kaggle, SSH or SLURM, watch live, and get hypotheses decided with bootstrap intervals and paper-ready output."
+2026-11-01T19:53:29Z,flodi,0.1.0,Ivo Filot,MIT,1301945,Fields and Linear Operators for Differentiation and Integration
+2026-11-01T19:54:35Z,torchinterpolant,1.0.0,lviornery,,6414,Defines a class that allows 1-d interpolation of arbitrarily-sized data for pytorch
+2026-11-01T19:54:52Z,wspkit,0.0.1,Cary Hawkins <hawkinscary23@gmail.com>,MIT,239994,The whitespace between your workflow tool and everything that talks to it. A Python library providing the JSON-RPC server for the Workflow Server Protocol (WSP).
+2026-11-01T19:57:24Z,curu-comfy-mcp,1.0.0,,MIT,321688,An MCP server that lets agents use ComfyUI backends through the ComfyUI API.
+2026-11-01T19:57:39Z,korzen-bot-protection,1.0.1,Korzen,LicenseRef-Proprietary,124887,"Korzen Bot Protection for Python: asks POST /v1/decide before a protected action, and fails open."
+2026-11-01T20:04:59Z,pipecat-saidwire,0.1.0,Saidwire <support@saidwire.com>,MIT,32530,Saidwire real-time speech-to-text service for Pipecat
+2026-11-01T20:05:02Z,livekit-plugins-saidwire,0.1.0,Saidwire <support@saidwire.com>,Apache-2.0,32613,Saidwire real-time speech-to-text plugin for LiveKit Agents
+2026-11-01T20:05:05Z,saidwire-mcp,0.1.0,Saidwire <support@saidwire.com>,MIT,26868,"Saidwire speech-to-text for Claude, Cursor and other MCP clients: transcribe audio files and URLs, with SRT/VTT and word timestamps."
+2026-11-01T20:06:04Z,agent-repl-mcp,0.0.2,David Vujic,MIT,12879,
+2026-11-01T20:07:49Z,ledger-motor,0.0.0,CodeSpartan,Proprietary,2853,Reserved name. Internal package of CodeSpartan; not for public use.
+2026-11-01T20:11:59Z,sniptide,0.1.0,,MIT,9766,Official Sniptide API client
+2026-11-01T20:14:41Z,idun,0.1.0,Anton Shaniuk,Apache-2.0,505489,"Tabular learners for the Apple silicon GPU (Metal): idun_gbm, idun_tabm and idun_realmlp, with CPU reference backends."
+2026-11-01T20:14:45Z,idun-numerai,0.1.0,Anton Shaniuk,Apache-2.0,50039,"Numerai on top of idun: the data, walk-forward refits, labels, scoring and presets."
+2026-11-01T20:16:25Z,zevauth,0.1.0,ZevOp Inc.,MIT,80925,"ZevAuth for Python: verify sessions, call the backend API and check webhook signatures from FastAPI, Django, Flask or plain Python."
+2026-11-01T20:16:41Z,Logging-utils-dnc,0.0.1,Dave <dave@caracappa.com>,"The MIT License (MIT) Copyright © 2026 Dave Caracappa Permission is hereby granted, free of charge,…",12114,Logging utilities for Python
