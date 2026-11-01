@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T11:23:24Z,minimindslab-multiline-indented-block,0.1.0,MiniMindsLab,MIT,7348,"Extract and normalize the common indentation of a multiline text block, returning a dedented string while preserving internal relative indentation and blank lines."
+2026-11-01T11:24:34Z,masr-pay-mcp-unofficial,0.1.0,Mohamed Aly <178811720+mohamedaly-cloud@users.noreply.github.com>,MIT,101033,"Unofficial MCP server for Egyptian payment providers, starting with FawryPay (Pay-at-Fawry cash payments). Not affiliated with or endorsed by any provider."
+2026-11-01T11:29:15Z,splicescope,0.10.0,Elmasnur Yılmaz <elmasnrylmz@gmail.com>,MIT,271098,"Detect, quantify and characterize alternative and cryptic splicing events from splice junctions."
+2026-11-01T11:29:16Z,bazaar-contrib-wecom,0.3.0rc1,,Apache-2.0,66846,WeCom Channel provider for Bazaar Compute Node
+2026-11-01T11:29:22Z,citeqc,0.2.0,Elmasnur Yılmaz <elmasnrylmz@gmail.com>,MIT,69092,"Measure protein-mRNA coupling in CITE-seq data, and check the analysis for artefacts that produce false positives."
+2026-11-01T11:29:46Z,lzq-utils,0.1.3,,,3586,一个用于lzq学习的 Python 公共库构建和发布的示例工程
+2026-11-01T11:30:14Z,arrowsql,0.1.0,BMS Suisse,MIT,205962943,mssql-python with its ODBC/C++ core replaced by Rust (PyO3 + mssql-tds)
+2026-11-01T11:30:42Z,pyarboris,0.1.0,,Apache-2.0,3032258,"A fast HTML parser with a queryable DOM: CSS selectors, attributes, text, outer/inner HTML."
+2026-11-01T11:32:14Z,hypotrail-runtime,0.0.0,Hypotrail,,1861,Name reserved for Hypotrail (agent-assisted ML studies). Not usable yet: install from GitHub.
+2026-11-01T11:32:15Z,hypotrail,0.0.0,Hypotrail,,1791,Name reserved for Hypotrail (agent-assisted ML studies). Not usable yet: install from GitHub.
+2026-11-01T11:33:38Z,adminkit-mcp,0.1.0,Netbase JSC,MIT,76906,AdminKit public MCP server: network/mail/DNS check tools and an MCP endpoint security probe for AI agents
+2026-11-01T11:35:34Z,fluvv-engine,0.0.0,The Fluvv Authors,,2006,"Placeholder: Fluvv Engine is installed from Fluvv's package index, not from PyPI."
+2026-11-01T11:38:26Z,eliminating-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49575,A machine that eliminates unnecessary complexity.
+2026-11-01T11:38:42Z,adaraz,0.1.1,ADARAZ,MIT,86633,"ADARAZ Link: secure, Noise based connection between ADARAZ devices (RAZ-RCP-1) and servers"
+2026-11-01T11:39:33Z,jimbeamer,0.1.1,Ondřej Lengál <ondra.lengal@gmail.com>,MIT,180498,Convert Markdown into LaTeX Beamer slides
+2026-11-01T11:39:44Z,python-file-organizer,0.1,,,17304,
+2026-11-01T11:40:43Z,spec-kitty-services,4.0.0rc8,,MIT,9142,"Optional companion of spec-kitty-cli: the pinned, digest-verified service binaries for one platform."
+2026-11-01T11:41:36Z,universal-folder,1.0.1,Your Name,,78029,A collection of 18 downloadable text files
+2026-11-01T11:42:11Z,cloud-infra-tco-mcp,1.0.0,CloudBench Research <research@cloudbench.labs>,MIT,21575,"Official Model Context Protocol (MCP) server & CLI for 2026 developer cloud infrastructure, GPU, proxy, scraping, and PDF TCO benchmarking"
+2026-11-01T11:44:35Z,diagonaldiagrams,0.9.0,Lucas Reimers,MIT,736812,"Charts and diagrams for agents: one command checks the spec, draws an SVG, and audits the layout."
+2026-11-01T11:44:35Z,oracle-fusion-purchasing-mcp,0.1.3,,MIT,21476,An MCP server for interacting with Oracle Fusion Cloud Purchasing APIs
+2026-11-01T11:46:32Z,intervals-summits,0.1.0,Andreas Schnederle-Wagner,MIT,81154,"Summits, huts and passes on your Intervals.icu activities, from your GPS tracks and OpenStreetMap – with a summit log page"
+2026-11-01T11:46:38Z,polars-xsum,0.1.0,Martin Studer <martin.studer@mirai-solutions.com>,MIT,31980352,"Exact, correctly rounded summation of floats for Polars (Radford Neal's xsum superaccumulators)"
+2026-11-01T11:49:35Z,ollama-rename-files,0.3.4,Daniil Petrov,MIT,110876,"Rename messy files by their content with a local Ollama model: CLI and desktop GUI, no API keys, originals backed up."
+2026-11-01T11:51:27Z,pyappxportable,2026.11.1,yell0wsuit,MIT,70850,Install Windows Store game packages as portable Appx Portable games.
+2026-11-01T11:51:30Z,youke,1.0.0,youke contributors,MIT,149575,游客（免登录）也能打的 App 接口统一调用层：酷安/B站/网易云/微博
+2026-11-01T11:53:12Z,pysetup-prajwal,0.1.0,,,5079,A simple CLI tool to generate Python projects
+2026-11-01T11:56:17Z,sqlite-kb-mcp,0.1.0,Hammad,MIT,13838,A Model Context Protocol server for a SQLite-backed knowledge base with full-text search.
+2026-11-01T11:58:32Z,nummpyy,1.0.0,andhrew,MIT,30175,"Data Science practical programs, printable from Python or the terminal"
+2026-11-01T11:59:01Z,openspuruntime,0.1.0,,MIT,20420,Remote Alyx I100 SPU runtime: a Flask server tunneled with Cloudflare
+2026-11-01T12:05:39Z,vibedata-domain-ci,1.0.0rc1,,,473261,"Domain CI engine: check catalog, test map, CI plan and check result contracts"
+2026-11-01T12:05:44Z,trustwarden,0.1.0,,MIT,100192,Guarding your tools with certainty. Trust labels and policy enforcement for AI agent tools.
+2026-11-01T12:06:02Z,lochangowda10-conduit,1.0.2,Lochan Gowda <lochan@example.com>,MIT,106736,"A self-hosted, OpenAI-compatible LLM gateway that makes LLM calls cheaper, more reliable and faster"
+2026-11-01T12:10:16Z,scipion-em-cryocodex,0.3.1,"Bin Cheng, Yang Lab",MIT,64512,"CryoCodex map enhancement, local quality estimation and molecular masks for Scipion"
+2026-11-01T12:12:16Z,tilearray,0.1.0,Matthew Whittle <47574804+MatthewJWhittle@users.noreply.github.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1065873,A Python library for loading geospatial data from remote tile servers as xarray objects
+2026-11-01T12:13:20Z,vibedata-domain-hooks,1.0.0rc1,,,34271,"Domain repo git hooks (vibedata-pre-commit, vibedata-pre-push), run through pre-commit"
+2026-11-01T12:14:56Z,runnee,0.1.0,Runnee,MIT,46164,Official synchronous and asynchronous Python SDK for Runnee Cloud
+2026-11-01T12:16:24Z,esf-format,1.0.0,EVEShipFit Team,MIT,81021,"Read and write esf/1, the plain-text format for EVE Online ship fits"
+2026-11-01T12:17:39Z,kube-query,0.1.0,,MIT,102340,"Read-only Kubernetes query CLI - compact YAML/JSON/rich/markdown output, built for humans and AI agents"
+2026-11-01T12:18:17Z,csvbox,0.1.0,,MIT,9887,Print CSV files as box-drawn tables in the terminal
