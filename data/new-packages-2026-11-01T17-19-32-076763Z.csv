@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T16:19:22Z,quite-admin,0.4.1,,MIT,1289998,"An embeddable, adapter-based admin for FastAPI and Litestar."
+2026-11-01T16:19:44Z,poseigen,0.1.0,Husam Abdulnabi <husam.abdulnabi@gmail.com>,MIT,5132,Meta package for the Poseigen ML suite
+2026-11-01T16:19:54Z,domainhack,0.2.0,Pablo Alaniz,MIT,325709,Find domain hacks hiding in real words
+2026-11-01T16:21:05Z,mattesole,0.0.1,Jacky <jacky@gmail.com>,MIT,14694003,Mattesolv package
+2026-11-01T16:22:35Z,AgentAssure-ai,0.1.0,,Proprietary,222539,"pytest-based QA framework for enterprise AI agents: routing, tools, state changes, permissions, and LLM metrics."
+2026-11-01T16:22:37Z,AgentAssure-ai-agentforce,0.1.0,,Proprietary,37824,"Salesforce Agentforce adapter for AgentAssure: Agent API sessions, SOQL state diffs, persona permissions, native test integration."
+2026-11-01T16:25:42Z,aiowapy,0.1.0,Yarfer <yarfer@rs.me>,MIT,434561,"Async WhatsApp Multi-Device client: Noise, Signal and WABinary implemented natively in Python"
+2026-11-01T16:28:59Z,hallo-test,1.0,Luis Raub <luisworkmail@proton.me>,MIT,5236,A Test library
+2026-11-01T16:29:20Z,mathref,0.1.1,,,11804,A collection of numbered Python math references
+2026-11-01T16:30:00Z,sklearn-kit,0.1.1,,,8856,sklearn ml library
+2026-11-01T16:30:28Z,llm-light-cli,0.1.0,Peter Isberg <isberg.peter+cl@gmail.com>,PolyForm-Noncommercial-1.0.0,283103,"Interactive CLI chat tool for querying and editing a codebase with an LLM agent (Claude, Gemini via agy, Codex), using hybrid RAG and prompt caching."
+2026-11-01T16:31:35Z,silentchecks,0.1.0,novasdiego1,MIT,24474,"Make checks prove they can fail, and make 'never ran' visible"
+2026-11-01T16:33:19Z,greenproof,0.1.0,Basant Bhattarai,Apache-2.0,310344,A definition-of-done gate for code written by LLM coding agents: is the green real?
+2026-11-01T16:34:50Z,pymolly,10.4.0,CharmLxt <reception.mailspypi@gmail.com>,MIT,50557,Молли — дружелюбный баг-репортер для Python. Ловит ошибки и объясняет их простым языком.
+2026-11-01T16:37:11Z,agent-session-control,0.1.1,Agent session control contributors,MIT,477814,"Reusable coding-agent session control: pure launch plans, durable audited runs, and evidence correlation."
+2026-11-01T16:42:38Z,bivia-browser-cli,0.1.1,Sivaganesh Balaganesh,MIT,42409,A fast web-browsing agent CLI driven by the Bivia decision model. Any LLM or coding agent can call it.
+2026-11-01T16:51:13Z,terrace-cli,0.1.0,,,111481,"Command-line client for Terrace: deploy a project folder, get a URL"
+2026-11-01T16:52:52Z,divinity-forecast,0.2.0,dstarkey23 <drds.gh1@gmail.com>,Apache-2.0,62185,Automatic timeseries forecasting with honest prediction intervals
+2026-11-01T16:54:55Z,portable-ffmpeg-full,0.5.0,,GPL-3.0-or-later,240140330,Offline FFmpeg binaries for portable-ffmpeg
+2026-11-01T16:56:19Z,gribkit,0.2.0,Daniel Glaser,MIT,83266,"GRIB2 partial downloads: read NCEP .idx files, merge byte ranges, parse headers, crop to a region"
+2026-11-01T16:57:17Z,niraj-mcs,1.0.0,NirajDevPC,,14837,A numbered collection of five mobile communication Python programs.
+2026-11-01T16:57:27Z,maf-sandbox-azure-pricing,0.1.0,SOKOLAI BV,MIT,21111,Azure retail pricing in disposable allowlisted sandboxes.
+2026-11-01T16:57:29Z,rbackup,0.1.0,wenxueliu,MIT,198824,"Per-device, encrypted, versioned rclone backups without local indexes"
+2026-11-01T16:58:17Z,eternity-agentshield,2.0.0,ETERNITY Security Team,MIT,26266,ETERNITY : AgentShield 2.0 — Enterprise Security Middleware & Guardrails SDK for Autonomous AI Agents
+2026-11-01T17:01:40Z,alcaide,0.2.0,Pablo Vera <pablo.vera82@gmail.com>,AGPL-3.0-only,8306066,"A deterministic, auditable prompt-injection firewall"
+2026-11-01T17:04:17Z,Vexar-MCP,0.3.0,Ranjith Rosan <91519971+RANJITHROSAN17@users.noreply.github.com>,MIT,398401,"Static analyzer, security scanner, schema validator, and token-budget auditor for Model Context Protocol (MCP) servers and AI agent tools."
+2026-11-01T17:04:32Z,witnessbox,0.5.2,,MIT,182386,Independent verification of agent-written code through test evidence.
+2026-11-01T17:05:21Z,ucmodel,0.1.0a1,Thomas Slater,MIT,118937,"A Unity Catalog read over REST into a normalised model, and models compared"
+2026-11-01T17:05:51Z,ucatlas,0.1.0a1,Thomas Slater,MIT,44744,"ER diagrams and lineage graphs of a Unity Catalog, as a static site"
+2026-11-01T17:05:51Z,ucstate,0.1.0a1,Thomas Slater,MIT,187509,"Desired-state management for a Unity Catalog, from SQL source files"
+2026-11-01T17:07:37Z,hp203b-library,1.0.0,Tan Siret Akinci <tan@riscfruit.com>,GPL-3.0-or-later,34414,MicroPython library for HP203B barometric pressure sensor
+2026-11-01T17:07:39Z,musiqnotes,0.1.0,,,3029,Simple music note utilities
+2026-11-01T17:08:24Z,fileskit,0.1.0,,,2702,Simple file utility functions
+2026-11-01T17:09:44Z,norvara-mut-scan,1.0.0rc2,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,305760,"In-silico saturation mutagenesis and variant scoring: substitution matrices, Grantham distance, hydropathy and charge shifts, and conservation, from no third-party dependencies"
+2026-11-01T17:10:52Z,iacguard-cli,1.1.0,Chafiq Boulghallat <cboulghallat@gmail.com>,Apache-2.0,104017,"Security scanner for Infrastructure as Code: Gitleaks, Checkov and Semgrep in one report, with a score and a pass/fail verdict that can block pull requests."
+2026-11-01T17:12:21Z,norvara-plasmid-map,1.0.0rc2,Norvara Therapeutics <research@norvaratx.com>,PolyForm-Noncommercial-1.0.0,225912,"Circular plasmid maps and linear feature tracks as standalone SVG, from no third-party dependencies"
+2026-11-01T17:14:41Z,ozaru,0.1.0,Jair Estupiñan,MIT,58957126,"Extrae texto y cuenta las páginas de archivos PDF desde Python, con un núcleo en Rust."
+2026-11-01T17:17:02Z,portfolio-analytics-mcp,0.2.0,,MIT,188490,MCP server for portfolio analysis with Yahoo Finance and justETF data
+2026-11-01T17:18:00Z,agenticml-lite,1.0.0,Gaurav Singh <gaurav.singh@agenticml.xyz>,MIT,731984,"Lean, local-first experiment tracker for AgenticML. Installs as `agenticml-lite`, imports as `agenticml`."
+2026-11-01T17:19:23Z,langchain-curt,0.1.0,Jordan Newell,"MIT License Copyright (c) 2025-2026 Jordan Newell Permission is hereby granted, free of charge, to…",16180,LangChain chat loader for .curt conversation files (.curt v1 — open single-file AI conversation format)
