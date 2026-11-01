@@ -8,32 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 22:18 UTC
+## Latest list — 2026-11-01 23:19 UTC
 
-New packages created between 2026-11-01 21:18 UTC and 2026-11-01 22:18 UTC.
+New packages created between 2026-11-01 22:18 UTC and 2026-11-01 23:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-01T22-18-08-811591Z.csv)
+[Full CSV](data/new-packages-2026-11-01T23-19-18-476756Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-01 21:17:44 | [querywarden-cli](https://pypi.org/project/querywarden-cli/) | 0.1.0 | Sofien Nefzi | 143.5 kB | A CI gate for text-to-SQL features on PostgreSQL: accuracy regressions and safe… |
-| 2026-11-01 21:25:10 | [agentsec-agentpolicy](https://pypi.org/project/agentsec-agentpolicy/) | 0.1.0 | deghosal-2026 | 2.6 MB | A pre-execution, deterministic policy decision point for tool-using AI agents.… |
-| 2026-11-01 21:40:47 | [securechat-sdk](https://pypi.org/project/securechat-sdk/) | 4.2.1 | Bilbi | 153.8 kB | Python SDK for SecureChat bots and user clients (aiogram-like). |
-| 2026-11-01 21:41:15 | [spavik](https://pypi.org/project/spavik/) | 0.1.0a1 | Spavik <admin@spavik.co> | 78.7 kB | Python client for the Spavik API: training, prediction, forecasting, feedback l… |
-| 2026-11-01 21:44:34 | [hatch-uv-lock](https://pypi.org/project/hatch-uv-lock/) | 0.1 | Carli* Freudenberg <kound@pos… | 101.8 kB | Hatchling build hook that embeds uv.lock and pyproject.toml into wheels |
-| 2026-11-01 21:48:42 | [mikrotik-doh-failover](https://pypi.org/project/mikrotik-doh-failover/) | 0.4.2 | Mikhail Deynekin <Mikhail@Dey… | 42.8 kB | Zabbix-side tools for a verified DoH failover scheme on MikroTik RouterOS |
-| 2026-11-01 21:57:08 | [mellix](https://pypi.org/project/mellix/) | 0.0.1 | Charlie Hudson | 89.0 kB | Python client for the Mellix Decision API |
-| 2026-11-01 22:00:04 | [dtpf](https://pypi.org/project/dtpf/) | 0.1.0 | Vadim Kravciuk | 89.7 kB | Export, rich filters, a column chooser and bookmarks for the stock Django admin. |
-| 2026-11-01 22:00:53 | [bugfinder](https://pypi.org/project/bugfinder/) | 1.0.6 | BretRen | 18.2 kB | An old-fashioned, modern-background console game made in Python |
-| 2026-11-01 22:03:48 | [sandloom-admin](https://pypi.org/project/sandloom-admin/) | 0.7.0a6 | Vasyl Cherniavskyi | 841.1 kB | The admin console for Sandloom: a prebuilt web UI for the platform owner, with… |
-| 2026-11-01 22:05:33 | [lightsmith](https://pypi.org/project/lightsmith/) | 0.1.0 | Alexander Feghali <alexander.… | 728.0 kB | Open photonics suite: one typed JSON problem spec solved by Mie, T-matrix, DDA,… |
-| 2026-11-01 22:09:15 | [402mob-agent-wallet](https://pypi.org/project/402mob-agent-wallet/) | 0.1.1 |  | 20.9 kB | Local EOA creation and EIP-191 merchant enrollment for 402Mob |
-| 2026-11-01 22:10:26 | [sittybos](https://pypi.org/project/sittybos/) | 0.0.1 |  | 3.4 kB | You probably meant sillybos. This package installs it. |
-| 2026-11-01 22:10:28 | [sittybus](https://pypi.org/project/sittybus/) | 0.0.1 |  | 3.3 kB | You probably meant sillybos. This package installs it. |
-| 2026-11-01 22:10:30 | [sillybus](https://pypi.org/project/sillybus/) | 0.0.1 |  | 3.3 kB | You probably meant sillybos. This package installs it. |
-| 2026-11-01 22:12:59 | [hang](https://pypi.org/project/hang/) | 0.1.0 | Joao Lopes | 2.7 kB | Terminal hook and session orchestration toolkit (early placeholder release) |
-| 2026-11-01 22:14:43 | [pysnapdog](https://pypi.org/project/pysnapdog/) | 0.1.0 | Fabian Schmieder | 154.9 kB | Async Python client for the SnapDog multi-room audio server (REST and WebSocket) |
-| 2026-11-01 22:15:28 | [cm-cluster-on-demand-forge](https://pypi.org/project/cm-cluster-on-demand-forge/) | 0.0.0a0 | NVIDIA | 1.1 kB | Namespace protection for an internal NVIDIA BCM Python distribution |
-| 2026-11-01 22:15:31 | [cm-cluster-on-demand-openstack](https://pypi.org/project/cm-cluster-on-demand-openstack/) | 0.0.0a0 | NVIDIA | 1.1 kB | Namespace protection for an internal NVIDIA BCM Python distribution |
-| 2026-11-01 22:15:34 | [cm-confuse](https://pypi.org/project/cm-confuse/) | 0.0.0a0 | NVIDIA | 992 B | Namespace protection for an internal NVIDIA BCM Python distribution |
-| 2026-11-01 22:15:37 | [cm-image](https://pypi.org/project/cm-image/) | 0.0.0a0 | NVIDIA | 980 B | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-11-01 22:18:31 | [paper-lineage](https://pypi.org/project/paper-lineage/) | 0.1.0 | legallchaperone | 426.4 kB | Trace the citation-grounded lineage of an arXiv paper and render it as a mind-m… |
+| 2026-11-01 22:24:32 | [nodii-notify](https://pypi.org/project/nodii-notify/) | 0.0.1 |  | 1.5 kB | Placeholder for nodii-notify. The implementation ships from CI. |
+| 2026-11-01 22:24:36 | [nodii-usage](https://pypi.org/project/nodii-usage/) | 0.0.1 |  | 1.5 kB | Placeholder for nodii-usage. The implementation ships from CI. |
+| 2026-11-01 22:24:40 | [nodii-http](https://pypi.org/project/nodii-http/) | 0.0.1 |  | 1.5 kB | Placeholder for nodii-http. The implementation ships from CI. |
+| 2026-11-01 22:26:06 | [viewo-helpdesk](https://pypi.org/project/viewo-helpdesk/) | 1.0.2 | Helmut Konrad Schewe <helmutu… | 33.5 kB |  |
+| 2026-11-01 22:30:11 | [quaerium](https://pypi.org/project/quaerium/) | 0.4.0 | Gianmarco Mottola <gianmarcom… | 323.6 kB | Quaerium: RAG framework (vector + graph stores) and a LangGraph agents kernel w… |
+| 2026-11-01 22:31:18 | [a2uicatalog](https://pypi.org/project/a2uicatalog/) | 0.1.0 | Curtis Krygier | 20.1 kB | Official Python client for the A2UI Atomic Catalog: 573-atom vocabulary, compos… |
+| 2026-11-01 22:32:38 | [patchground](https://pypi.org/project/patchground/) | 0.1.0 | Fran Delicado | 783.8 kB | Local-first CLI for practicing real software engineering on broken repositories. |
+| 2026-11-01 22:33:16 | [flowscript-vm](https://pypi.org/project/flowscript-vm/) | 0.1.0 | Ruben Nørgaard | 304.2 kB | An event-driven scripting language whose programs are flowcharts: compiler, byt… |
+| 2026-11-01 22:37:36 | [myntra-scraper](https://pypi.org/project/myntra-scraper/) | 0.1.1 | Buğrahan Saka | 32.7 kB | Scrape Myntra listings (price, MRP, discount, rating) with real pagination, and… |
+| 2026-11-01 22:38:35 | [eea.plotly](https://pypi.org/project/eea.plotly/) | 2.5 | European Environment Agency:… | 69.2 kB | volto-plotlycharts backend support |
+| 2026-11-01 22:39:06 | [brain-core-mcp](https://pypi.org/project/brain-core-mcp/) | 0.2.2 | xy-claude | 277.6 kB | Cognitive primitives for AI agents — memory, decisions, reflection. |
+| 2026-11-01 22:39:42 | [traceAI-hermes-agent](https://pypi.org/project/traceAI-hermes-agent/) | 0.1.0 | Future AGI | 33.9 kB | Future AGI tracing plugin for Hermes Agent: turns, model calls and tool calls a… |
+| 2026-11-01 22:39:43 | [traceAI-mcp-use](https://pypi.org/project/traceAI-mcp-use/) | 0.1.0 | Future AGI | 53.8 kB | OpenTelemetry tracing for mcp-use agents: one span per agent run, LLM call and… |
+| 2026-11-01 22:39:43 | [traceAI-openwebui](https://pypi.org/project/traceAI-openwebui/) | 0.1.0 | Future AGI <no-reply@futureag… | 43.2 kB | Trace real Open WebUI model calls with a maintained Pipe Function |
+| 2026-11-01 22:39:43 | [traceAI-temporal](https://pypi.org/project/traceAI-temporal/) | 0.1.0 | Future AGI <no-reply@futureag… | 42.7 kB | Future AGI configuration for Temporal's native replay-safe OpenTelemetry tracing |
+| 2026-11-01 22:39:43 | [traceai-cognee](https://pypi.org/project/traceai-cognee/) | 0.1.0 | Future AGI <no-reply@futureag… | 35.3 kB | Future AGI exporter for Cognee native OpenTelemetry spans |
+| 2026-11-01 22:39:44 | [traceAI-agentscope](https://pypi.org/project/traceAI-agentscope/) | 0.1.0 | Future AGI <no-reply@futureag… | 38.9 kB | Future AGI adapter for AgentScope native OpenTelemetry tracing |
+| 2026-11-01 22:39:44 | [traceAI-exa](https://pypi.org/project/traceAI-exa/) | 0.1.0 | Future AGI | 24.7 kB | OpenTelemetry instrumentation for Exa |
+| 2026-11-01 22:39:45 | [traceAI-minimax](https://pypi.org/project/traceAI-minimax/) | 0.1.0 | Future AGI | 23.1 kB | OpenTelemetry instrumentation for MiniMax - chat completions via OpenAI-compati… |
+| 2026-11-01 22:45:52 | [dspy-surface](https://pypi.org/project/dspy-surface/) | 0.1.0 | Canada Site Ops <canada.site.… | 6.9 kB | Surface for DSPy: the link-safety layer between an AI agent and the open web. O… |
+| 2026-11-01 22:47:34 | [pheme-reviews](https://pypi.org/project/pheme-reviews/) | 0.1.1 |  | 885.8 kB | Pheme — a federated review website using ActivityPub — like Google Maps but dec… |
+| 2026-11-01 22:47:42 | [agdirlabs-email](https://pypi.org/project/agdirlabs-email/) | 0.1.0 | Agdir AS | 56.1 kB | Official Python SDK for Agdir Email — programmatic SMTP for developers. |
+| 2026-11-01 22:52:56 | [mcp-shipyard](https://pypi.org/project/mcp-shipyard/) | 0.1.0 |  | 43.4 kB | Application-independent MCP hosting, payloads, and responses. |
+| 2026-11-01 22:53:09 | [Barmaja-PyArduino](https://pypi.org/project/Barmaja-PyArduino/) | 2.0.0 | BARMAJA Education & IT Soluti… | 691.0 kB | Write Arduino Uno programs in simple Python: checks, converts to Arduino C++ an… |
+| 2026-11-01 22:56:02 | [kyro-routing](https://pypi.org/project/kyro-routing/) | 0.1.0 | Aziz Ouattara <datoulobaben@g… | 97.0 kB | Symfony-style attribute routing for Django: declare routes with decorators on v… |
+| 2026-11-01 22:59:30 | [BATCH11](https://pypi.org/project/BATCH11/) | 0.1.1 |  | 4.7 kB | Python Text-to-Speech toolkit powered by Chatterbox |
+| 2026-11-01 23:00:29 | [tidysyntax](https://pypi.org/project/tidysyntax/) | 0.1.0 | Rigoberto Leyva Salmeron | 55.9 kB | R syntax in notebook cells, rewritten to Python: shared by tidy3, tidy3a, plot3… |
+| 2026-11-01 23:08:42 | [veprompts-mcp](https://pypi.org/project/veprompts-mcp/) | 1.0.0 | Curtis Harrison <cody@veduis.… | 220.8 kB | Deterministic Model Context Protocol (MCP) server directory discovery CLI and o… |
+| 2026-11-01 23:08:48 | [praesia-verify](https://pypi.org/project/praesia-verify/) | 0.1.0 | Praesia | 42.7 kB | Verify a Praesia journal file on your own machine |
+| 2026-11-01 23:10:13 | [bounded-lognorm](https://pypi.org/project/bounded-lognorm/) | 0.1.0 | Ted Teske | 67.9 kB | Bounded lognormal (BL2) continuous distribution for scipy.stats: a smooth, mode… |
+| 2026-11-01 23:10:19 | [boxfab](https://pypi.org/project/boxfab/) | 0.1.0a1 | ContextFab, Inc. | 702.4 kB | Python SDK for BoxFab, an agent execution cloud of Firecracker sandboxes (deriv… |
+| 2026-11-01 23:12:12 | [alcedo-lit](https://pypi.org/project/alcedo-lit/) | 0.1.0 | Alcedo contributors | 98.0 kB | Collect DOIs from a list of literature search queries, grouped by query. |
+| 2026-11-01 23:17:56 | [nao-fair-autostart](https://pypi.org/project/nao-fair-autostart/) | 0.1.0 | Valentin Schröter Bonk <vasc9… | 29.0 kB | On-robot autostart for NAO Fair trigger assignments. |
+| 2026-11-01 23:18:10 | [benchverdict](https://pypi.org/project/benchverdict/) | 0.1.0 | Manu Nicholas Jacob <manunich… | 110.1 kB | Decide whether a performance measurement was valid, and say why it was not. |
+| 2026-11-01 23:18:14 | [powerstamp](https://pypi.org/project/powerstamp/) | 0.1.0 | Manu Nicholas Jacob | 127.0 kB | Energy measurement that reports its own achieved sampling rate, rail coverage a… |
+| 2026-11-01 23:18:16 | [memceiling](https://pypi.org/project/memceiling/) | 0.1.0 | Manu Nicholas Jacob <manunich… | 177.5 kB | Measure a machine's achieved memory bandwidth ceiling, with a provenance record… |

@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T22:18:31Z,paper-lineage,0.1.0,legallchaperone,MIT,426422,Trace the citation-grounded lineage of an arXiv paper and render it as a mind-map.
+2026-11-01T22:24:32Z,nodii-notify,0.0.1,,MIT,1503,Placeholder for nodii-notify. The implementation ships from CI.
+2026-11-01T22:24:36Z,nodii-usage,0.0.1,,MIT,1496,Placeholder for nodii-usage. The implementation ships from CI.
+2026-11-01T22:24:40Z,nodii-http,0.0.1,,MIT,1483,Placeholder for nodii-http. The implementation ships from CI.
+2026-11-01T22:26:06Z,viewo-helpdesk,1.0.2,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,33474,
+2026-11-01T22:30:11Z,quaerium,0.4.0,Gianmarco Mottola <gianmarcomottola00@gmail.com>,MIT,323599,Quaerium: RAG framework (vector + graph stores) and a LangGraph agents kernel with a human approval gate
+2026-11-01T22:31:18Z,a2uicatalog,0.1.0,Curtis Krygier,MIT,20114,"Official Python client for the A2UI Atomic Catalog: 573-atom vocabulary, compose, render and validate."
+2026-11-01T22:32:38Z,patchground,0.1.0,Fran Delicado,Apache-2.0,783810,Local-first CLI for practicing real software engineering on broken repositories.
+2026-11-01T22:33:16Z,flowscript-vm,0.1.0,Ruben Nørgaard,MIT,304151,"An event-driven scripting language whose programs are flowcharts: compiler, bytecode VM and SVG flowcharts"
+2026-11-01T22:37:36Z,myntra-scraper,0.1.1,Buğrahan Saka,MIT,32713,"Scrape Myntra listings (price, MRP, discount, rating) with real pagination, and product pages (price and stock per size and seller) with Python."
+2026-11-01T22:38:35Z,eea.plotly,2.5,European Environment Agency: IDM2 A-Team,GPL version 2,69153,volto-plotlycharts backend support
+2026-11-01T22:39:06Z,brain-core-mcp,0.2.2,xy-claude,"MIT License Copyright (c) 2026 xy-claude Permission is hereby granted, free of charge, to any perso…",277578,"Cognitive primitives for AI agents — memory, decisions, reflection."
+2026-11-01T22:39:42Z,traceAI-hermes-agent,0.1.0,Future AGI,Apache-2.0,33917,"Future AGI tracing plugin for Hermes Agent: turns, model calls and tool calls as OpenTelemetry spans"
+2026-11-01T22:39:43Z,traceAI-mcp-use,0.1.0,Future AGI,Apache-2.0,53831,"OpenTelemetry tracing for mcp-use agents: one span per agent run, LLM call and tool call"
+2026-11-01T22:39:43Z,traceAI-openwebui,0.1.0,Future AGI <no-reply@futureagi.com>,Apache-2.0,43241,Trace real Open WebUI model calls with a maintained Pipe Function
+2026-11-01T22:39:43Z,traceAI-temporal,0.1.0,Future AGI <no-reply@futureagi.com>,Apache-2.0,42654,Future AGI configuration for Temporal's native replay-safe OpenTelemetry tracing
+2026-11-01T22:39:43Z,traceai-cognee,0.1.0,Future AGI <no-reply@futureagi.com>,Apache-2.0,35344,Future AGI exporter for Cognee native OpenTelemetry spans
+2026-11-01T22:39:44Z,traceAI-agentscope,0.1.0,Future AGI <no-reply@futureagi.com>,Apache-2.0,38872,Future AGI adapter for AgentScope native OpenTelemetry tracing
+2026-11-01T22:39:44Z,traceAI-exa,0.1.0,Future AGI,Apache-2.0,24741,OpenTelemetry instrumentation for Exa
+2026-11-01T22:39:45Z,traceAI-minimax,0.1.0,Future AGI,Apache-2.0,23066,OpenTelemetry instrumentation for MiniMax - chat completions via OpenAI-compatible API
+2026-11-01T22:45:52Z,dspy-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,6903,"Surface for DSPy: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-11-01T22:47:34Z,pheme-reviews,0.1.1,,AGPL-3.0-only,885765,Pheme — a federated review website using ActivityPub — like Google Maps but decentralized
+2026-11-01T22:47:42Z,agdirlabs-email,0.1.0,Agdir AS,MIT,56053,Official Python SDK for Agdir Email — programmatic SMTP for developers.
+2026-11-01T22:52:56Z,mcp-shipyard,0.1.0,,MIT,43435,"Application-independent MCP hosting, payloads, and responses."
+2026-11-01T22:53:09Z,Barmaja-PyArduino,2.0.0,BARMAJA Education & IT Solutions,LicenseRef-Proprietary,691011,"Write Arduino Uno programs in simple Python: checks, converts to Arduino C++ and uploads."
+2026-11-01T22:56:02Z,kyro-routing,0.1.0,Aziz Ouattara <datoulobaben@gmail.com>,MIT,97037,Symfony-style attribute routing for Django: declare routes with decorators on views and controllers.
+2026-11-01T22:59:30Z,BATCH11,0.1.1,,,4737,Python Text-to-Speech toolkit powered by Chatterbox
+2026-11-01T23:00:29Z,tidysyntax,0.1.0,Rigoberto Leyva Salmeron,MIT,55887,"R syntax in notebook cells, rewritten to Python: shared by tidy3, tidy3a, plot3 and stats3"
+2026-11-01T23:08:42Z,veprompts-mcp,1.0.0,"Curtis Harrison <cody@veduis.com>, Veduis LLC <cody@veduis.com>",MIT,220823,Deterministic Model Context Protocol (MCP) server directory discovery CLI and offline catalog with 800 curated servers.
+2026-11-01T23:08:48Z,praesia-verify,0.1.0,Praesia,Apache-2.0,42718,Verify a Praesia journal file on your own machine
+2026-11-01T23:10:13Z,bounded-lognorm,0.1.0,Ted Teske,MIT,67873,"Bounded lognormal (BL2) continuous distribution for scipy.stats: a smooth, mode/sigma-parametrized distribution on a finite interval."
+2026-11-01T23:10:19Z,boxfab,0.1.0a1,"ContextFab, Inc.",MIT,702367,"Python SDK for BoxFab, an agent execution cloud of Firecracker sandboxes (derived from the E2B SDK)"
+2026-11-01T23:12:12Z,alcedo-lit,0.1.0,Alcedo contributors,MIT,97993,"Collect DOIs from a list of literature search queries, grouped by query."
+2026-11-01T23:17:56Z,nao-fair-autostart,0.1.0,Valentin Schröter Bonk <vasc9380@th-wildau.de>,Apache-2.0,28954,On-robot autostart for NAO Fair trigger assignments.
+2026-11-01T23:18:10Z,benchverdict,0.1.0,Manu Nicholas Jacob <manunicholasjacob@gmail.com>,MIT,110062,"Decide whether a performance measurement was valid, and say why it was not."
+2026-11-01T23:18:14Z,powerstamp,0.1.0,Manu Nicholas Jacob,MIT,126993,"Energy measurement that reports its own achieved sampling rate, rail coverage and uncertainty, and refuses a number the measurement cannot support."
+2026-11-01T23:18:16Z,memceiling,0.1.0,Manu Nicholas Jacob <manunicholasjacob@gmail.com>,MIT,177514,"Measure a machine's achieved memory bandwidth ceiling, with a provenance record and a refusal to report an invalid number."

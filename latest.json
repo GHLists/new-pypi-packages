@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 21,
-    "from": "2026-11-01T21:18:08.574697Z",
-    "path": "data/new-packages-2026-11-01T22-18-08-811591Z.csv",
-    "to": "2026-11-01T22:18:08.811591Z"
+    "count": 37,
+    "from": "2026-11-01T22:18:08.811591Z",
+    "path": "data/new-packages-2026-11-01T23-19-18-476756Z.csv",
+    "to": "2026-11-01T23:19:18.476756Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-01T19:07:24Z",
-      "package": "perpbrain",
-      "since": "2026-11-01T18:19:29.142186Z",
-      "version": null
+      "attempts": 1,
+      "created_at": "2026-11-01T22:31:30Z",
+      "package": "radiuma-suv",
+      "since": "2026-11-01T22:18:08.811591Z",
+      "version": "0.0.0"
     }
   ],
-  "serial": 43063877,
+  "serial": 43065344,
   "source_truncated": false,
-  "window": "2026-11-01T22:18:08.811591Z"
+  "window": "2026-11-01T23:19:18.476756Z"
 }
