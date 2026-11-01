@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T08:19:31Z,rv565,1.1.0,Ayushman Bhattacharya <ayushman.elixpo@gmail.com>,MIT,23254,"Read, write and check RV565 frame-independent RGB565 video files; Pillow plugin included."
+2026-11-01T08:19:48Z,faradars-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,147230,"Unofficial read-only MCP server for Faradars (faradars.org), the Persian online course platform: course search, prices, syllabus, instructors, magazine."
+2026-11-01T08:20:42Z,time-ir-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,136019,"Unofficial read-only MCP server for Time.ir, the Iranian calendar: Jalali, Gregorian and Hijri dates, holidays, events, prayer times."
+2026-11-01T08:21:25Z,context-archive,1.0.0,Context Archive Contributors,MIT,169106,Portable AI Project Context Compiler with incremental change journaling
+2026-11-01T08:22:14Z,mihomo-userctl,1.5.0,mihomo-userctl maintainers,MIT,1171451,Agent-first user-level Mihomo manager for shared Linux servers
+2026-11-01T08:22:35Z,alibaba-ir-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,178596,"Unofficial read-only MCP server for Alibaba (alibaba.ir), the Iranian travel site: train, bus, domestic and international flight, hotel, villa and tour search with prices and availability."
+2026-11-01T08:24:15Z,rexprun,0.1.66,REXP contributors,MIT,371997,"Research Experiment Platform: a recoverable, reproducible experiment worker with SSH MCP integration."
+2026-11-01T08:25:11Z,rusty-git,0.2.1,Framework M <dev@framework-m.com>,Apache-2.0,15053483,High-speed pure Rust Git engine (gix + git2) for Python
+2026-11-01T08:25:36Z,jiami,0.0.1,noahwzy,,5547,简单的数字加密/解密工具库（数字与字母映射、追加随机混淆）
+2026-11-01T08:29:42Z,eghamat24-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,153181,"Unofficial read-only MCP server for Eghamat24 (eghamat24.com), Iranian hotel booking: search hotels, room prices, deals, reviews."
+2026-11-01T08:31:06Z,dpdpkit-django,0.0.1a0,dpdpkit maintainers,Apache-2.0,13091,"Django app for dpdpkit: DPDP consent, notices, rights requests, retention and an admin request queue."
+2026-11-01T08:31:21Z,dpdpkit-server,0.0.1a0,dpdpkit maintainers,Apache-2.0,13253,"Self-hosted dpdpkit server: the DPDP consent and rights API as a Docker image, for apps in any language."
+2026-11-01T08:31:23Z,dpdpkit-pii,0.0.1a0,dpdpkit maintainers,Apache-2.0,13262,"Find personal data in your databases and files: Indian PII recognizers (Aadhaar, PAN, GSTIN, UPI and more) and a read-only scanner."
+2026-11-01T08:32:37Z,varzesh3-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,184029,"Unofficial read-only MCP server for Varzesh3 (varzesh3.com), the Iranian sports site: live scores, tables, fixtures, teams, top scorers, news."
+2026-11-01T08:33:25Z,rrk-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,135231,"Unofficial read-only MCP server for the Official Gazette of Iran (rrk.ir, روزنامه رسمی): laws, regulations and court rulings."
+2026-11-01T08:33:52Z,AItoy,0.5.0,noahwzy,,10493,基于Tri-gram模型的简易AI对话玩具库（内置动物常识知识库）
+2026-11-01T08:36:02Z,rustorb-idl,0.1.0,,GPL-3.0-or-later,155535,IDL code generator for rustorb
+2026-11-01T08:36:02Z,rustorb-omniorb-compat,0.1.0,,MIT OR Apache-2.0,22917,omniORBpy compatibility layer for rustorb: `from omniORB import CORBA` on rustorb
+2026-11-01T08:37:56Z,docuapi,0.1.0,DocuAPI,,31114,Python SDK for DocuAPI document conversion.
+2026-11-01T08:39:55Z,rubipy,0.1.0,iran_com,MIT,18643,A modern Python library for building Rubika bots
+2026-11-01T08:43:23Z,put-input,0.1.0,noahwzy,MIT,5910,极简提示输入工具库（输入、输出、逐字慢速打印）
+2026-11-01T08:48:44Z,casper-astro-tools,0.1.0,"Alireza Molaeinezhad, Nicholas Walton, Marco Riello, Eduardo González Solares, Leigh Smith, Giusepp…",Apache-2.0,498649,"Open astronomy tools for AI agents and scripts: NASA ADS and arXiv, SIMBAD/NED/VizieR/Gaia and VO archives, and offline coordinate, time, unit, cosmology and observing calculators, as a Python librar…"
+2026-11-01T08:49:12Z,sqlload,0.0.1,Chio Labs,Apache-2.0,2101,SQL data loading tooling. Under development.
+2026-11-01T08:49:14Z,sqlload-cli,0.0.1,Chio Labs,Apache-2.0,2189,Native command-line executable for sqlload. Under development.
+2026-11-01T08:50:04Z,anyray-agent,0.1.0,,MIT,38803,"Keeps an agent answering when its Anyray gateway is unreachable: an httpx2 transport for the OpenAI, Anthropic and LangChain SDKs that resends a call straight to the provider only when the gateway ne…"
+2026-11-01T09:01:09Z,skill-sentry-cli,2.0.0,Team SkillSentry,MIT,609982,A context-aware firewall for the agent skill supply chain with Poisoned Well active defense.
+2026-11-01T09:02:34Z,auditloop,0.2.0,cloudrose,MIT,247507,"Agent runtime with a ledger: observable, replayable, provable coding-agent harness."
+2026-11-01T09:02:42Z,grobx-sage,0.73.3,,GPL-3.0-only,38647,"Reduced Gröbner bases of Sage's polynomial ideals, computed by grobx"
+2026-11-01T09:07:17Z,clovers-agent-life-extensions,0.3.0,KarisAya <karisaya@foxmail.com>,,113280,
+2026-11-01T09:07:48Z,kavach-ai,1.2.0,Raja Rajak (@rajrajak99),MIT,63027,Autonomous Zero-Noise Code Security Inspector & 1-Click Surgical Patcher
+2026-11-01T09:15:10Z,testament,0.1.0,Testament,MIT,82799,Craft reliable tests with confident insights.
