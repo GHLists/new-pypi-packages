@@ -1,20 +1,48 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-10-31T22:18:58.391333Z",
-    "path": "data/new-packages-2026-10-31T23-18-41-54889Z.csv",
-    "to": "2026-10-31T23:18:41.54889Z"
+    "count": 20,
+    "from": "2026-10-31T23:18:41.54889Z",
+    "path": "data/new-packages-2026-11-01T00-18-08-300455Z.csv",
+    "to": "2026-11-01T00:18:08.300455Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-10-31T22:58:03Z",
       "package": "ProtocolsSystem",
       "since": "2026-10-31T22:18:58.391333Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-31T23:19:54Z",
+      "package": "amesa-api-legacy",
+      "since": "2026-10-31T23:18:41.54889Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-31T23:20:01Z",
+      "package": "amesa-core-legacy",
+      "since": "2026-10-31T23:18:41.54889Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-31T23:19:43Z",
+      "package": "amesa-legacy",
+      "since": "2026-10-31T23:18:41.54889Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-10-31T23:20:07Z",
+      "package": "amesa-train-legacy",
+      "since": "2026-10-31T23:18:41.54889Z",
+      "version": null
     }
   ],
-  "serial": 43027326,
+  "serial": 43029378,
   "source_truncated": false,
-  "window": "2026-10-31T23:18:41.54889Z"
+  "window": "2026-11-01T00:18:08.300455Z"
 }

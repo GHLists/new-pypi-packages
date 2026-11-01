@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-10-31T23:19:53Z,nibraslite,0.1.2,nibras <einkbot4@gmail.com>,MIT,35534,A lightweight Selenium 4 helper providing persistent sessions and simple stealth options.
+2026-10-31T23:20:25Z,langchain-nextmail,0.1.0,Nextmail,LicenseRef-Proprietary,62988,"Nextmail tools for LangChain and LangGraph agents: read and search the mailbox, wait for verification codes, use disposable inboxes, save drafts, reply and send, with bounded output and the API's own…"
+2026-10-31T23:21:16Z,llama-index-tools-nextmail,0.1.0,Nextmail,LicenseRef-Proprietary,60834,"Nextmail tool spec for LlamaIndex agents: read and search the mailbox, wait for verification codes, use disposable inboxes, save drafts, reply and send, with bounded output and refusals returned as v…"
+2026-10-31T23:27:17Z,mkdocs-sumi,0.1.0,Xianpeng Shen <xianpeng.shen@gmail.com>,Apache-2.0,4985895,"Sumi: a modern, local-first documentation theme for MkDocs."
+2026-10-31T23:28:46Z,sutra-agent,0.4.1,Vishal Gurung,MIT,178061,"Deterministic tool-output reduction for AI agents, preserving the evidence that matters."
+2026-10-31T23:30:18Z,scivetra,0.1.0a1,tvquynh,,10048,"Deterministic, read-only inventory of local PDF files"
+2026-10-31T23:32:33Z,preflight-sdk,1.0.0,,MIT,48224,Thin fail-closed client for the Preflight pre-dial API. Standard library only.
+2026-10-31T23:38:13Z,winrt-Windows.ApplicationModel.Overlay,4!10.0.28000.2957,,MIT,13851,PyWinRT projection of the Windows.ApplicationModel.Overlay namespace
+2026-10-31T23:52:23Z,aipelago-sdk,0.6.1,Jiaan Liu <jiaanliux@gmail.com>,Apache-2.0,37079,"The SDK agents are written against: @tool, @hook and the ToolContext a handler receives."
+2026-10-31T23:52:34Z,ailands,0.5.2,Jiaan Liu <jiaanliux@gmail.com>,Apache-2.0,27559,Build and publish agents for Ailands.
+2026-10-31T23:52:42Z,blasttrace,1.0.0,Moin Hasan,Proprietary,870272,Pre-Edit Full-Stack Breaking-Change & Contract Blast-Radius Engine
+2026-10-31T23:58:42Z,gbm-local,1.1.0,,MIT,30854,Automatic local project checkpoints and recovery
+2026-11-01T00:01:18Z,link-doctor,0.5.0,,MIT,107023,Diagnose deliberately restricted GNU static-archive link order failures and propose constrained repairs.
+2026-11-01T00:03:10Z,ftxt,0.1.0,germanter,MIT,8796,Strict codebase-to-text bundler with in-place updates and ACID guarantees.
+2026-11-01T00:03:46Z,computenexa-mcp,0.1.0,ComputeNexa <support@computenexa.com>,MIT,125214,"MCP server for ComputeNexa: let your AI assistant find, launch and stop private GPUs."
+2026-11-01T00:06:41Z,mitra-sdk,0.1.0,Matih Labs,Apache-2.0,72091,"Python client for the Matih public API (ask, Gems, dashboards, forecasts)."
+2026-11-01T00:07:03Z,matrix-wacloud,0.1.0,Allan dos Santos Magalhães de Sousa,MIT,50918,"Matrix application service that forwards room messages to WhatsApp via the official WhatsApp Business Cloud API (template messages, opt-in subscribers, delivery/read receipts)."
+2026-11-01T00:09:22Z,once-guard,0.1.0,Hammed Ajibade,Apache-2.0,59770,"Stop your AI agent from charging, booking or sending twice."
+2026-11-01T00:10:28Z,sendscore,0.0.1,,MIT,1709,Check a newsletter email before it goes out. Package coming soon.
+2026-11-01T00:17:11Z,aipelago,0.6.1,Jiaan Liu <jiaanliux@gmail.com>,Apache-2.0,9897,"Installs aipelago-sdk, the SDK agents are written against."
