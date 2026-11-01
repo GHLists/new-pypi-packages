@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T00:19:28Z,pharmguide-mcp,0.3.0,,,833731,"MCP server for Omiclamp: cited pharmacogenomic guideline evidence and graded nutrigenomics, as an educational reference."
+2026-11-01T00:21:27Z,doc-drift-detector,1.0.0,,MIT,80513,Catch documentation drift in Pull Requests — static + AI hybrid
+2026-11-01T00:23:34Z,everyome,0.1.0a1,Helen R Horkan,MIT,13870912,"Every -ome, for everyone: omics analysis with a simple interface and every setting in reach, on your own computer or Slurm cluster."
+2026-11-01T00:32:12Z,rivin-perm,1.0.0,Igor Rivin,MIT,2216943,Exact and floating-point matrix permanent computation
+2026-11-01T00:36:22Z,nini-datagen,0.2.0,Nini (blzrosa),MIT,81261167,Dados sintéticos realistas do Brasil em escala: kernels C++ que escrevem direto em Polars.
+2026-11-01T00:37:25Z,google-adk-surface,0.1.0,Canada Site Ops <canada.site.ops@gmail.com>,MIT,7130,"Surface for Google ADK: the link-safety layer between an AI agent and the open web. One tool, surface_preflight, that tells your agent whether a link is worth fetching."
+2026-11-01T00:38:29Z,imap-mcp,0.1.0,Ben Crisp <ben@thecrisp.io>,MIT,246685,"Local, read-only MCP server with keyword search over one IMAP mailbox"
+2026-11-01T00:49:54Z,ebbtide,0.2.0,Nikhil Pawar,MIT,113899,Long-term memory for AI agents that forgets on purpose: an MCP server on a forgetting curve.
+2026-11-01T00:51:19Z,tlpr2s,0.2.0,TLP-R2S research team,,56635,2D-array SSMIS F16 transfer-learning precipitation retrieval and swath statistics
+2026-11-01T00:53:06Z,chatops-sdk,1.0.0,Francisco Manzano <keoh77@gmail.com>,MIT,49387,SDK para conectar aplicaciones Python al Relay Hub de ChatOps como bots con comandos slash
+2026-11-01T00:54:28Z,uraikal,0.1.0,Zhagaram Labs <hello@zhagaramlabs.com>,Apache-2.0,48424,"Uraikal: a Tamil benchmark, and the Tamil text tools it scores with"
+2026-11-01T00:56:02Z,logicpacks,0.0.1,TechRealm <info@techrealm.online>,MIT,2787,LogicPacks: the workspace for people and AI agents to work together. Developed by TechRealm.
+2026-11-01T00:57:29Z,pyforce-rosie,2.0.0,"Rolando Urquiza, Fernando Martínez González, Gustavo Viera-López, Antonio Serrano Muñoz, Danilo Góm…",MIT,1981912,"Mobile robot control in plain Python, for learning and teaching robotics"
+2026-11-01T01:08:09Z,ratifact,1.0.0,Emanuel,MIT,275736,"Local MCP server that turns each repository into the persistent memory of its project: decisions, open items, tasks and sessions in a git repository of their own."
+2026-11-01T01:10:51Z,tba-storage-attestation,0.4.0.dev2,,Apache-2.0,7923,Owned attestation identity database tables and migrations.
+2026-11-01T01:12:20Z,emsign-g3-distrust,0.2.0,jacobyoby,MIT,57023,Detect and deny compromised eMudhra/emSign G3 intermediate CAs (Mozilla Bug 2083449)
+2026-11-01T01:13:05Z,tba-storage-authority-graph,0.4.0.dev2,,Apache-2.0,9156,Owned authority-graph identity database tables and migrations.
+2026-11-01T01:15:10Z,tba-storage-authorization-policy,0.4.0.dev2,,Apache-2.0,25802,Owned authorization-policy identity database tables and migrations.
+2026-11-01T01:16:36Z,shifter-converter,0.0.1,,,10576,A program for converting .Shifter files into .ics files
+2026-11-01T01:17:16Z,tba-storage-certificate,0.4.0.dev2,,Apache-2.0,7471,Owned certificate identity database tables and migrations.
+2026-11-01T01:19:06Z,tba-storage-did,0.4.0.dev2,,Apache-2.0,7346,Owned did identity database tables and migrations.

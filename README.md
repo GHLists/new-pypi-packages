@@ -8,31 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 00:18 UTC
+## Latest list — 2026-11-01 01:19 UTC
 
-New packages created between 2026-10-31 23:18 UTC and 2026-11-01 00:18 UTC.
+New packages created between 2026-11-01 00:18 UTC and 2026-11-01 01:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-01T00-18-08-300455Z.csv)
+[Full CSV](data/new-packages-2026-11-01T01-19-10-723429Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-10-31 23:19:53 | [nibraslite](https://pypi.org/project/nibraslite/) | 0.1.2 | nibras <einkbot4@gmail.com> | 35.5 kB | A lightweight Selenium 4 helper providing persistent sessions and simple stealt… |
-| 2026-10-31 23:20:25 | [langchain-nextmail](https://pypi.org/project/langchain-nextmail/) | 0.1.0 | Nextmail | 63.0 kB | Nextmail tools for LangChain and LangGraph agents: read and search the mailbox,… |
-| 2026-10-31 23:21:16 | [llama-index-tools-nextmail](https://pypi.org/project/llama-index-tools-nextmail/) | 0.1.0 | Nextmail | 60.8 kB | Nextmail tool spec for LlamaIndex agents: read and search the mailbox, wait for… |
-| 2026-10-31 23:27:17 | [mkdocs-sumi](https://pypi.org/project/mkdocs-sumi/) | 0.1.0 | Xianpeng Shen <xianpeng.shen@… | 5.0 MB | Sumi: a modern, local-first documentation theme for MkDocs. |
-| 2026-10-31 23:28:46 | [sutra-agent](https://pypi.org/project/sutra-agent/) | 0.4.1 | Vishal Gurung | 178.1 kB | Deterministic tool-output reduction for AI agents, preserving the evidence that… |
-| 2026-10-31 23:30:18 | [scivetra](https://pypi.org/project/scivetra/) | 0.1.0a1 | tvquynh | 10.0 kB | Deterministic, read-only inventory of local PDF files |
-| 2026-10-31 23:32:33 | [preflight-sdk](https://pypi.org/project/preflight-sdk/) | 1.0.0 |  | 48.2 kB | Thin fail-closed client for the Preflight pre-dial API. Standard library only. |
-| 2026-10-31 23:38:13 | [winrt-Windows.ApplicationModel.Overlay](https://pypi.org/project/winrt-Windows.ApplicationModel.Overlay/) | 4!10.0.28000.2957 |  | 13.9 kB | PyWinRT projection of the Windows.ApplicationModel.Overlay namespace |
-| 2026-10-31 23:52:23 | [aipelago-sdk](https://pypi.org/project/aipelago-sdk/) | 0.6.1 | Jiaan Liu <jiaanliux@gmail.co… | 37.1 kB | The SDK agents are written against: @tool, @hook and the ToolContext a handler… |
-| 2026-10-31 23:52:34 | [ailands](https://pypi.org/project/ailands/) | 0.5.2 | Jiaan Liu <jiaanliux@gmail.co… | 27.6 kB | Build and publish agents for Ailands. |
-| 2026-10-31 23:52:42 | [blasttrace](https://pypi.org/project/blasttrace/) | 1.0.0 | Moin Hasan | 870.3 kB | Pre-Edit Full-Stack Breaking-Change & Contract Blast-Radius Engine |
-| 2026-10-31 23:58:42 | [gbm-local](https://pypi.org/project/gbm-local/) | 1.1.0 |  | 30.9 kB | Automatic local project checkpoints and recovery |
-| 2026-11-01 00:01:18 | [link-doctor](https://pypi.org/project/link-doctor/) | 0.5.0 |  | 107.0 kB | Diagnose deliberately restricted GNU static-archive link order failures and pro… |
-| 2026-11-01 00:03:10 | [ftxt](https://pypi.org/project/ftxt/) | 0.1.0 | germanter | 8.8 kB | Strict codebase-to-text bundler with in-place updates and ACID guarantees. |
-| 2026-11-01 00:03:46 | [computenexa-mcp](https://pypi.org/project/computenexa-mcp/) | 0.1.0 | ComputeNexa <support@computen… | 125.2 kB | MCP server for ComputeNexa: let your AI assistant find, launch and stop private… |
-| 2026-11-01 00:06:41 | [mitra-sdk](https://pypi.org/project/mitra-sdk/) | 0.1.0 | Matih Labs | 72.1 kB | Python client for the Matih public API (ask, Gems, dashboards, forecasts). |
-| 2026-11-01 00:07:03 | [matrix-wacloud](https://pypi.org/project/matrix-wacloud/) | 0.1.0 | Allan dos Santos Magalhães de… | 50.9 kB | Matrix application service that forwards room messages to WhatsApp via the offi… |
-| 2026-11-01 00:09:22 | [once-guard](https://pypi.org/project/once-guard/) | 0.1.0 | Hammed Ajibade | 59.8 kB | Stop your AI agent from charging, booking or sending twice. |
-| 2026-11-01 00:10:28 | [sendscore](https://pypi.org/project/sendscore/) | 0.0.1 |  | 1.7 kB | Check a newsletter email before it goes out. Package coming soon. |
-| 2026-11-01 00:17:11 | [aipelago](https://pypi.org/project/aipelago/) | 0.6.1 | Jiaan Liu <jiaanliux@gmail.co… | 9.9 kB | Installs aipelago-sdk, the SDK agents are written against. |
+| 2026-11-01 00:19:28 | [pharmguide-mcp](https://pypi.org/project/pharmguide-mcp/) | 0.3.0 |  | 833.7 kB | MCP server for Omiclamp: cited pharmacogenomic guideline evidence and graded nu… |
+| 2026-11-01 00:21:27 | [doc-drift-detector](https://pypi.org/project/doc-drift-detector/) | 1.0.0 |  | 80.5 kB | Catch documentation drift in Pull Requests — static + AI hybrid |
+| 2026-11-01 00:23:34 | [everyome](https://pypi.org/project/everyome/) | 0.1.0a1 | Helen R Horkan | 13.9 MB | Every -ome, for everyone: omics analysis with a simple interface and every sett… |
+| 2026-11-01 00:32:12 | [rivin-perm](https://pypi.org/project/rivin-perm/) | 1.0.0 | Igor Rivin | 2.2 MB | Exact and floating-point matrix permanent computation |
+| 2026-11-01 00:36:22 | [nini-datagen](https://pypi.org/project/nini-datagen/) | 0.2.0 | Nini (blzrosa) | 81.3 MB | Dados sintéticos realistas do Brasil em escala: kernels C++ que escrevem direto… |
+| 2026-11-01 00:37:25 | [google-adk-surface](https://pypi.org/project/google-adk-surface/) | 0.1.0 | Canada Site Ops <canada.site.… | 7.1 kB | Surface for Google ADK: the link-safety layer between an AI agent and the open… |
+| 2026-11-01 00:38:29 | [imap-mcp](https://pypi.org/project/imap-mcp/) | 0.1.0 | Ben Crisp <ben@thecrisp.io> | 246.7 kB | Local, read-only MCP server with keyword search over one IMAP mailbox |
+| 2026-11-01 00:49:54 | [ebbtide](https://pypi.org/project/ebbtide/) | 0.2.0 | Nikhil Pawar | 113.9 kB | Long-term memory for AI agents that forgets on purpose: an MCP server on a forg… |
+| 2026-11-01 00:51:19 | [tlpr2s](https://pypi.org/project/tlpr2s/) | 0.2.0 | TLP-R2S research team | 56.6 kB | 2D-array SSMIS F16 transfer-learning precipitation retrieval and swath statisti… |
+| 2026-11-01 00:53:06 | [chatops-sdk](https://pypi.org/project/chatops-sdk/) | 1.0.0 | Francisco Manzano <keoh77@gma… | 49.4 kB | SDK para conectar aplicaciones Python al Relay Hub de ChatOps como bots con com… |
+| 2026-11-01 00:54:28 | [uraikal](https://pypi.org/project/uraikal/) | 0.1.0 | Zhagaram Labs <hello@zhagaram… | 48.4 kB | Uraikal: a Tamil benchmark, and the Tamil text tools it scores with |
+| 2026-11-01 00:56:02 | [logicpacks](https://pypi.org/project/logicpacks/) | 0.0.1 | TechRealm <info@techrealm.onl… | 2.8 kB | LogicPacks: the workspace for people and AI agents to work together. Developed… |
+| 2026-11-01 00:57:29 | [pyforce-rosie](https://pypi.org/project/pyforce-rosie/) | 2.0.0 | Rolando Urquiza, Fernando Mar… | 2.0 MB | Mobile robot control in plain Python, for learning and teaching robotics |
+| 2026-11-01 01:08:09 | [ratifact](https://pypi.org/project/ratifact/) | 1.0.0 | Emanuel | 275.7 kB | Local MCP server that turns each repository into the persistent memory of its p… |
+| 2026-11-01 01:10:51 | [tba-storage-attestation](https://pypi.org/project/tba-storage-attestation/) | 0.4.0.dev2 |  | 7.9 kB | Owned attestation identity database tables and migrations. |
+| 2026-11-01 01:12:20 | [emsign-g3-distrust](https://pypi.org/project/emsign-g3-distrust/) | 0.2.0 | jacobyoby | 57.0 kB | Detect and deny compromised eMudhra/emSign G3 intermediate CAs (Mozilla Bug 208… |
+| 2026-11-01 01:13:05 | [tba-storage-authority-graph](https://pypi.org/project/tba-storage-authority-graph/) | 0.4.0.dev2 |  | 9.2 kB | Owned authority-graph identity database tables and migrations. |
+| 2026-11-01 01:15:10 | [tba-storage-authorization-policy](https://pypi.org/project/tba-storage-authorization-policy/) | 0.4.0.dev2 |  | 25.8 kB | Owned authorization-policy identity database tables and migrations. |
+| 2026-11-01 01:16:36 | [shifter-converter](https://pypi.org/project/shifter-converter/) | 0.0.1 |  | 10.6 kB | A program for converting .Shifter files into .ics files |
+| 2026-11-01 01:17:16 | [tba-storage-certificate](https://pypi.org/project/tba-storage-certificate/) | 0.4.0.dev2 |  | 7.5 kB | Owned certificate identity database tables and migrations. |
+| 2026-11-01 01:19:06 | [tba-storage-did](https://pypi.org/project/tba-storage-did/) | 0.4.0.dev2 |  | 7.3 kB | Owned did identity database tables and migrations. |
