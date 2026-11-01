@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T17:19:35Z,snippet-command-kit,0.1.0,,,11748,A collection of useful Python code snippets
+2026-11-01T17:21:27Z,pyvgc,0.0.2,Voozde,MIT,319167,A Pokémon Champions data science package.
+2026-11-01T17:25:50Z,jsondiffr,3.0.0,Joonas Govenius,MIT,642310,Robust and stable diffs of pure JSON files (Python bindings)
+2026-11-01T17:25:55Z,splotter,0.1.0,Isaac Yong,MIT,44115,"Read SPEC scan files from the command line: scan lists, point values, metadata and mesh maps"
+2026-11-01T17:27:27Z,moonkit,0.0.1,moonkit contributors,MIT,4779,A unified Python toolkit for lunar science. Placeholder release; under active development.
+2026-11-01T17:28:43Z,profileinsight,0.0.1,,MIT,5735,Find why your GPU job is slow from its profile.
+2026-11-01T17:31:34Z,swarmsleuth,0.1.0,,Apache-2.0,86288,"Local-first, evidence-backed incident triage with an Azure-oriented architecture"
+2026-11-01T17:32:16Z,ion-sh,0.1.0,antoine-tena,MIT,50412,"Ion: the tools that walk each project from its birth to its light. Installs them, keeps them up to date, runs them."
+2026-11-01T17:32:57Z,maf-sandbox-antivirus,0.1.0,SOKOLAI BV,MIT,33501,Offline antivirus scans in disposable sandboxes with host-supplied database updates
+2026-11-01T17:34:22Z,azerbaijan-mcp-cbar,0.1.0,Shamkhal Maharramov,MIT,23269,MCP server for the official exchange rates of the Central Bank of the Republic of Azerbaijan (CBAR).
+2026-11-01T17:36:06Z,agent-did-langchain,1.0.0rc1,Agent-DID contributors,Apache-2.0,43790,"LangChain Python integration for Agent-DID identities, context injection and secure tool exposure."
+2026-11-01T17:36:09Z,agent-did-crewai,1.0.0rc1,Edison Munoz <edison.munoz@agent-did.org>,Apache-2.0,39574,"CrewAI Python integration for Agent-DID identities, compatible tools, callbacks and secure opt-in operations."
+2026-11-01T17:36:09Z,agent-did-semantic-kernel,1.0.0rc1,Agent-DID contributors,Apache-2.0,41805,"Semantic Kernel Python integration for Agent-DID identities, tools, context injection and secure opt-in operations."
+2026-11-01T17:38:36Z,randomclassifier,0.1.9,,,21482525,"Deep learning laboratory programs, datasets, and reusable classifiers"
+2026-11-01T17:40:42Z,ranobe-downloader,0.4.1,SayatYuss,MIT,158074,"RanobeLib downloader with PySide6 desktop, CLI, Python API, Web UI, HTTP API and Telegram bot"
+2026-11-01T17:41:06Z,proofhound,0.1.0,moabdelmoati,MIT,1664315,Agentic vulnerability discovery and repair: SAST-guided LLM fuzzing for JS/TS.
+2026-11-01T17:44:11Z,agent-did-microsoft-agent-framework,1.0.0rc1,Edison Munoz <edison.munoz@agent-did.org>,Apache-2.0,51308,"Microsoft Agent Framework Python integration for Agent-DID identities, native tools and sanitized observability."
+2026-11-01T17:44:13Z,agent-did-a2a,1.0.0rc1,Edison Munoz <edison.munoz@agent-did.org>,Apache-2.0,31389,"Google A2A protocol integration for Agent-DID — DID-based identity, AgentCard enrichment, and HTTP Signature authentication for agent-to-agent communication."
+2026-11-01T17:44:46Z,mem0-postgres-store,0.1.0,,MIT,90439,Tenant-isolated PostgreSQL persistence for Mem0 OSS 2.2.1
+2026-11-01T17:46:47Z,shinyglass,0.5.0,Eric Anderson <eric.ray.anderson@gmail.com>,GPL-3.0-only,692536,Liquid Glass themes for Shiny for Python
+2026-11-01T17:47:45Z,bazaar-contrib-lark,0.3.0rc1,,Apache-2.0,74526,Lark Channel provider for Bazaar Compute Node
+2026-11-01T17:56:00Z,judgejitter,0.1.0,Ishan Yash,MIT,79277,"Re-run your LLM-as-judge eval K times and see how stable the verdicts are, which items flip, and how many repeats you need."
+2026-11-01T17:56:39Z,fleetmesh-strfry,0.1.0,,CC0-1.0,54186,The strfry relay bridge for a Fleetmesh node: in-process plugin or standalone service
+2026-11-01T17:57:28Z,flightproof,0.0.1,Marijo Radman,Apache-2.0,1876,"Name reserved for Flightproof, economic preflight for apps and agents that put money into Morpho vaults. No usable code yet."
+2026-11-01T17:57:30Z,burnmeter,0.3.8,Cihan Atak,AGPL-3.0-or-later,779244,"A live $/hour meter for Claude Code and Codex, against your own normal pace, chat by chat."
+2026-11-01T17:57:30Z,flightproof-verifier,0.0.1,Marijo Radman,Apache-2.0,1983,"Name reserved for Flightproof, economic preflight for apps and agents that put money into Morpho vaults. No usable code yet."
+2026-11-01T18:01:45Z,emi-mitigation-sim,1.1.0,Abhishek Singh <abhishek1033@gmail.com>,,26741,Multi-physics simulation & Touchstone dataset generator for 40 Gbps 50 GHz 4-channel GSG FGM stripline EMI mitigation.
+2026-11-01T18:02:09Z,xinolyn-plugin,0.2.0,Chengzhang XUN,Apache-2.0,407625,XINOLYN 宿主插件——端侧 MCP Server（DSH/Codex 等宿主加载）：平台工具透传（自动签名）+ 收集窗信封协议 + 三行业包；随包附带平台/租户节点组件（本地 stdio 形态与部署用）
+2026-11-01T18:02:35Z,jarvisx-evidence-agent,0.1.0,JarvisX,Proprietary — © JarvisX,583187,"JarvisX verify + Connected-Evidence agent — prove an AI-made (or any) SQL change is behavior-preserving (credential-free row-diff; pass/block/review gate for agents & CI), and reconcile a migration o…"
+2026-11-01T18:02:52Z,codex-mcp-eraser,0.0.2,,,11066,Safely remove user-configured MCP servers and hooks from Codex CLI
+2026-11-01T18:03:19Z,pytest-wirecheck,0.1.0,Ishan Yash,MIT,57982,"Record what your code really sends to the Claude API in tests, and fail the build if a request would break under API version 2026-10-21."
+2026-11-01T18:04:34Z,flutterking,1.0.0,flutterking,MIT,43967,"Flutter practicals knowledge base: show a topic, get its aim, theory, working code and output. Also generates a formatted PDF of all practicals."
+2026-11-01T18:05:04Z,unlyx,1.0.0,Unlyx,MIT,42528,"Official Python SDK for the Unlyx REST API v1 (account, services, orders, webhooks, usage)."
+2026-11-01T18:05:27Z,DashFlag,2026.0.6,,,14839,A Terminal Puzzle Game
+2026-11-01T18:05:38Z,lain-flutter-practicals,0.2.0,Lain,MIT,24032,A CLI tool that generates Dart files for 11 highlighted Flutter practicals.
+2026-11-01T18:08:15Z,gulliver-mcp,0.1.0,laaielichter,MIT,167942,"Test on tiny data before you run on giant data. A dress rehearsal for data agents: estimate the cost, rehearse on 1% -> 10%, predict 100%, and only go full scale within budget."
+2026-11-01T18:09:17Z,python-tapo-local,0.1.0,Hudson Brendon <contato.hudsonbrendon@gmail.com>,MIT,23253,"Local (and optional cloud) client for TP-Link Tapo cameras, built from reverse engineering the Tapo app"
+2026-11-01T18:10:53Z,melek-voice,2.0.0,Melek AI Development,MIT,2477546,melek-voice (Meleğin Ses Telleri) - Yüksek Performanslı Türkçe Nöral Ses Sentezleyici
+2026-11-01T18:11:36Z,lain-the-slayer,0.2.0,Lain,MIT,23913,A CLI tool that generates Dart files for 11 highlighted Flutter practicals.
+2026-11-01T18:11:51Z,badgeia-provenance,0.2.0,Badge (badgeia.com),MIT,66216,"Badge Provenance Pipeline (BPP-001) helpers and Signed Agent Record verifier: signed manifests, RFC 9421 response signing, trace-id echo, and offline verification of a badgeIA Signed Agent Record for…"
+2026-11-01T18:12:19Z,infinitecompute,0.1.0,,MIT,122794,ic: the Infinite Compute command line
+2026-11-01T18:14:07Z,veduis-wcag-audit,1.0.0,"Steven Richards <cody@veduis.com>, Veduis LLC <cody@veduis.com>",MIT,46739,Deterministic WCAG 2.2 Level AA accessibility linter and U.S. ADA Title II / Section 504 compliance deadline checker.
+2026-11-01T18:14:42Z,kepid,0.1.0,Ronaldo Ferreira <ronaldo@racum.com>,MIT,39149,Satellite orbits packed into UUIDv7
+2026-11-01T18:15:46Z,gaebboss,0.1.0,4thel00z,MIT OR Apache-2.0,3417068,"GAEB DA XML in pure Rust: read tenders and bids, validate, write schema-valid X84, price a tender"
+2026-11-01T18:15:50Z,rboto-cloudwatch-logs,0.1.0,Leandro Cavalcante Damascena <leandro.damascena@gmail.com>,Apache-2.0,158658859,"rboto: async-only, typed Python client for Amazon CloudWatch Logs, powered by Rust. Alpha preview."
+2026-11-01T18:15:57Z,ion-repo,0.4.11,antoine-tena,MIT,9032474,"Claude Code's workshop: start every new project, and rescue every old one, like a senior engineer would — even if you're not one."
+2026-11-01T18:16:51Z,economic-indicator-overlay,0.1.0,Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>,GPL-3.0-only WITH Classpath-exception-2.0 OR BSD-3-Clause,60049,Displays selected Brazilian economic indicators on your desktop and refreshes them at a configurable interval.
