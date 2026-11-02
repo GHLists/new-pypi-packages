@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T16:01:49Z,auth-ai,0.1.0.dev202611021808,CIRCLE,MIT,108736,"Python SDK for applications relying on a CIRCLE auth-service identity provider: OIDC sign-in (backend-for-frontend), entitlements, billing, credit wallet and LiteLLM gateway."
+2026-11-02T17:09:35Z,sign-and-verify,2.0.0,GLEIF,Apache-2.0,68303,"Sign-and-Verify: SAVSigner (KERI AID, FAW/Dossier issuance, signature validation) and SAVVerifier (Dossier crypto verification + revocation checking), built on keripy"
+2026-11-02T17:21:49Z,ncp-runtime,0.1.0,Fabio Marcello Salvadori,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",13318771,Python SDK for Neural Computation Protocol (NCP). Execute deterministic graphs using the NCP runtime.
+2026-11-02T17:26:30Z,materialsatlas-datasets,0.1.0,MaterialsAtlas,MIT,17568,"Python access to MaterialsAtlas property datasets, CIF exports, and OPTIMADE structures"
+2026-11-02T17:27:04Z,crawlora-bo3,0.1.0,Crawlora,MIT,67048,"Crawlora BO3.gg API client with 28 endpoints for Counter-Strike and Valorant matches, teams, players, tournaments, rankings, news, and statistics"
+2026-11-02T17:28:18Z,pyzerocopy,0.1.0,Yoav Haimov <haimovyoav.work@gmail.com>,MIT,23618,Zero-copy structured buffers for Python.
+2026-11-02T17:29:06Z,Legacy-TL-New-Fork,1.8.3,xdesai96,MIT,1596111,Full-featured Telegram client library for Python 3
+2026-11-02T17:29:58Z,langchain-stophy,0.1.0,Stophy,MIT,164377,"Give your agents the live web. Stophy tools for LangChain: search the web, read pages, and look up products, places, jobs and homes."
+2026-11-02T17:31:02Z,foundry-agent-buyer,1.0.0,Foundry Stack,,12089,Zero-config Python client for autonomous AI agents to buy digital goods via HTTP 402 on Base and Avalanche
+2026-11-02T17:33:27Z,songscan,0.1.0,Jared McKnight,MIT,19777,"Read songs out of PDFs: chord charts as ChordPro, sheet music as MusicXML"
+2026-11-02T17:33:51Z,astera-tools,0.2.0,explorearafat,MIT,17059,"Astera Tools — Python MCP utilities: web search, smart reading, content extraction"
+2026-11-02T17:34:27Z,rostainer-archive,0.0.1,,MIT,12348328,"rostainer plugin: rotate ROS logs and bags into archives, and fetch them from robots"
+2026-11-02T17:35:22Z,langchain-sealkeeper,0.1.0,The SealKeeper Authors,MIT,22272,LangChain tools and gates that check a SealKeeper SEAL before an agent calls an agent or an MCP server.
+2026-11-02T17:37:10Z,treecer,0.1.2,,MIT,97388,Local discussion trees for AI-assisted conversations
+2026-11-02T17:37:36Z,bbfmodels,0.1.0,ISPX LIMITED,Apache-2.0,122093,"Typed models and schema tooling for Broadband Forum data models (TR-181, TR-098, TR-104 and more), generated from the published XML"
+2026-11-02T17:39:04Z,iotlabkit,1.0.0,IoT Lab Contributors,MIT,289703,A Beginner-Friendly IoT Lab Code Generator for MSc/MCA Practicals (Programs 5-17)
+2026-11-02T17:39:06Z,pyreact-forge,0.1.0a1,PyReact Forge contributors,MIT,607924,"React for Python: build browser user interfaces with Python components, hooks and WebAssembly."
+2026-11-02T17:45:45Z,MCS-HACKS-ATIF,0.1,Madmax,,6955,A library containing 5 telecommunication and signal models
+2026-11-02T17:48:17Z,l11-l10n,0.1.0,,GPL-2.0-only OR GPL-3.0-only OR LicenseRef-KDE-Accepted-GPL,109570,Command-line tool for localizing free software.
+2026-11-02T17:49:00Z,faststream-gcp-pubsub,0.1.0,,Apache-2.0,95983,Google Cloud Pub/Sub broker for FastStream
+2026-11-02T17:54:06Z,sphinx-java,1.0.0,Chris Thunes,Apache-2.0,56412,Java domain for Sphinx
+2026-11-02T17:56:52Z,chronicle-context,0.2.0,Aniket Dey,MIT,373113,"Record your screen and system events for a set time, build a knowledge graph, and serve it to any agent over MCP."
+2026-11-02T17:57:51Z,tinydistill,0.2.0,Andreas-Hum,MIT,62944,"Distil an LLM classification prompt into a small, fast model that runs on a CPU."
+2026-11-02T18:00:51Z,javacs,2.0.1,andhrew,MIT,18291,Prints Java socket/RMI networking practical programs on demand
+2026-11-02T18:01:05Z,mcp-data-platform-toolkit,1.5.0,Matteo Rossi,MIT,581837,"MCP server for Power BI projects (PBIP, TMDL, PBIR): read, analyze and safely edit semantic models, find where measures and columns are used in reports, and trace the lineage from the SQL Server data…"
+2026-11-02T18:01:15Z,MCS-HACKS-AT21,0.2,Mohd Atif Siddique,,7104,A library containing 5 telecommunication and signal models
+2026-11-02T18:05:12Z,userlens,0.1.0,Bharadwaj Pendyala,MIT,62955,"Check that a CLI or web UI works the way users use it, then that it is good to use. Built for coding agents."
+2026-11-02T18:07:50Z,modi-does-bct,0.1.0,,,174284,BCT Practical Toolkit
+2026-11-02T18:11:50Z,talkpix,0.1.0,TalkPix <support@talkpix.ai>,MIT,14088,Official Python client for the TalkPix API: turn a photo and a script or audio into a lip-synced talking video.
+2026-11-02T18:14:40Z,orvelt-business,0.1.0,Orvelt,Apache-2.0,158822,Python SDK for the Orvelt Business REST API.
+2026-11-02T18:15:49Z,langchain-siteshot,0.1.0,Site-Shot <support@site-shot.com>,MIT,23695,"LangChain tool for the Site-Shot screenshot API: website screenshots from a real Chromium browser, returned as image content for multimodal agents."
+2026-11-02T18:17:54Z,retrack-ai,0.1.0,Gokulakrishnan Jawahar,MIT,36411,"Retrack builds experience for AI agents: capture, verify, learn and recall for LangGraph agents."
+2026-11-02T18:18:42Z,gnomancer,0.3.1,,MIT,138740,"Local, private deep dive into a consumer raw DNA file (AncestryDNA, 23andMe, MyHeritage, FTDNA, LivingDNA, VCF): QC, haplogroups, traits, pharmacogenomics, one HTML report."
+2026-11-02T18:18:42Z,scorm-dispatch-client,0.1.0,Daniel Alfocea,MIT,21934,Async Python client for the scorm-dispatch API
+2026-11-02T18:18:57Z,db-common-model,0.0.0,Blitzy,,1186,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-02T18:20:48Z,deployment-utils-test,0.0.0,Blitzy,,1239,Reserved name for an internal Blitzy package. Contains no code.
