@@ -8,56 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 06:19 UTC
+## Latest list — 2026-11-02 07:19 UTC
 
-New packages created between 2026-11-02 05:18 UTC and 2026-11-02 06:19 UTC.
+New packages created between 2026-11-02 06:19 UTC and 2026-11-02 07:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T06-19-23-362295Z.csv)
+[Full CSV](data/new-packages-2026-11-02T07-19-11-347132Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 05:19:45 | [safejoin](https://pypi.org/project/safejoin/) | 0.2.0 | Javier Lianes <javier@lianes8… | 63.6 kB | Path-traversal-safe joining of a trusted base directory with untrusted relative… |
-| 2026-11-02 05:19:56 | [deltadeck](https://pypi.org/project/deltadeck/) | 0.2.0 | Dharmendra Sharma | 5.6 MB | Review what your AI changed, and hand it back. A local viewer for docs and code… |
-| 2026-11-02 05:19:57 | [pboot](https://pypi.org/project/pboot/) | 3.2.0 | pboot-org | 941.3 kB | A simple framework for building complex web applications. |
-| 2026-11-02 05:20:03 | [followtail](https://pypi.org/project/followtail/) | 0.2.0 | Javier Lianes <javier@lianes8… | 72.6 kB | Follow a growing text file like tail -f, surviving log rotation, yielding new c… |
-| 2026-11-02 05:20:22 | [dirsize](https://pypi.org/project/dirsize/) | 0.2.0 | Javier Lianes <javier@lianes8… | 42.6 kB | Size of a directory tree, apparent and on disk, as typed calls and a du-like CL… |
-| 2026-11-02 05:26:25 | [tba-concrete-claim-actor](https://pypi.org/project/tba-concrete-claim-actor/) | 0.4.0.dev2 |  | 2.5 kB |  |
-| 2026-11-02 05:28:40 | [tba-concrete-claim-address](https://pypi.org/project/tba-concrete-claim-address/) | 0.4.0.dev2 |  | 2.9 kB |  |
-| 2026-11-02 05:29:03 | [tracecite](https://pypi.org/project/tracecite/) | 0.0.2 | ARPST-UniMelb | 306.0 kB | Source-linked table normalisation and evidence retrieval for executable documen… |
-| 2026-11-02 05:30:40 | [tba-concrete-claim-address-country-code](https://pypi.org/project/tba-concrete-claim-address-country-code/) | 0.4.0.dev2 |  | 2.9 kB |  |
-| 2026-11-02 05:32:32 | [pboot-pbatis](https://pypi.org/project/pboot-pbatis/) | 1.0.0 | pboot-org | 105.4 kB | Add pbatis ORM support to your Pboot application. |
-| 2026-11-02 05:32:38 | [tba-concrete-claim-also-known-as](https://pypi.org/project/tba-concrete-claim-also-known-as/) | 0.4.0.dev2 |  | 2.6 kB |  |
-| 2026-11-02 05:32:51 | [pboot-wtf](https://pypi.org/project/pboot-wtf/) | 1.0.0 | pboot-org | 176.4 kB | Form rendering, validation, and CSRF protection for Pboot with WTForms. |
-| 2026-11-02 05:34:53 | [tba-concrete-claim-assertions](https://pypi.org/project/tba-concrete-claim-assertions/) | 0.4.0.dev2 |  | 2.9 kB |  |
-| 2026-11-02 05:36:01 | [PyEnvToolsKit](https://pypi.org/project/PyEnvToolsKit/) | 1.1.0 |  | 5.6 kB | Bibliothèque permettant de simuler un environement |
-| 2026-11-02 05:37:18 | [tba-concrete-claim-audience](https://pypi.org/project/tba-concrete-claim-audience/) | 0.4.0.dev2 |  | 2.7 kB |  |
-| 2026-11-02 05:39:27 | [tba-concrete-claim-authentication-context](https://pypi.org/project/tba-concrete-claim-authentication-context/) | 0.4.0.dev2 |  | 2.9 kB |  |
-| 2026-11-02 05:41:37 | [nodii-pagination](https://pypi.org/project/nodii-pagination/) | 0.1.0 | Nodii <ops@nodii.co> | 29.9 kB | The one keyset pagination library for Nodii (S-10): signed cursor codec, list-q… |
-| 2026-11-02 05:41:43 | [tba-concrete-claim-authentication-methods](https://pypi.org/project/tba-concrete-claim-authentication-methods/) | 0.4.0.dev2 |  | 2.9 kB |  |
-| 2026-11-02 05:43:49 | [tba-concrete-claim-authentication-time](https://pypi.org/project/tba-concrete-claim-authentication-time/) | 0.4.0.dev2 |  | 2.8 kB |  |
-| 2026-11-02 05:46:07 | [tba-concrete-claim-authorization-code-hash](https://pypi.org/project/tba-concrete-claim-authorization-code-hash/) | 0.4.0.dev2 |  | 3.2 kB |  |
-| 2026-11-02 05:46:24 | [imcp-addon](https://pypi.org/project/imcp-addon/) | 0.1.0 | iydon | 39.9 kB | MCP addon framework: tools, pages, identity and storage for one containerised c… |
-| 2026-11-02 05:47:40 | [flowevent](https://pypi.org/project/flowevent/) | 1.2 | TahsinCr <Tahsincr@outlook.co… | 208.2 kB | EventFlow: synchronous and asynchronous event delivery for Python. |
-| 2026-11-02 05:47:42 | [cn-coding-plan-mcp](https://pypi.org/project/cn-coding-plan-mcp/) | 1.0.2 | CloudBench Research | 10.4 kB | 国内开发者 Coding Plan / AI 算力 / 海外订阅防封网络环境与平替 TCO 比价 MCP Server 与 CLI |
-| 2026-11-02 05:48:31 | [tba-concrete-claim-authorized-party](https://pypi.org/project/tba-concrete-claim-authorized-party/) | 0.4.0.dev2 |  | 2.7 kB |  |
-| 2026-11-02 05:50:44 | [tba-concrete-claim-birth-family-name](https://pypi.org/project/tba-concrete-claim-birth-family-name/) | 0.4.0.dev2 |  | 2.7 kB |  |
-| 2026-11-02 05:52:08 | [pboot-talisman](https://pypi.org/project/pboot-talisman/) | 1.0.0 | Alethea Katherine Flowers | 42.1 kB | HTTP security headers for Pboot. |
-| 2026-11-02 05:52:34 | [pboot-caching](https://pypi.org/project/pboot-caching/) | 1.0.0 | pboot-org | 133.9 kB | Adds caching support to Pboot applications. |
-| 2026-11-02 05:52:52 | [pboot-mongoengine](https://pypi.org/project/pboot-mongoengine/) | 1.0.0 | pboot-org | 250.5 kB | Pboot extension that provides integration with MongoEngine and WTF model forms. |
-| 2026-11-02 05:52:58 | [tba-concrete-claim-birth-given-name](https://pypi.org/project/tba-concrete-claim-birth-given-name/) | 0.4.0.dev2 |  | 2.7 kB |  |
-| 2026-11-02 05:54:18 | [skny](https://pypi.org/project/skny/) | 0.3.0 | Shunsuke A. Sakai | 10.4 MB | Spatial gene expression anlysis stratified by distance from tumor for multiple… |
-| 2026-11-02 05:55:59 | [shipwright-license](https://pypi.org/project/shipwright-license/) | 0.2.0 | Shipwright AI Labs | 38.0 kB | Offline-verifiable, Ed25519-signed license files for Shipwright products. |
-| 2026-11-02 06:00:35 | [pandify](https://pypi.org/project/pandify/) | 0.1.1 | Pandify Developers <dev@pandi… | 89.6 kB | Lightweight DataFrame manipulation helpers and tabular workflow formatting util… |
-| 2026-11-02 06:01:32 | [dax-parity](https://pypi.org/project/dax-parity/) | 0.3.0 | Ney Fred Jiménez Campos <neyf… | 85.5 kB | Differential testing for Power BI: every DAX measure checked cell by cell again… |
-| 2026-11-02 06:04:47 | [tatolab-microphone](https://pypi.org/project/tatolab-microphone/) | 0.68.8 | Jonathan Fontanez <fontanezj1… | 629.3 kB | The microphone node for Tatolab streams. |
-| 2026-11-02 06:05:01 | [tba-concrete-claim-birth-middle-name](https://pypi.org/project/tba-concrete-claim-birth-middle-name/) | 0.4.0.dev2 |  | 2.7 kB |  |
-| 2026-11-02 06:06:47 | [tba-concrete-claim-birthdate](https://pypi.org/project/tba-concrete-claim-birthdate/) | 0.4.0.dev2 |  | 2.9 kB |  |
-| 2026-11-02 06:09:10 | [tba-concrete-claim-client-id](https://pypi.org/project/tba-concrete-claim-client-id/) | 0.4.0.dev2 |  | 2.6 kB |  |
-| 2026-11-02 06:11:33 | [tba-concrete-claim-confirmation](https://pypi.org/project/tba-concrete-claim-confirmation/) | 0.4.0.dev2 |  | 3.1 kB |  |
-| 2026-11-02 06:13:44 | [tba-concrete-claim-credential-status](https://pypi.org/project/tba-concrete-claim-credential-status/) | 0.4.0.dev2 |  | 2.7 kB |  |
-| 2026-11-02 06:14:22 | [stormtrack](https://pypi.org/project/stormtrack/) | 0.4.0 | Hamid Ali Syed | 2.6 MB | Tropical-cyclone best tracks and forecasts in Python: the IMD RSMC New Delhi re… |
-| 2026-11-02 06:14:44 | [crossborder-cost-mcp](https://pypi.org/project/crossborder-cost-mcp/) | 1.0.1 | CloudBench Research | 10.6 kB | 跨境出海多开指纹浏览器 / 云手机 TikTok 矩阵 / 住宅代理成本对账 MCP Server 与 CLI |
-| 2026-11-02 06:15:53 | [tba-concrete-claim-credential-type](https://pypi.org/project/tba-concrete-claim-credential-type/) | 0.4.0.dev2 |  | 2.7 kB |  |
-| 2026-11-02 06:17:04 | [pipelineguard-ai](https://pypi.org/project/pipelineguard-ai/) | 1.0.0 |  | 164.1 kB | PipelineGuard AI — Production-Ready, Real-Time GitHub Security and DevSecOps Pl… |
-| 2026-11-02 06:18:20 | [tba-concrete-claim-cwt-audience](https://pypi.org/project/tba-concrete-claim-cwt-audience/) | 0.4.0.dev2 |  | 2.3 kB |  |
-| 2026-11-02 06:19:03 | [dex-connector-algolia](https://pypi.org/project/dex-connector-algolia/) | 0.1.0 |  | 89.6 kB | Algolia connector for Dex Flows |
+| 2026-11-02 06:20:11 | [tba-concrete-claim-cwt-confirmation](https://pypi.org/project/tba-concrete-claim-cwt-confirmation/) | 0.4.0.dev2 |  | 3.3 kB | Standalone RFC 8747 CWT cnf claim implementation. |
+| 2026-11-02 06:20:23 | [robot2robot](https://pypi.org/project/robot2robot/) | 0.0.0 | Duotron | 12.0 kB | robot2robot (R2R): an open trust and coordination protocol for robots and physi… |
+| 2026-11-02 06:20:29 | [dex-connector-alphavantage](https://pypi.org/project/dex-connector-alphavantage/) | 0.1.0 |  | 88.3 kB | Alpha Vantage connector for Dex Flows |
+| 2026-11-02 06:21:28 | [glowcap](https://pypi.org/project/glowcap/) | 0.1.1 | Glowcap LLC | 385.7 kB | Python ctypes binding for the glowcap C ABI archives (codec-neutral CapTP core… |
+| 2026-11-02 06:22:01 | [dex-connector-atlassian-bitbucket](https://pypi.org/project/dex-connector-atlassian-bitbucket/) | 0.1.0 |  | 88.4 kB | Bitbucket connector for Dex Flows |
+| 2026-11-02 06:22:33 | [tba-concrete-claim-eat-nonce](https://pypi.org/project/tba-concrete-claim-eat-nonce/) | 0.4.0.dev2 |  | 2.7 kB |  |
+| 2026-11-02 06:24:51 | [tba-concrete-claim-eat-profile](https://pypi.org/project/tba-concrete-claim-eat-profile/) | 0.4.0.dev2 |  | 2.6 kB |  |
+| 2026-11-02 06:27:33 | [tba-concrete-claim-eat-submodules](https://pypi.org/project/tba-concrete-claim-eat-submodules/) | 0.4.0.dev2 |  | 2.7 kB |  |
+| 2026-11-02 06:27:59 | [soliton-physics](https://pypi.org/project/soliton-physics/) | 0.1.0 |  | 2.1 MB | Research-grade, educational physics engine: planar mechanics for the class 11 s… |
+| 2026-11-02 06:28:05 | [elta-amz](https://pypi.org/project/elta-amz/) | 0.22.0 |  | 1.6 MB | The Amazon provider plugin for ELTA: Amazon Ads and Seller Central over elta-pl… |
+| 2026-11-02 06:28:07 | [elta-shopify](https://pypi.org/project/elta-shopify/) | 0.17.1 |  | 162.6 kB | The Shopify provider plugin for ELTA: Admin GraphQL orders, inventory and costs. |
+| 2026-11-02 06:30:02 | [tba-concrete-claim-email](https://pypi.org/project/tba-concrete-claim-email/) | 0.4.0.dev2 |  | 2.9 kB |  |
+| 2026-11-02 06:32:38 | [tba-concrete-claim-email-verified](https://pypi.org/project/tba-concrete-claim-email-verified/) | 0.4.0.dev2 |  | 3.0 kB |  |
+| 2026-11-02 06:32:50 | [ulf](https://pypi.org/project/ulf/) | 0.1.0 | ULF contributors | 79.0 kB | Encode, play, and export Unicode Lossful Format video files. |
+| 2026-11-02 06:34:44 | [compforge-repokit](https://pypi.org/project/compforge-repokit/) | 0.16.0 |  | 210.7 kB | Native repository inspection, content identity, Git and Forge operations |
+| 2026-11-02 06:36:59 | [plangeom](https://pypi.org/project/plangeom/) | 0.1.0a2 |  | 205.7 kB | Read construction floor plans from vector PDFs by geometry alone and write a ch… |
+| 2026-11-02 06:37:30 | [espspapy](https://pypi.org/project/espspapy/) | 1.0.0 |  | 104.0 kB | Wi-Fi enrollment (ESP-Touch) and local control of ESP modules |
+| 2026-11-02 06:38:16 | [tbx-cli](https://pypi.org/project/tbx-cli/) | 0.0.1 |  | 1.9 kB | Placeholder for the tbx CLI toolbox. The real release follows. |
+| 2026-11-02 06:40:14 | [repo-code-atlas](https://pypi.org/project/repo-code-atlas/) | 0.1.0 |  | 2.2 MB | A zoomable map of a code repository: regions, files, symbols and how they conne… |
+| 2026-11-02 06:40:49 | [crewai-alterlab](https://pypi.org/project/crewai-alterlab/) | 0.1.0 | AlterLab | 16.3 kB | CrewAI integration for AlterLab web scraping API |
+| 2026-11-02 06:44:02 | [langchain-alterlab](https://pypi.org/project/langchain-alterlab/) | 0.1.0 | AlterLab | 21.4 kB | LangChain integration for AlterLab web scraping API |
+| 2026-11-02 06:45:04 | [fengshuibedroom-url-tools](https://pypi.org/project/fengshuibedroom-url-tools/) | 0.1.0 | wangneo276-lgtm | 10.8 kB | Upload a bedroom photo for an AI feng shui bedroom check: bed position, door li… |
+| 2026-11-02 06:45:06 | [graphlift](https://pypi.org/project/graphlift/) | 1.0.2 | Rhys Miranda <rhysdmiranda@gm… | 68.8 kB | Does your graph actually help? An audit for graph machine learning datasets. |
+| 2026-11-02 06:46:45 | [llama-index-readers-alterlab](https://pypi.org/project/llama-index-readers-alterlab/) | 0.2.0 | AlterLab | 21.6 kB | LlamaIndex data reader for AlterLab web scraping API |
+| 2026-11-02 06:46:48 | [lattice-scan](https://pypi.org/project/lattice-scan/) | 0.1.1 | NamiQ LLC <contact@namiq.io> | 22.6 kB | Match CISA-exploited CVEs, looked up through Lattice, against what is installed… |
+| 2026-11-02 06:49:22 | [pboot-cors](https://pypi.org/project/pboot-cors/) | 1.0.0 | pboot-org | 24.8 kB | Cross Origin Resource Sharing (CORS) extension for Pboot. |
+| 2026-11-02 06:51:02 | [amkernel](https://pypi.org/project/amkernel/) | 0.1.0 |  | 93.3 kB | Persistent Python execution for agentic automation. |
+| 2026-11-02 06:52:45 | [tba-concrete-claim-expiration](https://pypi.org/project/tba-concrete-claim-expiration/) | 0.4.0.dev2 |  | 2.6 kB |  |
+| 2026-11-02 06:52:55 | [pypici](https://pypi.org/project/pypici/) | 0.0.1 | blacksnow81 <blacksnow81@sohu… | 3.0 kB | My first package published to PyPI |
+| 2026-11-02 06:54:51 | [tba-concrete-claim-cwt-expiration](https://pypi.org/project/tba-concrete-claim-cwt-expiration/) | 0.4.0.dev2 |  | 2.3 kB |  |
+| 2026-11-02 06:55:18 | [slidenotes](https://pypi.org/project/slidenotes/) | 0.1.0 | Subham Divakar <shubham.divak… | 106.2 kB | Link every slide of a PDF or PowerPoint to the notes that explain it: many-to-m… |
+| 2026-11-02 06:55:44 | [telamon](https://pypi.org/project/telamon/) | 0.1.0a0 | z.nurym | 310.7 kB | Framework-agnostic admin panel for Python: SQLAlchemy, Tortoise ORM, MongoDB an… |
+| 2026-11-02 06:56:45 | [viewfinder](https://pypi.org/project/viewfinder/) | 0.0.0 |  | 2.3 kB | Add your description here |
+| 2026-11-02 06:57:32 | [tba-concrete-claim-family-name](https://pypi.org/project/tba-concrete-claim-family-name/) | 0.4.0.dev2 |  | 3.0 kB |  |
+| 2026-11-02 06:59:47 | [tba-concrete-claim-gender](https://pypi.org/project/tba-concrete-claim-gender/) | 0.4.0.dev2 |  | 2.9 kB |  |
+| 2026-11-02 07:00:43 | [linear-continuous-process-mapper](https://pypi.org/project/linear-continuous-process-mapper/) | 0.1.0 | ICS University St. Gallen | 1.4 MB | Linear continuous process maps of event logs as Plotly Sankey figures. |
+| 2026-11-02 07:00:50 | [knock-mcp](https://pypi.org/project/knock-mcp/) | 0.1.1 | Hasan Gilani | 223.6 kB | A code map and memory for AI coding agents like Claude Code, served over MCP. R… |
+| 2026-11-02 07:01:56 | [ipmkit](https://pypi.org/project/ipmkit/) | 0.1.2 | ANASS OULED BEN TAHAR | 126.4 kB | Lossless Mastercard IPM tooling and payment card utilities |
+| 2026-11-02 07:02:38 | [tba-concrete-claim-given-name](https://pypi.org/project/tba-concrete-claim-given-name/) | 0.4.0.dev2 |  | 2.9 kB |  |
+| 2026-11-02 07:03:54 | [dhbw-cloud](https://pypi.org/project/dhbw-cloud/) | 0.2.62.dev5 |  | 280.9 kB | Client of the DHBW Cloud's AI service and the command dhbw-cloud (batch jobs on… |
+| 2026-11-02 07:03:56 | [certbot-dns-baidu-bcd](https://pypi.org/project/certbot-dns-baidu-bcd/) | 2.0.0 | certbot-dns-baidu-bcd contrib… | 12.5 kB | Baidu Cloud DNS (BCD) authenticator plugin for Certbot |
+| 2026-11-02 07:04:54 | [tba-concrete-claim-http-method](https://pypi.org/project/tba-concrete-claim-http-method/) | 0.4.0.dev2 |  | 2.6 kB |  |
+| 2026-11-02 07:06:33 | [tba-concrete-claim-http-uri](https://pypi.org/project/tba-concrete-claim-http-uri/) | 0.4.0.dev2 |  | 2.7 kB |  |
+| 2026-11-02 07:08:28 | [concurrency-guard](https://pypi.org/project/concurrency-guard/) | 0.1.0 |  | 57.1 kB | Deterministic AST + Runtime Concurrency & Idempotency Verifier for Python FastA… |
+| 2026-11-02 07:08:50 | [nummpyyy](https://pypi.org/project/nummpyyy/) | 1.1.2 | andhrew | 15.7 kB | Soft Computing Library |
+| 2026-11-02 07:09:15 | [tba-concrete-claim-issued-at](https://pypi.org/project/tba-concrete-claim-issued-at/) | 0.4.0.dev2 |  | 2.6 kB |  |
+| 2026-11-02 07:09:32 | [gaspatchio-viewer](https://pypi.org/project/gaspatchio-viewer/) | 0.1.0rc1 | mrmattwright <matt@opioinc.co… | 716.1 kB | The viewer's built page, for gspio calc-graph --html |
+| 2026-11-02 07:09:35 | [gaspatchio-jax](https://pypi.org/project/gaspatchio-jax/) | 0.1.0rc1 | mrmattwright <matt@opioinc.co… | 590.9 kB | A JAX engine over the gaspatchio graph artifact's executable profile |
+| 2026-11-02 07:11:26 | [eventlineage](https://pypi.org/project/eventlineage/) | 0.1.0 | Zahid Hasan | 416.0 kB | Event dependency intelligence: discover, analyze, validate and understand event… |
+| 2026-11-02 07:11:44 | [tba-concrete-claim-cwt-issued-at](https://pypi.org/project/tba-concrete-claim-cwt-issued-at/) | 0.4.0.dev2 |  | 2.3 kB |  |
+| 2026-11-02 07:13:59 | [tba-concrete-claim-issuer](https://pypi.org/project/tba-concrete-claim-issuer/) | 0.4.0.dev2 |  | 2.5 kB |  |
+| 2026-11-02 07:16:22 | [tba-concrete-claim-cwt-issuer](https://pypi.org/project/tba-concrete-claim-cwt-issuer/) | 0.4.0.dev2 |  | 2.2 kB |  |
+| 2026-11-02 07:16:23 | [contextdong-yapi-mcp](https://pypi.org/project/contextdong-yapi-mcp/) | 0.1.0 | ContextDong | 25.9 kB | MCP server: fetch YApi JSON API docs so agents can integrate client projects |
+| 2026-11-02 07:18:32 | [browser-use-pydantic](https://pypi.org/project/browser-use-pydantic/) | 0.1.0 | Gregor Žunič <36313686+gregpr… | 46.0 kB | Browser Use on Pydantic AI: one persistent Python REPL tool on raw CDP |
+| 2026-11-02 07:18:42 | [laptopscheduler](https://pypi.org/project/laptopscheduler/) | 1.0.0 |  | 78.8 kB | Durable scheduled Python jobs for Windows laptops |
+| 2026-11-02 07:19:06 | [tba-concrete-claim-jwt-id](https://pypi.org/project/tba-concrete-claim-jwt-id/) | 0.4.0.dev2 |  | 2.5 kB |  |

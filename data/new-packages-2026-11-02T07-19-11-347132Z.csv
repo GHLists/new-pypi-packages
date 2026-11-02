@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T06:20:11Z,tba-concrete-claim-cwt-confirmation,0.4.0.dev2,,,3298,Standalone RFC 8747 CWT cnf claim implementation.
+2026-11-02T06:20:23Z,robot2robot,0.0.0,Duotron,Apache-2.0,12001,robot2robot (R2R): an open trust and coordination protocol for robots and physical AI. Name reservation; no functionality yet.
+2026-11-02T06:20:29Z,dex-connector-alphavantage,0.1.0,,MIT,88280,Alpha Vantage connector for Dex Flows
+2026-11-02T06:21:28Z,glowcap,0.1.1,Glowcap LLC,Apache-2.0,385690,Python ctypes binding for the glowcap C ABI archives (codec-neutral CapTP core for OCapN).
+2026-11-02T06:22:01Z,dex-connector-atlassian-bitbucket,0.1.0,,MIT,88403,Bitbucket connector for Dex Flows
+2026-11-02T06:22:33Z,tba-concrete-claim-eat-nonce,0.4.0.dev2,,,2712,
+2026-11-02T06:24:51Z,tba-concrete-claim-eat-profile,0.4.0.dev2,,,2649,
+2026-11-02T06:27:33Z,tba-concrete-claim-eat-submodules,0.4.0.dev2,,,2726,
+2026-11-02T06:27:59Z,soliton-physics,0.1.0,,MIT OR Apache-2.0,2116299,"Research-grade, educational physics engine: planar mechanics for the class 11 syllabus and spectral wave solvers"
+2026-11-02T06:28:05Z,elta-amz,0.22.0,,,1575347,The Amazon provider plugin for ELTA: Amazon Ads and Seller Central over elta-plugin-contract.
+2026-11-02T06:28:07Z,elta-shopify,0.17.1,,,162646,"The Shopify provider plugin for ELTA: Admin GraphQL orders, inventory and costs."
+2026-11-02T06:30:02Z,tba-concrete-claim-email,0.4.0.dev2,,,2905,
+2026-11-02T06:32:38Z,tba-concrete-claim-email-verified,0.4.0.dev2,,,3001,
+2026-11-02T06:32:50Z,ulf,0.1.0,ULF contributors,GPL-3.0-only,79024,"Encode, play, and export Unicode Lossful Format video files."
+2026-11-02T06:34:44Z,compforge-repokit,0.16.0,,,210747,"Native repository inspection, content identity, Git and Forge operations"
+2026-11-02T06:36:59Z,plangeom,0.1.0a2,,,205692,Read construction floor plans from vector PDFs by geometry alone and write a checked JSON description. No model training.
+2026-11-02T06:37:30Z,espspapy,1.0.0,,GPL-3.0-or-later,104022,Wi-Fi enrollment (ESP-Touch) and local control of ESP modules
+2026-11-02T06:38:16Z,tbx-cli,0.0.1,,MIT,1865,Placeholder for the tbx CLI toolbox. The real release follows.
+2026-11-02T06:40:14Z,repo-code-atlas,0.1.0,,Apache-2.0,2218183,"A zoomable map of a code repository: regions, files, symbols and how they connect."
+2026-11-02T06:40:49Z,crewai-alterlab,0.1.0,AlterLab,MIT,16333,CrewAI integration for AlterLab web scraping API
+2026-11-02T06:44:02Z,langchain-alterlab,0.1.0,AlterLab,MIT,21440,LangChain integration for AlterLab web scraping API
+2026-11-02T06:45:04Z,fengshuibedroom-url-tools,0.1.0,wangneo276-lgtm,MIT,10826,"Upload a bedroom photo for an AI feng shui bedroom check: bed position, door line, mirrors, windows and walkways, with priority fixes. First full report free."
+2026-11-02T06:45:06Z,graphlift,1.0.2,Rhys Miranda <rhysdmiranda@gmail.com>,MIT,68823,Does your graph actually help? An audit for graph machine learning datasets.
+2026-11-02T06:46:45Z,llama-index-readers-alterlab,0.2.0,AlterLab,MIT,21596,LlamaIndex data reader for AlterLab web scraping API
+2026-11-02T06:46:48Z,lattice-scan,0.1.1,NamiQ LLC <contact@namiq.io>,Apache-2.0,22584,"Match CISA-exploited CVEs, looked up through Lattice, against what is installed on this host. Prints evidence for a person to read."
+2026-11-02T06:49:22Z,pboot-cors,1.0.0,pboot-org,MIT,24815,Cross Origin Resource Sharing (CORS) extension for Pboot.
+2026-11-02T06:51:02Z,amkernel,0.1.0,,,93285,Persistent Python execution for agentic automation.
+2026-11-02T06:52:45Z,tba-concrete-claim-expiration,0.4.0.dev2,,,2593,
+2026-11-02T06:52:55Z,pypici,0.0.1,blacksnow81 <blacksnow81@sohu.com>,MIT,2996,My first package published to PyPI
+2026-11-02T06:54:51Z,tba-concrete-claim-cwt-expiration,0.4.0.dev2,,,2291,
+2026-11-02T06:55:18Z,slidenotes,0.1.0,Subham Divakar <shubham.divakar@gmail.com>,MIT,106208,"Link every slide of a PDF or PowerPoint to the notes that explain it: many-to-many, no screenshots."
+2026-11-02T06:55:44Z,telamon,0.1.0a0,z.nurym,MIT,310736,"Framework-agnostic admin panel for Python: SQLAlchemy, Tortoise ORM, MongoDB and Beanie, with a built-in React UI"
+2026-11-02T06:56:45Z,viewfinder,0.0.0,,,2311,Add your description here
+2026-11-02T06:57:32Z,tba-concrete-claim-family-name,0.4.0.dev2,,,2954,
+2026-11-02T06:59:47Z,tba-concrete-claim-gender,0.4.0.dev2,,,2884,
+2026-11-02T07:00:43Z,linear-continuous-process-mapper,0.1.0,ICS University St. Gallen,MIT,1446332,Linear continuous process maps of event logs as Plotly Sankey figures.
+2026-11-02T07:00:50Z,knock-mcp,0.1.1,Hasan Gilani,Apache-2.0,223635,"A code map and memory for AI coding agents like Claude Code, served over MCP. Runs locally, no API key."
+2026-11-02T07:01:56Z,ipmkit,0.1.2,ANASS OULED BEN TAHAR,MIT,126429,Lossless Mastercard IPM tooling and payment card utilities
+2026-11-02T07:02:38Z,tba-concrete-claim-given-name,0.4.0.dev2,,,2943,
+2026-11-02T07:03:54Z,dhbw-cloud,0.2.62.dev5,,Apache-2.0,280943,"Client of the DHBW Cloud's AI service and the command dhbw-cloud (batch jobs on its GPUs, more to come)."
+2026-11-02T07:03:56Z,certbot-dns-baidu-bcd,2.0.0,certbot-dns-baidu-bcd contributors,GPL-3.0-or-later,12494,Baidu Cloud DNS (BCD) authenticator plugin for Certbot
+2026-11-02T07:04:54Z,tba-concrete-claim-http-method,0.4.0.dev2,,,2641,
+2026-11-02T07:06:33Z,tba-concrete-claim-http-uri,0.4.0.dev2,,,2690,
+2026-11-02T07:08:28Z,concurrency-guard,0.1.0,,,57092,Deterministic AST + Runtime Concurrency & Idempotency Verifier for Python FastAPI/SQLAlchemy backends
+2026-11-02T07:08:50Z,nummpyyy,1.1.2,andhrew,MIT,15686,Soft Computing Library
+2026-11-02T07:09:15Z,tba-concrete-claim-issued-at,0.4.0.dev2,,,2575,
+2026-11-02T07:09:32Z,gaspatchio-viewer,0.1.0rc1,mrmattwright <matt@opioinc.com>,Apache-2.0 AND BSD-3-Clause AND ISC AND MIT AND OFL-1.1,716058,"The viewer's built page, for gspio calc-graph --html"
+2026-11-02T07:09:35Z,gaspatchio-jax,0.1.0rc1,mrmattwright <matt@opioinc.com>,Apache-2.0,590886,A JAX engine over the gaspatchio graph artifact's executable profile
+2026-11-02T07:11:26Z,eventlineage,0.1.0,Zahid Hasan,Apache-2.0,415977,"Event dependency intelligence: discover, analyze, validate and understand event-driven architectures."
+2026-11-02T07:11:44Z,tba-concrete-claim-cwt-issued-at,0.4.0.dev2,,,2283,
+2026-11-02T07:13:59Z,tba-concrete-claim-issuer,0.4.0.dev2,,,2514,
+2026-11-02T07:16:22Z,tba-concrete-claim-cwt-issuer,0.4.0.dev2,,,2233,
+2026-11-02T07:16:23Z,contextdong-yapi-mcp,0.1.0,ContextDong,MIT,25879,MCP server: fetch YApi JSON API docs so agents can integrate client projects
+2026-11-02T07:18:32Z,browser-use-pydantic,0.1.0,Gregor Žunič <36313686+gregpr07@users.noreply.github.com>,MIT,46043,Browser Use on Pydantic AI: one persistent Python REPL tool on raw CDP
+2026-11-02T07:18:42Z,laptopscheduler,1.0.0,,MIT,78834,Durable scheduled Python jobs for Windows laptops
+2026-11-02T07:19:06Z,tba-concrete-claim-jwt-id,0.4.0.dev2,,,2526,
