@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-01T23:20:40Z,fakenumdetect,0.1.0,Giovanna Paiva Alves,MIT,222883,"Detecção de indícios de dados numéricos fabricados, combinando forense numérica e aprendizado de máquina."
+2026-11-01T23:35:31Z,epita-daniyal-crypto-lab,0.1.6,Daniyal Hussain,,6126,EPITA Engineering Tools Lab - Crypto CLI
+2026-11-01T23:39:40Z,gramson,0.1.0,Kim Bäckström,MIT,88989,Define JSON expression languages declaratively
+2026-11-01T23:45:17Z,rulestamp-gke-extended-channel-fee-lint,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37563,"GKE Extended channel fee check for Terraform: 14 rules on google_container_cluster versions, fee start dates, forced upgrades and Extended channel blockers (bundled Node.js runtime)"
+2026-11-01T23:45:26Z,rulestamp-bem-class-extractor-html,0.1.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,29393,"16 BEM naming rules read the HTML file you have open and 22 markup and SCSS skeletons write the stylesheet shell, so the class names get fixed before the pull request comes back for them. (bundled No…"
+2026-11-01T23:45:43Z,rulestamp-bescheid-vorlage-lint-kag,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34197,"Rechtsbehelfsbelehrung, Bekanntgabe und Säumniszuschlag in Abgabenbescheid-Vorlagen prüfen: Monatsfrist statt zwei Wochen (§70 VwGO), vierter Tag seit 1. Januar 2025 (§122 Abs. 2 AO), Säumniszuschlag…"
+2026-11-01T23:46:00Z,rulestamp-bestellabschluss-pflichten-de,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34438,"15 Regeln aus BGB, EGBGB und PAngV für die Bestellstrecke deutscher Onlineshops (bundled Node.js runtime)"
+2026-11-01T23:48:58Z,pretext-sim,0.3.3,pretext contributors,MIT,594480,Generate labeled social-engineering simulations for security training
+2026-11-01T23:50:41Z,smiles-to-iupac,0.1.0,Inwan Yoo,MIT,2864890,Rule-based SMILES to IUPAC name conversion following the 2013 IUPAC recommendations (the Blue Book)
+2026-11-01T23:57:55Z,agis-spatial,0.1.0,Peter Menzies,MIT,99697,"A lightweight, local-first natural-language CLI for simple GIS tasks."
+2026-11-01T23:58:00Z,itzma,0.1.0,,MIT OR Apache-2.0,51373729,"Vector search on object storage: an embedded library, no server, just your bucket"
+2026-11-01T23:58:07Z,gh-ci-truth,0.1.0,Manu Nicholas Jacob <manunicholasjacob@gmail.com>,MIT,86914,"Tell whether a pull request's CI actually ran, instead of whether its checks panel looks clean."
+2026-11-01T23:58:12Z,bibauthors,0.1.0,Manu Nicholas Jacob,MIT,200630,"Verify bibliography AUTHOR LISTS against authoritative metadata, so a chimeric citation cannot pass as a clean one."
+2026-11-01T23:58:45Z,hno-hammerstein,0.1.1,Daniel Freitas de Jesus and Luiz Alberto Luz de Almeida,MIT,16207,Hammerstein Neural Operator with Latent Dynamics for Magnetic Hysteresis
+2026-11-02T00:02:07Z,uti712s,0.2.0,Pablo Ventura,,30734,Extract the Celsius matrix from UNI-T UTi712S BMP files and show the temperature of each point.
+2026-11-02T00:04:04Z,spaday-dash,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6418,spaday-dash
+2026-11-02T00:04:30Z,spaday-streamlit,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6432,spaday-streamlit
+2026-11-02T00:04:37Z,panel-spaday,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6427,panel-spaday
+2026-11-02T00:04:43Z,dash-spaday,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6440,dash-spaday
+2026-11-02T00:05:13Z,linreg-scratch,0.1.0,Your Name <you@example.com>,MIT,7766,Simple linear regression from scratch using only NumPy
+2026-11-02T00:07:38Z,blinkit-scraper,0.1.0,Buğrahan Saka,MIT,33917,"Scrape Blinkit categories and product pages (price, MRP, stock per dark store, FSSAI licence, shelf life) with Python."
+2026-11-02T00:08:14Z,ferrolint,1.0.0,,MIT,27917681,Extensible Python linter in Rust that runs custom rules as WASM plugins next to Ruff
+2026-11-02T00:09:44Z,hypervisual,0.1.0,,Apache-2.0,5304,HyperVisual CLI launcher: downloads and runs the `codi` binary for architecture diagrams as code.
+2026-11-02T00:13:10Z,tidy3syntax,0.1.1,Rigoberto Leyva Salmeron,MIT,56078,"R syntax in notebook cells, rewritten to Python: shared by tidy3, tidy3a, plot3 and stats3"
+2026-11-02T00:13:40Z,amv-forge,2.0.0,AMEVA Engineering Team,MIT,348360,High-performance WebGPU-accelerated tensor computation engine with reverse-mode autograd for browser and edge deep learning.
+2026-11-02T00:17:15Z,memjudge,0.1.0,MemJudge contributors <admin@memjudge.org>,Apache-2.0,705012,"Open, vendor-neutral benchmark for AI memory systems."
+2026-11-02T00:17:36Z,auth-guide,0.5.0,David Nugent,MIT,113192,Local account and bearer-token service for mcp-guide
