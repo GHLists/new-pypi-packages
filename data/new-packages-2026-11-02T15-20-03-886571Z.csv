@@ -1,0 +1,61 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T14:21:10Z,php-closure,1.0.0,Eilon Avizemer,"MIT License Copyright (c) 2026 Eilon Avizemer Permission is hereby granted, free of charge, to any…",26704,Wrap file contents with PHP filter chains
+2026-11-02T14:21:25Z,agent-runtime-client,0.1.0,Petr Tripolsky <tripolskypetr@gmail.com>,MIT,50811,"Python client for agent-runtime over the standard library: generate_object() with answers validated against a full JSON Schema, generate_text(), and the admin API."
+2026-11-02T14:21:40Z,iotml,0.1.3,Meena,MIT,18497,"IoT & Data Analytics Lab toolkit for live API fetching, visualization, and ML models"
+2026-11-02T14:23:01Z,ettin-pii,0.1.0,Kalyan KS,,23174,Production-ready PII detection and redaction toolkit powered by the Ettin Nemotron PII model family
+2026-11-02T14:23:11Z,quantum-research-pipeline,0.0.0,Qodex Quantum <engineering@qodexquantum.ai>,LicenseRef-Proprietary,2231,"Internal Qodex Quantum package name, held to prevent squatting. Contains no code. Do not install."
+2026-11-02T14:25:05Z,harald,0.2.0,k0nnect,MIT,348979,helps coding agents work out the bluetooth le and classic protocol of gadgets you own
+2026-11-02T14:30:45Z,ai-error,0.2.0,,MIT,10897,"ai_error: AI self-healing error handling for Python. Decorate a function; on exception an LLM (OpenAI, Anthropic, Gemini, Groq, Mistral, Ollama) repairs it in scope, reloads it and retries."
+2026-11-02T14:34:07Z,odoo-addon-purchase-order-report-xlsx,19.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",AGPL-3,26494,Adds an XLSX export report for purchase orders
+2026-11-02T14:34:54Z,disvis,3.0.0,"""Gydo C.P. van Zundert"" <gvanzundert51@gmail.com>",Apache-2.0,105386307,Quantifying and visualizing the interaction space of distance-constrained macromolecular complexes
+2026-11-02T14:35:02Z,slurmscope,1.2.0,Fabio Bozzoli,MIT,113066,"Live terminal dashboard for Slurm clusters: queue, GPUs, QoS, nodes, memory and storage."
+2026-11-02T14:36:09Z,haunted-terminal,1.0.0,rocketd3v,,4278,A haunted terminal simulation featuring interactive ghosts
+2026-11-02T14:36:20Z,cryphash,0.1.0,,MIT,49289,Cybersecurity practical Python code collection and downloader
+2026-11-02T14:39:01Z,wflow-cli,0.1.0,wflow.com,Apache-2.0,24374,Command-line client for the wflow.com public API
+2026-11-02T14:41:35Z,mubasshirthecoder,0.3.0,,,5770,A clean Python module setup
+2026-11-02T14:42:10Z,gnap-caep-risc,0.1.0,"Iya CyberSecurity Solutions, LLC",MIT,83365,"Server-side GNAP client with a registered key, key-bound tokens, and a CAEP and RISC receiver"
+2026-11-02T14:42:14Z,oidc-caep-risc,0.1.0,"Iya CyberSecurity Solutions, LLC",MIT,74423,"Server-side OpenID Connect confidential client: Authorization Code with PKCE, client authentication, and a CAEP and RISC Shared Signals receiver."
+2026-11-02T14:42:15Z,novilabs-de-production,0.dev0,Novi Labs <devops@novilabs.com>,,828,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-11-02T14:42:16Z,novilabs-derrick-models,0.dev0,Novi Labs <devops@novilabs.com>,,833,Name held by Novi Labs to prevent dependency confusion. Not installable.
+2026-11-02T14:42:23Z,wsfed-caep,0.1.0,"Iya CyberSecurity Solutions, LLC",MIT,92356,"Server-side WS-Federation relying party that accepts SAML 2.0 assertions, and a CAEP and RISC receiver."
+2026-11-02T14:43:41Z,icon4py-atmosphere-tmx,0.5.0,ETH Zurich <gridtools@cscs.ch>,BSD-3 License,67909,ICON AES turbulent mixing (tmx) parameterization.
+2026-11-02T14:43:45Z,megan-onnx,0.1.0,Jonas Teufel <jonseb1998@gmail.com>,MIT,294413,"Run MEGAN explainable graph neural networks for molecules from their ONNX exports, without PyTorch"
+2026-11-02T14:46:58Z,eliagent-cli,1.23.0,,,217108,"EliAgent CLI for workspaces, releases, deployments and services"
+2026-11-02T14:47:01Z,suzune-mini,0.1.0,Sorika Labs <contact@sorikalabs.com>,,10114,Ultra-Lightweight On-Device Flow-Matching Neural Speech Engine by Sorika Labs
+2026-11-02T14:47:13Z,suzune-flash,0.1.0,Sorika Labs <contact@sorikalabs.com>,,55438,Flagship Multilingual On-Device Neural Voice Engine by Sorika Labs
+2026-11-02T14:47:27Z,suzune,0.1.0,Sorika Labs <contact@sorikalabs.com>,,6002,Universal On-Device Speech AI Framework by Sorika Labs
+2026-11-02T14:48:03Z,saml2-sp,0.1.0,"Iya CyberSecurity Solutions, LLC",MIT,95364,"Server-side SAML 2.0 service provider: signed AuthnRequests, HTTP-POST, HTTP-Redirect and HTTP-Artifact responses, encrypted assertions, and a Shared Signals poll receiver."
+2026-11-02T14:49:30Z,rang-core,0.1.0,Gijs Molenaar,GPL-3.0-or-later,16039891,MeerKAT calibration research on one Rust core (import rang)
+2026-11-02T14:51:05Z,fde-workbench,0.2.0,daehuikim,MIT,51043,"Evidence-led problem design, concise briefs, and portable agent skills."
+2026-11-02T14:51:07Z,icon4py-atmosphere-surface,0.5.0,ETH Zurich <gridtools@cscs.ch>,BSD-3 License,14478,ICON AES surface fluxes (the tmx surface scheme) parameterization.
+2026-11-02T14:51:09Z,slashpeak,0.1.0,SlashPeak <slashpeak@proton.me>,Apache-2.0,72819,SlashPeak Job Router: run each warehouse query where it costs less (BigQuery today).
+2026-11-02T14:51:22Z,wflow-api,0.1.0,wflow.com,Apache-2.0,130462,Python client for the wflow.com public API
+2026-11-02T14:52:14Z,codexdoctor,0.2.0,Mohammad Rasol,"MIT License Copyright (c) 2026 Mohammad Rasol Permission is hereby granted, free of charge, to any…",44821,"Static, read-only diagnostics for Python projects"
+2026-11-02T14:52:23Z,proxy-string,1.0.0,Sergey Scat <py.unicaps@gmail.com>,MIT,39237,Proxy server data representation and parser package.
+2026-11-02T14:52:28Z,rbscan,0.2.1,RayBotic,MIT,18759597,RayBotic scan data format: HDF5 master file + segmented sensor streams
+2026-11-02T14:52:31Z,heongpu,0.1.0,enCRYPTON-Labs,Apache-2.0,205111097,"Python bindings of HEonGPU, a GPU library for fully homomorphic encryption (BFV, CKKS and TFHE)"
+2026-11-02T14:54:44Z,argus-shell,2.0.0,Argus Team,MIT,307835,"A cross-platform programmable shell with policy analysis, audit tools, and optional protected execution"
+2026-11-02T14:56:26Z,wakemarch,0.1.0,Hoang Hai Bui,BSD-3-Clause,147748,Cross-plane marching wake model for yawed wind turbines with curled wakes
+2026-11-02T14:57:53Z,helper-from-import-map,0.0.0,Your Name <you@example.com>,,1185,Dummy helper-from-import-map package for PyPI
+2026-11-02T14:58:09Z,solara-assets2,1.0.0,"""Maarten A. Breddels"" <maartenbreddels@gmail.com>","The MIT License (MIT) Copyright (c) 2022 Maarten A. Breddels Permission is hereby granted, free of…",35892926,
+2026-11-02T15:00:37Z,asterion-solver,0.4.0,,Apache-2.0 AND CC-BY-SA-4.0 AND IJG,40026032,"A fast blind astrometric plate solver, for the images which programs have in memory"
+2026-11-02T15:01:49Z,holos-tts-mlx,0.1,,MIT,34976,HolosTTS inference on Apple silicon with MLX
+2026-11-02T15:02:51Z,nonebot-plugin-mortis-analysis,1.3.0,Ryshcyn,MulanPSL-2.0,170255,小睦解析：视频与图文链接解析、平台主题长图和热门评论
+2026-11-02T15:03:17Z,jax-keyguard,0.2.0,,Apache-2.0,40384,"Detect JAX PRNG key reuse statically from source, or at runtime."
+2026-11-02T15:03:17Z,snp-cli,2.0.0,Serhii Kaliuzhnyi,MIT,43073487,"You Shell Not Pass: a drop-in replacement for pre-commit 4.6.2, as a single native binary"
+2026-11-02T15:04:39Z,lithovox-stability,0.1.0,LithoVox,MIT,127741,"Read, write and calculate Deltares D-Stability (.stix) files"
+2026-11-02T15:06:33Z,vector-agent,0.1.10,Apex Fusion Foundation,MIT,2790,"Alias of apex-fusion-agent-sdk, the Python SDK for Vector (import package vector_agent)."
+2026-11-02T15:06:36Z,a11yguard,0.1.0,A11yGuard,Apache-2.0,25883,Accessibility testing for Playwright and Selenium in Python
+2026-11-02T15:07:26Z,yajvendra-prac5,0.1.0,Yajvendra <yajvendra@example.com>,,8435,Practical 5: FastAPI SQLAlchemy relational ORM pipeline connected to SQLite
+2026-11-02T15:07:27Z,yajvendra-prac6,0.1.0,Yajvendra <yajvendra@example.com>,,9199,Practical 6: Persistent database-backed blogging API backend with CRUD operations
+2026-11-02T15:07:29Z,yajvendra-prac7,0.1.0,Yajvendra <yajvendra@example.com>,,8905,"Practical 7: Secure state management with FastAPI sessions, cookies, and pwdlib password hashing"
+2026-11-02T15:08:08Z,polyglot-code-guard,0.2.0,Furox-Art,MIT,23520,"Fail-closed, multi-language test verification for AI-generated code."
+2026-11-02T15:08:47Z,agent7,0.1.0,r1cardohj <2413302357@qq.com>,MIT,38932,"The simplest coding agent — four tools, one loop, ~1200 lines of Python"
+2026-11-02T15:10:03Z,vibe-firmware-manager,1.0.2,VIBE FM,MIT,30156,Firmware download and installation manager for VIBE FM
+2026-11-02T15:12:53Z,resolve-ext,1.0.1,,MIT,97118,MCP server adding the DaVinci Resolve scripting surfaces mainstream MCP servers do not cover
+2026-11-02T15:17:04Z,relaybay,0.1.0,Aleksandrs Poltarjonoks,MIT,353345,A live board and MCP server for coordinating many Claude Code sessions across projects.
+2026-11-02T15:17:39Z,kinoweave,0.1.0.dev0,,Apache-2.0,4113259,GPU-accelerated multi-robot planning with platform-independent trajectories
+2026-11-02T15:17:54Z,us-car-sales-tax,0.1.0,Anders Lee,"MIT (code); CC BY 4.0 (data, see DATA-LICENSE.md)",67760,"Car sales tax, title and registration fees for U.S. states, offline: out-the-door cost calculators for Texas, California, Florida, New York and Pennsylvania with county and city rates, plus the car s…"
+2026-11-02T15:18:24Z,skyeai,0.0.1,,,1477,Name reserved for the Skye project.
+2026-11-02T15:18:44Z,dmipy-analytic,3.0.0,Rutger Fick <fick.rutger@gmail.com>,Apache-2.0,157766,"Closed and semi-closed forms of the diffusion-MRI signal for special cases, each with its assumptions and its source: the one copy the dmipy packages import"
+2026-11-02T15:19:47Z,tba-concrete-corim,0.4.0.dev2,,Apache-2.0,7263,
