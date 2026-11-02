@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T08:18:52Z,metergate,1.0.0,MeterGate Contributors <wu00112238@users.noreply.github.com>,"MIT License Copyright (c) 2026 MeterGate Contributors Permission is hereby granted, free of charge,…",414734,"MeterGate: Zero-Dependency, Zero-Telemetry Local AI Agent 3-Tier Firewall, Official-Rate Cost Ledger & Standard MCP Middleware (pipx / uvx ready)"
+2026-11-02T08:19:49Z,hongzhao,0.1.0rc1,hongzhao contributors,Apache-2.0,122246,"A file-based, human-gated memory ledger for AI coding agents"
+2026-11-02T08:20:41Z,tabmancer,0.1.0,Sinan Tüfekci,Apache-2.0 AND CC-BY-4.0,615904,"A terminal dashboard for coding-agent sessions (Claude Code, Codex, Antigravity): see what they are doing, run them as teams, call them back after a reboot"
+2026-11-02T08:21:10Z,webbridge-tools,1.0.0,F&S Bondtec Semiconductor GmbH,MIT,45199,"The Python code generator for the webbridge C++ framework (C++ registration + TypeScript bindings), as a pip/conda-installable package"
+2026-11-02T08:21:12Z,tba-concrete-claim-sd-hash,0.4.0.dev2,,,2549,
+2026-11-02T08:21:31Z,opspulse-sdk,0.1.0,,MIT,25061,OpsPulse Python SDK — send events from your backend services without ever breaking them
+2026-11-02T08:22:59Z,stltosolid,0.6.0,Chris Venter,PolyForm-Noncommercial-1.0.0,711056,"Convert STL/OBJ meshes into prismatic STEP solids via extrusion-structure recognition, with a faceted-BREP fallback"
+2026-11-02T08:23:54Z,tba-concrete-claim-security-events,0.4.0.dev2,,,2822,
+2026-11-02T08:23:56Z,waves-lawn-tools,1.2.0,"Waves Pest Control, LLC",MIT,48911,"Florida lawn-watering math (sprinkler runtime to inches per week, a weekly plan under local watering limits) and a client for the free Waves public API: watering plan, pest pressure forecast, yard pr…"
+2026-11-02T08:24:48Z,dockingbird,0.0.1,Zeusfyi,,2964,Dockingbird by Zeusfyi installs from Zeusfyi's licensed package index; this package prints how.
+2026-11-02T08:26:09Z,tba-concrete-claim-session-id,0.4.0.dev2,,,2951,
+2026-11-02T08:28:44Z,tba-concrete-claim-state-hash,0.4.0.dev2,,,2962,
+2026-11-02T08:31:01Z,tba-concrete-claim-subject,0.4.0.dev2,,,2555,
+2026-11-02T08:38:14Z,openwave-modeldiff,0.2.0,OpenWave India,MIT,99146,"Regression testing for local AI: compare model outputs across versions, configurations, and runtimes."
+2026-11-02T08:42:18Z,cavity-encoding-ml,0.1.0,"Hadyan Hafizh, Pintu Lohar",MIT,66584,Cavity encoding and leakage-safe validation for machine learning on multi-cavity injection molding data
+2026-11-02T08:43:49Z,browser-harness-hermes-compat,0.1.13.post1,,MIT,245009,Independent Hermes compatibility distribution of Browser Harness with Pillow 13; not an official Browser Use release.
+2026-11-02T08:44:50Z,rword-convert,0.1.0,,Apache-2.0,13039546,Headless docx to PDF conversion (PyO3 bindings over the rword kernel)
+2026-11-02T08:45:35Z,django-partial-dates,0.1.0,Sam Jennings,MIT,45954,"A Django model field for dates known to the year, the month or the day"
+2026-11-02T08:45:36Z,finishup,0.3.0,Shay Ben Shabtay,Apache-2.0,10086884,A local-first evidence ledger and review engine for agent work. FinishUP was previously called Yoetz.
+2026-11-02T08:51:40Z,codeterrain,0.3.0,Mitbolas GmbH,Apache-2.0,486781,"terrain: answers about your code in under a second. Local, LLM-free structure facts for coding agents; Python first."
+2026-11-02T08:52:33Z,codeterrain-terraform,0.2.0,Mitbolas GmbH,Apache-2.0,20186,"Terraform for codeterrain: resources, modules, providers and references of .tf files in terrain def and refs."
+2026-11-02T08:52:54Z,codeterrain-typescript,0.1.0,Mitbolas GmbH,Apache-2.0,25455,TypeScript and JavaScript for codeterrain: front-end HTTP calls read with tree-sitter.
+2026-11-02T08:53:03Z,osca-engine,1.0.0,Samir Baladi,MIT,1801498,"OSCA: Origin, Semantic, and Consequence Authority — A Multi-Tier Authorization Architecture for Autonomous AI Agents"
+2026-11-02T08:53:31Z,pyhttp-app,2.0.1,pyhttp Dev Team <dev@pyhttp.com>,# pyhttp Free License 1.1 Copyright (c) 2026 pyhttp Dev Team. All rights reserved. **In short** (th…,1257867,"A local, Postman-like HTTP client with a collection runner, scripts and an MCP server"
+2026-11-02T08:54:31Z,otter-agent,0.6.0,Zzz777-coder,MIT,621184,"Otter — 轻量本地通用 AI 助手:编码/文件/命令/网页/日常,OpenAI 兼容 + Anthropic 原生,双层记忆与 Skill"
+2026-11-02T08:57:47Z,burdenoff-hookmovies-sdk,2026.1102.1,"""Vignesh T.V"" <vignesh@algoshred.com>","Copyright (c) 2025 Burdenoff Consultancy Services Private Limited, Algoshred Technologies Private L…",35207,Official Python SDK for Hookmovies — thin shell over burdenoff-sdk-libs
+2026-11-02T08:58:03Z,craftsman-gate,4.1.0,Rafał Buczyński <buczynski.rafal2@gmail.com>,MIT,723034,Make AI coding agents prove they reviewed and tested their change
+2026-11-02T08:58:08Z,crawlerkeeper-sdk,0.2.1,CrawlerKeeper Team,MIT,29008,CrawlerKeeper 爬虫 SDK：日志上报、结果写入、任务参数解析、TLS 指纹请求、代理管理与并发线程池
+2026-11-02T08:58:59Z,tokenguard-ratelimit,1.0.0,Udesna Bhattarai,MIT,249255,"A token-aware, Redis-backed rate limiter for Django, built for LLM APIs"
+2026-11-02T09:02:37Z,auth-claim-audit,0.1.0,auth-claim-audit contributors,MIT,22739,Offline audit of documentation credential claims against Python evidence
+2026-11-02T09:02:46Z,security-claim-audit,0.1.0,security-claim-audit contributors,MIT,18172,Offline static auditing of documented execution-safety promises
+2026-11-02T09:02:55Z,determinism-claim-audit,0.1.0,,MIT,7823,Offline static audit of documented Python determinism claims
+2026-11-02T09:03:03Z,zero-config-claim-audit,0.1.0,zero-config-claim-audit contributors,MIT,23058,Offline audit of documented config requirements against Python source
+2026-11-02T09:04:25Z,hellhound-spider,14.2,Sree Danush S <lazzer@gmail.com>,GPL-3.0-or-later,261369,"Autonomous web crawler and recon engine for security testing — SPA + Non-SPA crawling, header analysis, subdomain enumeration, and intelligence classification"
+2026-11-02T09:08:51Z,anosys-sdk-anthropic,1.0.0,AnoSys <support@anosys.ai>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",35239,AnoSys SDK for Anthropic - Automatic instrumentation and logging for Anthropic (Claude) API calls
+2026-11-02T09:09:07Z,anosys-sdk-claude-agents,1.0.0,AnoSys <support@anosys.ai>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",44667,"AnoSys SDK for the Claude Agent SDK - Automatic tracing of Claude agents, tools and subagents"
+2026-11-02T09:09:28Z,opcua-nodeset-linker,0.1.1a0,Andreas Heine,Apache License 2.0,815853,Semantic dependency linker and tree shaker for OPC UA Information Models.
+2026-11-02T09:10:51Z,cypache,0.1.0,Source61,LicenseRef-Proprietary,4164698,"Secure, fast HTTP server for Python, built on fastepoll"
+2026-11-02T09:13:35Z,willcore,0.1.0,Tom Sapletta <tom@sapletta.com>,Apache-2.0,52554,"willcore — kontrakty SSOT ekosystemu willmux (zdarzenia, paragony, rejestr DSL)"
+2026-11-02T09:16:38Z,talos-sv,0.1.0,,Apache-2.0 WITH LLVM-exception,404378052,An ahead-of-time SystemVerilog simulator
+2026-11-02T09:16:55Z,shellmux,0.1.2,Tom Sapletta <tom@sapletta.com>,Apache-2.0,83073,shellmux — composition root powłoki dla ekosystemu willmux (SSOT: patrz docs/ARCHITECTURE.md)
