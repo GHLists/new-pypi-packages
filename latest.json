@@ -1,34 +1,34 @@
 {
   "list": {
-    "count": 56,
-    "from": "2026-11-02T06:19:23.362295Z",
-    "path": "data/new-packages-2026-11-02T07-19-11-347132Z.csv",
-    "to": "2026-11-02T07:19:11.347132Z"
+    "count": 53,
+    "from": "2026-11-02T07:19:11.347132Z",
+    "path": "data/new-packages-2026-11-02T08-18-13-596812Z.csv",
+    "to": "2026-11-02T08:18:13.596812Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-02T05:22:32Z",
       "package": "kbot-installer",
       "since": "2026-11-02T05:18:22.81552Z",
       "version": "2.0.5"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-02T05:03:48Z",
       "package": "uncomment-opencode",
       "since": "2026-11-02T04:19:29.752274Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-02T06:29:03Z",
       "package": "unicode-lossful-format",
       "since": "2026-11-02T06:19:23.362295Z",
       "version": "0.1.0"
     }
   ],
-  "serial": 43076632,
+  "serial": 43079016,
   "source_truncated": false,
-  "window": "2026-11-02T07:19:11.347132Z"
+  "window": "2026-11-02T08:18:13.596812Z"
 }

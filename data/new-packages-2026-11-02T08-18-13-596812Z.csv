@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T07:19:20Z,agentic-development-framework,0.1.0,Agentic Development Framework contributors,MIT,70902,A local-first framework for agentic software development workflows.
+2026-11-02T07:20:35Z,kadi.build,0.0.1,KADI,,2306,Python SDK for KADI (kadi.build). Placeholder; the first real release is coming soon.
+2026-11-02T07:21:07Z,tba-concrete-claim-cwt-id,0.4.0.dev2,,,2190,
+2026-11-02T07:27:01Z,tba-concrete-claim-locale,0.4.0.dev2,,,2881,
+2026-11-02T07:27:43Z,shadeform,0.1.0,Shadeform,MIT,193306,"Python SDK for the Shadeform API, a single API for deploying and managing cloud GPUs."
+2026-11-02T07:28:02Z,async-doctor,0.1.0,,MIT,79095404,Your agent blocks the event loop. This catches it.
+2026-11-02T07:28:28Z,millwork,0.1.0,,Apache-2.0,1155863,"A Python framework for data tools and AI applications: one prebuilt React bundle, driven from Python."
+2026-11-02T07:29:05Z,translate-gadget,0.1.261102,hyman <eleksbai@qq.com>,MIT,136712,一个基于 PySide6 的桌面翻译小工具：动态背景色、无边框悬浮窗、系统托盘与阿里云机器翻译
+2026-11-02T07:29:22Z,tba-concrete-claim-may-act,0.4.0.dev2,,,2563,
+2026-11-02T07:29:26Z,kadi-core,0.0.1,KADI,,2369,Reserved name. The KADI Python SDK is published as kadi.build.
+2026-11-02T07:31:19Z,tba-concrete-claim-middle-name,0.4.0.dev2,,,2957,
+2026-11-02T07:33:51Z,tba-concrete-claim-msisdn,0.4.0.dev2,,,2577,
+2026-11-02T07:35:14Z,ponte-l10n,0.1.0,,GPL-2.0-only OR GPL-3.0-only OR LicenseRef-KDE-Accepted-GPL,102207,Tooling for translating UI strings through a bridge language
+2026-11-02T07:37:03Z,synapse-cortex,1.0.2,Nafis Pradipta <halo@nafispradipta.id>,MIT,311035,"Biomimetic cognitive graph memory, spreading activation, and progressive context packing for autonomous AI agents."
+2026-11-02T07:38:30Z,tba-concrete-claim-name,0.4.0.dev2,,,2850,
+2026-11-02T07:39:17Z,linxira-bio-sdk,0.1.0,Linxira,AGPL-3.0-or-later,66239,Programmatic Python access to Linxira Bio capabilities
+2026-11-02T07:39:25Z,respepbind,0.0.1,"Arslan Siraj <arslan.qau11@gmail.com>, Sabir Ali <Sabirkhokhar110@gmail.com>",MIT,46624,ResPepBind: A deep learning predictor of peptide-protein binding interactions
+2026-11-02T07:40:21Z,mlclean,0.2.0,Krushil Dhankecha <dhankechakrushil@gmail.com>,MIT,54363,ML-aware data quality auditing and cleaning for pandas DataFrames
+2026-11-02T07:40:50Z,antigravity-project-memory,0.1.0,Antigravity Community Contributors,MIT,848814,Community Model Context Protocol (MCP) server providing local cross-conversation memory and algorithmic BM25 RAG for Antigravity workspaces.
+2026-11-02T07:41:27Z,tba-concrete-claim-nationalities,0.4.0.dev2,,,2695,
+2026-11-02T07:43:49Z,tba-concrete-claim-nickname,0.4.0.dev2,,,2906,
+2026-11-02T07:44:47Z,parsrag,0.2.0,Samane Nikookar,MIT,605693,"Build, evaluate, and ship Retrieval-Augmented Generation (RAG) for Persian text — offline-first, with a free Persian course."
+2026-11-02T07:46:04Z,tba-concrete-claim-nonce,0.4.0.dev2,,,2543,
+2026-11-02T07:48:12Z,tba-concrete-claim-not-before,0.4.0.dev2,,,2603,
+2026-11-02T07:48:50Z,streamwright-spark,0.1.0,Karthick Jaganathan <kjaganathan.sde@gmail.com>,Apache-2.0,193484,"Spark jobs for StreamWright (kind: SparkJob), attached as `sw spark ...`."
+2026-11-02T07:50:18Z,tba-concrete-claim-cwt-not-before,0.4.0.dev2,,,2300,
+2026-11-02T07:50:40Z,vodlint,0.2.0,VoDLint Contributors,MIT,56071,VOD-focused linter and health checks for HLS/m3u8 manifests and segments
+2026-11-02T07:51:02Z,anytext,9.0.0,Will McGugan,MIT,2366243,Modern Text User Interface framework
+2026-11-02T07:51:14Z,DefChord-Gunicorn,0.1.11,Heo Yongseon,,17488,The Modern Synchronous Python Web Application Framework
+2026-11-02T07:52:39Z,openviking-ms-agent-framework,0.1.0,,MIT,36509,OpenViking context provider for Microsoft Agent Framework
+2026-11-02T07:52:47Z,tba-concrete-claim-other-token-hashes,0.4.0.dev2,,,3245,Standalone WIMSE oth claim implementation.
+2026-11-02T07:55:19Z,tba-concrete-claim-phone-number,0.4.0.dev2,,,3012,
+2026-11-02T07:59:10Z,konklav-relying,1.3.0rc1,,MIT,3668650,"Decide Konklav authorization locally: token verification, cached entitlements and the change feed"
+2026-11-02T08:02:43Z,tba-concrete-claim-phone-number-verified,0.4.0.dev2,,,3185,
+2026-11-02T08:04:49Z,tba-concrete-claim-picture-uri,0.4.0.dev2,,,2941,
+2026-11-02T08:05:29Z,verovo,0.11.0,,MIT,553999,"Buyer-side AI service charge and delivery review, supported bill recounts and local agent diagnostics. Zero external dependencies."
+2026-11-02T08:06:11Z,sheet-music-reader,0.1.5,Luckolite,Apache-2.0,7579304,Experimental offline sheet-music recognition with permissively licensed weights and a standalone Java decoder
+2026-11-02T08:07:02Z,tba-concrete-claim-place-of-birth,0.4.0.dev2,,,2645,
+2026-11-02T08:07:39Z,openequine,0.0.1,Akanksha Sharma <contact@openequine.org>,Apache-2.0,10353,A comprehensive Python package for modern equine application development.
+2026-11-02T08:08:31Z,fmpquote,0.1.0,FMP数据源中文站技术团队,MIT,32053,FMP API 中文文档与Ultimate Key 免费使用指南（附开箱即用 SDK）— Financial Modeling Prep 美股财报/13F/行情国内直连 Python 客户端
+2026-11-02T08:08:40Z,sentiogate-python,1.2.2,SentioGate Team <dev@sentiogate.app>,Apache-2.0,27283,"Thin, zero-dependency Python client for SentioGate intelligent LLM router"
+2026-11-02T08:09:28Z,tba-concrete-claim-preferred-username,0.4.0.dev2,,,3108,
+2026-11-02T08:10:07Z,raims,0.1.3,Raims,MIT,265764,Official Python SDK for the Raims public API.
+2026-11-02T08:10:26Z,aegisnex-ai,0.1.1,,,25613,SDK for the AegisNex AI observability platform
+2026-11-02T08:10:54Z,schema-to-erd,0.1.1,Khalid Lawal <khalid619lawal@gmail.com>,,17025,Converts JSON schema into simple ERD diagram
+2026-11-02T08:11:36Z,score-reader,0.1.6,Luckolite,Apache-2.0,7579291,Experimental offline sheet-music recognition with permissively licensed weights and a standalone Java decoder
+2026-11-02T08:12:11Z,tba-concrete-claim-profile-uri,0.4.0.dev2,,,2943,
+2026-11-02T08:14:40Z,kalkulator-mcp-robby,0.1.0,,MIT,2348,A simple Python calculator package
+2026-11-02T08:14:41Z,tba-concrete-claim-salutation,0.4.0.dev2,,,2557,
+2026-11-02T08:15:36Z,rupf,0.1.0,RUP Platform,MIT,12315,RUPF — модуль проверки целостности проектов платформы RUP
+2026-11-02T08:16:46Z,linope,0.0.2,,,1249921,Linope kernel and terminal
+2026-11-02T08:17:16Z,tba-concrete-claim-scope,0.4.0.dev2,,,2578,
+2026-11-02T08:17:17Z,opcp,0.3.0,"Deepak Waghmare, Shaad Sufi",Apache-2.0,234470,"Open Process Control Plane: own your processes, context and authority; rent capabilities from any vendor"
