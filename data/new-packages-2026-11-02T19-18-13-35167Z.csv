@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T18:21:51Z,vault-utils,0.0.0,Blitzy,,1145,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-02T18:25:10Z,buttle,0.3.0,,BSD-3-Clause,1610905,Command-line utilities for DNA and protein sequence analysis. At your service.
+2026-11-02T18:25:38Z,indicium-standard,2.0.0,Louis-Félix Nothias <louis-felix.nothias@cnrs.fr>,MIT,122011,Shared claim/evidence standard (ECO/CiTO/SEPIO/PROV-O + Bucur SuperPattern)
+2026-11-02T18:27:49Z,langchain-fse,0.1.0,,MIT,12422,fse embeddings for langchain-core
+2026-11-02T18:27:51Z,llama-index-embeddings-fse,0.1.0,,MIT,14983,fse embeddings for llama-index-core
+2026-11-02T18:27:52Z,fse-haystack,0.1.0,,MIT,14953,fse embeddings for haystack-ai
+2026-11-02T18:28:31Z,mlextend,0.1.0,,MIT,33156,"Ready-to-copy source code of 10 machine learning practicals (EDA, regression, KNN, decision tree, K-Means, PCA, Apriori, Q-Learning)."
+2026-11-02T18:29:02Z,skill-brain,2.1.0,,"MIT License Copyright (c) 2026 Skill Brain Contributors Permission is hereby granted, free of charg…",886971,"Multi-agent engineering skill system for Claude Code, Codex CLI, Antigravity, Gemini CLI, and Cursor"
+2026-11-02T18:29:15Z,gpu4agents,0.6.0,Jambu.ai,MIT,774066,"GPU for Agents: your coding agent rents the GPU it needs, on its own. You pay only while it works."
+2026-11-02T18:30:16Z,lcsc2kicad,0.1.0,,MIT,37444,Importe des composants LCSC/EasyEDA dans la librairie KiCad du projet courant (surcouche d'easyeda2kicad).
+2026-11-02T18:30:55Z,prismal-server,0.2.0,Ernesto Crespo <ecrespo@gmail.com>,"MIT License Copyright (c) 2026 prismal-ai Permission is hereby granted, free of charge, to any pers…",116684,Reference host for the prismal agent engine — a thin FastAPI/ASGI process serving prismal over REST/SSE and inbound A2A.
+2026-11-02T18:32:02Z,justetf-mobile-client,0.1.0,wavepacket0,MIT,22708112,Native Python bindings for the Go justETF mobile API client
+2026-11-02T18:33:32Z,indicium-adapters,0.6.0,Louis-Felix Nothias <louis-felix.nothias@cnrs.fr>,"MIT License Copyright (c) 2026 Louis-Felix Nothias Permission is hereby granted, free of charge, to…",135748,Community-extensible domain adapters for the indicium knowledge standard
+2026-11-02T18:33:40Z,nomadicsoft-google-ads-mcp,0.1.0,"Dean Lukies <lukiesd@users.noreply.github.com>, Mattia Tommasone <Raibaz@users.noreply.github.com>,…",Apache-2.0,85961,"MCP Server for Google Ads, depends on Google Ads API."
+2026-11-02T18:34:20Z,pipediag,0.1.1,,MIT,435106,An explainable diagnostic framework for scikit-learn machine learning pipelines
+2026-11-02T18:34:58Z,team-photo-sorter,0.1.2,Andy Knosp,Apache-2.0,88837,Sort a team photographer's photos by player and publish them as a password-protected static site.
+2026-11-02T18:38:43Z,somestuff-k3shelperstuff,0.1.6,Henning Thieß <ht@xomox.cc>,,113280,"K3s/Kubernetes helpers: kubeconfig credential sync via SSH, user client certificates via the CSR API, Keel image-drift and version-pin drift checkers"
+2026-11-02T18:39:27Z,presidio-evidence,0.5.0,Presidio Security,MIT,282087,"Signed-evidence substrate for the presidio-hardened-* family: canonical JSON, Ed25519/HMAC evidence refs and fail-closed verification. Schemas and golden vectors are the contract. Independent of Micr…"
+2026-11-02T18:39:55Z,somestuff-corestuff,0.1.0,Henning Thieß <ht@xomox.cc>,,24522,"Shared settings loader for the somestuff packages: pydantic-settings over config.yaml with config.local.yaml overrides from the working directory, plus JSON/dict helpers"
+2026-11-02T18:40:24Z,somestuff-dhcpstuff,0.1.1,Henning Thieß <ht@xomox.cc>,,19502,"DHCP Discover sender and response analyzer, including Proxy DHCP / PXE boot server responses (stdlib only)"
+2026-11-02T18:41:46Z,provost-model,0.1.0,Martin J. Gallagher,Apache-2.0,170009894,"The tiny-LM layout labeller for provost --model: SmolLM2-135M fine-tuned on provost's labels, 18 layers, 8-bit, run with numpy"
+2026-11-02T18:44:55Z,amd-infera,0.3.3,,,14206086,
+2026-11-02T18:46:55Z,aegis-initiative-sdk,0.1.1,AEGIS Initiative <engineering@aegis-initiative.com>,Apache-2.0,27831,Python client SDK for the AEGIS Governance Platform
+2026-11-02T18:47:13Z,aobs-server,0.1.0a1,,Apache-2.0,437444,"aobs server: canonical event model, ingestion and query"
+2026-11-02T18:47:20Z,aobs,0.1.0a1,,Apache-2.0,265241,Vendor-neutral instrumentation SDK for AI agents (stdlib-only core)
+2026-11-02T18:47:43Z,sphinx-jinja-variants,2026.11.2,Adam Dangoor <adamdangoor@gmail.com>,MIT,154586,Render Sphinx sources under scoped Jinja contexts.
+2026-11-02T18:48:34Z,altocue,0.1.1,Stratos House,MIT,7529984,Edit raw footage into finished video from your coding agent.
+2026-11-02T18:49:07Z,disco-gdl,1.5.0,James Willson <jamessw156@gmail.com>,MIT,24651,Decomposition Into Single-COpy gene trees (DISCO) is a method for decomposing multi-copy gene-family trees while attempting to preserve orthologs and discard paralogs.
+2026-11-02T18:50:44Z,baseqdb,0.5.0,baSeq ApS <info@baseq.dk>,MIT,29632,"Your baSeq datasets, analyses and results from Python, with lamindb's names"
+2026-11-02T18:51:01Z,rcinel-translate,0.1.0,CodeIsNotEvil,MIT,16341,"Loads a translation set for a language and translates with translate(""UUIDv7"", ""English text""). No dependencies."
+2026-11-02T18:52:39Z,grobid-tei,0.1.0,grobid-tei contributors,MIT,755895,A standalone Python client and TEI parser for GROBID
+2026-11-02T18:53:46Z,gammaledger-mcp,0.1.0,,AGPL-3.0-or-later,116476,"MCP server for GammaLedger — privacy-first, local-first options trading journal"
+2026-11-02T18:54:05Z,nx-title-id,1.0.0,Ryan Parman <ryan@ryanparman.com>,MIT,13418,"Print the title ID of the Nintendo Switch game packages (.nsp, .nsz, .xci, .xcz) in a folder"
+2026-11-02T18:57:27Z,arrayprobe,0.1.0,Siddhant Gupta,BSD-3-Clause,5956291,Python ports of the UIOPS v3.5 and SODA-2 optical array probe processing chains
+2026-11-02T18:58:28Z,gams-modellib,54.6.1,,,17843280,
+2026-11-02T19:01:13Z,mojood-snipeit-mcp,0.1.0,,Apache-2.0,77859,"Mojood Connect demo: an MCP server for Snipe-IT (asset tracking), with confirm-before-change writes."
+2026-11-02T19:01:14Z,mojood-zammad-mcp,0.1.0,,Apache-2.0,84340,"Mojood Connect demo: an MCP server for Zammad (helpdesk), with confirm-before-change writes."
+2026-11-02T19:01:17Z,mojood-chatwoot-mcp,0.1.0,,Apache-2.0,79315,"Mojood Connect demo: an MCP server for Chatwoot (support inbox), with confirm-before-change writes."
+2026-11-02T19:02:21Z,arrayprobe-soda2-enhancements,0.1.0,Siddhant Gupta,BSD-3-Clause,153126,Opt-in corrections and extensions that consume arrayprobe_soda2's output -- never part of the faithful SODA-2 port itself
+2026-11-02T19:03:53Z,viva-discovery-engine,0.1.0,Vivarium Collective,MIT,3769220,A derive-first scientific-investigation discovery cycle engine for the Vivarium ecosystem.
+2026-11-02T19:05:58Z,mojood-glpi-mcp,0.1.0,,Apache-2.0,81701,"Mojood Connect demo: an MCP server for GLPI (IT service and asset management), with confirm-before-change writes."
+2026-11-02T19:05:59Z,mojood-documenso-mcp,0.1.0,,Apache-2.0,77579,"Mojood Connect demo: an MCP server for Documenso (e-signing), with confirm-before-change writes."
+2026-11-02T19:06:04Z,mojood-proxmox-mcp,0.1.0,,Apache-2.0,80343,"Mojood Connect demo: an MCP server for Proxmox VE (VMs, containers, storage, backups), with confirm-before-change actions."
+2026-11-02T19:10:58Z,arrekta,0.1.0,,MIT OR Apache-2.0,1369778,"Arrekta consensus core (arrekta_core) and full node (arrekta_node): multi-asset, post-quantum UTXO chain"
+2026-11-02T19:11:35Z,arrekta-sdk,0.1.0,,MIT OR Apache-2.0,144603,"Python SDK for Arrekta: sync and async clients, typed models and wallet helpers over the reference implementation"
+2026-11-02T19:12:52Z,arrayprobe-uiops-enhancements,0.1.0,Siddhant Gupta,BSD-3-Clause AND Apache-2.0,804489,"Opt-in, real-new-science extensions that consume arrayprobe's output -- never part of the faithful port itself"
+2026-11-02T19:15:00Z,simple-utils-quickstart-demo,0.1.0,Your Name <your.email@example.com>,,4014,A unique Python utility library demo

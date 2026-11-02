@@ -8,47 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 18:22 UTC
+## Latest list — 2026-11-02 19:18 UTC
 
-New packages created between 2026-11-02 17:19 UTC and 2026-11-02 18:22 UTC.
+New packages created between 2026-11-02 18:22 UTC and 2026-11-02 19:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T18-22-00-057909Z.csv)
+[Full CSV](data/new-packages-2026-11-02T19-18-13-35167Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 16:01:49 | [auth-ai](https://pypi.org/project/auth-ai/) | 0.1.0.dev2026110218… | CIRCLE | 108.7 kB | Python SDK for applications relying on a CIRCLE auth-service identity provider:… |
-| 2026-11-02 17:09:35 | [sign-and-verify](https://pypi.org/project/sign-and-verify/) | 2.0.0 | GLEIF | 68.3 kB | Sign-and-Verify: SAVSigner (KERI AID, FAW/Dossier issuance, signature validatio… |
-| 2026-11-02 17:21:49 | [ncp-runtime](https://pypi.org/project/ncp-runtime/) | 0.1.0 | Fabio Marcello Salvadori | 13.3 MB | Python SDK for Neural Computation Protocol (NCP). Execute deterministic graphs… |
-| 2026-11-02 17:26:30 | [materialsatlas-datasets](https://pypi.org/project/materialsatlas-datasets/) | 0.1.0 | MaterialsAtlas | 17.6 kB | Python access to MaterialsAtlas property datasets, CIF exports, and OPTIMADE st… |
-| 2026-11-02 17:27:04 | [crawlora-bo3](https://pypi.org/project/crawlora-bo3/) | 0.1.0 | Crawlora | 67.0 kB | Crawlora BO3.gg API client with 28 endpoints for Counter-Strike and Valorant ma… |
-| 2026-11-02 17:28:18 | [pyzerocopy](https://pypi.org/project/pyzerocopy/) | 0.1.0 | Yoav Haimov <haimovyoav.work@… | 23.6 kB | Zero-copy structured buffers for Python. |
-| 2026-11-02 17:29:06 | [Legacy-TL-New-Fork](https://pypi.org/project/Legacy-TL-New-Fork/) | 1.8.3 | xdesai96 | 1.6 MB | Full-featured Telegram client library for Python 3 |
-| 2026-11-02 17:29:58 | [langchain-stophy](https://pypi.org/project/langchain-stophy/) | 0.1.0 | Stophy | 164.4 kB | Give your agents the live web. Stophy tools for LangChain: search the web, read… |
-| 2026-11-02 17:31:02 | [foundry-agent-buyer](https://pypi.org/project/foundry-agent-buyer/) | 1.0.0 | Foundry Stack | 12.1 kB | Zero-config Python client for autonomous AI agents to buy digital goods via HTT… |
-| 2026-11-02 17:33:27 | [songscan](https://pypi.org/project/songscan/) | 0.1.0 | Jared McKnight | 19.8 kB | Read songs out of PDFs: chord charts as ChordPro, sheet music as MusicXML |
-| 2026-11-02 17:33:51 | [astera-tools](https://pypi.org/project/astera-tools/) | 0.2.0 | explorearafat | 17.1 kB | Astera Tools — Python MCP utilities: web search, smart reading, content extract… |
-| 2026-11-02 17:34:27 | [rostainer-archive](https://pypi.org/project/rostainer-archive/) | 0.0.1 |  | 12.3 MB | rostainer plugin: rotate ROS logs and bags into archives, and fetch them from r… |
-| 2026-11-02 17:35:22 | [langchain-sealkeeper](https://pypi.org/project/langchain-sealkeeper/) | 0.1.0 | The SealKeeper Authors | 22.3 kB | LangChain tools and gates that check a SealKeeper SEAL before an agent calls an… |
-| 2026-11-02 17:37:10 | [treecer](https://pypi.org/project/treecer/) | 0.1.2 |  | 97.4 kB | Local discussion trees for AI-assisted conversations |
-| 2026-11-02 17:37:36 | [bbfmodels](https://pypi.org/project/bbfmodels/) | 0.1.0 | ISPX LIMITED | 122.1 kB | Typed models and schema tooling for Broadband Forum data models (TR-181, TR-098… |
-| 2026-11-02 17:39:04 | [iotlabkit](https://pypi.org/project/iotlabkit/) | 1.0.0 | IoT Lab Contributors | 289.7 kB | A Beginner-Friendly IoT Lab Code Generator for MSc/MCA Practicals (Programs 5-1… |
-| 2026-11-02 17:39:06 | [pyreact-forge](https://pypi.org/project/pyreact-forge/) | 0.1.0a1 | PyReact Forge contributors | 607.9 kB | React for Python: build browser user interfaces with Python components, hooks a… |
-| 2026-11-02 17:45:45 | [MCS-HACKS-ATIF](https://pypi.org/project/MCS-HACKS-ATIF/) | 0.1 | Madmax | 7.0 kB | A library containing 5 telecommunication and signal models |
-| 2026-11-02 17:48:17 | [l11-l10n](https://pypi.org/project/l11-l10n/) | 0.1.0 |  | 109.6 kB | Command-line tool for localizing free software. |
-| 2026-11-02 17:49:00 | [faststream-gcp-pubsub](https://pypi.org/project/faststream-gcp-pubsub/) | 0.1.0 |  | 96.0 kB | Google Cloud Pub/Sub broker for FastStream |
-| 2026-11-02 17:54:06 | [sphinx-java](https://pypi.org/project/sphinx-java/) | 1.0.0 | Chris Thunes | 56.4 kB | Java domain for Sphinx |
-| 2026-11-02 17:56:52 | [chronicle-context](https://pypi.org/project/chronicle-context/) | 0.2.0 | Aniket Dey | 373.1 kB | Record your screen and system events for a set time, build a knowledge graph, a… |
-| 2026-11-02 17:57:51 | [tinydistill](https://pypi.org/project/tinydistill/) | 0.2.0 | Andreas-Hum | 62.9 kB | Distil an LLM classification prompt into a small, fast model that runs on a CPU. |
-| 2026-11-02 18:00:51 | [javacs](https://pypi.org/project/javacs/) | 2.0.1 | andhrew | 18.3 kB | Prints Java socket/RMI networking practical programs on demand |
-| 2026-11-02 18:01:05 | [mcp-data-platform-toolkit](https://pypi.org/project/mcp-data-platform-toolkit/) | 1.5.0 | Matteo Rossi | 581.8 kB | MCP server for Power BI projects (PBIP, TMDL, PBIR): read, analyze and safely e… |
-| 2026-11-02 18:01:15 | [MCS-HACKS-AT21](https://pypi.org/project/MCS-HACKS-AT21/) | 0.2 | Mohd Atif Siddique | 7.1 kB | A library containing 5 telecommunication and signal models |
-| 2026-11-02 18:05:12 | [userlens](https://pypi.org/project/userlens/) | 0.1.0 | Bharadwaj Pendyala | 63.0 kB | Check that a CLI or web UI works the way users use it, then that it is good to… |
-| 2026-11-02 18:07:50 | [modi-does-bct](https://pypi.org/project/modi-does-bct/) | 0.1.0 |  | 174.3 kB | BCT Practical Toolkit |
-| 2026-11-02 18:11:50 | [talkpix](https://pypi.org/project/talkpix/) | 0.1.0 | TalkPix <support@talkpix.ai> | 14.1 kB | Official Python client for the TalkPix API: turn a photo and a script or audio… |
-| 2026-11-02 18:14:40 | [orvelt-business](https://pypi.org/project/orvelt-business/) | 0.1.0 | Orvelt | 158.8 kB | Python SDK for the Orvelt Business REST API. |
-| 2026-11-02 18:15:49 | [langchain-siteshot](https://pypi.org/project/langchain-siteshot/) | 0.1.0 | Site-Shot <support@site-shot.… | 23.7 kB | LangChain tool for the Site-Shot screenshot API: website screenshots from a rea… |
-| 2026-11-02 18:17:54 | [retrack-ai](https://pypi.org/project/retrack-ai/) | 0.1.0 | Gokulakrishnan Jawahar | 36.4 kB | Retrack builds experience for AI agents: capture, verify, learn and recall for… |
-| 2026-11-02 18:18:42 | [gnomancer](https://pypi.org/project/gnomancer/) | 0.3.1 |  | 138.7 kB | Local, private deep dive into a consumer raw DNA file (AncestryDNA, 23andMe, My… |
-| 2026-11-02 18:18:42 | [scorm-dispatch-client](https://pypi.org/project/scorm-dispatch-client/) | 0.1.0 | Daniel Alfocea | 21.9 kB | Async Python client for the scorm-dispatch API |
-| 2026-11-02 18:18:57 | [db-common-model](https://pypi.org/project/db-common-model/) | 0.0.0 | Blitzy | 1.2 kB | Reserved name for an internal Blitzy package. Contains no code. |
-| 2026-11-02 18:20:48 | [deployment-utils-test](https://pypi.org/project/deployment-utils-test/) | 0.0.0 | Blitzy | 1.2 kB | Reserved name for an internal Blitzy package. Contains no code. |
+| 2026-11-02 18:21:51 | [vault-utils](https://pypi.org/project/vault-utils/) | 0.0.0 | Blitzy | 1.1 kB | Reserved name for an internal Blitzy package. Contains no code. |
+| 2026-11-02 18:25:10 | [buttle](https://pypi.org/project/buttle/) | 0.3.0 |  | 1.6 MB | Command-line utilities for DNA and protein sequence analysis. At your service. |
+| 2026-11-02 18:25:38 | [indicium-standard](https://pypi.org/project/indicium-standard/) | 2.0.0 | Louis-Félix Nothias <louis-fe… | 122.0 kB | Shared claim/evidence standard (ECO/CiTO/SEPIO/PROV-O + Bucur SuperPattern) |
+| 2026-11-02 18:27:49 | [langchain-fse](https://pypi.org/project/langchain-fse/) | 0.1.0 |  | 12.4 kB | fse embeddings for langchain-core |
+| 2026-11-02 18:27:51 | [llama-index-embeddings-fse](https://pypi.org/project/llama-index-embeddings-fse/) | 0.1.0 |  | 15.0 kB | fse embeddings for llama-index-core |
+| 2026-11-02 18:27:52 | [fse-haystack](https://pypi.org/project/fse-haystack/) | 0.1.0 |  | 15.0 kB | fse embeddings for haystack-ai |
+| 2026-11-02 18:28:31 | [mlextend](https://pypi.org/project/mlextend/) | 0.1.0 |  | 33.2 kB | Ready-to-copy source code of 10 machine learning practicals (EDA, regression, K… |
+| 2026-11-02 18:29:02 | [skill-brain](https://pypi.org/project/skill-brain/) | 2.1.0 |  | 887.0 kB | Multi-agent engineering skill system for Claude Code, Codex CLI, Antigravity, G… |
+| 2026-11-02 18:29:15 | [gpu4agents](https://pypi.org/project/gpu4agents/) | 0.6.0 | Jambu.ai | 774.1 kB | GPU for Agents: your coding agent rents the GPU it needs, on its own. You pay o… |
+| 2026-11-02 18:30:16 | [lcsc2kicad](https://pypi.org/project/lcsc2kicad/) | 0.1.0 |  | 37.4 kB | Importe des composants LCSC/EasyEDA dans la librairie KiCad du projet courant (… |
+| 2026-11-02 18:30:55 | [prismal-server](https://pypi.org/project/prismal-server/) | 0.2.0 | Ernesto Crespo <ecrespo@gmail… | 116.7 kB | Reference host for the prismal agent engine — a thin FastAPI/ASGI process servi… |
+| 2026-11-02 18:32:02 | [justetf-mobile-client](https://pypi.org/project/justetf-mobile-client/) | 0.1.0 | wavepacket0 | 22.7 MB | Native Python bindings for the Go justETF mobile API client |
+| 2026-11-02 18:33:32 | [indicium-adapters](https://pypi.org/project/indicium-adapters/) | 0.6.0 | Louis-Felix Nothias <louis-fe… | 135.7 kB | Community-extensible domain adapters for the indicium knowledge standard |
+| 2026-11-02 18:33:40 | [nomadicsoft-google-ads-mcp](https://pypi.org/project/nomadicsoft-google-ads-mcp/) | 0.1.0 | Dean Lukies <lukiesd@users.no… | 86.0 kB | MCP Server for Google Ads, depends on Google Ads API. |
+| 2026-11-02 18:34:20 | [pipediag](https://pypi.org/project/pipediag/) | 0.1.1 |  | 435.1 kB | An explainable diagnostic framework for scikit-learn machine learning pipelines |
+| 2026-11-02 18:34:58 | [team-photo-sorter](https://pypi.org/project/team-photo-sorter/) | 0.1.2 | Andy Knosp | 88.8 kB | Sort a team photographer's photos by player and publish them as a password-prot… |
+| 2026-11-02 18:38:43 | [somestuff-k3shelperstuff](https://pypi.org/project/somestuff-k3shelperstuff/) | 0.1.6 | Henning Thieß <ht@xomox.cc> | 113.3 kB | K3s/Kubernetes helpers: kubeconfig credential sync via SSH, user client certifi… |
+| 2026-11-02 18:39:27 | [presidio-evidence](https://pypi.org/project/presidio-evidence/) | 0.5.0 | Presidio Security | 282.1 kB | Signed-evidence substrate for the presidio-hardened-* family: canonical JSON, E… |
+| 2026-11-02 18:39:55 | [somestuff-corestuff](https://pypi.org/project/somestuff-corestuff/) | 0.1.0 | Henning Thieß <ht@xomox.cc> | 24.5 kB | Shared settings loader for the somestuff packages: pydantic-settings over confi… |
+| 2026-11-02 18:40:24 | [somestuff-dhcpstuff](https://pypi.org/project/somestuff-dhcpstuff/) | 0.1.1 | Henning Thieß <ht@xomox.cc> | 19.5 kB | DHCP Discover sender and response analyzer, including Proxy DHCP / PXE boot ser… |
+| 2026-11-02 18:41:46 | [provost-model](https://pypi.org/project/provost-model/) | 0.1.0 | Martin J. Gallagher | 170.0 MB | The tiny-LM layout labeller for provost --model: SmolLM2-135M fine-tuned on pro… |
+| 2026-11-02 18:44:55 | [amd-infera](https://pypi.org/project/amd-infera/) | 0.3.3 |  | 14.2 MB |  |
+| 2026-11-02 18:46:55 | [aegis-initiative-sdk](https://pypi.org/project/aegis-initiative-sdk/) | 0.1.1 | AEGIS Initiative <engineering… | 27.8 kB | Python client SDK for the AEGIS Governance Platform |
+| 2026-11-02 18:47:13 | [aobs-server](https://pypi.org/project/aobs-server/) | 0.1.0a1 |  | 437.4 kB | aobs server: canonical event model, ingestion and query |
+| 2026-11-02 18:47:20 | [aobs](https://pypi.org/project/aobs/) | 0.1.0a1 |  | 265.2 kB | Vendor-neutral instrumentation SDK for AI agents (stdlib-only core) |
+| 2026-11-02 18:47:43 | [sphinx-jinja-variants](https://pypi.org/project/sphinx-jinja-variants/) | 2026.11.2 | Adam Dangoor <adamdangoor@gma… | 154.6 kB | Render Sphinx sources under scoped Jinja contexts. |
+| 2026-11-02 18:48:34 | [altocue](https://pypi.org/project/altocue/) | 0.1.1 | Stratos House | 7.5 MB | Edit raw footage into finished video from your coding agent. |
+| 2026-11-02 18:49:07 | [disco-gdl](https://pypi.org/project/disco-gdl/) | 1.5.0 | James Willson <jamessw156@gma… | 24.7 kB | Decomposition Into Single-COpy gene trees (DISCO) is a method for decomposing m… |
+| 2026-11-02 18:50:44 | [baseqdb](https://pypi.org/project/baseqdb/) | 0.5.0 | baSeq ApS <info@baseq.dk> | 29.6 kB | Your baSeq datasets, analyses and results from Python, with lamindb's names |
+| 2026-11-02 18:51:01 | [rcinel-translate](https://pypi.org/project/rcinel-translate/) | 0.1.0 | CodeIsNotEvil | 16.3 kB | Loads a translation set for a language and translates with translate("UUIDv7",… |
+| 2026-11-02 18:52:39 | [grobid-tei](https://pypi.org/project/grobid-tei/) | 0.1.0 | grobid-tei contributors | 755.9 kB | A standalone Python client and TEI parser for GROBID |
+| 2026-11-02 18:53:46 | [gammaledger-mcp](https://pypi.org/project/gammaledger-mcp/) | 0.1.0 |  | 116.5 kB | MCP server for GammaLedger — privacy-first, local-first options trading journal |
+| 2026-11-02 18:54:05 | [nx-title-id](https://pypi.org/project/nx-title-id/) | 1.0.0 | Ryan Parman <ryan@ryanparman.… | 13.4 kB | Print the title ID of the Nintendo Switch game packages (.nsp, .nsz, .xci, .xcz… |
+| 2026-11-02 18:57:27 | [arrayprobe](https://pypi.org/project/arrayprobe/) | 0.1.0 | Siddhant Gupta | 6.0 MB | Python ports of the UIOPS v3.5 and SODA-2 optical array probe processing chains |
+| 2026-11-02 18:58:28 | [gams-modellib](https://pypi.org/project/gams-modellib/) | 54.6.1 |  | 17.8 MB |  |
+| 2026-11-02 19:01:13 | [mojood-snipeit-mcp](https://pypi.org/project/mojood-snipeit-mcp/) | 0.1.0 |  | 77.9 kB | Mojood Connect demo: an MCP server for Snipe-IT (asset tracking), with confirm-… |
+| 2026-11-02 19:01:14 | [mojood-zammad-mcp](https://pypi.org/project/mojood-zammad-mcp/) | 0.1.0 |  | 84.3 kB | Mojood Connect demo: an MCP server for Zammad (helpdesk), with confirm-before-c… |
+| 2026-11-02 19:01:17 | [mojood-chatwoot-mcp](https://pypi.org/project/mojood-chatwoot-mcp/) | 0.1.0 |  | 79.3 kB | Mojood Connect demo: an MCP server for Chatwoot (support inbox), with confirm-b… |
+| 2026-11-02 19:02:21 | [arrayprobe-soda2-enhancements](https://pypi.org/project/arrayprobe-soda2-enhancements/) | 0.1.0 | Siddhant Gupta | 153.1 kB | Opt-in corrections and extensions that consume arrayprobe_soda2's output -- nev… |
+| 2026-11-02 19:03:53 | [viva-discovery-engine](https://pypi.org/project/viva-discovery-engine/) | 0.1.0 | Vivarium Collective | 3.8 MB | A derive-first scientific-investigation discovery cycle engine for the Vivarium… |
+| 2026-11-02 19:05:58 | [mojood-glpi-mcp](https://pypi.org/project/mojood-glpi-mcp/) | 0.1.0 |  | 81.7 kB | Mojood Connect demo: an MCP server for GLPI (IT service and asset management),… |
+| 2026-11-02 19:05:59 | [mojood-documenso-mcp](https://pypi.org/project/mojood-documenso-mcp/) | 0.1.0 |  | 77.6 kB | Mojood Connect demo: an MCP server for Documenso (e-signing), with confirm-befo… |
+| 2026-11-02 19:06:04 | [mojood-proxmox-mcp](https://pypi.org/project/mojood-proxmox-mcp/) | 0.1.0 |  | 80.3 kB | Mojood Connect demo: an MCP server for Proxmox VE (VMs, containers, storage, ba… |
+| 2026-11-02 19:10:58 | [arrekta](https://pypi.org/project/arrekta/) | 0.1.0 |  | 1.4 MB | Arrekta consensus core (arrekta_core) and full node (arrekta_node): multi-asset… |
+| 2026-11-02 19:11:35 | [arrekta-sdk](https://pypi.org/project/arrekta-sdk/) | 0.1.0 |  | 144.6 kB | Python SDK for Arrekta: sync and async clients, typed models and wallet helpers… |
+| 2026-11-02 19:12:52 | [arrayprobe-uiops-enhancements](https://pypi.org/project/arrayprobe-uiops-enhancements/) | 0.1.0 | Siddhant Gupta | 804.5 kB | Opt-in, real-new-science extensions that consume arrayprobe's output -- never p… |
+| 2026-11-02 19:15:00 | [simple-utils-quickstart-demo](https://pypi.org/project/simple-utils-quickstart-demo/) | 0.1.0 | Your Name <your.email@example… | 4.0 kB | A unique Python utility library demo |
