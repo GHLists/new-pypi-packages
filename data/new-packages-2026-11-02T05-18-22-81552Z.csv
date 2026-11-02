@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T04:23:02Z,rotobot-natron,0.1.0,Sam Hodge <sam.hodge@tokgan.com>,"MIT License Copyright (c) 2026 Sam Hodge Permission is hereby granted, free of charge, to any perso…",60688,"Edit Rotobot-Next lozenge_bezier_anim JSON in Natron as native Roto shapes, and export the edits back to the same JSON."
+2026-11-02T04:28:44Z,tftokenizer,0.1.0,,MIT,1407923,Tokenize the genome into bins carrying per-motif transcription-factor occupancy
+2026-11-02T04:39:30Z,brewer-nash-dispatcher,0.1.4,Rexllnia <328626536@qq.com>,MIT,23868,Brewer-Nash session dispatcher + OpenAI compatible streaming API
+2026-11-02T04:40:00Z,teppi-client,0.1.0,,MIT,134156,"Check an x402 or MPP seller against the Teppi record before an agent signs a payment, as a pre-sign policy for Amazon Bedrock AgentCore payments or a plain function"
+2026-11-02T04:43:50Z,imlo-lint,0.1.0,imlo-lint contributors,MIT,194261,Find and fix old-alphabet (1995) Uzbek Latin text and migrate it to the 2026 Latin alphabet.
+2026-11-02T04:48:22Z,saturnus-llm,0.1.0,,,72459,Lightweight LLM connectivity and protocol compatibility tools.
+2026-11-02T04:49:37Z,cad-server,0.10.0,earthtojake,MIT,8646153,"The CAD server for text-to-cad: the device's daemon that builds, keeps and serves CAD documents, the CAD Viewer, the CAD app's MCP endpoint, and the command that runs and installs them."
+2026-11-02T04:49:48Z,cad-mcp,0.10.0,earthtojake,MIT,52973,"The stdio transport an agent app starts for text-to-cad's CAD app: MCP carried to the device's CAD server, with the standard library alone."
+2026-11-02T04:49:53Z,nevarn-sdk,0.1.0,Binaries Fort AB,Apache-2.0,48843,"Thin client for the Nevarn platform API: a bot's intents, executions under Decionis policy, bounds, receipts and halt."
+2026-11-02T04:52:07Z,dev-guru,0.1.1,Neo Pragnya,Apache-2.0,105277,"Dev Guru: understand, improve, verify and learn from your software. A local-first developer product on the Ananke Plexus harness: Python SDK and CLI first, offline HTML reports, later a local web UI."
+2026-11-02T04:53:49Z,redis-airbyte-connector,0.1.1,,Apache-2.0,44344902,Airbyte source and destination for Redis through Apache Arrow ADBC
+2026-11-02T04:55:02Z,pypi-tracker,0.1.0,,MIT,38549,Permanently preserve PyPI download history and export it as static JSON reports.
+2026-11-02T04:55:17Z,nanofastq,0.0.1,,,1714469,"Tiny, dependency-free FASTQ reader that exposes the Arrow PyCapsule stream interface."
+2026-11-02T04:55:24Z,cafe-cellxgene,0.0.1,,,3531177,Non-invasive CAFE launcher for cellxgene
+2026-11-02T04:58:24Z,sbp4ai-agents,0.5.7,SBP4AI,MIT,169704,SBP (Session Bridge Protocol) device agent: a local panel for tmux + CLI agents (claude/codex/dsh/hermes/openclaw) plus the outbound bridge that reports them to an sbp-dispatcher. E2EE keys are gener…
+2026-11-02T04:58:32Z,ai-model-explorer,0.1.0,Sattaya Singkul <joeysattaya@gmail.com>,MIT,1239767,"See any Hugging Face model's architecture from its safetensors header, without downloading weights."
+2026-11-02T05:02:51Z,bisos.vscodeClaude,0.1,Mohsen Banan,AGPL,62791,bisos.vscodeClaude: Command-Line Interfaces to VS Code and Its Claude Extension
+2026-11-02T05:06:56Z,bisos.kafka,0.1,Mohsen Banan,AGPL,108488,bisos.kafka: Apache Kafka and Kafbat UI via BISOS Capability Bundles
+2026-11-02T05:08:51Z,cognisn-warden,0.1.0b8,Cognisn Pty Ltd,Apache-2.0,572177,"Identity and audit for Python web applications: users, sign-in, single sign-on, roles, API keys and a tamper-evident audit trail."
+2026-11-02T05:09:21Z,bisos.grafana,0.1,Mohsen Banan,AGPL,49485,bisos.grafana: Grafana via BISOS Capability Bundles
+2026-11-02T05:10:37Z,maily-client,0.4.0,,MIT,49879,Standalone single-file async client for a self-hosted maily server
+2026-11-02T05:10:42Z,maily-server,0.4.0,,,717746,Local multi-provider mail API
+2026-11-02T05:11:33Z,bisos.prometheus,0.1,Mohsen Banan,AGPL,48226,bisos.prometheus: Prometheus and node_exporter via BISOS Capability Bundles

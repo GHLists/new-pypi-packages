@@ -1,12 +1,20 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-11-02T03:18:13.902223Z",
-    "path": "data/new-packages-2026-11-02T04-19-29-752274Z.csv",
-    "to": "2026-11-02T04:19:29.752274Z"
+    "count": 23,
+    "from": "2026-11-02T04:19:29.752274Z",
+    "path": "data/new-packages-2026-11-02T05-18-22-81552Z.csv",
+    "to": "2026-11-02T05:18:22.81552Z"
   },
-  "pending": [],
-  "serial": 43072359,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-02T05:03:48Z",
+      "package": "uncomment-opencode",
+      "since": "2026-11-02T04:19:29.752274Z",
+      "version": null
+    }
+  ],
+  "serial": 43073620,
   "source_truncated": false,
-  "window": "2026-11-02T04:19:29.752274Z"
+  "window": "2026-11-02T05:18:22.81552Z"
 }
