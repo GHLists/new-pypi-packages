@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T03:19:01Z,pyminleon,0.1.0,Anthony Mattas <anthony@mattas.net>,Apache-2.0,194711,Asyncio control of Minleon NDB-Pro LED controllers' built-in effects over HTTP
+2026-11-02T03:20:05Z,pydantic-env-manager,0.1.0,Yashu Ranparia,MIT,24408,Manage .env and .env.example for FastAPI/Pydantic apps: declare variables once in your Settings class; files stay complete and agents can check them without reading secrets.
+2026-11-02T03:22:03Z,vala,0.1.0,Joao Lopes,MIT,2524,Project tooling (early placeholder release)
+2026-11-02T03:23:23Z,beamio,0.1.1,Phillip Duncan-Gelder <phillip.duncan-gelder@southerndhb.govt.nz>,GPL-2.0-only,63324,"Read, write, and convert radiotherapy beam measurements"
+2026-11-02T03:24:00Z,step2torque,0.1.0,,MIT,7073831,"STEP assemblies to nonlinear 3D motor torque, from Python."
+2026-11-02T03:31:10Z,leann-backend-flashlib,0.3.9,,,5203,GPU-accelerated FlashLib (IVFFlat on Triton/CuteDSL) backend for LEANN.
+2026-11-02T03:31:12Z,leann-backend-flashlib-ivf,0.3.9,,,6400,GPU-accelerated FlashLib IVF-Flat (Triton/CuteDSL) approximate-NN backend for LEANN.
+2026-11-02T03:32:06Z,xingmind,8.10.5,黄迪尧 / 煋旺智能,AGPL-3.0-only,596528,给 AI Agent 用的长期记忆层：改口可追溯、旧值不删只封口、多 Agent 共库不串味。纯 Python 零依赖。
+2026-11-02T03:36:24Z,dwy-wechatpay-notify,0.1.0,,"MIT License Copyright (c) 2026 DWY Permission is hereby granted, free of charge, to any person obta…",12671,微信支付官方回调验证与安全通知事件适配
+2026-11-02T03:37:15Z,monium-sdk,1.0.1,ivan13821 <safarovi670@gmail.com>,MIT,32022,Описание вашей утилиты
+2026-11-02T03:37:48Z,python-cnf,0.0.1,Gustavo Niemeyer,Apache-2.0,61002,Standalone conformant cnf-to-json translator and conformance test harness
+2026-11-02T03:39:02Z,nonebot-plugin-sticker-collector,0.1.0,TonyLiangP2010405,MIT,29216,自动收集群聊/私聊中的表情包，按来源归档到本地文件夹并按内容去重
+2026-11-02T03:40:36Z,agentqit,0.1.0,,MIT,506893,Application testing tools for AI agents
+2026-11-02T03:43:02Z,a4p,0.1.0,Agent Protocol Contributors,Apache-2.0,215502,A lightweight Python SDK for A4P authorization mandates and tokens.
+2026-11-02T03:43:25Z,gnbuild,0.1.0,,MIT,250037,GN and Ninja build entry with native CMake package integration
+2026-11-02T03:43:36Z,seizou,0.0.1,Atsuro Kishii,Apache-2.0,2579,Name reservation for seizou (Built with Claude: Japan 2026). 町工場や中小の製造業が、1 つの命令で自社専用のシステムを持つための Django の部品と Claude Code のプラグイン。本物の版はハッカソンの提出 (2026-11-08) と同時に出す。
+2026-11-02T03:47:06Z,tokenjuice-integrations,0.10.0,Vincent Koc,MIT,12976,Local tool-result compaction for LangChain and FastMCP
+2026-11-02T03:47:58Z,lamia-agent,1.8.0,Lamia,Apache-2.0,21885520,Open-source AI Hackers for your apps
+2026-11-02T03:48:55Z,answergate,0.2.0,M S Gulshan <gulshanms2003@gmail.com>,MIT,257599,Regression tests for AI assistants: fail the pull request when answers get worse.
+2026-11-02T03:49:25Z,miniansd,0.2.0,MINIANSD Contributors,MIT,481814,Original algorithm Python scripts and machine-learning Jupyter notebooks
+2026-11-02T03:56:22Z,saytoken-agent-sdk,0.2.0,Saytoken,MIT,18084,SDK Python para conectar aplicaciones al Canal API de agentes SayToken
+2026-11-02T04:01:30Z,pytest-hexaqueue,0.6.0,Richard West,Apache-2.0,38511,"pytest-hexaqueue - Distributed Test Slicing, Remote Execution, and Multi-CSP Free-Tier Runner Plugin"
+2026-11-02T04:03:09Z,openai-agents-videogen,2.5.3,,MIT,25641,"Official OpenAI Agents SDK tools for the VideoGen API. Generate videos, images, voiceovers, sound effects, music, and avatars from any OpenAI Agents SDK agent."
+2026-11-02T04:04:46Z,libera-core,0.7,,AGPL-3.0-only,134968694,"Libera Suite's document converter, built from Euro-Office sources"
+2026-11-02T04:05:09Z,libera-web,0.7,,AGPL-3.0-only,54781918,"Libera Suite's editors, fonts and dictionaries, built from Euro-Office sources"
+2026-11-02T04:06:55Z,serphubapi-mcp,0.1.0,,,82669,MCP server for SerpHubAPI: web search and page fetch for AI agents
+2026-11-02T04:13:34Z,tts-lnx-helper,0.3.0,,MPL-2.0,38115,Lokale TTS-helper voor de TTS LNX Browser Firefox-extensie (Edge-proxy + Piper)
+2026-11-02T04:13:52Z,django-llm-cache,0.1.0,Hafiz Muhammed P H,,28642,"Production-grade, drop-in caching utility for LLM API prompts and responses in Django, cutting token costs and latency."
+2026-11-02T04:15:58Z,nx-backbone,0.3.0,"""Brian C. Keegan"" <brian.keegan@colorado.edu>",BSD-3-Clause,990959,Backbone extraction algorithms for complex networks
+2026-11-02T04:17:04Z,signlab-asl,0.5.0,Veerendra Kosuri,MIT,83399,Developer toolkit and CLI for experimental isolated ASL word recognition
+2026-11-02T04:18:24Z,abstractavatar,0.1.0,Laurent-Philippe Albou,MIT,1703887,"Shared procedural avatar generation for native, terminal and web platforms"

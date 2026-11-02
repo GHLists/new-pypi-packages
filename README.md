@@ -8,38 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 03:18 UTC
+## Latest list — 2026-11-02 04:19 UTC
 
-New packages created between 2026-11-02 02:19 UTC and 2026-11-02 03:18 UTC.
+New packages created between 2026-11-02 03:18 UTC and 2026-11-02 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T03-18-13-902223Z.csv)
+[Full CSV](data/new-packages-2026-11-02T04-19-29-752274Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 02:21:01 | [wikiq](https://pypi.org/project/wikiq/) | 0.3.0 | Benjamin Mako Hill, Nathan Te… | 84.9 kB | Convert MediaWiki XML database dumps into tabular datasets for research |
-| 2026-11-02 02:23:52 | [instruction.md](https://pypi.org/project/instruction.md/) | 0.2.0 | TSOK Inc. | 317.2 kB | Read, check, resolve and verify instruction.md files (the specification's first… |
-| 2026-11-02 02:25:08 | [logsfacilitator](https://pypi.org/project/logsfacilitator/) | 0.1.0 |  | 8.5 kB | My tools for logging and performance measurement |
-| 2026-11-02 02:29:25 | [fluidlayer](https://pypi.org/project/fluidlayer/) | 2.0.0 | Kapil Dhinwa | 339.4 kB | A research memory layer for language models using cellular-sheaf diffusion |
-| 2026-11-02 02:30:31 | [fontpkg-noto-naskh-arabic](https://pypi.org/project/fontpkg-noto-naskh-arabic/) | 2.21 |  | 165.5 kB | Noto Naskh Arabic font family, packaged for Python by fontpkg |
-| 2026-11-02 02:30:33 | [fontpkg-cantarell](https://pypi.org/project/fontpkg-cantarell/) | 1.4 |  | 110.9 kB | Cantarell font family, packaged for Python by fontpkg |
-| 2026-11-02 02:30:35 | [fontpkg-noto-sans-mono](https://pypi.org/project/fontpkg-noto-sans-mono/) | 2.14 |  | 1.0 MB | Noto Sans Mono font family, packaged for Python by fontpkg |
-| 2026-11-02 02:30:38 | [fontpkg-special-elite](https://pypi.org/project/fontpkg-special-elite/) | 1.1 |  | 102.9 kB | Special Elite font family, packaged for Python by fontpkg |
-| 2026-11-02 02:30:55 | [dask-ms-2](https://pypi.org/project/dask-ms-2/) | 0.2.33 | Simon Perkins <simon.perkins@… | 335.3 kB | xarray Dataset from CASA Tables |
-| 2026-11-02 02:35:03 | [genmagic](https://pypi.org/project/genmagic/) | 0.1.0 | GenMagic <hello@genmagic.co> | 18.4 kB | Official GenMagic client and CLI: one API key and one pay-as-you-go balance for… |
-| 2026-11-02 02:37:10 | [aerial-bindings-cuphy](https://pypi.org/project/aerial-bindings-cuphy/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_bindings_cuphy |
-| 2026-11-02 02:37:11 | [aerial-bindings](https://pypi.org/project/aerial-bindings/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_bindings |
-| 2026-11-02 02:37:13 | [aerial-bindings-channels](https://pypi.org/project/aerial-bindings-channels/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_bindings_channels |
-| 2026-11-02 02:37:13 | [aerial-bindings-cumac](https://pypi.org/project/aerial-bindings-cumac/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_bindings_cumac |
-| 2026-11-02 02:40:39 | [py-dgii-ecf](https://pypi.org/project/py-dgii-ecf/) | 0.2.2 | Deuri Vasquez | 115.9 kB | DGII e-CF electronic invoicing SDK for the Dominican Republic — authenticate, s… |
-| 2026-11-02 02:42:07 | [ninada](https://pypi.org/project/ninada/) | 4.0.0 | Hemanth HM <hemanth@h3manth.c… | 88.3 kB | Ninada (निनाद) — Streaming 24 kHz Native Per-Language Studio VITS neural text-t… |
-| 2026-11-02 02:42:31 | [deepseek-search-cli](https://pypi.org/project/deepseek-search-cli/) | 0.1.0 | twn39 | 38.1 kB | DeepSeek Search and Fetch CLI tool based on httpx and typer |
-| 2026-11-02 02:42:58 | [porestore](https://pypi.org/project/porestore/) | 0.1.0a1 |  | 71.4 kB | Python client for the PoreStore API |
-| 2026-11-02 02:43:27 | [aei-history-contract](https://pypi.org/project/aei-history-contract/) | 0.2.0 |  | 25.3 kB | Velorona local-history contract: HistoryRecord schema, retention/size pruning,… |
-| 2026-11-02 02:44:15 | [solidworks-mcp-python](https://pypi.org/project/solidworks-mcp-python/) | 1.5.0 | Andrew Bartels | 2.8 MB | Python MCP server for SolidWorks: lets Claude and other AI agents build parts,… |
-| 2026-11-02 02:47:06 | [rpaorch-bot](https://pypi.org/project/rpaorch-bot/) | 0.1.0 | Botit <equipo-rpa@botit.io> | 69.6 kB | Estándar de bots de RPAOrch (rpaorch/v1): esqueleto para RPA Framework y comand… |
-| 2026-11-02 02:47:32 | [luna-hydro](https://pypi.org/project/luna-hydro/) | 0.1.0 | Ulrich Philipp Steinwandel | 1.3 MB | Differentiable astrophysical hydrodynamics in JAX, from one CPU to many GPUs |
-| 2026-11-02 03:01:10 | [scdr-002](https://pypi.org/project/scdr-002/) | 3.0.4 |  | 5.3 kB | SCDR-002 - TOLUCA-GLOBAL-e8d9eac8 |
-| 2026-11-02 03:10:38 | [crawlora-cricbuzz](https://pypi.org/project/crawlora-cricbuzz/) | 0.1.0 | Crawlora | 69.2 kB | Crawlora Cricbuzz API client with 29 endpoints for cricket matches, schedules,… |
-| 2026-11-02 03:11:25 | [langchain-postbye](https://pypi.org/project/langchain-postbye/) | 1.0.0 | Postbye Team <support@postbye… | 12.1 kB | LangChain tools for Postbye's public cancellation-guide MCP server: search comp… |
-| 2026-11-02 03:11:38 | [ghostbase-cli](https://pypi.org/project/ghostbase-cli/) | 0.1.0 | 4yk5 <contact.4yk5@proton.me> | 46.9 kB | A fast, keyboard-driven terminal database studio for SQLite, PostgreSQL & MySQL |
-| 2026-11-02 03:14:24 | [ragleap-physical](https://pypi.org/project/ragleap-physical/) | 0.0.1 |  | 105.0 kB | Simulation-first, observe-first bridge between RagLeap and open-source simulato… |
+| 2026-11-02 03:19:01 | [pyminleon](https://pypi.org/project/pyminleon/) | 0.1.0 | Anthony Mattas <anthony@matta… | 194.7 kB | Asyncio control of Minleon NDB-Pro LED controllers' built-in effects over HTTP |
+| 2026-11-02 03:20:05 | [pydantic-env-manager](https://pypi.org/project/pydantic-env-manager/) | 0.1.0 | Yashu Ranparia | 24.4 kB | Manage .env and .env.example for FastAPI/Pydantic apps: declare variables once… |
+| 2026-11-02 03:22:03 | [vala](https://pypi.org/project/vala/) | 0.1.0 | Joao Lopes | 2.5 kB | Project tooling (early placeholder release) |
+| 2026-11-02 03:23:23 | [beamio](https://pypi.org/project/beamio/) | 0.1.1 | Phillip Duncan-Gelder <philli… | 63.3 kB | Read, write, and convert radiotherapy beam measurements |
+| 2026-11-02 03:24:00 | [step2torque](https://pypi.org/project/step2torque/) | 0.1.0 |  | 7.1 MB | STEP assemblies to nonlinear 3D motor torque, from Python. |
+| 2026-11-02 03:31:10 | [leann-backend-flashlib](https://pypi.org/project/leann-backend-flashlib/) | 0.3.9 |  | 5.2 kB | GPU-accelerated FlashLib (IVFFlat on Triton/CuteDSL) backend for LEANN. |
+| 2026-11-02 03:31:12 | [leann-backend-flashlib-ivf](https://pypi.org/project/leann-backend-flashlib-ivf/) | 0.3.9 |  | 6.4 kB | GPU-accelerated FlashLib IVF-Flat (Triton/CuteDSL) approximate-NN backend for L… |
+| 2026-11-02 03:32:06 | [xingmind](https://pypi.org/project/xingmind/) | 8.10.5 | 黄迪尧 / 煋旺智能 | 596.5 kB | 给 AI Agent 用的长期记忆层：改口可追溯、旧值不删只封口、多 Agent 共库不串味。纯 Python 零依赖。 |
+| 2026-11-02 03:36:24 | [dwy-wechatpay-notify](https://pypi.org/project/dwy-wechatpay-notify/) | 0.1.0 |  | 12.7 kB | 微信支付官方回调验证与安全通知事件适配 |
+| 2026-11-02 03:37:15 | [monium-sdk](https://pypi.org/project/monium-sdk/) | 1.0.1 | ivan13821 <safarovi670@gmail.… | 32.0 kB | Описание вашей утилиты |
+| 2026-11-02 03:37:48 | [python-cnf](https://pypi.org/project/python-cnf/) | 0.0.1 | Gustavo Niemeyer | 61.0 kB | Standalone conformant cnf-to-json translator and conformance test harness |
+| 2026-11-02 03:39:02 | [nonebot-plugin-sticker-collector](https://pypi.org/project/nonebot-plugin-sticker-collector/) | 0.1.0 | TonyLiangP2010405 | 29.2 kB | 自动收集群聊/私聊中的表情包，按来源归档到本地文件夹并按内容去重 |
+| 2026-11-02 03:40:36 | [agentqit](https://pypi.org/project/agentqit/) | 0.1.0 |  | 506.9 kB | Application testing tools for AI agents |
+| 2026-11-02 03:43:02 | [a4p](https://pypi.org/project/a4p/) | 0.1.0 | Agent Protocol Contributors | 215.5 kB | A lightweight Python SDK for A4P authorization mandates and tokens. |
+| 2026-11-02 03:43:25 | [gnbuild](https://pypi.org/project/gnbuild/) | 0.1.0 |  | 250.0 kB | GN and Ninja build entry with native CMake package integration |
+| 2026-11-02 03:43:36 | [seizou](https://pypi.org/project/seizou/) | 0.0.1 | Atsuro Kishii | 2.6 kB | Name reservation for seizou (Built with Claude: Japan 2026). 町工場や中小の製造業が、1 つの命令… |
+| 2026-11-02 03:47:06 | [tokenjuice-integrations](https://pypi.org/project/tokenjuice-integrations/) | 0.10.0 | Vincent Koc | 13.0 kB | Local tool-result compaction for LangChain and FastMCP |
+| 2026-11-02 03:47:58 | [lamia-agent](https://pypi.org/project/lamia-agent/) | 1.8.0 | Lamia | 21.9 MB | Open-source AI Hackers for your apps |
+| 2026-11-02 03:48:55 | [answergate](https://pypi.org/project/answergate/) | 0.2.0 | M S Gulshan <gulshanms2003@gm… | 257.6 kB | Regression tests for AI assistants: fail the pull request when answers get wors… |
+| 2026-11-02 03:49:25 | [miniansd](https://pypi.org/project/miniansd/) | 0.2.0 | MINIANSD Contributors | 481.8 kB | Original algorithm Python scripts and machine-learning Jupyter notebooks |
+| 2026-11-02 03:56:22 | [saytoken-agent-sdk](https://pypi.org/project/saytoken-agent-sdk/) | 0.2.0 | Saytoken | 18.1 kB | SDK Python para conectar aplicaciones al Canal API de agentes SayToken |
+| 2026-11-02 04:01:30 | [pytest-hexaqueue](https://pypi.org/project/pytest-hexaqueue/) | 0.6.0 | Richard West | 38.5 kB | pytest-hexaqueue - Distributed Test Slicing, Remote Execution, and Multi-CSP Fr… |
+| 2026-11-02 04:03:09 | [openai-agents-videogen](https://pypi.org/project/openai-agents-videogen/) | 2.5.3 |  | 25.6 kB | Official OpenAI Agents SDK tools for the VideoGen API. Generate videos, images,… |
+| 2026-11-02 04:04:46 | [libera-core](https://pypi.org/project/libera-core/) | 0.7 |  | 135.0 MB | Libera Suite's document converter, built from Euro-Office sources |
+| 2026-11-02 04:05:09 | [libera-web](https://pypi.org/project/libera-web/) | 0.7 |  | 54.8 MB | Libera Suite's editors, fonts and dictionaries, built from Euro-Office sources |
+| 2026-11-02 04:06:55 | [serphubapi-mcp](https://pypi.org/project/serphubapi-mcp/) | 0.1.0 |  | 82.7 kB | MCP server for SerpHubAPI: web search and page fetch for AI agents |
+| 2026-11-02 04:13:34 | [tts-lnx-helper](https://pypi.org/project/tts-lnx-helper/) | 0.3.0 |  | 38.1 kB | Lokale TTS-helper voor de TTS LNX Browser Firefox-extensie (Edge-proxy + Piper) |
+| 2026-11-02 04:13:52 | [django-llm-cache](https://pypi.org/project/django-llm-cache/) | 0.1.0 | Hafiz Muhammed P H | 28.6 kB | Production-grade, drop-in caching utility for LLM API prompts and responses in… |
+| 2026-11-02 04:15:58 | [nx-backbone](https://pypi.org/project/nx-backbone/) | 0.3.0 | "Brian C. Keegan" <brian.keeg… | 991.0 kB | Backbone extraction algorithms for complex networks |
+| 2026-11-02 04:17:04 | [signlab-asl](https://pypi.org/project/signlab-asl/) | 0.5.0 | Veerendra Kosuri | 83.4 kB | Developer toolkit and CLI for experimental isolated ASL word recognition |
+| 2026-11-02 04:18:24 | [abstractavatar](https://pypi.org/project/abstractavatar/) | 0.1.0 | Laurent-Philippe Albou | 1.7 MB | Shared procedural avatar generation for native, terminal and web platforms |
