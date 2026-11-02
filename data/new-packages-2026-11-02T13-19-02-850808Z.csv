@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T12:02:59Z,shadlet,0.1.1,shadlet Authors,MIT,1451996,"A Python-first web framework for building beautiful, interactive web applications with genuine shadcn/ui components"
+2026-11-02T12:18:36Z,tba-concrete-claim-updated-at,0.4.0.dev2,,,2974,
+2026-11-02T12:18:45Z,ttnumpy,0.2.0,"Oleg Tatarkin, Sergey Usmanov",AGPL-3.0-or-later,809512,Tensor-train toolbox for numerical linear algebra
+2026-11-02T12:19:46Z,beepgrid,0.1.0,Beepgrid <sasi@beepgrid.com>,Apache-2.0,44735,"Reliable communication between AI agents, people and services"
+2026-11-02T12:20:53Z,basal-ui,0.1.0,,Apache-2.0,2264635,"Local browser app for basal models: pick a model for your hardware, serve it, try it"
+2026-11-02T12:21:00Z,tba-concrete-claim-updated-at-rfc3339,0.4.0.dev2,,,3068,
+2026-11-02T12:23:40Z,tba-concrete-claim-verified-claims,0.4.0.dev2,,,2750,
+2026-11-02T12:25:54Z,tba-concrete-claim-website-uri,0.4.0.dev2,,,2944,
+2026-11-02T12:27:28Z,odoo-addon-stock-picking-report-valued-delivery-fee,18.0.1.0.1,"Moduon, Odoo Community Association (OCA)",AGPL-3,23323,Add delivery fee to the valued picking total value
+2026-11-02T12:28:19Z,glstring,0.1.0,Society for Immune Polymorphism (SIP),Apache-2.0,78981,"A standards-conformant Python library for parsing, manipulating, validating, and serializing Genotype List (GL) Strings (GL String 1.1)."
+2026-11-02T12:28:22Z,gengwiki,0.2.0,Zhixiang Feng,MIT,52830,"Python SDK for gengwiki, local first with the API as a fallback"
+2026-11-02T12:28:27Z,tba-concrete-claim-workload-token-hash,0.4.0.dev2,,,3045,Standalone WIMSE wth claim implementation.
+2026-11-02T12:30:10Z,veriflux,0.1.0,Shivam,Apache-2.0,393860,"The definitive AI/ML testing, evaluation, guardrail, and reliability library. Built from scratch."
+2026-11-02T12:30:47Z,tba-concrete-claim-zoneinfo,0.4.0.dev2,,,2913,
+2026-11-02T12:33:14Z,tba-concrete-client-identity,0.4.0.dev2,,Apache-2.0,2573,Standalone concrete client identity model.
+2026-11-02T12:34:06Z,nodeloom,0.2.0,Kirill Shamgunov,GPL-3.0-only,683387,"ComfyUI's node editor for models behind APIs (OpenAI, Gemini, OpenRouter, fal.ai, Replicate, ModelArk...): no local inference, no torch, no GPU"
+2026-11-02T12:36:58Z,zeitwide,0.1.0,,MIT AND CC-BY-NC-4.0,77720,"Is this a business day? Answers with evidence for payment rails and holiday calendars, offline or from the Zeitwide API."
+2026-11-02T12:37:09Z,zeitwide-mcp,0.1.0,,MIT,3960,"Zeitwide's local MCP server: business-day answers with evidence, offline with --offline."
+2026-11-02T12:37:24Z,UIElements,1.0.1,,,9939,Bibliothèque mettant à disposition des objets graphiques
+2026-11-02T12:38:02Z,cs-image-system-docker-runtime-plugin,0.1.6,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,63539,The docker runtime type: a durable host's container daemon as a place where images bake and instances run
+2026-11-02T12:38:22Z,cs-image-system-tf-docker-plugin,0.1.6,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,42384,The OpenTofu plugin for a container runtime: containers and volumes on a Docker Engine API daemon as module calls
+2026-11-02T12:38:44Z,careof,0.1.0,careof contributors,MIT,70668,"Find and parse postal addresses in HTML, Markdown, and plain text."
+2026-11-02T12:46:27Z,noddit,0.1.0,WeCarbon,MIT,20534,"Write JSON Lines progress events from a long-running script or pytest run, for anything that wants to watch along"
+2026-11-02T12:46:33Z,subscription-2vless,1.0.0,,,9465,
+2026-11-02T12:47:25Z,gldpy-gpu,0.3.0,Kramer84,MIT,52120,"Generalized Lambda Distribution for Python, with a PyTorch/CUDA backend"
+2026-11-02T12:50:08Z,pgtern,0.3.0,Ahmad Karawash,Apache-2.0,169709,"A zero-dependency, pure-Python PostgreSQL client with blocking and asyncio APIs."
+2026-11-02T12:52:05Z,smiles2svg,0.2.0,Inigo Iribarren Aguirre <innigo.iribarren@gmail.com>,MIT,55590,Generate 2D molecular structure diagrams as SVG (and optional PNG) from SMILES strings.
+2026-11-02T12:52:32Z,memhub,0.2.2,,,575920,MemHub: Personal Memory Hub & Dual-System Layered Memory SDK for AI Agents
+2026-11-02T12:53:56Z,lakmus,0.1.0,Lakmus Labs,Apache-2.0,340722,"Share and run domain test suites against AI models, agents and MCP servers"
+2026-11-02T12:56:21Z,critopy,0.1.0,,,15289,Python Cryptography Practical Programs
+2026-11-02T12:59:38Z,larynth,0.1.0,,MIT,345374,Official Python SDK for the Larynth voice AI API and webhook signature verification
+2026-11-02T13:00:01Z,relay-python-sdk,0.1.0,relay-python-sdk <omchouhan227@gmail.com>,Apache-2.0,18758,Official Python SDK for Relay webhook delivery infrastructure
+2026-11-02T13:00:21Z,phonelint,0.1.0,Phonelint,MIT,4789021,"Carrier, line type and block allocation for phone numbers, on top of libphonenumber"
+2026-11-02T13:00:47Z,aioddp,0.1.0,Anthony Mattas <anthony@mattas.net>,Apache-2.0,299767,Asyncio Python library for sending DDP pixel data to LED controllers
+2026-11-02T13:06:24Z,jp-zengin-name,0.1.0,NEXUS tools,MIT,33867,Format Japanese bank-transfer account names (Zengin kana) with legal-entity abbreviations.
+2026-11-02T13:08:50Z,torch-testbed,0.1.0,"Gavin Kerrigan <kerrigan@stats.ox.ac.uk>, Marcel Hedman <marcel.hedman@jesus.ox.ac.uk>, Sahel Iqbal…",Apache-2.0,567307,TestBED is a library for Bayesian experimental design.
+2026-11-02T13:10:40Z,zancli-auth,0.3.1,,LicenseRef-Proprietary,44444,Reuse the zancli Youzanyun login session from Python command-line tools
+2026-11-02T13:10:59Z,telegram-group-manager,1.0.0,Amirali Yavari,"MIT License Copyright (c) 2026 Amirali Yavari Permission is hereby granted, free of charge, to any…",45139,A reusable Python package for Telegram group moderation and management
+2026-11-02T13:11:12Z,linkingtk,0.1.1,"""John P. McCrae"" <john@mccr.ae>",Apache-2.0,829752,"A toolkit unifying Entity Alignment, Entity Linking, Word Sense Disambiguation and Word Sense Alignment."
+2026-11-02T13:11:30Z,kraft-last-standing,1.0.0,Anton Agestam <anton.agestam@aiven.io>,Apache-2.0,56088,Recover an Apache Kafka® KRaft cluster that has permanently lost controller quorum.
+2026-11-02T13:13:31Z,dstory,0.6.0,Kedar Dabhadkar <kedar.dabhadkar@gmail.com>,MIT,169057,"Build interactive scrollytelling and slide-deck data stories from Python — bundle, vet, theme, and ship a single self-contained HTML file."
+2026-11-02T13:16:04Z,bazaar-contrib-system-service,0.3.0rc1,,Apache-2.0,41012,System service management for Bazaar Compute Node
+2026-11-02T13:17:23Z,transformers-mic,0.1.0,The Hugging Face Team <transformers@huggingface.co>,Apache-2.0,2503236,Build and validate model integration contracts and slim fixtures for Transformers
+2026-11-02T13:18:25Z,cupami,0.1.0,UdayLab,GPL-3.0-or-later,200239,CUDA accelerated pattern mining algorithms
