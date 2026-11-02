@@ -1,41 +1,48 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-11-02T18:22:00.057909Z",
-    "path": "data/new-packages-2026-11-02T19-18-13-35167Z.csv",
-    "to": "2026-11-02T19:18:13.35167Z"
+    "count": 49,
+    "from": "2026-11-02T19:18:13.35167Z",
+    "path": "data/new-packages-2026-11-02T20-18-32-045474Z.csv",
+    "to": "2026-11-02T20:18:32.045474Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-02T18:23:21Z",
       "package": "RcinelTranslate",
       "since": "2026-11-02T18:22:00.057909Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-02T18:34:03Z",
       "package": "kloship-utils",
       "since": "2026-11-02T18:22:00.057909Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-02T17:23:06Z",
       "package": "livekit-plugins-zoom-ai",
       "since": "2026-11-02T17:19:52.154657Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-02T19:52:41Z",
+      "package": "robot-pyton",
+      "since": "2026-11-02T19:18:13.35167Z",
+      "version": "1.0"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-02T16:34:40Z",
       "package": "swapnet",
       "since": "2026-11-02T16:19:38.295709Z",
       "version": null
     }
   ],
-  "serial": 43104901,
+  "serial": 43106958,
   "source_truncated": false,
-  "window": "2026-11-02T19:18:13.35167Z"
+  "window": "2026-11-02T20:18:32.045474Z"
 }

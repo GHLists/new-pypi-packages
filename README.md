@@ -8,58 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 19:18 UTC
+## Latest list — 2026-11-02 20:18 UTC
 
-New packages created between 2026-11-02 18:22 UTC and 2026-11-02 19:18 UTC.
+New packages created between 2026-11-02 19:18 UTC and 2026-11-02 20:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T19-18-13-35167Z.csv)
+[Full CSV](data/new-packages-2026-11-02T20-18-32-045474Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 18:21:51 | [vault-utils](https://pypi.org/project/vault-utils/) | 0.0.0 | Blitzy | 1.1 kB | Reserved name for an internal Blitzy package. Contains no code. |
-| 2026-11-02 18:25:10 | [buttle](https://pypi.org/project/buttle/) | 0.3.0 |  | 1.6 MB | Command-line utilities for DNA and protein sequence analysis. At your service. |
-| 2026-11-02 18:25:38 | [indicium-standard](https://pypi.org/project/indicium-standard/) | 2.0.0 | Louis-Félix Nothias <louis-fe… | 122.0 kB | Shared claim/evidence standard (ECO/CiTO/SEPIO/PROV-O + Bucur SuperPattern) |
-| 2026-11-02 18:27:49 | [langchain-fse](https://pypi.org/project/langchain-fse/) | 0.1.0 |  | 12.4 kB | fse embeddings for langchain-core |
-| 2026-11-02 18:27:51 | [llama-index-embeddings-fse](https://pypi.org/project/llama-index-embeddings-fse/) | 0.1.0 |  | 15.0 kB | fse embeddings for llama-index-core |
-| 2026-11-02 18:27:52 | [fse-haystack](https://pypi.org/project/fse-haystack/) | 0.1.0 |  | 15.0 kB | fse embeddings for haystack-ai |
-| 2026-11-02 18:28:31 | [mlextend](https://pypi.org/project/mlextend/) | 0.1.0 |  | 33.2 kB | Ready-to-copy source code of 10 machine learning practicals (EDA, regression, K… |
-| 2026-11-02 18:29:02 | [skill-brain](https://pypi.org/project/skill-brain/) | 2.1.0 |  | 887.0 kB | Multi-agent engineering skill system for Claude Code, Codex CLI, Antigravity, G… |
-| 2026-11-02 18:29:15 | [gpu4agents](https://pypi.org/project/gpu4agents/) | 0.6.0 | Jambu.ai | 774.1 kB | GPU for Agents: your coding agent rents the GPU it needs, on its own. You pay o… |
-| 2026-11-02 18:30:16 | [lcsc2kicad](https://pypi.org/project/lcsc2kicad/) | 0.1.0 |  | 37.4 kB | Importe des composants LCSC/EasyEDA dans la librairie KiCad du projet courant (… |
-| 2026-11-02 18:30:55 | [prismal-server](https://pypi.org/project/prismal-server/) | 0.2.0 | Ernesto Crespo <ecrespo@gmail… | 116.7 kB | Reference host for the prismal agent engine — a thin FastAPI/ASGI process servi… |
-| 2026-11-02 18:32:02 | [justetf-mobile-client](https://pypi.org/project/justetf-mobile-client/) | 0.1.0 | wavepacket0 | 22.7 MB | Native Python bindings for the Go justETF mobile API client |
-| 2026-11-02 18:33:32 | [indicium-adapters](https://pypi.org/project/indicium-adapters/) | 0.6.0 | Louis-Felix Nothias <louis-fe… | 135.7 kB | Community-extensible domain adapters for the indicium knowledge standard |
-| 2026-11-02 18:33:40 | [nomadicsoft-google-ads-mcp](https://pypi.org/project/nomadicsoft-google-ads-mcp/) | 0.1.0 | Dean Lukies <lukiesd@users.no… | 86.0 kB | MCP Server for Google Ads, depends on Google Ads API. |
-| 2026-11-02 18:34:20 | [pipediag](https://pypi.org/project/pipediag/) | 0.1.1 |  | 435.1 kB | An explainable diagnostic framework for scikit-learn machine learning pipelines |
-| 2026-11-02 18:34:58 | [team-photo-sorter](https://pypi.org/project/team-photo-sorter/) | 0.1.2 | Andy Knosp | 88.8 kB | Sort a team photographer's photos by player and publish them as a password-prot… |
-| 2026-11-02 18:38:43 | [somestuff-k3shelperstuff](https://pypi.org/project/somestuff-k3shelperstuff/) | 0.1.6 | Henning Thieß <ht@xomox.cc> | 113.3 kB | K3s/Kubernetes helpers: kubeconfig credential sync via SSH, user client certifi… |
-| 2026-11-02 18:39:27 | [presidio-evidence](https://pypi.org/project/presidio-evidence/) | 0.5.0 | Presidio Security | 282.1 kB | Signed-evidence substrate for the presidio-hardened-* family: canonical JSON, E… |
-| 2026-11-02 18:39:55 | [somestuff-corestuff](https://pypi.org/project/somestuff-corestuff/) | 0.1.0 | Henning Thieß <ht@xomox.cc> | 24.5 kB | Shared settings loader for the somestuff packages: pydantic-settings over confi… |
-| 2026-11-02 18:40:24 | [somestuff-dhcpstuff](https://pypi.org/project/somestuff-dhcpstuff/) | 0.1.1 | Henning Thieß <ht@xomox.cc> | 19.5 kB | DHCP Discover sender and response analyzer, including Proxy DHCP / PXE boot ser… |
-| 2026-11-02 18:41:46 | [provost-model](https://pypi.org/project/provost-model/) | 0.1.0 | Martin J. Gallagher | 170.0 MB | The tiny-LM layout labeller for provost --model: SmolLM2-135M fine-tuned on pro… |
-| 2026-11-02 18:44:55 | [amd-infera](https://pypi.org/project/amd-infera/) | 0.3.3 |  | 14.2 MB |  |
-| 2026-11-02 18:46:55 | [aegis-initiative-sdk](https://pypi.org/project/aegis-initiative-sdk/) | 0.1.1 | AEGIS Initiative <engineering… | 27.8 kB | Python client SDK for the AEGIS Governance Platform |
-| 2026-11-02 18:47:13 | [aobs-server](https://pypi.org/project/aobs-server/) | 0.1.0a1 |  | 437.4 kB | aobs server: canonical event model, ingestion and query |
-| 2026-11-02 18:47:20 | [aobs](https://pypi.org/project/aobs/) | 0.1.0a1 |  | 265.2 kB | Vendor-neutral instrumentation SDK for AI agents (stdlib-only core) |
-| 2026-11-02 18:47:43 | [sphinx-jinja-variants](https://pypi.org/project/sphinx-jinja-variants/) | 2026.11.2 | Adam Dangoor <adamdangoor@gma… | 154.6 kB | Render Sphinx sources under scoped Jinja contexts. |
-| 2026-11-02 18:48:34 | [altocue](https://pypi.org/project/altocue/) | 0.1.1 | Stratos House | 7.5 MB | Edit raw footage into finished video from your coding agent. |
-| 2026-11-02 18:49:07 | [disco-gdl](https://pypi.org/project/disco-gdl/) | 1.5.0 | James Willson <jamessw156@gma… | 24.7 kB | Decomposition Into Single-COpy gene trees (DISCO) is a method for decomposing m… |
-| 2026-11-02 18:50:44 | [baseqdb](https://pypi.org/project/baseqdb/) | 0.5.0 | baSeq ApS <info@baseq.dk> | 29.6 kB | Your baSeq datasets, analyses and results from Python, with lamindb's names |
-| 2026-11-02 18:51:01 | [rcinel-translate](https://pypi.org/project/rcinel-translate/) | 0.1.0 | CodeIsNotEvil | 16.3 kB | Loads a translation set for a language and translates with translate("UUIDv7",… |
-| 2026-11-02 18:52:39 | [grobid-tei](https://pypi.org/project/grobid-tei/) | 0.1.0 | grobid-tei contributors | 755.9 kB | A standalone Python client and TEI parser for GROBID |
-| 2026-11-02 18:53:46 | [gammaledger-mcp](https://pypi.org/project/gammaledger-mcp/) | 0.1.0 |  | 116.5 kB | MCP server for GammaLedger — privacy-first, local-first options trading journal |
-| 2026-11-02 18:54:05 | [nx-title-id](https://pypi.org/project/nx-title-id/) | 1.0.0 | Ryan Parman <ryan@ryanparman.… | 13.4 kB | Print the title ID of the Nintendo Switch game packages (.nsp, .nsz, .xci, .xcz… |
-| 2026-11-02 18:57:27 | [arrayprobe](https://pypi.org/project/arrayprobe/) | 0.1.0 | Siddhant Gupta | 6.0 MB | Python ports of the UIOPS v3.5 and SODA-2 optical array probe processing chains |
-| 2026-11-02 18:58:28 | [gams-modellib](https://pypi.org/project/gams-modellib/) | 54.6.1 |  | 17.8 MB |  |
-| 2026-11-02 19:01:13 | [mojood-snipeit-mcp](https://pypi.org/project/mojood-snipeit-mcp/) | 0.1.0 |  | 77.9 kB | Mojood Connect demo: an MCP server for Snipe-IT (asset tracking), with confirm-… |
-| 2026-11-02 19:01:14 | [mojood-zammad-mcp](https://pypi.org/project/mojood-zammad-mcp/) | 0.1.0 |  | 84.3 kB | Mojood Connect demo: an MCP server for Zammad (helpdesk), with confirm-before-c… |
-| 2026-11-02 19:01:17 | [mojood-chatwoot-mcp](https://pypi.org/project/mojood-chatwoot-mcp/) | 0.1.0 |  | 79.3 kB | Mojood Connect demo: an MCP server for Chatwoot (support inbox), with confirm-b… |
-| 2026-11-02 19:02:21 | [arrayprobe-soda2-enhancements](https://pypi.org/project/arrayprobe-soda2-enhancements/) | 0.1.0 | Siddhant Gupta | 153.1 kB | Opt-in corrections and extensions that consume arrayprobe_soda2's output -- nev… |
-| 2026-11-02 19:03:53 | [viva-discovery-engine](https://pypi.org/project/viva-discovery-engine/) | 0.1.0 | Vivarium Collective | 3.8 MB | A derive-first scientific-investigation discovery cycle engine for the Vivarium… |
-| 2026-11-02 19:05:58 | [mojood-glpi-mcp](https://pypi.org/project/mojood-glpi-mcp/) | 0.1.0 |  | 81.7 kB | Mojood Connect demo: an MCP server for GLPI (IT service and asset management),… |
-| 2026-11-02 19:05:59 | [mojood-documenso-mcp](https://pypi.org/project/mojood-documenso-mcp/) | 0.1.0 |  | 77.6 kB | Mojood Connect demo: an MCP server for Documenso (e-signing), with confirm-befo… |
-| 2026-11-02 19:06:04 | [mojood-proxmox-mcp](https://pypi.org/project/mojood-proxmox-mcp/) | 0.1.0 |  | 80.3 kB | Mojood Connect demo: an MCP server for Proxmox VE (VMs, containers, storage, ba… |
-| 2026-11-02 19:10:58 | [arrekta](https://pypi.org/project/arrekta/) | 0.1.0 |  | 1.4 MB | Arrekta consensus core (arrekta_core) and full node (arrekta_node): multi-asset… |
-| 2026-11-02 19:11:35 | [arrekta-sdk](https://pypi.org/project/arrekta-sdk/) | 0.1.0 |  | 144.6 kB | Python SDK for Arrekta: sync and async clients, typed models and wallet helpers… |
-| 2026-11-02 19:12:52 | [arrayprobe-uiops-enhancements](https://pypi.org/project/arrayprobe-uiops-enhancements/) | 0.1.0 | Siddhant Gupta | 804.5 kB | Opt-in, real-new-science extensions that consume arrayprobe's output -- never p… |
-| 2026-11-02 19:15:00 | [simple-utils-quickstart-demo](https://pypi.org/project/simple-utils-quickstart-demo/) | 0.1.0 | Your Name <your.email@example… | 4.0 kB | A unique Python utility library demo |
+| 2026-11-02 19:18:28 | [enrama](https://pypi.org/project/enrama/) | 0.1.0 | Enrama contributors | 109.9 kB | Open-source, self-hosted link-in-bio site generator built with Python. |
+| 2026-11-02 19:19:25 | [modsmith](https://pypi.org/project/modsmith/) | 0.1.1 | MeNeither <pengyufeng2003@out… | 356.1 kB | A Python toolkit for Minecraft modpacks, mod loaders and game instances. |
+| 2026-11-02 19:20:02 | [auto-fxui](https://pypi.org/project/auto-fxui/) | 0.1.1 |  | 427.6 kB | Reusable Firefox UI page / browser component objects |
+| 2026-11-02 19:20:07 | [chiefofstaff](https://pypi.org/project/chiefofstaff/) | 0.1.3 | evanl666 | 810.8 kB | One inbox for all your GitHub Copilot sessions: tasks and follow-ups go to the… |
+| 2026-11-02 19:20:42 | [ontoreport](https://pypi.org/project/ontoreport/) | 0.0.1 | Antonio Zaitoun <antonio@zait… | 1.7 MB | Quality report for OWL ontologies built from the project record |
+| 2026-11-02 19:20:46 | [dicom-agent-mcp](https://pypi.org/project/dicom-agent-mcp/) | 0.1.0 | arunmk-ms | 102.5 kB | MCP server that gives AI agents protocol-neutral DICOM tools (DIMSE and DICOMwe… |
+| 2026-11-02 19:21:33 | [dossierdock](https://pypi.org/project/dossierdock/) | 0.1.0 | Shashank Singh | 27.3 kB | Release-readiness evidence and CI workflow generation for containerized AI serv… |
+| 2026-11-02 19:22:28 | [foodguidecanada](https://pypi.org/project/foodguidecanada/) | 3.0.0 | Aryan Jhaveri | 1.3 MB | Canada's Food Guide CLI and MCP server, backed by offline data |
+| 2026-11-02 19:23:38 | [turnero](https://pypi.org/project/turnero/) | 0.1.0 | Félix Ramírez Ramírez | 20.7 kB | Límite de peticiones por ventana y agrupación de llamadas idénticas, para async… |
+| 2026-11-02 19:24:47 | [vramsuite](https://pypi.org/project/vramsuite/) | 0.5.0 | k1n0F | 191.4 kB | Native GPU memory diagnostics for local AI: will a model or ComfyUI workflow fi… |
+| 2026-11-02 19:25:11 | [emlectomy](https://pypi.org/project/emlectomy/) | 0.1.0 | Agustín Rojas | 54.4 kB | Surgical removal of the redundancy in an email chain: a clean thread.json + thr… |
+| 2026-11-02 19:25:54 | [4u-cli](https://pypi.org/project/4u-cli/) | 1.0.0 | 4u Team | 23.3 kB | 4u - A modern CLI package manager for Python tools |
+| 2026-11-02 19:30:05 | [keyflint-verify](https://pypi.org/project/keyflint-verify/) | 1.1.0 | ArceeDev | 36.5 kB | Zero-dependency offline verifier and MCP tool gating for KeyFlint Ed25519 licen… |
+| 2026-11-02 19:34:07 | [pettrace-ml](https://pypi.org/project/pettrace-ml/) | 0.2.6 | PetTrace contributors | 320.2 kB | Reproducible pet re-identification: dataset audits, embeddings, metric learning… |
+| 2026-11-02 19:35:16 | [blablador](https://pypi.org/project/blablador/) | 0.2.1 | Applied Machine Learning Lab… | 44.5 kB | Python client for JSC's Blablador LLM API, built on the OpenAI SDK |
+| 2026-11-02 19:37:23 | [stepcheck-dev](https://pypi.org/project/stepcheck-dev/) | 0.1.0 |  | 97.7 kB | Deterministic anti-context-rot state engine, BYOK token-firewall proxy, Streama… |
+| 2026-11-02 19:38:07 | [krypto-py](https://pypi.org/project/krypto-py/) | 0.8.0 | Roger Jorgensen <rogerj@gmail… | 1.1 MB | Python binding for krypto: secrets in locked memory, AEAD at rest, signatures a… |
+| 2026-11-02 19:39:44 | [trickle-down](https://pypi.org/project/trickle-down/) | 0.1.0 | Bob Wilson | 89.2 kB | Testing Statistical Hypotheses in a Tree-Like Hierarchy |
+| 2026-11-02 19:40:08 | [composio-videogen](https://pypi.org/project/composio-videogen/) | 2.5.3 |  | 43.9 kB | Official Composio custom toolkit for the VideoGen API. Generate videos, images,… |
+| 2026-11-02 19:41:28 | [launchdarkly-server-sdk-consul](https://pypi.org/project/launchdarkly-server-sdk-consul/) | 0.0.0 | LaunchDarkly <dev@launchdarkl… | 2.0 kB | Reserved by LaunchDarkly. This release contains no code. |
+| 2026-11-02 19:41:29 | [launchdarkly-server-sdk-dynamodb](https://pypi.org/project/launchdarkly-server-sdk-dynamodb/) | 0.0.0 | LaunchDarkly <dev@launchdarkl… | 2.0 kB | Reserved by LaunchDarkly. This release contains no code. |
+| 2026-11-02 19:41:30 | [launchdarkly-server-sdk-redis](https://pypi.org/project/launchdarkly-server-sdk-redis/) | 0.0.0 | LaunchDarkly <dev@launchdarkl… | 2.0 kB | Reserved by LaunchDarkly. This release contains no code. |
+| 2026-11-02 19:41:46 | [nlkt-lab](https://pypi.org/project/nlkt-lab/) | 0.1.0 |  | 1.5 MB | A collection of machine learning and deep learning Jupyter notebooks |
+| 2026-11-02 19:44:18 | [zeptrionair-api](https://pypi.org/project/zeptrionair-api/) | 0.1.0 | Jeremy Diaz <jd@diaznet.fr> | 83.6 kB | Async Python library and CLI for Feller zeptrionAir devices (local HTTP/WebSock… |
+| 2026-11-02 19:44:53 | [data-parity](https://pypi.org/project/data-parity/) | 0.1.0.dev0 |  | 61.1 kB | Prove that dbt models are identical on two engines, without moving data. |
+| 2026-11-02 19:45:43 | [venvctl-win](https://pypi.org/project/venvctl-win/) | 0.1.0 | Arush Karnatak | 7.1 MB | Control your Python virtual environments on Windows (the venvctl CLI, as a pip-… |
+| 2026-11-02 19:47:44 | [vapoursynth-graph](https://pypi.org/project/vapoursynth-graph/) | 1.0.1 | Vardë <ichunjo.le.terrible@gm… | 1.7 MB | VapourSynth filter graph inspection |
+| 2026-11-02 19:49:19 | [farro](https://pypi.org/project/farro/) | 0.0.1.dev0 | Gregoire Burel | 9.9 kB | Placeholder. Record pipelines for Python; the real release is not published yet. |
+| 2026-11-02 19:49:59 | [rboto-ssm](https://pypi.org/project/rboto-ssm/) | 0.1.0 | Leandro Cavalcante Damascena… | 186.0 MB | rboto: async-only, typed Python client for AWS Systems Manager, powered by Rust… |
+| 2026-11-02 19:52:01 | [mandately](https://pypi.org/project/mandately/) | 0.0.1 |  | 2.2 kB | Mandately: placeholder release, the real package follows. |
+| 2026-11-02 19:52:35 | [artai](https://pypi.org/project/artai/) | 0.1.0 |  | 99.8 kB | Manifest-driven, resumable AI artwork generation: prompts in, reviewed web-read… |
+| 2026-11-02 19:52:37 | [goldmap](https://pypi.org/project/goldmap/) | 0.0.1 |  | 2.7 kB | Placeholder: a local browser app that makes the dataset definition and run meta… |
+| 2026-11-02 19:54:42 | [venvprune](https://pypi.org/project/venvprune/) | 0.1.0 | gokserpirik | 11.3 kB | Interactively find and remove Python virtual environments |
+| 2026-11-02 19:57:24 | [robot-python](https://pypi.org/project/robot-python/) | 1.0 | robot-python contributors | 22.4 MB | Керування роботом на карті: навчальна бібліотека з графічним інтерфейсом на Tki… |
+| 2026-11-02 19:57:29 | [opcua-sim](https://pypi.org/project/opcua-sim/) | 0.1.0 | Ralf Steinert | 125.7 kB | Simulated OPC UA devices with behaviour, NE 107 health, real alarms and fault i… |
+| 2026-11-02 20:00:58 | [chooong.datasift](https://pypi.org/project/chooong.datasift/) | 0.1.0 | Marcus Steinbach | 21.7 MB | Native streaming Excel/CSV discovery, validation, filtering and NDJSON/Parquet… |
+| 2026-11-02 20:01:11 | [courtmesh](https://pypi.org/project/courtmesh/) | 0.5.0 | Thinkscoop Technologies LLP <… | 122.3 kB | Python SDK for the CourtMesh API: Indian case law search, case details, AI anal… |
+| 2026-11-02 20:02:11 | [thingagent](https://pypi.org/project/thingagent/) | 0.1.1 | The thingagent Authors | 141.8 kB | Distributed runtime for AI agents in the physical world, governed by policy: wh… |
+| 2026-11-02 20:04:54 | [pacman-apt-wrapper](https://pypi.org/project/pacman-apt-wrapper/) | 0.1.1 | Pacman Apt Wrapper Contributo… | 11.5 kB | Pacman-style wrapper for apt-get/apt-cache/dpkg-query |
+| 2026-11-02 20:06:40 | [spud-testing](https://pypi.org/project/spud-testing/) | 0.1.0 |  | 15.2 kB | A lightweight Python toolkit for API testing |
+| 2026-11-02 20:06:42 | [threshio](https://pypi.org/project/threshio/) | 0.1.0 | Kevin O'Neil | 3.5 MB | Know a delimited file before your code reads it: its dialect, the schema its va… |
+| 2026-11-02 20:06:55 | [barograph-met](https://pypi.org/project/barograph-met/) | 0.0.1.dev0 | Gabriel Jarry <gabriel.jarry@… | 2.1 kB | Package name reserved — implementation coming soon |
+| 2026-11-02 20:10:12 | [flget](https://pypi.org/project/flget/) | 0.1.0 | Denis Chaplygin | 108.7 kB | Local Flibusta mirror search tool |
+| 2026-11-02 20:12:44 | [stitch-substrate](https://pypi.org/project/stitch-substrate/) | 0.4.1 | SuperInstance | 88.8 kB | A tiny, language-portable substrate primitive for accountable agent state. |
+| 2026-11-02 20:13:07 | [fedora-fl](https://pypi.org/project/fedora-fl/) | 2.1.0b2 | FedoRA Contributors <sam.urmi… | 1.4 MB | FedoRA: federated learning and federated knowledge — typed knowledge artifacts… |
+| 2026-11-02 20:15:24 | [scikit-tools](https://pypi.org/project/scikit-tools/) | 0.1.0 | Your Name <your.email@example… | 7.6 kB | Clean, streamlined Data Science and Machine Learning toolkit with direct topic… |
+| 2026-11-02 20:16:19 | [saludai-commons](https://pypi.org/project/saludai-commons/) | 0.0.0 |  | 1.7 kB | Reserved name. The real saludai-commons is a private package of SaludAI; this o… |
+| 2026-11-02 20:16:54 | [perdix](https://pypi.org/project/perdix/) | 0.3.0 | Niklas Nordin <niklas.nordin@… | 2.0 MB | Perdix: desktop workbench for feature engineering on tabular and time-series da… |
+| 2026-11-02 20:18:14 | [trainlint](https://pypi.org/project/trainlint/) | 0.1.0 | Satvik Jain | 253.7 kB | Offline checker and agent skills for ML bugs that do not crash: leakage, train/… |
