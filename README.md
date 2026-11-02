@@ -8,66 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 11:18 UTC
+## Latest list — 2026-11-02 12:18 UTC
 
-New packages created between 2026-11-02 10:20 UTC and 2026-11-02 11:18 UTC.
+New packages created between 2026-11-02 11:18 UTC and 2026-11-02 12:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T11-18-29-404206Z.csv)
+[Full CSV](data/new-packages-2026-11-02T12-18-08-626444Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 10:21:59 | [scipion-chem-conplex](https://pypi.org/project/scipion-chem-conplex/) | 3.3.3 | Daniel Del Hoyo Gomez | 58.8 kB | Scipion framework plugin for the use of ConPLex models for protein-ligand inter… |
-| 2026-11-02 10:23:24 | [cortex-docs](https://pypi.org/project/cortex-docs/) | 0.0.0 |  | 1.6 kB | Placeholder reserving the name. Not the real package. |
-| 2026-11-02 10:23:27 | [cortex-documents](https://pypi.org/project/cortex-documents/) | 0.0.0 |  | 1.7 kB | Placeholder reserving the name. Not the real package. |
-| 2026-11-02 10:23:30 | [cortex-documents-tooling](https://pypi.org/project/cortex-documents-tooling/) | 0.0.0 |  | 1.8 kB | Placeholder reserving the name. Not the real package. |
-| 2026-11-02 10:23:33 | [cortex-editorial](https://pypi.org/project/cortex-editorial/) | 0.0.0 |  | 1.7 kB | Placeholder reserving the name. Not the real package. |
-| 2026-11-02 10:23:56 | [bytx](https://pypi.org/project/bytx/) | 0.1.0 | BYTtrade | 1.3 MB | bytx — typed async Python SDK for crypto exchanges by BYTtrade: Binance, Bybit,… |
-| 2026-11-02 10:27:44 | [meshioplusplus-netgen](https://pypi.org/project/meshioplusplus-netgen/) | 18.0.0 |  | 79.2 MB | Netgen tetrahedral mesher for meshio++: the Netgen backend of tetrahedralize |
-| 2026-11-02 10:27:53 | [apisim](https://pypi.org/project/apisim/) | 0.1.1 | Digital Trend AS <support@api… | 18.2 kB | Python client for the ApiSIM API: send SMS, place calls and read conversations… |
-| 2026-11-02 10:27:56 | [scipion-chem-biofold](https://pypi.org/project/scipion-chem-biofold/) | 3.3.3 | Blanca Pueche | 92.9 kB | Scipion plugin in order to use ther biofold software |
-| 2026-11-02 10:28:32 | [scipion-chem-openstructure](https://pypi.org/project/scipion-chem-openstructure/) | 3.3.3 | Blanca Pueche | 56.7 kB | Scipion plugin in order to use the OpenStructure software |
-| 2026-11-02 10:30:49 | [easyssf-core](https://pypi.org/project/easyssf-core/) | 0.7.0 | the easyssf authors | 65.6 kB | The vocabulary of the OpenID Shared Signals Framework: SETs, subjects, event ty… |
-| 2026-11-02 10:31:07 | [easyssf-receiver](https://pypi.org/project/easyssf-receiver/) | 0.7.0 | the easyssf authors | 240.7 kB | An SSF receiver for Python, framework independent: SET verification, push and p… |
-| 2026-11-02 10:31:07 | [easyssf-test](https://pypi.org/project/easyssf-test/) | 0.7.0 | the easyssf authors | 32.6 kB | A test transmitter for SSF receivers: signs SETs, serves metadata and a JWK Set… |
-| 2026-11-02 10:32:37 | [easyssf-receiver-fastapi](https://pypi.org/project/easyssf-receiver-fastapi/) | 0.7.0 | the easyssf authors | 18.8 kB | The easyssf SSF receiver for FastAPI: the push endpoint, the rejection of revok… |
-| 2026-11-02 10:32:44 | [complyee-agent-guard](https://pypi.org/project/complyee-agent-guard/) | 0.1.0 | Complyee AB | 44.8 kB | Run agent tools only on a verified Agent Control Room grant (LangGraph, CrewAI,… |
-| 2026-11-02 10:33:01 | [foliq](https://pypi.org/project/foliq/) | 0.1.0a1 | daniprol | 105.7 MB | Search, read and cite your documents (PDF, Word, PowerPoint, Excel, HTML, Markd… |
-| 2026-11-02 10:34:58 | [dino4dstem](https://pypi.org/project/dino4dstem/) | 1.0.1 | Daniel Khaykelson <daniel.kha… | 13.0 MB | Self-supervised classification and phase mapping for 4D-STEM / scanning electro… |
-| 2026-11-02 10:38:05 | [meshioplusplus-occt](https://pypi.org/project/meshioplusplus-occt/) | 18.0.0 |  | 595.4 MB | OpenCASCADE add-on for meshio++: STEP and IGES reading and fit_cad's OpenCASCAD… |
-| 2026-11-02 10:41:29 | [surfdude](https://pypi.org/project/surfdude/) | 0.1.0 | Luke Puplett | 36.4 kB | Hypermedia API client: drive journeys by rel, not URLs |
-| 2026-11-02 10:42:18 | [datamuo](https://pypi.org/project/datamuo/) | 1.1.24 |  | 3.7 MB | Data tensors, interactive (pivot) tables. |
-| 2026-11-02 10:43:59 | [waveiumpy](https://pypi.org/project/waveiumpy/) | 0.0.1 | Waveium | 2.4 kB | Name reservation for Waveium's internal package. Not for public use. |
-| 2026-11-02 10:44:56 | [atlascloudsdk](https://pypi.org/project/atlascloudsdk/) | 0.1.1 | Atlas | 62.9 kB | Python SDK for the Atlas API |
-| 2026-11-02 10:45:50 | [reference-verifier](https://pypi.org/project/reference-verifier/) | 0.2.2 | Aurora Lab <auroralab.skills@… | 66.1 kB | Check that every reference in your paper exists, against Crossref, OpenAlex, DB… |
-| 2026-11-02 10:46:46 | [greenroom](https://pypi.org/project/greenroom/) | 0.0.1 | Ben Horsburgh | 10.2 kB | A greenroom-themed Snake game for your terminal |
-| 2026-11-02 10:47:22 | [DefChord-Uvicorn](https://pypi.org/project/DefChord-Uvicorn/) | 0.1.11 | Heo Yongseon | 1.2 MB | The Modern Synchronous Python Web Application Framework |
-| 2026-11-02 10:47:22 | [garisenda](https://pypi.org/project/garisenda/) | 0.0.1 | Konner Horton | 6.3 kB | Ground movements from tunneling and their effect on utilities and buildings, tr… |
-| 2026-11-02 10:47:27 | [DefChord](https://pypi.org/project/DefChord/) | 0.1.11 | Heo Yongseon | 1.3 MB | The Modern Synchronous Python Web Application Framework |
-| 2026-11-02 10:49:40 | [rookoid](https://pypi.org/project/rookoid/) | 0.1.0 | rookoid contributors | 117.4 kB | Rootless Docker Engine API daemon for Termux/Android using PRoot |
-| 2026-11-02 10:50:34 | [fwi-chain](https://pypi.org/project/fwi-chain/) | 1.0.0 | Giuseppe Zileni | 23.5 kB | Canadian Fire Weather Index chain (Van Wagner 1987): pure, typed, zero-dependen… |
-| 2026-11-02 10:52:32 | [errgrade](https://pypi.org/project/errgrade/) | 0.1.0 | mgkvibez | 29.0 kB | Grade the error messages your code raises: what broke, where, and what to do ne… |
-| 2026-11-02 10:53:19 | [postmortem-cli](https://pypi.org/project/postmortem-cli/) | 0.1.0 | mgkvibez | 30.4 kB | Postmortems produce action items that quietly vanish. Parse them, track them, p… |
-| 2026-11-02 10:53:54 | [spizzle](https://pypi.org/project/spizzle/) | 0.1.0 | James Davies <jdavies@mpia.de> | 132.1 kB | Drizzle as an explicit sparse linear operator, in float64 |
-| 2026-11-02 10:54:05 | [kcert](https://pypi.org/project/kcert/) | 0.2.0 | Satabarto Sarkar, Prithwineel… | 42.5 kB | Certified, label-free auditing of the perception layer of rule-based systems: s… |
-| 2026-11-02 10:54:07 | [idemcheck](https://pypi.org/project/idemcheck/) | 0.1.0 | mgkvibez | 19.3 kB | Find the HTTP handlers that will double-charge when a client retries. |
-| 2026-11-02 10:54:35 | [oceanborn](https://pypi.org/project/oceanborn/) | 1.0 | Sandro Agostini <sandro.agost… | 20.3 kB | Consistent, publication-ready Matplotlib styling and figure saving. |
-| 2026-11-02 10:55:03 | [psylog](https://pypi.org/project/psylog/) | 0.1.3 | SRSteinkamp <rewardgym@mailbo… | 81.6 kB | psylog provides a flexible long-format logging class for experiments in psychol… |
-| 2026-11-02 10:55:11 | [djox](https://pypi.org/project/djox/) | 0.1.0 | daniprol | 15.3 MB | Truly async Django ORM with a Rust core. Fast and readable, with hooks for libr… |
-| 2026-11-02 10:55:51 | [countersig](https://pypi.org/project/countersig/) | 1.0.3 |  | 13.6 kB | Python SDK for the Countersig NHI governance API |
-| 2026-11-02 10:57:20 | [DefPixel-Sqlite](https://pypi.org/project/DefPixel-Sqlite/) | 0.1.5 | Heo Yongseon | 498.4 kB | The Python toolkit to define data connections, design data models, and dive int… |
-| 2026-11-02 10:57:35 | [ucits-etf-issuer-holdings](https://pypi.org/project/ucits-etf-issuer-holdings/) | 0.1.0 | Dylan Merigaud | 202.1 kB | Full holdings of a UCITS ETF by ISIN, read from the issuer's own published file… |
-| 2026-11-02 10:58:16 | [base90-rag](https://pypi.org/project/base90-rag/) | 0.1.0 | Flowerdance <admin@example.co… | 10.4 kB | 超极速、零算力、零幻觉的纯文本 RAG 检索结构 (Base90 极简硬路由) |
-| 2026-11-02 10:58:34 | [greptimedb-ingester-grpc](https://pypi.org/project/greptimedb-ingester-grpc/) | 0.1.2 |  | 13.4 MB | Internal native backend for greptimedb-ingester[grpc] |
-| 2026-11-02 11:00:17 | [codeowners-drift](https://pypi.org/project/codeowners-drift/) | 0.1.0 | mgkvibez | 19.1 kB | Which paths have no code owner, which owners have gone quiet, and which rules m… |
-| 2026-11-02 11:01:12 | [spacepad](https://pypi.org/project/spacepad/) | 0.1.0 | Cade | 2.7 kB | A clone of the left pad library, but with more stuff |
-| 2026-11-02 11:04:00 | [slime-mc](https://pypi.org/project/slime-mc/) | 1.0.0 | Slime contributors | 131.8 kB | A friendly Minecraft server manager for PaperMC servers, with a TUI and a CLI. |
-| 2026-11-02 11:05:40 | [sk-speech](https://pypi.org/project/sk-speech/) | 0.1.0 | iproxy3d | 10.4 MB | Research toolkit for speech analysis, transformation, synthesis, filtering and… |
-| 2026-11-02 11:06:29 | [namibrapay](https://pypi.org/project/namibrapay/) | 0.1.0 | NamibraPay <developers@namibr… | 41.8 kB | Official NamibraPay SDK for Python — collections, payouts, verification and web… |
-| 2026-11-02 11:07:28 | [vesk-cli](https://pypi.org/project/vesk-cli/) | 0.1.2 | Vesk | 49.6 kB | Vesk Verify: test LLM endpoints and produce compliance-mapped reports. |
-| 2026-11-02 11:09:08 | [qqbotsdk-base-py](https://pypi.org/project/qqbotsdk-base-py/) | 2.0.0 | snowy-yang | 60.4 kB | QQ 官方机器人 SDK 基座包：模型基类、共享消息模型与 HTTP 会话 |
-| 2026-11-02 11:09:10 | [qqbotsdk-guild-py](https://pypi.org/project/qqbotsdk-guild-py/) | 2.0.0 | snowy-yang | 45.3 kB | QQ 官方机器人 SDK 频道域子包：guild / channel / 成员 / 身份组 / 公告 / 精华 / 日程 / 论坛 / 私信 |
-| 2026-11-02 11:12:28 | [arch-insight-mcp](https://pypi.org/project/arch-insight-mcp/) | 0.1.8 |  | 47.7 kB | Model Context Protocol server for ARCH-Insight: search fact sheets, application… |
-| 2026-11-02 11:14:09 | [pyelectrochemreader](https://pypi.org/project/pyelectrochemreader/) | 0.1.0 |  | 134.1 kB | Simple electrochemical file readers in Python and NumPy |
-| 2026-11-02 11:14:16 | [cakeui](https://pypi.org/project/cakeui/) | 0.1.0 |  | 71.3 kB | Build desktop apps with Python and a web frontend. No Rust, no bundler required. |
-| 2026-11-02 11:14:36 | [cakeui-cli](https://pypi.org/project/cakeui-cli/) | 0.1.0 |  | 78.9 kB | Command line tool for CakeUI desktop apps: new, dev, info, build. |
-| 2026-11-02 11:17:54 | [insurance-claim-mcp](https://pypi.org/project/insurance-claim-mcp/) | 0.1.0 | seothief | 99.8 kB | MCP service that matches medical receipts against insurance policies (informati… |
+| 2026-11-02 11:21:28 | [epirefine](https://pypi.org/project/epirefine/) | 0.10.0 | Søren Heidelbach <shei@bio.aa… | 163.6 kB | Refine metagenome bins from nanopore methylation: flag contaminants and place u… |
+| 2026-11-02 11:21:35 | [ahco-rust](https://pypi.org/project/ahco-rust/) | 0.1.1 |  | 192.5 kB | Rust implementation of AHCO-v3 continuous black-box optimization |
+| 2026-11-02 11:21:44 | [ukceh-time-stream](https://pypi.org/project/ukceh-time-stream/) | 4.0.1 | Richard Smith <ricsmi@ceh.ac.… | 936.9 kB | Time-Stream: Time Series Toolkit for Rapid Environmental Analysis and Monitoring |
+| 2026-11-02 11:23:00 | [cachee](https://pypi.org/project/cachee/) | 1.0.0 | kya dekh rha hai luvday | 27.9 kB | Teri Maa ne bhoot ke sath suhagrat rachai thi woh bhoot huh mein |
+| 2026-11-02 11:23:46 | [minimindslab-csv-dialect-suggest](https://pypi.org/project/minimindslab-csv-dialect-suggest/) | 0.1.0 | MiniMindsLab | 7.9 kB | Heuristically suggest a CSV dialect from a text sample using only local inspect… |
+| 2026-11-02 11:25:24 | [nlalpha-talib](https://pypi.org/project/nlalpha-talib/) | 0.2.0 |  | 41.1 kB | TA-Lib indicator capability provider for NLAlpha |
+| 2026-11-02 11:26:27 | [pyjournalexport](https://pypi.org/project/pyjournalexport/) | 0.1.0 | The Home Assistant Authors <h… | 2.6 MB | Incremental parser for the systemd journal export format |
+| 2026-11-02 11:27:09 | [sentexts](https://pypi.org/project/sentexts/) | 0.4.1 |  | 37.1 kB | Local text storage, reads and explicit uploads with Yandex Object Storage |
+| 2026-11-02 11:28:19 | [thememasterchat](https://pypi.org/project/thememasterchat/) | 0.1.0.1 | Theme Master | 85.8 kB | a python library for fetching youtube live chat (fork of pytchat-ng, imports as… |
+| 2026-11-02 11:32:42 | [icon-quantize](https://pypi.org/project/icon-quantize/) | 1.0.1 | "Dr. Jaydeep Singh (GUF)" <ti… | 70.7 kB | Shrink ICON model netCDF output by controlled, verified precision reduction and… |
+| 2026-11-02 11:33:24 | [acp-host-client](https://pypi.org/project/acp-host-client/) | 0.1.3 |  | 8.7 kB | acp-host 的薄客户端：起进程、按行 JSON 收事件 |
+| 2026-11-02 11:34:20 | [doonroute](https://pypi.org/project/doonroute/) | 0.2.0 | Garvit Choudhary <garvitchoud… | 841.4 kB | High-performance random-point routing and Dijkstra benchmarking on Dehradun's r… |
+| 2026-11-02 11:35:35 | [wecom-messager](https://pypi.org/project/wecom-messager/) | 0.2.0 | WangNan <me@wangnan.net> | 57.6 kB | Configurable WeCom application message sender |
+| 2026-11-02 11:36:11 | [jaxidem](https://pypi.org/project/jaxidem/) | 0.5.1 | Evan Tate Paterson Hughes <et… | 90.8 kB | Integro-difference Equation Models for Python-JAX |
+| 2026-11-02 11:38:15 | [debind](https://pypi.org/project/debind/) | 0.0.1 |  | 3.5 kB | Turn any document into verified, structured text with paragraph-level provenanc… |
+| 2026-11-02 11:39:11 | [damage-control-dev](https://pypi.org/project/damage-control-dev/) | 0.1.1 | dotdev <dev@dotdev.dev> | 471.6 kB | Damage control for AI coding agents: a PreToolUse guard that blocks or asks bef… |
+| 2026-11-02 11:39:32 | [buaa-network-autologin](https://pypi.org/project/buaa-network-autologin/) | 0.2.0 | WangNan <me@wangnan.net> | 70.5 kB | BUAA campus gateway monitor with local-network safety checks |
+| 2026-11-02 11:45:36 | [nonebot-plugin-group-chat-memory](https://pypi.org/project/nonebot-plugin-group-chat-memory/) | 0.1.0 | TonyLiangP2010405 | 56.4 kB | 为 NoneBot2 群聊提供共享长期记忆、点名对话和按群概率回复 |
+| 2026-11-02 11:46:16 | [kerras](https://pypi.org/project/kerras/) | 0.1.0 |  | 5.2 MB | Personal Deep Learning code snippets |
+| 2026-11-02 11:47:49 | [RNGram](https://pypi.org/project/RNGram/) | 2.2.26 | Renboys <renboysid@gmail.com>… | 7.3 MB | Elegant, modern and asynchronous Telegram MTProto API framework in Python (Fork… |
+| 2026-11-02 11:53:17 | [png-alpha-benchmark-toolkit](https://pypi.org/project/png-alpha-benchmark-toolkit/) | 1.0.2 | TopPNG | 2.9 kB | Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization… |
+| 2026-11-02 11:53:25 | [keyveil](https://pypi.org/project/keyveil/) | 0.3.0 |  | 145.6 kB | Localhost reverse proxy that injects API credentials held only in RAM into HTTP… |
+| 2026-11-02 11:56:19 | [stepdoc](https://pypi.org/project/stepdoc/) | 0.2.0 | Guillermo Gil | 188.1 kB | Turn test code into test documentation: procedures with symbolic values and exe… |
+| 2026-11-02 11:56:51 | [qopai-suite](https://pypi.org/project/qopai-suite/) | 0.1.5 |  | 176.4 kB | qopai aggregate suite with DataHub |
+| 2026-11-02 12:02:33 | [netlab-ui](https://pypi.org/project/netlab-ui/) | 0.0.2 |  | 22.6 MB | Web UI for netlab and containerlab: draw, deploy and monitor network labs in th… |
+| 2026-11-02 12:02:56 | [solyx-energy-local-api-client](https://pypi.org/project/solyx-energy-local-api-client/) | 0.1.0 |  | 15.1 kB | Async client for the local API of the Solyx Energy Sensorbox |
+| 2026-11-02 12:04:20 | [rootrewind](https://pypi.org/project/rootrewind/) | 1.1.2 | sarahsalary | 308.3 kB | RootRewind: historical log replay, incident timelines and evidence-based root-c… |
+| 2026-11-02 12:04:41 | [gl-smartsort](https://pypi.org/project/gl-smartsort/) | 0.1.2 | Martin J. Maiers | 19.3 kB | Smart-sort GL Strings into a canonical order. |
+| 2026-11-02 12:04:41 | [tba-concrete-claim-cwt-subject](https://pypi.org/project/tba-concrete-claim-cwt-subject/) | 0.4.0.dev2 |  | 2.3 kB |  |
+| 2026-11-02 12:06:32 | [hw-cloudrobo-ingestion](https://pypi.org/project/hw-cloudrobo-ingestion/) | 0.3.0 | Huawei Cloud CloudRobo Team <… | 155.6 kB | CloudRobo local data ingestion daemon |
+| 2026-11-02 12:06:48 | [tba-concrete-claim-subject-identifiers](https://pypi.org/project/tba-concrete-claim-subject-identifiers/) | 0.4.0.dev2 |  | 3.0 kB |  |
+| 2026-11-02 12:08:18 | [flow-lang-toolkit](https://pypi.org/project/flow-lang-toolkit/) | 0.1.0 |  | 152.2 kB | Typed Python functions for Flow Tools. |
+| 2026-11-02 12:09:35 | [tba-concrete-claim-title](https://pypi.org/project/tba-concrete-claim-title/) | 0.4.0.dev2 |  | 2.5 kB |  |
+| 2026-11-02 12:12:11 | [tba-concrete-claim-transaction-id](https://pypi.org/project/tba-concrete-claim-transaction-id/) | 0.4.0.dev2 |  | 2.7 kB |  |
+| 2026-11-02 12:12:14 | [wodi-nacos-mcp-server](https://pypi.org/project/wodi-nacos-mcp-server/) | 0.1.0 |  | 35.8 kB | A simple Nacos MCP Server |
+| 2026-11-02 12:14:16 | [tba-concrete-claim-transaction-token-hash](https://pypi.org/project/tba-concrete-claim-transaction-token-hash/) | 0.4.0.dev2 |  | 3.1 kB | Standalone WIMSE tth claim implementation. |
+| 2026-11-02 12:16:23 | [tba-concrete-claim-ueid](https://pypi.org/project/tba-concrete-claim-ueid/) | 0.4.0.dev2 |  | 2.5 kB |  |
+| 2026-11-02 12:17:30 | [musicdropper](https://pypi.org/project/musicdropper/) | 1.0.0 | Adrian Knagg-Baugh <10564093-… | 281.0 kB | KDE drop target that copies music to a folder/device, converting it to a chosen… |
+| 2026-11-02 12:17:56 | [shapescript](https://pypi.org/project/shapescript/) | 0.1.0b1 |  | 42.2 MB | Tensor programs whose shapes are checked before they run |

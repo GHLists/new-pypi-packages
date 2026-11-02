@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 55,
-    "from": "2026-11-02T10:20:42.830637Z",
-    "path": "data/new-packages-2026-11-02T11-18-29-404206Z.csv",
-    "to": "2026-11-02T11:18:29.404206Z"
+    "count": 39,
+    "from": "2026-11-02T11:18:29.404206Z",
+    "path": "data/new-packages-2026-11-02T12-18-08-626444Z.csv",
+    "to": "2026-11-02T12:18:08.626444Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-02T11:04:00Z",
       "package": "frontdesk",
       "since": "2026-11-02T10:20:42.830637Z",
       "version": "1.0.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-02T12:02:59Z",
+      "package": "shadlet",
+      "since": "2026-11-02T11:18:29.404206Z",
+      "version": "0.1.0"
     }
   ],
-  "serial": 43085400,
+  "serial": 43087080,
   "source_truncated": false,
-  "window": "2026-11-02T11:18:29.404206Z"
+  "window": "2026-11-02T12:18:08.626444Z"
 }
