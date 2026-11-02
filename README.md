@@ -8,52 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 09:18 UTC
+## Latest list — 2026-11-02 10:20 UTC
 
-New packages created between 2026-11-02 08:18 UTC and 2026-11-02 09:18 UTC.
+New packages created between 2026-11-02 09:18 UTC and 2026-11-02 10:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T09-18-24-57594Z.csv)
+[Full CSV](data/new-packages-2026-11-02T10-20-42-830637Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 08:18:52 | [metergate](https://pypi.org/project/metergate/) | 1.0.0 | MeterGate Contributors <wu001… | 414.7 kB | MeterGate: Zero-Dependency, Zero-Telemetry Local AI Agent 3-Tier Firewall, Offi… |
-| 2026-11-02 08:19:49 | [hongzhao](https://pypi.org/project/hongzhao/) | 0.1.0rc1 | hongzhao contributors | 122.2 kB | A file-based, human-gated memory ledger for AI coding agents |
-| 2026-11-02 08:20:41 | [tabmancer](https://pypi.org/project/tabmancer/) | 0.1.0 | Sinan Tüfekci | 615.9 kB | A terminal dashboard for coding-agent sessions (Claude Code, Codex, Antigravity… |
-| 2026-11-02 08:21:10 | [webbridge-tools](https://pypi.org/project/webbridge-tools/) | 1.0.0 | F&S Bondtec Semiconductor GmbH | 45.2 kB | The Python code generator for the webbridge C++ framework (C++ registration + T… |
-| 2026-11-02 08:21:12 | [tba-concrete-claim-sd-hash](https://pypi.org/project/tba-concrete-claim-sd-hash/) | 0.4.0.dev2 |  | 2.5 kB |  |
-| 2026-11-02 08:21:31 | [opspulse-sdk](https://pypi.org/project/opspulse-sdk/) | 0.1.0 |  | 25.1 kB | OpsPulse Python SDK — send events from your backend services without ever break… |
-| 2026-11-02 08:22:59 | [stltosolid](https://pypi.org/project/stltosolid/) | 0.6.0 | Chris Venter | 711.1 kB | Convert STL/OBJ meshes into prismatic STEP solids via extrusion-structure recog… |
-| 2026-11-02 08:23:54 | [tba-concrete-claim-security-events](https://pypi.org/project/tba-concrete-claim-security-events/) | 0.4.0.dev2 |  | 2.8 kB |  |
-| 2026-11-02 08:23:56 | [waves-lawn-tools](https://pypi.org/project/waves-lawn-tools/) | 1.2.0 | Waves Pest Control, LLC | 48.9 kB | Florida lawn-watering math (sprinkler runtime to inches per week, a weekly plan… |
-| 2026-11-02 08:24:48 | [dockingbird](https://pypi.org/project/dockingbird/) | 0.0.1 | Zeusfyi | 3.0 kB | Dockingbird by Zeusfyi installs from Zeusfyi's licensed package index; this pac… |
-| 2026-11-02 08:26:09 | [tba-concrete-claim-session-id](https://pypi.org/project/tba-concrete-claim-session-id/) | 0.4.0.dev2 |  | 3.0 kB |  |
-| 2026-11-02 08:28:44 | [tba-concrete-claim-state-hash](https://pypi.org/project/tba-concrete-claim-state-hash/) | 0.4.0.dev2 |  | 3.0 kB |  |
-| 2026-11-02 08:31:01 | [tba-concrete-claim-subject](https://pypi.org/project/tba-concrete-claim-subject/) | 0.4.0.dev2 |  | 2.6 kB |  |
-| 2026-11-02 08:38:14 | [openwave-modeldiff](https://pypi.org/project/openwave-modeldiff/) | 0.2.0 | OpenWave India | 99.1 kB | Regression testing for local AI: compare model outputs across versions, configu… |
-| 2026-11-02 08:42:18 | [cavity-encoding-ml](https://pypi.org/project/cavity-encoding-ml/) | 0.1.0 | Hadyan Hafizh, Pintu Lohar | 66.6 kB | Cavity encoding and leakage-safe validation for machine learning on multi-cavit… |
-| 2026-11-02 08:43:49 | [browser-harness-hermes-compat](https://pypi.org/project/browser-harness-hermes-compat/) | 0.1.13.post1 |  | 245.0 kB | Independent Hermes compatibility distribution of Browser Harness with Pillow 13… |
-| 2026-11-02 08:44:50 | [rword-convert](https://pypi.org/project/rword-convert/) | 0.1.0 |  | 13.0 MB | Headless docx to PDF conversion (PyO3 bindings over the rword kernel) |
-| 2026-11-02 08:45:35 | [django-partial-dates](https://pypi.org/project/django-partial-dates/) | 0.1.0 | Sam Jennings | 46.0 kB | A Django model field for dates known to the year, the month or the day |
-| 2026-11-02 08:45:36 | [finishup](https://pypi.org/project/finishup/) | 0.3.0 | Shay Ben Shabtay | 10.1 MB | A local-first evidence ledger and review engine for agent work. FinishUP was pr… |
-| 2026-11-02 08:51:40 | [codeterrain](https://pypi.org/project/codeterrain/) | 0.3.0 | Mitbolas GmbH | 486.8 kB | terrain: answers about your code in under a second. Local, LLM-free structure f… |
-| 2026-11-02 08:52:33 | [codeterrain-terraform](https://pypi.org/project/codeterrain-terraform/) | 0.2.0 | Mitbolas GmbH | 20.2 kB | Terraform for codeterrain: resources, modules, providers and references of .tf… |
-| 2026-11-02 08:52:54 | [codeterrain-typescript](https://pypi.org/project/codeterrain-typescript/) | 0.1.0 | Mitbolas GmbH | 25.5 kB | TypeScript and JavaScript for codeterrain: front-end HTTP calls read with tree-… |
-| 2026-11-02 08:53:03 | [osca-engine](https://pypi.org/project/osca-engine/) | 1.0.0 | Samir Baladi | 1.8 MB | OSCA: Origin, Semantic, and Consequence Authority — A Multi-Tier Authorization… |
-| 2026-11-02 08:53:31 | [pyhttp-app](https://pypi.org/project/pyhttp-app/) | 2.0.1 | pyhttp Dev Team <dev@pyhttp.c… | 1.3 MB | A local, Postman-like HTTP client with a collection runner, scripts and an MCP… |
-| 2026-11-02 08:54:31 | [otter-agent](https://pypi.org/project/otter-agent/) | 0.6.0 | Zzz777-coder | 621.2 kB | Otter — 轻量本地通用 AI 助手:编码/文件/命令/网页/日常,OpenAI 兼容 + Anthropic 原生,双层记忆与 Skill |
-| 2026-11-02 08:57:47 | [burdenoff-hookmovies-sdk](https://pypi.org/project/burdenoff-hookmovies-sdk/) | 2026.1102.1 | "Vignesh T.V" <vignesh@algosh… | 35.2 kB | Official Python SDK for Hookmovies — thin shell over burdenoff-sdk-libs |
-| 2026-11-02 08:58:03 | [craftsman-gate](https://pypi.org/project/craftsman-gate/) | 4.1.0 | Rafał Buczyński <buczynski.ra… | 723.0 kB | Make AI coding agents prove they reviewed and tested their change |
-| 2026-11-02 08:58:08 | [crawlerkeeper-sdk](https://pypi.org/project/crawlerkeeper-sdk/) | 0.2.1 | CrawlerKeeper Team | 29.0 kB | CrawlerKeeper 爬虫 SDK：日志上报、结果写入、任务参数解析、TLS 指纹请求、代理管理与并发线程池 |
-| 2026-11-02 08:58:59 | [tokenguard-ratelimit](https://pypi.org/project/tokenguard-ratelimit/) | 1.0.0 | Udesna Bhattarai | 249.3 kB | A token-aware, Redis-backed rate limiter for Django, built for LLM APIs |
-| 2026-11-02 09:02:37 | [auth-claim-audit](https://pypi.org/project/auth-claim-audit/) | 0.1.0 | auth-claim-audit contributors | 22.7 kB | Offline audit of documentation credential claims against Python evidence |
-| 2026-11-02 09:02:46 | [security-claim-audit](https://pypi.org/project/security-claim-audit/) | 0.1.0 | security-claim-audit contribu… | 18.2 kB | Offline static auditing of documented execution-safety promises |
-| 2026-11-02 09:02:55 | [determinism-claim-audit](https://pypi.org/project/determinism-claim-audit/) | 0.1.0 |  | 7.8 kB | Offline static audit of documented Python determinism claims |
-| 2026-11-02 09:03:03 | [zero-config-claim-audit](https://pypi.org/project/zero-config-claim-audit/) | 0.1.0 | zero-config-claim-audit contr… | 23.1 kB | Offline audit of documented config requirements against Python source |
-| 2026-11-02 09:04:25 | [hellhound-spider](https://pypi.org/project/hellhound-spider/) | 14.2 | Sree Danush S <lazzer@gmail.c… | 261.4 kB | Autonomous web crawler and recon engine for security testing — SPA + Non-SPA cr… |
-| 2026-11-02 09:08:51 | [anosys-sdk-anthropic](https://pypi.org/project/anosys-sdk-anthropic/) | 1.0.0 | AnoSys <support@anosys.ai> | 35.2 kB | AnoSys SDK for Anthropic - Automatic instrumentation and logging for Anthropic… |
-| 2026-11-02 09:09:07 | [anosys-sdk-claude-agents](https://pypi.org/project/anosys-sdk-claude-agents/) | 1.0.0 | AnoSys <support@anosys.ai> | 44.7 kB | AnoSys SDK for the Claude Agent SDK - Automatic tracing of Claude agents, tools… |
-| 2026-11-02 09:09:28 | [opcua-nodeset-linker](https://pypi.org/project/opcua-nodeset-linker/) | 0.1.1a0 | Andreas Heine | 815.9 kB | Semantic dependency linker and tree shaker for OPC UA Information Models. |
-| 2026-11-02 09:10:51 | [cypache](https://pypi.org/project/cypache/) | 0.1.0 | Source61 | 4.2 MB | Secure, fast HTTP server for Python, built on fastepoll |
-| 2026-11-02 09:13:35 | [willcore](https://pypi.org/project/willcore/) | 0.1.0 | Tom Sapletta <tom@sapletta.co… | 52.6 kB | willcore — kontrakty SSOT ekosystemu willmux (zdarzenia, paragony, rejestr DSL) |
-| 2026-11-02 09:16:38 | [talos-sv](https://pypi.org/project/talos-sv/) | 0.1.0 |  | 404.4 MB | An ahead-of-time SystemVerilog simulator |
-| 2026-11-02 09:16:55 | [shellmux](https://pypi.org/project/shellmux/) | 0.1.2 | Tom Sapletta <tom@sapletta.co… | 83.1 kB | shellmux — composition root powłoki dla ekosystemu willmux (SSOT: patrz docs/AR… |
+| 2026-11-02 09:18:11 | [subactor-reflex](https://pypi.org/project/subactor-reflex/) | 0.1.0 | Subactor | 90.2 kB | Evidence-first learning loop for agent and tool work |
+| 2026-11-02 09:20:19 | [searxng-sem-reranker](https://pypi.org/project/searxng-sem-reranker/) | 0.2.0 | Peng Ding <pding.dp@foxmail.c… | 169.3 kB | Semantic embedding and cross-encoder reranking plugin for SearXNG, with no runt… |
+| 2026-11-02 09:20:49 | [shellui-django](https://pypi.org/project/shellui-django/) | 0.1.0 | Sébastien Barbier | 39.3 kB | Shared Django libraries for Shellui services |
+| 2026-11-02 09:21:01 | [willapp](https://pypi.org/project/willapp/) | 0.1.0 |  | 17.3 kB | Integrated application orchestrator running Willman core and Willgui |
+| 2026-11-02 09:22:11 | [jupyterlab-ipe-midnight-theme](https://pypi.org/project/jupyterlab-ipe-midnight-theme/) | 0.1.0 | Eduardo Campos <eduardotcampo… | 112.8 kB | A comfy dark JupyterLab theme, adapted from the Ipe Midnight Neovim colorscheme. |
+| 2026-11-02 09:24:14 | [dwy-payment](https://pypi.org/project/dwy-payment/) | 0.3.0 |  | 53.6 kB | 可复用支付插件:渠道流水、微信 Native,不绑定具体商品 |
+| 2026-11-02 09:24:46 | [causeline](https://pypi.org/project/causeline/) | 0.1.0a0 | BGSudharma | 44.0 kB | Causeline for Python: puts FastAPI requests and LangChain calls in the same tra… |
+| 2026-11-02 09:25:34 | [daytona-upgrade](https://pypi.org/project/daytona-upgrade/) | 0.1.0 |  | 544.5 kB | Upgrade Daytona 0.x Python projects to SDK 2.x on the v0 namespace |
+| 2026-11-02 09:25:39 | [flyitalyadsb](https://pypi.org/project/flyitalyadsb/) | 0.1.0 | FlyItalyADSB <info@flyitalyad… | 48.5 kB | Official Python client for the FlyItalyADSB ADS-B API: live aircraft positions… |
+| 2026-11-02 09:28:04 | [isomorphism](https://pypi.org/project/isomorphism/) | 0.1.0 | Seya Weber | 22.6 kB | Reversible anonymisation of Swiss personal data (AHV, IBAN, UID, phone, email)… |
+| 2026-11-02 09:29:11 | [tess-ui](https://pypi.org/project/tess-ui/) | 0.5.1.8 | Phil Hodgins <philip.a.hodgin… | 3.2 MB | A pyCopper-style declarative Python GUI framework, powered by the Tesserae Rend… |
+| 2026-11-02 09:30:01 | [autoude-mcp](https://pypi.org/project/autoude-mcp/) | 0.1.0 | dandre430 | 97.4 kB | Drive PLS UDE Studio on Windows from any AI agent via MCP. |
+| 2026-11-02 09:30:40 | [andi-mcp](https://pypi.org/project/andi-mcp/) | 0.4.0 |  | 104.2 kB | ANDI single-document MCP server (feasibility POC) over the AURIX RC1 PARS DITA… |
+| 2026-11-02 09:33:28 | [yxd-framework](https://pypi.org/project/yxd-framework/) | 0.1.0 |  | 2.0 MB |  |
+| 2026-11-02 09:34:39 | [askovo](https://pypi.org/project/askovo/) | 2.7.0 | Roy.Tong | 2.4 MB | Askovo — scene-to-business reasoning with auditable evidence for PM, research,… |
+| 2026-11-02 09:39:55 | [feiying](https://pypi.org/project/feiying/) | 1.0.2 | feiying | 1.6 MB | 飞影 · MacCMS 播放器外壳，多数据源，一条命令自建 |
+| 2026-11-02 09:39:55 | [llama-index-readers-x402-cleanweb](https://pypi.org/project/llama-index-readers-x402-cleanweb/) | 0.1.0 | nohosa001-pixel <nohosa001@gm… | 9.9 kB | LlamaIndex official data reader integration for x402 CleanWeb Studio (87% token… |
+| 2026-11-02 09:40:44 | [anosys-antigravity](https://pypi.org/project/anosys-antigravity/) | 0.1.0 | AnoSys <support@anosys.ai> | 50.0 kB | AnoSys observability hook for Google Antigravity CLI/IDE |
+| 2026-11-02 09:42:40 | [ffn-verify](https://pypi.org/project/ffn-verify/) | 0.1.0 | Sweet Papa Technologies LLC | 138.0 kB | FFN Verified Business public verifier: registry record, both signatures, status… |
+| 2026-11-02 09:45:01 | [growovo](https://pypi.org/project/growovo/) | 0.3.0 | Roy Tong | 355.0 kB | Agent-native GTM operator kernel: reviewed playbooks, authorized accounts, quot… |
+| 2026-11-02 09:48:58 | [super-agent-bedrock](https://pypi.org/project/super-agent-bedrock/) | 0.5.0 |  | 115.1 kB | SUPER AGENT: a Bedrock-backed AWS and Kubernetes operations assistant |
+| 2026-11-02 09:49:53 | [sgnl-mcp](https://pypi.org/project/sgnl-mcp/) | 0.1.0 | Igor Gritsyuk <gritsyuk.igor@… | 72.4 kB | MCP server giving an LLM agent controlled access to the SIGNAL Integration API |
+| 2026-11-02 09:50:02 | [nlalpha-performance](https://pypi.org/project/nlalpha-performance/) | 0.6.0 |  | 66.0 kB | Performance analytics capability provider for NLAlpha |
+| 2026-11-02 09:55:09 | [cyberfw](https://pypi.org/project/cyberfw/) | 2.0.0 |  | 785.3 kB | Integrated Cybersecurity Framework in Python |
+| 2026-11-02 09:56:58 | [datus-athena](https://pypi.org/project/datus-athena/) | 0.1.0 | DatusAI <support@datus.ai> | 79.6 kB | AWS Athena database adapter for Datus using the official boto3 SDK |
+| 2026-11-02 10:00:33 | [mangono-addon-report_pdf_chunked](https://pypi.org/project/mangono-addon-report_pdf_chunked/) | 16.0.1.0.0 | Mangono <opensource+odoo@mang… | 4.1 kB |  |
+| 2026-11-02 10:04:34 | [mcp-server-edgar](https://pypi.org/project/mcp-server-edgar/) | 0.1.0 | Sudipto Haldar | 87.2 kB | Latest SEC filing and calendar-year filing history for a stock ticker, with off… |
+| 2026-11-02 10:08:40 | [domyn-swarm](https://pypi.org/project/domyn-swarm/) | 0.35.0 | Federico D'Ambrosio <federico… | 464.8 kB | CLI and programmatic API to launch LLM inference endpoints on Slurm, using simp… |
+| 2026-11-02 10:12:05 | [maskveil](https://pypi.org/project/maskveil/) | 0.1.0 | purple-ocean-ego | 152.3 kB | Shape-following region censor: ONNX detection, contour masks, and mosaic/blur/b… |
+| 2026-11-02 10:16:40 | [meshioplusplus-mmg](https://pypi.org/project/meshioplusplus-mmg/) | 18.0.0 |  | 32.3 MB | MMG remesher for meshio++: adapt, discretize_levelset, mesh_domain and move (mo… |
+| 2026-11-02 10:17:23 | [scipion-chem-lephar](https://pypi.org/project/scipion-chem-lephar/) | 3.3.3 | Daniel Del Hoyo Gomez | 146.9 kB | Scipion-chem plugin for LePhar software use |
+| 2026-11-02 10:20:16 | [recapi](https://pypi.org/project/recapi/) | 0.4.1 |  | 68.5 kB | Python client for the recapi recommendation API: per-user history, event batchi… |
+| 2026-11-02 10:20:18 | [lotuslamp-x-ble](https://pypi.org/project/lotuslamp-x-ble/) | 1.0.0 |  | 33.3 kB | BLE controller library for Lotuslamp X Panel |

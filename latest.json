@@ -1,34 +1,20 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-11-02T08:18:13.596812Z",
-    "path": "data/new-packages-2026-11-02T09-18-24-57594Z.csv",
-    "to": "2026-11-02T09:18:24.57594Z"
+    "count": 33,
+    "from": "2026-11-02T09:18:24.57594Z",
+    "path": "data/new-packages-2026-11-02T10-20-42-830637Z.csv",
+    "to": "2026-11-02T10:20:42.830637Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-11-02T05:22:32Z",
-      "package": "kbot-installer",
-      "since": "2026-11-02T05:18:22.81552Z",
-      "version": "2.0.5"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-02T09:18:11Z",
-      "package": "subactor-reflex",
-      "since": "2026-11-02T08:18:13.596812Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-02T06:29:03Z",
       "package": "unicode-lossful-format",
       "since": "2026-11-02T06:19:23.362295Z",
       "version": "0.1.0"
     }
   ],
-  "serial": 43081088,
+  "serial": 43083196,
   "source_truncated": false,
-  "window": "2026-11-02T09:18:24.57594Z"
+  "window": "2026-11-02T10:20:42.830637Z"
 }
