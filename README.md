@@ -8,70 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 16:19 UTC
+## Latest list — 2026-11-02 17:19 UTC
 
-New packages created between 2026-11-02 15:20 UTC and 2026-11-02 16:19 UTC.
+New packages created between 2026-11-02 16:19 UTC and 2026-11-02 17:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T16-19-38-295709Z.csv)
+[Full CSV](data/new-packages-2026-11-02T17-19-52-154657Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 15:21:05 | [gh-organizer](https://pypi.org/project/gh-organizer/) | 1.1.1 | Nero <castillovegarodolfogilb… | 1.1 MB | Una TUI para organizar tus repositorios de GitHub en colecciones personalizadas |
-| 2026-11-02 15:22:29 | [artil-hermes](https://pypi.org/project/artil-hermes/) | 0.4.2 | Artil <support@artil.ai> | 9.3 kB | Give Hermes agents their own email inbox, phone number, and workspace accounts… |
-| 2026-11-02 15:22:30 | [tba-concrete-cose](https://pypi.org/project/tba-concrete-cose/) | 0.4.0.dev2 |  | 7.8 kB | Deterministic provider-free COSE behavior. |
-| 2026-11-02 15:22:34 | [complying-machine](https://pypi.org/project/complying-machine/) | 0.0.1 | Machina Ratiocinatrix <machin… | 49.5 kB | A machine that complies with rules and orders. |
-| 2026-11-02 15:23:52 | [guide-rs](https://pypi.org/project/guide-rs/) | 0.2.0 | Brandon Greenwell <greenwell.… | 5.7 MB | scikit-learn estimators for GUIDE-style classification and regression trees |
-| 2026-11-02 15:23:54 | [pytransdecoder](https://pypi.org/project/pytransdecoder/) | 0.2.1 | Brian Haas, ported to python… | 12.4 MB | TransDecoder, the original Perl version ported to Python by AI/LLMs with new fe… |
-| 2026-11-02 15:24:30 | [pyclilogin](https://pypi.org/project/pyclilogin/) | 0.1.1 | Chris Birch <datapointchris@g… | 62.0 kB | Device-grant login for Python CLIs: one config file, a keychain token store wit… |
-| 2026-11-02 15:24:33 | [pyapiauth](https://pypi.org/project/pyapiauth/) | 0.1.0 | Chris Birch <datapointchris@g… | 21.8 kB | Verify an OIDC provider's RFC 9068 access tokens inside a Python web API, with… |
-| 2026-11-02 15:25:17 | [tba-concrete-credential-api-key](https://pypi.org/project/tba-concrete-credential-api-key/) | 0.4.0.dev2 |  | 2.6 kB |  |
-| 2026-11-02 15:25:50 | [amagi-draftbench](https://pypi.org/project/amagi-draftbench/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 90.4 kB | Find the draft model (or n-gram lookup) that speeds up your local LLM: speculat… |
-| 2026-11-02 15:27:15 | [tba-concrete-credential-client-secret](https://pypi.org/project/tba-concrete-credential-client-secret/) | 0.4.0.dev2 |  | 2.7 kB |  |
-| 2026-11-02 15:27:36 | [oshd](https://pypi.org/project/oshd/) | 1.1.0 | Ricard Marsal <ricard.marsal@… | 287.6 kB | Download, synchronize and turn the OSHD multimodal robotics dataset (events, RG… |
-| 2026-11-02 15:29:21 | [tba-concrete-credential-dpop-key](https://pypi.org/project/tba-concrete-credential-dpop-key/) | 0.4.0.dev2 |  | 3.2 kB |  |
-| 2026-11-02 15:29:40 | [tesserae-el](https://pypi.org/project/tesserae-el/) | 0.1.0 | Mind Derivative | 154.3 kB | TEL, the Tesserae Expression Language: a small, safe expression language for YA… |
-| 2026-11-02 15:30:20 | [nr-powerflow-solver](https://pypi.org/project/nr-powerflow-solver/) | 1.0.1 | Haris Zafar | 85.7 kB | Sparse CSC Newton-Raphson AC power-flow solver with PV Q-limit switching, N-1 c… |
-| 2026-11-02 15:31:20 | [lambdawalker-conda](https://pypi.org/project/lambdawalker-conda/) | 0.1.0 | LambdaWalker <lambdawalker@is… | 6.4 kB | Conda environment interface utilities for LambdaWalker |
-| 2026-11-02 15:31:35 | [lambdawalker-file](https://pypi.org/project/lambdawalker-file/) | 0.1.0 | LambdaWalker <lambdawalker@is… | 12.1 kB | File and path utilities for LambdaWalker |
-| 2026-11-02 15:31:51 | [lambdawalker-list](https://pypi.org/project/lambdawalker-list/) | 0.1.0 | LambdaWalker <lambdawalker@is… | 3.9 kB | List utilities for LambdaWalker |
-| 2026-11-02 15:32:06 | [lambdawalker-log](https://pypi.org/project/lambdawalker-log/) | 0.1.0 | LambdaWalker <lambdawalker@is… | 5.0 kB | Profiling and logging utilities for LambdaWalker |
-| 2026-11-02 15:32:22 | [tba-concrete-credential-mfa](https://pypi.org/project/tba-concrete-credential-mfa/) | 0.4.0.dev2 |  | 2.5 kB |  |
-| 2026-11-02 15:34:54 | [tba-concrete-credential-mtls-certificate](https://pypi.org/project/tba-concrete-credential-mtls-certificate/) | 0.4.0.dev2 |  | 3.6 kB |  |
-| 2026-11-02 15:35:15 | [csa-secid](https://pypi.org/project/csa-secid/) | 0.1.0 | Cloud Security Alliance <rese… | 26.2 kB | Resolve security identifiers to URLs using the SecID API |
-| 2026-11-02 15:35:36 | [photonic-engines](https://pypi.org/project/photonic-engines/) | 0.2.1 | Jean Senellart, Benjamin Stot… | 898.0 kB | Exact GPU simulation and sampling engines for linear-optical quantum computing |
-| 2026-11-02 15:37:22 | [tba-concrete-credential-passkey](https://pypi.org/project/tba-concrete-credential-passkey/) | 0.4.0.dev2 |  | 2.9 kB |  |
-| 2026-11-02 15:37:28 | [midas-nx-mcp](https://pypi.org/project/midas-nx-mcp/) | 0.1.0 | Dennis | 38.4 kB | Local MCP server for MIDAS Gen NX / Civil NX, built on midas-nx - not an offici… |
-| 2026-11-02 15:38:11 | [luma-observe-sdk](https://pypi.org/project/luma-observe-sdk/) | 0.1.0 |  | 92.0 kB | Optional OpenTelemetry application integration and Grafana configuration for Lu… |
-| 2026-11-02 15:38:11 | [odoo-addon-proxy-trusted-hops](https://pypi.org/project/odoo-addon-proxy-trusted-hops/) | 16.0.1.0.0.3 | Ametras intelligence GmbH, Od… | 28.7 kB | Configure how many reverse proxies Odoo trusts for the client IP |
-| 2026-11-02 15:38:59 | [kostral](https://pypi.org/project/kostral/) | 0.1.1b1 |  | 96.8 kB | ... |
-| 2026-11-02 15:39:32 | [cli-anything-brissoto-pay](https://pypi.org/project/cli-anything-brissoto-pay/) | 1.0.0 |  | 115.8 kB | Set apps up in the Brissoto Pay gateway from a coding agent. |
-| 2026-11-02 15:42:13 | [jardiscordengine](https://pypi.org/project/jardiscordengine/) | 0.1.0 | Nathan Jarjarbin <nathan.amar… | 199.2 kB | Wrapper over PyCord providing simple and easy-to-use API. |
-| 2026-11-02 15:47:27 | [arabic-fixtures](https://pypi.org/project/arabic-fixtures/) | 0.1.0 | Alaa Taieb | 14.0 kB | RTL test fixtures (Arabic, Persian, Hebrew) for checking PDF, OG-image and char… |
-| 2026-11-02 15:47:52 | [trec-eval](https://pypi.org/project/trec-eval/) | 10.0.0 | trec_eval contributors | 193.4 kB | Windows x64 Python API and CLI for the NIST trec_eval reference evaluator |
-| 2026-11-02 15:48:10 | [unleap](https://pypi.org/project/unleap/) | 0.1.0 | Zeke Piskulich <piskulichz@gm… | 54.2 kB | Recover a ligand's mol2, frcmod and OFF lib from a built Amber parm7/rst7 system |
-| 2026-11-02 15:49:10 | [modi-operandi](https://pypi.org/project/modi-operandi/) | 0.0.1 | Machina Ratiocinatrix <machin… | 6.1 kB | Modes of operation. |
-| 2026-11-02 15:52:17 | [tba-concrete-credential-password](https://pypi.org/project/tba-concrete-credential-password/) | 0.4.0.dev2 |  | 2.6 kB |  |
-| 2026-11-02 15:52:46 | [polalign](https://pypi.org/project/polalign/) | 1.0.0 |  | 178.3 kB | An audit framework for LLM alignment with human subgroups, based on polarization |
-| 2026-11-02 15:54:29 | [deepdraw-opt](https://pypi.org/project/deepdraw-opt/) | 0.1.1 | Cell Ethology Lab <jerry@west… | 372.4 kB | Active learning for genetic circuit design |
-| 2026-11-02 15:55:20 | [ice_shelf_state_and_fate](https://pypi.org/project/ice_shelf_state_and_fate/) | 0.1.0 | Earthwave Ltd | 107.0 kB | DTC-IS State and fate of Antarctic Ice Shelves module enables users to gain ins… |
-| 2026-11-02 15:56:04 | [tba-concrete-credential-password-reset](https://pypi.org/project/tba-concrete-credential-password-reset/) | 0.4.0.dev2 |  | 2.8 kB |  |
-| 2026-11-02 15:57:38 | [agent-failure-lab](https://pypi.org/project/agent-failure-lab/) | 0.1.0 | Hasnat Ahmad | 222.3 kB | A catalogue of LLM agent failures with deterministic reproductions and tested g… |
-| 2026-11-02 15:58:42 | [bascet](https://pypi.org/project/bascet/) | 0.0.1 | Margo Atkinson | 22.8 kB | bascet = BASic CEnsus Tables. A way to easily grab some tables from the America… |
-| 2026-11-02 15:58:45 | [tenko-plugin-tarot](https://pypi.org/project/tenko-plugin-tarot/) | 0.1.0 |  | 22.0 MB | Tenko 塔罗牌：今日塔罗、三张牌阵和凯尔特十字占卜，牌面是 B 站幻星集 |
-| 2026-11-02 15:59:28 | [tba-concrete-credential-service-key](https://pypi.org/project/tba-concrete-credential-service-key/) | 0.4.0.dev2 |  | 2.6 kB |  |
-| 2026-11-02 16:00:05 | [mistralai-workflows-plugins-triggers](https://pypi.org/project/mistralai-workflows-plugins-triggers/) | 0.1.0 | Mistral AI <support@mistral.a… | 75.8 kB | Triggers plugin for Mistral Workflows |
-| 2026-11-02 16:02:29 | [tba-concrete-cwt](https://pypi.org/project/tba-concrete-cwt/) | 0.4.0.dev2 |  | 4.7 kB | Deterministic provider-free CWT claims-set objects. |
-| 2026-11-02 16:04:14 | [mattesola](https://pypi.org/project/mattesola/) | 0.0.1 | Jacky <jacky@gmail.com> | 11.9 MB | Mattesola package |
-| 2026-11-02 16:06:19 | [so6-file-converter](https://pypi.org/project/so6-file-converter/) | 0.1.0 | O | 9.6 kB | Convert .SO6 flight traffic files into pandas DataFrames |
-| 2026-11-02 16:06:31 | [pcx-module](https://pypi.org/project/pcx-module/) | 0.5.0 |  | 2.8 MB | A pcx module in Python, on the Rust core of pcx. |
-| 2026-11-02 16:07:12 | [tba-concrete-cwt-svid-extension-credential](https://pypi.org/project/tba-concrete-cwt-svid-extension-credential/) | 0.4.0.dev2 |  | 3.5 kB | Experimental Tigrbl CWT-SVID extension credential object. |
-| 2026-11-02 16:07:14 | [chromparser](https://pypi.org/project/chromparser/) | 0.1.0 | Sebastian Rejman | 137.5 kB | Read chromatography raw files (Chromeleon, Thermo, Agilent, Shimadzu) into one… |
-| 2026-11-02 16:09:54 | [archi-kb](https://pypi.org/project/archi-kb/) | 3.0.0 |  | 1.1 MB | Operations automation for scientific computing: agents propose actions, people… |
-| 2026-11-02 16:10:45 | [warp-optix](https://pypi.org/project/warp-optix/) | 0.2.0 | "R. Keith Morley" <kmorley@nv… | 460.4 kB | Warp ray tracing with PyOptiX |
-| 2026-11-02 16:11:12 | [tba-concrete-device-identity](https://pypi.org/project/tba-concrete-device-identity/) | 0.4.0.dev2 |  | 3.0 kB | Standalone concrete device identity model. |
-| 2026-11-02 16:11:16 | [isipsafe](https://pypi.org/project/isipsafe/) | 0.1.0 | WaveCentric <sasi@wavecentric… | 34.6 kB | Official Python client and CLI for isIPsafe: check IP reputation, report abusiv… |
-| 2026-11-02 16:12:06 | [snapir](https://pypi.org/project/snapir/) | 0.1.0 |  | 492.9 kB | Toolkit for temporal information retrieval datasets |
-| 2026-11-02 16:14:53 | [tba-concrete-did](https://pypi.org/project/tba-concrete-did/) | 0.4.0.dev2 |  | 7.1 kB | Deterministic DID Core parsing and document validation. |
-| 2026-11-02 16:16:42 | [jpl-debias-2018](https://pypi.org/project/jpl-debias-2018/) | 2023.3.1.1 | B612 Asteroid Institute <info… | 18.7 MB | JPL EFCC18 astrometric catalog-debias reference data |
-| 2026-11-02 16:17:30 | [immport-mcp](https://pypi.org/project/immport-mcp/) | 1.4.0 |  | 117.1 kB | MCP server for ImmPort, the NIAID immunology data repository: search studies, f… |
-| 2026-11-02 16:18:15 | [tba-concrete-did-document](https://pypi.org/project/tba-concrete-did-document/) | 0.4.0.dev2 |  | 4.1 kB | Standalone DID document identity artifact. |
+| 2026-11-02 12:19:09 | [moseq2-common](https://pypi.org/project/moseq2-common/) | 1.5.0 | Datta Lab | 17.1 kB | Code shared by the MoSeq2 packages. |
+| 2026-11-02 16:20:07 | [studio-kit](https://pypi.org/project/studio-kit/) | 0.1.0 |  | 59.2 kB | Retoques locales de imagen para las fichas de Omnitok Studio (trim, crop, color… |
+| 2026-11-02 16:21:31 | [tba-concrete-dpop-confirmation-binding](https://pypi.org/project/tba-concrete-dpop-confirmation-binding/) | 0.4.0.dev2 |  | 4.5 kB | Deterministic DPoP confirmation binding validation. |
+| 2026-11-02 16:22:33 | [msgboard](https://pypi.org/project/msgboard/) | 0.0.0 | Hugging Face | 1.6 kB | A message board for agents and people. Placeholder release; the real package is… |
+| 2026-11-02 16:24:10 | [tba-concrete-eat-evidence](https://pypi.org/project/tba-concrete-eat-evidence/) | 0.4.0.dev2 |  | 3.0 kB |  |
+| 2026-11-02 16:26:02 | [canopen-bench](https://pypi.org/project/canopen-bench/) | 1.0.170 | NobseVomBerg | 1.6 MB | CANopen Bench — web-based test bench and machine control for CANopen devices: s… |
+| 2026-11-02 16:26:51 | [ownta-mcp](https://pypi.org/project/ownta-mcp/) | 0.1.0 |  | 83.7 kB | OWNTA MCP server (stdio): image generation, image ops, and read-only skill/libr… |
+| 2026-11-02 16:29:52 | [envloop-envhub](https://pypi.org/project/envloop-envhub/) | 1.23.0 |  | 23.7 kB | Dependency-free ANS protocol and verified downloads |
+| 2026-11-02 16:30:42 | [blenderui](https://pypi.org/project/blenderui/) | 0.1.0 | BUI contributors | 2.1 MB | Blender's UI as a library: run tkinter apps unchanged, write Qt-style code, or… |
+| 2026-11-02 16:31:15 | [envloop-cli-experiment](https://pypi.org/project/envloop-cli-experiment/) | 1.23.0 |  | 66.2 kB | EnvLoop experiment client functionality installed with the base client |
+| 2026-11-02 16:33:25 | [pydaarem](https://pypi.org/project/pydaarem/) | 0.1.0 | pydaarem contributors | 41.8 kB | Python interpretation of DAAREM fixed-point acceleration |
+| 2026-11-02 16:33:32 | [django-mz-users](https://pypi.org/project/django-mz-users/) | 0.1.0a1 | Miroslav Zvolský | 11.5 kB | Custom user model and user management for Django projects of the django-mz fami… |
+| 2026-11-02 16:34:35 | [tba-concrete-eat](https://pypi.org/project/tba-concrete-eat/) | 0.4.0.dev2 |  | 7.7 kB |  |
+| 2026-11-02 16:38:05 | [tba-concrete-identity-assurance](https://pypi.org/project/tba-concrete-identity-assurance/) | 0.4.0.dev2 |  | 3.7 kB |  |
+| 2026-11-02 16:40:05 | [premiere-prproj-reader](https://pypi.org/project/premiere-prproj-reader/) | 0.1.0 | Dylan Merigaud | 456.6 kB | Read Adobe Premiere Pro project files (.prproj): sequences, tracks, clips, medi… |
+| 2026-11-02 16:40:17 | [lanerouter](https://pypi.org/project/lanerouter/) | 0.1.0 | LaneRouter | 18.8 kB | Live road conditions for the agent web. Check a website or API before your agen… |
+| 2026-11-02 16:42:33 | [glintscan](https://pypi.org/project/glintscan/) | 0.2.1 | Sanjeet Kumar | 175.8 kB | Offline security scanner for AI agent configs, prompts and MCP servers. |
+| 2026-11-02 16:43:12 | [tba-concrete-jose](https://pypi.org/project/tba-concrete-jose/) | 0.4.0.dev2 |  | 18.1 kB | Deterministic provider-free JOSE behavior. |
+| 2026-11-02 16:43:38 | [matrix-oauth-login](https://pypi.org/project/matrix-oauth-login/) | 0.1.0 | Dylan Merigaud | 77.3 kB | Matrix OAuth 2.0 login for Python: discovery, registration, device code and bro… |
+| 2026-11-02 16:46:14 | [tba-concrete-machine-identity](https://pypi.org/project/tba-concrete-machine-identity/) | 0.4.0.dev2 |  | 3.0 kB | Standalone concrete machine identity model. |
+| 2026-11-02 16:49:37 | [somestuff-uptimekumastuff](https://pypi.org/project/somestuff-uptimekumastuff/) | 0.4.0 | Henning Thieß <ht@xomox.cc> | 82.8 kB | Uptime Kuma 2.x provisioning and migration: direct Socket.IO client with idempo… |
+| 2026-11-02 16:50:41 | [tba-concrete-service-identity](https://pypi.org/project/tba-concrete-service-identity/) | 0.4.0.dev2 |  | 3.1 kB | Standalone concrete service identity model. |
+| 2026-11-02 16:52:27 | [blokjutsu](https://pypi.org/project/blokjutsu/) | 1.0.0rc1 | Bob Carpenter | 295.6 kB | A local, permissively licensed, open-source Mac app for generating and editing… |
+| 2026-11-02 16:53:13 | [insitukit](https://pypi.org/project/insitukit/) | 0.1.0 | Long Horizon Observatory <dfr… | 101.4 kB | Fetch, summarise and publish in situ ocean observations: NOAA CO-OPS and ERDDAP… |
+| 2026-11-02 16:55:24 | [tba-concrete-user-identity](https://pypi.org/project/tba-concrete-user-identity/) | 0.4.0.dev2 |  | 2.5 kB | Standalone concrete user identity model. |
+| 2026-11-02 16:56:51 | [invoist](https://pypi.org/project/invoist/) | 1.0.1 | Invoist | 95.8 kB | The official Python library for the Invoist API: read invoices and receipts int… |
+| 2026-11-02 16:59:14 | [adk-ledger](https://pypi.org/project/adk-ledger/) | 0.1.0 | Ravi Dalal | 405.6 kB | Token, cost, tool-call, cache and budget metering for Google ADK agents, export… |
+| 2026-11-02 17:01:57 | [PyQt6-Pdf-Qt6](https://pypi.org/project/PyQt6-Pdf-Qt6/) | 6.140.0 | Riverbank Computing Limited | 19.0 MB | The subset of a Qt installation needed by PyQt6-Pdf. |
+| 2026-11-02 17:02:17 | [dmipy-tract](https://pypi.org/project/dmipy-tract/) | 0.1.0 | Rutger Fick <fick.rutger@gmai… | 93.9 kB | Streamline tractography on FOD fields, batched on the JAX device |
+| 2026-11-02 17:03:34 | [PyQt6-Pdf](https://pypi.org/project/PyQt6-Pdf/) | 6.140.0 | Riverbank Computing Limited <… | 679.5 kB | Python bindings for the Qt PDF module |
+| 2026-11-02 17:03:37 | [inspect4all](https://pypi.org/project/inspect4all/) | 0.1.0 | Boon Heng Chew <s2831745@sms.… | 7.9 MB | Language agnostic tool for inspecting and understanding software repositories |
+| 2026-11-02 17:04:02 | [rainfall-thresholds](https://pypi.org/project/rainfall-thresholds/) | 0.1.0 | Giuseppe Zileni | 26.6 kB | Rainfall intensity-duration thresholds for shallow landslides (Caine power law,… |
+| 2026-11-02 17:04:43 | [promptforge-llm](https://pypi.org/project/promptforge-llm/) | 1.0.0 | Alex Jurow <teletoo51@yahoo.c… | 43.7 kB | System prompt generator for LLM agents with JSON export for OpenAI and Anthropi… |
+| 2026-11-02 17:06:38 | [girder-local-checkout](https://pypi.org/project/girder-local-checkout/) | 5.0.23.dev7 | Kitware, Inc. | 43.6 kB | Temporarily copy S3 assetstore data to a filesystem assetstore. |
+| 2026-11-02 17:06:44 | [ntropi](https://pypi.org/project/ntropi/) | 0.8.0 | Entropi | 134.3 kB | Python SDK and runtime for the Entropi stack — the nbot cognitive-compute node,… |
+| 2026-11-02 17:07:19 | [plumcraft-engine](https://pypi.org/project/plumcraft-engine/) | 0.1.0 | Sean D. True, Swapwizard LLC | 380.6 kB | PlumCraft's Python engine SDK and the text engine in Python, speaking protocol… |
+| 2026-11-02 17:08:20 | [mlflow-triton](https://pypi.org/project/mlflow-triton/) | 0.4.0 |  | 66.1 kB | MLflow logging wrappers and portable Triton model repositories |
+| 2026-11-02 17:11:10 | [schedr](https://pypi.org/project/schedr/) | 0.1.0 | Piotr Tutak <p.tutak@outlook.… | 87.4 MB | schedr scheduler: Python DAG API (native and Airflow look-alike) plus the sched… |
+| 2026-11-02 17:12:04 | [pyquickbase](https://pypi.org/project/pyquickbase/) | 0.1.0a1 | Matthew Williams | 114.7 kB | An unofficial, typed Python SDK for the Quickbase API, with sync and async clie… |
+| 2026-11-02 17:12:11 | [scopix](https://pypi.org/project/scopix/) | 0.1.0 | Zahid Hasan | 381.0 kB | Local-first, dependency-aware code context selection engine for AI coding agent… |
+| 2026-11-02 17:12:17 | [arc56-generated-jayav-36ed77a8](https://pypi.org/project/arc56-generated-jayav-36ed77a8/) | 1.2.2026072010 | jayaveerR | 12.0 kB | Generated ARC-56 Algorand smart-contract clients for jayaveerR/IPFS-Algorand-St… |
+| 2026-11-02 17:13:22 | [arc56-generated-jc-ki-8b045d03](https://pypi.org/project/arc56-generated-jc-ki-8b045d03/) | 1.2.2026072010 | jc-kirthi | 14.2 kB | Generated ARC-56 Algorand smart-contract clients for jc-kirthi/RapidAuth. |
+| 2026-11-02 17:14:24 | [blicket](https://pypi.org/project/blicket/) | 0.1.0 | Tobias Diez <code@tobiasdiez.… | 1.6 MB | Storybook for scientific model outputs: named views on model runs. |
+| 2026-11-02 17:14:26 | [arc56-generated-joe-p-733c279f](https://pypi.org/project/arc56-generated-joe-p-733c279f/) | 1.2.2026072010 | joe-p | 29.6 kB | Generated ARC-56 Algorand smart-contract clients for joe-p/algorand-phala-oracl… |
+| 2026-11-02 17:14:49 | [forcingkit-client](https://pypi.org/project/forcingkit-client/) | 0.1.0 | Long Horizon Observatory <dfr… | 94.8 kB | Lightweight Python client for a forcingkit service: ocean, atmosphere and stati… |
+| 2026-11-02 17:15:21 | [dex-connector-brevo](https://pypi.org/project/dex-connector-brevo/) | 0.1.0 |  | 87.2 kB | Brevo connector for Dex Flows |
+| 2026-11-02 17:15:30 | [arc56-generated-joe-p-arc58](https://pypi.org/project/arc56-generated-joe-p-arc58/) | 1.2.2026072010 | joe-p | 29.2 kB | Generated ARC-56 Algorand smart-contract clients for joe-p/arc58. |
+| 2026-11-02 17:15:30 | [llama-index-graph-stores-mushroomdb](https://pypi.org/project/llama-index-graph-stores-mushroomdb/) | 0.10.1 |  | 29.1 kB | LlamaIndex PropertyGraphStore backed by the mushroomdb embedded graph database |
+| 2026-11-02 17:15:51 | [sealkeeper](https://pypi.org/project/sealkeeper/) | 0.1.0 | The SealKeeper Authors | 59.7 kB | Look up and verify SealKeeper SEALs, and gate agent and service calls on them. |
+| 2026-11-02 17:16:14 | [regent-wallet-signer](https://pypi.org/project/regent-wallet-signer/) | 0.1.0 |  | 50.8 kB | The client's half of a 2-of-2 Privy wallet governed by Regent: co-signs an x402… |
+| 2026-11-02 17:17:22 | [iotpack](https://pypi.org/project/iotpack/) | 0.1.0 | Konrad Zuse | 8.7 kB | A simple Python generator for MQTT and CoAP IoT projects |
+| 2026-11-02 17:17:59 | [whyfull](https://pypi.org/project/whyfull/) | 0.1.0 | Ahmed Laban | 70.3 kB | Find out why your Linux disk is full: deleted-but-open files, Docker, journald,… |
+| 2026-11-02 17:18:09 | [tryverdictguard-sdk](https://pypi.org/project/tryverdictguard-sdk/) | 1.0.0 |  | 29.5 kB | Python SDK for Verdict Core authenticated tool-intent evaluation |
