@@ -1,20 +1,12 @@
 {
   "list": {
     "count": 27,
-    "from": "2026-11-02T01:18:11.545532Z",
-    "path": "data/new-packages-2026-11-02T02-19-54-889844Z.csv",
-    "to": "2026-11-02T02:19:54.889844Z"
+    "from": "2026-11-02T02:19:54.889844Z",
+    "path": "data/new-packages-2026-11-02T03-18-13-902223Z.csv",
+    "to": "2026-11-02T03:18:13.902223Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-11-01T22:31:30Z",
-      "package": "radiuma-suv",
-      "since": "2026-11-01T22:18:08.811591Z",
-      "version": "0.0.0"
-    }
-  ],
-  "serial": 43069511,
+  "pending": [],
+  "serial": 43070701,
   "source_truncated": false,
-  "window": "2026-11-02T02:19:54.889844Z"
+  "window": "2026-11-02T03:18:13.902223Z"
 }

@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T02:21:01Z,wikiq,0.3.0,"Benjamin Mako Hill, Nathan TeBlunthuis, Will Beason, Sohyeon Hwang, Kaylea Champion",GPL-3.0-or-later,84928,Convert MediaWiki XML database dumps into tabular datasets for research
+2026-11-02T02:23:52Z,instruction.md,0.2.0,TSOK Inc.,MIT OR Apache-2.0,317214,"Read, check, resolve and verify instruction.md files (the specification's first edition, instruction/1), and follow them from a registry"
+2026-11-02T02:25:08Z,logsfacilitator,0.1.0,,,8480,My tools for logging and performance measurement
+2026-11-02T02:29:25Z,fluidlayer,2.0.0,Kapil Dhinwa,MIT,339422,A research memory layer for language models using cellular-sheaf diffusion
+2026-11-02T02:30:31Z,fontpkg-noto-naskh-arabic,2.21,,OFL-1.1,165495,"Noto Naskh Arabic font family, packaged for Python by fontpkg"
+2026-11-02T02:30:33Z,fontpkg-cantarell,1.4,,OFL-1.1,110923,"Cantarell font family, packaged for Python by fontpkg"
+2026-11-02T02:30:35Z,fontpkg-noto-sans-mono,2.14,,OFL-1.1,1001575,"Noto Sans Mono font family, packaged for Python by fontpkg"
+2026-11-02T02:30:38Z,fontpkg-special-elite,1.1,,Apache-2.0,102899,"Special Elite font family, packaged for Python by fontpkg"
+2026-11-02T02:30:55Z,dask-ms-2,0.2.33,Simon Perkins <simon.perkins@gmail.com>,BSD-3-Clause,335347,xarray Dataset from CASA Tables
+2026-11-02T02:35:03Z,genmagic,0.1.0,GenMagic <hello@genmagic.co>,MIT,18370,"Official GenMagic client and CLI: one API key and one pay-as-you-go balance for 460+ AI models. Generate images, video with sound, speech, music and text with Veo, Kling, Seedance, Wan, Nano Banana,…"
+2026-11-02T02:37:10Z,aerial-bindings-cuphy,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1076,Zero version placeholder for aerial_bindings_cuphy
+2026-11-02T02:37:11Z,aerial-bindings,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1062,Zero version placeholder for aerial_bindings
+2026-11-02T02:37:13Z,aerial-bindings-channels,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1084,Zero version placeholder for aerial_bindings_channels
+2026-11-02T02:37:13Z,aerial-bindings-cumac,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1079,Zero version placeholder for aerial_bindings_cumac
+2026-11-02T02:40:39Z,py-dgii-ecf,0.2.2,Deuri Vasquez,MIT,115889,"DGII e-CF electronic invoicing SDK for the Dominican Republic — authenticate, sign (XMLDSig/C14N) and transmit electronic tax documents."
+2026-11-02T02:42:07Z,ninada,4.0.0,Hemanth HM <hemanth@h3manth.com>,MIT,88336,Ninada (निनाद) — Streaming 24 kHz Native Per-Language Studio VITS neural text-to-speech for Classical Sanskrit & 5 Indian languages (6 dedicated ~28 MB W8A32+FP16 ONNX specialists for Browser WASM SI…
+2026-11-02T02:42:31Z,deepseek-search-cli,0.1.0,twn39,MIT,38149,DeepSeek Search and Fetch CLI tool based on httpx and typer
+2026-11-02T02:42:58Z,porestore,0.1.0a1,,MIT,71371,Python client for the PoreStore API
+2026-11-02T02:43:27Z,aei-history-contract,0.2.0,,Apache-2.0,25258,"Velorona local-history contract: HistoryRecord schema, retention/size pruning, deterministic 'what changed' rules and CSV export (Python reference + JS port)."
+2026-11-02T02:44:15Z,solidworks-mcp-python,1.5.0,Andrew Bartels,MIT,2760154,"Python MCP server for SolidWorks: lets Claude and other AI agents build parts, assemblies and drawings through the SolidWorks COM API."
+2026-11-02T02:47:06Z,rpaorch-bot,0.1.0,Botit <equipo-rpa@botit.io>,Apache-2.0,69619,"Estándar de bots de RPAOrch (rpaorch/v1): esqueleto para RPA Framework y comando para crear, validar, probar y empaquetar bots"
+2026-11-02T02:47:32Z,luna-hydro,0.1.0,Ulrich Philipp Steinwandel,BSD-3-Clause,1252277,"Differentiable astrophysical hydrodynamics in JAX, from one CPU to many GPUs"
+2026-11-02T03:01:10Z,scdr-002,3.0.4,,,5310,SCDR-002 - TOLUCA-GLOBAL-e8d9eac8
+2026-11-02T03:10:38Z,crawlora-cricbuzz,0.1.0,Crawlora,MIT,69220,"Crawlora Cricbuzz API client with 29 endpoints for cricket matches, schedules, news, rankings, series, and records"
+2026-11-02T03:11:25Z,langchain-postbye,1.0.0,Postbye Team <support@postbye.com>,MIT,12143,"LangChain tools for Postbye's public cancellation-guide MCP server: search companies, get cancellation guides and cancellation letters."
+2026-11-02T03:11:38Z,ghostbase-cli,0.1.0,4yk5 <contact.4yk5@proton.me>,MIT,46894,"A fast, keyboard-driven terminal database studio for SQLite, PostgreSQL & MySQL"
+2026-11-02T03:14:24Z,ragleap-physical,0.0.1,,MIT,105029,"Simulation-first, observe-first bridge between RagLeap and open-source simulators (pre-alpha)."

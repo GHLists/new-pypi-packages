@@ -8,38 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 02:19 UTC
+## Latest list — 2026-11-02 03:18 UTC
 
-New packages created between 2026-11-02 01:18 UTC and 2026-11-02 02:19 UTC.
+New packages created between 2026-11-02 02:19 UTC and 2026-11-02 03:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T02-19-54-889844Z.csv)
+[Full CSV](data/new-packages-2026-11-02T03-18-13-902223Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 01:20:02 | [nvda-mcp](https://pypi.org/project/nvda-mcp/) | 1.0.0 | InfiArtt <info@infiartt.com> | 74.8 kB | MCP server that lets AI assistants work with the NVDA screen reader through the… |
-| 2026-11-02 01:22:11 | [douda](https://pypi.org/project/douda/) | 0.1.2 | Douda contributors | 18.7 kB | A terminal snake game with a shared, self-hostable leaderboard |
-| 2026-11-02 01:29:49 | [inspect-drex](https://pypi.org/project/inspect-drex/) | 0.1.0 | Nace AI <hello@nace.ai> | 262.6 kB | An Inspect (UK AISI) scorer backed by Drex decision models from Nace |
-| 2026-11-02 01:29:58 | [getlogbook](https://pypi.org/project/getlogbook/) | 0.0.1 | Veertej Sehdave | 113.4 kB | Commit-anchored shared memory for AI-assisted repos (stdlib only). |
-| 2026-11-02 01:33:24 | [holland2stay-alerts](https://pypi.org/project/holland2stay-alerts/) | 0.1.0 | Koorosh Komeilizadeh | 107.8 kB | Self-hosted alerts for new Holland2Stay and Codomo residences. |
-| 2026-11-02 01:35:58 | [roman-gladius](https://pypi.org/project/roman-gladius/) | 0.1.0a2 | Gladius contributors | 6.2 MB | Native Roman detector cutouts with parent metadata and explicit astrometry prov… |
-| 2026-11-02 01:36:21 | [traceleakcheck](https://pypi.org/project/traceleakcheck/) | 0.1.0 | Preet Saini | 469.7 kB | Prove your AI app's OpenTelemetry export doesn't leak secrets: canary secrets +… |
-| 2026-11-02 01:37:38 | [scientific-reasoning-auditor](https://pypi.org/project/scientific-reasoning-auditor/) | 0.5.0 | Furox-Art | 82.2 kB | Evidence-traceable screening and reasoning review for scientific manuscripts |
-| 2026-11-02 01:38:49 | [realstop](https://pypi.org/project/realstop/) | 0.1.0 |  | 298.9 kB | Catches coding agents handing back work: a Claude Code Stop hook, its judge, an… |
-| 2026-11-02 01:45:54 | [yap-studio](https://pypi.org/project/yap-studio/) | 1.2.0 | Cathryn Lavery | 15.6 MB | Edits vertical videos from raw takes and verifies finished renders. |
-| 2026-11-02 01:47:57 | [agent-activity](https://pypi.org/project/agent-activity/) | 0.1.0 | Keith Connolly | 47.4 kB | Small, local SQLite task memory for coding agents, with a CLI and stdio MCP ser… |
-| 2026-11-02 01:48:18 | [stetdoc](https://pypi.org/project/stetdoc/) | 0.9.0 | Clauseo | 29.6 MB | Edit Word documents as tracked changes, for people and AI agents. The stetdoc c… |
-| 2026-11-02 01:48:20 | [qia-check](https://pypi.org/project/qia-check/) | 1.0.0 | Heuremen LLC | 19.4 kB | Checks on IBM Quantum calibration records before and after a run, from Heuremen… |
-| 2026-11-02 01:48:21 | [iris-check](https://pypi.org/project/iris-check/) | 1.0.0 | Heuremen LLC | 61.9 kB | Checks on language-model evaluation outputs before you trust them: reading shee… |
-| 2026-11-02 01:50:04 | [evalcull](https://pypi.org/project/evalcull/) | 0.0.0 |  | 1.4 kB | Placeholder; the first release follows. |
-| 2026-11-02 01:50:42 | [swiggy-scraper](https://pypi.org/project/swiggy-scraper/) | 0.1.0 | Buğrahan Saka | 34.3 kB | Scrape Swiggy dishes, restaurants and full menus (prices, variants, ratings, de… |
-| 2026-11-02 01:51:43 | [trevol](https://pypi.org/project/trevol/) | 0.1.0 | Joshua Montclair (Trevol) | 757.9 kB | SDK de Python para la API de Trevol: facturación electrónica ante la DIAN (Colo… |
-| 2026-11-02 02:03:59 | [osintkit](https://pypi.org/project/osintkit/) | 0.2.0 | osintkit contributors | 215.8 kB | Public-data OSINT aggregator for emails, usernames, domains, and companies |
-| 2026-11-02 02:09:21 | [newstack](https://pypi.org/project/newstack/) | 0.1.0 | Priyansh Kansara <pkansara041… | 76.7 kB | Scaffold a new project on any popular stack — every generated starter is proven… |
-| 2026-11-02 02:10:54 | [aplicacion-ventas3899](https://pypi.org/project/aplicacion-ventas3899/) | 0.1.0 | Raul Reaño | 7.3 kB | Paquete para gestionar ventas , precios , impuestos y descuentos. |
-| 2026-11-02 02:12:09 | [riggrade](https://pypi.org/project/riggrade/) | 0.1.0 |  | 264.4 kB | Independent GPU rig grading: free preflight check, paid x402 grade, MCP server |
-| 2026-11-02 02:12:59 | [MolMiner-graphs](https://pypi.org/project/MolMiner-graphs/) | 0.0.1 | Tony Eight Lin | 177.5 kB | For Creaming Molecular Graph Models |
-| 2026-11-02 02:14:19 | [repeatability-evals](https://pypi.org/project/repeatability-evals/) | 0.1.0 | Krishna Gogineni | 48.8 kB | Consistency evals for non-deterministic systems: LLM generation, agentic retrie… |
-| 2026-11-02 02:15:21 | [palfit](https://pypi.org/project/palfit/) | 0.1.0 | 112345brian | 25.9 kB | Fit a physical activity level (PAL) and maintenance calories to a weight log wi… |
-| 2026-11-02 02:15:31 | [dupefind](https://pypi.org/project/dupefind/) | 0.2.0 | Javier Lianes <javier@lianes8… | 65.4 kB | Find duplicate files by staged hashing: group by size, then partial hash, then… |
-| 2026-11-02 02:17:27 | [libscanner-unir](https://pypi.org/project/libscanner-unir/) | 1.0.1 |  | 12.6 MB | Чтение DataMatrix, Code 128, GS1-128 и EAN/UPC одним вызовом — universal barcod… |
-| 2026-11-02 02:18:27 | [aa-external-links](https://pypi.org/project/aa-external-links/) | 1.0.0 | Casey | 31.4 kB | Alliance Auth app that adds external website links to the sidebar, opening in a… |
+| 2026-11-02 02:21:01 | [wikiq](https://pypi.org/project/wikiq/) | 0.3.0 | Benjamin Mako Hill, Nathan Te… | 84.9 kB | Convert MediaWiki XML database dumps into tabular datasets for research |
+| 2026-11-02 02:23:52 | [instruction.md](https://pypi.org/project/instruction.md/) | 0.2.0 | TSOK Inc. | 317.2 kB | Read, check, resolve and verify instruction.md files (the specification's first… |
+| 2026-11-02 02:25:08 | [logsfacilitator](https://pypi.org/project/logsfacilitator/) | 0.1.0 |  | 8.5 kB | My tools for logging and performance measurement |
+| 2026-11-02 02:29:25 | [fluidlayer](https://pypi.org/project/fluidlayer/) | 2.0.0 | Kapil Dhinwa | 339.4 kB | A research memory layer for language models using cellular-sheaf diffusion |
+| 2026-11-02 02:30:31 | [fontpkg-noto-naskh-arabic](https://pypi.org/project/fontpkg-noto-naskh-arabic/) | 2.21 |  | 165.5 kB | Noto Naskh Arabic font family, packaged for Python by fontpkg |
+| 2026-11-02 02:30:33 | [fontpkg-cantarell](https://pypi.org/project/fontpkg-cantarell/) | 1.4 |  | 110.9 kB | Cantarell font family, packaged for Python by fontpkg |
+| 2026-11-02 02:30:35 | [fontpkg-noto-sans-mono](https://pypi.org/project/fontpkg-noto-sans-mono/) | 2.14 |  | 1.0 MB | Noto Sans Mono font family, packaged for Python by fontpkg |
+| 2026-11-02 02:30:38 | [fontpkg-special-elite](https://pypi.org/project/fontpkg-special-elite/) | 1.1 |  | 102.9 kB | Special Elite font family, packaged for Python by fontpkg |
+| 2026-11-02 02:30:55 | [dask-ms-2](https://pypi.org/project/dask-ms-2/) | 0.2.33 | Simon Perkins <simon.perkins@… | 335.3 kB | xarray Dataset from CASA Tables |
+| 2026-11-02 02:35:03 | [genmagic](https://pypi.org/project/genmagic/) | 0.1.0 | GenMagic <hello@genmagic.co> | 18.4 kB | Official GenMagic client and CLI: one API key and one pay-as-you-go balance for… |
+| 2026-11-02 02:37:10 | [aerial-bindings-cuphy](https://pypi.org/project/aerial-bindings-cuphy/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_bindings_cuphy |
+| 2026-11-02 02:37:11 | [aerial-bindings](https://pypi.org/project/aerial-bindings/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_bindings |
+| 2026-11-02 02:37:13 | [aerial-bindings-channels](https://pypi.org/project/aerial-bindings-channels/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_bindings_channels |
+| 2026-11-02 02:37:13 | [aerial-bindings-cumac](https://pypi.org/project/aerial-bindings-cumac/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for aerial_bindings_cumac |
+| 2026-11-02 02:40:39 | [py-dgii-ecf](https://pypi.org/project/py-dgii-ecf/) | 0.2.2 | Deuri Vasquez | 115.9 kB | DGII e-CF electronic invoicing SDK for the Dominican Republic — authenticate, s… |
+| 2026-11-02 02:42:07 | [ninada](https://pypi.org/project/ninada/) | 4.0.0 | Hemanth HM <hemanth@h3manth.c… | 88.3 kB | Ninada (निनाद) — Streaming 24 kHz Native Per-Language Studio VITS neural text-t… |
+| 2026-11-02 02:42:31 | [deepseek-search-cli](https://pypi.org/project/deepseek-search-cli/) | 0.1.0 | twn39 | 38.1 kB | DeepSeek Search and Fetch CLI tool based on httpx and typer |
+| 2026-11-02 02:42:58 | [porestore](https://pypi.org/project/porestore/) | 0.1.0a1 |  | 71.4 kB | Python client for the PoreStore API |
+| 2026-11-02 02:43:27 | [aei-history-contract](https://pypi.org/project/aei-history-contract/) | 0.2.0 |  | 25.3 kB | Velorona local-history contract: HistoryRecord schema, retention/size pruning,… |
+| 2026-11-02 02:44:15 | [solidworks-mcp-python](https://pypi.org/project/solidworks-mcp-python/) | 1.5.0 | Andrew Bartels | 2.8 MB | Python MCP server for SolidWorks: lets Claude and other AI agents build parts,… |
+| 2026-11-02 02:47:06 | [rpaorch-bot](https://pypi.org/project/rpaorch-bot/) | 0.1.0 | Botit <equipo-rpa@botit.io> | 69.6 kB | Estándar de bots de RPAOrch (rpaorch/v1): esqueleto para RPA Framework y comand… |
+| 2026-11-02 02:47:32 | [luna-hydro](https://pypi.org/project/luna-hydro/) | 0.1.0 | Ulrich Philipp Steinwandel | 1.3 MB | Differentiable astrophysical hydrodynamics in JAX, from one CPU to many GPUs |
+| 2026-11-02 03:01:10 | [scdr-002](https://pypi.org/project/scdr-002/) | 3.0.4 |  | 5.3 kB | SCDR-002 - TOLUCA-GLOBAL-e8d9eac8 |
+| 2026-11-02 03:10:38 | [crawlora-cricbuzz](https://pypi.org/project/crawlora-cricbuzz/) | 0.1.0 | Crawlora | 69.2 kB | Crawlora Cricbuzz API client with 29 endpoints for cricket matches, schedules,… |
+| 2026-11-02 03:11:25 | [langchain-postbye](https://pypi.org/project/langchain-postbye/) | 1.0.0 | Postbye Team <support@postbye… | 12.1 kB | LangChain tools for Postbye's public cancellation-guide MCP server: search comp… |
+| 2026-11-02 03:11:38 | [ghostbase-cli](https://pypi.org/project/ghostbase-cli/) | 0.1.0 | 4yk5 <contact.4yk5@proton.me> | 46.9 kB | A fast, keyboard-driven terminal database studio for SQLite, PostgreSQL & MySQL |
+| 2026-11-02 03:14:24 | [ragleap-physical](https://pypi.org/project/ragleap-physical/) | 0.0.1 |  | 105.0 kB | Simulation-first, observe-first bridge between RagLeap and open-source simulato… |
