@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T01:20:02Z,nvda-mcp,1.0.0,InfiArtt <info@infiartt.com>,GPL-2.0-or-later,74750,MCP server that lets AI assistants work with the NVDA screen reader through the NVDA MCP add-on.
+2026-11-02T01:22:11Z,douda,0.1.2,Douda contributors,MIT,18672,"A terminal snake game with a shared, self-hostable leaderboard"
+2026-11-02T01:29:49Z,inspect-drex,0.1.0,Nace AI <hello@nace.ai>,MIT,262594,An Inspect (UK AISI) scorer backed by Drex decision models from Nace
+2026-11-02T01:29:58Z,getlogbook,0.0.1,Veertej Sehdave,MIT,113447,Commit-anchored shared memory for AI-assisted repos (stdlib only).
+2026-11-02T01:33:24Z,holland2stay-alerts,0.1.0,Koorosh Komeilizadeh,MIT,107844,Self-hosted alerts for new Holland2Stay and Codomo residences.
+2026-11-02T01:35:58Z,roman-gladius,0.1.0a2,Gladius contributors,BSD-3-Clause,6178808,Native Roman detector cutouts with parent metadata and explicit astrometry provenance
+2026-11-02T01:36:21Z,traceleakcheck,0.1.0,Preet Saini,Apache-2.0,469725,"Prove your AI app's OpenTelemetry export doesn't leak secrets: canary secrets + a local OTLP receiver, in pytest."
+2026-11-02T01:37:38Z,scientific-reasoning-auditor,0.5.0,Furox-Art,MIT,82236,Evidence-traceable screening and reasoning review for scientific manuscripts
+2026-11-02T01:38:49Z,realstop,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",298913,"Catches coding agents handing back work: a Claude Code Stop hook, its judge, and the realstop command."
+2026-11-02T01:45:54Z,yap-studio,1.2.0,Cathryn Lavery,Apache-2.0,15612828,Edits vertical videos from raw takes and verifies finished renders.
+2026-11-02T01:47:57Z,agent-activity,0.1.0,Keith Connolly,MIT,47381,"Small, local SQLite task memory for coding agents, with a CLI and stdio MCP server."
+2026-11-02T01:48:18Z,stetdoc,0.9.0,Clauseo,MIT OR Apache-2.0,29619581,"Edit Word documents as tracked changes, for people and AI agents. The stetdoc command-line tool."
+2026-11-02T01:48:20Z,qia-check,1.0.0,Heuremen LLC,"Heuremen LLC https://indahl.ai/qia Code Heuremen LLC permits anyone to run, copy and change the cod…",19405,"Checks on IBM Quantum calibration records before and after a run, from Heuremen LLC. Standard library only."
+2026-11-02T01:48:21Z,iris-check,1.0.0,Heuremen LLC,"Heuremen LLC https://indahl.ai/iris Code Heuremen LLC permits anyone to run, copy and change the co…",61893,"Checks on language-model evaluation outputs before you trust them: reading sheets, flips between repeats and paired comparison. From Heuremen LLC. Standard library only."
+2026-11-02T01:50:04Z,evalcull,0.0.0,,Apache-2.0,1381,Placeholder; the first release follows.
+2026-11-02T01:50:42Z,swiggy-scraper,0.1.0,Buğrahan Saka,MIT,34269,"Scrape Swiggy dishes, restaurants and full menus (prices, variants, ratings, delivery time, FSSAI licence) with Python."
+2026-11-02T01:51:43Z,trevol,0.1.0,Joshua Montclair (Trevol),MIT,757943,SDK de Python para la API de Trevol: facturación electrónica ante la DIAN (Colombia). Python SDK for the Trevol API.
+2026-11-02T02:03:59Z,osintkit,0.2.0,osintkit contributors,MIT,215808,"Public-data OSINT aggregator for emails, usernames, domains, and companies"
+2026-11-02T02:09:21Z,newstack,0.1.0,Priyansh Kansara <pkansara0412@gmail.com>,MIT,76712,Scaffold a new project on any popular stack — every generated starter is proven green in CI.
+2026-11-02T02:10:54Z,aplicacion-ventas3899,0.1.0,Raul Reaño,,7305,"Paquete para gestionar ventas , precios , impuestos y descuentos."
+2026-11-02T02:12:09Z,riggrade,0.1.0,,Apache-2.0,264380,"Independent GPU rig grading: free preflight check, paid x402 grade, MCP server"
+2026-11-02T02:12:59Z,MolMiner-graphs,0.0.1,Tony Eight Lin,Apache-2.0,177536,For Creaming Molecular Graph Models
+2026-11-02T02:14:19Z,repeatability-evals,0.1.0,Krishna Gogineni,MIT,48792,"Consistency evals for non-deterministic systems: LLM generation, agentic retrieval, agent workflows."
+2026-11-02T02:15:21Z,palfit,0.1.0,112345brian,MIT,25915,"Fit a physical activity level (PAL) and maintenance calories to a weight log with Hall's adult body-weight model. Pure Python, no dependencies."
+2026-11-02T02:15:31Z,dupefind,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,65403,"Find duplicate files by staged hashing: group by size, then partial hash, then full hash"
+2026-11-02T02:17:27Z,libscanner-unir,1.0.1,,Proprietary,12600382,"Чтение DataMatrix, Code 128, GS1-128 и EAN/UPC одним вызовом — universal barcode and DataMatrix reader"
+2026-11-02T02:18:27Z,aa-external-links,1.0.0,Casey,GPL-2.0-or-later,31437,"Alliance Auth app that adds external website links to the sidebar, opening in a new window."

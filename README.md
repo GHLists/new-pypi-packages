@@ -8,33 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 01:18 UTC
+## Latest list — 2026-11-02 02:19 UTC
 
-New packages created between 2026-11-02 00:20 UTC and 2026-11-02 01:18 UTC.
+New packages created between 2026-11-02 01:18 UTC and 2026-11-02 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-02T01-18-11-545532Z.csv)
+[Full CSV](data/new-packages-2026-11-02T02-19-54-889844Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 00:21:37 | [pelican-feed-minify](https://pypi.org/project/pelican-feed-minify/) | 1.0.1 | Ysard <ysard@users.noreply.gi… | 11.0 kB | A Pelican plugin to check & minify HTML fields before XML serialization into RS… |
-| 2026-11-02 00:22:31 | [nexus-lite](https://pypi.org/project/nexus-lite/) | 0.2.2 | Wookjin Choi <wookjin.choi@je… | 403.8 kB | Ultra-simple Colab-ready multi-agent primitives for Nexus |
-| 2026-11-02 00:26:27 | [dnd5e-character-builder](https://pypi.org/project/dnd5e-character-builder/) | 0.1.0 | Ben Strackany | 276.9 kB | Build, level up and check D&D 2024 (SRD 5.2.1) character sheets, on top of the… |
-| 2026-11-02 00:27:16 | [astraea-adk](https://pypi.org/project/astraea-adk/) | 1.0.0 | Hillario RZA | 95.5 MB | Enterprise-Grade Mixture-of-Agents (MoA) Orchestration & Autonomous Agent Devel… |
-| 2026-11-02 00:27:45 | [hook-shipyard](https://pypi.org/project/hook-shipyard/) | 0.1.0 |  | 42.1 kB | Consumer-neutral native agent hook management. |
-| 2026-11-02 00:32:15 | [pip-vm](https://pypi.org/project/pip-vm/) | 0.1.1 |  | 63.0 kB | Like pipx, but each installed program runs in a throwaway virtual machine |
-| 2026-11-02 00:51:30 | [drex-spark](https://pypi.org/project/drex-spark/) | 0.1.1 | Nace AI <engineering@nace.ai> | 103.9 kB | Drex for Apache Spark: typed questions about your rows, from PySpark and SQL |
-| 2026-11-02 00:51:41 | [x402check-langchain](https://pypi.org/project/x402check-langchain/) | 0.1.0 | x402check | 7.7 kB | LangChain tools for x402check — preflight x402 seller endpoints (ok\|caution\|avo… |
-| 2026-11-02 00:53:50 | [didcheck](https://pypi.org/project/didcheck/) | 0.1.1 | Aditya Alaparti, Amann Katta,… | 795.1 kB | Full temporal covariance and centered bootstrap diagnostics for pretreatment va… |
-| 2026-11-02 00:54:26 | [openiec61850](https://pypi.org/project/openiec61850/) | 0.1.0 | Vicente Vendramin | 41.8 MB | Clean-room IEC 61850 implementation with a C++20 core and an asyncio Python API |
-| 2026-11-02 00:54:55 | [hypervis](https://pypi.org/project/hypervis/) | 0.1.0 |  | 2.3 kB | Short alias for the HyperVisual CLI launcher (`hypervisual`): architecture diag… |
-| 2026-11-02 00:56:19 | [geo-visibility-cli](https://pypi.org/project/geo-visibility-cli/) | 0.2.1 | Douglas Gouvea | 70.6 kB | Check how AI answer engines mention your brand (GEO visibility) and whether you… |
-| 2026-11-02 01:00:07 | [kuyen](https://pypi.org/project/kuyen/) | 0.2.0 | KUYEN maintainers | 365.7 kB | KUYEN: governed canonical memory and knowledge for Leftraru agents |
-| 2026-11-02 01:01:52 | [lombokserde](https://pypi.org/project/lombokserde/) | 0.1.0 | codinglombok | 49.6 kB | JSON, TOML and MessagePack serialization with byte-identical results across Pyt… |
-| 2026-11-02 01:03:42 | [crawlora-opendota](https://pypi.org/project/crawlora-opendota/) | 0.1.0 | Crawlora | 67.0 kB | Crawlora OpenDota API client with 30 endpoints for Dota 2 matches, heroes, play… |
-| 2026-11-02 01:06:03 | [voxport](https://pypi.org/project/voxport/) | 0.5.0 | Brien Alkire | 28.6 kB | Text-to-speech and speech-to-text interfaces with swappable engine adapters (Ko… |
-| 2026-11-02 01:08:22 | [scamscript](https://pypi.org/project/scamscript/) | 0.3.0 | scamscript contributors <3137… | 434.7 kB | Reverse-engineer scam scripts and vishing transcripts into structured counter-p… |
-| 2026-11-02 01:10:27 | [eternal-return-api](https://pypi.org/project/eternal-return-api/) | 0.1.0 | 김정현 | 283.5 kB | Unofficial Python client for the Eternal Return Open API, from ERCraft: increme… |
-| 2026-11-02 01:11:36 | [mcpprobe-kit](https://pypi.org/project/mcpprobe-kit/) | 1.0.0 | Shiwin | 328.9 kB | Conformance checker, schema fuzzer and tool-usability evaluator for MCP servers |
-| 2026-11-02 01:12:49 | [CRNNondim](https://pypi.org/project/CRNNondim/) | 1.0.0 | Georgio Hawi <georgio.hawi@sy… | 166.2 kB | Automated non-dimensionalisation of polynomial dynamical systems via chemical r… |
-| 2026-11-02 01:16:39 | [labs-api-python](https://pypi.org/project/labs-api-python/) | 1.0.0 | Conscherry | 18.2 kB | A user-friendly Python client for the Discord Labs API. This package makes it s… |
-| 2026-11-02 01:17:09 | [unifiedkappa](https://pypi.org/project/unifiedkappa/) | 0.1.0 | Yi Xia | 52.3 kB | Diagonal and off-diagonal (coherence) lattice thermal conductivity from phonopy… |
+| 2026-11-02 01:20:02 | [nvda-mcp](https://pypi.org/project/nvda-mcp/) | 1.0.0 | InfiArtt <info@infiartt.com> | 74.8 kB | MCP server that lets AI assistants work with the NVDA screen reader through the… |
+| 2026-11-02 01:22:11 | [douda](https://pypi.org/project/douda/) | 0.1.2 | Douda contributors | 18.7 kB | A terminal snake game with a shared, self-hostable leaderboard |
+| 2026-11-02 01:29:49 | [inspect-drex](https://pypi.org/project/inspect-drex/) | 0.1.0 | Nace AI <hello@nace.ai> | 262.6 kB | An Inspect (UK AISI) scorer backed by Drex decision models from Nace |
+| 2026-11-02 01:29:58 | [getlogbook](https://pypi.org/project/getlogbook/) | 0.0.1 | Veertej Sehdave | 113.4 kB | Commit-anchored shared memory for AI-assisted repos (stdlib only). |
+| 2026-11-02 01:33:24 | [holland2stay-alerts](https://pypi.org/project/holland2stay-alerts/) | 0.1.0 | Koorosh Komeilizadeh | 107.8 kB | Self-hosted alerts for new Holland2Stay and Codomo residences. |
+| 2026-11-02 01:35:58 | [roman-gladius](https://pypi.org/project/roman-gladius/) | 0.1.0a2 | Gladius contributors | 6.2 MB | Native Roman detector cutouts with parent metadata and explicit astrometry prov… |
+| 2026-11-02 01:36:21 | [traceleakcheck](https://pypi.org/project/traceleakcheck/) | 0.1.0 | Preet Saini | 469.7 kB | Prove your AI app's OpenTelemetry export doesn't leak secrets: canary secrets +… |
+| 2026-11-02 01:37:38 | [scientific-reasoning-auditor](https://pypi.org/project/scientific-reasoning-auditor/) | 0.5.0 | Furox-Art | 82.2 kB | Evidence-traceable screening and reasoning review for scientific manuscripts |
+| 2026-11-02 01:38:49 | [realstop](https://pypi.org/project/realstop/) | 0.1.0 |  | 298.9 kB | Catches coding agents handing back work: a Claude Code Stop hook, its judge, an… |
+| 2026-11-02 01:45:54 | [yap-studio](https://pypi.org/project/yap-studio/) | 1.2.0 | Cathryn Lavery | 15.6 MB | Edits vertical videos from raw takes and verifies finished renders. |
+| 2026-11-02 01:47:57 | [agent-activity](https://pypi.org/project/agent-activity/) | 0.1.0 | Keith Connolly | 47.4 kB | Small, local SQLite task memory for coding agents, with a CLI and stdio MCP ser… |
+| 2026-11-02 01:48:18 | [stetdoc](https://pypi.org/project/stetdoc/) | 0.9.0 | Clauseo | 29.6 MB | Edit Word documents as tracked changes, for people and AI agents. The stetdoc c… |
+| 2026-11-02 01:48:20 | [qia-check](https://pypi.org/project/qia-check/) | 1.0.0 | Heuremen LLC | 19.4 kB | Checks on IBM Quantum calibration records before and after a run, from Heuremen… |
+| 2026-11-02 01:48:21 | [iris-check](https://pypi.org/project/iris-check/) | 1.0.0 | Heuremen LLC | 61.9 kB | Checks on language-model evaluation outputs before you trust them: reading shee… |
+| 2026-11-02 01:50:04 | [evalcull](https://pypi.org/project/evalcull/) | 0.0.0 |  | 1.4 kB | Placeholder; the first release follows. |
+| 2026-11-02 01:50:42 | [swiggy-scraper](https://pypi.org/project/swiggy-scraper/) | 0.1.0 | Buğrahan Saka | 34.3 kB | Scrape Swiggy dishes, restaurants and full menus (prices, variants, ratings, de… |
+| 2026-11-02 01:51:43 | [trevol](https://pypi.org/project/trevol/) | 0.1.0 | Joshua Montclair (Trevol) | 757.9 kB | SDK de Python para la API de Trevol: facturación electrónica ante la DIAN (Colo… |
+| 2026-11-02 02:03:59 | [osintkit](https://pypi.org/project/osintkit/) | 0.2.0 | osintkit contributors | 215.8 kB | Public-data OSINT aggregator for emails, usernames, domains, and companies |
+| 2026-11-02 02:09:21 | [newstack](https://pypi.org/project/newstack/) | 0.1.0 | Priyansh Kansara <pkansara041… | 76.7 kB | Scaffold a new project on any popular stack — every generated starter is proven… |
+| 2026-11-02 02:10:54 | [aplicacion-ventas3899](https://pypi.org/project/aplicacion-ventas3899/) | 0.1.0 | Raul Reaño | 7.3 kB | Paquete para gestionar ventas , precios , impuestos y descuentos. |
+| 2026-11-02 02:12:09 | [riggrade](https://pypi.org/project/riggrade/) | 0.1.0 |  | 264.4 kB | Independent GPU rig grading: free preflight check, paid x402 grade, MCP server |
+| 2026-11-02 02:12:59 | [MolMiner-graphs](https://pypi.org/project/MolMiner-graphs/) | 0.0.1 | Tony Eight Lin | 177.5 kB | For Creaming Molecular Graph Models |
+| 2026-11-02 02:14:19 | [repeatability-evals](https://pypi.org/project/repeatability-evals/) | 0.1.0 | Krishna Gogineni | 48.8 kB | Consistency evals for non-deterministic systems: LLM generation, agentic retrie… |
+| 2026-11-02 02:15:21 | [palfit](https://pypi.org/project/palfit/) | 0.1.0 | 112345brian | 25.9 kB | Fit a physical activity level (PAL) and maintenance calories to a weight log wi… |
+| 2026-11-02 02:15:31 | [dupefind](https://pypi.org/project/dupefind/) | 0.2.0 | Javier Lianes <javier@lianes8… | 65.4 kB | Find duplicate files by staged hashing: group by size, then partial hash, then… |
+| 2026-11-02 02:17:27 | [libscanner-unir](https://pypi.org/project/libscanner-unir/) | 1.0.1 |  | 12.6 MB | Чтение DataMatrix, Code 128, GS1-128 и EAN/UPC одним вызовом — universal barcod… |
+| 2026-11-02 02:18:27 | [aa-external-links](https://pypi.org/project/aa-external-links/) | 1.0.0 | Casey | 31.4 kB | Alliance Auth app that adds external website links to the sidebar, opening in a… |
