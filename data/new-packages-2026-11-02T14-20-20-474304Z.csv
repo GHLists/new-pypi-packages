@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T13:19:30Z,waboros,0.0.0,o-murphy <thehelixpg@gmail.com>,MIT,840233,A WebAssembly compiler in pure Python
+2026-11-02T13:19:38Z,normatia,0.1.0,Normatia <hola@normatia.com>,MIT,23961,"Normatia API client: Spanish parcels, constraints, planning and regulations as data."
+2026-11-02T13:21:46Z,metabogeneva,0.1.0,Santiago Codesido Sánchez,GPL-3.0-only,220680,Metabolomics data analysis utilities: common data tables and BaRCA classification
+2026-11-02T13:23:02Z,oxide-agent,0.1.1,,MIT,307953,OXIDE v2: a structural context engine for agents
+2026-11-02T13:23:54Z,sdg-tech-tagger-rs,0.1.0,Kevin Michoud <kmichoud@unistra.fr>,GPL-3.0-only,24102817,"Tag texts with sustainable development goals and advanced digital technologies by published queries: a Rust port of text2sdg, with Web of Science forms of the queries."
+2026-11-02T13:24:11Z,lsh-agent-memory,0.1.0,Genesis410,Apache-2.0,56658,High-throughput episodic memory for local CPU LLMs via data-dependent LSH (ITQ) and POPCNT scan
+2026-11-02T13:25:26Z,bkmarks,2.1.0,Nico Ismaili,,7230,Browser bookmark exporter CLI tool
+2026-11-02T13:27:56Z,kualitasid,0.2.0,,MIT,27028,"Profil dan pembersih kualitas data (pandas) untuk format Indonesia: NIK, NPWP, HP, Rupiah, tanggal, plat, provinsi, plus cek konsistensi antar kolom"
+2026-11-02T13:30:44Z,effis-client,0.1.0,Giuseppe Zileni,Apache-2.0,25918,Client for the public EFFIS services: burnt-area perimeters and official FWI rasters
+2026-11-02T13:31:19Z,kcai-data-sampling-albumentation,0.8.1,Safenai <support@safenai.io>,Apache-2.0,131159,Procedural image transformations backed by a pinned albumentations for kcai data-sampling
+2026-11-02T13:31:21Z,recap-py,0.0.1,,,1399,Name reserved by re:cap. Not for public use.
+2026-11-02T13:31:44Z,cryptgraph,0.1.0,CyberPracticals contributors,MIT,30975,Scenario-based Cybersecurity practical Python scripts
+2026-11-02T13:32:21Z,keybroker,0.0.0,the authors,0BSD,2004,a credential handler
+2026-11-02T13:36:41Z,h2physics,0.1.0,Ugwiyeon Lee,Apache-2.0,6644859,Composable hydrogen facility and safety physics with qualified data and explicit Python contracts
+2026-11-02T13:38:05Z,ninjaeval-mcp,0.1.1,,MIT,22745,"NinjaEval as an MCP server: a coding agent tests a prompt, model or tool change and reads the verdict and the diagnosis before calling it done."
+2026-11-02T13:39:17Z,dropkit,0.1.0,Trail of Bits <opensource@trailofbits.com>,Apache-2.0,284441,Manage DigitalOcean droplets for ToB engineers
+2026-11-02T13:39:18Z,langchain-cleave,0.1.0,,MIT,36418,An integration package connecting Cleave and LangChain
+2026-11-02T13:39:46Z,pyocrust-gpu,0.1.0a0,,Apache-2.0,97428,Unified native OCR and document-structure wrapper over oar-ocr (PyO3 + Maturin).
+2026-11-02T13:50:02Z,chronaxis,0.1.0.dev0,liuyaoze <work@liuyaoze.com>,MIT,3408703,Declarative analysis of multi-source time series
+2026-11-02T13:51:52Z,tensorsig,0.1.0,Erlend Aune,MIT,349878,"Differentiable tensor signatures, offset-coded signatures, and log-signatures for PyTorch."
+2026-11-02T13:52:37Z,conseqa,0.1.0,Devraj Jhala,Apache-2.0,58007,Verify what your agent actually changed: the Conseqa SDK for Python
+2026-11-02T13:53:34Z,hookproof,0.1.0,Benedict Chuks-Onah <onahben977@gmail.com>,MIT,21108,"Timing-safe HMAC webhook signature verification for Python, fully typed, sync and async."
+2026-11-02T13:55:32Z,portugal-mcp,0.1.1,Thiago Jacob Lannes,MIT,186810,"Portugal's public data for AI assistants in one MCP server: weather (IPMA), places, INE and Banco de Portugal statistics, Parliament, public contracts, dados.gov.pt, SNS health, medicines, fuel and E…"
+2026-11-02T13:56:40Z,haflinger,0.0.0,,Apache-2.0,10704,"Placeholder for Haflinger, e-invoicing in Python (ZUGFeRD, XRechnung, Peppol); not released yet"
+2026-11-02T13:59:06Z,termxtract,0.1.0,Shubhanker Banerjee,Apache-2.0,99833,"Automatic term extraction (ATE) from plain text or Teanga corpora, with unsupervised and supervised methods."
+2026-11-02T14:00:14Z,control-systems-ai999x,1.0.0,"AI999X Labs <support@ai999x.com>, Ibnul Jaif Farabi <ibnuljaiffarabi@ai999x.com>",Apache-2.0,7654810,"Offline control systems solver: transfer functions and poles/zeros, step and frequency response metrics, stability (Routh-Hurwitz, gain and phase margins, Nyquist), root locus, state space (controlla…"
+2026-11-02T14:00:23Z,electronics-engineering-ai999x,1.0.0,"AI999X Labs <support@ai999x.com>, Ibnul Jaif Farabi <ibnuljaiffarabi@ai999x.com>",Apache-2.0,7850848,"Offline electronics engineering solver: semiconductors and pn junctions, diode circuits and rectifiers, BJT and MOSFET biasing and amplifiers, op-amp circuits, active filters, oscillators and 555 tim…"
+2026-11-02T14:00:37Z,energy-systems-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,20118763,"Offline energy systems solver: power systems and load flow, three-phase power, transformers and machines, solar photovoltaics, wind power, batteries, fuel cells and hydrogen, with steps, LaTeX and ho…"
+2026-11-02T14:00:46Z,environmental-engineering-ai999x,1.0.0,"AI999X Labs <support@ai999x.com>, Ibnul Jaif Farabi <ibnuljaiffarabi@ai999x.com>",Apache-2.0,7797443,"Offline environmental engineering solver: Gaussian plume dispersion and plume rise, BOD and Streeter-Phelps oxygen sag, water and wastewater treatment design, activated sludge, disinfection CT, Henry…"
+2026-11-02T14:00:47Z,dailyscraper,0.1.0a1,JQ,MIT,493835,"Web scraping framework with one interface for browser (Playwright) and HTTP scraping, JSON-defined scrapers and proxy rotation"
+2026-11-02T14:04:22Z,Email-MCP-zack,0.1.0,,MIT,123812,"Local stdio MCP server for IMAP, POP3 and SMTP"
+2026-11-02T14:07:26Z,aiomoysklad,0.1.0,sinnercode228,MIT,192442,"Async toolkit for MoySklad JSON API 1.2 integrations: weighted rate limiting, retries, pagination, filters, stock, orders and webhooks"
+2026-11-02T14:08:19Z,signsealer,0.1.0,Mashdun LLC,MIT,20250,"SignSealer for Python: send documents for signature, read their evidence, verify webhooks. No dependencies."
+2026-11-02T14:10:17Z,openlakeforge-lakehouse-services,0.5.1a2,,,56829,OpenLakeForge service clients and operations shared by olf and the platform API
+2026-11-02T14:13:00Z,hume-audio-decisions,0.1.0,,MIT,192508,A Python SDK for the Audio Decisions API
+2026-11-02T14:15:01Z,django-cross-tenancy,0.1.0a1,Miroslav Zvolský,MIT,29771,Shared-database multi-tenancy for Django with controlled cross-tenant access
+2026-11-02T14:15:51Z,your-turn,0.4.0,,MIT,957670,"An inbox for your coding agents. See which chat is waiting on you, what each one produced, and what to do next."
+2026-11-02T14:20:12Z,bend2,1.0.0,BEND 2.0 contributors,MIT AND CC-BY-4.0 AND CC-BY-NC-4.0,52920064,BEND 2.0 — benchmark the capabilities needed to design DNA
