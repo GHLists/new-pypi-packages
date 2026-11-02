@@ -1,76 +1,48 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-11-02T20:18:32.045474Z",
-    "path": "data/new-packages-2026-11-02T21-18-09-318109Z.csv",
-    "to": "2026-11-02T21:18:09.318109Z"
+    "count": 58,
+    "from": "2026-11-02T21:18:09.318109Z",
+    "path": "data/new-packages-2026-11-02T22-18-08-814807Z.csv",
+    "to": "2026-11-02T22:18:08.814807Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-02T18:23:21Z",
       "package": "RcinelTranslate",
       "since": "2026-11-02T18:22:00.057909Z",
       "version": null
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-02T21:16:21Z",
-      "package": "alai-core",
-      "since": "2026-11-02T20:18:32.045474Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-02T21:12:06Z",
       "package": "baseten-loops-cookbook",
       "since": "2026-11-02T20:18:32.045474Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-02T21:52:16Z",
+      "package": "cve-2026-62911-poc",
+      "since": "2026-11-02T21:18:09.318109Z",
+      "version": "1.0.0"
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-02T18:34:03Z",
       "package": "kloship-utils",
       "since": "2026-11-02T18:22:00.057909Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-02T17:23:06Z",
-      "package": "livekit-plugins-zoom-ai",
-      "since": "2026-11-02T17:19:52.154657Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-02T19:52:41Z",
       "package": "robot-pyton",
       "since": "2026-11-02T19:18:13.35167Z",
       "version": "1.0"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-02T20:49:55Z",
-      "package": "verulla-cli",
-      "since": "2026-11-02T20:18:32.045474Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-02T20:50:44Z",
-      "package": "verulla-manifest",
-      "since": "2026-11-02T20:18:32.045474Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-02T20:21:20Z",
-      "package": "wombat-server",
-      "since": "2026-11-02T20:18:32.045474Z",
-      "version": null
     }
   ],
-  "serial": 43109085,
+  "serial": 43111377,
   "source_truncated": false,
-  "window": "2026-11-02T21:18:09.318109Z"
+  "window": "2026-11-02T22:18:08.814807Z"
 }

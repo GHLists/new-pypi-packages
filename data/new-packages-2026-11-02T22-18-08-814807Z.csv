@@ -1,0 +1,59 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T20:21:20Z,wombat-server,1.2.0,"Artem Lajko, Sascha Lewandowski, Sebastian Meyer, Tim Urlaub",Apache-2.0,570888,WOMBATpass – API server for persisting and querying scan results
+2026-11-02T20:49:55Z,verulla-cli,0.0.2,,,58666,
+2026-11-02T20:50:44Z,verulla-manifest,0.0.2,,,23440,
+2026-11-02T21:16:21Z,alai-core,0.0.1,Jordan Borean,MIT,38156103,Core functions and helpers used by the various alai tools.
+2026-11-02T21:18:10Z,slidecold,0.1.0,SlideCold,MIT,78719,"Official Python SDK, CLI and MCP server for the SlideCold API (Instagram cold-DM outreach)"
+2026-11-02T21:18:38Z,amigent,1.0.0,Andreas Wendorf (Akustikrausch),MIT,1239102,"Complete remote control for a real Amiga, by AI or manually"
+2026-11-02T21:18:38Z,keska-sandbox,0.40.0,,Apache-2.0,220974,Python client for the Numen sandbox API
+2026-11-02T21:18:57Z,openwebtk,0.1.0,,,45443,A browser-based control plane for running Tkinter application instances.
+2026-11-02T21:19:28Z,skslearn,0.1.1,,,322171,Python utility package
+2026-11-02T21:19:53Z,aiomusiccast-co,0.16.0,crash0verride11,"**The MIT License (MIT)** Copyright &copy; 2021, Tom Schneider Permission is hereby granted, free o…",197683,Asyncio library for Yamaha MusicCast devices; maintained fork of aiomusiccast for the Home Assistant integration.
+2026-11-02T21:21:56Z,sdg-tech-impact-tagger,0.1.1,Kevin Michoud,GPL-3.0-only,340625,"Label texts with sustainable development goals, digital technologies, their impact or any list of labels, through any OpenAI-compatible LLM endpoint, by versioned questions and declarative workflows."
+2026-11-02T21:23:15Z,psgplayground,1.12,PySimpleGUI,GNU Lesser General Public License v3 (LGPLv3),9022269,"PySimpleGUI Playground - the Toybox app browser and a collection of real PySimpleGUI desktop apps to run, read and take apart"
+2026-11-02T21:24:11Z,shards-kernel,0.1.0,Shards Foundation Contributors,MIT,390406,Deterministic Control Planes for AI Systems
+2026-11-02T21:25:42Z,agenteval-cx,1.0.0,Akshay Nara,MIT,163253,"Red-team and stress-test conversational AI agents with synthetic customers and safety probes — from your terminal, your CI, or the browser."
+2026-11-02T21:26:36Z,matrix-contracts,0.1.0,,,84079,Shared protocol buffer definitions and Pydantic schemas for Distributed Matrix Multiplication
+2026-11-02T21:26:46Z,matrix-compute-sdk,0.1.0,Distributed Matrix Multiply Team,MIT,382401,Production-grade consumer Python library and orchestrator for distributed matrix multiplication over decentralized compute nodes
+2026-11-02T21:26:52Z,signed-doc-extractor,0.6.0,MinhTriTM <developer@hanhchinhcong.gov.vn>,MIT,127416,"Thư viện Python SDK & FastAPI REST API trích xuất mọi chữ ký số (PAdES/CAdES/VGCA/Public-CA), đánh giá mức độ uy tín tài liệu (Trust Score 0-100), phân định trách nhiệm pháp lý và giải mã số ký hiệu…"
+2026-11-02T21:27:02Z,matrix-compute-node,0.1.0,Distributed Matrix Multiply Team,MIT,191015,Decentralized worker daemon for Distributed Matrix Multiplication network
+2026-11-02T21:27:09Z,matrix-compute-mcp,0.1.0,Distributed Matrix Multiply Team,MIT,70439,Official Model Context Protocol (MCP) server and high-level verifiable AI primitives for distributed GPU matrix multiplication
+2026-11-02T21:29:00Z,koalakeys,1.0.0,,,67655,"Build interactive, portable cheatsheets from YAML."
+2026-11-02T21:30:24Z,stackshift-agent,0.1.0,StackShift <support@stackshift.cloud>,,46379,"Run an agent on StackShift: events, governed actions, StackShift calls, state and model access."
+2026-11-02T21:31:54Z,tuasistente,0.1.0,TuAsistente,,48717,CLI de TuAsistente: consulta tu negocio desde la terminal con la API pública /v1.
+2026-11-02T21:34:52Z,routershift,0.1.0,Jurgen Kobierczynski,GPL-3.0-or-later,702275,"Converts switch and router configurations between vendors (Cisco, Arista, Juniper, HPE Aruba) and says item by item how faithful the result is"
+2026-11-02T21:38:47Z,smstunnel,1.0.0,Narcis Bodea <contact@narboweb.ro>,MIT,54054,"Python client for SMSTunnel: send texts from your own apps through your own Android phone, from your own number."
+2026-11-02T21:39:05Z,hashbrown-assembly,1.1.0,Marc-Olivier Duceppe,MIT,102621,"Long-read, short-read and hybrid bacterial genome assembly pipeline."
+2026-11-02T21:42:50Z,aip-spec,0.7.0,,Apache-2.0,122999,"Agent Instruction Protocol: the procedure format, its validator, and the authoring skill"
+2026-11-02T21:43:13Z,agent-instruction-protocol,0.7.0,,Apache-2.0,5574803,"Agent Instruction Protocol: runtime model, server, and client for graph-shaped agent skills"
+2026-11-02T21:43:34Z,krrood-spatial-math,26.10.0,Simon Stelter <stelter@uni-bremen.de>,LGPL-3.0-only,55246,"Points, vectors, rotations and transformations in Cartesian frames."
+2026-11-02T21:49:58Z,digital-markers,0.1,WSU CASAS Lab,"MIT License Copyright (c) 2026 Washington State University CASAS Lab Permission is hereby granted,…",78768,Digital health markers derived from wearable sensor and participant data
+2026-11-02T21:50:37Z,skema-cfm,0.1.0,ThibaultDef <defourneau.thibault@gmail.com>,,221618,Python project dedicated to CFM course at Skema.
+2026-11-02T21:53:16Z,mopidy-webdav,0.1.1,Will Hunt <git@half-shot.uk>,MIT,109429,"Mopidy extension for playing music from WebDAV servers, such as Nextcloud."
+2026-11-02T21:53:34Z,kymocore,0.1.0,Christof Seidel,MIT,16750,Send measurements from Python to KymoStudio (Kymotrace binary protocol)
+2026-11-02T21:56:11Z,system-diff,0.1.0,simplifiedmachine,MIT,108214,"Draws your system from its code (parts, entry points, data, outside systems) and what each change adds, changes or removes. No dependencies; SVG pictures for PRs and READMEs."
+2026-11-02T21:58:25Z,research-diff,0.1.0,simplifiedmachine,MIT,64125,"Maps your research from its notes, experiment configs, results and paper (questions, hypotheses, experiments, results, claims) and shows what each iteration changed. Built for exploring ideas with AI…"
+2026-11-02T21:59:08Z,tranpro,0.1.0a1,Will Barmby,MIT,80412,A local-first transcript library and one-shot transcription CLI
+2026-11-02T21:59:30Z,readonly-mcp-teamcity,1.0.0,Wojciech Wentland,MIT,245530,"Read-only MCP server for JetBrains TeamCity — search builds, configs, logs, tests, agents"
+2026-11-02T22:02:42Z,epochcontrol,0.0.1,Harrish Joseph,MIT,2423,See and control your training runs from the Mac menu bar. Early development.
+2026-11-02T22:02:53Z,pocketvina,0.2.0,Ahmet Sarigun <Ahmet.Sariguen@mdc-berlin.de>,MIT,4023570,"GPU-accelerated protein-ligand docking with automated pocket detection, exploring through multi-pocket conditioning."
+2026-11-02T22:03:01Z,rtpbench,0.3.0,Juanjo Aroztegi <juanjo@aroztegi.com>,Apache-2.0,7648551,Wire-level latency and conformance tests for voice agents over SIP/RTP
+2026-11-02T22:05:36Z,agentaccord,0.4.0,Rrezart Prebreza,MIT,92544,"Team engineering rules for AI coding agents, checked in skills, AGENTS.md, CLAUDE.md, and code"
+2026-11-02T22:06:32Z,girafi,0.1.0rc1,"Huan Zhong, Ziming Wang, GIRAFI contributors",MIT,1086701,Graph-informed random-forest imputation for single-cell proteomics
+2026-11-02T22:07:08Z,ericai,0.0.2,Ericsson,LicenseRef-Proprietary,5983,EricAI installation guard: the Ericsson client is distributed internally only - for now
+2026-11-02T22:07:08Z,galley-jl-python,0.1.0,Willow Ahrens,,76872,Sparse Tensor Programming in Python powered by Finch.jl
+2026-11-02T22:09:45Z,iowarp-core-cuda12,2.4.0,IOWarp Team <grc@illinoistech.edu>,BSD-3-Clause,62605122,IOWarp Context Management Platform
+2026-11-02T22:09:51Z,hekatan-struct,0.1.0,GiorgioBurbanelli89,MIT,543674,"Hekatan Struct: elementos finitos de placa DKE y DSE (Wilson), membrana y grado de libertad de giro en el plano (drilling DOF)"
+2026-11-02T22:09:55Z,hekatan-lisp,0.1.0,GiorgioBurbanelli89,MIT,135109,"Hekatan LISP desde Python: operaciones simbólicas (derivar, simplificar, expandir, factorizar) con el motor engine.lisp sobre SBCL"
+2026-11-02T22:09:56Z,iowarp-core-rocm6,2.4.0,IOWarp Team <grc@illinoistech.edu>,BSD-3-Clause,62158134,IOWarp Context Management Platform
+2026-11-02T22:09:57Z,hekatan-engineers,0.1.0,GiorgioBurbanelli89,MIT,2964,"Hekatan Engineers: paquete paraguas. Instala los módulos de Hekatan (Struct, y los que se vayan publicando)."
+2026-11-02T22:10:08Z,iowarp-core-sycl,2.4.0,IOWarp Team <grc@illinoistech.edu>,BSD-3-Clause,63855069,IOWarp Context Management Platform
+2026-11-02T22:10:58Z,reviewblind,0.1.0,ReviewBlind contributors,AGPL-3.0-or-later,368090,"Deterministic, local-first preflight for accidental identity disclosure in research repositories before double-anonymous peer review."
+2026-11-02T22:14:25Z,domainator,1.0.0rc1,"Andrew Ge, Yu-Cheng Lin, Zhiyi Sun",MIT,3191965,"A flexible and modular software suite for domain-based gene neighborhood and protein search, extraction, and clustering."
+2026-11-02T22:16:01Z,cm-jupyter-addons,0.0.0a0,NVIDIA,,1048,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-02T22:16:04Z,cm-jupyter-kernel-creator,0.0.0a0,NVIDIA,,1107,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-02T22:16:08Z,cm-jupyter-kernel-provisioners,0.0.0a0,NVIDIA,,1145,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-02T22:16:11Z,cm-jupyter-kubernetes-operators-manager,0.0.0a0,NVIDIA,,1211,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-02T22:16:11Z,seevol,0.1.0,Archie Benn <sj19031@bristol.ac.uk>,MIT,6581954,"All-pairs visibility analysis on voxel volumes (Amanatides & Woo, C++)"
+2026-11-02T22:16:36Z,hydradb-agentmail-plugin,0.1.0,HydraDB <cloud@hydradb.com>,MIT,14456,Sync AgentMail inbox email into HydraDB knowledge as app sources.
+2026-11-02T22:17:18Z,cairn-mem,0.1.0,,MIT,27890,"Memoria persistente para agentes de código: CLI + archivos, sin LLM"
