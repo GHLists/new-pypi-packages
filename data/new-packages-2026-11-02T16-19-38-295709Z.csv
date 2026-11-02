@@ -1,0 +1,60 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T15:21:05Z,gh-organizer,1.1.1,Nero <castillovegarodolfogilberto@gmail.com>,MIT,1087769,Una TUI para organizar tus repositorios de GitHub en colecciones personalizadas
+2026-11-02T15:22:29Z,artil-hermes,0.4.2,Artil <support@artil.ai>,MIT,9287,"Give Hermes agents their own email inbox, phone number, and workspace accounts to work directly with customers, teammates, and other agents."
+2026-11-02T15:22:30Z,tba-concrete-cose,0.4.0.dev2,,Apache-2.0,7780,Deterministic provider-free COSE behavior.
+2026-11-02T15:22:34Z,complying-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49456,A machine that complies with rules and orders.
+2026-11-02T15:23:52Z,guide-rs,0.2.0,Brandon Greenwell <greenwell.brandon@gmail.com>,MIT,5712805,scikit-learn estimators for GUIDE-style classification and regression trees
+2026-11-02T15:23:54Z,pytransdecoder,0.2.1,"Brian Haas, ported to python by AI/LLMs",BSD-3-Clause,12387621,"TransDecoder, the original Perl version ported to Python by AI/LLMs with new features integrated"
+2026-11-02T15:24:30Z,pyclilogin,0.1.1,Chris Birch <datapointchris@gmail.com>,MIT,61968,"Device-grant login for Python CLIs: one config file, a keychain token store with a visible fallback, and a refresh serialized across processes"
+2026-11-02T15:24:33Z,pyapiauth,0.1.0,Chris Birch <datapointchris@gmail.com>,MIT,21792,"Verify an OIDC provider's RFC 9068 access tokens inside a Python web API, with FastAPI dependencies"
+2026-11-02T15:25:17Z,tba-concrete-credential-api-key,0.4.0.dev2,,Apache-2.0,2588,
+2026-11-02T15:25:50Z,amagi-draftbench,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,90393,"Find the draft model (or n-gram lookup) that speeds up your local LLM: speculative-decoding sweeps for llama.cpp and vLLM with tok/s, acceptance rate, tokens per joule and peak VRAM, plus a pick per…"
+2026-11-02T15:27:15Z,tba-concrete-credential-client-secret,0.4.0.dev2,,Apache-2.0,2729,
+2026-11-02T15:27:36Z,oshd,1.1.0,Ricard Marsal <ricard.marsal@uni.lu>,MIT,287635,"Download, synchronize and turn the OSHD multimodal robotics dataset (events, RGB-D, lidar, mocap) into pose-estimation, detection, segmentation and optical-flow training data."
+2026-11-02T15:29:21Z,tba-concrete-credential-dpop-key,0.4.0.dev2,,,3179,
+2026-11-02T15:29:40Z,tesserae-el,0.1.0,Mind Derivative,MIT,154330,"TEL, the Tesserae Expression Language: a small, safe expression language for YAML and Python."
+2026-11-02T15:30:20Z,nr-powerflow-solver,1.0.1,Haris Zafar,MIT,85718,"Sparse CSC Newton-Raphson AC power-flow solver with PV Q-limit switching, N-1 contingency screening, and P-V voltage stability analysis."
+2026-11-02T15:31:20Z,lambdawalker-conda,0.1.0,LambdaWalker <lambdawalker@isdavid.com>,,6417,Conda environment interface utilities for LambdaWalker
+2026-11-02T15:31:35Z,lambdawalker-file,0.1.0,LambdaWalker <lambdawalker@isdavid.com>,,12104,File and path utilities for LambdaWalker
+2026-11-02T15:31:51Z,lambdawalker-list,0.1.0,LambdaWalker <lambdawalker@isdavid.com>,,3922,List utilities for LambdaWalker
+2026-11-02T15:32:06Z,lambdawalker-log,0.1.0,LambdaWalker <lambdawalker@isdavid.com>,,5006,Profiling and logging utilities for LambdaWalker
+2026-11-02T15:32:22Z,tba-concrete-credential-mfa,0.4.0.dev2,,Apache-2.0,2529,
+2026-11-02T15:34:54Z,tba-concrete-credential-mtls-certificate,0.4.0.dev2,,,3643,
+2026-11-02T15:35:15Z,csa-secid,0.1.0,Cloud Security Alliance <research@cloudsecurityalliance.org>,Apache-2.0,26246,Resolve security identifiers to URLs using the SecID API
+2026-11-02T15:35:36Z,photonic-engines,0.2.1,"Jean Senellart, Benjamin Stott, Pierre-Emmanuel Emeriau, Stephen Wein",MIT,897965,Exact GPU simulation and sampling engines for linear-optical quantum computing
+2026-11-02T15:37:22Z,tba-concrete-credential-passkey,0.4.0.dev2,,,2949,
+2026-11-02T15:37:28Z,midas-nx-mcp,0.1.0,Dennis,MIT,38398,"Local MCP server for MIDAS Gen NX / Civil NX, built on midas-nx - not an official MIDAS IT product"
+2026-11-02T15:38:11Z,luma-observe-sdk,0.1.0,,MIT,92049,Optional OpenTelemetry application integration and Grafana configuration for Luma.
+2026-11-02T15:38:11Z,odoo-addon-proxy-trusted-hops,16.0.1.0.0.3,"Ametras intelligence GmbH, Odoo Community Association (OCA)",LGPL-3,28711,Configure how many reverse proxies Odoo trusts for the client IP
+2026-11-02T15:38:59Z,kostral,0.1.1b1,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",96768,...
+2026-11-02T15:39:32Z,cli-anything-brissoto-pay,1.0.0,,MIT,115761,Set apps up in the Brissoto Pay gateway from a coding agent.
+2026-11-02T15:42:13Z,jardiscordengine,0.1.0,Nathan Jarjarbin <nathan.amaraggi@epitech.eu>,GPL-3.0-or-later,199174,Wrapper over PyCord providing simple and easy-to-use API.
+2026-11-02T15:47:27Z,arabic-fixtures,0.1.0,Alaa Taieb,CC0-1.0,13954,"RTL test fixtures (Arabic, Persian, Hebrew) for checking PDF, OG-image and chart rendering"
+2026-11-02T15:47:52Z,trec-eval,10.0.0,trec_eval contributors,LicenseRef-NIST,193397,Windows x64 Python API and CLI for the NIST trec_eval reference evaluator
+2026-11-02T15:48:10Z,unleap,0.1.0,Zeke Piskulich <piskulichz@gmail.com>,MIT,54230,"Recover a ligand's mol2, frcmod and OFF lib from a built Amber parm7/rst7 system"
+2026-11-02T15:49:10Z,modi-operandi,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,6114,Modes of operation.
+2026-11-02T15:52:17Z,tba-concrete-credential-password,0.4.0.dev2,,Apache-2.0,2601,
+2026-11-02T15:52:46Z,polalign,1.0.0,,MIT,178326,"An audit framework for LLM alignment with human subgroups, based on polarization"
+2026-11-02T15:54:29Z,deepdraw-opt,0.1.1,Cell Ethology Lab <jerry@westlake.edu.cn>,MIT,372377,Active learning for genetic circuit design
+2026-11-02T15:55:20Z,ice_shelf_state_and_fate,0.1.0,Earthwave Ltd,MIT,107013,"DTC-IS State and fate of Antarctic Ice Shelves module enables users to gain insights into the State and fate of Antarctic Ice Shelves using earth observation, in-situ and model reanalysis datasets."
+2026-11-02T15:56:04Z,tba-concrete-credential-password-reset,0.4.0.dev2,,Apache-2.0,2770,
+2026-11-02T15:57:38Z,agent-failure-lab,0.1.0,Hasnat Ahmad,MIT,222338,A catalogue of LLM agent failures with deterministic reproductions and tested guards.
+2026-11-02T15:58:42Z,bascet,0.0.1,Margo Atkinson,MIT,22810,bascet = BASic CEnsus Tables. A way to easily grab some tables from the American Community Survey.
+2026-11-02T15:58:45Z,tenko-plugin-tarot,0.1.0,,GPL-3.0-only,22022404,Tenko 塔罗牌：今日塔罗、三张牌阵和凯尔特十字占卜，牌面是 B 站幻星集
+2026-11-02T15:59:28Z,tba-concrete-credential-service-key,0.4.0.dev2,,Apache-2.0,2645,
+2026-11-02T16:00:05Z,mistralai-workflows-plugins-triggers,0.1.0,Mistral AI <support@mistral.ai>,Apache-2.0,75760,Triggers plugin for Mistral Workflows
+2026-11-02T16:02:29Z,tba-concrete-cwt,0.4.0.dev2,,Apache-2.0,4707,Deterministic provider-free CWT claims-set objects.
+2026-11-02T16:04:14Z,mattesola,0.0.1,Jacky <jacky@gmail.com>,MIT,11865668,Mattesola package
+2026-11-02T16:06:19Z,so6-file-converter,0.1.0,O,MIT,9626,Convert .SO6 flight traffic files into pandas DataFrames
+2026-11-02T16:06:31Z,pcx-module,0.5.0,,MIT,2848176,"A pcx module in Python, on the Rust core of pcx."
+2026-11-02T16:07:12Z,tba-concrete-cwt-svid-extension-credential,0.4.0.dev2,,Apache-2.0,3496,Experimental Tigrbl CWT-SVID extension credential object.
+2026-11-02T16:07:14Z,chromparser,0.1.0,Sebastian Rejman,MIT,137458,"Read chromatography raw files (Chromeleon, Thermo, Agilent, Shimadzu) into one data model and convert them to HDF5."
+2026-11-02T16:09:54Z,archi-kb,3.0.0,,MIT,1142920,"Operations automation for scientific computing: agents propose actions, people approve them, and every step cites the facility's own knowledge"
+2026-11-02T16:10:45Z,warp-optix,0.2.0,"""R. Keith Morley"" <kmorley@nvidia.com>",Apache-2.0 AND BSD-3-Clause AND LicenseRef-NVIDIA-OptiX,460441,Warp ray tracing with PyOptiX
+2026-11-02T16:11:12Z,tba-concrete-device-identity,0.4.0.dev2,,Apache-2.0,2979,Standalone concrete device identity model.
+2026-11-02T16:11:16Z,isipsafe,0.1.0,WaveCentric <sasi@wavecentric.ai>,MIT,34583,"Official Python client and CLI for isIPsafe: check IP reputation, report abusive IPs and download firewall blocklists."
+2026-11-02T16:12:06Z,snapir,0.1.0,,,492905,Toolkit for temporal information retrieval datasets
+2026-11-02T16:14:53Z,tba-concrete-did,0.4.0.dev2,,Apache-2.0,7108,Deterministic DID Core parsing and document validation.
+2026-11-02T16:16:42Z,jpl-debias-2018,2023.3.1.1,B612 Asteroid Institute <info@b612foundation.org>,MIT,18662959,JPL EFCC18 astrometric catalog-debias reference data
+2026-11-02T16:17:30Z,immport-mcp,1.4.0,,MIT,117149,"MCP server for ImmPort, the NIAID immunology data repository: search studies, fetch study data, assay results and files"
+2026-11-02T16:18:15Z,tba-concrete-did-document,0.4.0.dev2,,Apache-2.0,4053,Standalone DID document identity artifact.
