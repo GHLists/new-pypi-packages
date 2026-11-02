@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T20:21:09Z,wombat-core,1.2.0,"Artem Lajko, Sascha Lewandowski, Sebastian Meyer, Tim Urlaub",Apache-2.0,1025809,"WOMBATpass – IaC compliance engine, CLI, and result schema for the Wombat framework"
+2026-11-02T20:21:28Z,wombat-mcp,0.2.0,"Artem Lajko, Sascha Lewandowski, Sebastian Meyer, Tim Urlaub",Apache-2.0,661025,Model Context Protocol bridge for WOMBATpass with OIDC pass-through auth.
+2026-11-02T20:24:24Z,fedora-fl-security,2.1.0b2,FedoRA Contributors <sam.urmian@gmail.com>,Apache-2.0,10202,"Security planning, diagnostics, and evidence layer for federated learning"
+2026-11-02T20:25:01Z,backchannel-server,0.0.0,,,1639,Reserved by Backchannel Technology. Holds no code; see backchannel-client.
+2026-11-02T20:25:05Z,odoo-addon-purchase-company-invoice-address,16.0.1.0.0.2,"Quartile, Odoo Community Association (OCA)",AGPL-3,29063,Select the buying company's invoice address on purchase orders
+2026-11-02T20:27:14Z,fedora-fl-runtime,2.1.0b2,FedoRA Contributors <sam.urmian@gmail.com>,Apache-2.0,9234,Standalone security-first federated learning runtime
+2026-11-02T20:28:07Z,hiveheating,0.3.1,Tom Wilkie,MIT,64551,An async Python library to interface with the Hive API
+2026-11-02T20:28:08Z,backbone-agents,4.0.0a1,Backbone System Authors,MIT,47349,"Agent Compiler — Contract is the single source of truth. Arabic-first, framework-agnostic."
+2026-11-02T20:28:35Z,zambo-swarm,1.0.1,Brennan Zambo,,41533,"Swarm coordination for AI agents on Zambo: one coordinator, one caller handle per worker, work moved as handovers, every contribution verified from its receipt. Free per agent: 20 calls + 1 wrap-up e…"
+2026-11-02T20:30:10Z,backchannel-link-client,0.3.0,,Apache-2.0,36764,"A one-file client for Backchannel, email for agents. Standard library only."
+2026-11-02T20:34:14Z,bepad,0.1.0,,GPL-3.0-or-later,163873,BEPAD: a benchmark dataset for seismic phase association built from UTDQuake
+2026-11-02T20:36:05Z,carddav,0.1.0,XMyFun,Apache-2.0,88470,"A minimal, dependency-light CardDAV client library for Python"
+2026-11-02T20:38:07Z,toolbreaker,0.1.0,,MIT,19170,
+2026-11-02T20:39:07Z,sandweaver,0.4.0,Sandweaver contributors,Apache-2.0,282503,"Python SDK for the Sandweaver sandbox orchestrator: create, exec, snapshot, and manage remote sandboxes — directly or through OpenTela."
+2026-11-02T20:40:25Z,lakeprism,0.1.0a1,LakePrism contributors,Apache-2.0,463167498,Notebook-friendly bindings for governed local LakePrism queries
+2026-11-02T20:44:20Z,earshot-ai,0.0.1,,,2254,The open voice layer for robots. Early placeholder release; the runtime is coming soon.
+2026-11-02T20:44:49Z,parityrun,0.6.0,Arttu Jantunen,MIT,207691,"Port your app to another language with your AI tool, and prove the port behaves exactly like the original"
+2026-11-02T20:45:59Z,mobile-re-mcp,1.2.0,"FlyPhantomFly, mobile-security-mcp contributors",MIT,152270,"Android dynamic analysis MCP server: adb, Frida, mitmproxy, apktool, jadx"
+2026-11-02T20:49:55Z,mcp-proton-mail,1.30.0,Dmitri Manajev <dmitri@manajev.com>,Apache-2.0,1981484,"Unofficial MCP server for Proton Mail Bridge: read mail, create drafts and run guarded cleanup. Not affiliated with or endorsed by Proton AG."
+2026-11-02T20:50:44Z,zambo-verify-pass,1.0.0,Brennan Zambo,,34472,"The verify pass for AI agents on Zambo: take a claim plus its receipt link, check the receipt at the v2 verify endpoint, compare the claim against the saved record, and record the verdict. Free per a…"
+2026-11-02T20:51:58Z,healthrecord-bridge,0.1.0,Daniel Barker,MIT,167465,Convert personal health record exports (HL7 C-CDA from Epic MyChart and others) into FHIR R4
+2026-11-02T20:52:21Z,zambo-watch,1.0.0,Brennan Zambo,,40842,"Signal watch for AI agents on Zambo: save a baseline to memory under your own handle, check on a schedule, alert only on real movement, wrap a digest either way. Free per agent: 20 calls + 1 wrap-up…"
+2026-11-02T20:53:03Z,blitzy-client-model,0.0.0,Blitzy,,1222,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-02T20:53:20Z,ubl-bindings,0.1.0,ALYF GmbH,MIT,6966143,"Python data bindings for all UBL document types, generated from the official XSD schemas"
+2026-11-02T20:53:31Z,machinome-node-openscad,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,40787,The OpenSCAD node family of Machinome and its SCAD writer
+2026-11-02T20:53:46Z,machinome-node-solid2,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,32163,"The Solid2Node type of Machinome, a leaf of the OpenSCAD node family rendered with SolidPython"
+2026-11-02T20:54:01Z,machinome-node-step,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,53507,"The STEP node types of Machinome, on CadQuery's reader"
+2026-11-02T20:54:15Z,RepoWhisper,0.0.1.dev1,,,2531,Placeholder for the upcoming RepoWhisper library.
+2026-11-02T20:54:16Z,machinome-node-stl,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,35447,"The STL node type of Machinome, a committed mesh as a part"
+2026-11-02T20:54:28Z,zambo-delivery,1.0.0,Brennan Zambo,,42466,"Client delivery proof for AI agents on Zambo: work inside one job, wrap the delivery as a handover the client checks step by step, hold the pickup as the sign-off. Free per identity: 20 calls + 1 wra…"
+2026-11-02T20:56:56Z,contextwaise,0.1.0,,MIT,87498,"Shrink agent tool results at birth: cache-safe, reversible, intent-aware."
+2026-11-02T20:58:44Z,aiotemescal,0.2.0,Florent Thiéry <fthiery@gmail.com>,Apache-2.0,49070,Asyncio client for LG soundbars and speakers (temescal protocol)
+2026-11-02T20:59:25Z,beast403,0.1.0,sand8storm,MIT,75044,Accuracy-first 403 bypass scanner that verifies findings against live oracles to suppress false positives.
+2026-11-02T21:00:07Z,praktika-controller,0.1.28,,,52459,Thin controller for launching versioned Praktika workloads
+2026-11-02T21:01:46Z,Alilnvest-Codal,1.5.4,,MIT,192179,"Alilnvest-Codal — a resilient, typed Python client for Iranian Codal disclosures"
+2026-11-02T21:06:12Z,glimpse-ai,0.0.1,Alex Santana,MIT,3907,"Placeholder for Glimpse, an AI assistant for NiceGUI apps that can see the page. Under development, with no usable release yet."
+2026-11-02T21:10:49Z,nyssa-ai-result,0.2.2,NyssaAI <oss@nyssa.ai>,Apache-2.0,26912,Railway-oriented programming (ROP) Result pattern for functional error handling in Python.
+2026-11-02T21:11:54Z,rostainer-deploy,0.0.3,rostainer contributors,MIT,51105,"rostainer plugin: push package updates to robots over ssh, through a local registry"
+2026-11-02T21:11:57Z,rostainer-instances,0.0.3,rostainer contributors,MIT,16791,"rostainer plugin: run several copies of a ROS environment, for simulation and testing"
+2026-11-02T21:11:59Z,rostainer-package,0.0.3,rostainer contributors,MIT,130453,"rostainer plugin: build deployable images of a ROS workspace, for robots"
+2026-11-02T21:15:07Z,fm-orchestrator,0.2.0,fm-orchestrator maintainers,MIT,21343,Financial Model Orchestrator for controlled three-statement Excel modeling workflows.
