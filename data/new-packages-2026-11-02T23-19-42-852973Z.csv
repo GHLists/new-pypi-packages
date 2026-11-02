@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T22:18:58Z,unifi-fabric-mcp-server,0.7.0,SWK Studios,MIT,1883794,"MCP server for the UniFi Fabric API: Network, Protect, Site Manager, InnerSpace, Carrier Fabric, Mobility and ISP tools."
+2026-11-02T22:21:04Z,getcourier,0.2.1,Nuvidian,MIT,28559,"Email for AI agents: create an inbox in one call, wait for the verification code, reply and send. Client + CLI for getcourier.dev."
+2026-11-02T22:21:05Z,adrails,0.2.3,adsops contributors,Apache-2.0,125916,AdRails: open-source Google Ads MCP server with hard spend guardrails. Agents read freely and write only through a reviewed desired-state file.
+2026-11-02T22:22:25Z,mdio-py,0.8.5,,,13922719,MDIO Logic SDK & Runtime
+2026-11-02T22:23:51Z,curbi-langchain,0.1.0,"Curbi, Inc.",MIT,14561,Fail-closed remote Curbi configured-rule checking for LangChain text runnables
+2026-11-02T22:25:56Z,probity-effects,0.1.0,Sankalp Gilda,Apache-2.0,51321,"Keep one effect per agent tool call when its reply is lost: reconcile before resend, record the trail, test it in CI"
+2026-11-02T22:28:06Z,gridfm-app-distribution,0.0.1,Mikka Kisuule <mikka.kisuule@inesctec.pt>,Apache-2.0,606302,Grid Foundation Model for electricity distribution use cases
+2026-11-02T22:28:11Z,pipewhy,0.1.0.dev0,,LicenseRef-Proprietary,306335,Array-based data integrity and lineage diagnostics
+2026-11-02T22:28:40Z,cronos-flow-sdk,0.1.0,Team Sophia <contato@sophialabs.com.br>,Proprietary,58150,"SDK oficial da API publica do CronosFlow: envio de WhatsApp com ritmo seguro, idempotencia e repeticao controlada."
+2026-11-02T22:30:39Z,curbi-llamaindex,0.1.0,"Curbi, Inc.",MIT,15507,Fail-closed remote Curbi configured-rule checking for completed LlamaIndex responses
+2026-11-02T22:30:42Z,rek,0.1.2,,,32387,Local English transcription and speaker diarization with ONNX Runtime
+2026-11-02T22:31:29Z,methodcard,0.1.0,Max,"MIT License Copyright (c) 2026 Max Lindqvist Permission is hereby granted, free of charge, to any p…",59198,"The math of each numerical method, declared once and shown in its docs and tests."
+2026-11-02T22:32:42Z,thkee-realtime,0.1.1,,,57317,Thkee Realtime server SDK: sign room tokens and publish events from a tenant backend
+2026-11-02T22:33:13Z,geonormml,0.1.0,Jordan Angel Luciano Zavaleta Reyes <jordanzav@gisgeo.dev>,GPL-3.0-or-later,294084,Machine learning pipeline for petrographic rock classification using geochemical data
+2026-11-02T22:34:23Z,erp-sandbox,0.2.0,Brian Pond <brian@datahenge.com>,MIT,259921,Build a containerized ERPNext development environment from one config.toml
+2026-11-02T22:37:37Z,mizzle,0.1.1,,MIT,668360,"Fully typed async ORM for PostgreSQL: SQL-like queries, schema-driven migrations and a data studio"
+2026-11-02T22:38:45Z,yogalayout,0.1.0,,MIT,6807972,RAII Python bindings for the Yoga flexbox layout engine
+2026-11-02T22:42:31Z,eyvan,0.0.2,Erfan Zare Chavoshi,AGPL-3.0-or-later,4393741,"A policy-aware global fleet control plane with native GCP CPU, GPU, and TPU capacity"
+2026-11-02T22:47:33Z,pipeline-safety-toolkit,0.1.0a1,Ugwiyeon Lee,MIT,8108022,Composable pipeline safety engineering with explicit model contracts and reproducible verification
+2026-11-02T22:50:27Z,gruplac-json,0.1.0,Diego Restrepo <restrepo@udea.edu.co>,MIT,147283,"Turn a research group's public GrupLAC page (Minciencias, Colombia) into one JSON document, in the cvlac-json schema, with member affiliations and Scienti ids."
+2026-11-02T22:50:27Z,krims,5.7.0,Krylo & The Krims Engineering Team <71krishivpb@gmail.com>,MIT,17562,"Krims Code AI — Unified Python Master Toolkit (AI, Game, Bot, Rewards, and CLI)"
+2026-11-02T22:51:54Z,reflex-vercel-analytics,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,MIT,61015,"Vercel Web Analytics for Reflex, powered by @vercel/analytics: config file, automatic SPA page views with route templates, custom events from Python, beforeSend filtering and opt-out"
+2026-11-02T22:53:45Z,product-monte-carlo,0.1.1,Pietro Carlotti,MIT,27035,Product Monte Carlo for distributed and federated inference
+2026-11-02T22:55:47Z,fjader,0.2.0,,BSD-3-Clause,1480070,"An experimental, declarative charting library for Svelte and Python that queries DuckDB and renders with WebGPU"
+2026-11-02T23:04:28Z,beakr-sdk,0.1.0,Beakr <hello@thebeakr.com>,Apache-2.0,424283,Python SDK for the Beakr public API
+2026-11-02T23:05:13Z,pixflex,0.1.0,,MIT,1256798,"Flexbox layout for image arrays: solve a layout with Yoga, then place numpy/torch/... content into it"
+2026-11-02T23:07:12Z,clutchapi,0.1.0,Cooper Tech Solutions LLC,MIT,9303,"Official client for the CLUTCH sports odds API: live odds and player props from 30+ books, line movement, closing lines, CLV, arbitrage and webhooks."
+2026-11-02T23:09:28Z,apiverve-domainage,1.2.4,APIVerve <hello@apiverve.com>,MIT,20860,"Domain Age returns when a domain was first registered and how old it is in days, months and years, with a readable age, an age bracket and a newly-registered flag. Paid plans add the expiration date…"
+2026-11-02T23:09:32Z,apiverve-duedatecalculator,1.2.4,APIVerve <hello@apiverve.com>,MIT,21534,"Due Date Calculator estimates pregnancy due dates using either last menstrual period or conception date, providing comprehensive pregnancy timeline information."
+2026-11-02T23:09:36Z,apiverve-dnspropagationchecker,1.2.4,APIVerve <hello@apiverve.com>,MIT,21960,DNS Propagation Checker is a DNS checker API that verifies if DNS changes have propagated across multiple global DNS servers. It queries DNS servers worldwide to show the current state of your DNS re…
+2026-11-02T23:10:08Z,apiverve-dkimvalidator,1.2.4,APIVerve <hello@apiverve.com>,MIT,22365,DKIM Validator checks the DomainKeys Identified Mail (DKIM) DNS records for a domain to verify that they are present and correctly formatted.
+2026-11-02T23:10:21Z,genai-spit,1.0.0,Amey Jagannath Sonvadkar,MIT,71405,"9 Generative-AI lab experiments (VAE, GAN, text generation, text-to-image, DeepFake AE, music, CycleGAN, chatbot, diffusion) that run offline without pretrained models"
+2026-11-02T23:10:29Z,affixio-agent-action-assurance,0.2.0,,MIT,53663,"Signed agent mandates, constrained delegation and durable execution evidence."
+2026-11-02T23:11:54Z,backtest-doctor,0.4.0rc4,suguobin2021,MIT,58182,"Offline backtest integrity checks for OHLCV, trade timing, and stability"
+2026-11-02T23:13:09Z,oak-events,0.1.1,oak-events contributors,MIT,51054,"Privacy-first events from Luxonis OAK cameras for AI agents: JSON lines and an MCP server, never pictures."
+2026-11-02T23:15:14Z,pppandas,0.1.0,PratikChavan05,MIT,11142,A terminal tool to browse and download the PratikChavan05/LP3 GitHub repository
+2026-11-02T23:15:20Z,flyewin,0.1.0,,MIT,16319,Official client for the flye.win APIs. No dependencies.
+2026-11-02T23:16:10Z,git-reclaim,0.1.0,Michael Borck <michael@borck.dev>,MIT,29058,Reclaim disk space across a tree of git repositories
