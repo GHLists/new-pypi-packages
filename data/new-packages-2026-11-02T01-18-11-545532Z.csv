@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T00:21:37Z,pelican-feed-minify,1.0.1,Ysard <ysard@users.noreply.github.com>,AGPL-3.0-or-later,11026,A Pelican plugin to check & minify HTML fields before XML serialization into RSS & Atom feeds.
+2026-11-02T00:22:31Z,nexus-lite,0.2.2,Wookjin Choi <wookjin.choi@jefferson.edu>,MIT,403774,Ultra-simple Colab-ready multi-agent primitives for Nexus
+2026-11-02T00:26:27Z,dnd5e-character-builder,0.1.0,Ben Strackany,MIT,276949,"Build, level up and check D&D 2024 (SRD 5.2.1) character sheets, on top of the nat20 rules engine."
+2026-11-02T00:27:16Z,astraea-adk,1.0.0,Hillario RZA,Proprietary & Confidential,95457792,Enterprise-Grade Mixture-of-Agents (MoA) Orchestration & Autonomous Agent Development Kit
+2026-11-02T00:27:45Z,hook-shipyard,0.1.0,,MIT,42080,Consumer-neutral native agent hook management.
+2026-11-02T00:32:15Z,pip-vm,0.1.1,,,63002,"Like pipx, but each installed program runs in a throwaway virtual machine"
+2026-11-02T00:51:30Z,drex-spark,0.1.1,Nace AI <engineering@nace.ai>,MIT,103895,"Drex for Apache Spark: typed questions about your rows, from PySpark and SQL"
+2026-11-02T00:51:41Z,x402check-langchain,0.1.0,x402check,MIT,7651,LangChain tools for x402check — preflight x402 seller endpoints (ok|caution|avoid) before an agent pays.
+2026-11-02T00:53:50Z,didcheck,0.1.1,"Aditya Alaparti, Amann Katta, Nithin Vargese, Swaraj Sainani",BSD-3-Clause,795064,Full temporal covariance and centered bootstrap diagnostics for pretreatment variance restrictions
+2026-11-02T00:54:26Z,openiec61850,0.1.0,Vicente Vendramin,Apache-2.0,41796990,Clean-room IEC 61850 implementation with a C++20 core and an asyncio Python API
+2026-11-02T00:54:55Z,hypervis,0.1.0,,Apache-2.0,2335,Short alias for the HyperVisual CLI launcher (`hypervisual`): architecture diagrams as code.
+2026-11-02T00:56:19Z,geo-visibility-cli,0.2.1,Douglas Gouvea,MIT,70599,Check how AI answer engines mention your brand (GEO visibility) and whether your site allows AI crawlers.
+2026-11-02T01:00:07Z,kuyen,0.2.0,KUYEN maintainers,Apache-2.0,365702,KUYEN: governed canonical memory and knowledge for Leftraru agents
+2026-11-02T01:01:52Z,lombokserde,0.1.0,codinglombok,Apache-2.0,49561,"JSON, TOML and MessagePack serialization with byte-identical results across Python, Rust, TypeScript, Go and PHP. Pure Python, zero dependencies."
+2026-11-02T01:03:42Z,crawlora-opendota,0.1.0,Crawlora,MIT,67037,"Crawlora OpenDota API client with 30 endpoints for Dota 2 matches, heroes, players, teams, leagues, statistics, and game constants"
+2026-11-02T01:06:03Z,voxport,0.5.0,Brien Alkire,MIT,28604,"Text-to-speech and speech-to-text interfaces with swappable engine adapters (Kokoro, Wyoming Whisper)."
+2026-11-02T01:08:22Z,scamscript,0.3.0,scamscript contributors <313729361+sjdsjadjajdjsa@users.noreply.github.com>,MIT,434653,Reverse-engineer scam scripts and vishing transcripts into structured counter-playbooks
+2026-11-02T01:10:27Z,eternal-return-api,0.1.0,김정현,MIT,283498,"Unofficial Python client for the Eternal Return Open API, from ERCraft: incremental sync, game watching, teams, tiers and names."
+2026-11-02T01:11:36Z,mcpprobe-kit,1.0.0,Shiwin,MIT,328912,"Conformance checker, schema fuzzer and tool-usability evaluator for MCP servers"
+2026-11-02T01:12:49Z,CRNNondim,1.0.0,"Georgio Hawi <georgio.hawi@sydney.edu.au>, Martin Wechselberger <martin.wechselberger@sydney.edu.au>",MIT,166179,Automated non-dimensionalisation of polynomial dynamical systems via chemical reaction networks
+2026-11-02T01:16:39Z,labs-api-python,1.0.0,Conscherry,MIT,18201,"A user-friendly Python client for the Discord Labs API. This package makes it simple to fetch public data (bots, users, website stats) and post authenticated bot statistics."
+2026-11-02T01:17:09Z,unifiedkappa,0.1.0,Yi Xia,BSD-3-Clause,52264,Diagonal and off-diagonal (coherence) lattice thermal conductivity from phonopy and ShengBTE
