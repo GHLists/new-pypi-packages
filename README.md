@@ -8,43 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 01:18 UTC
+## Latest list — 2026-11-03 02:19 UTC
 
-New packages created between 2026-11-03 00:18 UTC and 2026-11-03 01:18 UTC.
+New packages created between 2026-11-03 01:18 UTC and 2026-11-03 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-03T01-18-28-545049Z.csv)
+[Full CSV](data/new-packages-2026-11-03T02-19-47-759288Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-02 23:42:34 | [measuring-autonomy](https://pypi.org/project/measuring-autonomy/) | 1.1.0 | Emmanuel A. Otchere | 26.6 kB | Measure and manage autonomy: safe-level scoring, Autonomy Ledger health checks,… |
-| 2026-11-03 00:18:21 | [aionepviewer](https://pypi.org/project/aionepviewer/) | 0.1.1 |  | 196.2 kB | Async Python library for the NEP solar inverter cloud API (nepviewer.net) |
-| 2026-11-03 00:26:29 | [mnemotree](https://pypi.org/project/mnemotree/) | 1.0.1 | kurcontko <mikeqrc@gmail.com> | 894.9 kB | Persistent, source-first memory for LLM agents |
-| 2026-11-03 00:27:29 | [reproq-django](https://pypi.org/project/reproq-django/) | 0.1.531 | Alejandro Peña <adpena@gmail.… | 335.9 kB | Django 6.0 Tasks backend for reproq-worker (Postgres queue + deterministic runn… |
-| 2026-11-03 00:27:50 | [cnmv-mcp](https://pypi.org/project/cnmv-mcp/) | 0.0.1 | viprojekte | 1.6 kB | Placeholder: MCP server for CNMV disclosures (under development). |
-| 2026-11-03 00:29:51 | [codexhop](https://pypi.org/project/codexhop/) | 1.0.0 | Ebenworks <contact@ebenworks.… | 101.8 kB | Use several ChatGPT accounts with OpenAI Codex on one machine: hop the saved lo… |
-| 2026-11-03 00:30:27 | [responds-forms](https://pypi.org/project/responds-forms/) | 0.4 |  | 261.5 kB | Lançar cartas no FORMS |
-| 2026-11-03 00:31:41 | [mangala-game](https://pypi.org/project/mangala-game/) | 0.2.1 | mammadow | 181.8 kB | Turkish Mangala (mancala) with a strong alpha-beta AI, a web UI, a terminal UI… |
-| 2026-11-03 00:32:34 | [layouts-cvm](https://pypi.org/project/layouts-cvm/) | 0.1.1 | guilhermegor | 312.4 kB | Build, validate and serialise the files a fund sends to CVM, in CVM's own file… |
-| 2026-11-03 00:35:36 | [netlab](https://pypi.org/project/netlab/) | 0.6.1 | Andrey Golovanov | 254.9 kB | Metrics and analysis tools for NetGraph scenarios. |
-| 2026-11-03 00:40:42 | [yapin](https://pypi.org/project/yapin/) | 1.0.0 | "LeAndre C." <leandre@lecanac… | 32.6 kB | A Python library for creating bots on Yapin', built on yapper.py |
-| 2026-11-03 00:41:28 | [mopidy-dial](https://pypi.org/project/mopidy-dial/) | 0.0.2 | Nik Tumbri <natumbri@gmail.co… | 68.4 kB | Mopidy extension implementing SSDP/DIAL endpoint for mopidy-youtube |
-| 2026-11-03 00:44:21 | [pengumon](https://pypi.org/project/pengumon/) | 0.20.1 |  | 2.0 MB | Containerized network diagnostics, hop-by-hop latency tracker, and outage root-… |
-| 2026-11-03 00:44:54 | [pixel-art-skills](https://pypi.org/project/pixel-art-skills/) | 0.1.0 | Gustavo Victor | 261.7 kB | Ateliê de pixel art para agentes de IA: técnica guardada no motor, arte saindo… |
-| 2026-11-03 00:45:19 | [rulestamp-outlook-email-html-lint](https://pypi.org/project/rulestamp-outlook-email-html-lint/) | 0.1.6 | Rulestamp <support@getreadyst… | 31.7 kB | Classic Outlook renders with the Word engine, the new Outlook with WebView2. Li… |
-| 2026-11-03 00:45:40 | [rulestamp-cra-readiness-audit](https://pypi.org/project/rulestamp-cra-readiness-audit/) | 0.1.7 | Rulestamp <support@getreadyst… | 35.6 kB | Flags the lines in your repo that break the EU Cyber Resilience Act - default p… |
-| 2026-11-03 00:45:48 | [rulestamp-cloud-manifest-audit-kit](https://pypi.org/project/rulestamp-cloud-manifest-audit-kit/) | 0.1.6 | Rulestamp <support@getreadyst… | 32.7 kB | For platform engineers on AKS: 28 rules naming every removed apiVersion, litera… |
-| 2026-11-03 00:46:09 | [rulestamp-cms-0057-api-gate](https://pypi.org/project/rulestamp-cms-0057-api-gate/) | 1.0.7 | Rulestamp <support@getreadyst… | 33.5 kB | 14 rules read a FHIR CapabilityStatement against CMS-0057-F. A 2021 payer state… |
-| 2026-11-03 00:47:26 | [commit-me](https://pypi.org/project/commit-me/) | 0.5.1 | Gamaliel Garcia <46827955+EGA… | 18.4 kB | Generate Conventional Commit messages for your staged changes with opencode and… |
-| 2026-11-03 00:49:14 | [runningtab](https://pypi.org/project/runningtab/) | 0.1.0.dev3 | Gavin Carothers <gavin@caroth… | 744.0 kB | Keep a company's books in ERPNext: apply a chart of accounts, ingest the bank,… |
-| 2026-11-03 00:50:16 | [mopidy-nowplaying](https://pypi.org/project/mopidy-nowplaying/) | 0.1.0 | Nik Tumbri <natumbri@gmail.co… | 46.7 kB | Mopidy extension for displaying 'now playing' screen on HDMI via framebuffer |
-| 2026-11-03 00:50:58 | [devflow-toolkit](https://pypi.org/project/devflow-toolkit/) | 0.3.0 | DevFlow contributors | 236.5 kB | Specification workflow toolkit for AI-assisted software changes |
-| 2026-11-03 00:56:27 | [phoneview](https://pypi.org/project/phoneview/) | 1.0.0 | Rahul Chatterjee | 156.6 kB | View and control a USB-connected Android phone or iPhone from a browser |
-| 2026-11-03 00:57:16 | [guppy-estimand](https://pypi.org/project/guppy-estimand/) | 0.1.0 | Kristian Koci <kristian.koci@… | 143.0 kB | Fault-tolerant physical resource estimation for guppylang/HUGR programs |
-| 2026-11-03 01:00:59 | [phylohist](https://pypi.org/project/phylohist/) | 0.1.0 | Henry H. Andrews | 1.4 MB | Published taxonomic opinions on Palaeozoic echinoderms, recorded as printed, wi… |
-| 2026-11-03 01:04:38 | [o2i-lexicons](https://pypi.org/project/o2i-lexicons/) | 0.0.1a1 | JarbasAi <jarbasai@mailfence.… | 22.9 kB | Default residual lexicons for orthography2ipa: only the words its rules cannot… |
-| 2026-11-03 01:04:59 | [mcpnuke](https://pypi.org/project/mcpnuke/) | 6.22.0 | babywyrm | 1.2 MB | MCP red teaming & security scanner — enumerate, probe, and exploit Model Contex… |
-| 2026-11-03 01:06:13 | [opaige](https://pypi.org/project/opaige/) | 1.0.0 |  | 15.9 kB | The Opaige API for Python: visa requirements, file review, forms, bookings, lod… |
-| 2026-11-03 01:07:35 | [tgsherlock](https://pypi.org/project/tgsherlock/) | 1.0.0 |  | 1.8 MB | Local web panel for Telegram OSINT: live monitoring, alerts, user tracking and… |
-| 2026-11-03 01:08:33 | [yummypy](https://pypi.org/project/yummypy/) | 0.1.0 | blacksnow81 <blacksnow81@sohu… | 2.9 kB | My first package published to PyPI |
-| 2026-11-03 01:08:59 | [mongodb-typesafe-aggregation](https://pypi.org/project/mongodb-typesafe-aggregation/) | 0.1.0 | Chimzuruoke Okafor, Augustine… | 164.4 kB | A type-safe, fluent builder for MongoDB aggregation pipelines. Works with PyMon… |
-| 2026-11-03 01:14:25 | [evalban](https://pypi.org/project/evalban/) | 0.1.0 | Evalban <hello@evalban.com> | 13.6 kB | Send eval runs and production feedback to Evalban, the board that knows when yo… |
+| 2026-11-03 01:17:08 | [ckpt-policy](https://pypi.org/project/ckpt-policy/) | 0.21.0 | The checkpoint-governor contr… | 6.2 MB | Tell checkpoint-governor where the loop is, and let it tell you when a write is… |
+| 2026-11-03 01:18:47 | [controlm-chain-admin](https://pypi.org/project/controlm-chain-admin/) | 0.1.0 | Victor H. Bilouro | 1.0 MB | Manage BMC Control-M job chains as a git-friendly JSON repository: XML import/e… |
+| 2026-11-03 01:20:26 | [miniboosts](https://pypi.org/project/miniboosts/) | 0.5.2 | Ryotaro Mitsuboshi | 7.6 MB | Boosting algorithms for research and comparison, implemented in Rust, with scik… |
+| 2026-11-03 01:20:52 | [cyan-eclipse-book](https://pypi.org/project/cyan-eclipse-book/) | 0.1.0 | Cyan Eclipse Technologies LLC | 57.5 kB | Market data + venue access layer — not an exchange: one book, one fee truth, on… |
+| 2026-11-03 01:22:38 | [filipt](https://pypi.org/project/filipt/) | 0.1.4 |  | 11.3 kB | Windows utility that ships hello.exe and shows a hello dialog |
+| 2026-11-03 01:26:34 | [ashmatics-playbook-grammar](https://pypi.org/project/ashmatics-playbook-grammar/) | 0.1.0 | JF Kalafut <john@asherinforma… | 88.6 kB | FORGE playbook interior grammar, save and publish validators, and content hash… |
+| 2026-11-03 01:28:59 | [podcast-generator](https://pypi.org/project/podcast-generator/) | 0.3.0 | Brien Alkire | 67.2 kB | Turn markdown podcast scripts into spoken-word audio locally with Kokoro text-t… |
+| 2026-11-03 01:29:22 | [ok-pyside-minimal](https://pypi.org/project/ok-pyside-minimal/) | 6.12.0.post2 | Qt for Python Team <pyside@qt… | 134.8 MB | Unofficial PySide6 Essentials subset for Qt Widgets applications |
+| 2026-11-03 01:29:55 | [mktotp](https://pypi.org/project/mktotp/) | 0.9.13 | kanok-one <zervoid77@gmail.co… | 66.9 kB | A Simple TOTP Secret Manager with MCP Server Support |
+| 2026-11-03 01:31:06 | [tatolab-speaker](https://pypi.org/project/tatolab-speaker/) | 0.68.13 | Jonathan Fontanez <fontanezj1… | 690.1 kB | The speaker node for Tatolab streams. |
+| 2026-11-03 01:31:12 | [unleashed-podcasts-cli](https://pypi.org/project/unleashed-podcasts-cli/) | 0.4.0 | Scott Keck-Warren | 144.0 kB | Command-line interface for the UnleashedPodcasts.com private v1 API |
+| 2026-11-03 01:33:02 | [parking-tickets](https://pypi.org/project/parking-tickets/) | 0.1.0 | ivanvia7 | 47.5 kB | Parking tickets from many US cities in one schema, cached in SQLite |
+| 2026-11-03 01:36:37 | [vercel-passport](https://pypi.org/project/vercel-passport/) | 0.1.0 |  | 41.8 kB | Passport identity helpers for Vercel Python applications |
+| 2026-11-03 01:42:39 | [catalyst-brains](https://pypi.org/project/catalyst-brains/) | 0.0.1 | Strategic Innovations AI <sup… | 1.8 MB | Agent memory in fixed-size vectors: key-value recall with a confidence score, a… |
+| 2026-11-03 01:42:39 | [kolavid](https://pypi.org/project/kolavid/) | 0.1.0 | Kola Labs Ltd <support@kolavi… | 36.5 kB | Official Python client for the KolaVid API: turn a prompt, text or web page int… |
+| 2026-11-03 01:50:11 | [uc-manager-cann921-a2](https://pypi.org/project/uc-manager-cann921-a2/) | 0.9.0 | Unified Cache Team | 8.4 MB | Persist and reuse KV Cache to speedup your LLM. |
+| 2026-11-03 01:50:15 | [uc-manager-cann921-a3](https://pypi.org/project/uc-manager-cann921-a3/) | 0.9.0 | Unified Cache Team | 9.4 MB | Persist and reuse KV Cache to speedup your LLM. |
+| 2026-11-03 01:50:19 | [uc-manager-cann921-a5](https://pypi.org/project/uc-manager-cann921-a5/) | 0.9.0 | Unified Cache Team | 7.4 MB | Persist and reuse KV Cache to speedup your LLM. |
+| 2026-11-03 01:51:31 | [lmcache-inprocess](https://pypi.org/project/lmcache-inprocess/) | 0.1.0rc2 | LMCache Team <lmcacheteam@gma… | 1.6 MB | The legacy in-process execution mode for LMCache. |
+| 2026-11-03 01:52:56 | [cairn-papi](https://pypi.org/project/cairn-papi/) | 2.0.0rc16 | imbingox | 73.9 MB | Independent third-party fork of NautilusTrader with Binance PAPI support |
+| 2026-11-03 01:53:18 | [edupage-keyring-mcp](https://pypi.org/project/edupage-keyring-mcp/) | 0.1.0 | Stefan Backor | 96.8 kB | EduPage MCP server for Claude and other MCP clients: timetables, grades, homewo… |
+| 2026-11-03 01:53:19 | [infinihash-baas](https://pypi.org/project/infinihash-baas/) | 0.1.0 | Infinihash | 10.9 kB | Python SDK for Infinihash Rails (BaaS): invoices, collection, settlement, signe… |
+| 2026-11-03 01:55:39 | [fast-feature-transform](https://pypi.org/project/fast-feature-transform/) | 0.0.1 | Max Lei | 34.9 MB | Feature preprocessing for machine learning, written in C++ with a Python API |
+| 2026-11-03 01:59:40 | [updsts](https://pypi.org/project/updsts/) | 0.8.9 |  | 48.4 kB | Get and update AWS STS credential using existing AWS profile. |
+| 2026-11-03 02:00:24 | [universal-local-db](https://pypi.org/project/universal-local-db/) | 0.1.0 | Nabneet Panda | 60.2 kB | Universal local database & storage buckets with a Supabase-like fluent API |
+| 2026-11-03 02:04:16 | [vercel-passport-bundle](https://pypi.org/project/vercel-passport-bundle/) | 0.1.0 |  | 41.7 kB | Passport identity helpers for Vercel Python applications |
+| 2026-11-03 02:05:54 | [safelabs-guard](https://pypi.org/project/safelabs-guard/) | 0.1.0 | Waqar Javed | 36.2 kB | Python port of the SafeLabs Guard core: a deterministic checkpoint that validat… |
+| 2026-11-03 02:06:48 | [pentester-mcp](https://pypi.org/project/pentester-mcp/) | 0.3.0 | keselyoleren | 180.4 kB | Authorization-gated penetration testing MCP server for agentic AI |
+| 2026-11-03 02:11:52 | [universal-doc-reader](https://pypi.org/project/universal-doc-reader/) | 0.1.0 | NabPrime03 <nabneetpanda003@g… | 57.3 kB | Offline, lightweight layout-agnostic document processing library and CLI |
+| 2026-11-03 02:14:49 | [clawprobe](https://pypi.org/project/clawprobe/) | 1.3.0 | ClawProbe Security Team <8763… | 46.0 kB | ClawProbe (洞察·灵枢): Zero-Dependency Mobile APK 300s Live Dynamic Privacy Inspect… |
+| 2026-11-03 02:19:15 | [anchorless](https://pypi.org/project/anchorless/) | 1.0.0 | Gabe Becker | 1.5 MB | A 24/7 text newscast for IPTV: headlines in, MPEG-TS out. News without the anch… |
+| 2026-11-03 02:19:21 | [mayalok](https://pypi.org/project/mayalok/) | 0.1.0 | Team QWERTY (Ajay Yadav, Hite… | 61.6 kB | Mayalok: smartphone capture -> navigable 3D Gaussian Splat digital twin pipeline |

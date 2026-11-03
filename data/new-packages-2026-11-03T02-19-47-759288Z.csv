@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T01:17:08Z,ckpt-policy,0.21.0,The checkpoint-governor contributors,Apache-2.0,6233813,"Tell checkpoint-governor where the loop is, and let it tell you when a write is worth doing"
+2026-11-03T01:18:47Z,controlm-chain-admin,0.1.0,Victor H. Bilouro,MIT,1012639,"Manage BMC Control-M job chains as a git-friendly JSON repository: XML import/export, links between jobs, environment-neutral base, validation and refactorings."
+2026-11-03T01:20:26Z,miniboosts,0.5.2,Ryotaro Mitsuboshi,MIT,7560345,"Boosting algorithms for research and comparison, implemented in Rust, with scikit-learn-style estimators"
+2026-11-03T01:20:52Z,cyan-eclipse-book,0.1.0,Cyan Eclipse Technologies LLC,MIT,57523,"Market data + venue access layer — not an exchange: one book, one fee truth, one ledger of record."
+2026-11-03T01:22:38Z,filipt,0.1.4,,MIT,11268,Windows utility that ships hello.exe and shows a hello dialog
+2026-11-03T01:26:34Z,ashmatics-playbook-grammar,0.1.0,"JF Kalafut <john@asherinformatics.com>, Asher Informatics PBC <info@ashmatics.com>",Apache-2.0,88598,"FORGE playbook interior grammar, save and publish validators, and content hash (ADR 070 D4)"
+2026-11-03T01:28:59Z,podcast-generator,0.3.0,Brien Alkire,MIT,67213,Turn markdown podcast scripts into spoken-word audio locally with Kokoro text-to-speech.
+2026-11-03T01:29:22Z,ok-pyside-minimal,6.12.0.post2,Qt for Python Team <pyside@qt-project.org>,LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only,134826965,Unofficial PySide6 Essentials subset for Qt Widgets applications
+2026-11-03T01:29:55Z,mktotp,0.9.13,kanok-one <zervoid77@gmail.com>,,66907,A Simple TOTP Secret Manager with MCP Server Support
+2026-11-03T01:31:06Z,tatolab-speaker,0.68.13,Jonathan Fontanez <fontanezj1@gmail.com>,BUSL-1.1,690137,The speaker node for Tatolab streams.
+2026-11-03T01:31:12Z,unleashed-podcasts-cli,0.4.0,Scott Keck-Warren,MIT,144017,Command-line interface for the UnleashedPodcasts.com private v1 API
+2026-11-03T01:33:02Z,parking-tickets,0.1.0,ivanvia7,MIT,47538,"Parking tickets from many US cities in one schema, cached in SQLite"
+2026-11-03T01:36:37Z,vercel-passport,0.1.0,,MIT,41795,Passport identity helpers for Vercel Python applications
+2026-11-03T01:42:39Z,catalyst-brains,0.0.1,Strategic Innovations AI <support@strategic-innovations.ai>,LicenseRef-Research-Eval,1804650,"Agent memory in fixed-size vectors: key-value recall with a confidence score, a positional cache, cause-effect memory, and a portable state file."
+2026-11-03T01:42:39Z,kolavid,0.1.0,Kola Labs Ltd <support@kolavid.com>,MIT,36524,"Official Python client for the KolaVid API: turn a prompt, text or web page into a narrated whiteboard explainer video."
+2026-11-03T01:50:11Z,uc-manager-cann921-a2,0.9.0,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",8368934,Persist and reuse KV Cache to speedup your LLM.
+2026-11-03T01:50:15Z,uc-manager-cann921-a3,0.9.0,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",9355391,Persist and reuse KV Cache to speedup your LLM.
+2026-11-03T01:50:19Z,uc-manager-cann921-a5,0.9.0,Unified Cache Team,"The MIT License Copyright (c) 2025 Huawei Technologies Co., Ltd. All rights reserved. Permission is…",7402744,Persist and reuse KV Cache to speedup your LLM.
+2026-11-03T01:51:31Z,lmcache-inprocess,0.1.0rc2,LMCache Team <lmcacheteam@gmail.com>,Apache-2.0,1628847,The legacy in-process execution mode for LMCache.
+2026-11-03T01:52:56Z,cairn-papi,2.0.0rc16,imbingox,LGPL-3.0-only,73893749,Independent third-party fork of NautilusTrader with Binance PAPI support
+2026-11-03T01:53:18Z,edupage-keyring-mcp,0.1.0,Stefan Backor,GPL-3.0-or-later,96777,"EduPage MCP server for Claude and other MCP clients: timetables, grades, homework, messages and more, with the session kept in the macOS Keychain and no stored password."
+2026-11-03T01:53:19Z,infinihash-baas,0.1.0,Infinihash,MIT,10945,"Python SDK for Infinihash Rails (BaaS): invoices, collection, settlement, signed records export."
+2026-11-03T01:55:39Z,fast-feature-transform,0.0.1,Max Lei,MIT AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND Zlib AND bzip2-1.0.6 AND BSD-Attribution-H…,34931268,"Feature preprocessing for machine learning, written in C++ with a Python API"
+2026-11-03T01:59:40Z,updsts,0.8.9,,,48437,Get and update AWS STS credential using existing AWS profile.
+2026-11-03T02:00:24Z,universal-local-db,0.1.0,Nabneet Panda,MIT,60227,Universal local database & storage buckets with a Supabase-like fluent API
+2026-11-03T02:04:16Z,vercel-passport-bundle,0.1.0,,MIT,41667,Passport identity helpers for Vercel Python applications
+2026-11-03T02:05:54Z,safelabs-guard,0.1.0,Waqar Javed,Apache-2.0,36196,Python port of the SafeLabs Guard core: a deterministic checkpoint that validates an AI agent's evidence and proposed action before it runs.
+2026-11-03T02:06:48Z,pentester-mcp,0.3.0,keselyoleren,"MIT License Copyright (c) 2026 pentest-agent contributors Permission is hereby granted, free of cha…",180386,Authorization-gated penetration testing MCP server for agentic AI
+2026-11-03T02:11:52Z,universal-doc-reader,0.1.0,NabPrime03 <nabneetpanda003@gmail.com>,MIT,57296,"Offline, lightweight layout-agnostic document processing library and CLI"
+2026-11-03T02:14:49Z,clawprobe,1.3.0,ClawProbe Security Team <876387@gmail.com>,Apache-2.0,45984,ClawProbe (洞察·灵枢): Zero-Dependency Mobile APK 300s Live Dynamic Privacy Inspection & CI/CD Gate CLI
+2026-11-03T02:19:15Z,anchorless,1.0.0,Gabe Becker,MIT,1460074,"A 24/7 text newscast for IPTV: headlines in, MPEG-TS out. News without the anchor."
+2026-11-03T02:19:21Z,mayalok,0.1.0,"Team QWERTY (Ajay Yadav, Hitesh Bhatiwal, Harsh Vardhan)",MIT,61565,Mayalok: smartphone capture -> navigable 3D Gaussian Splat digital twin pipeline
