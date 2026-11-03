@@ -1,34 +1,55 @@
 {
   "list": {
-    "count": 54,
-    "from": "2026-11-03T09:19:15.301427Z",
-    "path": "data/new-packages-2026-11-03T10-18-19-767508Z.csv",
-    "to": "2026-11-03T10:18:19.767508Z"
+    "count": 55,
+    "from": "2026-11-03T10:18:19.767508Z",
+    "path": "data/new-packages-2026-11-03T11-20-36-205415Z.csv",
+    "to": "2026-11-03T11:20:36.205415Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-03T10:35:46Z",
+      "package": "astrametrix",
+      "since": "2026-11-03T10:18:19.767508Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-03T11:19:24Z",
+      "package": "ccres-labelling-tools",
+      "since": "2026-11-03T10:18:19.767508Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-03T07:34:30Z",
       "package": "coakka-http",
       "since": "2026-11-03T07:18:23.117057Z",
       "version": "1.1.2"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-03T08:38:21Z",
       "package": "mistralai-blokhus",
       "since": "2026-11-03T08:20:03.697357Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-03T10:42:01Z",
+      "package": "odoo-addon-sale-partner-sale-contact-website-sale",
+      "since": "2026-11-03T10:18:19.767508Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-03T07:26:41Z",
       "package": "ravens-ai",
       "since": "2026-11-03T07:18:23.117057Z",
       "version": "0.7.0"
     }
   ],
-  "serial": 43133784,
+  "serial": 43135957,
   "source_truncated": false,
-  "window": "2026-11-03T10:18:19.767508Z"
+  "window": "2026-11-03T11:20:36.205415Z"
 }

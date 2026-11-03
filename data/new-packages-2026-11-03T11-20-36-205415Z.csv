@@ -1,0 +1,56 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T10:19:52Z,tba-provider-authenticator-mtls-client-cert,0.1.0,,Apache-2.0,3273,mTLS client certificate authenticator provider for the TBA package suite.
+2026-11-03T10:22:20Z,uae-gold-calculator,1.0.0,UAE Gold Prices,MIT,17170,"Gold value calculator for the UAE: 24/22/21/18/14K prices per gram, tola and ounce, making charges, 5% VAT and zakat (nisab 85 g). Arabic + English CLI, zero dependencies."
+2026-11-03T10:23:01Z,dipcoin-client,1.3.0,,MIT,109304,Library to interact with dipcoin perp protocol including its off-chain api-gateway and on-chain contracts
+2026-11-03T10:24:48Z,debt-atlas,0.1.0,Jaudat Faisal Al-Husein <jaudatalhusein@gmail.com>,MIT,58183,"Sovereign debt, deficits, government spending and who-owes-whom data for every country — World Bank and IMF, with provenance."
+2026-11-03T10:27:42Z,probe-contracts,0.1.0,Probe <team@prbe.ai>,Apache-2.0,294876,"Probe Research's shared contracts: domain records, their generated client views, and the vocabularies every surface reads."
+2026-11-03T10:28:26Z,firms-client,0.2.0,Giuseppe Zileni,Apache-2.0,49314,"Client for NASA FIRMS active fires: open per-country archives, NRT area API, detection types"
+2026-11-03T10:29:09Z,simplibs-extractor-python,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,113353,"The Python add-on of simplibs-extractor: file rules for Python projects, steps that remove comments, docstrings, imports and decorators (found with ast and tokenize, never with a regex), an outline s…"
+2026-11-03T10:32:45Z,mcp-server-telegram-bot,0.2.0,Mirmaxamat,MIT,1498596,MCP server that lets AI agents send Telegram messages and files via a bot
+2026-11-03T10:34:17Z,universal-cli-mcp-server,0.2.0,Andreas Heine,Apache-2.0,181003,Swagger for command line tools — expose any CLI as a fully compliant MCP server
+2026-11-03T10:34:26Z,Wgram,0.2.1,Wromly,MIT,135008,"Максимально простая библиотека для Telegram-ботов: кнопки, медиа, состояния, группы, платежи, без async/await на виду"
+2026-11-03T10:35:29Z,plextool,3.0.1,Milkmansson,MIT,121370,Maintenance helpers for a Plex Media Server
+2026-11-03T10:35:38Z,maicroscopy-sandbox,0.3.1,Bruno Saraiva <bruno.msaraiva2@gmail.com>,MIT,53927,Fluorescence microscopy simulation toolkit for synthetic microscopy experiments.
+2026-11-03T10:41:39Z,pii-surrogate,1.0.1,AI Team,,46990,Fully self-contained reversible PII surrogate masking with AES-256-GCM and DynamoDB
+2026-11-03T10:41:47Z,datachat-agent,0.1.0,DataChat Agent contributors,MIT,272800,Open-source AI agent that answers questions from your SQL database and PDFs
+2026-11-03T10:44:27Z,tinybaselines,0.1.0a1,,MIT,94346,PPO in tinygrad.
+2026-11-03T10:45:08Z,pytest-dbt-macros,0.2.1,,MIT,133159,"Unit-test dbt macros (Jinja) with pytest, without dbt-core, an adapter, profiles.yml or a database."
+2026-11-03T10:46:07Z,tba-provider-authenticator-otp-local,0.1.0,,Apache-2.0,3092,Local OTP authenticator provider for the TBA package suite.
+2026-11-03T10:46:38Z,longeval-cli,0.1.0,,,412060,Tools for building dynamic information retrieval test collections
+2026-11-03T10:46:52Z,urace,0.3.0,,,1431865,Persistent autonomous Product-evolution control plane
+2026-11-03T10:46:57Z,prismal-tui,0.2.0,Ernesto Crespo <ecrespo@gmail.com>,"MIT License Copyright (c) 2026 prismal-ai Permission is hereby granted, free of charge, to any pers…",116599,"Terminal UI (Textual) for prismal-server, built exclusively on prismal-sdk (PyPI: prismal-ai-sdk)."
+2026-11-03T10:48:06Z,tba-provider-authenticator-password-local,0.1.0,,Apache-2.0,3391,Local password authenticator provider for the TBA package suite.
+2026-11-03T10:48:19Z,searchify,0.3.0,searchify contributors,MIT,240089,"Local-first web search, clean content extraction and fast reranking. No API key required."
+2026-11-03T10:49:51Z,tba-provider-authenticator-recovery-code-local,0.1.0,,Apache-2.0,3166,Local recovery code authenticator provider for the TBA package suite.
+2026-11-03T10:51:41Z,tba-provider-authenticator-remote-introspection,0.1.0,,Apache-2.0,3088,Remote introspection authenticator provider for the TBA package suite.
+2026-11-03T10:52:45Z,ziipinParser,2.0.0,Artem Manchenkov,MIT,34741,OpenAPI v3 parser
+2026-11-03T10:52:46Z,mysoc-validator-fast,0.2.1,,,14574099,"Fast, Rust-backed Popolo data for Python — drop-in replacement for mysoc_validator"
+2026-11-03T10:53:33Z,scipion-chem-drugclip,3.3.3,Blanca Pueche,,50643,Scipion plugin in order to use the DrugCLIP software
+2026-11-03T10:53:44Z,tba-provider-authenticator-service-key-local,0.1.0,,Apache-2.0,3491,Local service key authenticator provider for the TBA package suite.
+2026-11-03T10:55:36Z,gain-vep-annotator,2026.11.0,Lubomir Chorbadjiev <lubomir.chorbadjiev@gmail.com>,MIT,20315,GAIn VEP Annotator
+2026-11-03T10:55:38Z,tba-provider-authenticator-session-local,0.1.0,,Apache-2.0,2973,Local session authenticator provider for the TBA package suite.
+2026-11-03T10:55:43Z,gain-spliceai-annotator,2026.11.0,Lubomir Chorbadjiev <lubomir.chorbadjiev@gmail.com>,MIT,52642037,GAIn SpliceAI annotator plugin
+2026-11-03T10:55:53Z,gain-demo-annotator,2026.11.0,Lubomir Chorbadjiev <lubomir.chorbadjiev@gmail.com>,MIT,16529,GAIn External Demo Annotator
+2026-11-03T10:57:30Z,tba-provider-authorization-policy-decision-engine,0.4.0.dev2,,Apache-2.0,7918,Concrete authorization policy decision engine provider.
+2026-11-03T10:59:51Z,tba-provider-security-dpop-cnf-binding-validator,0.1.0,,Apache-2.0,2839,DPoP cnf confirmation binding validator provider.
+2026-11-03T11:00:07Z,azotea-cli,2.0.0,"Rafael González, Jaime Zamorano",,88379,AZOTEA command line interface
+2026-11-03T11:00:40Z,simplibs-extractor-javascript,0.1.0,"""Dalibor Sova (Sudip2708)"" <daliborsova@seznam.cz>",MIT,108889,"The JavaScript add-on of simplibs-extractor: file rules for JavaScript, TypeScript and React projects, steps that remove comments, imports, requires and exports (found by a scanner that knows strings…"
+2026-11-03T11:01:48Z,tba-provider-security-mtls-cnf-binding-validator,0.1.0,,Apache-2.0,2841,mTLS cnf confirmation binding validator provider.
+2026-11-03T11:02:46Z,dac-request,0.1.0,,,15244,
+2026-11-03T11:02:56Z,pyrocessing,0.0.1,,,1973,Work in progress
+2026-11-03T11:03:02Z,py-chargemol,1.0.0,"Thomas A. Manz, Nidia Gabaldon Limas, Louie Slocombe",LicenseRef-QDR AND LicenseRef-Chargemol,4903476,"DDEC6, DDEC3, and QDR atomic charges from electron densities in Python."
+2026-11-03T11:03:44Z,tba-provider-token-introspection,0.1.0,,Apache-2.0,4017,OAuth2 token introspection client provider for Tigrbl security token validation.
+2026-11-03T11:04:11Z,pixpoint,8.0.0,David Gebauer <git@gebauer.ai>,MIT,625623,"Two-point, three-point, integrated three-point and one-point statistics of HEALPix maps, on CPUs and GPUs"
+2026-11-03T11:05:11Z,winnie-nfc,1.0.0,Pollen Robotics,Apache-2.0,90042,Host driver for the Pollen Robotics Winnie NFC board (ASE01209): NTAG21x / Ultralight EV1 tags through a CLRC663 over UART-USB
+2026-11-03T11:05:41Z,tba-provider-security-token-jwks-cache,0.1.0,,Apache-2.0,3595,JWKS-backed verification key cache provider for Tigrbl security token validation.
+2026-11-03T11:07:08Z,azotea-plot,2.0.1,"Rafael González, Jaime Zamorano",,24070,Plotting utility for AZOTEA images
+2026-11-03T11:07:20Z,azotea-fits,2.0.0,"Rafael González, Jaime Zamorano",,37813,FITS files pre-processor for AZOTEA
+2026-11-03T11:08:25Z,tba-provider-authorization-resource-server-verifier,0.4.0.dev2,,Apache-2.0,5909,Protected-resource verifier provider for TBAorization resource servers.
+2026-11-03T11:10:31Z,tba-provider-certificate-path-validator,0.4.0.dev2,,Apache-2.0,3766,Explicitly profiled certificate path validation provider.
+2026-11-03T11:12:17Z,tba-provider-certificate-status,0.4.0.dev2,,Apache-2.0,3068,Certificate status snapshot provider.
+2026-11-03T11:13:54Z,pydantic-ai-asyntai,0.1.0,Asyntai <hello@asyntai.com>,MIT,20864,"Pydantic AI capability for Asyntai: give your agent a whole website's knowledge, chats and leads"
+2026-11-03T11:14:16Z,tba-provider-claims-local,0.1.0,,Apache-2.0,3634,Local claims provider wrapper for the TBA package suite.
+2026-11-03T11:16:24Z,orbit-dev,0.1.0,Anand Mohan,MIT,366311,Offline-first coding companion that helps beginners understand and trust their Python code.
+2026-11-03T11:16:42Z,scipion-chem-gromacs,3.3.3,you,,3398306,Scipion plugin for gromacs.
+2026-11-03T11:18:10Z,sitoolz,0.1.0,Lars Rocha,MIT,18181574,"Lars Rocha's number-theory playground, every module in one package: rails, lanes, climbs, folds, rule 30's edge law, the square family, the XOR build system and the XOR difference triangle."
+2026-11-03T11:20:29Z,scipion-chem-durrantlab,3.3.3,Daniel Del Hoyo,,100975,Scipion plugin in order to use durrantlab software

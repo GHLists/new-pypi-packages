@@ -8,65 +8,66 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 10:18 UTC
+## Latest list — 2026-11-03 11:20 UTC
 
-New packages created between 2026-11-03 09:19 UTC and 2026-11-03 10:18 UTC.
+New packages created between 2026-11-03 10:18 UTC and 2026-11-03 11:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-03T10-18-19-767508Z.csv)
+[Full CSV](data/new-packages-2026-11-03T11-20-36-205415Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-03 09:19:29 | [greeclimate-davo22](https://pypi.org/project/greeclimate-davo22/) | 2.4.0 | Clifford Roche | 111.5 kB | Fork of greeclimate adding Gree Cloud (MQTT) support, for cloud-only devices |
-| 2026-11-03 09:19:56 | [ebrains-storage](https://pypi.org/project/ebrains-storage/) | 0.9.0 | EBRAINS <support@ebrains.eu> | 178.9 kB | Python client interface for EBRAINS Collaboratory Drive and Bucket storage (for… |
-| 2026-11-03 09:20:20 | [orkg-llm-logger](https://pypi.org/project/orkg-llm-logger/) | 0.1.0 | Yucel | 19.6 kB | Log LLM calls (OpenAI, Gemini, OpenRouter, ...) to JSON/JSONL in the record for… |
-| 2026-11-03 09:22:04 | [pytest-picker](https://pypi.org/project/pytest-picker/) | 0.1.1 |  | 67.4 kB | 勾选 pytest 测试用例 + Allure 选项，生成可执行命令的 Flask Web 工具 |
-| 2026-11-03 09:22:55 | [copernicus-ems](https://pypi.org/project/copernicus-ems/) | 0.2.0 | Giuseppe Zileni | 49.6 kB | Client for Copernicus EMS Rapid Mapping: activations, observation masks, observ… |
-| 2026-11-03 09:24:32 | [rabmv](https://pypi.org/project/rabmv/) | 0.1.0 | Janer Alfonso Pareja Gutiérre… | 132.5 kB | RabMV: Registry-Aware Boosting Machine of Valledupar, an explainable boosting m… |
-| 2026-11-03 09:29:36 | [trendscale](https://pypi.org/project/trendscale/) | 0.1.0 | Famed Bonobo | 99.6 kB | Google Trends API for Python: compare any number of terms on one 0-100 scale, r… |
-| 2026-11-03 09:29:42 | [google-hotels](https://pypi.org/project/google-hotels/) | 0.1.0 | Famed Bonobo | 106.5 kB | Google Hotels API for Python: hotel search results, prices from every booking s… |
-| 2026-11-03 09:29:57 | [rootcast](https://pypi.org/project/rootcast/) | 0.1.0 | Amaresh Hebbar <hebbar.gvamar… | 9.8 kB | The flight recorder for AI agents. Find where an agent went wrong and why. |
-| 2026-11-03 09:30:19 | [gamspy-examples](https://pypi.org/project/gamspy-examples/) | 54.6.1 |  | 1.6 MB |  |
-| 2026-11-03 09:34:08 | [qelso](https://pypi.org/project/qelso/) | 0.1.0a1 | Qelso | 101.7 kB | Python client for the Qelso Data API: historical prediction-market data from Ka… |
-| 2026-11-03 09:34:21 | [corethink](https://pypi.org/project/corethink/) | 1.0.1 | CoreThink <support@corethink.… | 496.9 kB | The CoreThink Workbench from your terminal: environments, training, endpoints a… |
-| 2026-11-03 09:34:30 | [tba-provider-attestation-packed](https://pypi.org/project/tba-provider-attestation-packed/) | 0.4.0.dev2 |  | 6.4 kB | WebAuthn packed attestation verifier. |
-| 2026-11-03 09:36:02 | [pr-analyzer-cli](https://pypi.org/project/pr-analyzer-cli/) | 0.1.0 | Neil Mathew | 183.3 kB | Score GitHub pull requests with static analysis, security scanning and an optio… |
-| 2026-11-03 09:36:13 | [askre-ai](https://pypi.org/project/askre-ai/) | 0.2.1 | ASK Real Estate (ASKRE) | 30.5 kB | Official Python client for ai.askre.com: run ASKRE's prebuilt AI capabilities f… |
-| 2026-11-03 09:41:09 | [datasheets-md](https://pypi.org/project/datasheets-md/) | 2.0.1 | datasheets.md | 118.4 kB | dsmd: a git-like working copy of your datasheets.md workspace (parameters, pins… |
-| 2026-11-03 09:42:07 | [vsigma](https://pypi.org/project/vsigma/) | 0.4.0 | abbcdfin | 515.0 kB | Cognitive architecture toolkit for autonomous systems |
-| 2026-11-03 09:44:44 | [1102-mcp](https://pypi.org/project/1102-mcp/) | 0.1.0 |  | 7.8 kB | Add your description here |
-| 2026-11-03 09:46:21 | [korea-finance-factcheck](https://pypi.org/project/korea-finance-factcheck/) | 0.1.1 |  | 41.7 kB | MCP server that checks numbers in Korean finance writing against DART, Bank of… |
-| 2026-11-03 09:46:39 | [datasheets-md-gui](https://pypi.org/project/datasheets-md-gui/) | 2.0.1 | datasheets.md | 3.2 kB | dBsync, the desktop app for datasheets-md (dsmd): installs datasheets-md with t… |
-| 2026-11-03 09:51:36 | [hax-em-gui](https://pypi.org/project/hax-em-gui/) | 0.1.0 |  | 3.0 MB | Web GUI for the hax-em CryoEM heterogeneity suite: program launcher, job manage… |
-| 2026-11-03 09:52:05 | [tba-provider-attestation-reference](https://pypi.org/project/tba-provider-attestation-reference/) | 0.4.0.dev3 |  | 2.9 kB | Attestation reference material provider. |
-| 2026-11-03 09:53:41 | [mrve32-snn](https://pypi.org/project/mrve32-snn/) | 0.1.0 |  | 1.3 MB | SNN layer accelerator device module for the MRVE32 RISC-V emulator |
-| 2026-11-03 09:53:43 | [mrve32](https://pypi.org/project/mrve32/) | 0.1.0 |  | 1.9 MB | Deterministic RV32IMAC microcontroller emulator with pluggable memory-mapped de… |
-| 2026-11-03 09:55:59 | [bhived](https://pypi.org/project/bhived/) | 0.1.0 | ArtKey AI | 65.5 kB | Python client for bhived: query shared lessons from other AI agents and write v… |
-| 2026-11-03 09:56:50 | [amber-compiler](https://pypi.org/project/amber-compiler/) | 0.1.1 | Enes Taner | 391.0 kB | Compile recorded agent runs into neuro-symbolic programs with replay tests, gua… |
-| 2026-11-03 09:57:31 | [ai-video-upscaler](https://pypi.org/project/ai-video-upscaler/) | 0.1.0 | VideoUpscaler Team | 3.5 kB | Cloud-Native 4K AI Video Upscaler (FlashVSR-4K), Temporal Video Denoising, 60FP… |
-| 2026-11-03 09:57:33 | [videoupscaler-mcp](https://pypi.org/project/videoupscaler-mcp/) | 0.1.0 | VideoUpscaler Team | 3.5 kB | Official Model Context Protocol (MCP) & n8n/Make/Zapier Workflow Automation Pyt… |
-| 2026-11-03 09:57:47 | [tba-provider-attestation-tpm](https://pypi.org/project/tba-provider-attestation-tpm/) | 0.4.0.dev2 |  | 7.6 kB | WebAuthn TPM attestation verifier. |
-| 2026-11-03 09:57:59 | [odoo-addon-sy-crm-commercial-autoassign](https://pypi.org/project/odoo-addon-sy-crm-commercial-autoassign/) | 18.0.1.0.0 | Sygel | 43.2 kB | Automatically assign salespersons to partners based on ZIP codes |
-| 2026-11-03 09:58:00 | [langchain-bhived](https://pypi.org/project/langchain-bhived/) | 0.1.0 | ArtKey AI | 32.6 kB | LangChain middleware and tools for bhived: recall shared lessons from other AI… |
-| 2026-11-03 09:58:19 | [videoupscaler-sdk](https://pypi.org/project/videoupscaler-sdk/) | 0.1.0 | VideoUpscaler Team | 3.5 kB | Official Python SDK & CLI for VideoUpscaler (https://videoupscaler.co) — 4K AI… |
-| 2026-11-03 09:58:21 | [flashvsr-4k](https://pypi.org/project/flashvsr-4k/) | 0.1.0 | VideoUpscaler Team | 3.4 kB | FlashVSR-4K Cloud Spatio-Temporal 4K Video Super-Resolution, Denoising & 60FPS… |
-| 2026-11-03 09:58:56 | [Jarvis-Forge](https://pypi.org/project/Jarvis-Forge/) | 1.0.0 | Jarvis-Forge Developers | 118.7 kB | User-space environments and reproducible command acceptance runs for scientific… |
-| 2026-11-03 09:59:23 | [prismal-ai-sdk](https://pypi.org/project/prismal-ai-sdk/) | 0.3.0 | Ernesto Crespo <ecrespo@gmail… | 91.3 kB | Typed Python client (REST + SSE, A2A JSON-RPC) for prismal-server. |
-| 2026-11-03 10:00:21 | [tba-provider-attestation-u2f](https://pypi.org/project/tba-provider-attestation-u2f/) | 0.4.0.dev2 |  | 5.0 kB | WebAuthn FIDO U2F attestation verifier. |
-| 2026-11-03 10:00:30 | [strands-bhived](https://pypi.org/project/strands-bhived/) | 0.1.0 | ArtKey AI | 28.4 kB | Strands Agents plugin and tools for bhived: recall shared lessons from other AI… |
-| 2026-11-03 10:00:47 | [html2pdf.py](https://pypi.org/project/html2pdf.py/) | 0.1.0 |  | 22.1 MB | Convert HTML text to PDF — single purpose, Rust core, no system dependencies |
-| 2026-11-03 10:02:25 | [tba-provider-authentication-anomaly-detector](https://pypi.org/project/tba-provider-authentication-anomaly-detector/) | 0.4.0.dev2 |  | 4.4 kB | Concrete authentication anomaly detection provider. |
-| 2026-11-03 10:02:54 | [agent-framework-bhived](https://pypi.org/project/agent-framework-bhived/) | 0.1.0 | ArtKey AI | 30.0 kB | Microsoft Agent Framework context provider and tools for bhived: recall shared… |
-| 2026-11-03 10:03:04 | [wraithd](https://pypi.org/project/wraithd/) | 0.0.1 | Shahar Ishay | 1.6 MB | A personal agent that runs on your own machine. |
-| 2026-11-03 10:03:20 | [protecteda](https://pypi.org/project/protecteda/) | 0.1.0 |  | 3.6 MB | Install and launch the bundled protected1 Windows application |
-| 2026-11-03 10:04:16 | [uspace-lab](https://pypi.org/project/uspace-lab/) | 0.1.0 |  | 70.8 kB | U-space Lab messaging and teaching infrastructure |
-| 2026-11-03 10:04:35 | [tba-provider-authentication-context-acr-basic](https://pypi.org/project/tba-provider-authentication-context-acr-basic/) | 0.1.0 |  | 2.8 kB | Basic ACR evaluator provider for the TBA package suite. |
-| 2026-11-03 10:07:09 | [tba-provider-authentication-context-amr-basic](https://pypi.org/project/tba-provider-authentication-context-amr-basic/) | 0.1.0 |  | 2.8 kB | Basic AMR evaluator provider for the TBA package suite. |
-| 2026-11-03 10:09:13 | [sammatigrid](https://pypi.org/project/sammatigrid/) | 0.1.0 | SammatiGrid | 24.3 kB | SammatiGrid Python SDK — DPDP Act 2023 consent logging, hash-chain verification… |
-| 2026-11-03 10:09:27 | [tba-provider-authenticator-api-key-local](https://pypi.org/project/tba-provider-authenticator-api-key-local/) | 0.1.0 |  | 3.4 kB | Local API key authenticator provider for the TBA package suite. |
-| 2026-11-03 10:11:43 | [tba-provider-secret-hashing-bcrypt](https://pypi.org/project/tba-provider-secret-hashing-bcrypt/) | 0.1.0 |  | 4.5 kB | Bcrypt shared-secret hashing and verification provider for TBA. |
-| 2026-11-03 10:13:59 | [tba-provider-authenticator-client-secret-local](https://pypi.org/project/tba-provider-authenticator-client-secret-local/) | 0.1.0 |  | 3.4 kB | Local client shared-secret authenticator provider for the TBA package suite. |
-| 2026-11-03 10:15:18 | [exx-sh](https://pypi.org/project/exx-sh/) | 0.2.0 |  | 158.1 kB | Python SDK for the exx.sh email API |
-| 2026-11-03 10:16:07 | [tba-provider-authenticator-dpop-proof](https://pypi.org/project/tba-provider-authenticator-dpop-proof/) | 0.1.0 |  | 3.1 kB | DPoP proof authenticator provider for the TBA package suite. |
-| 2026-11-03 10:17:25 | [gmm-migt](https://pypi.org/project/gmm-migt/) | 1.0.0 | Lida Shahmiri <lidashahmiri66… | 123.8 kB | GMM-MIGT: Gaussian Mixture Model - Mutual Information Guided Training for repre… |
-| 2026-11-03 10:17:47 | [tba-provider-authenticator-federated-oidc](https://pypi.org/project/tba-provider-authenticator-federated-oidc/) | 0.1.0 |  | 3.1 kB | Federated OIDC authenticator provider for the TBA package suite. |
-| 2026-11-03 10:17:48 | [mesh-things](https://pypi.org/project/mesh-things/) | 0.1.0 | oscgonfer | 238.2 kB | Python client for the mesh-things API, with the vocabulary and Meshtastic proto… |
+| 2026-11-03 10:19:52 | [tba-provider-authenticator-mtls-client-cert](https://pypi.org/project/tba-provider-authenticator-mtls-client-cert/) | 0.1.0 |  | 3.3 kB | mTLS client certificate authenticator provider for the TBA package suite. |
+| 2026-11-03 10:22:20 | [uae-gold-calculator](https://pypi.org/project/uae-gold-calculator/) | 1.0.0 | UAE Gold Prices | 17.2 kB | Gold value calculator for the UAE: 24/22/21/18/14K prices per gram, tola and ou… |
+| 2026-11-03 10:23:01 | [dipcoin-client](https://pypi.org/project/dipcoin-client/) | 1.3.0 |  | 109.3 kB | Library to interact with dipcoin perp protocol including its off-chain api-gate… |
+| 2026-11-03 10:24:48 | [debt-atlas](https://pypi.org/project/debt-atlas/) | 0.1.0 | Jaudat Faisal Al-Husein <jaud… | 58.2 kB | Sovereign debt, deficits, government spending and who-owes-whom data for every… |
+| 2026-11-03 10:27:42 | [probe-contracts](https://pypi.org/project/probe-contracts/) | 0.1.0 | Probe <team@prbe.ai> | 294.9 kB | Probe Research's shared contracts: domain records, their generated client views… |
+| 2026-11-03 10:28:26 | [firms-client](https://pypi.org/project/firms-client/) | 0.2.0 | Giuseppe Zileni | 49.3 kB | Client for NASA FIRMS active fires: open per-country archives, NRT area API, de… |
+| 2026-11-03 10:29:09 | [simplibs-extractor-python](https://pypi.org/project/simplibs-extractor-python/) | 0.1.0 | "Dalibor Sova (Sudip2708)" <d… | 113.4 kB | The Python add-on of simplibs-extractor: file rules for Python projects, steps… |
+| 2026-11-03 10:32:45 | [mcp-server-telegram-bot](https://pypi.org/project/mcp-server-telegram-bot/) | 0.2.0 | Mirmaxamat | 1.5 MB | MCP server that lets AI agents send Telegram messages and files via a bot |
+| 2026-11-03 10:34:17 | [universal-cli-mcp-server](https://pypi.org/project/universal-cli-mcp-server/) | 0.2.0 | Andreas Heine | 181.0 kB | Swagger for command line tools — expose any CLI as a fully compliant MCP server |
+| 2026-11-03 10:34:26 | [Wgram](https://pypi.org/project/Wgram/) | 0.2.1 | Wromly | 135.0 kB | Максимально простая библиотека для Telegram-ботов: кнопки, медиа, состояния, гр… |
+| 2026-11-03 10:35:29 | [plextool](https://pypi.org/project/plextool/) | 3.0.1 | Milkmansson | 121.4 kB | Maintenance helpers for a Plex Media Server |
+| 2026-11-03 10:35:38 | [maicroscopy-sandbox](https://pypi.org/project/maicroscopy-sandbox/) | 0.3.1 | Bruno Saraiva <bruno.msaraiva… | 53.9 kB | Fluorescence microscopy simulation toolkit for synthetic microscopy experiments. |
+| 2026-11-03 10:41:39 | [pii-surrogate](https://pypi.org/project/pii-surrogate/) | 1.0.1 | AI Team | 47.0 kB | Fully self-contained reversible PII surrogate masking with AES-256-GCM and Dyna… |
+| 2026-11-03 10:41:47 | [datachat-agent](https://pypi.org/project/datachat-agent/) | 0.1.0 | DataChat Agent contributors | 272.8 kB | Open-source AI agent that answers questions from your SQL database and PDFs |
+| 2026-11-03 10:44:27 | [tinybaselines](https://pypi.org/project/tinybaselines/) | 0.1.0a1 |  | 94.3 kB | PPO in tinygrad. |
+| 2026-11-03 10:45:08 | [pytest-dbt-macros](https://pypi.org/project/pytest-dbt-macros/) | 0.2.1 |  | 133.2 kB | Unit-test dbt macros (Jinja) with pytest, without dbt-core, an adapter, profile… |
+| 2026-11-03 10:46:07 | [tba-provider-authenticator-otp-local](https://pypi.org/project/tba-provider-authenticator-otp-local/) | 0.1.0 |  | 3.1 kB | Local OTP authenticator provider for the TBA package suite. |
+| 2026-11-03 10:46:38 | [longeval-cli](https://pypi.org/project/longeval-cli/) | 0.1.0 |  | 412.1 kB | Tools for building dynamic information retrieval test collections |
+| 2026-11-03 10:46:52 | [urace](https://pypi.org/project/urace/) | 0.3.0 |  | 1.4 MB | Persistent autonomous Product-evolution control plane |
+| 2026-11-03 10:46:57 | [prismal-tui](https://pypi.org/project/prismal-tui/) | 0.2.0 | Ernesto Crespo <ecrespo@gmail… | 116.6 kB | Terminal UI (Textual) for prismal-server, built exclusively on prismal-sdk (PyP… |
+| 2026-11-03 10:48:06 | [tba-provider-authenticator-password-local](https://pypi.org/project/tba-provider-authenticator-password-local/) | 0.1.0 |  | 3.4 kB | Local password authenticator provider for the TBA package suite. |
+| 2026-11-03 10:48:19 | [searchify](https://pypi.org/project/searchify/) | 0.3.0 | searchify contributors | 240.1 kB | Local-first web search, clean content extraction and fast reranking. No API key… |
+| 2026-11-03 10:49:51 | [tba-provider-authenticator-recovery-code-local](https://pypi.org/project/tba-provider-authenticator-recovery-code-local/) | 0.1.0 |  | 3.2 kB | Local recovery code authenticator provider for the TBA package suite. |
+| 2026-11-03 10:51:41 | [tba-provider-authenticator-remote-introspection](https://pypi.org/project/tba-provider-authenticator-remote-introspection/) | 0.1.0 |  | 3.1 kB | Remote introspection authenticator provider for the TBA package suite. |
+| 2026-11-03 10:52:45 | [ziipinParser](https://pypi.org/project/ziipinParser/) | 2.0.0 | Artem Manchenkov | 34.7 kB | OpenAPI v3 parser |
+| 2026-11-03 10:52:46 | [mysoc-validator-fast](https://pypi.org/project/mysoc-validator-fast/) | 0.2.1 |  | 14.6 MB | Fast, Rust-backed Popolo data for Python — drop-in replacement for mysoc_valida… |
+| 2026-11-03 10:53:33 | [scipion-chem-drugclip](https://pypi.org/project/scipion-chem-drugclip/) | 3.3.3 | Blanca Pueche | 50.6 kB | Scipion plugin in order to use the DrugCLIP software |
+| 2026-11-03 10:53:44 | [tba-provider-authenticator-service-key-local](https://pypi.org/project/tba-provider-authenticator-service-key-local/) | 0.1.0 |  | 3.5 kB | Local service key authenticator provider for the TBA package suite. |
+| 2026-11-03 10:55:36 | [gain-vep-annotator](https://pypi.org/project/gain-vep-annotator/) | 2026.11.0 | Lubomir Chorbadjiev <lubomir.… | 20.3 kB | GAIn VEP Annotator |
+| 2026-11-03 10:55:38 | [tba-provider-authenticator-session-local](https://pypi.org/project/tba-provider-authenticator-session-local/) | 0.1.0 |  | 3.0 kB | Local session authenticator provider for the TBA package suite. |
+| 2026-11-03 10:55:43 | [gain-spliceai-annotator](https://pypi.org/project/gain-spliceai-annotator/) | 2026.11.0 | Lubomir Chorbadjiev <lubomir.… | 52.6 MB | GAIn SpliceAI annotator plugin |
+| 2026-11-03 10:55:53 | [gain-demo-annotator](https://pypi.org/project/gain-demo-annotator/) | 2026.11.0 | Lubomir Chorbadjiev <lubomir.… | 16.5 kB | GAIn External Demo Annotator |
+| 2026-11-03 10:57:30 | [tba-provider-authorization-policy-decision-engine](https://pypi.org/project/tba-provider-authorization-policy-decision-engine/) | 0.4.0.dev2 |  | 7.9 kB | Concrete authorization policy decision engine provider. |
+| 2026-11-03 10:59:51 | [tba-provider-security-dpop-cnf-binding-validator](https://pypi.org/project/tba-provider-security-dpop-cnf-binding-validator/) | 0.1.0 |  | 2.8 kB | DPoP cnf confirmation binding validator provider. |
+| 2026-11-03 11:00:07 | [azotea-cli](https://pypi.org/project/azotea-cli/) | 2.0.0 | Rafael González, Jaime Zamora… | 88.4 kB | AZOTEA command line interface |
+| 2026-11-03 11:00:40 | [simplibs-extractor-javascript](https://pypi.org/project/simplibs-extractor-javascript/) | 0.1.0 | "Dalibor Sova (Sudip2708)" <d… | 108.9 kB | The JavaScript add-on of simplibs-extractor: file rules for JavaScript, TypeScr… |
+| 2026-11-03 11:01:48 | [tba-provider-security-mtls-cnf-binding-validator](https://pypi.org/project/tba-provider-security-mtls-cnf-binding-validator/) | 0.1.0 |  | 2.8 kB | mTLS cnf confirmation binding validator provider. |
+| 2026-11-03 11:02:46 | [dac-request](https://pypi.org/project/dac-request/) | 0.1.0 |  | 15.2 kB |  |
+| 2026-11-03 11:02:56 | [pyrocessing](https://pypi.org/project/pyrocessing/) | 0.0.1 |  | 2.0 kB | Work in progress |
+| 2026-11-03 11:03:02 | [py-chargemol](https://pypi.org/project/py-chargemol/) | 1.0.0 | Thomas A. Manz, Nidia Gabaldo… | 4.9 MB | DDEC6, DDEC3, and QDR atomic charges from electron densities in Python. |
+| 2026-11-03 11:03:44 | [tba-provider-token-introspection](https://pypi.org/project/tba-provider-token-introspection/) | 0.1.0 |  | 4.0 kB | OAuth2 token introspection client provider for Tigrbl security token validation. |
+| 2026-11-03 11:04:11 | [pixpoint](https://pypi.org/project/pixpoint/) | 8.0.0 | David Gebauer <git@gebauer.ai> | 625.6 kB | Two-point, three-point, integrated three-point and one-point statistics of HEAL… |
+| 2026-11-03 11:05:11 | [winnie-nfc](https://pypi.org/project/winnie-nfc/) | 1.0.0 | Pollen Robotics | 90.0 kB | Host driver for the Pollen Robotics Winnie NFC board (ASE01209): NTAG21x / Ultr… |
+| 2026-11-03 11:05:41 | [tba-provider-security-token-jwks-cache](https://pypi.org/project/tba-provider-security-token-jwks-cache/) | 0.1.0 |  | 3.6 kB | JWKS-backed verification key cache provider for Tigrbl security token validatio… |
+| 2026-11-03 11:07:08 | [azotea-plot](https://pypi.org/project/azotea-plot/) | 2.0.1 | Rafael González, Jaime Zamora… | 24.1 kB | Plotting utility for AZOTEA images |
+| 2026-11-03 11:07:20 | [azotea-fits](https://pypi.org/project/azotea-fits/) | 2.0.0 | Rafael González, Jaime Zamora… | 37.8 kB | FITS files pre-processor for AZOTEA |
+| 2026-11-03 11:08:25 | [tba-provider-authorization-resource-server-verifier](https://pypi.org/project/tba-provider-authorization-resource-server-verifier/) | 0.4.0.dev2 |  | 5.9 kB | Protected-resource verifier provider for TBAorization resource servers. |
+| 2026-11-03 11:10:31 | [tba-provider-certificate-path-validator](https://pypi.org/project/tba-provider-certificate-path-validator/) | 0.4.0.dev2 |  | 3.8 kB | Explicitly profiled certificate path validation provider. |
+| 2026-11-03 11:12:17 | [tba-provider-certificate-status](https://pypi.org/project/tba-provider-certificate-status/) | 0.4.0.dev2 |  | 3.1 kB | Certificate status snapshot provider. |
+| 2026-11-03 11:13:54 | [pydantic-ai-asyntai](https://pypi.org/project/pydantic-ai-asyntai/) | 0.1.0 | Asyntai <hello@asyntai.com> | 20.9 kB | Pydantic AI capability for Asyntai: give your agent a whole website's knowledge… |
+| 2026-11-03 11:14:16 | [tba-provider-claims-local](https://pypi.org/project/tba-provider-claims-local/) | 0.1.0 |  | 3.6 kB | Local claims provider wrapper for the TBA package suite. |
+| 2026-11-03 11:16:24 | [orbit-dev](https://pypi.org/project/orbit-dev/) | 0.1.0 | Anand Mohan | 366.3 kB | Offline-first coding companion that helps beginners understand and trust their… |
+| 2026-11-03 11:16:42 | [scipion-chem-gromacs](https://pypi.org/project/scipion-chem-gromacs/) | 3.3.3 | you | 3.4 MB | Scipion plugin for gromacs. |
+| 2026-11-03 11:18:10 | [sitoolz](https://pypi.org/project/sitoolz/) | 0.1.0 | Lars Rocha | 18.2 MB | Lars Rocha's number-theory playground, every module in one package: rails, lane… |
+| 2026-11-03 11:20:29 | [scipion-chem-durrantlab](https://pypi.org/project/scipion-chem-durrantlab/) | 3.3.3 | Daniel Del Hoyo | 101.0 kB | Scipion plugin in order to use durrantlab software |
