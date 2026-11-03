@@ -1,62 +1,41 @@
 {
   "list": {
-    "count": 59,
-    "from": "2026-11-03T21:18:22.393249Z",
-    "path": "data/new-packages-2026-11-03T22-18-23-099456Z.csv",
-    "to": "2026-11-03T22:18:23.099456Z"
+    "count": 32,
+    "from": "2026-11-03T22:18:23.099456Z",
+    "path": "data/new-packages-2026-11-03T23-18-54-9229Z.csv",
+    "to": "2026-11-03T23:18:54.9229Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-03T18:46:34Z",
-      "package": "bench0ne",
-      "since": "2026-11-03T18:19:25.326238Z",
-      "version": "0.0.0a0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-03T18:38:48Z",
-      "package": "cs2slim-cli",
-      "since": "2026-11-03T18:19:25.326238Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-03T21:20:41Z",
       "package": "ember-cli",
       "since": "2026-11-03T21:18:22.393249Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-03T22:39:34Z",
+      "package": "ln9qw38745g",
+      "since": "2026-11-03T22:18:23.099456Z",
+      "version": "0.1.1"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-03T20:52:52Z",
       "package": "lumesof-actgraph",
       "since": "2026-11-03T20:18:19.258232Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-03T19:16:48Z",
-      "package": "midas-sx",
-      "since": "2026-11-03T18:19:25.326238Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-03T19:09:33Z",
-      "package": "onescribe",
-      "since": "2026-11-03T18:19:25.326238Z",
-      "version": "2.1.0"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-03T21:01:10Z",
       "package": "pyjsign",
       "since": "2026-11-03T20:18:19.258232Z",
       "version": null
     }
   ],
-  "serial": 43163463,
+  "serial": 43165558,
   "source_truncated": false,
-  "window": "2026-11-03T22:18:23.099456Z"
+  "window": "2026-11-03T23:18:54.9229Z"
 }

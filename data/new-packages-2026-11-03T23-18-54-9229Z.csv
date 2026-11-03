@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T22:19:19Z,fincas,0.4.1,Fincas Contributors,MIT,41510974,"Django commerce and back-office platform: orders, invoicing, accounting, inventory, CRM and a storefront API"
+2026-11-03T22:23:22Z,einstein-tiling,0.2.0,Christian Hill,BSD-3-Clause,40502,Generate aperiodic hat tilings as SVG images
+2026-11-03T22:24:19Z,recursivefs,0.0.1,,MIT,1618,Reserved for RecursiveFS
+2026-11-03T22:24:56Z,verdi-agents,0.1.1,Sushant Gautam,MIT,806236,Auditable testbed for temporal value expression and institutional recovery in LLM agent societies
+2026-11-03T22:25:44Z,opensemantic.batteries,1.5.0.post1000004007000,OpenSemanticWorld,Apache 2.0,8041779,Library with Python models derived from the page package world.opensemantic.batteries
+2026-11-03T22:25:54Z,onetrace-auto,0.7.0,Shamik Saha <shamik.saha.rcciit@gmail.com>,Apache-2.0,61593,"Zero-configuration recording for onetrace: a run folder from a library's calls, with nothing added to the app"
+2026-11-03T22:27:38Z,meridian-finance-give-langchain,0.1.0,,MIT,14621,"LangChain toolkit for Meridian Give: an agent donates its own USDC to verified charities on Arc, checked on chain."
+2026-11-03T22:28:45Z,gitpulse-analytics,0.2.1,FullStackSpectrum <dev@fullstackspectrum.com>,MIT,51117,"GitHub traffic, clones, referrers, and release downloads in your terminal, with org-wide HTML dashboards"
+2026-11-03T22:30:26Z,src-snapshot,0.1.0,Dominik Woiwode,MIT,14269,Lightweight utility to snapshot your source code into a zip archive for reproducible experiments.
+2026-11-03T22:31:41Z,openbb-etfiq,0.1.0,ETFIQ <data@etfiq.com>,MIT,22636,"OpenBB Platform provider for ETFIQ's free, keyless ETF data: search, info, holdings, fund flows and benchmark gap."
+2026-11-03T22:32:40Z,langchain-etfiq,0.1.0,ETFIQ <data@etfiq.com>,MIT,16951,"LangChain tools for ETFIQ's free, keyless ETF data: search, profile, holdings, flows, compare and screen."
+2026-11-03T22:33:44Z,llama-index-tools-etfiq,0.1.0,ETFIQ <data@etfiq.com>,MIT,13226,"llama-index tools integration for ETFIQ's free, keyless ETF data"
+2026-11-03T22:40:53Z,warehouse-context-mcp,0.4.1,André Muraro,MIT,82335,"An MCP server that gives AI agents trustworthy, governed context about a data warehouse: docs, lineage, freshness, and read-only queries with guardrails."
+2026-11-03T22:46:26Z,openflume,0.3.1,OpenFLUME contributors,MIT,9228424,"Python API for the OpenFLUME thermal-fluid network solver (steady and transient, real fluids via CoolProp)."
+2026-11-03T22:52:32Z,aerolith,1.0.0,Immineal,MIT,8820585,"Frutiger Aero UI for the web: the Aerolith CSS and Bryce-rendered sprites as static files for Django, Flask, FastAPI and friends."
+2026-11-03T22:56:36Z,paragraphic,0.2.0,Kolen Cheung <christian.kolen@gmail.com>,AGPL-3.0-or-later,90210,"An Obsidian-style graph of how a static site's pages link to each other, read from its rendered HTML"
+2026-11-03T22:59:00Z,patristic-ethics,0.0.1,,Apache-2.0,231251,PEA (Patristic Ethics Agent) - a runtime ethics layer for LLM agent hosts
+2026-11-03T22:59:13Z,python-jev,0.1.0,Vianney Mixtur <vianney@consio.ai>,"MIT License Copyright (c) 2026 Vianney Mixtur Permission is hereby granted, free of charge, to any…",40586,Unofficial typed Python SDK for TypeSafe's Jev decision model: TypeSafe's primitives as Pydantic classes with typed answers.
+2026-11-03T22:59:53Z,blueskyfeed,0.1.0,Peter Murphy,LICENSE.txt,20446,A Django app for displaying a cached Bluesky author feed.
+2026-11-03T23:00:59Z,defdex,0.1.2,,,8574,DefDex published-data API SDK
+2026-11-03T23:01:12Z,octadezx,0.1.0,OctaDezx <kevin@octadezx.com>,MIT,26400,Server SDK for the OctaDezx public API and headless Agent API
+2026-11-03T23:06:21Z,tempo-agents,0.1.0,,,318937,"Runs tickets against a host repo with agents in the VS Code chat of Claude Code, Codex, and Copilot."
+2026-11-03T23:06:31Z,ipcam-mcp,0.3.2,aidev-iprokszin,MIT,120326,"MCP server for local IP cameras (ONVIF/RTSP): snapshots, recordings, pan/tilt, presets"
+2026-11-03T23:07:07Z,bisos.devpi,0.1,Mohsen Banan,AGPL,51139,bisos.devpi: A Minimal devpi Python Package Index via BISOS Capability Bundles
+2026-11-03T23:07:09Z,vibedata-odcs,0.1.0,Vibedata <eng@acceleratedata.ai>,MIT,156775,"VibeData data-contract tooling: check, generate, reverse, diff, profile and results for Open Data Contract Standard (ODCS v3.2.0) contracts at a Domain's boundary. One library and one `odcs` command…"
+2026-11-03T23:07:11Z,vibedata-ossie,0.1.0,Vibedata <eng@acceleratedata.ai>,MIT AND Apache-2.0,227622,"VibeData semantic-model tooling for Apache Ossie models: validate, coverage, generated tests, column and binding checks, and the query compiler. One library and one `ossie` command shared by the Buil…"
+2026-11-03T23:09:09Z,bisos.postgres,0.1,Mohsen Banan,AGPL,36474,bisos.postgres: PostgreSQL as the bedrock database of BISOS
+2026-11-03T23:09:21Z,mkdocs-page-actions,1.0,Byrne Reese,MIT,24560,"Add contextual copy, Markdown, and AI actions to MkDocs pages"
+2026-11-03T23:11:37Z,bisos.gitlab,0.1,Mohsen Banan,AGPL,45816,bisos.gitlab: GitLab CE via BISOS Capability Bundles (Dedicated VM; Base Code)
+2026-11-03T23:13:57Z,bisos.geneweb,0.1,Mohsen Banan,AGPL,44127,bisos.geneweb: GeneWeb Genealogy via BISOS Capability Bundles
+2026-11-03T23:15:13Z,livekit-plugins-truefan,0.1.0,TrueFan AI <support@true-fan.in>,Apache-2.0,22941,LiveKit Agents plugin for TrueFan AI avatars
+2026-11-03T23:16:45Z,conference-agent,0.1.0,Joseph Rich,MIT,446844,AI agent that compiles academic/professional conferences into a table and exports them as a calendar feed
