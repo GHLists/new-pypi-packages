@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T12:17:43Z,pzem-014-016-modbus,0.1.0,pzem-014-016-modbus contributors,Apache-2.0,57736,Read PZEM-014 and PZEM-016 Modbus AC energy meters.
+2026-11-03T12:19:34Z,pressbridge,1.1.0,,MIT,43735,"Give Claude safe, audited access to your WordPress sites over MCP"
+2026-11-03T12:21:10Z,pakp-engine,0.1.0,Akhil M,"MIT License Copyright (c) 2026 Akhil M Permission is hereby granted, free of charge, to any person…",21486,PAKP: Predictive Asymmetric KV-Paging via Centered Bounding-Box Lookahead for Sub-6GB Edge GPUs
+2026-11-03T12:24:16Z,coldframe,0.1.0,Weqaar Janjua <weqaar.janjua@packetfive.com>,Apache-2.0,95242,Project scaffolding and quality gates that run the same way locally and in CI.
+2026-11-03T12:27:09Z,django-dbsc,0.0.1,Frederic Tschannen,,3590,Device Bound Session Credentials (W3C DBSC) for Django: bind session cookies to a device key.
+2026-11-03T12:31:14Z,robofleet,0.1.0,Sarthak-code360,MIT,53122,"Coordinate robot fleets (factory, warehouse, hotel) with a vision-language model, plus Bambu Lab 3D printer control."
+2026-11-03T12:32:50Z,inspect-rogue-arena,0.4.0,Rogue Labs <info@roguelabs.io>,Apache-2.0,174690,Inspect sandbox provider for running AI model evals on Rogue Arena cyber ranges
+2026-11-03T12:35:40Z,agent-judge-framework,1.0.0,Samir Baladi,MIT,91025,Agent-Judge-Framework: A Reliability-Oriented Framework for Automated Evaluation of Tool-Using Autonomous Agents
+2026-11-03T12:35:53Z,kirn,0.0.1b3,RK Riad Khan <rkriad585@gmail.com>,Apache-2.0 OR MIT,13982,Install and run the Kirn compiler from PyPI.
+2026-11-03T12:37:09Z,scopelock,1.0.1,ScopeLock Contributors <maintainers@scopelock.dev>,Apache-2.0,101004,Zero-Trust Security & Capability-Divergence Gate for AI-Generated Software
+2026-11-03T12:39:11Z,weft-format,1.0.1,mossbenchlab,MIT,129428,"Weft — AI-first textual data format (Python reference implementation). Parse, format (byte-identical canonical form), lossless JSON bridge, schema validation."
+2026-11-03T12:41:33Z,kymoscope-mcp,0.1.0,,# Kymoscope Software License Copyright © 2026 Kymoscope. All rights reserved. This license covers t…,610324,Lets your AI assistant connect your data to Kymoscope and keep it running
+2026-11-03T12:43:37Z,amagi-crawlers,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,63676,"Check which AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, CCBot...) can reach a list of sites: robots.txt, X-Robots-Tag, noai meta tags and the real HTTP answer to each bot's user a…"
+2026-11-03T12:47:32Z,youtube-skillbox,0.4.1,hackers-reality,,202512,"Free YouTube research toolkit — search, keywords, competition, rank tracking, SEO scorecard, outliers, content gap, trends. No user-supplied YouTube Data API key required."
+2026-11-03T12:49:26Z,proven-judge,0.1.0,ND SaaS Solutions,MIT,55908,"A judge for code written by AI: plain Python, rules against hallucinations."
+2026-11-03T12:50:26Z,datafuel,0.5.1,,"MIT License Copyright (c) 2026 Datafuel Permission is hereby granted, free of charge, to any person…",127241,Python client for the DataFuel scraping API
+2026-11-03T12:50:50Z,arbortrace,0.1.0,Valentin Baranov,,21455,Explicit hierarchical execution context and span lifecycle tracing.
+2026-11-03T12:51:11Z,qpyserve,0.1.0,qpyserve contributors,MIT,29141,"Run FastAPI with HTML, React, or Vue on one host using one Python command"
+2026-11-03T12:54:22Z,diagfdr,0.1.0,Quentin Giai Gianetto <quentin.giaigianetto@pasteur.fr>,GPL-3.0-or-later,98739,"Scope, calibration and stability diagnostics for target-decoy FDR claims in proteomics (Python port of the R package diagFDR)"
+2026-11-03T12:54:26Z,humanbottasks,0.1.0,,,16893,"Human fallback for AI agents: delegate tasks a model can't do to a human, over MCP."
+2026-11-03T12:54:55Z,memty,0.1.1,,,177035,Memty: a user-owned local memory vault for AI assistants
+2026-11-03T12:56:04Z,listriver,0.1.0,ListRiver LLC <support@listriver.com>,MIT,10845,Python client for the ListRiver Business Data API: new LLCs and corporations from U.S. state business registries.
+2026-11-03T12:56:05Z,cogtran2,0.1.0,,,27540,CogTran2 cognate detection models for ASJP-tokenized forms
+2026-11-03T12:57:55Z,tpipe,0.0.2,,,188731,A utility for working with structured text (html)
+2026-11-03T12:58:08Z,s1bursts,0.8.0,Luis Gentner <luis.gentner@geo.uzh.ch>,MIT,471922,"Sentinel-1 download, processing and compositing made easy."
+2026-11-03T13:00:21Z,svgtext,0.0.2,,,11254221,Add your description here
+2026-11-03T13:01:56Z,ted-terminal-editor,1.0.0,,MIT,33330,A safe line editor and viewer for the terminal.
+2026-11-03T13:02:30Z,kgraphing-ontology-datamodelling,0.0.2,,,12557809,Add your description here
+2026-11-03T13:04:14Z,scHPT,0.1.0,Zichu Fu,"MIT License Copyright (c) 2026 zcfu1024 Permission is hereby granted, free of charge, to any person…",27950,Tests for detecting and explaining heterogeneous effects in single-cell perturbation data.
+2026-11-03T13:04:30Z,image-matchmaker,0.1.0,Elena Buglakova,MIT,139097,Tool for segmentation-based deformable registration
+2026-11-03T13:05:36Z,moorlight,0.1.0,Tobias Weinert,MIT,141161,"Lightweight Coot-like model building in the browser, with TorchRef real-space refinement and Claude integration"
+2026-11-03T13:07:47Z,agentdata,0.3.26,dicaria <contact@dicaria.com>,Apache-2.0,673341,"AgentData domain API SDK — corpus (hosted) + third-party enrichment (local, keyless); stdlib-only"
+2026-11-03T13:09:58Z,evidence-graph,0.1.1,SciWay <hello@sciway.software>,Apache-2.0,22674054,"Build knowledge graphs whose edges carry their evidence, or abstain from asserting them."
+2026-11-03T13:12:59Z,qb-mcp,0.1.0,zxw060810,Apache-2.0,80496,MCP server for qBittorrent - manage torrents with natural language
+2026-11-03T13:15:42Z,mkmona-de-toolkit,0.1.0,Mona Khalaf,,3689,
