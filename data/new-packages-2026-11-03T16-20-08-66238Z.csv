@@ -1,0 +1,68 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T15:21:54Z,harbor-fairness-agent,999.9.9,,,1523,
+2026-11-03T15:23:40Z,ergon-ai,0.7.1,Ergon contributors,MIT,294292,"Batteries-included harness for building AI agents (Anthropic, OpenAI-compatible, Ollama, Gemini, Bedrock): tool loops, persistence, compaction, approval, streaming, eval, browser control."
+2026-11-03T15:25:11Z,scfg-renpy,0.1.1,,MIT,225049,"USDC/USDT tips and unlocks for Ren'Py games, paid wallet to wallet. Installs the plugin into your project."
+2026-11-03T15:25:13Z,splunk-cli,0.0.1,Ruben J. Jongejan,MIT,12855115,"Search and manage Splunk from the terminal with structured, agent-friendly output"
+2026-11-03T15:25:51Z,neural-lab,0.5.0,FAR Analytics & Research <adpatter2000@gmail.com>,,776335,A neural network implementation built as an explicit graph of neurons and weighted connections.
+2026-11-03T15:27:10Z,memegician-mcp,1.0.0,Memegician <support@memegician.ai>,MIT,9817,"Memegician MCP server for Claude, ChatGPT, Cursor and any MCP client: search 400+ meme templates, see what's trending and render memes. Stdio bridge to https://memegician.ai/mcp."
+2026-11-03T15:28:45Z,amagi-inference-calc,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,84369,"How much GPU does a local LLM need, and how fast will it run? VRAM, tokens/second and used-GPU cost per token/second for small-office setups, from a bandwidth model calibrated on real runs."
+2026-11-03T15:30:53Z,tba-provider-corim-reference-memory,0.4.0.dev2,,Apache-2.0,3427,Non-durable in-memory CoRIM reference-material provider.
+2026-11-03T15:31:32Z,xenterprise,0.1.0,Vauxoo <info@vauxoo.com>,LicenseRef-OPL-1,28308,"Offline validation of Vauxoo RS256-JWT license tokens (base_license client, no Odoo)."
+2026-11-03T15:32:39Z,dopplertrack,0.1.0,MacCallister Higgins,MIT,46147,Acoustic geolocation from inaudible aircraft Doppler curves matched against ADS-B flight tracks
+2026-11-03T15:32:52Z,genetrek,0.1.0,"""Human Genetics and Cognitive Functions, Institut Pasteur"" <ghfcgenetics@pasteur.fr>",MIT,61651,Python client and command line for GeneTrek: gene lists and annotations for neurodevelopmental disorders.
+2026-11-03T15:33:12Z,tba-provider-did-controller,0.4.0.dev2,,Apache-2.0,3406,Authorization-checked DID document controller provider.
+2026-11-03T15:34:04Z,unraveler,0.0.0,UnravelSports,,1232,
+2026-11-03T15:35:27Z,anti-rea,0.1.32,,,1923221,Evidence-driven application hardening against AI reverse engineering
+2026-11-03T15:36:09Z,tba-provider-did-resolver,0.4.0.dev2,,Apache-2.0,4020,Versioned DID resolution and dereferencing provider.
+2026-11-03T15:37:16Z,bash-launcher-kit,1.0.0,,,1900,A simple Python program launcher
+2026-11-03T15:37:22Z,processador-imagens-cosme,0.0.1,Silvio Cosme,,5657,Um pacote simples de processamento de imagens para integração com análise de dados
+2026-11-03T15:37:29Z,hnsw-lite-lib,0.4.0,,MIT,19943623,"Vector search with metadata filters, hybrid (dense + BM25) search, durability and automatic maintenance"
+2026-11-03T15:37:47Z,wisdom-core,0.8.0,John Vickery,MIT,197095,An AI agent framework where one Core Axiom drives the principles the agent learns for itself.
+2026-11-03T15:38:10Z,tba-provider-digital-credential-status,0.4.0.dev3,,Apache-2.0,3020,Digital credential status resolution provider.
+2026-11-03T15:39:02Z,vortexify,0.1.0,Vortexify,Vortexify SDK Noncommercial License Copyright (c) 2026 Vortexify. All rights reserved. Permission i…,86658,Python SDK for the Vortexify platform
+2026-11-03T15:41:08Z,hades-druglikeness,0.9.0,"Narek Petrosyan, Hovhannes Matevosyan, Irina Tirosyan, Yeva Gabrielyan, Smbat Gevorgyan, Vardan Har…",MIT,44255586,Machine-learning oral drug-likeness score for small molecules from their SMILES
+2026-11-03T15:42:33Z,swforge,0.9.1,MWD,MIT,266880,"SolidWorks automation toolkit: early-binding geometry builder, GB material library, assembly mates, exact interference, and GB-standard drawings — with readback verification at every step."
+2026-11-03T15:42:34Z,watcher-gtm,0.1.0,,AGPL-3.0-or-later,2751745,An AI GTM data analyst that investigates rather than reporting numbers.
+2026-11-03T15:43:14Z,jaxgraphic,0.1.1,EyadRealHim <eyad.realhim@gmail.com>,MIT,42175,A tiny differentiable 2D drawing library on JAX.
+2026-11-03T15:43:15Z,zettcode-engine,0.3.4,Chang-LeHung,MIT,465294,"The agent core of ZettCode: the runtime over zett-agent, and the leaf types it is written on"
+2026-11-03T15:43:18Z,zettcode-broker,0.3.4,Chang-LeHung,MIT,132725,The session broker ZettCode's sessions talk through: a small loopback HTTP server and its client
+2026-11-03T15:43:20Z,zettcode-sdk,0.3.4,Chang-LeHung,MIT,248839,"The documented, stable Python surface over ZettCode: sessions, runs, models, daemons"
+2026-11-03T15:43:23Z,zettcode-gateway,0.3.4,Chang-LeHung,MIT,1780111,The web gateway of ZettCode: the chat page and the graph over a running server
+2026-11-03T15:43:44Z,spendguard-ai,0.1.0,Amir Tahani <amirthn653381@gmail.com>,,22829,"High-precision token budget guard, floating-point spend tracking & latency circuit breakers for LLM applications (OpenAI, LiteLLM, Anthropic)"
+2026-11-03T15:43:52Z,refrncr,0.1.0rc2,DataMisu,Elastic-2.0,2830953,Reference data without the enterprise baggage.
+2026-11-03T15:43:57Z,oilpaint,0.1.0,Jocelyn Legault <jocelynlegault@gmail.com>,MIT,222223,A small oil-painting simulator: spline brush strokes with physically based (spectral Kubelka-Munk) paint mixing.
+2026-11-03T15:44:04Z,safe-vamd,0.1.0,Ray Kirby,,86713,A Python package to reconstruct acoustic fields from sparsely sampled acoustic pressure data via mode decomposition.
+2026-11-03T15:45:15Z,passageway-sdk,0.3.0,,MIT,25382,Write a passageway connector as three small functions: the protocol plumbing is done for you
+2026-11-03T15:45:17Z,tba-provider-digital-credential-trust,0.4.0.dev2,,Apache-2.0,3087,Profile-aware digital credential issuer trust provider.
+2026-11-03T15:45:18Z,passageway-connector-confluence,0.3.0,,PolyForm-Noncommercial-1.0.0,26866,"passageway connector for Confluence Data Center: the pages of chosen spaces, read-only"
+2026-11-03T15:45:21Z,passageway-connector-llmstxt,0.3.0,,PolyForm-Noncommercial-1.0.0,15789,passageway connector for the llms-full.txt of a list of websites
+2026-11-03T15:45:23Z,passageway-connector-markdown,0.3.0,,PolyForm-Noncommercial-1.0.0,21042,passageway connector for a folder of markdown files with front matter
+2026-11-03T15:47:12Z,clinvar-gkm-parquet,1.0.0,ClinGen Data Model WG,CC0-1.0,754729,Rebuild ClinVar-GKM's Parquet tables from its published JSON bundles
+2026-11-03T15:47:33Z,tba-provider-eat-verifier,0.4.0.dev2,,Apache-2.0,4238,Profile-aware EAT evidence verifier provider.
+2026-11-03T15:49:46Z,tba-provider-fido-metadata-service,0.4.0.dev2,,Apache-2.0,5928,FIDO Metadata Service signed-blob and authenticator status provider.
+2026-11-03T15:51:30Z,healthiar,0.1.0,"Arno Pauwels <arno.pauwels@sciensano.be>, Gianni Ardielli <gianni.ardielli@swisstph.ch>",GPL-3.0-only,61036,Python wrapper for the healthiar R package.
+2026-11-03T15:52:39Z,tba-provider-identity-administration-relationship-graph,0.4.0.dev2,,Apache-2.0,4691,Concrete identity relationship graph provider.
+2026-11-03T15:53:19Z,cad3d-ir-parasolid,0.3.0,neka-nat,MIT,67458,Parasolid transmit-file (X_T / X_B) importer for cad3d-ir through parasolid-kit
+2026-11-03T15:55:03Z,tba-provider-security-signing-pqc,0.1.0,Jacob Stewart,Apache-2.0,8594,Concrete PQC signing provider for Tigrbl security trust domains.
+2026-11-03T15:59:36Z,odoo-addon-stock-readonly,19.0.1.0.0.2,"Akretion, Odoo Community Association (OCA)",LGPL-3,26766,Read-only access to Inventory documents
+2026-11-03T15:59:51Z,kali-mcp,1.0.0,kali-mcp,MIT,195026,MCP server exposing Kali Linux penetration-testing tools to AI agents
+2026-11-03T16:00:14Z,opennetpulse,0.1.0,OpenNetPulse Contributors,MIT,38944,Open-source network diagnostics and performance monitoring toolkit
+2026-11-03T16:00:48Z,facturalo-pe,1.0.0,Facturalo <contacto@facturalo.pe>,MIT,27085,"SDK oficial de Facturalo para Python: emite facturas, boletas, notas y guías de remisión ante SUNAT, consulta RUC/DNI, idempotencia y verifica webhooks."
+2026-11-03T16:02:12Z,tba-provider-identity-jose,0.4.0.dev2,,Apache-2.0,47702,"JOSE, JWT, JWS, JWE, JWK, JWKS, key rotation, and standards helpers for TBA identity tokens."
+2026-11-03T16:04:29Z,lazybird-haystack,0.1.0,Lazybird <elyssia@lazybird.app>,MIT,14704,"Lazybird text to speech for Haystack: natural AI voices (MP3) in your pipelines and agents, 500+ voices in 150+ languages."
+2026-11-03T16:04:33Z,tba-provider-jose-cryptography,0.4.0.dev2,,,6559,
+2026-11-03T16:04:38Z,narrow-ai,0.5.1,NARROW contributors,"MIT License Copyright (c) 2026 NARROW contributors Permission is hereby granted, free of charge, to…",149153,A safety-first task continuity and execution coordinator for AI coding agents.
+2026-11-03T16:06:42Z,sellme,0.0.1,Rotem Lanyado,MIT,2919,"Your AI agent, pitching you to every AI recruiter. Early days: not ready to use yet."
+2026-11-03T16:07:01Z,tba-provider-jose-swarmauri,0.4.0.dev2,,Apache-2.0,4695,Deprecated compatibility facade for TBA's internal JOSE provider.
+2026-11-03T16:07:15Z,ispra-idrogeo,0.1.0,Giuseppe Zileni,Apache-2.0,34731,"Downloads and API client for ISPRA IdroGEO: IFFI landslide inventory, hazard mosaics and events, with a persistent conditional-GET cache"
+2026-11-03T16:07:24Z,backcast,0.1.0,Adeel Bandesha,MIT,4651975,Can any model beat the naive forecast? Walk-forward backtests for stock forecasting models.
+2026-11-03T16:08:06Z,nodii-capacity-contract,0.2.0,Nodii <ops@nodii.co>,MIT,21504,"Seat/capacity contract: the band-aware capacity-replica reading (over capacity is admitted and charged, S08-29), the capacity quote DTO, and the deprecated AT_CAPACITY body."
+2026-11-03T16:09:32Z,tba-provider-key-attestation-verifier,0.4.0.dev2,,Apache-2.0,3236,Key-attestation verification and binding provider.
+2026-11-03T16:09:34Z,py3dgames,1.0.0,Anika Mukherjee <cuteypieanika@gmail.com>,Proprietary - all rights reserved,258122,"Python-native systemic world and 3D game engine: Far Cry kinematic movement, Dunia systemic wind & fire, Life is Strange time rewind, software 3D rasterizer with shadow mapping, skeletal animation, O…"
+2026-11-03T16:10:38Z,find-my-session,0.1.1,find-my-session contributors,MIT,378766,"Read-only, cross-harness agent-session finder and handoff tool"
+2026-11-03T16:11:20Z,browserrig,0.1.0,,MIT,871452,Event-driven Chrome automation for Harnessed.
+2026-11-03T16:11:52Z,tba-provider-mdoc-issuer,0.4.0.dev2,,Apache-2.0,4122,ISO mdoc credential issuer provider.
+2026-11-03T16:13:56Z,thediscordlist,0.2.1,TheDiscordList,MIT,67486,"Publish your discord.py bot's stats, heartbeat and commands to TheDiscordList, and verify its webhooks."
+2026-11-03T16:14:00Z,squintlab,0.0.1,Marcelo Almenara Campos,Apache-2.0,84658,Analyses photos of paintings through perceptual mechanisms and reports descriptive observations to the artist.
+2026-11-03T16:15:33Z,tba-provider-mdoc-verifier,0.4.0.dev2,,Apache-2.0,4771,ISO mdoc credential verifier provider.
+2026-11-03T16:17:50Z,tba-provider-platform-attestation,0.4.0.dev2,,Apache-2.0,3200,Vendor-adapter platform attestation evidence provider.
