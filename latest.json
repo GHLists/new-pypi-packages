@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 27,
-    "from": "2026-11-03T05:18:25.605434Z",
-    "path": "data/new-packages-2026-11-03T06-19-14-576663Z.csv",
-    "to": "2026-11-03T06:19:14.576663Z"
+    "count": 50,
+    "from": "2026-11-03T06:19:14.576663Z",
+    "path": "data/new-packages-2026-11-03T07-18-23-117057Z.csv",
+    "to": "2026-11-03T07:18:23.117057Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-03T05:56:36Z",
       "package": "microcrystalseeker",
       "since": "2026-11-03T05:18:25.605434Z",
       "version": "0.1.0"
     }
   ],
-  "serial": 43125748,
+  "serial": 43127654,
   "source_truncated": false,
-  "window": "2026-11-03T06:19:14.576663Z"
+  "window": "2026-11-03T07:18:23.117057Z"
 }

@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T06:20:15Z,vedro-step-tracer,0.1.0a4,,,127477,Vedro plugin that traces function calls in e2e steps and renders call-tree reports
+2026-11-03T06:20:34Z,rasmio-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,578808,"Unofficial read-only MCP server for Rasmio (rasmio.com), Iran's company registry: companies, board members, official gazette ads, products, brands."
+2026-11-03T06:20:50Z,tba-concrete-passwordless-credential,0.4.0.dev2,,Apache-2.0,3294,
+2026-11-03T06:20:54Z,iran-jobs-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,260496,"Unofficial read-only MCP server for Iranian job sites IranTalent, Jobinja and Jobvision: side-by-side job search, companies, reviews and pay."
+2026-11-03T06:23:13Z,tba-concrete-pkce,0.4.0.dev2,,Apache-2.0,5568,Deterministic RFC 7636 PKCE S256 implementation.
+2026-11-03T06:24:16Z,dex-connector-airtable,0.1.0,,MIT,116644,Airtable connector for Dex Flows
+2026-11-03T06:25:45Z,tba-concrete-policy-decision-engine-default,0.4.0.dev2,,Apache-2.0,5574,Deterministic default authorization policy decision engine.
+2026-11-03T06:27:18Z,dex-connector-asana,0.1.0,,MIT,116425,Dex-native Asana task connector
+2026-11-03T06:27:21Z,tba-concrete-public-subject-identifier,0.4.0.dev2,,,2607,
+2026-11-03T06:28:34Z,tarifftrust,0.1.0,TariffTrust <contact@tarifftrust.com>,MIT,98390,"Official Python client for the TariffTrust API: every US import duty and fee for an HTS code, an origin and a value, each with its official source."
+2026-11-03T06:30:29Z,tba-concrete-sd-jwt,0.4.0.dev2,,Apache-2.0,7500,Deterministic selective-disclosure JWT behavior.
+2026-11-03T06:32:25Z,dex-connector-close,0.1.0,,MIT,86871,Close connector for Dex Flows
+2026-11-03T06:32:33Z,tba-concrete-sd-jwt-vc-credential,0.4.0.dev2,,Apache-2.0,2757,
+2026-11-03T06:34:19Z,table3,0.4.0,Rigoberto Leyva Salmeron,MIT,44841,"Paged, theme-aware tables in notebook output: shared by tidy3, tidy3a and stats3"
+2026-11-03T06:34:34Z,tba-concrete-service-credential,0.4.0.dev2,,,3034,
+2026-11-03T06:36:51Z,tba-concrete-set,0.4.0.dev2,,Apache-2.0,5386,RFC 8417 Security Event Token claims and validation for TBA.
+2026-11-03T06:38:40Z,tba-concrete-svid,0.4.0.dev2,,Apache-2.0,5358,Deterministic SPIFFE ID and SVID structures.
+2026-11-03T06:40:42Z,tba-concrete-trust-federation-graph,0.4.0.dev2,,Apache-2.0,6013,Deterministic trust-federation graph and path algorithms.
+2026-11-03T06:41:43Z,metafit,0.1.1,,MIT,83170,LLM-guided interpretable decision-tree learning
+2026-11-03T06:42:58Z,tba-concrete-vc-cose-credential,0.4.0.dev2,,Apache-2.0,3000,Standalone VC-COSE credential object.
+2026-11-03T06:43:09Z,noah-ark,0.1.0,YOUR NAME <you@example.com>,MIT,45712,"Run all your services from one YAML file with one command: labelled live logs, restarts, dependency order."
+2026-11-03T06:43:49Z,spectrag,0.1.0,Kumar Nishant,MIT,175723,SpectRAG: spectral graph-augmented retrieval with token-budgeted context selection for multi-hop RAG
+2026-11-03T06:45:00Z,tba-concrete-vc-jose-credential,0.4.0.dev2,,Apache-2.0,3004,Standalone VC-JOSE credential object.
+2026-11-03T06:45:21Z,dbrij-secrets,0.1.0,Dbrij,MIT,42333,Dbrij Secrets for Python: load an environment's secrets with a machine token and open them on your own server.
+2026-11-03T06:45:26Z,vistaar,0.3.2,Chinmay Anand <mail@chinmayanand.com>,MIT,951066,"Automated profiling, micro-segmentation, conversion lift, and model explanations for tabular data."
+2026-11-03T06:46:51Z,tba-concrete-verifiable-credential,0.4.0.dev2,,Apache-2.0,2670,
+2026-11-03T06:48:42Z,tba-concrete-verifiable-presentation,0.4.0.dev2,,Apache-2.0,2642,
+2026-11-03T06:50:44Z,tba-concrete-webauthn-credential,0.4.0.dev2,,,5791,
+2026-11-03T06:52:15Z,quireloop,0.1.0,Arjun Pogaku,,16111222,"A self-hosted, collaborative LaTeX editor for academic research"
+2026-11-03T06:52:46Z,tba-concrete-wit,0.4.0.dev2,,Apache-2.0,2800,Standalone WIMSE WIT object.
+2026-11-03T06:53:01Z,scikit-complexity,0.2.0,Georgios Douzas <gdouzas@icloud.com>,MIT,5376467,A Python package to create and simulate complex systems.
+2026-11-03T06:54:40Z,tba-concrete-wit-svid-credential,0.4.0.dev2,,Apache-2.0,3127,Standalone SPIFFE WIT-SVID credential object.
+2026-11-03T06:57:20Z,grpchealth-py,0.1.0,Jordan Fowler,Apache-2.0,28365,An idiomatic Python implementation of gRPC Service Health compatible with ConnectRPC
+2026-11-03T06:57:39Z,tablichka,0.1.1,DurnevVS,,13504,Convert HTML text and tables to XLSX with class-based styles.
+2026-11-03T06:59:36Z,dirproof-cli,0.1.0,dirproof contributors,MIT,18948,Offline deterministic SHA-256 snapshots and directory verification
+2026-11-03T07:00:56Z,grpcreflect-py,0.1.0,Jordan Fowler,Apache-2.0,45353,An idiomatic Python implementation of gRPC Server Reflection compatible with ConnectRPC
+2026-11-03T07:02:09Z,turing-bf16,0.1.0,Shivam Raj,MIT,82841,"Run bf16 PyTorch models on fp16 tensor cores (Turing: RTX 20xx, T4, Quadro RTX), with bf16 accuracy"
+2026-11-03T07:03:34Z,multicloud-cli,0.1.0,Multicloud Team <info@multicloud.io>,Apache-2.0,107185,mctl: sign in to Multicloud and connect your cloud account
+2026-11-03T07:04:06Z,survival-analysis-tools,0.1.7,dinka3737 <dinka3737@gmail.com>,MIT,15864,Survival analysis helpers: Kaplan–Meier plots and Cox HR utilities.
+2026-11-03T07:07:43Z,mobiusguard,0.1.0,SK Imtiaj Uddin,Apache-2.0,65891,"Mobius Guard: an OpenAI-compatible LLM firewall proxy with streaming redaction and an honest, held-out evaluation."
+2026-11-03T07:07:43Z,mobiusguard-redact,0.1.0,SK Imtiaj Uddin,Apache-2.0,90187,"Streaming redaction for LLM output: rewrites secrets and PII that are split across chunks, without buffering the reply."
+2026-11-03T07:07:46Z,mobiusguard-eval,0.1.0,SK Imtiaj Uddin,Apache-2.0,94658,"Evaluation harness for LLM guardrails: held-out attack families, false-positive sets, recall at fixed FPR and CPU latency."
+2026-11-03T07:08:51Z,manim-math-video-studio,0.4.0,kappa77,MIT,24956,Installer for the manim-math-video Agent Skill
+2026-11-03T07:13:58Z,crawlerkeeper-agent,1.0.0,CrawlerKeeper Team,MIT,72178,CrawlerKeeper 节点代理程序：节点注册、心跳上报、任务拉取与并行执行、部署同步与日志指标上报
+2026-11-03T07:15:46Z,fxbex,0.2.1,,Apache-2.0,60382,Furiosa RNGD compiled artifact packaging and runtime CLI
+2026-11-03T07:16:14Z,esaalat,0.1.0,Esaalat <support@esaalat.com>,MIT,21873,"Server-side Esaalat client: locked checkout sessions, payment intents and signed webhook verification."
+2026-11-03T07:17:11Z,lodfile,0.1.0,,,3665,Read and write Heroes of Might and Magic III .lod archives with a zipfile-like API
+2026-11-03T07:17:28Z,aiohttp-ai-chatbot,1.0.0,Asyntai <hello@asyntai.com>,MIT,19935,"Adds the Asyntai AI chat assistant to aiohttp sites. It answers visitor questions from your own content, in more than 80 languages."
+2026-11-03T07:17:50Z,kleintts,0.1.0,Klein ML,Apache-2.0,44519,"Klein-TTS: small multilingual text-to-speech models (Pro, Flash, Flash Lite)"
+2026-11-03T07:17:56Z,mcseeker,0.1.0,Kan,MIT,40759,从 Materials Project 检索晶体结构并导出可上传服务器的结构文件包

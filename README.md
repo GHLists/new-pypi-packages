@@ -8,38 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 06:19 UTC
+## Latest list — 2026-11-03 07:18 UTC
 
-New packages created between 2026-11-03 05:18 UTC and 2026-11-03 06:19 UTC.
+New packages created between 2026-11-03 06:19 UTC and 2026-11-03 07:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-03T06-19-14-576663Z.csv)
+[Full CSV](data/new-packages-2026-11-03T07-18-23-117057Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-03 05:20:54 | [10x-cloud-storage-manager](https://pypi.org/project/10x-cloud-storage-manager/) | 0.2.0 | MUTHARASU A <mutharasu39@gmai… | 38.0 kB | A unified async interface for AWS S3, Google Cloud Storage and Azure Blob Stora… |
-| 2026-11-03 05:22:34 | [wadler-lindig-parts](https://pypi.org/project/wadler-lindig-parts/) | 0.1.0 | Nathaniel Starkman <nstarman@… | 71.5 kB | A parts layer over wadler-lindig: one engine behind repr, str, format and marku… |
-| 2026-11-03 05:23:58 | [nicebot](https://pypi.org/project/nicebot/) | 0.1.0 | Ozodbek Sobirjonovich | 276.9 kB | Telegram botlar uchun eng qulay Python kutubxonasi: kam kod, ichki ORM, tugmala… |
-| 2026-11-03 05:38:08 | [velox-guardrails](https://pypi.org/project/velox-guardrails/) | 0.1.0 | Velox | 31.9 kB | Small, dependency-free guardrails for LLM apps: injection filter, PII masking,… |
-| 2026-11-03 05:47:02 | [zerodb-dagster](https://pypi.org/project/zerodb-dagster/) | 0.1.0 | AINative Studio <dev@ainative… | 27.9 kB | Dagster I/O manager, sensor, and resource for ZeroDB -- the free, auto-provisio… |
-| 2026-11-03 05:47:10 | [ainative-ai-sdk-provider](https://pypi.org/project/ainative-ai-sdk-provider/) | 0.1.0 | AINative Studio <dev@ainative… | 45.1 kB | Python SDK for AINative's multi-provider AI inference API: chat completions, st… |
-| 2026-11-03 05:51:40 | [objorthorender](https://pypi.org/project/objorthorender/) | 1.0.3 | UVE <uve1048@foxmail.com> | 53.8 kB | Render textured 3D OBJ meshes into georeferenced GeoTIFF orthophotos (DOM), wit… |
-| 2026-11-03 05:54:13 | [kosa8](https://pypi.org/project/kosa8/) | 0.1.0 |  | 41.5 kB | Python client for the kosa8 native API: microVM sandboxes for AI agents, with c… |
-| 2026-11-03 05:54:42 | [tba-concrete-workload-identity](https://pypi.org/project/tba-concrete-workload-identity/) | 0.4.0.dev2 |  | 3.0 kB | Standalone concrete workload identity model. |
-| 2026-11-03 05:54:43 | [quillbench](https://pypi.org/project/quillbench/) | 1.4.1 | A.C. Pogaku | 246.7 kB | Build benchmark datasets with human annotators: a config-driven annotation plat… |
-| 2026-11-03 05:56:57 | [tba-concrete-identity-principals](https://pypi.org/project/tba-concrete-identity-principals/) | 0.4.0.dev2 |  | 9.9 kB | Principal construction, tenant membership, subject alias, and in-memory directo… |
-| 2026-11-03 05:59:33 | [tba-concrete-jwe](https://pypi.org/project/tba-concrete-jwe/) | 0.4.0.dev2 |  | 5.3 kB | Deterministic provider-free JWE compact serialization objects. |
-| 2026-11-03 06:01:31 | [tba-concrete-jws](https://pypi.org/project/tba-concrete-jws/) | 0.4.0.dev2 |  | 6.3 kB | Deterministic provider-free JWS compact serialization objects. |
-| 2026-11-03 06:02:24 | [hlahaplotools](https://pypi.org/project/hlahaplotools/) | 0.1.0rc2 | Fredrick M. Mobegi | 4.4 MB | Extended HLA and MHC haplotypes in families and populations: pedigree phasing,… |
-| 2026-11-03 06:03:07 | [quilt-context-lake](https://pypi.org/project/quilt-context-lake/) | 0.2.0 |  | 138.8 kB | Deterministic context automation: collect, normalize, index, reconcile and publ… |
-| 2026-11-03 06:04:04 | [tba-concrete-jwt](https://pypi.org/project/tba-concrete-jwt/) | 0.4.0.dev2 |  | 4.3 kB | Deterministic provider-free JWT structural objects. |
-| 2026-11-03 06:06:21 | [tba-concrete-jwt-svid-credential](https://pypi.org/project/tba-concrete-jwt-svid-credential/) | 0.4.0.dev2 |  | 3.1 kB | Standalone JWT-SVID credential object. |
-| 2026-11-03 06:06:25 | [scaffold-jam](https://pypi.org/project/scaffold-jam/) | 0.2.0 | Scaffold | 217.9 kB | Scaffold command-line client: connect local coding agents to multiplayer rooms |
-| 2026-11-03 06:08:26 | [tba-concrete-mdoc-credential](https://pypi.org/project/tba-concrete-mdoc-credential/) | 0.4.0.dev2 |  | 2.9 kB |  |
-| 2026-11-03 06:09:02 | [viir-cli](https://pypi.org/project/viir-cli/) | 1.0.0 | Viir Phuria | 22.9 kB | Official CLI tool for viir.tech — Viir Phuria Portfolio, Research & AI Agent Ga… |
-| 2026-11-03 06:10:28 | [tba-concrete-mdoc](https://pypi.org/project/tba-concrete-mdoc/) | 0.4.0.dev2 |  | 10.2 kB |  |
-| 2026-11-03 06:11:59 | [mergo-cli](https://pypi.org/project/mergo-cli/) | 0.1.0 |  | 80.4 kB | Command-line client for the OpsAI Open API |
-| 2026-11-03 06:12:31 | [tba-concrete-mfa-factor](https://pypi.org/project/tba-concrete-mfa-factor/) | 0.4.0.dev2 |  | 3.0 kB |  |
-| 2026-11-03 06:14:47 | [tba-concrete-mtls-confirmation-binding](https://pypi.org/project/tba-concrete-mtls-confirmation-binding/) | 0.4.0.dev2 |  | 4.6 kB | Deterministic mTLS confirmation binding validation. |
-| 2026-11-03 06:16:34 | [tba-concrete-oidc-id-token](https://pypi.org/project/tba-concrete-oidc-id-token/) | 0.4.0.dev2 |  | 3.0 kB | Standalone OIDC ID Token structural object. |
-| 2026-11-03 06:18:02 | [kicad-review](https://pypi.org/project/kicad-review/) | 0.1.0 | Yusuke Yamazaki | 256.2 kB | Review KiCad schematics (two versions or one design) and boards with a coding a… |
-| 2026-11-03 06:18:42 | [tba-concrete-pairwise-subject-identifier](https://pypi.org/project/tba-concrete-pairwise-subject-identifier/) | 0.4.0.dev2 |  | 2.8 kB |  |
+| 2026-11-03 06:20:15 | [vedro-step-tracer](https://pypi.org/project/vedro-step-tracer/) | 0.1.0a4 |  | 127.5 kB | Vedro plugin that traces function calls in e2e steps and renders call-tree repo… |
+| 2026-11-03 06:20:34 | [rasmio-mcp](https://pypi.org/project/rasmio-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 578.8 kB | Unofficial read-only MCP server for Rasmio (rasmio.com), Iran's company registr… |
+| 2026-11-03 06:20:50 | [tba-concrete-passwordless-credential](https://pypi.org/project/tba-concrete-passwordless-credential/) | 0.4.0.dev2 |  | 3.3 kB |  |
+| 2026-11-03 06:20:54 | [iran-jobs-mcp](https://pypi.org/project/iran-jobs-mcp/) | 0.1.0 | Sepehr Radmard <sepehrr80@gma… | 260.5 kB | Unofficial read-only MCP server for Iranian job sites IranTalent, Jobinja and J… |
+| 2026-11-03 06:23:13 | [tba-concrete-pkce](https://pypi.org/project/tba-concrete-pkce/) | 0.4.0.dev2 |  | 5.6 kB | Deterministic RFC 7636 PKCE S256 implementation. |
+| 2026-11-03 06:24:16 | [dex-connector-airtable](https://pypi.org/project/dex-connector-airtable/) | 0.1.0 |  | 116.6 kB | Airtable connector for Dex Flows |
+| 2026-11-03 06:25:45 | [tba-concrete-policy-decision-engine-default](https://pypi.org/project/tba-concrete-policy-decision-engine-default/) | 0.4.0.dev2 |  | 5.6 kB | Deterministic default authorization policy decision engine. |
+| 2026-11-03 06:27:18 | [dex-connector-asana](https://pypi.org/project/dex-connector-asana/) | 0.1.0 |  | 116.4 kB | Dex-native Asana task connector |
+| 2026-11-03 06:27:21 | [tba-concrete-public-subject-identifier](https://pypi.org/project/tba-concrete-public-subject-identifier/) | 0.4.0.dev2 |  | 2.6 kB |  |
+| 2026-11-03 06:28:34 | [tarifftrust](https://pypi.org/project/tarifftrust/) | 0.1.0 | TariffTrust <contact@tarifftr… | 98.4 kB | Official Python client for the TariffTrust API: every US import duty and fee fo… |
+| 2026-11-03 06:30:29 | [tba-concrete-sd-jwt](https://pypi.org/project/tba-concrete-sd-jwt/) | 0.4.0.dev2 |  | 7.5 kB | Deterministic selective-disclosure JWT behavior. |
+| 2026-11-03 06:32:25 | [dex-connector-close](https://pypi.org/project/dex-connector-close/) | 0.1.0 |  | 86.9 kB | Close connector for Dex Flows |
+| 2026-11-03 06:32:33 | [tba-concrete-sd-jwt-vc-credential](https://pypi.org/project/tba-concrete-sd-jwt-vc-credential/) | 0.4.0.dev2 |  | 2.8 kB |  |
+| 2026-11-03 06:34:19 | [table3](https://pypi.org/project/table3/) | 0.4.0 | Rigoberto Leyva Salmeron | 44.8 kB | Paged, theme-aware tables in notebook output: shared by tidy3, tidy3a and stats3 |
+| 2026-11-03 06:34:34 | [tba-concrete-service-credential](https://pypi.org/project/tba-concrete-service-credential/) | 0.4.0.dev2 |  | 3.0 kB |  |
+| 2026-11-03 06:36:51 | [tba-concrete-set](https://pypi.org/project/tba-concrete-set/) | 0.4.0.dev2 |  | 5.4 kB | RFC 8417 Security Event Token claims and validation for TBA. |
+| 2026-11-03 06:38:40 | [tba-concrete-svid](https://pypi.org/project/tba-concrete-svid/) | 0.4.0.dev2 |  | 5.4 kB | Deterministic SPIFFE ID and SVID structures. |
+| 2026-11-03 06:40:42 | [tba-concrete-trust-federation-graph](https://pypi.org/project/tba-concrete-trust-federation-graph/) | 0.4.0.dev2 |  | 6.0 kB | Deterministic trust-federation graph and path algorithms. |
+| 2026-11-03 06:41:43 | [metafit](https://pypi.org/project/metafit/) | 0.1.1 |  | 83.2 kB | LLM-guided interpretable decision-tree learning |
+| 2026-11-03 06:42:58 | [tba-concrete-vc-cose-credential](https://pypi.org/project/tba-concrete-vc-cose-credential/) | 0.4.0.dev2 |  | 3.0 kB | Standalone VC-COSE credential object. |
+| 2026-11-03 06:43:09 | [noah-ark](https://pypi.org/project/noah-ark/) | 0.1.0 | YOUR NAME <you@example.com> | 45.7 kB | Run all your services from one YAML file with one command: labelled live logs,… |
+| 2026-11-03 06:43:49 | [spectrag](https://pypi.org/project/spectrag/) | 0.1.0 | Kumar Nishant | 175.7 kB | SpectRAG: spectral graph-augmented retrieval with token-budgeted context select… |
+| 2026-11-03 06:45:00 | [tba-concrete-vc-jose-credential](https://pypi.org/project/tba-concrete-vc-jose-credential/) | 0.4.0.dev2 |  | 3.0 kB | Standalone VC-JOSE credential object. |
+| 2026-11-03 06:45:21 | [dbrij-secrets](https://pypi.org/project/dbrij-secrets/) | 0.1.0 | Dbrij | 42.3 kB | Dbrij Secrets for Python: load an environment's secrets with a machine token an… |
+| 2026-11-03 06:45:26 | [vistaar](https://pypi.org/project/vistaar/) | 0.3.2 | Chinmay Anand <mail@chinmayan… | 951.1 kB | Automated profiling, micro-segmentation, conversion lift, and model explanation… |
+| 2026-11-03 06:46:51 | [tba-concrete-verifiable-credential](https://pypi.org/project/tba-concrete-verifiable-credential/) | 0.4.0.dev2 |  | 2.7 kB |  |
+| 2026-11-03 06:48:42 | [tba-concrete-verifiable-presentation](https://pypi.org/project/tba-concrete-verifiable-presentation/) | 0.4.0.dev2 |  | 2.6 kB |  |
+| 2026-11-03 06:50:44 | [tba-concrete-webauthn-credential](https://pypi.org/project/tba-concrete-webauthn-credential/) | 0.4.0.dev2 |  | 5.8 kB |  |
+| 2026-11-03 06:52:15 | [quireloop](https://pypi.org/project/quireloop/) | 0.1.0 | Arjun Pogaku | 16.1 MB | A self-hosted, collaborative LaTeX editor for academic research |
+| 2026-11-03 06:52:46 | [tba-concrete-wit](https://pypi.org/project/tba-concrete-wit/) | 0.4.0.dev2 |  | 2.8 kB | Standalone WIMSE WIT object. |
+| 2026-11-03 06:53:01 | [scikit-complexity](https://pypi.org/project/scikit-complexity/) | 0.2.0 | Georgios Douzas <gdouzas@iclo… | 5.4 MB | A Python package to create and simulate complex systems. |
+| 2026-11-03 06:54:40 | [tba-concrete-wit-svid-credential](https://pypi.org/project/tba-concrete-wit-svid-credential/) | 0.4.0.dev2 |  | 3.1 kB | Standalone SPIFFE WIT-SVID credential object. |
+| 2026-11-03 06:57:20 | [grpchealth-py](https://pypi.org/project/grpchealth-py/) | 0.1.0 | Jordan Fowler | 28.4 kB | An idiomatic Python implementation of gRPC Service Health compatible with Conne… |
+| 2026-11-03 06:57:39 | [tablichka](https://pypi.org/project/tablichka/) | 0.1.1 | DurnevVS | 13.5 kB | Convert HTML text and tables to XLSX with class-based styles. |
+| 2026-11-03 06:59:36 | [dirproof-cli](https://pypi.org/project/dirproof-cli/) | 0.1.0 | dirproof contributors | 18.9 kB | Offline deterministic SHA-256 snapshots and directory verification |
+| 2026-11-03 07:00:56 | [grpcreflect-py](https://pypi.org/project/grpcreflect-py/) | 0.1.0 | Jordan Fowler | 45.4 kB | An idiomatic Python implementation of gRPC Server Reflection compatible with Co… |
+| 2026-11-03 07:02:09 | [turing-bf16](https://pypi.org/project/turing-bf16/) | 0.1.0 | Shivam Raj | 82.8 kB | Run bf16 PyTorch models on fp16 tensor cores (Turing: RTX 20xx, T4, Quadro RTX)… |
+| 2026-11-03 07:03:34 | [multicloud-cli](https://pypi.org/project/multicloud-cli/) | 0.1.0 | Multicloud Team <info@multicl… | 107.2 kB | mctl: sign in to Multicloud and connect your cloud account |
+| 2026-11-03 07:04:06 | [survival-analysis-tools](https://pypi.org/project/survival-analysis-tools/) | 0.1.7 | dinka3737 <dinka3737@gmail.co… | 15.9 kB | Survival analysis helpers: Kaplan–Meier plots and Cox HR utilities. |
+| 2026-11-03 07:07:43 | [mobiusguard](https://pypi.org/project/mobiusguard/) | 0.1.0 | SK Imtiaj Uddin | 65.9 kB | Mobius Guard: an OpenAI-compatible LLM firewall proxy with streaming redaction… |
+| 2026-11-03 07:07:43 | [mobiusguard-redact](https://pypi.org/project/mobiusguard-redact/) | 0.1.0 | SK Imtiaj Uddin | 90.2 kB | Streaming redaction for LLM output: rewrites secrets and PII that are split acr… |
+| 2026-11-03 07:07:46 | [mobiusguard-eval](https://pypi.org/project/mobiusguard-eval/) | 0.1.0 | SK Imtiaj Uddin | 94.7 kB | Evaluation harness for LLM guardrails: held-out attack families, false-positive… |
+| 2026-11-03 07:08:51 | [manim-math-video-studio](https://pypi.org/project/manim-math-video-studio/) | 0.4.0 | kappa77 | 25.0 kB | Installer for the manim-math-video Agent Skill |
+| 2026-11-03 07:13:58 | [crawlerkeeper-agent](https://pypi.org/project/crawlerkeeper-agent/) | 1.0.0 | CrawlerKeeper Team | 72.2 kB | CrawlerKeeper 节点代理程序：节点注册、心跳上报、任务拉取与并行执行、部署同步与日志指标上报 |
+| 2026-11-03 07:15:46 | [fxbex](https://pypi.org/project/fxbex/) | 0.2.1 |  | 60.4 kB | Furiosa RNGD compiled artifact packaging and runtime CLI |
+| 2026-11-03 07:16:14 | [esaalat](https://pypi.org/project/esaalat/) | 0.1.0 | Esaalat <support@esaalat.com> | 21.9 kB | Server-side Esaalat client: locked checkout sessions, payment intents and signe… |
+| 2026-11-03 07:17:11 | [lodfile](https://pypi.org/project/lodfile/) | 0.1.0 |  | 3.7 kB | Read and write Heroes of Might and Magic III .lod archives with a zipfile-like… |
+| 2026-11-03 07:17:28 | [aiohttp-ai-chatbot](https://pypi.org/project/aiohttp-ai-chatbot/) | 1.0.0 | Asyntai <hello@asyntai.com> | 19.9 kB | Adds the Asyntai AI chat assistant to aiohttp sites. It answers visitor questio… |
+| 2026-11-03 07:17:50 | [kleintts](https://pypi.org/project/kleintts/) | 0.1.0 | Klein ML | 44.5 kB | Klein-TTS: small multilingual text-to-speech models (Pro, Flash, Flash Lite) |
+| 2026-11-03 07:17:56 | [mcseeker](https://pypi.org/project/mcseeker/) | 0.1.0 | Kan | 40.8 kB | 从 Materials Project 检索晶体结构并导出可上传服务器的结构文件包 |
