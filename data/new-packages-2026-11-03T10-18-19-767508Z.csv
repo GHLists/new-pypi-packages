@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T09:19:29Z,greeclimate-davo22,2.4.0,Clifford Roche,,111544,"Fork of greeclimate adding Gree Cloud (MQTT) support, for cloud-only devices"
+2026-11-03T09:19:56Z,ebrains-storage,0.9.0,EBRAINS <support@ebrains.eu>,Apache-2.0,178943,Python client interface for EBRAINS Collaboratory Drive and Bucket storage (formerly ebrains-drive)
+2026-11-03T09:20:20Z,orkg-llm-logger,0.1.0,Yucel,MIT,19643,"Log LLM calls (OpenAI, Gemini, OpenRouter, ...) to JSON/JSONL in the record format read by the @orkg/llm-logger dashboard."
+2026-11-03T09:22:04Z,pytest-picker,0.1.1,,MIT,67427,勾选 pytest 测试用例 + Allure 选项，生成可执行命令的 Flask Web 工具
+2026-11-03T09:22:55Z,copernicus-ems,0.2.0,Giuseppe Zileni,Apache-2.0,49600,"Client for Copernicus EMS Rapid Mapping: activations, observation masks, observed flood extents"
+2026-11-03T09:24:32Z,rabmv,0.1.0,"Janer Alfonso Pareja Gutiérrez <aparejaj@uninorte.edu.co>, Margarita Rosa Gamarra Acosta <mrgamarra…",BSD-3-Clause,132500,"RabMV: Registry-Aware Boosting Machine of Valledupar, an explainable boosting machine that knows the structure of the registry"
+2026-11-03T09:29:36Z,trendscale,0.1.0,Famed Bonobo,MIT,99642,"Google Trends API for Python: compare any number of terms on one 0-100 scale, regions, related queries and trending now. A maintained pytrends alternative."
+2026-11-03T09:29:42Z,google-hotels,0.1.0,Famed Bonobo,MIT,106461,"Google Hotels API for Python: hotel search results, prices from every booking site, price calendars, reviews and photos. No browser, no API key."
+2026-11-03T09:29:57Z,rootcast,0.1.0,Amaresh Hebbar <hebbar.gvamaresh@gmail.com>,Apache-2.0,9772,The flight recorder for AI agents. Find where an agent went wrong and why.
+2026-11-03T09:30:19Z,gamspy-examples,54.6.1,,,1576786,
+2026-11-03T09:34:08Z,qelso,0.1.0a1,Qelso,Apache-2.0,101737,Python client for the Qelso Data API: historical prediction-market data from Kalshi and Polymarket.
+2026-11-03T09:34:21Z,corethink,1.0.1,CoreThink <support@corethink.ai>,MIT,496915,"The CoreThink Workbench from your terminal: environments, training, endpoints and more."
+2026-11-03T09:34:30Z,tba-provider-attestation-packed,0.4.0.dev2,,Apache-2.0,6356,WebAuthn packed attestation verifier.
+2026-11-03T09:36:02Z,pr-analyzer-cli,0.1.0,Neil Mathew,MIT,183301,"Score GitHub pull requests with static analysis, security scanning and an optional LLM review"
+2026-11-03T09:36:13Z,askre-ai,0.2.1,ASK Real Estate (ASKRE),MIT,30469,Official Python client for ai.askre.com: run ASKRE's prebuilt AI capabilities from any Python app with one key.
+2026-11-03T09:41:09Z,datasheets-md,2.0.1,datasheets.md,MIT,118407,"dsmd: a git-like working copy of your datasheets.md workspace (parameters, pins, CAD config, KiCad library)"
+2026-11-03T09:42:07Z,vsigma,0.4.0,abbcdfin,MIT,514968,Cognitive architecture toolkit for autonomous systems
+2026-11-03T09:44:44Z,1102-mcp,0.1.0,,,7847,Add your description here
+2026-11-03T09:46:21Z,korea-finance-factcheck,0.1.1,,MIT,41724,"MCP server that checks numbers in Korean finance writing against DART, Bank of Korea ECOS and US Treasury data"
+2026-11-03T09:46:39Z,datasheets-md-gui,2.0.1,datasheets.md,MIT,3164,"dBsync, the desktop app for datasheets-md (dsmd): installs datasheets-md with the PySide6 GUI"
+2026-11-03T09:51:36Z,hax-em-gui,0.1.0,,GPL-3.0-or-later,2964014,"Web GUI for the hax-em CryoEM heterogeneity suite: program launcher, job manager, and a browser-native WebGL conformational-landscape viewer."
+2026-11-03T09:52:05Z,tba-provider-attestation-reference,0.4.0.dev3,,Apache-2.0,2850,Attestation reference material provider.
+2026-11-03T09:53:41Z,mrve32-snn,0.1.0,,Apache-2.0,1347354,SNN layer accelerator device module for the MRVE32 RISC-V emulator
+2026-11-03T09:53:43Z,mrve32,0.1.0,,Apache-2.0,1917483,Deterministic RV32IMAC microcontroller emulator with pluggable memory-mapped devices
+2026-11-03T09:55:59Z,bhived,0.1.0,ArtKey AI,Apache-2.0,65542,Python client for bhived: query shared lessons from other AI agents and write verified ones back.
+2026-11-03T09:56:50Z,amber-compiler,0.1.1,Enes Taner,Apache-2.0,390981,"Compile recorded agent runs into neuro-symbolic programs with replay tests, guards and a drift loop."
+2026-11-03T09:57:31Z,ai-video-upscaler,0.1.0,VideoUpscaler Team,MIT,3508,"Cloud-Native 4K AI Video Upscaler (FlashVSR-4K), Temporal Video Denoising, 60FPS Optical Flow Frame Interpolation & Motion Stabilization Python SDK"
+2026-11-03T09:57:33Z,videoupscaler-mcp,0.1.0,VideoUpscaler Team,MIT,3519,Official Model Context Protocol (MCP) & n8n/Make/Zapier Workflow Automation Python SDK for VideoUpscaler 4K AI Video Enhancement
+2026-11-03T09:57:47Z,tba-provider-attestation-tpm,0.4.0.dev2,,Apache-2.0,7570,WebAuthn TPM attestation verifier.
+2026-11-03T09:57:59Z,odoo-addon-sy-crm-commercial-autoassign,18.0.1.0.0,Sygel,AGPL-3,43243,Automatically assign salespersons to partners based on ZIP codes
+2026-11-03T09:58:00Z,langchain-bhived,0.1.0,ArtKey AI,Apache-2.0,32594,LangChain middleware and tools for bhived: recall shared lessons from other AI agents and write verified ones back.
+2026-11-03T09:58:19Z,videoupscaler-sdk,0.1.0,VideoUpscaler Team,MIT,3462,"Official Python SDK & CLI for VideoUpscaler (https://videoupscaler.co) — 4K AI Video Upscaler, Batch Upscaling, Denoising, 60FPS Frame Interpolation & Workflow API"
+2026-11-03T09:58:21Z,flashvsr-4k,0.1.0,VideoUpscaler Team,MIT,3420,"FlashVSR-4K Cloud Spatio-Temporal 4K Video Super-Resolution, Denoising & 60FPS Frame Interpolation Python SDK — https://videoupscaler.co/4k-video-upscaler"
+2026-11-03T09:58:56Z,Jarvis-Forge,1.0.0,Jarvis-Forge Developers,MIT,118710,User-space environments and reproducible command acceptance runs for scientific software
+2026-11-03T09:59:23Z,prismal-ai-sdk,0.3.0,Ernesto Crespo <ecrespo@gmail.com>,"MIT License Copyright (c) 2026 prismal-ai Permission is hereby granted, free of charge, to any pers…",91286,"Typed Python client (REST + SSE, A2A JSON-RPC) for prismal-server."
+2026-11-03T10:00:21Z,tba-provider-attestation-u2f,0.4.0.dev2,,Apache-2.0,5020,WebAuthn FIDO U2F attestation verifier.
+2026-11-03T10:00:30Z,strands-bhived,0.1.0,ArtKey AI,Apache-2.0,28442,Strands Agents plugin and tools for bhived: recall shared lessons from other AI agents and write verified ones back.
+2026-11-03T10:00:47Z,html2pdf.py,0.1.0,,MIT,22065486,"Convert HTML text to PDF — single purpose, Rust core, no system dependencies"
+2026-11-03T10:02:25Z,tba-provider-authentication-anomaly-detector,0.4.0.dev2,,Apache-2.0,4432,Concrete authentication anomaly detection provider.
+2026-11-03T10:02:54Z,agent-framework-bhived,0.1.0,ArtKey AI,Apache-2.0,30025,Microsoft Agent Framework context provider and tools for bhived: recall shared lessons from other AI agents and write verified ones back.
+2026-11-03T10:03:04Z,wraithd,0.0.1,Shahar Ishay,MIT,1649881,A personal agent that runs on your own machine.
+2026-11-03T10:03:20Z,protecteda,0.1.0,,,3596512,Install and launch the bundled protected1 Windows application
+2026-11-03T10:04:16Z,uspace-lab,0.1.0,,,70825,U-space Lab messaging and teaching infrastructure
+2026-11-03T10:04:35Z,tba-provider-authentication-context-acr-basic,0.1.0,,Apache-2.0,2751,Basic ACR evaluator provider for the TBA package suite.
+2026-11-03T10:07:09Z,tba-provider-authentication-context-amr-basic,0.1.0,,Apache-2.0,2758,Basic AMR evaluator provider for the TBA package suite.
+2026-11-03T10:09:13Z,sammatigrid,0.1.0,SammatiGrid,MIT,24307,"SammatiGrid Python SDK — DPDP Act 2023 consent logging, hash-chain verification and PII inventory."
+2026-11-03T10:09:27Z,tba-provider-authenticator-api-key-local,0.1.0,,Apache-2.0,3426,Local API key authenticator provider for the TBA package suite.
+2026-11-03T10:11:43Z,tba-provider-secret-hashing-bcrypt,0.1.0,,Apache-2.0,4474,Bcrypt shared-secret hashing and verification provider for TBA.
+2026-11-03T10:13:59Z,tba-provider-authenticator-client-secret-local,0.1.0,,Apache-2.0,3383,Local client shared-secret authenticator provider for the TBA package suite.
+2026-11-03T10:15:18Z,exx-sh,0.2.0,,MIT,158056,Python SDK for the exx.sh email API
+2026-11-03T10:16:07Z,tba-provider-authenticator-dpop-proof,0.1.0,,Apache-2.0,3091,DPoP proof authenticator provider for the TBA package suite.
+2026-11-03T10:17:25Z,gmm-migt,1.0.0,Lida Shahmiri <lidashahmiri66@gmail.com>,MIT,123796,GMM-MIGT: Gaussian Mixture Model - Mutual Information Guided Training for representative train/test/validation partitioning of image datasets
+2026-11-03T10:17:47Z,tba-provider-authenticator-federated-oidc,0.1.0,,Apache-2.0,3053,Federated OIDC authenticator provider for the TBA package suite.
+2026-11-03T10:17:48Z,mesh-things,0.1.0,oscgonfer,GPL-3.0-only,238187,"Python client for the mesh-things API, with the vocabulary and Meshtastic protocol helpers it is built on"
