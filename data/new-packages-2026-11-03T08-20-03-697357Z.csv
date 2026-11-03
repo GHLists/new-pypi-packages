@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T07:18:30Z,hashpy,1.1.4.post1,AI4EPS,CC0-1.0,123839,"SKHASH (USGS) for earthquake focal mechanism inversions, packaged with NumPy 2 support"
+2026-11-03T07:20:03Z,yaku,0.1.2,Shuichi Ohsawa,MIT,84251,Offline translator for command output that keeps identifiers intact
+2026-11-03T07:26:52Z,rulewright,0.1.0,rulewright contributors,"MIT License Copyright (c) 2026 rulewright contributors Permission is hereby granted, free of charge…",411893,Mine repeated coding-agent mistakes from git history and propose evidence-backed rules.
+2026-11-03T07:32:24Z,tamcoder,0.1.50,,MIT,5306,Tamcoder — TypeScript coding agent runtime (PyPI shim that installs the official Linux x86_64 release)
+2026-11-03T07:35:13Z,b2b-agent-skills,0.2.0,pratsy,MIT,369662,"45 evidence-grounded AI skills for B2B sales, marketing, RevOps and GTM - with JSON Schema outputs, golden evals, an MCP server and a Claude Code plugin."
+2026-11-03T07:36:42Z,signedly,0.1.0,Signedly,MIT,598139,Signedly API
+2026-11-03T07:36:57Z,viscose,0.1.0,Daniel Bojar <daniel.bojar@gu.se>,MIT,94553,"Scientific plots that are pieces of art: palettes with their own special effects, drawn without matplotlib"
+2026-11-03T07:38:06Z,dte-airflow,0.1.0,Bhavani Ravi,Apache-2.0,936272,"Batch data transformation engine that runs as an Airflow 3 app: a visual pipeline builder over DuckDB, ibis and dlt"
+2026-11-03T07:38:16Z,kyvvu-baseline,1.0.0,"""Kyvvu B.V."" <info@kyvvu.com>",Apache-2.0,48508,"Frozen, offline Kyvvu policy manifests and loader"
+2026-11-03T07:40:01Z,corvin,0.7.2,Khairan Noor,Apache-2.0,200935,"CORVIN: Cognitive Operational Resilience, Vigilance & Immunity Nexus for Sovereign AI Agents."
+2026-11-03T07:40:33Z,honestab,0.1.0,Sofya Babkina,MIT,62859,"A/B test analysis with methods verified by simulation: CUPED, delta method, sequential testing, SRM"
+2026-11-03T07:40:34Z,kyvvu-cli,1.0.0,"""Kyvvu B.V."" <info@kyvvu.com>",Apache-2.0,141501,Kyvvu command-line tools for policy trials and platform diagnostics
+2026-11-03T07:51:35Z,harness-swap,0.2.0,Onur Cetinkol <onurcetinkol@gmail.com>,MIT,1500211,"Switch between multiple accounts across AI coding harnesses, with automatic rate-limit rotation, a unified usage dashboard, and parallel sessions."
+2026-11-03T07:52:12Z,mosscode,0.1.0,yzd11,MIT,796315,"A terminal coding agent: tools, permissions, MCP, skills, hooks, sub-agents and agent teams."
+2026-11-03T07:52:15Z,threadstractormf,1.4.0,ExtractorsMF,GPL-3.0-only,323056,Python library for Threads - media download by post_id with Netscape cookies auth (gallery-dl compatible)
+2026-11-03T07:52:20Z,tunetidy,1.0.0,xhhhz,MIT,637915,理音：把网易云歌单按曲风拆成多个新歌单，本地生成整理结果，人工确认后再写回（非官方项目）。
+2026-11-03T07:52:31Z,zarx,0.2.0,NPAW <contact@zarx.ai>,Apache-2.0,80926,"Python SDK for Zarx, the OpenAI-compatible inference API run by NPAW in Europe."
+2026-11-03T07:53:43Z,segurai,0.1.0,,Apache-2.0,265455,Provenance and authority for AI agent chains - who authorized what your agents did
+2026-11-03T07:54:25Z,audiobook-import,1.1.0,David Engel,Apache-2.0,735290,"Turns audiobook downloads into tagged, chaptered m4b files with Audible's metadata, and repairs books already in a library"
+2026-11-03T07:58:59Z,reverse-geolocate,1.1.3,,GPL-3.0-or-later,69992,Reverse Geolocate from Lat/Long information and write location information into sidecard files
+2026-11-03T07:59:12Z,dezh,0.1.0,Your Name <you@example.com>,MIT,68203,A modular FastAPI framework with MCP + Artisan-style CLI
+2026-11-03T07:59:16Z,coakka-http-runtime-python,1.1.2,,Apache-2.0 AND LicenseRef-CoAkka-Native-Artifact-1.2,18993724,"Python APIs for CoAkka HTTP Runtime, a shared HTTP server and client for polyglot applications"
+2026-11-03T08:01:00Z,stogas,0.1.0a1,,Apache-2.0,97942428,Stogas SDK for verified confidential AI connections and evidence
+2026-11-03T08:07:36Z,kyvvu-templates,1.0.0,"""Kyvvu B.V."" <info@kyvvu.com>",Apache-2.0,39737,Kyvvu behaviour templates: map framework events to governed agent steps
+2026-11-03T08:07:45Z,kioko,0.6.0,Kumar Nishant,MIT,747702,"Kioko (from kioku, Japanese for memory): pluggable, self-managing long-term memory for AI agents - 15 kinds of memory, an offline or LLM-driven memory intelligence, SQLite / pgvector / Qdrant stores.…"
+2026-11-03T08:08:50Z,egms-client,0.1.0,Giuseppe Zileni,Apache-2.0,32555,"Client for the EGMS archive: CLMS service-key auth, tile search and download, Ortho L3 mosaics"
+2026-11-03T08:09:23Z,imagehearth-mcp,0.1.0b1,Hemoglobin,MIT AND GPL-3.0-only,276311,MCP server that lets AI agents generate and edit images locally through ComfyUI
+2026-11-03T08:09:25Z,pytest-copilot,2.0.0,Stefan Brunner,MIT,212747,Run GitHub Copilot tasks in pytest. Check results with your own assertions.
+2026-11-03T08:10:52Z,agentictracebook,0.0.1,IO22 Labs,All rights reserved,3174,Agentic Tracebook: review and retrieval layer for AI agent runs. Not released yet. A product of IO22 Labs.
+2026-11-03T08:11:01Z,ai-tabs,0.1.0,Carlo Bertini,MIT,112247,Save and restore iTerm2 tabs with their omp and Claude Code sessions.
+2026-11-03T08:16:17Z,timegram,0.1.1a1,,GPL-3.0-or-later,247481,A generative grammar for time series forecasting and inference
+2026-11-03T08:19:25Z,totp-sdk,0.2.0,,,43001,TOTP SDK：本地验码器与密钥/otpauth 链接生成（RFC 6238 + 国密 SM3）
