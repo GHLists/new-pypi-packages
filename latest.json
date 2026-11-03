@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-11-03T12:18:23.263107Z",
-    "path": "data/new-packages-2026-11-03T13-19-06-005174Z.csv",
-    "to": "2026-11-03T13:19:06.005174Z"
+    "count": 50,
+    "from": "2026-11-03T13:19:06.005174Z",
+    "path": "data/new-packages-2026-11-03T14-18-22-049613Z.csv",
+    "to": "2026-11-03T14:18:22.049613Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-03T10:35:46Z",
       "package": "astrametrix",
       "since": "2026-11-03T10:18:19.767508Z",
@@ -15,20 +15,20 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-03T12:43:32Z",
-      "package": "nava-fa-speech",
-      "since": "2026-11-03T12:18:23.263107Z",
-      "version": "1.0.3"
+      "created_at": "2026-11-03T13:34:24Z",
+      "package": "hijuko-pilara",
+      "since": "2026-11-03T13:19:06.005174Z",
+      "version": "1.0.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-03T12:30:27Z",
       "package": "ted-edit",
       "since": "2026-11-03T12:18:23.263107Z",
       "version": "1.0.0"
     }
   ],
-  "serial": 43140502,
+  "serial": 43143195,
   "source_truncated": false,
-  "window": "2026-11-03T13:19:06.005174Z"
+  "window": "2026-11-03T14:18:22.049613Z"
 }

@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T12:43:32Z,nava-fa-speech,1.0.4,,,11385,Python SDK for Nava offline Persian speech services
+2026-11-03T13:19:28Z,opengeomove,0.1.0,,Apache-2.0,215814,Geospatial analysis for urban mobility
+2026-11-03T13:19:45Z,enano,0.2.0,,Proprietary,1369288,"Elevation models for personal goals and pitch decks: pull versioned bundles, scan documents deterministically, entirely on your machine."
+2026-11-03T13:21:10Z,nominatim-reverse-client,0.1.1,,MIT,13917,Async reverse geocoding with a caller-owned session and explicit provider
+2026-11-03T13:21:47Z,ollama-council,0.1.0,Victor Navejar (Navii),MIT,30136,"Adaptive multi-model council for local Ollama models: two models cross-check, a third breaks ties."
+2026-11-03T13:22:04Z,lbagents-eval,0.19.0,,,4237607,Evaluation of LbAgents workflows on replayed real failures
+2026-11-03T13:23:13Z,etf-flow,0.1.1,,,158467,"ETF tracking, quantitative analysis and opportunity radar tool"
+2026-11-03T13:23:33Z,launchd-doctor,0.1.0,Victor Navejar (Navii),MIT,22838,"Find and fix the macOS LaunchAgent bugs that fail silently, plus a circuit breaker for agents that keep failing."
+2026-11-03T13:23:37Z,vv4ml,1.0.4,Cristiano Epifania <c.epifania5@studenti.uniba.it>,,29213,A solid verification and validation python library for ml models
+2026-11-03T13:24:11Z,prodigy-ppl-ginac,0.0.1,Lutz Klinkenberg,Apache-2.0 AND GPL-2.0-or-later,26822912,"GiNaC-based Python bindings for manipulating distributions through generating functions, used by Prodigy"
+2026-11-03T13:24:16Z,blockauth-sdk,0.5.0,Block-Auth.io Team,ISC,29042,BlockAuth Auth SDK (Python) — blockchain-based authentication client.
+2026-11-03T13:24:36Z,listriver-mcp,0.1.0,ListRiver LLC <support@listriver.com>,MIT,12390,MCP server for ListRiver: let Claude and other AI assistants search new U.S. businesses from state registries.
+2026-11-03T13:24:53Z,puremethod,0.1.0,Networked Systems Laboratory,Elastic-2.0,702515,"Autonomous research platform: an idea in, a LaTeX paper and a run bundle out"
+2026-11-03T13:27:30Z,algeria-geo,1.1.0,Safouane (@safouanedz1),MIT,272779,"Algeria's administrative divisions: 69 wilayas, 538 dairas and 1,541 communes, with Arabic/French search and historical boundaries."
+2026-11-03T13:28:28Z,flowreassemble,0.1.0,,BSD-3-Clause,2173123,"IP defragmentation and TCP/UDP flow reassembly for Python, with libhtp HTTP parsing"
+2026-11-03T13:28:52Z,agentworld-mcp,1.0.1,Shawn Lippert,MIT,70136,"MCP server for AgentWorld: live AI agent economy, 164 tools"
+2026-11-03T13:36:24Z,channelkit,0.1.0a1,Mykhailo Chalyi <mike@chaliy.name>,MIT,12647060,Rust-backed Slack and WhatsApp messaging adapters for application-owned agents
+2026-11-03T13:38:38Z,pdfdesk,0.1.0,Subham,MIT,2769598,"Prototype: a local-first workspace for reading research papers, with a PDF reader, highlights, notes and reading-session history."
+2026-11-03T13:40:16Z,triple-check-verify,0.1.1,Victor Navejar (Navii),MIT,40307,"Stop local LLMs making up numbers: Python does the math, two experts explain it, a different model verifies every figure against a fact base."
+2026-11-03T13:44:41Z,agentbill-io,12.4.0,AgentBill <dominic@agentbill.io>,MIT,174313,OpenTelemetry-based SDK for tracking and billing AI agent usage with Cost Guard protection
+2026-11-03T13:45:11Z,hypercache-ai,2.4.0,Walid Kotb,,65162,Unified LLM KV-Cache (-58.2% VRAM) & Vector DB / RAG Embedding (-57.3% RAM) Acceleration SDK for PyTorch & Hugging Face.
+2026-11-03T13:45:54Z,brongtus,0.1.1,Brongtus Contributors,MIT,39991,"A free, local, intelligent search engine mimicking Exa with Playwright, LangGraph, up to 90% token pruning, and optional Gemini enhancement."
+2026-11-03T13:46:53Z,aiida-cif2j,0.1.1,"""Dr. Benjamin T. Speake"" <benjamin.speake@stfc.ac.uk>","BSD 3-Clause License Copyright (c) 2026, UKRI Science and Technology Facilities Council Redistribut…",58289,AiiDA workflow plugin for calculating magnetic exchange interactions.
+2026-11-03T13:47:55Z,pipecat-thinking-backchannel,0.1.0,Daniel Garcia Peña <info@iamdgarcia.com>,BSD-2-Clause,35103,"Make agentic voice AI feel alive — Pipecat agents that say ""one sec"" and ""let me check"" while the bot is thinking or running tools."
+2026-11-03T13:48:47Z,arp-ai,1.0.0,ARP Development Team <dev@arp-ai.org>,MIT,121595,Artificial Intelligence Practicals for Jupyter Notebooks & Python — 11 Core AI Algorithms with Interactive Visualizations
+2026-11-03T13:49:59Z,n24q02m-crg,3.32.0b1,n24q02m,Apache-2.0,846416,Token-efficient code review knowledge graph: semantic search and call-graph resolution.
+2026-11-03T13:50:00Z,n24q02m-mnemo,2.22.0b1,n24q02m <quangminh2422004@gmail.com>,Apache-2.0,257874,Open-source MCP Server for persistent AI memory
+2026-11-03T13:50:00Z,n24q02m-wet,3.21.0b1,n24q02m <quangminh2422004@gmail.com>,Apache-2.0,483297,"Open-source MCP server for AI agents: web search, content extraction, and library docs."
+2026-11-03T13:53:21Z,aws-sso-mcp,0.1.0,Arnab Das,MIT,150108,"Query multiple AWS accounts across orgs at once from your AI chat client, via IAM Identity Center SSO. Rule-based role selection, no long-lived keys."
+2026-11-03T13:54:06Z,tapolink-proto,0.1.0,tapolink contributors,Apache-2.0,45141,Clean-room async TP-Link Tapo cloud inventory client and TDP identity probe
+2026-11-03T13:55:32Z,morph-chem,0.1.0,"Malte Franke, Stefan P. Schmid, Zarko Ivkovic, Kjell Jorner, Andreas Krause",MIT,1107421,Flow-matching molecular generation and scaffold decoration with a molecular DiT
+2026-11-03T13:58:25Z,hue-ui,0.0.1,Daniel Kjellid <daniel@kjellid.no>,MIT,926809,A component library for Python and html template rendering engine
+2026-11-03T13:58:36Z,hue-django,0.0.1,Daniel Kjellid <daniel@kjellid.no>,MIT,69556,Django integration for the hue component library
+2026-11-03T13:58:38Z,hue-fastapi,0.0.1,Daniel Kjellid <daniel@kjellid.no>,MIT,81780,FastAPI integration for the hue component library
+2026-11-03T14:00:22Z,industrial-engineering-ai999x,1.0.0,"AI999X Labs <support@ai999x.com>, Ibnul Jaif Farabi <ibnuljaiffarabi@ai999x.com>",Apache-2.0,7714670,"Offline industrial engineering and supply chain solver: inventory policies (EOQ, reorder point, safety stock, newsvendor), statistical process control, reliability, queueing, scheduling, forecasting…"
+2026-11-03T14:00:32Z,zuke,1.0.0,the Zuke contributors,MIT,772701,"Zuke for Python: author your build as typed Python, run it on the Zuke engine."
+2026-11-03T14:00:38Z,fairagro-middleware-api-local-offline,14.1.0,,,17541,Local offline Middleware API stand-in (harvest HTTP + ARC on disk for consumer tests)
+2026-11-03T14:00:40Z,fairagro-middleware-arc-validation,14.1.0,,,14212,DataHUB-equivalent ARC export validation (ARCtrl write + Docker arc-export)
+2026-11-03T14:00:43Z,mechanical-engineering-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,20903245,"Offline mechanical engineering solver: statics, stress and strain, beams and frames, section properties, torsion, columns, fatigue, machine elements, vibrations and structural analysis, with steps, L…"
+2026-11-03T14:01:00Z,domstrip-mcp,0.1.1,DOMStrip contributors,MIT,20080,MCP server that converts web pages into clean Markdown via the DOMStrip API.
+2026-11-03T14:01:00Z,nuclear-engineering-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,20010929,"Offline nuclear engineering solver: activity and decay chains of real radionuclides, shielding and dose, detectors and counting statistics, neutron physics, reactor criticality and kinetics, xenon an…"
+2026-11-03T14:01:12Z,power-electronics-ai999x,1.0.0,"AI999X Labs <support@ai999x.com>, Ibnul Jaif Farabi <ibnuljaiffarabi@ai999x.com>",Apache-2.0,7628178,"Offline power electronics solver: DC-DC converters in continuous and discontinuous conduction (buck, boost, buck-boost, Cuk, SEPIC, flyback, forward, bridge), rectifiers and phase control, inverters…"
+2026-11-03T14:03:48Z,presidio-hardened-ai,0.32.0,Presidio Security,MIT,379740,Training-time privacy for AI: tamper-evident PII-scrub + data-lineage ledger that emits signed governance evidence for the presidio-hardened-* suite.
+2026-11-03T14:05:39Z,deepsearch-axi,0.2.1,Derek Baron,MIT,81803,Agent-native CLI for DeepSeek web search and page fetch with compact TOON output.
+2026-11-03T14:08:26Z,chaparx,0.0.1,Mahan Yousefi <mrmahanios@gmail.com>,MIT,103195,"Unified Asynchronous Framework & Cross-Messenger Bridge for Iranian Platforms (Bale, Rubika, Soroush+, Eitaa)"
+2026-11-03T14:08:43Z,pystda,0.0.1,"Mike Pauls, Anton Rikus, Laurence Brandon, Christoph Bannwarth",GPL-3.0-only,28087,A Python-based implementation of simplified time-dependent quantum chemical methods.
+2026-11-03T14:09:51Z,tourlimits,1.0.0,TourLimits Physical Safety Labs,,6437,Official Python SDK for travel excursion physical restrictions and weight limits.
+2026-11-03T14:11:12Z,cardtrio-terminal,0.2.0,,MIT,128145,144 terminal learning cards with Google Sheets tokens and admin review
+2026-11-03T14:15:29Z,voting-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49260,A machine that votes in one of the voting schemes.
+2026-11-03T14:17:18Z,camply-web,2.8.0,,PolyForm-Noncommercial-1.0.0,17187125,A full-stack application to help you find campsites at sold-out campgrounds
