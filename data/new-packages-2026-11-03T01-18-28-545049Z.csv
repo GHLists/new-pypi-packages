@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T23:42:34Z,measuring-autonomy,1.1.0,Emmanuel A. Otchere,MIT,26596,"Measure and manage autonomy: safe-level scoring, Autonomy Ledger health checks, and framework tooling."
+2026-11-03T00:18:21Z,aionepviewer,0.1.1,,MIT,196195,Async Python library for the NEP solar inverter cloud API (nepviewer.net)
+2026-11-03T00:26:29Z,mnemotree,1.0.1,kurcontko <mikeqrc@gmail.com>,MIT,894909,"Persistent, source-first memory for LLM agents"
+2026-11-03T00:27:29Z,reproq-django,0.1.531,Alejandro Peña <adpena@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",335879,Django 6.0 Tasks backend for reproq-worker (Postgres queue + deterministic runner)
+2026-11-03T00:27:50Z,cnmv-mcp,0.0.1,viprojekte,,1641,Placeholder: MCP server for CNMV disclosures (under development).
+2026-11-03T00:29:51Z,codexhop,1.0.0,Ebenworks <contact@ebenworks.co>,MIT,101832,"Use several ChatGPT accounts with OpenAI Codex on one machine: hop the saved login in one command, or run a different account in each terminal. One file, no dependencies."
+2026-11-03T00:30:27Z,responds-forms,0.4,,,261541,Lançar cartas no FORMS
+2026-11-03T00:31:41Z,mangala-game,0.2.1,mammadow,MIT,181752,"Turkish Mangala (mancala) with a strong alpha-beta AI, a web UI, a terminal UI and a Pygame UI."
+2026-11-03T00:32:34Z,layouts-cvm,0.1.1,guilhermegor,MIT,312422,"Build, validate and serialise the files a fund sends to CVM, in CVM's own file layouts."
+2026-11-03T00:35:36Z,netlab,0.6.1,Andrey Golovanov,MIT,254901,Metrics and analysis tools for NetGraph scenarios.
+2026-11-03T00:40:42Z,yapin,1.0.0,"""LeAndre C."" <leandre@lecanact.me>",GPL-3.0-only,32637,"A Python library for creating bots on Yapin', built on yapper.py"
+2026-11-03T00:41:28Z,mopidy-dial,0.0.2,Nik Tumbri <natumbri@gmail.com>,Apache-2.0,68394,Mopidy extension implementing SSDP/DIAL endpoint for mopidy-youtube
+2026-11-03T00:44:21Z,pengumon,0.20.1,,MIT,2005646,"Containerized network diagnostics, hop-by-hop latency tracker, and outage root-cause classifier"
+2026-11-03T00:44:54Z,pixel-art-skills,0.1.0,Gustavo Victor,MIT,261673,"Ateliê de pixel art para agentes de IA: técnica guardada no motor, arte saindo de receitas curtas."
+2026-11-03T00:45:19Z,rulestamp-outlook-email-html-lint,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,31741,"Classic Outlook renders with the Word engine, the new Outlook with WebView2. Lint one email file against both at once, line by line, before you send. (bundled Node.js runtime)"
+2026-11-03T00:45:40Z,rulestamp-cra-readiness-audit,0.1.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35577,"Flags the lines in your repo that break the EU Cyber Resilience Act - default passwords, disabled TLS checks, floating base images, an expired security.txt - naming the Annex each one fails. (bundled…"
+2026-11-03T00:45:48Z,rulestamp-cloud-manifest-audit-kit,0.1.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32667,"For platform engineers on AKS: 28 rules naming every removed apiVersion, literal credential and :latest tag in the file you have open, and 40 snippets written against the versions that still exist. (…"
+2026-11-03T00:46:09Z,rulestamp-cms-0057-api-gate,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33508,14 rules read a FHIR CapabilityStatement against CMS-0057-F. A 2021 payer statement returned 6 blocking gaps - three of the four APIs missing - and 107 days left to 1 January 2027. (bundled Node.js r…
+2026-11-03T00:47:26Z,commit-me,0.5.1,Gamaliel Garcia <46827955+EGAMAGZ@users.noreply.github.com>,MIT,18366,Generate Conventional Commit messages for your staged changes with opencode and commit them in one step.
+2026-11-03T00:49:14Z,runningtab,0.1.0.dev3,Gavin Carothers <gavin@carothers.name>,Apache-2.0,744041,"Keep a company's books in ERPNext: apply a chart of accounts, ingest the bank, close the quarter"
+2026-11-03T00:50:16Z,mopidy-nowplaying,0.1.0,Nik Tumbri <natumbri@gmail.com>,Apache-2.0,46720,Mopidy extension for displaying 'now playing' screen on HDMI via framebuffer
+2026-11-03T00:50:58Z,devflow-toolkit,0.3.0,DevFlow contributors,MIT,236548,Specification workflow toolkit for AI-assisted software changes
+2026-11-03T00:56:27Z,phoneview,1.0.0,Rahul Chatterjee,Apache-2.0,156578,View and control a USB-connected Android phone or iPhone from a browser
+2026-11-03T00:57:16Z,guppy-estimand,0.1.0,Kristian Koci <kristian.koci@gmail.com>,Apache-2.0,143031,Fault-tolerant physical resource estimation for guppylang/HUGR programs
+2026-11-03T01:00:59Z,phylohist,0.1.0,Henry H. Andrews,MIT,1421609,"Published taxonomic opinions on Palaeozoic echinoderms, recorded as printed, with tools that answer from them"
+2026-11-03T01:04:38Z,o2i-lexicons,0.0.1a1,JarbasAi <jarbasai@mailfence.com>,Apache-2.0,22939,Default residual lexicons for orthography2ipa: only the words its rules cannot reach
+2026-11-03T01:04:59Z,mcpnuke,6.22.0,babywyrm,MIT,1153177,"MCP red teaming & security scanner — enumerate, probe, and exploit Model Context Protocol servers"
+2026-11-03T01:06:13Z,opaige,1.0.0,,MIT,15928,"The Opaige API for Python: visa requirements, file review, forms, bookings, lodgements and webhooks."
+2026-11-03T01:07:35Z,tgsherlock,1.0.0,,MIT,1773228,"Local web panel for Telegram OSINT: live monitoring, alerts, user tracking and keyword sweeps."
+2026-11-03T01:08:33Z,yummypy,0.1.0,blacksnow81 <blacksnow81@sohu.com>,MIT,2904,My first package published to PyPI
+2026-11-03T01:08:59Z,mongodb-typesafe-aggregation,0.1.0,"Chimzuruoke Okafor, Augustine Best",MIT,164379,"A type-safe, fluent builder for MongoDB aggregation pipelines. Works with PyMongo, Motor and any driver that accepts a list of stages."
+2026-11-03T01:14:25Z,evalban,0.1.0,Evalban <hello@evalban.com>,MIT,13555,"Send eval runs and production feedback to Evalban, the board that knows when your model got worse."
