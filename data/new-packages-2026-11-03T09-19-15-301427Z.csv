@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T08:17:00Z,djanquiltdb-plugin-oauth-toolkit,1.0.0,DjanQuiltDB Project <djanquiltdb@portal42.net>,BSD-3-Clause,73712,django-oauth-toolkit client ids and tokens that name the shard of a DjanQuiltDB project
+2026-11-03T08:19:49Z,ckrets,0.0.0,,,2387,Placeholder for ckrets. The first real release will replace it.
+2026-11-03T08:23:30Z,openternary,0.1.0a1,OpenTernary,Apache-2.0,1712906,Open-source tooling for researching ternary LLMs (Gemma 4 E2B first target)
+2026-11-03T08:24:00Z,langgraph-mini-dash,1.0.1,wiffy <melnikarthur280912@gmail.com>,MIT,31474,A visual debugging dashboard and UI for LangGraph multi-agent workflows
+2026-11-03T08:24:06Z,colabllm,0.1.0,,,757407,Run model services on Google Colab with managed tunnels and authentication
+2026-11-03T08:26:37Z,ai-invite-memory,0.24.1,Calvin liu,Apache-2.0,413777,"AI Invite · Memory — a verifiable, portable memory and persona kernel for AI companions"
+2026-11-03T08:28:10Z,pqblocks-tls-interop,0.1.0,The PQBlocks Authors,Apache-2.0,43733,"TLS 1.3 hybrid key exchange (X25519MLKEM768 / RFC 10024) endpoint probe, downgrade detector, and key material validator."
+2026-11-03T08:28:15Z,pqblocks-wire,0.1.0,The PQBlocks Authors,Apache-2.0,76971,"Length-prefixed container format (PQCWF1) for ML-KEM ciphertexts and ML-DSA / SLH-DSA signatures, with thin wrappers over liboqs-python and pyca/cryptography; it implements no primitive itself."
+2026-11-03T08:28:19Z,pqblocks-anneal-sqa,0.1.0,The PQBlocks Authors,Apache-2.0,28743,"Simulated Quantum Annealing (Path-Integral Monte Carlo via Suzuki-Trotter decomposition) heuristic solver for Ising and QUBO optimization. Quantum-inspired classical optimization, not cryptography."
+2026-11-03T08:28:23Z,pqblocks-bifurcation,0.1.0,The PQBlocks Authors,Apache-2.0,33884,"Simulated Bifurcation (ballistic and discrete) heuristic solver for Ising and QUBO problems. Quantum-inspired classical optimization, not cryptography."
+2026-11-03T08:32:31Z,number-passport,0.1.0,Sagar Konkanagaon,Apache-2.0,532882,"Trace any number on a risk or regulatory report back to its source rows, reconcile every hop, and produce an auditor-ready evidence pack (BCBS 239)."
+2026-11-03T08:33:50Z,tba-concrete-wpt,0.4.0.dev2,,Apache-2.0,2847,Standalone WIMSE WPT proof-token object.
+2026-11-03T08:36:11Z,tba-concrete-x509-svid-credential,0.4.0.dev2,,Apache-2.0,3202,Standalone X.509-SVID credential object.
+2026-11-03T08:38:27Z,tba-example-oauth-device-authorization-cli,0.1.0,,,8396,Example consumer package showing CLI login against tba_auth device authorization.
+2026-11-03T08:41:17Z,tba-profile-workload-credential-wimse-wit,0.4.0.dev2,,,7291,
+2026-11-03T08:41:57Z,ctxrank,0.1.1,,Apache-2.0,32279359,"A ranked, token-budgeted map of any codebase for AI coding agents. CLI, MCP server and Python API."
+2026-11-03T08:42:19Z,pillow-allsimd,13.0.0.post0,"Alexander Karpinsky, Matteo Ferrabone",MIT-CMU,1494662,Python Imaging Library (Pillow fork with SIMD kernels for x86 and arm64)
+2026-11-03T08:43:15Z,nazarochek-hello,0.1.0,Nazarochek <nedoviruslite@gmail.com>,MIT,3691,A tiny hello-world library by Nazarochek
+2026-11-03T08:43:28Z,tba-profile-workload-proof-wimse-wpt,0.4.0.dev2,,,7304,
+2026-11-03T08:43:43Z,edinet-util-mcp-server,0.1.0.dev0,,MIT,150306,A skill-style MCP server for EDINET (金融庁) API v2 disclosures
+2026-11-03T08:45:12Z,spantruth,0.3.0,"""Plexito UG (haftungsbeschränkt)"" <info@plexito.de>",Apache-2.0,391520,Checks the values LLM instrumentation libraries report against what the provider actually sent.
+2026-11-03T08:45:48Z,tba-protocol-workload-spiffe-svid,0.4.0.dev2,,,8582,
+2026-11-03T08:46:38Z,tatolab-opus,0.68.14,Jonathan Fontanez <fontanezj1@gmail.com>,BUSL-1.1,1162729,Opus encode and decode nodes for Tatolab streams.
+2026-11-03T08:48:03Z,takibiapi,0.1.0,nakita628,MIT,5266311,"REST APIs whose OpenAPI document, request checks and handler types come from Python's own types"
+2026-11-03T08:48:20Z,tba-profile-workload-credential-spiffe-wit-svid,0.4.0.dev2,,,7955,
+2026-11-03T08:50:29Z,tba-example-workload-credential-profiles,0.4.0.dev2,,,3384,
+2026-11-03T08:52:11Z,dsa-coach-mcp,0.2.0,aaryagodbole,MIT,57536,MCP server that coaches DSA practice across LeetCode and Codeforces
+2026-11-03T08:52:43Z,tba-testkit-identity,0.4.0.dev2,,Apache-2.0,11872,"Test fixtures, fake identity components, conformance vectors, integration harnesses, and cross-cutting verification helpers."
+2026-11-03T08:54:40Z,tba-testkit-workload-credential-conformance,0.4.0.dev2,,,3597,
+2026-11-03T08:56:38Z,tba-provider-access-governance-memory,0.4.0.dev2,,Apache-2.0,17158,"In-memory access governance, provisioning, review, and service-identity providers."
+2026-11-03T08:57:14Z,itissoftinfo-research-tracker,1.0.0,ItisSoftInfo,,328642,"Research Tracker by ItisSoftInfo: a private, offline tracker for research projects and tasks. Your data stays on your computer."
+2026-11-03T08:57:23Z,JoyIT-Robotarm-RaspberryPi,1.0.0,Joy-IT <service@joy-it.net>,,24653,Library to control Robot02 from Joy-IT with the Raspberry Pi and RB-Moto3.
+2026-11-03T08:57:45Z,energy-data-retrieval,0.1.0,,,1007477,"Auditable, bounded retrieval of public energy and weather data"
+2026-11-03T08:58:41Z,tba-provider-attestation-appraiser,0.4.0.dev2,,Apache-2.0,3803,Reference-backed attestation appraisal provider.
+2026-11-03T09:00:22Z,pydantic-takibiapi,0.1.0,nakita628,MIT,17146,"takibiapi with pydantic models as the schemas, checked strictly"
+2026-11-03T09:01:25Z,tba-provider-cose-cryptography,0.4.0.dev2,,Apache-2.0,8778,Cryptography-backed COSE key and signature provider.
+2026-11-03T09:02:06Z,energy-methods,0.1.0,,,374972,Country-neutral PV performance methods with explicit scientific assumptions
+2026-11-03T09:03:44Z,nauta-hogar,0.1.5,Raúl Cobiellas <raulodev@gmail.com>,,18597,Línea de comandos para el nauta hogar Cuba
+2026-11-03T09:06:53Z,energy-analysis,0.1.0,,,275001,Country-specific reproducible renewable-energy analyses
+2026-11-03T09:07:12Z,drsg-embedded,2.24.3,yingge_gzb@qq.com,MIT OR Apache-2.0,20390142,"The dr-strange graph engine, in your own process"
+2026-11-03T09:08:21Z,dil-banking,1.0.0,DIL Architecture Team <architecture@dil.ai>,,164882,"Domain Intelligence Layer (DIL) for Banking - Enterprise domain reasoning, deterministic rules, and role-governed context for LLMs"
+2026-11-03T09:15:16Z,cob-cpcusb,1.1.2,NobseVomBerg,MIT,28470,"CPC-USB/ARM7 CAN adapter support: a pyusb/WinUSB python-can backend (interface ""cpcusb"") plus its adapter card for canopen-bench"
+2026-11-03T09:15:21Z,einheit-cli,0.6.0,,MIT,8637823,The einheit command line: a linear and mixed-integer programming solver written in Rust.
+2026-11-03T09:18:10Z,shapelens,0.1.0,nhanncv,MIT,13010,See tensor shapes as boxes: trace PyTorch ops and draw them in Jupyter notebooks.
+2026-11-03T09:18:35Z,backuette,0.1.0,Backstage CPH,# PolyForm Internal Use License 1.0.0 <https://polyformproject.org/licenses/internal-use/1.0.0> ##…,253354,Backuette: a business chat on Agent Bricks that turns data requests into Mezhar pull requests
+2026-11-03T09:19:02Z,caife,0.1.0,Mirko Bunse <mirko.bunse@cs.tu-dortmund.de>,LGPL-2.1-only,84609,Composable and Auto-differentiable Inversion of Fredholm Equations
