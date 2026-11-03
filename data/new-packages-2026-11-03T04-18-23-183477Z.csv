@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T03:18:13Z,datapace-collector,0.2.0,,Apache-2.0,51390,Collect read-only RDS evidence from AWS accounts you choose into an allowlisted Datapace evidence bundle.
+2026-11-03T03:18:32Z,loommint,0.1.1,,Apache-2.0,22857,"Local-first, auditable data preparation and fine-tuning workflows for open language models"
+2026-11-03T03:18:44Z,mws-lab,1.0.0,Samir Baladi,MIT,49114,"Water Scarcity in Morocco: A Multivariate Analysis of Climatic, Agricultural, and Socioeconomic Drivers"
+2026-11-03T03:20:34Z,konomanoasa-tree-sitter-gyp,0.2.0,,MIT,69908,Tree-sitter grammar for GYP.
+2026-11-03T03:28:43Z,vcref,0.2.0,,MIT,16172,"Read, write and verify .vcref voice reference bundles for zero-shot voice-cloning TTS."
+2026-11-03T03:31:18Z,mcp-test-qweather,0.1.0,,MIT,8014,"MCP server for QWeather real-time weather and forecast, authenticated via API key"
+2026-11-03T03:34:19Z,pymc-cache,0.1.0,Spencer Boucher,MIT,61341,"Safe, model-aware caching of PyMC sampling results"
+2026-11-03T03:35:09Z,pymc-monitor,0.1.0,Spencer Boucher,MIT,452202,Local streaming convergence diagnostics and adaptive stopping for PyMC
+2026-11-03T03:36:31Z,weightlang,0.2.0,,MIT,101759,WeightLang prototype: compile .wgt network descriptions into runnable PyTorch artifacts
+2026-11-03T03:37:50Z,gabriel-slack,0.1.0,EzEasy,MIT,348618,"Typed, AI-friendly real-time SDK for the Slack Web client protocol (session token + cookie)"
+2026-11-03T03:44:49Z,openstem-mcp,0.3.0,openstem-mcp contributors,MIT,840026,"이공계 학습용 MCP 서버: 학술 그림 렌더링, 풀이 검산, 문서 내보내기"
+2026-11-03T03:46:08Z,maltiverse-mcp,0.1.0,maltiverse-mcp contributors,MIT,44380,Local stdio MCP server exposing the Maltiverse threat-intelligence API to Claude Code and other MCP clients.
+2026-11-03T03:47:00Z,uzkit,0.1.1,Ali,MIT,21611,"O'zbek tili va ma'lumotlari uchun Python kutubxonasi: transliteratsiya, raqamlarni so'zga aylantirish, so'm summalari, telefon va avtoraqam validatorlari, viloyatlar."
+2026-11-03T03:47:03Z,konomanoasa-tree-sitter-gitattributes,0.8.0,,MIT,30832,Tree-sitter grammar for gitattributes.
+2026-11-03T03:47:07Z,ailinkany,0.0.1,,Proprietary,4816,Placeholder for AiLinkAny: let ChatGPT/Claude/Grok/Codex control your Windows PC via MCP. Does not contain the client.
+2026-11-03T03:51:03Z,view3,0.2.0,Rigoberto Leyva Salmeron,MIT,25915,"Paged, theme-aware tables in notebook output: shared by tidy3, tidy3a and stats3"
+2026-11-03T03:51:10Z,weightspace,0.1.0,,,60601,Weight-space programming: let an LLM read and write neural network weights directly.
+2026-11-03T03:51:36Z,langchain-x402-cleanweb,0.1.0,nohosa001-pixel <nohosa001@gmail.com>,MIT,12747,"LangChain official tool integration for x402 CleanWeb Agent (87% token reduction, multimodal alt-text, anti-prompt injection, and autonomous micropayments)"
+2026-11-03T03:52:11Z,roadpack,0.1.0,NicolasDevel,MIT,540891,"Compact OpenStreetMap road graphs with contraction hierarchies, for routing on microcontrollers"
+2026-11-03T03:54:29Z,reponeedle,1.1.0,RepoNeedle Contributors,MIT,193486,"Token-Budget-Aware, Workflow-Adaptive Repository Context Retrieval for AI Coding Agents"
+2026-11-03T03:54:35Z,guess-my-genome,0.3.1,Jason Stajich <jason.stajich@ucr.edu>,MIT,1525065,Guess My Genome: fungal taxonomy from FracMinHash sketches (Python bindings)
+2026-11-03T03:56:06Z,fontpkg-changa,3.3,,OFL-1.1,74284,"Changa font family, packaged for Python by fontpkg"
+2026-11-03T03:56:09Z,fontpkg-montserrat-alternates,7.200,,OFL-1.1,1751086,"Montserrat Alternates font family, packaged for Python by fontpkg"
+2026-11-03T03:56:11Z,fontpkg-patua-one,1.2,,OFL-1.1,26589,"Patua One font family, packaged for Python by fontpkg"
+2026-11-03T03:56:13Z,fontpkg-vt323,2.0,,OFL-1.1,50482,"VT323 font family, packaged for Python by fontpkg"
+2026-11-03T03:56:18Z,routekit-cli,0.3.1,Mike Scarnavack <mhscarn@gmail.com>,MIT,861284,"Delivery route planning for U.S. addresses: fleets, truck routing and tolls, FEMA relief, freight demand, and an MCP server for AI agents."
+2026-11-03T03:57:26Z,teadice,0.1.0,bluefcat,MIT,20711,A dice expression parser and evaluator with roll recording.
+2026-11-03T04:00:55Z,konomanoasa-tree-sitter-editorconfig,0.9.0,,MIT,25295,Tree-sitter grammar for EditorConfig.
+2026-11-03T04:01:43Z,interest-rate-decisions,1.0.0,InterestRateDecision.com,MIT,10753,"Central bank interest rates and decisions (Fed, ECB, BoE, BoJ, BoC, RBA, RBNZ, SNB, Norges Bank, Riksbank): today's rates, the next meetings and every decision since 2008."
+2026-11-03T04:01:45Z,forexia-cot,1.0.0,Forexia,MIT,13773,"CFTC Commitments of Traders (COT) data for FX futures and gold, legacy and TFF reports: positions, net and net as a share of open interest. Weekly, since 2010."
+2026-11-03T04:01:48Z,tradingsignalbot,0.1.0,TradingSignalBot,MIT,12010,"Verify TradingSignalBot webhook signatures (HMAC-SHA256, constant-time, timestamp window). Standard library only. The full API client comes when the sandbox opens."
+2026-11-03T04:01:50Z,nini-datacomp,0.1.0,Nini (blzrosa),Apache-2.0,3193214,"Comparação de tabelas em escala: kernels C++ sobre as colunas do Polars, com janelas por chave e relatório."
+2026-11-03T04:03:09Z,enlitt,0.1.0,,MIT,100547,Enlitt SDK for Python: per-user model calls and premium-call accounting for apps whose users bring their own credits.
+2026-11-03T04:03:27Z,uni-robot-agent,0.1.0,,MIT,2592608,"A unified harness for robot-use agents, with CLI, Python SDK, and live monitoring"
+2026-11-03T04:05:52Z,vx-toolkit,1.16.2,,Apache-2.0,1581155,"VX language toolchain (vxc, vlnk, vmake, vxls) installed through uv"
+2026-11-03T04:08:06Z,weiguo-adaptive-driver,1.0.0,AMX MUSE driver project,,217166,Shared pure-Python framework for AMX MUSE Script-as-Device drivers
+2026-11-03T04:09:14Z,cordis-verify,0.2.0,Janmejai <janmejai2002@gmail.com>,MIT,180262,Cordis: Independent Adversarial AI-PR & AST Invariant Prosecutor
+2026-11-03T04:13:29Z,cam-verdict,1.0.0,,MIT,5569,CAM — Product Viability Standard: deterministic per-order profit verdicts (TEST_CANDIDATE / HOLD / REJECT) counting all six cost items including a return reserve.
+2026-11-03T04:17:31Z,konomanoasa-tree-sitter-posix-sed,0.6.0,,MIT,483714,Tree-sitter grammars for POSIX sed.

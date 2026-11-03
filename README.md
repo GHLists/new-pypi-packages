@@ -8,35 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 03:18 UTC
+## Latest list — 2026-11-03 04:18 UTC
 
-New packages created between 2026-11-03 02:19 UTC and 2026-11-03 03:18 UTC.
+New packages created between 2026-11-03 03:18 UTC and 2026-11-03 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-03T03-18-23-11404Z.csv)
+[Full CSV](data/new-packages-2026-11-03T04-18-23-183477Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-03 02:19:40 | [rflect](https://pypi.org/project/rflect/) | 6.1.1 | Adam | 5.4 MB | Antenna measurement visualization and analysis tool |
-| 2026-11-03 02:20:37 | [xlrecalc](https://pypi.org/project/xlrecalc/) | 0.1.0 | Ethan Post | 553.5 kB | Recalculate Excel workbooks in pure Python and write the results back as cached… |
-| 2026-11-03 02:21:02 | [vidhex_mcp](https://pypi.org/project/vidhex_mcp/) | 0.3.1 |  | 130.9 kB | Video Skill MCP server + agent skill + CLI (install / login / jobs) |
-| 2026-11-03 02:22:04 | [agent-cost-mcp-server](https://pypi.org/project/agent-cost-mcp-server/) | 0.1.1 | Karmendra Pandey | 29.6 kB | MCP server to estimate, budget, and compare the cost of LLM work per task |
-| 2026-11-03 02:22:56 | [fah2](https://pypi.org/project/fah2/) | 0.83 |  | 84.7 MB | Handy Android frida helping tools at the tip of your terminal |
-| 2026-11-03 02:24:27 | [pulumi-labs-modal](https://pypi.org/project/pulumi-labs-modal/) | 0.1.0 |  | 26.0 kB | Experimental: manage Modal (modal.com) serverless compute resources — Secrets,… |
-| 2026-11-03 02:24:34 | [lineforge](https://pypi.org/project/lineforge/) | 2.3.0 | lineforge contributors | 2.0 MB | Open-source MCP-enabled transmission line calculator (lineforge) |
-| 2026-11-03 02:26:43 | [sltp](https://pypi.org/project/sltp/) | 0.0.1 |  | 2.1 kB | SLTP Package |
-| 2026-11-03 02:35:29 | [question-converter](https://pypi.org/project/question-converter/) | 2.0 | Udaya Raj Joshi | 114.7 kB | Multi-format question converter for academic use |
-| 2026-11-03 02:35:32 | [crab-cleanroom](https://pypi.org/project/crab-cleanroom/) | 0.4.0 | Xintian Huang <731913+lemonad… | 579.5 kB | CRAB (Clean Rebuild of Anything's Behavior): clean-room, behavior-first analysi… |
-| 2026-11-03 02:35:35 | [stateweave-sdk](https://pypi.org/project/stateweave-sdk/) | 0.3.0 | StateWeave <mikewei@stateweav… | 42.8 kB | Run your own AI agent on StateWeave: environments, tests, data of your own, and… |
-| 2026-11-03 02:35:44 | [python-webdriver](https://pypi.org/project/python-webdriver/) | 4.0.0 | AtylaDaSilva | 26.8 kB | A thin wrapper around Selenium WebDriver for Python, providing a simplified int… |
-| 2026-11-03 02:36:07 | [nlalpha-data](https://pypi.org/project/nlalpha-data/) | 0.3.1 |  | 133.1 kB | Financial data infrastructure for nlalpha: providers, stores, and trading calen… |
-| 2026-11-03 02:37:09 | [ssotkit](https://pypi.org/project/ssotkit/) | 0.4.0 |  | 60.4 kB | Backend FastAPI SSOT toolkit: extensible gen plugins, check-gen / check-breakin… |
-| 2026-11-03 02:40:13 | [kafka-grpc](https://pypi.org/project/kafka-grpc/) | 0.37.0 |  | 18.5 kB | Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/top… |
-| 2026-11-03 02:42:16 | [kennet](https://pypi.org/project/kennet/) | 0.1.33 |  | 252.2 kB | The command line for Kennet, Metaphi AI's RL infrastructure. |
-| 2026-11-03 02:53:00 | [hgoblet](https://pypi.org/project/hgoblet/) | 0.3.0 | tderk <usvu.tech@gmail.com> | 101.8 kB | hgoblet // one line-only terminal for installed MProcs-family suites (Fumuda-XY… |
-| 2026-11-03 02:58:50 | [hscode](https://pypi.org/project/hscode/) | 0.0.1 |  | 2.3 kB | EU customs tariff (TARIC) SDK for hscode.info: classify products into CN codes… |
-| 2026-11-03 03:02:28 | [loci-vault](https://pypi.org/project/loci-vault/) | 0.7.0 |  | 2.9 MB | A personal knowledge graph on plain Markdown files, with an MCP server for Clau… |
-| 2026-11-03 03:03:01 | [nlalpha-strategy](https://pypi.org/project/nlalpha-strategy/) | 0.2.0 |  | 53.8 kB | Strategy authoring and validation MCP service for NLAlpha |
-| 2026-11-03 03:09:03 | [lstm-labcode](https://pypi.org/project/lstm-labcode/) | 0.1.0 |  | 44.2 kB | Browse and save code extracted from Jupyter notebooks. |
-| 2026-11-03 03:11:50 | [fastgeodesic](https://pypi.org/project/fastgeodesic/) | 0.1.0 |  | 9.1 MB | Drop-in Rust replacement for geographiclib and geopy distance: same results, 18… |
-| 2026-11-03 03:14:14 | [anona-memory](https://pypi.org/project/anona-memory/) | 0.27.0 | Anona Labs | 546.6 kB | Anona Memory SDK — managed AI memory for intelligent agents |
-| 2026-11-03 03:16:33 | [iagent-skills-hub](https://pypi.org/project/iagent-skills-hub/) | 0.1.1 |  | 17.2 kB | Python CLI for AgentSkillsHub skills |
+| 2026-11-03 03:18:13 | [datapace-collector](https://pypi.org/project/datapace-collector/) | 0.2.0 |  | 51.4 kB | Collect read-only RDS evidence from AWS accounts you choose into an allowlisted… |
+| 2026-11-03 03:18:32 | [loommint](https://pypi.org/project/loommint/) | 0.1.1 |  | 22.9 kB | Local-first, auditable data preparation and fine-tuning workflows for open lang… |
+| 2026-11-03 03:18:44 | [mws-lab](https://pypi.org/project/mws-lab/) | 1.0.0 | Samir Baladi | 49.1 kB | Water Scarcity in Morocco: A Multivariate Analysis of Climatic, Agricultural, a… |
+| 2026-11-03 03:20:34 | [konomanoasa-tree-sitter-gyp](https://pypi.org/project/konomanoasa-tree-sitter-gyp/) | 0.2.0 |  | 69.9 kB | Tree-sitter grammar for GYP. |
+| 2026-11-03 03:28:43 | [vcref](https://pypi.org/project/vcref/) | 0.2.0 |  | 16.2 kB | Read, write and verify .vcref voice reference bundles for zero-shot voice-cloni… |
+| 2026-11-03 03:31:18 | [mcp-test-qweather](https://pypi.org/project/mcp-test-qweather/) | 0.1.0 |  | 8.0 kB | MCP server for QWeather real-time weather and forecast, authenticated via API k… |
+| 2026-11-03 03:34:19 | [pymc-cache](https://pypi.org/project/pymc-cache/) | 0.1.0 | Spencer Boucher | 61.3 kB | Safe, model-aware caching of PyMC sampling results |
+| 2026-11-03 03:35:09 | [pymc-monitor](https://pypi.org/project/pymc-monitor/) | 0.1.0 | Spencer Boucher | 452.2 kB | Local streaming convergence diagnostics and adaptive stopping for PyMC |
+| 2026-11-03 03:36:31 | [weightlang](https://pypi.org/project/weightlang/) | 0.2.0 |  | 101.8 kB | WeightLang prototype: compile .wgt network descriptions into runnable PyTorch a… |
+| 2026-11-03 03:37:50 | [gabriel-slack](https://pypi.org/project/gabriel-slack/) | 0.1.0 | EzEasy | 348.6 kB | Typed, AI-friendly real-time SDK for the Slack Web client protocol (session tok… |
+| 2026-11-03 03:44:49 | [openstem-mcp](https://pypi.org/project/openstem-mcp/) | 0.3.0 | openstem-mcp contributors | 840.0 kB | 이공계 학습용 MCP 서버: 학술 그림 렌더링, 풀이 검산, 문서 내보내기 |
+| 2026-11-03 03:46:08 | [maltiverse-mcp](https://pypi.org/project/maltiverse-mcp/) | 0.1.0 | maltiverse-mcp contributors | 44.4 kB | Local stdio MCP server exposing the Maltiverse threat-intelligence API to Claud… |
+| 2026-11-03 03:47:00 | [uzkit](https://pypi.org/project/uzkit/) | 0.1.1 | Ali | 21.6 kB | O'zbek tili va ma'lumotlari uchun Python kutubxonasi: transliteratsiya, raqamla… |
+| 2026-11-03 03:47:03 | [konomanoasa-tree-sitter-gitattributes](https://pypi.org/project/konomanoasa-tree-sitter-gitattributes/) | 0.8.0 |  | 30.8 kB | Tree-sitter grammar for gitattributes. |
+| 2026-11-03 03:47:07 | [ailinkany](https://pypi.org/project/ailinkany/) | 0.0.1 |  | 4.8 kB | Placeholder for AiLinkAny: let ChatGPT/Claude/Grok/Codex control your Windows P… |
+| 2026-11-03 03:51:03 | [view3](https://pypi.org/project/view3/) | 0.2.0 | Rigoberto Leyva Salmeron | 25.9 kB | Paged, theme-aware tables in notebook output: shared by tidy3, tidy3a and stats3 |
+| 2026-11-03 03:51:10 | [weightspace](https://pypi.org/project/weightspace/) | 0.1.0 |  | 60.6 kB | Weight-space programming: let an LLM read and write neural network weights dire… |
+| 2026-11-03 03:51:36 | [langchain-x402-cleanweb](https://pypi.org/project/langchain-x402-cleanweb/) | 0.1.0 | nohosa001-pixel <nohosa001@gm… | 12.7 kB | LangChain official tool integration for x402 CleanWeb Agent (87% token reductio… |
+| 2026-11-03 03:52:11 | [roadpack](https://pypi.org/project/roadpack/) | 0.1.0 | NicolasDevel | 540.9 kB | Compact OpenStreetMap road graphs with contraction hierarchies, for routing on… |
+| 2026-11-03 03:54:29 | [reponeedle](https://pypi.org/project/reponeedle/) | 1.1.0 | RepoNeedle Contributors | 193.5 kB | Token-Budget-Aware, Workflow-Adaptive Repository Context Retrieval for AI Codin… |
+| 2026-11-03 03:54:35 | [guess-my-genome](https://pypi.org/project/guess-my-genome/) | 0.3.1 | Jason Stajich <jason.stajich@… | 1.5 MB | Guess My Genome: fungal taxonomy from FracMinHash sketches (Python bindings) |
+| 2026-11-03 03:56:06 | [fontpkg-changa](https://pypi.org/project/fontpkg-changa/) | 3.3 |  | 74.3 kB | Changa font family, packaged for Python by fontpkg |
+| 2026-11-03 03:56:09 | [fontpkg-montserrat-alternates](https://pypi.org/project/fontpkg-montserrat-alternates/) | 7.200 |  | 1.8 MB | Montserrat Alternates font family, packaged for Python by fontpkg |
+| 2026-11-03 03:56:11 | [fontpkg-patua-one](https://pypi.org/project/fontpkg-patua-one/) | 1.2 |  | 26.6 kB | Patua One font family, packaged for Python by fontpkg |
+| 2026-11-03 03:56:13 | [fontpkg-vt323](https://pypi.org/project/fontpkg-vt323/) | 2.0 |  | 50.5 kB | VT323 font family, packaged for Python by fontpkg |
+| 2026-11-03 03:56:18 | [routekit-cli](https://pypi.org/project/routekit-cli/) | 0.3.1 | Mike Scarnavack <mhscarn@gmai… | 861.3 kB | Delivery route planning for U.S. addresses: fleets, truck routing and tolls, FE… |
+| 2026-11-03 03:57:26 | [teadice](https://pypi.org/project/teadice/) | 0.1.0 | bluefcat | 20.7 kB | A dice expression parser and evaluator with roll recording. |
+| 2026-11-03 04:00:55 | [konomanoasa-tree-sitter-editorconfig](https://pypi.org/project/konomanoasa-tree-sitter-editorconfig/) | 0.9.0 |  | 25.3 kB | Tree-sitter grammar for EditorConfig. |
+| 2026-11-03 04:01:43 | [interest-rate-decisions](https://pypi.org/project/interest-rate-decisions/) | 1.0.0 | InterestRateDecision.com | 10.8 kB | Central bank interest rates and decisions (Fed, ECB, BoE, BoJ, BoC, RBA, RBNZ,… |
+| 2026-11-03 04:01:45 | [forexia-cot](https://pypi.org/project/forexia-cot/) | 1.0.0 | Forexia | 13.8 kB | CFTC Commitments of Traders (COT) data for FX futures and gold, legacy and TFF… |
+| 2026-11-03 04:01:48 | [tradingsignalbot](https://pypi.org/project/tradingsignalbot/) | 0.1.0 | TradingSignalBot | 12.0 kB | Verify TradingSignalBot webhook signatures (HMAC-SHA256, constant-time, timesta… |
+| 2026-11-03 04:01:50 | [nini-datacomp](https://pypi.org/project/nini-datacomp/) | 0.1.0 | Nini (blzrosa) | 3.2 MB | Comparação de tabelas em escala: kernels C++ sobre as colunas do Polars, com ja… |
+| 2026-11-03 04:03:09 | [enlitt](https://pypi.org/project/enlitt/) | 0.1.0 |  | 100.5 kB | Enlitt SDK for Python: per-user model calls and premium-call accounting for app… |
+| 2026-11-03 04:03:27 | [uni-robot-agent](https://pypi.org/project/uni-robot-agent/) | 0.1.0 |  | 2.6 MB | A unified harness for robot-use agents, with CLI, Python SDK, and live monitori… |
+| 2026-11-03 04:05:52 | [vx-toolkit](https://pypi.org/project/vx-toolkit/) | 1.16.2 |  | 1.6 MB | VX language toolchain (vxc, vlnk, vmake, vxls) installed through uv |
+| 2026-11-03 04:08:06 | [weiguo-adaptive-driver](https://pypi.org/project/weiguo-adaptive-driver/) | 1.0.0 | AMX MUSE driver project | 217.2 kB | Shared pure-Python framework for AMX MUSE Script-as-Device drivers |
+| 2026-11-03 04:09:14 | [cordis-verify](https://pypi.org/project/cordis-verify/) | 0.2.0 | Janmejai <janmejai2002@gmail.… | 180.3 kB | Cordis: Independent Adversarial AI-PR & AST Invariant Prosecutor |
+| 2026-11-03 04:13:29 | [cam-verdict](https://pypi.org/project/cam-verdict/) | 1.0.0 |  | 5.6 kB | CAM — Product Viability Standard: deterministic per-order profit verdicts (TEST… |
+| 2026-11-03 04:17:31 | [konomanoasa-tree-sitter-posix-sed](https://pypi.org/project/konomanoasa-tree-sitter-posix-sed/) | 0.6.0 |  | 483.7 kB | Tree-sitter grammars for POSIX sed. |
