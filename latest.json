@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-11-03T18:19:25.326238Z",
-    "path": "data/new-packages-2026-11-03T19-19-15-80387Z.csv",
-    "to": "2026-11-03T19:19:15.80387Z"
+    "count": 36,
+    "from": "2026-11-03T19:19:15.80387Z",
+    "path": "data/new-packages-2026-11-03T20-18-19-258232Z.csv",
+    "to": "2026-11-03T20:18:19.258232Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-03T18:46:34Z",
       "package": "bench0ne",
       "since": "2026-11-03T18:19:25.326238Z",
@@ -15,34 +15,41 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-11-03T20:18:16Z",
+      "package": "cele",
+      "since": "2026-11-03T19:19:15.80387Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-03T18:38:48Z",
       "package": "cs2slim-cli",
       "since": "2026-11-03T18:19:25.326238Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-03T19:16:48Z",
       "package": "midas-sx",
       "since": "2026-11-03T18:19:25.326238Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-03T19:09:33Z",
       "package": "onescribe",
       "since": "2026-11-03T18:19:25.326238Z",
       "version": "2.1.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-03T16:35:28Z",
       "package": "perkbridge-connect-client",
       "since": "2026-11-03T16:20:08.66238Z",
       "version": null
     }
   ],
-  "serial": 43156410,
+  "serial": 43158696,
   "source_truncated": false,
-  "window": "2026-11-03T19:19:15.80387Z"
+  "window": "2026-11-03T20:18:19.258232Z"
 }

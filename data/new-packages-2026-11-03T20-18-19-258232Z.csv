@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T19:19:23Z,rowcanary,1.0.0,RowCanary contributors,MIT,574173,Detect silent data corruption in CSV import/export workflows with control samples
+2026-11-03T19:23:46Z,dasket,0.1.0,amar,MIT,19341,A composable Python library for preparing and assessing datasets for AI workflows.
+2026-11-03T19:24:10Z,azerbaijan-mcp-dict,0.1.0,Shamkhal Maharramov,MIT,77442,"Local MCP server for the Azerbaijani explanatory dictionary: look words up, search by meaning and browse in print order, from a database kept on your own computer."
+2026-11-03T19:24:49Z,agenticreq,0.1.0a1,Muslim Bin Aqeel <muslimarain321@gmail.com>,Apache-2.0,975626,"Checks whether an agentic AI system's declared requirements are enforced in its code, with measured confidence and without any LLM."
+2026-11-03T19:25:34Z,modsmith-cli,0.1.1,MeNeither <pengyufeng2003@outlook.com>,MIT,218804,Install Minecraft modpacks and mods for the official launcher.
+2026-11-03T19:28:28Z,trail-evidence,0.2.0,Florian Przybylak,Apache-2.0,62247,"Trail Evidence Record (trail.evidence/1, format 0.2): seal and verify hash-chained JSON evidence records with profiles (reference implementation, standard library only)"
+2026-11-03T19:29:28Z,mait-pipeline,0.1.0a3,Ramtin Zargari Marandi,"MIT License Copyright (c) 2024 PERSIMUNE Health Informatics Permission is hereby granted, free of c…",210738,Medical Artificial Intelligence Toolbox: experimental packaging of the existing MAIT pipeline
+2026-11-03T19:30:45Z,langchain-chainanalyzer,0.1.0,"refinancier, inc.",MIT,19160,"LangChain tools for ChainAnalyzer blockchain AML screening: sanctions, known-hack exposure, stablecoin freeze status and risk score across 12 chains. Pay per call in USDC via x402 or use an API key."
+2026-11-03T19:33:46Z,XanosMerks,1.0.0,CharmLxt <reception.mailspypi@gmail.com>,MIT,265437,Легковесный движок для локального запуска нейросетей (LLM) на Python.
+2026-11-03T19:33:50Z,probebehavior,0.1.1,"Rodrigo Orvate, Martín Cammarota",MIT,25360,Water maze probe tests aligned on the first arrival at the empty goal
+2026-11-03T19:41:53Z,cifmi,0.1.0,,MIT,1677389,Reads CIF 1.1 and 2.0 files into crystal structures
+2026-11-03T19:46:43Z,protodecimal,0.1.2,,MIT,30737,Compact lossless protobuf decimals: decimal.Decimal conversions and the protoc-gen-python-decimal codegen plugin
+2026-11-03T19:47:02Z,product-monte-carlo,0.1.12,Pietro Carlotti,MIT,27045,Product Monte Carlo for distributed and federated inference
+2026-11-03T19:51:45Z,afse,0.0.1,AMD,MIT,4211,Placeholder reserving the afse name for the AMD-OSS organization.
+2026-11-03T19:52:16Z,dlpracc,0.1.1,,,7541,Deep learning practical notebooks 2 through 6.
+2026-11-03T19:52:38Z,kite-connect-mcp,0.1.0,Mayank Gupta,MIT,465960,"Self-hostable MCP server for the full Zerodha Kite Connect v3 API, with dry-run-by-default order safety"
+2026-11-03T19:54:34Z,amd-afse,0.0.1,AMD,MIT,4264,Placeholder reserving the amd-afse name for the AMD-OSS organization.
+2026-11-03T19:56:16Z,blitzy-cloud-utils,0.0.0,Blitzy,,1213,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-03T19:56:32Z,odoo-addon-purchase-sale-lot-intercompany,18.0.1.0.0.3,"Akretion, Odoo Community Association (OCA)",AGPL-3,27591,Intercompany PO/SO lot number propagation
+2026-11-03T19:57:18Z,blitzy-db-common-model,0.0.0,Blitzy,,1250,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-03T19:58:20Z,blitzy-debug-utils,0.0.0,Blitzy,,1214,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-03T19:59:54Z,ylplugin,0.1.1,YoungLionOrganization,,11402821,"Native YLPlugin container SDK: inspect, build, verify and preflight plugins"
+2026-11-03T20:00:20Z,exactdocs-kernel,0.1.1,Cyprian Gburek,Apache-2.0,4745,Shared kernel for ExactDocs domains: framework-free building blocks every domain may import.
+2026-11-03T20:00:37Z,exactdocs,0.1.1,Cyprian Gburek,Apache-2.0,276914,"Self-hosted, version-accurate documentation for AI coding agents (MCP server)."
+2026-11-03T20:01:34Z,wshapnin,0.1.0,Princteq <info@princteq.com>,Apache-2.0,46445,"Measure your functions: p50/p95/p99, errors and what runs inside what, per minute and per version, and find the release that made something slower. Never harms the host application."
+2026-11-03T20:01:57Z,maxitor,3.11.0,@Bystrov.Maxim,Apache-2.0,3354288,"Maxitor: its web part and its tools, one package with extras."
+2026-11-03T20:02:37Z,protodecimal-native,0.1.2,,MIT,1041793,Optional compiled encoder for protodecimal
+2026-11-03T20:04:55Z,rivin-jones,0.1.0,Igor Rivin,GPL-3.0-or-later,40057737,Exact ordinary and colored Jones polynomials with sparse root-of-unity evaluation
+2026-11-03T20:06:05Z,xnft,0.1.0rc4,"LEmmA Group, Michigan State University",MIT,3261585,Antenna measurement and analysis software.
+2026-11-03T20:07:05Z,localvault-sdk,0.0.1,Sacco AI Consulting <info@saccoai.com>,MIT,4706,"Python client for LocalVault, the on-premise AI platform by Sacco AI"
+2026-11-03T20:09:06Z,localvault-ai,0.0.1,Sacco AI Consulting <info@saccoai.com>,MIT,3981,"LocalVault, the on-premise AI platform by Sacco AI: installs the Python SDK"
+2026-11-03T20:13:04Z,wkng,0.0.1,David Tom Foss,,2541,"Runtime for Origami models (wkng run, wkng serve). Name reserved by Wirkung Inc.; first release pending."
+2026-11-03T20:13:07Z,wirkung,0.0.1,David Tom Foss,,2564,Wirkung: runtime and tools for Origami models. Name reserved by Wirkung Inc.; first release pending.
+2026-11-03T20:14:32Z,phaino,0.1.0,Melvin Quick <melvinquick@proton.me>,,303407,Focused IDE for the minimalist developer.
+2026-11-03T20:15:48Z,ft-converter,1.0.0,Cesare Gilento,,325678,A free and open-source font converter GUI application written in Python.
+2026-11-03T20:17:03Z,shuttlebase,0.0.1a0,"""High Dimensional Neurology Group, UCL"" <pypi@highdimensional.net>",BSD-3-Clause,4469,"Copy an SQLite or SQLCipher database to a working copy and back, safely."
