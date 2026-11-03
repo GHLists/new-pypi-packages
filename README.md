@@ -8,47 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 20:18 UTC
+## Latest list — 2026-11-03 21:18 UTC
 
-New packages created between 2026-11-03 19:19 UTC and 2026-11-03 20:18 UTC.
+New packages created between 2026-11-03 20:18 UTC and 2026-11-03 21:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-03T20-18-19-258232Z.csv)
+[Full CSV](data/new-packages-2026-11-03T21-18-22-393249Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-03 19:19:23 | [rowcanary](https://pypi.org/project/rowcanary/) | 1.0.0 | RowCanary contributors | 574.2 kB | Detect silent data corruption in CSV import/export workflows with control sampl… |
-| 2026-11-03 19:23:46 | [dasket](https://pypi.org/project/dasket/) | 0.1.0 | amar | 19.3 kB | A composable Python library for preparing and assessing datasets for AI workflo… |
-| 2026-11-03 19:24:10 | [azerbaijan-mcp-dict](https://pypi.org/project/azerbaijan-mcp-dict/) | 0.1.0 | Shamkhal Maharramov | 77.4 kB | Local MCP server for the Azerbaijani explanatory dictionary: look words up, sea… |
-| 2026-11-03 19:24:49 | [agenticreq](https://pypi.org/project/agenticreq/) | 0.1.0a1 | Muslim Bin Aqeel <muslimarain… | 975.6 kB | Checks whether an agentic AI system's declared requirements are enforced in its… |
-| 2026-11-03 19:25:34 | [modsmith-cli](https://pypi.org/project/modsmith-cli/) | 0.1.1 | MeNeither <pengyufeng2003@out… | 218.8 kB | Install Minecraft modpacks and mods for the official launcher. |
-| 2026-11-03 19:28:28 | [trail-evidence](https://pypi.org/project/trail-evidence/) | 0.2.0 | Florian Przybylak | 62.2 kB | Trail Evidence Record (trail.evidence/1, format 0.2): seal and verify hash-chai… |
-| 2026-11-03 19:29:28 | [mait-pipeline](https://pypi.org/project/mait-pipeline/) | 0.1.0a3 | Ramtin Zargari Marandi | 210.7 kB | Medical Artificial Intelligence Toolbox: experimental packaging of the existing… |
-| 2026-11-03 19:30:45 | [langchain-chainanalyzer](https://pypi.org/project/langchain-chainanalyzer/) | 0.1.0 | refinancier, inc. | 19.2 kB | LangChain tools for ChainAnalyzer blockchain AML screening: sanctions, known-ha… |
-| 2026-11-03 19:33:46 | [XanosMerks](https://pypi.org/project/XanosMerks/) | 1.0.0 | CharmLxt <reception.mailspypi… | 265.4 kB | Легковесный движок для локального запуска нейросетей (LLM) на Python. |
-| 2026-11-03 19:33:50 | [probebehavior](https://pypi.org/project/probebehavior/) | 0.1.1 | Rodrigo Orvate, Martín Cammar… | 25.4 kB | Water maze probe tests aligned on the first arrival at the empty goal |
-| 2026-11-03 19:41:53 | [cifmi](https://pypi.org/project/cifmi/) | 0.1.0 |  | 1.7 MB | Reads CIF 1.1 and 2.0 files into crystal structures |
-| 2026-11-03 19:46:43 | [protodecimal](https://pypi.org/project/protodecimal/) | 0.1.2 |  | 30.7 kB | Compact lossless protobuf decimals: decimal.Decimal conversions and the protoc-… |
-| 2026-11-03 19:47:02 | [product-monte-carlo](https://pypi.org/project/product-monte-carlo/) | 0.1.12 | Pietro Carlotti | 27.0 kB | Product Monte Carlo for distributed and federated inference |
-| 2026-11-03 19:51:45 | [afse](https://pypi.org/project/afse/) | 0.0.1 | AMD | 4.2 kB | Placeholder reserving the afse name for the AMD-OSS organization. |
-| 2026-11-03 19:52:16 | [dlpracc](https://pypi.org/project/dlpracc/) | 0.1.1 |  | 7.5 kB | Deep learning practical notebooks 2 through 6. |
-| 2026-11-03 19:52:38 | [kite-connect-mcp](https://pypi.org/project/kite-connect-mcp/) | 0.1.0 | Mayank Gupta | 466.0 kB | Self-hostable MCP server for the full Zerodha Kite Connect v3 API, with dry-run… |
-| 2026-11-03 19:54:34 | [amd-afse](https://pypi.org/project/amd-afse/) | 0.0.1 | AMD | 4.3 kB | Placeholder reserving the amd-afse name for the AMD-OSS organization. |
-| 2026-11-03 19:56:16 | [blitzy-cloud-utils](https://pypi.org/project/blitzy-cloud-utils/) | 0.0.0 | Blitzy | 1.2 kB | Reserved name for an internal Blitzy package. Contains no code. |
-| 2026-11-03 19:56:32 | [odoo-addon-purchase-sale-lot-intercompany](https://pypi.org/project/odoo-addon-purchase-sale-lot-intercompany/) | 18.0.1.0.0.3 | Akretion, Odoo Community Asso… | 27.6 kB | Intercompany PO/SO lot number propagation |
-| 2026-11-03 19:57:18 | [blitzy-db-common-model](https://pypi.org/project/blitzy-db-common-model/) | 0.0.0 | Blitzy | 1.2 kB | Reserved name for an internal Blitzy package. Contains no code. |
-| 2026-11-03 19:58:20 | [blitzy-debug-utils](https://pypi.org/project/blitzy-debug-utils/) | 0.0.0 | Blitzy | 1.2 kB | Reserved name for an internal Blitzy package. Contains no code. |
-| 2026-11-03 19:59:54 | [ylplugin](https://pypi.org/project/ylplugin/) | 0.1.1 | YoungLionOrganization | 11.4 MB | Native YLPlugin container SDK: inspect, build, verify and preflight plugins |
-| 2026-11-03 20:00:20 | [exactdocs-kernel](https://pypi.org/project/exactdocs-kernel/) | 0.1.1 | Cyprian Gburek | 4.7 kB | Shared kernel for ExactDocs domains: framework-free building blocks every domai… |
-| 2026-11-03 20:00:37 | [exactdocs](https://pypi.org/project/exactdocs/) | 0.1.1 | Cyprian Gburek | 276.9 kB | Self-hosted, version-accurate documentation for AI coding agents (MCP server). |
-| 2026-11-03 20:01:34 | [wshapnin](https://pypi.org/project/wshapnin/) | 0.1.0 | Princteq <info@princteq.com> | 46.4 kB | Measure your functions: p50/p95/p99, errors and what runs inside what, per minu… |
-| 2026-11-03 20:01:57 | [maxitor](https://pypi.org/project/maxitor/) | 3.11.0 | @Bystrov.Maxim | 3.4 MB | Maxitor: its web part and its tools, one package with extras. |
-| 2026-11-03 20:02:37 | [protodecimal-native](https://pypi.org/project/protodecimal-native/) | 0.1.2 |  | 1.0 MB | Optional compiled encoder for protodecimal |
-| 2026-11-03 20:04:55 | [rivin-jones](https://pypi.org/project/rivin-jones/) | 0.1.0 | Igor Rivin | 40.1 MB | Exact ordinary and colored Jones polynomials with sparse root-of-unity evaluati… |
-| 2026-11-03 20:06:05 | [xnft](https://pypi.org/project/xnft/) | 0.1.0rc4 | LEmmA Group, Michigan State U… | 3.3 MB | Antenna measurement and analysis software. |
-| 2026-11-03 20:07:05 | [localvault-sdk](https://pypi.org/project/localvault-sdk/) | 0.0.1 | Sacco AI Consulting <info@sac… | 4.7 kB | Python client for LocalVault, the on-premise AI platform by Sacco AI |
-| 2026-11-03 20:09:06 | [localvault-ai](https://pypi.org/project/localvault-ai/) | 0.0.1 | Sacco AI Consulting <info@sac… | 4.0 kB | LocalVault, the on-premise AI platform by Sacco AI: installs the Python SDK |
-| 2026-11-03 20:13:04 | [wkng](https://pypi.org/project/wkng/) | 0.0.1 | David Tom Foss | 2.5 kB | Runtime for Origami models (wkng run, wkng serve). Name reserved by Wirkung Inc… |
-| 2026-11-03 20:13:07 | [wirkung](https://pypi.org/project/wirkung/) | 0.0.1 | David Tom Foss | 2.6 kB | Wirkung: runtime and tools for Origami models. Name reserved by Wirkung Inc.; f… |
-| 2026-11-03 20:14:32 | [phaino](https://pypi.org/project/phaino/) | 0.1.0 | Melvin Quick <melvinquick@pro… | 303.4 kB | Focused IDE for the minimalist developer. |
-| 2026-11-03 20:15:48 | [ft-converter](https://pypi.org/project/ft-converter/) | 1.0.0 | Cesare Gilento | 325.7 kB | A free and open-source font converter GUI application written in Python. |
-| 2026-11-03 20:17:03 | [shuttlebase](https://pypi.org/project/shuttlebase/) | 0.0.1a0 | "High Dimensional Neurology G… | 4.5 kB | Copy an SQLite or SQLCipher database to a working copy and back, safely. |
+| 2026-11-03 20:18:16 | [cele](https://pypi.org/project/cele/) | 1.1.1 | "Ningqi Wang (0xf3cd)" <nq.ma… | 3.1 kB | Astronomical calculations and Chinese calendar conversion powered by CelestialC… |
+| 2026-11-03 20:21:12 | [pandion-api](https://pypi.org/project/pandion-api/) | 0.1.0 | Nadeem Khan | 200.7 kB | Pandion's public API over HTTP, with one Policy object for a site's rules |
+| 2026-11-03 20:22:49 | [alter-sdk-corrigo](https://pypi.org/project/alter-sdk-corrigo/) | 0.1.1 | Alter Team | 181.0 kB | Typed corrigo operations through Alter |
+| 2026-11-03 20:23:29 | [alter-sdk-atlassian](https://pypi.org/project/alter-sdk-atlassian/) | 0.1.1 | Alter Team | 427.4 kB | Typed atlassian operations through Alter |
+| 2026-11-03 20:23:39 | [alter-sdk-dropbox](https://pypi.org/project/alter-sdk-dropbox/) | 0.1.1 | Alter Team | 678.5 kB | Typed dropbox operations through Alter |
+| 2026-11-03 20:23:51 | [ck3-save-updater](https://pypi.org/project/ck3-save-updater/) | 0.4.0 | Dustin Darcy <6962246+djdarcy… | 747.1 kB | Migrate old Crusader Kings III saves forward to the current game version: inspe… |
+| 2026-11-03 20:24:19 | [minecore](https://pypi.org/project/minecore/) | 0.1.0 |  | 1.8 MB | MineCore mining engineering platform |
+| 2026-11-03 20:26:09 | [rack-scraper](https://pypi.org/project/rack-scraper/) | 0.0.1 | AMD | 4.3 kB | Placeholder reserving the rack-scraper name for the AMD-OSS organization. |
+| 2026-11-03 20:28:47 | [odsbox-cli](https://pypi.org/project/odsbox-cli/) | 1.0.0 |  | 117.1 kB | Interactive JAQuel and pandas inspection of ASAM ODS servers |
+| 2026-11-03 20:32:24 | [tesserae-dl](https://pypi.org/project/tesserae-dl/) | 0.1.0 | Mind Derivative | 84.1 kB | TDL, the Tesserae Data Language: a lossless parser for the files the Tesserae S… |
+| 2026-11-03 20:32:42 | [pulse-ai](https://pypi.org/project/pulse-ai/) | 2.0.1 |  | 496.8 kB |  |
+| 2026-11-03 20:33:05 | [wentian](https://pypi.org/project/wentian/) | 1.1.1 | "Ningqi Wang (0xf3cd)" <nq.ma… | 3.1 kB | Astronomical calculations and Chinese calendar conversion powered by CelestialC… |
+| 2026-11-03 20:37:02 | [pyregrex](https://pypi.org/project/pyregrex/) | 0.1.0 | David Busoms | 25.9 MB | Find the formulas behind your data: symbolic regression for tables, in Rust |
+| 2026-11-03 20:38:10 | [alter-sdk-github](https://pypi.org/project/alter-sdk-github/) | 0.2.1 | Alter Team | 1.0 MB | Typed github operations through Alter |
+| 2026-11-03 20:39:12 | [gippa](https://pypi.org/project/gippa/) | 1.0.0 | Khoa Hoang | 2.9 MB | GIPPA: genome integrated prokaryotic proteomics analysis |
+| 2026-11-03 20:39:15 | [northcel](https://pypi.org/project/northcel/) | 0.1.0 | North Noir | 261.7 kB | NorthCel (.ncel) — the AI-drawn video programming language combining MoonBit ty… |
+| 2026-11-03 20:39:26 | [alter-sdk-gohighlevel](https://pypi.org/project/alter-sdk-gohighlevel/) | 0.1.1 | Alter Team | 719.0 kB | Typed gohighlevel operations through Alter |
+| 2026-11-03 20:41:15 | [arssvobvemote](https://pypi.org/project/arssvobvemote/) | 1.0 | MrAhmadiRad | 38.4 kB | Remote client framework for automation |
+| 2026-11-03 20:42:14 | [explainforecast](https://pypi.org/project/explainforecast/) | 0.1.0 |  | 10.6 kB | Add your description here |
+| 2026-11-03 20:42:18 | [mem0-aerospike](https://pypi.org/project/mem0-aerospike/) | 0.0.1 |  | 46.4 kB | Aerospike vector-store provider for mem0ai, registered at import time without m… |
+| 2026-11-03 20:44:08 | [hadome](https://pypi.org/project/hadome/) | 0.1.1 |  | 18.5 MB | Reports the violations a change adds and the tests it weakens. |
+| 2026-11-03 20:44:31 | [selfgraph](https://pypi.org/project/selfgraph/) | 0.0.1 |  | 1.9 kB | Reserved name placeholder. |
+| 2026-11-03 20:44:34 | [graphright](https://pypi.org/project/graphright/) | 0.0.1 |  | 1.9 kB | Reserved name placeholder. |
+| 2026-11-03 20:44:37 | [graphwrite](https://pypi.org/project/graphwrite/) | 0.0.1 |  | 1.9 kB | Reserved name placeholder. |
+| 2026-11-03 20:44:46 | [phononsynth](https://pypi.org/project/phononsynth/) | 0.1.0 |  | 92.5 kB | Thin Phonon text-to-speech frontend backed by OnnxVoice |
+| 2026-11-03 20:46:26 | [aisvs-scanner](https://pypi.org/project/aisvs-scanner/) | 1.0.0 | Mesut Güngör <clietech@gmail.… | 221.6 kB | A full-fledged security verification scanner for the OWASP Artificial Intellige… |
+| 2026-11-03 20:48:06 | [Pyjo-Reactor-Twisted](https://pypi.org/project/Pyjo-Reactor-Twisted/) | 0.2.0 | Piotr Roszatycki <piotr.rosza… | 31.1 kB | Low level event reactor with Twisted support for Pyjoyment. |
+| 2026-11-03 20:48:22 | [agent-squad-aerospike](https://pypi.org/project/agent-squad-aerospike/) | 0.0.1 |  | 296.9 kB | Aerospike chat storage for Agent Squad |
+| 2026-11-03 20:50:09 | [tongs-agents](https://pypi.org/project/tongs-agents/) | 0.10.0 | Andre Motta | 1.4 MB | Standalone agent workspace companion app: monitor and focus Claude Code, Codex… |
+| 2026-11-03 20:50:25 | [skill-graft](https://pypi.org/project/skill-graft/) | 0.4.0 |  | 185.7 kB | Graft agent skills from other people's repositories onto your own setup |
+| 2026-11-03 20:50:48 | [alter-sdk-hubspot](https://pypi.org/project/alter-sdk-hubspot/) | 0.1.1 | Alter Team | 934.2 kB | Typed hubspot operations through Alter |
+| 2026-11-03 20:51:02 | [alter-sdk-google](https://pypi.org/project/alter-sdk-google/) | 0.2.1 | Alter Team | 145.5 kB | Typed google operations through Alter |
+| 2026-11-03 20:51:14 | [overfitlab](https://pypi.org/project/overfitlab/) | 0.1.0 | avmhdt | 113.9 kB | Statistics that separate a real trading signal from a lucky one: PSR, DSR, PBO,… |
+| 2026-11-03 20:53:12 | [alter-sdk-microsoft](https://pypi.org/project/alter-sdk-microsoft/) | 0.1.1 | Alter Team | 437.1 kB | Typed microsoft operations through Alter |
+| 2026-11-03 20:53:15 | [qdmag](https://pypi.org/project/qdmag/) | 1.3.0 | Shuanglong Liu <shuan.liu@nor… | 217.6 kB | Nonequilibrium magnetization of magnetic molecules from a generalized Lindblad… |
+| 2026-11-03 20:53:47 | [py-invoice-ninja](https://pypi.org/project/py-invoice-ninja/) | 0.1.0 | Ashkan Yarmoradi | 92.2 kB | A Python SDK for the Invoice Ninja API - a full port of go-invoice-ninja |
+| 2026-11-03 20:57:12 | [pyghe](https://pypi.org/project/pyghe/) | 0.1.0 | Philippe Pasquier | 111.2 kB | Python interface to the simulation kernel of GHE Analysis: ground heat exchange… |
+| 2026-11-03 21:06:49 | [trc-asset-preview](https://pypi.org/project/trc-asset-preview/) | 0.0.1 |  | 503 B | Reserved name. |
+| 2026-11-03 21:09:30 | [sam3rs](https://pypi.org/project/sam3rs/) | 0.1.0 | Praveen Perera | 4.0 MB | SAM 3 image segmentation on NVIDIA GPUs with text, box and point prompts, in na… |
+| 2026-11-03 21:10:31 | [alter-sdk-quickbooks](https://pypi.org/project/alter-sdk-quickbooks/) | 0.1.2 | Alter Team | 156.2 kB | Typed quickbooks operations through Alter |
+| 2026-11-03 21:10:42 | [alter-sdk-rippling](https://pypi.org/project/alter-sdk-rippling/) | 0.4.1 | Alter Team | 815.2 kB | Typed rippling operations through Alter |
+| 2026-11-03 21:11:08 | [playwright-snap](https://pypi.org/project/playwright-snap/) | 0.1.0 | Nat Lee <natlee.work@gmail.co… | 45.1 kB | Snapshots of web pages as base64 PNG or PDF, taken with Playwright's headless C… |
+| 2026-11-03 21:13:52 | [pytktable](https://pypi.org/project/pytktable/) | 0.1.0 | Guilherme Polo | 24.3 kB | A spreadsheet-like table widget for tkinter, wrapping the Tcl/Tk Tktable extens… |
+| 2026-11-03 21:15:07 | [dashai-ollama](https://pypi.org/project/dashai-ollama/) | 0.2.3 | Pablo Badilla, IDIA-tt | 162.9 kB | Ollama chat, RAG and embeddings backend for DashAI |
+| 2026-11-03 21:15:07 | [wifzf](https://pypi.org/project/wifzf/) | 0.1.0 | Kasra Madadipouya <kasra@mada… | 44.9 kB | A minimal WiFi manager for FreeBSD built on top of wpa_supplicant and fzf |
+| 2026-11-03 21:15:42 | [zyto](https://pypi.org/project/zyto/) | 0.2.0 |  | 16.6 kB | Download and open images, plus a tiny hello dialog on Windows |
