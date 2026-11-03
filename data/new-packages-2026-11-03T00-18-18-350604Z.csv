@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-02T23:20:18Z,damaros-connect,0.1.0,Damaros,Apache-2.0,23576,"Connect a Resident (a robot, a device or an agent) to a Damaros World: one command, the run's token in the environment, nothing else to install."
+2026-11-02T23:21:08Z,ericai-local-models,0.0.1,Ericsson,LicenseRef-Proprietary,6609,EricAI local-models installation guard: the Ericsson provider is distributed internally
+2026-11-02T23:25:49Z,fast-numerical-integration,0.2.0,Ian Mackey,MIT,16866498,"Fast Cython RK23/RK45/DOP853 integrators that reproduce scipy.integrate.solve_ivp step for step, with a GIL-free C API"
+2026-11-02T23:29:59Z,polanon,0.1.0,BoroMat,MIT,279475,"Reversible PII masking for LLM calls, Polish-first: checksum-validated PESEL, NIP, REGON and IBAN, Polish names in every case, stable tokens and streaming restore."
+2026-11-02T23:30:59Z,veralayer,0.1.0,VeraLayer,MIT,24646,"Payment guard for AI agents on Solana: scores each recipient with Vera, verifies the signed result locally and enforces your spending policy."
+2026-11-02T23:32:04Z,parsian-api,0.1.1,DevURANIUM,MIT,49630,Sync and async Python clients and CLI for the Parsian Plus local HTTP API
+2026-11-02T23:32:19Z,gai-lab-ese,1.0.0,Amey Jagannath Sonvadkar,MIT,10559776,"GAI Lab ESE experiments (TensorFlow/Keras and Hugging Face): exact code, full theory and viva questions"
+2026-11-02T23:33:03Z,rulemason,0.8.0,,Apache-2.0,202459,给 AI 编码工具的共享规则与检查点：一处维护规则，项目内生成只读副本，方案与代码前后自动判断与审查
+2026-11-02T23:35:12Z,libnubiacare-py,0.1.0,Michał Żarłok,MIT,23679,Async client library for the Nubia Care API
+2026-11-02T23:36:38Z,umph,0.0.0,Amit Patole,MPL-2.0,2200,umph (Universal Memory Fabric): name reservation placeholder. No functionality yet.
+2026-11-02T23:36:57Z,keywright-router,0.0.1,,Apache-2.0,54710,"Keywright router: routes incoming mail with boolean rules, acting only through Keywright."
+2026-11-02T23:37:00Z,probe-research-cli,0.370.0,Probe <team@prbe.ai>,LicenseRef-Proprietary,199245524,"Probe Research's CLI, daemon and service, compiled. Installed by probe-research."
+2026-11-02T23:37:02Z,keywright,0.0.1,,Apache-2.0,110691,"Keywright client: the kw command agents use to reach brokered hosts and tools, the hazard tripwire, and the agent-machine setup."
+2026-11-02T23:37:08Z,keywright-server,0.0.1,,Apache-2.0,568405,"Keywright server: just-in-time credential broker for AI agents. One MCP front door, per-request human approval, no keys in agent context."
+2026-11-02T23:38:30Z,materials-corrosion-toolkit,0.1.0a1,Ugwiyeon Lee,MIT,15003291,"Modular materials, corrosion, structural integrity and inspection calculations with explicit evidence contracts"
+2026-11-02T23:41:42Z,b2b-compliance-sdk,1.0.1,,MIT,10894,"Official Python SDK (sync + async) for 31 B2B Compliance, Sanctions, KYB & Cyber APIs."
+2026-11-02T23:42:00Z,noevika-mcp,0.1.0,,Apache-2.0,13172,"Model Context Protocol server for Noevika — the deduplicated cyber-incident record, as tools for AI assistants and agents."
+2026-11-02T23:42:13Z,langbot-sdk,0.1.0,Langbot <hello@langbot.ai>,MIT,421916,"Langbot SDK and CLI: data and simulation for every market on Kalshi and Polymarket. Market history, replays against recorded order books, a strategy runtime and a Kalshi adapter."
+2026-11-02T23:42:16Z,langbot-mcp,0.1.0,Langbot <hello@langbot.ai>,MIT,82056,"Langbot MCP server: every market on Kalshi and Polymarket, its history and replays against recorded order books, for Claude Code, Cursor, Claude Desktop and Codex."
+2026-11-02T23:42:17Z,os-optics-kit,0.1.0,OpenSci,MIT,1014622,"Tools, engine-reproducible cases and vendor-neutral agent skills for OS Optics (os-optics)."
+2026-11-02T23:42:19Z,prediction-fees,0.2.0,Langbot <hello@langbot.ai>,MIT,25482,"Exact Kalshi and Polymarket trading fees from a dated schedule: taker, maker, multi-level executions, cent round-up."
+2026-11-02T23:44:23Z,convergence-store,0.0.0.dev0,Onefold AI,,1637,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-11-02T23:44:25Z,convergence-verify,0.0.0.dev0,Onefold AI,,1645,"Placeholder for Convergence by Onefold AI, which is not distributed on PyPI."
+2026-11-02T23:45:19Z,tempest-wx1,0.1.0,Jordy van Gils,Apache-2.0,1177817,Tempest: WX-1 — High-Performance Scientific Weather Storage Format
+2026-11-02T23:49:55Z,opencdr-fleet-manager,0.1.0,DBNZ,MPL-2.0,78437,Optional Serverless fleet manager for organization-local OpenCDR agents
+2026-11-02T23:52:54Z,traceAI-google-genai-live,0.1.0,Future AGI,Apache-2.0,43554,"Future AGI tracing for Gemini Live sessions (google-genai client.aio.live.connect): one trace per session with turns, tool calls, interruptions and usage"
+2026-11-02T23:55:04Z,pushraker,0.1.0.dev0,noon92,GPL-3.0-or-later,166569,"Push notifications for Klipper printers: a Moonraker component with pictures, sent through Apprise (ntfy, Pushover, Telegram, Discord, webhooks, email)"
+2026-11-03T00:00:27Z,pymasque,0.1.0,ading2210,LGPL-3.0-or-later,20497,A minimal implementation of a Cloudflare Warp MASQUE client in Python.
+2026-11-03T00:00:49Z,Mowkow,0.1.0,Gyun Woo <woogyun@pnu.edu>,,38351,Mowkow: A Korean LISP Interpreter
+2026-11-03T00:06:02Z,qtarrow,0.1.0,Albiemer R. Porte,MIT,6120,"A comprehensive, fully-featured PySide6 wrapper library designed to simplify UI loading, widget management, and desktop application development."
+2026-11-03T00:10:39Z,pt2mirandese,0.0.1a2,JarbasAi <jarbasai@mailfence.com>,Apache-2.0 AND CC-BY-SA-4.0,747356,Rule-based translator from European Portuguese to Mirandese
+2026-11-03T00:14:37Z,nia-safety,0.1.0,Openwist,Apache-2.0,12259198,Nia: supervisory safety engine for machines that decide for themselves.
