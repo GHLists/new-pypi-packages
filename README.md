@@ -8,78 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 16:20 UTC
+## Latest list — 2026-11-03 17:21 UTC
 
-New packages created between 2026-11-03 15:20 UTC and 2026-11-03 16:20 UTC.
+New packages created between 2026-11-03 16:20 UTC and 2026-11-03 17:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-03T16-20-08-66238Z.csv)
+[Full CSV](data/new-packages-2026-11-03T17-21-30-03491Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-03 15:21:54 | [harbor-fairness-agent](https://pypi.org/project/harbor-fairness-agent/) | 999.9.9 |  | 1.5 kB |  |
-| 2026-11-03 15:23:40 | [ergon-ai](https://pypi.org/project/ergon-ai/) | 0.7.1 | Ergon contributors | 294.3 kB | Batteries-included harness for building AI agents (Anthropic, OpenAI-compatible… |
-| 2026-11-03 15:25:11 | [scfg-renpy](https://pypi.org/project/scfg-renpy/) | 0.1.1 |  | 225.0 kB | USDC/USDT tips and unlocks for Ren'Py games, paid wallet to wallet. Installs th… |
-| 2026-11-03 15:25:13 | [splunk-cli](https://pypi.org/project/splunk-cli/) | 0.0.1 | Ruben J. Jongejan | 12.9 MB | Search and manage Splunk from the terminal with structured, agent-friendly outp… |
-| 2026-11-03 15:25:51 | [neural-lab](https://pypi.org/project/neural-lab/) | 0.5.0 | FAR Analytics & Research <adp… | 776.3 kB | A neural network implementation built as an explicit graph of neurons and weigh… |
-| 2026-11-03 15:27:10 | [memegician-mcp](https://pypi.org/project/memegician-mcp/) | 1.0.0 | Memegician <support@memegicia… | 9.8 kB | Memegician MCP server for Claude, ChatGPT, Cursor and any MCP client: search 40… |
-| 2026-11-03 15:28:45 | [amagi-inference-calc](https://pypi.org/project/amagi-inference-calc/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 84.4 kB | How much GPU does a local LLM need, and how fast will it run? VRAM, tokens/seco… |
-| 2026-11-03 15:30:53 | [tba-provider-corim-reference-memory](https://pypi.org/project/tba-provider-corim-reference-memory/) | 0.4.0.dev2 |  | 3.4 kB | Non-durable in-memory CoRIM reference-material provider. |
-| 2026-11-03 15:31:32 | [xenterprise](https://pypi.org/project/xenterprise/) | 0.1.0 | Vauxoo <info@vauxoo.com> | 28.3 kB | Offline validation of Vauxoo RS256-JWT license tokens (base_license client, no… |
-| 2026-11-03 15:32:39 | [dopplertrack](https://pypi.org/project/dopplertrack/) | 0.1.0 | MacCallister Higgins | 46.1 kB | Acoustic geolocation from inaudible aircraft Doppler curves matched against ADS… |
-| 2026-11-03 15:32:52 | [genetrek](https://pypi.org/project/genetrek/) | 0.1.0 | "Human Genetics and Cognitive… | 61.7 kB | Python client and command line for GeneTrek: gene lists and annotations for neu… |
-| 2026-11-03 15:33:12 | [tba-provider-did-controller](https://pypi.org/project/tba-provider-did-controller/) | 0.4.0.dev2 |  | 3.4 kB | Authorization-checked DID document controller provider. |
-| 2026-11-03 15:34:04 | [unraveler](https://pypi.org/project/unraveler/) | 0.0.0 | UnravelSports | 1.2 kB |  |
-| 2026-11-03 15:35:27 | [anti-rea](https://pypi.org/project/anti-rea/) | 0.1.32 |  | 1.9 MB | Evidence-driven application hardening against AI reverse engineering |
-| 2026-11-03 15:36:09 | [tba-provider-did-resolver](https://pypi.org/project/tba-provider-did-resolver/) | 0.4.0.dev2 |  | 4.0 kB | Versioned DID resolution and dereferencing provider. |
-| 2026-11-03 15:37:16 | [bash-launcher-kit](https://pypi.org/project/bash-launcher-kit/) | 1.0.0 |  | 1.9 kB | A simple Python program launcher |
-| 2026-11-03 15:37:22 | [processador-imagens-cosme](https://pypi.org/project/processador-imagens-cosme/) | 0.0.1 | Silvio Cosme | 5.7 kB | Um pacote simples de processamento de imagens para integração com análise de da… |
-| 2026-11-03 15:37:29 | [hnsw-lite-lib](https://pypi.org/project/hnsw-lite-lib/) | 0.4.0 |  | 19.9 MB | Vector search with metadata filters, hybrid (dense + BM25) search, durability a… |
-| 2026-11-03 15:37:47 | [wisdom-core](https://pypi.org/project/wisdom-core/) | 0.8.0 | John Vickery | 197.1 kB | An AI agent framework where one Core Axiom drives the principles the agent lear… |
-| 2026-11-03 15:38:10 | [tba-provider-digital-credential-status](https://pypi.org/project/tba-provider-digital-credential-status/) | 0.4.0.dev3 |  | 3.0 kB | Digital credential status resolution provider. |
-| 2026-11-03 15:39:02 | [vortexify](https://pypi.org/project/vortexify/) | 0.1.0 | Vortexify | 86.7 kB | Python SDK for the Vortexify platform |
-| 2026-11-03 15:41:08 | [hades-druglikeness](https://pypi.org/project/hades-druglikeness/) | 0.9.0 | Narek Petrosyan, Hovhannes Ma… | 44.3 MB | Machine-learning oral drug-likeness score for small molecules from their SMILES |
-| 2026-11-03 15:42:33 | [swforge](https://pypi.org/project/swforge/) | 0.9.1 | MWD | 266.9 kB | SolidWorks automation toolkit: early-binding geometry builder, GB material libr… |
-| 2026-11-03 15:42:34 | [watcher-gtm](https://pypi.org/project/watcher-gtm/) | 0.1.0 |  | 2.8 MB | An AI GTM data analyst that investigates rather than reporting numbers. |
-| 2026-11-03 15:43:14 | [jaxgraphic](https://pypi.org/project/jaxgraphic/) | 0.1.1 | EyadRealHim <eyad.realhim@gma… | 42.2 kB | A tiny differentiable 2D drawing library on JAX. |
-| 2026-11-03 15:43:15 | [zettcode-engine](https://pypi.org/project/zettcode-engine/) | 0.3.4 | Chang-LeHung | 465.3 kB | The agent core of ZettCode: the runtime over zett-agent, and the leaf types it… |
-| 2026-11-03 15:43:18 | [zettcode-broker](https://pypi.org/project/zettcode-broker/) | 0.3.4 | Chang-LeHung | 132.7 kB | The session broker ZettCode's sessions talk through: a small loopback HTTP serv… |
-| 2026-11-03 15:43:20 | [zettcode-sdk](https://pypi.org/project/zettcode-sdk/) | 0.3.4 | Chang-LeHung | 248.8 kB | The documented, stable Python surface over ZettCode: sessions, runs, models, da… |
-| 2026-11-03 15:43:23 | [zettcode-gateway](https://pypi.org/project/zettcode-gateway/) | 0.3.4 | Chang-LeHung | 1.8 MB | The web gateway of ZettCode: the chat page and the graph over a running server |
-| 2026-11-03 15:43:44 | [spendguard-ai](https://pypi.org/project/spendguard-ai/) | 0.1.0 | Amir Tahani <amirthn653381@gm… | 22.8 kB | High-precision token budget guard, floating-point spend tracking & latency circ… |
-| 2026-11-03 15:43:52 | [refrncr](https://pypi.org/project/refrncr/) | 0.1.0rc2 | DataMisu | 2.8 MB | Reference data without the enterprise baggage. |
-| 2026-11-03 15:43:57 | [oilpaint](https://pypi.org/project/oilpaint/) | 0.1.0 | Jocelyn Legault <jocelynlegau… | 222.2 kB | A small oil-painting simulator: spline brush strokes with physically based (spe… |
-| 2026-11-03 15:44:04 | [safe-vamd](https://pypi.org/project/safe-vamd/) | 0.1.0 | Ray Kirby | 86.7 kB | A Python package to reconstruct acoustic fields from sparsely sampled acoustic… |
-| 2026-11-03 15:45:15 | [passageway-sdk](https://pypi.org/project/passageway-sdk/) | 0.3.0 |  | 25.4 kB | Write a passageway connector as three small functions: the protocol plumbing is… |
-| 2026-11-03 15:45:17 | [tba-provider-digital-credential-trust](https://pypi.org/project/tba-provider-digital-credential-trust/) | 0.4.0.dev2 |  | 3.1 kB | Profile-aware digital credential issuer trust provider. |
-| 2026-11-03 15:45:18 | [passageway-connector-confluence](https://pypi.org/project/passageway-connector-confluence/) | 0.3.0 |  | 26.9 kB | passageway connector for Confluence Data Center: the pages of chosen spaces, re… |
-| 2026-11-03 15:45:21 | [passageway-connector-llmstxt](https://pypi.org/project/passageway-connector-llmstxt/) | 0.3.0 |  | 15.8 kB | passageway connector for the llms-full.txt of a list of websites |
-| 2026-11-03 15:45:23 | [passageway-connector-markdown](https://pypi.org/project/passageway-connector-markdown/) | 0.3.0 |  | 21.0 kB | passageway connector for a folder of markdown files with front matter |
-| 2026-11-03 15:47:12 | [clinvar-gkm-parquet](https://pypi.org/project/clinvar-gkm-parquet/) | 1.0.0 | ClinGen Data Model WG | 754.7 kB | Rebuild ClinVar-GKM's Parquet tables from its published JSON bundles |
-| 2026-11-03 15:47:33 | [tba-provider-eat-verifier](https://pypi.org/project/tba-provider-eat-verifier/) | 0.4.0.dev2 |  | 4.2 kB | Profile-aware EAT evidence verifier provider. |
-| 2026-11-03 15:49:46 | [tba-provider-fido-metadata-service](https://pypi.org/project/tba-provider-fido-metadata-service/) | 0.4.0.dev2 |  | 5.9 kB | FIDO Metadata Service signed-blob and authenticator status provider. |
-| 2026-11-03 15:51:30 | [healthiar](https://pypi.org/project/healthiar/) | 0.1.0 | Arno Pauwels <arno.pauwels@sc… | 61.0 kB | Python wrapper for the healthiar R package. |
-| 2026-11-03 15:52:39 | [tba-provider-identity-administration-relationship-graph](https://pypi.org/project/tba-provider-identity-administration-relationship-graph/) | 0.4.0.dev2 |  | 4.7 kB | Concrete identity relationship graph provider. |
-| 2026-11-03 15:53:19 | [cad3d-ir-parasolid](https://pypi.org/project/cad3d-ir-parasolid/) | 0.3.0 | neka-nat | 67.5 kB | Parasolid transmit-file (X_T / X_B) importer for cad3d-ir through parasolid-kit |
-| 2026-11-03 15:55:03 | [tba-provider-security-signing-pqc](https://pypi.org/project/tba-provider-security-signing-pqc/) | 0.1.0 | Jacob Stewart | 8.6 kB | Concrete PQC signing provider for Tigrbl security trust domains. |
-| 2026-11-03 15:59:36 | [odoo-addon-stock-readonly](https://pypi.org/project/odoo-addon-stock-readonly/) | 19.0.1.0.0.2 | Akretion, Odoo Community Asso… | 26.8 kB | Read-only access to Inventory documents |
-| 2026-11-03 15:59:51 | [kali-mcp](https://pypi.org/project/kali-mcp/) | 1.0.0 | kali-mcp | 195.0 kB | MCP server exposing Kali Linux penetration-testing tools to AI agents |
-| 2026-11-03 16:00:14 | [opennetpulse](https://pypi.org/project/opennetpulse/) | 0.1.0 | OpenNetPulse Contributors | 38.9 kB | Open-source network diagnostics and performance monitoring toolkit |
-| 2026-11-03 16:00:48 | [facturalo-pe](https://pypi.org/project/facturalo-pe/) | 1.0.0 | Facturalo <contacto@facturalo… | 27.1 kB | SDK oficial de Facturalo para Python: emite facturas, boletas, notas y guías de… |
-| 2026-11-03 16:02:12 | [tba-provider-identity-jose](https://pypi.org/project/tba-provider-identity-jose/) | 0.4.0.dev2 |  | 47.7 kB | JOSE, JWT, JWS, JWE, JWK, JWKS, key rotation, and standards helpers for TBA ide… |
-| 2026-11-03 16:04:29 | [lazybird-haystack](https://pypi.org/project/lazybird-haystack/) | 0.1.0 | Lazybird <elyssia@lazybird.ap… | 14.7 kB | Lazybird text to speech for Haystack: natural AI voices (MP3) in your pipelines… |
-| 2026-11-03 16:04:33 | [tba-provider-jose-cryptography](https://pypi.org/project/tba-provider-jose-cryptography/) | 0.4.0.dev2 |  | 6.6 kB |  |
-| 2026-11-03 16:04:38 | [narrow-ai](https://pypi.org/project/narrow-ai/) | 0.5.1 | NARROW contributors | 149.2 kB | A safety-first task continuity and execution coordinator for AI coding agents. |
-| 2026-11-03 16:06:42 | [sellme](https://pypi.org/project/sellme/) | 0.0.1 | Rotem Lanyado | 2.9 kB | Your AI agent, pitching you to every AI recruiter. Early days: not ready to use… |
-| 2026-11-03 16:07:01 | [tba-provider-jose-swarmauri](https://pypi.org/project/tba-provider-jose-swarmauri/) | 0.4.0.dev2 |  | 4.7 kB | Deprecated compatibility facade for TBA's internal JOSE provider. |
-| 2026-11-03 16:07:15 | [ispra-idrogeo](https://pypi.org/project/ispra-idrogeo/) | 0.1.0 | Giuseppe Zileni | 34.7 kB | Downloads and API client for ISPRA IdroGEO: IFFI landslide inventory, hazard mo… |
-| 2026-11-03 16:07:24 | [backcast](https://pypi.org/project/backcast/) | 0.1.0 | Adeel Bandesha | 4.7 MB | Can any model beat the naive forecast? Walk-forward backtests for stock forecas… |
-| 2026-11-03 16:08:06 | [nodii-capacity-contract](https://pypi.org/project/nodii-capacity-contract/) | 0.2.0 | Nodii <ops@nodii.co> | 21.5 kB | Seat/capacity contract: the band-aware capacity-replica reading (over capacity… |
-| 2026-11-03 16:09:32 | [tba-provider-key-attestation-verifier](https://pypi.org/project/tba-provider-key-attestation-verifier/) | 0.4.0.dev2 |  | 3.2 kB | Key-attestation verification and binding provider. |
-| 2026-11-03 16:09:34 | [py3dgames](https://pypi.org/project/py3dgames/) | 1.0.0 | Anika Mukherjee <cuteypieanik… | 258.1 kB | Python-native systemic world and 3D game engine: Far Cry kinematic movement, Du… |
-| 2026-11-03 16:10:38 | [find-my-session](https://pypi.org/project/find-my-session/) | 0.1.1 | find-my-session contributors | 378.8 kB | Read-only, cross-harness agent-session finder and handoff tool |
-| 2026-11-03 16:11:20 | [browserrig](https://pypi.org/project/browserrig/) | 0.1.0 |  | 871.5 kB | Event-driven Chrome automation for Harnessed. |
-| 2026-11-03 16:11:52 | [tba-provider-mdoc-issuer](https://pypi.org/project/tba-provider-mdoc-issuer/) | 0.4.0.dev2 |  | 4.1 kB | ISO mdoc credential issuer provider. |
-| 2026-11-03 16:13:56 | [thediscordlist](https://pypi.org/project/thediscordlist/) | 0.2.1 | TheDiscordList | 67.5 kB | Publish your discord.py bot's stats, heartbeat and commands to TheDiscordList,… |
-| 2026-11-03 16:14:00 | [squintlab](https://pypi.org/project/squintlab/) | 0.0.1 | Marcelo Almenara Campos | 84.7 kB | Analyses photos of paintings through perceptual mechanisms and reports descript… |
-| 2026-11-03 16:15:33 | [tba-provider-mdoc-verifier](https://pypi.org/project/tba-provider-mdoc-verifier/) | 0.4.0.dev2 |  | 4.8 kB | ISO mdoc credential verifier provider. |
-| 2026-11-03 16:17:50 | [tba-provider-platform-attestation](https://pypi.org/project/tba-provider-platform-attestation/) | 0.4.0.dev2 |  | 3.2 kB | Vendor-adapter platform attestation evidence provider. |
+| 2026-11-03 16:20:13 | [tba-provider-security-proof-pkce](https://pypi.org/project/tba-provider-security-proof-pkce/) | 0.1.0 |  | 3.4 kB | PKCE proof helper and verifier provider for the TBA package suite. |
+| 2026-11-03 16:21:35 | [panadaspy](https://pypi.org/project/panadaspy/) | 0.1.0 | Ayyub | 73.2 kB | A Python package to quickly access Computer Laboratory - II (BE AI&DS) Bioinfor… |
+| 2026-11-03 16:21:47 | [audiolabtools-pipecat](https://pypi.org/project/audiolabtools-pipecat/) | 0.1.0 |  | 12.2 kB | Watch the caller and the bot in a Pipecat pipeline with the AudioLab live monit… |
+| 2026-11-03 16:21:54 | [flin-chatgpt-ads-mcp](https://pypi.org/project/flin-chatgpt-ads-mcp/) | 0.1.3 | flin.agency | 88.9 kB | Read-only OpenAI Ads MCP server with per-account API keys |
+| 2026-11-03 16:22:05 | [ag-tokens-inspector](https://pypi.org/project/ag-tokens-inspector/) | 0.1.0 | Martin <qule520@126.com> | 15.9 kB | A token inspect tool for Antigravity |
+| 2026-11-03 16:22:59 | [flanque](https://pypi.org/project/flanque/) | 0.2.0 | Flanque <destek@flanque.com> | 42.6 kB | Official Flanque e-mail API SDK: send transactional e-mail, query events and ve… |
+| 2026-11-03 16:23:14 | [tba-provider-replay-memory](https://pypi.org/project/tba-provider-replay-memory/) | 0.4.0.dev2 |  | 5.4 kB | Non-durable single-process replay reservation provider. |
+| 2026-11-03 16:23:22 | [iwym-assets-mcp](https://pypi.org/project/iwym-assets-mcp/) | 0.1.0 | cyetstar | 13.9 kB | MCP server for the iwym asset-universe maintenance API |
+| 2026-11-03 16:26:01 | [tba-provider-security-authorization-provenance-builder](https://pypi.org/project/tba-provider-security-authorization-provenance-builder/) | 0.1.0 |  | 3.6 kB | Security trust provenance builders for authorization decisions and delegation. |
+| 2026-11-03 16:27:01 | [thinembed](https://pypi.org/project/thinembed/) | 0.2.0 | "Jan Rosecký (Moravian AI)" <… | 165.4 kB | ThinEmbed (formerly thinletter-eq). Measure a compressed query encoder against… |
+| 2026-11-03 16:28:50 | [tba-provider-security-certificate-mtls](https://pypi.org/project/tba-provider-security-certificate-mtls/) | 0.1.0 |  | 3.3 kB | mTLS certificate confirmation-claim binding validator provider for the TBA pack… |
+| 2026-11-03 16:30:57 | [sphuling](https://pypi.org/project/sphuling/) | 1.0.0 |  | 72.0 kB | High-performance local PySpark-compatible analytics engine powered by DataFusio… |
+| 2026-11-03 16:31:39 | [tba-provider-security-oidc-federation](https://pypi.org/project/tba-provider-security-oidc-federation/) | 0.1.0 |  | 3.1 kB | Static OIDC Federation provider for the TBA package suite. |
+| 2026-11-03 16:33:13 | [konklav-control-plane](https://pypi.org/project/konklav-control-plane/) | 1.4.0 |  | 73.8 kB | Manage Konklav from Python: tenants, subjects, credentials, roles and the rest… |
+| 2026-11-03 16:34:31 | [tba-provider-security-proof-dpop](https://pypi.org/project/tba-provider-security-proof-dpop/) | 0.1.0 |  | 3.2 kB | DPoP proof and confirmation-claim binding validator provider for the TBA packag… |
+| 2026-11-03 16:34:46 | [polyctl](https://pypi.org/project/polyctl/) | 0.7.0 | Hakki Sagdic | 2.5 MB | Your agents commit, every change is granted first or flagged: polyctl gates the… |
+| 2026-11-03 16:35:06 | [re-cinq-agent-contracts](https://pypi.org/project/re-cinq-agent-contracts/) | 0.16.1 |  | 23.5 kB | Pydantic models and a client for the ai-agent-subsystem CRDs (Agent / Station /… |
+| 2026-11-03 16:35:12 | [flezha](https://pypi.org/project/flezha/) | 0.1.0 | Flezha contributors | 32.5 MB | The Flezha Python SDK — a poll host over flz_core |
+| 2026-11-03 16:36:25 | [keras-ml](https://pypi.org/project/keras-ml/) | 0.1.1 |  | 28.9 kB | A reusable collection of machine learning Jupyter notebooks |
+| 2026-11-03 16:36:50 | [edgefirst-kernels](https://pypi.org/project/edgefirst-kernels/) | 0.39.0 | Au-Zone Technologies <support… | 6.2 MB | Quantized and floating-point compute kernels (softmax, sigmoid, DFL, dist2bbox)… |
+| 2026-11-03 16:38:08 | [benchmark-systems](https://pypi.org/project/benchmark-systems/) | 1.1.2 | Guzmán <ggonzm@unileon.es> | 1.4 MB | Nonlinear benchmark models for numerical simulation, symbolic analysis and traj… |
+| 2026-11-03 16:38:08 | [tba-provider-security-subject-pairwise](https://pypi.org/project/tba-provider-security-subject-pairwise/) | 0.1.0 |  | 3.1 kB | Pairwise subject identifier provider for the TBA package suite. |
+| 2026-11-03 16:40:33 | [perkbridge-connect](https://pypi.org/project/perkbridge-connect/) | 1.0.0b1 | PerkBridge | 205.3 kB | Python client for the PerkBridge Connect Trading API: idempotent orders, strate… |
+| 2026-11-03 16:41:05 | [tba-provider-security-webfinger](https://pypi.org/project/tba-provider-security-webfinger/) | 0.1.0 |  | 3.0 kB | Static WebFinger provider for the TBA package suite. |
+| 2026-11-03 16:43:36 | [tba-provider-set-receiver](https://pypi.org/project/tba-provider-set-receiver/) | 0.4.0.dev2 |  | 4.5 kB | RFC 8417 Security Event Token receiver provider. |
+| 2026-11-03 16:44:17 | [packaging-34j](https://pypi.org/project/packaging-34j/) | 1.0.0 | 34j | 7.5 kB | Packaging tools and configuration for 34j Python projects. |
+| 2026-11-03 16:44:47 | [mcp-ltspice-qucs](https://pypi.org/project/mcp-ltspice-qucs/) | 0.6.2 | Adam Engelbrecht <adam.engelb… | 682.4 kB | RF engineering MCP servers for LTspice/ngspice, Qucs-S, and simulator-agnostic… |
+| 2026-11-03 16:44:48 | [pyjokelang](https://pypi.org/project/pyjokelang/) | 0.1.0 | Jade Leong, Risha Chada, Seth… | 33.1 kB | Translate English into silly joke languages like Pig Latin and Baby Talk, and b… |
+| 2026-11-03 16:45:14 | [nos-collector](https://pypi.org/project/nos-collector/) | 0.1.1 |  | 139.9 kB | Lightweight client for the noclaf.agent-event/v0 contract and the central colle… |
+| 2026-11-03 16:45:15 | [headroid](https://pypi.org/project/headroid/) | 0.1.0a1 | Anand S Kale and the headroid… | 775.6 kB | Test Android apps on a hidden display of your own phone while you keep using it. |
+| 2026-11-03 16:46:39 | [tba-provider-set-transmitter](https://pypi.org/project/tba-provider-set-transmitter/) | 0.4.0.dev2 |  | 3.8 kB | RFC 8417 Security Event Token transmitter provider. |
+| 2026-11-03 16:47:05 | [mcp-cst-studio](https://pypi.org/project/mcp-cst-studio/) | 0.2.1 | RFingAdam | 431.1 kB | MCP server for CST Studio Suite: antenna design, RF simulation, and PCB layout |
+| 2026-11-03 16:47:36 | [nenavi](https://pypi.org/project/nenavi/) | 0.0.0 |  | 1.6 kB | Reserved for the Nenavi Python SDK. The first release is coming soon. |
+| 2026-11-03 16:49:32 | [tba-provider-spiffe-bundle](https://pypi.org/project/tba-provider-spiffe-bundle/) | 0.4.0.dev3 |  | 2.9 kB | Versioned SPIFFE trust-bundle provider. |
+| 2026-11-03 16:50:24 | [klein-auto-research](https://pypi.org/project/klein-auto-research/) | 2.3.0 | Xiang Shan | 30.2 MB | Klein Auto Research — process-verifiable research for AI for Science |
+| 2026-11-03 16:51:03 | [rennervate](https://pypi.org/project/rennervate/) | 0.1.0 | "BanZhuan.AI" <team@banzhuan.… | 20.6 kB | Chat with the Rennervate model family from your terminal. |
+| 2026-11-03 16:52:57 | [resume-shortlister](https://pypi.org/project/resume-shortlister/) | 1.2.0 | Akshay Jhijhautia | 615.4 kB | Explainable resume-screening assistant: ranks resumes against a job description… |
+| 2026-11-03 16:53:03 | [proclet](https://pypi.org/project/proclet/) | 0.1.0 | Adrien Mannocci | 62.4 kB | Fluent, typed subprocess wrapper with sync and async execution and pipelines. |
+| 2026-11-03 16:54:53 | [kmcp](https://pypi.org/project/kmcp/) | 0.1.7.dev0 | kali-mcp | 264.9 kB | MCP server exposing Kali Linux penetration-testing tools to AI agents |
+| 2026-11-03 16:55:04 | [pytest-mortadelo](https://pypi.org/project/pytest-mortadelo/) | 0.1.0 |  | 127.2 kB | Test impact analysis for pytest: per-test dependencies at function and class le… |
+| 2026-11-03 16:55:17 | [tba-provider-spiffe-workload-api](https://pypi.org/project/tba-provider-spiffe-workload-api/) | 0.4.0.dev2 |  | 3.4 kB | SPIFFE Workload API provider. |
+| 2026-11-03 16:57:05 | [mypatternsapp-shapes](https://pypi.org/project/mypatternsapp-shapes/) | 1.0.0 | Python Developer | 3.0 kB | My own Python patterns package |
+| 2026-11-03 16:57:57 | [pytest-filemon](https://pypi.org/project/pytest-filemon/) | 0.1.0 |  | 71.5 kB | File-level test impact analysis for pytest: per-test import dependencies record… |
+| 2026-11-03 16:58:04 | [tba-provider-trust-anchor](https://pypi.org/project/tba-provider-trust-anchor/) | 0.4.0.dev2 |  | 2.8 kB | Profile-scoped trust anchor provider. |
+| 2026-11-03 16:59:41 | [pyweft](https://pypi.org/project/pyweft/) | 0.2.0 | Prassanth Nicholas | 268.7 kB | A UI framework for Python: XML templates, Python code-behind, one render core f… |
+| 2026-11-03 16:59:49 | [systemathics-helpers](https://pypi.org/project/systemathics-helpers/) | 2.0.3 | Systemathics SAS <dev@systema… | 79.7 kB | Systemathics gRPC client helpers: authenticated channel factory and token manag… |
+| 2026-11-03 17:00:01 | [outcomet](https://pypi.org/project/outcomet/) | 0.1.0 | Outcomet GmbH <info@outcomet.… | 3.7 kB | Official CLI and Python SDK for Outcomet, the AI-native product management plat… |
+| 2026-11-03 17:00:26 | [tba-provider-wallet-attestation-verifier](https://pypi.org/project/tba-provider-wallet-attestation-verifier/) | 0.4.0.dev2 |  | 3.8 kB | Profile-aware wallet attestation verifier. |
+| 2026-11-03 17:05:52 | [pyweft-ui](https://pypi.org/project/pyweft-ui/) | 0.1.0 | Prassanth Nicholas | 73.3 kB | Ready-made controls for PyWeft: buttons, fields, cards, layout, dialogs. No HTM… |
+| 2026-11-03 17:09:44 | [kelas-ai](https://pypi.org/project/kelas-ai/) | 0.1.1 | Kelas AI | 5.2 kB | Python library for AI and data processing utilities |
+| 2026-11-03 17:10:12 | [ogc-records-parquet](https://pypi.org/project/ogc-records-parquet/) | 0.1.0 | Terradue srl <info@terradue.c… | 102.9 kB | Preserve OGC Records JSON alongside queryable Arrow and GeoParquet columns |
+| 2026-11-03 17:12:12 | [roborouter](https://pypi.org/project/roborouter/) | 0.0.1 | Momentum | 9.9 kB | Run a robot on any model with a key and one call. |
+| 2026-11-03 17:14:11 | [cl1-exp](https://pypi.org/project/cl1-exp/) | 0.1.0 | Shlok Jha | 8.3 kB | A collection of Machine Learning and Data Mining practicals |
+| 2026-11-03 17:14:13 | [rag-benchmark-kit](https://pypi.org/project/rag-benchmark-kit/) | 0.1.0 | kanishkambk43 | 12.6 kB | A lightweight toolkit for auditing and benchmarking RAG evaluation datasets. |
+| 2026-11-03 17:14:54 | [netbox-routing-plugin](https://pypi.org/project/netbox-routing-plugin/) | 1.0.0 | Arturo | 596.2 kB | A NetBox Routing Plugin |
+| 2026-11-03 17:15:24 | [lambdawalker-template](https://pypi.org/project/lambdawalker-template/) | 0.1.0 | LambdaWalker <lambdawalker@is… | 584.3 kB | HTML/Jinja template rendering server and Playwright screenshot engine for Lambd… |
+| 2026-11-03 17:16:37 | [everyome-pipelines](https://pypi.org/project/everyome-pipelines/) | 0.1.0a2 | Helen R Horkan | 60.4 MB | Pinned, checksummed Nextflow pipelines (nf-core) and plugins for Everyome, so c… |

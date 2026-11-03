@@ -1,0 +1,58 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T16:20:13Z,tba-provider-security-proof-pkce,0.1.0,,Apache-2.0,3446,PKCE proof helper and verifier provider for the TBA package suite.
+2026-11-03T16:21:35Z,panadaspy,0.1.0,Ayyub,MIT,73208,"A Python package to quickly access Computer Laboratory - II (BE AI&DS) Bioinformatics and Information Retrieval practical codes, theory, experiment mappings, and automated datasets"
+2026-11-03T16:21:47Z,audiolabtools-pipecat,0.1.0,,MIT,12235,"Watch the caller and the bot in a Pipecat pipeline with the AudioLab live monitor (dropouts, clipping, level drops, dead air, hum). The audio stays on your machine."
+2026-11-03T16:21:54Z,flin-chatgpt-ads-mcp,0.1.3,flin.agency,,88937,Read-only OpenAI Ads MCP server with per-account API keys
+2026-11-03T16:22:05Z,ag-tokens-inspector,0.1.0,Martin <qule520@126.com>,,15896,A token inspect tool for Antigravity
+2026-11-03T16:22:59Z,flanque,0.2.0,Flanque <destek@flanque.com>,MIT,42593,"Official Flanque e-mail API SDK: send transactional e-mail, query events and verify webhooks."
+2026-11-03T16:23:14Z,tba-provider-replay-memory,0.4.0.dev2,,Apache-2.0,5435,Non-durable single-process replay reservation provider.
+2026-11-03T16:23:22Z,iwym-assets-mcp,0.1.0,cyetstar,MIT,13933,MCP server for the iwym asset-universe maintenance API
+2026-11-03T16:26:01Z,tba-provider-security-authorization-provenance-builder,0.1.0,,Apache-2.0,3585,Security trust provenance builders for authorization decisions and delegation.
+2026-11-03T16:27:01Z,thinembed,0.2.0,"""Jan Rosecký (Moravian AI)"" <info@moravian.ai>",Apache-2.0,165357,"ThinEmbed (formerly thinletter-eq). Measure a compressed query encoder against your own document index: import, synthetic queries, fp32 cache, llama.cpp compile, paired evaluation."
+2026-11-03T16:28:50Z,tba-provider-security-certificate-mtls,0.1.0,,Apache-2.0,3302,mTLS certificate confirmation-claim binding validator provider for the TBA package suite.
+2026-11-03T16:30:57Z,sphuling,1.0.0,,Apache-2.0,72036,"High-performance local PySpark-compatible analytics engine powered by DataFusion, Arrow, and DuckDB"
+2026-11-03T16:31:39Z,tba-provider-security-oidc-federation,0.1.0,,Apache-2.0,3144,Static OIDC Federation provider for the TBA package suite.
+2026-11-03T16:33:13Z,konklav-control-plane,1.4.0,,MIT,73788,"Manage Konklav from Python: tenants, subjects, credentials, roles and the rest of the control plane"
+2026-11-03T16:34:31Z,tba-provider-security-proof-dpop,0.1.0,,Apache-2.0,3241,DPoP proof and confirmation-claim binding validator provider for the TBA package suite.
+2026-11-03T16:34:46Z,polyctl,0.7.0,Hakki Sagdic,"MIT License Copyright (c) 2026 Hakki Sagdic Permission is hereby granted, free of charge, to any pe…",2540178,"Your agents commit, every change is granted first or flagged: polyctl gates the change an agent staged, has a model of another family review it, refuses any other git commit in its hook, and flags a…"
+2026-11-03T16:35:06Z,re-cinq-agent-contracts,0.16.1,,Apache-2.0,23475,Pydantic models and a client for the ai-agent-subsystem CRDs (Agent / Station / AgentDefinition / ModelCatalog / AgentSpawner). Types are generated from the D source so they cannot drift.
+2026-11-03T16:35:12Z,flezha,0.1.0,Flezha contributors,Apache-2.0,32500684,The Flezha Python SDK — a poll host over flz_core
+2026-11-03T16:36:25Z,keras-ml,0.1.1,,,28876,A reusable collection of machine learning Jupyter notebooks
+2026-11-03T16:36:50Z,edgefirst-kernels,0.39.0,Au-Zone Technologies <support@au-zone.com>,Apache-2.0,6153995,"Quantized and floating-point compute kernels (softmax, sigmoid, DFL, dist2bbox) for edge AI inference"
+2026-11-03T16:38:08Z,benchmark-systems,1.1.2,Guzmán <ggonzm@unileon.es>,MIT,1371832,"Nonlinear benchmark models for numerical simulation, symbolic analysis and trajectory animation"
+2026-11-03T16:38:08Z,tba-provider-security-subject-pairwise,0.1.0,,Apache-2.0,3148,Pairwise subject identifier provider for the TBA package suite.
+2026-11-03T16:40:33Z,perkbridge-connect,1.0.0b1,PerkBridge,Apache-2.0,205281,"Python client for the PerkBridge Connect Trading API: idempotent orders, strategies on a schedule, events."
+2026-11-03T16:41:05Z,tba-provider-security-webfinger,0.1.0,,Apache-2.0,2977,Static WebFinger provider for the TBA package suite.
+2026-11-03T16:43:36Z,tba-provider-set-receiver,0.4.0.dev2,,Apache-2.0,4478,RFC 8417 Security Event Token receiver provider.
+2026-11-03T16:44:17Z,packaging-34j,1.0.0,34j,MIT,7508,Packaging tools and configuration for 34j Python projects.
+2026-11-03T16:44:47Z,mcp-ltspice-qucs,0.6.2,Adam Engelbrecht <adam.engelbrecht76@gmail.com>,AGPL-3.0-or-later,682373,"RF engineering MCP servers for LTspice/ngspice, Qucs-S, and simulator-agnostic RF analysis, in one package"
+2026-11-03T16:44:48Z,pyjokelang,0.1.0,"Jade Leong, Risha Chada, Seth DeRusha, Sanjana Chauhan, Yufei Huang",GPL-3.0-or-later,33105,"Translate English into silly joke languages like Pig Latin and Baby Talk, and back again."
+2026-11-03T16:45:14Z,nos-collector,0.1.1,,,139935,Lightweight client for the noclaf.agent-event/v0 contract and the central collector
+2026-11-03T16:45:15Z,headroid,0.1.0a1,Anand S Kale and the headroid contributors,Apache-2.0,775631,Test Android apps on a hidden display of your own phone while you keep using it.
+2026-11-03T16:46:39Z,tba-provider-set-transmitter,0.4.0.dev2,,Apache-2.0,3815,RFC 8417 Security Event Token transmitter provider.
+2026-11-03T16:47:05Z,mcp-cst-studio,0.2.1,RFingAdam,AGPL-3.0-or-later,431059,"MCP server for CST Studio Suite: antenna design, RF simulation, and PCB layout"
+2026-11-03T16:47:36Z,nenavi,0.0.0,,,1572,Reserved for the Nenavi Python SDK. The first release is coming soon.
+2026-11-03T16:49:32Z,tba-provider-spiffe-bundle,0.4.0.dev3,,Apache-2.0,2901,Versioned SPIFFE trust-bundle provider.
+2026-11-03T16:50:24Z,klein-auto-research,2.3.0,Xiang Shan,MIT,30166497,Klein Auto Research — process-verifiable research for AI for Science
+2026-11-03T16:51:03Z,rennervate,0.1.0,"""BanZhuan.AI"" <team@banzhuan.ai>",MIT,20574,Chat with the Rennervate model family from your terminal.
+2026-11-03T16:52:57Z,resume-shortlister,1.2.0,Akshay Jhijhautia,MIT,615353,"Explainable resume-screening assistant: ranks resumes against a job description, shows the evidence, and leaves the decision to the recruiter."
+2026-11-03T16:53:03Z,proclet,0.1.0,Adrien Mannocci,Apache-2.0,62444,"Fluent, typed subprocess wrapper with sync and async execution and pipelines."
+2026-11-03T16:54:53Z,kmcp,0.1.7.dev0,kali-mcp,MIT,264879,MCP server exposing Kali Linux penetration-testing tools to AI agents
+2026-11-03T16:55:04Z,pytest-mortadelo,0.1.0,,Apache-2.0,127212,"Test impact analysis for pytest: per-test dependencies at function and class level recorded with sys.monitoring, hashed from compiled bytecode, stored as JSON under .pytest_mortadelo/, selected by co…"
+2026-11-03T16:55:17Z,tba-provider-spiffe-workload-api,0.4.0.dev2,,Apache-2.0,3374,SPIFFE Workload API provider.
+2026-11-03T16:57:05Z,mypatternsapp-shapes,1.0.0,Python Developer,,2999,My own Python patterns package
+2026-11-03T16:57:57Z,pytest-filemon,0.1.0,,Apache-2.0,71477,"File-level test impact analysis for pytest: per-test import dependencies recorded by wrapping __import__ (cached imports included), stored as local JSON, selected by file fingerprints."
+2026-11-03T16:58:04Z,tba-provider-trust-anchor,0.4.0.dev2,,Apache-2.0,2847,Profile-scoped trust anchor provider.
+2026-11-03T16:59:41Z,pyweft,0.2.0,Prassanth Nicholas,MIT,268743,"A UI framework for Python: XML templates, Python code-behind, one render core for web, desktop and mobile."
+2026-11-03T16:59:49Z,systemathics-helpers,2.0.3,Systemathics SAS <dev@systemathics.com>,LicenseRef-Proprietary,79650,Systemathics gRPC client helpers: authenticated channel factory and token management
+2026-11-03T17:00:01Z,outcomet,0.1.0,Outcomet GmbH <info@outcomet.com>,MIT,3667,"Official CLI and Python SDK for Outcomet, the AI-native product management platform."
+2026-11-03T17:00:26Z,tba-provider-wallet-attestation-verifier,0.4.0.dev2,,Apache-2.0,3789,Profile-aware wallet attestation verifier.
+2026-11-03T17:05:52Z,pyweft-ui,0.1.0,Prassanth Nicholas,MIT,73319,"Ready-made controls for PyWeft: buttons, fields, cards, layout, dialogs. No HTML or CSS required."
+2026-11-03T17:09:44Z,kelas-ai,0.1.1,Kelas AI,MIT,5203,Python library for AI and data processing utilities
+2026-11-03T17:10:12Z,ogc-records-parquet,0.1.0,"Terradue srl <info@terradue.com>, Fabrice Brito <fabrice.brito@terradue.com>, Simone Tripodi <simon…",Apache-2.0,102893,Preserve OGC Records JSON alongside queryable Arrow and GeoParquet columns
+2026-11-03T17:12:12Z,roborouter,0.0.1,Momentum,Apache-2.0,9902,Run a robot on any model with a key and one call.
+2026-11-03T17:14:11Z,cl1-exp,0.1.0,Shlok Jha,,8326,A collection of Machine Learning and Data Mining practicals
+2026-11-03T17:14:13Z,rag-benchmark-kit,0.1.0,kanishkambk43,MIT,12611,A lightweight toolkit for auditing and benchmarking RAG evaluation datasets.
+2026-11-03T17:14:54Z,netbox-routing-plugin,1.0.0,Arturo,Apache-2.0,596248,A NetBox Routing Plugin
+2026-11-03T17:15:24Z,lambdawalker-template,0.1.0,LambdaWalker <lambdawalker@isdavid.com>,,584339,HTML/Jinja template rendering server and Playwright screenshot engine for LambdaWalker
+2026-11-03T17:16:37Z,everyome-pipelines,0.1.0a2,Helen R Horkan,GPL-3.0-or-later,60418602,"Pinned, checksummed Nextflow pipelines (nf-core) and plugins for Everyome, so clusters run them without downloading code."
