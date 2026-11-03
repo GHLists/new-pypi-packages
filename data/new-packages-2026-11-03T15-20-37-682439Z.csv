@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T14:19:13Z,uqmrlib,0.0.1,UQMRLib contributors,PolyForm Noncommercial 1.0.0,3574,Placeholder release - the full UQMRLib library will be published upon journal publication
+2026-11-03T14:21:58Z,tenseflow,0.1.0,Tenseflow Contributors,MIT,34618,Downloadable AI and computational intelligence practical Python scripts
+2026-11-03T14:24:34Z,freshservice-cli,0.2.0,Kamorion,MIT,34868,"Instance-agnostic Freshservice CLI: tickets, service catalog, MSP routing and Project Management, with live ID discovery."
+2026-11-03T14:26:25Z,flimanalyzer,0.6.0,Karsten Siller <khsiller@gmail.com>,"Copyright (c) 2023 The University of Virginia Permission is hereby granted, free of charge, to any…",521411,Analysis of Fluorescence Lifetime Imaging Microscopy (FLIM) data.
+2026-11-03T14:28:36Z,microcld,0.1.0,,MIT,58398,"Python SDK and CLI for microcloud: hosting (apps, Postgres, S3 buckets) and sandboxes for AI agents"
+2026-11-03T14:28:42Z,scpcip,1.0.0,Shipeng Yang,MIT,176853,scPCIP: program-based cell-type annotation for plant single-cell RNA-seq
+2026-11-03T14:28:47Z,dynecon,0.1.0,Jayabrata Basu <jayabratabasu@gmail.com>,BSD-3-Clause,236123,A Python library for computational economics
+2026-11-03T14:30:15Z,unzipy,0.1.0,Alvaro M Monge <139244816+amartinez118@users.noreply.github.com>,MIT,193825,"Single-molecule force spectroscopy and nonequilibrium statistical physics: polymer elasticity, fluctuation theorems, unzipping analysis."
+2026-11-03T14:34:48Z,tango-core,1.1.0,"""Geothermal Energy and Geofluids Group, ETH Zurich"" <chad.baker@eaps.ethz.ch>",Apache-2.0,1175468,Techno-economic ANalysis of Geoenergy Operations (TANGO)
+2026-11-03T14:36:10Z,ai-work-media-cli,0.2.0,,,16867,"CLI for AI Work image, video, speech, and music jobs"
+2026-11-03T14:38:18Z,tecrube,1.0.0,,MIT,7203,Tecrube API and MCP client
+2026-11-03T14:44:50Z,e-track,0.1.0,EDamLabs,MIT,107123,"Run tracking for agent systems: one event model carried by a structlog channel, many parallel sinks (OTLP, live)."
+2026-11-03T14:47:39Z,ltc-cmo-apps,0.1.1,Kristin Li,,229616,Add your description here
+2026-11-03T14:47:57Z,mintio,0.0.1a0,"""High Dimensional Neurology Group, UCL"" <pypi@highdimensional.net>",BSD-3-Clause,5551,Files in mint condition: atomic whole-file writes and torn-read detection for bytes and JSON.
+2026-11-03T14:47:58Z,streamlit-spaday,0.1.0,the streamlit-spaday authors <dev@1kbgz.com>,Apache-2.0,12822,Alias for spaday-streamlit
+2026-11-03T14:48:14Z,csp-wave,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6408,csp-wave
+2026-11-03T14:48:15Z,csp-node,0.1.0,the csp-node authors <t.paine154@gmail.com>,Apache-2.0,12673,Alias for csp
+2026-11-03T14:48:16Z,csp-graph,0.1.0,the csp-graph authors <t.paine154@gmail.com>,Apache-2.0,12690,Alias for csp
+2026-11-03T14:49:15Z,arcanum-mcp,0.2.2,,,22275,MCP server exposing CodeRisk Arcanum's deterministic PITAX checks (prompt-injection scan + code audit).
+2026-11-03T14:49:47Z,envlatch,0.6.1,sinzbtw,MIT,92421,Check dotenv files against a contract without exposing values.
+2026-11-03T14:50:20Z,pyboot-framework,0.1.2,Siddharth Karn,MIT,32331,"A lightweight, extensible Python framework for building applications with dependency injection and a modular plugin architecture."
+2026-11-03T14:51:11Z,create-boundary-image,0.1.0,liuxspro,MIT,29281,Create boundary images for soil pollution investigation parcels
+2026-11-03T14:51:27Z,atril,0.7.0,,MIT,123119,Gestiona una instalación local de DeepTutor y sus temarios
+2026-11-03T14:52:47Z,de-agent,0.2.0,de-agent maintainers,Apache-2.0,715943,"Ground-truth context, guardrails and workflows for data engineering with Claude Code"
+2026-11-03T14:53:06Z,rivoraquic,0.1.0,Bhavya Malhotra,BSD-3-Clause,1039944,An implementation of QUIC and HTTP/3
+2026-11-03T14:54:03Z,quantpreflight,0.3.0,quantpreflight contributors,MIT,181447,Find out if a quantized AI model will run on your GPUs before you download it.
+2026-11-03T14:54:44Z,aioautodarts,0.1.1,Wadim-dev,MIT,11271,Async client for the local Autodarts Board Manager API
+2026-11-03T14:56:39Z,wordcloud-art-cli,0.1.0,,,6877,Create PNG or SVG word clouds from text or weighted word lists
+2026-11-03T14:57:02Z,clirme,1.0.0,Francielle Vargas,GPL-2.0-or-later,37417,ClIR.ME: self-explaining unsupervised prototype-based embeddings via projection and ranking.
+2026-11-03T14:58:36Z,core-score,0.4.0,Henry Broster,BSD-3-Clause,94402,CORE Score: agreement within an ensemble of predicted protein-ligand poses
+2026-11-03T15:01:35Z,odoo-addon-base-sequence-template,18.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",AGPL-3,32371,Create a sequence template that can generate sequences for companies
+2026-11-03T15:02:05Z,wslc-compose,0.3.1,Bacar Ndiaye,MIT,132878,docker-compose style orchestration for WSL containers (wslc)
+2026-11-03T15:03:57Z,traceback-sdk,0.1.0,Bishwajit Karmakar,MIT,62570,Capture FastAPI failures and send them to Traceback.
+2026-11-03T15:05:50Z,ulog-rrd,0.1.0,Peter Breuer,MIT,2095736,"PX4 ULog to Rerun .rrd: the vehicle in 3D, its log and its time series"
+2026-11-03T15:07:24Z,bio-prac,0.1.0,,,6453,Data Science practical programs
+2026-11-03T15:07:25Z,seckit,0.1.0,Stefan,FSL-1.1-ALv2,160728,"Local security toolkit for coding agents: secrets, SAST, SCA, IaC, supply chain and code audit in one report"
+2026-11-03T15:10:04Z,linguatag,0.0.1a1,JarbasAi <jarbasai@mailfence.com>,Apache-2.0,37832,"BCP-47 language tags: standardization, distance, closest match, and the default region of a bare tag"
+2026-11-03T15:11:35Z,panoptis,0.3.1,AgentWatch Contributors,Apache-2.0,2074147,PANOPTIS (formerly AgentWatch): Pre-Execution Guardrail & Observability Layer for AI Agents
+2026-11-03T15:11:40Z,steelix,0.1.0,An Long,BSD-3-Clause,293358,Transpile Python into readable Rust code built on PyO3
+2026-11-03T15:12:15Z,fiftyone-ipintelligence-shared,4.5.0,51Degrees Engineering,EUPL-1.2,11775,Shared code used by the cloud and on-premise variants of the 51Degrees IP Intelligence engines for the 51Degrees Pipeline API.
+2026-11-03T15:12:17Z,fiftyone-ipintelligence-translation,4.5.0,51Degrees Engineering,EUPL-1.2,102438,Country translation engines for 51Degrees on-premise IP Intelligence. Turns the weighted ISO country codes returned by the IP Intelligence engine into localized country names and complete ordered cou…
+2026-11-03T15:12:18Z,fiftyone-ipintelligence,4.5.0,51Degrees Engineering,EUPL-1.2,9772,"51Degrees IP Intelligence resolves an IP address to detailed location, network and registration information. This package aggregates the cloud and on-premise IP intelligence engines for the 51Degrees…"
+2026-11-03T15:12:32Z,fiftyone-ipintelligence-onpremise,4.5.0,51Degrees Engineering,EUPL-1.2,405129,This project contains the 51Degrees IP Intelligence OnPremise engine that can be used with the 51Degrees Pipeline API. The Pipeline is a generic web request intelligence and data processing solution…
+2026-11-03T15:12:54Z,ejectseat,1.0.0,Admin Ace LLC,MIT,7692,"Official Python SDK for the EjectSeat layoff risk API — SEC filings, WARN notices, and risk scores."
+2026-11-03T15:13:06Z,duplexpo,0.1.0,"Yuxin Li, Donghang Wu, Guan-Ting Lin, Hung-yi Lee, Chengwei Qin, Zhehuai Chen, Chen Chen",MIT,112180,"Framework-neutral data construction, FCDR reward, and event-level GRPO for full-duplex spoken dialogue models (DuplexPO, NeurIPS 2026)"
+2026-11-03T15:13:34Z,caminus,0.0.1,jdominick05,AGPL-3.0-or-later,27407,Caminus: MoE inference on two AMD Radeon GPUs (name reservation; the engine is in development)
