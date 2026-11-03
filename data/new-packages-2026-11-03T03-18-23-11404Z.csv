@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T02:19:40Z,rflect,6.1.1,Adam,AGPL-3.0-or-later,5392302,Antenna measurement visualization and analysis tool
+2026-11-03T02:20:37Z,xlrecalc,0.1.0,Ethan Post,MIT,553462,Recalculate Excel workbooks in pure Python and write the results back as cached values.
+2026-11-03T02:21:02Z,vidhex_mcp,0.3.1,,MIT,130885,Video Skill MCP server + agent skill + CLI (install / login / jobs)
+2026-11-03T02:22:04Z,agent-cost-mcp-server,0.1.1,Karmendra Pandey,Apache-2.0,29554,"MCP server to estimate, budget, and compare the cost of LLM work per task"
+2026-11-03T02:22:56Z,fah2,0.83,,MIT,84674257,Handy Android frida helping tools at the tip of your terminal
+2026-11-03T02:24:27Z,pulumi-labs-modal,0.1.0,,Apache-2.0,26034,"Experimental: manage Modal (modal.com) serverless compute resources — Secrets, Volumes, and Queues — as infrastructure with Pulumi."
+2026-11-03T02:24:34Z,lineforge,2.3.0,lineforge contributors,AGPL-3.0-or-later,1951010,Open-source MCP-enabled transmission line calculator (lineforge)
+2026-11-03T02:26:43Z,sltp,0.0.1,,,2086,SLTP Package
+2026-11-03T02:35:29Z,question-converter,2.0,Udaya Raj Joshi,,114712,Multi-format question converter for academic use
+2026-11-03T02:35:32Z,crab-cleanroom,0.4.0,Xintian Huang <731913+lemonadesaltbagel@users.noreply.github.com>,Apache-2.0,579536,"CRAB (Clean Rebuild of Anything's Behavior): clean-room, behavior-first analysis of applications: observe black-box, mine falsifiable behavior claims, release a sanitized spec, and differential-test…"
+2026-11-03T02:35:35Z,stateweave-sdk,0.3.0,StateWeave <mikewei@stateweave.net>,Apache-2.0,42816,"Run your own AI agent on StateWeave: environments, tests, data of your own, and graded runs"
+2026-11-03T02:35:44Z,python-webdriver,4.0.0,AtylaDaSilva,MIT,26780,"A thin wrapper around Selenium WebDriver for Python, providing a simplified interface built with a ""retry until it works"" philosophy and out-of-the-box support for logging and error handling."
+2026-11-03T02:36:07Z,nlalpha-data,0.3.1,,AGPL-3.0-or-later,133139,"Financial data infrastructure for nlalpha: providers, stores, and trading calendars"
+2026-11-03T02:37:09Z,ssotkit,0.4.0,,,60413,"Backend FastAPI SSOT toolkit: extensible gen plugins, check-gen / check-breaking / check-contract."
+2026-11-03T02:40:13Z,kafka-grpc,0.37.0,,Apache-2.0,18518,"Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/topics) speaking gRPC over WebRTC DataChannels, via the grpc-dc runtime (Python)"
+2026-11-03T02:42:16Z,kennet,0.1.33,,Apache-2.0,252154,"The command line for Kennet, Metaphi AI's RL infrastructure."
+2026-11-03T02:53:00Z,hgoblet,0.3.0,tderk <usvu.tech@gmail.com>,MIT,101818,"hgoblet // one line-only terminal for installed MProcs-family suites (Fumuda-XY, MProcs, Nanuska-GP)"
+2026-11-03T02:58:50Z,hscode,0.0.1,,MIT,2300,EU customs tariff (TARIC) SDK for hscode.info: classify products into CN codes and read import duties. Coming soon.
+2026-11-03T03:02:28Z,loci-vault,0.7.0,,PolyForm-Noncommercial-1.0.0,2850747,"A personal knowledge graph on plain Markdown files, with an MCP server for Claude and a local web app."
+2026-11-03T03:03:01Z,nlalpha-strategy,0.2.0,,AGPL-3.0-or-later,53757,Strategy authoring and validation MCP service for NLAlpha
+2026-11-03T03:09:03Z,lstm-labcode,0.1.0,,,44173,Browse and save code extracted from Jupyter notebooks.
+2026-11-03T03:11:50Z,fastgeodesic,0.1.0,,MIT,9056408,"Drop-in Rust replacement for geographiclib and geopy distance: same results, 18-32x faster"
+2026-11-03T03:14:14Z,anona-memory,0.27.0,Anona Labs,MIT,546646,Anona Memory SDK — managed AI memory for intelligent agents
+2026-11-03T03:16:33Z,iagent-skills-hub,0.1.1,,,17238,Python CLI for AgentSkillsHub skills
