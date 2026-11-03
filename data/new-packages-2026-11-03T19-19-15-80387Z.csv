@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T18:20:59Z,swippter-cli,0.1.0,,,5292,Swippter production-ready software foundation CLI
+2026-11-03T18:21:27Z,daup,0.1.0,Daup maintainer,MIT,25408,Download bundled Python practical scripts with simple functions
+2026-11-03T18:22:20Z,axios-accounting,0.1,,,43085,
+2026-11-03T18:25:47Z,criogen,0.1.2,,,37471310,"The fast AI agent framework for Python, a LangChain and LangGraph alternative on a Rust engine: tool calling, multi-agent workflows, human approval, durable threads, memory"
+2026-11-03T18:26:41Z,google-photos-sdk,1.0.0,danielnachumdev <danielnachumdev@gmail.com>,"MIT License Copyright (c) 2022 danielnachumdev Permission is hereby granted, free of charge, to any…",38234,Python SDK for the Google Photos Library API
+2026-11-03T18:27:03Z,treasy-mcp,0.5.0rc1,Treasy,LicenseRef-Treasy-Proprietaria,593535,"Servidor MCP do Treasy: o seu Treasy FP&A dentro do Claude Code, com login pelo navegador"
+2026-11-03T18:28:23Z,pyraya,0.1.0a9,RoXimn,MIT,231228,"PyRaya is a reusable, self-contained Qt text editor widget written in Python (PySide6)"
+2026-11-03T18:29:44Z,genderize-offline,0.1.0,Diego Restrepo <restrepo@udea.edu.co>,MIT,24701,"Offline gender inference from first names and country, a free drop-in for genderize.io, using the World Gender Name Dictionary 2.0."
+2026-11-03T18:30:04Z,eodhd-guard-mcp,0.1.0,Mayank Gupta,MIT,366772,"A guard-first MCP server for the EODHD market-data API: it catches silent failures, says what each price is, and counts what every call costs."
+2026-11-03T18:30:31Z,axim-os,1.1.1,"Cognitus Lab, GRRNMAKER",Proprietary: Cognitus Lab End User License Agreement (EULA),230134,AXIM OS — Universal CUDA-Free Compute & Graphics Runtime Engine by Cognitus Lab.
+2026-11-03T18:30:45Z,luna-doctor,0.3.0a5,Jesse Robbins <jesse.robbins@openaid.org>,Apache-2.0,469186,"Diagnose LunaRoute concurrency problems from local agent logs, and emit per-agent config fixes"
+2026-11-03T18:31:21Z,django-offsite-backup,0.1.0,Oleksii Kolosiuk <kolosyuk1@gmail.com>,MIT,191668,"Encrypted, immutable off-site backups of a Django project's databases, media and deployment configuration"
+2026-11-03T18:39:25Z,private-lab-bench,0.1.0,Dipesh Tharu Mahato,MIT,519201,Local-first evaluation for scientific machine learning on private data.
+2026-11-03T18:41:10Z,lorehub-mcp,0.1.0,Lostwood Games,MIT,19981,MCP server that lets AI agents read the Meta Areas of a LoreHub dialogue
+2026-11-03T18:41:16Z,recall-openai-agents,0.1.0,Polign,Apache-2.0,26690,"Session memory for the OpenAI Agents SDK, backed by Recall by Polign"
+2026-11-03T18:41:25Z,panic-youtube-mode,1.0.0,Sector Zero agent,"MIT License Copyright (c) 2026 ruPB Permission is hereby granted, free of charge, to any person obt…",13148,"Sector Zero panic protocol: instant calming content (cats / minecraft+rain) and work camouflage, right from your keyboard."
+2026-11-03T18:43:14Z,cnn-classifier-toolkit,0.1.0,Peng Zhao,Apache-2.0,196452,"A config-driven, reproducible PyTorch toolkit for CNN image classification."
+2026-11-03T18:43:26Z,nolook,0.3.0,HuanCheng65,MIT,94574,"Drive an Android device by what is on screen, not by screenshots. Built for coding agents."
+2026-11-03T18:46:07Z,pal-runtime,0.1.0,,Apache-2.0,127940,Python SDK for PAL (Personalized Agentic Layer) — the PAL Runtime
+2026-11-03T18:46:54Z,cs2slim,1.0.5,cyqmq,MIT,51502,CS2 精简专用服务器 CLI：一键拉取/拼装/启动精简服务端，含版本自检与升级
+2026-11-03T18:47:01Z,quantlibtorch,0.3.0,,"BSD 3-Clause License Copyright (c) 2026, QuantLibTorch contributors All rights reserved. Redistribu…",1395361,Differentiable QuantLib finite-difference pricing with PyTorch
+2026-11-03T18:49:17Z,synapptic-core,0.1.0,Sorin Gheata <sorin@appcuarium.com>,,837098,"The learning core of synapptic: extraction, profiles, synthesis, benchmark, the harness loop. Proprietary, shipped as binaries."
+2026-11-03T18:49:52Z,librepost-app,0.1.0,Ag3nt Sc4rn,MIT,99871,"A free, local-first API client. Requests live as plain .http files in your git repo; secrets stay in your keychain."
+2026-11-03T18:51:21Z,thread-sdk,0.2.0,,MIT,3526046,"Query and update a thread blob-native search index (dense vectors, BM25 text, or both fused) in R2, S3 or on disk"
+2026-11-03T18:57:20Z,VTKwrite,0.1.0,"""Shawn W. Walker"" <walker@lsu.edu>",GPL-3.0-only AND MIT,171158,Python Class for writing VTK data in XML format with *raw* (binary) data
+2026-11-03T18:57:53Z,reprotrace,0.1.2,Ketan Verma,MIT,179360,Turn a mysterious CI failure into evidence: compare strace recordings of two environments and rank the differences.
+2026-11-03T18:58:55Z,benchone,0.0.0a0,,,2252,Tripwire for the BenchOne project: importing it fails with a pointer to the right index.
+2026-11-03T18:59:40Z,rnd-data,0.1.0,mcp-tool-shop <64996768+mcp-tool-shop@users.noreply.github.com>,MIT,45912,Read-only reader and schema validator for the rnd-data research store.
+2026-11-03T18:59:49Z,guilda,2.0.0,,Apache-2.0,884762,"Engineering template with core, profiles, adapters and integrations for AI coding agents."
+2026-11-03T19:01:12Z,benchone-client,0.0.0a0,,,1613,Tripwire for the BenchOne project: importing it fails with a pointer to the right index.
+2026-11-03T19:01:13Z,benchone-export,0.0.0a0,,,1614,Tripwire for the BenchOne project: importing it fails with a pointer to the right index.
+2026-11-03T19:03:13Z,zapiack,0.1.0,Zapiack <support@zapiack.com>,MIT,46759,"The official Zapiack SDK for Python: email, SMS and push notifications from one client."
+2026-11-03T19:06:48Z,posturanet,0.1.0,PosturaNet,FSL-1.1-ALv2,176659,Evidence-backed remediation agent for AWS + Terraform. Fixes cloud security issues without breaking prod.
+2026-11-03T19:07:16Z,bobcat,0.1.0,,,2320,A Python package
+2026-11-03T19:07:44Z,airflow-provider-coworkingview,0.1.0,CoworkingView <info@coworkingview.com>,MIT,38733,"Apache Airflow provider for the CoworkingView Price Index: flexible-office rates for a city, from the public API, into XCom or a JSON file."
+2026-11-03T19:11:28Z,vivace,0.1.0,,,2321,A Python package
+2026-11-03T19:11:44Z,decdn,0.1.0,,MIT OR Apache-2.0,86795,"Python client for deCDN over a decdn gateway: verified fetches, bundles, loopback capabilities and namespace pointers."
+2026-11-03T19:11:56Z,1scribe,2.1.0,1Scribe,Apache-2.0,58650,"1Scribe: verify signed access documents, activate products, and vendor server helpers"
+2026-11-03T19:12:22Z,dancealgorithm,0.1.0,DanceAlgorithm Maintainer,MIT,120342,"DanceAlgorithm: Instant DAA Algorithms, Lab Problem Sheets, Datasets, and Code Vault."
+2026-11-03T19:12:29Z,bucketbag,0.4.0,Daniel van Strien,MIT,71309,"A minimal, toolz-style helper for batched, bounded-memory access to Hugging Face bucket files."
+2026-11-03T19:13:56Z,openai-fast-transform,0.1.0,Rasmus Faber-Espensen,MIT,32598,"An exact, compiled replacement for the openai SDK's request transform."
+2026-11-03T19:15:12Z,storeshot,0.1.0,Draggable <support@storeshot.art>,Apache-2.0,118622,Official Python SDK for the Storeshot API: App Store and Google Play marketing screenshots from raw app screenshots.
+2026-11-03T19:15:41Z,blu-sdk,1.0.0,BLU <corp@blu.luxe>,MIT,94152,BLU API client for Python. No dependencies.
+2026-11-03T19:16:27Z,sugo-cli,0.1.0a1,,AGPL-3.0-or-later,4008058,"Documents, reduced: local conversion of documents and screenshots into compact Markdown for LLMs and RAG."
