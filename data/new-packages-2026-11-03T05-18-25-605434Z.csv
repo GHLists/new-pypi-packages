@@ -1,0 +1,15 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T04:22:27Z,aftershock,0.1.0,Apoorv Bankey,MIT,196887,"Finds the exact lines a library, API or config change breaks in other code — verified, with file:line, never a risk score."
+2026-11-03T04:24:08Z,repofit,0.1.0,Taiheng Pan,MIT,154013,"Find GitHub projects that fit you, using what your coding agents already know about you."
+2026-11-03T04:24:22Z,moru-narrow,26.45.0,taehwandev,MIT,38232,"Narrow `rg -w <Name>` to the files and lines you must edit after a signature change (Kotlin+Gradle, TypeScript)."
+2026-11-03T04:27:23Z,claimprov,0.1.0a1,Sumin Lee,Apache-2.0,269587,Claim-level provenance and epistemic status tracking for multi-agent systems (PROV-O + SHACL)
+2026-11-03T04:33:01Z,axcua,0.0.0,AlgebraX,,1921,The AlgebraX workbench for computer-use agents. Not released yet; this version only reserves the name.
+2026-11-03T04:36:03Z,dropagent,0.2.0,DropAgent Labs,MIT,7952,Python client for the DropAgent ringless voicemail and SMS API.
+2026-11-03T04:39:15Z,answer-check-mcp,0.2.1,Abdullah Memon,AGPL-3.0-only,55065,"An MCP server that checks an AI agent's draft answer against its sources: figures, dates, citations and must/may wording, sentence by sentence; an optional LLM judge reads the prose."
+2026-11-03T04:39:26Z,py-streamhub,2.3.0,Kaveh Bakhtiyari,MIT,1132708,Web-based platform to launch and serve multiple Streamlit/Python apps behind one port
+2026-11-03T04:43:26Z,abo-lsr,0.3.0,Viswanath Parashuram Yadavalli,MIT,58222,Bayesian optimization with latent Gaussian HMM state recognition (ABO-LSR)
+2026-11-03T04:45:28Z,minimax-code-sdk,0.1.0b1,,MIT,80244,Python SDK for driving the local MiniMax Code (mcode) agent.
+2026-11-03T04:57:42Z,finport-datapipeline,0.1.0,"Alan Vazquez, Eduardo Ramos",MIT,494223,"A local, versioned store of public economic and company data: every revision kept, readable as of any date."
+2026-11-03T05:02:59Z,gesso-py,0.2.0,"Andrew Yang <andrew_j_yang@brown.edu>, Chichun Tan <chichun_tan@brown.edu>, Ying Ma <ying_ma@brown.…",MIT,14070335,GESSO: spatially informed gene set activity analysis
+2026-11-03T05:15:36Z,railhead-langchain,0.4.0,,,10905,"LangChain on Railhead — buyer tools to find, rank and hire capabilities over x402, and a wrapper to serve a Runnable"
+2026-11-03T05:17:28Z,octex,0.1.0,Dongfang Zhao <dzhao@cs.washington.edu>,Apache-2.0,18877729,Billion-scale vector search on NVIDIA GPUs by precomputed lattice neighbor lists
