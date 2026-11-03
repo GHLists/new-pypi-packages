@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T10:42:01Z,odoo-addon-sale-partner-sale-contact-website-sale,19.0.1.0.0.2,"ForgeFlow, Odoo Community Association (OCA)",LGPL-3,27238,Apply the sale contact auto-switch to eCommerce orders
+2026-11-03T11:19:24Z,ccres-labelling-tools,0.1.1,Jean-Francois Ribaud <jean-francois.ribaud@ipsl.fr>,AGPL-3.0,442400,A ACTRIS-CCRES package containing tools used to label National Facilities
+2026-11-03T11:24:02Z,minimindslab-path-parent-rank,0.1.0,MiniMindsLab,MIT,8246,Rank filesystem-like paths by depth from their parent count and return simple deterministic depth metrics for local path lists.
+2026-11-03T11:27:06Z,citewell,0.1.0,Ömer Özkılıç,MIT,97264,"Citation-grounded document memory for AI assistants. Offline, MCP-native, Turkish-ready."
+2026-11-03T11:27:12Z,scipion-chem-omnibind,3.3.3,Blanca Pueche Granados,,51313,Scipion framework plugin for the use of OmniBind models for protein-ligand interaction prediction
+2026-11-03T11:32:07Z,dopplerprint,0.1.0,Henry Alexander,MIT,78217472,Locate an audio recording from aircraft Doppler curves matched to historical ADS-B
+2026-11-03T11:33:36Z,zopy-takibiapi,0.1.0,nakita628,MIT,15584,"takibiapi with zopy (Zod for Python) schemas, checked strictly"
+2026-11-03T11:35:01Z,legesher-runtime,0.1.0,"""Madison (Pfaff) Edgar"" <7844510+madiedgar@users.noreply.github.com>",Apache-2.0,45948,Localized tracebacks and runtime exception hooks for Legesher
+2026-11-03T11:35:05Z,rocm-check,0.2.1,Thushar Pradeep,MIT,89566,Static scanner for CUDA-specific code that would break on AMD ROCm
+2026-11-03T11:36:37Z,usmartsg-mcp,1.0.0,,Apache-2.0,305934,Local MCP server for uSmart SG trading with user-owned credentials and a read-only safety mode
+2026-11-03T11:36:46Z,usmartsg-mcp-directory,1.0.0,,Apache-2.0,176261,"Read-only remote MCP server edition for the uSmart SG OpenAPI, for ChatGPT and Claude directories"
+2026-11-03T11:36:48Z,bottle-sqlite3,0.1.0,Kimikazu Kato,,9256,Add your description here
+2026-11-03T11:37:58Z,legesher-i18n,0.24.0,"""Madison (Pfaff) Edgar"" <7844510+madiedgar@users.noreply.github.com>",Apache-2.0,2557968,"Language packs for Legesher: version-aware loading, inheritance, and schema validation"
+2026-11-03T11:38:01Z,prodigy-ppl,0.1.0,Lutz Klinkenberg <lutz.klinkenberg@cs.rwth-aachen.de>,,1632740,PRObability DIstributions via GeneratingfunctionologY: analysis of probabilistic programs with generating functions
+2026-11-03T11:38:55Z,takibi-swagger-ui,0.1.0,nakita628,MIT,11182,Swagger UI middleware for a takibiapi app
+2026-11-03T11:43:22Z,prismal-webchat,0.1.0,Ernesto Crespo <ecrespo@gmail.com>,"MIT License Copyright (c) 2026 prismal-ai Permission is hereby granted, free of charge, to any pers…",135162,Embeddable web chat (Reflex BFF) for the prismal ecosystem
+2026-11-03T11:43:32Z,leakfinder-cli,0.1.0,Your Name <you@example.com>,MIT,12677,Find secrets in source code
+2026-11-03T11:46:23Z,neoomir-pypole,1.0.0,NeoMir Team,,26444,Official Python API client for Pole / NeoMir educational IDE
+2026-11-03T11:47:18Z,baldric,0.0.1,Ember452,MIT,2414,Reserved: work in progress. A Python coding-agent harness (forked from tau) — real release coming soon.
+2026-11-03T11:47:48Z,fastapi-notification,1.0.0,ARYAN-NIKNEZHAD,MIT,226782,A FastAPI package developed by Lazarus for efficiently handling notifications through various APIs
+2026-11-03T11:48:14Z,cellina,1.3.0,"Abdul Moeed, Stefan Schrod, Martin Rohbeck, Marc Jan Bonder, Pavlo Lutsik, Oliver Stegle, Daniel Di…","BSD 3-Clause License Copyright (c) 2025, Yosef Lab, Weizmann Institute of Science All rights reserv…",107313,Cellina: Dual-encoder VAE for spatial transcriptomics with adversarial domain forgetting
+2026-11-03T11:48:20Z,legesher-core,0.24.0,"""Madison (Pfaff) Edgar"" <7844510+madiedgar@users.noreply.github.com>",Apache-2.0,473861,"Translation engine for multilingual Python: keyword, builtin, and identifier rewriting"
+2026-11-03T11:50:30Z,legesher,0.24.0,"""Madison (Pfaff) Edgar"" <7844510+madiedgar@users.noreply.github.com>",Apache-2.0,213957,"Command-line tools to write, translate, and run Python in your own language"
+2026-11-03T11:50:49Z,veriview,5.6.0,Recep Salih,MIT,126506,"Schematics, an interactive viewer and a logic simulator for Verilog/SystemVerilog, built on Yosys and netlistsvg"
+2026-11-03T11:51:03Z,graffitty-graph-protocol,0.0.1.2,,MIT,48684,Pydantic messages and a small custom-node runtime for Graffitty
+2026-11-03T11:51:05Z,brevi,0.0.1,,Apache-2.0,2545,Brevi: a programming language for AI models that compiles to Rust. Name reserved; the compiler is coming soon.
+2026-11-03T11:51:48Z,pelosi-trade-finder,1.0.0,Mees Wijnants,MIT,12655,"List every official stock trade report (PTR) filed by Nancy Pelosi or any U.S. House member, straight from the House Clerk."
+2026-11-03T11:52:39Z,legesher-mcp,0.2.0,"""Madison (Pfaff) Edgar"" <7844510+madiedgar@users.noreply.github.com>",Apache-2.0,147237,Model Context Protocol (MCP) server for the Legesher translation engine
+2026-11-03T11:54:47Z,azarovo-hyper,0.0.2,Andrey Ferubko <ferubko1999@yandex.ru>,MIT,197588,"High-level Python API to create, configure and control KVM and Xen virtual machines through libvirt"
+2026-11-03T11:55:47Z,pysic-rs,0.2.0,HFThot Research Lab <contact@hfthot-lab.eu>,MIT,1413657,High-performance mathematical physics engine with Python bindings
+2026-11-03T12:00:52Z,legesher-language-server,0.2.0,"""Madison (Pfaff) Edgar"" <7844510+madiedgar@users.noreply.github.com>",Apache-2.0,282227,Language Server Protocol implementation for multilingual Python programming
+2026-11-03T12:00:56Z,pyside6-qtads-borco,0.0.0,Ioan Calin <iborco@gmail.com>,LGPL-2.1-or-later,2484,Name reservation for a planned PySide6 binding of Qt Advanced Docking System; this release contains no code
+2026-11-03T12:02:19Z,geoflux,0.0.0,,Apache-2.0,10440,Placeholder for the upcoming open-source geothermal reservoir simulator from ETH Zurich (currently developed as RAFT).
+2026-11-03T12:03:45Z,redberry-sdk,0.1.0,Redberry Labs,Apache-2.0,223913,Records an AI agent's model and tool calls with OpenTelemetry and sends them to the customer's Redberry install.
+2026-11-03T12:07:05Z,nestapi-py,1.0.0,Hossein Saberi <devh3n@duck.com>,MIT,28832,Dynamic sync and async Python client for the NestAPI web services
+2026-11-03T12:09:23Z,vlmbox,0.1.0,,MIT,86065,A lightweight research toolbox for vision-language models.
+2026-11-03T12:10:08Z,journette,0.0.1a0,"""High Dimensional Neurology Group, UCL"" <pypi@highdimensional.net>",BSD-3-Clause,5733,"An append-only journal of snapshots on network file shares, where the server's directory rename decides every race."
+2026-11-03T12:11:45Z,amr-mcp,0.1.0,,MIT,27195,"MCP server for antimicrobial resistance (AMR) data: NCBI Reference Gene Catalog, NCBI E-utilities and UniProt"
+2026-11-03T12:13:47Z,pyhoglake-variant-codec,0.1.0,PostHog,MIT,21790446,pyhoglake's VARIANT value codec (private to pyhoglake)
+2026-11-03T12:14:57Z,evenflow,0.3.0,,MIT OR Apache-2.0,4530978,Opinionated structural Rust linting alongside Clippy
+2026-11-03T12:15:29Z,wmts2mbtiles,0.1.1,,GPL-3.0-or-later,72989,"Fonds de carte en MBTiles à partir d'un service de tuiles WMTS ou XYZ (lidar2map, hike2gpx)"
+2026-11-03T12:16:08Z,nava-speech,1.0.0,,,2934,Python SDK for Nava offline Persian speech services
+2026-11-03T12:16:37Z,resumebuilder-tools,1.0.0,Subham Dawn <coder.sdawn@gmail.com>,MIT,166324,Profile-driven ATS-friendly resume generator engine for ResumeBuilder agent skills.
+2026-11-03T12:17:20Z,ufl-nonsmooth,2026.2,Benjamin Coveler,LGPL-3.0-or-later,126566,Native UFL and Firedrake calculus for local piecewise-smooth laws
+2026-11-03T12:17:25Z,forgingstack-mandate-check,0.2.0,,,9584,"Before your agent acts, check its mandate. One call, one receipt."
+2026-11-03T12:17:54Z,wopee_sdk,1.2.1,Wopee.io,,23031,"Python client for the Wopee.io visual testing API, used by wopee_rf"

@@ -1,34 +1,20 @@
 {
   "list": {
-    "count": 55,
-    "from": "2026-11-03T10:18:19.767508Z",
-    "path": "data/new-packages-2026-11-03T11-20-36-205415Z.csv",
-    "to": "2026-11-03T11:20:36.205415Z"
+    "count": 46,
+    "from": "2026-11-03T11:20:36.205415Z",
+    "path": "data/new-packages-2026-11-03T12-18-23-263107Z.csv",
+    "to": "2026-11-03T12:18:23.263107Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-03T10:35:46Z",
       "package": "astrametrix",
       "since": "2026-11-03T10:18:19.767508Z",
       "version": null
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-03T11:19:24Z",
-      "package": "ccres-labelling-tools",
-      "since": "2026-11-03T10:18:19.767508Z",
-      "version": null
-    },
-    {
       "attempts": 4,
-      "created_at": "2026-11-03T07:34:30Z",
-      "package": "coakka-http",
-      "since": "2026-11-03T07:18:23.117057Z",
-      "version": "1.1.2"
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-03T08:38:21Z",
       "package": "mistralai-blokhus",
       "since": "2026-11-03T08:20:03.697357Z",
@@ -36,20 +22,13 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-03T10:42:01Z",
-      "package": "odoo-addon-sale-partner-sale-contact-website-sale",
-      "since": "2026-11-03T10:18:19.767508Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-03T07:26:41Z",
-      "package": "ravens-ai",
-      "since": "2026-11-03T07:18:23.117057Z",
-      "version": "0.7.0"
+      "created_at": "2026-11-03T12:17:43Z",
+      "package": "pzem-014-016-modbus",
+      "since": "2026-11-03T11:20:36.205415Z",
+      "version": "0.1.0"
     }
   ],
-  "serial": 43135957,
+  "serial": 43137925,
   "source_truncated": false,
-  "window": "2026-11-03T11:20:36.205415Z"
+  "window": "2026-11-03T12:18:23.263107Z"
 }
