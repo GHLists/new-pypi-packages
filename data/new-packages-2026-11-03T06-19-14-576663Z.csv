@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T05:20:54Z,10x-cloud-storage-manager,0.2.0,MUTHARASU A <mutharasu39@gmail.com>,"MIT License Copyright (c) 2024 MUTHARASU a Permission is hereby granted, free of charge, to any per…",37954,"A unified async interface for AWS S3, Google Cloud Storage and Azure Blob Storage"
+2026-11-03T05:22:34Z,wadler-lindig-parts,0.1.0,Nathaniel Starkman <nstarman@users.noreply.github.com>,BSD-3-Clause,71549,"A parts layer over wadler-lindig: one engine behind repr, str, format and markup."
+2026-11-03T05:23:58Z,nicebot,0.1.0,Ozodbek Sobirjonovich,MIT,276887,"Telegram botlar uchun eng qulay Python kutubxonasi: kam kod, ichki ORM, tugmalar, suhbatlar, Mini App — hammasi bitta importda."
+2026-11-03T05:38:08Z,velox-guardrails,0.1.0,Velox,MIT,31894,"Small, dependency-free guardrails for LLM apps: injection filter, PII masking, budget and retry limits, circuit breaker, JSON repair."
+2026-11-03T05:47:02Z,zerodb-dagster,0.1.0,AINative Studio <dev@ainative.studio>,MIT,27881,"Dagster I/O manager, sensor, and resource for ZeroDB -- the free, auto-provisioning vector + relational database for AI and data pipelines. Store Dagster assets, trigger runs from ZeroDB events, no s…"
+2026-11-03T05:47:10Z,ainative-ai-sdk-provider,0.1.0,AINative Studio <dev@ainative.studio>,MIT,45126,"Python SDK for AINative's multi-provider AI inference API: chat completions, streaming, and agentic tool-calling over one interface, with server-side routing and automatic fallback across Cerebras, M…"
+2026-11-03T05:51:40Z,objorthorender,1.0.3,UVE <uve1048@foxmail.com>,MIT,53803,"Render textured 3D OBJ meshes into georeferenced GeoTIFF orthophotos (DOM), with block-wise rendering and headless Docker support."
+2026-11-03T05:54:13Z,kosa8,0.1.0,,MIT,41518,"Python client for the kosa8 native API: microVM sandboxes for AI agents, with checkpoint, rewind, fork and explore."
+2026-11-03T05:54:42Z,tba-concrete-workload-identity,0.4.0.dev2,,Apache-2.0,3037,Standalone concrete workload identity model.
+2026-11-03T05:54:43Z,quillbench,1.4.1,A.C. Pogaku,QuillBench Academic Non-Commercial License Copyright (c) 2026 A.C. Pogaku. All rights reserved. The…,246661,Build benchmark datasets with human annotators: a config-driven annotation platform for research.
+2026-11-03T05:56:57Z,tba-concrete-identity-principals,0.4.0.dev2,,Apache-2.0,9910,"Principal construction, tenant membership, subject alias, and in-memory directory helpers for Tigrbl IAM deployments."
+2026-11-03T05:59:33Z,tba-concrete-jwe,0.4.0.dev2,,Apache-2.0,5311,Deterministic provider-free JWE compact serialization objects.
+2026-11-03T06:01:31Z,tba-concrete-jws,0.4.0.dev2,,Apache-2.0,6256,Deterministic provider-free JWS compact serialization objects.
+2026-11-03T06:02:24Z,hlahaplotools,0.1.0rc2,Fredrick M. Mobegi,GPL-3.0-or-later,4363656,"Extended HLA and MHC haplotypes in families and populations: pedigree phasing, and EM frequency estimation that keeps untyped and half-typed loci"
+2026-11-03T06:03:07Z,quilt-context-lake,0.2.0,,"MIT License Copyright (c) 2026 Quilt Data Permission is hereby granted, free of charge, to any pers…",138753,"Deterministic context automation: collect, normalize, index, reconcile and publish."
+2026-11-03T06:04:04Z,tba-concrete-jwt,0.4.0.dev2,,Apache-2.0,4293,Deterministic provider-free JWT structural objects.
+2026-11-03T06:06:21Z,tba-concrete-jwt-svid-credential,0.4.0.dev2,,Apache-2.0,3135,Standalone JWT-SVID credential object.
+2026-11-03T06:06:25Z,scaffold-jam,0.2.0,Scaffold,LicenseRef-Proprietary,217885,Scaffold command-line client: connect local coding agents to multiplayer rooms
+2026-11-03T06:08:26Z,tba-concrete-mdoc-credential,0.4.0.dev2,,Apache-2.0,2863,
+2026-11-03T06:09:02Z,viir-cli,1.0.0,Viir Phuria,MIT,22948,"Official CLI tool for viir.tech — Viir Phuria Portfolio, Research & AI Agent Gateway"
+2026-11-03T06:10:28Z,tba-concrete-mdoc,0.4.0.dev2,,Apache-2.0,10200,
+2026-11-03T06:11:59Z,mergo-cli,0.1.0,,LicenseRef-Proprietary,80407,Command-line client for the OpsAI Open API
+2026-11-03T06:12:31Z,tba-concrete-mfa-factor,0.4.0.dev2,,,2994,
+2026-11-03T06:14:47Z,tba-concrete-mtls-confirmation-binding,0.4.0.dev2,,Apache-2.0,4605,Deterministic mTLS confirmation binding validation.
+2026-11-03T06:16:34Z,tba-concrete-oidc-id-token,0.4.0.dev2,,Apache-2.0,3023,Standalone OIDC ID Token structural object.
+2026-11-03T06:18:02Z,kicad-review,0.1.0,Yusuke Yamazaki,MIT,256160,"Review KiCad schematics (two versions or one design) and boards with a coding agent, on a local web page"
+2026-11-03T06:18:42Z,tba-concrete-pairwise-subject-identifier,0.4.0.dev2,,,2804,
