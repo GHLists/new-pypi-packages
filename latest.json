@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 57,
-    "from": "2026-11-03T16:20:08.66238Z",
-    "path": "data/new-packages-2026-11-03T17-21-30-03491Z.csv",
-    "to": "2026-11-03T17:21:30.03491Z"
+    "count": 39,
+    "from": "2026-11-03T17:21:30.03491Z",
+    "path": "data/new-packages-2026-11-03T18-19-25-326238Z.csv",
+    "to": "2026-11-03T18:19:25.326238Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-03T15:01:10Z",
       "package": "factlane",
       "since": "2026-11-03T14:18:22.049613Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-03T13:34:24Z",
-      "package": "hijuko-pilara",
-      "since": "2026-11-03T13:19:06.005174Z",
-      "version": "1.0.0"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-03T16:35:28Z",
       "package": "perkbridge-connect-client",
       "since": "2026-11-03T16:20:08.66238Z",
       "version": null
     }
   ],
-  "serial": 43151540,
+  "serial": 43154124,
   "source_truncated": false,
-  "window": "2026-11-03T17:21:30.03491Z"
+  "window": "2026-11-03T18:19:25.326238Z"
 }

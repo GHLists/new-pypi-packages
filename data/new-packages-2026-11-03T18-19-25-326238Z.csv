@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T17:23:06Z,spyglass-c3po,0.1.0,Samuel R Bray <sam.bray@ucsf.edu>,"MIT License Copyright (c) 2026 Samuel Bray Permission is hereby granted, free of charge, to any per…",111729,Spyglass extension for the C3PO latent inference package
+2026-11-03T17:24:37Z,object-summary-minal,0.1.0,Minal,MIT,6243,A Python utility for automated categorical data summarization
+2026-11-03T17:24:57Z,alpr-sdk,0.1.0,,MIT,35548,"Alpr.sh's SDK for Python: license-plate recognition on photos, readings, cameras and webhooks."
+2026-11-03T17:25:35Z,reel-studio,0.2.1,Murathan Yıldırım,MIT,184026,"Make marketing reels, ads and posts with code, for any brand, with Claude Code. HTML on one clock → MP4."
+2026-11-03T17:26:02Z,kopitools,1.1.0,,,7994,"Logs, painted strings, system arguments..."
+2026-11-03T17:27:53Z,kunji,0.1.0,Kunji contributors,Apache-2.0,101110,"Bring your own key. Every AI model in one clean, professional terminal."
+2026-11-03T17:27:57Z,phynetpy-rs,0.8.0,Mark Kessler <mak17@rice.edu>,MIT,16185466,"PhyNetPy with a Rust core: a library and framework for phylogenetic network inference, analysis, simulation and tooling. Installs the phynetpy package."
+2026-11-03T17:28:13Z,boomerang-zulip-notifier,1.0.0,Julien Weber,Apache-2.0,63543,Boomerang Zulip notifier.
+2026-11-03T17:28:31Z,langchain-lanerouter,0.1.0,LaneRouter,MIT,13821,"LangChain tools for LaneRouter: live road conditions for the agent web. Check a website or API before your agent acts, report what happened after."
+2026-11-03T17:30:15Z,dex-connector-cloudflare,0.1.0,,MIT,90524,Cloudflare connector for Dex Flows
+2026-11-03T17:30:27Z,cusscut,0.1.0,,,23071,CLI для автоматической цензуры речи в аудио и видео
+2026-11-03T17:33:09Z,palkocat,1.0.0,"Fabian Ketter <ketter@itmc.rwth-aachen.de>, Stefan Palkovits <stefan.palkovits@itmc.rwth-aachen.de>…",MIT,88313,PalkoCAT (Palkovitslab Calculation & Analysis Toolbox): convenient tools for everyday work in catalysis and electrochemistry labs
+2026-11-03T17:34:37Z,dpaa,0.0.6,"Nikita Dukin, Egor Klimov, Saga Rut Sunnevudóttir, Vladimir Muzhichenko",,68340,Evaluation metrics for repeated AI-agent attempts
+2026-11-03T17:35:05Z,dagship,0.0.1,,Apache-2.0,2954,"Name placeholder for Dagship, build data and ML workflows once and ship them to any runtime. The first real release is 0.1.0."
+2026-11-03T17:39:12Z,ferrolint-django,1.0.0,,MIT,78591,Pylint-django's rules as a ferrolint plugin
+2026-11-03T17:39:39Z,envparity,0.1.0,Pratham Shettigar <shettigarpratham6@gmail.com>,MIT,7993,Check environment variable parity between Python AST and .env.example
+2026-11-03T17:41:23Z,lambdawalker-draw,0.1.0,LambdaWalker <lambdawalker@isdavid.com>,,1932954,Drawing and geometric generative design tools for LambdaWalker
+2026-11-03T17:44:57Z,lambdawalker-generate,0.1.0,LambdaWalker <lambdawalker@isdavid.com>,,77035,Synthetic data and field generators for LambdaWalker
+2026-11-03T17:49:28Z,modrelease,0.2.0,,MIT,48556,"Get a game mod ready for release: no personal data or secrets in the files, reproducible zip, VirusTotal check, Nexus Mods upload and quarantine email"
+2026-11-03T17:49:35Z,openplay,0.1.0,Noah Bair <noahlbair@gmail.com>,MIT,23815,"Open men's soccer event data (every pass, shot and tackle with coordinates) with xG on every shot"
+2026-11-03T17:50:02Z,tikstractormf,1.0.0,ExtractorsMF,GPL-3.0-only,256496,Python library for TikTok - media download by post_id with Netscape cookies auth (gallery-dl compatible)
+2026-11-03T17:50:36Z,polydeukes,0.23.0,,MIT,4900687,"The Polydeukes covenant judge: covenant check, init, explain and docs, with pdks-<name> executables on PATH run as pdks <name>."
+2026-11-03T17:50:41Z,polydeukes-claude-code,0.23.0,,MIT,2646315,The Polydeukes host adapter that connects Claude Code to the pdks covenant judge.
+2026-11-03T17:50:45Z,polydeukes-codex,0.23.0,,MIT,2590576,The Polydeukes host adapter that connects Codex to the pdks covenant judge.
+2026-11-03T17:50:50Z,polydeukes-memory,0.23.0,,MIT AND CC-BY-SA-4.0,10313609,"The Polydeukes memory extension, run as pdks memory: answers from the markdown files on every run and keeps no index file."
+2026-11-03T17:51:13Z,lambdawalker-dataset,0.1.0,LambdaWalker <lambdawalker@isdavid.com>,,23419,Dataset and DataProvider management tools for LambdaWalker
+2026-11-03T17:52:58Z,webstat,0.1.0,h45sh,MIT,38225,"Fast website status checker, recovery watcher, and desktop reminder"
+2026-11-03T17:54:42Z,veil-api-kit,0.10.0,aofusa,Apache-2.0 OR MIT,60113,"Helpers for veil-api: cookies, sessions, CORS, security, static files, GraphQL, gRPC client, DI, tasks"
+2026-11-03T17:57:48Z,voeglein,0.4.0,Idamus Voeglein <voeglein@allanin.org>,BSD-3-Clause-No-Military-License,3012,Gibt den Liedtext ...Alle Vöglein sind schon da... aus
+2026-11-03T17:58:12Z,walkthrough,0.0.0,Interjektio <info@interjektio.fi>,,1748,"Placeholder for walkthrough, an upcoming code-review tool by Interjektio. Contains no code."
+2026-11-03T17:58:48Z,python-lab-toolkit,1.0.0,Python Lab Toolkit Developers <dev@pylabtoolkit.org>,MIT,392249,A beginner-friendly CLI and toolkit to generate 52 complete Python lab solutions with automated dataset management.
+2026-11-03T17:58:52Z,uni-robot-agent-runtime,0.1.1,,MIT,2605186,Native service runtime for uni-robot-agent; install in a separate environment
+2026-11-03T18:01:14Z,xnft-lemma-scanner,1.0.1,"LEmmA Group, Michigan State University",LicenseRef-Proprietary,11129,Antenna measurement and analysis software.
+2026-11-03T18:03:03Z,sppu-mlpracticals,0.1.0,Abhijeet Upadhye,MIT,53285,Python practicals for SPPU AI and Data Science students
+2026-11-03T18:04:35Z,pixlub,0.3.0,,MIT,84521,Official Python SDK for the Pixlub image API.
+2026-11-03T18:07:10Z,pq-http-message-signatures,0.1.0,PQ-HTTP contributors,MIT,79816,"Post-quantum HTTP Message Signatures (RFC 9421 + C2SP httpsig-pq, ML-DSA / FIPS 204) for Python"
+2026-11-03T18:13:05Z,nexerra,1.0.0,Dhruv Menon <dm958@cam.ac.uk>,"MIT License Copyright (c) 2026 Dhruv Menon Permission is hereby granted, free of charge, to any per…",26009905,Nexerra-R1: a chemical language model for reticular materials design
+2026-11-03T18:15:36Z,dlt-doctor,0.4.0,Mansi Dhruv <mansi.p.dhruv@gmail.com>,Apache-2.0,92322,"Production optimization engine and quality accelerator for Databricks Delta Live Tables, Auto Loader, and PySpark pipelines"
+2026-11-03T18:18:05Z,prasadapp-shapes,1.0.0,Python Developer,,2928,My own Python patterns package
