@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T01:29:04Z,zacahuil,0.1.2,Julio Salazar <juliocsp03@gmail.com>,,12415,Cliente del sistema de almacenamiendo en memoria ESS v2026_2
+2026-11-04T01:33:20Z,harnessweaver,0.18.0,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,621747,"The composable AI harness framework. Weave your own AI harness: bring your models, choose your plugins, define your execution."
+2026-11-04T01:33:27Z,harnessweaver-anthropic,0.2.0,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,36206,HarnessWeaver plugin: Anthropic models.
+2026-11-04T01:33:29Z,harnessweaver-cel,0.1.1,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,17698,HarnessWeaver plugin: CEL policies.
+2026-11-04T01:33:31Z,harnessweaver-cli,0.7.1,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,146943,Developer tooling for HarnessWeaver: the harnessweaver command.
+2026-11-04T01:33:47Z,keeploop,0.2.0,,MIT,382068,"An autoresearch-style keep/discard loop for any git repo, with cross-vendor audit, deterministic QC gates, a never-repeat lesson engine and a trend scout."
+2026-11-04T01:44:18Z,snoop-cli,0.2.1,,MIT,14216393,"A terminal viewer for Claude Code sessions: follow one live, or see what any past one cost, changed and spent its time on."
+2026-11-04T01:45:14Z,rulestamp-hospital-mrf-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38013,"15 offline rules read your standard charges JSON the way 45 CFR Part 180 and the CMS template do - the dirty sample returns 17 findings, 15 errors (bundled Node.js runtime)"
+2026-11-04T01:45:22Z,rulestamp-cnpj-alfanumerico-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34920,"Acha regex \d{14}, replace(/\D/g), parseInt no DV e coluna BIGINT antes que recusem o CNPJ alfanumérico (IN RFB nº 2.229/2024) (bundled Node.js runtime)"
+2026-11-04T01:45:39Z,rulestamp-connection-string-secret-audit,0.1.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33073,"26 rules and 32 safe-replacement snippets for hardcoded connection strings, keys and kubeconfigs across 8 VS Code stacks. Runs on your machine and sends nothing anywhere. (bundled Node.js runtime)"
+2026-11-04T01:45:56Z,rulestamp-consent-proof-record-lint,1.0.6,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34836,Reads the consent record your code stored and names every proof field GDPR Article 7(1) needs and your log is missing. (bundled Node.js runtime)
+2026-11-04T01:46:32Z,opendsec,0.1.0,Vibrant Labs,Apache-2.0,17895,Async Python client for opendsec: open-source Sandboxes for RL rollouts.
+2026-11-04T01:46:54Z,opendsec-harbor,0.1.0,Vibrant Labs,Apache-2.0,32766,Harbor environment provider for opendsec: run each Harbor trial as an opendsec World.
+2026-11-04T01:53:24Z,marshal-branch-manager,4.0.1,Andrew Leech <andrew@alelec.net>,MIT,18096608,Tool for managing MicroPython fork integration branches
+2026-11-04T01:54:09Z,go2tool,0.1.0,Dimensional Inc.,Apache-2.0,23728,Set up Unitree Go2 robots: Bluetooth Wi-Fi provisioning and LAN/BLE discovery
+2026-11-04T01:59:05Z,tatolab-h264,0.68.19,Jonathan Fontanez <fontanezj1@gmail.com>,BUSL-1.1,1342728,"H.264 encode and decode for Tatolab streams, on a Vulkan device the module owns."
+2026-11-04T01:59:09Z,tatolab-h265,0.68.19,Jonathan Fontanez <fontanezj1@gmail.com>,BUSL-1.1,1343416,"H.265 encode and decode for Tatolab streams, on a Vulkan device the module owns."
+2026-11-04T02:04:17Z,xai-lab-ese,1.0.0,Amey Jagannath Sonvadkar,MIT,578035,"XAI lab ESE: 10 explainable-AI experiments with exam-style code, original lab notebooks and how-to-solve theory with viva questions"
+2026-11-04T02:04:44Z,af-jupyterhub-mcp,0.1.0,Giordon Stark <kratsg@gmail.com>,Apache-2.0,182985,MCP Server for launching and driving per-user JupyterHub servers on the ATLAS Analysis Facility
+2026-11-04T02:06:17Z,ohamlab-harness,0.1.0b1,OhamLab,Proprietary - verify repository license before publication,11812,Installer and launcher for OhamLab DeepSeek Harness
+2026-11-04T02:06:53Z,sandbox-kit-a8c9,0.1.15944515,,,1919,Build-integrity fixture. Not a real library.
+2026-11-04T02:08:10Z,torqos-directory,0.0.0,Fisher & Paykel Technologies <fpt.digitalnz@fisherpaykel.com>,,2461,
+2026-11-04T02:15:07Z,teapottrainer,0.1.0,Zakery Clarke <zakerytclarke@gmail.com>,MIT,91987,"A modular, config-driven library for training LLMs."
+2026-11-04T02:17:50Z,nppx,0.1.0,,MIT,3189,"Dead-simple Claude client: import and ask, conversation and file ingest built in."
+2026-11-04T02:17:59Z,c-spikes,0.2.0rc1,Gerard Joey Broussard <gerardjb@princeton.edu>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",155506096,End-to-end fluorescence to spike inference procedure
