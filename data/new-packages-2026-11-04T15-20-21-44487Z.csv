@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T14:22:24Z,somestuff-broadlinkstuff,0.2.0,Henning Thieß <ht@xomox.cc>,,79175,"Broadlink RM4 IR/RF blaster tooling: device fleet without broadcast, IR/RF learning and sending, Coolix (Midea) climate codec, Typer CLI, HTTP API in front of per-room scripts"
+2026-11-04T14:22:27Z,somestuff-netatmostuff,0.1.0,Henning Thieß <ht@xomox.cc>,,70902,"Netatmo weather station client (bundles lnetatmo, GPLv3) and MQTT publisher loop for temperature, rain and pressure"
+2026-11-04T14:22:31Z,somestuff-ecowittstuff,0.1.0,Henning Thieß <ht@xomox.cc>,,19386,Ecowitt weather station API client (typed with Pydantic) and MQTT publisher loop for the realtime readings
+2026-11-04T14:22:42Z,sc2nachos,0.1.0,Max Nusspickel <max.nusspickel@gmail.com>,MIT,2834263,NachOS — an event-driven StarCraft II bot API for Python
+2026-11-04T14:22:45Z,somestuff-hydromailstuff,0.1.0,Henning Thieß <ht@xomox.cc>,,45362,"Daily status email assembled from MQTT water-level readings and Netatmo rain/temperature data (Jinja2 template, SMTP via reputils)"
+2026-11-04T14:27:53Z,protonic,0.1.0,Kyle Gallagher <kidlucrid@gmail.com>,MIT,61707,Instant OS App Prototyping & Declarative UI Engine
+2026-11-04T14:29:18Z,tba-runtime-identity-storage,0.4.0.dev2,,Apache-2.0,103789,Runtime execution helpers for TBA identity storage migrations and provider-bound storage lifecycle wiring.
+2026-11-04T14:29:30Z,lanmess,1.1.0,,MIT,41160,LAN-only end-to-end encrypted messenger with a TUI
+2026-11-04T14:31:24Z,tba-runtime-relying-party-session,0.4.0.dev3,,Apache-2.0,4427,Server-side RP login transaction and one-time state runtime.
+2026-11-04T14:31:41Z,identific,0.1.5,Sari Lakkis,,16029,Identitific Library
+2026-11-04T14:32:14Z,ccs-selfcheck,0.1.0,Correctover <wangguigui@correctover.com>,MIT,4248,"One-file self-audit for MCP servers & agent tool surfaces: 5 risk classes + sample signed receipts. Zero deps, nothing leaves your machine."
+2026-11-04T14:32:27Z,pystac-ext-order,1.1.0,"Terradue <info@terradue.com>, Simone Tripodi <simone.tripodi@terradue.com>, Fabrice Brito <fabrice.…",Apache-2.0,28691,STAC Order Extension Specification PySTAC implementation.
+2026-11-04T14:33:35Z,tba-capability-access-governance,0.4.0.dev2,,Apache-2.0,5267,Access governance and provisioning capability.
+2026-11-04T14:35:52Z,tba-capability-account-self-service,0.4.0.dev2,,Apache-2.0,5896,Composable protocol-neutral current-account self-service capability.
+2026-11-04T14:36:03Z,chefkoch-cli,0.1.1,smlfg <186922365+smlfg@users.noreply.github.com>,MIT,42102,"Chefkoch.de-Rezepte im Terminal: Suche, Rezeptdetails, Einkaufsliste und Watch"
+2026-11-04T14:36:42Z,chefkoch-mcp,0.1.0,smlfg <186922365+smlfg@users.noreply.github.com>,MIT,16312,"MCP-Server für Chefkoch.de: Rezepte suchen, anzeigen und Einkaufslisten erstellen"
+2026-11-04T14:37:26Z,e2x-hub-announcements,0.1.0rc0,Tim Metzler <tim.metzler@h-brs.de>,MIT,35795,"A JupyterHub service for page-targeted, severity-styled announcements with expiry, rendered by the hub without restarts."
+2026-11-04T14:38:19Z,tba-capability-adaptive-authentication,0.4.0.dev2,,Apache-2.0,4142,Adaptive-authentication decision capability.
+2026-11-04T14:40:35Z,tba-capability-administrative-resource,0.4.0.dev2,,Apache-2.0,9842,Generic administrative-resource lifecycle capability.
+2026-11-04T14:43:08Z,tba-capability-api-key-authentication,0.4.0.dev2,,Apache-2.0,4824,API-key authentication capability.
+2026-11-04T14:45:14Z,mason-databricks,0.1.0,,Apache-2.0,187024,Bring the software development lifecycle to Databricks pipelines
+2026-11-04T14:45:32Z,vps-deployer,1.3.0,,BUSL-1.1,101967,Manage isolated systemd deployments on existing VPS hosts over SSH
+2026-11-04T14:45:37Z,tba-capability-artifact-processing,0.4.0.dev2,,Apache-2.0,3256,"Protocol-neutral artifact decode, validate, encode, and error-mapping capability."
+2026-11-04T14:47:07Z,n8n-workflow-linter,1.1.0,,MIT,17076,Static production-readiness linter for exported n8n workflows
+2026-11-04T14:47:08Z,inTandem,0.1.0,Jack Mumo,MIT,161397,Let a cheaper model write the code while your best model plans and reviews it
+2026-11-04T14:47:39Z,tba-capability-attestation-appraisal,0.4.0.dev2,,Apache-2.0,3930,Attestation appraisal capability composition.
+2026-11-04T14:48:38Z,docworm,0.6.0a1,Hopperbase <dev@docworm.ai>,Apache-2.0,48772,"DocWorm SDK — document indexing, knowledge graphs, reasoning RAG, and chat"
+2026-11-04T14:49:51Z,tba-capability-authenticator-attestation,0.4.0.dev2,,Apache-2.0,4774,Composable authenticator attestation appraisal capability.
+2026-11-04T14:50:18Z,wombat-gate,0.8.0,liyifreddy,MIT,134619,One at a time through the burrow: a git commit queue for many AI agents sharing one working tree.
+2026-11-04T14:52:20Z,relayline,0.6.0,,MIT,1996644,"Claude Code, Codex and DeepSeek as each other's lead or sub-agent (Gemini CLI: sub-agent adapter, not run for real): routing, shared skills/MCP/incremental memory, resumable runs, token accounting"
+2026-11-04T14:52:21Z,tba-capability-authorization-request-staging,0.4.0.dev2,,Apache-2.0,5716,Composable protocol-neutral pushed-authorization persistence capability.
+2026-11-04T14:54:03Z,nexobots,0.1.0,,MIT,6410,"Post stats and check votes on Nexobots, the Discord bot directory."
+2026-11-04T14:54:16Z,tba-capability-client-registration,0.4.0.dev2,,Apache-2.0,6207,Composable protocol-neutral client registration lifecycle capability for TBA.
+2026-11-04T14:56:23Z,tba-capability-client-secret-authentication,0.4.0.dev2,,Apache-2.0,4538,Client-secret authentication capability.
+2026-11-04T14:57:13Z,hisinone-cli,0.1.1,smlfg <186922365+smlfg@users.noreply.github.com>,MIT,38394,"HISinOne-Campusportale im Terminal: Vorlesungsverzeichnis, Stundenplan und Leistungen"
+2026-11-04T14:57:39Z,hisinone-mcp,0.1.0,smlfg <186922365+smlfg@users.noreply.github.com>,MIT,21560,"MCP-Server für HISinOne: Veranstaltungen suchen, Details, Stundenplan und Noten lesen"
+2026-11-04T14:58:28Z,watchdog-sdk,0.7.0,Watchdog contributors,MIT,33832,"Watchdog SDK for Python: error tracking, performance tracing and metrics for your self-hosted Watchdog server"
+2026-11-04T14:58:53Z,tba-capability-delegated-access-negotiation,0.4.0.dev2,,Apache-2.0,5368,Composable protocol-neutral grant negotiation capability.
+2026-11-04T14:59:12Z,quorumz,0.1.0,Quorumz <support@quorumz.com>,MIT,47055,"Python client for the Sense by Quorumz agent API: geo-tagged news split into viewpoints, paid by API key or x402."
+2026-11-04T15:00:11Z,jaigateway-monitor,1.4.0,,MIT,227200,"Python SDK for Insight error monitoring: background delivery, retries, breadcrumbs, first-class integrations for Django, Flask, FastAPI, Litestar, Sanic, aiohttp, Tornado, Quart, Pyramid, Bottle, Fal…"
+2026-11-04T15:02:36Z,schepper,0.1.0,,MPL-2.0,46310,Declarative manager for Docker Sandboxes (sbx)
+2026-11-04T15:04:00Z,livingbrain-sdk,0.3.1,,,318358,
+2026-11-04T15:06:21Z,citadel-shield,3.0.2,Lucas Bailey & WhiteMagic Sangha <ops@whitemagic.dev>,,456545,"Thermodynamic, negative-expected-value (-EV) active cyberdefense framework for modern web and decentralized infrastructure."
+2026-11-04T15:06:43Z,uteAI,0.2.0,Dung Cai <dung.cai@hcmute.edu.vn>,MIT,25145,"Advanced AI, Neural Network, and Edge Engine Library from HCMUTE"
+2026-11-04T15:06:55Z,steep-leaf-utils,0.1.0,T. Leaffield,MIT,6560,"Small helpers for tea enthusiasts: steep-time calculator, water temperature conversion, and tasting notes."
+2026-11-04T15:07:00Z,tuya-local-mcp,0.3.0,Johann 'M' Nestorida,MIT,196905,Zero-cloud LAN controller for Tuya / Smart Life bulbs: an MCP server for Claude Code plus a TrueColor CLI.
+2026-11-04T15:10:09Z,evalgate-ai,0.1.0,Josep Audenis,MIT,68848,Local-first AI regression testing and release decision engine.
+2026-11-04T15:11:47Z,pplx-context-mlx,0.1.0,Merchantry LLC,MIT,69209,Perplexity pplx-embed-v2-context contextual embeddings on Apple silicon with MLX
+2026-11-04T15:13:09Z,sursolver,0.1.0,SurSolver,MIT,33455,"Official Python captcha solver API client for reCAPTCHA v3, Cloudflare Turnstile, Cloudflare Challenge, GeeTest, DataDome, AWS WAF, Akamai, Kasada and image captchas."
+2026-11-04T15:17:30Z,strable,0.1.0,"Myung Jun Kim, Félix Lefebvre, Lennart Purucker, Alan Arazi, Eilam Shapira, Roi Reichart, Frank Hut…",BSD-3-Clause,1042579,STRABLE: Benchmarking Tabular Machine Learning with Strings
+2026-11-04T15:18:28Z,poli-page-fastapi,0.13.0,Poli Page,MIT,31583,FastAPI integration for the Poli Page PDF rendering API
+2026-11-04T15:18:30Z,django-poli-page,0.13.0,Poli Page,MIT,33521,Django reusable app for the Poli Page PDF rendering API
+2026-11-04T15:19:55Z,ai-editor-tree-sitter-bsl,0.1.7.1,alkoleft,MIT,307388,1C (BSL) tree-sitter grammar: ai-editor build of alkoleft/tree-sitter-bsl with an extended identifier alphabet
