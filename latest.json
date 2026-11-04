@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-11-04T12:18:30.443035Z",
-    "path": "data/new-packages-2026-11-04T13-20-04-124228Z.csv",
-    "to": "2026-11-04T13:20:04.124228Z"
+    "count": 54,
+    "from": "2026-11-04T13:20:04.124228Z",
+    "path": "data/new-packages-2026-11-04T14-20-34-730325Z.csv",
+    "to": "2026-11-04T14:20:34.730325Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-04T12:37:55Z",
       "package": "qinterviewer_bot_types",
       "since": "2026-11-04T12:18:30.443035Z",
       "version": "3.6.16"
     }
   ],
-  "serial": 43190494,
+  "serial": 43192901,
   "source_truncated": false,
-  "window": "2026-11-04T13:20:04.124228Z"
+  "window": "2026-11-04T14:20:34.730325Z"
 }

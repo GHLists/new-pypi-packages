@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T13:21:02Z,pyskby,0.2.4,wly,MIT,220478,SKBY（时空变源混合产流）水文模型的 Python 版 —— 由 Java 版 SKBY 完整移植
+2026-11-04T13:21:29Z,modeldive,0.0.1,Joanna Zarnecka,MIT,2906,"Readable, publication-quality diagrams of neural network architectures, extracted automatically from the model."
+2026-11-04T13:27:48Z,hartley,0.1.0,Joao Lopes,MIT,2577,Project tooling (early placeholder release)
+2026-11-04T13:27:57Z,valsa,0.1.0,Joao Lopes,MIT,2548,Project tooling (early placeholder release)
+2026-11-04T13:28:32Z,cosmos-semantic,0.1.0,Wiliam Rosa,Apache-2.0,486827,"A semantic layer with its own engine: governed metrics, business rules and a glossary for AI agents and BI, with verifiable numbers"
+2026-11-04T13:29:01Z,telegram-gifts-price,0.1.0,Atlan,"MIT License Copyright (c) 2026 Atlan Permission is hereby granted, free of charge, to any person ob…",10517,"Floor price of every Telegram NFT gift (Plush Pepe, Durov's Cap...) in GRAM, USD and EUR from a free JSON API. No key, no dependencies."
+2026-11-04T13:30:36Z,bvg,1.0.1,BVG contributors,MIT,43867,BVG - Universal Binary Vector Graphics container
+2026-11-04T13:31:19Z,kopitehnik-print-mcp,1.8.0,Ildar Giv,Free for personal use and one workstation; see the KopiTehnik Print Licence,10622,MCP stdio bridge to KopiTehnik Print: let an AI agent prepare and print photos on a real printer (Windows)
+2026-11-04T13:31:28Z,kopitehnik-converter-mcp,3.5.2,Ildar Gaisin,AGPL-3.0,10246,"MCP stdio bridge to KopiTehnik Converter: let an AI agent convert, lay out and print photos on Windows"
+2026-11-04T13:32:26Z,harbor-voice-tau-voice-adapter,0.1.0,amoh-ai,Apache-2.0 AND MIT,212114,"harbor-voice's adapter for τ-Voice, tau3-bench's full-duplex voice benchmark."
+2026-11-04T13:34:20Z,harbor-voice-eva-adapter,0.1.0,amoh-ai,Apache-2.0 AND MIT,238101,"harbor-voice's adapter for EVA, ServiceNow's voice-agent benchmark."
+2026-11-04T13:35:38Z,harbor-voice,0.1.0,amoh-ai,Apache-2.0,549320,"Evaluate voice agents on phone-call benchmarks, on harbor."
+2026-11-04T13:35:49Z,ncel-native,0.2.1,North Noir,Proprietary,2809758,"Native NorthCel (.ncel) runtime bundle for Linux x86_64: MoonBit typed AST stage, Bend 0.2.38 / HVM 2.0.22 swarm evaluator and the GLSL 4.30 rasteriser for a Mesa/EGL context."
+2026-11-04T13:35:52Z,ncel,0.2.1,North Noir,Proprietary,98506,"NorthCel (.ncel) one-command CLI: runs the native MoonBit + Bend/HVM2 + GLSL runtime when the platform supports it, and says so plainly when it does not."
+2026-11-04T13:35:55Z,feetme,0.1.1,Elesdes,Apache-2.0,59036,Async Python client for FeetMe BLE pressure insoles
+2026-11-04T13:36:17Z,mushy,0.3.0,Jagjot Singh <gotogether90@gmail.com>,MIT,119471,Multi-network bandwidth bonding download engine & CLI
+2026-11-04T13:37:24Z,picsart-ai-sdk,0.1.0,Picsart,MIT,249313,"Python SDK for 100+ AI models — image, video, audio, and text generation with Picsart (parity with @picsart/ai-sdk)"
+2026-11-04T13:38:38Z,johnny0516-mcpdemo,0.1.0,,,2999,Add your description here
+2026-11-04T13:39:08Z,emustack,2.0.0rc1,"Bjorn Sturmberg, Kokou Dossou, Felix Lawrence, EMUstack Contributors",GPL-3.0-or-later,2233966,Generalized scattering-matrix and finite-element (NGSolve/Netgen) electromagnetic simulator for multilayered periodic nanostructures
+2026-11-04T13:46:09Z,vigsdk,0.1.0,,,4209742,Official Python SDK for Vigilant AI Gateway powered by a high-performance Rust core
+2026-11-04T13:49:32Z,mp3peaks,0.1.1,,MIT,1431735,"audiowaveform-compatible peak waveforms for MP3s, decoded in memory-safe Rust (symphonia)"
+2026-11-04T13:51:51Z,cord-sdk,1.1.0,Flouvia,MIT,73462,"SDK de Python para la API de Cord: cotizaciones, facturas, webhooks verificados, tipos y cliente async. Sin dependencias."
+2026-11-04T13:53:36Z,tba-durability-key-material,0.4.0.dev2,,Apache-2.0,5738,Durable crypto-key table hooks and specifications.
+2026-11-04T13:55:49Z,tba-durability-oauth-state,0.4.0.dev2,,Apache-2.0,10578,Carrier-neutral layer-30 durable table operations.
+2026-11-04T13:58:04Z,tba-durability-oidc-state,0.4.0.dev2,,Apache-2.0,9932,Carrier-neutral layer-30 durable table operations.
+2026-11-04T14:00:19Z,agent-baton-cli,0.1.1,,MIT,902633,"Pass verified facts between coding agents, so none of them sits waiting on a human relay."
+2026-11-04T14:00:42Z,morgul-engine,0.1.0,Morgul Labs <warden@morgul-labs.com>,AGPL-3.0-only,2555,Self-hosted multi-agent simulation engine with tick-based state orchestration.
+2026-11-04T14:00:43Z,tba-durability-presentation,0.4.0.dev2,,Apache-2.0,5737,Carrier-neutral layer-30 durable table operations.
+2026-11-04T14:02:44Z,tba-durability-replay-protection,0.4.0.dev2,,Apache-2.0,12416,Carrier-neutral layer-30 durable table operations.
+2026-11-04T14:02:51Z,agental-sdk,0.1.0,VERTIXER LTD,MIT,208384,Python SDK for agental.io: Linux sandboxes over HTTP.
+2026-11-04T14:03:29Z,agental-openai-agents,0.1.0,VERTIXER LTD,MIT,37857,agental.io sandboxes for the OpenAI Agents SDK: run a SandboxAgent in a Linux machine of your own. Not made by OpenAI.
+2026-11-04T14:03:57Z,tree-sitter-sed,0.25.1,,MIT,391491,Tree-sitter grammars for GNU sed.
+2026-11-04T14:04:59Z,tba-durability-security-event,0.4.0.dev2,,Apache-2.0,5977,Carrier-neutral layer-30 durable table operations.
+2026-11-04T14:05:23Z,nl2sql-cli,0.10.0,,MIT,167283,"The nl2sql command line: index, ask, review, evaluate and serve a database you query in English"
+2026-11-04T14:05:24Z,charterguard,0.1.0,,"MIT License Copyright (c) 2026 Gnananvesh Permission is hereby granted, free of charge, to any pers…",517635,"Framework-agnostic guardrail pipeline for LLM agent harnesses: injection, jailbreak, scope, redaction, grounding, audit."
+2026-11-04T14:05:48Z,passtext-native,0.1.0,,LicenseRef-PassText-Proprietary,524454,Compiled extension for Unicode-safe password text processing
+2026-11-04T14:06:00Z,signal-processing-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,19171834,"Offline signal processing solver: sampling, Fourier series and transforms, the DFT and FFT, filters, convolution, z-transforms, modulation, communication links, RF transmission lines and radar, with…"
+2026-11-04T14:07:00Z,calagoapi-version-changer,1.0.0,iFamished,GPL-3.0,13068,"CalagoAPI extension for the Calagopus Minecraft Version Changer: list and install Paper, Purpur, Fabric, Forge, ... builds."
+2026-11-04T14:07:06Z,rippling,0.1.0,Paul-Louis Pröve,MIT,29522,"Unofficial CLI for Rippling: log hours, breaks and vacation, check your balance. Not affiliated with Rippling."
+2026-11-04T14:07:28Z,tba-durability-session,0.4.0.dev2,,Apache-2.0,6721,Carrier-neutral layer-30 durable table operations.
+2026-11-04T14:08:00Z,opencode-liveness,0.1.2,Simon Mak,MIT,26510,Per-second liveness detection for agent-triggered operations
+2026-11-04T14:09:33Z,zambo-loop,1.0.1,Brennan Zambo,,45307,"The daily loop for AI agents on Zambo: one persistent caller handle, recall yesterday's state verbatim, work, remember, wrap the day into a handover. Free per agent: 20 calls + 1 wrap-up every day; p…"
+2026-11-04T14:09:40Z,tba-durability-token,0.4.0.dev2,,Apache-2.0,10440,Carrier-neutral layer-30 durable table operations.
+2026-11-04T14:09:48Z,thermofluids-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,18913101,"Offline thermofluids solver: fluid statics and dynamics, pipe flow, boundary layers, aerodynamics, heat conduction, convection and radiation, heat exchangers, thermodynamic cycles, psychrometrics and…"
+2026-11-04T14:12:07Z,tba-durability-webauthn,0.4.0.dev2,,Apache-2.0,10831,Carrier-neutral layer-30 durable table operations.
+2026-11-04T14:13:23Z,ingv-shakemap,0.1.0,Giuseppe Zileni,Apache-2.0,39371,"Async Python client for INGV earthquakes and ShakeMap grids: FDSN events, grid.xml parsing, ground shaking (PGA, PGV, MMI) at any point"
+2026-11-04T14:13:31Z,cell-molecular-biology-ai999x,1.0.0,"AI999X Labs <support@ai999x.com>, Ibnul Jaif Farabi <ibnuljaiffarabi@ai999x.com>",Apache-2.0,7735252,"Offline cell and molecular biology solver: membranes and diffusion, osmosis and membrane potentials, cell growth and the cell cycle, DNA and RNA melting temperatures and quantification, sequences, PC…"
+2026-11-04T14:13:42Z,botstadia-train,0.1.0,,Proprietary,55006933,"Train bots for BotStadia: every arena as a Gymnasium or PettingZoo environment, on the same session host as real sessions, with self-play and ONNX export for the policy shell."
+2026-11-04T14:14:07Z,computational-biology-ai999x,1.0.3,Ibnul Jaif Farabi,Apache-2.0,19559634,"Offline computational biology solver: DNA and protein sequences, pairwise alignment, molecular masses, Mendelian and population genetics, phylogenetics, enzyme kinetics, population models and ecology…"
+2026-11-04T14:14:27Z,tba-durability-workload-identity,0.4.0.dev2,,Apache-2.0,7315,Carrier-neutral layer-30 durable table operations.
+2026-11-04T14:15:03Z,marcfinder,0.2.0,Mike Saunders,MIT,366427,Fast CLI tool for looking up MARC 21 Bibliographic and Holdings field definitions
+2026-11-04T14:17:03Z,tba-provider-policy-administration-memory,0.4.0.dev2,,Apache-2.0,17529,"In-memory RBAC, ABAC, delegated-administration, and policy engine providers."
+2026-11-04T14:18:37Z,folheto,0.1.0,Madson Dias,MIT,35271,"Aggregates RSS feeds into a MkDocs Material blog, one post per news item."
+2026-11-04T14:19:33Z,tile-ble,0.0.1,Joost Lekkerkerker <joostlek@outlook.com>,MIT,23395,Asynchronous Python client for Tile trackers over Bluetooth.
