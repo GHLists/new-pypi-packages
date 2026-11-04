@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T22:35:19Z,pytest-fixture-lens,0.1.1,WMiliya,MIT,227207,"See which pytest fixtures your tests build, reuse, and pay for — as an offline HTML report."
+2026-11-04T22:37:26Z,crn-craft,0.2.0,,MIT,7644082,Reproducible well-mixed reaction network simulation and analysis
+2026-11-04T22:38:05Z,novomodelo-mcp,0.20.0,"Operador Nacional do Sistema Elétrico - ONS, Câmara de Comercialização de Energia Elétrica - CCEE,…",Apache-2.0,4788843,Servidor MCP (fachada local) sobre as CLIs do Novomodelo e do novomodelo-bridge
+2026-11-04T22:48:29Z,pants-backend-platforms,0.1.0rc0,Tom Solberg <me@sbg.dev>,"MIT License Copyright (c) 2022 Tom Solberg Permission is hereby granted, free of charge, to any per…",19601,Multi-platform builds for Pants backends: platform targets and a contract for building dependencies per platform.
+2026-11-04T22:48:36Z,pants-backend-generate,0.1.0rc0,Tom Solberg <me@sbg.dev>,"MIT License Copyright (c) 2022 Tom Solberg Permission is hereby granted, free of charge, to any per…",27979,"A Pants backend for code generators whose outputs are committed: typed codegen targets, a `generate` goal that writes the outputs and a linter that checks them."
+2026-11-04T22:48:43Z,pants-backend-cc,0.1.0rc0,Tom Solberg <me@sbg.dev>,"MIT License Copyright (c) 2022 Tom Solberg Permission is hereby granted, free of charge, to any per…",140086,"C and C++ for Pants backends: cc_toolchain, cc_test, compile-step and library interfaces for providers, clang-tidy, gcovr coverage and cpp_generate."
+2026-11-04T22:48:51Z,pants-backend-cmake,0.1.0rc0,Tom Solberg <me@sbg.dev>,"MIT License Copyright (c) 2022 Tom Solberg Permission is hereby granted, free of charge, to any per…",84211,A CMake backend for the Pants build system that replays the generated Ninja graph as cached per-edge processes.
+2026-11-04T22:49:02Z,socpuppet,0.0.1rc1,Chris Hurley,MIT,53641297,"A whole SoC simulated in SystemC, with Python pulling the strings."
+2026-11-04T22:49:17Z,cfd-craft,0.1.0,,MIT,3596491,Native Cartesian flow and passive-gas dispersion research solver
+2026-11-04T22:50:54Z,instabox-sdk,0.3.1,,Apache-2.0,48533,Python SDK for instabox sandboxes
+2026-11-04T22:51:29Z,simple-module-oidc,0.0.43,Anto Subash <antosubash@live.com>,MIT,70621,"Generic OIDC authentication provider for simple_module — native Microsoft Entra ID, Auth0, Okta, Keycloak, and any OpenID Connect identity provider"
+2026-11-04T22:52:07Z,stapel-orders,0.1.0,,MIT,146492,"Cart, checkout and orders for the Stapel framework"
+2026-11-04T22:53:54Z,vooks-catalog,1.0.0,"""Vooks, Inc."" <support@vooks.com>",SEE LICENSE IN https://www.vooks.com/terms-of-service/,16510,"Official client for the Vooks Public Catalog API: search children's read-along titles by age, topic and language, and read published subscription pricing."
+2026-11-04T22:55:26Z,ha-history-exporter,1.5.0,hyperfelixations,MIT,362539,"Local command-line tool that exports Home Assistant state history to JSONL, CSV, and Parquet through the REST API."
+2026-11-04T22:57:53Z,totalmix-osc,0.0.1,"""Buran Consulting, LLC"" <info@bradburan.com>","Copyright 2026 totalmix-osc development team Redistribution and use in source and binary forms, wit…",67175,"Verified control of RME TotalMix FX routing, gains, and loopback over OSC"
+2026-11-04T22:58:22Z,grafikeye,0.1.0,,MIT,59195,Asynchronous Python client for Lutron GRAFIK Eye 3000 and 4000 Series lighting systems
+2026-11-04T22:58:43Z,workflowval,0.1.0,,MIT,163036,"Model-agnostic CLI agent that infers multi-step API workflows from an OpenAPI spec, tests them with pytest and triages every failure."
+2026-11-04T22:59:16Z,epgx,0.1.dev0,Pierre-Yves Baudin,BSD-3-Clause,181993,Extended Phase Graph (EPG) simulations in JAX
+2026-11-04T23:05:21Z,apivault-naver-smartstore-source-probe,0.1.0,ApiVault Labs,MIT,12600,"Python client for Naver Brand Store Scraper on Apify. Run, resume and download results with diagnostics."
+2026-11-04T23:05:27Z,certifi-learn,0.2.0,Jiří Němeček,MIT,1445358,Certifiably Intersectionally Fair & Interpretable models: detection of the most biased subgroup and training of fair interpretable classifiers
+2026-11-04T23:06:44Z,stanwell,0.1.0,Jan Buermann,MIT,630435,Application to helps understand working time and distribution based on Toggl time tracking data.
+2026-11-04T23:07:40Z,apivault-youtube-transcripts-scraper,0.1.0,ApiVault Labs,MIT,12730,"Python client for YouTube Transcripts and Subtitles on Apify. Run, resume and download results with diagnostics."
+2026-11-04T23:08:28Z,apivault-substack-archive-scraper,0.1.0,ApiVault Labs,MIT,12458,"Python client for Substack Archive Scraper on Apify. Run, resume and download results with diagnostics."
+2026-11-04T23:09:26Z,apivault-google-news-search,0.1.0,ApiVault Labs,MIT,11702,"Python client for Google News Search on Apify. Run, resume and download results with diagnostics."
+2026-11-04T23:09:33Z,hello-pop-9f4k,0.1.0,hello-pop,"MIT License Copyright (c) 2026 hello-pop contributors Permission is hereby granted, free of charge,…",5728,"A tiny Windows hello popup. Import it, call hello(), get one native dialog. No install-time code."
+2026-11-04T23:10:58Z,onv-cex,0.1.0,sftgroup <security@onv.codes>,Apache-2.0,80448,"Exchange adapter interface with a Binance spot/futures reference implementation (ccxt signing kernel, fail-closed demo mode, idempotent rate-limit retries)."
+2026-11-04T23:12:57Z,decision-align,0.1.9,,Apache-2.0,2255,Installation alias for jev-align: Build and optimize AI Functions with pluggable evaluators and GEPA
+2026-11-04T23:13:04Z,catsim-rl,0.1.0,adventure-gpt,MIT,1190233,A bit-exact Rocket League physics simulator with a RocketSim-style Python API
+2026-11-04T23:13:07Z,abbot,0.1.0,Sean Gasiorowski,Apache-2.0,456467,Goal-driven Bayesian experimental design for the lab.
+2026-11-04T23:13:32Z,ai-audit-logger,0.1.0,,,11113,"Drop-in audit logging for LLM API calls (OpenAI, Anthropic)"
+2026-11-04T23:14:13Z,sigma2sql,0.2.0,Ahmet Burak Özer,MIT,81057,"Sigma rules as SQL for SQLite, PostgreSQL and DuckDB: convert, hunt through log files and test rules"
