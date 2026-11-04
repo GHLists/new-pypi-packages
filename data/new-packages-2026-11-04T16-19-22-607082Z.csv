@@ -1,0 +1,60 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T15:21:26Z,strip-kit,0.1.3,,,31122,"Backend for the strip and strip-lab skills: de-identification rules store, synthetic fixtures and re-identification trials on Bedrock, deployed as one Lambda and one DynamoDB table."
+2026-11-04T15:24:18Z,rope-protocol,0.1.1,Daniel Fankhauser,Apache-2.0,145634,ROPE - Resumable Offline Protocol for Emergencies
+2026-11-04T15:25:32Z,lsst-desc-dsf,0.1.0,"Nikolina Sarcevic <nikolina.sarcevic@gmail.com>, Ben Levine <benjamin.c.levine@stonybrook.edu>",MIT,190122,Delta Sigma forecasting tools for LSST DESC galaxy-galaxy lensing analyses.
+2026-11-04T15:28:24Z,dpc-radar,0.1.0,Giuseppe Zileni,Apache-2.0,54341,"Async Python client for the Italian Civil Protection (DPC) open radar data: SRI, Merging (CUM), history and criticality bulletins"
+2026-11-04T15:29:26Z,astral-dev-toolchain-grpcurl,1.9.4,,,58455130,
+2026-11-04T15:30:08Z,bareum,0.1.0,Công Anh Dũng,MIT,147353,Korean pronunciation scoring: segmentals and standard pronunciation rules.
+2026-11-04T15:30:09Z,langchain-agentreader,0.1.0,AgentReader <contact@agentreader.xyz>,MIT,13024,"LangChain document loader for AgentReader: web pages, JS-rendered pages and PDF URLs to clean Markdown for LLMs"
+2026-11-04T15:30:31Z,llama-index-readers-agentreader,0.1.0,AgentReader <contact@agentreader.xyz>,MIT,12164,"LlamaIndex reader for AgentReader: web pages, JS-rendered pages and PDF URLs to clean Markdown for LLMs"
+2026-11-04T15:31:04Z,arc56-generated-shiva-50c829a9,1.1.2026110415,Shivanikinagi,,5767,Generated ARC-56 Algorand smart-contract clients for Shivanikinagi/Dehug.
+2026-11-04T15:32:08Z,arc56-generated-ishan-14fae88c,1.1.2026110314,Ishankalhe911,,46419,Generated ARC-56 Algorand smart-contract clients for Ishankalhe911/TraceLoop.
+2026-11-04T15:32:15Z,django-stack,0.0.1,Leon van der Grient <leon@dwarsbit.nl>,MIT,9893,"The backend glue of DjangoStack: settings from environment variables, API defaults, health checks and system checks."
+2026-11-04T15:32:53Z,desaubv-enoppy,0.1.0,Desaubv,GPLv3,84391,Fork of ENOPPY: A Python Library for Engineering Optimization Problems
+2026-11-04T15:33:13Z,arc56-generated-ameen-fc4e85cb,1.1.2026110314,ameenmakestuffs,,67926,Generated ARC-56 Algorand smart-contract clients for ameenmakestuffs/Algorand-Carpool.
+2026-11-04T15:33:23Z,plantdesign-toolkit,0.11.0,Ugwiyeon Lee,GPL-3.0-only,1303036,"Composable process plant design, techno-economic and environmental calculations with explicit contracts"
+2026-11-04T15:37:14Z,research-video-sync,2.0.0,,,206452,Audio-based synchronization pipeline for RG2019 follow-up videos
+2026-11-04T15:38:48Z,plesty-hub-agents,0.1.1,Yunshuang Yuan <yuanyunshuang@gmail.com>,LGPL-3.0-or-later,200091,Harness-agnostic agentic framework for developing and maintaining PLESTY hub modules.
+2026-11-04T15:39:02Z,tba-capability-digital-credential-issuance,0.4.0.dev2,,Apache-2.0,6350,Digital credential issuance capability composition.
+2026-11-04T15:39:04Z,md-chunk-lite,1.0.0,Tidy Byte Tools,MIT,38429,Split Markdown into chunks by heading. Each chunk keeps its heading path and line numbers. CLI and MCP server. Runs locally.
+2026-11-04T15:39:26Z,arc56-generated-joe-p-dd004a83,1.2.2026072010,joe-p,,87766,Generated ARC-56 Algorand smart-contract clients for joe-p/arc84_poc.
+2026-11-04T15:39:51Z,harnessweaver-openai,0.2.0,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,35054,HarnessWeaver plugin: OpenAI-compatible models.
+2026-11-04T15:41:01Z,tba-capability-digital-credential-presentation,0.4.0.dev2,,Apache-2.0,5789,Digital credential presentation capability composition.
+2026-11-04T15:41:42Z,schemify-cli,0.1.0,aaltatan,,45558,"Build JSON Schemas interactively, and fill JSON data from them, from the command line."
+2026-11-04T15:42:18Z,baleropy,0.2.0,Reza Mardani,MIT,119184,"Modern, fully-typed, asynchronous framework for the Bale Bot API"
+2026-11-04T15:42:32Z,bytestay-unfold-mcp,0.2.2,ByteStay <hello@bytestay.pt>,MIT,20250,"PDF, DOCX, PPTX and XLSX documents to Markdown for LLM agents, from a URL or a local file. Bring your own RapidAPI or api.market key."
+2026-11-04T15:42:34Z,bytestay-shipshape-mcp,0.2.2,ByteStay <hello@bytestay.pt>,MIT,21746,"Dockerfile and Kubernetes lint for coding agents: Pod Security Standards, A–F grade, a fix per finding. Bring your own RapidAPI or api.market key."
+2026-11-04T15:42:38Z,bytestay-specwise-mcp,0.2.2,ByteStay <hello@bytestay.pt>,MIT,24046,OpenAPI validation and breaking-change diffs (also against a git ref) and JSON Schema validation for coding agents. Bring your own RapidAPI or api.market key.
+2026-11-04T15:43:13Z,tba-capability-identity-administration,0.4.0.dev2,,Apache-2.0,5802,Identity administration capability over injected durable operations.
+2026-11-04T15:45:19Z,mcp-agent-template,0.2.0,amineutron,AGPL-3.0-only,134470,"Guard layer for MCP servers in companies: roles, allowlist policy, human confirmation, JSONL audit log"
+2026-11-04T15:45:27Z,halo-light,0.1.0,amineutron <56112165+amineutron@users.noreply.github.com>,MIT,147085,"Serveur MCP pour Philips Hue (API CLIP v2) : lumieres, pieces, scenes, par identifiant ou par nom."
+2026-11-04T15:45:37Z,tba-capability-identity-document,0.4.0.dev2,,Apache-2.0,3028,"Identity document resolution, verification, and optional publication capability."
+2026-11-04T15:47:46Z,make-rust,0.1.0,"""Optersoft, S.L."" <david@optersoft.com>",MIT OR Apache-2.0,17107,"Generic cargo hygiene tasks for mkrun -- find every target/ dir, report it, reclaim it."
+2026-11-04T15:47:53Z,northcel-native,0.3.1,NorthCel contributors,MIT OR Apache-2.0,2815158,"Native NorthCel (.ncel) runtime bundle for Linux x86_64: MoonBit typed AST stage, Bend 0.2.38 / HVM 2.0.22 swarm evaluator and the GLSL 4.30 rasteriser for a Mesa/EGL context."
+2026-11-04T15:47:53Z,tba-capability-key-administration,0.4.0.dev2,,Apache-2.0,3525,Key rotation and publication administration capability.
+2026-11-04T15:47:59Z,make-marketplace,0.1.0,"""Optersoft, S.L."" <david@optersoft.com>",MIT OR Apache-2.0,44228,"VS Code Marketplace tasks for mkrun -- package an extension, check what is published, and cut a release."
+2026-11-04T15:48:54Z,openshift-template-client,0.1.1,,MIT,54034,Small Python client for OpenShift templates and their resources
+2026-11-04T15:49:22Z,ari-by-harjas-aireview,0.1.0,Harjas Singh,MIT,51484,"Local AI git diff reviewer powered by Ollama, Pydantic and Rich"
+2026-11-04T15:50:10Z,dingo-pack,0.4.2,liyifreddy,MIT,190671,"The pack eats in order: heavy-job slots, memory admission and a crash-recovery session roster for many AI agents on one machine."
+2026-11-04T15:50:28Z,tba-capability-mfa-challenge,0.4.0.dev2,,Apache-2.0,3179,Multi-factor challenge ceremony capability.
+2026-11-04T15:51:20Z,nyxa-admin,0.0.1,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,19706,Nyxa admin service
+2026-11-04T15:51:23Z,nyxa-ai,0.0.1,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,417436,"Agents, tools, RAG, streaming, and HITL for the Nyxa framework"
+2026-11-04T15:51:25Z,nyxa-assets,0.0.1,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,21730,"Vite asset pipeline for Nyxa — dev proxy, manifest resolution, vite() helper"
+2026-11-04T15:51:27Z,nyxa-audit,0.0.1,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,12300,"Append-only audit log for Nyxa — auth, grants, denials, membership"
+2026-11-04T15:51:34Z,jordi,1.0.0,,,1514470,Python programs and lab files
+2026-11-04T15:55:02Z,dotless,1.0.0,Ramal Rahimov <jhonaluman@gmail.com>,GPL-3.0-or-later,95277,"Find Turkish and Azerbaijani dotted/dotless I bugs caused by locale-dependent case mapping in C/GLib, Vala, Python, JavaScript and Rust"
+2026-11-04T15:57:44Z,glofas-ewds,0.1.0,Giuseppe Zileni,Apache-2.0,50435,"GloFAS river discharge and Copernicus fire danger from the EWDS, on the right grid cell"
+2026-11-04T16:00:10Z,banach,0.1.2,Gautam,Apache-2.0,18256642,"Run very large Mixture-of-Experts models on ordinary machines, with an honest plan and a measured fidelity contract"
+2026-11-04T16:00:57Z,kizaru-mcp,0.1.0,Nicolas Trossat,,1291163,"MCP server for Lightdash: data queries, admin, governance and content lifecycle"
+2026-11-04T16:02:34Z,llar,0.1.1,All Tuner,MIT,191961,Look after the local state coding agents keep about your projects.
+2026-11-04T16:02:52Z,mishmar,0.2.0,,Apache-2.0,55493,Mishmar client: sign and submit proposals to the engine that guards your trading agent
+2026-11-04T16:03:09Z,db-storage-manager,1.0.8,VoxHash,GPL-3.0-only,1543534,Professional desktop application for database storage management and backups
+2026-11-04T16:10:51Z,pyframetree,0.3.0,Gabriel Lefloch <gabriel.lefloch@kit.edu>,MIT,37582,Nested 3D coordinate frames with physical units and vectorized transformations
+2026-11-04T16:11:45Z,voxx,0.1.0,levyxdev,Apache-2.0,516173,Local text-to-speech CLI for agents: narrate each Line to a WAV with word timings
+2026-11-04T16:14:53Z,agentglim,0.0.1,,MIT OR Apache-2.0,2396,Agentglim: watch and control your AI coding agents
+2026-11-04T16:16:22Z,sentinelmeet-v2,2.0.0,Apocys,MIT,14688,"Installer for SentinelMeet v2: private, on-device meeting transcription, live translation and speaker ID for macOS (Apple Silicon). `pip install sentinelmeet-v2 && sentinelmeet install`."
+2026-11-04T16:16:27Z,blinkenhub,0.1.0,Brian Cuthie <brian@systemix.com>,MIT,18209,Python library and command-line tool to control the Blinkenhub Mac mini stand
+2026-11-04T16:17:06Z,netra-validator,0.1.0,Nitin Paul <nitinpaul.dev@gmail.com>,MIT,743351,High-performance out-of-core data validation tool built with Polars and DuckDB.
+2026-11-04T16:17:48Z,mattesolu,0.0.1,Jacky <jacky@gmail.com>,MIT,66806864,Mattesolu package
+2026-11-04T16:17:56Z,flowgem,0.1.0,Muhammad Haris Mumtaz,MIT,908568,Nonparametric generative sampling for MAR missing data via approximate Wasserstein gradient flows
+2026-11-04T16:18:35Z,oceanalt-agentkit-hook,0.1.0,,MIT,5105,"Sync before-payment check for Coinbase AgentKit x402 payments (AgentKit #1577 / x402 SDK on_before_payment_creation, and #1454-shaped dicts). Fail-closed by default. Not affiliated with Coinbase."

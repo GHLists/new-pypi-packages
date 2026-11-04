@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 53,
-    "from": "2026-11-04T14:20:34.730325Z",
-    "path": "data/new-packages-2026-11-04T15-20-21-44487Z.csv",
-    "to": "2026-11-04T15:20:21.44487Z"
+    "count": 59,
+    "from": "2026-11-04T15:20:21.44487Z",
+    "path": "data/new-packages-2026-11-04T16-19-22-607082Z.csv",
+    "to": "2026-11-04T16:19:22.607082Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-04T15:14:10Z",
       "package": "StripLab",
       "since": "2026-11-04T14:20:34.730325Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-04T12:37:55Z",
       "package": "qinterviewer_bot_types",
       "since": "2026-11-04T12:18:30.443035Z",
       "version": "3.6.16"
     }
   ],
-  "serial": 43195303,
+  "serial": 43197404,
   "source_truncated": false,
-  "window": "2026-11-04T15:20:21.44487Z"
+  "window": "2026-11-04T16:19:22.607082Z"
 }
