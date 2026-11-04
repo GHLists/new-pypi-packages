@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T07:19:53Z,modi-does-itmm,0.1.0,,,180874,IT Infrastructure and Monitoring Management Practical Toolkit
+2026-11-04T07:20:17Z,tba-durability-consent,0.4.0.dev2,,Apache-2.0,6557,Carrier-neutral layer-30 durable table operations.
+2026-11-04T07:21:34Z,project-agent-client,0.1.1,,,42094,Remote Project Agent command-line client
+2026-11-04T07:22:36Z,tba-durability-delegation,0.4.0.dev2,,Apache-2.0,8657,Carrier-neutral layer-30 durable table operations.
+2026-11-04T07:24:41Z,tba-durability-digital-credential,0.4.0.dev2,,Apache-2.0,5939,Carrier-neutral layer-30 durable table operations.
+2026-11-04T07:26:49Z,tba-durability-gnap-state,0.4.0.dev2,,Apache-2.0,7505,Carrier-neutral layer-30 durable table operations.
+2026-11-04T07:28:36Z,openalex-reporting,0.1.0,Gael Bernard <gael.bernard@epfl.ch>,MIT,98018,A bibliometric data warehouse for any set of OpenAlex works
+2026-11-04T07:28:57Z,crawlora-lolesports,0.1.0,Crawlora,MIT,55390,"Crawlora LoL Esports API client with 13 endpoints for leagues, schedules, live and completed events, teams, players, and game details"
+2026-11-04T07:29:02Z,tba-durability-identity,0.4.0.dev2,,Apache-2.0,10505,Carrier-neutral layer-30 durable table operations.
+2026-11-04T07:30:19Z,dagnet,0.0.1,,Apache-2.0,9793,"Dagnet: DAG orchestration engine (scheduling, runs, retries, sensors). Under development."
+2026-11-04T07:30:20Z,dagnet-cli,0.0.1,,Apache-2.0,9825,"Command-line interface for Dagnet, a DAG orchestration engine. Under development."
+2026-11-04T07:30:36Z,imageserver-export,0.1.0,Giuseppe Zileni,Apache-2.0,46227,"Export ArcGIS ImageServer rasters (like the open Copernicus Land layers the EEA serves) to aligned, atomic GeoTIFF mosaics"
+2026-11-04T07:30:47Z,py-visactor-elk,0.1.0,,MIT AND (EPL-2.0 OR GPL-3.0-or-later) AND Apache-2.0,1152768,"Native Python ELK graph layout, asynchronous execution and metadata"
+2026-11-04T07:31:16Z,tba-durability-trust-federation-graph,0.4.0.dev2,,Apache-2.0,3298,Durable trust-federation graph table operations and specifications.
+2026-11-04T07:33:46Z,tba-durability-identity-administration-trust-federation-graph,0.4.0.dev2,,Apache-2.0,3004,Durable trust-federation graph table operations and runtime specifications.
+2026-11-04T07:34:29Z,asf-downloader,2026.11.4,umr-lops <antoine.grouazel@ifremer.fr>,MIT,59991,"Python library and CLI to download NISAR RSLC/GSLC products from ASF, driven by metadata-asf Parquet catalogs."
+2026-11-04T07:41:30Z,snappshop-mcp,0.1.0,Sepehr Radmard <sepehrr80@gmail.com>,MIT,334792,"Unofficial read-only MCP server for Snapp! Shop (snappshop.ir): search products, browse categories, compare seller offers in Toman, read reviews."
+2026-11-04T07:42:42Z,jevner,0.1.0,,,4285115,"Zero-shot multilingual NER SDK on System One decision models: nested entity trees, customizable entity packs, 24-language coverage, bundled tokenizer, no local models"
+2026-11-04T07:50:35Z,mooncake-transfer-engine-memfabric,0.3.14,Mooncake Authors,,294299439,A KVCache-centric Disaggregated Architecture for large-scale LLM inference and training. (memfabric version)
+2026-11-04T07:52:31Z,aiorainpoint,0.1.1,,MIT,326700,Async client for the RainPoint Smart+ cloud API
+2026-11-04T07:53:28Z,salmon-fish,0.1.1,,MIT AND LicenseRef-Fish-Audio-Community,349045,"Inspectable S2-Pro Dual-AR inference for teaching, using official PyTorch components"
+2026-11-04T07:54:12Z,freegraph,0.0.1,杨家成,MIT,8526,"Zero-dependency, zero-account, zero-egress graph runtime kernel — a drop-in replacement for the LangGraph Graph API."
+2026-11-04T07:54:43Z,queues-sdk,0.1.1,queues-sdk contributors,MIT,8807,"Zero-loss async queue SDK: direct waiter handoff, backpressure waiting, pressure-gated spill to disk with FIFO drain. No network, no dependencies."
+2026-11-04T07:54:47Z,crawlora-vlr,0.1.0,Crawlora,MIT,62477,"Crawlora VLR.gg API client with 23 endpoints for Valorant matches, events, results, rankings, statistics, news, and forum data"
+2026-11-04T07:56:00Z,tcmb-mcp,0.1.1,Mohammad Abbasi,MIT,13025,Unofficial read-only MCP server for Central Bank of Türkiye (TCMB) exchange rates
+2026-11-04T07:57:50Z,django-admin-mobile,0.1.0,Daniil Shamraev,MIT,1147379,Make the native Django admin usable on phones without replacing its look.
+2026-11-04T07:57:57Z,torchregress,0.3.0,Sébastien Fabbro <sebfabbro@gmail.com>,MIT,1856617,"Probabilistic and robust regression for PyTorch: losses, metrics, conformal prediction and calibration."
+2026-11-04T08:00:01Z,chassis-sim,0.2.1,zhao6663 <30620187+zhao6663@users.noreply.github.com>,MIT,761240,"Gymnasium environments for Ackermann, differential-drive and mecanum chassis"
+2026-11-04T08:02:08Z,linnet-tts,0.1.0,,Apache-2.0,1194473,LinnetTTS: lightweight on-device text-to-speech (native runtime)
+2026-11-04T08:02:56Z,opentlv,0.2.2,,MIT,1072414,"Python bindings for OpenTLV, a portable C99 library for reading, writing and validating TLV data"
+2026-11-04T08:03:19Z,tpw-pyutils,0.1.0,Henry Chiang,MIT,8355,Python utils package
+2026-11-04T08:08:08Z,sandbox-kit-adc6,0.1.1,,,1837,Build-integrity fixture. Not a real library.
+2026-11-04T08:09:42Z,provtrack,2.0.0,Princess,Apache-2.0,126980,Zero-instrumentation ML pipeline provenance tracking. One line of code. Full data lineage.
+2026-11-04T08:09:44Z,klotse,0.1.0,Marcelo H. Bartsch,Apache-2.0,868514,A native Kubernetes desktop manager built with Python and Qt
+2026-11-04T08:13:28Z,freechain,0.0.1,杨家成,MIT,9951,"Zero-account, zero-license-key LangChain replacement — framework layer on top of the FreeGraph runtime kernel."
+2026-11-04T08:14:23Z,litexpr,1.4.1,v1r4m,MIT,161040,"A tiny, dependency-free arithmetic expression evaluator"
+2026-11-04T08:16:00Z,neutrino-toolkit,3.0.0,,LGPL-3.0-or-later,205702045,"Neutrino image analysis in python: windows, images (numpy arrays) and pans"
