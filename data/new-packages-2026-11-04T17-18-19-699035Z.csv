@@ -1,0 +1,58 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T16:20:10Z,calagoapi-hungerbridge,1.0.dev1,iFamished,GPL-3.0,24394,"CalagoAPI extension for HungerBridge: run commands and read players, TPS and server metrics through the HungerBridge mod."
+2026-11-04T16:22:14Z,unicom360,0.1.0,Techrode Solutions Limited <info@techrode.co>,MIT,89049,"Official Python SDK for the Unicom360 SMS, email and WhatsApp API"
+2026-11-04T16:23:23Z,lygon,0.0.1,Toni Lähdekorpi <toni@lygon.net>,Apache-2.0,2276,Official Python client for Lygon CMS. Not released yet.
+2026-11-04T16:28:14Z,Alinvest-codal,1.5.10,,MIT,195158,"Alinvest-codal — a resilient, typed Python client for Iranian Codal disclosures"
+2026-11-04T16:28:47Z,observe-util-genai,0.1.0,Snowflake Inc.,Apache-2.0,93052,GenAI telemetry utils for Observe. Downstream fork of the OpenTelemetry GenAI utils.
+2026-11-04T16:28:49Z,observe-instrumentation-genai-openai,0.1.0,Snowflake Inc.,Apache-2.0,40041,"OpenAI instrumentation for Observe, emitting OpenTelemetry GenAI semantic conventions."
+2026-11-04T16:28:50Z,observe-instrumentation-genai-openai-agents,0.1.0,Snowflake Inc.,Apache-2.0,13652,"OpenAI Agents instrumentation for Observe, emitting OpenTelemetry GenAI semantic conventions."
+2026-11-04T16:28:51Z,observe-instrumentation-genai-langchain,0.1.0,Snowflake Inc.,Apache-2.0,42366,"LangChain instrumentation for Observe, emitting OpenTelemetry GenAI semantic conventions."
+2026-11-04T16:29:00Z,pymon-sdk,0.1.3,Antony Kimanzi <antony.kim345@gmail.com>,MIT,7090,Monitor your Python jobs with one decorator.
+2026-11-04T16:30:17Z,pySIFTS,0.2.0,Joe Hoye Dow <luxunisgod123@gmail.com>,GPL-3.0-or-later,89643,"SIFTS PDB-to-UniProt mapping, entity dissection, and an interactive sequence view"
+2026-11-04T16:31:00Z,blitzy-deployment-utils,0.0.0,Blitzy,,1258,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-04T16:33:48Z,databricks-uc-dataset,0.0.1b1,Databricks,Databricks License,21172524,Native Delta table loader for PyTorch datasets.
+2026-11-04T16:33:54Z,passageway-connector-sitemap,0.3.0,,PolyForm-Noncommercial-1.0.0,17920,passageway connector for a website: its sitemap and the pages it links to
+2026-11-04T16:33:56Z,passageway-connector-trilium,0.3.0,,PolyForm-Noncommercial-1.0.0,27270,"passageway connector for Trilium Notes: the notes of a Trilium server through its ETAPI, read-only"
+2026-11-04T16:33:59Z,passageway-connector-wikipedia,0.3.0,,PolyForm-Noncommercial-1.0.0,24004,passageway connector for Wikipedia and other MediaWiki sites
+2026-11-04T16:34:01Z,passageway-embedder-openai,0.3.0,,PolyForm-Noncommercial-1.0.0,18961,"passageway embedder for OpenAI-compatible embedding services: Ollama, LM Studio, vLLM, OpenAI, Voyage"
+2026-11-04T16:34:35Z,pronto-helpdesk,1.1.0,Sara Ladisa,Apache-2.0,121358,Backend of a web application that automates the phone helpdesk of the Campus of Cesena
+2026-11-04T16:34:52Z,sklearner,0.1.0,,,24865,My Python package
+2026-11-04T16:35:40Z,data-liberator,0.1.0,,MIT,74614,CloudQuant Liberator Python client
+2026-11-04T16:35:44Z,coinlackey,0.1.0,CoinLackey <contact@coinlackey.com>,MIT,9852,Official Python client for CoinLackey Real-Time Crypto Derivatives & Macro Terminal.
+2026-11-04T16:37:24Z,kaptyorka,0.1.1,narek-mn,MIT,122926,A team hub for coding agents
+2026-11-04T16:38:13Z,pix-cli,0.1.1,uzvg <uzvg@qq.com>,MIT,70479,Batch AVIF shrink and image-host sync CLI
+2026-11-04T16:38:22Z,cubed-monitoring,1.1.1,,MIT,7799,Cubed Monitoring SDK for process monitoring
+2026-11-04T16:38:56Z,osm-simplify,1.0.0,Dogu H.,MIT,7287,"A lightweight, dependency-minimal Python library for querying OpenStreetMap data."
+2026-11-04T16:40:37Z,zettcode-tui,0.4.0,Chang-LeHung,MIT,320969,"The widget framework ZettCode's terminal is drawn with, and nothing else"
+2026-11-04T16:41:40Z,zettcode-plugin-api,0.4.0,Chang-LeHung,MIT,65967,"The one package a ZettCode plugin depends on: the plugin surface, re-exported"
+2026-11-04T16:41:56Z,pytrends-ladder,0.1.0,Md. Al-Hadi Khan,MIT,12860,Compare up to 100 Google Trends keywords on one scale. A pytrends alternative with a drop-in TrendReq.
+2026-11-04T16:42:42Z,zettcode-pets,0.4.0,Chang-LeHung,MIT,21556,"The pets that keep ZettCode's terminal company, offered to it as a plugin"
+2026-11-04T16:43:05Z,denoppy,0.1.0,desaubv,GPLv3,87345,Fork of ENOPPY: A Python Library for Engineering Optimization Problems
+2026-11-04T16:43:45Z,zettcode-presenters,0.4.0,Chang-LeHung,MIT,42064,The conversation's rows and how ZettCode's terminal draws them
+2026-11-04T16:44:23Z,phentax,0.2.1,Alessandro Santini <alessandro.santini@aei.mpg.de>,,2167784,JAX Implementation of the IMRPhenomT(HM) waveform family
+2026-11-04T16:47:31Z,quantum-aether-mcp,1.0.1,,MIT,11091,MCP server for Quantum Aether — check post-quantum TLS readiness from any AI assistant.
+2026-11-04T16:51:48Z,harnessweaver-otel,0.2.1,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,18407,HarnessWeaver plugin: OpenTelemetry SDK.
+2026-11-04T16:53:11Z,somya-rostlib,0.1.0,somya sharma,,2772,A fun python roast message library
+2026-11-04T16:59:32Z,mascope_ai,2026.11.4,Oskari Kausiala,Apache-2.0,195592,"Mascope's toolkit for AI agents: handles to Mascope's data, never tables in a model's context."
+2026-11-04T17:02:34Z,wenyi-babeldoc-bridge,0.1.4,,AGPL-3.0-only,159130,AGPL BabelDOC HTTP bridge for Wenyi (extract paragraphs / fillback PDF).
+2026-11-04T17:05:53Z,tba-capability-operator-administration,0.4.0.dev2,,Apache-2.0,4870,Policy-gated operator administration capability.
+2026-11-04T17:06:10Z,hcawn-fc,0.1.0,CAWN AI,Apache-2.0,256014,Tiny CPU function-calling model for phone actions (hCAWN-FC) with a client for the hosted API
+2026-11-04T17:06:23Z,dartflutter,1.0.0,VSRAJHAVEL <vsrajhavel@gmail.com>,MIT,49044,A Python toolkit and reference library for Dart and Flutter Laboratory Experiments 1 to 4
+2026-11-04T17:07:41Z,odoo-addon-purchase-report-discount-visibility,18.0.1.0.0.2,"Quartile, Odoo Community Association (OCA)",AGPL-3,23284,Configure visibility of discount column in purchase reports
+2026-11-04T17:08:09Z,im2sim,0.1.0,Anirudh Raman <anirudh.raman.24@ucl.ac.uk>,Apache-2.0,346674,A framework for ML-accelerated digital twins
+2026-11-04T17:08:35Z,tba-capability-password-authentication,0.4.0.dev2,,Apache-2.0,4315,Password authentication capability.
+2026-11-04T17:09:23Z,bazaar-contrib-http,0.3.0rc1,,Apache-2.0,20502,The Bazaar Compute Node HTTP Contrib
+2026-11-04T17:10:49Z,wenyi-core,1.4.2,,,1066808,Shared translation engine for multilingual long-form documents.
+2026-11-04T17:10:56Z,tba-capability-policy-administration,0.4.0.dev2,,Apache-2.0,5562,Policy administration and simulation capability.
+2026-11-04T17:11:02Z,wenyi-cli,1.4.2,,,50510,Local command-line interface for Wenyi's translation engine.
+2026-11-04T17:11:16Z,extera-runtime,1.1.0,exteraGram plugins,MIT,15257,"Reusable HTTP, storage, task and backup helpers for exteraGram plugins"
+2026-11-04T17:13:27Z,tba-capability-policy-assurance,0.4.0.dev2,,Apache-2.0,13103,Authorization policy assurance capability.
+2026-11-04T17:13:35Z,quantem.diffsim,0.1.0,,MIT,671597,"Interactive electron diffraction simulator for web pages and Dash apps, computed in the browser"
+2026-11-04T17:14:18Z,iruka,0.0.1,ShunmeiCho,MIT,4136,"Iruka Agent - placeholder, coming soon"
+2026-11-04T17:14:24Z,iruka-agent,0.0.1,ShunmeiCho,MIT,4257,"Iruka Agent - placeholder, coming soon"
+2026-11-04T17:15:06Z,pricepinning,0.1.0,Laura Kruse-Stecher,MIT,29622,"Detect stocks whose price has stopped moving, typically after a cash takeover offer, from prices alone"
+2026-11-04T17:15:10Z,tenor-engine,1.0.0,Exortic Research Lab <research@exortic.com>,MIT,233187,4D Spatio-Temporal Episodic-Entity Knowledge Graph Memory Architecture with Signed Associative Plasticity (4D-EEKG)
+2026-11-04T17:15:44Z,tba-capability-policy-evaluation,0.4.0.dev2,,Apache-2.0,5378,Composable protocol-neutral policy evaluation and entity-search capability.
+2026-11-04T17:17:36Z,intel-npu-server,0.3.0,Alex Spirin,MIT,49253,Local OpenAI-compatible server for OpenVINO GenAI models (primarily on Intel NPU)
+2026-11-04T17:17:58Z,tba-capability-possession-proof,0.4.0.dev2,,Apache-2.0,3176,"Possession proof issue, verification, confirmation-key, and context-binding capability."
+2026-11-04T17:18:03Z,agvisor,0.1.0,Sadok Barbouche,MIT,35906,"gVisor sandboxes for coding agents, with resource limits and optional GUI"
