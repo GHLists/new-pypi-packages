@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-03T23:19:38Z,gdsfactoryx,9.51.0,gdsfactory community,,1586627,python library to generate GDS layouts
+2026-11-03T23:21:57Z,wvc,0.1.0,Evan Smith,Apache-2.0,373504,"Version control primitives for model weights: tensor-level hashing and diffs of safetensors checkpoints, without PyTorch."
+2026-11-03T23:23:17Z,gdsf,0.0.1,,Proprietary,26790170,A minimal Python SDK for gdsf layouts
+2026-11-03T23:24:21Z,langchain-memtomem,0.1.0,memtomem contributors,Apache-2.0,58418,A LangGraph BaseStore whose query search runs the memtomem pipeline over Markdown projections
+2026-11-03T23:25:04Z,rec-benchmark,0.1.0,Sikun Xu <xusikun96@gmail.com>,Apache-2.0,206814,"Framework-agnostic recsys benchmarking harness — pinned benchmarks, pluggable algorithms, reproducible runs."
+2026-11-03T23:26:29Z,allegro-buddy,0.1.1,Grutschus,MIT,197352,"A friendly Slurm helper, with presets for the Allegro cluster."
+2026-11-03T23:27:21Z,killchain,0.1.4,Josh Simmons,MIT,105277,Split a build so a frontier coding agent never sees the risky half.
+2026-11-03T23:28:23Z,advexp,0.0.1,Alexey Ivakin,Apache-2.0,12626,"PyPI name reservation for the advexp vendor namespace; the Advexp packages for Python (advexp-settings, advexp-configuration, ...) are published under this prefix"
+2026-11-03T23:31:28Z,naulon,0.1.0,naulon,MIT,106692,Charge AI agents to read your site from inside any Python web app. People always read free.
+2026-11-03T23:33:40Z,wherefore-build,0.5.1,Wherefore <hello@wherefore.build>,Apache-2.0,229314,"A company that compiles: every asset generated from one source of truth, every change proven."
+2026-11-03T23:37:13Z,madeleine-mcp,0.1.0,madeleine contributors,Apache-2.0,395719,"Involuntary, cue-triggered memory for AI agents: sensory signals surface related memories without being asked."
+2026-11-03T23:37:31Z,algodif,1.0.0,Nghia Vo <nvo@bnl.gov>,Apache-2.0,92583,Data processing algorithms for diffraction-based X-ray techniques
+2026-11-03T23:37:57Z,unix-pass-mcp,0.2.1,,MIT,790123,"Local MCP access to Unix pass/GPG with read-only defaults, path scopes, and TOTP"
+2026-11-03T23:38:03Z,atomberg-api,0.1.1,Ratul BMG,MIT,13719,"Async Python client for the Atomberg public cloud API (fans, water purifiers, smart locks)"
+2026-11-03T23:39:10Z,firpm,0.2.2,,"Copyright (c) 2016-2024, S. Filip. All rights reserved. Redistribution and use in source and binary…",32199510,Robust Parks-McClellan FIR filter design
+2026-11-03T23:42:13Z,pysrim2,0.6.0,"Chris Ostrouchov, Arun Persaud",MIT,5747510,Automation of SRIM (Stopping and Range of Ions in Matter) tasks via Python
+2026-11-03T23:45:38Z,papertrace,0.2.0,Guilherme Abreu Cavazzani,MIT,2743000,Multi-agent research assistant that cites only the papers it actually retrieved.
+2026-11-03T23:48:24Z,kubernetes-k8s-services-python-local,0.0.2b4509,Circles,,12090,PyPI kubernetes-k8s-services-python-local Python Package owned by Circlez.ai
+2026-11-03T23:48:58Z,pandoc-para,0.2.0,Kolen Cheung <christian.kolen@gmail.com>,BSD-3-Clause,232882,para.site: a pandoc-first static site generator
+2026-11-03T23:51:25Z,nomba,0.1.1,Nomba <security@nomba.com>,MIT,115101,"Official Python SDK for the Nomba API: transfers, checkout, virtual accounts, bills and webhooks."
+2026-11-03T23:52:22Z,spikemem,0.0.1,PsycorAI,,3070,"SpikeMem: spiking, Hebbian long-term memory for AI agents. Early placeholder; the first working release is coming."
+2026-11-03T23:54:17Z,fresh-solutions,0.9.3,UBC FRESH Lab,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",172934,A hybrid metaheuristic engine for hard combinatorial optimisation
+2026-11-03T23:54:58Z,machinome-skills,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,77105,"The machinome skills for assistants that read Agent Skills, and the command machinome skills that installs them"
+2026-11-03T23:55:13Z,machinome-studio,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,5133948,Machinome Studio: a project hub and workspace in the browser where a team of agents builds a machinome project with its maker
+2026-11-03T23:55:29Z,machinome-viewer-openscad,0.9.0,Luis Fagundes <lhfagundes@gmail.com>,GPL-2.0-or-later OR CERN-OHL-S-2.0+,36003,The OpenSCAD viewer of Machinome: a still of a machine drawn by the openscad executable
+2026-11-03T23:56:06Z,microvasc,0.2.0,Helya Goharbavang,MIT,541531,Segmentation and skeletonization of large-scale microvascular networks
+2026-11-04T00:06:03Z,bitcoinstratigraphy-agent-yield,0.1.0,,AGPL-3.0-only OR LicenseRef-Commercial,41371,"One-call MCP discovery, budgeted L402 settlement and fiduciary tools for Python agents."
+2026-11-04T00:07:49Z,spotify-play-count-mcp,0.1.0,,MIT,23151,"Stdio MCP server for Spotify play counts, monthly listeners and followers via Apify's hosted MCP gateway"
+2026-11-04T00:09:34Z,botmoot,0.5.0,The Botmoot authors,MIT,1040733,"A local room where Claude Code, Codex and their owner collaborate, with live terminal seats"
+2026-11-04T00:13:58Z,nc2-iam-preflight,0.1.0,Alex Alvord <325058966+cloudlabworks@users.noreply.github.com>,MIT,39551,"Before onboarding Nutanix Cloud Clusters (NC2), ask the cloud itself which IAM permissions you are missing. Read-only; AWS, Azure and Google Cloud."
+2026-11-04T00:14:10Z,nibs,0.1.0,nhinata,MIT,29656,"Read a web page by its headings: list them, then print only the section you need"
