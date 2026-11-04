@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T03:18:45Z,openvero,1.0.0,OpenVero contributors,Apache-2.0,108726,OpenVero — multilingual AI-text detection open framework: microkernel + distributed language-pack ecosystem.
+2026-11-04T03:21:11Z,yoinktui,1.0.0,Zakariya Zahid,MIT,264284,Steam-style TUI download manager for YouTube and 1000+ sites via yt-dlp + ffmpeg
+2026-11-04T03:22:06Z,agentcrash-core,0.2.0,,,604818,Installable reliability framework for agentic workflows
+2026-11-04T03:22:18Z,freetrans-py,0.1.0,Matthias Kreier,Apache-2.0,52989,"Free, open translation across multiple providers with curl-cffi anti-rate-limiting"
+2026-11-04T03:24:09Z,fluent-blue,0.1.0,Fluent Blue contributors,MIT,4353962,"A modern, token-driven design system and component library for PyQt6 and PySide6 desktop applications."
+2026-11-04T03:24:53Z,bazaar-compute,0.3.0rc17,,Apache-2.0,23932,The Bazaar Compute Application
+2026-11-04T03:25:26Z,pydantic-opamp-otel,0.1.1,,MIT,41079,"OpenTelemetry auto-instrumentation under an OpAMP server: install it, and opentelemetry-instrument takes its SDK settings (sampling, what to send, which instrumentations run) from the server"
+2026-11-04T03:26:46Z,openbrewing,0.0.1a0,,,4973,Experimental OpenBrewing utilities for brewing temperature and volume conversions.
+2026-11-04T03:27:08Z,vintasend-twilio,3.6.0,Hugo bessa,MIT,16752,Twilio SMS adapter for VintaSend
+2026-11-04T03:31:22Z,node804-hpe-msa,0.1.0,Michael Pope <me@michaelpope.cv>,MIT,152016,"Token-efficient, read-only MCP server for HPE MSA (Modular Smart Array) storage"
+2026-11-04T03:31:23Z,oath-relay,0.2.0,Peng Ding,MIT,98126,Share a stateful HOTP token across devices from one counter
+2026-11-04T03:32:27Z,tb_trino,0.2.13,Trino MCP Contributors,MIT,165297,A simple Model Context Protocol (MCP) server for Trino with OAuth support
+2026-11-04T03:33:52Z,discord.py.logging,0.1.0,Wildbush <75509166+Wildbush76@users.noreply.github.com>,,4434,A logger handle that uses discord
+2026-11-04T03:34:09Z,ua-card-image-grep,0.1.2,,,20347,"Download Union Arena card images from rugiacreation.com search pages with getUAcard(serial_name, url)"
+2026-11-04T03:38:09Z,hatsuon,0.1.1,Công Anh Dũng,MIT,110567,"Japanese pronunciation scoring: mora-level accuracy, special morae and pitch accent."
+2026-11-04T03:42:42Z,wis2box-json2bufr-WaveBuoyJson,0.0.4,Bill Self <bill.self@metservice.com>,MIT,14960,This is a wis2box plug in that can convert wavebuoy json to bufr. It converts the json to csv and then uses the existing wis2box csv2bufr facility in the wis2box-api container
+2026-11-04T03:44:17Z,dotguard-cli,0.2.0,Kanhaiya Kumar,MIT,45112,"Validate .env files against a documented .env.example, and keep real secrets out of git."
+2026-11-04T03:44:23Z,amv-vision,2.0.0,amv-vision contributors,Apache-2.0,240341,"Computer vision, image processing, and VLM multimodal inference for Termux utilizing device resources for Android Termux"
+2026-11-04T03:54:41Z,papa-lint,0.1.0,Bharadwaj Pendyala,MIT,98809,"Hemingway-grade readability for your docs pipeline: CLI, library and CI gate."
+2026-11-04T03:56:20Z,airferry,0.1.0,,,2422564,Convert files into AirFerry QR transfer videos with offline codecs.
+2026-11-04T04:08:26Z,my-mcp-server-driving-license-ocr,0.1.0,,,5082,
+2026-11-04T04:10:03Z,ehor,0.1.1,,MIT,342493,"Signed, encrypted, serverless messaging between Claude agents"
+2026-11-04T04:10:46Z,sidequestpays,0.1.0,Crescent Harbor LLC <hello@sidequestpays.com>,MIT,21169,Let AI agents hire verified people for real-world tasks. Python client and agent tools for SideQuest.
+2026-11-04T04:10:55Z,proc-cli,2.3.0,Yazeed Al Oyoun <me@yazeed.com>,MIT AND MPL-2.0 AND Unicode-3.0 AND (Apache-2.0 OR MIT) AND (Unlicense OR MIT) AND (Apache-2.0 WITH…,6121651,"Semantic CLI tool for process management. Target by port, PID, name or path."
+2026-11-04T04:13:20Z,metawalker,0.2.0,,MIT,119356,"Learned black-box optimizers (RL-controlled CMA-ES, learned walkers) as a drop-in for GridSearchCV"
+2026-11-04T04:14:47Z,gothos,0.2.0,GouthamRajam,MIT,235912,"Provider-agnostic Android AI agent — automates any device using any LLM with safety gates, memory, planning and visual grounding"
