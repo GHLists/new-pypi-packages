@@ -8,37 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 04:20 UTC
+## Latest list — 2026-11-04 05:18 UTC
 
-New packages created between 2026-11-04 03:18 UTC and 2026-11-04 04:20 UTC.
+New packages created between 2026-11-04 04:20 UTC and 2026-11-04 05:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-04T04-20-50-778237Z.csv)
+[Full CSV](data/new-packages-2026-11-04T05-18-19-074682Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-04 03:18:45 | [openvero](https://pypi.org/project/openvero/) | 1.0.0 | OpenVero contributors | 108.7 kB | OpenVero — multilingual AI-text detection open framework: microkernel + distrib… |
-| 2026-11-04 03:21:11 | [yoinktui](https://pypi.org/project/yoinktui/) | 1.0.0 | Zakariya Zahid | 264.3 kB | Steam-style TUI download manager for YouTube and 1000+ sites via yt-dlp + ffmpeg |
-| 2026-11-04 03:22:06 | [agentcrash-core](https://pypi.org/project/agentcrash-core/) | 0.2.0 |  | 604.8 kB | Installable reliability framework for agentic workflows |
-| 2026-11-04 03:22:18 | [freetrans-py](https://pypi.org/project/freetrans-py/) | 0.1.0 | Matthias Kreier | 53.0 kB | Free, open translation across multiple providers with curl-cffi anti-rate-limit… |
-| 2026-11-04 03:24:09 | [fluent-blue](https://pypi.org/project/fluent-blue/) | 0.1.0 | Fluent Blue contributors | 4.4 MB | A modern, token-driven design system and component library for PyQt6 and PySide… |
-| 2026-11-04 03:24:53 | [bazaar-compute](https://pypi.org/project/bazaar-compute/) | 0.3.0rc17 |  | 23.9 kB | The Bazaar Compute Application |
-| 2026-11-04 03:25:26 | [pydantic-opamp-otel](https://pypi.org/project/pydantic-opamp-otel/) | 0.1.1 |  | 41.1 kB | OpenTelemetry auto-instrumentation under an OpAMP server: install it, and opent… |
-| 2026-11-04 03:26:46 | [openbrewing](https://pypi.org/project/openbrewing/) | 0.0.1a0 |  | 5.0 kB | Experimental OpenBrewing utilities for brewing temperature and volume conversio… |
-| 2026-11-04 03:27:08 | [vintasend-twilio](https://pypi.org/project/vintasend-twilio/) | 3.6.0 | Hugo bessa | 16.8 kB | Twilio SMS adapter for VintaSend |
-| 2026-11-04 03:31:22 | [node804-hpe-msa](https://pypi.org/project/node804-hpe-msa/) | 0.1.0 | Michael Pope <me@michaelpope.… | 152.0 kB | Token-efficient, read-only MCP server for HPE MSA (Modular Smart Array) storage |
-| 2026-11-04 03:31:23 | [oath-relay](https://pypi.org/project/oath-relay/) | 0.2.0 | Peng Ding | 98.1 kB | Share a stateful HOTP token across devices from one counter |
-| 2026-11-04 03:32:27 | [tb_trino](https://pypi.org/project/tb_trino/) | 0.2.13 | Trino MCP Contributors | 165.3 kB | A simple Model Context Protocol (MCP) server for Trino with OAuth support |
-| 2026-11-04 03:33:52 | [discord.py.logging](https://pypi.org/project/discord.py.logging/) | 0.1.0 | Wildbush <75509166+Wildbush76… | 4.4 kB | A logger handle that uses discord |
-| 2026-11-04 03:34:09 | [ua-card-image-grep](https://pypi.org/project/ua-card-image-grep/) | 0.1.2 |  | 20.3 kB | Download Union Arena card images from rugiacreation.com search pages with getUA… |
-| 2026-11-04 03:38:09 | [hatsuon](https://pypi.org/project/hatsuon/) | 0.1.1 | Công Anh Dũng | 110.6 kB | Japanese pronunciation scoring: mora-level accuracy, special morae and pitch ac… |
-| 2026-11-04 03:42:42 | [wis2box-json2bufr-WaveBuoyJson](https://pypi.org/project/wis2box-json2bufr-WaveBuoyJson/) | 0.0.4 | Bill Self <bill.self@metservi… | 15.0 kB | This is a wis2box plug in that can convert wavebuoy json to bufr. It converts t… |
-| 2026-11-04 03:44:17 | [dotguard-cli](https://pypi.org/project/dotguard-cli/) | 0.2.0 | Kanhaiya Kumar | 45.1 kB | Validate .env files against a documented .env.example, and keep real secrets ou… |
-| 2026-11-04 03:44:23 | [amv-vision](https://pypi.org/project/amv-vision/) | 2.0.0 | amv-vision contributors | 240.3 kB | Computer vision, image processing, and VLM multimodal inference for Termux util… |
-| 2026-11-04 03:54:41 | [papa-lint](https://pypi.org/project/papa-lint/) | 0.1.0 | Bharadwaj Pendyala | 98.8 kB | Hemingway-grade readability for your docs pipeline: CLI, library and CI gate. |
-| 2026-11-04 03:56:20 | [airferry](https://pypi.org/project/airferry/) | 0.1.0 |  | 2.4 MB | Convert files into AirFerry QR transfer videos with offline codecs. |
-| 2026-11-04 04:08:26 | [my-mcp-server-driving-license-ocr](https://pypi.org/project/my-mcp-server-driving-license-ocr/) | 0.1.0 |  | 5.1 kB |  |
-| 2026-11-04 04:10:03 | [ehor](https://pypi.org/project/ehor/) | 0.1.1 |  | 342.5 kB | Signed, encrypted, serverless messaging between Claude agents |
-| 2026-11-04 04:10:46 | [sidequestpays](https://pypi.org/project/sidequestpays/) | 0.1.0 | Crescent Harbor LLC <hello@si… | 21.2 kB | Let AI agents hire verified people for real-world tasks. Python client and agen… |
-| 2026-11-04 04:10:55 | [proc-cli](https://pypi.org/project/proc-cli/) | 2.3.0 | Yazeed Al Oyoun <me@yazeed.co… | 6.1 MB | Semantic CLI tool for process management. Target by port, PID, name or path. |
-| 2026-11-04 04:13:20 | [metawalker](https://pypi.org/project/metawalker/) | 0.2.0 |  | 119.4 kB | Learned black-box optimizers (RL-controlled CMA-ES, learned walkers) as a drop-… |
-| 2026-11-04 04:14:47 | [gothos](https://pypi.org/project/gothos/) | 0.2.0 | GouthamRajam | 235.9 kB | Provider-agnostic Android AI agent — automates any device using any LLM with sa… |
+| 2026-11-04 03:48:08 | [kamalator](https://pypi.org/project/kamalator/) | 0.1.1 | M. Kamal | 66.4 kB | Bidirectional SQL-to-SQLAlchemy 2.0 ORM and SQLAlchemy-to-Raw-SQL transpiler fo… |
+| 2026-11-04 04:12:14 | [doushu](https://pypi.org/project/doushu/) | 0.4.1 |  | 9.0 kB | 紫微斗数ziwei的同版安装与导入别名 |
+| 2026-11-04 04:22:20 | [lintel-api](https://pypi.org/project/lintel-api/) | 0.1.0a1 |  | 164.9 kB | UMF-driven GraphQL interoperability spikes (not a production runtime) |
+| 2026-11-04 04:23:45 | [umf-codegen](https://pypi.org/project/umf-codegen/) | 0.10.8 |  | 119.3 kB | UMF typed Python client generation backed by the native Rust compiler |
+| 2026-11-04 04:25:14 | [mneme-storage](https://pypi.org/project/mneme-storage/) | 1.0.0 |  | 23.1 kB | Official Mneme SDK: encrypted file storage on Filecoin, with an API key. |
+| 2026-11-04 04:35:45 | [pybopu](https://pypi.org/project/pybopu/) | 0.1.1 | Luciano Silva <luciano.silva@… | 457.7 kB | Python Brain Organoid Processing Unit (BOPU / OPU): Biocomputing, In Vitro Wetw… |
+| 2026-11-04 04:43:50 | [tatolab-camera](https://pypi.org/project/tatolab-camera/) | 0.68.21 | Jonathan Fontanez <fontanezj1… | 717.9 kB | A camera node as an extension wheel: V4L2 or AVFoundation capture handed to the… |
+| 2026-11-04 04:47:18 | [sett-mcp](https://pypi.org/project/sett-mcp/) | 0.0.1 | Kirk Clarke | 13.8 kB | Create safe-by-default Python MCP servers: read-only until you say otherwise. |
+| 2026-11-04 04:47:47 | [comixto](https://pypi.org/project/comixto/) | 0.3.1 | fratboys <fratboys@users.nore… | 36.5 kB | Pure-Python comix.to client: request signing, x-enc decrypt, WAF solver |
+| 2026-11-04 04:53:28 | [lowcoai-flux](https://pypi.org/project/lowcoai-flux/) | 0.1.0 |  | 43.5 kB | Official Python client for the lowco flux realtime WebSocket service. |
+| 2026-11-04 04:54:13 | [crawly-ai](https://pypi.org/project/crawly-ai/) | 2.2.1 | Lokesh Kumar <crawly.theliter… | 149.5 kB | crawly: the literature assistant — Multi-source academic paper discovery, PDF d… |
+| 2026-11-04 04:55:10 | [yab-mcp](https://pypi.org/project/yab-mcp/) | 2.3.1 | dassey | 252.7 kB | YABlenderMCP: a local-only MCP server that lets an AI agent work in Blender 5.1 |
+| 2026-11-04 04:55:45 | [msai-client](https://pypi.org/project/msai-client/) | 0.1.0 | Manh Nguyen | 1.2 MB | Client Python cho public API của MS AI Platform — sinh từ OpenAPI public, có Id… |
+| 2026-11-04 04:56:58 | [autogrouper](https://pypi.org/project/autogrouper/) | 0.1.0 | Rajat Kumar Mondal | 50.9 kB | Automatic prefix-based grouping of string collections — no delimiter, no schema… |
+| 2026-11-04 04:59:30 | [reef-vcs](https://pypi.org/project/reef-vcs/) | 0.4.0 | Reef contributors | 523.6 kB | Python client for the Reef daemon: workspaces for agents on git and jj reposito… |
+| 2026-11-04 04:59:33 | [popu](https://pypi.org/project/popu/) | 0.1.1 | Popu contributors | 5.7 MB | Popu native notification tool and Python SDK for Windows |
+| 2026-11-04 05:00:49 | [inventree-shopping-cart](https://pypi.org/project/inventree-shopping-cart/) | 1.0.0 | Oliver Walters <oliver.henry.… | 320.1 kB | Collect purchase requests in a shopping cart, and consolidate them into purchas… |
+| 2026-11-04 05:05:56 | [pynltp](https://pypi.org/project/pynltp/) | 1.2.0 | Amandeep Singh Bains | 173.0 kB | NLTP v1.2: loss-resilient ChaCha20-Poly1305 encrypted UDP file & telemetry tran… |
+| 2026-11-04 05:07:01 | [pchips](https://pypi.org/project/pchips/) | 1.0.1 | Victor Glazer | 39.2 kB | A drop-in replacement for scipy.interpolate.PchipInterpolator using H. T. Huynh… |
+| 2026-11-04 05:08:45 | [nlalpha-backtest](https://pypi.org/project/nlalpha-backtest/) | 0.8.0 |  | 253.8 kB | Backtest execution MCP tool for nlalpha |

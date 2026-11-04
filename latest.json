@@ -1,34 +1,20 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-11-04T03:18:18.85281Z",
-    "path": "data/new-packages-2026-11-04T04-20-50-778237Z.csv",
-    "to": "2026-11-04T04:20:50.778237Z"
+    "count": 20,
+    "from": "2026-11-04T04:20:50.778237Z",
+    "path": "data/new-packages-2026-11-04T05-18-19-074682Z.csv",
+    "to": "2026-11-04T05:18:19.074682Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-11-04T04:12:14Z",
-      "package": "doushu",
-      "since": "2026-11-04T03:18:18.85281Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-04T03:48:08Z",
-      "package": "kamalator",
-      "since": "2026-11-04T03:18:18.85281Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-04T02:53:10Z",
       "package": "sandbox-kit-run-2",
       "since": "2026-11-04T02:18:39.232174Z",
       "version": null
     }
   ],
-  "serial": 43173968,
+  "serial": 43175400,
   "source_truncated": false,
-  "window": "2026-11-04T04:20:50.778237Z"
+  "window": "2026-11-04T05:18:19.074682Z"
 }

@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T03:48:08Z,kamalator,0.1.1,M. Kamal,MIT,66370,Bidirectional SQL-to-SQLAlchemy 2.0 ORM and SQLAlchemy-to-Raw-SQL transpiler for Oracle and PostgreSQL.
+2026-11-04T04:12:14Z,doushu,0.4.1,,MIT,9043,紫微斗数ziwei的同版安装与导入别名
+2026-11-04T04:22:20Z,lintel-api,0.1.0a1,,,164928,UMF-driven GraphQL interoperability spikes (not a production runtime)
+2026-11-04T04:23:45Z,umf-codegen,0.10.8,,MIT OR Apache-2.0,119313,UMF typed Python client generation backed by the native Rust compiler
+2026-11-04T04:25:14Z,mneme-storage,1.0.0,,MIT,23115,"Official Mneme SDK: encrypted file storage on Filecoin, with an API key."
+2026-11-04T04:35:45Z,pybopu,0.1.1,Luciano Silva <luciano.silva@neurohil.io>,Apache-2.0,457747,"Python Brain Organoid Processing Unit (BOPU / OPU): Biocomputing, In Vitro Wetware, and Neural Organoid Simulation Framework"
+2026-11-04T04:43:50Z,tatolab-camera,0.68.21,Jonathan Fontanez <fontanezj1@gmail.com>,BUSL-1.1,717916,"A camera node as an extension wheel: V4L2 or AVFoundation capture handed to the engine as DMA-BUFs or IOSurfaces and converted on the GPU, with no CPU copy."
+2026-11-04T04:47:18Z,sett-mcp,0.0.1,Kirk Clarke,Apache-2.0,13847,Create safe-by-default Python MCP servers: read-only until you say otherwise.
+2026-11-04T04:47:47Z,comixto,0.3.1,fratboys <fratboys@users.noreply.github.com>,MIT,36480,"Pure-Python comix.to client: request signing, x-enc decrypt, WAF solver"
+2026-11-04T04:53:28Z,lowcoai-flux,0.1.0,,MIT,43500,Official Python client for the lowco flux realtime WebSocket service.
+2026-11-04T04:54:13Z,crawly-ai,2.2.1,Lokesh Kumar <crawly.theliteratureassistant@gmail.com>,GPL-3.0-or-later,149500,"crawly: the literature assistant — Multi-source academic paper discovery, PDF downloader & local/cloud AI literature review engine"
+2026-11-04T04:55:10Z,yab-mcp,2.3.1,dassey,MIT,252739,YABlenderMCP: a local-only MCP server that lets an AI agent work in Blender 5.1
+2026-11-04T04:55:45Z,msai-client,0.1.0,Manh Nguyen,MIT,1181426,"Client Python cho public API của MS AI Platform — sinh từ OpenAPI public, có Idempotency-Key + kiểm chữ ký webhook"
+2026-11-04T04:56:58Z,autogrouper,0.1.0,Rajat Kumar Mondal,MIT,50908,"Automatic prefix-based grouping of string collections — no delimiter, no schema, no external dependencies."
+2026-11-04T04:59:30Z,reef-vcs,0.4.0,Reef contributors,Apache-2.0,523555,Python client for the Reef daemon: workspaces for agents on git and jj repositories.
+2026-11-04T04:59:33Z,popu,0.1.1,Popu contributors,Apache-2.0,5706884,Popu native notification tool and Python SDK for Windows
+2026-11-04T05:00:49Z,inventree-shopping-cart,1.0.0,Oliver Walters <oliver.henry.walters@gmail.com>,MIT,320085,"Collect purchase requests in a shopping cart, and consolidate them into purchase orders"
+2026-11-04T05:05:56Z,pynltp,1.2.0,Amandeep Singh Bains,MIT,173034,NLTP v1.2: loss-resilient ChaCha20-Poly1305 encrypted UDP file & telemetry transport with GF(2^8) Cauchy FEC and 4G CGNAT traversal
+2026-11-04T05:07:01Z,pchips,1.0.1,Victor Glazer,MIT,39197,A drop-in replacement for scipy.interpolate.PchipInterpolator using H. T. Huynh's accurate monotone cubic interpolant.
+2026-11-04T05:08:45Z,nlalpha-backtest,0.8.0,,AGPL-3.0-or-later,253822,Backtest execution MCP tool for nlalpha
