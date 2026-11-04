@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T08:19:36Z,onetimesecret-v2,0.1.0,Delano Mandelbaum <pypi@onetimesecret.com>,MIT,73692,Official Python client for the Onetime Secret API
+2026-11-04T08:20:10Z,sbn-common-poc,1.0.0,,,4858,Common Spark/Delta utilities for HANA Spark POC
+2026-11-04T08:20:30Z,pyxtdpthresh,0.0.1,Frederick Kahindo <frederickahindo048@gmail.com>,MIT,12173980,"Dynamic panel threshold models in Python: ports of Stata's xthenreg and xtdpthresh, validated against Stata"
+2026-11-04T08:23:23Z,batchanchor,0.1.0,Abhimanyu Nair,MIT,29059,Resumable Python batch jobs with SQLite checkpoints and bounded concurrency.
+2026-11-04T08:24:00Z,intflow-infra-client,0.2.0,,,31663,INFRA Portal CLI and MCP client
+2026-11-04T08:24:36Z,agentforge-toolkit,1.1.0,AgentForge Contributors,"MIT License Copyright (c) 2026 AgentForge Contributors Permission is hereby granted, free of charge…",377535,"Vendor-neutral skills, agents, rules, and workflows for AI coding agents"
+2026-11-04T08:30:32Z,cragkit,1.0.0rc1,Vaibhav Suman,MIT,655152,"Native Python retrieval with source-linked evidence, coverage estimates and execution diagnostics."
+2026-11-04T08:31:06Z,ErisPulse-QvQMemes,0.1.0,,MIT,62988,ErisPulse 表情包系统插件：自动收录打标签、语义选图发送 —— 全智能零概率（QvQChat 伴侣模块）
+2026-11-04T08:31:09Z,ErisPulse-QvQStalker,0.1.0,,MIT,80998,ErisPulse 群聊参与决策插件：旁听群消息、五层插话判定、冲动值主动发言 —— Group participation decision plugin for ErisPulse (QvQChat companion)
+2026-11-04T08:31:15Z,ErisPulse-TTS,0.1.0,,MIT,41466,ErisPulse 通用 TTS 插件：任意 OpenAI 兼容语音合成接口（默认 SiliconFlow CosyVoice2），合成 + 发语音 + 音色克隆，QvQChat 生态约定
+2026-11-04T08:33:40Z,keystone-agent-tools,0.1.5,,,72497,"The file tools a platform agent gets (read / search / create / render / edit an artifact through file-artifact), the extended knowledge-base toolset (FR-180), and how a turn's attachments reach the m…"
+2026-11-04T08:33:42Z,keystone-agui,0.1.1,,,156778,AG-UI (Agent-User Interaction Protocol) shared surface: reading RunAgentInput (and what is deliberately refused from it) + encoding events for SSE. Consumed by every service that speaks AG-UI outward…
+2026-11-04T08:34:54Z,cavi-mcp-core,0.1.0,CAVI AI,MIT,34114,"Server type, result contracts, schemas, bounded processes and file journals for CAVI MCP servers"
+2026-11-04T08:36:43Z,aiosamstream,0.1.0,Islam Ahmady,Apache-2.0,175486,"Async client for Samsung Tizen TVs: control, sdb sideloading and the Samstream player app"
+2026-11-04T08:40:09Z,lorebo-sdk,0.1.0,LexRAG,MIT,26442,Save and retrieve Lorebo knowledge from your application with any LLM
+2026-11-04T08:40:14Z,cavi-adobe-mcp,0.1.0,CAVI AI,MIT,257007,"MCP servers for Adobe Photoshop, Illustrator, After Effects, Animate, Character Animator and Dimension"
+2026-11-04T08:46:53Z,langchain-pagesift,1.1.0,,AGPL-3.0-only,9522,"LangChain document loader for pagesift: web pages, sites and local files as Markdown, no API key."
+2026-11-04T08:46:56Z,llama-index-readers-pagesift,1.1.0,,AGPL-3.0-only,10332,"LlamaIndex reader for pagesift: web pages, sites and local files as Markdown, no API key."
+2026-11-04T08:48:14Z,fastcas-sdk,0.1.1,FastR-D,MIT,13861,Optional FastCAS login and account linking for Python applications
+2026-11-04T08:52:48Z,membase-google-adk,0.1.0,Unibase,MIT,22341,Membase memory for Google ADK: a memory service with time-boxed recall and deliberate search/save/profile tools.
+2026-11-04T08:52:52Z,membase-haystack,0.1.0,Unibase,MIT,21202,"Membase memory for Haystack: a memory store, a time-boxed retriever component and search/save/profile agent tools."
+2026-11-04T08:53:22Z,zibloh-rpa-lib,0.1.1,Milmoh,Apache-2.0,249799,"Librería RPA on-premise: escritorio, navegador, correo, hojas de cálculo y documentos."
+2026-11-04T08:55:59Z,sandbox-kit-123,0.1.0,,,1824,Build-integrity fixture. Not a real library.
+2026-11-04T08:56:03Z,mcp-telegram-agent,0.1.2,PCKuo,MIT,96118,"FastMCP-style MCP server empowering AI agents with full-featured Telegram Bot control: rich keyboards, local files, media albums, and interactive widgets."
+2026-11-04T08:58:58Z,cohort-diff,0.1.0,Eric Yang,MIT,43763,How different are 'the same' EHR cohorts? Run published definitions side by side on MIMIC-IV and diff them.
+2026-11-04T09:02:01Z,ercot-api,0.1.0,BitSquad LLC <admin@megawattland.com>,MIT,8404,Minimal client skeleton for the ERCOT Public API (api.ercot.com/api/public-reports)
+2026-11-04T09:02:25Z,curtailment,0.1.0,BitSquad LLC <admin@megawattland.com>,MIT,8897,Curtailment proof report: measured load vs. ERCOT real-time price from a CSV log
+2026-11-04T09:02:27Z,hashprice,0.1.0,BitSquad LLC <admin@megawattland.com>,MIT,6659,Bitcoin hashprice: USD per PH/s per day from BTC price and network hashrate
+2026-11-04T09:02:51Z,encoding-claim-audit,0.1.0,encoding-claim-audit contributors,MIT,17543,Offline audit of documented text encoding claims against Python source
+2026-11-04T09:02:59Z,streaming-claim-audit,0.1.0,streaming-claim-audit contributors,MIT,19995,Offline static audit of documented streaming and low-memory claims
+2026-11-04T09:03:08Z,atomic-claim-audit,0.1.0,,MIT,18507,Offline audit of documented atomic-write claims against Python source.
+2026-11-04T09:03:17Z,concurrency-claim-audit,0.1.0,,MIT,21006,Offline audit of documented concurrency claims against Python source.
+2026-11-04T09:03:17Z,largecardinals,0.1.0,"""Dr. Dimitrios Geromichalos"" <riskdatascience@web.de>",Apache-2.0,386157,"Symbolic large-cardinal specifications, typed implications and exact finite models"
+2026-11-04T09:05:33Z,adb-scrollshot,0.1.0,,MIT,55308,Lossless Android scrolling screenshots with automatic capture and overlap removal
+2026-11-04T09:05:35Z,mayim-agent,2.0.0,mAG,MIT,5495642,"Deterministic runtime for AI agents to inspect HTTP 402 services, complete rewarded tasks, execute bounded paid actions, and recover safely across L402, x402, and MPP."
+2026-11-04T09:06:36Z,pysqlconnector,0.1.0,Do_brx,MIT,141922,dbms experiments just impp extensions for dbms
+2026-11-04T09:08:37Z,yapg-py,0.4.0,Antonio Elena,MIT,252693,"Yet another password generator: API keys, passwords, Diceware passphrases (en/es/de), PINs, recovery codes, TOTP, SSH/WireGuard/JWT/htpasswd material. CLI, REST API and an offline web page."
+2026-11-04T09:10:35Z,sandbox-kit-456,0.1.1,,,1829,Build-integrity fixture. Not a real library.
+2026-11-04T09:10:37Z,keirolabs-api,1.0.0,Keirolabs <team@keirolabs.cloud>,MIT,24198,"Web search for AI agents. One-line search, prompt-ready web context, and web search for any OpenAI or Anthropic client."
+2026-11-04T09:13:56Z,batoolset-gui,0.2.0,Benoit Aigouy,BSD,548011,"Qt/GUI layer for batoolset (drawings, figure, luts, widgets)"
+2026-11-04T09:18:29Z,dsfolder,0.0.0.1,,,68004,Add your description here
