@@ -8,42 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 00:20 UTC
+## Latest list — 2026-11-04 01:19 UTC
 
-New packages created between 2026-11-03 23:18 UTC and 2026-11-04 00:20 UTC.
+New packages created between 2026-11-04 00:20 UTC and 2026-11-04 01:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-04T00-20-33-187295Z.csv)
+[Full CSV](data/new-packages-2026-11-04T01-19-00-257041Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-03 23:19:38 | [gdsfactoryx](https://pypi.org/project/gdsfactoryx/) | 9.51.0 | gdsfactory community | 1.6 MB | python library to generate GDS layouts |
-| 2026-11-03 23:21:57 | [wvc](https://pypi.org/project/wvc/) | 0.1.0 | Evan Smith | 373.5 kB | Version control primitives for model weights: tensor-level hashing and diffs of… |
-| 2026-11-03 23:23:17 | [gdsf](https://pypi.org/project/gdsf/) | 0.0.1 |  | 26.8 MB | A minimal Python SDK for gdsf layouts |
-| 2026-11-03 23:24:21 | [langchain-memtomem](https://pypi.org/project/langchain-memtomem/) | 0.1.0 | memtomem contributors | 58.4 kB | A LangGraph BaseStore whose query search runs the memtomem pipeline over Markdo… |
-| 2026-11-03 23:25:04 | [rec-benchmark](https://pypi.org/project/rec-benchmark/) | 0.1.0 | Sikun Xu <xusikun96@gmail.com> | 206.8 kB | Framework-agnostic recsys benchmarking harness — pinned benchmarks, pluggable a… |
-| 2026-11-03 23:26:29 | [allegro-buddy](https://pypi.org/project/allegro-buddy/) | 0.1.1 | Grutschus | 197.4 kB | A friendly Slurm helper, with presets for the Allegro cluster. |
-| 2026-11-03 23:27:21 | [killchain](https://pypi.org/project/killchain/) | 0.1.4 | Josh Simmons | 105.3 kB | Split a build so a frontier coding agent never sees the risky half. |
-| 2026-11-03 23:28:23 | [advexp](https://pypi.org/project/advexp/) | 0.0.1 | Alexey Ivakin | 12.6 kB | PyPI name reservation for the advexp vendor namespace; the Advexp packages for… |
-| 2026-11-03 23:31:28 | [naulon](https://pypi.org/project/naulon/) | 0.1.0 | naulon | 106.7 kB | Charge AI agents to read your site from inside any Python web app. People alway… |
-| 2026-11-03 23:33:40 | [wherefore-build](https://pypi.org/project/wherefore-build/) | 0.5.1 | Wherefore <hello@wherefore.bu… | 229.3 kB | A company that compiles: every asset generated from one source of truth, every… |
-| 2026-11-03 23:37:13 | [madeleine-mcp](https://pypi.org/project/madeleine-mcp/) | 0.1.0 | madeleine contributors | 395.7 kB | Involuntary, cue-triggered memory for AI agents: sensory signals surface relate… |
-| 2026-11-03 23:37:31 | [algodif](https://pypi.org/project/algodif/) | 1.0.0 | Nghia Vo <nvo@bnl.gov> | 92.6 kB | Data processing algorithms for diffraction-based X-ray techniques |
-| 2026-11-03 23:37:57 | [unix-pass-mcp](https://pypi.org/project/unix-pass-mcp/) | 0.2.1 |  | 790.1 kB | Local MCP access to Unix pass/GPG with read-only defaults, path scopes, and TOTP |
-| 2026-11-03 23:38:03 | [atomberg-api](https://pypi.org/project/atomberg-api/) | 0.1.1 | Ratul BMG | 13.7 kB | Async Python client for the Atomberg public cloud API (fans, water purifiers, s… |
-| 2026-11-03 23:39:10 | [firpm](https://pypi.org/project/firpm/) | 0.2.2 |  | 32.2 MB | Robust Parks-McClellan FIR filter design |
-| 2026-11-03 23:42:13 | [pysrim2](https://pypi.org/project/pysrim2/) | 0.6.0 | Chris Ostrouchov, Arun Persaud | 5.7 MB | Automation of SRIM (Stopping and Range of Ions in Matter) tasks via Python |
-| 2026-11-03 23:45:38 | [papertrace](https://pypi.org/project/papertrace/) | 0.2.0 | Guilherme Abreu Cavazzani | 2.7 MB | Multi-agent research assistant that cites only the papers it actually retrieved. |
-| 2026-11-03 23:48:24 | [kubernetes-k8s-services-python-local](https://pypi.org/project/kubernetes-k8s-services-python-local/) | 0.0.2b4509 | Circles | 12.1 kB | PyPI kubernetes-k8s-services-python-local Python Package owned by Circlez.ai |
-| 2026-11-03 23:48:58 | [pandoc-para](https://pypi.org/project/pandoc-para/) | 0.2.0 | Kolen Cheung <christian.kolen… | 232.9 kB | para.site: a pandoc-first static site generator |
-| 2026-11-03 23:51:25 | [nomba](https://pypi.org/project/nomba/) | 0.1.1 | Nomba <security@nomba.com> | 115.1 kB | Official Python SDK for the Nomba API: transfers, checkout, virtual accounts, b… |
-| 2026-11-03 23:52:22 | [spikemem](https://pypi.org/project/spikemem/) | 0.0.1 | PsycorAI | 3.1 kB | SpikeMem: spiking, Hebbian long-term memory for AI agents. Early placeholder; t… |
-| 2026-11-03 23:54:17 | [fresh-solutions](https://pypi.org/project/fresh-solutions/) | 0.9.3 | UBC FRESH Lab | 172.9 kB | A hybrid metaheuristic engine for hard combinatorial optimisation |
-| 2026-11-03 23:54:58 | [machinome-skills](https://pypi.org/project/machinome-skills/) | 0.9.0 | Luis Fagundes <lhfagundes@gma… | 77.1 kB | The machinome skills for assistants that read Agent Skills, and the command mac… |
-| 2026-11-03 23:55:13 | [machinome-studio](https://pypi.org/project/machinome-studio/) | 0.9.0 | Luis Fagundes <lhfagundes@gma… | 5.1 MB | Machinome Studio: a project hub and workspace in the browser where a team of ag… |
-| 2026-11-03 23:55:29 | [machinome-viewer-openscad](https://pypi.org/project/machinome-viewer-openscad/) | 0.9.0 | Luis Fagundes <lhfagundes@gma… | 36.0 kB | The OpenSCAD viewer of Machinome: a still of a machine drawn by the openscad ex… |
-| 2026-11-03 23:56:06 | [microvasc](https://pypi.org/project/microvasc/) | 0.2.0 | Helya Goharbavang | 541.5 kB | Segmentation and skeletonization of large-scale microvascular networks |
-| 2026-11-04 00:06:03 | [bitcoinstratigraphy-agent-yield](https://pypi.org/project/bitcoinstratigraphy-agent-yield/) | 0.1.0 |  | 41.4 kB | One-call MCP discovery, budgeted L402 settlement and fiduciary tools for Python… |
-| 2026-11-04 00:07:49 | [spotify-play-count-mcp](https://pypi.org/project/spotify-play-count-mcp/) | 0.1.0 |  | 23.2 kB | Stdio MCP server for Spotify play counts, monthly listeners and followers via A… |
-| 2026-11-04 00:09:34 | [botmoot](https://pypi.org/project/botmoot/) | 0.5.0 | The Botmoot authors | 1.0 MB | A local room where Claude Code, Codex and their owner collaborate, with live te… |
-| 2026-11-04 00:13:58 | [nc2-iam-preflight](https://pypi.org/project/nc2-iam-preflight/) | 0.1.0 | Alex Alvord <325058966+cloudl… | 39.6 kB | Before onboarding Nutanix Cloud Clusters (NC2), ask the cloud itself which IAM… |
-| 2026-11-04 00:14:10 | [nibs](https://pypi.org/project/nibs/) | 0.1.0 | nhinata | 29.7 kB | Read a web page by its headings: list them, then print only the section you need |
+| 2026-11-04 00:20:55 | [matplotlib-tategaki](https://pypi.org/project/matplotlib-tategaki/) | 1.0.0 |  | 102.0 kB | Stacked labels and Japanese OpenType vertical text for Matplotlib |
+| 2026-11-04 00:21:37 | [gitlane](https://pypi.org/project/gitlane/) | 0.1.0 | Gustavo Leite | 186.4 kB | A free, open-source Git client that runs in your browser. |
+| 2026-11-04 00:26:20 | [pysftp-ng](https://pypi.org/project/pysftp-ng/) | 0.3.0 | Jeff Hinrichs, Abdul Hakim Ar… | 53.3 kB | A friendly face on SFTP. Maintained, drop-in fork of pysftp for paramiko 4/5 an… |
+| 2026-11-04 00:26:49 | [company-social-mcp](https://pypi.org/project/company-social-mcp/) | 0.1.0 |  | 24.6 kB | Stdio MCP server that finds a company's LinkedIn, X, YouTube, Instagram and Fac… |
+| 2026-11-04 00:29:04 | [forge-agent-bridge](https://pypi.org/project/forge-agent-bridge/) | 0.2.0 |  | 1.2 MB | Forge Agent Bridge — universal agent session/event/approval contracts and provi… |
+| 2026-11-04 00:29:14 | [product-forge](https://pypi.org/project/product-forge/) | 0.2.0 | EdgarSocrates98 | 3.1 MB | Product Forge — Product Intelligence, Analytics Intelligence & Agentic Workspac… |
+| 2026-11-04 00:29:19 | [forge-lens-fl](https://pypi.org/project/forge-lens-fl/) | 0.2.0 | Edgar Sócrates Caria | 415.8 kB | Local-first, open-source agentic observability: traces, tools, tokens, cost and… |
+| 2026-11-04 00:37:30 | [api-qovrix](https://pypi.org/project/api-qovrix/) | 0.1.0 | jsxd3v | 119.7 kB | Contract-aware API monitoring: catches breaking changes, not just downtime. Mon… |
+| 2026-11-04 00:38:23 | [pythsol](https://pypi.org/project/pythsol/) | 0.1.0 | PythSol contributors | 1.1 MB | PythSol: write Solana programs in a typed Python subset, compiled to native SBF. |
+| 2026-11-04 00:40:04 | [fiado](https://pypi.org/project/fiado/) | 0.0.1 | Vinicius Henning | 3.8 kB | Placeholder for fiado: tooling for intent and cognitive debt in AI-assisted dev… |
+| 2026-11-04 00:40:47 | [code-atlas-forge](https://pypi.org/project/code-atlas-forge/) | 1.1.0 | Edgar Socrates | 1.1 MB | Plataforma local-first de inteligência estrutural de código — Cycle 4.1: retrie… |
+| 2026-11-04 00:48:05 | [josetra-scopus-mcp](https://pypi.org/project/josetra-scopus-mcp/) | 0.1.0 | JOSETRA44 <drivearchiver@gmai… | 164.7 kB | MCP server for the Elsevier Scopus academic research API — search 100M+ papers,… |
+| 2026-11-04 00:49:09 | [c2pa-verify](https://pypi.org/project/c2pa-verify/) | 0.1.0 | Maximiliano Telmo | 154.4 kB | Verificación offline y determinista de manifiestos C2PA, con listas de confianz… |
+| 2026-11-04 00:49:11 | [recursivedb](https://pypi.org/project/recursivedb/) | 0.0.1 | RecursiveDB <support@recursiv… | 1.7 kB | Reserved for RecursiveDB |
+| 2026-11-04 00:49:38 | [wheelprobe](https://pypi.org/project/wheelprobe/) | 0.0.1 |  | 2.4 kB | Minimal package for testing upload and install pipelines |
+| 2026-11-04 00:53:53 | [phenostore-sdk-python](https://pypi.org/project/phenostore-sdk-python/) | 0.1.1 | PhenoML Inc. | 194.8 kB | Python SDK for the Phenostore FHIR data API |
+| 2026-11-04 00:54:00 | [mimo](https://pypi.org/project/mimo/) | 0.0.0.1 |  | 2.6 kB | mimo |
+| 2026-11-04 00:56:43 | [antigen-ml](https://pypi.org/project/antigen-ml/) | 1.0.0 | Amit Sah <amit.sah@ndsu.edu> | 91.3 kB | Sequence- and structure-based antigenicity prediction using classical and ESM-2… |
+| 2026-11-04 00:57:15 | [xgboost-metal](https://pypi.org/project/xgboost-metal/) | 0.1.0 |  | 3.2 MB | GPU-accelerated gradient boosting for Apple silicon with the XGBoost Python API |
+| 2026-11-04 01:01:47 | [gbench](https://pypi.org/project/gbench/) | 0.5.0 | Luciano Martins <lucianommart… | 9.5 MB | Open model performance benchmarking suite via vLLM |
+| 2026-11-04 01:01:51 | [muscles-permissions](https://pypi.org/project/muscles-permissions/) | 0.1.1 |  | 12.8 kB | Permission declarations and policy evaluation for Muscles |
+| 2026-11-04 01:01:54 | [muscles-migrations](https://pypi.org/project/muscles-migrations/) | 0.2.1 |  | 8.1 kB | Storage-independent migration orchestration for Muscles |
+| 2026-11-04 01:02:04 | [muscles-data-sql](https://pypi.org/project/muscles-data-sql/) | 2.0.0 | "Denis B." <denis@butko.info> | 56.6 kB | Muscles SQL data layer for repositories, migrations and AI-first workflow. |
+| 2026-11-04 01:05:13 | [alloy-convert](https://pypi.org/project/alloy-convert/) | 0.0.0 | LayerDynamics | 2.3 kB | Reserved: model conversion CLI for the alloy agent harness. |
+| 2026-11-04 01:09:16 | [mcp-vm-shell](https://pypi.org/project/mcp-vm-shell/) | 1.0.0 |  | 7.2 kB | An MCP server that provides shell access to a VM. |
+| 2026-11-04 01:12:17 | [velto-cinnamon-core](https://pypi.org/project/velto-cinnamon-core/) | 0.1.0 |  | 3.0 MB | Cinnamon Rust layout engine for Velto |
+| 2026-11-04 01:12:46 | [velto-core](https://pypi.org/project/velto-core/) | 0.1.0 | runesc | 1.2 MB | Velto is a declarative, reactive Python UI framework with native rendering, exp… |
+| 2026-11-04 01:14:45 | [iibin](https://pypi.org/project/iibin/) | 2.0.0a1 |  | 41.3 kB | Schema-defined IIBIN binary messages with a native C codec |
+| 2026-11-04 01:18:50 | [quantum-study-utils](https://pypi.org/project/quantum-study-utils/) | 0.2.0 | "Wellington F. Silva" <wellin… | 44.6 kB | Utilities for quantum computing education, visualization and research |

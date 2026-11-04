@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T00:20:55Z,matplotlib-tategaki,1.0.0,,MIT AND Unicode-3.0,102038,Stacked labels and Japanese OpenType vertical text for Matplotlib
+2026-11-04T00:21:37Z,gitlane,0.1.0,Gustavo Leite,MIT,186431,"A free, open-source Git client that runs in your browser."
+2026-11-04T00:26:20Z,pysftp-ng,0.3.0,"Jeff Hinrichs, Abdul Hakim Aremeyaw",BSD-3-Clause,53335,"A friendly face on SFTP. Maintained, drop-in fork of pysftp for paramiko 4/5 and current Python."
+2026-11-04T00:26:49Z,company-social-mcp,0.1.0,,MIT,24636,"Stdio MCP server that finds a company's LinkedIn, X, YouTube, Instagram and Facebook profiles via Apify's hosted MCP gateway"
+2026-11-04T00:29:04Z,forge-agent-bridge,0.2.0,,,1188078,"Forge Agent Bridge — universal agent session/event/approval contracts and provider adapters (Claude Code, Codex, Devin)"
+2026-11-04T00:29:14Z,product-forge,0.2.0,EdgarSocrates98,MIT,3076463,"Product Forge — Product Intelligence, Analytics Intelligence & Agentic Workspace for PMs and PAs"
+2026-11-04T00:29:19Z,forge-lens-fl,0.2.0,Edgar Sócrates Caria,MIT,415757,"Local-first, open-source agentic observability: traces, tools, tokens, cost and evidence."
+2026-11-04T00:37:30Z,api-qovrix,0.1.0,jsxd3v,Apache-2.0,119738,"Contract-aware API monitoring: catches breaking changes, not just downtime. Monitors live in Git and run the same in CI and production."
+2026-11-04T00:38:23Z,pythsol,0.1.0,PythSol contributors,Apache-2.0,1145251,"PythSol: write Solana programs in a typed Python subset, compiled to native SBF."
+2026-11-04T00:40:04Z,fiado,0.0.1,Vinicius Henning,MIT,3798,Placeholder for fiado: tooling for intent and cognitive debt in AI-assisted development. Not usable yet.
+2026-11-04T00:40:47Z,code-atlas-forge,1.1.0,Edgar Socrates,Apache-2.0,1122493,"Plataforma local-first de inteligência estrutural de código — Cycle 4.1: retrieval, context packs, MCP e evidência canônica"
+2026-11-04T00:48:05Z,josetra-scopus-mcp,0.1.0,JOSETRA44 <drivearchiver@gmail.com>,"MIT License Copyright (c) 2026 JOSETRA44 Permission is hereby granted, free of charge, to any perso…",164685,"MCP server for the Elsevier Scopus academic research API — search 100M+ papers, retrieve abstracts, analyze author impact, and track citation trends"
+2026-11-04T00:49:09Z,c2pa-verify,0.1.0,Maximiliano Telmo,Apache-2.0,154423,"Verificación offline y determinista de manifiestos C2PA, con listas de confianza fijadas por hash."
+2026-11-04T00:49:11Z,recursivedb,0.0.1,RecursiveDB <support@recursivedb.io>,MIT,1678,Reserved for RecursiveDB
+2026-11-04T00:49:38Z,wheelprobe,0.0.1,,,2400,Minimal package for testing upload and install pipelines
+2026-11-04T00:53:53Z,phenostore-sdk-python,0.1.1,PhenoML Inc.,MIT,194842,Python SDK for the Phenostore FHIR data API
+2026-11-04T00:54:00Z,mimo,0.0.0.1,,,2645,mimo
+2026-11-04T00:56:43Z,antigen-ml,1.0.0,Amit Sah <amit.sah@ndsu.edu>,MIT,91323,Sequence- and structure-based antigenicity prediction using classical and ESM-2 features
+2026-11-04T00:57:15Z,xgboost-metal,0.1.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",3247865,GPU-accelerated gradient boosting for Apple silicon with the XGBoost Python API
+2026-11-04T01:01:47Z,gbench,0.5.0,Luciano Martins <lucianommartins@users.noreply.github.com>,Apache-2.0,9471516,Open model performance benchmarking suite via vLLM
+2026-11-04T01:01:51Z,muscles-permissions,0.1.1,,,12817,Permission declarations and policy evaluation for Muscles
+2026-11-04T01:01:54Z,muscles-migrations,0.2.1,,,8146,Storage-independent migration orchestration for Muscles
+2026-11-04T01:02:04Z,muscles-data-sql,2.0.0,"""Denis B."" <denis@butko.info>",MIT,56554,"Muscles SQL data layer for repositories, migrations and AI-first workflow."
+2026-11-04T01:05:13Z,alloy-convert,0.0.0,LayerDynamics,Apache-2.0,2315,Reserved: model conversion CLI for the alloy agent harness.
+2026-11-04T01:09:16Z,mcp-vm-shell,1.0.0,,MIT,7243,An MCP server that provides shell access to a VM.
+2026-11-04T01:12:17Z,velto-cinnamon-core,0.1.0,,,2968072,Cinnamon Rust layout engine for Velto
+2026-11-04T01:12:46Z,velto-core,0.1.0,runesc,MIT,1161470,"Velto is a declarative, reactive Python UI framework with native rendering, expressive PSX markup, and cross-platform layout powered by Cinnamon."
+2026-11-04T01:14:45Z,iibin,2.0.0a1,,MIT,41311,Schema-defined IIBIN binary messages with a native C codec
+2026-11-04T01:18:50Z,quantum-study-utils,0.2.0,"""Wellington F. Silva"" <wellington@altrion.com.br>",MIT,44618,"Utilities for quantum computing education, visualization and research"
