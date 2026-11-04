@@ -1,0 +1,79 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T10:19:26Z,napari-point-proofread,0.4.0,Seongbin Lim,MIT,3702223,Proofreading point annotations on images with napari
+2026-11-04T10:21:07Z,codexwatch-cli,1.0.1,Ebenworks <contact@ebenworks.co>,MIT,524565,"See where your OpenAI Codex tokens, dollars and plan limits go: exact per-response accounting, live 5-hour and weekly limits from your own logs, quota forensics, a web dashboard, status bars, a tray,…"
+2026-11-04T10:21:39Z,ssh-tunnel-cli,0.1.2,,MIT,1638088,Guided local SSH tunnels using your existing OpenSSH configuration
+2026-11-04T10:23:11Z,cronmiss,0.0.1,cronmiss <support@cronmiss.com>,MIT,7512,Know when a scheduled job did not run. Ping client for cronmiss.
+2026-11-04T10:25:35Z,regiojet-mcp,0.1.1,Petr Václavek,,19197,MCP server for the RegioJet Affiliate API
+2026-11-04T10:26:41Z,staplot,0.1.0,Benoit Aigouy,BSD-2-Clause,226944,Statistical analysis and publication-quality plotting — a GraphPad Prism replacement
+2026-11-04T10:27:00Z,file-review-local,0.1.0,,MIT,748965,"Local Git review briefings for coding agents, across programming languages"
+2026-11-04T10:27:44Z,z43-hooks,0.1.6,,,319295,Sim4Life repo-standard C++/Python checks and change gate (pre-commit hooks).
+2026-11-04T10:28:46Z,openagent-ds-search,0.1.0,Yifei Yang <274529723+YY-Yifei@users.noreply.github.com>,MIT,110851,只带「联网搜索」一个能力的 agent：search 定位 + fetch 读全文，harness 交给 AgentScope
+2026-11-04T10:30:44Z,northrays,0.1.0,Northrays <support@northrays.com>,Apache-2.0,1970016,Python SDK and API clients for the Northrays sandbox platform
+2026-11-04T10:32:24Z,alpielocal,10.10.15,,,850921,AlpieLocal
+2026-11-04T10:34:02Z,toolbloat,0.2.0,Diego Pérez,MIT,129585,"See what your MCP servers cost in tokens on every turn, and whether stacking them makes your model pick the wrong tool."
+2026-11-04T10:34:08Z,parsearena,0.1.3,Diego Pérez,MIT,1910940,"Run your PDFs through Docling, Marker, MinerU and Unstructured. Compare the output side by side and see what each one does to retrieval."
+2026-11-04T10:34:21Z,commitarena,0.1.1,Diego Pérez,MIT,328974,"Your git history is the benchmark. Replay real bug fixes against any model, in a sandbox with no network."
+2026-11-04T10:34:49Z,compat-graph,0.0.1,Neurologik,,2592,Reserved name: a placeholder by Neurologik. Not a usable package.
+2026-11-04T10:34:50Z,compatibility-graph,0.0.1,Neurologik,,2671,Reserved name: a placeholder by Neurologik. Not a usable package.
+2026-11-04T10:34:51Z,nlk-mcp-auth,0.0.1,Neurologik,,2570,Reserved name: a placeholder by Neurologik. Not a usable package.
+2026-11-04T10:39:03Z,forge-agent-runtime,0.1.0,Mihaita Hingan,"MIT License Copyright (c) 2026 Mihaita Hingan Permission is hereby granted, free of charge, to any…",104248,Docker-isolated multi-agent orchestration runtime for the AgentForge ecosystem
+2026-11-04T10:40:15Z,splitkaro,0.1.0,Kanhaiya Kumar,MIT,54217,"Bill splitter for friends, flatmates and trips: split shared expenses, see who owes whom, and settle up with the fewest payments and UPI links."
+2026-11-04T10:41:47Z,msgpackrpc,0.1.0,Your Name,,1533,POC package (beacon-only)
+2026-11-04T10:44:39Z,sigilmc,0.2.1,Pauline J.,MIT,19357,Dessinateur de sigils pour les Hermétistes pressés
+2026-11-04T10:45:27Z,auralite-ai,2.18.0,AuraLite AI contributors,Apache-2.0,1420168,"Educational yet deployable LLM framework with native training, quantization, RAG, and serving"
+2026-11-04T10:45:54Z,rulelab-cli,0.1.2,Diego Pérez,MIT,195678,Find out which lines of your AGENTS.md earn their tokens. Remove one rule at a time and measure success and cost on real tasks.
+2026-11-04T10:45:56Z,memarena,0.1.2,Diego Pérez,MIT,611125,"Benchmark memory layers on your own conversations, not on someone else's leaderboard."
+2026-11-04T10:46:01Z,doesitfire,0.1.2,Diego Pérez,MIT,982958,"Does your SKILL.md actually fire? Test skill activation in Claude Code, Codex and OpenCode with one command."
+2026-11-04T10:47:36Z,pycellpack,0.1.0,,MIT,104236547,"CellPack matrix storage, native loading, and AnnData H5AD integration"
+2026-11-04T10:52:10Z,debrief-mcp,0.1.0,Jordi Marsal,,31803,"Evidence MCP for agents: what ggufbench measured, where a buildwright run broke, role proposals as text — never writes"
+2026-11-04T10:52:26Z,cardreport,0.2.1,Oleg Orlov,MIT,1796129,"Composable Python reports with cards, constrained charts, and HTML-to-PDF output"
+2026-11-04T10:54:53Z,mfaoa,0.1.0,Tim Bode,Apache-2.0,269422,"Binary quadratic optimization with MFAOA, the mean-field approximate optimization algorithm"
+2026-11-04T10:56:37Z,openroam,0.0.1,OpenRoam <support@openroam.com>,MIT,2558,Placeholder for the official OpenRoam Partner API SDK. The real SDK will be released under this name; see https://openroam.com.
+2026-11-04T10:57:05Z,chunkwise,0.1.0,Amin Albooyeh <amin.albooyeh@gmail.com>,MIT,23816,Text chunking for RAG with reversible offsets — every chunk is an exact slice of the source document.
+2026-11-04T10:59:56Z,truhe,1.0.0,Conestack Contributors <dev@conestack.org>,MIT,77440,"Encrypted blob stores for S3, the filesystem and memory, synchronous and asynchronous."
+2026-11-04T11:00:26Z,syvrio,0.3.3,Shardkiht,MIT,968793,Local-first personal AI agent with persistent memory
+2026-11-04T11:00:27Z,nostop-cli,0.1.0,nostop,MIT,29753,Resume-capable command wrapper for Linux: rerun interrupted commands and skip completed steps.
+2026-11-04T11:02:49Z,headroid-artemis-client,0.1.0a1,Artemis contributors,Apache-2.0,12795,Zero-runtime-dependency Python client for a remote Artemis host
+2026-11-04T11:03:08Z,headroid-artemis,0.1.0a1,Farley Wang <farleyw@google.com>,,1787651,Autonomous AI Assistant for Mobile Automation
+2026-11-04T11:04:56Z,cosmic-warp,0.1.0,"Pedro Lima, Aman Arora",Apache-2.0,3244246,GPU-accelerated parallel spacecraft dynamics simulator built on NVIDIA Warp
+2026-11-04T11:05:57Z,pathsim-fusion,0.1.1,PathSim Contributors,MIT,42424,Fusion fuel cycle and balance-of-plant blocks for PathSim
+2026-11-04T11:08:16Z,scipion-chem-rosetta,3.3.3,Alberto M. Parra-Perez,,133191,Scipion plugin in order to use tools provided by Rosetta software suite.
+2026-11-04T11:08:46Z,penprox,0.1.0,Scevenate <scevenate@gmail.com>,Unlicense,6430231,Python proxy toolbox
+2026-11-04T11:11:51Z,biolgca,2.0.0,Simon Syga <simon.syga@tu-dresden.de>,BSD-3-Clause,757524,Biological lattice-gas cellular automata simulation tools
+2026-11-04T11:13:49Z,yandex-audience-cli,0.1.1,yandex-audience-cli,MIT,107846,"CLI, повторяющий структуру Yandex Audience API 1:1 (100% покрытие эндпоинтов)"
+2026-11-04T11:23:38Z,scipion-chem-foldxsuite,3.3.3,Natalia del Rey Díez,,52683,Scipion plugin for FoldX Suite group in https://foldxsuite.crg.eu
+2026-11-04T11:26:12Z,bord4-analysis-templates,0.1.1,Lasse Lambrechts <lasse.lambrechts@bt.no>,MIT,61755,Versioned analysis templates and a template installer for Bord4
+2026-11-04T11:26:27Z,trpc-metrics-prometheus,1.0.0,tRPC Group,Apache-2.0,60466,prometheus plugin for trpc framework
+2026-11-04T11:27:11Z,nanocarbon,1.0.0,"Matteo Alberghini <matteo.alberghini@gemmate-technologies.com>, Giacomo Pierotti <giacomo.pierotti@…",CC-BY-NC-SA-4.0,213883,"Atomistic models of amorphous nanoporous carbon with explicit pores: generation, LAMMPS export and structural analysis."
+2026-11-04T11:31:05Z,mqss-qdmi-mqv,0.1.1,Munich Quantum Valley,Apache-2.0 WITH LLVM-exception,5910063,Implementation of a MQV QDMI device
+2026-11-04T11:34:33Z,hermes-sdk,1.0.1,Christopher Wang,Apache-2.0,17422,"Client SDK for the Hermes agent orchestration runtime: in-process via ctypes, or over HTTP. Zero dependencies."
+2026-11-04T11:34:40Z,mask-yolo-tools,0.1.0,DinoysusWuming,MIT,17384,Convert binary masks to YOLO detection labels and visualize annotations.
+2026-11-04T11:36:12Z,django-mozio-auth-client,0.0.0,"""Mozio Inc."" <cto@mozio.com>",,2202,Reserved by Mozio Inc. to prevent dependency confusion. Contains no code.
+2026-11-04T11:36:13Z,django-mozio-remote-field,0.0.0,"""Mozio Inc."" <cto@mozio.com>",,2210,Reserved by Mozio Inc. to prevent dependency confusion. Contains no code.
+2026-11-04T11:36:14Z,mozio-commons,0.0.0,"""Mozio Inc."" <cto@mozio.com>",,2074,Reserved by Mozio Inc. to prevent dependency confusion. Contains no code.
+2026-11-04T11:36:15Z,mozio-data-entry-client,0.0.0,"""Mozio Inc."" <cto@mozio.com>",,2188,Reserved by Mozio Inc. to prevent dependency confusion. Contains no code.
+2026-11-04T11:39:47Z,pysoarm,0.1.0,jw <singlecycle27@163.com>,Apache-2.0,163082,"Lean, hardware-level Python API for SO-100/SO-101 robot arms (Feetech STS3215 serial bus)."
+2026-11-04T11:39:56Z,aurarouter-claude,0.5.1,AuraCore Dynamics Inc.,Apache-2.0,28838,Anthropic Claude provider for AuraRouter — exposes Claude models as an MCP provider server.
+2026-11-04T11:40:10Z,aurarouter-openai,0.5.1,AuraCore Dynamics Inc.,MIT,35765,OpenAI & Azure OpenAI provider for AuraRouter — exposes GPT and o-series models as an MCP provider server.
+2026-11-04T11:41:04Z,holos-tts-litert,0.1,,MIT,21474,HolosTTS inference with LiteRT
+2026-11-04T11:48:36Z,ejercicio13-operaciones-alejandro,1.0.0,Tu nombre,,1649,Libreria de operaciones matematicas
+2026-11-04T11:51:00Z,toolvet,0.7.0,AbdulRehman,MIT,263713,"Find dangerous combinations of AI agent tools before attackers do, and pin what was approved."
+2026-11-04T11:51:35Z,skby-calibration,0.1.0,wly,,62796,SKBY / 百川 自动率定引擎：按 groovy(OMS3.luca) 分步率定，依赖 baichuan-hydro 执行计算
+2026-11-04T11:51:40Z,benchwarmer,0.1.0,,,97969,Offline Zero-Dependency LLM Benchmark Oracle
+2026-11-04T11:54:19Z,originspan-mcp,0.5.2rc2,,Apache-2.0,148153,"Durable application discovery, scoped hybrid retrieval, SQL lineage and architecture over MCP"
+2026-11-04T11:54:21Z,usr-http,0.1.0,USR project,MIT,23810,USR: Unix Style Request — Axios with a Unix vocabulary HTTP client
+2026-11-04T11:54:52Z,slmeval-cli,0.1.0,Mohit Raj,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",872550,"Benchmark agent workflows across small language models — locally, deterministically, in your terminal."
+2026-11-04T11:55:31Z,fieldnotes-farm,0.1.0,Yasuhiro Niji,AGPL-3.0-or-later,280145,"Read a natural-farming field from photos with Meta's models (SAM 3.1, Muse Spark), keep it as plain-text records the farmer marks right or wrong, and serve them to the farmer's own AI over MCP."
+2026-11-04T11:56:31Z,relayloom,0.3.0,Sriharsan B S,MIT,223956,"Pay for what arrived. Prove it. Accounts payable that counts the goods with open weight Meta models (Muse Glimmer, SAM 3.1) on your own machine."
+2026-11-04T11:57:08Z,tatolab-browser,0.68.24,Jonathan Fontanez <fontanezj1@gmail.com>,BUSL-1.1,489398,"A web page as a stream source: the machine's shared Chromium (CEF) browser host renders it offscreen as a tab, and its frames, audio and events are published through the module host table."
+2026-11-04T11:58:27Z,conduit-observability,0.1.0,TJ Scanlan,Apache-2.0,42268,"Python SDK for Conduit: send traces, logs and metrics from AI agents to a Conduit gateway over mTLS/gRPC"
+2026-11-04T12:02:59Z,tiktok-followers-scraper,0.1.0,Atlan,"MIT License Copyright (c) 2026 Atlan Permission is hereby granted, free of charge, to any person ob…",13010,"Export TikTok followers and following lists to CSV from Python, no login (via the Apify actor)."
+2026-11-04T12:06:47Z,unixsr,0.0.2,Unix Style Request Project,MIT,41242,UNIXSR: Unix Style Request — Axios with a Unix vocabulary HTTP client
+2026-11-04T12:07:41Z,corona3d,0.1.2,Keshav Aggarwal <keshavaggarwal2310@gmail.com>,MIT,501957,"Physics-based, reproducible three-dimensional reconstruction of the solar corona, coronal mass ejections, and radio sources for any event from public MHD, coronagraph, and radio data, with an automat…"
+2026-11-04T12:08:08Z,odigos-agentcore,0.0.25,,Apache-2.0,13535,Odigos OpenTelemetry bootstrap for Amazon Bedrock AgentCore Runtime agents
+2026-11-04T12:11:30Z,pcr-ai,0.1.0,Samir Baladi,MIT,22417,"PCR_AI: The Production and Control of Representations in Artificial Intelligence — Research II: A Conceptual Architecture, Authority Structure, Representation Lifecycle, and Research Protocol."
+2026-11-04T12:11:56Z,alexein,0.3.0,Alexein AI,MIT,82387,"Python client for Alexein: long-term memory for your app users and agents, with LangGraph, OpenAI Agents SDK and CrewAI integrations."
+2026-11-04T12:14:14Z,odt2web,0.8.0,"""Diego C. Sampaio"" <slavelix@ymail.com>",AGPL-3.0-only,79096,Converts OpenDocument Text (.odt) documents to semantic HTML + CSS.
+2026-11-04T12:15:39Z,bytestay-distill-mcp,0.2.2,ByteStay <hello@bytestay.pt>,MIT,20735,"Web page to clean Markdown for LLM agents, honouring robots.txt and AI opt-outs. Bring your own RapidAPI or api.market key."
+2026-11-04T12:16:44Z,bexar,0.1.0,BEXAR contributors,"MIT License Copyright (c) 2026 BEXAR contributors Permission is hereby granted, free of charge, to…",157218,An independent Python source protection and compilation toolkit.
+2026-11-04T12:18:27Z,vulnfind,3.0.0,,MIT,498717,"Zero-dependency security scanner for code, websites, container images and cloud: CVEs with exploit intel and reachability, cross-file data-flow analysis, secrets, IaC and DAST."
