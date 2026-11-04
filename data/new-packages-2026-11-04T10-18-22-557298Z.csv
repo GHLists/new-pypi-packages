@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T08:30:19Z,odoo-addon-currency-rate-update-frankfurter,18.0.1.0.0.2,"Loym, Tecnativa, Odoo Community Association (OCA)",AGPL-3,26804,Update currency rates using Frankfurter
+2026-11-04T08:31:27Z,odoo-addon-barcode-inventory,18.0.1.0.0.2,"Binhex, Odoo Community Association (OCA)",AGPL-3,60799,"Inventory adjustments and stock counts by barcode, on top of stock_inventory"
+2026-11-04T08:56:52Z,cwe-explorer,0.1.1,Emi <edm@unex.es>,MIT,146034,"Explore the MITRE CWE hierarchy (View 1000): terminal tree, interactive explorer, web graph, ancestor/descendant queries and full CWE entries"
+2026-11-04T09:20:25Z,strands-asyntai,0.1.0,Asyntai <hello@asyntai.com>,MIT,18860,"Asyntai tools for Strands Agents: give your agent a whole website's knowledge, chats and leads"
+2026-11-04T09:22:00Z,codefig,0.17.0,Justin,MIT,726380,"Research-paper figures from code: compose layout primitives, get venue-width, lint-checked PDF/SVG/PNG. AI-friendly (llms.txt)."
+2026-11-04T09:23:05Z,kaneko-fa-selector,0.2.0,stkengaposa832@gmail.com,,50844,"KANEKO flame arrester preselection rule engine (R1-R8): JSON in, JSON out"
+2026-11-04T09:23:56Z,json-shaper-lite,1.0.0,Tidy Byte Tools,MIT,12946,"Turn key: value notes, CSV/TSV and Markdown tables into clean, typed JSON. No dependencies."
+2026-11-04T09:23:57Z,doc2md-lite,1.0.0,Tidy Byte Tools,MIT,25141,"Turn a text PDF or HTML file into clean Markdown, with tables kept as Markdown tables. Runs locally. CLI and MCP server."
+2026-11-04T09:24:11Z,pdf-table-pull-lite,1.1.0,Tidy Byte Tools,MIT,35537,Pull the tables out of a text PDF into CSV files. Runs locally. CLI and MCP server.
+2026-11-04T09:24:43Z,netra-core,0.1.0,Nitin Paul <nitinpaul.dev@gmail.com>,MIT,9474,Core CLI router and plugin registry for the NetraBase data reliability ecosystem.
+2026-11-04T09:24:54Z,cragkit-langchain,1.0.0rc1,Vaibhav Suman,MIT,67964,LangChain adapter for Cragkit retrieval with access scope bound by the application.
+2026-11-04T09:25:30Z,dana-cli,0.0.1,,,1632,Official DanaIX command-line interface
+2026-11-04T09:26:18Z,link-check-lite,1.0.0,Tidy Byte Tools,MIT,16950,Check a file of links for status codes and redirects. Has a CLI and an MCP server.
+2026-11-04T09:26:45Z,pyaudiohost,0.1.0,Sucial <1584846096@qq.com>,Apache-2.0,164808,Python audio effect and instrument hosting with VST2/VST3/AU plugin editors
+2026-11-04T09:28:29Z,earth-ai-remote-sensing-models,0.1.1,Earth AI Remote Sensing Models authors <earth-ai-remote-sensing-external@google.com>,,6284868,Earth AI Remote Sensing Models
+2026-11-04T09:29:16Z,omnistats,0.4.1,Mr-Rup <majumdarb107@gmail.com>,Apache-2.0,395665,"Autonomous Statistical Inference Engine, One-Tap EDA, and Universal Scientific Modeling"
+2026-11-04T09:29:29Z,pakka,0.1.1,mohammedp010,MIT,115716,"Tests, guards and safety rules for semantic caches, with English and Hinglish support"
+2026-11-04T09:30:02Z,sandbox-kit-789,0.1.1,,,1827,Build-integrity fixture. Not a real library.
+2026-11-04T09:34:22Z,luckylucy.utils.tg-bots.peer,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,9738,A collection of utilities I use across different projects (luckylucy.utils.tg_bots.peer)
+2026-11-04T09:34:38Z,pyboot-execute,0.1.2,Siddharth Karn,MIT,20781,Task scheduling and background execution plugin for PyBoot
+2026-11-04T09:34:46Z,market-quote,0.1.0,Kwai,MIT,27481,A lightweight Python SDK for China A-share real-time quotes and minute bars
+2026-11-04T09:35:33Z,jukefa-asmgen,0.6.0,linedot <linedot@linedot.org>,,610792,"Assembly Generation tool for AVX/FMA, AVX2, AVX512, ARM NEON, ARM SVE, ARM SME, RISCV RVV"
+2026-11-04T09:35:43Z,luckylucy.utils.uvicorns.log-config,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,11531,A collection of utilities I use across different projects (luckylucy.utils.uvicorns.log_config)
+2026-11-04T09:36:57Z,luckylucy.utils.functions,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,14825,A collection of utilities I use across different projects (luckylucy.utils.functions)
+2026-11-04T09:38:40Z,konomanoasa-tree-sitter-posix-awk,0.23.1,,MIT,217335,Tree-sitter grammar for POSIX awk.
+2026-11-04T09:40:45Z,luckylucy.utils.holder,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,10349,A collection of utilities I use across different projects (luckylucy.utils.holder)
+2026-11-04T09:40:52Z,cragkit-mcp,1.0.0rc1,Vaibhav Suman,MIT,65018,MCP host for Cragkit retrieval with identity resolved by the application.
+2026-11-04T09:43:06Z,pycurate,0.4.0,,Apache-2.0,519846,"Automatic data curation and curation auto-research: signals as zero-copy columns, recipes as views, agents that search recipes against a fixed eval."
+2026-11-04T09:45:36Z,plantigrade,0.1.0,Félix Martel,MIT,43872,Reactive state and effects derived from an append-only event log.
+2026-11-04T09:47:30Z,parallax-evals,0.0.1,,MIT,2259,Parallax: a reproducible benchmark for agent harnesses. First release coming soon.
+2026-11-04T09:52:28Z,django-yandex-smartcaptcha,0.1.2,Ivan Kravchenko,MIT,16812,Yandex SmartCaptcha form field for Django
+2026-11-04T09:52:51Z,honeyrun,0.1.2,m4xkushnir,MIT,267091,Run an untrusted repo in a gVisor sandbox full of fake credentials and see what it reaches for.
+2026-11-04T09:53:28Z,sphinx-ub-directives,0.1.0,team useblocks <info@useblocks.com>,,73648,"Define your own Sphinx directives: presets of existing directives, and Jinja template directives"
+2026-11-04T09:57:34Z,rh-cli,0.1.0,Hitaishi V <hitaishi2222@gmail.com>,MIT,94563,rh — orchestrate an AI research project end to end from the terminal
+2026-11-04T09:59:06Z,js-captcha,1.0.0,,Apache-2.0,34389,Official Python SDK for the Js-Captcha API with blocking and async clients
+2026-11-04T09:59:30Z,email-validation-sdk,1.0.0,"""email-validation.org"" <support@email-validation.org>",MIT,40069,Official Python client for the email-validation.org email validation API.
+2026-11-04T10:00:26Z,khqrpay,0.1.0,KHQRPay,MIT,33255,"Official KHQRPay SDK for Python: accept KHQR payments in Cambodia from ABA, ACLEDA, Wing and every Bakong app."
+2026-11-04T10:03:09Z,reed-qr,0.1.0,,MIT,21995681,QR encoding and decoding with a Rust core and typed Python API
+2026-11-04T10:03:11Z,otk-1c,1.0.0,Ilya Malikov,Apache-2.0,922807,ОТК: быстрая проверка изменений кода конфигурации 1С перед push/MR
+2026-11-04T10:04:14Z,j8yte-toolbox,1.0.0.dev0,j8yte <j8ytes@gmail.com>,,39055,"A Python module that provides static methods designed to simplify the export of Excel files, communication on Slack, sending emails, executing HTTP requests, creating HTML documents, and more."
+2026-11-04T10:04:27Z,tifa-factor,0.4.6,Jerome Milan,LGPL-2.1-or-later,3517256,"Fast factorization of integers of up to about 220 bits, with the TIFA library"
+2026-11-04T10:05:51Z,peaxart,0.1.1,Myriam Guillevic,LGPL-3.0-or-later,1022590,Peak extraction in the retention time / m/z domain of GC-TOF-MS data (from alpinac)
+2026-11-04T10:05:56Z,fastapi-panel,0.1.0,Zaman Labs,MIT,1087200,"An admin panel for FastAPI and SQLAlchemy. Register a model, get a secure back office."
+2026-11-04T10:08:12Z,buzzdrive,0.1.0,buzzdrive,MIT,124849,Encrypted Finder volume backed by buzzheavier.com — zero-knowledge cloud storage
+2026-11-04T10:08:39Z,nanomotif-rs,1.2.2,,MIT,2712914,"Compiled kernels for Nanomotif (pileup partitioning, motif-site bitsets, search-window filtering)"
+2026-11-04T10:16:11Z,vedhaai-mcpwatch,0.1.0b0,,ISC,40297,"Security guard for MCP servers in Python: the official MCP SDK, Django, Flask, FastAPI, any ASGI or WSGI app"
+2026-11-04T10:16:31Z,aes-env-crypt,0.1.0,Idan Regev,GPL-3.0-only,35132,Store a JSON dict of secrets in an AES-encrypted file and export it as environment variables
