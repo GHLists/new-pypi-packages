@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T06:18:35Z,urban-workflow,0.1.0,Gael Beard <gaelgael5@gmail.com>,"MIT License Copyright (c) 2026 black beard Permission is hereby granted, free of charge, to any per…",157291,"Moteur de workflow piloté par un DSL métier — portage Python de Black-Beard-Sdk/Workflow, sorties JSON normalisées via urban-json (JSLT)."
+2026-11-04T06:18:40Z,urban-workflow-playground,0.1.0,Gael Beard <gaelgael5@gmail.com>,MIT,275679,"Playground web du DSL urban-workflow : éditeur avec intellisense, paramétrage des règles métier, diagnostics positionnés et simulation d'événements."
+2026-11-04T06:29:26Z,agentsec-pack,0.1.0,,MIT,192914,"Measure what an AI agent's sandbox lets it reach: network, secrets, host filesystem, privileges and processes, from inside the sandbox."
+2026-11-04T06:36:15Z,streamlit-image-board,0.3.0,George Siogkas <gsiogkas@cvrlab.com>,MIT,174423,Snappy React selectable image board for Streamlit (Components v2)
+2026-11-04T06:38:30Z,langchain-github,0.1.0,Daivik Awasthi <daivikawasthi.01@gmail.com>,MIT,75908,"GitHub retriever and loaders for LangChain: query-driven search over repo code, docs, issues and discussions."
+2026-11-04T06:41:34Z,black-beard-calendarium,0.2.0,Gael Beard <gaelgael5@gmail.com>,"MIT License Copyright (c) 2026 black beard Permission is hereby granted, free of charge, to any per…",201161,Referential of computed dates (public holidays and observances) driven by per-country JSON rule files.
+2026-11-04T06:42:25Z,osmtileimage,0.1.0,Paul Norman,GPL-3.0-or-later,8609,A command line tool to generate tile usage images
+2026-11-04T06:42:26Z,krn,0.0.1,Pedro Valois <contact@phvv.me>,Apache-2.0,1084621,"A typed Python kernel language, in development"
+2026-11-04T06:43:18Z,pforge,1.0.0,Kay Hayen,GNU Affero General Public License v3,9037322,Python compiler with full language support and CPython compatibility
+2026-11-04T06:45:25Z,dex-connector-atlassian-trello,0.1.0,,MIT,114115,Dex-native Trello card and comment connector
+2026-11-04T06:46:55Z,dex-connector-bamboohr,0.1.0,,MIT,118419,BambooHR connector for Dex Flows
+2026-11-04T06:47:20Z,keygraph,0.2.0,Ali Karami <52026333+alikarami76@users.noreply.github.com>,MIT,524296,"keygraph maps how the tables in your database connect (keys, indexes, declared and inferred foreign keys, business context and value profiles) so people and AI agents can find the right join path and…"
+2026-11-04T06:48:19Z,dex-connector-coda,0.1.0,,MIT,86294,Coda connector for Dex Flows
+2026-11-04T06:48:38Z,callai-cli,0.9.0,Sugato Ray <sugatoray.dev@gmail.com>,Apache-2.0,123480,"One CLI to run a prompt non-interactively through any coding-agent harness (claude-code, codex, opencode, pi, hermes, grok)."
+2026-11-04T06:49:24Z,spectrafuse,0.2.0,Kumar Nishant,MIT,192000,"SpectraFuse: an independent implementation inspired by SpectRAG (Sahinoglu, Mohammed, Kazangirler and Kazangirler, arXiv:2610.36991). Not the official SpectRAG, which is at github.com/SightAndCite/Sp…"
+2026-11-04T06:53:12Z,open-news-search,0.2.1,,,19334,Search Chinese news articles
+2026-11-04T06:53:37Z,refhound,0.1.0b1,Michael Weiss,MIT,332265,Git repository security and forensic analysis tool
+2026-11-04T06:57:47Z,bootstrap2-sc,0.1.0,ZW.G,,10800,Subject-aware two-level hierarchical bootstrap for single-cell differential expression
+2026-11-04T07:01:30Z,django-ninja-expose,0.1.0,Benjamin Chau,,18588,"Add @expose() to a Django model. Get a REST API, powered by Django Ninja."
+2026-11-04T07:02:27Z,amv-mcp-hub,4.0.0,AMEVA Foundation,Apache-2.0,29754,"stdio MCP server for Python and Android Termux: host shell/Python execution, calculator, text, hash, UUID, regex and vector tools (standard library only)."
+2026-11-04T07:03:03Z,kube32,0.1.0,,Apache-2.0,196909,"Command-line tools for kube32: build and deploy WebAssembly pods, flash ESP32-S3 boards, run the kube32-sim simulator"
+2026-11-04T07:03:50Z,edgepii,0.1.1,Raphael Mansuy,Apache-2.0,163868,"Locate PII as typed character spans on the source string, so you can mask it before it reaches an LLM."
+2026-11-04T07:03:50Z,molty,0.1.0,Shogo Toda,Apache-2.0,108438,A strict superset of Python that turns common Python traps into compile-time errors.
+2026-11-04T07:04:20Z,rqark-app,0.11.8,RedQueenArk,MIT,196441,"Session, provider and agent management on top of rqark-core, with optional rqark-data-cloud integration"
+2026-11-04T07:05:28Z,pyinfra-collector,0.1.0,martin f. krafft,,18552,Collect pyinfra facts across the inventory into a SQLite store
+2026-11-04T07:06:35Z,baska-explorer,3.0.1,Lathif Baska,LicenseRef-BASKA-Pro-Personal-Use-1.0,51805,Interactive Bash and fzf file manager for Linux and Termux
+2026-11-04T07:08:19Z,tba-durability-attestation,0.4.0.dev2,,Apache-2.0,7515,Carrier-neutral layer-30 durable table operations.
+2026-11-04T07:11:33Z,tba-durability-audit,0.4.0.dev2,,Apache-2.0,5940,Carrier-neutral layer-30 durable table operations.
+2026-11-04T07:13:31Z,deltaleague,0.1.0,Delta League,,42020,"CLI for Delta League model-weight competitions, submissions, and local evaluation"
+2026-11-04T07:13:56Z,tba-durability-authority-graph,0.4.0.dev2,,Apache-2.0,3151,Durable authority-graph table operations and specifications.
+2026-11-04T07:14:31Z,see-your-agents,0.1.0,,MIT,1133104,"A local dashboard for Claude Code and Codex CLI sessions: who is working, who is waiting for you, what happened"
+2026-11-04T07:15:09Z,bcrp-downloader,1.1.1,BCRP Downloader contributors,GPL-3.0-or-later,76163,Explorador y extractor de series estadísticas del Banco Central de Reserva del Perú (BCRP).
+2026-11-04T07:15:49Z,networkluki-cipher,0.1.0,NetworkLuki,MIT,13738,Educational monoalphabetic substitution cipher library and CLI
+2026-11-04T07:15:51Z,crawlora-gosugamers,0.1.0,Crawlora,MIT,56420,"Crawlora GosuGamers API client with 17 endpoints for esports matches, results, tournaments, games, news, and articles"
+2026-11-04T07:16:10Z,tba-durability-authorization-policy,0.4.0.dev2,,Apache-2.0,10957,Carrier-neutral layer-30 durable table operations.
+2026-11-04T07:18:07Z,tba-durability-authorization-policy-authority-derivation-graph,0.4.0.dev2,,Apache-2.0,3172,Durable authority graph table operations and runtime specifications.
+2026-11-04T07:18:23Z,rqark-tui,0.9.7,RedQueenArk,MIT,208863,"Terminal chat client for LLM coding agents, built on Textual"

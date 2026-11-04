@@ -1,20 +1,12 @@
 {
   "list": {
-    "count": 41,
-    "from": "2026-11-04T05:18:19.074682Z",
-    "path": "data/new-packages-2026-11-04T06-18-29-607671Z.csv",
-    "to": "2026-11-04T06:18:29.607671Z"
+    "count": 37,
+    "from": "2026-11-04T06:18:29.607671Z",
+    "path": "data/new-packages-2026-11-04T07-19-51-045293Z.csv",
+    "to": "2026-11-04T07:19:51.045293Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-11-04T02:53:10Z",
-      "package": "sandbox-kit-run-2",
-      "since": "2026-11-04T02:18:39.232174Z",
-      "version": null
-    }
-  ],
-  "serial": 43176775,
+  "pending": [],
+  "serial": 43178384,
   "source_truncated": false,
-  "window": "2026-11-04T06:18:29.607671Z"
+  "window": "2026-11-04T07:19:51.045293Z"
 }
