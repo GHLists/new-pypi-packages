@@ -8,50 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 20:19 UTC
+## Latest list — 2026-11-04 21:21 UTC
 
-New packages created between 2026-11-04 19:19 UTC and 2026-11-04 20:19 UTC.
+New packages created between 2026-11-04 20:19 UTC and 2026-11-04 21:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-04T20-19-13-786318Z.csv)
+[Full CSV](data/new-packages-2026-11-04T21-21-04-196323Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-04 19:20:04 | [forever-lint](https://pypi.org/project/forever-lint/) | 0.1.0 | José Argento | 556.9 kB | Checks World of Warcraft addons for problems on WoW Forever: removed API, secre… |
-| 2026-11-04 19:21:35 | [mandochka](https://pypi.org/project/mandochka/) | 0.1.0 | Mandochka Team | 127.7 kB | High-performance plugin builder for ElyxCore with native D8/Javac DEX compilati… |
-| 2026-11-04 19:21:39 | [tba-protocol-gnap](https://pypi.org/project/tba-protocol-gnap/) | 0.4.0.dev2 |  | 12.4 kB | Versioned RFC 9635 Grant Negotiation and Authorization Protocol mapping. |
-| 2026-11-04 19:21:56 | [prwarden](https://pypi.org/project/prwarden/) | 2.1.0 | Pylyp Borysov | 618.1 kB | Self-hosted AI pull-request reviewer built on the AI and GitHub CLIs you alread… |
-| 2026-11-04 19:24:01 | [tba-protocol-identity-did-core](https://pypi.org/project/tba-protocol-identity-did-core/) | 0.4.0.dev2 |  | 9.8 kB |  |
-| 2026-11-04 19:26:23 | [tba-protocol-jwt](https://pypi.org/project/tba-protocol-jwt/) | 0.4.0.dev2 |  | 10.8 kB |  |
-| 2026-11-04 19:27:46 | [ziptrip](https://pypi.org/project/ziptrip/) | 0.1.0 |  | 53.2 kB | Build Python zipapps for other platforms using Rust-style targets |
-| 2026-11-04 19:28:34 | [synapsemem-ai](https://pypi.org/project/synapsemem-ai/) | 0.1.0 | Rohan Dhar | 12.1 kB | A zero-overhead, temporal belief-graph memory engine for local AI agents. |
-| 2026-11-04 19:28:51 | [tba-protocol-oauth](https://pypi.org/project/tba-protocol-oauth/) | 0.4.0.dev2 |  | 127.0 kB | OAuth 2.x and OAuth 2.1 profile protocol implementation package for the TBA pac… |
-| 2026-11-04 19:31:03 | [tba-protocol-oauth-protected-resource](https://pypi.org/project/tba-protocol-oauth-protected-resource/) | 0.4.0.dev2 |  | 21.3 kB | OAuth protected-resource facade over token, DPoP, mTLS, and policy validators f… |
-| 2026-11-04 19:32:36 | [europa-mcp](https://pypi.org/project/europa-mcp/) | 0.4.1 | Munirdin Jadikar | 178.6 kB | MCP server that lets AI assistants find and fetch public open data from Eurosta… |
-| 2026-11-04 19:33:00 | [tba-protocol-oid4vci](https://pypi.org/project/tba-protocol-oid4vci/) | 0.4.0.dev2 |  | 10.4 kB | OpenID for Verifiable Credential Issuance protocol package. |
-| 2026-11-04 19:35:00 | [tba-protocol-oid4vp](https://pypi.org/project/tba-protocol-oid4vp/) | 0.4.0.dev2 |  | 11.0 kB | OpenID for Verifiable Presentations protocol package. |
-| 2026-11-04 19:35:19 | [pinq-calc](https://pypi.org/project/pinq-calc/) | 0.0.1 | Peter <peter@bsqt.homeip.net> | 55.1 kB | Pinq-calc (Python Interpreter Nifty Qt Calculator) - A portable GUI calculator… |
-| 2026-11-04 19:35:43 | [ensign-scan](https://pypi.org/project/ensign-scan/) | 0.1.1 | WolfdeerNerd | 129.5 kB | Local-first ClamAV file scanner for Linux: hashes files, tracks changes in a lo… |
-| 2026-11-04 19:37:15 | [tba-protocol-oidc](https://pypi.org/project/tba-protocol-oidc/) | 0.4.0.dev2 |  | 57.9 kB | OpenID Connect provider protocol implementation package for the TBA package sui… |
-| 2026-11-04 19:38:02 | [mindin](https://pypi.org/project/mindin/) | 0.14.0 | Carl Green <carl.green@gronar… | 771.8 kB | MCP server for a markdown notes vault on S3 or a local directory, with a SQLite… |
-| 2026-11-04 19:38:02 | [slangvision](https://pypi.org/project/slangvision/) | 0.0.1 | Tekin Tatar | 12.3 kB | GPU training augmentation for PyTorch, written in Slang (under development). |
-| 2026-11-04 19:39:07 | [tba-protocol-oidc-relying-party](https://pypi.org/project/tba-protocol-oidc-relying-party/) | 0.4.0.dev2 |  | 22.1 kB | OpenID Connect relying-party and OAuth client protocol implementation package f… |
-| 2026-11-04 19:39:13 | [auto-optimal-control](https://pypi.org/project/auto-optimal-control/) | 0.1.0 | Ian Mackey | 173.1 kB | Symbolic indirect (Pontryagin) optimal control: from dynamics and cost to every… |
-| 2026-11-04 19:40:00 | [mcruft-deckcraft-bin](https://pypi.org/project/mcruft-deckcraft-bin/) | 0.10.0 |  | 35.8 MB |  |
-| 2026-11-04 19:40:12 | [upheld](https://pypi.org/project/upheld/) | 0.1.0 | Varun S G | 117.4 kB | Check whether an AI answer's citations actually support its claims. |
-| 2026-11-04 19:40:15 | [bizzo](https://pypi.org/project/bizzo/) | 0.0.1 |  | 2.6 kB | Bizzo: prospección comercial para consultoras y empresas B2B pequeñas. Nombre r… |
-| 2026-11-04 19:40:17 | [mcruft-designcraft-bin](https://pypi.org/project/mcruft-designcraft-bin/) | 0.12.0 |  | 34.7 MB |  |
-| 2026-11-04 19:40:33 | [eventwire](https://pypi.org/project/eventwire/) | 0.1.0 | Hamidreza <h4midrezam@gmail.c… | 25.1 kB | Lightweight, zero-dependency async & sync in-process event bus and decoupled me… |
-| 2026-11-04 19:41:09 | [tba-protocol-security-cose](https://pypi.org/project/tba-protocol-security-cose/) | 0.4.0.dev2 |  | 8.0 kB |  |
-| 2026-11-04 19:42:59 | [eapdk](https://pypi.org/project/eapdk/) | 0.1.1 | Echelon <info@echelon-ai.spac… | 543.1 kB | Echelon Application Python Developer Kit — a typed, async-first SDK for writing… |
-| 2026-11-04 19:42:59 | [tba-protocol-security-event-set](https://pypi.org/project/tba-protocol-security-event-set/) | 0.4.0.dev2 |  | 11.3 kB |  |
-| 2026-11-04 19:44:52 | [tba-protocol-security-jose](https://pypi.org/project/tba-protocol-security-jose/) | 0.4.0.dev2 |  | 10.7 kB | Versioned JOSE RFC-family protocol profile. |
-| 2026-11-04 19:45:14 | [jamgraf](https://pypi.org/project/jamgraf/) | 1.1.0 | VerinFast | 888.8 kB | A small local wiki for Human/LLM collaboration (SQLite, hybrid RAG, MCP, CRDT c… |
-| 2026-11-04 19:46:54 | [tba-protocol-security-jwe](https://pypi.org/project/tba-protocol-security-jwe/) | 0.4.0.dev2 |  | 7.9 kB |  |
-| 2026-11-04 19:48:27 | [agentdatahub](https://pypi.org/project/agentdatahub/) | 0.1.0 | Agent Data Hub | 26.6 kB | Free, no-key public data for AI agents: official statistics, central bank rates… |
-| 2026-11-04 19:49:03 | [tba-protocol-security-jws](https://pypi.org/project/tba-protocol-security-jws/) | 0.4.0.dev2 |  | 8.0 kB |  |
-| 2026-11-04 19:52:03 | [ionworks](https://pypi.org/project/ionworks/) | 0.1.0 | Ionworks Technologies Inc <in… | 1.0 MB | The Ionworks Python package: API client, pipeline schemas, data processing and… |
-| 2026-11-04 19:56:45 | [hostdirect-client](https://pypi.org/project/hostdirect-client/) | 1.0.1 | HostDirect.nl | 4.1 kB | Read-only HostDirect hosting comparison SDK and CLI |
-| 2026-11-04 19:56:51 | [seika-oc](https://pypi.org/project/seika-oc/) | 0.4.1 | bd-loser | 22.4 kB | One-command OpenCode installer for Termux (pkg update/upgrade + install script… |
-| 2026-11-04 19:58:16 | [jiheng-mcp](https://pypi.org/project/jiheng-mcp/) | 0.3.0 |  | 84.6 kB | Jiheng (玑衡): an exact computation layer for AI agents over MCP. Fractions, radi… |
-| 2026-11-04 20:00:44 | [aivisibilityskill](https://pypi.org/project/aivisibilityskill/) | 1.0.0 | aivisibilityskill <support@ai… | 24.9 kB | Official Python client for the aivisibilityskill API: see how ChatGPT, Gemini,… |
-| 2026-11-04 20:09:45 | [zambo-leadsignal](https://pypi.org/project/zambo-leadsignal/) | 1.0.0 | Brennan Zambo | 19.0 kB | Run a lead signal sweep for a local trade market on Zambo: live signals, screen… |
+| 2026-11-04 19:42:20 | [wayfinder-memory](https://pypi.org/project/wayfinder-memory/) | 0.1.4 | Pedro Zaterka | 10.9 MB | Install the wayfinder binary: workspace memory that coding agents write to, as… |
+| 2026-11-04 20:19:22 | [anytocs](https://pypi.org/project/anytocs/) | 0.1.0 |  | 26.2 kB | Extract a Table of Contents from any PDF (including scanned/image-only PDFs via… |
+| 2026-11-04 20:21:54 | [formkrafter](https://pypi.org/project/formkrafter/) | 0.1.0 | Streamline Pulse | 87.5 kB | FormKrafter for Python backends: validate form submissions exactly like @stream… |
+| 2026-11-04 20:22:05 | [fortran-nlp-kernels-cuda](https://pypi.org/project/fortran-nlp-kernels-cuda/) | 0.1.1 | Suwesh Prasad Sah <83471963+s… | 77.3 MB | CUDA Fortran and cuBLAS companion for fortran-nlp-kernels |
+| 2026-11-04 20:22:27 | [monic-sh](https://pypi.org/project/monic-sh/) | 0.0.0 |  | 1.7 kB | One log for the database and the bus. |
+| 2026-11-04 20:29:12 | [prep-ic](https://pypi.org/project/prep-ic/) | 0.1.0 | Maximilian Golser <maximilian… | 210.1 kB | PREP-IC (Pinout, Ring and Early floorplan Planner for ICs): plan IC pad ring pi… |
+| 2026-11-04 20:29:45 | [gcrsim](https://pypi.org/project/gcrsim/) | 0.1.1 | Sergey Verlan | 263.5 kB | Graph-controlled string rewriting simulator (insertion-deletion systems and oth… |
+| 2026-11-04 20:29:52 | [qodalis-cli-server-plugin-aws](https://pypi.org/project/qodalis-cli-server-plugin-aws/) | 1.0.0b13 | Nicolae Lupei <nicolae.lupei@… | 28.1 kB | AWS cloud resource management plugin for Qodalis CLI servers |
+| 2026-11-04 20:29:54 | [qodalis-cli-server-plugin-data-explorer](https://pypi.org/project/qodalis-cli-server-plugin-data-explorer/) | 1.0.0b13 | Nicolae Lupei <nicolae.lupei@… | 4.7 kB | Data Explorer plugin for Qodalis CLI servers |
+| 2026-11-04 20:29:55 | [qodalis-cli-server-plugin-data-explorer-elasticsearch](https://pypi.org/project/qodalis-cli-server-plugin-data-explorer-elasticsearch/) | 1.0.0b13 | Nicolae Lupei <nicolae.lupei@… | 4.0 kB | Elasticsearch Data Explorer provider plugin for Qodalis CLI servers |
+| 2026-11-04 20:29:56 | [qodalis-cli-server-plugin-data-explorer-mongo](https://pypi.org/project/qodalis-cli-server-plugin-data-explorer-mongo/) | 1.0.0b13 | Nicolae Lupei <nicolae.lupei@… | 4.5 kB | MongoDB Data Explorer provider plugin for Qodalis CLI servers |
+| 2026-11-04 20:33:21 | [swatplus-bmi](https://pypi.org/project/swatplus-bmi/) | 0.1.0 | Northline Hydrology <info@nor… | 639.8 kB | SWAT+ through the Basic Model Interface (BMI 2.0), stepped one day at a time |
+| 2026-11-04 20:35:29 | [enigmata-classifier-ner-models](https://pypi.org/project/enigmata-classifier-ner-models/) | 0.0.0a0 | Enigmata, Inc. | 922 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-11-04 20:36:55 | [enigmata-sentinel-chat-cert-datagen](https://pypi.org/project/enigmata-sentinel-chat-cert-datagen/) | 0.0.0a0 | Enigmata, Inc. | 938 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-11-04 20:37:44 | [connflex-core](https://pypi.org/project/connflex-core/) | 0.1.0 | Cao Reconfigurable Quantum Ma… | 77.5 kB | Reduced-order mechanical models and electrical nets from GDS layouts and polygo… |
+| 2026-11-04 20:37:57 | [enigmata-sentinel-chat-cert-scorer](https://pypi.org/project/enigmata-sentinel-chat-cert-scorer/) | 0.0.0a0 | Enigmata, Inc. | 934 B | Reserved name held by Enigmata, Inc. Not a usable package. |
+| 2026-11-04 20:39:31 | [jsonl-utf8-guard](https://pypi.org/project/jsonl-utf8-guard/) | 0.1.0 | Senanur Çetin | 16.5 kB | Dependency-free, privacy-safe UTF-8 JSONL validator that never prints input rec… |
+| 2026-11-04 20:45:27 | [muster-memory](https://pypi.org/project/muster-memory/) | 0.1.0 | SAINT Machines | 156.3 kB | MUSTER: lossless long-term memory for agents, set by its own text, with no LLM… |
+| 2026-11-04 20:47:06 | [tailor-aoi](https://pypi.org/project/tailor-aoi/) | 0.1.0 | Aimin Li, Yiğit İnce, Elif Uy… | 34.4 kB | Age-optimal sampling and preemption under heavy-tailed delays (TAILOR, IEEE ISI… |
+| 2026-11-04 20:47:37 | [telemt-sdk](https://pypi.org/project/telemt-sdk/) | 1.0.0 |  | 148.2 kB | Typed asynchronous Python SDK for the Telemt Control API |
+| 2026-11-04 20:50:12 | [kelpie-sre](https://pypi.org/project/kelpie-sre/) | 0.1.0a1 | Kelpie contributors | 2.6 MB | Open-source SRE and throughput optimization for AI agent farms |
+| 2026-11-04 20:51:18 | [tba-protocol-webauthn](https://pypi.org/project/tba-protocol-webauthn/) | 0.4.0.dev2 |  | 34.4 kB | Versioned W3C Web Authentication relying-party protocol implementation. |
+| 2026-11-04 20:53:22 | [tba-protocol-workload-spiffe-broker-api](https://pypi.org/project/tba-protocol-workload-spiffe-broker-api/) | 0.4.0.dev2 |  | 9.3 kB |  |
+| 2026-11-04 20:54:05 | [bud-relay](https://pypi.org/project/bud-relay/) | 0.1.0 | Henry Bae | 376.4 kB | One MCP hub that lets always-on agents (Claude Duet, OpenAI dots, Meta Muse, Cl… |
+| 2026-11-04 20:55:14 | [tba-protocol-workload-spiffe-workload-api](https://pypi.org/project/tba-protocol-workload-spiffe-workload-api/) | 0.4.0.dev2 |  | 9.1 kB |  |
+| 2026-11-04 20:55:16 | [dopplergeist](https://pypi.org/project/dopplergeist/) | 0.1.1 |  | 8.0 MB | Aircraft Doppler audio geolocation using historical flight tracks |
+| 2026-11-04 20:55:42 | [personal-brain](https://pypi.org/project/personal-brain/) | 0.1.0 |  | 732.7 kB | Your LinkedIn network as agent memory in FalkorDB: MCP tools to remember, find,… |
+| 2026-11-04 20:56:28 | [docboss](https://pypi.org/project/docboss/) | 0.2.1 | 4thel00z | 9.4 MB | Fast DOCX and DOC text extraction, Markdown and HTML conversion, page rendering… |
+| 2026-11-04 20:57:08 | [tba-profile-credential-sd-jwt-vc](https://pypi.org/project/tba-profile-credential-sd-jwt-vc/) | 0.4.0.dev2 |  | 14.2 kB |  |
+| 2026-11-04 20:59:17 | [tba-profile-credential-vc-jose-cose](https://pypi.org/project/tba-profile-credential-vc-jose-cose/) | 0.4.0.dev2 |  | 11.5 kB |  |
+| 2026-11-04 21:01:23 | [tba-profile-fido2-server](https://pypi.org/project/tba-profile-fido2-server/) | 0.4.0.dev2 |  | 10.3 kB | Versioned FIDO2 server requirement and capability profile. |
+| 2026-11-04 21:03:51 | [tba-profile-haip](https://pypi.org/project/tba-profile-haip/) | 0.4.0.dev2 |  | 9.8 kB |  |
+| 2026-11-04 21:05:56 | [tba-profile-oauth-jwt-access-token](https://pypi.org/project/tba-profile-oauth-jwt-access-token/) | 0.4.0.dev2 |  | 7.1 kB |  |
+| 2026-11-04 21:06:40 | [casket-store](https://pypi.org/project/casket-store/) | 0.1.2 | "Pierre A. Sauriol" <pantosau… | 91.3 kB | simple CAS program |
+| 2026-11-04 21:07:57 | [tba-profile-workload-credential-cwt-svid-extension](https://pypi.org/project/tba-profile-workload-credential-cwt-svid-extension/) | 0.4.0.dev2 |  | 9.0 kB |  |
+| 2026-11-04 21:10:41 | [tba-runtime-identity](https://pypi.org/project/tba-runtime-identity/) | 0.4.0.dev2 |  | 110.5 kB | Runtime assembly, profile loading, feature flags, deployment resolution, runner… |
+| 2026-11-04 21:10:56 | [openrolesindex](https://pypi.org/project/openrolesindex/) | 0.0.1 | Ben Esteban | 3.0 kB | Open Roles Index: an open, public-source job index. Name reservation; code land… |
+| 2026-11-04 21:12:01 | [peslite-core](https://pypi.org/project/peslite-core/) | 0.5.0 |  | 898.9 kB | Core runtime for the PESLite power electronics simulator. |
+| 2026-11-04 21:12:05 | [peslite-frontend](https://pypi.org/project/peslite-frontend/) | 0.5.0 |  | 55.7 kB | CodeSim frontend integration for PESLite. |
+| 2026-11-04 21:12:05 | [peslite-full](https://pypi.org/project/peslite-full/) | 0.5.0 |  | 29.4 kB | Complete PESLite installation with frontend and ONNX support. |
+| 2026-11-04 21:13:03 | [tba-certification-release](https://pypi.org/project/tba-certification-release/) | 0.4.0.dev2 |  | 27.3 kB | Executable release certification and release posture helpers for the TBA packag… |
+| 2026-11-04 21:13:35 | [biopython-extension](https://pypi.org/project/biopython-extension/) | 1.89.dev0 | The Biopython Contributors <b… | 154.8 MB | Freely available tools for computational molecular biology. |
+| 2026-11-04 21:14:15 | [unisend](https://pypi.org/project/unisend/) | 1.0.0 |  | 37.6 kB | Share files over Wi-Fi: other devices just open a link or scan a QR code. Live… |
+| 2026-11-04 21:14:54 | [fw-pulley](https://pypi.org/project/fw-pulley/) | 1.0.0 |  | 116.0 kB | Pulley, the Flywheel package manager: Distrobase packages through Hydrogen. |
+| 2026-11-04 21:15:28 | [tba-runtime-identity-authoring](https://pypi.org/project/tba-runtime-identity-authoring/) | 0.4.0.dev2 |  | 16.0 kB | Release artifact authoring, signing, attestation, and verification helpers for… |
+| 2026-11-04 21:16:46 | [lte-launch-test](https://pypi.org/project/lte-launch-test/) | 0.1.0 | Spencer Diehl | 28.0 kB | ROS 2 launch tests on pytest, a launch_testing replacement on libtmux_easy |
+| 2026-11-04 21:16:53 | [taskwarden](https://pypi.org/project/taskwarden/) | 0.1.0 | DAHO | 83.1 kB | A durable, owner-approved AI team for a business: agents as folders, tools by r… |
+| 2026-11-04 21:17:41 | [anduril](https://pypi.org/project/anduril/) | 0.1.0 |  | 2.5 kB | Anduril |
+| 2026-11-04 21:17:43 | [konomanoasa-tree-sitter-awk](https://pypi.org/project/konomanoasa-tree-sitter-awk/) | 0.14.1 |  | 243.3 kB | Tree-sitter grammar for GNU Awk. |
+| 2026-11-04 21:17:49 | [tba-cli-identity](https://pypi.org/project/tba-cli-identity/) | 0.4.0.dev2 |  | 289.3 kB | Dedicated command-line package for TBA identity operator workflows, governance… |
+| 2026-11-04 21:20:07 | [blitzy-notification-utils](https://pypi.org/project/blitzy-notification-utils/) | 0.0.0 | Blitzy | 1.3 kB | Reserved name for an internal Blitzy package. Contains no code. |
+| 2026-11-04 21:20:17 | [tba-runtime-authorization-policy](https://pypi.org/project/tba-runtime-authorization-policy/) | 0.4.0.dev2 |  | 17.1 kB | Authorization policy, authority, grants, permissions, decisions, and governance… |

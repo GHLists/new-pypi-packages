@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T19:42:20Z,wayfinder-memory,0.1.4,Pedro Zaterka,Apache-2.0,10882334,"Install the wayfinder binary: workspace memory that coding agents write to, as a self-generating knowledge graph"
+2026-11-04T20:19:22Z,anytocs,0.1.0,,MIT,26162,Extract a Table of Contents from any PDF (including scanned/image-only PDFs via OCR) and render it to Markdown with the document body following.
+2026-11-04T20:21:54Z,formkrafter,0.1.0,Streamline Pulse,MIT,87489,FormKrafter for Python backends: validate form submissions exactly like @streamline-pulse/formkrafter-core does in the browser
+2026-11-04T20:22:05Z,fortran-nlp-kernels-cuda,0.1.1,Suwesh Prasad Sah <83471963+suwesh@users.noreply.github.com>,GPL-3.0-only,77304836,CUDA Fortran and cuBLAS companion for fortran-nlp-kernels
+2026-11-04T20:22:27Z,monic-sh,0.0.0,,Apache-2.0,1699,One log for the database and the bus.
+2026-11-04T20:29:12Z,prep-ic,0.1.0,"Maximilian Golser <maximilian.golser@jku.at>, Simon Dorrer <simon.dorrer@jku.at>",Apache-2.0,210106,"PREP-IC (Pinout, Ring and Early floorplan Planner for ICs): plan IC pad ring pinouts with live die sizing, RF/GSG pad groups and exports."
+2026-11-04T20:29:45Z,gcrsim,0.1.1,Sergey Verlan,MIT,263493,Graph-controlled string rewriting simulator (insertion-deletion systems and other regulated rewriting)
+2026-11-04T20:29:52Z,qodalis-cli-server-plugin-aws,1.0.0b13,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,28099,AWS cloud resource management plugin for Qodalis CLI servers
+2026-11-04T20:29:54Z,qodalis-cli-server-plugin-data-explorer,1.0.0b13,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,4682,Data Explorer plugin for Qodalis CLI servers
+2026-11-04T20:29:55Z,qodalis-cli-server-plugin-data-explorer-elasticsearch,1.0.0b13,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,3969,Elasticsearch Data Explorer provider plugin for Qodalis CLI servers
+2026-11-04T20:29:56Z,qodalis-cli-server-plugin-data-explorer-mongo,1.0.0b13,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,4481,MongoDB Data Explorer provider plugin for Qodalis CLI servers
+2026-11-04T20:33:21Z,swatplus-bmi,0.1.0,Northline Hydrology <info@northlinehydrology.com>,BSD-3-Clause AND LGPL-2.1-only,639843,"SWAT+ through the Basic Model Interface (BMI 2.0), stepped one day at a time"
+2026-11-04T20:35:29Z,enigmata-classifier-ner-models,0.0.0a0,"Enigmata, Inc.",,922,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-11-04T20:36:55Z,enigmata-sentinel-chat-cert-datagen,0.0.0a0,"Enigmata, Inc.",,938,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-11-04T20:37:44Z,connflex-core,0.1.0,Cao Reconfigurable Quantum Materials Lab at UC Berkeley,MIT,77499,Reduced-order mechanical models and electrical nets from GDS layouts and polygons
+2026-11-04T20:37:57Z,enigmata-sentinel-chat-cert-scorer,0.0.0a0,"Enigmata, Inc.",,934,"Reserved name held by Enigmata, Inc. Not a usable package."
+2026-11-04T20:39:31Z,jsonl-utf8-guard,0.1.0,Senanur Çetin,MIT,16521,"Dependency-free, privacy-safe UTF-8 JSONL validator that never prints input records"
+2026-11-04T20:45:27Z,muster-memory,0.1.0,SAINT Machines,Apache-2.0,156319,"MUSTER: lossless long-term memory for agents, set by its own text, with no LLM calls to build or grow it"
+2026-11-04T20:47:06Z,tailor-aoi,0.1.0,"Aimin Li, Yiğit İnce, Elif Uysal",MIT,34386,"Age-optimal sampling and preemption under heavy-tailed delays (TAILOR, IEEE ISIT 2026)"
+2026-11-04T20:47:37Z,telemt-sdk,1.0.0,,MIT,148165,Typed asynchronous Python SDK for the Telemt Control API
+2026-11-04T20:50:12Z,kelpie-sre,0.1.0a1,Kelpie contributors,Apache-2.0,2559461,Open-source SRE and throughput optimization for AI agent farms
+2026-11-04T20:51:18Z,tba-protocol-webauthn,0.4.0.dev2,,Apache-2.0,34370,Versioned W3C Web Authentication relying-party protocol implementation.
+2026-11-04T20:53:22Z,tba-protocol-workload-spiffe-broker-api,0.4.0.dev2,,,9344,
+2026-11-04T20:54:05Z,bud-relay,0.1.0,Henry Bae,MIT,376408,"One MCP hub that lets always-on agents (Claude Duet, OpenAI dots, Meta Muse, Claude Code) message each other."
+2026-11-04T20:55:14Z,tba-protocol-workload-spiffe-workload-api,0.4.0.dev2,,,9149,
+2026-11-04T20:55:16Z,dopplergeist,0.1.1,,PolyForm-Noncommercial-1.0.0,7998956,Aircraft Doppler audio geolocation using historical flight tracks
+2026-11-04T20:55:42Z,personal-brain,0.1.0,,MIT,732718,"Your LinkedIn network as agent memory in FalkorDB: MCP tools to remember, find, ask and forget, plus a 3D viewer."
+2026-11-04T20:56:28Z,docboss,0.2.1,4thel00z,MIT OR Apache-2.0,9384645,"Fast DOCX and DOC text extraction, Markdown and HTML conversion, page rendering and DOCX writing in pure Rust, with pythonic bindings"
+2026-11-04T20:57:08Z,tba-profile-credential-sd-jwt-vc,0.4.0.dev2,,,14201,
+2026-11-04T20:59:17Z,tba-profile-credential-vc-jose-cose,0.4.0.dev2,,,11452,
+2026-11-04T21:01:23Z,tba-profile-fido2-server,0.4.0.dev2,,Apache-2.0,10279,Versioned FIDO2 server requirement and capability profile.
+2026-11-04T21:03:51Z,tba-profile-haip,0.4.0.dev2,,Apache-2.0,9835,
+2026-11-04T21:05:56Z,tba-profile-oauth-jwt-access-token,0.4.0.dev2,,,7097,
+2026-11-04T21:06:40Z,casket-store,0.1.2,"""Pierre A. Sauriol"" <pantosaur@gmail.com>",GPL-3.0-or-later,91253,simple CAS program
+2026-11-04T21:07:57Z,tba-profile-workload-credential-cwt-svid-extension,0.4.0.dev2,,,9035,
+2026-11-04T21:10:41Z,tba-runtime-identity,0.4.0.dev2,,Apache-2.0,110542,"Runtime assembly, profile loading, feature flags, deployment resolution, runner adapters, and diagnostics for TBA identity apps."
+2026-11-04T21:10:56Z,openrolesindex,0.0.1,Ben Esteban,MIT,2956,"Open Roles Index: an open, public-source job index. Name reservation; code lands at github.com/openrolesindex."
+2026-11-04T21:12:01Z,peslite-core,0.5.0,,AGPL-3.0-only,898881,Core runtime for the PESLite power electronics simulator.
+2026-11-04T21:12:05Z,peslite-frontend,0.5.0,,AGPL-3.0-only,55712,CodeSim frontend integration for PESLite.
+2026-11-04T21:12:05Z,peslite-full,0.5.0,,AGPL-3.0-only,29389,Complete PESLite installation with frontend and ONNX support.
+2026-11-04T21:13:03Z,tba-certification-release,0.4.0.dev2,,Apache-2.0,27347,Executable release certification and release posture helpers for the TBA package suite.
+2026-11-04T21:13:35Z,biopython-extension,1.89.dev0,The Biopython Contributors <biopython@biopython.org>,LicenseRef-Biopython-License-Agreement,154820431,Freely available tools for computational molecular biology.
+2026-11-04T21:14:15Z,unisend,1.0.0,,,37616,"Share files over Wi-Fi: other devices just open a link or scan a QR code. Live speeds, uploads, downloads, nearby-device transfers."
+2026-11-04T21:14:54Z,fw-pulley,1.0.0,,,116043,"Pulley, the Flywheel package manager: Distrobase packages through Hydrogen."
+2026-11-04T21:15:28Z,tba-runtime-identity-authoring,0.4.0.dev2,,Apache-2.0,16019,"Release artifact authoring, signing, attestation, and verification helpers for the TBA identity suite."
+2026-11-04T21:16:46Z,lte-launch-test,0.1.0,Spencer Diehl,Apache-2.0,27961,"ROS 2 launch tests on pytest, a launch_testing replacement on libtmux_easy"
+2026-11-04T21:16:53Z,taskwarden,0.1.0,DAHO,Apache-2.0,83117,"A durable, owner-approved AI team for a business: agents as folders, tools by risk, owner approvals that survive restarts, on Postgres."
+2026-11-04T21:17:41Z,anduril,0.1.0,,,2546,Anduril
+2026-11-04T21:17:43Z,konomanoasa-tree-sitter-awk,0.14.1,,MIT,243329,Tree-sitter grammar for GNU Awk.
+2026-11-04T21:17:49Z,tba-cli-identity,0.4.0.dev2,,Apache-2.0,289333,"Dedicated command-line package for TBA identity operator workflows, governance checks, evidence, and release gates."
+2026-11-04T21:20:07Z,blitzy-notification-utils,0.0.0,Blitzy,,1277,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-04T21:20:17Z,tba-runtime-authorization-policy,0.4.0.dev2,,Apache-2.0,17057,"Authorization policy, authority, grants, permissions, decisions, and governance implementation package for the TBA package suite."
