@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T05:19:46Z,t0-agents,2.14.1,Gustavo Vera <ing.vera.velasco@gmail.com>,MIT,1752303,The Pythonic agentic framework for TensorZero
+2026-11-04T05:21:47Z,agentic-terminal-tools-mcp,0.1.0,,,5749,An MCP which adds terminal capabilities to an agent
+2026-11-04T05:22:59Z,pynect-worker,0.8.5,Reggie Bowser and NodePyX contributors,MIT,50634,Python worker and WebSocket server for Pynect
+2026-11-04T05:25:15Z,inlineshield,1.0.1,,MIT,26118,"Official Python client for the InlineShield sign-up screening API: verify, siteverify, feedback, review status and webhook signature checks."
+2026-11-04T05:26:52Z,civon-image-edit-audit,0.1.0,,LicenseRef-NoLicenseGrant,16407,Audit human image-edit records and quote totals with a dependency-free Python library and CLI.
+2026-11-04T05:30:02Z,uncoil-sdk,0.6.0,Uncoil Team <hello@uncoil.dev>,MIT,63690,"Observability, runtime enforcement, and tracing for AI agents."
+2026-11-04T05:30:46Z,langchain-micompress,0.1.0,MiCompress <support@micompress.com>,MIT,15231,"LangChain tools for MiCompress: compress images, PDFs, video, audio, Office documents and archives"
+2026-11-04T05:31:54Z,bcrp-mcp,0.1.0,JOSETRA44 <drivearchiver@gmail.com>,"MIT License Copyright (c) 2026 JOSETRA44 Permission is hereby granted, free of charge, to any perso…",134178,"MCP server for the Banco Central de Reserva del Peru (BCRP) statistics API — access macroeconomic data, exchange rates, interest rates, monetary indicators, and more"
+2026-11-04T05:35:15Z,site-session-auto,0.1.3,,MIT,7196,"Restores your last browser session with one command, Browser never does this."
+2026-11-04T05:36:48Z,edgedoc,0.1.0,,Apache-2.0,2158710,"Read, create, edit, merge, and save Word documents"
+2026-11-04T05:38:37Z,artdo-motion-review,0.1.0,,LicenseRef-NoLicenseGrant,10483,Audit timestamped human observations for still-to-motion video candidates locally.
+2026-11-04T05:39:47Z,gpu-stack-inspector,0.1.0,BhuwanJoshi-01,MIT,131092,Explain why your AI code uses the GPU in one Python environment but not another.
+2026-11-04T05:40:22Z,screenshare-doctor,0.1.0,BhuwanJoshi-01,MIT,184325,Find out why screen sharing fails on your Linux Wayland desktop.
+2026-11-04T05:40:36Z,worktree-shield,0.1.0,BhuwanJoshi-01,MIT,176717,"Audit parallel Git worktrees for shared ports, databases and Docker resources before your agents collide."
+2026-11-04T05:42:13Z,tomefile,0.1.0,Simeon Emanuilov <simeon.emanuilov@gmail.com>,MIT,59234,Local RAG as a single file
+2026-11-04T05:43:30Z,kavara-uhura,0.0.1,"Kavara, Inc.",Proprietary,1860,"Name reserved by Kavara, Inc. for Uhura. This package contains no code."
+2026-11-04T05:47:52Z,qe-harness,0.1.1,Shan Konduru,MIT,90860,"Black-box, five-stage validation of conversation-to-action AI assistants: intent, orchestration, MCP tool calls, backend state and user response"
+2026-11-04T05:48:46Z,hardn-cli,0.1.0,Infonex Pty Ltd,Proprietary,12288,Command-line client for Hardn (hardn.si): run read-only security scans of sites you own from the terminal or CI.
+2026-11-04T05:48:49Z,hardn-runtime,0.1.0,Infonex Pty Ltd,Proprietary,13040,"Hardn runtime protection for Python: label agent traffic, serve honeytokens, screen prompt injection, report to Hardn."
+2026-11-04T05:48:53Z,hardn,0.1.0,Infonex Pty Ltd,Proprietary,1964,"Hardn (hardn.si): installs hardn-cli, which provides the `hardn` command for read-only security scans."
+2026-11-04T05:51:55Z,rotorvibe,0.1.0a1,Ugwiyeon Lee,MIT,741435,Composable rotating-machine vibration analysis with explicit evidence and applicability limits
+2026-11-04T05:52:05Z,neckcompass,1.0.0,Amandeep Singh Bains,MIT,61170,NeckCompass: Drosophila Central Complex ring-attractor compass and GPS-denied path integrator with natural ferromagnetic spike rejection
+2026-11-04T05:52:15Z,trading-r1,0.1.0,Tauric Research,Apache-2.0,8509159,"The terminal for financial research and analysis: an agent over market data, web research and compute tools for valuation, risk, portfolio, fixed income and derivatives."
+2026-11-04T05:52:41Z,decretum,0.0.1,Strategos <r@strategos.au>,Proprietary,6262,Legal decree and regulatory analysis. by Strategos.
+2026-11-04T05:52:42Z,medorqis,2.1.1,Tarek Mohamed <seotarek@gmail.com>,Apache-2.0,101382,"MedOrqis — Medical AI Skills Ecosystem: 24 Specialized Clinical AI Skills, Deterministic Safety Guardrails & Zero-Token Calculators."
+2026-11-04T05:53:36Z,doctrina,0.0.1,Strategos <r@strategos.au>,Proprietary,6237,Legal doctrine study and retention. by Strategos.
+2026-11-04T05:54:04Z,pyboot-web,0.1.1,,MIT,24742,Starlette web plugin for PyBoot
+2026-11-04T05:54:35Z,probandum,0.0.1,Strategos <r@strategos.au>,Proprietary,6265,Legal proof and element analysis. by Strategos.
+2026-11-04T05:54:37Z,perfectclone,0.1.0,Eshaan Gulati,MIT,50353,"Clone any website 1:1 with a real browser, then edit it safely."
+2026-11-04T05:55:19Z,disciplina,0.0.1,Strategos <r@strategos.au>,Proprietary,6272,Legal discipline and structured learning. by Strategos.
+2026-11-04T05:56:08Z,aicl-lang,0.1.0,AICL contributors,MIT,92482,"AICL: a compact, unambiguous language for agent-to-agent communication (spec + reference implementation)"
+2026-11-04T05:56:22Z,necksight,1.0.0,Amandeep Singh Bains,MIT,63839,Drosophila optic-lobe T4/T5 motion and LPLC2 4-quadrant looming collision reflex engine in Python and zero-heap ANSI C99
+2026-11-04T06:03:25Z,neckcord,1.0.0,Amandeep Singh Bains,MIT,73235,"Descending cervical 4-byte command bottleneck, self-healing hexapod VNC CPG, and presynaptic-shunting fault-tolerant thruster allocator"
+2026-11-04T06:03:44Z,mandat,0.1.0,Muhammadsaid Vosidov,Apache-2.0,73343,"Authorization, delegation and audit for AI agent actions (MCP-first): Python guard for Mandat."
+2026-11-04T06:06:12Z,pykeelhost,0.44.1,Yongming Wang,MIT,28661,"Python support library for KeelHost, formerly HostVM (linux_aarch64)"
+2026-11-04T06:07:29Z,pyrobostudio-sidecar,0.1.0,Georgi Mullassery,MIT,70731,"PyRoboStudio data sidecar: recorded-session serving, capabilities, mission/time APIs"
+2026-11-04T06:10:38Z,iran-vod-mcp,0.1.1,Sepehr Radmard <sepehrr80@gmail.com>,MIT,184740,"Unofficial read-only MCP server for the Iranian streaming catalogs Filimo and Namava: search, details, episodes, new, genres."
+2026-11-04T06:12:40Z,yunxiao-projex-mcp,0.1.0,,MIT,32523,MCP server for Alibaba Cloud Yunxiao Projex project management
+2026-11-04T06:14:32Z,pytktable-binaries,2.12.2,nbro,,1152128,"Prebuilt Tktable, the Tcl/Tk table widget, for pytktable."
+2026-11-04T06:15:31Z,sikaru-sdk,0.0.1,,,885464,
+2026-11-04T06:17:38Z,maitento,26.11.1,Maitento,Apache-2.0,576551,"The official Python SDK for Maitento, the AI OS: deploy agents and interactions, run them, and follow them live."
