@@ -1,0 +1,61 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T18:18:44Z,bloomberg-enterprise-orders,1.3.1,Bloomberg L.P.,Apache-2.0,295186,
+2026-11-04T18:18:54Z,tba-capability-token-issuance,0.4.0.dev2,,Apache-2.0,5465,Composable protocol-neutral token-pair issuance and refresh rotation capability.
+2026-11-04T18:21:07Z,tba-capability-token-revocation,0.4.0.dev2,,Apache-2.0,4989,Composable protocol-neutral token revocation capability for TBA.
+2026-11-04T18:21:12Z,liquid-xml-objects,21.6.1,Liquid Technologies Ltd,LIQUID TECHNOLOGIES LIMITED END-USER LICENSE AGREEMENT FOR LIQUID STUDIO AND LIQUID XML DATA BINDER…,250276,Liquid XML Objects runtime for Python: read and write XML as typed Python objects generated from an XSD.
+2026-11-04T18:21:20Z,innergrid,0.1.0,Robbin Janssen,MIT,28027,Asynchronous Python client for the energy and building data that Innergrid publishes over MQTT.
+2026-11-04T18:21:32Z,sigmoid-hunch,0.1.0,Usmon N,Apache-2.0,64040,"A zero-config experiment journal for ML research: every run keeps its code, config, environment and the reason you ran it, as plain files."
+2026-11-04T18:22:43Z,taeda,0.1.1,,MIT,5318,A torch utils library
+2026-11-04T18:23:02Z,pipseek,2.1.0,OhMyBahGosh,GPL-3.0-or-later,7101246,"Search PyPI from your terminal. A fast, interactive replacement for the retired `pip search`."
+2026-11-04T18:23:43Z,tba-capability-workload-credential-brokering,0.4.0.dev2,,Apache-2.0,3474,Delegated workload credential brokering capability.
+2026-11-04T18:25:12Z,stoopid,0.1.0,Simon Harvey,MIT,9868,A deliberately meaningless package used to exercise a fully automated release pipeline.
+2026-11-04T18:26:59Z,dex-connector-amazon-s3,0.1.0,,MIT,114798,Amazon S3 connector for Dex Flows
+2026-11-04T18:27:20Z,hxex,0.0.1.dev1,Lisa M Tuttle,GPL-3.0-or-later,4374835,Multimodal binomial-mixture analysis of HDX-MS spectra
+2026-11-04T18:27:57Z,sleap-connect,0.0.8,,,1346191,Remote SLEAP training and inference: run sleap-nn on a GPU machine from sleap-app
+2026-11-04T18:29:43Z,lisa-pack-hdae,0.1.0,,Apache-2.0,194350,Artifact-driven HDAE engineering with harness-verified gates
+2026-11-04T18:30:14Z,netbox-changelog-insights,0.3.0,,Apache-2.0,144347,"NetBox plugin: insights into the changelog, in the manner of GitHub Insights"
+2026-11-04T18:30:24Z,sand3d,1.6.2,,Apache-2.0,294520,"3D modeling in Python, built for LLMs: short programs over Blender's bpy."
+2026-11-04T18:33:01Z,slopaudit,1.0.0,slopaudit contributors,MIT,209391,"Verify AI-generated code: LLM-app security, hallucinated packages, stubs and spec drift."
+2026-11-04T18:33:48Z,askcert,0.1.0,Hoang-Loc Cao,MIT,142249,"Certifiable Boolean reasoning under incomplete evidence: TRUE/FALSE/UNKNOWN decisions, subset-minimal certificates, relevant unknowns and witnesses"
+2026-11-04T18:34:04Z,almiladoc,1.0.1,,BUSL-1.1 AND MIT,52499950,"Convert documents (doc, docx, odt, rtf, epub, pdf, presentations, spreadsheets, csv) to GitHub-Flavored Markdown"
+2026-11-04T18:35:00Z,CensoPy,0.1.1,"Jakob Cramer, Erhard Cramer",,12593,CensoPy - Statistical computations for exponentially distributed lifetimes under hybrid censoring
+2026-11-04T18:39:27Z,austial-auth,0.2.0,,,26709,"Authentication primitives -- Argon2 hasher, JWT strategy, TOTP MFA, AuthGuard, refresh-token store -- mirrors @nestjs/passport + @nestjs/jwt."
+2026-11-04T18:39:31Z,austial-authz,0.2.0,,,10231,"Role- and permission-based access control -- @Roles, @Permissions, RolesGuard, PermissionService, object-level authorisation."
+2026-11-04T18:39:34Z,austial-tenancy,0.2.0,,,12288,"Multi-tenant primitives -- request-scoped TenantContext, TenantGuard, Tenanted entity mixin, tenant-scope enforcement (mirrors @nestjs/microservices' scope patterns, adapted for HTTP)."
+2026-11-04T18:39:39Z,austial-security,0.2.0,,,33079,"Security primitives -- secure headers, rate limiting, idempotency, CSRF, PII redaction, envelope encryption."
+2026-11-04T18:39:57Z,langchain-storerouter,0.1.0,Octogen AI,Apache-2.0,20850,"LangChain tools for StoreRouter: product search, product lookup, store and brand discovery across real merchant catalogs"
+2026-11-04T18:40:36Z,tba-capability-workload-identity,0.4.0.dev2,,Apache-2.0,3251,Protocol-neutral workload credential capability composition.
+2026-11-04T18:42:40Z,tba-protocol-attestation-corim,0.4.0.dev2,,Apache-2.0,9303,Versioned CoRIM-family protocol profile and capability mapping.
+2026-11-04T18:44:26Z,foundationprophet,0.1.0,,,10582,Add your description here
+2026-11-04T18:45:00Z,tba-protocol-attestation-eat,0.4.0.dev2,,,10336,
+2026-11-04T18:45:19Z,okmusic,0.1.3,L0v3M0n3y <ffxckemweball@gmail.com>,,7502,Неофициальный SDK для работы с музыкальным API Одноклассников (WMF) через jsessionid
+2026-11-04T18:47:11Z,tba-protocol-authzen,0.4.0.dev2,,Apache-2.0,13564,OpenID AuthZEN Authorization API protocol package.
+2026-11-04T18:48:37Z,meridian-eval,0.2.0,Pranav T Pattanashetty,MIT,322175,"A CI gate for AI agents: isolated trials, outcome grading, pass^k with honest intervals, and a verdict that says what it could not detect."
+2026-11-04T18:49:43Z,tba-protocol-credential-iso-mdoc,0.4.0.dev2,,Apache-2.0,11560,
+2026-11-04T18:49:55Z,thermospike,0.1.0,The thermospike contributors,MIT,24718,"Stochastic spiking neurons that sample from Boltzmann distributions, with a count of the random bits and synaptic events each sample costs."
+2026-11-04T18:51:49Z,tba-protocol-credential-w3c-vcdm,0.4.0.dev2,,Apache-2.0,12165,
+2026-11-04T18:52:25Z,adafruit-circuitpython-ov5647,1.0.0,Adafruit Industries <circuitpython@adafruit.com>,GPL-2.0-only,54734,CircuitPython driver for the OV5647 camera module
+2026-11-04T18:54:01Z,tba-protocol-cwt,0.4.0.dev3,,,12422,Versioned RFC 8392 CWT claim-set composition.
+2026-11-04T18:55:23Z,bell-system-unix-v7,5.0.0,Bell System Operations Simulation Project,MIT,1484392,Bell System UNIX V7 terminal simulation (1978-1983)
+2026-11-04T18:58:12Z,langchain-sofya,0.1.0,"""Sofya, Inc."" <contact@sofya.co>",MIT,18436,"LangChain tools for Sofya: web search, page fetch, extraction and cited research for AI agents."
+2026-11-04T18:58:59Z,ezsnmp-data-logger,2026.11.3,carlkidcrypto,MIT,306475366,"Self-contained C++17 SNMP Data Logger powered by ezsnmp with SWIG bindings (Python, Node.js, C#, Go), CLI, and cross-platform GUI."
+2026-11-04T18:59:21Z,cfbtui,1.13.1,Bill Kane,MIT,191530,"College football scoreboard for your terminal. Live scores, rankings and scoring plays."
+2026-11-04T18:59:26Z,adsb-tui,0.11.0,WPTK,CC0-1.0,344406,A curses TUI for tracking nearby aircraft from a dump1090/readsb ADS-B feed
+2026-11-04T19:00:07Z,ody-sdk,0.6.0,,MIT,42458,"Official Python SDK for the Ody REST API (contacts, conversations, messaging, calls, numbers, AI agent, webhooks) with webhook verification and event parsing."
+2026-11-04T19:01:27Z,duplicate-cleaner,0.1.0,Konstantin Kovalenko,MIT,11204,Cleans specified directories from duplicates based on hash comparison
+2026-11-04T19:06:16Z,integrate-ui,0.1.0,Thomas Mejer Hansen,MIT,2075464,A project-centric workbench UI for the INTEGRATE probabilistic inversion library
+2026-11-04T19:06:18Z,tba-concrete-claim-authorization-context,0.4.0.dev2,,,3766,Standalone draft authorization context (actx) claim implementation.
+2026-11-04T19:07:23Z,seaborn-lite,0.1.1,,MIT,131389,"A tiny matplotlib-only seaborn subset plus the DWM practical-exam algorithms, from scratch."
+2026-11-04T19:07:46Z,bpskit,0.2.0,Carlos Loucera <clou@us.es>,MIT,45793,"Tools for studies on a BPS (Base Poblacional de Salud) health-records delivery, including an identifier check for outputs leaving a secure data environment"
+2026-11-04T19:09:14Z,mcruft-photocraft,0.1.2,,Apache-2.0,7402,PhotoCraft engine for mcruft
+2026-11-04T19:09:15Z,mcruft-vectorcraft,0.1.2,,Apache-2.0,9251,VectorCraft engine for mcruft
+2026-11-04T19:11:23Z,optiondesk-engine,0.3.0.post1,Iman Samizadeh,PolyForm-Noncommercial-1.0.0,198348,Option pricing and Greek analytics engine for the option desk
+2026-11-04T19:11:25Z,optiondesk,0.3.0.post1,Iman Samizadeh,PolyForm-Noncommercial-1.0.0,1126187,"Option desk shell: data providers, contracts, artifacts, MCP server, dashboard"
+2026-11-04T19:11:26Z,optiondesk-agent,0.3.0.post1,Iman Samizadeh,PolyForm-Noncommercial-1.0.0,61938,"LangChain bindings for the option desk: tools, artifact retrieval, and a grounded answer chain"
+2026-11-04T19:13:12Z,hadoku-scrape-sdk,0.1.3,,ISC,220217,"The runtime hadoku-scrape plugins build on: plugin contract, browser stack, run log, events, test floor"
+2026-11-04T19:13:29Z,rocket-engine,0.0.2b1,,MIT,4152351,Shared tooling engine used by the RocketEDA IDE (manual actions and MCP invoke the same operations).
+2026-11-04T19:16:52Z,mihenk,0.1.0,Aslan Satary Dizaji,Apache-2.0,92078,A touchstone for discovered equations: check whether the law PySINDy found is real before you interpret it.
+2026-11-04T19:16:53Z,eagle-engine,0.1.0,Eagle Engine contributors,MIT,516661,3D-движок как расширение PyGame: GPU-рендеринг через ModernGL
+2026-11-04T19:17:51Z,captain-drawdown-mcp,0.1.0,Captain Drawdown / Carbon Drawdown Initiative <info@carbon-drawdown.de>,MIT,10202,"MCP server for Captain Drawdown's open carbon dioxide removal data: companies, researchers, shops."
+2026-11-04T19:18:21Z,upscalex,0.1.0,Arunmozhi Varman <arunmozhi@example.com>,MIT,4975999,"UpscaleX MCP/CLI: Production-grade 8K/16K image upscaler CLI and Model Context Protocol (MCP) server powered by RealESRGAN, Vulkan GPU acceleration, and Lanczos supersampling."
+2026-11-04T19:18:32Z,hios-ssh-runner,1.0.0,Pavel Dvořák,AGPL-3.0-only,59118,Run CLI commands on Hirschmann HiOS switches over SSH and save one log per device

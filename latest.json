@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-11-04T17:18:19.699035Z",
-    "path": "data/new-packages-2026-11-04T18-18-19-526949Z.csv",
-    "to": "2026-11-04T18:18:19.526949Z"
+    "count": 60,
+    "from": "2026-11-04T18:18:19.526949Z",
+    "path": "data/new-packages-2026-11-04T19-19-02-863415Z.csv",
+    "to": "2026-11-04T19:19:02.863415Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-04T15:14:10Z",
-      "package": "StripLab",
-      "since": "2026-11-04T14:20:34.730325Z",
+      "attempts": 1,
+      "created_at": "2026-11-04T18:34:37Z",
+      "package": "cluebase-python-sdk",
+      "since": "2026-11-04T18:18:19.526949Z",
       "version": null
     }
   ],
-  "serial": 43201817,
+  "serial": 43204298,
   "source_truncated": false,
-  "window": "2026-11-04T18:18:19.526949Z"
+  "window": "2026-11-04T19:19:02.863415Z"
 }
