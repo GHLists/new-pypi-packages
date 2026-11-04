@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T10:39:57Z,polars-to-hprimxml,0.1.1,Basile Fuchs,GPL-3.0-or-later,46418,"Convertit des DataFrames polars en messages hprimXML 2.00 (actes CCAM, états patient, PMSI)."
+2026-11-04T11:10:11Z,genus-ai,0.1.1,plusgamerz <plusgamerz719@gmail.com>,Apache-2.0,39736,Genus is an AI Agent that can interact with your computer and do stuff in it.
+2026-11-04T12:19:04Z,asteria-ssg,1.0.0,"""Diego C. Sampaio"" <slavelix@ymail.com>",AGPL-3.0-only,321464,Python SSG (Static Site Generator) based exclusively on ODT documents
+2026-11-04T12:21:32Z,ai-flight-recorder,0.1.1,swap-mitra,Apache-2.0,97007,"Record every model and tool call of an AI agent run, with tokens, cost and latency."
+2026-11-04T12:22:39Z,adk-null-session,0.1.0,nikkie <takuyafjp+develop@gmail.com>,Apache-2.0,33801,"Invocation-local, non-persisting session service for Google ADK"
+2026-11-04T12:23:41Z,detectability,0.3.0,Mükremin Nergiz,BSD-3-Clause,106936,"Pre-survey detectability, modelled and reproducible: forward-modelled gravity and magnetic responses, station spacing and a detectability verdict for near-surface targets."
+2026-11-04T12:25:11Z,pyAPart,0.1.0,swl <kikikkii@github.com>,,211922,简单地实现了图片转ascii art的功能
+2026-11-04T12:27:13Z,langchain-faxforagents,0.1.0,Fax for Agents <hello@faxforagents.com>,MIT,206353,Fax for Agents tools for LangChain and LangGraph.
+2026-11-04T12:27:19Z,faxforagents-haystack,0.1.0,"""Fax for Agents (JSB Holdings LLC)"" <hello@faxforagents.com>",MIT,188298,Fax for Agents tools for Haystack by deepset.
+2026-11-04T12:29:18Z,alexein-cli,0.3.0,Alexein AI,MIT,80031,"Add memory from Alexein to a LangGraph project, a CrewAI crew or an OpenAI Agents SDK agent, as a short file you own: uvx alexein-cli init langgraph | crewai | openai-agents."
+2026-11-04T12:29:19Z,alexein-livekit,0.3.0,Alexein AI,MIT,65443,"Long-term memory for LiveKit voice agents, from Alexein: recalled before each reply, every turn saved."
+2026-11-04T12:30:27Z,propcore,0.1.2,Sebastian Krol,"MIT License Copyright (c) 2026 Sebastian Król Permission is hereby granted, free of charge, to any…",14249,Rocket propulsion and test-data formulas for the ABORT project
+2026-11-04T12:31:43Z,aurarouter-antigravity,0.1.0,AuraCore Dynamics Inc.,Apache-2.0,27029,Google Antigravity MCP provider server for AuraRouter — orchestrates agentic workflows and Gemini models via the google-antigravity SDK.
+2026-11-04T12:32:41Z,immersive-oa-sdk,0.1.0,,,84967,Immersive AI Security SDK: OpenTelemetry setup and assessment-marker handling for Python apps
+2026-11-04T12:34:54Z,scipion-chem-saambe,3.3.3,Natalia del Rey,,607799,Scipion plugin for Alexov group in http://compbio.clemson.edu/lab/
+2026-11-04T12:35:28Z,tgmint,1.18.1,thedemons,MIT License Copyright (c) 2022 thedemons Copyright (c) 2026 the tgmint authors (fork changes; see F…,646286,"tgmint — opentele lineage: tdata/telethon conversion, official-API fingerprints, software passkeys"
+2026-11-04T12:36:24Z,xakki-pylog,0.1.2,xakki,GPL-3.0-or-later,220443,"Structured logging library for Python — GELF/Graylog-oriented, Python port of xakki/laralog"
+2026-11-04T12:37:06Z,xtr-mailer,6.0.0,Xterr,MIT,365290,"Send email through SMTP, sendmail or a provider's API — picked by DSN, in-process or queued on a message bus, with failover, round-robin, envelope and header overrides, DKIM and S/MIME signing, and S…"
+2026-11-04T12:37:06Z,xtr-serializer,6.0.0,Xterr,MIT,246080,"Turn objects into JSON and back exactly — dataclasses, models, class hierarchies and dates arrive as they left, or are refused — through a chain of normalizers and encoders."
+2026-11-04T12:37:08Z,xtr-maker,6.0.0,Xterr,MIT,204478,"Console commands that write application code for the xtr libraries: messages, schedules, webhooks, entities, commands and listeners."
+2026-11-04T12:37:31Z,worldref,1.1.1,,MIT,378082,"Every country in Arabic, English, or both: names, nationalities, dial codes, phone validation, currencies, subdivisions."
+2026-11-04T12:38:48Z,agentgauge-eval,0.1.0,,Apache-2.0,134135,Regression testing for LLM agents
+2026-11-04T12:39:09Z,xtr-mime,6.0.0,Xterr,MIT,250952,"Build email messages — addresses, headers, text and HTML bodies, attachments and inline images — rendered to standard MIME by Python's own email package, signed with DKIM or S/MIME when asked."
+2026-11-04T12:39:14Z,xtr-amqp-messenger,6.0.0,Xterr,MIT,52352,"A RabbitMQ transport for xtr-messenger: queues on an AMQP broker, a retry ladder, delays and real dead-lettering, through taskiq."
+2026-11-04T12:39:50Z,xtr-orm-messenger,6.0.0,Xterr,MIT,67835,"A database transport for xtr-messenger: messages kept in a table on an xtr-orm connection, claimed by workers, delayed, redelivered and woken by notifications."
+2026-11-04T12:39:54Z,safepay,0.2.0,NovaCorp Labs,MIT,128451,"A payment guardrail between an autonomous AI agent and PayPal: policy, live-web merchant check and intent reasoning before any money moves, with a hash-chained audit log."
+2026-11-04T12:40:35Z,tgcaptcha-solver,0.1.0,drshta0,MIT,308773,"Telegram captcha solver for Rose, GroupHelp, Shieldy and SOSO group-join bots, with a strict safety policy."
+2026-11-04T12:42:37Z,pywinergy,0.1.0,,MIT,45309,Local control of Winergy / OUPES power stations over Wi-Fi and Bluetooth
+2026-11-04T12:44:00Z,genmagic-discord,0.1.0,"""GenMagic (O-mega Enterprise, Inc)"" <hello@genmagic.co>",MIT,12859,"Self-hosted Discord bot for AI images and video with GenMagic: /image and /video with Nano Banana, GPT Image, FLUX, Veo 3.1, Kling 3.0, Seedance and 90+ more models on one API key."
+2026-11-04T12:44:33Z,runapi-typesafe,0.4.0,RunAPI <contact@runapi.ai>,Apache-2.0,16158,"RunAPI TypeSafe SDK for Jev structured decision workflows in JavaScript, Python, Ruby, Go, Java, and PHP"
+2026-11-04T12:48:48Z,vst-audio,0.0.1,115dkk,MIT,4812,"Reserved name for the Python bindings of vst-audio, an isolated-process VST2/VST3 plugin host"
+2026-11-04T12:54:26Z,latitude10-registry,0.1.1,,MIT,36280,Python SDK for Latitude 10 Registry API
+2026-11-04T12:58:17Z,phenocor,0.2.0,Jing Chen <jing.chen@bih-charite.de>,"BSD 3-Clause License Copyright (c) 2024, Monarch Initiative and contributors Redistribution and use…",43720,A Python package for correlation analysis of HPO annotations in GA4GH phenopacket cohorts
+2026-11-04T12:58:18Z,slowprint-tool,3.1.0,noahwzy,MIT,11209,慢速打字机效果工具库（逐字打印、彩色、闪烁、进度条、滚动、Tkinter动画）
+2026-11-04T13:01:08Z,jukefa-ukrgen,0.2.0,linedot <linedot@linedot.org>,,14751632,A microkernel generator
+2026-11-04T13:03:36Z,extera-plugin-runtime,1.0.1,exteraGram plugins,MIT,7852,Background runtime helpers for exteraGram plugins
+2026-11-04T13:05:55Z,userdir-publish,0.0.1,Remco de Boer,MIT,44717,Publish a static website to a personal web directory served by Apache's mod_userdir
+2026-11-04T13:10:03Z,peace-protomer,0.1.0,Jonathan Zheng <jonathan.zheng@tuwien.ac.at>,MIT,198460,Protomer Enumerator & Automatic Calculator for Energies: an atomistic workflow for determining acid-base prototropic tautomer microstate populations
+2026-11-04T13:10:37Z,mcpsonar,0.9.1,Alessandro Fraleoni,"MIT License Copyright (c) 2026 Alessandro Fraleoni Permission is hereby granted, free of charge, to…",525930,"Uptime monitoring, rug-pull detection and anomaly detection for MCP servers"
+2026-11-04T13:16:07Z,promigence-rllm,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,37026,Run rLLM (DeepSWE) rollouts on Promigence sandboxes (a Sandbox backend)
+2026-11-04T13:16:11Z,promigence-youtu,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,67835,Promigence sandbox environment for Tencent Youtu-Agent
+2026-11-04T13:16:14Z,promigence-omnigent,0.1.0a1,Promigence AI <support@promigence.ai>,Apache-2.0,23296,Run Omnigent agent hosts in Promigence sandboxes
+2026-11-04T13:16:48Z,pipeloom-polars,0.2.0,Emanuel Luis <emanuel.filho08@gmail.com>,Apache-2.0,23638,"Polars engine for pipeloom: lazy frames, SQL and file tables."
+2026-11-04T13:16:51Z,pipeloom-pandas,0.2.0,Emanuel Luis <emanuel.filho08@gmail.com>,Apache-2.0,24182,pandas engine for pipeloom: eager DataFrames and file tables.
