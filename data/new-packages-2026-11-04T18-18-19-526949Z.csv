@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T17:08:49Z,kivyn3,0.0.1,,,26389,A Material Design 3 component layer and custom rendering pipeline for Kivy
+2026-11-04T17:18:32Z,web-prac,0.1.0,,,24979,"Ready-to-run code scaffolder for Web Lab practicals (HTML, CSS, TypeScript, React, Node.js, Flask)"
+2026-11-04T17:19:57Z,tba-capability-protected-envelope,0.4.0.dev2,,Apache-2.0,2775,Protected envelope issuance and verification capability.
+2026-11-04T17:22:15Z,reposentinel-scanner,0.1.0,ItzMeVishwas,MIT,685704,"Local, offline security audit for software repositories: risky files, hard-coded credential patterns, and unsafe GitHub Actions workflows."
+2026-11-04T17:22:21Z,tba-capability-protected-resource-authorization,0.4.0.dev2,,Apache-2.0,6469,Composable protocol-neutral protected-resource authorization capability for TBA.
+2026-11-04T17:23:49Z,euron-code,0.1.0,Euron <contact@euron.one>,"Copyright (c) 2026 Euron. All rights reserved. This software and its source code, documentation and…",165460,Euron Code: an agentic coding assistant in your terminal for Euron Plus and Super 30 students.
+2026-11-04T17:26:07Z,nuramesh,0.0.1,AI Collective Labs Inc.,LicenseRef-Proprietary,1750,NuraMesh: verified AI agent teams. Early release; the full package is coming soon.
+2026-11-04T17:27:38Z,netbox-interface-profiles,0.1.0,Wouter de Bruijn <wouter@retigra.nl>,AGPL-3.0-only,241402,NetBox plugin for managing interface configuration profiles.
+2026-11-04T17:28:18Z,toolrack-cli,0.1.0,Jan Chimiak,MIT,55265,"Turn a folder of small scripts plus YAML sidecars into one typed, completable CLI"
+2026-11-04T17:28:50Z,warnect,0.1.0,Arsya,MIT,8489,Python interface to arsya-baileys-open (WhatsApp Web) via a Node.js bridge
+2026-11-04T17:35:14Z,danish-tax-mcp,0.4.1,Mikael Bisgaard Dahlsen-Jensen,MIT,114204,"Danish personal tax figures and calculators, exposed as an MCP server"
+2026-11-04T17:37:31Z,cyguide,1.0.0,"Harshwardhan Patil, CyGuide Contributors",MIT,166175,A TUI-based guided cybersecurity learning platform
+2026-11-04T17:41:24Z,karjimut,2.0.0,Naufal Arhab Fadhil Muhammad,MIT,569837,Karjimut — Arsitektur Memori Dua Lapis Berbasis Model Context Protocol (MCP) dengan Konsolidasi Fase Idle
+2026-11-04T17:42:31Z,ai-tally,0.0.1,Tallynomics LLC,MIT,1197933,ai-tally Python SDK: cost-and-value observability for AI products (OTel gen_ai.* native)
+2026-11-04T17:43:26Z,harnessweaver-pydantic-ai,0.1.2,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,53589,HarnessWeaver plugin: Pydantic AI.
+2026-11-04T17:43:29Z,django-smstunnel,1.0.0,Narcis Bodea <contact@narboweb.ro>,MIT,46462,"SMSTunnel for Django: send texts from your Django app through your own Android phone, from your own number, including django-two-factor-auth sign-in codes."
+2026-11-04T17:43:30Z,pakwatch,0.1.1,,MIT,71938,"See which of your Unreal Engine 5 mods a game update touched, and which mods collide"
+2026-11-04T17:45:02Z,ASTpytcl,0.1.1,erider0x90,,34713,"A zero-dependency, CPython-AST-powered Tcl environment with Python FFI and macro bridges"
+2026-11-04T17:45:51Z,stat-tool,0.1.0,,,41425,Statistics lib
+2026-11-04T17:46:16Z,openevolve-bedrock,0.2.0,Scott Friedman,Apache-2.0,100248,"Amazon Bedrock as the LLM backend for OpenEvolve (AlphaEvolve-class evolutionary coding), with a per-call cost ledger."
+2026-11-04T17:47:07Z,ohos-test-ime,0.1.0,,Apache-2.0,12266,"Host-side client for a scriptable OpenHarmony input method, for on-device tests"
+2026-11-04T17:48:23Z,pse-sdk-python,1.0.0,RootTool0,MIT,32134,Python binding for Portal Solver Editor (PSE) SDK
+2026-11-04T17:51:18Z,redesign-clickup-mcp,1.5.3,Yuri Oliveira <yuri.oliveira@redesignconsultoria.com.br>,,72821,Clickup MCP server for research agent
+2026-11-04T17:51:55Z,discell,0.1.0,"Ricky Molén <rickym@kth.se>, Hosein Toosi <hoseint@kth.se>, ""Pedro F. Ferreira"" <pedrofe@kth.se>, J…",BSD-3-Clause,275226,"Separates a cell's intrinsic state, its niche response and spillover in imaging spatial transcriptomics, and tests how much spillover each finding withstands"
+2026-11-04T17:55:55Z,tba-capability-public-key-authentication,0.4.0.dev2,,Apache-2.0,5532,Composable protocol-neutral public-key assertion authentication capability.
+2026-11-04T17:57:58Z,pigeonhole-db,1.1.0,,MIT,73515903,"Pigeonhole: an embedded, single-file, wide-column store (BigTable's data model, SQLite's deployment)."
+2026-11-04T17:58:10Z,tba-capability-public-key-credential-management,0.4.0.dev2,,Apache-2.0,4892,Composable public-key credential lifecycle capability.
+2026-11-04T17:58:16Z,fairway-py,0.0.8,,Apache-2.0,379057,"Fairway — runtime governance for AI agents. Policy engine, classifier, human review, and kill switch."
+2026-11-04T17:58:53Z,harnessweaver-monty,0.2.1,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,17570,HarnessWeaver plugin: Monty sandbox.
+2026-11-04T18:01:04Z,tba-capability-public-key-registration,0.4.0.dev2,,Apache-2.0,5513,Composable protocol-neutral public-key credential registration capability.
+2026-11-04T18:02:19Z,argos-cli,0.3.1,,,2067106,Núcleo genérico in-process para execução de auditorias
+2026-11-04T18:03:02Z,harnessweaver-sidecar,0.2.1,Muthu Kumaran R <rsmk7new@gmail.com>,Apache-2.0,43419,harnessd: serves the HarnessWeaver core to every other language over HTTP.
+2026-11-04T18:03:47Z,tba-capability-realm-administration,0.4.0.dev2,,Apache-2.0,5511,Realm administration capability over injected durable operations.
+2026-11-04T18:05:34Z,orrery-tui,0.1.0,Thomas Yankelevich,MIT,148996,"Live isometric solar system in your terminal, driven by NASA/JPL Horizons ephemerides"
+2026-11-04T18:06:00Z,tba-capability-replay-protection,0.4.0.dev2,,Apache-2.0,4756,Protocol-neutral replay reservation provider with capability reporting.
+2026-11-04T18:06:29Z,forge-django,0.4.0,Plamen Ivanov <paco.iwanow@gmail.com>,MIT,176314,Scaffold production-ready Django projects with senior-architect best practices
+2026-11-04T18:06:51Z,phyloK,1.0.0,,,120998,
+2026-11-04T18:08:06Z,tba-capability-security-event-delivery,0.4.0.dev2,,Apache-2.0,4564,Security-event transmit and receive capability.
+2026-11-04T18:08:26Z,pyrubikabot,0.1.0,Amir Asadyan,MIT,72937,"A modern Python framework for building Rubika bots: typed Bot API client, dispatcher, routers, filters, FSM, keyboard builders and formatting helpers. Zero runtime dependencies."
+2026-11-04T18:09:36Z,sc-archetypes,0.1.0,,BSD-3-Clause,112575,Archetype projection and phenotypic scoring for single-cell AnnData objects.
+2026-11-04T18:10:10Z,tba-capability-service-key-authentication,0.4.0.dev2,,Apache-2.0,4304,Service-key authentication capability.
+2026-11-04T18:10:26Z,glass2glass,0.13.0,,MPL-2.0,133982095,Python bindings to drive glass2glass pipelines (parse_launch + run + bus + appsrc/appsink).
+2026-11-04T18:10:34Z,vault-funeral-tech-embed,0.1.0,,,153591,Embeddable Vault Funeral Tech UI components for Django
+2026-11-04T18:12:29Z,tba-capability-tenant-administration,0.4.0.dev2,,Apache-2.0,5321,Tenant administration capability over injected durable operations.
+2026-11-04T18:13:02Z,bazaar-contrib-server-migrations,0.3.0rc1,,Apache-2.0,18638,Published Server 1–7 historical database upgrades
+2026-11-04T18:13:14Z,dragonscale,0.1.0,"""Shih-Ying Yeh(KohakuBlueLeaf)"" <apolloyeh0123@gmail.com>",Apache-2.0,157189,Keeps weight sizes from drifting during training: finds the scales a model's loss cannot see and normalizes the weights behind them.
+2026-11-04T18:13:27Z,inboxcabin,0.1.0,InboxCabin <ericw@inboxcabin.com>,MIT,2586,InboxCabin virtual office mailboxes helper (placeholder package)
+2026-11-04T18:14:05Z,kivviq,0.1.0,David Adebiyi Adewale,MIT,28103,Execution observability for AI agents
+2026-11-04T18:14:20Z,tba-capability-token-exchange,0.4.0.dev2,,Apache-2.0,4660,Composable protocol-neutral security-token exchange capability.
+2026-11-04T18:16:33Z,tba-capability-token-introspection,0.4.0.dev2,,Apache-2.0,5188,Composable protocol-neutral token introspection capability for TBA.
