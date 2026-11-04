@@ -8,71 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 19:19 UTC
+## Latest list — 2026-11-04 20:19 UTC
 
-New packages created between 2026-11-04 18:18 UTC and 2026-11-04 19:19 UTC.
+New packages created between 2026-11-04 19:19 UTC and 2026-11-04 20:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-04T19-19-02-863415Z.csv)
+[Full CSV](data/new-packages-2026-11-04T20-19-13-786318Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-04 18:18:44 | [bloomberg-enterprise-orders](https://pypi.org/project/bloomberg-enterprise-orders/) | 1.3.1 | Bloomberg L.P. | 295.2 kB |  |
-| 2026-11-04 18:18:54 | [tba-capability-token-issuance](https://pypi.org/project/tba-capability-token-issuance/) | 0.4.0.dev2 |  | 5.5 kB | Composable protocol-neutral token-pair issuance and refresh rotation capability. |
-| 2026-11-04 18:21:07 | [tba-capability-token-revocation](https://pypi.org/project/tba-capability-token-revocation/) | 0.4.0.dev2 |  | 5.0 kB | Composable protocol-neutral token revocation capability for TBA. |
-| 2026-11-04 18:21:12 | [liquid-xml-objects](https://pypi.org/project/liquid-xml-objects/) | 21.6.1 | Liquid Technologies Ltd | 250.3 kB | Liquid XML Objects runtime for Python: read and write XML as typed Python objec… |
-| 2026-11-04 18:21:20 | [innergrid](https://pypi.org/project/innergrid/) | 0.1.0 | Robbin Janssen | 28.0 kB | Asynchronous Python client for the energy and building data that Innergrid publ… |
-| 2026-11-04 18:21:32 | [sigmoid-hunch](https://pypi.org/project/sigmoid-hunch/) | 0.1.0 | Usmon N | 64.0 kB | A zero-config experiment journal for ML research: every run keeps its code, con… |
-| 2026-11-04 18:22:43 | [taeda](https://pypi.org/project/taeda/) | 0.1.1 |  | 5.3 kB | A torch utils library |
-| 2026-11-04 18:23:02 | [pipseek](https://pypi.org/project/pipseek/) | 2.1.0 | OhMyBahGosh | 7.1 MB | Search PyPI from your terminal. A fast, interactive replacement for the retired… |
-| 2026-11-04 18:23:43 | [tba-capability-workload-credential-brokering](https://pypi.org/project/tba-capability-workload-credential-brokering/) | 0.4.0.dev2 |  | 3.5 kB | Delegated workload credential brokering capability. |
-| 2026-11-04 18:25:12 | [stoopid](https://pypi.org/project/stoopid/) | 0.1.0 | Simon Harvey | 9.9 kB | A deliberately meaningless package used to exercise a fully automated release p… |
-| 2026-11-04 18:26:59 | [dex-connector-amazon-s3](https://pypi.org/project/dex-connector-amazon-s3/) | 0.1.0 |  | 114.8 kB | Amazon S3 connector for Dex Flows |
-| 2026-11-04 18:27:20 | [hxex](https://pypi.org/project/hxex/) | 0.0.1.dev1 | Lisa M Tuttle | 4.4 MB | Multimodal binomial-mixture analysis of HDX-MS spectra |
-| 2026-11-04 18:27:57 | [sleap-connect](https://pypi.org/project/sleap-connect/) | 0.0.8 |  | 1.3 MB | Remote SLEAP training and inference: run sleap-nn on a GPU machine from sleap-a… |
-| 2026-11-04 18:29:43 | [lisa-pack-hdae](https://pypi.org/project/lisa-pack-hdae/) | 0.1.0 |  | 194.3 kB | Artifact-driven HDAE engineering with harness-verified gates |
-| 2026-11-04 18:30:14 | [netbox-changelog-insights](https://pypi.org/project/netbox-changelog-insights/) | 0.3.0 |  | 144.3 kB | NetBox plugin: insights into the changelog, in the manner of GitHub Insights |
-| 2026-11-04 18:30:24 | [sand3d](https://pypi.org/project/sand3d/) | 1.6.2 |  | 294.5 kB | 3D modeling in Python, built for LLMs: short programs over Blender's bpy. |
-| 2026-11-04 18:33:01 | [slopaudit](https://pypi.org/project/slopaudit/) | 1.0.0 | slopaudit contributors | 209.4 kB | Verify AI-generated code: LLM-app security, hallucinated packages, stubs and sp… |
-| 2026-11-04 18:33:48 | [askcert](https://pypi.org/project/askcert/) | 0.1.0 | Hoang-Loc Cao | 142.2 kB | Certifiable Boolean reasoning under incomplete evidence: TRUE/FALSE/UNKNOWN dec… |
-| 2026-11-04 18:34:04 | [almiladoc](https://pypi.org/project/almiladoc/) | 1.0.1 |  | 52.5 MB | Convert documents (doc, docx, odt, rtf, epub, pdf, presentations, spreadsheets,… |
-| 2026-11-04 18:35:00 | [CensoPy](https://pypi.org/project/CensoPy/) | 0.1.1 | Jakob Cramer, Erhard Cramer | 12.6 kB | CensoPy - Statistical computations for exponentially distributed lifetimes unde… |
-| 2026-11-04 18:39:27 | [austial-auth](https://pypi.org/project/austial-auth/) | 0.2.0 |  | 26.7 kB | Authentication primitives -- Argon2 hasher, JWT strategy, TOTP MFA, AuthGuard,… |
-| 2026-11-04 18:39:31 | [austial-authz](https://pypi.org/project/austial-authz/) | 0.2.0 |  | 10.2 kB | Role- and permission-based access control -- @Roles, @Permissions, RolesGuard,… |
-| 2026-11-04 18:39:34 | [austial-tenancy](https://pypi.org/project/austial-tenancy/) | 0.2.0 |  | 12.3 kB | Multi-tenant primitives -- request-scoped TenantContext, TenantGuard, Tenanted… |
-| 2026-11-04 18:39:39 | [austial-security](https://pypi.org/project/austial-security/) | 0.2.0 |  | 33.1 kB | Security primitives -- secure headers, rate limiting, idempotency, CSRF, PII re… |
-| 2026-11-04 18:39:57 | [langchain-storerouter](https://pypi.org/project/langchain-storerouter/) | 0.1.0 | Octogen AI | 20.9 kB | LangChain tools for StoreRouter: product search, product lookup, store and bran… |
-| 2026-11-04 18:40:36 | [tba-capability-workload-identity](https://pypi.org/project/tba-capability-workload-identity/) | 0.4.0.dev2 |  | 3.3 kB | Protocol-neutral workload credential capability composition. |
-| 2026-11-04 18:42:40 | [tba-protocol-attestation-corim](https://pypi.org/project/tba-protocol-attestation-corim/) | 0.4.0.dev2 |  | 9.3 kB | Versioned CoRIM-family protocol profile and capability mapping. |
-| 2026-11-04 18:44:26 | [foundationprophet](https://pypi.org/project/foundationprophet/) | 0.1.0 |  | 10.6 kB | Add your description here |
-| 2026-11-04 18:45:00 | [tba-protocol-attestation-eat](https://pypi.org/project/tba-protocol-attestation-eat/) | 0.4.0.dev2 |  | 10.3 kB |  |
-| 2026-11-04 18:45:19 | [okmusic](https://pypi.org/project/okmusic/) | 0.1.3 | L0v3M0n3y <ffxckemweball@gmai… | 7.5 kB | Неофициальный SDK для работы с музыкальным API Одноклассников (WMF) через jsess… |
-| 2026-11-04 18:47:11 | [tba-protocol-authzen](https://pypi.org/project/tba-protocol-authzen/) | 0.4.0.dev2 |  | 13.6 kB | OpenID AuthZEN Authorization API protocol package. |
-| 2026-11-04 18:48:37 | [meridian-eval](https://pypi.org/project/meridian-eval/) | 0.2.0 | Pranav T Pattanashetty | 322.2 kB | A CI gate for AI agents: isolated trials, outcome grading, pass^k with honest i… |
-| 2026-11-04 18:49:43 | [tba-protocol-credential-iso-mdoc](https://pypi.org/project/tba-protocol-credential-iso-mdoc/) | 0.4.0.dev2 |  | 11.6 kB |  |
-| 2026-11-04 18:49:55 | [thermospike](https://pypi.org/project/thermospike/) | 0.1.0 | The thermospike contributors | 24.7 kB | Stochastic spiking neurons that sample from Boltzmann distributions, with a cou… |
-| 2026-11-04 18:51:49 | [tba-protocol-credential-w3c-vcdm](https://pypi.org/project/tba-protocol-credential-w3c-vcdm/) | 0.4.0.dev2 |  | 12.2 kB |  |
-| 2026-11-04 18:52:25 | [adafruit-circuitpython-ov5647](https://pypi.org/project/adafruit-circuitpython-ov5647/) | 1.0.0 | Adafruit Industries <circuitp… | 54.7 kB | CircuitPython driver for the OV5647 camera module |
-| 2026-11-04 18:54:01 | [tba-protocol-cwt](https://pypi.org/project/tba-protocol-cwt/) | 0.4.0.dev3 |  | 12.4 kB | Versioned RFC 8392 CWT claim-set composition. |
-| 2026-11-04 18:55:23 | [bell-system-unix-v7](https://pypi.org/project/bell-system-unix-v7/) | 5.0.0 | Bell System Operations Simula… | 1.5 MB | Bell System UNIX V7 terminal simulation (1978-1983) |
-| 2026-11-04 18:58:12 | [langchain-sofya](https://pypi.org/project/langchain-sofya/) | 0.1.0 | "Sofya, Inc." <contact@sofya.… | 18.4 kB | LangChain tools for Sofya: web search, page fetch, extraction and cited researc… |
-| 2026-11-04 18:58:59 | [ezsnmp-data-logger](https://pypi.org/project/ezsnmp-data-logger/) | 2026.11.3 | carlkidcrypto | 306.5 MB | Self-contained C++17 SNMP Data Logger powered by ezsnmp with SWIG bindings (Pyt… |
-| 2026-11-04 18:59:21 | [cfbtui](https://pypi.org/project/cfbtui/) | 1.13.1 | Bill Kane | 191.5 kB | College football scoreboard for your terminal. Live scores, rankings and scorin… |
-| 2026-11-04 18:59:26 | [adsb-tui](https://pypi.org/project/adsb-tui/) | 0.11.0 | WPTK | 344.4 kB | A curses TUI for tracking nearby aircraft from a dump1090/readsb ADS-B feed |
-| 2026-11-04 19:00:07 | [ody-sdk](https://pypi.org/project/ody-sdk/) | 0.6.0 |  | 42.5 kB | Official Python SDK for the Ody REST API (contacts, conversations, messaging, c… |
-| 2026-11-04 19:01:27 | [duplicate-cleaner](https://pypi.org/project/duplicate-cleaner/) | 0.1.0 | Konstantin Kovalenko | 11.2 kB | Cleans specified directories from duplicates based on hash comparison |
-| 2026-11-04 19:06:16 | [integrate-ui](https://pypi.org/project/integrate-ui/) | 0.1.0 | Thomas Mejer Hansen | 2.1 MB | A project-centric workbench UI for the INTEGRATE probabilistic inversion library |
-| 2026-11-04 19:06:18 | [tba-concrete-claim-authorization-context](https://pypi.org/project/tba-concrete-claim-authorization-context/) | 0.4.0.dev2 |  | 3.8 kB | Standalone draft authorization context (actx) claim implementation. |
-| 2026-11-04 19:07:23 | [seaborn-lite](https://pypi.org/project/seaborn-lite/) | 0.1.1 |  | 131.4 kB | A tiny matplotlib-only seaborn subset plus the DWM practical-exam algorithms, f… |
-| 2026-11-04 19:07:46 | [bpskit](https://pypi.org/project/bpskit/) | 0.2.0 | Carlos Loucera <clou@us.es> | 45.8 kB | Tools for studies on a BPS (Base Poblacional de Salud) health-records delivery,… |
-| 2026-11-04 19:09:14 | [mcruft-photocraft](https://pypi.org/project/mcruft-photocraft/) | 0.1.2 |  | 7.4 kB | PhotoCraft engine for mcruft |
-| 2026-11-04 19:09:15 | [mcruft-vectorcraft](https://pypi.org/project/mcruft-vectorcraft/) | 0.1.2 |  | 9.3 kB | VectorCraft engine for mcruft |
-| 2026-11-04 19:11:23 | [optiondesk-engine](https://pypi.org/project/optiondesk-engine/) | 0.3.0.post1 | Iman Samizadeh | 198.3 kB | Option pricing and Greek analytics engine for the option desk |
-| 2026-11-04 19:11:25 | [optiondesk](https://pypi.org/project/optiondesk/) | 0.3.0.post1 | Iman Samizadeh | 1.1 MB | Option desk shell: data providers, contracts, artifacts, MCP server, dashboard |
-| 2026-11-04 19:11:26 | [optiondesk-agent](https://pypi.org/project/optiondesk-agent/) | 0.3.0.post1 | Iman Samizadeh | 61.9 kB | LangChain bindings for the option desk: tools, artifact retrieval, and a ground… |
-| 2026-11-04 19:13:12 | [hadoku-scrape-sdk](https://pypi.org/project/hadoku-scrape-sdk/) | 0.1.3 |  | 220.2 kB | The runtime hadoku-scrape plugins build on: plugin contract, browser stack, run… |
-| 2026-11-04 19:13:29 | [rocket-engine](https://pypi.org/project/rocket-engine/) | 0.0.2b1 |  | 4.2 MB | Shared tooling engine used by the RocketEDA IDE (manual actions and MCP invoke… |
-| 2026-11-04 19:16:52 | [mihenk](https://pypi.org/project/mihenk/) | 0.1.0 | Aslan Satary Dizaji | 92.1 kB | A touchstone for discovered equations: check whether the law PySINDy found is r… |
-| 2026-11-04 19:16:53 | [eagle-engine](https://pypi.org/project/eagle-engine/) | 0.1.0 | Eagle Engine contributors | 516.7 kB | 3D-движок как расширение PyGame: GPU-рендеринг через ModernGL |
-| 2026-11-04 19:17:51 | [captain-drawdown-mcp](https://pypi.org/project/captain-drawdown-mcp/) | 0.1.0 | Captain Drawdown / Carbon Dra… | 10.2 kB | MCP server for Captain Drawdown's open carbon dioxide removal data: companies,… |
-| 2026-11-04 19:18:21 | [upscalex](https://pypi.org/project/upscalex/) | 0.1.0 | Arunmozhi Varman <arunmozhi@e… | 5.0 MB | UpscaleX MCP/CLI: Production-grade 8K/16K image upscaler CLI and Model Context… |
-| 2026-11-04 19:18:32 | [hios-ssh-runner](https://pypi.org/project/hios-ssh-runner/) | 1.0.0 | Pavel Dvořák | 59.1 kB | Run CLI commands on Hirschmann HiOS switches over SSH and save one log per devi… |
+| 2026-11-04 19:20:04 | [forever-lint](https://pypi.org/project/forever-lint/) | 0.1.0 | José Argento | 556.9 kB | Checks World of Warcraft addons for problems on WoW Forever: removed API, secre… |
+| 2026-11-04 19:21:35 | [mandochka](https://pypi.org/project/mandochka/) | 0.1.0 | Mandochka Team | 127.7 kB | High-performance plugin builder for ElyxCore with native D8/Javac DEX compilati… |
+| 2026-11-04 19:21:39 | [tba-protocol-gnap](https://pypi.org/project/tba-protocol-gnap/) | 0.4.0.dev2 |  | 12.4 kB | Versioned RFC 9635 Grant Negotiation and Authorization Protocol mapping. |
+| 2026-11-04 19:21:56 | [prwarden](https://pypi.org/project/prwarden/) | 2.1.0 | Pylyp Borysov | 618.1 kB | Self-hosted AI pull-request reviewer built on the AI and GitHub CLIs you alread… |
+| 2026-11-04 19:24:01 | [tba-protocol-identity-did-core](https://pypi.org/project/tba-protocol-identity-did-core/) | 0.4.0.dev2 |  | 9.8 kB |  |
+| 2026-11-04 19:26:23 | [tba-protocol-jwt](https://pypi.org/project/tba-protocol-jwt/) | 0.4.0.dev2 |  | 10.8 kB |  |
+| 2026-11-04 19:27:46 | [ziptrip](https://pypi.org/project/ziptrip/) | 0.1.0 |  | 53.2 kB | Build Python zipapps for other platforms using Rust-style targets |
+| 2026-11-04 19:28:34 | [synapsemem-ai](https://pypi.org/project/synapsemem-ai/) | 0.1.0 | Rohan Dhar | 12.1 kB | A zero-overhead, temporal belief-graph memory engine for local AI agents. |
+| 2026-11-04 19:28:51 | [tba-protocol-oauth](https://pypi.org/project/tba-protocol-oauth/) | 0.4.0.dev2 |  | 127.0 kB | OAuth 2.x and OAuth 2.1 profile protocol implementation package for the TBA pac… |
+| 2026-11-04 19:31:03 | [tba-protocol-oauth-protected-resource](https://pypi.org/project/tba-protocol-oauth-protected-resource/) | 0.4.0.dev2 |  | 21.3 kB | OAuth protected-resource facade over token, DPoP, mTLS, and policy validators f… |
+| 2026-11-04 19:32:36 | [europa-mcp](https://pypi.org/project/europa-mcp/) | 0.4.1 | Munirdin Jadikar | 178.6 kB | MCP server that lets AI assistants find and fetch public open data from Eurosta… |
+| 2026-11-04 19:33:00 | [tba-protocol-oid4vci](https://pypi.org/project/tba-protocol-oid4vci/) | 0.4.0.dev2 |  | 10.4 kB | OpenID for Verifiable Credential Issuance protocol package. |
+| 2026-11-04 19:35:00 | [tba-protocol-oid4vp](https://pypi.org/project/tba-protocol-oid4vp/) | 0.4.0.dev2 |  | 11.0 kB | OpenID for Verifiable Presentations protocol package. |
+| 2026-11-04 19:35:19 | [pinq-calc](https://pypi.org/project/pinq-calc/) | 0.0.1 | Peter <peter@bsqt.homeip.net> | 55.1 kB | Pinq-calc (Python Interpreter Nifty Qt Calculator) - A portable GUI calculator… |
+| 2026-11-04 19:35:43 | [ensign-scan](https://pypi.org/project/ensign-scan/) | 0.1.1 | WolfdeerNerd | 129.5 kB | Local-first ClamAV file scanner for Linux: hashes files, tracks changes in a lo… |
+| 2026-11-04 19:37:15 | [tba-protocol-oidc](https://pypi.org/project/tba-protocol-oidc/) | 0.4.0.dev2 |  | 57.9 kB | OpenID Connect provider protocol implementation package for the TBA package sui… |
+| 2026-11-04 19:38:02 | [mindin](https://pypi.org/project/mindin/) | 0.14.0 | Carl Green <carl.green@gronar… | 771.8 kB | MCP server for a markdown notes vault on S3 or a local directory, with a SQLite… |
+| 2026-11-04 19:38:02 | [slangvision](https://pypi.org/project/slangvision/) | 0.0.1 | Tekin Tatar | 12.3 kB | GPU training augmentation for PyTorch, written in Slang (under development). |
+| 2026-11-04 19:39:07 | [tba-protocol-oidc-relying-party](https://pypi.org/project/tba-protocol-oidc-relying-party/) | 0.4.0.dev2 |  | 22.1 kB | OpenID Connect relying-party and OAuth client protocol implementation package f… |
+| 2026-11-04 19:39:13 | [auto-optimal-control](https://pypi.org/project/auto-optimal-control/) | 0.1.0 | Ian Mackey | 173.1 kB | Symbolic indirect (Pontryagin) optimal control: from dynamics and cost to every… |
+| 2026-11-04 19:40:00 | [mcruft-deckcraft-bin](https://pypi.org/project/mcruft-deckcraft-bin/) | 0.10.0 |  | 35.8 MB |  |
+| 2026-11-04 19:40:12 | [upheld](https://pypi.org/project/upheld/) | 0.1.0 | Varun S G | 117.4 kB | Check whether an AI answer's citations actually support its claims. |
+| 2026-11-04 19:40:15 | [bizzo](https://pypi.org/project/bizzo/) | 0.0.1 |  | 2.6 kB | Bizzo: prospección comercial para consultoras y empresas B2B pequeñas. Nombre r… |
+| 2026-11-04 19:40:17 | [mcruft-designcraft-bin](https://pypi.org/project/mcruft-designcraft-bin/) | 0.12.0 |  | 34.7 MB |  |
+| 2026-11-04 19:40:33 | [eventwire](https://pypi.org/project/eventwire/) | 0.1.0 | Hamidreza <h4midrezam@gmail.c… | 25.1 kB | Lightweight, zero-dependency async & sync in-process event bus and decoupled me… |
+| 2026-11-04 19:41:09 | [tba-protocol-security-cose](https://pypi.org/project/tba-protocol-security-cose/) | 0.4.0.dev2 |  | 8.0 kB |  |
+| 2026-11-04 19:42:59 | [eapdk](https://pypi.org/project/eapdk/) | 0.1.1 | Echelon <info@echelon-ai.spac… | 543.1 kB | Echelon Application Python Developer Kit — a typed, async-first SDK for writing… |
+| 2026-11-04 19:42:59 | [tba-protocol-security-event-set](https://pypi.org/project/tba-protocol-security-event-set/) | 0.4.0.dev2 |  | 11.3 kB |  |
+| 2026-11-04 19:44:52 | [tba-protocol-security-jose](https://pypi.org/project/tba-protocol-security-jose/) | 0.4.0.dev2 |  | 10.7 kB | Versioned JOSE RFC-family protocol profile. |
+| 2026-11-04 19:45:14 | [jamgraf](https://pypi.org/project/jamgraf/) | 1.1.0 | VerinFast | 888.8 kB | A small local wiki for Human/LLM collaboration (SQLite, hybrid RAG, MCP, CRDT c… |
+| 2026-11-04 19:46:54 | [tba-protocol-security-jwe](https://pypi.org/project/tba-protocol-security-jwe/) | 0.4.0.dev2 |  | 7.9 kB |  |
+| 2026-11-04 19:48:27 | [agentdatahub](https://pypi.org/project/agentdatahub/) | 0.1.0 | Agent Data Hub | 26.6 kB | Free, no-key public data for AI agents: official statistics, central bank rates… |
+| 2026-11-04 19:49:03 | [tba-protocol-security-jws](https://pypi.org/project/tba-protocol-security-jws/) | 0.4.0.dev2 |  | 8.0 kB |  |
+| 2026-11-04 19:52:03 | [ionworks](https://pypi.org/project/ionworks/) | 0.1.0 | Ionworks Technologies Inc <in… | 1.0 MB | The Ionworks Python package: API client, pipeline schemas, data processing and… |
+| 2026-11-04 19:56:45 | [hostdirect-client](https://pypi.org/project/hostdirect-client/) | 1.0.1 | HostDirect.nl | 4.1 kB | Read-only HostDirect hosting comparison SDK and CLI |
+| 2026-11-04 19:56:51 | [seika-oc](https://pypi.org/project/seika-oc/) | 0.4.1 | bd-loser | 22.4 kB | One-command OpenCode installer for Termux (pkg update/upgrade + install script… |
+| 2026-11-04 19:58:16 | [jiheng-mcp](https://pypi.org/project/jiheng-mcp/) | 0.3.0 |  | 84.6 kB | Jiheng (玑衡): an exact computation layer for AI agents over MCP. Fractions, radi… |
+| 2026-11-04 20:00:44 | [aivisibilityskill](https://pypi.org/project/aivisibilityskill/) | 1.0.0 | aivisibilityskill <support@ai… | 24.9 kB | Official Python client for the aivisibilityskill API: see how ChatGPT, Gemini,… |
+| 2026-11-04 20:09:45 | [zambo-leadsignal](https://pypi.org/project/zambo-leadsignal/) | 1.0.0 | Brennan Zambo | 19.0 kB | Run a lead signal sweep for a local trade market on Zambo: live signals, screen… |

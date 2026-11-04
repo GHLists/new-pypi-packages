@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T19:20:04Z,forever-lint,0.1.0,José Argento,MIT,556868,"Checks World of Warcraft addons for problems on WoW Forever: removed API, secret values, project ID checks, events and TOC files."
+2026-11-04T19:21:35Z,mandochka,0.1.0,Mandochka Team,MIT,127744,High-performance plugin builder for ElyxCore with native D8/Javac DEX compilation and incremental architecture
+2026-11-04T19:21:39Z,tba-protocol-gnap,0.4.0.dev2,,Apache-2.0,12397,Versioned RFC 9635 Grant Negotiation and Authorization Protocol mapping.
+2026-11-04T19:21:56Z,prwarden,2.1.0,Pylyp Borysov,Apache-2.0,618057,Self-hosted AI pull-request reviewer built on the AI and GitHub CLIs you already use
+2026-11-04T19:24:01Z,tba-protocol-identity-did-core,0.4.0.dev2,,,9779,
+2026-11-04T19:26:23Z,tba-protocol-jwt,0.4.0.dev2,,,10804,
+2026-11-04T19:27:46Z,ziptrip,0.1.0,,,53179,Build Python zipapps for other platforms using Rust-style targets
+2026-11-04T19:28:34Z,synapsemem-ai,0.1.0,Rohan Dhar,,12066,"A zero-overhead, temporal belief-graph memory engine for local AI agents."
+2026-11-04T19:28:51Z,tba-protocol-oauth,0.4.0.dev2,,Apache-2.0,127018,OAuth 2.x and OAuth 2.1 profile protocol implementation package for the TBA package suite.
+2026-11-04T19:31:03Z,tba-protocol-oauth-protected-resource,0.4.0.dev2,,Apache-2.0,21307,"OAuth protected-resource facade over token, DPoP, mTLS, and policy validators for the TBA package suite."
+2026-11-04T19:32:36Z,europa-mcp,0.4.1,Munirdin Jadikar,EUPL-1.2,178636,"MCP server that lets AI assistants find and fetch public open data from Eurostat, the European Parliament, data.europa.eu and national statistics offices, with source and licence on every answer"
+2026-11-04T19:33:00Z,tba-protocol-oid4vci,0.4.0.dev2,,Apache-2.0,10354,OpenID for Verifiable Credential Issuance protocol package.
+2026-11-04T19:35:00Z,tba-protocol-oid4vp,0.4.0.dev2,,Apache-2.0,11008,OpenID for Verifiable Presentations protocol package.
+2026-11-04T19:35:19Z,pinq-calc,0.0.1,Peter <peter@bsqt.homeip.net>,GPL-2.0-only,55076,Pinq-calc (Python Interpreter Nifty Qt Calculator) - A portable GUI calculator with an integrated Python terminal.
+2026-11-04T19:35:43Z,ensign-scan,0.1.1,WolfdeerNerd,MIT,129503,"Local-first ClamAV file scanner for Linux: hashes files, tracks changes in a local database, and scans only what changed."
+2026-11-04T19:37:15Z,tba-protocol-oidc,0.4.0.dev2,,Apache-2.0,57889,OpenID Connect provider protocol implementation package for the TBA package suite.
+2026-11-04T19:38:02Z,mindin,0.14.0,Carl Green <carl.green@gronare.se>,MIT,771786,"MCP server for a markdown notes vault on S3 or a local directory, with a SQLite index, schema-aware writes and session hooks."
+2026-11-04T19:38:02Z,slangvision,0.0.1,Tekin Tatar,Apache-2.0,12305,"GPU training augmentation for PyTorch, written in Slang (under development)."
+2026-11-04T19:39:07Z,tba-protocol-oidc-relying-party,0.4.0.dev2,,Apache-2.0,22088,OpenID Connect relying-party and OAuth client protocol implementation package for the TBA package suite.
+2026-11-04T19:39:13Z,auto-optimal-control,0.1.0,Ian Mackey,MIT,173141,Symbolic indirect (Pontryagin) optimal control: from dynamics and cost to every function a two-point BVP solver needs
+2026-11-04T19:40:00Z,mcruft-deckcraft-bin,0.10.0,,,35826255,
+2026-11-04T19:40:12Z,upheld,0.1.0,Varun S G,MIT,117406,Check whether an AI answer's citations actually support its claims.
+2026-11-04T19:40:15Z,bizzo,0.0.1,,,2563,Bizzo: prospección comercial para consultoras y empresas B2B pequeñas. Nombre reservado; la primera versión llegará pronto.
+2026-11-04T19:40:17Z,mcruft-designcraft-bin,0.12.0,,,34739974,
+2026-11-04T19:40:33Z,eventwire,0.1.0,Hamidreza <h4midrezam@gmail.com>,MIT,25143,"Lightweight, zero-dependency async & sync in-process event bus and decoupled messaging toolkit for Python."
+2026-11-04T19:41:09Z,tba-protocol-security-cose,0.4.0.dev2,,,8028,
+2026-11-04T19:42:59Z,eapdk,0.1.1,Echelon <info@echelon-ai.space>,Apache-2.0,543085,"Echelon Application Python Developer Kit — a typed, async-first SDK for writing Echelon apps."
+2026-11-04T19:42:59Z,tba-protocol-security-event-set,0.4.0.dev2,,,11341,
+2026-11-04T19:44:52Z,tba-protocol-security-jose,0.4.0.dev2,,Apache-2.0,10738,Versioned JOSE RFC-family protocol profile.
+2026-11-04T19:45:14Z,jamgraf,1.1.0,VerinFast,Elastic-2.0,888760,"A small local wiki for Human/LLM collaboration (SQLite, hybrid RAG, MCP, CRDT co-editing)."
+2026-11-04T19:46:54Z,tba-protocol-security-jwe,0.4.0.dev2,,,7947,
+2026-11-04T19:48:27Z,agentdatahub,0.1.0,Agent Data Hub,MIT,26608,"Free, no-key public data for AI agents: official statistics, central bank rates, FX, energy and weather, with LangChain, LlamaIndex and CrewAI tools."
+2026-11-04T19:49:03Z,tba-protocol-security-jws,0.4.0.dev2,,,7951,
+2026-11-04T19:52:03Z,ionworks,0.1.0,Ionworks Technologies Inc <info@ionworks.com>,"MIT License Copyright (c) 2026 Ionworks Technologies Inc Permission is hereby granted, free of char…",1005240,"The Ionworks Python package: API client, pipeline schemas, data processing and utilities."
+2026-11-04T19:56:45Z,hostdirect-client,1.0.1,HostDirect.nl,,4112,Read-only HostDirect hosting comparison SDK and CLI
+2026-11-04T19:56:51Z,seika-oc,0.4.1,bd-loser,,22383,One-command OpenCode installer for Termux (pkg update/upgrade + install script + verification)
+2026-11-04T19:58:16Z,jiheng-mcp,0.3.0,,MIT,84573,"Jiheng (玑衡): an exact computation layer for AI agents over MCP. Fractions, radicals, symbolic math, statistics, finance, units, dates, parallel shards."
+2026-11-04T20:00:44Z,aivisibilityskill,1.0.0,aivisibilityskill <support@aivisibilityskill.com>,MIT,24886,"Official Python client for the aivisibilityskill API: see how ChatGPT, Gemini, AI Overviews, Perplexity, Claude and Grok answer about any brand."
+2026-11-04T20:09:45Z,zambo-leadsignal,1.0.0,Brennan Zambo,,19007,"Run a lead signal sweep for a local trade market on Zambo: live signals, screened input, continuity-checked, brief written, every step on a verifiable AER-1 receipt."
