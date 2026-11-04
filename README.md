@@ -8,63 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 21:21 UTC
+## Latest list — 2026-11-04 22:34 UTC
 
-New packages created between 2026-11-04 20:19 UTC and 2026-11-04 21:21 UTC.
+New packages created between 2026-11-04 21:21 UTC and 2026-11-04 22:34 UTC.
 
-[Full CSV](data/new-packages-2026-11-04T21-21-04-196323Z.csv)
+[Full CSV](data/new-packages-2026-11-04T22-34-43-674402Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-04 19:42:20 | [wayfinder-memory](https://pypi.org/project/wayfinder-memory/) | 0.1.4 | Pedro Zaterka | 10.9 MB | Install the wayfinder binary: workspace memory that coding agents write to, as… |
-| 2026-11-04 20:19:22 | [anytocs](https://pypi.org/project/anytocs/) | 0.1.0 |  | 26.2 kB | Extract a Table of Contents from any PDF (including scanned/image-only PDFs via… |
-| 2026-11-04 20:21:54 | [formkrafter](https://pypi.org/project/formkrafter/) | 0.1.0 | Streamline Pulse | 87.5 kB | FormKrafter for Python backends: validate form submissions exactly like @stream… |
-| 2026-11-04 20:22:05 | [fortran-nlp-kernels-cuda](https://pypi.org/project/fortran-nlp-kernels-cuda/) | 0.1.1 | Suwesh Prasad Sah <83471963+s… | 77.3 MB | CUDA Fortran and cuBLAS companion for fortran-nlp-kernels |
-| 2026-11-04 20:22:27 | [monic-sh](https://pypi.org/project/monic-sh/) | 0.0.0 |  | 1.7 kB | One log for the database and the bus. |
-| 2026-11-04 20:29:12 | [prep-ic](https://pypi.org/project/prep-ic/) | 0.1.0 | Maximilian Golser <maximilian… | 210.1 kB | PREP-IC (Pinout, Ring and Early floorplan Planner for ICs): plan IC pad ring pi… |
-| 2026-11-04 20:29:45 | [gcrsim](https://pypi.org/project/gcrsim/) | 0.1.1 | Sergey Verlan | 263.5 kB | Graph-controlled string rewriting simulator (insertion-deletion systems and oth… |
-| 2026-11-04 20:29:52 | [qodalis-cli-server-plugin-aws](https://pypi.org/project/qodalis-cli-server-plugin-aws/) | 1.0.0b13 | Nicolae Lupei <nicolae.lupei@… | 28.1 kB | AWS cloud resource management plugin for Qodalis CLI servers |
-| 2026-11-04 20:29:54 | [qodalis-cli-server-plugin-data-explorer](https://pypi.org/project/qodalis-cli-server-plugin-data-explorer/) | 1.0.0b13 | Nicolae Lupei <nicolae.lupei@… | 4.7 kB | Data Explorer plugin for Qodalis CLI servers |
-| 2026-11-04 20:29:55 | [qodalis-cli-server-plugin-data-explorer-elasticsearch](https://pypi.org/project/qodalis-cli-server-plugin-data-explorer-elasticsearch/) | 1.0.0b13 | Nicolae Lupei <nicolae.lupei@… | 4.0 kB | Elasticsearch Data Explorer provider plugin for Qodalis CLI servers |
-| 2026-11-04 20:29:56 | [qodalis-cli-server-plugin-data-explorer-mongo](https://pypi.org/project/qodalis-cli-server-plugin-data-explorer-mongo/) | 1.0.0b13 | Nicolae Lupei <nicolae.lupei@… | 4.5 kB | MongoDB Data Explorer provider plugin for Qodalis CLI servers |
-| 2026-11-04 20:33:21 | [swatplus-bmi](https://pypi.org/project/swatplus-bmi/) | 0.1.0 | Northline Hydrology <info@nor… | 639.8 kB | SWAT+ through the Basic Model Interface (BMI 2.0), stepped one day at a time |
-| 2026-11-04 20:35:29 | [enigmata-classifier-ner-models](https://pypi.org/project/enigmata-classifier-ner-models/) | 0.0.0a0 | Enigmata, Inc. | 922 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-11-04 20:36:55 | [enigmata-sentinel-chat-cert-datagen](https://pypi.org/project/enigmata-sentinel-chat-cert-datagen/) | 0.0.0a0 | Enigmata, Inc. | 938 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-11-04 20:37:44 | [connflex-core](https://pypi.org/project/connflex-core/) | 0.1.0 | Cao Reconfigurable Quantum Ma… | 77.5 kB | Reduced-order mechanical models and electrical nets from GDS layouts and polygo… |
-| 2026-11-04 20:37:57 | [enigmata-sentinel-chat-cert-scorer](https://pypi.org/project/enigmata-sentinel-chat-cert-scorer/) | 0.0.0a0 | Enigmata, Inc. | 934 B | Reserved name held by Enigmata, Inc. Not a usable package. |
-| 2026-11-04 20:39:31 | [jsonl-utf8-guard](https://pypi.org/project/jsonl-utf8-guard/) | 0.1.0 | Senanur Çetin | 16.5 kB | Dependency-free, privacy-safe UTF-8 JSONL validator that never prints input rec… |
-| 2026-11-04 20:45:27 | [muster-memory](https://pypi.org/project/muster-memory/) | 0.1.0 | SAINT Machines | 156.3 kB | MUSTER: lossless long-term memory for agents, set by its own text, with no LLM… |
-| 2026-11-04 20:47:06 | [tailor-aoi](https://pypi.org/project/tailor-aoi/) | 0.1.0 | Aimin Li, Yiğit İnce, Elif Uy… | 34.4 kB | Age-optimal sampling and preemption under heavy-tailed delays (TAILOR, IEEE ISI… |
-| 2026-11-04 20:47:37 | [telemt-sdk](https://pypi.org/project/telemt-sdk/) | 1.0.0 |  | 148.2 kB | Typed asynchronous Python SDK for the Telemt Control API |
-| 2026-11-04 20:50:12 | [kelpie-sre](https://pypi.org/project/kelpie-sre/) | 0.1.0a1 | Kelpie contributors | 2.6 MB | Open-source SRE and throughput optimization for AI agent farms |
-| 2026-11-04 20:51:18 | [tba-protocol-webauthn](https://pypi.org/project/tba-protocol-webauthn/) | 0.4.0.dev2 |  | 34.4 kB | Versioned W3C Web Authentication relying-party protocol implementation. |
-| 2026-11-04 20:53:22 | [tba-protocol-workload-spiffe-broker-api](https://pypi.org/project/tba-protocol-workload-spiffe-broker-api/) | 0.4.0.dev2 |  | 9.3 kB |  |
-| 2026-11-04 20:54:05 | [bud-relay](https://pypi.org/project/bud-relay/) | 0.1.0 | Henry Bae | 376.4 kB | One MCP hub that lets always-on agents (Claude Duet, OpenAI dots, Meta Muse, Cl… |
-| 2026-11-04 20:55:14 | [tba-protocol-workload-spiffe-workload-api](https://pypi.org/project/tba-protocol-workload-spiffe-workload-api/) | 0.4.0.dev2 |  | 9.1 kB |  |
-| 2026-11-04 20:55:16 | [dopplergeist](https://pypi.org/project/dopplergeist/) | 0.1.1 |  | 8.0 MB | Aircraft Doppler audio geolocation using historical flight tracks |
-| 2026-11-04 20:55:42 | [personal-brain](https://pypi.org/project/personal-brain/) | 0.1.0 |  | 732.7 kB | Your LinkedIn network as agent memory in FalkorDB: MCP tools to remember, find,… |
-| 2026-11-04 20:56:28 | [docboss](https://pypi.org/project/docboss/) | 0.2.1 | 4thel00z | 9.4 MB | Fast DOCX and DOC text extraction, Markdown and HTML conversion, page rendering… |
-| 2026-11-04 20:57:08 | [tba-profile-credential-sd-jwt-vc](https://pypi.org/project/tba-profile-credential-sd-jwt-vc/) | 0.4.0.dev2 |  | 14.2 kB |  |
-| 2026-11-04 20:59:17 | [tba-profile-credential-vc-jose-cose](https://pypi.org/project/tba-profile-credential-vc-jose-cose/) | 0.4.0.dev2 |  | 11.5 kB |  |
-| 2026-11-04 21:01:23 | [tba-profile-fido2-server](https://pypi.org/project/tba-profile-fido2-server/) | 0.4.0.dev2 |  | 10.3 kB | Versioned FIDO2 server requirement and capability profile. |
-| 2026-11-04 21:03:51 | [tba-profile-haip](https://pypi.org/project/tba-profile-haip/) | 0.4.0.dev2 |  | 9.8 kB |  |
-| 2026-11-04 21:05:56 | [tba-profile-oauth-jwt-access-token](https://pypi.org/project/tba-profile-oauth-jwt-access-token/) | 0.4.0.dev2 |  | 7.1 kB |  |
-| 2026-11-04 21:06:40 | [casket-store](https://pypi.org/project/casket-store/) | 0.1.2 | "Pierre A. Sauriol" <pantosau… | 91.3 kB | simple CAS program |
-| 2026-11-04 21:07:57 | [tba-profile-workload-credential-cwt-svid-extension](https://pypi.org/project/tba-profile-workload-credential-cwt-svid-extension/) | 0.4.0.dev2 |  | 9.0 kB |  |
-| 2026-11-04 21:10:41 | [tba-runtime-identity](https://pypi.org/project/tba-runtime-identity/) | 0.4.0.dev2 |  | 110.5 kB | Runtime assembly, profile loading, feature flags, deployment resolution, runner… |
-| 2026-11-04 21:10:56 | [openrolesindex](https://pypi.org/project/openrolesindex/) | 0.0.1 | Ben Esteban | 3.0 kB | Open Roles Index: an open, public-source job index. Name reservation; code land… |
-| 2026-11-04 21:12:01 | [peslite-core](https://pypi.org/project/peslite-core/) | 0.5.0 |  | 898.9 kB | Core runtime for the PESLite power electronics simulator. |
-| 2026-11-04 21:12:05 | [peslite-frontend](https://pypi.org/project/peslite-frontend/) | 0.5.0 |  | 55.7 kB | CodeSim frontend integration for PESLite. |
-| 2026-11-04 21:12:05 | [peslite-full](https://pypi.org/project/peslite-full/) | 0.5.0 |  | 29.4 kB | Complete PESLite installation with frontend and ONNX support. |
-| 2026-11-04 21:13:03 | [tba-certification-release](https://pypi.org/project/tba-certification-release/) | 0.4.0.dev2 |  | 27.3 kB | Executable release certification and release posture helpers for the TBA packag… |
-| 2026-11-04 21:13:35 | [biopython-extension](https://pypi.org/project/biopython-extension/) | 1.89.dev0 | The Biopython Contributors <b… | 154.8 MB | Freely available tools for computational molecular biology. |
-| 2026-11-04 21:14:15 | [unisend](https://pypi.org/project/unisend/) | 1.0.0 |  | 37.6 kB | Share files over Wi-Fi: other devices just open a link or scan a QR code. Live… |
-| 2026-11-04 21:14:54 | [fw-pulley](https://pypi.org/project/fw-pulley/) | 1.0.0 |  | 116.0 kB | Pulley, the Flywheel package manager: Distrobase packages through Hydrogen. |
-| 2026-11-04 21:15:28 | [tba-runtime-identity-authoring](https://pypi.org/project/tba-runtime-identity-authoring/) | 0.4.0.dev2 |  | 16.0 kB | Release artifact authoring, signing, attestation, and verification helpers for… |
-| 2026-11-04 21:16:46 | [lte-launch-test](https://pypi.org/project/lte-launch-test/) | 0.1.0 | Spencer Diehl | 28.0 kB | ROS 2 launch tests on pytest, a launch_testing replacement on libtmux_easy |
-| 2026-11-04 21:16:53 | [taskwarden](https://pypi.org/project/taskwarden/) | 0.1.0 | DAHO | 83.1 kB | A durable, owner-approved AI team for a business: agents as folders, tools by r… |
-| 2026-11-04 21:17:41 | [anduril](https://pypi.org/project/anduril/) | 0.1.0 |  | 2.5 kB | Anduril |
-| 2026-11-04 21:17:43 | [konomanoasa-tree-sitter-awk](https://pypi.org/project/konomanoasa-tree-sitter-awk/) | 0.14.1 |  | 243.3 kB | Tree-sitter grammar for GNU Awk. |
-| 2026-11-04 21:17:49 | [tba-cli-identity](https://pypi.org/project/tba-cli-identity/) | 0.4.0.dev2 |  | 289.3 kB | Dedicated command-line package for TBA identity operator workflows, governance… |
-| 2026-11-04 21:20:07 | [blitzy-notification-utils](https://pypi.org/project/blitzy-notification-utils/) | 0.0.0 | Blitzy | 1.3 kB | Reserved name for an internal Blitzy package. Contains no code. |
-| 2026-11-04 21:20:17 | [tba-runtime-authorization-policy](https://pypi.org/project/tba-runtime-authorization-policy/) | 0.4.0.dev2 |  | 17.1 kB | Authorization policy, authority, grants, permissions, decisions, and governance… |
+| 2026-11-04 20:05:13 | [drex-policy](https://pypi.org/project/drex-policy/) | 0.1.0 | "Nace.AI" <alish@nace.ai> | 15.2 kB | Guardrails validator that checks text, or text with images, against a Drex noul… |
+| 2026-11-04 21:21:08 | [blitzy-vault-utils](https://pypi.org/project/blitzy-vault-utils/) | 0.0.0 | Blitzy | 1.2 kB | Reserved name for an internal Blitzy package. Contains no code. |
+| 2026-11-04 21:21:44 | [monic-client](https://pypi.org/project/monic-client/) | 0.0.0 |  | 1.7 kB | Python client for monic: one log for the database and the bus. |
+| 2026-11-04 21:22:31 | [Terminal-Assistant-Interface](https://pypi.org/project/Terminal-Assistant-Interface/) | 1.0.7 | Ericwasepic127 <ericwasepic12… | 167.0 kB | Your personal AI assistant to help terminal |
+| 2026-11-04 21:23:02 | [apiverve-exchangerate](https://pypi.org/project/apiverve-exchangerate/) | 1.2.4 | APIVerve <hello@apiverve.com> | 23.2 kB | Exchange Rate looks up the conversion rate between two currency codes across 17… |
+| 2026-11-04 21:23:07 | [apiverve-facedetector](https://pypi.org/project/apiverve-facedetector/) | 1.2.4 | APIVerve <hello@apiverve.com> | 22.2 kB | Face Detector is a face detection API that analyzes an image and reports whethe… |
+| 2026-11-04 21:23:11 | [apiverve-dtclookup](https://pypi.org/project/apiverve-dtclookup/) | 1.2.4 | APIVerve <hello@apiverve.com> | 22.7 kB | DTC Lookup explains OBD-II diagnostic trouble codes such as P0301 or U0100. It… |
+| 2026-11-04 21:23:43 | [apiverve-fibonaccigenerator](https://pypi.org/project/apiverve-fibonaccigenerator/) | 1.2.4 | APIVerve <hello@apiverve.com> | 21.1 kB | Fibonacci Generator computes Fibonacci numbers and sequences based on a target… |
+| 2026-11-04 21:25:47 | [artistry](https://pypi.org/project/artistry/) | 0.1.0 |  | 2.6 kB | Artistry |
+| 2026-11-04 21:27:09 | [konomanoasa-tree-sitter-zsh](https://pypi.org/project/konomanoasa-tree-sitter-zsh/) | 0.8.0 |  | 2.4 MB | Tree-sitter grammars for zsh. |
+| 2026-11-04 21:29:39 | [azurefunctions-agents-extensions-copilot-sdk](https://pypi.org/project/azurefunctions-agents-extensions-copilot-sdk/) | 1.0.0b1 | "Azure Functions team at Micr… | 34.1 kB | GitHub Copilot SDK integration for Azure Functions. |
+| 2026-11-04 21:30:44 | [molorient](https://pypi.org/project/molorient/) | 0.1.0b1 |  | 60.5 kB | Aligns molecules with a standardized axis system. |
+| 2026-11-04 21:31:13 | [my-mend](https://pypi.org/project/my-mend/) | 0.12.0 | Robb Doering | 1.5 MB | myMend repairs OCR'd books: a PostgreSQL-backed document pipeline, with rinse (… |
+| 2026-11-04 21:35:38 | [jupyter-cell-source](https://pypi.org/project/jupyter-cell-source/) | 0.1.0 | pikakolendo02 | 65.2 kB | Expose the live source of a notebook cell (including unsaved edits) as a Jupyte… |
+| 2026-11-04 21:37:07 | [ecflow-mcp](https://pypi.org/project/ecflow-mcp/) | 0.2.0 |  | 911.1 kB | MCP server wrapping the ecflow Python API for workflow management |
+| 2026-11-04 21:41:26 | [satispay-tc](https://pypi.org/project/satispay-tc/) | 1.0.1 | Elliot | 62.9 kB | Convertitore di esportazioni Satispay (Excel/CSV) in formato QIF per software d… |
+| 2026-11-04 21:42:58 | [tech-desk](https://pypi.org/project/tech-desk/) | 0.1.0 | NR Tech | 44.7 kB | NR TECH \| IT Management & Support Center |
+| 2026-11-04 21:43:34 | [comnum](https://pypi.org/project/comnum/) | 0.2.0 | Vincent Choqueuse <vincent.ch… | 26.8 MB | Link-level simulation of digital communication systems, wireless and optical, i… |
+| 2026-11-04 21:44:28 | [yannp-releaser-attestations-test](https://pypi.org/project/yannp-releaser-attestations-test/) | 0.0.1 |  | 3.1 kB | Throwaway package for testing PyPI attestations with Jupyter Releaser. Do not u… |
+| 2026-11-04 21:50:46 | [meteora-rag](https://pypi.org/project/meteora-rag/) | 0.1.0 | Yash Saxena, Ankur Padia, Man… | 113.9 kB | Rank-free, rationale-driven evidence selection for retrieval-augmented generati… |
+| 2026-11-04 21:51:10 | [agent-control-spec-remote-policy](https://pypi.org/project/agent-control-spec-remote-policy/) | 0.4.0b2 | Microsoft | 88.8 kB | Optional remote policy polling and credential interfaces for Agent Control Spec… |
+| 2026-11-04 21:51:56 | [decode-easyae-dta](https://pypi.org/project/decode-easyae-dta/) | 0.1.0 | Stephen Pierson | 31.3 kB | Decode AEwin64 / EasyAE DTA hit and time-driven data and export CSV |
+| 2026-11-04 21:54:12 | [amlbot](https://pypi.org/project/amlbot/) | 0.1.0 | Enzo Caceres <enzo.caceres@cr… | 96.5 kB | Strictly typed sync/async client and webhook verifier for the AMLBot web API. |
+| 2026-11-04 21:55:53 | [openswarm-master](https://pypi.org/project/openswarm-master/) | 0.1.0 | Mohammed Raihan Soniwala <rai… | 18.7 kB | Central Linux Master SDK & Runtime for the OpenSwarm Distributed Robotics Frame… |
+| 2026-11-04 21:57:56 | [dqr-tsf](https://pypi.org/project/dqr-tsf/) | 0.0.0 |  | 1.9 kB | Name reserved by DQR. The package is distributed internally, not on PyPI. |
+| 2026-11-04 22:00:29 | [flowrensic](https://pypi.org/project/flowrensic/) | 0.6.43 |  | 130.0 kB | Connects a Temporal Python worker to Flowrensic. |
+| 2026-11-04 22:00:58 | [basebandflow](https://pypi.org/project/basebandflow/) | 0.1.1 | Chloé Legué <chloe.legue@mail… | 61.6 kB | Some scripts and utilities to submit jobs to workflow for the baseband-analysis… |
+| 2026-11-04 22:01:16 | [urim](https://pypi.org/project/urim/) | 0.0.1a1 | David Thomason | 100.0 kB | Client library for decision models: define a decision once in code, call it thr… |
+| 2026-11-04 22:05:39 | [nitaanth-sentinelai](https://pypi.org/project/nitaanth-sentinelai/) | 0.1.0 |  | 732.5 kB | SentinelAI CLI - AI-Powered Vulnerability Detection for DevSecOps |
+| 2026-11-04 22:06:33 | [panda-federation-tools](https://pypi.org/project/panda-federation-tools/) | 1.2.0 | Panda Federation (pandadad021… | 85.2 kB | MCP server for the Panda Federation research and public-data tools on Apify (ci… |
+| 2026-11-04 22:07:49 | [llm-minder](https://pypi.org/project/llm-minder/) | 1.0.0rc1 | Geoff Davis <geoff@keksi.ai> | 1.6 MB | Provider-neutral asyncio toolkit for concurrent LLM calls with retries, scoped… |
+| 2026-11-04 22:09:46 | [qasp](https://pypi.org/project/qasp/) | 0.1.0 | André Sequeira <andre.m.seque… | 638.1 kB | Quantum Agent Software Package for quantum circuits, optimization, classifiers,… |
+| 2026-11-04 22:10:14 | [qtpy-ai-sidecar](https://pypi.org/project/qtpy-ai-sidecar/) | 0.1.0 | Benoit Aigouy | 268.1 kB | An embeddable Qt assistant connecting local models to application MCP servers |
+| 2026-11-04 22:12:29 | [odingard-guardian](https://pypi.org/project/odingard-guardian/) | 0.1.0 | Odingard | 72.7 kB | Guardian SDK for Python — Human Authority Infrastructure for Autonomous AI. Det… |
+| 2026-11-04 22:14:49 | [pdfpecker](https://pypi.org/project/pdfpecker/) | 1.23.0 | Moonwalker1307 | 79.3 MB | Fast HTML and Markdown to PDF, and PDF to images and text. No browser, no depen… |
+| 2026-11-04 22:15:00 | [byway](https://pypi.org/project/byway/) | 0.6.0 | René de Hesselle <dehesselle@… | 264.9 kB | Userspace client that speaks the Cisco AnyConnect VPN protocol, with an in-proc… |
+| 2026-11-04 22:16:52 | [dfukit](https://pypi.org/project/dfukit/) | 2.0.0 |  | 5.4 MB | Firmware updates over any link: the dfukit server and client, from Python |
+| 2026-11-04 22:22:06 | [vivarium-psimulate](https://pypi.org/project/vivarium-psimulate/) | 1.0.0 | The vivarium developers <viva… | 155.3 kB | Run many vivarium simulations in parallel on a Slurm cluster. |
+| 2026-11-04 22:23:01 | [rowx](https://pypi.org/project/rowx/) | 0.1.0 | Matt LeMay <mplemay@users.nor… | 4.1 MB | Typesafe SQL queries for python without an ORM |
+| 2026-11-04 22:23:41 | [vivarium-dagger](https://pypi.org/project/vivarium-dagger/) | 0.1.0 | The vivarium developers <viva… | 100.9 kB | Build and run multi-step data pipelines. |
+| 2026-11-04 22:23:59 | [openc166](https://pypi.org/project/openc166/) | 0.1.15 |  | 8.9 MB | Keil A166-compatible assembler for the Infineon C166/C167 microcontrollers |
+| 2026-11-04 22:25:34 | [coalitionkit](https://pypi.org/project/coalitionkit/) | 0.1.0 | Hesham Salama | 6.5 kB | CoalitionKit: protocols, agents, private coordination and a local web room |
+| 2026-11-04 22:25:35 | [coalitionkit-acceptance](https://pypi.org/project/coalitionkit-acceptance/) | 0.1.0 | Hesham Salama | 113.2 kB | CoalitionKit acceptance harness: scripted scenarios for ripple, scale, chaos an… |
+| 2026-11-04 22:25:36 | [coalitionkit-channels](https://pypi.org/project/coalitionkit-channels/) | 0.1.0 | Hesham Salama | 21.5 kB | CoalitionKit message-door transports (WhatsApp Cloud API) |
+| 2026-11-04 22:25:38 | [coalitionkit-cli](https://pypi.org/project/coalitionkit-cli/) | 0.1.0 | Hesham Salama | 777.2 kB | Start a local CoalitionKit host and room |
+| 2026-11-04 22:31:15 | [pydantic-fhirpath](https://pypi.org/project/pydantic-fhirpath/) | 0.1.0 |  | 426.6 kB | Native typed FHIRPath queries for Pydantic FHIR resources |
+| 2026-11-04 22:33:11 | [flowgram](https://pypi.org/project/flowgram/) | 0.1.0 | Sandsy09 | 87.6 kB | Presentation-quality diagrams from a short, typed Python spec, drawn with matpl… |

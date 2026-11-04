@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T20:05:13Z,drex-policy,0.1.0,"""Nace.AI"" <alish@nace.ai>",MIT,15233,"Guardrails validator that checks text, or text with images, against a Drex noul or score question."
+2026-11-04T21:21:08Z,blitzy-vault-utils,0.0.0,Blitzy,,1214,Reserved name for an internal Blitzy package. Contains no code.
+2026-11-04T21:21:44Z,monic-client,0.0.0,,Apache-2.0,1733,Python client for monic: one log for the database and the bus.
+2026-11-04T21:22:31Z,Terminal-Assistant-Interface,1.0.7,Ericwasepic127 <ericwasepic127@outlook.com>,MIT,167015,Your personal AI assistant to help terminal
+2026-11-04T21:23:02Z,apiverve-exchangerate,1.2.4,APIVerve <hello@apiverve.com>,MIT,23204,"Exchange Rate looks up the conversion rate between two currency codes across 170+ currencies, with both currency names and the last-updated time. Paid plans add the inverse rate, the pair's 1-day to…"
+2026-11-04T21:23:07Z,apiverve-facedetector,1.2.4,APIVerve <hello@apiverve.com>,MIT,22219,Face Detector is a face detection API that analyzes an image and reports whether it contains human faces. Paid plans add the face count and bounding box coordinates with a confidence score for each d…
+2026-11-04T21:23:11Z,apiverve-dtclookup,1.2.4,APIVerve <hello@apiverve.com>,MIT,22685,"DTC Lookup explains OBD-II diagnostic trouble codes such as P0301 or U0100. It returns the code's system and standard title, which warning light it turns on, and on paid plans the full description, l…"
+2026-11-04T21:23:43Z,apiverve-fibonaccigenerator,1.2.4,APIVerve <hello@apiverve.com>,MIT,21086,"Fibonacci Generator computes Fibonacci numbers and sequences based on a target count or ceiling value. Each response provides the generated sequence starting from any position, total sum, step ratios…"
+2026-11-04T21:25:47Z,artistry,0.1.0,,,2565,Artistry
+2026-11-04T21:27:09Z,konomanoasa-tree-sitter-zsh,0.8.0,,MIT,2387320,Tree-sitter grammars for zsh.
+2026-11-04T21:29:39Z,azurefunctions-agents-extensions-copilot-sdk,1.0.0b1,"""Azure Functions team at Microsoft Corp."" <azurefunctions@microsoft.com>",MIT License,34093,GitHub Copilot SDK integration for Azure Functions.
+2026-11-04T21:30:44Z,molorient,0.1.0b1,,Apache-2.0,60496,Aligns molecules with a standardized axis system.
+2026-11-04T21:31:13Z,my-mend,0.12.0,Robb Doering,MPL-2.0,1532293,"myMend repairs OCR'd books: a PostgreSQL-backed document pipeline, with rinse (raw OCR to editions) and clean (a regex pattern library) as its deterministic tools."
+2026-11-04T21:35:38Z,jupyter-cell-source,0.1.0,pikakolendo02,MIT,65165,Expose the live source of a notebook cell (including unsaved edits) as a JupyterLab command result
+2026-11-04T21:37:07Z,ecflow-mcp,0.2.0,,Apache-2.0,911098,MCP server wrapping the ecflow Python API for workflow management
+2026-11-04T21:41:26Z,satispay-tc,1.0.1,Elliot,Unlicense,62907,Convertitore di esportazioni Satispay (Excel/CSV) in formato QIF per software di finanza personale
+2026-11-04T21:42:58Z,tech-desk,0.1.0,NR Tech,MIT,44748,NR TECH | IT Management & Support Center
+2026-11-04T21:43:34Z,comnum,0.2.0,Vincent Choqueuse <vincent.choqueuse@gmail.com>,MIT OR Apache-2.0,26757549,"Link-level simulation of digital communication systems, wireless and optical, in Rust with Python bindings"
+2026-11-04T21:44:28Z,yannp-releaser-attestations-test,0.0.1,,,3062,Throwaway package for testing PyPI attestations with Jupyter Releaser. Do not use.
+2026-11-04T21:50:46Z,meteora-rag,0.1.0,"Yash Saxena, Ankur Padia, Mandar S. Chaudhary, Kalpa Gunaratna, Srinivasan Parthasarathy, Manas Gaur",CC-BY-4.0,113874,"Rank-free, rationale-driven evidence selection for retrieval-augmented generation."
+2026-11-04T21:51:10Z,agent-control-spec-remote-policy,0.4.0b2,Microsoft,MIT,88787,Optional remote policy polling and credential interfaces for Agent Control Specification.
+2026-11-04T21:51:56Z,decode-easyae-dta,0.1.0,Stephen Pierson,MIT,31298,Decode AEwin64 / EasyAE DTA hit and time-driven data and export CSV
+2026-11-04T21:54:12Z,amlbot,0.1.0,Enzo Caceres <enzo.caceres@crunchdao.com>,,96492,Strictly typed sync/async client and webhook verifier for the AMLBot web API.
+2026-11-04T21:55:53Z,openswarm-master,0.1.0,Mohammed Raihan Soniwala <raihann.eu@gmail.com>,MIT,18714,Central Linux Master SDK & Runtime for the OpenSwarm Distributed Robotics Framework
+2026-11-04T21:57:56Z,dqr-tsf,0.0.0,,,1930,"Name reserved by DQR. The package is distributed internally, not on PyPI."
+2026-11-04T22:00:29Z,flowrensic,0.6.43,,Apache-2.0,130015,Connects a Temporal Python worker to Flowrensic.
+2026-11-04T22:00:58Z,basebandflow,0.1.1,Chloé Legué <chloe.legue@mail.mcgill.ca>,MIT,61595,Some scripts and utilities to submit jobs to workflow for the baseband-analysis pipeline
+2026-11-04T22:01:16Z,urim,0.0.1a1,David Thomason,Apache-2.0,99995,"Client library for decision models: define a decision once in code, call it through provider tiers, get typed answers."
+2026-11-04T22:05:39Z,nitaanth-sentinelai,0.1.0,,,732480,SentinelAI CLI - AI-Powered Vulnerability Detection for DevSecOps
+2026-11-04T22:06:33Z,panda-federation-tools,1.2.0,Panda Federation (pandadad0214),MIT,85156,"MCP server for the Panda Federation research and public-data tools on Apify (citations, literature, grants, contracts, leads, audits)."
+2026-11-04T22:07:49Z,llm-minder,1.0.0rc1,Geoff Davis <geoff@keksi.ai>,MIT,1627318,"Provider-neutral asyncio toolkit for concurrent LLM calls with retries, scoped RPM/TPM admission, bounded streaming, resumable checkpoints, and deadlines."
+2026-11-04T22:09:46Z,qasp,0.1.0,André Sequeira <andre.m.sequeira@inesctec.pt>,MIT,638068,"Quantum Agent Software Package for quantum circuits, optimization, classifiers, kernels, RL policies, and simulation workflows."
+2026-11-04T22:10:14Z,qtpy-ai-sidecar,0.1.0,Benoit Aigouy,BSD-2-Clause,268072,An embeddable Qt assistant connecting local models to application MCP servers
+2026-11-04T22:12:29Z,odingard-guardian,0.1.0,Odingard,Apache-2.0,72663,"Guardian SDK for Python — Human Authority Infrastructure for Autonomous AI. Deterministic ALLOW/ASK/DENY before your agent's actions run, human approval for ASK, and offline-verifiable receipts."
+2026-11-04T22:14:49Z,pdfpecker,1.23.0,Moonwalker1307,,79275022,"Fast HTML and Markdown to PDF, and PDF to images and text. No browser, no dependencies."
+2026-11-04T22:15:00Z,byway,0.6.0,René de Hesselle <dehesselle@web.de>,0BSD,264907,"Userspace client that speaks the Cisco AnyConnect VPN protocol, with an in-process TCP/IP stack"
+2026-11-04T22:16:52Z,dfukit,2.0.0,,Apache-2.0,5387443,"Firmware updates over any link: the dfukit server and client, from Python"
+2026-11-04T22:22:06Z,vivarium-psimulate,1.0.0,The vivarium developers <vivarium.dev@gmail.com>,BSD-3-Clause,155307,Run many vivarium simulations in parallel on a Slurm cluster.
+2026-11-04T22:23:01Z,rowx,0.1.0,Matt LeMay <mplemay@users.noreply.github.com>,,4108297,Typesafe SQL queries for python without an ORM
+2026-11-04T22:23:41Z,vivarium-dagger,0.1.0,The vivarium developers <vivarium.dev@gmail.com>,BSD-3-Clause,100936,Build and run multi-step data pipelines.
+2026-11-04T22:23:59Z,openc166,0.1.15,,MIT,8936855,Keil A166-compatible assembler for the Infineon C166/C167 microcontrollers
+2026-11-04T22:25:34Z,coalitionkit,0.1.0,Hesham Salama,Apache-2.0,6534,"CoalitionKit: protocols, agents, private coordination and a local web room"
+2026-11-04T22:25:35Z,coalitionkit-acceptance,0.1.0,Hesham Salama,Apache-2.0,113183,"CoalitionKit acceptance harness: scripted scenarios for ripple, scale, chaos and cost"
+2026-11-04T22:25:36Z,coalitionkit-channels,0.1.0,Hesham Salama,Apache-2.0,21496,CoalitionKit message-door transports (WhatsApp Cloud API)
+2026-11-04T22:25:38Z,coalitionkit-cli,0.1.0,Hesham Salama,Apache-2.0,777226,Start a local CoalitionKit host and room
+2026-11-04T22:31:15Z,pydantic-fhirpath,0.1.0,,MIT,426550,Native typed FHIRPath queries for Pydantic FHIR resources
+2026-11-04T22:33:11Z,flowgram,0.1.0,Sandsy09,MIT,87597,"Presentation-quality diagrams from a short, typed Python spec, drawn with matplotlib"
