@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T02:20:06Z,bifrost-photonics,0.1.0,Helaman Flores,,1022809,The rainbow bridge between your GDSFactory(X) pipeline and FDTD(X) simulation
+2026-11-04T02:26:31Z,sha1dc,0.1.0,Jelmer Vernooĳ <jelmer@jelmer.uk>,Apache-2.0,305551,"SHA-1 with collision detection, backed by the Rust sha1dc crate"
+2026-11-04T02:28:47Z,nlalpha-family-cta,0.4.0,,AGPL-3.0-or-later,52009,CTA strategy family plugin for NLAlpha
+2026-11-04T02:28:54Z,settled,0.0.1,Mike Bailey,,2383,"Settled: a secure, live, local web desk for any settings file a JSON Schema describes; Session Kit is its first user. Name reserved; the tool follows."
+2026-11-04T02:30:25Z,classics-index,0.1.0,socratic-tutor contributors,MIT,30357,"Chapter indexes (卷 / 篇 / 回) for scanned Chinese books, built from OCR of the running header"
+2026-11-04T02:30:41Z,socratic-mcp,0.1.0,socratic-tutor contributors,MIT,13484,"MCP server exposing a Socratic sidecar (kb_search, chapters, review) to any agent host"
+2026-11-04T02:36:06Z,autorsi,0.1.0a1,,MIT,63732,"Bounded, evaluation-gated model weight editing for Python applications"
+2026-11-04T02:38:56Z,python-mcp-bootstrap,0.1.3,Ron <4zhmv6zvj2-afk@users.noreply.github.com>,MIT,52444,Pre-install Python runtime bootstrap for MCP applications.
+2026-11-04T02:39:43Z,nlalpha-tushare,0.3.2,,AGPL-3.0-or-later,81201,Tushare data provider plugin for NLAlpha
+2026-11-04T02:41:04Z,thinkeryzu-agent-proxy,0.3.1,Kui-Feng Lee,MIT,224791,Turn-aware JSON stream around an interactive claude TUI or codex app-server.
+2026-11-04T02:41:31Z,pixelmagic-mcp,0.4.0,PixelMagic,MIT,16949,"MCP server for the PixelMagic image toolkit — generate, edit, upscale, remove background/object, layers, localize, enhance and vectorize, for agents like Claude and Cursor."
+2026-11-04T02:43:55Z,nlalpha-nautilus,0.9.1,,AGPL-3.0-or-later,120907,Nautilus Trader engine adapter for NLAlpha
+2026-11-04T02:45:55Z,mybreakpoints,0.1.3,Ivan Ortega <christian-ortega@live.com>,,6630,Hey is better than print()
+2026-11-04T02:48:11Z,predictive-semantic-cache-invalidation,0.1.0,"Kodukulla Mohnish Mythreya <kmohnishm@gmail.com>, Aditya Bhandari <aditya07.11.04.12@gmail.com>, Ta…",Apache-2.0,607063,Predictive semantic cache invalidation for RAG and code search across Git revisions
+2026-11-04T02:48:36Z,pyjoltphysics,0.1.0a3,"""Mike C. Fletcher"" <mcfletch@vrplumber.com>",MIT AND BSD-3-Clause,50792713,"Jolt Physics for Python, stepped on a native thread"
+2026-11-04T02:52:12Z,quarter-ledger,0.1.4,Quarter <hello@quarterfi.com>,"# Functional Source License, Version 1.1, ALv2 Future License ## Abbreviation FSL-1.1-ALv2 ## Notic…",720750,"Spending caps, approvals and a tamper-evident ledger for what AI agents spend"
+2026-11-04T02:55:53Z,inferhive,0.3.0,"David Petrocelli, Agustín Hernando",MIT,74719,"SDK and CLI for InferHive: GPU rentals and reservations, batch jobs with a GPU queue, cloud files and an OpenAI-compatible LLM gateway, paid in processing coins"
+2026-11-04T03:00:44Z,shopee-test-zjj1,0.0.0,sc,BSD License,2445,A small example package
+2026-11-04T03:01:11Z,ftcsim,0.1.0.post2,,GPL-3.0-only AND LicenseRef-FTC-SDK,126425858,Desktop FTC SDK simulator and project setup wizard
+2026-11-04T03:01:18Z,shopee-test-zjj2,0.0.0,sc,BSD License,2423,A small example package
+2026-11-04T03:03:43Z,jdawgs-mcp,0.1.1,"""J-Dawgs (JDawgindustries)"" <joshuajdawg0350@gmail.com>",Proprietary — © 2026 Joshua Dawson,61947,Read-only MCP server for the J-Dawgs AI Tool Store catalog and Human Hands for AIs discovery.
+2026-11-04T03:05:14Z,evalx-gate,0.2.0,SujahathMSM,MIT,122320,"Regression gate for LLM apps: golden datasets, code + LLM-judge scoring, per-case baseline gating in CI, local run history."
+2026-11-04T03:05:41Z,ovos-virtual-mark1,0.1.0,Mike Gray <mike@oscillatelabs.net>,Apache-2.0,81055,Virtual Mycroft Mark 1 faceplate for OVOS: a software Arduino plus a browser GUI
+2026-11-04T03:07:54Z,pydantic-opamp-core,0.1.1,,MIT AND LicenseRef-Pydantic-OpAMP-Core-Binary,7661822,"The shared OpAMP client core for pydantic-opamp-client, compiled"
+2026-11-04T03:08:12Z,pytedi,0.3.0,"Robert Morden, Ella Guthrie, Joel Rahman",MIT,98563,Python Tool for Estimating Dam Impacts (TEDI)
+2026-11-04T03:09:34Z,inferhive-mcp,0.1.0,"David Petrocelli <dmpetrocelli@gmail.com>, Agustín Hernando <agusher1304@gmail.com>",MIT,60228,"MCP server for InferHive: let an AI assistant check your balance, rent and reserve GPUs and call the LLM gateway, paid in processing coins"
+2026-11-04T03:09:59Z,homingpigeondev,0.1.0,,MIT,14060,"Homing Pigeon (homingpigeon.dev) sends text-message alerts from your code or your coding agent to one phone: yours. No carrier registration, no app, no browser signup. Free to start."
+2026-11-04T03:11:00Z,uv-mirror,0.1.0,Waket Zheng <waketzheng@gmail.com>,MIT,8612,Make it easy to setup uv mirror
+2026-11-04T03:11:54Z,pydantic-opamp-client,0.1.1,,MIT,93729,"An OpAMP client for Python (asyncio), on the shared OpAMP core (Rust, natively)"
+2026-11-04T03:12:31Z,contextos-client,0.1.0a13,,Apache-2.0,10717543,"ContextOS kernel: governed context, authorization and durable effects for AI agents"
+2026-11-04T03:13:18Z,spartan-graphql,1.0.4,Thibault Derousseaux,MIT,84222,"Compile GraphQL documents into a typed Python package with no imposed transport, no runtime dependencies, and no redundant validation"
+2026-11-04T03:17:33Z,r2d2box,0.3.0,Kui-Feng Lee,MIT,247028,An embeddable chat box for AI agents: a mountable agent host and the front-end panel that drives it.
