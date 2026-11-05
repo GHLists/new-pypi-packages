@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T14:19:30Z,londonaicentre-docsynth,1.1.0,"""Dr. Joe Zhang"" <jzhang@nhs.net>",CC-BY-NC-ND-4.0,7608155,SchemaLlama docsynth
+2026-11-05T14:21:25Z,consultas-pokemon-grupos,1.0.0,Tu nombre,MIT,9485,Consultas de altura y peso medios de grupos Pokémon desde CSV
+2026-11-05T14:21:27Z,engg-math,0.0.1,Engineering Mathematics,Apache-2.0,5153,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-05T14:21:30Z,engg-math-biomedical,0.0.1,Engineering Mathematics,Apache-2.0,5256,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-05T14:21:32Z,engg-math-cfd,0.0.1,Engineering Mathematics,Apache-2.0,5192,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-05T14:21:34Z,engg-math-cli,0.0.1,Engineering Mathematics,Apache-2.0,5190,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-05T14:24:15Z,rpstats,1.0.3,,MIT,50981,Clinical Data Programming and Statistical Analysis Practical Code Library.
+2026-11-05T14:24:19Z,ntc-cli,2.4.8,NuengCoder,MIT,66663891,"Navigate, Toolkit, Center - A Combine of Navigation, Project Toolkit Center hub"
+2026-11-05T14:25:48Z,mim-ai,0.1.0,Salman KHATIB,MIT,193527,"A configuration-first Python SDK for building production-grade Moroccan Darija AI applications — normalizer, anonymizer, chatbot, voice pipeline, and Law 09-08 audit trail."
+2026-11-05T14:26:01Z,hermes-benchmark,0.0.6,Doruk Demirci <ddemirci3606@gmail.com>,MIT,313864,Wikipedia based benchmark creation package for low-resource languages.
+2026-11-05T14:27:16Z,grepvine,0.1.0,Grepvine,Apache-2.0,186395,Python SDK for the Grepvine search API
+2026-11-05T14:29:34Z,qbo-multicompany-mcp,0.1.1,Dima Kaleganov,MIT,968150,Unofficial read-only MCP server serving several QuickBooks Online company files to one AI session.
+2026-11-05T14:36:41Z,pokemon-grupos-estadisticas,1.0.0,Alejandro Manzo,MIT,9592,Consultas de altura y peso medios de grupos Pokémon desde CSV
+2026-11-05T14:38:38Z,django-sketch-ui,0.1.3,Hector Leal <hectorhleal2005@gmail.com>,MIT,53078,Un tema moderno y personalizable para interfaces de Django
+2026-11-05T14:39:50Z,adb-dbg,0.1.0,Tirrou Oussama,MIT,9472,A lightweight Android process debugger with automatic PID reconnection.
+2026-11-05T14:40:12Z,flywhl-harness,0.2.0,flywhl,MIT,972712,"A hand-written Agent Harness in Python: agent loop, tools, context compaction, crash recovery, permissions, a default-on OS sandbox, replay and a web console."
+2026-11-05T14:40:24Z,hydroloom,0.1.0,David Blodgett <dblodgett@usgs.gov>,CC0-1.0,3541722,Utilities to weave hydrologic fabrics.
+2026-11-05T14:42:14Z,kohakutui,0.1.0,"""Shih-Ying Yeh(KohakuBlueLeaf)"" <apolloyeh0123@gmail.com>",Apache-2.0,5172053,"Terminal UIs for Python rendered by Rust: inline and full-screen dashboards, monitors, interactive CLIs and chat front ends"
+2026-11-05T14:43:05Z,actuarial-science-ai999x,1.1.0,"AI999X Labs <support@ai999x.com>, Ibnul Jaif Farabi <ibnuljaiffarabi@ai999x.com>",Apache-2.0,28289127,"Offline actuarial science and insurance solver: life tables and survival models, life insurances and annuities, net and gross premiums, reserves and Thiele's equation, interest theory, loss models wi…"
+2026-11-05T14:43:33Z,adafruit-circuitpython-ili9881,1.0.0,Adafruit Industries <circuitpython@adafruit.com>,GPL-2.0-only,51762,CircuitPython driver for the ILI9881 MIPI DSI display panels
+2026-11-05T14:44:43Z,economics-finance-ai999x,1.1.0,"AI999X Labs <support@ai999x.com>, Ibnul Jaif Farabi <ibnuljaiffarabi@ai999x.com>",Apache-2.0,65228290,"Offline economics and finance solver: time value of money, loans and annuities, bonds, stocks and options, portfolio theory, risk measures, actuarial mathematics, microeconomics, macroeconomics and e…"
+2026-11-05T14:46:05Z,rails49-detector,0.0.2,,AGPL-3.0-only,83745,"The rails49 occupancy detector's runtime in Python: frame to L0, with no Torch"
+2026-11-05T14:46:39Z,bfplot,1.0.0,BFPlot contributors,MIT,79564,"Interactive, reproducible scientific plots, with a Python implementation for Matplotlib"
+2026-11-05T14:47:33Z,eemkit,0.1.0,Riccardo Gaetano Cirrone,GPL-3.0-or-later,1495461,Excitation-emission matrix (EEM) processing and PARAFAC modelling of dissolved organic matter fluorescence
+2026-11-05T14:48:56Z,cascabel-ner,0.8.0,Elena Álvarez Mellado <ealvarezmellado@gmail.com>,MIT,131926,Span profiling and fine-grained error analysis for NER and span-labeling datasets and models
+2026-11-05T14:49:09Z,bikem-reviewer,0.1.1,,,11528,AI code reviewer that records every decision with bikem
+2026-11-05T14:49:38Z,brother-monitor,0.2.0,GabryXn,MIT,49143,System tray monitor for Brother printers over USB (ipp-usb) and any printer via SNMP
+2026-11-05T14:49:38Z,harte-rs,0.17.0,hill <hill@hilll.dev>,AGPL-3.0-only,14943,Harte chord notation read into music21-rs chords; a replacement for harte-library
+2026-11-05T14:50:05Z,pencil-puzzles,0.0.1,,MIT,1882,"Generators, solvers and difficulty ratings for pencil puzzles. Placeholder; first release coming."
+2026-11-05T14:50:26Z,thunder-solution-sdk,1.0.0,"Thunder Solution Co., Ltd.",MIT,77730,"Verify Thai bank and TrueMoney slips; check the receiver, amount and duplicates before accepting payment."
+2026-11-05T14:51:36Z,rpay-sdk,1.0.0,RPAY Team <support@rpay.vn>,MIT,41812,"Official RPAY Payment & Banking SDK for Python — VietQR, 15 Vietnamese Bank Gateways (POS/V1/V2/V3), Bank Invoices, 18-Network USDT/USDC Crypto Gateway, Multi-Domain & HMAC-SHA256 Webhooks."
+2026-11-05T14:57:56Z,dscc,0.1.0,Dr Merwan Roudane <merwanroudane920@gmail.com>,MIT,114615,"Dynamic Spectral Conditional Correlations (DSCC) and dynamic spectral heteroskedasticity (DSH) models: estimation, forecasting, elliptope coverage and minimum-variance portfolios"
+2026-11-05T14:59:06Z,galias,0.47.0,Francesco Rolando,GPL-3.0-only,224843,Emulate personalized git aliases via an uvx-compatible interface.
+2026-11-05T15:00:39Z,phasmid-profile-gen,0.1.0,,BSD-3-Clause,266396,Generate Phasmid browser profiles from BrowserForge marginals and captured real devices
+2026-11-05T15:02:14Z,hello-sc92,0.1.0,sc92,MIT,6148,A tiny sample package to learn publishing on PyPI
+2026-11-05T15:04:38Z,okagent,0.0.1,marsdev0,MIT,4084,It doesn't try to be great. It tries to be OK — and OK is all you need.
+2026-11-05T15:05:07Z,nuox,0.1.0,Hrittik Roy <hroy@dtu.dk>,"MIT License Copyright (c) 2025 Hrittik Roy Permission is hereby granted, free of charge, to any per…",28116,Null-space constrained optimization transforms for Optax.
+2026-11-05T15:06:54Z,swaphunt-mcp,0.4.0,SwapHunt <github@swaphunt.dev>,MIT,27831,"MCP server with 30 SwapHunt crypto market tools for AI agents (Hyperliquid prices, regime, volatility, funding, coin strength, anti-FOMO sanity checks; Fear & Greed), paid per call in USDC via x402"
+2026-11-05T15:09:22Z,snakemake-report-plugin-rocrate,0.1.0,"Felix Bartusch <felix.bartusch@uni-tuebingen.de>, Mahdi Jafarkhani <mahdi.jafarkhani@tik.uni-stuttg…",MIT,196076,Snakemake report plugin that creates Provenance Run RO-Crates of workflow runs
+2026-11-05T15:09:34Z,fiscoai-mcp,1.0.0,FiscoAI Team <supporto@fiscoai.it>,Proprietary / Commercial,23347,Official Model Context Protocol (MCP) server for FiscoAI — Italian Tax & Legal AI platform
+2026-11-05T15:10:19Z,odoo-addon-connector-mercadolibre-product,19.0.1.0.0.2,Odoo Community Association (OCA),AGPL-3,69099,"Listings, prices, and seller stock for Mercado Libre"
+2026-11-05T15:11:42Z,dwhcore,0.0.1,,MIT,12676,"Definitely Won't Help Core. A library that does nothing, on purpose."
+2026-11-05T15:14:41Z,detente,0.1.0,,MIT,72399,"Traffic control for coding agents. Catches the moment one agent's change breaks code another agent is writing, before anyone pushes."
