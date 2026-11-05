@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T16:23:51Z,overture-sources,0.1.0,Overture Maps Foundation,MIT,156270,"Deprecated, use overture-dataset-configs. Overture source registry JSON files."
+2026-11-05T16:23:58Z,overture-dataset-configs,1.0.0,Overture Maps Foundation,MIT,235394,"Dataset configs and license policy for Overture providers, with loaders, validation and attribution rendering."
+2026-11-05T16:24:01Z,duckdb-core-ext-httpfs,0.0.0,DuckDB,,1089,Reserved name for the DuckDB httpfs extension packaged for pip
+2026-11-05T16:24:19Z,mcp-policy-lint,0.2.0,ravenkernel <30620187+ravenkernel@users.noreply.github.com>,Apache-2.0,58193,"Read your MCP config before you run the server: zero-dependency policy lint, diff and CI gate."
+2026-11-05T16:24:39Z,JustInline,0.1.0,Ricardo Buring <buring@lix.polytechnique.fr>,GPL-3.0-or-later,17594668,"Python interface for JIL, the library for fast computations with straight-line programs"
+2026-11-05T16:24:49Z,duckdb-core-ext-autocomplete,0.0.0,DuckDB,,1140,Reserved name for the DuckDB autocomplete extension packaged for pip
+2026-11-05T16:24:51Z,duckdb-core-ext-avro,0.0.0,DuckDB,,1077,Reserved name for the DuckDB avro extension packaged for pip
+2026-11-05T16:24:52Z,duckdb-core-ext-aws,0.0.0,DuckDB,,1068,Reserved name for the DuckDB aws extension packaged for pip
+2026-11-05T16:29:51Z,dxmt-haystack,1.6.0,DXMT Team <contact@dxmt.online>,Apache-2.0,34000,"DXMT as a Haystack document store, with embedding, BM25 and hybrid retrievers"
+2026-11-05T16:31:43Z,Pyjo-GCP,0.1.0,Piotr Roszatycki <piotr.roszatycki@gmail.com>,Artistic-2.0,157238,"Google Cloud for Pyjoyment: Application Default Credentials and clients of the APIs, without an SDK."
+2026-11-05T16:35:06Z,vexa-language,0.7.0,Dharunkumar Senthilkumar,MIT AND AGPL-3.0-only AND Apache-2.0,95688774,A small interpreted language for computer vision on CPU
+2026-11-05T16:35:50Z,langchain-dxmt,1.6.0,DXMT Team <contact@dxmt.online>,Apache-2.0,51609,"LangChain integration for DXMT, the open-source memory database for personal agents"
+2026-11-05T16:38:35Z,biocognia-markers,0.1.0,Ajit Johnson Nirmal <ajitjohnson.n@gmail.com>,LicenseRef-Proprietary,510548,"The marker graph SCIMAP Pro, Plexora and other BioCognia products share: markers, cell families and the relations between them, each backed by evidence a machine checks"
+2026-11-05T16:41:03Z,gipper,0.4.0,Marc Lavallee,MIT,192232,"Run GPU jobs across cloud markets with cost estimates, verified teardown, and an append-only ledger"
+2026-11-05T16:44:31Z,fritz-logextractor,0.3.0,Patrick Dreker <patrick@dreker.de>,Apache-2.0,153347,Extract the event log of AVM Fritz! devices and forward it as structured log lines
+2026-11-05T16:44:42Z,manoj-lab-programs,0.1.1,,,7323,My reusable Python lab programs
+2026-11-05T16:45:16Z,mozio-errors,0.0.0,"""Mozio Inc."" <cto@mozio.com>",,2065,Reserved by Mozio Inc. to prevent dependency confusion. Contains no code.
+2026-11-05T16:45:19Z,mozio-notifications-client,0.0.0,"""Mozio Inc."" <cto@mozio.com>",,2216,Reserved by Mozio Inc. to prevent dependency confusion. Contains no code.
+2026-11-05T16:45:22Z,mozio-restrictions-client,0.0.0,"""Mozio Inc."" <cto@mozio.com>",,2207,Reserved by Mozio Inc. to prevent dependency confusion. Contains no code.
+2026-11-05T16:45:24Z,packages-search-client,0.0.0,"""Mozio Inc."" <cto@mozio.com>",,2171,Reserved by Mozio Inc. to prevent dependency confusion. Contains no code.
+2026-11-05T16:47:02Z,git2planner,1.0.0,FrancescoDF,MIT,158892,"Sync Git issues (GitHub, Gitea, Forgejo) to Microsoft Planner tasks with category mapping, assignee resolution and attachment handling."
+2026-11-05T16:48:12Z,xtl-core,0.0.0,"""Dimitris P. Triandafillidis"" <64985525+dtriand@users.noreply.github.com>",GPL-3.0-or-later,27895,Core functionality for XTL
+2026-11-05T16:52:10Z,exploitwatch-mcp,0.1.0,Charles Bryant,MIT,173283,"MCP server for CVE triage: NVD details, CISA KEV exploitation status, EPSS scores, trusted news, and a rule-based patch urgency."
+2026-11-05T16:53:50Z,pwvault-manager,1.3.0,,MIT,113302,"A small, local password manager with a KeePass (.kdbx) vault, a CLI and a Tk GUI"
+2026-11-05T16:55:43Z,spermit-sdk,0.1.0,Intecion Group <karol.gajda@intecion.com>,Proprietary,37961,Dependency-free Python client for the Spermit platform API
+2026-11-05T16:56:04Z,grafana-alloy,1.21.3,Isaac Riley <yelircaasi@proton.me>,,3292,Python wrapper for Grafana Alloy
+2026-11-05T16:57:43Z,passageway,0.3.0,,PolyForm-Noncommercial-1.0.0,475956,"Retrieval for Claude over MCP: connectors feed passages, an eval harness keeps them honest"
+2026-11-05T17:02:18Z,nxtl-esim,0.1.0,NXTL eSIM <support@nxtlsim.com>,MIT,143016,"Python SDK for the NXTL eSIM B2B API. Issue, resell and manage pay-as-you-go travel eSIMs."
+2026-11-05T17:03:27Z,tree-again,0.1.0,"Zakk Heile, Hayden McTavish, Varun Babbar, Margo Seltzer, Cynthia Rudin",MIT,7581441,Interpretable decision tree chains with black box deferral
+2026-11-05T17:03:33Z,ecg-plotter,0.1.0,"""Jarod P. Hartley"" <jarodph.contact@gmail.com>",MIT,852432,Research/visualisation ECG sheets at settable size and DPI (not for diagnostic use).
+2026-11-05T17:04:22Z,flashdata-haystack,0.2.0,FlashData,MIT,168752,Google and YouTube data components for Haystack pipelines and agents
+2026-11-05T17:05:11Z,ncaapyscraper,0.1.0,Muhammad Ghulam Fakhar ud din,MIT,109454,"Rosters, coaches and schedules from almost 1,000 NCAA college athletics websites"
+2026-11-05T17:05:29Z,arc56-generated-joe-p-f941bf58,1.2.2026072010,joe-p,,260695,Generated ARC-56 Algorand smart-contract clients for joe-p/tealscript_migration.
+2026-11-05T17:09:06Z,cachescope,0.1.0a1,Dulkar Saman V N,MIT,41702,"Find which Python functions repeat slow work, and how big a cache they need."
+2026-11-05T17:11:31Z,adamstat,1.0.1,VSRAJHAVEL <218490778+VSRAJHAVEL@users.noreply.github.com>,MIT,3663478,"CDISC ADaM, SDTM, Biostatistics, and Clinical Study Reporting (CSR) Toolkit"
+2026-11-05T17:11:34Z,onlinecompiler,0.1.0,RunCode Inc.,MIT,63111,Python client for the OnlineCompiler.io code execution API: run and judge code in 46 languages in a sandbox
+2026-11-05T17:11:38Z,leadintel,0.3.0,Rushikesh Suradkar,MIT,194714,"Free, open-source MCP server for AI-powered B2B lead generation and business intelligence."
+2026-11-05T17:11:50Z,metalake,0.1.0,,Apache-2.0,376922711,An open lakehouse table format whose metadata lives in Postgres
+2026-11-05T17:13:59Z,observe-instrumentation-genai-claude-agent-sdk,0.1.0,Snowflake Inc.,Apache-2.0,279540,"Claude Agent SDK instrumentation for Observe, emitting OpenTelemetry GenAI semantic conventions."
+2026-11-05T17:14:01Z,shade-plugins-hubspot,0.1.0,ShadeOne,Apache-2.0,18196,"Buscar e atualizar contatos e negócios do HubSpot CRM (upsert por e-mail, negócio por estágio) pela API v3, com o token OAuth da conexão da plataforma."
+2026-11-05T17:14:33Z,jupyter-alloy-notebooks-retro,0.1.0,Robert Pettis,BSD-3-Clause,91157,"SQL, DuckDB and R cells with result tables, charts and a connection manager for classic Jupyter Notebook 6 (legacy RISE environments)."
+2026-11-05T17:14:36Z,jupyter-cell-enhancements-retro,0.1.0,Robert Pettis,BSD-3-Clause,103761,"Cell titles, focus mode, floating notes and side-by-side cells for classic Jupyter Notebook 6 (legacy RISE environments)."
+2026-11-05T17:14:39Z,jupyter-presentation-enhancements-retro,0.2.3,Robert Pettis,BSD-3-Clause,94581,Speaker notes in cell metadata (and other RISE presentation enhancements) for classic Jupyter Notebook 6 (legacy RISE environments).
+2026-11-05T17:14:42Z,jupyter-print-slides-retro,0.2.0,Robert Pettis,BSD-3-Clause,32046,Print a notebook's RISE slideshow to PDF (one slide per page) from classic Jupyter Notebook 6 (legacy RISE environments).
+2026-11-05T17:16:15Z,pangolin-rust-backend,0.1.0,,,41666,Experimental Rust evaluator for Pangolin
+2026-11-05T17:16:22Z,web-intel-mcp,0.1.0,ArceeDev,BUSL-1.1,38030,"Metered MCP server: web pages to clean Markdown, metadata, links, SEO audits and tech stack. Billed per call with KeyFlint credits."
+2026-11-05T17:16:23Z,norma43-mcp,0.1.0,ArceeDev,BUSL-1.1,70049,MCP server for Spanish bank statements (Norma 43 / Cuaderno 43) and bank reconciliation. Billed per call with KeyFlint credits.
+2026-11-05T17:16:31Z,contabridge-mcp,0.1.0,ArceeDev,BUSL-1.1,82861,"MCP server for Spanish accounting import files: convert journals between A3 (SUENLACE.DAT), ContaPlus, Sage 50 and CSV, and turn Norma 43 bank statements into journal entries. Billed per call with Ke…"
+2026-11-05T17:18:48Z,ni.measurements.data.v2.proto,1.0.0.dev0,NI,MIT,51960,Protobuf data types and service stubs for NI data store gRPC APIs
+2026-11-05T17:19:06Z,mcp-tool-audit,0.3.0,Nex,MIT,82703,"Security scanner for MCP servers: tool poisoning, over-broad tools, secrets, unsafe exec, missing auth, rug-pull risk."

@@ -1,34 +1,34 @@
 {
   "list": {
-    "count": 57,
-    "from": "2026-11-05T15:18:46.492388Z",
-    "path": "data/new-packages-2026-11-05T16-20-21-34564Z.csv",
-    "to": "2026-11-05T16:20:21.34564Z"
+    "count": 50,
+    "from": "2026-11-05T16:20:21.34564Z",
+    "path": "data/new-packages-2026-11-05T17-20-30-485497Z.csv",
+    "to": "2026-11-05T17:20:30.485497Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T15:45:44Z",
       "package": "django-install",
       "since": "2026-11-05T15:18:46.492388Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-05T12:37:49Z",
-      "package": "fews-networkvisualisation",
-      "since": "2026-11-05T12:20:35.640743Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T15:41:22Z",
       "package": "mas-lab-library-kg",
       "since": "2026-11-05T15:18:46.492388Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-05T16:47:34Z",
+      "package": "meltanolabs-target-hubspot",
+      "since": "2026-11-05T16:20:21.34564Z",
+      "version": null
     }
   ],
-  "serial": 43250563,
+  "serial": 43253131,
   "source_truncated": false,
-  "window": "2026-11-05T16:20:21.34564Z"
+  "window": "2026-11-05T17:20:30.485497Z"
 }
