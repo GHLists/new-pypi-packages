@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T01:22:11Z,migkit,0.2.0,arkashira,AGPL-3.0-or-later,14949766,"Verify, repair, and move databases across engines - without trusting the mover."
+2026-11-05T01:23:33Z,koreader_D00901,0.3.0,Seth Barrett,MIT,58464,Install KOReader on a Kindle Keyboard (K3) from Linux.
+2026-11-05T01:26:11Z,mjcf-to-urdf,0.1.1,Jeff Hykin <jeff.hykin@gmail.com>,MIT,100702,"Convert MuJoCo MJCF to URDF, string in and string out, using the compiled model for correct inertias"
+2026-11-05T01:27:28Z,sphinx-eu-ai-label,1.0.0,Kristian Glass,MIT,202469,Sphinx extension for adding the European Commission's AI-generated content labels to documentation
+2026-11-05T01:31:31Z,asr-polish,0.10.0,angus-hu-gzy,MIT,291108,B站字幕批量抓取与本地任务队列：单视频 / UP主 / 合集 / 搜索批量导出 txt/srt/json/md，附带中文 ASR 术语订正与质量自评，零第三方依赖
+2026-11-05T01:35:28Z,localvault-cli,0.0.1,Sacco AI Consulting <info@saccoai.com>,MIT,3681,"Command line interface for LocalVault, the on-premise AI platform by Sacco AI"
+2026-11-05T01:39:30Z,nemo-agent-toolkit-bhived,0.1.0,ArtKey AI,Apache-2.0,46615,bhived shared lessons for NVIDIA NeMo Agent Toolkit: a memory backend and a function group.
+2026-11-05T01:39:41Z,whitetape,0.1.1,White Tape <hello@whitetape.io>,MIT,16955,"Permit data for AI assistants: nationwide government-issued building permits as clean rows in one schema. Search free, ten rows free, then 7 cents a row by wallet (x402). No account, no key."
+2026-11-05T01:40:29Z,evencut,1.0.0,AlemdarCode,MIT OR Apache-2.0,1060922,"Find and fix wasted GPU time in data-parallel training, and pick the machine that finishes the job for the least money"
+2026-11-05T01:40:30Z,kvguard,0.3.2,,MIT OR Apache-2.0,9345,"Local proxy & TUI that catches 1-token prompt/KV cache prefix misses and auto-heals requests for Anthropic, OpenAI, llama.cpp and Ollama."
+2026-11-05T01:41:20Z,kba-cli,0.3.0rc4,KBA,MIT,138899,KBA - read-only knowledge base auditor (local-first)
+2026-11-05T01:44:04Z,mcp-test-authz,0.1.0,,MIT,19835,Authz probe MCP server (stdio) covering L2/L3 auth modes
+2026-11-05T01:44:44Z,guardian-runtime-assurance,0.4.1,Sylvester Kaczmarek,MIT,1059193,Reference monitor and adversarial benchmark for securing privileged actions by agentic systems.
+2026-11-05T01:44:45Z,voxreg,0.0.1,,BSD-3-Clause,104239,Batched physical-space image registration using xarray-based VoxelData.
+2026-11-05T01:45:34Z,raeto,1.0.0,,MIT,7212,Connect an AI agent to Raeto with its own wallet. No key to copy.
+2026-11-05T01:49:26Z,llusen,0.1.0,,MIT,42388,Read and change the project open in llusen from Python
+2026-11-05T01:49:38Z,gyc-llm-connect,0.2.0,,MIT,101318,Configurable sync and async Python clients for LLM and media APIs
+2026-11-05T02:01:48Z,doc2struct,0.1.0,John Friedman,MIT,286573431,"Parse HTML, PDF, text, and partial SGML into structured documents in C and Python."
+2026-11-05T02:09:07Z,shade-plugins-slack,0.1.0,ShadeOne,Apache-2.0,17354,"Listar canais e enviar mensagem no Slack sem duplicar, pela Web API, com o token OAuth da conexão da plataforma."
+2026-11-05T02:11:05Z,basinledger,0.1.0,Northline Hydrology <info@northlinehydrology.com>,BSD-3-Clause,407315,"A basin's water balanced day by day across coupled models (SWAT+, NextGen, MODFLOW 6 and water users) through BMI"
+2026-11-05T02:14:56Z,entityraster,0.1.0,Kamyar Hasanzadeh <kamyar.hasanzadeh@helsinki.fi>,BSD-3-Clause,115609,"Raster-valued attributes for GeoPandas: one raster per row (a GeoRasterFrame), with explicit zero-vs-unknown semantics"
+2026-11-05T02:16:08Z,yaml-secrets,0.1.0,,MIT,15925,Drop-in PyYAML replacement with Vault/OpenBao secret substitution
+2026-11-05T02:16:11Z,logitgate,0.2.0,Jason Bradley <jasonbdly@gmail.com>,Apache-2.0,257065,"Fast, calibrated first-token logit evaluation and 3-layer cascaded routing for LLMs."

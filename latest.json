@@ -1,27 +1,20 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-11-05T00:18:21.099679Z",
-    "path": "data/new-packages-2026-11-05T01-20-06-535458Z.csv",
-    "to": "2026-11-05T01:20:06.535458Z"
+    "count": 23,
+    "from": "2026-11-05T01:20:06.535458Z",
+    "path": "data/new-packages-2026-11-05T02-18-16-461556Z.csv",
+    "to": "2026-11-05T02:18:16.461556Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T00:39:23Z",
       "package": "strands-aidr",
       "since": "2026-11-05T00:18:21.099679Z",
       "version": "9999.0.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-04T22:15:35Z",
-      "package": "vivarium-psimuate",
-      "since": "2026-11-04T21:21:04.196323Z",
-      "version": null
     }
   ],
-  "serial": 43217794,
+  "serial": 43219404,
   "source_truncated": false,
-  "window": "2026-11-05T01:20:06.535458Z"
+  "window": "2026-11-05T02:18:16.461556Z"
 }
