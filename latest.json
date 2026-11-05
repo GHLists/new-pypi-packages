@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 25,
-    "from": "2026-11-05T02:18:16.461556Z",
-    "path": "data/new-packages-2026-11-05T03-19-15-662669Z.csv",
-    "to": "2026-11-05T03:19:15.662669Z"
+    "count": 42,
+    "from": "2026-11-05T03:19:15.662669Z",
+    "path": "data/new-packages-2026-11-05T04-18-52-419729Z.csv",
+    "to": "2026-11-05T04:18:52.419729Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T02:52:26Z",
       "package": "fireworks-training-cookbook",
       "since": "2026-11-05T02:18:16.461556Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-05T00:39:23Z",
       "package": "strands-aidr",
       "since": "2026-11-05T00:18:21.099679Z",
       "version": "9999.0.0"
     }
   ],
-  "serial": 43220784,
+  "serial": 43222603,
   "source_truncated": false,
-  "window": "2026-11-05T03:19:15.662669Z"
+  "window": "2026-11-05T04:18:52.419729Z"
 }

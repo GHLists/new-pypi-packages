@@ -8,36 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 03:19 UTC
+## Latest list — 2026-11-05 04:18 UTC
 
-New packages created between 2026-11-05 02:18 UTC and 2026-11-05 03:19 UTC.
+New packages created between 2026-11-05 03:19 UTC and 2026-11-05 04:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-05T03-19-15-662669Z.csv)
+[Full CSV](data/new-packages-2026-11-05T04-18-52-419729Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-05 02:19:59 | [sparkless-connect](https://pypi.org/project/sparkless-connect/) | 4.19.0 |  | 23.6 kB | Lightweight Sparkless server and Spark Connect client lifecycle helpers |
-| 2026-11-05 02:20:29 | [sparkless-server](https://pypi.org/project/sparkless-server/) | 4.19.0 |  | 68.0 MB | Platform-specific native Polars HTTP and Spark Connect server |
-| 2026-11-05 02:20:37 | [sparkless-server-duckdb](https://pypi.org/project/sparkless-server-duckdb/) | 4.19.0 |  | 138.4 MB | Platform-specific Polars server with optional DuckDB source support |
-| 2026-11-05 02:26:31 | [pysubnettree-rs](https://pypi.org/project/pysubnettree-rs/) | 0.1.0 | Georges Toth <georges@trypill… | 19.3 MB | Fast, memory-efficient longest-prefix-match lookups of IPv4/IPv6 subnets, writt… |
-| 2026-11-05 02:29:31 | [ltc-paper-pdf](https://pypi.org/project/ltc-paper-pdf/) | 0.1.1 |  | 1.6 MB | Standalone LTC paper exhibit scripts and assets for Python and pdfLaTeX |
-| 2026-11-05 02:38:30 | [nlalpha-capability](https://pypi.org/project/nlalpha-capability/) | 0.2.0 |  | 45.1 kB | NLAlpha capability discovery MCP server. |
-| 2026-11-05 02:39:45 | [nlalpha-yfinance](https://pypi.org/project/nlalpha-yfinance/) | 0.1.1 |  | 48.0 kB | Yahoo Finance daily data provider for NLAlpha |
-| 2026-11-05 02:43:55 | [pavvis](https://pypi.org/project/pavvis/) | 0.1.0 | Jack Bruton <jack.bruton@uwa.… | 83.9 kB | Visualisation tools for gene Presence/Absence Variation (PAV) matrix data |
-| 2026-11-05 02:47:11 | [aegis-ai-suite](https://pypi.org/project/aegis-ai-suite/) | 1.0.4 | Sachin Bose Pulikkathara <sac… | 81.3 MB | aegisCore AI Workspace Suite — Enterprise Multi-Agent Core CRM, Standalone Comp… |
-| 2026-11-05 02:48:16 | [odoo-addons-oca-connector-mercadolibre](https://pypi.org/project/odoo-addons-oca-connector-mercadolibre/) | 19.0.20261103.0 |  | 1.4 kB |  |
-| 2026-11-05 02:52:49 | [faker-orgchart](https://pypi.org/project/faker-orgchart/) | 0.1.0 | Steve Walker | 13.1 kB | Faker provider for org charts: job levels, leadership titles, and who reports t… |
-| 2026-11-05 02:53:37 | [tim-kelley](https://pypi.org/project/tim-kelley/) | 0.1.0 | Tim Kelley <webologist@enterp… | 7.7 kB | My first package! |
-| 2026-11-05 02:57:32 | [rcp-ndcg](https://pypi.org/project/rcp-ndcg/) | 9999.0.0 | Security Researcher <security… | 2.1 kB | SECURITY RESEARCH -- dependency confusion PoC for cohere-ai/rcp-ndcg. See READM… |
-| 2026-11-05 02:58:46 | [ltc-paper-scripts](https://pypi.org/project/ltc-paper-scripts/) | 0.1.0 |  | 807.0 kB | LTC paper PDF scripts and assets only |
-| 2026-11-05 03:00:22 | [naka](https://pypi.org/project/naka/) | 0.3.0 | Lakshya Bhardwaj | 2.7 MB | Open-source runtime firewall for AI agents. Stops poisoned tools, rug-pulls, da… |
-| 2026-11-05 03:01:33 | [pmw-ads](https://pypi.org/project/pmw-ads/) | 1.0.0 | Subhranil Naskar | 13.6 kB | Deterministic Performance Marketing Utility: Google Ads Keyword Wrapper, Meta C… |
-| 2026-11-05 03:02:00 | [nookara](https://pypi.org/project/nookara/) | 0.8.0 | Ikelene | 239.2 kB | Python SDK for Nookara: sign-in, profiles, friends, chat, credits and payments,… |
-| 2026-11-05 03:05:27 | [gzcli](https://pypi.org/project/gzcli/) | 0.1.0 |  | 23.6 kB | CLIHub: 一个父指令统一网关，将团队 HTTP 接口以子指令方式对外提供 |
-| 2026-11-05 03:05:36 | [rosame](https://pypi.org/project/rosame/) | 0.1.0 | Kai Xi, Stephen Gould, Sylvie… | 88.8 kB | Neuro-symbolic learning of lifted STRIPS action models from (probabilistic) sta… |
-| 2026-11-05 03:07:21 | [continuum-engine-client](https://pypi.org/project/continuum-engine-client/) | 1.0.0 | Your Name <your.email@example… | 16.7 kB | Continuum Engine - OSS Client Kernel for Python |
-| 2026-11-05 03:09:47 | [gsnet-sdk](https://pypi.org/project/gsnet-sdk/) | 0.1.0 | chenzh05 | 190.0 kB | Python SDK and CLI for the GSnet platform |
-| 2026-11-05 03:11:47 | [protect-context](https://pypi.org/project/protect-context/) | 2.0.0 |  | 167.8 kB | protect-context agent guardrail suite: shared store, MCP server (fastmcp), CLI |
-| 2026-11-05 03:13:20 | [skyxiaobing-mcp-demo](https://pypi.org/project/skyxiaobing-mcp-demo/) | 0.1.0 | Xiaobing.Li | 3.0 kB | Add your description here |
-| 2026-11-05 03:14:41 | [hashfasta](https://pypi.org/project/hashfasta/) | 0.1.0 | Rob Edwards <robert.edwards@f… | 23.1 kB | Convert FASTA to HashFASTA: records keyed by the SHA-256 of their normalized se… |
-| 2026-11-05 03:16:11 | [chickensmoothie](https://pypi.org/project/chickensmoothie/) | 0.1.0 | Haru | 20.8 kB | Unofficial async Python client for Chicken Smoothie |
+| 2026-11-05 03:24:03 | [feature-standards-python-auth](https://pypi.org/project/feature-standards-python-auth/) | 0.2.0 | jongko54 | 24.8 kB | Contract-tested session authentication for FastAPI |
+| 2026-11-05 03:25:09 | [orbit-converter](https://pypi.org/project/orbit-converter/) | 1.4.0 | Samuel Braman | 80.1 kB | Convert ECEF X/Y/Z and CCSDS OEM orbit files to WGS84 latitude, longitude, and… |
+| 2026-11-05 03:26:21 | [krca](https://pypi.org/project/krca/) | 6.0 | upszot | 99.0 kB | Audit CPU, memory, requests and limits of Kubernetes containers |
+| 2026-11-05 03:28:37 | [scigantic](https://pypi.org/project/scigantic/) | 0.2.0 | Scigantic <aaron@scigantic.co… | 29.4 kB | Open a public dataset in a browser notebook with the files already mounted, or… |
+| 2026-11-05 03:29:29 | [fontpkg-creepster](https://pypi.org/project/fontpkg-creepster/) | 1.0 |  | 44.7 kB | Creepster font family, packaged for Python by fontpkg |
+| 2026-11-05 03:29:32 | [fontpkg-golos-text](https://pypi.org/project/fontpkg-golos-text/) | 2.4 |  | 101.1 kB | Golos Text font family, packaged for Python by fontpkg |
+| 2026-11-05 03:29:34 | [fontpkg-bangers](https://pypi.org/project/fontpkg-bangers/) | 2.100 |  | 53.5 kB | Bangers font family, packaged for Python by fontpkg |
+| 2026-11-05 03:29:36 | [fontpkg-old-standard-tt](https://pypi.org/project/fontpkg-old-standard-tt/) | 3.0 |  | 303.6 kB | Old Standard TT font family, packaged for Python by fontpkg |
+| 2026-11-05 03:29:54 | [agenttwin](https://pypi.org/project/agenttwin/) | 0.1.1 | ravenkernel | 352.7 kB | Frozen-replay for LLM agents: record one JSONL tape, replay it deterministicall… |
+| 2026-11-05 03:31:41 | [skyxiaobing-mcp-demo-normal](https://pypi.org/project/skyxiaobing-mcp-demo-normal/) | 0.1.1 | Xiaobing.Li | 3.1 kB | Add your description here |
+| 2026-11-05 03:33:02 | [suye](https://pypi.org/project/suye/) | 0.1.0 |  | 17.8 kB | Read-only development toolchain diagnostics for SUYE |
+| 2026-11-05 03:34:33 | [deadrecon](https://pypi.org/project/deadrecon/) | 0.0.1 | the-clipper | 4.4 kB | Placeholder for DeadRecon, an OPSEC-native OSINT and recon framework. The first… |
+| 2026-11-05 03:40:28 | [secretsweep](https://pypi.org/project/secretsweep/) | 0.1.0 |  | 9.0 kB | Scan files for accidentally committed secrets |
+| 2026-11-05 03:46:59 | [pydux-store](https://pypi.org/project/pydux-store/) | 0.1.0 | Neuri | 62.6 kB | A Redux Toolkit-inspired state container for Python desktop applications. |
+| 2026-11-05 03:47:44 | [openrois-interfaces](https://pypi.org/project/openrois-interfaces/) | 0.1.0a5 | OpenRoIS Community | 152.0 kB | RoIS Framework 2.0 interface types for the OpenRoIS middleware |
+| 2026-11-05 03:49:40 | [tf-rec-v1](https://pypi.org/project/tf-rec-v1/) | 26.2.0 | HUAWEI Inc | 16.3 MB | RecSDK TensorFlow recommendation package with TF1/TF2 variants |
+| 2026-11-05 03:49:42 | [tf-rec-v2](https://pypi.org/project/tf-rec-v2/) | 26.2.0 | HUAWEI Inc | 4.1 MB | RecSDK TensorFlow recommendation package for Lingqu 2.0 (TF1) |
+| 2026-11-05 03:49:48 | [mru-sdk](https://pypi.org/project/mru-sdk/) | 0.1.0a1 |  | 71.6 kB | Python job launch and hardware-independent robot sessions |
+| 2026-11-05 03:52:02 | [typeling](https://pypi.org/project/typeling/) | 0.1.0 | scarletkc | 6.5 MB | Offline English typing prediction: completes the current word, predicts the nex… |
+| 2026-11-05 03:52:38 | [seenby](https://pypi.org/project/seenby/) | 0.1.0 | novasdiego1 | 25.3 kB | Check whether a comment you posted is visible to others, not just accepted |
+| 2026-11-05 03:54:55 | [booktop](https://pypi.org/project/booktop/) | 0.1.0 | Arka Khorchidian | 41.5 kB | A live order book in your terminal: crypto depth ladders, trade tape and flow,… |
+| 2026-11-05 03:56:15 | [df-hana-spark-poc-common](https://pypi.org/project/df-hana-spark-poc-common/) | 1.0.0 |  | 3.0 kB | Common Spark/Delta utilities for HANA Spark POC |
+| 2026-11-05 03:57:32 | [velto](https://pypi.org/project/velto/) | 0.1.0 | Neuri | 20.0 kB | The public application facade for Qyro, PSX, and Pydux. |
+| 2026-11-05 03:57:39 | [tba-operator-identity](https://pypi.org/project/tba-operator-identity/) | 0.4.0.dev2 |  | 31.0 kB | Repository truth, document authority, evidence workflows, and admin console hel… |
+| 2026-11-05 03:58:26 | [skillgraph-runtime](https://pypi.org/project/skillgraph-runtime/) | 0.0.2 |  | 159.1 kB | LangGraph based agent runtime |
+| 2026-11-05 03:59:40 | [tinyusd](https://pypi.org/project/tinyusd/) | 0.1.0 |  | 14.0 MB | Lightweight, dependency-free OpenUSD reader |
+| 2026-11-05 03:59:49 | [tba-server-identity](https://pypi.org/project/tba-server-identity/) | 0.4.0.dev2 |  | 136.6 kB | Carrier-neutral identity runtime handlers, capability assembly, and lifecycle i… |
+| 2026-11-05 04:00:58 | [tshark-mcp-server](https://pypi.org/project/tshark-mcp-server/) | 0.1.0 | Karl Hulse | 795.9 kB | Read-only MCP server for analysing packet captures with tshark: Diameter, GTP,… |
+| 2026-11-05 04:01:03 | [earthwave](https://pypi.org/project/earthwave/) | 0.2.0 | Bill Kane | 3.3 MB | Earthquakes and tsunami alerts in your terminal. Live USGS quakes, tsunami warn… |
+| 2026-11-05 04:01:18 | [eyewall](https://pypi.org/project/eyewall/) | 0.10.0 | Bill Kane | 17.3 MB | Track tropical cyclones, nearby buoys and tide gauges from NOAA data in your te… |
+| 2026-11-05 04:02:05 | [sessionwalk](https://pypi.org/project/sessionwalk/) | 0.0.1 |  | 1.5 kB | SessionWalk is in development. This package only holds the name. |
+| 2026-11-05 04:02:16 | [tba-plugin-tigrbl](https://pypi.org/project/tba-plugin-tigrbl/) | 0.4.0.dev2 |  | 5.3 kB | Standalone TbaPlugin adoption adapter for installing TBA surfaces into an exist… |
+| 2026-11-05 04:02:27 | [hestia-system](https://pypi.org/project/hestia-system/) | 0.1.0 | Damon S. Green II (nomadiidam… | 17.7 kB | System discovery, hardware and software analysis, and AI model recommendations. |
+| 2026-11-05 04:03:06 | [mercurius-events](https://pypi.org/project/mercurius-events/) | 0.5.0 | Damon S. Green II (nomadiidam… | 34.7 kB | Mercurius: Queue based pub/sub event system. |
+| 2026-11-05 04:04:32 | [tba-runtime-identity-administration](https://pypi.org/project/tba-runtime-identity-administration/) | 0.4.0.dev2 |  | 26.8 kB | Administrative identity control plane for tenants, users, clients, keys, sessio… |
+| 2026-11-05 04:07:08 | [biomedmcp](https://pypi.org/project/biomedmcp/) | 0.2.4 | UniBio Intelligence | 1.5 MB | biomedmcp biomedical research MCP and CLI |
+| 2026-11-05 04:08:19 | [wimotek-edge-agent](https://pypi.org/project/wimotek-edge-agent/) | 1.0.0 |  | 25.2 kB | Universal Edge Reverse Proxy & Service Bridge Agent |
+| 2026-11-05 04:08:52 | [tba-credentials](https://pypi.org/project/tba-credentials/) | 0.4.0.dev2 |  | 16.4 kB | Credential facade for authentication, digital, and workload credential domains… |
+| 2026-11-05 04:10:57 | [tba-auth](https://pypi.org/project/tba-auth/) | 0.4.0.dev2 |  | 55.6 kB | Compatibility facade for the split TBA identity package suite, preserving legac… |
+| 2026-11-05 04:14:53 | [tba-client-authorization-administration](https://pypi.org/project/tba-client-authorization-administration/) | 0.4.0.dev3 |  | 2.7 kB | Typed client for authorization administration APIs. |
+| 2026-11-05 04:14:54 | [cloudpickle-rust](https://pypi.org/project/cloudpickle-rust/) | 0.1.0 | The cloudpickle-rust develope… | 54.5 MB | Extended pickling support for Python objects: a Rust implementation of cloudpic… |
+| 2026-11-05 04:17:04 | [tba-client-policy-decision](https://pypi.org/project/tba-client-policy-decision/) | 0.4.0.dev3 |  | 2.4 kB | Typed client for platform authorization decisions. |
