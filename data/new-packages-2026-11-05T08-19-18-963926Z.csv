@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T07:32:04Z,margian,0.1.0,Stefane Fermigier,,2738,Add your description here
+2026-11-05T07:32:58Z,verifiable-agent-core,0.1.4,Verifiable-Agent-Core Contributors,MIT,107136,"Make an agent's ""I wrote it"" fail loudly: a stdlib-only delivery gate that refuses wrong filenames, empty or zero-width files and empty-shell overwrites, then verifies every byte by read-back."
+2026-11-05T07:34:09Z,numpy2x,1.0.0,,BSD-3-Clause-Clear; patents: see PATENTS,2265817,Instruction-level parallelism for the array instructions of NumPy programs
+2026-11-05T07:35:53Z,bind9-aiops,0.2.0,Wei Zhou <zhouwei008@gmail.com>,MIT,121905,"Governed BIND 9 DNS diagnosis for service, zones, DNSSEC and SOA replication."
+2026-11-05T07:37:04Z,swarmauri_llm_cloudflare,0.11.0.dev2,Jacob Stewart,Apache-2.0,11886,Swarmauri chat and tool-calling adapters for Cloudflare Workers AI.
+2026-11-05T07:38:15Z,flowmusic-cli,0.1.1,Joost,MIT,169806,"Unofficial command-line client for Google Flow Music (flowmusic.app, Lyria) — generate, download and manage songs from your terminal."
+2026-11-05T07:38:35Z,rennari,0.1.0,,MIT,24622,Python client and server for the Rennari protocol
+2026-11-05T07:39:04Z,swarmauri_llm_nvidia_nim,0.11.0.dev2,Jacob Stewart,Apache-2.0,11530,Swarmauri chat and tool-calling adapters for NVIDIA NIM OpenAI-compatible deployments.
+2026-11-05T07:39:08Z,tausi,0.1.0,Tausi,MIT,47175,"Official Python SDK for Tausi: verify sessions and manage users from your backend, with Django and Flask integrations."
+2026-11-05T07:39:37Z,crumpet,0.0.1,,,1636,Cosy local HTTP hosting.
+2026-11-05T07:39:39Z,shivalipi,0.0.1,Rohit Manikrao Patil,,3049,Fast vision engine and linguistic mapper deciphering historical Modi Lipi documents into Devanagari Marathi.
+2026-11-05T07:39:59Z,apache-aiops,0.2.0,Wei Zhou <zhouwei008@gmail.com>,MIT,123788,"Governed Apache HTTP Server diagnosis for config, virtual hosts, modules and HTTP health."
+2026-11-05T07:41:19Z,swarmauri_llm_openrouter,0.1.0.dev3,Jacob Stewart,Apache-2.0,32354,"OpenRouter models for Swarmauri chat, tool-calling, vision-language, and image-generation workflows."
+2026-11-05T07:41:22Z,oortmem,0.2.0,Oort,Apache-2.0,7755,Open-source memory for AI agents. Runs the Oort CLI (Node 22.15 or newer) from Python.
+2026-11-05T07:42:18Z,lazy-visual,0.1.1,lazy-visual contributors,MIT,449099,One-line statistical plots with built-in stats.
+2026-11-05T07:42:47Z,manifold-cli,0.0.40,,MPL-2.0,240486,
+2026-11-05T07:42:51Z,liquid-xml-objects-runtime,21.6.3,Liquid Technologies Ltd,LIQUID TECHNOLOGIES LIMITED END-USER LICENSE AGREEMENT FOR LIQUID STUDIO AND LIQUID XML DATA BINDER…,134496,Liquid XML Objects runtime for Python: read and write XML as typed Python objects generated from an XSD.
+2026-11-05T07:43:17Z,swarmauri_llm_xai,0.11.0.dev4,Jacob Stewart,Apache-2.0,10937,Provider-native Swarmauri chat and tool-calling adapters for the xAI Inference API.
+2026-11-05T07:43:41Z,patdown,0.1.0,GopeshKachhadiya,MIT,144411,"Frisk everything your AI agent reads: skills, rules files, hooks and MCP servers, scanned for prompt injection, hidden Unicode, exfiltration and poisoned tools."
+2026-11-05T07:43:53Z,rstatistics,0.1.1,,"MIT License Copyright (c) 2026 ccc-claude-opus Permission is hereby granted, free of charge, to any…",43717,"R's probability and statistics functions in pure Python: d/p/q/r distributions, t.test and friends, summary, quantile, with R's numbers and R's printed output"
+2026-11-05T07:44:04Z,aegis-mail-companion,1.0.2,Sachin Bose Pulikkathara <sachin.bose.p@gmail.com>,Apache-2.0,24194170,"Autonomous AI Mail Companion & Tiered L1/L2 Support Bot for Outlook, Gmail, Zoho & IMAP with 5-stage multi-agent triage, Jira root-cause analysis, and installable PWA."
+2026-11-05T07:45:09Z,swarmauri_tool_getmethodsignature,0.11.0.dev3,Jacob Stewart,Apache-2.0,19883,A tool that retrieves method signatures from Python source code.
+2026-11-05T07:47:04Z,swarmauri_tool_queryimagevectorstore,0.11.0.dev2,Jacob Stewart,Apache-2.0,16252,A Swarmauri tool for ranked image-vector retrieval from images or embeddings.
+2026-11-05T07:47:09Z,dma-cli,0.1.0,,,51813,DMA 任务提交命令行工具
+2026-11-05T07:49:34Z,swarmauri_tool_queryknowledgebase,0.11.0.dev3,Jacob Stewart,Apache-2.0,15571,A Swarmauri tool for ranked knowledge-base retrieval with metadata filtering.
+2026-11-05T07:51:35Z,swarmauri_video_lipsync_synclabs,0.1.0.dev4,Jacob Stewart,Apache-2.0,13210,Standalone Sync Labs queued lip-sync video provider for Swarmauri.
+2026-11-05T07:53:46Z,m693ctl,1.3.1,Raj Singh Chauhan,MIT,209074,Userspace driver and configuration GUI for the Redragon M693-RGB mouse
+2026-11-05T07:53:48Z,swarmauri_storage_webdav,0.11.0.dev1,Jacob Stewart,Apache-2.0,16672,WebDAV client storage adapter for SwarmauriSDK
+2026-11-05T07:54:42Z,crowdsentinel-mcp-server-es7,0.9.1,SECURITY RESEARCH — mcpsec-lab,,15400,Security research PoC: console entry point for the unclaimed PyPI name used by CrowdSentinels-AI-MCP docs
+2026-11-05T07:54:49Z,bazaar-contrib-server-database,0.3.0rc1,,Apache-2.0,15612,The server's own database beside the node's
+2026-11-05T07:54:51Z,crowdsentinel-mcp-server-es9,0.9.1,SECURITY RESEARCH — mcpsec-lab,,15380,Security research PoC: console entry point for the unclaimed PyPI name used by CrowdSentinels-AI-MCP docs
+2026-11-05T07:55:28Z,thepythonbook,0.1.0,Selva Prabhakaran,MIT,7669,Turn a Python file into a link that opens and runs it in the browser at pythoncompiler.io.
+2026-11-05T07:55:57Z,swarmauri_transport_https_unicast,0.11.0.dev5,Jacob Stewart,Apache-2.0,12754,Policy-bound HTTPS unicast transport for Swarmauri.
+2026-11-05T07:57:01Z,leveecmd,2.8.0,Chris Pitzalis,GPL-3.0-only,10275133,Command line tooling for Dutch levee and water safety analyses
+2026-11-05T07:57:55Z,swarmauri_transport_tcpunicast,0.11.0.dev6,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",8765,Basic TCP unicast transport for Swarmauri prototyping.
+2026-11-05T07:58:33Z,dispositio,1.0.0,Strategos <r@strategos.au>,Proprietary,6252,Legal argument structure and IRAC scaffolding. by Strategos.
+2026-11-05T07:59:16Z,loadpath,0.1.1,,MIT,3153640,"Generative design for printed parts: topology optimization from keep-outs, preserved geometry and loads, verified in real units."
+2026-11-05T07:59:22Z,bridgemem,0.1.0,BridgeMem <ccaiuss@gmail.com>,MIT OR Apache-2.0,7234,Official lightweight HTTP and Model Context Protocol (MCP) Python client SDK for BridgeMem autonomous AI memory nodes.
+2026-11-05T08:01:21Z,liyagent,0.2.0,Liyagent,Apache-2.0,39153,"Python SDK for Liyagent: agents, runs, evals, knowledge, approvals and solution templates"
+2026-11-05T08:02:22Z,pi-sessions-tui,0.1.0,"Psychobarge, Marek Miśkiewicz",MIT,99512,"Terminal UI for browsing, previewing, resuming and managing pi coding agent sessions"
+2026-11-05T08:02:39Z,renamef,26.11.0,,AGPL-3.0-or-later,61261665,"A private, fully local, LLM-powered file renaming solution."
+2026-11-05T08:05:58Z,riffdb-application,0.1.0,,MIT OR Apache-2.0,8610252,Typed application-only client for RiffDB
+2026-11-05T08:06:00Z,riffdb-cli,0.1.0,,MIT OR Apache-2.0,33677940,Contract-first RiffDB application CLI
+2026-11-05T08:06:08Z,riffdb,0.1.0,,MIT OR Apache-2.0,6426,Exact install alias for the first-party RiffDB Python application runtime
+2026-11-05T08:14:49Z,gpuwm-kernels-startup,2.9.12,,Apache-2.0,196782064,Source-bound startup compiler images for gpuwm
+2026-11-05T08:15:23Z,hyprmuse,0.3.2,David Siegl,MIT,58521,"Random quotes from musicians, authors and poets for hyprlock"
+2026-11-05T08:17:23Z,guard-rail-edge,0.5.4,Zayan Ahmed,MIT,247579,Automated prompt injection & jailbreak testing against LLM system prompts using local edge models for CI/CD pipelines
