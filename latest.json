@@ -1,41 +1,27 @@
 {
   "list": {
-    "count": 37,
-    "from": "2026-11-05T12:20:35.640743Z",
-    "path": "data/new-packages-2026-11-05T13-20-34-392307Z.csv",
-    "to": "2026-11-05T13:20:34.392307Z"
+    "count": 44,
+    "from": "2026-11-05T13:20:34.392307Z",
+    "path": "data/new-packages-2026-11-05T14-19-29-842353Z.csv",
+    "to": "2026-11-05T14:19:29.842353Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T12:37:49Z",
       "package": "fews-networkvisualisation",
       "since": "2026-11-05T12:20:35.640743Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-05T10:16:55Z",
-      "package": "open_osc",
-      "since": "2026-11-05T09:21:43.087092Z",
-      "version": null
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-05T11:33:28Z",
       "package": "rad-cal",
       "since": "2026-11-05T11:18:47.679902Z",
       "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-05T12:41:40Z",
-      "package": "spaciv",
-      "since": "2026-11-05T12:20:35.640743Z",
-      "version": null
     }
   ],
-  "serial": 43243619,
+  "serial": 43246031,
   "source_truncated": false,
-  "window": "2026-11-05T13:20:34.392307Z"
+  "window": "2026-11-05T14:19:29.842353Z"
 }
