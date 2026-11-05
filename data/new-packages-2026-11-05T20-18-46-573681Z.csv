@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T19:20:11Z,pyvista-krige,0.1.0,Kevin Fong,MIT,71672,"Kriging for PyVista datasets, powered by PyKrige."
+2026-11-05T19:23:16Z,api-doacao-sangue,1.0.1,,,31525,API aberta para integração e padronização de dados sobre doação de sangue no Brasil.
+2026-11-05T19:23:50Z,lajstrom,0.0.1,,Apache-2.0,2481,"Lajstrom: artifact registry (apt, rpm, maven, pypi, npm, terraform) on top of any OCI registry. Name reserved, work in progress."
+2026-11-05T19:24:57Z,senertec-dachs,0.1.0,skuza.it,MIT,78364,Async Python client for the SenerTec Dachs CHP unit: local MSR2 GLT interface and Dachsportal cloud
+2026-11-05T19:25:08Z,sellbird,0.0.1,Ethan Rogers,AGPL-3.0-only,25975,Reserves the Sellbird name. See sellbird.ai.
+2026-11-05T19:27:02Z,Pyjo-Reactor-Uvloop,0.1.0,Piotr Roszatycki <piotr.roszatycki@gmail.com>,Artistic-2.0,32983,Low level event reactor with uvloop support for Pyjoyment.
+2026-11-05T19:28:18Z,appsleuth,1.0.1,,MIT,175475,"Static security scanner, info, diff and app-data auditor for iOS (IPA) and Android (APK/APKS/XAPK/AAB) apps"
+2026-11-05T19:28:32Z,getipa,1.0.1,,MIT,42629,Pull an app from a jailbroken iPhone over SSH and package it as an IPA (decrypted via bagbak)
+2026-11-05T19:28:42Z,ferroguard,0.3.1,Melroy Anthony,MIT,5213975,"Responsible AI toolkit for LLM applications -- Rust-powered PII redaction, prompt injection detection, bias scoring, and output validation with Python bindings."
+2026-11-05T19:29:37Z,pysnt,5.0.24,SNT contributors,GPL-3.0-or-later,472561,"Python interface for SNT, the ImageJ framework for neuroanatomy"
+2026-11-05T19:31:15Z,py-agency-agents,1.11.1,Deuri Vasquez,MIT,4236037,"A catalog of specialized AI agent personas, rendered and installed across AI coding tools through a Python CLI."
+2026-11-05T19:31:19Z,eecc,2.0.0,S. Rasoul Hashemi,MIT,299051,"Exciton-Exciton Coupling Calculator: excitonic couplings from TD-DFT, transition-density cubes or transition charges"
+2026-11-05T19:32:05Z,code-city,0.1.0,Lakshmi Shibu Raj,Elastic-2.0,2199550,"See a codebase as a 3D city: where it starts, what it depends on, how its workflows run, and how it grew."
+2026-11-05T19:32:44Z,erdi-lrf,0.1.1,ERDI Technology (Chengdu),MIT,53072,"Open-source drivers for ERDI 905 nm laser rangefinder modules (UART, both published protocol families)"
+2026-11-05T19:33:30Z,tropomi-downloader-mpic,0.1.0,,0BSD,14115,Download TROPOMI granules from NASA Earthdata into a product and date directory structure
+2026-11-05T19:34:50Z,eagleplot,3.0.0,"""Jonathan D. Schultz"" <jschult3@nccu.edu>",MIT,1586376,A general-purpose Python toolkit for scientific data visualization and analysis
+2026-11-05T19:34:57Z,dataclean-mcp,0.1.0,ArceeDev,BUSL-1.1,73916,"MCP server that deterministically cleans CSV, Excel and JSON tables for AI agents: European and US numbers, day/month dates, NUL bytes, mojibake, phones, emails, IBAN, dedupe and schema validation. B…"
+2026-11-05T19:35:20Z,opencolorio-rs,1.0.0,"Contributors to the OpenColorIO Project, Pixel Minions",BSD-3-Clause AND Apache-2.0 WITH LLVM-exception AND MIT AND Zlib AND BSL-1.0 AND PSF-2.0 AND Unicod…,21995013,"A Rust port matching OpenColorIO 2.5.2, with its PyOpenColorIO module. Not the official OpenColorIO package."
+2026-11-05T19:37:24Z,androj,0.1.1,Andro contributors,MIT,41833,Export Android Java and XML practical examples
+2026-11-05T19:38:15Z,pYsabelle,0.1.0,davidebonav,AGPL-3.0-or-later,111250,A modern Python client for the Isabelle Server protocol
+2026-11-05T19:39:39Z,sableai,2.0.0,atrx07,MIT,503687,Local-first agentic coding runtime with bounded tools and deterministic verification
+2026-11-05T19:41:01Z,mnemowall,0.0.1,The Mnemowall Authors,Apache-2.0,16486,"A firewall plus version control for AI agent memory: provenance on every write, safer reads, rollback."
+2026-11-05T19:41:23Z,ghazal-nlp,0.1.0,Ali Julaee Rad,MIT AND CC-BY-4.0 AND CC-BY-SA-4.0,11994880,"Small deterministic tools for Persian: metre, verbs, vowels, ezāfe, spelling"
+2026-11-05T19:42:30Z,agent-yaml,0.1.0,Joe Schlesinger,MIT,205930,Declarative YAML workflows for AI coding-agent CLIs
+2026-11-05T19:42:50Z,swastik-codes,0.1.0,Shwastik Tech Solutions Pvt Ltd,# Swastik Codes licence Copyright © 2026 Shwastik Tech Solutions Pvt Ltd. All rights reserved. Swas…,182338,"API documentation and a request collection for FastAPI, Starlette, Flask, Django and any ASGI/WSGI app, from your OpenAPI document. No dependencies."
+2026-11-05T19:44:15Z,keycardai-pydantic-ai,0.2.0,Keycard <support@keycard.ai>,MIT,87898,"Pydantic AI integration for Keycard: delegated, per-tool-call access with brokered credentials"
+2026-11-05T19:44:27Z,chromainvert,0.1.0,ChromaInvert contributors,Apache-2.0,61840,Perceptual video and LUT reverse-engineering engine
+2026-11-05T19:48:41Z,azathoth-mcp,1.2.0,Eris Discordia Montano,MIT,59352,Serve promoted Azathoth workflows as Model Context Protocol tools.
+2026-11-05T19:49:09Z,shade-plugins-jira,0.1.0,ShadeOne,Apache-2.0,20366,"Buscar issues por JQL, criar issue (sem duplicar, por rótulo), comentar e mudar o status no Jira Cloud pela API REST v3, com o token OAuth da conexão da plataforma."
+2026-11-05T19:54:29Z,patti-123,1.0.1,leninjacob891@gmail.com,,23863,"Clinical data analysis lab experiments (EXP1-EXP8). Install, then run: patti-123"
+2026-11-05T19:57:08Z,obliq-ocr,0.1.0,"Rahul Kate <rahulkate173@gmail.com>, Abhiraj Adhikary <abhirajadhikary06@gmail.com>, Naman Jha <abh…",MIT,79432,Page-aware OCR and document-parsing pipeline combining PyMuPDF and RapidOCR.
+2026-11-05T19:58:36Z,ranklens,0.2.0,AlexandrBaranov7,MIT,214642,"Offline evaluation, statistical comparison and explanation of ranking quality"
+2026-11-05T20:00:46Z,catalyst-config-auditor,1.4.0,,,114550,"Read-only Cisco Catalyst IOS-XE collector with offline Excel, YAML and Jinja2 tools"
+2026-11-05T20:09:55Z,bohr-h-andresdperezc,0.1.0,Andrés David Pérez Criollo <adperezc@udistrital.edu.co>,MIT,22479,"Modelo de Bohr para hidrógeno y átomos hidrogenoides: energías, radios, transiciones y gráficos."
+2026-11-05T20:14:46Z,shipit-csv-validator,0.1.0,,MIT,8100,"Dependency-free local CSV validation with record, field and source diagnostics"
+2026-11-05T20:14:56Z,locum,0.1.0,israerusan,MIT,1104005,"Desktop automation for Python (Windows first; macOS and Linux/X11 backends): input, vision, accessibility selectors, RPA workflows, and LLM agent control."
+2026-11-05T20:15:43Z,x2camf,1.0.0,"Chaoqun Zhang, Xubo Wang","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",17720729,"Atomic mean-field spin-orbit integrals for X2C Hamiltonians (C99 implementation, ctypes binding)"
+2026-11-05T20:18:42Z,intandem-govcon,1.3.0,"""Steve Salstrand (Stephen Salstrand)"" <steve@getintandem.io>",MIT,12621,"Official Python SDK & CLI for the Intandem US Government Contracting & FAR Reference Library (351 NAICS size standards, 165 Federal PSC codes, 136 SLED NIGP codes, 50-state & 250+ city portals, 8 SBA…"
