@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T22:19:28Z,stem-mqtt-client,0.4.1,,MIT,3689093,An MQTT 3.1.1 / MQTT 5.0 client implemented in Rust (UniFFI bindings).
+2026-11-05T22:20:29Z,nawah-ara,0.1.0,Nawah Developer,MIT,5167,Arabic programming library for Python
+2026-11-05T22:24:33Z,mlab-sh,1.0.0,mlab.sh,GPL-3.0-only,71193,"Official Python client for the mlab.sh threat intelligence, CVE and threat-actor APIs"
+2026-11-05T22:26:08Z,forecastscope,0.1.0,Felipe Santibáñez-Leal,MIT,127468,"Finite-prefix forecasting, temporal forecast combinations and sequence diagnostics."
+2026-11-05T22:26:46Z,django-launch-editor,1.0.0,Adam Johnson,MIT,23658,Open files from Django’s debug error page in your editor.
+2026-11-05T22:35:58Z,lictor,0.1.0,Jorge MB,EUPL-1.2,296679,Implementa escenarios Gherkin con un agente y los verifica de forma determinista.
+2026-11-05T22:38:42Z,nuclear-grade,0.7.0,Ben Huffer,MIT,1876369,Configuration management for AI-assisted software work.
+2026-11-05T22:39:14Z,janelkit-store,0.2.0.0,d4ndres <d4ndres@gmail.com>,MIT,38806,"Stores para JanelKit: datos compartidos con escritura controlada, seguimiento de cambios y persistencia"
+2026-11-05T22:40:39Z,tomlgraft,0.1.0,,Apache-2.0,3119864,"Small, transactional TOML edits backed by a shared Rust core"
+2026-11-05T22:41:10Z,janelkit-router,0.2.0.0,d4ndres <d4ndres@gmail.com>,MIT,31488,Navegación entre pantallas para JanelKit: pilas de páginas y secciones
+2026-11-05T22:41:34Z,bytepop,0.0.1,Jia Xu,Apache-2.0,2417,bytepop. Code release coming soon.
+2026-11-05T22:41:36Z,bit2vec,0.0.1,Jia Xu,Apache-2.0,2401,bit2vec. Code release coming soon.
+2026-11-05T22:41:37Z,bitpop,0.0.1,Jia Xu,Apache-2.0,2388,bitpop. Code release coming soon.
+2026-11-05T22:41:57Z,websitebench,0.0.1,WebsiteBench Authors,Apache-2.0,33624,Download and check WebsiteBench tasks for the official Harbor framework.
+2026-11-05T22:43:28Z,stem-mqtt-broker,0.4.1,,MIT,5243945,An MQTT 3.1.1 / MQTT 5.0 broker implemented in Rust (UniFFI bindings).
+2026-11-05T22:43:36Z,logfire-fleet-core,0.2.0,,MIT AND LicenseRef-Pydantic-OpAMP-Core-Binary,7889740,"The shared OpAMP client core for logfire-fleet-client, compiled"
+2026-11-05T22:43:37Z,item-appraiser,0.1.0,Sam Firke <samuel.firke@gmail.com>,AGPL-3.0-or-later,121887,"Estimate the new price, buy value and loan value of household goods with an LLM"
+2026-11-05T22:43:51Z,Pyjo-Reactor-Trio,0.1.0,Piotr Roszatycki <piotr.roszatycki@gmail.com>,Artistic-2.0,49042,Low level event reactor with Trio support for Pyjoyment.
+2026-11-05T22:46:08Z,p3-cat-care,0.1.0,,,30370,A tiny ASCII cat you can feed and play with.
+2026-11-05T22:46:31Z,sverify-dbt,0.7.0,,MPL-2.0,178974,"Check a dbt project's tests and model contracts with sverify, before the models run"
+2026-11-05T22:48:58Z,pants-backend-cargo,0.1.0rc0,Tom Solberg <me@sbg.dev>,"MIT License Copyright (c) 2022 Tom Solberg Permission is hereby granted, free of charge, to any per…",74286,"A Pants backend for Rust that wraps Cargo: cargo_workspace and cargo_package targets, a hermetic toolchain, kache-cached builds, and package, run, test, fmt and lint through cargo."
+2026-11-05T22:49:20Z,pants-backend-distroless,0.1.0rc0,Tom Solberg <me@sbg.dev>,"MIT License Copyright (c) 2022 Tom Solberg Permission is hereby granted, free of charge, to any per…",61394,A distroless image plugin for the Pants build system
+2026-11-05T22:54:55Z,nbxtensor,0.0.1,NeuroBrix,Apache-2.0,1809989,"An inference-first tensor library, torch-free: planned memory, Triton kernels that declare their cost, CUDA / Apple Metal / CPU backends."
+2026-11-05T22:56:39Z,opalum-receiver,0.1.1,Martin Munk Hansen,MIT,24891,Python library for controlling Opalum speakers/amplifiers over their serial (RS232) protocol
+2026-11-05T22:57:24Z,airprompter-agent-otel,1.0.0rc0,AirPrompter,BSD-3-Clause,15619,"The AirPrompter agent SDK's telemetry spool as an OpenTelemetry exporter: minute windows become OTLP metrics (gen_ai.client.operation.duration, tokens, checks, feedback, refusals) shipped to the coll…"
+2026-11-05T22:59:28Z,dinasend-sdk,0.1.0,DinaSend,UNLICENSED,35239,Official DinaSend Python SDK for transactional email.
+2026-11-05T23:01:38Z,mypy-boto3-account-access-runtime,1.43.125,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,37325,Type annotations for boto3 AccountAccessRuntime 1.43.125 service generated with mypy-boto3-builder 8.12.0
+2026-11-05T23:04:25Z,lance-nd,0.1.0,,Apache-2.0,364775897,Store xarray datasets as N-dimensional Arrow arrays in Lance
+2026-11-05T23:08:42Z,path-capi-python,0.1.0,Marlon Molina <dracomarmol@gmail.com>,MIT,45234,Python wrapper for the PATH C API (MCP/LCP) with Apple Silicon support and an optional Pyomo adapter
+2026-11-05T23:09:53Z,fault-finder,0.1.0,,MIT,117700,Reproducible evidence for Python memory retention
+2026-11-05T23:17:59Z,forgegate,0.0.1,Privy Forge,Apache-2.0,2313,Fail-closed gate between AI agents and the tools that take real actions. By Privy Forge. Under development.
