@@ -1,0 +1,57 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T02:52:26Z,fireworks-training-cookbook,2026.11.5.1,,,8921277,Training recipes and utilities for the Fireworks Training API
+2026-11-05T05:18:48Z,tba-router-oauth-protected-resource-metadata,0.4.0.dev2,,Apache-2.0,4110,HTTP carrier binding for RFC 9728 protected-resource metadata.
+2026-11-05T05:20:45Z,tba-router-oauth-pushed-authorization-request,0.4.0.dev2,,Apache-2.0,6479,RFC 9126 HTTP carrier binding for TBA.
+2026-11-05T05:22:42Z,tba-router-oauth-registration,0.4.0.dev2,,Apache-2.0,4882,HTTP carrier binding for OAuth dynamic client registration and management.
+2026-11-05T05:23:01Z,dbt-adapter,0.0.0,Your Name <you@example.com>,,1154,Dummy dbt-adapter package for PyPI
+2026-11-05T05:24:54Z,tba-router-oauth-revocation,0.4.0.dev2,,Apache-2.0,5143,RFC 7009 HTTP carrier binding for TBA.
+2026-11-05T05:25:36Z,mplume,0.2.0,NaNIsaac,MIT,13247,Publication-ready scientific styles and figure helpers for Matplotlib
+2026-11-05T05:25:52Z,herdr-courier,0.2.0,Isaac Yong,MIT,161402,A prompt queue for herdr panes that never types over a human's half-written input
+2026-11-05T05:27:00Z,tba-router-oauth-token,0.4.0.dev2,,Apache-2.0,4213,HTTP carrier binding for the OAuth token endpoint.
+2026-11-05T05:29:09Z,tba-router-oauth-token-exchange,0.4.0.dev2,,Apache-2.0,4094,HTTP carrier binding for RFC 8693 token exchange.
+2026-11-05T05:29:25Z,resilint,1.0.0,,MIT,93635,"Offline lint for critical-vendor resilience commitments (DORA, NIS2, PRA SS2/21 draft mapping)"
+2026-11-05T05:31:42Z,tba-router-oidc-discovery,0.4.0.dev2,,Apache-2.0,5047,HTTP carrier binding for OIDC discovery and JWKS publication.
+2026-11-05T05:34:00Z,tba-router-oidc-logout,0.4.0.dev2,,Apache-2.0,4121,HTTP carrier binding for OpenID Connect RP-Initiated Logout.
+2026-11-05T05:36:06Z,vastsparks,0.1.0,Chris McKenzie,MIT,78178,Run Python functions on Vast.ai GPUs with a decorator. A Vast.ai port of runpod-flash.
+2026-11-05T05:36:08Z,tba-router-oidc-userinfo,0.4.0.dev2,,Apache-2.0,4127,HTTP carrier binding for the OpenID Connect UserInfo endpoint.
+2026-11-05T05:38:36Z,tba-router-policy-decision,0.4.0.dev3,,Apache-2.0,2655,Reusable platform policy decision HTTP router.
+2026-11-05T05:40:41Z,tba-router-relying-party-session,0.4.0.dev3,,Apache-2.0,2730,Reusable RP/BFF login and session routes.
+2026-11-05T05:41:20Z,dagnam-record,0.1.0,"""Dagnam.AI"" <dagnam@dagnam.ai>",Apache-2.0,263656,"Local, stdlib-only recorder of the LLM calls a program makes, for Dagnam.AI audits."
+2026-11-05T05:42:47Z,tba-router-resource-validation-metadata,0.4.0.dev2,,Apache-2.0,4107,HTTP carrier for resource-validation capability and verifier metadata.
+2026-11-05T05:44:22Z,career-kit,0.2.2,,MIT,2052248,"AI career coach MCP server: real job-market gap analysis, staged roadmap, check-in tasks, and an application funnel"
+2026-11-05T05:44:38Z,okmusic-api,0.2,l0v3m0n3y <ffxckemweball@gmail.com>,,8288,Неофициальный бронированный SDK для работы с музыкальным API Одноклассников (WMF) через jsessionid
+2026-11-05T05:45:38Z,django-whatsapp-otp,1.0.0,5MinutesAPI,,4304,Send WhatsApp OTPs in Django apps via Official Meta API.
+2026-11-05T05:45:51Z,tba-router-session-login,0.4.0.dev2,,Apache-2.0,5020,HTTP carrier binding for interactive identity session login.
+2026-11-05T05:45:52Z,aisles-client,1.0.0,Aisles Inc.,MIT,9705,"Python client for Aisles: is a product in stock at stores near a US city or ZIP, with the store, price and the time Aisles checked. Read-only, no key."
+2026-11-05T05:47:02Z,codewrapped,0.1.0,Arka Khorchidian,MIT,1479505,"Spotify Wrapped for your code: your year in commits across every git repo on your machine, with a shareable card"
+2026-11-05T05:47:03Z,loosekeys,0.1.0,Arka Khorchidian,MIT,39395,"Find API keys and tokens sitting in plain text on your machine: shell history, .env files, AI tool configs. Masked output, nothing leaves your computer."
+2026-11-05T05:47:07Z,atraxis,1.0.2,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright © 2007 Free Software Foundation, Inc.…",8198512,Supervision and operator interfaces for authorized infrastructure workflows
+2026-11-05T05:47:10Z,shellwrapped,0.1.0,Arka Khorchidian,MIT,1478941,"Spotify Wrapped for your terminal: your shell history's year in review, with a shareable card"
+2026-11-05T05:47:17Z,fastapi-whatsapp-api,1.0.0,5MinutesAPI,,4058,FastAPI WhatsApp integration via Official Meta API.
+2026-11-05T05:48:08Z,tba-router-webauthn,0.4.0.dev2,,Apache-2.0,8100,HTTPS carrier binding for WebAuthn ceremonies.
+2026-11-05T05:48:19Z,odoo-whatsapp-alerts,1.0.0,5MinutesAPI,,4156,Automate Odoo ERP WhatsApp Alerts via Meta API.
+2026-11-05T05:50:15Z,tba-middleware-policy-enforcement-asgi,0.4.0.dev3,,Apache-2.0,2698,ASGI policy enforcement point using an injected decision client.
+2026-11-05T05:52:10Z,tba-app-backend-core,0.4.0.dev2,,Apache-2.0,47677,Shared layer-90 ASGI and router composition for TBA backend applications.
+2026-11-05T05:55:30Z,tba-app-backend-developer,0.4.0.dev2,,Apache-2.0,7169,Developer OIDC/OAuth backend application for TBA.
+2026-11-05T05:56:55Z,lite-agent-sdk,0.1.0,Zander Zemliak,MIT,87304,"Minimal, lightweight, provider-agnostic LLM agent SDK"
+2026-11-05T05:57:50Z,tba-app-backend-my-account,0.4.0.dev2,,Apache-2.0,17999,End-user account self-service backend application for TBA.
+2026-11-05T05:58:28Z,touchstone-us,0.1.0,,LicenseRef-Proprietary,325499,
+2026-11-05T05:58:40Z,hetero1d,0.1.0,Ravi Kumar <rkravi365@gmail.com>,MIT,53006,"1D semiconductor heterostructure solver: quantum wells, superlattices, electric and magnetic fields"
+2026-11-05T06:00:07Z,tba-app-backend-platform-administration,0.4.0.dev2,,Apache-2.0,17722,Platform owner and operator control-plane backend application for TBA.
+2026-11-05T06:02:39Z,tba-app-backend-policy-decision,0.4.0.dev3,,Apache-2.0,2944,Deployable platform policy decision service composition.
+2026-11-05T06:03:41Z,pyside-quasar,0.2.0,eagleye-china <zdt168@sina.cn>,MIT,157782,"The Quasar Framework for PySide — Material Design components, pure QPainter, zero QSS."
+2026-11-05T06:04:13Z,tieredq,0.1.0,,MIT,69340898,Trained exhaustive in-memory vector index with variance-aware bit allocation
+2026-11-05T06:05:04Z,tba-app-backend-public,0.4.0.dev2,,Apache-2.0,12729,Public OAuth/OIDC and human-login backend application for TBA.
+2026-11-05T06:07:20Z,tba-app-backend-relying-party,0.4.0.dev3,,Apache-2.0,3268,Deployable secure RP/BFF composition.
+2026-11-05T06:07:42Z,varselpfn,0.1.0,Omar Melikechi <omar.melikechi@duke.edu>,MIT,79486463,Variable selection with prior-data fitted networks: CD-PFN and PC-PFN
+2026-11-05T06:10:48Z,provecart-exam,0.1.0,,,11514,
+2026-11-05T06:10:59Z,tba-app-backend-resource-validation,0.4.0.dev2,,Apache-2.0,9858,"JWKS, introspection, and protected-resource validation backend application for TBA."
+2026-11-05T06:11:04Z,llama-index-tools-provecart,0.1.0,,,7890,
+2026-11-05T06:11:46Z,ragleap-optimizer,0.1.0,RagLeap,MIT,38797,"A measure-first layer that reduces token use of LLM requests: token accounting, exact repeated-context removal, bounded tool-output trimming, an exact-match cache that needs a tenant scope, retries a…"
+2026-11-05T06:11:50Z,bazaar-contrib-server-management,0.3.0rc1,,Apache-2.0,17523,"The server's default configuration, its composition and the import of 0.2's ~/.bcs"
+2026-11-05T06:13:22Z,tba-app-backend-service-administration,0.4.0.dev2,,Apache-2.0,6864,"Service, API-key, and workload identity administration backend application for TBA."
+2026-11-05T06:15:46Z,tba-app-backend-tenant-administration,0.4.0.dev2,,Apache-2.0,8779,Tenant-scoped administration backend application for TBA.
+2026-11-05T06:17:04Z,steerpane-sdk,0.1.0,Steerpane,Apache-2.0,48115,"Python client for Steerpane: remote browsers for AI agents, with human takeover."
+2026-11-05T06:18:41Z,michraz,0.1.0,Yoav Haimov <haimovyoav.work@gmail.com>,MIT,90528,One clean interface to Israeli public tenders.
+2026-11-05T06:19:39Z,purin,1.0.0,SOULS-TAMU contributors,Apache-2.0,1446402,Differentiable constrained projections and sparse numerical kernels in JAX
+2026-11-05T06:22:34Z,videoxplainer,0.3.3,Narayan Govindaraj,MIT,5885369,"Turn YouTube videos into token-budgeted, evidence-checked action briefs for LLMs."
