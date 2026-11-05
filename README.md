@@ -8,47 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 12:20 UTC
+## Latest list — 2026-11-05 13:20 UTC
 
-New packages created between 2026-11-05 11:18 UTC and 2026-11-05 12:20 UTC.
+New packages created between 2026-11-05 12:20 UTC and 2026-11-05 13:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-05T12-20-35-640743Z.csv)
+[Full CSV](data/new-packages-2026-11-05T13-20-34-392307Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-05 11:18:53 | [rentiger](https://pypi.org/project/rentiger/) | 0.0.1 |  | 1.5 kB | Reserved for Rentiger |
-| 2026-11-05 11:24:11 | [token-diet-cli](https://pypi.org/project/token-diet-cli/) | 0.1.0 | josephrotts <387283+josephrot… | 31.3 kB | Diagnostic tools and methodology to audit and optimize token footprint in AI co… |
-| 2026-11-05 11:24:47 | [livekit-plugins-murf-bvc](https://pypi.org/project/livekit-plugins-murf-bvc/) | 0.1.0 |  | 157.1 MB | Murf background voice cancellation for LiveKit Agents |
-| 2026-11-05 11:27:46 | [pipeloom-airflow](https://pypi.org/project/pipeloom-airflow/) | 0.6.0 | Emanuel Luis <emanuel.filho08… | 117.5 kB | Apache Airflow renderer for pipeloom: a compiled plan as one Airflow task per u… |
-| 2026-11-05 11:28:29 | [servo-embedder-tests](https://pypi.org/project/servo-embedder-tests/) | 0.1.0 |  | 79.9 kB | Embedder tests for Servo: what servoshell and its users do beyond WPT, on OpenH… |
-| 2026-11-05 11:29:36 | [trialmark](https://pypi.org/project/trialmark/) | 0.2.0 | PE (peshwar9) | 56.8 kB | Model acceptance tests for language models: your own test set, a pass mark set… |
-| 2026-11-05 11:33:30 | [s1-rad-cal](https://pypi.org/project/s1-rad-cal/) | 1.0.0 | "Aresys S.R.L." <info@aresys.… | 406.3 kB | Radiometric re-calibration tool for Sentinel1 products. |
-| 2026-11-05 11:33:37 | [smuod_common](https://pypi.org/project/smuod_common/) | 0.9.0 | Martin Høy <martin.hoy@dnv.co… | 251.3 kB | Common utilities for SMUOD |
-| 2026-11-05 11:34:15 | [emdashify](https://pypi.org/project/emdashify/) | 0.2.0 | edujbarrios | 27.0 kB | Convert double hyphens into em dashes in Python, Markdown, and Word documents.… |
-| 2026-11-05 11:41:28 | [trunft](https://pypi.org/project/trunft/) | 0.2.0 | Shan Konduru <ShanKonduru@gma… | 107.5 kB | TruNFT - unified Non-Functional Testing platform (CLI + MCP server) for Web, Mo… |
-| 2026-11-05 11:43:12 | [grai-gate](https://pypi.org/project/grai-gate/) | 0.1.4 | Adrian Peticila <adrian@grai.… | 12.4 kB | Deterministic anti-slop linter for markdown written by coding agents |
-| 2026-11-05 11:44:18 | [mcp-teamviewer](https://pypi.org/project/mcp-teamviewer/) | 0.0.1 | phsi <security@phsi.se> | 3.0 kB | Security research - dependency confusion canary (responsible disclosure) |
-| 2026-11-05 11:45:51 | [django-entra-staff](https://pypi.org/project/django-entra-staff/) | 0.2.0 |  | 76.1 kB | Staff sign-in for internal Django apps: Microsoft Entra, passwords with a Secon… |
-| 2026-11-05 11:45:57 | [neware-sql](https://pypi.org/project/neware-sql/) | 0.4.2 | Kristian Fredrik Klepp Thorbj… | 47.3 kB | Read Neware BTS test data from MySQL or local Parquet files into Polars DataFra… |
-| 2026-11-05 11:46:03 | [teamviewer-mcp-server](https://pypi.org/project/teamviewer-mcp-server/) | 0.0.1 | phsi <security@phsi.se> | 3.1 kB | Security research - dependency confusion canary (responsible disclosure) |
-| 2026-11-05 11:46:09 | [trame-sdk](https://pypi.org/project/trame-sdk/) | 0.1.0 |  | 36.1 kB | Python SDK for the Trame tenant API |
-| 2026-11-05 11:47:32 | [rails49-classifier](https://pypi.org/project/rails49-classifier/) | 0.1.0 |  | 5.7 MB | Cut patches from a camera frame and score them with the rails49 occupancy class… |
-| 2026-11-05 11:48:52 | [kvickchart](https://pypi.org/project/kvickchart/) | 0.4.0a1 | KvickChart contributors | 21.2 MB | Interactive KvickChart charts for Python scripts, VS Code and notebooks |
-| 2026-11-05 11:50:06 | [acquire-research-papers](https://pypi.org/project/acquire-research-papers/) | 0.16.0 | Zhiyuan Cai | 308.6 kB | Agent skill and CLI for verified research-paper acquisition, auditable corpus d… |
-| 2026-11-05 11:50:14 | [renderscreenshot](https://pypi.org/project/renderscreenshot/) | 1.0.2 | Simon Chiu <simon@renderscree… | 65.8 kB | Official Python SDK for RenderScreenshot - Screenshot API for developers |
-| 2026-11-05 11:50:35 | [astro-hosted-api-client](https://pypi.org/project/astro-hosted-api-client/) | 2.0.0 | Sainsbury's Tech | 563.2 kB | Python client for the Astronomer Astro API (unified v1 spec: Platform + IAM) |
-| 2026-11-05 11:51:20 | [repo-health-kit](https://pypi.org/project/repo-health-kit/) | 0.1.0 | Lord_Sumi | 11.3 kB | Audit basic repository documentation and configuration files |
-| 2026-11-05 11:51:57 | [egeria-trellis-analytics](https://pypi.org/project/egeria-trellis-analytics/) | 0.2.0 | Dan Wolfson | 153.3 kB | Analytic Library: routines and steps with an honest result envelope (measured /… |
-| 2026-11-05 11:56:37 | [dreep](https://pypi.org/project/dreep/) | 0.1.1 | Dreep | 113.9 kB | The official Python SDK for Dreep: media storage, image and video transformatio… |
-| 2026-11-05 12:04:39 | [fair-risk-engine](https://pypi.org/project/fair-risk-engine/) | 1.1.0 | Laura Voicu | 68.9 kB | Monte Carlo simulation engine for FAIR cyber risk quantification |
-| 2026-11-05 12:04:54 | [pap-verifier](https://pypi.org/project/pap-verifier/) | 0.1.0a2 | Agent Federation contributors | 47.6 kB | PAP v0.1 independent verifier (Phase 2a experimental) |
-| 2026-11-05 12:06:10 | [zallery](https://pypi.org/project/zallery/) | 0.0.1 | ConfUSIus developers | 61.1 kB | Build a light-and-dark example gallery for Zensical docs from jupytext scripts. |
-| 2026-11-05 12:08:18 | [modellens-mcp](https://pypi.org/project/modellens-mcp/) | 0.1.1 | Greatbeing | 28.1 kB | See which of your models actually works. MCP server + CLI that discovers, probe… |
-| 2026-11-05 12:09:31 | [sigforge](https://pypi.org/project/sigforge/) | 0.0.0 |  | 1.7 kB | Placeholder release reserving the sigforge project name. |
-| 2026-11-05 12:11:11 | [rawtrace-qc](https://pypi.org/project/rawtrace-qc/) | 0.1.0 | David M. Hollenstein | 249.0 kB | Extract TIC and scan-level traces from Thermo and Bruker mass spectrometry raw… |
-| 2026-11-05 12:12:16 | [codetraces](https://pypi.org/project/codetraces/) | 0.0.0 |  | 1.8 kB | Placeholder release reserving the codetraces project name. |
-| 2026-11-05 12:14:22 | [statementledger](https://pypi.org/project/statementledger/) | 0.1.0 | HenryNebula | 421.5 kB | Bank statement PDFs to verified ledgers: per-bank Python parsers behind an arit… |
-| 2026-11-05 12:15:55 | [copilot-tokens](https://pypi.org/project/copilot-tokens/) | 0.2.2 | yuyuanjingxuan | 28.5 kB | Token usage tracker for VS Code Copilot Chat. Zero-dependency CLI that reads th… |
-| 2026-11-05 12:16:41 | [londonaicentre-chestradschema](https://pypi.org/project/londonaicentre-chestradschema/) | 0.5.0 | "Dr. Joe Zhang" <jzhang@nhs.n… | 52.2 kB | Chest radiology |
-| 2026-11-05 12:18:49 | [recast-woof-nam](https://pypi.org/project/recast-woof-nam/) | 0.1.1 | Recast Systems | 49.4 MB | GPU port of the NOAA/NCEP NAM (NMMB dynamics + NAM physics) 12 km CONUS parent |
-| 2026-11-05 12:19:52 | [agy-switch](https://pypi.org/project/agy-switch/) | 0.1.0 | renatormc | 15.6 kB | Switch between Antigravity CLI (agy) accounts |
+| 2026-11-05 12:21:13 | [langchain-popnow](https://pypi.org/project/langchain-popnow/) | 0.1.0 | PopNow | 39.7 kB | LangChain integration for PopNow: tools that let LangChain and LangGraph agents… |
+| 2026-11-05 12:21:43 | [qeet-id](https://pypi.org/project/qeet-id/) | 0.1.0 | Qeet Group | 248.0 kB | The server-side Python SDK for Qeet ID: manage an organisation's people and acc… |
+| 2026-11-05 12:24:09 | [webai-provider](https://pypi.org/project/webai-provider/) | 1.1.0b0 | TahsinCr | 355.3 kB | Independent Python clients for ChatGPT, Gemini, Claude and Grok web sessions |
+| 2026-11-05 12:25:40 | [zoetty](https://pypi.org/project/zoetty/) | 0.1.0 | Paul Hallett <paulandrewhalle… | 153.4 kB | Looping terminal demo clips as plain SVG or HTML and CSS |
+| 2026-11-05 12:26:10 | [svetlana](https://pypi.org/project/svetlana/) | 0.2.1 |  | 421.0 kB | Local Russian corporate text redaction with reversible private maps |
+| 2026-11-05 12:26:51 | [function-for-turtle](https://pypi.org/project/function-for-turtle/) | 0.1.0 | 2bytes | 7.6 kB | Helpers for turtle: rect, kv, star, pr_tr, fill_circle, georgin, romashka, rozan |
+| 2026-11-05 12:26:52 | [amw-sdk](https://pypi.org/project/amw-sdk/) | 0.5.0 |  | 186.1 kB | Python SDK for governed MCP permits, idempotent agent-tool calls, receipts, and… |
+| 2026-11-05 12:28:27 | [spores](https://pypi.org/project/spores/) | 0.0.1 |  | 2.4 kB | Spores: one programming model for distributed applications on object storage -… |
+| 2026-11-05 12:28:29 | [seedbed](https://pypi.org/project/seedbed/) | 0.0.1 |  | 2.4 kB | Seedbed: one seed, every engine. A deterministic simulator that judges real pro… |
+| 2026-11-05 12:29:34 | [enchant-spellcheck](https://pypi.org/project/enchant-spellcheck/) | 2026.11.5.1 | Adam Dangoor <adamdangoor@gma… | 176.5 kB | Check text files against Enchant dictionaries, ignoring backtick spans. |
+| 2026-11-05 12:30:34 | [talk-with-fews](https://pypi.org/project/talk-with-fews/) | 1.0.1 | Mattijn van Hoek, David Haasn… | 230.6 kB | Talk with FEWS install |
+| 2026-11-05 12:36:21 | [biasid](https://pypi.org/project/biasid/) | 1.0.0 |  | 26.6 kB | biasid - a tool for analyzing transformation bias and robustness of AI-generate… |
+| 2026-11-05 12:38:16 | [qrcode-barcode-scanner](https://pypi.org/project/qrcode-barcode-scanner/) | 0.11.0 |  | 12.7 MB | QR decoding + scannability scoring for artistic, AI-generated, and photo-captur… |
+| 2026-11-05 12:38:32 | [nova-ta](https://pypi.org/project/nova-ta/) | 0.1.2 |  | 158.5 kB | Stateful technical-analysis indicators for real-time data. |
+| 2026-11-05 12:39:58 | [satzet](https://pypi.org/project/satzet/) | 1.0.0 |  | 32.9 kB | Python client for a wadeno-server WhatsApp gateway: sending, consent, broadcast… |
+| 2026-11-05 12:40:29 | [zont-mcp](https://pypi.org/project/zont-mcp/) | 1.3.2 | MAB2908 | 87.9 kB | MCP server for ZONT heating system control via AI / MCP-сервер для управления с… |
+| 2026-11-05 12:49:45 | [pystraylight](https://pypi.org/project/pystraylight/) | 0.1.0 | Simone Piscitelli <simone.pis… | 3.8 kB | Python package for managing stray light contamination in XMM - Newton observati… |
+| 2026-11-05 12:50:11 | [aibar](https://pypi.org/project/aibar/) | 0.54.0 |  | 265.9 kB | CLI usage monitor for Antigravity, OpenAI, OpenRouter, GitHub Copilot, Codex, a… |
+| 2026-11-05 12:51:00 | [wxbrief](https://pypi.org/project/wxbrief/) | 0.4.0 | Bill Kane | 1.2 MB | Terminal METAR/TAF briefing with colorways and plain-language translation |
+| 2026-11-05 12:52:58 | [fewsvisualiser](https://pypi.org/project/fewsvisualiser/) | 1.0.1 | Job Verkaik <verkaik@hkv.nl> | 291.5 kB | FEWSVisualiser: Insights for optimized Delft-FEWS configurations. |
+| 2026-11-05 12:55:16 | [cronboard-service](https://pypi.org/project/cronboard-service/) | 1.0.4 |  | 10.2 kB | Session D-Bus service that lets the Cronboard GNOME Shell extension read and ch… |
+| 2026-11-05 13:01:21 | [lineout-cli](https://pypi.org/project/lineout-cli/) | 0.1.0 |  | 2.5 MB | Render Lineout diagram JSON files to SVG, PNG or JPG |
+| 2026-11-05 13:03:32 | [datakrit](https://pypi.org/project/datakrit/) | 2.1.1 | Judika Marpaung | 1.2 MB | Check and clean table files, explicitly: a Python CLI, library, and local brows… |
+| 2026-11-05 13:03:58 | [brellium-api-client](https://pypi.org/project/brellium-api-client/) | 0.2.0 | Brellium API | 301.3 kB | The Brellium API gives your systems access to your organization's documents, au… |
+| 2026-11-05 13:04:06 | [inferencekit-cli](https://pypi.org/project/inferencekit-cli/) | 0.1.0 | Stellon Labs | 2.1 MB | Make your model serve faster on your GPU, and prove it. Skills for Claude Code,… |
+| 2026-11-05 13:04:39 | [neyra](https://pypi.org/project/neyra/) | 0.2.1 | Noah | 1.2 MB | Edit local model weights with patches that revert bit for bit. |
+| 2026-11-05 13:05:05 | [pilcrow-docx](https://pypi.org/project/pilcrow-docx/) | 0.1.1 |  | 48.3 kB | Readable DOCX companion diffs for ordinary Git workflows |
+| 2026-11-05 13:06:36 | [selin-vinyl-api](https://pypi.org/project/selin-vinyl-api/) | 0.1.0 |  | 17.1 kB | Official Python client for the Selin Vinyl API: music metadata, matching, credi… |
+| 2026-11-05 13:10:03 | [eyekind](https://pypi.org/project/eyekind/) | 0.5.0 | Jos De Roo | 149.6 kB | A dependency-free Python rule language with forward and backward reasoning and… |
+| 2026-11-05 13:10:37 | [query-viz](https://pypi.org/project/query-viz/) | 0.1.0 | Sakura Sky Engineering | 29.4 kB | Render tabular query results (list-of-dict rows) as chart images. Rows in, PNG… |
+| 2026-11-05 13:12:07 | [hyperoptimizer](https://pypi.org/project/hyperoptimizer/) | 0.1.0 | Hyperoptimizer | 37.6 kB | Python experiment tracking for HyperOptimizer |
+| 2026-11-05 13:13:35 | [sheeter](https://pypi.org/project/sheeter/) | 0.1.0 |  | 25.7 kB | Work with conversion of different types of sheets |
+| 2026-11-05 13:14:21 | [redberry-agent-sdk](https://pypi.org/project/redberry-agent-sdk/) | 0.0.0 | Redberry Labs | 2.3 kB | Reserved by Redberry Labs. No code; see README. |
+| 2026-11-05 13:14:23 | [redberry-infra](https://pypi.org/project/redberry-infra/) | 0.0.0 | Redberry Labs | 2.2 kB | Reserved by Redberry Labs. No code; see README. |
+| 2026-11-05 13:14:24 | [redberry-extractor](https://pypi.org/project/redberry-extractor/) | 0.0.0 | Redberry Labs | 2.3 kB | Reserved by Redberry Labs. No code; see README. |
+| 2026-11-05 13:14:25 | [redberry-cli](https://pypi.org/project/redberry-cli/) | 0.0.0 | Redberry Labs | 2.2 kB | Reserved by Redberry Labs. No code; see README. |
+| 2026-11-05 13:15:50 | [krakken](https://pypi.org/project/krakken/) | 0.1.0 |  | 82.0 kB | A collection of examples |

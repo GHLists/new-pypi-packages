@@ -1,41 +1,41 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-11-05T11:18:47.679902Z",
-    "path": "data/new-packages-2026-11-05T12-20-35-640743Z.csv",
-    "to": "2026-11-05T12:20:35.640743Z"
+    "count": 37,
+    "from": "2026-11-05T12:20:35.640743Z",
+    "path": "data/new-packages-2026-11-05T13-20-34-392307Z.csv",
+    "to": "2026-11-05T13:20:34.392307Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-05T12:37:49Z",
+      "package": "fews-networkvisualisation",
+      "since": "2026-11-05T12:20:35.640743Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-05T10:16:55Z",
       "package": "open_osc",
       "since": "2026-11-05T09:21:43.087092Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-05T09:03:44Z",
-      "package": "piyal_mcp",
-      "since": "2026-11-05T08:19:18.963926Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T11:33:28Z",
       "package": "rad-cal",
       "since": "2026-11-05T11:18:47.679902Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-05T08:55:38Z",
-      "package": "rboto-athena",
-      "since": "2026-11-05T08:19:18.963926Z",
+      "attempts": 1,
+      "created_at": "2026-11-05T12:41:40Z",
+      "package": "spaciv",
+      "since": "2026-11-05T12:20:35.640743Z",
       "version": null
     }
   ],
-  "serial": 43241487,
+  "serial": 43243619,
   "source_truncated": false,
-  "window": "2026-11-05T12:20:35.640743Z"
+  "window": "2026-11-05T13:20:34.392307Z"
 }
