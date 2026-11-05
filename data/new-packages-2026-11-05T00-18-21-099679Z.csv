@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T19:24:41Z,addon-sentry,0.1.0,José Argento,MIT,470235,"Checks a World of Warcraft addon (zip or folder) for warning signs before you install it: backdoors, gold-moving tricks, hidden code, executables."
+2026-11-04T23:20:28Z,kroma-om,0.2.0,"Lam Nguyen, Erika Barcelos, Roger French, Yinghui Wu",BSD-3-Clause,121115,Ontology matching with knowledge retrieval and large language models
+2026-11-04T23:21:11Z,aivy-mcp,0.2.0,Ivy Energy,Apache-2.0,26296,MCP server for the Aivy Developer API: let your AI assistant read and control your own solar + battery system.
+2026-11-04T23:21:57Z,deepdiscover-hydro,1.0.0,Vincent Adombi,BSD-3-Clause,115081,Conservative differentiable hydrological modeling with DiscoverUnits
+2026-11-04T23:23:41Z,mntoyg-forge,0.1.0,Forge Contributors,"MIT License Copyright (c) 2026 Forge Contributors Permission is hereby granted, free of charge, to…",370540,"Forge - an open-source, AI-first coding assistant for the terminal."
+2026-11-04T23:24:24Z,fastitch,0.1.0,Arka Khorchidian,MIT,2108783,"Fast NASDAQ TotalView-ITCH 5.0 parser: raw feed files to Polars, pandas, Arrow or Parquet, plus order-book reconstruction"
+2026-11-04T23:26:07Z,appsync-scalars,0.1.1,,MIT,959854,Validates AWS AppSync date and time scalar values.
+2026-11-04T23:30:08Z,panoptes-agentgate,0.0.1,Miguel Padilla,Apache-2.0,874418,"Permissions, approval and audit layer between an AI agent and a company's tools and documents."
+2026-11-04T23:31:35Z,a2qlinux,0.2.1,raman78,"MIT License Copyright (c) 2026 raman78 Permission is hereby granted, free of charge, to any person…",167738,"Questlog Desktop (AION 2 damage meter) on Linux under Proton, with live game traffic."
+2026-11-04T23:32:28Z,winvm,1.3.0,,MIT,193175,"Build and run slim, unattended Windows VMs on QEMU/KVM from small YAML image files"
+2026-11-04T23:32:55Z,copro-mcp,0.4.0,,MIT,295526,"MCP server that delegates side tasks from Claude Code to a pool of cloud/local LLM workers (Groq, Gemini, Mistral, DeepSeek, OpenRouter, Ollama) with routing, fallback, quota awareness and guardrails"
+2026-11-04T23:34:53Z,nodda-client,1.2.0,Nodda <soporte@nodda.es>,MIT,21960,Cliente oficial de la API de Nodda para emitir y consultar facturas VERI*FACTU (AEAT).
+2026-11-04T23:35:07Z,exodusii,26.10.29,Timothy Jesse Fuller,BSD-3-Clause,1034326,A modern pure-Python interface for Sandia Exodus II finite element databases.
+2026-11-04T23:37:22Z,sfdctrust,0.1.0,Jeff Shurtliff,MIT,162594,Unofficial Python SDK for the Salesforce My Trust Center API
+2026-11-04T23:42:09Z,micro-web3,0.1.0,Yabir Benchakhtir,MIT,34519,Minimal Ethereum JSON-RPC and ABI client
+2026-11-04T23:44:51Z,crewai-memory-chroma,0.1.0,Federico Laurianti,MIT,44973,A storage backend for the memory of CrewAI on a Chroma server.
+2026-11-04T23:46:11Z,bigquery-adbc,0.1.0,Fredrik Fornwall,Apache-2.0,20719216,Python bindings for the BigQuery ADBC driver
+2026-11-04T23:48:53Z,headerhawk-auditor,0.1.0,Noir Stack LLC,"Proprietary Software License — Free Use, No Modification",15484,"A lightweight, read-only HTTP security header and cookie auditor"
+2026-11-04T23:49:17Z,iocforge-cli,0.1.0,Noir Stack LLC,"Proprietary Software License — Free Use, No Modification",13600,"Offline threat indicator extraction, normalization and reporting"
+2026-11-04T23:49:28Z,metasleuth-osint,0.1.0,Noir Stack LLC,"Proprietary Software License — Free Use, No Modification",13434,"Offline metadata extraction for images, PDFs, and Office documents"
+2026-11-04T23:53:28Z,mv-academic-calendar,0.1.0,grootismore,MIT AND CC-BY-4.0,65146,"Maldives school academic calendar data, 2015 to 2027: terms, exams and holidays. Offline, no dependencies. Unofficial."
+2026-11-04T23:58:25Z,carets,0.1.0,Wispsy,MIT,22629,A dependency-free asyncio TUI toolkit for Python
+2026-11-05T00:00:26Z,nanoql,2.0,The nanoql Authors,Apache-2.0 AND BSD-3-Clause AND BSL-1.0 AND CC0-1.0 AND MIT AND Minpack AND SunPro AND LicenseRef-J…,31398916,"nanoql for Python: quantitative finance, stateless by design, through nanoql's C interface"
+2026-11-05T00:01:27Z,pbwire,0.1.7,jinganix,Apache-2.0,567159,"Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code"
+2026-11-05T00:17:03Z,jettison,0.1.0,,MIT,3238139,Native disk usage scanner with a Rust CLI and Python bindings
