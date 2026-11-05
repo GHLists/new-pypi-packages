@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T18:22:10Z,astoncli,0.1.1,,,113145,Automated Python repository migration CLI tool
+2026-11-05T18:26:25Z,source-robotics-leap-motion,0.1.0b1,Source Robotics,MIT,125044,Modern Leap Motion tracking and configurable robot-arm teleoperation primitives
+2026-11-05T18:29:51Z,sc92-public-define,0.3.1,sc92,MIT,28916,"Personal shared utilities: file lock, logging, MQTT publishing and YAML config helpers"
+2026-11-05T18:30:29Z,redpanda-security,0.1.0,RedPanda Security Team,"MIT License Copyright (c) 2026 RedPanda Contributors Permission is hereby granted, free of charge,…",357606,Red-team your chatbot before someone else does.
+2026-11-05T18:30:42Z,luckylucy.utils.images,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,10268,A collection of utilities I use across different projects (luckylucy.utils.images)
+2026-11-05T18:31:35Z,peritheos-datasets,0.18.0,,LicenseRef-Peritheos-Distribution,3425891,Optional source-scoped observation datasets for Peritheos
+2026-11-05T18:33:38Z,benvo,1.0.0,Coviola Group LLC,MIT,41257,Official Python library for the Benvo API
+2026-11-05T18:36:12Z,dex-connector-discord,0.1.0,,MIT,101214,"Discord channel, message, and reaction connector for Dex Flows"
+2026-11-05T18:37:24Z,annatar,0.1.0,Clint Valentine <valentine.clint@gmail.com>,MIT,7141904,Convert a multi-sample VCF of single cells into an AnnData h5ad.
+2026-11-05T18:39:43Z,luckylucy.utils.imports,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,14181,A collection of utilities I use across different projects (luckylucy.utils.imports)
+2026-11-05T18:39:56Z,ioc-scope-norm,1.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,199940,OTel(ioa_observe) span -> Knowledge Graph normalization.
+2026-11-05T18:40:03Z,ioc-scope-mce-core,2.0.0rc1,Outshift Open <oss-github@cisco.com>,Apache-2.0,210189,Metrics Computation Engine core
+2026-11-05T18:40:53Z,luckylucy.utils.interactions,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,13777,A collection of utilities I use across different projects (luckylucy.utils.interactions)
+2026-11-05T18:42:02Z,luckylucy.utils.iterators,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,11202,A collection of utilities I use across different projects (luckylucy.utils.iterators)
+2026-11-05T18:42:38Z,pow-agent,0.1.0,,AGPL-3.0-only,1253148,"Proof of Work agents: first-class, labelled machine accounts on the Offline Protocol SDK (CLI `pow`, MCP server, validator, curator, scout)."
+2026-11-05T18:43:46Z,bosco-labs-data-mcp,0.1.0,,MIT,25453,"MCP server: SEC insider trades and filings, US House trades, DoD contracts, EU tenders and European company financials, via Apify."
+2026-11-05T18:44:46Z,metadiscovery-client,0.1.0,AINovum,Apache-2.0,16725,Python client and CLI for MetaDiscovery graph-powered discovery workflows
+2026-11-05T18:46:01Z,cactus-engine,2.2.2,Cactus Compute,Cactus Compute License,49996046,"On-device AI inference — LLM, vision, speech, embeddings, and RAG"
+2026-11-05T18:49:58Z,pow-core,0.2.0,,AGPL-3.0-only,252870,"Proof of Work protocol core for Python agents: canonical JSON, envelopes, Ed25519, validation, delegations, buckets and a SQLite event store (byte-compatible with @pow/core)."
+2026-11-05T18:52:08Z,riciplay-mitmproxy,12.3.1.1,Zaidux,"Copyright (c) 2013, Aldo Cortesi. All rights reserved. Permission is hereby granted, free of charge…",2164678,Temporary Riciplay-maintained mitmproxy 12.3.1 compatibility fork with Tornado 6.6 support.
+2026-11-05T18:53:23Z,kikolens,1.0.0,Francisco-B-O <balonero18@gmail.com>,MIT,1134534,"Private, local-first data analysis with AutoML, neural networks and local LLMs"
+2026-11-05T18:54:27Z,isitthewifi,0.1.0,Arka Khorchidian,MIT,43423,"Is it the Wi-Fi? Grades your connection A-F (latency under load, jitter, packet loss, DNS) and tells you in plain English whether the problem is your Wi-Fi, your router, your ISP, or DNS."
+2026-11-05T18:54:34Z,whotalks,0.1.0,Arka Khorchidian,MIT,37301,"Who does your computer talk to? Watches outbound connections for a minute and groups them by company and app, with a privacy grade. No root needed."
+2026-11-05T18:54:52Z,intentsity,1.0.0,TechnoPerVRt,MIT,37024,"IntensityIntent v1 wire contract: encoder, decoder, capability handshake, conformance vectors"
+2026-11-05T18:57:05Z,patentref-mcp,0.4.0,,MIT,18031,"MCP server for the PatentRef API: check_patent_status, search_patents, similar_patents, get_claim_tree, get_patent_brief and the rules tools, over stdio or streamable HTTP"
+2026-11-05T18:57:11Z,sourcemed-mcp,1.0.1,,MIT,13350,Source-verified medical evidence library for agents: every card traces to a checked primary source (PMID/DOI).
+2026-11-05T18:57:17Z,nordstjernen-browser,1.0.44,Andreas Røsdal <andreas.rosdal@gmail.com>,LicenseRef-NSL-1.0 OR GPL-3.0-or-later,61161,"Nordstjernen Web Browser: a minimal, secure web browser written from scratch in C with GTK 4"
+2026-11-05T18:57:54Z,perceiving-machine,0.0.1,"Machina Ratiocinatrix <machina.ratio@gmail.com>, Alexander Fedotov <alex.fedotov@aol.com>",,49576,A machine that attains awareness or understanding of ideas and meanings.
+2026-11-05T19:00:28Z,symregpy,0.1.0,Julien LIVET <julien.livet@free.fr>,Apache-2.0,125159708,Symbolic regression library with Python bindings
+2026-11-05T19:01:41Z,pycanonic,0.2.0,RichAPI AI (TexAu OÜ),MIT,11097274,Compile JSON mapping specs into fast mappers from provider responses to your canonical schema. Rust core.
+2026-11-05T19:04:43Z,envweaver,0.0.1,,,2441108,"Unified infrastructure for agent tasks, environments, and evaluation."
+2026-11-05T19:05:23Z,baseten-loops-cookbook,0.2.0a3,,MIT,995156,"RL and SFT recipes on Baseten Loops: train your agent on your tasks, or fine-tune on conversations."
+2026-11-05T19:05:27Z,crissp,0.1.0,Richard Edens,Apache-2.0,545456,"C.R.I.S.S.P.: a way of working for a product owner, Claude and its agents in one repository, with the guards that prove it"
+2026-11-05T19:05:59Z,nrtqclib,0.1.0,Takaya Saito <takaya.saito@outlook.com>,MIT,272291,"Near-real-time quality control (NRT QC) for CTD ocean profiles, built on aiqclib"
+2026-11-05T19:07:30Z,qwenpaw-data-console,0.3.3,QwenPaw-Data Contributors,Apache-2.0,18591326,Reusable local chat portal and DataBridge management UI for QwenPaw-Data.
+2026-11-05T19:11:13Z,ni.measurements.data.v2.client,1.0.0.dev0,NI,MIT,9759,gRPC Client for NI Data Store Service
+2026-11-05T19:12:14Z,vt-sentinel,1.0.0,Ayan Mondal <ayanmondal1805@gmail.com>,,26131,"A modular, thread-safe Python security agent using the VirusTotal v3 API."
+2026-11-05T19:12:35Z,cpos,0.0.1,,,2256,Conic programming via operator splitting for quadratic cone programs
+2026-11-05T19:15:34Z,CBACABLab,0.0.1,Ben Smith <bosmith@unomaha.edu>,MIT,14881058,"Tools for loading, joining, and plotting survey and iMotions sensor data."
+2026-11-05T19:17:35Z,organetic-yuce,0.1.5,Aset Uisin <support@organetic.ai>,Apache-2.0,10909,A thin Python client of the YuCe audit server
+2026-11-05T19:18:11Z,fence-evidence-mcp,0.1.0,Fence Contributors,MIT,58957,Statistical evidence-sufficiency MCP server with class-conditional split conformal prediction and conservative abstention.

@@ -1,41 +1,48 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-11-05T17:20:30.485497Z",
-    "path": "data/new-packages-2026-11-05T18-21-06-596046Z.csv",
-    "to": "2026-11-05T18:21:06.596046Z"
+    "count": 41,
+    "from": "2026-11-05T18:21:06.596046Z",
+    "path": "data/new-packages-2026-11-05T19-19-40-840192Z.csv",
+    "to": "2026-11-05T19:19:40.840192Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T17:25:01Z",
       "package": "astral-yaml",
       "since": "2026-11-05T17:20:30.485497Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-05T15:45:44Z",
       "package": "django-install",
       "since": "2026-11-05T15:18:46.492388Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-05T18:40:05Z",
+      "package": "ioc-scope-mce",
+      "since": "2026-11-05T18:21:06.596046Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-05T15:41:22Z",
       "package": "mas-lab-library-kg",
       "since": "2026-11-05T15:18:46.492388Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-05T16:47:34Z",
       "package": "meltanolabs-target-hubspot",
       "since": "2026-11-05T16:20:21.34564Z",
       "version": null
     }
   ],
-  "serial": 43256646,
+  "serial": 43259110,
   "source_truncated": false,
-  "window": "2026-11-05T18:21:06.596046Z"
+  "window": "2026-11-05T19:19:40.840192Z"
 }
