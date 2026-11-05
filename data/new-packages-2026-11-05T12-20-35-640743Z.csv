@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T11:18:53Z,rentiger,0.0.1,,MIT,1519,Reserved for Rentiger
+2026-11-05T11:24:11Z,token-diet-cli,0.1.0,josephrotts <387283+josephrotts@users.noreply.github.com>,MIT,31256,Diagnostic tools and methodology to audit and optimize token footprint in AI coding workflows
+2026-11-05T11:24:47Z,livekit-plugins-murf-bvc,0.1.0,,,157118850,Murf background voice cancellation for LiveKit Agents
+2026-11-05T11:27:46Z,pipeloom-airflow,0.6.0,Emanuel Luis <emanuel.filho08@gmail.com>,Apache-2.0,117454,Apache Airflow renderer for pipeloom: a compiled plan as one Airflow task per unit.
+2026-11-05T11:28:29Z,servo-embedder-tests,0.1.0,,Apache-2.0 OR MIT,79910,"Embedder tests for Servo: what servoshell and its users do beyond WPT, on OpenHarmony, HarmonyOS and desktop"
+2026-11-05T11:29:36Z,trialmark,0.2.0,PE (peshwar9),Apache-2.0,56809,"Model acceptance tests for language models: your own test set, a pass mark set before the run, and a record anyone can rerun."
+2026-11-05T11:33:30Z,s1-rad-cal,1.0.0,"""Aresys S.R.L."" <info@aresys.it>","MIT License Copyright (C) Aresys S.r.l. <info@aresys.it> Permission is hereby granted, free of char…",406266,Radiometric re-calibration tool for Sentinel1 products.
+2026-11-05T11:33:37Z,smuod_common,0.9.0,Martin Høy <martin.hoy@dnv.com>,MIT,251304,Common utilities for SMUOD
+2026-11-05T11:34:15Z,emdashify,0.2.0,edujbarrios,BSD-3-Clause-Attribution,26966,"Convert double hyphens into em dashes in Python, Markdown, and Word documents. No AI required."
+2026-11-05T11:41:28Z,trunft,0.2.0,Shan Konduru <ShanKonduru@gmail.com>,MIT,107526,"TruNFT - unified Non-Functional Testing platform (CLI + MCP server) for Web, Mobile Native, Mobile Browser and Mobile Hybrid apps"
+2026-11-05T11:43:12Z,grai-gate,0.1.4,Adrian Peticila <adrian@grai.page>,MIT,12444,Deterministic anti-slop linter for markdown written by coding agents
+2026-11-05T11:44:18Z,mcp-teamviewer,0.0.1,phsi <security@phsi.se>,MIT,3031,Security research - dependency confusion canary (responsible disclosure)
+2026-11-05T11:45:51Z,django-entra-staff,0.2.0,,,76077,"Staff sign-in for internal Django apps: Microsoft Entra, passwords with a Second step, and access groups, on django-allauth."
+2026-11-05T11:45:57Z,neware-sql,0.4.2,Kristian Fredrik Klepp Thorbjørnsen,,47342,Read Neware BTS test data from MySQL or local Parquet files into Polars DataFrames
+2026-11-05T11:46:03Z,teamviewer-mcp-server,0.0.1,phsi <security@phsi.se>,MIT,3121,Security research - dependency confusion canary (responsible disclosure)
+2026-11-05T11:46:09Z,trame-sdk,0.1.0,,MIT,36065,Python SDK for the Trame tenant API
+2026-11-05T11:47:32Z,rails49-classifier,0.1.0,,MIT,5683557,Cut patches from a camera frame and score them with the rails49 occupancy classifier
+2026-11-05T11:48:52Z,kvickchart,0.4.0a1,KvickChart contributors,MIT,21170538,"Interactive KvickChart charts for Python scripts, VS Code and notebooks"
+2026-11-05T11:50:06Z,acquire-research-papers,0.16.0,Zhiyuan Cai,MIT,308574,"Agent skill and CLI for verified research-paper acquisition, auditable corpus discovery, literature research, and local PDF/BibTeX library management"
+2026-11-05T11:50:14Z,renderscreenshot,1.0.2,Simon Chiu <simon@renderscreenshot.com>,MIT,65845,Official Python SDK for RenderScreenshot - Screenshot API for developers
+2026-11-05T11:50:35Z,astro-hosted-api-client,2.0.0,Sainsbury's Tech,,563167,Python client for the Astronomer Astro API (unified v1 spec: Platform + IAM)
+2026-11-05T11:51:20Z,repo-health-kit,0.1.0,Lord_Sumi,,11307,Audit basic repository documentation and configuration files
+2026-11-05T11:51:57Z,egeria-trellis-analytics,0.2.0,Dan Wolfson,Apache-2.0,153323,"Analytic Library: routines and steps with an honest result envelope (measured / nothing found / not established / not applicable), discovered through the pyegeria.analytics entry point. Installed by…"
+2026-11-05T11:56:37Z,dreep,0.1.1,Dreep,MIT,113934,"The official Python SDK for Dreep: media storage, image and video transformation, document conversion, OCR and background removal."
+2026-11-05T12:04:39Z,fair-risk-engine,1.1.0,Laura Voicu,CC-BY-NC-SA-4.0,68926,Monte Carlo simulation engine for FAIR cyber risk quantification
+2026-11-05T12:04:54Z,pap-verifier,0.1.0a2,Agent Federation contributors,MIT,47640,PAP v0.1 independent verifier (Phase 2a experimental)
+2026-11-05T12:06:10Z,zallery,0.0.1,ConfUSIus developers,BSD-3-Clause,61149,Build a light-and-dark example gallery for Zensical docs from jupytext scripts.
+2026-11-05T12:08:18Z,modellens-mcp,0.1.1,Greatbeing,MIT,28113,"See which of your models actually works. MCP server + CLI that discovers, probes, ranks and recommends models across OpenAI-compatible gateways."
+2026-11-05T12:09:31Z,sigforge,0.0.0,,,1732,Placeholder release reserving the sigforge project name.
+2026-11-05T12:11:11Z,rawtrace-qc,0.1.0,David M. Hollenstein,Apache-2.0,248984,Extract TIC and scan-level traces from Thermo and Bruker mass spectrometry raw files and generate interactive HTML QC reports
+2026-11-05T12:12:16Z,codetraces,0.0.0,,,1758,Placeholder release reserving the codetraces project name.
+2026-11-05T12:14:22Z,statementledger,0.1.0,HenryNebula,MIT,421542,Bank statement PDFs to verified ledgers: per-bank Python parsers behind an arithmetic gate
+2026-11-05T12:15:55Z,copilot-tokens,0.2.2,yuyuanjingxuan,MIT,28505,Token usage tracker for VS Code Copilot Chat. Zero-dependency CLI that reads the local debug logs.
+2026-11-05T12:16:41Z,londonaicentre-chestradschema,0.5.0,"""Dr. Joe Zhang"" <jzhang@nhs.net>",LicenseRef-Proprietary,52241,Chest radiology
+2026-11-05T12:18:49Z,recast-woof-nam,0.1.1,Recast Systems,Apache-2.0,49355960,GPU port of the NOAA/NCEP NAM (NMMB dynamics + NAM physics) 12 km CONUS parent
+2026-11-05T12:19:52Z,agy-switch,0.1.0,renatormc,MIT,15581,Switch between Antigravity CLI (agy) accounts
