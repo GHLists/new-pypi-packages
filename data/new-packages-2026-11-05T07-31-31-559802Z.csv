@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T06:23:51Z,pipeloom-spark,0.4.0,Emanuel Luis <emanuel.filho08@gmail.com>,Apache-2.0,85506,"Spark engine for pipeloom: DataFrames, Spark SQL and Delta tables, local or through Spark Connect."
+2026-11-05T06:25:15Z,ohagi,1.0.0,SOULS-TAMU contributors,Apache-2.0,985582,Composable constrained learning and differentiable sparse optimization in JAX
+2026-11-05T06:28:47Z,graph-databases,20210214.2,The Sage Developers,GPL-2.0-or-later,937762,Graph database resources for SageMath and other Python applications
+2026-11-05T06:29:06Z,polytope-databases,20170220.2,The Sage Developers,GPL-2.0-or-later,124145,Databases of two- and three-dimensional reflexive polytopes
+2026-11-05T06:29:17Z,elliptic-curve-databases,0.8.3,SageMath Developers,GPL-2.0-or-later,9298132,Elliptic-curve databases for SageMath and other Python software
+2026-11-05T06:29:24Z,daehn,2.0.0,SOULS-TAMU contributors,Apache-2.0,240748,Differential-algebraic neural modeling with hard constraint projections in JAX
+2026-11-05T06:30:40Z,matrix-api,1.1.1,,,1392709,MatriX 金融数据 API（量化研究取数）
+2026-11-05T06:30:47Z,matrix-api-mcp,1.1.1,,,13978,MatriX MCP 工具层（AI 助手接入金融数据查询）
+2026-11-05T06:31:32Z,wb-clouddocs-mcp,1.2.0,,,241875,云文档协作连接器（云端层对接开放平台：云文档/云空间/多维表格，含本地免密钥文档生成）
+2026-11-05T06:36:54Z,saccade-ai,0.1.2,Daksh Patel <helloitsdaksh007@gmail.com>,MIT,1139361,Intrinsic Attention Bottlenecks for Vision Transformers & LLM Prompt Compression.
+2026-11-05T06:43:32Z,alliumpy,3.6.1,,Apache-2.0,10461494,"The Allium specification parser and checker for Python, and the allium command for uv users"
+2026-11-05T06:45:07Z,zwcad-mcp,0.3.5,,MIT,93844,MCP server driving ZWCAD platform and ZWCAD Mechanical via COM
+2026-11-05T06:48:30Z,maque-core,1.3.6,gqx123,MIT,125001,"Lightweight, extensible Python Agent framework with ReAct loop, auto tool discovery, and budget protection."
+2026-11-05T06:48:39Z,swarmauri_transport_httpx,0.1.0.dev5,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",10323,"Synchronous, asynchronous, buffered, and streaming HTTPX transport for Swarmauri."
+2026-11-05T06:49:12Z,swarmauri_transport_retry,0.1.0.dev1,Jacob Stewart,"Copyright 2026 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",10180,"Policy-driven synchronous, asynchronous, and streaming HTTP retries for Swarmauri clients."
+2026-11-05T06:49:43Z,swarmauri_transport_aws_eventstream,0.1.0.dev1,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",14026,Amazon Bedrock bidirectional EventStream transport for Swarmauri live models.
+2026-11-05T06:50:45Z,soblendwa,0.1.0,Soblend Development Studio,MIT,40040696,SoblendWA for Python: the Rust WhatsApp Web multi-device engine by Soblend Development Studio.
+2026-11-05T06:50:47Z,swarmauri_provider_amazon_nova,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",11000,Aggregated Amazon Nova provider resources for Swarmauri models.
+2026-11-05T06:50:53Z,pantalla,0.3.0,phernandez102,MIT,448199,"gotoxy para el siglo XXI: colores, cajas, menús, letras ASCII, ratón, spinners y juegos sin bucles en la terminal. En español y pensada para aprender Python."
+2026-11-05T06:52:09Z,cassandra-ai,0.3.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",228529,Cassandra - the meta-agent that supervises other LLM agents through Phoenix observability
+2026-11-05T06:52:23Z,swarmauri_provider_openai,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",10518,Aggregated OpenAI provider resources for Swarmauri models.
+2026-11-05T06:53:41Z,openrois-components-core,0.1.0a1,OpenRoIS Community,Apache-2.0,49818,OpenRoIS component SDK: write a RoIS HRI Component as a Python class
+2026-11-05T06:54:09Z,sapancal,0.2.0,,MIT,64341,"The SapanCal API client for Python: connect Google and Microsoft calendars, find availability, write events, verify webhooks."
+2026-11-05T06:56:58Z,swarmauri_provider_gemini,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",10351,Aggregated Google Gemini provider resources for Swarmauri models.
+2026-11-05T06:57:25Z,tokentrail,0.1.0,Sunil Bodeddula,Apache-2.0,132865,"Local telemetry and dashboard for AI coding agents: tokens, tools, skills, health and shipped code."
+2026-11-05T06:57:46Z,dex-connector-cohere,0.1.0,,MIT,88492,Cohere connector for Dex Flows
+2026-11-05T06:59:16Z,dex-connector-contentful,0.1.0,,MIT,86854,Contentful connector for Dex Flows
+2026-11-05T07:00:04Z,swarmauri_provider_qwen,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",9306,Aggregated Qwen provider resources for Swarmauri models.
+2026-11-05T07:00:34Z,provecart,0.1.0,,,18645,
+2026-11-05T07:00:45Z,dex-connector-datadog,0.1.0,,MIT,89637,Datadog connector for Dex Flows
+2026-11-05T07:02:00Z,swarmauri_provider_xai,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",10777,Aggregated xAI provider resources for Swarmauri models.
+2026-11-05T07:03:48Z,provecart-adk,0.1.0,,,16580,
+2026-11-05T07:03:59Z,swarmauri_provider_openrouter,0.1.0.dev1,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",13077,"OpenRouter provider configuration, routing, catalogs, errors, and tool schemas for Swarmauri."
+2026-11-05T07:05:03Z,deeptunnelio,0.0.1,DeepTunnel <support@deeptunnel.io>,MIT,1692,Reserved for DeepTunnel
+2026-11-05T07:05:57Z,swarmauri_live_model_amazon_nova,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",11274,Amazon Nova Sonic bidirectional HTTP/2 model adapter for Swarmauri.
+2026-11-05T07:07:54Z,swarmauri_live_model_gemini,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",12429,Gemini Live bidirectional multimodal model adapter for Swarmauri.
+2026-11-05T07:09:46Z,swarmauri_live_model_openai,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",12794,OpenAI Realtime and persistent Responses WebSocket model adapters for Swarmauri.
+2026-11-05T07:11:37Z,swarmauri_live_model_qwen,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",10616,Qwen Omni Realtime multimodal model adapter for Swarmauri.
+2026-11-05T07:13:34Z,swarmauri_live_model_xai,0.1.0.dev3,Jacob Stewart,"Copyright 2024 Jacob Stewart Licensed under the Apache License, Version 2.0 (the ""License""); you ma…",10362,xAI realtime bidirectional model adapter for Swarmauri.
+2026-11-05T07:14:04Z,memtrails,0.4.1,Corneliu Maftuleac,MIT,333917,"Retrieval and exploration for any text — e-mail, chat, notes, documents, news, commits, conversations. Searchable at once, on your own machine, in any language; optional consolidation into typed know…"
+2026-11-05T07:15:42Z,swarmauri_llm_azureopenai,0.11.0.dev2,Jacob Stewart,Apache-2.0,12013,Provider-native Swarmauri chat and tool-calling adapters for Azure OpenAI.
+2026-11-05T07:16:13Z,alai-sh,0.1.0,Jordan Borean,MIT,44429838,A fast package and environment manager for Ansible collections.
+2026-11-05T07:23:36Z,kovac,1.0.0,Strategos <r@strategos.au>,Proprietary,6182,Strategos project scaffold and namespace tooling. by Strategos.
+2026-11-05T07:24:06Z,citatio,1.0.0,Strategos <r@strategos.au>,Proprietary,6186,Australian legal citation formatting. by Strategos.
+2026-11-05T07:24:29Z,connexio,1.0.0,Strategos <r@strategos.au>,Proprietary,6209,Legislation cross-reference and linking. by Strategos.
+2026-11-05T07:26:00Z,pailow,0.3.0,pailow,MIT,127934,Container-based text overlay CLI for images — bridge between Pillow and LLMs
+2026-11-05T07:26:11Z,datamasque-databricksapp,0.0.1,DataMasque Ltd,Apache-2.0,11274,"Reserved name. The DataMasque engine for Databricks ships inside the DataMasque Databricks App, not from PyPI."
+2026-11-05T07:27:36Z,harbor-aiops,0.2.0,Wei Zhou <zhouwei008@gmail.com>,MIT,146067,"Governed Harbor registry diagnosis for health, storage, GC, replication and retention."
+2026-11-05T07:29:57Z,qizhuayu-utils,0.1.3,,,4693,一个用于学习 Python 公共库构建和发布的示例工程
