@@ -1,41 +1,41 @@
 {
   "list": {
     "count": 29,
-    "from": "2026-11-05T09:21:43.087092Z",
-    "path": "data/new-packages-2026-11-05T10-18-46-460176Z.csv",
-    "to": "2026-11-05T10:18:46.460176Z"
+    "from": "2026-11-05T10:18:46.460176Z",
+    "path": "data/new-packages-2026-11-05T11-18-47-679902Z.csv",
+    "to": "2026-11-05T11:18:47.679902Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-05T07:50:07Z",
       "package": "livekit-plugins-kalpa",
       "since": "2026-11-05T07:31:31.559802Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T10:16:55Z",
       "package": "open_osc",
       "since": "2026-11-05T09:21:43.087092Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-05T09:03:44Z",
       "package": "piyal_mcp",
       "since": "2026-11-05T08:19:18.963926Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-05T08:55:38Z",
       "package": "rboto-athena",
       "since": "2026-11-05T08:19:18.963926Z",
       "version": null
     }
   ],
-  "serial": 43237135,
+  "serial": 43239085,
   "source_truncated": false,
-  "window": "2026-11-05T10:18:46.460176Z"
+  "window": "2026-11-05T11:18:47.679902Z"
 }
