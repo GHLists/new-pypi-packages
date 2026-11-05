@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T02:19:59Z,sparkless-connect,4.19.0,,MIT,23600,Lightweight Sparkless server and Spark Connect client lifecycle helpers
+2026-11-05T02:20:29Z,sparkless-server,4.19.0,,MIT,68006811,Platform-specific native Polars HTTP and Spark Connect server
+2026-11-05T02:20:37Z,sparkless-server-duckdb,4.19.0,,MIT,138411759,Platform-specific Polars server with optional DuckDB source support
+2026-11-05T02:26:31Z,pysubnettree-rs,0.1.0,Georges Toth <georges@trypill.org>,Apache-2.0,19343841,"Fast, memory-efficient longest-prefix-match lookups of IPv4/IPv6 subnets, written in Rust"
+2026-11-05T02:29:31Z,ltc-paper-pdf,0.1.1,,,1639504,Standalone LTC paper exhibit scripts and assets for Python and pdfLaTeX
+2026-11-05T02:38:30Z,nlalpha-capability,0.2.0,,AGPL-3.0-or-later,45113,NLAlpha capability discovery MCP server.
+2026-11-05T02:39:45Z,nlalpha-yfinance,0.1.1,,AGPL-3.0-or-later,47988,Yahoo Finance daily data provider for NLAlpha
+2026-11-05T02:43:55Z,pavvis,0.1.0,Jack Bruton <jack.bruton@uwa.edu.au>,MIT,83933,Visualisation tools for gene Presence/Absence Variation (PAV) matrix data
+2026-11-05T02:47:11Z,aegis-ai-suite,1.0.4,Sachin Bose Pulikkathara <sachin.bose.p@gmail.com>,Open Commercial and Internal Use,81296639,"aegisCore AI Workspace Suite — Enterprise Multi-Agent Core CRM, Standalone Companion Chat, and Local Companion Agent"
+2026-11-05T02:48:16Z,odoo-addons-oca-connector-mercadolibre,19.0.20261103.0,,,1401,
+2026-11-05T02:52:49Z,faker-orgchart,0.1.0,Steve Walker,MIT,13055,"Faker provider for org charts: job levels, leadership titles, and who reports to whom."
+2026-11-05T02:53:37Z,tim-kelley,0.1.0,Tim Kelley <webologist@enterprisesoftware.biz>,"BSD 3-Clause License Copyright (c) 2026, Tim Kelley All rights reserved. Redistribution and use in…",7730,My first package!
+2026-11-05T02:57:32Z,rcp-ndcg,9999.0.0,Security Researcher <security-research@example.com>,MIT,2058,SECURITY RESEARCH -- dependency confusion PoC for cohere-ai/rcp-ndcg. See README.
+2026-11-05T02:58:46Z,ltc-paper-scripts,0.1.0,,,806963,LTC paper PDF scripts and assets only
+2026-11-05T03:00:22Z,naka,0.3.0,Lakshya Bhardwaj,Apache-2.0,2650708,"Open-source runtime firewall for AI agents. Stops poisoned tools, rug-pulls, data leaks, AI worms and memory poisoning in MCP traffic."
+2026-11-05T03:01:33Z,pmw-ads,1.0.0,Subhranil Naskar,,13585,"Deterministic Performance Marketing Utility: Google Ads Keyword Wrapper, Meta CAPI Payload Validator, and Ad Auction Unit Economics Calculator."
+2026-11-05T03:02:00Z,nookara,0.8.0,Ikelene,MIT,239186,"Python SDK for Nookara: sign-in, profiles, friends, chat, credits and payments, storage, and bots."
+2026-11-05T03:05:27Z,gzcli,0.1.0,,MIT,23645,CLIHub: 一个父指令统一网关，将团队 HTTP 接口以子指令方式对外提供
+2026-11-05T03:05:36Z,rosame,0.1.0,"Kai Xi, Stephen Gould, Sylvie Thiébaux",CC-BY-4.0,88782,Neuro-symbolic learning of lifted STRIPS action models from (probabilistic) state traces
+2026-11-05T03:07:21Z,continuum-engine-client,1.0.0,Your Name <your.email@example.com>,,16747,Continuum Engine - OSS Client Kernel for Python
+2026-11-05T03:09:47Z,gsnet-sdk,0.1.0,chenzh05,MIT,190046,Python SDK and CLI for the GSnet platform
+2026-11-05T03:11:47Z,protect-context,2.0.0,,MIT,167787,"protect-context agent guardrail suite: shared store, MCP server (fastmcp), CLI"
+2026-11-05T03:13:20Z,skyxiaobing-mcp-demo,0.1.0,Xiaobing.Li,,2968,Add your description here
+2026-11-05T03:14:41Z,hashfasta,0.1.0,Rob Edwards <robert.edwards@flinders.edu.au>,MIT,23077,"Convert FASTA to HashFASTA: records keyed by the SHA-256 of their normalized sequence, gzip output"
+2026-11-05T03:16:11Z,chickensmoothie,0.1.0,Haru,ISC,20801,Unofficial async Python client for Chicken Smoothie

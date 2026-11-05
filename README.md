@@ -8,34 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 02:18 UTC
+## Latest list — 2026-11-05 03:19 UTC
 
-New packages created between 2026-11-05 01:20 UTC and 2026-11-05 02:18 UTC.
+New packages created between 2026-11-05 02:18 UTC and 2026-11-05 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-05T02-18-16-461556Z.csv)
+[Full CSV](data/new-packages-2026-11-05T03-19-15-662669Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-05 01:22:11 | [migkit](https://pypi.org/project/migkit/) | 0.2.0 | arkashira | 14.9 MB | Verify, repair, and move databases across engines - without trusting the mover. |
-| 2026-11-05 01:23:33 | [koreader_D00901](https://pypi.org/project/koreader_D00901/) | 0.3.0 | Seth Barrett | 58.5 kB | Install KOReader on a Kindle Keyboard (K3) from Linux. |
-| 2026-11-05 01:26:11 | [mjcf-to-urdf](https://pypi.org/project/mjcf-to-urdf/) | 0.1.1 | Jeff Hykin <jeff.hykin@gmail.… | 100.7 kB | Convert MuJoCo MJCF to URDF, string in and string out, using the compiled model… |
-| 2026-11-05 01:27:28 | [sphinx-eu-ai-label](https://pypi.org/project/sphinx-eu-ai-label/) | 1.0.0 | Kristian Glass | 202.5 kB | Sphinx extension for adding the European Commission's AI-generated content labe… |
-| 2026-11-05 01:31:31 | [asr-polish](https://pypi.org/project/asr-polish/) | 0.10.0 | angus-hu-gzy | 291.1 kB | B站字幕批量抓取与本地任务队列：单视频 / UP主 / 合集 / 搜索批量导出 txt/srt/json/md，附带中文 ASR 术语订正与质量自评，零第三方… |
-| 2026-11-05 01:35:28 | [localvault-cli](https://pypi.org/project/localvault-cli/) | 0.0.1 | Sacco AI Consulting <info@sac… | 3.7 kB | Command line interface for LocalVault, the on-premise AI platform by Sacco AI |
-| 2026-11-05 01:39:30 | [nemo-agent-toolkit-bhived](https://pypi.org/project/nemo-agent-toolkit-bhived/) | 0.1.0 | ArtKey AI | 46.6 kB | bhived shared lessons for NVIDIA NeMo Agent Toolkit: a memory backend and a fun… |
-| 2026-11-05 01:39:41 | [whitetape](https://pypi.org/project/whitetape/) | 0.1.1 | White Tape <hello@whitetape.i… | 17.0 kB | Permit data for AI assistants: nationwide government-issued building permits as… |
-| 2026-11-05 01:40:29 | [evencut](https://pypi.org/project/evencut/) | 1.0.0 | AlemdarCode | 1.1 MB | Find and fix wasted GPU time in data-parallel training, and pick the machine th… |
-| 2026-11-05 01:40:30 | [kvguard](https://pypi.org/project/kvguard/) | 0.3.2 |  | 9.3 kB | Local proxy & TUI that catches 1-token prompt/KV cache prefix misses and auto-h… |
-| 2026-11-05 01:41:20 | [kba-cli](https://pypi.org/project/kba-cli/) | 0.3.0rc4 | KBA | 138.9 kB | KBA - read-only knowledge base auditor (local-first) |
-| 2026-11-05 01:44:04 | [mcp-test-authz](https://pypi.org/project/mcp-test-authz/) | 0.1.0 |  | 19.8 kB | Authz probe MCP server (stdio) covering L2/L3 auth modes |
-| 2026-11-05 01:44:44 | [guardian-runtime-assurance](https://pypi.org/project/guardian-runtime-assurance/) | 0.4.1 | Sylvester Kaczmarek | 1.1 MB | Reference monitor and adversarial benchmark for securing privileged actions by… |
-| 2026-11-05 01:44:45 | [voxreg](https://pypi.org/project/voxreg/) | 0.0.1 |  | 104.2 kB | Batched physical-space image registration using xarray-based VoxelData. |
-| 2026-11-05 01:45:34 | [raeto](https://pypi.org/project/raeto/) | 1.0.0 |  | 7.2 kB | Connect an AI agent to Raeto with its own wallet. No key to copy. |
-| 2026-11-05 01:49:26 | [llusen](https://pypi.org/project/llusen/) | 0.1.0 |  | 42.4 kB | Read and change the project open in llusen from Python |
-| 2026-11-05 01:49:38 | [gyc-llm-connect](https://pypi.org/project/gyc-llm-connect/) | 0.2.0 |  | 101.3 kB | Configurable sync and async Python clients for LLM and media APIs |
-| 2026-11-05 02:01:48 | [doc2struct](https://pypi.org/project/doc2struct/) | 0.1.0 | John Friedman | 286.6 MB | Parse HTML, PDF, text, and partial SGML into structured documents in C and Pyth… |
-| 2026-11-05 02:09:07 | [shade-plugins-slack](https://pypi.org/project/shade-plugins-slack/) | 0.1.0 | ShadeOne | 17.4 kB | Listar canais e enviar mensagem no Slack sem duplicar, pela Web API, com o toke… |
-| 2026-11-05 02:11:05 | [basinledger](https://pypi.org/project/basinledger/) | 0.1.0 | Northline Hydrology <info@nor… | 407.3 kB | A basin's water balanced day by day across coupled models (SWAT+, NextGen, MODF… |
-| 2026-11-05 02:14:56 | [entityraster](https://pypi.org/project/entityraster/) | 0.1.0 | Kamyar Hasanzadeh <kamyar.has… | 115.6 kB | Raster-valued attributes for GeoPandas: one raster per row (a GeoRasterFrame),… |
-| 2026-11-05 02:16:08 | [yaml-secrets](https://pypi.org/project/yaml-secrets/) | 0.1.0 |  | 15.9 kB | Drop-in PyYAML replacement with Vault/OpenBao secret substitution |
-| 2026-11-05 02:16:11 | [logitgate](https://pypi.org/project/logitgate/) | 0.2.0 | Jason Bradley <jasonbdly@gmai… | 257.1 kB | Fast, calibrated first-token logit evaluation and 3-layer cascaded routing for… |
+| 2026-11-05 02:19:59 | [sparkless-connect](https://pypi.org/project/sparkless-connect/) | 4.19.0 |  | 23.6 kB | Lightweight Sparkless server and Spark Connect client lifecycle helpers |
+| 2026-11-05 02:20:29 | [sparkless-server](https://pypi.org/project/sparkless-server/) | 4.19.0 |  | 68.0 MB | Platform-specific native Polars HTTP and Spark Connect server |
+| 2026-11-05 02:20:37 | [sparkless-server-duckdb](https://pypi.org/project/sparkless-server-duckdb/) | 4.19.0 |  | 138.4 MB | Platform-specific Polars server with optional DuckDB source support |
+| 2026-11-05 02:26:31 | [pysubnettree-rs](https://pypi.org/project/pysubnettree-rs/) | 0.1.0 | Georges Toth <georges@trypill… | 19.3 MB | Fast, memory-efficient longest-prefix-match lookups of IPv4/IPv6 subnets, writt… |
+| 2026-11-05 02:29:31 | [ltc-paper-pdf](https://pypi.org/project/ltc-paper-pdf/) | 0.1.1 |  | 1.6 MB | Standalone LTC paper exhibit scripts and assets for Python and pdfLaTeX |
+| 2026-11-05 02:38:30 | [nlalpha-capability](https://pypi.org/project/nlalpha-capability/) | 0.2.0 |  | 45.1 kB | NLAlpha capability discovery MCP server. |
+| 2026-11-05 02:39:45 | [nlalpha-yfinance](https://pypi.org/project/nlalpha-yfinance/) | 0.1.1 |  | 48.0 kB | Yahoo Finance daily data provider for NLAlpha |
+| 2026-11-05 02:43:55 | [pavvis](https://pypi.org/project/pavvis/) | 0.1.0 | Jack Bruton <jack.bruton@uwa.… | 83.9 kB | Visualisation tools for gene Presence/Absence Variation (PAV) matrix data |
+| 2026-11-05 02:47:11 | [aegis-ai-suite](https://pypi.org/project/aegis-ai-suite/) | 1.0.4 | Sachin Bose Pulikkathara <sac… | 81.3 MB | aegisCore AI Workspace Suite — Enterprise Multi-Agent Core CRM, Standalone Comp… |
+| 2026-11-05 02:48:16 | [odoo-addons-oca-connector-mercadolibre](https://pypi.org/project/odoo-addons-oca-connector-mercadolibre/) | 19.0.20261103.0 |  | 1.4 kB |  |
+| 2026-11-05 02:52:49 | [faker-orgchart](https://pypi.org/project/faker-orgchart/) | 0.1.0 | Steve Walker | 13.1 kB | Faker provider for org charts: job levels, leadership titles, and who reports t… |
+| 2026-11-05 02:53:37 | [tim-kelley](https://pypi.org/project/tim-kelley/) | 0.1.0 | Tim Kelley <webologist@enterp… | 7.7 kB | My first package! |
+| 2026-11-05 02:57:32 | [rcp-ndcg](https://pypi.org/project/rcp-ndcg/) | 9999.0.0 | Security Researcher <security… | 2.1 kB | SECURITY RESEARCH -- dependency confusion PoC for cohere-ai/rcp-ndcg. See READM… |
+| 2026-11-05 02:58:46 | [ltc-paper-scripts](https://pypi.org/project/ltc-paper-scripts/) | 0.1.0 |  | 807.0 kB | LTC paper PDF scripts and assets only |
+| 2026-11-05 03:00:22 | [naka](https://pypi.org/project/naka/) | 0.3.0 | Lakshya Bhardwaj | 2.7 MB | Open-source runtime firewall for AI agents. Stops poisoned tools, rug-pulls, da… |
+| 2026-11-05 03:01:33 | [pmw-ads](https://pypi.org/project/pmw-ads/) | 1.0.0 | Subhranil Naskar | 13.6 kB | Deterministic Performance Marketing Utility: Google Ads Keyword Wrapper, Meta C… |
+| 2026-11-05 03:02:00 | [nookara](https://pypi.org/project/nookara/) | 0.8.0 | Ikelene | 239.2 kB | Python SDK for Nookara: sign-in, profiles, friends, chat, credits and payments,… |
+| 2026-11-05 03:05:27 | [gzcli](https://pypi.org/project/gzcli/) | 0.1.0 |  | 23.6 kB | CLIHub: 一个父指令统一网关，将团队 HTTP 接口以子指令方式对外提供 |
+| 2026-11-05 03:05:36 | [rosame](https://pypi.org/project/rosame/) | 0.1.0 | Kai Xi, Stephen Gould, Sylvie… | 88.8 kB | Neuro-symbolic learning of lifted STRIPS action models from (probabilistic) sta… |
+| 2026-11-05 03:07:21 | [continuum-engine-client](https://pypi.org/project/continuum-engine-client/) | 1.0.0 | Your Name <your.email@example… | 16.7 kB | Continuum Engine - OSS Client Kernel for Python |
+| 2026-11-05 03:09:47 | [gsnet-sdk](https://pypi.org/project/gsnet-sdk/) | 0.1.0 | chenzh05 | 190.0 kB | Python SDK and CLI for the GSnet platform |
+| 2026-11-05 03:11:47 | [protect-context](https://pypi.org/project/protect-context/) | 2.0.0 |  | 167.8 kB | protect-context agent guardrail suite: shared store, MCP server (fastmcp), CLI |
+| 2026-11-05 03:13:20 | [skyxiaobing-mcp-demo](https://pypi.org/project/skyxiaobing-mcp-demo/) | 0.1.0 | Xiaobing.Li | 3.0 kB | Add your description here |
+| 2026-11-05 03:14:41 | [hashfasta](https://pypi.org/project/hashfasta/) | 0.1.0 | Rob Edwards <robert.edwards@f… | 23.1 kB | Convert FASTA to HashFASTA: records keyed by the SHA-256 of their normalized se… |
+| 2026-11-05 03:16:11 | [chickensmoothie](https://pypi.org/project/chickensmoothie/) | 0.1.0 | Haru | 20.8 kB | Unofficial async Python client for Chicken Smoothie |
