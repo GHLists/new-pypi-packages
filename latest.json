@@ -1,20 +1,55 @@
 {
   "list": {
-    "count": 51,
-    "from": "2026-11-05T20:18:46.573681Z",
-    "path": "data/new-packages-2026-11-05T21-18-43-19324Z.csv",
-    "to": "2026-11-05T21:18:43.19324Z"
+    "count": 40,
+    "from": "2026-11-05T21:18:43.19324Z",
+    "path": "data/new-packages-2026-11-05T22-19-01-5941Z.csv",
+    "to": "2026-11-05T22:19:01.5941Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-05T17:25:01Z",
-      "package": "astral-yaml",
-      "since": "2026-11-05T17:20:30.485497Z",
+      "attempts": 1,
+      "created_at": "2026-11-05T22:02:17Z",
+      "package": "nawah-ar",
+      "since": "2026-11-05T21:18:43.19324Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-05T21:38:28Z",
+      "package": "perplexity-remotebox",
+      "since": "2026-11-05T21:18:43.19324Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-05T21:38:33Z",
+      "package": "pplx-sdk",
+      "since": "2026-11-05T21:18:43.19324Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-05T21:38:37Z",
+      "package": "protobuf-perplexity-pb-llm-api-llm-api-py",
+      "since": "2026-11-05T21:18:43.19324Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-05T21:38:47Z",
+      "package": "protobuf-perplexity-pb-llm-api-llm-api-pygrpc",
+      "since": "2026-11-05T21:18:43.19324Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-05T21:38:41Z",
+      "package": "protobuf-perplexity-pb-llm-api-llm-api-pyproto",
+      "since": "2026-11-05T21:18:43.19324Z",
       "version": null
     }
   ],
-  "serial": 43264125,
+  "serial": 43266353,
   "source_truncated": false,
-  "window": "2026-11-05T21:18:43.19324Z"
+  "window": "2026-11-05T22:19:01.5941Z"
 }

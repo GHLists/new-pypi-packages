@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T21:19:19Z,langchain-arcnm,0.1.0,ARCNM <hello@arcnm.io>,MIT,36041,"LangChain tools for ARCNM: manufacturing should-cost for machined and sheet-metal parts, from a CAD file."
+2026-11-05T21:19:24Z,MC-MED-MEDS,0.1.0,Robin van de Water <r.p.vandewater@gmail.com>,,42264,An ETL to extract the MC-MED (Multimodal Clinical Monitoring in the Emergency Department) dataset into the MEDS format.
+2026-11-05T21:20:55Z,jeff-sdk,1.4.0,Casperaki Multimedia Solutions Ltd.,MIT,1456781,"The Jeff SDK for Python (imported as jeff): call Jeff's decision functions, route, escalate and run decision graphs, against a Jeff server or the engine in your own process."
+2026-11-05T21:20:59Z,jeff-runtime,1.4.0,Casperaki Multimedia Solutions Ltd.,MIT,223306,"The Jeff engine: runs Jeff's base model and adapters on an NVIDIA GPU (fast path), Apple silicon (MLX) or the CPU, for the Jeff SDKs."
+2026-11-05T21:25:44Z,whoholdsup,0.1.0,Arka Khorchidian,MIT,36494,"Who holds up your app? Reads your lockfile and shows how many dependencies are kept alive by one person, untouched for years, or recently changed hands. npm, yarn, pnpm, uv, poetry, pip."
+2026-11-05T21:26:23Z,sketchydeps,0.1.0,Arka Khorchidian,MIT,34597,"Is anything sketchy installed? Checks your Python env and node_modules for typosquats, known malware, brand-new releases, install scripts and .pth tricks."
+2026-11-05T21:27:03Z,zombieports,0.1.0,Arka Khorchidian,MIT,26352,"A TUI of every port listening on your machine: which project started it, how long it has been running, and one key to kill the zombies."
+2026-11-05T21:27:32Z,flypse,0.1.0,"Valerio De Caro, Jacopo Massa",MIT,34674,Federated Learning framework based on ECLYPSE
+2026-11-05T21:27:43Z,wdl-lsp-tools,0.1.0,Sage Wright <sage.wright@theiagen.com>,BSD-3-Clause,22993,"Language-server helpers for WDL: ShellCheck and Ruff on command blocks, and a diagnostic filter for Sprocket."
+2026-11-05T21:28:27Z,genkit-mcp,0.13.0,Google,Apache-2.0,96586,Model Context Protocol client for Genkit. Exposes an MCP server's tools as Genkit tools.
+2026-11-05T21:30:01Z,apiverve-fortuneteller,1.2.4,APIVerve <hello@apiverve.com>,MIT,21431,"Fortune Teller uses AI to generate personalized mystical fortunes across multiple categories including love, career, health, wealth, and travel."
+2026-11-05T21:30:06Z,apiverve-fortunecookiegenerator,1.2.4,APIVerve <hello@apiverve.com>,MIT,20742,"Fortune Cookie Generator creates authentic fortune cookie messages including wisdom, predictions, advice, humor, and motivational quotes."
+2026-11-05T21:30:10Z,apiverve-emojidecorator,1.2.4,APIVerve <hello@apiverve.com>,MIT,20685,Emoji Decorator inserts relevant emojis into plain text strings. Submit any sentence or passage to receive the complete string decorated with fitting emojis.
+2026-11-05T21:30:14Z,dgc-core,1.0.0,velopace <velopace7@gmail.com>,MIT,52337,Shared Python utilities and domain types for DGC services
+2026-11-05T21:30:19Z,uc2,3.0.0a4,Eremey Valetov,GPL-3.0-or-later AND LGPL-3.0-only,3917915,"Read UltraCompressor II archives in Python, with a bundled native CLI"
+2026-11-05T21:30:42Z,apiverve-fillintheblanksgenerator,1.2.4,APIVerve <hello@apiverve.com>,MIT,24866,"Fill in the Blanks Generator creates completion puzzles from idioms, proverbs, quotes, science facts, and geography trivia."
+2026-11-05T21:31:52Z,ragnarok-mcp,1.1.0,,MIT,193997,"Local RAG search over Obsidian vaults: SQLite (sqlite-vec + FTS5), Ollama embeddings, FastMCP server"
+2026-11-05T21:31:59Z,genkit-otel,0.13.0,Google,Apache-2.0,46558,"OpenTelemetry GenAI semantic-conventions instrumentation for Genkit (traces, metrics, and message-content capture)."
+2026-11-05T21:38:53Z,scalio-m365,0.1.0,,Proprietary,49158,"Scalio: write Microsoft 365 settings (Entra, SharePoint, Intune, Exchange) to a live tenant, shared by Foundry and Citadel"
+2026-11-05T21:38:59Z,watermark-pdf,2.0.0,Artezaru <artezaru.github@proton.me>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",5226132,Qt-GUI python based to add watermark on PDFs
+2026-11-05T21:40:07Z,quant1x-mpb,0.1.11,Quant1X,MIT,6466808,"Python port of quant1x/mpb, a semantic port of Rust's indicatif"
+2026-11-05T21:41:21Z,mcwaiter,0.1.0b1,Aintdev,MIT,60628,Minecraft Server configurator and controller.
+2026-11-05T21:42:57Z,hybrid-cubic-cg,0.1.0,"Cassidy K. Buhler, Hande Y. Benson, David F. Shanno",BSD-3-Clause,29971,Nonlinear conjugate gradient method with hybrid cubic regularization.
+2026-11-05T21:44:50Z,layeredcfg,0.1.0,Tianyu (Sky) Lu,Apache-2.0,2042603,"Layered configuration: defaults from a TOML file, overridden by env-style files, the environment and the command line, each value converted to its default's type"
+2026-11-05T21:47:05Z,uncredit,0.3.0,Isaac Yong <isaacyong@naver.com>,MIT,148730,Find and remove AI co-author credits from git history
+2026-11-05T21:50:45Z,smm-panel-api,1.0.1,Eva Panel <support@evapanel.com>,MIT,10079,"A small client for the standard SMM panel API (v2): services, orders, status, balance, refill and cancel."
+2026-11-05T21:56:29Z,sciencelogo-documenter,0.0.1,Riccardo Boero,MIT,1667509,Readable websites and PDF booklets from ScienceLogo workflows.
+2026-11-05T21:58:10Z,temporalio-openai-codex,0.0.1,Temporal Technologies Inc,MIT,49530,Durable OpenAI Codex sessions on Temporal
+2026-11-05T22:00:09Z,muse-glimmer,0.1.0.dev1,,Apache-2.0,68688176,Serve Muse Glimmer locally
+2026-11-05T22:00:54Z,toyblocks,0.0.1,Max Argus,,1584,Placeholder for upcoming toyblocks package.
+2026-11-05T22:00:56Z,foundationworlds,0.0.1,Max Argus,,1663,Placeholder for upcoming foundationworlds package.
+2026-11-05T22:02:56Z,bulanik,0.3.0,Tolga Berber <tolga.berber@fen.ktu.edu.tr>,MIT,1954273,"Easy-to-use fuzzy numbers, fuzzy inference and fuzzy MCDM, with LumiX and sezgi bridges"
+2026-11-05T22:03:52Z,vim2bat,0.1.0,Richard E. Dodson,MIT,87533,Generate bat themes from Vim colorschemes
+2026-11-05T22:04:11Z,content-gateway-client,0.1.0,,MIT,19751,Typed client for content-gateway: the gateway's own routes from its OpenAPI document and the CurseForge and Modrinth passthroughs with the budget's refusals handled.
+2026-11-05T22:06:36Z,traceAI-transformers,0.1.0,Future AGI <no-reply@futureagi.com>,Apache-2.0,25751,OpenTelemetry instrumentation for local Hugging Face Transformers pipelines
+2026-11-05T22:06:47Z,stackexchange-mcp,0.1.1,Yash Limbani,MIT,129454,MCP server that lets AI assistants search Stack Overflow and other Stack Exchange sites.
+2026-11-05T22:08:55Z,quatham,0.2.0rc0,JP Morrissey <morrissey.jp@gmail.com>,BSD-3-Clause,186201,A lightweight Numpy and Numba accelerated package for handling quaternions and arrays of quaternions.
+2026-11-05T22:09:57Z,condepe,0.1.0,"André Leite <leite@castlab.org>, Marcos Wasiliew <marcos.wasiliew@gmail.com>, Hugo Vasconcelos <hug…","MIT License Copyright (c) 2026 condepe authors Permission is hereby granted, free of charge, to any…",131278,Access the open data of the Pernambuco Observatory (Condepe/Fidem) from Python
+2026-11-05T22:10:41Z,shade-plugins-notion,0.1.0,ShadeOne,Apache-2.0,19634,"Consultar uma base, criar página (sem duplicar, pela coluna ""Chave Shade"") e atualizar página no Notion, com o token OAuth da conexão da plataforma."
+2026-11-05T22:17:14Z,pywipex,1.0.0,Ignytis,GPL-3.0-only,44744,CLI tool for bulk-deleting tweets (X posts) via the official X API
