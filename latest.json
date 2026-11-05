@@ -1,34 +1,20 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-11-05T19:19:40.840192Z",
-    "path": "data/new-packages-2026-11-05T20-18-46-573681Z.csv",
-    "to": "2026-11-05T20:18:46.573681Z"
+    "count": 51,
+    "from": "2026-11-05T20:18:46.573681Z",
+    "path": "data/new-packages-2026-11-05T21-18-43-19324Z.csv",
+    "to": "2026-11-05T21:18:43.19324Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-05T17:25:01Z",
       "package": "astral-yaml",
       "since": "2026-11-05T17:20:30.485497Z",
       "version": null
-    },
-    {
-      "attempts": 2,
-      "created_at": "2026-11-05T18:40:05Z",
-      "package": "ioc-scope-mce",
-      "since": "2026-11-05T18:21:06.596046Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-05T16:47:34Z",
-      "package": "meltanolabs-target-hubspot",
-      "since": "2026-11-05T16:20:21.34564Z",
-      "version": null
     }
   ],
-  "serial": 43261595,
+  "serial": 43264125,
   "source_truncated": false,
-  "window": "2026-11-05T20:18:46.573681Z"
+  "window": "2026-11-05T21:18:43.19324Z"
 }

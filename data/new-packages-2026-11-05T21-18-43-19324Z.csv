@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T18:40:05Z,ioc-scope-mce,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,2401,Metrics Computation Engine metapackage
+2026-11-05T20:20:07Z,atp-profiles,3.0.0,ATP Development Team,Apache-2.0,24843,Agent Trust Protocol (ATP) security profiles and fail-closed evaluator for Python agents
+2026-11-05T20:21:38Z,agent-trust-protocol,0.1.0,ATP Development Team,Apache-2.0,13277,Agent Trust Protocol (ATP) for Python: installs the ATP Python packages
+2026-11-05T20:23:06Z,replyz,0.0.1,Replyz <hello@replyz.io>,MIT,4781,"[Pre-release placeholder] Official Replyz SDK for Python. In development, first release soon."
+2026-11-05T20:24:42Z,dotdict-forfun-5745,0.1.0,,"MIT License Copyright (c) 2026 Leo Nagy Permission is hereby granted, free of charge, to any person…",7525,A dictionary that allows dot-notation access to its keys
+2026-11-05T20:26:23Z,pwnedkeep,0.1.0,Manfred Obumma <fredobumma@gmail.com>,MIT,43818,"Your own Pwned Passwords API: the same /range endpoint as api.pwnedpasswords.com, served from a local copy of the data, plus direct and bulk checks."
+2026-11-05T20:26:53Z,despertar,0.1.0,Alejandro Andrade <alexlqi@gmail.com>,CC-BY-ND-4.0,92464,"Agentes que duermen como filas en tu aplicación y despiertan cuando se les necesita, gobernados por sustrato."
+2026-11-05T20:28:35Z,hydrometrics,0.1.0,Sergey Iglin <iglin.sm@bk.ru>,MIT,159551,Hydrological and hydrometeorological model evaluation metrics library
+2026-11-05T20:30:01Z,csp-nodeform,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6436,csp-nodeform
+2026-11-05T20:30:02Z,csp-waveform,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6429,csp-waveform
+2026-11-05T20:31:11Z,tatolab-testpattern,0.68.27,Jonathan Fontanez <fontanezj1@gmail.com>,BUSL-1.1,32841,"A test-pattern video source for Tatolab streams: SMPTE bars and a bouncing potato, rendered on the GPU."
+2026-11-05T20:31:13Z,tatolab-virtualcamera,0.68.27,Jonathan Fontanez <fontanezj1@gmail.com>,BUSL-1.1,307696,"A virtual camera for Tatolab streams: video frames in, a v4l2loopback or PipeWire camera any Linux application can select out."
+2026-11-05T20:35:27Z,ioc-scope-mce-client,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,72110,High-level client for the Metrics Computation Engine
+2026-11-05T20:35:30Z,ioc-scope-mce-helper,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,7207,MCE helper interfaces
+2026-11-05T20:35:35Z,ioc-scope-mce-legacy,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,18953,Legacy adapters and compatibility layer for MCE
+2026-11-05T20:36:23Z,phomemo,0.3.0,"Paul Bütof, Passionate Bytes Solutions",LGPL-3.0-or-later,509955,Async BLE driver library for Phomemo thermal printers
+2026-11-05T20:37:50Z,ioc-scope-mce-provider-deepeval,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,18534,DeepEval provider package for MCE
+2026-11-05T20:37:51Z,ioc-scope-mce-provider-native,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,70528,Native MCE provider package
+2026-11-05T20:37:53Z,ioc-scope-mce-provider-sdk,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,5174,SDK-backed MCE provider package
+2026-11-05T20:38:43Z,gama-l,2.0.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",711799,"GAMA-L 2.0 core language: parser, type/effect checker, interpreter and LSP."
+2026-11-05T20:39:28Z,dbt-lineage-cli,0.15.0,,MIT,27896908,"PR-time dbt lineage, impact analysis and rebuild plans without a warehouse: CLI, TUI, CI report and MCP server"
+2026-11-05T20:39:40Z,ioc-scope-mce-provider-ragas,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,4906,Ragas provider package for MCE
+2026-11-05T20:39:44Z,ioc-scope-mce-provider-opik,2.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,5706,Opik provider package for MCE
+2026-11-05T20:40:00Z,paperus-ml,0.0.8,paperus contributors,Apache-2.0,29465,"Machine learning service of paperus: text embeddings (later reranking, OCR)"
+2026-11-05T20:40:03Z,paperus,0.0.8,paperus contributors,Apache-2.0,349746,Self-hosted research library for groups
+2026-11-05T20:41:23Z,proxy2model,2.0.0,falc0n,Apache-2.0,2390063,Turn captured proxy traffic into an evidence-backed model of a web app.
+2026-11-05T20:42:26Z,verieffect,0.2.0a1,Bing Feng,MIT,126448,"Independent deterministic verification for AI agents — signed, offline-verifiable receipts"
+2026-11-05T20:42:44Z,docker-host-audit,0.1.1,Petr Hromádka,MIT,37867,"Read-only security audit for Docker hosts: flags root containers, exposed ports, secrets in env, privileged mode and mounted docker sockets."
+2026-11-05T20:43:02Z,kiban-link,1.0.0,kiban,Apache-2.0,101915,Link API
+2026-11-05T20:43:33Z,custfind,1.1.0,,MIT,19744,"Official Python client for the Custfind API: lead searches, email outreach, CRM and webhooks."
+2026-11-05T20:44:09Z,cadboss,0.1.0,,MIT OR Apache-2.0,1020346,From-scratch Rust reader for CAD files
+2026-11-05T20:45:57Z,microcontroller-111,0.1.0,,MIT,43298,"Bundled microcontroller lab programs (8051, PIC, ARM LPC2148)"
+2026-11-05T20:50:59Z,modularot,0.1.0,Gabriele Bottani,MIT,47868,"Modular KEM-based 1-out-of-n Oblivious Transfer (semi-honest), agnostic to the underlying post-quantum KEM"
+2026-11-05T20:54:46Z,gravitar,0.1.0,Chad Neipling,MIT,7413107,Schema drift detector for SQLAlchemy models and Alembic migrations.
+2026-11-05T20:55:31Z,qodalis-cli-server-plugin-audit,1.0.0b18,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,14476,"Audit log plugin for Qodalis CLI servers — who did what, to whom and when, and its API"
+2026-11-05T20:56:04Z,pyhte,0.1.0,Jan Haase <j.haase@rub.de>,GPL-3.0-only,100194,A python package for high-throughput experiments and automation.
+2026-11-05T20:56:05Z,qodalis-cli-server-plugin-data-explorer-mssql,1.0.0b18,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,3998,MS SQL Server Data Explorer provider plugin for Qodalis CLI servers
+2026-11-05T20:56:07Z,qodalis-cli-server-plugin-data-explorer-mysql,1.0.0b18,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,3317,MySQL Data Explorer provider plugin for Qodalis CLI servers
+2026-11-05T20:56:08Z,qodalis-cli-server-plugin-data-explorer-postgres,1.0.0b18,Nicolae Lupei <nicolae.lupei@qodalis.com>,MIT,3271,PostgreSQL Data Explorer provider plugin for Qodalis CLI servers
+2026-11-05T20:57:38Z,pytest-gc-steward,0.1.0,Michał Pasternak <michal.dtz@gmail.com>,"MIT License Copyright (c) 2026 Michał Pasternak Permission is hereby granted, free of charge, to an…",22450,"Keep pytest workers from bloating: gc.freeze(), periodic or RSS-triggered garbage collection, and reports of what the cyclic GC collects."
+2026-11-05T20:58:27Z,openbotz,0.0.1,OpenBotz <openbotz.ai@gmail.com>,MIT,1829,OpenBotz project. Code coming soon: https://openbotz.ai
+2026-11-05T21:00:15Z,shutterstock-mcp,0.1.0,Manfred Obumma <fredobumma@gmail.com>,MIT,28736,"An MCP server for Shutterstock: search photos, footage, music and editorial images, look at previews, find similar images, manage collections, and license with your own subscription."
+2026-11-05T21:00:20Z,oxid-sql,0.2.0,"Optersoft, S.L.",LicenseRef-Optersoft-Proprietary,17118900,Typed Python APIs generated from SQL (native compiler)
+2026-11-05T21:00:39Z,smol-emscripten,0.0.1,Justin DuJardin <justin@dujardinconsulting.com>,Apache-2.0 AND Apache-2.0 WITH LLVM-exception AND NCSA AND (MIT OR NCSA) AND MIT AND MPL-2.0 AND PS…,267426045,Smol Emscripten for building Python extensions Pyodide imports
+2026-11-05T21:05:43Z,moatlight,1.1.0,Moatlight <ceo@moatlight.com>,MIT,10606,Official Python client for the Moatlight API: measure whether ChatGPT and Google AI Overview name a business.
+2026-11-05T21:07:12Z,noetic-field,0.2.0,Joseph Whaley Jr.,MIT,230230,A four-agent LLM pipeline for confabulation detection and values isolation
+2026-11-05T21:13:18Z,souqnorm,0.1.0,Muhammad Tanzil <mtanzil666@gmail.com>,MIT,24610,"Normalization, size parsing and keyword expansion for Arabic/English e-commerce search queries"
+2026-11-05T21:14:20Z,georgiacivicdata,0.1.0,Shane Orr <shane@georgiacivicdata.org>,MIT,268752,"Access public data from Georgia Civic Data: education, Census, immigration and health data about Georgia as pandas or Polars data frames."
+2026-11-05T21:15:33Z,anilixy,0.1.0,lexviy,AGPL-3.0-or-later,275908,"Terminal app to watch anime, read manga and light novels, synced with AniList."
+2026-11-05T21:16:47Z,jjcounter,0.1.0,Justin Hornosty <jjrh70@gmail.com>,,2573,A simple counter
+2026-11-05T21:18:15Z,androidtexter,0.1.0,Cloud Communication Platform LLC,MIT,38533,"Official Python client for the Android Texter SMS API: send and receive texts through your own Android phone, with your own number."
