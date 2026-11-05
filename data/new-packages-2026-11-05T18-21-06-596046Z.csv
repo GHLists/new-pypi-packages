@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T17:21:10Z,base-conversion,1.0.1,xiaomaozjj666,MIT,28476,"Exact arbitrary-base (2-62) number conversion: lossless big ints, Fraction-precise decimals, repeating-digit notation"
+2026-11-05T17:22:40Z,a2aclear,1.0.0,Rohit,,44683,A2AClear: Sovereign Financial Clearinghouse & Atomic Settlement Protocol for Autonomous AI Agents
+2026-11-05T17:23:50Z,geqie,1.0.0,,Apache-2.0,55772,General Equation of Quantum Image Encoding Framework
+2026-11-05T17:24:20Z,upoch,0.1.0,,MIT,28423,"Upoch Guard for Python agents: verifiable checkpoints, recovery and rollback on Robinhood Chain, with a one-line LangChain and LangGraph callback."
+2026-11-05T17:24:23Z,backlog-qec,0.5.0,Jean-Cédrik Dorélas,MIT,5021002,"Real-time Union-Find decoder for quantum error correction: correlated, streaming, parallel, with Stim and sinter integration"
+2026-11-05T17:24:34Z,proofgate-runtime,0.1.0,gamAI <info@gamai.io>,Apache-2.0,37746,"Evidence-first claim verification, signed receipts, lite injection guard and MCP server (stdlib only)."
+2026-11-05T17:24:34Z,wellue-ble,1.0.0,Dylan Sallee,Apache-2.0,48461,Talk to Wellue Checkme O2 pulse oximeters over Bluetooth Low Energy
+2026-11-05T17:26:21Z,theblob,0.1.0,Stefane Fermigier,,81531,An S3-compatible object store
+2026-11-05T17:26:22Z,mcp-supply-audit,0.1.0,,MIT,1281261,"An MCP server that audits other MCP servers as software artifacts: registry listings, packages, configs, and tool definitions. Static checks only. It never runs the code it inspects."
+2026-11-05T17:29:10Z,dmarcdrift,0.0.1,DMARCdrift <hello@dmarcdrift.com>,,1947,Command-line client for DMARCdrift (placeholder release)
+2026-11-05T17:31:00Z,energyplus-toolkit,0.2.1,Julien Marrec <contact@effibem.com>,MIT,96529,"Tools for EnergyPlus input files: parse, write back and reformat IDD and IDF files, and the IDF in EnergyPlus C++ unit tests."
+2026-11-05T17:31:05Z,netbox-kentik,0.0.1,"Kentik Technologies, Inc",Apache-2.0,144486,Netbox plugin to display Kentik links and state inside the UI.
+2026-11-05T17:31:16Z,django-turso,0.1.0,Paris Kasidiaris <paris@withlogic.co>,,36334,Native async Django database backend for Turso
+2026-11-05T17:31:55Z,teams-monitor,0.1.0,Jacob Arthurs,MIT,94158,"Tails Microsoft Teams logs on Windows and sends webhook alerts for calls, new activity and outages."
+2026-11-05T17:32:01Z,vaultzero,0.1.2,VaultZero contributors,MIT,38264,MCP server for a privacy-first agent memory vault: memories are encrypted on the client before they reach the server.
+2026-11-05T17:34:17Z,Pyjo-AWS,0.1.0,Piotr Roszatycki <piotr.roszatycki@gmail.com>,Artistic-2.0,161253,"Amazon Web Services for Pyjoyment: Signature Version 4, credentials and clients of the APIs, without an SDK."
+2026-11-05T17:36:03Z,anyevery,0.1.0,kwcarre,,2790,core anyevery namespace modules
+2026-11-05T17:36:33Z,rslapp,1.0.0,Erick Cardoso Mendes,MIT,192890,Servidor MCP em Python para busca acadêmica e exportação para revisão sistemática
+2026-11-05T17:37:56Z,taskli-cli,1.0.0,"""Calvin W. McElvain"" <mcelvain1@hotmail.com>",MIT,142000,Simple CLI for tracking todo lists.
+2026-11-05T17:38:00Z,compute-relay,0.1.0b1,,Apache-2.0,891755,A local compute broker for reviewed and budgeted Slurm jobs from AI clients
+2026-11-05T17:39:26Z,agentshield-defense,0.2.2,"RitualDev Studio <developer@ritualdev.com>, Divyanshu Jethi <divyanshujethi@ritualdev.com>",MIT,25526,"Enterprise Zero-Leak Secret Defense & Sandbox for Autonomous AI Agents (LangGraph, CrewAI, AutoGen, LlamaIndex)"
+2026-11-05T17:40:39Z,subwaytop,0.1.0,Arka Khorchidian,MIT,118341,"Every NYC subway train, live, in your terminal: a real-time map, station departure boards and service alerts from the MTA's open feeds"
+2026-11-05T17:41:26Z,episodekit,0.10.1,Nate Bunderson,MIT,18055,"Scan, validate and expand JSON objects and episodes with parameter permutations"
+2026-11-05T17:41:45Z,microval,0.1.2,Giuseppe Glaviano,MIT,39105,Statistical validation and randomization for weighted monopartite and bipartite networks
+2026-11-05T17:44:34Z,slowrc,0.1.0,Arka Khorchidian,MIT,38163,Why does your terminal take so long to open? slowrc profiles your zsh/bash startup line by line and fixes the slow parts safely.
+2026-11-05T17:45:31Z,tokprof,0.2.0,,MIT,34573891,Zero-code LLM agent token profiler (native Rust single-binary implementation)
+2026-11-05T17:48:56Z,esther-ui,0.1.0b1,LEPRIEUR Tom <tomleptl@gmail.com>,CECILL-2.1,239073,Graphical interface for the esther API
+2026-11-05T17:51:31Z,ioc-scope-api,1.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,614510,SCOPE backend API service
+2026-11-05T17:51:31Z,ioc-scope-ontology,1.1.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,109397,The MAS execution ontology for SCOPE.
+2026-11-05T17:51:34Z,fllab,0.1.0,Lokeshwaran S,,28087,A short CLI tool and library for Flutter Lab experiment codes (exp1 to exp7)
+2026-11-05T17:51:35Z,ioc-scope-worker-base,1.0.0,Outshift Open <oss-github@cisco.com>,Apache-2.0,39095,Base worker framework for RabbitMQ-based message processing
+2026-11-05T17:51:44Z,rhis-ts,0.2.0,Marcelo Coelho <mcoelho2011@hotmail.com>,MIT,114013,Methods for representativeness verification in time series analyses
+2026-11-05T17:53:22Z,ros-rerun-bridge,0.17.1,Saif Sidhik <mail@saifsidhik.page>,MIT,158356,"Config-driven, pluggable ROS2 -> Rerun bridge"
+2026-11-05T17:55:22Z,wittgenstein-rag,0.2.0,Wittgenstein RAG Reliability contributors,Apache-2.0,1011432,"A self-aware review layer for RAG pipelines: flags the retrieved text and answer sentences most likely to hide an LLM misreading, with a local interface."
+2026-11-05T17:56:33Z,yarax-python-dex,1.20.1,,,56297651,Patched YARA-X Python bindings for APKiD (restored DEX fields)
+2026-11-05T17:56:35Z,garmin-connect-personal-mcp,0.2.0,Brayden Abo,Apache-2.0,305812,"Unofficial MCP server for your own Garmin Connect data, via Garmin's Personal API and a local SQLite archive."
+2026-11-05T17:58:39Z,specrig,0.1.0,,MIT,212752,A harness for a FastAPI or Django service developed specification first
+2026-11-05T17:59:25Z,nn-simulator,0.1.2,,,332952,Basic Neural Network simulation for the machine learning course final project
+2026-11-05T18:03:14Z,mandatia,0.1.0,Audric Bugnard,Apache-2.0,387854,Agent Mandate Registry - Legal mandate chain for AI agents. MCP server.
+2026-11-05T18:03:41Z,pluverum,0.0.1,,,1378,Pluverum. Coming soon.
+2026-11-05T18:04:35Z,soc-pastel,0.0.1,,MIT,5295,PASTEL: Platform Agnostic Silicon Test Environment & Library (under development)
+2026-11-05T18:07:57Z,jseye,0.1.0,Lakshmikanthan K,MIT,412483,JavaScript Intelligence & Attack Surface Discovery Engine
+2026-11-05T18:10:05Z,Morztools,0.0.1,LolosharaGd,MIT,19867,"All the stuff I keep redoing in my projects, collected into one library"
+2026-11-05T18:11:45Z,kor-db,0.1.0,Kor Contributors,Apache-2.0,7489869,Kor database engine foundation with native C++ core and Python bindings
+2026-11-05T18:11:54Z,kybbench,0.1.0,,MIT,105672,"KYB-Bench: decide whether to onboard a business, scored on decision quality and cost"
+2026-11-05T18:16:32Z,hugginghub,0.1.0,Empero <bub4tz@hotmail.com>,PolyForm-Noncommercial-1.0.0,10841,Point huggingface_hub at your own self-hosted HuggingHub server
+2026-11-05T18:17:55Z,boko-ebook,0.1.0,yshalsager <contact@yshalsager.com>,GPL-3.0-or-later,12507113,"Independent Python bindings for Boko, the native Rust ebook converter."
+2026-11-05T18:18:19Z,regreval,0.1.0,RegrEval contributors,MIT,15751,Lightweight regression model evaluation metrics
+2026-11-05T18:19:28Z,ansible-mcp-controller,0.1.0,Pavel Pavlov,Apache-2.0,147062,Minimal Ansible controller with an MCP interface for AI agents
+2026-11-05T18:20:45Z,monarch-cloud,0.1.0,Africa Compute Fund,,22413,Public developer CLI for Monarch Cloud
