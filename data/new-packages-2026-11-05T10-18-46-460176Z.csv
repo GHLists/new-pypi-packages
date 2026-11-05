@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T09:21:40Z,plaincard,0.2.0,Konstantinos Georgiou,MIT,44653,"Plain, consistent images for projects (cards, README banners, diagrams, icons) from a few lines of spec"
+2026-11-05T09:29:17Z,pipeloom-databricks,0.5.0,Emanuel Luis <emanuel.filho08@gmail.com>,Apache-2.0,149267,Databricks renderer for pipeloom: a compiled plan as Jobs settings JSON and bundle YAML.
+2026-11-05T09:31:44Z,guidbit,0.0.1,Sunny Narula <sunny@voidtoverse.com>,,3019,guidbit is not distributed through pip. Download it from https://voidtoverse.com/guidbit
+2026-11-05T09:31:49Z,rankscope,0.4.0,Madaminov Sardor,MIT,136822,"Retrieval Eval that says how sure it is: confidence intervals, miss attribution, rank fusion and a calibrated abstain gate for search and RAG pipelines."
+2026-11-05T09:34:04Z,igtools-pip,1.0.4,spyboy <spyboy.co@gmail.com>,MIT,24575,Instagram Privacy & OSINT Tool: Hide followers/following lists and find user comments via Google Dork queries.
+2026-11-05T09:40:06Z,mcp-server-gitlab,0.0.1,SECURITY RESEARCH - mcpsec-lab,,6252,Security research placeholder for an unregistered PyPI name referenced by an MCP marketplace entry
+2026-11-05T09:40:16Z,mcp-server-google-maps,0.0.1,SECURITY RESEARCH - mcpsec-lab,,6347,Security research placeholder for an unregistered PyPI name referenced by an MCP marketplace entry
+2026-11-05T09:43:31Z,vesora,1.0.0,,MIT,1230532,Shared-engine scientific visualization for Python and JavaScript
+2026-11-05T09:43:52Z,openswarm-slave,0.1.0,Mohammed Raihan Soniwala <raihann.eu@gmail.com>,MIT,25031,"Zero-Control-Logic Linux Slave Agent for the OpenSwarm Robotics Framework (Arduino UNO Q, Portenta X8, Raspberry Pi, Jetson, Linux PC)"
+2026-11-05T09:49:16Z,necksense,1.1.0,Amandeep Singh Bains,MIT,73026,"Drosophila Antennal Lobe + Mushroom Body concentration-invariant sparse hashing, 1-shot novelty detection, and online associative classification in Python and zero-heap ANSI C99"
+2026-11-05T09:49:33Z,necklink,1.4.0,Amandeep Singh Bains,MIT,13879,"NeckLink Fruit-Fly Brain Edge Autonomy & Wire Suite: umbrella installer for pynltp, necksense, neckcompass, necksight, and neckcord"
+2026-11-05T09:50:58Z,devsnap,0.1.1,gptfei,MIT,20597,Snapshot and diff your development environment — end 'works on my machine' debugging.
+2026-11-05T09:51:01Z,llmparse-py,0.1.1,gptfei,MIT,18252,Parse the JSON your LLM meant to send — zero-dependency extraction and repair for raw LLM output.
+2026-11-05T09:52:18Z,sodonetwork,3.4.5,Soner DONMEZ,Proprietary - Registration No: 2026/21386,15231,Official CLI and MCP Client Bridge for SodoNetwork Cloud Services
+2026-11-05T09:54:42Z,tomecast,0.0.1,Ambrose Sigler,Apache-2.0,17463,"Turn ebooks into audiobooks on Linux with local, human-sounding voices."
+2026-11-05T09:54:44Z,wb-clouddoc-suite-mcp,1.0.0,,,622731,一站式文档套件：云端文档协作 + 本地 Office 深度处理 + 免密钥生成与 OCR
+2026-11-05T09:56:29Z,azure-ai-agentserver-a2a,1.0.0b1,Microsoft Corporation <azpysdkhelp@microsoft.com>,MIT,74496,A2A protocol host for Azure AI Hosted Agents
+2026-11-05T09:57:17Z,aidr,0.0.1,OpenSecura <contact@opensecura.ai>,Apache-2.0,4009,"OpenAIDR command line by OpenSecura: see what your AI agents do, find risky actions, enforce guardrails. Name reserved ahead of the first release."
+2026-11-05T09:57:18Z,opensecura,0.0.1,OpenSecura <contact@opensecura.ai>,Apache-2.0,3575,"OpenSecura namespace package: AI agent security tooling, including OpenAIDR. Name reserved ahead of the first release."
+2026-11-05T09:58:11Z,pyronix-cloud,0.1.0,Paul Fryer,LGPL-3.0-or-later,210016,Async client for Pyronix panels via the Pyronix Cloud (HomeControl2) relay
+2026-11-05T09:58:16Z,polaris-python-ai,0.0.1.dev2,,BSD-3-Clause,188541,Polaris integrations for Python AI frameworks.
+2026-11-05T09:59:21Z,renpy-language-server,0.2.0,Олександр,MIT,506478,Language server and formatter for Ren'Py scripts
+2026-11-05T10:02:27Z,wb-av-insight-mcp,1.0.0,,,526181,音视频理解助手：本地视频转写报告流水线 + 语音意图/实体/情感/工单，零密钥
+2026-11-05T10:03:54Z,qasight,1.6.0,Taltal <ttlgptinc@gmail.com>,MIT,1970356,"Run and track your tests, compare and export results, and catch the flaky ones. Get deeper insight with AI, using your own model."
+2026-11-05T10:03:59Z,mdpersia,0.3.0,Hamid Morsali,MIT,288743,"The modern, offline-first Persian and RTL Markdown to Word (DOCX) & PDF converter with native Mermaid support."
+2026-11-05T10:06:40Z,espsoft,0.1.0,Dmitriy Anisimov <espsoft@mail.ru>,MIT,7651,A silly package that says espsoft
+2026-11-05T10:11:36Z,naif-gravity-mcp-doctor,0.3.0,NAIF Gravity,MIT,49579,Offline-first NAIF Error Passport for sanitized MCP Streamable HTTP discovery reports
+2026-11-05T10:12:02Z,iac-converter,0.1.0,,Apache-2.0,103521,Bidirectional YAML and Terraform infrastructure converter
+2026-11-05T10:16:01Z,sessionwiki,2.0.0,Igor Lashkevich <3133574+necroz@users.noreply.github.com>,MIT,1016429,"Searchable, interlinked wiki of your AI coding sessions (Claude Code, Codex CLI, Cursor, Gemini CLI, ZCode, OpenCode, Obsidian), with LLM synthesis and MCP access. Based on llmwiki by Pratiyush."
