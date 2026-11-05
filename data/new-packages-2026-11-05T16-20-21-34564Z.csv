@@ -1,0 +1,58 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T15:19:32Z,django-social-video-publisher,0.1.0,NzeStan,MIT,78904,"Connect social accounts through official OAuth and publish video with capability awareness, idempotency and reconciliation."
+2026-11-05T15:19:32Z,napari-virtual-reader,0.0.1,Sebastian Rhode <sebrhode@gmail.com>,BSD-3-Clause,37421,Experimental napari plugin for lazy virtual OME-Zarr images via refkv
+2026-11-05T15:21:00Z,oei-core,0.2.2,Simon Wanyoike <alphageek254@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",65177,Open Energy Intelligence Core: an open-source integration and validation engine for energy data.
+2026-11-05T15:24:47Z,playcal,0.1.0,Rızgar Ozan,Apache-2.0,423417,"One toolkit for AI agents building games: a reliable edit-settle-verify loop, and bot playtests calibrated against real players."
+2026-11-05T15:24:51Z,dextercipher,0.1.2,,,3537,A simple text cipher
+2026-11-05T15:27:15Z,uvmls,0.1.0,Vishal Bhartiya,Apache-2.0,1599987,UVM-aware SystemVerilog language server built on slang
+2026-11-05T15:28:10Z,dontpanic-orchestrate,0.2.0,Silex Research,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",2571908,The safety layer between the agent says it's done and you merge it.
+2026-11-05T15:29:02Z,faximus-sdk,0.1.0rc4,,MIT,725525,Candidate typed Faximus customer API SDK with bounded safe transport
+2026-11-05T15:30:06Z,xdlint,0.1.0,Saul Pwanson <xd@saul.pw>,MIT,91572,Validator and fixer for the .xd crossword puzzle format
+2026-11-05T15:30:23Z,deptho-mcp,0.1.0,,Apache-2.0,23706,"MCP server for Deptho: replay a crypto backtest's orders against trades and write tearsheets, locally."
+2026-11-05T15:30:25Z,opendgm,0.5.2,"Sebastiaan Lootens, Viktor Van Nieuwenhuize, Robin Van Den Abeele, Bjorn Verstraeten, Arthur Bezerra",,66642732,OpenDGM framework
+2026-11-05T15:32:02Z,mas-lab-library-skills,0.2.0,,Apache-2.0,134742,Skills library for MAS — ContextContract catalog plugin + ToolContract skill-access tools.
+2026-11-05T15:32:03Z,mas-lab,0.2.0,,Apache-2.0,17416,"MAS Lab — meta-package installing the runtime, control plane, lab components, and libraries."
+2026-11-05T15:32:11Z,mas-lab-runtime,0.2.0,,Apache-2.0,918111,MAS Runtime V2 — Mealy kernel (embeddable library)
+2026-11-05T15:33:22Z,arc56-generated-joe-p-1ea34677,1.2.2026072010,joe-p,,20011,Generated ARC-56 Algorand smart-contract clients for joe-p/closed_loop_payments.
+2026-11-05T15:33:30Z,uupmap,0.0.3,The UniWeave Authors,Apache-2.0,75357,"Reader for UniWeave, a residue-level UniProt-to-UniProt mapping resource"
+2026-11-05T15:33:46Z,composat,1.0.1,HivertMoZara <worldmozara@163.com>,MIT,199085,Component lifespan interface
+2026-11-05T15:34:26Z,arc56-generated-joe-p-68ca3c71,1.2.2026072010,joe-p,,23222,Generated ARC-56 Algorand smart-contract clients for joe-p/Mithras-Protocol.
+2026-11-05T15:35:30Z,arc56-generated-joe-p-8a34a813,1.2.2026072010,joe-p,,54999,Generated ARC-56 Algorand smart-contract clients for joe-p/snarkjs-algorand.
+2026-11-05T15:37:53Z,mas-lab-library-standard,0.2.0,,Apache-2.0,28020,"Standard library for MAS — infra bundles, tools, and pattern aliases."
+2026-11-05T15:37:55Z,mas-lab-library-samples,0.2.0,MAS Framework Contributors,Apache-2.0,120380,"Community-contributed MAS sample apps, datasets, and tools."
+2026-11-05T15:38:02Z,mas-lab-library-ioa,0.2.0,,Apache-2.0,177581,MCP client/server bridge and A2A agent_comm / agent_expose plugins.
+2026-11-05T15:41:25Z,mas-lab-library-telemetry,0.2.0,,,287952,"MAS Lab native-events → OTel conversion, span contracts/verification, and OTLP collector serialization."
+2026-11-05T15:41:40Z,mas-lab-ctl,0.2.0,,Apache-2.0,783139,"MAS control plane V2 — compile, compose, session, placement"
+2026-11-05T15:42:45Z,riscord-bot,0.2.2,,All rights reserved.,23571,Official async Riscord bot client
+2026-11-05T15:42:55Z,luml-relay,0.1.0rc0,,,35129,Relay and agent that expose local web services through LUML
+2026-11-05T15:43:06Z,calendula,0.1.0,Miki Yutani,MIT,30411,MCP server that reads your Outlook (classic) calendar from WSL
+2026-11-05T15:43:14Z,django-timewarp,0.0.1,Richard Terry <code@radiac.net>,BSD-3-Clause,5214,Git for your Django models
+2026-11-05T15:44:03Z,lookproof-mcp,0.1.0,Lookproof <github@lookproof.dev>,MIT,23828,"MCP server with 23 Lookproof DNS and mail security checks for AI agents (SPF, DKIM, DMARC, MTA-STS, DNSSEC, TLS), paid per call in USDC via x402"
+2026-11-05T15:45:31Z,odoo-addon-sy-salesperson-transfer-portfolio-visit,18.0.1.0.0,Sygel,AGPL-3,40741,Transfer salesperson visits between salespersons
+2026-11-05T15:45:48Z,mas-lab-library-eval,0.2.0,,Apache-2.0,111799,Evaluation and quality metrics library for MAS Lab — MCE integration.
+2026-11-05T15:45:54Z,mas-lab-component-bench,0.2.0,,Apache-2.0,1492157,"Benchmark engine, pipeline execution, plots and validation for MAS Lab."
+2026-11-05T15:45:56Z,mas-lab-component-core,0.2.0,,Apache-2.0,486197,"MAS Lab core — CLI, contracts, telemetry, schemas, and shared utilities."
+2026-11-05T15:47:08Z,nextwheel,0.2.1a3,NextWheel collaborators <chenier.felix@uqam.ca>,Apache-2.0,33965,Python module for NextWheel instrumented wheels
+2026-11-05T15:47:40Z,bkn-osdk,0.2.1,OpenBKN,Apache-2.0,323435,"Generated, read-only ontology SDK for BKN knowledge networks"
+2026-11-05T15:47:50Z,nd-arrow-array,0.5.0,,Apache-2.0,15525257,N-dimensional Arrow arrays with named dimensions and attributes
+2026-11-05T15:47:54Z,mas-lab-component-controller,0.2.0,,Apache-2.0,489958,"MAS Lab controller daemon — workers, IPC, HTTP API for CLI and UI."
+2026-11-05T15:47:59Z,mas-lab-library-lab,0.2.0,MAS Framework Contributors,Apache-2.0,275867,MAS Lab provider library with public eval plugins.
+2026-11-05T15:48:14Z,pynotas,0.12.0,SURF IA,MIT,2083695,Láminas visuales en español para comprender código Python y sus conceptos
+2026-11-05T15:48:50Z,odoo-addon-sy-salesperson-transfer-portfolio-phonecall,18.0.1.0.0,Sygel,AGPL-3,40828,Transfer pending phone calls between salespersons
+2026-11-05T15:51:05Z,yarax-python-dex,1.20.0,,,22209974,Patched YARA-X Python bindings for APKiD (restored DEX fields)
+2026-11-05T15:57:29Z,thx02,1.0.0,HAL-X,Apache-2.0,89197,"THX-02: an open decision model that thinks. Typed questions in, calibrated probabilities out. API client, CLI (Termux too) and local runtime."
+2026-11-05T16:04:06Z,runtime-labs-contracts,0.1.0,,,26132,Shared validation models and deployment contracts for Runtime Labs
+2026-11-05T16:04:12Z,runtime-labs-sdk,0.1.0,,,48652,OpenTelemetry tracing with eval payloads and verified source identities
+2026-11-05T16:06:03Z,timegym,1.1.0,Diogo Seca,,8105146,Controlled verification and diagnosis for forecasting pipelines
+2026-11-05T16:07:42Z,mitto,0.0.0,,,1111,
+2026-11-05T16:08:41Z,sudo-noclip,1.0.0,Stefan Lupascu,MIT,32994,"A 3D, backrooms-style horror game that runs entirely in the terminal."
+2026-11-05T16:11:38Z,agent-tool-nextcloud-calendar-cli,0.1.0,"Zierhut IT, Alexander Zierhut",MIT,155345,"Agent-ready command-line interface for Nextcloud calendars (CalDAV) — move, extend, cancel and answer appointments quietly, and repair recurring meetings that show twice or vanished. Installs the `ne…"
+2026-11-05T16:11:45Z,agentreader-tools,1.10.0,Axiom Works <info@axiomworks.co.uk>,MIT,23905,"LangChain tools for Axiom Works AgentReader: 47 pay-per-call x402 tools (web read, UK/US/EU company data, EVM reads from $0.001) paid in USDC on Base."
+2026-11-05T16:12:58Z,speedle,0.1.0,The Speedle Authors,UPL-1.0,41739,Speedle authorization SDK for Python: is-allowed checks against Speedle Cloud and Speedle+
+2026-11-05T16:15:24Z,synlynk,0.27.5,,MIT,3077101,"The coordination OS for multi-agent development — context injection, dispatch, telemetry, and sentinel for Claude, Agy, Codex, and Grok."
+2026-11-05T16:16:14Z,file-policy,0.1.0,,,37754,Diff-scoped file policy runner with rule packs
+2026-11-05T16:16:45Z,agentreader-crewai,1.10.0,Axiom Works <info@axiomworks.co.uk>,MIT,5025,CrewAI tools for Axiom Works AgentReader: pay-per-call x402 web/UK-US-EU DD/EVM tools in USDC on Base.
+2026-11-05T16:16:51Z,llama-index-tools-agentreader,0.1.0,Axiom Works <info@axiomworks.co.uk>,MIT,5739,"LlamaIndex ToolSpec/FunctionTools for Axiom Works AgentReader (x402 pay-per-call, USDC on Base)."
+2026-11-05T16:16:56Z,agentreader-agents,1.10.0,Axiom Works <info@axiomworks.co.uk>,MIT,5453,PydanticAI + OpenAI Agents SDK function tools for Axiom Works AgentReader (x402 USDC on Base).
+2026-11-05T16:20:10Z,ifinjected,0.1.0,BhuwanJoshi-01,MIT,308241,"What could a prompt-injected coding agent reach on your machine? Read-only, offline, never prints a secret."
+2026-11-05T16:20:13Z,horizonmedia-blu-sdk,1.2.3,Horizon Media,LicenseRef-Proprietary,69901,"Make a Python API a Blu module: verify Blu callers (users, services, your own IdP, API keys), route policies, and Concierge tools (MCP). FastAPI, Flask and Django adapters."

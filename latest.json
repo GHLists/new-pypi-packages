@@ -1,27 +1,34 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-11-05T14:19:29.842353Z",
-    "path": "data/new-packages-2026-11-05T15-18-46-492388Z.csv",
-    "to": "2026-11-05T15:18:46.492388Z"
+    "count": 57,
+    "from": "2026-11-05T15:18:46.492388Z",
+    "path": "data/new-packages-2026-11-05T16-20-21-34564Z.csv",
+    "to": "2026-11-05T16:20:21.34564Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-05T15:45:44Z",
+      "package": "django-install",
+      "since": "2026-11-05T15:18:46.492388Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-05T12:37:49Z",
       "package": "fews-networkvisualisation",
       "since": "2026-11-05T12:20:35.640743Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-05T11:33:28Z",
-      "package": "rad-cal",
-      "since": "2026-11-05T11:18:47.679902Z",
-      "version": "0.1.0"
+      "attempts": 1,
+      "created_at": "2026-11-05T15:41:22Z",
+      "package": "mas-lab-library-kg",
+      "since": "2026-11-05T15:18:46.492388Z",
+      "version": null
     }
   ],
-  "serial": 43248329,
+  "serial": 43250563,
   "source_truncated": false,
-  "window": "2026-11-05T15:18:46.492388Z"
+  "window": "2026-11-05T16:20:21.34564Z"
 }
