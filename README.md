@@ -8,36 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:18 UTC
+## Latest list — 2026-11-05 01:20 UTC
 
-New packages created between 2026-11-04 23:18 UTC and 2026-11-05 00:18 UTC.
+New packages created between 2026-11-05 00:18 UTC and 2026-11-05 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-05T00-18-21-099679Z.csv)
+[Full CSV](data/new-packages-2026-11-05T01-20-06-535458Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-04 19:24:41 | [addon-sentry](https://pypi.org/project/addon-sentry/) | 0.1.0 | José Argento | 470.2 kB | Checks a World of Warcraft addon (zip or folder) for warning signs before you i… |
-| 2026-11-04 23:20:28 | [kroma-om](https://pypi.org/project/kroma-om/) | 0.2.0 | Lam Nguyen, Erika Barcelos, R… | 121.1 kB | Ontology matching with knowledge retrieval and large language models |
-| 2026-11-04 23:21:11 | [aivy-mcp](https://pypi.org/project/aivy-mcp/) | 0.2.0 | Ivy Energy | 26.3 kB | MCP server for the Aivy Developer API: let your AI assistant read and control y… |
-| 2026-11-04 23:21:57 | [deepdiscover-hydro](https://pypi.org/project/deepdiscover-hydro/) | 1.0.0 | Vincent Adombi | 115.1 kB | Conservative differentiable hydrological modeling with DiscoverUnits |
-| 2026-11-04 23:23:41 | [mntoyg-forge](https://pypi.org/project/mntoyg-forge/) | 0.1.0 | Forge Contributors | 370.5 kB | Forge - an open-source, AI-first coding assistant for the terminal. |
-| 2026-11-04 23:24:24 | [fastitch](https://pypi.org/project/fastitch/) | 0.1.0 | Arka Khorchidian | 2.1 MB | Fast NASDAQ TotalView-ITCH 5.0 parser: raw feed files to Polars, pandas, Arrow… |
-| 2026-11-04 23:26:07 | [appsync-scalars](https://pypi.org/project/appsync-scalars/) | 0.1.1 |  | 959.9 kB | Validates AWS AppSync date and time scalar values. |
-| 2026-11-04 23:30:08 | [panoptes-agentgate](https://pypi.org/project/panoptes-agentgate/) | 0.0.1 | Miguel Padilla | 874.4 kB | Permissions, approval and audit layer between an AI agent and a company's tools… |
-| 2026-11-04 23:31:35 | [a2qlinux](https://pypi.org/project/a2qlinux/) | 0.2.1 | raman78 | 167.7 kB | Questlog Desktop (AION 2 damage meter) on Linux under Proton, with live game tr… |
-| 2026-11-04 23:32:28 | [winvm](https://pypi.org/project/winvm/) | 1.3.0 |  | 193.2 kB | Build and run slim, unattended Windows VMs on QEMU/KVM from small YAML image fi… |
-| 2026-11-04 23:32:55 | [copro-mcp](https://pypi.org/project/copro-mcp/) | 0.4.0 |  | 295.5 kB | MCP server that delegates side tasks from Claude Code to a pool of cloud/local… |
-| 2026-11-04 23:34:53 | [nodda-client](https://pypi.org/project/nodda-client/) | 1.2.0 | Nodda <soporte@nodda.es> | 22.0 kB | Cliente oficial de la API de Nodda para emitir y consultar facturas VERI*FACTU… |
-| 2026-11-04 23:35:07 | [exodusii](https://pypi.org/project/exodusii/) | 26.10.29 | Timothy Jesse Fuller | 1.0 MB | A modern pure-Python interface for Sandia Exodus II finite element databases. |
-| 2026-11-04 23:37:22 | [sfdctrust](https://pypi.org/project/sfdctrust/) | 0.1.0 | Jeff Shurtliff | 162.6 kB | Unofficial Python SDK for the Salesforce My Trust Center API |
-| 2026-11-04 23:42:09 | [micro-web3](https://pypi.org/project/micro-web3/) | 0.1.0 | Yabir Benchakhtir | 34.5 kB | Minimal Ethereum JSON-RPC and ABI client |
-| 2026-11-04 23:44:51 | [crewai-memory-chroma](https://pypi.org/project/crewai-memory-chroma/) | 0.1.0 | Federico Laurianti | 45.0 kB | A storage backend for the memory of CrewAI on a Chroma server. |
-| 2026-11-04 23:46:11 | [bigquery-adbc](https://pypi.org/project/bigquery-adbc/) | 0.1.0 | Fredrik Fornwall | 20.7 MB | Python bindings for the BigQuery ADBC driver |
-| 2026-11-04 23:48:53 | [headerhawk-auditor](https://pypi.org/project/headerhawk-auditor/) | 0.1.0 | Noir Stack LLC | 15.5 kB | A lightweight, read-only HTTP security header and cookie auditor |
-| 2026-11-04 23:49:17 | [iocforge-cli](https://pypi.org/project/iocforge-cli/) | 0.1.0 | Noir Stack LLC | 13.6 kB | Offline threat indicator extraction, normalization and reporting |
-| 2026-11-04 23:49:28 | [metasleuth-osint](https://pypi.org/project/metasleuth-osint/) | 0.1.0 | Noir Stack LLC | 13.4 kB | Offline metadata extraction for images, PDFs, and Office documents |
-| 2026-11-04 23:53:28 | [mv-academic-calendar](https://pypi.org/project/mv-academic-calendar/) | 0.1.0 | grootismore | 65.1 kB | Maldives school academic calendar data, 2015 to 2027: terms, exams and holidays… |
-| 2026-11-04 23:58:25 | [carets](https://pypi.org/project/carets/) | 0.1.0 | Wispsy | 22.6 kB | A dependency-free asyncio TUI toolkit for Python |
-| 2026-11-05 00:00:26 | [nanoql](https://pypi.org/project/nanoql/) | 2.0 | The nanoql Authors | 31.4 MB | nanoql for Python: quantitative finance, stateless by design, through nanoql's… |
-| 2026-11-05 00:01:27 | [pbwire](https://pypi.org/project/pbwire/) | 0.1.7 | jinganix | 567.2 kB | Dynamic protobuf over the pbwire C ABI, schema at runtime, no generated code |
-| 2026-11-05 00:17:03 | [jettison](https://pypi.org/project/jettison/) | 0.1.0 |  | 3.2 MB | Native disk usage scanner with a Rust CLI and Python bindings |
+| 2026-11-04 23:25:48 | [parallax-core](https://pypi.org/project/parallax-core/) | 0.1.0 | Parallax | 1.7 MB | Parallax common runtime: the class-free engine spine (domain model, Predicate a… |
+| 2026-11-04 23:30:44 | [parallax-descriptor](https://pypi.org/project/parallax-descriptor/) | 0.1.0 | Parallax | 83.7 kB | Parallax descriptor interchange: canonical model-descriptor ingestion and expor… |
+| 2026-11-04 23:38:41 | [parallax-snapshot](https://pypi.org/project/parallax-snapshot/) | 0.1.0 | Parallax | 164.2 kB | Parallax snapshot lifecycle extension: Snapshot[T] materialization and the deve… |
+| 2026-11-04 23:44:04 | [parallax-postgres](https://pypi.org/project/parallax-postgres/) | 0.1.0 | Parallax | 2.5 MB | Parallax Postgres database adapter: the concrete database runtime over psycopg… |
+| 2026-11-04 23:52:17 | [parallax-evolution](https://pypi.org/project/parallax-evolution/) | 0.1.0 | Parallax | 108.1 kB | Parallax model evolution and schema deltas: the model-altitude difference betwe… |
+| 2026-11-04 23:56:45 | [parallax-aws](https://pypi.org/project/parallax-aws/) | 0.1.0 | Parallax | 23.5 kB | Parallax AWS credential providers: RDS IAM database authentication as a Credent… |
+| 2026-11-05 00:24:03 | [immunity](https://pypi.org/project/immunity/) | 0.1.0 | ellainng | 29.0 kB | Ahead-of-time (AOT) compiled Zsh plugin manager in Python |
+| 2026-11-05 00:26:21 | [asp-studio](https://pypi.org/project/asp-studio/) | 0.2.3 | yakupbulbul | 62.4 kB | Answer sets, a graph and a step-by-step animator for Answer Set Programming, in… |
+| 2026-11-05 00:29:04 | [confidantic](https://pypi.org/project/confidantic/) | 0.1.0 | Szymon Talaga <stalaga@proton… | 418.0 kB | Configuration and CLIs for Python projects based on Pydantic and Pydantic Setti… |
+| 2026-11-05 00:30:00 | [chrono-agent](https://pypi.org/project/chrono-agent/) | 0.3.0 |  | 91.5 kB | Local filesystem snapshots, savepoints, rollback, branches, advisory command sc… |
+| 2026-11-05 00:33:41 | [xflog](https://pypi.org/project/xflog/) | 1.0.0 |  | 853.0 kB | A local-first X follower event journal |
+| 2026-11-05 00:36:20 | [crawldata-engine](https://pypi.org/project/crawldata-engine/) | 1.0.0 | FindDataOfficial | 1.8 MB | Open-data ontology MCP: a semantic concept layer over multi-datasource financia… |
+| 2026-11-05 00:36:58 | [gblinux](https://pypi.org/project/gblinux/) | 0.1.1 | renatormc | 87.6 kB | Assinador de PDF com token A3 ICP-Brasil para Linux |
+| 2026-11-05 00:38:06 | [asys-profiler](https://pypi.org/project/asys-profiler/) | 0.1.0 |  | 597.4 kB | A timeline profiler for coding-agent sessions. |
+| 2026-11-05 00:40:43 | [django-ninja-mcp-server](https://pypi.org/project/django-ninja-mcp-server/) | 0.1.0 | Mariano Baragiola | 48.2 kB | Expose Django Ninja operations and Python functions as MCP tools for Claude Cod… |
+| 2026-11-05 00:44:15 | [ludex-games](https://pypi.org/project/ludex-games/) | 0.51.0 |  | 222.1 kB | Headless, scriptable library of the games you own across stores |
+| 2026-11-05 00:47:15 | [mapsql-mcp](https://pypi.org/project/mapsql-mcp/) | 0.2.0 | Mehmet Veysel Delibaş | 232.5 kB | Safe, spatial-aware MCP server for PostGIS and Oracle Spatial: let AI assistant… |
+| 2026-11-05 00:47:38 | [fontmask](https://pypi.org/project/fontmask/) | 0.1.0 | Matt Robenolt | 306.9 kB | Patch fonts with Obel Mono-style secret masking rules |
+| 2026-11-05 00:49:14 | [CVEPaladin](https://pypi.org/project/CVEPaladin/) | 0.2.0a1 | Jun Tae Kim | 7.5 MB | Evidence-grounded vulnerability prevention for coding agents |
+| 2026-11-05 00:49:23 | [ciencia-id](https://pypi.org/project/ciencia-id/) | 1.0.0 | Paulo Soares (PeopleWare®) | 17.1 kB | Ciência ID check digit (ISO/IEC 7064 MOD 17,16) validation |
+| 2026-11-05 00:53:22 | [dbt-extra](https://pypi.org/project/dbt-extra/) | 0.1.0 |  | 349.6 kB | Offline dbt transformation review, inspection, editing, and optimization |
+| 2026-11-05 00:55:35 | [xeibe](https://pypi.org/project/xeibe/) | 0.1.0 |  | 34.9 MB | Read GML files into Arrow/GeoArrow (experimental, AI-generated, unstable API) |
+| 2026-11-05 00:57:35 | [malibx](https://pypi.org/project/malibx/) | 0.1.1 |  | 1.8 MB |  |
+| 2026-11-05 00:59:06 | [megacode-agent-sdk](https://pypi.org/project/megacode-agent-sdk/) | 0.31.0 |  | 52.8 kB | Drive a MEGA harness agent session from a Python program. |
+| 2026-11-05 01:02:33 | [phip-seq-library-generator](https://pypi.org/project/phip-seq-library-generator/) | 1.0.0 | Izabella Zamora <izabella.zam… | 190.1 kB | Config-driven CLI pipeline that turns viral proteomes into synthesis-ready PhIP… |
+| 2026-11-05 01:03:08 | [xeibe-proj](https://pypi.org/project/xeibe-proj/) | 0.1.0 |  | 21.0 MB | A pyproj-compatible API for EPSG coordinate conversion in pure Rust, without PR… |
+| 2026-11-05 01:03:09 | [berry-cli](https://pypi.org/project/berry-cli/) | 0.1.0 | Cognitus Lab | 2.6 MB | Berry CLI — High-performance Rust & C-native autonomous agent runtime: shell, t… |
+| 2026-11-05 01:05:57 | [isdttool-pal](https://pypi.org/project/isdttool-pal/) | 1.1.0 | Max Ried | 99.8 kB | Tool to retrieve information from ISDT chargers with USB connection. |
+| 2026-11-05 01:07:15 | [scm4opt](https://pypi.org/project/scm4opt/) | 4.1.0 |  | 18.5 MB | SCM4OPT: Simple Climate Model for OPTimization (Python version) |
+| 2026-11-05 01:07:32 | [piig](https://pypi.org/project/piig/) | 0.0.0 |  | 1.2 kB |  |
+| 2026-11-05 01:08:48 | [jxcel](https://pypi.org/project/jxcel/) | 0.1.0 | Mahmoud Ehab | 66.7 kB | A cross-platform CLI for converting JSON datasets into Excel workbooks |
+| 2026-11-05 01:10:44 | [remit-actions](https://pypi.org/project/remit-actions/) | 1 |  | 278.7 kB | See what a pull request changes about what your GitHub Actions workflows are al… |
+| 2026-11-05 01:10:44 | [zeromem](https://pypi.org/project/zeromem/) | 0.4.0 | Panat Taranat <panat@taranat.… | 56.2 MB | Zero-token memory for LLM agents: provenance-preserving retrieval over raw trac… |
+| 2026-11-05 01:13:15 | [arpex](https://pypi.org/project/arpex/) | 0.0.1 |  | 3.5 kB | Arpex — The Embeddable Edge-to-Cloud Agentic Resource Planning & Execution (ARP… |
+| 2026-11-05 01:14:09 | [roap](https://pypi.org/project/roap/) | 2026.11.0 | Edem Mahu, Maurice Oti Edusei… | 293.7 kB | Reproducible Ocean Acidification Pipeline (ROAP) - ocean acidification quality… |
+| 2026-11-05 01:14:22 | [voxeldata](https://pypi.org/project/voxeldata/) | 0.0.1 | Samuel Le Meur-Diebolt | 86.2 kB | Spatially referenced voxel arrays built on xarray. |
+| 2026-11-05 01:18:06 | [viewo](https://pypi.org/project/viewo/) | 2.31.0 | Helmut Konrad Schewe <helmutu… | 868.0 kB |  |

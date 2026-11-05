@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-04T23:25:48Z,parallax-core,0.1.0,Parallax,Apache-2.0,1691631,"Parallax common runtime: the class-free engine spine (domain model, Predicate algebra, SQL lowering, unit of work, abstract database port)."
+2026-11-04T23:30:44Z,parallax-descriptor,0.1.0,Parallax,Apache-2.0,83650,Parallax descriptor interchange: canonical model-descriptor ingestion and export over the parallax-core spine.
+2026-11-04T23:38:41Z,parallax-snapshot,0.1.0,Parallax,Apache-2.0,164250,Parallax snapshot lifecycle extension: Snapshot[T] materialization and the developer handle over the parallax-core spine.
+2026-11-04T23:44:04Z,parallax-postgres,0.1.0,Parallax,Apache-2.0,2475526,Parallax Postgres database adapter: the concrete database runtime over psycopg and its companion pool.
+2026-11-04T23:52:17Z,parallax-evolution,0.1.0,Parallax,Apache-2.0,108077,"Parallax model evolution and schema deltas: the model-altitude difference between two accepted Metamodels, and the dialect statements that carry a database to the later one."
+2026-11-04T23:56:45Z,parallax-aws,0.1.0,Parallax,Apache-2.0,23488,Parallax AWS credential providers: RDS IAM database authentication as a Credential Source (the sole botocore declarer).
+2026-11-05T00:24:03Z,immunity,0.1.0,ellainng,MIT,28983,Ahead-of-time (AOT) compiled Zsh plugin manager in Python
+2026-11-05T00:26:21Z,asp-studio,0.2.3,yakupbulbul,MIT,62434,"Answer sets, a graph and a step-by-step animator for Answer Set Programming, in Jupyter, VS Code notebooks and the command line."
+2026-11-05T00:29:04Z,confidantic,0.1.0,Szymon Talaga <stalaga@protonmail.com>,MIT,417961,Configuration and CLIs for Python projects based on Pydantic and Pydantic Settings.
+2026-11-05T00:30:00Z,chrono-agent,0.3.0,,,91495,"Local filesystem snapshots, savepoints, rollback, branches, advisory command scanning and a tamper-evident audit trail."
+2026-11-05T00:33:41Z,xflog,1.0.0,,Apache-2.0,853027,A local-first X follower event journal
+2026-11-05T00:36:20Z,crawldata-engine,1.0.0,FindDataOfficial,MIT,1829419,Open-data ontology MCP: a semantic concept layer over multi-datasource financial/economic data
+2026-11-05T00:36:58Z,gblinux,0.1.1,renatormc,GPL-3.0-or-later,87560,Assinador de PDF com token A3 ICP-Brasil para Linux
+2026-11-05T00:38:06Z,asys-profiler,0.1.0,,,597439,A timeline profiler for coding-agent sessions.
+2026-11-05T00:40:43Z,django-ninja-mcp-server,0.1.0,Mariano Baragiola,BSD-3-Clause,48196,"Expose Django Ninja operations and Python functions as MCP tools for Claude Code, Codex and other MCP clients."
+2026-11-05T00:44:15Z,ludex-games,0.51.0,,GPL-3.0-or-later,222053,"Headless, scriptable library of the games you own across stores"
+2026-11-05T00:47:15Z,mapsql-mcp,0.2.0,Mehmet Veysel Delibaş,MIT,232549,"Safe, spatial-aware MCP server for PostGIS and Oracle Spatial: let AI assistants query your geodata and answer with maps."
+2026-11-05T00:47:38Z,fontmask,0.1.0,Matt Robenolt,MIT AND OFL-1.1,306911,Patch fonts with Obel Mono-style secret masking rules
+2026-11-05T00:49:14Z,CVEPaladin,0.2.0a1,Jun Tae Kim,Apache-2.0,7518646,Evidence-grounded vulnerability prevention for coding agents
+2026-11-05T00:49:23Z,ciencia-id,1.0.0,Paulo Soares (PeopleWare®),Apache-2.0,17116,"Ciência ID check digit (ISO/IEC 7064 MOD 17,16) validation"
+2026-11-05T00:53:22Z,dbt-extra,0.1.0,,MIT,349613,"Offline dbt transformation review, inspection, editing, and optimization"
+2026-11-05T00:55:35Z,xeibe,0.1.0,,CC0-1.0 AND MIT AND LicenseRef-EPSG,34897751,"Read GML files into Arrow/GeoArrow (experimental, AI-generated, unstable API)"
+2026-11-05T00:57:35Z,malibx,0.1.1,,MIT,1805005,
+2026-11-05T00:59:06Z,megacode-agent-sdk,0.31.0,,MIT OR Apache-2.0,52750,Drive a MEGA harness agent session from a Python program.
+2026-11-05T01:02:33Z,phip-seq-library-generator,1.0.0,Izabella Zamora <izabella.zamora@arcinstitute.org>,"MIT License Copyright (c) 2026 Izabella Zamora, Arc Institute Permission is hereby granted, free of…",190051,Config-driven CLI pipeline that turns viral proteomes into synthesis-ready PhIP-seq oligonucleotide libraries.
+2026-11-05T01:03:08Z,xeibe-proj,0.1.0,,CC0-1.0 AND MIT AND Apache-2.0 AND LicenseRef-EPSG,21022580,"A pyproj-compatible API for EPSG coordinate conversion in pure Rust, without PROJ (experimental, AI-generated, unstable API)"
+2026-11-05T01:03:09Z,berry-cli,0.1.0,Cognitus Lab,,2592188,"Berry CLI — High-performance Rust & C-native autonomous agent runtime: shell, tasks, processes, files, env by Cognitus Lab."
+2026-11-05T01:05:57Z,isdttool-pal,1.1.0,Max Ried,GPLv3,99809,Tool to retrieve information from ISDT chargers with USB connection.
+2026-11-05T01:07:15Z,scm4opt,4.1.0,,GPL-3.0-or-later,18489483,SCM4OPT: Simple Climate Model for OPTimization (Python version)
+2026-11-05T01:07:32Z,piig,0.0.0,,,1210,
+2026-11-05T01:08:48Z,jxcel,0.1.0,Mahmoud Ehab,MIT,66694,A cross-platform CLI for converting JSON datasets into Excel workbooks
+2026-11-05T01:10:44Z,remit-actions,1,,MIT,278667,See what a pull request changes about what your GitHub Actions workflows are allowed to do.
+2026-11-05T01:10:44Z,zeromem,0.4.0,Panat Taranat <panat@taranat.com>,MIT,56247708,"Zero-token memory for LLM agents: provenance-preserving retrieval over raw traces. Rust core, single SQLite file."
+2026-11-05T01:13:15Z,arpex,0.0.1,,Apache-2.0,3523,Arpex — The Embeddable Edge-to-Cloud Agentic Resource Planning & Execution (ARPX) Engine.
+2026-11-05T01:14:09Z,roap,2026.11.0,"Edem Mahu, Maurice Oti Edusei, Landung Setiawan, Vraj Rajpura","BSD 3-Clause License Copyright (c) 2024 University of Washington, eScience Institute, Scientific So…",293682,Reproducible Ocean Acidification Pipeline (ROAP) - ocean acidification quality control and processing platform
+2026-11-05T01:14:22Z,voxeldata,0.0.1,Samuel Le Meur-Diebolt,BSD-3-Clause,86162,Spatially referenced voxel arrays built on xarray.
+2026-11-05T01:18:06Z,viewo,2.31.0,Helmut Konrad Schewe <helmutus@outlook.com>,MIT,868028,
