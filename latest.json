@@ -1,41 +1,48 @@
 {
   "list": {
-    "count": 47,
-    "from": "2026-11-05T07:31:31.559802Z",
-    "path": "data/new-packages-2026-11-05T08-19-18-963926Z.csv",
-    "to": "2026-11-05T08:19:18.963926Z"
+    "count": 37,
+    "from": "2026-11-05T08:19:18.963926Z",
+    "path": "data/new-packages-2026-11-05T09-21-43-087092Z.csv",
+    "to": "2026-11-05T09:21:43.087092Z"
   },
   "pending": [
     {
-      "attempts": 1,
-      "created_at": "2026-11-05T08:16:12Z",
-      "package": "gpuwm-kernels",
-      "since": "2026-11-05T07:31:31.559802Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-05T05:59:00Z",
       "package": "hcj-demo",
       "since": "2026-11-05T05:18:44.430154Z",
       "version": "0.1.1"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-05T07:50:07Z",
       "package": "livekit-plugins-kalpa",
       "since": "2026-11-05T07:31:31.559802Z",
       "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-05T05:18:29Z",
-      "package": "ragleap-trace",
-      "since": "2026-11-05T04:18:52.419729Z",
+      "attempts": 1,
+      "created_at": "2026-11-05T09:03:44Z",
+      "package": "piyal_mcp",
+      "since": "2026-11-05T08:19:18.963926Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-05T09:21:40Z",
+      "package": "plaincard",
+      "since": "2026-11-05T08:19:18.963926Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-05T08:55:38Z",
+      "package": "rboto-athena",
+      "since": "2026-11-05T08:19:18.963926Z",
       "version": null
     }
   ],
-  "serial": 43231126,
+  "serial": 43233985,
   "source_truncated": false,
-  "window": "2026-11-05T08:19:18.963926Z"
+  "window": "2026-11-05T09:21:43.087092Z"
 }
