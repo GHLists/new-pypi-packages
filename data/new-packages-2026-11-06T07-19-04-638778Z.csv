@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T06:23:30Z,sendgrid-mailkit,0.2.0,Abhay Kumar Gupta <abhay.kumar@firecompass.com>,MIT,54429,SendGrid Mail Send API client with Jinja2 templates. Authenticate with SENDGRID_API_KEY — no SMTP username or password.
+2026-11-06T06:25:46Z,pipelabs-bridge,0.1.0,,,25049,Pipelabs bridge — connects your local ComfyUI server to Pipelabs.
+2026-11-06T06:26:35Z,punchlist,0.6.0,Steven Moret <smoret@gmail.com>,MIT,145536,"A file-based issue tracker: one markdown file per issue, in the project's own git repo"
+2026-11-06T06:27:42Z,gym-duckiematrix,0.1.0,Liam Paull,,10363,
+2026-11-06T06:28:57Z,tq-bridge,0.1.0,atorber,MIT,44617,通达信 tqcenter 跨平台远程调用：Windows 网关 + 远程 SDK
+2026-11-06T06:32:31Z,telegram-migration,0.1.0,,,135579,Resumable tool and Python library that rebuilds a Telegram Desktop chat export in a channel with a Telegram bot.
+2026-11-06T06:40:49Z,gencode-agent,1.0.0,,,30006,A terminal coding agent (run `gencode`) that works in your current folder using Ollama or OpenRouter
+2026-11-06T06:42:48Z,plm-aerospace,0.1.0,ro-rbl,MIT,6444,"plm pack: Aerospace calculations, checked by units and sanity rules"
+2026-11-06T06:42:50Z,plm-cad,0.1.0,ro-rbl,MIT,13054,"plm pack: CAD parts as CadQuery programs, checked by building them with the OpenCascade kernel"
+2026-11-06T06:42:51Z,plm-core,0.1.0,ro-rbl,MIT,37381,"Router, OpenAI-compatible server, CLI, numeric engine and the general pack; domain packs install separately"
+2026-11-06T06:42:52Z,plm-electrical,0.1.0,ro-rbl,MIT,5768,"plm pack: Electrical engineering calculations, checked by units and sanity rules"
+2026-11-06T06:46:18Z,notwork,0.0.1,Cariad Eccleston <cariad@cariad.earth>,MIT,1608,
+2026-11-06T06:47:03Z,swarmory,0.1.0a1,,MIT,365876,"Harness for multi-agent swarms, run locally or in the cloud."
+2026-11-06T06:47:38Z,tinyvm-Flaxot,0.1.0,,MIT,261821,A small C-powered stack-based bytecode virtual machine.
+2026-11-06T06:54:54Z,fde-tabular,1.0.0,"Dwi Sunaryono, Misbakhul Munir Irfan Subakti, Laras Suciningtyas, Irzal Ahmad Sabilla, Muchamad Kur…",MIT,73097,FDE: Feasible Diverse Ensembles for tabular classification
+2026-11-06T06:57:55Z,thetarelay,0.1.0,ThetaPlex <support@thetaplex.com>,Apache-2.0,223229,Routing proxy for coding agents: a local judge sends easy requests to a lite model (local or hosted) and hard ones to a frontier model
+2026-11-06T06:59:00Z,everbrowser,0.0.1,,MIT,1556,Reserved for EverBrowser
+2026-11-06T06:59:02Z,fastcomputer,0.0.1,,MIT,1565,Reserved for FastComputer
+2026-11-06T06:59:57Z,dex-connector-amazon-sqs,0.1.0,,MIT,118432,Amazon SQS connector for Dex Flows
+2026-11-06T07:00:15Z,markdown-json-excel-mcp,0.1.0,shsy-cong,,8484,"MCP server: convert markdown tables, JSON and CSV to Excel files"
+2026-11-06T07:01:15Z,authgebra,0.1.0,,Authgebra 专有软件许可 版权所有 (C) 2026 Authgebra 权利人。保留所有权利。 Copyright (C) 2026 The Authgebra Rights Holder…,185479,Official Python client for the Authgebra /api/v1 HTTP API (thin wrapper; performs no authorization computation).
+2026-11-06T07:04:13Z,dex-connector-atlassian-confluence,0.1.0,,MIT,142957,Dex-native Python connector for Atlassian Confluence
+2026-11-06T07:04:13Z,pregen-registry,0.2.0,,Apache-2.0,83212,"Reference PRE-GEN registry: ask before you generate, get a signed answer anyone can check."
+2026-11-06T07:04:51Z,hondana-ja,0.1.0,,MIT,44102,Fold Japanese/CJK book metadata for matching (簡繁・新旧字体・かな・全半角) and look up ISBNs with openBD → NDL → Google Books → Open Library fallback.
+2026-11-06T07:06:41Z,dex-connector-atlassian-jira,0.1.0,,MIT,134631,Dex-native Atlassian Jira Cloud connector
+2026-11-06T07:09:22Z,inter-agent-bus,0.15.0,,MIT OR Apache-2.0,372021,"Coordination bus between heterogeneous AI agents: task queues with claim/ack leases, shared result store (SQLite), roster-driven routing — the mechanism, never the cast."
+2026-11-06T07:14:34Z,llm-forensics,0.1.0,bohemian-miser,BSD-3-Clause,5954926,Detect and explain edits hidden in LLM weights.
+2026-11-06T07:15:02Z,heinzel-slack,0.1.0,,MIT,949195,"Tell the owner what needs them, and ask for approval of an exact draft, in their own Slack DM."
+2026-11-06T07:15:32Z,inferbuddy,0.0.1,,MIT,1545,Reserved for InferBuddy
+2026-11-06T07:15:37Z,umbraci.confluence-markdown-exporter,1.0.0,Sebastian Penhouet,MIT,547104,A tool to export Confluence pages to Markdown
+2026-11-06T07:16:04Z,decido-ai,1.0.0,,Apache-2.0,3219245,"Calibrated decisions (yes/no, pick-one, ordered scale) from a document — Decido models from the Hugging Face Hub, on a laptop CPU or a GPU."
+2026-11-06T07:16:56Z,neuroseq,0.30.0,Andrey Formozov,MIT,4423349,"Qt-based desktop GUI application for computational neuroscience, combining Brian2 spiking neural network simulation with interactive stimulus design, multi-source experimental data import, and hardwa…"
