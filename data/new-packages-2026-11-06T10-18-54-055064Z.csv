@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T09:22:07Z,interaktiv.argon2,1.0.0,Alexander Rybakov <rybakov@interaktiv.de>,GPL-2.0-only,28594,Argon2id password hashing for Zope and Plone (AuthEncoding scheme).
+2026-11-06T09:22:10Z,amd-triton-kernels,1.0.0.dev0,Mengfei Jiang <mengfei.jiang@amd.com>,MIT,327055,AMD Triton Kernels - High-performance GPU kernel library for AMD GPUs
+2026-11-06T09:23:03Z,my-project-whYan,0.1.0,Yang,,2719,Add your description here
+2026-11-06T09:23:48Z,symphony-dt,2.0.0,Ahmed Hemedan,BSD-3-Clause,364323,"Bayesian hierarchical state-space digital twins for longitudinal clinical cohorts, with the SYMPHONY v2 Parkinson's disease model."
+2026-11-06T09:24:03Z,pydantic-ai-agent-network-access-probe,0.1.0,Trustabl,Apache-2.0,31644,"Scan agent tool code for runtime and network-access problems with Trustabl Probe, from a Pydantic AI agent."
+2026-11-06T09:24:37Z,langchain-brewpage,0.1.0,Maksim Kochetkov <apmatypa88@gmail.com>,MIT,14069,"LangChain tools for BrewPage: publish HTML, Markdown, JSON, KV stores and files to brewpage.app and get a shareable URL."
+2026-11-06T09:24:40Z,llama-index-tools-brewpage,0.1.0,Maksim Kochetkov <apmatypa88@gmail.com>,MIT,13619,"LlamaIndex tool spec for BrewPage: publish HTML, Markdown, JSON, KV stores and files to brewpage.app and get a shareable URL."
+2026-11-06T09:25:03Z,opentool-python,0.1.0,OpenTool Hub,MIT,44911,Python SDK for OpenTool-compatible clients and servers
+2026-11-06T09:27:02Z,canalis,1.0.0,Strategos <r@strategos.au>,Proprietary,6269,Data channel and engine for the Strategos legal research ecosystem. by Strategos.
+2026-11-06T09:27:27Z,atlas-brief-mcp,0.2.1,DrProof <222544540+drproof@users.noreply.github.com>,"MIT License Copyright (c) 2026 DrProof Permission is hereby granted, free of charge, to any person…",313324,"Local MCP index for project documentation: token-saving BM25 search, verified status lines, and multi-language code wiring gate"
+2026-11-06T09:27:31Z,odoo-addon-base-connector,18.0.1.1.0,Sygel,AGPL-3,91811,Base of the general connector modules
+2026-11-06T09:27:37Z,odoo-addon-ecommerce-connector-account-fiscal-position-partner-type,18.0.1.1.0,Sygel,AGPL-3,33117,Add fiscal position partner type logic to ecommerce calls
+2026-11-06T09:29:47Z,ioimage,0.1.3,"Hervé Turlier <herve.turlier@cnrs.fr>, Matthieu Perez <matthieu.perez@cnrs.fr>",GPL-3.0-or-later,425882,"Read and write microscopy images (TIFF, OME-TIFF, OME-Zarr) with one API, lazy region reads and complete metadata"
+2026-11-06T09:30:37Z,renum-cli,0.1.0,,,3561,Image sequential renamer tool
+2026-11-06T09:35:22Z,erupt-sdk,0.1.0,,Apache-2.0,92619,Serve Python models as an erupt admin UI through an erupt cloud server
+2026-11-06T09:36:39Z,openrois-gateway,0.1.0a1,OpenRoIS Community,Apache-2.0,30434,OpenRoIS gateway: the process that hosts the main RoIS HRI Engine and faces the network
+2026-11-06T09:37:08Z,nyxa-speedups,0.0.1,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,2530585,Native accelerators for the Nyxa framework (bundled with nyxa by default)
+2026-11-06T09:37:18Z,nyxa-minijinja,0.0.1,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,4235610,MiniJinja-backed template engine for Nyxa (opt-in view engine)
+2026-11-06T09:37:28Z,nyxa-forms,0.0.1,Al-Amin Islam Nerob <alamin@aincoder.com>,MIT,68512,"Form requests + web validation for Nyxa — rule strings, error bags, old input"
+2026-11-06T09:37:36Z,nyxa,0.0.1,Al-Amin Islam Nerob,MIT,1419601,"Standalone, convention-first backend framework for Python — AI-first"
+2026-11-06T09:41:31Z,symantec-edr-aiops,0.1.0,Wei Zhou <zhouwei008@gmail.com>,MIT,92582,Governed operations for Symantec Zero Trust Network Access
+2026-11-06T09:43:18Z,comfyui-mie-llm,0.1.0,,GPL-3.0,20651,"Mie's LLM client layer: the connector per provider, the shared call budget, and the helpers they need."
+2026-11-06T09:43:23Z,comfyui-mie-prompt,0.1.0,,GPL-3.0,91923,"Mie's prompt layer: the H3 and storyboard prompt templates, the external prompt loader, and the prompt families."
+2026-11-06T09:43:28Z,comfyui-mie-craft,0.1.0,,GPL-3.0,160455,"Mie's creation line: the character and scene library, the script contract, the zero-LLM plan assembler, the continuity critic, and the dialogue pacing."
+2026-11-06T09:44:41Z,pipsutra,0.1.0,Nikhil Mutreja,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",57983,"Python dependency trust and security analysis, developed by Nikhil Mutreja"
+2026-11-06T09:51:41Z,learnm8,1.0.0,"Antoine Lacour, Maximilian Bähr, Andrea Volkamer",MIT,556146,Active learning framework for large-scale molecular screening
+2026-11-06T09:52:07Z,anakin-appflow-connector,0.1.0,Anakin Inc,MIT,35362,"Amazon AppFlow custom source connector for Anakin: scrape URLs and run Wire actions into S3, Redshift and other AppFlow destinations."
+2026-11-06T09:53:05Z,odoo-addon-helpdesk-workbench,16.0.0.1.0.22,"Som It Cooperatiu SCCL, Som Connexio SCCL, Odoo Community Association (OCA)",AGPL-3,1473605,Three-pane helpdesk workbench layout for helpdesk tickets.
+2026-11-06T09:54:10Z,pyinkvision,0.1.0,HomeBrainz,MIT,15855,"Async client for the local API of inkVision devices (Atmos Smart Clock, Frame, Bento Bar)"
+2026-11-06T09:56:02Z,cyberise-downlink,2026.11.0,cyberise GmbH,MIT,43359,"Multi-process Python logging: one line format, shared rotating files, crash capture, a live console switch"
+2026-11-06T09:58:46Z,ghostty-config,2.1.0,Johan H.G. Natter,MIT,17954019,"Themes, fonts, shortcuts and every everyday setting of Ghostty, in a full-screen interface inside the terminal."
+2026-11-06T09:58:56Z,langchain-frame,0.1.0,Sandeep Das,Apache-2.0,24214,LangChain tools for Frame: scan code for vulnerabilities and check that a fix removed them
+2026-11-06T10:00:27Z,graphrag-atlas,0.1.0,"""Mabasha.R"" <mabasham52@gmail.com>",MIT,615540,"Production-grade Single-Store Hybrid GraphRAG on MongoDB Atlas: BM25, HNSW Vector Search, and Bounded $graphLookup"
+2026-11-06T10:03:20Z,pyedge,3.0.0,Manvel Avetisian,MIT,26850586,"Python bindings of edge, a small C++ renderer (Vulkan, OpenGL ES, Metal)"
+2026-11-06T10:04:10Z,providence,0.0.1,Eachan Johnson <eachan.johnson@crick.ac.uk>,"MIT License Copyright (c) [year] [fullname] Permission is hereby granted, free of charge, to any pe…",34294,Reproducible dataset loading and source tracking.
+2026-11-06T10:04:22Z,arabam-mcp,0.1.0,Mohammad Abbasi,MIT,26204,"Unofficial read-only MCP server for arabam.com used-car listings (search, details, price stats)"
+2026-11-06T10:04:26Z,emlakjet-mcp,0.1.0,Mohammad Abbasi,MIT,31429,"Unofficial read-only MCP server for emlakjet.com real-estate listings (search, details, price stats)"
+2026-11-06T10:04:28Z,armut-mcp,0.1.0,Mohammad Abbasi,MIT,68619,"Unofficial read-only MCP server for armut.com local services (search, pros, FAQs, price guides)"
+2026-11-06T10:05:05Z,ai-netdoctor,0.1.2,,MIT,47359,A small CLI for diagnosing AI API connectivity and HTTP proxy issues
+2026-11-06T10:08:04Z,brand-impersonation-detector,0.1.0,Alex Chernysh,Apache-2.0,630995,"Self-hosted brand impersonation detection with signed, offline-verifiable evidence"
+2026-11-06T10:08:29Z,finis,1.0.0,Strategos <r@strategos.au>,Proprietary,6225,Legal boundary and jurisdiction scoping tool. by Strategos.
+2026-11-06T10:09:47Z,relinos,0.2.0,,,166082,Self hosted scraping api
+2026-11-06T10:13:14Z,mcp-server-arxiv,0.0.1,Johannes Hoppe,MIT,2552,Security placeholder for a name used by mcp-agent's server recipes. This package only prints a warning and exits.
+2026-11-06T10:13:16Z,mcp-server-azure,0.0.1,Johannes Hoppe,MIT,2549,Security placeholder for a name used by mcp-agent's server recipes. This package only prints a warning and exits.
+2026-11-06T10:13:17Z,mcp-server-discord,0.0.1,Johannes Hoppe,MIT,2578,Security placeholder for a name used by mcp-agent's server recipes. This package only prints a warning and exits.
+2026-11-06T10:13:49Z,envyy,0.1.0,Trevor Wang,,19195,Add your description here
+2026-11-06T10:14:03Z,openfitz,0.1.0,Jagadeesh Murugesan <jagadeeshsanjay88705@gmail.com>,MIT,26491,"A fast, lightweight Python library for PDF document parsing, spatial text extraction, and raster rendering, powered by Google PDFium."
+2026-11-06T10:15:47Z,sevenmaps-guard,0.1.1,7IT <lior@7it.co.il>,MIT,20292,"MCP client middleware: check a server on the 7Maps map before connecting, and optionally report how calls went."
+2026-11-06T10:16:40Z,swgo-array-trigger,0.1.0,Johannes Bennemann <johannes.bennemann@mpi-hd.mpg.de>,MPL-2.0,19064126,Python bindings for the SWGO Array Trigger
+2026-11-06T10:17:52Z,oro-g2p,0.1.0,Oro Contributors,MIT,20649,Research-grade Yoruba Grapheme-to-Phoneme (G2P) converter and Kokoro TTS frontend
