@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T16:19:27Z,insect-audio-features,0.1.0,Gabriel Cavalcante Velasquez,,22739,Python feature extraction for insect optoacoustic signals
+2026-11-06T16:19:58Z,ru-name-anonymizer,1.0.1,,MIT AND CC-BY-SA-3.0,223920,"Анонимизация русских имён, отчеств и фамилий без ML и тяжёлых зависимостей"
+2026-11-06T16:23:08Z,asynk,0.1.0,Carlos Marques,MIT,90952,Asyncio task framework with decoupled producers and consumers
+2026-11-06T16:23:38Z,spice3,0.0.1,André Leite <leite@de.ufpe.br>,BSD-3-Clause,2697693,SPICE3f5-faithful circuit simulation (the Dune engine) for Python
+2026-11-06T16:23:57Z,quantlab-factor-agent,0.1.0,Zhaorong Dai,MIT AND Apache-2.0,697561,"LLM-driven, mechanism-first formulaic factor research on quantlab, evaluated with KunQuant."
+2026-11-06T16:25:13Z,run-in-env,1.0.1,Jeremie Gobeil <jgobeil@nikhef.nl>,AGPL-3.0-only,39577,Run python functions inside separate conda environments
+2026-11-06T16:25:17Z,cloudflare-mcp,0.1.0,,MIT,23292,MCP connector for Cloudflare.
+2026-11-06T16:25:22Z,duckdb-core-ext-azure,0.0.0,DuckDB,,1085,Reserved name for the DuckDB azure extension packaged for pip
+2026-11-06T16:25:24Z,duckdb-core-ext-core_functions,0.0.0,DuckDB,,1153,Reserved name for the DuckDB core_functions extension packaged for pip
+2026-11-06T16:25:25Z,duckdb-core-ext-delta,0.0.0,DuckDB,,1083,Reserved name for the DuckDB delta extension packaged for pip
+2026-11-06T16:25:27Z,duckdb-core-ext-demo_capi,0.0.0,DuckDB,,1115,Reserved name for the DuckDB demo_capi extension packaged for pip
+2026-11-06T16:26:01Z,tempmail-multi,1.0.0,TempMail Multi,MIT,32529,"Multi-provider temporary email API (Mail.tm, 1secmail, Guerrilla Mail)"
+2026-11-06T16:26:21Z,sykil-security-analyzer,1.0.0,Anas Fanu <anasfanu@example.com>,MIT,80123,"SYKIL : Security Analyzer - Smashing Vulnerabilities, Securing Code"
+2026-11-06T16:28:27Z,carellai,0.0.1,"""Carell.ai"" <support@carell.ai>",LicenseRef-Proprietary,3798,"Name held by Carell.ai. Installs nothing; the Carell.ai verifier is installed from https://carell.ai, not from PyPI."
+2026-11-06T16:28:28Z,jaat2,2.0.1,Stephen Meisenbacher <sjmeis@gtgd.com>,Apache-2.0,5120884,JAATv2: the new and improved Job Ad Anaylsis Toolkit
+2026-11-06T16:31:21Z,vllm-headroom,0.1.0,,Apache-2.0,82638,Estimate how much more load a vLLM deployment can take before it breaks its latency SLO
+2026-11-06T16:34:51Z,feedhorizon,0.1.0,FeedHorizon,MIT,50509,"Official Python SDK for the FeedHorizon API: schedule and publish posts on X, LinkedIn, Instagram, Bluesky, Pinterest and TikTok."
+2026-11-06T16:36:38Z,ibist,0.1.0a1,Elizabeth Schifano,GPL-3.0-or-later,446502,Teaching data and biostatistical inference for proportions and rates
+2026-11-06T16:37:24Z,arc56-generated-joees-e5d5a6c3,1.2.2026072010,joeesteves,,14514,Generated ARC-56 Algorand smart-contract clients for joeesteves/algorand-typescript-workshop.
+2026-11-06T16:37:51Z,codefilterph-logcollector,0.1.1,CodefilterPH | Euge,MIT,198908,"Django Nginx log collection, security monitoring, and remote collector dashboards"
+2026-11-06T16:38:28Z,arc56-generated-josel-4188d5e6,1.2.2026072010,JoseLili,,26015,Generated ARC-56 Algorand smart-contract clients for JoseLili/registro-empresarial-blockchain.
+2026-11-06T16:39:28Z,trialmark-forge,0.1.0,PE (peshwar9),Apache-2.0,26682,"A Trialmark runner that acceptance-tests Forge's AI steps (answering, summarising, drafting, extracting, classifying and checking) through Forge's evaluation API, on the models you choose."
+2026-11-06T16:39:32Z,arc56-generated-jvany-38af36ce,1.2.2026072010,jvanyom,,23792,Generated ARC-56 Algorand smart-contract clients for jvanyom/demochain.
+2026-11-06T16:42:08Z,secure-agent-gateway,0.1.0,Jake Spillers,MIT,591308,Policy enforcement for AI agent tool calls: an MCP proxy plus a hardened delegated-identity reference gateway.
+2026-11-06T16:42:24Z,foliorivet,0.1.0a1,,MIT OR Apache-2.0,44097347,"Experimental native DOCX templates: scalars, rows, pictures and blocks"
+2026-11-06T16:43:13Z,labplotlib,0.2.0,iancullinane06,MIT,15675,Plot styling helpers and searchable mathematical symbols.
+2026-11-06T16:47:08Z,bioimageflow-omero-tools,0.2.0,BioImageFlow Contributors,BSD-4-Clause,27215,Basic lossless OMERO dataset download and image upload tools for BioImageFlow
+2026-11-06T16:47:28Z,PenMimic,0.1.1,Ezzah Najmal,MIT,47266,"Write any text in your own handwriting, from photos of a filled-in template sheet."
+2026-11-06T16:50:15Z,research-agent-skills,1.1.1,"Sayan Chowdhury, Kalaris Labs",MIT,283775,"Install 280+ AI agent skills for academic writing, literature reviews, citation checking and scientific research across biology, chemistry, medicine, physics and ML."
+2026-11-06T16:50:38Z,artest-core,0.2.0,,Apache-2.0,49509,"Domain models, run events and plugin protocols for Artest."
+2026-11-06T16:50:55Z,artest-llm,0.2.0,,Apache-2.0,96452,"Provider gateway for language models: adapters, routing, call cache."
+2026-11-06T16:51:45Z,artest-browser,0.2.0,,Apache-2.0 AND MPL-2.0,534222,"Browser automation for Artest: funnel explorer, captures and variant rendering."
+2026-11-06T16:54:11Z,docmatch,0.1.0,,Apache-2.0,19793,Cliente oficial da API docmatch
+2026-11-06T16:54:44Z,snowfoxclaw,0.1.0,SnowFox <snowfox@users.noreply.github.com>,MIT,6419,个人 Agent 智能体，住在你设备里的狐狸
+2026-11-06T16:55:19Z,easygame-python-easy,0.1.0,iamadev12345,,7593,A clean wrapper built to take the boilerplate out of Pygame layout design.
+2026-11-06T16:57:34Z,tiredize,0.1.0,TIRED Labs,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",284475,Configurable schema/linter validation for markdown docs
+2026-11-06T16:57:38Z,localmem-memory,0.1.0,,Apache-2.0,26866,"The localmem Memory API: memory of each of your customers, with the source and date of every fact. `localmem-memory login` pairs a terminal with a project."
+2026-11-06T16:58:17Z,arx-scope-verify-2797,0.0.1,,,405,
+2026-11-06T16:58:52Z,boxwren-py,0.2.2,,MIT OR Apache-2.0,38602633,In-process Python bindings for the Boxwren WebAssembly sandbox.
+2026-11-06T17:02:06Z,pykardia,0.1.0.dev1,,GPL-3.0-only,337079,Plugin framework with revertible effects and reactive services
+2026-11-06T17:02:15Z,objectionengine2,1.0.0,"Luis Mayo Valbuena, Malcolm Anderson",MIT,77883,Independent continuation of Objection Engine for rendering Ace Attorney scenes
+2026-11-06T17:05:21Z,orbtile-adapter,0.1.0,Orbtile contributors,MIT,32923,Dependency-free sync and asyncio clients for the Orbtile Adapter API
+2026-11-06T17:10:57Z,objectionengine2-teams,1.0.0,,MIT,28421,Render Microsoft Teams chats and channels with objectionengine2
+2026-11-06T17:11:44Z,temptf,0.1.0,Liaksol,MIT,15690,Python client for the temp.tf disposable email API
+2026-11-06T17:12:28Z,permission-audit,1.0.0,Jasveer Singh,MIT,62397,"Audit a Claude Code permission allowlist chain — wildcard grants, dangerous modes committed to shared settings, and rules that can never fire because a wider rule wins."
+2026-11-06T17:13:31Z,done-claim-auditor,1.0.0,Jasveer Singh,MIT,48689,"Audit an AI agent's completion claims against its own session transcript — every claim EVIDENCED, UNEVIDENCED or CONTRADICTED, with line numbers."
+2026-11-06T17:13:31Z,fsspec-mq,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6463,fsspec-mq
+2026-11-06T17:13:51Z,kidwit,0.1.0rc1,SM Sabbir Amin <sabbiramin.cse11ruet@gmail.com>,MIT,60201,A minimal coding agent in one file of standard-library Python. It works inside one directory and asks before it changes anything.
+2026-11-06T17:14:26Z,gst-hst-tracker,1.0.0,Jasveer Singh,MIT,63129,"Track GST/HST for Canadian freelancers and sole proprietors: per-quarter collected, ITCs and net owing, the $30,000 small-supplier alarm, and a per-province exposure view. A tracking aid — not tax ad…"
+2026-11-06T17:14:26Z,mauritania-geo,1.0.0,mauritania-geo contributors,MIT,80360,"The definitive, zero-runtime-dependency geospatial & administrative dataset for Mauritania: 15 wilayas, 63 moughataas, 238 communes, historical era views and cross-script search."
+2026-11-06T17:16:23Z,scrapling-data,0.1.0,Scrapling Data <scraplingdata@mail.grokbot.com>,MIT,36574,"Lead-magnet SDK for Scrapling Data: free address tools + x402 pay-per-call crypto intel for AI agents (USDC on Base, no API key)."
+2026-11-06T17:16:52Z,latawiec,0.0.1,Krystian Szozda <kr.szozda@gmail.com>,Apache-2.0,8737,Native mobile apps flown from a Python backend — server-driven UI on DivKit
