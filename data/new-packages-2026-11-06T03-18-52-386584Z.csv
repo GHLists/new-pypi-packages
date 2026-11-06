@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T02:01:54Z,architeuthis,0.1.4b0,Jules Richeux <j.richeux@neoline.eu>,MIT,4779695,"Meteorological, oceanographic, and geospatial processing library for Architeuthis."
+2026-11-06T02:23:03Z,rapid-doc-rust,0.1.0,,,141892659,"RapidDoc native Rust PDF, DOC, DOCX, XLS, XLSX, PPT and PPTX engine with a Python-compatible preview API"
+2026-11-06T02:32:44Z,bazaar-contrib-server-access,0.3.0rc1,,Apache-2.0,71461,Sessions and the login page the Bazaar Compute server is behind
+2026-11-06T02:33:29Z,updscreen,1.0.1,Bingbo Zhou,MIT,141462,Trio-based uniparental disomy (UPD) screening from family WES/WGS VCF files
+2026-11-06T02:34:18Z,basemode-tokens,0.1.0,,,103751,"Turn Figma variables and styles into CSS, Tailwind, Sass, TypeScript and W3C design tokens"
+2026-11-06T02:37:39Z,rhyme-sdk,0.1.0,Rhyme,Apache-2.0,40989,Python client for the Rhyme Agent API
+2026-11-06T02:38:45Z,vitalrix,0.1.0,VitalRix,MIT,13205,"Send traces, metrics and logs from Python to VitalRix in one call (OpenTelemetry under the hood)."
+2026-11-06T02:40:08Z,profileout,0.1.0,ProfileOut,MIT,19835,Official Python SDK for the ProfileOut API
+2026-11-06T02:44:50Z,vapourlint,0.1.0,The VapourLint Authors,MIT,51734,A static analyzer for VapourSynth scripts
+2026-11-06T02:45:37Z,gitd-client,0.14.0,,Apache-2.0,58699,"Client for gitd: instant, secretless git checkouts for agent sandboxes"
+2026-11-06T02:46:09Z,patchdiff-mcp,0.1.0,,MIT,309204,MCP-first PatchDIFF backend
+2026-11-06T02:53:36Z,mvhg,1.0.1,,,1620539,C++ pybind11 extension for MVHG
+2026-11-06T02:55:33Z,alce-financial,0.1.0,AI Lab 100 <ailab100@163.com>,MIT,137090,Financial calculations library with Cython acceleration
+2026-11-06T03:08:16Z,noeta-tui,1.0.1,The Noeta Authors <initxy0@gmail.com>,Apache-2.0,133069,"noeta's terminal UI, shaped after Claude Code's: `noeta` with no arguments opens it."
+2026-11-06T03:10:15Z,zanii-campus,0.1.0,,Apache-2.0,35887,"Zanii Campus firm SDK: declare agents and deployments, count outcomes locally, send signed counts only"
+2026-11-06T03:10:36Z,qspquest,0.1.0,,Apache-2.0,15697474,Rust pharmacology model compiler and simulation engine
+2026-11-06T03:13:05Z,dummypy-itsec,9.9.9,,,3293,A minimal placeholder package for ITSEC publishing validation.
