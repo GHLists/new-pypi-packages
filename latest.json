@@ -1,27 +1,104 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-11-06T19:20:44.558896Z",
-    "path": "data/new-packages-2026-11-06T20-20-21-859368Z.csv",
-    "to": "2026-11-06T20:20:21.859368Z"
+    "count": 36,
+    "from": "2026-11-06T20:20:21.859368Z",
+    "path": "data/new-packages-2026-11-06T21-18-46-272267Z.csv",
+    "to": "2026-11-06T21:18:46.272267Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-11-06T21:02:04Z",
+      "package": "arkhai-bare-metal-buyer",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T21:02:20Z",
+      "package": "arkhai-compute",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T20:45:10Z",
+      "package": "arkhai-compute-delivery",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T21:02:43Z",
+      "package": "arkhai-compute-provisioning-ansible",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T21:03:02Z",
+      "package": "arkhai-compute-provisioning-client",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T21:03:19Z",
+      "package": "arkhai-compute-provisioning-contracts",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T21:03:36Z",
+      "package": "arkhai-kit-arkhai-mediation",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T21:03:49Z",
+      "package": "arkhai-kit-arkhai-payments",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T21:04:04Z",
+      "package": "arkhai-kit-capability-admissibility",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T21:04:20Z",
+      "package": "arkhai-kit-capability-pricing",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-06T19:34:27Z",
       "package": "orchestral-labs",
       "since": "2026-11-06T19:20:44.558896Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-06T21:18:27Z",
+      "package": "pyixblue",
+      "since": "2026-11-06T20:20:21.859368Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-06T19:04:23Z",
       "package": "static-datalake-doco",
       "since": "2026-11-06T18:18:48.818628Z",
       "version": null
     }
   ],
-  "serial": 43309594,
+  "serial": 43311293,
   "source_truncated": false,
-  "window": "2026-11-06T20:20:21.859368Z"
+  "window": "2026-11-06T21:18:46.272267Z"
 }

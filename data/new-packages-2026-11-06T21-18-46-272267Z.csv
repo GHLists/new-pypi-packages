@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T20:21:35Z,pyshs-optics,4.0.2,Pierre-Marie Gassin <pierre-marie.gassin@enscm.fr>,MIT,199226,Second Harmonic Scattering (SHS) and Hyper-Rayleigh Scattering (HRS) calculations - pure Python / NumPy
+2026-11-06T20:24:03Z,lupaxa-text-analyse,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",39162,Analyse prose for readability and source code for rough size and complexity metrics.
+2026-11-06T20:25:07Z,west-rs,2.0.0a1,Zephyr Project <devel@lists.zephyrproject.org>,Apache-2.0,34774481,Zephyr RTOS Project meta-tool
+2026-11-06T20:27:46Z,mcp-for-openfilters,0.2.1,Bruno Esteves <mcp.for.openfilters@gmail.com>,GPL-2.0-or-later,16926637,MCP server that lets Claude design and optimize optical thin-film coatings with OpenFilters
+2026-11-06T20:30:33Z,hatch-cuda,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6440,hatch-cuda
+2026-11-06T20:30:39Z,fsspec-stream,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6494,fsspec-stream
+2026-11-06T20:34:35Z,nachalo,0.1.0,Ramsis Peñaloza,MIT OR Apache-2.0,2142537,Python bindings for Nachalo (CPace + X25519 + ML-KEM-768 first contact from a few words) and Nachalo Channel v1.
+2026-11-06T20:36:01Z,ernie-renderer,0.1.0.post0.dev28,Alex Maietta,BSD-3-Clause,311612207,"Efficient Renderer for Natural and Interplanetary Environments: a physically-based, real-time, spectral renderer for planetary robotics and sensing"
+2026-11-06T20:41:15Z,qseries-sage,1.3.0,Gerard Garvan,GPL-2.0-or-later,103401,Python/SageMath port of Garvan's Maple qseries package v1.3
+2026-11-06T20:41:44Z,penguwatch,0.15.1,,MIT,1688239,"TV & movie tracker, streaming subscription rotation optimizer, and two-way SIMKL sync"
+2026-11-06T20:45:25Z,hungerbridge,1.0.dev4,iFamished,MIT,79373,Python client for the HungerBridge Minecraft (Paper/Folia/Fabric) HTTP bridge
+2026-11-06T20:47:17Z,soupdb,0.6.1,BD2-Project,MIT,714624,"Motor de base de datos multimodal (relacional, espacial, vectorial) con RAG sobre papers académicos."
+2026-11-06T20:47:19Z,soupdb-inverted,0.1.0,,MIT,41021,SoupDB full-text plugin: persistent SPIMI index with TF-IDF/BM25.
+2026-11-06T20:47:20Z,soupdb-vector,0.1.0,,MIT,69372,SoupDB vector plugin: persistent IVF/HNSW indices and SIFT/MFCC features.
+2026-11-06T20:49:09Z,rhizodat,0.1.0a1,ice1x,Apache-2.0,942125,"Bitemporal polyglot data layer over PostgreSQL, ClickHouse, drevo and Apache Iceberg"
+2026-11-06T20:49:16Z,rhizodat-native,0.1.0a1,,Apache-2.0,67714002,"The rhizodat core in Rust, for the rhizodat Python package"
+2026-11-06T20:50:41Z,zanii-oversight-sdk,0.1.0,Zanii AI <info@zanii.agency>,Apache-2.0,45532,Client for a supervised firm's own systems: hear Zanii Oversight events and answer evidence requests without a person typing. Python twin of @zanii/oversight-sdk.
+2026-11-06T20:53:28Z,insta-edits,0.1.1,Faisal Khan,MIT,46435,"Let Claude Code and other MCP clients edit Instagram Reels in Edits for Mac, through its built-in MCP server."
+2026-11-06T20:53:43Z,jinja.yaml,0.2.0,Axel Haustant,MIT,61750,YAML configuration with dependency-aware Jinja templating
+2026-11-06T20:56:08Z,lg-therma-v-modbus,0.1.0,lg-therma-v-modbus contributors,Apache-2.0,45332,Read and control LG Therma V heat pumps (and the Eastron SDM120 meter next to them) over Modbus.
+2026-11-06T20:58:32Z,neuralpy-learn,0.1.0,Neuralpy contributors,MIT,25385,Beginner-friendly neural network reinforcement learning in pure NumPy
+2026-11-06T20:59:10Z,sinchole,0.1.0,Corey Spohn <corey.a.spohn@nasa.gov>,"MIT License Copyright (c) 2026 Corey Spohn Permission is hereby granted, free of charge, to any per…",100222,Sampling-admitted intensity grids and windowed-sinc reads in JAX with unknown error bounds
+2026-11-06T20:59:47Z,open-logistics-sdk,0.2.2,Open Logistics,MIT,224164,Open Logistics — Shiprocket and Delhivery
+2026-11-06T21:00:25Z,kinfer-ai,0.2.4,LocalKinAI,Apache-2.0,7348477,"A single-file local inference runtime for agent fleets on Apple Silicon: Ollama, OpenAI and Anthropic APIs, many agents at once, models bigger than the machine"
+2026-11-06T21:00:28Z,lfx-linq,0.1.0,Linq <contact@linqapp.com>,MIT,336573,Linq messaging components for Langflow
+2026-11-06T21:01:33Z,hookhappens,0.1.0,,LicenseRef-Proprietary,20924,"The Python client and pytest plugin for HookHappens, the webhook and API mock for testing at hookhappens.com."
+2026-11-06T21:06:04Z,olaverse-mcp,0.1.0,Olaverse Ltd,Apache-2.0,21542,"Olaverse Lab's API as MCP tools: document extraction with calibrated confidence, decisions, language ID (608 languages), diacritics and question generation"
+2026-11-06T21:06:43Z,workspace-operator-mcp,1.12.0,Artoxem,MIT,202464,"Deep Google Workspace automation for AI agents — Apps Script execution, local file transfer, Slides, document templates, cross-product search, and tool profiles"
+2026-11-06T21:06:57Z,peira-loss,0.1.0,"Michael Arbel, Basile Terver, Jean Ponce",MIT,17932,PEIRA anti-collapse loss for joint-embedding self-supervised learning (pure PyTorch).
+2026-11-06T21:07:11Z,verifactu-keyflint-mcp,0.1.0,ArceeDev,BUSL-1.1,162532,"MCP server for Spanish invoicing compliance: audit VERI*FACTU fingerprint (huella) chains, generate the AEAT tax QR, and build/validate Facturae 3.2.2 invoices against the official XSD. Billed per ca…"
+2026-11-06T21:09:58Z,earlyforge,0.1.0,EarlyForge,MIT,11903,"Python client for the EarlyForge Pulse API (free trend data, authenticated)"
+2026-11-06T21:10:00Z,earlyforge-cli,0.1.0,EarlyForge,MIT,12048,"Command-line client for the EarlyForge Pulse API (free trend data, authenticated)"
+2026-11-06T21:15:10Z,alphasix-hexiom,0.0.1.dev0,,,870,Hexiom - the AI engine library behind QuantumDrive (name reservation; real release follows)
+2026-11-06T21:15:21Z,tt-rl,0.1.0,Antoni Bertel,MIT,983091,"Reinforcement learning on Tenstorrent, natively on TT-NN"
+2026-11-06T21:15:36Z,tack-core,0.7.0,"Kitware, Inc.",BSD-3-Clause,1179379,Tack — GPU compute framework (core)
+2026-11-06T21:16:32Z,data-director-inventory,0.1.0a3,Joe Heffer <j.heffer@sheffield.ac.uk>,MIT,24059,"Describe a dataset's files where they live: size, digest, PRONOM format and table fields, without uploading them"
