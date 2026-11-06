@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T01:22:16Z,fsspec-kafka,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6448,fsspec-kafka
+2026-11-06T01:22:41Z,nox-python-standards,0.2.1,,0BSD,34485,Check and sync complete local copies of Noxala Python standards
+2026-11-06T01:29:54Z,stase,0.6.7,Louis Héraut <louis.heraut@inrae.fr>,GPL-3.0-or-later,152811,STASE : STatistical Aggregation & Stationarity Evaluation for daily hydroclimatic time series (Python port of the EXstat R package)
+2026-11-06T01:30:03Z,walletcap,0.2.2,Coriolis Labs Inc.,Apache-2.0,138021,"One spend budget per wallet for AI agents: counted across every process, replica, key, permission and payment rail."
+2026-11-06T01:32:36Z,easygame-easy-python,0.1.0,iamadev12345,,5106,A clean wrapper built to take the boilerplate out of Pygame layout design.
+2026-11-06T01:36:27Z,milton-mcp,0.1.0,Milton Analytics LLC <support@withmilton.ai>,MIT,130840,"MCP server for Milton's analyst agents: technical, fundamental, macro, trade design and the full desk, through Milton's API."
+2026-11-06T01:38:19Z,zettcode-mcp,0.4.1,Chang-LeHung,MIT,14727,"The MCP client of ZettCode: the tools MCP servers offer, as a part of the agent that lives apart from it"
+2026-11-06T01:38:37Z,tallywhacker,0.0.1,Russell Bomer,AGPL-3.0-or-later,25932,Contract-exact billing for independent consultants. In development.
+2026-11-06T01:38:39Z,t10r,0.0.1,Russell Bomer,AGPL-3.0-or-later,25774,Name reserved for the t10r command of Tallywhacker. In development.
+2026-11-06T01:39:21Z,zettcode-messaging,0.4.1,Chang-LeHung,MIT,33872,Talking to the other ZettCode sessions — the messaging tools and the line to the broker — as a part of the agent that lives apart from it
+2026-11-06T01:40:24Z,zettcode-skills,0.4.1,Chang-LeHung,MIT,7133,"The skills of ZettCode: the @ references and the tool that lets the model read one, as a part of the agent that lives apart from it"
+2026-11-06T01:41:26Z,zettcode-jit-harness,0.4.1,Chang-LeHung,MIT,18714,"The just-in-time tool harness of ZettCode: its extension, its page and the command that opens it"
+2026-11-06T01:41:48Z,edip,1.1.2,Uditha Manohara Prasad,Proprietary,137860,Edge Deterministic Ingestion Protocol using dynamic SQLite constraint reflection
+2026-11-06T01:45:13Z,ckanext-qgov,7.4.5,Queensland Online <qol.development@smartservice.qld.gov.au>,AGPL,93687,Customises CKAN behavior for Queensland Government portals
+2026-11-06T01:45:27Z,jc-github-action-security-auditor,0.1.0,Jacivaldo Carvalho <jacivaldocarvalho@gmail.com>,MIT,212553,An offline GitHub Actions workflow security auditor
+2026-11-06T01:46:56Z,shade-plugins-nfe-distribuicao,0.1.0,ShadeOne,Apache-2.0,19989,"XML das NF-e de entrada pelo webservice oficial de Distribuição de DF-e da SEFAZ (Ambiente Nacional), com o e-CNPJ de cada cliente."
+2026-11-06T01:48:28Z,width-debias,0.4.0,"""Joseph J. Thiebes"" <joseph@thiebes.org>",MIT,121490,"Correction of the noise bias in fitted profile widths, for mean-squared-displacement (MSD) diffusion measurements."
+2026-11-06T01:50:31Z,ps3r,0.2.0,Wenhui Zhang <zhangwh@lreis.ac.cn>,"MIT License Copyright (c) 2026 WenHZhang Permission is hereby granted, free of charge, to any perso…",6246659,Progressive Spatial Stratified Symbolic Regression (PS3R).
+2026-11-06T01:51:32Z,superkernel-adapter,0.9.7,Leo Li <leoustc@icloud.com>,Apache-2.0,44102,SuperKernel Adapter: a shared local Jupyter kernel for remote compute.
+2026-11-06T01:54:32Z,veu,0.4.0,guhttps,MIT,773351,"Esconde dados pessoais brasileiros (CPF, nomes, telefones, endereços...) antes de enviar textos para modelos de IA e devolve os dados reais na resposta."
+2026-11-06T01:55:26Z,planning-structs,0.1.0,"Kai Xi, Stephen Gould, Sylvie Thiébaux",CC-BY-4.0,31712,"Typed STRIPS planning structures: domains, groundings, symbolic action models and traces"
+2026-11-06T01:55:27Z,nockmark,0.1.0,Sigilante,MIT,23851,"Annotated code fragments (boxes, notes, arrows) for Sphinx and MyST, with a matching LaTeX package"
+2026-11-06T02:03:24Z,koji-kafka,0.1.0,Mike McLean,GPL-3.0-only,49897,Kafka producer for Koji
+2026-11-06T02:04:18Z,odoo-addon-hr-timesheet-sheet-activity,18.0.1.0.0.2,"CorporateHub, Odoo Community Association (OCA)",AGPL-3,30742,Automatic activities related to submission and review of timesheet sheets
+2026-11-06T02:10:15Z,mobster-cli,0.4.3,"Radish Retail, LLC",MIT,16635233,"MCP server and CLI that lets Claude Code, Cursor and Codex drive a real iPhone or iOS simulator: read the screen, tap, type, and get pass/fail verdicts from accessibility assertions"
+2026-11-06T02:12:01Z,equilibria,0.6.2a1,Marlon Molina <dracomarmol@gmail.com>,MIT,3548058,"A modern Python framework for Computable General Equilibrium (CGE) modeling with modular equation blocks, universal data I/O, and auto-calibration."
+2026-11-06T02:13:45Z,fj-agent,0.1.0,,,30588,"A small, readable coding agent for learning how agents work"
+2026-11-06T02:17:02Z,monitoring-diagnostics-toolkit,0.17.0,Ugwiyeon Lee,MIT,646717,Equipment-specific physical residuals and process monitoring with explicit SI sensor contracts
+2026-11-06T02:20:12Z,openscript-sdk,0.1.0,Sharif Parish,Apache-2.0,364391,Hold an AI agent's irreversible tool calls until a person approves that exact call
