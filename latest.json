@@ -1,41 +1,41 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-11-06T07:19:04.638778Z",
-    "path": "data/new-packages-2026-11-06T08-18-46-061412Z.csv",
-    "to": "2026-11-06T08:18:46.061412Z"
+    "count": 47,
+    "from": "2026-11-06T08:18:46.061412Z",
+    "path": "data/new-packages-2026-11-06T09-18-47-46009Z.csv",
+    "to": "2026-11-06T09:18:47.46009Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-06T05:20:53Z",
       "package": "CertificateMakerOfHTTPS-By-Geet",
       "since": "2026-11-06T05:18:46.066809Z",
       "version": "100.0.100"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-06T05:28:15Z",
       "package": "GEETLM",
       "since": "2026-11-06T05:18:46.066809Z",
       "version": "100.0.100"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-06T05:24:54Z",
       "package": "geet-ai",
       "since": "2026-11-06T05:18:46.066809Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-06T05:30:53Z",
       "package": "h-by-geet",
       "since": "2026-11-06T05:18:46.066809Z",
       "version": "100.0.100"
     }
   ],
-  "serial": 43281689,
+  "serial": 43283507,
   "source_truncated": false,
-  "window": "2026-11-06T08:18:46.061412Z"
+  "window": "2026-11-06T09:18:47.46009Z"
 }

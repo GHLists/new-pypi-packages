@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T08:21:23Z,gamma-earth-s2dr,0.2.0,Gamma Earth,Apache-2.0,45326,"Python client for the Gamma Earth S2DR3 API: submit a job, follow its STAC collection, download the products."
+2026-11-06T08:23:16Z,dr-panda-mcp,1.0.0,linyu19872008,MIT,902863,"Read-only MCP service for production troubleshooting: register connections in a web console, call tools by target name"
+2026-11-06T08:23:26Z,symantec-ztna-aiops,0.1.0,Wei Zhou <zhouwei008@gmail.com>,MIT,98942,Governed operations for Symantec Zero Trust Network Access
+2026-11-06T08:24:01Z,dockaccess-alt-generator,1.0.0,Dock sp. z o.o.,MIT,152898,"Alt text for images from the dockaccess.org AI alt generator: a safe sync and async client, a CLI for pipelines and helpers for FastAPI, Django and Flask."
+2026-11-06T08:25:05Z,shimballm,0.1.0,ShimbaLLM,Apache-2.0,99317,ShimbaLLM: loss-gated data staging with selective token replay for compute-efficient small language model training (CROP recipe).
+2026-11-06T08:26:32Z,symantec-dcs-aiops,0.1.0,Wei Zhou <zhouwei008@gmail.com>,MIT,93103,Governed operations for Symantec Zero Trust Network Access
+2026-11-06T08:29:37Z,symantec-clouddlp-aiops,0.1.0,Wei Zhou <zhouwei008@gmail.com>,MIT,91805,Governed operations for Symantec Zero Trust Network Access
+2026-11-06T08:33:03Z,glaude,0.0.0,,,1258,Name reservation
+2026-11-06T08:33:16Z,strictmind,0.0.0,,,1305,Name reservation
+2026-11-06T08:41:44Z,mxlpy-native,0.3.0,Marvin van Aalst <marvin.vanaalst@gmail.com>,MIT,611554,Compiled ODE solvers for MxlPy's Native integrator
+2026-11-06T08:42:04Z,scrutinium,1.0.0,Strategos <r@strategos.au>,Proprietary,6309,Structured legal examination and practice question bank. by Strategos.
+2026-11-06T08:43:38Z,gnsskit,0.4.2,Francesco Ioli,MIT,74674,"RTKLIB-based GNSS post-processing toolkit: RINEX tools, RTKLIB wrappers, static baselines and network adjustment, kinematic trajectories"
+2026-11-06T08:43:40Z,video-assembler-mcp,1.0.0,aqiu,MIT,79482,"MCP toolset that assembles narrated short videos from your own clips: Edge-TTS voiceover, burned-in subtitles, ffmpeg timeline. No stock-footage service required."
+2026-11-06T08:49:22Z,tickdb-mcp,0.2.4,,MIT,145525,TickDB market data and company fundamentals MCP server
+2026-11-06T08:50:07Z,oprema,0.0.1,Strategos <r@strategos.au>,Proprietary,6186,Skill packaging and deployment tooling. by Strategos.
+2026-11-06T08:50:48Z,zak-textutils,1.0.0,Zakariae El-Bouzidi <zakariae.el-bouzidi@gmail.com>,MIT,11888,a small python library for text operations
+2026-11-06T08:51:36Z,scada-schema,0.1.0,Konrad Waleszczyński,MIT,246991,"An open data standard for wind and PV SCADA: one schema, loaders for open datasets, quality control with an HTML report, IEC 61400-26 state mapping and converters to wind-up, OpenOA and pvlib."
+2026-11-06T08:52:26Z,pydantic-ai-agent-reliability-skills,0.1.0,Trustabl,Apache-2.0,29358,"Generate a pre-coding reliability skill for an agent repository with Trustabl Forge, from a Pydantic AI agent."
+2026-11-06T08:52:42Z,oaknut-econet-aun,13.6.0,Robert Smallshire <robert@smallshire.org.uk>,MIT,24354,"AUN (Acorn Universal Networking) transport for oaknut-econet: logical Econet over UDP/IP, with optional mDNS station discovery."
+2026-11-06T08:52:43Z,oaknut-econet-core,13.6.0,Robert Smallshire <robert@smallshire.org.uk>,MIT,29978,"Core abstractions for Econet networking in the oaknut family: packet types, addressing, the EconetTransport interface, capabilities, and an in-process test transport."
+2026-11-06T08:52:44Z,oaknut-econet-hat,13.6.0,Robert Smallshire <robert@smallshire.org.uk>,MIT,27993,"PiEconetHAT transport for oaknut-econet: a user-space client of the econet-gpio kernel module, with a fake kernel device for hardware-free testing."
+2026-11-06T08:52:45Z,oaknut-econet-host,13.6.0,Robert Smallshire <robert@smallshire.org.uk>,MIT,10987,The econet-host program: a CLI that configures Econet transports and service plug-ins and runs a station.
+2026-11-06T08:53:04Z,xyberos-memory,0.1.0,,Apache-2.0,15319,Persistent conversation history and scoped facts over Xyberos DatabaseProvider
+2026-11-06T08:55:51Z,xyberos-knowledge,0.1.0,,Apache-2.0,16483,"Document chunking, embedding, retrieval, and citations over an application-supplied vector store"
+2026-11-06T08:56:03Z,zarrbridge,0.1.1,Konrad Rokicki <rokickik@janelia.hhmi.org>,BSD-3-Clause,222059,"Virtual OME-Zarr 0.5 serving for legacy image files (MRC, TIFF, and everything refkv parses)"
+2026-11-06T08:56:35Z,research-commons,0.0.1a0,Research Commons maintainers,Apache-2.0,2606,Placeholder reserving the PyPI name for Research Commons. A thin Python wrapper ships in a future alpha.
+2026-11-06T08:56:52Z,multiturn-agent-eval,0.1.0,Ziadi Safouene <ziadisafouene@gmail.com>,MIT,192544,"A professional multi-turn conversational AI agent evaluation framework supporting English, Arabic, and French."
+2026-11-06T08:58:11Z,pythonboot-starter-web,0.1.0,,,3673,Web starter dependencies for PythonBoot applications
+2026-11-06T08:58:26Z,gateway-llm,0.1.0,Amandine Dennieau <dennieau.amandine@proton.me>,Apache-2.0,156669,"Quality-Gated Batch Router : routage LLM par cascade, guardrails, budget et résidence des données."
+2026-11-06T09:01:32Z,async-storage-kit,1.0.0,"Aryan Niknezhad, Mehrshad Mirshekary",MIT,297145,"Async file storage with filesystem, S3-compatible, and in-memory backends"
+2026-11-06T09:02:32Z,retry-claim-audit,0.1.0,,MIT,19206,Offline audit of documented retry claims against Python source.
+2026-11-06T09:02:40Z,cache-claim-audit,0.1.0,,MIT,26399,Offline-audit of documented cache-reuse promises against Python source.
+2026-11-06T09:02:49Z,timeout-claim-audit,0.1.0,,MIT,18537,Offline audit of documented timeout promises against Python source.
+2026-11-06T09:02:57Z,sort-claim-audit,0.1.0,,MIT,20132,Offline audit of documented sort-order claims against Python source.
+2026-11-06T09:03:44Z,dialgem,0.1.0b1,Dialgem,Apache-2.0,138280,"Official Python SDK for the Dialgem voice AI API: agents, calls, phone numbers and webhook verification from your backend."
+2026-11-06T09:03:53Z,langchain-optiq,0.1.0,OptiQ,MIT,13815,LangChain chat model for OptiQ Cloud
+2026-11-06T09:04:29Z,umhostminer,1.0.0,UpstreamData,Apache-2.0,779001,"umhostminer — an asynchronous, standardized interface for Bitcoin ASIC miners."
+2026-11-06T09:05:41Z,gstrat,1.9.0,GStrat,MIT,31776,Reference backtest engine for GStrat-generated Python strategies.
+2026-11-06T09:05:54Z,yontu,0.1.0,senrecep,MIT,363906,"Türkçe metin denetleyicisi: TDK yazım ve noktalama, yapay zekâ izleri, tür üslubu, yoğunlaştırma."
+2026-11-06T09:08:01Z,moseslukeprismagraphpy,0.1.0,Moses Luke,MIT,31684,"Create PRISMA 2020 systematic review flow diagrams in Python (PNG, SVG, PDF and interactive HTML)."
+2026-11-06T09:08:12Z,vs-aarch64-none-linux-gnu-gcc-binary,0.0.1,,MIT,6195,"Arm GNU Toolchain 14.2.rel1 (aarch64-none-linux-gnu, x86_64 Linux host) packaged as a wheel"
+2026-11-06T09:11:01Z,context7-mcp,0.0.1,Johannes Hoppe,MIT,2322,Security placeholder. Context7 is on npm as @upstash/context7-mcp. This package only prints a warning and exits.
+2026-11-06T09:11:06Z,cyberise-libration,2026.11.0,cyberise GmbH,MIT,23719,"Let a language model choose from a closed list: a strict schema for the model, a checked choice for your code"
+2026-11-06T09:11:40Z,falg,0.1.0,Jakub Pelák,MIT,100536,"Generate and edit images on fal.ai from JSON job configs: prompt x model grids, sidecar JSON per output, comparison gallery"
+2026-11-06T09:14:02Z,bazaar-contrib-server-github,0.3.0rc1,,Apache-2.0,38953,Logging in to the Bazaar Compute server with a GitHub account
+2026-11-06T09:14:33Z,rowlab,0.0.1,Row and Reason,,1764,"AI labeling, filtering and analysis for tabular data. Placeholder release — coming soon at rowlab.dev."
+2026-11-06T09:16:23Z,gitlab-groupsync,0.2.0,Josef Nevrly <josef.nevrly@gmail.com>,MIT license,113341,"Synchronize selected GitLab group repositories, wikis, and work items for offline reference search."
