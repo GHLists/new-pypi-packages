@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 44,
-    "from": "2026-11-06T14:18:43.054538Z",
-    "path": "data/new-packages-2026-11-06T15-21-02-244601Z.csv",
-    "to": "2026-11-06T15:21:02.244601Z"
+    "count": 29,
+    "from": "2026-11-06T15:21:02.244601Z",
+    "path": "data/new-packages-2026-11-06T16-19-31-090087Z.csv",
+    "to": "2026-11-06T16:19:31.090087Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-06T11:59:26Z",
-      "package": "DiffMem-MCP",
-      "since": "2026-11-06T11:19:50.320618Z",
+      "attempts": 1,
+      "created_at": "2026-11-06T15:29:55Z",
+      "package": "eduruckus-node-ui",
+      "since": "2026-11-06T15:21:02.244601Z",
       "version": null
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-06T14:58:17Z",
-      "package": "odoo-addon-stock-removal-zone-fefo",
-      "since": "2026-11-06T14:18:43.054538Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-06T14:57:57Z",
-      "package": "odoo-addon-stock-removal-zone-fifo",
-      "since": "2026-11-06T14:18:43.054538Z",
+      "created_at": "2026-11-06T16:19:27Z",
+      "package": "insect-audio-features",
+      "since": "2026-11-06T15:21:02.244601Z",
       "version": null
     }
   ],
-  "serial": 43297013,
+  "serial": 43300218,
   "source_truncated": false,
-  "window": "2026-11-06T15:21:02.244601Z"
+  "window": "2026-11-06T16:19:31.090087Z"
 }
