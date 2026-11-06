@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T21:18:27Z,pyixblue,0.9.2,,"MIT License Copyright (c) 2026 pyixblue contributors Permission is hereby granted, free of charge,…",39371,Python parser for the iXblue stdbin protocol
+2026-11-06T21:21:12Z,dicogis,4.0.1,Julien Moura <dev@ingeoveritas.com>,Apache-2.0,1047265,Create Excel spreadsheet describing geographical data from a PostGIS Database or a file tree structure.
+2026-11-06T21:23:33Z,napari-locpix2,0.0.8,Oliver Umney,MIT,41472,Load in point cloud data (e.g. from single molecule localisation microscopy) and annotate within napari
+2026-11-06T21:23:45Z,winrt-Microsoft.Web.WebView2.Interop,4!1.0.4314.35.1,,MIT,113428,"Lets a visually hosted WebView2 take the files dropped on its window, as an OLE drop target."
+2026-11-06T21:27:04Z,anonrouter-confidential,0.1.3.post1,AnonRouter,Apache-2.0,414953,Independently verify AnonRouter TEE/E2EE routes and run confidential inference from Python.
+2026-11-06T21:28:33Z,localkin,0.1.0,LocalKinAI Team <contact@localkin.ai>,MIT,8901,"The LocalKin family in one install: kinfer (local LLM serving), OllamaDiffuser (images and video) and LocalKin Audio (speech)"
+2026-11-06T21:34:21Z,durably,0.1.0,tarang802,MIT,68587,"Durable execution for AI agents, with just Postgres."
+2026-11-06T21:35:09Z,nn-periodogram,1.0.0,"""Niall J. Miller"" <niall.j.miller@gmail.com>","MIT License Copyright (c) 2022-2026 Niall J. Miller Permission is hereby granted, free of charge, t…",118513,Neural-network false-alarm probabilities and periodograms for astronomical time series
+2026-11-06T21:42:02Z,eitri-hardware,0.6.0,,"# Functional Source License, Version 1.1, MIT Future License ## Abbreviation FSL-1.1-MIT ## Notice…",6486233,"A local AI CAD agent: describe a part, Claude models it in build123d, checks it, and you edit it in a browser CAD editor."
+2026-11-06T21:42:04Z,dirtsmith-record-batch-gate,0.1.0,Dirtsmith,MIT,31093,"Quarantine invalid or duplicate scraper records before an agent writes to a CRM, database or downstream tool."
+2026-11-06T21:44:58Z,cutpro,0.1.0,Cut.Pro,MIT,29842,"Cut.Pro API client for Python: Seedance, Wan, Kling, Veo, Nano Banana, Seedream, GPT Image and Gemini TTS with one key, priced per second, image or 1,000 characters"
+2026-11-06T21:47:13Z,zlib-rust,0.6.8.post2,,MIT,3904400,Python bindings for zlib-rs
+2026-11-06T21:49:52Z,llm-on-a-stick,0.1.0,,MIT,67621,"One eval harness, many LLMs. Start poking. An agentic NetOps benchmark for local and frontier LLMs."
+2026-11-06T21:52:20Z,stackvm,0.1.1,abkwreu,,81796,Stack machine visualized
+2026-11-06T21:54:42Z,financial-planner,0.1.0,Brookie Guzder-Williams,BSD-3-Clause,655883,"A local, private household budget and long-term financial planner driven by CSVs and YAML."
+2026-11-06T21:55:28Z,dbmapper,0.1.0,Peter McGinty <you@example.com>,MIT,475712,Read-only relational database metadata extraction
+2026-11-06T21:55:45Z,geometric-nn-ops-torch,0.1.0,"Advanced Micro Devices, Inc.",Apache-2.0,96920,Vendor-neutral GPU kernels for geometry-aware neural nets (triangle/folding ops)
+2026-11-06T21:56:48Z,calculator-pkg-honnavile,0.1.0,,,2582,
+2026-11-06T22:00:49Z,hipequivariance-ops-torch,0.1.0,"Advanced Micro Devices, Inc.",Apache-2.0,27310,"Zero-code-change cuequivariance_ops_torch shim for AMD ROCm, backed by geometric-nn-ops Triton kernels."
+2026-11-06T22:01:33Z,assayhq,0.1.0,Ali Haqiqi,Apache-2.0,144614,Execution-grounded security verifier for AI agent skills
+2026-11-06T22:02:04Z,chartdeck,1.0.0,Market Experts Trading LLC <support@chartdeck.trade>,MIT,39088,"Python client for the ChartDeck Developer API (calendar, Strata, market data, analytics, news, streaming, webhooks)"
+2026-11-06T22:02:04Z,monocoat,1.2.0,Blake Bratcher,MIT,7078058,"One TOML, every Linux theming surface — GTK 2/3/4, Qt/Kvantum, libadwaita, window manager, notifications, cursor, fonts, terminals, wallpaper. Idempotent, drift-detecting, DE-agnostic."
+2026-11-06T22:02:45Z,survjax,0.0.1a2,Wouter A.C. van Amsterdam,Apache-2.0,101880,Survival analysis in JAX
+2026-11-06T22:03:22Z,external-sandbox-container,0.1.2,Simon Willison,Apache-2.0,297883,Bring your own sandbox to coding agents: compatible shell and Codex execution APIs
+2026-11-06T22:04:57Z,boax-py,0.1.0,,,45140,"Official Python SDK for Boax, the self-hosted sandbox and microVM platform."
+2026-11-06T22:05:04Z,backplanes-policy,0.1.0,,LicenseRef-Proprietary,6697489,"The Backplanes policy evaluator, used by the backplanes SDK"
+2026-11-06T22:05:21Z,aswf-aces-common,0.1.0rc1,,Apache-2.0,13204,ACES shared protocols and data types
+2026-11-06T22:06:43Z,cocat-rs,0.1.0,,,14210784,"Collaborative event catalogues, in Rust with a Python face"
+2026-11-06T22:09:12Z,betterportal,11.0.7,,AGPL-3.0-only,718049,BetterPortal native runtime and security policy
+2026-11-06T22:09:40Z,tipbox,0.1.0,Juan Nathaniel <jn2808@columbia.edu>,MIT,114370,"Stochastic tipping models, empirical observations, and early-warning benchmarks"
+2026-11-06T22:09:43Z,arkivector,1.0.0,,,84761,Arkivector Python SDK: Vector co-processor client for Arkiv
+2026-11-06T22:11:30Z,givememd,0.1.0,,MIT,100420,"Turn any web page into clean, token-lean markdown for LLMs. Fetches from your own machine."
+2026-11-06T22:11:41Z,eo-fetch-api,1.0.0,Umut Kirdemir,MIT,186807,"One search-and-download interface, with verified downloads and manifests, for Earth-observation and climate data providers."
+2026-11-06T22:12:44Z,qcopt,0.1.0,Colton Hicks <github@coltonhicks.com>,MIT,218892,"Geometry optimization, transition-state searches, and IRCs that return qcdata results."
+2026-11-06T22:15:16Z,scietex.hal.spi,0.1.0,Anton Bondarenko <bond.anton@gmail.com>,"MIT License Copyright (c) 2025 Anton Bondarenko Permission is hereby granted, free of charge, to an…",40415,SPI transport backends for scietex.hal devices
+2026-11-06T22:18:58Z,persistaibench,0.1.0,,MIT,121053,PersistAIBench: an evaluation benchmark for AI agents' memory truthfulness over long multi-step tasks — cross-session propagation of silent agent failures through long-term memory
