@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T00:22:15Z,mechanicalai,0.0.1,"""Mechanical AI, Inc."" <contact@mechanicalai.com>",Apache-2.0,2135,MechanicalAI Python client
+2026-11-06T00:22:17Z,mekint,0.0.1,"""Mechanical AI, Inc."" <contact@mechanicalai.com>",Apache-2.0,1672,Use the mechanicalai package
+2026-11-06T00:23:19Z,autocrat,0.1.0,Joao Lopes,MIT,2633,Project tooling (early placeholder release)
+2026-11-06T00:26:39Z,eepy-page-i18n,0.1.0,PowerPCFan,,94816,i18n runtime and translation files for eepy.page
+2026-11-06T00:28:07Z,astonish,0.1.0,Joao Lopes,MIT,2619,Project tooling (early placeholder release)
+2026-11-06T00:30:50Z,astound,0.1.0,Joao Lopes,MIT,2592,Project tooling (early placeholder release)
+2026-11-06T00:30:56Z,astart,0.1.0,Joao Lopes,MIT,2588,Project tooling (early placeholder release)
+2026-11-06T00:40:55Z,argus-darkroom,0.1.0,smk762,MIT,153952,Guarded image generation for the Argus suite: prompts and outputs are checked before anything is released.
+2026-11-06T00:43:32Z,shade-plugins-integra-contador,0.1.0,ShadeOne,Apache-2.0,25422,"Situação fiscal, Caixa Postal, DAS do Simples e procurações pela API oficial Integra Contador do SERPRO, com o contrato e o e-CNPJ do escritório."
+2026-11-06T00:43:56Z,skilldx,0.4.0,Andrey Sukhanov <avsukhanov21@gmail.com>,LicenseRef-Source-Available,122804,"Eval harness for agent skills (SKILL.md): does the skill trigger when it should, and does the agent follow it - across OpenAI, Qwen, DeepSeek, GLM, Kimi and any OpenAI-compatible model."
+2026-11-06T00:45:03Z,runtype-pydantic-ai,0.2.0,Runtype Labs <dev@runtype.com>,MIT,40634,"Send Pydantic AI agent runs to Runtype at full fidelity: one call, composes with Logfire and any OpenTelemetry setup."
+2026-11-06T00:49:47Z,manualbeagle,0.1.0,Steven Storie,Apache-2.0,723694,"Finds appliance manuals by brand and model, makes them searchable per page, and files them in Homebox and other inventories."
+2026-11-06T00:52:31Z,py-visactor-katex,0.1.0,,MIT,1191094,Native Python TeX math layout and static rendering with bundled KaTeX fonts
+2026-11-06T00:54:04Z,usb-device-farm,0.5.0,h.t.x,MIT,168706,集群 USB 设备集中管理与租借平台（复用现有 USB/IP 工具链的编排层）
+2026-11-06T00:54:25Z,labs-agent-lib,0.1.0,Luis Alberto Bolaños Salazar,MIT,24217,"Shared utilities (settings, logging, document text extraction, Claude Agent SDK environment) for Claude-agent-based projects."
+2026-11-06T00:54:27Z,loom-dbt,0.1.0,Lincoln Phillips,MIT,821291,Authoring-time dbt generation and model inventory coverage
+2026-11-06T00:57:09Z,sllkgui,1.0.0,SllkGUI Contributors,MulanPSL-2.0,3929718,基于 PySide6 的开源 UI 基座：窗口框架、组件库、主题、语言与插件加载
+2026-11-06T00:59:45Z,datanyx,0.1.0,,MIT,418126,Turn sensitive data into a value-free schema that AI agents can work from.
+2026-11-06T01:00:52Z,radiodish,1.0.0,,MIT,64630,"A standalone, async RADIO-DISH implementation over UDP (ZeroMQ RFC 48), with automatic peer discovery and autowiring."
+2026-11-06T01:01:19Z,radiodish-actor,1.0.0,,MIT,21091,An Erlang-actor-model-flavored layer on top of radiodish -- group-addressed message dispatch over an autowired RADIO-DISH mesh.
+2026-11-06T01:02:13Z,mimir-cultivate,1.0.0rc2,,BUSL-1.1,3662152,Cultivate coding provider for Mimir
+2026-11-06T01:06:04Z,ckanext-csrf-filter,2.0.3,"ThrawnCA <carl.antuar@smartservice.qld.gov.au>, Queensland Online <qol.development@smartservice.qld…",AGPL,56681,Use cryptographically strong tokens to protect against Cross-Site Request Forgery
+2026-11-06T01:07:03Z,prompt-gray-release,0.2.0,helloworldtang,MIT,58238,"把 Prompt 当生产代码发布：版本化、灰度放量、评测门禁、一键回滚、事故重演。Prompt release engineering: versioning, canary rollout, eval gates, rollback and incident replay."
+2026-11-06T01:08:00Z,mnemotree-mcp,1.0.3,kurcontko <mikeqrc@gmail.com>,MIT,7016,"Mnemotree's MCP memory server with a local embedding model, no configuration needed"
+2026-11-06T01:11:02Z,demusic,0.1.0,Dawnwood,Apache-2.0,50901,"Remove the background music AI video models (Seedance, Kling, Veo, Hailuo, Wan) bake into generated clips - keep dialogue, sound effects and ambience. Stem separation + an AudioSet music classifier,…"
+2026-11-06T01:13:32Z,albert-memory,0.4.0,JIGGAI,,214240,Independent multi-tenant hybrid memory service for AI agents
+2026-11-06T01:16:34Z,torchao-neuron,0.0.1,"Amazon Web Services, Inc.",Proprietary,2436,
+2026-11-06T01:16:53Z,coco-framework,0.1.0,,"MIT License Copyright (c) LangChain, Inc. Copyright (c) 2024 LangChain, Inc. Copyright (c) 2026 Coc…",2490303,"The agent runtime for Coco: core messages, tools, runnables, stateful agent graphs, checkpointers, and model integrations."
+2026-11-06T01:17:16Z,addmeta-test,1.2.3,"Aidan Heerdegen <aidan.heerdegen@anu.edu.au>, Tommy Gatti <tommy.gatti@anu.edu.au>, Davide Marchegi…",Apache-2.0,58499,Add meta data to netCDF files.
+2026-11-06T01:18:32Z,luxor-ai,0.1.0,Luxor Technology Corporation,MIT,4064,Luxor Agent Cloud Python SDK: cloud sandboxes (microVMs) for AI agents and code execution
