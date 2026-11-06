@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T11:20:21Z,spapp2-logging,0.0.0,,,894,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
+2026-11-06T11:20:37Z,ephemradio,0.1.0,,,2309,Add your description here
+2026-11-06T11:22:57Z,interaktiv.passwordpolicy,1.0.0,Alexander Rybakov <rybakov@interaktiv.de>,GPL-2.0-only,93448,A configurable password policy and Argon2id password hashing for Plone.
+2026-11-06T11:25:12Z,pypu-learn,0.0.1,Ilias Zavitsanos,BSD-3-Clause,27045,"Positive-unlabeled (PU) learning in Python, with a scikit-learn style API."
+2026-11-06T11:26:20Z,fastforks,0.1.0,Florian Kleinicke <coding@f-kleinicke.de>,Apache-2.0,9375,"Fast, typed inference for published vision models: portable PyTorch and custom-kernel backends."
+2026-11-06T11:26:21Z,fastforks-nc,0.1.0,,Apache-2.0 AND CC-BY-NC-4.0 AND CC-BY-NC-SA-4.0 AND GPL-3.0-only AND LicenseRef-FAIR-Noncommercial-…,438537,Model families whose code licence forbids commercial use or is copyleft (GPL); see each model card.
+2026-11-06T11:26:23Z,fastforks-core,0.1.0,Florian Kleinicke <coding@f-kleinicke.de>,Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND LicenseRef-Apple-Sample-Code AND LicenseRef-DINOv3…,1980951,"Fast, typed inference for published vision models: portable PyTorch and custom-kernel backends."
+2026-11-06T11:26:42Z,paycensus,0.2.0,PayCensus Labs,MIT,4661,"Read-only client for the PayCensus machine-payment census (x402 + MPP, protocol-agnostic entity layer)"
+2026-11-06T11:31:02Z,realinfer,0.0.1,,MIT,1531,Reserved for RealInfer
+2026-11-06T11:31:31Z,haybale-models,0.3.2,,MIT,188315,"Model references, local model store, downloads and graph needs-list"
+2026-11-06T11:32:44Z,claudemd-doctor,0.1.0,,MIT,30883,Generate and lint CLAUDE.md files so Claude Code actually follows them.
+2026-11-06T11:35:57Z,napari-fractal-tasks,0.1.1,Daniel Krentzel <dkrentzel@pm.me>,MIT,416811,Install and run Fractal tasks on OME-Zarr images in napari
+2026-11-06T11:37:20Z,moseslukegeomap,0.1.0,Moses Luke,MIT,101778,"Turn raw GIS files (shapefile, GeoJSON, GeoPackage) into clean, publication-ready maps with automatic labels, legend, scale bar and north arrow."
+2026-11-06T11:37:40Z,pyrith,0.1.0,Saad Salman <saadsalmanakram1@gmail.com>,Apache-2.0,90258,"A pure-Python full-stack web framework — backend, frontend, CSS, ORM, auth, all in Python. Zero external dependencies."
+2026-11-06T11:39:21Z,pixdial,0.1.0,YordiLorenzo,GPL-3.0-or-later,9891776,A Python SDK and CLI for hardware screens on Linux
+2026-11-06T11:39:25Z,pysar-core,0.1.0a2,"Ogu99, Nin0",GPL-3.0-only AND BSD-3-Clause,19288750,"Read, edit, render and write Nintendo sound archives and audio files"
+2026-11-06T11:41:03Z,gustoov-geo-sdk,1.0.0,Gustoov Systems Architects <hello@gustoov.com>,,3412,"Client SDK for Generative Engine Optimization (GEO) audits, Perplexity prompt analysis, and LLM search visibility."
+2026-11-06T11:41:10Z,spar4das,0.0.1a1,Mariano Supino,GPL-3.0-only,29810,An early SPAR4DAS component for computing source amplitude spectra
+2026-11-06T11:42:10Z,pydtype-cpp,0.1.0,Paul Scruby,,15714,Compile time C++26 header exposing C structs to numpy dtypes
+2026-11-06T11:43:47Z,duewall,0.1.0,DueWall Labs,MIT,11137,"Read-only client for the DueWall maturity calendar of tokenized credit (RWA) — events, liquidity terms, NAV series, Bitcoin-anchored integrity"
+2026-11-06T11:46:41Z,model-validation-assistant,0.1.0,,MIT,61023,"Independent model validation toolkit: tests, quantified findings, opinion and conditions of use."
+2026-11-06T11:46:46Z,parro-api-client,0.5.1,,MIT AND CC-BY-4.0,203259,Read-only Parro API client: a standalone CLI and an MCP server sharing one core
+2026-11-06T11:54:16Z,kolmoc,1.0.0,Adnane Aqartit and contributors,Apache-2.0,6508083,"kolmo — structure-aware lossless compressor: best ratio across tables, logs and scientific data, with decode that scales across cores. Installs as `kolmoc`, imports as `kolmo`."
+2026-11-06T11:55:20Z,xyzcadrs,0.3.3,Stefan Helmert <stefan.helmert@t-online.de>,AGPL-3.0-or-later,1694954,"Functional/implicit CAD in Rust: render f(x,y,z) material fields to watertight STL and colored OBJ. Python bindings with numba njit field support."
+2026-11-06T11:55:54Z,wb-model-biz-gateway-mcp,1.0.1,,,174723,模型与企业数据网关：12 家国产大模型统一调用 + 钉钉企业数据只读查询，凭证自填
+2026-11-06T11:58:05Z,djeli,0.1.0,,MIT,4748,Python client for the djeli local LLM server
+2026-11-06T11:58:24Z,axiom-lumis,0.1.0,Axiom Photonics Ltd <developer@carecomply.ltd>,LicenseRef-Proprietary,24361,"LUMIS photonic mesh compiler: analytic Clements decomposition with Rev 1 power-envelope admission control. Pre-silicon, simulation backend."
+2026-11-06T11:59:46Z,locaith-cli,0.1.0,Locaith Solution Tech <locaithsolution@locaith.com>,,929465,Locaith CLI — chạy trợ lý Locaith (Locaith-v5-flash) ngay trong terminal. Cài bằng một lệnh: pip install locaith-cli
+2026-11-06T11:59:50Z,audioseyX,0.5.0a15,haomjc,MIT AND LicenseRef-GLWTS,1663495,"Local acoustic measurement, room analysis and Audyssey-aware filter design workbench"
+2026-11-06T12:04:48Z,sparspec,0.0.1a1,Mariano Supino,GPL-3.0-only,29983,An early SPAR component for computing seismic source amplitude spectra
+2026-11-06T12:06:03Z,fast-asyncapidoc,0.1.0,qingyiwebt,MIT,23002,Generate AsyncAPI 3 documentation for FastAPI WebSocket endpoints
+2026-11-06T12:07:54Z,haybale-image,0.3.2,,MIT,88087,"Image types, IO and viewers shared by vision and ML libraries"
+2026-11-06T12:09:33Z,sparspec4das,0.0.1a1,Mariano Supino,GPL-3.0-only,30102,An early SPAR4DAS component for computing seismic source amplitude spectra
+2026-11-06T12:09:53Z,openocr-mlt-cuda,0.4.0,ericleyu,,204723,Offline multilingual OCR with ONNX Prefill/Decode recognition and PP-OCRv6 medium detection
+2026-11-06T12:11:24Z,oridio,0.1.0,Oridio <team@oridio.org>,Apache-2.0,45108,Official Python SDK for Oridio — AI Control Plane
+2026-11-06T12:13:54Z,getapk,1.0.0,,MIT,15382,Pull an installed app from an Android device over adb as an APK (or an APKS bundle for split APKs)
+2026-11-06T12:14:04Z,lightmodel,0.1.0,PlimbAi <plimb.ai.contact@gmail.com>,MIT,7881,Ultra-light Model adapter for smolagents - works with any OpenAI-compatible API
+2026-11-06T12:19:07Z,gammapy-plugin,0.0.1,"Tobias Preis <tobias.preis@uibk.ac.at>, ""J. Michael Burgess"" <jburgess@mpe.mpg.de>",GPL-3.0,94502,The gammapy plugin for 3ML
+2026-11-06T12:19:11Z,ag-ui-openai-agents,0.1.0,Abdelrahman Abozied <me@abdelrahman.ai>,MIT,401094,AG-UI integration for OpenAI Agents SDK
