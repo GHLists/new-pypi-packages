@@ -8,54 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 13:18 UTC
+## Latest list — 2026-11-06 14:18 UTC
 
-New packages created between 2026-11-06 12:19 UTC and 2026-11-06 13:18 UTC.
+New packages created between 2026-11-06 13:18 UTC and 2026-11-06 14:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-06T13-18-47-612483Z.csv)
+[Full CSV](data/new-packages-2026-11-06T14-18-43-054538Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-06 11:19:20 | [bohr-atom-toolkit](https://pypi.org/project/bohr-atom-toolkit/) | 0.1.0 |  | 87.5 kB | Implementación computacional del modelo de Bohr para átomos hidrogenoides |
-| 2026-11-06 12:20:54 | [safe-slate-recommender](https://pypi.org/project/safe-slate-recommender/) | 0.3.1 |  | 2.5 MB | Certified anytime slate construction backed by Rust |
-| 2026-11-06 12:22:36 | [nette-neon](https://pypi.org/project/nette-neon/) | 1.0.0 | David Grudl | 147.1 kB | NEON parser, encoder and lossless editor: change a value in a config file and k… |
-| 2026-11-06 12:23:46 | [cecli-browser-harness](https://pypi.org/project/cecli-browser-harness/) | 0.1.13.post1 |  | 248.4 kB | Fork of browser-harness with relaxed dependency pins, published for cecli. |
-| 2026-11-06 12:29:22 | [diffmem-mcp-server](https://pypi.org/project/diffmem-mcp-server/) | 0.1.1 |  | 105.5 kB | DiffMem MCP Server — exposes DiffMem memory APIs as MCP tools with security-fir… |
-| 2026-11-06 12:30:31 | [git-asgi](https://pypi.org/project/git-asgi/) | 0.1 | Jakob Zahn <jakob.zahn@mailbo… | 72.9 kB | Git HTTP server as ASGI middleware according to spec. |
-| 2026-11-06 12:31:09 | [libmdr](https://pypi.org/project/libmdr/) | 0.1.1 |  | 1.4 MB | Python bindings for the mdr-shared C ABI |
-| 2026-11-06 12:31:17 | [libmdr-bt](https://pypi.org/project/libmdr-bt/) | 0.1.1 |  | 234.3 kB | Python binding for libmdr-bt (libmdr Bluetooth Backends) |
-| 2026-11-06 12:31:23 | [libmdr-cli](https://pypi.org/project/libmdr-cli/) | 0.1.1 |  | 22.5 kB | libmdr CLI Frontend |
-| 2026-11-06 12:33:07 | [puigame](https://pypi.org/project/puigame/) | 0.1.0 | neb01 | 90.7 kB | UI widgets for pygame-ce |
-| 2026-11-06 12:36:27 | [markethelm](https://pypi.org/project/markethelm/) | 0.4.0 | Olawal | 1.4 MB | Market intelligence for informed decisions: market signals, AI-assisted insight… |
-| 2026-11-06 12:36:28 | [nullius-eval](https://pypi.org/project/nullius-eval/) | 0.1.0rc1 | ThinkFlowLab <nullius.thinkfl… | 2.4 MB | Bring anything, run it, prove it. |
-| 2026-11-06 12:38:23 | [jalontsui-fastapi-kit](https://pypi.org/project/jalontsui-fastapi-kit/) | 0.1.0 | JalonTsui | 205.5 kB | JalonTsui Fastapi Kit：FastAPI 服务公共基础设施包（配置、数据库、缓存、日志、错误体系、安全、中间件等） |
-| 2026-11-06 12:39:24 | [raiju-dtek](https://pypi.org/project/raiju-dtek/) | 0.1.0 | rvdxse | 9.1 kB | DTEK outage schedule for Kyiv in your terminal |
-| 2026-11-06 12:45:48 | [aidge-deploy](https://pypi.org/project/aidge-deploy/) | 0.10.1 |  | 106.5 kB | Deployment and hardware-in-the-loop validation tools for Eclipse Aidge |
-| 2026-11-06 12:46:20 | [researchos-ci](https://pypi.org/project/researchos-ci/) | 0.4.0 | ResearchOS | 149.3 kB | Research CI verifier with evidence-bound quant and ML domain checks |
-| 2026-11-06 12:50:09 | [pepkio-confluency-split-passage-planner](https://pypi.org/project/pepkio-confluency-split-passage-planner/) | 0.1.0 |  | 48.0 kB | Python client for Pepkio confluency-split-passage-planner tool |
-| 2026-11-06 12:54:22 | [Products.DisableXMLRPC](https://pypi.org/project/Products.DisableXMLRPC/) | 1.0.0a2 | RedTurtle Technology | 16.7 kB | Backport of Zope 5.13's enable-xmlrpc switch: disable Zope's built-in XML-RPC s… |
-| 2026-11-06 12:57:18 | [custovox-churn-signal](https://pypi.org/project/custovox-churn-signal/) | 1.0.0 | Jérémie Muselet <jeremie@cust… | 10.1 kB | Churn risk detection MCP: score 0-100 from customer message sequences. Detects… |
-| 2026-11-06 12:59:19 | [pynzli](https://pypi.org/project/pynzli/) | 0.20261106.0 | Dedekind Authors | 7.8 MB | A library of structure-preserving combinators. It is more conservative than you… |
-| 2026-11-06 13:00:19 | [moss-nfpy](https://pypi.org/project/moss-nfpy/) | 0.0.0.post1 | "M.O.S.S. Computer Grafik Sys… | 1.4 kB | Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code |
-| 2026-11-06 13:01:55 | [harbor-check-cli](https://pypi.org/project/harbor-check-cli/) | 0.1.0 |  | 9.3 kB | CLI for Harbor Check review status and rubric summaries |
-| 2026-11-06 13:01:57 | [site-audit](https://pypi.org/project/site-audit/) | 0.1.0 | Roman Iglin | 67.1 kB | Crawl a website and write an SEO and technical audit report. |
-| 2026-11-06 13:03:32 | [aetherflow-arch](https://pypi.org/project/aetherflow-arch/) | 0.1.0a1 | Samir Baladi | 40.6 kB | AetherFlow: Automated Post-Merge Verification and Dynamic Conflict Resolution i… |
-| 2026-11-06 13:04:15 | [dpdp-scan](https://pypi.org/project/dpdp-scan/) | 0.1.1 | StateCheck Security | 139.5 kB | Finds Indian personal data (Aadhaar, PAN, GSTIN, UPI, IFSC, mobile) in code, sc… |
-| 2026-11-06 13:05:46 | [n11-mcp](https://pypi.org/project/n11-mcp/) | 0.1.0 | Mohammad Abbasi | 37.4 kB | Unofficial read-only MCP server for n11.com shopping (search, product details,… |
-| 2026-11-06 13:05:48 | [obilet-mcp](https://pypi.org/project/obilet-mcp/) | 0.1.0 | Mohammad Abbasi | 33.6 kB | Unofficial read-only MCP server for obilet.com bus & flight tickets (bus journe… |
-| 2026-11-06 13:06:35 | [piloterr](https://pypi.org/project/piloterr/) | 0.1.0 | Piloterr <contact@piloterr.co… | 336.3 kB | Official Python SDK for the Piloterr web scraping API. |
-| 2026-11-06 13:06:39 | [mcm-license-client](https://pypi.org/project/mcm-license-client/) | 0.0.0 | "M.O.S.S. Computer Grafik Sys… | 1.4 kB | Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code |
-| 2026-11-06 13:06:40 | [mogi-python-sdk](https://pypi.org/project/mogi-python-sdk/) | 0.0.0 | "M.O.S.S. Computer Grafik Sys… | 1.4 kB | Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code |
-| 2026-11-06 13:06:42 | [moss-bgfpy](https://pypi.org/project/moss-bgfpy/) | 0.0.0 | "M.O.S.S. Computer Grafik Sys… | 1.4 kB | Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code |
-| 2026-11-06 13:07:43 | [outboxed](https://pypi.org/project/outboxed/) | 0.1.0 | Amin Albooyeh <amin.albooyeh@… | 20.2 kB | Transactional outbox pattern for Python backends |
-| 2026-11-06 13:08:43 | [ciceksepeti-mcp](https://pypi.org/project/ciceksepeti-mcp/) | 0.1.0 | Mohammad Abbasi | 35.1 kB | Unofficial read-only MCP server for ciceksepeti.com flowers & gifts (search, pr… |
-| 2026-11-06 13:13:19 | [automdev](https://pypi.org/project/automdev/) | 0.1.0 | Autom <contact@autom.dev> | 49.9 kB | Official Python SDK for the Autom SERP API. |
-| 2026-11-06 13:13:38 | [huntapi](https://pypi.org/project/huntapi/) | 0.1.0 | HuntAPI <contact@huntapi.com> | 35.4 kB | Official Python SDK for the HuntAPI media download API. |
-| 2026-11-06 13:13:42 | [capturekitdev](https://pypi.org/project/capturekitdev/) | 0.1.0 | CaptureKit <contact@captureki… | 40.5 kB | Official Python SDK for the CaptureKit screenshot API. |
-| 2026-11-06 13:14:36 | [aws-waste-hunter](https://pypi.org/project/aws-waste-hunter/) | 0.1.0 | Helyx IT <support@helyxit.com> | 68.9 kB | Read-only, auditable AWS waste scanner with dollar estimates. |
-| 2026-11-06 13:15:24 | [session-trail](https://pypi.org/project/session-trail/) | 0.2.0 | fwt11 | 131.6 kB | Local cross-agent work timeline: discover, browse and resume coding-agent sessi… |
-| 2026-11-06 13:15:49 | [cassiopee-transform](https://pypi.org/project/cassiopee-transform/) | 2026.11 | ONERA | 5.9 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-06 13:15:54 | [cassiopee-rigidmotion](https://pypi.org/project/cassiopee-rigidmotion/) | 2026.11 | ONERA | 1.2 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-06 13:15:59 | [cassiopee-cplot](https://pypi.org/project/cassiopee-cplot/) | 2026.11 | ONERA | 8.0 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-06 13:16:01 | [cassiopee-post](https://pypi.org/project/cassiopee-post/) | 2026.11 | ONERA | 2.4 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-06 13:16:43 | [eelsnmf-gui](https://pypi.org/project/eelsnmf-gui/) | 0.0.4 | jules-vanaret | 127.9 kB | GUI for EELS NMF processing |
+| 2026-11-06 13:19:02 | [socialscrape-cli](https://pypi.org/project/socialscrape-cli/) | 0.1.0 |  | 118.8 kB | SocialScrape on the command line: social media data as JSON or a table |
+| 2026-11-06 13:19:05 | [socialscrape-mcp](https://pypi.org/project/socialscrape-mcp/) | 0.1.1 |  | 135.9 kB | MCP server for SocialScrape: social media data for Claude, Cursor and other age… |
+| 2026-11-06 13:19:15 | [pulumi-zerops](https://pypi.org/project/pulumi-zerops/) | 0.1.1 |  | 182.5 kB | Manage Zerops projects, services, deployments and networking with Pulumi. |
+| 2026-11-06 13:20:05 | [matchsticks-mayunzhong-demo](https://pypi.org/project/matchsticks-mayunzhong-demo/) | 1.0.0 |  | 4.6 kB | A classroom example counting matchsticks for non-negative integers |
+| 2026-11-06 13:20:12 | [socialscrape-sdk](https://pypi.org/project/socialscrape-sdk/) | 0.1.1 |  | 186.3 kB | SocialScrape API client: social media data (profiles, posts, comments, search,… |
+| 2026-11-06 13:20:18 | [uncapped](https://pypi.org/project/uncapped/) | 0.1.0 | Abdul Wahab | 33.8 kB | Get every result from APIs and sites that stop at 1,000 results, by splitting t… |
+| 2026-11-06 13:20:57 | [repoward](https://pypi.org/project/repoward/) | 0.1.1 | sanoy | 102.3 kB | A GitHub MCP server that stops AI agents leaking private code when a malicious… |
+| 2026-11-06 13:21:14 | [cefast](https://pypi.org/project/cefast/) | 0.1.0 | Alexis Jeandet <alexis.jeande… | 35.4 MB | Fast reader for ESA's Cluster Exchange Format (CEF 2.0) |
+| 2026-11-06 13:21:47 | [cathedralpkg-cantor](https://pypi.org/project/cathedralpkg-cantor/) | 2026.0 | David Ferro-Costas <david.fer… | 81.6 kB | Automatic generation of search-ready Z-matrices with one proper torsion per rot… |
+| 2026-11-06 13:23:07 | [ollama-langchain-client](https://pypi.org/project/ollama-langchain-client/) | 0.1.2 | OllamaClient maintainers | 9.4 kB | A lightweight, reusable Python client for Ollama's OpenAI-compatible chat API,… |
+| 2026-11-06 13:23:47 | [bytepft](https://pypi.org/project/bytepft/) | 0.1.0 | BytePFT contributors | 335.4 kB | Retrofitting language models, one byte at a time. |
+| 2026-11-06 13:25:31 | [gisel](https://pypi.org/project/gisel/) | 0.2.0 |  | 144.3 kB | A free-form language for GlobalISel legalizer rules |
+| 2026-11-06 13:26:38 | [lyss](https://pypi.org/project/lyss/) | 0.8.0 | Mouad Lyaazale <lyaazale@lyss… | 447.5 kB | LYSS (Lyaazale Switch Security): open, vendor-neutral security standard and rea… |
+| 2026-11-06 13:28:49 | [android-snippets](https://pypi.org/project/android-snippets/) | 1.0.0 | Android Snippets Contributors | 17.4 kB | A command-line collection of reusable Android code snippets. |
+| 2026-11-06 13:29:29 | [metaflow-anakin](https://pypi.org/project/metaflow-anakin/) | 0.1.0 | Anakin <support@anakin.io> | 58.1 kB | Metaflow step decorator and card for Anakin: scrape, crawl, search, Wire site a… |
+| 2026-11-06 13:30:24 | [simscale-cadlib](https://pypi.org/project/simscale-cadlib/) | 1.0.0 |  | 16.9 MB | Python bindings for cadlib |
+| 2026-11-06 13:30:59 | [nullprotocol](https://pypi.org/project/nullprotocol/) | 0.2.0 | NullProtocol | 55.9 kB | Focused AI tasks with managed context, Knowledge and observable results |
+| 2026-11-06 13:31:45 | [cvm-mcp](https://pypi.org/project/cvm-mcp/) | 0.1.1 | Marcelo S. Perlin | 160.7 kB | One MCP server for the whole CVM open-data repository (dados.cvm.gov.br) |
+| 2026-11-06 13:32:15 | [pulumi-zerops-app](https://pypi.org/project/pulumi-zerops-app/) | 0.1.1 |  | 17.3 kB | Deploy a Zerops web application with optional PostgreSQL using a compiled compo… |
+| 2026-11-06 13:32:31 | [aseprite-claude-connector](https://pypi.org/project/aseprite-claude-connector/) | 0.3.0 | Kyle Ocheltree, Umar Muhammad | 735.6 kB | Let Claude draw in a running Aseprite, and export straight to Godot or Unity. |
+| 2026-11-06 13:35:15 | [napari-bboxes](https://pypi.org/project/napari-bboxes/) | 0.1.1 | Karol Gotkowski <karol.gotkow… | 27.4 kB | Axis-aligned 2-D and 3-D bounding boxes as napari layers, visible in every plan… |
+| 2026-11-06 13:35:31 | [crewai-dxmt](https://pypi.org/project/crewai-dxmt/) | 1.6.0 | DXMT Team <contact@dxmt.onlin… | 36.8 kB | DXMT as CrewAI's memory storage backend, knowledge storage and vector search to… |
+| 2026-11-06 13:40:22 | [vibedata-dlt-redshift-core](https://pypi.org/project/vibedata-dlt-redshift-core/) | 0.1.0 | Vibedata <eng@acceleratedata.… | 6.1 kB | VibeData dlt runtime — Amazon Redshift platform shared core (the connected-data… |
+| 2026-11-06 13:44:32 | [hapapp-utils](https://pypi.org/project/hapapp-utils/) | 2.0.0 | Breeding Insight | 168.6 kB | Build and maintain microhaplotype databases from targeted genotyping reports |
+| 2026-11-06 13:46:45 | [odoo-addon-connector-mercadolibre-sale](https://pypi.org/project/odoo-addon-connector-mercadolibre-sale/) | 19.0.1.0.0.2 | Odoo Community Association (O… | 72.3 kB | Orders, packs, and shipments from Mercado Libre |
+| 2026-11-06 13:48:46 | [ts-sbom-checker](https://pypi.org/project/ts-sbom-checker/) | 0.1.0 | EACG GmbH / TrustSource <supp… | 466.6 kB | Checks SBOMs (CycloneDX, SPDX) against their JSON schema and the requirements o… |
+| 2026-11-06 13:55:40 | [media-cloud-mcp](https://pypi.org/project/media-cloud-mcp/) | 0.1.0 |  | 23.7 kB | MCP server for Media Cloud: measure news attention, list stories, and browse me… |
+| 2026-11-06 13:56:14 | [PyProbXAI](https://pypi.org/project/PyProbXAI/) | 0.1.0 | Sifeddine Sellami, Florent Mo… | 65.1 kB | Probable explanations for decision trees (UAI 2023), tree ensembles (k-pseudo)… |
+| 2026-11-06 13:59:50 | [dswebhook](https://pypi.org/project/dswebhook/) | 0.3.0 | Beks1k | 8.2 kB | Lib for easy use of discord webhook |
+| 2026-11-06 14:01:58 | [traslado](https://pypi.org/project/traslado/) | 2.0.0 | Ricardo Peres Freoa \| Stocche… | 629.2 kB | Traslado — conversão local de documentos para Markdown rastreável |
+| 2026-11-06 14:04:10 | [ti-mcp](https://pypi.org/project/ti-mcp/) | 1.0.0 | Future Joint-Stock Company <t… | 127.0 kB | MCP server for the F6 Threat Intelligence API |
+| 2026-11-06 14:04:30 | [regcraft](https://pypi.org/project/regcraft/) | 0.1.1 | BrunakLab | 31.9 kB | Swiss-army knife for danish registries |
+| 2026-11-06 14:04:45 | [mustdrifter](https://pypi.org/project/mustdrifter/) | 1.0.1 | iguillenp | 85.3 kB |  |
+| 2026-11-06 14:05:08 | [abstrator](https://pypi.org/project/abstrator/) | 0.1.0 |  | 278.7 kB | Pesquisa por abstracao recursiva: decompõe um tema, pesquisa por lentes e recon… |
+| 2026-11-06 14:08:36 | [laiss-docs](https://pypi.org/project/laiss-docs/) | 1.1.0 | Laiss Labs | 10.6 MB | Documentos Laiss Labs em A4, a partir de JSON. Sistema de design, motor e CLI. |
+| 2026-11-06 14:09:16 | [ptzsim](https://pypi.org/project/ptzsim/) | 0.2.0 |  | 137.7 kB | CLI simulator for testing ONVIF, VISCA and NDI PTZ clients |
+| 2026-11-06 14:10:53 | [FairMetrics](https://pypi.org/project/FairMetrics/) | 0.1.0 |  | 1.5 MB | Fairness assessment metrics for binary, multi-class and multi-group settings. O… |
+| 2026-11-06 14:16:34 | [timo-otp](https://pypi.org/project/timo-otp/) | 1.0.1 | Leonardo Martignoni | 105.5 kB | Your authenticator app, in the terminal, one word away: an encrypted TOTP manag… |
+| 2026-11-06 14:16:48 | [looot](https://pypi.org/project/looot/) | 0.2.0 | looot <support@looot.ai> | 52.3 kB | Official Python client for the looot API: search, inspect and run data provider… |
+| 2026-11-06 14:17:40 | [raytrace-cli](https://pypi.org/project/raytrace-cli/) | 0.11.1 |  | 242.7 MB | See what your coding agent did: traces, tool calls, cost and step-by-step evide… |
+| 2026-11-06 14:17:42 | [hbar](https://pypi.org/project/hbar/) | 0.2.0.post1 | willwu | 5.2 kB | Quantum-inspired compression & pruning for large language models (MPO, MixT, an… |
