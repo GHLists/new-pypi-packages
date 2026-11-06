@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T03:19:39Z,openocr-mlt,0.3.0,ericleyu,,201839,Offline multilingual OCR with ONNX Prefill/Decode recognition and PP-OCRv6 medium detection
+2026-11-06T03:19:55Z,egnyte-client,0.1.0,SB&O Inc,MIT,273643,Egnyte Public API Python Client
+2026-11-06T03:20:29Z,py-qj-robots-uat,0.1.14,QJ ROBOTS,,37337,QJ Python SDK（UAT）
+2026-11-06T03:22:28Z,ikelos,0.1.0.dev1,,MPL-2.0,3199503,Pure-Python port of the Morpheus Ancient Greek morphological analyzer
+2026-11-06T03:26:59Z,qdu,0.1.0,Onely7,MIT,15927089,Record disk-usage snapshots of a directory tree and see where space goes
+2026-11-06T03:27:14Z,yswj-internal-cli,0.1.1,,,46837,Command-line client for 元生无界内部管理系统
+2026-11-06T03:30:44Z,onlinecompiler-mcp,0.4.0,OnlineCompiler.io,MIT,140713,MCP server for OnlineCompiler.io: execute code in 46 languages in sandboxed containers
+2026-11-06T03:31:02Z,pr-rocket,0.1.0,Pydantic Services Inc.,,43733,Review local changes with PR Rocket before opening a pull request
+2026-11-06T03:38:17Z,datakiln,0.3.0.1,Lucas Bulgarelli <lucas.bulgarelli@hotmail.com>,MIT,140667,Build a database from a repository of files.
+2026-11-06T03:42:20Z,nlalpha-family-vector,0.0.1,,Proprietary,2417,Name reservation for the NLAlpha Vector strategy family (functionality not published)
+2026-11-06T03:42:26Z,harness-tuner,0.0.1,scosman,,2103,Placeholder. Coming soon.
+2026-11-06T03:43:13Z,reproai-prep,0.8.3,"Leo Yang Yang, Yiqing Xu",MIT,445578,ReproAI Prep: audits and prepares a replication package so it runs from scratch on a clean machine and meets a journal's or a certification service's entry requirements.
+2026-11-06T03:44:49Z,nlalpha-engine-vector,0.0.1,,Proprietary,2386,Name reservation for the NLAlpha Vector engine (functionality not published)
+2026-11-06T03:44:57Z,vectorphile,0.1.0,vectorphile,Apache-2.0,127123,Unified ML/DL Python Library — replaces PyTorch + scikit-learn + NumPy + Pandas + SciPy
+2026-11-06T03:44:57Z,weepingwillow,1.1.1,U.S. Disease Tracker Group,Apache-2.0,12864,library to upload data to the U.S. Disease Tracker (USDT) project
+2026-11-06T03:45:06Z,workforce-plotting,0.2.0,Corey Gelb-Bicknell,MIT,18075,Simple plotnine figures with Opportunity Insights styling.
+2026-11-06T03:48:33Z,quantum-canary,0.9.0,Kanishka Singh,MIT,302753,"Qubit health checks: T1, T2, T2*, frequency offset and single-qubit gate error on IBM hardware, gate error on IonQ, with uncertainties, a model check and drift detection."
+2026-11-06T03:52:30Z,open-agent-control-panel,0.1.0,,Apache-2.0,135146,"A control panel for A2A agents: register, discover, submit tasks and follow them."
+2026-11-06T03:55:03Z,cliver-playbook-app-rag-governance,0.2.0,Lin Gao,Apache-2.0,298593,"cliver-playbook knowledge-base governance: projects, golden datasets, rules, evaluation, approval and governed tools"
+2026-11-06T03:57:34Z,martian-sdk,0.1.0,Martian Security,Apache-2.0,359183,"Martian SDK for agent evaluations, adversarial testing, and CI gates"
+2026-11-06T03:57:42Z,inspect-evals-utils,0.1.0,Matt Fisher,MIT,62202,"Runtime helpers for Inspect AI evaluations: dataset loading with retries, sample ids, prompts and README generation"
+2026-11-06T04:02:11Z,nlalpha-report,0.0.1,,Proprietary,2320,Name reservation for the NLAlpha financial research report package (functionality not published)
+2026-11-06T04:07:40Z,atomo-bohr,0.1.0,Luder Espitia Guzmán,MIT,25968,Librería didáctica en Python para resolver y graficar el modelo del átomo de Bohr en átomos hidrogenoides.
+2026-11-06T04:07:52Z,hirefinn,0.1.0,Finn,MIT,153919,Python SDK for the Finn API
+2026-11-06T04:10:09Z,gamectl,1.2.1,zyekhabdul <zyekhabdulqadirjailani@gmail.com>,MIT,137780,Sovereign TUI Game Manager & Launcher for Linux & Steam Deck Power Users
+2026-11-06T04:11:01Z,sempera,0.1.0,"""Sempera Labs, Inc."" <hello@sempera.org>",MIT,70096,"The official Python client for the Sempera API: a method for every operation, retries, idempotency keys, paging and webhook verification"
+2026-11-06T04:12:27Z,clink-cli,0.2.1,,Apache-2.0,1415740,CLI consultation and native agent task delegation over the Model Context Protocol
+2026-11-06T04:16:57Z,halkit,0.1.0,OpenHAL contributors,Apache-2.0,3730163,An open-source protocol for AI agents to control hardware.
