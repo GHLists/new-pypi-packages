@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 48,
-    "from": "2026-11-06T17:19:00.937322Z",
-    "path": "data/new-packages-2026-11-06T18-18-48-818628Z.csv",
-    "to": "2026-11-06T18:18:48.818628Z"
+    "count": 34,
+    "from": "2026-11-06T18:18:48.818628Z",
+    "path": "data/new-packages-2026-11-06T19-20-44-558896Z.csv",
+    "to": "2026-11-06T19:20:44.558896Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-06T15:29:55Z",
       "package": "eduruckus-node-ui",
       "since": "2026-11-06T15:21:02.244601Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-06T19:04:23Z",
+      "package": "static-datalake-doco",
+      "since": "2026-11-06T18:18:48.818628Z",
+      "version": null
     }
   ],
-  "serial": 43305360,
+  "serial": 43307466,
   "source_truncated": false,
-  "window": "2026-11-06T18:18:48.818628Z"
+  "window": "2026-11-06T19:20:44.558896Z"
 }

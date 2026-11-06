@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T18:19:10Z,agent-debrief,0.1.1,Agent Debrief contributors,MIT,1177314,"Understand what your AI coding agent actually built — summaries, flows, lessons, voice and Q&A, all backed by evidence."
+2026-11-06T18:21:12Z,omnilimit,0.1.1,Pablo Alaniz,MIT,138433,"Rate limiting that behaves the same across stacks, with trusted client IPs and an explicit failure mode."
+2026-11-06T18:27:26Z,scbamqc,0.1.0,Argenis Arriojas <ArriojasMaldonado001@umb.edu>,,43099,Per-barcode BAM alignment QC and alignment-based cell filtering for single-cell RNA-seq
+2026-11-06T18:29:03Z,branxas,0.1.0,Riyad Febrian <riyadfebrian@gmail.com>,MIT OR Apache-2.0,4479354,Typed Python client for the Branxas secrets server
+2026-11-06T18:36:22Z,pmri-nce,0.1.0,,GPL-2.0-or-later,182388,NCE command station + passive Cab Bus monitor drivers for PMRI.
+2026-11-06T18:39:24Z,cli-usereq,0.68.0,Ogekuri,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",678950,"Initialize a project with prompts, agents, and templates from the useReq repository."
+2026-11-06T18:40:00Z,pmri-dccex,0.1.0,,GPL-2.0-or-later,78574,DCC-EX driver for the JMRI Python rewrite (Stage 6).
+2026-11-06T18:40:36Z,openinfer-cli,0.0.0,OpenInfer,,1092,Reserved by OpenInfer for the oi command.
+2026-11-06T18:41:11Z,nathbrokrestsdk,1.0.1,,MIT,37956,"Python SDK for Nathbrok file, chat, and server SSO APIs."
+2026-11-06T18:47:35Z,tilvisan-py,0.1.3,Adrien Bachelart <hello@adrienbc.com>,MIT,35542849,Python bindings for tilvisan (Rust)
+2026-11-06T18:48:08Z,splitmend,0.1.1,Ravi Shanker Thadishetti <thadishetti.ravishanker@gmail.com>,MIT,74713,Auditable minimum-change repair of existing machine-learning dataset partitions
+2026-11-06T18:48:20Z,breakitdown,0.1.0,Max He,Apache-2.0,95573,"A/B test analysis on Spark, broken down by any user or metric segment."
+2026-11-06T18:48:58Z,edisciplinas-downloader,0.2.0,João Victor Cavalcante Miranda <joaovictorcmiranda@usp.br>,MIT,38990,Baixa os materiais das suas disciplinas do e-Disciplinas (Moodle da USP)
+2026-11-06T18:50:09Z,fraudshield-mobile,1.0.0,,,101751,"Security and fraud-risk scanner for Flutter, Android, iOS and KMP fintech apps: scans source code and built .apk / .aab / .ipa files"
+2026-11-06T18:51:25Z,engg-math-continnous-analysis,0.0.1,Engineering Mathematics,Apache-2.0,5341,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-06T18:51:26Z,engg-math-core,0.0.1,Engineering Mathematics,Apache-2.0,5200,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-06T18:51:28Z,engg-math-devtools,0.0.1,Engineering Mathematics,Apache-2.0,5236,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-06T18:51:30Z,engg-math-discrete-structures,0.0.1,Engineering Mathematics,Apache-2.0,5339,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-06T18:53:11Z,astock-mcp-cn,0.2.1,,MIT,42918,"A-share market data MCP server: realtime quotes, klines, market breadth, sector fund flow, screener. Pure HTTP, no akshare/pandas."
+2026-11-06T18:54:30Z,cholqr,0.2.0,Soki Fukuda,MIT,60932,"Fast, compile-friendly shifted CholeskyQR3 for batched tall-skinny matrices in PyTorch"
+2026-11-06T18:55:07Z,stream-ai-runtime,0.1.0,,,4509,Zero-OOM streaming runtime for AI models
+2026-11-06T19:01:45Z,tf-inference,0.1.0,Gaurav Sood,MIT,6854904,Numerically constructed tF critical values for single-instrument IV inference
+2026-11-06T19:03:07Z,bazaar-contrib-starlink,0.3.0rc1,,Apache-2.0,22329,"A node's link to a Bazaar Compute server: taking its calls, answering them and reporting the node's audit events"
+2026-11-06T19:06:23Z,hello-world-pro-max,0.1.0,hello-world-pro-max contributors,MIT,10603,"A Hello, world package with the dependency tree of a small operating system."
+2026-11-06T19:07:00Z,datalake-doco,0.1.29,,GPL-3.0-or-later,109907,Static documentation generator for datalakes
+2026-11-06T19:07:11Z,starsec-client,0.910.2,,Proprietary,488928,"STARSEC standalone player client: fly, focus terminals, spectate"
+2026-11-06T19:10:18Z,sk-video-stimulus,0.1.0,Ilya Zelenskiy,MIT,48508,Извлечение низкоуровневой динамики зрительного стимула из видео
+2026-11-06T19:14:00Z,gatac,0.1.0,Louis Faure,BSD-3-Clause,595551,GPU-accelerated ATAC-seq fragment processing and tile matrix generation
+2026-11-06T19:15:03Z,deltakin,0.1.0,Salim Toumache <salimtoumache@gmail.com>,MIT,13685,Forward and inverse kinematics for 3-DOF Delta parallel robots.
+2026-11-06T19:16:46Z,orange-gualbe-pred,0.1.0,Gualberto <gualbe@gmail.com>,GPL-3.0-or-later,367124,Método de predicción multivariante (superdatasets a partir de series de eventos) para Orange Data Mining
+2026-11-06T19:18:43Z,cogno-sync,0.1.1,Vinicius Vale,Apache-2.0,47118,"Distributed coordination primitives for the Cogno stack — async lock, token-bucket rate limiter, claim-once idempotency store and rolling daily cap, each with an in-process default and a Redis adapter"
+2026-11-06T19:19:08Z,tstokenizers,0.1.0,Yi Jiang <yijiang@temporis.co>,Apache-2.0,24949,Time series tokenizer for autoregressive modeling
+2026-11-06T19:19:09Z,mcp-claimcheck,0.1.0a1,Roydon Sequeira,MIT,159992,Pre-alpha: runtime semantic verification for MCP tool calls. It will check whether a tool actually satisfied the operation it reported as successful.
+2026-11-06T19:19:51Z,loopagent-gate,0.4.2,loopagent contributors,MIT,258650,"Accept agent work by proof, not by confidence: gates that print a marker and refuse to take the agent's word."
