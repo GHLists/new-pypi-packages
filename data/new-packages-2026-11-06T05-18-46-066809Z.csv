@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T04:22:25Z,whichowns,0.0.1,Kyle O'Malley,MIT,9915,Find which package manager owns a command.
+2026-11-06T04:25:15Z,agent-core-runtime,0.1.0,AgentFinOps & AgentPay Core Team,Apache-2.0,152489,"Universal AI Agent Gateway & FinOps Client SDK for Token Metering, Policy Firewall and Budget Control"
+2026-11-06T04:26:02Z,polyglossa,2026.11.6,Fenakhay,MIT,411187,"English Wiktionary's languages, language families and scripts."
+2026-11-06T04:34:38Z,bohrpy,0.1.1,"Isabel Nieto, Kevin Osorio",MIT,15322,Librería para cálculos y visualización del modelo atómico de Bohr
+2026-11-06T04:35:01Z,pase-framework,1.0.0,"Jinwei Tang, Yunfan Lin, Linrui Cai, Yali Wen, Guangyang Chen, Li Huang",MIT,166242,Patient-level association estimates for multi-patient single-cell studies
+2026-11-06T04:35:19Z,agentpay-core-sdk,0.1.1,AgentFinOps & AgentPay Core Team,Apache-2.0,152929,"Universal AI Agent Gateway & FinOps Client SDK for Token Metering, Policy Firewall and Budget Control"
+2026-11-06T04:36:18Z,wyzie-subs,0.1.0,,MIT,30294,"Python client for the Wyzie Subs API (subtitle search, download, transcribe, fix, extract)."
+2026-11-06T04:37:08Z,pyqihou,0.1.0,VVVictorZhou <ahme02147483647a@gmail.com>,MIT,23337,Python Package for Climate Analysis
+2026-11-06T04:40:02Z,django-safedelete-pro,2.0.0,menco,BSD-3-Clause,62520,高性能 Django 软删除增强库：支持按表批量级联软删除/恢复、联合唯一索引友好字段（支持自增ID/雪花ID/UUID）及 Admin 后台集成
+2026-11-06T04:40:43Z,human-movement-bench,0.1.2,Karim Galal,MIT,62560,Independent reproducible evaluation of timed human input traces
+2026-11-06T04:40:46Z,human-movement-research,0.1.1,Karim Galal,MIT,15975,Optional conditional diffusion research for timed cursor trajectories
+2026-11-06T04:40:49Z,human-movement,0.1.5,Karim Galal,MIT,124025,"Personalized, local human movement and input for computer-use applications"
+2026-11-06T04:42:55Z,credchain,0.1.0,Stephan Eberle <stephaneberle9@gmail.com>,MIT,81051,"Credential provider chain: read usernames, passwords and tokens from environment variables, the OS keychain or secret files, with automatic fallback."
+2026-11-06T04:42:55Z,edge-authz,0.1.0,Stephan Eberle <stephaneberle9@gmail.com>,MIT,48209,"Edge authorization building blocks: client tokens, principals, decisions, a versioned and archived policy file, and a JSONL audit log. Framework-neutral."
+2026-11-06T04:44:50Z,lumina-quant,6.6.5,Katsutoshi Hashimoto <lumina-quant@users.noreply.github.com>,MIT,648814,"Scroll-Out Resistant Deep OFI, Schmitt-Trigger Factor Ontologies, Slippage-Proof Pyramiding, and Statistical Overfitting Audits for Quantitative Finance"
+2026-11-06T04:45:46Z,stdnum-centroamerica,0.1.0,Momotombo Devs,MIT,73038,"Validate, format and compact Central American identity and tax numbers"
+2026-11-06T04:46:01Z,disermo,0.0.1,Richard Terry <code@radiac.net>,BSD-3-Clause,23721,Self hosted server monitoring
+2026-11-06T04:51:13Z,obliq-ocr,0.1.1,"Rahul Kate <rahulkate173@gmail.com>, Abhiraj Adhikary <abhirajadhikary06@gmail.com>, Naman Jha <abh…",MIT,79534,Page-aware OCR and document-parsing pipeline combining PyMuPDF and RapidOCR.
+2026-11-06T04:52:15Z,django-beluga,0.0.1,Richard Terry <code@radiac.net>,BSD-3-Clause,5185,Lightweight powerful Django CMS
+2026-11-06T04:58:42Z,fastmcp-creds,0.1.0,Stephan Eberle <stephaneberle9@gmail.com>,,155979,"Credential provider chain for FastMCP servers: keyring, environment variables, and HTTP Basic Auth header providers with unresolved placeholder detection."
+2026-11-06T04:58:45Z,fastmcp-edge-byok,0.0.1,Stephan Eberle <stephaneberle9@gmail.com>,MIT,5963,Bring-your-own-key credential broker for FastMCP servers (planned; this release only reserves the name).
+2026-11-06T05:00:04Z,pqblocks-digital-anneal,0.1.0,The PQBlocks Authors,Apache-2.0,32935,"Digital Annealer-style parallel-trial heuristic solver for Ising and QUBO optimization problems. Quantum-inspired classical optimization, not cryptography."
+2026-11-06T05:00:10Z,pqblocks-population-anneal,0.1.0,The PQBlocks Authors,Apache-2.0,35209,"Population Annealing Monte Carlo heuristic solver for Ising models and QUBO combinatorial optimization. Quantum-inspired classical optimization, not cryptography."
+2026-11-06T05:00:14Z,pqblocks-qiea,0.1.0,The PQBlocks Authors,Apache-2.0,45266,"Quantum-Inspired Evolutionary Algorithm (QIEA) with Q-bit representations and quantum rotation gates for Ising and QUBO optimization problems. Quantum-inspired classical optimization, not cryptograph…"
+2026-11-06T05:00:20Z,pqblocks-qubo,0.1.0,The PQBlocks Authors,Apache-2.0,68282,Unified mathematical representation and converter library for Quadratic Unconstrained Binary Optimization (QUBO) and Ising formulations.
+2026-11-06T05:01:09Z,fastmcp-edge-authz,0.0.1,Stephan Eberle <stephaneberle9@gmail.com>,MIT,5978,Edge policy enforcement point for FastMCP servers: verifies end-user tokens and applies an allow/deny policy before calling upstreams with a service credential (planned; this release only reserves th…
+2026-11-06T05:11:53Z,git-preflight-gate,0.1.6,alexisromtz-lab,MIT,48613,"Pre-write preflight gate (bash) and CI authority gate (Python composite action): fail-closed, standard library only except PyYAML for the CI extra."
+2026-11-06T05:14:14Z,agxai,1.0.0,S MUNI HARISH,Apache-2.0,144407,"A provider-neutral, framework-agnostic explainability layer for AI agents."
+2026-11-06T05:16:00Z,notificme,0.1.0,IDIE Consulting Technology,Apache-2.0,57457,"Official Python SDK for notific.me: send events, keep live cards up to date, ask humans for decisions and verify signed webhooks."
+2026-11-06T05:18:24Z,termux-adbmcp,0.2.0,wu737,"MIT License Copyright (c) 2026 adbmcp contributors Permission is hereby granted, free of charge, to…",74495,Turn an Android phone (Termux) into an MCP server so AI clients can drive adb devices by natural language
