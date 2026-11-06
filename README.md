@@ -8,42 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 23:20 UTC
+## Latest list — 2026-11-06 00:21 UTC
 
-New packages created between 2026-11-05 22:19 UTC and 2026-11-05 23:20 UTC.
+New packages created between 2026-11-05 23:20 UTC and 2026-11-06 00:21 UTC.
 
-[Full CSV](data/new-packages-2026-11-05T23-20-31-80237Z.csv)
+[Full CSV](data/new-packages-2026-11-06T00-21-26-90879Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-05 22:19:28 | [stem-mqtt-client](https://pypi.org/project/stem-mqtt-client/) | 0.4.1 |  | 3.7 MB | An MQTT 3.1.1 / MQTT 5.0 client implemented in Rust (UniFFI bindings). |
-| 2026-11-05 22:20:29 | [nawah-ara](https://pypi.org/project/nawah-ara/) | 0.1.0 | Nawah Developer | 5.2 kB | Arabic programming library for Python |
-| 2026-11-05 22:24:33 | [mlab-sh](https://pypi.org/project/mlab-sh/) | 1.0.0 | mlab.sh | 71.2 kB | Official Python client for the mlab.sh threat intelligence, CVE and threat-acto… |
-| 2026-11-05 22:26:08 | [forecastscope](https://pypi.org/project/forecastscope/) | 0.1.0 | Felipe Santibáñez-Leal | 127.5 kB | Finite-prefix forecasting, temporal forecast combinations and sequence diagnost… |
-| 2026-11-05 22:26:46 | [django-launch-editor](https://pypi.org/project/django-launch-editor/) | 1.0.0 | Adam Johnson | 23.7 kB | Open files from Django’s debug error page in your editor. |
-| 2026-11-05 22:35:58 | [lictor](https://pypi.org/project/lictor/) | 0.1.0 | Jorge MB | 296.7 kB | Implementa escenarios Gherkin con un agente y los verifica de forma determinist… |
-| 2026-11-05 22:38:42 | [nuclear-grade](https://pypi.org/project/nuclear-grade/) | 0.7.0 | Ben Huffer | 1.9 MB | Configuration management for AI-assisted software work. |
-| 2026-11-05 22:39:14 | [janelkit-store](https://pypi.org/project/janelkit-store/) | 0.2.0.0 | d4ndres <d4ndres@gmail.com> | 38.8 kB | Stores para JanelKit: datos compartidos con escritura controlada, seguimiento d… |
-| 2026-11-05 22:40:39 | [tomlgraft](https://pypi.org/project/tomlgraft/) | 0.1.0 |  | 3.1 MB | Small, transactional TOML edits backed by a shared Rust core |
-| 2026-11-05 22:41:10 | [janelkit-router](https://pypi.org/project/janelkit-router/) | 0.2.0.0 | d4ndres <d4ndres@gmail.com> | 31.5 kB | Navegación entre pantallas para JanelKit: pilas de páginas y secciones |
-| 2026-11-05 22:41:34 | [bytepop](https://pypi.org/project/bytepop/) | 0.0.1 | Jia Xu | 2.4 kB | bytepop. Code release coming soon. |
-| 2026-11-05 22:41:36 | [bit2vec](https://pypi.org/project/bit2vec/) | 0.0.1 | Jia Xu | 2.4 kB | bit2vec. Code release coming soon. |
-| 2026-11-05 22:41:37 | [bitpop](https://pypi.org/project/bitpop/) | 0.0.1 | Jia Xu | 2.4 kB | bitpop. Code release coming soon. |
-| 2026-11-05 22:41:57 | [websitebench](https://pypi.org/project/websitebench/) | 0.0.1 | WebsiteBench Authors | 33.6 kB | Download and check WebsiteBench tasks for the official Harbor framework. |
-| 2026-11-05 22:43:28 | [stem-mqtt-broker](https://pypi.org/project/stem-mqtt-broker/) | 0.4.1 |  | 5.2 MB | An MQTT 3.1.1 / MQTT 5.0 broker implemented in Rust (UniFFI bindings). |
-| 2026-11-05 22:43:36 | [logfire-fleet-core](https://pypi.org/project/logfire-fleet-core/) | 0.2.0 |  | 7.9 MB | The shared OpAMP client core for logfire-fleet-client, compiled |
-| 2026-11-05 22:43:37 | [item-appraiser](https://pypi.org/project/item-appraiser/) | 0.1.0 | Sam Firke <samuel.firke@gmail… | 121.9 kB | Estimate the new price, buy value and loan value of household goods with an LLM |
-| 2026-11-05 22:43:51 | [Pyjo-Reactor-Trio](https://pypi.org/project/Pyjo-Reactor-Trio/) | 0.1.0 | Piotr Roszatycki <piotr.rosza… | 49.0 kB | Low level event reactor with Trio support for Pyjoyment. |
-| 2026-11-05 22:46:08 | [p3-cat-care](https://pypi.org/project/p3-cat-care/) | 0.1.0 |  | 30.4 kB | A tiny ASCII cat you can feed and play with. |
-| 2026-11-05 22:46:31 | [sverify-dbt](https://pypi.org/project/sverify-dbt/) | 0.7.0 |  | 179.0 kB | Check a dbt project's tests and model contracts with sverify, before the models… |
-| 2026-11-05 22:48:58 | [pants-backend-cargo](https://pypi.org/project/pants-backend-cargo/) | 0.1.0rc0 | Tom Solberg <me@sbg.dev> | 74.3 kB | A Pants backend for Rust that wraps Cargo: cargo_workspace and cargo_package ta… |
-| 2026-11-05 22:49:20 | [pants-backend-distroless](https://pypi.org/project/pants-backend-distroless/) | 0.1.0rc0 | Tom Solberg <me@sbg.dev> | 61.4 kB | A distroless image plugin for the Pants build system |
-| 2026-11-05 22:54:55 | [nbxtensor](https://pypi.org/project/nbxtensor/) | 0.0.1 | NeuroBrix | 1.8 MB | An inference-first tensor library, torch-free: planned memory, Triton kernels t… |
-| 2026-11-05 22:56:39 | [opalum-receiver](https://pypi.org/project/opalum-receiver/) | 0.1.1 | Martin Munk Hansen | 24.9 kB | Python library for controlling Opalum speakers/amplifiers over their serial (RS… |
-| 2026-11-05 22:57:24 | [airprompter-agent-otel](https://pypi.org/project/airprompter-agent-otel/) | 1.0.0rc0 | AirPrompter | 15.6 kB | The AirPrompter agent SDK's telemetry spool as an OpenTelemetry exporter: minut… |
-| 2026-11-05 22:59:28 | [dinasend-sdk](https://pypi.org/project/dinasend-sdk/) | 0.1.0 | DinaSend | 35.2 kB | Official DinaSend Python SDK for transactional email. |
-| 2026-11-05 23:01:38 | [mypy-boto3-account-access-runtime](https://pypi.org/project/mypy-boto3-account-access-runtime/) | 1.43.125 | Vlad Emelianov <vlad.emeliano… | 37.3 kB | Type annotations for boto3 AccountAccessRuntime 1.43.125 service generated with… |
-| 2026-11-05 23:04:25 | [lance-nd](https://pypi.org/project/lance-nd/) | 0.1.0 |  | 364.8 MB | Store xarray datasets as N-dimensional Arrow arrays in Lance |
-| 2026-11-05 23:08:42 | [path-capi-python](https://pypi.org/project/path-capi-python/) | 0.1.0 | Marlon Molina <dracomarmol@gm… | 45.2 kB | Python wrapper for the PATH C API (MCP/LCP) with Apple Silicon support and an o… |
-| 2026-11-05 23:09:53 | [fault-finder](https://pypi.org/project/fault-finder/) | 0.1.0 |  | 117.7 kB | Reproducible evidence for Python memory retention |
-| 2026-11-05 23:17:59 | [forgegate](https://pypi.org/project/forgegate/) | 0.0.1 | Privy Forge | 2.3 kB | Fail-closed gate between AI agents and the tools that take real actions. By Pri… |
+| 2026-11-05 23:25:13 | [ditli](https://pypi.org/project/ditli/) | 0.0.1 | James Kennedy | 10.4 kB | A small from-scratch implementation of a diffusion transformer (DiT). |
+| 2026-11-05 23:27:05 | [Pyjo-Reactor-Gevent](https://pypi.org/project/Pyjo-Reactor-Gevent/) | 0.1.0 | Piotr Roszatycki <piotr.rosza… | 36.3 kB | Low level event reactor with gevent support for Pyjoyment. |
+| 2026-11-05 23:33:12 | [fenek](https://pypi.org/project/fenek/) | 0.0.0 |  | 1.4 kB | Name reserved for FENEK. Placeholder, no functional code. |
+| 2026-11-05 23:33:16 | [fenek-ag](https://pypi.org/project/fenek-ag/) | 0.0.0 |  | 1.4 kB | Name reserved for FENEK. Placeholder, no functional code. |
+| 2026-11-05 23:33:19 | [fenek-fin](https://pypi.org/project/fenek-fin/) | 0.0.0 |  | 1.4 kB | Name reserved for FENEK. Placeholder, no functional code. |
+| 2026-11-05 23:33:22 | [fenek-geo](https://pypi.org/project/fenek-geo/) | 0.0.0 |  | 1.4 kB | Name reserved for FENEK. Placeholder, no functional code. |
+| 2026-11-05 23:35:52 | [reflectosim](https://pypi.org/project/reflectosim/) | 0.1.0 | Isaac Yong | 60.6 kB | X-ray reflectivity forward physics and synthetic data generation |
+| 2026-11-05 23:36:00 | [logfire-fleet-client](https://pypi.org/project/logfire-fleet-client/) | 0.2.0 |  | 94.8 kB | An OpAMP client for Python (asyncio), on the shared OpAMP core (Rust, natively) |
+| 2026-11-05 23:42:01 | [reflectofit](https://pypi.org/project/reflectofit/) | 0.1.0 | Isaac Yong | 46.8 kB | X-ray reflectivity fitting engine and command line |
+| 2026-11-05 23:42:16 | [reflex-workflow](https://pypi.org/project/reflex-workflow/) | 0.0.1a1 | Khaleel Al-Adhami <khaleel@re… | 138.0 kB | Durable workflows as SQLAlchemy tables on Postgres. |
+| 2026-11-05 23:42:51 | [cm-scale](https://pypi.org/project/cm-scale/) | 0.0.0a0 | NVIDIA | 981 B | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-11-05 23:42:54 | [cm-urwid](https://pypi.org/project/cm-urwid/) | 0.0.0a0 | NVIDIA | 979 B | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-11-05 23:42:57 | [cmsetup](https://pypi.org/project/cmsetup/) | 0.0.0a0 | NVIDIA | 972 B | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-11-05 23:43:01 | [diagnose-kube](https://pypi.org/project/diagnose-kube/) | 0.0.0a0 | NVIDIA | 1.0 kB | Namespace protection for an internal NVIDIA BCM Python distribution |
+| 2026-11-05 23:44:19 | [spillway-guard](https://pypi.org/project/spillway-guard/) | 0.1.0 | SPILLWAY authors | 335.1 kB | Prompt-injection defense for tool-using LLM agents: a typed-identity egress flo… |
+| 2026-11-05 23:45:36 | [phys-ai-dataprofiler](https://pypi.org/project/phys-ai-dataprofiler/) | 0.3.1 | Anand Krishniyer <akrishniyer… | 208.8 kB | Profile robotics and lab datasets on the Hugging Face Hub without downloading t… |
+| 2026-11-05 23:47:02 | [wattle-tui](https://pypi.org/project/wattle-tui/) | 0.0.0 |  | 2.1 kB | Name held for wattle, a terminal client for MeshCore radios, published elsewher… |
+| 2026-11-05 23:49:33 | [logfire-fleet-otel](https://pypi.org/project/logfire-fleet-otel/) | 0.2.0 |  | 44.6 kB | OpenTelemetry auto-instrumentation under an OpAMP server: install it, and opent… |
+| 2026-11-05 23:55:30 | [summarix-telegram](https://pypi.org/project/summarix-telegram/) | 1.2.1 | Andrey Sukhanov <avsukhanov21… | 260.5 kB | Self-hosted Telegram channel summarizer: a bot, a Claude Code skill CLI and an… |
+| 2026-11-06 00:09:38 | [aitools-alerts](https://pypi.org/project/aitools-alerts/) | 0.0.1 | Joichi Ito | 2.2 kB | Name reserved for ai-tools security alerts (install from https://github.com/Joi… |
+| 2026-11-06 00:10:08 | [openxlsx](https://pypi.org/project/openxlsx/) | 0.1.2 | Eduardo Amorim Pereira | 181.8 kB | Excel toolkit: security hardening, conversion, wrangling, charting, and merging. |
+| 2026-11-06 00:12:01 | [pydantic-data-mapping](https://pypi.org/project/pydantic-data-mapping/) | 0.1.0 | Matthew Coulter | 92.9 kB | Declarative, typed data mapping from Python objects and callable dependencies. |
+| 2026-11-06 00:13:21 | [vibrational-analysis-step](https://pypi.org/project/vibrational-analysis-step/) | 2026.11.5 | Paul Saxe | 364.9 kB | A SEAMM plug-in for Vibrational Analysis |
+| 2026-11-06 00:14:00 | [galaxy-s22-toolkit](https://pypi.org/project/galaxy-s22-toolkit/) | 0.4.0 | Phone Toolkit <user@example.c… | 59.5 kB | ADB wrapper library for Samsung Galaxy phone diagnostics and management (S/Note… |
+| 2026-11-06 00:19:01 | [sinary-winaudio](https://pypi.org/project/sinary-winaudio/) | 0.1.0 | SINARY™ | 1.5 MB | Modern per-process Windows audio capture, session routing, and volume control l… |
+| 2026-11-06 00:19:22 | [enquiry-bench](https://pypi.org/project/enquiry-bench/) | 0.1.0 | Tyler Smith | 63.1 kB | Offline benchmark for fictional service-enquiry routing, cited drafts and abste… |
+| 2026-11-06 00:21:09 | [nn-simulator-tools](https://pypi.org/project/nn-simulator-tools/) | 0.1.0 |  | 55.1 kB | Tools for nn_simulator library |

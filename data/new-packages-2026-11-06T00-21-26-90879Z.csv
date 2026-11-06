@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-05T23:25:13Z,ditli,0.0.1,James Kennedy,,10410,A small from-scratch implementation of a diffusion transformer (DiT).
+2026-11-05T23:27:05Z,Pyjo-Reactor-Gevent,0.1.0,Piotr Roszatycki <piotr.roszatycki@gmail.com>,Artistic-2.0,36339,Low level event reactor with gevent support for Pyjoyment.
+2026-11-05T23:33:12Z,fenek,0.0.0,,Apache-2.0,1364,"Name reserved for FENEK. Placeholder, no functional code."
+2026-11-05T23:33:16Z,fenek-ag,0.0.0,,Apache-2.0,1402,"Name reserved for FENEK. Placeholder, no functional code."
+2026-11-05T23:33:19Z,fenek-fin,0.0.0,,Apache-2.0,1415,"Name reserved for FENEK. Placeholder, no functional code."
+2026-11-05T23:33:22Z,fenek-geo,0.0.0,,Apache-2.0,1416,"Name reserved for FENEK. Placeholder, no functional code."
+2026-11-05T23:35:52Z,reflectosim,0.1.0,Isaac Yong,MIT,60552,X-ray reflectivity forward physics and synthetic data generation
+2026-11-05T23:36:00Z,logfire-fleet-client,0.2.0,,MIT,94812,"An OpAMP client for Python (asyncio), on the shared OpAMP core (Rust, natively)"
+2026-11-05T23:42:01Z,reflectofit,0.1.0,Isaac Yong,MIT,46827,X-ray reflectivity fitting engine and command line
+2026-11-05T23:42:16Z,reflex-workflow,0.0.1a1,Khaleel Al-Adhami <khaleel@reflex.dev>,Apache-2.0,137984,Durable workflows as SQLAlchemy tables on Postgres.
+2026-11-05T23:42:51Z,cm-scale,0.0.0a0,NVIDIA,,981,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-05T23:42:54Z,cm-urwid,0.0.0a0,NVIDIA,,979,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-05T23:42:57Z,cmsetup,0.0.0a0,NVIDIA,,972,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-05T23:43:01Z,diagnose-kube,0.0.0a0,NVIDIA,,1016,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-05T23:44:19Z,spillway-guard,0.1.0,SPILLWAY authors,Apache-2.0,335050,"Prompt-injection defense for tool-using LLM agents: a typed-identity egress floor, a rule-based ingress sanitizer, and an optional judge that reviews refused calls"
+2026-11-05T23:45:36Z,phys-ai-dataprofiler,0.3.1,Anand Krishniyer <akrishniyer@gmail.com>,MIT,208754,"Profile robotics and lab datasets on the Hugging Face Hub without downloading them (MCAP, ROS bags, MATLAB, Parquet), and check them against your requirements"
+2026-11-05T23:47:02Z,wattle-tui,0.0.0,,MIT,2142,"Name held for wattle, a terminal client for MeshCore radios, published elsewhere. This package installs nothing."
+2026-11-05T23:49:33Z,logfire-fleet-otel,0.2.0,,MIT,44627,"OpenTelemetry auto-instrumentation under an OpAMP server: install it, and opentelemetry-instrument takes its SDK settings (sampling, what to send, which instrumentations run) from the server"
+2026-11-05T23:55:30Z,summarix-telegram,1.2.1,Andrey Sukhanov <avsukhanov21@gmail.com>,LicenseRef-Source-Available,260545,"Self-hosted Telegram channel summarizer: a bot, a Claude Code skill CLI and an MCP server that turn the channels you follow into one short digest, every point linked to its post."
+2026-11-06T00:09:38Z,aitools-alerts,0.0.1,Joichi Ito,MIT,2193,Name reserved for ai-tools security alerts (install from https://github.com/Joi/ai-tools-alerts until 0.1 is published here)
+2026-11-06T00:10:08Z,openxlsx,0.1.2,Eduardo Amorim Pereira,MIT,181758,"Excel toolkit: security hardening, conversion, wrangling, charting, and merging."
+2026-11-06T00:12:01Z,pydantic-data-mapping,0.1.0,Matthew Coulter,MIT,92858,"Declarative, typed data mapping from Python objects and callable dependencies."
+2026-11-06T00:13:21Z,vibrational-analysis-step,2026.11.5,Paul Saxe,BSD-3-Clause,364880,A SEAMM plug-in for Vibrational Analysis
+2026-11-06T00:14:00Z,galaxy-s22-toolkit,0.4.0,Phone Toolkit <user@example.com>,MIT,59519,"ADB wrapper library for Samsung Galaxy phone diagnostics and management (S/Note/A, Android 10+)"
+2026-11-06T00:19:01Z,sinary-winaudio,0.1.0,SINARY™,MIT OR Apache-2.0,1535965,"Modern per-process Windows audio capture, session routing, and volume control library by SINARY™"
+2026-11-06T00:19:22Z,enquiry-bench,0.1.0,Tyler Smith,MIT,63073,"Offline benchmark for fictional service-enquiry routing, cited drafts and abstention"
+2026-11-06T00:21:09Z,nn-simulator-tools,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",55076,Tools for nn_simulator library
