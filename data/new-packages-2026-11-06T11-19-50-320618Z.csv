@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T10:08:03Z,accelerator-pyloco,0.4.1,,,8159423,
+2026-11-06T10:22:07Z,passageway-connector-mkdocs,0.4.0,,PolyForm-Noncommercial-1.0.0,13354,"passageway connector for websites built with MkDocs, read from their search index"
+2026-11-06T10:22:11Z,agentlure,0.0.1,,MIT,2894,"Detonate MCP servers against fake credentials before you install them. (Name reservation - in planning, no release yet.)"
+2026-11-06T10:23:52Z,easybiovibe-ims,2026.11.8,,,734771,Inventory management system for molecular biology / RT-qPCR labs
+2026-11-06T10:26:21Z,hubkit-cli,0.1.0,Ankit Kumar Pandey,Apache-2.0,351996,"Session supervisor for Claude Code: hooks-based multi-agent orchestration with order clocks, routed-work tracking, a watchdog and a stop gate, standard library only."
+2026-11-06T10:26:38Z,feature-standards-core,0.1.0,jongko54,MIT,11939,Shared authorization and listing feature contracts
+2026-11-06T10:27:18Z,ohos-device-preflight,0.1.0,,Apache-2.0 OR MIT,22398,"Get a HarmonyOS device ready for a CI job, e.g. by tapping through the startup guide an OS update leaves behind"
+2026-11-06T10:31:38Z,linch-native,0.1.0,CallMeZuy <duyfaker01@gmail.com>,MIT,1192358,Native internals for the linch Python package
+2026-11-06T10:35:21Z,kinglet-bio,0.3.1,Ryotaro Okamoto,Apache-2.0,35304,Kinglet: kinglet-sized bioacoustic embedding and classification models distilled from Perch 2.0
+2026-11-06T10:35:28Z,netqmpi-plugins,0.1.0,"""F. Javier Cardama"" <javier.cardama@usc.es>",Apache-2.0,49470,"Hardware and link models for NetQMPI, as simulation plugins: NV and SnV colour centres with heralded double-click links"
+2026-11-06T10:39:31Z,bessemer,1.0.0rc1,,MIT OR Apache-2.0,31580073,A Rust HTTP runtime with a Python application API
+2026-11-06T10:42:53Z,lorme,0.1.1,Romain Chantereau,AGPL-3.0-or-later,1204230,LORME — Local Offline Retrieval & MCP Engine. Semantic search over local documents via Model Context Protocol.
+2026-11-06T10:47:55Z,hepsiburada-mcp,0.1.0,Mohammad Abbasi,MIT,33614,"Unofficial read-only MCP server for hepsiburada.com shopping (search, product details, reviews, categories, price stats)"
+2026-11-06T10:52:10Z,auto-weight,0.4.0,,MIT,81156,Repair fine-tuning regressions in local language model checkpoints
+2026-11-06T10:53:13Z,s1-denoise,0.0.0.dev0,"""Aresys S.R.L."" <info@aresys.it>","MIT License Copyright (C) Aresys S.r.l. <info@aresys.it> Permission is hereby granted, free of char…",120042,Noise vector reconstruction for Level 1 Sentinel-1 products
+2026-11-06T10:54:21Z,accessionflow,0.18.0,"""Thomas G. Close"" <thomas.close@sydney.edu.au>","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",566041,"Accessions exported DICOM and raw data, parsing metadata from DICOMs and uploading them to XNAT"
+2026-11-06T10:59:21Z,tradytics,0.1.3,Tradytics <hello@tradytics.com>,MIT,34789,"Python client for the Tradytics API: options flow, dark pool prints, dealer exposure and market data."
+2026-11-06T11:00:32Z,tabml-guard,0.1.1,Ayush Gole <ayushgole1910@gmail.com>,"MIT License Copyright (c) 2026 Ayush Gole and contributors Permission is hereby granted, free of ch…",200583,"A configuration-driven, explainable, drift-aware AutoML pipeline for time-ordered tabular data."
+2026-11-06T11:02:51Z,pylacrosse-ng,0.1.0b1,xsasx,LGPL-2.1-or-later,68088,Modern Python library for LaCrosse and Technoline sensors via JeeLink
+2026-11-06T11:03:31Z,pyVSV,0.3.0,,Apache-2.0,379255,Computational genetics tools for Vesicular Stomatitis Virus (VSV) research.
+2026-11-06T11:03:55Z,loomswitch,0.1.0,Aashish Kumar Mahato,MIT,4769,"One training job, pooled across free GPU providers, resuming from checkpoints."
+2026-11-06T11:05:16Z,larkspur-lab,0.1.0,Riad Moudjahed,MIT,27704,"A vulnerable AI agent lab: break a fictional shop's tool-calling agents, then see the code-level fixes."
+2026-11-06T11:08:16Z,foldaudit,0.2.5,Anas Riaz,MIT,64196,Check that your cross-validation folds are fair and usable before you trust the score.
+2026-11-06T11:08:47Z,inspect-briq,0.1.0,,MIT,17691,Run Inspect AI sandboxes on briq: one microVM per sample.
+2026-11-06T11:09:26Z,langchain-briq,0.1.0,,MIT,15705,briq sandbox integration for Deep Agents
+2026-11-06T11:11:31Z,antigravity-export,1.0.0,Kayvan Jahanbakhsh <jahanbakhsh@live.com>,MIT,82564,"Export and recover Google Antigravity conversations, diffs, and project histories via Language Server."
+2026-11-06T11:12:34Z,locdu,0.1.0,Kevin Müller,MIT,31262,ncdu for lines of code: browse where the lines in a codebase are
+2026-11-06T11:13:41Z,penult,0.0.2,Thor Whalen,MIT,81247,"From an idea to a publication draft: research, write, style, illustrate, and post the draft for review"
+2026-11-06T11:18:16Z,spdseclients,0.0.0,,,896,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
+2026-11-06T11:19:18Z,authsvc,0.0.0,,,885,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
+2026-11-06T11:19:25Z,gcw,0.1.0,Maciej Terlecki <maciek.terlecki1807@gmail.com>,Apache-2.0,162013,Open Google Cloud console pages for gcloud services and resources from the terminal.
+2026-11-06T11:19:46Z,gsx,0.1.0,,MIT,3529969,"The gsx/1 markup language: parsing, diagnostics and projections for social platforms"
