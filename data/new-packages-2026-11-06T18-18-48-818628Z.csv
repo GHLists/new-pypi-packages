@@ -1,0 +1,49 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T17:19:43Z,benchx,0.1.0,,Apache-2.0,597111,BenchX: a flexible and powerful benchmarking framework
+2026-11-06T17:21:15Z,eq36,0.1.0,"""39 Alpha Research, Team Zero"" <39alpha@39alpharesearch.org>",,321680790,EQ3/6 binaries and thin-wrappers
+2026-11-06T17:22:19Z,afk-guard,0.1.0,,Apache-2.0,138720,"Local-only secret scanner, canary tokens, MCP/OpenClaw advisory check with pin/hash/drift, offline inject-check, and a local HTML dashboard for AI agent setups. Not a certification and not a firewall."
+2026-11-06T17:22:29Z,seller-profit-truth,1.0.0,Jasveer Singh,MIT,40565,"Etsy and Gumroad sellers: find your real profit per listing after platform fees, shipping and returns — loss-making listings flagged, break-even price calculator included. Local CLI, no uploads, pure…"
+2026-11-06T17:23:22Z,ludotastic,0.2.1,Micael Jarniac <micael@jarniac.dev>,MIT,330070,Where humans and AI come to play.
+2026-11-06T17:23:25Z,shorts-caption-studio,1.0.0,Jasveer Singh,MIT,38409,"Add animated word-by-word captions to YouTube Shorts, TikTok and Reels: burn pop, karaoke or clean highlight captions from your own SRT with ffmpeg, or export the styled .ass file. Free, local, pure…"
+2026-11-06T17:23:49Z,cognee-connectors-core,0.1.0,Cognee team,Apache-2.0,170680,"The contract every cognee connector implements: OAuth2 descriptors, webhook verification, DLT conventions and the registry hosts load connectors through."
+2026-11-06T17:24:20Z,skill-claims,1.0.0,Jasveer Singh,MIT,66555,"Receipt an agent skill's claims against its own code — every claim SUPPORTED, UNEVIDENCED or CONTRADICTED, with file-and-line evidence."
+2026-11-06T17:27:49Z,afropin,1.0.0,AfroPin Software Limited,MIT,19797,"Python library for the AfroPin gift card API: sell, top up and redeem PINs, quotes, stores and webhooks"
+2026-11-06T17:29:55Z,gap-finder,0.1.0,"Ben Biesenbach, Josef Küstner",MIT,86652,Identify potential knowledge gaps in document collections using language models and topic modeling
+2026-11-06T17:30:43Z,hello-bat-fwi9,0.1.1,hello-bat,"MIT License Copyright (c) 2026 hello-pop contributors Permission is hereby granted, free of charge,…",1897741,A tiny Windows hello package: a native popup plus a bundled hello.bat that writes hello.txt and opens Notepad. No install-time code.
+2026-11-06T17:35:27Z,skill-vet-cli,1.0.0,Jasveer Singh,MIT,69737,"Vet an agent skill pack before you install it — stealing, spying and hidden sending, proven with file-and-line evidence."
+2026-11-06T17:35:33Z,fs-tool-cli,0.1.2,pamagister,,842577,"Lightweight, secure CLI for inspecting and organizing local filesystems."
+2026-11-06T17:36:23Z,apholo8-egnn,0.1.0,,,198262,"apholo8-EGNN binding-site predictor, inference only"
+2026-11-06T17:36:44Z,worktree-janitor-cli,1.0.0,Jasveer Singh,MIT,57397,"Read-only inventory of a git repo's worktrees and branches — verdicts with reasons, and a cleanup plan it prints but never executes."
+2026-11-06T17:37:26Z,besilink,3.2.1,James Lu,MPL-2.0,539254,BesiLink: maintained fork of PyLink IRC Services and Relay
+2026-11-06T17:38:18Z,storerouter,0.1.0,StoreRouter (Octogen AI),Apache-2.0,28887,"Python SDK for StoreRouter: look up any product URL as structured JSON, search products across stores, and discover brands and stores"
+2026-11-06T17:44:14Z,northstar-ctx,3.4.0,,MIT,33291,Deterministic Word (.docx) tracked-change builder and verifier driven by a JSON edit plan.
+2026-11-06T17:50:10Z,cf-concept-installation,0.1.0,Cogniflow Maintainers,,7657,Cogniflow installation vocabulary and validation shapes.
+2026-11-06T17:51:14Z,iris-ultra,0.0.1,,MIT OR Apache-2.0,13325,"Intake, Routing, Insight, Status: the messenger, the eye and the rainbow for everything that enters a personal knowledge and work pipeline"
+2026-11-06T17:53:03Z,euer-invoice,0.4.1,Markus,LicenseRef-Proprietary,187331,Lokale Rechnungsverwaltung und XRechnung 3.0.2 CII
+2026-11-06T17:53:03Z,lean-pkg,0.25.0,Le Chen,Apache-2.0,2853740,"Lifecycle registry and trust gate for Lean 4 formalization packages: leases, receipt-bound gates, comparator (Palomar) evidence, one-way promotion."
+2026-11-06T17:53:24Z,mcp-leyes-chile,0.2.0,,Apache-2.0,49098,Servidor MCP de leyes chilenas con cita verificable y documentos .odt/.pdf
+2026-11-06T17:53:28Z,artest-engine,0.2.0,,Apache-2.0,260409,"The Artest pipeline: stages, agents, prompts, rules and report export."
+2026-11-06T17:54:08Z,artest-stats,0.2.0,,Apache-2.0,27019,"Experiment statistics: proportions, segment comparison, power analysis and the SRM check."
+2026-11-06T17:54:29Z,artest-runtime,0.2.0,,Apache-2.0,43766,Typed DAG runtime with an event journal and a content-addressed artifact store.
+2026-11-06T17:56:44Z,riaguard,0.0.0,,Apache-2.0,2397,Placeholder reserving the name for riaguard (analysis and alerts only; never executes trades).
+2026-11-06T17:56:58Z,artest-cro,0.2.0,,Apache-2.0 AND MIT AND 0BSD,638812,Artest: the autonomous CRO agent. Command line and web API.
+2026-11-06T17:59:28Z,stadiacast,1.0.0,Francisco Jimenez Cabrera,MIT,393307,A local server for the Stadia Controller's Wi-Fi mode: keeps the controller working with your own PC after the Stadia shutdown
+2026-11-06T17:59:37Z,safejev,0.1.0,Subham,Apache-2.0,149953,"AI security and governance toolkit: calibrated local detectors for prompt attacks, misuse and risky agent actions, with a deterministic policy layer"
+2026-11-06T17:59:48Z,directupsampling,0.6.0,"Axel Forslund, The directupsampling contributors",MIT,434304,Direct upsampling for free energies and thermodynamic properties
+2026-11-06T18:02:04Z,cookieguard,0.1.0,aiscihub,MIT,6172,CookieGuard authentication-cookie security checks for AI browser agents (installs cookieguard-browser-use)
+2026-11-06T18:03:27Z,arxsource-mcp,0.1.0,nicolaiprodromov <57862822+nicolaiprodromov@users.noreply.github.com>,Apache-2.0,560919,"Read the paper. Find the source. An MCP server that lets AI agents search, read and analyze arXiv papers, and find their code."
+2026-11-06T18:04:23Z,shade-plugins-nfse-nacional,0.1.0,ShadeOne,Apache-2.0,28267,"NFS-e pela API do padrão nacional: baixa as notas do contribuinte e emite a nota a partir de campos nomeados, com o e-CNPJ do prestador."
+2026-11-06T18:05:41Z,py-acevo,0.0.1,,,16516,Read Assetto Corsa EVO shared memory on Windows.
+2026-11-06T18:05:44Z,interaction-harness,0.1.0,Chris Brousseau,MIT,12100153,"A voice agent whose interaction model (turn-taking, barge-in, background work) is visible and swappable"
+2026-11-06T18:06:19Z,mutineer,0.1.0.dev0,,Apache-2.0,176598,"Checks whether agent-written work is really done with diff-scoped mutation testing, rules and tamper detection."
+2026-11-06T18:06:37Z,seolens,0.1.0,Supriyo Mallick,MIT,241844,"Free, open-source SEO crawler and audit tool (up to 10,000 URLs) with a Streamlit dashboard."
+2026-11-06T18:07:23Z,markitdown-rs,0.2.1,,MIT,15865469,"Microsoft's markitdown Python API backed by Rust: same `markitdown` module, same Markdown output, no heavy dependencies"
+2026-11-06T18:08:10Z,clutterxp,1.1.0,,,474469,"Configurable, safe, lightweight file organizer: rules, preview, undo, watch, duplicates."
+2026-11-06T18:09:16Z,pre-twinx,0.1.0,,,49366,A single tool to manage multiple things
+2026-11-06T18:09:20Z,typecast-mcp,0.1.0,Nilay Pandey,MIT,17963,Validator-only MCP server: checks job-posting JSON against a strict schema and returns fixable error lines.
+2026-11-06T18:12:00Z,match-stream,0.1.0,Lee Tucker,MIT,248179,"Out-of-core matching: nearest-neighbor (with or without replacement), calipers, exact strata, Mahalanobis, kernel and coarsened exact matching, with Abadie-Imbens inference"
+2026-11-06T18:14:19Z,tommyslate,0.4.0,,Apache-2.0,2479457,TommySlate: every recommendation checked by a certified Rust-backed slate optimizer
+2026-11-06T18:15:33Z,router-gateway-directory,0.1.0,Router IP Guide <admin@routeripguide.com>,,9472,"A lightweight CLI directory and offline database indexing default gateway IP addresses, RFC 1918 subnets, and factory credentials for 35+ router manufacturers."
+2026-11-06T18:15:39Z,northpost-parser,1.1.0,Ryan Smith,Apache-2.0,47798,Canadian postal address parser built with ANTLR4
+2026-11-06T18:18:08Z,pepkio-bio-unit-converter,0.1.0,,,43999,Python client for Pepkio bio-unit-converter tool
+2026-11-06T18:18:17Z,anisa,0.0.1b1,Jan Ilavsky <ilavsky@anl.gov>,MIT,258262,Small-angle scattering modelling of anisotropic particle populations (successor of Igor AnisoSAS).
