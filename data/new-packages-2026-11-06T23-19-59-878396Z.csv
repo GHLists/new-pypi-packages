@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T22:19:35Z,ironshell,1.5.1,nervosys <contact@nervosys.ai>,AGPL-3.0-or-later,93632,IronShell - AI-powered typed shell with workflow orchestration and cloud deployment
+2026-11-06T22:25:40Z,tonable,0.5.2,Ilya Amursky,MIT,226046,"MCP server for Ableton Live 12: presets, devices, clips, envelopes and scenes"
+2026-11-06T22:27:00Z,external-sandbox-quicksand,0.1.0,Simon Willison,Apache-2.0 AND BSD-3-Clause,4105892,External Sandbox server backed by Quicksand QEMU virtual machines
+2026-11-06T22:27:19Z,vtech-link,0.3.0,,Apache-2.0,3991793,"LAN-direct transport for the VTech RM5754HD baby monitor, for the vtech_baby Home Assistant integration"
+2026-11-06T22:28:03Z,cement-mysql-mcp,0.0.1,BlackBerry,,3361,Reserved name. This is not the real package; it is distributed on an internal index.
+2026-11-06T22:28:53Z,logify360,1.0.0,Logify360 <connect@logify360.com>,Proprietary,187700,"Logify360 SDK for Python. Agent tracing, LLM usage capture, and cost observability."
+2026-11-06T22:29:07Z,provance,0.1.0,Hakim Id Brahim,MIT,91671,"Tamper-evident audit trail: hash chained, signed ledger in your own database, with FastAPI, Flask and Django integration. Same format as the .NET and Java libraries."
+2026-11-06T22:34:11Z,fluxscale,0.6.0,Pedro Henrique Coimbra <pedro-henrique.herig-coimbra@inrae.fr>,EUPL-1.2,204514,Wavelet-based Eddy Covariance
+2026-11-06T22:34:12Z,fluxsound,0.1.0,,EUPL-1.2,15434,"Hear eddy-covariance data: the sound tools of fluxscale, and web apps built on them"
+2026-11-06T22:34:59Z,mittens-dmri,2.0.0a1,Matt Cieslak <mattcieslak@gmail.com>,BSD-3-Clause,2053654,"Analytic voxel-to-voxel transition probabilities from (asymmetric) ODFs, and voxel-graph tractography"
+2026-11-06T22:35:00Z,taucmdr,1.7.0,"""ParaTools, Inc."" <info@paratools.com>",BSD-3-Clause,1599214,An intuitive interface for the TAU Performance System
+2026-11-06T22:39:24Z,libsql-py,1.0.0,,,299745616,"Python bindings for libSQL (Turso): a sqlite3-compatible DB-API driver for local, remote, and embedded-replica databases. Import as `libsql`."
+2026-11-06T22:42:30Z,hf-jobs-launch,0.2.0,Byamasu Patrick Paul <43136469+byamasu-patrick@users.noreply.github.com>,MIT,28593,Run any training script on Hugging Face Jobs by adding --hf-job to its command line.
+2026-11-06T22:42:56Z,fpga-design-implview,0.1.0,Rocco Ardino <roccoardino@gmail.com>,MIT,102907,Pictures and an interactive viewer of Vivado implemented designs: device resources and what the design uses of them
+2026-11-06T22:51:46Z,dcgm-exporter-lite,1.0.0,Corey Cole <3700879+corey-cole@users.noreply.github.com>,MIT AND Apache-2.0,68921,Unprivileged Prometheus exporter for NVIDIA GPU metrics with DCGM Exporter 4.9.0-compatible names
+2026-11-06T22:56:36Z,dirtsmith-evidence-quote-check,0.1.0,Dirtsmith,MIT,27371,Bind agent citations to admitted source text with spans and optional stale-hash rejection.
+2026-11-06T22:58:00Z,agemetry,0.0.1,Josh Reid,Apache-2.0,248965,"A ticker plant for coding agents: local-first, append-only telemetry store for Claude Code, Codex and friends."
+2026-11-06T23:01:41Z,supercollider-mcp,0.2.0,,MIT,86837,MCP server that lets AI assistants make sound with SuperCollider over OSC
+2026-11-06T23:01:46Z,api-docs-kit,0.0.0,,,2660,Name placeholder: this release is yanked and is not meant to be installed.
+2026-11-06T23:02:52Z,hlix-sdk,0.1.0,Hlix <support@hlix.ai>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",3419985,hlix API
+2026-11-06T23:10:11Z,amagi-clipper,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,46650,"Turn a long podcast, webinar or stream VOD into vertical 9:16 clips with burned-in captions. Local faster-whisper + ffmpeg, no API key."
+2026-11-06T23:13:21Z,compgen,0.1.0,"Mark Messner, Tianchen Hu, Fabio Sozio",MIT,103754,Python toolkit for generating simulation data for two phase composite materials.
+2026-11-06T23:14:53Z,arkai,0.8.0,arkai contributors,Apache License 2.0,252267,Local AI inference workflow management
+2026-11-06T23:16:16Z,dex-connector-atlassian-jira-service-management,0.1.0,,MIT,148516,Dex-native Jira Service Management connector
+2026-11-06T23:17:11Z,ghosalquant,0.1.0,Ghosal Quants,MIT,388340,Event-driven quantitative trading research framework
+2026-11-06T23:17:22Z,elec-tariffs,0.1.0,damou8,MIT,50071,"Cost French electricity consumption hour by hour under Base, HP/HC and Tempo contracts"

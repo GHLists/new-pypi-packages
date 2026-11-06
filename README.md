@@ -8,47 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 22:19 UTC
+## Latest list — 2026-11-06 23:19 UTC
 
-New packages created between 2026-11-06 21:18 UTC and 2026-11-06 22:19 UTC.
+New packages created between 2026-11-06 22:19 UTC and 2026-11-06 23:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-06T22-19-04-158498Z.csv)
+[Full CSV](data/new-packages-2026-11-06T23-19-59-878396Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-06 21:18:27 | [pyixblue](https://pypi.org/project/pyixblue/) | 0.9.2 |  | 39.4 kB | Python parser for the iXblue stdbin protocol |
-| 2026-11-06 21:21:12 | [dicogis](https://pypi.org/project/dicogis/) | 4.0.1 | Julien Moura <dev@ingeoverita… | 1.0 MB | Create Excel spreadsheet describing geographical data from a PostGIS Database o… |
-| 2026-11-06 21:23:33 | [napari-locpix2](https://pypi.org/project/napari-locpix2/) | 0.0.8 | Oliver Umney | 41.5 kB | Load in point cloud data (e.g. from single molecule localisation microscopy) an… |
-| 2026-11-06 21:23:45 | [winrt-Microsoft.Web.WebView2.Interop](https://pypi.org/project/winrt-Microsoft.Web.WebView2.Interop/) | 4!1.0.4314.35.1 |  | 113.4 kB | Lets a visually hosted WebView2 take the files dropped on its window, as an OLE… |
-| 2026-11-06 21:27:04 | [anonrouter-confidential](https://pypi.org/project/anonrouter-confidential/) | 0.1.3.post1 | AnonRouter | 415.0 kB | Independently verify AnonRouter TEE/E2EE routes and run confidential inference… |
-| 2026-11-06 21:28:33 | [localkin](https://pypi.org/project/localkin/) | 0.1.0 | LocalKinAI Team <contact@loca… | 8.9 kB | The LocalKin family in one install: kinfer (local LLM serving), OllamaDiffuser… |
-| 2026-11-06 21:34:21 | [durably](https://pypi.org/project/durably/) | 0.1.0 | tarang802 | 68.6 kB | Durable execution for AI agents, with just Postgres. |
-| 2026-11-06 21:35:09 | [nn-periodogram](https://pypi.org/project/nn-periodogram/) | 1.0.0 | "Niall J. Miller" <niall.j.mi… | 118.5 kB | Neural-network false-alarm probabilities and periodograms for astronomical time… |
-| 2026-11-06 21:42:02 | [eitri-hardware](https://pypi.org/project/eitri-hardware/) | 0.6.0 |  | 6.5 MB | A local AI CAD agent: describe a part, Claude models it in build123d, checks it… |
-| 2026-11-06 21:42:04 | [dirtsmith-record-batch-gate](https://pypi.org/project/dirtsmith-record-batch-gate/) | 0.1.0 | Dirtsmith | 31.1 kB | Quarantine invalid or duplicate scraper records before an agent writes to a CRM… |
-| 2026-11-06 21:44:58 | [cutpro](https://pypi.org/project/cutpro/) | 0.1.0 | Cut.Pro | 29.8 kB | Cut.Pro API client for Python: Seedance, Wan, Kling, Veo, Nano Banana, Seedream… |
-| 2026-11-06 21:47:13 | [zlib-rust](https://pypi.org/project/zlib-rust/) | 0.6.8.post2 |  | 3.9 MB | Python bindings for zlib-rs |
-| 2026-11-06 21:49:52 | [llm-on-a-stick](https://pypi.org/project/llm-on-a-stick/) | 0.1.0 |  | 67.6 kB | One eval harness, many LLMs. Start poking. An agentic NetOps benchmark for loca… |
-| 2026-11-06 21:52:20 | [stackvm](https://pypi.org/project/stackvm/) | 0.1.1 | abkwreu | 81.8 kB | Stack machine visualized |
-| 2026-11-06 21:54:42 | [financial-planner](https://pypi.org/project/financial-planner/) | 0.1.0 | Brookie Guzder-Williams | 655.9 kB | A local, private household budget and long-term financial planner driven by CSV… |
-| 2026-11-06 21:55:28 | [dbmapper](https://pypi.org/project/dbmapper/) | 0.1.0 | Peter McGinty <you@example.co… | 475.7 kB | Read-only relational database metadata extraction |
-| 2026-11-06 21:55:45 | [geometric-nn-ops-torch](https://pypi.org/project/geometric-nn-ops-torch/) | 0.1.0 | Advanced Micro Devices, Inc. | 96.9 kB | Vendor-neutral GPU kernels for geometry-aware neural nets (triangle/folding ops) |
-| 2026-11-06 21:56:48 | [calculator-pkg-honnavile](https://pypi.org/project/calculator-pkg-honnavile/) | 0.1.0 |  | 2.6 kB |  |
-| 2026-11-06 22:00:49 | [hipequivariance-ops-torch](https://pypi.org/project/hipequivariance-ops-torch/) | 0.1.0 | Advanced Micro Devices, Inc. | 27.3 kB | Zero-code-change cuequivariance_ops_torch shim for AMD ROCm, backed by geometri… |
-| 2026-11-06 22:01:33 | [assayhq](https://pypi.org/project/assayhq/) | 0.1.0 | Ali Haqiqi | 144.6 kB | Execution-grounded security verifier for AI agent skills |
-| 2026-11-06 22:02:04 | [chartdeck](https://pypi.org/project/chartdeck/) | 1.0.0 | Market Experts Trading LLC <s… | 39.1 kB | Python client for the ChartDeck Developer API (calendar, Strata, market data, a… |
-| 2026-11-06 22:02:04 | [monocoat](https://pypi.org/project/monocoat/) | 1.2.0 | Blake Bratcher | 7.1 MB | One TOML, every Linux theming surface — GTK 2/3/4, Qt/Kvantum, libadwaita, wind… |
-| 2026-11-06 22:02:45 | [survjax](https://pypi.org/project/survjax/) | 0.0.1a2 | Wouter A.C. van Amsterdam | 101.9 kB | Survival analysis in JAX |
-| 2026-11-06 22:03:22 | [external-sandbox-container](https://pypi.org/project/external-sandbox-container/) | 0.1.2 | Simon Willison | 297.9 kB | Bring your own sandbox to coding agents: compatible shell and Codex execution A… |
-| 2026-11-06 22:04:57 | [boax-py](https://pypi.org/project/boax-py/) | 0.1.0 |  | 45.1 kB | Official Python SDK for Boax, the self-hosted sandbox and microVM platform. |
-| 2026-11-06 22:05:04 | [backplanes-policy](https://pypi.org/project/backplanes-policy/) | 0.1.0 |  | 6.7 MB | The Backplanes policy evaluator, used by the backplanes SDK |
-| 2026-11-06 22:05:21 | [aswf-aces-common](https://pypi.org/project/aswf-aces-common/) | 0.1.0rc1 |  | 13.2 kB | ACES shared protocols and data types |
-| 2026-11-06 22:06:43 | [cocat-rs](https://pypi.org/project/cocat-rs/) | 0.1.0 |  | 14.2 MB | Collaborative event catalogues, in Rust with a Python face |
-| 2026-11-06 22:09:12 | [betterportal](https://pypi.org/project/betterportal/) | 11.0.7 |  | 718.0 kB | BetterPortal native runtime and security policy |
-| 2026-11-06 22:09:40 | [tipbox](https://pypi.org/project/tipbox/) | 0.1.0 | Juan Nathaniel <jn2808@columb… | 114.4 kB | Stochastic tipping models, empirical observations, and early-warning benchmarks |
-| 2026-11-06 22:09:43 | [arkivector](https://pypi.org/project/arkivector/) | 1.0.0 |  | 84.8 kB | Arkivector Python SDK: Vector co-processor client for Arkiv |
-| 2026-11-06 22:11:30 | [givememd](https://pypi.org/project/givememd/) | 0.1.0 |  | 100.4 kB | Turn any web page into clean, token-lean markdown for LLMs. Fetches from your o… |
-| 2026-11-06 22:11:41 | [eo-fetch-api](https://pypi.org/project/eo-fetch-api/) | 1.0.0 | Umut Kirdemir | 186.8 kB | One search-and-download interface, with verified downloads and manifests, for E… |
-| 2026-11-06 22:12:44 | [qcopt](https://pypi.org/project/qcopt/) | 0.1.0 | Colton Hicks <github@coltonhi… | 218.9 kB | Geometry optimization, transition-state searches, and IRCs that return qcdata r… |
-| 2026-11-06 22:15:16 | [scietex.hal.spi](https://pypi.org/project/scietex.hal.spi/) | 0.1.0 | Anton Bondarenko <bond.anton@… | 40.4 kB | SPI transport backends for scietex.hal devices |
-| 2026-11-06 22:18:58 | [persistaibench](https://pypi.org/project/persistaibench/) | 0.1.0 |  | 121.1 kB | PersistAIBench: an evaluation benchmark for AI agents' memory truthfulness over… |
+| 2026-11-06 22:19:35 | [ironshell](https://pypi.org/project/ironshell/) | 1.5.1 | nervosys <contact@nervosys.ai> | 93.6 kB | IronShell - AI-powered typed shell with workflow orchestration and cloud deploy… |
+| 2026-11-06 22:25:40 | [tonable](https://pypi.org/project/tonable/) | 0.5.2 | Ilya Amursky | 226.0 kB | MCP server for Ableton Live 12: presets, devices, clips, envelopes and scenes |
+| 2026-11-06 22:27:00 | [external-sandbox-quicksand](https://pypi.org/project/external-sandbox-quicksand/) | 0.1.0 | Simon Willison | 4.1 MB | External Sandbox server backed by Quicksand QEMU virtual machines |
+| 2026-11-06 22:27:19 | [vtech-link](https://pypi.org/project/vtech-link/) | 0.3.0 |  | 4.0 MB | LAN-direct transport for the VTech RM5754HD baby monitor, for the vtech_baby Ho… |
+| 2026-11-06 22:28:03 | [cement-mysql-mcp](https://pypi.org/project/cement-mysql-mcp/) | 0.0.1 | BlackBerry | 3.4 kB | Reserved name. This is not the real package; it is distributed on an internal i… |
+| 2026-11-06 22:28:53 | [logify360](https://pypi.org/project/logify360/) | 1.0.0 | Logify360 <connect@logify360.… | 187.7 kB | Logify360 SDK for Python. Agent tracing, LLM usage capture, and cost observabil… |
+| 2026-11-06 22:29:07 | [provance](https://pypi.org/project/provance/) | 0.1.0 | Hakim Id Brahim | 91.7 kB | Tamper-evident audit trail: hash chained, signed ledger in your own database, w… |
+| 2026-11-06 22:34:11 | [fluxscale](https://pypi.org/project/fluxscale/) | 0.6.0 | Pedro Henrique Coimbra <pedro… | 204.5 kB | Wavelet-based Eddy Covariance |
+| 2026-11-06 22:34:12 | [fluxsound](https://pypi.org/project/fluxsound/) | 0.1.0 |  | 15.4 kB | Hear eddy-covariance data: the sound tools of fluxscale, and web apps built on… |
+| 2026-11-06 22:34:59 | [mittens-dmri](https://pypi.org/project/mittens-dmri/) | 2.0.0a1 | Matt Cieslak <mattcieslak@gma… | 2.1 MB | Analytic voxel-to-voxel transition probabilities from (asymmetric) ODFs, and vo… |
+| 2026-11-06 22:35:00 | [taucmdr](https://pypi.org/project/taucmdr/) | 1.7.0 | "ParaTools, Inc." <info@parat… | 1.6 MB | An intuitive interface for the TAU Performance System |
+| 2026-11-06 22:39:24 | [libsql-py](https://pypi.org/project/libsql-py/) | 1.0.0 |  | 299.7 MB | Python bindings for libSQL (Turso): a sqlite3-compatible DB-API driver for loca… |
+| 2026-11-06 22:42:30 | [hf-jobs-launch](https://pypi.org/project/hf-jobs-launch/) | 0.2.0 | Byamasu Patrick Paul <4313646… | 28.6 kB | Run any training script on Hugging Face Jobs by adding --hf-job to its command… |
+| 2026-11-06 22:42:56 | [fpga-design-implview](https://pypi.org/project/fpga-design-implview/) | 0.1.0 | Rocco Ardino <roccoardino@gma… | 102.9 kB | Pictures and an interactive viewer of Vivado implemented designs: device resour… |
+| 2026-11-06 22:51:46 | [dcgm-exporter-lite](https://pypi.org/project/dcgm-exporter-lite/) | 1.0.0 | Corey Cole <3700879+corey-col… | 68.9 kB | Unprivileged Prometheus exporter for NVIDIA GPU metrics with DCGM Exporter 4.9.… |
+| 2026-11-06 22:56:36 | [dirtsmith-evidence-quote-check](https://pypi.org/project/dirtsmith-evidence-quote-check/) | 0.1.0 | Dirtsmith | 27.4 kB | Bind agent citations to admitted source text with spans and optional stale-hash… |
+| 2026-11-06 22:58:00 | [agemetry](https://pypi.org/project/agemetry/) | 0.0.1 | Josh Reid | 249.0 kB | A ticker plant for coding agents: local-first, append-only telemetry store for… |
+| 2026-11-06 23:01:41 | [supercollider-mcp](https://pypi.org/project/supercollider-mcp/) | 0.2.0 |  | 86.8 kB | MCP server that lets AI assistants make sound with SuperCollider over OSC |
+| 2026-11-06 23:01:46 | [api-docs-kit](https://pypi.org/project/api-docs-kit/) | 0.0.0 |  | 2.7 kB | Name placeholder: this release is yanked and is not meant to be installed. |
+| 2026-11-06 23:02:52 | [hlix-sdk](https://pypi.org/project/hlix-sdk/) | 0.1.0 | Hlix <support@hlix.ai> | 3.4 MB | hlix API |
+| 2026-11-06 23:10:11 | [amagi-clipper](https://pypi.org/project/amagi-clipper/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 46.6 kB | Turn a long podcast, webinar or stream VOD into vertical 9:16 clips with burned… |
+| 2026-11-06 23:13:21 | [compgen](https://pypi.org/project/compgen/) | 0.1.0 | Mark Messner, Tianchen Hu, Fa… | 103.8 kB | Python toolkit for generating simulation data for two phase composite materials. |
+| 2026-11-06 23:14:53 | [arkai](https://pypi.org/project/arkai/) | 0.8.0 | arkai contributors | 252.3 kB | Local AI inference workflow management |
+| 2026-11-06 23:16:16 | [dex-connector-atlassian-jira-service-management](https://pypi.org/project/dex-connector-atlassian-jira-service-management/) | 0.1.0 |  | 148.5 kB | Dex-native Jira Service Management connector |
+| 2026-11-06 23:17:11 | [ghosalquant](https://pypi.org/project/ghosalquant/) | 0.1.0 | Ghosal Quants | 388.3 kB | Event-driven quantitative trading research framework |
+| 2026-11-06 23:17:22 | [elec-tariffs](https://pypi.org/project/elec-tariffs/) | 0.1.0 | damou8 | 50.1 kB | Cost French electricity consumption hour by hour under Base, HP/HC and Tempo co… |
