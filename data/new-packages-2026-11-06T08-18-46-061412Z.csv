@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T07:22:35Z,hiboty,1.4.0,Hiboty <destek@hiboty.com>,MIT,35429,"Official Python client for the Hiboty REST API: AI bots on Telegram and WhatsApp, contacts, conversations, campaigns, Mini Apps, automations and webhooks"
+2026-11-06T07:23:31Z,scrapfly,0.0.1,Scrapfly <tech@scrapfly.io>,BSD-2-Clause,4289,"Alias of scrapfly-sdk, the Scrapfly Python SDK"
+2026-11-06T07:25:23Z,bazaar-contrib-server-overview,0.3.0rc1,,Apache-2.0,23347,"The overview of the Bazaar Compute server, where modules put what is worth a glance"
+2026-11-06T07:25:38Z,atlassian-atlas,0.4.1,,MIT,61569,Compact CLI for Jira and Confluence Cloud REST APIs
+2026-11-06T07:27:26Z,qutai,0.1.0,,,257536,"A lightweight numerical, machine learning and quantum computing SDK."
+2026-11-06T07:32:34Z,briq-cloud,0.1.1,,MIT,47082,"The Python client for briq: run sandboxes for your agents, run commands and move files."
+2026-11-06T07:33:55Z,lokr,0.0.1,Zach Vorhies,MIT,1854,Placeholder for a local secrets broker for AI agents. Not functional yet.
+2026-11-06T07:35:19Z,genspark-sbbox,0.1.0,,MIT,53364,SB-Box Python SDK — cloud sandboxes for AI agents (Genspark)
+2026-11-06T07:35:50Z,QCodeSitter,0.1.0,Tyler Fox <tyler@blur.com>,MIT,156535,A tree-sitter powered code editor widget for Qt
+2026-11-06T07:39:09Z,types-boto3-account-access-runtime,1.43.125,Vlad Emelianov <vlad.emelianov.nz@gmail.com>,MIT,37387,Type annotations for boto3 AccountAccessRuntime 1.43.125 service generated with mypy-boto3-builder 8.12.0
+2026-11-06T07:42:56Z,splspr,0.1.0,,MIT,12076,Read SPL and SPR measurements from a compatible serial device
+2026-11-06T07:45:11Z,bpg-partitioning,0.1.2,verse91 <versedev.store@proton.me>,,56684,BPG-Based Initial Partitioning for Hybrid Data Partitioning in NewSQL Databases
+2026-11-06T07:51:02Z,broadcaster-ng,0.4.0.dev0,"Tom Christie <tom@tomchristie.com>, Qing Wan <juveseason@gmail.com>",BSD-3-Clause,20053,Simple broadcast channels. Maintained fork of encode/broadcaster with connection-loss fixes.
+2026-11-06T07:53:11Z,code-recycle,0.1.0,,MIT,70167,"Search your own code and verified sources before searching the web. Local, private, and usable from any MCP client."
+2026-11-06T07:55:26Z,payrekha,0.1.0a2,,Apache-2.0,9703,Sign PayRekha payout intents from your LOS/LMS or settlement engine.
+2026-11-06T07:56:40Z,comfort-db,0.1.1,"Yvonne Jenniges, Are Olsen, Boris Peter Koch, Sebastian Maneth",MIT,261405,Helper library for working with the COMFORT oceanographic dataset (SQLite)
+2026-11-06T07:57:33Z,staticer,0.0.1,Ariel Tubul,,157027,Embed dependencies in dynamic-executables
+2026-11-06T07:59:38Z,postext,1.70.5,Postext contributors,MIT,43822,"Typeset books from Python with Postext: PDF, HTML, EPUB, page images and Word from a .postext book or Markdown, through the self-contained postext command line."
+2026-11-06T08:00:27Z,pyrove,3.0.0,Manvel Avetisian,MIT,25962847,"Math and geometry for games, robotics and simulation: vectors, matrices, quaternions, shapes, collisions and spatial indices"
+2026-11-06T08:01:52Z,outfence,0.1.0a2,Outfence contributors,Apache-2.0,1197968,Inspect proxy-routed agent connections with local policies and offline reports
+2026-11-06T08:02:47Z,xonta-customs-mcp,0.2.1,Sergei Luzhnov,MIT,100345,"MCP server for importing goods into Russia and the EAEU: invoice parsing, TN VED codes, duties, VAT, customs fees, car recycling fee, antidumping, classification rulings"
+2026-11-06T08:04:21Z,scrapedo-haystack,0.1.0,Scrape.do,Apache-2.0,11759,Fetch web pages through the Scrape.do API in Haystack pipelines and agents.
+2026-11-06T08:05:41Z,dreep-mcp,0.1.0,Dreep,MIT,59308,"The official Dreep MCP server: let any AI agent upload, transform, convert, OCR and deliver media through Dreep."
+2026-11-06T08:07:24Z,openagent-principle,0.6.0,Yifei Yang <274529723+YY-Yifei@users.noreply.github.com>,MIT,221373,致敬《原则》的规则化 agent：维护原则、收集材料、用 Jev 式结构化判断检查是否违反原则
+2026-11-06T08:07:29Z,wecom-aibot-py-sdk,2.0.0,WeCom <wecom@tencent.com>,MIT,97996,企业微信智能机器人 Python SDK —— 基于 WebSocket 长连接通道，提供消息收发、流式回复、模板卡片、事件回调、文件下载解密等核心能力。
+2026-11-06T08:10:19Z,roadshow,0.1.0,Tucker Beck,,18069,A reusable framework for interactive Python demos
+2026-11-06T08:11:57Z,amd-triton,3.9.0.dev0,Mengfei Jiang,MIT,2130,AMD Triton - A language and compiler for custom Deep Learning operations on AMD GPUs
+2026-11-06T08:13:20Z,pluvy,0.0.1,,MIT,461365,"Read-only, parser-backed engineering policy gate for Python, Go, Java, JavaScript and TypeScript"
+2026-11-06T08:16:11Z,jarrah-gads-mcp,0.1.1,,,44594,MCP server for querying Google Ads via GAQL
+2026-11-06T08:16:55Z,boatyard,0.6.0,,,217399,"Deploy-files definition language and compiler, plus a runtime for the compose target"

@@ -8,43 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 07:19 UTC
+## Latest list — 2026-11-06 08:18 UTC
 
-New packages created between 2026-11-06 06:19 UTC and 2026-11-06 07:19 UTC.
+New packages created between 2026-11-06 07:19 UTC and 2026-11-06 08:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-06T07-19-04-638778Z.csv)
+[Full CSV](data/new-packages-2026-11-06T08-18-46-061412Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-06 06:23:30 | [sendgrid-mailkit](https://pypi.org/project/sendgrid-mailkit/) | 0.2.0 | Abhay Kumar Gupta <abhay.kuma… | 54.4 kB | SendGrid Mail Send API client with Jinja2 templates. Authenticate with SENDGRID… |
-| 2026-11-06 06:25:46 | [pipelabs-bridge](https://pypi.org/project/pipelabs-bridge/) | 0.1.0 |  | 25.0 kB | Pipelabs bridge — connects your local ComfyUI server to Pipelabs. |
-| 2026-11-06 06:26:35 | [punchlist](https://pypi.org/project/punchlist/) | 0.6.0 | Steven Moret <smoret@gmail.co… | 145.5 kB | A file-based issue tracker: one markdown file per issue, in the project's own g… |
-| 2026-11-06 06:27:42 | [gym-duckiematrix](https://pypi.org/project/gym-duckiematrix/) | 0.1.0 | Liam Paull | 10.4 kB |  |
-| 2026-11-06 06:28:57 | [tq-bridge](https://pypi.org/project/tq-bridge/) | 0.1.0 | atorber | 44.6 kB | 通达信 tqcenter 跨平台远程调用：Windows 网关 + 远程 SDK |
-| 2026-11-06 06:32:31 | [telegram-migration](https://pypi.org/project/telegram-migration/) | 0.1.0 |  | 135.6 kB | Resumable tool and Python library that rebuilds a Telegram Desktop chat export… |
-| 2026-11-06 06:40:49 | [gencode-agent](https://pypi.org/project/gencode-agent/) | 1.0.0 |  | 30.0 kB | A terminal coding agent (run `gencode`) that works in your current folder using… |
-| 2026-11-06 06:42:48 | [plm-aerospace](https://pypi.org/project/plm-aerospace/) | 0.1.0 | ro-rbl | 6.4 kB | plm pack: Aerospace calculations, checked by units and sanity rules |
-| 2026-11-06 06:42:50 | [plm-cad](https://pypi.org/project/plm-cad/) | 0.1.0 | ro-rbl | 13.1 kB | plm pack: CAD parts as CadQuery programs, checked by building them with the Ope… |
-| 2026-11-06 06:42:51 | [plm-core](https://pypi.org/project/plm-core/) | 0.1.0 | ro-rbl | 37.4 kB | Router, OpenAI-compatible server, CLI, numeric engine and the general pack; dom… |
-| 2026-11-06 06:42:52 | [plm-electrical](https://pypi.org/project/plm-electrical/) | 0.1.0 | ro-rbl | 5.8 kB | plm pack: Electrical engineering calculations, checked by units and sanity rules |
-| 2026-11-06 06:46:18 | [notwork](https://pypi.org/project/notwork/) | 0.0.1 | Cariad Eccleston <cariad@cari… | 1.6 kB |  |
-| 2026-11-06 06:47:03 | [swarmory](https://pypi.org/project/swarmory/) | 0.1.0a1 |  | 365.9 kB | Harness for multi-agent swarms, run locally or in the cloud. |
-| 2026-11-06 06:47:38 | [tinyvm-Flaxot](https://pypi.org/project/tinyvm-Flaxot/) | 0.1.0 |  | 261.8 kB | A small C-powered stack-based bytecode virtual machine. |
-| 2026-11-06 06:54:54 | [fde-tabular](https://pypi.org/project/fde-tabular/) | 1.0.0 | Dwi Sunaryono, Misbakhul Muni… | 73.1 kB | FDE: Feasible Diverse Ensembles for tabular classification |
-| 2026-11-06 06:57:55 | [thetarelay](https://pypi.org/project/thetarelay/) | 0.1.0 | ThetaPlex <support@thetaplex.… | 223.2 kB | Routing proxy for coding agents: a local judge sends easy requests to a lite mo… |
-| 2026-11-06 06:59:00 | [everbrowser](https://pypi.org/project/everbrowser/) | 0.0.1 |  | 1.6 kB | Reserved for EverBrowser |
-| 2026-11-06 06:59:02 | [fastcomputer](https://pypi.org/project/fastcomputer/) | 0.0.1 |  | 1.6 kB | Reserved for FastComputer |
-| 2026-11-06 06:59:57 | [dex-connector-amazon-sqs](https://pypi.org/project/dex-connector-amazon-sqs/) | 0.1.0 |  | 118.4 kB | Amazon SQS connector for Dex Flows |
-| 2026-11-06 07:00:15 | [markdown-json-excel-mcp](https://pypi.org/project/markdown-json-excel-mcp/) | 0.1.0 | shsy-cong | 8.5 kB | MCP server: convert markdown tables, JSON and CSV to Excel files |
-| 2026-11-06 07:01:15 | [authgebra](https://pypi.org/project/authgebra/) | 0.1.0 |  | 185.5 kB | Official Python client for the Authgebra /api/v1 HTTP API (thin wrapper; perfor… |
-| 2026-11-06 07:04:13 | [dex-connector-atlassian-confluence](https://pypi.org/project/dex-connector-atlassian-confluence/) | 0.1.0 |  | 143.0 kB | Dex-native Python connector for Atlassian Confluence |
-| 2026-11-06 07:04:13 | [pregen-registry](https://pypi.org/project/pregen-registry/) | 0.2.0 |  | 83.2 kB | Reference PRE-GEN registry: ask before you generate, get a signed answer anyone… |
-| 2026-11-06 07:04:51 | [hondana-ja](https://pypi.org/project/hondana-ja/) | 0.1.0 |  | 44.1 kB | Fold Japanese/CJK book metadata for matching (簡繁・新旧字体・かな・全半角) and look up ISBNs… |
-| 2026-11-06 07:06:41 | [dex-connector-atlassian-jira](https://pypi.org/project/dex-connector-atlassian-jira/) | 0.1.0 |  | 134.6 kB | Dex-native Atlassian Jira Cloud connector |
-| 2026-11-06 07:09:22 | [inter-agent-bus](https://pypi.org/project/inter-agent-bus/) | 0.15.0 |  | 372.0 kB | Coordination bus between heterogeneous AI agents: task queues with claim/ack le… |
-| 2026-11-06 07:14:34 | [llm-forensics](https://pypi.org/project/llm-forensics/) | 0.1.0 | bohemian-miser | 6.0 MB | Detect and explain edits hidden in LLM weights. |
-| 2026-11-06 07:15:02 | [heinzel-slack](https://pypi.org/project/heinzel-slack/) | 0.1.0 |  | 949.2 kB | Tell the owner what needs them, and ask for approval of an exact draft, in thei… |
-| 2026-11-06 07:15:32 | [inferbuddy](https://pypi.org/project/inferbuddy/) | 0.0.1 |  | 1.5 kB | Reserved for InferBuddy |
-| 2026-11-06 07:15:37 | [umbraci.confluence-markdown-exporter](https://pypi.org/project/umbraci.confluence-markdown-exporter/) | 1.0.0 | Sebastian Penhouet | 547.1 kB | A tool to export Confluence pages to Markdown |
-| 2026-11-06 07:16:04 | [decido-ai](https://pypi.org/project/decido-ai/) | 1.0.0 |  | 3.2 MB | Calibrated decisions (yes/no, pick-one, ordered scale) from a document — Decido… |
-| 2026-11-06 07:16:56 | [neuroseq](https://pypi.org/project/neuroseq/) | 0.30.0 | Andrey Formozov | 4.4 MB | Qt-based desktop GUI application for computational neuroscience, combining Bria… |
+| 2026-11-06 07:22:35 | [hiboty](https://pypi.org/project/hiboty/) | 1.4.0 | Hiboty <destek@hiboty.com> | 35.4 kB | Official Python client for the Hiboty REST API: AI bots on Telegram and WhatsAp… |
+| 2026-11-06 07:23:31 | [scrapfly](https://pypi.org/project/scrapfly/) | 0.0.1 | Scrapfly <tech@scrapfly.io> | 4.3 kB | Alias of scrapfly-sdk, the Scrapfly Python SDK |
+| 2026-11-06 07:25:23 | [bazaar-contrib-server-overview](https://pypi.org/project/bazaar-contrib-server-overview/) | 0.3.0rc1 |  | 23.3 kB | The overview of the Bazaar Compute server, where modules put what is worth a gl… |
+| 2026-11-06 07:25:38 | [atlassian-atlas](https://pypi.org/project/atlassian-atlas/) | 0.4.1 |  | 61.6 kB | Compact CLI for Jira and Confluence Cloud REST APIs |
+| 2026-11-06 07:27:26 | [qutai](https://pypi.org/project/qutai/) | 0.1.0 |  | 257.5 kB | A lightweight numerical, machine learning and quantum computing SDK. |
+| 2026-11-06 07:32:34 | [briq-cloud](https://pypi.org/project/briq-cloud/) | 0.1.1 |  | 47.1 kB | The Python client for briq: run sandboxes for your agents, run commands and mov… |
+| 2026-11-06 07:33:55 | [lokr](https://pypi.org/project/lokr/) | 0.0.1 | Zach Vorhies | 1.9 kB | Placeholder for a local secrets broker for AI agents. Not functional yet. |
+| 2026-11-06 07:35:19 | [genspark-sbbox](https://pypi.org/project/genspark-sbbox/) | 0.1.0 |  | 53.4 kB | SB-Box Python SDK — cloud sandboxes for AI agents (Genspark) |
+| 2026-11-06 07:35:50 | [QCodeSitter](https://pypi.org/project/QCodeSitter/) | 0.1.0 | Tyler Fox <tyler@blur.com> | 156.5 kB | A tree-sitter powered code editor widget for Qt |
+| 2026-11-06 07:39:09 | [types-boto3-account-access-runtime](https://pypi.org/project/types-boto3-account-access-runtime/) | 1.43.125 | Vlad Emelianov <vlad.emeliano… | 37.4 kB | Type annotations for boto3 AccountAccessRuntime 1.43.125 service generated with… |
+| 2026-11-06 07:42:56 | [splspr](https://pypi.org/project/splspr/) | 0.1.0 |  | 12.1 kB | Read SPL and SPR measurements from a compatible serial device |
+| 2026-11-06 07:45:11 | [bpg-partitioning](https://pypi.org/project/bpg-partitioning/) | 0.1.2 | verse91 <versedev.store@proto… | 56.7 kB | BPG-Based Initial Partitioning for Hybrid Data Partitioning in NewSQL Databases |
+| 2026-11-06 07:51:02 | [broadcaster-ng](https://pypi.org/project/broadcaster-ng/) | 0.4.0.dev0 | Tom Christie <tom@tomchristie… | 20.1 kB | Simple broadcast channels. Maintained fork of encode/broadcaster with connectio… |
+| 2026-11-06 07:53:11 | [code-recycle](https://pypi.org/project/code-recycle/) | 0.1.0 |  | 70.2 kB | Search your own code and verified sources before searching the web. Local, priv… |
+| 2026-11-06 07:55:26 | [payrekha](https://pypi.org/project/payrekha/) | 0.1.0a2 |  | 9.7 kB | Sign PayRekha payout intents from your LOS/LMS or settlement engine. |
+| 2026-11-06 07:56:40 | [comfort-db](https://pypi.org/project/comfort-db/) | 0.1.1 | Yvonne Jenniges, Are Olsen, B… | 261.4 kB | Helper library for working with the COMFORT oceanographic dataset (SQLite) |
+| 2026-11-06 07:57:33 | [staticer](https://pypi.org/project/staticer/) | 0.0.1 | Ariel Tubul | 157.0 kB | Embed dependencies in dynamic-executables |
+| 2026-11-06 07:59:38 | [postext](https://pypi.org/project/postext/) | 1.70.5 | Postext contributors | 43.8 kB | Typeset books from Python with Postext: PDF, HTML, EPUB, page images and Word f… |
+| 2026-11-06 08:00:27 | [pyrove](https://pypi.org/project/pyrove/) | 3.0.0 | Manvel Avetisian | 26.0 MB | Math and geometry for games, robotics and simulation: vectors, matrices, quater… |
+| 2026-11-06 08:01:52 | [outfence](https://pypi.org/project/outfence/) | 0.1.0a2 | Outfence contributors | 1.2 MB | Inspect proxy-routed agent connections with local policies and offline reports |
+| 2026-11-06 08:02:47 | [xonta-customs-mcp](https://pypi.org/project/xonta-customs-mcp/) | 0.2.1 | Sergei Luzhnov | 100.3 kB | MCP server for importing goods into Russia and the EAEU: invoice parsing, TN VE… |
+| 2026-11-06 08:04:21 | [scrapedo-haystack](https://pypi.org/project/scrapedo-haystack/) | 0.1.0 | Scrape.do | 11.8 kB | Fetch web pages through the Scrape.do API in Haystack pipelines and agents. |
+| 2026-11-06 08:05:41 | [dreep-mcp](https://pypi.org/project/dreep-mcp/) | 0.1.0 | Dreep | 59.3 kB | The official Dreep MCP server: let any AI agent upload, transform, convert, OCR… |
+| 2026-11-06 08:07:24 | [openagent-principle](https://pypi.org/project/openagent-principle/) | 0.6.0 | Yifei Yang <274529723+YY-Yife… | 221.4 kB | 致敬《原则》的规则化 agent：维护原则、收集材料、用 Jev 式结构化判断检查是否违反原则 |
+| 2026-11-06 08:07:29 | [wecom-aibot-py-sdk](https://pypi.org/project/wecom-aibot-py-sdk/) | 2.0.0 | WeCom <wecom@tencent.com> | 98.0 kB | 企业微信智能机器人 Python SDK —— 基于 WebSocket 长连接通道，提供消息收发、流式回复、模板卡片、事件回调、文件下载解密等核心能力。 |
+| 2026-11-06 08:10:19 | [roadshow](https://pypi.org/project/roadshow/) | 0.1.0 | Tucker Beck | 18.1 kB | A reusable framework for interactive Python demos |
+| 2026-11-06 08:11:57 | [amd-triton](https://pypi.org/project/amd-triton/) | 3.9.0.dev0 | Mengfei Jiang | 2.1 kB | AMD Triton - A language and compiler for custom Deep Learning operations on AMD… |
+| 2026-11-06 08:13:20 | [pluvy](https://pypi.org/project/pluvy/) | 0.0.1 |  | 461.4 kB | Read-only, parser-backed engineering policy gate for Python, Go, Java, JavaScri… |
+| 2026-11-06 08:16:11 | [jarrah-gads-mcp](https://pypi.org/project/jarrah-gads-mcp/) | 0.1.1 |  | 44.6 kB | MCP server for querying Google Ads via GAQL |
+| 2026-11-06 08:16:55 | [boatyard](https://pypi.org/project/boatyard/) | 0.6.0 |  | 217.4 kB | Deploy-files definition language and compiler, plus a runtime for the compose t… |
