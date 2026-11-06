@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T11:19:20Z,bohr-atom-toolkit,0.1.0,,,87540,Implementación computacional del modelo de Bohr para átomos hidrogenoides
+2026-11-06T12:20:54Z,safe-slate-recommender,0.3.1,,Apache-2.0,2478886,Certified anytime slate construction backed by Rust
+2026-11-06T12:22:36Z,nette-neon,1.0.0,David Grudl,MIT,147099,"NEON parser, encoder and lossless editor: change a value in a config file and keep its comments and formatting."
+2026-11-06T12:23:46Z,cecli-browser-harness,0.1.13.post1,,MIT,248411,"Fork of browser-harness with relaxed dependency pins, published for cecli."
+2026-11-06T12:29:22Z,diffmem-mcp-server,0.1.1,,,105519,DiffMem MCP Server — exposes DiffMem memory APIs as MCP tools with security-first design
+2026-11-06T12:30:31Z,git-asgi,0.1,Jakob Zahn <jakob.zahn@mailbox.org>,AGPL-3.0-only,72886,Git HTTP server as ASGI middleware according to spec.
+2026-11-06T12:31:09Z,libmdr,0.1.1,,MIT,1427843,Python bindings for the mdr-shared C ABI
+2026-11-06T12:31:17Z,libmdr-bt,0.1.1,,MIT,234321,Python binding for libmdr-bt (libmdr Bluetooth Backends)
+2026-11-06T12:31:23Z,libmdr-cli,0.1.1,,MIT,22533,libmdr CLI Frontend
+2026-11-06T12:33:07Z,puigame,0.1.0,neb01,MIT,90715,UI widgets for pygame-ce
+2026-11-06T12:36:27Z,markethelm,0.4.0,Olawal,MIT,1425558,"Market intelligence for informed decisions: market signals, AI-assisted insight, and outcome validation, with controlled execution as a long-term goal."
+2026-11-06T12:36:28Z,nullius-eval,0.1.0rc1,ThinkFlowLab <nullius.thinkflowlab@proton.me>,Apache-2.0,2393280,"Bring anything, run it, prove it."
+2026-11-06T12:38:23Z,jalontsui-fastapi-kit,0.1.0,JalonTsui,MIT,205480,JalonTsui Fastapi Kit：FastAPI 服务公共基础设施包（配置、数据库、缓存、日志、错误体系、安全、中间件等）
+2026-11-06T12:39:24Z,raiju-dtek,0.1.0,rvdxse,MIT,9112,DTEK outage schedule for Kyiv in your terminal
+2026-11-06T12:45:48Z,aidge-deploy,0.10.1,,Eclipse Public License - v 2.0 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE…,106514,Deployment and hardware-in-the-loop validation tools for Eclipse Aidge
+2026-11-06T12:46:20Z,researchos-ci,0.4.0,ResearchOS,Apache-2.0,149310,Research CI verifier with evidence-bound quant and ML domain checks
+2026-11-06T12:50:09Z,pepkio-confluency-split-passage-planner,0.1.0,,,48031,Python client for Pepkio confluency-split-passage-planner tool
+2026-11-06T12:54:22Z,Products.DisableXMLRPC,1.0.0a2,RedTurtle Technology,ZPL 2.1,16671,"Backport of Zope 5.13's enable-xmlrpc switch: disable Zope's built-in XML-RPC support on Zope 2.13, 4 and 5 < 5.13"
+2026-11-06T12:57:18Z,custovox-churn-signal,1.0.0,Jérémie Muselet <jeremie@custovox.ai>,MIT,10080,Churn risk detection MCP: score 0-100 from customer message sequences. Detects degradation patterns. By custovox.ai
+2026-11-06T12:59:19Z,pynzli,0.20261106.0,Dedekind Authors,Apache-2.0,7830159,A library of structure-preserving combinators. It is more conservative than your average Bünzli.
+2026-11-06T13:00:19Z,moss-nfpy,0.0.0.post1,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1423,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-06T13:01:55Z,harbor-check-cli,0.1.0,,MIT,9275,CLI for Harbor Check review status and rubric summaries
+2026-11-06T13:01:57Z,site-audit,0.1.0,Roman Iglin,MIT,67075,Crawl a website and write an SEO and technical audit report.
+2026-11-06T13:03:32Z,aetherflow-arch,0.1.0a1,Samir Baladi,MIT,40622,AetherFlow: Automated Post-Merge Verification and Dynamic Conflict Resolution in Multi-Agent Programming Environments
+2026-11-06T13:04:15Z,dpdp-scan,0.1.1,StateCheck Security,Apache-2.0,139473,"Finds Indian personal data (Aadhaar, PAN, GSTIN, UPI, IFSC, mobile) in code, schemas, fixtures and logs, and points each finding at the DPDP Act obligation it touches."
+2026-11-06T13:05:46Z,n11-mcp,0.1.0,Mohammad Abbasi,MIT,37350,"Unofficial read-only MCP server for n11.com shopping (search, product details, reviews, categories, price stats)"
+2026-11-06T13:05:48Z,obilet-mcp,0.1.0,Mohammad Abbasi,MIT,33576,"Unofficial read-only MCP server for obilet.com bus & flight tickets (bus journeys, locations, prices, flight summary)"
+2026-11-06T13:06:35Z,piloterr,0.1.0,Piloterr <contact@piloterr.com>,MIT,336303,Official Python SDK for the Piloterr web scraping API.
+2026-11-06T13:06:39Z,mcm-license-client,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1426,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-06T13:06:40Z,mogi-python-sdk,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1422,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-06T13:06:42Z,moss-bgfpy,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1420,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-06T13:07:43Z,outboxed,0.1.0,Amin Albooyeh <amin.albooyeh@gmail.com>,MIT,20176,Transactional outbox pattern for Python backends
+2026-11-06T13:08:43Z,ciceksepeti-mcp,0.1.0,Mohammad Abbasi,MIT,35106,"Unofficial read-only MCP server for ciceksepeti.com flowers & gifts (search, product details, reviews, categories, price stats)"
+2026-11-06T13:13:19Z,automdev,0.1.0,Autom <contact@autom.dev>,MIT,49938,Official Python SDK for the Autom SERP API.
+2026-11-06T13:13:38Z,huntapi,0.1.0,HuntAPI <contact@huntapi.com>,MIT,35375,Official Python SDK for the HuntAPI media download API.
+2026-11-06T13:13:42Z,capturekitdev,0.1.0,CaptureKit <contact@capturekit.dev>,MIT,40500,Official Python SDK for the CaptureKit screenshot API.
+2026-11-06T13:14:36Z,aws-waste-hunter,0.1.0,Helyx IT <support@helyxit.com>,Apache-2.0,68901,"Read-only, auditable AWS waste scanner with dollar estimates."
+2026-11-06T13:15:24Z,session-trail,0.2.0,fwt11,MIT,131617,"Local cross-agent work timeline: discover, browse and resume coding-agent sessions on your machine"
+2026-11-06T13:15:49Z,cassiopee-transform,2026.11,ONERA,LGPLv3,5923126,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-06T13:15:54Z,cassiopee-rigidmotion,2026.11,ONERA,LGPLv3,1164617,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-06T13:15:59Z,cassiopee-cplot,2026.11,ONERA,LGPLv3,7978743,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-06T13:16:01Z,cassiopee-post,2026.11,ONERA,LGPLv3,2446245,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-06T13:16:43Z,eelsnmf-gui,0.0.4,jules-vanaret,"Copyright (c) 2026, jules-vanaret All rights reserved. Redistribution and use in source and binary…",127937,GUI for EELS NMF processing
