@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 25,
-    "from": "2026-11-07T04:19:35.120609Z",
-    "path": "data/new-packages-2026-11-07T05-18-46-450526Z.csv",
-    "to": "2026-11-07T05:18:46.450526Z"
+    "count": 28,
+    "from": "2026-11-07T05:18:46.450526Z",
+    "path": "data/new-packages-2026-11-07T06-18-41-384909Z.csv",
+    "to": "2026-11-07T06:18:41.384909Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-07T01:31:38Z",
-      "package": "exhale-xrf",
-      "since": "2026-11-07T01:18:48.147771Z",
+      "attempts": 1,
+      "created_at": "2026-11-07T05:18:55Z",
+      "package": "pipecat-resampler",
+      "since": "2026-11-07T05:18:46.450526Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-07T03:08:33Z",
       "package": "seqComparator",
       "since": "2026-11-07T02:18:47.49104Z",
       "version": "1.0.0"
     }
   ],
-  "serial": 43322370,
+  "serial": 43323333,
   "source_truncated": false,
-  "window": "2026-11-07T05:18:46.450526Z"
+  "window": "2026-11-07T06:18:41.384909Z"
 }

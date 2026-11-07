@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T05:21:25Z,sfnkit,0.1.0,Execution Associates,Apache-2.0,235542,Author AWS Step Functions workflows as decorated Python functions
+2026-11-07T05:23:11Z,assertify-mcp,0.6.3,Roman Klym,MIT,197533,Let AI agents use any website you're logged in to. Log in once; the session stays encrypted on your machine.
+2026-11-07T05:24:46Z,wekon,0.1.0,Wekon,MIT,71782,Библиотека для ботов Wekon
+2026-11-07T05:27:00Z,coolabah,0.1.0.post1,Jahin Z.,MPL-2.0,32771,Generate and assemble file trees using Python generators.
+2026-11-07T05:29:27Z,plyndra,0.0.0,,AGPL-3.0-only,3193,"Name reservation placeholder for Plyndra, a 2D sandbox MMO. Contains no code."
+2026-11-07T05:32:56Z,mallace,0.1.0a14,,MIT,227870,Customer-controlled authorized security assessment and verified remediation
+2026-11-07T05:33:28Z,statepact,0.1.0,Mithun S <mithun.s.genai@gmail.com>,Apache-2.0,225492,"Transaction management for autonomous AI agents: optimistic concurrency, MVCC, 2PL, leases and fencing for shared agent state."
+2026-11-07T05:36:43Z,nlalpha-earlybird,0.0.1,,Proprietary,2386,Name reservation for the NLAlpha earlybird package (functionality not published)
+2026-11-07T05:42:46Z,nlalpha-family-options,0.0.1,,Proprietary,2457,Name reservation for the NLAlpha options strategy family (functionality not published)
+2026-11-07T05:42:51Z,nlalpha-family-portfolio,0.0.1,,Proprietary,2484,Name reservation for the NLAlpha portfolio strategy family (functionality not published)
+2026-11-07T05:42:55Z,nlalpha-family-ml,0.0.1,,Proprietary,2411,Name reservation for the NLAlpha machine-learning strategy family (functionality not published)
+2026-11-07T05:43:38Z,kingai-browser,0.3.0,,MIT,59138,Python code API for the installed KingAI stdio MCP server
+2026-11-07T05:45:29Z,kriton,0.0.1,Kriton,,4575,Prove that deployed infrastructure matches human-approved intent. Early development.
+2026-11-07T05:46:29Z,cotizave,0.1.0,Cotizave,MIT,60525,"Official Python SDK for the Cotizave API v2 — multi-country exchange-rate references, conversions, history, banks and calendars."
+2026-11-07T05:50:43Z,pystachy,0.2.0,,MIT,3503254,Compile a typed subset of Python to native code through LLVM
+2026-11-07T05:51:35Z,tracereplay,0.1.0,TraceReplay Contributors,MIT,2795966,"Record once. Replay reliably. Test, inspect, and debug AI applications with confidence."
+2026-11-07T05:55:05Z,langchain-modular-rag,0.1.0,,,10321,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T05:59:57Z,aetherproof-arch,0.1.0a1,Samir Baladi,MIT,61036,AetherProof: Autonomous Formal Verification and Invariant Synthesis for Multi-Agent Software Ecosystems
+2026-11-07T06:00:02Z,llama-index-vector-stores-rabitqlib,0.1.0,,Apache-2.0,30356,LlamaIndex vector store backed by RaBitQ-quantized HNSW (rabitqlib)
+2026-11-07T06:00:51Z,odoo-addon-l10n-br-fiscal-fci,16.0.1.0.0.3,"Akretion,Odoo Community Association (OCA)",AGPL-3,71964,FCI Management
+2026-11-07T06:01:52Z,i97-pending-shadow,0.1.0,qa94021002,MIT,380,i97 production stale pending publisher test
+2026-11-07T06:02:36Z,deidflow,0.6.0,Giovanny Torres,Apache-2.0,13153594,Local-first Spanish and Mexican sensitive-data detection and verified transformations
+2026-11-07T06:02:49Z,aegis-node,0.1.0,Divolt <hello@divoltbtc.com>,LicenseRef-Proprietary,70685,Aegis WiFi Node Agent — connect a local USB WiFi adapter to the Aegis pentest platform
+2026-11-07T06:03:28Z,libra-boot-low,1.1.1,halavah,MIT,141332,Low-code generator: YAML + Jinja2 templates producing full-stack Spring Boot + Vue3 scaffolding (backend/frontend/SQL/HTTP tests)
+2026-11-07T06:07:41Z,pulumi-doppler,0.0.0,Your Name <you@example.com>,,1157,Dummy pulumi_doppler package for PyPI
+2026-11-07T06:16:13Z,py-visactor-vchart,0.1.1,,MIT,237013,Native Python rendering of two-dimensional static VisActor VChart charts
+2026-11-07T06:17:26Z,limbowatch,0.1.0a1,Limbowatch contributors,Apache-2.0,226763,Track published security advisories stuck in limbo (not yet reviewed into the databases scanners read)
+2026-11-07T06:17:49Z,limbowatch-cli,0.1.0a1,Limbowatch contributors,Apache-2.0,22824,Find dependencies affected by security advisories not yet in GitHub's reviewed database or OSV

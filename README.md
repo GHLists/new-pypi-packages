@@ -8,36 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 05:18 UTC
+## Latest list — 2026-11-07 06:18 UTC
 
-New packages created between 2026-11-07 04:19 UTC and 2026-11-07 05:18 UTC.
+New packages created between 2026-11-07 05:18 UTC and 2026-11-07 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T05-18-46-450526Z.csv)
+[Full CSV](data/new-packages-2026-11-07T06-18-41-384909Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 04:23:29 | [hlsfetch](https://pypi.org/project/hlsfetch/) | 0.1.1 | doumamay | 26.3 kB | Fast async HLS (m3u8) downloader for Python: resume, AES-128, fMP4, ffmpeg remu… |
-| 2026-11-07 04:31:34 | [lvthn-codec](https://pypi.org/project/lvthn-codec/) | 1.0.1 | FreshGame | 30.6 kB | Universal LVTHN media codec: audio (MDCT + Bark + Psy) and images (Oklab + DCT… |
-| 2026-11-07 04:34:48 | [prap](https://pypi.org/project/prap/) | 0.0.1 |  | 13.8 kB | A lightweight agent harness. |
-| 2026-11-07 04:35:22 | [ojanvu](https://pypi.org/project/ojanvu/) | 1.0.1 | Ojanvu Quantum Labs | 16.7 kB | Official Python SDK for Ojanvu Quantum Hardware |
-| 2026-11-07 04:36:20 | [agent-lineup](https://pypi.org/project/agent-lineup/) | 0.1.0 |  | 125.0 kB | See what your coding agent just changed, which edits are risky, and undo a file. |
-| 2026-11-07 04:40:27 | [annar-traductor-pdf](https://pypi.org/project/annar-traductor-pdf/) | 1.0.0 | Annar Diagnostica | 86.9 MB | Traductor de manuales PDF de ingles a espanol que conserva el diseno (uso inter… |
-| 2026-11-07 04:44:05 | [luiccian-autocad-mcp](https://pypi.org/project/luiccian-autocad-mcp/) | 2.3.0 | Luiccian <luicciandev@gmail.c… | 135.7 kB | Model Context Protocol (MCP) server connecting Autodesk AutoCAD 2027 and Civil… |
-| 2026-11-07 04:49:30 | [ttucs](https://pypi.org/project/ttucs/) | 0.2.0 | Jon Evans | 169.1 kB | Text to UCS: classify speech-to-text field-recording slates into Universal Cate… |
-| 2026-11-07 04:49:39 | [jiwang-service-mcp](https://pypi.org/project/jiwang-service-mcp/) | 0.1.0 |  | 41.4 kB | 技王数据恢复公开服务、网点与故障资料查询 MCP |
-| 2026-11-07 05:00:07 | [pqblocks-qubo-bench](https://pypi.org/project/pqblocks-qubo-bench/) | 0.1.0 | The PQBlocks Authors | 83.7 kB | Benchmarking harness and standard instance loaders for quantum-inspired optimiz… |
-| 2026-11-07 05:03:34 | [luckylucy.utils.json](https://pypi.org/project/luckylucy.utils.json/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 9.7 kB | A collection of utilities I use across different projects (luckylucy.utils.json) |
-| 2026-11-07 05:03:38 | [luckylucy.utils.logger](https://pypi.org/project/luckylucy.utils.logger/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 19.4 kB | A collection of utilities I use across different projects (luckylucy.utils.logg… |
-| 2026-11-07 05:04:24 | [zettcode-ask-user](https://pypi.org/project/zettcode-ask-user/) | 0.4.1 | Chang-LeHung | 5.0 kB | The ask_user tool of ZettCode, as a part of the agent that lives apart from it |
-| 2026-11-07 05:04:47 | [luckylucy.utils.network](https://pypi.org/project/luckylucy.utils.network/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 9.9 kB | A collection of utilities I use across different projects (luckylucy.utils.netw… |
-| 2026-11-07 05:04:57 | [iops-crashlab](https://pypi.org/project/iops-crashlab/) | 0.1.0a2 |  | 142.1 kB | Crash Lab: controlled local agent execution and evidence-linked reports |
-| 2026-11-07 05:04:59 | [iops-permissions](https://pypi.org/project/iops-permissions/) | 0.1.0a2 |  | 91.3 kB | Permission Simulator: local declared-policy analysis and portable test scenarios |
-| 2026-11-07 05:05:26 | [zettcode-files](https://pypi.org/project/zettcode-files/) | 0.4.1 | Chang-LeHung | 9.8 kB | The files of a ZettCode workspace as @ references, as a part of the agent that… |
-| 2026-11-07 05:05:56 | [luckylucy.utils.regex](https://pypi.org/project/luckylucy.utils.regex/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 11.0 kB | A collection of utilities I use across different projects (luckylucy.utils.rege… |
-| 2026-11-07 05:06:28 | [zettcode-instructions](https://pypi.org/project/zettcode-instructions/) | 0.4.1 | Chang-LeHung | 5.2 kB | The workspace's AGENTS.md instructions of ZettCode, as a part of the agent that… |
-| 2026-11-07 05:07:31 | [zettcode-todos](https://pypi.org/project/zettcode-todos/) | 0.4.1 | Chang-LeHung | 5.0 kB | The todo_write tool and the plan it keeps, as a part of the agent that lives ap… |
-| 2026-11-07 05:07:51 | [shruti-onnx](https://pypi.org/project/shruti-onnx/) | 0.2.0 | Udgam Labs | 25.3 kB | Shruti: offline speech-to-text, one language and English in one small model, in… |
-| 2026-11-07 05:08:19 | [migraeda](https://pypi.org/project/migraeda/) | 0.1.0 | dan luo | 222.8 kB | Pin-level verified conversion between JLCEDA (.eprj) and Altium Designer (.SchD… |
-| 2026-11-07 05:12:40 | [linch-rust](https://pypi.org/project/linch-rust/) | 0.1.0 |  | 37.9 MB | Minimal asyncio client for the Linch Rust core, over the linch-server sidecar. |
-| 2026-11-07 05:12:56 | [glance-widgets-sdk](https://pypi.org/project/glance-widgets-sdk/) | 1.0.0 |  | 202.7 kB | SDK for generating Glance Widgets API responses |
-| 2026-11-07 05:13:42 | [longloom](https://pypi.org/project/longloom/) | 1.0.0 | LongLoom Maintainers | 90.7 kB | Weave documents of any length through LLM map/merge/repair — any LLM, any stora… |
+| 2026-11-07 05:21:25 | [sfnkit](https://pypi.org/project/sfnkit/) | 0.1.0 | Execution Associates | 235.5 kB | Author AWS Step Functions workflows as decorated Python functions |
+| 2026-11-07 05:23:11 | [assertify-mcp](https://pypi.org/project/assertify-mcp/) | 0.6.3 | Roman Klym | 197.5 kB | Let AI agents use any website you're logged in to. Log in once; the session sta… |
+| 2026-11-07 05:24:46 | [wekon](https://pypi.org/project/wekon/) | 0.1.0 | Wekon | 71.8 kB | Библиотека для ботов Wekon |
+| 2026-11-07 05:27:00 | [coolabah](https://pypi.org/project/coolabah/) | 0.1.0.post1 | Jahin Z. | 32.8 kB | Generate and assemble file trees using Python generators. |
+| 2026-11-07 05:29:27 | [plyndra](https://pypi.org/project/plyndra/) | 0.0.0 |  | 3.2 kB | Name reservation placeholder for Plyndra, a 2D sandbox MMO. Contains no code. |
+| 2026-11-07 05:32:56 | [mallace](https://pypi.org/project/mallace/) | 0.1.0a14 |  | 227.9 kB | Customer-controlled authorized security assessment and verified remediation |
+| 2026-11-07 05:33:28 | [statepact](https://pypi.org/project/statepact/) | 0.1.0 | Mithun S <mithun.s.genai@gmai… | 225.5 kB | Transaction management for autonomous AI agents: optimistic concurrency, MVCC,… |
+| 2026-11-07 05:36:43 | [nlalpha-earlybird](https://pypi.org/project/nlalpha-earlybird/) | 0.0.1 |  | 2.4 kB | Name reservation for the NLAlpha earlybird package (functionality not published) |
+| 2026-11-07 05:42:46 | [nlalpha-family-options](https://pypi.org/project/nlalpha-family-options/) | 0.0.1 |  | 2.5 kB | Name reservation for the NLAlpha options strategy family (functionality not pub… |
+| 2026-11-07 05:42:51 | [nlalpha-family-portfolio](https://pypi.org/project/nlalpha-family-portfolio/) | 0.0.1 |  | 2.5 kB | Name reservation for the NLAlpha portfolio strategy family (functionality not p… |
+| 2026-11-07 05:42:55 | [nlalpha-family-ml](https://pypi.org/project/nlalpha-family-ml/) | 0.0.1 |  | 2.4 kB | Name reservation for the NLAlpha machine-learning strategy family (functionalit… |
+| 2026-11-07 05:43:38 | [kingai-browser](https://pypi.org/project/kingai-browser/) | 0.3.0 |  | 59.1 kB | Python code API for the installed KingAI stdio MCP server |
+| 2026-11-07 05:45:29 | [kriton](https://pypi.org/project/kriton/) | 0.0.1 | Kriton | 4.6 kB | Prove that deployed infrastructure matches human-approved intent. Early develop… |
+| 2026-11-07 05:46:29 | [cotizave](https://pypi.org/project/cotizave/) | 0.1.0 | Cotizave | 60.5 kB | Official Python SDK for the Cotizave API v2 — multi-country exchange-rate refer… |
+| 2026-11-07 05:50:43 | [pystachy](https://pypi.org/project/pystachy/) | 0.2.0 |  | 3.5 MB | Compile a typed subset of Python to native code through LLVM |
+| 2026-11-07 05:51:35 | [tracereplay](https://pypi.org/project/tracereplay/) | 0.1.0 | TraceReplay Contributors | 2.8 MB | Record once. Replay reliably. Test, inspect, and debug AI applications with con… |
+| 2026-11-07 05:55:05 | [langchain-modular-rag](https://pypi.org/project/langchain-modular-rag/) | 0.1.0 |  | 10.3 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 05:59:57 | [aetherproof-arch](https://pypi.org/project/aetherproof-arch/) | 0.1.0a1 | Samir Baladi | 61.0 kB | AetherProof: Autonomous Formal Verification and Invariant Synthesis for Multi-A… |
+| 2026-11-07 06:00:02 | [llama-index-vector-stores-rabitqlib](https://pypi.org/project/llama-index-vector-stores-rabitqlib/) | 0.1.0 |  | 30.4 kB | LlamaIndex vector store backed by RaBitQ-quantized HNSW (rabitqlib) |
+| 2026-11-07 06:00:51 | [odoo-addon-l10n-br-fiscal-fci](https://pypi.org/project/odoo-addon-l10n-br-fiscal-fci/) | 16.0.1.0.0.3 | Akretion,Odoo Community Assoc… | 72.0 kB | FCI Management |
+| 2026-11-07 06:01:52 | [i97-pending-shadow](https://pypi.org/project/i97-pending-shadow/) | 0.1.0 | qa94021002 | 380 B | i97 production stale pending publisher test |
+| 2026-11-07 06:02:36 | [deidflow](https://pypi.org/project/deidflow/) | 0.6.0 | Giovanny Torres | 13.2 MB | Local-first Spanish and Mexican sensitive-data detection and verified transform… |
+| 2026-11-07 06:02:49 | [aegis-node](https://pypi.org/project/aegis-node/) | 0.1.0 | Divolt <hello@divoltbtc.com> | 70.7 kB | Aegis WiFi Node Agent — connect a local USB WiFi adapter to the Aegis pentest p… |
+| 2026-11-07 06:03:28 | [libra-boot-low](https://pypi.org/project/libra-boot-low/) | 1.1.1 | halavah | 141.3 kB | Low-code generator: YAML + Jinja2 templates producing full-stack Spring Boot +… |
+| 2026-11-07 06:07:41 | [pulumi-doppler](https://pypi.org/project/pulumi-doppler/) | 0.0.0 | Your Name <you@example.com> | 1.2 kB | Dummy pulumi_doppler package for PyPI |
+| 2026-11-07 06:16:13 | [py-visactor-vchart](https://pypi.org/project/py-visactor-vchart/) | 0.1.1 |  | 237.0 kB | Native Python rendering of two-dimensional static VisActor VChart charts |
+| 2026-11-07 06:17:26 | [limbowatch](https://pypi.org/project/limbowatch/) | 0.1.0a1 | Limbowatch contributors | 226.8 kB | Track published security advisories stuck in limbo (not yet reviewed into the d… |
+| 2026-11-07 06:17:49 | [limbowatch-cli](https://pypi.org/project/limbowatch-cli/) | 0.1.0a1 | Limbowatch contributors | 22.8 kB | Find dependencies affected by security advisories not yet in GitHub's reviewed… |
