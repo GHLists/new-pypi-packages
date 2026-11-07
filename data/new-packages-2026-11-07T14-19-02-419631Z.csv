@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T13:21:38Z,tandemetry,0.0.1,Yevhenii Korniev,Apache-2.0,12456,Self-hosted analytics for AI coding agents versus human-authored work.
+2026-11-07T13:21:47Z,testlens,0.3.1,yanjike,MIT,159429,本地测试面板：脚本清单、变更检测、运行历史、代码覆盖率，零运行时依赖
+2026-11-07T13:22:57Z,azurkit,1.0.0,,MIT,30751779,"Patch packs, sliders, a randomizer and character swaps for Azurik: Rise of Perathia (Xbox), built from your own copy of the game."
+2026-11-07T13:23:10Z,navya,1.0.0,Python Developer,,2835,My own Python patterns package
+2026-11-07T13:24:07Z,worldmoneywords,2.5.1,Md Ikram,MIT,65580,Python amount-to-words library with multilingual currency wording and 200-country ISO support
+2026-11-07T13:25:13Z,import-linter-ls,0.1.0,daniprol,MIT,15707,A language server for import-linter: see contract errors and import violations in your editor
+2026-11-07T13:25:44Z,sql2deltalake,0.1.0rc1,Adrian Ehrsam <adrian.ehrsam@bmsuisse.ch>,MIT,44767760,"Incremental loads from SQL Server and Postgres into append-only SCD2 Delta Lake tables, with a Rust core and a Spark data source"
+2026-11-07T13:26:38Z,envref,0.1.0,Sebastian Haglund,MIT,43947,"A .env where any value can be a reference into a secret store, resolved at load time. op://, keychain://, file://, env://, and your own."
+2026-11-07T13:29:37Z,cassiopee-connector,2026.11,ONERA,LGPLv3,2803787,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-07T13:29:39Z,cassiopee-dist2walls,2026.11,ONERA,LGPLv3,1237856,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-07T13:29:43Z,cassiopee-apps,2026.11,ONERA,LGPLv3,187004,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-07T13:29:45Z,cassiopee-xcore,2026.11,ONERA,LGPLv3,2917917,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-07T13:30:27Z,modeldiet,0.1.0,,,53149,Profile inference performance and resource usage of trained models
+2026-11-07T13:31:58Z,nnserve,0.0.1,Jiau Zhang <jiauzhang@163.com>,,72231,Inference serving for neural network models
+2026-11-07T13:33:15Z,sigmoid-ferry,0.1.0,Usmon N,Apache-2.0,77961,"Run your Hunch experiments on a GPU machine over SSH, and bring every run home."
+2026-11-07T13:37:51Z,astra-airway,0.3.0,,,28204,Standalone 3D airway segmentation using ASTRA-Net and reference models
+2026-11-07T13:38:34Z,promptwall-agent,0.3.0,Abhigyan Varma,MIT,3860389,"Prompt-injection firewall for browsing agents: finds hidden instructions in web pages, redacts them, and logs attempts"
+2026-11-07T13:39:03Z,nntrain,0.0.1,Jiau Zhang <jiauzhang@163.com>,,25983,Training runtime for nnm models
+2026-11-07T13:42:33Z,local-ai-cli,0.0.1,Local AI CLI contributors,MIT,7380,A one-screen Local AI CLI beta for testing pip installation.
+2026-11-07T13:42:54Z,ai-research-toolkit,1.1.1,Mrkomiljon,MIT,115944,"Local-first, skill-based research workflow toolkit for Claude Code and OpenAI Codex (10 Agent Skills + deterministic Python engine)."
+2026-11-07T13:42:57Z,anker-prime-driver,0.7.3,didim99,MIT,267042,Monitoring and control library for Anker Prime chargers
+2026-11-07T13:44:45Z,pars-turkce-dil,1.0.1,PARS Topluluğu,MIT,223591,PARS — Türkçe Programlama Dili. Pars gibi hızlı. Türkçe gibi güzel.
+2026-11-07T13:44:47Z,dynaconf-sops,0.1.0,Leif Jakob <leif.jakob@gmail.com>,BSD-3-Clause,70311,Lazy @sops token for Dynaconf: reference values in SOPS-encrypted files directly from your settings.
+2026-11-07T13:46:07Z,amend-va,0.1.0,manasdhir976,Apache-2.0,34083,AMEND and AMEND@0: an LLM-judge minimum-edit metric for dictation tools
+2026-11-07T13:46:56Z,lupaxa-protect,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",37691,Keep a sidecar copy of a file so you can edit locally and restore it before committing.
+2026-11-07T13:47:25Z,reposentry,0.1.0,RepoSentry contributors,MIT,21986,Evidence-first CLI for repository and dependency safety review
+2026-11-07T13:47:58Z,kfm-cli,0.1.1,,,6876721,"kfm: the Kung Fu Monkeys bot ladder from the command line (log in, build, test, submit, replays)"
+2026-11-07T13:49:20Z,bcsfekorea,3.6.0.post1,fieryhenry,GPL-3.0-or-later,615411,냥코 대전쟁 세이브 에디터 (BCSFE) 비공식 한국어판 - Unofficial Korean edition of BCSFE
+2026-11-07T13:52:03Z,vulpes-ems,0.1.0,,MIT OR Apache-2.0,7310836,Home energy management core: solar/load/price forecasting and ESS mode optimization
+2026-11-07T13:53:22Z,flocta-wire,0.0.0,Flocta GmbH,LicenseRef-Proprietary,1783,"Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality."
+2026-11-07T13:54:18Z,karma365,0.2.0,,MIT,52259,Add to your KARMA 365 library from Python. Your data stays on your phone.
+2026-11-07T13:54:55Z,kaos-cleaner,0.1.2,Rainer Rodrigues,MIT,233570744,"High-throughput CSV cleaner powered by a pre-compiled Julia engine, returning Arrow/Polars data"
+2026-11-07T13:55:02Z,llama-index-tools-suno-acedatacloud,0.1.0,Ace Data Cloud <dev@acedata.cloud>,MIT,23136,Suno by Ace Data Cloud: native LlamaIndex music generation and task retrieval tools
+2026-11-07T13:56:08Z,llama-index-tools-seedance-acedatacloud,0.1.0,Ace Data Cloud <dev@acedata.cloud>,MIT,25031,Seedance by Ace Data Cloud: native LlamaIndex video generation and task retrieval tools
+2026-11-07T13:56:15Z,protocentral-easyecg,0.2.0,Protocentral Electronics <info@protocentral.com>,MIT,32001,MicroPython + Raspberry Pi driver for the Protocentral easyECG single-lead ECG breakout (TLA2024-based)
+2026-11-07T13:56:38Z,protocentral-easyemg,0.2.0,Protocentral Electronics <info@protocentral.com>,MIT,40319,MicroPython + Raspberry Pi driver for the Protocentral easyEMG surface EMG breakout (TLA2024-based)
+2026-11-07T13:56:41Z,dirconn,0.1.0,Hanwei Liu <Liu_H@ukw.de>,BSD-3-Clause,4766148,Directed functional connectivity for neurophysiology signals at sensor and region level.
+2026-11-07T13:57:18Z,nezaret,0.1.0,Aslan Satary Dizaji,Apache-2.0,113621,"Find MONAI pipeline faults that do not raise errors: misaligned labels, interpolated class maps, evaluation that peeks at the ground truth."
+2026-11-07T13:57:37Z,lmspell,1.0.0,LMSpell authors,CC-BY-4.0,96258,"Spell correction with pre-trained language models (encoder, decoder and encoder-decoder)."
+2026-11-07T13:58:58Z,doorcheck,0.1.0a1,nimbleengineer21,Apache-2.0,474107,See what a Home Assistant integration can do before you let it in.
+2026-11-07T14:00:04Z,arc56-generated-samya-8dfc9b4b,1.1.2026110713,SamyaDeb,,33099,Generated ARC-56 Algorand smart-contract clients for SamyaDeb/ChainPeBinary.
+2026-11-07T14:00:04Z,notmuch-browser,0.2.0rc1,Guilhem Lavaux,MIT,147889,A small local web UI to browse and tag a notmuch mail database
+2026-11-07T14:04:36Z,pyissues,0.0.1a0,"""High Dimensional Neurology Group, UCL"" <pypi@highdimensional.net>",BSD-3-Clause,3962,"A simple base class for defining issues (errors, warnings, infos) and their location."
+2026-11-07T14:08:30Z,facturx-api,0.1.0,,MIT,37982,"Python client for the FacturX API: dry run, Factur-X PDF/A-3 conversion, validation."
+2026-11-07T14:09:29Z,facturx-mcp,0.1.0,,MIT,17920,"Official MCP server for the FacturX API: dry run, Factur-X conversion, validation, rule lookup."
+2026-11-07T14:10:56Z,sebpay,0.2.0,Sebpay,MIT,20313,"Official Python SDK for Sebpay hosted checkout — create a checkout session, redirect your customer, confirm the payment and verify webhooks."
+2026-11-07T14:11:40Z,elinaobs,0.1.0,ElinaObs Contributors,MIT,30993,Framework-agnostic Python LLM tracing using OpenTelemetry
+2026-11-07T14:15:57Z,pypinyin-g2pS,0.1.0,,,2736,pypinyin adapter for g2pS (numpy/onnx/torch backends)
+2026-11-07T14:16:10Z,g2ps,0.1.0,,,2096390,"Mandarin polyphone disambiguation, numpy-only inference"
+2026-11-07T14:16:22Z,g2ps-onnx,0.1.0,,,5074180,g2pS ONNX backend (GPU-capable)
+2026-11-07T14:17:07Z,g2ps-torch,0.1.0,,,4086885,g2pS PyTorch backend (GPU + fp16)

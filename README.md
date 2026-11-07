@@ -8,41 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 13:20 UTC
+## Latest list — 2026-11-07 14:19 UTC
 
-New packages created between 2026-11-07 12:18 UTC and 2026-11-07 13:20 UTC.
+New packages created between 2026-11-07 13:20 UTC and 2026-11-07 14:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T13-20-50-451686Z.csv)
+[Full CSV](data/new-packages-2026-11-07T14-19-02-419631Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 11:33:39 | [zipfixx](https://pypi.org/project/zipfixx/) | 0.1.0 | SouzaF19 | 13.2 kB | CLI para corrigir e extrair arquivos ZIP com nomes Unicode no Windows. |
-| 2026-11-07 12:19:45 | [ichikas-auto-assistant](https://pypi.org/project/ichikas-auto-assistant/) | 26.10.1 | XcantloadX | 9.9 MB | Ichika's Auto Assistant is a helper script |
-| 2026-11-07 12:22:41 | [dasdae](https://pypi.org/project/dasdae/) | 0.1.0 | Eileen Martin <eileenrmartin@… | 40.3 kB | A metapackage for the Distributed Acoustic Sensing Data Analysis Eco System |
-| 2026-11-07 12:24:41 | [sdflow](https://pypi.org/project/sdflow/) | 0.0.1 | rebase.energy | 8.9 kB | Open-source framework for sequential decision problems: simulators, predictors,… |
-| 2026-11-07 12:25:06 | [pikeagent](https://pypi.org/project/pikeagent/) | 0.0.1 |  | 1.8 kB | Reserved for PikeAgent, an AI coding agent for your terminal. |
-| 2026-11-07 12:25:20 | [marearts-anpr-sdk](https://pypi.org/project/marearts-anpr-sdk/) | 4.0.0rc1 | MareArts | 79.4 MB | MareArts ANPR (Automatic Number Plate Recognition) library with multi-region su… |
-| 2026-11-07 12:29:30 | [lfx-acedatacloud-suno](https://pypi.org/project/lfx-acedatacloud-suno/) | 0.1.4 | Ace Data Cloud <dev@acedata.c… | 47.0 kB | Suno by Ace Data Cloud: generation and same-task retrieval for Langflow |
-| 2026-11-07 12:30:50 | [pysipl](https://pypi.org/project/pysipl/) | 0.1.0 |  | 35.1 kB | Parser, interpreter, trace and debug adapter for the SIPL teaching language |
-| 2026-11-07 12:31:39 | [qasida](https://pypi.org/project/qasida/) | 2.0.0 | Jayant Dubey | 881.9 kB | Qasida — a small, safe, fast language with an ML stack |
-| 2026-11-07 12:39:04 | [flask-modelkit](https://pypi.org/project/flask-modelkit/) | 1.0.0 | AnozieChibuike | 29.8 kB | Composable model mixins for Flask-SQLAlchemy: UUID keys, UTC timestamps, soft d… |
-| 2026-11-07 12:39:30 | [lfx-acedatacloud-seedance](https://pypi.org/project/lfx-acedatacloud-seedance/) | 0.1.4 | Ace Data Cloud <dev@acedata.c… | 47.5 kB | Seedance by Ace Data Cloud: generation and same-task retrieval for Langflow |
-| 2026-11-07 12:42:06 | [simrun](https://pypi.org/project/simrun/) | 0.1.0 | Matthias König <konigmatt@goo… | 1.9 MB | Runner of simulation workflows on a k3s cluster with Argo Workflows and Kueue. |
-| 2026-11-07 12:43:37 | [tubesentry](https://pypi.org/project/tubesentry/) | 0.1.0 | TubeSentry Core Team | 106.4 kB | Local-First YouTube & Performance Max Placement Waste Auditor & MCP Server |
-| 2026-11-07 12:44:44 | [scheda](https://pypi.org/project/scheda/) | 0.10.0 | scheda contributors | 698.7 kB | A personal Markdown knowledge base with a local mirror and index, built to be q… |
-| 2026-11-07 12:45:20 | [django-starter-cdc](https://pypi.org/project/django-starter-cdc/) | 0.2.0 | Chris Achinga | 28.4 kB | Generate a new Django 6.1 project from django-starter: full-stack (HTMX, Alpine… |
-| 2026-11-07 12:49:38 | [kawallm](https://pypi.org/project/kawallm/) | 0.1.1 | KawalLM contributors | 222.3 kB | Low-latency guardrail engine for Indonesian PII (UU PDP) masking and content sa… |
-| 2026-11-07 12:54:22 | [kubechain](https://pypi.org/project/kubechain/) | 0.1.0 | ehsanhajian | 45.6 kB | Decide whether a blockchain workload on Kubernetes is production ready. |
-| 2026-11-07 12:55:24 | [cred1](https://pypi.org/project/cred1/) | 2026.11.7 | Alexander Loth <home@alexloth… | 96.0 kB | Credibility ratings for 2,600+ news and website domains from the CRED-1 open da… |
-| 2026-11-07 12:55:38 | [slopatronic](https://pypi.org/project/slopatronic/) | 0.1.0 |  | 60.9 kB | Find music on YouTube (audio only), keep a library, and play it in the backgrou… |
-| 2026-11-07 12:57:27 | [ad-sentry](https://pypi.org/project/ad-sentry/) | 0.1.0 | Flo <teschner@gmail.com> | 171.5 kB | Independent black-box audit suite for Google PMax, Demand Gen & Meta Advantage+… |
-| 2026-11-07 12:57:35 | [binary-translator](https://pypi.org/project/binary-translator/) | 0.1.0 |  | 4.2 kB | Library untuk convert biner ke teks dan sebaliknya |
-| 2026-11-07 12:58:25 | [cursor-portable](https://pypi.org/project/cursor-portable/) | 1.0.5 | tboy1337 | 102.9 kB | Download Cursor and install a portable copy on a removable drive. |
-| 2026-11-07 12:58:41 | [solprop-gui](https://pypi.org/project/solprop-gui/) | 0.2.0 | Christian Brahms | 4.4 MB | A desktop front end for solprop: set up, run and read ultrafast propagation sim… |
-| 2026-11-07 13:01:13 | [runport](https://pypi.org/project/runport/) | 0.1.0 | Sudharsan Selvaraj <178299750… | 15.2 MB | Universal open-source LLM, prompt, and workflow benchmarking platform |
-| 2026-11-07 13:02:24 | [klein-bt](https://pypi.org/project/klein-bt/) | 0.8.0 | Johan Ubbink <25775970+johanu… | 499.6 kB | Lightweight CLI telemetry dashboard for BehaviorTree.CPP v4 over ZeroMQ. |
-| 2026-11-07 13:05:35 | [gpt-researcher-specstream](https://pypi.org/project/gpt-researcher-specstream/) | 0.1.0 | SpecStream <support@specstrea… | 12.0 kB | The live web data engine for GPT Researcher: Search API ($5 per 1,000 searches)… |
-| 2026-11-07 13:06:22 | [pydantic-ai-specstream](https://pypi.org/project/pydantic-ai-specstream/) | 0.1.0 | SpecStream <support@specstrea… | 10.6 kB | The live web data engine for Pydantic AI: Search API ($5 per 1,000 searches), E… |
-| 2026-11-07 13:16:17 | [percival](https://pypi.org/project/percival/) | 0.1.0 | Rijin Raju | 53.1 kB | Client hooks for the Percival Celery control panel: run events, worker versions… |
-| 2026-11-07 13:16:23 | [percival-server](https://pypi.org/project/percival-server/) | 0.1.0 | Rijin Raju | 1.6 MB | Self-hosted control panel for Celery: live schedules, run history, stale-worker… |
-| 2026-11-07 13:16:26 | [tarka-sdk](https://pypi.org/project/tarka-sdk/) | 0.4.0 | Tarka | 483.3 kB | Official Python SDK for Tarka: typed sync and async resource clients |
+| 2026-11-07 13:21:38 | [tandemetry](https://pypi.org/project/tandemetry/) | 0.0.1 | Yevhenii Korniev | 12.5 kB | Self-hosted analytics for AI coding agents versus human-authored work. |
+| 2026-11-07 13:21:47 | [testlens](https://pypi.org/project/testlens/) | 0.3.1 | yanjike | 159.4 kB | 本地测试面板：脚本清单、变更检测、运行历史、代码覆盖率，零运行时依赖 |
+| 2026-11-07 13:22:57 | [azurkit](https://pypi.org/project/azurkit/) | 1.0.0 |  | 30.8 MB | Patch packs, sliders, a randomizer and character swaps for Azurik: Rise of Pera… |
+| 2026-11-07 13:23:10 | [navya](https://pypi.org/project/navya/) | 1.0.0 | Python Developer | 2.8 kB | My own Python patterns package |
+| 2026-11-07 13:24:07 | [worldmoneywords](https://pypi.org/project/worldmoneywords/) | 2.5.1 | Md Ikram | 65.6 kB | Python amount-to-words library with multilingual currency wording and 200-count… |
+| 2026-11-07 13:25:13 | [import-linter-ls](https://pypi.org/project/import-linter-ls/) | 0.1.0 | daniprol | 15.7 kB | A language server for import-linter: see contract errors and import violations… |
+| 2026-11-07 13:25:44 | [sql2deltalake](https://pypi.org/project/sql2deltalake/) | 0.1.0rc1 | Adrian Ehrsam <adrian.ehrsam@… | 44.8 MB | Incremental loads from SQL Server and Postgres into append-only SCD2 Delta Lake… |
+| 2026-11-07 13:26:38 | [envref](https://pypi.org/project/envref/) | 0.1.0 | Sebastian Haglund | 43.9 kB | A .env where any value can be a reference into a secret store, resolved at load… |
+| 2026-11-07 13:29:37 | [cassiopee-connector](https://pypi.org/project/cassiopee-connector/) | 2026.11 | ONERA | 2.8 MB | Computational Fluid Dynamics pre- and post-processing python modules |
+| 2026-11-07 13:29:39 | [cassiopee-dist2walls](https://pypi.org/project/cassiopee-dist2walls/) | 2026.11 | ONERA | 1.2 MB | Computational Fluid Dynamics pre- and post-processing python modules |
+| 2026-11-07 13:29:43 | [cassiopee-apps](https://pypi.org/project/cassiopee-apps/) | 2026.11 | ONERA | 187.0 kB | Computational Fluid Dynamics pre- and post-processing python modules |
+| 2026-11-07 13:29:45 | [cassiopee-xcore](https://pypi.org/project/cassiopee-xcore/) | 2026.11 | ONERA | 2.9 MB | Computational Fluid Dynamics pre- and post-processing python modules |
+| 2026-11-07 13:30:27 | [modeldiet](https://pypi.org/project/modeldiet/) | 0.1.0 |  | 53.1 kB | Profile inference performance and resource usage of trained models |
+| 2026-11-07 13:31:58 | [nnserve](https://pypi.org/project/nnserve/) | 0.0.1 | Jiau Zhang <jiauzhang@163.com> | 72.2 kB | Inference serving for neural network models |
+| 2026-11-07 13:33:15 | [sigmoid-ferry](https://pypi.org/project/sigmoid-ferry/) | 0.1.0 | Usmon N | 78.0 kB | Run your Hunch experiments on a GPU machine over SSH, and bring every run home. |
+| 2026-11-07 13:37:51 | [astra-airway](https://pypi.org/project/astra-airway/) | 0.3.0 |  | 28.2 kB | Standalone 3D airway segmentation using ASTRA-Net and reference models |
+| 2026-11-07 13:38:34 | [promptwall-agent](https://pypi.org/project/promptwall-agent/) | 0.3.0 | Abhigyan Varma | 3.9 MB | Prompt-injection firewall for browsing agents: finds hidden instructions in web… |
+| 2026-11-07 13:39:03 | [nntrain](https://pypi.org/project/nntrain/) | 0.0.1 | Jiau Zhang <jiauzhang@163.com> | 26.0 kB | Training runtime for nnm models |
+| 2026-11-07 13:42:33 | [local-ai-cli](https://pypi.org/project/local-ai-cli/) | 0.0.1 | Local AI CLI contributors | 7.4 kB | A one-screen Local AI CLI beta for testing pip installation. |
+| 2026-11-07 13:42:54 | [ai-research-toolkit](https://pypi.org/project/ai-research-toolkit/) | 1.1.1 | Mrkomiljon | 115.9 kB | Local-first, skill-based research workflow toolkit for Claude Code and OpenAI C… |
+| 2026-11-07 13:42:57 | [anker-prime-driver](https://pypi.org/project/anker-prime-driver/) | 0.7.3 | didim99 | 267.0 kB | Monitoring and control library for Anker Prime chargers |
+| 2026-11-07 13:44:45 | [pars-turkce-dil](https://pypi.org/project/pars-turkce-dil/) | 1.0.1 | PARS Topluluğu | 223.6 kB | PARS — Türkçe Programlama Dili. Pars gibi hızlı. Türkçe gibi güzel. |
+| 2026-11-07 13:44:47 | [dynaconf-sops](https://pypi.org/project/dynaconf-sops/) | 0.1.0 | Leif Jakob <leif.jakob@gmail.… | 70.3 kB | Lazy @sops token for Dynaconf: reference values in SOPS-encrypted files directl… |
+| 2026-11-07 13:46:07 | [amend-va](https://pypi.org/project/amend-va/) | 0.1.0 | manasdhir976 | 34.1 kB | AMEND and AMEND@0: an LLM-judge minimum-edit metric for dictation tools |
+| 2026-11-07 13:46:56 | [lupaxa-protect](https://pypi.org/project/lupaxa-protect/) | 0.1.0 | The Lupaxa Project | 37.7 kB | Keep a sidecar copy of a file so you can edit locally and restore it before com… |
+| 2026-11-07 13:47:25 | [reposentry](https://pypi.org/project/reposentry/) | 0.1.0 | RepoSentry contributors | 22.0 kB | Evidence-first CLI for repository and dependency safety review |
+| 2026-11-07 13:47:58 | [kfm-cli](https://pypi.org/project/kfm-cli/) | 0.1.1 |  | 6.9 MB | kfm: the Kung Fu Monkeys bot ladder from the command line (log in, build, test,… |
+| 2026-11-07 13:49:20 | [bcsfekorea](https://pypi.org/project/bcsfekorea/) | 3.6.0.post1 | fieryhenry | 615.4 kB | 냥코 대전쟁 세이브 에디터 (BCSFE) 비공식 한국어판 - Unofficial Korean edition of BCSFE |
+| 2026-11-07 13:52:03 | [vulpes-ems](https://pypi.org/project/vulpes-ems/) | 0.1.0 |  | 7.3 MB | Home energy management core: solar/load/price forecasting and ESS mode optimiza… |
+| 2026-11-07 13:53:22 | [flocta-wire](https://pypi.org/project/flocta-wire/) | 0.0.0 | Flocta GmbH | 1.8 kB | Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality. |
+| 2026-11-07 13:54:18 | [karma365](https://pypi.org/project/karma365/) | 0.2.0 |  | 52.3 kB | Add to your KARMA 365 library from Python. Your data stays on your phone. |
+| 2026-11-07 13:54:55 | [kaos-cleaner](https://pypi.org/project/kaos-cleaner/) | 0.1.2 | Rainer Rodrigues | 233.6 MB | High-throughput CSV cleaner powered by a pre-compiled Julia engine, returning A… |
+| 2026-11-07 13:55:02 | [llama-index-tools-suno-acedatacloud](https://pypi.org/project/llama-index-tools-suno-acedatacloud/) | 0.1.0 | Ace Data Cloud <dev@acedata.c… | 23.1 kB | Suno by Ace Data Cloud: native LlamaIndex music generation and task retrieval t… |
+| 2026-11-07 13:56:08 | [llama-index-tools-seedance-acedatacloud](https://pypi.org/project/llama-index-tools-seedance-acedatacloud/) | 0.1.0 | Ace Data Cloud <dev@acedata.c… | 25.0 kB | Seedance by Ace Data Cloud: native LlamaIndex video generation and task retriev… |
+| 2026-11-07 13:56:15 | [protocentral-easyecg](https://pypi.org/project/protocentral-easyecg/) | 0.2.0 | Protocentral Electronics <inf… | 32.0 kB | MicroPython + Raspberry Pi driver for the Protocentral easyECG single-lead ECG… |
+| 2026-11-07 13:56:38 | [protocentral-easyemg](https://pypi.org/project/protocentral-easyemg/) | 0.2.0 | Protocentral Electronics <inf… | 40.3 kB | MicroPython + Raspberry Pi driver for the Protocentral easyEMG surface EMG brea… |
+| 2026-11-07 13:56:41 | [dirconn](https://pypi.org/project/dirconn/) | 0.1.0 | Hanwei Liu <Liu_H@ukw.de> | 4.8 MB | Directed functional connectivity for neurophysiology signals at sensor and regi… |
+| 2026-11-07 13:57:18 | [nezaret](https://pypi.org/project/nezaret/) | 0.1.0 | Aslan Satary Dizaji | 113.6 kB | Find MONAI pipeline faults that do not raise errors: misaligned labels, interpo… |
+| 2026-11-07 13:57:37 | [lmspell](https://pypi.org/project/lmspell/) | 1.0.0 | LMSpell authors | 96.3 kB | Spell correction with pre-trained language models (encoder, decoder and encoder… |
+| 2026-11-07 13:58:58 | [doorcheck](https://pypi.org/project/doorcheck/) | 0.1.0a1 | nimbleengineer21 | 474.1 kB | See what a Home Assistant integration can do before you let it in. |
+| 2026-11-07 14:00:04 | [arc56-generated-samya-8dfc9b4b](https://pypi.org/project/arc56-generated-samya-8dfc9b4b/) | 1.1.2026110713 | SamyaDeb | 33.1 kB | Generated ARC-56 Algorand smart-contract clients for SamyaDeb/ChainPeBinary. |
+| 2026-11-07 14:00:04 | [notmuch-browser](https://pypi.org/project/notmuch-browser/) | 0.2.0rc1 | Guilhem Lavaux | 147.9 kB | A small local web UI to browse and tag a notmuch mail database |
+| 2026-11-07 14:04:36 | [pyissues](https://pypi.org/project/pyissues/) | 0.0.1a0 | "High Dimensional Neurology G… | 4.0 kB | A simple base class for defining issues (errors, warnings, infos) and their loc… |
+| 2026-11-07 14:08:30 | [facturx-api](https://pypi.org/project/facturx-api/) | 0.1.0 |  | 38.0 kB | Python client for the FacturX API: dry run, Factur-X PDF/A-3 conversion, valida… |
+| 2026-11-07 14:09:29 | [facturx-mcp](https://pypi.org/project/facturx-mcp/) | 0.1.0 |  | 17.9 kB | Official MCP server for the FacturX API: dry run, Factur-X conversion, validati… |
+| 2026-11-07 14:10:56 | [sebpay](https://pypi.org/project/sebpay/) | 0.2.0 | Sebpay | 20.3 kB | Official Python SDK for Sebpay hosted checkout — create a checkout session, red… |
+| 2026-11-07 14:11:40 | [elinaobs](https://pypi.org/project/elinaobs/) | 0.1.0 | ElinaObs Contributors | 31.0 kB | Framework-agnostic Python LLM tracing using OpenTelemetry |
+| 2026-11-07 14:15:57 | [pypinyin-g2pS](https://pypi.org/project/pypinyin-g2pS/) | 0.1.0 |  | 2.7 kB | pypinyin adapter for g2pS (numpy/onnx/torch backends) |
+| 2026-11-07 14:16:10 | [g2ps](https://pypi.org/project/g2ps/) | 0.1.0 |  | 2.1 MB | Mandarin polyphone disambiguation, numpy-only inference |
+| 2026-11-07 14:16:22 | [g2ps-onnx](https://pypi.org/project/g2ps-onnx/) | 0.1.0 |  | 5.1 MB | g2pS ONNX backend (GPU-capable) |
+| 2026-11-07 14:17:07 | [g2ps-torch](https://pypi.org/project/g2ps-torch/) | 0.1.0 |  | 4.1 MB | g2pS PyTorch backend (GPU + fp16) |
