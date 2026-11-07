@@ -8,37 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 23:19 UTC
+## Latest list — 2026-11-07 00:19 UTC
 
-New packages created between 2026-11-06 22:19 UTC and 2026-11-06 23:19 UTC.
+New packages created between 2026-11-06 23:19 UTC and 2026-11-07 00:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-06T23-19-59-878396Z.csv)
+[Full CSV](data/new-packages-2026-11-07T00-19-47-850876Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-06 22:19:35 | [ironshell](https://pypi.org/project/ironshell/) | 1.5.1 | nervosys <contact@nervosys.ai> | 93.6 kB | IronShell - AI-powered typed shell with workflow orchestration and cloud deploy… |
-| 2026-11-06 22:25:40 | [tonable](https://pypi.org/project/tonable/) | 0.5.2 | Ilya Amursky | 226.0 kB | MCP server for Ableton Live 12: presets, devices, clips, envelopes and scenes |
-| 2026-11-06 22:27:00 | [external-sandbox-quicksand](https://pypi.org/project/external-sandbox-quicksand/) | 0.1.0 | Simon Willison | 4.1 MB | External Sandbox server backed by Quicksand QEMU virtual machines |
-| 2026-11-06 22:27:19 | [vtech-link](https://pypi.org/project/vtech-link/) | 0.3.0 |  | 4.0 MB | LAN-direct transport for the VTech RM5754HD baby monitor, for the vtech_baby Ho… |
-| 2026-11-06 22:28:03 | [cement-mysql-mcp](https://pypi.org/project/cement-mysql-mcp/) | 0.0.1 | BlackBerry | 3.4 kB | Reserved name. This is not the real package; it is distributed on an internal i… |
-| 2026-11-06 22:28:53 | [logify360](https://pypi.org/project/logify360/) | 1.0.0 | Logify360 <connect@logify360.… | 187.7 kB | Logify360 SDK for Python. Agent tracing, LLM usage capture, and cost observabil… |
-| 2026-11-06 22:29:07 | [provance](https://pypi.org/project/provance/) | 0.1.0 | Hakim Id Brahim | 91.7 kB | Tamper-evident audit trail: hash chained, signed ledger in your own database, w… |
-| 2026-11-06 22:34:11 | [fluxscale](https://pypi.org/project/fluxscale/) | 0.6.0 | Pedro Henrique Coimbra <pedro… | 204.5 kB | Wavelet-based Eddy Covariance |
-| 2026-11-06 22:34:12 | [fluxsound](https://pypi.org/project/fluxsound/) | 0.1.0 |  | 15.4 kB | Hear eddy-covariance data: the sound tools of fluxscale, and web apps built on… |
-| 2026-11-06 22:34:59 | [mittens-dmri](https://pypi.org/project/mittens-dmri/) | 2.0.0a1 | Matt Cieslak <mattcieslak@gma… | 2.1 MB | Analytic voxel-to-voxel transition probabilities from (asymmetric) ODFs, and vo… |
-| 2026-11-06 22:35:00 | [taucmdr](https://pypi.org/project/taucmdr/) | 1.7.0 | "ParaTools, Inc." <info@parat… | 1.6 MB | An intuitive interface for the TAU Performance System |
-| 2026-11-06 22:39:24 | [libsql-py](https://pypi.org/project/libsql-py/) | 1.0.0 |  | 299.7 MB | Python bindings for libSQL (Turso): a sqlite3-compatible DB-API driver for loca… |
-| 2026-11-06 22:42:30 | [hf-jobs-launch](https://pypi.org/project/hf-jobs-launch/) | 0.2.0 | Byamasu Patrick Paul <4313646… | 28.6 kB | Run any training script on Hugging Face Jobs by adding --hf-job to its command… |
-| 2026-11-06 22:42:56 | [fpga-design-implview](https://pypi.org/project/fpga-design-implview/) | 0.1.0 | Rocco Ardino <roccoardino@gma… | 102.9 kB | Pictures and an interactive viewer of Vivado implemented designs: device resour… |
-| 2026-11-06 22:51:46 | [dcgm-exporter-lite](https://pypi.org/project/dcgm-exporter-lite/) | 1.0.0 | Corey Cole <3700879+corey-col… | 68.9 kB | Unprivileged Prometheus exporter for NVIDIA GPU metrics with DCGM Exporter 4.9.… |
-| 2026-11-06 22:56:36 | [dirtsmith-evidence-quote-check](https://pypi.org/project/dirtsmith-evidence-quote-check/) | 0.1.0 | Dirtsmith | 27.4 kB | Bind agent citations to admitted source text with spans and optional stale-hash… |
-| 2026-11-06 22:58:00 | [agemetry](https://pypi.org/project/agemetry/) | 0.0.1 | Josh Reid | 249.0 kB | A ticker plant for coding agents: local-first, append-only telemetry store for… |
-| 2026-11-06 23:01:41 | [supercollider-mcp](https://pypi.org/project/supercollider-mcp/) | 0.2.0 |  | 86.8 kB | MCP server that lets AI assistants make sound with SuperCollider over OSC |
-| 2026-11-06 23:01:46 | [api-docs-kit](https://pypi.org/project/api-docs-kit/) | 0.0.0 |  | 2.7 kB | Name placeholder: this release is yanked and is not meant to be installed. |
-| 2026-11-06 23:02:52 | [hlix-sdk](https://pypi.org/project/hlix-sdk/) | 0.1.0 | Hlix <support@hlix.ai> | 3.4 MB | hlix API |
-| 2026-11-06 23:10:11 | [amagi-clipper](https://pypi.org/project/amagi-clipper/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 46.6 kB | Turn a long podcast, webinar or stream VOD into vertical 9:16 clips with burned… |
-| 2026-11-06 23:13:21 | [compgen](https://pypi.org/project/compgen/) | 0.1.0 | Mark Messner, Tianchen Hu, Fa… | 103.8 kB | Python toolkit for generating simulation data for two phase composite materials. |
-| 2026-11-06 23:14:53 | [arkai](https://pypi.org/project/arkai/) | 0.8.0 | arkai contributors | 252.3 kB | Local AI inference workflow management |
-| 2026-11-06 23:16:16 | [dex-connector-atlassian-jira-service-management](https://pypi.org/project/dex-connector-atlassian-jira-service-management/) | 0.1.0 |  | 148.5 kB | Dex-native Jira Service Management connector |
-| 2026-11-06 23:17:11 | [ghosalquant](https://pypi.org/project/ghosalquant/) | 0.1.0 | Ghosal Quants | 388.3 kB | Event-driven quantitative trading research framework |
-| 2026-11-06 23:17:22 | [elec-tariffs](https://pypi.org/project/elec-tariffs/) | 0.1.0 | damou8 | 50.1 kB | Cost French electricity consumption hour by hour under Base, HP/HC and Tempo co… |
+| 2026-11-06 23:24:20 | [agent-framework-dxmt](https://pypi.org/project/agent-framework-dxmt/) | 1.6.0 | DXMT Team <contact@dxmt.onlin… | 44.9 kB | DXMT vector store and memory context provider for Microsoft Agent Framework |
+| 2026-11-06 23:26:11 | [tracetrim](https://pypi.org/project/tracetrim/) | 0.3.5 | Alessio Pomaro | 130.4 kB | Learn which fields of tool outputs an agent visibly reuses, from its traces, an… |
+| 2026-11-06 23:27:30 | [prisma-oed](https://pypi.org/project/prisma-oed/) | 0.0.3 | "Dante Basile, Xavier Tricoch… | 63.1 kB | PRISMA (Physics-informed Regression and Inference for Statistics-driven Measure… |
+| 2026-11-06 23:31:39 | [sdos](https://pypi.org/project/sdos/) | 0.1.0 | "David A. Drabold" <drabold@o… | 165.5 kB | Order-N spectral density of states (KPM, Maxent, shift-invert) for large sparse… |
+| 2026-11-06 23:32:51 | [bookspine](https://pypi.org/project/bookspine/) | 0.1.0 | Alkaid Cheng <alkaidc@stanfor… | 1.5 MB | Build a textbook-style static site from Markdown chapters. |
+| 2026-11-06 23:33:56 | [beancount-upbank](https://pypi.org/project/beancount-upbank/) | 0.1.0 | John Mee | 82.8 kB | Import Up Bank (Australia) transactions into Beancount, and tidy up pending one… |
+| 2026-11-06 23:37:29 | [scaneval](https://pypi.org/project/scaneval/) | 2.0.0a1 | ScanEval contributors | 3.6 MB | Alpha framework for reproducible security-scanner evaluation and observability. |
+| 2026-11-06 23:38:06 | [chonydozon-cainiao](https://pypi.org/project/chonydozon-cainiao/) | 0.1.1 | zhongshuizhou <zhongshuizhou@… | 9.2 kB | chonydozon 菜鸟业务 Python 包 |
+| 2026-11-06 23:39:47 | [gameaikit](https://pypi.org/project/gameaikit/) | 0.1.0 |  | 102.1 kB | Game AI techniques in plain Python: search, planning, fuzzy control, steering,… |
+| 2026-11-06 23:40:08 | [chonydozon-taobao](https://pypi.org/project/chonydozon-taobao/) | 0.1.1 | zhongshuizhou <zhongshuizhou@… | 9.2 kB | chonydozon 淘宝业务 Python 包 |
+| 2026-11-06 23:40:21 | [chonydozon-douyin](https://pypi.org/project/chonydozon-douyin/) | 0.1.1 | zhongshuizhou <zhongshuizhou@… | 9.2 kB | chonydozon 抖音业务 Python 包 |
+| 2026-11-06 23:41:19 | [triangulum](https://pypi.org/project/triangulum/) | 0.40.2 | CodeZero | 207.6 MB | Triangulum is the CodeZero validation layer |
+| 2026-11-06 23:41:32 | [chonydozon-xiaohongshu](https://pypi.org/project/chonydozon-xiaohongshu/) | 0.1.0 | zhongshuizhou <zhongshuizhou@… | 8.4 kB | chonydozon 小红书业务 Python 包 |
+| 2026-11-06 23:42:11 | [beatfit](https://pypi.org/project/beatfit/) | 0.2.0 | Eddie Zhou | 58.4 kB | Retime video clips so chosen moments land on the beats of a song. |
+| 2026-11-06 23:46:59 | [definition-of-done](https://pypi.org/project/definition-of-done/) | 0.0.1.dev0 |  | 1.4 kB | Placeholder release reserving the name for Definition of Done - an open-source,… |
+| 2026-11-06 23:51:38 | [outnoise](https://pypi.org/project/outnoise/) | 1.0.0 |  | 33.4 kB | Official Python SDK for the Outnoise Developer |
+| 2026-11-06 23:52:26 | [lean-vouch](https://pypi.org/project/lean-vouch/) | 0.1.0 | Jonathan Jeffrey | 180.7 kB | Track and vouch for your understanding of Lean definitions and theorem statemen… |
+| 2026-11-06 23:54:08 | [irradiance](https://pypi.org/project/irradiance/) | 0.0.2 |  | 1.3 MB | Crash-proof, GIL-free camera RAW (DNG) decoding for NumPy and PyTorch data load… |
+| 2026-11-07 00:00:31 | [nf12](https://pypi.org/project/nf12/) | 1.0.0 |  | 69.2 MB | Lossless 12-bit encoding of BF16 weights with fused CUDA decode-GEMM kernels |
+| 2026-11-07 00:04:49 | [hodlvn](https://pypi.org/project/hodlvn/) | 0.1.0 |  | 44.9 kB | HODL Lab — chỉ báo, chiến lược, backtest danh mục cổ phiếu Việt Nam trên dữ liệ… |
+| 2026-11-07 00:07:46 | [cscs-constraint-engine](https://pypi.org/project/cscs-constraint-engine/) | 2026.10.2 | "Lazaro M. Echenique-Diaz, Ph… | 55.8 kB | CSCS Constraint Physics Engine: Zero-GPU Spectral Manifold & Contractive Teleme… |
+| 2026-11-07 00:10:12 | [sensopy](https://pypi.org/project/sensopy/) | 0.0.1 | Edgar Ramírez-Mondragón <edga… | 41.5 kB | Python library for the design and analysis of sensory discrimination tests. |
+| 2026-11-07 00:15:59 | [sixamp](https://pypi.org/project/sixamp/) | 1.0.0 |  | 64.6 kB | A 1990s-style MP3 player for the terminal, drawn in Sixel graphics, with spectr… |

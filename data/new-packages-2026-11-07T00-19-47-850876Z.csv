@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-06T23:24:20Z,agent-framework-dxmt,1.6.0,DXMT Team <contact@dxmt.online>,Apache-2.0,44915,DXMT vector store and memory context provider for Microsoft Agent Framework
+2026-11-06T23:26:11Z,tracetrim,0.3.5,Alessio Pomaro,MIT,130378,"Learn which fields of tool outputs an agent visibly reuses, from its traces, and trim the rest."
+2026-11-06T23:27:30Z,prisma-oed,0.0.3,"""Dante Basile, Xavier Tricoche, Andy Mounce, Sam Lilak, Devika Mehta, Leo Diaz, Luca Basso, and Ezr…",BSD-3-Clause,63111,PRISMA (Physics-informed Regression and Inference for Statistics-driven Measurement Acquisition) is a Bayesian online nonlinear regression algorithm for active learning and SOED in spectroscopy exper…
+2026-11-06T23:31:39Z,sdos,0.1.0,"""David A. Drabold"" <drabold@ohio.edu>",BSD-3-Clause,165501,"Order-N spectral density of states (KPM, Maxent, shift-invert) for large sparse Hermitian problems"
+2026-11-06T23:32:51Z,bookspine,0.1.0,Alkaid Cheng <alkaidc@stanford.edu>,MIT AND BSD-3-Clause,1536928,Build a textbook-style static site from Markdown chapters.
+2026-11-06T23:33:56Z,beancount-upbank,0.1.0,John Mee,MIT,82797,"Import Up Bank (Australia) transactions into Beancount, and tidy up pending ones once they settle."
+2026-11-06T23:37:29Z,scaneval,2.0.0a1,ScanEval contributors,MIT,3593404,Alpha framework for reproducible security-scanner evaluation and observability.
+2026-11-06T23:38:06Z,chonydozon-cainiao,0.1.1,zhongshuizhou <zhongshuizhou@qq.com>,MIT,9192,chonydozon 菜鸟业务 Python 包
+2026-11-06T23:39:47Z,gameaikit,0.1.0,,Apache-2.0,102095,"Game AI techniques in plain Python: search, planning, fuzzy control, steering, utility, perception, and their tests' answers."
+2026-11-06T23:40:08Z,chonydozon-taobao,0.1.1,zhongshuizhou <zhongshuizhou@qq.com>,MIT,9222,chonydozon 淘宝业务 Python 包
+2026-11-06T23:40:21Z,chonydozon-douyin,0.1.1,zhongshuizhou <zhongshuizhou@qq.com>,MIT,9221,chonydozon 抖音业务 Python 包
+2026-11-06T23:41:19Z,triangulum,0.40.2,CodeZero,MIT,207594942,Triangulum is the CodeZero validation layer
+2026-11-06T23:41:32Z,chonydozon-xiaohongshu,0.1.0,zhongshuizhou <zhongshuizhou@qq.com>,MIT,8444,chonydozon 小红书业务 Python 包
+2026-11-06T23:42:11Z,beatfit,0.2.0,Eddie Zhou,MIT,58390,Retime video clips so chosen moments land on the beats of a song.
+2026-11-06T23:46:59Z,definition-of-done,0.0.1.dev0,,Apache-2.0,1371,"Placeholder release reserving the name for Definition of Done - an open-source, vendor/model/harness-agnostic SDLC agent workforce. Real releases: https://github.com/pappes/definition-of-done"
+2026-11-06T23:51:38Z,outnoise,1.0.0,,,33417,Official Python SDK for the Outnoise Developer
+2026-11-06T23:52:26Z,lean-vouch,0.1.0,Jonathan Jeffrey,Apache-2.0,180666,Track and vouch for your understanding of Lean definitions and theorem statements
+2026-11-06T23:54:08Z,irradiance,0.0.2,,MIT OR Apache-2.0,1338619,"Crash-proof, GIL-free camera RAW (DNG) decoding for NumPy and PyTorch data loaders"
+2026-11-07T00:00:31Z,nf12,1.0.0,,Apache-2.0,69192062,Lossless 12-bit encoding of BF16 weights with fused CUDA decode-GEMM kernels
+2026-11-07T00:04:49Z,hodlvn,0.1.0,,Proprietary,44865,"HODL Lab — chỉ báo, chiến lược, backtest danh mục cổ phiếu Việt Nam trên dữ liệu HODL (cần API key hạng Loyalty)"
+2026-11-07T00:07:46Z,cscs-constraint-engine,2026.10.2,"""Lazaro M. Echenique-Diaz, Ph.D."" <lazincip@gmail.com>",Apache-2.0,55837,CSCS Constraint Physics Engine: Zero-GPU Spectral Manifold & Contractive Telemetry Middleware for Small Language Models (SLMs)
+2026-11-07T00:10:12Z,sensopy,0.0.1,Edgar Ramírez-Mondragón <edgarrm358@gmail.com>,MIT,41499,Python library for the design and analysis of sensory discrimination tests.
+2026-11-07T00:15:59Z,sixamp,1.0.0,,MIT,64619,"A 1990s-style MP3 player for the terminal, drawn in Sixel graphics, with spectrum analyser, equalizer and playlist"
