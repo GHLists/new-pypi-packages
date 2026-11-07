@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 38,
-    "from": "2026-11-07T21:19:34.411861Z",
-    "path": "data/new-packages-2026-11-07T22-21-02-635096Z.csv",
-    "to": "2026-11-07T22:21:02.635096Z"
+    "count": 25,
+    "from": "2026-11-07T22:21:02.635096Z",
+    "path": "data/new-packages-2026-11-07T23-18-38-070959Z.csv",
+    "to": "2026-11-07T23:18:38.070959Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-07T21:38:46Z",
       "package": "litellm-proxy",
       "since": "2026-11-07T21:19:34.411861Z",
       "version": null
     }
   ],
-  "serial": 43345919,
+  "serial": 43347365,
   "source_truncated": false,
-  "window": "2026-11-07T22:21:02.635096Z"
+  "window": "2026-11-07T23:18:38.070959Z"
 }

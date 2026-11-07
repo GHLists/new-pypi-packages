@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T22:21:17Z,showrun-cli,0.1.0,Anand Rao <anand@clue2solve.com>,MIT,72306,"Scripted, keypress-driven terminal demos: record once, present with Enter, replay offline."
+2026-11-07T22:23:41Z,apical,0.3.0,Apical Labs Ltd <research@apical-labs.com>,Apache-2.0,38462,Apical Labs — Zero-Retention Continual Memory & Embedding Router
+2026-11-07T22:26:35Z,forelint,0.1.0,David Mashiah,MIT,28154,"Lint your forecast backtests: leakage between related series, the run-to-run noise floor, model comparison tests, and per-item bias before you trust a score."
+2026-11-07T22:29:21Z,alvaindes,0.1.0,Alvaindes,MIT,86193,Official Python SDK for the Alvaindes brokerage infrastructure API
+2026-11-07T22:30:28Z,haybale-spandrel,0.0.1,maybites,MIT,89657,Upscale and restore images with PyTorch models (spandrel)
+2026-11-07T22:31:24Z,pwnstop,0.1.2,,MIT,62920,Your AI coding agent can't run an attacker's command or ship the hole they're looking for.
+2026-11-07T22:40:32Z,neural-risk,0.2.0,Lucas Alvarez <lucasalvarez21k@gmail.com>,MIT,185614,"Crypto quant toolkit: Binance Futures derivatives data loader, causal flow/positioning features and a multi-expert risk engine."
+2026-11-07T22:42:09Z,gmeta,0.1.0,indexofire <indexofire@gmail.com>,MIT,145206,Metagenomic (mNGS) profiling and surveillance reporting — kraken2/bracken/sylph analysis to China CDC pathogen-network reports
+2026-11-07T22:43:06Z,axiomation,0.1.0,Victor Hobe-Gelting,Apache-2.0,5862706,Build the argument graph of a paper and keep it current.
+2026-11-07T22:50:27Z,funkycache,1.0.0,Alex Chan <alex@alexwlchan.net>,MIT,30104,A SQLite-backed function cache that tracks file dependencies
+2026-11-07T22:51:00Z,swanada,1.0.0,Hemanth HM <hemanth@h3manth.com>,MIT,254685,"Swanada (स्वनद): In-browser, Node.js, and Python 16 kHz Multilingual Speech-to-Text for Classical Sanskrit, Indian English & 10 Indic languages via ONNX/WASM."
+2026-11-07T22:52:57Z,aamio-domain-keys,0.1.0,AI SENSE AS,MIT,45190,"Domain Keys for aamio: check a partner's key, or the key behind a message your runtime verified, against the list a website publishes at /.well-known/aamio-keys.json. Adds aamio addon domain and the…"
+2026-11-07T22:53:02Z,hydo-assert,0.2.0,,Apache-2.0,65450,"Assertion SDK for programs tested under hydo, a deterministic hypervisor (always/sometimes properties, BUGGIFY fault points, bounded liveness, operation histories)"
+2026-11-07T22:56:54Z,makeless,0.1.1,Avinash,"MIT License Copyright (c) 2026 Avinash Manikonda Permission is hereby granted, free of charge, to a…",30698,A local-first computer operator for Windows.
+2026-11-07T22:58:33Z,google-search-console-cotlet-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,18341,"Connect Google Search Console to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Google Search Console API key needed."
+2026-11-07T22:59:48Z,lichess-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,17842,"Connect Lichess to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Lichess API key needed."
+2026-11-07T23:00:03Z,agent-evidence-replay,0.1.0,,Apache-2.0,26126,Replay a lab-produced agent action record: recompute its digest chain and flag tamper or a gap
+2026-11-07T23:01:20Z,strava-cotlet-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,17989,"Connect Strava to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Strava API key needed."
+2026-11-07T23:02:38Z,indec-mcp,0.5.0,MagcDEV,MIT,193208,"MCP server for Argentina's official statistics (INDEC): inflation, wages, poverty, trade, population. Unofficial."
+2026-11-07T23:04:01Z,streamelements-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,17941,"Connect StreamElements to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No StreamElements API key needed."
+2026-11-07T23:05:21Z,brao,0.0.1,Slava Burmanov <slava.burmanov@gmail.com>,,1602,Placeholder — library coming soon.
+2026-11-07T23:07:33Z,luiccian-vulcan-mcp,0.3.1,Luiccian <luicciandev@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",432115,Vulcan 12 integration through the Model Context Protocol (MCP)
+2026-11-07T23:10:08Z,psst-secret-cli,1.0.0,,,41927,Command-line client for psst-secret
+2026-11-07T23:11:40Z,pyrind,0.1.0,,(Apache-2.0 OR ISC OR MIT-0) AND (Apache-2.0 OR ISC OR MIT) AND Apache-2.0 AND ISC AND BSD-3-Clause,11896578,"Fast cryptography for Python from rind, a pure-Rust library: AEADs, hashes, HMAC, HKDF, PBKDF2, X25519, Ed25519, ECDSA, ECDH, RSA, and ML-KEM"
+2026-11-07T23:15:19Z,modelquad,0.0.1,Raz Ben Aharon,Apache-2.0,2687,"Name reserved by the author of ModelQuad. ModelQuad is installed from GitHub, not from PyPI."
