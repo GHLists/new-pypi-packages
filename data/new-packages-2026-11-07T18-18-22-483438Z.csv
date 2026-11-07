@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T17:10:19Z,tokensim,1.0.1,TokenSIMD contributors,MIT,10406533,"TokenSIMD: high-throughput BPE tokenizer (SIMD pretokenizer, parallel encode)"
+2026-11-07T17:19:34Z,tenqsp-fit,0.1.0,Dongwoo Chae,Apache-2.0,618867,"Fitting TenQSP models to data, with diagnosis of what the data determine"
+2026-11-07T17:20:17Z,faceless-qc-lite,2.0.0,Jasveer Singh,MIT,139662,"Pre-upload QC for faceless video: the 5 anchor checks plus caption, thumbnail, retention, Shorts-title and link-rot checks — one suite, one receipt."
+2026-11-07T17:22:51Z,tesserae-config,0.1.0,,,449405,
+2026-11-07T17:24:34Z,annotatio,0.0.1,Strategos <r@strategos.au>,Proprietary,6276,Legal annotation and notes layer — Disciplina. by Strategos.
+2026-11-07T17:25:33Z,astrotrack,0.1.0,Gabriella Mariam Zahra Rajpoot <LetterToGabi@gmail.com>,BSD 3-Clause License,42350,A tool for analysing and investigating LEO satellite flyover occurrences with contamination in radio astronomy observational data.
+2026-11-07T17:25:53Z,taskoverview-notifier,1.0.0,paraversal <104731964+paraversal@users.noreply.github.com>,GPL-3.0-or-later,106824,Show progress cards for long-running Python jobs on your macOS desktop via the TaskOverview Übersicht widget.
+2026-11-07T17:27:04Z,captchaflick,0.0.1,CaptchaFlick <support@captchaflick.com>,MIT,2436,CaptchaFlick - Fast captcha solving service SDK
+2026-11-07T17:27:20Z,ncaa-dynasty-rerank,0.1.0,Matthew Dies,MIT,81245,"Automated CFP, AP, and Coaches poll re-ranking engine for NCAA Football 14 dynasty saves."
+2026-11-07T17:34:55Z,structpick,0.1.0,Luís Felipe de Oliveira,MIT,85542,"Pick the best protein structure for docking: ranks PDB entries for a UniProt target, flags bound ligands and falls back to AlphaFold."
+2026-11-07T17:35:02Z,gravamen,0.0.1,Strategos <r@strategos.au>,Proprietary,6291,Core issue distillation for legal matters — Disciplina. by Strategos.
+2026-11-07T17:35:12Z,howhard,2.0.0,,,242957,"Choose an agent's model and reasoning effort, and learn from outcomes."
+2026-11-07T17:35:27Z,langchain-channel3,0.1.0,Channel3 <support@trychannel3.com>,MIT,170223,Channel3 product search tools for LangChain: search 100M+ products and compare live retailer offers.
+2026-11-07T17:39:51Z,spotify-creators-uploader,0.1.0,Jayashakthi Vishnu P,MIT,151038,Unofficial headless-Playwright CLI for uploading video podcast episodes to Spotify for Creators.
+2026-11-07T17:40:45Z,agenthubctl,0.1.0,,MIT,99592,Hexagonal status and terminal-attach control hub for n parallel coding agent containers.
+2026-11-07T17:43:20Z,sentinelpulse,0.1.0,sriroopchakraborty1991-lang,MIT,129191,"CVE first-responder CLI: local RAG brain (NVD, CISA KEV, EPSS), world exposure map, passive asset checks, watch-mode alerts and patch drafts."
+2026-11-07T17:44:38Z,schnippo,0.11.0,Seitz Dominik Visuals,MIT,29216082,KI-Rohschnitt für DaVinci Resolve: MCP-Server für Rohschnitte per Chat
+2026-11-07T17:44:52Z,ras-commander-fast-dss,0.1.0,CLB Engineering Corporation,MIT AND BSD-3-Clause,19989845,Native (Rust) HEC-DSS engine for ras-commander and hms-commander: DSS6 and DSS7 read and write without Java
+2026-11-07T17:46:59Z,virtumon,0.1.0,Danzel Serrano,MIT,18466,"Your desktop, expanded. Virtual monitor tools with Windows display discovery."
+2026-11-07T17:47:36Z,bhabex,0.1.2,bxLabs,MIT,4208,"Bhabex - A modern, high-performance programming language with bytecode VM and native compilation"
+2026-11-07T17:47:55Z,pliqra-client,0.1.0rc1,Pliqra contributors,Apache-2.0,20990,"Dependency-free Pliqra model discovery, binding and inference client"
+2026-11-07T17:48:45Z,minerva-zermelo,0.1.0,,"Copyright (c) 2018 The Python Packaging Authority Permission is hereby granted, free of charge, to…",49122,Python client for the Zermelo API
+2026-11-07T17:49:51Z,sde-rs,1.0.0,Alexander Schierbeck-Hansen <aschii85@protonmail.com>,MIT,18016797,Powerful and flexible SDE simulation library with Rust-accelerated Monte-Carlo
+2026-11-07T17:50:28Z,charity-compliance,1.0.0,Jasveer Singh,MIT,109444,Is this Canadian charity ready to file? Donation-receipt validation and a T3010 pre-flight check as one local CLI with a single readiness receipt.
+2026-11-07T17:51:11Z,manilog,0.0.0,Zeyu Tang,MIT,3406,The ManiLog schema.
+2026-11-07T17:52:50Z,ndx-brainstem,0.2.0,BrainSTEM Team <petersen.peter@gmail.com>,MIT,24428,BrainSTEM experimental metadata in NWB
+2026-11-07T17:55:19Z,taskbird,0.0.1,Grayden,,2133,"The easy orchestrator for Python (placeholder, coming soon)"
+2026-11-07T17:57:22Z,invokehq,0.1.2,,Apache-2.0,30828,"Give Invoke an action; it comes back safe, attributable, observable and verifiable."
+2026-11-07T17:57:36Z,redcedar,0.93.0,Cascade Quantum,Apache-2.0,43444,Python client for the Red Cedar quantum machine learning server
+2026-11-07T18:02:19Z,deriweave-python,0.3.0,DeriWeave contributors,MIT,1590490,Composable derivatives pricing with the native DeriWeave C++20 engine
+2026-11-07T18:05:12Z,volto,0.0.1,,MIT,1951,"volto — a control plane where AI bots work as a cast, each with its own role, memory, and knowledge. Name reserved; project forthcoming."
+2026-11-07T18:05:39Z,modellab-ml-toolkit,1.0.1,Omar Elhalaby,MIT,6252,A modular machine learning toolkit supporting classification and regression.
+2026-11-07T18:06:34Z,text-to-insight,0.1.0,"Caio Petroncini, Julio Cesar Fuganti, Luiz Correia dos Santos, Antonio Carvalho, Bernardo Rubio, Jo…",MIT,196008,"Agentes LangGraph que transformam perguntas em linguagem natural em consultas SQL seguras, executadas no seu banco, com resposta em linguagem natural"
+2026-11-07T18:06:49Z,pyfect-dev,0.1.0,Tyler Gibbs,MIT,9120609,"Effect-TS for Python: typed effects, a real fiber runtime, structured concurrency, services and layers."
+2026-11-07T18:07:48Z,cbp-action,0.1.7,CBP contributors,MIT,85618,Reusable repository quality gates for GitHub Actions and local CI
+2026-11-07T18:08:19Z,aiganak-llm-prices,2026.11.2,AiGanak <contact@aiganak.com>,MIT,85869,"LLM API list prices for OpenAI, Anthropic and Google models, with a token cost calculator."
+2026-11-07T18:09:50Z,jsngame,1.4.5,JSN,Proprietary,54859886,JSNgame - Python 2D/3D game engine for Windows (compiled binary distribution)
+2026-11-07T18:12:52Z,readx,0.1.0,Beks1k,,6870,Lib for easy use of discord webhook
+2026-11-07T18:13:15Z,freemyid,0.2.0.dev1,Free My ID,AGPL-3.0-or-later,518540,Local-first personal data broker opt-out tool with scheduled re-checks.
+2026-11-07T18:15:06Z,swrm,0.0.1,,MIT,2111,swrm — a distributed dispatcher for heterogeneous agent fleets. Name reserved; canonical distribution forthcoming.
+2026-11-07T18:16:34Z,comit-cli,1.0.0,Comit Team,MIT,93596,An AI-powered Git commit assistant that understands your repository's commit style
