@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T02:20:36Z,ctxverify,0.1.0,Aaron Chang,Apache-2.0,195208,"A linter and verifier for agent context packs: provenance, links, ids, freshness, hygiene."
+2026-11-07T02:23:36Z,alter-sdk-ramp,0.2.2,Alter Team,MIT,446569,Typed ramp operations through Alter
+2026-11-07T02:23:37Z,alter-sdk-slack,0.1.1,Alter Team,MIT,63366,Typed slack operations through Alter
+2026-11-07T02:23:41Z,orchestral-operator,0.1.0,,,42705,"Orchestral operator commands for capacity, models and benchmarking"
+2026-11-07T02:28:28Z,cognisn-conduit,0.1.0rc1,Cognisn Pty Ltd,MIT,1108089,"Shared AI integration library for Cognisn products: providers, streaming, prompt caching, agent runner, compaction, skills, MCP client and embeddings."
+2026-11-07T02:28:47Z,hoja-cli,0.21.4,Rinadelph,MIT,4935921,"Hoja CLI and local server: self-hosted, offline-first, agent-native work management with a Linear-compatible GraphQL API"
+2026-11-07T02:32:02Z,openm454,0.1.0,,GPL-3.0-only,394425,"Open driver, CLI and MCP server for the DreamSourceLab DSCope M454 USB oscilloscope (v3 protocol), made for AI agents"
+2026-11-07T02:36:32Z,cnovatech-sdk-core,0.1.0,Cnovatech <suporte@cnovatech.com.br>,MIT,76572,"Shared HTTP transport, configuration, errors and pagination for the Cnovatech Python SDKs."
+2026-11-07T02:36:40Z,novirhiza-tether-web-api,0.3.0,,MIT OR Apache-2.0,59838,Optional FastAPI adapter for the public Tether client protocol
+2026-11-07T02:37:39Z,multimodal-mcp,0.2.0,Vigilans,MIT,127889,"MCP server for image, audio and video generation, transcription, voice design and media analysis."
+2026-11-07T02:42:19Z,novirhiza-tether-web-ui,0.3.0,,MIT OR Apache-2.0,285233,Independent ASGI hosting for compiled Tether browser assets
+2026-11-07T02:43:43Z,novirhiza-tether-databricks,0.3.0,,MIT OR Apache-2.0,34413,Optional Databricks Apps carrier for Tether web interfaces
+2026-11-07T02:47:48Z,fontpkg-sacramento,1.0,,OFL-1.1,48986,"Sacramento font family, packaged for Python by fontpkg"
+2026-11-07T02:47:50Z,fontpkg-advent-pro,3.0,,OFL-1.1,296053,"Advent Pro font family, packaged for Python by fontpkg"
+2026-11-07T02:47:53Z,fontpkg-passion-one,1.2,,OFL-1.1,48941,"Passion One font family, packaged for Python by fontpkg"
+2026-11-07T02:47:55Z,fontpkg-quattrocento,2.0,,OFL-1.1,125023,"Quattrocento font family, packaged for Python by fontpkg"
+2026-11-07T02:51:28Z,emilia,0.3.0,,,17875,
+2026-11-07T02:51:36Z,larkify,0.1.0,StarHeartHunt,MIT,3215288,"Modern, fully typed Feishu / Lark SDK for Python"
+2026-11-07T03:01:08Z,cnovatech-datamarket,0.1.0,Cnovatech <suporte@cnovatech.com.br>,MIT,107301,"Official Python SDK for the Cnovatech Data Market API: price, availability and assortment intelligence for Brazilian supermarkets."
+2026-11-07T03:01:21Z,alter-sdk-stripe,0.1.1,Alter Team,MIT,1052102,Typed stripe operations through Alter
+2026-11-07T03:01:22Z,alter-sdk-xero,0.1.1,Alter Team,MIT,171133,Typed xero operations through Alter
+2026-11-07T03:01:31Z,alter-sdk-skyvern,0.1.1,Alter Team,MIT,123672,Typed skyvern operations through Alter
+2026-11-07T03:03:34Z,alter-sdk-zoho,0.1.1,Alter Team,MIT,780373,Typed zoho operations through Alter
+2026-11-07T03:10:51Z,niko-oneshot,1.0.0,,"Copyright (c) 2026 Niko Permission is hereby granted, free of charge, to any person obtaining a cop…",5007,I'm not a cat! :<
+2026-11-07T03:19:10Z,spec-receipt,1.0.0,Jasveer Singh,MIT,105980,"Receipt a repo's design spec against its code — every spec item IMPLEMENTED, MISSING, CONTRADICTED or UNTRACED, with file-and-line evidence."
