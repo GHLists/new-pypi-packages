@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T21:21:42Z,harness-audit-sidecar,0.10.1,Zhizhi Liao <liaozhizhi@foxmail.com>,MIT,457224,Execution-layer audit sidecar for AI agent harnesses: four-valued verdicts judged against independently collected witnesses.
+2026-11-07T21:22:36Z,codereview-loop,0.13.0,,,2300504,
+2026-11-07T21:23:05Z,overshoulder,0.1.0,,MIT,651437,"Your agent works in its window. Your desk stays yours. An MCP server that lets AI agents see, operate and record Windows apps."
+2026-11-07T21:24:15Z,pepkio-ddct-clarity,0.1.0,Pepkio,,17202,Python client for Pepkio ddct-clarity tool
+2026-11-07T21:24:39Z,tallylock,0.1.0a1,Christopher Ayers,Apache-2.0,668074,Standalone evaluation receipts with independently checkable artifact and timestamp evidence
+2026-11-07T21:25:29Z,DefPixel-MariaDB,0.1.6,Heo Yongseon,,805305,"The Python toolkit to define data connections, design data models, and dive into your data"
+2026-11-07T21:28:02Z,ruin-everything,0.1.0.9,,,92530,"🔥 Stop babysitting cowardly AI agents. Unfiltered local Chrome execution that crushes 2FA, bypasses [withheld] OTPs, and finishes the job with 0 prompts."
+2026-11-07T21:31:09Z,struct-sdk-native,0.1.1,Struct <support@struct.ai>,Apache-2.0,651624,Native capture runtime for the Struct observability SDK
+2026-11-07T21:31:18Z,dvm-run,0.1.0,,Apache-2.0,45335,Sandboxes whose every run replays: dvm.run's Python SDK
+2026-11-07T21:32:57Z,inpguard,0.1.0,Onur Çetinkaya,MIT,37648,Defensive linting for EPANET .inp water-network model files
+2026-11-07T21:34:09Z,roviers,0.1.0,Sunil K Sundaram,MIT,12976,Python client SDK for Roviers: High-Throughput Service Intake & Claim-Check Vault
+2026-11-07T21:35:31Z,stemma-py,0.7.0,,MIT OR Apache-2.0,33163447,Edit existing Word documents with native tracked changes: the Stemma DOCX engine for Python (experimental).
+2026-11-07T21:39:45Z,stochology,0.1.0,Silvano Neto <dev@silvanoneto.com>,MIT,3650312,Stochology: the theory and ethics of aim — PyO3 bindings and interactive laboratories
+2026-11-07T21:40:58Z,mikomi,0.1.0a1,KAITEN INC <support@kaiten.sh>,Apache-2.0,158361,"Open-source FinOps for startups: cloud and AI costs and credits as Apache Iceberg tables, processed with DuckDB, with the provenance behind every number."
+2026-11-07T21:43:51Z,yadpc,1.2.0,Ulrich Petri,MIT,12197,Yet Another (Dyn)DNS Python Client
+2026-11-07T21:44:04Z,tool-leira-job-fit-tailor-s56adxsn,0.3.3,,,37882,Executa for the job-fit-tailor Anna App
+2026-11-07T21:45:02Z,retrybench,0.3.0,RetryBench contributors,PolyForm-Noncommercial-1.0.0,211635,A conformance benchmark for safe recovery from ambiguous tool outcomes in LLM agents
+2026-11-07T21:45:34Z,escrape-plan,0.0.1,a.p.p,,33476,Tool for extracting data from HTML documents
+2026-11-07T21:46:55Z,wotpylab-keithley2600,0.1.0,Vignesh Vaidyanathan <info@hololinked.dev>,MIT,36912,Keithley 2600 series SMUs served as a Web of Things device with hololinked.
+2026-11-07T21:47:30Z,tesserae-device-pi,0.9.1,Tesserae,AGPL-3.0-or-later,342450,"Raspberry Pi client for Tesserae: paints packed .bin or PNG frames onto a Pimoroni Inky e-ink panel, over REST, MQTT or the cloud relay."
+2026-11-07T21:49:46Z,docling-hebrew-ocr,0.1.0,Rivok Labs,Apache-2.0,42446,"Hebrew OCR engine for Docling, backed by paddleocr-hebrew (scans and broken Hebrew text layers)"
+2026-11-07T21:50:17Z,zeriq-team,0.1.0,,MIT,42084,Official Python SDK for the Zeriq Teams API
+2026-11-07T21:51:45Z,pniaz-advanced-logger,0.1.0,Pouya P. Niaz,MIT,65162,"Advanced, flexible logging for Python scripts, functions and class methods: colored aligned console logs, timestamped log files, and decorators that log calls and errors without try/except boilerplat…"
+2026-11-07T21:52:57Z,pyyaml-zig,0.2.0,Kevin O'Neil,MIT,1028366,"Fast, safe YAML for Python: a drop-in for PyYAML, on yaml.zig."
+2026-11-07T21:54:05Z,tetrate,0.1.0a3,,,21472616,"tetrate, the command for Tetrate products: install, verify and run them."
+2026-11-07T21:55:43Z,infrasketch,0.1.0,infrasketch,MIT AND LicenseRef-Microsoft-Azure-Architecture-Icons,1481120,Draw Azure architecture diagrams as SVG with official resource icons. No Graphviz.
+2026-11-07T21:56:34Z,pyindec,0.1.0,Diego Morabito <morabdiego@gmail.com>,MIT,94539,Cliente oficial-friendly en Python para el Catálogo API-INDEC (Instituto Nacional de Estadística y Censos de la República Argentina)
+2026-11-07T21:56:44Z,hidock-python,0.1.0,Sarat Chandra K B,MIT,57696,Python library and CLI for HiDock P1 recordings and device management
+2026-11-07T21:56:54Z,txstore,0.1.0,Václav Vinklát,MIT,459911,"Unified object storage for Python: one interface over filesystem, S3, and HTTP, with transactions."
+2026-11-07T22:00:57Z,nicefigs,1.0.0,Vitus Benson <vitus.benson@icloud.com>,MIT,255219,"Publication-grade, modular matplotlib plotting for geoscience."
+2026-11-07T22:01:31Z,ancha,0.1.0,,MIT,41464,"Ancha for Python: test your agent's own tools against production's recorded calls, and pytest worlds for agent tests"
+2026-11-07T22:05:57Z,otpguard,0.1.0,Muhammad Tanzil <mtanzil666@gmail.com>,MIT,102186,"Decide whether an OTP SMS should be sent: SMS pumping, bombing and enumeration checks for any provider"
+2026-11-07T22:06:42Z,ComputerTests,0.1.0,,,5196,Computer capabilities testing
+2026-11-07T22:09:58Z,groundtem-io,0.1.0,Hyeonwoo Kang <hykanghw@gmail.com>,MIT,22895,"Unofficial Python reader and plotting utilities for GroundTEM .stb, .stn, and .sts files"
+2026-11-07T22:15:55Z,nmc-mcp-docs,0.0.0a0,NVIDIA,,1010,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-07T22:17:02Z,eqlx-ebelge,0.1.1,Can Demir,Apache-2.0,66421,"Read Turkish e-Fatura (UBL-TR) and e-Defter (XBRL-GL) files: clean data, trial balance, consistency checks, and an MCP server for AI agents."
+2026-11-07T22:17:03Z,eqlx-credit,0.2.0,Can Demir,Apache-2.0,54390,"Open tools for credit-risk model work: PD validation tests, calibration, master scales and low-default portfolio methods."
+2026-11-07T22:20:27Z,hobkin-lore,0.2.0,Frank Lynam,MIT,123421,"Reference packs for languages and their tools, that an agent looks things up in instead of holding them in context: one SQLite file each, installed as a skill for hobkin or Claude Code."
