@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T10:21:39Z,pricingagents,0.0.1,David Fischer <fischerdm1@outlook.com>,MIT,6100,Agents for non-life and life insurance pricing.
+2026-11-07T10:22:43Z,dex-connector-calendly,0.1.0,,MIT,129574,Dex-native Calendly scheduling connector
+2026-11-07T10:23:29Z,dex-connector-clickup,0.1.0,,MIT,127961,ClickUp connector for Dex Flows
+2026-11-07T10:24:51Z,dex-connector-docusign,0.1.0,,MIT,135225,DocuSign eSignature connector for Dex Flows
+2026-11-07T10:26:48Z,rigidax,1.0.0,Nishanth Sundaran <sundharnishanth@gmail.com>,MIT,85314,"Differentiable rigid-body kinematics, dynamics and batched IK / motion retargeting in JAX (MJCF + URDF)"
+2026-11-07T10:28:00Z,anytrellis,0.1.0,mluttikh <mluttikhof@gmail.com>,MIT,402446,"GPU-accelerated trellis, facet and small-multiple plots for notebooks"
+2026-11-07T10:32:51Z,shiplord,0.1.0,,,395256,Deployment tooling for applications on a server
+2026-11-07T10:34:03Z,registrum,1.0.0,Strategos <r@strategos.au>,Proprietary,6262,Legal registry and record management tool. by Strategos.
+2026-11-07T10:35:01Z,gboostrs,0.1.0,rseko,MIT,6837060,Python bindings for the gboost gradient boosting library
+2026-11-07T10:38:17Z,mailrows,0.1.0,,MIT,100935,"Mail merge from Excel or CSV through your own SMTP server: preview, confirm, never send twice."
+2026-11-07T10:42:59Z,agentcheckup,0.4.1,wanjiaqing,MIT,103090,"Diagnose your agent setup: tool conflicts, risky config, context budget."
+2026-11-07T10:43:09Z,roguegpt,1.5.0,Martin Kappes,GPL-3.0-or-later,85502,A controlled stimulus generation framework for AI news authenticity research
+2026-11-07T10:46:33Z,waitforit-tech,0.1.1,Thecapstone Mogbolu <thecapstonemogbolu@gmail.com>,MIT,20990,Visibility for backend developers
+2026-11-07T10:47:55Z,pythonboot-auth,0.1.0,,,42624,Session authentication and extensible authorization for PythonBoot
+2026-11-07T10:48:01Z,pythonboot-starter-sqlalchemy,0.1.1,,,9645,SQLAlchemy ORM starter dependencies for PythonBoot applications
+2026-11-07T10:48:06Z,pythonboot-starter-redis,0.1.1,,,5171,Redis starter dependencies for PythonBoot applications
+2026-11-07T10:48:10Z,pythonboot-starter-auth,0.1.0,,,7798,Authentication starter dependencies for PythonBoot applications
+2026-11-07T10:48:56Z,reefapi,0.1.0,ReefAPI <support@reefapi.com>,MIT,321835,"Official Python SDK for ReefAPI: one API key for 600+ live web-data APIs (Amazon, eBay, Zillow, Reddit, Google Maps, LinkedIn Jobs and more)."
+2026-11-07T10:49:39Z,doctor-ros-mcp,0.0.2,,Apache-2.0,12572,Kiro Power MCP server that migrates ROS 1 robot fleets to ROS 2 Jazzy and Open-RMF
+2026-11-07T10:50:50Z,minu,0.1.0,mr-jones123,MIT,53169,"Tiny agent harness for local models (llama.cpp, MLX, Ollama)"
+2026-11-07T10:51:21Z,vaksms-client,0.2.0,,ISC,29879,Python client for the VAK-SMS virtual number and SMS activation API
+2026-11-07T10:51:22Z,sv-number,0.2.0,,ISC,27591,Python client for the SV Number SMS verification API
+2026-11-07T10:51:23Z,smsman-client,0.2.0,,ISC,28565,Python client for the SMS-MAN virtual number and SMS activation API
+2026-11-07T10:55:09Z,dlamb,0.0.1,dlamb contributors,"BSD 3-Clause License Copyright (c) 2026, dlamb contributors, Gernot Maier (DESY) All rights reserve…",870901,Artificial light sources for Cherenkov-telescope simulations
+2026-11-07T10:56:22Z,practical-rife-a6i,0.1.0,__tachyon_gz__,GPL-3.0-or-later OR AGPL-3.0-or-later,77748,Add your description here
+2026-11-07T10:57:17Z,tutor-contrib-asyntai,1.0.0,Asyntai <hello@asyntai.com>,MIT,13808,Add the Asyntai AI chat assistant to your Open edX platform. It answers learner questions from your own content.
+2026-11-07T11:02:34Z,gstrickd,0.0.1,gstrickd contributors,"BSD 3-Clause License Copyright (c) 2026, gstrickd contributors, Gernot Maier (DESY) All rights rese…",871832,Photon-stream format and I/O for Cherenkov-telescope simulation chains
+2026-11-07T11:02:41Z,dlufd,0.0.1,dlufd contributors,"BSD 3-Clause License Copyright (c) 2026, dlufd contributors, Gernot Maier (DESY) All rights reserve…",871333,Atmospheric propagation of Cherenkov and artificial-source photons
+2026-11-07T11:03:03Z,imagetoimagegenerator-prompt-brief,0.1.0,,LicenseRef-Proprietary,10894,Build text-to-image prompt briefs and record human review decisions without calling a generation API.
+2026-11-07T11:11:56Z,anime-core-lib-portrait-tool,0.1.0,cwlm,MIT,27938,Automatic and manual portrait composition and DDS export for Anime Core Lib
+2026-11-07T11:12:59Z,texture3d,0.2.0,Sai Kiran,MIT,104690,Texture a triangle mesh from posed RGB-D frames: one keyframe per face with seam leveling
+2026-11-07T11:14:31Z,agentprint,0.1.0,adighatakdas-cloud <adi65das@gmail.com>,MIT,511463,Find the secrets and risky permissions AI coding agents leave behind — on your machine and in the packages you publish.
+2026-11-07T11:16:42Z,raain-guard,1.0.0,RAAIN Guard <contact.raaintech@gmail.com>,MIT,113345,Python SDK for RAAIN Guard — embedded B2B intelligence platform
+2026-11-07T11:18:12Z,stellar-strkey,0.1.0,overcat,Apache-2.0,50685,"Strict, typed, dependency-free encoding and decoding of Stellar strkeys (SEP-23)."
+2026-11-07T11:18:26Z,codeccat-train,0.1.0,Johnny Kao,MIT,38988,Offline trainer and evaluator for CodecCat native encoding models
