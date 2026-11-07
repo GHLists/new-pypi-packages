@@ -1,0 +1,31 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T11:33:39Z,zipfixx,0.1.0,SouzaF19,MIT,13172,CLI para corrigir e extrair arquivos ZIP com nomes Unicode no Windows.
+2026-11-07T12:19:45Z,ichikas-auto-assistant,26.10.1,XcantloadX,GPL-3.0-only,9852862,Ichika's Auto Assistant is a helper script
+2026-11-07T12:22:41Z,dasdae,0.1.0,"Eileen Martin <eileenrmartin@mines.edu>, Derrick Chambers <chambers.ja.derrick@gmail.com>","GNU LESSER GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundati…",40278,A metapackage for the Distributed Acoustic Sensing Data Analysis Eco System
+2026-11-07T12:24:41Z,sdflow,0.0.1,rebase.energy,MIT,8852,"Open-source framework for sequential decision problems: simulators, predictors, optimizers and the agents that connect them"
+2026-11-07T12:25:06Z,pikeagent,0.0.1,,MIT,1750,"Reserved for PikeAgent, an AI coding agent for your terminal."
+2026-11-07T12:25:20Z,marearts-anpr-sdk,4.0.0rc1,MareArts,Proprietary,79445542,MareArts ANPR (Automatic Number Plate Recognition) library with multi-region support
+2026-11-07T12:29:30Z,lfx-acedatacloud-suno,0.1.4,Ace Data Cloud <dev@acedata.cloud>,MIT,46966,Suno by Ace Data Cloud: generation and same-task retrieval for Langflow
+2026-11-07T12:30:50Z,pysipl,0.1.0,,MIT,35107,"Parser, interpreter, trace and debug adapter for the SIPL teaching language"
+2026-11-07T12:31:39Z,qasida,2.0.0,Jayant Dubey,MIT,881942,"Qasida — a small, safe, fast language with an ML stack"
+2026-11-07T12:39:04Z,flask-modelkit,1.0.0,AnozieChibuike,MIT,29752,"Composable model mixins for Flask-SQLAlchemy: UUID keys, UTC timestamps, soft delete, safe writes from request data, hidden and protected fields, and typed CRUD helpers."
+2026-11-07T12:39:30Z,lfx-acedatacloud-seedance,0.1.4,Ace Data Cloud <dev@acedata.cloud>,MIT,47518,Seedance by Ace Data Cloud: generation and same-task retrieval for Langflow
+2026-11-07T12:42:06Z,simrun,0.1.0,Matthias König <konigmatt@googlemail.com>,MIT,1927602,Runner of simulation workflows on a k3s cluster with Argo Workflows and Kueue.
+2026-11-07T12:43:37Z,tubesentry,0.1.0,TubeSentry Core Team,MIT,106384,Local-First YouTube & Performance Max Placement Waste Auditor & MCP Server
+2026-11-07T12:44:44Z,scheda,0.10.0,scheda contributors,AGPL-3.0-or-later,698723,"A personal Markdown knowledge base with a local mirror and index, built to be queried cheaply by AI agents."
+2026-11-07T12:45:20Z,django-starter-cdc,0.2.0,Chris Achinga,MIT,28358,"Generate a new Django 6.1 project from django-starter: full-stack (HTMX, Alpine.js, Tailwind) or API-only."
+2026-11-07T12:49:38Z,kawallm,0.1.1,KawalLM contributors,Apache-2.0,222343,"Low-latency guardrail engine for Indonesian PII (UU PDP) masking and content safety, drop-in for LiteLLM Proxy."
+2026-11-07T12:54:22Z,kubechain,0.1.0,ehsanhajian,MIT,45567,Decide whether a blockchain workload on Kubernetes is production ready.
+2026-11-07T12:55:24Z,cred1,2026.11.7,Alexander Loth <home@alexloth.com>,MIT AND CC-BY-4.0,96041,"Credibility ratings for 2,600+ news and website domains from the CRED-1 open dataset"
+2026-11-07T12:55:38Z,slopatronic,0.1.0,,,60941,"Find music on YouTube (audio only), keep a library, and play it in the background."
+2026-11-07T12:57:27Z,ad-sentry,0.1.0,Flo <teschner@gmail.com>,Apache-2.0,171548,"Independent black-box audit suite for Google PMax, Demand Gen & Meta Advantage+ AI advertising campaigns"
+2026-11-07T12:57:35Z,binary-translator,0.1.0,,MIT,4233,Library untuk convert biner ke teks dan sebaliknya
+2026-11-07T12:58:25Z,cursor-portable,1.0.5,tboy1337,MIT,102925,Download Cursor and install a portable copy on a removable drive.
+2026-11-07T12:58:41Z,solprop-gui,0.2.0,Christian Brahms,GPL-3.0-or-later AND OFL-1.1 AND CC-BY-4.0,4385361,"A desktop front end for solprop: set up, run and read ultrafast propagation simulations"
+2026-11-07T13:01:13Z,runport,0.1.0,Sudharsan Selvaraj <178299750+Sudharsanselvaraj@users.noreply.github.com>,Apache-2.0,15206611,"Universal open-source LLM, prompt, and workflow benchmarking platform"
+2026-11-07T13:02:24Z,klein-bt,0.8.0,Johan Ubbink <25775970+johanubbink@users.noreply.github.com>,MIT,499552,Lightweight CLI telemetry dashboard for BehaviorTree.CPP v4 over ZeroMQ.
+2026-11-07T13:05:35Z,gpt-researcher-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,11956,"The live web data engine for GPT Researcher: Search API ($5 per 1,000 searches), Extract API ($0.80 per 1,000 pages) and Deep Search."
+2026-11-07T13:06:22Z,pydantic-ai-specstream,0.1.0,SpecStream <support@specstream.ai>,MIT,10619,"The live web data engine for Pydantic AI: Search API ($5 per 1,000 searches), Extract API ($0.80 per 1,000 pages) and Deep Search."
+2026-11-07T13:16:17Z,percival,0.1.0,Rijin Raju,MIT,53139,"Client hooks for the Percival Celery control panel: run events, worker versions, stale-worker gate, duplicate guard."
+2026-11-07T13:16:23Z,percival-server,0.1.0,Rijin Raju,MIT,1633318,"Self-hosted control panel for Celery: live schedules, run history, stale-worker safety."
+2026-11-07T13:16:26Z,tarka-sdk,0.4.0,Tarka,Apache-2.0,483311,Official Python SDK for Tarka: typed sync and async resource clients
