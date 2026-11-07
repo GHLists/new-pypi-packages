@@ -8,36 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 03:19 UTC
+## Latest list — 2026-11-07 04:19 UTC
 
-New packages created between 2026-11-07 02:18 UTC and 2026-11-07 03:19 UTC.
+New packages created between 2026-11-07 03:19 UTC and 2026-11-07 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T03-19-44-47183Z.csv)
+[Full CSV](data/new-packages-2026-11-07T04-19-35-120609Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 02:20:36 | [ctxverify](https://pypi.org/project/ctxverify/) | 0.1.0 | Aaron Chang | 195.2 kB | A linter and verifier for agent context packs: provenance, links, ids, freshnes… |
-| 2026-11-07 02:23:36 | [alter-sdk-ramp](https://pypi.org/project/alter-sdk-ramp/) | 0.2.2 | Alter Team | 446.6 kB | Typed ramp operations through Alter |
-| 2026-11-07 02:23:37 | [alter-sdk-slack](https://pypi.org/project/alter-sdk-slack/) | 0.1.1 | Alter Team | 63.4 kB | Typed slack operations through Alter |
-| 2026-11-07 02:23:41 | [orchestral-operator](https://pypi.org/project/orchestral-operator/) | 0.1.0 |  | 42.7 kB | Orchestral operator commands for capacity, models and benchmarking |
-| 2026-11-07 02:28:28 | [cognisn-conduit](https://pypi.org/project/cognisn-conduit/) | 0.1.0rc1 | Cognisn Pty Ltd | 1.1 MB | Shared AI integration library for Cognisn products: providers, streaming, promp… |
-| 2026-11-07 02:28:47 | [hoja-cli](https://pypi.org/project/hoja-cli/) | 0.21.4 | Rinadelph | 4.9 MB | Hoja CLI and local server: self-hosted, offline-first, agent-native work manage… |
-| 2026-11-07 02:32:02 | [openm454](https://pypi.org/project/openm454/) | 0.1.0 |  | 394.4 kB | Open driver, CLI and MCP server for the DreamSourceLab DSCope M454 USB oscillos… |
-| 2026-11-07 02:36:32 | [cnovatech-sdk-core](https://pypi.org/project/cnovatech-sdk-core/) | 0.1.0 | Cnovatech <suporte@cnovatech.… | 76.6 kB | Shared HTTP transport, configuration, errors and pagination for the Cnovatech P… |
-| 2026-11-07 02:36:40 | [novirhiza-tether-web-api](https://pypi.org/project/novirhiza-tether-web-api/) | 0.3.0 |  | 59.8 kB | Optional FastAPI adapter for the public Tether client protocol |
-| 2026-11-07 02:37:39 | [multimodal-mcp](https://pypi.org/project/multimodal-mcp/) | 0.2.0 | Vigilans | 127.9 kB | MCP server for image, audio and video generation, transcription, voice design a… |
-| 2026-11-07 02:42:19 | [novirhiza-tether-web-ui](https://pypi.org/project/novirhiza-tether-web-ui/) | 0.3.0 |  | 285.2 kB | Independent ASGI hosting for compiled Tether browser assets |
-| 2026-11-07 02:43:43 | [novirhiza-tether-databricks](https://pypi.org/project/novirhiza-tether-databricks/) | 0.3.0 |  | 34.4 kB | Optional Databricks Apps carrier for Tether web interfaces |
-| 2026-11-07 02:47:48 | [fontpkg-sacramento](https://pypi.org/project/fontpkg-sacramento/) | 1.0 |  | 49.0 kB | Sacramento font family, packaged for Python by fontpkg |
-| 2026-11-07 02:47:50 | [fontpkg-advent-pro](https://pypi.org/project/fontpkg-advent-pro/) | 3.0 |  | 296.1 kB | Advent Pro font family, packaged for Python by fontpkg |
-| 2026-11-07 02:47:53 | [fontpkg-passion-one](https://pypi.org/project/fontpkg-passion-one/) | 1.2 |  | 48.9 kB | Passion One font family, packaged for Python by fontpkg |
-| 2026-11-07 02:47:55 | [fontpkg-quattrocento](https://pypi.org/project/fontpkg-quattrocento/) | 2.0 |  | 125.0 kB | Quattrocento font family, packaged for Python by fontpkg |
-| 2026-11-07 02:51:28 | [emilia](https://pypi.org/project/emilia/) | 0.3.0 |  | 17.9 kB |  |
-| 2026-11-07 02:51:36 | [larkify](https://pypi.org/project/larkify/) | 0.1.0 | StarHeartHunt | 3.2 MB | Modern, fully typed Feishu / Lark SDK for Python |
-| 2026-11-07 03:01:08 | [cnovatech-datamarket](https://pypi.org/project/cnovatech-datamarket/) | 0.1.0 | Cnovatech <suporte@cnovatech.… | 107.3 kB | Official Python SDK for the Cnovatech Data Market API: price, availability and… |
-| 2026-11-07 03:01:21 | [alter-sdk-stripe](https://pypi.org/project/alter-sdk-stripe/) | 0.1.1 | Alter Team | 1.1 MB | Typed stripe operations through Alter |
-| 2026-11-07 03:01:22 | [alter-sdk-xero](https://pypi.org/project/alter-sdk-xero/) | 0.1.1 | Alter Team | 171.1 kB | Typed xero operations through Alter |
-| 2026-11-07 03:01:31 | [alter-sdk-skyvern](https://pypi.org/project/alter-sdk-skyvern/) | 0.1.1 | Alter Team | 123.7 kB | Typed skyvern operations through Alter |
-| 2026-11-07 03:03:34 | [alter-sdk-zoho](https://pypi.org/project/alter-sdk-zoho/) | 0.1.1 | Alter Team | 780.4 kB | Typed zoho operations through Alter |
-| 2026-11-07 03:10:51 | [niko-oneshot](https://pypi.org/project/niko-oneshot/) | 1.0.0 |  | 5.0 kB | I'm not a cat! :< |
-| 2026-11-07 03:19:10 | [spec-receipt](https://pypi.org/project/spec-receipt/) | 1.0.0 | Jasveer Singh | 106.0 kB | Receipt a repo's design spec against its code — every spec item IMPLEMENTED, MI… |
+| 2026-11-07 03:29:02 | [mediasense](https://pypi.org/project/mediasense/) | 0.5.0 |  | 261.5 kB | Give Claude ears and eyes: understand, summarize and edit audio/video files or… |
+| 2026-11-07 03:32:09 | [spsrfclient](https://pypi.org/project/spsrfclient/) | 0.0.0 |  | 892 B | Namespace placeholder reserved by Squarepoint IT Security. Not for public use. |
+| 2026-11-07 03:34:14 | [finances](https://pypi.org/project/finances/) | 0.3.1 | roshanlam | 1.1 MB | See where your money goes from your own bank statements and exports, checked ag… |
+| 2026-11-07 03:34:46 | [seqCompare](https://pypi.org/project/seqCompare/) | 1.0.0 | Chrispin Chaguza <chrispin.ch… | 27.2 kB | seqCompare: A toolkit for sequence similarity analysis |
+| 2026-11-07 03:35:12 | [anonrouter-sdk](https://pypi.org/project/anonrouter-sdk/) | 0.1.0 | AnonRouter | 13.1 kB | The AnonRouter Python package: verified routes and encrypted inference. |
+| 2026-11-07 03:35:21 | [pexels-mcp](https://pypi.org/project/pexels-mcp/) | 1.0.1 | aqiu | 41.6 kB | MCP + CLI toolkit to search and download free Pexels stock images/videos. No AP… |
+| 2026-11-07 03:38:11 | [issyx-sign](https://pypi.org/project/issyx-sign/) | 1.0.0 | Issyx | 17.7 kB | Official Python client for the Issyx Sign e-signature API |
+| 2026-11-07 03:38:11 | [mceg](https://pypi.org/project/mceg/) | 0.1.1 | Hajime Kawahara | 219.6 kB | Experimental scientific model contracts and evidence links |
+| 2026-11-07 03:42:28 | [i77-test-alpha](https://pypi.org/project/i77-test-alpha/) | 0.2.1794023547 | I77 Test | 932 B | I77 authorization test package |
+| 2026-11-07 03:42:34 | [i77-test-beta](https://pypi.org/project/i77-test-beta/) | 0.0.1 | I77 Test | 898 B | I77 authorization test package |
+| 2026-11-07 03:49:01 | [libascii](https://pypi.org/project/libascii/) | 0.1.0 | NNlk05 | 21.5 kB |  |
+| 2026-11-07 03:50:31 | [web-install-tsa-lab](https://pypi.org/project/web-install-tsa-lab/) | 0.3.3 |  | 10.9 kB | Import first..eleventh to print time-series lab code snippets |
+| 2026-11-07 03:52:08 | [py-practicing](https://pypi.org/project/py-practicing/) | 0.0.2 |  | 2.7 kB | 一个用于学习 Python 各个章节的项目 |
+| 2026-11-07 03:55:36 | [kontext-studio](https://pypi.org/project/kontext-studio/) | 0.261.0 |  | 6.6 MB | Local-first AI data workspace: server, CLI, and runtime |
+| 2026-11-07 04:01:08 | [fraudnova](https://pypi.org/project/fraudnova/) | 1.0.0 | FraudNova <support@fraudnova.… | 60.3 kB | Official Python client for the FraudNova fraud-detection API (IP, email and pho… |
+| 2026-11-07 04:02:35 | [openliate](https://pypi.org/project/openliate/) | 0.1.0 | OpenLiate <vinod@openliate.te… | 10.3 kB | Open Source Backend Layer for AI Agents — Built for Sovereign AI Agents From In… |
+| 2026-11-07 04:07:49 | [geosition](https://pypi.org/project/geosition/) | 4.9.1 | Arnaud Bellemare <asapbellema… | 58.1 MB | Generative Engine Optimization toolkit — make websites visible to AI search eng… |
+| 2026-11-07 04:14:43 | [awsnav](https://pypi.org/project/awsnav/) | 0.1.0 | Red Asgard | 119.2 kB | Every AWS service in your terminal: browse EC2, S3, Bedrock and 430+ services,… |
+| 2026-11-07 04:17:52 | [langchain-harny](https://pypi.org/project/langchain-harny/) | 0.1.0 | Harny <platform@harny.ai> | 48.2 kB | Long-term memory for LangChain agents: recall what each person said, and when,… |
+| 2026-11-07 04:18:07 | [agent-framework-harny](https://pypi.org/project/agent-framework-harny/) | 0.1.0b1 | Harny <platform@harny.ai> | 38.7 kB | Long-term memory for Microsoft Agent Framework agents: a context provider backe… |

@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T03:29:02Z,mediasense,0.5.0,,MIT,261539,"Give Claude ears and eyes: understand, summarize and edit audio/video files or links (TikTok, YouTube…) with word-level timestamps. MCP server + CLI, runs locally."
+2026-11-07T03:32:09Z,spsrfclient,0.0.0,,,892,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
+2026-11-07T03:34:14Z,finances,0.3.1,roshanlam,MIT,1081235,"See where your money goes from your own bank statements and exports, checked against their printed totals. No bank login; nothing leaves your machine."
+2026-11-07T03:34:46Z,seqCompare,1.0.0,Chrispin Chaguza <chrispin.chaguza@gmail.com>,MIT,27208,seqCompare: A toolkit for sequence similarity analysis
+2026-11-07T03:35:12Z,anonrouter-sdk,0.1.0,AnonRouter,Apache-2.0,13124,The AnonRouter Python package: verified routes and encrypted inference.
+2026-11-07T03:35:21Z,pexels-mcp,1.0.1,aqiu,MIT,41600,"MCP + CLI toolkit to search and download free Pexels stock images/videos. No API key, no quota. Built-in relevance gate kills Pexels's junk hits; picks the right resolution tier for vertical shorts."
+2026-11-07T03:38:11Z,issyx-sign,1.0.0,Issyx,MIT,17745,Official Python client for the Issyx Sign e-signature API
+2026-11-07T03:38:11Z,mceg,0.1.1,Hajime Kawahara,MIT,219592,Experimental scientific model contracts and evidence links
+2026-11-07T03:42:28Z,i77-test-alpha,0.2.1794023547,I77 Test,MIT,932,I77 authorization test package
+2026-11-07T03:42:34Z,i77-test-beta,0.0.1,I77 Test,MIT,898,I77 authorization test package
+2026-11-07T03:49:01Z,libascii,0.1.0,NNlk05,MIT OR Zlib,21454,
+2026-11-07T03:50:31Z,web-install-tsa-lab,0.3.3,,,10922,Import first..eleventh to print time-series lab code snippets
+2026-11-07T03:52:08Z,py-practicing,0.0.2,,,2654,一个用于学习 Python 各个章节的项目
+2026-11-07T03:55:36Z,kontext-studio,0.261.0,,MIT,6595776,"Local-first AI data workspace: server, CLI, and runtime"
+2026-11-07T04:01:08Z,fraudnova,1.0.0,FraudNova <support@fraudnova.com>,MIT,60289,"Official Python client for the FraudNova fraud-detection API (IP, email and phone checks)"
+2026-11-07T04:02:35Z,openliate,0.1.0,"OpenLiate <vinod@openliate.tech>, Vinod Hatti <gitdevinod@gmail.com>",MIT,10296,Open Source Backend Layer for AI Agents — Built for Sovereign AI Agents From India to the World
+2026-11-07T04:07:49Z,geosition,4.9.1,Arnaud Bellemare <asapbellemare@gmail.com>,MIT License (with OpenAI/Anthropic Rider) Copyright (c) 2026 Arnaud Bellemare Permission is hereby…,58063815,Generative Engine Optimization toolkit — make websites visible to AI search engines
+2026-11-07T04:14:43Z,awsnav,0.1.0,Red Asgard,MIT,119185,"Every AWS service in your terminal: browse EC2, S3, Bedrock and 430+ services, and scan every region for what is running"
+2026-11-07T04:17:52Z,langchain-harny,0.1.0,Harny <platform@harny.ai>,Apache-2.0,48183,"Long-term memory for LangChain agents: recall what each person said, and when, with Harny."
+2026-11-07T04:18:07Z,agent-framework-harny,0.1.0b1,Harny <platform@harny.ai>,Apache-2.0,38651,Long-term memory for Microsoft Agent Framework agents: a context provider backed by Harny.
