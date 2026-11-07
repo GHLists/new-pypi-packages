@@ -1,20 +1,12 @@
 {
   "list": {
     "count": 41,
-    "from": "2026-11-07T17:18:57.599051Z",
-    "path": "data/new-packages-2026-11-07T18-18-22-483438Z.csv",
-    "to": "2026-11-07T18:18:22.483438Z"
+    "from": "2026-11-07T18:18:22.483438Z",
+    "path": "data/new-packages-2026-11-07T19-18-23-451667Z.csv",
+    "to": "2026-11-07T19:18:23.451667Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-11-07T14:23:35Z",
-      "package": "filbert",
-      "since": "2026-11-07T14:19:02.419631Z",
-      "version": null
-    }
-  ],
-  "serial": 43340098,
+  "pending": [],
+  "serial": 43341617,
   "source_truncated": false,
-  "window": "2026-11-07T18:18:22.483438Z"
+  "window": "2026-11-07T19:18:23.451667Z"
 }

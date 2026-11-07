@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T18:20:07Z,emode,0.1.0,"""EMode, Inc."" <hello@emodephotonix.com>",,5705,"Python interface for EMode, under its short name"
+2026-11-07T18:21:36Z,slashml-robotics,1.0.0,SlashML Robotics Inc.,Apache-2.0,31181,Official Robotics & Spatial Memory SDK for SlashML
+2026-11-07T18:21:37Z,flowglyph,0.1.0,Angel Fernandez <a.fernandez.tem@gmail.com>,Apache-2.0,864166,"Turn enterprise automations into a vendor-neutral IR that agents can discover, plan with and run safely."
+2026-11-07T18:24:42Z,django-pitchfork,0.1.0,,BSD-3-Clause,211505,"Rust-powered search for Django: the haystack-compatible search layer on pitchfork-engine (native Tantivy, Whoosh, Solr, Elasticsearch, Xapian)."
+2026-11-07T18:26:10Z,netlistmod,0.5.0,xdylanm,MIT,250009,A source-preserving SPICE netlist editing library
+2026-11-07T18:28:50Z,newskit,0.1.8,Les mainteneurs de Newskit,MIT,3447994,"Automated topic monitoring for Claude Code: collects your sources, writes one cited note per item and keeps a knowledge graph up to date."
+2026-11-07T18:29:06Z,jobsies,0.3.0,ofinke,MIT,375407,Task automation application
+2026-11-07T18:30:19Z,site-kit,1.0.0,Jasveer Singh,MIT,176691,"Is this static site ready to launch? A pre-launch audit, legal-page generator, widget fragments, a link page and a testimonials wall as one local CLI with a single launch-check receipt."
+2026-11-07T18:30:29Z,model-lab-tool,1.0.3,Omar Elhalaby,MIT,11954,A modular machine learning toolkit supporting classification and regression.
+2026-11-07T18:30:34Z,deriweave,0.4.0,DeriWeave contributors,MIT,1596160,Composable derivatives pricing with the native DeriWeave C++20 engine
+2026-11-07T18:31:50Z,fancy-fine-print,0.1.0,Particle Academy,"MIT License Copyright (c) 2026 Particle Academy Permission is hereby granted, free of charge, to an…",2723092,"Zero-dependency PDF reader for agentic docs: text in reading order, per-word boxes, and an agent-read guard against prompt injection. The Python port of PHP particle-academy/fine-print's reader (pari…"
+2026-11-07T18:33:34Z,acuqo,0.1.0,Acuqo <contact@acuqo.com>,,2858,Acuqo — Precision Software & System Engineering
+2026-11-07T18:39:22Z,pitchfork-engine,0.1.0,,BSD-3-Clause,5458462,"Rust-powered search engine for Django (drop-in for django-haystack backends): native Tantivy backend, wire codec, embedded and server modes."
+2026-11-07T18:39:41Z,slikui-python,0.1.1,slikui contributors,MIT,11628741,Python bindings for slikui — a header-only C++20 UI library
+2026-11-07T18:41:29Z,cslope,0.1.0,,MIT,16623671,"Slope stability analysis: limit equilibrium (Bishop, Janbu, Morgenstern-Price) and finite elements, from the cSlope engine"
+2026-11-07T18:42:13Z,fieldgraph,0.1.0,,,70468264,"Streaming dataflow and ML pipeline framework: ordered, versioned tables, a per-cell cache and SQL over everything."
+2026-11-07T18:45:27Z,karni-site,0.5.0,,Apache-2.0,319163,"Public websites for Karni: every text, image and menu editable in the admin, public forms, redirects, and error pages that cannot fail. Karni is an open-source Django + React framework for building w…"
+2026-11-07T18:45:31Z,karni-charts,0.5.0,,Apache-2.0,42292,"Saved charts for Karni: charts defined and previewed in the admin, served through each resource's aggregate action under its access. Karni is an open-source Django + React framework for building with…"
+2026-11-07T18:45:35Z,karni-reports,0.5.0,Chandrabhan Shekhawat <cbsshekhawat18@gmail.com>,Apache-2.0,74250,"Reports for Karni: a row printed to PDF from an HTML template in the background, cached by template and data, served only to users who may see the row. Karni is an open-source Django + React framewor…"
+2026-11-07T18:45:39Z,karni-ai,0.5.0,Chandrabhan Shekhawat <cbsshekhawat18@gmail.com>,Apache-2.0,90643,"Structured extraction for Karni: rows for any resource read from text, a web page or a PDF by a language model, always through the import preview. Karni is an open-source Django + React framework for…"
+2026-11-07T18:50:39Z,navprobe,0.1.0a1,Ahmet-Hamza-Cakmak,MIT AND Apache-2.0,5941679,Randomized navigation scenarios and simulation testing for mobile robots
+2026-11-07T18:50:54Z,accesspath,0.1.1,The accesspath maintainers,MIT,525603,"Website access audit (Site Architecture Profile): the simplest way that works to read a site, and what the site exposes to machines."
+2026-11-07T18:51:24Z,pfund-bybit,0.0.1,softwareentrepreneer,,60552,"Official Bybit trading venue plugin for `pfund`, can be used as a standalone Bybit trading API client built on pfund-blocks."
+2026-11-07T18:52:50Z,braynix-dev-mcp,2.2.0,Pranjal Yadav <2k24.cs1l.2410719@gmail.com>,MIT,172097,AI Engineering Operating System and local MCP server.
+2026-11-07T18:53:58Z,relaymcp-client,0.1.0,RelayMCP <admin@relaymcp.net>,MIT,10983,"Official, dependency-free Python client for RelayMCP inboxes, messages, OTPs, webhooks, and events."
+2026-11-07T18:54:20Z,interaction-eda-step,2026.11.7,Paul Saxe,BSD-3-Clause,398998,A SEAMM plug-in for Interaction EDA
+2026-11-07T18:56:57Z,nextloop,0.1.0rc1,12bitsD <bis12@163.com>,MIT,69862,"An embeddable AgentLoop with explicit event, tool, recovery, and delivery semantics"
+2026-11-07T18:57:39Z,scietex.adc-service,0.1.0,Anton Bondarenko <bond.anton@gmail.com>,MIT,54663,Scietex microservice daemon for SPI ADC devices
+2026-11-07T18:57:40Z,scietex.dac-service,0.1.0,Anton Bondarenko <bond.anton@gmail.com>,MIT,76372,Scietex microservice daemon for SPI DAC devices
+2026-11-07T18:59:38Z,pyturnering,0.1.0,Jérémy Pagès <jer.pages@tutanota.com>,MIT,25248,Python implementation for the FESA (European Shogi Federation) rating calculator.
+2026-11-07T19:00:14Z,opt-text,0.1.0,EvenYouBrutus,MIT,14087,One-Time Pad encryption for Unicode text (text-in / text-out).
+2026-11-07T19:04:23Z,sentiel,1.0.0,shinitihm,MIT,152485,Personal AI-powered SOC: Sigma detection + LLM triage with any model
+2026-11-07T19:04:33Z,pfeed-bybit,0.0.1,softwareentrepreneer,,15006,Bybit data source plugin for pfeed: historical and live market data from Bybit.
+2026-11-07T19:05:02Z,gcp-log-poc,0.0.2,,,8040,
+2026-11-07T19:07:54Z,cecilia,5.5.0,,GPL-3.0-or-later,1799097,Cecilia5 audio processing toolbox
+2026-11-07T19:08:24Z,jimbo-agent,0.1.0,,AGPL-3.0-or-later,711585,A simple coding agent built on Pydantic AI
+2026-11-07T19:10:03Z,hlmc,0.1.0,Brady <bradyreagan7@gamil.com>,,8737,A Minecraft Launcher
+2026-11-07T19:12:16Z,playbook-engine,2.0.0,"Athletes' Performance, Inc.",Apache-2.0,2936965,Corpus-to-playbook compiler emitting the Open Playbook Format (OPF)
+2026-11-07T19:13:12Z,subtitlemaker,0.1.0,Johan Isevind <codebyvibes@isevind.se>,MIT,324498,Generate subtitles from audio and video files using faster-whisper.
+2026-11-07T19:15:07Z,repolore-mcp,0.2.0,ryckakas <ryckakas@gmail.com>,MIT,496458,"RAG over your own engineering history on GitHub, with a CLI and an MCP server."
+2026-11-07T19:15:30Z,slopkeeper,0.1.0,Greg Brandt,MIT,207155,"A SlopKeeper for agent-slop corpora. Inventory, partition and scaffold messy file corpora into agent-navigable folder-bots. Agent-first CLI: JSON envelope, next-step hints, hard safety gates."
