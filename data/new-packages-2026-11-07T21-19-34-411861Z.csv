@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T20:20:37Z,malple-cli,0.1.1,TuluAI,MIT,33752,Use Malple from a terminal with a permission-scoped local workspace.
+2026-11-07T20:21:31Z,prefixsim,0.1.0,,Apache-2.0,21649264,"Python bindings for PrefixSim, the KV-block prefix-cache simulator"
+2026-11-07T20:23:21Z,sllmwiki,1.2.1,Mengjia Sun,GPL-3.0-or-later AND MIT-0,522308,The Structural LLM Wiki's commands: what the sllmwiki Claude Code plugin runs to keep a wiki of cited narratives in git.
+2026-11-07T20:23:21Z,switchit-harness,0.1.0,SwitchIt! contributors,MIT,171389,"Evidence-based migration of AI workflows between providers: import traces, replay them through adapters, and report what survives the switch."
+2026-11-07T20:23:50Z,lookuptest11,0.0.1,,,2467,
+2026-11-07T20:24:27Z,paddleocr-hebrew,0.1.1,Rivok Labs,Apache-2.0,57858,Hebrew OCR — PaddleOCR/SVTRv2 recognizers + a runnable page pipeline (word-DET + script-gated CTC->NRTR cascade)
+2026-11-07T20:24:46Z,axtb,0.1.0,Colton Hicks,GPL-3.0-only,4322985,"Extended tight binding (GFN2-xTB, g-xTB) and the GFN-FF force field: energies, gradients, Hessians, vibrational analysis"
+2026-11-07T20:25:52Z,openaxpp300s,0.1.1,,GPL-3.0-only,260245,"Open CLI, Python library and MCP server for the AX PP300S buck-boost bench power supply (AxinDIY) over its USB serial port, made for AI agents"
+2026-11-07T20:31:08Z,quivvo,0.1.0,,MIT,52718,Python SDK for Quivvo: Linux machines for AI agents.
+2026-11-07T20:32:27Z,brainstem-nwb,0.1.0,BrainSTEM Team,MIT,327901,Export BrainSTEM experimental metadata to Neurodata Without Borders (NWB) files
+2026-11-07T20:32:58Z,neuron-lang,1.0.1,,MIT,94467,AI-First Programming Language
+2026-11-07T20:36:08Z,pandas-dstoolkit,0.15.2,Rolando Rodriguez Jr.,MIT,227846,"Data cleaning and exploratory analysis helpers for pandas: duplicates, missing values, outliers, encoding, scaling, distributions and line fits"
+2026-11-07T20:37:29Z,agentring,0.2.0,agentring contributors,Apache-2.0,232656,Let any AI agent call your phone over VoIP and message you (daemon + CLI)
+2026-11-07T20:38:46Z,tinyjukebox,0.47.0,Tobias Gawron-Deutsch <tobias@strix.at>,MIT,5646778,"RFID-controlled audio player for albums: state machines, ffmpeg/aplay playback, REST API and web page."
+2026-11-07T20:39:55Z,tellegen,0.6.2,,MIT,47109389,"DC optimal power flow, AC power flow, SOCWR, and KKT sensitivities."
+2026-11-07T20:42:25Z,foxclaw,0.1.0,,,1243662,Foxclaw - Cognitive Agent Operating System built on HMR
+2026-11-07T20:42:28Z,memorybrain-mcp,0.1.0,Carlos Moya,MIT,9609,"Connect MemoryBrain (memorybrain.ai), a personal memory for ChatGPT and Claude with the source of every note, to your MCP clients."
+2026-11-07T20:42:43Z,agentsec-agentinbox,0.1.0,agentic-suite,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",1102667,"Local-first ask gate for consequential agent actions: ingests asks, renders decisions, records authenticated answers, and expires or denies by default."
+2026-11-07T20:44:31Z,gtdb-gplace,0.1.0,Pierre-Alain Chaumeil,GPL-3.0-only,6830297,"Exact, memory-bounded replacement for pplacer: the same phylogenetic placements with a fraction of the memory and time."
+2026-11-07T20:46:17Z,petra-lang,0.1.0,,Apache-2.0,852703,"Checks physical designs against their stated claims, with an exact-arithmetic certificate for every PASS and FAIL"
+2026-11-07T20:48:07Z,flagbearer-dev,0.1.0,,MIT,45022,Flagbearer Python SDK
+2026-11-07T20:49:52Z,ad-doctor,0.1.5,Burak Özer,MIT,1647694,"Read-only Active Directory misconfiguration audit: AD CS ESC, ACLs, Kerberos, delegation, GPO; SARIF and HTML reports"
+2026-11-07T20:49:59Z,gitignore-walk,0.0.1,,MIT,72953,Explain and traverse Git-ignore rules with explicit portable or Git-native scope.
+2026-11-07T20:55:36Z,winlog-hunter,0.2.0,Bryan Valenzuela,MIT,72498,"Detección de amenazas en logs de Windows (Security, System, Sysmon, PowerShell) mapeada a MITRE ATT&CK"
+2026-11-07T20:56:01Z,rubricate,0.1.0,Darshan Shah,Apache-2.0,103455,"Rubrics as code for AI evaluation: lint, calibrate, and enforce evaluation rubrics for LLM outputs and agent trajectories."
+2026-11-07T21:00:28Z,tryaii-router-h4,1.0.0,TryAII Team <ceo@tryaii.com>,Apache-2.0,14960671,"The prompt router of the tryaii SDK: H4, a Hebrew + English static embedding model with a classification head (numpy only, no PyTorch)."
+2026-11-07T21:00:53Z,speedrunpapi,0.3.2,Colony Technology,,18457,ᑕ. exact arithmetic circuit verification; Python entry to the shared Node engine
+2026-11-07T21:03:41Z,mcruft-pdfcraft-bin,0.13.0,,,30395057,
+2026-11-07T21:03:46Z,mcruft-pdfcraft-native,0.1.0,,Apache-2.0 AND (MIT OR Apache-2.0),1371546,
+2026-11-07T21:04:03Z,roomvana-mcp,0.1.2,Roomvana,MIT,93511,"MCP server for Roomvana — browse room types & design styles and get a direct link to the Roomvana studio. Redesign your house, yard or any room from a photo at https://roomvana.ai"
+2026-11-07T21:04:32Z,mcruft-photocraft-bin,0.15.1,,,34559542,
+2026-11-07T21:05:27Z,mcruft-vectorcraft-bin,0.16.0,,,53748019,
+2026-11-07T21:08:14Z,langchain-rushdb,0.1.0,RushDB Team <hi@rushdb.com>,Apache-2.0,237665,"LangChain and LangGraph integration for RushDB: vector store, hybrid retriever, long-term memory store and checkpointer, on RushDB Cloud or self-hosted"
+2026-11-07T21:08:38Z,pytriplesolar,0.1.0a1,Florian Schut,Apache-2.0,50730,Async library for Triple Solar PVT heat pumps over Modbus/TLS.
+2026-11-07T21:10:09Z,polyglot-stream-heal,0.1.0,David Charles Michael <davidchar@gmail.com>,MIT,380134,Sub-millisecond incremental O(n) Hierarchical Multi-Grammar Pushdown Transducer for streaming polyglot LLM output healing
+2026-11-07T21:11:01Z,llamawatch,0.6.0,Petru Huzur,AGPL-3.0-or-later,1404741,Self-hosted ops dashboard for local LLMs
+2026-11-07T21:15:39Z,varmir,0.0.1,,MIT,1986,Reserved for the official Varmir SDK (not released yet).
+2026-11-07T21:17:06Z,jobforge,0.1.0rc2,"Jesse Anderson, Mike Wilson",LicenseRef-PolyForm-Noncommercial-1.0.0,207239,"Tailored resumes and cover letters from your real work history, run locally, with every fact checked."
