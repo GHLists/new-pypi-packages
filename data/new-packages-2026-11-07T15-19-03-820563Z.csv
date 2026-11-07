@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T14:08:51Z,qx-finkit,0.3.1,Finkit Contributors,MIT OR Apache-2.0,17054903,"Rust-powered quantitative finance engine for indicators, formulas, factors, streaming analytics, and research workflows"
+2026-11-07T14:11:51Z,trame-vtkjs,0.1.0,"Kitware Inc., Paul Elliott",Apache Software License,2173288,vtk.js scene replication and shared-context rendering for trame
+2026-11-07T14:20:14Z,sandcovery,0.1.0,,,2339,Add your description here
+2026-11-07T14:25:08Z,aiovoipcenter,0.3.0,Bert Outtier,MIT,82611,Asyncio client for the VoipCenter (PBXonline) APIv2 and realtime call websocket
+2026-11-07T14:25:55Z,cursofiap-gabriel,1.0.0,seu nome,MIT,3400,Descricao da sua lib cursoFiap
+2026-11-07T14:30:17Z,adoor,0.1.2,Halmos Labs,MIT,51507,"ADoor for Python: shared PostgreSQL tables for notebooks, pipelines and eval sandboxes, with per-identity access, history and undo."
+2026-11-07T14:31:47Z,netforge-network-toolkit,0.1.0,NetForge Contributors,MIT,24011,A Python network and system toolkit
+2026-11-07T14:32:01Z,jupyter-omni-agent,0.3.0,Antigravity Lab <cdsassj00@gmail.com>,MIT,47399,Multi-provider & ChatGPT/Claude Subscription AI Agent with a Kernel-Direct Right Sidebar GUI for local Jupyter Notebooks.
+2026-11-07T14:32:45Z,rexact,0.2.0,,MIT OR Apache-2.0,17342,"Python bindings for Rexact: prove regex equivalence, find ReDoS, compare dialects"
+2026-11-07T14:34:00Z,scigantic-msa,0.2.2,Scigantic,MIT,119389,"Get a protein MSA once from the ColabFold MMseqs2 server, or bring your own A3M, and write the input files for AlphaFold 3, Boltz, Chai-1, ColabFold, OpenFold3 or Protenix."
+2026-11-07T14:34:16Z,shopline-qa-tools,1.0.0,,,38195,QA 常用工具包
+2026-11-07T14:35:36Z,torchMWRT,0.2.1,,GPL-3.0-only,95397,Microwave radiative transfer with PyTorch
+2026-11-07T14:40:50Z,arabicpdf,0.1.0,Youssef <youssef@users.noreply.github.com>,MIT,1439877,Convert any Arabic PDF to clean text with near-100% accuracy. Lightweight. 100% Local. No GPU required.
+2026-11-07T14:40:58Z,engagequeue,0.1.0,Daniel Blankenberg,MIT,239012,Durable local job execution for Python applications and the command line
+2026-11-07T14:46:07Z,PyLiite4,0.1.1,,LGPL-3.0-only,706833494,"Complete, typed Python bindings for GTK 4 and libadwaita"
+2026-11-07T14:46:23Z,tool-boundary-py,0.1.1,Eduard S,MIT,14515,"Find changes to AI tool arguments, results, and errors at framework boundaries"
+2026-11-07T14:46:36Z,ai-voiceover-studio,0.3.0,Miragea contributors,MIT,175649,"Open-source AI voiceover and faceless video generator: turn a script into text-to-speech narration, SRT subtitles and YouTube / Shorts / TikTok videos with word-by-word captions. Free voices, no API…"
+2026-11-07T14:47:26Z,PyLiite4-Addons,0.1.1,,LGPL-3.0-only,843431097,"WebKitGTK, libshumate, libspelling, VTE, Gom and libmanette for PyLiite4"
+2026-11-07T14:48:42Z,PyLiite4-Poppler,0.1.1,,LGPL-3.0-only AND (GPL-2.0-only OR GPL-3.0-only),22852777,"Poppler, for reading and drawing PDF documents, for PyLiite4 (GPL)"
+2026-11-07T14:49:54Z,textutils-saki,0.1.0,,MIT,12567,A lightweight Python library for common text-processing operations.
+2026-11-07T14:51:07Z,ollama-search-mcp,0.2.1,Alexander Kopper <code@knospi.com>,MIT,102127,MCP server exposing Ollama web search and web fetch as tools
+2026-11-07T14:52:59Z,valun,0.3.0,Fitz Doud,MIT,99475,"Let any AI agent make service-for-credit deals with other, independently controlled agents (MCP server, CLI, core). Experimental pilot: synthetic units, nothing settled."
+2026-11-07T14:53:27Z,fxprofiler,0.2.0,,MPL-2.0,36546,Create marker-only performance profiles in the Firefox Profiler.
+2026-11-07T14:53:33Z,agentfence-lab,0.1.0b1,AgentFence Lab contributors,Apache-2.0,5991305,"Evidence-first, offline-first security regression testing for AI coding agents."
+2026-11-07T14:54:17Z,edgevault,0.6.0,Vasiliynemix,MIT,178682,"Encrypted backups for your project: Postgres, SQLite, files and secrets to S3, Google Drive, Yandex Disk, SFTP — with Telegram alerts"
+2026-11-07T14:56:39Z,maisecrets,0.8.28,,Apache-2.0,1053911,Find secrets and personal data in text: the detection core of the maisecrets plugin
+2026-11-07T15:01:00Z,otgate,0.1.1,Ali K.,Apache-2.0,239550,OT-aware authorization gateway between an LLM agent and an industrial OPC UA server.
+2026-11-07T15:03:03Z,dennis-uppgift-2,0.1.0,,,6951,Projektuppgift 2
+2026-11-07T15:04:14Z,vinopilot,0.1.0,Karan Shukla,MIT,31390,"Terminal UI for vinoPilot: install, update and uninstall the vinoPilot apps"
+2026-11-07T15:08:20Z,openMWR,0.2.1,,GPL-3.0-only,363948,Training and applying microwave radiometer retrievals
+2026-11-07T15:09:20Z,holdcom,0.1.10,,MIT,41199,"On-demand serial take-over without resetting the MCU (picocom-like, no flow-control touch)."
+2026-11-07T15:10:20Z,codex-scoped-memory,0.4.0,lixuanfan567-png,MIT,62485,Project-isolated memory and compact engineering IR for Codex and DeepSeek Harness
+2026-11-07T15:16:35Z,heapspy,0.1.0,,MIT,4826072,"Find what keeps memory alive in a CPython process, from the outside"
+2026-11-07T15:16:51Z,fitini,0.1.0,VD Info,Apache-2.0,236440,"Fitini — du cas au dossier : moteur d'aide à l'investigation, hors-ligne et déterministe."

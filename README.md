@@ -8,62 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 14:19 UTC
+## Latest list — 2026-11-07 15:19 UTC
 
-New packages created between 2026-11-07 13:20 UTC and 2026-11-07 14:19 UTC.
+New packages created between 2026-11-07 14:19 UTC and 2026-11-07 15:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T14-19-02-419631Z.csv)
+[Full CSV](data/new-packages-2026-11-07T15-19-03-820563Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 13:21:38 | [tandemetry](https://pypi.org/project/tandemetry/) | 0.0.1 | Yevhenii Korniev | 12.5 kB | Self-hosted analytics for AI coding agents versus human-authored work. |
-| 2026-11-07 13:21:47 | [testlens](https://pypi.org/project/testlens/) | 0.3.1 | yanjike | 159.4 kB | 本地测试面板：脚本清单、变更检测、运行历史、代码覆盖率，零运行时依赖 |
-| 2026-11-07 13:22:57 | [azurkit](https://pypi.org/project/azurkit/) | 1.0.0 |  | 30.8 MB | Patch packs, sliders, a randomizer and character swaps for Azurik: Rise of Pera… |
-| 2026-11-07 13:23:10 | [navya](https://pypi.org/project/navya/) | 1.0.0 | Python Developer | 2.8 kB | My own Python patterns package |
-| 2026-11-07 13:24:07 | [worldmoneywords](https://pypi.org/project/worldmoneywords/) | 2.5.1 | Md Ikram | 65.6 kB | Python amount-to-words library with multilingual currency wording and 200-count… |
-| 2026-11-07 13:25:13 | [import-linter-ls](https://pypi.org/project/import-linter-ls/) | 0.1.0 | daniprol | 15.7 kB | A language server for import-linter: see contract errors and import violations… |
-| 2026-11-07 13:25:44 | [sql2deltalake](https://pypi.org/project/sql2deltalake/) | 0.1.0rc1 | Adrian Ehrsam <adrian.ehrsam@… | 44.8 MB | Incremental loads from SQL Server and Postgres into append-only SCD2 Delta Lake… |
-| 2026-11-07 13:26:38 | [envref](https://pypi.org/project/envref/) | 0.1.0 | Sebastian Haglund | 43.9 kB | A .env where any value can be a reference into a secret store, resolved at load… |
-| 2026-11-07 13:29:37 | [cassiopee-connector](https://pypi.org/project/cassiopee-connector/) | 2026.11 | ONERA | 2.8 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-07 13:29:39 | [cassiopee-dist2walls](https://pypi.org/project/cassiopee-dist2walls/) | 2026.11 | ONERA | 1.2 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-07 13:29:43 | [cassiopee-apps](https://pypi.org/project/cassiopee-apps/) | 2026.11 | ONERA | 187.0 kB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-07 13:29:45 | [cassiopee-xcore](https://pypi.org/project/cassiopee-xcore/) | 2026.11 | ONERA | 2.9 MB | Computational Fluid Dynamics pre- and post-processing python modules |
-| 2026-11-07 13:30:27 | [modeldiet](https://pypi.org/project/modeldiet/) | 0.1.0 |  | 53.1 kB | Profile inference performance and resource usage of trained models |
-| 2026-11-07 13:31:58 | [nnserve](https://pypi.org/project/nnserve/) | 0.0.1 | Jiau Zhang <jiauzhang@163.com> | 72.2 kB | Inference serving for neural network models |
-| 2026-11-07 13:33:15 | [sigmoid-ferry](https://pypi.org/project/sigmoid-ferry/) | 0.1.0 | Usmon N | 78.0 kB | Run your Hunch experiments on a GPU machine over SSH, and bring every run home. |
-| 2026-11-07 13:37:51 | [astra-airway](https://pypi.org/project/astra-airway/) | 0.3.0 |  | 28.2 kB | Standalone 3D airway segmentation using ASTRA-Net and reference models |
-| 2026-11-07 13:38:34 | [promptwall-agent](https://pypi.org/project/promptwall-agent/) | 0.3.0 | Abhigyan Varma | 3.9 MB | Prompt-injection firewall for browsing agents: finds hidden instructions in web… |
-| 2026-11-07 13:39:03 | [nntrain](https://pypi.org/project/nntrain/) | 0.0.1 | Jiau Zhang <jiauzhang@163.com> | 26.0 kB | Training runtime for nnm models |
-| 2026-11-07 13:42:33 | [local-ai-cli](https://pypi.org/project/local-ai-cli/) | 0.0.1 | Local AI CLI contributors | 7.4 kB | A one-screen Local AI CLI beta for testing pip installation. |
-| 2026-11-07 13:42:54 | [ai-research-toolkit](https://pypi.org/project/ai-research-toolkit/) | 1.1.1 | Mrkomiljon | 115.9 kB | Local-first, skill-based research workflow toolkit for Claude Code and OpenAI C… |
-| 2026-11-07 13:42:57 | [anker-prime-driver](https://pypi.org/project/anker-prime-driver/) | 0.7.3 | didim99 | 267.0 kB | Monitoring and control library for Anker Prime chargers |
-| 2026-11-07 13:44:45 | [pars-turkce-dil](https://pypi.org/project/pars-turkce-dil/) | 1.0.1 | PARS Topluluğu | 223.6 kB | PARS — Türkçe Programlama Dili. Pars gibi hızlı. Türkçe gibi güzel. |
-| 2026-11-07 13:44:47 | [dynaconf-sops](https://pypi.org/project/dynaconf-sops/) | 0.1.0 | Leif Jakob <leif.jakob@gmail.… | 70.3 kB | Lazy @sops token for Dynaconf: reference values in SOPS-encrypted files directl… |
-| 2026-11-07 13:46:07 | [amend-va](https://pypi.org/project/amend-va/) | 0.1.0 | manasdhir976 | 34.1 kB | AMEND and AMEND@0: an LLM-judge minimum-edit metric for dictation tools |
-| 2026-11-07 13:46:56 | [lupaxa-protect](https://pypi.org/project/lupaxa-protect/) | 0.1.0 | The Lupaxa Project | 37.7 kB | Keep a sidecar copy of a file so you can edit locally and restore it before com… |
-| 2026-11-07 13:47:25 | [reposentry](https://pypi.org/project/reposentry/) | 0.1.0 | RepoSentry contributors | 22.0 kB | Evidence-first CLI for repository and dependency safety review |
-| 2026-11-07 13:47:58 | [kfm-cli](https://pypi.org/project/kfm-cli/) | 0.1.1 |  | 6.9 MB | kfm: the Kung Fu Monkeys bot ladder from the command line (log in, build, test,… |
-| 2026-11-07 13:49:20 | [bcsfekorea](https://pypi.org/project/bcsfekorea/) | 3.6.0.post1 | fieryhenry | 615.4 kB | 냥코 대전쟁 세이브 에디터 (BCSFE) 비공식 한국어판 - Unofficial Korean edition of BCSFE |
-| 2026-11-07 13:52:03 | [vulpes-ems](https://pypi.org/project/vulpes-ems/) | 0.1.0 |  | 7.3 MB | Home energy management core: solar/load/price forecasting and ESS mode optimiza… |
-| 2026-11-07 13:53:22 | [flocta-wire](https://pypi.org/project/flocta-wire/) | 0.0.0 | Flocta GmbH | 1.8 kB | Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality. |
-| 2026-11-07 13:54:18 | [karma365](https://pypi.org/project/karma365/) | 0.2.0 |  | 52.3 kB | Add to your KARMA 365 library from Python. Your data stays on your phone. |
-| 2026-11-07 13:54:55 | [kaos-cleaner](https://pypi.org/project/kaos-cleaner/) | 0.1.2 | Rainer Rodrigues | 233.6 MB | High-throughput CSV cleaner powered by a pre-compiled Julia engine, returning A… |
-| 2026-11-07 13:55:02 | [llama-index-tools-suno-acedatacloud](https://pypi.org/project/llama-index-tools-suno-acedatacloud/) | 0.1.0 | Ace Data Cloud <dev@acedata.c… | 23.1 kB | Suno by Ace Data Cloud: native LlamaIndex music generation and task retrieval t… |
-| 2026-11-07 13:56:08 | [llama-index-tools-seedance-acedatacloud](https://pypi.org/project/llama-index-tools-seedance-acedatacloud/) | 0.1.0 | Ace Data Cloud <dev@acedata.c… | 25.0 kB | Seedance by Ace Data Cloud: native LlamaIndex video generation and task retriev… |
-| 2026-11-07 13:56:15 | [protocentral-easyecg](https://pypi.org/project/protocentral-easyecg/) | 0.2.0 | Protocentral Electronics <inf… | 32.0 kB | MicroPython + Raspberry Pi driver for the Protocentral easyECG single-lead ECG… |
-| 2026-11-07 13:56:38 | [protocentral-easyemg](https://pypi.org/project/protocentral-easyemg/) | 0.2.0 | Protocentral Electronics <inf… | 40.3 kB | MicroPython + Raspberry Pi driver for the Protocentral easyEMG surface EMG brea… |
-| 2026-11-07 13:56:41 | [dirconn](https://pypi.org/project/dirconn/) | 0.1.0 | Hanwei Liu <Liu_H@ukw.de> | 4.8 MB | Directed functional connectivity for neurophysiology signals at sensor and regi… |
-| 2026-11-07 13:57:18 | [nezaret](https://pypi.org/project/nezaret/) | 0.1.0 | Aslan Satary Dizaji | 113.6 kB | Find MONAI pipeline faults that do not raise errors: misaligned labels, interpo… |
-| 2026-11-07 13:57:37 | [lmspell](https://pypi.org/project/lmspell/) | 1.0.0 | LMSpell authors | 96.3 kB | Spell correction with pre-trained language models (encoder, decoder and encoder… |
-| 2026-11-07 13:58:58 | [doorcheck](https://pypi.org/project/doorcheck/) | 0.1.0a1 | nimbleengineer21 | 474.1 kB | See what a Home Assistant integration can do before you let it in. |
-| 2026-11-07 14:00:04 | [arc56-generated-samya-8dfc9b4b](https://pypi.org/project/arc56-generated-samya-8dfc9b4b/) | 1.1.2026110713 | SamyaDeb | 33.1 kB | Generated ARC-56 Algorand smart-contract clients for SamyaDeb/ChainPeBinary. |
-| 2026-11-07 14:00:04 | [notmuch-browser](https://pypi.org/project/notmuch-browser/) | 0.2.0rc1 | Guilhem Lavaux | 147.9 kB | A small local web UI to browse and tag a notmuch mail database |
-| 2026-11-07 14:04:36 | [pyissues](https://pypi.org/project/pyissues/) | 0.0.1a0 | "High Dimensional Neurology G… | 4.0 kB | A simple base class for defining issues (errors, warnings, infos) and their loc… |
-| 2026-11-07 14:08:30 | [facturx-api](https://pypi.org/project/facturx-api/) | 0.1.0 |  | 38.0 kB | Python client for the FacturX API: dry run, Factur-X PDF/A-3 conversion, valida… |
-| 2026-11-07 14:09:29 | [facturx-mcp](https://pypi.org/project/facturx-mcp/) | 0.1.0 |  | 17.9 kB | Official MCP server for the FacturX API: dry run, Factur-X conversion, validati… |
-| 2026-11-07 14:10:56 | [sebpay](https://pypi.org/project/sebpay/) | 0.2.0 | Sebpay | 20.3 kB | Official Python SDK for Sebpay hosted checkout — create a checkout session, red… |
-| 2026-11-07 14:11:40 | [elinaobs](https://pypi.org/project/elinaobs/) | 0.1.0 | ElinaObs Contributors | 31.0 kB | Framework-agnostic Python LLM tracing using OpenTelemetry |
-| 2026-11-07 14:15:57 | [pypinyin-g2pS](https://pypi.org/project/pypinyin-g2pS/) | 0.1.0 |  | 2.7 kB | pypinyin adapter for g2pS (numpy/onnx/torch backends) |
-| 2026-11-07 14:16:10 | [g2ps](https://pypi.org/project/g2ps/) | 0.1.0 |  | 2.1 MB | Mandarin polyphone disambiguation, numpy-only inference |
-| 2026-11-07 14:16:22 | [g2ps-onnx](https://pypi.org/project/g2ps-onnx/) | 0.1.0 |  | 5.1 MB | g2pS ONNX backend (GPU-capable) |
-| 2026-11-07 14:17:07 | [g2ps-torch](https://pypi.org/project/g2ps-torch/) | 0.1.0 |  | 4.1 MB | g2pS PyTorch backend (GPU + fp16) |
+| 2026-11-07 14:08:51 | [qx-finkit](https://pypi.org/project/qx-finkit/) | 0.3.1 | Finkit Contributors | 17.1 MB | Rust-powered quantitative finance engine for indicators, formulas, factors, str… |
+| 2026-11-07 14:11:51 | [trame-vtkjs](https://pypi.org/project/trame-vtkjs/) | 0.1.0 | Kitware Inc., Paul Elliott | 2.2 MB | vtk.js scene replication and shared-context rendering for trame |
+| 2026-11-07 14:20:14 | [sandcovery](https://pypi.org/project/sandcovery/) | 0.1.0 |  | 2.3 kB | Add your description here |
+| 2026-11-07 14:25:08 | [aiovoipcenter](https://pypi.org/project/aiovoipcenter/) | 0.3.0 | Bert Outtier | 82.6 kB | Asyncio client for the VoipCenter (PBXonline) APIv2 and realtime call websocket |
+| 2026-11-07 14:25:55 | [cursofiap-gabriel](https://pypi.org/project/cursofiap-gabriel/) | 1.0.0 | seu nome | 3.4 kB | Descricao da sua lib cursoFiap |
+| 2026-11-07 14:30:17 | [adoor](https://pypi.org/project/adoor/) | 0.1.2 | Halmos Labs | 51.5 kB | ADoor for Python: shared PostgreSQL tables for notebooks, pipelines and eval sa… |
+| 2026-11-07 14:31:47 | [netforge-network-toolkit](https://pypi.org/project/netforge-network-toolkit/) | 0.1.0 | NetForge Contributors | 24.0 kB | A Python network and system toolkit |
+| 2026-11-07 14:32:01 | [jupyter-omni-agent](https://pypi.org/project/jupyter-omni-agent/) | 0.3.0 | Antigravity Lab <cdsassj00@gm… | 47.4 kB | Multi-provider & ChatGPT/Claude Subscription AI Agent with a Kernel-Direct Righ… |
+| 2026-11-07 14:32:45 | [rexact](https://pypi.org/project/rexact/) | 0.2.0 |  | 17.3 kB | Python bindings for Rexact: prove regex equivalence, find ReDoS, compare dialec… |
+| 2026-11-07 14:34:00 | [scigantic-msa](https://pypi.org/project/scigantic-msa/) | 0.2.2 | Scigantic | 119.4 kB | Get a protein MSA once from the ColabFold MMseqs2 server, or bring your own A3M… |
+| 2026-11-07 14:34:16 | [shopline-qa-tools](https://pypi.org/project/shopline-qa-tools/) | 1.0.0 |  | 38.2 kB | QA 常用工具包 |
+| 2026-11-07 14:35:36 | [torchMWRT](https://pypi.org/project/torchMWRT/) | 0.2.1 |  | 95.4 kB | Microwave radiative transfer with PyTorch |
+| 2026-11-07 14:40:50 | [arabicpdf](https://pypi.org/project/arabicpdf/) | 0.1.0 | Youssef <youssef@users.norepl… | 1.4 MB | Convert any Arabic PDF to clean text with near-100% accuracy. Lightweight. 100%… |
+| 2026-11-07 14:40:58 | [engagequeue](https://pypi.org/project/engagequeue/) | 0.1.0 | Daniel Blankenberg | 239.0 kB | Durable local job execution for Python applications and the command line |
+| 2026-11-07 14:46:07 | [PyLiite4](https://pypi.org/project/PyLiite4/) | 0.1.1 |  | 706.8 MB | Complete, typed Python bindings for GTK 4 and libadwaita |
+| 2026-11-07 14:46:23 | [tool-boundary-py](https://pypi.org/project/tool-boundary-py/) | 0.1.1 | Eduard S | 14.5 kB | Find changes to AI tool arguments, results, and errors at framework boundaries |
+| 2026-11-07 14:46:36 | [ai-voiceover-studio](https://pypi.org/project/ai-voiceover-studio/) | 0.3.0 | Miragea contributors | 175.6 kB | Open-source AI voiceover and faceless video generator: turn a script into text-… |
+| 2026-11-07 14:47:26 | [PyLiite4-Addons](https://pypi.org/project/PyLiite4-Addons/) | 0.1.1 |  | 843.4 MB | WebKitGTK, libshumate, libspelling, VTE, Gom and libmanette for PyLiite4 |
+| 2026-11-07 14:48:42 | [PyLiite4-Poppler](https://pypi.org/project/PyLiite4-Poppler/) | 0.1.1 |  | 22.9 MB | Poppler, for reading and drawing PDF documents, for PyLiite4 (GPL) |
+| 2026-11-07 14:49:54 | [textutils-saki](https://pypi.org/project/textutils-saki/) | 0.1.0 |  | 12.6 kB | A lightweight Python library for common text-processing operations. |
+| 2026-11-07 14:51:07 | [ollama-search-mcp](https://pypi.org/project/ollama-search-mcp/) | 0.2.1 | Alexander Kopper <code@knospi… | 102.1 kB | MCP server exposing Ollama web search and web fetch as tools |
+| 2026-11-07 14:52:59 | [valun](https://pypi.org/project/valun/) | 0.3.0 | Fitz Doud | 99.5 kB | Let any AI agent make service-for-credit deals with other, independently contro… |
+| 2026-11-07 14:53:27 | [fxprofiler](https://pypi.org/project/fxprofiler/) | 0.2.0 |  | 36.5 kB | Create marker-only performance profiles in the Firefox Profiler. |
+| 2026-11-07 14:53:33 | [agentfence-lab](https://pypi.org/project/agentfence-lab/) | 0.1.0b1 | AgentFence Lab contributors | 6.0 MB | Evidence-first, offline-first security regression testing for AI coding agents. |
+| 2026-11-07 14:54:17 | [edgevault](https://pypi.org/project/edgevault/) | 0.6.0 | Vasiliynemix | 178.7 kB | Encrypted backups for your project: Postgres, SQLite, files and secrets to S3,… |
+| 2026-11-07 14:56:39 | [maisecrets](https://pypi.org/project/maisecrets/) | 0.8.28 |  | 1.1 MB | Find secrets and personal data in text: the detection core of the maisecrets pl… |
+| 2026-11-07 15:01:00 | [otgate](https://pypi.org/project/otgate/) | 0.1.1 | Ali K. | 239.6 kB | OT-aware authorization gateway between an LLM agent and an industrial OPC UA se… |
+| 2026-11-07 15:03:03 | [dennis-uppgift-2](https://pypi.org/project/dennis-uppgift-2/) | 0.1.0 |  | 7.0 kB | Projektuppgift 2 |
+| 2026-11-07 15:04:14 | [vinopilot](https://pypi.org/project/vinopilot/) | 0.1.0 | Karan Shukla | 31.4 kB | Terminal UI for vinoPilot: install, update and uninstall the vinoPilot apps |
+| 2026-11-07 15:08:20 | [openMWR](https://pypi.org/project/openMWR/) | 0.2.1 |  | 363.9 kB | Training and applying microwave radiometer retrievals |
+| 2026-11-07 15:09:20 | [holdcom](https://pypi.org/project/holdcom/) | 0.1.10 |  | 41.2 kB | On-demand serial take-over without resetting the MCU (picocom-like, no flow-con… |
+| 2026-11-07 15:10:20 | [codex-scoped-memory](https://pypi.org/project/codex-scoped-memory/) | 0.4.0 | lixuanfan567-png | 62.5 kB | Project-isolated memory and compact engineering IR for Codex and DeepSeek Harne… |
+| 2026-11-07 15:16:35 | [heapspy](https://pypi.org/project/heapspy/) | 0.1.0 |  | 4.8 MB | Find what keeps memory alive in a CPython process, from the outside |
+| 2026-11-07 15:16:51 | [fitini](https://pypi.org/project/fitini/) | 0.1.0 | VD Info | 236.4 kB | Fitini — du cas au dossier : moteur d'aide à l'investigation, hors-ligne et dét… |
