@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-11-07T06:18:41.384909Z",
-    "path": "data/new-packages-2026-11-07T07-19-15-261896Z.csv",
-    "to": "2026-11-07T07:19:15.261896Z"
+    "count": 33,
+    "from": "2026-11-07T07:19:15.261896Z",
+    "path": "data/new-packages-2026-11-07T08-18-46-125815Z.csv",
+    "to": "2026-11-07T08:18:46.125815Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-07T06:55:32Z",
       "package": "langchain-modular-rag-hyc",
       "since": "2026-11-07T06:18:41.384909Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-07T06:58:06Z",
       "package": "xxd-modular-rag",
       "since": "2026-11-07T06:18:41.384909Z",
       "version": "0.1.0"
     }
   ],
-  "serial": 43324724,
+  "serial": 43325876,
   "source_truncated": false,
-  "window": "2026-11-07T07:19:15.261896Z"
+  "window": "2026-11-07T08:18:46.125815Z"
 }

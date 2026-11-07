@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T07:19:17Z,seampact-ninja,1.0.0,,MIT,43760,The Django Ninja target of seampact: its generator and the placement runtime of the generated code.
+2026-11-07T07:20:30Z,langchain-ass-001,0.1.0,,,10319,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:22:43Z,aidancevideo-replay-windows,0.1.0,,LicenseRef-NoLicenseGrant,6971,Validate local video replay windows and export their timestamps as CSV.
+2026-11-07T07:23:48Z,langchain-litianyu-rag,0.1.0,,,4214,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:24:40Z,langchain-sjy-test,0.1.0,,,4127,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:25:34Z,langchain-jian-workflow-rag,0.1.0,,,4294,A workflow RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:28:08Z,drakun-lakehouse-core,0.6.1,,,172280,"The lakehouse as the signed-in user: Lakekeeper catalog browsing, dataset files and previews (shared by the JupyterLab explorer, the agent MCP server and the IDE extension)."
+2026-11-07T07:28:43Z,burstgate,0.1.0,Hamidreza <h4midrezam@gmail.com>,MIT,51916,"Resilient, zero-dependency rate limiting, dual-resource token budgeting (RPM/TPM), and adaptive concurrency control for Python."
+2026-11-07T07:28:58Z,genblaze-atlascloud,0.1.0,Security Researcher (Bugcrowd),,1983,Authorized security-research canary for Bugcrowd report (installation telemetry only)
+2026-11-07T07:29:08Z,langchain-modular-rag-hycc,0.1.0,,,10616,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:31:08Z,aalamb-langchain-modular-rag,0.1.0,,MIT,2646,Modular RAG pipeline built with LangChain
+2026-11-07T07:31:42Z,misayafff-modular-rag,0.1.0,,,10362,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:31:52Z,debscout,0.1.1,Manish Sharma,MIT,60371,"Find the fastest up-to-date Debian mirrors and configure apt to use them, with automatic fallback"
+2026-11-07T07:32:54Z,genblaze-fal,0.1.0,Security Researcher (Bugcrowd),,1955,Authorized security-research canary for Bugcrowd report (installation telemetry only)
+2026-11-07T07:33:55Z,langchain-modular-zeq,0.1.0,,,10381,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:34:07Z,langchain-modular-rag-cjx,0.1.0,,,10453,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:35:20Z,sssyyy-langchain-modular-rag,0.1.0,,,2626,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:35:48Z,frost-gnn,0.3.1,,"MIT License Copyright (c) 2026 FROST contributors Permission is hereby granted, free of charge, to…",4489142,Multi-GPU temporal graph neural networks for recommendation systems.
+2026-11-07T07:37:06Z,super-langchain-modular-rag-hty,0.1.0,,,4309,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:40:14Z,yyq-rag-utils,0.1.0,yangyuqian,,8798,模块化 RAG 检索工具：向量检索、BM25 混合检索、RRF 融合、重排与上下文压缩
+2026-11-07T07:43:42Z,stunningly-slick-and-epic-RAG-Model,0.1.0,,,4383,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:44:05Z,feedscope,0.1.0,howardli,MIT,589754,"FeedScope (观流): a terminal feed reader — Zhihu / X / Reddit / HN / V2EX / RSS / Telegram, all in one terminal"
+2026-11-07T07:44:56Z,noir-modular-rag,0.1.0,,MIT,22762,"Modular retrieval with Chroma, BM25, DashScope, and OpenAI."
+2026-11-07T07:45:13Z,jearless,0.10.4,Andrei Zakhrebetkov,MIT,63486,Fearless. Jearless. Task tracking and a changelog on bare git — for small teams.
+2026-11-07T07:49:38Z,shuaigang-rag,0.1.0,,,4089,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:51:47Z,mkdocs-chess-plugin,0.1.0,,,100015,Playable chess and xiangqi boards in MkDocs from FEN
+2026-11-07T07:56:32Z,langchain-hundaren-rag,0.1.0,,,10376,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:58:51Z,tn-venv-create-activate,0.1.0,Evan Yang <quantbit@126.com>,Tokenoodle-Everything License Version: 1.0 Copyright (c) 2026 Tokenoodle-Everything Organization Pe…,21926,A tn-venv plugin that activates the new environment when creating a new one
+2026-11-07T08:03:40Z,pylgframework,0.1.0,Moisés Frutos Plaza,MIT,30083,Local Group barycentre with propagated observational uncertainty (Monte Carlo)
+2026-11-07T08:07:01Z,africa-tts,0.1.0,AfriSpeech / Ghana NLP,MIT,819323,"Fast, CPU-friendly text-to-speech for 92 African languages and English (Pocket TTS)"
+2026-11-07T08:16:03Z,flocta,0.0.0,Flocta GmbH,LicenseRef-Proprietary,1731,"Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality."
+2026-11-07T08:16:04Z,flocta-cli,0.0.0,Flocta GmbH,LicenseRef-Proprietary,1774,"Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality."
+2026-11-07T08:16:05Z,flocta-schemas,0.0.0,Flocta GmbH,LicenseRef-Proprietary,1819,"Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality."
