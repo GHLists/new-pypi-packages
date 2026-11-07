@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T09:22:15Z,auto-eeg-analysis,0.3.3rc2,Dengzhe Hou,MIT AND CC-BY-4.0,3372074,Reusable EEG analysis skills and study recipes for large language model agents
+2026-11-07T09:29:20Z,austial-microservices,0.5.0,,,58457,"Message-driven applications: @MessagePattern / @EventPattern handlers served over TCP, in-process, Redis (Pub/Sub and Streams), NATS, Kafka, MQTT, RabbitMQ and gRPC (JSON or protobuf with streaming),…"
+2026-11-07T09:35:00Z,netbox-inventree-sync,0.1.0,Eduardo Soares <edurbs@gmail.com>,MIT,228275,Synchronize NetBox inventory data to InvenTree
+2026-11-07T09:35:21Z,nivaria,0.11.0,René de Hesselle <dehesselle@web.de>,0BSD,657301,A TUI for quickly browsing and searching Snowflake objects
+2026-11-07T09:39:16Z,liquicent-decisiontrace,0.1.0,Liquicent,Apache-2.0,272326,"Record why your AI made a decision, at the moment it's made. Local-first, tamper-evident decision traces."
+2026-11-07T09:39:40Z,aegis-crypto,1.0.0,Your Name <your.email@example.com>,MIT No Attribution / Non-Resale Educational License,7209,Educational hybrid encryption library using custom SHA-1028 key stretching and ChaCha20-Poly1305
+2026-11-07T09:44:06Z,avocado-framework-plugin-varianter-cartconf,0.1.0,Avocado Developers <avocado-devel@redhat.com>,,1256039,Avocado Varianter plugin to parse Cartesian configuration into variants
+2026-11-07T09:47:16Z,maplibre-native-ffi-runtime-opengl-mingw,0.202611.0,,BSD-2-Clause,17725681,MinGW OpenGL runtime for the maplibre-native-ffi Python binding
+2026-11-07T09:47:16Z,maplibre-native-ffi-runtime-vulkan-mingw,0.202611.0,,BSD-2-Clause,19738618,MinGW Vulkan runtime for the maplibre-native-ffi Python binding
+2026-11-07T09:48:34Z,langchain-modular-rag-zjj,0.1.0,zjj <you@example.com>,,10465,基于 LangChain 的模块化 RAG 示例
+2026-11-07T09:48:46Z,qzc690382,1.0.0,,,1604,
+2026-11-07T09:49:28Z,langchain-jian-modular-rag,0.1.0,,,10633,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T09:50:31Z,qzc690383,1.0.0,,,1881,
+2026-11-07T09:51:01Z,dyeroom,0.4.0,Djordje Janjic,AGPL-3.0-or-later,77994758,Dyeroom: digital photographs developed through a physically simulated colour slide film and reversal process
+2026-11-07T09:52:27Z,qzc690384,1.0.0,,,1589,
+2026-11-07T09:53:53Z,qzc690385,1.0.3,,,1294,
+2026-11-07T09:54:21Z,coalitionkit-conformance,0.1.0,Hesham Salama,Apache-2.0,26536,Black-box Coalition Protocol conformance probes
+2026-11-07T09:54:23Z,coalitionkit-contracts,0.1.0,Hesham Salama,Apache-2.0,111234,"CoalitionKit Core contracts: envelope, payload models, JCS, signing and schema validation"
+2026-11-07T09:54:24Z,coalitionkit-edges,0.1.0,Hesham Salama,Apache-2.0,22231,"CoalitionKit edges: the A2A host and member edge, and card identity"
+2026-11-07T09:54:25Z,coalitionkit-gardener,0.1.0,Hesham Salama,Apache-2.0,18982,"CoalitionKit Gardener: deterministic planning core (strategies, plan sets, tensions, ripples)"
+2026-11-07T09:55:27Z,amagi-codetour,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,83673,"Generate a VS Code CodeTour (.tours/*.tour) for any repo: entry point first, 8-15 key files, every line anchor checked against the code."
+2026-11-07T09:57:15Z,datex2-xml2json,0.0.1,Holger Bruch,EUPL-1.2,1072054,PoC converting DATEX2 v2 (situation) publications to various output formats.
+2026-11-07T09:58:37Z,trace-agent-lang,0.1.0a2,Trace Contributors,Apache-2.0,172534,Agent-native computation language & durable transaction runtime with Lean 4 verified invariants
+2026-11-07T09:59:01Z,smithy-checksums,0.0.0,AI Research Team <Ai-model@example.com>,,7729,A professional-grade AI utility for automated data synchronization and backend management.
+2026-11-07T09:59:04Z,likyly,1.0.0,LIKYLY,MIT,51922,"Product recommendations for your site (""You may also like"", ""Recommended for you""), learned from what your visitors do. Official LIKYLY client for Python."
+2026-11-07T10:00:07Z,morphy-cli,0.5.0,Ananya Kalia <ananyakalia2704@gmail.com>,,57134,MORPHY — governed natural-language database terminal
+2026-11-07T10:03:44Z,oss-s3-client,0.1.0,OSS Server Team,"Copyright (c) 2026 OSS Server contributors Permission is hereby granted, free of charge, to any per…",76934,"Official Python client SDK for the S3-compatible OSS server (SigV4, path-style, zero dependencies)"
+2026-11-07T10:06:44Z,scietex.hal.dac,0.1.0,Anton Bondarenko <bond.anton@gmail.com>,"MIT License Copyright (c) 2025 Anton Bondarenko Permission is hereby granted, free of charge, to an…",48460,Digital-to-analog converters and digital potentiometers
+2026-11-07T10:09:27Z,biletall-mcp,0.1.0,Mohammad Abbasi,MIT,259275,"Unofficial read-only MCP server for biletall.com bus & flight tickets (routes, journeys, prices, popular routes)"
+2026-11-07T10:10:42Z,litscan-2,0.0.1,,,14837624,
+2026-11-07T10:16:03Z,parquetscope,0.3.0,,Apache-2.0,6661337,"Visualize DuckDB’s Parquet range reads, map them to file structure, and compare query runs."
