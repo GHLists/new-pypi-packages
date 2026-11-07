@@ -8,31 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 04:19 UTC
+## Latest list — 2026-11-07 05:18 UTC
 
-New packages created between 2026-11-07 03:19 UTC and 2026-11-07 04:19 UTC.
+New packages created between 2026-11-07 04:19 UTC and 2026-11-07 05:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T04-19-35-120609Z.csv)
+[Full CSV](data/new-packages-2026-11-07T05-18-46-450526Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 03:29:02 | [mediasense](https://pypi.org/project/mediasense/) | 0.5.0 |  | 261.5 kB | Give Claude ears and eyes: understand, summarize and edit audio/video files or… |
-| 2026-11-07 03:32:09 | [spsrfclient](https://pypi.org/project/spsrfclient/) | 0.0.0 |  | 892 B | Namespace placeholder reserved by Squarepoint IT Security. Not for public use. |
-| 2026-11-07 03:34:14 | [finances](https://pypi.org/project/finances/) | 0.3.1 | roshanlam | 1.1 MB | See where your money goes from your own bank statements and exports, checked ag… |
-| 2026-11-07 03:34:46 | [seqCompare](https://pypi.org/project/seqCompare/) | 1.0.0 | Chrispin Chaguza <chrispin.ch… | 27.2 kB | seqCompare: A toolkit for sequence similarity analysis |
-| 2026-11-07 03:35:12 | [anonrouter-sdk](https://pypi.org/project/anonrouter-sdk/) | 0.1.0 | AnonRouter | 13.1 kB | The AnonRouter Python package: verified routes and encrypted inference. |
-| 2026-11-07 03:35:21 | [pexels-mcp](https://pypi.org/project/pexels-mcp/) | 1.0.1 | aqiu | 41.6 kB | MCP + CLI toolkit to search and download free Pexels stock images/videos. No AP… |
-| 2026-11-07 03:38:11 | [issyx-sign](https://pypi.org/project/issyx-sign/) | 1.0.0 | Issyx | 17.7 kB | Official Python client for the Issyx Sign e-signature API |
-| 2026-11-07 03:38:11 | [mceg](https://pypi.org/project/mceg/) | 0.1.1 | Hajime Kawahara | 219.6 kB | Experimental scientific model contracts and evidence links |
-| 2026-11-07 03:42:28 | [i77-test-alpha](https://pypi.org/project/i77-test-alpha/) | 0.2.1794023547 | I77 Test | 932 B | I77 authorization test package |
-| 2026-11-07 03:42:34 | [i77-test-beta](https://pypi.org/project/i77-test-beta/) | 0.0.1 | I77 Test | 898 B | I77 authorization test package |
-| 2026-11-07 03:49:01 | [libascii](https://pypi.org/project/libascii/) | 0.1.0 | NNlk05 | 21.5 kB |  |
-| 2026-11-07 03:50:31 | [web-install-tsa-lab](https://pypi.org/project/web-install-tsa-lab/) | 0.3.3 |  | 10.9 kB | Import first..eleventh to print time-series lab code snippets |
-| 2026-11-07 03:52:08 | [py-practicing](https://pypi.org/project/py-practicing/) | 0.0.2 |  | 2.7 kB | 一个用于学习 Python 各个章节的项目 |
-| 2026-11-07 03:55:36 | [kontext-studio](https://pypi.org/project/kontext-studio/) | 0.261.0 |  | 6.6 MB | Local-first AI data workspace: server, CLI, and runtime |
-| 2026-11-07 04:01:08 | [fraudnova](https://pypi.org/project/fraudnova/) | 1.0.0 | FraudNova <support@fraudnova.… | 60.3 kB | Official Python client for the FraudNova fraud-detection API (IP, email and pho… |
-| 2026-11-07 04:02:35 | [openliate](https://pypi.org/project/openliate/) | 0.1.0 | OpenLiate <vinod@openliate.te… | 10.3 kB | Open Source Backend Layer for AI Agents — Built for Sovereign AI Agents From In… |
-| 2026-11-07 04:07:49 | [geosition](https://pypi.org/project/geosition/) | 4.9.1 | Arnaud Bellemare <asapbellema… | 58.1 MB | Generative Engine Optimization toolkit — make websites visible to AI search eng… |
-| 2026-11-07 04:14:43 | [awsnav](https://pypi.org/project/awsnav/) | 0.1.0 | Red Asgard | 119.2 kB | Every AWS service in your terminal: browse EC2, S3, Bedrock and 430+ services,… |
-| 2026-11-07 04:17:52 | [langchain-harny](https://pypi.org/project/langchain-harny/) | 0.1.0 | Harny <platform@harny.ai> | 48.2 kB | Long-term memory for LangChain agents: recall what each person said, and when,… |
-| 2026-11-07 04:18:07 | [agent-framework-harny](https://pypi.org/project/agent-framework-harny/) | 0.1.0b1 | Harny <platform@harny.ai> | 38.7 kB | Long-term memory for Microsoft Agent Framework agents: a context provider backe… |
+| 2026-11-07 04:23:29 | [hlsfetch](https://pypi.org/project/hlsfetch/) | 0.1.1 | doumamay | 26.3 kB | Fast async HLS (m3u8) downloader for Python: resume, AES-128, fMP4, ffmpeg remu… |
+| 2026-11-07 04:31:34 | [lvthn-codec](https://pypi.org/project/lvthn-codec/) | 1.0.1 | FreshGame | 30.6 kB | Universal LVTHN media codec: audio (MDCT + Bark + Psy) and images (Oklab + DCT… |
+| 2026-11-07 04:34:48 | [prap](https://pypi.org/project/prap/) | 0.0.1 |  | 13.8 kB | A lightweight agent harness. |
+| 2026-11-07 04:35:22 | [ojanvu](https://pypi.org/project/ojanvu/) | 1.0.1 | Ojanvu Quantum Labs | 16.7 kB | Official Python SDK for Ojanvu Quantum Hardware |
+| 2026-11-07 04:36:20 | [agent-lineup](https://pypi.org/project/agent-lineup/) | 0.1.0 |  | 125.0 kB | See what your coding agent just changed, which edits are risky, and undo a file. |
+| 2026-11-07 04:40:27 | [annar-traductor-pdf](https://pypi.org/project/annar-traductor-pdf/) | 1.0.0 | Annar Diagnostica | 86.9 MB | Traductor de manuales PDF de ingles a espanol que conserva el diseno (uso inter… |
+| 2026-11-07 04:44:05 | [luiccian-autocad-mcp](https://pypi.org/project/luiccian-autocad-mcp/) | 2.3.0 | Luiccian <luicciandev@gmail.c… | 135.7 kB | Model Context Protocol (MCP) server connecting Autodesk AutoCAD 2027 and Civil… |
+| 2026-11-07 04:49:30 | [ttucs](https://pypi.org/project/ttucs/) | 0.2.0 | Jon Evans | 169.1 kB | Text to UCS: classify speech-to-text field-recording slates into Universal Cate… |
+| 2026-11-07 04:49:39 | [jiwang-service-mcp](https://pypi.org/project/jiwang-service-mcp/) | 0.1.0 |  | 41.4 kB | 技王数据恢复公开服务、网点与故障资料查询 MCP |
+| 2026-11-07 05:00:07 | [pqblocks-qubo-bench](https://pypi.org/project/pqblocks-qubo-bench/) | 0.1.0 | The PQBlocks Authors | 83.7 kB | Benchmarking harness and standard instance loaders for quantum-inspired optimiz… |
+| 2026-11-07 05:03:34 | [luckylucy.utils.json](https://pypi.org/project/luckylucy.utils.json/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 9.7 kB | A collection of utilities I use across different projects (luckylucy.utils.json) |
+| 2026-11-07 05:03:38 | [luckylucy.utils.logger](https://pypi.org/project/luckylucy.utils.logger/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 19.4 kB | A collection of utilities I use across different projects (luckylucy.utils.logg… |
+| 2026-11-07 05:04:24 | [zettcode-ask-user](https://pypi.org/project/zettcode-ask-user/) | 0.4.1 | Chang-LeHung | 5.0 kB | The ask_user tool of ZettCode, as a part of the agent that lives apart from it |
+| 2026-11-07 05:04:47 | [luckylucy.utils.network](https://pypi.org/project/luckylucy.utils.network/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 9.9 kB | A collection of utilities I use across different projects (luckylucy.utils.netw… |
+| 2026-11-07 05:04:57 | [iops-crashlab](https://pypi.org/project/iops-crashlab/) | 0.1.0a2 |  | 142.1 kB | Crash Lab: controlled local agent execution and evidence-linked reports |
+| 2026-11-07 05:04:59 | [iops-permissions](https://pypi.org/project/iops-permissions/) | 0.1.0a2 |  | 91.3 kB | Permission Simulator: local declared-policy analysis and portable test scenarios |
+| 2026-11-07 05:05:26 | [zettcode-files](https://pypi.org/project/zettcode-files/) | 0.4.1 | Chang-LeHung | 9.8 kB | The files of a ZettCode workspace as @ references, as a part of the agent that… |
+| 2026-11-07 05:05:56 | [luckylucy.utils.regex](https://pypi.org/project/luckylucy.utils.regex/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 11.0 kB | A collection of utilities I use across different projects (luckylucy.utils.rege… |
+| 2026-11-07 05:06:28 | [zettcode-instructions](https://pypi.org/project/zettcode-instructions/) | 0.4.1 | Chang-LeHung | 5.2 kB | The workspace's AGENTS.md instructions of ZettCode, as a part of the agent that… |
+| 2026-11-07 05:07:31 | [zettcode-todos](https://pypi.org/project/zettcode-todos/) | 0.4.1 | Chang-LeHung | 5.0 kB | The todo_write tool and the plan it keeps, as a part of the agent that lives ap… |
+| 2026-11-07 05:07:51 | [shruti-onnx](https://pypi.org/project/shruti-onnx/) | 0.2.0 | Udgam Labs | 25.3 kB | Shruti: offline speech-to-text, one language and English in one small model, in… |
+| 2026-11-07 05:08:19 | [migraeda](https://pypi.org/project/migraeda/) | 0.1.0 | dan luo | 222.8 kB | Pin-level verified conversion between JLCEDA (.eprj) and Altium Designer (.SchD… |
+| 2026-11-07 05:12:40 | [linch-rust](https://pypi.org/project/linch-rust/) | 0.1.0 |  | 37.9 MB | Minimal asyncio client for the Linch Rust core, over the linch-server sidecar. |
+| 2026-11-07 05:12:56 | [glance-widgets-sdk](https://pypi.org/project/glance-widgets-sdk/) | 1.0.0 |  | 202.7 kB | SDK for generating Glance Widgets API responses |
+| 2026-11-07 05:13:42 | [longloom](https://pypi.org/project/longloom/) | 1.0.0 | LongLoom Maintainers | 90.7 kB | Weave documents of any length through LLM map/merge/repair — any LLM, any stora… |
