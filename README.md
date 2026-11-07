@@ -8,39 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 06:18 UTC
+## Latest list — 2026-11-07 07:19 UTC
 
-New packages created between 2026-11-07 05:18 UTC and 2026-11-07 06:18 UTC.
+New packages created between 2026-11-07 06:18 UTC and 2026-11-07 07:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T06-18-41-384909Z.csv)
+[Full CSV](data/new-packages-2026-11-07T07-19-15-261896Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 05:21:25 | [sfnkit](https://pypi.org/project/sfnkit/) | 0.1.0 | Execution Associates | 235.5 kB | Author AWS Step Functions workflows as decorated Python functions |
-| 2026-11-07 05:23:11 | [assertify-mcp](https://pypi.org/project/assertify-mcp/) | 0.6.3 | Roman Klym | 197.5 kB | Let AI agents use any website you're logged in to. Log in once; the session sta… |
-| 2026-11-07 05:24:46 | [wekon](https://pypi.org/project/wekon/) | 0.1.0 | Wekon | 71.8 kB | Библиотека для ботов Wekon |
-| 2026-11-07 05:27:00 | [coolabah](https://pypi.org/project/coolabah/) | 0.1.0.post1 | Jahin Z. | 32.8 kB | Generate and assemble file trees using Python generators. |
-| 2026-11-07 05:29:27 | [plyndra](https://pypi.org/project/plyndra/) | 0.0.0 |  | 3.2 kB | Name reservation placeholder for Plyndra, a 2D sandbox MMO. Contains no code. |
-| 2026-11-07 05:32:56 | [mallace](https://pypi.org/project/mallace/) | 0.1.0a14 |  | 227.9 kB | Customer-controlled authorized security assessment and verified remediation |
-| 2026-11-07 05:33:28 | [statepact](https://pypi.org/project/statepact/) | 0.1.0 | Mithun S <mithun.s.genai@gmai… | 225.5 kB | Transaction management for autonomous AI agents: optimistic concurrency, MVCC,… |
-| 2026-11-07 05:36:43 | [nlalpha-earlybird](https://pypi.org/project/nlalpha-earlybird/) | 0.0.1 |  | 2.4 kB | Name reservation for the NLAlpha earlybird package (functionality not published) |
-| 2026-11-07 05:42:46 | [nlalpha-family-options](https://pypi.org/project/nlalpha-family-options/) | 0.0.1 |  | 2.5 kB | Name reservation for the NLAlpha options strategy family (functionality not pub… |
-| 2026-11-07 05:42:51 | [nlalpha-family-portfolio](https://pypi.org/project/nlalpha-family-portfolio/) | 0.0.1 |  | 2.5 kB | Name reservation for the NLAlpha portfolio strategy family (functionality not p… |
-| 2026-11-07 05:42:55 | [nlalpha-family-ml](https://pypi.org/project/nlalpha-family-ml/) | 0.0.1 |  | 2.4 kB | Name reservation for the NLAlpha machine-learning strategy family (functionalit… |
-| 2026-11-07 05:43:38 | [kingai-browser](https://pypi.org/project/kingai-browser/) | 0.3.0 |  | 59.1 kB | Python code API for the installed KingAI stdio MCP server |
-| 2026-11-07 05:45:29 | [kriton](https://pypi.org/project/kriton/) | 0.0.1 | Kriton | 4.6 kB | Prove that deployed infrastructure matches human-approved intent. Early develop… |
-| 2026-11-07 05:46:29 | [cotizave](https://pypi.org/project/cotizave/) | 0.1.0 | Cotizave | 60.5 kB | Official Python SDK for the Cotizave API v2 — multi-country exchange-rate refer… |
-| 2026-11-07 05:50:43 | [pystachy](https://pypi.org/project/pystachy/) | 0.2.0 |  | 3.5 MB | Compile a typed subset of Python to native code through LLVM |
-| 2026-11-07 05:51:35 | [tracereplay](https://pypi.org/project/tracereplay/) | 0.1.0 | TraceReplay Contributors | 2.8 MB | Record once. Replay reliably. Test, inspect, and debug AI applications with con… |
-| 2026-11-07 05:55:05 | [langchain-modular-rag](https://pypi.org/project/langchain-modular-rag/) | 0.1.0 |  | 10.3 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 05:59:57 | [aetherproof-arch](https://pypi.org/project/aetherproof-arch/) | 0.1.0a1 | Samir Baladi | 61.0 kB | AetherProof: Autonomous Formal Verification and Invariant Synthesis for Multi-A… |
-| 2026-11-07 06:00:02 | [llama-index-vector-stores-rabitqlib](https://pypi.org/project/llama-index-vector-stores-rabitqlib/) | 0.1.0 |  | 30.4 kB | LlamaIndex vector store backed by RaBitQ-quantized HNSW (rabitqlib) |
-| 2026-11-07 06:00:51 | [odoo-addon-l10n-br-fiscal-fci](https://pypi.org/project/odoo-addon-l10n-br-fiscal-fci/) | 16.0.1.0.0.3 | Akretion,Odoo Community Assoc… | 72.0 kB | FCI Management |
-| 2026-11-07 06:01:52 | [i97-pending-shadow](https://pypi.org/project/i97-pending-shadow/) | 0.1.0 | qa94021002 | 380 B | i97 production stale pending publisher test |
-| 2026-11-07 06:02:36 | [deidflow](https://pypi.org/project/deidflow/) | 0.6.0 | Giovanny Torres | 13.2 MB | Local-first Spanish and Mexican sensitive-data detection and verified transform… |
-| 2026-11-07 06:02:49 | [aegis-node](https://pypi.org/project/aegis-node/) | 0.1.0 | Divolt <hello@divoltbtc.com> | 70.7 kB | Aegis WiFi Node Agent — connect a local USB WiFi adapter to the Aegis pentest p… |
-| 2026-11-07 06:03:28 | [libra-boot-low](https://pypi.org/project/libra-boot-low/) | 1.1.1 | halavah | 141.3 kB | Low-code generator: YAML + Jinja2 templates producing full-stack Spring Boot +… |
-| 2026-11-07 06:07:41 | [pulumi-doppler](https://pypi.org/project/pulumi-doppler/) | 0.0.0 | Your Name <you@example.com> | 1.2 kB | Dummy pulumi_doppler package for PyPI |
-| 2026-11-07 06:16:13 | [py-visactor-vchart](https://pypi.org/project/py-visactor-vchart/) | 0.1.1 |  | 237.0 kB | Native Python rendering of two-dimensional static VisActor VChart charts |
-| 2026-11-07 06:17:26 | [limbowatch](https://pypi.org/project/limbowatch/) | 0.1.0a1 | Limbowatch contributors | 226.8 kB | Track published security advisories stuck in limbo (not yet reviewed into the d… |
-| 2026-11-07 06:17:49 | [limbowatch-cli](https://pypi.org/project/limbowatch-cli/) | 0.1.0a1 | Limbowatch contributors | 22.8 kB | Find dependencies affected by security advisories not yet in GitHub's reviewed… |
+| 2026-11-07 05:18:55 | [pipecat-resampler](https://pypi.org/project/pipecat-resampler/) | 0.1.0 |  | 295.1 kB | Streaming audio resampler whose output keeps pace with its input |
+| 2026-11-07 06:19:51 | [cq-jt](https://pypi.org/project/cq-jt/) | 0.3.0 |  | 4.2 MB | Bounded JT reading and GLB export with a Rust core and Python bindings |
+| 2026-11-07 06:24:41 | [ttucs-model-bow](https://pypi.org/project/ttucs-model-bow/) | 0.1.1 | Jon Evans | 63.2 MB | Pretrained weights (data only) for ttucs, the Text-to-UCS slate classifier: has… |
+| 2026-11-07 06:36:59 | [Rupa](https://pypi.org/project/Rupa/) | 1.0.0 | Python Developer | 2.9 kB | My own Python patterns package |
+| 2026-11-07 06:48:39 | [gputaskman](https://pypi.org/project/gputaskman/) | 0.3.2 | Scott Hanselman | 233.4 kB | An htop for what's inside your GPU: per-process VRAM, engine load, and LLM weig… |
+| 2026-11-07 06:48:45 | [smart-mashup](https://pypi.org/project/smart-mashup/) | 0.1.0 | Muhammed Bedirhan Keskin | 10.0 kB | Yapay zeka destekli akıllı vokal kesme ve remix kütüphanesi |
+| 2026-11-07 06:50:42 | [email-mcp-lite](https://pypi.org/project/email-mcp-lite/) | 0.1.1 | ysh | 153.6 kB | 轻量级多账户邮件 MCP Server（IMAP/SMTP 通用适配器，零额外依赖） |
+| 2026-11-07 06:53:36 | [tightbeam](https://pypi.org/project/tightbeam/) | 0.1.0 |  | 9.0 MB | Portable Windows SSH endpoint over Tailscale, packaged as a command-line tool |
+| 2026-11-07 06:55:01 | [langchain-zq-rag](https://pypi.org/project/langchain-zq-rag/) | 0.1.1 |  | 10.8 kB | A modular RAG retrieval class based on LangChain and Chroma, with pre-retrieval… |
+| 2026-11-07 06:55:31 | [langchain-xjc](https://pypi.org/project/langchain-xjc/) | 0.1.0 |  | 10.2 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 06:56:39 | [undoom](https://pypi.org/project/undoom/) | 1.0.1 | Rupam Das | 70.6 kB | Turn production agent failures into regression tests that run on every change. |
+| 2026-11-07 06:57:21 | [langchain-rag-project](https://pypi.org/project/langchain-rag-project/) | 0.1.0 |  | 10.5 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 06:57:39 | [seampact-ir](https://pypi.org/project/seampact-ir/) | 1.0.0 |  | 403.3 kB | The seampact IR model, naming and reader for Python generators. |
+| 2026-11-07 06:57:50 | [seampact-hooks](https://pypi.org/project/seampact-hooks/) | 1.0.0 |  | 24.5 kB | The seampact hook protocols and the values they exchange, for Python apps and g… |
+| 2026-11-07 06:57:53 | [seampact-compiler](https://pypi.org/project/seampact-compiler/) | 1.0.0 |  | 203.7 MB | The seampact compiler binary for one platform, run by seampact-ir. |
+| 2026-11-07 06:58:08 | [modular-zzz-rag](https://pypi.org/project/modular-zzz-rag/) | 0.1.0 |  | 4.3 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 07:00:29 | [langchain-lhj-rag](https://pypi.org/project/langchain-lhj-rag/) | 0.0.1 |  | 8.1 kB | 基于 LangChain 的 RAG 检索增强生成实验包 |
+| 2026-11-07 07:03:59 | [langchain-yyyang-rag](https://pypi.org/project/langchain-yyyang-rag/) | 0.1.0 |  | 4.5 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 07:04:17 | [zyk-rag](https://pypi.org/project/zyk-rag/) | 0.1.0 |  | 10.4 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 07:05:08 | [3tears-interfaces](https://pypi.org/project/3tears-interfaces/) | 0.93.0 | pace | 40.6 kB | Dependency-free Protocols and shared vocabulary for the 3tears family |
+| 2026-11-07 07:05:08 | [modular-rag-simple](https://pypi.org/project/modular-rag-simple/) | 0.1.0 |  | 4.2 kB | A simple modular RAG retrieval class based on LangChain |
+| 2026-11-07 07:05:14 | [open289](https://pypi.org/project/open289/) | 0.1.1 |  | 287.2 kB | Open CLI, Python library and MCP server for the Fluke 287/289 multimeter over a… |
+| 2026-11-07 07:08:29 | [tlnt-cli](https://pypi.org/project/tlnt-cli/) | 1.5.1 | Fathiraz Arthuro | 116.3 kB | CLI wrapper for HRIS attendance and employment workflows. |
+| 2026-11-07 07:09:23 | [seampact-django](https://pypi.org/project/seampact-django/) | 1.0.0 |  | 66.0 kB | The Django layer the seampact DRF and Ninja targets share: the URLconf and sett… |
+| 2026-11-07 07:09:24 | [seampact-codegen](https://pypi.org/project/seampact-codegen/) | 1.0.0 |  | 237.2 kB | The neutral code generation of the seampact Python targets and the framework-fr… |
+| 2026-11-07 07:09:24 | [seampact-signed-webhooks](https://pypi.org/project/seampact-signed-webhooks/) | 1.0.0 |  | 17.4 kB | Verifies a template-signed webhook (HMAC, timestamp tolerance, secret rotation)… |
+| 2026-11-07 07:11:20 | [gspec](https://pypi.org/project/gspec/) | 0.8.0 | indexofire <indexofire@gmail.… | 11.1 MB | Declarative typing databases for bacterial genomes: gene-panel and locus screen… |
+| 2026-11-07 07:11:41 | [jsders-models-rag](https://pypi.org/project/jsders-models-rag/) | 0.1.0 |  | 4.1 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 07:15:09 | [langchain-modular-rag-hjh](https://pypi.org/project/langchain-modular-rag-hjh/) | 0.1.0 | hjh | 15.6 kB | 模块化 RAG 在线检索：基于 LangChain + Chroma，支持混合召回、RRF 融合、改写、HyDE、重排、过滤与压缩，可切换 DashScope… |
+| 2026-11-07 07:15:41 | [demon-slaying-rag](https://pypi.org/project/demon-slaying-rag/) | 0.1.0 |  | 18.8 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 07:16:00 | [seampact-fastapi](https://pypi.org/project/seampact-fastapi/) | 1.0.0 |  | 65.6 kB | The FastAPI target of seampact: its generator and the placement runtime of the… |
+| 2026-11-07 07:16:02 | [langchain-wen-rag](https://pypi.org/project/langchain-wen-rag/) | 0.1.0 |  | 10.3 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 07:16:15 | [langchain-modulararj-rag](https://pypi.org/project/langchain-modulararj-rag/) | 0.1.0 |  | 10.4 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 07:17:52 | [langchain-hsf](https://pypi.org/project/langchain-hsf/) | 0.1.0 |  | 4.1 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 07:17:53 | [seampact-drf](https://pypi.org/project/seampact-drf/) | 1.0.0 |  | 76.2 kB | The seampact Django REST Framework target: its generator and the runtime of the… |
+| 2026-11-07 07:18:14 | [q6-report](https://pypi.org/project/q6-report/) | 0.1.0 | "Leo Mustatea, Yopeso" <49692… | 11.1 kB | Recorders that write a test run for q6-report, a test report with history that… |

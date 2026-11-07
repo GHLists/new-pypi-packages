@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-11-07T05:18:46.450526Z",
-    "path": "data/new-packages-2026-11-07T06-18-41-384909Z.csv",
-    "to": "2026-11-07T06:18:41.384909Z"
+    "count": 36,
+    "from": "2026-11-07T06:18:41.384909Z",
+    "path": "data/new-packages-2026-11-07T07-19-15-261896Z.csv",
+    "to": "2026-11-07T07:19:15.261896Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-07T05:18:55Z",
-      "package": "pipecat-resampler",
-      "since": "2026-11-07T05:18:46.450526Z",
-      "version": null
+      "created_at": "2026-11-07T06:55:32Z",
+      "package": "langchain-modular-rag-hyc",
+      "since": "2026-11-07T06:18:41.384909Z",
+      "version": "0.1.0"
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-07T03:08:33Z",
-      "package": "seqComparator",
-      "since": "2026-11-07T02:18:47.49104Z",
-      "version": "1.0.0"
+      "attempts": 1,
+      "created_at": "2026-11-07T06:58:06Z",
+      "package": "xxd-modular-rag",
+      "since": "2026-11-07T06:18:41.384909Z",
+      "version": "0.1.0"
     }
   ],
-  "serial": 43323333,
+  "serial": 43324724,
   "source_truncated": false,
-  "window": "2026-11-07T06:18:41.384909Z"
+  "window": "2026-11-07T07:19:15.261896Z"
 }

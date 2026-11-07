@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T05:18:55Z,pipecat-resampler,0.1.0,,BSD-2-Clause,295058,Streaming audio resampler whose output keeps pace with its input
+2026-11-07T06:19:51Z,cq-jt,0.3.0,,MIT,4240479,Bounded JT reading and GLB export with a Rust core and Python bindings
+2026-11-07T06:24:41Z,ttucs-model-bow,0.1.1,Jon Evans,MIT,63152959,"Pretrained weights (data only) for ttucs, the Text-to-UCS slate classifier: hashed n-gram bag-of-embeddings model."
+2026-11-07T06:36:59Z,Rupa,1.0.0,Python Developer,,2873,My own Python patterns package
+2026-11-07T06:48:39Z,gputaskman,0.3.2,Scott Hanselman,MIT,233414,"An htop for what's inside your GPU: per-process VRAM, engine load, and LLM weights / KV cache breakdown"
+2026-11-07T06:48:45Z,smart-mashup,0.1.0,Muhammed Bedirhan Keskin,,9997,Yapay zeka destekli akıllı vokal kesme ve remix kütüphanesi
+2026-11-07T06:50:42Z,email-mcp-lite,0.1.1,ysh,MIT,153563,轻量级多账户邮件 MCP Server（IMAP/SMTP 通用适配器，零额外依赖）
+2026-11-07T06:53:36Z,tightbeam,0.1.0,,,9023068,"Portable Windows SSH endpoint over Tailscale, packaged as a command-line tool"
+2026-11-07T06:55:01Z,langchain-zq-rag,0.1.1,,,10792,"A modular RAG retrieval class based on LangChain and Chroma, with pre-retrieval, hybrid retrieval and post-retrieval stages."
+2026-11-07T06:55:31Z,langchain-xjc,0.1.0,,,10236,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T06:56:39Z,undoom,1.0.1,Rupam Das,MIT,70637,Turn production agent failures into regression tests that run on every change.
+2026-11-07T06:57:21Z,langchain-rag-project,0.1.0,,,10530,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T06:57:39Z,seampact-ir,1.0.0,,MIT,403341,"The seampact IR model, naming and reader for Python generators."
+2026-11-07T06:57:50Z,seampact-hooks,1.0.0,,MIT,24539,"The seampact hook protocols and the values they exchange, for Python apps and generated code."
+2026-11-07T06:57:53Z,seampact-compiler,1.0.0,,MIT,203724528,"The seampact compiler binary for one platform, run by seampact-ir."
+2026-11-07T06:58:08Z,modular-zzz-rag,0.1.0,,,4337,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:00:29Z,langchain-lhj-rag,0.0.1,,,8054,基于 LangChain 的 RAG 检索增强生成实验包
+2026-11-07T07:03:59Z,langchain-yyyang-rag,0.1.0,,,4511,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:04:17Z,zyk-rag,0.1.0,,,10390,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:05:08Z,3tears-interfaces,0.93.0,pace,MIT,40608,Dependency-free Protocols and shared vocabulary for the 3tears family
+2026-11-07T07:05:08Z,modular-rag-simple,0.1.0,,,4151,A simple modular RAG retrieval class based on LangChain
+2026-11-07T07:05:14Z,open289,0.1.1,,GPL-3.0-only,287244,"Open CLI, Python library and MCP server for the Fluke 287/289 multimeter over a Fluke IR3000 FC Bluetooth LE adapter, made for AI agents"
+2026-11-07T07:08:29Z,tlnt-cli,1.5.1,Fathiraz Arthuro,MIT,116345,CLI wrapper for HRIS attendance and employment workflows.
+2026-11-07T07:09:23Z,seampact-django,1.0.0,,MIT,66004,The Django layer the seampact DRF and Ninja targets share: the URLconf and settings emitters and the Django runtime of generated code.
+2026-11-07T07:09:24Z,seampact-codegen,1.0.0,,MIT,237171,The neutral code generation of the seampact Python targets and the framework-free runtime of generated code.
+2026-11-07T07:09:24Z,seampact-signed-webhooks,1.0.0,,MIT,17393,"Verifies a template-signed webhook (HMAC, timestamp tolerance, secret rotation) inside an authenticate hook."
+2026-11-07T07:11:20Z,gspec,0.8.0,indexofire <indexofire@gmail.com>,MIT,11093398,"Declarative typing databases for bacterial genomes: gene-panel and locus screening, serotype/AMR/virulence designation, machine-readable contracts"
+2026-11-07T07:11:41Z,jsders-models-rag,0.1.0,,,4141,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:15:09Z,langchain-modular-rag-hjh,0.1.0,hjh,MIT,15555,模块化 RAG 在线检索：基于 LangChain + Chroma，支持混合召回、RRF 融合、改写、HyDE、重排、过滤与压缩，可切换 DashScope 云端或本地 Ollama 模型
+2026-11-07T07:15:41Z,demon-slaying-rag,0.1.0,,,18835,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:16:00Z,seampact-fastapi,1.0.0,,MIT,65563,The FastAPI target of seampact: its generator and the placement runtime of the generated code.
+2026-11-07T07:16:02Z,langchain-wen-rag,0.1.0,,,10321,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:16:15Z,langchain-modulararj-rag,0.1.0,,,10363,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:17:52Z,langchain-hsf,0.1.0,,,4099,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T07:17:53Z,seampact-drf,1.0.0,,MIT,76209,The seampact Django REST Framework target: its generator and the runtime of the code it generates.
+2026-11-07T07:18:14Z,q6-report,0.1.0,"""Leo Mustatea, Yopeso"" <49692509+leonardmustatea@users.noreply.github.com>",Apache-2.0,11111,"Recorders that write a test run for q6-report, a test report with history that opens from one file"
