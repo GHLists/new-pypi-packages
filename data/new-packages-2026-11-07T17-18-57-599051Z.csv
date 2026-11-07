@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T16:18:22Z,scimapper,1.0.2,Gustavo Andrés Futo <gustavoandresfu@gmail.com>,GPL-3.0-or-later,83190,An automated scientific mapping and systematic literature review framework with dense semantic clustering and PRISMA 2020 compliance.
+2026-11-07T16:18:56Z,kistitch,0.5.0,Matti Airas <matti.airas@hatlabs.fi>,MIT,303088,"DRC-checked placement of return, pad and pour stitching vias for KiCad, with return and coverage heatmaps"
+2026-11-07T16:27:23Z,duckdb-core-ext-ducklake,0.0.0,DuckDB,,1108,Reserved name for the DuckDB ducklake extension packaged for pip
+2026-11-07T16:27:25Z,duckdb-core-ext-encodings,0.0.0,DuckDB,,1113,Reserved name for the DuckDB encodings extension packaged for pip
+2026-11-07T16:27:26Z,duckdb-core-ext-excel,0.0.0,DuckDB,,1085,Reserved name for the DuckDB excel extension packaged for pip
+2026-11-07T16:27:27Z,duckdb-core-ext-fts,0.0.0,DuckDB,,1070,Reserved name for the DuckDB fts extension packaged for pip
+2026-11-07T16:27:35Z,notletters-client,0.1.0,,ISC,31042,Python client for the NotLetters email receiving and mailbox API
+2026-11-07T16:28:58Z,light-telemetry,0.1.1,,MIT OR Apache-2.0,65130,UDP fire-and-forget telemetry client for LightTelemetry
+2026-11-07T16:29:44Z,lmscope,0.1.0,Michael,MIT,46764,Step through LSTM / Transformer language-model inference in the browser
+2026-11-07T16:30:24Z,qemu-mcp,0.1.0,0xmortuex,MIT,193065,"MCP server that lets AI agents boot and drive QEMU virtual machines - keystrokes, screenshots, serial console, QMP."
+2026-11-07T16:32:25Z,decision-cert,0.1.0,zer07 Labs,Apache-2.0,75503,Verify and apply decision-certificate.v1: signed records of how a model's decisions were measured
+2026-11-07T16:35:37Z,colony-taa,0.2.0,Colony Technology,,14814,ᑕ. exact arithmetic circuit verification; Python entry to the shared Node engine
+2026-11-07T16:40:47Z,covey-mesh,0.1.0,EDantes,MIT,2340117,"A local agent mesh: discovery, delegation and permissions for the agents on your machine."
+2026-11-07T16:42:18Z,EvoRad,0.0.1.dev0,,MIT,2136,EvoRad
+2026-11-07T16:43:28Z,game-updater,0.3.1,game-updater contributors,MIT,42871,"Signed, hash-verified updater for a self-hosted game or app."
+2026-11-07T16:45:01Z,vexor-video-sdk,0.1.0,Vexor Team <dev@vexor.et>,MIT,41631,Official Python SDK for Vexor Video Platform
+2026-11-07T16:48:43Z,chamberlain,0.1.0,Israel Lee Armstead,Proprietary — E5 Enclave Inc. (house license),134391,"Chamberlain — the office of the door for the E5 Trinity: the credential register, the roll of the admitted, the approaches journal fold and its reconciliation, the decision-record validator, the PQ w…"
+2026-11-07T16:49:47Z,shellscripts,0.23.1,Francesco Rolando,GPL-3.0-only,184547,Execute useful shell scripts via an uvx-compatible CLI interface.
+2026-11-07T16:50:23Z,create-atelier,0.2.0,William Held,Apache-2.0,407454,"Create a portable, Git-native research project for humans and agents"
+2026-11-07T16:55:06Z,stonereel,0.0.1,Stonereel,,3080,"Stonereel: path-traced cinematic films of real places, with no generative AI. Early release; the engine is in development."
+2026-11-07T16:55:57Z,tipy-asm,1.0.0,,,629281,TIpy-asm: Python compiler for TI-84 Z80/eZ80 calculators
+2026-11-07T16:59:13Z,chupa,0.1.2,,LicenseRef-Proprietary,455975,Continuously running orchestration engine that authors and runs tickets against host repos.
+2026-11-07T17:01:52Z,yongyi-agent,0.1.0,FindData Technology,MIT,53604,Memory adapter for agent frameworks: captures turns and tool calls into a fd-memory (永忆) service
+2026-11-07T17:02:21Z,ostler-mcp,0.2.0,Mihir Inamdar,Apache-2.0,21202301,"Open-source MCP browser for AI agents: reading, research that cites only pages it read, web tasks, forms read back. Installs the `ostler` command."
+2026-11-07T17:02:29Z,aot-ev1,0.1.0,AOTrust <legal@aotrust.link>,Apache-2.0,77768,AOT-EV1 — deterministic evidence layer for the ERC-8325 evidenceHash slot
+2026-11-07T17:04:13Z,b-load,0.1.0,b-LOAD contributors,MIT,118333,Background-Knowledge-Augmented Local Causal Discovery
+2026-11-07T17:05:31Z,indevolt-modbus,0.1.0,indevolt-modbus contributors,Apache-2.0,107723,Read and control Indevolt energy storage devices over Modbus.
+2026-11-07T17:09:59Z,ml-reliability-toolkit,0.1.0,Meharsai26,MIT,65809,Pre-deployment reliability checks for machine-learning systems.
+2026-11-07T17:10:05Z,scanfuse,0.2.0,Gencay,MIT,906434,"Fast, local-first pentest finding extractor & markdown report engine."
+2026-11-07T17:12:44Z,voicesafekit,0.6.0,Mohamad Kanso,MIT,119412,"Catch spoken PII (card numbers, SSNs, emails said out loud) before voice transcripts reach an LLM. Zero dependencies, Pipecat and LiveKit drop-ins."
+2026-11-07T17:12:54Z,moab-cli,0.0.0,Moab <security@moab.com>,,2645,Reserved by Moab. Contact security@moab.com.
+2026-11-07T17:12:56Z,moab-client,0.0.0,Moab <security@moab.com>,,2410,Reserved by Moab. Contact security@moab.com.
+2026-11-07T17:12:57Z,moab-sdk,0.0.0,Moab <security@moab.com>,,2373,Reserved by Moab. Contact security@moab.com.
+2026-11-07T17:13:14Z,archeone,0.1.0,DylanUnicorn,Apache-2.0,447736,"Synchronous client for ArcheOneBrain embodied inference, with observation windows and optional PiPER IK"
+2026-11-07T17:13:40Z,pypresent,0.1.0,Barak Kolnik <barakkol@gmail.com>,MIT,233890,"Slides from a Jupyter notebook, quoting its code and output, as one self-contained HTML file."
+2026-11-07T17:15:36Z,extractum,1.0.0,Strategos <r@strategos.au>,Proprietary,6300,Legal brief and judgment summariser — Disciplina. by Strategos.
