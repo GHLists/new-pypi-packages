@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T14:21:10Z,enrichgrid,0.1.0,EnrichGrid <support@enrichgrid.com>,MIT,21061,Official Python client and CLI for the EnrichGrid LinkedIn profile & company scraper API
+2026-11-07T14:38:48Z,chartedcode,0.1.0,William Martin,MIT,21246574,"Diagrams for Python projects: class, call and control-flow diagrams, drawn as self-contained HTML by a small deterministic Rust binary."
+2026-11-07T15:20:21Z,truassure,1.0.0,Shan Konduru,MIT,1770252,"TruAssure: black-box, evidence-based quality engineering for AI agents (chat, task and multi-agent)."
+2026-11-07T15:20:37Z,locateobject,0.1.0,Joost Postma,MIT,57270,Locate real-world objects by triangulating bounding boxes from multiple geotagged images
+2026-11-07T15:20:45Z,apple-health-to-sqlite,0.1.0,Georg Lutz,MIT,230970,"Convert an Apple Health export (HealthKit export version 14+) to SQLite, ready for Datasette"
+2026-11-07T15:24:43Z,pytest-qasight,1.0.0,Taltal,MIT,4660,"pytest --qasight: record every pytest run and see what broke, what's flaky and what got slower (installs qasight)."
+2026-11-07T15:37:06Z,tracetui,2.0.0,,MIT,68956,Interactive TUI debugger for logs with real-time parsing and filtering
+2026-11-07T15:37:43Z,g2p2-names,0.3.0,Gladia <support@gladia.io>,MIT OR Apache-2.0,11300529,Census first names and surnames (with IPA) and similarity calibration profiles for g2p2 alternative names
+2026-11-07T15:37:49Z,claxcode,0.1.2,,MIT,195814,ClaxCode — An agentic coding assistant powered by FastAPI
+2026-11-07T15:37:54Z,heurix,0.1.0,Heurix Contributors,MIT,64955,Deterministic Codebase Scanner & Automated YAML Synthesizer
+2026-11-07T15:39:16Z,p0-mcp,1.0.0,,MIT,9330,"Local MCP bridge (stdio) to P0's remote MCP servers for AI agents: sanctions screening, SEC filings, CVE and package risk, wallet balances, EVM reads, news, email checks and agent memory. Pay per cal…"
+2026-11-07T15:42:10Z,pearatings,0.2.0,PEARatings <pearatings@gmail.com>,MIT,29031,Python client for the PEARatings college baseball and softball data API
+2026-11-07T15:42:13Z,charmfix,0.1.0,Václav Vinklát,MIT,56741,Repair broken or missing EXIF metadata in Kodak Charmera (Generalplus) JPEGs without touching image data
+2026-11-07T15:43:48Z,noorphan,0.1.0,,Apache-2.0,26365,Run a command so that every descendant dies when it exits or the wrapper is killed.
+2026-11-07T15:45:56Z,zharp,0.1.0,Zharp <support@zharp.io>,MIT,40798,"Zharp Application Monitoring for Python: traces, logs and errors from Django, FastAPI and Flask, on OpenTelemetry."
+2026-11-07T15:46:07Z,django-dg-core,1.0.0,Jasper Cramwinckel,MIT,1093222,"What the DataGroceries apps share: one MCP endpoint for all of them, people, notifications, and the checks on every way in."
+2026-11-07T15:46:32Z,hire-your-mck,0.1.0,Brian Lee,MIT,106647,Render consulting-style PowerPoint decks and source workbooks from a storyline spec
+2026-11-07T15:47:12Z,astatic,0.1.0,Joao Lopes,MIT,2595,Project tooling (early placeholder release)
+2026-11-07T15:47:15Z,astrograph,0.1.0,Joao Lopes,MIT,2631,Project tooling (early placeholder release)
+2026-11-07T15:47:18Z,astucious,0.1.0,Joao Lopes,MIT,2641,Project tooling (early placeholder release)
+2026-11-07T15:49:33Z,lovelycarve,1.3.0,,AGPL-3.0-only,7165364,"Read-only disk image, filesystem and archive access powered by Rust"
+2026-11-07T15:49:54Z,eval-preflight,0.1.0,Oussama Zbir,MIT,157682,"A pre-flight check for LLM eval results: catches partial runs, failed judges, mislabelled scores and inconsistent aggregation."
+2026-11-07T15:50:27Z,django-dg-connect,1.0.0,Jasper Cramwinckel,MIT,57748,"Connect Claude and other AI agents to the DataGroceries apps: OAuth for the Claude connector, and personal tokens."
+2026-11-07T15:54:24Z,pandadeck,0.0.1.dev1,,AGPL-3.0-or-later,56861,Run human-readable AI-assisted browser test scenarios from your project
+2026-11-07T15:54:38Z,django-dg-board,1.0.0,Jasper Cramwinckel,MIT,356368,A kanban ticket tracker for Django that people and AI agents work on together.
+2026-11-07T15:55:02Z,ai-agent-ledger,0.4.2,Naveed Ali,MIT,81525,"One daily log for all your AI coding agents: Claude Code, Codex, Cursor and any agent that reads AGENTS.md."
+2026-11-07T15:57:35Z,divelet-ml,0.1.0,decitre,Apache-2.0,31857,"Dive into Deep Learning, adapted for JupyterLite"
+2026-11-07T15:58:15Z,django-dg-wiki,1.0.0,Jasper Cramwinckel,MIT,139107,"A wiki for Django that people and AI agents write together, next to the board."
+2026-11-07T16:02:05Z,ddi-l-native,0.2.0,,MIT,3495345,Native XML core for ddi-l: a fast parser and an element tree that keeps its source
+2026-11-07T16:11:12Z,heapspy-mcp,0.1.1,,MIT,600764,MCP server that exposes heapspy heap snapshots and analysis to coding agents
+2026-11-07T16:12:45Z,preflight-agent,1.0.1,Jasveer Singh,MIT,160966,"Scan your AI-agent setup before it runs: auto-run surfaces, inline secrets, dead hooks, agent collisions, skill sprawl — five auditors, one receipt."
+2026-11-07T16:14:17Z,django-richtext-link,0.3.0,Ben Stähli <bnzk@bnzk.ch>,"The MIT License (MIT) Copyright (c) 2026 Ben Stähli Permission is hereby granted, free of charge, t…",1076469,Model based linking for the Quill 2 rich text editor in Django - the link dialog is a plain Django admin form
+2026-11-07T16:15:20Z,ecbackoff,1.1,,MIT AND CC-BY-4.0,10550137,"Inherit an enzyme's EC number only where the neighbourhood of its nearest characterized relative supports it; otherwise three digits, or nothing."
