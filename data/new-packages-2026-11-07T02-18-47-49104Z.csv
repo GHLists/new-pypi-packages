@@ -1,0 +1,20 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T01:21:54Z,prefixwise,0.3.0,Teja Chavali,MIT,168916,"Name why your LLM prompt cache missed, price the miss, and measure tokens per successful task. A local proxy and CLI for OpenAI, Anthropic and vLLM."
+2026-11-07T01:22:56Z,manby,0.1.4,,BSD-2-Clause,18266887,"Builds vector tilesets from geographic features, like tippecanoe, several times faster"
+2026-11-07T01:23:41Z,reactra,0.1.0.dev1,MechanismAtlas,,14953,"Inspect, summarize, and plot exported molecular-simulation trajectories"
+2026-11-07T01:28:30Z,woodstitch-mcp,0.1.5,Woodstitch LLC <support@woodstitch.com>,MIT,20152,MCP server for the Woodstitch API: paid human listeners judge your text-to-speech audio in blinded pairwise preference or human-vs-AI detection studies.
+2026-11-07T01:30:10Z,odmr-fit,0.1.0,,,2114790,High-throughput ODMR spectrum fitting
+2026-11-07T01:30:13Z,hilt-core,1.0.0,,Apache-2.0,1040601,"Python HIL testing with a pit of success: composable tests, guardrails that make a bad test hard to write, and an engine that won't let an unhandled failure pass silently."
+2026-11-07T01:32:59Z,django-device-bound-sessions,0.1.0,0xdade,MIT,127067,Device Bound Session Credentials (DBSC) for Django
+2026-11-07T01:45:18Z,autumn-rs,0.1.0,,Apache-2.0,4346816,Python client for autumn-rs: KV (zero-copy batch reads and writes) and the fs/ tree
+2026-11-07T01:45:20Z,argus-uq,0.1.1,"Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Omesh Tickoo, Ranganat…","MIT License Copyright (c) 2026 The Argus-UQ Authors Permission is hereby granted, free of charge, t…",5904892,Uncertainty quantification benchmark for VLM GUI grounding agents.
+2026-11-07T01:45:59Z,autumn-kvcache,0.1.0,autumn-rs contributors,Apache-2.0,149930,sglang HiCache L3 and vLLM KV-connector backends on autumn-rs
+2026-11-07T01:46:12Z,adhistory-mcp,0.2.1,adhistory,MIT,37112,"MCP server for AI agents: competitor Google ads, App Store/Google Play reviews, jobs from Workday/Greenhouse/Lever/Ashby and remote job boards, PDF tables, bank statements, invoices, email list clean…"
+2026-11-07T01:49:56Z,dsh-operator-agent,0.7.2,,Apache-2.0,1943650,无人值守 GPU 算子开发 agent：设计/生成/验证/修复 Triton 核，并给出可审计的判定
+2026-11-07T01:51:01Z,tractable,1.0.0,Joe Harris,MIT,462497,A JSON/Git TODO tracker for coding agents
+2026-11-07T01:59:48Z,mcp-autocad-lisp-helper,0.1.1,AutoLISP MCP Team,,80998,"Deterministic Model Context Protocol (MCP) server for static analysis, syntax checking, and state leakage detection in AutoCAD AutoLISP (.lsp) files."
+2026-11-07T02:05:52Z,resenh,0.1.0,Sharadh Naidu <sharadhanaidu@rvu.edu.in>,MIT,66539,"Robust low-light image restoration and enhancement: classical, deep and adaptive hybrid pipelines."
+2026-11-07T02:06:11Z,pytest-twinport,0.1.0,Petr Messner,MIT,25909,Pytest plugin that leases free TCP/UDP ports without race conditions between parallel test runs
+2026-11-07T02:08:29Z,help2skill,0.1.0,huysonmind <350970572+huysonmind@users.noreply.github.com>,MIT,130979,"Make Python CLIs ready for LLM agents: --llms output, SKILL.md generation and drift checks for Click, Typer and argparse."
+2026-11-07T02:08:47Z,proj-janitor,0.1.1,Tang Can <tang_can@qq.com>,MIT,130582,"Scan, back up, restore, prune, and clean old projects safely."
+2026-11-07T02:17:22Z,itol-cli,0.2.0,MOSS,MIT,110251,"iTOL command-line toolkit: annotation template generation, lint, upload/export pipeline"

@@ -1,48 +1,27 @@
 {
   "list": {
-    "count": 28,
-    "from": "2026-11-07T00:19:47.850876Z",
-    "path": "data/new-packages-2026-11-07T01-18-48-147771Z.csv",
-    "to": "2026-11-07T01:18:48.147771Z"
+    "count": 19,
+    "from": "2026-11-07T01:18:48.147771Z",
+    "path": "data/new-packages-2026-11-07T02-18-47-49104Z.csv",
+    "to": "2026-11-07T02:18:47.49104Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-06T21:50:41Z",
-      "package": "ajfhiuqhfqgwerhuqnfqh",
-      "since": "2026-11-06T21:18:46.272267Z",
-      "version": "0.1.0"
+      "attempts": 1,
+      "created_at": "2026-11-07T01:31:38Z",
+      "package": "exhale-xrf",
+      "since": "2026-11-07T01:18:48.147771Z",
+      "version": null
     },
     {
-      "attempts": 4,
-      "created_at": "2026-11-06T22:02:22Z",
-      "package": "fhqiouhq",
-      "since": "2026-11-06T21:18:46.272267Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-06T23:49:41Z",
       "package": "langgraph-api-core-bin",
       "since": "2026-11-06T23:19:59.878396Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-06T21:53:31Z",
-      "package": "reqnest",
-      "since": "2026-11-06T21:18:46.272267Z",
-      "version": "0.1.0"
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-06T22:04:28Z",
-      "package": "reqnests",
-      "since": "2026-11-06T21:18:46.272267Z",
-      "version": "0.1.1"
     }
   ],
-  "serial": 43317280,
+  "serial": 43318597,
   "source_truncated": false,
-  "window": "2026-11-07T01:18:48.147771Z"
+  "window": "2026-11-07T02:18:47.49104Z"
 }
