@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T19:21:33Z,tapir-autoclicker,0.2.0,Pierre Sylla,MIT,47743,Small Wayland-friendly autoclicker with a Qt UI
+2026-11-07T19:22:33Z,skill-customs,0.1.0,,MIT,72532,"Agent skills security: a lockfile, a license check, and commit pinning for the skills you install from GitHub. Scanners plug in."
+2026-11-07T19:26:48Z,jmbayes,0.5.0,Mo Assaf <mormoassaf@gmail.com>,GPL-3.0-or-later,279864,Bayesian joint models for longitudinal and time-to-event data: a Python/PyTorch implementation of JMbayes2 (CPU or GPU)
+2026-11-07T19:28:42Z,mik-automator,1.1.0,bvandrc <bvandercar@outlook.com>,MIT,14912,Windows automator and database tools for Mixed In Key 11
+2026-11-07T19:29:52Z,apiverve-filesizeformatter,1.2.4,APIVerve <hello@apiverve.com>,MIT,21063,"File Size Formatter converts raw byte counts into human-readable file size strings. Send a byte count with optional precision and unit settings to receive formatted labels, unit names, and scaled num…"
+2026-11-07T19:29:56Z,apiverve-ethereumprice,1.2.4,APIVerve <hello@apiverve.com>,MIT,25099,"Ethereum Price is an Ethereum price feed API that tracks the spot price and movement direction of Ethereum in US dollars. Paid plans add 172 currencies, market cap, 24-hour volume, supply, all-time h…"
+2026-11-07T19:30:00Z,apiverve-financialratios,1.2.4,APIVerve <hello@apiverve.com>,MIT,22837,"Financial Ratios returns the key profitability, liquidity, leverage, efficiency and cash-flow ratios for a US public company by ticker - margins, ROE, ROA, current ratio, debt-to-equity, interest cov…"
+2026-11-07T19:30:09Z,paramesh,1.1.0,,Apache-2.0,275497,An explicit parameter-server training protocol with independently running services
+2026-11-07T19:30:22Z,try-professional,0.1.0,,MIT,544332,"Turn Claude Code into a permanent AI company: a hierarchy of agents with roles, memory and vetted skills, and review gates enforced by code. Multi-agent orchestration via MCP."
+2026-11-07T19:30:36Z,apiverve-gamecharactergenerator,1.2.4,APIVerve <hello@apiverve.com>,MIT,21570,"Generate complete RPG-style characters with race, class, background, stats, and personality."
+2026-11-07T19:35:42Z,oryxeval,26.11.6,Oryx Intelligence LLC <dev@oryxintel.com>,MIT,146588,"Cheap, durable LLM evals: free and local, every arm cached so re-runs pay only for what changed, with confidence intervals and a verdict."
+2026-11-07T19:35:53Z,experimentpy,0.1.0,Ubaldo Hervas,MIT,18360,Statistical tools for online experimentation: sample size and sample ratio mismatch.
+2026-11-07T19:39:22Z,openjellybean,0.6.0,xdylanm,MIT,22373,"Generic, original 'jelly bean' SPICE models, packaged for use as a dependency"
+2026-11-07T19:39:32Z,ontolint,0.1.0,Arnaud Gelas,Apache-2.0,291154,"Offline ontology-quality linter for RDF, OWL, SKOS, and SHACL graphs"
+2026-11-07T19:41:55Z,valotcg,1.0.1,ValoTCG,MIT,69006,"Official Python client for Valo.Data, the ValoTCG trading card price API."
+2026-11-07T19:44:01Z,dixie,0.0.1,,MIT,4023,A simple CLI tool
+2026-11-07T19:48:34Z,ofscraper-community,3.16.2,datawhores <datawhores@riseup.net>,,1983322,automatically scrape onlyfans
+2026-11-07T19:55:48Z,apheleia-project-management,0.1.0,avl,MIT,227928,"Plan projects in YAML and generate interactive HTML reports of timelines, resource allocation and task progress"
+2026-11-07T19:56:24Z,xcaf-pmi,0.1.0,Paul Fremantle,Apache-2.0,157359,Turn the GD&T in an OpenCascade XCAF document (.xbf) into an AP242 STEP file with semantic PMI
+2026-11-07T20:01:42Z,mattesa,0.0.1,Jacky <jacky@gmail.com>,MIT,71601905,Mattesa package
+2026-11-07T20:04:11Z,infralab,1.0.0,Giulio Mariniello,MIT,815984,"Open library for bridge management: exchangeable stocks, degradation laws, regulations and players, compared on common random numbers."
+2026-11-07T20:04:16Z,pygame-3dce,0.0.1,PeaiiYT <kaelwerkAPPLE@outlook.com>,,3620,A clean 3D extension for pygame-ce using PyOpenGL
+2026-11-07T20:05:35Z,veriapi,0.1.0,,MIT,19914,"VeriApi.Pro resmî Python istemcisi: döviz, hava, namaz, deprem, il/ilçe"
+2026-11-07T20:07:43Z,hadoop-handler,1.1.0,Aditya Pidurkar <adityapidurkar01@gmail.com>,Apache-2.0,78687,Interactive cross-platform control panel for Apache Hadoop 3.4.2 Single-Node clusters
+2026-11-07T20:07:52Z,snailfish,0.1.0,Ben Crisp,MIT OR Apache-2.0,6406500,Python binding for the Snailfish sync engine.
+2026-11-07T20:07:56Z,pytheas1,1.1.0,Luigi D'Ascenzo,MIT,272209,Pytheas 1: automated analysis of RNA tandem mass spectrometry data (refreshed packaging of the published code)
+2026-11-07T20:09:41Z,simklcli,0.1.0,Javier Ochoa,"MIT License Copyright (c) 2026 Javier Ochoa Permission is hereby granted, free of charge, to any pe…",189700,"Track movies, shows, and anime on Simkl from the command line."
+2026-11-07T20:09:52Z,tuluai-malple-cli,0.1.0,TuluAI,MIT,33745,Use Malple from a terminal with a permission-scoped local workspace.
+2026-11-07T20:10:52Z,saeka-cli,25.0,,,7154,
+2026-11-07T20:12:43Z,backmarket-seller,0.1.0a1,,Apache-2.0,131346,Unofficial Python client for the Back Market Seller API. Not affiliated with Back Market.
+2026-11-07T20:12:44Z,mullm,1.0.0,muLLM Contributors,Apache-2.0,6105089,Local-first LLM router. 96.4% cost reduction. Free tier first.
+2026-11-07T20:13:56Z,proton2m365,0.1.0,,MIT,239317,"Move a Proton Mail Export Tool backup into Microsoft 365 or Outlook.com, with a receipt for every message."
+2026-11-07T20:15:17Z,vith,0.9.0,Jonathan Slenders,BSD-3-Clause,151789,Vith — a pure-Python Vi clone with Thai & Lao script support (fork of pyvim)

@@ -8,52 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 19:18 UTC
+## Latest list — 2026-11-07 20:20 UTC
 
-New packages created between 2026-11-07 18:18 UTC and 2026-11-07 19:18 UTC.
+New packages created between 2026-11-07 19:18 UTC and 2026-11-07 20:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T19-18-23-451667Z.csv)
+[Full CSV](data/new-packages-2026-11-07T20-20-07-142336Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 18:20:07 | [emode](https://pypi.org/project/emode/) | 0.1.0 | "EMode, Inc." <hello@emodepho… | 5.7 kB | Python interface for EMode, under its short name |
-| 2026-11-07 18:21:36 | [slashml-robotics](https://pypi.org/project/slashml-robotics/) | 1.0.0 | SlashML Robotics Inc. | 31.2 kB | Official Robotics & Spatial Memory SDK for SlashML |
-| 2026-11-07 18:21:37 | [flowglyph](https://pypi.org/project/flowglyph/) | 0.1.0 | Angel Fernandez <a.fernandez.… | 864.2 kB | Turn enterprise automations into a vendor-neutral IR that agents can discover,… |
-| 2026-11-07 18:24:42 | [django-pitchfork](https://pypi.org/project/django-pitchfork/) | 0.1.0 |  | 211.5 kB | Rust-powered search for Django: the haystack-compatible search layer on pitchfo… |
-| 2026-11-07 18:26:10 | [netlistmod](https://pypi.org/project/netlistmod/) | 0.5.0 | xdylanm | 250.0 kB | A source-preserving SPICE netlist editing library |
-| 2026-11-07 18:28:50 | [newskit](https://pypi.org/project/newskit/) | 0.1.8 | Les mainteneurs de Newskit | 3.4 MB | Automated topic monitoring for Claude Code: collects your sources, writes one c… |
-| 2026-11-07 18:29:06 | [jobsies](https://pypi.org/project/jobsies/) | 0.3.0 | ofinke | 375.4 kB | Task automation application |
-| 2026-11-07 18:30:19 | [site-kit](https://pypi.org/project/site-kit/) | 1.0.0 | Jasveer Singh | 176.7 kB | Is this static site ready to launch? A pre-launch audit, legal-page generator,… |
-| 2026-11-07 18:30:29 | [model-lab-tool](https://pypi.org/project/model-lab-tool/) | 1.0.3 | Omar Elhalaby | 12.0 kB | A modular machine learning toolkit supporting classification and regression. |
-| 2026-11-07 18:30:34 | [deriweave](https://pypi.org/project/deriweave/) | 0.4.0 | DeriWeave contributors | 1.6 MB | Composable derivatives pricing with the native DeriWeave C++20 engine |
-| 2026-11-07 18:31:50 | [fancy-fine-print](https://pypi.org/project/fancy-fine-print/) | 0.1.0 | Particle Academy | 2.7 MB | Zero-dependency PDF reader for agentic docs: text in reading order, per-word bo… |
-| 2026-11-07 18:33:34 | [acuqo](https://pypi.org/project/acuqo/) | 0.1.0 | Acuqo <contact@acuqo.com> | 2.9 kB | Acuqo — Precision Software & System Engineering |
-| 2026-11-07 18:39:22 | [pitchfork-engine](https://pypi.org/project/pitchfork-engine/) | 0.1.0 |  | 5.5 MB | Rust-powered search engine for Django (drop-in for django-haystack backends): n… |
-| 2026-11-07 18:39:41 | [slikui-python](https://pypi.org/project/slikui-python/) | 0.1.1 | slikui contributors | 11.6 MB | Python bindings for slikui — a header-only C++20 UI library |
-| 2026-11-07 18:41:29 | [cslope](https://pypi.org/project/cslope/) | 0.1.0 |  | 16.6 MB | Slope stability analysis: limit equilibrium (Bishop, Janbu, Morgenstern-Price)… |
-| 2026-11-07 18:42:13 | [fieldgraph](https://pypi.org/project/fieldgraph/) | 0.1.0 |  | 70.5 MB | Streaming dataflow and ML pipeline framework: ordered, versioned tables, a per-… |
-| 2026-11-07 18:45:27 | [karni-site](https://pypi.org/project/karni-site/) | 0.5.0 |  | 319.2 kB | Public websites for Karni: every text, image and menu editable in the admin, pu… |
-| 2026-11-07 18:45:31 | [karni-charts](https://pypi.org/project/karni-charts/) | 0.5.0 |  | 42.3 kB | Saved charts for Karni: charts defined and previewed in the admin, served throu… |
-| 2026-11-07 18:45:35 | [karni-reports](https://pypi.org/project/karni-reports/) | 0.5.0 | Chandrabhan Shekhawat <cbsshe… | 74.2 kB | Reports for Karni: a row printed to PDF from an HTML template in the background… |
-| 2026-11-07 18:45:39 | [karni-ai](https://pypi.org/project/karni-ai/) | 0.5.0 | Chandrabhan Shekhawat <cbsshe… | 90.6 kB | Structured extraction for Karni: rows for any resource read from text, a web pa… |
-| 2026-11-07 18:50:39 | [navprobe](https://pypi.org/project/navprobe/) | 0.1.0a1 | Ahmet-Hamza-Cakmak | 5.9 MB | Randomized navigation scenarios and simulation testing for mobile robots |
-| 2026-11-07 18:50:54 | [accesspath](https://pypi.org/project/accesspath/) | 0.1.1 | The accesspath maintainers | 525.6 kB | Website access audit (Site Architecture Profile): the simplest way that works t… |
-| 2026-11-07 18:51:24 | [pfund-bybit](https://pypi.org/project/pfund-bybit/) | 0.0.1 | softwareentrepreneer | 60.6 kB | Official Bybit trading venue plugin for `pfund`, can be used as a standalone By… |
-| 2026-11-07 18:52:50 | [braynix-dev-mcp](https://pypi.org/project/braynix-dev-mcp/) | 2.2.0 | Pranjal Yadav <2k24.cs1l.2410… | 172.1 kB | AI Engineering Operating System and local MCP server. |
-| 2026-11-07 18:53:58 | [relaymcp-client](https://pypi.org/project/relaymcp-client/) | 0.1.0 | RelayMCP <admin@relaymcp.net> | 11.0 kB | Official, dependency-free Python client for RelayMCP inboxes, messages, OTPs, w… |
-| 2026-11-07 18:54:20 | [interaction-eda-step](https://pypi.org/project/interaction-eda-step/) | 2026.11.7 | Paul Saxe | 399.0 kB | A SEAMM plug-in for Interaction EDA |
-| 2026-11-07 18:56:57 | [nextloop](https://pypi.org/project/nextloop/) | 0.1.0rc1 | 12bitsD <bis12@163.com> | 69.9 kB | An embeddable AgentLoop with explicit event, tool, recovery, and delivery seman… |
-| 2026-11-07 18:57:39 | [scietex.adc-service](https://pypi.org/project/scietex.adc-service/) | 0.1.0 | Anton Bondarenko <bond.anton@… | 54.7 kB | Scietex microservice daemon for SPI ADC devices |
-| 2026-11-07 18:57:40 | [scietex.dac-service](https://pypi.org/project/scietex.dac-service/) | 0.1.0 | Anton Bondarenko <bond.anton@… | 76.4 kB | Scietex microservice daemon for SPI DAC devices |
-| 2026-11-07 18:59:38 | [pyturnering](https://pypi.org/project/pyturnering/) | 0.1.0 | Jérémy Pagès <jer.pages@tutan… | 25.2 kB | Python implementation for the FESA (European Shogi Federation) rating calculato… |
-| 2026-11-07 19:00:14 | [opt-text](https://pypi.org/project/opt-text/) | 0.1.0 | EvenYouBrutus | 14.1 kB | One-Time Pad encryption for Unicode text (text-in / text-out). |
-| 2026-11-07 19:04:23 | [sentiel](https://pypi.org/project/sentiel/) | 1.0.0 | shinitihm | 152.5 kB | Personal AI-powered SOC: Sigma detection + LLM triage with any model |
-| 2026-11-07 19:04:33 | [pfeed-bybit](https://pypi.org/project/pfeed-bybit/) | 0.0.1 | softwareentrepreneer | 15.0 kB | Bybit data source plugin for pfeed: historical and live market data from Bybit. |
-| 2026-11-07 19:05:02 | [gcp-log-poc](https://pypi.org/project/gcp-log-poc/) | 0.0.2 |  | 8.0 kB |  |
-| 2026-11-07 19:07:54 | [cecilia](https://pypi.org/project/cecilia/) | 5.5.0 |  | 1.8 MB | Cecilia5 audio processing toolbox |
-| 2026-11-07 19:08:24 | [jimbo-agent](https://pypi.org/project/jimbo-agent/) | 0.1.0 |  | 711.6 kB | A simple coding agent built on Pydantic AI |
-| 2026-11-07 19:10:03 | [hlmc](https://pypi.org/project/hlmc/) | 0.1.0 | Brady <bradyreagan7@gamil.com> | 8.7 kB | A Minecraft Launcher |
-| 2026-11-07 19:12:16 | [playbook-engine](https://pypi.org/project/playbook-engine/) | 2.0.0 | Athletes' Performance, Inc. | 2.9 MB | Corpus-to-playbook compiler emitting the Open Playbook Format (OPF) |
-| 2026-11-07 19:13:12 | [subtitlemaker](https://pypi.org/project/subtitlemaker/) | 0.1.0 | Johan Isevind <codebyvibes@is… | 324.5 kB | Generate subtitles from audio and video files using faster-whisper. |
-| 2026-11-07 19:15:07 | [repolore-mcp](https://pypi.org/project/repolore-mcp/) | 0.2.0 | ryckakas <ryckakas@gmail.com> | 496.5 kB | RAG over your own engineering history on GitHub, with a CLI and an MCP server. |
-| 2026-11-07 19:15:30 | [slopkeeper](https://pypi.org/project/slopkeeper/) | 0.1.0 | Greg Brandt | 207.2 kB | A SlopKeeper for agent-slop corpora. Inventory, partition and scaffold messy fi… |
+| 2026-11-07 19:21:33 | [tapir-autoclicker](https://pypi.org/project/tapir-autoclicker/) | 0.2.0 | Pierre Sylla | 47.7 kB | Small Wayland-friendly autoclicker with a Qt UI |
+| 2026-11-07 19:22:33 | [skill-customs](https://pypi.org/project/skill-customs/) | 0.1.0 |  | 72.5 kB | Agent skills security: a lockfile, a license check, and commit pinning for the… |
+| 2026-11-07 19:26:48 | [jmbayes](https://pypi.org/project/jmbayes/) | 0.5.0 | Mo Assaf <mormoassaf@gmail.co… | 279.9 kB | Bayesian joint models for longitudinal and time-to-event data: a Python/PyTorch… |
+| 2026-11-07 19:28:42 | [mik-automator](https://pypi.org/project/mik-automator/) | 1.1.0 | bvandrc <bvandercar@outlook.c… | 14.9 kB | Windows automator and database tools for Mixed In Key 11 |
+| 2026-11-07 19:29:52 | [apiverve-filesizeformatter](https://pypi.org/project/apiverve-filesizeformatter/) | 1.2.4 | APIVerve <hello@apiverve.com> | 21.1 kB | File Size Formatter converts raw byte counts into human-readable file size stri… |
+| 2026-11-07 19:29:56 | [apiverve-ethereumprice](https://pypi.org/project/apiverve-ethereumprice/) | 1.2.4 | APIVerve <hello@apiverve.com> | 25.1 kB | Ethereum Price is an Ethereum price feed API that tracks the spot price and mov… |
+| 2026-11-07 19:30:00 | [apiverve-financialratios](https://pypi.org/project/apiverve-financialratios/) | 1.2.4 | APIVerve <hello@apiverve.com> | 22.8 kB | Financial Ratios returns the key profitability, liquidity, leverage, efficiency… |
+| 2026-11-07 19:30:09 | [paramesh](https://pypi.org/project/paramesh/) | 1.1.0 |  | 275.5 kB | An explicit parameter-server training protocol with independently running servi… |
+| 2026-11-07 19:30:22 | [try-professional](https://pypi.org/project/try-professional/) | 0.1.0 |  | 544.3 kB | Turn Claude Code into a permanent AI company: a hierarchy of agents with roles,… |
+| 2026-11-07 19:30:36 | [apiverve-gamecharactergenerator](https://pypi.org/project/apiverve-gamecharactergenerator/) | 1.2.4 | APIVerve <hello@apiverve.com> | 21.6 kB | Generate complete RPG-style characters with race, class, background, stats, and… |
+| 2026-11-07 19:35:42 | [oryxeval](https://pypi.org/project/oryxeval/) | 26.11.6 | Oryx Intelligence LLC <dev@or… | 146.6 kB | Cheap, durable LLM evals: free and local, every arm cached so re-runs pay only… |
+| 2026-11-07 19:35:53 | [experimentpy](https://pypi.org/project/experimentpy/) | 0.1.0 | Ubaldo Hervas | 18.4 kB | Statistical tools for online experimentation: sample size and sample ratio mism… |
+| 2026-11-07 19:39:22 | [openjellybean](https://pypi.org/project/openjellybean/) | 0.6.0 | xdylanm | 22.4 kB | Generic, original 'jelly bean' SPICE models, packaged for use as a dependency |
+| 2026-11-07 19:39:32 | [ontolint](https://pypi.org/project/ontolint/) | 0.1.0 | Arnaud Gelas | 291.2 kB | Offline ontology-quality linter for RDF, OWL, SKOS, and SHACL graphs |
+| 2026-11-07 19:41:55 | [valotcg](https://pypi.org/project/valotcg/) | 1.0.1 | ValoTCG | 69.0 kB | Official Python client for Valo.Data, the ValoTCG trading card price API. |
+| 2026-11-07 19:44:01 | [dixie](https://pypi.org/project/dixie/) | 0.0.1 |  | 4.0 kB | A simple CLI tool |
+| 2026-11-07 19:48:34 | [ofscraper-community](https://pypi.org/project/ofscraper-community/) | 3.16.2 | datawhores <datawhores@riseup… | 2.0 MB | automatically scrape onlyfans |
+| 2026-11-07 19:55:48 | [apheleia-project-management](https://pypi.org/project/apheleia-project-management/) | 0.1.0 | avl | 227.9 kB | Plan projects in YAML and generate interactive HTML reports of timelines, resou… |
+| 2026-11-07 19:56:24 | [xcaf-pmi](https://pypi.org/project/xcaf-pmi/) | 0.1.0 | Paul Fremantle | 157.4 kB | Turn the GD&T in an OpenCascade XCAF document (.xbf) into an AP242 STEP file wi… |
+| 2026-11-07 20:01:42 | [mattesa](https://pypi.org/project/mattesa/) | 0.0.1 | Jacky <jacky@gmail.com> | 71.6 MB | Mattesa package |
+| 2026-11-07 20:04:11 | [infralab](https://pypi.org/project/infralab/) | 1.0.0 | Giulio Mariniello | 816.0 kB | Open library for bridge management: exchangeable stocks, degradation laws, regu… |
+| 2026-11-07 20:04:16 | [pygame-3dce](https://pypi.org/project/pygame-3dce/) | 0.0.1 | PeaiiYT <kaelwerkAPPLE@outloo… | 3.6 kB | A clean 3D extension for pygame-ce using PyOpenGL |
+| 2026-11-07 20:05:35 | [veriapi](https://pypi.org/project/veriapi/) | 0.1.0 |  | 19.9 kB | VeriApi.Pro resmî Python istemcisi: döviz, hava, namaz, deprem, il/ilçe |
+| 2026-11-07 20:07:43 | [hadoop-handler](https://pypi.org/project/hadoop-handler/) | 1.1.0 | Aditya Pidurkar <adityapidurk… | 78.7 kB | Interactive cross-platform control panel for Apache Hadoop 3.4.2 Single-Node cl… |
+| 2026-11-07 20:07:52 | [snailfish](https://pypi.org/project/snailfish/) | 0.1.0 | Ben Crisp | 6.4 MB | Python binding for the Snailfish sync engine. |
+| 2026-11-07 20:07:56 | [pytheas1](https://pypi.org/project/pytheas1/) | 1.1.0 | Luigi D'Ascenzo | 272.2 kB | Pytheas 1: automated analysis of RNA tandem mass spectrometry data (refreshed p… |
+| 2026-11-07 20:09:41 | [simklcli](https://pypi.org/project/simklcli/) | 0.1.0 | Javier Ochoa | 189.7 kB | Track movies, shows, and anime on Simkl from the command line. |
+| 2026-11-07 20:09:52 | [tuluai-malple-cli](https://pypi.org/project/tuluai-malple-cli/) | 0.1.0 | TuluAI | 33.7 kB | Use Malple from a terminal with a permission-scoped local workspace. |
+| 2026-11-07 20:10:52 | [saeka-cli](https://pypi.org/project/saeka-cli/) | 25.0 |  | 7.2 kB |  |
+| 2026-11-07 20:12:43 | [backmarket-seller](https://pypi.org/project/backmarket-seller/) | 0.1.0a1 |  | 131.3 kB | Unofficial Python client for the Back Market Seller API. Not affiliated with Ba… |
+| 2026-11-07 20:12:44 | [mullm](https://pypi.org/project/mullm/) | 1.0.0 | muLLM Contributors | 6.1 MB | Local-first LLM router. 96.4% cost reduction. Free tier first. |
+| 2026-11-07 20:13:56 | [proton2m365](https://pypi.org/project/proton2m365/) | 0.1.0 |  | 239.3 kB | Move a Proton Mail Export Tool backup into Microsoft 365 or Outlook.com, with a… |
+| 2026-11-07 20:15:17 | [vith](https://pypi.org/project/vith/) | 0.9.0 | Jonathan Slenders | 151.8 kB | Vith — a pure-Python Vi clone with Thai & Lao script support (fork of pyvim) |
