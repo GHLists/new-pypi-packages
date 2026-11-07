@@ -1,0 +1,38 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T08:28:32Z,nethound,1.0.0,xploitoverload,MIT,25207,Newly Registered Domains (NRDs) Tracker & Threat Intelligence Extractor
+2026-11-07T08:29:38Z,imbue-datalib-reader,0.52.0,Imbue,MIT AND Apache-2.0 AND blessing,10042581,Read a datalib library's doltlite stores from any Python
+2026-11-07T08:29:52Z,sinary-winvideo,0.1.0,SINARY™,MIT OR Apache-2.0,2481078,Modern hardware-accelerated Windows screen and window video capture library by SINARY™
+2026-11-07T08:32:45Z,bloklake,0.1.0,,MIT,572784,"Bloklake API client: typed queries, Apache Arrow transport, JSON-like rows."
+2026-11-07T08:32:49Z,nlweb-widget,0.9.12,,MIT,385260,Framework-neutral NLWeb protocol widget for making authoritative domain content reachable by AI agents and AI search systems.
+2026-11-07T08:33:10Z,daguflow,0.3.0,Stephan Fitzpatrick,MIT,96539,"Author dagu workflows in Python, Airflow-style: decorators for DAGs and tasks, context managers for sub-DAGs"
+2026-11-07T08:33:17Z,system-parse-lib,0.0.4,Artem Ivashyn <artem4ik15082013@gmail.com>,BSD-3-Clause,13081,"A for now small python library used for getting information about the system and hardware on linux. Dependency free! (well, not really)"
+2026-11-07T08:34:58Z,dioptrin-io,0.1.0,Clemens Prescher,MIT,147891852,Native detector-file readers returning original counts as NumPy arrays
+2026-11-07T08:35:20Z,originoneai-awr,0.7.0,,Apache-2.0,133288900,AWR — the project delivery platform for people and AI
+2026-11-07T08:37:02Z,polyglot-ast-slicer,1.0.1,,MIT,673534,"Deterministic, token-efficient AST call-graph slicing for AI coding agents, exposed as a local MCP server."
+2026-11-07T08:37:12Z,intrlay,0.1.1,,Apache-2.0 OR MIT,24229,Typed storage for generated Intrlay memory views
+2026-11-07T08:38:07Z,wanderlog-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12402,"Connect Wanderlog to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Wanderlog API key needed."
+2026-11-07T08:38:08Z,smugmug-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12382,"Connect SmugMug to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No SmugMug API key needed."
+2026-11-07T08:38:09Z,mangomint-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12631,"Connect Mangomint to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Mangomint API key needed."
+2026-11-07T08:40:08Z,garmin-cotlet-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12447,"Connect Garmin Connect to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Garmin Connect API key needed."
+2026-11-07T08:40:08Z,medium-cotlet-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12386,"Connect Medium to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Medium API key needed."
+2026-11-07T08:40:10Z,housecall-pro-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12656,"Connect Housecall Pro to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Housecall Pro API key needed."
+2026-11-07T08:41:44Z,crexi-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12362,"Connect Crexi to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Crexi API key needed."
+2026-11-07T08:41:47Z,linkedin-cotlet-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12885,"Connect LinkedIn to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No LinkedIn API key needed."
+2026-11-07T08:41:50Z,distrokid-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12324,"Connect DistroKid to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No DistroKid API key needed."
+2026-11-07T08:42:24Z,knowledge-fabric,0.1.1,Knowledge Fabric Contributors,Apache-2.0,167957,MCP-native evidence retrieval platform
+2026-11-07T08:43:03Z,estimateone-mcp,1.0.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,12516,"Connect EstimateOne to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No EstimateOne API key needed."
+2026-11-07T08:43:32Z,mem20-ce,0.1.1,mem20 contributors,Apache-2.0,23888,"mem20 Core Edition — trusted, auditable memory substrate for AI agents. Grounded facts and simulated hypotheses never mix."
+2026-11-07T08:44:16Z,rms-host-cassini,0.1.0,"""Mark R. Showalter"" <mshowalter@seti.org>",Apache-2.0,210914,"Cassini mission hosts (ISS, UVIS, VIMS) for the OOPS observation geometry toolkit"
+2026-11-07T08:49:06Z,sourcelab,0.1.0,Stefane Fermigier,,2433,Add your description here
+2026-11-07T08:54:14Z,pgl-studio,0.1.1,E5 Enclave Inc.,Proprietary,40405,PGL Studio MCP server — the Prometheus<->studio seam: production-ground ops and the Olive Drive Transit game face behind the vetted descriptor contract.
+2026-11-07T08:56:03Z,rungpu,0.1.0,,,72309,Run a Python/ML job on the cheapest suitable GPU without thinking about cloud infrastructure.
+2026-11-07T08:57:25Z,jalpari,1.5.1,Jayant Dubey,MIT,895178,"The Jal Pari Language — a small, safe, fast language with an ML stack"
+2026-11-07T09:04:45Z,lyh111-rag,0.1.0,,,8744,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T09:05:43Z,langchain-modular-rag-djq,0.1.0,,,4212,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T09:05:52Z,fnirsatlas,0.1.0,Kalle Mäkelä,MIT,281732,"Parse, preprocess, and classify fNIRS datasets"
+2026-11-07T09:07:42Z,flaskit-cli,0.2.1,flaskit contributors,GPL-3.0-or-later,1074372,CLI scaffolding tool for Flask-Smorest projects with modular resources and Swagger definitions
+2026-11-07T09:11:05Z,langchain-modular-rag-gary,0.1.0,,,10662,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T09:11:16Z,rms-host-galileo,0.1.0,"""Mark R. Showalter"" <mshowalter@seti.org>",Apache-2.0,163004,Galileo mission host (SSI) for the OOPS observation geometry toolkit
+2026-11-07T09:11:41Z,manyagi-sdk,0.1.0,Manyagi,LicenseRef-Proprietary,7589,Manyagi platform client for the read and preparation API. Not yet published to PyPI.
+2026-11-07T09:13:29Z,langchain-kaiyuan-ty,0.1.0,,,10553,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-07T09:15:16Z,polars-ta-lib-extension,0.1.0,,MIT,18819232,237 TA-Lib indicators as native Polars expression plugins

@@ -8,44 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 08:18 UTC
+## Latest list — 2026-11-07 09:18 UTC
 
-New packages created between 2026-11-07 07:19 UTC and 2026-11-07 08:18 UTC.
+New packages created between 2026-11-07 08:18 UTC and 2026-11-07 09:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T08-18-46-125815Z.csv)
+[Full CSV](data/new-packages-2026-11-07T09-18-53-043032Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 07:19:17 | [seampact-ninja](https://pypi.org/project/seampact-ninja/) | 1.0.0 |  | 43.8 kB | The Django Ninja target of seampact: its generator and the placement runtime of… |
-| 2026-11-07 07:20:30 | [langchain-ass-001](https://pypi.org/project/langchain-ass-001/) | 0.1.0 |  | 10.3 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:22:43 | [aidancevideo-replay-windows](https://pypi.org/project/aidancevideo-replay-windows/) | 0.1.0 |  | 7.0 kB | Validate local video replay windows and export their timestamps as CSV. |
-| 2026-11-07 07:23:48 | [langchain-litianyu-rag](https://pypi.org/project/langchain-litianyu-rag/) | 0.1.0 |  | 4.2 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:24:40 | [langchain-sjy-test](https://pypi.org/project/langchain-sjy-test/) | 0.1.0 |  | 4.1 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:25:34 | [langchain-jian-workflow-rag](https://pypi.org/project/langchain-jian-workflow-rag/) | 0.1.0 |  | 4.3 kB | A workflow RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:28:08 | [drakun-lakehouse-core](https://pypi.org/project/drakun-lakehouse-core/) | 0.6.1 |  | 172.3 kB | The lakehouse as the signed-in user: Lakekeeper catalog browsing, dataset files… |
-| 2026-11-07 07:28:43 | [burstgate](https://pypi.org/project/burstgate/) | 0.1.0 | Hamidreza <h4midrezam@gmail.c… | 51.9 kB | Resilient, zero-dependency rate limiting, dual-resource token budgeting (RPM/TP… |
-| 2026-11-07 07:28:58 | [genblaze-atlascloud](https://pypi.org/project/genblaze-atlascloud/) | 0.1.0 | Security Researcher (Bugcrowd) | 2.0 kB | Authorized security-research canary for Bugcrowd report (installation telemetry… |
-| 2026-11-07 07:29:08 | [langchain-modular-rag-hycc](https://pypi.org/project/langchain-modular-rag-hycc/) | 0.1.0 |  | 10.6 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:31:08 | [aalamb-langchain-modular-rag](https://pypi.org/project/aalamb-langchain-modular-rag/) | 0.1.0 |  | 2.6 kB | Modular RAG pipeline built with LangChain |
-| 2026-11-07 07:31:42 | [misayafff-modular-rag](https://pypi.org/project/misayafff-modular-rag/) | 0.1.0 |  | 10.4 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:31:52 | [debscout](https://pypi.org/project/debscout/) | 0.1.1 | Manish Sharma | 60.4 kB | Find the fastest up-to-date Debian mirrors and configure apt to use them, with… |
-| 2026-11-07 07:32:54 | [genblaze-fal](https://pypi.org/project/genblaze-fal/) | 0.1.0 | Security Researcher (Bugcrowd) | 2.0 kB | Authorized security-research canary for Bugcrowd report (installation telemetry… |
-| 2026-11-07 07:33:55 | [langchain-modular-zeq](https://pypi.org/project/langchain-modular-zeq/) | 0.1.0 |  | 10.4 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:34:07 | [langchain-modular-rag-cjx](https://pypi.org/project/langchain-modular-rag-cjx/) | 0.1.0 |  | 10.5 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:35:20 | [sssyyy-langchain-modular-rag](https://pypi.org/project/sssyyy-langchain-modular-rag/) | 0.1.0 |  | 2.6 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:35:48 | [frost-gnn](https://pypi.org/project/frost-gnn/) | 0.3.1 |  | 4.5 MB | Multi-GPU temporal graph neural networks for recommendation systems. |
-| 2026-11-07 07:37:06 | [super-langchain-modular-rag-hty](https://pypi.org/project/super-langchain-modular-rag-hty/) | 0.1.0 |  | 4.3 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:40:14 | [yyq-rag-utils](https://pypi.org/project/yyq-rag-utils/) | 0.1.0 | yangyuqian | 8.8 kB | 模块化 RAG 检索工具：向量检索、BM25 混合检索、RRF 融合、重排与上下文压缩 |
-| 2026-11-07 07:43:42 | [stunningly-slick-and-epic-RAG-Model](https://pypi.org/project/stunningly-slick-and-epic-RAG-Model/) | 0.1.0 |  | 4.4 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:44:05 | [feedscope](https://pypi.org/project/feedscope/) | 0.1.0 | howardli | 589.8 kB | FeedScope (观流): a terminal feed reader — Zhihu / X / Reddit / HN / V2EX / RSS /… |
-| 2026-11-07 07:44:56 | [noir-modular-rag](https://pypi.org/project/noir-modular-rag/) | 0.1.0 |  | 22.8 kB | Modular retrieval with Chroma, BM25, DashScope, and OpenAI. |
-| 2026-11-07 07:45:13 | [jearless](https://pypi.org/project/jearless/) | 0.10.4 | Andrei Zakhrebetkov | 63.5 kB | Fearless. Jearless. Task tracking and a changelog on bare git — for small teams. |
-| 2026-11-07 07:49:38 | [shuaigang-rag](https://pypi.org/project/shuaigang-rag/) | 0.1.0 |  | 4.1 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:51:47 | [mkdocs-chess-plugin](https://pypi.org/project/mkdocs-chess-plugin/) | 0.1.0 |  | 100.0 kB | Playable chess and xiangqi boards in MkDocs from FEN |
-| 2026-11-07 07:56:32 | [langchain-hundaren-rag](https://pypi.org/project/langchain-hundaren-rag/) | 0.1.0 |  | 10.4 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-07 07:58:51 | [tn-venv-create-activate](https://pypi.org/project/tn-venv-create-activate/) | 0.1.0 | Evan Yang <quantbit@126.com> | 21.9 kB | A tn-venv plugin that activates the new environment when creating a new one |
-| 2026-11-07 08:03:40 | [pylgframework](https://pypi.org/project/pylgframework/) | 0.1.0 | Moisés Frutos Plaza | 30.1 kB | Local Group barycentre with propagated observational uncertainty (Monte Carlo) |
-| 2026-11-07 08:07:01 | [africa-tts](https://pypi.org/project/africa-tts/) | 0.1.0 | AfriSpeech / Ghana NLP | 819.3 kB | Fast, CPU-friendly text-to-speech for 92 African languages and English (Pocket… |
-| 2026-11-07 08:16:03 | [flocta](https://pypi.org/project/flocta/) | 0.0.0 | Flocta GmbH | 1.7 kB | Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality. |
-| 2026-11-07 08:16:04 | [flocta-cli](https://pypi.org/project/flocta-cli/) | 0.0.0 | Flocta GmbH | 1.8 kB | Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality. |
-| 2026-11-07 08:16:05 | [flocta-schemas](https://pypi.org/project/flocta-schemas/) | 0.0.0 | Flocta GmbH | 1.8 kB | Reserved by Flocta GmbH (flocta.ai). Placeholder, no functionality. |
+| 2026-11-07 08:28:32 | [nethound](https://pypi.org/project/nethound/) | 1.0.0 | xploitoverload | 25.2 kB | Newly Registered Domains (NRDs) Tracker & Threat Intelligence Extractor |
+| 2026-11-07 08:29:38 | [imbue-datalib-reader](https://pypi.org/project/imbue-datalib-reader/) | 0.52.0 | Imbue | 10.0 MB | Read a datalib library's doltlite stores from any Python |
+| 2026-11-07 08:29:52 | [sinary-winvideo](https://pypi.org/project/sinary-winvideo/) | 0.1.0 | SINARY™ | 2.5 MB | Modern hardware-accelerated Windows screen and window video capture library by… |
+| 2026-11-07 08:32:45 | [bloklake](https://pypi.org/project/bloklake/) | 0.1.0 |  | 572.8 kB | Bloklake API client: typed queries, Apache Arrow transport, JSON-like rows. |
+| 2026-11-07 08:32:49 | [nlweb-widget](https://pypi.org/project/nlweb-widget/) | 0.9.12 |  | 385.3 kB | Framework-neutral NLWeb protocol widget for making authoritative domain content… |
+| 2026-11-07 08:33:10 | [daguflow](https://pypi.org/project/daguflow/) | 0.3.0 | Stephan Fitzpatrick | 96.5 kB | Author dagu workflows in Python, Airflow-style: decorators for DAGs and tasks,… |
+| 2026-11-07 08:33:17 | [system-parse-lib](https://pypi.org/project/system-parse-lib/) | 0.0.4 | Artem Ivashyn <artem4ik150820… | 13.1 kB | A for now small python library used for getting information about the system an… |
+| 2026-11-07 08:34:58 | [dioptrin-io](https://pypi.org/project/dioptrin-io/) | 0.1.0 | Clemens Prescher | 147.9 MB | Native detector-file readers returning original counts as NumPy arrays |
+| 2026-11-07 08:35:20 | [originoneai-awr](https://pypi.org/project/originoneai-awr/) | 0.7.0 |  | 133.3 MB | AWR — the project delivery platform for people and AI |
+| 2026-11-07 08:37:02 | [polyglot-ast-slicer](https://pypi.org/project/polyglot-ast-slicer/) | 1.0.1 |  | 673.5 kB | Deterministic, token-efficient AST call-graph slicing for AI coding agents, exp… |
+| 2026-11-07 08:37:12 | [intrlay](https://pypi.org/project/intrlay/) | 0.1.1 |  | 24.2 kB | Typed storage for generated Intrlay memory views |
+| 2026-11-07 08:38:07 | [wanderlog-mcp](https://pypi.org/project/wanderlog-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.4 kB | Connect Wanderlog to Claude Code, ChatGPT and any AI agent through Cotlet.dev,… |
+| 2026-11-07 08:38:08 | [smugmug-mcp](https://pypi.org/project/smugmug-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.4 kB | Connect SmugMug to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a… |
+| 2026-11-07 08:38:09 | [mangomint-mcp](https://pypi.org/project/mangomint-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.6 kB | Connect Mangomint to Claude Code, ChatGPT and any AI agent through Cotlet.dev,… |
+| 2026-11-07 08:40:08 | [garmin-cotlet-mcp](https://pypi.org/project/garmin-cotlet-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.4 kB | Connect Garmin Connect to Claude Code, ChatGPT and any AI agent through Cotlet.… |
+| 2026-11-07 08:40:08 | [medium-cotlet-mcp](https://pypi.org/project/medium-cotlet-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.4 kB | Connect Medium to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a h… |
+| 2026-11-07 08:40:10 | [housecall-pro-mcp](https://pypi.org/project/housecall-pro-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.7 kB | Connect Housecall Pro to Claude Code, ChatGPT and any AI agent through Cotlet.d… |
+| 2026-11-07 08:41:44 | [crexi-mcp](https://pypi.org/project/crexi-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.4 kB | Connect Crexi to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a ho… |
+| 2026-11-07 08:41:47 | [linkedin-cotlet-mcp](https://pypi.org/project/linkedin-cotlet-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.9 kB | Connect LinkedIn to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a… |
+| 2026-11-07 08:41:50 | [distrokid-mcp](https://pypi.org/project/distrokid-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.3 kB | Connect DistroKid to Claude Code, ChatGPT and any AI agent through Cotlet.dev,… |
+| 2026-11-07 08:42:24 | [knowledge-fabric](https://pypi.org/project/knowledge-fabric/) | 0.1.1 | Knowledge Fabric Contributors | 168.0 kB | MCP-native evidence retrieval platform |
+| 2026-11-07 08:43:03 | [estimateone-mcp](https://pypi.org/project/estimateone-mcp/) | 1.0.0 | "Cotlet.dev" <contact@cotlet.… | 12.5 kB | Connect EstimateOne to Claude Code, ChatGPT and any AI agent through Cotlet.dev… |
+| 2026-11-07 08:43:32 | [mem20-ce](https://pypi.org/project/mem20-ce/) | 0.1.1 | mem20 contributors | 23.9 kB | mem20 Core Edition — trusted, auditable memory substrate for AI agents. Grounde… |
+| 2026-11-07 08:44:16 | [rms-host-cassini](https://pypi.org/project/rms-host-cassini/) | 0.1.0 | "Mark R. Showalter" <mshowalt… | 210.9 kB | Cassini mission hosts (ISS, UVIS, VIMS) for the OOPS observation geometry toolk… |
+| 2026-11-07 08:49:06 | [sourcelab](https://pypi.org/project/sourcelab/) | 0.1.0 | Stefane Fermigier | 2.4 kB | Add your description here |
+| 2026-11-07 08:54:14 | [pgl-studio](https://pypi.org/project/pgl-studio/) | 0.1.1 | E5 Enclave Inc. | 40.4 kB | PGL Studio MCP server — the Prometheus<->studio seam: production-ground ops and… |
+| 2026-11-07 08:56:03 | [rungpu](https://pypi.org/project/rungpu/) | 0.1.0 |  | 72.3 kB | Run a Python/ML job on the cheapest suitable GPU without thinking about cloud i… |
+| 2026-11-07 08:57:25 | [jalpari](https://pypi.org/project/jalpari/) | 1.5.1 | Jayant Dubey | 895.2 kB | The Jal Pari Language — a small, safe, fast language with an ML stack |
+| 2026-11-07 09:04:45 | [lyh111-rag](https://pypi.org/project/lyh111-rag/) | 0.1.0 |  | 8.7 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 09:05:43 | [langchain-modular-rag-djq](https://pypi.org/project/langchain-modular-rag-djq/) | 0.1.0 |  | 4.2 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 09:05:52 | [fnirsatlas](https://pypi.org/project/fnirsatlas/) | 0.1.0 | Kalle Mäkelä | 281.7 kB | Parse, preprocess, and classify fNIRS datasets |
+| 2026-11-07 09:07:42 | [flaskit-cli](https://pypi.org/project/flaskit-cli/) | 0.2.1 | flaskit contributors | 1.1 MB | CLI scaffolding tool for Flask-Smorest projects with modular resources and Swag… |
+| 2026-11-07 09:11:05 | [langchain-modular-rag-gary](https://pypi.org/project/langchain-modular-rag-gary/) | 0.1.0 |  | 10.7 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 09:11:16 | [rms-host-galileo](https://pypi.org/project/rms-host-galileo/) | 0.1.0 | "Mark R. Showalter" <mshowalt… | 163.0 kB | Galileo mission host (SSI) for the OOPS observation geometry toolkit |
+| 2026-11-07 09:11:41 | [manyagi-sdk](https://pypi.org/project/manyagi-sdk/) | 0.1.0 | Manyagi | 7.6 kB | Manyagi platform client for the read and preparation API. Not yet published to… |
+| 2026-11-07 09:13:29 | [langchain-kaiyuan-ty](https://pypi.org/project/langchain-kaiyuan-ty/) | 0.1.0 |  | 10.6 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-07 09:15:16 | [polars-ta-lib-extension](https://pypi.org/project/polars-ta-lib-extension/) | 0.1.0 |  | 18.8 MB | 237 TA-Lib indicators as native Polars expression plugins |
