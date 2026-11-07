@@ -8,34 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 00:19 UTC
+## Latest list — 2026-11-07 01:18 UTC
 
-New packages created between 2026-11-06 23:19 UTC and 2026-11-07 00:19 UTC.
+New packages created between 2026-11-07 00:19 UTC and 2026-11-07 01:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T00-19-47-850876Z.csv)
+[Full CSV](data/new-packages-2026-11-07T01-18-48-147771Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-06 23:24:20 | [agent-framework-dxmt](https://pypi.org/project/agent-framework-dxmt/) | 1.6.0 | DXMT Team <contact@dxmt.onlin… | 44.9 kB | DXMT vector store and memory context provider for Microsoft Agent Framework |
-| 2026-11-06 23:26:11 | [tracetrim](https://pypi.org/project/tracetrim/) | 0.3.5 | Alessio Pomaro | 130.4 kB | Learn which fields of tool outputs an agent visibly reuses, from its traces, an… |
-| 2026-11-06 23:27:30 | [prisma-oed](https://pypi.org/project/prisma-oed/) | 0.0.3 | "Dante Basile, Xavier Tricoch… | 63.1 kB | PRISMA (Physics-informed Regression and Inference for Statistics-driven Measure… |
-| 2026-11-06 23:31:39 | [sdos](https://pypi.org/project/sdos/) | 0.1.0 | "David A. Drabold" <drabold@o… | 165.5 kB | Order-N spectral density of states (KPM, Maxent, shift-invert) for large sparse… |
-| 2026-11-06 23:32:51 | [bookspine](https://pypi.org/project/bookspine/) | 0.1.0 | Alkaid Cheng <alkaidc@stanfor… | 1.5 MB | Build a textbook-style static site from Markdown chapters. |
-| 2026-11-06 23:33:56 | [beancount-upbank](https://pypi.org/project/beancount-upbank/) | 0.1.0 | John Mee | 82.8 kB | Import Up Bank (Australia) transactions into Beancount, and tidy up pending one… |
-| 2026-11-06 23:37:29 | [scaneval](https://pypi.org/project/scaneval/) | 2.0.0a1 | ScanEval contributors | 3.6 MB | Alpha framework for reproducible security-scanner evaluation and observability. |
-| 2026-11-06 23:38:06 | [chonydozon-cainiao](https://pypi.org/project/chonydozon-cainiao/) | 0.1.1 | zhongshuizhou <zhongshuizhou@… | 9.2 kB | chonydozon 菜鸟业务 Python 包 |
-| 2026-11-06 23:39:47 | [gameaikit](https://pypi.org/project/gameaikit/) | 0.1.0 |  | 102.1 kB | Game AI techniques in plain Python: search, planning, fuzzy control, steering,… |
-| 2026-11-06 23:40:08 | [chonydozon-taobao](https://pypi.org/project/chonydozon-taobao/) | 0.1.1 | zhongshuizhou <zhongshuizhou@… | 9.2 kB | chonydozon 淘宝业务 Python 包 |
-| 2026-11-06 23:40:21 | [chonydozon-douyin](https://pypi.org/project/chonydozon-douyin/) | 0.1.1 | zhongshuizhou <zhongshuizhou@… | 9.2 kB | chonydozon 抖音业务 Python 包 |
-| 2026-11-06 23:41:19 | [triangulum](https://pypi.org/project/triangulum/) | 0.40.2 | CodeZero | 207.6 MB | Triangulum is the CodeZero validation layer |
-| 2026-11-06 23:41:32 | [chonydozon-xiaohongshu](https://pypi.org/project/chonydozon-xiaohongshu/) | 0.1.0 | zhongshuizhou <zhongshuizhou@… | 8.4 kB | chonydozon 小红书业务 Python 包 |
-| 2026-11-06 23:42:11 | [beatfit](https://pypi.org/project/beatfit/) | 0.2.0 | Eddie Zhou | 58.4 kB | Retime video clips so chosen moments land on the beats of a song. |
-| 2026-11-06 23:46:59 | [definition-of-done](https://pypi.org/project/definition-of-done/) | 0.0.1.dev0 |  | 1.4 kB | Placeholder release reserving the name for Definition of Done - an open-source,… |
-| 2026-11-06 23:51:38 | [outnoise](https://pypi.org/project/outnoise/) | 1.0.0 |  | 33.4 kB | Official Python SDK for the Outnoise Developer |
-| 2026-11-06 23:52:26 | [lean-vouch](https://pypi.org/project/lean-vouch/) | 0.1.0 | Jonathan Jeffrey | 180.7 kB | Track and vouch for your understanding of Lean definitions and theorem statemen… |
-| 2026-11-06 23:54:08 | [irradiance](https://pypi.org/project/irradiance/) | 0.0.2 |  | 1.3 MB | Crash-proof, GIL-free camera RAW (DNG) decoding for NumPy and PyTorch data load… |
-| 2026-11-07 00:00:31 | [nf12](https://pypi.org/project/nf12/) | 1.0.0 |  | 69.2 MB | Lossless 12-bit encoding of BF16 weights with fused CUDA decode-GEMM kernels |
-| 2026-11-07 00:04:49 | [hodlvn](https://pypi.org/project/hodlvn/) | 0.1.0 |  | 44.9 kB | HODL Lab — chỉ báo, chiến lược, backtest danh mục cổ phiếu Việt Nam trên dữ liệ… |
-| 2026-11-07 00:07:46 | [cscs-constraint-engine](https://pypi.org/project/cscs-constraint-engine/) | 2026.10.2 | "Lazaro M. Echenique-Diaz, Ph… | 55.8 kB | CSCS Constraint Physics Engine: Zero-GPU Spectral Manifold & Contractive Teleme… |
-| 2026-11-07 00:10:12 | [sensopy](https://pypi.org/project/sensopy/) | 0.0.1 | Edgar Ramírez-Mondragón <edga… | 41.5 kB | Python library for the design and analysis of sensory discrimination tests. |
-| 2026-11-07 00:15:59 | [sixamp](https://pypi.org/project/sixamp/) | 1.0.0 |  | 64.6 kB | A 1990s-style MP3 player for the terminal, drawn in Sixel graphics, with spectr… |
+| 2026-11-07 00:21:43 | [rtfmup](https://pypi.org/project/rtfmup/) | 0.0.1.dev0 | xb17 | 17.4 kB | Set up any repo from its README. |
+| 2026-11-07 00:23:00 | [streamembed](https://pypi.org/project/streamembed/) | 0.1.0 |  | 94.5 kB | Search your own screen history by describing what you saw, from screenshots, on… |
+| 2026-11-07 00:24:55 | [aether-observability](https://pypi.org/project/aether-observability/) | 0.3.2 | AETHER contributors | 454.9 kB | AETHER — Python observability and intelligent log monitoring framework |
+| 2026-11-07 00:26:31 | [agent-evidence-verify](https://pypi.org/project/agent-evidence-verify/) | 0.5.0 |  | 1.1 MB | Check claims against pinned evidence offline, with replayable decisions |
+| 2026-11-07 00:28:43 | [goaly-looper](https://pypi.org/project/goaly-looper/) | 0.1.0b1 |  | 148.5 kB | Looper's SDK: the client and the typed values of Looper's API, looper.v1. |
+| 2026-11-07 00:28:57 | [njord-player-remote](https://pypi.org/project/njord-player-remote/) | 3.0.0rc1 |  | 92.1 kB | Control Njord Player 3 from Python through its local scripting interface |
+| 2026-11-07 00:30:00 | [llm-web-son](https://pypi.org/project/llm-web-son/) | 0.1.0 | Your Name <your_email@example… | 3.3 kB | Công cụ cào Google Search AI Overview và lọc thông tin tự động bằng Local LLM |
+| 2026-11-07 00:30:24 | [mrpt3](https://pypi.org/project/mrpt3/) | 3.6.2 | Jose Luis Blanco-Claraco | 181.7 MB | Mobile Robot Programming Toolkit (MRPT): poses, maps, SLAM, 3D scenes and more,… |
+| 2026-11-07 00:34:30 | [nocturne-shift](https://pypi.org/project/nocturne-shift/) | 0.5.5 | Christopher McAdams <mca.chri… | 68.3 kB | Shift between light and dark with the sun: sunrise/sunset times and day or night |
+| 2026-11-07 00:35:17 | [async-royale-client](https://pypi.org/project/async-royale-client/) | 1.0.2 | Johannes Habel <EchterAlsFake… | 88.4 kB | Typed async Python client for the official Clash Royale REST API |
+| 2026-11-07 00:39:21 | [quak-camera](https://pypi.org/project/quak-camera/) | 0.1.0 | Adriel Santos | 2.1 MB | Open-source remote for GoPro HERO11 cameras over BLE and Wi-Fi: a CLI and a cro… |
+| 2026-11-07 00:39:23 | [VCD43NRT](https://pypi.org/project/VCD43NRT/) | 1.0.1 | "Gregory H. Halverson" <grego… | 1.6 MB | VIIRS near-real-time BRDF, albedo, and NDVI processing across SNPP and JPSS mis… |
+| 2026-11-07 00:47:07 | [sardine-ewas](https://pypi.org/project/sardine-ewas/) | 0.1.0 | Ryan Moreno <rrmoreno@wisc.ed… | 8.3 MB | Epigenetic clock and phenotype associations from EWAS summary statistics |
+| 2026-11-07 00:49:21 | [syscu-kiro-report-usage](https://pypi.org/project/syscu-kiro-report-usage/) | 0.1.0 |  | 145.9 kB | Self-contained HTML report of Kiro usage and cost per IAM Identity Center user… |
+| 2026-11-07 00:51:36 | [gnome-night-shift](https://pypi.org/project/gnome-night-shift/) | 0.4.5 | Christopher McAdams <mca.chri… | 47.4 kB | Switch GNOME between light and dark at sunrise and sunset: systemd timers (`noc… |
+| 2026-11-07 00:51:56 | [conda-skills](https://pypi.org/project/conda-skills/) | 0.1.0 |  | 2.5 MB | Link conda-packaged agent skills into client directories |
+| 2026-11-07 00:52:58 | [bullla-airflow-operators](https://pypi.org/project/bullla-airflow-operators/) | 0.1.0 |  | 20.3 kB | Operadores Airflow de Dataflow e Dataform executados no triggerer. |
+| 2026-11-07 00:54:09 | [whatsapp-business-cloud](https://pypi.org/project/whatsapp-business-cloud/) | 0.1.2 | whatsapp-business-cloud contr… | 260.4 kB | Python client for the WhatsApp Business Platform (Cloud API) |
+| 2026-11-07 00:56:07 | [mcp-server-autocad-lisp-helper](https://pypi.org/project/mcp-server-autocad-lisp-helper/) | 0.1.0 | AutoLISP MCP Team | 77.8 kB | Deterministic Model Context Protocol (MCP) server for static analysis, syntax c… |
+| 2026-11-07 00:58:42 | [seit-the-p](https://pypi.org/project/seit-the-p/) | 1.0.0 | Some Random Guy | 3.2 kB | This package can be used to convert Excel invoices to PDF invoices. |
+| 2026-11-07 01:02:52 | [ed521rs](https://pypi.org/project/ed521rs/) | 0.1.0 | Tacio Medeiros | 3.8 MB | Fast Ed521 (EdDSA over E-521, ICP-Brasil DOC-ICP-01.01) signature verification,… |
+| 2026-11-07 01:04:55 | [mist-glioma](https://pypi.org/project/mist-glioma/) | 0.1.0 | Adrian Celaya | 18.6 MB | End-to-end adult glioma segmentation from raw brain MRI with MIST |
+| 2026-11-07 01:12:35 | [pytycho](https://pypi.org/project/pytycho/) | 0.2.0 | Claudio Vestini, Nina Karampe… | 1.0 MB | Animated, interactive astrodynamics visualizations in a single HTML file |
+| 2026-11-07 01:12:56 | [kindof](https://pypi.org/project/kindof/) | 0.1.0 | wispsy | 9.9 kB | Typed, JSON-compatible object inspection for Python. |
+| 2026-11-07 01:15:37 | [croner](https://pypi.org/project/croner/) | 1.0.0 | Hexagon <hexagon@56k.guru> | 55.2 kB | Cron for Python. Parse and evaluate cron patterns, enumerate runs across time z… |
+| 2026-11-07 01:16:22 | [pitwall-agents](https://pypi.org/project/pitwall-agents/) | 0.1.0 | Siddhant Sinha | 91.2 kB | A pit wall for your coding agents: see every session's state on a desk device a… |
+| 2026-11-07 01:16:54 | [texlens](https://pypi.org/project/texlens/) | 0.1.0 | Roberta De Viti | 90.8 kB | Count the words of a LaTeX paper without its hidden text, and list its notes to… |
+| 2026-11-07 01:18:00 | [elenctic](https://pypi.org/project/elenctic/) | 1.0.0 | Gregory Gelfond <gregory_gelf… | 316.9 kB | Contracts and queries for answer set programs: a library first, a command line… |

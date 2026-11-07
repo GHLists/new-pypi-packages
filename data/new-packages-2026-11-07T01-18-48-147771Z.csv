@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T00:21:43Z,rtfmup,0.0.1.dev0,xb17,Apache-2.0,17356,Set up any repo from its README.
+2026-11-07T00:23:00Z,streamembed,0.1.0,,Apache-2.0,94536,"Search your own screen history by describing what you saw, from screenshots, on your machine"
+2026-11-07T00:24:55Z,aether-observability,0.3.2,AETHER contributors,MIT,454937,AETHER — Python observability and intelligent log monitoring framework
+2026-11-07T00:26:31Z,agent-evidence-verify,0.5.0,,Apache-2.0,1143662,"Check claims against pinned evidence offline, with replayable decisions"
+2026-11-07T00:28:43Z,goaly-looper,0.1.0b1,,,148490,"Looper's SDK: the client and the typed values of Looper's API, looper.v1."
+2026-11-07T00:28:57Z,njord-player-remote,3.0.0rc1,,,92084,Control Njord Player 3 from Python through its local scripting interface
+2026-11-07T00:30:00Z,llm-web-son,0.1.0,Your Name <your_email@example.com>,,3309,Công cụ cào Google Search AI Overview và lọc thông tin tự động bằng Local LLM
+2026-11-07T00:30:24Z,mrpt3,3.6.2,Jose Luis Blanco-Claraco,BSD-3-Clause,181737780,"Mobile Robot Programming Toolkit (MRPT): poses, maps, SLAM, 3D scenes and more, from Python"
+2026-11-07T00:34:30Z,nocturne-shift,0.5.5,Christopher McAdams <mca.christopher@gmail.com>,MIT,68282,Shift between light and dark with the sun: sunrise/sunset times and day or night
+2026-11-07T00:35:17Z,async-royale-client,1.0.2,Johannes Habel <EchterAlsFake@proton.me>,GPL-3.0-only,88441,Typed async Python client for the official Clash Royale REST API
+2026-11-07T00:39:21Z,quak-camera,0.1.0,Adriel Santos,MIT,2054588,Open-source remote for GoPro HERO11 cameras over BLE and Wi-Fi: a CLI and a cross-platform GUI on one backend
+2026-11-07T00:39:23Z,VCD43NRT,1.0.1,"""Gregory H. Halverson"" <gregory.h.halverson@jpl.nasa.gov>, ""Margaret C. Johnson"" <maggie.johnson@jp…",,1555961,"VIIRS near-real-time BRDF, albedo, and NDVI processing across SNPP and JPSS missions"
+2026-11-07T00:47:07Z,sardine-ewas,0.1.0,"Ryan Moreno <rrmoreno@wisc.edu>, Yuchang Wu <ywu423@wisc.edu>",GPL-3.0-or-later,8348162,Epigenetic clock and phenotype associations from EWAS summary statistics
+2026-11-07T00:49:21Z,syscu-kiro-report-usage,0.1.0,,MIT,145851,Self-contained HTML report of Kiro usage and cost per IAM Identity Center user (AWS CUR + Kiro user activity report).
+2026-11-07T00:51:36Z,gnome-night-shift,0.4.5,Christopher McAdams <mca.christopher@gmail.com>,MIT,47426,Switch GNOME between light and dark at sunrise and sunset: systemd timers (`nocturne-shift services`) for the Night Shift extension
+2026-11-07T00:51:56Z,conda-skills,0.1.0,,Apache-2.0,2514713,Link conda-packaged agent skills into client directories
+2026-11-07T00:52:58Z,bullla-airflow-operators,0.1.0,,,20318,Operadores Airflow de Dataflow e Dataform executados no triggerer.
+2026-11-07T00:54:09Z,whatsapp-business-cloud,0.1.2,whatsapp-business-cloud contributors,MIT,260362,Python client for the WhatsApp Business Platform (Cloud API)
+2026-11-07T00:56:07Z,mcp-server-autocad-lisp-helper,0.1.0,AutoLISP MCP Team,,77837,"Deterministic Model Context Protocol (MCP) server for static analysis, syntax checking, and state leakage detection in AutoCAD AutoLISP (.lsp) files."
+2026-11-07T00:58:42Z,seit-the-p,1.0.0,Some Random Guy,MIT,3188,This package can be used to convert Excel invoices to PDF invoices.
+2026-11-07T01:02:52Z,ed521rs,0.1.0,Tacio Medeiros,MIT,3830783,"Fast Ed521 (EdDSA over E-521, ICP-Brasil DOC-ICP-01.01) signature verification, in Rust"
+2026-11-07T01:04:55Z,mist-glioma,0.1.0,Adrian Celaya,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",18639999,End-to-end adult glioma segmentation from raw brain MRI with MIST
+2026-11-07T01:12:35Z,pytycho,0.2.0,"Claudio Vestini, Nina Karampela, Jack Sydney Schwartz",Apache-2.0 AND MIT,1032252,"Animated, interactive astrodynamics visualizations in a single HTML file"
+2026-11-07T01:12:56Z,kindof,0.1.0,wispsy,MIT,9868,"Typed, JSON-compatible object inspection for Python."
+2026-11-07T01:15:37Z,croner,1.0.0,Hexagon <hexagon@56k.guru>,MIT,55226,"Cron for Python. Parse and evaluate cron patterns, enumerate runs across time zones and DST, and schedule functions. A port of croner (JavaScript) and croner-rust, without dependencies."
+2026-11-07T01:16:22Z,pitwall-agents,0.1.0,Siddhant Sinha,MIT,91242,A pit wall for your coding agents: see every session's state on a desk device and jump to the right terminal tab.
+2026-11-07T01:16:54Z,texlens,0.1.0,Roberta De Viti,Apache-2.0,90781,"Count the words of a LaTeX paper without its hidden text, and list its notes to coauthors and revised passages."
+2026-11-07T01:18:00Z,elenctic,1.0.0,Gregory Gelfond <gregory_gelfond@fastmail.com>,MIT,316860,"Contracts and queries for answer set programs: a library first, a command line second"
