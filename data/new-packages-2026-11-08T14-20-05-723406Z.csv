@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T13:06:49Z,akademtranslit,0.2.0,AkademTech <contact@akademtech.org>,MIT,174501,"Uzbek transliteration across three orthographies: Cyrillic, the 1995 Latin alphabet, and the 2026 reform."
+2026-11-08T13:19:30Z,eofigs,0.1.0,Kaleem Mehmood <kaleemmehmood73@gmail.com>,MIT,1245950,"Analysis-aware, publication-ready figures for Earth observation research."
+2026-11-08T13:20:27Z,bazaar-contrib-server-agent,0.3.0rc1,,Apache-2.0,141216,"The agents of the Bazaar Compute server: the agents on its computers, their pages, and who may see and change them"
+2026-11-08T13:20:39Z,dex4java,1.0.0,,,7207,A CLI tool to convert Android DEX files into Java JAR packages containing JVM bytecode.
+2026-11-08T13:20:51Z,pyside-live,0.1.0,Mauricio Ruiz,MIT,5715,Un reloaded/watcher ultra ligero y eficiente para desarrollo rápido con PySide/Qt en Python.
+2026-11-08T13:21:23Z,pynext-framework,0.1.0,,,8809493,An experimental Python and Rust full-stack web framework
+2026-11-08T13:21:32Z,django-redsys,1.0.1,David Díaz <d.diazp@gmail.com>,Apache-2.0,58200,"Django views, URLs and signals for RedSys TPV Virtual payments, on top of python-redsys."
+2026-11-08T13:23:49Z,ownerwatch-mcp,0.1.0,imal1ice,MIT,59253,"MCP server with read-only tools that map who controls EVM contracts: owners, proxy admins, Safes, timelocks, roles. Built on ownerwatch."
+2026-11-08T13:30:46Z,table-proof-py,0.1.0,Eduard Smirnov,MIT,687025,Audit PDF table cell associations against source evidence
+2026-11-08T13:33:03Z,pytaruix,0.1.0a1,,Apache-2.0,365047827,Independent Python bindings for Tauri through PyO3
+2026-11-08T13:33:30Z,openrelik-python-client,0.18.0,Johan Berggren <jberggren@gmail.com>,Apache-2.0,65648,API client that automatically handles token refresh
+2026-11-08T13:38:39Z,tts-mcp-server,0.1.1,Miragea,MIT,283634,"TTS MCP server: text-to-speech, AI voiceover, voice cloning and SRT/VTT subtitles for Claude, Cursor, Codex and other AI agents."
+2026-11-08T13:40:38Z,pynespra,0.1.0,,MIT OR Apache-2.0,14569550,"Unofficial Python client for the Vespa search engine, built on the nespra Rust crate"
+2026-11-08T13:41:29Z,catdb-service-client,0.1.0,dhq_boiler and contributors,MIT,10769,"Python client for the catdb TCP service with durable writes, transactions and TLS account authentication"
+2026-11-08T13:41:46Z,easytranscriber-sdk,0.1.0,,MIT,25147,Synchronous and asynchronous Python clients for the EasyTranscriber REST API
+2026-11-08T13:42:33Z,smd-reports,0.1.0,Ram Nanduri <Ram.Nanduri@skane.se>,GPL-3.0-only,3122997,"JSON-based reports with dynamic tables, localized themes and portable HTML/PDF"
+2026-11-08T13:43:32Z,autoroute-ai,0.1.1,,MIT,62477,Choisit automatiquement le bon modèle LLM pour une tâche
+2026-11-08T13:45:42Z,codeimprint,0.5.0a11,Mudrika,Apache-2.0,166242,"CodeImprint by Mudrika: seal your code with a CodeImprint server (tamper-evident, logged and timestamped) and verify seals offline."
+2026-11-08T13:47:20Z,pipef,0.0.2,Angel Kenneth Tolentino <angelkennethtolentino@gmail.com>,MIT,17879,Function pipelines for Python
+2026-11-08T13:50:38Z,x402-stellar,0.1.0,Emre Kadir Dağdelen,MIT,62701,"x402 payments on Stellar for Python: pay from agents, charge from FastAPI, verify and settle yourself."
+2026-11-08T13:51:41Z,mangoo,0.1.0,Mangoo contributors,MIT,678582,"A Python web framework with a conventional project structure, automatic interactive API docs, and a Rust core"
+2026-11-08T13:53:28Z,amanuensis,0.2.0b1,Marcelo Pi-Suñer <marce.pisuner@gmail.com>,MIT,2049100,Turn photographs and scans of historical documents into data with Gemini
+2026-11-08T13:53:43Z,celers,0.1.0,Celers,Apache-2.0,32979,Write Celers automations in Python: the same boards the Celers canvas shows
+2026-11-08T13:55:37Z,NotYAFC,1.0.0,Cesare Gilento,,497677,"Not Yet Another Font Converter: a free and open-source font converter for desktop and command-line use, written in Python."
+2026-11-08T13:57:19Z,handlemyfile,0.1.0,HandleMyFile Contributors,MIT,5471279,High-precision PDF to DOCX converter engine in pure Rust with Python bindings.
+2026-11-08T13:57:37Z,sihem-mathbridge,0.1.0,,MIT,278379,"Functional analysis, Fourier series, PDEs, and curve geometry with step-by-step explanations and plots."
+2026-11-08T13:58:33Z,presidio-deident,0.7.0,Presidio Security,MIT,141265,"De-identify a dataset before licensing it to an AI developer, and sign a release record the buyer verifies offline. Built on presidio-evidence. Independent of Microsoft Presidio."
+2026-11-08T14:03:27Z,argus-mint,0.1.0,smk762,MIT,168345,"Provenance tokens for game assets: render from reviewed templates, pin to IPFS, mint ERC-721 cards and soulbound deeds, and anchor commitments and Merkle roots on-chain"
+2026-11-08T14:07:50Z,agent-migration-toolkit,0.1.0,roebi,MIT,20576,"Shared hub toolkit for the agent-migration program: process tables, gap analysis, critical path timeline"
+2026-11-08T14:08:29Z,nni-mesh,0.2.0,NNI Core Team <support.nni.sdk@gmail.com>,MIT OR Apache-2.0,348710,Universal Neural-Native Interconnect (NNI) Python SDK - Sub-microsecond tensor networking
+2026-11-08T14:09:14Z,losscape-sdk,0.1.1,,,13309943,"Python SDK for losscape, a self-hosted ML experiment tracker"
+2026-11-08T14:15:25Z,feather-control-plane,0.1.0,Siraj Samsudeen <mailsiraj@gmail.com>,MIT,56511,Durable failure observability for an extractor fleet: WAL + Postgres control plane + liveness lease
+2026-11-08T14:17:37Z,brian2-atlas,0.2.0,"Xinjun Li, Marcel Stimberg, Dan Goodman, Benjamin Evans, Romain Brette",CECILL-2.1 AND Apache-2.0,41092101,Brian2 Atlas: Brian-compatible simulation and native training backends

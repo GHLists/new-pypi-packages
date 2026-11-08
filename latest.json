@@ -1,20 +1,12 @@
 {
   "list": {
-    "count": 40,
-    "from": "2026-11-08T12:18:19.156468Z",
-    "path": "data/new-packages-2026-11-08T13-18-21-51256Z.csv",
-    "to": "2026-11-08T13:18:21.51256Z"
+    "count": 33,
+    "from": "2026-11-08T13:18:21.51256Z",
+    "path": "data/new-packages-2026-11-08T14-20-05-723406Z.csv",
+    "to": "2026-11-08T14:20:05.723406Z"
   },
-  "pending": [
-    {
-      "attempts": 1,
-      "created_at": "2026-11-08T13:06:49Z",
-      "package": "akademtranslit",
-      "since": "2026-11-08T12:18:19.156468Z",
-      "version": null
-    }
-  ],
-  "serial": 43363642,
+  "pending": [],
+  "serial": 43365419,
   "source_truncated": false,
-  "window": "2026-11-08T13:18:21.51256Z"
+  "window": "2026-11-08T14:20:05.723406Z"
 }
