@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T20:20:14Z,acids-cc,3.0,"Axel Chemla--Romeu-Santos, Nils Demerlé",MIT,46088,Cached convolution layers for real-time streaming inference with PyTorch (upgrade of Caillon's cached_conv 2021 package)
+2026-11-08T20:22:16Z,soloslot,0.1.0,Sebastian Wallat,MIT,97771,Mute instruments in the solo of a song to build play-along backing tracks
+2026-11-08T20:24:48Z,loops-routines,0.1.0,Ilia <melevir@gmail.com>,MIT,235011,"A daemon that runs Claude Code routines on a schedule and within the plan's usage limits, with an API, MCP and CLI"
+2026-11-08T20:25:44Z,zynko,0.1.0,,MIT,68570,"Biblioteca oficial para bots do Zynko: API, gateway e voz."
+2026-11-08T20:27:45Z,livekit-plugins-chatfx,0.1.0,"""ChatRep, Inc."" <service@chatfx.com>",Apache-2.0,29860,ChatFX Avatar for LiveKit Agents: a real-time talking face for your voice agent
+2026-11-08T20:28:11Z,jevlikedecisions,0.1.0,,MIT,195605,One typed decision abstraction over jev-like decision-model providers.
+2026-11-08T20:30:40Z,jotabase,0.7.0,jotaBase,ISC,69084,"Python client for jotaBase: read, write, local SQL with DuckDB and live changes."
+2026-11-08T20:32:12Z,namu-ai,0.1.0,Namu AI Lab <contact@namuai.org>,Apache-2.0,28977,"The Namu API for Python: speech recognition, speech synthesis and translation for Hausa, Zarma and French."
+2026-11-08T20:34:02Z,gitpane,1.0.0,Thongvan Alexis,MIT AND OFL-1.1 AND PSF-2.0,23178814,"Lightweight desktop Git client for Windows, Linux and macOS, in the spirit of Git Extensions"
+2026-11-08T20:34:32Z,agent-utils-extensions,0.1.0,AI Cortex LLC <support@agent-utils.ai>,MIT,11404,Thin client for the agent_utils Extensions MCP server - exact math and unit conversion for AI agents. One account spans both agent_utils servers.
+2026-11-08T20:34:38Z,agent-utils-swarm,0.1.0,AI Cortex LLC <support@agent-utils.ai>,MIT,14078,"Thin client for the agent_utils Swarm MCP server - memory, locks, task board, pub/sub, idempotency and webhook inboxes for AI agents. One account spans both agent_utils servers."
+2026-11-08T20:37:49Z,velo-ui,0.1.0,Muhammad Rafay Shaikh,MIT,87850,"Beautiful, reactive Python web apps in minutes. Zero dependencies."
+2026-11-08T20:38:51Z,stagemesh,0.6.0,,MIT,980457,Provider-neutral control plane for autonomous software engineering lifecycles
+2026-11-08T20:40:10Z,dspy-wsp,0.1.0,Drew Breunig <dbreunig@gmail.com>,MIT,293499,"Weight-space programming as a DSPy optimizer: a frontier LM reads and edits a small model's weights, with no gradients."
+2026-11-08T20:40:57Z,microharness,0.1.0,Dima Kagan,MIT,405250,"A minimal, zero-dependency, and pluggable AI agent microframework in Python"
+2026-11-08T20:45:27Z,parsai,0.4.160,,PolyForm-Noncommercial-1.0.0,5505824,Гибридный парсер названий медиафайлов (rule-based + AI)
+2026-11-08T20:46:45Z,turkgrid,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,90789,"Zero-dependency coordinate toolkit for Türkiye: TUREF/ED50 TM and Gauss-Krüger zones, UTM 35N-38N, the EPSG:1784 ED50 shift and CRS detection."
+2026-11-08T20:46:47Z,tr-deprem,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,147279,"Turkish earthquake data in Python: one client for AFAD, Kandilli (KOERI), USGS and EMSC with de-duplication, province lookup, b-value statistics and a Turkish CLI."
+2026-11-08T20:46:48Z,tr-adres,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,122213,"Parse and normalise Turkish postal addresses: il, ilçe, mahalle, street, building and flat numbers, with a bundled gazetteer of all 81 provinces and 973 districts."
+2026-11-08T20:49:29Z,parinama-verify,0.2.1,The Parinamakramam Authors,Apache-2.0,83674,Independent checker for code changes: runs the affected tests and flags weakened tests
+2026-11-08T20:49:31Z,geofix,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,137071,"Fast, dependency-light GeoJSON (RFC 7946) validator and repairer for local runs, pre-commit and CI."
+2026-11-08T20:49:31Z,openwalkscore,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,117943,"Open, transparent, API-key-free walkability scores (0-100) for any point or area, computed from OpenStreetMap."
+2026-11-08T20:49:34Z,urban-mcp,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,113404,"Model Context Protocol (MCP) server for urban planning, mobility and spatial statistics: accessibility, PTAL, MCDA, space syntax, slope-aware routing, Moran's I, LISA, Gi* and GWR as tools for AI age…"
+2026-11-08T20:51:24Z,ducque,0.9.3,,,174647,
+2026-11-08T20:52:46Z,tilefetch,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,132613,"Download XYZ/TMS/WMTS map tiles for an area into MBTiles, PMTiles, z/x/y folders or one georeferenced GeoTIFF/PNG, politely and within provider terms."
+2026-11-08T20:52:48Z,sdg11,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,117158,"UN SDG 11 urban indicators (11.1.1, 11.2.1, 11.3.1, 11.6.2, 11.7.1) and the Degree of Urbanisation from open data, following the UN-Habitat metadata."
+2026-11-08T20:54:40Z,novacode-cli,1.2.0,Babitdor <babitdorbryan14@gmail.com>,MIT,6034349,Agentic Coding Tool that runs in your terminal
+2026-11-08T20:55:34Z,gtfslint-cli,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,118341,"Fast, pure-Python GTFS Schedule validator and quality report for CI: coded rules, feed metrics, JSON/Markdown/HTML/GitHub output."
+2026-11-08T20:58:05Z,gu-7f3a2c,0.5.0,gu-7f3a2c contributors,MIT,47375,"Signed, hash-verified updater for a self-hosted game or app."
+2026-11-08T20:58:47Z,nettls-py,0.11.0,Roger Jorgensen <rogerj@gmail.com>,,2230959,"Python binding for nettls: pinned TLS, certificate rotation and the §6 messages, with the Rust code running inside."
+2026-11-08T20:59:09Z,novaagents,0.8.0,,MIT,797126,"NovaAgents: a production-oriented agent harness derived from Deep Agents, with managed sessions, Nova context, skills, and long-term memory."
+2026-11-08T21:03:02Z,llmsetup,0.1.0,,Apache-2.0,647090,"Interview-driven setup assistant for local open-weight LLMs: picks the model, tunes the runtime, proves it works, and registers it with every local LLM app you use."
+2026-11-08T21:03:24Z,ventforge,0.1.0,,GPL-3.0-or-later,140106,Parametric vent pattern designer with native GUI and MCP server
+2026-11-08T21:05:33Z,omraade,1.0.0,rmk2 <ryko@rmk2.org>,Apache-2.0,6704,Inject ENV secrets from secure sources
+2026-11-08T21:10:47Z,noisycompany,2.1.0,noisycompany contributors,GPL-3.0-or-later,221745,"Lightweight, bandwidth-aware network noise generator with coherent decoy personas"
+2026-11-08T21:10:56Z,detree-vm,0.1.0,Mingrun Li <mrli@ihep.ac.cn>,MIT,1369418,A domain-specific bytecode virtual machine for deserializing TTree binary streams
+2026-11-08T21:12:38Z,flshbd,0.0.9,Robert Kormann <rokor@kormann.info>,Unlicense,163209,FlashBoard
+2026-11-08T21:15:41Z,whatcrs,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,492306,What CRS is this? Guess the coordinate reference system of mystery coordinates and rank EPSG codes with explanations.
+2026-11-08T21:15:44Z,srcalchemy,0.2.0,Duncan Fraser <dfraser@thedrunkencoder.uk>,MIT,100767,
+2026-11-08T21:15:44Z,worldfoundry,0.2.0,WorldFoundry,Apache-2.0,44593,Agent development and training-experience SDK
+2026-11-08T21:17:27Z,mcp-linter,1.2.0,,MIT,957396,Lint MCP servers against agent-friendly tool design principles.
