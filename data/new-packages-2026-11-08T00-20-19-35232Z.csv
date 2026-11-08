@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-07T23:19:02Z,invoiceum,1.0.0,Asinerum Conlang Project,MIT,28261,Literp Invoicing Web Tool
+2026-11-07T23:20:28Z,taylortrader,0.1.0,Brandon Taylor,FSL-1.1-ALv2,4111798,"A safety-first trading bot and scheduled long-term investing for Alpaca, with a local dashboard."
+2026-11-07T23:24:00Z,lucidshark,0.10.0,Toni Antunovic,Apache-2.0,911468,"Unified code quality and security scanner for AI-assisted development: lint, types, SAST, SCA, tests, coverage."
+2026-11-07T23:32:20Z,air-status,0.1.1,,MIT,49946,"Live in-flight status from airline Wi-Fi portals, with a terminal map and flight history"
+2026-11-07T23:36:18Z,pylon-analyzer,0.1.2,Ethan Gat,MIT,37834,A static analysis CLI for Python scripts with various enhancements and an LLM layer
+2026-11-07T23:37:49Z,tia-portal-mcp,0.0.1,,,2747,Placeholder release reserving the name for the TIA Portal MCP gateway. Not functional yet.
+2026-11-07T23:37:49Z,torchvisir,0.0.1,Jonas Stare <yownas@google.com>,Unlicense,16979,Detect GPUs and install the matching PyTorch build
+2026-11-07T23:42:20Z,hefesto-mcp,4.21.0,,MIT,3357,Local stdio MCP adapter for the Hefesto release-truth engine
+2026-11-07T23:48:46Z,gapfinder-py,0.0.1,,MIT OR Apache-2.0,11396,Config based search for robotic tasks
+2026-11-07T23:49:04Z,walkupward,1.0.0,Javier Lianes <javier@lianes8studio.com>,MIT,67410,"Walk up from a start directory to find a marker file or directory, typed and dependency free"
+2026-11-07T23:49:15Z,twindex,0.2.1,Arnav Mittal,MIT,657247,"Exact, replayable certificates that noisy PDE data cannot tell two parameter sets apart."
+2026-11-07T23:49:16Z,mimeatlas,1.0.0,Javier Lianes <javier@lianes8studio.com>,MIT,143578,"Deterministic, OS-independent file extension and MIME type mapping generated from mime-db, zero dependencies"
+2026-11-07T23:50:16Z,gimp-mcp,0.2.0,Manoah BERNIER,MIT,166283,A reliable Model Context Protocol server for inspecting and editing GIMP 3 projects.
+2026-11-07T23:54:57Z,envread,0.2.0,Javier Lianes <javier@lianes8studio.com>,MIT,70101,"Typed reader for environment variables: inferred return types, settings dataclasses, .env files and a checker CLI, zero dependencies"
+2026-11-07T23:55:51Z,luiccian-word-mcp,2.0.0,LuiccianDev,MIT,196001,High-performance Model Context Protocol (MCP) server for Word (.docx) document generation and manipulation
+2026-11-07T23:56:08Z,htvl-lang,0.2.0,"Nicholas Rotich, HTVL contributors",MIT,61736,"HTVL - a tiny HTML transpiler: write .htvl files, get HTML."
+2026-11-07T23:57:13Z,trustcord-sdk,1.0.0,,MIT,32521,Client and discord.py helpers for the Trustcord register
+2026-11-08T00:05:34Z,Wyngthon,1.0.0,Pedro,GPL-3.0,1267343,Wyng library for Python
+2026-11-08T00:05:44Z,bpak,1.0.1,Jonas Blixt <jonpe960@gmail.com>,BSD-3-Clause AND BSD-2-Clause AND ISC AND MIT,10445349,"Bitpacker, a tool and library for signed firmware archives"
+2026-11-08T00:05:59Z,resolvax-agentkit,0.1.0,ResolvaX Team <contato@resolvax.com.br>,,13312,Official Coinbase AgentKit Action Provider for ResolvaX Mathematical & Educational Engines (x402 Base USDC).
+2026-11-08T00:13:16Z,pyode-radio,0.3.0,Andrew Davidson,GPL-2.0-or-later,111252,Simple terminal internet radio player with a modern TUI
+2026-11-08T00:14:11Z,adafruit-circuitpython-flac,1.0.2,Adafruit Industries <circuitpython@adafruit.com>,MIT,114815,"FLAC decoder and player for CircuitPython, with a turbo (viper) kernel"
+2026-11-08T00:14:11Z,adafruit-circuitpython-ogg,1.0.1,Adafruit Industries <circuitpython@adafruit.com>,MIT,178057,"Ogg Vorbis decoder and player for CircuitPython, with prebuilt C and turbo (viper) kernels"
+2026-11-08T00:14:37Z,pycdhit4,0.1.0,Martin Larralde <martin.larralde@embl.de>,GPL-3.0-or-later,4989572,"Cython bindings and Python interface to CD-HIT, an accelerated sequence clustering program."
+2026-11-08T00:15:47Z,harar,0.2.0,,Apache-2.0,14334,"harar's client: from harar import vault. Where each secret may go, and the secret itself for one host only."
+2026-11-08T00:16:42Z,costzera,0.1.0,Costzera,MIT,36677,Find and fix what makes AI agents slow and expensive. Prompts and completions never leave your process.

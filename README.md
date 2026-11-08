@@ -8,36 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 23:18 UTC
+## Latest list — 2026-11-08 00:20 UTC
 
-New packages created between 2026-11-07 22:21 UTC and 2026-11-07 23:18 UTC.
+New packages created between 2026-11-07 23:18 UTC and 2026-11-08 00:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-07T23-18-38-070959Z.csv)
+[Full CSV](data/new-packages-2026-11-08T00-20-19-35232Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-07 22:21:17 | [showrun-cli](https://pypi.org/project/showrun-cli/) | 0.1.0 | Anand Rao <anand@clue2solve.c… | 72.3 kB | Scripted, keypress-driven terminal demos: record once, present with Enter, repl… |
-| 2026-11-07 22:23:41 | [apical](https://pypi.org/project/apical/) | 0.3.0 | Apical Labs Ltd <research@api… | 38.5 kB | Apical Labs — Zero-Retention Continual Memory & Embedding Router |
-| 2026-11-07 22:26:35 | [forelint](https://pypi.org/project/forelint/) | 0.1.0 | David Mashiah | 28.2 kB | Lint your forecast backtests: leakage between related series, the run-to-run no… |
-| 2026-11-07 22:29:21 | [alvaindes](https://pypi.org/project/alvaindes/) | 0.1.0 | Alvaindes | 86.2 kB | Official Python SDK for the Alvaindes brokerage infrastructure API |
-| 2026-11-07 22:30:28 | [haybale-spandrel](https://pypi.org/project/haybale-spandrel/) | 0.0.1 | maybites | 89.7 kB | Upscale and restore images with PyTorch models (spandrel) |
-| 2026-11-07 22:31:24 | [pwnstop](https://pypi.org/project/pwnstop/) | 0.1.2 |  | 62.9 kB | Your AI coding agent can't run an attacker's command or ship the hole they're l… |
-| 2026-11-07 22:40:32 | [neural-risk](https://pypi.org/project/neural-risk/) | 0.2.0 | Lucas Alvarez <lucasalvarez21… | 185.6 kB | Crypto quant toolkit: Binance Futures derivatives data loader, causal flow/posi… |
-| 2026-11-07 22:42:09 | [gmeta](https://pypi.org/project/gmeta/) | 0.1.0 | indexofire <indexofire@gmail.… | 145.2 kB | Metagenomic (mNGS) profiling and surveillance reporting — kraken2/bracken/sylph… |
-| 2026-11-07 22:43:06 | [axiomation](https://pypi.org/project/axiomation/) | 0.1.0 | Victor Hobe-Gelting | 5.9 MB | Build the argument graph of a paper and keep it current. |
-| 2026-11-07 22:50:27 | [funkycache](https://pypi.org/project/funkycache/) | 1.0.0 | Alex Chan <alex@alexwlchan.ne… | 30.1 kB | A SQLite-backed function cache that tracks file dependencies |
-| 2026-11-07 22:51:00 | [swanada](https://pypi.org/project/swanada/) | 1.0.0 | Hemanth HM <hemanth@h3manth.c… | 254.7 kB | Swanada (स्वनद): In-browser, Node.js, and Python 16 kHz Multilingual Speech-to-… |
-| 2026-11-07 22:52:57 | [aamio-domain-keys](https://pypi.org/project/aamio-domain-keys/) | 0.1.0 | AI SENSE AS | 45.2 kB | Domain Keys for aamio: check a partner's key, or the key behind a message your… |
-| 2026-11-07 22:53:02 | [hydo-assert](https://pypi.org/project/hydo-assert/) | 0.2.0 |  | 65.5 kB | Assertion SDK for programs tested under hydo, a deterministic hypervisor (alway… |
-| 2026-11-07 22:56:54 | [makeless](https://pypi.org/project/makeless/) | 0.1.1 | Avinash | 30.7 kB | A local-first computer operator for Windows. |
-| 2026-11-07 22:58:33 | [google-search-console-cotlet-mcp](https://pypi.org/project/google-search-console-cotlet-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 18.3 kB | Connect Google Search Console to Claude Code, ChatGPT and any AI agent through… |
-| 2026-11-07 22:59:48 | [lichess-mcp](https://pypi.org/project/lichess-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 17.8 kB | Connect Lichess to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a… |
-| 2026-11-07 23:00:03 | [agent-evidence-replay](https://pypi.org/project/agent-evidence-replay/) | 0.1.0 |  | 26.1 kB | Replay a lab-produced agent action record: recompute its digest chain and flag… |
-| 2026-11-07 23:01:20 | [strava-cotlet-mcp](https://pypi.org/project/strava-cotlet-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 18.0 kB | Connect Strava to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a h… |
-| 2026-11-07 23:02:38 | [indec-mcp](https://pypi.org/project/indec-mcp/) | 0.5.0 | MagcDEV | 193.2 kB | MCP server for Argentina's official statistics (INDEC): inflation, wages, pover… |
-| 2026-11-07 23:04:01 | [streamelements-mcp](https://pypi.org/project/streamelements-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 17.9 kB | Connect StreamElements to Claude Code, ChatGPT and any AI agent through Cotlet.… |
-| 2026-11-07 23:05:21 | [brao](https://pypi.org/project/brao/) | 0.0.1 | Slava Burmanov <slava.burmano… | 1.6 kB | Placeholder — library coming soon. |
-| 2026-11-07 23:07:33 | [luiccian-vulcan-mcp](https://pypi.org/project/luiccian-vulcan-mcp/) | 0.3.1 | Luiccian <luicciandev@gmail.c… | 432.1 kB | Vulcan 12 integration through the Model Context Protocol (MCP) |
-| 2026-11-07 23:10:08 | [psst-secret-cli](https://pypi.org/project/psst-secret-cli/) | 1.0.0 |  | 41.9 kB | Command-line client for psst-secret |
-| 2026-11-07 23:11:40 | [pyrind](https://pypi.org/project/pyrind/) | 0.1.0 |  | 11.9 MB | Fast cryptography for Python from rind, a pure-Rust library: AEADs, hashes, HMA… |
-| 2026-11-07 23:15:19 | [modelquad](https://pypi.org/project/modelquad/) | 0.0.1 | Raz Ben Aharon | 2.7 kB | Name reserved by the author of ModelQuad. ModelQuad is installed from GitHub, n… |
+| 2026-11-07 23:19:02 | [invoiceum](https://pypi.org/project/invoiceum/) | 1.0.0 | Asinerum Conlang Project | 28.3 kB | Literp Invoicing Web Tool |
+| 2026-11-07 23:20:28 | [taylortrader](https://pypi.org/project/taylortrader/) | 0.1.0 | Brandon Taylor | 4.1 MB | A safety-first trading bot and scheduled long-term investing for Alpaca, with a… |
+| 2026-11-07 23:24:00 | [lucidshark](https://pypi.org/project/lucidshark/) | 0.10.0 | Toni Antunovic | 911.5 kB | Unified code quality and security scanner for AI-assisted development: lint, ty… |
+| 2026-11-07 23:32:20 | [air-status](https://pypi.org/project/air-status/) | 0.1.1 |  | 49.9 kB | Live in-flight status from airline Wi-Fi portals, with a terminal map and fligh… |
+| 2026-11-07 23:36:18 | [pylon-analyzer](https://pypi.org/project/pylon-analyzer/) | 0.1.2 | Ethan Gat | 37.8 kB | A static analysis CLI for Python scripts with various enhancements and an LLM l… |
+| 2026-11-07 23:37:49 | [tia-portal-mcp](https://pypi.org/project/tia-portal-mcp/) | 0.0.1 |  | 2.7 kB | Placeholder release reserving the name for the TIA Portal MCP gateway. Not func… |
+| 2026-11-07 23:37:49 | [torchvisir](https://pypi.org/project/torchvisir/) | 0.0.1 | Jonas Stare <yownas@google.co… | 17.0 kB | Detect GPUs and install the matching PyTorch build |
+| 2026-11-07 23:42:20 | [hefesto-mcp](https://pypi.org/project/hefesto-mcp/) | 4.21.0 |  | 3.4 kB | Local stdio MCP adapter for the Hefesto release-truth engine |
+| 2026-11-07 23:48:46 | [gapfinder-py](https://pypi.org/project/gapfinder-py/) | 0.0.1 |  | 11.4 kB | Config based search for robotic tasks |
+| 2026-11-07 23:49:04 | [walkupward](https://pypi.org/project/walkupward/) | 1.0.0 | Javier Lianes <javier@lianes8… | 67.4 kB | Walk up from a start directory to find a marker file or directory, typed and de… |
+| 2026-11-07 23:49:15 | [twindex](https://pypi.org/project/twindex/) | 0.2.1 | Arnav Mittal | 657.2 kB | Exact, replayable certificates that noisy PDE data cannot tell two parameter se… |
+| 2026-11-07 23:49:16 | [mimeatlas](https://pypi.org/project/mimeatlas/) | 1.0.0 | Javier Lianes <javier@lianes8… | 143.6 kB | Deterministic, OS-independent file extension and MIME type mapping generated fr… |
+| 2026-11-07 23:50:16 | [gimp-mcp](https://pypi.org/project/gimp-mcp/) | 0.2.0 | Manoah BERNIER | 166.3 kB | A reliable Model Context Protocol server for inspecting and editing GIMP 3 proj… |
+| 2026-11-07 23:54:57 | [envread](https://pypi.org/project/envread/) | 0.2.0 | Javier Lianes <javier@lianes8… | 70.1 kB | Typed reader for environment variables: inferred return types, settings datacla… |
+| 2026-11-07 23:55:51 | [luiccian-word-mcp](https://pypi.org/project/luiccian-word-mcp/) | 2.0.0 | LuiccianDev | 196.0 kB | High-performance Model Context Protocol (MCP) server for Word (.docx) document… |
+| 2026-11-07 23:56:08 | [htvl-lang](https://pypi.org/project/htvl-lang/) | 0.2.0 | Nicholas Rotich, HTVL contrib… | 61.7 kB | HTVL - a tiny HTML transpiler: write .htvl files, get HTML. |
+| 2026-11-07 23:57:13 | [trustcord-sdk](https://pypi.org/project/trustcord-sdk/) | 1.0.0 |  | 32.5 kB | Client and discord.py helpers for the Trustcord register |
+| 2026-11-08 00:05:34 | [Wyngthon](https://pypi.org/project/Wyngthon/) | 1.0.0 | Pedro | 1.3 MB | Wyng library for Python |
+| 2026-11-08 00:05:44 | [bpak](https://pypi.org/project/bpak/) | 1.0.1 | Jonas Blixt <jonpe960@gmail.c… | 10.4 MB | Bitpacker, a tool and library for signed firmware archives |
+| 2026-11-08 00:05:59 | [resolvax-agentkit](https://pypi.org/project/resolvax-agentkit/) | 0.1.0 | ResolvaX Team <contato@resolv… | 13.3 kB | Official Coinbase AgentKit Action Provider for ResolvaX Mathematical & Educatio… |
+| 2026-11-08 00:13:16 | [pyode-radio](https://pypi.org/project/pyode-radio/) | 0.3.0 | Andrew Davidson | 111.3 kB | Simple terminal internet radio player with a modern TUI |
+| 2026-11-08 00:14:11 | [adafruit-circuitpython-flac](https://pypi.org/project/adafruit-circuitpython-flac/) | 1.0.2 | Adafruit Industries <circuitp… | 114.8 kB | FLAC decoder and player for CircuitPython, with a turbo (viper) kernel |
+| 2026-11-08 00:14:11 | [adafruit-circuitpython-ogg](https://pypi.org/project/adafruit-circuitpython-ogg/) | 1.0.1 | Adafruit Industries <circuitp… | 178.1 kB | Ogg Vorbis decoder and player for CircuitPython, with prebuilt C and turbo (vip… |
+| 2026-11-08 00:14:37 | [pycdhit4](https://pypi.org/project/pycdhit4/) | 0.1.0 | Martin Larralde <martin.larra… | 5.0 MB | Cython bindings and Python interface to CD-HIT, an accelerated sequence cluster… |
+| 2026-11-08 00:15:47 | [harar](https://pypi.org/project/harar/) | 0.2.0 |  | 14.3 kB | harar's client: from harar import vault. Where each secret may go, and the secr… |
+| 2026-11-08 00:16:42 | [costzera](https://pypi.org/project/costzera/) | 0.1.0 | Costzera | 36.7 kB | Find and fix what makes AI agents slow and expensive. Prompts and completions n… |
