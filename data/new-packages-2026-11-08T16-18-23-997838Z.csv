@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T15:01:09Z,fhe-cli,1.3.1,"Ravin THILAGARASA, Thomas GRUNDSZTEJN",MIT,77752,"Atelier d'exercices en ligne de commande, à la rustlings : chiffrement classique et chiffrement homomorphe (FHE)"
+2026-11-08T15:19:35Z,knowflow,0.1.0,qypvip,MIT,85183,"Agent Knowledge Pipeline — storage-agnostic, KB-agnostic, plug-and-play pipeline that turns raw agent JSON into versioned, human-readable docs"
+2026-11-08T15:20:07Z,dex-connector-elevenlabs,0.1.0,,MIT,88850,ElevenLabs connector for Dex Flows
+2026-11-08T15:21:27Z,dex-connector-figma,0.1.0,,MIT,88554,Figma connector for Dex Flows
+2026-11-08T15:21:30Z,grid402,2.2.0,Grid402 Team <contato@grid402.com.br>,MIT,28140,SDK Python oficial do Grid402: Micropagamentos HTTP 402 na Base para Agentes Autonomos e IA
+2026-11-08T15:21:53Z,haybale-stream,0.0.3,maybites,MIT,38754,"Share video frames between applications over Syphon, Spout, NDI and OMT"
+2026-11-08T15:22:45Z,dex-connector-freshworks-freshdesk,0.1.0,,MIT,118490,Dex-native Freshdesk ticket connector
+2026-11-08T15:25:48Z,req-metrics,0.1.0,Angelos-Nikolaos Kanatas,Apache-2.0,295527,Label-free representation-quality metrics for layer-wise analysis of pretrained models and for monitoring during training
+2026-11-08T15:26:18Z,pyofdr,1.0.0,"""A. Meoli"" <alessandro.meoli@unicampania.it>",MIT,233316,OFDR simulator for distributed fiber sensing
+2026-11-08T15:27:18Z,foxsnakecode,1.0.1,Trung Le <trung.le@quantstack.net>,MIT,281036,A coding puzzle game for JupyterLab and JupyterLite
+2026-11-08T15:28:31Z,amagi-hookguard,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,80822,"Tested Claude Code PreToolUse/PostToolUse hooks: block destructive shell commands, secret-file reads and force pushes to main, keep a local audit log, and check your settings.json hook wiring with `d…"
+2026-11-08T15:28:53Z,luckylucy.utils.selfupdate,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,9652,A collection of utilities I use across different projects (luckylucy.utils.selfupdate)
+2026-11-08T15:28:57Z,luckylucy.utils.store,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,10301,A collection of utilities I use across different projects (luckylucy.utils.store)
+2026-11-08T15:30:06Z,luckylucy.utils.text,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,16205,A collection of utilities I use across different projects (luckylucy.utils.text)
+2026-11-08T15:31:16Z,luckylucy.utils.tg-bots,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,11330,A collection of utilities I use across different projects (luckylucy.utils.tg_bots)
+2026-11-08T15:32:07Z,jellyfin-py,12.4.0,OpenAPI Generator community,,1241836,Jellyfin API
+2026-11-08T15:34:25Z,gtm-account-research,0.6.0,Yassine,MIT,51084,Open-source CLI and MCP server that turn a company domain into a one-page GTM account brief from public sources.
+2026-11-08T15:34:39Z,xblocks-core,2.0.0,Open edX Project <oscm@openedx.org>,AGPL-3.0,7746897,core xblocks
+2026-11-08T15:35:03Z,sqlfluff-templater-sqlmesh,4.5.0,"Alan Cruickshank <alan@designingoverload.com>, Danny Jones <danny.jones1994@live.com>","MIT License Copyright (c) 2018-2026 Alan Cruickshank Permission is hereby granted, free of charge,…",30016,Lint your SQLMesh project SQL
+2026-11-08T15:37:23Z,ddgbasic,1.0.0,Dan Bailey,MIT,492094,"A procedural BASIC around SQLite and DuckDB: SQL in the program, loops over query results, text screens and an IDE"
+2026-11-08T15:37:44Z,parallel-agents-cli,0.1.0,Alisher Muhammadaliyev <viltrumlik@gmail.com>,MIT,41973,"Run Claude Code, Codex, Cursor and Gemini CLI on the same repo without them overwriting each other."
+2026-11-08T15:42:10Z,charforge,0.1.0,charforge contributors,MIT,89196,"A small, generic Python library for building 2D character-matrix games."
+2026-11-08T15:44:06Z,kdrag-vampire,5.1.0,,BSD-3-Clause AND MIT AND GPL-2.0-or-later AND LGPL-3.0-or-later AND LGPL-2.1-or-later,92398046,"The Vampire theorem prover, packaged as a platform wheel"
+2026-11-08T15:49:54Z,yemek-com-mcp,0.1.0,Mohammad Abbasi,MIT,36602,"Unofficial read-only MCP server for Yemek.com Turkish recipes (search, full recipes, categories, daily picks)"
+2026-11-08T15:50:01Z,hurriyet-mcp,0.1.0,Mohammad Abbasi,MIT,28126,"Unofficial read-only MCP server for Hürriyet news (headlines, full articles, search, latest)"
+2026-11-08T15:50:15Z,sok-mcp,0.1.0,Mohammad Abbasi,MIT,20745,"Unofficial read-only MCP server for ŞOK grocery (sokmarket.com.tr) products, categories, campaigns, prices"
+2026-11-08T15:50:38Z,gitrescue-agent,0.1.0,Shabana Sultana,MIT,142309,"An LLM agent that fixes git mistakes from plain-language requests, safely."
+2026-11-08T15:52:16Z,omnia-surgery,0.11.1,"""M. Sarhan"" <prof7mohamedsarhan@gmail.com>",MIT,261904,"Model surgery & verification toolkit with AutoArch (structural understanding of unseen checkpoints), exact-by-construction transformations, bounded-retention editing, merging and format readers — Num…"
+2026-11-08T15:52:36Z,jolly-tur-mcp,0.1.0,Mohammad Abbasi,MIT,324885,"Unofficial read-only MCP server for Jolly Tur hotels (jollytur.com) — hotel search, prices, campaigns"
+2026-11-08T15:52:47Z,migros-mcp,0.1.0,Mohammad Abbasi,MIT,35017,"Unofficial read-only MCP server for Migros Sanal Market (migros.com.tr) — product search, prices, promos, categories"
+2026-11-08T15:52:48Z,anvil-sdk,0.1.0,,MIT,58284,Anvil Python SDK — trace instrumentation for LLM apps
+2026-11-08T15:52:57Z,paribu-cineverse-mcp,0.1.0,Mohammad Abbasi,MIT,159238,"Unofficial read-only MCP server for Paribu Cineverse cinemas — now showing, coming soon, showtimes"
+2026-11-08T15:53:38Z,undetected,1.0.1,lovebrownie <91576261+lovebrownie@users.noreply.github.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",183322,Selenium Chrome drop-in with chromedriver patching and automatic page-level JS injection.
+2026-11-08T15:53:40Z,saikou,1.2.0,The Saikou authors,Apache-2.0,338280,"Prove that a security fix is real, not just claimed: catches suppression laundering, unwired guards, partial fixes, elision and API breaks in AI-made changes."
+2026-11-08T15:54:52Z,aqaf,1.1.0,AQAF contributors,MIT,275939,Local-first heuristic architecture assessment for AI-assisted software builders
+2026-11-08T16:01:22Z,py-arguments,1.0.2,,,14610,Build CLIs with reusable argparse parser classes.
+2026-11-08T16:02:23Z,tried,0.1.0,Alisher Muhammadaliyev <viltrumlik@gmail.com>,MIT,22069,"A log of what was already attempted in this repo, and why it didn't work."
+2026-11-08T16:06:46Z,tethered-trust,0.1.0,Chimes In LLC <support@chimes-in.com>,MIT,31812,"Fit, compatibility and recall checks for AI agents before they buy. Client and tool definitions for the Tethered Trust API and MCP server."
+2026-11-08T16:06:52Z,cli-skills,0.8.0,Francesco Rolando,GPL-3.0-only,160298,Agent skills and prompts.
+2026-11-08T16:07:57Z,leblob,0.4.0.dev1,Stefane Fermigier,Apache-2.0,203980,An S3-compatible object store
+2026-11-08T16:08:27Z,sqlite-tokenizer-ar,0.1.15,,Apache-2.0,609711,Arabic FTS5 tokenizer and search helpers for SQLite
+2026-11-08T16:10:44Z,lakeloom,0.0.1,Elcio Abrahão,Apache-2.0,12506,"Agent-first ontologies for your lakehouse: link Delta Lake data products to OpenMetadata Ontology Studio, version them in Git, and serve them to AI agents over MCP. (Pre-alpha placeholder.)"
