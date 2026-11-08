@@ -1,69 +1,62 @@
 {
   "list": {
-    "count": 25,
-    "from": "2026-11-08T06:20:38.297346Z",
-    "path": "data/new-packages-2026-11-08T07-18-18-140529Z.csv",
-    "to": "2026-11-08T07:18:18.140529Z"
+    "count": 44,
+    "from": "2026-11-08T07:18:18.140529Z",
+    "path": "data/new-packages-2026-11-08T08-20-43-10861Z.csv",
+    "to": "2026-11-08T08:20:43.10861Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-08T03:46:43Z",
-      "package": "volt-asterism",
-      "since": "2026-11-08T03:18:18.06653Z",
+      "attempts": 1,
+      "created_at": "2026-11-08T07:36:55Z",
+      "package": "arkhai-kit-capability-shape",
+      "since": "2026-11-08T07:18:18.140529Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T07:38:12Z",
+      "package": "arkhai-kit-deal-lifecycle",
+      "since": "2026-11-08T07:18:18.140529Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T07:37:50Z",
+      "package": "arkhai-kit-deal-lifecycle-contracts",
+      "since": "2026-11-08T07:18:18.140529Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T07:39:06Z",
+      "package": "arkhai-kit-pool-overrides",
+      "since": "2026-11-08T07:18:18.140529Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T07:37:30Z",
+      "package": "arkhai-kit-resource-pools-contracts",
+      "since": "2026-11-08T07:18:18.140529Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T07:39:39Z",
+      "package": "arkhai-vms-listings",
+      "since": "2026-11-08T07:18:18.140529Z",
       "version": null
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-08T03:47:02Z",
-      "package": "volt-collector",
-      "since": "2026-11-08T03:18:18.06653Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-08T04:32:51Z",
       "package": "volt-forge",
       "since": "2026-11-08T04:18:28.702666Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-08T03:46:34Z",
-      "package": "volt-fusion",
-      "since": "2026-11-08T03:18:18.06653Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-08T03:46:23Z",
-      "package": "volt-groundbridge",
-      "since": "2026-11-08T03:18:18.06653Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-08T03:51:57Z",
-      "package": "volt-parallax",
-      "since": "2026-11-08T03:18:18.06653Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-08T03:45:22Z",
-      "package": "volt-sense",
-      "since": "2026-11-08T03:18:18.06653Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-08T03:46:13Z",
-      "package": "volt-skybridge",
-      "since": "2026-11-08T03:18:18.06653Z",
-      "version": null
     }
   ],
-  "serial": 43356389,
+  "serial": 43357560,
   "source_truncated": false,
-  "window": "2026-11-08T07:18:18.140529Z"
+  "window": "2026-11-08T08:20:43.10861Z"
 }

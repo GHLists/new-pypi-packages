@@ -1,0 +1,45 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T07:18:34Z,make-azure,0.4.0,"""Optersoft, S.L."" <david@optersoft.com>",MIT OR Apache-2.0,48084,"A free-tier Azure VM for mkrun -- nearest region, DuckDNS name, nothing billed left behind; no az CLI."
+2026-11-08T07:23:18Z,swarmauri_process_kubernetes,0.1.0,Jacob Stewart,Apache-2.0,13414,Stream and control processes in a kubernetes workspace with Python 3 installed.
+2026-11-08T07:24:26Z,bite-core,0.1.0,Brianna Ladson,,11039,"A lightweight library for managing binary sprites, palettes, resizing, and XBM conversion."
+2026-11-08T07:24:38Z,stream-velocity,0.1.0,Woo Chan Lee,MIT,16834,"A zero-dependency, bounded-memory Python library for sub-5ms sliding-window transaction velocity aggregations."
+2026-11-08T07:28:03Z,monopolpy_companion,1.0.dev41,Taylor B.,,1529955,"Electronic banker, game engine, and optional desktop GUI for physical Monopoly"
+2026-11-08T07:29:57Z,agno-lark,0.1.0,_白开水_,"MIT License Copyright (c) 2026 agno-lark contributors Permission is hereby granted, free of charge,…",40399,A lightweight Python bridge between Lark/Feishu and Agno AgentOS.
+2026-11-08T07:31:41Z,swarmauri_tool_activateskill,0.1.0,Jacob Stewart,Apache-2.0,13195,Load a skill and expose its approved tools.
+2026-11-08T07:33:37Z,swarmauri_tool_inspectskill,0.1.0,Jacob Stewart,Apache-2.0,13142,Inspect metadata for a named skill.
+2026-11-08T07:35:26Z,swarmauri_tool_listskills,0.1.0,Jacob Stewart,Apache-2.0,12853,List available skills.
+2026-11-08T07:37:18Z,swarmauri_tool_readskillresource,0.1.0,Jacob Stewart,Apache-2.0,13292,Read a declared skill resource.
+2026-11-08T07:38:34Z,typizer,0.1.0,Typizer,MIT,393948,Официальный Python SDK для Typizer API — извлечение данных из документов в JSON по вашей схеме
+2026-11-08T07:39:04Z,swarmauri_toolkit_skillset,0.1.0,Jacob Stewart,Apache-2.0,13436,"Compose tools that discover, activate, and read agent skills."
+2026-11-08T07:39:50Z,habena,0.0.1,Frank Dai <support@habena.ai>,MIT,1833,Reserved for Habena: take the reins of your coding agents. An agent harness framework in Rust.
+2026-11-08T07:40:41Z,tenms,0.1.1,Tenms,LicenseRef-Proprietary,5475651,"Tenms: CPU-only audio layer for voice agents (Focus, Turn, Pulse) - in-process SDK, Edge client, Pipecat and LiveKit integrations"
+2026-11-08T07:40:57Z,swarmauri_tool_cancelprocess,0.1.0,Jacob Stewart,Apache-2.0,13282,Cancel a running process by handle.
+2026-11-08T07:41:17Z,livekit-plugins-tenms,0.1.1,Tenms,LicenseRef-Proprietary,5519,"Tenms (Focus noise/echo/speaker isolation, Turn end-of-turn + interruption classification, Pulse quality) for LiveKit Agents"
+2026-11-08T07:42:48Z,swarmauri_tool_readprocessoutput,0.1.0,Jacob Stewart,Apache-2.0,14012,Read process output from a continuation cursor.
+2026-11-08T07:44:38Z,swarmauri_tool_runbashscript,0.1.0,Jacob Stewart,Apache-2.0,13627,Start an explicit Bash script and return its process handle.
+2026-11-08T07:46:08Z,omnirequest,1.0.0.post1,RaffaDNDM,MIT,28407,A sleek self-hosted Flask utility to convert raw HTTP requests into multiple programming languages and libraries.
+2026-11-08T07:46:30Z,swarmauri_tool_writestdin,0.1.0,Jacob Stewart,Apache-2.0,13434,Write text to an existing process or close its input.
+2026-11-08T07:46:48Z,kwikhive,0.2.0,,MIT,25706,Python client for the KwikHive partner API
+2026-11-08T07:47:02Z,flightpowers,0.1.0,Matan Rabi,MIT,27710,"Official FlightPowers client: live Google Flights, Booking.com, Airbnb and Google Hotels data through your RapidAPI key."
+2026-11-08T07:50:04Z,swarmauri_tool_inspectruntimetool,0.1.0,Jacob Stewart,Apache-2.0,13640,Inspect a runtime tool and its declared inputs.
+2026-11-08T07:51:00Z,self-hosted-agent-sandbox,0.3.0,xiaoyaner0201,Apache-2.0,83017,Disposable gVisor sandboxes for AI coding agents on your own k3s nodes (kubernetes-sigs/agent-sandbox)
+2026-11-08T07:51:46Z,unshape,0.5.0,Novain Shibu <georgeshibu380@gmail.com>,AGPL-3.0-or-later OR LicenseRef-Commercial,1626678,"Exact text from complex-script PDFs with broken text layers, by inverting OpenType shaping (no OCR)"
+2026-11-08T07:51:50Z,swarmauri_tool_listruntimetools,0.1.0,Jacob Stewart,Apache-2.0,13458,List the tools in a runtime toolkit.
+2026-11-08T07:52:34Z,ampzip-engine,1.0.0b1,"Yifan Fei, Zhen Liu",MIT,2103495,"Move-execution engine of AmpLens (used by AmpZip): spinor-helicity identities, canonical rational functions, finite-field evaluation"
+2026-11-08T07:52:38Z,cimdkit,0.1.0,Sri Krishna Lingamaneni,MIT,47855,"OAuth Client ID Metadata Documents (CIMD) for authorization servers: safe fetch, spec validation, caching and redirect_uri matching for MCP clients"
+2026-11-08T07:53:41Z,swarmauri_tool_registerruntimetool,0.1.0,Jacob Stewart,Apache-2.0,14119,Register a tool in a runtime toolkit.
+2026-11-08T07:53:52Z,ampzip,1.0.0b1,"Yifan Fei, Zhen Liu",MIT,1830416,"Training-free simplification of spinor-helicity amplitudes: best-first search over value-preserving identities, with randomized finite-field checks"
+2026-11-08T07:54:14Z,nyms,0.0.2,Thor Whalen,MIT,153774,"Reversible pseudonymisation of text: deterministic detection of personal and sensitive identifiers, keyed surrogate generation (readable pseudonyms included), and re-identification through a mapping…"
+2026-11-08T07:55:39Z,swarmauri_tool_replaceruntimetool,0.1.0,Jacob Stewart,Apache-2.0,14356,Replace a tool in a runtime toolkit.
+2026-11-08T07:55:46Z,napper-sync,0.1.0,Patrick Wuestling,MIT,93444,"Unofficial Napper baby-tracker API client, and a sync that imports what the nursery logs in Famly."
+2026-11-08T07:55:46Z,pykabot,0.4.1,Kabot contributors,MIT,149409,"Kakao channel bots, standalone Android-profile sessions and official message APIs"
+2026-11-08T07:57:30Z,swarmauri_tool_unregisterruntimetool,0.1.0,Jacob Stewart,Apache-2.0,13851,Remove a tool from a runtime toolkit.
+2026-11-08T07:58:45Z,pydogwood,0.1.0,skmono <monolese@gmail.com>,,346182870,"Python bindings for the Dogwood policy CLI: check, validate, lower, explain, and replay Dogwood policies."
+2026-11-08T08:02:27Z,ledgibly,0.1.0,ledgibly contributors,MIT,1971147,Reusable implementation-ledger framework for Cursor-driven repos
+2026-11-08T08:03:41Z,indic-pdf-check,0.2.0,Novain Shibu <georgeshibu380@gmail.com>,Apache-2.0,27267,"Can a screen reader, search engine or AI read this PDF? Detects scanned and broken text layers in Indian and South/Southeast Asian script PDFs."
+2026-11-08T08:04:46Z,crates-music-mcp,0.1.1,crates-music-mcp,MIT,242331,把你三个音乐 App（网易云 / QQ 音乐 / 酷狗）的收藏交给 Agent，让它每天替你挑一张对味的歌单
+2026-11-08T08:10:42Z,django-dbos,0.1.0,Kevin Tewouda <rollandkev@yahoo.fr>,MIT,688521,"DBOS-backed backend for Django's tasks framework: durable background tasks, cron scheduling and optional Sentry monitoring."
+2026-11-08T08:10:50Z,seenread,0.1.1,Novain Shibu <georgeshibu380@gmail.com>,AGPL-3.0-or-later OR LicenseRef-Commercial,51824,"Prove, word by word and without OCR, whether the text a machine extracts from a PDF is the text a human sees"
+2026-11-08T08:15:52Z,waker-ai,1.1.2,waker-ai contributors,MIT,181963,Watchdog & supervisor for AI coding agents: never let an agent sleep on the job.
+2026-11-08T08:18:40Z,pyssms,0.1.0,,BSD-3-Clause,3829290,"Continuous surrogate safety indicators for road-user encounters: TTC, Time Advantage, T2 and Time Gap for arbitrary approach angles, computed exactly on a time-time conflict polygon."
+2026-11-08T08:18:52Z,rosetta-mcp-gateway,0.1.0,Vaquar Khan,MIT,1966445,Schema-aware multilingual MCP translation gateway
