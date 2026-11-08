@@ -8,31 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 04:18 UTC
+## Latest list — 2026-11-08 05:18 UTC
 
-New packages created between 2026-11-08 03:18 UTC and 2026-11-08 04:18 UTC.
+New packages created between 2026-11-08 04:18 UTC and 2026-11-08 05:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-08T04-18-28-702666Z.csv)
+[Full CSV](data/new-packages-2026-11-08T05-18-21-63717Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-08 03:20:27 | [listo-delivery](https://pypi.org/project/listo-delivery/) | 0.1.0 |  | 358.6 kB | Official Python client for the Listo Delivery API. |
-| 2026-11-08 03:30:20 | [purge-reaper](https://pypi.org/project/purge-reaper/) | 2.0.0 | Shenal Diluksha <shenald@user… | 105.4 kB | 🧹 Zero-latency developer bloat and zombie process reaper. Reclaim 50GB in 3 sec… |
-| 2026-11-08 03:31:07 | [alag](https://pypi.org/project/alag/) | 0.1.0 | Sandeep S | 770.6 kB | A simple logging and graphing tool for researchers |
-| 2026-11-08 03:32:02 | [prism-radar](https://pypi.org/project/prism-radar/) | 2.0.0 | Shenal Diluksha <shenald@user… | 103.4 kB | 💎 Real-time topological blast radius and contract analysis for AI-generated cod… |
-| 2026-11-08 03:32:55 | [sober-audit](https://pypi.org/project/sober-audit/) | 2.0.0 | Shenal Diluksha <shenald@user… | 103.9 kB | 🍸 The Vibe Coding Hangover Cure. Audit, sanitize, and proofread AI-generated co… |
-| 2026-11-08 03:33:37 | [zen-timer](https://pypi.org/project/zen-timer/) | 0.2.1 | Shenal Diluksha <shenald@user… | 15.0 kB | 🧘 Deep-work timer. Simple terminal app for focus sessions. No GUI, just flow. |
-| 2026-11-08 03:42:44 | [db-agent-kit](https://pypi.org/project/db-agent-kit/) | 0.2.0 |  | 529.3 kB | Read-only DBA toolkit CLI: SQL Server 2016/2017 upgrade and SSRS to Power BI in… |
-| 2026-11-08 03:47:36 | [headvox](https://pypi.org/project/headvox/) | 0.1.0 | HeadVox contributors | 44.7 kB | Turn a script into a talking-head voiceover with word-aligned SRT/VTT captions.… |
-| 2026-11-08 03:48:12 | [molmotion-research](https://pypi.org/project/molmotion-research/) | 0.1.0 |  | 135.6 kB | Research code and evidence for slow-fast tetrapeptide trajectory generation |
-| 2026-11-08 03:49:19 | [spriskguardclient](https://pypi.org/project/spriskguardclient/) | 0.0.0 |  | 903 B | Namespace placeholder reserved by Squarepoint IT Security. Not for public use. |
-| 2026-11-08 03:49:43 | [c0data-py](https://pypi.org/project/c0data-py/) | 0.3.2 | Thomas Sawyer <transfire@gmai… | 62.7 kB | C0DATA 1.0 — structured data using ASCII C0 control codes (Python binding over… |
-| 2026-11-08 03:50:57 | [usd-ingest-physics](https://pypi.org/project/usd-ingest-physics/) | 0.2.7 | NVIDIA Corporation | 30.1 kB | NVIDIA USD Ingest USD physics authoring helpers (rigid bodies, colliders, mass,… |
-| 2026-11-08 03:51:02 | [usd-ingest-primhandlers](https://pypi.org/project/usd-ingest-primhandlers/) | 0.2.7 | NVIDIA Corporation | 111.8 kB | NVIDIA USD Ingest prim handlers that fix and normalize OpenUSD assets: physics,… |
-| 2026-11-08 03:51:07 | [usd-ingest-deps](https://pypi.org/project/usd-ingest-deps/) | 0.2.7 | NVIDIA Corporation | 7.0 kB | NVIDIA USD Ingest native OpenUSD dependencies for running without Omniverse Kit… |
-| 2026-11-08 03:51:07 | [usd-ingest-kit](https://pypi.org/project/usd-ingest-kit/) | 0.2.7 | NVIDIA Corporation | 62.3 kB | NVIDIA USD Ingest CLI for Omniverse Kit, adding the validators Kit extensions p… |
-| 2026-11-08 03:59:45 | [pyvocabulary](https://pypi.org/project/pyvocabulary/) | 0.1.0 | aaltatan | 20.2 kB | The shared core of composable, JSON-definable building blocks: named registries… |
-| 2026-11-08 04:03:51 | [hippocampus-mcp](https://pypi.org/project/hippocampus-mcp/) | 0.1.0 | cstksniper <cstksniper@qq.com> | 1.8 MB | Long-term memory backend for AI hosts over MCP: 4-layer memory, slot-based cont… |
-| 2026-11-08 04:13:10 | [staticfx](https://pypi.org/project/staticfx/) | 2.0.0 | ethanlabs101 | 259.4 kB | Animated ASCII effects for your terminal, with a studio for making your own |
-| 2026-11-08 04:14:48 | [metaplectic](https://pypi.org/project/metaplectic/) | 0.1.11 | Jacob Mackay | 3.5 kB | Quadratic phase space methods: Wigner and ambiguity functions, linear canonical… |
-| 2026-11-08 04:15:25 | [rvd-railbench](https://pypi.org/project/rvd-railbench/) | 0.4.1 |  | 4.2 MB | Rail-based ground testbed for spacecraft rendezvous and docking, with the RVDLA… |
+| 2026-11-08 04:20:44 | [amharic-segmenter](https://pypi.org/project/amharic-segmenter/) | 0.1.0 | Ali Kibret Muhamed <alikibret… | 47.9 kB | Sentence/word tokenization, morpheme splitting and stemming for Amharic (አማርኛ),… |
+| 2026-11-08 04:26:52 | [agent-install-monitor](https://pypi.org/project/agent-install-monitor/) | 0.1.2 | agent-install-monitor contrib… | 38.7 kB | Agent Install Monitor: visibility into everything your Hermes agent installs an… |
+| 2026-11-08 04:28:54 | [ousia-aletheia](https://pypi.org/project/ousia-aletheia/) | 2.0.0 | Ousia Research <dev@ousiarese… | 120.9 kB | Evidence-bound scoped memory substrate for people and their agents |
+| 2026-11-08 04:31:33 | [devcleaner-cli](https://pypi.org/project/devcleaner-cli/) | 1.0.0 | Adones Balica <adonesbalica@g… | 31.5 kB | Remove generated directories such as node_modules, .next, and dist from every p… |
+| 2026-11-08 04:32:56 | [vornyx](https://pypi.org/project/vornyx/) | 1.0.0 | snowfarn <snowfarn@snowfarn.s… | 3.9 kB | A simple and beautiful console logger |
+| 2026-11-08 04:34:00 | [finzdata-deepseek](https://pypi.org/project/finzdata-deepseek/) | 0.1.0 | FinzData <info@finzdata.com> | 27.8 kB | FinzData for DeepSeek: point-in-time market data, macro and backtests through f… |
+| 2026-11-08 04:34:02 | [finzdata-glm](https://pypi.org/project/finzdata-glm/) | 0.1.0 | FinzData <info@finzdata.com> | 27.8 kB | FinzData for GLM: point-in-time market data, macro and backtests through functi… |
+| 2026-11-08 04:34:03 | [finzdata-huggingface](https://pypi.org/project/finzdata-huggingface/) | 0.1.0 | FinzData <info@finzdata.com> | 31.7 kB | FinzData for Hugging Face: point-in-time market data, macro and backtests throu… |
+| 2026-11-08 04:34:05 | [finzdata-kimi](https://pypi.org/project/finzdata-kimi/) | 0.1.0 | FinzData <info@finzdata.com> | 29.2 kB | FinzData for Kimi: point-in-time market data, macro and backtests through funct… |
+| 2026-11-08 04:37:32 | [infra-libs](https://pypi.org/project/infra-libs/) | 99.99.99 |  | 2.5 kB |  |
+| 2026-11-08 04:38:00 | [pyruleset](https://pypi.org/project/pyruleset/) | 0.1.1 | aaltatan | 22.7 kB | Conditional values: pick a value by the first matching condition, composable wi… |
+| 2026-11-08 04:38:25 | [expect-tests](https://pypi.org/project/expect-tests/) | 99.99.99 |  | 2.5 kB |  |
+| 2026-11-08 04:45:13 | [kritapilot](https://pypi.org/project/kritapilot/) | 2026.11.8.36 |  | 824.3 kB | Krita MCP server and AI assistant: AI agents (Claude, ChatGPT, Gemini, Cursor,… |
+| 2026-11-08 04:46:28 | [django-llm-ledger](https://pypi.org/project/django-llm-ledger/) | 0.1.0 | Israel Mendes | 57.7 kB | Cost tracking, provider fallback and evaluation suites for LLM features in Djan… |
+| 2026-11-08 04:49:17 | [namespy](https://pypi.org/project/namespy/) | 0.1.0 |  | 1.7 MB | Asyncio DNS library: iterative resolver, wire codec, and inspection CLI |
+| 2026-11-08 04:54:03 | [tunekeep](https://pypi.org/project/tunekeep/) | 0.2.1 | Rush Labs | 203.5 kB | Keep a fine-tuned model working after its provider retires the base model: inve… |
+| 2026-11-08 04:54:35 | [crosscheck-vision](https://pypi.org/project/crosscheck-vision/) | 0.1.0 | Rush Labs | 44.8 kB | Several local vision models describe a photo; hear where they agree and where t… |
+| 2026-11-08 04:54:49 | [pyolivetree](https://pypi.org/project/pyolivetree/) | 2.0.1 | Taiwo Kareem | 59.7 kB | Python client for the Olive Tree Bible app APIs: notes, highlights, library, Sm… |
+| 2026-11-08 05:05:58 | [seren-psycheion](https://pypi.org/project/seren-psycheion/) | 1.0.0 | Chad Roesler | 38.6 kB | The mind's workshop for a Seren body: watch what it senses and does, set how it… |
+| 2026-11-08 05:06:33 | [seren-soma](https://pypi.org/project/seren-soma/) | 1.0.0 | Chad Roesler | 59.3 kB | The body's nervous system: a Stack-chan robot's voice, ears and touch, its face… |
+| 2026-11-08 05:12:00 | [navigation-manager](https://pypi.org/project/navigation-manager/) | 0.3.1 |  | 62.5 kB | Navigation manager for the JUIZ 2D navigation stack: goal -> plan -> follow ->… |

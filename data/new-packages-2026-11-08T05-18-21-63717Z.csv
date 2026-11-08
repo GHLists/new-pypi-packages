@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T04:20:44Z,amharic-segmenter,0.1.0,Ali Kibret Muhamed <alikibretmuhamed@gmail.com>,MIT,47861,"Sentence/word tokenization, morpheme splitting and stemming for Amharic (አማርኛ), NLTK-style and dependency-free."
+2026-11-08T04:26:52Z,agent-install-monitor,0.1.2,agent-install-monitor contributors,MIT,38702,Agent Install Monitor: visibility into everything your Hermes agent installs and touches on your machine
+2026-11-08T04:28:54Z,ousia-aletheia,2.0.0,Ousia Research <dev@ousiaresearch.com>,AGPL-3.0,120885,Evidence-bound scoped memory substrate for people and their agents
+2026-11-08T04:31:33Z,devcleaner-cli,1.0.0,Adones Balica <adonesbalica@gmail.com>,MIT,31528,"Remove generated directories such as node_modules, .next, and dist from every project in a workspace."
+2026-11-08T04:32:56Z,vornyx,1.0.0,snowfarn <snowfarn@snowfarn.space>,,3941,A simple and beautiful console logger
+2026-11-08T04:34:00Z,finzdata-deepseek,0.1.0,FinzData <info@finzdata.com>,MIT,27841,"FinzData for DeepSeek: point-in-time market data, macro and backtests through function calling and MCP."
+2026-11-08T04:34:02Z,finzdata-glm,0.1.0,FinzData <info@finzdata.com>,MIT,27783,"FinzData for GLM: point-in-time market data, macro and backtests through function calling and MCP."
+2026-11-08T04:34:03Z,finzdata-huggingface,0.1.0,FinzData <info@finzdata.com>,MIT,31736,"FinzData for Hugging Face: point-in-time market data, macro and backtests through function calling and MCP."
+2026-11-08T04:34:05Z,finzdata-kimi,0.1.0,FinzData <info@finzdata.com>,MIT,29166,"FinzData for Kimi: point-in-time market data, macro and backtests through function calling and MCP."
+2026-11-08T04:37:32Z,infra-libs,99.99.99,,,2476,
+2026-11-08T04:38:00Z,pyruleset,0.1.1,aaltatan,GPL-3.0-only,22696,"Conditional values: pick a value by the first matching condition, composable with | and definable as JSON."
+2026-11-08T04:38:25Z,expect-tests,99.99.99,,,2511,
+2026-11-08T04:45:13Z,kritapilot,2026.11.8.36,,"MIT License Copyright (c) 2026 krita-mcp contributors Permission is hereby granted, free of charge,…",824279,"Krita MCP server and AI assistant: AI agents (Claude, ChatGPT, Gemini, Cursor, ...) and an AI Chat inside Krita paint, edit and generate art, photos, animation and video, with ComfyUI, OpenAI, Gemini…"
+2026-11-08T04:46:28Z,django-llm-ledger,0.1.0,Israel Mendes,MIT,57676,"Cost tracking, provider fallback and evaluation suites for LLM features in Django apps."
+2026-11-08T04:49:17Z,namespy,0.1.0,,Apache-2.0,1667825,"Asyncio DNS library: iterative resolver, wire codec, and inspection CLI"
+2026-11-08T04:54:03Z,tunekeep,0.2.1,Rush Labs,Apache-2.0,203520,"Keep a fine-tuned model working after its provider retires the base model: inventory, record, compare, retrain on open weights."
+2026-11-08T04:54:35Z,crosscheck-vision,0.1.0,Rush Labs,Apache-2.0,44765,Several local vision models describe a photo; hear where they agree and where they disagree. For blind and low-vision users.
+2026-11-08T04:54:49Z,pyolivetree,2.0.1,Taiwo Kareem,MIT,59685,"Python client for the Olive Tree Bible app APIs: notes, highlights, library, Smart Search"
+2026-11-08T05:05:58Z,seren-psycheion,1.0.0,Chad Roesler,AGPL-3.0-or-later,38631,"The mind's workshop for a Seren body: watch what it senses and does, set how it behaves, make its faces."
+2026-11-08T05:06:33Z,seren-soma,1.0.0,Chad Roesler,AGPL-3.0-or-later,59300,"The body's nervous system: a Stack-chan robot's voice, ears and touch, its faces' reactions, night mode and work hours."
+2026-11-08T05:12:00Z,navigation-manager,0.3.1,,MIT OR Apache-2.0,62485,"Navigation manager for the JUIZ 2D navigation stack: goal -> plan -> follow -> arrive over HTTP, with a browser UI"
