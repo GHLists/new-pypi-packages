@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T05:26:58Z,smartrag,0.0.1,GOTOAI,,47698,"A knowledge source any agent can use: search returns evidence with citations, the agent writes the answer."
+2026-11-08T05:34:27Z,vjepa-byor,0.1.0,,MIT,199193,Bring Your Own Robot: fine-tune V-JEPA 2-AC to predict what your robot's actions will do.
+2026-11-08T05:40:24Z,popso,0.8.2,Marcin Polkowski,Apache-2.0,10925476,Open-source LP / MILP / QP / MIQP / QCQP / SOCP solver: the popso command and Python bindings
+2026-11-08T05:43:08Z,moonlark-qsandbox,0.1.0,Moonlark Dev Team,AGPL-3.0-or-later,1869227,"MQS — a faithful, agent-first sandbox for the QQ Bot API v2"
+2026-11-08T05:43:09Z,dmx-langchain,0.1.0,,,10270,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-08T05:44:29Z,atfai,0.0.1,ATF AI <engineering@atf.ai>,Apache-2.0,11363,Python SDK for ATF (Agent Taskflow). Placeholder release; the SDK is coming soon.
+2026-11-08T05:48:04Z,zagros,0.3.0,tirotir,MIT,133648,"Persian-first console for learning Python: correct RTL/bidi output, Persian error doctor, zero dependencies."
+2026-11-08T05:48:07Z,hackfetch,0.1.0,,,30014,A fastfetch inspired tool to shows your hackatime stats
+2026-11-08T05:52:27Z,dl-doctor,0.2.0,Tirotir,MIT,118102,"Bilingual (Persian/English) doctor for deep-learning training: finds common mistakes, explains why and how to fix them. By Tirotir.com"
+2026-11-08T05:56:03Z,subgraphsearch,0.1.1,Victor Glazer,MIT,7774529,"Find induced subgraphs with a given number of vertices and edges, or regular ones, by fast randomized tabu search; with graph generators, standard formats and visualization"
+2026-11-08T06:02:10Z,sqlite-dateutil,0.1a0,Simon Willison,Apache-2.0,213973,A SQLite extension porting dateutil.parser.parse() to C
+2026-11-08T06:04:50Z,coursegenie-mcp,1.0.5,CourseGenie,Proprietary,58641,WorkBuddy connector (MCP server) for CourseGenie: turn source materials into a full course and export it to Obsidian.
+2026-11-08T06:04:58Z,stlink-mcp,0.8.6,Dawid Oosthuizen <dawid.oosthuizen@gmail.com>,MIT,668271,"An MCP server that lets an AI coding agent program, run and inspect STM32 targets over ST-LINK, with every result marked verified, unverified or failed, and the evidence for it."
+2026-11-08T06:05:30Z,tdx2ckz,0.1.0,qiuxiaoying,MIT,59013,通达信 .day 日线与 gbbq 股本变迁读取器（Windows x64）
+2026-11-08T06:06:02Z,cliqtomedia-apify,0.1.0,Cliqto Media,MIT,17111,Run any public Apify Actor from the command line or Python and get its dataset items. No dependencies.
+2026-11-08T06:06:19Z,datasette-sqlite-dateutil,0.1a0,Simon Willison,Apache-2.0,2103,Datasette plugin that loads the sqlite-dateutil SQLite extension
+2026-11-08T06:06:20Z,sqlite-utils-sqlite-dateutil,0.1a0,Simon Willison,Apache-2.0,2178,sqlite-utils plugin that loads the sqlite-dateutil SQLite extension
+2026-11-08T06:07:24Z,imagecalculator,0.1.0,Can Gokmen,MIT,52711,"Progressive block-DCT image codec: truncate to the first k anti-diagonals, quantize per diagonal, decode at the reduced native size (Image Calculator / Frequency-Store)"
+2026-11-08T06:09:09Z,lockmaster,0.0.1,Arpit Arya,MIT,182015,"Lands AI-agent changes into main one at a time, without ever losing work."
+2026-11-08T06:15:32Z,bubbleUI,0.4.4a1,xystudio <173288240@qq.com>,MIT,260219,
