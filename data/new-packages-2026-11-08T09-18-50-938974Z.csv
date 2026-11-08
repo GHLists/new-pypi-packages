@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T08:24:32Z,rapidrecon,0.0.1,,,2406,Reserved package name. RapidRecon is under active design/development.
+2026-11-08T08:25:19Z,schedz,0.1.0,m09,Apache-2.0,31920,Read training sessions from a Google Calendar.
+2026-11-08T08:26:39Z,python-sbom,0.1.1,Bernát Gábor <gaborjbernat@gmail.com>,MIT AND Apache-2.0,441313,SBOMs for Python distributions: write PEP 770 CycloneDX SBOMs into wheels.
+2026-11-08T08:27:59Z,vietnamese-writing-intelligence,0.2.1,Van-Truong Dang <vantruong-dang@users.noreply.github.com>,MIT,142296,"An agentic framework for native Vietnamese writing, voice profiling, and fact-preserving text refinement."
+2026-11-08T08:28:24Z,zimlore,0.1.0,Justin Capella <justincapella@gmail.com>,MIT,280034,"A Kiwix library (ZIM files) served to AI agents over MCP: offline, citable, token-budgeted documentation search and reading. You supply the ZIMs; none are shipped."
+2026-11-08T08:29:27Z,swarmauri_tool_runpackagechecks,0.1.0,Jacob Stewart,Apache-2.0,15058,Run the SDK Ruff and pytest checks for a configured member.
+2026-11-08T08:31:25Z,sophon-realtime,1.0.0,Adventists AI,Apache-2.0,3990264,"Sophon-Realtime v1: open full-duplex voice model that hears your tone and speaks with one (Tag build, one GPU, vLLM-Omni)"
+2026-11-08T08:31:26Z,swarmauri_agent_runner,0.1.0,Jacob Stewart,Apache-2.0,21736,Run model tool calls and resume checkpointed human interactions.
+2026-11-08T08:33:28Z,langchain-modular-beta,0.0.1,code-beta,MIT,11047,基于 LangChain 的模块化 RAG 检索组件（Beta）
+2026-11-08T08:33:34Z,swarmauri_agent_package_maintenance,0.1.0,Jacob Stewart,Apache-2.0,16517,"Compose human input, skills, and container checks for SDK maintenance."
+2026-11-08T08:33:53Z,deepseek-bot,0.2.0,,MIT,391916,"DeepSeek Bot: self-evolving AI agent runtime — RSI under tiered authority, reversible ledger, capability security, crash-contained plugins"
+2026-11-08T08:40:54Z,amplens,0.1.0,"Yifan Fei, Zhen Liu",MIT,7283,AmpLens: tools for revealing physical structure in scattering amplitudes
+2026-11-08T08:43:21Z,PTG-requests,1.0.0,Paras tech industries,MIT,11613,"A customized requests client for AI prompt delivery, cloud storage batch synchronization, and HTML fetching."
+2026-11-08T08:45:07Z,geneweb-py,0.1.0,Guillaume Cayeux <guillaume.cayeux@relais4x100a2.fr>,MIT,1006633,"Librairie Python complète pour parser, manipuler et convertir les fichiers généalogiques au format GeneWeb (.gw)"
+2026-11-08T08:45:30Z,agentknock,0.1.0,Ibusa-T,MIT,116815,"Attach to an already-running, unmodifiable Windows console AI agent and knock it awake — focus-free, by PID, via CONIN$. The attach-to-existing half of desktop multi-agent orchestration."
+2026-11-08T08:48:29Z,blender-headless,9.99.9,,,2595,
+2026-11-08T08:54:15Z,argus-recovery,0.2.0b1,Argus Contributors,MIT,658025,"Bounded, test-gated Python code recovery and resilient patch runtime."
+2026-11-08T08:57:08Z,cosens-sdk,0.5.0,,Apache-2.0,113147,CoSens Python SDK: record OpenAI and OpenAI Agents executions and generate reusable Recipes
+2026-11-08T08:58:16Z,gemmarouter,0.1.0,Ajeet Kumar Upadhyay,Apache-2.0,75300,Set-Equivariant Decision & Tool Router with Calibrated Abstention on EmbeddingGemma 2
+2026-11-08T08:58:34Z,rofd-convert,0.1.0,,Apache-2.0,11465783,Headless OFD to PDF conversion (PyO3 bindings over the rofd kernel)
+2026-11-08T08:59:03Z,rainbowcolors,0.1.0,JonhMacBebe,GNU,7972,Colors by JonhMacBebe
+2026-11-08T09:05:01Z,pureapk,0.1.1,eminsk <M_N_N@tut.by>,MIT,235684,"High-performance pure Python APK inspection, multi-store packager, and framework toolchain with zero dependencies."
+2026-11-08T09:06:50Z,pagination-claim-audit,0.1.0,,MIT,24033,Offline audit of documented pagination claims against Python source.
+2026-11-08T09:06:58Z,lumora-bot,1.1.0,Lumora,MIT,55305,"Lumora Bot SDK for Python: build bots for the Lumora messaging app (commands, buttons, groups, files, checklists, reminders)."
+2026-11-08T09:06:58Z,recursion-claim-audit,0.1.0,,MIT,23391,Audit documented directory traversal depth against Python source.
+2026-11-08T09:07:07Z,interactive-claim-audit,0.1.0,,MIT,24059,Offline static audit of documented interactivity claims.
+2026-11-08T09:07:16Z,thread-safety-claim-audit,0.1.0,,MIT,22974,Offline audit of documented thread-safety claims against Python source.
+2026-11-08T09:07:37Z,chromacli,0.1.1,JonhMacBebe,GNU,8041,Colors by JonhMacBebe
+2026-11-08T09:09:29Z,pocklo,0.2.0,,,31880,Command-line client for the Pocklo file workspace
+2026-11-08T09:15:58Z,m2mcent-huggingface-x402,1.0.3,M2MCent <hello@m2mcent.com>,,7379,"Official M2MCent x402 V2 Tool for Hugging Face Agents / Smolagents (EIP-3009 Gasless USDC Settlement on Base Mainnet, 1,057 Deterministic Nodes, Vouch Grade A)."
+2026-11-08T09:16:18Z,m2mcent-sdk,1.0.3,M2MCent Protocol,,10507,"Official Python SDK & LangChain Toolkit for M2MCent x402 V2 Protocol on Base Mainnet (1,057 Deterministic Nodes, Vouch Grade A)"
