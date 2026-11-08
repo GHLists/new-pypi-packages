@@ -1,0 +1,25 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T19:18:32Z,creditdecide,0.1.0,Nathan Steinle,MIT,2146288,"From a labeled table to a monitored, explainable decision rule: leakage-safe model comparison, calibrated probabilities, cost-based decisions, reason codes, confidence intervals, drift and fairness c…"
+2026-11-08T19:20:45Z,akuibots-musical,1.0.1,Akuibots,MIT,44683,"Plugin musik untuk bot: kirim judul atau link (YouTube/Spotify) dapatkan thumbnail, judul, durasi, pembuat + audio stream"
+2026-11-08T19:26:01Z,heumilkr,0.4.0,Lukas Schneiderbauer,GPL-3.0-or-later,2018398,Heuristic Capacitated Vehicle Routing Problem solver
+2026-11-08T19:26:39Z,bundyfed,1.0.0,,,8655,Utility library
+2026-11-08T19:27:16Z,stock-embeddings,0.1.0,Tomasz Rymaszeski,"MIT License Copyright (c) 2026 Tomasz Rymaszeski Permission is hereby granted, free of charge, to a…",34955,"Train stock embeddings (Node2Vec, spectral, NetMF, raw baselines) from price data"
+2026-11-08T19:32:05Z,acids-transforms,1.0.0,Axel Chemla Romeu Santos <axel.chemla-romeu-santos@univ-paris8.fr>,GPL-3.0-or-later,122345,A bunch of scriptable audio transforms based on the torchaudio backend
+2026-11-08T19:38:59Z,utterverify,0.1.0,buchwandler,Apache-2.0,87272,Optional SpeechScope validation gate between VoiceRender and AudioCompose
+2026-11-08T19:47:23Z,dandelion-memory,1.0.0rc15,,MIT,970963,Agent-owned domain memory linked to exact values and revision history
+2026-11-08T19:48:23Z,bililive-mcp,0.1.0,bililive-mcp contributors,MIT,6457,MCP server for bililive-go live stream recorder (B站/抖音/斗鱼/虎牙等 17 平台)
+2026-11-08T19:50:51Z,toolbelt-cli,0.2.5,Christopher Njihia <crnjihia@gmail.com>,MIT,199573,"A developer productivity CLI that scaffolds projects, generates conventional commit messages with Claude API, and audits repos."
+2026-11-08T19:51:36Z,cymedia,0.1.0a1,Giovanni Marzot,MIT,25367,"Low-latency, group-aligned media processing graphs on FFmpeg's libraries"
+2026-11-08T19:51:46Z,meteor-cut,0.1.0,Deneb Systems <contact@deneb-systems.com>,MIT,520163,"Find the meteors, satellites and planes in a night-sky video and make a highlight video, trajectory map and tables, tracked with Sky Tracker."
+2026-11-08T19:51:57Z,cognarium,0.1.0,,Apache-2.0,590834,Run cognitive science experiments on language models and other learners.
+2026-11-08T19:52:05Z,presidio-hardened-vol-assign,0.5.0,,"MIT License Copyright (c) 2024 Vladimir Stantchev Permission is hereby granted, free of charge, to…",995814,"Multi-objective post-disaster assignment: ED volunteer staffing (Rabiei et al., ESWA 2023) and humanitarian people-to-centre allocation"
+2026-11-08T19:53:04Z,fiioctl,0.1.0,Ethan Barclay,MIT,116735,"Minimal, extensible CLI for controlling FiiO USB DACs over HID"
+2026-11-08T19:58:30Z,tpt-gis-py,0.1.0,TPT Solutions,MIT OR Apache-2.0,2580973,"Python bindings for tpt-gis: geometry parsing (WKT/WKB/GeoJSON), shapefile reading, and geodesic distance."
+2026-11-08T19:59:44Z,Flask-Spectree,1.1.1,Jared McKnight,MIT,63344,Flask extension for spectree API validation and spec generation
+2026-11-08T20:00:01Z,trnrt,0.1.0,RunAnywhere <security@runanywhere.ai>,Apache-2.0,1497445,"LLM inference on AWS Trainium2, with NKI megakernels: an OpenAI-compatible server, 1M-token context and prefix caching"
+2026-11-08T20:01:06Z,extrahtml,0.1.1,optima1236,MIT,4133,"Fetch HTML from a URL using requests, Selenium, or Playwright."
+2026-11-08T20:03:30Z,pycorearray,0.2.0,Xiuwen Zheng <zhengxwen@gmail.com>,GPL-3.0-only AND LGPL-3.0-only AND BSD-2-Clause AND Zlib,77012341,Python Interface to CoreArray Genomic Data Structure (GDS) Files
+2026-11-08T20:04:13Z,franklinwh-ha-cloud-analytics,0.1.1,david2069,MIT,37233,"The FranklinWH cloud's energy reporting (periods, chart payload, page panel) shared by the FranklinWH bridges"
+2026-11-08T20:09:08Z,tesseract-heb-rivok,1.0.1,Rivok Labs,Apache-2.0,8186502,"heb_rivok and heb_rivok_lite: Tesseract models for printed Hebrew (with English and digits), installable with pip"
+2026-11-08T20:10:33Z,agroute,0.1.0,,MIT,69983,"Configurable local agent router across Codex, Claude Code, and Antigravity with native usage-limit filtering and howhard integration."
+2026-11-08T20:16:38Z,dmitrij,0.1.0,,,1294,
