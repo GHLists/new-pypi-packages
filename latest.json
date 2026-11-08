@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-11-08T11:18:22.413068Z",
-    "path": "data/new-packages-2026-11-08T12-18-19-156468Z.csv",
-    "to": "2026-11-08T12:18:19.156468Z"
+    "count": 40,
+    "from": "2026-11-08T12:18:19.156468Z",
+    "path": "data/new-packages-2026-11-08T13-18-21-51256Z.csv",
+    "to": "2026-11-08T13:18:21.51256Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-08T11:29:45Z",
-      "package": "phi-gate",
-      "since": "2026-11-08T11:18:22.413068Z",
+      "created_at": "2026-11-08T13:06:49Z",
+      "package": "akademtranslit",
+      "since": "2026-11-08T12:18:19.156468Z",
       "version": null
     }
   ],
-  "serial": 43361877,
+  "serial": 43363642,
   "source_truncated": false,
-  "window": "2026-11-08T12:18:19.156468Z"
+  "window": "2026-11-08T13:18:21.51256Z"
 }
