@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T17:23:11Z,pagniate,0.0.1,,,1298,A held name. There is no code here and it does not install.
+2026-11-08T17:23:19Z,saige-weather-mcp,0.1.0,,,231921,A global weather MCP server powered by Open-Meteo
+2026-11-08T17:24:03Z,cad-ccx,2.23.0,,MIT AND GPL-2.0-only AND BSD-3-Clause AND GPL-3.0-only WITH GCC-exception-3.1 AND Apache-2.0 WITH L…,50729776,"CalculiX's ccx solver, packaged as a wheel for text-to-cad's cad[calculix], with a small launcher. Unofficial."
+2026-11-08T17:24:20Z,unica-attention,0.1.0b1,,MIT,2202215,Attention kernel made for one GPU: RTX 5080 (sm_120)
+2026-11-08T17:24:44Z,litigium,0.0.1,Strategos <r@strategos.au>,Proprietary,6264,Case and matter management — Disciplina. by Strategos.
+2026-11-08T17:25:12Z,algebraic-physics,0.1.0,,,9571,A project for math and geometry formulas
+2026-11-08T17:25:34Z,cofog-panel,1.1.0,Thanh-Tung Pham,MIT,138329,Harmonise IMF GFS COFOG data into reproducible country-year panel datasets.
+2026-11-08T17:29:18Z,vincibot,0.2.0,Dronakurl,MIT,94725,VinciBot (MatataStudio) per Bluetooth mit Python steuern – einfach und auf Deutsch
+2026-11-08T17:33:22Z,aestimatio,0.0.1,Strategos <r@strategos.au>,Proprietary,6320,Legal merits analysis and claim assessment — Disciplina. by Strategos.
+2026-11-08T17:34:47Z,graphos-client,0.14.12,,Apache-2.0,153838,Async HTTP client for the graphos graph service.
+2026-11-08T17:35:20Z,pymemora,0.1.0,Memora Authors,Apache-2.0,57795,A memory-aware training optimization framework for PyTorch across any OS & hardware.
+2026-11-08T17:37:53Z,forgingstack-watchtower,0.1.0,,MIT,11839,An agent that stops checking in is an agent you hear about.
+2026-11-08T17:38:30Z,akmon,0.6.0,Jason Mohoney <mohoney@mit.edu>,MIT,14485518,"AKMON (okg): Operational Knowledge Graph — build, query, and traverse typed knowledge graphs from diverse data sources"
+2026-11-08T17:38:34Z,etsy-seller,0.1.0a1,,Apache-2.0,179773,Unofficial Python client for the Etsy Open API v3. Not affiliated with Etsy.
+2026-11-08T17:39:02Z,forgingstack-quorum,0.1.0,,MIT,11653,"Before an agent acts alone, get the quorum. One proposal, N approvals, one receipt."
+2026-11-08T17:39:41Z,forgingstack-ration,0.1.0,,MIT,12060,"One quota pool, many agents, no overruns."
+2026-11-08T17:40:42Z,monitio,0.0.1,Strategos <r@strategos.au>,Proprietary,6260,Legal notice and filing notification — Disciplina. by Strategos.
+2026-11-08T17:40:57Z,research-panel,3.1.1,yubrajbhandari923,MIT,2137766,"ResearchOS: a CLI, terminal UI and supervisor for autonomous research with coding agents (Claude Code, Codex, Antigravity, opencode): plans, experiments, approvals, results."
+2026-11-08T17:42:47Z,simpcbf,1.0.0,,,90620602,Theoretical Timoshenko-beam homogenization of chevron-braced steel frames
+2026-11-08T17:45:14Z,rulestamp-impressum-lint-de,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34477,"17 Regeln mit Stichtag für Impressum, Footer und Shop-Templates im Repository (bundled Node.js runtime)"
+2026-11-08T17:45:24Z,pepkio-distrogene-probability-calculator,0.1.0,,,52845,Python client for Pepkio distrogene-probability-calculator tool
+2026-11-08T17:45:31Z,rulestamp-js-licence-key-gate,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33006,"Handsontable, TinyMCE, CKEditor 5, FullCalendar, AG Grid, MUI X and Syncfusion licence keys in closed-source JS/TS (bundled Node.js runtime)"
+2026-11-08T17:45:48Z,rulestamp-nis2-risk-register-lint,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,33465,"16 rules: ten Art. 21(2) measures (a)-(j) plus owner, 1-5 score, treatment and 12-month review for Markdown risk registers (bundled Node.js runtime)"
+2026-11-08T17:46:06Z,rulestamp-payroll-rate-expiry-lint,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34154,"The day your rate table stopped being correct, with the line number (bundled Node.js runtime)"
+2026-11-08T17:51:35Z,hierroute,0.1.1,"Alexander Tjhin <alexander.tjhin@mail.utoronto.ca>, Emily Hassal <Emily.Hassal@ontario.ca>, Dak de…",MIT,192043,"Hierarchical mixture-of-experts classification of plankton images, with pretrained zooplankton models"
+2026-11-08T17:52:36Z,grg,0.2.2,Nick Rotich <nick@example.com>,MIT,84592,Geometric Reasoning Governor (GRG) — Real-time structural integrity monitoring for LLM inference with Alpha-Drift Velocity tracking
+2026-11-08T17:55:22Z,aamio-sound,0.1.0,AI SENSE AS,MIT,33163,"Sound for aamio: play the write address of a scope as sound, so agents within earshot can post into the scope and be answered, and listen for one. The sound is made and read by aisenseapi.com. Adds a…"
+2026-11-08T17:57:23Z,inference-vitals,0.2.0,Urban Morph,MIT,120600,"A dashboard for running and fine-tuning AI models on an Apple Silicon Mac or Linux with NVIDIA GPUs: speed, loss, memory, heat, power and battery"
+2026-11-08T17:57:29Z,tree-sitter-javascript-orchard,0.1.0,Max Brunsfeld <maxbrunsfeld@gmail.com>,MIT,131686,Parser for JavaScript files
+2026-11-08T17:57:56Z,wheelgap,0.1.0,Patrick Ballard,MIT,276479,"Find the Python dependencies that have no prebuilt wheel for your target platform, before your Docker build does."
+2026-11-08T17:59:23Z,fsspec-alt-strategies,0.1.0,Tsuyoshi SUGIBUCHI,Apache-2.0,33560,"The interface the strategies of fsspec-alt-strategies-impl share: operations, monitors and storage profiles"
+2026-11-08T17:59:58Z,fsspec-alt-strategies-impl,0.1.0,Tsuyoshi SUGIBUCHI,Apache-2.0,320451,"Alternative, filesystem-independent strategies for fsspec: streaming tree operations, monitors, adaptive files and a router"
+2026-11-08T18:03:12Z,denpex-pytorch,0.1.0,Denpex <support@denpex.com>,MIT,8433,"PyTorch, torchrun, FSDP, DeepSpeed, and Hugging Face Trainer crash diagnostics integration for Denpex."
+2026-11-08T18:03:13Z,pytest-denpex,0.1.0,Denpex <support@denpex.com>,MIT,10129,"Pytest plugin for automatic GPU, CUDA, PyTorch, NCCL, and vLLM test failure root-cause analysis with Denpex."
+2026-11-08T18:03:42Z,langchain-alion,0.1.0,Alion <info@alion.io>,MIT,31798,"LangChain tools for Alion: companies, startups, investors, verified job postings and pay statistics for agents. Free without a key for compact searches."
+2026-11-08T18:05:28Z,epiecs,1.0.0,,,135525,NumPy-backed epidemiological agent-based simulation framework
+2026-11-08T18:07:38Z,sovereign-agent-logbook,0.1.1,Delfen B.V.,Apache-2.0,45461,"Open-source, tamper-evident logbook for AI agents. Runs on your own EU servers, works with any model (MCP)."
+2026-11-08T18:10:10Z,yandex-tracker-mcp-lite,0.1.1,Anton Safonov,MIT,116904,"Unofficial lean MCP server for Yandex Tracker: 9 tools, compact answers, the whole API behind one escape hatch."
+2026-11-08T18:13:02Z,jupyterlab-denpex,0.1.1,Denpex <support@denpex.com>,MIT,7903,"JupyterLab and IPython magic extension for diagnosing GPU, CUDA OOM, PyTorch, NCCL, and vLLM crashes on cloud GPU instances (RunPod, Lambda, CoreWeave, Vast.ai, Kubernetes)."
+2026-11-08T18:13:18Z,hafen,0.0.0,K Industries,MIT,1756,Placeholder for the Hafen Python SDK (https://hafenhq.com). The SDK is published as hafenhq.
+2026-11-08T18:13:21Z,hafenhq,0.0.0,K Industries,MIT,1776,Placeholder for the Hafen Python SDK (https://hafenhq.com). The SDK is published as hafenhq.
+2026-11-08T18:13:52Z,nova-ai-chatbot,0.10.1,,,32671,"Nova AI with a local Ollama language model, improved answer-mode handling, memory, knowledge files, and optional web search."
+2026-11-08T18:13:55Z,pynetv,0.4.1,Joshua V. Dillon,Apache-2.0,52633912,"Minimal self-hosted IPTV web interface with EPG guide, VOD, and Chromecast"
+2026-11-08T18:14:29Z,eopy-orbits,1.0.1,,GPL-3.0-only,319240,Fast Python Earth orbit propagation kernels with NumPy/SciPy
+2026-11-08T18:16:38Z,ollama-cloud-usage,1.0.0a3,Florian Croiset,MIT,7636538,"Read your Ollama Cloud quota, credits and per-model usage from the official API."
+2026-11-08T18:16:56Z,sv-weave-uvm,0.1.0,Matthew Ballance <matt.ballance@gmail.com>,Apache-2.0,26054,"UVM library for sv-weave: binding, factory adapter, UVM weavers and audits"
