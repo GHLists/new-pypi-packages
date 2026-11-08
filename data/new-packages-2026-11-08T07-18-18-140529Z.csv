@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T06:09:34Z,wedopy,0.1.0,,MIT,283381,"Python library for the LEGO WeDo 2.0 Smart Hub over BLE (API in Python, core in Cython)"
+2026-11-08T06:26:30Z,Three-dimensional-Games,0.3.0,Your Name <your.email@example.com>,"MIT License Copyright (c) 2026 Permission is hereby granted, free of charge, to any person obtainin…",146689,A powerful yet simple 3D game engine for Python - combines Ursina's simplicity with Panda3D's power
+2026-11-08T06:32:23Z,thin,0.0.1,,,1204,
+2026-11-08T06:33:17Z,inboxjot,0.1.0,Arik Chakma <arikchangma@gmail.com>,MIT,50376,The official Python SDK for the Inboxjot email API
+2026-11-08T06:36:30Z,seedr-py,0.1.0,Nishant <nishantprime@gmail.com>,MIT,22851,"Modern Python client and API wrapper for Seedr.cc with zero-CAPTCHA authentication, folder ZIP streaming, and HLS playback."
+2026-11-08T06:40:10Z,quantred,2.4.0,Andrew Schwartz <andrew@mk-dir.com>,MIT,2603296,"A layered, broker-agnostic algorithmic-trading research engine that is honest about how hard making money is."
+2026-11-08T06:42:22Z,agent-adapter,1.1.0,Veloce AI,Apache-2.0,2463021,"One safety layer for every agent's tools: approvals, budgets, cost and traces, in any framework or none."
+2026-11-08T06:42:51Z,imei-validator-luhn,1.0.0,IMEI Check Pro,,6225,"Ultra-fast zero-dependency IMEI validation, Luhn algorithm check digit calculation, and GSMA TAC extraction in Python."
+2026-11-08T06:44:16Z,secretcv-mcp,0.1.0,Mohammad Abbasi,MIT,137746,"Unofficial read-only MCP server for secretcv.com jobs (search, detail, sectors, cities)"
+2026-11-08T06:44:25Z,biletix-mcp,0.1.0,Mohammad Abbasi,MIT,308694,"Unofficial read-only MCP server for biletix.com events (trending, search, detail, venues)"
+2026-11-08T06:44:32Z,sozcu-mcp,0.1.0,Mohammad Abbasi,MIT,181090,"Unofficial read-only MCP server for sozcu.com.tr news (headlines, articles, search, rates)"
+2026-11-08T06:55:38Z,hhart,0.1.0,Jackson Russell <Jackson.Russell@student.uts.edu.au>,Apache-2.0,112300,"HHART: ports, adapters and rule checks any robot can use. Stdlib only"
+2026-11-08T07:01:13Z,swarmauri_tool_askuser,0.1.0,Jacob Stewart,Apache-2.0,14389,Collect validated human input through an application-provided handler.
+2026-11-08T07:01:34Z,mcp-kdenlive,0.1.0,Manoah BERNIER,MIT,508364,"Local-first MCP server to inspect, edit and render Kdenlive projects."
+2026-11-08T07:04:41Z,swarmauri_process_subprocess,0.1.0,Jacob Stewart,Apache-2.0,15439,Stream and control commands running on the local host.
+2026-11-08T07:05:06Z,cascade-profiler,0.1.0,,,95799,GPU workload tracing and baseline/profiled timeline reconciliation
+2026-11-08T07:06:02Z,town-hall-connector,0.1.0,Andrew Dzobko,MIT,33286,"Python connector for the Town Hall volunteer-management API: start, keep alive and end shifts in permanent roles."
+2026-11-08T07:06:33Z,duyi-utils-118-y,0.1.4,,,4810,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-08T07:08:12Z,swarmauri_tool_subprocess,0.11.0.dev3,Jacob Stewart,Apache-2.0,19653,"Run subprocesses with argument lists, timeouts, and structured results."
+2026-11-08T07:08:52Z,zalobot-sdk,0.1.0,Tâm Ngô,MIT,87969,Typed Python client and bot framework for the Zalo Bot Platform (sync and async).
+2026-11-08T07:10:19Z,swarmauri_tool_runcommand,0.1.0,Jacob Stewart,Apache-2.0,13550,Start a command and return its process handle.
+2026-11-08T07:12:01Z,swarmauri_process_docker,0.1.0,Jacob Stewart,Apache-2.0,13001,Stream and control processes in a docker workspace with Python 3 installed.
+2026-11-08T07:16:54Z,neo4j-test-server,0.1.0,vshofar,MIT,9740,Disposable in-process Neo4j test server for Python integration tests
+2026-11-08T07:17:11Z,yatslist,0.1.0,Yat Tse,MIT,20877,"Yat's List 命令行客户端：深圳活动 / 黑客松 / 深圳外国人活动 — Shenzhen events, served to your terminal."
+2026-11-08T07:18:05Z,builauncher,0.1.1,,,48446,"Pie-menu launcher with type-to-search, on BUI"
