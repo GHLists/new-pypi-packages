@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T21:22:45Z,triton-inference-sdk,0.1.0,Shubin Vadim <midavnibush@gmail.com>,MIT,195518,"Python SDK for NVIDIA Triton Inference Server focused on LLM workloads (TensorRT-LLM, vLLM)"
+2026-11-08T21:24:11Z,kleinanzeigen,0.1.0,,MIT,134350,Async client for querying kleinanzeigen.de over plain HTTP (no browser)
+2026-11-08T21:27:12Z,gecode-iris,0.1.0,,MIT,20606003,Read text instance files with the Iris language
+2026-11-08T21:30:12Z,perikaryon,0.1.0,Eziz Periyev,MIT,2023,Python tools by Eziz Periyev
+2026-11-08T21:33:44Z,cilydian-studio,0.1.0,sleepti3ht <sleepti3ht@gmail.com>,MIT,12698,Textual TUI client for CiLydian: human-in-the-loop agentic CI
+2026-11-08T21:34:37Z,copydock,0.1.0,Dominic Quainoo Amuah,MIT,44843,"Package a Docker Compose app into a portable bundle you can install on any Linux server, online or offline."
+2026-11-08T21:35:51Z,gentic-sdk,0.1.0,,,76346,Python SDK for the GenticHub API
+2026-11-08T21:38:59Z,seam-branchpoint,0.0.0,,Apache-2.0,1867,Reserved name for the Seam Branchpoint SDK (attested experiments for AI decisions). No code yet.
+2026-11-08T21:39:43Z,meshembed,0.0.1,ClusterHive,LicenseRef-Proprietary,3462,Name placeholder for MeshEmbed (ClusterHive). No code: install the official SDK from https://meshembed.clusterhive.io/sdk/
+2026-11-08T21:39:44Z,meshembed-client,0.0.1,ClusterHive,LicenseRef-Proprietary,3578,Name placeholder for MeshEmbed (ClusterHive). No code: install the official SDK from https://meshembed.clusterhive.io/sdk/
+2026-11-08T21:39:45Z,meshembed-mcp,0.0.1,ClusterHive,LicenseRef-Proprietary,3534,Name placeholder for MeshEmbed (ClusterHive). No code: install the official SDK from https://meshembed.clusterhive.io/sdk/
+2026-11-08T21:39:46Z,meshembed-node,0.0.1,ClusterHive,LicenseRef-Proprietary,3544,Name placeholder for MeshEmbed (ClusterHive). No code: install the official SDK from https://meshembed.clusterhive.io/sdk/
+2026-11-08T21:41:06Z,etch-provenance,0.3.0,Etch Contributors,Rising Sun License v1.0,2064685,"Content provenance on a tamper-evident Merkle chain — register, verify, and prove content existed at a point in time."
+2026-11-08T21:41:43Z,searchpeoplefree-scraper,0.1.0,Buğrahan Saka,MIT,29792,"Scrape SearchPeopleFree.com profile pages (name, exact age, address, phones, emails, spouse, relatives) with Python."
+2026-11-08T21:43:57Z,yamlprims,0.1.0,,MIT OR Apache-2.0,2060445,"YAML 1.2.2 Core Schema value loader, strict wire decoder and canonical encoder (yamlprims-value/1)"
+2026-11-08T21:47:26Z,isongraph-ext,0.3.0,Mahesh Vaikri,MIT,156924,"ISONGraphExt - IGX/1 extension bindings, IGPV/1 provenance and IGDM/1 datamatics with verifiable identity claims over ISONGraph Core"
+2026-11-08T21:47:45Z,geomask,0.2.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,96969,"Geographic masking of confidential point data (donut, adaptive donut, AAE, swapping, aggregation) with spatial k-anonymity and utility metrics."
+2026-11-08T21:47:46Z,whitecircle,0.0.1,White Circle <hi@whitecircle.ai>,MIT,2066,White Circle (whitecircle.ai). This package name is reserved by White Circle.
+2026-11-08T21:47:52Z,geojson-diff,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,117728,"Feature-level diffs of GeoJSON datasets for code review, pull requests and data pipelines: text, JSON, Markdown, GeoJSON and HTML map reports, git diff driver and CI exit codes."
+2026-11-08T21:48:01Z,spatialcv,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,82100,"Honest cross-validation for spatial machine learning: scikit-learn compatible spatial block, cluster, buffered, NNDM and kNNDM splitters."
+2026-11-08T21:48:53Z,llama-index-tools-cloro,0.2.0,cloro <support@cloro.dev>,MIT,14317,"LlamaIndex tools for cloro: live Google search results with the AI Overview, and Google AI Mode, Bing AI Mode, ChatGPT and Gemini answers with sources."
+2026-11-08T21:49:21Z,flatpoints,1.0.0,Armand de Cacqueray,MIT AND Apache-2.0,1973535,Flatten a point cloud into square images where neighbour pixels are neighbour points
+2026-11-08T21:50:04Z,tars-sdk,0.1.1,Legendari,MIT,47500,"Client SDK for TARS — the self-hosted managed-agents platform (agents, durable sessions, streaming turns, client-executed tools, files)."
+2026-11-08T21:50:24Z,heaton-voxel,0.1.0,Jeff Heaton <jeff@jeffheaton.com>,Apache-2.0,2131763,"Read and edit Minecraft Java Edition worlds: blocks, settings, and WorldEdit, Litematica and structure files."
+2026-11-08T21:52:48Z,langchain-bosco,0.1.0,Bosco Labs <support@boscolabs.dev>,MIT,12375,"LangChain tools for Bosco Labs: counterparty (KYB) checks, a free query planner and official-records tools (company registers, SEC EDGAR, sanctions lists, EU and national law)."
+2026-11-08T21:54:02Z,stillherd,0.1.0,"""Ripplarity Inc."" <code@ripplarity.com>",Apache-2.0,46027,"Stillherd: guardrails, attestation verification and the day screen for coding agents"
+2026-11-08T21:54:03Z,dejaspawn,0.1.0,"""Ripplarity Inc."" <code@ripplarity.com>",Apache-2.0,75517,Mirror and drill tooling for exit-ready SaaS accounts
+2026-11-08T22:00:57Z,flet-movable,0.1.0,Alex Stoica <alexstoica@protonmail.com>,MIT,11671,Native bounded dragging for Flet controls
+2026-11-08T22:02:30Z,unichef,0.1.0a2,0xdolan,GPL-3.0-or-later,1240571,Unicode character analysis and deterministic data-transformation recipes for the terminal.
+2026-11-08T22:03:08Z,zeustucz-agenteval,1.0.0,Lorenzo,MIT,1728353,"Run your LLM agent many times, trace every step, and find out why it fails: correctness, tool use, latency, cost, retries and regressions."
+2026-11-08T22:04:54Z,crewai-cloro,0.1.0,cloro <support@cloro.dev>,MIT,14188,"CrewAI tools for cloro: live Google search results with the AI Overview, and Google AI Mode, Bing AI Mode, ChatGPT and Gemini answers with sources."
+2026-11-08T22:09:43Z,trackclean,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,140821,"Clean, smooth, segment and measure raw GPS trajectories: GPX/TCX/GeoJSON/CSV I/O, outlier and drift removal, Kalman/RTS smoothing, stay points, trips and honest metrics."
+2026-11-08T22:09:45Z,spatialsample,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,109147,"Design-based spatial sampling in Python: GRTS, BAS, LPM, stratified and systematic designs, Horvitz-Thompson estimation, spatial balance and Olofsson map accuracy assessment."
+2026-11-08T22:09:47Z,poi-dedupe,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,140974,"Deduplicate and conflate points of interest from OSM, Overture, Google exports, registries and scraped lists: spatial blocking, explainable similarity scoring, clustering and golden records with prov…"
+2026-11-08T22:10:34Z,ocsf-semtools,0.1.0a4,Eddie Allan,Apache-2.0,1980370,"Version-pinned OCSF schema for Python: build, check and repair events, extract observables, diff versions, and generate typed msgspec models."
+2026-11-08T22:10:34Z,ocsf-semtools-v1-9-0,0.1.0a4,Eddie Allan,Apache-2.0,639135,"Typed msgspec models for OCSF 1.9.0, generated by ocsf-semtools 0.1.0a4."
+2026-11-08T22:10:38Z,ocsf-semtools-v1-8-0,0.1.0a4,Eddie Allan,Apache-2.0,576757,"Typed msgspec models for OCSF 1.8.0, generated by ocsf-semtools 0.1.0a4."
+2026-11-08T22:12:19Z,bboxkit,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,118991,"Zero-dependency bounding boxes: parse and format every bbox convention (WKT, GeoJSON, Overpass, GDAL, tiles, geohash, Plus Codes, MGRS), antimeridian-aware geometry, ellipsoidal area and reprojection."
+2026-11-08T22:12:28Z,mockgeo,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,155604,"Deterministic synthetic geospatial test data: cities, street networks, buildings, GPS tracks, GTFS feeds, DEMs and fake addresses for tests, demos and benchmarks."
+2026-11-08T22:13:08Z,prooft,0.0.1,Zach Vorhies,BSD-3-Clause,3287,Proof marks for client builds: turn local soldr lint/test results into verifiable CI attestations so merge queues can skip re-running them (placeholder spike).
+2026-11-08T22:18:32Z,dimvexa,0.1.0,,MIT OR Apache-2.0,442988,Exact factors. Loud failures. Zero guessing. Unit conversion with exact rational factors.

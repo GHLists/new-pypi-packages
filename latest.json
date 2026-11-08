@@ -1,20 +1,20 @@
 {
   "list": {
     "count": 41,
-    "from": "2026-11-08T20:19:57.989148Z",
-    "path": "data/new-packages-2026-11-08T21-19-15-524444Z.csv",
-    "to": "2026-11-08T21:19:15.524444Z"
+    "from": "2026-11-08T21:19:15.524444Z",
+    "path": "data/new-packages-2026-11-08T22-19-49-22445Z.csv",
+    "to": "2026-11-08T22:19:49.22445Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-08T18:19:40Z",
       "package": "Authry",
       "since": "2026-11-08T18:18:17.913395Z",
       "version": null
     }
   ],
-  "serial": 43376997,
+  "serial": 43378480,
   "source_truncated": false,
-  "window": "2026-11-08T21:19:15.524444Z"
+  "window": "2026-11-08T22:19:49.22445Z"
 }
