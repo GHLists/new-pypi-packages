@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T14:22:58Z,pysimplicial,0.2.0,,,133138,"Finite simplicial complexes, contiguity and simplicial LS category"
+2026-11-08T14:22:59Z,scotlis-mcp,1.0.0,Dart120 <irenitemi81@gmail.com>,MIT,52584,MCP server exposing ScotLIS (Registers of Scotland) property price search
+2026-11-08T14:24:26Z,capimail,0.1.1,CapiMail,MIT,48392,"Official Python client for the CapiMail API: transactional email, suppressions, credits, Email Validation, OTP, Domain Health and webhook verification."
+2026-11-08T14:24:26Z,pysandbox-wasi-core,1.6.6,t8945 <123198477+AGitUser0001@users.noreply.github.com>,Apache-2.0,150060905,Native Wasmtime extension for pysandbox-wasi.
+2026-11-08T14:24:53Z,langchain-megalania,0.1.0,Megalania,MIT,14032,LangChain document loader and tools for the Megalania scraping API.
+2026-11-08T14:24:54Z,megalania,0.2.0,Megalania,MIT,109475,"Megalania scraping API client, generated from the OpenAPI document."
+2026-11-08T14:24:58Z,llama-index-readers-megalania,0.1.0,Megalania,MIT,6323,LlamaIndex reader for the Megalania scraping API.
+2026-11-08T14:25:16Z,artystd,0.0.2,Artytuihj,MIT,29470,Arty's standard library
+2026-11-08T14:26:11Z,arc56-generated-kanis-e08336ed,1.2.2026072010,kanishkarathore,,11917,Generated ARC-56 Algorand smart-contract clients for kanishkarathore/mosspay-project.
+2026-11-08T14:27:15Z,arc56-generated-karan-6996faea,1.1.2026072509,karangoraniya,,4577,Generated ARC-56 Algorand smart-contract clients for karangoraniya/agent-budget.
+2026-11-08T14:28:18Z,arc56-generated-karth-33f96b95,1.2.2026072010,karthikreddy358,,11876,Generated ARC-56 Algorand smart-contract clients for karthikreddy358/Student_MS.
+2026-11-08T14:29:22Z,arc56-generated-karti-340398b6,1.2.2026072010,kartikeyan-sudo,,24430,Generated ARC-56 Algorand smart-contract clients for kartikeyan-sudo/triviapay_v3.
+2026-11-08T14:30:36Z,bedrock-fastapi,0.1.0,maacck,MIT,8537,"FastAPI integration for Bedrock: request DI scopes, request-bound database sessions, and BedrockExc responses."
+2026-11-08T14:31:08Z,UGOS,1.0.0,,MIT-0,133334,Python client for the UserGate NGFW web-console API
+2026-11-08T14:31:17Z,Brain4Agent,0.0.1,SpikeBot 000,Apache-2.0,176527,"Long-term memory for agents. CJK-first, split read/write paths, explicit abstention."
+2026-11-08T14:32:49Z,ndplex,0.1.0,Ted Teske,MIT,91739,"The n-Dimensional m-Plex array: a generic Pascal's array (rectangle, cube or higher) with user-defined edges and node-generating function."
+2026-11-08T14:34:11Z,ttl-cache-decorator,0.1.2,Johandielangman <johan@datatreehouse.org>,MIT,54332,LRU Cache Decorator with a Time to Live
+2026-11-08T14:35:22Z,py2apk-compiler,0.1.0,,,95429,A CLI tool for building Android APKs from Python source trees
+2026-11-08T14:39:20Z,aleshaq-sdk,0.1.0,Naufal Ziyaadaturrahman,"MIT License Copyright (c) 2026 Naufal Ziyaadaturrahman Permission is hereby granted, free of charge…",128425,"Aleshnatt Quantum SDK: Comprehensive toolkit for quantum primitives, error correction, networking, and protocols."
+2026-11-08T14:40:43Z,rexdeck,0.1.0,Tom Mathews,MIT,115479,Native Rex integrations for independently selectable existing tools
+2026-11-08T14:42:05Z,partial-python,0.1.0a1,,,122527,Append-only Python parsing and incremental execution
+2026-11-08T14:43:05Z,mcp-monetize,0.1.0,RitualDev Lab <security@ritualdev.in>,MIT,8501,"Drop-in billing, paywall & PASETO capability token middleware for Python FastMCP servers"
+2026-11-08T14:43:15Z,urban-http,0.1.1,urban-http,"MIT License Copyright (c) 2026 black beard Permission is hereby granted, free of charge, to any per…",162352,Transformer une commande curl ou une collection Postman en appel exécutable (HTTP et autres protocoles).
+2026-11-08T14:43:41Z,promptshield-defense,0.1.2,RitualDev Lab <security@ritualdev.in>,MIT,12056,Enterprise AI Data Loss Prevention (DLP) & Prompt Firewall SDK for Python
+2026-11-08T14:47:24Z,foundation-guide,1.0.0,tanloong,,251415,The Hitchhiker's Guide to the Foundation - a CLI text adventure through Asimov's Foundation
+2026-11-08T14:48:20Z,fxbx,0.7.0,,Apache-2.0,177649,Furiosa RNGD 사전 컴파일 아티팩트 패키징 및 실행 CLI
+2026-11-08T14:49:51Z,amde-automl,5.0.0,LNTA,MIT,577168,AMDE: Autonomous Machine Learning Discovery Engine - SOTA Evidence-Guided Multi-Objective AutoML
+2026-11-08T14:50:00Z,sv-weave,0.1.0,Matthew Ballance <matt.ballance@gmail.com>,Apache-2.0,137844,Factory weaving for SystemVerilog class libraries
+2026-11-08T14:55:32Z,eleman-net-mcp,0.1.0,Mohammad Abbasi,MIT,147973,"Unofficial read-only MCP server for eleman.net jobs (search, job detail, sectors, cities, newest listings)"
+2026-11-08T14:55:43Z,mackolik-mcp,0.1.0,Mohammad Abbasi,MIT,74409,"Unofficial read-only MCP server for mackolik.com live scores (live scores, results, fixtures, standings, match detail)"
+2026-11-08T14:55:55Z,donanimhaber-mcp,0.1.0,Mohammad Abbasi,MIT,207641,"Unofficial read-only MCP server for donanimhaber.com tech news and forum (latest, search, article, sections, hot topics)"
+2026-11-08T14:56:44Z,struct-enum,0.1.0,Michel Rugenbrink,BSD-3-Clause,30894,StructEnum: str enums whose members carry typed msgspec Struct properties
+2026-11-08T14:58:45Z,kinetixai,0.2.0,Rohit S Patel,MIT,114716,"kx: papers to code, models and datasets, a local paper library, private RAG over your PDFs, and an MCP server for open-source agents."
+2026-11-08T15:01:30Z,model-fortress-cli,0.1.0,,Proprietary,16473,Model Fortress CI/CD client — scan & red-team your models from a pipeline and fail the build on a policy-gate breach.
+2026-11-08T15:01:48Z,moodle-obsidian-mcp,0.7.1,Carlos André Ferreira,MIT,149239,"MCP server for Moodle with server-side prompt-injection defenses, SSO login and Obsidian vault sync"
+2026-11-08T15:04:21Z,fenecon-modbus,0.1.0,Tomson124,MIT,25622,Asynchronous Modbus/TCP client for FENECON energy management systems (FEMS)
+2026-11-08T15:04:47Z,self-healing-whois,0.1.1,self-healing-whois contributors; upstream python-whois contributors,MIT,425933,"A python-whois fork with validated, LLM-assisted expiration parser repair."
+2026-11-08T15:05:26Z,simsense,0.0.0,,Apache-2.0,1861,Validated sensor simulation. Placeholder: the first release is in development.
+2026-11-08T15:05:29Z,agent-capmap,0.1.0,NKwolv,MIT,532507,Inventory the MCP tools reachable by AI agents and flag dangerous capability combinations with policy-as-code.
+2026-11-08T15:06:15Z,dagwick,0.1.0,The Dagwick Authors,MIT,83987,"The wick that keeps your DAGs lit: DAG quality scores, a fleet view, and fixes you can act on, inside the Airflow 3 UI."
+2026-11-08T15:06:29Z,pytaurix,0.1.0a1,,Apache-2.0,365046093,Independent Python bindings for Tauri through PyO3
+2026-11-08T15:06:49Z,tinyjobs-ksredkin,0.1.0,ksredkin,,22565,Асинхронное выполнение фоновых задач с сохранением состояния
+2026-11-08T15:12:08Z,mental-models-mcp,0.1.0,Surendran B <reachsuren@gmail.com>,MIT,49934,"Multi-disciplinary mental models, cognitive orientation coaching, and dialectical reasoning engine for AI agents and humans. Zero API keys."
+2026-11-08T15:14:08Z,game-server-tco-calculator,1.0.0,CloudBench Research,MIT,10692,"CLI benchmark calculator for dedicated game server RAM/vCPU TCO (Palworld, Minecraft, Rust, ARK: Survival Ascended, CS2) across Shockbyte, Apex Hosting, Host Havoc, Rainyun, and Vultr."
+2026-11-08T15:14:10Z,ziban,0.1.0,,MIT,107965,"CJK typesetting for programmatic renderers: line breaking, kinsoku, punctuation compression, hanging punctuation."
+2026-11-08T15:14:40Z,git4subeditor,0.1.20,Yinjie,MIT,78207,Convert Barotrauma .sub submarine files into Git-friendly text
+2026-11-08T15:14:45Z,asciireveal,0.1.0,asciireveal contributors,MIT,28956,"Turn any photo into animated, full-color ASCII art right in your terminal."
+2026-11-08T15:18:26Z,astrea-fake-mail-generator,0.1.0,,MIT,173751,Generate fake .eml email files for tests.
+2026-11-08T15:18:27Z,alion,0.1.0,Alion <info@alion.io>,MIT,73945,"Official Alion client: companies, startups, investors, job postings, hiring and pay statistics and people open to offers, as typed calls for code and AI agents. Free without a key for compact searche…"
