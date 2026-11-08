@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T22:21:58Z,tidy-downloads,0.1.0,Hieg (an AI duck),MIT,8161,"Dry-run-first Downloads folder tidier with an undo file. Never deletes, no network."
+2026-11-08T22:22:11Z,whitecircle-ai,0.0.1,White Circle,MIT,1400,Reserved by White Circle (whitecircle.com). Not installable.
+2026-11-08T22:22:12Z,whitecircle-api,0.0.1,White Circle,MIT,1406,Reserved by White Circle (whitecircle.com). Not installable.
+2026-11-08T22:22:13Z,whitecircle-client,0.0.1,White Circle,MIT,1409,Reserved by White Circle (whitecircle.com). Not installable.
+2026-11-08T22:23:30Z,evok,0.1.0,ellainng,MIT,45683,Pure-Python high-performance packaging engine and virtualization runtime
+2026-11-08T22:23:41Z,gpkglite,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,140650,"Read, write and validate OGC GeoPackage files in pure Python: no GDAL, standard library only."
+2026-11-08T22:24:17Z,geocsv,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,141547,"Turn any spreadsheet or CSV of places into a map-ready GeoJSON, GeoPackage, KML or GPX file, without GDAL."
+2026-11-08T22:24:35Z,sametime,0.1.0,ellainng,MIT,14402,Bounded synchronous thread concurrency for independent I/O operations
+2026-11-08T22:25:37Z,astree,0.1.0,ellainng,MIT,32042,Dependency-free HTML trees and extraction powered by html.parser
+2026-11-08T22:26:13Z,speedport-api-expanded,0.7.1,"Andre Basche, Diego Guillen-Rosaperez",MIT,27946,Control Telekom Speedport routers with Python
+2026-11-08T22:26:49Z,moveset,0.1.0,ellainng,MIT,24614,Explicit linear composition of selected Python capabilities.
+2026-11-08T22:29:00Z,koinon,0.0.0a1,Michael Oesterle,,1963,"A framework for multi-agent environments for LLM agents, with governance as data. Placeholder release; the first real release follows."
+2026-11-08T22:29:42Z,audiokit-ai,0.1.0,,LicenseRef-Proprietary,13419,Generated Python client and webhook verification for the AudioKit API
+2026-11-08T22:30:26Z,valcyon,0.1.1,Osama AKESKOUS,MIT,46759,Deterministic hierarchical PDF extraction and retrieval toolkit.
+2026-11-08T22:31:39Z,tg-flowmap,0.1.0,w1bbex,MIT,285915,"Static AST visualizer, flow mapper, and dead-end linter for Telegram bots"
+2026-11-08T22:31:43Z,requ,0.1.0,ellainng,MIT,30351,Bounded HTTP(S) requests with client-owned connection pooling
+2026-11-08T22:33:01Z,bosco-vendor-check,0.1.0,Bosco Labs <support@boscolabs.dev>,MIT,27573,Vendor onboarding check (KYB screening aid) on the Bosco Labs API. Standard library only.
+2026-11-08T22:33:08Z,billium,1.0.0,Asinerum Conlang Project,MIT,27649,Literp Billing Web Tool
+2026-11-08T22:35:15Z,peaches,0.1.0,ellainng,MIT,14602,A selected text workflow workbench over independent Python composition libraries.
+2026-11-08T22:35:28Z,talp-arena-personal-life-connector,0.0.0,Talp,,997,This name is reserved by Talp. This release contains no code.
+2026-11-08T22:35:29Z,talp-arena-reference-agent,0.0.0,Talp,,940,This name is reserved by Talp. This release contains no code.
+2026-11-08T22:35:30Z,talp-arena-runtime,0.0.0,Talp,,880,This name is reserved by Talp. This release contains no code.
+2026-11-08T22:35:31Z,talp-arena-tau2-connector,0.0.0,Talp,,930,This name is reserved by Talp. This release contains no code.
+2026-11-08T22:36:08Z,whitebird-api,0.1.1,,MIT,331277,Unofficial Whitebird API client
+2026-11-08T22:37:42Z,sysprims,0.4.0,,MIT OR Apache-2.0,4881622,"Cross-platform process inspection, signal dispatch, containment, timeout, and RFC 5545 recurrence primitives"
+2026-11-08T22:37:51Z,google-maps-leads-scraper,0.1.1,Buğrahan Saka,MIT,34880,"Export Google Maps businesses (name, phone, website, address, rating, hours, coordinates), place details and reviews to CSV with Python and the Scrape.do Google Maps API."
+2026-11-08T22:40:00Z,haybale-comfyui,0.0.2,,MIT,45141,Run ComfyUI workflows on a ComfyUI server
+2026-11-08T22:41:17Z,apiconn,0.1.0,ellainng,MIT,33598,Operation-first REST and GraphQL API connections over requ
+2026-11-08T22:50:14Z,pypersistable,1.0.0,Nick Young <nick.young.github@gmail.com>,"MIT License Copyright (c) 2026 Nick Young Permission is hereby granted, free of charge, to any pers…",60676,Core Object Model
+2026-11-08T22:55:31Z,pyagenteval,1.0.1,Lorenzo,MIT,1728090,"Run your LLM agent many times, trace every step, and find out why it fails: correctness, tool use, latency, cost, retries and regressions."
+2026-11-08T22:55:48Z,scriptty,0.1.0,ellainng,MIT,30886,Passive workflow documents over explicitly selected Python pipelines.
+2026-11-08T22:56:01Z,skyrun,0.1.0,Aliaksei Kaliutau,MIT,110162,"Run ordinary project code on cloud compute, with reproducible uploads and selective file sync."
+2026-11-08T23:00:05Z,diaggrok,2026.11.8,Luke Jenkins,Apache-2.0,3142123,Qualcomm DIAG log code parser library
+2026-11-08T23:01:28Z,fairmind-cli,0.3.1a0,Adhithya Rajasekaran <adhithya@axonome.xyz>,Apache-2.0,18749,Run FairMind's release gate and fairness tests from a terminal or CI.
+2026-11-08T23:01:29Z,fairmind,0.3.1a0,Adhithya Rajasekaran <adhithya@axonome.xyz>,Apache-2.0,16977,"Typed Python client for FairMind: release gate, fairness tests, monitoring and attestations."
+2026-11-08T23:01:29Z,fairmind-mcp,0.3.1a0,Adhithya Rajasekaran <adhithya@axonome.xyz>,Apache-2.0,18842,MCP server that lets a coding agent ask FairMind whether an AI system may ship and run fairness tests.
+2026-11-08T23:03:15Z,pyqcu,0.1.0,ZhangXin8069 <zhangxin8069@qq.com>,MIT,598903,CUDA/DCU/KUPL-accelerated lattice-QCD Dirac operators and multigrid solvers.
+2026-11-08T23:06:43Z,motel,0.0.1,vicennial,Apache-2.0,12012,"Disk and servers by the hour, for agents: temporary cloud volumes and disposable servers that check out on time."
+2026-11-08T23:08:57Z,seismic-response,0.1.0,EarthScope Consortium,LGPL-3.0-only,270402,"Evaluate seismological instrument responses (StationXML, SEED RESP) with evalresp-compatible output"
+2026-11-08T23:15:13Z,pomona,0.1.0,René de Hesselle <dehesselle@web.de>,MIT,8411234,"A viewer for Apple Screen Sharing, in Standard mode over plain TCP"
