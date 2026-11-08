@@ -8,42 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 11:18 UTC
+## Latest list — 2026-11-08 12:18 UTC
 
-New packages created between 2026-11-08 10:19 UTC and 2026-11-08 11:18 UTC.
+New packages created between 2026-11-08 11:18 UTC and 2026-11-08 12:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-08T11-18-22-413068Z.csv)
+[Full CSV](data/new-packages-2026-11-08T12-18-19-156468Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-08 10:14:53 | [etunnel](https://pypi.org/project/etunnel/) | 1.0.0 | etunnel authors | 8.9 kB | Expose a local service through an etunnel reverse-tunnel server with one line o… |
-| 2026-11-08 10:20:00 | [hairu](https://pypi.org/project/hairu/) | 0.1.0 | Hairu Hub | 48.5 kB | Client, authoring SDK, and CLI for Hairu Hub — the confidential, role-based Tel… |
-| 2026-11-08 10:20:24 | [benchone-kernel](https://pypi.org/project/benchone-kernel/) | 0.0.0a0 |  | 1.6 kB | Tripwire for the BenchOne project: importing it fails with a pointer to the rig… |
-| 2026-11-08 10:20:25 | [benchone-mcp](https://pypi.org/project/benchone-mcp/) | 0.0.0a0 |  | 1.6 kB | Tripwire for the BenchOne project: importing it fails with a pointer to the rig… |
-| 2026-11-08 10:20:26 | [benchone-sdk](https://pypi.org/project/benchone-sdk/) | 0.0.0a0 |  | 1.6 kB | Tripwire for the BenchOne project: importing it fails with a pointer to the rig… |
-| 2026-11-08 10:20:27 | [benchone-security](https://pypi.org/project/benchone-security/) | 0.0.0a0 |  | 1.6 kB | Tripwire for the BenchOne project: importing it fails with a pointer to the rig… |
-| 2026-11-08 10:22:02 | [agentbridge-core](https://pypi.org/project/agentbridge-core/) | 0.1.0 | yoonjae26 | 402.1 kB | AgentBridge: provider-agnostic orchestration for AI coding agents (plan, isolat… |
-| 2026-11-08 10:22:20 | [agentbridge-bench](https://pypi.org/project/agentbridge-bench/) | 0.1.0 | yoonjae26 | 56.8 kB | AgentBench: reproducible evaluation of single- and multi-agent AI coding setups… |
-| 2026-11-08 10:24:33 | [guidon-sdk](https://pypi.org/project/guidon-sdk/) | 0.1.0 | Two Steps Studio | 30.5 kB | Official Python SDK for the Guidon REST API (/api/v1). |
-| 2026-11-08 10:25:22 | [crowdwisdomtrading](https://pypi.org/project/crowdwisdomtrading/) | 0.2.1 | CrowdWisdom Trading | 30.5 kB | Crowd sentiment from thousands of pro traders for stocks, crypto, futures and F… |
-| 2026-11-08 10:26:22 | [forbiddencurse](https://pypi.org/project/forbiddencurse/) | 1.0.0 | Muhammed Zeynalli <bildiris15… | 5.3 kB | Modificated curse |
-| 2026-11-08 10:26:51 | [odoo-sghtmltopdf](https://pypi.org/project/odoo-sghtmltopdf/) | 0.1.0 | Terraros Commerce Ltd. | 9.3 MB | HTML to PDF without Chromium or WebKit, with a wkhtmltopdf-compatible mode for… |
-| 2026-11-08 10:32:17 | [transmux-py](https://pypi.org/project/transmux-py/) | 0.6.0 |  | 1.8 MB | Python bindings for transmux — demux TS/fMP4 into the shared Media/Track/Sample… |
-| 2026-11-08 10:34:10 | [langchain-modular-rag-hck](https://pypi.org/project/langchain-modular-rag-hck/) | 0.1.0 |  | 10.4 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-08 10:35:15 | [zenith-template](https://pypi.org/project/zenith-template/) | 0.2.0 | bwrob <contact@bwrob.dev> | 193.8 kB | Zenith: An opinionated, strict Cookiecutter template for modern Python projects… |
-| 2026-11-08 10:37:40 | [streamlit-pokercards](https://pypi.org/project/streamlit-pokercards/) | 0.1.0 | Constantin Wilharm | 150.9 kB | Streamlit component that shows playing cards with an optional flip animation. |
-| 2026-11-08 10:39:32 | [checkwash-prove](https://pypi.org/project/checkwash-prove/) | 0.1.0 | taipei49314 | 141.9 kB | Experimental companion to checkwash: runs a change's old and new tests against… |
-| 2026-11-08 10:40:49 | [sentinelrag](https://pypi.org/project/sentinelrag/) | 0.2.0 | PRAKASH KUMAR K <prakash888kp… | 398.9 kB | Triple-gate adaptive RAG: CI gates for retrieval, answer quality, and ingest po… |
-| 2026-11-08 10:41:44 | [leichtfacile-samples](https://pypi.org/project/leichtfacile-samples/) | 0.5.0 | Alexander Bobrovsky <bobrovsk… | 35.4 kB | The sample letters of Leicht·Facile and the recorded runs its web app answers t… |
-| 2026-11-08 10:42:46 | [svgslide](https://pypi.org/project/svgslide/) | 0.1.0 | Krystian Łazowski <k.lazowski… | 163.6 kB | Convert an SVG drawing or a PDF into an editable PowerPoint (.pptx) file |
-| 2026-11-08 10:46:33 | [secria](https://pypi.org/project/secria/) | 0.1.0 | Kaiden-A | 65.0 kB | Secria secrets manager CLI |
-| 2026-11-08 10:47:01 | [spookcli](https://pypi.org/project/spookcli/) | 0.1.0 | Jayaditya | 12.1 MB | A Halloween-themed CLI that summons a ghost when your command fails, plus gtop,… |
-| 2026-11-08 10:47:38 | [wasptool](https://pypi.org/project/wasptool/) | 0.1.0a1 |  | 40.3 kB | Talk to a wasp-os smart watch over Bluetooth: update, set the time, notify |
-| 2026-11-08 10:47:52 | [summarium](https://pypi.org/project/summarium/) | 0.0.1 | Strategos <r@strategos.au> | 6.3 kB | Legal document summary and digest — Disciplina. by Strategos. |
-| 2026-11-08 10:48:01 | [pandrosion604-robotics](https://pypi.org/project/pandrosion604-robotics/) | 0.604.0 | Ivan Besevic | 235.7 kB | Standalone NumPy robotics solver with bounded inverse kinematics and warm-start… |
-| 2026-11-08 10:51:09 | [vano-tool](https://pypi.org/project/vano-tool/) | 0.1.0 | Vasu Gumber | 14.0 kB | Save your resources straight into Notion - a tiny menu-driven CLI |
-| 2026-11-08 10:54:23 | [splent-feature-skin-lab](https://pypi.org/project/splent-feature-skin-lab/) | 0.3.0 |  | 18.5 kB |  |
-| 2026-11-08 10:55:48 | [dev-monitor](https://pypi.org/project/dev-monitor/) | 0.1.2 | Muzammal Abbas <abmuzammal17@… | 90.4 kB | See how many pull requests merge each day, who authors them, and who merges the… |
-| 2026-11-08 11:12:26 | [dvb-si-py](https://pypi.org/project/dvb-si-py/) | 0.4.0 |  | 2.6 MB | Python bindings for dvb-si — parse DVB SI/PSI sections and demux MPEG-TS into P… |
-| 2026-11-08 11:14:34 | [tokensafe](https://pypi.org/project/tokensafe/) | 1.0.0 | TokenSafe Team <support@token… | 105.3 kB | Autonomous Zero-Loss Token Economy & Context Optimizer for AI Coding Agents |
-| 2026-11-08 11:17:18 | [geosae](https://pypi.org/project/geosae/) | 1.0.0 | Vitus Benson | 837.2 kB | Sparse autoencoders for Earth embeddings: training, inference and evaluation ag… |
+| 2026-11-08 11:18:50 | [kiwy](https://pypi.org/project/kiwy/) | 0.1.0 |  | 502.4 kB | Kiwy's API for Python: products, checkouts, orders, subscriptions, licenses and… |
+| 2026-11-08 11:24:43 | [minimindslab-ini-key-diff](https://pypi.org/project/minimindslab-ini-key-diff/) | 0.1.0 | MiniMindsLab | 7.5 kB | Compare two INI documents and report added, removed, and changed keys per secti… |
+| 2026-11-08 11:25:31 | [halto](https://pypi.org/project/halto/) | 0.1.0 | Halto Labs <team@halto.tech> | 37.9 kB | Python SDK for Halto, the safety gateway for AI agents: check every risky actio… |
+| 2026-11-08 11:26:49 | [wield-sdk](https://pypi.org/project/wield-sdk/) | 0.1.0 |  | 15.2 kB | Wield SDK: find and run website actions (recipes) from Python. Standard library… |
+| 2026-11-08 11:29:08 | [asciinema-claude](https://pypi.org/project/asciinema-claude/) | 0.1.0 | Andy Roberts | 86.8 kB | Turn asciinema recordings of Claude Code sessions into ANSI scrollback transcri… |
+| 2026-11-08 11:33:00 | [queuelens](https://pypi.org/project/queuelens/) | 0.1.0 |  | 35.2 kB | Python SDK for background job observability and Celery instrumentation |
+| 2026-11-08 11:35:01 | [handle-mcp](https://pypi.org/project/handle-mcp/) | 1.5.1 |  | 359.7 kB | MCP server for Danish grocery delivery: search, cart and price comparison. You… |
+| 2026-11-08 11:39:05 | [super-color](https://pypi.org/project/super-color/) | 0.1.1 | JonhMacBebe | 8.7 kB | Colors by JonhMacBebe |
+| 2026-11-08 11:39:24 | [geat](https://pypi.org/project/geat/) | 0.1.2 | Zmr Drom <cat05961@gmail.com> | 10.3 kB | AI-powered project agent with free keyless LLM fallback |
+| 2026-11-08 11:40:03 | [matrixcore-tool](https://pypi.org/project/matrixcore-tool/) | 0.1.0 |  | 66.1 kB | A simple, extensible and efficient Python framework for manipulating 2D matrice… |
+| 2026-11-08 11:42:22 | [autotrade-mofid](https://pypi.org/project/autotrade-mofid/) | 0.1.1 | Hossein | 60.2 kB | Python library to place buy/sell limit orders on Mofid EasyTrader |
+| 2026-11-08 11:43:00 | [splitpy-core](https://pypi.org/project/splitpy-core/) | 0.3.0 | Lorenzo Fattori | 25.4 kB | Domain library for shared expense management: money arithmetic, split strategie… |
+| 2026-11-08 11:43:26 | [django-pdf-sign](https://pypi.org/project/django-pdf-sign/) | 0.1.0 | "Eldar S. Selimov" <selimoves… | 910.7 kB | Client-side electronic signatures for PDF documents in Django: GOST 34.10-2012… |
+| 2026-11-08 11:43:52 | [argsig](https://pypi.org/project/argsig/) | 0.1.1 | Avery Zhou X | 2.2 kB | Signature-driven CLI: declare options in function signatures, no repeated add_a… |
+| 2026-11-08 11:47:31 | [basa-evals](https://pypi.org/project/basa-evals/) | 0.1.0 | Muanai <muanai@example.com> | 193.2 kB | Independent evaluation framework, benchmark suite, and dataset pipeline for Ind… |
+| 2026-11-08 11:52:26 | [autonomo-sdk](https://pypi.org/project/autonomo-sdk/) | 0.1.0 | Autonomo | 3.9 kB | Another name for the Autonomo Python SDK (pip install autonomo): one call for A… |
+| 2026-11-08 11:52:43 | [rCopy](https://pypi.org/project/rCopy/) | 0.1.0 | Rainwalker <lmx1w3r@outlook.c… | 18.2 kB | An iterative deepcopy library for Python |
+| 2026-11-08 11:53:14 | [langchain-modular-rag-jx](https://pypi.org/project/langchain-modular-rag-jx/) | 0.1.0 |  | 4.2 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-08 11:53:21 | [AlphaBMP](https://pypi.org/project/AlphaBMP/) | 0.1.0 |  | 7.2 kB | A short description |
+| 2026-11-08 11:56:35 | [twincheck](https://pypi.org/project/twincheck/) | 0.12.0a1 | TwinCheck contributors | 238.7 kB | Reproducible evidence-first differential testing with portable stateful regress… |
+| 2026-11-08 12:02:38 | [orion-belt-sdk](https://pypi.org/project/orion-belt-sdk/) | 1.0.0 | Orion Belt Maintainers | 47.4 kB | Python client for the Orion Belt API |
+| 2026-11-08 12:04:32 | [mixarchive](https://pypi.org/project/mixarchive/) | 0.2.0 |  | 299.0 kB | Archive YouTube channels and long mixes as tagged tracks, and sync them into re… |
+| 2026-11-08 12:06:09 | [bitspark-thesmos](https://pypi.org/project/bitspark-thesmos/) | 1.0.0rc8 |  | 3.1 MB | The Spaces authority receiver for Python: verify a supplied proof under the fro… |
+| 2026-11-08 12:10:43 | [dry-lint](https://pypi.org/project/dry-lint/) | 1.6.0 | Gigaverse | 26.5 MB | Find code that re-implements what your codebase already does, judge it, and say… |
+| 2026-11-08 12:11:53 | [dennis-uppgift-3](https://pypi.org/project/dennis-uppgift-3/) | 0.1.0 |  | 6.3 kB | Projektuppgift 3 |
+| 2026-11-08 12:13:42 | [qdsession](https://pypi.org/project/qdsession/) | 0.0.0 |  | 898 B | Namespace placeholder reserved by Squarepoint IT Security. Not for public use. |
+| 2026-11-08 12:14:35 | [pytest-quint-connect](https://pypi.org/project/pytest-quint-connect/) | 0.1.0 | Gigaverse | 124.2 kB | Model-based testing for Python: replay Quint-generated histories against real i… |
+| 2026-11-08 12:15:44 | [spissclient](https://pypi.org/project/spissclient/) | 0.0.0 |  | 882 B | Namespace placeholder reserved by Squarepoint IT Security. Not for public use. |
+| 2026-11-08 12:17:46 | [docpublisher](https://pypi.org/project/docpublisher/) | 0.0.0 |  | 907 B | Namespace placeholder reserved by Squarepoint IT Security. Not for public use. |

@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T11:18:50Z,kiwy,0.1.0,,MIT,502362,"Kiwy's API for Python: products, checkouts, orders, subscriptions, licenses and webhooks."
+2026-11-08T11:24:43Z,minimindslab-ini-key-diff,0.1.0,MiniMindsLab,MIT,7504,"Compare two INI documents and report added, removed, and changed keys per section with deterministic output."
+2026-11-08T11:25:31Z,halto,0.1.0,Halto Labs <team@halto.tech>,MIT,37851,"Python SDK for Halto, the safety gateway for AI agents: check every risky action before it runs."
+2026-11-08T11:26:49Z,wield-sdk,0.1.0,,MIT,15238,Wield SDK: find and run website actions (recipes) from Python. Standard library only.
+2026-11-08T11:29:08Z,asciinema-claude,0.1.0,Andy Roberts,MIT,86788,Turn asciinema recordings of Claude Code sessions into ANSI scrollback transcripts
+2026-11-08T11:33:00Z,queuelens,0.1.0,,MIT,35194,Python SDK for background job observability and Celery instrumentation
+2026-11-08T11:35:01Z,handle-mcp,1.5.1,,MIT,359666,"MCP server for Danish grocery delivery: search, cart and price comparison. You always pay yourself."
+2026-11-08T11:39:05Z,super-color,0.1.1,JonhMacBebe,GNU,8692,Colors by JonhMacBebe
+2026-11-08T11:39:24Z,geat,0.1.2,Zmr Drom <cat05961@gmail.com>,,10315,AI-powered project agent with free keyless LLM fallback
+2026-11-08T11:40:03Z,matrixcore-tool,0.1.0,,MIT,66101,"A simple, extensible and efficient Python framework for manipulating 2D matrices."
+2026-11-08T11:42:22Z,autotrade-mofid,0.1.1,Hossein,MIT,60221,Python library to place buy/sell limit orders on Mofid EasyTrader
+2026-11-08T11:43:00Z,splitpy-core,0.3.0,Lorenzo Fattori,Apache-2.0,25369,"Domain library for shared expense management: money arithmetic, split strategies, balances and settlement."
+2026-11-08T11:43:26Z,django-pdf-sign,0.1.0,"""Eldar S. Selimov"" <selimoves@gmail.com>",MIT,910656,Client-side electronic signatures for PDF documents in Django: GOST 34.10-2012 (qualified signatures) and PAdES (RSA/ECDSA).
+2026-11-08T11:43:52Z,argsig,0.1.1,Avery Zhou X,,2225,"Signature-driven CLI: declare options in function signatures, no repeated add_argument."
+2026-11-08T11:47:31Z,basa-evals,0.1.0,Muanai <muanai@example.com>,MIT,193205,"Independent evaluation framework, benchmark suite, and dataset pipeline for Indonesian NLP text normalization and preprocessing."
+2026-11-08T11:52:26Z,autonomo-sdk,0.1.0,Autonomo,MIT,3866,"Another name for the Autonomo Python SDK (pip install autonomo): one call for AI agents to find, pay for and get a receipt from paid APIs on Autonomo."
+2026-11-08T11:52:43Z,rCopy,0.1.0,Rainwalker <lmx1w3r@outlook.com>,MIT,18234,An iterative deepcopy library for Python
+2026-11-08T11:53:14Z,langchain-modular-rag-jx,0.1.0,,,4232,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-08T11:53:21Z,AlphaBMP,0.1.0,,,7202,A short description
+2026-11-08T11:56:35Z,twincheck,0.12.0a1,TwinCheck contributors,MIT,238660,Reproducible evidence-first differential testing with portable stateful regression workflows.
+2026-11-08T12:02:38Z,orion-belt-sdk,1.0.0,Orion Belt Maintainers,LicenseRef-Apache-2.0-with-Commons-Clause,47367,Python client for the Orion Belt API
+2026-11-08T12:04:32Z,mixarchive,0.2.0,,MIT,298983,"Archive YouTube channels and long mixes as tagged tracks, and sync them into rekordbox for CDJ/XDJ"
+2026-11-08T12:06:09Z,bitspark-thesmos,1.0.0rc8,,Apache-2.0,3088392,"The Spaces authority receiver for Python: verify a supplied proof under the frozen law, with Logos's Rust checker."
+2026-11-08T12:10:43Z,dry-lint,1.6.0,Gigaverse,Apache-2.0,26510790,"Find code that re-implements what your codebase already does, judge it, and say so on the pull request"
+2026-11-08T12:11:53Z,dennis-uppgift-3,0.1.0,,,6325,Projektuppgift 3
+2026-11-08T12:13:42Z,qdsession,0.0.0,,,898,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
+2026-11-08T12:14:35Z,pytest-quint-connect,0.1.0,Gigaverse,Apache-2.0,124152,Model-based testing for Python: replay Quint-generated histories against real implementations under pytest
+2026-11-08T12:15:44Z,spissclient,0.0.0,,,882,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
+2026-11-08T12:17:46Z,docpublisher,0.0.0,,,907,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
