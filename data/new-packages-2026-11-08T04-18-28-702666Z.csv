@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T03:20:27Z,listo-delivery,0.1.0,,MIT,358562,Official Python client for the Listo Delivery API.
+2026-11-08T03:30:20Z,purge-reaper,2.0.0,Shenal Diluksha <shenald@users.noreply.github.com>,MIT,105358,🧹 Zero-latency developer bloat and zombie process reaper. Reclaim 50GB in 3 seconds.
+2026-11-08T03:31:07Z,alag,0.1.0,Sandeep S,MIT,770582,A simple logging and graphing tool for researchers
+2026-11-08T03:32:02Z,prism-radar,2.0.0,Shenal Diluksha <shenald@users.noreply.github.com>,MIT,103380,💎 Real-time topological blast radius and contract analysis for AI-generated code. Know what will break before you commit.
+2026-11-08T03:32:55Z,sober-audit,2.0.0,Shenal Diluksha <shenald@users.noreply.github.com>,MIT,103876,"🍸 The Vibe Coding Hangover Cure. Audit, sanitize, and proofread AI-generated code before pushing to production."
+2026-11-08T03:33:37Z,zen-timer,0.2.1,Shenal Diluksha <shenald@users.noreply.github.com>,MIT,15001,"🧘 Deep-work timer. Simple terminal app for focus sessions. No GUI, just flow."
+2026-11-08T03:42:44Z,db-agent-kit,0.2.0,,Apache-2.0,529298,"Read-only DBA toolkit CLI: SQL Server 2016/2017 upgrade and SSRS to Power BI inventory, Databricks workspace health and DBU cost checks."
+2026-11-08T03:47:36Z,headvox,0.1.0,HeadVox contributors,MIT,44680,"Turn a script into a talking-head voiceover with word-aligned SRT/VTT captions. Chinese, English and Japanese, free neural voices, one command."
+2026-11-08T03:48:12Z,molmotion-research,0.1.0,,Apache-2.0 AND MIT,135560,Research code and evidence for slow-fast tetrapeptide trajectory generation
+2026-11-08T03:49:19Z,spriskguardclient,0.0.0,,,903,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
+2026-11-08T03:49:43Z,c0data-py,0.3.2,Thomas Sawyer <transfire@gmail.com>,MIT,62737,C0DATA 1.0 — structured data using ASCII C0 control codes (Python binding over the c0 C core)
+2026-11-08T03:50:57Z,usd-ingest-physics,0.2.7,NVIDIA Corporation,Apache-2.0,30109,"NVIDIA USD Ingest USD physics authoring helpers (rigid bodies, colliders, mass, joints), independent of the physics provider"
+2026-11-08T03:51:02Z,usd-ingest-primhandlers,0.2.7,NVIDIA Corporation,Apache-2.0,111789,"NVIDIA USD Ingest prim handlers that fix and normalize OpenUSD assets: physics, materials, kind, semantics, extents, transforms and cleanup"
+2026-11-08T03:51:07Z,usd-ingest-deps,0.2.7,NVIDIA Corporation,Apache-2.0,7014,"NVIDIA USD Ingest native OpenUSD dependencies for running without Omniverse Kit, such as USD Optimize and the Omniverse USD asset resolver"
+2026-11-08T03:51:07Z,usd-ingest-kit,0.2.7,NVIDIA Corporation,Apache-2.0,62296,"NVIDIA USD Ingest CLI for Omniverse Kit, adding the validators Kit extensions provide"
+2026-11-08T03:59:45Z,pyvocabulary,0.1.0,aaltatan,GPL-3.0-only,20181,"The shared core of composable, JSON-definable building blocks: named registries, JSON Schemas from signatures and JSON-path errors."
+2026-11-08T04:03:51Z,hippocampus-mcp,0.1.0,cstksniper <cstksniper@qq.com>,MIT,1765404,"Long-term memory backend for AI hosts over MCP: 4-layer memory, slot-based context assembly, cascade-safe forgetting, CfC temporal encoding"
+2026-11-08T04:13:10Z,staticfx,2.0.0,ethanlabs101,MIT,259376,"Animated ASCII effects for your terminal, with a studio for making your own"
+2026-11-08T04:14:48Z,metaplectic,0.1.11,Jacob Mackay,Apache-2.0,3453,"Quadratic phase space methods: Wigner and ambiguity functions, linear canonical transforms and the metaplectic representation."
+2026-11-08T04:15:25Z,rvd-railbench,0.4.1,,Apache-2.0,4150110,"Rail-based ground testbed for spacecraft rendezvous and docking, with the RVDLAB terminal interface"

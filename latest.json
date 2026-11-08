@@ -1,20 +1,69 @@
 {
   "list": {
-    "count": 30,
-    "from": "2026-11-08T02:18:23.511703Z",
-    "path": "data/new-packages-2026-11-08T03-18-18-06653Z.csv",
-    "to": "2026-11-08T03:18:18.06653Z"
+    "count": 20,
+    "from": "2026-11-08T03:18:18.06653Z",
+    "path": "data/new-packages-2026-11-08T04-18-28-702666Z.csv",
+    "to": "2026-11-08T04:18:28.702666Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-08T02:48:43Z",
       "package": "pyqcd-einsum",
       "since": "2026-11-08T02:18:23.511703Z",
       "version": "0.1.1"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T03:46:43Z",
+      "package": "volt-asterism",
+      "since": "2026-11-08T03:18:18.06653Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T03:47:02Z",
+      "package": "volt-collector",
+      "since": "2026-11-08T03:18:18.06653Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T03:46:34Z",
+      "package": "volt-fusion",
+      "since": "2026-11-08T03:18:18.06653Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T03:46:23Z",
+      "package": "volt-groundbridge",
+      "since": "2026-11-08T03:18:18.06653Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T03:51:57Z",
+      "package": "volt-parallax",
+      "since": "2026-11-08T03:18:18.06653Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T03:45:22Z",
+      "package": "volt-sense",
+      "since": "2026-11-08T03:18:18.06653Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-08T03:46:13Z",
+      "package": "volt-skybridge",
+      "since": "2026-11-08T03:18:18.06653Z",
+      "version": null
     }
   ],
-  "serial": 43352077,
+  "serial": 43353015,
   "source_truncated": false,
-  "window": "2026-11-08T03:18:18.06653Z"
+  "window": "2026-11-08T04:18:28.702666Z"
 }
