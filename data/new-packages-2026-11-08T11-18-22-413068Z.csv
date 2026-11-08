@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T10:14:53Z,etunnel,1.0.0,etunnel authors,MIT,8875,Expose a local service through an etunnel reverse-tunnel server with one line of code
+2026-11-08T10:20:00Z,hairu,0.1.0,Hairu Hub,MIT,48457,"Client, authoring SDK, and CLI for Hairu Hub — the confidential, role-based Telegram account hub"
+2026-11-08T10:20:24Z,benchone-kernel,0.0.0a0,,,1612,Tripwire for the BenchOne project: importing it fails with a pointer to the right index.
+2026-11-08T10:20:25Z,benchone-mcp,0.0.0a0,,,1573,Tripwire for the BenchOne project: importing it fails with a pointer to the right index.
+2026-11-08T10:20:26Z,benchone-sdk,0.0.0a0,,,1573,Tripwire for the BenchOne project: importing it fails with a pointer to the right index.
+2026-11-08T10:20:27Z,benchone-security,0.0.0a0,,,1641,Tripwire for the BenchOne project: importing it fails with a pointer to the right index.
+2026-11-08T10:22:02Z,agentbridge-core,0.1.0,yoonjae26,MIT,402139,"AgentBridge: provider-agnostic orchestration for AI coding agents (plan, isolate, verify, approve)."
+2026-11-08T10:22:20Z,agentbridge-bench,0.1.0,yoonjae26,MIT,56797,"AgentBench: reproducible evaluation of single- and multi-agent AI coding setups, built on AgentBridge."
+2026-11-08T10:24:33Z,guidon-sdk,0.1.0,Two Steps Studio,MIT,30458,Official Python SDK for the Guidon REST API (/api/v1).
+2026-11-08T10:25:22Z,crowdwisdomtrading,0.2.1,CrowdWisdom Trading,MIT,30464,"Crowd sentiment from thousands of pro traders for stocks, crypto, futures and FX: free daily and weekly ProCrowdSentimentScore, plus predictions and CrowdMap levels, pay per call."
+2026-11-08T10:26:22Z,forbiddencurse,1.0.0,Muhammed Zeynalli <bildiris15@gmail.com>,MIT,5309,Modificated curse
+2026-11-08T10:26:51Z,odoo-sghtmltopdf,0.1.0,Terraros Commerce Ltd.,MIT,9261283,"HTML to PDF without Chromium or WebKit, with a wkhtmltopdf-compatible mode for Odoo"
+2026-11-08T10:32:17Z,transmux-py,0.6.0,,MIT OR Apache-2.0,1768233,"Python bindings for transmux — demux TS/fMP4 into the shared Media/Track/Sample IR as Python dicts, ready for PyAV/ONNX-style ML front-ends."
+2026-11-08T10:34:10Z,langchain-modular-rag-hck,0.1.0,,,10430,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-08T10:35:15Z,zenith-template,0.2.0,bwrob <contact@bwrob.dev>,,193839,"Zenith: An opinionated, strict Cookiecutter template for modern Python projects using uv, ruff, pyrefly, complexipy, zensical, rumdl, tach, deptry, and poethepoet."
+2026-11-08T10:37:40Z,streamlit-pokercards,0.1.0,Constantin Wilharm,MIT,150911,Streamlit component that shows playing cards with an optional flip animation.
+2026-11-08T10:39:32Z,checkwash-prove,0.1.0,taipei49314,Apache-2.0,141892,Experimental companion to checkwash: runs a change's old and new tests against catalogue mutants to show protection the change dropped.
+2026-11-08T10:40:49Z,sentinelrag,0.2.0,PRAKASH KUMAR K <prakash888kp@users.noreply.github.com>,MIT,398880,"Triple-gate adaptive RAG: CI gates for retrieval, answer quality, and ingest poison defenses"
+2026-11-08T10:41:44Z,leichtfacile-samples,0.5.0,"Alexander Bobrovsky <bobrovsky@seznam.cz>, Ivan Kuzmych <i.kuzmych@hotmail.com>",Apache-2.0,35358,The sample letters of Leicht·Facile and the recorded runs its web app answers them from.
+2026-11-08T10:42:46Z,svgslide,0.1.0,Krystian Łazowski <k.lazowski@exeter.ac.uk>,MIT,163615,Convert an SVG drawing or a PDF into an editable PowerPoint (.pptx) file
+2026-11-08T10:46:33Z,secria,0.1.0,Kaiden-A,MIT,64957,Secria secrets manager CLI
+2026-11-08T10:47:01Z,spookcli,0.1.0,Jayaditya,MIT,12091617,"A Halloween-themed CLI that summons a ghost when your command fails, plus gtop, a haunted process monitor with port hauntings, curse/uncurse, and bloodline leak tracing."
+2026-11-08T10:47:38Z,wasptool,0.1.0a1,,LGPL-3.0-or-later,40290,"Talk to a wasp-os smart watch over Bluetooth: update, set the time, notify"
+2026-11-08T10:47:52Z,summarium,0.0.1,Strategos <r@strategos.au>,Proprietary,6281,Legal document summary and digest — Disciplina. by Strategos.
+2026-11-08T10:48:01Z,pandrosion604-robotics,0.604.0,Ivan Besevic,MIT,235714,Standalone NumPy robotics solver with bounded inverse kinematics and warm-started target tracking
+2026-11-08T10:51:09Z,vano-tool,0.1.0,Vasu Gumber,MIT,14017,Save your resources straight into Notion - a tiny menu-driven CLI
+2026-11-08T10:54:23Z,splent-feature-skin-lab,0.3.0,,,18510,
+2026-11-08T10:55:48Z,dev-monitor,0.1.2,Muzammal Abbas <abmuzammal17@gmail.com>,MIT,90447,"See how many pull requests merge each day, who authors them, and who merges them, for GitHub, GitLab, Bitbucket, or a local git checkout."
+2026-11-08T11:12:26Z,dvb-si-py,0.4.0,,MIT OR Apache-2.0,2629029,Python bindings for dvb-si — parse DVB SI/PSI sections and demux MPEG-TS into Python dicts.
+2026-11-08T11:14:34Z,tokensafe,1.0.0,TokenSafe Team <support@tokensafe.dev>,MIT,105320,Autonomous Zero-Loss Token Economy & Context Optimizer for AI Coding Agents
+2026-11-08T11:17:18Z,geosae,1.0.0,Vitus Benson,MIT,837186,"Sparse autoencoders for Earth embeddings: training, inference and evaluation against reference products."

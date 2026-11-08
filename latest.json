@@ -1,62 +1,55 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-11-08T09:18:50.938974Z",
-    "path": "data/new-packages-2026-11-08T10-19-13-362901Z.csv",
-    "to": "2026-11-08T10:19:13.362901Z"
+    "count": 31,
+    "from": "2026-11-08T10:19:13.362901Z",
+    "path": "data/new-packages-2026-11-08T11-18-22-413068Z.csv",
+    "to": "2026-11-08T11:18:22.413068Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-08T07:36:55Z",
       "package": "arkhai-kit-capability-shape",
       "since": "2026-11-08T07:18:18.140529Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-08T07:38:12Z",
       "package": "arkhai-kit-deal-lifecycle",
       "since": "2026-11-08T07:18:18.140529Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-08T07:37:50Z",
       "package": "arkhai-kit-deal-lifecycle-contracts",
       "since": "2026-11-08T07:18:18.140529Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-08T07:39:06Z",
       "package": "arkhai-kit-pool-overrides",
       "since": "2026-11-08T07:18:18.140529Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-08T07:37:30Z",
       "package": "arkhai-kit-resource-pools-contracts",
       "since": "2026-11-08T07:18:18.140529Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-08T07:39:39Z",
       "package": "arkhai-vms-listings",
       "since": "2026-11-08T07:18:18.140529Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-08T10:14:53Z",
-      "package": "etunnel",
-      "since": "2026-11-08T09:18:50.938974Z",
-      "version": null
     }
   ],
-  "serial": 43359568,
+  "serial": 43360607,
   "source_truncated": false,
-  "window": "2026-11-08T10:19:13.362901Z"
+  "window": "2026-11-08T11:18:22.413068Z"
 }
