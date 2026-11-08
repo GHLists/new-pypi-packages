@@ -8,53 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 16:18 UTC
+## Latest list — 2026-11-08 17:19 UTC
 
-New packages created between 2026-11-08 15:18 UTC and 2026-11-08 16:18 UTC.
+New packages created between 2026-11-08 16:18 UTC and 2026-11-08 17:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-08T16-18-23-997838Z.csv)
+[Full CSV](data/new-packages-2026-11-08T17-19-03-402504Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-08 15:01:09 | [fhe-cli](https://pypi.org/project/fhe-cli/) | 1.3.1 | Ravin THILAGARASA, Thomas GRU… | 77.8 kB | Atelier d'exercices en ligne de commande, à la rustlings : chiffrement classiqu… |
-| 2026-11-08 15:19:35 | [knowflow](https://pypi.org/project/knowflow/) | 0.1.0 | qypvip | 85.2 kB | Agent Knowledge Pipeline — storage-agnostic, KB-agnostic, plug-and-play pipelin… |
-| 2026-11-08 15:20:07 | [dex-connector-elevenlabs](https://pypi.org/project/dex-connector-elevenlabs/) | 0.1.0 |  | 88.8 kB | ElevenLabs connector for Dex Flows |
-| 2026-11-08 15:21:27 | [dex-connector-figma](https://pypi.org/project/dex-connector-figma/) | 0.1.0 |  | 88.6 kB | Figma connector for Dex Flows |
-| 2026-11-08 15:21:30 | [grid402](https://pypi.org/project/grid402/) | 2.2.0 | Grid402 Team <contato@grid402… | 28.1 kB | SDK Python oficial do Grid402: Micropagamentos HTTP 402 na Base para Agentes Au… |
-| 2026-11-08 15:21:53 | [haybale-stream](https://pypi.org/project/haybale-stream/) | 0.0.3 | maybites | 38.8 kB | Share video frames between applications over Syphon, Spout, NDI and OMT |
-| 2026-11-08 15:22:45 | [dex-connector-freshworks-freshdesk](https://pypi.org/project/dex-connector-freshworks-freshdesk/) | 0.1.0 |  | 118.5 kB | Dex-native Freshdesk ticket connector |
-| 2026-11-08 15:25:48 | [req-metrics](https://pypi.org/project/req-metrics/) | 0.1.0 | Angelos-Nikolaos Kanatas | 295.5 kB | Label-free representation-quality metrics for layer-wise analysis of pretrained… |
-| 2026-11-08 15:26:18 | [pyofdr](https://pypi.org/project/pyofdr/) | 1.0.0 | "A. Meoli" <alessandro.meoli@… | 233.3 kB | OFDR simulator for distributed fiber sensing |
-| 2026-11-08 15:27:18 | [foxsnakecode](https://pypi.org/project/foxsnakecode/) | 1.0.1 | Trung Le <trung.le@quantstack… | 281.0 kB | A coding puzzle game for JupyterLab and JupyterLite |
-| 2026-11-08 15:28:31 | [amagi-hookguard](https://pypi.org/project/amagi-hookguard/) | 0.1.0 | "AmagiLabs (Amagisolutionsgro… | 80.8 kB | Tested Claude Code PreToolUse/PostToolUse hooks: block destructive shell comman… |
-| 2026-11-08 15:28:53 | [luckylucy.utils.selfupdate](https://pypi.org/project/luckylucy.utils.selfupdate/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 9.7 kB | A collection of utilities I use across different projects (luckylucy.utils.self… |
-| 2026-11-08 15:28:57 | [luckylucy.utils.store](https://pypi.org/project/luckylucy.utils.store/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 10.3 kB | A collection of utilities I use across different projects (luckylucy.utils.stor… |
-| 2026-11-08 15:30:06 | [luckylucy.utils.text](https://pypi.org/project/luckylucy.utils.text/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 16.2 kB | A collection of utilities I use across different projects (luckylucy.utils.text) |
-| 2026-11-08 15:31:16 | [luckylucy.utils.tg-bots](https://pypi.org/project/luckylucy.utils.tg-bots/) | 1.85rc1 | luckylucy <luckylucy.utils._.… | 11.3 kB | A collection of utilities I use across different projects (luckylucy.utils.tg_b… |
-| 2026-11-08 15:32:07 | [jellyfin-py](https://pypi.org/project/jellyfin-py/) | 12.4.0 | OpenAPI Generator community | 1.2 MB | Jellyfin API |
-| 2026-11-08 15:34:25 | [gtm-account-research](https://pypi.org/project/gtm-account-research/) | 0.6.0 | Yassine | 51.1 kB | Open-source CLI and MCP server that turn a company domain into a one-page GTM a… |
-| 2026-11-08 15:34:39 | [xblocks-core](https://pypi.org/project/xblocks-core/) | 2.0.0 | Open edX Project <oscm@opened… | 7.7 MB | core xblocks |
-| 2026-11-08 15:35:03 | [sqlfluff-templater-sqlmesh](https://pypi.org/project/sqlfluff-templater-sqlmesh/) | 4.5.0 | Alan Cruickshank <alan@design… | 30.0 kB | Lint your SQLMesh project SQL |
-| 2026-11-08 15:37:23 | [ddgbasic](https://pypi.org/project/ddgbasic/) | 1.0.0 | Dan Bailey | 492.1 kB | A procedural BASIC around SQLite and DuckDB: SQL in the program, loops over que… |
-| 2026-11-08 15:37:44 | [parallel-agents-cli](https://pypi.org/project/parallel-agents-cli/) | 0.1.0 | Alisher Muhammadaliyev <viltr… | 42.0 kB | Run Claude Code, Codex, Cursor and Gemini CLI on the same repo without them ove… |
-| 2026-11-08 15:42:10 | [charforge](https://pypi.org/project/charforge/) | 0.1.0 | charforge contributors | 89.2 kB | A small, generic Python library for building 2D character-matrix games. |
-| 2026-11-08 15:44:06 | [kdrag-vampire](https://pypi.org/project/kdrag-vampire/) | 5.1.0 |  | 92.4 MB | The Vampire theorem prover, packaged as a platform wheel |
-| 2026-11-08 15:49:54 | [yemek-com-mcp](https://pypi.org/project/yemek-com-mcp/) | 0.1.0 | Mohammad Abbasi | 36.6 kB | Unofficial read-only MCP server for Yemek.com Turkish recipes (search, full rec… |
-| 2026-11-08 15:50:01 | [hurriyet-mcp](https://pypi.org/project/hurriyet-mcp/) | 0.1.0 | Mohammad Abbasi | 28.1 kB | Unofficial read-only MCP server for Hürriyet news (headlines, full articles, se… |
-| 2026-11-08 15:50:15 | [sok-mcp](https://pypi.org/project/sok-mcp/) | 0.1.0 | Mohammad Abbasi | 20.7 kB | Unofficial read-only MCP server for ŞOK grocery (sokmarket.com.tr) products, ca… |
-| 2026-11-08 15:50:38 | [gitrescue-agent](https://pypi.org/project/gitrescue-agent/) | 0.1.0 | Shabana Sultana | 142.3 kB | An LLM agent that fixes git mistakes from plain-language requests, safely. |
-| 2026-11-08 15:52:16 | [omnia-surgery](https://pypi.org/project/omnia-surgery/) | 0.11.1 | "M. Sarhan" <prof7mohamedsarh… | 261.9 kB | Model surgery & verification toolkit with AutoArch (structural understanding of… |
-| 2026-11-08 15:52:36 | [jolly-tur-mcp](https://pypi.org/project/jolly-tur-mcp/) | 0.1.0 | Mohammad Abbasi | 324.9 kB | Unofficial read-only MCP server for Jolly Tur hotels (jollytur.com) — hotel sea… |
-| 2026-11-08 15:52:47 | [migros-mcp](https://pypi.org/project/migros-mcp/) | 0.1.0 | Mohammad Abbasi | 35.0 kB | Unofficial read-only MCP server for Migros Sanal Market (migros.com.tr) — produ… |
-| 2026-11-08 15:52:48 | [anvil-sdk](https://pypi.org/project/anvil-sdk/) | 0.1.0 |  | 58.3 kB | Anvil Python SDK — trace instrumentation for LLM apps |
-| 2026-11-08 15:52:57 | [paribu-cineverse-mcp](https://pypi.org/project/paribu-cineverse-mcp/) | 0.1.0 | Mohammad Abbasi | 159.2 kB | Unofficial read-only MCP server for Paribu Cineverse cinemas — now showing, com… |
-| 2026-11-08 15:53:38 | [undetected](https://pypi.org/project/undetected/) | 1.0.1 | lovebrownie <91576261+lovebro… | 183.3 kB | Selenium Chrome drop-in with chromedriver patching and automatic page-level JS… |
-| 2026-11-08 15:53:40 | [saikou](https://pypi.org/project/saikou/) | 1.2.0 | The Saikou authors | 338.3 kB | Prove that a security fix is real, not just claimed: catches suppression launde… |
-| 2026-11-08 15:54:52 | [aqaf](https://pypi.org/project/aqaf/) | 1.1.0 | AQAF contributors | 275.9 kB | Local-first heuristic architecture assessment for AI-assisted software builders |
-| 2026-11-08 16:01:22 | [py-arguments](https://pypi.org/project/py-arguments/) | 1.0.2 |  | 14.6 kB | Build CLIs with reusable argparse parser classes. |
-| 2026-11-08 16:02:23 | [tried](https://pypi.org/project/tried/) | 0.1.0 | Alisher Muhammadaliyev <viltr… | 22.1 kB | A log of what was already attempted in this repo, and why it didn't work. |
-| 2026-11-08 16:06:46 | [tethered-trust](https://pypi.org/project/tethered-trust/) | 0.1.0 | Chimes In LLC <support@chimes… | 31.8 kB | Fit, compatibility and recall checks for AI agents before they buy. Client and… |
-| 2026-11-08 16:06:52 | [cli-skills](https://pypi.org/project/cli-skills/) | 0.8.0 | Francesco Rolando | 160.3 kB | Agent skills and prompts. |
-| 2026-11-08 16:07:57 | [leblob](https://pypi.org/project/leblob/) | 0.4.0.dev1 | Stefane Fermigier | 204.0 kB | An S3-compatible object store |
-| 2026-11-08 16:08:27 | [sqlite-tokenizer-ar](https://pypi.org/project/sqlite-tokenizer-ar/) | 0.1.15 |  | 609.7 kB | Arabic FTS5 tokenizer and search helpers for SQLite |
-| 2026-11-08 16:10:44 | [lakeloom](https://pypi.org/project/lakeloom/) | 0.0.1 | Elcio Abrahão | 12.5 kB | Agent-first ontologies for your lakehouse: link Delta Lake data products to Ope… |
+| 2026-11-08 16:19:34 | [cassiopee-compressor](https://pypi.org/project/cassiopee-compressor/) | 2026.11 | ONERA | 2.4 MB | Computational Fluid Dynamics pre- and post-processing python modules |
+| 2026-11-08 16:19:36 | [cassiopee-initiator](https://pypi.org/project/cassiopee-initiator/) | 2026.11 | ONERA | 1.2 MB | Computational Fluid Dynamics pre- and post-processing python modules |
+| 2026-11-08 16:19:38 | [cassiopee-intersector](https://pypi.org/project/cassiopee-intersector/) | 2026.11 | ONERA | 4.2 MB | Computational Fluid Dynamics pre- and post-processing python modules |
+| 2026-11-08 16:19:41 | [cassiopee-geom](https://pypi.org/project/cassiopee-geom/) | 2026.11 | ONERA | 2.9 MB | Computational Fluid Dynamics pre- and post-processing python modules |
+| 2026-11-08 16:23:18 | [pylockd](https://pypi.org/project/pylockd/) | 1.0.1 |  | 15.0 MB | lockd is a distributed locking and synchronization daemon; pylockd provides its… |
+| 2026-11-08 16:23:30 | [roselang](https://pypi.org/project/roselang/) | 0.1.2 | Gerontec | 156.7 MB | Rose: an LLM-optimised composition language with built-in knowledge of solved p… |
+| 2026-11-08 16:26:44 | [ed2k-client](https://pypi.org/project/ed2k-client/) | 0.1.0 | Anatol Khmialeuski | 252.9 kB | Python client for the eDonkey2000 (eD2k) and Kad networks: connect, search, dow… |
+| 2026-11-08 16:29:24 | [duckdb-core-ext-iceberg](https://pypi.org/project/duckdb-core-ext-iceberg/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB iceberg extension packaged for pip |
+| 2026-11-08 16:29:25 | [duckdb-core-ext-icu](https://pypi.org/project/duckdb-core-ext-icu/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB icu extension packaged for pip |
+| 2026-11-08 16:29:26 | [duckdb-core-ext-inet](https://pypi.org/project/duckdb-core-ext-inet/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB inet extension packaged for pip |
+| 2026-11-08 16:29:28 | [duckdb-core-ext-jemalloc](https://pypi.org/project/duckdb-core-ext-jemalloc/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB jemalloc extension packaged for pip |
+| 2026-11-08 16:32:01 | [treeton](https://pypi.org/project/treeton/) | 0.0.1 | Eachan Johnson <eachan.johnso… | 48.1 kB | Reproducible tree-based machine learning. |
+| 2026-11-08 16:32:09 | [zerelay](https://pypi.org/project/zerelay/) | 0.1.0 |  | 19.2 kB | Official Python SDK for the Zerelay email and SMS API |
+| 2026-11-08 16:34:27 | [pharness](https://pypi.org/project/pharness/) | 0.0.1 | sarhej | 2.8 kB | A phone-native, local-first AI harness. Name reserved — under active developmen… |
+| 2026-11-08 16:35:28 | [repoguard-tool](https://pypi.org/project/repoguard-tool/) | 0.1.0 | RepoGuard Contributors | 107.2 kB | Analyze. Detect. Improve. Open-Source Repository Health Analyzer |
+| 2026-11-08 16:35:32 | [liveface-mcp](https://pypi.org/project/liveface-mcp/) | 0.1.0 | Liveface | 1.2 MB | Speak as a Liveface avatar from Claude Code, Claude Desktop or Codex |
+| 2026-11-08 16:36:03 | [liftcanary](https://pypi.org/project/liftcanary/) | 0.1.0 | LiftCanary <hello@liftcanary.… | 47.9 kB | LiftCanary for Python: feature flags, A/B tests and AI experiments, decided loc… |
+| 2026-11-08 16:36:56 | [kelmo](https://pypi.org/project/kelmo/) | 0.1.0 | Dzmitry Azaronak | 10.9 MB | Long-term memory for coding agents: a searchable archive, a self-maintained wik… |
+| 2026-11-08 16:39:01 | [finance-copilot](https://pypi.org/project/finance-copilot/) | 0.1.1 |  | 683.9 kB | Local-first personal finance tool: parses bank statement PDFs and auto-categori… |
+| 2026-11-08 16:44:41 | [ferroapi](https://pypi.org/project/ferroapi/) | 0.0.1 | Marcelo Trylesinski <marcelot… | 108.1 MB | A Python web framework for building APIs, with its server and framework written… |
+| 2026-11-08 16:47:15 | [prgate](https://pypi.org/project/prgate/) | 0.1.0 | Abubakar Jutt | 96.1 kB | An experimental, report-only GitHub PR gate that never runs code from the pull… |
+| 2026-11-08 16:47:32 | [dingdongditch](https://pypi.org/project/dingdongditch/) | 0.1.0 | Mamdouh El Zein | 245.0 kB | Port scanner that finds open ports, identifies each service and version, proves… |
+| 2026-11-08 16:48:46 | [machinelearning-mnpkllps](https://pypi.org/project/machinelearning-mnpkllps/) | 0.1.3 | Marce Alves da Silva <al.marc… | 63.8 kB | Biblioteca para Machine Learning, métodos supervisionados e não supervisionados |
+| 2026-11-08 16:53:39 | [bytesy](https://pypi.org/project/bytesy/) | 0.1.0 | Madhusmitha | 5.9 kB | Turn byte counts into human-readable strings, like 1536000 -> '1.54 MB'. |
+| 2026-11-08 16:57:06 | [trpc-mcp](https://pypi.org/project/trpc-mcp/) | 1.0.0 | tRPC Group | 164.1 kB | TRPC MCP implementation |
+| 2026-11-08 16:58:12 | [masoon](https://pypi.org/project/masoon/) | 0.1.0 | alimunfed17 | 23.1 kB | Framework-agnostic authentication and authorization for Python. |
+| 2026-11-08 16:59:03 | [netbox-stratagram](https://pypi.org/project/netbox-stratagram/) | 1.0.2 | Shin Sterneck | 1.1 MB | NetBox plugin: network diagrams of sites, drawn and edited in NetBox with Strat… |
+| 2026-11-08 17:00:06 | [trpc-mcp-python](https://pypi.org/project/trpc-mcp-python/) | 1.0.0 | tRPC Group | 164.3 kB | TRPC MCP implementation |
+| 2026-11-08 17:01:01 | [fancy-twilio](https://pypi.org/project/fancy-twilio/) | 0.1.0 | Particle Academy | 43.0 kB | Twilio for Python — the service descriptor, its faker, its webhook verification… |
+| 2026-11-08 17:01:09 | [priorfolio](https://pypi.org/project/priorfolio/) | 0.1.0a2 | Jesse Anderson | 192.4 kB | Prepare IP disclosures and preserve the evidence behind them. |
+| 2026-11-08 17:02:08 | [memora-package](https://pypi.org/project/memora-package/) | 0.1.0 | Memora Authors | 57.6 kB | A memory-aware training optimization framework for PyTorch across any OS & hard… |
+| 2026-11-08 17:05:46 | [trpc-a2a-python](https://pypi.org/project/trpc-a2a-python/) | 1.0.0 | tRPC Group | 121.6 kB | TRPC Microservice Control Protocol implementation |
+| 2026-11-08 17:07:27 | [dreamteam-password-roaster](https://pypi.org/project/dreamteam-password-roaster/) | 0.1.0 |  | 48.3 kB |  |
+| 2026-11-08 17:08:13 | [SolidSolversPy](https://pypi.org/project/SolidSolversPy/) | 0.1.0 | Maksim | 13.2 kB | Extrapolations-Integrator (LIMEX) für ODE- und DAE-Systeme mit automatischer Sy… |
+| 2026-11-08 17:08:55 | [planx-3d-city](https://pypi.org/project/planx-3d-city/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 3.0 MB | Turn GeoJSON, GeoDataFrames and DEMs into an interactive Three.js 3D city viewe… |
+| 2026-11-08 17:09:02 | [zero2geospatial3d-sdk](https://pypi.org/project/zero2geospatial3d-sdk/) | 0.1.0 | Yusuf Eminoğlu <yusufeminoglu… | 2.3 MB | Headless 3D urban and terrain analysis in Python: sun hours, shadows, sky view… |
+| 2026-11-08 17:10:56 | [mag-opt-detective](https://pypi.org/project/mag-opt-detective/) | 1.0.0 | Jan Wyzula <wyzula.jan@gmail.… | 5.0 MB | Plot, pick, fit and export magneto-optical FTIR field sweeps (OPUS and OPUS-mac… |
+| 2026-11-08 17:11:06 | [openfilmkit](https://pypi.org/project/openfilmkit/) | 0.0.1 | Aidan Siegel <openfilmkit@aid… | 29.6 kB | Free film scanning and negative conversion from the command line (placeholder;… |
+| 2026-11-08 17:11:22 | [verify-outcomes](https://pypi.org/project/verify-outcomes/) | 0.4.1 |  | 56.3 kB | Independent readback verification for AI agents and automations. Unknown fails… |
+| 2026-11-08 17:11:37 | [trpc-fastapi-python](https://pypi.org/project/trpc-fastapi-python/) | 1.0.0 | tRPC Group | 78.8 kB | The plugin for trpc about fastapi |
+| 2026-11-08 17:17:50 | [yam-tui](https://pypi.org/project/yam-tui/) | 0.1.0 | René Fritze <coding@fritze.me> | 11.8 kB | Minimal TUI for controlling a Yamaha RX-V475 AV receiver |

@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T16:19:34Z,cassiopee-compressor,2026.11,ONERA,LGPLv3,2362190,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-08T16:19:36Z,cassiopee-initiator,2026.11,ONERA,LGPLv3,1165723,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-08T16:19:38Z,cassiopee-intersector,2026.11,ONERA,LGPLv3,4177089,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-08T16:19:41Z,cassiopee-geom,2026.11,ONERA,LGPLv3,2927982,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-08T16:23:18Z,pylockd,1.0.1,,MIT,15047870,lockd is a distributed locking and synchronization daemon; pylockd provides its Python bindings.
+2026-11-08T16:23:30Z,roselang,0.1.2,Gerontec,MIT,156686004,"Rose: an LLM-optimised composition language with built-in knowledge of solved problems (laws, constants, open problems, bio ontology), unit-checked, compiling to Python; also usable as the Python mod…"
+2026-11-08T16:26:44Z,ed2k-client,0.1.0,Anatol Khmialeuski,GPL-3.0-or-later,252922,"Python client for the eDonkey2000 (eD2k) and Kad networks: connect, search, download and share."
+2026-11-08T16:29:24Z,duckdb-core-ext-iceberg,0.0.0,DuckDB,,1098,Reserved name for the DuckDB iceberg extension packaged for pip
+2026-11-08T16:29:25Z,duckdb-core-ext-icu,0.0.0,DuckDB,,1068,Reserved name for the DuckDB icu extension packaged for pip
+2026-11-08T16:29:26Z,duckdb-core-ext-inet,0.0.0,DuckDB,,1076,Reserved name for the DuckDB inet extension packaged for pip
+2026-11-08T16:29:28Z,duckdb-core-ext-jemalloc,0.0.0,DuckDB,,1105,Reserved name for the DuckDB jemalloc extension packaged for pip
+2026-11-08T16:32:01Z,treeton,0.0.1,Eachan Johnson <eachan.johnson@crick.ac.uk>,"MIT License Copyright (c) [year] [fullname] Permission is hereby granted, free of charge, to any pe…",48145,Reproducible tree-based machine learning.
+2026-11-08T16:32:09Z,zerelay,0.1.0,,MIT,19242,Official Python SDK for the Zerelay email and SMS API
+2026-11-08T16:34:27Z,pharness,0.0.1,sarhej,MIT,2823,"A phone-native, local-first AI harness. Name reserved — under active development."
+2026-11-08T16:35:28Z,repoguard-tool,0.1.0,RepoGuard Contributors,MIT,107243,Analyze. Detect. Improve. Open-Source Repository Health Analyzer
+2026-11-08T16:35:32Z,liveface-mcp,0.1.0,Liveface,Liveface MCP Server Licence Copyright (c) 2026 Liveface (https://liveface.io). All rights reserved.…,1222829,"Speak as a Liveface avatar from Claude Code, Claude Desktop or Codex"
+2026-11-08T16:36:03Z,liftcanary,0.1.0,LiftCanary <hello@liftcanary.com>,MIT,47948,"LiftCanary for Python: feature flags, A/B tests and AI experiments, decided locally."
+2026-11-08T16:36:56Z,kelmo,0.1.0,Dzmitry Azaronak,Apache-2.0,10947117,"Long-term memory for coding agents: a searchable archive, a self-maintained wiki and a startup context"
+2026-11-08T16:39:01Z,finance-copilot,0.1.1,,MIT,683942,"Local-first personal finance tool: parses bank statement PDFs and auto-categorizes transactions with rules, RAG, and a local LLM."
+2026-11-08T16:44:41Z,ferroapi,0.0.1,Marcelo Trylesinski <marcelotryle@gmail.com>,MIT,108079733,"A Python web framework for building APIs, with its server and framework written in Rust."
+2026-11-08T16:47:15Z,prgate,0.1.0,Abubakar Jutt,MIT,96126,"An experimental, report-only GitHub PR gate that never runs code from the pull request."
+2026-11-08T16:47:32Z,dingdongditch,0.1.0,Mamdouh El Zein,MIT,245026,"Port scanner that finds open ports, identifies each service and version, proves common misconfigurations, and ranks the CVEs it finds with a model trained on real attacks."
+2026-11-08T16:48:46Z,machinelearning-mnpkllps,0.1.3,"Marce Alves da Silva <al.marce.silva@impatech.edu.br>, Pedro Paulo Gomes Paiva <al.pedro.gomes@impa…",,63803,"Biblioteca para Machine Learning, métodos supervisionados e não supervisionados"
+2026-11-08T16:53:39Z,bytesy,0.1.0,Madhusmitha,MIT,5860,"Turn byte counts into human-readable strings, like 1536000 -> '1.54 MB'."
+2026-11-08T16:57:06Z,trpc-mcp,1.0.0,tRPC Group,Apache-2.0,164141,TRPC MCP implementation
+2026-11-08T16:58:12Z,masoon,0.1.0,alimunfed17,Apache-2.0,23130,Framework-agnostic authentication and authorization for Python.
+2026-11-08T16:59:03Z,netbox-stratagram,1.0.2,Shin Sterneck,Apache-2.0,1119798,"NetBox plugin: network diagrams of sites, drawn and edited in NetBox with Stratagram"
+2026-11-08T17:00:06Z,trpc-mcp-python,1.0.0,tRPC Group,Apache-2.0,164264,TRPC MCP implementation
+2026-11-08T17:01:01Z,fancy-twilio,0.1.0,Particle Academy,MIT,42991,"Twilio for Python — the service descriptor, its faker, its webhook verification, and one function per operation. Plain HTTP; no vendor SDK."
+2026-11-08T17:01:09Z,priorfolio,0.1.0a2,Jesse Anderson,GPL-3.0-only,192352,Prepare IP disclosures and preserve the evidence behind them.
+2026-11-08T17:02:08Z,memora-package,0.1.0,Memora Authors,Apache-2.0,57576,A memory-aware training optimization framework for PyTorch across any OS & hardware.
+2026-11-08T17:05:46Z,trpc-a2a-python,1.0.0,tRPC Group,Apache-2.0,121552,TRPC Microservice Control Protocol implementation
+2026-11-08T17:07:27Z,dreamteam-password-roaster,0.1.0,,,48304,
+2026-11-08T17:08:13Z,SolidSolversPy,0.1.0,Maksim,### `LICENSE` ```text MIT License Copyright (c) 2026 Maksim Djordjevic and Dr. Claudius Stockinger…,13169,Extrapolations-Integrator (LIMEX) für ODE- und DAE-Systeme mit automatischer SymPy-Systemgenerierung.
+2026-11-08T17:08:55Z,planx-3d-city,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,3015802,"Turn GeoJSON, GeoDataFrames and DEMs into an interactive Three.js 3D city viewer: headless scene export, portable HTML packages, OpenStreetMap import and a local preview server."
+2026-11-08T17:09:02Z,zero2geospatial3d-sdk,0.1.0,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,2310388,"Headless 3D urban and terrain analysis in Python: sun hours, shadows, sky view factor, solar PV, UTCI/PET comfort, noise, dispersion, flooding and cut/fill."
+2026-11-08T17:10:56Z,mag-opt-detective,1.0.0,Jan Wyzula <wyzula.jan@gmail.com>,GPL-3.0-only,5018089,"Plot, pick, fit and export magneto-optical FTIR field sweeps (OPUS and OPUS-macro text files)."
+2026-11-08T17:11:06Z,openfilmkit,0.0.1,Aidan Siegel <openfilmkit@aidansiegel.com>,GPL-3.0-or-later,29568,Free film scanning and negative conversion from the command line (placeholder; early development)
+2026-11-08T17:11:22Z,verify-outcomes,0.4.1,,MIT,56320,Independent readback verification for AI agents and automations. Unknown fails closed.
+2026-11-08T17:11:37Z,trpc-fastapi-python,1.0.0,tRPC Group,Apache-2.0,78808,The plugin for trpc about fastapi
+2026-11-08T17:17:50Z,yam-tui,0.1.0,René Fritze <coding@fritze.me>,MIT,11806,Minimal TUI for controlling a Yamaha RX-V475 AV receiver
