@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T18:23:50Z,canpii,0.1.0,Arthur Jin <arthurjin1998@gmail.com>,Apache-2.0,107502,"Canadian PII recognizers (health numbers, passport, BN, bank, driver's licences) for Microsoft Presidio, with English/French context, LiteLLM/MCP-gateway exports and PIPEDA/PHIPA/Law 25 presets."
+2026-11-08T18:23:56Z,whitemagic-crystal,0.1.0,WhiteMagic Labs <contact@whitemagic.dev>,MIT,42326,Sovereign client-side encrypted memory crystals for AI agents.
+2026-11-08T18:24:03Z,quiver-tools,0.1.1,,Apache-2.0,1496740,"Set-at-a-time Unix file tools on io_uring, Polars, and Arrow; nock self-indexing archives"
+2026-11-08T18:25:02Z,minimindslab-csv-headers-align,0.1.0,MiniMindsLab,MIT,7370,"Normalize CSV header order to match a target header list, reordering present columns and optionally identifying missing or extra columns."
+2026-11-08T18:25:35Z,estran-mcp,0.1.0,,,9273,"Connect Claude, Cursor or Codex to your Estran GEO analyses"
+2026-11-08T18:29:35Z,ro-climate,0.1.0,Strainu <wiki@strainu.ro>,MIT,102069,Romanian daily gridded climate data from ANM
+2026-11-08T18:30:18Z,django-spec-tasks,0.1.0,Artur Veres <artur8118@gmail.com>,MIT,250461,"Run a django-service-specs spec as a background task: a durable run record, and a worker that re-checks through dispatch."
+2026-11-08T18:30:28Z,Actu8HubClient,1.1.0,Filip Petersson,MIT,32476,Python client library for the Actu8Hub IoT platform
+2026-11-08T18:32:02Z,parseyaml,1.2.0,optima1236,MIT,13234,"A small, convenient wrapper around PyYAML"
+2026-11-08T18:36:04Z,minimindslab-csv-normalize,0.1.0,MiniMindsLab,MIT,9679,"Normalize small CSV text into stable, comparison-friendly output with controllable header ordering, trimming, and line endings."
+2026-11-08T18:36:50Z,knowlin,0.38.31,,Apache-2.0,11161449,"Knowlin – ein Kopf, viele Körper: Microduck, Reachy Mini und Open Duck Mini am PC simulieren, mit Claude und Sprache steuern und auf den echten Roboter umschalten."
+2026-11-08T18:37:15Z,minimindslab-csv-sniff,0.1.0,MiniMindsLab,MIT,7611,"Infer a CSV dialect from a short text sample and normalize it into a structured, testable description (delimiter, quote character, escape character, line terminator style, and header-likelihood)."
+2026-11-08T18:43:28Z,python-dataset-forge,0.3.0,Benedict Wohlgemuth,MIT,972488,Template-based generator for synthetic conversational and tool-calling datasets.
+2026-11-08T18:44:10Z,vikshep-compute,0.1.0,Samvardhan Singh,AGPL-3.0-or-later,9907198,"Deterministic compute core of Vikshep: wavelet scattering, statistics, training, anomaly search"
+2026-11-08T18:45:28Z,datacurrent,1.0.0,DataCurrent contributors,MIT,108948,"Python streaming, made simple: async streams, operators, backpressure and real-time transports."
+2026-11-08T18:47:03Z,agentpace,0.9.2,Zhioua Mohamed,MIT,987195,"Stop estimating agent work in human weeks. agentpace measures how long coding agents actually take: P50/P80/P90 ranges from real Claude Code and Codex runs, the human part stated apart, never derived…"
+2026-11-08T18:48:40Z,curtools,1.1.0,,,7099,simple cursor & terminal utilities
+2026-11-08T18:50:19Z,django-db-tenants,0.3.0,Giovanni Bronzini <g.bronzini@gmail.com>,PolyForm-Noncommercial-1.0.0,58425,Database-per-client multi-tenancy for Django with runtime database registration.
+2026-11-08T18:51:21Z,otca,0.1.0,,MIT,14945,"OTCA: O-Time Complexity Analyser - time, memory and Big-O analysis for competitive-programming solutions."
+2026-11-08T18:51:38Z,bitti,0.1.0,,MIT,23786883,"Plain-text web tests that run on real Chrome through navigera: one native binary, no Node."
+2026-11-08T18:51:48Z,pyheliofits,0.1.0,"""C. R. Gilly"" <gilly@nwra.com>",MPL-2.0,395207,"Python side of the HelioFITS Suite: the hfcore solar-data library, a client for HelioFITS Studio, and an MCP server over both (Studio and Peek are separate downloads)"
+2026-11-08T18:51:54Z,annotheca,0.1.0,Melissa Colin,MIT,2455644,"A local, bilingual reference manager for research projects: BibTeX, PDFs, highlights and sticky notes."
+2026-11-08T18:53:16Z,research-mcp,0.1.0,research-mcp contributors,MIT,888024,MCP server for editing Microsoft Word documents safely and citing from Zotero (Windows)
+2026-11-08T18:58:32Z,lavi,0.1.0,Lavi Contributors,MIT,5003914,"Fast, portable XState 5 statechart engine for Python"
+2026-11-08T18:59:05Z,spikebias,0.1.0,Steeve Laquitaine <laquitainesteeve@gmail.com>,GPL-3.0-only,1816297,"Spike sorting biases of dense extracellular recordings (e.g. Neuropixels), measured against a detailed biophysical model of the cortex"
+2026-11-08T19:00:41Z,telegram-stars-tracker,0.0.2,,MIT,41483,"A Python application for tracking Telegram Stars earnings, withdrawals, and payment maturity."
+2026-11-08T19:00:52Z,pine2pyne,0.2.5,rubycell,Apache-2.0,490135,Pine Script v6 to PyneCore Python transpiler
+2026-11-08T19:01:54Z,micronav,0.1.0,Daanish Sharma,MIT,65028,"Sensor fusion and navigation from scratch: IMU, compass, GPS, Kalman filters and map matching in plain numpy."
+2026-11-08T19:03:57Z,vikshep-ingest,0.4.0,Samvardhan Singh,AGPL-3.0-or-later,86276,"Vikshep Geant4 Direct Interface: Geant4 CSV to deterministic scattering features, calibration and DisCo-decorrelated tagging"
+2026-11-08T19:04:32Z,systemd-compose,0.1.2,,Apache-2.0,3484889,"Run a project's services as systemd user units, with docker compose's verbs."
+2026-11-08T19:04:52Z,kicad-workbench,0.1.0,"Turbyho, Seeed Studio",MIT,950468,"MCP server that lets an AI agent work with KiCad 8, 9 and 10 projects: schematics, boards, libraries, ERC and DRC, BOM and edits"
+2026-11-08T19:08:08Z,statusdoc,0.1.0,Andrea Acanfora,MIT,49671,"Open Status Document: a spec and tools to discover, read and validate service status pages"
+2026-11-08T19:08:16Z,awghr,0.1.1,Karl Wette <karl.wette@anu.edu.au>,MIT,108282,A(nother) Workflow Generator for High-throughput computeRing
+2026-11-08T19:11:20Z,traderoutes,0.0.3,Mario Milone <milonemario@gmail.com>,MIT,28302839,Compute weighted international trade routes on a worldwide network.
+2026-11-08T19:13:45Z,waidrop-cli,1.0.0,Tomasz Habiger <tomasz.habiger@gmail.com>,Apache-2.0,214959,Query encrypted WAiDrop archives in Dropbox by name/number and time window
+2026-11-08T19:15:56Z,memga,1.1.0,Henrique Rego Monteiro da Hora,MIT,63886,"Multiple Choice Method (MEM): select a set of alternatives that complement each other, by exhaustive search or a genetic algorithm"
