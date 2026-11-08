@@ -8,42 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 09:18 UTC
+## Latest list — 2026-11-08 10:19 UTC
 
-New packages created between 2026-11-08 08:20 UTC and 2026-11-08 09:18 UTC.
+New packages created between 2026-11-08 09:18 UTC and 2026-11-08 10:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-08T09-18-50-938974Z.csv)
+[Full CSV](data/new-packages-2026-11-08T10-19-13-362901Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-08 08:24:32 | [rapidrecon](https://pypi.org/project/rapidrecon/) | 0.0.1 |  | 2.4 kB | Reserved package name. RapidRecon is under active design/development. |
-| 2026-11-08 08:25:19 | [schedz](https://pypi.org/project/schedz/) | 0.1.0 | m09 | 31.9 kB | Read training sessions from a Google Calendar. |
-| 2026-11-08 08:26:39 | [python-sbom](https://pypi.org/project/python-sbom/) | 0.1.1 | Bernát Gábor <gaborjbernat@gm… | 441.3 kB | SBOMs for Python distributions: write PEP 770 CycloneDX SBOMs into wheels. |
-| 2026-11-08 08:27:59 | [vietnamese-writing-intelligence](https://pypi.org/project/vietnamese-writing-intelligence/) | 0.2.1 | Van-Truong Dang <vantruong-da… | 142.3 kB | An agentic framework for native Vietnamese writing, voice profiling, and fact-p… |
-| 2026-11-08 08:28:24 | [zimlore](https://pypi.org/project/zimlore/) | 0.1.0 | Justin Capella <justincapella… | 280.0 kB | A Kiwix library (ZIM files) served to AI agents over MCP: offline, citable, tok… |
-| 2026-11-08 08:29:27 | [swarmauri_tool_runpackagechecks](https://pypi.org/project/swarmauri_tool_runpackagechecks/) | 0.1.0 | Jacob Stewart | 15.1 kB | Run the SDK Ruff and pytest checks for a configured member. |
-| 2026-11-08 08:31:25 | [sophon-realtime](https://pypi.org/project/sophon-realtime/) | 1.0.0 | Adventists AI | 4.0 MB | Sophon-Realtime v1: open full-duplex voice model that hears your tone and speak… |
-| 2026-11-08 08:31:26 | [swarmauri_agent_runner](https://pypi.org/project/swarmauri_agent_runner/) | 0.1.0 | Jacob Stewart | 21.7 kB | Run model tool calls and resume checkpointed human interactions. |
-| 2026-11-08 08:33:28 | [langchain-modular-beta](https://pypi.org/project/langchain-modular-beta/) | 0.0.1 | code-beta | 11.0 kB | 基于 LangChain 的模块化 RAG 检索组件（Beta） |
-| 2026-11-08 08:33:34 | [swarmauri_agent_package_maintenance](https://pypi.org/project/swarmauri_agent_package_maintenance/) | 0.1.0 | Jacob Stewart | 16.5 kB | Compose human input, skills, and container checks for SDK maintenance. |
-| 2026-11-08 08:33:53 | [deepseek-bot](https://pypi.org/project/deepseek-bot/) | 0.2.0 |  | 391.9 kB | DeepSeek Bot: self-evolving AI agent runtime — RSI under tiered authority, reve… |
-| 2026-11-08 08:40:54 | [amplens](https://pypi.org/project/amplens/) | 0.1.0 | Yifan Fei, Zhen Liu | 7.3 kB | AmpLens: tools for revealing physical structure in scattering amplitudes |
-| 2026-11-08 08:43:21 | [PTG-requests](https://pypi.org/project/PTG-requests/) | 1.0.0 | Paras tech industries | 11.6 kB | A customized requests client for AI prompt delivery, cloud storage batch synchr… |
-| 2026-11-08 08:45:07 | [geneweb-py](https://pypi.org/project/geneweb-py/) | 0.1.0 | Guillaume Cayeux <guillaume.c… | 1.0 MB | Librairie Python complète pour parser, manipuler et convertir les fichiers géné… |
-| 2026-11-08 08:45:30 | [agentknock](https://pypi.org/project/agentknock/) | 0.1.0 | Ibusa-T | 116.8 kB | Attach to an already-running, unmodifiable Windows console AI agent and knock i… |
-| 2026-11-08 08:48:29 | [blender-headless](https://pypi.org/project/blender-headless/) | 9.99.9 |  | 2.6 kB |  |
-| 2026-11-08 08:54:15 | [argus-recovery](https://pypi.org/project/argus-recovery/) | 0.2.0b1 | Argus Contributors | 658.0 kB | Bounded, test-gated Python code recovery and resilient patch runtime. |
-| 2026-11-08 08:57:08 | [cosens-sdk](https://pypi.org/project/cosens-sdk/) | 0.5.0 |  | 113.1 kB | CoSens Python SDK: record OpenAI and OpenAI Agents executions and generate reus… |
-| 2026-11-08 08:58:16 | [gemmarouter](https://pypi.org/project/gemmarouter/) | 0.1.0 | Ajeet Kumar Upadhyay | 75.3 kB | Set-Equivariant Decision & Tool Router with Calibrated Abstention on EmbeddingG… |
-| 2026-11-08 08:58:34 | [rofd-convert](https://pypi.org/project/rofd-convert/) | 0.1.0 |  | 11.5 MB | Headless OFD to PDF conversion (PyO3 bindings over the rofd kernel) |
-| 2026-11-08 08:59:03 | [rainbowcolors](https://pypi.org/project/rainbowcolors/) | 0.1.0 | JonhMacBebe | 8.0 kB | Colors by JonhMacBebe |
-| 2026-11-08 09:05:01 | [pureapk](https://pypi.org/project/pureapk/) | 0.1.1 | eminsk <M_N_N@tut.by> | 235.7 kB | High-performance pure Python APK inspection, multi-store packager, and framewor… |
-| 2026-11-08 09:06:50 | [pagination-claim-audit](https://pypi.org/project/pagination-claim-audit/) | 0.1.0 |  | 24.0 kB | Offline audit of documented pagination claims against Python source. |
-| 2026-11-08 09:06:58 | [lumora-bot](https://pypi.org/project/lumora-bot/) | 1.1.0 | Lumora | 55.3 kB | Lumora Bot SDK for Python: build bots for the Lumora messaging app (commands, b… |
-| 2026-11-08 09:06:58 | [recursion-claim-audit](https://pypi.org/project/recursion-claim-audit/) | 0.1.0 |  | 23.4 kB | Audit documented directory traversal depth against Python source. |
-| 2026-11-08 09:07:07 | [interactive-claim-audit](https://pypi.org/project/interactive-claim-audit/) | 0.1.0 |  | 24.1 kB | Offline static audit of documented interactivity claims. |
-| 2026-11-08 09:07:16 | [thread-safety-claim-audit](https://pypi.org/project/thread-safety-claim-audit/) | 0.1.0 |  | 23.0 kB | Offline audit of documented thread-safety claims against Python source. |
-| 2026-11-08 09:07:37 | [chromacli](https://pypi.org/project/chromacli/) | 0.1.1 | JonhMacBebe | 8.0 kB | Colors by JonhMacBebe |
-| 2026-11-08 09:09:29 | [pocklo](https://pypi.org/project/pocklo/) | 0.2.0 |  | 31.9 kB | Command-line client for the Pocklo file workspace |
-| 2026-11-08 09:15:58 | [m2mcent-huggingface-x402](https://pypi.org/project/m2mcent-huggingface-x402/) | 1.0.3 | M2MCent <hello@m2mcent.com> | 7.4 kB | Official M2MCent x402 V2 Tool for Hugging Face Agents / Smolagents (EIP-3009 Ga… |
-| 2026-11-08 09:16:18 | [m2mcent-sdk](https://pypi.org/project/m2mcent-sdk/) | 1.0.3 | M2MCent Protocol | 10.5 kB | Official Python SDK & LangChain Toolkit for M2MCent x402 V2 Protocol on Base Ma… |
+| 2026-11-08 09:19:28 | [pyordering](https://pypi.org/project/pyordering/) | 0.1.2 | aaltatan | 31.3 kB | Sort orders as composable values: stars(descending=True) >> price(), definable… |
+| 2026-11-08 09:19:53 | [pyprojection](https://pypi.org/project/pyprojection/) | 0.1.2 | aaltatan | 28.4 kB | Output shapes as values: which fields, under which names, computed how; definab… |
+| 2026-11-08 09:20:14 | [tigrcorn-quic-cc](https://pypi.org/project/tigrcorn-quic-cc/) | 0.3.18.dev3 | Jacob Stewart <jacob@swarmaur… | 30.9 kB | Versioned congestion-controller contracts and provider discovery for Tigrcorn Q… |
+| 2026-11-08 09:20:15 | [tigrcorn-quic-cc-reno](https://pypi.org/project/tigrcorn-quic-cc-reno/) | 0.3.18.dev3 | Jacob Stewart <jacob@swarmaur… | 27.5 kB | Default Reno congestion-controller provider for Tigrcorn QUIC transports. |
+| 2026-11-08 09:26:00 | [build123d-techdraw](https://pypi.org/project/build123d-techdraw/) | 0.1.0 | szubster | 533.1 kB | Modern, high-performance 2D technical drawing and blueprint engine for build123… |
+| 2026-11-08 09:28:03 | [xmlriver-mcp-toolkit](https://pypi.org/project/xmlriver-mcp-toolkit/) | 0.1.1 | Mikhail Bulgakov | 151.9 kB | Independent XMLRiver MCP server, async client and SEO collection CLI |
+| 2026-11-08 09:34:23 | [tkwebui](https://pypi.org/project/tkwebui/) | 0.3.2 | bvb6417 and TkWebUI contribut… | 1.2 MB | Modern Web-style themes and widgets for tkinter and ttk |
+| 2026-11-08 09:34:25 | [tkwin11](https://pypi.org/project/tkwin11/) | 0.2.3 | bvb6417 and TkWin11 contribut… | 927.0 kB | Windows 11 Fluent-style themes and widgets for tkinter and ttk |
+| 2026-11-08 09:36:20 | [lastshoot](https://pypi.org/project/lastshoot/) | 0.1.0 | LastShoot | 61.0 kB | Official Python client for the LastShoot AI product-photography API |
+| 2026-11-08 09:42:47 | [fzp](https://pypi.org/project/fzp/) | 0.2.0 | r1cardohj | 29.5 kB | A minimal fzf clone in Python: custom fuzzy scoring + prompt_toolkit interactiv… |
+| 2026-11-08 09:54:11 | [safedatatransfer](https://pypi.org/project/safedatatransfer/) | 0.1.1 |  | 155.9 kB | Encrypted USB evacuation (copy, verify, wipe) and an AirDrop-style secure file… |
+| 2026-11-08 09:54:24 | [sandala](https://pypi.org/project/sandala/) | 0.1.0 |  | 1.0 MB | Headless CMS for structured data, built on MongoDB with an admin UI |
+| 2026-11-08 09:58:40 | [fast-mode-kit](https://pypi.org/project/fast-mode-kit/) | 0.2.0 |  | 68.9 kB | Starter kit for adding a fast, data-only answer mode to any chat agent |
+| 2026-11-08 10:00:23 | [retake-vo](https://pypi.org/project/retake-vo/) | 0.1.1 | Miragea team | 46.6 kB | Fix a flubbed voiceover line in your own voice: re-voice one sentence and splic… |
+| 2026-11-08 10:01:21 | [autonomo](https://pypi.org/project/autonomo/) | 0.1.0 | Autonomo | 29.1 kB | One call for AI agents: find the right paid API on Autonomo, pay in USDG or $AU… |
+| 2026-11-08 10:02:14 | [denpex-mlflow](https://pypi.org/project/denpex-mlflow/) | 0.1.0 | Denpex | 22.3 kB | Attach Denpex GPU and training-failure diagnoses to your MLflow runs in one lin… |
+| 2026-11-08 10:04:53 | [mimshpora](https://pypi.org/project/mimshpora/) | 1.0.0 |  | 2.1 MB | Ответы на контрольные задания по математическому и имитационному моделированию… |
+| 2026-11-08 10:07:19 | [station-appkit](https://pypi.org/project/station-appkit/) | 1.0.0 | Raby Whyte <rabywhyte@gmail.c… | 50.1 kB | Update check, self-updater and app window shared by Station Studio, Station Pla… |
+| 2026-11-08 10:09:55 | [sxsc-tushare](https://pypi.org/project/sxsc-tushare/) | 1.2.12 |  | 11.9 kB | data api service |
+| 2026-11-08 10:13:05 | [django-policy-tree](https://pypi.org/project/django-policy-tree/) | 0.1.0 | Gerardo Ballester Jr. | 120.1 kB | Domain-agnostic, tree-based permissions for Django and DRF, with policies super… |
+| 2026-11-08 10:16:41 | [supercolor-tui](https://pypi.org/project/supercolor-tui/) | 0.1.0 | JonhMacBebe | 8.7 kB | Colors by JonhMacBebe |
+| 2026-11-08 10:17:20 | [duyi-utils-fkg](https://pypi.org/project/duyi-utils-fkg/) | 0.1.3 |  | 3.2 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
+| 2026-11-08 10:18:14 | [horse-race-mcp](https://pypi.org/project/horse-race-mcp/) | 0.1.0 | yukito5669 | 34.9 kB | MCP server exposing the horse-race Turso DB and the V3 odds-pattern recommender… |

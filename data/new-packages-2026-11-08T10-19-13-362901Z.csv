@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T09:19:28Z,pyordering,0.1.2,aaltatan,GPL-3.0-only,31311,"Sort orders as composable values: stars(descending=True) >> price(), definable as JSON."
+2026-11-08T09:19:53Z,pyprojection,0.1.2,aaltatan,GPL-3.0-only,28361,"Output shapes as values: which fields, under which names, computed how; definable as JSON."
+2026-11-08T09:20:14Z,tigrcorn-quic-cc,0.3.18.dev3,Jacob Stewart <jacob@swarmauri.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",30924,Versioned congestion-controller contracts and provider discovery for Tigrcorn QUIC transports.
+2026-11-08T09:20:15Z,tigrcorn-quic-cc-reno,0.3.18.dev3,Jacob Stewart <jacob@swarmauri.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",27478,Default Reno congestion-controller provider for Tigrcorn QUIC transports.
+2026-11-08T09:26:00Z,build123d-techdraw,0.1.0,szubster,Apache-2.0,533094,"Modern, high-performance 2D technical drawing and blueprint engine for build123d and Python CAD"
+2026-11-08T09:28:03Z,xmlriver-mcp-toolkit,0.1.1,Mikhail Bulgakov,MIT,151864,"Independent XMLRiver MCP server, async client and SEO collection CLI"
+2026-11-08T09:34:23Z,tkwebui,0.3.2,bvb6417 and TkWebUI contributors,MIT,1237554,Modern Web-style themes and widgets for tkinter and ttk
+2026-11-08T09:34:25Z,tkwin11,0.2.3,bvb6417 and TkWin11 contributors,MIT,926983,Windows 11 Fluent-style themes and widgets for tkinter and ttk
+2026-11-08T09:36:20Z,lastshoot,0.1.0,LastShoot,MIT,60977,Official Python client for the LastShoot AI product-photography API
+2026-11-08T09:42:47Z,fzp,0.2.0,r1cardohj,MIT,29541,A minimal fzf clone in Python: custom fuzzy scoring + prompt_toolkit interactive UI
+2026-11-08T09:54:11Z,safedatatransfer,0.1.1,,MIT,155903,"Encrypted USB evacuation (copy, verify, wipe) and an AirDrop-style secure file drop for Windows."
+2026-11-08T09:54:24Z,sandala,0.1.0,,MIT,1049789,"Headless CMS for structured data, built on MongoDB with an admin UI"
+2026-11-08T09:58:40Z,fast-mode-kit,0.2.0,,MIT,68868,"Starter kit for adding a fast, data-only answer mode to any chat agent"
+2026-11-08T10:00:23Z,retake-vo,0.1.1,Miragea team,MIT,46640,"Fix a flubbed voiceover line in your own voice: re-voice one sentence and splice it in with matched loudness, EQ and room tone. Open-source Overdub alternative (CLI + MCP), powered by Miragea."
+2026-11-08T10:01:21Z,autonomo,0.1.0,Autonomo,MIT,29089,"One call for AI agents: find the right paid API on Autonomo, pay in USDG or $AUTONOMO (privately through Gloam, or on Borro credit), within spending caps, and get a receipt."
+2026-11-08T10:02:14Z,denpex-mlflow,0.1.0,Denpex,MIT,22258,Attach Denpex GPU and training-failure diagnoses to your MLflow runs in one line.
+2026-11-08T10:04:53Z,mimshpora,1.0.0,,,2122182,Ответы на контрольные задания по математическому и имитационному моделированию (модуль 1)
+2026-11-08T10:07:19Z,station-appkit,1.0.0,Raby Whyte <rabywhyte@gmail.com>,"MIT License Copyright (c) 2025-2026 Raby Whyte Permission is hereby granted, free of charge, to any…",50115,"Update check, self-updater and app window shared by Station Studio, Station Player and Station Server"
+2026-11-08T10:09:55Z,sxsc-tushare,1.2.12,,BSD-3-Clause,11922,data api service
+2026-11-08T10:13:05Z,django-policy-tree,0.1.0,Gerardo Ballester Jr.,MIT,120101,"Domain-agnostic, tree-based permissions for Django and DRF, with policies superusers edit in the admin."
+2026-11-08T10:16:41Z,supercolor-tui,0.1.0,JonhMacBebe,GNU,8665,Colors by JonhMacBebe
+2026-11-08T10:17:20Z,duyi-utils-fkg,0.1.3,,,3227,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-08T10:18:14Z,horse-race-mcp,0.1.0,yukito5669,MIT,34929,"MCP server exposing the horse-race Turso DB and the V3 odds-pattern recommender to any MCP client (Claude Desktop, ChatGPT Desktop, Cursor, etc.)"
