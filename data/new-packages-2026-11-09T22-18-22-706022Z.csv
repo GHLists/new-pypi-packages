@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T21:14:25Z,aswf-aces-transforms,0.1.0,,Apache-2.0,172004,"ACES transform URN registry — lookup, validation, and version mapping"
+2026-11-09T21:20:18Z,pyfigures-noai,0.2.7,Benoit Aigouy,BSD,2799609,PyFigures will assist you assemble publication ready scientific figures in no time.
+2026-11-09T21:20:24Z,micro-jev,0.3.0,MicroLLM Contributors,Apache-2.0,972877,"Hybrid System-One Local Decision Engine (JevCompat 32/32 MUST, AnyJev L0 Prefill, StartLux Read-or-Think Cascade, OpenJev-RLCD Trainer)"
+2026-11-09T21:21:13Z,x402serps,1.0.0,x402serps <hello@x402serps.com>,MIT,13155,"Client for x402serps, a third-party search provider: web search, news, extraction, research, SEO and lead APIs for AI agents (x402 USDC or a prepaid credit key)."
+2026-11-09T21:21:16Z,langchain-x402serps,1.0.0,x402serps <hello@x402serps.com>,MIT,5892,"LangChain tools for x402serps, a third-party search provider (web search, news, places, extract). Pay with x402 USDC or a prepaid credit key."
+2026-11-09T21:25:05Z,lgbmjit,0.1.0,,MIT,6052334,Compile LightGBM models to machine code with Cranelift for fast predictions that match LightGBM exactly
+2026-11-09T21:26:15Z,cosmic-flatpak-fixer,0.1.1,Serge Matveenko,MIT,19092,Restore COSMIC applet metadata stripped from Flatpak desktop exports by Flatpak 1.18.4+.
+2026-11-09T21:28:15Z,mifblender-mcp,1.3.1,Mifsopo,LicenseRef-MifBlender,5392792,"AI in Blender through MCP: 428 typed tools that check their parameters and read the result back. Free, source available."
+2026-11-09T21:28:32Z,nexa-ui,1.1.0,Parsa Mohammadian,MIT,1303400,"Fast, tiny, zero-dependency immediate-mode desktop UI for Python — a Python port of CUI"
+2026-11-09T21:30:35Z,creapy,0.1.0,Xingyu Long <xingyu.long@univie.ac.at>,MIT,852152,"Eye-tracking visual analytics for art history and empirical aesthetics (CReA Lab, University of Vienna): library + creapy.io desktop app"
+2026-11-09T21:30:39Z,transmilenio-mcp,0.1.1,Pedro Restrepo,MIT,161420,Buses de TransMilenio en vivo para Claude (MCP) y un mapa local. Sin API key: lee los datos abiertos de TransMilenio S.A.
+2026-11-09T21:33:16Z,companyenrich,1.0.1,,MIT,78345,"Official Python SDK for the CompanyEnrich API: company and people enrichment, search, lookalikes, and work emails."
+2026-11-09T21:34:34Z,rwnd,0.1.0,,MIT,6909,A passive time machine for your filesystem.
+2026-11-09T21:37:51Z,traceAI-openrouter,0.1.0,Future AGI,Apache-2.0,11164,OpenTelemetry instrumentation for the dedicated OpenRouter Python SDK
+2026-11-09T21:38:12Z,hdmv-menus,0.1.0,Brady Field,MIT,2331570,"A Blu-ray's HDMV menus read from its files, nothing played: pages, buttons, pictures and commands."
+2026-11-09T21:39:02Z,signal-sqlite,1.0.0,Jonathan Glanz <jonathan.glanz@gmail.com>,AGPL-3.0-only,203202,Extract Signal backups to searchable SQLite; query and browse channels and conversations with a CLI and TUI.
+2026-11-09T21:42:03Z,pygments-sysml,1.0.0,Vince Molnár,MIT,16684,Pygments lexers for the SysML v2 and KerML textual notations
+2026-11-09T21:43:33Z,jobveyra,0.1.2,,MIT,518692,"A queue-driven job-search engine: discovery, evidence-based scoring, tailored applications, approved submission, analytics and a daily digest."
+2026-11-09T21:43:37Z,arbis,0.4.5,,MIT,530087,Runtime workflow observation for agent systems.
+2026-11-09T21:44:00Z,arrr-bay,0.4.0,Phuderoso,CC0-1.0,69779,Short language for arriving AIs. Language separate from bytes.
+2026-11-09T21:45:52Z,rude-clean-code,0.0.0,,,2172,placeholder
+2026-11-09T21:46:58Z,pyshellforge,0.0.0,,,2138,placeholder
+2026-11-09T21:50:04Z,motulator-bearingless,0.1.0,Marko Hinkkanen <marko.hinkkanen@aalto.fi>,MIT,3708268,Six-phase bearingless machine drives for motulator
+2026-11-09T21:53:08Z,affordance,0.0.0,Approximate Labs,Apache-2.0,10074,A browser for models: renders state into the exact tokens a model reads. First release coming soon.
+2026-11-09T21:55:52Z,kanonymity,0.1.0,Juliette Moreau <juliette.moreau@free.fr>,MIT,13715,Measuring and solving k-anonymity handling missing values.
+2026-11-09T21:58:01Z,yabi-torch,0.1.1,YABI contributors,Apache-2.0,357345,"A batched, differentiable ODE solver — YABI's BDF + continuous adjoint, wrapped as a torch-native solve_ivp."
+2026-11-09T21:58:39Z,offrec,0.5.0,offrec <info@offrec.ai>,,184320,"Official Python client for offrec: zero-retention inference for frontier models, with a signed receipt for every call."
+2026-11-09T22:01:40Z,ansible-cleanup,1.0.0,James Cherti,GPL-3.0-or-later,55350,Utilities for detecting unused imports and variables in Ansible projects
+2026-11-09T22:06:49Z,diffbot-mcp,0.2.0,,MIT,89327,A Diffbot MCP server with a variety of helpful web knowledge fetching tools for your agent or LLM pipeline.
+2026-11-09T22:07:43Z,smartypants-network,0.1.0,,MIT,15771,"Smarty Pants for agents: exact open models priced per token, plus sealed Linux workspaces on idle Macs. Standard library only."
+2026-11-09T22:10:01Z,appfl-bio-suite,0.3.0,,"MIT License Copyright (c) 2026 appfl-bio-suite contributors Permission is hereby granted, free of c…",2470956,"Cross-silo federated learning experiments in computational biology, built on APPFL and Globus Compute"
+2026-11-09T22:10:09Z,metric-contracts,0.1.0,Val Ye,Apache-2.0,73842,"One governed metric contract, many consumers: validator CLI, MCP server, chart meaning gate, decomposition check."
+2026-11-09T22:10:55Z,bonya,1.0.0,,MIT,84800,Synchronous Python SDK for Bonya sandboxes
+2026-11-09T22:11:46Z,repelly,0.1.0,Moritz Peist,GPL-3.0-or-later,93728,"Repelling, non-overlapping text labels for Plotly figures, solved in the browser."
+2026-11-09T22:16:45Z,qt-ui-evidence,0.1.0,Belal Alkufri,MIT,79935,"Qt interface evidence: screenshots, geometry and measured before/after comparisons"
+2026-11-09T22:16:51Z,aspose-tex-foss,26.11.1,,MIT,2088502,Pure-Python TeX/LaTeX processing library
