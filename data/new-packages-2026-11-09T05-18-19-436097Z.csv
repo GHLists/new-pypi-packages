@@ -1,0 +1,22 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T04:23:48Z,dx5ii-cli,0.0.1,topkie,MIT,39532,"Control a Topping DX5 II over HID: read state, switch output port and EQ preset"
+2026-11-09T04:25:03Z,pixelcut,1.4.0,,MIT,63672,K&K pixelcut - cut a picture into parts without changing a single pixel
+2026-11-09T04:43:14Z,sendmock-testcontainers,0.1.0b1,,MIT OR Apache-2.0,4598,"Starts SendMock in Docker from a test and gives its SMTP, HTTP and provider addresses."
+2026-11-09T04:43:56Z,lollipop.sh,0.0.1,Kiyaan Pillai,,2183,Lollipop - coming soon
+2026-11-09T04:50:27Z,ollama-token-monitor,0.2.0,Your Name,MIT,16892,Production-ready Ollama token usage monitoring with auto-conversation splitting at configurable thresholds
+2026-11-09T04:53:12Z,odoo-addon-hr-holidays-allocation-domain,18.0.1.0.0.2,"Dixmit,Odoo Community Association (OCA)",AGPL-3,22985,Allow to set a domain on Allocation Generation Wizard
+2026-11-09T04:53:44Z,bettersystray,0.1.0,,MIT,13139,Windows only. Thread-safe system tray icons with animation and dynamic menus.
+2026-11-09T04:57:39Z,fittins,1.0.0,Fittins AI <support@fittins.ai>,MIT,31433,Official Python library for the Fittins AI API: premium AI fashion photos and videos from your product photos.
+2026-11-09T05:00:55Z,shopee-mshop-flageval,0.0.0,sc,BSD License,2472,A small example package
+2026-11-09T05:01:30Z,pacif-framework,3.0.1,PACIF Framework Contributors <for.smirnov.maks@gmail.com>,Apache-2.0,27488,Statistically rigorous framework for human–algorithm predictive alignment. Measures how strongly algorithms shape user behavior — and whether that signal is reliable.
+2026-11-09T05:01:37Z,yolo-mcp,2.0.0,shenguanlin <shenguanlin@pjlab.org.cn>,Apache-2.0,3683403,YOLO MCP local image annotation and YOLO training
+2026-11-09T05:04:50Z,gennova-box,0.1.1a1,GenNova-HUST,LicenseRef-Proprietary,120615,GenNova Box Linux/Ascend local inference deployment preview
+2026-11-09T05:07:15Z,sri-lanka-holidays,1.0.2,Sahan Ranasingha,MIT,13572,"Official Sri Lanka Public, Bank, and Mercantile holidays (including Full Moon Poya days) for 2026, 2027, and extensible JSON support."
+2026-11-09T05:07:28Z,sqlassert-dbt,0.3.1,Fred Israel,MIT,77556,Check a dbt project's tests and sqlassert markers from its compiled manifest.
+2026-11-09T05:11:58Z,cache-autopsy,0.1.0,,MIT,557991,"Find out why your LLM prompt cache missed: offline diff, usage-aware hit rate, missed cost and CI gates for Anthropic and OpenAI request logs."
+2026-11-09T05:12:58Z,plm-physics,0.1.0,ro-rbl,MIT,12768,"plm pack: Physics and mechanical calculations, checked by units and sanity rules"
+2026-11-09T05:12:59Z,plm-software,0.1.0,ro-rbl,MIT,22778,"plm pack: Code tasks, checked by running the examples in a sandbox"
+2026-11-09T05:13:00Z,plm-sql,0.1.0,ro-rbl,MIT,25843,"plm pack: SQLite queries, checked by running them on the schema given with the task"
+2026-11-09T05:13:28Z,flask-admin-autolinks,0.1.1,Mario Hernandez <mariofix@proton.me>,,10596,Implements autolinks for related models in ModelView from Flask-Admin
+2026-11-09T05:13:43Z,kaggle-free-gpu,0.1.0,Eric Maddox <eric.maddox@outlook.com>,MIT,172359,"Give any coding agent free Tesla T4 x2 GPUs via Kaggle's REST API -- MCP server, CLI, and skill."
+2026-11-09T05:16:26Z,speedyindex,0.1.0,SpeedyIndex,MIT,15470,"Python client and CLI for the SpeedyIndex API: Google, Bing and Yandex index checks, link indexing tasks and reports."

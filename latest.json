@@ -1,12 +1,20 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-11-09T03:19:56.727124Z",
-    "path": "data/new-packages-2026-11-09T04-19-04-946907Z.csv",
-    "to": "2026-11-09T04:19:04.946907Z"
+    "count": 21,
+    "from": "2026-11-09T04:19:04.946907Z",
+    "path": "data/new-packages-2026-11-09T05-18-19-436097Z.csv",
+    "to": "2026-11-09T05:18:19.436097Z"
   },
-  "pending": [],
-  "serial": 43387078,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T05:13:50Z",
+      "package": "saikit-learn",
+      "since": "2026-11-09T04:19:04.946907Z",
+      "version": null
+    }
+  ],
+  "serial": 43388244,
   "source_truncated": false,
-  "window": "2026-11-09T04:19:04.946907Z"
+  "window": "2026-11-09T05:18:19.436097Z"
 }
