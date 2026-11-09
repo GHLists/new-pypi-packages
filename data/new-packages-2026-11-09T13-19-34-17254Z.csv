@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T12:19:15Z,plantclusterfinder,2.0.0b0,Mainak Dutta,,82601028,Tool to find biosynthetic gene clusters in plants.
+2026-11-09T12:19:58Z,ganiu-bridge,1.0.0,Ganiu,Proprietary,12463,嘎妞连接桥 — 让手机上的嘎妞 App 通过 HTTP API 遥控这台电脑（自动注册到嘎妞后端）
+2026-11-09T12:21:34Z,git-branch-cleanup-cli,0.1.0,Haider Ali,MIT,13444,"Delete stale local git branches — gone on the remote, or fully merged — with a dry run first, always."
+2026-11-09T12:21:37Z,env-example-sync-cli,0.1.0,Haider Ali,MIT,16500,"Scan code for environment variables, compare with `.env.example`, and fail CI when they drift."
+2026-11-09T12:21:40Z,broken-link-checker-cli,0.1.0,Haider Ali,MIT,16716,Check links in Markdown and HTML docs against real pages — and tell page failures apart from anchor failures.
+2026-11-09T12:21:43Z,repo-hygiene-checker-cli,0.1.0,Haider Ali,MIT,24188,"Check a repo is publish-ready against a fixed publish template — pass/fail per check, nothing invented."
+2026-11-09T12:22:48Z,selltostate-cli,0.1.0,,MIT,30388,selltostate: official CLI for the Sell to State government-contracts data API (REST/MCP parity).
+2026-11-09T12:22:54Z,wled-mcp,0.1.2,Kai Schulte,Apache-2.0,1105131,Unofficial MCP server for controlling WLED LED controllers over stdio or Streamable HTTP; not affiliated with the WLED project
+2026-11-09T12:24:02Z,amurcloak,1.0.0,Ahmad170412,MIT,2055984,Local face redaction for photos and short clips. Nothing leaves this machine.
+2026-11-09T12:26:23Z,pynadtcp,1.0.0,Niels Bik,MIT,20795,Async client library for NAD amplifiers controllable over TCP (e.g. the C338).
+2026-11-09T12:26:27Z,mflux-taef,0.1.0,Denis Ineshin,Apache-2.0,39956,"Live TAEF previews for mflux's command line, powered by mlx-taef."
+2026-11-09T12:26:44Z,seamless-workflow,0.2.0,Sjoerd de Vries,MIT,473247,Reactive workflow Context layer for Seamless
+2026-11-09T12:28:04Z,pl-dict-diff,0.0.1,Invenio Collaboration,MIT,29144,Dictdiffer is a library that helps you to diff and patch dictionaries.
+2026-11-09T12:28:36Z,spframelib,0.0.0,,,820,Placeholder package.
+2026-11-09T12:28:45Z,swarmauri-demo-package-maintenance,0.1.0,,,12331,A runnable Swarmauri demo for streaming Docker checks and resuming approvals.
+2026-11-09T12:30:38Z,spapp2-consulclient,0.0.0,,,860,Placeholder package.
+2026-11-09T12:32:40Z,spqconn,0.0.0,,,830,Placeholder package.
+2026-11-09T12:34:05Z,domain-setup-mcp,0.3.0,Anas Mughal,MIT,69619,"MCP server that bulk-configures SPF, DKIM, DMARC and tracking domains for cold email on Cloudflare"
+2026-11-09T12:34:05Z,pagan-gen,0.22.0,Lukas Golino,MIT,618497,"PAGAN (Pixel Art Grammar And Notation): write pixel art as text, build it into PNGs and game-ready assets."
+2026-11-09T12:34:08Z,segan-gen,0.17.0,Lukas Golino,MIT,1455547,"SEGAN (Sound Effect Grammar And Notation): write game sound effects and music as text, build them into WAVs and game-ready assets."
+2026-11-09T12:34:12Z,kiln-gen,0.19.0,Lukas Golino,MIT,889353,"KILN (Keyed Implicit Language & Notation): write smooth stylised 3D models as text, build them into game-ready glTF."
+2026-11-09T12:39:11Z,majles,0.0.1,,Apache-2.0,2354,Your idea. Your team. Your call. A full team of AI agents for Claude Code. Coming 1 December 2026.
+2026-11-09T12:53:40Z,tdx-ths-linker,0.1.1,onclaw-tdx-ths contributors,GPL-3.0-only,139639,Native Windows Python integration for TDX and THS
+2026-11-09T12:55:19Z,norsonic-nor282,0.1.0,Norsonic,LicenseRef-Norsonic-Nor282,34037,Python client and device discovery for the Norsonic Nor282
+2026-11-09T12:55:58Z,td-string,0.1.1,anchor-the-dev,AGPL-3.0,7221,Custom 5bit text encoding
+2026-11-09T12:59:11Z,mtn-momo-python,0.1.1,Kangwa Bwali,MIT,46377,Unofficial Python SDK for the MTN Mobile Money (MoMo) Open API
+2026-11-09T12:59:29Z,jarvis-observe,0.1.0,QuantumDevs,MIT,10459,Lightweight Python telemetry observer SDK for J.A.R.V.I.S.
+2026-11-09T13:00:05Z,file-convert-mcp,0.1.2,,MIT,19407,MCP tool for file conversion and file format detection by Convert.Guru
+2026-11-09T13:00:42Z,kelpy,0.1.0,,,15933705,High-performance C++ tensor library with OpenMP and pybind11
+2026-11-09T13:01:22Z,rewind-stream,0.1.0,Andrea Acanfora,MIT,26853,"Resumable Stream Protocol for Python: LLM token streams that survive dropped connections, page reloads and multiple tabs (ASGI server, memory and Redis stores)"
+2026-11-09T13:02:00Z,pymiox,0.1.0,"""J. P. Merkofer"" <j.p.merkofer@tue.nl>",BSD-3-Clause,922500,"Open any MR file from any vendor into one object: data, geometry, all metadata."
+2026-11-09T13:03:18Z,bedrock-celery,0.1.0,maacck,MIT,9589,"Celery integration for Bedrock: per-process worker lifecycle, per-task DI scopes and database sessions, and async tasks."
+2026-11-09T13:06:16Z,zettcode-tools,0.4.1,Chang-LeHung,MIT,30058,"The coding tools of ZettCode: read, search, write, edit and the shell, as a part of the agent that lives apart from it"
+2026-11-09T13:07:18Z,zettcode-guidance,0.4.1,Chang-LeHung,MIT,5265,"The per-tool guidance ZettCode gives the model, as a part of the agent that lives apart from it"
+2026-11-09T13:08:20Z,zettcode-memory,0.4.1,Chang-LeHung,MIT,13491,"The agent's persistent memory and its guide to background daemons, as a part of the agent that lives apart from it"
+2026-11-09T13:08:57Z,indonesia-holidays,0.1.0,Code by Hani,MIT,46597,"Offline Indonesian national public holidays and collective leave (cuti bersama), with working-day calculations."
+2026-11-09T13:09:22Z,zettcode-tool-output,0.4.1,Chang-LeHung,MIT,10635,"The kept shell output of ZettCode, moved into the session's folder, as a part of the agent that lives apart from it"
+2026-11-09T13:09:45Z,supabase-rls-check,0.2.0,Trung Thanh Tran,MIT,270012,"Consent-gated, read-only RLS, policy, and anonymous exposure checks for Supabase projects."
+2026-11-09T13:09:47Z,remote-contract-jobs,0.1.0,Trung Thanh Tran,MIT,46886,Read-only remote contract job search CLI and MCP server.
+2026-11-09T13:10:12Z,varchy,0.1.0,Varchy Core Team <dev@varchy.org>,MIT,112205,Your idea. Fully architected. Open-source AI software architect & development orchestrator.
+2026-11-09T13:13:20Z,slugify-ru,0.0.0,,,5074,
+2026-11-09T13:15:14Z,veed,0.1.0,,MIT,36019,Official Python SDK for the VEED API
+2026-11-09T13:16:50Z,derico.blicca.listingfilters,1.0.0a1,Maik Derstappen <md@derico.de>,GPL-2.0-or-later,369983,"Listing filters for Plone Blicca: visitors narrow a listing by tags, other properties or a text search, with options from that listing's own results"
+2026-11-09T13:17:54Z,cairnkit,0.5.0,wasabihu <wasabi.net@gmail.com>,MIT,1533333,"A small agent runtime for business apps: the host owns identity, writes become drafts a person approves."
+2026-11-09T13:18:50Z,fresh-vdyp,0.1.0,UBC FRESH Lab,MIT,201992,"A public interoperability layer for the BC VDYP7 coefficient bundle, console runner, and yield curves."
+2026-11-09T13:19:05Z,cc-blackbox,0.2.0,Filip Procházka <mr@fprochazka.cz>,MIT,102917,"Unofficial, not affiliated with or endorsed by Anthropic: typed Python access to a running Claude Code (cc), its profiles, sessions and messaging, through undocumented internals that can change in an…"
