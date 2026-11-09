@@ -8,45 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 00:20 UTC
+## Latest list — 2026-11-09 01:20 UTC
 
-New packages created between 2026-11-08 23:19 UTC and 2026-11-09 00:20 UTC.
+New packages created between 2026-11-09 00:20 UTC and 2026-11-09 01:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-09T00-20-14-285819Z.csv)
+[Full CSV](data/new-packages-2026-11-09T01-20-35-90005Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-08 23:19:05 | [dragon-torch](https://pypi.org/project/dragon-torch/) | 1.1.1 |  | 162.0 kB | PyTorch Deep Learning Research framework. Focused on RL but support for extendi… |
-| 2026-11-08 23:20:33 | [kkrunner](https://pypi.org/project/kkrunner/) | 0.1.0b1 |  | 348.1 kB | Program-independent local and remote scientific job execution |
-| 2026-11-08 23:21:50 | [fieldsim](https://pypi.org/project/fieldsim/) | 0.2.0 | enesuslu15 | 101.2 kB | Virtual Modbus, OPC UA and S7 devices for testing industrial software without h… |
-| 2026-11-08 23:30:00 | [nn-rank](https://pypi.org/project/nn-rank/) | 0.0.1 | ABrain One and contributors <… | 61.3 kB | Ranking of AI Systems by the Accuracy-Resource Trade-off |
-| 2026-11-08 23:38:08 | [boring-agent-memory](https://pypi.org/project/boring-agent-memory/) | 0.2.2 | Boring Agent Memory contribut… | 132.7 kB | A boring, local-first BM25 memory layer for AI agents. |
-| 2026-11-08 23:45:29 | [findcheap](https://pypi.org/project/findcheap/) | 0.1.0 | Findcheap <support@findcheap.… | 14.0 kB | Find where the product on a page is sold for less: the Findcheap API's search,… |
-| 2026-11-08 23:47:12 | [fastdd](https://pypi.org/project/fastdd/) | 1.2.0 |  | 34.2 kB | Parallel file reader and in-place rewriter with resume and colorful progress |
-| 2026-11-08 23:47:16 | [fresha-mcp](https://pypi.org/project/fresha-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 18.7 kB | Connect Fresha to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a h… |
-| 2026-11-08 23:48:22 | [booksy-mcp](https://pypi.org/project/booksy-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 18.6 kB | Connect Booksy to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a h… |
-| 2026-11-08 23:48:26 | [lrank](https://pypi.org/project/lrank/) | 0.0.1 | ABrain One and contributors <… | 19.7 kB | Ranking of AI Systems by the Accuracy-Resource Trade-off |
-| 2026-11-08 23:49:00 | [batfish-q-mcp](https://pypi.org/project/batfish-q-mcp/) | 0.1.0 | Maen Artimy | 79.1 kB | MCP server for Batfish: questions, assertions, topology, and failure testing as… |
-| 2026-11-08 23:49:28 | [bookingkoala-mcp](https://pypi.org/project/bookingkoala-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 18.7 kB | Connect BookingKoala to Claude Code, ChatGPT and any AI agent through Cotlet.de… |
-| 2026-11-08 23:50:34 | [milanote-mcp](https://pypi.org/project/milanote-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 18.6 kB | Connect Milanote to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a… |
-| 2026-11-08 23:51:16 | [nkde](https://pypi.org/project/nkde/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 100.5 kB | Network kernel density estimation (NKDE / TNKDE) along street networks: simple,… |
-| 2026-11-08 23:51:18 | [routematrix](https://pypi.org/project/routematrix/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 85.4 kB | Large origin-destination travel-time and distance matrices from OSRM, Valhalla,… |
-| 2026-11-08 23:51:19 | [roadnoise](https://pypi.org/project/roadnoise/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 114.5 kB | Transparent screening-level road traffic noise in Python: CNOSSOS-EU source mod… |
-| 2026-11-08 23:51:35 | [isgenai](https://pypi.org/project/isgenai/) | 0.1.0 | isGenAI | 13.4 kB | Python client for the isGenAI check API: AI-image and AI-text evidence, Content… |
-| 2026-11-08 23:52:59 | [llm-cachecheck](https://pypi.org/project/llm-cachecheck/) | 0.2.1 | Aditi Patodiya | 39.4 kB | Measure how often the prompt cache changes greedy answers on your LLM server (l… |
-| 2026-11-08 23:53:42 | [geoparquet-lite](https://pypi.org/project/geoparquet-lite/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 106.2 kB | Read, write and validate GeoParquet 1.0/1.1 with only pyarrow: WKB and native G… |
-| 2026-11-08 23:53:42 | [heatstress](https://pypi.org/project/heatstress/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 127.9 kB | Vectorised heat-stress indices: NWS Heat Index, Humidex, Apparent Temperature,… |
-| 2026-11-08 23:53:44 | [crashmap](https://pypi.org/project/crashmap/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 151.7 kB | Road-safety network screening in Python: HSM crash frequency, rate, critical ra… |
-| 2026-11-08 23:56:34 | [coglite](https://pypi.org/project/coglite/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 158.3 kB | Read windows, pixels and overviews from Cloud-Optimized GeoTIFFs over HTTP(S) o… |
-| 2026-11-08 23:56:38 | [bikelts](https://pypi.org/project/bikelts/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 139.5 kB | Bicycle Level of Traffic Stress (LTS 1-4) from OpenStreetMap tags or tables: Me… |
-| 2026-11-08 23:56:39 | [geofencing](https://pypi.org/project/geofencing/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 106.8 kB | Fast, dependency-free geofencing: point-in-fence checks, an R-tree over thousan… |
-| 2026-11-08 23:58:30 | [geobatch](https://pypi.org/project/geobatch/) | 0.1.1 | Yusuf Eminoğlu <yusufeminoglu… | 138.6 kB | Polite, resumable batch geocoding and reverse geocoding of spreadsheets over No… |
-| 2026-11-09 00:01:10 | [pageindex-extract](https://pypi.org/project/pageindex-extract/) | 0.1.0 | PageIndex <support@pageindex.… | 18.9 kB | Python client for Page Extract API by PageIndex: turn a PDF into JSON that fits… |
-| 2026-11-09 00:01:50 | [diagmunge](https://pypi.org/project/diagmunge/) | 2026.11.8 | Luke Jenkins | 293.8 kB | Shared Qualcomm DIAG transport core (+ format-munge tools) |
-| 2026-11-09 00:03:55 | [diaggulp](https://pypi.org/project/diaggulp/) | 2026.11.8 | Luke Jenkins | 252.6 kB | Low-CPU host-side Qualcomm DIAG capture — arms the log mask and pumps raw HDLC |
-| 2026-11-09 00:03:57 | [diaggpsd](https://pypi.org/project/diaggpsd/) | 2026.11.8 | Luke Jenkins | 188.7 kB | Live GNSS from a Qualcomm modem's DIAG stream — serves gpsd clients and writes… |
-| 2026-11-09 00:05:02 | [OfflineCurrencyCoverter](https://pypi.org/project/OfflineCurrencyCoverter/) | 2026.11.9 |  | 2.5 MB | ECB and cryptocurrency historical rates with EUR cross-conversion |
-| 2026-11-09 00:07:41 | [qem](https://pypi.org/project/qem/) | 0.2.0 | René de Hesselle <dehesselle@… | 155.7 kB | Python library and CLI for NoMac cloud Macs (nomac.app) |
-| 2026-11-09 00:08:59 | [ecosemantic-relay](https://pypi.org/project/ecosemantic-relay/) | 0.1.14 | Carlos Gaete-Morales <cdgaete… | 17.5 kB | The EcoSemantic bridge tunnel: its messages, its frames, the bridge's discovery… |
-| 2026-11-09 00:11:57 | [myqcd](https://pypi.org/project/myqcd/) | 0.1.0 | ZhangXin8069 | 174.9 kB | Executable audits for lattice-QCD formulas, operator construction, and Feynman… |
-| 2026-11-09 00:13:30 | [shotlog-mcp](https://pypi.org/project/shotlog-mcp/) | 0.1.0 | Marlon Trujillo Jaramillo | 203.4 kB | MCP server that captures macOS windows into a numbered, captioned evidence log… |
+| 2026-11-09 00:28:50 | [turkce-adres](https://pypi.org/project/turkce-adres/) | 0.2.0 | Mehmet Veysel Delibaş | 2.4 MB | Turkish address toolkit: parse messy Turkish addresses, fix spelling, validate… |
+| 2026-11-09 00:31:57 | [LangChain-vlnaim](https://pypi.org/project/LangChain-vlnaim/) | 0.1.0 |  | 10.5 kB | A modular RAG retrieval class based on LangChain and Chroma |
+| 2026-11-09 00:32:31 | [xtalforge](https://pypi.org/project/xtalforge/) | 0.0.1 |  | 2.8 MB | Python bindings for the xtalforge crystal-structure library |
+| 2026-11-09 00:33:27 | [spsheaf](https://pypi.org/project/spsheaf/) | 0.2.0 | Eduardo Paluzo-Hidalgo, Yusuk… | 318.1 kB | spSheaf: sheaf-theoretic boundary detection for segmentation-free spatial domai… |
+| 2026-11-09 00:36:35 | [whitepages-scraper](https://pypi.org/project/whitepages-scraper/) | 0.1.0 | Buğrahan Saka | 28.3 kB | Scrape Whitepages.com name searches and person pages (name, age range, address,… |
+| 2026-11-09 00:43:02 | [readwebform](https://pypi.org/project/readwebform/) | 0.4.0 | Vlad Lasky <github@vladlasky.… | 126.5 kB | A command-line utility for gathering structured user input through temporary we… |
+| 2026-11-09 00:45:47 | [comment-lens-scanner](https://pypi.org/project/comment-lens-scanner/) | 0.1.0 | Olayinka Vaughan | 58.0 kB | Deterministic source comment maintenance and quality scanner |
+| 2026-11-09 00:53:30 | [cognir](https://pypi.org/project/cognir/) | 0.0.0.1 |  | 1.4 kB | ... |
+| 2026-11-09 00:54:04 | [ants-sn](https://pypi.org/project/ants-sn/) | 0.3.1 | Ben Whewell <ben.whewell@pm.m… | 248.3 MB | Discrete ordinates (S_N) neutron transport in Cython |
+| 2026-11-09 00:56:10 | [permtracker](https://pypi.org/project/permtracker/) | 0.3.0 | PERM Tracker <support@permtra… | 22.5 kB | The PERM Tracker API from Python and the command line: DOL case status, decisio… |
+| 2026-11-09 00:56:21 | [samcommand](https://pypi.org/project/samcommand/) | 1.9.6 | SamAI <dev@samai.cc> | 20.0 MB | SamAI Command - cross-platform command-line tool |
+| 2026-11-09 00:59:50 | [dex-connector-front](https://pypi.org/project/dex-connector-front/) | 0.1.0 |  | 126.8 kB | Dex-native Front conversation and contact connector |
+| 2026-11-09 01:00:13 | [kedi-debugger](https://pypi.org/project/kedi-debugger/) | 0.1.0 |  | 67.6 kB | Optional stdio Debug Adapter Protocol backend for Kedi |
+| 2026-11-09 01:00:15 | [kedi-autobench](https://pypi.org/project/kedi-autobench/) | 0.1.0 |  | 209.8 kB | Autobench instrumentation for Kedi |
+| 2026-11-09 01:01:58 | [codenaut](https://pypi.org/project/codenaut/) | 0.1.0 | nick211908 | 153.0 kB | A terminal-based OpenAI-compatible coding agent with tools, approvals, MCP, and… |
+| 2026-11-09 01:03:40 | [luiccian-excel-mcp](https://pypi.org/project/luiccian-excel-mcp/) | 2.0.0 | LuiccianDev <luicciandev@gmai… | 201.6 kB | High-performance Model Context Protocol (MCP) server for Excel (.xlsx) spreadsh… |
+| 2026-11-09 01:04:24 | [compreSSM](https://pypi.org/project/compreSSM/) | 1.0.0 | Christian Rafferty | 7.7 kB | Library built off of the compreSSM paper linked in the README |
+| 2026-11-09 01:04:51 | [OfflineCurrencyConverter](https://pypi.org/project/OfflineCurrencyConverter/) | 2026.11.9 |  | 2.5 MB | ECB and cryptocurrency historical rates with EUR cross-conversion |
+| 2026-11-09 01:10:50 | [faceoff-mri](https://pypi.org/project/faceoff-mri/) | 1.9.8.post1 |  | 11.4 MB | MRI defacing tool using ANTs registration (your own install, Docker, or Apptain… |
+| 2026-11-09 01:11:42 | [basetwin](https://pypi.org/project/basetwin/) | 0.0.1 |  | 1.7 kB | Name reserved for the BaseTwin project (Data Space / digital twin core). |
+| 2026-11-09 01:11:45 | [basetwin-dataspace](https://pypi.org/project/basetwin-dataspace/) | 0.0.1 |  | 1.8 kB | Name reserved for the BaseTwin project (Data Space / digital twin core). |
+| 2026-11-09 01:11:48 | [basetwin-twin](https://pypi.org/project/basetwin-twin/) | 0.0.1 |  | 1.7 kB | Name reserved for the BaseTwin project (Data Space / digital twin core). |
+| 2026-11-09 01:17:55 | [members-csv](https://pypi.org/project/members-csv/) | 1.0.0 | Alexandru Serbanescu | 18.1 kB | Load member records from CSV files into typed Python objects, with a small CLI. |

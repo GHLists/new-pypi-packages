@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T00:28:50Z,turkce-adres,0.2.0,Mehmet Veysel Delibaş,MIT AND ODbL-1.0,2438186,"Turkish address toolkit: parse messy Turkish addresses, fix spelling, validate against 66,000+ neighbourhoods and villages, offline geocoding to street/neighbourhood level, duplicate matching, KVKK-f…"
+2026-11-09T00:31:57Z,LangChain-vlnaim,0.1.0,,,10455,A modular RAG retrieval class based on LangChain and Chroma
+2026-11-09T00:32:31Z,xtalforge,0.0.1,,MIT OR Apache-2.0,2820308,Python bindings for the xtalforge crystal-structure library
+2026-11-09T00:33:27Z,spsheaf,0.2.0,"Eduardo Paluzo-Hidalgo, Yusuke Imoto",MIT,318144,spSheaf: sheaf-theoretic boundary detection for segmentation-free spatial domain inference
+2026-11-09T00:36:35Z,whitepages-scraper,0.1.0,Buğrahan Saka,MIT,28346,"Scrape Whitepages.com name searches and person pages (name, age range, address, phones, relatives, associates) with Python."
+2026-11-09T00:43:02Z,readwebform,0.4.0,Vlad Lasky <github@vladlasky.com>,MIT,126503,A command-line utility for gathering structured user input through temporary web forms
+2026-11-09T00:45:47Z,comment-lens-scanner,0.1.0,Olayinka Vaughan,MIT,57951,Deterministic source comment maintenance and quality scanner
+2026-11-09T00:53:30Z,cognir,0.0.0.1,,,1354,...
+2026-11-09T00:54:04Z,ants-sn,0.3.1,Ben Whewell <ben.whewell@pm.me>,MIT,248263188,Discrete ordinates (S_N) neutron transport in Cython
+2026-11-09T00:56:10Z,permtracker,0.3.0,PERM Tracker <support@permtracker.app>,MIT,22540,"The PERM Tracker API from Python and the command line: DOL case status, decision estimates, the PERM queue, visa bulletins, employer, law firm and occupation records, exports, live DOL lookups and si…"
+2026-11-09T00:56:21Z,samcommand,1.9.6,SamAI <dev@samai.cc>,MIT,19950204,SamAI Command - cross-platform command-line tool
+2026-11-09T00:59:50Z,dex-connector-front,0.1.0,,MIT,126773,Dex-native Front conversation and contact connector
+2026-11-09T01:00:13Z,kedi-debugger,0.1.0,,Apache-2.0,67627,Optional stdio Debug Adapter Protocol backend for Kedi
+2026-11-09T01:00:15Z,kedi-autobench,0.1.0,,Apache-2.0,209760,Autobench instrumentation for Kedi
+2026-11-09T01:01:58Z,codenaut,0.1.0,nick211908,MIT,153048,"A terminal-based OpenAI-compatible coding agent with tools, approvals, MCP, and session persistence."
+2026-11-09T01:03:40Z,luiccian-excel-mcp,2.0.0,LuiccianDev <luicciandev@gmail.com>,MIT,201594,High-performance Model Context Protocol (MCP) server for Excel (.xlsx) spreadsheet automation and generation
+2026-11-09T01:04:24Z,compreSSM,1.0.0,Christian Rafferty,MIT,7698,Library built off of the compreSSM paper linked in the README
+2026-11-09T01:04:51Z,OfflineCurrencyConverter,2026.11.9,,,2453562,ECB and cryptocurrency historical rates with EUR cross-conversion
+2026-11-09T01:10:50Z,faceoff-mri,1.9.8.post1,,MIT,11355749,"MRI defacing tool using ANTs registration (your own install, Docker, or Apptainer) to an MNI152 template"
+2026-11-09T01:11:42Z,basetwin,0.0.1,,Apache-2.0,1669,Name reserved for the BaseTwin project (Data Space / digital twin core).
+2026-11-09T01:11:45Z,basetwin-dataspace,0.0.1,,Apache-2.0,1754,Name reserved for the BaseTwin project (Data Space / digital twin core).
+2026-11-09T01:11:48Z,basetwin-twin,0.0.1,,Apache-2.0,1712,Name reserved for the BaseTwin project (Data Space / digital twin core).
+2026-11-09T01:17:55Z,members-csv,1.0.0,Alexandru Serbanescu,MIT,18092,"Load member records from CSV files into typed Python objects, with a small CLI."
