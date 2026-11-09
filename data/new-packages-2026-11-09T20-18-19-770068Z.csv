@@ -1,0 +1,34 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T18:45:26Z,lightrat,0.0.1,Ernesto Casablanca <casablancaernesto@gmail.com>,Apache-2.0,890459,Lightweight library for rational numbers
+2026-11-09T19:19:36Z,kedi-mcp,0.1.0,"Mert Sırakaya, Doğukan Yiğit Polat",Apache-2.0,23624,MCP server for Kedi
+2026-11-09T19:21:06Z,racetrap,0.2.0,Rahul Gupta,MIT,11083744,Finds race conditions in web APIs by forcing the worst order of their SQL statements.
+2026-11-09T19:21:23Z,actiongraph-ai,0.0.1,ActionGraph contributors,Apache-2.0,2218,Authority layer for AI agent actions: earned autonomy with anytime-valid guarantees. Placeholder; first release coming soon.
+2026-11-09T19:21:43Z,runlytics,0.1.1,Bradley Odimmasi,MIT,158783,"A fast, lazy, modern experiment dashboard and SummaryWriter."
+2026-11-09T19:25:28Z,bazaar-contrib-starlink-conversation,0.3.0rc1,,Apache-2.0,31239,"The conversations of a node's agents as its Bazaar Compute server reads them through starlink: listed, read, searched, their attachments and their reminders"
+2026-11-09T19:25:42Z,arcadiabench,1.0.1,,MIT,18574130,"An open, seeded benchmark for coordinating robot crews building on Mars."
+2026-11-09T19:26:25Z,donationbee-verify,0.1.0,Ivo Iliev,Apache-2.0,38292,"Independent verifier for DonationBee payment ledgers: checks every hash, signature, witness and anchor itself"
+2026-11-09T19:27:51Z,stalagmight-lib,0.0.1,Jonathan Dekhtiar <jonathan@dekhtiar.com>,,123199,Read native StalagMight schema-18 surveys into immutable Pydantic models.
+2026-11-09T19:28:00Z,ansible-aom,0.102.13,"Xyz00777 <git@paeiser.de>, Felix Karg <f.karg10@gmail.com>",GPL-3.0-or-later,1504235,Ansible Output Monitor - nom-style TUI for ansible-playbook
+2026-11-09T19:28:11Z,namecom-core-api,1.36.3,,MIT,491993,
+2026-11-09T19:30:06Z,jupyter-web-widgets,0.1.0,,,21917,Framework-agnostic notebook widgets for Jupyter
+2026-11-09T19:32:33Z,apairo-preprocess,0.2.0,Augustin Bresset <augustin.bresset@gmail.com>,MIT,74877,"Preprocessing for apairo datasets: odometry, ground segmentation, projection, traversability labels"
+2026-11-09T19:33:13Z,backtest-leakage-audit,2.0.0,Oke Iyanuoluwa E.,Apache-2.0,43305,"Catch look-ahead bias and overfitting in trading backtests with a future-scramble test, the deflated Sharpe ratio and a bootstrap data-snooping test."
+2026-11-09T19:35:59Z,docfieldbench,0.1.0a1,,Apache-2.0,95600,"An open benchmark for structured extraction from documents: wrong values, invented values, and what a pipeline can trust."
+2026-11-09T19:36:38Z,timecopilot-kumo-forecast,0.1.0,,Apache-2.0,155133,Inference-only packaging of NVIDIA Kumo-Forecast (MOMENT-based forecaster) for FoundationForecast
+2026-11-09T19:40:23Z,agentic-larp,0.1.0,Christopher Priebe,MIT,270858,"Cosplay as a 10x AI engineer: a terminal UI where a swarm of fake agents builds your app, then ships it."
+2026-11-09T19:42:19Z,zarr-zip,0.1.0,Bugra Özdemir <bugraa.ozdemir@gmail.com>,MIT,40346,Zarr stores in zip files: one zip per store (BioImage Archive layout or NGFF RFC-9 .ozx)
+2026-11-09T19:42:47Z,pulsemaker-simulator,1.0.1,PulseMaker Simulator Team,MIT,17419,Python and MicroPython runtime library for PulseMaker Simulator (DBE CAPS Coding & Robotics)
+2026-11-09T19:42:48Z,padam-nocturne,0.3.0,Maksim Galatin <contact@codeofdigitaleternity.com>,AGPL-3.0-only,350519,Persistent memory for AI agents with sleep-style consolidation (NOCTURNE) and a verifiable eternal layer on Arweave + Solana
+2026-11-09T19:43:17Z,dbt-opteryx,0.1.0,,Apache-2.0,33756,dbt adapter for Opteryx Cloud (https://opteryx.app)
+2026-11-09T19:46:33Z,kryth,0.0.36,navadeep0508,GPL-3.0-or-later,414691,An open-source terminal-based AI coding agent.
+2026-11-09T19:56:47Z,megasim,0.0.0,MegaSim Team,Apache-2.0,1645,MegaSim
+2026-11-09T20:01:58Z,atomcore,0.0.1,,Apache-2.0,11559,atomcore
+2026-11-09T20:05:56Z,panescope,0.0.0,Abbas Aliyev,,2073,Name reservation for Panescope: a self-hosted web cockpit for tmux panes and AI coding agents. First real release: 0.1.0.
+2026-11-09T20:05:58Z,elan-agentkit-core,0.1.0,Elan <support@openelan.ai>,Apache-2.0,256189,"The agent pipeline's service machinery: verifiers, broker, database, metering"
+2026-11-09T20:07:12Z,nft-press-release-faq-generator,1.0.0,"""BuyCryptoPressRelease.com"" <mojo@wewinconsultants.com>",MIT,34934,"NFT Press Release FAQ Generator: Search 50 NFT press release FAQs from BuyCryptoPressRelease.com NFT Project PR in plain English. Get the best answer with a 0 to 100 confidence score, and generate th…"
+2026-11-09T20:07:46Z,embedgl,0.0.1,,Apache-2.0,600445,JupyterLab widget for visualizing embeddings
+2026-11-09T20:08:20Z,dmoera,0.2.0,CacheCarti,MIT,109586,"Local backtesting for dMoERA strategies: run every bot in the Crypto-Strategies corpus on your own machine with the exact validation engine, then grade and validate the result."
+2026-11-09T20:11:46Z,mkdocs-onlinecompiler,0.1.0,RunCode Inc.,MIT,23993,"Runnable, interactive code blocks for MkDocs and Material for MkDocs: readers edit and run your code examples in Python, JavaScript, C++, Java, Go, SQL and 46 languages, right in the docs"
+2026-11-09T20:13:21Z,nesr-logic,0.1.0,NESR Logic Maintainers,MIT,32309,General-purpose Python Logic Discovery and Extraction
+2026-11-09T20:13:53Z,libsdca,0.3.0,Max Lapin,MIT,4288010,"Numerically stable multiclass, top-k, multilabel and distillation losses for PyTorch, JAX and NumPy, and certified SDCA solvers for linear and kernel SVM and softmax classifiers, with scikit-learn, C…"
+2026-11-09T20:16:02Z,hermes-comemo,1.0.0,AndaLabX <anda@andalabx.com>,MIT,53255,"Composite Memory Meta-Provider for Hermes Agent — multiplex Honcho, Mem0, and Supermemory simultaneously"
