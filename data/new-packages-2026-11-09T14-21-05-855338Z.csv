@@ -1,0 +1,61 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T13:20:15Z,mumo-engine,1.0.0,Mumo Framework Authors,MIT,29794,Boundary-based statistics and risk-corridor calculations
+2026-11-09T13:24:47Z,stablecoin-games-renpy,0.1.4,,MIT,231730,"Stablecoin for Games (SCFG): USDC/USDT tips and unlocks for Ren'Py games, paid straight to your wallet. No server, no tokens, no NFTs. Installs the plugin into your project."
+2026-11-09T13:25:16Z,mujoco-redaura,5.0.1,Google DeepMind <mujoco@deepmind.com>,Apache-2.0,5585289,MuJoCo Physics Simulator (Core Bindings)
+2026-11-09T13:25:40Z,glab-cli-extras,0.1.0,Filip Procházka <dev@fprochazka.cz>,MIT,190083,"Extra commands for the GitLab CLI (glab): glab-watch reports changes to merge requests, pipelines and branches."
+2026-11-09T13:26:38Z,agent-warrant,0.1.0,voltagebots,Apache-2.0,153889,"A portable, cryptographically-verifiable authority grant for AI agents -- cross-org, no shared infrastructure."
+2026-11-09T13:27:20Z,oracledb-o5logon,26.1.0.1,Rafael Fabian Ruske,UPL-1.0 OR Apache-2.0,127230061,Unofficial fork of python-oracledb whose thin mode can log on to accounts with only a 10G password verifier
+2026-11-09T13:27:43Z,soap-client,0.1.0,Freontt,MIT,14543,SOAP client for working with services using SOAP and WSDL.
+2026-11-09T13:28:45Z,gtlancet,0.0.1,Gan Tian <178668835@qq.com>,MIT,3887,一个类似 golang 里 lancet 的工具包
+2026-11-09T13:29:21Z,simcardemsx,0.1.1,Henrik Finsberg <henriknf@simula.no>,MIT,245414,Next generation cardiac electro-mechanics solver based on FEniCSx
+2026-11-09T13:29:49Z,u2xbar,0.1.0,Mete Balci,MIT,100308,Control tool and library for the u2xbar USB crossbar
+2026-11-09T13:29:54Z,raster-integrity,0.0.3,Dedulle Wim <wim.dedulle@proton.me>,MIT License,1267619,Technical methods for checking the integrity of raster data
+2026-11-09T13:31:55Z,openseespyandroid,3.7.1.0,,"OpenSees license (UC Berkeley), see LICENSE",69168416,"OpenSeesPy prebuilt for Android arm64 (Pydroid 3, Termux)"
+2026-11-09T13:32:31Z,reeeq,0.0.1,aikwen <kwen.zou@outlook.com>,MIT,7227,
+2026-11-09T13:33:06Z,vibe-scaffold,0.1.0,Shenal Diluksha <shenald@users.noreply.github.com>,MIT,11493,"✨ Scaffold projects at the speed of thought. Minimalist, zero-config starter kits."
+2026-11-09T13:33:29Z,codedna-analyzer,1.4.0,Shenal Diluksha <shenald@users.noreply.github.com>,MIT,199415,🧬 A genetic analyzer for software — reverse-engineer any codebase into a DNA profile.
+2026-11-09T13:33:41Z,bonsai-slm,1.0.0,Bonsai Core Team <cultivate@bonsai.ai>,MIT,106968,The art of cultivating massive foundation models into pocket-sized intelligences on consumer silicon.
+2026-11-09T13:34:32Z,autobm25,0.1.1,,MIT,960130,Zero-label BM25 hyperparameter adaptation: O(1) statistical-feature dictionary lookup with heuristic fallback
+2026-11-09T13:34:52Z,grundfos-ble,0.1.0,83noit,MIT,92012,Async Python library for Grundfos circulator pumps over GENIbus-on-Bluetooth LE (ALPHA2 GO first)
+2026-11-09T13:38:36Z,machyon,1.0.0,Divyanshu Singh,MIT,129026,"Download any number of images, fast, without losing a single file."
+2026-11-09T13:42:08Z,toknroll,0.4.0a1,Quixotic AI <hello@qxotic.ai>,Apache-2.0,5774546,"Token-perfect LLM tokenization: tokenizer.json, GGUF and hub sources, one shared library, no Python ML stack."
+2026-11-09T13:42:12Z,jinfer,0.4.0a1,Quixotic AI <hello@qxotic.ai>,Apache-2.0,18057502,"Local AI inference: chat, vision, audio, embeddings, reranking, speech, transcription. One shared library, no server, no Python ML stack."
+2026-11-09T13:42:37Z,turkce-kelimeler,0.1.0,,MIT,13859,"Türkçe kelime listesi ve dil işleme yardımcıları (hecele, ek getirme, İ/ı dönüşümü)"
+2026-11-09T13:43:17Z,zinegen,0.1.0,Swen Mun,MIT,88869,Agent-driven photobook typesetting: Lightroom album -> print-ready PDF/X
+2026-11-09T13:47:54Z,vexon,5.0.3,Google DeepMind <mujoco@deepmind.com>,Apache-2.0,5586505,MuJoCo Physics Simulator (Core Bindings)
+2026-11-09T13:50:40Z,alver,1.0.0,Almar Klein,,23879,Version management made easy
+2026-11-09T13:51:03Z,tokenrace,1.0.0,,MIT,410729,"LLM inference speed test: compare local inference servers on your own hardware, with the same measuring code for all."
+2026-11-09T13:55:00Z,simple-module-analytics,0.0.15,,MIT,112827,Anonymous tenant-scoped web and application analytics with local GeoIP
+2026-11-09T13:59:08Z,aigifmaker,0.1.0,hanshs474,MIT,13426,Official SDK for AI GIF Maker (aigifmaker.ai): turn text into animated GIFs.
+2026-11-09T14:00:05Z,hermes-windows-launcher,0.1.0,Community contributors,MIT,12002,Minimal unofficial PyPI launcher for the official Nous Research Hermes Windows installer and updater
+2026-11-09T14:00:26Z,patchology,0.1.0,twpkevin06222 <tengwaipokevin@gmail.com>,Apache-2.0,191043,"Whole slide image tissue detection, artifact removal and tiling."
+2026-11-09T14:00:57Z,openbb-finzdata,0.1.0,,MIT,5508,FinzData provider for the OpenBB Platform
+2026-11-09T14:03:44Z,zebkit,0.4.0,,LGPL-2.1-or-later,91861,"Chromium's engine as a library, from Python: web views, PDF, media, Playwright's API natively, and the libraries inside the engine"
+2026-11-09T14:04:29Z,mapchallenge-mcp,0.8.0,jydestudio,MIT,2998470,"LLM-friendly GIS tools over MCP, plus a web studio to chat with a GIS agent and see results on a map"
+2026-11-09T14:04:31Z,tr-imar,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,132200,"Turkish zoning (imar) calculations under the Planlı Alanlar İmar Yönetmeliği and Otopark Yönetmeliği: TAKS/KAKS, emsal dışı 30% cap, setbacks, buildable envelope, building height, parking and a compl…"
+2026-11-09T14:04:32Z,tr-donati,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,98457,"Donatı (social and technical infrastructure) area standards for Turkish spatial plans: EK-2 of the Mekânsal Planlar Yapım Yönetmeliği, required areas, plan compliance checks, per-capita indicators an…"
+2026-11-09T14:04:51Z,tr-tbdy,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,66794,"TBDY 2018 (Türkiye Bina Deprem Yönetmeliği) Chapter 2 design spectra: site coefficients Fs/F1, SDS/SD1, corner periods, horizontal, vertical and displacement spectra, DTS, BYS and the reduced spectru…"
+2026-11-09T14:06:18Z,realtimetts-breeze-native,0.1.0rc8,,MIT,34968812,Prebuilt RealtimeTTS Breeze native worker launcher
+2026-11-09T14:06:20Z,tr-acikveri,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,107372,"Türkiye açık veri portalları (CKAN) için tek istemci: çoklu portal arama, veri seti bilgisi, kibar ve sürdürülebilir indirme, cp1254/UTF-8 BOM ve ; ayraçlı CSV ile GeoJSON okuma, Türkçe CLI."
+2026-11-09T14:06:27Z,landmix,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,90569,"Land-use mix and diversity indices for urban analysis: normalised entropy, Herfindahl-Hirschman, Simpson, Hill numbers, balance, jobs-housing and dissimilarity indices for zones, grids and moving win…"
+2026-11-09T14:06:33Z,tr-nufus,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,96838,"Population projection methods for Turkish plan reports: arithmetic, geometric, exponential, logistic, İller Bankası, least-squares trend, ratio and cohort-component (Leslie) projections, TÜİK growth…"
+2026-11-09T14:06:48Z,realtimetts-breeze-native-cuda12,0.1.0rc8,,MIT,91176105,Prebuilt RealtimeTTS Breeze native worker for NVIDIA CUDA 12 GPUs
+2026-11-09T14:07:50Z,spacematrix,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,79803,"Spacematrix urban density indicators (FSI, GSI, OSR, L, network density N, tare T) at lot, island, fabric and district level after Berghauser Pont & Haupt, with building-type classification, the Spac…"
+2026-11-09T14:07:50Z,urbanshadow,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,102177,"Building shadow casting and sun-hours analysis from 2D footprints and heights: NOAA solar position, shadow polygons, sun-hours grids, facade sun and the BRE 209 two-hours-on-21-March test."
+2026-11-09T14:07:59Z,retailgravity,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,100699,"Spatial interaction and retail catchment models for site analysis: Huff, MCI with log-centering calibration, Reilly/Converse breaking points, Wilson's constrained gravity models with Furness balancin…"
+2026-11-09T14:08:00Z,outlaya,0.1.0,Outlaya,MIT,93460,"Outlaya Python SDK for AI cost attribution across OpenAI, Anthropic, Gemini, OpenRouter, and Cursor"
+2026-11-09T14:08:06Z,agloop,0.6.0,Yure Mark,MIT,68891,Serverless Git & Markdown Multi-Agent Orchestration Framework for heterogeneous LLM agents (e.g. Claude <-> Gemini War Room)
+2026-11-09T14:08:40Z,nova-agentops,1.3.0,Terry <terry@example.com>,MIT,14257,Professional observability SDK for AI Agents
+2026-11-09T14:09:02Z,vocalis,0.1.0,Ishan Bhat,MIT,51692,Wispr Flow-inspired AI voice dictation and code formatting CLI using Groq
+2026-11-09T14:09:18Z,odflows,0.1.1,Yusuf Eminoğlu <geospacephilo@gmail.com>,MIT,90775,"Origin-destination flow toolkit for mobility and commuting analysis: OD tables, desire lines, zone re-aggregation, net/gross flows, filtering, Tao & Thill flow clustering, self-containment indicators…"
+2026-11-09T14:09:26Z,dq-export-connector,0.1.0.dev1,Decentriq,,119486,Worker logic for the Export Connector DCR.
+2026-11-09T14:09:39Z,xtr-security-openid-connect-server,6.3.0,Xterr,MIT,147525,"OpenID Connect for the xtr OAuth 2.0 authorization server: ID tokens, userinfo and discovery."
+2026-11-09T14:13:30Z,hai-ml-utils,0.0.0.0,,,2328,Security placeholder
+2026-11-09T14:14:11Z,sqldark,0.1.0,Muhammed Balin,MIT,3704990,SQLDark - Advanced SQL Injection & Database Takeover Framework
+2026-11-09T14:14:37Z,unofficial-api-for-porndoe,1.0.0,Johannes Habel,AGPL-3.0-only,49239,An asynchronous Python API wrapper and scraper for porndoe.com
+2026-11-09T14:15:45Z,ai-munimji-engine,0.1.0,The erpnext-ai-agents authors,GPL-3.0-or-later,448581,"The rule logic of AI Munimji: stock analysis, vendor scoring, purchase-request approvals and the stores they use. Pure Python: no web server, no database driver, no network call."
+2026-11-09T14:15:58Z,ec2push,1.0.3,,GPL-3.0-or-later,35485,Upload a raw disk image to AWS EC2 and register it as AMI
+2026-11-09T14:16:01Z,dummytrial,0.1.0,exe,MIT,5061,just a test
+2026-11-09T14:16:17Z,eve-unleashed,3.16.0,,,219877,Eve Unleashed + Gamora cliT + Lucy + Berzerker coach + five books. Stdlib only.
+2026-11-09T14:17:34Z,cpp-xer-parser,0.6.1,Dana Fitkowski,MIT,160303,"Parse and write Primavera P6 XER files in pure Python: every table, calendars, cross-reference maps, half-step XERs and DCMA-14 profiles."
+2026-11-09T14:18:04Z,aec-agent-core,1.0.0.dev0,Sean O'Connell <soconnell345@gmail.com>,MIT,14079,"The shared core of LLM agents that review and produce architecture, engineering and construction documents: model connections, vision calls, guards and records, Word and Excel, and a figure helper. N…"
