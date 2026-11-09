@@ -1,0 +1,69 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T17:22:05Z,naze-api,2.1.0,nazedev <devnaze@gmail.com>,ISC,24516,Official Python Client SDK for Naze API (https://naze.dev)
+2026-11-09T17:22:47Z,robopack-mcp,0.1.0,Kasper Johansen,MIT,39376,Unofficial MCP server for the Robopack v1 API (Intune app packaging)
+2026-11-09T17:22:52Z,consulwire,0.1.0,Enzo Caceres <enzo.caceres@crunchdao.com>,,53369,"Strictly typed sync/async Consul client, with Flask and FastAPI integrations that register the application."
+2026-11-09T17:27:20Z,deja-replay,0.1.0,Kushagra Sagar,Apache-2.0,512475,Record the real scheduling order of an asyncio app and replay its race conditions deterministically.
+2026-11-09T17:28:54Z,swapback,0.4.0,rmpmrepo1278,MIT,262592,Local proxy that swaps personal data for placeholders before an LLM call and restores it byte-exact in the reply. Fails closed. OpenAI-compatible.
+2026-11-09T17:34:53Z,mspx,0.0.1,Matt Moehr <matthew_moehr@bradycorp.com>,LicenseRef-Proprietary,3730,Placeholder for mspx package to prevent slopsquating.
+2026-11-09T17:34:55Z,arc56-generated-karti-24eb2bb0,1.2.2026072010,KartikSharma4448,,172786,Generated ARC-56 Algorand smart-contract clients for KartikSharma4448/Aegiscare.
+2026-11-09T17:36:00Z,arc56-generated-kaste-271397f0,1.2.2026072010,kastedo,,14649,Generated ARC-56 Algorand smart-contract clients for kastedo/personal-bank.
+2026-11-09T17:36:17Z,apuntalo,1.1.0,Bryan Valenzuela,MIT,103879,"Apuntes de clase para Windows: transcripción automática, OCR de diapositivas, resumen con IA y exportación a PDF y Word."
+2026-11-09T17:36:57Z,solometrics,0.1.1,Itbanque,Apache-2.0,113686,"Python SDK for the SneakersRadar API: retail inventory, StockX/GOAT market data, and StockX listings, costs and orders."
+2026-11-09T17:37:04Z,arc56-generated-kaush-aa88b584,1.2.2026072010,Kaushik2003,,12904,Generated ARC-56 Algorand smart-contract clients for Kaushik2003/algorand101.
+2026-11-09T17:37:49Z,mercury-banking,0.1.0a1,,Apache-2.0,418296,"Unofficial Python client for the Mercury API. Not affiliated with, endorsed by or sponsored by Mercury Technologies, Inc."
+2026-11-09T17:37:53Z,toolsthatdontupload,0.1.0,"""Park Jihoon (Tools That Don't Upload)"" <hello@toolsthatdontupload.com>",MIT,64623,"SDK for the Tools That Don't Upload file flows and HWP/HWPX API (hosted, or an on-premises runner)."
+2026-11-09T17:38:09Z,arc56-generated-kaush-34643093,1.2.2026072010,Kaushik2003,,68291,Generated ARC-56 Algorand smart-contract clients for Kaushik2003/taurusSwap.
+2026-11-09T17:38:35Z,mcp-forge-publisher,0.1.1,,,7594,"Check, scaffold, and publish MCP servers to PyPI and the official registry."
+2026-11-09T17:38:38Z,ttdu-agent-tools,0.1.0,"""Park Jihoon (Tools That Don't Upload)"" <hello@toolsthatdontupload.com>",MIT,8447,LlamaIndex and LangChain tools for the Tools That Don't Upload file flows and HWP/HWPX API.
+2026-11-09T17:40:17Z,juriset-mcp,0.1.0,,MIT,13273,"MCP server for Juriset: verified, versioned, cited US and Canadian employment and payroll rules"
+2026-11-09T17:41:25Z,django-debug-toolbar-hijack,0.1.0,Josh Asplund,BSD-3-Clause,33953,A django-debug-toolbar panel for impersonating users via django-hijack
+2026-11-09T17:46:33Z,keryx-voice,0.2.0,William Koch <47284092+wak31415@users.noreply.github.com>,Apache-2.0,1499623,"Keryx, a voice assistant service: Twilio phone -> OpenAI Realtime -> Claude Agent SDK subagents"
+2026-11-09T17:49:14Z,mind-drf-flex-fields,1.0.1,Mindsight <marcos.thomaz@mindsight.com.br>,MIT,116262,"Flexible, dynamic fields and nested resources for Django REST Framework serializers. Fork of drf-flex-fields, compatible with current DRF versions (no CoreAPI)."
+2026-11-09T17:49:32Z,mind-drf-flex-fields-compat,1.0.1,Mindsight <marcos.thomaz@mindsight.com.br>,MIT,10701,Temporary compatibility shim: makes the old `rest_flex_fields` import path resolve to `mind_flex_fields`.
+2026-11-09T17:55:33Z,ai-rank,0.0.1,ABrain One and contributors <AI@ABrain.one>,Apache-2.0,19744,Ranking of AI Systems by the Accuracy-Resource Trade-off
+2026-11-09T17:56:43Z,airflow-provider-ttdu,0.2.0,"""Park Jihoon (Tools That Don't Upload)"" <hello@toolsthatdontupload.com>",MIT,19540,Apache Airflow provider for TTDU (Tools That Don't Upload): run document flows on the office PC runner or the TTDU hub API.
+2026-11-09T17:57:01Z,langchain-cyberwarex,0.1.0,CyberWareX <x402@cyberwarex.com>,MIT,13438,"LangChain tools for live web search and web page reading, paid per call in USDC with x402. No account, no API key, free trial."
+2026-11-09T17:57:15Z,msmcp,1.0.2,Eric Janusson <ericjanusson@outlook.com>,,777928,Model Context Protocol server for computational mass spectrometry
+2026-11-09T18:06:22Z,dspace-api-toolkit,0.1.1,Stefan Szepe,BSD-3-Clause,382089,"Python toolkit for the DSpace 7+ and DSpace-CRIS REST API: items, submissions, bitstreams (streamed large uploads), access control, communities, collections, versioning"
+2026-11-09T18:06:22Z,fvs2py,0.2.1,David Diaz <ddiaz@vibrantplanet.net>,MIT,76582,Python wrapper for the Forest Vegetation Simulator API.
+2026-11-09T18:14:03Z,nazuchem,0.1.0,,(MIT OR Apache-2.0) AND MIT AND BSD-3-Clause AND BSD-2-Clause AND Python-2.0,25267168,"Chemical names, SMILES, and the lossless Nazuchem structure IR"
+2026-11-09T18:16:02Z,lam-arabicnumbers,2.0.2,Mostafa Snowber <mostafa.snowber.2023@gmail.com>,MIT,17758,تحويل الأرقام إلى كلمات عربية بدقة نحوية (تفقيط) - Arabic Numbers to Words with high grammatical accuracy
+2026-11-09T18:16:26Z,flowstatemcp,2.5.0,John Martin,MIT,1160811,Local-first shared project memory for AI apps (MCP server)
+2026-11-09T18:19:32Z,jlgridfingerprints,0.1.12,"Bruno Focassio, Michelangelo Domina, Urvesh Patil, Adalberto Fazzio, Stefano Sanvito",LGPL-3.0-or-later,57781,Linear Jacobi-Legendre grid fingerprints for machine learning of the electronic charge density
+2026-11-09T18:30:26Z,shopbird,0.1.0,Atomi Design LLC <support@shopbird.app>,MIT,23346,"Official Python client for the Shopbird API: locks, audiences, codes, drops and webhook verification."
+2026-11-09T18:31:25Z,penguin-do,0.0.0,wachawo <wachawo@gmail.com>,MIT,5612,Coming soon... The penguin is still learning to do things.
+2026-11-09T18:32:11Z,anectico,0.0.0,Anectico,MIT,3207,Reserved for the official Anectico SDK; 1.0.0 is the first release.
+2026-11-09T18:32:41Z,medicaid-mcp,0.1.1,Anna Lulushi <annalulushi@gmail.com>,MIT,86523,An MCP server wrapping the data.medicaid.gov API so Claude and other MCP clients can explore US Medicaid and CHIP open data.
+2026-11-09T18:34:08Z,kew-cli,0.0.1.dev0,Tom Sullivan,Apache-2.0,1983,"Placeholder for kew, the open-source control plane for autonomous coding agents. The first real release follows."
+2026-11-09T18:35:27Z,openjianpu,0.0.1a0,,MIT,2032,OpenJianpu Specification
+2026-11-09T18:37:16Z,create-holon-app,0.0.1.dev19,,Apache-2.0,37098,Create a Holon app: runs holon init from holon-types
+2026-11-09T18:40:40Z,hardware-knowledge-hub,0.1.0,,MIT,3792588,A local project notebook for your first hardware build
+2026-11-09T18:43:11Z,dex-connector-github,0.1.0,,MIT,132920,Dex-native GitHub connector
+2026-11-09T18:44:33Z,dex-connector-gitlab,0.1.0,,MIT,91837,GitLab connector for Dex Flows
+2026-11-09T18:44:51Z,motulator-multiphase,0.1.0,Marko Hinkkanen <marko.hinkkanen@aalto.fi>,MIT,51619,Multi-three-phase machine drives for motulator
+2026-11-09T18:45:05Z,rulestamp-cra-24-72-14-reporting-lint,1.0.9,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37067,"Reads your SECURITY.md against the EU Cyber Resilience Act reporting clock that started on 11 September 2026 — 24 hours, 72 hours, 14 days, to ENISA and your coordinating CSIRT. (bundled Node.js runt…"
+2026-11-09T18:45:23Z,rulestamp-cra-annex-ii-docs-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34457,"19 rules over the user documentation that ships with your product: support-period end date, vulnerability reporting contact, EU declaration of conformity address, secure decommissioning. (bundled Nod…"
+2026-11-09T18:45:41Z,rulestamp-currency-minor-unit-lint,0.1.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,31760,"Finds the money lines that send the wrong amount to a payment API: the x100 that charges 100x in JPY, the toFixed(2) that truncates KWD, and the currency codes that stopped being legal tender. (bundl…"
+2026-11-09T18:45:57Z,rulestamp-datenpanne-meldung-check,1.0.2,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35168,"Datenpannen-Protokoll gegen die 72-Stunden-Frist und die Pflichtangaben nach Art. 33 Abs. 3 und Art. 34 DSGVO prüfen – 13 rules, lokal (bundled Node.js runtime)"
+2026-11-09T18:46:02Z,dex-connector-google-calendar,0.1.0,,MIT,126621,Dex-native Google Calendar connector
+2026-11-09T18:47:55Z,trustbench,0.2.0,Uni-Creator,Apache-2.0,284647,"TrustBench: Evaluation framework for ML model reliability, robustness, and uncertainty."
+2026-11-09T18:49:33Z,torch-prisma,0.1.0,,MIT,36746,"Measure PyTorch inference latency, MACs, FLOPs, and parameters"
+2026-11-09T18:49:36Z,qnx-blueprint,0.3.1,,Apache-2.0,11785608,"Architecture contracts for QNX 8.0 systems, checked against kernel traces"
+2026-11-09T18:50:59Z,rustire,0.0.1,Rustire <hello@rustire.dev>,Apache-2.0,6749,"Checks whether a computer can run Rustire, a sandbox for AI coding agents."
+2026-11-09T18:53:51Z,webrouter,0.11.0,Nimble,Apache-2.0,1574699,"A provider-agnostic router for web search and page-extraction APIs (Nimble, Exa, Tavily, Brave, Oxylabs, Bright Data, ...)"
+2026-11-09T18:57:22Z,backa,0.0.1,,Apache-2.0,1976,Undo and dry-run for AI agent actions in business systems. Coming soon.
+2026-11-09T18:58:16Z,nft-collection-announcement-analyzer,1.0.0,"""BuyCryptoPressRelease.com"" <mojo@wewinconsultants.com>",MIT,30674,"NFT Collection Announcement Analyzer: Free tool that analyzes NFT collection details, supply, traits, blockchain, mint schedule and milestones to generate announcement angles, headline ideas, press r…"
+2026-11-09T19:02:01Z,ghinsight,0.2.0,,BSD-3-Clause,293912,"Reusable tools for GitHub analysis: Actions usage, issue and PR activity, and a small API client"
+2026-11-09T19:03:31Z,labgrid-boardkit,0.1.0,Trevor Gamblin,MIT,43071,"Board manifests, boot strategies, fixtures and test suites for labgrid"
+2026-11-09T19:04:28Z,pepkio-dna-revcomp-primer-toolkit,0.1.0,,,57188,Python client for Pepkio DNA RevComp & Primer Toolkit REST API
+2026-11-09T19:04:52Z,azure-mgmt-costmanagementpriceestimation,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3458,This package will be released in the near future. Stay tuned!
+2026-11-09T19:07:56Z,minidb-sql,1.3.0,MiniDB Contributors,MIT,124352,A miniature in-memory database with SQL-like query support
+2026-11-09T19:12:19Z,isis-report-lib,0.1.0,Gil Cleber Barboza,MIT,37010,Biblioteca Python para geração de relatórios PDF tabulares com layouts hierárquicos (Jinja2 + Playwright). Extraída do POC isis_report.
+2026-11-09T19:12:34Z,unofficial-api-for-pornhat,0.1.0,Johannes Habel,AGPL-3.0-only,61122,An asynchronous Python API wrapper and scraper for pornhat.com
+2026-11-09T19:12:54Z,aa-health-duckdb,0.1.0,Brian Au <brian.a.au@gmail.com>,Apache-2.0,355278,"Adobe Analytics report suite health checks with the 2.0 API, DuckDB and one HTML report. Unofficial."
+2026-11-09T19:13:14Z,langchain-outcrawl,0.1.0,Outcrawl <hi@outcrawl.ai>,Apache-2.0,21486,LangChain tools and a document loader for the Outcrawl search and scrape APIs
+2026-11-09T19:17:54Z,Pyjo-Reactor-Winloop,0.1.0,Piotr Roszatycki <piotr.roszatycki@gmail.com>,Artistic-2.0,34721,Low level event reactor with Winloop support for Pyjoyment.
+2026-11-09T19:18:07Z,fca-register,0.1.0,Alexander Wornast,MIT,15509,Async client and CLI for the FCA Financial Services Register API
+2026-11-09T19:18:20Z,lab-rdp-dashboard,1.0.0,Naveen Daniel Kennedy,,312410,"A browser gateway to lab Windows PCs: reserve a machine, sign in, and use its desktop in a browser tab."
+2026-11-09T19:19:01Z,xrayatlas,0.1.0,Harlan D Heilman <73567020+HarlanHeilman@users.noreply.github.com>,BSD-3-Clause,127060,Python client for X-ray Atlas NEXAFS data and optical models
+2026-11-09T19:19:07Z,openpostcodeuk,1.2026.299,"""Martin P. Hellwig"" <martin@hellwig.uk>",MIT,75274294,UK postcode nearest roads and landmarks from OS Open Names and OS Open Roads

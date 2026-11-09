@@ -1,12 +1,20 @@
 {
   "list": {
-    "count": 43,
-    "from": "2026-11-09T16:18:19.840311Z",
-    "path": "data/new-packages-2026-11-09T17-20-16-108245Z.csv",
-    "to": "2026-11-09T17:20:16.108245Z"
+    "count": 68,
+    "from": "2026-11-09T17:20:16.108245Z",
+    "path": "data/new-packages-2026-11-09T19-19-17-08283Z.csv",
+    "to": "2026-11-09T19:19:17.08283Z"
   },
-  "pending": [],
-  "serial": 43414999,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T18:45:26Z",
+      "package": "lightrat",
+      "since": "2026-11-09T17:20:16.108245Z",
+      "version": null
+    }
+  ],
+  "serial": 43420741,
   "source_truncated": false,
-  "window": "2026-11-09T17:20:16.108245Z"
+  "window": "2026-11-09T19:19:17.08283Z"
 }
