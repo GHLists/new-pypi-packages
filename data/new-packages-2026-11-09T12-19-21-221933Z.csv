@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T10:54:06Z,gennova,0.1.0a1,GenNova-HUST,LicenseRef-Proprietary,28271548,Compiled GenNova OSDI27 Ascend research runtime
+2026-11-09T11:20:33Z,reedapt,0.1.0,Reedapt <support@reedapt.com>,MIT,45260,The official Python library for the Reedapt API.
+2026-11-09T11:21:57Z,dansur-hm,1.0.0,Osvaldo Gramaxo Freitas,"MIT License Copyright (c) 2024 DANSur Team Permission is hereby granted, free of charge, to any per…",80774694,DANSur: Dual-stage Artificial Neural Surrogate for higher-mode gravitational wave signals
+2026-11-09T11:25:03Z,minimindslab-datetime-window-truncate,0.1.0,MiniMindsLab,MIT,7223,"Truncate datetimes to a fixed window size in seconds, minutes, hours, or days with optional timezone-aware handling."
+2026-11-09T11:30:33Z,invenio-pidslink,0.1.1,Donald Doe Seanedzu <donald.seanedzu@wacren.net>,MIT,19095,InvenioRDM persistent identifier provider for ARKs minted through WACREN PIDsLink.
+2026-11-09T11:31:16Z,odoo-addon-helpdesk-mgmt-livechat,18.0.1.0.0.2,"Escodoo, Odoo Community Association (OCA)",AGPL-3,44135,Create ticket from livechat conversation
+2026-11-09T11:32:39Z,semcacher,0.1.0,Japanjot Singh,"MIT License Copyright (c) 2026 Japanjot Singh Permission is hereby granted, free of charge, to any…",78513,"A semantic cache for LLM calls: reuse answers to questions that mean the same thing, and track hit rate and money saved."
+2026-11-09T11:32:49Z,hox-cli,0.1.0,,,94133,"Drive our SlapOS work on Rapid.Space (master, project, compute node) from the terminal"
+2026-11-09T11:33:50Z,henzo,0.0.1,,,1862,
+2026-11-09T11:34:02Z,recala-cli,0.6.0,Recala,,458657,"Drive your Recala company from the terminal, by hand or through an AI agent."
+2026-11-09T11:39:05Z,gserp,0.2.0,NodeMaven,MIT,236393,"Self-hosted Google SERP API: Google Search results as JSON from a real Chrome browser through your own residential proxy. HTTP API, CLI and MCP server."
+2026-11-09T11:40:02Z,hikari-risa,1.0.0,Rayakame <github.android206@passmail.net>,MIT,193906,A component handler for hikari with first-class Components V2 support.
+2026-11-09T11:41:02Z,gabriel-calendar,0.1.0,,MIT,26149,Async SDK for the Gabriel Calendar service
+2026-11-09T11:43:59Z,prokapeak,0.1.0,"Alexandre Dentler, Julian Trouillon",MIT,50528,ProkaPeak: assign MACS3 peaks to target genes through TSS and gene-start windows
+2026-11-09T11:47:53Z,apiguard-cli,0.1.0,,,108436,Graph-guided API authorization scanner: finds BOLA/IDOR leaks with multi-identity differential testing.
+2026-11-09T11:48:47Z,dthinking,0.1.0,Developer <developer@example.com>,MIT,238633,"A modular, production-grade Deep Reinforcement Learning framework built on PyTorch."
+2026-11-09T11:51:00Z,dzwallet,0.2.0,,MIT,21977,"Python SDK for the DzWallet payment API (CIB / Edahabia via SATIM, payment links and QR codes). No dependencies."
+2026-11-09T11:58:59Z,steelproxy,0.1.0,,ISC,35190,Python client for the Steel Proxy Reseller and Franchise API
+2026-11-09T12:04:01Z,playlist-bridge,0.2.0,Basar Tuncay,MIT,42920,"Migrate YouTube Music playlists into Spotify Liked Songs, with fuzzy matching and resumable runs."
+2026-11-09T12:08:41Z,git2tweet,0.1.0,Vedant,,17299,Turn your git commits into tweet drafts with an AI agent and human approval
+2026-11-09T12:09:54Z,metastable,0.1.0,,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",224271,"Stable Diffusion middleware: pipeline generators, device selection and checkpoint merging"
+2026-11-09T12:10:03Z,mindwire,0.1.0,Oblien,Apache-2.0,32111,Python SDK for building products with MindWire's shared coding-agent runtime.
+2026-11-09T12:10:29Z,morphiaone-mcp,0.1.0,MorphiaOne,MIT,26390,"MCP server for MorphiaOne shade digitisation, a thin client of the public V1 API."
+2026-11-09T12:11:53Z,collective.blicca.galleryreflist,1.0.0a1,Maik Derstappen <md@derico.de>,GPL-2.0-or-later,385692,"Gallery section block for the Aurora editor: a heading, a text and a Reference List composed into one block, with registrable styles"
+2026-11-09T12:12:57Z,hrns-slim,0.0.21,,MIT,523838,"Programmable Pydantic AI agents with an ACP adapter, slim package"
+2026-11-09T12:13:47Z,aice-data-quality,0.1.0,Adanian Labs <engineering@adanianlabs.io>,MIT,171353,"Data quality SDK: checks, one result contract, one destination"
+2026-11-09T12:14:25Z,yld.run,0.1.0,,"MIT License Copyright (c) 2026 Sam Stanier Permission is hereby granted, free of charge, to any per…",242885,"yld: programmatic problem authoring, solve requests and canonical `.yld` results."
+2026-11-09T12:14:56Z,viktorbarzin-telemetry,0.1.0,Viktor Barzin,MIT,29223,"Product events, errors and JSON logs to the viktorbarzin.me telemetry standard"
