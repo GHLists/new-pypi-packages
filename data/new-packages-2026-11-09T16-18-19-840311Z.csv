@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T15:23:42Z,pymusicbrainz,0.1.0,,MIT,71634,Typed sync + async client for the MusicBrainz WS/2 API
+2026-11-09T15:25:57Z,ai-models-wenhai,0.1.0,European Centre for Medium-Range Weather Forecasts (ECMWF),,33771,WenHai ocean forecasting adapter for ai-models and ONNX Runtime
+2026-11-09T15:26:00Z,autonoop,0.0.2,AutoNoop,MIT,1647,Name reservation placeholder.
+2026-11-09T15:26:10Z,ai-models-xihe,0.1.0,European Centre for Medium-Range Weather Forecasts (ECMWF),,52252,XiHe ocean forecasting adapter for ai-models and ONNX Runtime
+2026-11-09T15:26:22Z,proxima-warp,1.0.3,Leonardo Zamudio,MIT,181077,Motor relativista Bobrick-Martire + PSO para simulación y optimización de viajes interestelares
+2026-11-09T15:27:00Z,autonoop.com,0.0.2,AutoNoop,MIT,1693,Name reservation placeholder.
+2026-11-09T15:28:32Z,cairn-handoff,0.2.1,sondc,MIT,131608,"Hand off agent work between sessions, accounts and agents without re-explaining."
+2026-11-09T15:29:14Z,netcfg-vault,0.4.0,,MIT,30135,批量备份和对比网络设备配置的命令行工具
+2026-11-09T15:31:50Z,forgingstack-atecp,0.7.0,Jonathan D Battles,LicenseRef-Proprietary,12863,Zero-dependency Python client and OpenSSL-backed offline verifier for ForgingStack ATECP evidence and witness checkpoints.
+2026-11-09T15:33:41Z,zyql-qv,2.0.0,Serena Quantum Solutions,Apache-2.0,28898,QV-ZYQL: suite de vulnerabilidade e camada agentica auditavel do ecossistema ZEPHIRUM ZYQL
+2026-11-09T15:34:24Z,bazaar-contrib-server-activity,0.3.0rc1,,Apache-2.0,116120,"The activity of the Bazaar Compute server: what the computers report, kept once, the turns and usage it adds up to, and the pages that show them"
+2026-11-09T15:41:50Z,buy-crypto-pressrelease-faq-generator,1.0.0,"""BuyCryptoPressRelease.com"" <mojo@wewinconsultants.com>",MIT,33983,"Buy Crypto Press Release FAQ Generator: Search 50 official BuyCryptoPressRelease.com FAQs in plain English. Get the best answer with a 0 to 100 confidence score, and generate the FAQ as Markdown, JSO…"
+2026-11-09T15:47:24Z,huntautogroup-texas,1.1.0,Anthony Hunt,MIT,12119,"MCP server, CLI and Python SDK for Hunt Auto Group Texas used-car data (NHTSA recalls, crash stars, EPA MPG). Read-only, no key."
+2026-11-09T15:50:13Z,langchain-leanroute,0.1.0,"""Leanroute Pte. Ltd."" <support@leanroute.dev>",Apache-2.0,11734,"LangChain integration for Leanroute, the agent-native AI gateway. ChatLeanroute routes to 100+ models across 14 providers, with cost per agent run, MCP tools on any model, failover, caching and spend…"
+2026-11-09T15:52:02Z,hhgsfa,0.1.0,Melvin Redon,MIT,19395,Strong-field approximation and analytic dipole phase for high-order harmonic generation
+2026-11-09T15:56:33Z,gridgames-examples,0.2.0,Younes Strittmatter,MIT,16004,"Example games for gridgames: Bait, Zelda and Lemmings (vgfmri4), as plain text files."
+2026-11-09T15:57:16Z,anyshell,0.1.0,David Brochart,MIT,77269,An async Python command shell with an optional Anytext frontend
+2026-11-09T15:57:46Z,art-tsf,0.0.1,JJavier98,Apache-2.0,2189,ART-TSF: Agent-Ready Transformers for Time Series Forecasting. Name reservation; the first release is coming soon.
+2026-11-09T16:00:00Z,imbi-plugin-anthropic,2.44.0,"""Gavin M. Roy"" <gavinr@aweber.com>",BSD-3-Clause,4622,Anthropic workload identity federation for Imbi
+2026-11-09T16:01:08Z,wizard-central-toolkit,0.2.0,rewardsbycode-eng,Apache-2.0,327180,Sovereign Developer Utilities Fleet & AI Router
+2026-11-09T16:02:18Z,aetherruntime-arch,2.0.0,Samir Baladi <gitdeeper@gmail.com>,,127231,Reference implementation of the falsification-first runtime assurance architecture for multi-agent software ecosystems
+2026-11-09T16:03:21Z,ozaki-blackwell,0.1.0,Shaban Ejupi,Ozaki-Blackwell Restricted Source License 1.0 -- free for private study and open academic research;…,1567726,"FP64, double-double and triple-double matrix products from the INT8 tensor cores of NVIDIA GPUs (Ozaki scheme II)"
+2026-11-09T16:12:05Z,trailscope,0.1.0,Trailscope contributors,Apache-2.0,48264,"Trailscope SDK for Python: non-blocking API request logging for Django, FastAPI/Starlette and Celery"
+2026-11-09T16:12:17Z,domon-mcp-server,0.1.0,Sebastian Wolschke,,91504,"MCP server for analysing Icinga 2 monitoring: problems, history, acknowledgements, comments and downtimes."
+2026-11-09T16:12:26Z,reqlo-sdk,0.1.0,ReQlo,MIT,20720,Server-side Python client for ReQlo: authorization for AI agents.
+2026-11-09T16:14:53Z,sp-ontolint,2.1.0rc1,Otello M Roscioni,MIT OR Apache-2.0,1407567,"Get an instant, user-friendly snapshot of your ontology’s size and health, right in your CI pipeline"
+2026-11-09T16:15:20Z,elan-agentkit-contracts,0.1.0,Elan <support@openelan.ai>,Apache-2.0,173143,"The wire models, manifest schema and deploy spec the Elan SDK and CLI share with the platform"
+2026-11-09T16:15:26Z,pygym-cityu,0.0.0,pygym_cityu_contributors,MIT,23723,"Micro-exercises that teach Python built-ins, right inside your coding environment."
+2026-11-09T16:17:29Z,ghost-tracer,0.1.0,,,6376,Professional observability for your AI agent. Trace every tool call locally.
