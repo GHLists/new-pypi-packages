@@ -1,0 +1,26 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T06:20:40Z,mani_agentic_terminal,0.1.0,Agentyo-Manikanta <manikantasai.padala@agentyo.ai>,,5464,An MCP which add terminal capabilitis to an agent
+2026-11-09T06:23:16Z,baresexp,1.0.0,Zayar Moe Kaung <zayarmoekaung@gmail.com>,MIT,15050,Minimal token S-expression format AI agent instruction language
+2026-11-09T06:23:42Z,praxis-agent-sdk,0.11.0,Facets Cloud,Apache-2.0,157493853,Python SDK for the Praxis coding-agent harness — one agent API across every model and provider
+2026-11-09T06:25:51Z,zrb-board,0.1.1,,AGPL-3.0-or-later,2039119,"A turn-based markdown board with annotated margins, for a human and a coding agent"
+2026-11-09T06:30:58Z,tasklease,0.1.0,,Apache-2.0,567889,A leased task board for coordinating agents and workers
+2026-11-09T06:32:11Z,anndataoom-fast,0.1.0,omicverse contributors,GPL-3.0-or-later,22639314,Multithreaded C++ kernels for out-of-core single-cell preprocessing on top of anndataoom
+2026-11-09T06:32:31Z,generalcontext,0.2.0,General Context Labs <research@generalcontextlabs.com>,Apache-2.0,37465,Record your agent's OpenAI and Anthropic calls for General Context review and testing.
+2026-11-09T06:32:45Z,hehua704-selftest,0.0.1,hehua704,MIT,1973,Throwaway package used to verify the hehua704 PyPI account and token.
+2026-11-09T06:40:12Z,coverage-isolate,0.1.0,,MIT,33721,Isolated coverage reporting for Python tests.
+2026-11-09T06:45:30Z,mavflow,1.0,TahsinCr <Tahsincr@outlook.com>,MIT,130550,"MAVLink connection, routing, and application protocol tools for Python."
+2026-11-09T06:48:58Z,gateadapt,0.4.0,taneemishere <taneemishere@gmail.com>,Apache-2.0,131813,CI for agent changes. Measurement-gated admission of harness mutations (COMMIT / REJECT / ABSTAIN).
+2026-11-09T06:51:30Z,kberry,0.1.0,Kalkar IT Solutions,BSD-3-Clause,24565,FT1.2 and cEMI for the Weinzierl KNX BAOS 838 kBerry and similar serial KNX modules
+2026-11-09T06:52:40Z,wsplab,0.2.0,Ahmed Dawod,MIT,240304,"Weight-space programming: let an LLM read, edit and write neural network weights, end to end."
+2026-11-09T06:54:03Z,alephgrid,0.1.0,Alephgrid contributors,Apache-2.0,110008031,"Open-source spreadsheet for data that doesn't fit in a spreadsheet: tens of millions of rows, Excel formulas, SQL when you want it."
+2026-11-09T06:55:19Z,llm-conductor,1.0.0,Necrofox,MIT,226384,CLI pipeline for localizing nested JSON with Ollama or OpenAI-compatible LLMs
+2026-11-09T07:01:15Z,liulab-llms,2026.11.0,Liu Lab,MIT,238247,"Calls language models for lab repos through one shared gateway, with a response cache for the whole lab and a spend ceiling."
+2026-11-09T07:01:37Z,moss-customer-tlbg,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1441,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-09T07:02:22Z,jupyterlab-advanced-file-browser-extension,0.1.2,Stellars Henson <konrad.jelen@gmail.com>,BSD-3-Clause,354831,"Folders that unfold in place as a tree, Unix Style Sorting and Open in Terminal for the JupyterLab file browser"
+2026-11-09T07:04:46Z,moss-ems,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1405,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-09T07:04:51Z,ugbio-consensus,1.34.0,"Gat Krieger <gat.krieger@ultimagen.com>, Doron Shem-Tov <doron.shemtov@ultimagen.com>",Apache-2.0,120108,"Ultima Genomics consensus (ReadFuserAlignSort) duplicate marking, performance & duplex reports"
+2026-11-09T07:04:58Z,moss-hlbg,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1406,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-09T07:05:10Z,moss-ilka,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1400,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-09T07:06:55Z,agentland,1.0.0,,MIT,2195288,Python SDK for AgentLand (agentland.us)
+2026-11-09T07:13:05Z,splittrace,0.1.0,Ryu Koda,MIT,33652,Metadata-first audit of derived samples across existing ML splits
+2026-11-09T07:13:35Z,annoscript,0.1.0,stevenybw,MIT,642579,AnnoScript: Programmable AI Annotation
