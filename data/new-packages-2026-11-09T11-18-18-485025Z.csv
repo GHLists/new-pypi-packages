@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T10:17:44Z,bouba-sens,0.5.11,Clement Saillant <c.saillant@gmail.com>,MIT,208828,Cross-modal plasticity benchmark — Hypneum Lab
+2026-11-09T10:21:53Z,odoo-addon-sy-crm-salesperson-planner-extended,18.0.1.0.0,Sygel,AGPL-3,41483,Extend salesperson planner rescheduling functionality
+2026-11-09T10:23:04Z,chaptr,0.1.1,,,53093,Build independent Markdown document projects with shared variables and CSS themes.
+2026-11-09T10:27:00Z,nirs4all-preflight,0.1.7,nirs4all contributors,CECILL-2.1 OR AGPL-3.0-or-later,18875443,Portable NIRS dataset qualification with Rust protocols and Methods diagnostics
+2026-11-09T10:32:05Z,meshiq-agent-patrol,0.0.1,meshIQ,,2355,Reserved for meshIQ Agent Patrol; the first release is coming soon.
+2026-11-09T10:33:34Z,weftcodec,1.2.0,WeftFS contributors,Apache-2.0,207237,"Independent Python reader for Weft WFT1 frames and canonical WCB, with a PyTorch-facing dataset over a WeftFS mount"
+2026-11-09T10:34:01Z,coinxview,1.0.0,CoinXview,MIT,9359,"Free crypto price API client: prices, market cap, OHLC candles, Fear & Greed and risk scores. No API key, no dependencies."
+2026-11-09T10:35:16Z,obsilient,0.0.0,,Apache-2.0,2766,Placeholder release reserving the name. Obsilient ships with its first public release.
+2026-11-09T10:35:54Z,normform,0.1.2,"Per Egil Kummervold, Magnus Breder Birkenes","Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",129976,"[Experimental v0.1] Context-aware Norwegian morphological standardization, alternative generation, and style auditing"
+2026-11-09T10:37:45Z,MatRiFFlow,2.0.3,"Ihor Radchenko <yantar92@posteo.net>, ""Oleksandr I. Malyi"" <oleksandrmalyi@gmail.com>",MIT,503428,Python and command line tools for iterative VASP workflow development. Compatible with existing workflow libraries.
+2026-11-09T10:39:59Z,tff-mcp,0.1.0,Mohammad Abbasi,MIT,134471,"Unofficial read-only MCP server for tff.org (Turkish Football Federation): standings, fixtures, match details, scorers"
+2026-11-09T10:41:13Z,pdfdata-api,0.2.0,PDF Database Team <contact@pdfdata.org>,BSD-3-Clause,11880,Python client for the PDFData materials database API
+2026-11-09T10:41:59Z,mediathek-mcp,0.1.0,Mohammad Abbasi,MIT,26226,"Unofficial read-only MCP server for the German public broadcasters' Mediathek — search ARD, ZDF, 3sat, ARTE, Phoenix and more via MediathekViewWeb"
+2026-11-09T10:42:09Z,vwatcher,2.0.0,Sikt - Norwegian Agency for Shared Services in Education and Research <kontakt@sikt.no>,Apache-2.0,30998,Software version watcher for large backbone networks
+2026-11-09T10:42:47Z,gama-mandate,0.11.1,The Mandate Authors,MIT,91063,"Signed, verifiable business commitments for AI agents: canonical commitment, off-host Ed25519 grant, one-shot redemption, hash-chained receipts."
+2026-11-09T10:43:30Z,stdraw,0.7.13,stdraw contributors,MIT,524537,"Planarity-aware system-thinking (CLD) diagram engine with honest, metric-backed quality certificates"
+2026-11-09T10:43:35Z,vi-api-client,6.1.1,Michael,MIT,212646,Async Python client for Viessmann Climate Solutions API
+2026-11-09T10:45:57Z,animetimeline,0.1.0,lucky845,Apache-2.0,43364,从 bangumi-data + bgm.tv 生成番剧播出日历（Markdown 年度表 + iCalendar 订阅）
+2026-11-09T10:46:55Z,ushabti,0.1.0.dev0,,Apache-2.0,79428,"SDK for Ushabti, an open-source DevOps agent harness: spells, implements, weighing, and papyrus."
+2026-11-09T10:47:50Z,ndgrad,0.1.0,xaanton,MIT,22018,An educational tensor and scalar automatic differentiation engine.
+2026-11-09T10:50:04Z,mintlyr,0.1.1,,MIT,11861,Track AI cost per feature and per user. Zero dependencies.
+2026-11-09T10:51:11Z,nexusagent-runtime,0.4.0,,MIT,64392,"A small, modular AI agent runtime in Python — agents, providers, tools and a readable core."
+2026-11-09T10:53:16Z,glassbox-audit,0.8.0,Thanut Jongteerathanachote <winxtxr.github@gmail.com>,MIT,85427,Explainable LLM triage that cites its evidence — and a harness that checks whether the explanation is faithful.
+2026-11-09T10:53:42Z,ganiu-remote,2.1.0,Ganiu,LicenseRef-Proprietary,87740,嘎妞连接器 — 让 App 指挥你电脑上的 Claude Code / Codex / Hermes（中继 + 局域网直连双通道）
+2026-11-09T10:54:03Z,trthaber-mcp,0.1.0,Mohammad Abbasi,MIT,122559,"Unofficial read-only MCP server for trthaber.com (TRT Haber) news: headlines, breaking news, articles, search"
+2026-11-09T10:55:51Z,odoo-addon-mrp-weighing-picking-batch,18.0.1.0.0.2,"Tecnativa, Odoo Community Association (OCA)",AGPL-3,23108,Close MRP from batch picking
+2026-11-09T11:00:36Z,distillo,0.2.0,Andrea Acanfora <andreaacanfora95@gmail.com>,MIT,79153,"Distill lectures, courses and podcasts into the few key points worth learning, each linked to the exact moment it was said."
+2026-11-09T11:00:47Z,even-simpler-salesforce,0.0.1,Utsav Singh,Apache-2.0,42897,"A modern, typed, async-first Salesforce client for Python (under active development)."
+2026-11-09T11:02:20Z,msdlcdetails,1.0.0,Cliffano Subagio,Apache-2.0,29840,Tiny python library for retrieving Microsoft Download Center page details
+2026-11-09T11:03:32Z,badsha-agentic-terminal,0.1.0,abdul Badsha <skbad911@gmail.com>,,5429,An MCP which adds terminal capabilities to an agent
+2026-11-09T11:07:30Z,imuninn,0.1.0,Jinqi Wei,MIT OR Apache-2.0,256809,"PC-side client for iMuninn: turn an iPhone into a network sensor node (camera, IMU, ARKit pose, LiDAR depth)"
+2026-11-09T11:10:03Z,visor-kit,0.1.0,,Apache-2.0,62290,"The Visor Development Kit from Python: Meta's glasses through Visor, over adb or the network."
+2026-11-09T11:10:35Z,vb6decompiler,0.2.0,vb6decompiler authors,MIT,171343,"Evidence-based recovery of native-compiled VB6 programs: procedures, literals, SQL, form blobs, DataReports"
+2026-11-09T11:13:12Z,sassafras,0.5.0,Oliver Hammond,BSD-3-Clause,7734457,"Sassafras: Small Angle Scattering Structure- And Form-factor Rapid ASsessment. A SANS/SAXS data viewer with live sasmodels overlays, fitting and IQuana export"
+2026-11-09T11:14:45Z,kedi-notebook,0.1.0,,MIT,17570980,Local interactive notebook for the Kedi Programming Language
+2026-11-09T11:16:17Z,drybag,0.7.1,Nezhinskiy,MIT,2174919,"Private layers for coding agents, delivered into their sessions with nothing tracked in the project: memory and note sync, machine restore, session hints, plan and doc linting, and a commit-attributi…"
