@@ -8,64 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 09:18 UTC
+## Latest list — 2026-11-09 10:18 UTC
 
-New packages created between 2026-11-09 08:18 UTC and 2026-11-09 09:18 UTC.
+New packages created between 2026-11-09 09:18 UTC and 2026-11-09 10:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-09T09-18-31-695952Z.csv)
+[Full CSV](data/new-packages-2026-11-09T10-18-22-447196Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-09 08:20:23 | [agentdodont](https://pypi.org/project/agentdodont/) | 0.1.0 | Moshe Sipper | 117.2 kB | A rules engine between an AI agent and its tools, built assuming the model can… |
-| 2026-11-09 08:23:57 | [tingee-sdk](https://pypi.org/project/tingee-sdk/) | 0.4.0 | Tingee <developer@heno.vn> | 44.8 kB | Tingee Open API SDK for Python |
-| 2026-11-09 08:35:15 | [build-item](https://pypi.org/project/build-item/) | 0.1.2 |  | 5.1 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
-| 2026-11-09 08:35:17 | [swiftdoc](https://pypi.org/project/swiftdoc/) | 0.6.1 | Santiago Vasquez <kur4ise@gma… | 20.5 MB | A zero-config, fast Python documentation generator. Installs the swiftdoc comma… |
-| 2026-11-09 08:37:24 | [certbot-dns-hosttech](https://pypi.org/project/certbot-dns-hosttech/) | 0.1.0 | Bunkerity | 80.2 kB | Hosttech DNS authenticator plugin for Certbot |
-| 2026-11-09 08:38:47 | [cheso-cli](https://pypi.org/project/cheso-cli/) | 0.2.0 | cheso | 119.9 kB | Use Cheso from your terminal or coding agent: research reports, PPT, web pages,… |
-| 2026-11-09 08:42:07 | [smolagents-briq](https://pypi.org/project/smolagents-briq/) | 0.1.0 |  | 18.0 kB | Persistent briq sandbox executor for smolagents |
-| 2026-11-09 08:44:52 | [nirs4all-access](https://pypi.org/project/nirs4all-access/) | 0.1.0 |  | 92.0 kB | Standard-library project-token authentication contract |
-| 2026-11-09 08:46:46 | [NuPatch3D](https://pypi.org/project/NuPatch3D/) | 1.0.0b1 | "J. Wang" <jinbowang@mail.ust… | 97.1 kB | A napari plugin for 3D cell label correction using GMM and Deep Learning. |
-| 2026-11-09 08:47:34 | [duckdb-core-ext-vss](https://pypi.org/project/duckdb-core-ext-vss/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB vss extension packaged for pip |
-| 2026-11-09 08:47:47 | [nolo-voluma](https://pypi.org/project/nolo-voluma/) | 0.1.0 | Festo Kasalu Magembe <festoma… | 8.2 MB | VOLUMA: a native macOS explorer that reads and writes NTFS, exFAT and FAT and b… |
-| 2026-11-09 08:48:54 | [tujia-nlp](https://pypi.org/project/tujia-nlp/) | 0.2.0 | TujiaNLP contributors | 46.9 kB | Tujia orthography utilities: tone notation, IPA to Ye conversion, phone normali… |
-| 2026-11-09 08:49:22 | [diffusr](https://pypi.org/project/diffusr/) | 0.1.0 |  | 23.0 kB | The diffusr API client: make videos, images and music from code. Free price che… |
-| 2026-11-09 08:50:57 | [duckdb-core-ext-vortex](https://pypi.org/project/duckdb-core-ext-vortex/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB vortex extension packaged for pip |
-| 2026-11-09 08:52:55 | [duckdb-core-ext-unity_catalog](https://pypi.org/project/duckdb-core-ext-unity_catalog/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB unity_catalog extension packaged for pip |
-| 2026-11-09 08:53:30 | [ketrs](https://pypi.org/project/ketrs/) | 0.1.5 | Elliott Ashby | 78.1 MB | Quantum computer simulation backend written in Rust |
-| 2026-11-09 08:53:46 | [kazaplan-mcp](https://pypi.org/project/kazaplan-mcp/) | 0.1.0 | Pierre-Alexandre Dupuy | 131.3 kB | Serveur MCP non officiel pour le concepteur 3D Leroy Merlin (Virtual Home, mote… |
-| 2026-11-09 08:54:19 | [duckdb-core-ext-ui](https://pypi.org/project/duckdb-core-ext-ui/) | 0.0.0 | DuckDB | 1.0 kB | Reserved name for the DuckDB ui extension packaged for pip |
-| 2026-11-09 08:54:55 | [kded](https://pypi.org/project/kded/) | 0.3.0 | Trung Nguyen <trungnth@gmail.… | 594.1 kB | Kernel density estimation via diffusion (Botev et al. 2010) for data in any dim… |
-| 2026-11-09 08:55:02 | [novoflow](https://pypi.org/project/novoflow/) | 0.1.0 | Joel Gedeon Asa <16p010@polyt… | 78.5 kB | High-Throughput De Novo Peptide Sequencing via Continuous-Time Discrete Flow Ma… |
-| 2026-11-09 08:55:09 | [refdatakit](https://pypi.org/project/refdatakit/) | 0.1.0 | RefDataKit contributors | 71.5 kB | Source-aware reference data and validation tools |
-| 2026-11-09 08:55:26 | [duckdb-core-ext-tpch](https://pypi.org/project/duckdb-core-ext-tpch/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB tpch extension packaged for pip |
-| 2026-11-09 08:55:37 | [livetennisapi-export](https://pypi.org/project/livetennisapi-export/) | 0.1.0 | Live Tennis API <hello@livete… | 130.8 kB | Export Live Tennis API data (matches, fixtures, players, rankings, tournaments)… |
-| 2026-11-09 08:56:41 | [duckdb-core-ext-tpcds](https://pypi.org/project/duckdb-core-ext-tpcds/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB tpcds extension packaged for pip |
-| 2026-11-09 08:56:47 | [aria-voice](https://pypi.org/project/aria-voice/) | 0.0.0 | Synthpop Inc | 1.5 kB | Reserved name. Synthpop Inc placeholder that raises an error on import. |
-| 2026-11-09 08:57:23 | [grape-quickstart](https://pypi.org/project/grape-quickstart/) | 0.1.4 | Grape | 22.1 kB | One-command installer and launcher for the Grape platform |
-| 2026-11-09 08:57:39 | [securai-mcp-scanner](https://pypi.org/project/securai-mcp-scanner/) | 0.2.0 | Ellie Bidarigh | 73.7 kB | Security scanner for Model Context Protocol (MCP) server configs and live tool… |
-| 2026-11-09 08:57:55 | [duckdb-core-ext-sqlsmith](https://pypi.org/project/duckdb-core-ext-sqlsmith/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB sqlsmith extension packaged for pip |
-| 2026-11-09 08:59:08 | [duckdb-core-ext-sqlite](https://pypi.org/project/duckdb-core-ext-sqlite/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB sqlite extension packaged for pip |
-| 2026-11-09 09:00:21 | [duckdb-core-ext-spatial](https://pypi.org/project/duckdb-core-ext-spatial/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB spatial extension packaged for pip |
-| 2026-11-09 09:01:18 | [bundesliga-mcp](https://pypi.org/project/bundesliga-mcp/) | 0.1.0 | Mohammad Abbasi | 28.1 kB | Unofficial read-only MCP server for German football — Bundesliga fixtures, live… |
-| 2026-11-09 09:01:26 | [duckdb-core-ext-quack](https://pypi.org/project/duckdb-core-ext-quack/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB quack extension packaged for pip |
-| 2026-11-09 09:01:42 | [neighbourhood](https://pypi.org/project/neighbourhood/) | 1.0.0 | Benedikt Waldvogel <mail@bwal… | 29.2 kB | Discover hosts on directly connected IPv4 networks using ARP |
-| 2026-11-09 09:01:50 | [foreshore](https://pypi.org/project/foreshore/) | 0.0.1 | Karla Burelo and Vanessa Leite | 150.7 kB | Python package for training a network with Rockpool. |
-| 2026-11-09 09:02:35 | [duckdb-core-ext-postgres](https://pypi.org/project/duckdb-core-ext-postgres/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB postgres extension packaged for pip |
-| 2026-11-09 09:03:06 | [mecha-keys](https://pypi.org/project/mecha-keys/) | 0.1.0 | JoaquinRuiz | 1.2 MB | Local dashboard that tells you how much life is left on your AI API keys. |
-| 2026-11-09 09:03:10 | [ragmcp-cli](https://pypi.org/project/ragmcp-cli/) | 0.2.0 | Masih Moafi | 388.1 kB | Scoped hybrid-RAG CLI and MCP server with BM25, vector retrieval, reranking, an… |
-| 2026-11-09 09:05:28 | [heap-profiler](https://pypi.org/project/heap-profiler/) | 0.2.0 | Yoav Alon | 11.0 MB | Sampling heap profiler for CPython with pprof output, written in Rust |
-| 2026-11-09 09:05:42 | [duckdb-core-ext-odbc](https://pypi.org/project/duckdb-core-ext-odbc/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB odbc extension packaged for pip |
-| 2026-11-09 09:06:56 | [duckdb-core-ext-mysql](https://pypi.org/project/duckdb-core-ext-mysql/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB mysql extension packaged for pip |
-| 2026-11-09 09:07:48 | [arkhai-kit-deal-lifecycle-buyer](https://pypi.org/project/arkhai-kit-deal-lifecycle-buyer/) | 0.1.0 |  | 13.3 kB | Buyer-owned lifecycle evidence, retention and case export. |
-| 2026-11-09 09:08:05 | [arkhai-kit-deal-lifecycle-client](https://pypi.org/project/arkhai-kit-deal-lifecycle-client/) | 0.1.0 |  | 4.5 kB | Signed buyer client for the storefront lifecycle API. |
-| 2026-11-09 09:08:06 | [duckdb-core-ext-motherduck](https://pypi.org/project/duckdb-core-ext-motherduck/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB motherduck extension packaged for pip |
-| 2026-11-09 09:08:20 | [arkhai-kit-deal-servicing](https://pypi.org/project/arkhai-kit-deal-servicing/) | 0.1.0 |  | 35.6 kB | Seller evidence, delivery-end journals and lifecycle observation. |
-| 2026-11-09 09:08:36 | [arkhai-kit-delivery-apprise](https://pypi.org/project/arkhai-kit-delivery-apprise/) | 0.1.1 |  | 2.9 kB | An Apprise delivery sink: revealed marketplace events to any service Apprise re… |
-| 2026-11-09 09:08:52 | [arkhai-kit-resource-pools-client](https://pypi.org/project/arkhai-kit-resource-pools-client/) | 0.1.0 |  | 3.1 kB | Typed resource-pool administration methods over any transport offering authenti… |
-| 2026-11-09 09:09:08 | [arkhai-vms-negotiation](https://pypi.org/project/arkhai-vms-negotiation/) | 0.6.0 |  | 1.0 MB | VM negotiation policies, the seller round, and the RL strategy, shared by the V… |
-| 2026-11-09 09:09:15 | [duckdb-core-ext-legacy_parser](https://pypi.org/project/duckdb-core-ext-legacy_parser/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB legacy_parser extension packaged for pip |
-| 2026-11-09 09:09:22 | [arkhai-vms-settlement](https://pypi.org/project/arkhai-vms-settlement/) | 0.5.0 |  | 6.3 kB | VM settlement terms, proposals, and fulfillment helpers, shared by the VM store… |
-| 2026-11-09 09:10:23 | [duckdb-core-ext-lance](https://pypi.org/project/duckdb-core-ext-lance/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB lance extension packaged for pip |
-| 2026-11-09 09:12:56 | [foreman-plane](https://pypi.org/project/foreman-plane/) | 0.1.0 | Foreman Plane contributors | 83.0 kB | A task governance plane that runs outside the agent harness: dispatch, dependen… |
-| 2026-11-09 09:13:41 | [Point-Cloud-clustering](https://pypi.org/project/Point-Cloud-clustering/) | 1.0 | HoaYaling | 15.0 kB | this is a program for Clustering |
-| 2026-11-09 09:17:28 | [outcrawl-haystack](https://pypi.org/project/outcrawl-haystack/) | 0.1.0 | Outcrawl <hi@outcrawl.ai> | 27.7 kB | Haystack components for Outcrawl web search and page fetching |
+| 2026-11-09 08:56:56 | [quietsec](https://pypi.org/project/quietsec/) | 0.3.3 | quietsec contributors | 114.4 kB | Python 静态安全扫描：29 条规则覆盖 OWASP Top 10，输出可直接交付客户的 HTML 审计报告 |
+| 2026-11-09 09:07:26 | [sanntis](https://pypi.org/project/sanntis/) | 1.1.0 | Santiago Sanchez Fragoso <fra… | 563.6 kB | SMBGC Annotation using Neural Networks Trained on Interpro Signatures |
+| 2026-11-09 09:27:13 | [ms-word-mcp](https://pypi.org/project/ms-word-mcp/) | 0.1.0 | ykuwai | 575.5 kB | Real-time Microsoft Word control on Windows and macOS: an MCP server that works… |
+| 2026-11-09 09:36:03 | [jarnvid](https://pypi.org/project/jarnvid/) | 0.2.1 | Noah Syrkis | 23.3 kB | Complex structures as frozen JAX dataclasses, made algebraic: write for one ins… |
+| 2026-11-09 09:38:50 | [plumeswift](https://pypi.org/project/plumeswift/) | 0.1.0a4 |  | 6.3 MB | Research tools for 3D wind fields, particle dispersion, and liquid hydrogen rel… |
+| 2026-11-09 09:42:43 | [alacart](https://pypi.org/project/alacart/) | 0.1.0 | Alacart | 79.8 kB | Async Python client for the Alacart public API |
+| 2026-11-09 09:45:37 | [django-mvp-community](https://pypi.org/project/django-mvp-community/) | 0.1.0 | Samuel Jennings <samuel.scott… | 92.4 kB | Notifications, mail and activity pages for django-mvp projects, built on establ… |
+| 2026-11-09 09:45:41 | [affable](https://pypi.org/project/affable/) | 0.3.0 | Yixuan Xu | 54.7 kB | Command-line client for affable, a tiny model hosting service. |
+| 2026-11-09 09:46:03 | [HSP-Lab](https://pypi.org/project/HSP-Lab/) | 0.0.1 |  | 1.5 kB | Placeholder – coming soon |
+| 2026-11-09 09:46:45 | [inference-engine](https://pypi.org/project/inference-engine/) | 0.1.0a1 | DataRoad Inc, Delaware, USA,… | 1.6 MB | Native Rust inference foundation with checked RDF rule-profile compilation |
+| 2026-11-09 09:49:00 | [freefox](https://pypi.org/project/freefox/) | 0.2.2 | Yves Thoukam <thoukamy@gmail.… | 169.1 kB | Reliable, resumable upload of ROS 2 bags from robots to Google Drive, rsync/NAS… |
+| 2026-11-09 09:49:33 | [cpp-risk-analyzer](https://pypi.org/project/cpp-risk-analyzer/) | 1.1.0 |  | 103.5 kB | Predicts which files a change in a C++ codebase will ripple into, using the inc… |
+| 2026-11-09 09:49:52 | [typhoon-ocr2](https://pypi.org/project/typhoon-ocr2/) | 0.1.0 | Surapon Nonesung | 50.4 kB | Parse Thai and English documents (PDFs and images) into layout elements and Mar… |
+| 2026-11-09 09:51:23 | [basecamp-mcp-server](https://pypi.org/project/basecamp-mcp-server/) | 1.0.0 | George Antonopoulos | 231.8 kB | MCP server that connects Claude, Cursor and other AI assistants to Basecamp 3 a… |
+| 2026-11-09 09:52:14 | [basha](https://pypi.org/project/basha/) | 1.0.0 | Bajil Mohammed E.P. | 52.5 kB | A modular Python library for sentiment analysis and text intelligence |
+| 2026-11-09 09:52:33 | [mindforge-memory](https://pypi.org/project/mindforge-memory/) | 6.4.1 |  | 1.4 MB | AI Agent 终身记忆系统 - 四层记忆架构 · 知识图谱 · 多模态支持 |
+| 2026-11-09 09:52:47 | [amazon-s3-vectors-haystack](https://pypi.org/project/amazon-s3-vectors-haystack/) | 0.0.1 | deepset GmbH <info@deepset.ai> | 43.5 kB | Haystack integration for amazon_s3_vectors |
+| 2026-11-09 09:52:56 | [finaira-release](https://pypi.org/project/finaira-release/) | 0.1.0 |  | 33.2 kB | Release tooling for trunk-based repositories: RC and final tags, Azure DevOps d… |
+| 2026-11-09 09:53:21 | [duckdb-core-ext-shell](https://pypi.org/project/duckdb-core-ext-shell/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB shell extension packaged for pip |
+| 2026-11-09 09:54:43 | [duckdb-core-ext-parquet](https://pypi.org/project/duckdb-core-ext-parquet/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB parquet extension packaged for pip |
+| 2026-11-09 09:56:01 | [duckdb-core-ext-json](https://pypi.org/project/duckdb-core-ext-json/) | 0.0.0 | DuckDB | 1.1 kB | Reserved name for the DuckDB json extension packaged for pip |
+| 2026-11-09 09:59:31 | [retrobios](https://pypi.org/project/retrobios/) | 2026.11.9 |  | 638.6 kB | Install the BIOS files emulators need, checked |
+| 2026-11-09 10:01:49 | [spaider-ros2](https://pypi.org/project/spaider-ros2/) | 0.1.0 | Spaider Studio | 8.8 kB | ROS 2 bridge that stores topics as SpAIder memory |
+| 2026-11-09 10:01:55 | [spaider-edge](https://pypi.org/project/spaider-edge/) | 0.1.0 | Spaider Studio | 19.3 kB | On-device memory for robots: SQLite, spatial recall and sync to SpAIder |
+| 2026-11-09 10:02:06 | [skilark-joy](https://pypi.org/project/skilark-joy/) | 0.11.0 | N. E. Davis | 210.1 kB | Joy on SKIjack: a concatenative language whose words are closed SKI supercombin… |
+| 2026-11-09 10:02:50 | [dag-ml-data-provider](https://pypi.org/project/dag-ml-data-provider/) | 0.2.16 | "G. Beurier" <beurier@cirad.f… | 3.6 MB | Stdlib-only ctypes shim for the dag-ml-data C ABI provider vtable. |
+| 2026-11-09 10:03:34 | [esp-morpheus](https://pypi.org/project/esp-morpheus/) | 0.9.0 | Espressif Systems (Shanghai)… | 439.9 kB | Console client for an ESP RainMaker Neo deployment |
+| 2026-11-09 10:08:01 | [contactglovesdk](https://pypi.org/project/contactglovesdk/) | 1.0.0 | Melt Interface Technologies I… | 3.0 MB | ContactGlove Python SDK V2 for ContactGlove3 Pro |
+| 2026-11-09 10:08:18 | [orange-gualbe-toolbox](https://pypi.org/project/orange-gualbe-toolbox/) | 0.1.0 | Gualberto <gualbe@gmail.com> | 422.7 kB | Utilidades visuales de ciencia de datos para Orange Data Mining. |
+| 2026-11-09 10:11:14 | [ub-mode-crapper](https://pypi.org/project/ub-mode-crapper/) | 0.1.0.post1 |  | 91.2 kB | Unofficial redistribution of unclebob/crapper: CRAP scores for Clojure, Java, G… |
+| 2026-11-09 10:11:16 | [ub-mode-dryer](https://pypi.org/project/ub-mode-dryer/) | 0.1.0.post1 |  | 52.6 kB | Unofficial redistribution of unclebob/dryer: Structural duplicate finder for Cl… |
+| 2026-11-09 10:11:17 | [ub-mode-mutator](https://pypi.org/project/ub-mode-mutator/) | 0.1.0.post1 |  | 88.2 kB | Unofficial redistribution of unclebob/mutator: Mutation testing for Clojure, Ja… |
+| 2026-11-09 10:12:54 | [valkyrie-cli](https://pypi.org/project/valkyrie-cli/) | 2026.11.9b1 |  | 189.2 kB | Valkyrie - An agentic harness that interfaces with benchmarks hosted by Vals AI |
+| 2026-11-09 10:13:08 | [secretsentinel](https://pypi.org/project/secretsentinel/) | 0.1.0 | macorifice | 51.2 kB | Detect hard-coded secrets in working trees and git history. |
+| 2026-11-09 10:14:07 | [sox-effects](https://pypi.org/project/sox-effects/) | 0.1.0 | Maxime Poli | 278.6 kB | Minimal libsox effects bindings for any array |
+| 2026-11-09 10:14:36 | [it-solutions-suite](https://pypi.org/project/it-solutions-suite/) | 1.0.0 | IT Solutions Global Corporati… | 828.4 kB | Autonomous Corporate Enterprise Suite: CorePulse + NexusShield + EchoStream |
+| 2026-11-09 10:16:01 | [theaios-core](https://pypi.org/project/theaios-core/) | 0.1.0 | Charafeddine Mouzouni <charaf… | 35.6 kB | Shared foundations of the theaios libraries: safe expressions, env interpolatio… |
+| 2026-11-09 10:18:12 | [sdk-release-kit](https://pypi.org/project/sdk-release-kit/) | 0.2.0 | Yahya | 120.9 kB | Build mobile SDK demo apps and packages, then publish them to a shared folder,… |

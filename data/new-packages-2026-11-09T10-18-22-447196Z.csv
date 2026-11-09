@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T08:56:56Z,quietsec,0.3.3,quietsec contributors,MIT,114380,Python 静态安全扫描：29 条规则覆盖 OWASP Top 10，输出可直接交付客户的 HTML 审计报告
+2026-11-09T09:07:26Z,sanntis,1.1.0,"Santiago Sanchez Fragoso <fragoso@ebi.ac.uk>, MGnify team <metagenomics-help@ebi.ac.uk>",Apache-2.0,563565,SMBGC Annotation using Neural Networks Trained on Interpro Signatures
+2026-11-09T09:27:13Z,ms-word-mcp,0.1.0,ykuwai,MIT,575525,Real-time Microsoft Word control on Windows and macOS: an MCP server that works in the document beside you
+2026-11-09T09:36:03Z,jarnvid,0.2.1,Noah Syrkis,MIT,23302,"Complex structures as frozen JAX dataclasses, made algebraic: write for one instance, vectorize over any batch."
+2026-11-09T09:38:50Z,plumeswift,0.1.0a4,,GPL-3.0-only AND LGPL-2.1-or-later,6329719,"Research tools for 3D wind fields, particle dispersion, and liquid hydrogen release"
+2026-11-09T09:42:43Z,alacart,0.1.0,Alacart,Apache-2.0,79769,Async Python client for the Alacart public API
+2026-11-09T09:45:37Z,django-mvp-community,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,92400,"Notifications, mail and activity pages for django-mvp projects, built on established Django packages"
+2026-11-09T09:45:41Z,affable,0.3.0,Yixuan Xu,MIT,54730,"Command-line client for affable, a tiny model hosting service."
+2026-11-09T09:46:03Z,HSP-Lab,0.0.1,,,1470,Placeholder – coming soon
+2026-11-09T09:46:45Z,inference-engine,0.1.0a1,"DataRoad Inc, Delaware, USA, trading as Legra",MIT OR Apache-2.0,1599752,Native Rust inference foundation with checked RDF rule-profile compilation
+2026-11-09T09:49:00Z,freefox,0.2.2,Yves Thoukam <thoukamy@gmail.com>,Apache-2.0,169062,"Reliable, resumable upload of ROS 2 bags from robots to Google Drive, rsync/NAS and S3-compatible storage"
+2026-11-09T09:49:33Z,cpp-risk-analyzer,1.1.0,,,103529,"Predicts which files a change in a C++ codebase will ripple into, using the include graph, Git history and machine learning."
+2026-11-09T09:49:52Z,typhoon-ocr2,0.1.0,Surapon Nonesung,Apache-2.0,50383,Parse Thai and English documents (PDFs and images) into layout elements and Markdown with Typhoon OCR V2
+2026-11-09T09:51:23Z,basecamp-mcp-server,1.0.0,George Antonopoulos,MIT,231806,"MCP server that connects Claude, Cursor and other AI assistants to Basecamp 3 and 4"
+2026-11-09T09:52:14Z,basha,1.0.0,Bajil Mohammed E.P.,MIT,52530,A modular Python library for sentiment analysis and text intelligence
+2026-11-09T09:52:33Z,mindforge-memory,6.4.1,,MIT,1363906,AI Agent 终身记忆系统 - 四层记忆架构 · 知识图谱 · 多模态支持
+2026-11-09T09:52:47Z,amazon-s3-vectors-haystack,0.0.1,deepset GmbH <info@deepset.ai>,Apache-2.0,43489,Haystack integration for amazon_s3_vectors
+2026-11-09T09:52:56Z,finaira-release,0.1.0,,,33183,"Release tooling for trunk-based repositories: RC and final tags, Azure DevOps deploys, release branches and hotfixes. The repositories come from a .env."
+2026-11-09T09:53:21Z,duckdb-core-ext-shell,0.0.0,DuckDB,,1069,Reserved name for the DuckDB shell extension packaged for pip
+2026-11-09T09:54:43Z,duckdb-core-ext-parquet,0.0.0,DuckDB,,1085,Reserved name for the DuckDB parquet extension packaged for pip
+2026-11-09T09:56:01Z,duckdb-core-ext-json,0.0.0,DuckDB,,1063,Reserved name for the DuckDB json extension packaged for pip
+2026-11-09T09:59:31Z,retrobios,2026.11.9,,MIT,638595,"Install the BIOS files emulators need, checked"
+2026-11-09T10:01:49Z,spaider-ros2,0.1.0,Spaider Studio,Apache-2.0,8759,ROS 2 bridge that stores topics as SpAIder memory
+2026-11-09T10:01:55Z,spaider-edge,0.1.0,Spaider Studio,Apache-2.0,19322,"On-device memory for robots: SQLite, spatial recall and sync to SpAIder"
+2026-11-09T10:02:06Z,skilark-joy,0.11.0,N. E. Davis,MIT,210141,Joy on SKIjack: a concatenative language whose words are closed SKI supercombinators
+2026-11-09T10:02:50Z,dag-ml-data-provider,0.2.16,"""G. Beurier"" <beurier@cirad.fr>",CECILL-2.1 OR AGPL-3.0-or-later,3578151,Stdlib-only ctypes shim for the dag-ml-data C ABI provider vtable.
+2026-11-09T10:03:34Z,esp-morpheus,0.9.0,Espressif Systems (Shanghai) CO LTD,Apache-2.0,439866,Console client for an ESP RainMaker Neo deployment
+2026-11-09T10:08:01Z,contactglovesdk,1.0.0,Melt Interface Technologies Inc.,Apache-2.0,2994009,ContactGlove Python SDK V2 for ContactGlove3 Pro
+2026-11-09T10:08:18Z,orange-gualbe-toolbox,0.1.0,Gualberto <gualbe@gmail.com>,GPL-3.0-or-later,422714,Utilidades visuales de ciencia de datos para Orange Data Mining.
+2026-11-09T10:11:14Z,ub-mode-crapper,0.1.0.post1,,BSD Zero Clause License Copyright (C) 2026 by Robert C. Martin <unclebob@cleancoder.com> Permission…,91152,"Unofficial redistribution of unclebob/crapper: CRAP scores for Clojure, Java, Go, TypeScript, Rust, and Python, in the snapshot uml-viewer reads."
+2026-11-09T10:11:16Z,ub-mode-dryer,0.1.0.post1,,BSD Zero Clause License Copyright (C) 2026 by Robert C. Martin <unclebob@cleancoder.com> Permission…,52573,"Unofficial redistribution of unclebob/dryer: Structural duplicate finder for Clojure, Java, Go, TypeScript, Rust, and Python."
+2026-11-09T10:11:17Z,ub-mode-mutator,0.1.0.post1,,BSD Zero Clause License Copyright (C) 2026 by Robert C. Martin <unclebob@cleancoder.com> Permission…,88190,"Unofficial redistribution of unclebob/mutator: Mutation testing for Clojure, Java, Go, TypeScript, Rust, and Python, in the snapshot uml-viewer reads."
+2026-11-09T10:12:54Z,valkyrie-cli,2026.11.9b1,,AGPL-3.0-only,189209,Valkyrie - An agentic harness that interfaces with benchmarks hosted by Vals AI
+2026-11-09T10:13:08Z,secretsentinel,0.1.0,macorifice,Apache-2.0,51191,Detect hard-coded secrets in working trees and git history.
+2026-11-09T10:14:07Z,sox-effects,0.1.0,Maxime Poli,MIT,278587,Minimal libsox effects bindings for any array
+2026-11-09T10:14:36Z,it-solutions-suite,1.0.0,IT Solutions Global Corporation,MIT,828414,Autonomous Corporate Enterprise Suite: CorePulse + NexusShield + EchoStream
+2026-11-09T10:16:01Z,theaios-core,0.1.0,Charafeddine Mouzouni <charafeddine@cohorte.co>,Apache-2.0,35611,"Shared foundations of the theaios libraries: safe expressions, env interpolation, audit logs"
+2026-11-09T10:18:12Z,sdk-release-kit,0.2.0,Yahya,MIT,120933,"Build mobile SDK demo apps and packages, then publish them to a shared folder, Google Play internal testing and TestFlight."

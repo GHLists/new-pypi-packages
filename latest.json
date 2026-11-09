@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 53,
-    "from": "2026-11-09T08:18:19.318655Z",
-    "path": "data/new-packages-2026-11-09T09-18-31-695952Z.csv",
-    "to": "2026-11-09T09:18:31.695952Z"
+    "count": 38,
+    "from": "2026-11-09T09:18:31.695952Z",
+    "path": "data/new-packages-2026-11-09T10-18-22-447196Z.csv",
+    "to": "2026-11-09T10:18:22.447196Z"
   },
   "pending": [
     {
       "attempts": 1,
+      "created_at": "2026-11-09T10:17:44Z",
+      "package": "bouba-sens",
+      "since": "2026-11-09T09:18:31.695952Z",
+      "version": "0.5.11"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-09T09:08:13Z",
       "package": "openapi-mcp-core",
       "since": "2026-11-09T08:18:19.318655Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-09T08:56:56Z",
-      "package": "quietsec",
-      "since": "2026-11-09T08:18:19.318655Z",
-      "version": "0.3.1"
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-09T09:07:26Z",
-      "package": "sanntis",
-      "since": "2026-11-09T08:18:19.318655Z",
-      "version": null
     }
   ],
-  "serial": 43394489,
+  "serial": 43396687,
   "source_truncated": false,
-  "window": "2026-11-09T09:18:31.695952Z"
+  "window": "2026-11-09T10:18:22.447196Z"
 }
