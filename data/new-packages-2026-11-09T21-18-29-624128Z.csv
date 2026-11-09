@@ -1,0 +1,62 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T20:18:26Z,elan-agentkit-plugins,0.1.0,Elan <support@openelan.ai>,Apache-2.0,87127,"ADK plugins applied to every target: ledger gating, observability, event publishing"
+2026-11-09T20:19:31Z,pipetrace,0.1.0,Uttakaladeba Garnaik,MIT,27871,A lightweight pipeline debugger and automated story insight engine for Pandas
+2026-11-09T20:19:41Z,vpn-connection-test,0.1.0,raman78,"MIT License Copyright (c) 2026 raman78 Permission is hereby granted, free of charge, to any person…",156280,"Is a VPN more stable than your direct connection? Per-connection loss and RTT, route traces and a recommendation, from the system tray."
+2026-11-09T20:20:36Z,skill-pipeline,0.1.1,Bulbasaur framework,Apache-2.0,739000,"Bulbasaur skill framework CLI — design, compile, validate, deploy, and evaluate agent skills like production code."
+2026-11-09T20:20:54Z,roastedduck,1.5.6.post1,Amir Baron,MIT,784032729,roastedDuck: an independent Rust SQL engine targeting DuckDB compatibility
+2026-11-09T20:21:24Z,factql-mcp,0.1.2,FactQL,MIT,11371,"FactQL MCP server. Verified answers from your data, with the query and rows behind them, or a decline, never a guess."
+2026-11-09T20:22:35Z,yathorlib,0.1.0,Nolezor,MIT,65867,Yet Another Thorlabs Library: Async native APT communications for Thorlabs controllers on Linux
+2026-11-09T20:27:10Z,dofile,0.1.0.dev0,,MIT,6089550,Run Stata-syntax .do files without a Stata license; MCP server for agents
+2026-11-09T20:28:39Z,elan-agentkit-runtime,0.1.0,Elan <support@openelan.ai>,Apache-2.0,141085,"The single container that runs any agent or workflow, selected by TARGET_SLUG"
+2026-11-09T20:29:27Z,csbtui,0.1.0,Buxton1984,MIT,408635,"Tree-shaped control console for CubeSandbox - names, lineage and safe deletes for your MicroVM sandboxes"
+2026-11-09T20:30:34Z,ghost-reason,0.1.0,,,6716,"Trace your AI agent's reasoning, not just its tool calls."
+2026-11-09T20:33:56Z,openbsd-vmmanager,0.1.0,Kasra Madadipouya <kasra@madadipouya.com>,GPL-3.0-or-later,110086,A Textual TUI for managing OpenBSD vmd virtual machines
+2026-11-09T20:33:57Z,aws-credentials-cognito,0.0.0,Amazon Web Services,Apache License 2.0,3721,Amazon Cognito credentials support for the AWS SDK for Python v4.
+2026-11-09T20:34:31Z,aws-credentials-login,0.0.0,Amazon Web Services,Apache License 2.0,3693,Login credentials support for the AWS SDK for Python v4.
+2026-11-09T20:34:51Z,aws-credentials-sso,0.0.0,Amazon Web Services,Apache License 2.0,3707,IAM Identity Center (SSO) credentials support for the AWS SDK for Python v4.
+2026-11-09T20:35:02Z,en-decrypt-sdk,0.1.0,Property Management Pro L.L.C.,MIT,6917,Thin Python client for the en-decrypt named-key crypto API
+2026-11-09T20:35:14Z,tr-dogrulama,0.1.0,Kaan Yıldız,MIT,9631,"Türkiye'ye özgü verileri (TCKN, VKN, IBAN, telefon, plaka) doğrulayan ve biçimlendiren kütüphane"
+2026-11-09T20:35:16Z,sindhinorm,0.1.0,Arsalan Kaleem,MIT AND CC-BY-SA-4.0,570300,"Corpus-guided, native-validated spelling normalizer for Sindhi (Arabic script)"
+2026-11-09T20:36:29Z,vidlabel-spec,0.6.1,,MIT,16598,Specification (pydantic models + JSON Schema) for the vidlabel video annotation format
+2026-11-09T20:36:42Z,vidlabel,0.6.1,,MIT,385072,"Open, directory-based format and Python library for video annotations: time markers, boxes, masks, tracks."
+2026-11-09T20:37:36Z,staffonly,0.0.1,InfoTech AI,,1868,"Staff Only: your chief of staff and agents, behind your door."
+2026-11-09T20:38:17Z,elan-sdk,0.1.0,Elan <support@openelan.ai>,Apache-2.0,168514,"The Elan API, as a developer's backend calls it"
+2026-11-09T20:39:22Z,arcpro-mcp,0.4.0,Zachary Miller,MIT,259607,MCP server that lets Claude work in ArcGIS Pro through a small bridge script
+2026-11-09T20:39:46Z,anchor-memory,0.7.0,anchor contributors,MIT,58485,"anchor — agents that remember their own work. mm + ms memory for AI agents: an append-only session archive, an entity index, a dangling-reference trigger and a search ladder that recovers what contex…"
+2026-11-09T20:40:06Z,tvek,0.1.0,,MIT OR Apache-2.0,1984877,"Zero-dependency, ultra-fast RFC 8259 JSON linter and formatter"
+2026-11-09T20:41:10Z,logseq-md,0.1.0,Felix Schindler,MIT,63617,Read and write file-based Logseq markdown graphs from the command line
+2026-11-09T20:41:46Z,venn-vdm,0.1.0,Mark Russinovich,MIT,3294980,Venn: a Vector Decision Model for typed decisions over embeddings
+2026-11-09T20:43:08Z,dasbox,0.1.0.dev0,,,6190,Physics-aware distributed acoustic sensing data and benchmarking toolkit
+2026-11-09T20:45:52Z,annotuneagent,0.1.0,"""Zhao Li (李钊)"" <leelieber@gmail.com>",Apache-2.0,15768517,"Cluster-level cell-type annotation from marker, name, and ML results"
+2026-11-09T20:46:20Z,sbomly,0.1.0,Colin Moynes <dev@fullstackspectrum.com>,Apache-2.0,227960,"Diff two SBOMs (CycloneDX or SPDX) into a terminal summary, PR comment, JSON or offline HTML report, and gate CI on what changed"
+2026-11-09T20:47:12Z,elan-cli,0.1.1,Elan <support@openelan.ai>,Apache-2.0,140245,The command line a developer deploys an agent with
+2026-11-09T20:47:48Z,qsiprep-eddy,2602.1,,FSL non-commercial terms and bundled runtime licences,21108575,"Original pinned eddy CPU payload, unchanged20 ELF files with explicit BLAS dlopen alias"
+2026-11-09T20:52:23Z,mpl-lobby-client,0.1.0,,,97566,Generic lobby Python client
+2026-11-09T20:52:24Z,island-battles-python,0.1.0,,,63901,Async player client for Island Battles generation turns
+2026-11-09T20:52:43Z,opspec,0.1.0.dev0,opspec developers,BSD-2-Clause,1774850,"A spec for image-processing ops and runners, with no dependencies."
+2026-11-09T20:53:46Z,oprunner,0.1.0.dev0,scikit-ops developers,BSD-2-Clause,65303,"Run image-processing ops in their own environments, with Appose."
+2026-11-09T20:54:05Z,ophelper,0.1.0.dev0,scikit-ops developers,BSD-2-Clause,21346,"Helpers for writing image-processing ops: boxes, masks, model downloads."
+2026-11-09T20:54:43Z,verity-gate,0.1.0,Verity,Proprietary,17634,Client and integration helpers for the Verity Gate API — put the gate in your agent's path with one decorator.
+2026-11-09T20:55:37Z,igni-client,0.1.0,Ignite Ember,Apache-2.0,151477,"Drive an igni from your own code: connect headlessly to a person's, an app's or a space's igni — in Fleet or on this machine — and run sessions, prompts, approvals and commands there."
+2026-11-09T20:55:39Z,igni-extension,0.1.0,Ignite Ember,Apache-2.0,253238,"What an igni extension's process needs: tools over MCP, its own service with the person's token, and the host's object model."
+2026-11-09T20:55:41Z,igni-service,0.1.0,Ignite Ember,Apache-2.0,348901,"What a service needs to be part of an igni deployment: its own key, registration, people's tokens, the directory, notifications, erasure and export, and its extension bundle."
+2026-11-09T20:55:54Z,rookiegamers,1.5.0,Tenacié LLC,SEE LICENSE IN README,10894,Server-side RookieGamers helpers: verify player JWTs and report scores
+2026-11-09T20:56:06Z,tnia-ops,0.1.0.dev0,Brian Northan <bnorthan@gmail.com>,BSD-2-Clause,69342,"tnia-python's utilities, as ops"
+2026-11-09T20:57:13Z,google-translate-unofficial,1.0.2,,MIT,10988,Unofficial Google Translate. No API key required.
+2026-11-09T20:59:21Z,mekit,0.0.1,,,1578,"Model experimentation toolkit (placeholder release, under development)."
+2026-11-09T20:59:24Z,meflow,0.0.1,,,1591,"Model experimentation toolkit (placeholder release, under development)."
+2026-11-09T21:00:51Z,agent-email-guard,0.1.0,AgentiSend <hello@agentisend.com>,MIT,84447,"Blast-radius control for agents that send email: budgets, a rate ceiling, loop detection, approval holds and a kill switch, in front of any provider."
+2026-11-09T21:01:48Z,qrbar,0.1.0,aaltatan,GPL-3.0-or-later,310598,"Generate barcodes and QR codes and render sticker and label documents (docx, ZPL) from templates."
+2026-11-09T21:04:50Z,pickle-sentry,0.2.0,Navid Khan,MIT,32978,Scan code and dataset files for unsafe pickle deserialization — including the Hugging Face datasets pandas builder RCE (CVE-2026-57845). Never executes the files it inspects.
+2026-11-09T21:05:01Z,dspk-app,0.0.9,jesusdpa1,MIT OR Apache-2.0,195529710,The dspk desktop app: install with pip install dspk[app]
+2026-11-09T21:05:05Z,dspk-synapse,0.0.9,jesusdpa1,MIT OR Apache-2.0,159509247,The compiled part of dspk.synapse: install with pip install dspk[synapse]
+2026-11-09T21:07:26Z,papers-app,0.2.0,hBouanane,MIT,451061,"An AI reading companion for research papers: skim, read, ask, recall. Runs on your computer."
+2026-11-09T21:08:07Z,counterfact,0.1.0,Rudraneel Das,MIT,12310,"Did your change really work? Causal effect of a price change, campaign or policy on any time series."
+2026-11-09T21:08:56Z,instagram-message-api-local,0.0.3b4578,Circles,MIT,13631,PyPI instagram-message-api-local Python Package owned by Circlez.ai
+2026-11-09T21:11:47Z,panda-research-tools,0.1.0,Panda Federation (pandadad0214),MIT,64974,"Panda Research Tools: scholarly integrity and papers: citation checks, literature and PubMed search, academic experts, PDF tables, Wayback Machine snapshots."
+2026-11-09T21:11:52Z,panda-public-funding-tools,0.1.0,Panda Federation (pandadad0214),MIT,65094,"Panda Public Funding Tools: uS federal money, filings and safety monitors: grants, contracts, SBIR/STTR topics, SEC financials, clinical trials, Federal Register, recalls, VIN decode."
+2026-11-09T21:11:54Z,panda-leads-tools,0.1.0,Panda Federation (pandadad0214),MIT,65114,"Panda Leads Tools: public leads and enrichment: NPI providers, podcasts, local businesses, hiring signals, website enrichment, team pages, topic trends, trucking carriers, IRS nonprofits, building pe…"
+2026-11-09T21:14:10Z,skirr,0.1.0,,MIT,395482,Experimental Linux HTTP/1 ASGI-only server
+2026-11-09T21:14:20Z,panda-web-security-tools,0.1.0,Panda Federation (pandadad0214),MIT,65075,"Panda Web Security Tools: site, email and agent safety: SPF/DKIM/DMARC audits, AI/SEO readiness, website change monitoring, hidden AI instructions scanner, bulk domain WHOIS/expiry."
+2026-11-09T21:16:18Z,asteria-roman,0.1.0,"""Pablo M. Sanchez-Alarcon"" <pablo.sanchezalarcon@nasa.gov>",MIT,10138297,Lightweight astronomical deep learning inference engine and instance deblender powered by boundary-aware UNet++
+2026-11-09T21:16:18Z,checkii-ci,0.1.0,Checkii,Apache-2.0,39973,Fail-closed pull-request assessment client for the Checkii control plane

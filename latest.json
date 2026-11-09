@@ -1,12 +1,41 @@
 {
   "list": {
-    "count": 33,
-    "from": "2026-11-09T19:19:17.08283Z",
-    "path": "data/new-packages-2026-11-09T20-18-19-770068Z.csv",
-    "to": "2026-11-09T20:18:19.770068Z"
+    "count": 61,
+    "from": "2026-11-09T20:18:19.770068Z",
+    "path": "data/new-packages-2026-11-09T21-18-29-624128Z.csv",
+    "to": "2026-11-09T21:18:29.624128Z"
   },
-  "pending": [],
-  "serial": 43423144,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T21:18:24Z",
+      "package": "Slide2Scripting",
+      "since": "2026-11-09T20:18:19.770068Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T20:41:13Z",
+      "package": "asteria-wfi",
+      "since": "2026-11-09T20:18:19.770068Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T21:14:25Z",
+      "package": "aswf-aces-transforms",
+      "since": "2026-11-09T20:18:19.770068Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T20:43:14Z",
+      "package": "ovsensors",
+      "since": "2026-11-09T20:18:19.770068Z",
+      "version": null
+    }
+  ],
+  "serial": 43425606,
   "source_truncated": false,
-  "window": "2026-11-09T20:18:19.770068Z"
+  "window": "2026-11-09T21:18:29.624128Z"
 }
