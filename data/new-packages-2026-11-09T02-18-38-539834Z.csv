@@ -1,0 +1,19 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T01:21:55Z,py-multitrack,0.1.0a2,Maxime Brison,GPL-3.0,47089,Multitrack Framework to bridge serial radios to the Multitrack Core tracking system
+2026-11-09T01:29:35Z,tabcortex,0.0.0.1,,,1386,tabcortex
+2026-11-09T01:30:35Z,huaweicloud-encryption-sdk-python,1.2.1,,Apache-2.0,223387,HuaweiCloud Encryption SDK for Python
+2026-11-09T01:31:50Z,forexgen,2.1.0,Henry Nyoike,"MIT License Copyright (c) 2026 Henry Nyoike Permission is hereby granted, free of charge, to any pe…",152380,Offline synthetic forex and gold data generator for indicator testing and strategy backtesting
+2026-11-09T01:41:58Z,yxd-check-lib,0.3.5,,,874659,
+2026-11-09T01:43:18Z,feather-cdc-postgres,0.1.0,Siraj Samsudeen <mailsiraj@gmail.com>,MIT,342263,"Declarative PostgreSQL -> MotherDuck CDC runtime: one registration file per source database, no per-source extractor"
+2026-11-09T01:48:55Z,nl2data-memory-redis,0.1.0,NL2Data Contributors,Apache-2.0,39062,Redis-backed shared memory backend for nl2data-core.
+2026-11-09T01:49:36Z,to-16x9,1.20261109.1002300,Yuan-Yi Chang <changyy.csie@gmail.com>,MIT,23049,"Convert photos to 16:9 by center crop, solid padding, or blurred background, with offset support"
+2026-11-09T01:52:52Z,spatial-typestate,0.1.0,,,777893,"Checked, frame-tagged spatial batches backed by Rust"
+2026-11-09T01:54:46Z,boundary-dye,0.1.0,Matt Grofsky,AGPL-3.0-only,43249,Dye finds tool call arguments that were copied from untrusted text
+2026-11-09T02:01:58Z,freedom-m2m,2.5.0,Freedom Engine M2M Clearinghouse Protocol <Lordbryce@coinos.io>,MIT,12083,"Official Python SDK & CLI for Freedom Engine (m2mfreedom.com) — Zero-Registration HTTP 402 (L402 Bitcoin Lightning & x402 Base/Solana USDC) API Gateway, Remote MCP Server & Autonomous AI Agent Task C…"
+2026-11-09T02:06:58Z,pear-sim,0.1.0,PEAR Power and the PEARSim contributors,Apache-2.0,2146819,"Headless, deterministic power-electronics simulator with an MCP server for AI agents"
+2026-11-09T02:07:13Z,pear-sim-mcp,0.1.0,PEAR Power and the PEARSim contributors,Apache-2.0,2436,Launcher for the PEARSim power-electronics simulator's MCP server
+2026-11-09T02:10:49Z,rustgments,0.1.0,,BSD-2-Clause,30374221,"A Rust engine for Pygments: byte-identical output, much faster when you highlight a lot"
+2026-11-09T02:11:10Z,sitevigil,0.8.0,Aql <aql@ednasalam.com>,MIT,64926,"One-command website security audit for humans and AI agents: security headers, cookies, TLS, CORS and exposed files, scored 0-100 with a concrete fix for every finding."
+2026-11-09T02:14:36Z,honua-gp,0.1.0,Honua,Apache-2.0,174751,Honua geoprocessing compatibility layer -- a drop-in-style API for teams moving Python geoprocessing scripts to Honua services
+2026-11-09T02:14:56Z,entroptics-rf,0.1.0,Ikailo John Sessford <john@ikailo.com>,AGPL-3.0-only,333200,The RF signal is an entropy-matched screen. A seed-keyed optical aperture carries the payload in its coherent modes; the receiver reads the whole geometry from the capture itself. No FFT and no DSP a…
+2026-11-09T02:16:06Z,entroptics-mesh,0.1.0,Ikailo John Sessford <john@ikailo.com>,AGPL-3.0-only,402632,"A one-way, parameter-free mesh over entroptics-rf: no acks, no handshakes, nothing pre-shared. Crypto, agility and interference handling are pluggable providers."

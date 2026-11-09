@@ -8,34 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 01:20 UTC
+## Latest list — 2026-11-09 02:18 UTC
 
-New packages created between 2026-11-09 00:20 UTC and 2026-11-09 01:20 UTC.
+New packages created between 2026-11-09 01:20 UTC and 2026-11-09 02:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-09T01-20-35-90005Z.csv)
+[Full CSV](data/new-packages-2026-11-09T02-18-38-539834Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-09 00:28:50 | [turkce-adres](https://pypi.org/project/turkce-adres/) | 0.2.0 | Mehmet Veysel Delibaş | 2.4 MB | Turkish address toolkit: parse messy Turkish addresses, fix spelling, validate… |
-| 2026-11-09 00:31:57 | [LangChain-vlnaim](https://pypi.org/project/LangChain-vlnaim/) | 0.1.0 |  | 10.5 kB | A modular RAG retrieval class based on LangChain and Chroma |
-| 2026-11-09 00:32:31 | [xtalforge](https://pypi.org/project/xtalforge/) | 0.0.1 |  | 2.8 MB | Python bindings for the xtalforge crystal-structure library |
-| 2026-11-09 00:33:27 | [spsheaf](https://pypi.org/project/spsheaf/) | 0.2.0 | Eduardo Paluzo-Hidalgo, Yusuk… | 318.1 kB | spSheaf: sheaf-theoretic boundary detection for segmentation-free spatial domai… |
-| 2026-11-09 00:36:35 | [whitepages-scraper](https://pypi.org/project/whitepages-scraper/) | 0.1.0 | Buğrahan Saka | 28.3 kB | Scrape Whitepages.com name searches and person pages (name, age range, address,… |
-| 2026-11-09 00:43:02 | [readwebform](https://pypi.org/project/readwebform/) | 0.4.0 | Vlad Lasky <github@vladlasky.… | 126.5 kB | A command-line utility for gathering structured user input through temporary we… |
-| 2026-11-09 00:45:47 | [comment-lens-scanner](https://pypi.org/project/comment-lens-scanner/) | 0.1.0 | Olayinka Vaughan | 58.0 kB | Deterministic source comment maintenance and quality scanner |
-| 2026-11-09 00:53:30 | [cognir](https://pypi.org/project/cognir/) | 0.0.0.1 |  | 1.4 kB | ... |
-| 2026-11-09 00:54:04 | [ants-sn](https://pypi.org/project/ants-sn/) | 0.3.1 | Ben Whewell <ben.whewell@pm.m… | 248.3 MB | Discrete ordinates (S_N) neutron transport in Cython |
-| 2026-11-09 00:56:10 | [permtracker](https://pypi.org/project/permtracker/) | 0.3.0 | PERM Tracker <support@permtra… | 22.5 kB | The PERM Tracker API from Python and the command line: DOL case status, decisio… |
-| 2026-11-09 00:56:21 | [samcommand](https://pypi.org/project/samcommand/) | 1.9.6 | SamAI <dev@samai.cc> | 20.0 MB | SamAI Command - cross-platform command-line tool |
-| 2026-11-09 00:59:50 | [dex-connector-front](https://pypi.org/project/dex-connector-front/) | 0.1.0 |  | 126.8 kB | Dex-native Front conversation and contact connector |
-| 2026-11-09 01:00:13 | [kedi-debugger](https://pypi.org/project/kedi-debugger/) | 0.1.0 |  | 67.6 kB | Optional stdio Debug Adapter Protocol backend for Kedi |
-| 2026-11-09 01:00:15 | [kedi-autobench](https://pypi.org/project/kedi-autobench/) | 0.1.0 |  | 209.8 kB | Autobench instrumentation for Kedi |
-| 2026-11-09 01:01:58 | [codenaut](https://pypi.org/project/codenaut/) | 0.1.0 | nick211908 | 153.0 kB | A terminal-based OpenAI-compatible coding agent with tools, approvals, MCP, and… |
-| 2026-11-09 01:03:40 | [luiccian-excel-mcp](https://pypi.org/project/luiccian-excel-mcp/) | 2.0.0 | LuiccianDev <luicciandev@gmai… | 201.6 kB | High-performance Model Context Protocol (MCP) server for Excel (.xlsx) spreadsh… |
-| 2026-11-09 01:04:24 | [compreSSM](https://pypi.org/project/compreSSM/) | 1.0.0 | Christian Rafferty | 7.7 kB | Library built off of the compreSSM paper linked in the README |
-| 2026-11-09 01:04:51 | [OfflineCurrencyConverter](https://pypi.org/project/OfflineCurrencyConverter/) | 2026.11.9 |  | 2.5 MB | ECB and cryptocurrency historical rates with EUR cross-conversion |
-| 2026-11-09 01:10:50 | [faceoff-mri](https://pypi.org/project/faceoff-mri/) | 1.9.8.post1 |  | 11.4 MB | MRI defacing tool using ANTs registration (your own install, Docker, or Apptain… |
-| 2026-11-09 01:11:42 | [basetwin](https://pypi.org/project/basetwin/) | 0.0.1 |  | 1.7 kB | Name reserved for the BaseTwin project (Data Space / digital twin core). |
-| 2026-11-09 01:11:45 | [basetwin-dataspace](https://pypi.org/project/basetwin-dataspace/) | 0.0.1 |  | 1.8 kB | Name reserved for the BaseTwin project (Data Space / digital twin core). |
-| 2026-11-09 01:11:48 | [basetwin-twin](https://pypi.org/project/basetwin-twin/) | 0.0.1 |  | 1.7 kB | Name reserved for the BaseTwin project (Data Space / digital twin core). |
-| 2026-11-09 01:17:55 | [members-csv](https://pypi.org/project/members-csv/) | 1.0.0 | Alexandru Serbanescu | 18.1 kB | Load member records from CSV files into typed Python objects, with a small CLI. |
+| 2026-11-09 01:21:55 | [py-multitrack](https://pypi.org/project/py-multitrack/) | 0.1.0a2 | Maxime Brison | 47.1 kB | Multitrack Framework to bridge serial radios to the Multitrack Core tracking sy… |
+| 2026-11-09 01:29:35 | [tabcortex](https://pypi.org/project/tabcortex/) | 0.0.0.1 |  | 1.4 kB | tabcortex |
+| 2026-11-09 01:30:35 | [huaweicloud-encryption-sdk-python](https://pypi.org/project/huaweicloud-encryption-sdk-python/) | 1.2.1 |  | 223.4 kB | HuaweiCloud Encryption SDK for Python |
+| 2026-11-09 01:31:50 | [forexgen](https://pypi.org/project/forexgen/) | 2.1.0 | Henry Nyoike | 152.4 kB | Offline synthetic forex and gold data generator for indicator testing and strat… |
+| 2026-11-09 01:41:58 | [yxd-check-lib](https://pypi.org/project/yxd-check-lib/) | 0.3.5 |  | 874.7 kB |  |
+| 2026-11-09 01:43:18 | [feather-cdc-postgres](https://pypi.org/project/feather-cdc-postgres/) | 0.1.0 | Siraj Samsudeen <mailsiraj@gm… | 342.3 kB | Declarative PostgreSQL -> MotherDuck CDC runtime: one registration file per sou… |
+| 2026-11-09 01:48:55 | [nl2data-memory-redis](https://pypi.org/project/nl2data-memory-redis/) | 0.1.0 | NL2Data Contributors | 39.1 kB | Redis-backed shared memory backend for nl2data-core. |
+| 2026-11-09 01:49:36 | [to-16x9](https://pypi.org/project/to-16x9/) | 1.20261109.1002300 | Yuan-Yi Chang <changyy.csie@g… | 23.0 kB | Convert photos to 16:9 by center crop, solid padding, or blurred background, wi… |
+| 2026-11-09 01:52:52 | [spatial-typestate](https://pypi.org/project/spatial-typestate/) | 0.1.0 |  | 777.9 kB | Checked, frame-tagged spatial batches backed by Rust |
+| 2026-11-09 01:54:46 | [boundary-dye](https://pypi.org/project/boundary-dye/) | 0.1.0 | Matt Grofsky | 43.2 kB | Dye finds tool call arguments that were copied from untrusted text |
+| 2026-11-09 02:01:58 | [freedom-m2m](https://pypi.org/project/freedom-m2m/) | 2.5.0 | Freedom Engine M2M Clearingho… | 12.1 kB | Official Python SDK & CLI for Freedom Engine (m2mfreedom.com) — Zero-Registrati… |
+| 2026-11-09 02:06:58 | [pear-sim](https://pypi.org/project/pear-sim/) | 0.1.0 | PEAR Power and the PEARSim co… | 2.1 MB | Headless, deterministic power-electronics simulator with an MCP server for AI a… |
+| 2026-11-09 02:07:13 | [pear-sim-mcp](https://pypi.org/project/pear-sim-mcp/) | 0.1.0 | PEAR Power and the PEARSim co… | 2.4 kB | Launcher for the PEARSim power-electronics simulator's MCP server |
+| 2026-11-09 02:10:49 | [rustgments](https://pypi.org/project/rustgments/) | 0.1.0 |  | 30.4 MB | A Rust engine for Pygments: byte-identical output, much faster when you highlig… |
+| 2026-11-09 02:11:10 | [sitevigil](https://pypi.org/project/sitevigil/) | 0.8.0 | Aql <aql@ednasalam.com> | 64.9 kB | One-command website security audit for humans and AI agents: security headers,… |
+| 2026-11-09 02:14:36 | [honua-gp](https://pypi.org/project/honua-gp/) | 0.1.0 | Honua | 174.8 kB | Honua geoprocessing compatibility layer -- a drop-in-style API for teams moving… |
+| 2026-11-09 02:14:56 | [entroptics-rf](https://pypi.org/project/entroptics-rf/) | 0.1.0 | Ikailo John Sessford <john@ik… | 333.2 kB | The RF signal is an entropy-matched screen. A seed-keyed optical aperture carri… |
+| 2026-11-09 02:16:06 | [entroptics-mesh](https://pypi.org/project/entroptics-mesh/) | 0.1.0 | Ikailo John Sessford <john@ik… | 402.6 kB | A one-way, parameter-free mesh over entroptics-rf: no acks, no handshakes, noth… |
