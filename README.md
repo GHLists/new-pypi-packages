@@ -8,29 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 02:18 UTC
+## Latest list — 2026-11-09 03:19 UTC
 
-New packages created between 2026-11-09 01:20 UTC and 2026-11-09 02:18 UTC.
+New packages created between 2026-11-09 02:18 UTC and 2026-11-09 03:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-09T02-18-38-539834Z.csv)
+[Full CSV](data/new-packages-2026-11-09T03-19-56-727124Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-09 01:21:55 | [py-multitrack](https://pypi.org/project/py-multitrack/) | 0.1.0a2 | Maxime Brison | 47.1 kB | Multitrack Framework to bridge serial radios to the Multitrack Core tracking sy… |
-| 2026-11-09 01:29:35 | [tabcortex](https://pypi.org/project/tabcortex/) | 0.0.0.1 |  | 1.4 kB | tabcortex |
-| 2026-11-09 01:30:35 | [huaweicloud-encryption-sdk-python](https://pypi.org/project/huaweicloud-encryption-sdk-python/) | 1.2.1 |  | 223.4 kB | HuaweiCloud Encryption SDK for Python |
-| 2026-11-09 01:31:50 | [forexgen](https://pypi.org/project/forexgen/) | 2.1.0 | Henry Nyoike | 152.4 kB | Offline synthetic forex and gold data generator for indicator testing and strat… |
-| 2026-11-09 01:41:58 | [yxd-check-lib](https://pypi.org/project/yxd-check-lib/) | 0.3.5 |  | 874.7 kB |  |
-| 2026-11-09 01:43:18 | [feather-cdc-postgres](https://pypi.org/project/feather-cdc-postgres/) | 0.1.0 | Siraj Samsudeen <mailsiraj@gm… | 342.3 kB | Declarative PostgreSQL -> MotherDuck CDC runtime: one registration file per sou… |
-| 2026-11-09 01:48:55 | [nl2data-memory-redis](https://pypi.org/project/nl2data-memory-redis/) | 0.1.0 | NL2Data Contributors | 39.1 kB | Redis-backed shared memory backend for nl2data-core. |
-| 2026-11-09 01:49:36 | [to-16x9](https://pypi.org/project/to-16x9/) | 1.20261109.1002300 | Yuan-Yi Chang <changyy.csie@g… | 23.0 kB | Convert photos to 16:9 by center crop, solid padding, or blurred background, wi… |
-| 2026-11-09 01:52:52 | [spatial-typestate](https://pypi.org/project/spatial-typestate/) | 0.1.0 |  | 777.9 kB | Checked, frame-tagged spatial batches backed by Rust |
-| 2026-11-09 01:54:46 | [boundary-dye](https://pypi.org/project/boundary-dye/) | 0.1.0 | Matt Grofsky | 43.2 kB | Dye finds tool call arguments that were copied from untrusted text |
-| 2026-11-09 02:01:58 | [freedom-m2m](https://pypi.org/project/freedom-m2m/) | 2.5.0 | Freedom Engine M2M Clearingho… | 12.1 kB | Official Python SDK & CLI for Freedom Engine (m2mfreedom.com) — Zero-Registrati… |
-| 2026-11-09 02:06:58 | [pear-sim](https://pypi.org/project/pear-sim/) | 0.1.0 | PEAR Power and the PEARSim co… | 2.1 MB | Headless, deterministic power-electronics simulator with an MCP server for AI a… |
-| 2026-11-09 02:07:13 | [pear-sim-mcp](https://pypi.org/project/pear-sim-mcp/) | 0.1.0 | PEAR Power and the PEARSim co… | 2.4 kB | Launcher for the PEARSim power-electronics simulator's MCP server |
-| 2026-11-09 02:10:49 | [rustgments](https://pypi.org/project/rustgments/) | 0.1.0 |  | 30.4 MB | A Rust engine for Pygments: byte-identical output, much faster when you highlig… |
-| 2026-11-09 02:11:10 | [sitevigil](https://pypi.org/project/sitevigil/) | 0.8.0 | Aql <aql@ednasalam.com> | 64.9 kB | One-command website security audit for humans and AI agents: security headers,… |
-| 2026-11-09 02:14:36 | [honua-gp](https://pypi.org/project/honua-gp/) | 0.1.0 | Honua | 174.8 kB | Honua geoprocessing compatibility layer -- a drop-in-style API for teams moving… |
-| 2026-11-09 02:14:56 | [entroptics-rf](https://pypi.org/project/entroptics-rf/) | 0.1.0 | Ikailo John Sessford <john@ik… | 333.2 kB | The RF signal is an entropy-matched screen. A seed-keyed optical aperture carri… |
-| 2026-11-09 02:16:06 | [entroptics-mesh](https://pypi.org/project/entroptics-mesh/) | 0.1.0 | Ikailo John Sessford <john@ik… | 402.6 kB | A one-way, parameter-free mesh over entroptics-rf: no acks, no handshakes, noth… |
+| 2026-11-09 02:19:53 | [lemma-db](https://pypi.org/project/lemma-db/) | 0.1.0 | Emil Schmitz | 3.7 MB | Lemma: verified query synthesis (an AI agent writes run_query, Verus proves it,… |
+| 2026-11-09 02:24:30 | [awindex](https://pypi.org/project/awindex/) | 0.2.0 | Aitherium | 21.7 kB | Resolve .aither keywords and read the AitherNet Index (index.aitherium.com) |
+| 2026-11-09 02:25:22 | [agent-swarm-eval](https://pypi.org/project/agent-swarm-eval/) | 0.0.0 | Praneeth Vadlapati | 2.9 kB | A new package under development |
+| 2026-11-09 02:25:53 | [portacom-dxc](https://pypi.org/project/portacom-dxc/) | 0.1.0 | Mahmoud Komaiha <mkomaiha@umi… | 33.6 kB | DirectX Shader Compiler from Python on Windows, Linux and macOS, through portac… |
+| 2026-11-09 02:25:55 | [portacom](https://pypi.org/project/portacom/) | 0.1.0 | Mahmoud Komaiha <mkomaiha@umi… | 108.1 kB | Call classic COM interfaces through ctypes on Windows, Linux and macOS |
+| 2026-11-09 02:25:55 | [winmd2py](https://pypi.org/project/winmd2py/) | 0.1.0 | Mahmoud Komaiha <mkomaiha@umi… | 53.3 kB | Generate ctypes bindings for classic COM interfaces from .winmd metadata, in pu… |
+| 2026-11-09 02:26:49 | [nways-maps](https://pypi.org/project/nways-maps/) | 1.1.0 | N-WAYS LIMITED <hello@nways.n… | 56.8 kB | N-Ways Maps Platform API client (generated from the OpenAPI files). |
+| 2026-11-09 02:33:37 | [khammoon](https://pypi.org/project/khammoon/) | 0.1.0 |  | 15.8 MB | Thai morpheme (คำมูล) segmenter: a 4 MB character model that runs on CPU |
+| 2026-11-09 02:36:21 | [markovka](https://pypi.org/project/markovka/) | 0.1.0 |  | 24.1 kB | Markov chain text generator with option of importing messenger chats and books… |
+| 2026-11-09 02:38:41 | [codepact-cli](https://pypi.org/project/codepact-cli/) | 0.3.0 | CodePact contributors | 14.7 MB | Rust-powered CodePact contract inspector |
+| 2026-11-09 02:39:08 | [codepact](https://pypi.org/project/codepact/) | 0.3.0 | CodePact contributors | 17.1 kB | Lightweight Python contract annotations for CodePact |
+| 2026-11-09 02:40:01 | [fontpkg-paytone-one](https://pypi.org/project/fontpkg-paytone-one/) | 1.2 |  | 60.6 kB | Paytone One font family, packaged for Python by fontpkg |
+| 2026-11-09 02:40:03 | [fontpkg-noticia-text](https://pypi.org/project/fontpkg-noticia-text/) | 1.3 |  | 220.7 kB | Noticia Text font family, packaged for Python by fontpkg |
+| 2026-11-09 02:40:06 | [fontpkg-league-gothic](https://pypi.org/project/fontpkg-league-gothic/) | 2.1 |  | 41.4 kB | League Gothic font family, packaged for Python by fontpkg |
+| 2026-11-09 02:40:08 | [fontpkg-prata](https://pypi.org/project/fontpkg-prata/) | 2.0 |  | 56.2 kB | Prata font family, packaged for Python by fontpkg |
+| 2026-11-09 02:44:48 | [lucida-analytics](https://pypi.org/project/lucida-analytics/) | 0.1.0 |  | 400.7 kB | Lucida server SDK: events, local feature-flag evaluation, historical import |
+| 2026-11-09 02:49:46 | [vidyom](https://pypi.org/project/vidyom/) | 0.0.1 | The Vidyom Authors | 11.2 kB | Open-source AI-powered video workflow engine. Name reserved for the Vidyom Pyth… |
+| 2026-11-09 02:53:59 | [virbius-integrate](https://pypi.org/project/virbius-integrate/) | 1.0.3 | VirbiusAgent | 43.5 kB | VirbiusAgent native-tool integration: observe, audit, inventory (advisory grade… |
+| 2026-11-09 02:54:02 | [virbius-mcp-python](https://pypi.org/project/virbius-mcp-python/) | 1.0.3 | VirbiusAgent | 1.7 MB | VirbiusAgent edge enforcement primitives for Python (PyO3 binding of virbius-co… |
+| 2026-11-09 02:54:04 | [virbius-review-sdk](https://pypi.org/project/virbius-review-sdk/) | 1.0.3 | VirbiusAgent | 36.9 kB | Official VirbiusAgent review SDK: input/output review over the engine /v1/evalu… |
+| 2026-11-09 02:59:31 | [lidar-converter](https://pypi.org/project/lidar-converter/) | 0.2.0 | Param Patel <parampatel.005@g… | 247.0 kB | Multi-vendor LiDAR conversion pipeline with automatic vendor detection |
+| 2026-11-09 03:00:42 | [ocsf-semtools-v1-7-0](https://pypi.org/project/ocsf-semtools-v1-7-0/) | 0.1.0a5 | Eddie Allan | 560.8 kB | Typed msgspec models for OCSF 1.7.0, generated by ocsf-semtools 0.1.0a5. |
+| 2026-11-09 03:05:02 | [look-tv](https://pypi.org/project/look-tv/) | 0.0.1 | look_tv contributors | 77.6 kB | Resolve ready-to-play HTTPS media stream URLs from Python |
+| 2026-11-09 03:12:14 | [tonicfind](https://pypi.org/project/tonicfind/) | 0.1.0 | Boobalan Arjunan <boobalan_ar… | 36.8 kB | Check that the key labels on your music files (C major, Am, 8A) match the audio. |
+| 2026-11-09 03:12:26 | [tempocheck](https://pypi.org/project/tempocheck/) | 0.1.0 | Boobalan Arjunan <boobalan_ar… | 29.8 kB | Check that the BPM labels on your music files match the audio. |
+| 2026-11-09 03:12:44 | [bandcheck](https://pypi.org/project/bandcheck/) | 0.1.0 | Boobalan Arjunan <boobalan_ar… | 28.8 kB | Find audio files whose real frequency range is lower than their sample rate cla… |
+| 2026-11-09 03:13:22 | [estilizador](https://pypi.org/project/estilizador/) | 2.0.0 | Dias Valente 96 <diasvalente9… | 22.6 kB | Micro-framework CLI nativo e modular para estilização, componentes geométricos… |
+| 2026-11-09 03:14:18 | [stemcheck](https://pypi.org/project/stemcheck/) | 0.1.0 | Boobalan Arjunan <boobalan_ar… | 62.1 kB | Check separated music stems: do they add up to the mix, are any silent, clipped… |
+| 2026-11-09 03:14:59 | [inkfold](https://pypi.org/project/inkfold/) | 0.5.0 | Rory Sullivan <accounts@roryj… | 809.3 kB | A framework for research reports: data, exhibits and findings in; a checked ema… |
