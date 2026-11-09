@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T22:20:44Z,fresh-tipsy,0.1.0,UBC FRESH Lab,MIT,216541,A provenance-first Python interoperability layer for BC TIPSY and FAN$IER tables.
+2026-11-09T22:23:51Z,sirannon-client,0.1.0,Delali,Apache-2.0,142815,"Python client for the Sirannon database server, with a typed method for every HTTP route, change subscriptions that resume after a reconnection, live queries, and topology-aware routing."
+2026-11-09T22:24:47Z,b10-msgpack-numpy,0.4.8,Lev E. Givon,BSD,19326,Numpy data serialization using msgpack (Baseten fork with CWE-502 fix)
+2026-11-09T22:25:58Z,assetcat,1.0.0,,MIT,1451936,"AssetCat: index, search and browse a big game asset library, with licenses and AI provenance in plain files."
+2026-11-09T22:26:07Z,peslite-gui,0.5.2,,AGPL-3.0-only,55591,GUI interface for PESLite.
+2026-11-09T22:27:22Z,django-weasyprint-reports,0.1.0,Hector Leal,LGPL-3.0-or-later,64210,Reportes PDF genéricos para Django con templates HTML y WeasyPrint (sin guardar archivos).
+2026-11-09T22:28:37Z,casperbox,0.2.2,,,55934,Build and run CASPER toolflow development containers with rootless podman
+2026-11-09T22:36:10Z,axonio,0.2.0,,MIT,51301,"Persistent memory for AI agents: hybrid recall, branch and merge. Python client for Axonio."
+2026-11-09T22:38:42Z,eq-markdown,0.1.0,Redbot <ask@redguides.com>,GPL-3.0-or-later,32000,Python-Markdown extensions for the RedGuides and MacroQuest documentation sites
+2026-11-09T22:38:44Z,risorius-rl,0.15.1,,MIT,67054,"Record research trajectories, model calls and metrics without controlling execution"
+2026-11-09T22:41:12Z,embed-ab,0.1.0,LeeGyeongPil,MIT,98965,"A/B-test two embedding models on your own documents: Recall/nDCG/MRR with confidence intervals, per-query wins and losses, top-k overlap, and a CI gate."
+2026-11-09T22:44:12Z,cim-profiles,0.1.0a1,"""A. Anderson"" <19935503+AAndersn@users.noreply.github.com>, ""C. Allwardt"" <3979063+craig8@users.nor…",BSD-3-Clause,5132549,CIM data profiles (Python dataclasses) and the Identity/units object model used by CIMantic Graphs
+2026-11-09T22:46:42Z,pgoutput,0.1.0,Dylan Merigaud,MIT,269287,"Decode PostgreSQL logical replication (pgoutput, protocol 1 to 4) into typed Python dataclasses, no dependencies"
+2026-11-09T22:51:13Z,bilingua,0.9.1,"Patois Labs, LLC",Apache-2.0,23880287,"Open, segment and rebuild source files for translation: 88 file formats, bytes in and bytes out"
+2026-11-09T22:52:48Z,rumbo,0.4.0,,MIT,634374,RUMBO: an end-to-end framework for building software with AI coding agents (ANCLA at its core).
+2026-11-09T22:57:31Z,edgecase,0.1.0,Rich Iannone <riannone@me.com>,MIT,40891807,High-performance graph analysis library
+2026-11-09T22:57:41Z,odycat,1.0.0,Javier Martínez García,GPL-3.0-only OR LicenseRef-OdyCAT-Commercial,592135,OdyCAT — EtherCAT from Python on Linux (IgH EtherCAT Master)
+2026-11-09T22:58:02Z,helpfalcon,1.0.0,,MIT,18489,"HelpFalcon API client for Python, generated from the OpenAPI document."
+2026-11-09T22:58:04Z,ronnyx,0.2.0,Baran Yalcin,MIT,29419,"Self-hosted MCP runtime with custom tool support. Connect any MCP server, add your own tools, chat via API or CLI."
+2026-11-09T22:58:23Z,testflows.machine,0.1.0,"""Katteli Inc."" <info@testflows.com>",Apache-2.0,290072,"Python SDK for TestFlows™ Machine, the deterministic execution environment"
+2026-11-09T23:02:38Z,gaiamock,1.0.0,"Kareem El-Badry <kelbadry@caltech.edu>, Tom Wagg <tomjwagg@gmail.com>",GPL-3.0-or-later,66823164,Simulate Gaia epoch astrometry and fit astrometric binary orbits
+2026-11-09T23:04:30Z,plandev-cli,2.12.0,,MIT,105803,A CLI application and Python API for interacting with PlanDev.
+2026-11-09T23:07:13Z,licomp-aflc,0.1,Henrik Sanklef,,23574,"Simple command line tool to check compatibility between two licenses, given context"
+2026-11-09T23:07:38Z,agents-workspace,0.1.0,Lolaplex,MIT,19527,"One root for every agents domain: memory, traces, schedules, personas, relay state"
+2026-11-09T23:09:11Z,context-ontology,0.0.0,,MIT,1955,"Agent context grounded in local ontologies, built from your notes by several model readers and reconciled across sections, documents, images and time."
+2026-11-09T23:12:18Z,earth-refraction,0.1.0,Nen Huynh,MIT,6510144,Atmospheric and ocean refractive index computation with 3D ray tracing on WGS-84

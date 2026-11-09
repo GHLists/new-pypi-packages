@@ -8,47 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 22:18 UTC
+## Latest list — 2026-11-09 23:18 UTC
 
-New packages created between 2026-11-09 21:18 UTC and 2026-11-09 22:18 UTC.
+New packages created between 2026-11-09 22:18 UTC and 2026-11-09 23:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-09T22-18-22-706022Z.csv)
+[Full CSV](data/new-packages-2026-11-09T23-18-24-960147Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-09 21:14:25 | [aswf-aces-transforms](https://pypi.org/project/aswf-aces-transforms/) | 0.1.0 |  | 172.0 kB | ACES transform URN registry — lookup, validation, and version mapping |
-| 2026-11-09 21:20:18 | [pyfigures-noai](https://pypi.org/project/pyfigures-noai/) | 0.2.7 | Benoit Aigouy | 2.8 MB | PyFigures will assist you assemble publication ready scientific figures in no t… |
-| 2026-11-09 21:20:24 | [micro-jev](https://pypi.org/project/micro-jev/) | 0.3.0 | MicroLLM Contributors | 972.9 kB | Hybrid System-One Local Decision Engine (JevCompat 32/32 MUST, AnyJev L0 Prefil… |
-| 2026-11-09 21:21:13 | [x402serps](https://pypi.org/project/x402serps/) | 1.0.0 | x402serps <hello@x402serps.co… | 13.2 kB | Client for x402serps, a third-party search provider: web search, news, extracti… |
-| 2026-11-09 21:21:16 | [langchain-x402serps](https://pypi.org/project/langchain-x402serps/) | 1.0.0 | x402serps <hello@x402serps.co… | 5.9 kB | LangChain tools for x402serps, a third-party search provider (web search, news,… |
-| 2026-11-09 21:25:05 | [lgbmjit](https://pypi.org/project/lgbmjit/) | 0.1.0 |  | 6.1 MB | Compile LightGBM models to machine code with Cranelift for fast predictions tha… |
-| 2026-11-09 21:26:15 | [cosmic-flatpak-fixer](https://pypi.org/project/cosmic-flatpak-fixer/) | 0.1.1 | Serge Matveenko | 19.1 kB | Restore COSMIC applet metadata stripped from Flatpak desktop exports by Flatpak… |
-| 2026-11-09 21:28:15 | [mifblender-mcp](https://pypi.org/project/mifblender-mcp/) | 1.3.1 | Mifsopo | 5.4 MB | AI in Blender through MCP: 428 typed tools that check their parameters and read… |
-| 2026-11-09 21:28:32 | [nexa-ui](https://pypi.org/project/nexa-ui/) | 1.1.0 | Parsa Mohammadian | 1.3 MB | Fast, tiny, zero-dependency immediate-mode desktop UI for Python — a Python por… |
-| 2026-11-09 21:30:35 | [creapy](https://pypi.org/project/creapy/) | 0.1.0 | Xingyu Long <xingyu.long@univ… | 852.2 kB | Eye-tracking visual analytics for art history and empirical aesthetics (CReA La… |
-| 2026-11-09 21:30:39 | [transmilenio-mcp](https://pypi.org/project/transmilenio-mcp/) | 0.1.1 | Pedro Restrepo | 161.4 kB | Buses de TransMilenio en vivo para Claude (MCP) y un mapa local. Sin API key: l… |
-| 2026-11-09 21:33:16 | [companyenrich](https://pypi.org/project/companyenrich/) | 1.0.1 |  | 78.3 kB | Official Python SDK for the CompanyEnrich API: company and people enrichment, s… |
-| 2026-11-09 21:34:34 | [rwnd](https://pypi.org/project/rwnd/) | 0.1.0 |  | 6.9 kB | A passive time machine for your filesystem. |
-| 2026-11-09 21:37:51 | [traceAI-openrouter](https://pypi.org/project/traceAI-openrouter/) | 0.1.0 | Future AGI | 11.2 kB | OpenTelemetry instrumentation for the dedicated OpenRouter Python SDK |
-| 2026-11-09 21:38:12 | [hdmv-menus](https://pypi.org/project/hdmv-menus/) | 0.1.0 | Brady Field | 2.3 MB | A Blu-ray's HDMV menus read from its files, nothing played: pages, buttons, pic… |
-| 2026-11-09 21:39:02 | [signal-sqlite](https://pypi.org/project/signal-sqlite/) | 1.0.0 | Jonathan Glanz <jonathan.glan… | 203.2 kB | Extract Signal backups to searchable SQLite; query and browse channels and conv… |
-| 2026-11-09 21:42:03 | [pygments-sysml](https://pypi.org/project/pygments-sysml/) | 1.0.0 | Vince Molnár | 16.7 kB | Pygments lexers for the SysML v2 and KerML textual notations |
-| 2026-11-09 21:43:33 | [jobveyra](https://pypi.org/project/jobveyra/) | 0.1.2 |  | 518.7 kB | A queue-driven job-search engine: discovery, evidence-based scoring, tailored a… |
-| 2026-11-09 21:43:37 | [arbis](https://pypi.org/project/arbis/) | 0.4.5 |  | 530.1 kB | Runtime workflow observation for agent systems. |
-| 2026-11-09 21:44:00 | [arrr-bay](https://pypi.org/project/arrr-bay/) | 0.4.0 | Phuderoso | 69.8 kB | Short language for arriving AIs. Language separate from bytes. |
-| 2026-11-09 21:45:52 | [rude-clean-code](https://pypi.org/project/rude-clean-code/) | 0.0.0 |  | 2.2 kB | placeholder |
-| 2026-11-09 21:46:58 | [pyshellforge](https://pypi.org/project/pyshellforge/) | 0.0.0 |  | 2.1 kB | placeholder |
-| 2026-11-09 21:50:04 | [motulator-bearingless](https://pypi.org/project/motulator-bearingless/) | 0.1.0 | Marko Hinkkanen <marko.hinkka… | 3.7 MB | Six-phase bearingless machine drives for motulator |
-| 2026-11-09 21:53:08 | [affordance](https://pypi.org/project/affordance/) | 0.0.0 | Approximate Labs | 10.1 kB | A browser for models: renders state into the exact tokens a model reads. First… |
-| 2026-11-09 21:55:52 | [kanonymity](https://pypi.org/project/kanonymity/) | 0.1.0 | Juliette Moreau <juliette.mor… | 13.7 kB | Measuring and solving k-anonymity handling missing values. |
-| 2026-11-09 21:58:01 | [yabi-torch](https://pypi.org/project/yabi-torch/) | 0.1.1 | YABI contributors | 357.3 kB | A batched, differentiable ODE solver — YABI's BDF + continuous adjoint, wrapped… |
-| 2026-11-09 21:58:39 | [offrec](https://pypi.org/project/offrec/) | 0.5.0 | offrec <info@offrec.ai> | 184.3 kB | Official Python client for offrec: zero-retention inference for frontier models… |
-| 2026-11-09 22:01:40 | [ansible-cleanup](https://pypi.org/project/ansible-cleanup/) | 1.0.0 | James Cherti | 55.4 kB | Utilities for detecting unused imports and variables in Ansible projects |
-| 2026-11-09 22:06:49 | [diffbot-mcp](https://pypi.org/project/diffbot-mcp/) | 0.2.0 |  | 89.3 kB | A Diffbot MCP server with a variety of helpful web knowledge fetching tools for… |
-| 2026-11-09 22:07:43 | [smartypants-network](https://pypi.org/project/smartypants-network/) | 0.1.0 |  | 15.8 kB | Smarty Pants for agents: exact open models priced per token, plus sealed Linux… |
-| 2026-11-09 22:10:01 | [appfl-bio-suite](https://pypi.org/project/appfl-bio-suite/) | 0.3.0 |  | 2.5 MB | Cross-silo federated learning experiments in computational biology, built on AP… |
-| 2026-11-09 22:10:09 | [metric-contracts](https://pypi.org/project/metric-contracts/) | 0.1.0 | Val Ye | 73.8 kB | One governed metric contract, many consumers: validator CLI, MCP server, chart… |
-| 2026-11-09 22:10:55 | [bonya](https://pypi.org/project/bonya/) | 1.0.0 |  | 84.8 kB | Synchronous Python SDK for Bonya sandboxes |
-| 2026-11-09 22:11:46 | [repelly](https://pypi.org/project/repelly/) | 0.1.0 | Moritz Peist | 93.7 kB | Repelling, non-overlapping text labels for Plotly figures, solved in the browse… |
-| 2026-11-09 22:16:45 | [qt-ui-evidence](https://pypi.org/project/qt-ui-evidence/) | 0.1.0 | Belal Alkufri | 79.9 kB | Qt interface evidence: screenshots, geometry and measured before/after comparis… |
-| 2026-11-09 22:16:51 | [aspose-tex-foss](https://pypi.org/project/aspose-tex-foss/) | 26.11.1 |  | 2.1 MB | Pure-Python TeX/LaTeX processing library |
+| 2026-11-09 22:20:44 | [fresh-tipsy](https://pypi.org/project/fresh-tipsy/) | 0.1.0 | UBC FRESH Lab | 216.5 kB | A provenance-first Python interoperability layer for BC TIPSY and FAN$IER table… |
+| 2026-11-09 22:23:51 | [sirannon-client](https://pypi.org/project/sirannon-client/) | 0.1.0 | Delali | 142.8 kB | Python client for the Sirannon database server, with a typed method for every H… |
+| 2026-11-09 22:24:47 | [b10-msgpack-numpy](https://pypi.org/project/b10-msgpack-numpy/) | 0.4.8 | Lev E. Givon | 19.3 kB | Numpy data serialization using msgpack (Baseten fork with CWE-502 fix) |
+| 2026-11-09 22:25:58 | [assetcat](https://pypi.org/project/assetcat/) | 1.0.0 |  | 1.5 MB | AssetCat: index, search and browse a big game asset library, with licenses and… |
+| 2026-11-09 22:26:07 | [peslite-gui](https://pypi.org/project/peslite-gui/) | 0.5.2 |  | 55.6 kB | GUI interface for PESLite. |
+| 2026-11-09 22:27:22 | [django-weasyprint-reports](https://pypi.org/project/django-weasyprint-reports/) | 0.1.0 | Hector Leal | 64.2 kB | Reportes PDF genéricos para Django con templates HTML y WeasyPrint (sin guardar… |
+| 2026-11-09 22:28:37 | [casperbox](https://pypi.org/project/casperbox/) | 0.2.2 |  | 55.9 kB | Build and run CASPER toolflow development containers with rootless podman |
+| 2026-11-09 22:36:10 | [axonio](https://pypi.org/project/axonio/) | 0.2.0 |  | 51.3 kB | Persistent memory for AI agents: hybrid recall, branch and merge. Python client… |
+| 2026-11-09 22:38:42 | [eq-markdown](https://pypi.org/project/eq-markdown/) | 0.1.0 | Redbot <ask@redguides.com> | 32.0 kB | Python-Markdown extensions for the RedGuides and MacroQuest documentation sites |
+| 2026-11-09 22:38:44 | [risorius-rl](https://pypi.org/project/risorius-rl/) | 0.15.1 |  | 67.1 kB | Record research trajectories, model calls and metrics without controlling execu… |
+| 2026-11-09 22:41:12 | [embed-ab](https://pypi.org/project/embed-ab/) | 0.1.0 | LeeGyeongPil | 99.0 kB | A/B-test two embedding models on your own documents: Recall/nDCG/MRR with confi… |
+| 2026-11-09 22:44:12 | [cim-profiles](https://pypi.org/project/cim-profiles/) | 0.1.0a1 | "A. Anderson" <19935503+AAnde… | 5.1 MB | CIM data profiles (Python dataclasses) and the Identity/units object model used… |
+| 2026-11-09 22:46:42 | [pgoutput](https://pypi.org/project/pgoutput/) | 0.1.0 | Dylan Merigaud | 269.3 kB | Decode PostgreSQL logical replication (pgoutput, protocol 1 to 4) into typed Py… |
+| 2026-11-09 22:51:13 | [bilingua](https://pypi.org/project/bilingua/) | 0.9.1 | Patois Labs, LLC | 23.9 MB | Open, segment and rebuild source files for translation: 88 file formats, bytes… |
+| 2026-11-09 22:52:48 | [rumbo](https://pypi.org/project/rumbo/) | 0.4.0 |  | 634.4 kB | RUMBO: an end-to-end framework for building software with AI coding agents (ANC… |
+| 2026-11-09 22:57:31 | [edgecase](https://pypi.org/project/edgecase/) | 0.1.0 | Rich Iannone <riannone@me.com> | 40.9 MB | High-performance graph analysis library |
+| 2026-11-09 22:57:41 | [odycat](https://pypi.org/project/odycat/) | 1.0.0 | Javier Martínez García | 592.1 kB | OdyCAT — EtherCAT from Python on Linux (IgH EtherCAT Master) |
+| 2026-11-09 22:58:02 | [helpfalcon](https://pypi.org/project/helpfalcon/) | 1.0.0 |  | 18.5 kB | HelpFalcon API client for Python, generated from the OpenAPI document. |
+| 2026-11-09 22:58:04 | [ronnyx](https://pypi.org/project/ronnyx/) | 0.2.0 | Baran Yalcin | 29.4 kB | Self-hosted MCP runtime with custom tool support. Connect any MCP server, add y… |
+| 2026-11-09 22:58:23 | [testflows.machine](https://pypi.org/project/testflows.machine/) | 0.1.0 | "Katteli Inc." <info@testflow… | 290.1 kB | Python SDK for TestFlows™ Machine, the deterministic execution environment |
+| 2026-11-09 23:02:38 | [gaiamock](https://pypi.org/project/gaiamock/) | 1.0.0 | Kareem El-Badry <kelbadry@cal… | 66.8 MB | Simulate Gaia epoch astrometry and fit astrometric binary orbits |
+| 2026-11-09 23:04:30 | [plandev-cli](https://pypi.org/project/plandev-cli/) | 2.12.0 |  | 105.8 kB | A CLI application and Python API for interacting with PlanDev. |
+| 2026-11-09 23:07:13 | [licomp-aflc](https://pypi.org/project/licomp-aflc/) | 0.1 | Henrik Sanklef | 23.6 kB | Simple command line tool to check compatibility between two licenses, given con… |
+| 2026-11-09 23:07:38 | [agents-workspace](https://pypi.org/project/agents-workspace/) | 0.1.0 | Lolaplex | 19.5 kB | One root for every agents domain: memory, traces, schedules, personas, relay st… |
+| 2026-11-09 23:09:11 | [context-ontology](https://pypi.org/project/context-ontology/) | 0.0.0 |  | 2.0 kB | Agent context grounded in local ontologies, built from your notes by several mo… |
+| 2026-11-09 23:12:18 | [earth-refraction](https://pypi.org/project/earth-refraction/) | 0.1.0 | Nen Huynh | 6.5 MB | Atmospheric and ocean refractive index computation with 3D ray tracing on WGS-84 |
