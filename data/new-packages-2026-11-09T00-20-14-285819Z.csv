@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-08T23:19:05Z,dragon-torch,1.1.1,,,162039,PyTorch Deep Learning Research framework. Focused on RL but support for extending the framework to other areas of research
+2026-11-08T23:20:33Z,kkrunner,0.1.0b1,,MIT,348052,Program-independent local and remote scientific job execution
+2026-11-08T23:21:50Z,fieldsim,0.2.0,enesuslu15,"MIT License Copyright (c) 2026 enesuslu15 Permission is hereby granted, free of charge, to any pers…",101227,"Virtual Modbus, OPC UA and S7 devices for testing industrial software without hardware."
+2026-11-08T23:30:00Z,nn-rank,0.0.1,ABrain One and contributors <AI@ABrain.one>,Apache-2.0,61266,Ranking of AI Systems by the Accuracy-Resource Trade-off
+2026-11-08T23:38:08Z,boring-agent-memory,0.2.2,Boring Agent Memory contributors,MIT,132697,"A boring, local-first BM25 memory layer for AI agents."
+2026-11-08T23:45:29Z,findcheap,0.1.0,Findcheap <support@findcheap.ai>,MIT,13990,"Find where the product on a page is sold for less: the Findcheap API's search, extract and resolve calls."
+2026-11-08T23:47:12Z,fastdd,1.2.0,,,34235,Parallel file reader and in-place rewriter with resume and colorful progress
+2026-11-08T23:47:16Z,fresha-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,18681,"Connect Fresha to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Fresha API key needed."
+2026-11-08T23:48:22Z,booksy-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,18634,"Connect Booksy to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Booksy API key needed."
+2026-11-08T23:48:26Z,lrank,0.0.1,ABrain One and contributors <AI@ABrain.one>,Apache-2.0,19654,Ranking of AI Systems by the Accuracy-Resource Trade-off
+2026-11-08T23:49:00Z,batfish-q-mcp,0.1.0,Maen Artimy,Apache-2.0,79065,"MCP server for Batfish: questions, assertions, topology, and failure testing as tools"
+2026-11-08T23:49:28Z,bookingkoala-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,18662,"Connect BookingKoala to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No BookingKoala API key needed."
+2026-11-08T23:50:34Z,milanote-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,18604,"Connect Milanote to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Milanote API key needed."
+2026-11-08T23:51:16Z,nkde,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,100466,"Network kernel density estimation (NKDE / TNKDE) along street networks: simple, discontinuous and continuous kernels, network K-function and hot spots."
+2026-11-08T23:51:18Z,routematrix,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,85381,"Large origin-destination travel-time and distance matrices from OSRM, Valhalla, GraphHopper and openrouteservice, with tiling, caching, resume and accessibility tools."
+2026-11-08T23:51:19Z,roadnoise,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,114488,"Transparent screening-level road traffic noise in Python: CNOSSOS-EU source model, ISO 9613 propagation, END indicators (Lden, Lnight) and exposure statistics."
+2026-11-08T23:51:35Z,isgenai,0.1.0,isGenAI,"MIT License Copyright (c) 2026 isGenAI Permission is hereby granted, free of charge, to any person…",13357,"Python client for the isGenAI check API: AI-image and AI-text evidence, Content Credentials (C2PA), AI labels and saved prompts, no API key needed for the documented endpoints."
+2026-11-08T23:52:59Z,llm-cachecheck,0.2.1,Aditi Patodiya,MIT,39447,"Measure how often the prompt cache changes greedy answers on your LLM server (llama.cpp, plus an experimental two-server mode for vLLM and SGLang)"
+2026-11-08T23:53:42Z,geoparquet-lite,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,106193,"Read, write and validate GeoParquet 1.0/1.1 with only pyarrow: WKB and native GeoArrow encodings, bbox covering, row-group spatial filtering."
+2026-11-08T23:53:42Z,heatstress,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,127946,"Vectorised heat-stress indices: NWS Heat Index, Humidex, Apparent Temperature, wet bulb, WBGT (Liljegren), UTCI, wind chill, risk categories and heatwave detection."
+2026-11-08T23:53:44Z,crashmap,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,151694,"Road-safety network screening in Python: HSM crash frequency, rate, critical rate, EPDO, Empirical Bayes, negative binomial SPFs, before-after studies and crash hotspots."
+2026-11-08T23:56:34Z,coglite,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,158346,"Read windows, pixels and overviews from Cloud-Optimized GeoTIFFs over HTTP(S) or local files with numpy only - no GDAL, no rasterio."
+2026-11-08T23:56:38Z,bikelts,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,139493,"Bicycle Level of Traffic Stress (LTS 1-4) from OpenStreetMap tags or tables: Mekuria 2012, Furth 2017 and Bike Ottawa rulesets, assumption logging and low-stress connectivity analysis."
+2026-11-08T23:56:39Z,geofencing,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,106850,"Fast, dependency-free geofencing: point-in-fence checks, an R-tree over thousands of fences and enter/exit/dwell events from GPS position streams."
+2026-11-08T23:58:30Z,geobatch,0.1.1,Yusuf Eminoğlu <yusufeminoglu@gmail.com>,MIT,138557,"Polite, resumable batch geocoding and reverse geocoding of spreadsheets over Nominatim, Photon, Pelias and API-key providers, with caching, rate limiting, fallback and quality flags."
+2026-11-09T00:01:10Z,pageindex-extract,0.1.0,PageIndex <support@pageindex.ai>,MIT,18923,Python client for Page Extract API by PageIndex: turn a PDF into JSON that fits your schema.
+2026-11-09T00:01:50Z,diagmunge,2026.11.8,Luke Jenkins,Apache-2.0,293827,Shared Qualcomm DIAG transport core (+ format-munge tools)
+2026-11-09T00:03:55Z,diaggulp,2026.11.8,Luke Jenkins,Apache-2.0,252632,Low-CPU host-side Qualcomm DIAG capture — arms the log mask and pumps raw HDLC
+2026-11-09T00:03:57Z,diaggpsd,2026.11.8,Luke Jenkins,Apache-2.0,188749,Live GNSS from a Qualcomm modem's DIAG stream — serves gpsd clients and writes RINEX
+2026-11-09T00:05:02Z,OfflineCurrencyCoverter,2026.11.9,,,2453257,ECB and cryptocurrency historical rates with EUR cross-conversion
+2026-11-09T00:07:41Z,qem,0.2.0,René de Hesselle <dehesselle@web.de>,0BSD,155705,Python library and CLI for NoMac cloud Macs (nomac.app)
+2026-11-09T00:08:59Z,ecosemantic-relay,0.1.14,Carlos Gaete-Morales <cdgaete@gmail.com>,PolyForm-Noncommercial-1.0.0,17489,"The EcoSemantic bridge tunnel: its messages, its frames, the bridge's discovery document and the Ed25519 proof a bridged request carries."
+2026-11-09T00:11:57Z,myqcd,0.1.0,ZhangXin8069,MIT,174926,"Executable audits for lattice-QCD formulas, operator construction, and Feynman diagram structure."
+2026-11-09T00:13:30Z,shotlog-mcp,0.1.0,Marlon Trujillo Jaramillo,MIT,203389,"MCP server that captures macOS windows into a numbered, captioned evidence log for lab reports, QA and docs."
