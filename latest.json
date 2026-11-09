@@ -1,20 +1,12 @@
 {
   "list": {
-    "count": 29,
-    "from": "2026-11-09T15:21:17.683312Z",
-    "path": "data/new-packages-2026-11-09T16-18-19-840311Z.csv",
-    "to": "2026-11-09T16:18:19.840311Z"
+    "count": 43,
+    "from": "2026-11-09T16:18:19.840311Z",
+    "path": "data/new-packages-2026-11-09T17-20-16-108245Z.csv",
+    "to": "2026-11-09T17:20:16.108245Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-11-09T12:38:55Z",
-      "package": "bluesky-nexus",
-      "since": "2026-11-09T12:19:21.221933Z",
-      "version": null
-    }
-  ],
-  "serial": 43411912,
+  "pending": [],
+  "serial": 43414999,
   "source_truncated": false,
-  "window": "2026-11-09T16:18:19.840311Z"
+  "window": "2026-11-09T17:20:16.108245Z"
 }

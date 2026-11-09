@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T16:18:52Z,djinni-mcp,0.3.0,,MIT,39338,Small local MCP for public Djinni job discovery and user-managed search history
+2026-11-09T16:19:19Z,imbi-plugin-openai,2.44.0,"""Gavin M. Roy"" <gavinr@aweber.com>",BSD-3-Clause,9466,OpenAI workload identity federation for Imbi
+2026-11-09T16:23:56Z,ai-coordinator,0.5.1,,PolyForm-Noncommercial-1.0.0,474308,Portable shared task state and bounded routing for local AI coding agents
+2026-11-09T16:24:20Z,peal-sdk,0.1.0,Peal <hello@peal.social>,Apache-2.0,465607,Client for the Peal API: schedule social media posts across platforms.
+2026-11-09T16:28:56Z,tangle-sandbox,0.1.0,Tangle Technologies <eng@tangle.tools>,MIT,435483,Python SDK for the Tangle Sandbox platform
+2026-11-09T16:29:16Z,quantpilot,1.5.0,QuantPilot contributors,MIT,970002,"Which LLM, format and runtime to run on this PC, measured and explained, and quantizing it (GGUF, AWQ, GPTQ, bitsandbytes, NVFP4)"
+2026-11-09T16:33:08Z,ehe-pipeline,0.1.0,Rida Javed <ridajaved25@gmail.com>,MIT,32131,"EHE x PM2.5 case-crossover pipeline: load, process, analyze"
+2026-11-09T16:33:46Z,adbc-driver-orkidea,0.1.0,Tnsor Labs,Apache-2.0,19145576,"Orkidea: an ADBC driver for Oracle Database, with no Oracle Client libraries required"
+2026-11-09T16:35:47Z,lights-out-gates,0.3.0,,Apache-2.0,189693,"The gates of lights-out that need only git and Python: one line, GO or NO-GO, no container."
+2026-11-09T16:36:06Z,cyphora,1.0.0,Jeya Sabarinath R (Cyphora Security Team),MIT,22367,"Cyphora — Enterprise AI Security Guardrail, Prompt Injection Defense & DLP SDK"
+2026-11-09T16:37:17Z,openplate,1.1.0,OpenPlate Contributors,Apache-2.0,152990,A cross platform template tool
+2026-11-09T16:37:49Z,handmade,0.3.0,Hiram Mwangi <h.hiramkarogo@gmail.com>,MIT,187010,"Make AI build interfaces that look designed: screen the request, generate a design system and gate the result."
+2026-11-09T16:40:06Z,docforge-live,1.0.0,"""DocForge.live"" <support@docforge.live>",MIT,286070,DocForge's Word template engine and the command line the DocForge.live plugin for Claude runs.
+2026-11-09T16:41:50Z,apairo-transform,0.3.0,Augustin Bresset <augustin.bresset@gmail.com>,MIT,68978,"Runtime transforms for apairo datasets: point clouds, images, labels, poses"
+2026-11-09T16:48:00Z,tinycalc,0.1.0,Alan Geirnaert,MIT,3810,A tiny calculator library
+2026-11-09T16:53:18Z,safetypulse,0.1.1,"Purvansh Joshi, PxA Labs",Apache-2.0,161037,Circuit Integrity Score: a cheap check that fine-tuning has not degraded an LLM's refusal mechanism
+2026-11-09T16:54:13Z,apiverve-mcp,1.1.3,APIVerve,MIT,21718,APIVerve MCP Server - Access 388+ APIs through the Model Context Protocol
+2026-11-09T16:56:21Z,bytnode,1.0.2,BytNode,MIT,275528,"Official Python SDK of the BytNode crypto market-data API: typed REST client, pagination, pandas and real-time WebSocket."
+2026-11-09T16:56:27Z,netops-toolkit,0.1.0,BG8CFB,MIT,15052,"Network engineer automation toolkit: batch info collection, config search, offline compliance audit (H3C/Huawei/Cisco/Ruijie)"
+2026-11-09T16:58:17Z,apairo-ros,0.1.0,Augustin Bresset <augustin.bresset@gmail.com>,MIT,91298,"ROS for apairo: extract bags to an apairo dataset, or read them in place"
+2026-11-09T16:58:26Z,apairo-visu,0.1.0,Augustin Bresset <augustin.bresset@gmail.com>,MIT,863394,Interactive 3D LiDAR visualisation for apairo datasets
+2026-11-09T16:58:39Z,tenor-api-client,0.1.0,,MIT,669598,Python client for the Tenor Trading API
+2026-11-09T17:00:20Z,twisk,0.1.0b0,Reda Oulbacha,Apache-2.0,220120,"A k9s-style terminal UI for SkyPilot: clusters, managed jobs, services and volumes without hand-written YAML"
+2026-11-09T17:02:49Z,celery-singleton-reboot,0.4.0,Panevo Services Ltd.,MIT,25998,Prevent duplicate celery tasks
+2026-11-09T17:03:37Z,cassiopee-converter,2026.11,ONERA,LGPLv3,5972453,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-09T17:03:39Z,cassiopee-roms,2026.11,ONERA,LGPLv3,1151497,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-09T17:03:42Z,cassiopee-generator,2026.11,ONERA,LGPLv3,3764107,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-09T17:03:45Z,cassiopee-distributor2,2026.11,ONERA,LGPLv3,1261625,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-09T17:05:09Z,ttdu-hwp,0.1.0,Tools That Don't Upload,MIT,23418,"HWP/HWPX to text, Markdown and DOCX via the Tools That Don't Upload API or its offline local runner (thin client, no parser inside)"
+2026-11-09T17:05:14Z,cbe-review,0.1.0,,,98343,"Cyber-Butler Enforcement gate: rule-pack manifest, provider execution, no-bypass enforcement, and SARIF evidence."
+2026-11-09T17:05:29Z,markitdown-ttdu-hwp,0.1.0,Tools That Don't Upload,MIT,9768,"MarkItDown plugin for HWP/HWPX (Korean word processor) files, using the Tools That Don't Upload API or its offline local runner"
+2026-11-09T17:05:31Z,docling-ttdu-hwp,0.1.0,Tools That Don't Upload,MIT,11217,HWP/HWPX (Korean word processor) input for Docling: builds a DoclingDocument via the Tools That Don't Upload API or its offline local runner
+2026-11-09T17:06:03Z,pybrilliantkiosk,0.1.0,Mike Ippolito,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",97534,Async client for managing Brilliant smart-panel kiosks (ha-kiosk) over SSH
+2026-11-09T17:06:15Z,narsil-client,0.1.0,Delali,Apache-2.0,160667,"Python client for the Narsil search server, with a typed method for every HTTP operation, failover between cluster nodes, and task polling."
+2026-11-09T17:12:45Z,oldap-api,1.0.0,ManuelRosenthaler,AGPL-3.0-only,241913,Flask API for OLDAP
+2026-11-09T17:15:36Z,smithy-aws-checksums,0.0.0,Amazon Web Services,Apache License 2.0,48603,"Checksum algorithms for Smithy tooling, with native acceleration."
+2026-11-09T17:16:12Z,a2m,1.1.0,jraleman,MIT,62876,Split an audio file into its instrument tracks and convert each track to MIDI.
+2026-11-09T17:16:48Z,basira-vision,0.1.0,gushmazuko,MIT,123401,"Turn a scanned book into a typeset edition in another language: vision OCR, sliding-window translation, Typst typesetting"
+2026-11-09T17:18:10Z,apiverve-gasprices,1.2.5,APIVerve <hello@apiverve.com>,MIT,21566,"Gas Prices returns average retail gasoline, diesel and LPG prices from official weekly government surveys for the US, the UK, all 27 EU countries and the EU average. Pass a country, or a US state, re…"
+2026-11-09T17:18:17Z,apiverve-gdpdata,1.2.5,APIVerve <hello@apiverve.com>,MIT,21488,"Get GDP (Gross Domestic Product) data for any country including current values and historical data going back to 1960. With changes=true it also returns the direction against the previous year, and o…"
+2026-11-09T17:18:24Z,pantadek,0.0.1.dev1,,AGPL-3.0-or-later,57030,Run human-readable AI-assisted browser test scenarios from your project
+2026-11-09T17:18:29Z,apiverve-globalstockmarket,1.2.5,APIVerve <hello@apiverve.com>,MIT,22205,Global Stock Market tracks share price indices across 36 countries using a normalized 2015 baseline. Send a two-letter country code to receive the latest monthly index value with the previous month's…
+2026-11-09T17:19:09Z,pyjwt-tpm,0.0.2,Sal Rashid,,39212,PyJWT signer for TPM based keys
