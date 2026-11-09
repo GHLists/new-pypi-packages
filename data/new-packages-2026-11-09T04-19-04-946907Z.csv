@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T03:23:06Z,comatype,0.0.2,oldsheeep3,MIT,44192,Comatype runtime for Python (client `c` and server `s`)
+2026-11-09T03:23:43Z,agentproof-cli,0.3.0,,MIT,35978,"Local evidence, checkpoints, and verification for AI coding tasks"
+2026-11-09T03:25:50Z,aethergovern,2.0.0,Samir Baladi,MIT,93247,AetherGovern v2.0.0: Reference implementation of the falsification-first governance architecture
+2026-11-09T03:27:13Z,wordpress-to-markdown,0.1.0,,MIT,41341,Export WordPress posts to Markdown with configurable metadata and output modes.
+2026-11-09T03:31:07Z,trajtest,0.1.1,Calas Automations,MIT,60524,"pytest for agent trajectories: assert on what an agent did, not just what it said"
+2026-11-09T03:31:18Z,utmkit,0.1.0,calasdan-sketch,MIT,28842,"Batch UTM campaign links with consistent slugs, validation, QR codes and a static index page"
+2026-11-09T03:31:29Z,backupproof,0.2.0,Calas Automations Inc.,MIT,74684,"Backup restore testing: restore the latest restic/borg/Proxmox backup into a throwaway target, boot it, run smoke checks, report PASS or FAIL with proof"
+2026-11-09T03:31:40Z,bootproof,0.2.0,Calas Automations Inc.,MIT,78681,"Pre-reboot boot verification: boot a snapshot in an isolated VM, run the service-up checklist, and print GO or NO-GO before you reboot the real box"
+2026-11-09T03:40:29Z,logger-libs,0.4.1,Willy Polychenko,,19412,Utils for generic python logging package
+2026-11-09T03:46:58Z,mapprojax,0.3.0,,MIT,127224,Differentiable JAX coordinate kernel for FITS TAN/SIN WCS with SIP
+2026-11-09T03:50:03Z,repo-airgap,0.4.0,,MIT,187420,Local privacy audit and reviewed air-gap adaptation for source repositories
+2026-11-09T03:52:24Z,fastpubsub-core,0.10.0,Sandro Matheus Vila Nova Marques <sandro-matheus@hotmail.com>,Apache-2.0,83850104,The compiled Pub/Sub transport of FastPubSub
+2026-11-09T03:59:01Z,inventree-sl-guard,0.3.1,SntPartizan,MIT,64493,"SL Guard: protect InvenTree stock locations by type, with controlled relocation and bulk assignment"
+2026-11-09T03:59:25Z,amagi-sniff,0.1.0,"""AmagiLabs (Amagisolutionsgroup, Inc.)"" <dev@amagisolutionsgroup.com>",MIT,57527,"Find text hidden from people but readable by AI in PDFs, Word and PowerPoint files, web pages, Markdown and repos: white or tiny text, hidden runs, CSS-hidden HTML, Unicode tag smuggling. No model, n…"
+2026-11-09T03:59:58Z,stackbox,0.1.0,"Stacktrace AI, Inc",LicenseRef-Proprietary,133869,"One API for every sandbox provider: an OpenSandbox-compatible gateway that routes sandboxes across E2B, Modal, Daytona, Vercel and Cloudflare"
+2026-11-09T04:06:29Z,daily-price-loader,0.0.0,,,924,Namespace placeholder reserved by Squarepoint IT Security. Not for public use.
+2026-11-09T04:09:06Z,so101-workshop,0.1.0,iltlo <pypi@ianlo.net>,,253842,SO-101 workshop: local arm control and a browser UI
+2026-11-09T04:09:54Z,webvac,0.3.1,Adityaaa,MIT,332822,Asyncio dynamic web scraper with auth and an optional De-Caffeinator VAPT task.
+2026-11-09T04:12:00Z,quicktube-mcp,1.0.0,"""AW3 Technology, Inc."" <will.schulz@aw3.tech>",MIT,35011,"MCP server for QuickTube (quicktube.ai): YouTube transcripts, AI summaries, quizzes and fact-checks for AI agents"
+2026-11-09T04:16:57Z,colophon-protocol,0.0.0,Fluxtopus,Apache-2.0,10344,Reserved for the reference implementation of the Colophon protocol (draft).
+2026-11-09T04:18:42Z,vork-native-darwin-arm64,0.0.0,,LicenseRef-vork-Preview,1326,Placeholder for the vork native runtime (vork-native-darwin-arm64). Install vork instead: https://github.com/voyager-so/vork
+2026-11-09T04:18:43Z,vork-native-linux-x64,0.0.0,,LicenseRef-vork-Preview,1298,Placeholder for the vork native runtime (vork-native-linux-x64). Install vork instead: https://github.com/voyager-so/vork
+2026-11-09T04:18:44Z,vork-native-windows-x64,0.0.0,,LicenseRef-vork-Preview,1318,Placeholder for the vork native runtime (vork-native-windows-x64). Install vork instead: https://github.com/voyager-so/vork
