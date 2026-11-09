@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T08:20:23Z,agentdodont,0.1.0,Moshe Sipper,Apache-2.0,117174,"A rules engine between an AI agent and its tools, built assuming the model can be hijacked. Includes an MCP proxy."
+2026-11-09T08:23:57Z,tingee-sdk,0.4.0,Tingee <developer@heno.vn>,ISC,44787,Tingee Open API SDK for Python
+2026-11-09T08:35:15Z,build-item,0.1.2,,,5149,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-09T08:35:17Z,swiftdoc,0.6.1,Santiago Vasquez <kur4ise@gmail.com>,MIT,20529439,"A zero-config, fast Python documentation generator. Installs the swiftdoc command."
+2026-11-09T08:37:24Z,certbot-dns-hosttech,0.1.0,Bunkerity,Apache-2.0,80208,Hosttech DNS authenticator plugin for Certbot
+2026-11-09T08:38:47Z,cheso-cli,0.2.0,cheso,,119902,"Use Cheso from your terminal or coding agent: research reports, PPT, web pages, posters, videos, images, document translation and format conversion"
+2026-11-09T08:42:07Z,smolagents-briq,0.1.0,,MIT,17975,Persistent briq sandbox executor for smolagents
+2026-11-09T08:44:52Z,nirs4all-access,0.1.0,,CECILL-2.1 OR AGPL-3.0-or-later,91989,Standard-library project-token authentication contract
+2026-11-09T08:46:46Z,NuPatch3D,1.0.0b1,"""J. Wang"" <jinbowang@mail.ustc.edu.cn>",MIT,97062,A napari plugin for 3D cell label correction using GMM and Deep Learning.
+2026-11-09T08:47:34Z,duckdb-core-ext-vss,0.0.0,DuckDB,,1055,Reserved name for the DuckDB vss extension packaged for pip
+2026-11-09T08:47:47Z,nolo-voluma,0.1.0,Festo Kasalu Magembe <festomanolo@icloud.com>,MIT,8181279,"VOLUMA: a native macOS explorer that reads and writes NTFS, exFAT and FAT and browses ext4, APFS and HFS+. Run it with `voluma`."
+2026-11-09T08:48:54Z,tujia-nlp,0.2.0,TujiaNLP contributors,MIT,46920,"Tujia orthography utilities: tone notation, IPA to Ye conversion, phone normalisation"
+2026-11-09T08:49:22Z,diffusr,0.1.0,,MIT,23009,"The diffusr API client: make videos, images and music from code. Free price checks, idempotent starts, wait_for, signed callbacks."
+2026-11-09T08:50:57Z,duckdb-core-ext-vortex,0.0.0,DuckDB,,1077,Reserved name for the DuckDB vortex extension packaged for pip
+2026-11-09T08:52:55Z,duckdb-core-ext-unity_catalog,0.0.0,DuckDB,,1134,Reserved name for the DuckDB unity_catalog extension packaged for pip
+2026-11-09T08:53:30Z,ketrs,0.1.5,Elliott Ashby,MIT OR Apache-2.0,78135857,Quantum computer simulation backend written in Rust
+2026-11-09T08:53:46Z,kazaplan-mcp,0.1.0,Pierre-Alexandre Dupuy,MIT,131282,"Serveur MCP non officiel pour le concepteur 3D Leroy Merlin (Virtual Home, moteur Kazaplan)"
+2026-11-09T08:54:19Z,duckdb-core-ext-ui,0.0.0,DuckDB,,1048,Reserved name for the DuckDB ui extension packaged for pip
+2026-11-09T08:54:55Z,kded,0.3.0,Trung Nguyen <trungnth@gmail.com>,MIT,594085,Kernel density estimation via diffusion (Botev et al. 2010) for data in any dimension
+2026-11-09T08:55:02Z,novoflow,0.1.0,Joel Gedeon Asa <16p010@polytechnique.cm>,Apache-2.0,78526,High-Throughput De Novo Peptide Sequencing via Continuous-Time Discrete Flow Matching and Physical Knapsack Reachability
+2026-11-09T08:55:09Z,refdatakit,0.1.0,RefDataKit contributors,MIT,71485,Source-aware reference data and validation tools
+2026-11-09T08:55:26Z,duckdb-core-ext-tpch,0.0.0,DuckDB,,1064,Reserved name for the DuckDB tpch extension packaged for pip
+2026-11-09T08:55:37Z,livetennisapi-export,0.1.0,Live Tennis API <hello@livetennisapi.com>,MIT,130838,"Export Live Tennis API data (matches, fixtures, players, rankings, tournaments) to CSV, JSON Lines or Parquet, from the command line or Python."
+2026-11-09T08:56:41Z,duckdb-core-ext-tpcds,0.0.0,DuckDB,,1070,Reserved name for the DuckDB tpcds extension packaged for pip
+2026-11-09T08:56:47Z,aria-voice,0.0.0,Synthpop Inc,,1451,Reserved name. Synthpop Inc placeholder that raises an error on import.
+2026-11-09T08:57:23Z,grape-quickstart,0.1.4,Grape,MIT,22134,One-command installer and launcher for the Grape platform
+2026-11-09T08:57:39Z,securai-mcp-scanner,0.2.0,Ellie Bidarigh,MIT,73687,Security scanner for Model Context Protocol (MCP) server configs and live tool surfaces. Part of the SecurAI toolkit.
+2026-11-09T08:57:55Z,duckdb-core-ext-sqlsmith,0.0.0,DuckDB,,1091,Reserved name for the DuckDB sqlsmith extension packaged for pip
+2026-11-09T08:59:08Z,duckdb-core-ext-sqlite,0.0.0,DuckDB,,1076,Reserved name for the DuckDB sqlite extension packaged for pip
+2026-11-09T09:00:21Z,duckdb-core-ext-spatial,0.0.0,DuckDB,,1086,Reserved name for the DuckDB spatial extension packaged for pip
+2026-11-09T09:01:18Z,bundesliga-mcp,0.1.0,Mohammad Abbasi,MIT,28064,"Unofficial read-only MCP server for German football — Bundesliga fixtures, live scores, tables and top scorers"
+2026-11-09T09:01:26Z,duckdb-core-ext-quack,0.0.0,DuckDB,,1070,Reserved name for the DuckDB quack extension packaged for pip
+2026-11-09T09:01:42Z,neighbourhood,1.0.0,Benedikt Waldvogel <mail@bwaldvogel.de>,GPL-2.0-only,29245,Discover hosts on directly connected IPv4 networks using ARP
+2026-11-09T09:01:50Z,foreshore,0.0.1,Karla Burelo and Vanessa Leite,Apache-2.0,150726,Python package for training a network with Rockpool.
+2026-11-09T09:02:35Z,duckdb-core-ext-postgres,0.0.0,DuckDB,,1093,Reserved name for the DuckDB postgres extension packaged for pip
+2026-11-09T09:03:06Z,mecha-keys,0.1.0,JoaquinRuiz,MIT,1169925,Local dashboard that tells you how much life is left on your AI API keys.
+2026-11-09T09:03:10Z,ragmcp-cli,0.2.0,Masih Moafi,MIT,388115,"Scoped hybrid-RAG CLI and MCP server with BM25, vector retrieval, reranking, and answer synthesis"
+2026-11-09T09:05:28Z,heap-profiler,0.2.0,Yoav Alon,MIT,10983740,"Sampling heap profiler for CPython with pprof output, written in Rust"
+2026-11-09T09:05:42Z,duckdb-core-ext-odbc,0.0.0,DuckDB,,1062,Reserved name for the DuckDB odbc extension packaged for pip
+2026-11-09T09:06:56Z,duckdb-core-ext-mysql,0.0.0,DuckDB,,1071,Reserved name for the DuckDB mysql extension packaged for pip
+2026-11-09T09:07:48Z,arkhai-kit-deal-lifecycle-buyer,0.1.0,,MIT,13296,"Buyer-owned lifecycle evidence, retention and case export."
+2026-11-09T09:08:05Z,arkhai-kit-deal-lifecycle-client,0.1.0,,MIT,4450,Signed buyer client for the storefront lifecycle API.
+2026-11-09T09:08:06Z,duckdb-core-ext-motherduck,0.0.0,DuckDB,,1107,Reserved name for the DuckDB motherduck extension packaged for pip
+2026-11-09T09:08:20Z,arkhai-kit-deal-servicing,0.1.0,,MIT,35602,"Seller evidence, delivery-end journals and lifecycle observation."
+2026-11-09T09:08:36Z,arkhai-kit-delivery-apprise,0.1.1,,MIT,2853,An Apprise delivery sink: revealed marketplace events to any service Apprise reaches
+2026-11-09T09:08:52Z,arkhai-kit-resource-pools-client,0.1.0,,MIT,3149,Typed resource-pool administration methods over any transport offering authenticated_request.
+2026-11-09T09:09:08Z,arkhai-vms-negotiation,0.6.0,,MIT,1034941,"VM negotiation policies, the seller round, and the RL strategy, shared by the VM storefront and buyer."
+2026-11-09T09:09:15Z,duckdb-core-ext-legacy_parser,0.0.0,DuckDB,,1134,Reserved name for the DuckDB legacy_parser extension packaged for pip
+2026-11-09T09:09:22Z,arkhai-vms-settlement,0.5.0,,MIT,6303,"VM settlement terms, proposals, and fulfillment helpers, shared by the VM storefront and buyer."
+2026-11-09T09:10:23Z,duckdb-core-ext-lance,0.0.0,DuckDB,,1069,Reserved name for the DuckDB lance extension packaged for pip
+2026-11-09T09:12:56Z,foreman-plane,0.1.0,Foreman Plane contributors,MIT,82954,"A task governance plane that runs outside the agent harness: dispatch, dependency gates, objective acceptance, append-only ledger."
+2026-11-09T09:13:41Z,Point-Cloud-clustering,1.0,HoaYaling,,15048,this is a program for Clustering
+2026-11-09T09:17:28Z,outcrawl-haystack,0.1.0,Outcrawl <hi@outcrawl.ai>,Apache-2.0,27711,Haystack components for Outcrawl web search and page fetching

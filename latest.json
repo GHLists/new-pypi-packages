@@ -1,12 +1,34 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-11-09T07:19:17.252862Z",
-    "path": "data/new-packages-2026-11-09T08-18-19-318655Z.csv",
-    "to": "2026-11-09T08:18:19.318655Z"
+    "count": 53,
+    "from": "2026-11-09T08:18:19.318655Z",
+    "path": "data/new-packages-2026-11-09T09-18-31-695952Z.csv",
+    "to": "2026-11-09T09:18:31.695952Z"
   },
-  "pending": [],
-  "serial": 43392169,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T09:08:13Z",
+      "package": "openapi-mcp-core",
+      "since": "2026-11-09T08:18:19.318655Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T08:56:56Z",
+      "package": "quietsec",
+      "since": "2026-11-09T08:18:19.318655Z",
+      "version": "0.3.1"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-09T09:07:26Z",
+      "package": "sanntis",
+      "since": "2026-11-09T08:18:19.318655Z",
+      "version": null
+    }
+  ],
+  "serial": 43394489,
   "source_truncated": false,
-  "window": "2026-11-09T08:18:19.318655Z"
+  "window": "2026-11-09T09:18:31.695952Z"
 }
