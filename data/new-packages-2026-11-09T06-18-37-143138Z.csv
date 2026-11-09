@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T05:13:50Z,saikit-learn,0.1.0,"André Oliveira <al.andre.oliveira@impatech.edu.br>, Davi Pestana <al.davi.campos@impatech.edu.br>,…",MIT,32285,"Biblioteca de aprendizado de máquina (projeto final de Aprendizado de Máquina I, IMPA Tech)"
+2026-11-09T05:29:51Z,windows-server-mcp,1.0.0,Ahmed Laminou Amadou,MIT,1885521,"Advanced Windows management, diagnostics, security, and optimization MCP server"
+2026-11-09T05:30:09Z,whoelse,0.1.0,Vladimir Beskorovainyi,MIT,481822,"Who else is working on what you're working on? An MCP server that finds them, works out what you could build together, and drafts the first message."
+2026-11-09T05:34:24Z,percidian,0.1.1,,Apache-2.0,366240,
+2026-11-09T05:36:53Z,comparator-recommender,0.1.1,,,232138,Groundworkers plugin for recommending comparator cohorts.
+2026-11-09T05:40:49Z,zrb-nudge,0.1.1,,AGPL-3.0-or-later,54335,"Scheduled nudges for zrb: a file of reminders, two tools to write it, and a trigger that reads it"
+2026-11-09T05:45:35Z,claimcite,0.1.0,,MIT,118857,"Check that every citation in a document is real, matches what the text says it is, and supports the quoted words."
+2026-11-09T05:46:02Z,awesomeTMC,3.3.0,Stéphane Derrode <stephane.derrode@ec-lyon.fr>,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",765243,Fast optimal filtering in Gaussian switching systems
+2026-11-09T05:46:09Z,ti2dac,0.1.0,Sazidul0,MIT,560833,Threat Intelligence to Detection-as-Code: TI report -> Sigma -> multi-SIEM queries + safe simulation guides
+2026-11-09T05:49:49Z,c2.transform.ooxml,1.0.0a1,Manabu TERADA <terada@cmscom.jp>,GPL version 2 or later,57278,Make Office Open XML files searchable in Plone
+2026-11-09T05:51:56Z,ebay-sell,0.1.0a1,,Apache-2.0,1018673,"Unofficial Python client for eBay's Sell, Commerce and Developer REST APIs. Not affiliated with, endorsed by or sponsored by eBay Inc."
+2026-11-09T05:52:55Z,re4an-envmedic,0.1.0,re4an,MIT,19552,"Check your .env file against .env.example: missing, extra, empty and duplicate keys."
+2026-11-09T05:59:46Z,pulselake-simulations,0.5.0,,LicenseRef-Proprietary,12562172,"PulseLake Simulations CLI and local MCP server for simulation research, workflows and persona research"
+2026-11-09T06:04:44Z,physical-sandbox,0.1.0,Atsushi Kojo,Apache-2.0,1027344,"Overlay robots on photos and videos of a real site at real scale, and compare motions with numbers."
+2026-11-09T06:05:51Z,lean-python,0.1.0,,Apache-2.0,76967,"Run Lean 4 code as Python: a runtime for code generated from Lean's IR, Lean blocks in Python files, and pydantic models for Lean types"
+2026-11-09T06:06:03Z,tytcli,0.2.0,,LicenseRef-Proprietary,201667,"投研通 (TYT) HTTP API CLI, designed for agent + skill driven use"
+2026-11-09T06:09:41Z,woise,1.0.0,Woise,BSD-2-Clause,49373,"Woise: voice and chat agents for your systems. Calls, campaigns, chat, live audio and webhooks."
+2026-11-09T06:12:19Z,integrable-firewall,0.1.0,Integrable <enquiries@integrable.tech>,Apache-2.0,68641,"Connect an AI agent built in code to its firewall, which screens every user message, tool call and tool result."
+2026-11-09T06:16:21Z,cripsy-binary-api,0.3.1,ionixcorp,,16642746,Bindings Python para cripsy-binary-api: IQ Option y Deriv (opciones binarias)
+2026-11-09T06:17:10Z,regulated-eval,1.0.0,Regulated LLM Eval Contributors,MIT,245731,"Regulated LLM Eval Framework — evaluation for LLMs in regulated domains (tax, accounting, legal) with 152-FZ compliance"

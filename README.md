@@ -8,32 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 05:18 UTC
+## Latest list — 2026-11-09 06:18 UTC
 
-New packages created between 2026-11-09 04:19 UTC and 2026-11-09 05:18 UTC.
+New packages created between 2026-11-09 05:18 UTC and 2026-11-09 06:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-09T05-18-19-436097Z.csv)
+[Full CSV](data/new-packages-2026-11-09T06-18-37-143138Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-09 04:23:48 | [dx5ii-cli](https://pypi.org/project/dx5ii-cli/) | 0.0.1 | topkie | 39.5 kB | Control a Topping DX5 II over HID: read state, switch output port and EQ preset |
-| 2026-11-09 04:25:03 | [pixelcut](https://pypi.org/project/pixelcut/) | 1.4.0 |  | 63.7 kB | K&K pixelcut - cut a picture into parts without changing a single pixel |
-| 2026-11-09 04:43:14 | [sendmock-testcontainers](https://pypi.org/project/sendmock-testcontainers/) | 0.1.0b1 |  | 4.6 kB | Starts SendMock in Docker from a test and gives its SMTP, HTTP and provider add… |
-| 2026-11-09 04:43:56 | [lollipop.sh](https://pypi.org/project/lollipop.sh/) | 0.0.1 | Kiyaan Pillai | 2.2 kB | Lollipop - coming soon |
-| 2026-11-09 04:50:27 | [ollama-token-monitor](https://pypi.org/project/ollama-token-monitor/) | 0.2.0 | Your Name | 16.9 kB | Production-ready Ollama token usage monitoring with auto-conversation splitting… |
-| 2026-11-09 04:53:12 | [odoo-addon-hr-holidays-allocation-domain](https://pypi.org/project/odoo-addon-hr-holidays-allocation-domain/) | 18.0.1.0.0.2 | Dixmit,Odoo Community Associa… | 23.0 kB | Allow to set a domain on Allocation Generation Wizard |
-| 2026-11-09 04:53:44 | [bettersystray](https://pypi.org/project/bettersystray/) | 0.1.0 |  | 13.1 kB | Windows only. Thread-safe system tray icons with animation and dynamic menus. |
-| 2026-11-09 04:57:39 | [fittins](https://pypi.org/project/fittins/) | 1.0.0 | Fittins AI <support@fittins.a… | 31.4 kB | Official Python library for the Fittins AI API: premium AI fashion photos and v… |
-| 2026-11-09 05:00:55 | [shopee-mshop-flageval](https://pypi.org/project/shopee-mshop-flageval/) | 0.0.0 | sc | 2.5 kB | A small example package |
-| 2026-11-09 05:01:30 | [pacif-framework](https://pypi.org/project/pacif-framework/) | 3.0.1 | PACIF Framework Contributors… | 27.5 kB | Statistically rigorous framework for human–algorithm predictive alignment. Meas… |
-| 2026-11-09 05:01:37 | [yolo-mcp](https://pypi.org/project/yolo-mcp/) | 2.0.0 | shenguanlin <shenguanlin@pjla… | 3.7 MB | YOLO MCP local image annotation and YOLO training |
-| 2026-11-09 05:04:50 | [gennova-box](https://pypi.org/project/gennova-box/) | 0.1.1a1 | GenNova-HUST | 120.6 kB | GenNova Box Linux/Ascend local inference deployment preview |
-| 2026-11-09 05:07:15 | [sri-lanka-holidays](https://pypi.org/project/sri-lanka-holidays/) | 1.0.2 | Sahan Ranasingha | 13.6 kB | Official Sri Lanka Public, Bank, and Mercantile holidays (including Full Moon P… |
-| 2026-11-09 05:07:28 | [sqlassert-dbt](https://pypi.org/project/sqlassert-dbt/) | 0.3.1 | Fred Israel | 77.6 kB | Check a dbt project's tests and sqlassert markers from its compiled manifest. |
-| 2026-11-09 05:11:58 | [cache-autopsy](https://pypi.org/project/cache-autopsy/) | 0.1.0 |  | 558.0 kB | Find out why your LLM prompt cache missed: offline diff, usage-aware hit rate,… |
-| 2026-11-09 05:12:58 | [plm-physics](https://pypi.org/project/plm-physics/) | 0.1.0 | ro-rbl | 12.8 kB | plm pack: Physics and mechanical calculations, checked by units and sanity rules |
-| 2026-11-09 05:12:59 | [plm-software](https://pypi.org/project/plm-software/) | 0.1.0 | ro-rbl | 22.8 kB | plm pack: Code tasks, checked by running the examples in a sandbox |
-| 2026-11-09 05:13:00 | [plm-sql](https://pypi.org/project/plm-sql/) | 0.1.0 | ro-rbl | 25.8 kB | plm pack: SQLite queries, checked by running them on the schema given with the… |
-| 2026-11-09 05:13:28 | [flask-admin-autolinks](https://pypi.org/project/flask-admin-autolinks/) | 0.1.1 | Mario Hernandez <mariofix@pro… | 10.6 kB | Implements autolinks for related models in ModelView from Flask-Admin |
-| 2026-11-09 05:13:43 | [kaggle-free-gpu](https://pypi.org/project/kaggle-free-gpu/) | 0.1.0 | Eric Maddox <eric.maddox@outl… | 172.4 kB | Give any coding agent free Tesla T4 x2 GPUs via Kaggle's REST API -- MCP server… |
-| 2026-11-09 05:16:26 | [speedyindex](https://pypi.org/project/speedyindex/) | 0.1.0 | SpeedyIndex | 15.5 kB | Python client and CLI for the SpeedyIndex API: Google, Bing and Yandex index ch… |
+| 2026-11-09 05:13:50 | [saikit-learn](https://pypi.org/project/saikit-learn/) | 0.1.0 | André Oliveira <al.andre.oliv… | 32.3 kB | Biblioteca de aprendizado de máquina (projeto final de Aprendizado de Máquina I… |
+| 2026-11-09 05:29:51 | [windows-server-mcp](https://pypi.org/project/windows-server-mcp/) | 1.0.0 | Ahmed Laminou Amadou | 1.9 MB | Advanced Windows management, diagnostics, security, and optimization MCP server |
+| 2026-11-09 05:30:09 | [whoelse](https://pypi.org/project/whoelse/) | 0.1.0 | Vladimir Beskorovainyi | 481.8 kB | Who else is working on what you're working on? An MCP server that finds them, w… |
+| 2026-11-09 05:34:24 | [percidian](https://pypi.org/project/percidian/) | 0.1.1 |  | 366.2 kB |  |
+| 2026-11-09 05:36:53 | [comparator-recommender](https://pypi.org/project/comparator-recommender/) | 0.1.1 |  | 232.1 kB | Groundworkers plugin for recommending comparator cohorts. |
+| 2026-11-09 05:40:49 | [zrb-nudge](https://pypi.org/project/zrb-nudge/) | 0.1.1 |  | 54.3 kB | Scheduled nudges for zrb: a file of reminders, two tools to write it, and a tri… |
+| 2026-11-09 05:45:35 | [claimcite](https://pypi.org/project/claimcite/) | 0.1.0 |  | 118.9 kB | Check that every citation in a document is real, matches what the text says it… |
+| 2026-11-09 05:46:02 | [awesomeTMC](https://pypi.org/project/awesomeTMC/) | 3.3.0 | Stéphane Derrode <stephane.de… | 765.2 kB | Fast optimal filtering in Gaussian switching systems |
+| 2026-11-09 05:46:09 | [ti2dac](https://pypi.org/project/ti2dac/) | 0.1.0 | Sazidul0 | 560.8 kB | Threat Intelligence to Detection-as-Code: TI report -> Sigma -> multi-SIEM quer… |
+| 2026-11-09 05:49:49 | [c2.transform.ooxml](https://pypi.org/project/c2.transform.ooxml/) | 1.0.0a1 | Manabu TERADA <terada@cmscom.… | 57.3 kB | Make Office Open XML files searchable in Plone |
+| 2026-11-09 05:51:56 | [ebay-sell](https://pypi.org/project/ebay-sell/) | 0.1.0a1 |  | 1.0 MB | Unofficial Python client for eBay's Sell, Commerce and Developer REST APIs. Not… |
+| 2026-11-09 05:52:55 | [re4an-envmedic](https://pypi.org/project/re4an-envmedic/) | 0.1.0 | re4an | 19.6 kB | Check your .env file against .env.example: missing, extra, empty and duplicate… |
+| 2026-11-09 05:59:46 | [pulselake-simulations](https://pypi.org/project/pulselake-simulations/) | 0.5.0 |  | 12.6 MB | PulseLake Simulations CLI and local MCP server for simulation research, workflo… |
+| 2026-11-09 06:04:44 | [physical-sandbox](https://pypi.org/project/physical-sandbox/) | 0.1.0 | Atsushi Kojo | 1.0 MB | Overlay robots on photos and videos of a real site at real scale, and compare m… |
+| 2026-11-09 06:05:51 | [lean-python](https://pypi.org/project/lean-python/) | 0.1.0 |  | 77.0 kB | Run Lean 4 code as Python: a runtime for code generated from Lean's IR, Lean bl… |
+| 2026-11-09 06:06:03 | [tytcli](https://pypi.org/project/tytcli/) | 0.2.0 |  | 201.7 kB | 投研通 (TYT) HTTP API CLI, designed for agent + skill driven use |
+| 2026-11-09 06:09:41 | [woise](https://pypi.org/project/woise/) | 1.0.0 | Woise | 49.4 kB | Woise: voice and chat agents for your systems. Calls, campaigns, chat, live aud… |
+| 2026-11-09 06:12:19 | [integrable-firewall](https://pypi.org/project/integrable-firewall/) | 0.1.0 | Integrable <enquiries@integra… | 68.6 kB | Connect an AI agent built in code to its firewall, which screens every user mes… |
+| 2026-11-09 06:16:21 | [cripsy-binary-api](https://pypi.org/project/cripsy-binary-api/) | 0.3.1 | ionixcorp | 16.6 MB | Bindings Python para cripsy-binary-api: IQ Option y Deriv (opciones binarias) |
+| 2026-11-09 06:17:10 | [regulated-eval](https://pypi.org/project/regulated-eval/) | 1.0.0 | Regulated LLM Eval Contributo… | 245.7 kB | Regulated LLM Eval Framework — evaluation for LLMs in regulated domains (tax, a… |
