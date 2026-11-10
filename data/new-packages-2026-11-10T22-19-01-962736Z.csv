@@ -1,0 +1,44 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T20:54:05Z,wagtail-google-tag,0.1.0,,BSD-3-Clause,24258,"Google tag (GA4) for Wagtail, set up in the Wagtail admin: per-site settings, Consent Mode defaults, page data and click events."
+2026-11-10T21:21:26Z,legacy-switch-mcp,0.1.1,,MIT,173948,"MCP server for old smart switches (D-Link DGS-1100, USRobotics 7724): plan-then-apply VLAN, port and trunk changes with read-back verification and rollback"
+2026-11-10T21:23:10Z,l3io-wordpress-backup,1.0.0,Shawn Anderson <ravensorb@gmail.com>,MIT,1521092,"WordPress backup, restore and relocation for automation"
+2026-11-10T21:23:18Z,ppk2-python,0.1.0,Matthew McGowan,BSD-3-Clause,243595,Python library for Nordic Power Profiler Kit II (PPK2)
+2026-11-10T21:23:38Z,napari-skopkit,0.1.0.dev0,scikit-ops developers,BSD-2-Clause,37293,Run scikit-ops ops from napari.
+2026-11-10T21:25:43Z,dex-connector-google-forms,0.1.0,,MIT,119465,Dex-native Python connector for Google Forms
+2026-11-10T21:28:10Z,audiobook-length,0.1.0,Philip <outreach@cocoreader.cc>,MIT,22326,"Estimate listening time from a word count, plain text, or EPUB at a given narration pace and playback speed."
+2026-11-10T21:29:20Z,announce-release,999.9.9,,,961,Stub package that mitigates Dependency Confusion attacks
+2026-11-10T21:29:21Z,decisions-kit,999.9.9,,,960,Stub package that mitigates Dependency Confusion attacks
+2026-11-10T21:29:22Z,eval-explore,999.9.9,,,959,Stub package that mitigates Dependency Confusion attacks
+2026-11-10T21:29:24Z,fix-after-bg-deploy,999.9.9,,,971,Stub package that mitigates Dependency Confusion attacks
+2026-11-10T21:32:05Z,sia-hu,0.4.0,Moe Shawky,MIT,850048,Unified headroom measurement: capture-proxy carrier + model_headroom scoring authority
+2026-11-10T21:32:15Z,orbwave,0.1.1,rvdxse,MIT,16697,Real-time audio visualizer with a spinning album cover
+2026-11-10T21:34:14Z,afire-ai,1.3.1,,,48704,"Command-line client for Afire: run commands, move files and open shells on your devices."
+2026-11-10T21:35:52Z,pymdls,0.1.1,Sushanta Nigudkar,MIT,33454,Multi-directional local search with user-supplied moves
+2026-11-10T21:37:36Z,dex-connector-google-gemini,0.1.0,,MIT,107396,Gemini connector for Dex Flows
+2026-11-10T21:39:26Z,reels-magico-voz-1,1.0.0,,MIT,90676791,Modelo para as skills Reels Magico
+2026-11-10T21:39:50Z,reels-magico-voz-2,1.0.0,,MIT,93326863,Modelo para as skills Reels Magico
+2026-11-10T21:40:08Z,reels-magico-voz-br,1.0.0,,MIT,58321441,Modelo para as skills Reels Magico
+2026-11-10T21:43:02Z,rapidworkers,0.1.0,RapidWorkers,MIT,48824,"Official Python SDK for RapidWorkers: hire real people for microtasks, app testing and AI data collection (photos, audio, video, text)."
+2026-11-10T21:43:02Z,rapidworkers-mcp,0.1.0,RapidWorkers,MIT,40735,"MCP server for RapidWorkers: let AI agents hire real people for AI data collection (photos, audio, video), app testing, surveys and microtasks."
+2026-11-10T21:46:38Z,szl,0.1.0,SZL Holdings <stephen@szlholdings.com>,Apache-2.0,23484,"The receipts layer for governed AI: khipu signing, the Kamachikuna constitution, provenance badges, and the two-axis Truth Router."
+2026-11-10T21:48:51Z,bowire-plugin,0.3.0,Küstenlogik,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",64896,Write a Bowire protocol plugin in Python — JSON-RPC sidecar SDK (stdio + HTTP/SSE).
+2026-11-10T21:50:37Z,evocode,0.1.0,Igor Titov,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",109630,"Read, decode, sign and write BMW NBT EVO (QNX) coding over ENET/HSFZ — pure stdlib."
+2026-11-10T21:55:22Z,aind-metadata-reader,0.2.0,Allen Institute for Neural Dynamics,MIT,259505,Read historical AIND metadata without rewriting source records
+2026-11-10T21:55:28Z,praesidias,0.1.0,Praesidias,Apache-2.0,92595,Check every agent action with Praesidias before it runs.
+2026-11-10T21:58:49Z,heypangolin,0.1.0,FluxOS contributors <dev@fluxtopus.com>,MIT,56841,"Python SDK for Pangolin agent inboxes: read, draft, and send mail as an agent connection"
+2026-11-10T21:59:33Z,firemq,0.1.0,The FireMQ Authors,Apache-2.0,9394934,"Python client for FireMQ, built on the Rust client"
+2026-11-10T22:01:39Z,pg-logical-repl,0.2.0,,,305459,Plan-driven PostgreSQL native logical replication and schema orchestration
+2026-11-10T22:01:41Z,aws-elasticache-integration-client,0.0.2rc1,,Apache-2.0,116987,ElastiCache Integrations for AWS SDK for Python (Boto3) DynamoDB clients.
+2026-11-10T22:01:44Z,eqlx-bankmath,0.1.0,Can Demir,Apache-2.0,139527,"Deterministic bank product arithmetic for Türkiye: instalment plans with KKDF and BSMV, annual cost rate, overdraft and revolving interest, credit card statements, guarantee commissions. Exact to the…"
+2026-11-10T22:02:21Z,cyborg-mcp-servers,0.1.0,Eris Hoxha <ehoxha@redhat.com>,Apache-2.0,147374,MCP servers for the Cyborg ecosystem: Argo/Kubernetes troubleshooting (argo-k8s) and organizational-data queries (orgdata). Primarily for internal Red Hat / openshift-eng use.
+2026-11-10T22:05:27Z,tarjamli,0.1.0,Omar Kamali <omar@omneitylabs.com>,MIT,15757,Python client for Tarjamli translation through Sawalni API
+2026-11-10T22:06:40Z,pypricecharting,0.0.1,ahcodedev,MIT,37664,Python PriceCharting API Client
+2026-11-10T22:11:12Z,getsocialapi-facebook,0.1.0,GetSocialAPI,MIT,19562,"GetSocialAPI — Python client for the Facebook Scraper API (groups, profiles, connections)"
+2026-11-10T22:11:21Z,getsocialapi-instagram,0.1.0,GetSocialAPI,MIT,25400,"GetSocialAPI — client library for the Instagram API (no cookies, no accounts required)"
+2026-11-10T22:11:23Z,watchlight-enclave,0.2.1,Watchlight AI,Apache-2.0,239136,"Watchlight AI Enclave — a governed, isolated runtime for autonomous AI agents."
+2026-11-10T22:11:24Z,getsocialapi,0.1.1,GetSocialAPI,MIT,5064,DEPRECATED — renamed to getsocialapi-instagram; compatibility shim for old imports
+2026-11-10T22:11:43Z,lazycontroller,0.1.0,Nicola Sambin,Apache-2.0,50861,"A drop-in replacement for the openai Python client that sends structured-output calls to a fast decision model first, and to the LLM you already use whenever that model isn't confident or the call is…"
+2026-11-10T22:12:54Z,plaxswap,0.1.0,Plaxswap <support@plaxswap.com>,MIT,14035,"Official Plaxswap API client: accept crypto payments (hosted checkout, payment links, signed webhooks) and quote crypto swaps."
+2026-11-10T22:14:01Z,repoutils,0.1.0,,MIT,165475,"Repository tooling for Python projects that use uv, just and GitHub Actions"
+2026-11-10T22:15:36Z,modelkeep,0.2.0,Phaneendra Babu Gunturu,MIT,53653,"Keep scikit-learn model files usable: load old files, prove results after an upgrade, check input."
+2026-11-10T22:16:03Z,pysnf,1.2.0,Ryan Cutshall,MIT,205217,Python Spherical Near-Field: probe-corrected spherical near-field to far-field transformation for antenna measurements (Hansen 1988).
