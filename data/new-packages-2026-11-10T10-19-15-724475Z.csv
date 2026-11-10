@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T08:40:20Z,odoo-addon-l10n-es-aeat-mod322,18.0.1.0.0.6,"Dixmit,Odoo Community Association (OCA)",AGPL-3,63861,AEAT modelo 322
+2026-11-10T09:18:57Z,ducklake-iceberg,0.1.0rc1,Tiago Didone,MIT,388777,"Publish DuckLake tables as Apache Iceberg v2 tables in AWS Glue, without copying data"
+2026-11-10T09:20:14Z,flockspeech,0.1.0,Flock Speech,Apache-2.0,79878164,"Tiny on-device text to speech: the Junco voice, 44 MB, runs faster than real time on one CPU thread."
+2026-11-10T09:20:46Z,denspatial,0.3.0,Chen Lihua,MIT,33027,Density-aware spatial gene-set association with detection-matched null models for spot-resolution spatial transcriptomics
+2026-11-10T09:20:51Z,stratyfy-cli,0.1.0,,,125239,"The pre command: describe a database, train a PRE model, read its rules"
+2026-11-10T09:21:19Z,pymqttd,0.1.0.dev0,,MIT,11222172,"A small MQTT 3.1.1 broker (rumqttd) packaged as a pip-installable executable, with a Python launcher."
+2026-11-10T09:21:47Z,conclave-team,0.1.1,Shivam Raj,MIT,71270,"A managed agent team: one Dean orchestrates many Cardinals on any model, Devils argue back, and you're the Pope."
+2026-11-10T09:22:29Z,agent-slowdown,0.1.1,Anton Dziatkovskii,MIT,69560,"Why parallel Claude Code, Codex, Cursor and Antigravity sessions make your machine crawl: per-session MCP copies, orphaned helpers, broad searches, and what actually helps."
+2026-11-10T09:24:04Z,langchain-sqlite-graph-memory,0.1.0,Anton Dziatkovskii,"MIT License Copyright (c) 2026 Palo Alto AI Research Lab Permission is hereby granted, free of char…",17345,LangChain retriever for sqlite-graph-memory: vector search + [[wikilink]] graph hop + cross-encoder rerank over your markdown notes. No server.
+2026-11-10T09:24:23Z,sprout-seg,1.1.0,Yichen He,MIT,312329,"SPROUT: semi-automated parcellation of 2D and 3D greyscale images into parts, by thresholds, erosion and growing"
+2026-11-10T09:24:49Z,napari-sprout,1.1.0,Yichen He,MIT,278523,"napari plugin for SPROUT: seeds, growing, editing and AI prompts for 2D and 3D segmentation"
+2026-11-10T09:25:28Z,bobina,0.1.0,,MIT,3211263,"Print Markdown on thermal roll printers, with calibrated defaults, previews you can trust and nudges instead of blocks."
+2026-11-10T09:26:45Z,ymlplus,0.1.0,Jei Blanchard <jjb@bmail.club>,GPL-3.0-or-later,108453,Validated YAML-readable profile with safe PyYAML I/O
+2026-11-10T09:26:57Z,sqlflip,0.1.1,anuvishalp <anuvishalp@gmail.com>,MIT,25367,"Detect a SQL query's dialect and view it in PostgreSQL, MySQL, SQL Server and standard SQL."
+2026-11-10T09:29:36Z,jt.javabridge,0.0.0,Adam Karpierz <adam@karpierz.net>,,,jt.javabridge.
+2026-11-10T09:30:59Z,bofile,0.1.0,,LicenseRef-Proprietary,30089,Standard-library CLI for the local BoFileX HTTP API
+2026-11-10T09:33:19Z,bundle-deps,0.1.0,,,17337,Bundle a project's npm and uv dependencies for offline use
+2026-11-10T09:33:35Z,guangdong-social-security,0.1.0,,,16828,Python SDK for Guangdong employer social security enrollment and removal
+2026-11-10T09:37:44Z,cronphase,0.2.1,cronphase contributors,MIT,34932,Fleet-wide cron thundering-herd analyzer & deterministic phase-shift compiler
+2026-11-10T09:40:38Z,sqlflipview,0.1.1,Jyoti <anuvishalp@gmail.com>,MIT,25449,"Detect a SQL query's dialect and view it in PostgreSQL, MySQL, SQL Server and standard SQL."
+2026-11-10T09:41:31Z,ai-dev-flow,3.10.0,Ding An,MIT,158821,"Stateful, resumable, auditable pipeline for agentic coding — requirements to design to tasks to code to review, with human checkpoints and one commit per task."
+2026-11-10T09:43:11Z,codex-backlog,0.1.0,,,10140,Run a coding agent for Backlog.md tasks
+2026-11-10T09:44:26Z,zerostack-mcp,0.9.9,ZeroStack RF Engineering <engineering@smlight.tech>,Apache-2.0,160519,"MCP server for diagnosing Zigbee, Thread, and IEEE 802.15.4 logs, decoding TI SimpleLink F2 and Silicon Labs EFR32 registers, and querying SMLIGHT ZeroStack benchmarks."
+2026-11-10T09:45:12Z,queue-service-kit,0.0.0,,,2720,Name placeholder: this release is yanked and is not meant to be installed.
+2026-11-10T09:47:47Z,jt.jep,0.0.0,Adam Karpierz <adam@karpierz.net>,,,jt.jep.
+2026-11-10T09:49:19Z,jt.jpy,0.0.0,Adam Karpierz <adam@karpierz.net>,,,jt.jpy.
+2026-11-10T09:49:27Z,deskpilot,0.2.0,Cillian Berragan <cjberragan@gmail.com>,MIT,143611,"Desktop control for agents on Hyprland: window-relative clicks that leave the user's pointer alone, and typing"
+2026-11-10T09:49:55Z,docling-tableformer-batched,0.1.0,"Yanick Schraner <yanick.schraner@bs.ch>, Tobias Bollinger <tobias.bollinger@bs.ch>",MIT,196513,A docling table structure plugin: TableFormer v1 with all tables of a page batch in one call
+2026-11-10T09:50:45Z,fourierslm,0.1.0,Melvin Redon,MIT,19029,"Fourier optics of a phase-only SLM: input beams, phase patterns and propagation to the focus of a lens"
+2026-11-10T09:50:53Z,pinnradar,0.1.0,PinnRadar <info@pinnradar.com>,MIT,16742,"Python client for the PinnRadar API: real-time Pinnacle odds, live and prematch markets, dropping-odds alerts over SSE."
+2026-11-10T09:51:37Z,jt.jpype,0.0.0,Adam Karpierz <adam@karpierz.net>,,,jt.jpype.
+2026-11-10T09:54:31Z,odoo-addon-hr-expense-tax-distribution,18.0.1.0.0.2,"Akretion, Odoo Community Association (OCA)",AGPL-3,45517,Allows to distribute a single expense amount across multiple tax rates by defining per-tax base amounts. Produces correct tax lines in the accounting entry when multiple VAT rates apply to the same r…
+2026-11-10T09:55:17Z,hypergraph-client,2.0.0,,SSPL-1.0,52772,gRPC client for the Temporal Hypergraph Engine (shared by the LangChain and LlamaIndex integrations)
+2026-11-10T09:55:21Z,langchain-hypergraph,2.0.0,,SSPL-1.0,17432,LangChain chat memory and vector store backed by the Temporal Hypergraph Engine
+2026-11-10T09:55:21Z,tokconnect,0.1.0,Tokconnect LLC <dj@tokconnect.com>,MIT,70989,"TokConnect CLI and Python client: TikTok Shop sales, TikTok search demand, videos, comments, transcripts, creators and more from the TokConnect API."
+2026-11-10T09:55:25Z,llama-index-hypergraph,2.0.0,,SSPL-1.0,16653,LlamaIndex retriever and chat memory backed by the Temporal Hypergraph Engine
+2026-11-10T09:55:28Z,hypergraph-offloader,2.0.0,,SSPL-1.0,12941,KV-cache block offloader backed by the Temporal Hypergraph Engine
+2026-11-10T09:55:59Z,stellar-xdr,0.1.0,overcat,Apache-2.0,2169610,"Strict, fully typed encoding and decoding of Stellar XDR, including SEP-51 XDR-JSON."
+2026-11-10T09:57:20Z,rnacosctl,0.1.0,,MIT,55703,An agent-friendly CLI for the r-nacos administration console
+2026-11-10T09:58:44Z,getphew,0.1.0,Phew <partners@getphew.com>,MIT,34472,"Python server SDK for the Phew APIs: offers, policies, cancellations and webhooks."
+2026-11-10T10:00:30Z,aaas,0.2.0,,,116686,"Python SDK for the Agent as a Service protocol — declare an Agent on one connection, keep every function body in your own process."
+2026-11-10T10:01:00Z,dashscope-agenticx,1.0.0,,MIT,987965,"DashScope AgenticX - a secure, embeddable runtime for agentic apps"
+2026-11-10T10:02:18Z,qchemkit,0.1.0,Jan Haase <j.haase@rub.de>,BSD-3-Clause,425707,"Toolkit for creating, submitting, parsing and analysing quantum chemical calculations."
+2026-11-10T10:05:21Z,ttlama-cli,0.1.0,"""Rémi Verschuur|rverschuur@audit-io.fr|"" <rverschuur@audit-io.fr>",Apache-2.0,114390,"Interface en ligne de commande pour TTL-LAMa, Time To Live - Lease Access Management"
+2026-11-10T10:06:52Z,atomic_femdvr,0.1.0,Michael Schüler,,117798,Kohn-Sham solver for isolated atoms (all-electron and norm-conserving pseudopotentials) using the finite-element discrete variable representation
+2026-11-10T10:15:25Z,tokensentry,0.1.1,TokenSentry contributors,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ Copyright 2026 TokenSentry…",261805,"Local-first prompt analysis, optimization, and validation toolkit."
