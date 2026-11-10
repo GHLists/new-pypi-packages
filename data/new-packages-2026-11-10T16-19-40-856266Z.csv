@@ -1,0 +1,62 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T15:21:08Z,rpprog,1.0.0,Stefan Wagner <wagiminator@web.de>,"MIT License Copyright (c) 2026 Stefan Wagner Permission is hereby granted, free of charge, to any p…",30434,USB Programming Tool for Raspberry Pi RP2040 and RP2350
+2026-11-10T15:21:25Z,scalelink,1.0.0,"""Data Linkage team, Methodology & Quality Directorate, Office for National Statistics"" <datalinkage…",MIT,63473,A Python and PySpark implementation of the Scalelink method of data linkage by Goldstein et al.
+2026-11-10T15:22:12Z,schemavortex,0.0.0,WS-Dev Ltd,LicenseRef-Proprietary,2777,Placeholder. The schemavortex module ships with the SchemaVortex agent and is not installed from PyPI.
+2026-11-10T15:24:29Z,aom-format,1.0.1,,,50324,"The interface contract of an AOM database. Schemes, version, sanity checks. Native python package."
+2026-11-10T15:24:48Z,cyjwt,0.2.0,Denis Ivlev <di-erz@yandex.ru>,Apache-2.0,1118830,Fast PyJWT-compatible JSON Web Token implementation with a Cython core (HS*/RS*/PS*/ES*/EdDSA)
+2026-11-10T15:25:42Z,antdpy,0.1.0,Talles Salmon <tallessalmon@hotmail.com>,MIT,1469697,"Ant Design para Python: declare a UI em Python, renderize com React + Antd."
+2026-11-10T15:26:43Z,byteme-tarot,0.1.0,"Tracy Wang, Emma Ao, Jingjing Wang, Uuriintuya Ganzorig",GPL-3.0-or-later,65461,A lighthearted Python tarot reading package
+2026-11-10T15:27:20Z,mjolnir-ml,0.1.0,Eduardo Perez Denadai <reach@optimality.ai>,PolyForm-Noncommercial-1.0.0,266068,Ω-certifiability harness: turn a fitted predictor (sklearn first) into a fail-closed decision model via @dsl policies.
+2026-11-10T15:28:20Z,breakpoint-sdk,0.1.0,Vishal Raj <9031842908.vk@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",34876,Zero-Trust Runtime Firewall & Circuit Breaker for Autonomous AI Agents
+2026-11-10T15:30:39Z,cleanhatch,0.0.1a0,Uncio Lintel,Apache-2.0,15900,Early development of tools for AI and temporal data pipelines.
+2026-11-10T15:31:41Z,mygraph-client,0.1.0,Julio Contreras,MIT,34745,Python client for the MyGraph server (protocol v1)
+2026-11-10T15:32:02Z,dss-cluster-sched,0.1.0,Paul Yushkevich <pyushkevich@gmail.com>,Apache-2.0,64388,Schedule ITK-SNAP DSS tickets as jobs on SLURM/LSF clusters
+2026-11-10T15:32:57Z,optical-background-generator,1.0.0,"""S. Davarpanah"" <shideh.davarpanah@unige.ch>, ""T. Montaruli"" <Teresa.Montaruli@unige.ch>","BSD 3-Clause License Copyright (c) 2026, University of Geneva (UNIGE). All rights reserved. Develop…",30318327,
+2026-11-10T15:33:00Z,typed-gtrade,0.1.0,Marcel Claramunt <marcel@tribulnation.com>,MIT,245111,"A fully typed, validated async client for the gTrade API."
+2026-11-10T15:33:34Z,rendez-cli,0.1.0,,MIT,48169,"Put your repository into a Rendez session, from your terminal"
+2026-11-10T15:33:57Z,siso-ref010,0.1.0a0,,MIT AND LicenseRef-SISO-Data,3577858,Structured multi-edition SISO-REF-010 parser and typed DIS entity API
+2026-11-10T15:34:07Z,zerix,0.4.0,elzonic,Apache-2.0,52719,Policy-enforcing middleware wallet for AI agents
+2026-11-10T15:34:18Z,pandoc-wheel,0.0.0,Tim Paine <t.paine154@gmail.com>,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",6408,pandoc-wheel
+2026-11-10T15:34:48Z,DeSiMaTe,0.1.1,Guillaume Cardoen,,79322,DeSiMaTe: Detect Similar Markdown Text
+2026-11-10T15:35:36Z,biohyperglow,0.1.0,"Wajdi DHIFLI <wajdi.dhifli@univ-lille.fr>, Nour Elislem Karabadji <n.karabadji@ensti-annaba.dz>, Ga…",MIT,95046,Adaptive Dual-Space Embeddings for Interpretable Disease-Gene Association Prediction
+2026-11-10T15:36:31Z,django-page-tours,0.1.0,Samuel Jennings <samuel.scott.jennings@gmail.com>,MIT,43419,"Guided tours of a page for Django sites, shown with Driver.js"
+2026-11-10T15:36:47Z,fav,0.1.0a1,,MIT,163194,"A read-only, spend-capped command line for X, built for agents."
+2026-11-10T15:36:58Z,hfg-techscan,0.3.0,Hackathon for Good,MIT,187159,Automated technical review of hackathon submissions
+2026-11-10T15:37:00Z,org-cost-mcp,0.0.12,org-cost-api contributors,MIT,129936,MCP server for AWS Org Cost Explorer (read-only dashboard API tools)
+2026-11-10T15:40:55Z,originalpictures-mcp-scopes,1.0.0,"""Original Pictures Technologies, Inc."" <hello@originalpictures.com>",Apache-2.0,15877,Versioned scope vocabulary for the Original Pictures MCP server (C2PA signing and verification).
+2026-11-10T15:41:07Z,pltbrowser,0.1.1,Riccardo Minnozzi,MIT,21346,"Browse many Matplotlib figures in one window, organized as a tree"
+2026-11-10T15:43:58Z,AITW_viscosity_surrogate,1.0.0,"Fahime Seyedheydari <fahime.seyedheydari@aalto.fi>, Marcin Mińkowski <marcin.minkowski@aalto.fi>, D…",,63093923,Run model training and prediction for predicting the viscosity of molecules based on their SMILES representation.
+2026-11-10T15:44:15Z,hypertier,0.0.1,Valentin Fernandez,Apache-2.0,17375,Tiered-memory inference runtime: run huge AI models on small GPUs (early development).
+2026-11-10T15:45:21Z,hypersr,0.1.0,Hyperalis Labs,LicenseRef-Proprietary,98120,Typed Python client for the HyperSR multispectral super-resolution API.
+2026-11-10T15:45:48Z,songsrc,0.0.2,Thor Whalen,MIT,20808,"Lean song acquisition: Genius lyrics and annotations, LRCLIB line timings (httpx + beautifulsoup4 only)"
+2026-11-10T15:48:12Z,bcb-data,2.5.0,Rodrigo Teodoro <rteoo@users.noreply.github.com>,MIT,54670,Python client for the Banco Central do Brasil SGS (Sistema Gerenciador de Series Temporais) API with 114 curated series codes for Brazilian economic and financial time series.
+2026-11-10T15:48:13Z,lithovox-tools,0.1.0,LithoVox,MIT,22222,CPT interpretation tools for LithoVox: Lengkeek & Brinkgreve (2022) soil classification of Dutch (organic) soils
+2026-11-10T15:50:35Z,auxdisp-codex-quota,0.1.0,,GPL-3.0-or-later,107141,Multi-account Codex quota display for Turing USB 5.2-inch screens
+2026-11-10T15:50:38Z,originalpictures-sdk,1.0.0,"""Original Pictures Technologies, Inc."" <hello@originalpictures.com>",Apache-2.0,162671,"Python SDK for C2PA Content Credentials: sign, invisibly watermark, fingerprint and verify media."
+2026-11-10T15:51:16Z,cvmbr-data,0.3.0,Rodrigo Teodoro <rodrigoteodoro.90@gmail.com>,MIT,71623,"Python client for CVM open data (dados.cvm.gov.br) and live RAD/ENET filings, returning pandas DataFrames with CVM file hygiene built in."
+2026-11-10T15:52:22Z,originalpictures-cli,0.1.0,"""Original Pictures Technologies, Inc."" <hello@originalpictures.com>",Apache-2.0,55039,"Command-line tool to sign media with C2PA Content Credentials, add invisible watermarks, and verify."
+2026-11-10T15:55:08Z,ibge-data,0.1.0,Rodrigo Teodoro <rodrigoteodoro.90@gmail.com>,MIT,53756,"Typed, offline-testable client for official IBGE SIDRA APIs"
+2026-11-10T15:56:26Z,unoflow-oss,0.1.1,,LicenseRef-Proprietary,43665,"UnoFlow app storage: Aliyun OSS online, a local mock offline"
+2026-11-10T16:01:27Z,iktisad,0.1.0,Kenz Labs <oss@kenz.tech>,MIT,49611,"Zero-waste, frugal runtime & quota engine for AI agents — Token Governors, Bandwidth Circuit Breakers & Low-Quota Caching"
+2026-11-10T16:01:47Z,legalsuffix,0.0.1b4,,MIT,197227,"Detect, normalize, and strip legal entity suffixes."
+2026-11-10T16:01:51Z,osdd2pygeofilter,0.1.0,Terradue <info@terradue.com>,Apache-2.0,66746,OpenSearch Description Documents (OSDD) to typed pygeofilter generator
+2026-11-10T16:02:00Z,AITW_wood_microstructure,1.2.1,,,110546,A Python rewrite of Wood-Microstructure-Modeling
+2026-11-10T16:02:03Z,pyagentprolog-ide,0.1.0,Andrey Vorfolomeev <binom0x@proton.me>,MIT,88724,Web IDE for PyAgentProlog
+2026-11-10T16:03:34Z,tek-Config,0.0.0,Technica Engineering GmbH,Proprietary,3820,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-11-10T16:03:36Z,tek-analytics,0.0.0,Technica Engineering GmbH,Proprietary,3854,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-11-10T16:04:16Z,tommy-lab,0.1.0,Jothi Sai M,MIT,13779,Data Analytics Laboratory Practice Toolkit
+2026-11-10T16:06:57Z,lacrm-mcp,0.1.1,Northkeel Labs <hello@northkeellabs.com>,MIT,81761,"Unofficial MCP server for the Less Annoying CRM (LACRM) API v2, with read-only mode and defensive defaults."
+2026-11-10T16:09:24Z,chonydozon-common,0.1.0,zhongshuizhou <zhongshuizhou@qq.com>,MIT,8833,chonydozon 公共基础 Python 包
+2026-11-10T16:09:49Z,pyinfra-tasmota,0.1.0,Martin F. Krafft,MIT,189192,A Pyinfra connector to manage Tasmota devices via their HTTP API
+2026-11-10T16:10:05Z,csl-pp,2.0.0rc1,,Apache-2.0 WITH LLVM-exception,12198956,Transpiler from csl++ to the Cerebras Software Language (CSL)
+2026-11-10T16:12:06Z,ai-preprocessing,0.0.1,,,1314,Reserved package name. Not for public use.
+2026-11-10T16:12:07Z,genie-flow-cli,0.0.1,,,1295,Reserved package name. Not for public use.
+2026-11-10T16:12:08Z,genius-actions,0.0.1,,,1293,Reserved package name. Not for public use.
+2026-11-10T16:12:09Z,genius-api,0.0.1,,,1252,Reserved package name. Not for public use.
+2026-11-10T16:12:33Z,vantagekit,0.6.1,Long Horizon Observatory <dfry@lhzn.io>,"MIT License Copyright (c) 2026 Long Horizon Observatory Permission is hereby granted, free of charg…",52985,"Camera and input controls for viewers of terrain, ocean and vessel scenes: orbit, chase and point-of-view camera math, frame-rate independent smoothing, and bindings as data, with Omniverse Kit adapt…"
+2026-11-10T16:13:05Z,tek-proxima-core,0.0.0,Technica Engineering GmbH,Proprietary,3905,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-11-10T16:13:17Z,tek-proxima-comcatalog,0.0.0,Technica Engineering GmbH,Proprietary,4018,Name-reservation placeholder for Technica Engineering GmbH. Not a functional package; install the authentic package from the private registry.
+2026-11-10T16:14:22Z,since-dev,0.1.0,Nabil A <support@since.dev>,MIT,51296,"Find the code in a repository that is about to stop working: retired model IDs, runtimes past end of life, breaking dependency changes. Each with its date, its line and its replacement."
+2026-11-10T16:18:03Z,ewoksdrac,0.1.0,ESRF <dau-pydev@esrf.fr>,# MIT License **Copyright (c) 2026 European Synchrotron Radiation Facility** Permission is hereby g…,30198,Ewoks tasks for the Data Portal
+2026-11-10T16:19:30Z,chat-memory-sync,0.1.3,Aayush Gautam,MIT,53631,"Unified, searchable memory bank of your AI coding chats across Cursor, Claude Code, OpenCode, Codex, Gemini CLI, Pi and more — synced across machines."
+2026-11-10T16:19:32Z,AITW-darcy_infiltration,1.0.0,Royson Donate Dsouza,,45758,Code for simulating infiltration processes in porous materials using the FEniCSx finite element framework.
