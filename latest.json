@@ -1,27 +1,69 @@
 {
   "list": {
-    "count": 42,
-    "from": "2026-11-10T17:21:41.376171Z",
-    "path": "data/new-packages-2026-11-10T18-19-02-838113Z.csv",
-    "to": "2026-11-10T18:19:02.838113Z"
+    "count": 47,
+    "from": "2026-11-10T18:19:02.838113Z",
+    "path": "data/new-packages-2026-11-10T19-21-37-815281Z.csv",
+    "to": "2026-11-10T19:21:37.815281Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-10T18:50:44Z",
+      "package": "Cohabit-Data-Tools",
+      "since": "2026-11-10T18:19:02.838113Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-10T19:08:46Z",
+      "package": "fihr-linter",
+      "since": "2026-11-10T18:19:02.838113Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-10T16:40:04Z",
       "package": "mathykit-sisciguy",
       "since": "2026-11-10T16:19:40.856266Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-10T18:27:35Z",
+      "package": "openstaad-mcp",
+      "since": "2026-11-10T18:19:02.838113Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-10T18:27:21Z",
+      "package": "openstaadpy",
+      "since": "2026-11-10T18:19:02.838113Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-10T18:43:15Z",
+      "package": "ordloom",
+      "since": "2026-11-10T18:19:02.838113Z",
+      "version": "1.2.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-10T18:32:10Z",
+      "package": "tribulnation-gtrade",
+      "since": "2026-11-10T18:19:02.838113Z",
+      "version": null
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-10T16:23:42Z",
       "package": "triple-alpha",
       "since": "2026-11-10T16:19:40.856266Z",
       "version": null
     }
   ],
-  "serial": 43467313,
+  "serial": 43469532,
   "source_truncated": false,
-  "window": "2026-11-10T18:19:02.838113Z"
+  "window": "2026-11-10T19:21:37.815281Z"
 }
