@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T02:20:55Z,miragea-mcp,0.1.0,HeadVox,MIT,38541,"MCP server for AI voiceover, voice cloning and captions: text of any length to speech with exact durations, SRT/VTT from local files, per-scene narration for Remotion. Works with Claude, Cursor, Code…"
+2026-11-10T02:21:15Z,azure-monitor-cloudhealth,0.0.0b1,Microsoft Corporation <azuresdkengsysadmins@microsoft.com>,MIT,3234,This package will be released in the near future. Stay tuned!
+2026-11-10T02:22:36Z,pipsocket,0.1.0,Pipsocket <support@pipsocket.com>,MIT,181166,"Python client for the Pipsocket API: trade MetaTrader 5 accounts hosted by Pipsocket from Linux, macOS or Windows."
+2026-11-10T02:26:36Z,token-xray-ml,0.1.1,,MIT,84390,"See what your training stack actually does to every token: measured per-token gradient weights and cross-sequence gradient leaks, read from the library's own training loop."
+2026-11-10T02:27:06Z,photosheet,0.6.1,,,785294,"Print many photos per sheet: passport photos, contact sheets, strips and more. Python + Qt."
+2026-11-10T02:27:13Z,substui,0.1.0,codyzzd,MIT,27103,Navegador TUI para buscar e baixar legendas
+2026-11-10T02:30:29Z,pykuai,0.0.1,TuKuai <me@xn--udsye.art>,,2794,A command-line tool placeholder
+2026-11-10T02:34:12Z,blockspec,0.1.0,Cameron Brooks,Apache-2.0 OR MIT,592955,A specification and conformance suite for prose documents that must survive version control
+2026-11-10T02:34:56Z,shmobj,0.1.3,AleksandrLn,MIT OR Apache-2.0,1727686,Zero-copy shared-memory dict/list structures for Python multiprocessing (Rust core)
+2026-11-10T02:37:47Z,zpbs-backup,0.11.0,Nick DeMarco <nick@demarcohome.com>,MIT,121080,ZFS property-driven Proxmox Backup Server backup tool
+2026-11-10T02:38:29Z,molformula,0.1.0,"Hiroshi Nakayama, RIKEN (The Institute of Physical and Chemical Research)",BSD-3-Clause,50148,A simple chemical formula processor for analyzing mass spectrometry data
+2026-11-10T02:39:08Z,hop-design,0.1.0a10,HOP Design contributors,MIT,4064190,Discover complete DNA hairpin preparations and retrieve exact oligos
+2026-11-10T02:39:33Z,payfurl,1.0.0,payFURL,MIT,48989,"payFURL's Python SDK: the payFURL payments API, typed"
+2026-11-10T02:42:49Z,iclforge,0.11.0b1,iclforge contributors,GPL-3.0-or-later,63567012,"Clean-room AC-3/E-AC-3 (Dolby Digital/Digital Plus) and AC-4 encoder and decoder, with Atmos object encode/decode (formerly ac3forge)"
+2026-11-10T02:44:05Z,trpc-redis-python,1.0.0,tRPC Group,Apache-2.0,39532,Redis client for the tRPC-Python framework
+2026-11-10T02:44:49Z,thermo-utils,0.2.0,Dspavier,MIT,100820,"A thermodynamics calculator for chemical engineering, from homework to plant design"
+2026-11-10T02:45:25Z,micelio,0.1.0,Marcos Pietri,MIT,969932,"Your Markdown notes as a living network of ideas: projects, graphs and links, self-hosted and read-only."
+2026-11-10T02:46:50Z,desktop-cat,0.1.0,"Angelina Zhu <az3231@nyu.edu>, Daran Tung <dyt2010@nyu.edu>, Anthony Wang <aw4580@nyu.edu>, Sara He…",GPL-3.0-or-later,30874,A tiny desktop pet you can control from Python.
+2026-11-10T02:47:55Z,get-spotify,0.1.0,involvex,MIT,24337,Download mp3/mp4 media exposed by Spotify embed pages
+2026-11-10T02:48:24Z,apifragment,1.1.1,ApiFragment,MIT,59797,"Python SDK for the Fragment API: buy Telegram Stars, gift Telegram Premium and top up Telegram Ads (TON Ads)"
+2026-11-10T02:53:01Z,pypi-cleanup-tui,1.0.0,,MIT,131467,A terminal user interface for cleaning up PyPI packages.
+2026-11-10T02:53:09Z,trpc-kafka-python,1.0.0,tRPC Group,Apache-2.0,62567,Kafka client and consumers for the tRPC-Python framework
+2026-11-10T02:54:17Z,urluntrackify,1.0.1,sph,MIT,15567,Strip tracking and analytics query parameters from URLs
+2026-11-10T02:54:21Z,trpc-mysql-python,1.0.0,tRPC Group,Apache-2.0,51104,MySQL client for the tRPC-Python framework
+2026-11-10T02:55:54Z,qcsc-prefect-fulqrum,0.3.1,QCSC Prefect Contributors,Apache-2.0,88950,Fulqrum subspace eigensolver integration for qcsc-prefect
+2026-11-10T02:58:58Z,ds-ocr,0.1.0,,MIT,101013,用 DeepSeek 视觉模型把本地图片和 PDF 识别成 Markdown
+2026-11-10T03:01:22Z,datadog-datadog-agent,0.0.1,,,817,
+2026-11-10T03:03:18Z,yurli,0.1.0,,MIT,35922,"Cute URLs for ugly IDs. A fast, stateless, reversible, profanity-free integer obfuscation library for Python."
+2026-11-10T03:03:48Z,cobot-sandbox,0.1.0,Shan Zheng Tan,MIT AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause,25090756,"MuJoCo quick-start environment for manipulation research with the Franka FR3 and UR5e: teleop, benchmark-style tasks, data collection and imitation learning."
+2026-11-10T03:04:46Z,engg-math-fem,0.0.1,Engineering Mathematics,Apache-2.0,5191,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-10T03:04:49Z,engg-math-graph-models,0.0.1,Engineering Mathematics,Apache-2.0,5274,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-10T03:04:51Z,engg-math-linear-systems,0.0.1,Engineering Mathematics,Apache-2.0,5291,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-10T03:04:53Z,engg-math-machine-learning,0.0.1,Engineering Mathematics,Apache-2.0,5310,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-10T03:04:57Z,bazaar-contrib-server-conversation,0.3.0rc1,,Apache-2.0,127630,"The conversations of the Bazaar Compute server: every agent's conversations on its computers, their messages, first contacts let in or turned away, and searching them"
+2026-11-10T03:06:46Z,qcsc-prefect-sbd,0.3.1,QCSC Prefect Contributors,Apache-2.0,34401,SBD Davidson solver integration for qcsc-prefect
+2026-11-10T03:07:12Z,djalaali,0.1.1,,MIT,332421,Jalali (Persian) calendar support for Django
+2026-11-10T03:10:44Z,tigrbl_model,0.4.5,Jacob Stewart,"Apache License Version 2.0, January 2004 https://www.apache.org/licenses/ Copyright 2025-2026 Jacob…",46348,"Pydantic-independent validation, serialization, and JSON Schema models for Tigrbl."
+2026-11-10T03:10:56Z,agent-vetter,0.2.1,sinhduc01,MIT,602322,"Static security scanner for AI agent skill packs, MCP servers, and agent configs"
+2026-11-10T03:13:32Z,message-from-aliens-mcp,0.1.0,,MIT,76583,"MCP server for reading, clicking, annotating, and inspecting glyphs in Message From Aliens"
+2026-11-10T03:18:49Z,tigrbl_engine_mariadb,0.4.5,Jacob Stewart <jacob@swarmauri.com>,Apache-2.0,18175,MariaDB engine plugin providing native Tigrbl EngineSession integration.
