@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T03:20:42Z,beadrun,0.1.0,,Apache-2.0,67192,Friendly typed bead sandbox SDK
+2026-11-10T03:21:16Z,turnscope,0.1.0,Boobalan Arjunan <boobalan_arjunan@composermind.com>,MIT,28454,"Timing of a two-channel call recording: agent response delay, interruptions, barge-ins, dead air."
+2026-11-10T03:21:21Z,factorflow,0.1.0,David Edwards <humdings@gmail.com>,Apache-2.0,657974,Pipeline-style factor engine on a bar grid with batch and incremental (open-bar) execution
+2026-11-10T03:21:59Z,phasecheck,0.1.0,Boobalan Arjunan <boobalan_arjunan@composermind.com>,MIT,28162,Find stereo audio files whose channels cancel each other when mixed down to mono (out-of-phase or inverted channels).
+2026-11-10T03:22:31Z,driftcheck-audio,0.1.0,Boobalan Arjunan <boobalan_arjunan@composermind.com>,MIT,65895,"Check that timed labels (subtitles, transcripts with times) still line up with their audio: finds offsets, steady drift, sudden jumps, speech nobody labelled and labels over silence."
+2026-11-10T03:22:48Z,mixforge-audio,0.1.0,Boobalan Arjunan <boobalan_arjunan@composermind.com>,MIT,47780,"Build test mixes with a known answer key: mix separate stems at known levels, add a known amount of bleed, and keep the exact originals plus a recipe. For testing music source separation."
+2026-11-10T03:23:09Z,ECOv003-CMR,1.0.0,"""Gregory H. Halverson"" <gregory.h.halverson@jpl.nasa.gov>",,2649262,Common Metadata Repository (CMR) Search for ECOSTRESS Collection 3
+2026-11-10T03:23:44Z,freeimagetovideo,0.1.0,Free Image to Video <support@freeimagetovideo.ai>,MIT,20053,"Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. This is the official Python SDK and CLI for Free Image to…"
+2026-11-10T03:24:09Z,PyCeler,0.1.0,Nucleon Automation,MIT,4138127,Analyze Python loops and compile numeric workloads with Cython
+2026-11-10T03:24:14Z,alphaidea-shield,0.1.0,Vincent,MIT,16062,A lightweight encryption and decryption library for Python.
+2026-11-10T03:25:23Z,wabalink,1.0.0,,MIT,13538,"SDK de Python para la API pública de Wabalink (WhatsApp Business): mensajes, chats, contactos, citas, sandbox y webhooks."
+2026-11-10T03:25:49Z,tigrbl_engine_rom,0.4.5,Jacob Stewart <jacob@swarmauri.com>,"Apache License Version 2.0, January 2004 https://www.apache.org/licenses/LICENSE-2.0 Copyright 2026…",18792,Immutable read-only memory engine plugin for Tigrbl.
+2026-11-10T03:27:18Z,lfx-gitlab,0.1.0,,MIT,16016,GitLab actions and signed project webhook triggers.
+2026-11-10T03:28:19Z,lfx-confluence,0.1.0,,MIT,12474,Confluence Cloud page actions and bounded latest-state polling triggers.
+2026-11-10T03:29:20Z,lfx-servicenow,0.1.0,,MIT,11231,ServiceNow approved-table actions and observed ticket triggers.
+2026-11-10T03:30:21Z,lfx-telegram,0.1.0,,MIT,12735,Connection-backed Telegram bot actions and triggers for Langflow.
+2026-11-10T03:31:16Z,aetherorchestrate,2.0.0,Samir Baladi <gitdeeper@gmail.com>,,50217,Reference implementation of the AetherOrchestrate architecture (v2.0.0 in progress)
+2026-11-10T03:33:27Z,tigrbl_engine_s3,0.4.5,,Apache-2.0,24863,Direct S3 API-backed object storage engine plugin for Tigrbl with optional content-addressed storage.
+2026-11-10T03:33:55Z,yifaban-cli,0.2.0,,,69115,基于易发版账号登录，从本地电脑直接把渠道包发布到各大应用市场
+2026-11-10T03:34:12Z,shopee-beeai-build-metrics,0.0.0,sc,BSD License,2535,A small example package
+2026-11-10T03:39:23Z,extract-html-data,0.1.0,6vi7ms,,5400,Add your description here
+2026-11-10T03:40:35Z,tigrbl_engine_s3fs,0.4.5,,Apache-2.0,24297,S3FS-backed object storage engine plugin for Tigrbl with optional content-addressed storage.
+2026-11-10T03:42:11Z,lmod-toolkit,0.0.1,"Andy Loftus <aloftus@illinois.com>, Eric Blau <blau@globus.org>",,23457,ACCESS Lmod Toolkit
+2026-11-10T03:54:50Z,maix-lvgl,0.1.0,Sipeed,MIT,3695495,"LVGL bindings for MaixPy (MaixCAM / MaixCAM2), generated from MaixCDK's LVGL source with the omnipython-lvgl generator."
+2026-11-10T03:55:01Z,dew-cutlass-cu12,0.2.0,,MIT AND BSD-3-Clause AND Apache-2.0,492928,"CUTLASS's grouped GEMMs for JAX, as XLA FFI targets"
+2026-11-10T03:55:01Z,dew-cutlass-cu13,0.2.0,,MIT AND BSD-3-Clause AND Apache-2.0,502814,"CUTLASS's grouped GEMMs for JAX, as XLA FFI targets"
+2026-11-10T03:57:20Z,creeklytics,0.1.0,CreekData Technologies,Apache-2.0,32196,"Publish tables from Databricks, Spark, pandas or Arrow into Creeklytics workbooks."
+2026-11-10T03:57:42Z,commitlayer,0.1.0,"""Asterfold Labs, Inc."" <hello@commitlayer.ai>",MIT,16078,"CommitLayer Python SDK: record agent actions, push facts, read verdicts, draft contracts"
+2026-11-10T03:58:47Z,optionspace-client,1.0.0,Options Universe Inc,LicenseRef-Proprietary,3575,Not the OptionSpace package. The real package is called optionspace: pip install optionspace
+2026-11-10T03:59:00Z,tigrbl-examples,0.4.5,Jacob Stewart,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",249899,Packaged Tigrbl example modules migrated from the test support package.
+2026-11-10T04:01:11Z,commitlayer-integrations,0.1.0,"""Asterfold Labs, Inc."" <hello@commitlayer.ai>",MIT,62273,"CommitLayer integrations for agent frameworks and workflow runtimes: LangGraph, CrewAI, OpenAI Agents SDK, Pydantic AI, Temporal and Inngest"
+2026-11-10T04:01:59Z,accio-are,0.3.1,,Apache-2.0,167926,"Composable Agent Rollout & Evaluation for experiments, training trajectories, and data generation"
+2026-11-10T04:02:00Z,lockwalk,0.1.0,Levi,Apache-2.0,555188,"Authorization test coverage for AI agent tools: find untested tool permissions, policy mismatches, and unenforced denials."
+2026-11-10T04:02:04Z,calchem-qc,0.2.0,CalChem Team <calchem@trae.ai>,Apache-2.0,7062197,Unified quantum chemistry workstation: native engine + Gaussian/ORCA/PySCF adapters
+2026-11-10T04:02:11Z,usagov-search,0.2.0,,MIT,48312,"Search USA.gov, extract page content, archive HTML, and ask Groq-powered questions"
+2026-11-10T04:02:13Z,optionspace-sdk,1.0.0,Options Universe Inc,LicenseRef-Proprietary,3586,Not the OptionSpace package. The real package is called optionspace: pip install optionspace
+2026-11-10T04:02:53Z,extract-sqlite,0.1.0,6vi7ms,,4394,Add your description here
+2026-11-10T04:03:22Z,commitlayer-mcp-recorder,0.1.0,"""Asterfold Labs, Inc."" <hello@commitlayer.ai>",MIT,36069,CommitLayer MCP Recorder: a stdio proxy that records an agent's MCP tool calls as CommitLayer actions
+2026-11-10T04:03:25Z,ledgerlens,0.1.2,Yu Zonglin (Sam Yu),MIT,76477,"Forensic accounting analytics for Python: Benford's Law (Nigrini), journal entry testing, and Beneish / Altman / Piotroski scores."
+2026-11-10T04:05:13Z,shellphone,0.0.1,,MIT,348830,"A chat room for you and your coding agents, on your own computer."
+2026-11-10T04:07:38Z,optionspace-api,1.0.0,Options Universe Inc,LicenseRef-Proprietary,3583,Not the OptionSpace package. The real package is called optionspace: pip install optionspace
+2026-11-10T04:09:03Z,optionsspace,1.0.0,Options Universe Inc,LicenseRef-Proprietary,3579,Not the OptionSpace package. The real package is called optionspace: pip install optionspace
+2026-11-10T04:10:20Z,optionspace-mcp,1.0.0,Options Universe Inc,LicenseRef-Proprietary,3598,Not the OptionSpace package. The real package is called optionspace: pip install optionspace
+2026-11-10T04:11:17Z,excel2ppt-studio,0.7.1,一片风干叶 <104623890@qq.com>,MIT,165593,把 Excel 台账按单页 PPT 模板逐行生成多页幻灯片：克隆母版页、只换内容，排版/颜色/字体/位置零漂移。
+2026-11-10T04:12:04Z,xp-libs-saferemote,0.1.0,,MIT,128290,Compile and authorize declarative workflows of registered Python actions
+2026-11-10T04:18:54Z,optionsuniverse,1.0.0,Options Universe Inc,LicenseRef-Proprietary,3585,Not the OptionSpace package. The real package is called optionspace: pip install optionspace
