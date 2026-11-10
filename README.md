@@ -8,40 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 07:18 UTC
+## Latest list — 2026-11-10 08:20 UTC
 
-New packages created between 2026-11-10 06:20 UTC and 2026-11-10 07:18 UTC.
+New packages created between 2026-11-10 07:18 UTC and 2026-11-10 08:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-10T07-18-50-891001Z.csv)
+[Full CSV](data/new-packages-2026-11-10T08-20-12-366184Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-10 06:24:30 | [flyedge](https://pypi.org/project/flyedge/) | 0.4.0 |  | 19.5 MB | Explicit agent governance SDK backed by the shared Flyedge Rust core |
-| 2026-11-10 06:26:37 | [shikiru-cli](https://pypi.org/project/shikiru-cli/) | 0.2.0 | Ferrum Code | 3.3 MB | Runs coding-agent tasks in tmux panes, orchestrated by an asyncio engine. |
-| 2026-11-10 06:29:46 | [strands-arcmira](https://pypi.org/project/strands-arcmira/) | 0.1.0 | Arcmira | 22.4 kB | YouTube transcript search for AI agents: the exact quote, often who said it, an… |
-| 2026-11-10 06:33:37 | [svn-mcp](https://pypi.org/project/svn-mcp/) | 0.3.0 | hira <ship.hiramatsu@gmail.co… | 48.3 kB | Unicode-safe (CJK/Japanese path) SVN MCP server with env-based auth and XML-par… |
-| 2026-11-10 06:36:32 | [shikiri-yaku](https://pypi.org/project/shikiri-yaku/) | 0.2.0 | Ferrum Code | 689.0 kB | An escalation router between a Product Owner and Shikiru. |
-| 2026-11-10 06:36:57 | [ace-engine-sdk](https://pypi.org/project/ace-engine-sdk/) | 0.2.0 | YuqiPlus | 42.0 kB | AceEngine image quality evaluation SDK |
-| 2026-11-10 06:36:58 | [git-secret-sentinel](https://pypi.org/project/git-secret-sentinel/) | 0.2.0 | Tajamul Wani | 117.7 kB | Local secret scanner for Git repositories, hooks, and CI. |
-| 2026-11-10 06:37:00 | [qelib](https://pypi.org/project/qelib/) | 0.1.0 |  | 17.3 MB | qeLib: pricing, risk and regulatory capital analytics for credit and rates, und… |
-| 2026-11-10 06:42:20 | [animeapi-sdk](https://pypi.org/project/animeapi-sdk/) | 0.1.0 | AnimeAPI <contact@animeapi.ai> | 25.4 kB | Official AnimeAPI SDK: anime image generation from $0.003 per image, plus anime… |
-| 2026-11-10 06:44:34 | [toolcall-conformance](https://pypi.org/project/toolcall-conformance/) | 0.1.0 |  | 66.9 kB | Check how an OpenAI-compatible server (Ollama, llama.cpp, vLLM, LM Studio, Lite… |
-| 2026-11-10 06:45:40 | [trpc-report-python](https://pypi.org/project/trpc-report-python/) | 1.0.0 | tRPC Group | 55.3 kB | runtime metrics plugin for trpc framework |
-| 2026-11-10 06:45:42 | [gd-crawler-mcp](https://pypi.org/project/gd-crawler-mcp/) | 0.1.0 |  | 4.0 kB | 广东信息价爬虫 MCP：抓网页、提链接、联网搜索、PDF提取 |
-| 2026-11-10 06:46:03 | [nonebot-plugin-animeapi](https://pypi.org/project/nonebot-plugin-animeapi/) | 1.0.0 | AnimeAPI <contact@animeapi.ai> | 20.3 kB | NoneBot2 anime image generation plugin for AnimeAPI: $0.003 per image, no subsc… |
-| 2026-11-10 06:48:34 | [crewai-agentic-iam](https://pypi.org/project/crewai-agentic-iam/) | 0.1.0 | Tushar Kumar | 21.1 kB | Route CrewAI agent HTTP calls through Agentic IAM Proxy: no raw API keys, human… |
-| 2026-11-10 06:48:35 | [langchain-agentic-iam](https://pypi.org/project/langchain-agentic-iam/) | 0.1.0 | Tushar Kumar | 17.2 kB | Route LangChain agent HTTP calls through Agentic IAM Proxy: no raw API keys, hu… |
-| 2026-11-10 06:54:47 | [pyagentprolog](https://pypi.org/project/pyagentprolog/) | 1.0.1 | Andrey Vorfolomeev <binom0x@p… | 154.2 kB | A Prolog engine in Python with agents, tracing, and semantic unification. |
-| 2026-11-10 07:04:48 | [p2sbi](https://pypi.org/project/p2sbi/) | 0.1.0 | Aditya Parthasarathy, Gregory… | 390.1 kB | Simulation-based inference for profile-domain pulsar timing |
-| 2026-11-10 07:05:25 | [nlp-refinement-cli](https://pypi.org/project/nlp-refinement-cli/) | 0.9.0 |  | 162.9 kB | Durable-local, review-only refinement for natural-language-programming artifact… |
-| 2026-11-10 07:06:15 | [cutnow](https://pypi.org/project/cutnow/) | 0.1.0 | vcut contributors | 100.0 kB | Deterministic, inspectable video editing for agents — solutions, ops and EDL. |
-| 2026-11-10 07:07:57 | [mbtk](https://pypi.org/project/mbtk/) | 0.1.1 | Vladimir Krokhin <krokhinvlad… | 96.2 kB | A small async toolkit for MAX messenger bots, inspired by aiogram 3 |
-| 2026-11-10 07:09:37 | [pyagentprolog-hf](https://pypi.org/project/pyagentprolog-hf/) | 1.0.2 | Andrey Vorfolomeev <binom0x@p… | 29.1 kB | Hugging Face integration for PyAgentProlog: PreTrainedModel, Pipeline, Hub uplo… |
-| 2026-11-10 07:11:57 | [zquatev](https://pypi.org/project/zquatev/) | 0.2.2 |  | 15.4 MB | Quaternionic matrix diagonalization |
-| 2026-11-10 07:13:31 | [agent-community-sdk](https://pypi.org/project/agent-community-sdk/) | 0.1.0 | Manjunatha Sai Uppu | 39.6 kB | Python SDK and MCP stdio adapter for AgentHive (agent_community). |
-| 2026-11-10 07:13:53 | [uniquedomains](https://pypi.org/project/uniquedomains/) | 0.1.0 | Unique Domains | 1.3 MB | Python client for the Unique Domains API: domain names, words, TLDs, registrar… |
-| 2026-11-10 07:15:38 | [evalry](https://pypi.org/project/evalry/) | 0.0.1.dev1 | Nikhil Arora | 8.9 kB | Evaluate AI-generated code, eval datasets and the evals themselves. |
-| 2026-11-10 07:18:02 | [vanoros](https://pypi.org/project/vanoros/) | 0.0.1 | VanorOS | 4.5 kB | VanorOS — 通用智能体操作系统（名称占位版本；正式开源代码即将发布） |
-| 2026-11-10 07:18:21 | [decoyfs](https://pypi.org/project/decoyfs/) | 0.1.0 | "Nestor A. Zermeño Campos" <n… | 108.2 kB | Decoy-referenced feature selection: Random and Shadow control features, swappab… |
-| 2026-11-10 07:18:26 | [vanor](https://pypi.org/project/vanor/) | 0.0.1 | VanorOS | 4.5 kB | VanorOS — 通用智能体操作系统（名称占位版本；正式开源代码即将发布） |
-| 2026-11-10 07:18:47 | [racetale-pace](https://pypi.org/project/racetale-pace/) | 1.0.0 | RaceTale <contact@racetale.co… | 14.6 kB | Running maths with no dependencies: pace, finish time, Riegel race predictions,… |
+| 2026-11-10 07:17:59 | [tsugite-cursor](https://pypi.org/project/tsugite-cursor/) | 0.27.0 | Justyn Shull | 5.8 kB | Tsugite plugin: Cursor provider (routes LLM calls through the Cursor Python SDK) |
+| 2026-11-10 07:19:05 | [vanoros-core](https://pypi.org/project/vanoros-core/) | 0.0.1 | VanorOS | 4.6 kB | VanorOS — 通用智能体操作系统（名称占位版本；正式开源代码即将发布） |
+| 2026-11-10 07:21:22 | [dn42-ipdb](https://pypi.org/project/dn42-ipdb/) | 0.1.1 | BIRD Chinese Community <sdk.o… | 20.9 kB | Local GeoIP2-compatible DN42 intelligence and verified database updates |
+| 2026-11-10 07:22:10 | [cascade-vision](https://pypi.org/project/cascade-vision/) | 0.3.0 | cascade-vision contributors | 99.7 kB | Cascaded motion detection, YOLO tracking and asynchronous VLM video inspection. |
+| 2026-11-10 07:26:49 | [dummy-preprocessor](https://pypi.org/project/dummy-preprocessor/) | 0.1.0 | Akira <sardor77nematov@gmail.… | 20.5 kB | An automated data preprocessing and EDA pipeline with AI server integration. |
+| 2026-11-10 07:30:54 | [polars-nanook-ray](https://pypi.org/project/polars-nanook-ray/) | 0.2.0 |  | 74.8 kB | Polars Nanook over Ray |
+| 2026-11-10 07:33:49 | [textutils-strickerman](https://pypi.org/project/textutils-strickerman/) | 0.2.1 | Esteban Stricker | 12.9 kB | A utility package for text manipulation and analysis. |
+| 2026-11-10 07:34:23 | [ollama-speak](https://pypi.org/project/ollama-speak/) | 1.1.0 | Ajarn Spencer Littlewood <aja… | 26.9 kB | 100% Local, Offline Multilingual Neural Text-to-Speech CLI for Ollama (Kokoro-8… |
+| 2026-11-10 07:34:32 | [ollama-web](https://pypi.org/project/ollama-web/) | 1.0.0 | Ajarn Spencer Littlewood <aja… | 55.2 kB | Universal live web search, deep HTML table scraper, desktop GUI proxy daemon, a… |
+| 2026-11-10 07:34:37 | [tryorchard-sdk](https://pypi.org/project/tryorchard-sdk/) | 0.0.1 | AirOverflow | 57.9 kB | Python client for Orchard: drive iOS and Android sandboxes over REST and live W… |
+| 2026-11-10 07:34:54 | [tryorchard-cli](https://pypi.org/project/tryorchard-cli/) | 0.0.0 | AirOverflow | 4.2 kB | Orchard CLI: drive iOS and Android sandboxes from the terminal. Coming soon. |
+| 2026-11-10 07:36:19 | [chloedb](https://pypi.org/project/chloedb/) | 0.0.1 |  | 2.5 kB | Placeholder: holds the name for Strata. Install releases from https://github.co… |
+| 2026-11-10 07:36:30 | [fastapicloud-runtime](https://pypi.org/project/fastapicloud-runtime/) | 0.0.1 | Sebastián Ramírez | 2.1 kB | For FastAPI Cloud internal use, to prevent package squat attacks |
+| 2026-11-10 07:39:24 | [smuod](https://pypi.org/project/smuod/) | 0.9.2 | Martin Høy <martin.hoy@dnv.co… | 248.2 kB | Common utilities for SMUOD |
+| 2026-11-10 07:40:03 | [moss-lvgl](https://pypi.org/project/moss-lvgl/) | 0.0.0 | "M.O.S.S. Computer Grafik Sys… | 1.4 kB | Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code |
+| 2026-11-10 07:40:15 | [moss-mogi-print](https://pypi.org/project/moss-mogi-print/) | 0.0.0 | "M.O.S.S. Computer Grafik Sys… | 1.4 kB | Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code |
+| 2026-11-10 07:40:27 | [moss-nas](https://pypi.org/project/moss-nas/) | 0.0.0 | "M.O.S.S. Computer Grafik Sys… | 1.4 kB | Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code |
+| 2026-11-10 07:40:39 | [moss-nas2ogr](https://pypi.org/project/moss-nas2ogr/) | 0.0.0 | "M.O.S.S. Computer Grafik Sys… | 1.4 kB | Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code |
+| 2026-11-10 07:40:47 | [mlpal](https://pypi.org/project/mlpal/) | 0.0.1 | MLPal <contact@mlpal.ai> | 1.4 kB | Reserved name. MLPal packages are published at https://pypi.mlpal.ai/simple/ |
+| 2026-11-10 07:40:48 | [mlpal-agentic-ms](https://pypi.org/project/mlpal-agentic-ms/) | 0.0.1 | MLPal <contact@mlpal.ai> | 1.5 kB | Reserved name. MLPal packages are published at https://pypi.mlpal.ai/simple/ |
+| 2026-11-10 07:40:49 | [mlpal-auth](https://pypi.org/project/mlpal-auth/) | 0.0.1 | MLPal <contact@mlpal.ai> | 1.5 kB | Reserved name. MLPal packages are published at https://pypi.mlpal.ai/simple/ |
+| 2026-11-10 07:40:50 | [mlpal-cli](https://pypi.org/project/mlpal-cli/) | 0.0.1 | MLPal <contact@mlpal.ai> | 1.5 kB | Reserved name. MLPal packages are published at https://pypi.mlpal.ai/simple/ |
+| 2026-11-10 07:41:17 | [fastapicloud-internal-runtime](https://pypi.org/project/fastapicloud-internal-runtime/) | 0.0.1 | Sebastián Ramírez | 2.2 kB | For FastAPI Cloud internal use, to prevent package squat attacks |
+| 2026-11-10 07:41:39 | [fastapicloud-managed-runtime](https://pypi.org/project/fastapicloud-managed-runtime/) | 0.0.1 | Sebastián Ramírez | 2.2 kB | For FastAPI Cloud internal use, to prevent package squat attacks |
+| 2026-11-10 07:42:04 | [fastapicloud-runner](https://pypi.org/project/fastapicloud-runner/) | 0.0.1 | Sebastián Ramírez | 2.0 kB | For FastAPI Cloud internal use, to prevent package squat attacks |
+| 2026-11-10 07:43:45 | [chordsym](https://pypi.org/project/chordsym/) | 0.0.3 | Thor Whalen | 63.5 kB | Chord symbols without dependencies: parse, pitch classes, key estimation, trans… |
+| 2026-11-10 07:43:50 | [sequenx-ai](https://pypi.org/project/sequenx-ai/) | 0.1.1 | SequenxAI <lcw_1497007939@163… | 29.3 kB | Python client for the SequenxAI time-series platform API |
+| 2026-11-10 07:43:56 | [sequenx-mcp](https://pypi.org/project/sequenx-mcp/) | 0.1.1 | SequenxAI <lcw_1497007939@163… | 21.7 kB | MCP server exposing the SequenxAI public API as tools for AI hosts |
+| 2026-11-10 07:45:43 | [duhub-cli](https://pypi.org/project/duhub-cli/) | 0.1.0 | Digital Umuganda | 26.6 kB | DUhub CLI — STT, TTS, MT and diarization over your API key. |
+| 2026-11-10 07:47:10 | [livekit-plugins-talkingavatar](https://pypi.org/project/livekit-plugins-talkingavatar/) | 1.8.11 | Talking Avatar <support@talki… | 16.0 kB | Agent Framework plugin for Talking Avatar realistic avatars |
+| 2026-11-10 07:47:47 | [basenumber](https://pypi.org/project/basenumber/) | 0.0.3 | "light.seeker" <light.the.see… | 7.2 kB | Package used for storing and performing arithmetic with integers of arbitrary b… |
+| 2026-11-10 07:52:50 | [ad-sedona](https://pypi.org/project/ad-sedona/) | 1.8.1.1.4.3.0.0 | Apache Sedona <dev@sedona.apa… | 1.2 MB | Apache Sedona is a cluster computing system for processing large-scale spatial… |
+| 2026-11-10 07:54:48 | [greenlit-ai](https://pypi.org/project/greenlit-ai/) | 0.3.0 |  | 2.9 MB | greenlit: coding agents hear about each other's plans before they edit, and ask… |
+| 2026-11-10 07:54:49 | [tunhub](https://pypi.org/project/tunhub/) | 0.1.0 | Liuk Diih Mieu | 307.8 kB | Open the web UIs on your private network like any public website: tunhub sets u… |
+| 2026-11-10 07:57:06 | [graftcode-instrumentation](https://pypi.org/project/graftcode-instrumentation/) | 1.0.0 | "Graftcode S.A." <support@gra… | 33.3 kB | OpenTelemetry instrumentation for Graftcode / Hypertube calls in Python |
+| 2026-11-10 07:57:07 | [graftcode-telemetry-appinsights](https://pypi.org/project/graftcode-telemetry-appinsights/) | 1.0.0 | "Graftcode S.A." <support@gra… | 30.0 kB | Application Insights connector for Graftcode / Hypertube telemetry in Python |
+| 2026-11-10 07:58:38 | [schemashim](https://pypi.org/project/schemashim/) | 0.1.0 | Sri Krishna Lingamaneni | 38.1 kB | Fix MCP and agent tool JSON Schemas that Gemini and OpenAI strict mode reject (… |
+| 2026-11-10 08:02:10 | [pagerush](https://pypi.org/project/pagerush/) | 0.1.0 | Arsi Consultancy | 69.5 kB | Official Python SDK for the PageRush API: render Typst templates to PDF. |
+| 2026-11-10 08:03:08 | [degroshi](https://pypi.org/project/degroshi/) | 0.0.1 | Degroshi <support@degroshi.co… | 11.1 kB | Official Degroshi SDK for Python (coming soon). |
+| 2026-11-10 08:06:44 | [nodus-compute-cli](https://pypi.org/project/nodus-compute-cli/) | 0.1.113 | Nodus Compute | 151.4 MB | Native Nodus CLI payload for the nodus-compute SDK |
+| 2026-11-10 08:08:59 | [odoo-addon-payroll-rule-tag](https://pypi.org/project/odoo-addon-payroll-rule-tag/) | 18.0.1.0.0.4 | Daniel Reis, Nimarosa, Odoo C… | 42.2 kB | Payroll Rule Tag |
+| 2026-11-10 08:19:09 | [nexus-agent-framework](https://pypi.org/project/nexus-agent-framework/) | 0.1.0 | Sai Nikhil Abburi <sai.nikhil… | 134.7 kB | Autonomous Application & Platform Framework for Google Cloud and Gemini 3.8 |

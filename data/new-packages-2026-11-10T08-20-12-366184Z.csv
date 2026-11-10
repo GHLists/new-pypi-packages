@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T07:17:59Z,tsugite-cursor,0.27.0,Justyn Shull,,5822,Tsugite plugin: Cursor provider (routes LLM calls through the Cursor Python SDK)
+2026-11-10T07:19:05Z,vanoros-core,0.0.1,VanorOS,,4620,VanorOS — 通用智能体操作系统（名称占位版本；正式开源代码即将发布）
+2026-11-10T07:21:22Z,dn42-ipdb,0.1.1,BIRD Chinese Community <sdk.opensouce@birdcc.link>,MIT,20862,Local GeoIP2-compatible DN42 intelligence and verified database updates
+2026-11-10T07:22:10Z,cascade-vision,0.3.0,cascade-vision contributors,MIT,99706,"Cascaded motion detection, YOLO tracking and asynchronous VLM video inspection."
+2026-11-10T07:26:49Z,dummy-preprocessor,0.1.0,Akira <sardor77nematov@gmail.com>,MIT,20464,An automated data preprocessing and EDA pipeline with AI server integration.
+2026-11-10T07:30:54Z,polars-nanook-ray,0.2.0,,"Copyright (c) 2024 Polars. Permission is hereby granted, free of charge, to any person obtaining a…",74801,Polars Nanook over Ray
+2026-11-10T07:33:49Z,textutils-strickerman,0.2.1,Esteban Stricker,,12892,A utility package for text manipulation and analysis.
+2026-11-10T07:34:23Z,ollama-speak,1.1.0,Ajarn Spencer Littlewood <ajarnspencer@gmail.com>,MIT,26850,"100% Local, Offline Multilingual Neural Text-to-Speech CLI for Ollama (Kokoro-82M & Piper)."
+2026-11-10T07:34:32Z,ollama-web,1.0.0,Ajarn Spencer Littlewood <ajarnspencer@gmail.com>,MIT,55195,"Universal live web search, deep HTML table scraper, desktop GUI proxy daemon, and MCP server for Ollama on Linux, macOS, and Windows."
+2026-11-10T07:34:37Z,tryorchard-sdk,0.0.1,AirOverflow,MIT,57886,Python client for Orchard: drive iOS and Android sandboxes over REST and live WebSocket channels.
+2026-11-10T07:34:54Z,tryorchard-cli,0.0.0,AirOverflow,MIT,4192,Orchard CLI: drive iOS and Android sandboxes from the terminal. Coming soon.
+2026-11-10T07:36:19Z,chloedb,0.0.1,,Apache-2.0,2515,Placeholder: holds the name for Strata. Install releases from https://github.com/chloetech-ai/strata/releases
+2026-11-10T07:36:30Z,fastapicloud-runtime,0.0.1,Sebastián Ramírez,,2053,"For FastAPI Cloud internal use, to prevent package squat attacks"
+2026-11-10T07:39:24Z,smuod,0.9.2,Martin Høy <martin.hoy@dnv.com>,MIT,248236,Common utilities for SMUOD
+2026-11-10T07:40:03Z,moss-lvgl,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1397,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-10T07:40:15Z,moss-mogi-print,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1411,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-10T07:40:27Z,moss-nas,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1411,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-10T07:40:39Z,moss-nas2ogr,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1425,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-10T07:40:47Z,mlpal,0.0.1,MLPal <contact@mlpal.ai>,Apache-2.0,1430,Reserved name. MLPal packages are published at https://pypi.mlpal.ai/simple/
+2026-11-10T07:40:48Z,mlpal-agentic-ms,0.0.1,MLPal <contact@mlpal.ai>,Apache-2.0,1545,Reserved name. MLPal packages are published at https://pypi.mlpal.ai/simple/
+2026-11-10T07:40:49Z,mlpal-auth,0.0.1,MLPal <contact@mlpal.ai>,Apache-2.0,1484,Reserved name. MLPal packages are published at https://pypi.mlpal.ai/simple/
+2026-11-10T07:40:50Z,mlpal-cli,0.0.1,MLPal <contact@mlpal.ai>,Apache-2.0,1471,Reserved name. MLPal packages are published at https://pypi.mlpal.ai/simple/
+2026-11-10T07:41:17Z,fastapicloud-internal-runtime,0.0.1,Sebastián Ramírez,,2180,"For FastAPI Cloud internal use, to prevent package squat attacks"
+2026-11-10T07:41:39Z,fastapicloud-managed-runtime,0.0.1,Sebastián Ramírez,,2168,"For FastAPI Cloud internal use, to prevent package squat attacks"
+2026-11-10T07:42:04Z,fastapicloud-runner,0.0.1,Sebastián Ramírez,,2038,"For FastAPI Cloud internal use, to prevent package squat attacks"
+2026-11-10T07:43:45Z,chordsym,0.0.3,Thor Whalen,MIT,63550,"Chord symbols without dependencies: parse, pitch classes, key estimation, transposition"
+2026-11-10T07:43:50Z,sequenx-ai,0.1.1,SequenxAI <lcw_1497007939@163.com>,LicenseRef-Proprietary,29291,Python client for the SequenxAI time-series platform API
+2026-11-10T07:43:56Z,sequenx-mcp,0.1.1,SequenxAI <lcw_1497007939@163.com>,LicenseRef-Proprietary,21708,MCP server exposing the SequenxAI public API as tools for AI hosts
+2026-11-10T07:45:43Z,duhub-cli,0.1.0,Digital Umuganda,MIT,26634,"DUhub CLI — STT, TTS, MT and diarization over your API key."
+2026-11-10T07:47:10Z,livekit-plugins-talkingavatar,1.8.11,Talking Avatar <support@talking-avatar.dev>,Apache-2.0,15959,Agent Framework plugin for Talking Avatar realistic avatars
+2026-11-10T07:47:47Z,basenumber,0.0.3,"""light.seeker"" <light.the.seeker@gmail.com>",MIT,7197,Package used for storing and performing arithmetic with integers of arbitrary base systems 2 and above.
+2026-11-10T07:52:50Z,ad-sedona,1.8.1.1.4.3.0.0,Apache Sedona <dev@sedona.apache.org>,Apache-2.0,1165004,Apache Sedona is a cluster computing system for processing large-scale spatial data
+2026-11-10T07:54:48Z,greenlit-ai,0.3.0,,Proprietary,2911998,"greenlit: coding agents hear about each other's plans before they edit, and ask a person only when your rules say to"
+2026-11-10T07:54:49Z,tunhub,0.1.0,Liuk Diih Mieu,GPL-3.0-or-later,307772,Open the web UIs on your private network like any public website: tunhub sets up the SSH forwarding for you.
+2026-11-10T07:57:06Z,graftcode-instrumentation,1.0.0,"""Graftcode S.A."" <support@graftcode.com>",MIT,33331,OpenTelemetry instrumentation for Graftcode / Hypertube calls in Python
+2026-11-10T07:57:07Z,graftcode-telemetry-appinsights,1.0.0,"""Graftcode S.A."" <support@graftcode.com>",MIT,29980,Application Insights connector for Graftcode / Hypertube telemetry in Python
+2026-11-10T07:58:38Z,schemashim,0.1.0,Sri Krishna Lingamaneni,MIT,38068,"Fix MCP and agent tool JSON Schemas that Gemini and OpenAI strict mode reject ($ref, anyOf null, type lists, arrays without items, enums), and map the model's arguments back"
+2026-11-10T08:02:10Z,pagerush,0.1.0,Arsi Consultancy,MIT,69528,Official Python SDK for the PageRush API: render Typst templates to PDF.
+2026-11-10T08:03:08Z,degroshi,0.0.1,Degroshi <support@degroshi.com>,Apache-2.0,11055,Official Degroshi SDK for Python (coming soon).
+2026-11-10T08:06:44Z,nodus-compute-cli,0.1.113,Nodus Compute,Apache-2.0,151410715,Native Nodus CLI payload for the nodus-compute SDK
+2026-11-10T08:08:59Z,odoo-addon-payroll-rule-tag,18.0.1.0.0.4,"Daniel Reis, Nimarosa, Odoo Community Association (OCA)",LGPL-3,42167,Payroll Rule Tag
+2026-11-10T08:19:09Z,nexus-agent-framework,0.1.0,Sai Nikhil Abburi <sai.nikhil@abburi.info>,,134739,Autonomous Application & Platform Framework for Google Cloud and Gemini 3.8
