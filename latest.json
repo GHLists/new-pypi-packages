@@ -1,27 +1,27 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-11-10T09:18:56.85147Z",
-    "path": "data/new-packages-2026-11-10T10-19-15-724475Z.csv",
-    "to": "2026-11-10T10:19:15.724475Z"
+    "count": 42,
+    "from": "2026-11-10T10:19:15.724475Z",
+    "path": "data/new-packages-2026-11-10T11-18-54-783966Z.csv",
+    "to": "2026-11-10T11:18:54.783966Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-10T10:02:10Z",
       "package": "libadalang",
       "since": "2026-11-10T09:18:56.85147Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-10T09:50:50Z",
       "package": "stackit-sdk-python",
       "since": "2026-11-10T09:18:56.85147Z",
       "version": null
     }
   ],
-  "serial": 43448897,
+  "serial": 43450867,
   "source_truncated": false,
-  "window": "2026-11-10T10:19:15.724475Z"
+  "window": "2026-11-10T11:18:54.783966Z"
 }

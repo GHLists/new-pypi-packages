@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T10:20:00Z,tdmspy,0.1.0,,MIT,284621,"Pure Python reader for National Instruments TDMS files, MIT licensed"
+2026-11-10T10:23:49Z,pmd-pycore,0.2.5,Pieter Plaisier,MIT,38598,PMD PyCore - Python Interface for ElmorLabs PMD2/PMD2X/PMD-USB
+2026-11-10T10:25:07Z,scriptivox,0.1.0,Scriptivox <support@scriptivox.com>,MIT,152666,"Official Python SDK for the Scriptivox transcription API: upload, transcribe, wait, export SRT/VTT/text, list, and verify webhooks."
+2026-11-10T10:26:05Z,didibreak,0.1.0,changelia,MIT,242079,Find unintended behavior changes in Python code by running the old and new versions side by side.
+2026-11-10T10:27:32Z,my-fc-utils,0.1.0,,,1970,Python utilities for Alibaba Cloud FC
+2026-11-10T10:27:47Z,termtrace,0.1.0,Ziga Ivansek,MIT,52405258,Native Python bindings for Termtrace terminal recording and semantic debugging
+2026-11-10T10:28:24Z,portc,0.6.0,Algorithmiq Development Team <aurora@algorithmiq.fi>,Apache-2.0,620471,Parallel Out-of-Core Randomized Tensor-Network Compression.
+2026-11-10T10:28:41Z,probitas-api,0.1.0,PROBITAS Development Team,MIT,17530,Official Python SDK for the PROBITAS API
+2026-11-10T10:29:03Z,natal-chart,0.1.0,Victor Balakirev <balakirevvictor@gmail.com>,MIT,40663,"Tropical natal chart math (planets, Placidus/Koch/whole-sign houses, aspects, transits) on NASA JPL ephemerides via Skyfield. No Swiss Ephemeris."
+2026-11-10T10:31:08Z,polaudit,1.0.1,,MIT,182750,"An audit framework for LLM alignment with human subgroups, based on polarization"
+2026-11-10T10:31:13Z,harnessdoc,0.1.0,Harsh Chhabra,MIT,206586,"Measure what each successful task of your AI app costs — provider-neutral, deterministic, and CI-ready."
+2026-11-10T10:31:33Z,sf-smartagency,0.1.0,SmartTasks Lab,Apache-2.0,111538,"Signed contracts that say what an AI agent may do, a ledger to suspend and revoke them, and a monitor that enforces them on every action, with SmartFabric pressure limits."
+2026-11-10T10:33:46Z,stockmetalint,0.1.0,hanifwidi,MIT,186605,"Offline-first stock media metadata and Adobe Stock CSV validation toolkit (unofficial, not affiliated with Adobe)."
+2026-11-10T10:34:22Z,pysrfit,1.0.0,Ola Kenji Forslund,MIT,182081,"GUI-first, extensible muon spin spectroscopy fitting workbench"
+2026-11-10T10:37:09Z,odm-processors-sdk,1.65.0,,,9794,"Software development kit for all of the processors in ODM (transformations, connectors, etc.)"
+2026-11-10T10:37:14Z,nostoi-livecli,0.2.0,Nostoi,MIT,226963,"Command line for Ableton Live, built for AI agents: control the set and measure the sound with probe plugins"
+2026-11-10T10:39:13Z,bicycle-architecture-compiler,0.1.0,,Apache-2.0,7411078,Resource estimation for the Tour de Gross fault-tolerant architecture
+2026-11-10T10:40:55Z,sep-python-sdk,1.0.0,Mojtaba Sohrabi,MIT,117603,"Unofficial, fully typed Python SDK for the Saman Electronic Payment (SEP) online payment gateway: token, redirect, callback, verify and reverse."
+2026-11-10T10:40:59Z,devtoolkit-mcp,0.1.0,Prashil001,MIT,28192,An open-source MCP server providing essential software development tools for AI assistants.
+2026-11-10T10:41:48Z,qa-core-recon,0.1.0,SprintSynergy <usman@sprintsynergy.com>,MIT,214281,Prove a target dataset matches its source after a Glue or PySpark job.
+2026-11-10T10:44:55Z,clikgate,2.0.0,Clikgate <sdk@clikgate.com>,MIT,337720,"The official Clikgate server SDK for Python: send goals in three lines, keep the click ID, verify webhooks, with private mode built in."
+2026-11-10T10:45:12Z,silentmesh-lure,0.1.0b2,SilentMesh Systems Private Limited,Apache-2.0,121450,"Credential lures for everyone: planted credentials that give the attacker away. Alert on use, not on open."
+2026-11-10T10:52:05Z,canari-mcp,0.1.0,Canari contributors,Apache-2.0,177572,"Canari - agent component verification ledger: signed, offline-verifiable attestations for MCP servers and agent skills"
+2026-11-10T10:52:50Z,codibotics,1.0.0,CodiBotics Simulator Team,MIT,17241,Python and MicroPython runtime library for CodiBotics Simulator (DBE CAPS Coding & Robotics)
+2026-11-10T10:53:36Z,claide-web,0.2.0,kurodaki-dev,MIT,72184,"Build complete websites in Python: pages, routes, forms, APIs, sessions and Uiverse.io components."
+2026-11-10T10:55:12Z,emeans,0.1.1,,MIT,1848518,"Fast e-means clustering (k-means in a tenth of the passes), written in Rust"
+2026-11-10T10:55:26Z,dnocer,1.0.0,,,77485,Project-wide developer intelligence and safe repair companion
+2026-11-10T10:55:47Z,doba,0.1.0,Igroman,MIT,8119,Asynchronous library for retrieving Moscow time in the background
+2026-11-10T10:57:00Z,kinetic-engine,0.1.0,Velocity,Apache-2.0,4744319,Open engine for running AI locally
+2026-11-10T11:00:52Z,shopee-beeai-kafka-python,0.0.0,sc,BSD License,2523,A small example package
+2026-11-10T11:01:06Z,rag-titan,0.1.0,Kumar Nishant,"MIT License Copyright (c) 2026 Kumar Nishant Permission is hereby granted, free of charge, to any p…",59827,"A Swiss Army knife for RAG: simple, adaptive and more RAG types in one beginner-friendly package."
+2026-11-10T11:01:47Z,widgetgram,0.1.1,,MIT,44540,Telegram HTML widgets for aiogram 3 (Bot API 10.4+)
+2026-11-10T11:06:47Z,comm4jax,0.1.0,Filippo Vicentini <filippovicentini@gmail.com>,MIT,46678,MPI communication primitives for JAX with optional NCCL acceleration
+2026-11-10T11:07:27Z,pangea-flows,0.3.0,Thanasis Georgiou <ageorgiou@noa.gr>,,143281,Write PANGEA processing workflows in Python
+2026-11-10T11:10:39Z,geneviewer-py,0.1.0,Niels van der Velden,MIT,1444080,Gene cluster charts for Python and Shiny for Python
+2026-11-10T11:12:23Z,agentic_summiya_terminal,0.1.0,Summiya Rasheed <summiya.rasheed@gmail.com>,,4546,Add your description here
+2026-11-10T11:12:50Z,roofline-lint,0.1.0,aidless,MIT,52146,"Zero-dependency LLM deployment feasibility + roofline analyzer: run-worthiness, bandwidth-vs-compute bottleneck, batch scaling; refuses unanswerable capacity questions instead of printing fake tok/s"
+2026-11-10T11:12:55Z,ttftkit,0.2.1,aidless,Apache-2.0,95959,"LLM serving benchmark harness and release gate: TTFT / TPOT / throughput / stability, CI-ready"
+2026-11-10T11:12:59Z,accel-preflight,0.3.0,aidless,MIT,46899,"Accelerator portability preflight: catch CUDA-only flags, deps and wheels before they fail on ROCm / DCU"
+2026-11-10T11:16:38Z,caretaker-mcp,0.4.0,Dhruvil Dvij,MIT,548774,"Persistent, local-first memory for AI agents over MCP — one memory shared by Claude, ChatGPT, Cursor and any MCP client"
+2026-11-10T11:17:23Z,binarypy-pachicom,0.1.0,Pachicom,MIT,28496,A binary instruction-based programming language and virtual machine
+2026-11-10T11:17:31Z,lv24-seo,0.1.0,LV24 <paulalexeev10@gmail.com>,Apache-2.0,630086,"Free-first SEO control plane for humans and AI agents (GSC, Yandex Webmaster, Metrika, Bing, CrUX, PSI, crawl)."
