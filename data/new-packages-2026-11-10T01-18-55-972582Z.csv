@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T00:21:18Z,RDEFpy,1.0.0,Andrea Togni <antogni@moreheadstate.edu>,MIT,26090581,"Reader and writer for the CCSDS Delta-DOR Raw Data Exchange Format (RDEF, CCSDS 506.1-B-1)."
+2026-11-10T00:24:41Z,graph-lcb,0.2.1,,,94489,A local CLI for managing JSON-backed graphs with customizable entity and edge types.
+2026-11-10T00:27:49Z,carimbar,0.0.3,,Apache-2.0,34114243,Emissão de NF-e e NFS-e Nacional para devs e agentes de IA
+2026-11-10T00:31:05Z,sverify-polars,0.8.0,,MPL-2.0,153490,"Polars as an engine of sverify: plans verified in Lean, run as Polars lazy frames"
+2026-11-10T00:31:05Z,sverify-spark,0.8.0,,MPL-2.0,58373,"Spark as an engine of sverify: plans verified in Lean, written as Spark SQL"
+2026-11-10T00:31:09Z,sverify-duckdb,0.8.0,,MPL-2.0,47167,"DuckDB as an engine of sverify: plans verified in Lean, written as DuckDB SQL"
+2026-11-10T00:31:16Z,pyrecords,0.2.0,aaltatan,GPL-3.0-or-later,40351,"Read records from Excel or JSON, then order, filter (JSON rules) and group them."
+2026-11-10T00:31:56Z,minimindslab-datetime-span,0.1.0,MiniMindsLab,MIT,10456,"Parse, normalize, and compare simple UTC datetime spans with deterministic formatting."
+2026-11-10T00:33:07Z,crusader-sdk,0.1.0a1,Stephen Witkowski,MIT,801117,A Python SDK for Stronghold Crusader.
+2026-11-10T00:33:10Z,minimindslab-delimited-flatten,0.1.0,MiniMindsLab,MIT,8875,Flatten nested dict/list structures into stable dotted-path key/value pairs and optionally unflatten them back.
+2026-11-10T00:33:18Z,django-abrasileirado,1.0.0,Kelson da Costa Medeiros <kelsoncm@gmail.com>,"# The MIT License (MIT) Copyright (c) 2015 kelsoncm Permission is hereby granted, free of charge, t…",9178,Django Application specific brazilian fields types.
+2026-11-10T00:34:20Z,minimindslab-dict-merge-strategy,0.1.0,MiniMindsLab,MIT,7506,Deterministically merge two Python dictionaries with explicit conflict strategies for nested data.
+2026-11-10T00:34:21Z,pipecat-spatialreal,0.1.0,SpatialReal <hello@spatialreal.com>,Apache-2.0,4384185,Pipecat processor that drives a SpatialReal avatar from a voice bot's TTS audio
+2026-11-10T00:37:43Z,textinsight-nlp,0.1.0,Harsh Vardhan Ajmera,MIT,1230727,"Lightweight, offline-first NLP for English and Hinglish text, with pluggable backends."
+2026-11-10T00:39:52Z,gitcontrol,0.1.1,rhyan05,MIT,8811758,"Gerenciador de Git com TUI, CLI JSON e app desktop"
+2026-11-10T00:44:52Z,knexflow,0.2.0,siegzeon0079 <davidg0079@gmail.com>,Apache-2.0,510598,"Portable K'NEX Flow program library, controller compiler, and robotics SDK"
+2026-11-10T00:46:04Z,lv24-opencode-consilium,1.10.0,LevapVeeskela,MIT,10732,Python launcher for the lv24-opencode-consilium (Consilium) Node.js CLI
+2026-11-10T00:48:46Z,tba-concrete-totp,0.1.0,,Apache-2.0,4974,Stateless HOTP and TOTP algorithms for TBA.
+2026-11-10T00:53:40Z,robustmodels,0.1.0,omarbecerrasierra,BSD-3-Clause,69474,"Robust statistics for Python: univariate location and scale, multivariate location and scatter."
+2026-11-10T00:54:55Z,x402-crypto-derivatives-data,0.3.0,Duo Data Utilities,MIT,35738,"Crypto derivatives data API client for AI agents and trading bots: perp funding rates, funding arbitrage, open interest, futures basis, implied volatility, liquidations, order books on 8 exchanges. P…"
+2026-11-10T00:54:56Z,x402-seo-keyword-data,0.3.0,Duo Data Utilities,MIT,53186,"SEO and keyword data API client for AI agents: Google search volume, CPC, keyword difficulty, keyword ideas, Google Trends, SERP results, backlinks, domain rankings, keyword gap. 44 routes, pay per c…"
+2026-11-10T00:54:57Z,x402-social-media-data,0.3.0,Duo Data Utilities,MIT,40058,"Social media data API client for AI agents: social listening on X (Twitter), Reddit, TikTok, Instagram, YouTube, Threads, LinkedIn, Bluesky, Hacker News. Posts, profiles, comments, search. Pay per ca…"
+2026-11-10T00:57:25Z,ballistic-orbit,0.1.2,Nen Huynh <nvhuynh16@gmail.com>,MIT,42974146,High-fidelity orbital trajectory prediction library
+2026-11-10T00:58:54Z,awsglance,0.1.0,LeeGyeongPil,MIT,333513,"Read-only, single-process dashboard for one AWS account: who changed what, risky settings, and what to check now."
+2026-11-10T00:59:24Z,tinyecs-compsys,0.0.1,Michael Lamertz <michael.lamertz@gmail.com>,MIT,6566,Compsys root for tinyecs
+2026-11-10T00:59:31Z,hwpdown,0.1.0,LeeGyeongPil,MIT,408784,"Pure-Python HWP 5.0 / HWPX reader that renders LLM-friendly Markdown (merged cells, footnotes, numbering) from the public file-format specs."
+2026-11-10T01:00:30Z,claimset,0.40.0,Claimset contributors,Apache-2.0,1048728,"Tools for Claimset, an open format for research papers written by and for LLMs: validation, lab records and export."
+2026-11-10T01:01:35Z,nv-openmm-plugin,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1069,Zero version placeholder for nv_openmm_plugin
+2026-11-10T01:02:27Z,stack2rules,1.0.0,Godwin Unomah,MIT,40023,"Generate private, stack-specific CLAUDE.md rules from project manifests."
+2026-11-10T01:03:36Z,tinyecs-compsys-base,0.0.1,Michael Lamertz <michael.lamertz@gmail.com>,MIT,8278,Foundational component and system library for tinyecs
+2026-11-10T01:03:46Z,errdown,0.1.0a1,Artem Zabarov,Apache-2.0,40404,Cloudflare-compatible structured errors (RFC 9457) for every HTTP error your agent hits.
+2026-11-10T01:04:32Z,laterank,0.1.0b1,Ujwal Jibhkate <ujwaljibhkate06@gmail.com>,Apache-2.0,147453,"Local late-interaction retrieval: a cheap first stage, then an exact MaxSim rerank."
+2026-11-10T01:06:19Z,tba-provider-authenticator-totp-local,0.1.0,,Apache-2.0,6014,Local time-based OTP authenticator provider for TBA.
+2026-11-10T01:07:19Z,xp-libs-analytics,0.4.0,Generic In-Memory Analytics contributors,MIT,288805,"Schema-on-read, in-memory analytics for agent-generated YAML queries"
+2026-11-10T01:09:33Z,nvidia-cupo,0.0.0a0,NVIDIA Kitmaker Team,Apache-2.0,1057,Zero version placeholder for nvidia_cupo
+2026-11-10T01:12:49Z,agent-transcript-secrets,0.1.0,Kamil Kaczmarek <contact@kamilkaczmareksolutions.com>,MIT,31762,Find and redact secrets in local AI agent transcripts and settings
+2026-11-10T01:15:23Z,tinyecs-compsys-dynamics,0.0.1,Michael Lamertz <michael.lamertz@gmail.com>,MIT,10537,Dynamics component and system library for tinyecs
+2026-11-10T01:16:58Z,pulse-orchestrator,0.3.0,,MIT,2657768,Terminal-first orchestrator for AI agent workflows

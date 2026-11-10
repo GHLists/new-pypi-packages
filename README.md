@@ -8,46 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 00:20 UTC
+## Latest list — 2026-11-10 01:18 UTC
 
-New packages created between 2026-11-09 23:18 UTC and 2026-11-10 00:20 UTC.
+New packages created between 2026-11-10 00:20 UTC and 2026-11-10 01:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-10T00-20-23-462483Z.csv)
+[Full CSV](data/new-packages-2026-11-10T01-18-55-972582Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-09 23:01:36 | [dockflow-sdk](https://pypi.org/project/dockflow-sdk/) | 0.3.1 | OpenAPI Generator community | 139.3 kB | Dockflow v3 API |
-| 2026-11-09 23:07:48 | [osm-to-opendrive](https://pypi.org/project/osm-to-opendrive/) | 0.1.1 |  | 152.6 kB | Converts OpenStreetMap extracts to OpenDRIVE. |
-| 2026-11-09 23:11:17 | [cim-tables](https://pypi.org/project/cim-tables/) | 0.1.0a1 | "A. Anderson" <19935503+AAnde… | 135.9 kB | The .cimtbl DSL: parser, profile-reflective validator, and graph-write/binder c… |
-| 2026-11-09 23:20:15 | [phytkit](https://pypi.org/project/phytkit/) | 0.1.0 | PlantSimulationLab | 5.4 MB | Plant physiology model fitting: photosynthesis, stomatal conductance, hydraulic… |
-| 2026-11-09 23:20:45 | [duo-data-utilities](https://pypi.org/project/duo-data-utilities/) | 0.2.1 | Duo Data Utilities | 66.2 kB | IBAN, ISIN, VAT/tax ID and GTIN barcode validation plus 29 more pay-per-call ut… |
-| 2026-11-09 23:24:26 | [brick-instruments](https://pypi.org/project/brick-instruments/) | 0.9.1 | Adam McCaughan <amccaugh@gmai… | 116.3 kB | Host drivers for the Brick modular instrument system |
-| 2026-11-09 23:24:27 | [langchain-reachdog](https://pypi.org/project/langchain-reachdog/) | 0.1.0 |  | 33.0 kB | Budgeted title, research and catalog tools for Reach Dog |
-| 2026-11-09 23:26:43 | [roundlet](https://pypi.org/project/roundlet/) | 0.2.4 |  | 90.6 kB | Random collection of helper libraries used by Ringlet software |
-| 2026-11-09 23:26:49 | [decision-cascade](https://pypi.org/project/decision-cascade/) | 1.0.0 | slavabars <slavabars@users.no… | 664.2 kB | Локальный движок типизированных калибруемых решений (Noul/Choice/Score) с каска… |
-| 2026-11-09 23:30:42 | [cael-provenance-bridge](https://pypi.org/project/cael-provenance-bridge/) | 0.1.0 |  | 12.1 kB | Optional source-linked CAEL reasoning tools for workflow runtimes |
-| 2026-11-09 23:32:43 | [diff-stream](https://pypi.org/project/diff-stream/) | 0.1.0 | Lee Tucker | 393.4 kB | Staggered difference-in-differences on data larger than memory: Callaway-Sant'A… |
-| 2026-11-09 23:32:53 | [mujoco-studio-wasm](https://pypi.org/project/mujoco-studio-wasm/) | 0.0.0a0 | Google DeepMind | 1.1 kB | Reserved for MuJoCo refactoring; not yet usable. |
-| 2026-11-09 23:34:10 | [cev-py](https://pypi.org/project/cev-py/) | 0.2.0 | Carter Cole | 23.0 MB | Typed, calibrated decisions from a small local LLM in one forward pass: is this… |
-| 2026-11-09 23:35:17 | [testcontainers-understudy](https://pypi.org/project/testcontainers-understudy/) | 0.1.2 |  | 20.6 kB | Testcontainers module for understudy, the local AWS emulator |
-| 2026-11-09 23:38:29 | [pocketscribe](https://pypi.org/project/pocketscribe/) | 0.1.0 | John Adeyemo Adedeji <johnnaa… | 227.2 kB | Confidence-aware binding-pocket triage for predicted protein structures |
-| 2026-11-09 23:40:34 | [verityngn](https://pypi.org/project/verityngn/) | 3.0.0 | HotChili Analytics, LLC | 1.1 MB | Open-source multimodal video claim verification engine with Deep Research |
-| 2026-11-09 23:41:27 | [tickwork](https://pypi.org/project/tickwork/) | 0.3.0 |  | 48.8 kB | A generic, instance-neutral workflow engine: states, transitions, sweeps and ca… |
-| 2026-11-09 23:45:25 | [flask-ezmail-ng](https://pypi.org/project/flask-ezmail-ng/) | 1.0.3 | Jared McKnight | 32.1 kB | Flask extension for sending email |
-| 2026-11-09 23:45:33 | [rift-ssg](https://pypi.org/project/rift-ssg/) | 0.1.0 | Aleks Rutins | 7.7 kB | A simple static site generator |
-| 2026-11-09 23:45:41 | [cmem-plugin-graphsigning](https://pypi.org/project/cmem-plugin-graphsigning/) | 0.5.0 | eccenca GmbH | 87.9 kB | Compute hashes and signatures over Knowledge Graphs. |
-| 2026-11-09 23:46:58 | [chans-mcp](https://pypi.org/project/chans-mcp/) | 0.1.2 |  | 59.1 kB | Chans MCP stdio bridge to the hosted Streamable HTTP service |
-| 2026-11-09 23:49:29 | [haybale-audio](https://pypi.org/project/haybale-audio/) | 0.4.0 |  | 79.0 kB | Audio blocks, events and routing shared by speech and streaming libraries |
-| 2026-11-09 23:53:53 | [djangogeoexporter](https://pypi.org/project/djangogeoexporter/) | 0.1.0 | dbWildlife | 49.6 kB | A Django module to facilitate exports, particularly map and relational database… |
-| 2026-11-09 23:58:18 | [yamlr](https://pypi.org/project/yamlr/) | 0.1.0 | Yamlr Team <contact@yamlr.dev> | 4.8 MB | yamlr — Kubernetes manifest safety & healing engine (Python SDK & Automation Pl… |
-| 2026-11-10 00:00:05 | [axonio-ros2](https://pypi.org/project/axonio-ros2/) | 0.5.0 | Axonio <team@axonio.xyz> | 39.3 kB | ROS2 SDK for Axonio: persistent, fleet-wide spatial memory for robots |
-| 2026-11-10 00:02:10 | [registrata](https://pypi.org/project/registrata/) | 0.1.0 | Justin Capella | 465.9 kB | Registration-data toolkit: RFC 2167 RWhois client/server plus experimental WHOI… |
-| 2026-11-10 00:03:03 | [roundtable-sh](https://pypi.org/project/roundtable-sh/) | 0.1.1 | Frontier Infra | 67.3 kB | A council of frontier models — for the decisions that matter. (a Frontier Infra… |
-| 2026-11-10 00:04:09 | [ebook-convert](https://pypi.org/project/ebook-convert/) | 4.13.0 | Nuno Sempere | 3.2 MB | Command-line ebook converter extracted from Calibre: epub, mobi, azw3, docx, fb… |
-| 2026-11-10 00:04:29 | [oathline-guard](https://pypi.org/project/oathline-guard/) | 0.1.0 | Nexxt Nest Group Pty Ltd | 55.0 kB | An MCP guard where an AI agent's yes means exactly what the person saw: reads p… |
-| 2026-11-10 00:11:30 | [gemini-pro-mcp](https://pypi.org/project/gemini-pro-mcp/) | 0.1.4 | Muzaqil Hesenli | 428.9 kB | MCP server that brings your Google AI Pro subscription (Gemini via Antigravity… |
-| 2026-11-10 00:12:46 | [mbBench](https://pypi.org/project/mbBench/) | 0.1.0 |  | 257.9 kB | MicrobiomeBench: conditional microbiome simulation and truth-informed benchmark… |
-| 2026-11-10 00:14:03 | [licenx](https://pypi.org/project/licenx/) | 1.2.4 | LicenX Contributors | 96.7 kB | Python client SDK for LicenX license validation |
-| 2026-11-10 00:18:03 | [transcripy](https://pypi.org/project/transcripy/) | 1.0.0 | Bartosz Niewolski | 38.0 kB | Local transcription of voicebot calls and phone recordings into timed speaker t… |
-| 2026-11-10 00:19:00 | [fingerly](https://pypi.org/project/fingerly/) | 0.1.0 | Fingerly | 88.2 kB | Server-side Fingerly SDK: event reads, webhook verification and a same-origin p… |
-| 2026-11-10 00:19:50 | [green-bench](https://pypi.org/project/green-bench/) | 0.2.0 | Jessica Draper <jessicafaye.d… | 60.5 kB | A CLI tool for automated, localized software energy experiments. |
+| 2026-11-10 00:21:18 | [RDEFpy](https://pypi.org/project/RDEFpy/) | 1.0.0 | Andrea Togni <antogni@morehea… | 26.1 MB | Reader and writer for the CCSDS Delta-DOR Raw Data Exchange Format (RDEF, CCSDS… |
+| 2026-11-10 00:24:41 | [graph-lcb](https://pypi.org/project/graph-lcb/) | 0.2.1 |  | 94.5 kB | A local CLI for managing JSON-backed graphs with customizable entity and edge t… |
+| 2026-11-10 00:27:49 | [carimbar](https://pypi.org/project/carimbar/) | 0.0.3 |  | 34.1 MB | Emissão de NF-e e NFS-e Nacional para devs e agentes de IA |
+| 2026-11-10 00:31:05 | [sverify-polars](https://pypi.org/project/sverify-polars/) | 0.8.0 |  | 153.5 kB | Polars as an engine of sverify: plans verified in Lean, run as Polars lazy fram… |
+| 2026-11-10 00:31:05 | [sverify-spark](https://pypi.org/project/sverify-spark/) | 0.8.0 |  | 58.4 kB | Spark as an engine of sverify: plans verified in Lean, written as Spark SQL |
+| 2026-11-10 00:31:09 | [sverify-duckdb](https://pypi.org/project/sverify-duckdb/) | 0.8.0 |  | 47.2 kB | DuckDB as an engine of sverify: plans verified in Lean, written as DuckDB SQL |
+| 2026-11-10 00:31:16 | [pyrecords](https://pypi.org/project/pyrecords/) | 0.2.0 | aaltatan | 40.4 kB | Read records from Excel or JSON, then order, filter (JSON rules) and group them. |
+| 2026-11-10 00:31:56 | [minimindslab-datetime-span](https://pypi.org/project/minimindslab-datetime-span/) | 0.1.0 | MiniMindsLab | 10.5 kB | Parse, normalize, and compare simple UTC datetime spans with deterministic form… |
+| 2026-11-10 00:33:07 | [crusader-sdk](https://pypi.org/project/crusader-sdk/) | 0.1.0a1 | Stephen Witkowski | 801.1 kB | A Python SDK for Stronghold Crusader. |
+| 2026-11-10 00:33:10 | [minimindslab-delimited-flatten](https://pypi.org/project/minimindslab-delimited-flatten/) | 0.1.0 | MiniMindsLab | 8.9 kB | Flatten nested dict/list structures into stable dotted-path key/value pairs and… |
+| 2026-11-10 00:33:18 | [django-abrasileirado](https://pypi.org/project/django-abrasileirado/) | 1.0.0 | Kelson da Costa Medeiros <kel… | 9.2 kB | Django Application specific brazilian fields types. |
+| 2026-11-10 00:34:20 | [minimindslab-dict-merge-strategy](https://pypi.org/project/minimindslab-dict-merge-strategy/) | 0.1.0 | MiniMindsLab | 7.5 kB | Deterministically merge two Python dictionaries with explicit conflict strategi… |
+| 2026-11-10 00:34:21 | [pipecat-spatialreal](https://pypi.org/project/pipecat-spatialreal/) | 0.1.0 | SpatialReal <hello@spatialrea… | 4.4 MB | Pipecat processor that drives a SpatialReal avatar from a voice bot's TTS audio |
+| 2026-11-10 00:37:43 | [textinsight-nlp](https://pypi.org/project/textinsight-nlp/) | 0.1.0 | Harsh Vardhan Ajmera | 1.2 MB | Lightweight, offline-first NLP for English and Hinglish text, with pluggable ba… |
+| 2026-11-10 00:39:52 | [gitcontrol](https://pypi.org/project/gitcontrol/) | 0.1.1 | rhyan05 | 8.8 MB | Gerenciador de Git com TUI, CLI JSON e app desktop |
+| 2026-11-10 00:44:52 | [knexflow](https://pypi.org/project/knexflow/) | 0.2.0 | siegzeon0079 <davidg0079@gmai… | 510.6 kB | Portable K'NEX Flow program library, controller compiler, and robotics SDK |
+| 2026-11-10 00:46:04 | [lv24-opencode-consilium](https://pypi.org/project/lv24-opencode-consilium/) | 1.10.0 | LevapVeeskela | 10.7 kB | Python launcher for the lv24-opencode-consilium (Consilium) Node.js CLI |
+| 2026-11-10 00:48:46 | [tba-concrete-totp](https://pypi.org/project/tba-concrete-totp/) | 0.1.0 |  | 5.0 kB | Stateless HOTP and TOTP algorithms for TBA. |
+| 2026-11-10 00:53:40 | [robustmodels](https://pypi.org/project/robustmodels/) | 0.1.0 | omarbecerrasierra | 69.5 kB | Robust statistics for Python: univariate location and scale, multivariate locat… |
+| 2026-11-10 00:54:55 | [x402-crypto-derivatives-data](https://pypi.org/project/x402-crypto-derivatives-data/) | 0.3.0 | Duo Data Utilities | 35.7 kB | Crypto derivatives data API client for AI agents and trading bots: perp funding… |
+| 2026-11-10 00:54:56 | [x402-seo-keyword-data](https://pypi.org/project/x402-seo-keyword-data/) | 0.3.0 | Duo Data Utilities | 53.2 kB | SEO and keyword data API client for AI agents: Google search volume, CPC, keywo… |
+| 2026-11-10 00:54:57 | [x402-social-media-data](https://pypi.org/project/x402-social-media-data/) | 0.3.0 | Duo Data Utilities | 40.1 kB | Social media data API client for AI agents: social listening on X (Twitter), Re… |
+| 2026-11-10 00:57:25 | [ballistic-orbit](https://pypi.org/project/ballistic-orbit/) | 0.1.2 | Nen Huynh <nvhuynh16@gmail.co… | 43.0 MB | High-fidelity orbital trajectory prediction library |
+| 2026-11-10 00:58:54 | [awsglance](https://pypi.org/project/awsglance/) | 0.1.0 | LeeGyeongPil | 333.5 kB | Read-only, single-process dashboard for one AWS account: who changed what, risk… |
+| 2026-11-10 00:59:24 | [tinyecs-compsys](https://pypi.org/project/tinyecs-compsys/) | 0.0.1 | Michael Lamertz <michael.lame… | 6.6 kB | Compsys root for tinyecs |
+| 2026-11-10 00:59:31 | [hwpdown](https://pypi.org/project/hwpdown/) | 0.1.0 | LeeGyeongPil | 408.8 kB | Pure-Python HWP 5.0 / HWPX reader that renders LLM-friendly Markdown (merged ce… |
+| 2026-11-10 01:00:30 | [claimset](https://pypi.org/project/claimset/) | 0.40.0 | Claimset contributors | 1.0 MB | Tools for Claimset, an open format for research papers written by and for LLMs:… |
+| 2026-11-10 01:01:35 | [nv-openmm-plugin](https://pypi.org/project/nv-openmm-plugin/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for nv_openmm_plugin |
+| 2026-11-10 01:02:27 | [stack2rules](https://pypi.org/project/stack2rules/) | 1.0.0 | Godwin Unomah | 40.0 kB | Generate private, stack-specific CLAUDE.md rules from project manifests. |
+| 2026-11-10 01:03:36 | [tinyecs-compsys-base](https://pypi.org/project/tinyecs-compsys-base/) | 0.0.1 | Michael Lamertz <michael.lame… | 8.3 kB | Foundational component and system library for tinyecs |
+| 2026-11-10 01:03:46 | [errdown](https://pypi.org/project/errdown/) | 0.1.0a1 | Artem Zabarov | 40.4 kB | Cloudflare-compatible structured errors (RFC 9457) for every HTTP error your ag… |
+| 2026-11-10 01:04:32 | [laterank](https://pypi.org/project/laterank/) | 0.1.0b1 | Ujwal Jibhkate <ujwaljibhkate… | 147.5 kB | Local late-interaction retrieval: a cheap first stage, then an exact MaxSim rer… |
+| 2026-11-10 01:06:19 | [tba-provider-authenticator-totp-local](https://pypi.org/project/tba-provider-authenticator-totp-local/) | 0.1.0 |  | 6.0 kB | Local time-based OTP authenticator provider for TBA. |
+| 2026-11-10 01:07:19 | [xp-libs-analytics](https://pypi.org/project/xp-libs-analytics/) | 0.4.0 | Generic In-Memory Analytics c… | 288.8 kB | Schema-on-read, in-memory analytics for agent-generated YAML queries |
+| 2026-11-10 01:09:33 | [nvidia-cupo](https://pypi.org/project/nvidia-cupo/) | 0.0.0a0 | NVIDIA Kitmaker Team | 1.1 kB | Zero version placeholder for nvidia_cupo |
+| 2026-11-10 01:12:49 | [agent-transcript-secrets](https://pypi.org/project/agent-transcript-secrets/) | 0.1.0 | Kamil Kaczmarek <contact@kami… | 31.8 kB | Find and redact secrets in local AI agent transcripts and settings |
+| 2026-11-10 01:15:23 | [tinyecs-compsys-dynamics](https://pypi.org/project/tinyecs-compsys-dynamics/) | 0.0.1 | Michael Lamertz <michael.lame… | 10.5 kB | Dynamics component and system library for tinyecs |
+| 2026-11-10 01:16:58 | [pulse-orchestrator](https://pypi.org/project/pulse-orchestrator/) | 0.3.0 |  | 2.7 MB | Terminal-first orchestrator for AI agent workflows |
