@@ -1,0 +1,59 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T13:22:50Z,Amsha,3.0.1,,MIT,152728,Amsha is a lightweight library designed to provide common configuration and helper utilities for CrewAI orchestration. It serves as a foundational component for building scalable and maintainable AI…
+2026-11-10T13:25:59Z,basert,0.4.6,BaseCompute,Apache-2.0 AND LicenseRef-BaseRT-Engine,68672441,"Fast local LLM inference on Apple Silicon and NVIDIA GB10: the basert CLI, engine, and Python bindings"
+2026-11-10T13:26:09Z,aerosolprops,0.1.0,Fan Zhang,MIT,217577,Structure-derived pure-component properties for atmospheric organic aerosol: vapour pressures and boiling points by group contribution
+2026-11-10T13:26:13Z,superfluid-cli,0.1.10,Base Compute,Apache-2.0,54862773,"One serving daemon for local LLM inference, across runtimes and machines"
+2026-11-10T13:26:15Z,Products.PloneHotfix20261110,1.0,Plone Security Team,GPL,35644,"Various Plone hotfixes, 2026-11-10"
+2026-11-10T13:26:53Z,lupaxa-aws-authenticate,0.1.0,The Lupaxa Project,MIT,31572,Resolve any AWS credential source into one boto3 session.
+2026-11-10T13:27:39Z,pygranger,2.0.0,Vinicius Lima <vinicius.lima.cordeiro@gmail.com>,MIT,50637,Granger Causality in the frequency domain — parametric and non-parametric estimation
+2026-11-10T13:35:05Z,trackexec,0.1,WalT developers,3-Clause BSD,61397,"Record, replay and analyse the execution of python code."
+2026-11-10T13:35:11Z,zettcode-im,0.4.3,Chang-LeHung,MIT,49934,"Chat bridges: a WeChat conversation that drives one ZettCode daemon, and a place for the next chat app"
+2026-11-10T13:35:18Z,ads-onyx-cli,0.0.30,Alchimie Data Solutions,MIT,123882,"CI/CD des projets Onyx : comparaison, déploiement, sauvegarde et restauration entre tenants"
+2026-11-10T13:37:42Z,hoymiles-dtu-reader,2.0.0,MECC,MIT,74092,Read Hoymiles microinverter data through a DTU over Modbus TCP and expose a local JSON API.
+2026-11-10T13:38:29Z,usdag-sdk,0.0.1,USD Agent Protocol <admin@usdag.io>,MIT,2845,Official Python SDK for USD Agent (USDAG) — Zero-Gas AI-to-AI Payment Protocol
+2026-11-10T13:38:31Z,usdag,0.0.1,USD Agent Protocol <admin@usdag.io>,MIT,2834,Meta-package for USD Agent (USDAG) Python SDK (usdag-sdk)
+2026-11-10T13:40:02Z,ghfdb,0.1.0,Sam Jennings <samuel.scott.jennings@gmail.com>,MIT,210729,Python tools for working with the Global Heat Flow Database.
+2026-11-10T13:40:27Z,zettcode-truncation,0.4.3,Chang-LeHung,MIT,11442,"The over-long tool result ZettCode keeps in the session's folder, as a part of the agent that lives apart from it"
+2026-11-10T13:41:28Z,zettcode-app,0.4.3,Chang-LeHung,MIT,526884,"The terminal application of ZettCode: the conversation model, the shell and its views"
+2026-11-10T13:42:03Z,anuj-proxy-hunter,1.0.0,anuj,,19632,"Free proxy hunter that verifies http/socks4/socks5 exits against the SMM order gateway (Telegram reactions, Instagram likes)"
+2026-11-10T13:42:31Z,zettcode-commands,0.4.3,Chang-LeHung,MIT,107398,"The slash commands that act on ZettCode's terminal application, offered to it as a plugin"
+2026-11-10T13:44:26Z,gaussian_random_field,0.0.1,Amber Leeson,MIT,70519,DTC-IS module that fits a Gaussian Random Field to an input field of surface meltwater runoff or supraglacial lake intensity.
+2026-11-10T13:44:32Z,rebase-grid-api,0.1.0,Rebase Energy,MIT,16439,"Python client for the Rebase Grid API: European electricity prices, load, generation, forecasts and flows. No API key needed."
+2026-11-10T13:45:08Z,bazaar-contrib-server-usage,0.3.0rc1,,Apache-2.0,31823,"The usage on the Bazaar Compute server's overview: how the agents an account sees are, what waits for a decision, the computers away, and the turns and tokens of today and the last days"
+2026-11-10T13:45:59Z,openlakeforge-core,0.5.1a3,,,25170,Canonical provider-neutral domain model for OpenLakeForge
+2026-11-10T13:46:01Z,openlakeforge-runtime,0.5.1a3,,,61437,"OpenLakeForge project-code runtime: Dagster, dlt, dbt and Floe glue imported by lakehouse code"
+2026-11-10T13:46:11Z,pcmtap,0.0.3,Thor Whalen,MIT,43672,"Record what an app (or the whole Mac) is playing, as PCM, via Core Audio process taps."
+2026-11-10T13:47:28Z,jupyterlab-heritage-themes,1.8.1,Heritage Themes,MIT,244680,Heritage Themes for JupyterLab
+2026-11-10T13:47:41Z,volterra-krr,0.1.0,Daniele Ballinari,MIT,19460,Kernel ridge regression with the Volterra reservoir kernel (infinite-dimensional next-generation reservoir computing)
+2026-11-10T13:47:58Z,liorium,0.1.0,liwusen,MIT,695311,Liorium：可嵌入的 LLM Agent 框架 —— 一个发行版内含 core / vfs / realm / agent / memory / skills / mcp / todo / provider / cli 全部 10 个模块
+2026-11-10T13:48:52Z,epi-enterprise,0.0.0,EPI Labs <mohdibrahim@epilabs.org>,Proprietary,2484,Placeholder. The real EPI Enterprise package is distributed privately by EPI Labs.
+2026-11-10T13:49:45Z,honestgreen,0.1.0,,MIT,68619,"Detect changes that weaken a test suite: removed, weakened or modified assertions, disabled and deleted tests."
+2026-11-10T13:50:03Z,whattotest,0.1.0,,MIT,49026,What to test first in every release: risk-based test prioritisation from your git history.
+2026-11-10T13:51:38Z,yamcs-fops,0.1.0,JAOPS Inc.,AGPL-3.0-only,22050655,Flight operations procedures for Yamcs: the worker and the procedure language
+2026-11-10T13:52:15Z,pgmi-cli,0.0.1,,MPL-2.0,2280,"Placeholder: the name pgmi is reserved for the upcoming pgmi release on PyPI (package pgmi-cli, command pgmi)."
+2026-11-10T13:53:20Z,langchain-aigifmaker,0.1.0,AI GIF Maker,MIT,8382,LangChain tool for AI GIF Maker (aigifmaker.ai): turn text into animated GIFs from an agent
+2026-11-10T13:55:02Z,pyhuurwoningen,1.0.1,Bor Černe <borcerne.business@outlook.com>,MIT,54202,Search rental homes on huurwoningen.nl
+2026-11-10T13:56:46Z,shiftmydata,0.1.0,ShiftMyData,MIT,23346,"ShiftMyData from the command line: list, copy and sync between your clouds."
+2026-11-10T13:56:49Z,lookupluke-verify,1.1.0,Lookup Luke,Apache-2.0,44094,"Verify Lookup Luke evidence bundles without trusting Lookup Luke: Merkle root, Ed25519 signature, RFC 3161 and OpenTimestamps."
+2026-11-10T13:56:57Z,simple-q-runtime,0.1.0,,,2411460,"Queue runtime for Python async tasks, with a Rust extension for Redis enqueue and locks"
+2026-11-10T13:57:08Z,pajju-dl,0.1.0,Prajwal R Poojary,MIT,15317,"CLI tool to view, copy, and save Deep Learning lab programs"
+2026-11-10T13:57:32Z,mimosa-illume,0.1.0,Simone Piaggesi <piaggesi.simone@gmail.com>,"MIT License Copyright (c) 2025 Simone Piaggesi Permission is hereby granted, free of charge, to any…",2877216,Post-hoc explanations for tabular data using interpretable meta-encoding
+2026-11-10T13:58:33Z,read-spx,0.1.0,Frank and Koen,MIT,33174,Parse Artax X-Ray Fluorescence (.spx) spectral data files.
+2026-11-10T13:59:46Z,neozen,0.9.1,Stefane Fermigier,Apache-2.0,789486,Streamlined authentication and authorization for modern Python applications
+2026-11-10T14:01:37Z,incorta-rnd-kit,0.1.0,Anas Abdelsalam,LicenseRef-Proprietary-Internal,30783,"Setup tool for the Incorta R&D preview plugin. Incorta R&D preview — internal evaluation, not an Incorta product. Holds no plugin code: it signs Incorta staff in and fetches the plugin."
+2026-11-10T14:03:30Z,nuclia-metering,0.1.0,Bosutech XXI S.L.,Apache-2.0,62345,Client library and Protobuf contract to send usage events to the Nuclia usage pipeline
+2026-11-10T14:04:03Z,pythoncm,0.0.0a0,NVIDIA,,979,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-10T14:04:07Z,pythontf,0.0.0a0,NVIDIA,,977,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-10T14:04:10Z,pythontf-cm-v10x0,0.0.0a0,NVIDIA,,1049,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-10T14:04:13Z,pythontf-cm-v11x0,0.0.0a0,NVIDIA,,1048,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-10T14:06:06Z,qc-dl,0.1.0,Developer,MIT,12268,CLI tool to view Deep Learning lab programs
+2026-11-10T14:08:07Z,unblock-fetch,0.1.0,AlterLab <dev@alterlab.io>,MIT,19637,Drop-in requests/httpx-style fetch that falls back to AlterLab only when the direct fetch is blocked
+2026-11-10T14:10:08Z,timber-ts,0.1.0,The TIMBER authors,MIT,112808,"Self-supervised representation learning for multichannel time series (TIMBER), as Hugging Face models"
+2026-11-10T14:10:21Z,anuj-smm,1.0.0,anuj,,36269,"All-in-one SMM order placer + proxy hunter (Telegram reactions, Instagram likes) with silent proxy rotation"
+2026-11-10T14:11:21Z,gatewayweave,0.1.0,Raja Tarun,Apache-2.0,102411,"Offline gate and approval record for a model, prompt, or router change."
+2026-11-10T14:13:55Z,ggds-django,0.2.0,,Apache-2.0,207504,"Ghana Government Design System (GGDS) for Django: page parts as template tags, a form renderer, and the GGDS styles and script."
+2026-11-10T14:17:56Z,grohm,0.1.0,Emme Esse S.p.A.,Apache-2.0,31043,Async Python client for Grohm EV chargers
+2026-11-10T14:18:01Z,sphinxext-toc,0.0.0,,,151033,"The table of contents of a Sphinx site, defined in one file"
+2026-11-10T14:18:05Z,contactimpactbench,0.1.3,"Serhii Podliesnyi, Oleksii Sheremet, Roman S. Tomashevskyi",MIT,76978,Reproducible numerical verification benchmarks for reduced compliant impact models
+2026-11-10T14:18:11Z,zjzmei-mcp,0.1.0,zjzmei,Apache-2.0,36735,最美证件照 MCP 服务：证件照制作、换底色、改大小、变清晰、格式转换
+2026-11-10T14:18:18Z,svg2plot,0.1.0b1,Julien Rippinger,GPL-3.0-or-later,51570,Terminal User Interface (TUI) to convert svg files to gcode and stream them via usb serial port to your xy-plotter.
