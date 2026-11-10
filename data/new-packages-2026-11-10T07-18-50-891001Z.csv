@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T06:24:30Z,flyedge,0.4.0,,Apache-2.0,19545817,Explicit agent governance SDK backed by the shared Flyedge Rust core
+2026-11-10T06:26:37Z,shikiru-cli,0.2.0,Ferrum Code,MIT,3253763,"Runs coding-agent tasks in tmux panes, orchestrated by an asyncio engine."
+2026-11-10T06:29:46Z,strands-arcmira,0.1.0,Arcmira,Apache-2.0,22386,"YouTube transcript search for AI agents: the exact quote, often who said it, and a watch link cued to the second."
+2026-11-10T06:33:37Z,svn-mcp,0.3.0,hira <ship.hiramatsu@gmail.com>,Apache-2.0,48345,Unicode-safe (CJK/Japanese path) SVN MCP server with env-based auth and XML-parsed output
+2026-11-10T06:36:32Z,shikiri-yaku,0.2.0,Ferrum Code,MIT,688989,An escalation router between a Product Owner and Shikiru.
+2026-11-10T06:36:57Z,ace-engine-sdk,0.2.0,YuqiPlus,MIT,41997,AceEngine image quality evaluation SDK
+2026-11-10T06:36:58Z,git-secret-sentinel,0.2.0,Tajamul Wani,MIT,117708,"Local secret scanner for Git repositories, hooks, and CI."
+2026-11-10T06:37:00Z,qelib,0.1.0,,Proprietary - the qeLib developer license; third-party licenses in qeLib/licenses,17338144,"qeLib: pricing, risk and regulatory capital analytics for credit and rates, under a developer license"
+2026-11-10T06:42:20Z,animeapi-sdk,0.1.0,AnimeAPI <contact@animeapi.ai>,MIT,25431,"Official AnimeAPI SDK: anime image generation from $0.003 per image, plus anime video. Sync and async clients."
+2026-11-10T06:44:34Z,toolcall-conformance,0.1.0,,MIT,66897,"Check how an OpenAI-compatible server (Ollama, llama.cpp, vLLM, LM Studio, LiteLLM...) handles tool calls on the wire."
+2026-11-10T06:45:40Z,trpc-report-python,1.0.0,tRPC Group,Apache-2.0,55285,runtime metrics plugin for trpc framework
+2026-11-10T06:45:42Z,gd-crawler-mcp,0.1.0,,,4005,广东信息价爬虫 MCP：抓网页、提链接、联网搜索、PDF提取
+2026-11-10T06:46:03Z,nonebot-plugin-animeapi,1.0.0,AnimeAPI <contact@animeapi.ai>,MIT,20256,"NoneBot2 anime image generation plugin for AnimeAPI: $0.003 per image, no subscription. 使用 AnimeAPI 生成动漫图片，每张 $0.003"
+2026-11-10T06:48:34Z,crewai-agentic-iam,0.1.0,Tushar Kumar,Apache-2.0,21111,"Route CrewAI agent HTTP calls through Agentic IAM Proxy: no raw API keys, human approval for risky actions."
+2026-11-10T06:48:35Z,langchain-agentic-iam,0.1.0,Tushar Kumar,Apache-2.0,17190,"Route LangChain agent HTTP calls through Agentic IAM Proxy: no raw API keys, human approval for risky actions."
+2026-11-10T06:54:47Z,pyagentprolog,1.0.1,Andrey Vorfolomeev <binom0x@proton.me>,MIT,154169,"A Prolog engine in Python with agents, tracing, and semantic unification."
+2026-11-10T07:04:48Z,p2sbi,0.1.0,"Aditya Parthasarathy, Gregory Ashton",BSD-3-Clause,390054,Simulation-based inference for profile-domain pulsar timing
+2026-11-10T07:05:25Z,nlp-refinement-cli,0.9.0,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",162935,"Durable-local, review-only refinement for natural-language-programming artifacts."
+2026-11-10T07:06:15Z,cutnow,0.1.0,vcut contributors,MIT,100037,"Deterministic, inspectable video editing for agents — solutions, ops and EDL."
+2026-11-10T07:07:57Z,mbtk,0.1.1,Vladimir Krokhin <krokhinvladimir2004@gmail.com>,MIT,96240,"A small async toolkit for MAX messenger bots, inspired by aiogram 3"
+2026-11-10T07:09:37Z,pyagentprolog-hf,1.0.2,Andrey Vorfolomeev <binom0x@proton.me>,MIT,29056,"Hugging Face integration for PyAgentProlog: PreTrainedModel, Pipeline, Hub upload."
+2026-11-10T07:11:57Z,zquatev,0.2.2,,,15442288,Quaternionic matrix diagonalization
+2026-11-10T07:13:31Z,agent-community-sdk,0.1.0,Manjunatha Sai Uppu,Apache-2.0,39585,Python SDK and MCP stdio adapter for AgentHive (agent_community).
+2026-11-10T07:13:53Z,uniquedomains,0.1.0,Unique Domains,MIT,1250317,"Python client for the Unique Domains API: domain names, words, TLDs, registrar prices, the domain market, trends and the agenda"
+2026-11-10T07:15:38Z,evalry,0.0.1.dev1,Nikhil Arora,,8860,"Evaluate AI-generated code, eval datasets and the evals themselves."
+2026-11-10T07:18:02Z,vanoros,0.0.1,VanorOS,,4505,VanorOS — 通用智能体操作系统（名称占位版本；正式开源代码即将发布）
+2026-11-10T07:18:21Z,decoyfs,0.1.0,"""Nestor A. Zermeño Campos"" <nestor.zermeno@uabc.edu.mx>",MIT,108225,"Decoy-referenced feature selection: Random and Shadow control features, swappable rankers and auditable vote policies."
+2026-11-10T07:18:26Z,vanor,0.0.1,VanorOS,,4483,VanorOS — 通用智能体操作系统（名称占位版本；正式开源代码即将发布）
+2026-11-10T07:18:47Z,racetale-pace,1.0.0,RaceTale <contact@racetale.com>,MIT,14618,"Running maths with no dependencies: pace, finish time, Riegel race predictions, split plans, heart rate zones, spectator passing times and GPX trimming."

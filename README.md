@@ -8,35 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 06:20 UTC
+## Latest list — 2026-11-10 07:18 UTC
 
-New packages created between 2026-11-10 05:20 UTC and 2026-11-10 06:20 UTC.
+New packages created between 2026-11-10 06:20 UTC and 2026-11-10 07:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-10T06-20-29-536464Z.csv)
+[Full CSV](data/new-packages-2026-11-10T07-18-50-891001Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-10 05:21:26 | [ls-logging](https://pypi.org/project/ls-logging/) | 0.1.0 |  | 15.1 kB | Логи служб lightmaster в journald |
-| 2026-11-10 05:22:30 | [dewi-lanjar](https://pypi.org/project/dewi-lanjar/) | 0.0.1 | Rima Rachmayani, Rusmawan Suw… | 133.9 kB | Western boundary intensification of wind-driven ocean gyres: Stommel, Munk and… |
-| 2026-11-10 05:24:37 | [dienr](https://pypi.org/project/dienr/) | 0.1.0 | Adam Youlin He <ayhe@stanford… | 535.0 kB | Deconvolution of Isoform Expression from Nascent RNAs |
-| 2026-11-10 05:27:34 | [panka](https://pypi.org/project/panka/) | 0.0.1 |  | 2.1 kB | Placeholder, not a library. Panka's script client is installed inside Panka's o… |
-| 2026-11-10 05:33:48 | [tddlog](https://pypi.org/project/tddlog/) | 0.1.0 | Guy Van den Broeck | 30.2 MB | Exact probabilistic inference by compilation into tree decision diagrams |
-| 2026-11-10 05:34:31 | [padou](https://pypi.org/project/padou/) | 0.2.0 | "p@nos" <padou.dev@proton.me> | 291.2 kB | A private, offline AI assistant for your terminal that knows your machine. Buil… |
-| 2026-11-10 05:36:52 | [open-google-mcp](https://pypi.org/project/open-google-mcp/) | 0.2.1 | Sharp Digital | 84.4 kB | Read-only MCP server for Google Ads (GAQL), Search Console, Google Analytics 4,… |
-| 2026-11-10 05:41:05 | [graylog-mcp](https://pypi.org/project/graylog-mcp/) | 0.3.0 | graylog-mcp contributors | 704.0 kB | Read-only MCP server for Graylog 4.x-7.x: version-aware search, exact aggregati… |
-| 2026-11-10 05:45:49 | [gpucheck-cli](https://pypi.org/project/gpucheck-cli/) | 0.1.0 | narekkeshishyan | 55.6 kB | Open-source CLI that health-checks NVIDIA GPUs |
-| 2026-11-10 05:47:13 | [sd-dougu](https://pypi.org/project/sd-dougu/) | 0.0.1 | Joshua Hoskins <joshua.hoskin… | 8.7 kB | Toolkit for Single Dish RAPDS Development and Processing |
-| 2026-11-10 05:51:20 | [variable-adding](https://pypi.org/project/variable-adding/) | 2.0 | Sourceduty | 16.9 kB | Adaptive fractional, weighted, and iterative variable addition. |
-| 2026-11-10 05:51:22 | [vertical-ai](https://pypi.org/project/vertical-ai/) | 1.0.0 | Vertical AI | 1.3 MB | A client library for accessing Vertical AI API |
-| 2026-11-10 05:55:37 | [bhasha-kit](https://pypi.org/project/bhasha-kit/) | 0.2.0 |  | 38.8 kB | Offline Hindi, Bengali, and English text processing toolkit |
-| 2026-11-10 05:58:02 | [xorchestrate](https://pypi.org/project/xorchestrate/) | 0.0.1 |  | 1.7 kB | Agent orchestration through a shared, project-scoped MCP server (name reserved;… |
-| 2026-11-10 05:58:03 | [xork](https://pypi.org/project/xork/) | 0.0.1 |  | 1.7 kB | Short install name for xorchestrate (name reserved; first release coming soon). |
-| 2026-11-10 06:00:58 | [weaver-loom](https://pypi.org/project/weaver-loom/) | 0.1.5 |  | 1.3 MB | Port, optimize and serve Hugging Face LLMs on AMD Loom with a local coding agent |
-| 2026-11-10 06:08:06 | [repotemplates](https://pypi.org/project/repotemplates/) | 0.13.0 | gitronald <gitronald@users.no… | 129.8 kB | Scaffold repos from the repotemplates template and check existing repos against… |
-| 2026-11-10 06:10:51 | [lightkone](https://pypi.org/project/lightkone/) | 0.1.0 | KausalFlow | 96.7 kB | Lightkone from the command line and from Python: your papers, tags, folders, no… |
-| 2026-11-10 06:11:00 | [vocaloid-integrity-check](https://pypi.org/project/vocaloid-integrity-check/) | 1.0.0 | vocaloid-integrity-check cont… | 11.8 kB | Check the integrity of a Vocaloid voicebank by verifying the name digest in its… |
-| 2026-11-10 06:13:16 | [alibabacloud-internetbankopen20240612](https://pypi.org/project/alibabacloud-internetbankopen20240612/) | 1.0.0 | Alibaba Cloud SDK | 12.7 kB | Alibaba Cloud InternetBankOpen (20240612) SDK Library for Python |
-| 2026-11-10 06:15:04 | [stls-a2a](https://pypi.org/project/stls-a2a/) | 0.1.6 |  | 280.5 kB | SDK for building Agentic A2A comunication using quantum-safe encrypted channels |
-| 2026-11-10 06:15:08 | [stls-core](https://pypi.org/project/stls-core/) | 0.1.3 |  | 211.9 kB | Core cryptographic transport layer for STLS — protocol-agnostic symmetric encry… |
-| 2026-11-10 06:15:08 | [stls-mcp](https://pypi.org/project/stls-mcp/) | 0.1.3 |  | 100.8 kB | STLS extension of the Model Context Protocol — transparent application-layer sy… |
-| 2026-11-10 06:15:20 | [idp2aws](https://pypi.org/project/idp2aws/) | 0.2.0 | Saimon | 42.8 kB | Get short-lived AWS keys by signing in to your SAML IdP in a real browser |
+| 2026-11-10 06:24:30 | [flyedge](https://pypi.org/project/flyedge/) | 0.4.0 |  | 19.5 MB | Explicit agent governance SDK backed by the shared Flyedge Rust core |
+| 2026-11-10 06:26:37 | [shikiru-cli](https://pypi.org/project/shikiru-cli/) | 0.2.0 | Ferrum Code | 3.3 MB | Runs coding-agent tasks in tmux panes, orchestrated by an asyncio engine. |
+| 2026-11-10 06:29:46 | [strands-arcmira](https://pypi.org/project/strands-arcmira/) | 0.1.0 | Arcmira | 22.4 kB | YouTube transcript search for AI agents: the exact quote, often who said it, an… |
+| 2026-11-10 06:33:37 | [svn-mcp](https://pypi.org/project/svn-mcp/) | 0.3.0 | hira <ship.hiramatsu@gmail.co… | 48.3 kB | Unicode-safe (CJK/Japanese path) SVN MCP server with env-based auth and XML-par… |
+| 2026-11-10 06:36:32 | [shikiri-yaku](https://pypi.org/project/shikiri-yaku/) | 0.2.0 | Ferrum Code | 689.0 kB | An escalation router between a Product Owner and Shikiru. |
+| 2026-11-10 06:36:57 | [ace-engine-sdk](https://pypi.org/project/ace-engine-sdk/) | 0.2.0 | YuqiPlus | 42.0 kB | AceEngine image quality evaluation SDK |
+| 2026-11-10 06:36:58 | [git-secret-sentinel](https://pypi.org/project/git-secret-sentinel/) | 0.2.0 | Tajamul Wani | 117.7 kB | Local secret scanner for Git repositories, hooks, and CI. |
+| 2026-11-10 06:37:00 | [qelib](https://pypi.org/project/qelib/) | 0.1.0 |  | 17.3 MB | qeLib: pricing, risk and regulatory capital analytics for credit and rates, und… |
+| 2026-11-10 06:42:20 | [animeapi-sdk](https://pypi.org/project/animeapi-sdk/) | 0.1.0 | AnimeAPI <contact@animeapi.ai> | 25.4 kB | Official AnimeAPI SDK: anime image generation from $0.003 per image, plus anime… |
+| 2026-11-10 06:44:34 | [toolcall-conformance](https://pypi.org/project/toolcall-conformance/) | 0.1.0 |  | 66.9 kB | Check how an OpenAI-compatible server (Ollama, llama.cpp, vLLM, LM Studio, Lite… |
+| 2026-11-10 06:45:40 | [trpc-report-python](https://pypi.org/project/trpc-report-python/) | 1.0.0 | tRPC Group | 55.3 kB | runtime metrics plugin for trpc framework |
+| 2026-11-10 06:45:42 | [gd-crawler-mcp](https://pypi.org/project/gd-crawler-mcp/) | 0.1.0 |  | 4.0 kB | 广东信息价爬虫 MCP：抓网页、提链接、联网搜索、PDF提取 |
+| 2026-11-10 06:46:03 | [nonebot-plugin-animeapi](https://pypi.org/project/nonebot-plugin-animeapi/) | 1.0.0 | AnimeAPI <contact@animeapi.ai> | 20.3 kB | NoneBot2 anime image generation plugin for AnimeAPI: $0.003 per image, no subsc… |
+| 2026-11-10 06:48:34 | [crewai-agentic-iam](https://pypi.org/project/crewai-agentic-iam/) | 0.1.0 | Tushar Kumar | 21.1 kB | Route CrewAI agent HTTP calls through Agentic IAM Proxy: no raw API keys, human… |
+| 2026-11-10 06:48:35 | [langchain-agentic-iam](https://pypi.org/project/langchain-agentic-iam/) | 0.1.0 | Tushar Kumar | 17.2 kB | Route LangChain agent HTTP calls through Agentic IAM Proxy: no raw API keys, hu… |
+| 2026-11-10 06:54:47 | [pyagentprolog](https://pypi.org/project/pyagentprolog/) | 1.0.1 | Andrey Vorfolomeev <binom0x@p… | 154.2 kB | A Prolog engine in Python with agents, tracing, and semantic unification. |
+| 2026-11-10 07:04:48 | [p2sbi](https://pypi.org/project/p2sbi/) | 0.1.0 | Aditya Parthasarathy, Gregory… | 390.1 kB | Simulation-based inference for profile-domain pulsar timing |
+| 2026-11-10 07:05:25 | [nlp-refinement-cli](https://pypi.org/project/nlp-refinement-cli/) | 0.9.0 |  | 162.9 kB | Durable-local, review-only refinement for natural-language-programming artifact… |
+| 2026-11-10 07:06:15 | [cutnow](https://pypi.org/project/cutnow/) | 0.1.0 | vcut contributors | 100.0 kB | Deterministic, inspectable video editing for agents — solutions, ops and EDL. |
+| 2026-11-10 07:07:57 | [mbtk](https://pypi.org/project/mbtk/) | 0.1.1 | Vladimir Krokhin <krokhinvlad… | 96.2 kB | A small async toolkit for MAX messenger bots, inspired by aiogram 3 |
+| 2026-11-10 07:09:37 | [pyagentprolog-hf](https://pypi.org/project/pyagentprolog-hf/) | 1.0.2 | Andrey Vorfolomeev <binom0x@p… | 29.1 kB | Hugging Face integration for PyAgentProlog: PreTrainedModel, Pipeline, Hub uplo… |
+| 2026-11-10 07:11:57 | [zquatev](https://pypi.org/project/zquatev/) | 0.2.2 |  | 15.4 MB | Quaternionic matrix diagonalization |
+| 2026-11-10 07:13:31 | [agent-community-sdk](https://pypi.org/project/agent-community-sdk/) | 0.1.0 | Manjunatha Sai Uppu | 39.6 kB | Python SDK and MCP stdio adapter for AgentHive (agent_community). |
+| 2026-11-10 07:13:53 | [uniquedomains](https://pypi.org/project/uniquedomains/) | 0.1.0 | Unique Domains | 1.3 MB | Python client for the Unique Domains API: domain names, words, TLDs, registrar… |
+| 2026-11-10 07:15:38 | [evalry](https://pypi.org/project/evalry/) | 0.0.1.dev1 | Nikhil Arora | 8.9 kB | Evaluate AI-generated code, eval datasets and the evals themselves. |
+| 2026-11-10 07:18:02 | [vanoros](https://pypi.org/project/vanoros/) | 0.0.1 | VanorOS | 4.5 kB | VanorOS — 通用智能体操作系统（名称占位版本；正式开源代码即将发布） |
+| 2026-11-10 07:18:21 | [decoyfs](https://pypi.org/project/decoyfs/) | 0.1.0 | "Nestor A. Zermeño Campos" <n… | 108.2 kB | Decoy-referenced feature selection: Random and Shadow control features, swappab… |
+| 2026-11-10 07:18:26 | [vanor](https://pypi.org/project/vanor/) | 0.0.1 | VanorOS | 4.5 kB | VanorOS — 通用智能体操作系统（名称占位版本；正式开源代码即将发布） |
+| 2026-11-10 07:18:47 | [racetale-pace](https://pypi.org/project/racetale-pace/) | 1.0.0 | RaceTale <contact@racetale.co… | 14.6 kB | Running maths with no dependencies: pace, finish time, Riegel race predictions,… |
