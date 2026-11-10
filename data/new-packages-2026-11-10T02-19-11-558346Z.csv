@@ -1,0 +1,55 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T01:19:10Z,catincloud-ration,0.2.1,David Anaya,Apache-2.0,262352,"A bounded claim on a finite shared pool, granted for a period and refused rather than overdrawn."
+2026-11-10T01:21:35Z,verdict-gate,0.1.0,"Kunal, Sahil Jain",Apache-2.0,277406,VERDICT: evidence-governed admission of self-evolved skills for small LLM agents
+2026-11-10T01:23:21Z,rbg-ml,0.1.0,"fragadmsc, lucca moulin",,139086,Basic Machine Learning Library
+2026-11-10T01:27:07Z,tony5,0.0.1,,,356,Blank package tony5
+2026-11-10T01:27:08Z,tony4,0.0.1,,,1265,Blank package tony4
+2026-11-10T01:27:09Z,tony1,0.0.1,,,1263,Blank package tony1
+2026-11-10T01:27:11Z,tony3,0.0.1,,,356,Blank package tony3
+2026-11-10T01:27:46Z,dedalo,0.0.1,Lucas Ribeiro <lucasribeiro.sec@gmail.com>,,2176,Read-only tools and data views for MCP servers (placeholder release)
+2026-11-10T01:28:11Z,fastrectpack,0.1.0,Ramcharan,Apache-2.0,1704255,"Drop-in C++ accelerator for rectpack's MaxRects 2D packing algorithms, with identical output"
+2026-11-10T01:28:17Z,errdown-mcp,0.1.0a3,Artem Zabarov,Apache-2.0,19377,MCP server with a fetch tool that returns content on success and a Cloudflare-compatible structured error (errdown) on failure.
+2026-11-10T01:28:38Z,doricomcp,0.1.0,mka142,MIT,2072678,MCP server that lets Claude read and write a live Dorico 6 score
+2026-11-10T01:29:51Z,modularizer-plat-browser,0.17.1,,Unlicense,35620,Browser-hosted Python runtime for plat
+2026-11-10T01:31:08Z,ragfoundry,0.1.0,,,124397,"Configurable production RAG on LangChain and LangGraph: loaders, chunking, embeddings, vector stores, LLMs, evaluation and observability."
+2026-11-10T01:31:30Z,langchain-autonomo,0.1.0,Autonomo,MIT,15739,"LangChain tools for Autonomo: an agent finds the right paid API, sees its price and pays for a call in USDG or $AUTONOMO on Robinhood Chain, within spending caps."
+2026-11-10T01:32:28Z,tinyecs-compsys-sdl2,0.0.1,Michael Lamertz <michael.lamertz@gmail.com>,MIT,10300,pygame-ce SDL2 component and system library for tinyecs
+2026-11-10T01:34:52Z,papyrust,0.1.0a1,Jacob Wilkinson,MIT,7521,"Rust-style Python, with full static typing."
+2026-11-10T01:41:42Z,goodwoolf,0.0.2,,,4250481,Building foundation models collaboratively on commodity hardware.
+2026-11-10T01:41:51Z,pymaxtwin,0.1.0,"""V. Roshan Joseph"" <roshan@gatech.edu>, Youngseo Cho <ycho397@gatech.edu>",GPL-3.0-or-later,37571,Robust deterministic data splitting for model validation
+2026-11-10T01:45:26Z,ai-mrg,0.3.0,AI-MRG Framework contributors,Apache-2.0,787321,"Open-source, full-lifecycle AI and model risk governance toolkit for U.S. regulated industries."
+2026-11-10T01:46:08Z,lv24-wifi-explorer,1.0.0,LV24,MIT,16615,Python launcher for the LV24 WiFi Explorer CLI and MCP server
+2026-11-10T01:47:09Z,healthgen,0.1.0,,Apache-2.0,43635,"Deterministic synthetic X12 professional, institutional, and dental claims"
+2026-11-10T01:47:12Z,aishare,0.1.0,Arka Khorchidian,MIT,31798,"How much of the code you shipped did AI write? Matches git blame against Claude Code, Codex and Gemini CLI session logs and AI co-author trailers."
+2026-11-10T01:47:20Z,agentsnitch,0.1.0,Arka Khorchidian,MIT,35493,"What did your AI coding agents actually do? Every command Claude Code, Codex and Gemini CLI ran on your machine, with force-pushes, curl | sh, secret reads and files outside the project flagged."
+2026-11-10T01:47:28Z,agentwrapped,0.1.0,Arka Khorchidian,MIT,1480885,"Spotify Wrapped for your AI coding agents: your year with Claude Code, Codex and Gemini CLI, with a shareable card. Reads local logs only."
+2026-11-10T01:47:57Z,lv24-vigil,0.4.0,LevapVeeskela,Apache-2.0,17262,Python launcher for the lv24-vigil (Vigil) CLI
+2026-11-10T01:48:19Z,lv24-brain,0.12.0,LevapVeeskela,Apache-2.0,17991,Python launcher for the lv24-brain CLI
+2026-11-10T01:49:53Z,declinecast,0.1.0,Nathan Steinle,MIT,26950013,"Amortized Bayesian decline-curve analysis on real regulator data: a neural posterior trained on simulated wells, validated by simulation-based calibration and coverage, scored on DJ Basin wells again…"
+2026-11-10T01:50:06Z,nrl-lib,1.0.1,EPIC <software@earthscope.org>,GPL-3.0-or-later,80786,Python client for the EarthScope Nominal Response Library (NRL) v2 web service
+2026-11-10T01:52:24Z,read-write-edit-tools,0.1.0,,Apache-2.0,78172,"Fast hex-line-numbered file read, write, and edit CLI"
+2026-11-10T01:54:11Z,luckylucy.utils.time,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,10980,A collection of utilities I use across different projects (luckylucy.utils.time)
+2026-11-10T01:54:15Z,luckylucy.utils.typing,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,9774,A collection of utilities I use across different projects (luckylucy.utils.typing)
+2026-11-10T01:55:13Z,solid-descriptor,2.0.1,,BSD-3-Clause,6914629,SOLiD: Spatially Organized and Lightweight Global Descriptor (C++ core + pure-Python)
+2026-11-10T01:55:25Z,luckylucy.utils.uvicorns,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,9295,A collection of utilities I use across different projects (luckylucy.utils.uvicorns)
+2026-11-10T01:56:34Z,luckylucy.utils.webserver,1.85rc1,luckylucy <luckylucy.utils._.code@luckydonald.de>,GPL-2.0-or-later,14168,A collection of utilities I use across different projects (luckylucy.utils.webserver)
+2026-11-10T01:58:00Z,gitreveal,0.1.0,Arka Khorchidian,MIT,22829,"See what your own git history gives away: emails, employer, time zone, trips, working hours, laptop name."
+2026-11-10T01:58:03Z,modelhog,0.1.0,Arka Khorchidian,MIT,23766,"Find the AI models (Hugging Face, Ollama, LM Studio…) and developer caches eating your disk, and delete them safely."
+2026-11-10T01:58:09Z,whatsonmywifi,0.1.0,Arka Khorchidian,MIT,33792,"Every device on your WiFi, what it is, and what it gives away. No root needed."
+2026-11-10T01:59:19Z,ramtable,0.3.1,Thiago Valentín Stilo Limarino,MIT,35565,A lightweight in-memory table library for Python.
+2026-11-10T01:59:40Z,voxora-ai-runtime,0.1.0,,,20935,Deterministic mock AI agent runtime contract for Voxora Studio
+2026-11-10T01:59:43Z,voxora-orchestrator,0.1.0,,,216725,"Voxora Studio authoritative campaign, call, and CRM orchestration service"
+2026-11-10T01:59:46Z,voxora-voice-runtime,0.1.0,,,352140,"Voxora Studio voice bridge (Rust via PyO3) - scripted, simulation-only"
+2026-11-10T02:03:46Z,starcheck,0.1.0,Arka Khorchidian,MIT,21597,"Are a GitHub repo's stars real? Spot bought stars: empty throwaway accounts, bursts and batches."
+2026-11-10T02:03:50Z,throttlecheck,0.1.0,Arka Khorchidian,MIT,20689,"Is your internet provider slowing down Netflix, video or big downloads? Compare against a neutral control."
+2026-11-10T02:05:16Z,xdfetch,0.0.1,Alex DeJarnatt,MIT,24513,Fetch crossword puzzles from online outlets and convert them to .xd
+2026-11-10T02:06:28Z,unidpp,0.1.0,UniDPP contributors,MIT,191191,"UniDPP Python library: mirrored model, commitment-chained event log, verification-pipeline harness, conformance runners, EPCIS/UNTP adapters"
+2026-11-10T02:09:42Z,cim-builder,0.1.0a1,"""A. Anderson"" <19935503+AAndersn@users.noreply.github.com>",,3730380,Simplified Dictionaries of CIM data
+2026-11-10T02:10:05Z,blair812-mcp-demo,0.1.1,Blair812,,4628,"A demo MCP server built with the official Python SDK (mcp 2.x), exposing an add tool and a greeting resource template."
+2026-11-10T02:11:07Z,nafru-email,0.1.1,Nafru,MIT,69934,"Official Nafru Email Python SDK: send transactional and marketing email from Python with a Resend-compatible email API, contacts, templates, broadcasts and webhook verification."
+2026-11-10T02:11:19Z,miragea-podcast,0.1.0,miragea-podcast contributors,MIT,4927893,"Open-source AI podcast generator: turn any URL, PDF, text or topic into a two-host (or panel) podcast with distinct voices, chapters, SRT/VTT transcript and RSS. CLI + MCP server + Agent Skill, voice…"
+2026-11-10T02:14:36Z,dex-connector-google-docs,0.1.0,,MIT,133369,Dex-native Google Docs connector
+2026-11-10T02:14:40Z,cbm-attach,0.1.1,Junxiang Pan,Apache-2.0,90036,Sidecar attachment attestation for release evidence
+2026-11-10T02:16:32Z,hpcnav-job,0.0.0,"Sydney Informatics Hub, The University of Sydney",,1537,"HPC Navigator's helper that runs inside cluster jobs (placeholder, no code yet)"
+2026-11-10T02:16:33Z,hpcnav,0.0.0,"Sydney Informatics Hub, The University of Sydney",,1529,"HPC Navigator: a researcher-facing view of GPU cluster jobs, agents and data (placeholder, no code yet)"
+2026-11-10T02:16:35Z,hpc-navigator,0.0.0,"Sydney Informatics Hub, The University of Sydney",,1584,"HPC Navigator: a researcher-facing view of GPU cluster jobs, agents and data (placeholder, no code yet)"
