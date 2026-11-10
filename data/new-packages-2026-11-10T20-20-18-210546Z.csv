@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T18:43:15Z,ordloom,1.0.0,neekin,MIT,5649338,序衡 Ordloom：可配置的 React 19 + Ant Design 6 Django Admin 工作台
+2026-11-10T19:22:02Z,proseg-live,3.2.0.3,,,31024213,"proseg 3.2.0 with live mode (per-iteration snapshots, pause, step, its own counts) for the SoPA companion"
+2026-11-10T19:22:37Z,sopa-companion,0.7.0,,BSD-3-Clause,5093522,"SoPA companion: stain segmentation and live proseg for SpatialData, from a notebook or the desktop"
+2026-11-10T19:23:34Z,nnunet-lite,0.1.0,idinsmore1,MIT,67912,Convert nnU-Net models to a standalone safetensors bundle and run nnU-Net-quality inference without nnU-Net
+2026-11-10T19:23:55Z,asset-gatekeeper,0.1.0a1,AssetGatekeeper contributors,MIT,1975460,"Gate game assets against technical budgets: triangles, texture memory, materials, PBR realism, broken references."
+2026-11-10T19:24:51Z,skillguard-lint,0.1.0,Eslam Elzamkan <eslam@example.com>,Apache-2.0,67257,"The Static Security Scanner, Linter, and Quality Gate for AI Agent Skills (SKILL.md)"
+2026-11-10T19:27:39Z,h3-image-mlx,0.1.0a1,,Apache-2.0 AND MIT,73773,Local MiniMax H3 Image generation and editing with MLX on Apple Silicon
+2026-11-10T19:28:09Z,sparklint,0.1.0,Marthinus Bosman <hello@clusterbite.com>,Apache-2.0,12914578,"A fast, Spark-aware linter for PySpark code and Databricks notebooks, written in Rust."
+2026-11-10T19:30:02Z,arris-gym,0.1.0,Sergei Sergienko,MIT OR Apache-2.0,238142,"Run, score and train CAD-code models on a kernel you can trust: exact, deterministic, every failure counted."
+2026-11-10T19:32:15Z,verity-unc,1.1.0,,,3067712,"Agentic multimodal document-compliance auditor (ingestion, extraction, agent loop, policy engine)"
+2026-11-10T19:32:57Z,langchain-azure-compute,0.2.0,Microsoft Corporation,MIT,283920,LangChain and LangGraph integrations for Azure Container Apps and Durable Task Scheduler
+2026-11-10T19:34:58Z,quarterdeck,0.9.1,Martin J. Gallagher,GPL-3.0-or-later,685229,"Run commands across a fleet, keep every answer as a dataset, and read it back: statistics, diffs, a terminal explorer and a browser view"
+2026-11-10T19:40:08Z,vary,0.0.1,Ryan Park,,2579,Parameter studies as compute DAGs (placeholder; first release coming soon).
+2026-11-10T19:45:31Z,rulestamp-denchoho-sakuinbo-lint-jp,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37153,索引簿CSVを検索要件3項目とファイル名規則の13ルールで行ごとに検査 (bundled Node.js runtime)
+2026-11-10T19:45:41Z,rulestamp-declaracion-accesibilidad-lint-es,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34607,Revisa la declaración de accesibilidad de una web pública española: 11 reglas del art. 15 RD 1112/2018 (bundled Node.js runtime)
+2026-11-10T19:46:14Z,rulestamp-denchoho-sakuin-check-2026,1.0.4,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36505,電子取引データの索引簿を12ルールで検査し、取引年月日・取引金額・取引先・ファイル名のうち検索要件を満たさない行と直し方を出します。同梱の12行サンプルでは6行・7件を指摘しました。 (bundled Node.js runtime)
+2026-11-10T19:46:37Z,rulestamp-dienstanweisung-bewachung-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,37237,"Pflichtinhalte nach § 17, 18, 20 BewachV und § 34a Abs. 1a GewO (bundled Node.js runtime)"
+2026-11-10T19:47:38Z,pepkio-hypothesis-canvas,0.1.0,Pepkio Team <support@pepkio.com>,,47080,Python client for Pepkio hypothesis-canvas tool
+2026-11-10T19:54:35Z,ts-evalkit,0.0.1,Ryan San Juan,MIT,32064,Production-style gating and industrial fault injection for time-series model evaluation
+2026-11-10T19:55:58Z,powerstar,0.1.1,Kasra Madadipouya <kasra@madadipouya.com>,GPL-3.0-or-later,89684,A system tray power manager for OpenBSD
+2026-11-10T19:59:40Z,pyforgeui,1.0.0,Drakonosinc,MIT,91269,"A modular, zero-leak, game-ready GUI widget and container library built on top of Pygame."
+2026-11-10T20:00:02Z,forgecommandline,0.8.0,,,2428872,A terminal coding agent with provider failover
+2026-11-10T20:01:57Z,clavi-admin,0.1.0,Clavi,Apache-2.0,10328,Clavi Admin API client
+2026-11-10T20:02:01Z,clavi-oidc,0.1.0,Clavi,Apache-2.0,9898,"Shared Clavi OIDC options, PKCE, and Authlib helpers"
+2026-11-10T20:02:05Z,clavi-fastapi,0.1.0,Clavi,Apache-2.0,7393,Clavi OIDC + Admin wiring for FastAPI
+2026-11-10T20:02:08Z,clavi-django,0.1.0,Clavi,Apache-2.0,8486,Clavi OIDC + Admin wiring for Django
+2026-11-10T20:02:58Z,pyforgeai-engine,1.0.0,Drakonosinc,MIT,68888,"A modular, multi-backend game AI training and inference library featuring Neuroevolution (Genetic Algorithms) and Deep Q-Learning (DQN) for Pygame and Python simulations."
+2026-11-10T20:06:57Z,crystalbrain,0.1.0,,MIT,22278,Python client for the CrystalBrain REST API: read and write the memory of your users.
+2026-11-10T20:08:25Z,numdaplot,0.1.0,Ryieru,BSD-3-Clause,1297579,"A simpler, explicit API over numpy, pandas and matplotlib."
+2026-11-10T20:12:38Z,xcontracts,0.0.1,,Apache-2.0,1666,Port contracts for Xorchestrate (name reserved; first release coming soon).
+2026-11-10T20:15:03Z,humetrix,0.3.0,Marcio Lima Inácio <mlinacio@dei.uc.pt>,MIT,16089313,Automatic metrics for evaluation of humorous content
