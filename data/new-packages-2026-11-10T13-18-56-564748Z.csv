@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T12:21:33Z,nbxgrammar,0.1.0,The NeuroBrix project <contact@neurobrix.org>,Apache-2.0,1007414,NeuroBrix's grammar engine for constrained decoding: JSON Schema and tool-call envelopes to per-step token masks
+2026-11-10T12:22:23Z,damlisk,0.0.2,DIGIAPP LLC,Apache-2.0,286860,Damlisk: static analyzer for Daml-LF packages (.dar)
+2026-11-10T12:22:23Z,matele,0.1.0,cvsqwe,MIT,289467,"One bot, two messengers: an async framework for MAX and Telegram bots"
+2026-11-10T12:23:23Z,pulumi-labs-namespace,0.2.0,,Apache-2.0,171108,"Experimental: manage Namespace Cloud (namespace.so) resources: ephemeral compute instances, vault secrets, IAM tenants and tokens, GitHub runner profiles, egress policy and registry policy, as infras…"
+2026-11-10T12:23:47Z,pulumi-labs-clerk,0.1.0,,Apache-2.0,139715,"Experimental: manage Clerk (clerk.com) authentication infrastructure as code: allowlists, blocklists, JWT templates, organizations and their roles and permissions, OAuth applications, SAML connection…"
+2026-11-10T12:25:55Z,pycadmcp,0.1.0,shiyang19822000 <shiyang19822000@gmail.com>,MIT,894986,"CAD MCP server: one process, dedicated STA executor, offline-testable (SolidWorks backend first)"
+2026-11-10T12:27:59Z,pulumi-labs-vonage,0.1.0,,Apache-2.0,88664,"Experimental: manage Vonage (formerly Nexmo) applications, numbers, subaccounts, API secrets and Verify v2 templates as infrastructure with Pulumi."
+2026-11-10T12:29:50Z,auxdisp-driver,0.1.0,,GPL-3.0-or-later,134361,"Standalone Python drivers for Turing, XuanFang, WeAct and compatible smart displays"
+2026-11-10T12:31:22Z,spoonbot,0.1.12,YomogiBeta,"MIT License Copyright (c) 2026 YomogiBeta Permission is hereby granted, free of charge, to any pers…",88520,"An unofficial wrapper library that makes it easier to use the official API of the live streaming service ""Spoon"""
+2026-11-10T12:32:16Z,unofficial-api-for-redgifs,1.0.0,Johannes Habel,AGPL-3.0-only,65793,An asynchronous Python API wrapper for RedGIFs
+2026-11-10T12:32:24Z,damaros,0.1.0,Damaros,Apache-2.0,287136,"Python client for Damaros Worlds: the Trauma Chain Evaluation server (TraumaClient: evaluate, paired, verify, calibrate) and the ICU world's seats and Resident hosts over the local servers the damaro…"
+2026-11-10T12:32:28Z,trimloop,0.0.1,Chris Adkin,Apache-2.0,3161,Placeholder: this name is held for Trimloop (https://github.com/ChrisAdkin8/trimloop).
+2026-11-10T12:32:29Z,trimloop-litellm,0.0.1,Chris Adkin,Apache-2.0,3377,Placeholder: this name is held for Trimloop (https://github.com/ChrisAdkin8/trimloop).
+2026-11-10T12:33:08Z,suanlinfang-sdk,0.1.0,SuanLinFang,,25272,算邻坊开放 API Python 客户端（语音识别 / 语音合成 / 文字识别 / 智能决策）
+2026-11-10T12:33:09Z,suanlinfang-mcp,0.1.0,SuanLinFang,,16621,算邻坊开放能力的 MCP Server（语音识别/语音合成/文字识别/智能决策，stdio / Streamable HTTP 双入口）
+2026-11-10T12:33:30Z,toolnet-capcut-tts,1.0.1,ToolNetWorks,MIT,133120,"ToolNet CapCut TTS - Python SDK and CLI for CapCut text-to-speech, speech-to-text, translation and SRT workflows"
+2026-11-10T12:33:52Z,langchain-scrapeunblocker,0.1.0,ScrapeUnblocker <info@scrapeunblocker.com>,MIT,31545,"LangChain tools for ScrapeUnblocker: read any web page as Markdown or JSON, search Google, run 100+ site scrapers"
+2026-11-10T12:35:35Z,solvewright,0.1.1,Riad Darwish,MIT,158951,Connect your own Claude Code or Codex to Solvewright Interview Lab for mock technical interviews.
+2026-11-10T12:36:54Z,sceutils,0.1.0,,,77847,Utilities for PlayStation Vita SCE files
+2026-11-10T12:37:41Z,humanin-finder,1.0.0b4,"Fabiano Bezerra Menegidio, LaBiOmicS",MIT,227275,Homology-based location and annotation of Humanin and SHLP1-6 mitochondrial-derived peptides in mitogenomes and nuclear genomes
+2026-11-10T12:38:10Z,eitaagram-py,0.1.0,,,225321,
+2026-11-10T12:38:14Z,hiyal,0.0.1,Okan Yenigün,MIT,1334023,Hiyal is an agentic tool. Currently it provides the LLM call component.
+2026-11-10T12:40:31Z,channels-jwt-subprotocol,1.0.0,TheLoops <support@theloops.live>,MIT,22929,"Authenticate Django Channels WebSockets with a JWT sent as a subprotocol, so the token never lands in the URL or in access logs."
+2026-11-10T12:41:57Z,huntkit,0.3.0,Raresney,MIT,270206,"Local-first bug bounty recon, methodology & workflow framework for authorised testing."
+2026-11-10T12:42:21Z,aiogram-coordination,0.1.0,aiogram-coordination contributors,MIT,278614,"Task-scoped ownership, renewable coordination and session authority contracts for aiogram"
+2026-11-10T12:42:43Z,zipnolo,0.2.1,festomanolo <festomanolo@users.noreply.github.com>,MIT,1132143,"High-ratio lossless block-parallel file and folder archiver for Linux, macOS, and Windows — Created by festomanolo (https://festomanolo.com)"
+2026-11-10T12:43:05Z,copierz,0.1.0,m09,Apache-2.0,70170,CLI to track and apply Copier updates across a fleet of git repositories.
+2026-11-10T12:43:45Z,winpca,1.3,Moritz Blumer <lmb215@cam.ac.uk>,"MIT License Copyright (c) 2025 Luka Moritz Blumer Permission is hereby granted, free of charge, to…",8360444,WinPCA - A package for windowed principal component analysis
+2026-11-10T12:45:38Z,gomma-lab,0.1.2,,MIT,12557,Data Analytics Laboratory Practice Toolkit
+2026-11-10T12:48:49Z,fast-dlp,0.6.1,valkdz,MIT,324717,"Fast YouTube downloader: up to 4K at full line speed, built-in merging without ffmpeg, plus Spotify, Yandex Music, SoundCloud, TikTok and more"
+2026-11-10T12:49:10Z,twi-scraper,0.1.0,Johann <johann@jtan.me>,MIT,64188,"Download The Wandering Inn web serial as clean, screen-reader-friendly Markdown or EPUB."
+2026-11-10T12:50:43Z,smsgora,1.0.0,Tekservix <support@tekservix.com>,MIT,14858,"Official Python client for the SMS Gora SMS Gateway: send and receive SMS through your own Android phones, with delivery reports and signed webhooks."
+2026-11-10T12:50:44Z,waservix,1.0.0,Tekservix <support@tekservix.com>,MIT,14142,"Official Python client for the WAservix WhatsApp API Gateway: send WhatsApp messages, images and documents from your own number, with status tracking and webhooks."
+2026-11-10T12:50:58Z,robotprobe,0.2.0a0,Aditya Gupta,Apache-2.0,544135,Incident-forensics and causal-diff tooling for robot and VLA stacks.
+2026-11-10T12:53:01Z,fluometrik,1.0.1,Julie Mabon,BSD-3-Clause,61865,Physically-motivated photometric augmentation for fluorescence and biological images
+2026-11-10T12:53:13Z,sp-app-tools,0.0.1,,MIT,1044,Small helper utilities.
+2026-11-10T12:54:06Z,rpi-webio,0.1.0,Oliver Kleinke <oliver.kleinke@ok-ss.de>,AGPL-3.0-only,73334,A web control panel for Raspberry Pi GPIO
+2026-11-10T12:55:02Z,unofficial-api-for-bellesa,1.0.0,Johannes Habel,AGPL-3.0-only,63759,An asynchronous Python API wrapper for bellesa.co
+2026-11-10T12:57:21Z,bundle-code,0.1.0,,,7492,Copy a folder with an ignore file and write commit metadata
+2026-11-10T12:58:54Z,tapetum,0.2.1,Nadercr7,MIT,62794,"Give your agent eyes. Paste a video link, get one timeline of what was said and what was on screen. No cookies, no API keys."
+2026-11-10T12:59:15Z,sp-git,0.0.1,,MIT,1021,Small helper utilities.
+2026-11-10T12:59:24Z,thegenesis-api-client,0.1.0,Genesis,MIT,35558,Genesis publisher API client for Python.
+2026-11-10T13:02:41Z,reprolog,0.1.0,Shivam Pandey,MIT,125371,"Capture failing FastAPI/ASGI requests with their logs, spans and outbound calls, see them in a dashboard, and replay them locally to reproduce the bug."
+2026-11-10T13:05:18Z,sp-services-client,0.0.1,,MIT,1061,Small helper utilities.
+2026-11-10T13:08:04Z,imdb-unofficial-api,0.2.1,IMDb-Unofficial-API,,65605,Unofficial Python API client for IMDb via its internal GraphQL API
+2026-11-10T13:08:08Z,teleleo,0.1.0,Teleleo <support@teleleo.com>,MIT,107617,"The official Python library for the Teleleo API: SMS, calls, USSD and modem control"
+2026-11-10T13:11:15Z,wsm,0.1.0,,,96333,WSM (Weight Space Mods): Python model weight editing
+2026-11-10T13:11:52Z,uploadshield,2.0.0,IV1T3,Apache-2.0,249647,"Content-aware validation and sanitization of file uploads for Django, Flask and FastAPI."
+2026-11-10T13:12:51Z,ea-singleflight,0.1.0,Emil,MIT,8005,An asynchronous request coalescing utility for Python.
