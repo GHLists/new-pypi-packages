@@ -1,0 +1,53 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T07:38:31Z,just-enough-assets,1.0.1,ShortBoiAidz,,290762,"Revamped asset creation, using components similar to that of Tkinter."
+2026-11-10T08:23:18Z,cli2ui,1.14.1,Hitoshi Tabata,MIT,740024,A local web UI over DB CLI commands (PostgreSQL & MySQL)
+2026-11-10T08:23:21Z,goodparse,0.1.0,Franz Thiemann,MIT,171061,"Convert GoodNotes notebooks to editable Xournal++ or Excalidraw documents, or PDF: ink, shapes, text, images and paper."
+2026-11-10T08:23:45Z,cleanyourphone,0.2.2,Jose Paredes <jparedescolmenarejo@gmail.com>,MIT,588393,"Safe, reversible Android debloat over ADB. Disable, never uninstall."
+2026-11-10T08:27:09Z,aiogram-nav,0.1.0,aiogram-nav contributors,MIT,430904,Standalone navigation and recoverable screen rendering for aiogram 3
+2026-11-10T08:27:43Z,lamby,0.0.2,,,3381,coming soon
+2026-11-10T08:28:19Z,seren-kitchen,0.5.0,"Chad Roesler, Wren Marginalia",AGPL-3.0-or-later,122972,"The kitchen: a fridge per Seren app, magnets for whoever holds it, and the notes we leave each other."
+2026-11-10T08:29:10Z,agentcredia-x402,0.0.1a1,AgentCredia <support@agentcredia.com>,Apache-2.0,51861,Official Python port of the @agentcredia/x402 wire primitives + client + server adapters
+2026-11-10T08:29:11Z,agentcredia,0.0.1a1,AgentCredia <support@agentcredia.com>,Apache-2.0,51707,Official Python SDK for the AgentCredia non-custodial AI-agent wallet platform
+2026-11-10T08:29:30Z,aiogram-idle,0.1.0,aiogram-idle contributors,MIT,519554,Standalone inactivity policies and recoverable conversation prompts for aiogram 3
+2026-11-10T08:31:02Z,soham-py,0.1.0,Soham Pandit,MIT,32904,College practical programs stored as plain text — retrieve them with a simple Python import.
+2026-11-10T08:32:41Z,assethandler-sdk,2026.1110.1,"""Vignesh T.V"" <vignesh@algoshred.com>","Copyright (c) 2025 Burdenoff Consultancy Services Private Limited, Algoshred Technologies Private L…",27827,Official Python SDK for Assethandler — thin shell over burdenoff-sdk-libs
+2026-11-10T08:33:10Z,tsugite-forge,0.27.0,Justyn Shull,,60077,Tsugite plugin: read pull requests from Forgejo and GitHub
+2026-11-10T08:33:24Z,vecten-mcp,0.1.0,Vecten,Apache-2.0 AND OFL-1.1,642786,The MCP server of Vecten Open
+2026-11-10T08:33:27Z,vecten-platform,0.1.0,Vecten,Apache-2.0,100143,"Airflow, dlt and dbt runtime for Vecten Open"
+2026-11-10T08:33:29Z,vecten-shared,0.1.0,Vecten,Apache-2.0,201122,"Runtime contracts shared by the vecten CLI, platform and MCP packages"
+2026-11-10T08:33:32Z,vecten,0.1.0,Vecten,Apache-2.0,1029932,Vecten Open: one CLI over a data platform bootstrap and a data MCP
+2026-11-10T08:33:40Z,mobilebox,0.1.0,"""fifteenA, Inc."" <hello@mobilebox.dev>",MIT,18755,Python client for Mobilebox: cloud Android phones your AI agent drives over REST.
+2026-11-10T08:34:28Z,mcp-stdio-mux,0.1.1,Ahmad Muhyidin,MIT,79893,"One shared process per MCP server across every AI agent session, app and profile on your machine."
+2026-11-10T08:35:00Z,langchain-mobilebox,0.1.0,"""fifteenA, Inc."" <hello@mobilebox.dev>",MIT,15764,"LangChain tools for Mobilebox: cloud Android phones your agent creates, reads, taps and types on."
+2026-11-10T08:37:06Z,tickdeep-pro,0.1.0,TickDeep,LicenseRef-Proprietary,1551526,TickDeep Pro analytics for the TickDeep Python SDK
+2026-11-10T08:37:53Z,vecspan,0.1.0,,,65545,"One Python API for Milvus, Qdrant, and other vector databases."
+2026-11-10T08:43:18Z,ream-artifacts,0.1.0,Jeremy Brown,,1659498,A self-hosted artifacts publisher: agents publish HTML pages over a keyed API; Jeremy views them in an Authelia-gated gallery.
+2026-11-10T08:43:41Z,hari-ai,0.2.0a5,K R Hari Prajwal,HariAI Noncommercial License Copyright (c) 2026 K R Hari Prajwal. All rights reserved. Subject to t…,86981194,HariAI: standalone local conversation and experimental typed decision models
+2026-11-10T08:43:47Z,tsugite-mcp,0.27.0,Justyn Shull,,26722,Tsugite plugin: remote MCP servers over Streamable HTTP with OAuth sign-in
+2026-11-10T08:44:51Z,amemo,0.1.0a1,empty-complete,MIT,1209931,"Verifiable shared memory for AI agents and people: atoms with checked source quotes, revisions and review on PostgreSQL + pgvector"
+2026-11-10T08:44:53Z,amemo-web,0.1.0a1,empty-complete,MIT,5091850,Web UI of amemo as static files; the amemo service serves them at /ui
+2026-11-10T08:46:19Z,agent-container-sandbox,0.1.1,Konovor,MIT,43968,"Docker container sandbox for LangChain Deep Agents, with the container lifecycle kept separate from the sandbox."
+2026-11-10T08:46:49Z,ogcio-wagtail-charts,0.1.0,Office of the Government Chief Information Officer (OGCIO),MIT,491217,"Chart.js-powered chart StreamField block for Wagtail, with a spreadsheet editor for chart data."
+2026-11-10T08:47:44Z,fontquant,0.1.4,"Yanone <post@yanone.de>, Simon Cozens <simon@simon-cozens.org>",,227594546,Prove and quantify a font's technical quality
+2026-11-10T08:48:10Z,sandling,0.1.1,Camilla Buys <camilla.buys@gmail.com>,MIT,27094,"Safe, disposable Git workspaces with fewer abandoned clones."
+2026-11-10T08:48:13Z,lucky-tls,0.33.0,,LicenseRef-lucky-tls-Noncommercial,14928748,TLS and HTTPS requests for Python; noncommercial binary use only
+2026-11-10T08:53:13Z,maina,0.1.0,Vishal Mishra,MIT,201975,Use non-Python CLIs from Python with native-like APIs
+2026-11-10T08:55:12Z,zppy,0.1.0,,CC0-1.0,54031,Zig progress protocol client for Python
+2026-11-10T08:55:47Z,fuzzy-search-rs,0.1.0,,,2429016,Rust backend for the skipgram scan and candidate building of fuzzy-search
+2026-11-10T08:55:51Z,lockfloor,0.1.0,Zaid Ali Syed <sidzaid72@gmail.com>,MIT,40133,Raise pyproject.toml lower bounds to the versions uv's resolver locks together
+2026-11-10T08:55:56Z,bhashantar,0.1.1,Zaid Ali Syed <sidzaid72@gmail.com>,MIT,94758,"IndicTrans2 English-to-Indic translation on CPU via CTranslate2 int8, no transformers or fairseq at runtime"
+2026-11-10T08:56:07Z,vaaksetu,0.1.0,,MIT,48890,"Offline OpenAI-compatible speech-to-text server for Indian languages (IndicConformer, ONNX, CPU)"
+2026-11-10T08:59:06Z,tiebreak-rerank,0.1.0,,MIT,136444,A small CPU-first rerank server to run beside Ollama. Speaks the Cohere and Jina /v1/rerank shapes.
+2026-11-10T09:00:29Z,phonectl-mcp,0.1.0,jiefeng-ai,MIT,150627,"MCP server that lets AI agents see and drive a real iPhone over USB: screenshots, on-screen text, taps, swipes, typing, apps."
+2026-11-10T09:02:18Z,mcp-google-health,0.0.2,,MIT,255588,Google Health API tools for MCP clients
+2026-11-10T09:02:37Z,py-houdini,0.1.0,Aurore Delaunay <github.15@audel.ovh>,MIT,180804,A package for reading and editing SideFX Houdini scene files (.hip) without Houdini.
+2026-11-10T09:02:44Z,py-maya-scene,0.1.0,Aurore Delaunay <github.15@audel.ovh>,MIT,244101,"A package for working with Autodesk Maya scene files (.mb, .ma)."
+2026-11-10T09:04:29Z,async-claim-audit,0.1.0,,MIT,19115,Audit documented awaitability promises against static Python evidence.
+2026-11-10T09:04:37Z,locking-claim-audit,0.1.0,,MIT,27900,Offline audit of documented cross-process exclusion promises against Python source.
+2026-11-10T09:04:45Z,shutdown-claim-audit,0.1.0,,MIT,19902,Offline audit of documented interruption promises against Python source.
+2026-11-10T09:04:53Z,silent-claim-audit,0.1.0,,MIT,18157,Offline auditing of documented terminal-output claims against Python source.
+2026-11-10T09:05:23Z,idtrackerai-CYSM,6.0.15a0.post1,Martina Bellio,,12927396,"A fork of idtracker.ai that accepts animal outlines from an external instance-segmentation model -- a fine-tuned Detectron2 Mask R-CNN, or SAM 3 prompted with a word -- in place of intensity threshol…"
+2026-11-10T09:08:26Z,leashbyte-sdk,0.1.1,MangyByte Ltd,Apache-2.0,23861,Python client for the LeashByte API
+2026-11-10T09:08:33Z,leashbyte,0.1.1,MangyByte Ltd,Apache-2.0,273699,Self-hosted search and page fetch APIs
+2026-11-10T09:09:54Z,xiaozhi-talk,1.0.0,xiaozhi-talk contributors,MIT,134789,"Desktop chat client for Xiaozhi servers, built with PySide6 and xiaozhi-sdk"
+2026-11-10T09:11:52Z,paperflick,1.1.0,,,601431,PaperFlick (纸闪) — personal Windows batch printing tool
