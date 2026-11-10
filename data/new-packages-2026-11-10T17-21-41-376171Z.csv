@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T16:20:13Z,syrtis-python-dataflow,1.0.1,weeger <contact@syrtis.ai>,MIT,4647,
+2026-11-10T16:20:33Z,nantrace,0.1.0,Aditya Raj,MIT,77383,"Find the op where NaN or Inf first appears in PyTorch training, explain why, and suggest a fix"
+2026-11-10T16:21:32Z,ioc-concord,0.1.0,,Apache-2.0,46445,CONCORD protocol library.
+2026-11-10T16:23:20Z,syrtis-python-extension,1.0.1,weeger <contact@syrtis.ai>,MIT,4664,
+2026-11-10T16:24:03Z,photonscore-d7,27.1.11,Photonscore GmbH,Apache-2.0,3187732,"Read and write D7 .photons files, Photonscore's format for time-resolved single-photon data"
+2026-11-10T16:25:46Z,unoflow,0.0.1,,LicenseRef-Proprietary,2328,Reserved name for the UnoFlow platform. No functionality yet.
+2026-11-10T16:28:04Z,AITW_infiltration_surrogate,1.0.0,"Marcin Mińkowski <marcin.minkowski@aalto.fi>, Davide Grassano <davide.grassano@epfl.ch>",,69966,Surrogate model for predicting water infiltration in wood-based materials.
+2026-11-10T16:28:39Z,cslbib,0.0.0,,,61375,"Bibliographies kept as CSL-JSON, with entries from the registries"
+2026-11-10T16:33:21Z,aizee,6.8.2,Moataz Ahmed,MIT,21542291,aiZee — sovereign AI engineering control plane
+2026-11-10T16:33:57Z,simplenote-cli,0.1.1,,MIT,9233354,A scriptable Simplenote CLI for humans and agents
+2026-11-10T16:35:00Z,jh-scrape-listings,0.1.0,Zachary Hampton,MIT,384048,Realtor.com listings and Zillow listing engagement metrics
+2026-11-10T16:36:27Z,boxlink-bridge,1.4.0,Bradley 'MadBrad' Smith (Developum AI Engine),Proprietary Commercial Software — All Rights Reserved,252686,"BoxLink & DUMEdb — Zero-Loss Associative Memory, Visual Inspector GUI & Pocket Mission Control for AI Coding Boxes"
+2026-11-10T16:36:48Z,telegram-dev,0.5.0,,MIT,214032,Source-grounded Telegram development skills and documentation MCP
+2026-11-10T16:37:35Z,orbitctl,0.1.0,Marco Insabato,MIT,363678,"Run your own web server like a hosting panel, with every change in git: Laravel, PHP, static and Next.js sites on one Ubuntu box."
+2026-11-10T16:38:25Z,checkii-verify,0.1.0,Checkii,Apache-2.0,42231,"Offline verifier for Checkii signed evidence: report bundles, sealed exports, release receipts and their transparency-log entries"
+2026-11-10T16:41:24Z,telematics-quality-kit,0.1.0,,"Apache License Version 2.0, January 2004 https://www.apache.org/licenses/ TERMS AND CONDITIONS FOR…",161283,A deterministic testbed for telematics data quality
+2026-11-10T16:42:43Z,mceval,1.0.0,Max Zimmermann <zimmermannmax16@gmail.com>,EUPL-1.2,16029,Evaluate Multiple Choice Tests
+2026-11-10T16:45:27Z,tuppence,0.1.0,,MIT,319184,The Tuppence API for Python — payments for developers and AI agents.
+2026-11-10T16:45:54Z,pyagentprolog-fona,0.1.0,Andrey Vorfolomeev <binom0x@proton.me>,MIT,157750,Decorator-based framework for background AI agents on PyAgentProlog
+2026-11-10T16:47:30Z,pulze-scenemanager,3.0.0,Pulze <support@pulze.io>,MIT,58822,Official Scene Manager API client for Python
+2026-11-10T16:49:12Z,nosis-agent,0.1.1,,,7937163,"An open-source, lightweight personal agent runtime with a complete toolset and plugin system, shared by its GUI and TUI."
+2026-11-10T16:49:15Z,daodejing-runze,1.0.2,"""润泽博士 (Runze)"" <q1z2q3@gmail.com>",CC-BY-NC-SA-4.0,1604391,道可道 · 润泽解读道德经：八十一章结构化数据（润泽博士 #润泽博士）
+2026-11-10T16:51:21Z,asm-mcp,1.0.0,F6 JSC <asm@f6.ru>,Apache-2.0,124288,MCP server for the F6 ASM (Attack Surface Management) client API
+2026-11-10T16:54:23Z,forge-obsidian,0.1.1,Edgar Socrates Caria,MIT,28079,"Neutral, safe Obsidian interoperability primitives for Forge adapters"
+2026-11-10T16:56:31Z,compass-code,0.1.0,,Apache-2.0,1527463,Local-first code knowledge graph for AI coding agents: the compass command and its MCP server.
+2026-11-10T16:56:58Z,functional_time_series,0.0.1,Amber Leeson,MIT,25171,DTC-IS module that fits a Functional Time Series to an input field of a Gaussian Random Field.
+2026-11-10T16:58:21Z,humath,1.0.0,Slas Rose <silasmrose@gmail.com>,,37391,"A zero-dependency, ultra-precise custom mathematics engine toolkit."
+2026-11-10T17:00:26Z,farm-sdk,2026.11.8,,,100996,Python client for Farm device automation
+2026-11-10T17:01:05Z,bcb-mcp,0.1.1,Marcelo Perlin <marceloperlin@gmail.com>,MIT,96118,"MCP server for Brazilian Central Bank (BCB-SGS) time series, with a curated series dictionary and a parquet/DuckDB cache"
+2026-11-10T17:02:59Z,uvcron,0.0.0,Diogo Braganca <diogo@sonant.ai>,,1988,Coming soon
+2026-11-10T17:05:41Z,dblock,0.1.0,Dev Patel,MIT,47821,"Lockfiles for bioinformatics reference databases: pin, fetch, verify and cite exact releases."
+2026-11-10T17:06:10Z,arcade-snaprender,0.1.0,SnapRender <support@snap-render.com>,MIT,25208,"Arcade.dev tools for SnapRender: screenshots, PDFs and page-to-markdown for AI agents"
+2026-11-10T17:09:16Z,xmcam-py,0.1.0,theundefined <undefine@aramin.net>,MIT,74471,"Local-first Python library and CLI for Xiongmai (XM) / iCSee / XMeye IP cameras: discovery, ONVIF, and recording-archive listing/download over DVRIP. No cloud, no internet."
+2026-11-10T17:09:25Z,adamo-mcp,0.1.1,,,22385,"Adamo's MCP server: every hosted Adamo tool, plus looking at recordings' frames and signals and training policies on this computer"
+2026-11-10T17:10:09Z,paralingo,1.0.0,Namash Aggarwal,Apache-2.0,126997,"Shared per-speaker speech profile files that AI voice agents read and write: prosody, pauses, voice quality, fluency, emotion, skills, accent and guidance."
+2026-11-10T17:11:13Z,tokforge,0.1.0,,MIT OR Apache-2.0,9777625,"Fast BPE tokenizer with a from-scratch byte-level core, verified against reference implementations"
+2026-11-10T17:11:48Z,xmcam-fs,0.1.0,theundefined <undefine@aramin.net>,MIT,28863,"Mount a Xiongmai / iCSee / XMeye IP camera as a FUSE filesystem and browse its recordings as files (MP4 or raw), sshfs-style. No cloud."
+2026-11-10T17:12:36Z,ddtop,0.1.0,,MIT,93239,"dtop (Desultory Top) - find processes with very infrequent network activity, with a self-adjusting sliding window"
+2026-11-10T17:13:00Z,crashtriage,0.1.0,,,6740,Deterministic Crash Deduplication & Automated Security Patching Engine
+2026-11-10T17:16:11Z,filevet,0.0.1,Pablo Durán,Apache-2.0,12212,"Self-hosted scanner that inspects financial files for security risks before they are opened or ingested. Name reserved, under active development."
+2026-11-10T17:17:48Z,ucli-tools,1.1.0,oliver.mengxy@gmail.com,MIT,393358,Turn MCP servers and local scripts into CLI commands and agent skills
+2026-11-10T17:19:09Z,equate-rust,0.1.0,thorwhalen,MIT,1159158,"Native (Rust) kernels for equate.compare.sequence, selected with backend='rust'"
