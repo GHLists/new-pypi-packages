@@ -1,0 +1,33 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T04:20:24Z,molass-benchmarks,0.1.0,Molass Community,GNU General Public License v3.0,71492452,Benchmark Data of Known Composition for Molass Library
+2026-11-10T04:22:02Z,phytograph,0.98.0,,MIT,37632,Headless Python scripting API for Phytograph (LiDAR point clouds and plant architecture).
+2026-11-10T04:24:28Z,sentryrelay-sdk,0.1.0,Sentry Relay Team <engineering@sentryrelay.com>,MIT,598864,"Official Python SDK for Sentry Relay — The 2FA, OTP & Magic-Link Inbox API for Autonomous Software"
+2026-11-10T04:24:32Z,optionspace-ai,1.0.0,Options Universe Inc,LicenseRef-Proprietary,3589,Not the OptionSpace package. The real package is called optionspace: pip install optionspace
+2026-11-10T04:25:44Z,guardscan-cli,1.1.1rc5,,MIT,209983473,Privacy-first code review and security scanning CLI
+2026-11-10T04:27:19Z,feffdb,0.1,Matthew Newville <matt.newville@gmail.com>,MIT,2414644,"Sqlite Database for Feff.dat files, especially for 1st shell EXAFS"
+2026-11-10T04:27:33Z,python-re3data-v2,0.1.0,data-sync maintainers,MIT,44866,"The Pythonic client for the re3data API (v40, schema 4.0)."
+2026-11-10T04:30:42Z,kadaikodi-sdk,2026.1110.1,"""Vignesh T.V"" <vignesh@algoshred.com>",Copyright (c) 2025 Headshot Marketing Pvt. Ltd. (Burdenoff Group). All rights reserved. This softwa…,23864,Official Python SDK for Kadaikodi — thin shell over burdenoff-sdk-libs
+2026-11-10T04:33:28Z,manufacturedops-sdk,2026.1110.1,"""Vignesh T.V"" <vignesh@algoshred.com>","Copyright (c) 2025 Timecampus Technologies Pvt. Ltd., Burdenoff Consultancy Services Private Limite…",24583,Official Python SDK for ManufacturedOps — thin shell over burdenoff-sdk-libs
+2026-11-10T04:37:46Z,fontpkg-lexend-giga,1.7,,OFL-1.1,108614,"Lexend Giga font family, packaged for Python by fontpkg"
+2026-11-10T04:37:48Z,fontpkg-yantramanav,1.1,,OFL-1.1,451485,"Yantramanav font family, packaged for Python by fontpkg"
+2026-11-10T04:37:50Z,fontpkg-martel,1.1,,OFL-1.1,628362,"Martel font family, packaged for Python by fontpkg"
+2026-11-10T04:37:53Z,fontpkg-commissioner,1.1,,OFL-1.1,357536,"Commissioner font family, packaged for Python by fontpkg"
+2026-11-10T04:37:56Z,filemaker-patchwork,0.1.0,Abdeltoto,MIT,122418,"Let your AI agent edit FileMaker: fields, scripts, value lists, layouts and themes, checked and reversible. MCP server for Claude Code, Cursor, Codex and Antigravity."
+2026-11-10T04:37:56Z,sql2iceberg,0.1.1,Jeyaraman Ramalingam,MIT,184550,"Convert SQL from Snowflake and other databases to PySpark, persist it as Apache Iceberg tables, expose them to Snowflake, AWS and GCP, and validate the result."
+2026-11-10T04:42:25Z,agent-timelines,0.2.0,jasondasuki,MIT,263541,Live delegation graph of Claude Code sessions and their subagents
+2026-11-10T04:43:23Z,free-llm-sdk,0.1.0,Jaeyeong Kim,MIT,243281,Chat with free LLMs (OpenRouter and OpenAI-compatible free tiers) with automatic model failover and 429 avoidance
+2026-11-10T04:43:58Z,awcs-scripts,1.0.2,AWCS,Apache-2.0,82412,Command line scripts for WCS maps and the ARMS API
+2026-11-10T04:45:36Z,haltsql,0.0.1,,MIT,21423037,"Python client for HaltSQL, a policy firewall for LLM-generated PostgreSQL"
+2026-11-10T04:46:02Z,agentsec-agentkeys,0.1.0,agentic-suite,Apache-2.0,395263,"Never-in-context credential broker for AI agents: references in context, secrets only at egress."
+2026-11-10T04:48:53Z,mailreader,2.7.1,nigarash <nigarash@gmail.com>,MIT,44722,Sanitized HTML mail parsing built on the confext HTML parser
+2026-11-10T04:52:03Z,git2report,0.1.0,Vijay <vijaykd04@users.noreply.github.com>,MIT,105550,"Turn Git history into a plain-language, evidence-linked progress report with visual charts and Terminal Web Studio."
+2026-11-10T04:54:36Z,course-index,0.1.0,Alexandre D'Hondt <alexandre.dhondt@gmail.com>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",2040149,GUI and TUI for editing the index of the LaTeX course index template and compiling it to PDF
+2026-11-10T04:55:10Z,netbox-lantronix,0.5.1,,Apache-2.0,153601,NetBox plugin that keeps NetBox current with Lantronix SLC and EMG devices managed by Percepxion
+2026-11-10T04:56:37Z,nautobot-app-ssot-lantronix,0.3.1,,Apache-2.0,153202,"Nautobot SSoT integration that syncs Lantronix console servers, console ports and attached devices from Percepxion."
+2026-11-10T05:01:26Z,py-screen,20261110.1,Cong Zhang <13283869+congzhangzh@users.noreply.github.com>,MIT,3074308,"py-screen: a terminal workspace (multiplexer) of my own, with the pys command"
+2026-11-10T05:01:28Z,edith-pc,0.6.6,Shuvo,MIT,13516086,"EDITH on this PC: a body of your EDITH server, linked with a Google Authenticator code"
+2026-11-10T05:08:59Z,pycba-tools,0.1.0,Connor Ferster <connor@structuralpython.com>,,55848,"pycba-tools: Serialization and bulk results extraction for pycba continuous beam models, interchangeable with pynite-tools."
+2026-11-10T05:11:01Z,deck-shader,0.1.0,anzy-renlab-ai,MIT,32073,"Decks whose light is computed, not painted — WebGL shader backgrounds exported to editable .pptx"
+2026-11-10T05:12:20Z,drivine-cypher-compiler,0.0.0,Liberation Data,Apache-2.0,2111,Placeholder for Drivine's shared Cypher compiler (native wheels). Real releases come from liberation-data/drivine-cypher-spec.
+2026-11-10T05:18:31Z,bricksentry,0.1.0,Brahma,Apache-2.0,82442,"Change-safety for Databricks pipelines and the AI agents that edit them: data diffs, Unity Catalog blast radius, policy verdicts and rollback plans."
+2026-11-10T05:19:51Z,haltsql-mcp,0.0.1,,MIT,39370,MCP server that runs LLM-written SQL on PostgreSQL only after HaltSQL allows it
