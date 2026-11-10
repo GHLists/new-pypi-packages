@@ -1,69 +1,55 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-11-09T22:18:22.706022Z",
-    "path": "data/new-packages-2026-11-09T23-18-24-960147Z.csv",
-    "to": "2026-11-09T23:18:24.960147Z"
+    "count": 35,
+    "from": "2026-11-09T23:18:24.960147Z",
+    "path": "data/new-packages-2026-11-10T00-20-23-462483Z.csv",
+    "to": "2026-11-10T00:20:23.462483Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-09T21:18:24Z",
       "package": "Slide2Scripting",
       "since": "2026-11-09T20:18:19.770068Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-09T20:41:13Z",
       "package": "asteria-wfi",
       "since": "2026-11-09T20:18:19.770068Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-09T21:22:42Z",
       "package": "astro-runtime",
       "since": "2026-11-09T21:18:29.624128Z",
       "version": null
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-09T23:11:17Z",
-      "package": "cim-tables",
-      "since": "2026-11-09T22:18:22.706022Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-09T23:01:36Z",
-      "package": "dockflow-sdk",
-      "since": "2026-11-09T22:18:22.706022Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-09T23:07:48Z",
-      "package": "osm-to-opendrive",
-      "since": "2026-11-09T22:18:22.706022Z",
-      "version": "0.1.1"
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-09T20:43:14Z",
       "package": "ovsensors",
       "since": "2026-11-09T20:18:19.770068Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-09T21:41:00Z",
       "package": "quentangled",
       "since": "2026-11-09T21:18:29.624128Z",
       "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-10T00:12:13Z",
+      "package": "textinsight01103",
+      "since": "2026-11-09T23:18:24.960147Z",
+      "version": null
     }
   ],
-  "serial": 43429841,
+  "serial": 43431671,
   "source_truncated": false,
-  "window": "2026-11-09T23:18:24.960147Z"
+  "window": "2026-11-10T00:20:23.462483Z"
 }

@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-09T23:01:36Z,dockflow-sdk,0.3.1,OpenAPI Generator community,,139258,Dockflow v3 API
+2026-11-09T23:07:48Z,osm-to-opendrive,0.1.1,,,152619,Converts OpenStreetMap extracts to OpenDRIVE.
+2026-11-09T23:11:17Z,cim-tables,0.1.0a1,"""A. Anderson"" <19935503+AAndersn@users.noreply.github.com>",BSD-3-Clause,135935,"The .cimtbl DSL: parser, profile-reflective validator, and graph-write/binder core for cim-graph"
+2026-11-09T23:20:15Z,phytkit,0.1.0,PlantSimulationLab,MIT,5351964,"Plant physiology model fitting: photosynthesis, stomatal conductance, hydraulics and soil water retention."
+2026-11-09T23:20:45Z,duo-data-utilities,0.2.1,Duo Data Utilities,MIT,66248,"IBAN, ISIN, VAT/tax ID and GTIN barcode validation plus 29 more pay-per-call utilities, and crypto derivatives data (perp funding rates, open interest, futures basis, implied volatility, liquidations…"
+2026-11-09T23:24:26Z,brick-instruments,0.9.1,Adam McCaughan <amccaugh@gmail.com>,GPL-3.0-or-later,116277,Host drivers for the Brick modular instrument system
+2026-11-09T23:24:27Z,langchain-reachdog,0.1.0,,MIT,33010,"Budgeted title, research and catalog tools for Reach Dog"
+2026-11-09T23:26:43Z,roundlet,0.2.4,,BSD-2-Clause,90642,Random collection of helper libraries used by Ringlet software
+2026-11-09T23:26:49Z,decision-cascade,1.0.0,slavabars <slavabars@users.noreply.github.com>,Apache-2.0,664156,Локальный движок типизированных калибруемых решений (Noul/Choice/Score) с каскадом и протоколом SystemOne.
+2026-11-09T23:30:42Z,cael-provenance-bridge,0.1.0,,MIT,12050,Optional source-linked CAEL reasoning tools for workflow runtimes
+2026-11-09T23:32:43Z,diff-stream,0.1.0,Lee Tucker,MIT,393403,"Staggered difference-in-differences on data larger than memory: Callaway-Sant'Anna, Sun-Abraham, Borusyak-Jaravel-Spiess imputation, two-stage DiD and extended TWFE, with TWFE diagnostics"
+2026-11-09T23:32:53Z,mujoco-studio-wasm,0.0.0a0,Google DeepMind,Apache-2.0,1070,Reserved for MuJoCo refactoring; not yet usable.
+2026-11-09T23:34:10Z,cev-py,0.2.0,Carter Cole,Apache-2.0,22962809,"Typed, calibrated decisions from a small local LLM in one forward pass: is this true, which of these, which level. The cev engine in-process (Metal, Accelerate, multi-core CPU), with a decision log,…"
+2026-11-09T23:35:17Z,testcontainers-understudy,0.1.2,,Apache-2.0,20562,"Testcontainers module for understudy, the local AWS emulator"
+2026-11-09T23:38:29Z,pocketscribe,0.1.0,John Adeyemo Adedeji <johnnaadedeji2018@gmail.com>,MIT,227199,Confidence-aware binding-pocket triage for predicted protein structures
+2026-11-09T23:40:34Z,verityngn,3.0.0,"HotChili Analytics, LLC",Apache-2.0,1108289,Open-source multimodal video claim verification engine with Deep Research
+2026-11-09T23:41:27Z,tickwork,0.3.0,,MIT,48812,"A generic, instance-neutral workflow engine: states, transitions, sweeps and call replay over a queue of work items"
+2026-11-09T23:45:25Z,flask-ezmail-ng,1.0.3,Jared McKnight,MIT,32100,Flask extension for sending email
+2026-11-09T23:45:33Z,rift-ssg,0.1.0,Aleks Rutins,,7718,A simple static site generator
+2026-11-09T23:45:41Z,cmem-plugin-graphsigning,0.5.0,eccenca GmbH,Apache-2.0,87923,Compute hashes and signatures over Knowledge Graphs.
+2026-11-09T23:46:58Z,chans-mcp,0.1.2,,Apache-2.0,59131,Chans MCP stdio bridge to the hosted Streamable HTTP service
+2026-11-09T23:49:29Z,haybale-audio,0.4.0,,MIT,78990,"Audio blocks, events and routing shared by speech and streaming libraries"
+2026-11-09T23:53:53Z,djangogeoexporter,0.1.0,dbWildlife,AGPL-3.0-only,49644,"A Django module to facilitate exports, particularly map and relational database exports"
+2026-11-09T23:58:18Z,yamlr,0.1.0,Yamlr Team <contact@yamlr.dev>,Proprietary,4782181,yamlr — Kubernetes manifest safety & healing engine (Python SDK & Automation Plane)
+2026-11-10T00:00:05Z,axonio-ros2,0.5.0,Axonio <team@axonio.xyz>,MIT,39298,"ROS2 SDK for Axonio: persistent, fleet-wide spatial memory for robots"
+2026-11-10T00:02:10Z,registrata,0.1.0,Justin Capella,MIT,465901,Registration-data toolkit: RFC 2167 RWhois client/server plus experimental WHOIS and RDAP with one structured lookup model
+2026-11-10T00:03:03Z,roundtable-sh,0.1.1,Frontier Infra,MIT,67350,A council of frontier models — for the decisions that matter. (a Frontier Infra project)
+2026-11-10T00:04:09Z,ebook-convert,4.13.0,Nuno Sempere,GPL-3.0-or-later,3162939,"Command-line ebook converter extracted from Calibre: epub, mobi, azw3, docx, fb2, lrf, pdf, rtf, txt, ..."
+2026-11-10T00:04:29Z,oathline-guard,0.1.0,Nexxt Nest Group Pty Ltd,MIT,54972,"An MCP guard where an AI agent's yes means exactly what the person saw: reads pass, every other tool call waits for a coded yes in a second terminal, runs once, and is recorded in Oathline's hash-cha…"
+2026-11-10T00:11:30Z,gemini-pro-mcp,0.1.4,Muzaqil Hesenli,MIT,428947,"MCP server that brings your Google AI Pro subscription (Gemini via Antigravity CLI, Flow) and the Gemini API (Omni video, Nano Banana images) to Claude and other MCP clients."
+2026-11-10T00:12:46Z,mbBench,0.1.0,,MIT,257929,MicrobiomeBench: conditional microbiome simulation and truth-informed benchmarking
+2026-11-10T00:14:03Z,licenx,1.2.4,LicenX Contributors,"MIT License Copyright (c) 2026 LicenX Contributors Permission is hereby granted, free of charge, to…",96704,Python client SDK for LicenX license validation
+2026-11-10T00:18:03Z,transcripy,1.0.0,Bartosz Niewolski,MIT,38034,Local transcription of voicebot calls and phone recordings into timed speaker turns.
+2026-11-10T00:19:00Z,fingerly,0.1.0,Fingerly,Apache-2.0,88157,"Server-side Fingerly SDK: event reads, webhook verification and a same-origin proxy"
+2026-11-10T00:19:50Z,green-bench,0.2.0,Jessica Draper <jessicafaye.draper@gmail.com>,MIT,60455,"A CLI tool for automated, localized software energy experiments."
