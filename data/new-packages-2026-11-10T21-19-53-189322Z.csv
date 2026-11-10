@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T20:20:45Z,temporal-flowrensic-python-sdk,0.6.63,,Apache-2.0,191147,Connects a Temporal Python worker to Flowrensic.
+2026-11-10T20:20:48Z,grai-mcp,0.1.0,grai <hello@grai.page>,MIT,32361,Deterministic cadence gate and cryptographic seal verification as an MCP server
+2026-11-10T20:23:55Z,repovet-cli,0.1.0,repovet contributors,MIT,47052,"Vet a GitHub repo for fake stars, abandonment, risky install scripts and typosquatting. Radar for new repos in your stack."
+2026-11-10T20:24:11Z,simple-q-worker,1.0.0rc1,,,11518767,agent-worker supervisor binary for simple-q-runtime
+2026-11-10T20:24:20Z,eda-agent,0.8.1,George Saliba <george.saliba@salitronic.com>,Apache-2.0,6800461,"MCP server for EDA tool automation, currently supports Altium Designer. Around 600 tools for schematic, PCB, and library ops via DelphiScript bridge."
+2026-11-10T20:24:53Z,sfdc-agentforce-byoc-python-sdk,0.1.0,,Apache-2.0,113042,Python SDK for Agentforce BYOC (Bring Your Own Code)
+2026-11-10T20:27:29Z,bounded-calcs,0.1.0,Nicolás Vera Zúñiga,MIT,135113,"Clinical risk calculators that treat unknown as unknown: exact score bounds, settled or unsettled decisions, and the questions worth asking. Python library and MCP server. Research use, not a medical…"
+2026-11-10T20:30:13Z,onnx-wakeword,0.1.0,Voicute,MIT,1433171,"Offline wake-word / keyword-spotting engine on ONNX Runtime — no cloud, ~130 KB models"
+2026-11-10T20:33:28Z,pressurecooker-video,0.1.0,,MIT,71915,Encode a video toward a requested file size using FFmpeg.
+2026-11-10T20:36:04Z,sci-protocol,0.2.0,SCI contributors,Apache-2.0,1374344,Python library and sci CLI for SCI research publications.
+2026-11-10T20:38:55Z,argoflat,0.1.0rc1,Guillaume Maze,,34964,"ARGOFLAT: The Argo dataset as a lossless, analysis-ready cloud-optimised contiguous ragged array"
+2026-11-10T20:39:37Z,yeivily,1.0.0,Yeib,MIT,42165,"Tiny, keyless, Tavily-style local search server and MCP provider backed by DuckDuckGo"
+2026-11-10T20:43:36Z,dwd-mcp,0.1.0,Mohammad Abbasi,MIT,28771,"Unofficial read-only MCP server for DWD (Deutscher Wetterdienst) — ICON forecasts, current weather, official warnings & pollen via Open-Meteo"
+2026-11-10T20:43:44Z,autobahn-mcp,0.1.0,Mohammad Abbasi,MIT,113520,"Unofficial read-only MCP server for the German Autobahn (verkehr.autobahn.de) — roadworks, closures, warnings, parking & EV charging"
+2026-11-10T20:43:49Z,dw-mcp,0.1.0,Mohammad Abbasi,MIT,44380,"Unofficial read-only MCP server for Deutsche Welle news (dw.com) — headlines, search, articles & topics in 31 languages"
+2026-11-10T20:46:17Z,sieve-context,0.1.0,Kushaagra Patel <kushaagra.patel@outlook.com>,MIT,1420372,Cut retrieved context your RAG application sends to LLMs using local cross-encoder filtering.
+2026-11-10T20:46:36Z,teachback,0.0.3,Pedro,MIT,10559,"Learn while you work with coding agents: a pairing mode that makes you explain before the agent codes, and spaced reviews of concepts you haven't fixed yet."
+2026-11-10T20:49:25Z,ntv-mcp,0.1.0,Mohammad Abbasi,MIT,57678,"Unofficial read-only MCP server for n-tv news (n-tv.de) — headlines, markets, videos & articles"
+2026-11-10T20:49:28Z,dnb-mcp,0.1.0,Mohammad Abbasi,MIT,22247,"Unofficial read-only MCP server for the Deutsche Nationalbibliothek catalogue (DNB SRU) — books, authors, ISBN"
+2026-11-10T20:49:28Z,govdata-mcp,0.1.0,Mohammad Abbasi,MIT,33828,"Unofficial read-only MCP server for govdata.de (German open data, CKAN) — search datasets, publishers, resources"
+2026-11-10T20:51:42Z,orgdatacore,2.0.0,Continuous Release Tooling - Red Hat,Apache-2.0,184464,Python library for organizational data management
+2026-11-10T20:56:55Z,exoself,0.3.0,exoself contributors,MIT,93610,"An unchosen, verifiable temperament for software agents"
+2026-11-10T21:00:40Z,dictcc-mcp,0.1.0,Mohammad Abbasi,MIT,96980,Unofficial read-only MCP server for dict.cc — translations across 23 language pairs
+2026-11-10T21:00:42Z,deutschlandfunk-mcp,0.1.0,Mohammad Abbasi,MIT,83374,"Unofficial read-only MCP server for Deutschlandfunk (deutschlandfunk.de) — news, topics, articles & live stream"
+2026-11-10T21:00:43Z,duden-mcp,0.1.0,Mohammad Abbasi,MIT,118012,"Unofficial read-only MCP server for Duden (duden.de) — dictionary lookup, synonyms, spelling & verb conjugation"
+2026-11-10T21:02:45Z,probandly,0.0.1,,Apache-2.0,1997,"Placeholder: Probandly, auditable phenotype-aware variant prioritization"
+2026-11-10T21:03:11Z,fast-sudoku,0.2.0,Raphael Braun <keyraphi@gmail.com>,MIT,1030378,Fast C++ Sudoku engine with PDF rendering and per-cell difficulty analysis.
+2026-11-10T21:04:25Z,bundeswahlleiter-mcp,0.1.0,Mohammad Abbasi,MIT,59106,Unofficial read-only MCP server for the Bundeswahlleiterin — Bundestag election results 2017-2025
+2026-11-10T21:04:28Z,flixtrain-mcp,0.1.0,Mohammad Abbasi,MIT,33328,"Unofficial read-only MCP server for FlixTrain — train times, stations & prices"
+2026-11-10T21:04:35Z,billiger-mcp,0.1.0,Mohammad Abbasi,MIT,183061,Unofficial read-only MCP server for billiger.de — German price comparison
+2026-11-10T21:08:08Z,moment-sos,0.1.0,Tong Chen,MIT,90700,"Polynomial optimization with certified, anytime, first-order moment-SOS bounds in PyTorch"
+2026-11-10T21:08:38Z,fernsehserien-mcp,0.1.0,Mohammad Abbasi,MIT,96261,Unofficial read-only MCP server for fernsehserien.de — German TV series
+2026-11-10T21:08:43Z,zdf-mcp,0.1.0,Mohammad Abbasi,MIT,112037,Unofficial read-only MCP server for ZDF heute news
+2026-11-10T21:08:47Z,ecb-mcp,0.1.0,Mohammad Abbasi,MIT,27469,Unofficial read-only MCP server for European Central Bank (ECB) data
+2026-11-10T21:10:31Z,wg-gesucht-mcp,0.1.0,Mohammad Abbasi,MIT,271270,Unofficial read-only MCP server for WG-Gesucht housing listings
+2026-11-10T21:10:34Z,bim-mcp,0.1.0,Mohammad Abbasi,MIT,179292,"Unofficial read-only MCP server for bim.com.tr (BİM discount grocery): weekly Aktüel deals, prices, categories, provinces"
+2026-11-10T21:10:51Z,tagesschau-mcp,0.1.0,Mohammad Abbasi,MIT,75091,"Unofficial read-only MCP server for tagesschau.de — headlines, sections, regional news, videos & full article text via the official RSS feeds"
+2026-11-10T21:12:10Z,bixverse-gpu,0.3.0,Gregor Lueg <gregorlueg@me.com>,MIT,60367663,"GPU twins of the bixverse single cell methods, on wgpu, in Rust."
+2026-11-10T21:14:46Z,jenga-nlp,2.0.0,JengaNLP Team,MIT,245032,"Config-driven multi-task NLP: one shared transformer encoder, many task heads, load-once production inference"
+2026-11-10T21:15:00Z,divvun-fst,0.1.0,UiT The Arctic University of Norway,MIT OR Apache-2.0,12125580,"divvunspell for Python: loads BHFST and ZHFST spellers and checks and corrects words with them, and looks words up in optimized-lookup, THFST and DHFST transducers, giving the results native divvunsp…"
+2026-11-10T21:15:04Z,dex-connector-google-drive,0.1.0,,MIT,123435,Dex-native Google Drive connector
+2026-11-10T21:15:52Z,bitsygrader,0.0.3,,,11318644,BitsyGrader - JupyterHub assignment grading service
+2026-11-10T21:16:33Z,wisphy,0.0.1,Hayoung Bong,BSD-3-Clause,3211,Water Isotope Shared PHYsics: a common water-isotope physics layer for atmospheric models (early placeholder release; full package under development)
+2026-11-10T21:17:05Z,chinitoreproductor,0.0.1,,,28067,
+2026-11-10T21:18:04Z,workerd-bin,1.20261023.1,,Apache-2.0,159875253,Python redistribution of Cloudflare workerd binaries
+2026-11-10T21:19:08Z,embedded-bridge,0.2.1,Matthew McGowan,BSD-3-Clause,90472,"Structured communication with embedded devices — pluggable transport, receivers, and emitters"
