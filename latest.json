@@ -1,34 +1,27 @@
 {
   "list": {
     "count": 42,
-    "from": "2026-11-10T16:19:40.856266Z",
-    "path": "data/new-packages-2026-11-10T17-21-41-376171Z.csv",
-    "to": "2026-11-10T17:21:41.376171Z"
+    "from": "2026-11-10T17:21:41.376171Z",
+    "path": "data/new-packages-2026-11-10T18-19-02-838113Z.csv",
+    "to": "2026-11-10T18:19:02.838113Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-10T13:22:52Z",
-      "package": "dtu-pro-s",
-      "since": "2026-11-10T13:18:56.564748Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-10T16:40:04Z",
       "package": "mathykit-sisciguy",
       "since": "2026-11-10T16:19:40.856266Z",
       "version": "1.0.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-10T16:23:42Z",
       "package": "triple-alpha",
       "since": "2026-11-10T16:19:40.856266Z",
       "version": null
     }
   ],
-  "serial": 43465226,
+  "serial": 43467313,
   "source_truncated": false,
-  "window": "2026-11-10T17:21:41.376171Z"
+  "window": "2026-11-10T18:19:02.838113Z"
 }

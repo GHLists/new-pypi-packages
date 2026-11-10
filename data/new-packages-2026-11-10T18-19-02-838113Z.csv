@@ -1,0 +1,43 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T17:24:27Z,pyagentflow,0.1.0,,MIT,61298,"YAML-defined agent workflows where each step is its own repo: runtime, queues, flow metrics, event log"
+2026-11-10T17:27:22Z,aprendiz,0.0.2,Pedro,MIT,4769,"Learn while you work with coding agents: a pairing mode that makes you explain before the agent codes, and spaced reviews of concepts you haven't fixed yet."
+2026-11-10T17:27:31Z,primordia,0.0.1,Aaron Miller <aaron@thedevcompany.com>,,1609,Shared agent core. Under active development.
+2026-11-10T17:27:57Z,vacask,0.3.4.dev4,Arpad Buermen <arpad.burmen@fe.uni-lj.si>,AGPL-3.0-only,1102300341,VACASK (Verilog-A Circuit Analysis Kernel) is an analog circuit simulator.
+2026-11-10T17:29:14Z,ajem,0.0.0,Mischa Breuhaus <mbreuhaus@mpifr-bonn.mpg.de>,,2289,
+2026-11-10T17:29:53Z,matploy,0.1.0,,,10811,"Print lab experiment programs: matploy.e1(), matploy.e2(), ..."
+2026-11-10T17:30:38Z,finrix,1.0.0,,,64005,FINRIX Quantitative Trading Terminal — XAUUSD macro forecast engine with Rich CLI
+2026-11-10T17:32:31Z,alira-harness,3.0.0,,,2012754,Alira Harness
+2026-11-10T17:33:17Z,llmsim,0.7.0,Mykhailo Chalyi <mike@chaliy.name>,MIT,44717403,"In-process LLM API simulator (OpenAI, Anthropic, OpenResponses) for tests and load testing"
+2026-11-10T17:35:15Z,tesourodireto-mcp,0.1.0,"""Marcelo S. Perlin"" <marceloperlin@gmail.com>",MIT,127898,"MCP server for Brazilian government bonds (Tesouro Direto): historical prices, yields and the ANBIMA yield curve"
+2026-11-10T17:36:12Z,procthumper,1.0.0,,MIT,25982419,Cross-platform CPU / GPU / AI stress-test tool with a live dark-themed Qt UI
+2026-11-10T17:36:20Z,vaguely,0.1.0,Simon Diemert,MIT,94602,A library for creating and operating on fuzzy sets.
+2026-11-10T17:37:03Z,harnessix,0.10.0b3,Zhang Jinhui,AGPL-3.0-only,1670452,面向生产级 Coding Agent 的本地优先运行时与安全执行基础设施
+2026-11-10T17:38:33Z,cse-mcp,0.1.0,lxnid,MIT,29761,MCP server that gives Claude (and other AIs) live Colombo Stock Exchange market data.
+2026-11-10T17:39:18Z,quick-sco-re,0.3.0,Luke Solo,MIT,98676,SCOPE and REACH: variance-reduced event-probability estimation for autoregressive generative models
+2026-11-10T17:41:44Z,ragassay,0.0.0,Amit Patole,AGPL-3.0-only,1836,"Name reservation for ragassay: assay a RAG system for retrieval quality and hallucination rate, with stated uncertainty. The real release follows."
+2026-11-10T17:45:47Z,untaped-values,12.0.0,Alexis Beaulieu,MIT,25421,Values plugin for untaped: the inputs a file declares and a person or script answers.
+2026-11-10T17:48:24Z,xtruct,0.1.0,Aditya Narayan,MIT,114913,"A software company made of Claude Code agents: architect, leads, developers, reviewers and QA, with ClickUp as the board and gated PR merges."
+2026-11-10T17:48:56Z,fortis-watchdog,0.1.0b12,,MIT,116277478,"Fortis: fintech security checks on every push, for African fintech teams."
+2026-11-10T17:49:12Z,oddspush,0.1.1,OddsPush <support@oddspush.com>,MIT,50663,"Python client for the OddsPush API: real-time Pinnacle odds over WebSocket and REST, with no-vig, fair and closing-line (CLV) prices."
+2026-11-10T17:51:49Z,eqlx-ifrs9,0.1.0,Can Demir,Apache-2.0,159655,"Deterministic IFRS 9 expected credit loss: PD term structures, staging, 12-month and lifetime ECL, scenario weighting, provision matrix. Checked against published examples. Read-only MCP server for A…"
+2026-11-10T17:53:29Z,riptide-transfer,1.3.6,riptide,MIT,150205,"Direct, encrypted PC-to-PC file transfer in the terminal. No cloud upload, no website in the data path."
+2026-11-10T17:55:28Z,roadtest,0.1.0,Fenil Ramoliya,MIT,157161,"Road-test your AI agent before it ships: scenario-based evals for any agent, written by your coding agent."
+2026-11-10T17:55:31Z,sysgit-pygments,0.1.0,SysGit,,2415,"When the internal logic for this package is implement, more detail will be added."
+2026-11-10T17:56:49Z,operon-agent,0.0.1,,Apache-2.0,2812,"Placeholder for Operon, a vision-first computer-use agent. The first real release is coming soon."
+2026-11-10T17:59:38Z,membrane-aol,0.2.0,Adeyomi Lawal,Apache-2.0,610876,"Membrane — prompt engineering infrastructure: token budgets, U-shaped layout, prompt caching, and mid-generation retrieval for LLM applications."
+2026-11-10T17:59:51Z,maprt-emulator,0.1.0,Michael J. Tallhamer,"MIT License Copyright (c) 2025 Michael J. Tallhamer M.Sc. DABR Permission is hereby granted, free o…",1007059,"A local emulator of the Vision RT MapRT API 2.0 REST endpoints, for teaching and client testing. Not a medical device."
+2026-11-10T18:00:25Z,k1s-core,1.0.0a3,k1s contributors,Apache-2.0,2033911,Core Python runtime and compatibility CLIs for k1s
+2026-11-10T18:05:45Z,koschei-lang,0.10.0,Onur Sel,LicenseRef-Koschei-Lang-1.0,1314507,"Koschei: a capability-secure programming language. Code cannot touch the disk, network or environment unless it is handed a capability."
+2026-11-10T18:07:28Z,qrtxtgen,1.0.0,,MIT,9028,"Generate a QR code from any text or URL, rendered in your terminal with Unicode block art"
+2026-11-10T18:07:30Z,ppc2arm,1.0.0,,MIT,187685,"PowerPC <-> ARM / AArch64 instruction picker: CLI, REPL and retro ISA-museum GUI"
+2026-11-10T18:07:55Z,trupdf-sdk,0.0.1,TruenoTech,,2017,Name held by TruenoTech. The TruPDF Python SDK is licensed software and is not distributed on this index.
+2026-11-10T18:07:57Z,trupdf,0.0.1,TruenoTech,,2035,Name held by TruenoTech. The TruPDF Python SDK is licensed software and is not distributed on this index.
+2026-11-10T18:10:50Z,linux-keyctl,1.1.0,Juan Domingo Martín,GPL-3.0-or-later,73211,Thin Python interface to the Linux kernel key management system calls
+2026-11-10T18:11:33Z,touchque-authenticator,4.2.0,Touchque,,343890,"Official Python SDK for Touchque Authenticator (2FA/MFA, passkeys, adaptive auth)"
+2026-11-10T18:12:10Z,aws-durable-execution-sdk-python-extras,0.1.0a0,AWS durable-execution-dev <durable-execution-dev@amazon.com>,Apache-2.0,189620,"Custom durable operations for the AWS Durable Execution SDK for Python, such as running a job in an AWS Lambda MicroVM"
+2026-11-10T18:13:40Z,aws-durable-execution-sdk-python-compute-worker,0.0.1a0,AWS durable-execution-dev <durable-execution-dev@amazon.com>,Apache-2.0,161148,Runs jobs from AWS Lambda durable functions inside an AWS Lambda MicroVM
+2026-11-10T18:14:08Z,liteit,0.1.0,liteit contributors,GPL-3.0-or-later,64353,CLI scaffolding tool for Litestar + Granian ASGI APIs with modular controllers
+2026-11-10T18:16:39Z,Omics3D,0.0.1.dev0,,,5901,Development scaffold for Omics3D spatial multi-omics tools.
+2026-11-10T18:17:21Z,ui4me,0.1.0,ui4me contributors,MIT,3268944,A small native UI runtime for Python and PowerShell
+2026-11-10T18:17:38Z,filecraft-py,0.6.0,filecraft contributors,MIT,45630,Signed-manifest updater for a self-hosted game or app.
+2026-11-10T18:18:02Z,file-security,0.1.0,Leonid Kushkin,MIT,356249,"Проверка загружаемых файлов до постоянного хранилища: политика, разбор содержимого и ClamAV."
