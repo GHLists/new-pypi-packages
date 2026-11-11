@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 32,
-    "from": "2026-11-11T04:18:56.71345Z",
-    "path": "data/new-packages-2026-11-11T05-18-56-095867Z.csv",
-    "to": "2026-11-11T05:18:56.095867Z"
+    "count": 46,
+    "from": "2026-11-11T05:18:56.095867Z",
+    "path": "data/new-packages-2026-11-11T06-19-05-661443Z.csv",
+    "to": "2026-11-11T06:19:05.661443Z"
   },
   "pending": [
     {
       "attempts": 4,
-      "created_at": "2026-11-11T01:55:01Z",
-      "package": "Invezgo",
-      "since": "2026-11-11T01:19:09.147496Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-11T02:30:57Z",
       "package": "baeklabnumpy",
       "since": "2026-11-11T02:19:23.709826Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-11T03:52:25Z",
       "package": "postern-pypi",
       "since": "2026-11-11T03:18:54.234856Z",
       "version": null
     }
   ],
-  "serial": 43491051,
+  "serial": 43492524,
   "source_truncated": false,
-  "window": "2026-11-11T05:18:56.095867Z"
+  "window": "2026-11-11T06:19:05.661443Z"
 }

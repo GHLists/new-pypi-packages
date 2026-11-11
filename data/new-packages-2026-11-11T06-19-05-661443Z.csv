@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T05:21:34Z,snakelit,0.1.0,,,87785,Reusable Streamlit widgets for Snakemake workflows
+2026-11-11T05:21:39Z,agent-moral-guard,0.2.0,mysukriramli,MIT,963756,Deterministic moral alignment & citation engine for autonomous AI agents
+2026-11-11T05:22:40Z,flakynet,0.1.0,Siddhesh Agarwal,,226673,"Seeded, reproducible network faults for testing real clients over real sockets."
+2026-11-11T05:24:49Z,batches,0.11.0b1,,MIT OR Apache-2.0,2728752,"Batched, collision-aware robot motion generation: IK, motion planning and pick-and-place tasks for thousands of problems at once, on any GPU or CPU threads"
+2026-11-11T05:24:49Z,massengine,1.1.3,MassEngine <dev@massengine.com>,Apache-2.0,16672,Official Python SDK for the MassEngine vector and hybrid search database.
+2026-11-11T05:27:52Z,mindmapai,1.0.0,,,31657,MindMapAI Unified Client & Authentication SDK for Python and Django
+2026-11-11T05:27:54Z,factpin,0.2.0,Benjamin C. Warner,MIT,33511,Pin constants computed in analysis code into a LaTeX manuscript
+2026-11-11T05:28:15Z,hair-platform,0.1.3,,MIT,1099864,HAIR(Human-AI Resource Management) 협업 플랫폼 — 사람과 AI Agent를 하나의 조직도에서 배치·배분·승인·성과리뷰하는 도구. AgentForge의 자매 프로젝트.
+2026-11-11T05:29:10Z,manyseg,0.1.0,DPIRD-DMA,MIT,3793768,"Composable dense-prediction models for PyTorch: timm backbones, any channel count, multiple inputs and outputs."
+2026-11-11T05:30:42Z,harshivad,0.2.0,harshith s,Apache-2.0 AND CC-BY-4.0,2046470,"HarshiVAD: a small (56,513-parameter) causal-CNN voice activity detector for 16 kHz audio; ONNX Runtime by default."
+2026-11-11T05:32:37Z,ocai-aws,0.1.1,ocai maintainers,FSL-1.1-ALv2,21693,Explicit AWS authentication for ocai transport requests.
+2026-11-11T05:32:44Z,gtm-ui-buridan,0.1.21,Buridan UI,MIT,2587144,A command line interface (CLI) for adding components and themes to your project.
+2026-11-11T05:34:14Z,ai-study-agent,1.0.0,,,47436,"A minimalist, goal-driven AI Study Agent demonstrating core agent foundations."
+2026-11-11T05:34:49Z,ocai-bedrock,0.1.1,ocai maintainers,FSL-1.1-ALv2,22058,Bedrock hosting through public ocai contracts.
+2026-11-11T05:37:43Z,cuecard,0.2.13,Evan L,Proprietary,552322,"Real-time meeting copilot: live captions, Chinese translation, auto-detected questions, suggested answers (text + voice)."
+2026-11-11T05:39:32Z,stranger-test,0.0.2,Vedant Agarwal,Apache-2.0,107248,Tests MCP servers for cross-identity and delegated-authority (RFC 8693) authorization leaks.
+2026-11-11T05:43:47Z,sevenmlabs-numerology,1.0.0,7mlabs,MIT,780909,"SDK thần số học Pythagorean ngoại tuyến: chỉ số họ tên, ngày sinh, chu kỳ, Đỉnh cao và Essence; lõi Rust, quy tắc có phiên bản và các bước rút gọn."
+2026-11-11T05:44:38Z,pipecat-convozen,0.1.0,ConvoZen <contact@convozen.ai>,BSD-2-Clause,21890,Pipecat services for ConvoZen's Akshara speech-to-text and Ragini text-to-speech
+2026-11-11T05:44:42Z,depradar,0.1.0,Mohammed Pahadwala <mohammedpahadwala97@gmail.com>,MIT,77810,Interactive System & Package Dependency Radar with force-directed graph & AI agent MCP server
+2026-11-11T05:45:09Z,weight-diff,0.3.0,wdiff contributors,MIT,194896,"git diff, but for neural network weights. Ultra-fast, memory-bounded LLM differential analyzer."
+2026-11-11T05:45:19Z,s1lent-cli,0.1.0,S1lent,MIT,20236,S1lent developer CLI - scan a local folder from the terminal
+2026-11-11T05:48:10Z,eqc-bio,0.1.2,"""Quantum Computing Inc."" <support@quantumcomputinginc.com>",,947854,Biological modeling package targeting EQC devices
+2026-11-11T05:48:31Z,livsyn-rdp-cli,0.1.0,Livsyn Robotics,,20238,RDP signed API client and managed SSH connection
+2026-11-11T05:48:49Z,fileboy,0.1.0,Fileboy,MIT,42419,"Official Python client for Fileboy: upload files and videos, build image transform URLs, read video data."
+2026-11-11T05:48:56Z,jwf-common-python,1.0.0,evans.jiang,MIT,205151,"封装了一些常用功能,GitHub: https://github.com/jiangwenfan/common_packages/tree/main"
+2026-11-11T05:48:56Z,ricci,0.0.1,The Ricci authors,MIT,16550,A shape-typed tensor language whose compiler emits NVIDIA PTX directly.
+2026-11-11T05:49:25Z,cognitive-harness,0.8.0,Egil Utheim,Apache-2.0,112256,"Structured engineering reasoning, provenance, epistemic warrant, and change-impact analysis over a knowledge graph"
+2026-11-11T05:51:37Z,miniworld-engine-kernels-sm80-cu129,2.5.2,,MIT AND Apache-2.0 AND BSD-3-Clause,28918903,miniworld-engine prebuilt kernels for sm80-cu129 (A100; torch 2.13.0+cu129 / CUDA 12.9 / CPython 3.12); installed by miniworld-engine==2.5.2
+2026-11-11T05:52:47Z,hephkit,0.2.0,,MIT,2202061,"Hephaestus correctness kit: money, canonical JSON, content hashing and webhook signatures over the Rust core (experimental)"
+2026-11-11T05:57:50Z,tauri-runtime,0.1.0,kylin,MIT OR Apache-2.0,85180,"Write the backend of Tauri 2 desktop apps in Python: commands, events, channels and standalone packaging"
+2026-11-11T05:58:24Z,gtm-ui-native,0.0.3.1,Elvis Kahoro <elvis@elvis.ai>,MIT,1671642,A command line interface (CLI) for adding components and themes to your project.
+2026-11-11T06:00:34Z,renovara-sql,0.2.0,"""Scoptico Pty Ltd (Renovara)"" <info@renovara.co>",MIT,19103,Python client for the Renovara SQL API: DuckDB SQL over Australian NEM and east coast gas market data from AEMO
+2026-11-11T06:00:46Z,cohabit,0.2.0,,MIT,36555,Cohabit building intelligence: CLI and MCP server over the Cohabit /v1 API
+2026-11-11T06:04:22Z,autex,0.1.0,Maddy,,4930,Automated Near-Infrared Reduction and Extraction Pipeline
+2026-11-11T06:07:14Z,swizzle-ai,0.2.0,Paramveer Singh <param15.veer.singh@gmail.com>,Apache-2.0,45422,"Official Python SDK & Student CLI for Swizzle: Sub-40ms LLM TTFT, 60Hz Robotics VLA (PatchCache, SpecAct, Teleop), and Batched Latent World-Model MPC."
+2026-11-11T06:08:04Z,engg-math-navigation,0.0.1,Engineering Mathematics,Apache-2.0,5255,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-11T06:08:06Z,trazas,0.1.0,Geiner Jiménez Villegas,MIT,50868,"Realistic, labelled attack log generator for testing detection rules without a lab."
+2026-11-11T06:08:47Z,pyaggregation,0.1.0,aaltatan,GPL-3.0-only,41417,"Summaries over collections in one pass: total(salary) & count(where=is_manager()), definable as JSON."
+2026-11-11T06:09:20Z,engg-math-numerical-computation,0.0.1,Engineering Mathematics,Apache-2.0,5357,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-11T06:09:22Z,engg-math-optimization,0.0.1,Engineering Mathematics,Apache-2.0,5274,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-11T06:09:24Z,engg-math-physical-systems,0.0.1,Engineering Mathematics,Apache-2.0,5310,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-11T06:10:53Z,garmin-dynamic-mcp,0.2.0,Fabrizio De Bortoli,MIT,69682,"Dynamic, secure, read-only MCP server for the Garmin Connect Personal API"
+2026-11-11T06:11:36Z,Yusuf,0.1.0,Yusuf,,4021,Seni çileden çıkaracak ve laf sokacak harika bir troll bot kütüphanesi.
+2026-11-11T06:14:51Z,pygpu-scheduling,0.1.0,PyGPUScheduling contributors,MIT,49450,Reusable local CPU and NVIDIA GPU task scheduling with dependency graphs and recovery hooks
+2026-11-11T06:15:49Z,molsuite,0.1.0,,MIT,46216,"MolSuite Toolbox: applications, projects and shared settings."
+2026-11-11T06:18:47Z,qubrics-core,2.0.0,,MIT,15661,Shared runtime helpers for the Qubrics Python SDK packages.
