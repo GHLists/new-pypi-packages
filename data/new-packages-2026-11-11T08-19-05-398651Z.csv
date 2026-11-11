@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T07:24:04Z,welii-guardian,0.1.0,,,12721,SDK Python de WELII AI Guardian
+2026-11-11T07:24:30Z,qubd,0.0.1,"Pedram Bakhtiarifard, Sophia N. Wilson, Mahmoud H. A. Afifi, Jonathan Wenshøj, Raghavendra Selvan",,2709,Estimating the Kolmogorov-Chaitin-Solomonoff (KCS) complexity of large-scale objects.
+2026-11-11T07:25:05Z,ai-ledger,0.1.0,Nicolas Widart,MIT,433981,Local store and dashboards for AI coding-agent transcripts
+2026-11-11T07:25:33Z,rowlock,0.0.1,Vintergatan Ventures,,2523,"Postgres schema, performance and tenant-isolation analysis for coding agents, served over MCP. Name reserved; first release pending."
+2026-11-11T07:29:13Z,fiskit,0.1.3,,MIT,12736,Official Python client for the FisKit API: electronic invoices with ARCA (ex AFIP) in a single request.
+2026-11-11T07:41:55Z,humbility-shared,0.0.2,Security Researcher,MIT,5008,Security research - dependency confusion canary
+2026-11-11T07:45:05Z,agent-memory-brain,0.2.0,Benjamin Breznik,LicenseRef-PolyForm-Small-Business-1.0.0,357529,"Brain: local long-term memory, agent messages and a localhost dashboard for coding agents (MCP server)"
+2026-11-11T07:46:58Z,arteliq,0.1.0,MisterReds,Apache-2.0,1808772,Self-improving multi-agent harness: goal -> project -> kanban -> workers -> verified result
+2026-11-11T07:47:29Z,gmaps-boundary,0.1.0,Ujjwal Kumar,MIT,74233,"Fetch the boundary polygon Google Maps draws for a locality, city or postal code, as GeoJSON."
+2026-11-11T07:50:16Z,coding-sh,0.1.3,coding.sh contributors,MIT,57593,"Trace any AI agent or LLM app from Python: send model calls, traces and tool spans to a coding.sh server."
+2026-11-11T07:51:22Z,captcha-detector,1.0.0,ScrapePass,MIT,132691,"Does this web page have a captcha? Detects 69 captcha and bot-check products (reCAPTCHA, hCaptcha, Turnstile, DataDome, PerimeterX...) in HTML, scraper API results, Playwright and Selenium. Zero depe…"
+2026-11-11T07:52:03Z,staiflow,0.0.1,,,2645,Placeholder package name reservation
+2026-11-11T07:52:44Z,toolcap,0.1.0,Sri Krishna Lingamaneni,MIT,30461,"Keep MCP tool results under the client's token limit (Claude Code's 25,000): cursor pagination of long lists and text, or safe truncation, in one call or decorator"
+2026-11-11T07:54:25Z,satchel-adapter-sdk,1.2.1,,Apache-2.0,76786,"SDK for writing satchel source adapters: the canonical IR, the adapter protocol and a conformance kit"
+2026-11-11T07:59:43Z,owl-agent-budget-guard,0.1.0,,MIT,126880,"Local budget, token, request, tool and time limits for AI agent runs."
+2026-11-11T08:00:54Z,trafilatura-rs,0.1.1,Hexay,Apache-2.0,11699735,Byte-exact drop-in Rust port of trafilatura 1.11's extract()
+2026-11-11T08:01:06Z,audio-transcription-mcp,0.1.0,,MIT,10420,MCP server for audio and video transcription with local Whisper or the OpenAI API.
+2026-11-11T08:03:53Z,bellprint,0.1.0,Henry Alexander,MIT,32351460,"Identify the church tower heard in a recording from its bells' pitches, matched against Dove's Guide"
+2026-11-11T08:05:41Z,git-worklog,1.6.0,Daniel Hsieh,"MIT License Copyright (c) 2026 Daniel Hsieh Permission is hereby granted, free of charge, to any pe…",391230,"Generate evidence-based engineering worklogs, reports, changelogs, handoff summaries, contribution reports, and technical-debt reviews from actual Git history and source-code changes."
+2026-11-11T08:06:03Z,tokenspeed-engine,0.0.0.dev0,,MIT,1482,Bootstrap release for the TokenSpeed engine Python distribution
+2026-11-11T08:07:16Z,datatrove-rs,0.1.0,Hexay,Apache-2.0,6416934,"Drop-in Rust implementations of datatrove's English Gopher, C4, FineWeb filters and MinHash stage 1"
+2026-11-11T08:07:40Z,tdf,0.1.0a1,gwj <sfwwslm@gmail.com>,MIT,186848,TestDataFactory — 自动化测试数据工厂
+2026-11-11T08:08:19Z,dormant,0.1.0,Om Anand,MIT,260781,Archive dependency and build folders in stale projects and restore them when you come back.
+2026-11-11T08:13:18Z,panescape,0.1.0,Kieran Ralston,MIT,271060,"True-to-scale wallpapers across monitors of different sizes, resolutions and orientations (Linux: GNOME, KDE Plasma, sway, Hyprland)"
+2026-11-11T08:14:16Z,agent-work-kit,0.3.0,,MIT,366206,"Working instructions, writing guides, and verification tools for development with coding agents"
+2026-11-11T08:16:42Z,faiflow,0.0.1,,,2500,Placeholder package name reservation

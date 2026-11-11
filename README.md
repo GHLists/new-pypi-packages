@@ -8,38 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 07:19 UTC
+## Latest list — 2026-11-11 08:19 UTC
 
-New packages created between 2026-11-11 06:19 UTC and 2026-11-11 07:19 UTC.
+New packages created between 2026-11-11 07:19 UTC and 2026-11-11 08:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-11T07-19-02-452257Z.csv)
+[Full CSV](data/new-packages-2026-11-11T08-19-05-398651Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-11 06:23:16 | [roborun](https://pypi.org/project/roborun/) | 0.0.1 | Shaoxiong Yao | 10.4 kB | A small runtime between models and robots, so that whatever a model starts can… |
-| 2026-11-11 06:33:21 | [webplayercontrol](https://pypi.org/project/webplayercontrol/) | 1.0.2 | Christopher Head | 53.7 kB | An ASGI application that exposes Media Player Remote Interfacing Specification… |
-| 2026-11-11 06:36:19 | [qt-commander-mcp](https://pypi.org/project/qt-commander-mcp/) | 0.9.0 | TieFeiyu | 467.6 kB | MCP server for live Qt UI introspection and automation |
-| 2026-11-11 06:38:25 | [scmgen](https://pypi.org/project/scmgen/) | 0.10.0 | DK <dk.promsoft@gmail.com> | 383.6 kB | SCM-генератор синтетических данных для uplift/ITE/CATE-бенчмарков: явный DAG, п… |
-| 2026-11-11 06:39:44 | [leafish](https://pypi.org/project/leafish/) | 0.1.0 | Leafish contributors | 1.6 MB | A pure Python, asynchronous Minecraft Java Edition bot framework inspired by Mi… |
-| 2026-11-11 06:39:59 | [agent-ear](https://pypi.org/project/agent-ear/) | 0.2.1 | agent-ear contributors | 113.9 kB | Give text-only agents an offline ear: audio/video -> a time-indexed audio score. |
-| 2026-11-11 06:40:21 | [larmorx-gpl](https://pypi.org/project/larmorx-gpl/) | 0.1.0rc1 | Karel Lopez Vilaret | 7.1 MB | Bit-exact Rust replica of tedana's t2smap (multi-echo fMRI), run by larmorx as… |
-| 2026-11-11 06:40:21 | [larmorx-nc](https://pypi.org/project/larmorx-nc/) | 0.1.0rc1 | Karel Lopez Vilaret | 39.8 MB | Non-commercial use only (FSL Licence): bit-exact Rust replicas of FSL tools (mc… |
-| 2026-11-11 06:41:31 | [larmorx](https://pypi.org/project/larmorx/) | 0.1.0rc1 | Karel Lopez Vilaret | 84.3 MB | Neuroimaging tools reimplemented in Rust, with Python bindings and the original… |
-| 2026-11-11 06:43:06 | [fasterapi-rs](https://pypi.org/project/fasterapi-rs/) | 0.1.0 | Seyamalam | 14.9 MB | FastAPI drop-in powered by Rust — native Hyper/Tokio host, SIMD JSON, radix rou… |
-| 2026-11-11 06:47:09 | [of2su2](https://pypi.org/project/of2su2/) | 1.0.1 | Vaibhav Hiwale | 135.8 kB | Convert OpenFOAM meshes (incl. snappyHexMesh polyhedra and hanging nodes) into… |
-| 2026-11-11 06:48:30 | [deepreaper](https://pypi.org/project/deepreaper/) | 0.0.1 |  | 1.7 kB | DeepReaper: Finds what's dead in your stack and reaps it. Reserved package; see… |
-| 2026-11-11 06:48:32 | [openreaper](https://pypi.org/project/openreaper/) | 0.0.1 |  | 1.7 kB | OpenReaper: The open-source reaper for orphaned cloud resources. Reserved packa… |
-| 2026-11-11 06:48:43 | [guarddiff](https://pypi.org/project/guarddiff/) | 0.1.0 |  | 988.0 kB | Run the same attack and benign prompts with guardrails off, A and B, and compar… |
-| 2026-11-11 06:58:04 | [reliablekit](https://pypi.org/project/reliablekit/) | 0.1.2 | Hou Congcong | 30.8 kB | Reliable LLM/Agent calls: timeout + exponential backoff + sliding-window circui… |
-| 2026-11-11 07:01:15 | [voice-hci-lab](https://pypi.org/project/voice-hci-lab/) | 0.1.0 | Kuncham Venkata Satya Manikan… | 149.4 kB | Three open HCI experiments in speech-driven computer use: speculative voice-to-… |
-| 2026-11-11 07:01:24 | [pikapro](https://pypi.org/project/pikapro/) | 0.1.0 |  | 21.1 MB | A fast, deterministic Pokémon battle simulator (Gen 9, VGC, Pokémon Champions)… |
-| 2026-11-11 07:04:49 | [scanprivacy](https://pypi.org/project/scanprivacy/) | 0.1.1 | Fabrizio Salmi | 955.0 kB | URL in, findings graph + remediation out. Passive, legit-only EU privacy confor… |
-| 2026-11-11 07:06:11 | [dadl-quantum](https://pypi.org/project/dadl-quantum/) | 0.0.2 |  | 28.4 kB | Detector-Aware Data Layer for quantum optics experiments |
-| 2026-11-11 07:06:17 | [syncvey](https://pypi.org/project/syncvey/) | 0.11.0 | Hitoshi Tabata | 24.8 MB | Self-hosted AWS inventory and tfstate drift detection ledger |
-| 2026-11-11 07:09:23 | [engramkeep](https://pypi.org/project/engramkeep/) | 0.5.1 | The Engramkeep Contributors | 507.9 kB | Local-first, Markdown-native persistent memory for AI coding agents. |
-| 2026-11-11 07:11:25 | [cpm-approx](https://pypi.org/project/cpm-approx/) | 0.1.0 | Dronakurl | 533.7 kB | Analytical VaR and expected shortfall of credit portfolios in the multi-factor… |
-| 2026-11-11 07:12:03 | [dpolcat](https://pypi.org/project/dpolcat/) | 0.2.0.dev1 | Luke McQuade <2824165+lukesdm… | 25.9 kB | Semantic categorization of dual-polarimetric synthetic aperture radar (SAR) ima… |
-| 2026-11-11 07:12:32 | [vexpath-core](https://pypi.org/project/vexpath-core/) | 0.1.0 | Akmal Khan | 435.6 kB | Analysis core: SBOM handling, advisory matching, reachability, VEX, attestation… |
-| 2026-11-11 07:12:57 | [vexpath](https://pypi.org/project/vexpath/) | 0.1.0 | Akmal Khan | 91.9 kB | Command-line tool: generate SBOMs, match advisories, analyse reachability and e… |
-| 2026-11-11 07:14:03 | [commerge-cpp](https://pypi.org/project/commerge-cpp/) | 2.1.0 | Hogyun Kim | 141.5 MB | C++ core of Commerge (IJRR 2026): communication-efficient multi-robot map mergi… |
-| 2026-11-11 07:15:02 | [klineshare](https://pypi.org/project/klineshare/) | 0.2.7 | KlineShare | 122.8 kB | Official Python SDK for the KlineShare market data API |
+| 2026-11-11 07:24:04 | [welii-guardian](https://pypi.org/project/welii-guardian/) | 0.1.0 |  | 12.7 kB | SDK Python de WELII AI Guardian |
+| 2026-11-11 07:24:30 | [qubd](https://pypi.org/project/qubd/) | 0.0.1 | Pedram Bakhtiarifard, Sophia… | 2.7 kB | Estimating the Kolmogorov-Chaitin-Solomonoff (KCS) complexity of large-scale ob… |
+| 2026-11-11 07:25:05 | [ai-ledger](https://pypi.org/project/ai-ledger/) | 0.1.0 | Nicolas Widart | 434.0 kB | Local store and dashboards for AI coding-agent transcripts |
+| 2026-11-11 07:25:33 | [rowlock](https://pypi.org/project/rowlock/) | 0.0.1 | Vintergatan Ventures | 2.5 kB | Postgres schema, performance and tenant-isolation analysis for coding agents, s… |
+| 2026-11-11 07:29:13 | [fiskit](https://pypi.org/project/fiskit/) | 0.1.3 |  | 12.7 kB | Official Python client for the FisKit API: electronic invoices with ARCA (ex AF… |
+| 2026-11-11 07:41:55 | [humbility-shared](https://pypi.org/project/humbility-shared/) | 0.0.2 | Security Researcher | 5.0 kB | Security research - dependency confusion canary |
+| 2026-11-11 07:45:05 | [agent-memory-brain](https://pypi.org/project/agent-memory-brain/) | 0.2.0 | Benjamin Breznik | 357.5 kB | Brain: local long-term memory, agent messages and a localhost dashboard for cod… |
+| 2026-11-11 07:46:58 | [arteliq](https://pypi.org/project/arteliq/) | 0.1.0 | MisterReds | 1.8 MB | Self-improving multi-agent harness: goal -> project -> kanban -> workers -> ver… |
+| 2026-11-11 07:47:29 | [gmaps-boundary](https://pypi.org/project/gmaps-boundary/) | 0.1.0 | Ujjwal Kumar | 74.2 kB | Fetch the boundary polygon Google Maps draws for a locality, city or postal cod… |
+| 2026-11-11 07:50:16 | [coding-sh](https://pypi.org/project/coding-sh/) | 0.1.3 | coding.sh contributors | 57.6 kB | Trace any AI agent or LLM app from Python: send model calls, traces and tool sp… |
+| 2026-11-11 07:51:22 | [captcha-detector](https://pypi.org/project/captcha-detector/) | 1.0.0 | ScrapePass | 132.7 kB | Does this web page have a captcha? Detects 69 captcha and bot-check products (r… |
+| 2026-11-11 07:52:03 | [staiflow](https://pypi.org/project/staiflow/) | 0.0.1 |  | 2.6 kB | Placeholder package name reservation |
+| 2026-11-11 07:52:44 | [toolcap](https://pypi.org/project/toolcap/) | 0.1.0 | Sri Krishna Lingamaneni | 30.5 kB | Keep MCP tool results under the client's token limit (Claude Code's 25,000): cu… |
+| 2026-11-11 07:54:25 | [satchel-adapter-sdk](https://pypi.org/project/satchel-adapter-sdk/) | 1.2.1 |  | 76.8 kB | SDK for writing satchel source adapters: the canonical IR, the adapter protocol… |
+| 2026-11-11 07:59:43 | [owl-agent-budget-guard](https://pypi.org/project/owl-agent-budget-guard/) | 0.1.0 |  | 126.9 kB | Local budget, token, request, tool and time limits for AI agent runs. |
+| 2026-11-11 08:00:54 | [trafilatura-rs](https://pypi.org/project/trafilatura-rs/) | 0.1.1 | Hexay | 11.7 MB | Byte-exact drop-in Rust port of trafilatura 1.11's extract() |
+| 2026-11-11 08:01:06 | [audio-transcription-mcp](https://pypi.org/project/audio-transcription-mcp/) | 0.1.0 |  | 10.4 kB | MCP server for audio and video transcription with local Whisper or the OpenAI A… |
+| 2026-11-11 08:03:53 | [bellprint](https://pypi.org/project/bellprint/) | 0.1.0 | Henry Alexander | 32.4 MB | Identify the church tower heard in a recording from its bells' pitches, matched… |
+| 2026-11-11 08:05:41 | [git-worklog](https://pypi.org/project/git-worklog/) | 1.6.0 | Daniel Hsieh | 391.2 kB | Generate evidence-based engineering worklogs, reports, changelogs, handoff summ… |
+| 2026-11-11 08:06:03 | [tokenspeed-engine](https://pypi.org/project/tokenspeed-engine/) | 0.0.0.dev0 |  | 1.5 kB | Bootstrap release for the TokenSpeed engine Python distribution |
+| 2026-11-11 08:07:16 | [datatrove-rs](https://pypi.org/project/datatrove-rs/) | 0.1.0 | Hexay | 6.4 MB | Drop-in Rust implementations of datatrove's English Gopher, C4, FineWeb filters… |
+| 2026-11-11 08:07:40 | [tdf](https://pypi.org/project/tdf/) | 0.1.0a1 | gwj <sfwwslm@gmail.com> | 186.8 kB | TestDataFactory — 自动化测试数据工厂 |
+| 2026-11-11 08:08:19 | [dormant](https://pypi.org/project/dormant/) | 0.1.0 | Om Anand | 260.8 kB | Archive dependency and build folders in stale projects and restore them when yo… |
+| 2026-11-11 08:13:18 | [panescape](https://pypi.org/project/panescape/) | 0.1.0 | Kieran Ralston | 271.1 kB | True-to-scale wallpapers across monitors of different sizes, resolutions and or… |
+| 2026-11-11 08:14:16 | [agent-work-kit](https://pypi.org/project/agent-work-kit/) | 0.3.0 |  | 366.2 kB | Working instructions, writing guides, and verification tools for development wi… |
+| 2026-11-11 08:16:42 | [faiflow](https://pypi.org/project/faiflow/) | 0.0.1 |  | 2.5 kB | Placeholder package name reservation |
