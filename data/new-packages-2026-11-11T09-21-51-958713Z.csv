@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T08:19:27Z,twinlens,1.1.0,Spilios Dimakopoulos,MIT,111369,A digital twin of an LLM's internals that measures how far its own explanations can be trusted.
+2026-11-11T08:21:03Z,nameproof,0.1.0,Nada Boulaares,Apache-2.0,476828,"Explainable name matching across scripts for Verification of Payee, Confirmation of Payee and KYC."
+2026-11-11T08:24:27Z,docx-typst,0.1.0,,MIT,254391,Convert supported Word documents to Typst and back
+2026-11-11T08:25:33Z,sct-biomass-reader,1.0.0,"""Aresys S.R.L."" <info@aresys.it>","MIT License Copyright (C) Aresys S.r.l. <info@aresys.it> Permission is hereby granted, free of char…",24543,SCT (SAR Calibration Toolbox) plugin for reading Biomass Level 1 products.
+2026-11-11T08:28:42Z,aimflow,0.0.2,,,2637,Placeholder package name reservation
+2026-11-11T08:30:05Z,aig-compliance,0.1.0,Tencent Zhuque Lab <zhuque@tencent.com>,Apache-2.0,60384,Local page for generative AI service safety self-assessment
+2026-11-11T08:32:35Z,llama-index-readers-scrapeless,0.1.0,,MIT,470060,Scrapeless Python SDK readers for LlamaIndex
+2026-11-11T08:32:56Z,cmakelang-compat,0.1.0a1,,GPL-3.0-only,35991,Local compatibility support for cmakelang on newer Python runtimes
+2026-11-11T08:34:40Z,oraiflow,0.0.1,,,2647,Placeholder package name reservation
+2026-11-11T08:37:04Z,ghostport-cli,0.1.1,CyberStudios,MIT,39138,A tiny forensic CLI for diagnosing local TCP ports and unexpected HTTP services.
+2026-11-11T08:37:42Z,Yenigun,0.1.0,Yusuf,,3256,Sıkıcı Python hataları yerine komik bahaneler uyduran troll kütüphanesi.
+2026-11-11T08:40:50Z,check-gitignore,0.1.0,Peter Pentchev <roam@ringlet.net>,BSD-2-Clause,98622,Run formatting and robustness checks on a gitignore file
+2026-11-11T08:42:21Z,tinyecs-compsys-patternengine,0.0.3,Michael Lamertz <michael.lamertz@gmail.com>,MIT,7653,patternengine component and system library for tinyecs
+2026-11-11T08:43:14Z,trpc-rs-py,0.7.0,,,926719,
+2026-11-11T08:44:36Z,indiequity,0.2.1,Ayush <anon.yy.mouse.712@gmail.com>,MIT,89439,"Indian equity research toolkit for NSE/BSE fundamental analysis, ratios, screening, and DCF valuation."
+2026-11-11T08:45:36Z,hiplot-plus,1.0.1,"Facebook AI Research, mathematicalmichael @ Mind the Math, LLC",MIT,2079923,High dimensional Interactive Plotting tool
+2026-11-11T08:46:12Z,gimp-mcp-plugin,0.1.0,,GPL-3.0-or-later,107074,GIMP MCP integration for external control of GIMP 3.2
+2026-11-11T08:48:12Z,skillporter,2.0.0,Shanmukh Dheekonda,MIT,136234,"ONE SKILL. EVERY AGENT. Universal package manager, validator, security scanner, and synchronizer for AI-agent skills across 19+ harnesses."
+2026-11-11T08:50:12Z,pystlx,0.0.1,Prasad Raju G <gls.prasadraju@gmail.com>,,5765,Standard Template Library for Python
+2026-11-11T08:51:02Z,goedel,0.2.0,RiskDataScience GmbH,Apache-2.0,1310131,"Finite symbolic logic, exact Goedel coding and qualified metamathematical catalogues"
+2026-11-11T08:51:32Z,stackthread,0.1.0.dev2,The stackthread authors,MIT,726204,"Click any element in your running web app and follow it through your code: component, handler, request, endpoint, database."
+2026-11-11T08:51:37Z,rp-stealth-security,9.0.0,RP LLC,,16692,Active Deception Stealth Trap Security Shield for Web Systems
+2026-11-11T08:54:32Z,differix,0.1.0a1,Tdahqu8,MIT,399768,"The Deterministic, Local-First OS for Autonomous AI Agents."
+2026-11-11T08:54:35Z,deepcontrail-core,0.1.0,EUROCONTROL,EUPL-1.2,48070,"DeepContrail core — torch-free dataset config, spectral bands, composites, splits and metrics."
+2026-11-11T08:54:38Z,deepcontrail-instance,0.1.0,EUROCONTROL,EUPL-1.2,96871,DeepContrail — instance segmentation of contrails: separate contrails in a segmentation map.
+2026-11-11T08:54:38Z,deepcontrail-segmentation,0.1.0,EUROCONTROL,EUPL-1.2,82262,DeepContrail — semantic segmentation of contrails in satellite imagery.
+2026-11-11T08:56:25Z,pynesthesia,2026.11.11.16,"Christina Lin, Daniel Zhang, Jason Wang, Rishi Ajoykumar, Matthew Chen",,63883,A Python package developed by Team Nocturnal.
+2026-11-11T08:56:26Z,hkdataatlas,0.0.1,,MIT,50648142,Hong Kong public API clients grouped by publisher
+2026-11-11T08:57:39Z,oxyo-mcp,1.2.3,"""OMNIAMUS S.R.L."" <contact@oxyo.si>",MIT,22962,"Get $200-tier coding capacity for $100 + $49 Oxyo Pro ($39/mo annual, oxyo.si) — cut Claude Code, OpenAI Codex, Cursor & Gemini quota burn by 60-72% via shared XY Informational DNA & 100% Python-veri…"
+2026-11-11T08:59:03Z,silverhamu-service-client,0.2.0,dhq_boiler and contributors,MIT,13753,"Python client for the silverhamu TCP service with durable writes, transactions and TLS account authentication"
+2026-11-11T09:02:10Z,tokenspeed-triton-windows,3.9.10.post20261028,"Philippe Tillet, Dian Wu",MIT,298274436,A language and compiler for custom Deep Learning operations (vendor release for TokenSpeed)
+2026-11-11T09:03:14Z,plasmasds-fields,0.1.0,,LGPL-2.1-only,107597,Plasma field and magnetic geometry inputs for the plasma-sds synthetic diagnostics.
+2026-11-11T09:04:08Z,medusaai,1.0.1,Tsukiziro,,24804,Interactive CLI for Medusa AI with real-time web search and local neural model support
+2026-11-11T09:05:04Z,acelight,0.0.0a1,"""Tor K. Gjerde"" <tor@ace-high.com>",MIT,17188,Python client for the AceLight CAN protocol
+2026-11-11T09:05:04Z,azoth-engine,0.1.3,azoth contributors,AGPL-3.0-or-later,43068894,"Open, validated, citable chemical engineering calculations"
+2026-11-11T09:05:11Z,manim-hardware,0.1.0,,MIT,23294,State-driven computer architecture primitives for Manim Community
+2026-11-11T09:08:11Z,cordinaten,0.1.0,,,7931,Robot position control helpers for LEGO-style movement
+2026-11-11T09:08:54Z,continuo-contracts,0.1.0,Simone Carolini,Apache-2.0,169778,"Canonical JSON, the Python code projection, the content_hash folds and the fingerprint field declaration that continuo and its producers share."
+2026-11-11T09:10:41Z,swe-dt,0.1.0,,MIT,13683,Client for the hosted SWE-DT API: grade coding-agent patches for SWE-bench Verified and Multimodal against delta-tested labels.
+2026-11-11T09:11:03Z,dory-run,0.1.0,,Apache-2.0,261957,Dory Python SDK
+2026-11-11T09:13:58Z,elune,0.5.0,megawattka <killedbyshinku@gmail.com>,,8904512,A native BSON codec implemented in Rust
+2026-11-11T09:14:08Z,Py-Project-Packager,1.0.0,Fabrice Kopf <contact@fabricekopf.fr>,,6827,Générateur de projet python
+2026-11-11T09:14:24Z,baynoy,0.1.0,AtaForge Inc.,MIT,40222,"Official Python library for the Baynoy API: payments, payment links, invoices, payouts and signed webhooks."
+2026-11-11T09:14:34Z,wbaila,0.1.0,hurui200320,AGPL-3.0-only,31039,WBAILA — What Bird Am I Looking At? A WAILA-style bird and wildlife ID CLI.
+2026-11-11T09:16:05Z,shrinkage,0.3.0,Johan Larsson <johan@jolars.co>,MIT,15888641,Regularized statistical models backed by Rust.
+2026-11-11T09:18:14Z,souq-mcp,0.1.0,SOUQ Autonomous Commerce Swarm <dev@souq-swarm.ai>,MIT,17370,Official 1-line MCP client & Python SDK for SOUQ autonomous micro-service and token-saving engine
+2026-11-11T09:21:28Z,Py-Project-Packagor,1.0.0,Fabrice Kopf <contact@fabricekopf.fr>,,7202,Générateur de projet python
