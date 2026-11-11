@@ -1,0 +1,29 @@
+created_at,package,version,author,license,size,summary
+2026-11-10T23:13:43Z,ucgmsim-gmm,2026.11.1,ucgmsim,AGPL-3.0-or-later,16024055,Native (Rust) reimplementations of empirical ground motion models
+2026-11-11T00:21:22Z,revyl-verify,0.1.0,Revyl <support@revyl.ai>,Apache-2.0,207702,"Cloud browsers, mobile devices and computers from Python with Revyl"
+2026-11-11T00:25:08Z,pretix-parentduties,0.3.0,JuKi Schömberg e.V.,Apache-2.0,191012,pretix plugin: parent duty sign-up during checkout
+2026-11-11T00:25:24Z,solti-sdk,0.1.2,Solti <support@solti.run>,MIT,34549950,Solti Platform Python SDK — schedule and run asynchronous workloads without managing infrastructure.
+2026-11-11T00:28:58Z,solti-cli,0.1.4,Solti <support@solti.run>,MIT,189627,Solti Platform CLI — schedule and run asynchronous workloads without managing infrastructure.
+2026-11-11T00:30:33Z,kp-sync,0.6.0,Juan Domingo Martín <juando.martin@gmail.com>,GPL-3.0-or-later,849749,Synchronize a KeePass database across trusted copies
+2026-11-11T00:30:34Z,noluyo-bot,0.1.0,N'oluyo,MIT,71444,Official Python SDK for the N'oluyo bot platform
+2026-11-11T00:37:03Z,eavesdrop-browser,0.9.1,Daniel Nelson,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",164477,Passive browser JSON capture with a Textual interface
+2026-11-11T00:37:16Z,praxis-sim,0.1.0,Runway,Apache-2.0,206334,"The MuJoCo single-arm and bimanual YAM rigs of Praxis-1 and their evaluation suites, as Gymnasium environments"
+2026-11-11T00:37:19Z,django-encryption-suite,1.0.0,J. Randall Emery,Apache-2.0,2710744,"Encrypted Django model fields with envelope encryption, pluggable KMS backends, and multi-tenancy silo adapters"
+2026-11-11T00:38:20Z,booru-dl,2.1.0,,MIT,174892,Async batch downloader and sync tool for booru boards
+2026-11-11T00:40:02Z,innterpol,0.1.0,cwestend and the original iNNterpol contributors,,93627361,"Neural network interpolation of ATLAS9, MARCS, and PHOENIX stellar model atmospheres"
+2026-11-11T00:40:58Z,ai-limits,0.1.0,jointsome0-lgtm,MIT,62909,"AI subscription usage limits (Claude, Codex) for your desktop panel. Offline by default."
+2026-11-11T00:41:23Z,defectdojo-mcp-server,0.1.0,DefectDojo Inc,BSD-3-Clause,113316,"Official open-source MCP server for DefectDojo. Connect Claude, Cursor, VS Code and other MCP clients to DefectDojo."
+2026-11-11T00:42:08Z,wildweb-mcp,0.1.0,Carel Wentzel <carel.wentzel@gmail.com>,MIT,148485,An extensible MCP server that exposes web scraping as an MCP tool.
+2026-11-11T00:42:34Z,minimindslab-duplicate-line-runs,0.1.0,MiniMindsLab,MIT,6982,Detect consecutive duplicate lines in text and summarize each run with line numbers and counts.
+2026-11-11T00:43:02Z,gragra,0.2.0rc1,Tatsuki Washimi,MIT,5490896,Gravitational perturbation calculation package
+2026-11-11T00:43:10Z,songe,0.0.0.dev0,Sous Labs,Apache-2.0,2621,"Songe, by Sous Labs: a local model that sleeps. Not released yet."
+2026-11-11T00:43:43Z,minimindslab-env-file-diff,0.1.0,MiniMindsLab,MIT,9834,"Deterministically compare two .env-style files and report added, removed, changed, and ignored keys with stable ordering."
+2026-11-11T00:44:52Z,minimindslab-filename-split,0.1.0,MiniMindsLab,MIT,8292,"Parse file names into base name and multi-part extension in a deterministic way, with optional support for known compound extensions like .tar.gz."
+2026-11-11T00:46:04Z,minimindslab-header-normalize,0.1.0,MiniMindsLab,MIT,6816,Normalize text header names into stable machine-friendly field names.
+2026-11-11T00:51:49Z,dixi-spec-kit,1.5.0,,MIT,1527591,"Specification-driven development kit with traceability, verification and Claude Code commands"
+2026-11-11T00:52:05Z,helios-cortex,0.1.0,Helios Team,Apache-2.0,269394,Helios core: shared semantic query and data governance layer
+2026-11-11T00:59:03Z,idside,0.1.0.dev0,ID Side <dev@idside.eu>,LicenseRef-IDSide-Source-Available,573951,"ID Side — AI Consent Infrastructure SDK (opaque tunnel, ACT token, ledger)."
+2026-11-11T01:00:12Z,helios-model,0.1.0,Helios Team,Apache-2.0,80063,"Helios model discovery: harvest, profile, propose and publish semantic models"
+2026-11-11T01:04:58Z,ontlas,0.17.0,jinsoo96 <wlstn010203@gmail.com>,Apache-2.0,8813218,"One space for every kind of data an AI can use: files, documents, vectors, graphs and ontologies, tied to no store, model, domain or platform."
+2026-11-11T01:13:40Z,protoverta,0.3.0,HaianCao <caohaian2005@gmail.com>,MIT,2395524,"A strict, provider-neutral adapter for Chat Completions, Messages, and Responses"
+2026-11-11T01:17:12Z,glixin-tools,0.1.0,,,4129,Lightweight Python client for Glixin AWS Marketplace APIs
