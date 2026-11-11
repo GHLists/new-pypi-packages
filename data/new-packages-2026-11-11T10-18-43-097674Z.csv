@@ -1,0 +1,30 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T09:27:37Z,deepcontrail-opencontrails,0.1.0,EUROCONTROL,EUPL-1.2,34146,Converter from the raw OpenContrails TFRecords to the DeepContrail dataset layout.
+2026-11-11T09:28:56Z,ndlocr-lite,1.4.0.dev0,,,256304,NDLOCR-Lite CLI Application
+2026-11-11T09:31:18Z,teddi-tool,2026.11.3,Jan Reimes <jan.reimes@head-acoustics.com>,MIT,173136,CLI and FastMCP server for the ETSI TEDDI terminology database
+2026-11-11T09:37:23Z,firetail-finchly,0.0.1,,,49089,Python SDK for the Finchly platform
+2026-11-11T09:38:14Z,shipit-deploy,0.2.2,,MIT,54468,"Self-hosted, language-agnostic auto deploy: git push -> build -> health check -> rollback"
+2026-11-11T09:38:36Z,mdpad,0.1.1,neworldemancer,Apache-2.0,4136827,Context-aware scientific writing environment (PoC)
+2026-11-11T09:41:42Z,agentic-scholarone,0.1.0,Martin Monperrus,MIT,86248,Drive ScholarOne / ManuscriptCentral as a journal editor: a Python library for agents and an interactive REPL for humans
+2026-11-11T09:44:12Z,papernym,0.1.3,Xatta-Trone,MIT,416387,Rename academic paper PDFs using scholarly metadata
+2026-11-11T09:44:34Z,adsun,1.0.0,Adsun <support@adsun.io>,MIT,17510,"Official Adsun Python SDK: monetize Telegram bots with sponsored ads (aiogram, python-telegram-bot) and verify Telegram Mini App reward callbacks."
+2026-11-11T09:46:17Z,sendio,1.0.1,send.io,MIT,183132,The official send.io Python SDK
+2026-11-11T09:47:07Z,divvun-hfst,0.1.0,UiT The Arctic University of Norway,LGPL-3.0-or-later,6375616,"Divvun HFST for Python: reads optimized-lookup transducers, pmatch tokenisers and DHFST spellers, and runs lookup, tokenisation and DHFST acceptor lookup natively, giving the results the hfst tools g…"
+2026-11-11T09:47:14Z,parlova,1.0.0,SoleCreations,MIT,21593,"Transcribe audio, video and YouTube from your terminal or from Claude, Cursor and VS Code (MCP server)."
+2026-11-11T09:47:28Z,juglow,0.1.0,JuGloW <support@juglow.my.id>,MIT,1804539,JuGloW Python SDK — API client for the Haijun platform gateway
+2026-11-11T09:48:22Z,haijun-agent-sdk,0.1.0,JuGloW <support@juglow.my.id>,MIT,508215,Python SDK for Haijun Code via platform gateway
+2026-11-11T09:54:12Z,spillgate,0.1.0,Felix Middelhoff,"MIT License Copyright (c) 2026 Felix Middelhoff Permission is hereby granted, free of charge, to an…",176469,Decode untrusted compressed data with mandatory limits (decompression-bomb gate).
+2026-11-11T09:56:59Z,cybertqdm,0.2.1,David Zellhöfer,MIT,24435,A wrapper around tqdm that displays progress on an e-ink display connected over USB
+2026-11-11T09:59:08Z,getopendatafvg,0.2.0,Leonardo Venturoso,MIT,135823,"Extract and visualize open geographic, socio-economic and environmental data for Friuli Venezia Giulia"
+2026-11-11T10:02:26Z,math-step-to-step,0.2.0,VVT,MIT,742775,"Step-by-step solutions for math expressions and equations (1 + 2 x 3 -> ['1 + 6', '7']), plus text-to-symbol helpers (6^6 -> 6⁶)."
+2026-11-11T10:04:27Z,amazing-gmail-mcp,0.1.0,Alejandro Latorre,Apache-2.0,359515,"Read-only MCP server for one Gmail mailbox (gmail.readonly by construction, account pinned, stdio only)."
+2026-11-11T10:04:30Z,peabiru,0.0.1,"André Leite <leite@castlab.org>, Marcos Wasiliew <marcos.wasiliew@gmail.com>, Hugo Vasconcelos <hug…",MIT AND Apache-2.0 AND BSD-3-Clause,5467075,"Multimodal routing on OpenStreetMap and GTFS networks: travel-time matrices and accessibility, with a Rust engine and no Java"
+2026-11-11T10:04:39Z,magicpay,0.1.0,MagicPay <ai@magicpay.ai>,MIT,32028,Official Python SDK for the MagicPay payment API
+2026-11-11T10:05:59Z,modmanifest,0.1.0,CyberStudios,MIT,73531,"Read-only inspection, validation and metadata auditing for game mod packages (The Sims 4, inZOI)."
+2026-11-11T10:08:22Z,better-meeting,0.4.1,Oleksii Moshura <alexey.givenfly.moshura@gmail.com>,Apache-2.0,148588,"Turn a meeting recording into LLM-ready context: timestamped transcript, on-screen text and key screenshots."
+2026-11-11T10:13:25Z,zhongzhuancha-relay-audit,0.2.0,,MIT,79220,Zhongzhuancha relay audit: check whether an OpenAI-compatible relay works and whether its protocol surface looks official
+2026-11-11T10:13:58Z,paga-python,0.1.0,,GPL-3.0,112585,"Async Python SDK for the Paga Engine API - payments, payouts, wallets and financial operations."
+2026-11-11T10:13:59Z,flitsmeister-dot-ble,0.1.0,Daan Vervacke,MIT,77491,Asynchronous Python library for the Flitsmeister DOT over Bluetooth Low Energy
+2026-11-11T10:16:16Z,adag,0.1.1,Jorge Cardona <jorgeecardona@gmail.com>,MIT,203041,"Another DAG: a cached, content-addressed DAG engine for Python data pipelines."
+2026-11-11T10:17:06Z,ur-rtde-py,1.6.5,Anders Prier Lindvig <anpl@mmmi.sdu.dk>,MIT,6668982,A Python interface for controlling and receiving data from a UR robot using the Real-Time Data Exchange (RTDE) interface of the robot.
+2026-11-11T10:18:13Z,gglint,0.1.0,,Apache-2.0,3922211,"Keep the MCP servers of Claude Code, Codex, Cursor and OpenCode in sync"
