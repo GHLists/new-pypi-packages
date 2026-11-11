@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T06:23:16Z,roborun,0.0.1,Shaoxiong Yao,Apache-2.0,10426,"A small runtime between models and robots, so that whatever a model starts can be stopped, checked, and explained."
+2026-11-11T06:33:21Z,webplayercontrol,1.0.2,Christopher Head,GPL-3.0-only,53718,An ASGI application that exposes Media Player Remote Interfacing Specification (MPRIS)-compliant media players over the web.
+2026-11-11T06:36:19Z,qt-commander-mcp,0.9.0,TieFeiyu,MIT,467643,MCP server for live Qt UI introspection and automation
+2026-11-11T06:38:25Z,scmgen,0.10.0,DK <dk.promsoft@gmail.com>,,383603,"SCM-генератор синтетических данных для uplift/ITE/CATE-бенчмарков: явный DAG, полный ground truth, оси патологий данных"
+2026-11-11T06:39:44Z,leafish,0.1.0,Leafish contributors,MIT,1616013,"A pure Python, asynchronous Minecraft Java Edition bot framework inspired by Mineflayer."
+2026-11-11T06:39:59Z,agent-ear,0.2.1,agent-ear contributors,MIT,113872,Give text-only agents an offline ear: audio/video -> a time-indexed audio score.
+2026-11-11T06:40:21Z,larmorx-gpl,0.1.0rc1,Karel Lopez Vilaret,GPL-3.0-only AND Apache-2.0 AND BSD-3-Clause AND HDF5 AND MIT AND MPL-2.0 AND PSF-2.0 AND SunPro AN…,7055643,"Bit-exact Rust replica of tedana's t2smap (multi-echo fMRI), run by larmorx as a separate program; GNU GPL version 3 only"
+2026-11-11T06:40:21Z,larmorx-nc,0.1.0rc1,Karel Lopez Vilaret,LicenseRef-FSL AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND bzip2-1.0.6 AND HPND-sell-varia…,39761888,"Non-commercial use only (FSL Licence): bit-exact Rust replicas of FSL tools (mcflirt, bet, flirt, fast, topup, fslmaths, fslstats, prelude), run by larmorx as a separate program"
+2026-11-11T06:41:31Z,larmorx,0.1.0rc1,Karel Lopez Vilaret,Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND bzip2-1.0.6 AND CC-BY-4.0 AND HDF5 AND MIT AND MPL…,84344072,"Neuroimaging tools reimplemented in Rust, with Python bindings and the original programs' command lines: ANTs/ITK, AFNI, sdcflows and clean-room FSL-compatible tools"
+2026-11-11T06:43:06Z,fasterapi-rs,0.1.0,Seyamalam,MIT,14852339,"FastAPI drop-in powered by Rust — native Hyper/Tokio host, SIMD JSON, radix routing (PyO3)"
+2026-11-11T06:47:09Z,of2su2,1.0.1,Vaibhav Hiwale,GPL-3.0-or-later,135794,"Convert OpenFOAM meshes (incl. snappyHexMesh polyhedra and hanging nodes) into valid SU2 meshes, with SU2-exact quality checks"
+2026-11-11T06:48:30Z,deepreaper,0.0.1,,MIT,1719,DeepReaper: Finds what's dead in your stack and reaps it. Reserved package; see https://deepreaper.com
+2026-11-11T06:48:32Z,openreaper,0.0.1,,MIT,1715,OpenReaper: The open-source reaper for orphaned cloud resources. Reserved package; see https://openreaper.com
+2026-11-11T06:48:43Z,guarddiff,0.1.0,,MIT,987992,"Run the same attack and benign prompts with guardrails off, A and B, and compare what each guard blocks, over-blocks, delays and costs."
+2026-11-11T06:58:04Z,reliablekit,0.1.2,Hou Congcong,MIT,30813,"Reliable LLM/Agent calls: timeout + exponential backoff + sliding-window circuit breaker, with retry-storm protection as a first-class citizen."
+2026-11-11T07:01:15Z,voice-hci-lab,0.1.0,Kuncham Venkata Satya Manikanta <mk1343093@gmail.com>,MIT,149387,"Three open HCI experiments in speech-driven computer use: speculative voice-to-action, streaming disfluency patching, and VoiceHCI-Bench."
+2026-11-11T07:01:24Z,pikapro,0.1.0,,MIT,21102241,"A fast, deterministic Pokémon battle simulator (Gen 9, VGC, Pokémon Champions) with a reinforcement-learning environment"
+2026-11-11T07:04:49Z,scanprivacy,0.1.1,Fabrizio Salmi,AGPL-3.0-only,955020,"URL in, findings graph + remediation out. Passive, legit-only EU privacy conformance engine."
+2026-11-11T07:06:11Z,dadl-quantum,0.0.2,,MIT OR Apache-2.0,28399,Detector-Aware Data Layer for quantum optics experiments
+2026-11-11T07:06:17Z,syncvey,0.11.0,Hitoshi Tabata,MIT,24819797,Self-hosted AWS inventory and tfstate drift detection ledger
+2026-11-11T07:09:23Z,engramkeep,0.5.1,The Engramkeep Contributors,"MIT License Copyright (c) 2026 The Engramkeep Contributors Permission is hereby granted, free of ch…",507901,"Local-first, Markdown-native persistent memory for AI coding agents."
+2026-11-11T07:11:25Z,cpm-approx,0.1.0,Dronakurl,MIT,533730,"Analytical VaR and expected shortfall of credit portfolios in the multi-factor Merton model (multi-factor adjustment, Risk 2004)"
+2026-11-11T07:12:03Z,dpolcat,0.2.0.dev1,Luke McQuade <2824165+lukesdm@users.noreply.github.com>,Apache-2.0,25864,Semantic categorization of dual-polarimetric synthetic aperture radar (SAR) imagery.
+2026-11-11T07:12:32Z,vexpath-core,0.1.0,Akmal Khan,Apache-2.0,435578,"Analysis core: SBOM handling, advisory matching, reachability, VEX, attestation and policy."
+2026-11-11T07:12:57Z,vexpath,0.1.0,Akmal Khan,Apache-2.0,91885,"Command-line tool: generate SBOMs, match advisories, analyse reachability and emit signed VEX."
+2026-11-11T07:14:03Z,commerge-cpp,2.1.0,Hogyun Kim,BSD-3-Clause,141450141,"C++ core of Commerge (IJRR 2026): communication-efficient multi-robot map merging, with Python bindings"
+2026-11-11T07:15:02Z,klineshare,0.2.7,KlineShare,MIT,122827,Official Python SDK for the KlineShare market data API
