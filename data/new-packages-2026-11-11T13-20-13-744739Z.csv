@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T12:22:06Z,colab-nb-runner,0.1.1,,MIT,29752,"Run a Jupyter notebook cell by cell in a Google Colab CLI session, surviving dropped connections."
+2026-11-11T12:22:51Z,session-jupyter,0.1.0,Petras Vestartas <petrasvestartas@gmail.com>,MIT,29418,Show session geometry in Jupyter notebooks with the session viewer
+2026-11-11T12:23:15Z,aixand-carrier-mcp,0.1.0b0,,Apache-2.0,2564225,Durable addressed messaging with an async Python SDK and MCP tools
+2026-11-11T12:26:36Z,Make-Py-Project,1.0.1,Fabrice Kopf <contact@fabricekopf.fr>,,9117,Générateur de projet python
+2026-11-11T12:27:13Z,megatek-backup,0.0.0,Megatek S.r.l.,,2025,Name reserved by Megatek S.r.l. The real package is published on Megatek's private registry only.
+2026-11-11T12:27:14Z,megatek-m365,0.0.0,Megatek S.r.l.,,2008,Name reserved by Megatek S.r.l. The real package is published on Megatek's private registry only.
+2026-11-11T12:29:06Z,hermes-ops-kit,0.12.0,,,2950887,"Operational and security plugin for Hermes Agent: provider routing, secret and key lifecycle, preflight plugin scanning, MCP auditing, cost governance, diagnostics, and remote assistant delegation."
+2026-11-11T12:29:10Z,enthalpy,0.1.0,Jan Haase <j.haase@rub.de>,GPL-3.0-only,230991,A Python framework for global analysis of molecular binding equilibria from titration experiments.
+2026-11-11T12:30:18Z,flowhawk-sdk,0.1.0,Flowhawk <hello@flowhawk.dev>,Apache-2.0,71034,OpenTelemetry Python SDK distribution with business-flow tagging and remote-controlled collection
+2026-11-11T12:30:35Z,besh,0.1.0,cqian-cs <cqian.cs@qq.com>,MIT,105645,Beacon Shell：让 Agent 把计算任务交给闲置算力（手机 Termux / 云 IDE / 云 Notebook）
+2026-11-11T12:34:40Z,edrsi,0.1.0,"Vladimir Grigoriyevich Spokoiny, Leonid Alekseyevich Samus",GPL-3.0-only,44781,Structure-adaptive efficient dimension reduction by average derivative: the single-index model
+2026-11-11T12:34:42Z,edrmi,0.1.0,"Vladimir Grigoriyevich Spokoiny, Leonid Alekseyevich Samus",GPL-3.0-only,45917,Structure-adaptive efficient dimension reduction by average derivative: the multi-index model
+2026-11-11T12:35:51Z,perche,0.1.0,Andrea Acanfora <andreaacanfora95@gmail.com>,MIT,432560,git blame for data: find out which source rows produced each row of a SQL query
+2026-11-11T12:36:37Z,stratagent-cli,0.10.0,,MIT,508228,StratAgent: a platform-agnostic agent workspace architect with reviewed skills and MCP provenance
+2026-11-11T12:38:17Z,sfwapi,0.1.0,,MIT,8089,Official Python client for the SFW API: nudity detection and image moderation with four content levels
+2026-11-11T12:38:34Z,mrkhanbhai-python-dev-utils,0.3.1,MrKhanBhai,"MIT License Copyright (c) 2026 MrKhanBhai Permission is hereby granted, free of charge, to any pers…",27168,"Small, dependency-free file utilities for Python developers"
+2026-11-11T12:39:37Z,radloc,2.0.0,Hogyun Kim <hg.kim@inha.edu>,BSD-3-Clause,33460,"RadLoc: radar global descriptor, place recognition and 3-DoF registration (IROS 2026)"
+2026-11-11T12:39:38Z,sonar-context,2.0.1,Hogyun Kim <hg.kim@inha.edu>,BSD-3-Clause,34976,Sonar Context: imaging-sonar place recognition and loop closing (ICRA 2023)
+2026-11-11T12:39:41Z,referee-radar,2.0.0,Byunghee Choi,BSD-3-Clause,34502,ReFeree: radar place recognition from features and free space (IEEE RA-L 2024)
+2026-11-11T12:40:44Z,oxyde-postgres-core,0.1.0.post1,Nikita Ryzhenkov <nikita.ryzhenkoff@gmail.com>,MIT,232505379,PostgreSQL 18+ Rust core for Oxyde for PostgreSQL
+2026-11-11T12:41:55Z,cli-backup,0.1.0,,MIT,72719,Host backup CLI for database snapshots and directory archives
+2026-11-11T12:42:57Z,oxyde-postgres,0.1.0.post1,Nikita Ryzhenkov <nikita.ryzhenkoff@gmail.com>,"MIT License Copyright (c) 2025 Nikita Ryzhenkov Permission is hereby granted, free of charge, to an…",267413,Type-safe asynchronous ORM for PostgreSQL 18+ with a Rust core
+2026-11-11T12:46:25Z,pkgreach,0.0.3,Thor Whalen,MIT,74245,"Track how your packages are really used across PyPI, npm, crates.io and GitHub: downloads against a noise floor, dependents, stars; a weekly GitHub Action keeps the history and publishes a report."
+2026-11-11T12:48:23Z,py-mac-speech-analyzer,0.2.0,,MIT,39817,On-device speech transcription for macOS via Apple's SpeechAnalyzer
+2026-11-11T12:49:33Z,cybertek_authz_poc,1.0.0,,,1128,
+2026-11-11T12:52:10Z,ozdenui,0.1.0,Bugra Ozden,Apache-2.0,2727037,"Modern desktop windows in plain Python: the objects and components of basic.js. Only Python, no JavaScript or HTML"
+2026-11-11T12:55:38Z,team-a-games-package,0.1.0,,,62786,A collection of Python mini-games
+2026-11-11T12:56:15Z,shardguard,1.0.0,Jonas Reiter,MIT,10504,Cap the GPU memory of PyTorch at the GPU shards of a Slurm job
+2026-11-11T12:57:03Z,uebersicht-job-overview-notifier,1.1.0,paraversal <104731964+paraversal@users.noreply.github.com>,GPL-3.0-or-later,107087,Show progress cards for long-running Python jobs on your macOS desktop via the Job Overview Übersicht widget.
+2026-11-11T12:57:07Z,switchfile-sdk,0.1.0,"""Aura UG (haftungsbeschränkt)"" <hello@switchfile.io>",MIT,48890,"Python SDK for the switchfile file conversion API. Drop-in replacement for the CloudConvert v2 SDK, plus a one-call convert() helper."
+2026-11-11T12:57:13Z,xtr-ai,6.6.0,Xterr,MIT,104286,"Named language-model platforms and agents built on pydantic-ai, configured once and injected by name, with conversation stores."
+2026-11-11T12:57:17Z,xtr-ai-orm-conversation-store,6.6.0,Xterr,MIT,20482,"Agent conversations stored in a relational database through xtr-orm, for xtr-ai."
+2026-11-11T13:02:10Z,zgw-apis-client,0.1.0,Maykin <support@maykinmedia.nl>,MIT,12531,API Client library for the ZGW APIs standard.
+2026-11-11T13:04:40Z,map-lambda,0.1.0,Tom White <tom.e.white@gmail.com>,Apache-2.0,20865790,Fan out a Rust function to a thousand AWS Lambdas from Python in about a second.
+2026-11-11T13:05:58Z,cctimeboost,0.1.0,Rahul Goswami,MIT,114136,Continuous-time boosted trees with time-varying Cox-style relative risk (nested case-control boosting).
+2026-11-11T13:07:12Z,pxlogic-agent,0.1.0rc1,L-X-Yao,MIT,40564,"PX Logic logic-analyzer toolkit for AI agents: capture, frequency measurement and UART/SPI/I2C decoding via the pxlobster CLI"
+2026-11-11T13:08:18Z,tilealchemist,1.0.0,,MIT,80584,"Builds PMTiles layers from an OpenStreetMap-based PMTiles archive, one pluggable per-tile profile per layer."
+2026-11-11T13:11:33Z,hmleqx,0.2.0,,MIT,717266,Hancom equation script parser and LaTeX converter powered by Rust
+2026-11-11T13:12:05Z,uprime-piv,0.9.1,Omri Ram,GPL-3.0-only,12326143,Open-source velocity field and turbulence analysis for PIV and CFD data
+2026-11-11T13:13:38Z,stalecrate,0.1.0,Mohib Shaikh <mohibuddin9@gmail.com>,MIT OR Apache-2.0,104208,Tell your coding agent which Rust crates changed after its training cutoff
+2026-11-11T13:13:38Z,usd4,0.0.1,USD4 Protocol,MIT,2298,Official Python SDK for USD4 Protocol (HTTP 402 Zero-Fee AI Agent Payment Network) - Reserved Package
+2026-11-11T13:13:42Z,usd4-sdk,0.0.1,USD4 Protocol,MIT,2366,Official Python SDK for USD4 Protocol (HTTP 402 Zero-Fee AI Agent Payment Network) - Reserved Package
+2026-11-11T13:16:12Z,tilealchemist-pipeline,1.0.0rc1,,MIT,67664,"Builds tilealchemist layers from a remote PMTiles archive, split across workers and merged."
+2026-11-11T13:18:38Z,tiledistillery,1.0.0rc1,,MIT,36178,"Builds vector-tile layers from OSM extracts with tilemaker, split across workers and merged."
+2026-11-11T13:19:15Z,whutestin,1.0,jake <afandavictory@126.com>,,2910,这是一个测试demo包
+2026-11-11T13:19:22Z,yolo-libre,0.0.1,,MIT,1788,Alias for libreyolo. Install libreyolo directly: pip install libreyolo
