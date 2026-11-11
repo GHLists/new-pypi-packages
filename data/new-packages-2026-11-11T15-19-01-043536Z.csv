@@ -1,0 +1,54 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T13:26:17Z,tripcord,0.1.0,,Apache-2.0,35177305,Catch malicious coding-agent config before it runs
+2026-11-11T14:20:25Z,speakable,1.0.0,Divyajeet,MIT,22452,Text normalization for voice agents - turn LLM output into text a TTS engine speaks correctly.
+2026-11-11T14:23:54Z,sysml2tikz,0.0.2,Jon R. Fox,MPL-2.0 OR LPPL-1.3c,391641,SysML v2 notation for LaTeX/TikZ: a .sty notation layer plus a model-to-figure pipeline
+2026-11-11T14:28:18Z,zclick,0.1.1a1,LIghtJUNction,MIT,7844655,Rust and zclap based command line interfaces for Python
+2026-11-11T14:30:53Z,pyDeciders,0.1.0,"Sanay Daptardar, Jialiang Cao, Ryan Jiang, Yi Fei","GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",88092,"Roll dice, flip coins, and spin a wheel, with tiny terminal animations."
+2026-11-11T14:32:05Z,aetheridentity,2.0.0,Samir Baladi <gitdeeper@gmail.com>,MIT,1982787,Reference implementation of the AetherIdentity falsification-first identity architecture
+2026-11-11T14:32:20Z,kinepet,0.4.2,Christian Salomonsen,AGPL-3.0-only,5321633,TAC-based nonlinear fitting for dynamic PET two-tissue compartment models
+2026-11-11T14:32:28Z,azup-cli,2.7.1,,MIT,98708,"Install, update and check your Azure engineering toolbox (Azure CLI, Az PowerShell, Graph, Bicep ...) on Windows, macOS and Linux."
+2026-11-11T14:32:59Z,flyplays,0.1.0,alextitonis,MIT,64601,"A real fruit fly brain (the complete 166,700-neuron connectome) plays games: Flappy Bird, Doom, any web game, or your own. Nothing trained."
+2026-11-11T14:35:36Z,rulex-engine,1.0.0,CoverStack Technologies <devops@coverstack.in>,MIT,47249132,Headless spreadsheet engine to compile and evaluate Excel workbooks.
+2026-11-11T14:36:40Z,assert-one-assert-per-test,20261111143626,10U Labs <dev@10ulabs.com>,Apache-2.0,67929,"CLI tool to assert that each test function, in any supported language, contains exactly one assertion"
+2026-11-11T14:38:03Z,pac-vector,0.1.0,,,72218,"Local stdio MCP server for SVG editing via in-memory virtual documents, with a live browser preview"
+2026-11-11T14:38:52Z,districtgenerator,1.0.0,Joel Schölzel,MIT License,21860000,Energy profile generation and optimization of districts
+2026-11-11T14:40:01Z,mavlab-logbook-client,0.1.1,,GPL-3.0-only,42412,"Download and upload drone flight logs of a MAVLab flight log database (Paparazzi, ArduPilot, PX4, Betaflight)"
+2026-11-11T14:40:08Z,factguard-ai,2.0.0,Santosh Kashyap,MIT,8442,Real-time web intelligence and multi-LLM fact-checking Python SDK
+2026-11-11T14:43:44Z,adaptive-swarm-pipeline,3.0.0,khoacat12345,MIT,784208,Verification-first autonomous multi-agent coding harness for OpenCode
+2026-11-11T14:44:03Z,novasolver-studio,0.7.6,NovaSolver <info@novasolver.jp>,GPL-3.0-or-later,77980808,"Desktop CAE with built-in FEM, a browser GUI and an MCP server"
+2026-11-11T14:44:34Z,nyu-wordle-teamb,0.1.0,"YIHYUN NAM, SALLY HEGAB, SCOTT KIM, SAAJID ROHMAN",,110421,A NYU wordle.
+2026-11-11T14:46:08Z,phipict,0.1.0,Jannis Becktepe <jannis.becktepe@tu-dortmund.de>,Apache-2.0,97627358,Differentiable multi-block PISO MHD solver for PyTorch
+2026-11-11T14:47:09Z,kunla,0.0.1,Spiking Labs,Apache-2.0,13861,"Kunla CLI for Python users: log work, claim tasks and run any command-line agent against your team's Kunla record of work."
+2026-11-11T14:56:03Z,estivation,0.0.0,Julian Schumacher,,2160,reserve project
+2026-11-11T14:56:59Z,estiv,0.0.0,Julian Schumacher,,2090,reserve project
+2026-11-11T14:57:12Z,ketjet,0.1.0,Mustakim Ahmed Hasan,Apache-2.0,157514,"A high-performance differentiable quantum statevector simulator, usable as a PennyLane device."
+2026-11-11T14:57:27Z,aestivation,0.0.0,Julian Schumacher,,2184,reserve project
+2026-11-11T14:58:05Z,trytoncommunity-inbound-email-imap,8.2.0,Tryton Community,GPL-3,43747,Inbound Email Module for Tryton
+2026-11-11T14:58:15Z,RCControl,1.0,E Smirthwaite,MIT,26744,Library to make it easier to wirelessly connect a Raspberry PI Pico 2 W using Bluetooth Low Energy or WiFi making use of websockets
+2026-11-11T14:58:18Z,apis-advanced-search,0.0.1,Saranya Balasubramanian,MIT,71824,An intuitive querybuilder intefaces for prosopographical projects built on apis-core-rdf
+2026-11-11T14:58:18Z,turbogen-mcp,0.1.1,Turbogen <hello@turbogen.app>,MIT,19503,"MCP server for Turbogen: Seedance, Kling, Veo, Nano Banana Pro and more - images, video and audio, pay-as-you-go"
+2026-11-11T14:59:17Z,headless-api,0.1.0,Hive Solutions Lda.,"Apache License, Version 2.0",23624,Headless API Client
+2026-11-11T15:00:15Z,vectorvault-engine,0.1.0,Gabi Ulianitski <gabi@example.com>,,25855,VectorVault: A database migration and schema version-control framework for AI vectors (The Liquibase/Flyway for vector dimensions).
+2026-11-11T15:00:44Z,pumpwood-deploy-ingress-api-gateway,0.0.2,André Andrade Baceti,BSD-3-Clause License,32899,Package to assist deploy Pumpwood API Gateway on K8s
+2026-11-11T15:00:51Z,cad2d-ir-native,0.17.21,neka-nat <nekanat.stock@gmail.com>,MIT,4190340,"Native (Rust) accelerator for cad2d-ir: typed IR, DXF writer and JWW import (experimental)"
+2026-11-11T15:01:29Z,sphericolor,0.1.1,"Julius Rauscher, Johannes Fuchs, Daniel A. Keim, Frederik L. Dennig",MIT License Copyright (c) 2026 University of Konstanz and the SpheriColor authors Permission is her…,2609913,Dataset-specific color mappings for spherical geographic data
+2026-11-11T15:03:34Z,ant-bms-ble,0.1.0,ant-bms-ble contributors,MIT,73496,"Read-only BLE client, live TUI dashboard and complete protocol spec for ANT BMS (the 7E A1 protocol), reverse-engineered from the official app and verified on real hardware"
+2026-11-11T15:04:33Z,mida-python,1.1.0,"""Mida.so"" <hello@mida.so>",MIT,13505,Mida server-side A/B testing and feature flags for Python
+2026-11-11T15:04:45Z,pagaia,0.0.0,João Faria <joao.faria@unige.ch>,,6251,Python tools for the analysis of Gaia data
+2026-11-11T15:06:34Z,snapcall,0.1.0,AI Anytime,Apache-2.0,886815,"Build better decision models. Open-source toolkit to train, evaluate and deploy calibrated Jev-style System One decision models. CLI + dashboard."
+2026-11-11T15:07:09Z,meteofrance-montagne,0.1.0,François AIZPURU,MIT,107876,Async client for the Météo-France avalanche bulletins and snow observations
+2026-11-11T15:07:29Z,rydhm,0.0.1,Rydhm,MIT,2177,Reserved for the official Rydhm Python SDK (coming soon).
+2026-11-11T15:07:37Z,rakko-orm,1.0.0a0,ropmyung,Apache-2.0,1503299,An independent async Python ORM with typed fields and PyPika-powered queries
+2026-11-11T15:09:00Z,netinfra-phfree100-category-b-2076b,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,117458,Technical network verification and high-availability endpoint registry for PHFree100 - Category Bonuses Silo Push
+2026-11-11T15:09:12Z,arc56-generated-joe-p-a79a53f6,1.2.2026111115,joe-p,,583867,Generated ARC-56 Algorand smart-contract clients for joe-p/algokit-py.
+2026-11-11T15:10:16Z,arc56-generated-d13co-dfd19885,1.1.2026111115,d13co,,68950,Generated ARC-56 Algorand smart-contract clients for d13co/nfd-ghost-sdk.
+2026-11-11T15:11:15Z,pulumi-journaling,3.274.1.post1,Pulumi Corporation and contributors,Apache-2.0,21755,"Independent Pulumi CLI fork with hardened, recoverable journaling for every DIY storage backend"
+2026-11-11T15:11:20Z,arc56-generated-d13co-98cbe50f,1.1.2026111115,d13co,,164567,Generated ARC-56 Algorand smart-contract clients for d13co/puya-ts-utils.
+2026-11-11T15:11:39Z,llm-tool-jina,0.1.0,Radoslaw Stachowiak,MIT,42914,"Jina Reader tools (read a URL, search the web) for Simon Willison's LLM"
+2026-11-11T15:11:42Z,status302,1.5.0,Status302,MIT,187303,"Official Python SDK for the Status302 API: typed REST client, realtime stream client and webhook verification."
+2026-11-11T15:12:07Z,tabsdata-agentkit,2.3.0,Tabsdata Inc.,Tabsdata License,280089,"Tabsdata for agents: agent mode, capabilities, skills and the coding-agent setup of tdk."
+2026-11-11T15:12:24Z,arc56-generated-d13co-e8e012bf,1.1.2026111115,d13co,,55583,Generated ARC-56 Algorand smart-contract clients for d13co/abel-ghost-sdk.
+2026-11-11T15:13:56Z,pyprocesses,0.0.1,Gardenio Dev <gardenio@gardenio.dev>,MIT,4127,Placeholder release reserving the pyprocesses package name.
+2026-11-11T15:15:11Z,pumpwood-deploy-static-pages,0.0.1,André Andrade Baceti,BSD-3-Clause License,13190,Package to assist deploy Pumpwood static pages on K8s
+2026-11-11T15:15:27Z,mtg-carddb,0.1.0,,MIT,224224,Indexed Magic: The Gathering card queries using set operations
+2026-11-11T15:17:00Z,lazyexport,0.1.0,,"The MIT License (MIT) Copyright (c) 2018 Alex Grönholm Permission is hereby granted, free of charge…",11560,Lazy package exports from ordinary import declarations
