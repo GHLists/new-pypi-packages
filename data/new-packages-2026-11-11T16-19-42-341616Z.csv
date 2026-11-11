@@ -1,0 +1,40 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T15:19:08Z,noosh24,0.1.0,,MIT,41199,Official Python client for the Noosh24 Open API
+2026-11-11T15:19:30Z,esp-riscv-trace,0.2.0,Espressif Systems,Apache-2.0,222140,Decoder for RISC-V hardware instruction trace captured on Espressif chips
+2026-11-11T15:19:52Z,sf-profile-pruner,1.10.9,Lorenzo D'Aleo <turbolino.dev@proton.me>,AGPL-3.0-only,77308,"Salesforce Profile dry-run pruner: removes every reference to metadata that does not exist in the target org, without ever modifying the org unless --deploy-on-success."
+2026-11-11T15:24:00Z,ledgerdata,0.1.0.dev6,Luke Gloege <lucas.gloege@yale.edu>,,57198,Python client for LEDGER database
+2026-11-11T15:24:01Z,fastfloret,0.11.0,spiqueras <piqueras.santi@gmail.com>,MIT,5565481,fasttext + floret Python bindings
+2026-11-11T15:24:04Z,ghostbuild,0.1.0,LocalGhosters,MIT,112746,"Reproducible build verification: build it twice, know what changed."
+2026-11-11T15:25:52Z,antd-mcp,0.1.0,Autonomi,MIT OR Apache-2.0,70956,MCP server that lets AI agents store and fetch data on the Autonomi network through the antd daemon
+2026-11-11T15:26:20Z,loracraft,0.1.0,An Long,Apache-2.0,1074889,"LoRA training workbench with dataset, run and result management"
+2026-11-11T15:29:35Z,agentspm,0.1.1,agentspm maintainers,Apache-2.0,471950,"Agent Security Posture Management blueprint: vendor-neutral asset schema, OPA policy pack, read-only collectors, evidence-grade reporting. Posture, not enforcement."
+2026-11-11T15:33:07Z,cdr-utilities,1.0.0,"Vicky Slonosky <VickyS08@users.noreply.github.com>, Henry Balen <balen@users.noreply.github.com>",GPL-3.0-or-later,55186,Python functions to assist with climata data rescue projects
+2026-11-11T15:35:26Z,activating-expertise,0.1.0.dev0,Stuart Nelson,AGPL-3.0-only,776471,CLI for AI team sessions — collaborative reasoning with expert personas
+2026-11-11T15:37:01Z,oriel-vnc,0.1.0,YordiLorenzo,Apache-2.0,23176,"MCP server that operates any desktop over VNC: screenshots, clicks and keys."
+2026-11-11T15:37:05Z,sppricer,0.2.1,,MIT,39916,"Monte Carlo pricing and risk for structured products (autocallables, reverse convertibles)"
+2026-11-11T15:39:19Z,dataclass-values,0.1.0,Zach Yamaoka,MIT,21751,"Value(1.2, ""m"", low=0.6, high=1.85, source=""...""): a float, int, str or tuple that remembers where it came from, plus a Space derived from any dataclass of them."
+2026-11-11T15:39:22Z,inference-control-plane,0.1.0,inference-control-plane contributors,Apache-2.0,57365,Reusable inference observability and optimization control plane
+2026-11-11T15:39:39Z,tktl-inbound-webhooks,0.0.0,,,1736,
+2026-11-11T15:46:17Z,volsurface-lab,0.2.1,,MIT,69215,"Implied volatility surface construction: SVI/SSVI fitting, arbitrage checks, Dupire local vol"
+2026-11-11T15:46:27Z,fastapi-djauth,1.4.0,Carlos Daniel Visbal Atencia,MIT,234068,"Usuarios, roles, permisos y administración para FastAPI: sesión o token Bearer, seguro por defecto."
+2026-11-11T15:48:11Z,skipole-data,0.1.0a2,,Apache-2.0,21631,Python client for Skipole licensed-data discovery and customer-approved purchasing
+2026-11-11T15:50:38Z,unref,0.0.1,Yossi Rozantsev,MIT,59477,Find unreferenced Python code
+2026-11-11T15:51:18Z,netbox-iec62443,0.1.0,Packetflow,Apache-2.0,294164,"IEC 62443 zones, conduits and flows, Purdue levels, an access map and a zone register for NetBox"
+2026-11-11T15:56:56Z,AITW_material_optimization,0.1.0,,,6475363,AITW: Surrogate-based optimization of biocomposite materials
+2026-11-11T15:57:19Z,whitecircle-com,0.0.1,White Circle,MIT,1406,Reserved by White Circle (whitecircle.com). Not installable.
+2026-11-11T15:57:20Z,whitecircle-sdk,0.0.1,White Circle,MIT,1407,Reserved by White Circle (whitecircle.com). Not installable.
+2026-11-11T15:59:06Z,diffpy.cmirietveld,0.1.0,"Simon Billinge <sbillinge@ucsb.edu>, Caden Myers <cjm2304@columbia.edu>",,2582179,A pack for diffpy.cmi that allows it to do Rietveld refinement of powder diffraction data
+2026-11-11T16:00:46Z,pytinyfiledialogs,1.0.1,,Zlib,170613,"Native OS dialogs for Python: message box, file open and save, folder, input, color, notification, beep."
+2026-11-11T16:02:23Z,sunnyday-dd,1.0.0,Devendra Desaine,MIT,2424,Weather forecast data.
+2026-11-11T16:06:04Z,braven-identity,0.1.0,,,27894,"The one credential store the Braven CLI, watcher and SDK read"
+2026-11-11T16:07:29Z,mihrab-methods,1.3.2,Hassan El Ghamri,MPL-2.0,199937,"The prayer-time authorities' own calculation methods, each reproducing its published timetable to the minute: a port of the mihrab-methods library."
+2026-11-11T16:07:54Z,lme4,2.1.0a1,,GPL-2.0-or-later,28213885,"Linear, generalized linear and nonlinear mixed-effects models: a faithful Python transcription of the R package lme4 with a C++ (Eigen) backend"
+2026-11-11T16:08:40Z,netinfra-kyat9-affiliate-glob-xtqz6,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,42773,Technical network verification and high-availability endpoint registry for Kyat9 Affiliate - Global Social Entity Silo Blast
+2026-11-11T16:09:55Z,bash_agentic_terminal,0.1.0,,,5286,An mcp which adds terminal capabilites to run agent
+2026-11-11T16:11:12Z,openrois-adapter-kachaka,0.1.0a1,OpenRoIS Community,Apache-2.0,122781,OpenRoIS adapter for the Preferred Robotics Kachaka: canonical RoIS components for the robot
+2026-11-11T16:11:33Z,marketrisk-lab,0.4.1,,MIT,57103,"VaR/ES estimation and backtesting, and robust portfolio construction"
+2026-11-11T16:14:45Z,ur-arm-client,0.1.0,,,8761,Python client for Universal Robots arms over RTDE
+2026-11-11T16:15:39Z,talewerk,0.0.1,Avneesh,MIT,14139,"An AI agent that turns a simple idea into a finished video: script, storyboard, visuals, voice and edit."
+2026-11-11T16:17:11Z,tscp,0.1.0.dev0,Roberto Neglia,MIT,217143,"Conformal prediction for time series, in PyTorch"
+2026-11-11T16:17:26Z,opengearwire,0.3.0,Lucas Romanenko,MIT,154700,"Python library for openGear frames (Ross OGX) over the openGear Protocol, TCP 5253: frame health, every card's parameters, pushed changes"
+2026-11-11T16:18:21Z,cp-pde,1.0.0,cpadlab,MIT,71262,"Pattern Discovery Engine: A unified library for pattern discovery, anomaly detection, and conformal calibration."
