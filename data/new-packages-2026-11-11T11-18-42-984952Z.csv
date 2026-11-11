@@ -1,0 +1,58 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T09:52:00Z,transwarp-cosmic,1.2.5,,,53531706,"Document parsing with OCR, layout analysis, and table and formula recognition"
+2026-11-11T10:19:07Z,django-admin-remote,0.1.0,Krushn Dayshmookh,MIT,50593,Read and edit a remote Django admin site over HTTP by parsing its stock HTML. Nothing to install on the server.
+2026-11-11T10:20:04Z,paramfunc,0.0.1,"""light.seeker"" <light.the.seeker@gmail.com>",MIT,8936,Decorator and class for easy argument conversion and validation.
+2026-11-11T10:21:58Z,autom-haystack,0.1.0,Autom <contact@autom.dev>,MIT,14621,"Haystack integration for Autom: live Google, Bing, Brave, DuckDuckGo and Yahoo results for RAG pipelines and agents."
+2026-11-11T10:22:05Z,crewai-autom,0.1.0,Autom <contact@autom.dev>,MIT,11807,"CrewAI tool for Autom: live Google, Google News, Bing, Brave, DuckDuckGo and Yahoo results."
+2026-11-11T10:22:11Z,crewai-piloterr,0.1.0,Piloterr <contact@piloterr.com>,MIT,13987,CrewAI tools for Piloterr: Google search and website scraping with JavaScript rendering and unblocking.
+2026-11-11T10:22:12Z,rubber-duck-courtroom,0.1.0,Team Smart Monkeys,,45971,A humorous courtroom where Python errors go on trial
+2026-11-11T10:22:20Z,gpt-researcher-autom,0.1.0,Autom <contact@autom.dev>,MIT,9989,"GPT Researcher retriever plugin for Autom: live Google, Bing, Brave, DuckDuckGo and Yahoo results."
+2026-11-11T10:23:02Z,osmotic-data-filter,0.1.8,Jana Elkasrawy <kasrawymahmoud@gmail.com>,MIT,12702,"A physical chemistry-inspired, safe, and hybrid data bias handling framework"
+2026-11-11T10:24:09Z,tinyeval-cli,0.11.0,,MIT,19886,Test your Python app's AI calls with evals in a short bash file.
+2026-11-11T10:29:18Z,sol-pi-axi,0.1.0,,MIT,75933,Agent-facing setup command for the SoL-Pi Pi extensions
+2026-11-11T10:33:04Z,agent-host-mcp,0.1.1,,,295688,"Connect Codex sessions, remote execution, and project knowledge to MCP clients."
+2026-11-11T10:34:17Z,rapidoc,0.1.0,Mrinmoy Majumdar <mrin9@yahoo.com>,MIT,371697,RapiDoc for Python web frameworks: serves an interactive OpenAPI reference (<rapi-doc>) from a FastAPI or Starlette app
+2026-11-11T10:34:48Z,sipling,0.2.0,sipling contributors,MIT,48968,Be the phone: scriptable SIP testing for voice agents
+2026-11-11T10:35:22Z,django-admin-grove,0.1.0,Fabian Braun,,17000,"A forest-green theme for Django admin, with light, dark, and print styles."
+2026-11-11T10:35:34Z,otoscope,0.1.0,Otoscope contributors,MIT,43621,Offline-first regression tests across the real voice call boundary
+2026-11-11T10:36:03Z,igaming-tools,0.1.0,iGaming Tools <hello@i-gaming.tools>,MIT,32400,"Python client for the iGaming Tools API: slots, providers, regulators, news, jobs and search demand"
+2026-11-11T10:36:05Z,pyPhasesRecordloaderBidsDICOM,0.1.1,,,11049,pyPhases record loader for BIDS DICOM exports from SleepHarmonizer
+2026-11-11T10:36:11Z,ragtrail,0.1.0,Ariel A.,MIT,124612,Trajectory cache for agentic RAG: reuse the retrieval paths your agent already solved.
+2026-11-11T10:36:20Z,static-analyzer,2.0.0,Rashid Dewewe <shantidewewe35@gmail.com>,Apache-2.0,63234,Universal Static Malware Forensics Analyzer & Rapid Triage Tool
+2026-11-11T10:36:29Z,qubrics-sending,2.0.0,,MIT,121364,Generated Python client for the Qubrics Sending API.
+2026-11-11T10:38:22Z,nmafc,0.2.0,"Osamudiamen Edogun, Joshua Obigwe",PolyForm-Noncommercial-1.0.0,421705,Neuromorphic Memory Architecture for Conversational AI - A biologically-inspired state-based memory wrapper for LLM agents
+2026-11-11T10:39:20Z,samvada,20261111.1,Cong Zhang <13283869+congzhangzh@users.noreply.github.com>,MIT,147405,"Samvada: a voice and the habits of a language tutor for AI agents, offline first"
+2026-11-11T10:41:22Z,compose2role,0.1.0,Marco D'Aleo,GPL-3.0-or-later,146532,Generate Ansible roles from Docker Compose projects
+2026-11-11T10:42:50Z,freeastroapi,0.2.0,FreeAstroAPI,Apache-2.0,304300,Official Python SDK for FreeAstroAPI
+2026-11-11T10:43:25Z,gymnasium-mjx,0.1.0,Yann Berthelot,MIT,41001,"Gymnasium's v5 MuJoCo tasks, unchanged, stepped in JAX by MJX."
+2026-11-11T10:45:08Z,alphafold3-open,3.0.5.post3,,"Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR U…",17977232,
+2026-11-11T10:45:30Z,discomposer,0.1.0,Cane,MIT,34988,"Validate, fetch and send Discord message templates as Components V2 with discord.py."
+2026-11-11T10:45:30Z,jadx-mcp-server,0.0.1,Yaakov Shpigelman <yaakov.shpigelman@cyera.io>,MIT,4444,Placeholder package - no functionality. See project URLs.
+2026-11-11T10:45:33Z,mcp-server-windbg,0.0.1,Yaakov Shpigelman <yaakov.shpigelman@cyera.io>,MIT,4616,Placeholder package - no functionality. See project URLs.
+2026-11-11T10:46:27Z,light-chat-ui,0.0.3,Vincent Emonet,MIT,185354,"Lightweight chat UI for AG-UI agents, served from a FastAPI app"
+2026-11-11T10:47:53Z,stability-matched,1.0.0,"Hassan Nasiraee, Hajar Abbaszadeh, Parvin Farzanegi",MIT,15506,Feature-selection stability (Nogueira's estimator) with its exact chance level for candidate pools chosen inside each resample
+2026-11-11T10:49:09Z,airun-mailbox-mcp,0.1.0,Ihor Skostariev,MIT,25587,Read-only MCP server for Exchange Online mailboxes over IMAP OAuth (client credentials)
+2026-11-11T10:50:03Z,tabii-mcp,0.1.0,Mohammad Abbasi,MIT,192655,"Unofficial read-only MCP server for tabii.com (TRT streaming): catalog search, show details, live channels, people"
+2026-11-11T10:51:22Z,vaillant-netatmo-api-ng,0.1.0,Mislav Mandaric,,54059,Community fork for managing Vaillant thermostats using Netatmo-backed APIs.
+2026-11-11T10:52:16Z,rundot,0.6.0,Paul Hallett <paulandrewhallett@gmail.com>,MIT,495740,Run hand-written markdown runbooks
+2026-11-11T10:53:09Z,netbox-custom-field-profiles,0.1.0,Maarten Wallraf,"MIT License Copyright (c) 2026 Maarten Wallraf Permission is hereby granted, free of charge, to any…",123179,Reusable native custom field profiles for NetBox Devices
+2026-11-11T10:54:34Z,pure-patchright,1.64.4,"Microsoft Corporation, patched by Kaliiiiiiiiii-Vinyzu, packaged by KuiChi-x",Apache-2.0,2085100,Pure-code (Node-binary-free) Patchright Python client using system Node.js
+2026-11-11T10:55:17Z,deepdiff-rust,0.1.1,viktormokhov <110980778+viktormokhov@users.noreply.github.com>,MIT,3918844,Rust-backed DeepDiff-compatible comparison for Python
+2026-11-11T10:55:34Z,serpmaven,0.2.2,NodeMaven,MIT,252559,"SERP Maven: self-hosted SERP API. Search results as JSON from a real Chrome browser through your own residential proxy. HTTP API, CLI and MCP server."
+2026-11-11T10:55:55Z,tujia-llm,0.2.0,ibaibing,MIT,17372,"Tujia language generation with a LoRA adapter on Qwen3-8B (MLX, Apple Silicon)"
+2026-11-11T10:56:36Z,kkpy-cli,0.1.1,,,22962,"A CLI to scaffold, build, test and run Python projects from a project template."
+2026-11-11T10:57:43Z,exportflow,1.0.0,MeerTech Ltd,Proprietary,39569,The official Python SDK for the ExportFlow document processing and verification API
+2026-11-11T10:58:59Z,agent-auditor,0.13.0,Arathi,MIT,466665,"Open-source reliability layer for AI agents: traces, evals, drift, failure-to-test, root cause, canaries, rollback."
+2026-11-11T11:01:33Z,pehchaan,0.1.2,Krishna Nand Pandey <admin@krevia.in>,AGPL-3.0-only,50735,"Find Indian identifiers (Aadhaar, PAN, GSTIN, IFSC, UPI) in text, with checksum validation and context scoring"
+2026-11-11T11:01:39Z,continuousintelligence,0.1.0,Continuous Intelligence,LicenseRef-ci-proto AND Apache-2.0 AND CC-BY-4.0,335544,Continuous Intelligence models
+2026-11-11T11:02:40Z,invariant-science,0.1.0,INVARIANT contributors,Apache-2.0,157251,Check scientific Python results against numerical criteria and save diagnostics
+2026-11-11T11:03:08Z,clavem,0.1.0,Cham,MIT,22223,Small async TLS-PSK message channels.
+2026-11-11T11:05:36Z,aixand-lib-filesystem,0.1.0b0,,Apache-2.0,45156,"Standalone file locks, private permissions, and Windows pinned-path access"
+2026-11-11T11:05:53Z,medium-writer-mcp,0.2.1,Muhammad Asher,MIT,49635,"MCP server for reading Medium and getting your articles Medium-ready, no API token needed"
+2026-11-11T11:06:01Z,aixand-lib-github-source,0.1.0b0,,Apache-2.0,52008,Standalone public GitHub source snapshots and commit comparison
+2026-11-11T11:06:34Z,aixand-lib-local-runtime,0.1.0b0,,Apache-2.0,39636,"Local IPC, WebSockets, process identity, and shutdown utilities"
+2026-11-11T11:07:45Z,xtree-sdk,0.1.0,XTREE <business@xtree.io>,MIT,35258,Python client for the XTREE API — real-time raw data layer
+2026-11-11T11:07:59Z,wirelith,0.0.0,,MIT,1483,Placeholder. Wirelith has not been released yet.
+2026-11-11T11:14:34Z,genokeeper,0.1.0,Nezhinskiy,AGPL-3.0-or-later,1612048,Local analyser for your own whole-genome data: findings with two confidences.
+2026-11-11T11:17:02Z,fisheye-semseg-research,0.1.0,3390,MIT,43539,Research tools for semantic segmentation of fisheye images using pretrained models through ZenSVI.
+2026-11-11T11:17:18Z,xtree-mcp,0.1.0,XTREE <business@xtree.io>,MIT,12898,MCP server exposing XTREE API tools for AI agents
