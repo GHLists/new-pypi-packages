@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T01:21:55Z,trimensional,0.0.0,"""Trimensional Corp."" <support@trimensional.co>",Unlicense,2238,Trimensional API client
+2026-11-11T01:22:01Z,pio-lock,0.3.0,Mat McGowan,MIT,58818,PlatformIO dependency lockfile tool for reproducible builds
+2026-11-11T01:23:03Z,replx-agent,2.0.0.post1,,MIT,93682,Local MicroPython board-management agent for replx.
+2026-11-11T01:23:26Z,bloom-launch,0.1.0a1,,Apache-2.0,434388,Scoped launcher for native coding harnesses
+2026-11-11T01:25:48Z,realesagent,0.1.0,,,49808,Generate funny student excuses and dramatic academic emails
+2026-11-11T01:26:28Z,bollard-sdk,0.1.0.dev0,"""Graham Smith (Pop Boll)"" <shake@bollawax.org>",Apache-2.0,2726,The Bollawax Bollard SDK: build on the Pop Boll platform (name held for the 0.1.0 release)
+2026-11-11T01:26:29Z,bollardeck,0.1.0.dev0,"""Graham Smith (Pop Boll)"" <shake@bollawax.org>",Apache-2.0,2696,bollardeck is the import name of the Bollawax Bollard SDK (install bollard-sdk)
+2026-11-11T01:28:35Z,xxd-modular-rag,0.1.1,,,4113,A modular RAG retrieval class based on LangChain and Chroma by koala xxd!
+2026-11-11T01:29:54Z,zyphra-textnorm,0.1.0,,MIT AND Apache-2.0,8444129,Text normalization for TTS (written form to spoken form) in nine languages: Rust ports of the NeMo r1.2.0 grammars
+2026-11-11T01:32:16Z,wazobiamail,0.1.0,Bowofade Oyerinde <bowofade@bonifade.com>,MIT,134609,"Official WazobiaMail Python SDK for transactional email via API. Start free with 3,000 emails/month. A Resend alternative that also supports SMTP, with domains, hosted mailboxes, and deliverability t…"
+2026-11-11T01:35:07Z,langchain-apish,0.1.0,"""API.SH"" <support@api.sh>",MIT,25101,"LangChain tools for API.SH, which turns public web pages from around 1,000 websites into clean JSON: search engines, social media, e-commerce, real estate, jobs, travel, news and sports (Google, Amaz…"
+2026-11-11T01:38:14Z,waona-identity-sdk,0.2.0,WAONA Technologies <hello@waona.ke>,MIT,17168,"Verify WAONA Identity access tokens in Python APIs, with FastAPI integration"
+2026-11-11T01:39:40Z,socio4health-core,1.0.13,"Erick Lozano, Diego Irreño, Juan Montenegro, Ingrid Mora",,83371,Socio4health is a Python package for gathering and consolidating socio-demographic data.
+2026-11-11T01:41:12Z,artifact-tool-v3,3.0.0,artifact_tool_v3,MIT,10648,Host-side library for managing files generated in an agent sandbox.
+2026-11-11T01:42:25Z,meniscus2brep,0.1.0,Scott Sibole,Apache-2.0,60839,Convert meniscus images to B-rep geometry
+2026-11-11T01:43:35Z,autogeom,0.0.1,"Andreas V. Copan, Troy N. Smith",MIT,64092,
+2026-11-11T01:45:40Z,gradix,0.1.0,,MIT,35654,A lightweight NumPy-based automatic differentiation and deep learning library
+2026-11-11T01:46:48Z,metamodel-3gpp,0.0.6,Ziyad Mabrouk,BSD-Clear,48695,3GPP-based model for describing 5G/6G mobile networks.
+2026-11-11T01:46:49Z,octoparse-dataapp,0.0.2,Octoparse DataHub Team,MIT,59440,"Developer SDK for building Octoparse DataHub Data Apps: read input, push records, handle aborts"
+2026-11-11T01:48:51Z,aioscaleway,0.1.0,Alexandre BERREBI <alexandre.berrebi@businessagile.eu>,MIT,1541139,"Asynchronous, fully typed client for every Scaleway API, on httpx2 and pydantic"
+2026-11-11T01:49:11Z,aioovh,0.1.0,Alexandre BERREBI <alexandre.berrebi@businessagile.eu>,MIT,4203985,"Asynchronous, fully typed client for every OVHcloud API, on httpx2 and pydantic"
+2026-11-11T01:49:12Z,cad3d-ir-inventor,0.1.0,neka-nat,PolyForm-Noncommercial-1.0.0,122196,Autodesk Inventor part (IPT) importer for cad3d-ir through inventor-kit's stored B-Rep
+2026-11-11T01:50:51Z,lanzakit-tester,0.1.0,Raquel Martinez,MIT,23489,MCP server that generates and validates pytest tests using Claude.
+2026-11-11T01:53:40Z,lmstudiox,0.0.1.dev0,,,1500,LM Studio Python SDK with extended features
+2026-11-11T02:00:30Z,pysauce,0.3.2,Oscar Hickman <oscar.hickman17@alumni.imperial.ac.uk>,MIT,7592658,Sparse and Unbiased Clustering Estimator: pair and N-point counts for sparse partitions of periodic boxes
+2026-11-11T02:07:33Z,pynumerics,2.3.0,Haden Smith <cole.h.smith@usace.army.mil>,0BSD,5903141,"RMC.Numerics for Python: probability distributions, statistics, MCMC, optimization and numerical methods from the USACE-RMC Numerics library."
+2026-11-11T02:08:29Z,mathfmt-tex,0.1.0,,,7785284,A filter that enforces math-notation conventions in LaTeX source
+2026-11-11T02:09:36Z,miragea-dub,0.1.0,miragea-dub contributors,MIT,98692,"Open-source multi-speaker video dubbing: transcribe, find who speaks when, translate, and re-voice every speaker with their own cloned voice, with timing fit, ducked background, dubbed MP4, multi-lan…"
+2026-11-11T02:13:42Z,baekprj01,0.1.0,,,2294,Add your description here
+2026-11-11T02:14:25Z,pixr,0.1.0.dev0,Ross Wightman <rwightman@gmail.com>,Apache-2.0,221935,"Pixel Reading: OCR-free document understanding models (image encoder + text decoder), training and evaluation"
+2026-11-11T02:14:41Z,chugr,0.2.0.dev0,Ross Wightman <rwightman@gmail.com>,Apache-2.0,166195,"Data pipelines for document and image-text training: webdataset and Hugging Face datasets, PDF decoding, NaFlex batching"
+2026-11-11T02:14:46Z,llm-with-vim,2.0.20261111,Kenneth Lee <kenneth-lee-2012@qq.com>,MIT,178399,LLM chat engine for Vim/VSCode/Micro: the conversation is an editable text file
+2026-11-11T02:15:09Z,airkeep,0.1.0,,MIT,37480,Send Bambu AMS readings to your Airkeep dashboard
+2026-11-11T02:18:27Z,hqg-datafeed,0.1.0,Husky Quantitative Group,,36347,Stateless market and alternative data fetching library for HQG

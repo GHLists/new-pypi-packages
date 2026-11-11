@@ -8,39 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 01:19 UTC
+## Latest list — 2026-11-11 02:19 UTC
 
-New packages created between 2026-11-11 00:20 UTC and 2026-11-11 01:19 UTC.
+New packages created between 2026-11-11 01:19 UTC and 2026-11-11 02:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-11T01-19-09-147496Z.csv)
+[Full CSV](data/new-packages-2026-11-11T02-19-23-709826Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-10 23:13:43 | [ucgmsim-gmm](https://pypi.org/project/ucgmsim-gmm/) | 2026.11.1 | ucgmsim | 16.0 MB | Native (Rust) reimplementations of empirical ground motion models |
-| 2026-11-11 00:21:22 | [revyl-verify](https://pypi.org/project/revyl-verify/) | 0.1.0 | Revyl <support@revyl.ai> | 207.7 kB | Cloud browsers, mobile devices and computers from Python with Revyl |
-| 2026-11-11 00:25:08 | [pretix-parentduties](https://pypi.org/project/pretix-parentduties/) | 0.3.0 | JuKi Schömberg e.V. | 191.0 kB | pretix plugin: parent duty sign-up during checkout |
-| 2026-11-11 00:25:24 | [solti-sdk](https://pypi.org/project/solti-sdk/) | 0.1.2 | Solti <support@solti.run> | 34.5 MB | Solti Platform Python SDK — schedule and run asynchronous workloads without man… |
-| 2026-11-11 00:28:58 | [solti-cli](https://pypi.org/project/solti-cli/) | 0.1.4 | Solti <support@solti.run> | 189.6 kB | Solti Platform CLI — schedule and run asynchronous workloads without managing i… |
-| 2026-11-11 00:30:33 | [kp-sync](https://pypi.org/project/kp-sync/) | 0.6.0 | Juan Domingo Martín <juando.m… | 849.7 kB | Synchronize a KeePass database across trusted copies |
-| 2026-11-11 00:30:34 | [noluyo-bot](https://pypi.org/project/noluyo-bot/) | 0.1.0 | N'oluyo | 71.4 kB | Official Python SDK for the N'oluyo bot platform |
-| 2026-11-11 00:37:03 | [eavesdrop-browser](https://pypi.org/project/eavesdrop-browser/) | 0.9.1 | Daniel Nelson | 164.5 kB | Passive browser JSON capture with a Textual interface |
-| 2026-11-11 00:37:16 | [praxis-sim](https://pypi.org/project/praxis-sim/) | 0.1.0 | Runway | 206.3 kB | The MuJoCo single-arm and bimanual YAM rigs of Praxis-1 and their evaluation su… |
-| 2026-11-11 00:37:19 | [django-encryption-suite](https://pypi.org/project/django-encryption-suite/) | 1.0.0 | J. Randall Emery | 2.7 MB | Encrypted Django model fields with envelope encryption, pluggable KMS backends,… |
-| 2026-11-11 00:38:20 | [booru-dl](https://pypi.org/project/booru-dl/) | 2.1.0 |  | 174.9 kB | Async batch downloader and sync tool for booru boards |
-| 2026-11-11 00:40:02 | [innterpol](https://pypi.org/project/innterpol/) | 0.1.0 | cwestend and the original iNN… | 93.6 MB | Neural network interpolation of ATLAS9, MARCS, and PHOENIX stellar model atmosp… |
-| 2026-11-11 00:40:58 | [ai-limits](https://pypi.org/project/ai-limits/) | 0.1.0 | jointsome0-lgtm | 62.9 kB | AI subscription usage limits (Claude, Codex) for your desktop panel. Offline by… |
-| 2026-11-11 00:41:23 | [defectdojo-mcp-server](https://pypi.org/project/defectdojo-mcp-server/) | 0.1.0 | DefectDojo Inc | 113.3 kB | Official open-source MCP server for DefectDojo. Connect Claude, Cursor, VS Code… |
-| 2026-11-11 00:42:08 | [wildweb-mcp](https://pypi.org/project/wildweb-mcp/) | 0.1.0 | Carel Wentzel <carel.wentzel@… | 148.5 kB | An extensible MCP server that exposes web scraping as an MCP tool. |
-| 2026-11-11 00:42:34 | [minimindslab-duplicate-line-runs](https://pypi.org/project/minimindslab-duplicate-line-runs/) | 0.1.0 | MiniMindsLab | 7.0 kB | Detect consecutive duplicate lines in text and summarize each run with line num… |
-| 2026-11-11 00:43:02 | [gragra](https://pypi.org/project/gragra/) | 0.2.0rc1 | Tatsuki Washimi | 5.5 MB | Gravitational perturbation calculation package |
-| 2026-11-11 00:43:10 | [songe](https://pypi.org/project/songe/) | 0.0.0.dev0 | Sous Labs | 2.6 kB | Songe, by Sous Labs: a local model that sleeps. Not released yet. |
-| 2026-11-11 00:43:43 | [minimindslab-env-file-diff](https://pypi.org/project/minimindslab-env-file-diff/) | 0.1.0 | MiniMindsLab | 9.8 kB | Deterministically compare two .env-style files and report added, removed, chang… |
-| 2026-11-11 00:44:52 | [minimindslab-filename-split](https://pypi.org/project/minimindslab-filename-split/) | 0.1.0 | MiniMindsLab | 8.3 kB | Parse file names into base name and multi-part extension in a deterministic way… |
-| 2026-11-11 00:46:04 | [minimindslab-header-normalize](https://pypi.org/project/minimindslab-header-normalize/) | 0.1.0 | MiniMindsLab | 6.8 kB | Normalize text header names into stable machine-friendly field names. |
-| 2026-11-11 00:51:49 | [dixi-spec-kit](https://pypi.org/project/dixi-spec-kit/) | 1.5.0 |  | 1.5 MB | Specification-driven development kit with traceability, verification and Claude… |
-| 2026-11-11 00:52:05 | [helios-cortex](https://pypi.org/project/helios-cortex/) | 0.1.0 | Helios Team | 269.4 kB | Helios core: shared semantic query and data governance layer |
-| 2026-11-11 00:59:03 | [idside](https://pypi.org/project/idside/) | 0.1.0.dev0 | ID Side <dev@idside.eu> | 574.0 kB | ID Side — AI Consent Infrastructure SDK (opaque tunnel, ACT token, ledger). |
-| 2026-11-11 01:00:12 | [helios-model](https://pypi.org/project/helios-model/) | 0.1.0 | Helios Team | 80.1 kB | Helios model discovery: harvest, profile, propose and publish semantic models |
-| 2026-11-11 01:04:58 | [ontlas](https://pypi.org/project/ontlas/) | 0.17.0 | jinsoo96 <wlstn010203@gmail.c… | 8.8 MB | One space for every kind of data an AI can use: files, documents, vectors, grap… |
-| 2026-11-11 01:13:40 | [protoverta](https://pypi.org/project/protoverta/) | 0.3.0 | HaianCao <caohaian2005@gmail.… | 2.4 MB | A strict, provider-neutral adapter for Chat Completions, Messages, and Responses |
-| 2026-11-11 01:17:12 | [glixin-tools](https://pypi.org/project/glixin-tools/) | 0.1.0 |  | 4.1 kB | Lightweight Python client for Glixin AWS Marketplace APIs |
+| 2026-11-11 01:21:55 | [trimensional](https://pypi.org/project/trimensional/) | 0.0.0 | "Trimensional Corp." <support… | 2.2 kB | Trimensional API client |
+| 2026-11-11 01:22:01 | [pio-lock](https://pypi.org/project/pio-lock/) | 0.3.0 | Mat McGowan | 58.8 kB | PlatformIO dependency lockfile tool for reproducible builds |
+| 2026-11-11 01:23:03 | [replx-agent](https://pypi.org/project/replx-agent/) | 2.0.0.post1 |  | 93.7 kB | Local MicroPython board-management agent for replx. |
+| 2026-11-11 01:23:26 | [bloom-launch](https://pypi.org/project/bloom-launch/) | 0.1.0a1 |  | 434.4 kB | Scoped launcher for native coding harnesses |
+| 2026-11-11 01:25:48 | [realesagent](https://pypi.org/project/realesagent/) | 0.1.0 |  | 49.8 kB | Generate funny student excuses and dramatic academic emails |
+| 2026-11-11 01:26:28 | [bollard-sdk](https://pypi.org/project/bollard-sdk/) | 0.1.0.dev0 | "Graham Smith (Pop Boll)" <sh… | 2.7 kB | The Bollawax Bollard SDK: build on the Pop Boll platform (name held for the 0.1… |
+| 2026-11-11 01:26:29 | [bollardeck](https://pypi.org/project/bollardeck/) | 0.1.0.dev0 | "Graham Smith (Pop Boll)" <sh… | 2.7 kB | bollardeck is the import name of the Bollawax Bollard SDK (install bollard-sdk) |
+| 2026-11-11 01:28:35 | [xxd-modular-rag](https://pypi.org/project/xxd-modular-rag/) | 0.1.1 |  | 4.1 kB | A modular RAG retrieval class based on LangChain and Chroma by koala xxd! |
+| 2026-11-11 01:29:54 | [zyphra-textnorm](https://pypi.org/project/zyphra-textnorm/) | 0.1.0 |  | 8.4 MB | Text normalization for TTS (written form to spoken form) in nine languages: Rus… |
+| 2026-11-11 01:32:16 | [wazobiamail](https://pypi.org/project/wazobiamail/) | 0.1.0 | Bowofade Oyerinde <bowofade@b… | 134.6 kB | Official WazobiaMail Python SDK for transactional email via API. Start free wit… |
+| 2026-11-11 01:35:07 | [langchain-apish](https://pypi.org/project/langchain-apish/) | 0.1.0 | "API.SH" <support@api.sh> | 25.1 kB | LangChain tools for API.SH, which turns public web pages from around 1,000 webs… |
+| 2026-11-11 01:38:14 | [waona-identity-sdk](https://pypi.org/project/waona-identity-sdk/) | 0.2.0 | WAONA Technologies <hello@wao… | 17.2 kB | Verify WAONA Identity access tokens in Python APIs, with FastAPI integration |
+| 2026-11-11 01:39:40 | [socio4health-core](https://pypi.org/project/socio4health-core/) | 1.0.13 | Erick Lozano, Diego Irreño, J… | 83.4 kB | Socio4health is a Python package for gathering and consolidating socio-demograp… |
+| 2026-11-11 01:41:12 | [artifact-tool-v3](https://pypi.org/project/artifact-tool-v3/) | 3.0.0 | artifact_tool_v3 | 10.6 kB | Host-side library for managing files generated in an agent sandbox. |
+| 2026-11-11 01:42:25 | [meniscus2brep](https://pypi.org/project/meniscus2brep/) | 0.1.0 | Scott Sibole | 60.8 kB | Convert meniscus images to B-rep geometry |
+| 2026-11-11 01:43:35 | [autogeom](https://pypi.org/project/autogeom/) | 0.0.1 | Andreas V. Copan, Troy N. Smi… | 64.1 kB |  |
+| 2026-11-11 01:45:40 | [gradix](https://pypi.org/project/gradix/) | 0.1.0 |  | 35.7 kB | A lightweight NumPy-based automatic differentiation and deep learning library |
+| 2026-11-11 01:46:48 | [metamodel-3gpp](https://pypi.org/project/metamodel-3gpp/) | 0.0.6 | Ziyad Mabrouk | 48.7 kB | 3GPP-based model for describing 5G/6G mobile networks. |
+| 2026-11-11 01:46:49 | [octoparse-dataapp](https://pypi.org/project/octoparse-dataapp/) | 0.0.2 | Octoparse DataHub Team | 59.4 kB | Developer SDK for building Octoparse DataHub Data Apps: read input, push record… |
+| 2026-11-11 01:48:51 | [aioscaleway](https://pypi.org/project/aioscaleway/) | 0.1.0 | Alexandre BERREBI <alexandre.… | 1.5 MB | Asynchronous, fully typed client for every Scaleway API, on httpx2 and pydantic |
+| 2026-11-11 01:49:11 | [aioovh](https://pypi.org/project/aioovh/) | 0.1.0 | Alexandre BERREBI <alexandre.… | 4.2 MB | Asynchronous, fully typed client for every OVHcloud API, on httpx2 and pydantic |
+| 2026-11-11 01:49:12 | [cad3d-ir-inventor](https://pypi.org/project/cad3d-ir-inventor/) | 0.1.0 | neka-nat | 122.2 kB | Autodesk Inventor part (IPT) importer for cad3d-ir through inventor-kit's store… |
+| 2026-11-11 01:50:51 | [lanzakit-tester](https://pypi.org/project/lanzakit-tester/) | 0.1.0 | Raquel Martinez | 23.5 kB | MCP server that generates and validates pytest tests using Claude. |
+| 2026-11-11 01:53:40 | [lmstudiox](https://pypi.org/project/lmstudiox/) | 0.0.1.dev0 |  | 1.5 kB | LM Studio Python SDK with extended features |
+| 2026-11-11 02:00:30 | [pysauce](https://pypi.org/project/pysauce/) | 0.3.2 | Oscar Hickman <oscar.hickman1… | 7.6 MB | Sparse and Unbiased Clustering Estimator: pair and N-point counts for sparse pa… |
+| 2026-11-11 02:07:33 | [pynumerics](https://pypi.org/project/pynumerics/) | 2.3.0 | Haden Smith <cole.h.smith@usa… | 5.9 MB | RMC.Numerics for Python: probability distributions, statistics, MCMC, optimizat… |
+| 2026-11-11 02:08:29 | [mathfmt-tex](https://pypi.org/project/mathfmt-tex/) | 0.1.0 |  | 7.8 MB | A filter that enforces math-notation conventions in LaTeX source |
+| 2026-11-11 02:09:36 | [miragea-dub](https://pypi.org/project/miragea-dub/) | 0.1.0 | miragea-dub contributors | 98.7 kB | Open-source multi-speaker video dubbing: transcribe, find who speaks when, tran… |
+| 2026-11-11 02:13:42 | [baekprj01](https://pypi.org/project/baekprj01/) | 0.1.0 |  | 2.3 kB | Add your description here |
+| 2026-11-11 02:14:25 | [pixr](https://pypi.org/project/pixr/) | 0.1.0.dev0 | Ross Wightman <rwightman@gmai… | 221.9 kB | Pixel Reading: OCR-free document understanding models (image encoder + text dec… |
+| 2026-11-11 02:14:41 | [chugr](https://pypi.org/project/chugr/) | 0.2.0.dev0 | Ross Wightman <rwightman@gmai… | 166.2 kB | Data pipelines for document and image-text training: webdataset and Hugging Fac… |
+| 2026-11-11 02:14:46 | [llm-with-vim](https://pypi.org/project/llm-with-vim/) | 2.0.20261111 | Kenneth Lee <kenneth-lee-2012… | 178.4 kB | LLM chat engine for Vim/VSCode/Micro: the conversation is an editable text file |
+| 2026-11-11 02:15:09 | [airkeep](https://pypi.org/project/airkeep/) | 0.1.0 |  | 37.5 kB | Send Bambu AMS readings to your Airkeep dashboard |
+| 2026-11-11 02:18:27 | [hqg-datafeed](https://pypi.org/project/hqg-datafeed/) | 0.1.0 | Husky Quantitative Group | 36.3 kB | Stateless market and alternative data fetching library for HQG |
