@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T21:19:18Z,furka,0.0.1a1,Alain C. Vaucher,MIT,8591,Composable transition-state (TS) and minimum-energy-path (MEP) algorithms for computational chemistry.
+2026-11-11T21:23:03Z,tree-sitter-c-orchard,0.1.0,Max Brunsfeld <maxbrunsfeld@gmail.com>,MIT,228069,C grammar for tree-sitter
+2026-11-11T21:24:52Z,django-dart-sass-finder,3.0.0,"Jesus Trujillo, David Nugent",MIT,35424,"A Django staticfiles finder that compiles Sass with Dart Sass. Continues django-sass-finder: same settings, new compiler."
+2026-11-11T21:25:07Z,tomorecon,0.1.0,GivralNguyen,MIT,36716,"Analytical tomographic image reconstruction: Radon transform, Fourier gridding, filtered backprojection, backproject-filter and convolve-backproject."
+2026-11-11T21:26:55Z,quiet-file-team-mcp,0.1.1,Panda Federation (pandadad0214),MIT,124678,Six offline guidance tools for a local file-first agent team
+2026-11-11T21:29:10Z,cryptoduck-client-python,0.0.0,Zapier,,2670,Reserved by Zapier to prevent dependency confusion. Intentionally empty.
+2026-11-11T21:29:26Z,zapier-pii-common,0.0.0,Zapier,,2550,Reserved by Zapier to prevent dependency confusion. Intentionally empty.
+2026-11-11T21:29:30Z,zapier-repo-tools,0.0.0,Zapier,,2540,Reserved by Zapier to prevent dependency confusion. Intentionally empty.
+2026-11-11T21:29:34Z,linehash-ignore,0.0.0,Zapier,,2526,Reserved by Zapier to prevent dependency confusion. Intentionally empty.
+2026-11-11T21:30:40Z,mobintel-probe-encryption,0.1.0,Stepan Mazokha <smazokha2016@fau.edu>,Apache-2.0,49905,"Encrypted, unlinkable Wi-Fi probe-request beacons for MobIntel Guardian: decode them on a sensor, seal Bluetooth alerts back"
+2026-11-11T21:33:45Z,zillion-agent,0.3.6,Zillion Network,Proprietary,122214,"Zillion for your agent — API MCP server (VMs, sandboxes, credit, SSH keys), Roka chat MCP server and terminal chat, with browser sign-in."
+2026-11-11T21:37:23Z,foxmakers-open-cad-kit,1.0.0,,MIT,10859,"Parametric 3D mesh generation, STL repair and STEP conversion using Manifold3D. By FoxMakers."
+2026-11-11T21:41:20Z,gmi-security-mcp,0.5.7,,MIT,304848,"Security MCP server for coding agents: triage semgrep findings with GMI Inference, with cost shown before every run."
+2026-11-11T21:41:37Z,tree-sitter-dockerfile-orchard,0.1.0,Camden Cheek <camden@ccheek.com>,ISC,38975,A tree-sitter module for the Dockerfile grammar
+2026-11-11T21:47:52Z,wagtail-longclaw,8.0.0,"Timo Klinge <kl.timo@outlook.de>, James Ramm <jamessramm@gmail.com>",MIT,669747,A shop for wagtail cms
+2026-11-11T21:47:58Z,textract-field-memory,0.3.0,Avneet Bansal,MIT-0,138577,Spatial field location memory for AWS Textract document processing pipelines.
+2026-11-11T21:49:54Z,mathguard,0.3.2,C0MaE,MIT,126142,"Verify mathematical claims from people and language models: identities, derivations, calculus, solutions and physical units."
+2026-11-11T21:50:33Z,whatmodel,0.0.1,Shekhar,MIT,91863,Explain LLM model names in plain English.
+2026-11-11T21:51:39Z,whole-body-compute,0.1.0,Jacob Trigg <hello@wholebodycompute.com>,Whole Body Compute Open-Core Community License Subject to the Non-Competing Commercial Restrictions…,2024880,"Cut agent token burn with zero accuracy loss on SWE-bench Verified. Local <3ms AST shield, Apple Silicon vision & memory runtime for Claude Code, Cursor & Antigravity."
+2026-11-11T21:53:39Z,kachowvision,0.1.0,Franco Senes,,17736,Bolivian license plate recognition and vehicle type classification with OpenCV and OCR
+2026-11-11T21:56:06Z,depclean,0.1.0,Karthick Ramakrishnan,MIT,56688,"Terminal UI to find and remove node_modules, Python venvs and other reinstallable dependency folders"
+2026-11-11T21:56:08Z,sglang-neuron,0.1.0,"Amazon Web Services, Inc.",Proprietary,1481,
+2026-11-11T22:01:51Z,isitai,0.0.1,cbarange,MIT,2570,"Local, offline check for proof or signals that a text, image, audio, video or PDF was made by AI (C2PA, IPTC, generator metadata). Work in progress."
+2026-11-11T22:04:28Z,nunchaku-rocm,1.3.0,,Apache-2.0,359667,AMD ROCm/Triton fork of Nunchaku (SVDQuant) — adds a portable Triton kernel backend so quantized diffusion models run on AMD GPUs without the NVIDIA-only CUDA extension. Derivative of https://github.…
+2026-11-11T22:04:59Z,ipsofactura,0.1.0,,MIT,20631,Cliente oficial de Ipsofactura — timbrado CFDI 4.0 para México
+2026-11-11T22:05:49Z,fair-meter,0.2.0,,Apache-2.0,48226,"What an x402 seller needs to keep the Fair Offer Standard 0.4: the block, the metered charge, bound receipts, the FO-6 guard and an open receipts ledger."
+2026-11-11T22:06:41Z,opendata-rfb,1.0.2,guilhermegor,MIT,192149,Simple and efficient Python library to interact with Secretariat of Federal Revenue of Brazil (Receita Federal Brasileira) public data
+2026-11-11T22:07:13Z,opendata-b3,0.3.5,guilhermegor,MIT,268874,Simple and efficient Python library to interact with B3 regulatory filings
+2026-11-11T22:08:34Z,agentmesh-contracts,0.1.0,,,47578,AgentMesh relay protocol and manifest contracts
+2026-11-11T22:08:35Z,agentmesh-common,0.1.0,,,14239,Shared configuration and structured errors for AgentMesh
+2026-11-11T22:08:37Z,adunem,0.2.0,,,250921,adunem: connect local MCP agents and coding assistants to Adunem
+2026-11-11T22:12:28Z,sqst,0.0.1,,,970,Lightweight Python wrapper for running Squeal Studio models from Hugging Face
+2026-11-11T22:14:56Z,vestibule-mcp,0.1.0,Victor,MIT,255975,"A local, kernel-isolated code-execution sandbox for AI agents, exposed as an MCP server."
+2026-11-11T22:17:49Z,upscale,0.5.1,upscale,MIT,234622,"Local AI image upscaler: chained Real-ESRGAN passes to any scale, seam-free feather-blended tiles"
+2026-11-11T22:19:13Z,tnldotdev-tnl,0.1.0rc42,,BSD-3-Clause,80212788,take a shortcut through the internet.

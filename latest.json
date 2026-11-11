@@ -1,34 +1,34 @@
 {
   "list": {
-    "count": 49,
-    "from": "2026-11-11T19:18:53.5006Z",
-    "path": "data/new-packages-2026-11-11T21-18-43-045201Z.csv",
-    "to": "2026-11-11T21:18:43.045201Z"
+    "count": 35,
+    "from": "2026-11-11T21:18:43.045201Z",
+    "path": "data/new-packages-2026-11-11T22-20-20-526756Z.csv",
+    "to": "2026-11-11T22:20:20.526756Z"
   },
   "pending": [
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-11T19:46:25Z",
       "package": "boxd-haystack",
       "since": "2026-11-11T19:18:53.5006Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-11T19:22:17Z",
       "package": "clio-core",
       "since": "2026-11-11T19:18:53.5006Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-11T20:12:27Z",
       "package": "miller-lib",
       "since": "2026-11-11T19:18:53.5006Z",
       "version": "0.1.0"
     }
   ],
-  "serial": 43523798,
+  "serial": 43525762,
   "source_truncated": false,
-  "window": "2026-11-11T21:18:43.045201Z"
+  "window": "2026-11-11T22:20:20.526756Z"
 }
