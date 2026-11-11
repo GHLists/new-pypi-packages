@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T11:19:23Z,libapidokuwiki,1.0,Ibryaev Timur,GPL-3.0-or-later,22430,Asynchronous client for your DokuWiki JSON API
+2026-11-11T11:20:18Z,tauron-api,0.1.0,Jacek Grela <jacekgrela@gmail.com>,MIT,91856,"Unofficial Python SDK and CLI for TAURON eBOK (moj.tauron.pl): balance, invoices, PDFs, payments, messages, energy consumption."
+2026-11-11T11:22:08Z,emusap,0.1.0,Kirill Satarin,GPL-3.0-only,22535168,emusap
+2026-11-11T11:22:16Z,mcp-guard-scan,0.2.1,,,149433,
+2026-11-11T11:24:28Z,thonny-word-wrap,0.1.0,lee,"MIT License Copyright (c) 2024 Yuanbao (元宝) Permission is hereby granted, free of charge, to any pe…",9404,Thonny word wrap plugin
+2026-11-11T11:25:49Z,claude-session-sync-cli,0.1.3,xushenjie,MIT,53226,Sync local Claude Code CLI sessions into the Claude desktop app sidebar (unofficial).
+2026-11-11T11:26:17Z,jcmsuite-torch,1.0.0,,MIT,72298,Optional PyTorch integration for the matching JCMsuite Python interface.
+2026-11-11T11:26:18Z,jcmsuite-pandas,1.0.0,,MIT,18872,Optional pandas exports for the matching JCMsuite Python interface.
+2026-11-11T11:26:19Z,jcmsuite-xarray,1.0.0,,MIT,42738,Optional xarray exports for the matching JCMsuite Python interface.
+2026-11-11T11:26:58Z,qingci-plugin-sdk,1.15.2,luoqingci <luoqingci@luoqingciya.com.cn>,GPL-3.0-or-later,80201,Qingci-Bot 插件 SDK — 独立可安装的插件开发工具包
+2026-11-11T11:28:03Z,browz-mcp,0.1.0,,,48096,Browz MCP server launcher (uvx browz-mcp) and Python client for the Browz Local API
+2026-11-11T11:28:38Z,reconcilers,0.1.0,,MIT,42452312,"Deterministic data reconciliation for files and dataframes: schema, keys, values and auditable verdicts."
+2026-11-11T11:32:16Z,dbt-databricks-alt,1.13.100,Databricks <feedback@databricks.com>,Apache-2.0,378975,"Unofficial fork of the Databricks adapter plugin for dbt, adding session mode for job clusters"
+2026-11-11T11:33:00Z,se-alicli,0.1.0,,,103329,"OSS, PAI DSW and RAM tools for se_aliViewer"
+2026-11-11T11:35:18Z,pipecat-behavioralsignals,0.1.0,Behavioral Signal Technologies,BSD-2-Clause,23811,"Behavioral Signals voice readings for Pipecat agents, as RCS perception"
+2026-11-11T11:35:26Z,MemAI,0.1.3,Apan Dan,MIT,7416,Memory based AI. It doesn't require any parameters and also doesn't require huge amount of data. just needs the sufficient
+2026-11-11T11:37:00Z,rust-deobf,0.1.0,"""Ve (VAHPEM)"" <ve0912084386@gmail.com>",Apache-2.0,2293549,"Deobfuscation and triage for compiled (mostly Rust) binaries: string recovery by static analysis + emulation, metadata, unpacking - ELF/PE/Mach-O, x86-64/ARM64/x86"
+2026-11-11T11:37:27Z,rust-deobf-premium,0.1.0,"""Ve (VAHPEM)"" <ve0912084386@gmail.com>",AGPL-3.0-or-later OR LicenseRef-Commercial,169346,"Tier-4 deobfuscation for rust-deobf: control-flow de-flattening, MBA/opaque-predicate simplification, VM devirtualization, optimization reversal"
+2026-11-11T11:39:24Z,factioner,0.1.0,Sunil K Sundaram <sunil.ksundaram@gmail.com>,Apache-2.0,3690,Factioner — service pooling & resilience helpers (Python companion package)
+2026-11-11T11:40:40Z,access-model-mkfigs,0.1.0,ACCESS-NRI and contributors <chris.bull@anu.edu.au>,Apache-2.0,162598,Evaluation figure workflow tools for ACCESS model paper repositories
+2026-11-11T11:41:29Z,junker-api,0.1.0,,Apache-2.0,17190,Async client for Junker waste collection calendars
+2026-11-11T11:43:26Z,sphysics,2.0.3,Stefan Wallner <swallner@mpp.mpg.de>,GPL-3.0-or-later,1087332,"Tools for amplitude analysis, event selection, kinematic calculations, machine learning, and more"
+2026-11-11T11:43:40Z,leadsets,0.1.2,Leadsets,MIT,57904,"Official Python SDK for the Leadsets B2B data API: people and company search, enrichment, email verification and web scraping."
+2026-11-11T11:45:13Z,simapy-results,5.4.0,SINTEF Ocean,MIT License,192923,"Read SIMA results with SIMA's own names, units and structure"
+2026-11-11T11:46:57Z,ssh-over-sse-cli,0.1.0,,,68066,OpenSSH ProxyCommand client for ssh-sse/v1
+2026-11-11T11:47:01Z,ssh-over-sse-gateway,0.1.0,,,77379,Policy-restricted SSH TCP relay over HTTPS POST and SSE
+2026-11-11T11:47:05Z,ssh-over-sse,0.1.0,,,28872,"Use SSH through an HTTPS gateway with a local CLI, a gateway, or both"
+2026-11-11T11:47:21Z,retiform-comfyui-mcp,2.0.0,"David Newman <david@retiform.dev>, Guan <guan@retiform.dev>",MIT License Copyright (c) 2026 David Newman <david@retiform.dev> Copyright (c) 2026 Guan <guan@reti…,83637,"Agentic ComfyUI image generation over the Model Context Protocol: batch discovery, LoRA shaping, and provenance."
+2026-11-11T11:53:17Z,mulebox,1.1.1,,MIT,624553,"Send AI coding agents' builds and tests to Linux machines on your network, through one queue"
+2026-11-11T11:54:06Z,turkce-asr-ozel-isim,0.1.0,,MIT,35606,Turkish proper name correction for Whisper and WhisperX transcripts: fix misheard people and company names in subtitles.
+2026-11-11T11:54:08Z,moss-nfopen,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1406,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-11T11:54:11Z,moss-redline,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1418,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-11T11:54:14Z,moss-release-notes-generator,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1462,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-11T11:54:17Z,moss-viscache,0.0.0,"""M.O.S.S. Computer Grafik Systeme GmbH"" <develop@moss.de>",,1410,Placeholder by M.O.S.S. Computer Grafik Systeme GmbH - contains no code
+2026-11-11T11:54:36Z,primlib,0.3.0,Philipp Roebrock <philipp.roebrock@fhgr.ch>,MIT License Lighthouse: https://gitlab.com/proebrock/lighthouse/ Copyright (c) 2021 Philipp Roebroc…,87815,Primlib: a Python framework for handling 3D geometric primitives
+2026-11-11T11:55:28Z,moca-reader,0.6.0,MOCA Standard Contributors,Apache-2.0,516489,"Reads, verifies, searches and cites MOCA packages (moca-spec 0.6)."
+2026-11-11T11:55:47Z,serpbit,0.1.0,Serpbit <support@serpbit.com>,MIT,19389,"Google Search, News, Shopping, Images, Videos, Maps, Autocomplete and AI Mode as data: the Serpbit API client."
+2026-11-11T11:57:41Z,vereefy-sdk,0.2.1,VEREEFY <hello@vereefy.ai>,MIT,11519,VEREEFY Python SDK — EU AI Act Compliance-Infrastruktur
+2026-11-11T11:57:42Z,moca-reader-langchain,0.6.0,MOCA Standard Contributors,Apache-2.0,7699,"A LangChain retriever over MOCA packages: citation records as Documents, through the MOCA Reader's gate."
+2026-11-11T11:57:43Z,moca-reader-llamaindex,0.6.0,MOCA Standard Contributors,Apache-2.0,7767,"A LlamaIndex retriever over MOCA packages: citation records as scored nodes, through the MOCA Reader's gate."
+2026-11-11T12:07:17Z,llm-judge-agreement,1.0.0,Volans Aquilae <info@volansaquilae.com>,MIT,14592,"Check an LLM judge against human labels, with TPR, TNR, Cohen's kappa and a corrected pass rate."
+2026-11-11T12:08:47Z,cto-legends,0.2.9,Benjamin Samar / cto-legends,MIT,321565,"Discover, install, and maintain the cto-legends ecosystem with your agent."
+2026-11-11T12:09:31Z,flux-spec,0.5.0,Agenticstiger,Apache-2.0,365012,"FLUX reference validator, RFC-04 enforcement gate, and RFC-09 evidence bundler — the open, declarative standard for governed synthetic customer universes."
+2026-11-11T12:09:42Z,meteoalarmapi,0.4.0,Rolf Berkenbosch,MIT,54176,Weather alerts for European regions from MeteoAlarm.org. A maintained fork of meteoalertapi.
+2026-11-11T12:11:59Z,waihub,0.0.0,"Transaction Science, Inc.",Apache-2.0,1744,"waihub: name held by Transaction Science, Inc. Nothing is released under it yet."
+2026-11-11T12:15:04Z,truetask-db,0.1.0,Truetask,MIT,40455,"Read and write a Truetask database from Python, the way the PocketBase SDK does."
+2026-11-11T12:19:49Z,ek-rs,0.0.1,Thor Whalen,MIT,873596,Optional native (Rust) kernels for ek: build from the ek repository (not yet on PyPI)
