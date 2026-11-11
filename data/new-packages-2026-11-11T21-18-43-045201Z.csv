@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T17:51:40Z,relate-db,1.0.0,,,53323709,"A lightweight, embeddable graph database with Cypher queries"
+2026-11-11T19:23:27Z,dex-agents-cli-core,0.5.0,Super Durable,LicenseRef-Sustainable-Use-1.0,170459,"The shared CLI core of the Dex Agents CLI commands: configuration, dexcli dev, connectors, local tools, and terminal chat"
+2026-11-11T19:25:42Z,beatandraise,0.1.0,Iterative Works GmbH <support@beatandraise.com>,MIT,17405,"Python client for the beatandraise.com SEC Filings API: the whole SEC EDGAR archive, 10-K/10-Q/8-K Items, XBRL financial statements, Form 4 insider trades and 13F holders."
+2026-11-11T19:25:47Z,seanchai-corpus,2026.11.11,sliva0,MIT,1200031,Diameter command ABNFs and AVP definitions as .dad files
+2026-11-11T19:29:32Z,tinkly,0.2.2,Tom Ritchford <tom@swirly.com>,,52561,"Low-level Twinkly discovery, authentication, HTTP, and realtime UDP transport"
+2026-11-11T19:30:25Z,truthlint,0.1.0,truthlint contributors,MIT,224654,"Find where your repository contradicts itself: docs, configs, CI, containers and code checked against each other, offline."
+2026-11-11T19:30:49Z,aurasync-engine,0.4.1,Sahil Kundu,MIT,93939,Event-camera state estimator and controller for a cart-pole (simulation prototype)
+2026-11-11T19:30:56Z,seanchai,0.1.0,sliva0,MIT,622412,Machine-readable Diameter schemas from 3GPP documents and RFCs
+2026-11-11T19:31:20Z,aris-server,0.1.0,,Apache-2.0,130279,"Run open-weight models locally behind the Anthropic Messages API, for Claude Code and friends."
+2026-11-11T19:32:44Z,diurn,0.1.0,Christopher Ariza,MIT OR Apache-2.0,83534,Exchange calendars and trading hours from the Diurn API
+2026-11-11T19:36:09Z,django-flashdeck,0.1.0,Christian Hill,BSD-3-Clause,170651,"Flashcards for Django sites: decks of cards with typed answers, marked right or wrong, and spaced repetition."
+2026-11-11T19:40:36Z,neko-speaker,0.1.1,Fukuneko <lcotyt112@gmail.com>,MIT,48447,Асинхронный клиент VK API с удобной обёрткой для ботов сообществ для быстрого развертывания ботов
+2026-11-11T19:42:31Z,async-orm-kit,1.0.0,"Aryan Niknezhad, Mehrshad Mirshekary",MIT,768084,Async-first Django-inspired QuerySets and relationship-aware query planning for SQLAlchemy
+2026-11-11T19:46:23Z,boxd-inspect,0.1.0,boxd <contact@boxd.sh>,MIT,61472,"boxd sandbox for Inspect AI: each sample runs on its own boxd machine, with Docker inside for compose tasks."
+2026-11-11T19:48:54Z,tapwright,1.0.0,bo5amis,MIT,489552,"Let LLM agents test apps on your real iPhone, from Windows, Linux or macOS. No Mac needed."
+2026-11-11T19:52:12Z,JumpingSpider,0.2.1,Roger Allen,MIT,41610,"Concurrent path-bounded web crawler, broken link detector, and asset validator with multi-format reports and Textual TUI"
+2026-11-11T19:53:31Z,sagemaker-factory,0.0.0,Amazon Web Services,,2011,
+2026-11-11T19:56:49Z,simple2-http-checking,1.1.0,,,14076,A simple CLI tool to check the status of URLs.
+2026-11-11T19:56:52Z,samarkand,0.1.0,"""Ben Smith (cmdaltr)"" <cmdaltr@gmail.com>",Elastic-2.0,117302,"The licence, webhook and threat-intelligence wire formats shared by Ostraka, Shikari and Rowanholt"
+2026-11-11T19:59:14Z,nff-normalized-factor-flow,0.1.0,Elxrth,,20986,Python package scaffold for Normalized Factor Flow (NFF).
+2026-11-11T20:00:11Z,satchel-server,0.1.1,,Apache-2.0,1836877,"Satchel: an open-source, self-hosted context server for data agents (MCP)"
+2026-11-11T20:01:18Z,bondbench,0.1.0,Rohan Jindal,MIT,41710,A small eval harness and gold set for testing LLMs on fixed-income and fund-operations questions.
+2026-11-11T20:03:59Z,heat-cold-spell,0.1.0,,MIT,87653,Heat and cold spell analysis and forecasting library
+2026-11-11T20:10:39Z,tqdaemon,0.8.0,tqdaemon contributors,MIT,4851500,"Local resource-aware task queue daemon (CLI, web UI, MCP, remote workers)"
+2026-11-11T20:13:56Z,cpo3,0.0.1,"Matteo Santamaria, Michael Cummins, Brendan O'Donoghue",MIT,5438351,"An interior-point solver for convex quadratic and linear programs, implemented in Rust with a Python interface"
+2026-11-11T20:15:22Z,pcsf,0.1.0,Kouao Laurent Kouadio <etanoyau@gmail.com>,BSD-3-Clause,368560,"Portable Common Subsurface Format: exchange format, tools and algorithms for electromagnetic inversion models"
+2026-11-11T20:17:57Z,auto-self-update,0.9.0,Julynx <julicabria@outlook.com>,MIT,17770,"Single-file, zero-dependency self-update on launch for Python CLIs."
+2026-11-11T20:21:32Z,millerlib,1.0.1,Твое Имя/Никнейм,,11404,"Набор CLI и GUI утилит: таблицы истинности, системы счисления, битовые сдвиги"
+2026-11-11T20:35:18Z,mcode-neural,0.5.0,Timothy McGuire,MIT AND OFL-1.1,1009607,"Our AI and Neural Network tools. Clean, aligned, readable views of PyTorch tensors, single neuron models, and multi-layer networks, for Jupyter Notebooks and the console."
+2026-11-11T20:35:58Z,raceproof,0.0.2,,,1857,Reproduce and prove fixes for race conditions in payment integrations (early placeholder).
+2026-11-11T20:36:52Z,tree-sitter-bash-orchard,0.1.0,Max Brunsfeld <maxbrunsfeld@gmail.com>,MIT,420233,Parser for Bash files
+2026-11-11T20:45:07Z,rulestamp-dienstplan-ruhezeit-check,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,35299,"Dienstplan-CSV gegen ArbZG und JArbSchG prüfen: 12 rules, mit Zeile und Paragraf (bundled Node.js runtime)"
+2026-11-11T20:45:29Z,rulestamp-email-footer-law-lint,1.0.9,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38776,"Fourteen checks on an HTML email footer: CAN-SPAM postal address and 10-business-day opt-out, CASL's 60-day window, and German 5 DDG, the statute that replaced 5 TMG on 2024-05-14. (bundled Node.js r…"
+2026-11-11T20:45:51Z,rulestamp-en301549-lint,0.1.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,32445,"Flags the EN 301 549 clause each line breaks, and separates what is in force today from what arrives with V4.1.1. (bundled Node.js runtime)"
+2026-11-11T20:46:10Z,rulestamp-eu-data-residency-lint,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,38053,"Every cloud region in your infrastructure code, mapped to a country and the transfer basis it needs. (bundled Node.js runtime)"
+2026-11-11T20:50:49Z,odelic,0.2.0,rbstxt,MIT,54986,Unofficial Python library for ODELIC Bluetooth lights (Pairlink connected-mesh)
+2026-11-11T20:57:22Z,eryx-run,0.1.0,,MIT OR Apache-2.0,99592,"Run Python in an eryx sandbox on eryx.run, with the same API as pyeryx"
+2026-11-11T21:00:25Z,ui-network-mcp,0.1.0,Henrik Panhans,MIT,92467,MCP server for the UniFi Network API
+2026-11-11T21:01:08Z,lilac-sdk,2.2.0,Lilac <founders@trylilac.ai>,MIT,16040,"Send a Python agent's OpenTelemetry GenAI spans (Pydantic AI, Logfire, OpenAI Agents SDK) to Lilac."
+2026-11-11T21:05:18Z,gtfs-hub,0.1.0,grozycki,MIT,78989,Provider-agnostic GTFS schedule library for low-memory hardware
+2026-11-11T21:08:29Z,astroimred,0.4.0,ysBach,BSD-3-Clause,467547,FITS file management and lightweight inspection utilities.
+2026-11-11T21:08:44Z,chunkstream,0.1.0,Hamidreza <h4midreza.ir@gmail.com>,MIT,20353,"Zero-dependency memory-efficient streaming chunk buffer, delimiter-aware frame accumulator, and SSE parser for Python."
+2026-11-11T21:08:47Z,gtfs-hub-gzm,0.1.0,grozycki,MIT,19507,GZM provider for gtfs-hub
+2026-11-11T21:11:57Z,sidescanpy,0.10.1,Russ Shomberg <rshomberg@uri.edu>,MIT,1809722,"Read, correct, grid and export sidescan sonar data"
+2026-11-11T21:13:06Z,ampup-memory,0.1.0,,Apache-2.0,22069,A thin Python client for an AmpUp Memory server: team memory for coding agents
+2026-11-11T21:15:22Z,TikTokLiveApiSdk,0.1.0,EulerStream,MIT,781509,"TikTok LIVE API SDK for Python. Real-time TikTok LIVE chat, gifts, likes, follows, viewer counts and PK battles via the EulerStream managed TikTok LIVE API, with typed clients for LIVE rooms, creator…"
+2026-11-11T21:15:27Z,TikTokApiSdk,0.1.0,EulerStream,MIT,992872,"TikTok API SDK for Python. Typed sync and async client for the EulerStream TikTok API: user profiles, videos, OAuth, request signing and captcha solving, plus the full TikTok LIVE API for real-time c…"
+2026-11-11T21:16:41Z,gpex,0.1.0,Alexander von Rohr,MIT,135886,Gaussian processes for experimental design in JAX
+2026-11-11T21:18:10Z,tomeline,0.0.1,,,2427,Reserved name. Nothing to install yet.
