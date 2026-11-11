@@ -1,0 +1,32 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T22:21:26Z,jobtrack,0.1.0,,MIT,1534892,Track job applications and employer responses by reading your Gmail inbox.
+2026-11-11T22:24:22Z,openbench-ai,0.4.0,Lakshay Chhaba,MIT,469936,"A modular, open-source LLM experiment execution, evaluation, statistical comparison, and benchmarking platform."
+2026-11-11T22:24:44Z,opendata-cvm,0.26.23,guilhermegor,MIT,1123533,Simple and efficient Python library to interact with CVM regulatory filings.
+2026-11-11T22:26:23Z,mlxvs,0.2.0,mikepapadim,Apache-2.0,816080,"GPU k-NN search and k-NN graph construction on Apple silicon, built on MLX"
+2026-11-11T22:26:35Z,cybertek-delta-probe,1.0.0,,,1331,
+2026-11-11T22:26:57Z,cybertek-delconfirm-probe,1.0.0,,,1394,
+2026-11-11T22:27:59Z,pylair-ollama,0.1.0rc2,,MIT OR Apache-2.0,24862,"Optional Ollama integration for Pylair apps: detect, status, stream completions through the normal bridge"
+2026-11-11T22:28:48Z,dagnosis,0.0.1,,MIT,3200,Find out why your data pipeline failed.
+2026-11-11T22:30:01Z,modpkgbuild,0.1.0,Russell Wright Helder <rwh@russellhelder.net>,MIT,10781,Creates a new PKGBUILD by modifying another
+2026-11-11T22:30:09Z,speechjenerator,0.2.0,Warren Davies,,17705,It does TTS.
+2026-11-11T22:34:18Z,oak-domain-energy,0.1.0,,Apache-2.0,1677434,U.S. electricity intelligence domain for OakQuant
+2026-11-11T22:37:10Z,pylair,0.1.0rc1,,MIT OR Apache-2.0,55812,"Pylair Python runtime: @expose decorator, protocol server, task runner, cancellation, schema export"
+2026-11-11T22:39:31Z,clickhouse-loom,1.1.0,"ClickHouse, Inc.",Apache-2.0,490977,"Python SDK for Loom — shared-production agent memory, knowledge, conflict, and observability plane on ClickHouse."
+2026-11-11T22:41:29Z,silvic,0.1.0,Ben Magyar <me@benmagyar.com>,MIT,3617628,"LightGBM-compatible gradient boosting on CPU, Metal, CUDA and AWS Neuron, single-node or distributed on Ray"
+2026-11-11T22:43:10Z,ai-agent-arcade,0.1.3,,,872411,A single-pane Textual arcade for referee-verified model chess matches
+2026-11-11T22:44:31Z,geofeatkit,0.1.0,A. Osinkin,MIT,11077380,"Offline geo features from lat/lon: country, cities, capitals, city types, distances, density, city structure"
+2026-11-11T22:46:11Z,RewardAudit,0.3.0,"Zixiang Xu, Yue Zhao",Apache-2.0,479218,"Automated testing of rule-based verifiers (checkers, reward functions) for LLM evaluation and RLVR."
+2026-11-11T22:47:09Z,treasury-mcp-os,0.2.0,Grant Page,MIT,62171,"MCP server for small-business treasury and credit analysis: cash, forecasting, working capital, covenants, FX, and loan readiness."
+2026-11-11T22:49:13Z,hedgehood-maker,0.1.0,Hedgehood,MIT,63070,"Market-maker SDK for the Hedgehood options RFQ gateway: EIP-712 quotes, a WebSocket maker client and unsigned settler transactions"
+2026-11-11T22:49:52Z,pygeokit,0.1.1,A. Osinkin,MIT,11077415,"Offline geo features from lat/lon: country, cities, capitals, city types, distances, density, city structure"
+2026-11-11T22:50:46Z,monopolygo-rewards,20261111225036.dev0,,,50648,null
+2026-11-11T22:55:21Z,abilian-ds,0.1.0,Stefane Fermigier <sf@abilian.com>,Apache-2.0,191793,Abilian Design System — a closed token vocabulary for Litestar and Jinja
+2026-11-11T22:55:47Z,wagtail-cookie-consent,0.1.0,"Limitless Horizons Development, LLC",BSD-3-Clause,60863,"A cookie consent banner for Wagtail, set up in the Wagtail admin."
+2026-11-11T22:57:43Z,kezek,1.0.0,"Bagzhan Karl <bagzhankarl@manifestro.io>, Alizhan Karl <alizhankarl@manifestro.io>",MIT,37949,Two-person conversation separation from one mono recording: one time-aligned track per person
+2026-11-11T22:57:46Z,heritage-themes-pygments,1.9.0,Heritage Themes,MIT,28584,Heritage Themes for Pygments
+2026-11-11T23:02:05Z,constellation-space,0.7.0,,Apache-2.0,111828,"Constellation's Python client, workflow results protocol, bridge template and bridges"
+2026-11-11T23:07:08Z,finopspp,0.1.0,Travis Salas Cox,,18259,CLI tool used for the FinOps++ Assessment.
+2026-11-11T23:10:47Z,sheet-audit-trail,1.0.0,RyMB-007,MIT,64264,"Audit-grade diffs for Excel workbooks and Google Sheets, posted to GitHub pull requests."
+2026-11-11T23:12:11Z,biss-auth-server,0.3.0,,MIT,3514,"Shared BISS server-side OIDC authentication, compatible with caselaw-auth-server."
+2026-11-11T23:15:36Z,ovicore,0.1.0,Daniel Ferreira Schopf,MIT,56764,Avaliação padronizada e reprodutível de detectores de objetos treinados em diferentes frameworks
+2026-11-11T23:18:57Z,fetchium,1.0.0,fetchium-dev,MIT,1456970,"Fast, typed web fetch helpers for Python."
