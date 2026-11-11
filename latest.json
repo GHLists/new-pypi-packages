@@ -1,27 +1,27 @@
 {
   "list": {
     "count": 46,
-    "from": "2026-11-11T17:20:24.233687Z",
-    "path": "data/new-packages-2026-11-11T18-18-42-741032Z.csv",
-    "to": "2026-11-11T18:18:42.741032Z"
+    "from": "2026-11-11T18:18:42.741032Z",
+    "path": "data/new-packages-2026-11-11T19-18-53-5006Z.csv",
+    "to": "2026-11-11T19:18:53.5006Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-11T16:04:35Z",
       "package": "ipabuse",
       "since": "2026-11-11T15:19:01.043536Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-11T17:51:40Z",
       "package": "relate-db",
       "since": "2026-11-11T17:20:24.233687Z",
       "version": null
     }
   ],
-  "serial": 43518074,
+  "serial": 43520590,
   "source_truncated": false,
-  "window": "2026-11-11T18:18:42.741032Z"
+  "window": "2026-11-11T19:18:53.5006Z"
 }

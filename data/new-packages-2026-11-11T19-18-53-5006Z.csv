@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T18:21:52Z,llmtracefx,1.12.0,LLMTraceFX Team <info@llmtracefx.com>,Apache-2.0,2177719,"Evidence-first inference measurement, verification, and constrained optimization toolkit"
+2026-11-11T18:21:56Z,pmfees,0.1.0,SwapHunt <github@swaphunt.dev>,MIT,46147,"Exact trading fees for Kalshi, Polymarket US and polymarket.com, with a CLI and break-even helper."
+2026-11-11T18:23:18Z,pipecat-chatfx,0.1.0,"""ChatRep, Inc."" <service@chatfx.com>",BSD-2-Clause,29391,ChatFX Avatar for Pipecat: a real-time talking face for your Pipecat bot
+2026-11-11T18:24:19Z,lsdtt3,0.9.5,"Simon M. Mudd, Rutger Vervoordeldonk, Boris Gailleton, Martha E. Hawksworth, Fiona J. Clubb, Stuart…",AGPL-3.0-or-later,209796356,"Topographic analysis for geomorphology: flow routing, channel networks, chi, hillslopes, cosmogenic nuclides and landscape evolution (LSDTopoTools3)"
+2026-11-11T18:24:36Z,captchaai-mcp,1.0.0,captchaai-developers,MIT,20475,Official MCP server for CaptchaAI — expose token-mode CAPTCHA solving to AI agents.
+2026-11-11T18:24:49Z,multiagent-flight-recorder,0.2.0,Mihir Ajmera,MIT,79354,"Audit-grade flight recorder for AI agents: policy on every MCP tool call, a signed hash-chained log, and OSCAL evidence"
+2026-11-11T18:24:54Z,ai-gateway-audit,0.1.0,Mihir Ajmera,MIT,65385,"Audit AI gateway (LiteLLM) configuration against tier-0 controls, with hashed evidence and OSCAL output"
+2026-11-11T18:25:27Z,swallo,0.1.0,Raunak Nayak,MIT OR Apache-2.0,402242,"Portable, reviewable handoff between any chat agent and any IDE"
+2026-11-11T18:26:14Z,univii,0.1.0,"""Andrew J. Ashford"" <ashforda@ohsu.edu>",MIT,369600,"UniVII: the UniVI mixture-of-experts multimodal variational autoencoder for single-cell multi-omics, extended with hyperbolic latent spaces, convolutional encoders, spatial tools and plug-in architec…"
+2026-11-11T18:26:18Z,tiferet-stocks,1.0.0b1,"""Andrew Shatz, Great Strength Systems"" <andrew@greatstrength.me>",MIT,83555,"Provider-neutral symbols, quotes, daily history and watchlists for the Tiferet framework"
+2026-11-11T18:26:40Z,bricksentry-mcp,0.1.7,Brahma,Apache-2.0,11960,MCP server for bricksentry: a safety check for AI agent and pipeline writes to Databricks tables. Installs bricksentry with its MCP and Databricks extras.
+2026-11-11T18:26:57Z,desktop-lifecycle,0.1.3,desktop-lifecycle contributors,MIT,65527,"The boring parts of a small Python desktop app: single-instance lock, XDG paths, autostart, menu entry, session and tray detection, rotating logs."
+2026-11-11T18:28:00Z,ktcompute,0.0.1,Andreas V. Copan,MIT,6635,
+2026-11-11T18:29:35Z,pico-lab,0.1.0,,MIT,20168,AI and Machine Learning Laboratory Toolkit for Robotics
+2026-11-11T18:30:08Z,chipotle-quests,0.1.0,Team Chipotle,GPL-3.0-only,108720,Turn everyday tasks into fantasy quests and manage quest lists.
+2026-11-11T18:30:27Z,cpt-vs-tool,0.1.0b2,"Zhaoting S. Zhang, Scott J. Brandenberg, Jonathan P. Stewart",BSD-3-Clause,40388,"Shear wave velocity (Vs) interpretation from seismic CPT data: Zhang et al. CPT-Vs model, Robertson (2012) and layer-based regression."
+2026-11-11T18:31:50Z,qweb-rs,0.1.2,David Bosch,LGPL-3.0-only,5233847,"Fast QWeb templating engine (Rust), drop-in for Odoo's ir.qweb rendering"
+2026-11-11T18:32:49Z,moshpdf-mirelkorajac,1.0,,,27494,
+2026-11-11T18:34:36Z,catincloud-crosslink,0.1.0,David Anaya,Apache-2.0,186304,"A project format reduced from an orchestrated asset graph, and the write path back to it"
+2026-11-11T18:37:06Z,eigencore,0.4.1,Khubaib Nazeer <khubaibnazeer8@gmail.com>,MIT,812099,"CPU-first LLM intelligence runtime — hardware-aware inference, training, and agent orchestration"
+2026-11-11T18:37:35Z,gucmail,1.1.0,GUC Mail CLI contributors,MIT,5372072,"An independent, security-focused terminal client for GUC Exchange mailboxes"
+2026-11-11T18:38:55Z,lomberk,0.2.0,,Apache-2.0 AND Elastic-2.0,315525,"Every agent write, reversible: an MCP gateway for PostgreSQL that blocks destructive SQL, holds risky writes for a person and can undo any applied write."
+2026-11-11T18:40:20Z,adafruit-circuitpython-lt8912b,1.0.0,Adafruit Industries <circuitpython@adafruit.com>,Apache-2.0,47046,CircuitPython driver for the LT8912B MIPI DSI to HDMI/DVI bridge.
+2026-11-11T18:40:26Z,nmslib-rs,0.1.0,,MIT,10352323,HNSW approximate nearest neighbor search in Rust
+2026-11-11T18:41:14Z,psc-sr-robot3,2026.0.3.18,PSC Robotics,MIT License Copyright (c) 2019-21 Dan Trickey Copyright (c) 2023 SourceBots Permission is hereby gr…,217285,PSC Robotics' version of the Student Robotics API for Python 3
+2026-11-11T18:42:53Z,pylea,0.1.0,Benedikt Peterseim,MIT,516521,Discrete probabilistic programming in Python
+2026-11-11T18:43:37Z,modelpin-relay,0.1.1,,Apache-2.0,68382,Sends Modelpin check and watch results from CI to Jira and Bitbucket
+2026-11-11T18:45:22Z,libfind,0.1.0,Chintu Sharma,,7662,A Python tool to find functions and classes in libraries and packages
+2026-11-11T18:45:25Z,fekoz-skillvet,0.1.1,Fekoz Studio,MIT,49312,"Lint Claude Code skills, subagents and hooks: broken frontmatter, descriptions that never trigger, missing files, invalid hook config and leaked API keys."
+2026-11-11T18:48:03Z,podcue,0.2.0,Jianyu Zhao,MIT,231967,"Turn podcast audio into timed, speaker-grouped cues an agent can read."
+2026-11-11T18:48:37Z,pucha-123,0.2.3,Payasam Addict,MIT,72437,"Clinical data analysis lab code (Problems 1-5) with dataset. Install, then run: pucha-123"
+2026-11-11T18:49:49Z,fin3,0.4.0,,,333203,Declarative financial time-series data library for VectorBT Pro backtesting
+2026-11-11T18:53:15Z,rakho,0.2.0,Rakho,MIT,65448,"Agent memory that inspects before it keeps, and can prove what it forgot."
+2026-11-11T18:53:22Z,wbxsandbox,0.15.2,KXCOMM s.r.o.,MIT,39204,Python SDK for WBX Sandbox – isolated cloud sandboxes (Firecracker microVMs) for AI agents
+2026-11-11T18:55:33Z,proper-transient-finder,0.3.1,Pier-Francesco Rocci,BSD-3-Clause,218863,PSF-matched FITS difference imaging and transient candidate analysis.
+2026-11-11T19:01:38Z,flux-sim-engine,0.2.0,Agentics Transformation Ltd,Apache-2.0,1296972,"FLUX Simulation Engine: the runtime for FLUX bundles -- deterministic, governed simulation under a referenced FLUID contract."
+2026-11-11T19:02:29Z,torchcodec-ffmpeg,8.1.3,tsukumi <tsukumijima@users.noreply.github.com>,,80511945,"FFmpeg shared libraries for TorchCodec, installable with pip and uv"
+2026-11-11T19:03:18Z,nextcloud-client,0.211.0,Chris Coutinho,AGPL-3.0-only,324079,"Async Python clients for the Nextcloud APIs: WebDAV, CalDAV, CardDAV, Notes, Deck, Tables, Talk, Mail and more"
+2026-11-11T19:05:07Z,langchain-wbxsandbox,0.1.0,KXCOMM s.r.o.,MIT,19103,WBX Sandbox integration for Deep Agents – run agent code in Firecracker microVMs
+2026-11-11T19:07:18Z,pepkio-mol-mass-converter,0.1.0,,,39645,Python client for Pepkio mol-mass-converter tool
+2026-11-11T19:08:16Z,simple-tea,0.0.1,"Fedor Lemdyasov <frlemdyasov@gmail.com>, Daniel McCall <dmccal42@gmail.com>, Pouriya Mehrabani <pou…",GPL-3.0-or-later,29958,"A general purpose techno-economic analysis simulator for chemical processes, derived from common heuristics."
+2026-11-11T19:09:32Z,brambles-aix,0.1.0,"""Brambles.ai"" <hello@brambles.ai>",Copyright (c) 2026 Brambles.ai. All rights reserved. You may install and use this software only to…,82250,"Client SDK for the Agentic Intent Exchange (AIX) HTTPS API: send intent, report handoffs, receive and verify deliveries."
+2026-11-11T19:11:08Z,orlalabs-caliper,0.1.0,Orla Labs,Apache-2.0,762359,"Know when a model or prompt change breaks your AI feature, before your users do: replay a golden set, measure against replay noise, gate CI on regression and cost."
+2026-11-11T19:11:56Z,alarm-events,0.1.3,,,18753,Python client for the Equinor IOC IIOT Alarm and Events API
+2026-11-11T19:11:57Z,repoprobe,0.1.1,Manaswi Chowdary Makkena,MIT,42950,Summarize the architecture of any GitHub repo from your terminal.
+2026-11-11T19:17:48Z,benchloom,0.1.3,Friedrich-Christer Rosenthal,AGPL-3.0-or-later,1137825,Open lab automation: wire up instruments visually or script them in Lua.
