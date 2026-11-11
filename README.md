@@ -8,46 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 23:20 UTC
+## Latest list — 2026-11-11 00:20 UTC
 
-New packages created between 2026-11-10 22:19 UTC and 2026-11-10 23:20 UTC.
+New packages created between 2026-11-10 23:20 UTC and 2026-11-11 00:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-10T23-20-50-432168Z.csv)
+[Full CSV](data/new-packages-2026-11-11T00-20-27-608388Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-10 20:21:00 | [microsoft-copilot-sdk](https://pypi.org/project/microsoft-copilot-sdk/) | 1.0.29.dev429101033… | GitHub <opensource@github.com> | 1.1 MB | Python SDK for GitHub Copilot CLI |
-| 2026-11-10 22:20:40 | [certone-sdk](https://pypi.org/project/certone-sdk/) | 0.2.0 | Certkor AI | 37.1 kB | CertOne SDK — typed API client, certone-submit (confidential scan + verdict gat… |
-| 2026-11-10 22:21:39 | [heronhex-institutions](https://pypi.org/project/heronhex-institutions/) | 0.1.1 | "Byron Sayres (Heron & Hex So… | 176.0 kB | MCP server: resolve and compare U.S. higher-ed institutions using free public d… |
-| 2026-11-10 22:22:22 | [librats](https://pypi.org/project/librats/) | 3.0.5.dev2 | librats contributors | 5.6 MB | Python bindings for librats P2P networking library |
-| 2026-11-10 22:27:08 | [kohakutt](https://pypi.org/project/kohakutt/) | 0.1.0 |  | 49.3 MB | Native PyTorch execution on Tenstorrent Blackhole through TT-NN and TT-Metalium |
-| 2026-11-10 22:27:09 | [docyard](https://pypi.org/project/docyard/) | 0.1.0 | Mapnomad | 3.6 MB | Python bindings for the docyard documentation generator. |
-| 2026-11-10 22:27:41 | [heronhex-risk](https://pypi.org/project/heronhex-risk/) | 0.1.1 | "Byron Sayres (Heron & Hex So… | 153.6 kB | MCP server: Title IV risk signals for U.S. institutions (heightened cash monito… |
-| 2026-11-10 22:28:16 | [gist-sampling](https://pypi.org/project/gist-sampling/) | 0.2.0 | Filip | 50.5 kB | Diverse, representative subset selection with GIST (Greedy Independent Set Thre… |
-| 2026-11-10 22:28:30 | [groupunit](https://pypi.org/project/groupunit/) | 0.2.0 | Tim Kmecl <tim.kmecl.tk@gmail… | 77.3 kB | Correlation, PLS, CCA and similarity analyses when annotations exist only for g… |
-| 2026-11-10 22:30:10 | [northcel-vello](https://pypi.org/project/northcel-vello/) | 0.7.0 |  | 10.5 MB | Optional Vello/wgpu renderer for NorthCel NCIR v2 (tolerance tier). |
-| 2026-11-10 22:30:26 | [innovaccer-hmcp](https://pypi.org/project/innovaccer-hmcp/) | 0.1.0 | Innovaccer | 284.9 kB | Healthcare Model Context Protocol (HMCP): patient-context and guardrails extens… |
-| 2026-11-10 22:30:38 | [duetist](https://pypi.org/project/duetist/) | 0.1.0 | Patrick Crock <pat.crock@svi.… | 57.6 kB | Kernel smoothing of transcript embeddings and a hierarchical Potts model of nic… |
-| 2026-11-10 22:31:12 | [snowfcm](https://pypi.org/project/snowfcm/) | 0.1.0 |  | 2.5 MB | Matrix-free multigrid finite cell solver on the CPU for the effective elastic m… |
-| 2026-11-10 22:32:07 | [heronhex-accreditation](https://pypi.org/project/heronhex-accreditation/) | 0.1.0 | "Byron Sayres (Heron & Hex So… | 140.0 kB | MCP server: institutional, programmatic and state-agency accreditation status a… |
-| 2026-11-10 22:35:26 | [heronhex-funding](https://pypi.org/project/heronhex-funding/) | 0.1.1 | "Byron Sayres (Heron & Hex So… | 155.8 kB | MCP server: research spending, federal grant awards and opportunities, state hi… |
-| 2026-11-10 22:36:21 | [foresealed](https://pypi.org/project/foresealed/) | 0.0.2 |  | 9.5 kB | Reserved for Foresealed. |
-| 2026-11-10 22:38:12 | [swapcheck](https://pypi.org/project/swapcheck/) | 0.1.1 |  | 160.2 MB | Know when your hosted LLM model is changing, find what to move to, and prove th… |
-| 2026-11-10 22:40:09 | [heronhex-labor](https://pypi.org/project/heronhex-labor/) | 0.1.0 | "Byron Sayres (Heron & Hex So… | 187.0 kB | MCP server: align higher-ed programs with labor-market demand using free public… |
-| 2026-11-10 22:43:38 | [shakeout](https://pypi.org/project/shakeout/) | 0.1.0 |  | 385.3 kB | Static tree-shaking bundler for Python |
-| 2026-11-10 22:46:27 | [pathofbuilding-mcp](https://pypi.org/project/pathofbuilding-mcp/) | 0.4.0 |  | 241.7 kB | MCP server that runs Path of Building Community's Lua calc engine headlessly |
-| 2026-11-10 22:54:05 | [neraulgraphics](https://pypi.org/project/neraulgraphics/) | 0.4.0 | Anthony Angeles | 4.2 MB | A raytracing rendering engine for games and simulation: GPU (CUDA) or CPU, from… |
-| 2026-11-10 22:54:36 | [twidr](https://pypi.org/project/twidr/) | 0.4 |  | 49.5 kB | the Twitter–Wayback Machine Image Download Robot |
-| 2026-11-10 22:57:11 | [jinjasubst](https://pypi.org/project/jinjasubst/) | 0.1.0 | Nadav Tasher <hey@nadav.app> | 7.4 kB | Render stdin as Jinja2 template using environment variables |
-| 2026-11-10 22:58:56 | [creature-lab](https://pypi.org/project/creature-lab/) | 0.3.0 |  | 8.4 MB | Shove a real robot, see exactly why it fell, and prove the fix: a browser app a… |
-| 2026-11-10 23:00:25 | [3gpp-crawler](https://pypi.org/project/3gpp-crawler/) | 2026.11.10 | Jan Reimes <jan.reimes@head-a… | 645.4 kB | Crawl 3GPP FTP server, cache all(!) 3GPP document data, return structured JSON/… |
-| 2026-11-10 23:05:07 | [ascend-runitback](https://pypi.org/project/ascend-runitback/) | 0.1.0 |  | 67.0 kB | A lighthearted Python package from the Run It Back team. |
-| 2026-11-10 23:05:51 | [jqnm](https://pypi.org/project/jqnm/) | 0.1.0 | Cedric Ewen <chessdric@gmail.… | 135.8 kB | JAX-accelerated package for computing Kerr quasinormal mode frequencies with au… |
-| 2026-11-10 23:06:14 | [esmorph](https://pypi.org/project/esmorph/) | 0.1.0 | Sergey Shkarin <kouki.sergey@… | 58.2 MB | Fast Spanish morphological analyzer written in Rust with a Python API |
-| 2026-11-10 23:12:21 | [replayline](https://pypi.org/project/replayline/) | 0.1.0 |  | 262.4 kB | Record, replay and debug real-time voice AI agent calls: audio and pipeline dec… |
-| 2026-11-10 23:14:13 | [tnkit](https://pypi.org/project/tnkit/) | 0.2.0 | Aditya Tandon | 606.5 kB | Matrix-product-state library with DMRG and TDVP on numpy and PyTorch backends,… |
-| 2026-11-10 23:14:39 | [datahub-context](https://pypi.org/project/datahub-context/) | 0.0.1 | DataHub | 1.5 kB | Reserved. |
-| 2026-11-10 23:14:40 | [datahub-context-cloud](https://pypi.org/project/datahub-context-cloud/) | 0.0.0 | DataHub | 1.7 kB | The DataHub Cloud plugin for ctx (datahub-context). It is served by your DataHu… |
-| 2026-11-10 23:15:03 | [convos-orchestrate](https://pypi.org/project/convos-orchestrate/) | 0.11.6b37 |  | 143.4 kB | Agentic IDE for Convos: a durable home for agent sessions, their work items, re… |
-| 2026-11-10 23:15:44 | [mcrotk-cache-utils](https://pypi.org/project/mcrotk-cache-utils/) | 0.1.0 | Michael C. Rotkowitz | 64.6 kB | Caching decorators for Python methods and functions: a cache per instance, easy… |
-| 2026-11-10 23:19:44 | [originalpictures-mcp](https://pypi.org/project/originalpictures-mcp/) | 0.1.0 | "Original Pictures Technologi… | 47.3 kB | MCP server: sign media with C2PA Content Credentials, add invisible watermarks,… |
+| 2026-11-10 23:20:47 | [originalpictures-disclosure](https://pypi.org/project/originalpictures-disclosure/) | 0.1.0 | "Original Pictures Technologi… | 46.4 kB | AI disclosure rules (EU AI Act Article 50, California SB 942) and tamper-eviden… |
+| 2026-11-10 23:21:06 | [horo-pstack](https://pypi.org/project/horo-pstack/) | 0.15.36 |  | 308.2 kB | pstack skills (Lauren Tan, MIT) packaged as a Hermes plugin for pip-only instal… |
+| 2026-11-10 23:31:01 | [purger](https://pypi.org/project/purger/) | 0.2.0 | Nate Landau | 116.1 kB | Find and clean rebuildable developer caches to free disk space. |
+| 2026-11-10 23:34:52 | [cylc-monitor](https://pypi.org/project/cylc-monitor/) | 2026.11.2 | ucgmsim | 138.9 kB | A Cylc 8 main-loop plugin that uploads a workflow's own database to a Datasette… |
+| 2026-11-10 23:40:45 | [a11ydebt](https://pypi.org/project/a11ydebt/) | 0.1.0 | Obada Kraishan | 108.3 kB | Audit accessibility debt (missing content descriptions) in the GUI corpora that… |
+| 2026-11-10 23:40:53 | [eddy-solve](https://pypi.org/project/eddy-solve/) | 0.1.0 | Eddy | 912.9 kB | Eddy — geometry, physics and space behind one typed API. The Python client, gen… |
+| 2026-11-10 23:40:55 | [eddy-isaaclab](https://pypi.org/project/eddy-isaaclab/) | 0.1.0 | Eddy | 22.4 kB | Eddy's engineering truth beside Isaac Lab: the peak contact force per body over… |
+| 2026-11-10 23:43:30 | [endia](https://pypi.org/project/endia/) | 0.0.1 | teaToolkit | 122.1 kB | Client for EastIndia, which runs Windows desktop test machines that tests drive… |
+| 2026-11-10 23:43:57 | [vcti-usd-schema-delivery](https://pypi.org/project/vcti-usd-schema-delivery/) | 0.1.0 | Visual Collaboration Technolo… | 153.4 kB | Codeless OpenUSD schema for the VCollab delivery model, the stage the server bu… |
+| 2026-11-10 23:46:09 | [agent-reliability-lab](https://pypi.org/project/agent-reliability-lab/) | 0.3.0 | Sivaram Vangavolu | 485.5 kB | Chaos engineering for AI agents: attack, score, and gate deploys. |
+| 2026-11-10 23:46:22 | [blujay](https://pypi.org/project/blujay/) | 1.0.0 | Blujay <support@blujay.io> | 602.5 kB | Official Python library for the Blujay API: send and receive iMessage, RCS and… |
+| 2026-11-10 23:47:45 | [quantumpipe](https://pypi.org/project/quantumpipe/) | 0.1.0 |  | 54.5 kB | Quantum resistant hybrid ML-KEM-768 + X25519 key exchange with ChaCha20-Blake3… |
+| 2026-11-10 23:50:19 | [samgov-opportunities-mcp](https://pypi.org/project/samgov-opportunities-mcp/) | 0.2.1 | Clean Data Labs | 22.6 kB | MCP server for SAM.gov federal contract opportunities: search by NAICS, PSC, se… |
+| 2026-11-10 23:50:57 | [robot-msgs](https://pypi.org/project/robot-msgs/) | 0.1.0 | Zach Yamaoka | 247.3 kB | Standard robot message types as frozen Python dataclasses, with the helper func… |
+| 2026-11-10 23:57:05 | [bihalofit-jax](https://pypi.org/project/bihalofit-jax/) | 0.1.0 | Alexander Roskill <alexander.… | 142.4 kB | JAX implementation of the BiHaloFit nonlinear matter bispectrum (Takahashi et a… |
+| 2026-11-11 00:00:37 | [um-smart-hub](https://pypi.org/project/um-smart-hub/) | 0.1.0 | Matt Trentini | 24.7 kB | Python library and CLI for the UM Smart USB Hub |
+| 2026-11-11 00:00:58 | [mailauth-records](https://pypi.org/project/mailauth-records/) | 0.1.0 | mailcheck <pypi-n5t87@tuxguar… | 5.7 kB | Parse SPF, DMARC, MTA-STS and TLS-RPT DNS records into plain Python data (no de… |
+| 2026-11-11 00:01:00 | [ironvise](https://pypi.org/project/ironvise/) | 0.8.0 | Björn Roman Kohlberger <ironv… | 73.8 kB | AI firewall and hash-chained, signed audit trail for AI agents. Python SDK for… |
+| 2026-11-11 00:03:01 | [litellm-lint](https://pypi.org/project/litellm-lint/) | 0.1.0 | LeeGyeongPil | 217.6 kB | Static linter for LiteLLM proxy config.yaml: typo'd keys, missing env vars, dan… |
+| 2026-11-11 00:04:11 | [udevmon](https://pypi.org/project/udevmon/) | 0.8.1 | Juan Domingo Martín | 477.4 kB | Run user-defined actions when USB devices or removable filesystems appear or di… |
+| 2026-11-11 00:06:39 | [transitfreq](https://pypi.org/project/transitfreq/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 73.0 kB | Transit service frequency analysis from GTFS Schedule feeds: service calendars,… |
+| 2026-11-11 00:06:45 | [isovist](https://pypi.org/project/isovist/) | 0.1.1 | Yusuf Eminoğlu <geospacephilo… | 74.9 kB | Exact 2D isovists, isovist shape measures, point-to-point intervisibility and v… |
+| 2026-11-11 00:06:46 | [erl-CaTL](https://pypi.org/project/erl-CaTL/) | 1.0.0 | Crockett Hensley <crh325@lehi… | 44.8 kB | Capability Temporal Logic Tool |
+| 2026-11-11 00:06:50 | [tr-dop](https://pypi.org/project/tr-dop/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 106.9 kB | Turkish land readjustment (arazi ve arsa düzenlemesi, İmar Kanunu m.18) calcula… |
+| 2026-11-11 00:08:20 | [tr-yangin](https://pypi.org/project/tr-yangin/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 94.4 kB | Early-design fire-safety checks under the Turkish fire protection regulation (B… |
+| 2026-11-11 00:08:31 | [facloc](https://pypi.org/project/facloc/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 89.6 kB | Facility location-allocation for public-service planning: p-median, p-center, m… |
+| 2026-11-11 00:08:31 | [lstcalc](https://pypi.org/project/lstcalc/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 67.0 kB | Land surface temperature (LST) and urban heat island metrics from Landsat 8/9 C… |
+| 2026-11-11 00:09:55 | [pygrm](https://pypi.org/project/pygrm/) | 0.1.0 | Anthony Charretier | 73.9 kB | Global Relational Model: a log-space relational solver that finds the values, t… |
+| 2026-11-11 00:09:57 | [streetform](https://pypi.org/project/streetform/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 78.4 kB | Street-network form and connectivity metrics from GeoJSON lines: planar graph b… |
+| 2026-11-11 00:10:00 | [skyview](https://pypi.org/project/skyview/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 67.6 kB | Sky view factor, topographic openness and street-canyon H/W metrics from DSM ra… |
+| 2026-11-11 00:10:06 | [tr-arsapayi](https://pypi.org/project/tr-arsapayi/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 77.3 kB | Arsa payı (land share) allocation for Turkish condominiums under Kat Mülkiyeti… |
+| 2026-11-11 00:10:49 | [aurum-pay](https://pypi.org/project/aurum-pay/) | 1.2.0 | AURUM Casino <dev@aurum-casin… | 10.4 kB | AURUM Payments SDK — deposits, payouts, refunds and signed webhooks. |
+| 2026-11-11 00:11:23 | [arealinterp](https://pypi.org/project/arealinterp/) | 0.1.0 | Yusuf Eminoğlu <geospacephilo… | 91.6 kB | Areal interpolation between incompatible zone systems: exact-overlay area weigh… |
+| 2026-11-11 00:12:08 | [racer-raman](https://pypi.org/project/racer-raman/) | 0.1.0 | Jason W. Yu, Doeke R. Hekstra | 89.4 kB | Readout-aware empirical-Bayes correction of cosmic rays in detector images and… |
+| 2026-11-11 00:12:12 | [alfrd-gsheet](https://pypi.org/project/alfrd-gsheet/) | 0.2.0 |  | 217.9 kB |  |
+| 2026-11-11 00:12:26 | [tante](https://pypi.org/project/tante/) | 0.0.0 | Thomas Wening | 2.3 kB | Placeholder for Tante, a symbolic mathematics engine for physicists (in design). |
+| 2026-11-11 00:15:13 | [CAPEnewsindex](https://pypi.org/project/CAPEnewsindex/) | 1.0.0 | Shakir Adeyemi Tewogbade | 276.6 kB | Build news-based Economic Policy Uncertainty (EPU) indices from newspaper archi… |
+| 2026-11-11 00:19:22 | [portregistry](https://pypi.org/project/portregistry/) | 0.2.0 | AndyFerns | 629.2 kB | Local-first, cross-platform port discovery and service registry |
