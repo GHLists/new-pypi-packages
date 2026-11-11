@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T13:22:47Z,terminal-pet-respin,0.1.0,"YusefMoustafa, sing1179, TonyyZhou, denisekos, 9021007",GPL-3.0-or-later,42328,A tiny pet python that grows as you run terminal commands.
+2026-11-11T13:26:19Z,sashiny,0.1.1,"Shreya Sharma, Love ProCogia, Igor ProCogia, Ahmer Khan",MIT,108274,Use unchanged SAS programs as the server of Shiny applications.
+2026-11-11T13:26:21Z,lsdviztools3,0.4.1,Rutger Vervoordeldonk,MIT,976935,PyGMT-based visualisation tools for LSDTopoTools v3 (lsdtt3) output.
+2026-11-11T13:26:42Z,beeping,1.1.0,Sergey Pankov,MIT,29232,"Classic ping you can also hear: a high beep on send, a low blip on reply, the gap is the RTT"
+2026-11-11T13:27:16Z,cybertek-authz-second,1.0.0,,,1161,Cybertek authorized VAPT test project
+2026-11-11T13:27:39Z,aixand-undercurrent-sdk,0.1.0b0,,Apache-2.0,18720,Async Python client for the local Undercurrent runtime
+2026-11-11T13:27:39Z,bilby-laplace,0.2.0,Gregory Ashton,MIT,307036,Bilby sampler plugin: Laplace approximation with rejection/importance resampling
+2026-11-11T13:28:45Z,mnml-agent,0.2.0,RafaSG13 <rafasrrg13@gmail.com>,MIT,368544,"Minimal, extensible coding-agent harness"
+2026-11-11T13:30:19Z,circuitpython-rv565,1.2.0,Ayushman Bhattacharya <ayushman.elixpo@gmail.com>,MIT,57344,Play RV565 frame-independent RGB565 video files on CircuitPython displays.
+2026-11-11T13:35:00Z,geppetto-models,1.8.0,Geppetto Ecosystem contributors,Apache-2.0,60207,"Shared data contracts for the Geppetto autonomous-lab ecosystem, including the PCL Agent Interoperability Profile"
+2026-11-11T13:36:11Z,pylos-gx,0.1.1,Larmeal,Apache-2.0,122915,"A framework for encapsulating Great Expectations within data pipelines, providing reusable validation layers, expectation suite management, and seamless pipeline integration."
+2026-11-11T13:37:56Z,beck-bios,0.5.0,Andre Salvo,GPL-3.0-only,122227,Match your BIOS files by MD5 and send them to the right folder on your Recalbox
+2026-11-11T13:39:07Z,csvledger,0.0.2,Thor Whalen,MIT,15557,"Long-form CSV tables that merge idempotently (max, replace-group, change-only, upsert), partitioned by year, in any MutableMapping store: a git-friendly history store with no dependencies."
+2026-11-11T13:39:42Z,unofficial-api-for-porn,0.1.0,Johannes Habel,AGPL-3.0-only,68050,An asynchronous Python API wrapper for porn.com
+2026-11-11T13:41:42Z,qlogicae-cliq,1.0.0,"""Vaughn Cedric L. Araneta"" <vaughncedriclipardoaraneta@gmail.com>",MIT,24086,The CLI framework for QLogicae projects
+2026-11-11T13:42:27Z,sak-guard,0.2.0a1,Pantronux Research (Lead: Irfan Achmad Firmansyah),Apache-2.0,185418,Static pre-commit security guardrail for Solana Agent Kit and agent-client code. The static complement to a runtime transaction firewall.
+2026-11-11T13:46:40Z,coasti-xls-io,0.1.0,Jakob Buergermeister,,133971,"Import Excel files into Postgres, DuckDB and MSSQL with schema validation and before/after preview, and export tables back to Excel."
+2026-11-11T13:47:19Z,pfandbriefcalc,0.1.0,RiskDataScience GmbH,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",368797,Native calculations and auditable controls for German Pfandbriefe
+2026-11-11T13:47:26Z,llm-as-judge-platform,2.3.0,Syed Waleed Ahmed <syedwaleedahmed9@gmail.com>,MIT,410580,"Open-source LLM-as-a-Judge evaluation platform: pairwise, pointwise, reference, ranking, RAG and agent evaluation with bias mitigation, as a Python library, CLI, REST API and Streamlit dashboard. Run…"
+2026-11-11T13:48:06Z,zettcode-models,0.1.0,Chang-LeHung,MIT,10924,A ZettCode plugin: an official model for each vendor API key found in the environment
+2026-11-11T13:53:19Z,PyEtwMonitor,0.0.1,Maurice Lambert,GPL-3.0-or-later,26974,Real-time Windows ETW monitoring module.
+2026-11-11T13:55:17Z,comfoconnect-pro-modbus,0.1.0,comfoconnect-pro-modbus contributors,Apache-2.0,72939,Read and control Zehnder ventilation units through the ComfoConnect PRO gateway over Modbus.
+2026-11-11T13:58:33Z,lampline,0.5.1,Rohan Salvi,Apache-2.0,285140,"vk: build, check and test Lampline voice agents from the terminal, CI, or a coding agent"
+2026-11-11T13:58:43Z,sbud,0.0.1,teaToolkit,MIT,10356,"Client for the sbud service, which manages Docker Sandboxes for AI agents. Early preview."
+2026-11-11T14:00:12Z,GHIElectronics.Endpoint.Devices.Gpio,0.5.1,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,3711,"GPIO for GHI Electronics Endpoint, with the API of .NET's System.Device.Gpio."
+2026-11-11T14:00:18Z,hw-check,0.2.0,group04,MIT,29384,Catch the mistakes that make an autograder score 0.
+2026-11-11T14:00:35Z,GHIElectronics.Endpoint.Devices.I2c,0.5.1,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,2704,"I2C for GHI Electronics Endpoint, with the API of .NET's System.Device.I2c."
+2026-11-11T14:00:58Z,GHIElectronics.Endpoint.Devices.Network,0.5.1,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,4617,"Network on GHI Electronics Endpoint: ethernet, WiFi and PC-shared by kind, not by Linux name."
+2026-11-11T14:01:09Z,ridi-check,0.3.2,ridi-check contributors,MIT,114077,"See what a model or prompt update changed in an LLM assistant's answers, and which changes hold on re-run."
+2026-11-11T14:01:21Z,GHIElectronics.Endpoint.Devices.Pwm,0.5.1,"""GHI Electronics, LLC"" <support@ghielectronics.com>",MIT,2575,"PWM for GHI Electronics Endpoint, with the API of .NET's System.Device.Pwm."
+2026-11-11T14:01:33Z,codemie-cdk-python,0.1.0rc0,EPAM Systems,,194535,CodeMie IaC document envelope (Python)
+2026-11-11T14:02:40Z,testjam-client,1.1.2,,MIT,125496,Python SDK and Robot Framework listener for the Testjam test management server.
+2026-11-11T14:04:46Z,gateseal,0.1.0,Karsten Evers,MIT,609752,Compile reviewed repository policy into native checks
+2026-11-11T14:05:58Z,lupaxa-ssl-info,0.1.0,The Lupaxa Project,"MIT License Copyright (c) The Lupaxa Project Permission is hereby granted, free of charge, to any p…",37088,Show TLS leaf-certificate details for port 443.
+2026-11-11T14:09:25Z,trackoutline,0.1.0,Cédric Duriau,MIT,873676,Turn a Google Maps directions link into a minimalist track outline (PNG or SVG).
+2026-11-11T14:12:27Z,unofficial-api-for-youjizz,0.1.0,Johannes Habel,AGPL-3.0-only,73301,An asynchronous Python API wrapper for YouJizz using eaf-base-api
+2026-11-11T14:12:58Z,kittychart,0.1.2,,MIT,19027657,"Chart.js-compatible charts for graphics-capable terminals (kitty, Ghostty, WezTerm, foot …)"
+2026-11-11T14:15:07Z,qrbar-cli,0.1.0,aaltatan,GPL-3.0-or-later,73246,"Render barcode and QR code labels (docx, ZPL, PDF) from templates and Excel or JSON data, from the command line."
+2026-11-11T14:16:34Z,mandata,0.1.0,Shedrack Chiedozie Aji <shedrack.aji@doztra.ai>,Apache-2.0,21928,The mandate toolkit for agent-initiated payments
+2026-11-11T14:18:58Z,cliv-ai,1.0.0,Meghanath M M,"MIT License Copyright (c) 2026 Meghanath M M Permission is hereby granted, free of charge, to any p…",349434,"Terminal-native AI coding agent with time-travel undo, security guardian, and project onboarding"
+2026-11-11T14:19:32Z,vehiclesdb,0.2.0,VehiclesDB,MIT,149129,"Vehicle makes, models and canonical vehicle ids, from the open CC-BY VehiclesDB dataset."

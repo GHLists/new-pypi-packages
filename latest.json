@@ -1,12 +1,20 @@
 {
   "list": {
-    "count": 46,
-    "from": "2026-11-11T12:21:14.63066Z",
-    "path": "data/new-packages-2026-11-11T13-20-13-744739Z.csv",
-    "to": "2026-11-11T13:20:13.744739Z"
+    "count": 41,
+    "from": "2026-11-11T13:20:13.744739Z",
+    "path": "data/new-packages-2026-11-11T14-20-21-790694Z.csv",
+    "to": "2026-11-11T14:20:21.790694Z"
   },
-  "pending": [],
-  "serial": 43506550,
+  "pending": [
+    {
+      "attempts": 1,
+      "created_at": "2026-11-11T13:26:17Z",
+      "package": "tripcord",
+      "since": "2026-11-11T13:20:13.744739Z",
+      "version": null
+    }
+  ],
+  "serial": 43509026,
   "source_truncated": false,
-  "window": "2026-11-11T13:20:13.744739Z"
+  "window": "2026-11-11T14:20:21.790694Z"
 }
