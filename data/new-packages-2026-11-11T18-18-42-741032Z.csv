@@ -1,0 +1,47 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T17:22:42Z,spec-rail,0.0.0,,,1211,"Name reserved by Bolton & Menk. Private package, not distributed on PyPI."
+2026-11-11T17:22:43Z,bmi-skillhub,0.0.0,,,1213,"Name reserved by Bolton & Menk. Private package, not distributed on PyPI."
+2026-11-11T17:22:43Z,llmjournal,0.0.1,,MIT,2693,"Record LLM calls and their cost, store them in your own database, and render them as HTML. No server."
+2026-11-11T17:28:32Z,binaaz-python-sdk,0.1.0,qiyascc <qiyasturk@gmail.com>,MIT,56403,"Typed Python client for bina.az: sign in by email or SMS code, post, edit, prolong and delete real estate listings, upload photos, read the catalog. Sync and async."
+2026-11-11T17:28:35Z,digitalocean-python-sdk,0.1.0,qiyascc <qiyasturk@gmail.com>,MIT,40772,"A typed Python client for the DigitalOcean Domains and DNS API, sync and async."
+2026-11-11T17:28:38Z,epoint-python-sdk,0.2.0,qiyascc <qiyasturk@gmail.com>,MIT,42673,"Typed Python client for the Epoint (epoint.az) payment gateway, sync and async, safe against double charges."
+2026-11-11T17:28:41Z,fazercards-python-sdk,0.1.1,qiyascc <qiyasturk@gmail.com>,MIT,51615,"Typed Python client for the FazerCards reseller API: game top-ups, gift cards, Telegram Stars and Premium, Steam wallet. Sync and async."
+2026-11-11T17:29:57Z,shem-neural,0.1.0,João Galego,MIT,79956,"shem's neural side: an RV32IM CPU compiled into network weights, and model images"
+2026-11-11T17:30:08Z,disco-eb,2.0.0,"Florian List, Natalia Porqueres, Lawrence Berry",MIT,153279,"A differentiable linear Einstein-Boltzmann solver for cosmology, on the GPU"
+2026-11-11T17:31:05Z,textutils-kit,0.0.1,,,19909,A Python library providing utilities for text manipulation and analysis.
+2026-11-11T17:36:33Z,quantstack-lab,0.1.0,,MIT,50763,"A connected quantitative finance research stack: structured product pricing, volatility surfaces, honest backtesting, market microstructure and risk, linked into end-to-end studies."
+2026-11-11T17:38:12Z,password-roaster-dreamteam,0.1.0,,,54024,A playful password scoring package.
+2026-11-11T17:39:45Z,hadoku-crossposter-accounts,0.1.3,,ISC,49021,Browser-profile locking and preflight orchestration for account automation
+2026-11-11T17:40:17Z,odoo-addon-hr-timesheet-manager-approver,18.0.1.0.0.2,"Moduon, Odoo Community Association (OCA)",LGPL-3,25470,Allow timesheet approvers to manage subordinate timesheets
+2026-11-11T17:41:32Z,redes,0.1.0,Gerlan Silva da Silva,GPL-3.0-or-later,1406039,"Redes: mapeamento científico (bibliometria) inspirado no SciMAT, com interface web local em português"
+2026-11-11T17:43:35Z,lighthouse-cli,0.16.0,,Apache-2.0,369150,"The LightHouse command line: sign in, connect your estate, deploy agents, watch runs"
+2026-11-11T17:45:47Z,entroptics-infer,0.1.0,Ikailo John Sessford,AGPL-3.0-only,244758,"Inference from a corpus's live geometry: attention weights measured from relational structure at read time, with no trained model and no fitted constant."
+2026-11-11T17:46:06Z,shellmatepy,0.1.0,,MIT,12369,"A fish-like terminal shell with autocomplete, in Python"
+2026-11-11T17:48:22Z,jumplane,0.1.1,Sourav Patra,MIT,50532,"Picks the tool, model and effort for a coding task from rules you accepted, and returns another lane when a usage limit is close."
+2026-11-11T17:48:37Z,prayog,0.1.0,,,109461,Command-line client for Prayog
+2026-11-11T17:49:29Z,shellkin,0.1.1,,MIT,12153,"A fish-like terminal shell with autocomplete, in Python"
+2026-11-11T17:53:42Z,cdktn-bundler-docker,0.1.0,cdktn-io,MPL-2.0,98415,Container-based asset bundler for CDK Terrain
+2026-11-11T17:53:52Z,relayai-gateway,2026.11.12,Mithun Gowda B <mithungowda.b7411@gmail.com>,MIT,80946,"OpenAI and Anthropic compatible API (with tool calling) for the models in opencode. CLI, server and Python SDK."
+2026-11-11T17:55:07Z,resumedown,0.1.0,Clement Berthet <cberthet.contact@gmail.com>,MIT,248467,"Write your resume in Markdown, render it to paginated HTML and PDF"
+2026-11-11T17:55:21Z,averqon,0.1.1,Joy Debnath,Apache-2.0,164400,Averqon: Linux firewall and IDS/IPS platform
+2026-11-11T17:58:29Z,pytauargus-mcp,0.1.0rc1,,EUPL-1.2,7359,Model Context Protocol server for Tau-Argus: the agent front-end over the pytauargus engine
+2026-11-11T17:58:36Z,arcane-typing,0.1.1,Astral Software Inc.,MIT,10321,Experimental and advanced Python typing patterns for ty users.
+2026-11-11T17:58:38Z,odoo-addon-l10n-es-bank,20.0.1.0.0.2,"Tecnativa,Studio73,Odoo Community Association (OCA)",AGPL-3,29558,"Spanish bank entity code on bank accounts, taken from the IBAN"
+2026-11-11T18:00:20Z,harvest-cuda,0.1.0,,BSD-3-Clause,9104235,CUDA acceleration of WORLD Harvest with a PyWORLD-compatible interface
+2026-11-11T18:00:37Z,klr-um,1.0.0,,,659131,Flutter lab study pack (experiments 1-6) bundled as a Python package.
+2026-11-11T18:01:23Z,odoo-addon-mrp-production-push-mto-qty,19.0.1.0.0.2,"Camptocamp, Odoo Community Association (OCA)",AGPL-3,31434,Push the quantity produced by a manufacturing order to the demand of the ensuing MTO moves
+2026-11-11T18:01:41Z,intouch-lgh,1.0.0,Xv Zan,Apache-2.0,219645,Read-only InTouch LGH/IDX archive reader with optional columnar access
+2026-11-11T18:03:00Z,lemonmatrix,0.1.0,Salah Eddine Bekhouche <bekhouchesalah@gmail.com>,Apache-2.0,346492,"Benchmark Lemonade local AI servers and publish comparable, validated results."
+2026-11-11T18:03:07Z,disco-cmb,0.1.0,"Lawrence Berry <lawrenceberry@outlook.com>, Oliver Hahn <oliver.hahn@univie.ac.at>",MIT,78968,CMB angular power spectra on the GPU from DISCO-EB's Einstein-Boltzmann solve
+2026-11-11T18:04:12Z,mccann-hub-yhmf,0.5.0,,GPL-3.0-or-later,893123,Explicit hierarchical persistence for YottaDB
+2026-11-11T18:05:32Z,sandloom-standard,0.7.0a12,Vasyl Cherniavskyi,Apache-2.0,17346,The standard Sandloom composition: the composition root that every process of a standard deployment boots.
+2026-11-11T18:07:03Z,akms-records,0.4.0,Shmuel Osovski,Apache-2.0,363670,"Experimental schema-driven, provenance-aware record store for AKMS"
+2026-11-11T18:07:55Z,bookoo-themis-ultra-mcp,0.1.0,Gustavo Pabon,MIT,26279,MCP server that lets AI assistants read and control a BOOKOO Themis Ultra scale over Bluetooth.
+2026-11-11T18:08:05Z,pframes,0.2.0,Bryan Yao,MIT,3534710,"Video-codec compression for AI agent screenshots: send keyframes and deltas, not the whole screen every step."
+2026-11-11T18:08:11Z,pluginbench,0.5.0,Filip Gutica,Apache-2.0 AND BSD-3-Clause AND 0BSD,963070,Test whether skills help coding agents make fewer mistakes.
+2026-11-11T18:09:26Z,lexitanon,0.2.0,be next GmbH,"MIT License Copyright (c) 2026 be next GmbH Permission is hereby granted, free of charge, to any pe…",72335,Python client for the REST API of LexITanon: pseudonymize and redact legal documents on your own server
+2026-11-11T18:12:37Z,alibabacloud-ecdbiz20240929,1.0.0,Alibaba Cloud SDK,Apache License 2.0,28403,Alibaba Cloud EcdBiz (20240929) SDK Library for Python
+2026-11-11T18:12:59Z,split-apk-merger,1.0.0,Akshay R,MIT,27825,"Pull a split APK from an Android device over ADB, merge it into one APK, then zipalign and sign it."
+2026-11-11T18:13:01Z,rask-sdk,3.0.0a0,Brask Inc.,MIT,400167,Official Python SDK for the Rask API v3 (video and audio localization)
+2026-11-11T18:14:30Z,satellite-floer,0.1.0,Ribhu Hooja,MIT,175379,"Knot Floer homology of satellites with (1,1) patterns, by bordered Floer homology"
+2026-11-11T18:16:29Z,toolnet-tts,0.2.0,,,15285,Lightweight client for ToolNet Vietnamese text-to-speech
