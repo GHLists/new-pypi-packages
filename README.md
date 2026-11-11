@@ -8,50 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 16:19 UTC
+## Latest list — 2026-11-11 17:20 UTC
 
-New packages created between 2026-11-11 15:19 UTC and 2026-11-11 16:19 UTC.
+New packages created between 2026-11-11 16:19 UTC and 2026-11-11 17:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-11T16-19-42-341616Z.csv)
+[Full CSV](data/new-packages-2026-11-11T17-20-24-233687Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-11 15:19:08 | [noosh24](https://pypi.org/project/noosh24/) | 0.1.0 |  | 41.2 kB | Official Python client for the Noosh24 Open API |
-| 2026-11-11 15:19:30 | [esp-riscv-trace](https://pypi.org/project/esp-riscv-trace/) | 0.2.0 | Espressif Systems | 222.1 kB | Decoder for RISC-V hardware instruction trace captured on Espressif chips |
-| 2026-11-11 15:19:52 | [sf-profile-pruner](https://pypi.org/project/sf-profile-pruner/) | 1.10.9 | Lorenzo D'Aleo <turbolino.dev… | 77.3 kB | Salesforce Profile dry-run pruner: removes every reference to metadata that doe… |
-| 2026-11-11 15:24:00 | [ledgerdata](https://pypi.org/project/ledgerdata/) | 0.1.0.dev6 | Luke Gloege <lucas.gloege@yal… | 57.2 kB | Python client for LEDGER database |
-| 2026-11-11 15:24:01 | [fastfloret](https://pypi.org/project/fastfloret/) | 0.11.0 | spiqueras <piqueras.santi@gma… | 5.6 MB | fasttext + floret Python bindings |
-| 2026-11-11 15:24:04 | [ghostbuild](https://pypi.org/project/ghostbuild/) | 0.1.0 | LocalGhosters | 112.7 kB | Reproducible build verification: build it twice, know what changed. |
-| 2026-11-11 15:25:52 | [antd-mcp](https://pypi.org/project/antd-mcp/) | 0.1.0 | Autonomi | 71.0 kB | MCP server that lets AI agents store and fetch data on the Autonomi network thr… |
-| 2026-11-11 15:26:20 | [loracraft](https://pypi.org/project/loracraft/) | 0.1.0 | An Long | 1.1 MB | LoRA training workbench with dataset, run and result management |
-| 2026-11-11 15:29:35 | [agentspm](https://pypi.org/project/agentspm/) | 0.1.1 | agentspm maintainers | 471.9 kB | Agent Security Posture Management blueprint: vendor-neutral asset schema, OPA p… |
-| 2026-11-11 15:33:07 | [cdr-utilities](https://pypi.org/project/cdr-utilities/) | 1.0.0 | Vicky Slonosky <VickyS08@user… | 55.2 kB | Python functions to assist with climata data rescue projects |
-| 2026-11-11 15:35:26 | [activating-expertise](https://pypi.org/project/activating-expertise/) | 0.1.0.dev0 | Stuart Nelson | 776.5 kB | CLI for AI team sessions — collaborative reasoning with expert personas |
-| 2026-11-11 15:37:01 | [oriel-vnc](https://pypi.org/project/oriel-vnc/) | 0.1.0 | YordiLorenzo | 23.2 kB | MCP server that operates any desktop over VNC: screenshots, clicks and keys. |
-| 2026-11-11 15:37:05 | [sppricer](https://pypi.org/project/sppricer/) | 0.2.1 |  | 39.9 kB | Monte Carlo pricing and risk for structured products (autocallables, reverse co… |
-| 2026-11-11 15:39:19 | [dataclass-values](https://pypi.org/project/dataclass-values/) | 0.1.0 | Zach Yamaoka | 21.8 kB | Value(1.2, "m", low=0.6, high=1.85, source="..."): a float, int, str or tuple t… |
-| 2026-11-11 15:39:22 | [inference-control-plane](https://pypi.org/project/inference-control-plane/) | 0.1.0 | inference-control-plane contr… | 57.4 kB | Reusable inference observability and optimization control plane |
-| 2026-11-11 15:39:39 | [tktl-inbound-webhooks](https://pypi.org/project/tktl-inbound-webhooks/) | 0.0.0 |  | 1.7 kB |  |
-| 2026-11-11 15:46:17 | [volsurface-lab](https://pypi.org/project/volsurface-lab/) | 0.2.1 |  | 69.2 kB | Implied volatility surface construction: SVI/SSVI fitting, arbitrage checks, Du… |
-| 2026-11-11 15:46:27 | [fastapi-djauth](https://pypi.org/project/fastapi-djauth/) | 1.4.0 | Carlos Daniel Visbal Atencia | 234.1 kB | Usuarios, roles, permisos y administración para FastAPI: sesión o token Bearer,… |
-| 2026-11-11 15:48:11 | [skipole-data](https://pypi.org/project/skipole-data/) | 0.1.0a2 |  | 21.6 kB | Python client for Skipole licensed-data discovery and customer-approved purchas… |
-| 2026-11-11 15:50:38 | [unref](https://pypi.org/project/unref/) | 0.0.1 | Yossi Rozantsev | 59.5 kB | Find unreferenced Python code |
-| 2026-11-11 15:51:18 | [netbox-iec62443](https://pypi.org/project/netbox-iec62443/) | 0.1.0 | Packetflow | 294.2 kB | IEC 62443 zones, conduits and flows, Purdue levels, an access map and a zone re… |
-| 2026-11-11 15:56:56 | [AITW_material_optimization](https://pypi.org/project/AITW_material_optimization/) | 0.1.0 |  | 6.5 MB | AITW: Surrogate-based optimization of biocomposite materials |
-| 2026-11-11 15:57:19 | [whitecircle-com](https://pypi.org/project/whitecircle-com/) | 0.0.1 | White Circle | 1.4 kB | Reserved by White Circle (whitecircle.com). Not installable. |
-| 2026-11-11 15:57:20 | [whitecircle-sdk](https://pypi.org/project/whitecircle-sdk/) | 0.0.1 | White Circle | 1.4 kB | Reserved by White Circle (whitecircle.com). Not installable. |
-| 2026-11-11 15:59:06 | [diffpy.cmirietveld](https://pypi.org/project/diffpy.cmirietveld/) | 0.1.0 | Simon Billinge <sbillinge@ucs… | 2.6 MB | A pack for diffpy.cmi that allows it to do Rietveld refinement of powder diffra… |
-| 2026-11-11 16:00:46 | [pytinyfiledialogs](https://pypi.org/project/pytinyfiledialogs/) | 1.0.1 |  | 170.6 kB | Native OS dialogs for Python: message box, file open and save, folder, input, c… |
-| 2026-11-11 16:02:23 | [sunnyday-dd](https://pypi.org/project/sunnyday-dd/) | 1.0.0 | Devendra Desaine | 2.4 kB | Weather forecast data. |
-| 2026-11-11 16:06:04 | [braven-identity](https://pypi.org/project/braven-identity/) | 0.1.0 |  | 27.9 kB | The one credential store the Braven CLI, watcher and SDK read |
-| 2026-11-11 16:07:29 | [mihrab-methods](https://pypi.org/project/mihrab-methods/) | 1.3.2 | Hassan El Ghamri | 199.9 kB | The prayer-time authorities' own calculation methods, each reproducing its publ… |
-| 2026-11-11 16:07:54 | [lme4](https://pypi.org/project/lme4/) | 2.1.0a1 |  | 28.2 MB | Linear, generalized linear and nonlinear mixed-effects models: a faithful Pytho… |
-| 2026-11-11 16:08:40 | [netinfra-kyat9-affiliate-glob-xtqz6](https://pypi.org/project/netinfra-kyat9-affiliate-glob-xtqz6/) | 1.0.0 | Autonomous Infrastructure Lab… | 42.8 kB | Technical network verification and high-availability endpoint registry for Kyat… |
-| 2026-11-11 16:09:55 | [bash_agentic_terminal](https://pypi.org/project/bash_agentic_terminal/) | 0.1.0 |  | 5.3 kB | An mcp which adds terminal capabilites to run agent |
-| 2026-11-11 16:11:12 | [openrois-adapter-kachaka](https://pypi.org/project/openrois-adapter-kachaka/) | 0.1.0a1 | OpenRoIS Community | 122.8 kB | OpenRoIS adapter for the Preferred Robotics Kachaka: canonical RoIS components… |
-| 2026-11-11 16:11:33 | [marketrisk-lab](https://pypi.org/project/marketrisk-lab/) | 0.4.1 |  | 57.1 kB | VaR/ES estimation and backtesting, and robust portfolio construction |
-| 2026-11-11 16:14:45 | [ur-arm-client](https://pypi.org/project/ur-arm-client/) | 0.1.0 |  | 8.8 kB | Python client for Universal Robots arms over RTDE |
-| 2026-11-11 16:15:39 | [talewerk](https://pypi.org/project/talewerk/) | 0.0.1 | Avneesh | 14.1 kB | An AI agent that turns a simple idea into a finished video: script, storyboard,… |
-| 2026-11-11 16:17:11 | [tscp](https://pypi.org/project/tscp/) | 0.1.0.dev0 | Roberto Neglia | 217.1 kB | Conformal prediction for time series, in PyTorch |
-| 2026-11-11 16:17:26 | [opengearwire](https://pypi.org/project/opengearwire/) | 0.3.0 | Lucas Romanenko | 154.7 kB | Python library for openGear frames (Ross OGX) over the openGear Protocol, TCP 5… |
-| 2026-11-11 16:18:21 | [cp-pde](https://pypi.org/project/cp-pde/) | 1.0.0 | cpadlab | 71.3 kB | Pattern Discovery Engine: A unified library for pattern discovery, anomaly dete… |
+| 2026-11-11 16:22:41 | [ad2v](https://pypi.org/project/ad2v/) | 0.7.0 | ad2v contributors | 2.4 MB | agent development to viz: compare a repository against its SDD specs and emit o… |
+| 2026-11-11 16:22:53 | [ozawa](https://pypi.org/project/ozawa/) | 0.0.1 |  | 2.0 kB | Reserved name for the ozawa monorepo CLI. Not yet released. |
+| 2026-11-11 16:24:06 | [taskforge-sdk](https://pypi.org/project/taskforge-sdk/) | 0.1.1 |  | 20.6 kB | Python client for the TaskForge distributed job engine |
+| 2026-11-11 16:24:23 | [dkb-to-actual](https://pypi.org/project/dkb-to-actual/) | 0.1.0 | Dennis Irrgang | 36.5 kB | Convert DKB CSV exports (Girokonto, Tagesgeld, Kreditkarte) into CSV or OFX fil… |
+| 2026-11-11 16:26:15 | [cacography](https://pypi.org/project/cacography/) | 0.14.0b1 |  | 319.1 kB | Typeset in LaTeX, get back a phone photo of handwritten notes. |
+| 2026-11-11 16:26:18 | [fhir-linter](https://pypi.org/project/fhir-linter/) | 0.5.2 |  | 2.4 MB | Python bindings for the FHIR R5 linter and validator |
+| 2026-11-11 16:28:52 | [bronto-sdk](https://pypi.org/project/bronto-sdk/) | 0.2.1 | Bronto <support@bronto.io> | 342.8 kB | Python SDK for the Bronto observability platform |
+| 2026-11-11 16:29:11 | [plitzer](https://pypi.org/project/plitzer/) | 0.1.0 | gouthamk16 | 34.7 MB | Deterministic, resumable dataloader for Parquet on local disk and S3 |
+| 2026-11-11 16:29:33 | [flagwake](https://pypi.org/project/flagwake/) | 0.5.0rc1 | Sid | 568.3 kB | A free, offline, re-checkable test of how an AI defender behaves during a secur… |
+| 2026-11-11 16:29:36 | [disaster-recovery-lab](https://pypi.org/project/disaster-recovery-lab/) | 0.1.0 |  | 16.4 kB | Disposable PostgreSQL recovery drills with verified restores and JSON evidence |
+| 2026-11-11 16:29:45 | [netinfra-google-search-gatewa-qk474](https://pypi.org/project/netinfra-google-search-gatewa-qk474/) | 1.0.0 | Autonomous Infrastructure Lab… | 4.8 kB | Technical network verification and high-availability endpoint registry for Goog… |
+| 2026-11-11 16:29:50 | [usz](https://pypi.org/project/usz/) | 0.0.1 |  | 1.0 kB | Official Python SDK for USZ (US Zero) Protocol - Reserved Package (usz) |
+| 2026-11-11 16:29:51 | [usz-sdk](https://pypi.org/project/usz-sdk/) | 0.0.1 |  | 1.1 kB | Official Python SDK for USZ (US Zero) Protocol - Reserved Package (usz-sdk) |
+| 2026-11-11 16:38:30 | [wood_stiffness_homogenization](https://pypi.org/project/wood_stiffness_homogenization/) | 1.0.0 | Königsberger Markus <markus.k… | 68.4 kB | This code computes the multiscale stiffness of native, polymer-infiltrated, and… |
+| 2026-11-11 16:45:17 | [auto-rbx-upload](https://pypi.org/project/auto-rbx-upload/) | 1.2.0 |  | 12.5 kB | Загрузка моделей на Roblox без Studio — в одну строку |
+| 2026-11-11 16:45:37 | [omega-core](https://pypi.org/project/omega-core/) | 0.1.0 |  | 48.3 MB | omega-core's gsl program (GSL implicit models: compile, mesh), packaged as a wh… |
+| 2026-11-11 16:47:45 | [promptiq](https://pypi.org/project/promptiq/) | 3.0.0 |  | 21.7 kB | Offline, prompt-style data analysis and visualization for Python |
+| 2026-11-11 16:52:17 | [aiida-wood-permeability](https://pypi.org/project/aiida-wood-permeability/) | 0.3.0 | Antti Puisto <antti.puisto@vt… | 59.5 kB | AiiDA plugin for wood permeability calculations using OpenLB |
+| 2026-11-11 16:54:30 | [ai-news-mcp](https://pypi.org/project/ai-news-mcp/) | 0.1.0 | Duncan WEN | 58.3 kB | MCP server that collects AI news from many Sources into a local store for Claud… |
+| 2026-11-11 16:54:45 | [cassy-fatigue](https://pypi.org/project/cassy-fatigue/) | 0.1.0 | F4E engineering analyses unit | 222.6 kB | Nodal fatigue post-processing of Ansys results using CASSY design-code rules |
+| 2026-11-11 16:58:59 | [cloudspin](https://pypi.org/project/cloudspin/) | 0.1.0 | Harsh Dabas | 335.9 kB | A terminal music player that lives under a living sky: spinning vinyl, real wea… |
+| 2026-11-11 16:59:21 | [agentrig](https://pypi.org/project/agentrig/) | 0.1.0 | Suraj Kumar | 71.2 kB | Reliability tools for LLM agents: structured output, smart retries, tool callin… |
+| 2026-11-11 17:01:03 | [spectro-calendar](https://pypi.org/project/spectro-calendar/) | 0.1.0 | biodiversica <biodiversica@gm… | 195.6 kB | Generate an HTML spectrogram calendar from passive acoustic recorder WAV record… |
+| 2026-11-11 17:01:24 | [promptwhere](https://pypi.org/project/promptwhere/) | 0.1.0 | Hiran Hasanka | 53.3 kB | A basic, easy-to-use library for managing named, versioned prompts. |
+| 2026-11-11 17:01:44 | [AITW_stiffness_surrogate](https://pypi.org/project/AITW_stiffness_surrogate/) | 1.0.1 |  | 6.5 MB | AITW: Surrogate model for predicting wood stiffness |
+| 2026-11-11 17:03:03 | [llama-index-tools-snaprender](https://pypi.org/project/llama-index-tools-snaprender/) | 0.1.0 | SnapRender <support@snap-rend… | 19.6 kB | LlamaIndex tools for SnapRender: website screenshots the agent can see, and ren… |
+| 2026-11-11 17:03:52 | [praevis-thetadata](https://pypi.org/project/praevis-thetadata/) | 0.1.0b1 |  | 17.2 MB | Independent, unofficial Python client for ThetaData's direct gRPC API: exact Ar… |
+| 2026-11-11 17:04:29 | [stls-identity](https://pypi.org/project/stls-identity/) | 0.1.0 |  | 125.6 kB | DID + Verifiable Credential identity layer for the STLS AI ecosystem |
+| 2026-11-11 17:06:21 | [klayout-pex-plugin-kqcircuits](https://pypi.org/project/klayout-pex-plugin-kqcircuits/) | 0.1.0 | Martin Köhler | 35.4 kB | Development scaffold for exporting KLayout-PEX scenes through KQCircuits to Elm… |
+| 2026-11-11 17:06:45 | [rsroute](https://pypi.org/project/rsroute/) | 0.1.0 | ItzRustam | 23.1 kB | Python Package Wrapper for RSRoute server |
+| 2026-11-11 17:07:20 | [keelchat](https://pypi.org/project/keelchat/) | 0.2.0 | Pankaj Rajan <pankaj@pankajra… | 1.4 MB | Open-source framework for chatbots written in YAML and extended in Python |
+| 2026-11-11 17:13:11 | [pagegraph](https://pypi.org/project/pagegraph/) | 0.0.1 |  | 2.2 kB | A validated, typed graph of a web page's structured data for LLM agents, served… |
+| 2026-11-11 17:14:05 | [isbnlab](https://pypi.org/project/isbnlab/) | 0.1.0 | ISBNLab <hello@isbnlab.com> | 108.5 kB | Official Python client for the ISBNLab book metadata API: books by ISBN, author… |
+| 2026-11-11 17:17:34 | [python-aruco2](https://pypi.org/project/python-aruco2/) | 0.1.0 |  | 51.9 MB | NumPy Python bindings for rmsalinas/aruco2 |
+| 2026-11-11 17:18:27 | [langchain-linkrra](https://pypi.org/project/langchain-linkrra/) | 0.1.0 | Linkrra <weare@linkrra.com> | 16.6 kB | LangChain chat model for Linkrra Synap, an OpenAI-compatible inference API for… |
+| 2026-11-11 17:18:30 | [llama-index-llms-linkrra](https://pypi.org/project/llama-index-llms-linkrra/) | 0.1.0 | Linkrra <weare@linkrra.com> | 15.1 kB | LlamaIndex LLM integration for Linkrra Synap, an OpenAI-compatible inference AP… |

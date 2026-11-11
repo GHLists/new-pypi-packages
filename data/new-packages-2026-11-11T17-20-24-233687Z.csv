@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T16:22:41Z,ad2v,0.7.0,ad2v contributors,Apache-2.0,2377137,agent development to viz: compare a repository against its SDD specs and emit one .ad2v SQLite file
+2026-11-11T16:22:53Z,ozawa,0.0.1,,,1995,Reserved name for the ozawa monorepo CLI. Not yet released.
+2026-11-11T16:24:06Z,taskforge-sdk,0.1.1,,MIT,20616,Python client for the TaskForge distributed job engine
+2026-11-11T16:24:23Z,dkb-to-actual,0.1.0,Dennis Irrgang,MIT,36464,"Convert DKB CSV exports (Girokonto, Tagesgeld, Kreditkarte) into CSV or OFX files for Actual Budget."
+2026-11-11T16:26:15Z,cacography,0.14.0b1,,MIT,319084,"Typeset in LaTeX, get back a phone photo of handwritten notes."
+2026-11-11T16:26:18Z,fhir-linter,0.5.2,,MIT,2358908,Python bindings for the FHIR R5 linter and validator
+2026-11-11T16:28:52Z,bronto-sdk,0.2.1,Bronto <support@bronto.io>,MIT,342832,Python SDK for the Bronto observability platform
+2026-11-11T16:29:11Z,plitzer,0.1.0,gouthamk16,MIT OR Apache-2.0,34685461,"Deterministic, resumable dataloader for Parquet on local disk and S3"
+2026-11-11T16:29:33Z,flagwake,0.5.0rc1,Sid,AGPL-3.0-only,568280,"A free, offline, re-checkable test of how an AI defender behaves during a security incident, scored with business cost."
+2026-11-11T16:29:36Z,disaster-recovery-lab,0.1.0,,,16358,Disposable PostgreSQL recovery drills with verified restores and JSON evidence
+2026-11-11T16:29:45Z,netinfra-google-search-gatewa-qk474,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,4780,Technical network verification and high-availability endpoint registry for Google Search Gateway
+2026-11-11T16:29:50Z,usz,0.0.1,,,1021,Official Python SDK for USZ (US Zero) Protocol - Reserved Package (usz)
+2026-11-11T16:29:51Z,usz-sdk,0.0.1,,,1058,Official Python SDK for USZ (US Zero) Protocol - Reserved Package (usz-sdk)
+2026-11-11T16:38:30Z,wood_stiffness_homogenization,1.0.0,Königsberger Markus <markus.koenigsberger@tuwien.ac.at>,,68415,"This code computes the multiscale stiffness of native, polymer-infiltrated, and delignified + infiltrated wood."
+2026-11-11T16:45:17Z,auto-rbx-upload,1.2.0,,,12495,Загрузка моделей на Roblox без Studio — в одну строку
+2026-11-11T16:45:37Z,omega-core,0.1.0,,MIT AND Apache-2.0 AND MPL-2.0 AND BSD-3-Clause AND Zlib AND ISC AND CC0-1.0 AND Unicode-3.0 AND OF…,48317052,"omega-core's gsl program (GSL implicit models: compile, mesh), packaged as a wheel, with a small launcher."
+2026-11-11T16:47:45Z,promptiq,3.0.0,,"MIT License Copyright (c) 2026 PromptIQ contributors Permission is hereby granted, free of charge,…",21706,"Offline, prompt-style data analysis and visualization for Python"
+2026-11-11T16:52:17Z,aiida-wood-permeability,0.3.0,Antti Puisto <antti.puisto@vtt.fi>,,59503,AiiDA plugin for wood permeability calculations using OpenLB
+2026-11-11T16:54:30Z,ai-news-mcp,0.1.0,Duncan WEN,MIT,58314,MCP server that collects AI news from many Sources into a local store for Claude to query.
+2026-11-11T16:54:45Z,cassy-fatigue,0.1.0,F4E engineering analyses unit,EUPL-1.2,222646,Nodal fatigue post-processing of Ansys results using CASSY design-code rules
+2026-11-11T16:58:59Z,cloudspin,0.1.0,Harsh Dabas,MIT,335859,"A terminal music player that lives under a living sky: spinning vinyl, real weather, animated scenes."
+2026-11-11T16:59:21Z,agentrig,0.1.0,Suraj Kumar,MIT,71220,"Reliability tools for LLM agents: structured output, smart retries, tool calling, cost tracking and tracing. Zero dependencies, works with any model."
+2026-11-11T17:01:03Z,spectro-calendar,0.1.0,biodiversica <biodiversica@gmail.com>,MIT,195558,Generate an HTML spectrogram calendar from passive acoustic recorder WAV recordings
+2026-11-11T17:01:24Z,promptwhere,0.1.0,Hiran Hasanka,MIT,53339,"A basic, easy-to-use library for managing named, versioned prompts."
+2026-11-11T17:01:44Z,AITW_stiffness_surrogate,1.0.1,,,6455811,AITW: Surrogate model for predicting wood stiffness
+2026-11-11T17:03:03Z,llama-index-tools-snaprender,0.1.0,SnapRender <support@snap-render.com>,MIT,19556,"LlamaIndex tools for SnapRender: website screenshots the agent can see, and rendered pages as markdown"
+2026-11-11T17:03:52Z,praevis-thetadata,0.1.0b1,,Apache-2.0,17237713,"Independent, unofficial Python client for ThetaData's direct gRPC API: exact Arrow results, zero-copy into pyarrow, Polars and pandas"
+2026-11-11T17:04:29Z,stls-identity,0.1.0,,AGPL-3.0-or-later OR LicenseRef-Commercial,125582,DID + Verifiable Credential identity layer for the STLS AI ecosystem
+2026-11-11T17:06:21Z,klayout-pex-plugin-kqcircuits,0.1.0,Martin Köhler,GPL-3.0-or-later,35388,Development scaffold for exporting KLayout-PEX scenes through KQCircuits to Elmer
+2026-11-11T17:06:45Z,rsroute,0.1.0,ItzRustam,,23066,Python Package Wrapper for RSRoute server
+2026-11-11T17:07:20Z,keelchat,0.2.0,Pankaj Rajan <pankaj@pankajrajan.com>,Apache-2.0,1368507,Open-source framework for chatbots written in YAML and extended in Python
+2026-11-11T17:13:11Z,pagegraph,0.0.1,,,2199,"A validated, typed graph of a web page's structured data for LLM agents, served over MCP and W3C WebMCP."
+2026-11-11T17:14:05Z,isbnlab,0.1.0,ISBNLab <hello@isbnlab.com>,MIT,108544,"Official Python client for the ISBNLab book metadata API: books by ISBN, authors, publishers, BISAC genres, covers and ISBN conversion."
+2026-11-11T17:17:34Z,python-aruco2,0.1.0,,MIT,51889014,NumPy Python bindings for rmsalinas/aruco2
+2026-11-11T17:18:27Z,langchain-linkrra,0.1.0,Linkrra <weare@linkrra.com>,Apache-2.0,16635,"LangChain chat model for Linkrra Synap, an OpenAI-compatible inference API for open models."
+2026-11-11T17:18:30Z,llama-index-llms-linkrra,0.1.0,Linkrra <weare@linkrra.com>,Apache-2.0,15080,"LlamaIndex LLM integration for Linkrra Synap, an OpenAI-compatible inference API for open models."
