@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T02:23:31Z,reflowpdf,1.0.0,ReflowPDF,"MIT License Copyright (c) 2026 ReflowPDF Permission is hereby granted, free of charge, to any perso…",20524,HTML and templates to print-quality PDF with the ReflowPDF API
+2026-11-12T02:26:27Z,oxidocs,0.9.0,,MPL-2.0 AND (MIT OR Apache-2.0),261761533,"Convert .docx to PDF without LibreOffice or Microsoft Word: the Oxi engine, as a Python package."
+2026-11-12T02:27:47Z,a2cn,0.3.4,"Avinash Saraff, Christian Magorrian",Apache-2.0,252154,"Reference implementation of A2CN, the open protocol for agent-to-agent B2B commercial negotiation"
+2026-11-12T02:28:36Z,nova-de,0.1.0,eagleye-china <zdt168@sina.cn>,MIT,5155,"A stunning, GPU-accelerated desktop application for PySide6."
+2026-11-12T02:35:26Z,bevyra-avatar,0.1.1,,Proprietary,22121536,Local browser avatar player controlled from Python
+2026-11-12T02:38:15Z,kwan,1.0.0,,MIT,895394,"Open-source learning path engine for Ghanaian primary maths (NaCCA B1 to B6): the next skill to learn, the reason, and a practice setting from everyday Ghanaian life."
+2026-11-12T02:39:02Z,strands-acp-client,0.1.0,Jose Pablo Ramírez Méndez <pablo.dev.rz.mz@gmail.com>,Apache-2.0,119199,"Use ACP coding agents (Claude Code, OpenCode, the Strands CLI or any other) as tools from a Strands agent: delegate a task, get the result back."
+2026-11-12T02:40:11Z,trellisd,0.1.0,Trellis contributors,Apache-2.0,230185,Delegated access control and a tamper-evident audit ledger for AI agents.
+2026-11-12T02:43:31Z,sccp,0.1.1,,"This is free and unencumbered software released into the public domain. Anyone is free to copy, mod…",66481,Some Crypto Chess Project: a cryptocurrency whose proof of work is winning chess games
+2026-11-12T02:44:48Z,reef-mcp,0.1.0,Trellis contributors,Apache-2.0,71634,A grant-shaped MCP gateway: agents see and call only what their Trellis grant allows.
+2026-11-12T02:46:37Z,ez-lawn-biller-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,16575,"Connect EZ Lawn Biller to ChatGPT, Claude and other AI agents through Cotlet.dev, a hosted MCP server. No EZ Lawn Biller API key needed."
+2026-11-12T02:52:26Z,astralvessel,0.5.0,Evan Damron,Apache-2.0,344710,"A lightweight, open agent harness and standard that speaks the Astral protocols."
+2026-11-12T02:58:40Z,sc92-lib,0.1.0,sc92,MIT,55820,个人自用工具箱：单实例文件锁、轮转日志、全局异常钩子、MQTT 发布、YAML 配置读写、值转 YAML 文本、工作时段判断
+2026-11-12T02:59:37Z,lofi-pomodoro,0.1.0,WittmannF,MIT,13710947,A CLI Pomodoro timer with lofi music
+2026-11-12T03:02:44Z,appecosystem-policy,0.3.0,Smart Industries LLC (Mikel Smart),MIT,45369,"Signed blue-team policy engine, Freeze preemption, Ed25519 scoped overrides, TOTP/Passkey step-up auth, and unified SQLite approval queue for appEcosystem."
+2026-11-12T03:02:46Z,appecosystem-hub,0.1.0,Mikel Smart,MIT,26085,"Embedded/sidecar Hub runtime, single-host lock, capability registry, and durable offline outbox for appEcosystem"
+2026-11-12T03:02:49Z,appecosystem-compute,0.1.0,Mikel Smart,MIT,24663,Multi-provider GPU broker and cloud compute failover for appEcosystem
+2026-11-12T03:02:52Z,appecosystem-voice,0.1.0,Mikel Smart,MIT,16227,Tier-scaled local speech recognition and voice intent parsing for appEcosystem
+2026-11-12T03:04:35Z,aisecuritywarden,0.7.0,SoftDevEng,Apache-2.0,415000,"aiSecurityWarden client: scoped, revocable machine tokens, end-to-end encrypted secrets and human approval for AI agents."
+2026-11-12T03:09:08Z,ph-utcp,0.11.0,Charles Tabor,MIT,56992,"pH plugin: tools published as UTCP manuals, as tools a pH agent can call."
+2026-11-12T03:10:52Z,ampup-memory-cli,0.1.18,,Apache-2.0,18576649,"ampup-memory-client: the sign-in, hooks and MCP bridge for AmpUp Memory, AmpUp's team memory for coding agents"
+2026-11-12T03:11:10Z,sincor-x402,0.1.0,SINCOR Business Solutions,Apache-2.0,72247,"Verified x402 + MCP wrapper: escrowed, SIGIL-committed settlement for x402 endpoints and MCP tools (reference implementation — see README honesty notes)"
+2026-11-12T03:11:12Z,django-snapnote,0.1.1,,MIT,180393,"Report problems from any page of a Django site: screenshot, annotations and a ticket list."
+2026-11-12T03:11:38Z,quran-processing-toolkit-qac-data,0.4.0,Maysum Panju,Apache-2.0 AND LicenseRef-Quranic-Arabic-Corpus-Terms AND CC-BY-ND-3.0 AND CC-BY-3.0 AND LicenseRef…,2811308,Verbatim Quranic Arabic Corpus and Tanzil source data for Quran Processing Toolkit
+2026-11-12T03:16:30Z,wasmkeep,0.2.0,,Apache-2.0,137424,Write WasmKeep actors in Python.
+2026-11-12T03:17:37Z,spiralharbor-cli,1.0.0,,,5112,Spiral Harbor cluster operations CLI
