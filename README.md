@@ -8,47 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 04:21 UTC
+## Latest list — 2026-11-12 05:18 UTC
 
-New packages created between 2026-11-12 03:19 UTC and 2026-11-12 04:21 UTC.
+New packages created between 2026-11-12 04:21 UTC and 2026-11-12 05:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-12T04-21-23-312401Z.csv)
+[Full CSV](data/new-packages-2026-11-12T05-18-43-268488Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-12 03:21:34 | [quran-processing-toolkit](https://pypi.org/project/quran-processing-toolkit/) | 0.4.0 | Maysum Panju | 150.0 kB | Natural, queryable access to Quranic text and morphology |
-| 2026-11-12 03:23:44 | [thonny-auto-word-wrap](https://pypi.org/project/thonny-auto-word-wrap/) | 0.2.4 | 元宝 | 5.0 kB | Auto word wrap plugin for Thonny IDE |
-| 2026-11-12 03:24:47 | [ahi-core](https://pypi.org/project/ahi-core/) | 0.2.0 | Adaptive Health Intelligence | 7.6 kB | Cross-cutting helpers shared across AHI Python libraries (polling, errors, logg… |
-| 2026-11-12 03:24:57 | [ahi-aws](https://pypi.org/project/ahi-aws/) | 0.4.0 | Adaptive Health Intelligence | 40.1 kB | Thin, typed boto3 helpers for AHI: AWS auth (SSO and attached-role sessions), R… |
-| 2026-11-12 03:24:58 | [ahi-sql](https://pypi.org/project/ahi-sql/) | 0.2.0 | Adaptive Health Intelligence | 5.0 kB | Small, dependency-light SQL helpers for AHI (safe identifiers, placeholders). |
-| 2026-11-12 03:32:33 | [rulewise](https://pypi.org/project/rulewise/) | 0.1.0 | Adnan Mohamud | 370.7 kB | Association rule mining with statistically sound validation |
-| 2026-11-12 03:35:42 | [mcp2postman](https://pypi.org/project/mcp2postman/) | 1.0.0 | APIAddicts <devrel@apiaddicts… | 115.7 kB | Convert an MCP server (Streamable HTTP or stdio) into a Postman collection with… |
-| 2026-11-12 03:39:34 | [mapotofu](https://pypi.org/project/mapotofu/) | 0.1.0 | Tianyu (Sky) Lu | 309.2 kB | Build CJK composite fonts (CFF2 variable and static CFF, hinted) from a TOML de… |
-| 2026-11-12 03:41:54 | [fsspec-fuse](https://pypi.org/project/fsspec-fuse/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.4 kB | fsspec-fuse |
-| 2026-11-12 03:41:54 | [fsspec-indexeddb](https://pypi.org/project/fsspec-indexeddb/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.4 kB | fsspec-indexeddb |
-| 2026-11-12 03:41:55 | [fsspec-opfs](https://pypi.org/project/fsspec-opfs/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.4 kB | fsspec-opfs |
-| 2026-11-12 03:41:56 | [fsspec-webstorage](https://pypi.org/project/fsspec-webstorage/) | 0.0.0 | Tim Paine <t.paine154@gmail.c… | 6.4 kB | fsspec-webstorage |
-| 2026-11-12 03:43:14 | [videomd](https://pypi.org/project/videomd/) | 1.1.0 |  | 28.3 kB | VIDEO.md: an open format for video breakdowns that models read layer by layer.… |
-| 2026-11-12 03:43:58 | [arxiv-mcp-lean](https://pypi.org/project/arxiv-mcp-lean/) | 0.7.1 | Ray Tien | 51.0 kB | A Model Context Protocol server for arXiv paper search and retrieval |
-| 2026-11-12 03:45:38 | [qlib-sync](https://pypi.org/project/qlib-sync/) | 0.1.1 | randyy179 | 71.4 kB | Safely install and update a local Qlib China A-share dataset, with an MCP serve… |
-| 2026-11-12 03:46:23 | [pxr-usd](https://pypi.org/project/pxr-usd/) | 26.8 |  | 151.7 MB | Universal Scene Description core API used in OpenUSD |
-| 2026-11-12 03:47:30 | [visversor](https://pypi.org/project/visversor/) | 0.0.1.dev0 | GBLMX <muzhibaoxiang@163.com> | 2.0 kB | Package name reserved — implementation coming soon |
-| 2026-11-12 03:48:59 | [fontpkg-signika-negative](https://pypi.org/project/fontpkg-signika-negative/) | 2.1 |  | 228.8 kB | Signika Negative font family, packaged for Python by fontpkg |
-| 2026-11-12 03:49:02 | [fontpkg-oxanium](https://pypi.org/project/fontpkg-oxanium/) | 2.0 |  | 30.8 kB | Oxanium font family, packaged for Python by fontpkg |
-| 2026-11-12 03:49:04 | [fontpkg-angkor](https://pypi.org/project/fontpkg-angkor/) | 8.0 |  | 43.5 kB | Angkor font family, packaged for Python by fontpkg |
-| 2026-11-12 03:49:06 | [fontpkg-didact-gothic](https://pypi.org/project/fontpkg-didact-gothic/) | 2.101 |  | 91.3 kB | Didact Gothic font family, packaged for Python by fontpkg |
-| 2026-11-12 03:49:44 | [criogenai](https://pypi.org/project/criogenai/) | 0.1.7 |  | 9.0 MB | The fast AI agent framework for Python, a LangChain and LangGraph alternative o… |
-| 2026-11-12 03:51:56 | [pxr-usd-dev](https://pypi.org/project/pxr-usd-dev/) | 26.8 |  | 163.5 MB | C++ headers and CMake config for developing with pxr-usd |
-| 2026-11-12 03:52:56 | [modelos-secure](https://pypi.org/project/modelos-secure/) | 0.3.9 |  | 232.5 MB | Tests AI systems for Security, Safety and Quality. One command connects a syste… |
-| 2026-11-12 03:54:31 | [ppicker](https://pypi.org/project/ppicker/) | 0.1.0 | Roman | 3.0 MB | Fast project picker for tiling window managers (i3, sway): open a project in yo… |
-| 2026-11-12 03:58:49 | [uibc-core](https://pypi.org/project/uibc-core/) | 0.3.0 | Xinghua Zhao | 111.6 kB | UIBC Core reference implementation v0.3.0 - agent lifecycle evidence packaging… |
-| 2026-11-12 03:59:58 | [chopper-rag](https://pypi.org/project/chopper-rag/) | 0.1.0 | wiiiktor | 26.9 kB | The chopper context compressor for RAG: exact quotes cut out of retrieved snipp… |
-| 2026-11-12 04:05:32 | [eversports-studio-manager-mcp](https://pypi.org/project/eversports-studio-manager-mcp/) | 1.1.0 | "Cotlet.dev" <contact@cotlet.… | 16.8 kB | Connect Eversports Studio Manager to ChatGPT, Claude and other AI agents throug… |
-| 2026-11-12 04:06:47 | [hayavega](https://pypi.org/project/hayavega/) | 0.1.0 | Hayavega contributors | 753.3 kB | A Python web framework with a conventional project structure, automatic interac… |
-| 2026-11-12 04:10:37 | [dominusnode](https://pypi.org/project/dominusnode/) | 2.0.0 |  | 77.3 kB | Official DominusNode SDK for Python: AI-agent relay network (proxy, nodes, cred… |
-| 2026-11-12 04:11:30 | [baleen-acquisition](https://pypi.org/project/baleen-acquisition/) | 0.1.1 | baleen maintainers | 383.2 kB | Audit-grade unified acquisition engine for bioinformatics (reads/fulltext/HF/GD… |
-| 2026-11-12 04:12:43 | [dominusnode-agent-zero](https://pypi.org/project/dominusnode-agent-zero/) | 2.0.0 |  | 25.5 kB | DominusNode tools for Agent Zero: the 19 standard relay-network tools, built on… |
-| 2026-11-12 04:13:00 | [dominusnode-agno](https://pypi.org/project/dominusnode-agno/) | 2.0.0 |  | 23.9 kB | Agno toolkit for the DominusNode AI-agent relay network (19 v2 tools on the dom… |
-| 2026-11-12 04:13:08 | [dominusnode-autogpt](https://pypi.org/project/dominusnode-autogpt/) | 2.0.0 |  | 25.4 kB | AutoGPT plugin for the DominusNode AI-agent relay network (19 v2 commands on th… |
-| 2026-11-12 04:13:48 | [miniyun](https://pypi.org/project/miniyun/) | 0.1.1 | MiniYun | 103.4 MB | Deploy a private MiniYun application market on your own computer |
-| 2026-11-12 04:18:39 | [transcript.md](https://pypi.org/project/transcript.md/) | 0.1.0 |  | 464.0 kB | Executable Python documents with recorded outputs |
+| 2026-11-12 04:21:59 | [pyfastauc](https://pypi.org/project/pyfastauc/) | 0.1.0 | Ming-Hen Tsai | 3.1 MB | Fast, multithreaded classification, calibration and ranking metrics (ROC-AUC, a… |
+| 2026-11-12 04:25:17 | [traceforge-pcb](https://pypi.org/project/traceforge-pcb/) | 1.0.0 | Traceforge contributors | 3.7 MB | An open-source AI agent that designs, edits and reviews KiCad circuit boards fr… |
+| 2026-11-12 04:26:12 | [qarbaal](https://pypi.org/project/qarbaal/) | 0.1.2 | ahur4 | 121.0 kB | Extract, normalize, validate, and export indicators of compromise from text and… |
+| 2026-11-12 04:28:35 | [rusty-tiles](https://pypi.org/project/rusty-tiles/) | 0.4.0 |  | 50.1 MB | Self-contained mesh, vector, grid-free point cloud and 3D Tiles converters |
+| 2026-11-12 04:30:33 | [sandbox-drift](https://pypi.org/project/sandbox-drift/) | 0.1.0 | LeeGyeongPil | 857.7 kB | Probe the OS sandbox of an AI coding agent with harmless canaries and catch sil… |
+| 2026-11-12 04:30:49 | [pc-123](https://pypi.org/project/pc-123/) | 0.1.0 |  | 12.8 kB | Lab experiment code viewer |
+| 2026-11-12 04:33:01 | [ohauthcat](https://pypi.org/project/ohauthcat/) | 0.0.2 |  | 611.2 kB | Official OhAuthCat SDK for Python |
+| 2026-11-12 04:34:21 | [selfbrowse](https://pypi.org/project/selfbrowse/) | 0.1.0 | Selfbrowse contributors | 192.5 kB | An open-source browser agent: low token cost, guardrails built in, plug-and-pla… |
+| 2026-11-12 04:37:18 | [enviroplussensorstomqtt](https://pypi.org/project/enviroplussensorstomqtt/) | 0.2.0 | Olof Hellqvist <olof.hellqvis… | 39.6 kB | Publish Pimoroni Enviro+ environmental sensor data to MQTT |
+| 2026-11-12 04:37:43 | [sensehatsensorstomqtt](https://pypi.org/project/sensehatsensorstomqtt/) | 0.2.0 | Olof Hellqvist <olof.hellqvis… | 67.0 kB | sense-hat sensors data to mqtt |
+| 2026-11-12 04:41:09 | [velirapay](https://pypi.org/project/velirapay/) | 0.1.0 | VeliraPay | 140.0 kB | The official Python library for VeliraPay crypto payments: charges, payment lin… |
+| 2026-11-12 04:42:36 | [indycheck](https://pypi.org/project/indycheck/) | 0.2.0 | dusmamud | 291.3 kB | Offline Indian ID validator — PAN, Aadhaar, GSTIN, IFSC, UPI, mobile, PIN |
+| 2026-11-12 04:43:01 | [opendockit](https://pypi.org/project/opendockit/) | 0.1.0 | OpenDocKit contributors | 1.7 MB | Convert PDF, Office, HWP/HWPX, HTML, email, spreadsheets and images into clean,… |
+| 2026-11-12 04:43:48 | [deft-subspace-kernel](https://pypi.org/project/deft-subspace-kernel/) | 0.1.0a1 | Deft | 74.8 kB | Protocol-neutral kernel: channels, NDJSON framing, a JSON-RPC peer with one own… |
+| 2026-11-12 04:49:38 | [vigil-fuse](https://pypi.org/project/vigil-fuse/) | 0.3.0 |  | 431.4 kB | FUSE, the Firmware & Unified Security Engine, a VIGIL Project |
+| 2026-11-12 04:49:59 | [deft-subspace-acp](https://pypi.org/project/deft-subspace-acp/) | 0.1.0a1 | Deft | 350.7 kB | ACP for apps: one model over protocol v1 and v2, turns you can await, cancellat… |
+| 2026-11-12 04:52:47 | [learnbywire-optimizerplus](https://pypi.org/project/learnbywire-optimizerplus/) | 1.2.0 | Qluon Inc | 2.0 MB | OptimizerPlus by Qluon: optimizer control and accelerated training execution |
+| 2026-11-12 04:53:59 | [structscope](https://pypi.org/project/structscope/) | 0.1.0 | StructScope contributors | 48.1 kB | Structural diff for Python: see what a change did to your code, not which chara… |
+| 2026-11-12 04:54:57 | [keelson-finance](https://pypi.org/project/keelson-finance/) | 0.1.0 |  | 267.4 kB | Keelson for Python: let an AI agent spend within a mandate the user signs with… |
+| 2026-11-12 04:57:31 | [sdat-niriksha](https://pypi.org/project/sdat-niriksha/) | 1.0.1 | Subhadip Paul <subhadippaulff… | 915.7 kB | System Design Audit Tool (NIRĪKṢĀ) — deterministic, language-agnostic architect… |
+| 2026-11-12 04:58:26 | [nasute](https://pypi.org/project/nasute/) | 0.1.0 |  | 2.7 MB | A self-hosted eval harness for RAG and LLM systems: known-answer questions, a y… |
+| 2026-11-12 05:09:33 | [lockr-file](https://pypi.org/project/lockr-file/) | 1.0.0 |  | 11.3 kB | LOCKR - locks files with a password, .lockr format |
+| 2026-11-12 05:10:49 | [django-strawberry-framework](https://pypi.org/project/django-strawberry-framework/) | 0.0.15 | Unaxy | 3.4 MB | A DRF-inspired Django integration framework for Strawberry GraphQL — filtering,… |
+| 2026-11-12 05:13:39 | [sparrow-comm](https://pypi.org/project/sparrow-comm/) | 0.1.0 | zhmiao | 52.1 kB | Receivers for SPARROW field data: device API, Reconyx, IMAP e-mail and FTPS, wi… |
+| 2026-11-12 05:14:16 | [flaaa](https://pypi.org/project/flaaa/) | 0.1.0 | Aravind <aravindjayaseelan07@… | 17.8 kB | CLI tool to list, view, and export Flutter experiments |
+| 2026-11-12 05:15:51 | [petaledge-bridge](https://pypi.org/project/petaledge-bridge/) | 0.2.0 | Petal Edge | 86.7 kB | Petal Edge Camera Bridge: relays IP / CCTV cameras on a local network to the Pe… |
+| 2026-11-12 05:16:03 | [cds2md](https://pypi.org/project/cds2md/) | 0.0.0 | James Knight | 46.8 kB | Confluence Data Center to Markdown Utility |

@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T04:21:59Z,pyfastauc,0.1.0,Ming-Hen Tsai,MIT,3097192,"Fast, multithreaded classification, calibration and ranking metrics (ROC-AUC, average precision, PR-AUC, GAUC, NDCG, MRR, MAP, KS, log loss, ECE), written in Rust"
+2026-11-12T04:25:17Z,traceforge-pcb,1.0.0,Traceforge contributors,MIT,3717126,"An open-source AI agent that designs, edits and reviews KiCad circuit boards from plain English."
+2026-11-12T04:26:12Z,qarbaal,0.1.2,ahur4,MIT,120984,"Extract, normalize, validate, and export indicators of compromise from text and files."
+2026-11-12T04:28:35Z,rusty-tiles,0.4.0,,MIT AND Apache-2.0 AND BSD-3-Clause,50052844,"Self-contained mesh, vector, grid-free point cloud and 3D Tiles converters"
+2026-11-12T04:30:33Z,sandbox-drift,0.1.0,LeeGyeongPil,MIT,857691,Probe the OS sandbox of an AI coding agent with harmless canaries and catch silent regressions between versions.
+2026-11-12T04:30:49Z,pc-123,0.1.0,,,12791,Lab experiment code viewer
+2026-11-12T04:33:01Z,ohauthcat,0.0.2,,,611153,Official OhAuthCat SDK for Python
+2026-11-12T04:34:21Z,selfbrowse,0.1.0,Selfbrowse contributors,MIT,192457,"An open-source browser agent: low token cost, guardrails built in, plug-and-play observability."
+2026-11-12T04:37:18Z,enviroplussensorstomqtt,0.2.0,Olof Hellqvist <olof.hellqvist@gmail.com>,MIT,39629,Publish Pimoroni Enviro+ environmental sensor data to MQTT
+2026-11-12T04:37:43Z,sensehatsensorstomqtt,0.2.0,Olof Hellqvist <olof.hellqvist@gmail.com>,MIT,67043,sense-hat sensors data to mqtt
+2026-11-12T04:41:09Z,velirapay,0.1.0,VeliraPay,MIT,140013,"The official Python library for VeliraPay crypto payments: charges, payment links, invoices, payouts, events and webhook verification."
+2026-11-12T04:42:36Z,indycheck,0.2.0,dusmamud,MIT,291324,"Offline Indian ID validator — PAN, Aadhaar, GSTIN, IFSC, UPI, mobile, PIN"
+2026-11-12T04:43:01Z,opendockit,0.1.0,OpenDocKit contributors,MIT,1698119,"Convert PDF, Office, HWP/HWPX, HTML, email, spreadsheets and images into clean, LLM-ready Markdown."
+2026-11-12T04:43:48Z,deft-subspace-kernel,0.1.0a1,Deft,MIT,74760,"Protocol-neutral kernel: channels, NDJSON framing, a JSON-RPC peer with one owner for every request's lifecycle, and supervised agent processes. No dependencies."
+2026-11-12T04:49:38Z,vigil-fuse,0.3.0,,LicenseRef-VIGIL-FUSE-PyPI-Restricted-Use,431427,"FUSE, the Firmware & Unified Security Engine, a VIGIL Project"
+2026-11-12T04:49:59Z,deft-subspace-acp,0.1.0a1,Deft,MIT,350726,"ACP for apps: one model over protocol v1 and v2, turns you can await, cancellation that works, permissions that fail closed. Types come from the official agent-client-protocol SDK."
+2026-11-12T04:52:47Z,learnbywire-optimizerplus,1.2.0,Qluon Inc,OptimizerPlus Proprietary Commercial License Notice Copyright (c) 2026 Qluon Inc. All rights reserv…,1956347,OptimizerPlus by Qluon: optimizer control and accelerated training execution
+2026-11-12T04:53:59Z,structscope,0.1.0,StructScope contributors,MIT,48143,"Structural diff for Python: see what a change did to your code, not which characters moved."
+2026-11-12T04:54:57Z,keelson-finance,0.1.0,,Apache-2.0,267372,"Keelson for Python: let an AI agent spend within a mandate the user signs with a passkey, and verify the receipt of every purchase."
+2026-11-12T04:57:31Z,sdat-niriksha,1.0.1,Subhadip Paul <subhadippaulff@gmail.com>,MIT,915684,"System Design Audit Tool (NIRĪKṢĀ) — deterministic, language-agnostic architecture auditor"
+2026-11-12T04:58:26Z,nasute,0.1.0,,MIT,2662905,"A self-hosted eval harness for RAG and LLM systems: known-answer questions, a yes/no judge, error bars, and a static report."
+2026-11-12T05:09:33Z,lockr-file,1.0.0,,,11251,"LOCKR - locks files with a password, .lockr format"
+2026-11-12T05:10:49Z,django-strawberry-framework,0.0.15,Unaxy,MIT,3409705,"A DRF-inspired Django integration framework for Strawberry GraphQL — filtering, ordering, mutations, and permissions"
+2026-11-12T05:13:39Z,sparrow-comm,0.1.0,zhmiao,MIT,52089,"Receivers for SPARROW field data: device API, Reconyx, IMAP e-mail and FTPS, with pluggable storage hooks."
+2026-11-12T05:14:16Z,flaaa,0.1.0,Aravind <aravindjayaseelan07@gmail.com>,MIT,17843,"CLI tool to list, view, and export Flutter experiments"
+2026-11-12T05:15:51Z,petaledge-bridge,0.2.0,Petal Edge,Apache-2.0,86719,Petal Edge Camera Bridge: relays IP / CCTV cameras on a local network to the Petal Edge Model Playground (outbound only).
+2026-11-12T05:16:03Z,cds2md,0.0.0,James Knight,BSD-2-Clause,46775,Confluence Data Center to Markdown Utility

@@ -1,20 +1,27 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-11-12T03:19:52.337986Z",
-    "path": "data/new-packages-2026-11-12T04-21-23-312401Z.csv",
-    "to": "2026-11-12T04:21:23.312401Z"
+    "count": 27,
+    "from": "2026-11-12T04:21:23.312401Z",
+    "path": "data/new-packages-2026-11-12T05-18-43-268488Z.csv",
+    "to": "2026-11-12T05:18:43.268488Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 1,
+      "created_at": "2026-11-12T04:58:05Z",
+      "package": "lockr-arusys",
+      "since": "2026-11-12T04:21:23.312401Z",
+      "version": "1.0.0"
+    },
+    {
+      "attempts": 3,
       "created_at": "2026-11-12T02:37:26Z",
       "package": "sheet-music-recognition",
       "since": "2026-11-12T02:20:00.841045Z",
       "version": null
     }
   ],
-  "serial": 43537704,
+  "serial": 43539151,
   "source_truncated": false,
-  "window": "2026-11-12T04:21:23.312401Z"
+  "window": "2026-11-12T05:18:43.268488Z"
 }
