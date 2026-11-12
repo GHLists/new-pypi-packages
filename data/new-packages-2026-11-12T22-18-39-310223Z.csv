@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T21:19:39Z,amazonasdatahub,0.2.5,Nelson Geraldo Aquino de Carvalho,MIT,31032,"The goal of amazonasdatahub is to gather various data sets from the state of Amazonas (AM), Brazil, to which Deep Learning can be applied."
+2026-11-12T21:21:11Z,heyleads,1.0.0,,MIT,36340,"Official Python client for the HeyLeads API (LinkedIn outreach): campaigns, leads, lists, inbox, webhooks. Standard library only."
+2026-11-12T21:21:45Z,leashcheck,0.3.0,,MIT,33135,"See what an AI coding agent can reach on your machine: secrets, files, network, privilege."
+2026-11-12T21:22:31Z,claude-continuity-mcp,3.8.5,Gabriel Cacabelos,MIT,467296,"Persistent, shared memory for AI coding agents (Claude Code, Desktop, Cursor, Codex, Gemini CLI...) - diff reads, compaction shield, verified checkpoints and cross-agent handoff. 100% local, no API k…"
+2026-11-12T21:24:25Z,mobs-ws,0.16.1,MOBS <admin@mobs.ws>,MIT,18424,Official client for the MOBS /v1/ws/metar WebSocket (protocol 4).
+2026-11-12T21:28:24Z,pykeres,1.0.5,Keres Contributors,MIT,119040,pykeres: Deep Learning Architecture Reference & Code Recipe Library
+2026-11-12T21:30:11Z,pgkeyset,0.1.0,"NimbleBrain, Inc.",Apache-2.0,43038,"Strict keyset pagination for async SQLAlchemy on Postgres, for APIs and agent tools. Refuses at declaration the orders that silently lose or repeat rows, tags each cursor with its listing, and fails…"
+2026-11-12T21:35:19Z,malwaretracker-mcp,2.3.0,Tyler McLellan <ty@tylabs.com>,MIT,23735,"Official MalwareTracker & QuickSand MCP Server: scan PDFs, Office documents, emails, and RAG inputs in <100ms for malware exploits, CVEs, and hidden AI prompt-injection payloads."
+2026-11-12T21:35:35Z,j1x0-cardprinter,0.1.0,Chris Shucksmith <chris@shucksmith.co.uk>,"MIT License Copyright (c) 2026 Chris Shucksmith Permission is hereby granted, free of charge, to an…",308539,Print SVG card designs on J1x0-series card printers over raw USB
+2026-11-12T21:36:27Z,hidbridge,1.2.3,Martin Munk Hansen,MIT,367592,Drive a Bluetooth-HID target (iPad / iPhone / any host) from Linux -- keyboard + pointer over the host BlueZ stack or a Pico 2W / ESP32 serial-attached BLE peripheral
+2026-11-12T21:39:06Z,threadlessai,0.1.0,,"Copyright (c) 2026 Threadless AI. All rights reserved. This software is licensed, not sold. You may…",21391,"Threadless AI: memory for agents. Decorate every model call, report every reply."
+2026-11-12T21:40:14Z,pybrws,0.1.0,Ernesto,MIT,484745,"An HTTPS client that sends what Firefox 157 and Chrome 155 send over TLS and HTTP/2, and what Firefox 157 sends over HTTP/3"
+2026-11-12T21:40:34Z,sansde,0.3.1,Yinjie1,,124017,Self-adaptive differential evolution for nanocluster global optimization
+2026-11-12T21:45:05Z,rulestamp-eu-health-claim-lint,1.0.5,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,39101,"Finds unauthorised nutrition and health claims in your product-page HTML and Markdown and names the article that bans each one. 19 rules; the demo page shipped with it returns 24 findings, 13 of them…"
+2026-11-12T21:45:28Z,rulestamp-facturae-verifactu-lint,1.0.7,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,36302,18 reglas sobre tu XML Facturae antes de que FACe lo devuelva (bundled Node.js runtime)
+2026-11-12T21:45:49Z,rulestamp-farm-loss-notice-lint,1.0.1,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34540,"Crop insurance claim form deadlines from 7 CFR 457.8 section 14: notice within 72 hours of discovering damage, no later than 15 days after the insurance period ends, phone notice confirmed in writing…"
+2026-11-12T21:46:14Z,rulestamp-gensen-choshu-rate-lint-jp,1.0.3,Rulestamp <support@getreadystack.com>,Proprietary - see LICENSE.txt,34521,源泉徴収 計算コードを国税庁の式で検査する VS Code 拡張 (bundled Node.js runtime)
+2026-11-12T21:49:01Z,thonny-heritage-themes,1.10.0,Heritage Themes,MIT,33716,Heritage Themes for Thonny
+2026-11-12T21:49:13Z,nova-agentic,0.1.3,eagleye-china <zdt168@sina.cn>,MIT,7762,"A QML-powered AI Agent framework for PySide, designed to write and execute code autonomously."
+2026-11-12T21:49:35Z,dz-devkit-cli,0.1.0,Oussama Boudinar <lionweb01@gmail.com>,MIT,21284,"A modern CLI toolkit for developers: organize files, scaffold projects, inspect git repos."
+2026-11-12T21:51:57Z,pgrag-eval-lite,0.2.0,pgRAG-Inspector Engineering,MIT,43685,"Local-First RAG Retrieval, Chunking & pgvector Diagnostic Workbench (CLI)"
+2026-11-12T21:52:47Z,django-accounts-framework-fdg,0.1.0,Hua Chen,MIT,79276,"Reusable Django authentication, user management, and role framework"
+2026-11-12T21:53:15Z,comfydv,0.2.0.dev1,darth-veitcher <1722315+darth-veitcher@users.noreply.github.com>,,1257038,"Quality of life ComfyUI nodes: dynamic string formatting, seed-controlled random selection, and conditional queue interruption."
+2026-11-12T21:53:24Z,tree-sitter-cpp-ai,0.1.1,"Max Brunsfeld <maxbrunsfeld@gmail.com>, Amaan Qureshi <amaanq12@gmail.com>",MIT,12713257,C/C++ grammar for tree-sitter with generic recovery of macro-shaped syntax (fork of tree-sitter-cpp)
+2026-11-12T21:55:34Z,debkit,0.1.0,Václav Vinklát,MIT,510869,"Build, mirror, and verify Debian package repositories on filesystem, S3, and HTTP storage."
+2026-11-12T21:58:49Z,luxwave,4.2026.4.1,LuxWave,Proprietary,1364507,"Python client library for ELARA, LuxWave's RF channel emulator: RF ports, channel impairments (delay, Doppler, noise), scenarios and monitoring"
+2026-11-12T21:59:58Z,planfence,0.1.1,ZahraMost,MIT,180770,Deterministic guardrail for Terraform/OpenTofu plan JSON.
+2026-11-12T22:01:11Z,deckcheck,0.1.0,Chintan Shelat,Apache-2.0,593092,A linter for LS-DYNA keyword decks
+2026-11-12T22:03:04Z,runee-box,0.4.4,Rune Box contributors,Apache-2.0,57255,"Python SDK for Rune Box, the open-source governance harness for AI agents: policy, approvals, isolation, budgets, persistent workspaces and signed evidence."
+2026-11-12T22:05:09Z,pry-scanner,0.1.1,haqaliz,Apache-2.0,186235,Pry - Proves an app you own is exposed by actually trying the exploit
+2026-11-12T22:06:58Z,ngci-profitability-index,0.0.2,,LGPL-3.0-or-later,71730,"Ranks energy-efficiency scenarios by profitability index under a budget, from a hub City"
+2026-11-12T22:07:14Z,gapwatch,0.1.0,David Akokodaripon,MIT,22278,Crash-test how database changes reach your app: find the changes it silently misses.
+2026-11-12T22:10:46Z,azathoth-ui,1.4.0,Eris Discordia Montano,MIT,1308268,"A local editor for Azathoth workflows, served in your browser."
+2026-11-12T22:11:33Z,ngci-retrofit-bankability,0.0.2,,LGPL-3.0-or-later,85658,"Splits the capital cost of a building retrofit between lender, owner and public purse, from a hub City"
+2026-11-12T22:12:15Z,nytt,0.1.0,Cody Casterline,,12780,Python wrappers for working with the nytt CLI
+2026-11-12T22:12:41Z,pie-bench,0.1.2,,Apache-2.0,1768552,Measure pie against other inference engines on your own machine and publish the results.
