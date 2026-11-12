@@ -1,20 +1,12 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-11-12T12:18:52.513823Z",
-    "path": "data/new-packages-2026-11-12T13-18-39-450921Z.csv",
-    "to": "2026-11-12T13:18:39.450921Z"
+    "count": 47,
+    "from": "2026-11-12T13:18:39.450921Z",
+    "path": "data/new-packages-2026-11-12T14-20-15-60907Z.csv",
+    "to": "2026-11-12T14:20:15.60907Z"
   },
-  "pending": [
-    {
-      "attempts": 4,
-      "created_at": "2026-11-12T09:54:52Z",
-      "package": "ucetka-mcp",
-      "since": "2026-11-12T09:19:01.328844Z",
-      "version": null
-    }
-  ],
-  "serial": 43555689,
+  "pending": [],
+  "serial": 43558318,
   "source_truncated": false,
-  "window": "2026-11-12T13:18:39.450921Z"
+  "window": "2026-11-12T14:20:15.60907Z"
 }

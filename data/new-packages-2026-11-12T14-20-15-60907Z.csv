@@ -1,0 +1,48 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T13:22:30Z,ipa-dlp,0.3.1,Benjamin Liou,,84488,"Fetch, decrypt, and inspect personalized App Store IPAs."
+2026-11-12T13:23:20Z,tensor-spectra,0.1.0,,,531830,Reproducible spectral analysis of tensors from Transformer models
+2026-11-12T13:24:28Z,playwell,1.0.1,Bitboard <contact@bitboard.ca>,GPL-3.0-or-later,40687,A synchronous Python client wrapper for the Playwell LEGO instructions REST API.
+2026-11-12T13:26:22Z,voxbridge-sdk,0.1.0,Aquib,MIT,83237,Provider-agnostic Python SDK over the Vapi and Retell voice-agent platforms.
+2026-11-12T13:26:32Z,funnelchat,0.4.0,Funnelchat <soporte@funnelchat.com>,MIT,153379,"Official Python SDK for the Funnelchat public API: WhatsApp numbers, messages, templates, groups and webhooks"
+2026-11-12T13:27:07Z,permitplane-backend,0.1.0,Bitbat Oy,Apache-2.0,47104,"Server-side helpers for PermitPlane vendor backends: typed client, safe retries and webhook verification."
+2026-11-12T13:28:09Z,elda-client,0.1.0,Christian González <christian.gonzalez@nerdocs.at>,AGPL-3.0-or-later,57612,Framework-free async client for the Austrian ELDA Transfer Webservice v4 (DVP settlement files).
+2026-11-12T13:28:13Z,picgo-mcp,0.1.0,int2t05,MIT,18341,PicGo-backed image upload CLI and MCP server
+2026-11-12T13:30:19Z,clayvoyant,0.3.2,Ibrahim Sultan <135457750+xIBBAx@users.noreply.github.com>,MIT,21235550,"Clay stop-motion films, written as plain text: sculpted characters, sets, cameras, voices and subtitles from a YAML project. Made for security awareness; see the scam coming."
+2026-11-12T13:33:42Z,pcl-specialist-kit,0.1.0,Geppetto Ecosystem contributors,Apache-2.0,60115,"Build a PCL Agent Interoperability Profile specialist agent (A2A) in a few lines, and check it before registering it"
+2026-11-12T13:34:50Z,sklearn-contrib-emeans,0.1.0rc1,,BSD-3-Clause,7849109,"E-means clustering (k-means in a few epochs), compatible with scikit-learn."
+2026-11-12T13:35:58Z,wrapwebapi,0.1.0,wrapwebapi,MIT,21800,通用「网页接口 -> API 接口」包装库 (基于 huashu-chrome 桥接)
+2026-11-12T13:39:30Z,oniops,0.4.9b0,ares-369,Apache-2.0,4966094,"Open-source red-team framework: scope-locked tool runs, evidence-checked findings and token-free retest (beta)"
+2026-11-12T13:40:14Z,rowx-core,0.2.0,Matt LeMay,MIT,70891,Shared typed query primitives for rowx database implementations
+2026-11-12T13:40:16Z,rowx-postgres,0.2.0,Matt LeMay <mplemay@users.noreply.github.com>,MIT,3667595,PostgreSQL driver and database services for rowx
+2026-11-12T13:40:27Z,p4gcc,0.0.2,Dominic Kempf <dominic.kempf@iwr.uni-heidelberg.de>,MIT,10999,Run py4dgeo change analysis from CloudCompare
+2026-11-12T13:40:32Z,python-jiocloud,0.1.0,Abhishek Verma <vaultdmn@users.noreply.github.com>,MIT,27612,An unofficial Python client for JioCloud web API
+2026-11-12T13:41:26Z,llama-index-tools-a2a,0.1.0,Shreyansh Gautam <shreyanshgautam@gmail.com>,MIT,37908,A2A (Agent-to-Agent) Protocol integration for LlamaIndex
+2026-11-12T13:41:37Z,ai-quota-swap,0.1.0,seangeng,MIT,3009002,"Claude Code and Codex account switcher: multiple accounts, live 5-hour and weekly quota, auto-switch before usage limits, usage resets, token costs, terminal dashboard, macOS menu bar"
+2026-11-12T13:43:18Z,pythontf-cm-v9x2,0.0.0a0,NVIDIA,,1041,Namespace protection for an internal NVIDIA BCM Python distribution
+2026-11-12T13:43:52Z,convergence-sandbox,0.1.0,Vignesh Chaturvedi,Apache-2.0,237034,Least-privilege sandboxing for AI agent tools on Linux: Landlock and seccomp policies generated from observed behaviour.
+2026-11-12T13:48:55Z,kotsu-cli,0.1.0,Sera-DAI,MIT,144026,"Cozy personal finance in your terminal: income, expenses and installments of the month on one screen."
+2026-11-12T13:49:12Z,lazyzephyr,0.1.0,Hans Binderup,Apache-2.0,306452,"lazygit-style terminal UI for Zephyr: build, devicetree, Kconfig and twister tests"
+2026-11-12T13:49:20Z,rowx-embedded,18.4.0,Matt LeMay <mplemay@users.noreply.github.com>,MIT,21487998,"In-process PostgreSQL 18 engine host for rowx (development, checking and tests)"
+2026-11-12T13:49:36Z,setuptools-tiedostot,0.1,Antti Hautaniemi <antti.hautaniemi@me.com>,,6389,Riippuvuuksineen asennettu tiedostolista paketin metadatassa
+2026-11-12T13:53:38Z,liquilens,0.1.0,LiquiLens Private Limited,MIT,434829,"Python client for the LiquiLens public API: canonical ids for Indian lenders, places and publishers, and portable identity bundles."
+2026-11-12T13:55:42Z,lecop,0.1.0,,MIT OR Apache-2.0,20453311,Fast health checks for LeRobot-format robot datasets (unofficial)
+2026-11-12T13:58:25Z,sudpylib,0.0.0,SUD AERO,,2857,Nom réservé par SUD AERO / name reserved by SUD AERO
+2026-11-12T13:58:39Z,cgse-tui,0.26.1,IvS KU Leuven,MIT,161031,Terminal user interface with the status of the CGSE core services and device control servers
+2026-11-12T13:58:49Z,rs_pro_power_supply,0.26.1,IvS KU Leuven,MIT,34085,RS-PRO RS-D3305P Power Supply
+2026-11-12T13:59:17Z,death-pred,0.1.0,,,37203484,AI approach for prediction in deceased individuals
+2026-11-12T13:59:55Z,jp-postal-lookup-search,1.0.1,Justin Ang <justinang13@gmail.com>,MIT,5761685,Japanese postal code and address lookup with partial matching and normalization
+2026-11-12T14:01:31Z,screenshotdude,1.0.0,ScreenshotDude,MIT,35573,"Official Python SDK for the ScreenshotDude screenshot, content and AI-analysis API."
+2026-11-12T14:01:54Z,fpv-tools,0.1.0,Tobias Hoffmann,GPL-3.0-or-later,175887,Read and inspect Betaflight flight controllers over USB/MSP
+2026-11-12T14:01:57Z,alloy-cx,0.1.0,Alloy Systems,MIT,18573,Client for the Alloy private API: organization storage and databases
+2026-11-12T14:05:31Z,scada-fault-bench,0.1.0,Konrad Waleszczyński,MIT,159697,"An open benchmark for detecting faults in wind and PV SCADA data: injected faults with known ground truth on open datasets in the scada-schema format, one interface for detectors, one evaluation with…"
+2026-11-12T14:07:24Z,che168-api,0.1.0,apiauto.space,MIT,19099,"Che168 API client for Python: Chinese used-car listings from Che168 as JSON, from the apiauto.space team"
+2026-11-12T14:07:30Z,copart-api,0.1.0,apiauto.space,MIT,21428,"Copart API client for Python: Copart auction lots (USA) with VIN, damage and sale date as JSON, from the apiauto.space team"
+2026-11-12T14:07:33Z,encar-api-client,0.1.0,apiauto.space,MIT,19315,"Encar API client for Python: South Korean used-car listings from Encar as JSON, from the apiauto.space team"
+2026-11-12T14:08:38Z,headwater,0.1.0,Leonardo Natale,Apache-2.0,1053560,A Python library for life cycle assessment (LCA).
+2026-11-12T14:08:51Z,refined-quads,0.1.0,"HKV lijn in water, Svasek Hydraulics",GPL-3.0-or-later,672313,Generate and refine refined quad meshes (locally halved axis-aligned squares) for D-Flow FM.
+2026-11-12T14:10:20Z,langchain-animeapi,0.1.0,AnimeAPI <contact@animeapi.ai>,MIT,12302,AnimeAPI tool for LangChain and LangGraph agents: anime image generation at $0.003 per image.
+2026-11-12T14:12:16Z,probeowl,0.1.0,Saad Zarook (@SaadZarook),Apache-2.0,2298392,"Validate production data across databases and APIs, safely."
+2026-11-12T14:13:48Z,retrieval-evaluator,0.1.0,Max Belitsky <md.belitsky@gmail.com>,MIT,164756,"Evaluate embedding models (HuggingFace, OpenAI, Cohere) on your own RAG corpus"
+2026-11-12T14:16:06Z,iaai-api,0.1.0,apiauto.space,MIT,21474,"IAAI API client for Python: IAAI insurance auction lots (USA) with VIN, damage and sale date as JSON, from the apiauto.space team"
+2026-11-12T14:18:06Z,marimba-audio,0.1.0,,Apache-2.0,895818,Question-driven audio decisions with portable inference interfaces.
+2026-11-12T14:18:28Z,gigasim,0.0.0,GigaSim Team,Apache-2.0,1528,GigaSim
