@@ -1,55 +1,76 @@
 {
   "list": {
-    "count": 31,
-    "from": "2026-11-11T22:20:20.526756Z",
-    "path": "data/new-packages-2026-11-11T23-19-41-654281Z.csv",
-    "to": "2026-11-11T23:19:41.654281Z"
+    "count": 17,
+    "from": "2026-11-11T23:19:41.654281Z",
+    "path": "data/new-packages-2026-11-12T00-19-15-014084Z.csv",
+    "to": "2026-11-12T00:19:15.014084Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-11T23:45:53Z",
+      "package": "AgentFeedback.dev",
+      "since": "2026-11-11T23:19:41.654281Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-12T00:10:36Z",
+      "package": "JoobQ",
+      "since": "2026-11-11T23:19:41.654281Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-11T19:46:25Z",
       "package": "boxd-haystack",
       "since": "2026-11-11T19:18:53.5006Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-11T22:56:57Z",
       "package": "casltestube-video-cleanup",
       "since": "2026-11-11T22:20:20.526756Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-11T23:05:20Z",
       "package": "castlestube-video-cleanup",
       "since": "2026-11-11T22:20:20.526756Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-11T19:22:17Z",
       "package": "clio-core",
       "since": "2026-11-11T19:18:53.5006Z",
       "version": null
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-11T23:16:50Z",
       "package": "kruse",
       "since": "2026-11-11T22:20:20.526756Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 1,
+      "created_at": "2026-11-12T00:08:30Z",
+      "package": "limatix",
+      "since": "2026-11-11T23:19:41.654281Z",
+      "version": null
+    },
+    {
+      "attempts": 4,
       "created_at": "2026-11-11T20:12:27Z",
       "package": "miller-lib",
       "since": "2026-11-11T19:18:53.5006Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-11T22:39:47Z",
       "package": "odoo_addon_l10n_fr_account_oca",
       "since": "2026-11-11T22:20:20.526756Z",
@@ -57,13 +78,20 @@
     },
     {
       "attempts": 1,
-      "created_at": "2026-11-11T23:19:33Z",
-      "package": "pytest-stream-lifecycle",
-      "since": "2026-11-11T22:20:20.526756Z",
+      "created_at": "2026-11-12T00:18:43Z",
+      "package": "pyios-firebase",
+      "since": "2026-11-11T23:19:41.654281Z",
+      "version": "0.2.0"
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-12T00:07:45Z",
+      "package": "xmetai-inference",
+      "since": "2026-11-11T23:19:41.654281Z",
       "version": null
     }
   ],
-  "serial": 43528052,
+  "serial": 43529633,
   "source_truncated": false,
-  "window": "2026-11-11T23:19:41.654281Z"
+  "window": "2026-11-12T00:19:15.014084Z"
 }

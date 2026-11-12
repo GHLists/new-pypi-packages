@@ -1,0 +1,18 @@
+created_at,package,version,author,license,size,summary
+2026-11-11T23:19:33Z,pytest-stream-lifecycle,0.1.0a1,,MIT,41622,Real-network streaming and explicit cleanup assertions for ASGI tests
+2026-11-11T23:20:27Z,certbot-dns-gyro,0.1.1,Gyro Hosting,MIT,8099,"Gyro DNS authenticator plugin for Certbot (DNS-01, wildcard certificates)"
+2026-11-11T23:20:48Z,tungoai,0.2.0,Tungo,MIT,516574,Official Python library for the Tungo Platform API
+2026-11-11T23:25:13Z,dbt-spark-on-k8s,0.1.0,Hussein Awala,Apache-2.0,89664,Experimental invocation-scoped Spark on Kubernetes adapter for dbt Core
+2026-11-11T23:27:48Z,wouldcatch,0.1.0,Sahil Lenka,MIT,25227,Would your tests catch a bug in the lines you just changed? Mutation testing for your git diff.
+2026-11-11T23:28:07Z,imbi-plugin-sentry,2.46.0,"""Gavin M. Roy"" <gavinr@aweber.com>",BSD-3-Clause,25363,Sentry integration plugin for Imbi
+2026-11-11T23:32:59Z,pinboard-sdk,0.18.0,,MIT,272936,"One live instance of your class per id, with an HTTP surface"
+2026-11-11T23:34:56Z,pengcut-kit,0.1.0,,MIT AND OFL-1.1 AND CC0-1.0,37984616,"Make Thai short films with your AI in a closed sandbox: the Lemo-Opuscar film engine, Thai fonts, sound effects and a Thai text check, with no GitHub needed."
+2026-11-11T23:41:05Z,brickremote,0.4.0,Alexandre Strube <surak@surak.eti.br>,MIT,4124215,"Drive Lego-compatible Bluetooth motor bricks (JG_JMC / XP Block ""Smart creative module"") from a computer"
+2026-11-11T23:41:30Z,nova-orbit,0.1.0,eagleye-china <zdt168@sina.cn>,MIT,15473,"A stunning, GPU-accelerated AI chat UI framework for PySide6/QML."
+2026-11-11T23:49:38Z,realtimevad,0.0.4,Kolja Beigel,MIT,3950342,Fast speech-end detection for low-latency voice assistants
+2026-11-11T23:57:11Z,langchain-socialscrape,0.1.0,SocialScrape <hello@socialscrape.dev>,MIT,116720,"LangChain tools and document loader for SocialScrape: profiles, posts, comments, search and video transcripts from social platforms as JSON."
+2026-11-12T00:01:42Z,mkjxl,1.0.3,Gradipoo,GPL-3.0-only,69318,Terminal UI for batch converting images to JPEG XL
+2026-11-12T00:06:12Z,cardspec,0.1.1,Jeremy Brown,Apache-2.0,123453,"Describe a small card (title, text, numbers, table, chart, buttons) as data, check it, and show it on any surface"
+2026-11-12T00:06:54Z,beli-client,0.2.0,Vasu Menon,MIT,124252,Unofficial Python client and exporter for the Beli restaurant ranking app
+2026-11-12T00:15:36Z,django-pledge,0.0.1a1,,MIT,42345,Django support for the pledge PostgreSQL ledger extension
+2026-11-12T00:17:17Z,limno,0.1.0,Vitor da Costa Garcia <vitorcostagarcia2006@gmail.com>,BSD-3-Clause,47360,Explainable AI for data streams and continual learning.
