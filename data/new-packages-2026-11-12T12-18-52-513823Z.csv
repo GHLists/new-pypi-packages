@@ -1,0 +1,39 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T08:57:08Z,probnode-mcp,0.1.0,,MIT,7666,"MCP server for ProbNode: Polymarket order books, trades and gaps for AI agents"
+2026-11-12T10:58:42Z,lln-openroad,26.4.post1,,GPL-3.0-or-later,291737532,
+2026-11-12T11:07:54Z,rings-statistics-matter,0.2.0,Joe Morrow,MIT,1655591,Primitive ring statistics for large atomistic models
+2026-11-12T11:18:16Z,silentbug,0.1.0,Shushant Kumar Choudhary,MIT,55199,"Find silent PyTorch training bugs: accidental broadcasting, parameters that never learn, and the line that caused them."
+2026-11-12T11:19:55Z,sydost-tracekit,0.0.1,"Andrey Ferubko, Oleg Kazakov",MIT,297383,"Reference memory traces of virtual machines and accuracy of accumulated-deficit estimates from samples: stdlib guest recorder, libvirt collector, error bounds, tuning by Pareto front"
+2026-11-12T11:22:13Z,benchmark-router-cli,0.1.0,,,37001,Command-line client for Benchmark Router
+2026-11-12T11:23:36Z,rruyijs,0.3.7,ruyijs contributors,AGPL-3.0-only,213976714,Firefox SpiderMonkey JavaScript contexts and native browser APIs for Python
+2026-11-12T11:27:08Z,proctor-telemetry,0.1.0,LinguaPulse Research Team,MIT,25238,Lightweight multimodal behavioral telemetry fusion & academic integrity verification engine
+2026-11-12T11:27:13Z,isca-lib,0.1.4,Sébastien Le Maguer <sebastien.lemaguer@helsinki.fi>,GPL-3.0-or-later,113957,The core ISCA library
+2026-11-12T11:30:08Z,cui-py,0.1.0,Shakeeb Alireza <shakfu@users.noreply.github.com>,MIT AND OFL-1.1 AND ISC,9372749,Cython bindings for the cui UI framework
+2026-11-12T11:30:08Z,interspeech-tools,0.1.4,Sébastien Le Maguer <sebastien.lemaguer@helsinki.fi>,GPL-3.0-or-later,2479492,Interspeech organisation tools
+2026-11-12T11:30:17Z,eden-world,0.1.0,Kashu Yamazaki,Apache-2.0,6844310,Eden: Embodied-AI Development Environments Nexus
+2026-11-12T11:30:21Z,mailveri-mcp,2.0.0,MailVeri Team <support@mailveri.com>,MIT,40426,Official Model Context Protocol (MCP) server for MailVeri email verification service
+2026-11-12T11:32:25Z,stmmlib,0.2.0,Ghardapaty Ghiffary,MIT,340873,Family-aware spatio-temporal mixed models (Gaussian + Beta) with optional GPU acceleration
+2026-11-12T11:34:42Z,razor-kv,0.1.0,Himansu Rawal,Apache-2.0,64376,RAZOR: a learned KV-cache forget gate that deletes evicted KV from GPU memory
+2026-11-12T11:36:58Z,intentlock-sdk,0.1.0,Divy Bhanushali,MIT,66667,Developer-first security middleware for AI agents
+2026-11-12T11:37:22Z,minimindslab-csv-column-type-hint,0.1.0,MiniMindsLab,MIT,8206,Infer simple per-column CSV data types from rows using deterministic rules.
+2026-11-12T11:38:28Z,netbox-access-paths,0.1.0,Packetflow,Apache-2.0,111413,"Document how your team reaches every customer system: access routes, paths, hops, holders and reviews in NetBox"
+2026-11-12T11:39:04Z,africa-payments-webhooks,0.1.0,Popoola Sinaayo (Evergreene Software LTD),MIT,59120,"Verify and normalise payment webhooks from African providers (Paystack, Flutterwave, Monnify, Squad, Korapay, Fincra, Interswitch, Nomba). Zero dependencies; Django, Flask and FastAPI helpers."
+2026-11-12T11:39:27Z,django-click-to-reveal,1.0.1,Thomas Leichtfuß,BSD-3-Clause,13526,Reveal email addresses on demand in Django templates.
+2026-11-12T11:45:25Z,orbite,0.1.0b1,,Apache-2.0,23255725,OrbiTE: a transfer engine for LLM inference on NVIDIA
+2026-11-12T11:46:39Z,oushodh,0.1.0,Oushodh <support@oushodh.dev>,MIT,65502,Python SDK for the Oushodh medicine data API
+2026-11-12T11:48:23Z,comprestack,0.1.1,Comprestack,MIT,22592,Official Python SDK for the Comprestack image optimization API
+2026-11-12T11:50:01Z,fit-python,1.0.0,Gregor Skok,MIT,4471317,Forward-in-Time spatial object identification and temporal tracking
+2026-11-12T11:50:45Z,immscore,0.0.1,,,1805,ImmScore. Placeholder: code will be released with the accompanying paper.
+2026-11-12T11:54:04Z,xactflow-rtl-gen,0.3.0,Joonatan Alanampa,LGPL-3.0-only,213523,XactFlow exporter plugin that generates a SystemVerilog top-level module from a linked IP-XACT design.
+2026-11-12T11:54:11Z,haltwise,0.1.0,haltwise contributors,Apache-2.0,149960,"Stop doomed LLM-agent runs early, with a guaranteed cap on how many good runs you kill."
+2026-11-12T11:56:36Z,tilefish,0.0.0,Kilerd Chan,MIT OR Apache-2.0,2756,"Typed tensor DSL for GPU kernels: shapes, dtypes and quantization formats in the type, one compiled artifact for Python, C++ and Rust hosts. Name reservation, nothing usable yet."
+2026-11-12T11:56:53Z,rwa-partners,0.1.0,,MIT,31445,"The RWA.xyz Partners API client, in beta: submit asset metrics and read your assets."
+2026-11-12T11:57:41Z,netbox-ot,0.3.0,Packetflow,Apache-2.0,275399,"IEC 62443 zones, conduits and flows, Purdue levels, an access map and a zone register for NetBox"
+2026-11-12T12:00:14Z,shopee-vespa-client,0.0.0,sc,BSD License,2469,A small example package
+2026-11-12T12:01:56Z,pyxatu,1.9.2.dev0,Toni Wahrstätter,MIT,4001,A Python interface for the Xatu API (placeholder release while the package is being restored)
+2026-11-12T12:03:53Z,netbox-device-type-sync,1.0.0,Maksym Ototiuk <pypi@masik.slmail.me>,MIT,67185,Sync the components of a NetBox device with its device type.
+2026-11-12T12:05:44Z,testzombie-windows,0.2.25,TestZombie AI,LicenseRef-Proprietary,135785,"TestZombie AI integration for Windows UI automation with self-healing, discovery and code updates"
+2026-11-12T12:08:56Z,spriteforge,0.1.1,reviver134,MIT,2283351,"Describe a game in a sentence: Muse-powered AI agents build a playable pixel-art browser game, and you approve every step."
+2026-11-12T12:09:14Z,aeglib,0.0.1,aeglib contributors,MIT OR Apache-2.0,1682657,AEG symbolic/numerical computation library (M0: exact algebra and Sturm certificates)
+2026-11-12T12:12:47Z,adeptiv-ai-gateway,0.1.0,Adeptiv AI <contact@adeptiv-ai.com>,Apache-2.0,99502,"Adeptiv gateway: check an app's model, tool and MCP calls against its containment rules before they run"
+2026-11-12T12:15:00Z,django-ip-path-restrict,1.0.0,Peter Stavrou,"MIT License Copyright (c) 2026 Peter Permission is hereby granted, free of charge, to any person ob…",24899,"Restrict Django paths to allowed IP addresses, with optional Cloudflare support."
