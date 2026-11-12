@@ -1,76 +1,62 @@
 {
   "list": {
-    "count": 35,
-    "from": "2026-11-12T00:19:15.014084Z",
-    "path": "data/new-packages-2026-11-12T01-19-35-024772Z.csv",
-    "to": "2026-11-12T01:19:35.024772Z"
+    "count": 20,
+    "from": "2026-11-12T01:19:35.024772Z",
+    "path": "data/new-packages-2026-11-12T02-20-00-841045Z.csv",
+    "to": "2026-11-12T02:20:00.841045Z"
   },
   "pending": [
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-11T23:45:53Z",
       "package": "AgentFeedback.dev",
       "since": "2026-11-11T23:19:41.654281Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-12T00:10:36Z",
       "package": "JoobQ",
       "since": "2026-11-11T23:19:41.654281Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-11T22:56:57Z",
       "package": "casltestube-video-cleanup",
       "since": "2026-11-11T22:20:20.526756Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-11T23:05:20Z",
       "package": "castlestube-video-cleanup",
       "since": "2026-11-11T22:20:20.526756Z",
       "version": null
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-12T01:00:19Z",
-      "package": "datamodel-codegen",
-      "since": "2026-11-12T00:19:15.014084Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-11T23:16:50Z",
       "package": "kruse",
       "since": "2026-11-11T22:20:20.526756Z",
       "version": null
     },
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-11T22:39:47Z",
       "package": "odoo_addon_l10n_fr_account_oca",
       "since": "2026-11-11T22:20:20.526756Z",
       "version": null
     },
     {
-      "attempts": 1,
-      "created_at": "2026-11-12T01:19:15Z",
-      "package": "potato-peeling",
-      "since": "2026-11-12T00:19:15.014084Z",
-      "version": "0.1.0a1"
-    },
-    {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-12T00:07:45Z",
       "package": "xmetai-inference",
       "since": "2026-11-11T23:19:41.654281Z",
       "version": null
     }
   ],
-  "serial": 43532100,
+  "serial": 43533794,
   "source_truncated": false,
-  "window": "2026-11-12T01:19:35.024772Z"
+  "window": "2026-11-12T02:20:00.841045Z"
 }

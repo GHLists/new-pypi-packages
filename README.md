@@ -8,46 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 01:19 UTC
+## Latest list — 2026-11-12 02:20 UTC
 
-New packages created between 2026-11-12 00:19 UTC and 2026-11-12 01:19 UTC.
+New packages created between 2026-11-12 01:19 UTC and 2026-11-12 02:20 UTC.
 
-[Full CSV](data/new-packages-2026-11-12T01-19-35-024772Z.csv)
+[Full CSV](data/new-packages-2026-11-12T02-20-00-841045Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-12 00:08:30 | [limatix](https://pypi.org/project/limatix/) | 1.2.6 | Stephen D. Holland | 2.4 MB | Automated data collection |
-| 2026-11-12 00:18:43 | [pyios-firebase](https://pypi.org/project/pyios-firebase/) | 0.2.0 | Kenechukwu Akubue <kengoon19@… | 411.4 kB | Pure-Python Firebase for iOS apps (Kivy, BeeWare, ...), built on Rubicon-ObjC |
-| 2026-11-12 00:19:28 | [gitbin-bot](https://pypi.org/project/gitbin-bot/) | 1.0.0 | MMD <ammmd219@gmail.com> | 16.6 kB | کتابخانه پایتون برای GitBin Bot API |
-| 2026-11-12 00:20:08 | [fame-qp](https://pypi.org/project/fame-qp/) | 0.2.0 | Santosh Mohan Rajkumar, Debdi… | 74.0 kB | GPU-accelerated QP solver for real-time model predictive control |
-| 2026-11-12 00:22:35 | [tslite-og](https://pypi.org/project/tslite-og/) | 2.1.0 | Gunnar Leffler | 1.2 MB | The original lightweight time-series library. Since 2009. |
-| 2026-11-12 00:24:07 | [urdf-mesh-optimizer](https://pypi.org/project/urdf-mesh-optimizer/) | 0.3.0 | Omkar Chandrakant Kshirsagar | 69.0 kB | Mesh optimization toolkit for ROS2, MoveIt, and digital twins: decimation, URDF… |
-| 2026-11-12 00:24:17 | [sealbox](https://pypi.org/project/sealbox/) | 0.3.0 | Gökhan Özdemir | 224.0 kB | Keep passwords, API keys and personal data out of your source files, so AI codi… |
-| 2026-11-12 00:27:01 | [haris](https://pypi.org/project/haris/) | 0.7.1 | HARIS contributors | 2.4 MB | Black-box web application security audit framework |
-| 2026-11-12 00:29:28 | [ctf-flightdeck](https://pypi.org/project/ctf-flightdeck/) | 0.1.0 | Maximus Fisher | 1.3 MB | A terminal harness for playing CTFs with AI agents, where the player runs the l… |
-| 2026-11-12 00:29:45 | [polarfactory](https://pypi.org/project/polarfactory/) | 0.1.0 |  | 22.9 kB | Generate Python objects filled with realistic test data. |
-| 2026-11-12 00:30:00 | [gnosis-status-ui](https://pypi.org/project/gnosis-status-ui/) | 999.9.9 |  | 966 B | Stub package that mitigates Dependency Confusion attacks |
-| 2026-11-12 00:31:55 | [ordloom-cms](https://pypi.org/project/ordloom-cms/) | 0.1.0 |  | 38.5 kB | Ordloom 内容管理子应用 |
-| 2026-11-12 00:31:56 | [ordloom-members](https://pypi.org/project/ordloom-members/) | 0.1.0 |  | 29.8 kB | Ordloom 会员管理子应用 |
-| 2026-11-12 00:31:57 | [ordloom-shop](https://pypi.org/project/ordloom-shop/) | 0.1.0 |  | 62.8 kB | Ordloom 商品、库存与会员订单子应用 |
-| 2026-11-12 00:31:58 | [ordloom-wechat](https://pypi.org/project/ordloom-wechat/) | 0.1.0 |  | 61.9 kB | Ordloom 微信公众号、小程序接入与会员绑定子应用 |
-| 2026-11-12 00:33:18 | [manyminds](https://pypi.org/project/manyminds/) | 0.0.1 | Matthew DeVerna | 8.4 kB | Pre-alpha placeholder: a local app that gathers cited evidence about claims fou… |
-| 2026-11-12 00:40:41 | [pytest-graded](https://pypi.org/project/pytest-graded/) | 0.1.0 |  | 17.7 kB | Run each test script as one pytest item, and fail a script that graded nothing |
-| 2026-11-12 00:41:47 | [hermes-project-oracle](https://pypi.org/project/hermes-project-oracle/) | 2.1.0 | Jules Zhou <juleszhou01@gmail… | 112.1 kB | Deep project scanner that generates agent-ready context files — AGENTS.md, CLAU… |
-| 2026-11-12 00:42:51 | [inval](https://pypi.org/project/inval/) | 0.1.0 |  | 16.1 kB | Cache a function's result in memory and Redis, invalidated in every process on… |
-| 2026-11-12 00:45:24 | [aixand-prompt-manager](https://pypi.org/project/aixand-prompt-manager/) | 0.1.0b0 |  | 256.4 kB | Local, reproducible prompt packs, composition, and releases |
-| 2026-11-12 00:51:30 | [nfselib.giss](https://pypi.org/project/nfselib.giss/) | 0.1.0 | KMEE | 103.0 kB | Bindings xsdata do webservice de NFS-e do GissOnline (versao 2, ABRASF 2.04 com… |
-| 2026-11-12 00:53:44 | [uh-harness](https://pypi.org/project/uh-harness/) | 0.7.2 | Thomas Leroyer | 176.9 kB | Universal Harness: a provider-agnostic agent harness with a local-first CLI, to… |
-| 2026-11-12 00:55:30 | [chimerakit](https://pypi.org/project/chimerakit/) | 0.1.0 |  | 31.0 kB | Python client for the Chimera partner bank API |
-| 2026-11-12 01:02:12 | [kaiwen-gateway](https://pypi.org/project/kaiwen-gateway/) | 0.1.0a1 | Kaiwen | 409.2 kB | Modular, provider-agnostic communication gateway for real-time AI applications. |
-| 2026-11-12 01:03:07 | [esda-protocol](https://pypi.org/project/esda-protocol/) | 1.1.0 | Branden Duffield | 41.8 kB | Local-first cryptography workbench: seven test doors (Shamir, hash-chained ledg… |
-| 2026-11-12 01:03:10 | [aimart-parquet](https://pypi.org/project/aimart-parquet/) | 0.1.0 | Kayode Balogun <balogvn@gmail… | 475.8 kB | Pay-per-call MCP server and API that turns messy CSV, JSON, Excel, SPSS, Stata… |
-| 2026-11-12 01:04:20 | [meeting-transcriber](https://pypi.org/project/meeting-transcriber/) | 0.2.0 | Mahmoud Dolah | 27.0 kB | Local, offline meeting recorder and transcriber (mic + system audio, Me/Others… |
-| 2026-11-12 01:04:38 | [aixand-agent-manager](https://pypi.org/project/aixand-agent-manager/) | 0.1.0b0 |  | 1.6 MB | Manage native agent profiles, environments, and execution |
-| 2026-11-12 01:07:22 | [governed-agent-harness](https://pypi.org/project/governed-agent-harness/) | 2.0.0 | Juan Sebastián Barrera Pulido | 1.9 MB | Technology-neutral research prototype for governing AI-assisted software develo… |
-| 2026-11-12 01:09:00 | [llm-format-guard](https://pypi.org/project/llm-format-guard/) | 0.1.2 | LeeGyeongPil | 91.5 kB | Catch LLM answers that miss the user's format and length instructions: extract,… |
-| 2026-11-12 01:09:01 | [ragless](https://pypi.org/project/ragless/) | 0.1.0 | Qasim Arshad <mohmdqasim0@gma… | 49.8 kB | File-based retrieval for RAG, no vector database required |
-| 2026-11-12 01:10:17 | [hermes-memory-vault](https://pypi.org/project/hermes-memory-vault/) | 0.2.0 | Jules Zhou <juleszhou01@gmail… | 107.8 kB | Portable Context Protocol — package AI agent sessions into portable .hermes-mem… |
-| 2026-11-12 01:15:47 | [aixand-conversation-manager](https://pypi.org/project/aixand-conversation-manager/) | 0.1.0b0 |  | 530.3 kB | Retained AI agent conversations for chat interfaces |
-| 2026-11-12 01:18:33 | [aaas-service](https://pypi.org/project/aaas-service/) | 0.1.0 |  | 164.3 kB | 用 AgentScope 驱动的 AaaS（Agent as a Service）协议服务端：模型在服务端，能力与副作用全部回到调用方进程 |
-| 2026-11-12 01:18:54 | [thespis-sdk](https://pypi.org/project/thespis-sdk/) | 0.3.1 | Timothy Oluwatobi Ojebiyi | 350.5 kB | NPC minds for games: they remember, believe things that may be false, gossip, a… |
+| 2026-11-12 01:00:19 | [datamodel-codegen](https://pypi.org/project/datamodel-codegen/) | 0.94.0 |  | 2.8 kB | Alias of datamodel-code-generator, so that the datamodel-codegen command instal… |
+| 2026-11-12 01:19:15 | [potato-peeling](https://pypi.org/project/potato-peeling/) | 0.1.0a1 | Zane Dmitri Pereira <zanedper… | 13.5 MB | The largest convex polygon inside a simple polygon: exact, meshed and approxima… |
+| 2026-11-12 01:20:19 | [composite-step](https://pypi.org/project/composite-step/) | 2026.11.11 | Paul Saxe | 359.0 kB | A SEAMM plug-in for composite methods: energies from recipes of ordinary calcul… |
+| 2026-11-12 01:20:52 | [gawain](https://pypi.org/project/gawain/) | 0.1.0 | Marinho | 16.0 MB | Checks Python source files for missing type annotations, then runs the ty type… |
+| 2026-11-12 01:24:03 | [aixand-skill-manager](https://pypi.org/project/aixand-skill-manager/) | 0.1.0b0 |  | 207.6 kB | Local native skill authoring, immutable whole-directory releases, and export |
+| 2026-11-12 01:24:54 | [fsspec-abfs](https://pypi.org/project/fsspec-abfs/) | 0.1.0 | Tsuyoshi SUGIBUCHI | 434.9 kB | An fsspec file system for Azure Data Lake Storage Gen2 |
+| 2026-11-12 01:30:01 | [calcbox](https://pypi.org/project/calcbox/) | 0.3.1 | calcbox contributors | 38.0 kB | Backend-agnostic math compute kernel: symbolic, numeric, units, control — with… |
+| 2026-11-12 01:31:03 | [aixand-mcp-manager](https://pypi.org/project/aixand-mcp-manager/) | 0.1.0b0 |  | 201.3 kB | Profile-independent MCP definitions and retained preparation jobs |
+| 2026-11-12 01:31:13 | [met-share](https://pypi.org/project/met-share/) | 1.0 | Bail | 67.8 kB | Add your description here |
+| 2026-11-12 01:31:43 | [kneemesh](https://pypi.org/project/kneemesh/) | 0.1.0 | Scott Sibole | 68.5 kB | B-rep geometry and meshes of knee structures from segmented images |
+| 2026-11-12 01:38:17 | [jupyterlab-audio-extension](https://pypi.org/project/jupyterlab-audio-extension/) | 1.0.0 | Stellars Henson <konrad.jelen… | 966.6 kB | JupyterLab extension that captures microphone audio in the browser and streams… |
+| 2026-11-12 01:41:25 | [nova-chat](https://pypi.org/project/nova-chat/) | 0.1.0 | eagleye-china <zdt168@sina.cn> | 52.4 kB | A QML-powered AI Agent framework for PySide, designed to write and execute code… |
+| 2026-11-12 01:42:53 | [pysigillum](https://pypi.org/project/pysigillum/) | 0.0.1 | Stefan Marsiske | 7.4 kB | python bindings for libseal |
+| 2026-11-12 01:53:34 | [contextbase-client](https://pypi.org/project/contextbase-client/) | 1.0.0 | ContextBase Team | 638.8 kB | Python client for ContextBase - Semantic memory system with personality-driven… |
+| 2026-11-12 01:54:51 | [xgdb-connect-native](https://pypi.org/project/xgdb-connect-native/) | 0.0.1 | eMTAi LLC | 2.6 kB | Name held by eMTAi LLC. The real xgdb-connect-native (the native encoder of the… |
+| 2026-11-12 01:59:35 | [kaktus-entrypoint](https://pypi.org/project/kaktus-entrypoint/) | 1.0.4 | 3elenyi Kaktus | 65.6 kB | A collection of different small things |
+| 2026-11-12 02:02:57 | [loglens-zyt](https://pypi.org/project/loglens-zyt/) | 0.1.10 | YaBoom <ya@example.com> | 77.1 kB | 智能日志分析工具 - 用AI快速定位线上问题根因 |
+| 2026-11-12 02:09:29 | [reflop](https://pypi.org/project/reflop/) | 0.1.7 | The reFLOP Authors | 191.1 kB | reFLOP client: use a remote GPU as a calculator, without giving anyone a shell |
+| 2026-11-12 02:13:47 | [mamba-cpu](https://pypi.org/project/mamba-cpu/) | 0.1.0 |  | 984.9 kB | Multithreaded CPU kernels for Mamba selective state space models, API-compatibl… |
+| 2026-11-12 02:16:03 | [screenshot-ready](https://pypi.org/project/screenshot-ready/) | 0.1.0 | SnapRender | 52.9 kB | Make a Playwright page ready for page.screenshot(): wait for web fonts, load la… |

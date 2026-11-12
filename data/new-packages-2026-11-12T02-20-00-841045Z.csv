@@ -1,0 +1,21 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T01:00:19Z,datamodel-codegen,0.94.0,,MIT,2846,"Alias of datamodel-code-generator, so that the datamodel-codegen command installs by its name"
+2026-11-12T01:19:15Z,potato-peeling,0.1.0a1,Zane Dmitri Pereira <zanedpereira2@gmail.com>,LGPL-3.0-or-later,13522508,"The largest convex polygon inside a simple polygon: exact, meshed and approximate algorithms"
+2026-11-12T01:20:19Z,composite-step,2026.11.11,Paul Saxe,BSD-3-Clause,358988,A SEAMM plug-in for composite methods: energies from recipes of ordinary calculations
+2026-11-12T01:20:52Z,gawain,0.1.0,Marinho,MIT,15953555,"Checks Python source files for missing type annotations, then runs the ty type checker."
+2026-11-12T01:24:03Z,aixand-skill-manager,0.1.0b0,,Apache-2.0,207610,"Local native skill authoring, immutable whole-directory releases, and export"
+2026-11-12T01:24:54Z,fsspec-abfs,0.1.0,Tsuyoshi SUGIBUCHI,Apache-2.0,434922,An fsspec file system for Azure Data Lake Storage Gen2
+2026-11-12T01:30:01Z,calcbox,0.3.1,calcbox contributors,MIT,38004,"Backend-agnostic math compute kernel: symbolic, numeric, units, control — with provenance in every answer"
+2026-11-12T01:31:03Z,aixand-mcp-manager,0.1.0b0,,Apache-2.0,201315,Profile-independent MCP definitions and retained preparation jobs
+2026-11-12T01:31:13Z,met-share,1.0,Bail,,67805,Add your description here
+2026-11-12T01:31:43Z,kneemesh,0.1.0,Scott Sibole,Apache-2.0,68524,B-rep geometry and meshes of knee structures from segmented images
+2026-11-12T01:38:17Z,jupyterlab-audio-extension,1.0.0,Stellars Henson <konrad.jelen+github@gmail.com>,BSD-3-Clause,966602,"JupyterLab extension that captures microphone audio in the browser and streams it to a server-side bridge, exposing it as a virtual audio source so terminal applications running in the container (suc…"
+2026-11-12T01:41:25Z,nova-chat,0.1.0,eagleye-china <zdt168@sina.cn>,MIT,52433,"A QML-powered AI Agent framework for PySide, designed to write and execute code autonomously."
+2026-11-12T01:42:53Z,pysigillum,0.0.1,Stefan Marsiske,LGPLv3,7433,python bindings for libseal
+2026-11-12T01:53:34Z,contextbase-client,1.0.0,ContextBase Team,MIT,638819,Python client for ContextBase - Semantic memory system with personality-driven thinking
+2026-11-12T01:54:51Z,xgdb-connect-native,0.0.1,eMTAi LLC,LicenseRef-Proprietary,2581,Name held by eMTAi LLC. The real xgdb-connect-native (the native encoder of the xrayGraphDB Python SDK) is distributed only from eMTAi's private package index.
+2026-11-12T01:59:35Z,kaktus-entrypoint,1.0.4,3elenyi Kaktus,MIT,65643,A collection of different small things
+2026-11-12T02:02:57Z,loglens-zyt,0.1.10,YaBoom <ya@example.com>,MIT,77080,智能日志分析工具 - 用AI快速定位线上问题根因
+2026-11-12T02:09:29Z,reflop,0.1.7,The reFLOP Authors,Apache-2.0,191138,"reFLOP client: use a remote GPU as a calculator, without giving anyone a shell"
+2026-11-12T02:13:47Z,mamba-cpu,0.1.0,,Apache-2.0,984927,"Multithreaded CPU kernels for Mamba selective state space models, API-compatible with mamba_ssm"
+2026-11-12T02:16:03Z,screenshot-ready,0.1.0,SnapRender,MIT,52909,"Make a Playwright page ready for page.screenshot(): wait for web fonts, load lazy images, hide cookie banners, freeze animations."
