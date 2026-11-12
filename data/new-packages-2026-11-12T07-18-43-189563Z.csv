@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T06:20:47Z,vibegram,1.0.0,Ali VEX <lyrdaadhrpyk802@gmail.com>,MIT,74851,Python client library for Vibe Messenger (MTProto over WebSocket)
+2026-11-12T06:25:36Z,gymdesk-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,16559,"Connect Gymdesk to ChatGPT, Claude and other AI agents through Cotlet.dev, a hosted MCP server. No Gymdesk API key needed."
+2026-11-12T06:28:58Z,goomzo,0.1.0,Goomzo <hello@goomzo.africa>,MIT,38564,"The Goomzo API for Python: messages, templates, customers and webhooks."
+2026-11-12T06:29:58Z,poixe-encrypt,0.1.0,,MIT,11221,Client-side API key encryption for Poixe channels
+2026-11-12T06:30:01Z,ideformer,999.9.9,,,952,Stub package that mitigates Dependency Confusion attacks
+2026-11-12T06:33:57Z,diff-fvr,1.0.0,Pareel Amre <pareel.amre@gmail.com>,MIT,57014,Dual-Domain Differentiable Fourier Volume Rendering for Ultra-Fast Biplanar 3D-2D Spine Registration
+2026-11-12T06:34:46Z,planlens-agent,0.1.0,"Nurdaulet Abdrakhman, Daniyal Kozyrev",Apache-2.0,1436119,Catch plan errors before execution: check structured AI-agent plans against your workflow rules.
+2026-11-12T06:37:37Z,mokugen,0.1.0,Mokugen Maintainers,LicenseRef-Mokugen-1.0.0,3058,Binary container inspection and SDK primitives for Mokugen neural audio models.
+2026-11-12T06:38:40Z,sharkmagic,0.1.0,Shark Magic,Apache-2.0,109417,"Python SDK for Shark: persistent Spaces for AI agents, every command in a fresh microVM"
+2026-11-12T06:41:44Z,unicad-kit,0.1.0,"Parashell, Stephen Harcourt",MIT,8353445,CAD interchange SDK by Parashell.
+2026-11-12T06:42:07Z,llm-tally,0.2.0,Fauzi Azzam,MIT,132447,"Zero-dependency Python LLM toolkit with self-evicting in-memory caching, smart 5xx/429/network retries, per-feature cost tracking, and an interactive HTML dashboard."
+2026-11-12T06:42:17Z,engg-math-power-systems,0.0.1,Engineering Mathematics,Apache-2.0,5281,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-12T06:42:19Z,engg-math-robotics,0.0.1,Engineering Mathematics,Apache-2.0,5237,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-12T06:42:21Z,engg-math-signal-processing,0.0.1,Engineering Mathematics,Apache-2.0,5321,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-12T06:42:22Z,engg-math-state-space,0.0.1,Engineering Mathematics,Apache-2.0,5264,Name reserved for the Engineering Mathematics ecosystem. No functionality yet.
+2026-11-12T06:43:30Z,s3-bibliometric,0.1.0,Hamid Bekamiri,MIT,36020,S3 (Semantic Similarity Score) bibliometric method: Python library + MCP server for LLM assistants
+2026-11-12T06:43:42Z,gc-primitives,0.1.0,rainbowcrr-sys <rainbowcrr.sys@gmail.com>,Apache-2.0,21690,Allocation-reducing object pooling primitives (Python semantic port of the cross-language spec)
+2026-11-12T06:47:17Z,seqchem,0.1.0,SeqChem <devin2xing@gmail.com>,Apache-2.0,23268,Python client for the SeqChem API — free chemistry and bioinformatics tools
+2026-11-12T06:48:20Z,segmentstream-connections,0.1.0,SegmentStream,Apache-2.0,81675,Connection declarations for SegmentStream workspaces
+2026-11-12T06:49:05Z,hessian2,0.1.0,,MIT,19268502,"Fast Hessian 2.0 serialization for Python, with a Rust core."
+2026-11-12T06:51:09Z,media-studio-agent-sdk,0.1.0b2,AI302,MIT,90922,AI302 Media Studio agent runtime SDK — FastAPI / WebSocket / replayable runs
+2026-11-12T06:51:25Z,wisen,0.2.0,,MIT,480611,"A continuous-learning harness for coding agents: it learns from your real agent sessions with a private daily reflection, a chat you can ask about your work, and instruction files that keep improving…"
+2026-11-12T06:57:09Z,py-wecom-sdk,0.1.0,guolei,"MIT License Copyright (c) 2026 郭磊 Permission is hereby granted, free of charge, to any person obtai…",30232,企业微信（WeCom）开放接口的 Python SDK，基于 httpx + pydantic，同步与异步统一封装。
+2026-11-12T07:01:23Z,slowlang,1.0.0,"Sebin Mathew, Abin Zachariah Abraham",MIT,29529,"A Python-based esoteric programming language that enforces a ~30 WPM typing cap - angry ASCII turtle, rage lockouts, haiku errors."
+2026-11-12T07:05:34Z,swissarmygrid,1.0.0,,MIT OR Apache-2.0,3017059,Local server that shows tabular data in live browser grids.
+2026-11-12T07:08:58Z,turtlelang,1.0.0,,MIT,3089,Official alias for slowlang — installing this gives you the real SlowLang.
+2026-11-12T07:10:35Z,langchain-fxmacrodata,0.1.0,,MIT,15161,LangChain and LangGraph tools for the public FXMacroData API
