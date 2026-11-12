@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T22:19:11Z,firstsignal,0.2.0,AutoShiftOps,MIT,123760,"Read-only incident triage for logs: journalctl, Docker, Kubernetes and files, mapped to the Four Golden Signals."
+2026-11-12T22:20:47Z,thousandproblems,0.1.0,Ontology Portal <pypi@ontologyportal.org>,"GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc…",4997032,"Fast parser and printer for the TPTP problem and solution syntax (thf, tff, tcf, fof, cnf, tpi)."
+2026-11-12T22:23:08Z,blockmetric,0.3.0,,Apache-2.0,129945,Official Blockmetric API client: real-time crypto market data (Hyperliquid on-chain positions plus cross-exchange aggregates). Standard library only.
+2026-11-12T22:25:43Z,neuralign,0.1.0,"Miklós Králik, Sasha Tinelli, James Kozloski, Rui Ponte Costa, Andrew Sharott, Robert L. Peach",MIT,844923,Joint tensor decomposition and alignment of trial-resolved neural recordings
+2026-11-12T22:26:39Z,dinkster-engine,0.0.3,,,75875,Dinkster execution engine: the scheduler behind the dinkster-protocol boundary (hazard H3)
+2026-11-12T22:38:23Z,ragas-ng,2026.11.0,,Apache-2.0,43677448,Evaluation framework for RAG and LLM applications
+2026-11-12T22:41:36Z,kavikemail,1.0.0,,MIT,33385,Official Python SDK for the Kavik.email email verification API
+2026-11-12T22:41:52Z,qpiai-finance,1.0.3,QpiAI,Apache-2.0,1021513,"Financial modeling, risk analysis, quantum-inspired and gate-based optimization"
+2026-11-12T22:43:39Z,ragas-ng-examples,2026.11.0,Ragas Team,Apache-2.0,182377,Examples and quickstart templates for ragas-ng
+2026-11-12T22:44:58Z,yt-dlp-assify,2026.11.11,nateify,Unlicense,8641,A yt-dlp postprocessor plugin to convert YouTube srv3/ytt subtitles to ASS format using YTSubConverter
+2026-11-12T22:45:12Z,charmlibs-interfaces-smtp,1.0.0,The Charm Tech team at Canonical,Apache-2.0,47260,The charmlibs.interfaces.smtp package.
+2026-11-12T22:45:46Z,kei-animator,0.1.0,,MIT,8742884,"Kei Animator, by Castforge: an animation agent that keys motion by hand, stage by stage."
+2026-11-12T22:52:15Z,nextron-cloud,0.1.0rc1,Physion Labs <support@physionlabs.ai>,Apache-2.0,86240,Official Python client for the NexTron Cloud fine-tuning API.
+2026-11-12T22:55:30Z,cable-station,0.1.0,John Randall <john@johnrandall.com>,MIT,77128,"BETA, untested: read USB-C cable e-markers with a POWER-Z KM003C tester or a Mac, keep one Markdown note per cable, and print a wrap-flag label for each"
+2026-11-12T22:56:23Z,basic-cli-builder,0.1.0,blindpro <noahbalboa34@gmail.com>,GPL-3.0-or-later,5345,A simple Python library for creating command-line interfaces.
+2026-11-12T22:56:56Z,pyribbon,0.1.0,Yoav Haimov <haimovyoav.work@gmail.com>,MIT,1171292,Ribbon filters for Python: a static approximate-membership filter with a C core.
+2026-11-12T23:03:23Z,remote-exec-grpc,0.2.2,,MIT,148525,Lightweight gRPC remote command execution with real-time stdout/stderr streaming
+2026-11-12T23:04:40Z,dex-agents-deepagents-cli,0.6.1,Super Durable,LicenseRef-Sustainable-Use-1.0,40847,The dex-agents-deepagents command: a durable Deep Agents agent in your terminal
+2026-11-12T23:05:30Z,moonpool-sdk,0.1.0,,MIT,14174,"Moonpool for Python agents: find your hires, build and check each move, sign and send it with your own key."
+2026-11-12T23:07:37Z,elbx,0.1.0,gyuro <344015443+gyuro-dev@users.noreply.github.com>,MIT,355172,"Read-only CLI and Python library that shows AWS ALB/NLB (ELBv2) trees with the real targets (EC2, ECS, Lambda, downstream ELBs), looks targets up, and simulates which listener rule a request matches"
+2026-11-12T23:08:21Z,neun-py,0.4.1,Angel Lareo,"GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007 Copyright (C) 2007 Free Software Foun…",129962266,Python bindings for Neun neural simulation library
+2026-11-12T23:08:40Z,ifran,0.0.6,Ziyad Mabrouk,BSD-Clear,1047993,Orchestrator for deploying and managing 5G/6G mobile networks.
+2026-11-12T23:18:05Z,matchamomo,0.1.0,Roger Allen <roger.allen795@gmail.com>,MIT,58431,A TUI-based Pomodoro timer featuring two animated ASCII cats: a large orange cat and a small tortie.
