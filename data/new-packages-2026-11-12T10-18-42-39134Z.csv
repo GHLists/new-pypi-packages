@@ -1,0 +1,37 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T09:20:37Z,copyrust,0.1.1,,MIT,8900711,"Parallel, content-aware batch file copying with native Rust workers"
+2026-11-12T09:21:39Z,oxy-py-sdk,1.0.0,wangjz <wangjz_vip@163.com>,MIT,82960,"Python utilities for HTTP, configuration, cryptography, and data processing"
+2026-11-12T09:21:47Z,sayto,0.6.22,sayto,MIT,16575447,"The PC side of your own assistant server, linked with an Authenticator code"
+2026-11-12T09:30:25Z,ingot-auth,0.1.0,Aliaksandr Karotki,Apache-2.0,350802,"Sign-up, sign-in and sessions of the users of Ingots applications."
+2026-11-12T09:32:08Z,pmae,0.1.0,"Jungkyu Kim, Kibok Lee, Taeyoung Park",MIT,78159,PMAE: proportionally masked autoencoders for tabular data imputation (AAAI 2025)
+2026-11-12T09:33:22Z,pinboard-sqlite,0.1.0a1,,MIT,22841032,SQLite on S3 for singleton durable objects: a sqlite3-style connection whose commits land in packed LTX segments
+2026-11-12T09:37:03Z,agent-call-audit,0.1.1,,MIT,28875,Dependency-free guardrail layer for agent tool calls with a tamper-evident audit trail
+2026-11-12T09:37:23Z,uwflow,0.0.1,,,2524,Placeholder package name reservation
+2026-11-12T09:38:09Z,agent-audit-cli,0.1.0,agent-audit-cli maintainers <2307788504@qq.com>,MIT,9228,"Fail-closed audit CLI for AI agent tool calls: adjudicate one request, verify the hash-chained trail (WorkBuddy Connector edition)."
+2026-11-12T09:41:09Z,managym,0.2.2,,,15447457,The Magic: The Gathering rules environment for Manabot
+2026-11-12T09:43:35Z,hodgeguard-mcp,0.2.0,Rajeev Prakash Nath,MIT,6805,"Zero-Knowledge MCP Circuit-Breaker Client for Autonomous Coding Agents (OpenCode, Claude Code, Cursor)"
+2026-11-12T09:45:50Z,django-testt,0.1.0,Your Name <you@example.com>,MIT,8805,Вставляет готовые HTML/CSS шаблоны в текущую папку по имени
+2026-11-12T09:46:24Z,selectolax-schema,0.1.0,,MIT,39656,Schema-driven HTML extraction powered by selectolax.
+2026-11-12T09:46:39Z,agent-audit-gateway,0.1.1,agent-audit-gateway maintainers <2307788504@qq.com>,MIT,45870,An HTTP audit gateway for AI agent tool calls: transport + bearer auth + rate limit in front of a fail-closed audit engine (research prototype / AI-assisted development).
+2026-11-12T09:46:45Z,agent-context-clinic,0.1.0,maintainers,MIT,19719,AI session context health check CLI. How close is your agent session to memory loss? Zero-dependency.
+2026-11-12T09:47:39Z,cumulusmx-mcp,1.8.0,edudele,MIT,226570,"MCP server for CumulusMX weather stations: queries, climate analytics, configuration (MySQL, MQTT...), history corrections and live data."
+2026-11-12T09:49:34Z,ninetile,0.1.0,Ninetile,MIT,16806,Official Python client for the Ninetile API: hCaptcha token solves and challenge recognition
+2026-11-12T09:53:03Z,yuanwei,0.1.0a1,Junzhi Gu (顾钧之),LicenseRef-PolyForm-Noncommercial-1.0.0,776333,原委：事有原委，话有出处。给 AI 助手用的长期记忆（预览版）
+2026-11-12T09:53:32Z,scientificlab,0.7.0,ScientificLab contributors,MIT,828795,"ScientificLab is an open-source Python library for mathematical computation, equation solving, numerical analysis, physics calculations, scientific simulations, and data visualization."
+2026-11-12T09:57:10Z,jsrv8,0.1.0,,MIT,51262781,High-performance Python JavaScript execution engine based on Deno Core (V8) with full Promise/async support and official Deno Web API integration
+2026-11-12T09:57:33Z,veriport,0.1.0,Janolab Studio LLC <hello@veriport.io>,MIT,35954,"Client for the Veriport API: EU VAT number validation on VIES with a dated cache, EU VAT rates dated and sourced, IBAN validation from the SWIFT registry, French company data by SIREN/SIRET, e-invoic…"
+2026-11-12T09:58:44Z,eddy-pg,0.1.0,Tianqiu Huang,MIT AND MPL-2.0,88472,"Reconcile loops for Python, with Postgres as the only moving part. Job-compatible with the Go eddy library."
+2026-11-12T09:58:50Z,seam-merge,0.1.0,sc0Vu,AGPL-3.0-only,220574,"Software Engineering Agent Merge: many agents, one codebase, one seam."
+2026-11-12T09:58:58Z,estrellio-worktree-integration,0.1.0,,MIT,9771,Cooperative Git worktree coordination for Linux and WSL
+2026-11-12T09:59:44Z,tinyapps,0.1.0,Arjun Mahishi <arjun.mahishi@gmail.com>,MIT,16550,"An extremely minimal, self-hosted, stateful app builder your agents can use."
+2026-11-12T10:01:16Z,bayerlink-fpga,0.3.0,Serge Rabyking,Apache-2.0 WITH SHL-2.1,132926,The bayerlink receiver on FPGAs: the receiver and its front ends
+2026-11-12T10:02:31Z,tinto,0.1.1,Fabien Mathieu <fabien.mathieu@normalesup.org>,MIT,275233,"How long does a self-stabilizing graph coloring take to settle? Tinto measures it with a Numba-compiled Monte Carlo over pluggable graphs, guards, schedulers and recoloring rules, down to the varianc…"
+2026-11-12T10:03:45Z,netinfra-phtaya-official-phil-skd2m,1.0.0,Autonomous Infrastructure Lab <maintainer@infra-telemetry.org>,,4852,Technical network verification and high-availability endpoint registry for PHTAYA Official Philippines Gaming Portal & About Us
+2026-11-12T10:05:59Z,euclid-clob-sdk,0.1.0,Euclid Protocol,MIT,563109,Python SDK for the Euclid exchange API
+2026-11-12T10:06:28Z,nano-invoice,0.2.1,,MIT,357427,"Bind a Nano (XNO) payment to the order it pays for: idempotent invoices, unique tagged amounts, ledger-verified receipts. Non-custodial, stdlib only."
+2026-11-12T10:09:28Z,coldrun,0.1.0,KARAN RJ,MIT,73590,"Fetch, vet and sandbox any downloaded script in one command"
+2026-11-12T10:10:39Z,brightdata-instagram-scraper,0.1.0,Bright Data,Apache-2.0,372146,"Instagram scraper in Python: profiles, posts, reels and comments as JSON, on the Bright Data Instagram Scraper API (Web Scraper API). No Instagram login, no browser. 5,000 free credits a month."
+2026-11-12T10:11:45Z,tamserve,0.2.0,Aryaman Darda,Apache-2.0,260942,"Live, multi-camera tracking with SAM 2 and EdgeTAM, on one GPU or many: one model per GPU serves every camera."
+2026-11-12T10:12:02Z,bio-pype-runtime-models,0.1.0,,,78244,"Learn per-workflow resource, timeline and power-curve models from bio-pype runtime dumps."
+2026-11-12T10:12:44Z,horus-agent,0.1.2,,,67575,Horus target for machines that only allow outbound connections: a small agent polls a broker for target operations and runs them locally.
+2026-11-12T10:16:26Z,ciffer,0.1.0,Howon Lee <hwlee7771@gmail.com>,MIT,592047,"Biomolecular structures as NumPy tables, ready for ML pipelines."
