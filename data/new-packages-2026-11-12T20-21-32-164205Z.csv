@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T19:18:57Z,ane-speech,0.1.0,App Automaton,MIT,258565,Speech recognition on the Apple Neural Engine
+2026-11-12T19:21:14Z,breezy-trace,0.1.0,Breezy Labs,MIT,226144,Local-first project memory and development intelligence for your terminal
+2026-11-12T19:21:21Z,pano-cli,0.3.0,,,151234,Local DJI photo sphere stitcher
+2026-11-12T19:23:54Z,nautobot-agent,1.0.0,Geury Torres,MIT,29789468,AI agent integration for Nautobot.
+2026-11-12T19:25:25Z,sparklings,0.1.0,Micha Grandel <michagrandel@proton.me>,"Copyright 2026 Micha Grandel. Licensed under the Apache License, Version 2.0 you may not use this f…",14754,A collection of useful tools for developers.
+2026-11-12T19:27:00Z,enip-sim,0.1.0,Ralf Steinert,MIT,88420,"Simulated EtherNet/IP (CIP) devices with behaviour and fault injection: drives, I/O blocks and generic adapters, explicit and implicit messaging"
+2026-11-12T19:28:13Z,comfit-hl,0.1.0,Ngo Duc Hoang Son <hoangsonngo555@gmail.com>,MIT,107870552,Comfit bindings for Python
+2026-11-12T19:30:14Z,langchain-qann,0.1.0a1,Maximilian Miller,MIT,25265,"LangChain vector store backed by qann: HNSW, IVF fast-scan PQ with re-ranking, metadata filters"
+2026-11-12T19:31:38Z,cicada-nwb,0.4.0,,,143007,NWB data access layer for CICADA — lazy read-only wrappers with no GUI or analysis dependencies
+2026-11-12T19:33:32Z,luping-localai,0.1.0,luping-ai,Apache-2.0,48032,Local AI Hub Runtime 的官方 Python 客户端（零依赖）
+2026-11-12T19:34:56Z,simpleiot,0.1.0,,Apache-2.0,134758,"Python client for Simple IoT, over NATS"
+2026-11-12T19:39:58Z,pulsario,0.1.0b1,Humberto Ruiz-Ochoa,LicenseRef-Proprietary,11423680,Local CPU/GPU trace viewer for Linux perf.data and NVIDIA Nsight Systems reports
+2026-11-12T19:40:00Z,waveport,0.1.0,Maurizio Tomasi <maurizio.tomasi@unimi.it>,GPL-3.0-or-later,12864616,A Python library to load files produced by TICRA Tools
+2026-11-12T19:41:46Z,earthdiff,0.2.0,Mehmet Veysel Delibaş,MIT,424408,"What changed here? Explainable change reports from free Sentinel-2 imagery, for you and for AI assistants (MCP server included). No account, no API key."
+2026-11-12T19:42:04Z,runeconomy,0.1.0,shrey,Apache-2.0,113201,Find inference waste in agent workflows and verify performance improvements
+2026-11-12T19:42:57Z,codeshift-ai,0.1.0,,,55290,CLI que migra projetos Python para C++ usando IA
+2026-11-12T19:45:06Z,managebetcodes,1.0.0,Manage Bet Codes,MIT,29517,Official Python SDK for the Manage Bet Codes public API v1
+2026-11-12T19:45:10Z,ica-capture,0.1.0,ALEETH,Apache-2.0,72369,"Emit AI agent steps to ICA. ICA signs and governs them. A tool guard, tool hooks, a callback recorder and an approval pause for agent frameworks (the framework is a setting), MCP, plus outside eval i…"
+2026-11-12T19:48:40Z,cicada-analysis,0.4.0,,,147399320,CICADA analysis framework – headless analysis engine and plugins
+2026-11-12T19:49:09Z,arabic-doc-ocr,0.1.0,Omar Hamdy,Apache-2.0,25763311,"Offline Arabic OCR for scanned documents: PP-OCR detection/recognition models and onnxruntime bundled in one wheel, no downloads."
+2026-11-12T19:50:02Z,haus-fmt,0.0.1,,MIT,3779,The haus data format for Python. Early placeholder: the parser is on its way.
+2026-11-12T19:50:09Z,pydantic-ai-enkrypt,0.1.0,,BSD-3-Clause,3289793,Enkrypt AI guardrails as pydantic-ai-harness guard callables
+2026-11-12T19:52:01Z,contextattr,0.1.0,Surya Rayala,MIT,171525,"Context attribution: which parts of a prompt make a model give an output, for a model hosted anywhere"
+2026-11-12T19:54:14Z,llama-index-vector-stores-qann,0.1.0a1,Maximilian Miller,MIT,26672,"LlamaIndex vector store backed by qann: HNSW, IVF fast-scan PQ with re-ranking, metadata filters, BM25 / SPLADE hybrid search"
+2026-11-12T19:54:46Z,freertb,0.0.0,,Apache-2.0,10546,Python client for the FreeRTB API
+2026-11-12T19:55:58Z,torux,0.1.0,Philipp Bogdan,CC0-1.0,1557370,"Vacuum magnetic field and flux surfaces of coils and magnets for toroidal confinement, at the limit of double-precision arithmetic."
+2026-11-12T19:56:38Z,onto-lang,0.1.0,,,363837,"Compact text formats for ontologies, observations and mappings"
+2026-11-12T19:58:51Z,llm-simulator,0.2.1,Umang Aggarwal,MIT,289567,"A GPU-free, deterministic stand-in for an OpenAI-compatible LLM server. Its latency and throughput respond to load the way a real serving engine's do, so the systems built on top of a model can find…"
+2026-11-12T19:59:52Z,kryptos,1.1.0,NyxWarden,MIT,28733,Cross-platform terminal 2FA authenticator with AES-256 encryption
+2026-11-12T20:00:42Z,pywidevine-ng,1.9.1,rlaphoenix <rlaphoenix@pm.me>,GPL-3.0-only,147227,Widevine CDM (Content Decryption Module) implementation in Python.
+2026-11-12T20:01:50Z,pybi-ray,0.1.0,Muhammad Rafay Shaikh,MIT,510121,"Open-source business intelligence studio in Python - a Power BI style app: data modeling, DAX-style measures, interactive dashboards, sharing and exports."
+2026-11-12T20:02:24Z,cicada-gui,0.4.0,,,786907,CICADA GUI — PyQt5 application for calcium imaging data analysis
+2026-11-12T20:03:03Z,fastmask-seg,0.1.0,belfner,MIT,36726,Fast unique-color and per-color mask extraction for color-coded segmentation masks
+2026-11-12T20:10:28Z,fastwarp,0.1.0,"Richard M. Köhler, Jan Philipp Payonk",Apache-2.0,16709056,"FastWarp: GPU (wgpu: Vulkan / Metal / DX12) image registration (Rigid, Affine, SyN), with ANTs-compatible outputs"
+2026-11-12T20:10:53Z,sigmma,0.1.0,Dabin Jeong <dnj01208@gmail.com>,CC-BY-NC-4.0,245827,Spatial transcriptome–histology image representation learning via hierarchical graph-based multi-scale multi-modal alignment
+2026-11-12T20:11:48Z,murex,0.1.1,Jocelyn Legault <jocelynlegault@gmail.com>,MIT,116561,"What simulations of artists' media share: pigments that mix like the real thing (spectral Kubelka-Munk), stroke paths, textures and reference images."
+2026-11-12T20:14:50Z,java2py,0.1.0,Mauricio Suárez Barrera,MIT,104142,"Traductor de Java a Python para estudiar (estructuras de datos y algoritmos), sin IA."
+2026-11-12T20:16:06Z,dex-agents-builtin-cli,0.6.0,Super Durable,LicenseRef-Sustainable-Use-1.0,16627,The dex-agents-builtin command: a durable Dex built-in loop agent in your terminal
+2026-11-12T20:17:31Z,rowver,15.0.0,Derek Grove,MIT,51469948,"Read .rvr files as NumPy, Awkward, Arrow and pandas, and make them with rvr."
+2026-11-12T20:18:46Z,snitch-engine,0.3.0,Abdellah Ennajari,MIT,117395,Integrity layer for AI coding agents: detects test cheating.
+2026-11-12T20:19:46Z,QAxRDP,2.1.0,Aininou Usama,GPL-3.0-only,718762,"Microsoft Remote Desktop (RDP) client ActiveX control as a Qt widget, for PyQt/PySide through ManyQt."
