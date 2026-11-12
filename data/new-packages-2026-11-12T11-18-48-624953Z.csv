@@ -1,0 +1,50 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T09:42:33Z,blvkware-pkgguard,0.1.2,Blvkware <russ@blvkware.dev>,Apache-2.0,161925,"Open-source AI package security gate for slopsquatting, hallucinated dependencies, and typosquats across npm, PyPI, and crates.io."
+2026-11-12T10:19:20Z,lexio-rent,0.1.1,Lexio Rent <contact@lexio.rent>,MIT,205148,"Client Python de l'API Lexio Rent : flotte, locations, devis, clients, paiements et entretien pour les loueurs de véhicules."
+2026-11-12T10:19:29Z,authlas-python,0.1.0,,,15625685,"OAuth 2.0 and JOSE: client, resource server, MCP authorization, SD-JWT, OpenID4VCI/VP"
+2026-11-12T10:19:37Z,saef,3.0.0,Guillermo Llopis-Garcia <guillermollopis@somaai.earth>,MIT AND CC-BY-4.0,304151,"SOMA AI Emission Factors: estimated carbon and water factors for AI inference, per million tokens"
+2026-11-12T10:22:51Z,langchain-actera,0.1.0,Actera <hello@actera.dev>,Apache-2.0,42552,"Actera middleware for LangChain agents: every tool call is allowed, blocked or held for a person's approval, and recorded as a decision."
+2026-11-12T10:24:56Z,voronota-ltr,0.7.1,"Kliment Olechnovic, Mikael Lund",MIT,2184551,Voronota-LT is an alternative version of Voronota for constructing tessellation-derived atomic contact areas and volumes.
+2026-11-12T10:25:42Z,syrtis-python-storage,1.0.1,weeger <contact@syrtis.ai>,MIT,4647,
+2026-11-12T10:26:02Z,amanager-sdk,1.0.0a10,,Proprietary,62560,Python SDK for the MVPP public protocol mvpp-public-v1-draft.1 (Session + events)
+2026-11-12T10:26:44Z,d3dplot,0.2.0,,GPL-3.0-or-later,1270475,Postprocess and plot D-Flow FM and SMT simulation results.
+2026-11-12T10:27:25Z,airflow-provider-lexio,0.1.0,Lexio Rent <contact@lexio.rent>,MIT,22483,"Apache Airflow provider for the Lexio Rent API: hook, operators and an event sensor for car and van rental data (fleet, rentals, customers, payments, maintenance)."
+2026-11-12T10:27:27Z,sie-cognee,0.11.1,,Apache-2.0,28650,SIE inference and source evidence helpers for Cognee
+2026-11-12T10:30:44Z,repograph-mcp,0.2.0rc4,,Apache-2.0,752250,"Local, model-agnostic repository intelligence over MCP"
+2026-11-12T10:31:42Z,sparksee,6.1.0,,LicenseRef-SparkseeLicense,160511278,Sparksee Graph Database Python bindings
+2026-11-12T10:34:39Z,scrapyium,0.0.0,,,2174,Reserved name. This project holds no code.
+2026-11-12T10:34:45Z,cherry-apples,0.0.0,,,2217,Reserved name. This project holds no code.
+2026-11-12T10:34:48Z,orca-skips,0.0.0,,,2184,Reserved name. This project holds no code.
+2026-11-12T10:34:50Z,scrapestry,0.0.0,,,2183,Reserved name. This project holds no code.
+2026-11-12T10:35:35Z,fhenom-thick-client,0.2.0,DataKrypto <support@datakrypto.ai>,MIT,24625,"Thick-client SDK for FHEnom for AI: encrypted prompts, chat and images, attestation and encrypted-RAG embeddings over the OpenAI-compatible API."
+2026-11-12T10:36:34Z,dmmcp-client,0.1.0,,,13115,dm-mcp Python client: dm(...) drives the 32-bit DmMcp.exe DaMo service
+2026-11-12T10:37:24Z,flexablelib-components,3.3.0,Benjamin Ramirez,MIT,121553,"Interactive terminal components for flexablelib: inputs, dates, tables, forms, menus, tabs, dialogs and more."
+2026-11-12T10:37:25Z,flexablelib-speedups,3.3.0,Benjamin Ramirez,MIT,1027027,"Optional C acceleration of terminal frame drawing for flexablelib (cut, pad, borders, frame diffs)."
+2026-11-12T10:37:49Z,flexablelib-tui,3.3.0,Benjamin Ramirez,MIT,51263,"Terminal interfaces for flexablelib: widgets, full-screen layout, diff redraw, keyboard input, focus and key bindings."
+2026-11-12T10:37:55Z,tap-lexio,0.1.0,Lexio Rent <contact@lexio.rent>,MIT,195888,"Singer tap for the Lexio Rent API (car rental software): fleet, customers, rentals, maintenance and rental events. Built with the Meltano Singer SDK."
+2026-11-12T10:43:26Z,forscore-mcp,1.0.0,Soham,PolyForm-Noncommercial-1.0.0,86762,"Read and clean up forScore library metadata from the CLI, an MCP server, or an LLM skill"
+2026-11-12T10:45:50Z,uodt-publish-demo-20261112,0.1.0,,,7684,A dependency-free package for verifying a first PyPI publication
+2026-11-12T10:45:54Z,muxit,0.1.0,Muxit,MIT,47605,Drive the instruments you set up in Muxit from Python and Jupyter: psu.voltage = 3.
+2026-11-12T10:46:13Z,estrellio-git-cloud-worktree,0.1.0,,MIT,27234,Git metadata management and replica synchronization
+2026-11-12T10:48:12Z,odoo-addon-stock-dropshipping-operating-unit,18.0.1.0.1,"Luc De Meyer, Odoo Community Association (OCA)",AGPL-3,24135,Propagates the Sale Order operating unit to drop-ship purchase orders
+2026-11-12T10:49:30Z,bible-strong-tui,0.1.0,,MIT,115244,聖經 CLI / TUI：恢復本、和合本與原文 Strong 對照
+2026-11-12T10:50:55Z,runlog-tools,0.1.0,Marion van Vugt <marionv124@gmail.com>,MIT,95336,"Record per-script run output into one compact, project-wide Markdown log."
+2026-11-12T10:51:24Z,irovanai,0.2.1,Irovan,MIT,23918,"Fast, dependency-free Python client for Irovan AI (کتابخانه پایتون آیروان)"
+2026-11-12T10:54:50Z,luxvigil,0.1.0,polfananas,Apache-2.0,218248,"Abuse forensics for AI APIs: find account farms, leaked keys and bots hiding in your request logs."
+2026-11-12T11:00:23Z,shopee-skynet-presto-query,0.0.0,sc,BSD License,2538,A small example package
+2026-11-12T11:01:06Z,wyrlo,0.1.0,"""Mayeul FLORY, entrepreneur individuel (FUSION-IA)"" <contact@wyrlo.io>",Apache-2.0,72534,SDK Python de WYRLO : dites « je ne sais pas » plutôt qu'une réponse fausse.
+2026-11-12T11:01:51Z,langchain-lexio,0.1.0,Lexio Rent <contact@lexio.rent>,MIT,18123,"LangChain tools for the Lexio Rent API (car rental software): fleet, availability and prices, rentals, customers and quotes."
+2026-11-12T11:02:29Z,pestrail,0.1.0,pestrail contributors,MIT,91986,"A safety-first MCP server for TestRail: browse projects, cases, runs and plans, add results and attachments. It cannot delete anything."
+2026-11-12T11:03:15Z,boi-kust-statistiek,0.1.0,"""P. Kindermann"" <P.Kindermann@hkv.nl>",GNU-GPL V3,74536,"Python version of the KNMI wind and sea water level statistics (BOI kust, Feb2026)"
+2026-11-12T11:04:18Z,pdfsieve,0.1.0,Vaibhav Rawat (AdRaw App Studio),Apache-2.0,60572,"Read characters, words, lines, shapes and images from PDF pages with exact coordinates. Pure Python, permissively licensed (pdfminer.six underneath)."
+2026-11-12T11:04:38Z,kv0,0.1.0b1,Saiful Islam,Apache-2.0,182809160,"Ordered key-value store and experiment-tracking tables on Lance: local disk, S3, GCS, Azure or memory"
+2026-11-12T11:09:06Z,primapy-talos,0.1.0,Prima Assicurazioni,,1756,primapy-talos package
+2026-11-12T11:11:54Z,desna-interval,0.0.1,"Andrey Ferubko, Oleg Kazakov",MIT,171084,"Monitoring interval from a tolerance on accumulated deficit: the rule delta* = s/v + sqrt(2 eps/v), aged snapshots, expected-cost optimum and a libvirt loop for KVM memory ballooning"
+2026-11-12T11:12:47Z,aigate-lite,0.5.0,Hitarth Khatiwala <hitarthkhatiwala@gmail.com>,Apache-2.0,415189,"Free, local commit-time gate that checks AI-written code before it is committed or pushed"
+2026-11-12T11:13:59Z,euclimix,0.1.0,Xinye Chen,,53787,Mixed-precision squared Euclidean distances with selective CUDA recomputation
+2026-11-12T11:14:57Z,deberka-jordan,0.0.1,"Andrey Ferubko, Oleg Kazakov",MIT,78353,"Reallocation plans for a shared resource from the Hahn-Jordan decomposition: least-volume netting, a safe two-phase order, oscillation index and dead-band choice, with a libvirt balloon backend"
+2026-11-12T11:15:53Z,lattuce-latex2md,0.2.0,,,35886,"Markdown <-> LaTeX conversion built on pandoc, with math, mhchem and citation clean-up."
+2026-11-12T11:16:05Z,pdfpainter,0.1.0,Vaibhav Rawat (AdRaw App Studio),Apache-2.0,53038,"Paint PDF pages to images with Pillow alone: no native PDF engine, permissive licence, exact text positions. For OCR and page previews where PDF DLLs can't run."
+2026-11-12T11:16:58Z,pdata-client,0.1.0,"""pdata.world"" <support@pdata.world>",MIT,29044,"Python client for pdata.world, a free read-only API for prediction-market data from Polymarket, Kalshi, Manifold and five more venues."
+2026-11-12T11:17:50Z,pochep-slo,0.0.1,"Andrey Ferubko, Oleg Kazakov",MIT,125289,"Quality criteria for VM memory management from the measure of the deficit set: share P(θ), distribution G(c), episodes, block-bootstrap bounds, conservative method selection and PSI correlation"
+2026-11-12T11:17:56Z,verdy,0.1.0,Jovana Dobreva,MIT,46306,"VERDY: match your own terms (species, habitats, parameters, measurements) to the ontologies you choose: ENVO, NCBITaxon, GBIF, PATO, CF, Wikidata, any OLS4 ontology."

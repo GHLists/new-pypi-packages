@@ -1,20 +1,20 @@
 {
   "list": {
-    "count": 36,
-    "from": "2026-11-12T09:19:01.328844Z",
-    "path": "data/new-packages-2026-11-12T10-18-42-39134Z.csv",
-    "to": "2026-11-12T10:18:42.39134Z"
+    "count": 49,
+    "from": "2026-11-12T10:18:42.39134Z",
+    "path": "data/new-packages-2026-11-12T11-18-48-624953Z.csv",
+    "to": "2026-11-12T11:18:48.624953Z"
   },
   "pending": [
     {
       "attempts": 1,
-      "created_at": "2026-11-12T09:42:33Z",
-      "package": "blvkware-pkgguard",
-      "since": "2026-11-12T09:19:01.328844Z",
+      "created_at": "2026-11-12T10:58:42Z",
+      "package": "lln-openroad",
+      "since": "2026-11-12T10:18:42.39134Z",
       "version": null
     },
     {
-      "attempts": 2,
+      "attempts": 3,
       "created_at": "2026-11-12T08:57:08Z",
       "package": "probnode-mcp",
       "since": "2026-11-12T08:19:03.744154Z",
@@ -22,13 +22,27 @@
     },
     {
       "attempts": 1,
+      "created_at": "2026-11-12T11:07:54Z",
+      "package": "rings-statistics-matter",
+      "since": "2026-11-12T10:18:42.39134Z",
+      "version": null
+    },
+    {
+      "attempts": 1,
+      "created_at": "2026-11-12T11:18:16Z",
+      "package": "silentbug",
+      "since": "2026-11-12T10:18:42.39134Z",
+      "version": "0.1.0"
+    },
+    {
+      "attempts": 2,
       "created_at": "2026-11-12T09:54:52Z",
       "package": "ucetka-mcp",
       "since": "2026-11-12T09:19:01.328844Z",
       "version": null
     }
   ],
-  "serial": 43548445,
+  "serial": 43550981,
   "source_truncated": false,
-  "window": "2026-11-12T10:18:42.39134Z"
+  "window": "2026-11-12T11:18:48.624953Z"
 }
