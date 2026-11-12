@@ -1,34 +1,27 @@
 {
   "list": {
-    "count": 23,
-    "from": "2026-11-12T17:19:17.848725Z",
-    "path": "data/new-packages-2026-11-12T18-20-51-208359Z.csv",
-    "to": "2026-11-12T18:20:51.208359Z"
+    "count": 22,
+    "from": "2026-11-12T18:20:51.208359Z",
+    "path": "data/new-packages-2026-11-12T19-18-38-195713Z.csv",
+    "to": "2026-11-12T19:18:38.195713Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-12T15:39:23Z",
       "package": "new-mpml-package",
       "since": "2026-11-12T15:20:52.588993Z",
       "version": "0.1.0"
     },
     {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-12T17:47:31Z",
       "package": "titlemcp-platform-countyfusion",
       "since": "2026-11-12T17:19:17.848725Z",
       "version": null
-    },
-    {
-      "attempts": 1,
-      "created_at": "2026-11-12T17:54:26Z",
-      "package": "vera-in-viewer",
-      "since": "2026-11-12T17:19:17.848725Z",
-      "version": null
     }
   ],
-  "serial": 43568780,
+  "serial": 43571218,
   "source_truncated": false,
-  "window": "2026-11-12T18:20:51.208359Z"
+  "window": "2026-11-12T19:18:38.195713Z"
 }

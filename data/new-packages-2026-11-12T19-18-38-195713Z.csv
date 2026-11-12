@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T17:54:26Z,vera-in-viewer,1.0.0,Sebastien Jourdain,BSD-3-Clause,548827,trame + VTK.wasm viewer for VERAin reactor core descriptions (port of VeraInView's 3D core view)
+2026-11-12T18:29:03Z,roman2khmer,0.2.0,Richard Cheam,MIT,54142,"Romanised Khmer (Khmer typed in Latin letters, as in chat) to Khmer script, on the CPU"
+2026-11-12T18:30:58Z,sandloom-s3,0.7.0a13,,Apache-2.0,19238,S3-compatible object store driver for Sandloom
+2026-11-12T18:32:20Z,lpr-search-people,0.1.0,LinkedIn Pulse Reader,Proprietary,30097,LinkedIn people search built on linkedin-search-core.
+2026-11-12T18:32:44Z,bazaar-contrib-server-market,0.3.0rc1,,Apache-2.0,21847,"The Bazaar Compute plugin market, using each computer's own catalog and package manager"
+2026-11-12T18:33:49Z,okdata,0.1.0,okdata <hello@okdata.online>,MIT,217707,"Python SDK for okdata: social data from Douyin, Xiaohongshu, WeChat, Bilibili, Weibo, TikTok, X, YouTube and more, for AI agents, paid per call. Typed methods per endpoint, sync and async, safe retri…"
+2026-11-12T18:34:01Z,httpperf,1.0rc1,Tony Simpson <agjasimpson@gmail.com>,,96603399,"An asyncio HTTP client for load testing, built on libcurl."
+2026-11-12T18:34:34Z,dji-thermal-ui,1.0.0,Winxu Nomacs,AGPL-3.0-only,12914790,"A web app on your own computer to analyze, convert, mosaic and measure DJI thermal datasets with dji-thermal-cli"
+2026-11-12T18:34:43Z,migratorisk,0.3.0,VelocityCreate,Apache-2.0,975910,Local-first NCS / Zephyr SDK upgrade risk analyzer
+2026-11-12T18:35:24Z,jvhub,0.1.0,Kaike Rosivan Maia Pacheco,MIT,83593,"Multi-model analysis of current density-voltage (J-V) curves of solar cells: PV parameters, Mott-Gurney, equivalent circuit and Richardson-Schottky."
+2026-11-12T18:41:46Z,to-weaviate,0.1.0,,BSD-3-Clause,719215,Migrate your data to Weaviate from other vector databases
+2026-11-12T18:45:00Z,oddsky,0.3.1,Alan Shortz,MIT,565523,An open observatory your AI agent can use. The universe is an open question.
+2026-11-12T18:47:50Z,veridock-io,1.0.0,,MIT,9019,"Official Python client for VeriDock, the email verification service and API."
+2026-11-12T18:47:58Z,optiklear,0.1.0,,,11976,A Python library for mathematical operations and image processing
+2026-11-12T18:50:20Z,sardoniq,0.5.3,networkerpro20-oss <networkerpro2.0@gmail.com>,Apache-2.0,305467,Sardoniq — Sistema Multi-Agente de Ingenieria de Software Autonoma (MAS/SDLC end-to-end)
+2026-11-12T18:51:47Z,strverify,0.1.0,zhukoff74,MIT,269888,"Fast, composable string-content filters implemented in Rust"
+2026-11-12T18:55:35Z,nsfoster.natepdf,1.0,,,26692,
+2026-11-12T18:56:33Z,melior-nexus-cli,20261112.0.0,,,133622,App developer tooling for Melior Nexus
+2026-11-12T19:09:01Z,sniptools,0.1.0,Micha Grandel <michagrandel@proton.me>,"**Copyright 2026 Micha Grandel** Licensed under the **Apache License**, Version 2.0 (the ""License"")…",22025,A collection of useful tools for developers.
+2026-11-12T19:09:36Z,genetic-classifier,3.0.0,"Fellipe Almassy, Matheus Gomes",MIT,4247031,"Linear classifier (binary and ordinal) trained by a genetic algorithm, built with NumPy"
+2026-11-12T19:12:15Z,dex-agents-claude-sdk-cli,0.6.0,Super Durable,LicenseRef-Sustainable-Use-1.0,24873,The dex-agents-claude-sdk command: a durable Claude Agent SDK agent in your terminal
+2026-11-12T19:13:31Z,numpi-isr,1.0.0,Senorita,,16444,My Personal ISR Practical Python Library
