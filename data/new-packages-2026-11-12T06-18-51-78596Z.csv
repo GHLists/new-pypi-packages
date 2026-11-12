@@ -1,0 +1,27 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T05:19:24Z,learnbywire,1.2.0,Qluon Inc,OptimizerPlus Proprietary Commercial License Notice Copyright (c) 2026 Qluon Inc. All rights reserv…,1953945,OptimizerPlus by Qluon: optimizer control and accelerated training execution
+2026-11-12T05:21:48Z,dominusnode-camel,2.0.0,,MIT,24191,CAMEL-AI toolkit for the DominusNode AI-agent relay network (19 v2 tools on the dominusnode SDK)
+2026-11-12T05:25:29Z,exercise-com-mcp,1.1.0,"""Cotlet.dev"" <contact@cotlet.dev>",Elastic-2.0,16568,"Connect Exercise.com to ChatGPT, Claude and other AI agents through Cotlet.dev, a hosted MCP server. No Exercise.com API key needed."
+2026-11-12T05:25:35Z,pdf-redpen,0.2.0,LeeGyeongPil,MIT,1063493,Ground quotes from an LLM review to real PDF coordinates and mark them as standard highlight + note annotations.
+2026-11-12T05:30:13Z,cmip-downloader,0.2.1,Hari,MIT,51407,"A lightweight and fast downloader for regional subsets of CMIP3, CMIP5, CMIP6 and CMIP7 data, from the cloud mirrors and ESGF."
+2026-11-12T05:31:09Z,paperless-ngx-oxidocs,0.1.0,,MIT OR Apache-2.0,28053,"Paperless-ngx parser plugin: .docx converted locally with the Oxi engine, without Tika or Gotenberg."
+2026-11-12T05:33:30Z,llmtrace-observability,0.1.1,LLMTrace Contributors,Apache-2.0,17997,LLMTrace SDK - one-line LLM observability for OpenAI / Anthropic and plain functions
+2026-11-12T05:35:29Z,pure-playwright,1.62.0,"Microsoft Corporation, packaged by KuiChi-x",Apache-2.0,2094157,Pure-code (Node-binary-free) Playwright Python client using system Node.js
+2026-11-12T05:42:49Z,ANYfeSolver-results,2.2.0a1,Audun Arnesen Nyhus <audunarn@gmail.com>,MPL-2.0,50244,NumPy-only offline runtime for ANYfeSolver recovery capsules
+2026-11-12T05:43:08Z,ophist,0.1.0,"Patrick Crock <pat.crock@svi.edu.au>, Yan Pan <anne.pan@svi.edu.au>",BSD-3-Clause,226754,"End-to-end, segmentation-free analysis for image-based spatial transcriptomics (Xenium, Atera, CosMx, MERSCOPE): a Snakemake pipeline with a command line."
+2026-11-12T05:43:13Z,ANYfeSolver,0.5.0a1,Audun Arnesen Nyhus <audunarn@gmail.com>,MPL-2.0,7542877,Qualified beam and shell finite-element solver
+2026-11-12T05:46:07Z,cesium-ios,0.1.1,Cesium Team,MIT,13736,"Driverless, WDA-Free iOS Test Automation & Telemetry SDK for Linux and Windows"
+2026-11-12T05:48:08Z,nextop,0.2.0,Sangho KIM (NexTopologix),PolyForm-Small-Business-1.0.0,180089313,"Nextop Agentic Workers: build teams of AI workers as blocks, connect them with lines, and run them"
+2026-11-12T05:49:52Z,nova-forge,0.1.1,eagleye-china <zdt168@sina.cn>,MIT,27262,The ultimate project forging tool for PySide6 ecosystems. Scaffold enterprise-grade architectures in seconds.
+2026-11-12T05:50:32Z,karni-storage,0.5.0,Chandrabhan Shekhawat <cbsshekhawat18@gmail.com>,Apache-2.0,84312,"Protected files for Karni: files a row owns, in S3 or an S3-compatible service, served only to whoever may read that row, with direct uploads and thumbnails. Karni is an open-source Django + React fr…"
+2026-11-12T05:50:32Z,token-atlas-engine,0.3.0,Prajwal7-2002 <prajwalpujari16@gmail.com>,Apache-2.0,129717,Universal multilingual tokenizer efficiency benchmark & global linguistic inflation atlas.
+2026-11-12T05:52:23Z,ffute,0.0.1,,,9213,ffute
+2026-11-12T05:55:46Z,msts,1.0.0,VVT,MIT,78276,"Máy Tính Toán Học Thông Minh — tính chính xác bằng phân số, trình bày từng bước giải, kí hiệu SGK (√, ∛, π, ≤), giải phương trình / bất đẳng thức, widget customtkinter"
+2026-11-12T05:56:27Z,best-practices-mcp,0.1.0b1,Reponomics,MIT,580844,Independent MCP server for interacting with the OpenSSF Best Practices Badge website
+2026-11-12T05:57:20Z,pipecat-vartaloop,0.1.1,Vartaloop,BSD-2-Clause,29300,"Vartaloop TTS services for Pipecat: Hinglish and Indian-language text-to-speech, streamed from the first frame"
+2026-11-12T05:58:43Z,securepipeline,0.1.0,Félix TOVIGNAN,MIT,144788,Multi-stack DevSecOps security scanner
+2026-11-12T06:09:40Z,langchain-nomac,0.1.0,,MIT,23065,"A macOS sandbox for LangChain Deep Agents: a cloud Mac with Xcode from NoMac, billed per minute."
+2026-11-12T06:10:54Z,rigtune,0.2.0,Aagam Sachin Bothara <mweeb19@gmail.com>,MIT,96441,"Autotuner for LLM serving: measures vLLM, SGLang and llama.cpp settings on your GPU and your traffic, then serves the fastest"
+2026-11-12T06:11:27Z,notemanager,0.1.0,Kenneth Lee <kenneth-lee-2012@qq.com>,Apache-2.0,3396686,"Note manager with CLI daemon and WebUI, supporting rst, markdown and plain text notes"
+2026-11-12T06:15:04Z,liftnexus-agentarts-mcp,0.1.0,,,8622,LiftNexus deterministic MCP tools for AgentArts UVX
+2026-11-12T06:15:09Z,versorc-math,0.1.0,The VersorC Project Contributors,Apache-2.0,144183,"Clifford Geometric Algebra, Versor Operators, and High-Dimensional Quantization"
