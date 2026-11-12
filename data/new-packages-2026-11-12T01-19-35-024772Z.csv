@@ -1,0 +1,36 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T00:08:30Z,limatix,1.2.6,Stephen D. Holland,,2428541,Automated data collection
+2026-11-12T00:18:43Z,pyios-firebase,0.2.0,Kenechukwu Akubue <kengoon19@gmail.com>,MIT,411367,"Pure-Python Firebase for iOS apps (Kivy, BeeWare, ...), built on Rubicon-ObjC"
+2026-11-12T00:19:28Z,gitbin-bot,1.0.0,MMD <ammmd219@gmail.com>,MIT,16603,کتابخانه پایتون برای GitBin Bot API
+2026-11-12T00:20:08Z,fame-qp,0.2.0,"Santosh Mohan Rajkumar, Debdipta Goswami, Stephanie Stockar",MIT,74039,GPU-accelerated QP solver for real-time model predictive control
+2026-11-12T00:22:35Z,tslite-og,2.1.0,Gunnar Leffler,Apache-2.0,1163154,The original lightweight time-series library. Since 2009.
+2026-11-12T00:24:07Z,urdf-mesh-optimizer,0.3.0,Omkar Chandrakant Kshirsagar,MIT,69019,"Mesh optimization toolkit for ROS2, MoveIt, and digital twins: decimation, URDF export, and geometric validation for robot simulation."
+2026-11-12T00:24:17Z,sealbox,0.3.0,Gökhan Özdemir,FSL-1.1-ALv2,224032,"Keep passwords, API keys and personal data out of your source files, so AI coding agents never see them."
+2026-11-12T00:27:01Z,haris,0.7.1,HARIS contributors,MIT,2358909,Black-box web application security audit framework
+2026-11-12T00:29:28Z,ctf-flightdeck,0.1.0,Maximus Fisher,MIT,1305173,"A terminal harness for playing CTFs with AI agents, where the player runs the loop."
+2026-11-12T00:29:45Z,polarfactory,0.1.0,,MIT,22866,Generate Python objects filled with realistic test data.
+2026-11-12T00:30:00Z,gnosis-status-ui,999.9.9,,,966,Stub package that mitigates Dependency Confusion attacks
+2026-11-12T00:31:55Z,ordloom-cms,0.1.0,,,38493,Ordloom 内容管理子应用
+2026-11-12T00:31:56Z,ordloom-members,0.1.0,,,29843,Ordloom 会员管理子应用
+2026-11-12T00:31:57Z,ordloom-shop,0.1.0,,,62754,Ordloom 商品、库存与会员订单子应用
+2026-11-12T00:31:58Z,ordloom-wechat,0.1.0,,,61937,Ordloom 微信公众号、小程序接入与会员绑定子应用
+2026-11-12T00:33:18Z,manyminds,0.0.1,Matthew DeVerna,MIT,8404,Pre-alpha placeholder: a local app that gathers cited evidence about claims found on the web. Not usable yet.
+2026-11-12T00:40:41Z,pytest-graded,0.1.0,,Apache-2.0,17740,"Run each test script as one pytest item, and fail a script that graded nothing"
+2026-11-12T00:41:47Z,hermes-project-oracle,2.1.0,Jules Zhou <juleszhou01@gmail.com>,MIT,112082,"Deep project scanner that generates agent-ready context files — AGENTS.md, CLAUDE.md, Obsidian notes."
+2026-11-12T00:42:51Z,inval,0.1.0,,MIT OR Apache-2.0,16078,"Cache a function's result in memory and Redis, invalidated in every process on change."
+2026-11-12T00:45:24Z,aixand-prompt-manager,0.1.0b0,,Apache-2.0,256421,"Local, reproducible prompt packs, composition, and releases"
+2026-11-12T00:51:30Z,nfselib.giss,0.1.0,KMEE,MIT,103018,"Bindings xsdata do webservice de NFS-e do GissOnline (versao 2, ABRASF 2.04 com IBS/CBS)"
+2026-11-12T00:53:44Z,uh-harness,0.7.2,Thomas Leroyer,MIT,176943,"Universal Harness: a provider-agnostic agent harness with a local-first CLI, tool use and an optional web UI"
+2026-11-12T00:55:30Z,chimerakit,0.1.0,,,30967,Python client for the Chimera partner bank API
+2026-11-12T01:02:12Z,kaiwen-gateway,0.1.0a1,Kaiwen,MIT,409185,"Modular, provider-agnostic communication gateway for real-time AI applications."
+2026-11-12T01:03:07Z,esda-protocol,1.1.0,Branden Duffield,MIT,41770,"Local-first cryptography workbench: seven test doors (Shamir, hash-chained ledger with Merkle proofs, secp256k1, RSA-2048, SHA-256). Teaching code, not audited."
+2026-11-12T01:03:10Z,aimart-parquet,0.1.0,Kayode Balogun <balogvn@gmail.com>,Apache-2.0,475803,"Pay-per-call MCP server and API that turns messy CSV, JSON, Excel, SPSS, Stata and SAS files into clean, schema-validated, token-efficient Parquet. AI agents pay in USDC via x402."
+2026-11-12T01:04:20Z,meeting-transcriber,0.2.0,Mahmoud Dolah,Apache-2.0,26985,"Local, offline meeting recorder and transcriber (mic + system audio, Me/Others labels)"
+2026-11-12T01:04:38Z,aixand-agent-manager,0.1.0b0,,Apache-2.0,1561298,"Manage native agent profiles, environments, and execution"
+2026-11-12T01:07:22Z,governed-agent-harness,2.0.0,Juan Sebastián Barrera Pulido,Apache-2.0,1862875,Technology-neutral research prototype for governing AI-assisted software development
+2026-11-12T01:09:00Z,llm-format-guard,0.1.2,LeeGyeongPil,MIT,91545,"Catch LLM answers that miss the user's format and length instructions: extract, re-inject, measure, repair once."
+2026-11-12T01:09:01Z,ragless,0.1.0,Qasim Arshad <mohmdqasim0@gmail.com>,MIT,49770,"File-based retrieval for RAG, no vector database required"
+2026-11-12T01:10:17Z,hermes-memory-vault,0.2.0,Jules Zhou <juleszhou01@gmail.com>,MIT,107829,Portable Context Protocol — package AI agent sessions into portable .hermes-memory packs
+2026-11-12T01:15:47Z,aixand-conversation-manager,0.1.0b0,,Apache-2.0,530303,Retained AI agent conversations for chat interfaces
+2026-11-12T01:18:33Z,aaas-service,0.1.0,,Apache-2.0,164269,用 AgentScope 驱动的 AaaS（Agent as a Service）协议服务端：模型在服务端，能力与副作用全部回到调用方进程
+2026-11-12T01:18:54Z,thespis-sdk,0.3.1,Timothy Oluwatobi Ojebiyi,MIT,350481,"NPC minds for games: they remember, believe things that may be false, gossip, and act for reasons. The game owns the truth; a language model, if any, only voices it."
