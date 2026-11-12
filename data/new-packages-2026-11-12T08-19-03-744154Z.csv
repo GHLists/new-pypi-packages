@@ -1,0 +1,35 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T05:39:06Z,deft-console,0.11.1,Deft,Deft Console Copyright (c) 2026 Deft. All rights reserved. This software is proprietary. No part of…,5436375,"Deft Console: any coding agent, in your terminal."
+2026-11-12T07:19:37Z,agentrail-python,0.1.0,Agentrail,Apache-2.0,122167,"Agentrail for Python backends: HTTP, identity, milestones, logs and MCP for agent journeys, over OpenTelemetry."
+2026-11-12T07:19:43Z,pytossinvest-sdk,0.0.4,ongjin,MIT,58207,Unofficial Python client for the Toss Securities Open API
+2026-11-12T07:20:25Z,pytossinvest-mcp,0.0.3,ongjin,Apache-2.0,127066,MCP server giving an LLM safe read/trade access to a Toss Securities account (unofficial)
+2026-11-12T07:21:13Z,webflur-agent-audit,0.1.0,WebFlur AI Engineering <contact@webflur.com>,,12125,"Autonomous CLI tool and validator for AI Agent Readiness, LLM Search Discovery (llms.txt), and GEO compliance."
+2026-11-12T07:21:19Z,kelpgate-client,0.1.1,JustBots Labs,GPL-2.0-or-later,60230,"Kelpgate Client for Python: scan files and URLs for malware with the Kelpgate API, sync or async, with a CLI and FastAPI and Django helpers."
+2026-11-12T07:21:40Z,acceldata-regorus,0.13.0,,MIT AND Apache-2.0 AND BSD-3-Clause,14395686,
+2026-11-12T07:22:39Z,crankyhag,0.0.1,"MinuteZero, Inc.",LicenseRef-Proprietary,2667,Get scolded by the Hag: Cranky Hag reviews MCP servers. Placeholder; the CLI is on its way.
+2026-11-12T07:24:23Z,django-heckle,0.1.0,Christian Hill,BSD-3-Clause,100845,"Moderated comments for Django sites: anyone may comment, without an account; every comment waits for approval; bots are kept out."
+2026-11-12T07:28:07Z,ulpp,1.3.2,ulpp contributors,MIT,8616681,把 PDF 版面里的一块或一段文字，按份数排进 A4 标签纸；支持整版与接着打（上次没用完的胶纸），中英双语
+2026-11-12T07:29:55Z,reavideo-breakdown,1.0.0,reavideo,MIT,10247,"Parse a plain-text shot list into structured shots, timings and cut statistics."
+2026-11-12T07:30:39Z,twittrapi-haystack,0.1.0,TwittrAPI,MIT,23533,Haystack integration for TwittrAPI: search X (Twitter) into Documents and give Agents read-only X tools.
+2026-11-12T07:32:44Z,viettel-sms-brandname,1.0.0,thiminhnhut <thiminhnhut@gmail.com>,MIT,8662,Thư viện Python tích hợp chính thức Viettel SMS Brandname v2 API với cơ chế tự động quản lý Token và Template.
+2026-11-12T07:33:18Z,nextgram,0.9.0,BadmundaXd <munda.bad1322@gmail.com>,MIT,113161,"nextgram: Telegram Bot API 10.3 rich messages and 10.4 HTML widgets, for Pyrogram, Pyrofork, Kurigram, Telethon, aiogram and python-telegram-bot bots"
+2026-11-12T07:34:29Z,alggeom,0.1.0,Bhuvanesh Bhatt <bhuvaneshbhatt@gmail.com>,GPL-3.0-only,557315,Exact computational algebraic geometry for Python.
+2026-11-12T07:37:35Z,codebase-explorer,2.2.0,zlxdengtianhei,MIT,3817310,"Source-grounded, navigable documentation for software repositories"
+2026-11-12T07:40:48Z,data-center-tui,0.1.0,yusuf0279,MIT,73122,"A pixel-art idle tycoon for your terminal: build servers, hire Vibecoders, survive crises, relocate forever."
+2026-11-12T07:42:21Z,still200-sdk,0.1.0,Dennis Wainaina,,9931,Still200 Monitoring SDK
+2026-11-12T07:44:24Z,django-clearance,0.1.0,amir mohammad kashanchian,BSD-3-Clause,417057,"Role, policy and row-level access control for Django. Denied by default."
+2026-11-12T07:46:23Z,augmask,0.1.1,"Jungkyu Kim, Taeyoung Park, Kibok Lee",MIT,106068,AugMask: training diffusion models on incomplete tabular data via stochastic augmentation and masking (ICML 2026)
+2026-11-12T07:47:34Z,metalmeter,0.1.0,Jayant Parashar,MIT,121211,"Per-process Apple Silicon GPU and Neural Engine metrics for Python training loops. No sudo, no dependencies."
+2026-11-12T07:53:29Z,pymu-eval,0.0.1,,BSD-2-Clause,90444,Python implementation of muParser math syntax parser with NumPy and xarray support
+2026-11-12T07:55:13Z,sixseven7,0.1.0,,,7716,sevennine 打印当前目录；lo 选择音频并播放动画
+2026-11-12T07:55:21Z,bourse-quant,1.0.0,Bourse <contact@bourse.pl>,MIT,22507,"Official Python package for the Bourse API: Congress and insider trades with the Conviction Score, 13F, lobbying, contracts, stress tests and Parquet bulk history as pandas DataFrames."
+2026-11-12T07:56:19Z,abotyper-core,0.1.0,Fredrick M. Mobegi,MIT,572673,"ABO blood group typing logic from long-read amplicon data, as used by nf-core/abotyper"
+2026-11-12T07:59:40Z,medullabs,0.1.0,Medullabs Technologies Private Limited <support@medullabs.com>,MIT,33381,Official Python client for the MedullaAI API
+2026-11-12T08:02:26Z,compas-fab-native,0.1.0,Gramazio Kohler Research <gramaziokohler@arch.ethz.ch>,MIT,7133201,"Native (Rust) planning backend for compas_fab: batched kinematics, collision checks, Cartesian and free-motion planning."
+2026-11-12T08:03:26Z,taster-ai,0.3.0,Rinkesh,Apache-2.0,135096,"Keep your customers' trust in your AI agent: checks every tool call against your plain-English constitution before it runs, and every tool result for prompt injection before the agent reads it."
+2026-11-12T08:08:11Z,video-shot-breakdown-mcp,1.0.0,Jack Morris,MIT,12602,MCP server that turns a shot list into a video breakdown and a shot-by-shot remake plan
+2026-11-12T08:09:08Z,nl2prolog,1.0.2,Andrey Vorfolomeev <binom0x@proton.me>,MIT,118756,Russian/English NL → Prolog facts & queries (Q&A + KB building)
+2026-11-12T08:10:52Z,pandas-doctor,0.1.0,Furqan Khan,MIT,168664,"Finds slow pandas code, rewrites it, and checks on your data that the result is identical."
+2026-11-12T08:11:09Z,bomscout,0.1.0,Sri Krishna Lingamaneni,MIT,52634,"MCP server for OWASP Dependency-Track: ask Claude, Cursor or any MCP client which projects a CVE affects, what to fix first, licenses and policy violations across your SBOM portfolio"
+2026-11-12T08:13:33Z,evalhub-cli,0.1.0,,,36657,Command-line client for EvalHub
+2026-11-12T08:16:26Z,solana-pulse,0.1.0,Solana Pulse,MIT,19994,"Check a Solana transaction before you sign it: dry-run on mainnet, OK / REVIEW / BLOCK with each wallet's SOL and token changes, and confirm a transfer or swap does exactly what you asked."
