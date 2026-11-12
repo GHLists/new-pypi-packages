@@ -1,0 +1,52 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T06:42:42Z,kafka-native,0.41.0,,Apache-2.0,1766150,"Kafka native client — in-process Kafka protocol library (bundled libkafka_native) for Apache Kafka/Redpanda, via the grpcdc.kafka.v1 message types"
+2026-11-12T08:19:07Z,mcp-server-onkyo,0.2.0,Nicholas E. Andrade,MIT,253693,MCP server for controlling Onkyo AV receivers over eISCP
+2026-11-12T08:21:19Z,fip-mcp,0.1.0,Anne Fouilloux,MIT,111665,MCP server that turns FAIR Implementation Profiles into guidance and deterministic compliance checks for AI agents.
+2026-11-12T08:30:00Z,drums-sdk,0.2.5,Drums Labs,Apache-2.0,72649,"Drums SDK: isolated desktop environments for computer-use RL. Create a desktop, act, screenshot, fork, verify."
+2026-11-12T08:30:54Z,symq,0.2.0,Joshua Melka,MIT,18378659,"Exact Boolean ANF and reversible-circuit verification, with opt-in coherent HMR research"
+2026-11-12T08:30:56Z,mcp-server-shieldtv,0.1.0,Nicholas E. Andrade,MIT,220477,MCP server for NVIDIA Shield TV (Android TV Remote protocol v2) with a one-time pairing CLI
+2026-11-12T08:31:00Z,mcp-server-batocera,0.1.0,Nicholas E. Andrade,MIT,204772,"MCP server for Batocera retro-gaming cabinets, via the EmulationStation web API and RetroArch network commands"
+2026-11-12T08:31:02Z,mcp-server-pixelcade,0.1.0,Nicholas E. Andrade,MIT,183993,"MCP server for Pixelcade LED marquees and Pixelcade Pulse lighting, via the pixelweb REST API"
+2026-11-12T08:32:31Z,mcp-server-misterfpga,0.1.0,Nicholas E. Andrade,MIT,273349,"MCP server for MiSTer FPGA devices: games through Zaparoo Core, MiSTer.ini and save backups over SSH, several MiSTers at once"
+2026-11-12T08:33:12Z,cassiopee-kcore,2026.11,ONERA,LGPLv3,1199166,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-12T08:33:16Z,cassiopee-post-i8,2026.11,ONERA,LGPLv3,2386626,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-12T08:33:19Z,cassiopee-dist2walls-i8,2026.11,ONERA,LGPLv3,1232477,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-12T08:33:22Z,cassiopee-intersector-i8,2026.11,ONERA,LGPLv3,4137010,Computational Fluid Dynamics pre- and post-processing python modules
+2026-11-12T08:33:28Z,riden,0.1.0,Vyacheslav Mayorov,MIT,40465,Synchronous Python client for Riden RD60xx power supplies (USB serial and Bluetooth)
+2026-11-12T08:34:17Z,airharness,0.0.0.dev0,,,1719,Placeholder. AirHarness is not released yet.
+2026-11-12T08:37:23Z,hermes-actra-platform,0.1.0,Dong Shuaijie,Apache-2.0,32905,Custom actra platform adapter for Hermes Agent
+2026-11-12T08:39:07Z,sdmux,0.1.0,Deepratna Awale,MIT,175711,"One client for every local image generation backend, with checkpoint identification built in."
+2026-11-12T08:40:21Z,promptpump,0.1.0,Ritesh Nipane,MIT,38765,Deterministic context-engineering engine and prompt compiler powered by a local Ollama model.
+2026-11-12T08:40:24Z,zeusbuilder,0.0.1,ZEUS,MIT,3625,ZEUS Builder — official package name reservation. See https://zeusbuilder.io
+2026-11-12T08:40:26Z,zeussolver,0.0.1,ZEUS,MIT,3611,ZEUS Solver — official package name reservation. See https://zeussolver.com
+2026-11-12T08:40:29Z,zeusrelay,0.0.1,ZEUS,MIT,3603,ZEUS Relay — official package name reservation. See https://zeusrelay.xyz
+2026-11-12T08:47:36Z,pgbulkhead,0.1.1,"NimbleBrain, Inc.",Apache-2.0,70560,"Tenant isolation for multi-tenant MCP servers on Postgres. One database, many tenants and workspaces: Postgres enforces the walls, and no agent can talk its way through them."
+2026-11-12T08:49:01Z,pyagentprolog-kg-editor,1.1.1,Andrey Vorfolomeev <binom0x@proton.me>,MIT,137878,A web editor for Prolog-based knowledge graphs with PyVis visualization
+2026-11-12T08:52:13Z,duyi-utils-m1gi,0.1.0,,,4804,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-12T08:52:55Z,geommicgen,0.2.0,"""José Luís P. Vila-Chã"" <jvc@fe.up.pt>, ""João A. G. Cruz de Morais"" <up202105264@up.pt>, ""Rui P. Ca…",BSD-3-Clause,867761,GMMD: Geometric Methods for Microstructure Design
+2026-11-12T08:55:44Z,probnode-sdk,0.1.0,,MIT,30785,"Python client and CLI for ProbNode: Polymarket order books, trades and gaps"
+2026-11-12T08:59:04Z,checkanysite,0.1.0,CheckAnySite <hello@checkanysite.com>,MIT,92336,"The official Python library for the CheckAnySite API: what is this website, with evidence."
+2026-11-12T09:00:44Z,dyadic-cli,0.2.6,,Proprietary; third-party licenses included,116106733,Dyadic Workspace terminal client
+2026-11-12T09:01:04Z,openbotstore,0.0.2,,MIT,1874,OpenBotStore: One store for every bot. Reserved package; see https://openbotstore.com
+2026-11-12T09:02:30Z,trust-engine-mcp,0.1.0,Trust Engine AI <hello@agenttrustapi.com>,MIT,70587,"Free MCP server for AI agents: model retirement dates with sources, public cost-vs-quality benchmark, local usage-cost analysis and a free pilot request."
+2026-11-12T09:03:11Z,kabir-lang,1.1.0,Afrain Kabir Rafid,MIT,69572,"Kabir — a small, friendly programming language, built from scratch in Python."
+2026-11-12T09:03:16Z,jt.jcc,0.0.0,Adam Karpierz <adam@karpierz.net>,,1110,jt.jcc.
+2026-11-12T09:03:31Z,idempotency-claim-audit,0.1.0,,MIT,25460,Offline audit of documented re-run claims against Python source.
+2026-11-12T09:03:39Z,encryption-claim-audit,0.1.0,,MIT,19588,Offline audit of documented at-rest protection promises against Python source.
+2026-11-12T09:03:47Z,compression-claim-audit,0.1.0,hao li,MIT,24363,Offline auditor for documented size-reduction promises in Python projects.
+2026-11-12T09:03:56Z,batch-claim-audit,0.1.0,hao li,MIT,24746,Offline auditor for documented grouped-handling promises in Python projects.
+2026-11-12T09:03:59Z,halp-cli,0.2.0,,,23980,Generate grounded shell commands from natural-language tasks using an OpenAI-compatible LLM
+2026-11-12T09:04:32Z,spanguard,0.1.0,spanguard authors,MIT,152388,"Detect and redact PII/PHI in text and streaming transcripts, with leak-free audit records."
+2026-11-12T09:05:43Z,eqlx-portfolio,0.1.0,Can Demir,Apache-2.0,102845,"Deterministic credit portfolio risk: loss distribution, value-at-risk, expected shortfall, economic capital and risk contributions, by seeded simulation and by CreditRisk+. Checked against published…"
+2026-11-12T09:06:29Z,nanoflags,0.1.0,"""Alibtekarat Althkiya Company for Trading & Marketing (Intinovate)"" <support@nanoflags.io>",Apache-2.0,91644,"NanoFlags server SDK for Python: local, deterministic feature-flag evaluation with signed live updates."
+2026-11-12T09:06:55Z,tts-pace,0.3.0,LeeGyeongPil,MIT,295554,"Measure speaking rate (syllables per second of pure speech) and fit TTS output to a target pace: engine knob re-synthesis plus a bounded, pitch-preserving tempo change."
+2026-11-12T09:08:04Z,openaudiofix,0.1.0,,MIT,271395,"Self-hosted audio repair studio: buffer-dropout glitches, clipping, background noise."
+2026-11-12T09:08:04Z,wythe,0.1.0,Aaron Montgomery,MIT,1332575,"Why -> Therefore: 3-tier architecture verifier, cross-boundary lineage solver, and 3D WebGL atlas."
+2026-11-12T09:08:57Z,consyllus,0.0.1,FalsenJing,Apache-2.0,3308,Official Python helper and MCP configuration guide for Consyllus.
+2026-11-12T09:13:48Z,pyCertWiz,2.0.1,pyCertWiz contributors,GPL-2.0-or-later,894535,"Certificate manager for the UK e-Science CA and ACME CAs: request, track, renew, deploy and export user and host certificates (a CertWizard replacement)"
+2026-11-12T09:14:41Z,CATranS,0.1.0,"Patricia Sebastián-León <patricia.sebastian@ivirma.com>, Antonio Parraga-Leo <antonio.parraga@ivirm…",,27549,Clinical Acute Transcriptomic Stratification
+2026-11-12T09:15:13Z,consyllus-mcp,0.0.1,FalsenJing,Apache-2.0,3403,Official Python helper and MCP configuration guide for Consyllus.
+2026-11-12T09:15:47Z,seedbuddy,0.2.0,Richard Wang,MIT,57616,Prepare culture-dish photographs for a SeedBuddy workbench
+2026-11-12T09:15:52Z,bilingual-lint,0.1.0,Kirill Sakhin,MIT,309709,"A linter for bilingual legal documents — find where the two language versions of a contract disagree on numbers, dates, amounts, clauses and the prevailing language"
+2026-11-12T09:16:29Z,schemaorg-pydantic,0.1.0,Joey Jurjens <joeyjurjens@gmail.com>,,778467,"Typed schema.org models for pydantic, generated from the schema.org vocabulary, with a JSON-LD writer"
+2026-11-12T09:17:04Z,bili2music,0.1.0,zengyi <124375@runjian.com>,MIT,113313,LLM-driven CLI that curates and downloads Bilibili favorites / search results as audio or video
