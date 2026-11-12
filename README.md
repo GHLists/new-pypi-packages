@@ -8,52 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 20:21 UTC
+## Latest list — 2026-11-12 21:18 UTC
 
-New packages created between 2026-11-12 19:18 UTC and 2026-11-12 20:21 UTC.
+New packages created between 2026-11-12 20:21 UTC and 2026-11-12 21:18 UTC.
 
-[Full CSV](data/new-packages-2026-11-12T20-21-32-164205Z.csv)
+[Full CSV](data/new-packages-2026-11-12T21-18-41-362298Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-12 19:18:57 | [ane-speech](https://pypi.org/project/ane-speech/) | 0.1.0 | App Automaton | 258.6 kB | Speech recognition on the Apple Neural Engine |
-| 2026-11-12 19:21:14 | [breezy-trace](https://pypi.org/project/breezy-trace/) | 0.1.0 | Breezy Labs | 226.1 kB | Local-first project memory and development intelligence for your terminal |
-| 2026-11-12 19:21:21 | [pano-cli](https://pypi.org/project/pano-cli/) | 0.3.0 |  | 151.2 kB | Local DJI photo sphere stitcher |
-| 2026-11-12 19:23:54 | [nautobot-agent](https://pypi.org/project/nautobot-agent/) | 1.0.0 | Geury Torres | 29.8 MB | AI agent integration for Nautobot. |
-| 2026-11-12 19:25:25 | [sparklings](https://pypi.org/project/sparklings/) | 0.1.0 | Micha Grandel <michagrandel@p… | 14.8 kB | A collection of useful tools for developers. |
-| 2026-11-12 19:27:00 | [enip-sim](https://pypi.org/project/enip-sim/) | 0.1.0 | Ralf Steinert | 88.4 kB | Simulated EtherNet/IP (CIP) devices with behaviour and fault injection: drives,… |
-| 2026-11-12 19:28:13 | [comfit-hl](https://pypi.org/project/comfit-hl/) | 0.1.0 | Ngo Duc Hoang Son <hoangsonng… | 107.9 MB | Comfit bindings for Python |
-| 2026-11-12 19:30:14 | [langchain-qann](https://pypi.org/project/langchain-qann/) | 0.1.0a1 | Maximilian Miller | 25.3 kB | LangChain vector store backed by qann: HNSW, IVF fast-scan PQ with re-ranking,… |
-| 2026-11-12 19:31:38 | [cicada-nwb](https://pypi.org/project/cicada-nwb/) | 0.4.0 |  | 143.0 kB | NWB data access layer for CICADA — lazy read-only wrappers with no GUI or analy… |
-| 2026-11-12 19:33:32 | [luping-localai](https://pypi.org/project/luping-localai/) | 0.1.0 | luping-ai | 48.0 kB | Local AI Hub Runtime 的官方 Python 客户端（零依赖） |
-| 2026-11-12 19:34:56 | [simpleiot](https://pypi.org/project/simpleiot/) | 0.1.0 |  | 134.8 kB | Python client for Simple IoT, over NATS |
-| 2026-11-12 19:39:58 | [pulsario](https://pypi.org/project/pulsario/) | 0.1.0b1 | Humberto Ruiz-Ochoa | 11.4 MB | Local CPU/GPU trace viewer for Linux perf.data and NVIDIA Nsight Systems reports |
-| 2026-11-12 19:40:00 | [waveport](https://pypi.org/project/waveport/) | 0.1.0 | Maurizio Tomasi <maurizio.tom… | 12.9 MB | A Python library to load files produced by TICRA Tools |
-| 2026-11-12 19:41:46 | [earthdiff](https://pypi.org/project/earthdiff/) | 0.2.0 | Mehmet Veysel Delibaş | 424.4 kB | What changed here? Explainable change reports from free Sentinel-2 imagery, for… |
-| 2026-11-12 19:42:04 | [runeconomy](https://pypi.org/project/runeconomy/) | 0.1.0 | shrey | 113.2 kB | Find inference waste in agent workflows and verify performance improvements |
-| 2026-11-12 19:42:57 | [codeshift-ai](https://pypi.org/project/codeshift-ai/) | 0.1.0 |  | 55.3 kB | CLI que migra projetos Python para C++ usando IA |
-| 2026-11-12 19:45:06 | [managebetcodes](https://pypi.org/project/managebetcodes/) | 1.0.0 | Manage Bet Codes | 29.5 kB | Official Python SDK for the Manage Bet Codes public API v1 |
-| 2026-11-12 19:45:10 | [ica-capture](https://pypi.org/project/ica-capture/) | 0.1.0 | ALEETH | 72.4 kB | Emit AI agent steps to ICA. ICA signs and governs them. A tool guard, tool hook… |
-| 2026-11-12 19:48:40 | [cicada-analysis](https://pypi.org/project/cicada-analysis/) | 0.4.0 |  | 147.4 MB | CICADA analysis framework – headless analysis engine and plugins |
-| 2026-11-12 19:49:09 | [arabic-doc-ocr](https://pypi.org/project/arabic-doc-ocr/) | 0.1.0 | Omar Hamdy | 25.8 MB | Offline Arabic OCR for scanned documents: PP-OCR detection/recognition models a… |
-| 2026-11-12 19:50:02 | [haus-fmt](https://pypi.org/project/haus-fmt/) | 0.0.1 |  | 3.8 kB | The haus data format for Python. Early placeholder: the parser is on its way. |
-| 2026-11-12 19:50:09 | [pydantic-ai-enkrypt](https://pypi.org/project/pydantic-ai-enkrypt/) | 0.1.0 |  | 3.3 MB | Enkrypt AI guardrails as pydantic-ai-harness guard callables |
-| 2026-11-12 19:52:01 | [contextattr](https://pypi.org/project/contextattr/) | 0.1.0 | Surya Rayala | 171.5 kB | Context attribution: which parts of a prompt make a model give an output, for a… |
-| 2026-11-12 19:54:14 | [llama-index-vector-stores-qann](https://pypi.org/project/llama-index-vector-stores-qann/) | 0.1.0a1 | Maximilian Miller | 26.7 kB | LlamaIndex vector store backed by qann: HNSW, IVF fast-scan PQ with re-ranking,… |
-| 2026-11-12 19:54:46 | [freertb](https://pypi.org/project/freertb/) | 0.0.0 |  | 10.5 kB | Python client for the FreeRTB API |
-| 2026-11-12 19:55:58 | [torux](https://pypi.org/project/torux/) | 0.1.0 | Philipp Bogdan | 1.6 MB | Vacuum magnetic field and flux surfaces of coils and magnets for toroidal confi… |
-| 2026-11-12 19:56:38 | [onto-lang](https://pypi.org/project/onto-lang/) | 0.1.0 |  | 363.8 kB | Compact text formats for ontologies, observations and mappings |
-| 2026-11-12 19:58:51 | [llm-simulator](https://pypi.org/project/llm-simulator/) | 0.2.1 | Umang Aggarwal | 289.6 kB | A GPU-free, deterministic stand-in for an OpenAI-compatible LLM server. Its lat… |
-| 2026-11-12 19:59:52 | [kryptos](https://pypi.org/project/kryptos/) | 1.1.0 | NyxWarden | 28.7 kB | Cross-platform terminal 2FA authenticator with AES-256 encryption |
-| 2026-11-12 20:00:42 | [pywidevine-ng](https://pypi.org/project/pywidevine-ng/) | 1.9.1 | rlaphoenix <rlaphoenix@pm.me> | 147.2 kB | Widevine CDM (Content Decryption Module) implementation in Python. |
-| 2026-11-12 20:01:50 | [pybi-ray](https://pypi.org/project/pybi-ray/) | 0.1.0 | Muhammad Rafay Shaikh | 510.1 kB | Open-source business intelligence studio in Python - a Power BI style app: data… |
-| 2026-11-12 20:02:24 | [cicada-gui](https://pypi.org/project/cicada-gui/) | 0.4.0 |  | 786.9 kB | CICADA GUI — PyQt5 application for calcium imaging data analysis |
-| 2026-11-12 20:03:03 | [fastmask-seg](https://pypi.org/project/fastmask-seg/) | 0.1.0 | belfner | 36.7 kB | Fast unique-color and per-color mask extraction for color-coded segmentation ma… |
-| 2026-11-12 20:10:28 | [fastwarp](https://pypi.org/project/fastwarp/) | 0.1.0 | Richard M. Köhler, Jan Philip… | 16.7 MB | FastWarp: GPU (wgpu: Vulkan / Metal / DX12) image registration (Rigid, Affine,… |
-| 2026-11-12 20:10:53 | [sigmma](https://pypi.org/project/sigmma/) | 0.1.0 | Dabin Jeong <dnj01208@gmail.c… | 245.8 kB | Spatial transcriptome–histology image representation learning via hierarchical… |
-| 2026-11-12 20:11:48 | [murex](https://pypi.org/project/murex/) | 0.1.1 | Jocelyn Legault <jocelynlegau… | 116.6 kB | What simulations of artists' media share: pigments that mix like the real thing… |
-| 2026-11-12 20:14:50 | [java2py](https://pypi.org/project/java2py/) | 0.1.0 | Mauricio Suárez Barrera | 104.1 kB | Traductor de Java a Python para estudiar (estructuras de datos y algoritmos), s… |
-| 2026-11-12 20:16:06 | [dex-agents-builtin-cli](https://pypi.org/project/dex-agents-builtin-cli/) | 0.6.0 | Super Durable | 16.6 kB | The dex-agents-builtin command: a durable Dex built-in loop agent in your termi… |
-| 2026-11-12 20:17:31 | [rowver](https://pypi.org/project/rowver/) | 15.0.0 | Derek Grove | 51.5 MB | Read .rvr files as NumPy, Awkward, Arrow and pandas, and make them with rvr. |
-| 2026-11-12 20:18:46 | [snitch-engine](https://pypi.org/project/snitch-engine/) | 0.3.0 | Abdellah Ennajari | 117.4 kB | Integrity layer for AI coding agents: detects test cheating. |
-| 2026-11-12 20:19:46 | [QAxRDP](https://pypi.org/project/QAxRDP/) | 2.1.0 | Aininou Usama | 718.8 kB | Microsoft Remote Desktop (RDP) client ActiveX control as a Qt widget, for PyQt/… |
+| 2026-11-12 20:22:20 | [f5auditdns](https://pypi.org/project/f5auditdns/) | 0.3.0 |  | 95.8 kB | Read-only, evidence-first audit for F5 BIG-IP DNS GSLB with offline JSON snapsh… |
+| 2026-11-12 20:23:04 | [vaad](https://pypi.org/project/vaad/) | 1.1.0 | Satyansh Gaur | 5.7 MB | OpenAI-compatible gateway that makes small local models produce correct tool ca… |
+| 2026-11-12 20:24:55 | [newsflirt](https://pypi.org/project/newsflirt/) | 0.0.0 |  | 3.8 kB | Swipe right on the news that's your type. Name reserved; the first release is 0… |
+| 2026-11-12 20:27:16 | [pyinfercnv](https://pypi.org/project/pyinfercnv/) | 0.2.1 | xianjieshen <lucyagune3@gmail… | 9.4 MB | A pure-Python re-implementation of inferCNV (Broad Institute) — single-cell CNV… |
+| 2026-11-12 20:30:21 | [interceptor-multilang](https://pypi.org/project/interceptor-multilang/) | 1.0.1 |  | 411.0 kB | Simple Python bindings for the Interceptor Windows input filter driver |
+| 2026-11-12 20:30:22 | [browser-control-sdk](https://pypi.org/project/browser-control-sdk/) | 0.2.1 | TitanCSA | 32.6 kB | Standard-library Python client for the local Windows Browser Control SDK |
+| 2026-11-12 20:30:30 | [langchain-sidequest](https://pypi.org/project/langchain-sidequest/) | 0.1.0 | Crescent Harbor LLC <hello@si… | 6.3 kB | LangChain integration for SideQuest: let agents hire verified people for real-w… |
+| 2026-11-12 20:30:55 | [llm-harness-lite](https://pypi.org/project/llm-harness-lite/) | 0.1.0a1 |  | 48.5 kB | LLM Harness Lite — lightweight universal agent + RAG + MCP for any LLM (local-f… |
+| 2026-11-12 20:31:11 | [unfret-mcp](https://pypi.org/project/unfret-mcp/) | 0.1.0 | Floris van Beers | 36.1 kB | MCP server for Unfret: pay-per-check store scam and dropshipping risk for AI sh… |
+| 2026-11-12 20:34:02 | [tracecode](https://pypi.org/project/tracecode/) | 0.1.1 |  | 36.3 kB | Add your description here |
+| 2026-11-12 20:35:32 | [powermean](https://pypi.org/project/powermean/) | 0.1.0a1 | David Benatia | 2.9 MB | Power-mean regression: PPML, GPML and log-linear models for outcomes with zeros |
+| 2026-11-12 20:39:45 | [textutils-jlos75](https://pypi.org/project/textutils-jlos75/) | 0.1.0 |  | 15.0 kB | A lightweight library with useful tools for common text-processing operations. |
+| 2026-11-12 20:39:52 | [dialecto-django](https://pypi.org/project/dialecto-django/) | 0.1.0 |  | 157.5 kB | Dialecto for Django: the usage scan CLI, call-site renames and in-context editi… |
+| 2026-11-12 20:42:14 | [offcall](https://pypi.org/project/offcall/) | 0.1.0 | Gilad Wein | 2.1 kB | Add your description here |
+| 2026-11-12 20:43:31 | [pulseping-lite](https://pypi.org/project/pulseping-lite/) | 0.1.0 | Alessio Auretto | 17.6 kB | Uptime monitor and TLS certificate expiry check in one stdlib-only Python CLI. |
+| 2026-11-12 20:49:59 | [dagentos](https://pypi.org/project/dagentos/) | 0.17.0 |  | 910.0 kB | A control plane for durable, observable, human-in-the-loop LLM agent workflows |
+| 2026-11-12 20:50:12 | [text-utils-lucasr](https://pypi.org/project/text-utils-lucasr/) | 1.0.0 |  | 11.6 kB | Basic functions for manipulating strings and text. |
+| 2026-11-12 20:58:43 | [tqdm-cmux](https://pypi.org/project/tqdm-cmux/) | 0.1.0 | Kimberly Wilber, Deepseek V4.… | 17.9 kB | A drop-in tqdm subclass that mirrors progress into the cmux sidebar |
+| 2026-11-12 20:59:56 | [vidpy-ray](https://pypi.org/project/vidpy-ray/) | 0.1.1 | Muhammad Rafay Shaikh | 164.7 kB | Open-source video editing studio in Python - a browser editor on localhost, a P… |
+| 2026-11-12 21:08:00 | [esys-gitlog](https://pypi.org/project/esys-gitlog/) | 0.1.0 | Project maintainers | 81.4 kB | Python implementation of git elog |
+| 2026-11-12 21:08:50 | [qslicer](https://pypi.org/project/qslicer/) | 0.1.0 | Max Lovell, Ethan Tackett, Ca… | 444.5 kB | Static slicing and linting for quantum programs written in Qiskit or OpenQASM |
+| 2026-11-12 21:12:16 | [slopbench](https://pypi.org/project/slopbench/) | 0.1.0 | Blvkware | 86.2 kB | Measure how often a model invents software dependencies, and how often it inven… |
+| 2026-11-12 21:12:49 | [dex-agents-openai-sdk-cli](https://pypi.org/project/dex-agents-openai-sdk-cli/) | 0.6.0 | Super Durable | 16.8 kB | The dex-agents-openai-sdk command: a durable OpenAI Agents SDK agent in your te… |

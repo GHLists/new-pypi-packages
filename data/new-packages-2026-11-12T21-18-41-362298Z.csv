@@ -1,0 +1,24 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T20:22:20Z,f5auditdns,0.3.0,,MIT,95840,"Read-only, evidence-first audit for F5 BIG-IP DNS GSLB with offline JSON snapshots and Excel/CSV reports"
+2026-11-12T20:23:04Z,vaad,1.1.0,Satyansh Gaur,Apache-2.0,5720546,OpenAI-compatible gateway that makes small local models produce correct tool calls from Hindi and Hinglish.
+2026-11-12T20:24:55Z,newsflirt,0.0.0,,MIT,3823,Swipe right on the news that's your type. Name reserved; the first release is 0.1.0.
+2026-11-12T20:27:16Z,pyinfercnv,0.2.1,xianjieshen <lucyagune3@gmail.com>,BSD-3-Clause,9413873,"A pure-Python re-implementation of inferCNV (Broad Institute) — single-cell CNV inference from scRNA-seq, AnnData-native, R-parity-audited."
+2026-11-12T20:30:21Z,interceptor-multilang,1.0.1,,MIT,411004,Simple Python bindings for the Interceptor Windows input filter driver
+2026-11-12T20:30:22Z,browser-control-sdk,0.2.1,TitanCSA,MIT,32627,Standard-library Python client for the local Windows Browser Control SDK
+2026-11-12T20:30:30Z,langchain-sidequest,0.1.0,Crescent Harbor LLC <hello@sidequestpays.com>,MIT,6258,"LangChain integration for SideQuest: let agents hire verified people for real-world tasks like checking a store, taking photos, making a phone call, or inspecting an item."
+2026-11-12T20:30:55Z,llm-harness-lite,0.1.0a1,,MIT,48548,"LLM Harness Lite — lightweight universal agent + RAG + MCP for any LLM (local-first, cost-aware)"
+2026-11-12T20:31:11Z,unfret-mcp,0.1.0,Floris van Beers,MIT,36110,"MCP server for Unfret: pay-per-check store scam and dropshipping risk for AI shopping agents (x402, USDC or SOL)"
+2026-11-12T20:34:02Z,tracecode,0.1.1,,,36262,Add your description here
+2026-11-12T20:35:32Z,powermean,0.1.0a1,David Benatia,BSD-3-Clause,2869242,"Power-mean regression: PPML, GPML and log-linear models for outcomes with zeros"
+2026-11-12T20:39:45Z,textutils-jlos75,0.1.0,,MIT,14975,A lightweight library with useful tools for common text-processing operations.
+2026-11-12T20:39:52Z,dialecto-django,0.1.0,,MIT,157526,"Dialecto for Django: the usage scan CLI, call-site renames and in-context editing."
+2026-11-12T20:42:14Z,offcall,0.1.0,Gilad Wein,,2145,Add your description here
+2026-11-12T20:43:31Z,pulseping-lite,0.1.0,Alessio Auretto,MIT,17608,Uptime monitor and TLS certificate expiry check in one stdlib-only Python CLI.
+2026-11-12T20:49:59Z,dagentos,0.17.0,,MIT,909955,"A control plane for durable, observable, human-in-the-loop LLM agent workflows"
+2026-11-12T20:50:12Z,text-utils-lucasr,1.0.0,,,11610,Basic functions for manipulating strings and text.
+2026-11-12T20:58:43Z,tqdm-cmux,0.1.0,"Kimberly Wilber, Deepseek V4.1 Flash 1017",MIT,17905,A drop-in tqdm subclass that mirrors progress into the cmux sidebar
+2026-11-12T20:59:56Z,vidpy-ray,0.1.1,Muhammad Rafay Shaikh,MIT,164694,"Open-source video editing studio in Python - a browser editor on localhost, a Python API and a CLI powered by FFmpeg: 79 video effects, 41 audio effects, 58 transitions, smart auto-editing and multi-…"
+2026-11-12T21:08:00Z,esys-gitlog,0.1.0,Project maintainers,MIT,81390,Python implementation of git elog
+2026-11-12T21:08:50Z,qslicer,0.1.0,"Max Lovell, Ethan Tackett, Caleb Turner, Dylan Kendall",MIT,444469,Static slicing and linting for quantum programs written in Qiskit or OpenQASM
+2026-11-12T21:12:16Z,slopbench,0.1.0,Blvkware,Apache-2.0,86248,"Measure how often a model invents software dependencies, and how often it invents the same one twice."
+2026-11-12T21:12:49Z,dex-agents-openai-sdk-cli,0.6.0,Super Durable,LicenseRef-Sustainable-Use-1.0,16773,The dex-agents-openai-sdk command: a durable OpenAI Agents SDK agent in your terminal
