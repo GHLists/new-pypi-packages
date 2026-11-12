@@ -1,41 +1,20 @@
 {
   "list": {
-    "count": 26,
-    "from": "2026-11-12T02:20:00.841045Z",
-    "path": "data/new-packages-2026-11-12T03-19-52-337986Z.csv",
-    "to": "2026-11-12T03:19:52.337986Z"
+    "count": 36,
+    "from": "2026-11-12T03:19:52.337986Z",
+    "path": "data/new-packages-2026-11-12T04-21-23-312401Z.csv",
+    "to": "2026-11-12T04:21:23.312401Z"
   },
   "pending": [
     {
-      "attempts": 4,
-      "created_at": "2026-11-11T23:45:53Z",
-      "package": "AgentFeedback.dev",
-      "since": "2026-11-11T23:19:41.654281Z",
-      "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-12T00:10:36Z",
-      "package": "JoobQ",
-      "since": "2026-11-11T23:19:41.654281Z",
-      "version": null
-    },
-    {
-      "attempts": 1,
+      "attempts": 2,
       "created_at": "2026-11-12T02:37:26Z",
       "package": "sheet-music-recognition",
       "since": "2026-11-12T02:20:00.841045Z",
       "version": null
-    },
-    {
-      "attempts": 4,
-      "created_at": "2026-11-12T00:07:45Z",
-      "package": "xmetai-inference",
-      "since": "2026-11-11T23:19:41.654281Z",
-      "version": null
     }
   ],
-  "serial": 43535799,
+  "serial": 43537704,
   "source_truncated": false,
-  "window": "2026-11-12T03:19:52.337986Z"
+  "window": "2026-11-12T04:21:23.312401Z"
 }
