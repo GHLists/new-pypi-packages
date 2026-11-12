@@ -1,0 +1,51 @@
+created_at,package,version,author,license,size,summary
+2026-11-12T12:19:02Z,bindo,2.0.0,BINDO Contributors,"MIT License Copyright (c) 2026 BINDO Contributors Permission is hereby granted, free of charge, to…",14016,Bahasa pemrograman sintaks Indonesia berbasis Python
+2026-11-12T12:22:14Z,mindzeval,0.1.0,MindzKonnected,Apache-2.0,216654,"Evaluation framework for SQL agents: result-based accuracy, behaviour scoring, multi-turn and golden-answer validation."
+2026-11-12T12:22:58Z,vatly-api-python,0.1.0a2,,MIT,141087,"Python SDK for Vatly, the merchant of record for AI, software and digital products"
+2026-11-12T12:24:31Z,vatly-fluent-python,0.1.0a2,,MIT,85007,Framework-independent fluent billing integrations built on the Vatly Python SDK
+2026-11-12T12:24:52Z,django-octo-seo,0.1.3,jeanpmodev <jeanpmodev@gmail.com>,MIT,687318,Django-based technical SEO architecture for large-scale URL indexing and single-query metadata rendering.
+2026-11-12T12:26:11Z,vatly-django,0.1.0a2,,MIT,91204,Cashier-style Django billing on Vatly Fluent
+2026-11-12T12:26:25Z,skywake,0.0.0,Skywake <hello@skywake.dev>,Apache-2.0,1854,Reserved for Skywake: https://skywake.dev
+2026-11-12T12:26:28Z,skywake-mcp,0.0.0,Skywake <hello@skywake.dev>,Apache-2.0,1899,Reserved for Skywake: https://skywake.dev
+2026-11-12T12:29:06Z,mrsd-subgroups,2.0.0,Lan Umek,MIT,263737,MRSD - Multiple Responses Subgroup Discovery: algorithms for discovering subgroups in data with several response variables
+2026-11-12T12:29:21Z,verisight,2.2.2,Aditya Raj Tiwari <adityasantosh2026@gmail.com>,Apache-2.0,124930,Sub-3ms Physical Multi-Spectral Image Forensics & Presentation Attack Detection engine powered by OpenCV 5 and Model Context Protocol (MCP).
+2026-11-12T12:30:00Z,ideformer-workspace,999.9.9,,,965,Stub package that mitigates Dependency Confusion attacks
+2026-11-12T12:31:53Z,cs-image-system-tofu-roots,0.1.7,Mykel Alvis <mykelalvis@infrastructurebuilder.org>,Apache-2.0,113996,The provider-neutral terraform roots: the root mixin and the instance and storage root bases every OpenTofu root plugin subclasses
+2026-11-12T12:32:22Z,clickruntime-cli,0.1.0,,MIT,54532,"ClickRuntime CLI: run Python automations on a schedule or when an event arrives, from a coding agent."
+2026-11-12T12:34:26Z,cosmicjellyfish,2.0.0,"""Santiago Casas, Matteo Martinelli, Sefa Pamuk, Sabarish V.M."" <s.casas@protonmail.com>","Apache License Version 2.0, January 2004 https://www.apache.org/licenses/ TERMS AND CONDITIONS FOR…",508372,
+2026-11-12T12:34:43Z,en-masse,0.0.1,Neha Karanjkar,Apache-2.0,33697,"Exploring conservative-to-optimistic synchronization policies for multi-agent LLM execution (prototype simulation engine, policies and checker)"
+2026-11-12T12:37:54Z,minicpm-ocr-haystack,0.1.0,deepset GmbH <info@deepset.ai>,Apache-2.0,27838,An integration of MiniCPM-OCR document parsing with Haystack
+2026-11-12T12:38:04Z,atlasopenmagic-mcp,0.1.0,Gabriela Guerrero <gabriela.guerrero@cern.ch>,Apache-2.0,46185,MCP Server for ATLAS Open Data metadata and file retrieval
+2026-11-12T12:40:01Z,clickruntime,0.0.1,,MIT,4821,"Installs the ClickRuntime CLI (clickruntime-cli): run Python automations on a schedule or when an event arrives, from a coding agent."
+2026-11-12T12:40:10Z,volcenginesdk-mse,5.0.58,volc-engine,Apache License 2.0,69416,Volcengine mse SDK for Python
+2026-11-12T12:40:24Z,pywmswebcontrolpro,0.1.1,Marc Hoersken <info@marc-hoersken.de>,Apache-2.0,46711,Python library for the Warema WMS WebControl pro API
+2026-11-12T12:40:40Z,diskdiet,0.6.1,Royston D,MIT,21223690,"See where your developer disk space went and get it back safely: package caches, Docker, old node_modules and target folders."
+2026-11-12T12:44:44Z,paperplane-sdk,0.1.0,ArcOps Cloud <support@arcopscloud.in>,,7340,"Official Python SDK for Paperplane — Stateless Passwordless OTP Engine for Email, SMS & WhatsApp."
+2026-11-12T12:45:47Z,orbitkv,0.1.0b1,OrbitKV Contributors,Apache-2.0,80345754,Framework adapters and Python bindings for the OrbitKV state cache
+2026-11-12T12:47:39Z,saturnolab,0.1.0,Maicon,MIT,660222,Lightweight JupyterLab-compatible Python notebook environment with native inline AI connected to live kernel memory.
+2026-11-12T12:48:06Z,esaalat-mcp,0.1.6,,Proprietary,343135,Model Context Protocol server for Esaalat merchant accounts
+2026-11-12T12:49:44Z,relwave,1.0.0,mgsoft,MIT,20708,Official Python SDK for the Relwave API (/api/v1).
+2026-11-12T12:50:28Z,lrclib-synced,0.3.0,nowplaylab,MIT,21761,"Time-synced song lyrics from LRCLIB with a Yandex Music fallback, checked against track length"
+2026-11-12T12:50:39Z,dataanalystkit,0.1.0,DataAnalystKit Contributors,Apache-2.0,211530,"The open-source AI analytics ecosystem: data generation, cleaning, quality, EDA, SQL, dashboards, AutoML, AI insights, BA docs, reports, and app generation."
+2026-11-12T12:50:49Z,open-finance-toolkit,0.1.0,Itz-https,"MIT License Copyright (c) 2026 Itz-https Permission is hereby granted, free of charge, to any perso…",55618,"Clean, categorise and summarise bank transaction CSVs, with support for Indian bank statement formats."
+2026-11-12T12:51:47Z,upliftlab,0.26.1,,MIT,7202535,"Find the uplift model that gives the most incremental outcome for the same budget, on your own experiment data"
+2026-11-12T12:52:17Z,stratus-emulator,0.1.0,,Apache-2.0,37954,"Control a local Stratus AWS emulator from tests and agents: reset, snapshots, chaos and diagnostics."
+2026-11-12T12:53:57Z,yandex-smarthome,0.1.0,nowplaylab,MIT,14759,Yandex Smart Home from Python: sign in with a code (no password) and control lights
+2026-11-12T12:54:00Z,yeelight-lan,0.2.2,nowplaylab,MIT,28048,"Yeelight over the home network: discovery, commands and music mode, plus a strip emulator"
+2026-11-12T12:55:03Z,simple-serialize,0.5.0,,MIT,47591,A simple Python serialization library
+2026-11-12T12:56:34Z,oryne,0.1.0,Oryne,MIT,31512,"Give an AI agent a wallet it can spend from, with limits it cannot break: x402 payments in USDC on Stellar."
+2026-11-12T12:57:09Z,plangeom-ss,0.1.0a1,,,154398,"СС (low-current systems) section for plangeom: fire alarm, evacuation warning and communications read from vector PDF drawings by their legend and riser schemes — devices, cables with their marks, re…"
+2026-11-12T13:00:11Z,xpd,0.7.0,,MIT OR Apache-2.0,2509672,"Fast, opinionated linter for Python library habits, starting with pandas and scikit-learn, for humans and coding agents"
+2026-11-12T13:01:54Z,recursionlens,0.1.2,"Ziyu Jiang, Xinyue Cai, Kehan Cao, Ruoxi Lyu, Haobo Ma",MIT,34866,"Interactive recursion tracing, subproblem DAGs, and memoization comparisons for JupyterLab."
+2026-11-12T13:04:42Z,scanwitness,2.2.0,Isaac E. Louzeiro,MIT,58507,"Runs wafw00f, shcheck, sslscan and whatweb and consolidates the results into HTML, Markdown and CSV reports with severity, evidence and recommendations per target"
+2026-11-12T13:07:01Z,single-sensor-outage-imputer,0.1.0,,,21227,TCDR runtime for single-sensor outage target imputation
+2026-11-12T13:07:19Z,blackpy,0.1.0,,MIT,48806938,"A local Python playground for young learners, with a Korean command palette."
+2026-11-12T13:07:48Z,openupi,0.1.0,Ayush Kumar Singh,Apache-2.0,16390,"Server SDK for the OpenUPI merchant gateway: create orders, read them, refund, and verify signed webhooks. No dependencies."
+2026-11-12T13:11:33Z,fusee,1.0.0,,MIT OR Apache-2.0,184689990,"Durable execution at the speed of the disk, embedded in your Python process"
+2026-11-12T13:13:16Z,uniparser2,0.7.0,ClericPy,MIT,379744,"A declarative, deterministic, serializable text parsing engine"
+2026-11-12T13:13:47Z,spectrum-reader-certic,0.1.0,,,426299,Read single-pixel spectra from hyperspectral HDF5 files without libhdf5
+2026-11-12T13:13:57Z,sigtorch,0.1.0,Oschart,MIT AND Apache-2.0,1916494,"Differentiable signatures and logsignatures in pure PyTorch, with the API of signatory."
+2026-11-12T13:14:41Z,stkcraft-time,0.1.32,,MIT,3440667,Exact Rust-backed astronomical time scales and explicit NAIF/IAU models
+2026-11-12T13:15:17Z,Orange3-MRSD,0.1.0,Lan Umek,MIT,3465332,Orange add-on for discovering subgroups in data with several dependent variables (MRSD).
+2026-11-12T13:17:46Z,grrr,0.7.1,chaz <bright.lid5647@fastmail.com>,,1031140,A set of common tools for various bear projects.
+2026-11-12T13:18:10Z,debyko-ccxt,0.1.0,DEBYKO,MIT,41234,"Read-only CCXT-compatible funding, open interest and liquidations from DEBYKO"
