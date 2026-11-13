@@ -1,0 +1,42 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T07:19:49Z,django-signal-guard,0.3.0,Panos Angelopoulos,BSD-3-Clause,82792,Make Django signal failures loud: catch bulk writes that silently skip your pre_save and post_save receivers.
+2026-11-13T07:21:08Z,tree-sitter-nextflow,0.4.1,"Edmund Miller <edmund@nf-co.re>, Ben Sherman <bentshermann@gmail.com>",MIT,689779,Nextflow grammar for tree-sitter
+2026-11-13T07:22:15Z,pypi-sdk,1.0.0,Eli-ezer Reuven Ramirez Ruiz,MIT,41405,Typed Python client for PyPI's public APIs and package publishing
+2026-11-13T07:23:56Z,errlens-cli,0.1.0,ErrLens contributors,MIT,163471,Local Python error explanations with opt-in terminal and shell integration.
+2026-11-13T07:28:53Z,heypix-photo-prep,0.1.0,highsfield,MIT,4158,"Resize, orient and pad local photos for consistent image workflows"
+2026-11-13T07:28:57Z,highsfield-shotlist,0.1.0,highsfield,MIT,4578,Validate shot briefs and calculate a frame-based production timeline
+2026-11-13T07:29:01Z,klingai-media-inspect,0.1.0,highsfield,MIT,4607,"Inspect local video dimensions, duration and frame rate with ffprobe"
+2026-11-13T07:29:04Z,musicwith-beatgrid,0.1.0,highsfield,MIT,4303,Create deterministic beat and bar timestamps from a supplied tempo
+2026-11-13T07:29:14Z,flowbyte-secrets,1.0.1,Flowbyte,Proprietary,19942,"Python client for the Flowbyte Secrets machine API (fbs_ access tokens), with an optional Dagster resource."
+2026-11-13T07:31:50Z,ostium-ctl,0.1.0,Ostium Contributors,GPL-3.0-or-later,5209885,Ostium — a dual-role personal VPN and universal proxy console
+2026-11-13T07:34:30Z,livesub,0.1.0,,,15672,Subdomain enumeration and live HTTP host reporting for authorized recon
+2026-11-13T07:36:41Z,tailprint,1.3.0,Tailprint <reach@clewaa.com>,MIT,20633,Official Python SDK for Tailprint — Developer-First PDF & Document Engine
+2026-11-13T07:38:19Z,pii-mask-enhanced,1.0.0,,,392037,Русскоцентричная библиотека для маскировки персональных данных перед отправкой текста в облачные LLM
+2026-11-13T07:39:21Z,vcfart,1.0.1,Seung Won Chae,MIT,85677,"VCF ARTificial: generate saturation-mutagenesis VCFs (all SNVs / indels / codon swaps) from a transcript + HGVS range, for MAVE, SGE, DMS and SpliceAI scans"
+2026-11-13T07:40:50Z,yfinance-ir,2026.11.0,Kiyarash Fazeli <caci96@gmail.com>,MIT,117560,"yfinance-style market data for Iranian markets (TSETMC, Codal, TGJU)"
+2026-11-13T07:44:24Z,entlearn,0.1.1,"Davide Bassetti, Michael Groom",AGPL-3.0-only,439189,Tensor-native entropic-learning primitives for PyTorch
+2026-11-13T07:44:29Z,thonny-miniworlds,0.1.0,,MIT,26419,Deutschsprachige miniworlds-Lernhilfen für Thonny (E2/Q1)
+2026-11-13T07:48:31Z,zoho-blueprint,0.1.0,Josh Simnitt,MIT,91594,"Run Zoho CRM Blueprint transitions properly, and find records that skipped them."
+2026-11-13T07:49:27Z,streamspec,1.2.0,Prajwal7-2002 <prajwalpujari16@gmail.com>,AGPL-3.0-or-later,89917,Asynchronous Speculative Layer-Streaming for Frontier & Futuristic AI
+2026-11-13T07:51:12Z,inferref,0.12.1,,Apache-2.0,719783,"Reference execution tracing, testcase extraction and numerical comparison for inference engine development"
+2026-11-13T07:51:42Z,secretsentinel-scanner,1.0.0,SecretSentinel contributors,MIT,216086,Web3-focused secret leakage detection and DevSecOps platform built on Gitleaks
+2026-11-13T07:53:49Z,getdatjawn,0.1.0,Isaac McGinnis,MIT,31042,"Grab a tagged local audio file from a Spotify, YouTube Music, Apple Music, or Tidal URL."
+2026-11-13T07:54:05Z,opendockit-mcp,0.3.2,OpenDocKit contributors,MIT,7054,"MCP server that lets an agent read local documents (PDF, Office, HWP and more) as Markdown. Launcher for opendockit[mcp]."
+2026-11-13T07:54:27Z,legatolabs,0.1.0,Legato authors,Apache-2.0,146706,"Open computer-use harness for any OpenAI-compatible model (Qwen, DeepSeek, Claude, vLLM, OpenRouter): ready-wait instead of fixed sleeps, bounded calls, measured against the reference loops."
+2026-11-13T07:55:04Z,yepitran,0.1.0,Akshay Maurya,MIT,118574,"Prove a mobile app works on a real iOS Simulator and Android Emulator: video, screenshots, and a PASS / APP FAIL / INFRA FAIL verdict."
+2026-11-13T07:57:16Z,tokenledger-llm,0.1.1,Pallav Pokhriyal,MIT,23158,Measure the real cost structure of multi-agent / multi-model LLM systems from request logs.
+2026-11-13T07:58:26Z,aquaprov,0.2,"Sachida Nanda Mahanta <sachida5908@gmail.com>, Bristi Phukan <bristi.87.hn.24@gmail.com>",GPL-3.0-only,44174005,"AquaProv desktop workspace for water chemistry, geochemical diagrams, statistics and spatial analysis"
+2026-11-13T07:58:28Z,pysh_pythoner,0.1.0,Cade,MIT,3661,"pysh plugin for ""A custom python REPL"""
+2026-11-13T08:04:06Z,safari-mcp,0.1.0,Stefano Garzon,MIT,16494,MCP server that drives your real Safari (logged-in tabs included) via AppleScript
+2026-11-13T08:05:12Z,skillhop,0.1.0,Sri Krishna Lingamaneni,MIT,66214,"Install the skills MCP servers serve (Skills over MCP, SEP-2640) into Claude Code, Codex, Cursor, Gemini CLI, Copilot, goose and OpenCode, verified against the server's SHA-256 digests, with a lock f…"
+2026-11-13T08:07:01Z,ai-tui-shell,0.1.0,AI TUI Shell Authors,MIT,506462,"AI-integrated secure SSH terminal emulator with SFTP, batch execution, and an auditable command policy engine"
+2026-11-13T08:07:23Z,qpi-cli,0.2.1,Quectel Pi,MIT,45009,QuecPi QCS6490 (PI H1) Yocto Linux SDK 命令行工具 (构建 / 打包 / 烧录)
+2026-11-13T08:07:32Z,spartito,0.1.0,,MIT,677186,"Run Claude Code and Codex agents in parallel, each in its own git worktree, steered through one orchestrator agent"
+2026-11-13T08:07:53Z,thordata,0.1.0,Thordata,MIT,44844,Python SDK for the Thordata SERP API and Web Scraper
+2026-11-13T08:09:29Z,coom-api,0.0.1a1,denkbares GmbH,MIT,3513,The COOM product configuration language with its reference implementation in one package
+2026-11-13T08:09:30Z,coom-cli,0.0.1a1,denkbares GmbH,MIT,3748,Command line interface of the COOM product configuration language
+2026-11-13T08:09:31Z,coom-clingo,0.0.1a1,denkbares GmbH,MIT,33348,Reference solver of the COOM product configuration language on clingo
+2026-11-13T08:09:32Z,coom-core,0.0.1a1,denkbares GmbH,MIT,39184,"Model, configurations and evaluation of the COOM product configuration language"
+2026-11-13T08:12:14Z,agentflight-mcp,1.2.0,Akandwanaho Ivan Alvin <codesphere.u@github.com>,MIT,176469,"AI Agent Black-Box Flight Recorder, Deterministic Trajectory Replay, Loop/Cost Circuit Breaker & MCP Tool-Smell Linter"
+2026-11-13T08:16:10Z,sparmap-st,1.0,,,125673,A Spatially Aware Framework for Gene-Set Activity Mapping
+2026-11-13T08:16:54Z,epistemic-guard,0.3.0,Sean Maxwell,"MIT License Copyright (c) 2026 Sean Maxwell Permission is hereby granted, free of charge, to any pe…",121168,"Signed tool receipts, Ed25519 memory write-gating, and RAG source deduplication for Python agents (CPU/NPU, zero LLM calls)"
