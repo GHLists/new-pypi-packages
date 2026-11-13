@@ -1,0 +1,23 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T00:05:02Z,textutils-MB,1.0.1,,"MIT License Copyright (c) 2026 Martin-B74 Permission is hereby granted, free of charge, to any pers…",12888,A lightweight Python library for common text-processing operations.
+2026-11-13T00:19:44Z,strands-exaone,0.1.1,,MIT,273299,EXAONE model provider for Strands Agents
+2026-11-13T00:21:52Z,fontes-mcp,0.1.0,Yüce Karapazar,Apache-2.0,3047255,"Court decisions and legislation from government and court websites in over 120 jurisdictions, fetched live, with a link to the original."
+2026-11-13T00:22:40Z,lighttar,0.1.0,Eilam Shapira <eilamshapira@campus.technion.ac.il>,MIT,80090,"LightTAR: target-aware tabular features from frozen encoder layers, in closed form. A scikit-learn step for tabular models."
+2026-11-13T00:23:01Z,langchain-exaone,0.1.1,,MIT,181836,LangChain chat model integration for the EXAONE API
+2026-11-13T00:26:20Z,odoo-addon-l10n-br-cte-dfe,16.0.1.0.0.2,"Engenere, Odoo Community Association (OCA)",AGPL-3,46839,Monitor incoming CT-e documents via the DF-e distribution web service (CTeDistribuicaoDFe).
+2026-11-13T00:29:44Z,stanward,0.0.1,The Stanward Authors,Apache-2.0,10791,"Stanward: open-source autonomous AI agent, secure by default, scales from your laptop to your company. First release coming soon."
+2026-11-13T00:30:01Z,imports-extractor,999.9.9,,,960,Stub package that mitigates Dependency Confusion attacks
+2026-11-13T00:41:04Z,llm-drift-bench,0.1.0,Anant Goel,MIT,78442,"A lightweight, zero-bloat CLI and Python library to benchmark, validate JSON conformity, and detect output drift across LLM updates and quantizations."
+2026-11-13T00:45:41Z,bareun-baropy,3.4.0,Bareun,,50477099,x
+2026-11-13T00:47:06Z,bapgpt-local-ai,0.1.0,,,3928,A local AI coding assistant launcher
+2026-11-13T00:48:25Z,linkup-mcp,0.1.0,Martin Silbernagl,MIT,66725,"MCP server for the whole Linkup web API: search, fetch, research, batch tasks, credits, extract and rewind, with the documentation built in"
+2026-11-13T01:00:55Z,unfoldx,0.6.0,,Apache-2.0,110143,UnfoldX CLI - delegate explainer videos to the UnfoldX main agent and follow them to the finished film.
+2026-11-13T01:01:16Z,unfoldx-mcp,0.6.0,,Apache-2.0,82000,UnfoldX MCP server (stdio) - the unfoldx.v2 public API as MCP tools for agents.
+2026-11-13T01:11:02Z,scixplorer,0.0.0,,MIT,2203,"A Python client for SciX (Science Explorer), the successor to NASA/ADS. Placeholder release; the client is in development."
+2026-11-13T01:11:06Z,ragvet,0.3.0,Tarang Jammalamadaka,MIT,84094,Evaluation and retrieval-benchmark harness for RAG systems
+2026-11-13T01:11:25Z,circularity-reveal,1.0.0,TREMA-UNH,MIT,116129,Reveal circular systems in LLM-judge evaluation from paired nugget-bank leaderboards.
+2026-11-13T01:13:16Z,mikrio,0.1.0,,Apache-2.0,40649723,Embedded object storage with an S3-compatible HTTP interface
+2026-11-13T01:13:55Z,basalt-vault,1.0.0,Carter Cole,MIT,199925,Python implementation of the Basalt Protocol v1 — a portable knowledge vault in any object store
+2026-11-13T01:15:19Z,snakemake-storage-plugin-acadfetch,0.1.0,,MIT,15459,"Snakemake storage plugin: resumable, rate-limited, checksum-verified downloads from data repositories"
+2026-11-13T01:16:38Z,matchvar-annotator,1.2.0,Bingbo Zhou,MIT,452427,MATCHVAR Annotator - Functional annotation and analysis of genomic variants
+2026-11-13T01:18:06Z,ncm-benchmarks,2.0.0,Hardonian Labs <scottrmhardie@gmail.com>,MIT,109142,"Production benchmarks, hierarchical concept decoder, and sovereign inference engine for Next-Concept Modeling"
