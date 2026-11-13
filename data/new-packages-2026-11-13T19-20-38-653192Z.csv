@@ -1,0 +1,41 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T18:19:35Z,sparkscope,0.2.0,Vincent Kanka,Apache-2.0,28824,Open-source PySpark performance analysis toolkit
+2026-11-13T18:20:30Z,ec2kit,1.0.0,ec2kit Contributors,MIT,119061,"Developer-focused CLI for discovering, managing, analyzing and understanding AWS EC2 infrastructure"
+2026-11-13T18:20:52Z,qap793gl4l,0.1.1,qap793gl4l contributors,MIT,28104,Signed-manifest updater for a self-hosted game or app.
+2026-11-13T18:21:47Z,courtlistener-mcp,1.3.0,Free Law Project <info@free.law>,BSD-2-Clause,472278,"Official MCP server for CourtListener: search case law, dockets, judges and oral arguments, and verify legal citations, from any MCP client"
+2026-11-13T18:22:36Z,xrf-visualizer,0.1.0,,MIT,316431,Plotly Dash visualizer for XRF cubes (HDF5/.npz/.npy): 2-D map + spectrum with spectral-interval and ROI selection.
+2026-11-13T18:25:00Z,resq-client,0.1.0rc1,nodeQ Limited,Apache-2.0,168859,"Python client for the ResQ network topology, e2e connection and routing/compute remote API."
+2026-11-13T18:25:29Z,flockward,1.1.0,Flockward <hello@flockward.com>,MIT,11655,Free link-safety checks for AI agents: spot prompt-injection traps and read pages with them removed.
+2026-11-13T18:27:37Z,kimicode-memanto,0.1.0,Memanto <info@memanto.ai>,MIT,14324,Convenience CLI for installing Memanto's Kimi Code integration.
+2026-11-13T18:28:17Z,rubric-rna,0.1.0,Yesselman Lab,MIT,9734210,RUBRIC: base-pair annotation and local quality assessment of RNA 3D structures
+2026-11-13T18:29:59Z,engineering-corpus,0.0.1,Yamaç Bezirgan,MIT,2617,Placeholder for engineering-corpus; version 0.1 is not out yet.
+2026-11-13T18:30:00Z,jetbrains-agents-analytics,999.9.9,,,967,Stub package that mitigates Dependency Confusion attacks
+2026-11-13T18:31:10Z,ordinator,0.1.0,Pedro Henrique Coimbra <pedro-henrique.herig-coimbra@inrae.fr>,EUPL-1.2,622875,"A dataset passed through named, swappable, recorded steps: the machinery, with no vocabulary of its own."
+2026-11-13T18:32:44Z,gobkinematics,0.1.0,J. Adonai Pacompia,MIT,66907,A Python library for the graphical representation and kinematic classification of geological faults.
+2026-11-13T18:34:00Z,tatvastack-codeforge,0.1.0,TatvaStack <bhaskar@tatvastack.com>,MIT,13895,"Official CodeForge SDK: run Python, JavaScript, Java and C++ in isolated, network-free sandboxes with one API."
+2026-11-13T18:34:04Z,trackwright,0.3.0,impalah,AGPL-3.0-or-later,271233,"Independent MCP server for controlling digital audio workstations (DAWs). First implementation: Cubase, through a MIDI Remote script"
+2026-11-13T18:38:27Z,trc-packages,0.0.1,,,491,Reserved name.
+2026-11-13T18:39:40Z,myorlen-ebok-api,0.1.0,Jacek Grela <jacekgrela@gmail.com>,MIT,60437,"Unofficial Python SDK and CLI for the myORLEN gas eBOK (ebok.myorlen.pl, formerly PGNiG eBOK): agreements, invoices, PDFs, payments, meter readings, consumption."
+2026-11-13T18:40:55Z,zettcode-code-agents,0.4.6,Chang-LeHung,MIT,29624,Gateway plugins that run Codex and Claude Code as persistent external agents
+2026-11-13T18:44:55Z,cysuml,0.1.0,,MIT AND OFL-1.1,16471554,"MCP server that draws document-ready UML diagrams: the AI lays them out, cysUML draws and checks them"
+2026-11-13T18:45:32Z,bowerbird-mcp,1.0.1,Bowerbird contributors,Apache-2.0,139680,"Keep a Markdown knowledgebase in order, and search and answer from it: an MCP server and CLI for Open Knowledge Format (OKF) v0.2."
+2026-11-13T18:47:05Z,horae-sdk,0.9.0,,Apache-2.0,120911,"Python SDK for Horae plugins: base classes, manifest helpers, intent builders and a recorded-input test harness."
+2026-11-13T18:48:09Z,ui4me-core,1.0.0,UI4ME Contributors,MIT AND OFL-1.1,36286410,Native desktop HTML/CSS runtime with a language-neutral process host
+2026-11-13T18:48:51Z,spheron-sandbox,0.1.0,,Apache-2.0,73281,Run commands and move files on a Spheron Agent GPU Sandbox from code.
+2026-11-13T18:51:22Z,langchain-sugo,0.1.0,,AGPL-3.0-or-later,36326,"LangChain document loader for Sugo: local, compact Markdown chunks from PDF, Office files and images."
+2026-11-13T18:51:31Z,llama-index-readers-sugo,0.1.0,,AGPL-3.0-or-later,38823,"LlamaIndex reader for Sugo: local, compact Markdown chunks from PDF, Office files and images."
+2026-11-13T18:51:40Z,sentipulse,1.0.0,Santosh Kashyap <santoshkkashyap25@gmail.com>,MIT,169202,SentiPulse: Production-Grade Sentiment Classification & Real-Time MLOps Engine
+2026-11-13T18:53:55Z,everyonetools-mcp,0.1.0,EveryoneTools,MIT,37914,MCP server for the EveryoneTools developer API (/v1): discover and run EveryoneTools tools from MCP clients with your API key.
+2026-11-13T18:58:12Z,hemisphere-harness,0.1.1,Zaenus,MIT,355103,"An agent harness modelled on McGilchrist's Master and Emissary: a generative right hemisphere leads, a calibrated decision model serves."
+2026-11-13T18:58:30Z,froogdev,0.10.4,,MIT,38528,Official client for the froog sandbox API: cloud VMs for AI agents
+2026-11-13T19:02:30Z,spurs-math,0.1.0,Spiris,,2417,A mathematical framework for Python
+2026-11-13T19:07:19Z,spanlog,0.1.0,chaugiakhang193,MIT,74383,"Readable call-boundary logs: one line when a call starts, one when it ends."
+2026-11-13T19:07:25Z,ocr-software,0.1.0,,MIT,42862,"Client and command line for the ocr-software.com OCR API: text, word boxes, layout, searchable PDF."
+2026-11-13T19:08:16Z,embd-cli,0.5.0,,,8949270,
+2026-11-13T19:10:50Z,ibis-hardcharger,1.0.0,GizmoData <support@gizmodata.com>,Apache-2.0,70706,"Ibis backend for Hardcharger™, GizmoData's DuckDB 2.0 server, over the Chargewire protocol"
+2026-11-13T19:11:24Z,pydebt,0.1.0,your name <you@example.com>,MIT,17203,Measurable technical debt for Python projects
+2026-11-13T19:12:44Z,sqlalchemy-hardcharger,1.0.0,Philip Moore <philip@gizmodata.com>,Apache-2.0,265586,"SQLAlchemy dialect for Hardcharger, GizmoData's DuckDB 2.0 server"
+2026-11-13T19:13:03Z,essot-mcp-server,0.1.0,Emmanuel Echeonwu <eecheonwu@aimsammi.org>,MIT,177826,ESSOT MCP Server for connecting AI IDEs with the Engineering SSOT Platform
+2026-11-13T19:16:10Z,cybertron-agents,0.1.0,,MIT,118330,Install the 13 Cybertron Primes agents and the /cybertron command into OpenCode
+2026-11-13T19:17:52Z,synapto-hub,0.1.0,rick-scheper,MIT,8342820,Turn what your coding agent just built into an interactive lesson.
+2026-11-13T19:19:48Z,radphen-iadpython,0.7.0,Scott Prahl <scott.prahl@oit.edu>,MIT,1248918,Forward and inverse radiative transport using adding-doubling
