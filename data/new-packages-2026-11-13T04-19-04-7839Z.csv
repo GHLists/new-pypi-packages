@@ -1,0 +1,28 @@
+created_at,package,version,author,license,size,summary
+2026-11-13T03:23:45Z,viva-parsimony,0.1.0,,,203745,Reusable process-bigraph packing of 3D whole-cell structural models (parsimony engine wrapper)
+2026-11-13T03:24:51Z,ani-talent,0.2.0,,# PolyForm Noncommercial License 1.0.0 <https://polyformproject.org/licenses/noncommercial/1.0.0> #…,33334,Read the Ani talent database with your own account: a command and an MCP server.
+2026-11-13T03:28:08Z,rmi-stitch-core,0.2.0.dev2,Michael Barlow,,9435,Core functionality for the Stitch platform.
+2026-11-13T03:29:59Z,marcus-toolkit,0.1.0,,"MIT License Copyright (c) 2025 Larry Gray Permission is hereby granted, free of charge, to any pers…",116392,"The run-side toolbox Marcus extensions share: a server under test, seeding, run guards, the cost watchdog, the board sampler, measures, the run record, and a pull-loop agent shell"
+2026-11-13T03:31:50Z,mcdex,0.1.0.dev0,Asger Jon Vistisen <asgerjon2@gmail.com>,Apache-2.0,581538,"A typed, version-agnostic catalogue of Minecraft for Python: every item, block and entity as a class with one identity across all versions. Not affiliated with Mojang or Microsoft."
+2026-11-13T03:33:01Z,chalk-grader,0.2.0,Fábio Macêdo Mendes,MIT,110545,"Grade code answers in a sandbox with data profiles (pytest, cargo, elm-test, plunit...)."
+2026-11-13T03:33:13Z,inkrs,0.2.0,Praveen Perera <me@praveenperera.com>,MIT OR Apache-2.0,13993330,"GPU-resident ink inference for villa's flat ink readers, from Python"
+2026-11-13T03:34:36Z,nimblebrain-server-sdk,0.3.0,NimbleBrain,Apache-2.0,186765,"The SDK for building MCP servers that run on NimbleBrain: tool annotations, change announcements, the ai.nimblebrain platform extensions (facets, lifecycle, record views), skills over the MCP Skills…"
+2026-11-13T03:38:31Z,pipecat-oogam,0.1.1,Dwet Labs <support@dwetlabs.com>,MIT,33186,"Oogam speech services for Pipecat — streaming STT with client-driven turn finalize, streaming TTS, and Sutra — for 27 Indian languages and English."
+2026-11-13T03:38:53Z,PII-discovery,0.1.0,Pratik P. Lahudkar,MIT,131675,"Local-first discovery of candidate PII, PHI, and financial data in common file formats"
+2026-11-13T03:44:20Z,ddd-utils-zcheng,0.0.1,,,4702,一个用于学习 Python 公共库构建和发布的示例工程
+2026-11-13T03:44:27Z,viva-mgen,0.1.0,Eran Agmon <agmon.eran@gmail.com>,MIT,25958436,Viva-native (process-bigraph) reproduction of the Karr et al. 2012 Mycoplasma genitalium whole-cell model
+2026-11-13T03:45:30Z,joel,0.0.1,Marcus Xavier <marcusxavierr123@gmail.com>,,2095,"Your spoken English, every grammar mistake, the exact second you made it."
+2026-11-13T03:48:29Z,cave-closure,0.0.1,,AGPL-3.0-or-later,36361119,Explicit covariance-weighted cave survey adjustment
+2026-11-13T03:48:38Z,date-dimensions,0.2.0,,MIT,13494,Extract date and time dimensions for analytics and Excel without pandas.
+2026-11-13T03:52:21Z,olympiad-lab,0.1.0,olympiad-lab maintainers,MIT,490696,Checkpoints for AI Olympiad training labs: sends evidence from a notebook to a scorer server and shows the verdict.
+2026-11-13T03:59:52Z,ErisPulse-OopzAdapter,0.1.0,wsu2059 <wsu2059@qq.com>,"MIT License Copyright (c) 2026 ErisPulse Permission is hereby granted, free of charge, to any perso…",85349,ErisPulse的Oopz用户账号适配模块（非官方接口）
+2026-11-13T04:04:22Z,conda-features,0.1.0,,BSD-3-Clause,75421,Discover and configure optional features from installed conda plugins
+2026-11-13T04:04:27Z,super-semantics-vsl,0.3.1,,MIT,186052,Framework-agnostic and model-agnostic VSL (VERBA Specification Language) governance primitives.
+2026-11-13T04:05:31Z,euporie-cvepatched,2.10.4.post1,Euporie CVE-Patched maintainers,MIT,1488587,Euporie CVE-Patched: internal security-patched distribution of euporie (terminal Jupyter notebooks)
+2026-11-13T04:06:11Z,bolts,0.2.1,Shibaji Chakraborty <chakras4@erau.edu>,LGPL-3.0-or-later,283868,"BOLTS: Branching-unit and Optical-repeater power-feed Loop Transient Simulator. Stress and vulnerability of submarine power-feed systems under geomagnetic disturbances (GMD / space weather), lightnin…"
+2026-11-13T04:07:18Z,ageha,0.0.1,Lev Wu,MIT,79863,A Python toolkit.
+2026-11-13T04:09:04Z,yt-digest,0.1.0,Anuk Imsara Opallage <anukim123@gmail.com>,MIT,34354,"Turn YouTube videos into structured study documents with summaries, transcripts, and verified screenshots."
+2026-11-13T04:13:29Z,widespread-mcp,0.1.1,,Apache-2.0,20885,Local MCP server + CLI for Widespread verified-work bounties — client-held Ed25519 keys
+2026-11-13T04:13:56Z,metgeodock,0.1.0,Kai Wang,Academic and non-commercial use only; commercial use requires a separate licence,155910,"MetGeoDock: geometry-matching docking for metalloproteins (MetGeo FF, coordinating-water occupancy, 10 metals)"
+2026-11-13T04:14:21Z,altercord.py,0.6.3,,,137248,altercord
+2026-11-13T04:16:43Z,sah-qr-generator,1.0.0,,"MIT License Copyright (c) 2026 Ahmed Hesham Permission is hereby granted, free of charge, to any pe…",20604,A customizable QR code generator with optional center icons.

@@ -1,13 +1,13 @@
 {
   "list": {
-    "count": 22,
-    "from": "2026-11-13T02:21:15.46122Z",
-    "path": "data/new-packages-2026-11-13T03-18-42-298663Z.csv",
-    "to": "2026-11-13T03:18:42.298663Z"
+    "count": 27,
+    "from": "2026-11-13T03:18:42.298663Z",
+    "path": "data/new-packages-2026-11-13T04-19-04-7839Z.csv",
+    "to": "2026-11-13T04:19:04.7839Z"
   },
   "pending": [
     {
-      "attempts": 3,
+      "attempts": 4,
       "created_at": "2026-11-13T01:10:34Z",
       "package": "QuantLibAAD",
       "since": "2026-11-13T00:18:47.978206Z",
@@ -15,20 +15,13 @@
     },
     {
       "attempts": 4,
-      "created_at": "2026-11-12T23:58:44Z",
-      "package": "google-adk-cli",
-      "since": "2026-11-12T23:19:39.88921Z",
-      "version": null
-    },
-    {
-      "attempts": 3,
       "created_at": "2026-11-13T00:22:09Z",
       "package": "matchvar",
       "since": "2026-11-13T00:18:47.978206Z",
       "version": null
     }
   ],
-  "serial": 43587501,
+  "serial": 43589015,
   "source_truncated": false,
-  "window": "2026-11-13T03:18:42.298663Z"
+  "window": "2026-11-13T04:19:04.7839Z"
 }

@@ -8,33 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 03:18 UTC
+## Latest list — 2026-11-13 04:19 UTC
 
-New packages created between 2026-11-13 02:21 UTC and 2026-11-13 03:18 UTC.
+New packages created between 2026-11-13 03:18 UTC and 2026-11-13 04:19 UTC.
 
-[Full CSV](data/new-packages-2026-11-13T03-18-42-298663Z.csv)
+[Full CSV](data/new-packages-2026-11-13T04-19-04-7839Z.csv)
 
 | Created (UTC) | Package | Version | Author | Size | Summary |
 | :------------ | :------ | :------ | :----- | ---: | :------ |
-| 2026-11-13 02:21:36 | [cmargentina](https://pypi.org/project/cmargentina/) | 0.1.0 | Emilio Echevarria | 36.6 kB | Argentina-inspired colormaps for matplotlib |
-| 2026-11-13 02:29:30 | [fast-nvim-latest](https://pypi.org/project/fast-nvim-latest/) | 0.1.0 | fast-nvim-latest contributors | 72.3 MB | Neovim, shipped in a pip wheel: one install, one setup command. |
-| 2026-11-13 02:33:52 | [broadlink-magic](https://pypi.org/project/broadlink-magic/) | 0.1.0 | BroadLink | 64.1 kB | Local LAN protocol for BroadLink Magic Home families |
-| 2026-11-13 02:34:08 | [robot-data-collector-irsl](https://pypi.org/project/robot-data-collector-irsl/) | 0.1.0a1 |  | 352.0 kB | Robot episode collection and portable NumPy/HDF5 readers with Grain data loading |
-| 2026-11-13 02:35:50 | [donghuiyun-hotel-utils](https://pypi.org/project/donghuiyun-hotel-utils/) | 1.0.2 | donghuiyun | 7.9 kB | 旅館訂房日期與價格計算工具 |
-| 2026-11-13 02:36:55 | [quickreq-pucpx](https://pypi.org/project/quickreq-pucpx/) | 0.1.0 |  | 3.1 kB | Wrapper rút gọn cú pháp cho thư viện requests |
-| 2026-11-13 02:38:37 | [django-sastry](https://pypi.org/project/django-sastry/) | 1.0.0 | Krishnamurthy <krishna@global… | 100.9 kB | A lightweight zero-config dynamic CRUD admin interface and interactive visual E… |
-| 2026-11-13 02:40:58 | [mcp-nap](https://pypi.org/project/mcp-nap/) | 0.2.0 | Ashutosh Sharma | 48.5 kB | Keeps stdio MCP servers asleep until a tool is called, so Claude Code, Cursor a… |
-| 2026-11-13 02:42:58 | [openpinescript](https://pypi.org/project/openpinescript/) | 0.1.1.post2 | be-thomas | 5.3 MB | Run TradingView Pine Script (v1-v6) locally and offline: indicators, plots and… |
-| 2026-11-13 02:44:00 | [huaweicloudsdkdoczip](https://pypi.org/project/huaweicloudsdkdoczip/) | 3.1.222 | HuaweiCloud SDK <hwcloudsdk@h… | 60.5 kB | DocZip |
-| 2026-11-13 02:50:02 | [ms-remote](https://pypi.org/project/ms-remote/) | 0.1.0 |  | 57.5 kB | 统一远程节点操作库（HTTP & SSH 双通道），供 msmodeling / OptiX 插件依赖 |
-| 2026-11-13 02:53:13 | [navifield](https://pypi.org/project/navifield/) | 0.0.1 |  | 3.1 kB | NaviField: a command-line toolbox for running open-source simulation solvers wi… |
-| 2026-11-13 02:55:37 | [website-status-checker-demo](https://pypi.org/project/website-status-checker-demo/) | 0.1.0 | Student Developer | 8.7 kB | A simple Python website status checker |
-| 2026-11-13 02:57:44 | [n8n-tidy](https://pypi.org/project/n8n-tidy/) | 0.2.0 |  | 325.3 kB | Normalize, semantically diff and check n8n workflow exports for git - no n8n in… |
-| 2026-11-13 02:59:27 | [zx-ableton-live-mcp](https://pypi.org/project/zx-ableton-live-mcp/) | 1.1.0 | Zach Howard | 475.8 kB | Model Context Protocol (MCP) server for Ableton Live: let AI assistants like Cl… |
-| 2026-11-13 03:02:13 | [idare2](https://pypi.org/project/idare2/) | 0.1.0 | fire3 | 477.8 kB | radare2-style CLI over IDA Pro databases, driven by ida-nexus |
-| 2026-11-13 03:03:04 | [enca-python](https://pypi.org/project/enca-python/) | 0.1.0 | Energy Catalyst LLC | 96.7 kB | Friendly Python access to your Energy Catalyst heat pump's cloud data |
-| 2026-11-13 03:04:09 | [test-selector](https://pypi.org/project/test-selector/) | 1.0.0 |  | 135.8 kB | 覆盖率驱动的精准测试选择器（vllm_ascend / sglang / pytorch 统一架构） |
-| 2026-11-13 03:06:09 | [htmlkit](https://pypi.org/project/htmlkit/) | 26.11 | Gavin Wiggins | 29.8 kB | Write HTML in Python |
-| 2026-11-13 03:10:16 | [pixec-burrow](https://pypi.org/project/pixec-burrow/) | 0.1.0.dev2026111303… | Pixec Technologies <oss+burro… | 269.0 kB | Python client for Burrow, self-hosted microVM sandboxes for running untrusted c… |
-| 2026-11-13 03:10:40 | [eason0602-cf-turnstile-check](https://pypi.org/project/eason0602-cf-turnstile-check/) | 0.1.0 | Eason0602 <joinwingz0@gmail.c… | 4.7 kB | Lightweight Cloudflare Turnstile verification helper |
-| 2026-11-13 03:10:56 | [azure-mgmt-datacollectionruleconfigurationmetadata](https://pypi.org/project/azure-mgmt-datacollectionruleconfigurationmetadata/) | 0.0.0b1 | Microsoft Corporation <azures… | 3.6 kB | This package will be released in the near future. Stay tuned! |
+| 2026-11-13 03:23:45 | [viva-parsimony](https://pypi.org/project/viva-parsimony/) | 0.1.0 |  | 203.7 kB | Reusable process-bigraph packing of 3D whole-cell structural models (parsimony… |
+| 2026-11-13 03:24:51 | [ani-talent](https://pypi.org/project/ani-talent/) | 0.2.0 |  | 33.3 kB | Read the Ani talent database with your own account: a command and an MCP server. |
+| 2026-11-13 03:28:08 | [rmi-stitch-core](https://pypi.org/project/rmi-stitch-core/) | 0.2.0.dev2 | Michael Barlow | 9.4 kB | Core functionality for the Stitch platform. |
+| 2026-11-13 03:29:59 | [marcus-toolkit](https://pypi.org/project/marcus-toolkit/) | 0.1.0 |  | 116.4 kB | The run-side toolbox Marcus extensions share: a server under test, seeding, run… |
+| 2026-11-13 03:31:50 | [mcdex](https://pypi.org/project/mcdex/) | 0.1.0.dev0 | Asger Jon Vistisen <asgerjon2… | 581.5 kB | A typed, version-agnostic catalogue of Minecraft for Python: every item, block… |
+| 2026-11-13 03:33:01 | [chalk-grader](https://pypi.org/project/chalk-grader/) | 0.2.0 | Fábio Macêdo Mendes | 110.5 kB | Grade code answers in a sandbox with data profiles (pytest, cargo, elm-test, pl… |
+| 2026-11-13 03:33:13 | [inkrs](https://pypi.org/project/inkrs/) | 0.2.0 | Praveen Perera <me@praveenper… | 14.0 MB | GPU-resident ink inference for villa's flat ink readers, from Python |
+| 2026-11-13 03:34:36 | [nimblebrain-server-sdk](https://pypi.org/project/nimblebrain-server-sdk/) | 0.3.0 | NimbleBrain | 186.8 kB | The SDK for building MCP servers that run on NimbleBrain: tool annotations, cha… |
+| 2026-11-13 03:38:31 | [pipecat-oogam](https://pypi.org/project/pipecat-oogam/) | 0.1.1 | Dwet Labs <support@dwetlabs.c… | 33.2 kB | Oogam speech services for Pipecat — streaming STT with client-driven turn final… |
+| 2026-11-13 03:38:53 | [PII-discovery](https://pypi.org/project/PII-discovery/) | 0.1.0 | Pratik P. Lahudkar | 131.7 kB | Local-first discovery of candidate PII, PHI, and financial data in common file… |
+| 2026-11-13 03:44:20 | [ddd-utils-zcheng](https://pypi.org/project/ddd-utils-zcheng/) | 0.0.1 |  | 4.7 kB | 一个用于学习 Python 公共库构建和发布的示例工程 |
+| 2026-11-13 03:44:27 | [viva-mgen](https://pypi.org/project/viva-mgen/) | 0.1.0 | Eran Agmon <agmon.eran@gmail.… | 26.0 MB | Viva-native (process-bigraph) reproduction of the Karr et al. 2012 Mycoplasma g… |
+| 2026-11-13 03:45:30 | [joel](https://pypi.org/project/joel/) | 0.0.1 | Marcus Xavier <marcusxavierr1… | 2.1 kB | Your spoken English, every grammar mistake, the exact second you made it. |
+| 2026-11-13 03:48:29 | [cave-closure](https://pypi.org/project/cave-closure/) | 0.0.1 |  | 36.4 MB | Explicit covariance-weighted cave survey adjustment |
+| 2026-11-13 03:48:38 | [date-dimensions](https://pypi.org/project/date-dimensions/) | 0.2.0 |  | 13.5 kB | Extract date and time dimensions for analytics and Excel without pandas. |
+| 2026-11-13 03:52:21 | [olympiad-lab](https://pypi.org/project/olympiad-lab/) | 0.1.0 | olympiad-lab maintainers | 490.7 kB | Checkpoints for AI Olympiad training labs: sends evidence from a notebook to a… |
+| 2026-11-13 03:59:52 | [ErisPulse-OopzAdapter](https://pypi.org/project/ErisPulse-OopzAdapter/) | 0.1.0 | wsu2059 <wsu2059@qq.com> | 85.3 kB | ErisPulse的Oopz用户账号适配模块（非官方接口） |
+| 2026-11-13 04:04:22 | [conda-features](https://pypi.org/project/conda-features/) | 0.1.0 |  | 75.4 kB | Discover and configure optional features from installed conda plugins |
+| 2026-11-13 04:04:27 | [super-semantics-vsl](https://pypi.org/project/super-semantics-vsl/) | 0.3.1 |  | 186.1 kB | Framework-agnostic and model-agnostic VSL (VERBA Specification Language) govern… |
+| 2026-11-13 04:05:31 | [euporie-cvepatched](https://pypi.org/project/euporie-cvepatched/) | 2.10.4.post1 | Euporie CVE-Patched maintaine… | 1.5 MB | Euporie CVE-Patched: internal security-patched distribution of euporie (termina… |
+| 2026-11-13 04:06:11 | [bolts](https://pypi.org/project/bolts/) | 0.2.1 | Shibaji Chakraborty <chakras4… | 283.9 kB | BOLTS: Branching-unit and Optical-repeater power-feed Loop Transient Simulator.… |
+| 2026-11-13 04:07:18 | [ageha](https://pypi.org/project/ageha/) | 0.0.1 | Lev Wu | 79.9 kB | A Python toolkit. |
+| 2026-11-13 04:09:04 | [yt-digest](https://pypi.org/project/yt-digest/) | 0.1.0 | Anuk Imsara Opallage <anukim1… | 34.4 kB | Turn YouTube videos into structured study documents with summaries, transcripts… |
+| 2026-11-13 04:13:29 | [widespread-mcp](https://pypi.org/project/widespread-mcp/) | 0.1.1 |  | 20.9 kB | Local MCP server + CLI for Widespread verified-work bounties — client-held Ed25… |
+| 2026-11-13 04:13:56 | [metgeodock](https://pypi.org/project/metgeodock/) | 0.1.0 | Kai Wang | 155.9 kB | MetGeoDock: geometry-matching docking for metalloproteins (MetGeo FF, coordinat… |
+| 2026-11-13 04:14:21 | [altercord.py](https://pypi.org/project/altercord.py/) | 0.6.3 |  | 137.2 kB | altercord |
+| 2026-11-13 04:16:43 | [sah-qr-generator](https://pypi.org/project/sah-qr-generator/) | 1.0.0 |  | 20.6 kB | A customizable QR code generator with optional center icons. |
